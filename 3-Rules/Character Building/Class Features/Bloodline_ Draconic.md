@@ -6,43 +6,39 @@ tags:
   - trait/sorcerer
   - trait/common
   - category/classfeature
+  - remaster
 aliases: "Compendium.pf2e.classfeatures.Item.ZHabYxSgYK0XbjhM"
-license: OGL
+license: ORC
 ---
 # Bloodline: Draconic
 ## Feat 1
-### [[sorcerer]]
+### [[3-Rules/trait_reference/sorcerer]]
 
 **Category** classfeature; 
 
 
 
 
-The blood of dragons flows through your veins. These beasts are both fearsome in combat and skilled at magic
+The blood of dragons flows through your veins. These beasts are both fearsome in combat and skilled at magic.
 
-**Spell List** arcane
+**Tradition** variable (see Draconic Exemplars below)
 
-**Bloodline Skills** Arcana, Intimidation
+**Bloodline Skills** Intimidation and one other skill (see Draconic Exemplars below)
 
-**Granted Spells** cantrip [[Spells/Shield|Shield]], 1st: [[Spells/Sure Strike|Sure Strike]], 2nd: [[Spells/Resist Energy|Resist Energy]], 3rd: [[Spells/Haste|Haste]], 4th: [[Spells/Spell Immunity|Spell Immunity]], 5th: [[Spells/Chromatic Wall|Chromatic Wall]], 6th: [[Spells/Dragon Form|Dragon Form]], 7th: [[Spells/Mask of Terror|Mask of Terror]], 8th: [[Spells/Prismatic Wall|Prismatic Wall]], 9th: [[Spells/Overwhelming Presence|Overwhelming Presence]]
+**Sorcerous Gifts** cantrip: [[Spells/Shield|Shield]]; 1st: [[Spells/Fear|Fear]]; 2nd: see Draconic Exemplars below; 3rd: [[Spells/Haste|Haste]]; 4th: [[Spells/Fly|Fly]]; 5th: see Draconic Exemplars below; 6th: [[Spells/Dragon Form|Dragon Form]] (dragon must match your draconic exemplar); 7th: [[Spells/Mask of Terror|Mask of Terror]]; 8th: see Draconic Exemplars below; 9th: [[Spells/Overwhelming Presence|Overwhelming Presence]]
 
-**Bloodline Spells** initial: [[Spells/Dragon Claws|Dragon Claws]], advanced: [[Spells/Dragon Breath|Dragon Breath]], greater: [[Spells/Dragon Wings|Dragon Wings]]
+**Bloodline Spells** initial: [[Spells/Flurry of Claws|Flurry of Claws]]; advanced: [[Spells/Dragon Breath|Dragon Breath]]; greater: [[Spells/Dragon Wings|Dragon Wings]]
 
-**Blood Magic** Draconic scales grow briefly on you or one target, granting a +1 status bonus to AC for 1 round.
+**Blood Magic—Scaly Hide** Draconic scales grow briefly on you or one target, granting a +1 status bonus to AC for 1 round.
 
-[[Feat_Feature Effects/Effect_ Draconic Blood Magic|Effect: Draconic Blood Magic]]
+### Draconic Exemplars
 
-## Dragon Type
+At 1st level, choose the tradition related to the dragon exemplar who influenced your bloodline. You can't change your dragon exemplar later. As noted, this affects both your bloodline's features and your sorcerous gift spells.
 
-At 1st level, choose the type of dragon that influenced your bloodline. You can't change your dragon type later. This affects how some of your bloodline spells function.
+*   **Arcane—Tradition** arcane; **Bloodline Skill** Arcana; **Sorcerous Gifts** 2nd: [[Spells/Blazing Bolt|Blazing Bolt]]; 5th: [[Spells/Subconscious Suggestion|Subconscious Suggestion]]; 8th: [[Spells/Quandary|Quandary]]
+*   **Divine—Tradition** divine; **Bloodline Skill** Religion; **Sorcerous Gifts** 2nd: Augury; 5th: [[Spells/Divine Immolation|Divine Immolation]]; 8th: [[Spells/Divine Inspiration|Divine Inspiration]]
+*   **Occult—Tradition** occult; **Bloodline Skill** Occultism; **Sorcerous Gifts** 2nd: [[Spells/Blood Vendetta|Blood Vendetta]]; 5th: [[Spells/Slither|Slither]]; 8th: [[Spells/Unrelenting Observation|Unrelenting Observation]]
+*   **Primal—Tradition** primal; **Bloodline Skill** Nature; **Sorcerous Gifts** 2nd: [[Spells/Shatter|Shatter]]; 5th: [[Spells/Howling Blizzard|Howling Blizzard]]; 8th: [[Spells/Earthquake|Earthquake]]
 
-The good metallic dragons and their damage types are brass (fire), bronze (electricity), copper (acid), gold (fire), and silver (cold).
-
-The evil chromatic dragons and their damage types are black (acid), blue (electricity), green (poison), red (fire), and white (cold).
-
-## Related bloodline
-
-Because the wyrmblessed and draconic bloodlines have similar origins, they count the same as each other for the purposes of prerequisites and access requirements.
-
-*Source: Pathfinder Core Rulebook*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

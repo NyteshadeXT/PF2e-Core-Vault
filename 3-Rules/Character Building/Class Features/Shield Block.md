@@ -6,6 +6,7 @@ tags:
   - trait/champion
   - trait/druid
   - trait/fighter
+  - trait/inventor
   - trait/common
   - category/classfeature
   - remaster
@@ -14,7 +15,7 @@ license: ORC
 ---
 # Shield Block
 ## Feat 1
-### [[champion]][[druid]][[fighter]]
+### [[3-Rules/trait_reference/champion]][[3-Rules/trait_reference/druid]][[3-Rules/trait_reference/fighter]][[inventor]]
 
 **Category** classfeature; 
 

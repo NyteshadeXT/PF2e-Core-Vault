@@ -7,6 +7,7 @@ aliases: "Compendium.battlezoo-bestiary-su-pf2e.pf2e-battlezoo-su-actors.Actor.s
 tags:
   - pf2e/creature/type/fey
   - pf2e/creature/type/gremlin
+  - pf2eMonster
   - pf2e/creature/level/3
 statblock: inline
 name: "Bulbekken"
@@ -22,11 +23,11 @@ token: [[modules/battlezoo-bestiary-su-pf2e/art/Portraits/bulbekken.webp| ]]
 source: "Battlezoo Bestiary: Strange and Unusual"
 name: "Bulbekken"
 level: "Creature 3"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Medium"
-trait_01: "fey"
-trait_02: "gremlin"
+trait_01: [[fey]]
+trait_02: [[gremlin]]
 modifier: 6
 perception:
   - name: "Perception"
@@ -34,7 +35,7 @@ perception:
 languages: "Sakvroth"
 skills:
   - name: "Skills"
-    desc: "Athletics: +10, Intimidation: +7, "
+    desc: "Athletics: +10, Intimidation: +7, Athletics: +10, Intimidation: +7"
 abilityMods: [4, 0, 4, -1, 1, 1]
 speed: 25 feet
 sourcebook: "_Battlezoo Bestiary: Strange and Unusual_"
@@ -71,11 +72,17 @@ attacks:
     desc: "`pf2:1`  "
 
   - name: "[[Bestiary Ability Glossary/Swallow Whole|Swallow Whole]]"
-    desc: "`pf2:1` (attack) Tiny, 1d8 + 3 bludgeoning, Rupture 10\n"
+    desc: "`pf2:1` (attack) Tiny, 1d8+3 bludgeoning, Rupture 10\n\n* * *\n"
 
   - name: "Pack Attack"
     desc: "  A bulbekken deals 1d4 extra damage to any creature that's within reach of at least two of the bulbekken's allies."
  
+```
+
+```encounter-table
+name: Bulbekken
+creatures:
+  - 1: Bulbekken
 ```
 
 

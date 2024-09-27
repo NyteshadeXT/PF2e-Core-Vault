@@ -6,8 +6,9 @@ tags:
   - trait/swashbuckler
   - trait/common
   - category/class
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.NHheDmNB7L4REmlr"
-license: OGL
+license: ORC
 ---
 # Swaggering Initiative `pf2:0`
 ## Feat 4
@@ -22,7 +23,7 @@ license: OGL
 
 * * *
 
-You swagger readily into any fight-even an ambush. You gain a +2 circumstance bonus to your initiative roll and can [[Actions/Interact|Interact]] to draw a weapon.
+You swagger readily into any fight. You gain a +2 circumstance bonus to your initiative roll and can Interact to draw a weapon. If you are the first to act in combat, you gain [[Feat_Feature Effects/Effect_ Panache|Panache]].
 
-*Source: Pathfinder Advanced Player's Guide*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

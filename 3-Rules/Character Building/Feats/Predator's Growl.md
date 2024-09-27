@@ -6,8 +6,9 @@ tags:
   - trait/catfolk
   - trait/common
   - category/ancestry
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.WQa6PxkOgyvRpaaM"
-license: OGL
+license: ORC
 ---
 # Predator's Growl `pf2:r`
 ## Feat 9
@@ -19,11 +20,11 @@ license: OGL
 
 **Prerequisites** expert in Intimidation
 * * *
-**Trigger** You successfully [[Actions/Seek|Seek]] a hidden or undetected creature.
+**Trigger** You successfully [[Actions/Seek|Seek]] a [[Conditions/Hidden|Hidden]] or [[Conditions/Undetected|Undetected]] creature.
 
 * * *
 
 You give a throaty growl to attempt to [[Actions/Demoralize|Demoralize]] a creature you just found. You don't take the -4 penalty for not sharing a language with the creature.
 
-*Source: Pathfinder Lost Omens: Ancestry Guide*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

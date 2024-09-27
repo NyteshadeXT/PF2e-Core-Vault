@@ -6,8 +6,9 @@ tags:
   - trait/monk
   - trait/common
   - category/class
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.AfTMuAln2f0Pa3Lj"
-license: OGL
+license: ORC
 ---
 # Shadow's Web
 ## Feat 14
@@ -17,13 +18,9 @@ license: OGL
 
 
 
-**Prerequisites** ki spells
+**Prerequisites** Clinging Shadows Initiate
 * * *
-**Requirements** You are in [[Feats/Clinging Shadows Initiate|Clinging Shadows Initiate]].
+You can launch a wave of shadowy qi outward from your body, damaging your opponents and potentially binding them in place. You gain the [[Spells/Shadow's Web|Shadow's Web]] qi spell.
 
-* * *
-
-You launch a wave of shadowy ki outward from your body, damaging your opponents and potentially binding them in place. You gain the [[Spells/Shadow's Web|Shadow's Web]] ki spell. Increase the number of Focus Points in your focus pool by 1.
-
-*Source: Pathfinder Advanced Player's Guide*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

@@ -13,6 +13,7 @@ tags:
   - trait/ranger
   - trait/rogue
   - trait/swashbuckler
+  - trait/thaumaturge
   - trait/common
   - category/classfeature
   - remaster
@@ -21,7 +22,7 @@ license: ORC
 ---
 # Greater Weapon Specialization
 ## Feat 15
-### [[champion]][[fighter]][[gunslinger]][[inventor]][[investigator]][[magus]][[monk]][[ranger]][[rogue]][[swashbuckler]]
+### [[3-Rules/trait_reference/champion]][[3-Rules/trait_reference/fighter]][[gunslinger]][[inventor]][[investigator]][[magus]][[3-Rules/trait_reference/monk]][[3-Rules/trait_reference/ranger]][[3-Rules/trait_reference/rogue]][[swashbuckler]][[thaumaturge]]
 
 **Category** classfeature; 
 

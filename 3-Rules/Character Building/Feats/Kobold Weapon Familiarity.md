@@ -6,8 +6,9 @@ tags:
   - trait/kobold
   - trait/common
   - category/ancestry
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.OTjRxyCtwPoqNFP2"
-license: OGL
+license: ORC
 ---
 # Kobold Weapon Familiarity
 ## Feat 1
@@ -18,9 +19,9 @@ license: OGL
 
 
 
-You've trained with weapons ideal for subterranean efficiency. You are trained with the [[Equipment/Crossbow|Crossbow]], [[Equipment/Greatpick|Greatpick]], [[Equipment/Light Pick|Light Pick]], [[Equipment/Pick|Pick]], and [[Equipment/Spear|Spear]].
+You gain access to all uncommon weapons with the kobold trait. You have familiarity with weapons with the kobold trait plus the greatpick, light pick, and pick—for the purposes of proficiency, you treat any of these that are martial weapons as simple weapons and any that are advanced weapons as martial weapons.
 
-You also gain access to all uncommon kobold weapons. For the purpose of determining your proficiency, martial kobold weapons are simple weapons, and advanced kobold weapons are martial weapons.
+At 5th level, whenever you get a critical hit with one of these weapons, you get its critical specialization effect.
 
-*Source: Pathfinder Lost Omens: Ancestry Guide*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

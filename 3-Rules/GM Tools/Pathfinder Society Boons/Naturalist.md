@@ -16,18 +16,15 @@ license: OGL
 
 
 
-
-**\[Downtime\]**
-
-**Prerequisites** Tier 1 with the Verdant Wheel
-
-**Cost** 2 Fame
+**Prerequisites** Liked by Verdant Wheel
+* * *
+**Cost**: 4 AcP
 
 * * *
 
-**Effect** When you acquire this boon choose an alchemical item or potion of your level or lower to which you have access. While you have this boon slotted, you can spend Downtime to search for rare herbs and ingredients in order to craft up to a full batch of this item (typically 4). This uses the same rules as you would to Craft the item, with the following exceptions. First, you must use Nature, Survival, or Herbalism Lore in place of Crafting (such as to determine the progress you make and the maximum item level you can work on). Second, your faction provides you the necessary tools and workspace to perform this operation. Third, you only need to spend 2 days of Downtime before attempting your first skill check and subsequently beginning to reduce the item's effective cost. You must keep this boon slotted until you finish crafting the items.
+When you apply this boon, choose a common alchemical item or potion of your level or lower to which you have access. The Verdant Wheel has taught you how to craft this item far more efficiently and provided you with a source for the rare herbs and ingredients needed to make 1 batch (typically 4 copies of the item). Making the item with the Verdant Wheel's method uses the standard rules for Crafting the item, with the following exceptions. First, you must use Nature, Survival, or Herbalism Lore in place of Crafting for all purposes. Second, you only need to spend 2 days of Downtime before attempting your first skill check and subsequently beginning to reduce the item's effective cost.
 
-**Special** You can purchase this boon multiple times. Each time you do so, you select a different item.
+**Special**: You can purchase this boon multiple times. Each time you do so, you select a different item.
 
 *Source: *
 *OGL*

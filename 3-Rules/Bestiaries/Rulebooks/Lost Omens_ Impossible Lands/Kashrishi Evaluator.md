@@ -6,6 +6,7 @@ cssClasses: pf2e
 aliases: "Compendium.pf2e.lost-omens-impossible-lands-bestiary.Actor.fGZeQOarR6Im7Lnk" 
 tags:
   - pf2e/creature/type/lawful
+  - pf2eMonster
   - pf2e/creature/level/4
 statblock: inline
 name: "Kashrishi Evaluator"
@@ -20,10 +21,10 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Lost Omens: Impossible Lands"
 name: "Kashrishi Evaluator"
 level: "Creature 4"
-rare_03: "Rare"
+rare_03: [[Rare]]
 alignment: ""
 size: "Small"
-trait_01: "lawful"
+trait_01: [[lawful]]
 modifier: 13
 perception:
   - name: "Perception"
@@ -66,8 +67,14 @@ attacks:
     desc: "DC 21, attack +13; __2nd __ (3 slots) _[[Spells/Calm|Calm Emotions]]_, _[[Spells/Phantom Pain|Phantom Pain]]_, _[[Spells/Telekinetic Maneuver|Telekinetic Maneuver]]_; __1st __ (3 slots) _[[Spells/Mindlink|Mindlink]]_, _[[Spells/Phantom Pain|Phantom Pain]]_, _[[Spells/Soothe|Soothe]]_\n__Cantrips__  __(2nd)__ _[[Spells/Daze|Daze]]_, _[[Spells/Message|Message]]_, _[[Spells/Read Aura|Read Aura]]_, _[[Spells/Shield|Shield]]_, _[[Spells/Telekinetic Projectile|Telekinetic Projectile]]_"
 
   - name: "Evaluate Discordance"
-    desc: "`pf2:2` (emotion,mental,occult) **Frequency** once per day\n**Effect** The kashrishi evaluator assesses the disharmony between themself and a creature within 30 feet and then sparks the discordance, sending psychic energy to overwhelm the target's feelings. This deals 6d6 mental damage (DC 21 Will check). On a critical failure, the target also becomes [[Conditions/Stunned 1|Stunned 1]]."
+    desc: "`pf2:2` (emotion,mental,occult) **Frequency** once per day\n* * *\n\n**Effect** The kashrishi evaluator assesses the disharmony between themself and a creature within 30 feet and then sparks the discordance, sending psychic energy to overwhelm the target's feelings. This deals 6d6 mental damage (DC 21 Will check). On a critical failure, the target also becomes [[Conditions/Stunned|Stunned 1]]."
  
+```
+
+```encounter-table
+name: Kashrishi Evaluator
+creatures:
+  - 1: Kashrishi Evaluator
 ```
 
 

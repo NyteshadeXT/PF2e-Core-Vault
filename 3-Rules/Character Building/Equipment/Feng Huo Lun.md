@@ -18,7 +18,7 @@ license: OGL
 ---
 # Feng Huo Lun
 ## Item 0
-### [uncommon](uncommon "Uncommon Rarity Trait")[[agile]][[disarm]][[finesse]][[monk]][[parry]][[twin]][[versatile-p]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[3-Rules/Rule References/Agile]][[3-Rules/trait_reference/disarm]][[3-Rules/Rule References/Finesse]][[3-Rules/trait_reference/monk]][[parry]][[twin]][[versatile-p]]
 
 |  |  |
 | -- | -- |

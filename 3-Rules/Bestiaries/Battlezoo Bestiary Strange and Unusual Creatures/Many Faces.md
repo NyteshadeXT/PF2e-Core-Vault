@@ -7,6 +7,7 @@ aliases: "Compendium.battlezoo-bestiary-su-pf2e.pf2e-battlezoo-su-actors.Actor.N
 tags:
   - pf2e/creature/type/aberration
   - pf2e/creature/type/chaotic
+  - pf2eMonster
   - pf2e/creature/level/18
 statblock: inline
 name: "Many Faces"
@@ -22,18 +23,19 @@ token: [[modules/battlezoo-bestiary-su-pf2e/art/Portraits/many-faces.webp| ]]
 source: "Battlezoo Bestiary: Strange and Unusual"
 name: "Many Faces"
 level: "Creature 18"
-rare_03: "Rare"
+rare_03: [[Rare]]
 alignment: ""
 size: "Medium"
-trait_01: "aberration"
-trait_02: "chaotic"
+trait_01: [[aberration]]
+trait_02: [[chaotic]]
 modifier: 30
 perception:
   - name: "Perception"
     desc: "+30; "
+languages: "tongues"
 skills:
   - name: "Skills"
-    desc: "Athletics: +35, Deception: +38, Stealth: +35, "
+    desc: "Athletics: +35, Deception: +38, Stealth: +35, Athletics: +35, Deception: +38, Stealth: +35"
 abilityMods: [5, 9, 3, 6, 4, 10]
 speed: 25 feet
 sourcebook: "_Battlezoo Bestiary: Strange and Unusual_"
@@ -52,7 +54,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Telepathic Aura"
-    desc: " (aura,divine,mental) 20 feet. The many faces constantly plucks subconscious thoughts from those around it within the range of its telepathic aura, allowing it to use its Familiar Face ability, but also leaving its mind more open to psychic assault. When the many faces takes mental damage while its telepathic aura is active, the many faces must succeed at a DC 40 Will check save or be Stunned 1 (or Stunned 2 on a critical failure). If a spell or effect causes the many faces's telepathic aura to be suppressed, the many faces also no longer possesses the weakness to mental damage for the duration of the spell or effect. The Many Faces can suppress this aura for a round as a single action, which has the concentrate and manipulate traits, but the aura returns automatically at the start of its next turn."
+    desc: " (aura,divine,mental) 20 feet. The many faces constantly plucks subconscious thoughts from those around it within the range of its telepathic aura, allowing it to use its Familiar Face ability, but also leaving its mind more open to psychic assault. When the many faces takes mental damage while its telepathic aura is active, the many faces must succeed at a DC 40 Will check save or be [[undefined]] (or [[undefined]] on a critical failure). If a spell or effect causes the many faces's telepathic aura to be suppressed, the many faces also no longer possesses the weakness to mental damage for the duration of the spell or effect. The Many Faces can suppress this aura for a round as a single action, which has the concentrate and manipulate traits, but the aura returns automatically at the start of its next turn."
 
 attacks:
   - name: ""
@@ -60,7 +62,7 @@ attacks:
   - name: "Melee"
     desc: "`pf2:1` Rending Claw +35 (finesse)\n__Damage__  3d12 + 13 slashing"
 
-  - name: "Melee"
+  - name: "Ranged"
     desc: "`pf2:1` Shifted Glob +35 (range increment 60 feet)\n__Damage__  3d8 + 13 piercing"
 
   - name: "Divine Innate Spells"
@@ -70,14 +72,20 @@ attacks:
     desc: "`pf2:1` (concentrate,divine,polymorph) A many faces can transform into any Large or smaller humanoid form, even a specific creature. This doesn't change its abilities or statistics, but it might change the type of its Strike damage to match the new form."
 
   - name: "Familiar Face"
-    desc: "`pf2:1` (concentrate,divine,emotion,fear,mental,visual) The many faces plucks a face from the subconscious mind of one target within its telepathic aura and alters its form to match this face. The target must attempt a DC 40 Will check saving throw. The many faces can dismiss this face by using this ability again to choose a new target, or revert to its true form as a single action, which has the concentrate trait. If the many faces changes to a new face while a target who failed their save is still suffering from the frightened condition from Familiar Face, the frightened condition ends early.\n**Critical Success** The many faces accidentally chooses a face the target hates. The target gains a +1 status bonus to attack rolls against the many faces until it dismisses or changes faces.\n**Success** The target is unaffected.\n**Failure** The target is Frightened 2.\n**Critical Failure** The target is Frightened 3 and Off-Guard to the Many Faces as long as they are frightened."
+    desc: "`pf2:1` (concentrate,divine,emotion,fear,mental,visual) The many faces plucks a face from the subconscious mind of one target within its telepathic aura and alters its form to match this face. The target must attempt a DC 40 Will check saving throw. The many faces can dismiss this face by using this ability again to choose a new target, or revert to its true form as a single action, which has the concentrate trait. If the many faces changes to a new face while a target who failed their save is still suffering from the frightened condition from Familiar Face, the frightened condition ends early.\n* * *\n\n**Critical Success** The many faces accidentally chooses a face the target hates. The target gains a +1 status bonus to attack rolls against the many faces until it dismisses or changes faces.\n\n**Success** The target is unaffected.\n\n**Failure** The target is [[undefined]].\n\n**Critical Failure** The target is [[undefined]] and [[undefined]] to the Many Faces as long as they are frightened."
 
   - name: "[[Bestiary Ability Glossary/Sneak Attack|Sneak Attack]]"
     desc: "  The many faces's Strikes deal an additional 2d6 precision damage to off-guard creatures."
 
   - name: "Trickster's Feint"
-    desc: "`pf2:1` (concentrate,mental,visual) **Frequency** once per round\n**Effect** The Many Faces is highly adept at deception, and uses it to great effect in combat. The Many Faces rolls a single Deception check to Feint, and compares it to the Perception DC of all enemies within 20 feet."
+    desc: "`pf2:1` (concentrate,mental,visual) **Frequency** once per round\n* * *\n\n**Effect** The Many Faces is highly adept at deception, and uses it to great effect in combat. The Many Faces rolls a single Deception check to [[undefined]], and compares it to the Perception DC of all enemies within 20 feet."
  
+```
+
+```encounter-table
+name: Many Faces
+creatures:
+  - 1: Many Faces
 ```
 
 

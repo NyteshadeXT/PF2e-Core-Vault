@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.pfs-season-1-bestiary.Actor.yn7x4Me1YrPuXFZf"
 tags:
   - pf2e/creature/type/animal
   - pf2e/creature/type/evil
+  - pf2eMonster
   - pf2e/creature/level/3
 statblock: inline
 name: "Keff The Lion (1-2)"
@@ -24,12 +25,13 @@ level: "Creature 3"
 
 alignment: ""
 size: "Large"
-trait_01: "animal"
-trait_02: "evil"
+trait_01: [[animal]]
+trait_02: [[evil]]
 modifier: 9
 perception:
   - name: "Perception"
     desc: "+9; Low-Light Vision, Scent (Imprecise) 30 Feet"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Acrobatics: +8, Arcana: +7, Athletics: +11, Diplomacy: +7, Stealth: +10"
@@ -74,6 +76,12 @@ attacks:
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
     desc: "`pf2:1`  "
  
+```
+
+```encounter-table
+name: Keff The Lion (1-2)
+creatures:
+  - 1: Keff The Lion (1-2)
 ```
 
 

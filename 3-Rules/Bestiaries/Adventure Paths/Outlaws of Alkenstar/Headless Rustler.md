@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/lawful
   - pf2e/creature/type/undead
   - pf2e/creature/type/unholy
+  - pf2eMonster
   - pf2e/creature/level/7
 statblock: inline
 name: "Headless Rustler"
@@ -23,13 +24,13 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #180: The Smoking Gun"
 name: "Headless Rustler"
 level: "Creature 7"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Medium"
-trait_01: "evil"
-trait_02: "lawful"
-trait_03: "undead"
-trait_04: "unholy"
+trait_01: [[evil]]
+trait_02: [[lawful]]
+trait_03: [[undead]]
+trait_04: [[unholy]]
 modifier: 14
 perception:
   - name: "Perception"
@@ -60,7 +61,7 @@ abilities_mid:
     desc: "`pf2:r`  "
 
   - name: "[[Bestiary Ability Glossary/Frightful Presence|Frightful Presence]]"
-    desc: " (aura,emotion,fear,mental) 30 feet. DC 23 Will check\n"
+    desc: " (aura,emotion,fear,mental) 30 feet. DC 23 Will check\n\n* * *\n"
 
 attacks:
   - name: ""
@@ -87,8 +88,14 @@ attacks:
     desc: "`pf2:2` (occult) The dullahan summons a [[Bestiary 1/War Horse|War Horse]] with elite adjustments and the fiend trait. This steed remains until it is slain, the dullahan Dismisses it, or the dullahan summons another steed."
 
   - name: "Throw Skull"
-    desc: "`pf2:2` (manipulate) **Frequency** once (until a new clockwork skull is crafted)\n**Effect** The headless rustler throws its clockwork skull at a target within 30 feet. The skull explodes, dealing 8d6 fire damage to creatures in a 15-foot radius (DC 23 Reflex check)."
+    desc: "`pf2:2` (manipulate) **Frequency** once (until a new clockwork skull is crafted)\n* * *\n\n**Effect** The headless rustler throws its clockwork skull at a target within 30 feet. The skull explodes, dealing 8d6 fire damage to creatures in a 15-foot radius (DC 23 Reflex check)."
  
+```
+
+```encounter-table
+name: Headless Rustler
+creatures:
+  - 1: Headless Rustler
 ```
 
 

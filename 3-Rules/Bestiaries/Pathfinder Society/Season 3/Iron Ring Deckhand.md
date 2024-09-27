@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/goblin
   - pf2e/creature/type/humanoid
   - pf2e/creature/type/lawful
+  - pf2eMonster
   - pf2e/creature/level/-1
 statblock: inline
 name: "Iron Ring Deckhand"
@@ -23,13 +24,13 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Society Scenario #3-08: Foundation&#x27;s Price"
 name: "Iron Ring Deckhand"
 level: "Creature -1"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Medium"
-trait_01: "evil"
-trait_02: "goblin"
-trait_03: "humanoid"
-trait_04: "lawful"
+trait_01: [[evil]]
+trait_02: [[goblin]]
+trait_03: [[humanoid]]
+trait_04: [[lawful]]
 modifier: 2
 perception:
   - name: "Perception"
@@ -66,11 +67,17 @@ attacks:
     desc: "`pf2:1` Bottle +5 (agile, thrown 20 ft.)\n__Damage__  1d6 + 1 bludgeoning"
 
   - name: "Heft Crate"
-    desc: "`pf2:2` (manipulate) **Requirements** The deckhand is adjacent to a crate\n**Effect** The deckhand picks up a crate and heaves it up to 15 feet. Upon landing, the crate breaks open in a 5-foot burst. Each creature within the area takes 2d4 bludgeoning damage (DC 13 Reflex check save), and the area becomes difficult terrain until cleared."
+    desc: "`pf2:2` (manipulate) **Requirements** The deckhand is adjacent to a crate\n* * *\n\n**Effect** The deckhand picks up a crate and heaves it up to 15 feet. Upon landing, the crate breaks open in a @Template[burst|distance:5]. Each creature within the area takes 2d4 bludgeoning damage (DC 13 Reflex check save), and the area becomes difficult terrain until cleared."
 
   - name: "Swig"
-    desc: "`pf2:2` (manipulate) The dockhand Interacts to either draw a bottle of [[Equipment/Alcohol|Alcohol]] or pick up a nearby unattended bottle of alcohol and drink the whole thing.\nFor 1 minute, the dockhand gains a +2 item bonus to melee damage rolls and saving throws against fear, but they become [[Conditions/Clumsy 1|Clumsy 1]]."
+    desc: "`pf2:2` (manipulate) The dockhand Interacts to either draw a bottle of [[Equipment/Alcohol|Alcohol]] or pick up a nearby unattended bottle of alcohol and drink the whole thing.\n\nFor 1 minute, the dockhand gains a +2 item bonus to melee damage rolls and saving throws against fear, but they become [[Conditions/Clumsy|Clumsy 1]]."
  
+```
+
+```encounter-table
+name: Iron Ring Deckhand
+creatures:
+  - 1: Iron Ring Deckhand
 ```
 
 

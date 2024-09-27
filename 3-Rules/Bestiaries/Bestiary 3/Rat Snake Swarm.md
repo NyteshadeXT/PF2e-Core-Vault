@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.pathfinder-bestiary-3.Actor.60bknqrpHs2lL4pt"
 tags:
   - pf2e/creature/type/animal
   - pf2e/creature/type/swarm
+  - pf2eMonster
   - pf2e/creature/level/2
 statblock: inline
 name: "Rat Snake Swarm"
@@ -25,12 +26,13 @@ level: "Creature 2"
 
 alignment: ""
 size: "Large"
-trait_01: "animal"
-trait_02: "swarm"
+trait_01: [[animal]]
+trait_02: [[swarm]]
 modifier: 8
 perception:
   - name: "Perception"
     desc: "+8; Low-Light Vision, Scent (Imprecise) 30 Feet"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Acrobatics: +10, Stealth: +8"
@@ -52,7 +54,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Mass Wriggle"
-    desc: "`pf2:r`  **Trigger** The rat snake swarm takes damage from a melee Strike\n**Effect** Snakes slither up and around the creature's weapon and limbs. The target must succeed at a DC 15 Will check save or become [[Conditions/Frightened 1|Frightened 1]]."
+    desc: "`pf2:r`  **Trigger** The rat snake swarm takes damage from a melee Strike\n* * *\n\n**Effect** Snakes slither up and around the creature's weapon and limbs. The target must succeed at a DC 15 Will check save or become [[Conditions/Frightened|Frightened 1]]."
 
 attacks:
   - name: ""
@@ -60,6 +62,12 @@ attacks:
   - name: "Swarming Strikes"
     desc: "`pf2:1`  Each enemy in the swarm's space takes 1d8 piercing damage (DC 17 Reflex check save)."
  
+```
+
+```encounter-table
+name: Rat Snake Swarm
+creatures:
+  - 1: Rat Snake Swarm
 ```
 
 

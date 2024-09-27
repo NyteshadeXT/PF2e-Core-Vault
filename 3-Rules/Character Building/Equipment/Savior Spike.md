@@ -24,7 +24,7 @@ license: ORC
 
 **Activate** `pf2:0` (concentrate)
 
-**Trigger** You attempt to Grab an Edge but haven't rolled
+**Trigger** You attempt to [[Actions/Grab an Edge|Grab an Edge]] but haven't rolled
 
 * * *
 

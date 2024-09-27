@@ -10,7 +10,7 @@ license: OGL
 ---
 # Astrolabe of the Falling Stars
 ## Item 5
-### [uncommon](uncommon "Uncommon Rarity Trait")[[magical]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[3-Rules/Rule References/Magical]]
 
 
 **Price** 50 gp; 
@@ -25,7 +25,7 @@ This astrolabe is fashioned of magically attuned platinum plates and rings and i
 
 * * *
 
-**Effect** With a flick of your finger, you set the astrolabe's rule spinning, causing the inset rubies to become a blur. Choose a point within 100 feet. The astrolabe of falling stars calls down a brief rain of meteorites in a 10-foot burst centered on that point, dealing 1d8 bludgeoning and 1d8 fire damage to creatures in the area (DC 19 Reflex check).
+**Effect** With a flick of your finger, you set the astrolabe's rule spinning, causing the inset rubies to become a blur. Choose a point within 100 feet. The astrolabe of falling stars calls down a brief rain of meteorites in a @Template\[burst|distance:10\] centered on that point, dealing 1d8 bludgeoning and 1d8 fire damage to creatures in the area (DC 19 Reflex check).
 
 *Source: Pathfinder #188: They Watched the Stars*
 *OGL*

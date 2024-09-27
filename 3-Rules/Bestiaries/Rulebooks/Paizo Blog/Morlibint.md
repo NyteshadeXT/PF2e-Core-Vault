@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/human
   - pf2e/creature/type/humanoid
   - pf2e/creature/type/lawful
+  - pf2eMonster
   - pf2e/creature/level/4
 statblock: inline
 name: "Morlibint"
@@ -22,12 +23,12 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Blog"
 name: "Morlibint"
 level: "Creature 4"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Medium"
-trait_01: "human"
-trait_02: "humanoid"
-trait_03: "lawful"
+trait_01: [[human]]
+trait_02: [[humanoid]]
+trait_03: [[lawful]]
 modifier: 7
 perception:
   - name: "Perception"
@@ -35,7 +36,7 @@ perception:
 languages: "Aklo, Common, Draconic, Elven, Fey, Sakvroth"
 skills:
   - name: "Skills"
-    desc: "Academia Lore: +8, Arcana: +12, Crafting: +10, Diplomacy: +8, Medicine: +7, Nature: +7, Occultism: +10, Performance: +8, Religion: +7, Society: +10"
+    desc: "Arcana: +12, Crafting: +10, Diplomacy: +8, Medicine: +7, Nature: +7, Occultism: +10, Performance: +8, Religion: +7, Society: +10, Academia Lore: +8"
 abilityMods: [0, 1, 1, 4, 1, 2]
 speed: 25 feet
 sourcebook: "_Pathfinder Blog_"
@@ -70,8 +71,14 @@ attacks:
     desc: "`pf2:1` (concentrate,teleportation) Morlibint teleports his scholarly journal into his hand from up to 1 mile away."
 
   - name: "Drain Bonded Item"
-    desc: " (arcane) **Frequency** twice per day\n**Requirements** Morlibint hasn't acted yet on his turn\n**Effect** Morlibint draws some of the power in his scholarly journal. He gains the ability to cast one spell he prepared today and already cast, without spending a spell slot. He must still Cast the Spell and meet the spell's other requirements."
+    desc: " (arcane) **Frequency** twice per day\n\n**Requirements** Morlibint hasn't acted yet on his turn\n* * *\n\n**Effect** Morlibint draws some of the power in his scholarly journal. He gains the ability to cast one spell he prepared today and already cast, without spending a spell slot. He must still Cast the Spell and meet the spell's other requirements."
  
+```
+
+```encounter-table
+name: Morlibint
+creatures:
+  - 1: Morlibint
 ```
 
 

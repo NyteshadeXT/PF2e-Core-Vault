@@ -14,7 +14,7 @@ license: OGL
 ---
 # Tidal Shield `pf2:2`
 ## Feat 17
-### [[concentrate]][[primal]][[undine]][[3-Rules/Rule References/Water]]
+### [[concentrate]][[primal]][[undine]][[water]]
 
 **Category** ancestry; 
 

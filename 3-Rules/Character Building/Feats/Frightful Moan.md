@@ -28,13 +28,13 @@ license: OGL
 
 * * *
 
-You lament your fate, forcing each living creature in a 30-foot emanation to attempt a Will check save against your class DC or spell DC, whichever is higher.
+You lament your fate, forcing each living creature in a @Template\[emanation|distance:30\] to attempt a Will check save against your class DC or spell DC, whichever is higher.
 
 **Success** The creature is unaffected and temporarily immune to Frightful Moans for 1 minute.
 
-**Failure** The creature is [[Conditions/Frightened 1|Frightened 1]].
+**Failure** The creature is [[Conditions/Frightened|Frightened 1]].
 
-**Critical Failure** The creature is [[Conditions/Frightened 1|Frightened 2]].
+**Critical Failure** The creature is [[Conditions/Frightened|Frightened 2]].
 
 *Source: Pathfinder Book of the Dead*
 *OGL*

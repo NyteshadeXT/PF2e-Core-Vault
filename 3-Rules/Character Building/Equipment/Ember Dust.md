@@ -13,7 +13,7 @@ license: OGL
 ---
 # Ember Dust
 ## Item 2
-### [uncommon](uncommon "Uncommon Rarity Trait")[[consumable]][[3-Rules/Rule References/Fire]][[magical]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[consumable]][[3-Rules/Rule References/Fire]][[3-Rules/Rule References/Magical]]
 
 **Category** other; 
 **Price** 6 gp; 

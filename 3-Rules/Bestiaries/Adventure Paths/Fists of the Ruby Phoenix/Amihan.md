@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.fists-of-the-ruby-phoenix-bestiary.Actor.koRKlywSbwtti
 tags:
   - pf2e/creature/type/human
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/15
 statblock: inline
 name: "Amihan"
@@ -21,16 +22,16 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #167: Ready? Fight!"
 name: "Amihan"
 level: "Creature 15"
-rare_03: "Rare"
+rare_03: [[Rare]]
 alignment: ""
 size: "Medium"
-trait_01: "human"
-trait_02: "humanoid"
+trait_01: [[human]]
+trait_02: [[humanoid]]
 modifier: 21
 perception:
   - name: "Perception"
     desc: "+21; "
-languages: "Minaten, Tien"
+languages: "Minaten, Tien; wayang"
 skills:
   - name: "Skills"
     desc: "Acrobatics: +30, Athletics: +27, Intimidation: +28, Performance: +32"
@@ -77,8 +78,14 @@ attacks:
     desc: "`pf2:1`  The battle dancer Raises a Shield, then [[Actions/Demoralize|Demoralizes]]."
 
   - name: "Threatening Dance"
-    desc: "`pf2:1`  The battle dancer either Steps and then [[Actions/Perform|Performs]] , or Performs and then Steps. Compare the Performance result to the Will DC of one creature in the battle dancer's reach.\n**Critical Success** The creature is [[Conditions/Off-Guard|Off-Guard]] to all attacks until the start of the battle dancer's next turn.\n**Success** The creature is off-guard to the next attack by a creature other than the battle dancer before the start of the battle dancer's next turn."
+    desc: "`pf2:1`  The battle dancer either Steps and then [[Actions/Perform|Performs]], or Performs and then Steps. Compare the Performance result to the Will DC of one creature in the battle dancer's reach.\n* * *\n\n**Critical Success** The creature is [[Conditions/Off-Guard|Off-Guard]] to all attacks until the start of the battle dancer's next turn.\n\n**Success** The creature is off-guard to the next attack by a creature other than the battle dancer before the start of the battle dancer's next turn."
  
+```
+
+```encounter-table
+name: Amihan
+creatures:
+  - 1: Amihan
 ```
 
 

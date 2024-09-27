@@ -74,6 +74,8 @@ Altava, Anavachti, Strings-On-The-River Inkeelah, Kerialnamu, Maracha, Leaves-Sh
 
 ## Anadi Heritages
 
+Anadi are well-suited to survive in the wild, having developed diverse heritages even before the widespread use of transformation magic. Choose one of the following anadi heritages at 1st level.
+
 [[Heritages/Adaptive Anadi|Adaptive Anadi]]
 
 [[Heritages/Polychromatic Anadi|Polychromatic Anadi]]

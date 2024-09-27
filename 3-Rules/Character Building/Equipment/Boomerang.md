@@ -13,7 +13,7 @@ license: OGL
 ---
 # Boomerang
 ## Item 0
-### [uncommon](uncommon "Uncommon Rarity Trait")[[recovery]][[thrown]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[recovery]][[thrown]]
 
 |  |  |
 | -- | -- |

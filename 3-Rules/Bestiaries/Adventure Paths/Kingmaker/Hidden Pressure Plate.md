@@ -5,6 +5,7 @@ noteType: pf2eHazard
 tags:
   - mechanical
   - trap
+  - pf2eHazard
 
 source: Pathfinder Kingmaker
 aliases: "Compendium.pf2e.kingmaker-bestiary.Actor.TOW9azHYIoaNSavI" 
@@ -22,8 +23,8 @@ name: "Hidden Pressure Plate"
 level: "Hazard 5"
 
 
-trait_01: "mechanical"
-trait_02: "trap"
+trait_01: [[mechanical]]
+trait_02: [[trap]]
 modifier: 16
 sourcebook: "_Pathfinder Kingmaker_"
 perception:
@@ -42,9 +43,15 @@ attacks:
   - name: ""
 
   - name: "Open Doors"
-    desc: "`pf2:r` **Trigger** A creature steps onto the pressure plate\n**Effect** The doors to the four **C2a** rooms open, allowing the goblin bat-dogs to roll Stealth for initiative instead of Perception."
+    desc: "`pf2:r` **Trigger** A creature steps onto the pressure plate\n\n**Effect** The doors to the four **C2a** rooms open, allowing the goblin bat-dogs to roll Stealth for initiative instead of Perception."
 
 
 
+```
+
+```encounter-table
+name: Hidden Pressure Plate
+creatures:
+  - 1: Hidden Pressure Plate
 ```
 

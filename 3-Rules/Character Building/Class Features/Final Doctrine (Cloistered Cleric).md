@@ -12,7 +12,7 @@ license: ORC
 ---
 # Final Doctrine (Cloistered Cleric)
 ## Feat 19
-### [[cleric]]
+### [[3-Rules/trait_reference/cleric]]
 
 **Category** classfeature; 
 

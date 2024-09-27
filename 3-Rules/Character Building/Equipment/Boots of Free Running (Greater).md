@@ -11,10 +11,10 @@ license: OGL
 ---
 # Boots of Free Running (Greater)
 ## Item 17
-### [uncommon](uncommon "Uncommon Rarity Trait")[[invested]][[magical]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[invested]][[3-Rules/Rule References/Magical]]
 
 
-**Price** 1350 gp; 
+**Price** 13500 gp; 
 **Bulk** 1; **Size** med
 **Usage** wornshoes
 

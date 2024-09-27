@@ -1,27 +1,26 @@
 ---
 obsidianUIMode: preview
-title: "Instrument Of Slaughter"
+title: "Instrument of Slaughter"
 cssclasses: pf2e,pf2e-spell
 tags:
   - trait/champion
-  - trait/uncommon
+  - trait/common
   - category/class
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.i98NcWSAbWmNmBik"
-license: OGL
+license: ORC
 ---
-# Instrument Of Slaughter
+# Instrument of Slaughter
 ## Feat 16
-### [uncommon](uncommon "Uncommon Rarity Trait")[[champion]]
+### [[champion]]
 
 **Category** class; 
 
 
 
-**Prerequisites** divine ally (blade); tenets of evil
+**Prerequisites** champion's reaction that grants extra damage with your Strikes (including the desecration, iniquity, and obedience causes)
 * * *
-Your blade ally thirsts for the blood of your foes.
+Your blessed armament thirsts for the blood of your foes. Whenever you critically hit an enemy with a Strike that has the extra damage from your champion's reaction, the target also takes persistent bleed damage equal to two of the weapon's damage dice.
 
-Whenever you critically hit an enemy with the weapon inhabited by your blade ally while dealing extra damage from your champion's reaction, the target takes [[Conditions/Persistent Damage|Persistent Bleed Damage]] equal to two of the weapon's damage dice.
-
-*Source: Pathfinder Advanced Player's Guide*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

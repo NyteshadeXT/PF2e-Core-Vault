@@ -11,7 +11,7 @@ license: OGL
 ---
 # Defend Life `pf2:r`
 
-### [[concentrate]]
+### [[3-Rules/Rule References/Concentrate]]
 
 **Category** interaction; 
 

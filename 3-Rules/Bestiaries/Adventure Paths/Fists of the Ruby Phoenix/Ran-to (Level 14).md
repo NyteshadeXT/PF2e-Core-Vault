@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/goblin
   - pf2e/creature/type/humanoid
   - pf2e/creature/type/lawful
+  - pf2eMonster
   - pf2e/creature/level/14
 statblock: inline
 name: "Ran-to (Level 14)"
@@ -23,13 +24,13 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #166: Despair on Danger Island"
 name: "Ran-to (Level 14)"
 level: "Creature 14"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Small"
-trait_01: "evil"
-trait_02: "goblin"
-trait_03: "humanoid"
-trait_04: "lawful"
+trait_01: [[evil]]
+trait_02: [[goblin]]
+trait_03: [[humanoid]]
+trait_04: [[lawful]]
 modifier: 20
 perception:
   - name: "Perception"
@@ -57,7 +58,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "[[Bestiary Ability Glossary/Attack of Opportunity|Attack of Opportunity (Special)]]"
-    desc: "`pf2:r`  When a creature triggers Ran-to's Attack of Opportunity, he can attempt an Athletics check to [[Actions/Grapple|Grapple]] the triggering creature instead of making a melee Strike. He can still disrupt a triggering manipulate action if he critically succeeds his attempt.\n"
+    desc: "`pf2:r`  When a creature triggers Ran-to's Attack of Opportunity, he can attempt an Athletics check to [[Actions/Grapple|Grapple]] the triggering creature instead of making a melee Strike. He can still disrupt a triggering manipulate action if he critically succeeds his attempt.\n\n* * *\n"
 
 attacks:
   - name: ""
@@ -69,7 +70,7 @@ attacks:
     desc: "`pf2:1` Halfling Sling Staff +28 (magical, propulsive, range increment 80 feet, reload 1)\n__Damage__  3d10 + 10 bludgeoning"
 
   - name: "Body Slam"
-    desc: "`pf2:1`  **Requirements** Ran-to has a creature grabbed.\n**Effect** Ran-to throws his foe against the ground. The grabbed creature takes 8d6 bludgeoning damage and is knocked [[Conditions/Prone|Prone]]. The grapple ends."
+    desc: "`pf2:1`  **Requirements** Ran-to has a creature grabbed.\n* * *\n\n**Effect** Ran-to throws his foe against the ground. The grabbed creature takes 8d6 bludgeoning damage and is knocked [[Conditions/Prone|Prone]]. The grapple ends."
 
   - name: "Leaping Catch"
     desc: "`pf2:2`  Ran-to makes a mighty leap and attempts to Grab a foe while he soars. He makes a [[Actions/Leap|Leap]], [[Actions/High Jump|High Jump]], or [[Actions/Long Jump|Long Jump]]. His maximum distance is 40 feet. He must succeed at an Athletics check to perform the leap as usual, but regardless of the type of leap, the DC is equal to the number of feet he moves in the air. Ran-to can attempt an Athletics check to [[Actions/Grapple|Grapple]] at any point during the jump. Immediately after the attempt, he (and the creature, if the Grapple was successful) falls to the ground. Neither creature takes damage from this fall."
@@ -78,8 +79,14 @@ attacks:
     desc: "  Ran-to can attempt to [[Actions/Disarm|Disarm]], [[Actions/Grapple|Grapple]], [[Actions/Shove|Shove]], or [[Actions/Trip|Trip]] creatures up to two sizes larger than him."
 
   - name: "Whirlwind Toss"
-    desc: "`pf2:3`  **Frequency** once per round\n**Requirements** Ran-to has a creature [[Conditions/Grabbed|Grabbed]]\n**Effect** Ran-to spins the creature he's holding, smashing them against any creatures within his reach, and then throws the creature aside. Ran-to attempts an Athletics check check against the grabbed creature's Fortitude DC.\n**Critical Success** Ran-to tosses his foe a great distance. The grab ends. The grabbed creature is thrown into a space within 10 feet, takes 10d6 bludgeoning damage, and falls [[Conditions/Prone|Prone]]. All creatures adjacent to Ran-to take the same amount of bludgeoning damage (DC 34 Reflex check save).\n**Success** As critical success, except the grabbed creatures is thrown into a space within 5 feet, and creatures take 6d6 bludgeoning damage.\n**Failure** Ran-to tosses his foe aside. The grab ends. The grabbed creature falls prone.\n**Critical Failure** Ran-to loses hold of his foe, causing the grapple to end."
+    desc: "`pf2:3`  **Frequency** once per round\n\n**Requirements** Ran-to has a creature [[Conditions/Grabbed|Grabbed]]\n* * *\n\n**Effect** Ran-to spins the creature he's holding, smashing them against any creatures within his reach, and then throws the creature aside. Ran-to attempts an Athletics check check against the grabbed creature's Fortitude DC.\n* * *\n\n**Critical Success** Ran-to tosses his foe a great distance. The grab ends. The grabbed creature is thrown into a space within 10 feet, takes 10d6 bludgeoning damage, and falls [[Conditions/Prone|Prone]]. All creatures adjacent to Ran-to take the same amount of bludgeoning damage (DC 34 Reflex check save).\n\n**Success** As critical success, except the grabbed creatures is thrown into a space within 5 feet, and creatures take 6d6 bludgeoning damage.\n\n**Failure** Ran-to tosses his foe aside. The grab ends. The grabbed creature falls prone.\n\n**Critical Failure** Ran-to loses hold of his foe, causing the grapple to end."
  
+```
+
+```encounter-table
+name: Ran-to (Level 14)
+creatures:
+  - 1: Ran-to (Level 14)
 ```
 
 

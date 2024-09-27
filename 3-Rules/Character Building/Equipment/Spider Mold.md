@@ -35,9 +35,9 @@ This gray mold can be found growing on the remains of venomous arachnids - parti
 
 * * *
 
-**Stage 1** [[Conditions/Slowed 1|Slowed 1]] (1 round)
+**Stage 1** [[Conditions/Slowed|Slowed 1]] (1 round)
 
-**Stage 2** [[Conditions/Slowed 1|Slowed 2]] and [[Conditions/Stupefied 1|Stupefied 1]] (1 round)
+**Stage 2** [[Conditions/Slowed|Slowed 2]] and [[Conditions/Stupefied|Stupefied 1]] (1 round)
 
 **Stage 3** [[Conditions/Paralyzed|Paralyzed]] and Stupefied 1 (1 round)
 

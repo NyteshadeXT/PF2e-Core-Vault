@@ -12,7 +12,7 @@ license: OGL
 ---
 # Discover
 
-### [[concentrate]][[secret]]
+### [[3-Rules/Rule References/Concentrate]][[secret]]
 
 **Category** interaction; 
 

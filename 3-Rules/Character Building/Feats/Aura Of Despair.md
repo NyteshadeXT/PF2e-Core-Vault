@@ -1,15 +1,16 @@
 ---
 obsidianUIMode: preview
-title: "Aura Of Despair"
+title: "Aura of Despair"
 cssclasses: pf2e,pf2e-spell
 tags:
   - trait/champion
   - trait/uncommon
   - category/class
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.wjnfdh6WzN7HbmeE"
-license: OGL
+license: ORC
 ---
-# Aura Of Despair
+# Aura of Despair
 ## Feat 4
 ### [uncommon](uncommon "Uncommon Rarity Trait")[[champion]]
 
@@ -17,13 +18,11 @@ license: OGL
 
 
 
-**Prerequisites** tenets of evil
+**Prerequisites** champion's aura; unholy
 * * *
-Your presence as an avatar of evil makes your foes more susceptible to terror and makes it almost impossible for them to shake off fear when you are near.
-
-Enemies within 15 feet of you take a -1 circumstance penalty to saving throws against fear. In addition, an enemy that ends its turn within 15 feet of you can't reduce the value of its [[Conditions/Frightened 1|Frightened]] condition below 1.
+Your presence as an avatar of evil makes your foes more susceptible to terror and makes it almost impossible for them to shake off fear when you are near. Enemies in your champion's aura take a –1 circumstance penalty to saving throws against fear. In addition, an enemy that ends its turn in your champion's aura can't reduce the value of its frightened condition below 1.
 
 [[Feat_Feature Effects/Effect_ Aura of Despair|Effect: Aura of Despair]]
 
-*Source: Pathfinder Advanced Player's Guide*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

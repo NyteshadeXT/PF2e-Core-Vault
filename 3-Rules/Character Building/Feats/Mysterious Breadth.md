@@ -6,8 +6,9 @@ tags:
   - trait/archetype
   - trait/common
   - category/class
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.y4Cws9vZj3Bf9uqH"
-license: OGL
+license: ORC
 ---
 # Mysterious Breadth
 ## Feat 8
@@ -21,5 +22,5 @@ license: OGL
 * * *
 Increase the spell slots you gain from oracle archetype feats by 1 for each spell rank other than your two highest spell ranks.
 
-*Source: Pathfinder Advanced Player's Guide*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

@@ -11,6 +11,7 @@ tags:
   - pf2e/creature/type/spirit
   - pf2e/creature/type/undead
   - pf2e/creature/type/unholy
+  - pf2eMonster
   - pf2e/creature/level/4
 statblock: inline
 name: "Corrupted Relic"
@@ -26,15 +27,15 @@ token: [[modules/pf2e-tokens-bestiaries/portraits/undead/ghostly/corrupted-relic
 source: "Pathfinder Bestiary 3"
 name: "Corrupted Relic"
 level: "Creature 4"
-rare_03: "Rare"
+rare_03: [[Rare]]
 alignment: ""
 size: "Medium"
-trait_01: "chaotic"
-trait_02: "evil"
-trait_03: "incorporeal"
-trait_04: "spirit"
-trait_05: "undead"
-trait_06: "unholy"
+trait_01: [[chaotic]]
+trait_02: [[evil]]
+trait_03: [[incorporeal]]
+trait_04: [[spirit]]
+trait_05: [[undead]]
+trait_06: [[unholy]]
 modifier: 9
 perception:
   - name: "Perception"
@@ -62,10 +63,10 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Amulet Relic"
-    desc: " (curse,divine) The corrupted relic is an amulet cursed to contain a malevolent spirit. The statistics in this stat block are for the spirit when it's manifested (see Manifest). The amulet can't take any actions except Sudden Manifestation and Manifest. As long as the spirit is manifested, the amulet is immune to spells and magical abilities and uses the saves listed here.\nRegardless of whether the spirit is manifested, the amulet can be targeted by Strikes (AC 21, Hardness 5, BT 10). It is not incorporeal. If the amulet becomes broken, the spirit is bound within and can't Manifest, and if the amulet is destroyed, so is the spirit. Destroying the spirit frees the amulet from its curse."
+    desc: " (curse,divine) The corrupted relic is an amulet cursed to contain a malevolent spirit. The statistics in this stat block are for the spirit when it's manifested (see Manifest). The amulet can't take any actions except Sudden Manifestation and Manifest. As long as the spirit is manifested, the amulet is immune to spells and magical abilities and uses the saves listed here.\n\nRegardless of whether the spirit is manifested, the amulet can be targeted by Strikes (AC 21, Hardness 5, BT 10). It is not incorporeal. If the amulet becomes broken, the spirit is bound within and can't Manifest, and if the amulet is destroyed, so is the spirit. Destroying the spirit frees the amulet from its curse."
 
   - name: "Sudden Manifestation"
-    desc: "`pf2:r`  **Trigger** The relic detects a creature using its lifesense.\n**Effect** The relic Manifests. If this causes an encounter to begin, the relic gains a +4 status bonus to its initiative roll."
+    desc: "`pf2:r`  **Trigger** The relic detects a creature using its lifesense.\n* * *\n\n**Effect** The relic Manifests. If this causes an encounter to begin, the relic gains a +4 status bonus to its initiative roll."
 
 attacks:
   - name: ""
@@ -77,11 +78,17 @@ attacks:
     desc: "`pf2:1` Deadly Spark +14 (air, divine, electricity, range 20 feet)\n__Damage__  1d12 electricity"
 
   - name: "Death Gaze"
-    desc: "`pf2:2` (concentrate,divine,void) The spirit targets a creature it can see within 30 feet, dealing to it 4d6 void damage (DC 20 Fortitude check save).\nA creature with [[Bestiary Ability Glossary/Void Healing|Void Healing]] instead regains 4d6 Hit Points and is then temporarily immune for 10 minutes."
+    desc: "`pf2:2` (concentrate,divine,void) The spirit targets a creature it can see within 30 feet, dealing to it 4d6 void damage (DC 20 Fortitude check save).\n\nA creature with [[Bestiary Ability Glossary/Void Healing|Void Healing]] instead regains 4d6 Hit Points and is then temporarily immune for 10 minutes."
 
   - name: "Manifest"
-    desc: "`pf2:1` (divine) **Requirements** The relic detects at least one creature using its lifesense.\n**Effect** The spirit within the relic manifests in an open space within 10 feet of the amulet. When it does, the relic teleports around its neck. The spirit remains in its manifested state until it no longer senses any living creatures within range of its lifesense."
+    desc: "`pf2:1` (divine) **Requirements** The relic detects at least one creature using its lifesense.\n* * *\n\n**Effect** The spirit within the relic manifests in an open space within 10 feet of the amulet. When it does, the relic teleports around its neck. The spirit remains in its manifested state until it no longer senses any living creatures within range of its lifesense."
  
+```
+
+```encounter-table
+name: Corrupted Relic
+creatures:
+  - 1: Corrupted Relic
 ```
 
 

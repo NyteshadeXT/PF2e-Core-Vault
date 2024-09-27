@@ -4,6 +4,7 @@ obsidianUIMode: preview
 noteType: pf2eHazard
 tags:
   - magical
+  - pf2eHazard
   - complex
 source: Pathfinder Blog
 aliases: "Compendium.pf2e.hazards.Actor.wHUIZ5QhG37cRzSV" 
@@ -21,7 +22,7 @@ name: "Gravehall Trap"
 level: "Hazard 4"
 
 trait_06: "Complex"
-trait_01: "magical"
+trait_01: [[magical]]
 modifier: 12
 sourcebook: "_Pathfinder Blog_"
 ac: 20
@@ -49,10 +50,16 @@ attacks:
   - name: ""
 
   - name: "Lunging Dead"
-    desc: "`pf2:r` (divine, fear, incapacitation, mental) **Trigger** A living creature crosses the midpoint of the tunnel\n**Effect** The dead reach out from the walls and ceiling, moaning and spewing writhing maggots. Creatures in the room must attempt a DC 21 Will check save. The trap then rolls initiative.\n**Critical Success** The target is unaffected.\n**Success** The target is [[Conditions/Frightened 1|Frightened]]\n**Failure** The target is [[Conditions/Frightened 1|Frightened 2]]. It can't reduce its frightened condition below 1 while in the trap's area.\n**Critical Failure** As failure, and the target is [[Conditions/Paralyzed|Paralyzed]] for 1 round."
+    desc: "`pf2:r` (divine, fear, incapacitation, mental) **Trigger** A living creature crosses the midpoint of the tunnel\n* * *\n\n**Effect** The dead reach out from the walls and ceiling, moaning and spewing writhing maggots. Creatures in the room must attempt a DC 21 Will check save. The trap then rolls initiative.\n* * *\n\n**Critical Success** The target is unaffected.\n\n**Success** The target is [[Conditions/Frightened|Frightened]]\n\n**Failure** The target is [[Conditions/Frightened|Frightened 2]]. It can't reduce its frightened condition below 1 while in the trap's area.\n\n**Critical Failure** As failure, and the target is [[Conditions/Paralyzed|Paralyzed]] for 1 round."
 
   - name: "Routine"
-    desc: "(1 action) Undead fists assail all creatures in the hall, dealing 4d6 bludgeoning damage. Creatures in the hall must attempt a DC 21 Reflex check.\n**Critical Success** The target is unaffected.\n**Success** The target takes half damage.\n**Failure** The target takes full damage, and its Speeds are reduced by 10 feet (to a minimum of 5 feet) for 1 round.\n**Critical Failure** The target takes double damage and is [[Conditions/Immobilized|Immobilized]] for 1 round."
+    desc: "(1 action) Undead fists assail all creatures in the hall, dealing 4d6 bludgeoning damage. Creatures in the hall must attempt a DC 21 Reflex check.\n* * *\n\n**Critical Success** The target is unaffected.\n\n**Success** The target takes half damage.\n\n**Failure** The target takes full damage, and its Speeds are reduced by 10 feet (to a minimum of 5 feet) for 1 round.\n\n**Critical Failure** The target takes double damage and is [[Conditions/Immobilized|Immobilized]] for 1 round."
 
+```
+
+```encounter-table
+name: Gravehall Trap
+creatures:
+  - 1: Gravehall Trap
 ```
 

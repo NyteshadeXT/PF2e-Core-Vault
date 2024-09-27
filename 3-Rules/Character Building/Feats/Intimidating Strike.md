@@ -3,6 +3,7 @@ obsidianUIMode: preview
 title: "Intimidating Strike"
 cssclasses: pf2e,pf2e-spell
 tags:
+  - trait/barbarian
   - trait/emotion
   - trait/fear
   - trait/fighter
@@ -15,14 +16,14 @@ license: ORC
 ---
 # Intimidating Strike `pf2:2`
 ## Feat 2
-### [[emotion]][[fear]][[fighter]][[mental]]
+### [[barbarian]][[emotion]][[fear]][[fighter]][[mental]]
 
 **Category** class; 
 
 
 
 
-Your blow not only wounds creatures but also shatters their confidence. Make a melee Strike. If you hit and deal damage, the target is [[Conditions/Frightened 1|Frightened 1]], or [[Conditions/Frightened 1|Frightened 2]] on a critical hit.
+Your blow not only wounds creatures but also shatters their confidence. Make a melee Strike. If you hit and deal damage, the target is [[Conditions/Frightened|Frightened 1]], or [[Conditions/Frightened|Frightened 2]] on a critical hit.
 
 *Source: Pathfinder Player Core*
 *ORC*

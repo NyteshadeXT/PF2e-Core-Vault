@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.pathfinder-bestiary-3.Actor.JkJRKxuIGJ3DOD9L"
 tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/shadow
+  - pf2eMonster
   - pf2e/creature/level/6
 statblock: inline
 name: "Owb"
@@ -22,16 +23,16 @@ token: [[modules/pf2e-tokens-bestiaries/portraits/planar/shadow/owb.webp| ]]
 source: "Pathfinder Bestiary 3"
 name: "Owb"
 level: "Creature 6"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Medium"
-trait_01: "evil"
-trait_02: "shadow"
+trait_01: [[evil]]
+trait_02: [[shadow]]
 modifier: 13
 perception:
   - name: "Perception"
     desc: "+13; Greater Darkvision"
-languages: "Caligni"
+languages: "Caligni; (can&#x27;t speak any language), telepathy 100 feet"
 skills:
   - name: "Skills"
     desc: "Acrobatics: +15, Deception: +13, Diplomacy: +11, Occultism: +12, Religion: +11, Stealth: +15"
@@ -65,8 +66,14 @@ attacks:
     desc: "DC 23, attack +15; __7th __  _[[Spells/Interplanar Teleport|Plane Shift (Self Only) (To Or From The Shadow Plane Only)]]_; __5th __  _[[Spells/Shadow Blast|Shadow Blast]]_, _[[Spells/Umbral Journey|Shadow Walk]]_; __4th __  _[[Spells/Darkness|Darkness (At Will)]]_, _[[Spells/Invisibility|Invisibility]]_; __3rd __  _[[Spells/Mind Reading|Mind Reading (At Will)]]_\n__Cantrips__  __(3rd)__ _[[Spells/Void Warp|Chill Touch]]_, _[[Spells/Daze|Daze]]_, _[[Spells/Read Aura|Read Aura]]_, _[[Spells/Shield|Shield]]_"
 
   - name: "Curse of Darkness"
-    desc: "`pf2:1` (curse,darkness,occult) The owb inflicts a curse on one creature taking persistent cold damage from their burning cold Strike, stealing the victim's vibrancy. The creature must attempt a DC 23 Fortitude check save.\nOn a failure, the creature gains [[Bestiary Ability Glossary/Light Blindness|Light Blindness]] and its coloration turns to washed out shades of gray, along with all equipment it carries, wields, or wears. These effects have an unlimited duration. Regardless of the result of its save, the creature is temporarily immune for 1 minute.\nIf the owb uses this ability on a caligni, the curse can't be removed short of [[Spells/Wish|Wish]] or similar powerful magic."
+    desc: "`pf2:1` (curse,darkness,occult) The owb inflicts a curse on one creature taking persistent cold damage from their burning cold Strike, stealing the victim's vibrancy. The creature must attempt a DC 23 Fortitude check save.\n\nOn a failure, the creature gains [[Bestiary Ability Glossary/Light Blindness|Light Blindness]] and its coloration turns to washed out shades of gray, along with all equipment it carries, wields, or wears. These effects have an unlimited duration. Regardless of the result of its save, the creature is temporarily immune for 1 minute.\n\nIf the owb uses this ability on a caligni, the curse can't be removed short of [[Spells/Wish|Wish]] or similar powerful magic."
  
+```
+
+```encounter-table
+name: Owb
+creatures:
+  - 1: Owb
 ```
 
 

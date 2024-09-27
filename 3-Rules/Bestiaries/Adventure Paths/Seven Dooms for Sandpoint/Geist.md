@@ -10,6 +10,7 @@ tags:
   - pf2e/creature/type/incorporeal
   - pf2e/creature/type/undead
   - pf2e/creature/type/unholy
+  - pf2eMonster
   - pf2e/creature/level/9
 statblock: inline
 name: "Geist"
@@ -27,16 +28,16 @@ level: "Creature 9"
 
 alignment: ""
 size: "Medium"
-trait_01: "chaotic"
-trait_02: "evil"
-trait_03: "incorporeal"
-trait_04: "undead"
-trait_05: "unholy"
+trait_01: [[chaotic]]
+trait_02: [[evil]]
+trait_03: [[incorporeal]]
+trait_04: [[undead]]
+trait_05: [[unholy]]
 modifier: 17
 perception:
   - name: "Perception"
     desc: "+17; Darkvision"
-languages: "Common, Necril"
+languages: "Common, Necril; telepathy 100 feet"
 skills:
   - name: "Skills"
     desc: "Acrobatics: +20, Deception: +18, Intimidation: +20, Religion: +17, Stealth: +20"
@@ -67,11 +68,17 @@ attacks:
     desc: "`pf2:1` Bite +20 (agile, magical)\n__Damage__  1d10 + 11 piercing"
 
   - name: "Terrifying Laugh"
-    desc: "`pf2:1` (divine,emotion,fear,mental) **Frequency** once per minute\n**Effect** The geist unleashes soul-piercing laughter in a 20-foot emanation, lasting until the beginning of their next turn. Any creature in the area or entering it must succeed at a DC 26 Will check save or be overcome with panicked laughter, becoming [[Conditions/Frightened 1|Frightened 2]] (or [[Conditions/Frightened 1|Frightened 3]] on a critical failure). A creature attempts only one save per Terrifying Laugh, and a creature that succeeds on its saving throw is temporarily immune for 24 hours."
+    desc: "`pf2:1` (divine,emotion,fear,mental) **Frequency** once per minute\n* * *\n\n**Effect** The geist unleashes soul-piercing laughter in a @Template[emanation|distance:20], lasting until the beginning of their next turn. Any creature in the area or entering it must succeed at a DC 26 Will check save or be overcome with panicked laughter, becoming [[Conditions/Frightened|Frightened 2]] (or [[Conditions/Frightened|Frightened 3]] on a critical failure). A creature attempts only one save per Terrifying Laugh, and a creature that succeeds on its saving throw is temporarily immune for 24 hours."
 
   - name: "Wrath of the Haunt"
-    desc: "`pf2:2` (divine) **Frequency** once per round\n**Requirements** The geist is within 100 feet of an active haunt\n**Effect** The haunt feeds necromantic power into the geist, becoming inactive until the end of the geist's next turn and deactivating the power of the haunt aura until the haunt becomes active again. The edges of the geist's cloak transform into whip-like tendrils that appear to be made of fire and smoke and lash out at nearby creatures. Any living creature within 10 feet of the geist takes 4d10 fire damage plus 4d6 void damage (DC 28 Reflex check save)."
+    desc: "`pf2:2` (divine) **Frequency** once per round\n\n**Requirements** The geist is within 100 feet of an active haunt\n* * *\n\n**Effect** The haunt feeds necromantic power into the geist, becoming inactive until the end of the geist's next turn and deactivating the power of the haunt aura until the haunt becomes active again. The edges of the geist's cloak transform into whip-like tendrils that appear to be made of fire and smoke and lash out at nearby creatures. Any living creature within 10 feet of the geist takes 4d10 fire damage plus 4d6 void damage (DC 28 Reflex check save)."
  
+```
+
+```encounter-table
+name: Geist
+creatures:
+  - 1: Geist
 ```
 
 

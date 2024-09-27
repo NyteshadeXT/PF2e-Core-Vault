@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/clockwork
   - pf2e/creature/type/construct
   - pf2e/creature/type/mindless
+  - pf2eMonster
   - pf2e/creature/level/1
 statblock: inline
 name: "Clockwork Serpent Spy"
@@ -22,16 +23,17 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Adventure: Rusthenge"
 name: "Clockwork Serpent Spy"
 level: "Creature 1"
-rare_03: "Rare"
+rare_03: [[Rare]]
 alignment: ""
 size: "tiny"
-trait_01: "clockwork"
-trait_02: "construct"
-trait_03: "mindless"
+trait_01: [[clockwork]]
+trait_02: [[construct]]
+trait_03: [[mindless]]
 modifier: 10
 perception:
   - name: "Perception"
     desc: "+10; Low-Light Vision"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Acrobatics: +7"
@@ -51,15 +53,15 @@ abilities_top:
   - name: ""
 
   - name: "Record Audio"
-    desc: "`pf2:1`  The clockwork spy records all sounds within 25 feet onto a small gemstone worth 1 gp embedded in its body. The clockwork spy can record up to 1 hour of sound on a single gemstone. Once it begins recording, it can't cease recording early, nor can it record onto a gemstone that already contains a recording.\nSome clockwork spies contain multiple gemstones to allow for a series of recordings. Since clockwork spies are not intelligent, they must be given simple commands regarding when to start recording sounds. A clockwork spy can differentiate between different kinds of creatures but not between specific individuals.\nThe spy can start or stop playback of recorded sound by spending a single action. Removing a gemstone from or installing a gemstone into a clockwork spy requires a successful DC 14 Thievery check check to [[Actions/Disable a Device|Disable a Device]]; on a failure, the gemstone is undamaged, but any recorded sounds are erased and the gemstone still can't be used to make another recording."
+    desc: "`pf2:1`  The clockwork spy records all sounds within 25 feet onto a small gemstone worth 1 gp embedded in its body. The clockwork spy can record up to 1 hour of sound on a single gemstone. Once it begins recording, it can't cease recording early, nor can it record onto a gemstone that already contains a recording.\n\nSome clockwork spies contain multiple gemstones to allow for a series of recordings. Since clockwork spies are not intelligent, they must be given simple commands regarding when to start recording sounds. A clockwork spy can differentiate between different kinds of creatures but not between specific individuals.\n\nThe spy can start or stop playback of recorded sound by spending a single action. Removing a gemstone from or installing a gemstone into a clockwork spy requires a successful DC 14 Thievery check check to [[Actions/Disable a Device|Disable a Device]]; on a failure, the gemstone is undamaged, but any recorded sounds are erased and the gemstone still can't be used to make another recording."
 
   - name: "Wind-Up"
-    desc: "  24 hours, DC 17 Thievery check, standby\nFor a clockwork to act, it must be wound with a unique key by another creature. This takes 1 minute. Once wound, it remains operational for the listed amount of time, usually 24 hours, after which time it becomes unaware of its surroundings and can't act until it's wound again. Some clockworks' abilities require them to spend some of their remaining operational time. They can't spend more than they have and shut down immediately once they have 0 time remaining. If it's unclear when a clockwork was last wound, most clockwork keepers wind all their clockworks at a set time, typically 8 a.m.\nA clockwork that lists standby in its wind-up entry can enter standby mode as a 3-action activity. Its operational time doesn't decrease in standby, but it can sense its surroundings (with a -2 penalty to Perception). It can't act, with one exception: when it perceives a creature, it can exit standby as a reaction (rolling initiative if appropriate).\nA creature can attempt to [[Actions/Disable a Device|Disable a Device]] to wind a clockwork down (with a DC listed in the wind-up entry). For each success, the clockwork loses 1 hour of operational time. This can be done even if the clockwork is in standby mode."
+    desc: "  24 hours, DC 17 Thievery check, standby\n* * *\n\nFor a clockwork to act, it must be wound with a unique key by another creature. This takes 1 minute. Once wound, it remains operational for the listed amount of time, usually 24 hours, after which time it becomes unaware of its surroundings and can't act until it's wound again. Some clockworks' abilities require them to spend some of their remaining operational time. They can't spend more than they have and shut down immediately once they have 0 time remaining. If it's unclear when a clockwork was last wound, most clockwork keepers wind all their clockworks at a set time, typically 8 a.m.\n\nA clockwork that lists standby in its wind-up entry can enter standby mode as a 3-action activity. Its operational time doesn't decrease in standby, but it can sense its surroundings (with a -2 penalty to Perception). It can't act, with one exception: when it perceives a creature, it can exit standby as a reaction (rolling initiative if appropriate).\n\nA creature can attempt to [[Actions/Disable a Device|Disable a Device]] to wind a clockwork down (with a DC listed in the wind-up entry). For each success, the clockwork loses 1 hour of operational time. This can be done even if the clockwork is in standby mode."
 
 abilities_mid:
   - name: ""
   - name: "Self-Destruct"
-    desc: "`pf2:r`  A clockwork spy must use this reaction unless specifically programmed otherwise by its creator.\n**Trigger** The clockwork spy is reduced to 0 Hit Points.\n**Effect** The spy thrashes around and emits a tinny scream followed by a steady ticking sound. At the beginning of what would have been its next turn, the clockwork spy explodes, dealing 1d12 piercing damage in a 5-foot radius (DC 17 Reflex check save). Its gemstone is destroyed, along with any information contained inside it.\nAn adjacent creature can cancel the self-destruct sequence by succeeding at a DC 17 Thievery check check to [[Actions/Disable a Device|Disable a Device]]."
+    desc: "`pf2:r`  A clockwork spy must use this reaction unless specifically programmed otherwise by its creator.\n\n**Trigger** The clockwork spy is reduced to 0 Hit Points.\n* * *\n\n**Effect** The spy thrashes around and emits a tinny scream followed by a steady ticking sound. At the beginning of what would have been its next turn, the clockwork spy explodes, dealing 1d12 piercing damage in a 5-foot radius (DC 17 Reflex check save). Its gemstone is destroyed, along with any information contained inside it.\n\nAn adjacent creature can cancel the self-destruct sequence by succeeding at a DC 17 Thievery check check to [[Actions/Disable a Device|Disable a Device]]."
 
 attacks:
   - name: ""
@@ -70,6 +72,12 @@ attacks:
   - name: "Bleeding Gash"
     desc: "  On a critical hit with a sharpened gear Strike, the clockwork serpent spy also inflicts 1d4 persistent bleed damage (DC 17 Fortitude check save negates the additional bleed damage)."
  
+```
+
+```encounter-table
+name: Clockwork Serpent Spy
+creatures:
+  - 1: Clockwork Serpent Spy
 ```
 
 

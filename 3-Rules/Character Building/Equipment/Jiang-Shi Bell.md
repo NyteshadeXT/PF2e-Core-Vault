@@ -19,7 +19,7 @@ license: OGL
 
 This ornate handbell creates a sonorous low-pitched tone when rung, as if sounding from a much larger bell than one carried in the hand. The bell is crafted of silver and polished to a reflective sheen, while the bell's wooden handle is carved with detailed images of various foodstuffs. You can interact with a jiang-shi bell to brandish it against a jiang-shi vampire. If a jiang-shi gains the [[Conditions/Fleeing|Fleeing]] condition as a result of a jiang-shi bell being brandished, they must run until they're at least 20 feet away. They take a -2 penalty to the Will save to any attempt to overcome their revulsion toward this object.
 
-**Activate** 2 envision, Interact (olfactory, visual)
+**Activate** `pf2:2` envision, Interact (olfactory, visual)
 
 **Frequency** once per day
 

@@ -12,6 +12,7 @@ tags:
   - pf2e/creature/type/lawful
   - pf2e/creature/type/oni
   - pf2e/creature/type/unholy
+  - pf2eMonster
   - pf2e/creature/level/14
 statblock: inline
 name: "General Avinash Jurrg"
@@ -26,16 +27,16 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Kingmaker"
 name: "General Avinash Jurrg"
 level: "Creature 14"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Large"
-trait_01: "evil"
-trait_02: "fiend"
-trait_03: "giant"
-trait_04: "humanoid"
-trait_05: "lawful"
-trait_06: "oni"
-trait_07: "unholy"
+trait_01: [[evil]]
+trait_02: [[fiend]]
+trait_03: [[giant]]
+trait_04: [[humanoid]]
+trait_05: [[lawful]]
+trait_06: [[oni]]
+trait_07: [[unholy]]
 modifier: 26
 perception:
   - name: "Perception"
@@ -78,11 +79,17 @@ attacks:
     desc: "DC 36, attack +28; __7th __  _[[Spells/Cone of Cold|Cone of Cold]]_; __6th __  _[[Spells/Chilling Darkness|Chilling Darkness]]_; __4th __  _[[Spells/Vapor Form|Gaseous Form]]_, _[[Spells/Invisibility|Invisibility]]_, _[[Spells/Sleep|Sleep]]_; __2nd __  _[[Spells/Darkness|Darkness (At Will)]]_, _[[Spells/Invisibility|Invisibility (At Will)]]_"
 
   - name: "Battlefield Command"
-    desc: "`pf2:1` (auditory,incapacitation,linguistic,mental,primal) **Frequency** once per round\n**Effect** General Jurrg roars out a simple command during battle, using his supernatural power to force a foe within 30 feet to pursue a tactic in combat. The targeted creature must attempt a DC 34 Will check save and is thereafter temporarily immune to new Battlefield Commands for 24 hours.\n**Critical Success** The creature is unaffected.\n**Success** The creature is [[Conditions/Stunned 1|Stunned 1]] as their mind rails against the command.\n**Failure** The creature must spend 1 action at the start of their turn to perform a basic action commanded by the general.\n**Critical Failure** As failure, but the creature must spend all 3 actions to perform basic actions commanded by the general. At the end of their turn, they must save against Battlefield Command again to determine how the effect continues into their next turn, but each time this save is attempted the DC is reduced by 2."
+    desc: "`pf2:1` (auditory,incapacitation,linguistic,mental,primal) **Frequency** once per round\n* * *\n\n**Effect** General Jurrg roars out a simple command during battle, using his supernatural power to force a foe within 30 feet to pursue a tactic in combat. The targeted creature must attempt a DC 34 Will check save and is thereafter temporarily immune to new Battlefield Commands for 24 hours.\n* * *\n\n**Critical Success** The creature is unaffected.\n\n**Success** The creature is [[Conditions/Stunned|Stunned 1]] as their mind rails against the command.\n\n**Failure** The creature must spend 1 action at the start of their turn to perform a basic action commanded by the general.\n\n**Critical Failure** As failure, but the creature must spend all 3 actions to perform basic actions commanded by the general. At the end of their turn, they must save against Battlefield Command again to determine how the effect continues into their next turn, but each time this save is attempted the DC is reduced by 2."
 
   - name: "[[Bestiary Ability Glossary/Change Shape|Change Shape]]"
-    desc: "`pf2:1` (concentrate,polymorph,primal) The onidoshi takes on the appearance of an ogre. This doesn't change their Speed or Strike attack and damage.\n"
+    desc: "`pf2:1` (concentrate,polymorph,primal) The onidoshi takes on the appearance of an ogre. This doesn't change their Speed or Strike attack and damage.\n\n* * *\n"
  
+```
+
+```encounter-table
+name: General Avinash Jurrg
+creatures:
+  - 1: General Avinash Jurrg
 ```
 
 

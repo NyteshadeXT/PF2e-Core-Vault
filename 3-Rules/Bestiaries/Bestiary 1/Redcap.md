@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/chaotic
   - pf2e/creature/type/evil
   - pf2e/creature/type/fey
+  - pf2eMonster
   - pf2e/creature/level/5
 statblock: inline
 name: "Redcap"
@@ -26,9 +27,9 @@ level: "Creature 5"
 
 alignment: ""
 size: "Small"
-trait_01: "chaotic"
-trait_02: "evil"
-trait_03: "fey"
+trait_01: [[chaotic]]
+trait_02: [[evil]]
+trait_03: [[fey]]
 modifier: 12
 perception:
   - name: "Perception"
@@ -54,12 +55,12 @@ abilities_top:
   - name: "Items"
     desc: "[[Equipment/Scythe|Scythe]], Iron Boots, Red Cap"
   - name: "Red Cap"
-    desc: " (primal) A redcap's woolen hat is dyed with the blood of its victims. If the redcap loses its cap, it no longer benefits from fast healing and takes a -4 status penalty to its damage rolls. It can create a new cap in 10 minutes, but that cap doesn't grant its powers until the redcap has turned it red with Blood Soak. A cap has no benefit for creatures other than the redcap who made it.\n[[Bestiary Effects/Effect_ Lost Red Cap|Effect: Lost Red Cap]]"
+    desc: " (primal) A redcap's woolen hat is dyed with the blood of its victims. If the redcap loses its cap, it no longer benefits from fast healing and takes a -4 status penalty to its damage rolls. It can create a new cap in 10 minutes, but that cap doesn't grant its powers until the redcap has turned it red with Blood Soak. A cap has no benefit for creatures other than the redcap who made it.\n\n[[Bestiary Effects/Effect_ Lost Red Cap|Effect: Lost Red Cap]]"
 
 abilities_mid:
   - name: ""
   - name: "Divine Revulsion"
-    desc: " (emotion,fear,mental) If a redcap sees a creature brandish a religious symbol of a good deity (which requires an interact action by that creature) or use one to cast a divine spell, the redcap must attempt a DC 19 Will check save. It then becomes temporarily immune to all brandished religious symbols for 10 minutes.\n**Critical Success** The redcap is unaffected\n**Success** The redcap is [[Conditions/Frightened 1|Frightened 2]]\n**Failure** The redcap gains the [[Conditions/Fleeing|Fleeing]] condition for 1 round and is [[Conditions/Frightened 1|Frightened 4]]"
+    desc: " (emotion,fear,mental) If a redcap sees a creature brandish a religious symbol of a good deity (which requires an interact action by that creature) or use one to cast a divine spell, the redcap must attempt a DC 19 Will check save. It then becomes temporarily immune to all brandished religious symbols for 10 minutes.\n* * *\n\n**Critical Success** The redcap is unaffected\n\n**Success** The redcap is [[Conditions/Frightened|Frightened 2]]\n\n**Failure** The redcap gains the [[Conditions/Fleeing|Fleeing]] condition for 1 round and is [[Conditions/Frightened|Frightened 4]]"
 
 attacks:
   - name: ""
@@ -71,14 +72,20 @@ attacks:
     desc: "`pf2:1` Boot +13 (agile, versatile b)\n__Damage__  1d6 + 8 piercing"
 
   - name: "Blood Soak"
-    desc: "`pf2:1` (manipulate) The redcap dips its cap in the blood of a slain foe. The foe must have died in the last minute, and the redcap must have helped kill it. The redcap gains a +4 status bonus to damage rolls for 1 minute.\n[[Bestiary Effects/Effect_ Blood Soak|Effect: Blood Soak]]"
+    desc: "`pf2:1` (manipulate) The redcap dips its cap in the blood of a slain foe. The foe must have died in the last minute, and the redcap must have helped kill it. The redcap gains a +4 status bonus to damage rolls for 1 minute.\n\n[[Bestiary Effects/Effect_ Blood Soak|Effect: Blood Soak]]"
 
   - name: "Deadly Cleave"
-    desc: "`pf2:r`  **Trigger** The redcap reduces a creature to 0 Hit Points with a scythe Strike.\n**Effect** The redcap makes another scythe Strike against a different creature, using the same multiple attack penalty as the scythe Strike that triggered this reaction. This counts toward its multiple attack penalty."
+    desc: "`pf2:r`  **Trigger** The redcap reduces a creature to 0 Hit Points with a scythe Strike.\n* * *\n\n**Effect** The redcap makes another scythe Strike against a different creature, using the same multiple attack penalty as the scythe Strike that triggered this reaction. This counts toward its multiple attack penalty."
 
   - name: "Stomp"
     desc: "`pf2:1`  The redcap Strides up to half its Speed and makes a boot Strike at any point during that movement. If the boot Strike hits a [[Conditions/Prone|Prone]] creature, it deals an extra 2d6 bleed."
  
+```
+
+```encounter-table
+name: Redcap
+creatures:
+  - 1: Redcap
 ```
 
 

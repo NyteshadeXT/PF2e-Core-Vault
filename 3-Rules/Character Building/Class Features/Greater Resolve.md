@@ -4,7 +4,6 @@ title: "Greater Resolve"
 cssclasses: pf2e,pf2e-spell
 tags:
   - trait/investigator
-  - trait/oracle
   - trait/common
   - category/classfeature
 aliases: "Compendium.pf2e.classfeatures.Item.5LOARurr4qWkfS9K"
@@ -12,7 +11,7 @@ license: OGL
 ---
 # Greater Resolve
 ## Feat 17
-### [[investigator]][[oracle]]
+### [[investigator]]
 
 **Category** classfeature; 
 

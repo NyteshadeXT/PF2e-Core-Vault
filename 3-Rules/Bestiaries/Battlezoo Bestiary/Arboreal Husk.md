@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/chaotic
   - pf2e/creature/type/evil
   - pf2e/creature/type/plant
+  - pf2eMonster
   - pf2e/creature/level/8
 statblock: inline
 name: "Arboreal Husk"
@@ -26,17 +27,17 @@ level: "Creature 8"
 
 alignment: ""
 size: "huge"
-trait_01: "chaotic"
-trait_02: "evil"
-trait_03: "plant"
+trait_01: [[chaotic]]
+trait_02: [[evil]]
+trait_03: [[plant]]
 modifier: 16
 perception:
   - name: "Perception"
     desc: "+16; Darkvision"
-languages: "Arboreal, Common, Fey"
+languages: "Arboreal, Common, Fey; speak with plants"
 skills:
   - name: "Skills"
-    desc: "Athletics: +19, Intimidation: +18, Nature: +16, Stealth: +13 (+23 in Diseased or Dead Forests), "
+    desc: "Athletics: +19, Intimidation: +18, Nature: +16, Stealth: +13"
 abilityMods: [7, 3, 5, -1, 2, 0]
 speed: 25 feet
 sourcebook: "_Battlezoo Bestiary_"
@@ -55,7 +56,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "[[Bestiary Ability Glossary/Frightful Presence|Frightful Presence]]"
-    desc: " (aura,emotion,fear,mental) Aura 30 feet, DC 24 Will check"
+    desc: " (aura,emotion,fear,mental) [[Bestiary Ability Glossary/Aura|Aura]] 30 feet, DC 24 Will check"
 
   - name: "Axe Vulnerability"
     desc: "  The arboreal husk takes 5 additional damage from axes."
@@ -76,14 +77,20 @@ attacks:
     desc: "DC 26, attack +18\n__Constant__  __(4th)__ _[[Spells/Speak with Plants|Speak with Plants]]_"
 
   - name: "Draining Impact"
-    desc: " (primal) When the arboreal husk hits a creature with its blighted branch or blighted root, the creature must make a Fortitude save. Whatever the result, the creature is immune to the same arboreal husk's draining impact for 24 hours.\n**Success** The creature is unaffected.\n**Failure** The creature is Drained 1.\n**Critical Failure** The creature is Drained 2."
+    desc: " (primal) When the arboreal husk hits a creature with its blighted branch or blighted root, the creature must make a DC 25 Fortitude save. Whatever the result, the creature is immune to the same arboreal husk's draining impact for 24 hours.\n* * *\n\n**Success** The creature is unaffected.\n\n**Failure** The creature is [[Conditions/Drained|Drained 1]].\n\n**Critical Failure** The creature is [[Conditions/Drained|Drained 2]]."
 
   - name: "Raise Tree"
-    desc: "`pf2:2` (concentrate,primal) The arboreal husk causes a dead tree within 180 feet to uproot itself and fight as a minion using the statistics for an Awakened Tree with the husk trait. The arboreal husk can control up to two awakened trees at a time, and it can issue commands to both trees as a single action, which has the concentrate and auditory traits."
+    desc: "`pf2:2` (concentrate,primal) The arboreal husk causes a dead tree within 180 feet to uproot itself and fight as a minion using the statistics for an [[undefined]] with the husk trait. The arboreal husk can control up to two awakened trees at a time, and it can issue commands to both trees as a single action, which has the concentrate and auditory traits."
 
   - name: "Sow Despair"
-    desc: "`pf2:1` (auditory,concentrate,emotion,fear,mental) Few can shake the sorrow caused by the sight of a forest guardian so corrupted. The arboreal husk makes a single Intimidation check to Demoralize all creatures within 30 feet. In addition to the usual effects of Demoralize, on a critical success, the husk counteracts any beneficial emotion effects affecting the target."
+    desc: "`pf2:1` (auditory,concentrate,emotion,fear,mental) Few can shake the sorrow caused by the sight of a forest guardian so corrupted. The arboreal husk makes a single Intimidation check to [[Actions/Demoralize|Demoralize]] all creatures within 30 feet. In addition to the usual effects of Demoralize, on a critical success, the husk counteracts any beneficial emotion effects affecting the target."
  
+```
+
+```encounter-table
+name: Arboreal Husk
+creatures:
+  - 1: Arboreal Husk
 ```
 
 

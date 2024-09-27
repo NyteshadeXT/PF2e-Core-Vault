@@ -5,6 +5,7 @@ noteType: pf2eHazard
 tags:
   - mechanical
   - trap
+  - pf2eHazard
   - complex
 source: Pathfinder #153: Life&#x27;s Long Shadows
 aliases: "Compendium.pf2e.extinction-curse-bestiary.Actor.4L38nr9t17thMZrB" 
@@ -22,14 +23,14 @@ name: "Caustic Dart Trap"
 level: "Hazard 11"
 
 trait_06: "Complex"
-trait_01: "mechanical"
-trait_02: "trap"
+trait_01: [[mechanical]]
+trait_02: [[trap]]
 modifier: 10
 sourcebook: "_Pathfinder #153: Life's Long Shadows_"
 ac: 31
 armorclass:
   - name: AC
-    desc: "31; __Fort__ +24, __Ref__ +15, __Will__ +0"
+    desc: "31; __Fort__ +24, __Ref__ +15, "
 hp: 80
 health:
   - name: ""
@@ -51,7 +52,7 @@ attacks:
   - name: ""
 
   - name: "Dart Barrage"
-    desc: "`pf2:r` (attack) **Trigger** A creature reaches the midpoint of the hall\n**Effect** The trap makes an acid dart against three different random creatures in the hall. The trap then rolls initiative."
+    desc: "`pf2:r` (attack) **Trigger** A creature reaches the midpoint of the hall\n* * *\n\n**Effect** The trap makes an acid dart against three different random creatures in the hall. The trap then rolls initiative."
   - name: "Melee"
     desc: "Caustic Dart +28 () "
 
@@ -59,5 +60,11 @@ attacks:
     desc: "(3 actions) The trap uses each action for a caustic dart Strike. The trap loses 1 action for each launching mechanism that is broken or destroyed."
   - name: "Reset"
     desc: "The trap deactivates and resets 1 minute after no creatures are in area **C7**"
+```
+
+```encounter-table
+name: Caustic Dart Trap
+creatures:
+  - 1: Caustic Dart Trap
 ```
 

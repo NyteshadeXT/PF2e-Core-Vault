@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/chaotic
   - pf2e/creature/type/fey
   - pf2e/creature/type/sprite
+  - pf2eMonster
   - pf2e/creature/level/2
 statblock: inline
 name: "Galtzagorri Hunter"
@@ -26,9 +27,9 @@ level: "Creature 2"
 
 alignment: ""
 size: "tiny"
-trait_01: "chaotic"
-trait_02: "fey"
-trait_03: "sprite"
+trait_01: [[chaotic]]
+trait_02: [[fey]]
+trait_03: [[sprite]]
 modifier: 7
 perception:
   - name: "Perception"
@@ -36,7 +37,7 @@ perception:
 languages: "Common, Fey"
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +7, Athletics: +6 (+8 to Disarm), Arcana: +8, Crafting: +10, Deception: +8, Stealth: +9, Thievery: +9, "
+    desc: "Acrobatics: +7, Arcana: +8, Athletics: +6, Crafting: +10, Deception: +8, Stealth: +9, Thievery: +9"
 abilityMods: [0, 3, 1, 4, 0, 2]
 speed: 20 feet,  fly 15 feet
 sourcebook: "_Battlezoo Bestiary_"
@@ -54,7 +55,7 @@ abilities_top:
   - name: "Items"
     desc: "[[Equipment/Basic Crafter's Book|Basic Crafter's Book]], [[Item.gIw8yst6N42YEWzY|Galtzagorri Hook Spear]]"
   - name: "Craft Anything"
-    desc: " (skill) The galtzagorri has the Magical Crafting and Alchemical Crafting feats."
+    desc: " (skill) The galtzagorri has the [[Feats/Magical Crafting|Magical Crafting]] and [[Feats/Alchemical Crafting|Alchemical Crafting]] feats."
 
 abilities_mid:
   - name: ""
@@ -71,11 +72,17 @@ attacks:
     desc: "DC 16, attack +8; __1st __  _[[Spells/Mending|Mending]]_, _[[Spells/Mending|Mending]]_, _[[Spells/Pest Form|Pest Form]]_, _[[Spells/Pest Form|Pest Form]]_\n__Cantrips__  __(1st)__ _[[Spells/Read Aura|Read Aura]]_"
 
   - name: "Quick Disassemble"
-    desc: "`pf2:3` (manipulate) **Requirement** The galtzagorri is holding an item of 1 Bulk or less;\n**Effect** The galtzagorri makes a Crafting check against the same DC it would take to Craft the held item.\n**Critical Success** The item is reduced to its raw materials and can't be reassembled without a formula.\n**Success** The item is broken.\n**Failure** The item is unaffected."
+    desc: "`pf2:3` (manipulate) **Requirement** The galtzagorri is holding an item of 1 Bulk or less;\n\n**Effect** The galtzagorri makes a Crafting check against the same DC it would take to Craft the held item.\n* * *\n\n**Critical Success** The item is reduced to its raw materials and can't be reassembled without a formula.\n\n**Success** The item is broken.\n\n**Failure** The item is unaffected."
 
   - name: "Spear Snag"
-    desc: "`pf2:1`  The galtzagorri uses thier galtzagorri hook spear to snag an enemy's weapon.\nThe galtzagorri makes an Athletics check to Disarm. If the galtzagorri critically fails the check, they can drop the galtzagorri hook spear to take the effects of a failure instead of a critical failure."
+    desc: "`pf2:1`  The galtzagorri uses thier galtzagorri hook spear to snag an enemy's weapon.\n\nThe galtzagorri makes an Athletics check to [[Actions/Disarm|Disarm]]. If the galtzagorri critically fails the check, they can drop the galtzagorri hook spear to take the effects of a failure instead of a critical failure."
  
+```
+
+```encounter-table
+name: Galtzagorri Hunter
+creatures:
+  - 1: Galtzagorri Hunter
 ```
 
 

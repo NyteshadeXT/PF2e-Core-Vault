@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/spirit
   - pf2e/creature/type/undead
   - pf2e/creature/type/unholy
+  - pf2eMonster
   - pf2e/creature/level/7
 statblock: inline
 name: "Willowshore Waldgeist"
@@ -23,18 +24,18 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #198: No Breath to Cry"
 name: "Willowshore Waldgeist"
 level: "Creature 7"
-rare_03: "Rare"
+rare_03: [[Rare]]
 alignment: ""
 size: "Large"
-trait_01: "evil"
-trait_02: "spirit"
-trait_03: "undead"
-trait_04: "unholy"
+trait_01: [[evil]]
+trait_02: [[spirit]]
+trait_03: [[undead]]
+trait_04: [[unholy]]
 modifier: 16
 perception:
   - name: "Perception"
     desc: "+16; Darkvision"
-languages: "Arboreal, Common, Fey"
+languages: "Arboreal, Common, Fey; speak with plants"
 skills:
   - name: "Skills"
     desc: "Acrobatics: +14, Intimidation: +14, Nature: +16, Stealth: +16"
@@ -68,8 +69,14 @@ attacks:
     desc: "DC 22, attack +14; __3rd __  _[[Spells/Wall of Thorns|Wall of Thorns]]_\n__Cantrips__  __(4th)__ _[[Spells/Tangle Vine|Tanglefoot]]_\n__Constant__  __(4th)__ _[[Spells/Speak with Plants|Speak with Plants]]_"
 
   - name: "Lignify"
-    desc: " (incapacitation,primal) The touch of a waldgeist transforms flesh into wood. A living creature damaged by the waldgeist's lignifying hand Strike must succeed at a DC 22 Fortitude check save or become [[Conditions/Slowed 1|Slowed 1]] (or [[Conditions/Slowed 1|Slowed 2]] on a critical failure). Further failed saves against lignify increases the slowed condition. Once a creature's actions are reduced to 0 by lignify, that creature becomes [[Conditions/Petrified|Petrified]], except they're transformed into wood instead of stone."
+    desc: " (incapacitation,primal) The touch of a waldgeist transforms flesh into wood. A living creature damaged by the waldgeist's lignifying hand Strike must succeed at a DC 22 Fortitude check save or become [[Conditions/Slowed|Slowed 1]] (or [[Conditions/Slowed|Slowed 2]] on a critical failure). Further failed saves against lignify increases the slowed condition. Once a creature's actions are reduced to 0 by lignify, that creature becomes [[Conditions/Petrified|Petrified]], except they're transformed into wood instead of stone."
  
+```
+
+```encounter-table
+name: Willowshore Waldgeist
+creatures:
+  - 1: Willowshore Waldgeist
 ```
 
 

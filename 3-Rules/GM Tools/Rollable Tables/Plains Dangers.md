@@ -11,7 +11,7 @@ tags:
 | 1d100 | result |
 |------|--------|
 | 1-8 | 1d8 [[Bestiary 2/Crawling Hand\|Crawling Hands]] (Moderate 1) |
-| 9-11 | 1d3 + 1 [[Bestiary 3/Festrog\|Festrogs]] (Moderate 2) |
+| 9-11 | 1d3+1 [[Bestiary 3/Festrog\|Festrogs]] (Moderate 2) |
 | 12-15 | 1 [[Bestiary 3/Shambler Troop\|Shambler Troop]] (Moderate 2) |
 | 16-19 | 1d3 [[Bestiary 2/Assassin Vine\|Assassin Vines]] (Moderate 3) |
 | 20-23 | 2d6 [[Bestiary 1/Skeleton Guard\|Skeleton Guards]] (Moderate 3) |
@@ -22,7 +22,7 @@ tags:
 | 43-47 | 1 [[Bestiary 1/Greater Shadow\|Greater Shadow]] and 1 [[Bestiary 1/Shadow\|Shadow]] (Moderate 6) |
 | 48-55 | 1d3 [[Bestiary 1/Shambler\|Shamblers]] {Moderate 6} |
 | 56-63 | 1 [[Bestiary 2/Dread Wraith\|Dread Wraith]] {Moderate 7} |
-| 64-71 | 1d3 + 1 [[Bestiary 3/Gurgist Mauler\|Gurgist Maulers]] (Moderate 7) |
+| 64-71 | 1d3+1 [[Bestiary 3/Gurgist Mauler\|Gurgist Maulers]] (Moderate 7) |
 | 72-76 | 1 [[Bestiary 3/Clacking Skull Swarm\|Clacking Skull Swarm]] (Moderate 8) |
 | 77-81 | 1d3 [[Bestiary 1/Bulette\|Bulettes]] (Moderate 8) |
 | 82-86 | 1 [[Bestiary 2/Devourer\|Devourer]] (Moderate 9) |

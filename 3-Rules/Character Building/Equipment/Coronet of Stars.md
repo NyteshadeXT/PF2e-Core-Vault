@@ -12,7 +12,7 @@ license: OGL
 ---
 # Coronet of Stars
 ## Item 17
-### [rare](rare "Rare Rarity Trait")[[apex]][[invested]][[magical]]
+### [rare](rare.md "Rare Rarity Trait")[[apex]][[invested]][[3-Rules/Rule References/Magical]]
 
 
 **Price** 15000 gp; 
@@ -27,7 +27,7 @@ This short golden crown bears a number of gems, each placed in the center of an 
 
 **Trigger** A living creature within 60 feet would die
 
-**Effect** You reach out to the creature with a lifeline. The triggering creature receives the effects of [[Spells/Breath of Life|Breath of Life]], except they recover 7d8 Hit Points.
+**Effect** You reach out to the creature with a lifeline. The triggering creature receives the effects of [[Spells/Breath of Life|Breath of Life]], except they recover 7d8 healing Hit Points.
 
 * * *
 

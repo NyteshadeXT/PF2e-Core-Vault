@@ -8,8 +8,9 @@ tags:
   - trait/multiclass
   - trait/common
   - category/class
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.CJMkxlxHiHZQYDCz"
-license: OGL
+license: ORC
 ---
 # Alchemist Dedication
 ## Feat 2
@@ -21,9 +22,11 @@ license: OGL
 
 **Prerequisites** Intelligence +2
 * * *
-You put your alchemical interest into practice. You become trained in alchemical bombs and Crafting; if you were already trained in Crafting, you instead become trained in a skill of your choice. You become trained in alchemist class DC. You gain the alchemist's [[Class Features/Infused Reagents|Infused Reagents]] class feature, gaining a number of reagents each day equal to your level. You also gain the [[Feats/Alchemical Crafting|Alchemical Crafting]] feat and four additional formulas for 1st-level alchemical items, as well as the ability to create free items during your daily preparations. Your advanced alchemy level is 1 and doesn't increase on its own.
+You put your alchemical interest into practice. You become trained in alchemical bombs, the alchemist class DC, and Crafting; if you were already trained in Crafting, you instead become trained in a skill of your choice.
 
-**Special** You cannot select another dedication feat until you have gained two other feats from the [[PF2e Journals/Archetypes/Alchemist|Alchemist]] archetype.
+You gain the [[PF2e Journals/Archetypes/Quick Alchemy|Quick Alchemy]] benefits, creating up to 4 versatile vials during your daily preparations. Add the formulas for four additional common alchemical items to your formula book, in addition to those you gain from Alchemical Crafting.
 
-*Source: Pathfinder Core Rulebook*
-*OGL*
+[[PF2e Journals/Archetypes/Alchemist|Alchemist]]
+
+*Source: Pathfinder Player Core 2*
+*ORC*

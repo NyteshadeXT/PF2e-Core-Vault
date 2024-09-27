@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/amphibious
   - pf2e/creature/type/beast
   - pf2e/creature/type/evil
+  - pf2eMonster
   - pf2e/creature/level/6
 statblock: inline
 name: "Ahuizotl"
@@ -23,12 +24,12 @@ token: [[modules/pf2e-tokens-bestiaries/portraits/bestial/mythological/ahuizotl.
 source: "Pathfinder Bestiary 2"
 name: "Ahuizotl"
 level: "Creature 6"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Large"
-trait_01: "amphibious"
-trait_02: "beast"
-trait_03: "evil"
+trait_01: [[amphibious]]
+trait_02: [[beast]]
+trait_03: [[evil]]
 modifier: 13
 perception:
   - name: "Perception"
@@ -36,7 +37,7 @@ perception:
 languages: "Aklo, Common"
 skills:
   - name: "Skills"
-    desc: "Athletics: +15, Deception: +15 (+19 when using Voice Imitation), Stealth: +15"
+    desc: "Athletics: +15, Deception: +15, Stealth: +15"
 abilityMods: [5, 3, 5, -1, 3, 3]
 speed: 25 feet,  swim 35 feet
 sourcebook: "_Pathfinder Bestiary 2_"
@@ -70,8 +71,14 @@ attacks:
     desc: "`pf2:1` Tail Claw +17 (agile, reach 10 feet)\n__Damage__  2d4 + 8 slashing plus improved-grab"
 
   - name: "Tail Drag"
-    desc: "`pf2:1`  **Requirements** The ahuizotl has a Medium or smaller creature grabbed with its tail claw\n**Effect** The ahuizotl attempts an Athletics check check against the creature's Fortitude DC.\n**Critical Success** If the creature is 10 feet away from the ahuizotl, it is dragged into a square adjacent to the ahuizotl. The ahuizotl can make a jaws Strike against the creature.\n**Success** If the creature is 10 feet away from the ahuizotl, it is dragged into a square adjacent to the ahuizotl.\n**Failure** The creature is not dragged.\n**Critical Failure** The creature is not dragged and the ahuizotl no longer has the creature grabbed."
+    desc: "`pf2:1`  **Requirements** The ahuizotl has a Medium or smaller creature grabbed with its tail claw\n* * *\n\n**Effect** The ahuizotl attempts an Athletics check check against the creature's Fortitude DC.\n* * *\n\n**Critical Success** If the creature is 10 feet away from the ahuizotl, it is dragged into a square adjacent to the ahuizotl. The ahuizotl can make a jaws Strike against the creature.\n\n**Success** If the creature is 10 feet away from the ahuizotl, it is dragged into a square adjacent to the ahuizotl.\n\n**Failure** The creature is not dragged.\n\n**Critical Failure** The creature is not dragged and the ahuizotl no longer has the creature grabbed."
  
+```
+
+```encounter-table
+name: Ahuizotl
+creatures:
+  - 1: Ahuizotl
 ```
 
 

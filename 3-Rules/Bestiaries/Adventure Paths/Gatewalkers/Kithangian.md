@@ -10,6 +10,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/fiend
   - pf2e/creature/type/unholy
+  - pf2eMonster
   - pf2e/creature/level/9
 statblock: inline
 name: "Kithangian"
@@ -24,19 +25,19 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #188: They Watched the Stars"
 name: "Kithangian"
 level: "Creature 9"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Large"
-trait_01: "chaotic"
-trait_02: "demon"
-trait_03: "evil"
-trait_04: "fiend"
-trait_05: "unholy"
+trait_01: [[chaotic]]
+trait_02: [[demon]]
+trait_03: [[evil]]
+trait_04: [[fiend]]
+trait_05: [[unholy]]
 modifier: 19
 perception:
   - name: "Perception"
     desc: "+19; Darkvision"
-languages: "Chthonian, Draconic, Empyrean"
+languages: "Chthonian, Draconic, Empyrean; speak with animals, telepathy 100 feet"
 skills:
   - name: "Skills"
     desc: "Athletics: +20, Intimidation: +20, Nature: +21, Stealth: +16"
@@ -82,14 +83,20 @@ attacks:
     desc: "`pf2:1` (concentrate,divine,polymorph) The kithangian can take on the appearance of any Medium or Large animal. This doesn't change its Speed or their attack and damage modif ers with its Strikes, but it might change the damage type its Strikes deal."
 
   - name: "Kithangian Venom"
-    desc: " (poison) **Saving Throw** DC 25 Fortitude check\n**Maximum Duration** 6 rounds\n**Stage 1** 2d6 poison (2 rounds)\n**Stage 2** 2d6 poison and [[Conditions/Sickened 1|Sickened 1]] (2 rounds)\n**Stage 3** 3d6 poison and [[Conditions/Sickened 1|Sickened 2]] (2 rounds)"
+    desc: " (poison) **Saving Throw** DC 25 Fortitude check\n\n**Maximum Duration** 6 rounds\n\n**Stage 1** 2d6 poison (2 rounds)\n\n**Stage 2** 2d6 poison and [[Conditions/Sickened|Sickened 1]] (2 rounds)\n\n**Stage 3** 3d6 poison and [[Conditions/Sickened|Sickened 2]] (2 rounds)"
 
   - name: "Rasping Tongues"
-    desc: "`pf2:1` (attack) **Frequency** once per round\n**Requirements** The kithangian has a creature [[Conditions/Grabbed|Grabbed]] in one or both pincers\n**Effect** Barbed tongues slither out of the faces in the kithangian's pincers. The tongues burrow into grabbed creatures and inject their minds with haunting psychic screams. Each grabbed creature takes 2d8 piercing and 2d8 mental. A creature can try to resist the mental damage by attempting a DC 25 Will check."
+    desc: "`pf2:1` (attack) **Frequency** once per round\n\n**Requirements** The kithangian has a creature [[Conditions/Grabbed|Grabbed]] in one or both pincers\n* * *\n\n**Effect** Barbed tongues slither out of the faces in the kithangian's pincers. The tongues burrow into grabbed creatures and inject their minds with haunting psychic screams. Each grabbed creature takes 2d8 piercing and 2d8 mental. A creature can try to resist the mental damage by attempting a DC 25 Will check."
 
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
     desc: "`pf2:1`  "
  
+```
+
+```encounter-table
+name: Kithangian
+creatures:
+  - 1: Kithangian
 ```
 
 

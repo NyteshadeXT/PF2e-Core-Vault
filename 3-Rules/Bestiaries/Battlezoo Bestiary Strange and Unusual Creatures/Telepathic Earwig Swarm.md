@@ -7,6 +7,7 @@ aliases: "Compendium.battlezoo-bestiary-su-pf2e.pf2e-battlezoo-su-actors.Actor.C
 tags:
   - pf2e/creature/type/aberration
   - pf2e/creature/type/swarm
+  - pf2eMonster
   - pf2e/creature/level/6
 statblock: inline
 name: "Telepathic Earwig Swarm"
@@ -22,19 +23,19 @@ token: [[modules/battlezoo-bestiary-su-pf2e/art/Portraits/telepathic-earwig-swar
 source: "Battlezoo Bestiary: Strange and Unusual"
 name: "Telepathic Earwig Swarm"
 level: "Creature 6"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Large"
-trait_01: "aberration"
-trait_02: "swarm"
+trait_01: [[aberration]]
+trait_02: [[swarm]]
 modifier: 14
 perception:
   - name: "Perception"
     desc: "+14; "
-languages: "Aklo, Common"
+languages: "Aklo, Common; telepathy 60 feet"
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +12, Athletics: +10, Occultism: +15, "
+    desc: "Acrobatics: +12, Athletics: +10, Occultism: +15, Acrobatics: +12, Athletics: +10, Occultism: +15"
 abilityMods: [2, 4, 2, 5, 5, 3]
 speed: 25 feet
 sourcebook: "_Battlezoo Bestiary: Strange and Unusual_"
@@ -59,14 +60,20 @@ attacks:
     desc: "DC 21, attack +13; __4th __  _[[Spells/Confusion|Confusion]]_; __2nd __  _[[Spells/Calm|Calm Emotions]]_, _[[Spells/Telekinetic Maneuver|Telekinetic Maneuver]]_; __1st __  _[[Spells/Charm|Charm]]_, _[[Spells/Command|Command (At Will)]]_\n__Cantrips__  __(3rd)__ _[[Spells/Daze|Daze]]_, _[[Spells/Ghost Sound|Ghost Sound]]_"
 
   - name: "Psychic Sunder"
-    desc: "`pf2:1` (mental,occult) **Requirements** The telepathic earwig swarm's previous action was Telepathic Barrage and a creature failed its saving throw and took mental damage\n**Effect** The earwig swarm focuses its telepathic powers on breaking down the mental defenses of its victim. The swarm chooses a creature that failed its saving throw against the Telepathic Barrage and took mental damage. That creature becomes Stupefied 1. This is cumulative across multiple uses of Psychic Sunder to a maximum of Stupefied 4. A creature who reaches stupefied 4 in this way (or who is already stupefied 4) is exposed to the swarm's earwig infection. The stupefied condition from Telepathic Sunder decreases by 1 every hour."
+    desc: "`pf2:1` (mental,occult) **Requirements** The telepathic earwig swarm's previous action was Telepathic Barrage and a creature failed its saving throw and took mental damage\n* * *\n\n**Effect** The earwig swarm focuses its telepathic powers on breaking down the mental defenses of its victim. The swarm chooses a creature that failed its saving throw against the Telepathic Barrage and took mental damage. That creature becomes [[undefined]]. This is cumulative across multiple uses of Psychic Sunder to a maximum of [[undefined]]. A creature who reaches stupefied 4 in this way (or who is already stupefied 4) is exposed to the swarm's earwig infection. The stupefied condition from Telepathic Sunder decreases by 1 every hour."
 
   - name: "Earwig Infection"
-    desc: " (disease,mental,occult) **Saving Throw** DC 24 Fortitude check\n**Stage 1** stupefied condition from Psychic Sunder doesn't decrease on its own (1 day)\n**Stage 2** Same as stage 1 and Drained 1 (1 day)\n**Stage 3** Same as stage 1, drained 1, and the creature must attempt a DC 5 Flat check before taking any action or lose the action (1 day)\n**Stage 4** Same as stage 2 and the creature must attempt a DC 11 Flat check before taking any action or lose the action (1 day)\n**Stage 5** The creature become permanently controlled by the larval earwig swarm. If reduced to 0 HP while controlled, the creature dies and spawns a new telepathic earwig swarm."
+    desc: " (disease,mental,occult) **Saving Throw** DC 24 Fortitude check\n\n**Stage 1** stupefied condition from Psychic Sunder doesn't decrease on its own (1 day)\n\n**Stage 2** Same as stage 1 and [[undefined]] (1 day)\n\n**Stage 3** Same as stage 1, drained 1, and the creature must attempt a DC 5 Flat check before taking any action or lose the action (1 day)\n\n**Stage 4** Same as stage 2 and the creature must attempt a DC 11 Flat check before taking any action or lose the action (1 day)\n\n**Stage 5** The creature become permanently controlled by the larval earwig swarm. If reduced to 0 HP while controlled, the creature dies and spawns a new telepathic earwig swarm."
 
   - name: "Telepathic Barrage"
     desc: "`pf2:1` (mental) Each creature in the swarm's area takes 2d12 mental damage (DC 21 Fortitude check save)"
  
+```
+
+```encounter-table
+name: Telepathic Earwig Swarm
+creatures:
+  - 1: Telepathic Earwig Swarm
 ```
 
 

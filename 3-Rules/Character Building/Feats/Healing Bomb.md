@@ -3,31 +3,32 @@ obsidianUIMode: preview
 title: "Healing Bomb"
 cssclasses: pf2e,pf2e-spell
 tags:
-  - trait/additive2
+  - trait/additive
   - trait/alchemist
   - trait/common
   - category/class
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.xXHwktc9SymSY8d6"
-license: OGL
+license: ORC
 ---
-# Healing Bomb `pf2:0`
+# Healing Bomb
 ## Feat 4
-### [[additive2]][[alchemist]]
+### [[additive]][[alchemist]]
 
 **Category** class; 
 
 
 
 
-**Frequency** once per round
-
-**Trigger** You craft an [[Equipment/Elixir of Life (Minor)|Elixir of Life]] using [[Feats/Quick Alchemy|Quick Alchemy]], and that elixir is at least 2 levels lower than your advanced alchemy level.
+You can add a foamy catalyst to an elixir of life to turn it into a topical projectile. You can throw the elixir as though it were an alchemical bomb, with the following results.
 
 * * *
 
-By adding a special catalyst, you transform a healing elixir into a topical projectile. You grant the elixir the bomb trait.
+**Success** The target is affected as though it drank the elixir, and each living creature adjacent to it regains HP from the bomb equal to the elixir's number of damage dice (3 HP for a lesser elixir of life, for example).
 
-If you throw an elixir of life bomb at a willing target, you hit even on a failure, though not on a critical failure. If your Strike with this elixir bomb hits a living target, the target regains Hit Points as if it had consumed the elixir. On a critical success, the target also gains the elixir's item bonus to saving throws against diseases and poisons for 1 minute.
+**Failure** The target regains HP equal to the elixir's number of damage dice.
 
-*Source: Pathfinder Advanced Player's Guide*
-*OGL*
+**Critical Failure** The healing bomb has no effect.
+
+*Source: Pathfinder Player Core 2*
+*ORC*

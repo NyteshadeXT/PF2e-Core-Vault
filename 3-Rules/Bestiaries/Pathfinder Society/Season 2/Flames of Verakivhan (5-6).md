@@ -5,6 +5,7 @@ noteType: pf2eHazard
 tags:
   - magical
   - trap
+  - pf2eHazard
   - complex
 source: Pathfinder Society Scenario #2-18: The Fanciful March of Urwal
 aliases: "Compendium.pf2e.pfs-season-2-bestiary.Actor.gKAUuRJoKEoYo3Ub" 
@@ -22,8 +23,8 @@ name: "Flames of Verakivhan (5-6)"
 level: "Hazard 3"
 
 trait_06: "Complex"
-trait_01: "magical"
-trait_02: "trap"
+trait_01: [[magical]]
+trait_02: [[trap]]
 modifier: 11
 sourcebook: "_Pathfinder Society Scenario #2-18: The Fanciful March of Urwal_"
 perception:
@@ -42,10 +43,16 @@ attacks:
   - name: ""
 
   - name: "Ignite"
-    desc: "`pf2:r` **Trigger** A creature that is not a demon or elemental enters the planar overlay\n**Effect** Flames ignite throughout the area. The hazard rolls initiative."
+    desc: "`pf2:r` **Trigger** A creature that is not a demon or elemental enters the planar overlay\n* * *\n\n**Effect** Flames ignite throughout the area. The hazard rolls initiative."
 
   - name: "Routine"
-    desc: "(3 actions) Any creature within the flames takes 1d10 + 6 fire damage, and any creature adjacent to the flames takes 1d10 fire damage (DC 20 Reflex check). Additionally, the flames call down a fiery rain that deals 1d10 + 6 fire damage to a random PC within the planar overlay (DC 20 Reflex check save). If any PCs attempted to disable the hazard that turn, the fiery rain chooses one of them as its target."
+    desc: "(3 actions) Any creature within the flames takes 1d10+6 fire damage, and any creature adjacent to the flames takes 1d10 fire damage (DC 20 Reflex check). Additionally, the flames call down a fiery rain that deals 1d10+6 fire damage to a random PC within the planar overlay (DC 20 Reflex check save). If any PCs attempted to disable the hazard that turn, the fiery rain chooses one of them as its target."
 
+```
+
+```encounter-table
+name: Flames of Verakivhan (5-6)
+creatures:
+  - 1: Flames of Verakivhan (5-6)
 ```
 

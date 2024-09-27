@@ -6,8 +6,9 @@ tags:
   - trait/lizardfolk
   - trait/common
   - category/ancestry
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.pivX2SxPQjKDyvHU"
-license: OGL
+license: ORC
 ---
 # Iruxi Spirit Strike
 ## Feat 13
@@ -18,7 +19,7 @@ license: OGL
 
 
 
-Your iruxi unarmed attacks channel the spiritual energy of your ancestors. Any unarmed attacks you acquire from iruxi heritages or ancestry feats gain the effects of a [[Equipment/Ghost Touch|Ghost Touch]] property rune.
+Your iruxi unarmed attacks channel the spiritual energy of your ancestors. Any unarmed attacks you acquire from the lizardfolk ancestry, lizardfolk heritages, or lizardfolk ancestry feats gain the effects of a _ghost touch_ property rune.
 
-*Source: Pathfinder Lost Omens: Ancestry Guide*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

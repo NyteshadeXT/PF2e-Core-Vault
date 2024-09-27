@@ -6,8 +6,9 @@ tags:
   - trait/lizardfolk
   - trait/common
   - category/ancestry
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.itjTPh76mZfJCBxQ"
-license: OGL
+license: ORC
 ---
 # Marsh Runner
 ## Feat 1
@@ -19,7 +20,7 @@ license: OGL
 
 **Prerequisites** You have a swim Speed
 * * *
-You are adept at moving through marshy terrain. When you use the [[Actions/Step|Step]] action, you can ignore difficult terrain caused by flooding, swamps, or quicksand. In addition, when you use the Acrobatics skill to [[Actions/Balance|Balance]] on narrow surfaces or uneven marshy ground, you aren't [[Conditions/Off-Guard|Off-Guard]], and if you roll a success on the Acrobatics check, you get a critical success instead.
+When you use the Step action, you can ignore difficult terrain caused by flooding, swamps, or quicksand. In addition, when you use the Acrobatics skill to [[Actions/Balance|Balance]] on narrow surfaces or uneven marshy ground, you aren't [[Conditions/Off-Guard|Off-Guard]], and if you roll a success on the Acrobatics check, you get a critical success instead.
 
-*Source: Pathfinder Lost Omens: Character Guide*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

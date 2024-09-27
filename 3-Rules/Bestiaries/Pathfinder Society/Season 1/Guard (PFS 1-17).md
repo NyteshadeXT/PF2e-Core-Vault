@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/human
   - pf2e/creature/type/humanoid
   - pf2e/creature/type/lawful
+  - pf2eMonster
   - pf2e/creature/level/1
 statblock: inline
 name: "Guard (PFS 1-17)"
@@ -26,10 +27,10 @@ level: "Creature 1"
 
 alignment: ""
 size: "Medium"
-trait_01: "fey"
-trait_02: "human"
-trait_03: "humanoid"
-trait_04: "lawful"
+trait_01: [[fey]]
+trait_02: [[human]]
+trait_03: [[humanoid]]
+trait_04: [[lawful]]
 modifier: 7
 perception:
   - name: "Perception"
@@ -69,11 +70,17 @@ attacks:
     desc: "`pf2:1` Sap +9 (agile, nonlethal)\n__Damage__  1d6 + 4 bludgeoning"
 
   - name: "Ranged"
-    desc: "`pf2:1` Crossbow +7 (range increment 120 feet, reload 1)\n__Damage__  1d8 piercing"
+    desc: "`pf2:1` Club +7 (thrown 10 ft.)\n__Damage__  1d6 + 4 bludgeoning"
 
   - name: "Ranged"
-    desc: "`pf2:1` Club +7 (thrown 10 ft.)\n__Damage__  1d6 + 4 bludgeoning"
+    desc: "`pf2:1` Crossbow +7 (range increment 120 feet, reload 1)\n__Damage__  1d8 piercing"
  
+```
+
+```encounter-table
+name: Guard (PFS 1-17)
+creatures:
+  - 1: Guard (PFS 1-17)
 ```
 
 

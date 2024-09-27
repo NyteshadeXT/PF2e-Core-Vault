@@ -4,23 +4,23 @@ title: "Titan's Stature"
 cssclasses: pf2e,pf2e-spell
 tags:
   - trait/barbarian
-  - trait/polymorph
   - trait/common
   - category/class
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.nI67dTzKYg5kKMsd"
-license: OGL
+license: ORC
 ---
 # Titan's Stature
 ## Feat 12
-### [[barbarian]][[polymorph]]
+### [[barbarian]]
 
 **Category** class; 
 
 
 
-**Prerequisites** giant instinct; Giant's Stature
+**Prerequisites** Giant's Stature
 * * *
-You grow to even greater size. When using [[Feats/Giant's Stature|Giant's Stature]], you can instead become Huge (increasing your reach by 10 feet if you were Medium or smaller) while you are raging. You have the [[Conditions/Clumsy 1|Clumsy 1]] condition as long as you are Huge.
+You grow to even greater size. When using Giant's Stature, you can instead become Huge (increasing your reach by 10 feet if you were Medium or smaller).
 
-*Source: Pathfinder Core Rulebook*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

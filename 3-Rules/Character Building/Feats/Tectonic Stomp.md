@@ -19,7 +19,7 @@ license: OGL
 
 
 
-You cause minor tremors that topple your enemies. All creatures in a 30-foot emanation who are standing on the ground take 1d6 bludgeoning damage for every 2 levels you have, with a Reflex check save. A creature that fails its save also falls [[Conditions/Prone|Prone]].
+You cause minor tremors that topple your enemies. All creatures in a @Template\[emanation|distance:30\] who are standing on the ground take 1d6 bludgeoning damage for every 2 levels you have, with a Reflex check save. A creature that fails its save also falls [[Conditions/Prone|Prone]].
 
 * * *
 
@@ -27,7 +27,7 @@ You cause minor tremors that topple your enemies. All creatures in a 30-foot ema
 
 * * *
 
-**Awakening** Your stomp rattles those who fail horribly. A creature that critically fails its save is also [[Conditions/Stunned 1|Stunned 1]].
+**Awakening** Your stomp rattles those who fail horribly. A creature that critically fails its save is also [[Conditions/Stunned|Stunned 1]].
 
 *Source: Pathfinder Dark Archive*
 *OGL*

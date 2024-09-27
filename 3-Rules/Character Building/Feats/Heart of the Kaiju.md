@@ -27,7 +27,7 @@ Witnessing the might of the kaiju King Mogaru, Alru, and Toraloa up close awoke 
 
 **Melee** `pf2:1` claws (agile, reach 20 feet), **Damage** 3d8+20 slashing;
 
-**Breath Weapon** `pf2:2` (evocation, primal) Each creature in a 60-foot cone takes 15d6 damage (of your chosen damage type), with a basic Reflex check save against your spell DC. Once activated, your breath weapon can't be used again for 1d4 rounds.
+**Breath Weapon** `pf2:2` (evocation, primal) Each creature in a @Template\[cone|distance:60\] takes 15d6 damage (of your chosen damage type), with a basic Reflex check save against your spell DC. Once activated, your breath weapon can't be used again for 1d4 rounds.
 
 *Source: Pathfinder #168: King of the Mountain*
 *OGL*

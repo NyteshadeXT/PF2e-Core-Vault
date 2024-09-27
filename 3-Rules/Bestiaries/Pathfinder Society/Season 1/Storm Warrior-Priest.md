@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/chaotic
   - pf2e/creature/type/humanoid
   - pf2e/creature/type/tengu
+  - pf2eMonster
   - pf2e/creature/level/2
 statblock: inline
 name: "Storm Warrior-Priest"
@@ -25,9 +26,9 @@ level: "Creature 2"
 
 alignment: ""
 size: "Medium"
-trait_01: "chaotic"
-trait_02: "humanoid"
-trait_03: "tengu"
+trait_01: [[chaotic]]
+trait_02: [[humanoid]]
+trait_03: [[tengu]]
 modifier: 6
 perception:
   - name: "Perception"
@@ -64,8 +65,14 @@ attacks:
     desc: "`pf2:1` Beak +8 (finesse)\n__Damage__  1d4 + 2 piercing"
 
   - name: "Storm Smite"
-    desc: "`pf2:r` (divine,electricity) **Trigger** The storm warrior-priest critically hits with a scimitar Strike\n**Effect** The storm warrior-priest releases a blast of lighting in a 10-foot burst centered on the target. A creature in the area other than the storm warrior-priest takes 2d6 electricity damage (DC 15 Reflex check save). On a critical failure, such a creature is also [[Conditions/Deafened|Deafened]] for 1 round."
+    desc: "`pf2:r` (divine,electricity) **Trigger** The storm warrior-priest critically hits with a scimitar Strike\n* * *\n\n**Effect** The storm warrior-priest releases a blast of lighting in a @Template[burst|distance:10] centered on the target. A creature in the area other than the storm warrior-priest takes 2d6 electricity damage (DC 15 Reflex check save). On a critical failure, such a creature is also [[Conditions/Deafened|Deafened]] for 1 round."
  
+```
+
+```encounter-table
+name: Storm Warrior-Priest
+creatures:
+  - 1: Storm Warrior-Priest
 ```
 
 

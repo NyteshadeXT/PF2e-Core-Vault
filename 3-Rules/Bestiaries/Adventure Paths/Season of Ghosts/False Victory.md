@@ -4,6 +4,7 @@ obsidianUIMode: preview
 noteType: pf2eHazard
 tags:
   - environmental
+  - pf2eHazard
 
 source: Pathfinder #198: No Breath to Cry
 aliases: "Compendium.pf2e.season-of-ghosts-bestiary.Actor.7lNpmwXNZgHcYn9I" 
@@ -21,7 +22,7 @@ name: "False Victory"
 level: "Hazard 7"
 
 
-trait_01: "environmental"
+trait_01: [[environmental]]
 modifier: 17
 sourcebook: "_Pathfinder #198: No Breath to Cry_"
 perception:
@@ -40,9 +41,15 @@ attacks:
   - name: ""
 
   - name: "Reaction"
-    desc: "`pf2:r` **Trigger** The PCs conclude an encounter in which a battle took place\n**Effect** The mindscape starts to revert the results of the battle, shifting things back to the way they were at the start of the encounter. The reversion takes 1 round to complete, during which the PCs can attempt to disable the hazard or take any other actions to prepare for facing the same encounter over again. At the end of the round, the encounter resets and initiative is rolled again; all foes and environmental elements return to the condition they were in just before the fight began, but the PCs themselves do not."
+    desc: "`pf2:r` **Trigger** The PCs conclude an encounter in which a battle took place\n* * *\n\n**Effect** The mindscape starts to revert the results of the battle, shifting things back to the way they were at the start of the encounter. The reversion takes 1 round to complete, during which the PCs can attempt to disable the hazard or take any other actions to prepare for facing the same encounter over again. At the end of the round, the encounter resets and initiative is rolled again; all foes and environmental elements return to the condition they were in just before the fight began, but the PCs themselves do not."
 
 
 
+```
+
+```encounter-table
+name: False Victory
+creatures:
+  - 1: False Victory
 ```
 

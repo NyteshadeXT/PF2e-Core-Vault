@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/clockwork
   - pf2e/creature/type/construct
   - pf2e/creature/type/mindless
+  - pf2eMonster
   - pf2e/creature/level/1
 statblock: inline
 name: "Springjaw Doll"
@@ -26,16 +27,17 @@ level: "Creature 1"
 
 alignment: ""
 size: "Small"
-trait_01: "clockwork"
-trait_02: "construct"
-trait_03: "mindless"
+trait_01: [[clockwork]]
+trait_02: [[construct]]
+trait_03: [[mindless]]
 modifier: 7
 perception:
   - name: "Perception"
     desc: "+7; Darkvision"
+languages: ""
 skills:
   - name: "Skills"
-    desc: "Athletics: +7, Stealth: +7, "
+    desc: "Athletics: +7, Stealth: +7"
 abilityMods: [3, 4, 1, -5, 0, -5]
 speed: 20 feet
 sourcebook: "_Battlezoo Bestiary_"
@@ -55,12 +57,12 @@ abilities_top:
     desc: "  The springjaw doll has an automatic result of 18 on Deception checks and DCs to pass as a simple porcelain doll."
 
   - name: "[[Compendium.pf2e.bestiary-ability-glossary-srd.Item.UzITQk56510jg5hS|Wind Up]]"
-    desc: "  24 hours, Thievery check, standby\nFor a clockwork to act, it must be wound with a unique key by another creature. This takes 1 minute. Once wound, it remains operational for the listed amount of time, usually 24 hours, after which time it becomes unaware of its surroundings and can't act until it's wound again. Some clockworks' abilities require them to spend some of their remaining operational time. They can't spend more than they have and shut down immediately once they have 0 time remaining. If it's unclear when a clockwork was last wound, most clockwork keepers wind all their clockworks at a set time, typically 8 a.m.\nA clockwork that lists standby in its wind-up entry can enter standby mode as a 3-action activity. Its operational time doesn't decrease in standby, but it can sense its surroundings (with a -2 penalty to Perception). It can't act, with one exception: when it perceives a creature, it can exit standby as a reaction (rolling initiative if appropriate).\nA creature can attempt to Disable a Device to wind a clockwork down (with a DC listed in the wind-up entry). For each success, the clockwork loses 1 hour of operational time. This can be done even if the clockwork is in standby mode."
+    desc: "  24 hours, DC 13 Thievery check, standby\n* * *\n\nFor a clockwork to act, it must be wound with a unique key by another creature. This takes 1 minute. Once wound, it remains operational for the listed amount of time, usually 24 hours, after which time it becomes unaware of its surroundings and can't act until it's wound again. Some clockworks' abilities require them to spend some of their remaining operational time. They can't spend more than they have and shut down immediately once they have 0 time remaining. If it's unclear when a clockwork was last wound, most clockwork keepers wind all their clockworks at a set time, typically 8 a.m.\n\nA clockwork that lists standby in its wind-up entry can enter standby mode as a 3-action activity. Its operational time doesn't decrease in standby, but it can sense its surroundings (with a -2 penalty to Perception). It can't act, with one exception: when it perceives a creature, it can exit standby as a reaction (rolling initiative if appropriate).\n\nA creature can attempt to Disable a Device to wind a clockwork down (with a DC listed in the wind-up entry). For each success, the clockwork loses 1 hour of operational time. This can be done even if the clockwork is in standby mode."
 
 abilities_mid:
   - name: ""
   - name: "Wind-Up Scream"
-    desc: "`pf2:r` (sonic) **Frequency** once per day;\n**Trigger** The springjaw doll is hit with a melee attack;\n**Effect** The springjaw doll lets loose a shrill, mechanical screech to alert its master of dangerous intruders. Creatures within 5 feet of the doll must succeed at a Fortitude save or be Deafened for 1 round. On a critical failure, a creature is also Off-Guard for 1 round."
+    desc: "`pf2:r` (sonic) **Frequency** once per day;\n\n**Trigger** The springjaw doll is hit with a melee attack;\n* * *\n\n**Effect** The springjaw doll lets loose a shrill, mechanical screech to alert its master of dangerous intruders. Creatures within 5 feet of the doll must succeed at a DC 15 Fortitude save or be [[Conditions/Deafened|Deafened]] for 1 round. On a critical failure, a creature is also [[Conditions/Off-Guard|Off-Guard]] for 1 round."
 
 attacks:
   - name: ""
@@ -78,8 +80,14 @@ attacks:
     desc: "  A creature grabbed by the springjaw doll's jaw takes 1d4 bleed damage as long as it is grabbed."
 
   - name: "Turn the Screws"
-    desc: "`pf2:2`  **Requirements** The springjaw doll has a creature Grabbed in its jaw;\n**Effect** The springjaw doll jabs its metallic fingers into the creature. The doll makes a melee finger bolts Strike with a +9 attack roll modifier against the grabbed creature; if it rolls a failure to hit, it gets a success instead, and if it rolls a success it gets a critical success."
+    desc: "`pf2:2`  **Requirements** The springjaw doll has a creature [[Conditions/Grabbed|Grabbed]] in its jaw;\n* * *\n\n**Effect** The springjaw doll jabs its metallic fingers into the creature. The doll makes a melee finger bolts Strike with a +9 attack roll modifier against the grabbed creature; if it rolls a failure to hit, it gets a success instead, and if it rolls a success it gets a critical success."
  
+```
+
+```encounter-table
+name: Springjaw Doll
+creatures:
+  - 1: Springjaw Doll
 ```
 
 
@@ -88,7 +96,7 @@ A springjaw doll appears to be nothing more than a finely made porcelain doll st
 
 Tinkers and toymakers construct springjaw dolls to guard their shops and domiciles. Most people don't even realize that these unassuming dolls are fierce—and even sometimes deadly—wardens. Like other clockwork creatures, upon its creation a springjaw doll can be programmed to perform a small selection of actions or a specific routine. A particularly talented or haughty engineer might craft a springjaw doll for a purpose as menial as cracking walnuts; while springjaw dolls have no will or personality of their own, dolls created to perform such inglorious drudgery nevertheless have a peculiar tendency to nip at their master's fingers a little more often than can be attributed to pure chance.
 
-The complex machinery inside a springjaw doll is valuable to those interested in machinery, trap creation, or clockwork devices. It takes 1 hour and a successful Crafting check to properly disassemble a springjaw doll. The value of the springjaw doll's internal parts should be appropriate to its level.
+The complex machinery inside a springjaw doll is valuable to those interested in machinery, trap creation, or clockwork devices. It takes 1 hour and a successful DC 20 Crafting check to properly disassemble a springjaw doll. The value of the springjaw doll's internal parts should be appropriate to its level.
 
 Every springjaw doll looks different depending on the whims of its creator, but some dolls have vastly different abilities than the one presented here. Such dolls might fire bolts of electricity out their fingers (in which case they lack weakness to electricity), while others might instead breathe oil and fire. Larger variants of springjaw dolls also exist; such human-sized dolls might be mistaken for wax sculptures, lifelike mannequins, or common dressmakers' dummies to better surprise would-be thieves.
 

@@ -6,8 +6,9 @@ tags:
   - trait/duskwalker
   - trait/common
   - category/ancestry
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.O5v8yaeCbjKeXfyi"
-license: OGL
+license: ORC
 ---
 # Duskwalker Lore
 ## Feat 1
@@ -18,7 +19,9 @@ license: OGL
 
 
 
-You either found another duskwalker who taught you the secrets of your kind, or you managed to research your unusual heritage. You gain the trained proficiency rank in Medicine and Religion. If you would automatically become trained in one of those skills (from your background or class, for example), you instead become trained in a skill of your choice. You also become trained in Boneyard Lore.
+You either found another duskwalker who taught you the secrets of your kind, or you managed to research your unusual heritage. You gain the trained proficiency rank in Medicine and Religion. If you would automatically become trained in one of those skills (from your background or class, for example), you instead become trained in a skill of your choice.
 
-*Source: Pathfinder Advanced Player's Guide*
-*OGL*
+You also gain the [[Feats/Additional Lore|Additional Lore]] general feat for Boneyard Lore.
+
+*Source: Pathfinder Player Core 2*
+*ORC*

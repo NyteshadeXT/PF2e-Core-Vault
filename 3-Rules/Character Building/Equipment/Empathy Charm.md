@@ -11,7 +11,7 @@ license: OGL
 ---
 # Empathy Charm
 ## Item 2
-### [uncommon](uncommon "Uncommon Rarity Trait")[[companion]][[magical]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[companion]][[3-Rules/Rule References/Magical]]
 
 
 **Price** 35 gp; 

@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/human
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/5
 statblock: inline
 name: "Bijan And Zaynap Ohrlavi"
@@ -22,12 +23,12 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Society Scenario #1-00: Origin of the Open Road"
 name: "Bijan And Zaynap Ohrlavi"
 level: "Creature 5"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Medium"
-trait_01: "evil"
-trait_02: "human"
-trait_03: "humanoid"
+trait_01: [[evil]]
+trait_02: [[human]]
+trait_03: [[humanoid]]
 modifier: 11
 perception:
   - name: "Perception"
@@ -84,6 +85,12 @@ attacks:
   - name: "[[Bestiary Ability Glossary/Sneak Attack|Sneak Attack]]"
     desc: "  If the alchemist's Strike hits an [[Conditions/Off-Guard|Off-Guard]] creature, they deal 1d6 extra precision damage."
  
+```
+
+```encounter-table
+name: Bijan And Zaynap Ohrlavi
+creatures:
+  - 1: Bijan And Zaynap Ohrlavi
 ```
 
 

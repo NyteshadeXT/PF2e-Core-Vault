@@ -12,7 +12,7 @@ license: ORC
 ---
 # Fifth Doctrine
 ## Feat 15
-### [[cleric]]
+### [[3-Rules/trait_reference/cleric]]
 
 **Category** classfeature; 
 

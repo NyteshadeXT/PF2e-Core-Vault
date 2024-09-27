@@ -11,7 +11,7 @@ license: OGL
 ---
 # Mosquito Witch Patron
 ## Feat 1
-### [rare](rare "Rare Rarity Trait")[[witch]]
+### [rare](rare.md "Rare Rarity Trait")[[witch]]
 
 **Category** classfeature; 
 

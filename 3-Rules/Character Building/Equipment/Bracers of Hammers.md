@@ -12,7 +12,7 @@ license: OGL
 ---
 # Bracers of Hammers
 ## Item 17
-### [rare](rare "Rare Rarity Trait")[[apex]][[invested]][[magical]]
+### [rare](rare.md "Rare Rarity Trait")[[apex]][[invested]][[3-Rules/Rule References/Magical]]
 
 
 **Price** 15000 gp; 

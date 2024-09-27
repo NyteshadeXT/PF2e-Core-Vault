@@ -10,6 +10,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/humanoid
   - pf2e/creature/type/lawful
+  - pf2eMonster
   - pf2e/creature/level/13
 statblock: inline
 name: "Duergar Slave Lord"
@@ -24,14 +25,14 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #148: Fires of the Haunted City"
 name: "Duergar Slave Lord"
 level: "Creature 13"
-rare_03: "Rare"
+rare_03: [[Rare]]
 alignment: ""
 size: "Medium"
-trait_01: "duergar"
-trait_02: "dwarf"
-trait_03: "evil"
-trait_04: "humanoid"
-trait_05: "lawful"
+trait_01: [[duergar]]
+trait_02: [[dwarf]]
+trait_03: [[evil]]
+trait_04: [[humanoid]]
+trait_05: [[lawful]]
 modifier: 26
 perception:
   - name: "Perception"
@@ -74,11 +75,17 @@ attacks:
     desc: "DC 33, attack +25; __2nd __  _[[Spells/Enlarge|Enlarge (Self Only)]]_, _[[Spells/Invisibility|Invisibility (Self Only)]]_"
 
   - name: "Hunt Prey"
-    desc: "`pf2:1`  The slave lord designates as its prey a single creature that they can see or hear or that they are Tracking. They gain a +2 circumstance bonus to Perception checks when they [[Actions/Seek|Seek]] their prey and a +2 circumstance bonus to [[Actions/Track|Track]] their prey. They also ignore the penalty for making ranged attacks within their second range increment against their prey.\nThe first time a slave lord hits their hunted prey in a round, they deal 2d8 additional precision damage. A slave lord can have only one prey designated at a time."
+    desc: "`pf2:1`  The slave lord designates as its prey a single creature that they can see or hear or that they are Tracking. They gain a +2 circumstance bonus to Perception checks when they [[Actions/Seek|Seek]] their prey and a +2 circumstance bonus to [[Actions/Track|Track]] their prey. They also ignore the penalty for making ranged attacks within their second range increment against their prey.\n\nThe first time a slave lord hits their hunted prey in a round, they deal 2d8 additional precision damage. A slave lord can have only one prey designated at a time."
 
   - name: "Hunter's Flurry"
-    desc: "`pf2:1`  **Frequency** once per round\n**Effect** The slave lord makes two bow Strikes or two melee Strikes, each using a different weapon. These Strikes must target the slave lord's prey. If both Strikes hit, combine their damage for the purpose of resistances and weaknesses."
+    desc: "`pf2:1`  **Frequency** once per round\n* * *\n\n**Effect** The slave lord makes two bow Strikes or two melee Strikes, each using a different weapon. These Strikes must target the slave lord's prey. If both Strikes hit, combine their damage for the purpose of resistances and weaknesses."
  
+```
+
+```encounter-table
+name: Duergar Slave Lord
+creatures:
+  - 1: Duergar Slave Lord
 ```
 
 

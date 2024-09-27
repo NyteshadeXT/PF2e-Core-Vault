@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/giant
   - pf2e/creature/type/humanoid
   - pf2e/creature/type/unholy
+  - pf2eMonster
   - pf2e/creature/level/18
 statblock: inline
 name: "Dragonstorm Fire Giant"
@@ -23,13 +24,13 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #150: Broken Promises"
 name: "Dragonstorm Fire Giant"
 level: "Creature 18"
-rare_03: "Rare"
+rare_03: [[Rare]]
 alignment: ""
 size: "huge"
-trait_01: "evil"
-trait_02: "giant"
-trait_03: "humanoid"
-trait_04: "unholy"
+trait_01: [[evil]]
+trait_02: [[giant]]
+trait_03: [[humanoid]]
+trait_04: [[unholy]]
 modifier: 30
 perception:
   - name: "Perception"
@@ -79,6 +80,13 @@ attacks:
  
 ```
 
+```encounter-table
+name: Dragonstorm Fire Giant
+creatures:
+  - 1: Dragonstorm Fire Giant
+```
 
+
+Variant fire giant
 
 

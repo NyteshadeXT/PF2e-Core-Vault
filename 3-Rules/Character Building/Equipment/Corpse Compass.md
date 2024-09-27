@@ -10,7 +10,7 @@ license: OGL
 ---
 # Corpse Compass
 ## Item 3
-### [uncommon](uncommon "Uncommon Rarity Trait")[[magical]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[3-Rules/Rule References/Magical]]
 
 
 **Price** 45 gp; 

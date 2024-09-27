@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.pathfinder-bestiary-2.Actor.aFRGgQWWCDIiBlUl"
 tags:
   - pf2e/creature/type/aberration
   - pf2e/creature/type/shadow
+  - pf2eMonster
   - pf2e/creature/level/3
 statblock: inline
 name: "D&#x27;ziriak"
@@ -25,13 +26,13 @@ level: "Creature 3"
 
 alignment: ""
 size: "Medium"
-trait_01: "aberration"
-trait_02: "shadow"
+trait_01: [[aberration]]
+trait_02: [[shadow]]
 modifier: 10
 perception:
   - name: "Perception"
     desc: "+10; Darkvision"
-languages: "Dziriak, Shadowtongue"
+languages: "Dziriak, Shadowtongue; telepathy 100 feet"
 skills:
   - name: "Skills"
     desc: "Arcana: +8, Athletics: +6, Occultism: +10, Stealth: +10, Survival: +8"
@@ -65,11 +66,17 @@ attacks:
     desc: "DC 19, attack +9; __7th __ (1 slots) _[[Spells/Interplanar Teleport|Plane Shift (Self only) (To Shadow Plane only)]]_"
 
   - name: "Dazzling Burst"
-    desc: "`pf2:2` (light,visual) The d'ziriak causes its body to flare with intense colorful light. Non-d'ziriaks in a 20-foot emanation must attempt a DC 20 Fortitude check save. After using this ability, the d'ziriak loses its glow for 24 hours; during this time it can't use again.\nA creature that attempts this save is immune to all Dazzling Bursts for 1 minute.\n**Critical Success** The creature is unaffected.\n**Success** The creature is [[Conditions/Dazzled|Dazzled]] for 1 round.\n**Failure** The creature is dazzled for 1 minute.\n**Critical Failure** The creature is [[Conditions/Blinded|Blinded]] for 1 round and dazzled for 1 minute."
+    desc: "`pf2:2` (light,visual) The d'ziriak causes its body to flare with intense colorful light. Non-d'ziriaks in a @Template[emanation|distance:20] must attempt a DC 20 Fortitude check save. After using this ability, the d'ziriak loses its glow for 24 hours; during this time it can't use again.\n\nA creature that attempts this save is immune to all Dazzling Bursts for 1 minute.\n* * *\n\n**Critical Success** The creature is unaffected.\n\n**Success** The creature is [[Conditions/Dazzled|Dazzled]] for 1 round.\n\n**Failure** The creature is dazzled for 1 minute.\n\n**Critical Failure** The creature is [[Conditions/Blinded|Blinded]] for 1 round and dazzled for 1 minute."
 
   - name: "Double Claw"
-    desc: "`pf2:1`  **Frequency** once per round\n**Effect** The d'ziriak makes two claw Strikes. If both hit the same creature, combine their damage for the purpose of resistances and weaknesses. This counts as two attacks for the d'ziriak's multiple attack penalty, and the penalty doesn't increase until after both attacks."
+    desc: "`pf2:1`  **Frequency** once per round\n* * *\n\n**Effect** The d'ziriak makes two claw Strikes. If both hit the same creature, combine their damage for the purpose of resistances and weaknesses. This counts as two attacks for the d'ziriak's multiple attack penalty, and the penalty doesn't increase until after both attacks."
  
+```
+
+```encounter-table
+name: D'ziriak
+creatures:
+  - 1: D'ziriak
 ```
 
 

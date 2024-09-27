@@ -11,13 +11,13 @@ tags:
 
 ## Table of Contents
 
-- [[Air]]
-- [[Darkness]]
-- [[Earth]]
+- [[3-Rules/Battlezoo Strange and Unusual/Imbued Properties/Air]]
+- [[3-Rules/Battlezoo Strange and Unusual/Imbued Properties/Darkness]]
+- [[3-Rules/Battlezoo Strange and Unusual/Imbued Properties/Earth]]
 - [[Elongating]]
-- [[Light]]
+- [[3-Rules/Battlezoo Strange and Unusual/Imbued Properties/Light]]
 - [[Mirrored]]
 - [[Spiked]]
 - [[Throwing]]
-- [[Water]]
+- [[3-Rules/Battlezoo Strange and Unusual/Imbued Properties/Water]]
 - [[Wood]]

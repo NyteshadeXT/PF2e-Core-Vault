@@ -6,6 +6,7 @@ cssClasses: pf2e
 aliases: "Compendium.pf2e.pathfinder-bestiary-2.Actor.UTnrcGoCIXR95zKi" 
 tags:
   - pf2e/creature/type/animal
+  - pf2eMonster
   - pf2e/creature/level/3
 statblock: inline
 name: "Giant Whiptail Centipede"
@@ -24,11 +25,12 @@ level: "Creature 3"
 
 alignment: ""
 size: "huge"
-trait_01: "animal"
+trait_01: [[animal]]
 modifier: 9
 perception:
   - name: "Perception"
     desc: "+9; Darkvision"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Acrobatics: +8, Athletics: +10, Stealth: +8"
@@ -59,17 +61,23 @@ attacks:
     desc: "`pf2:1` Tail +11 (agile, reach 15 feet)\n__Damage__  1d6 + 6 bludgeoning plus knockdown"
 
   - name: "[[Bestiary Ability Glossary/Attack of Opportunity|Attack of Opportunity (Tail Only)]]"
-    desc: "`pf2:r`  Tail Only\n"
+    desc: "`pf2:r`  Tail Only\n\n* * *\n"
 
   - name: "Undulate"
     desc: "`pf2:1`  The giant whiptail centipede Strides or Steps. During this movement, it can pass through spaces as narrow as 5 feet without Squeezing."
 
   - name: "Whiptail Centipede Venom"
-    desc: " (poison) **Saving Throw** DC 19 Fortitude check\n**Maximum Duration** 6 rounds\n**Stage 1** 1d10 poison damage and [[Conditions/Clumsy 1|Clumsy 1]] (1 round)\n**Stage 2** 2d10 poison damage and [[Conditions/Clumsy 1|Clumsy 1]] (1 round)\n**Stage 3** 2d10 poison damage and [[Conditions/Clumsy 1|Clumsy 2]] (1 round)"
+    desc: " (poison) **Saving Throw** DC 19 Fortitude check\n\n**Maximum Duration** 6 rounds\n\n**Stage 1** 1d10 poison damage and [[Conditions/Clumsy|Clumsy 1]] (1 round)\n\n**Stage 2** 2d10 poison damage and [[Conditions/Clumsy|Clumsy 1]] (1 round)\n\n**Stage 3** 2d10 poison damage and [[Conditions/Clumsy|Clumsy 2]] (1 round)"
 
   - name: "[[Bestiary Ability Glossary/Knockdown|Knockdown]]"
     desc: "`pf2:1`  "
  
+```
+
+```encounter-table
+name: Giant Whiptail Centipede
+creatures:
+  - 1: Giant Whiptail Centipede
 ```
 
 

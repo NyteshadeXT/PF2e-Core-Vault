@@ -6,6 +6,7 @@ cssClasses: pf2e
 aliases: "Compendium.pf2e.pathfinder-monster-core.Actor.2jtRdYo9ey7osDUH" 
 tags:
   - pf2e/creature/type/aberration
+  - pf2eMonster
   - pf2e/creature/level/10
   - remaster
 statblock: inline
@@ -25,7 +26,7 @@ level: "Creature 10"
 
 alignment: ""
 size: "Large"
-trait_01: "aberration"
+trait_01: [[aberration]]
 modifier: 18
 perception:
   - name: "Perception"
@@ -33,7 +34,7 @@ perception:
 languages: "Common"
 skills:
   - name: "Skills"
-    desc: "Athletics: +23, Stealth: +19 (+23 in trash)"
+    desc: "Athletics: +23, Stealth: +19"
 abilityMods: [7, 3, 6, -2, 2, -2]
 speed: 30 feet
 sourcebook: "_Pathfinder Monster Core_"
@@ -70,8 +71,14 @@ attacks:
     desc: "`pf2:1` Offal +19 (range increment 30 feet)\n__Damage__  2d10 + 9 bludgeoning plus wretched-weeps"
 
   - name: "Wretched Weeps"
-    desc: " (disease) **Saving Throw** DC 26 Fortitude check\n* * *\n\n**Stage 1** carrier with no ill effect (1 day)\n\n**Stage 2** 2d4 persistent bleed every hour and [[Conditions/Enfeebled 1|Enfeebled 1]] (1 day);\n\n**Stage 3** 2d6 persistent bleed every hour and [[Conditions/Enfeebled 1|Enfeebled 2]] (1 day)"
+    desc: " (disease) **Saving Throw** DC 26 Fortitude check\n* * *\n\n**Stage 1** carrier with no ill effect (1 day)\n\n**Stage 2** 2d4 persistent bleed every hour and [[Conditions/Enfeebled|Enfeebled 1]] (1 day);\n\n**Stage 3** 2d6 persistent bleed every hour and [[Conditions/Enfeebled|Enfeebled 2]] (1 day)"
  
+```
+
+```encounter-table
+name: Ofalth
+creatures:
+  - 1: Ofalth
 ```
 
 

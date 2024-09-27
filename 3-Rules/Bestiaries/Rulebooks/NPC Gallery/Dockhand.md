@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.npc-gallery.Actor.QZmckb7O3PNgY7D6"
 tags:
   - pf2e/creature/type/human
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/0
 statblock: inline
 name: "Dockhand"
@@ -24,8 +25,8 @@ level: "Creature 0"
 
 alignment: ""
 size: "Medium"
-trait_01: "human"
-trait_02: "humanoid"
+trait_01: [[human]]
+trait_02: [[humanoid]]
 modifier: 3
 perception:
   - name: "Perception"
@@ -62,11 +63,17 @@ attacks:
     desc: "`pf2:1` Bottle +5 (agile, thrown 20 ft.)\n__Damage__  1d6 + 3 bludgeoning"
 
   - name: "Heft Crate"
-    desc: "`pf2:2` (manipulate) **Requirements** The dockhand is adjacent to a crate\n**Effect** The dockhand picks up a crate and heaves it up to 15 feet. Upon landing, the crate breaks open in a 5-foot burst. Each creature within the area takes 2d6 bludgeoning damage (DC 13 Reflex check save), and the area becomes difficult terrain until cleared."
+    desc: "`pf2:2` (manipulate) **Requirements** The dockhand is adjacent to a crate\n* * *\n\n**Effect** The dockhand picks up a crate and heaves it up to 15 feet. Upon landing, the crate breaks open in a @Template[burst|distance:5]. Each creature within the area takes 2d6 bludgeoning damage (DC 13 Reflex check save), and the area becomes difficult terrain until cleared."
 
   - name: "Swig"
-    desc: "`pf2:2` (manipulate) The dockhand Interacts to either draw a bottle of [[Equipment/Alcohol|Alcohol]] or pick up a nearby unattended bottle of alcohol and drink the whole thing.\nFor 1 minute, the dockhand gains a +2 item bonus to melee damage rolls and saving throws against fear, but they become [[Conditions/Clumsy 1|Clumsy 1]]."
+    desc: "`pf2:2` (manipulate) The dockhand Interacts to either draw a bottle of [[Equipment/Alcohol|Alcohol]] or pick up a nearby unattended bottle of alcohol and drink the whole thing.\n\nFor 1 minute, the dockhand gains a +2 item bonus to melee damage rolls and saving throws against fear, but they become [[Conditions/Clumsy|Clumsy 1]]."
  
+```
+
+```encounter-table
+name: Dockhand
+creatures:
+  - 1: Dockhand
 ```
 
 

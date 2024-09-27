@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/leshy
   - pf2e/creature/type/plant
+  - pf2eMonster
   - pf2e/creature/level/-1
 statblock: inline
 name: "Hogweed Leshy (1-2)"
@@ -26,15 +27,15 @@ level: "Creature -1"
 
 alignment: ""
 size: "Small"
-trait_01: "chaotic"
-trait_02: "evil"
-trait_03: "leshy"
-trait_04: "plant"
+trait_01: [[chaotic]]
+trait_02: [[evil]]
+trait_03: [[leshy]]
+trait_04: [[plant]]
 modifier: 5
 perception:
   - name: "Perception"
     desc: "+5; Low-Light Vision"
-languages: "Chthonian"
+languages: "Chthonian; speak with plants (weeds only)"
 skills:
   - name: "Skills"
     desc: "Acrobatics: +5, Athletics: +4, Stealth: +5"
@@ -73,6 +74,12 @@ attacks:
   - name: "Tanglebloom"
     desc: "`pf2:2`  The leshy causes a burst of choking plants to sprout around themself. The leshy's square and all adjacent squares become difficult terrain. Leshys can move through this terrain without impediment. The sprouts wither away after 1 hour."
  
+```
+
+```encounter-table
+name: Hogweed Leshy (1-2)
+creatures:
+  - 1: Hogweed Leshy (1-2)
 ```
 
 

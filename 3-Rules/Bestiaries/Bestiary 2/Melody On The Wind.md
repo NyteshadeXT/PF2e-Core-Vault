@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.pathfinder-bestiary-2.Actor.hvoIxruNUei1auQT"
 tags:
   - pf2e/creature/type/air
   - pf2e/creature/type/elemental
+  - pf2eMonster
   - pf2e/creature/level/10
 statblock: inline
 name: "Melody On The Wind"
@@ -25,8 +26,8 @@ level: "Creature 10"
 
 alignment: ""
 size: "huge"
-trait_01: "air"
-trait_02: "elemental"
+trait_01: [[air]]
+trait_02: [[elemental]]
 modifier: 21
 perception:
   - name: "Perception"
@@ -53,10 +54,10 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Hostile Duet"
-    desc: "`pf2:r` (auditory) **Trigger** A hostile creature within 30 feet creates an effect with the auditory trait that provides bonuses to itself or its allies\n**Effect** The melody on the wind recreates the auditory effect, gaining the bonuses for itself and its allies as long as the original effect persists."
+    desc: "`pf2:r` (auditory) **Trigger** A hostile creature within 30 feet creates an effect with the auditory trait that provides bonuses to itself or its allies\n* * *\n\n**Effect** The melody on the wind recreates the auditory effect, gaining the bonuses for itself and its allies as long as the original effect persists."
 
   - name: "Retune"
-    desc: "`pf2:r` (auditory) **Trigger** The melody on the wind is targeted by a spell with the auditory trait\n**Effect** The melody on the wind attempts to counteract the spell. If it succeeds, the spell effect is caught in a blast of wind that sweeps it back to its origin, affecting the caster. Targets of the triggering effect other than the melody on the wind are still affected normally."
+    desc: "`pf2:r` (auditory) **Trigger** The melody on the wind is targeted by a spell with the auditory trait\n* * *\n\n**Effect** The melody on the wind attempts to counteract the spell. If it succeeds, the spell effect is caught in a blast of wind that sweeps it back to its origin, affecting the caster. Targets of the triggering effect other than the melody on the wind are still affected normally."
 
 attacks:
   - name: ""
@@ -68,7 +69,7 @@ attacks:
     desc: "`pf2:1` Solid Refrain +23 (range increment 70 feet)\n__Damage__  2d8 + 10 sonic"
 
   - name: "Mesmerizing Melody"
-    desc: "`pf2:1` (auditory,concentrate,mental,primal) The melody on the wind sings in a sonorous chorus. Any creature in a 30-foot emanation must attempt a DC 30 Will check save to resist becoming fascinated by the melody on the wind. A creature that succeeds at its save is temporarily immune for 24 hours.\n**Critical Success** The creature is unaffected.\n**Success** The creature is [[Conditions/Fascinated|Fascinated]] for 1 round.\n**Failure** The creature is fascinated for 1d4 rounds."
+    desc: "`pf2:1` (auditory,concentrate,mental,primal) The melody on the wind sings in a sonorous chorus. Any creature in a @Template[emanation|distance:30] must attempt a DC 30 Will check save to resist becoming fascinated by the melody on the wind. A creature that succeeds at its save is temporarily immune for 24 hours.\n* * *\n\n**Critical Success** The creature is unaffected.\n\n**Success** The creature is [[Conditions/Fascinated|Fascinated]] for 1 round.\n\n**Failure** The creature is fascinated for 1d4 rounds."
 
   - name: "Swiftness"
     desc: "  The melody on the wind's movement doesn't trigger reactions."
@@ -76,6 +77,12 @@ attacks:
   - name: "[[Bestiary Ability Glossary/Push|Push]]"
     desc: "`pf2:1`  "
  
+```
+
+```encounter-table
+name: Melody On The Wind
+creatures:
+  - 1: Melody On The Wind
 ```
 
 

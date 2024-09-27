@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/undead
   - pf2e/creature/type/unholy
+  - pf2eMonster
   - pf2e/creature/level/3
 statblock: inline
 name: "Deathless Acolyte Of Urgathoa"
@@ -25,9 +26,9 @@ level: "Creature 3"
 
 alignment: ""
 size: "Medium"
-trait_01: "evil"
-trait_02: "undead"
-trait_03: "unholy"
+trait_01: [[evil]]
+trait_02: [[undead]]
+trait_03: [[unholy]]
 modifier: 9
 perception:
   - name: "Perception"
@@ -55,7 +56,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Denounce Heretic"
-    desc: "`pf2:r` (divine) **Trigger** A creature within 60 feet who the deathless acolyte can see and who doesn't worship Urgathoa casts a divine spell\n**Effect** The deathless acolyte attempts to counteract the triggering spell using their spell attack modifier and a counteract rank of 2. If the deathless acolyte fails to counteract the spell, the caster is temporarily immune to further uses of Denounce Heretic for 24 hours."
+    desc: "`pf2:r` (divine) **Trigger** A creature within 60 feet who the deathless acolyte can see and who doesn't worship Urgathoa casts a divine spell\n* * *\n\n**Effect** The deathless acolyte attempts to counteract the triggering spell using their spell attack modifier and a counteract rank of 2. If the deathless acolyte fails to counteract the spell, the caster is temporarily immune to further uses of Denounce Heretic for 24 hours."
 
   - name: "Field of Undeath"
     desc: " (aura,divine) 20 feet. Allies within the aura who have void healing gain fast healing 2. When a creature within the aura would receive vitality healing, it must succeed at a DC 5 Flat check or receive no healing from the effect."
@@ -72,6 +73,12 @@ attacks:
   - name: "Cleric Domain Spells"
     desc: "1 Focus Point, DC 19, attack +11; __2nd __  _[[Spells/Touch of Undeath|Touch of Undeath]]_"
  
+```
+
+```encounter-table
+name: Deathless Acolyte Of Urgathoa
+creatures:
+  - 1: Deathless Acolyte Of Urgathoa
 ```
 
 

@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/human
   - pf2e/creature/type/humanoid
   - pf2e/creature/type/orc
+  - pf2eMonster
   - pf2e/creature/level/14
 statblock: inline
 name: "Urnak Lostwind"
@@ -23,13 +24,13 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #167: Ready? Fight!"
 name: "Urnak Lostwind"
 level: "Creature 14"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Medium"
-trait_01: "good"
-trait_02: "human"
-trait_03: "humanoid"
-trait_04: "orc"
+trait_01: [[good]]
+trait_02: [[human]]
+trait_03: [[humanoid]]
+trait_04: [[orc]]
 modifier: 25
 perception:
   - name: "Perception"
@@ -37,7 +38,7 @@ perception:
 languages: "Orcish, Skald, Taldane"
 skills:
   - name: "Skills"
-    desc: "Athletics: +27, Intimidation: +23, Sailing Lore: +23, Survival: +25"
+    desc: "Athletics: +27, Intimidation: +23, Survival: +25, Sailing Lore: +23"
 abilityMods: [5, 3, 5, 1, 3, 1]
 speed: 20 feet
 sourcebook: "_Pathfinder #167: Ready? Fight!_"
@@ -57,7 +58,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "[[Bestiary Ability Glossary/Attack of Opportunity|Attack of Opportunity (Special)]]"
-    desc: "`pf2:r`  Urnak gets 1 extra reaction each turn that he can use only to make an Attack of Opportunity.\n"
+    desc: "`pf2:r`  Urnak gets 1 extra reaction each turn that he can use only to make an Attack of Opportunity.\n\n* * *\n"
 
 attacks:
   - name: ""
@@ -69,7 +70,7 @@ attacks:
     desc: "`pf2:1` Felling Throw +25 (magical, sweep, thrown 40 ft.)\n__Damage__  3d12 + 13 slashing plus felling-throw,ricochet-throw 1d6 cold plus felling-throw,ricochet-throw"
 
   - name: "Brutally Disarm"
-    desc: "`pf2:1`  **Requirements** Urnak is wielding a two-handed weapon in both hands\n**Effect** Urnak attempts to [[Actions/Disarm|Disarm]] a creature within reach. On a success or critical success, Urnak deals 13 damage of the weapon's type to the Disarmed creature. If he rolls a failure to Disarm, he gets a success instead."
+    desc: "`pf2:1`  **Requirements** Urnak is wielding a two-handed weapon in both hands\n* * *\n\n**Effect** Urnak attempts to [[Actions/Disarm|Disarm]] a creature within reach. On a success or critical success, Urnak deals 13 damage of the weapon's type to the Disarmed creature. If he rolls a failure to Disarm, he gets a success instead."
 
   - name: "Felling Throw"
     desc: "`pf2:1`  Urnak makes a ranged Strike with his greataxe. He has a +25 attack modifier for this Strike and the thrown greataxe's range increment is 40 feet. If he damages a flying creature, it descends 120 feet, possibly falling on the ground."
@@ -80,6 +81,12 @@ attacks:
   - name: "Sweep Aside"
     desc: "`pf2:1`  Urnak makes a melee greataxe Strike. If he hits a creature of his size or smaller, he can move it 5 feet in any direction, or 10 feet on a critical hit."
  
+```
+
+```encounter-table
+name: Urnak Lostwind
+creatures:
+  - 1: Urnak Lostwind
 ```
 
 

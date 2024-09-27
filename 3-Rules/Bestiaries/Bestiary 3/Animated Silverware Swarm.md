@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/construct
   - pf2e/creature/type/mindless
   - pf2e/creature/type/swarm
+  - pf2eMonster
   - pf2e/creature/level/1
 statblock: inline
 name: "Animated Silverware Swarm"
@@ -26,13 +27,14 @@ level: "Creature 1"
 
 alignment: ""
 size: "Large"
-trait_01: "construct"
-trait_02: "mindless"
-trait_03: "swarm"
+trait_01: [[construct]]
+trait_02: [[mindless]]
+trait_03: [[swarm]]
 modifier: 5
 perception:
   - name: "Perception"
     desc: "+5; Darkvision"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Acrobatics: +8"
@@ -63,8 +65,14 @@ attacks:
     desc: "`pf2:1` (magical) Each enemy in the animated silverware swarm's space takes 1d6 piercing damage or 1d6 slashing damage (DC 17 Reflex check save)"
 
   - name: "Stick a Fork in It"
-    desc: "`pf2:1`  The animated silverware swarm attempts to pin a single creature.\nThe target must attempt a DC 17 Reflex check save.\n**Critical Success** The target is unaffected.\n**Success** Silverware pins portions of the target's clothing and gear. The target takes a -10-foot circumstance penalty to its Speeds as long as it remains in the swarm's space.\n**Failure** As success, and the target also can't Step until it leaves the swarm's space.\n**Critical Failure** The target is thoroughly pinned by the silverware, becoming [[Conditions/Immobilized|Immobilized]] until it [[Actions/Escape|Escapes]] (DC 17) or uses 2 Interact actions to remove all of the silverware pinning them down.\n[[Bestiary Effects/Effect_ Stick a Fork in It|Effect: Stick a Fork in It]]"
+    desc: "`pf2:1`  The animated silverware swarm attempts to pin a single creature.\n\nThe target must attempt a DC 17 Reflex check save.\n* * *\n\n**Critical Success** The target is unaffected.\n\n**Success** Silverware pins portions of the target's clothing and gear. The target takes a -10-foot circumstance penalty to its Speeds as long as it remains in the swarm's space.\n\n**Failure** As success, and the target also can't Step until it leaves the swarm's space.\n\n**Critical Failure** The target is thoroughly pinned by the silverware, becoming [[Conditions/Immobilized|Immobilized]] until it [[Actions/Escape|Escapes]] (DC 17) or uses 2 Interact actions to remove all of the silverware pinning them down.\n\n[[Bestiary Effects/Effect_ Stick a Fork in It|Effect: Stick a Fork in It]]"
  
+```
+
+```encounter-table
+name: Animated Silverware Swarm
+creatures:
+  - 1: Animated Silverware Swarm
 ```
 
 

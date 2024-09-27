@@ -12,6 +12,7 @@ tags:
   - pf2e/creature/type/undead
   - pf2e/creature/type/unholy
   - pf2e/creature/type/wraith
+  - pf2eMonster
   - pf2e/creature/level/23
 statblock: inline
 name: "Elder Wyrmwraith"
@@ -27,16 +28,16 @@ token: [[modules/pf2e-tokens-bestiaries/portraits/draconic/undead/elder-wyrmwrai
 source: "Pathfinder Bestiary 3"
 name: "Elder Wyrmwraith"
 level: "Creature 23"
-rare_03: "Rare"
+rare_03: [[Rare]]
 alignment: ""
 size: "grg"
-trait_01: "chaotic"
-trait_02: "dragon"
-trait_03: "evil"
-trait_04: "incorporeal"
-trait_05: "undead"
-trait_06: "unholy"
-trait_07: "wraith"
+trait_01: [[chaotic]]
+trait_02: [[dragon]]
+trait_03: [[evil]]
+trait_04: [[incorporeal]]
+trait_05: [[undead]]
+trait_06: [[unholy]]
+trait_07: [[wraith]]
 modifier: 40
 perception:
   - name: "Perception"
@@ -63,13 +64,13 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "[[Bestiary Ability Glossary/Frightful Presence|Frightful Presence]]"
-    desc: " (aura,emotion,fear,mental) 90 feet. DC 46 Will check\n"
+    desc: " (aura,emotion,fear,mental) 90 feet. DC 46 Will check\n\n* * *\n"
 
   - name: "Positive Energy Transfer"
-    desc: "`pf2:r` (divine) **Trigger** The wyrmwraith succeeds at a saving throw to resist vitality damage but still takes damage\n**Effect** The wyrmwraith transfers all vitality damage from the effect to a single undead creature of their choice within 120 feet that they control or that's [[Conditions/Friendly|Friendly]] or [[Conditions/Helpful|Helpful]] to them."
+    desc: "`pf2:r` (divine) **Trigger** The wyrmwraith succeeds at a saving throw to resist vitality damage but still takes damage\n* * *\n\n**Effect** The wyrmwraith transfers all vitality damage from the effect to a single undead creature of their choice within 120 feet that they control or that's [[Conditions/Friendly|Friendly]] or [[Conditions/Helpful|Helpful]] to them."
 
   - name: "Sunlight Powerlessness"
-    desc: "  An elder wyrmwraith in sunlight is [[Conditions/Clumsy 1|Clumsy 2]] and [[Conditions/Stunned 1|Stunned 2]]."
+    desc: "  An elder wyrmwraith in sunlight is [[Conditions/Clumsy|Clumsy 2]] and [[Conditions/Stunned|Stunned 2]]."
 
 attacks:
   - name: ""
@@ -87,10 +88,10 @@ attacks:
     desc: "_[[Spells/Create Undead|Create Undead]]_, _[[Spells/Imprisonment|Imprisonment]]_"
 
   - name: "Breath Weapon"
-    desc: "`pf2:2` (divine,void) The elder wyrmwraith unleashes a burst of void energy that deals 24d6 void damage to all creatures in a 90-foot cone (DC 46 Reflex check save).\nThey can't use Breath Weapon again for 1d4 rounds."
+    desc: "`pf2:2` (divine,void) The elder wyrmwraith unleashes a burst of void energy that deals 24d6 void damage to all creatures in a @Template[cone|distance:90] (DC 46 Reflex check save).\n\nThey can't use Breath Weapon again for 1d4 rounds."
 
   - name: "Consume Souls"
-    desc: "`pf2:2` (death,divine,incapacitation) The elder wyrmwraith inhales sharply, sucking in the souls of nearby creatures. Each creature in a 60-foot cone must attempt a DC 46 Will check save.\nThe elder wyrmwraith can't Consume Souls again for 1d4 rounds.\n**Critical Success** The creature is unaffected.\n**Success** The creature becomes [[Conditions/Doomed 1|Doomed 1]].\n**Failure** The creature becomes [[Conditions/Doomed 1|Doomed 2]] and takes 100 void damage.\n**Critical Failure** The creature is slain. As long as the wyrmwraith still exists, the slain creature can't be returned to life through any means."
+    desc: "`pf2:2` (death,divine,incapacitation) The elder wyrmwraith inhales sharply, sucking in the souls of nearby creatures. Each creature in a @Template[cone|distance:60] must attempt a DC 46 Will check save.\n\nThe elder wyrmwraith can't Consume Souls again for 1d4 rounds.\n* * *\n\n**Critical Success** The creature is unaffected.\n\n**Success** The creature becomes [[Conditions/Doomed|Doomed 1]].\n\n**Failure** The creature becomes [[Conditions/Doomed|Doomed 2]] and takes 100 void damage.\n\n**Critical Failure** The creature is slain. As long as the wyrmwraith still exists, the slain creature can't be returned to life through any means."
 
   - name: "Divine Dispelling"
     desc: " (divine) An elder wyrmwraith's claws rend divine magic. Whenever an elder wyrmwraith hits a creature with a spectral claws Strike, the elder wyrmwraith can attempt a Religion check check to counteract an ongoing divine spell effect on the creature."
@@ -99,14 +100,20 @@ attacks:
     desc: "`pf2:2`  The elder wyrmwraith makes two claw Strikes and one jaws Strike in any order."
 
   - name: "Drain Life"
-    desc: " (divine) When an elder wyrmwraith deals damage to a living creature with a spectral jaws or spectral claw Strike, the elder wyrmwraith gains 24 temporary Hit Points, and the creature must succeed at a DC 46 Fortitude check save or become [[Conditions/Drained 1|Drained 2]]. Further damage dealt by the elder wyrmwraith's spectral jaws or spectral claws Strikes increases the value of the drained condition by 2 on a failed save, to a maximum of drained 4."
+    desc: " (divine) When an elder wyrmwraith deals damage to a living creature with a spectral jaws or spectral claw Strike, the elder wyrmwraith gains 24 temporary Hit Points, and the creature must succeed at a DC 46 Fortitude check save or become [[Conditions/Drained|Drained 2]]. Further damage dealt by the elder wyrmwraith's spectral jaws or spectral claws Strikes increases the value of the drained condition by 2 on a failed save, to a maximum of drained 4."
 
   - name: "Ectoplasmic Form"
-    desc: "`pf2:1` (divine) An elder wyrmwraith can push through the ectoplasmic veil to temporarily assume a physical form made of ectoplasm. The elder wyrmwraith loses the incorporeal trait for 1d4 rounds, though they can return to their incorporeal form as a free action before then. Once this ability ends, the elder wyrmwraith can't use this ability again for 1d4 rounds. While in their ectoplasmic form, the elder wyrmwraith's AC increases to 52 and they gain 125 temporary Hit Points. They lose their immunity to precision damage and all of their resistances. Their melee Strikes deal slashing and piercing damage, respectively, instead of void damage.\n[[Bestiary Effects/Effect_ Ectoplasmic Form (Physical)|Effect: Ectoplasmic Form (Physical)]]"
+    desc: "`pf2:1` (divine) An elder wyrmwraith can push through the ectoplasmic veil to temporarily assume a physical form made of ectoplasm. The elder wyrmwraith loses the incorporeal trait for 1d4 rounds, though they can return to their incorporeal form as a free action before then. Once this ability ends, the elder wyrmwraith can't use this ability again for 1d4 rounds. While in their ectoplasmic form, the elder wyrmwraith's AC increases to 52 and they gain 125 temporary Hit Points. They lose their immunity to precision damage and all of their resistances. Their melee Strikes deal slashing and piercing damage, respectively, instead of void damage.\n\n[[Bestiary Effects/Effect_ Ectoplasmic Form (Physical)|Effect: Ectoplasmic Form (Physical)]]"
 
   - name: "Phase Lurch"
-    desc: "`pf2:1` (divine,move) **Requirements** The wyrmwraith is in their ectoplasmic form\n**Effect** As the Stride action, but the wyrmwraith can pass through walls or material obstacles as though they were incorporeal. They must begin and end their movement outside of any physical obstacles, and passing through solid material is difficult terrain."
+    desc: "`pf2:1` (divine,move) **Requirements** The wyrmwraith is in their ectoplasmic form\n* * *\n\n**Effect** As the Stride action, but the wyrmwraith can pass through walls or material obstacles as though they were incorporeal. They must begin and end their movement outside of any physical obstacles, and passing through solid material is difficult terrain."
  
+```
+
+```encounter-table
+name: Elder Wyrmwraith
+creatures:
+  - 1: Elder Wyrmwraith
 ```
 
 

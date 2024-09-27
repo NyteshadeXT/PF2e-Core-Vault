@@ -10,6 +10,7 @@ tags:
   - pf2e/creature/type/humanoid
   - pf2e/creature/type/lawful
   - pf2e/creature/type/sea-devil
+  - pf2eMonster
   - pf2e/creature/level/2
 statblock: inline
 name: "Sea Devil Scout"
@@ -28,19 +29,19 @@ level: "Creature 2"
 
 alignment: ""
 size: "Medium"
-trait_01: "amphibious"
-trait_02: "evil"
-trait_03: "humanoid"
-trait_04: "lawful"
-trait_05: "sea-devil"
+trait_01: [[amphibious]]
+trait_02: [[evil]]
+trait_03: [[humanoid]]
+trait_04: [[lawful]]
+trait_05: [[sea-devil]]
 modifier: 9
 perception:
   - name: "Perception"
     desc: "+9; Darkvision, Wavesense (Imprecise) 30 Feet"
-languages: "Thalassic"
+languages: "Thalassic; shark commune 150 feet"
 skills:
   - name: "Skills"
-    desc: "Athletics: +9 (+11 to Swim), Intimidation: +5, Stealth: +8, Survival: +7"
+    desc: "Athletics: +9, Intimidation: +5, Stealth: +8, Survival: +7"
 abilityMods: [3, 4, 1, 0, 3, -1]
 speed: 25 feet,  swim 35 feet
 sourcebook: "_Pathfinder Bestiary_"
@@ -78,11 +79,17 @@ attacks:
     desc: "`pf2:1` Spear +12 (thrown 20 ft.)\n__Damage__  1d6 + 3 piercing"
 
   - name: "Blood Frenzy"
-    desc: " (rage) **Requirements** The sea devil is not [[Conditions/Fatigued|Fatigued]] or already in a frenzy\n**Trigger** The sea devil deals bleed damage to a living creature.\n**Effect** The sea devil flies into a frenzy that lasts 1 minute. While frenzied, the sea devil gains a +1 status bonus to attack rolls with its claws and jaws, gains a +4 status bonus to damage rolls with its claws and jaws, gains 7 temporary HP until the end of the frenzy, and takes a -2 status penalty to AC. The sea devil can't voluntarily stop its frenzy. After its frenzy, the sea devil is [[Conditions/Fatigued|Fatigued]].\n[[Bestiary Effects/Effect_ Blood Frenzy|Effect: Blood Frenzy]]"
+    desc: " (rage) **Requirements** The sea devil is not [[Conditions/Fatigued|Fatigued]] or already in a frenzy\n\n**Trigger** The sea devil deals bleed damage to a living creature.\n* * *\n\n**Effect** The sea devil flies into a frenzy that lasts 1 minute. While frenzied, the sea devil gains a +1 status bonus to attack rolls with its claws and jaws, gains a +4 status bonus to damage rolls with its claws and jaws, gains 7 temporary HP until the end of the frenzy, and takes a -2 status penalty to AC. The sea devil can't voluntarily stop its frenzy. After its frenzy, the sea devil is [[Conditions/Fatigued|Fatigued]]."
 
   - name: "Bloodletting"
     desc: "  When the sea devil deals piercing or slashing damage, it also deals 1d4 bleed if the target was [[Conditions/Off-Guard|Off-Guard]] or if the attack was a critical hit."
  
+```
+
+```encounter-table
+name: Sea Devil Scout
+creatures:
+  - 1: Sea Devil Scout
 ```
 
 

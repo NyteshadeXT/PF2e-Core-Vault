@@ -14,7 +14,7 @@ license: OGL
 ---
 # Visions of Sin `pf2:2`
 
-### [[eidolon]][[emotion]][[magical]][[3-Rules/Rule References/Mental]]
+### [[eidolon]][[3-Rules/Rule References/Emotion]][[3-Rules/Rule References/Magical]][[3-Rules/Rule References/Mental]]
 
 **Category** offensive; 
 
@@ -33,7 +33,7 @@ If the target is evil, it takes a -2 circumstance penalty to its save. Regardles
 
 **Success** The target can't use reactions.
 
-**Failure** The target is [[Conditions/Slowed 1|Slowed 1]] and can't use reactions.
+**Failure** The target is [[Conditions/Slowed|Slowed 1]] and can't use reactions.
 
 **Critical Failure** As failure, and the target is also [[Conditions/Confused|Confused]] for 1 round. The confusion can't be extended, but the other effects can.
 

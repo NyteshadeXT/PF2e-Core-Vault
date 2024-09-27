@@ -5,6 +5,7 @@ noteType: pf2eHazard
 tags:
   - mechanical
   - trap
+  - pf2eHazard
   - complex
   - remaster
 source: Pathfinder GM Core
@@ -23,14 +24,14 @@ name: "Drowning Pit"
 level: "Hazard 3"
 
 trait_06: "Complex"
-trait_01: "mechanical"
-trait_02: "trap"
+trait_01: [[mechanical]]
+trait_02: [[trap]]
 modifier: 10
 sourcebook: "_Pathfinder GM Core_"
 ac: 19
 armorclass:
   - name: AC
-    desc: "19; __Fort__ +8, __Ref__ +5, __Will__ +0"
+    desc: "19; __Fort__ +8, __Ref__ +5, "
 hp: 60
 health:
   - name: ""
@@ -52,11 +53,17 @@ attacks:
   - name: ""
 
   - name: "Pitfall"
-    desc: "`pf2:r` **Trigger** A creature walks onto the trapdoor\n**Effect** The triggering creature falls in and takes damage from the fall, reduced by 5 feet for falling into the water (typically 12 bludgeoning damage). A creature can [[Actions/Grab an Edge|Grab an Edge]] to avoid falling. The trapdoor then slams shut, and the hazard rolls initiative."
+    desc: "`pf2:r` **Trigger** A creature walks onto the trapdoor\n* * *\n\n**Effect** The triggering creature falls in and takes damage from the fall, reduced by 5 feet for falling into the water (typically 12 bludgeoning damage). A creature can [[Actions/Grab an Edge|Grab an Edge]] to avoid falling. The trapdoor then slams shut, and the hazard rolls initiative."
 
   - name: "Routine"
     desc: "(4 actions) The trap loses 1 action each turn for each disabled water spout. On each of the trap's actions, a spout pours water, increasing the depth of the water by 5 feet. Once the pit is full of water, the pit stops using actions, but creatures in the pit begin drowning."
   - name: "Reset"
     desc: "The trap can be reset if the door is manually reengaged and the water tanks are refilled; it can be reset without draining the pit, but doing so renders the pit less effective."
+```
+
+```encounter-table
+name: Drowning Pit
+creatures:
+  - 1: Drowning Pit
 ```
 

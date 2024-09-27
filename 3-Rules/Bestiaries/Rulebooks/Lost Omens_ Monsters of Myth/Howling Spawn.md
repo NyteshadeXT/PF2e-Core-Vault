@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/aberration
   - pf2e/creature/type/chaotic
   - pf2e/creature/type/evil
+  - pf2eMonster
   - pf2e/creature/level/11
 statblock: inline
 name: "Howling Spawn"
@@ -22,12 +23,12 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Lost Omens: Monsters of Myth"
 name: "Howling Spawn"
 level: "Creature 11"
-rare_03: "Rare"
+rare_03: [[Rare]]
 alignment: ""
 size: "Large"
-trait_01: "aberration"
-trait_02: "chaotic"
-trait_03: "evil"
+trait_01: [[aberration]]
+trait_02: [[chaotic]]
+trait_03: [[evil]]
 modifier: 21
 perception:
   - name: "Perception"
@@ -57,10 +58,10 @@ abilities_mid:
     desc: "  Howling spawn can sense frightened creatures within 60 feet, using an incredibly accurate sense of psychic smell as a precise sense."
 
   - name: "[[Bestiary Ability Glossary/Frightful Presence|Frightful Presence]]"
-    desc: " (aura,emotion,fear,mental) 60 feet. DC 27 Will check\n"
+    desc: " (aura,emotion,fear,mental) 60 feet. DC 27 Will check\n\n* * *\n"
 
   - name: "Putrid Evanescence"
-    desc: "`pf2:r`  **Frequency** once per hour\n**Trigger** The howling spawn is damaged by another creature\n**Effect** The howling spawn bursts into a cloud of putrid smoke, ash, and nightmares, becoming [[Conditions/Invisible|Invisible]] and teleporting up to 30 feet away to an unoccupied space it can see. It remains invisible until the end of its next turn or until it uses a hostile action, whichever comes first."
+    desc: "`pf2:r`  **Frequency** once per hour\n\n**Trigger** The howling spawn is damaged by another creature\n* * *\n\n**Effect** The howling spawn bursts into a cloud of putrid smoke, ash, and nightmares, becoming [[Conditions/Invisible|Invisible]] and teleporting up to 30 feet away to an unoccupied space it can see. It remains invisible until the end of its next turn or until it uses a hostile action, whichever comes first."
 
 attacks:
   - name: ""
@@ -78,14 +79,20 @@ attacks:
     desc: "`pf2:2`  The howling spawn shimmers with illusions and devastates a foe who lost track of its position. It Strides up to twice its Speed. If it ends its movement within its melee reach of at least one enemy to which it is undetected, it can attempt two claw Strikes against that enemy. The howling spawn remains undetected to the creature it's attacking until after resolving both of the claw attacks."
 
   - name: "Paralytic Secretion"
-    desc: "  The howling spawn's saliva is a potent paralytic substance that drains the energy from its prey. A creature hit by its spit Strike must succeed at a DC 30 Fortitude check save or become [[Conditions/Drained 1|Drained 1]] as well as [[Conditions/Paralyzed|Paralyzed]] for 1 round. If the target was already drained, it instead increases the condition's value by 1, to a maximum of drained 4."
+    desc: "  The howling spawn's saliva is a potent paralytic substance that drains the energy from its prey. A creature hit by its spit Strike must succeed at a DC 30 Fortitude check save or become [[Conditions/Drained|Drained 1]] as well as [[Conditions/Paralyzed|Paralyzed]] for 1 round. If the target was already drained, it instead increases the condition's value by 1, to a maximum of drained 4."
 
   - name: "Profane Feast"
-    desc: "`pf2:1`  **Requirements** The howling spawn has a creature [[Conditions/Grabbed|Grabbed]]\n**Effect** The howling spawn begins to consume the creature, dealing 2d12 + 5 piercing damage (DC 30 Fortitude check save) and exposing the creature to its paralytic secretion."
+    desc: "`pf2:1`  **Requirements** The howling spawn has a creature [[Conditions/Grabbed|Grabbed]]\n* * *\n\n**Effect** The howling spawn begins to consume the creature, dealing 2d12+5 piercing damage (DC 30 Fortitude check save) and exposing the creature to its paralytic secretion."
 
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
     desc: "`pf2:1`  "
  
+```
+
+```encounter-table
+name: Howling Spawn
+creatures:
+  - 1: Howling Spawn
 ```
 
 

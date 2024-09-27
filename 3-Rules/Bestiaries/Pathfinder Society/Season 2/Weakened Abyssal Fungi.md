@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/fungus
   - pf2e/creature/type/unholy
+  - pf2eMonster
   - pf2e/creature/level/1
 statblock: inline
 name: "Weakened Abyssal Fungi"
@@ -26,15 +27,15 @@ level: "Creature 1"
 
 alignment: ""
 size: "Small"
-trait_01: "chaotic"
-trait_02: "evil"
-trait_03: "fungus"
-trait_04: "unholy"
+trait_01: [[chaotic]]
+trait_02: [[evil]]
+trait_03: [[fungus]]
+trait_04: [[unholy]]
 modifier: 5
 perception:
   - name: "Perception"
     desc: "+5; Darkvision"
-languages: "Chthonian"
+languages: "Chthonian; (can&#x27;t speak any language)"
 skills:
   - name: "Skills"
     desc: "Athletics: +7, Nature: +6, Stealth: +7"
@@ -68,11 +69,17 @@ attacks:
     desc: "`pf2:1` Spore Pod +7 (range increment 30 feet)\n__Damage__  1d6 + 1 bludgeoning plus spores"
 
   - name: "Spore Cloud"
-    desc: "`pf2:2` (poison) An abyssal fungus can unleash a cloud of spores that irritates the eyes and throats of non-fungus creatures in a 15-foot emanation. Each creature must succeed at a DC 12 Fortitude check save or take 1d4 persistent poison. A creature has its vision reduced as long as the persistent damage continues and can see only within 20 feet (10 feet on a critical failure)."
+    desc: "`pf2:2` (poison) An abyssal fungus can unleash a cloud of spores that irritates the eyes and throats of non-fungus creatures in a @Template[emanation|distance:15]. Each creature must succeed at a DC 12 Fortitude check save or take 1d4 persistent poison. A creature has its vision reduced as long as the persistent damage continues and can see only within 20 feet (10 feet on a critical failure)."
 
   - name: "Spores"
     desc: "  A creature that takes damage from an abyssal fungus' ranged spore pod Strike must attempt a saving throw with the same DC and effect as its Spore Cloud ability."
  
+```
+
+```encounter-table
+name: Weakened Abyssal Fungi
+creatures:
+  - 1: Weakened Abyssal Fungi
 ```
 
 

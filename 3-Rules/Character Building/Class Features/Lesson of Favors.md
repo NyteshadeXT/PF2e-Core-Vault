@@ -6,9 +6,8 @@ tags:
   - trait/witch
   - trait/common
   - category/classfeature
-  - remaster
 aliases: "Compendium.pf2e.classfeatures.Item.2IhZbkx889pATIjq"
-license: ORC
+license: OGL
 ---
 # Lesson of Favors
 ## Feat 6
@@ -21,5 +20,5 @@ license: ORC
 
 You gain the [[Spells/Return the Favor|Return the Favor]] hex, and your familiar learns [[Spells/Mind of Menace|Mind of Menace]].
 
-*Source: Pathfinder Player Core*
-*ORC*
+*Source: Pathfinder Dark Archive*
+*OGL*

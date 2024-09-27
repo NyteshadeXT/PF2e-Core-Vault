@@ -10,7 +10,7 @@ license: OGL
 ---
 # Conducting
 ## Item 7
-### [[magical]]
+### [[3-Rules/Rule References/Magical]]
 
 
 **Price** 300 gp; 

@@ -20,7 +20,7 @@ tags:
 
 # Paper Cut
 
-> The target takes a [[Other Effects/Effect\_ -2 circumstance penalty to attack rolls|-2 circumstance penalty to attack rolls]] until the end of its next turn.
+> The target takes a [[Other Effects/Effect_ -2 circumstance penalty to attack rolls|-2 circumstance penalty to attack rolls]] until the end of its next turn.
 
 `Slashing`
 

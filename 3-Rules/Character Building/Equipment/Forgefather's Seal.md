@@ -12,7 +12,7 @@ license: ORC
 ---
 # Forgefather's Seal
 ## Item 24
-### [rare](rare "Rare Rarity Trait")[[artifact]][[divine]]
+### [rare](rare.md "Rare Rarity Trait")[[artifact]][[3-Rules/Rule References/Divine]]
 
 
 **Price** 0 gp; 
@@ -33,7 +33,7 @@ A seal constantly rings with the quiet sound of a hammer striking an anvil when 
 
 **Trigger** You are hit by an attack
 
-**Effect** The _Forgefather's seal_ glows and your armor shakes as it absorbs the blow. The attack's damage is reduced by 100 and you cast [[Spells/Earthquake|Earthquake]] (DC 40), centered directly on the triggering creature. You decide the area of the _earthquake_ when you Cast the Spell, from as small as the size of the creature and up to a 60-foot burst.
+**Effect** The _Forgefather's seal_ glows and your armor shakes as it absorbs the blow. The attack's damage is reduced by 100 and you cast [[Spells/Earthquake|Earthquake]] (DC 40), centered directly on the triggering creature. You decide the area of the _earthquake_ when you Cast the Spell, from as small as the size of the creature and up to a @Template\[burst|distance:60\].
 
 * * *
 

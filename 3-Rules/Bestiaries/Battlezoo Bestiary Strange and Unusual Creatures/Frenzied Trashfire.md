@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/chaotic
   - pf2e/creature/type/elemental
   - pf2e/creature/type/fire
+  - pf2eMonster
   - pf2e/creature/level/8
 statblock: inline
 name: "Frenzied Trashfire"
@@ -23,12 +24,12 @@ token: [[modules/battlezoo-bestiary-su-pf2e/art/Portraits/frenzied-trashfire.web
 source: "Battlezoo Bestiary: Strange and Unusual"
 name: "Frenzied Trashfire"
 level: "Creature 8"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Medium"
-trait_01: "chaotic"
-trait_02: "elemental"
-trait_03: "fire"
+trait_01: [[chaotic]]
+trait_02: [[elemental]]
+trait_03: [[fire]]
 modifier: 16
 perception:
   - name: "Perception"
@@ -36,7 +37,7 @@ perception:
 languages: "Pyric"
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +16, Athletics: +14, Filth Lore: +0, Filth Lore: +12, "
+    desc: "Acrobatics: +16, Athletics: +14, Acrobatics: +16, Athletics: +14, Filth Lore: +12"
 abilityMods: [2, 4, 2, -1, 3, 0]
 speed: 30 feet
 sourcebook: "_Battlezoo Bestiary: Strange and Unusual_"
@@ -58,7 +59,7 @@ abilities_mid:
     desc: "  The frenzied trashfire naturally draws trash, refuse, and other debris into its body to fuel its flames. At the beginning of its turn, if the frenzied trashfire is standing on a significant pile of trash, it absorbs some of the trash pile into itself and recovers 2d6 healing Hit Points."
 
   - name: "Vulnerable to Momentum"
-    desc: "  Because the frenzied trashfire has a body composed largely of trash, weapons that build up a great deal of momentum and scatter that debris are very effective against it. Critical hits from weapons with the backswing, forceful, or sweep traits cause the frenzied trashfire to become Clumsy 2 for 1 round."
+    desc: "  Because the frenzied trashfire has a body composed largely of trash, weapons that build up a great deal of momentum and scatter that debris are very effective against it. Critical hits from weapons with the backswing, forceful, or sweep traits cause the frenzied trashfire to become [[undefined]] for 1 round."
 
 attacks:
   - name: ""
@@ -73,11 +74,17 @@ attacks:
     desc: "DC 23, attack +15; __3rd __  _[[Spells/Stinking Cloud|Stinking Cloud (x2)]]_"
 
   - name: "Wall of Burning Refuse"
-    desc: "`pf2:3` (fire,primal) The frenzied trashfire Strides or Steps up to three times, in any combination. During its movement, it can target up to 8 contiguous squares through which it passes, leaving a wall built out of 10 foot tall piles of burning trash in its wake. Other than the size and shape, this wall has the effects of a _Wall of Fire_ spell. The frenzied trashfire can see through the concealment caused by this effect. A frenzied trashfire can't use this ability again until it spends at least 1 minute absorbing more trash into its body."
+    desc: "`pf2:3` (fire,primal) The frenzied trashfire Strides or Steps up to three times, in any combination. During its movement, it can target up to 8 contiguous squares through which it passes, leaving a wall built out of 10 foot tall piles of burning trash in its wake. Other than the size and shape, this wall has the effects of a _[[Spells/Wall of Fire|Wall of Fire]]_ spell. The frenzied trashfire can see through the concealment caused by this effect. A frenzied trashfire can't use this ability again until it spends at least 1 minute absorbing more trash into its body."
 
   - name: "Trash Walker"
     desc: "  The frenzied trashfire ignores difficult terrain and greater difficult terrain created by trash, refuse, or debris."
  
+```
+
+```encounter-table
+name: Frenzied Trashfire
+creatures:
+  - 1: Frenzied Trashfire
 ```
 
 

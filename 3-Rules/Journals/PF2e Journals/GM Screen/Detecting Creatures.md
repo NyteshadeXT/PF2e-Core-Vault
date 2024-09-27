@@ -11,6 +11,7 @@ tags:
   
 
 **Detecting Creatures**
+ 
 | [[Conditions/Observed\|Observed]] | A creature you're observed by knows where you are and can target you normally. |
 | --- | --- |
 | **[[Conditions/Concealed\|Concealed]]** | A creature that you're concealed from must succeed at a DC 5 flat check when targeting you with a non-area effect. |
@@ -29,7 +30,7 @@ You can attempt to avoid detection by using the Stealth skill to [[Actions/Avoid
 
 ### Observed
 
-In most circumstances, you can sense creatures without difficulty and target them normally. Creatures in this state are [[Conditions/Observed|Observed]]. Observing requires a precise sense, which for most creatures means sight, but see the [[undefined]] sidebar for advice regarding creatures that don't use sight as their primary sense. If you can't observe the creature, it's either [[Conditions/Hidden|Hidden]], [[Conditions/Undetected|Undetected]], or [[Conditions/Unnoticed|Unnoticed]], and you'll need to factor in the targeting restrictions. Even if a creature is [[Conditions/Observed|Observed]], it might still be [[Conditions/Concealed|Concealed]].
+In most circumstances, you can sense creatures without difficulty and target them normally. Creatures in this state are [[Conditions/Observed|Observed]]. Observing requires a precise sense, which for most creatures means sight, but see the [[PF2e Journals/GM Screen/Detecting with Other Senses|Detecting with Other Senses]] sidebar for advice regarding creatures that don't use sight as their primary sense. If you can't observe the creature, it's either [[Conditions/Hidden|Hidden]], [[Conditions/Undetected|Undetected]], or [[Conditions/Unnoticed|Unnoticed]], and you'll need to factor in the targeting restrictions. Even if a creature is [[Conditions/Observed|Observed]], it might still be [[Conditions/Concealed|Concealed]].
 
 ### Hidden
 

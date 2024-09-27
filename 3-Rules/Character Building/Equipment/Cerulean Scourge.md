@@ -9,8 +9,9 @@ tags:
   - trait/poison
   - trait/common
   - category/poison
+  - remaster
 aliases: "Compendium.pf2e.equipment-srd.Item.9hdT05ywPVyh9vQX"
-license: OGL
+license: ORC
 ---
 # Cerulean Scourge
 ## Item 16
@@ -21,21 +22,21 @@ license: OGL
 **Bulk** L; **Size** med
 **Usage** held-in-two-hands
 
-Made from a carefully distilled blend of serpentine hemotoxins, the fast-acting cerulean scourge is infamous for transforming the blood vessels near the original wound, which glow with a bright blue light before painfully bursting.
+**Activate** `pf2:2` (manipulate)
 
 * * *
 
-**Activate** `pf2:2` Interact (Injuury)
+This poison is infamous for making the victim's blood vessels glow with a bright blue light before painfully bursting.
 
-**Saving Throw** DC 36 Fortitude check
+**Saving Throw** DC 37 Fortitude check
 
 **Maximum Duration** 6 rounds
 
-**Stage 1** 9d6 poison damage (1 round)
+**Stage 1** 10d6 poison damage (1 round)
 
 **Stage 2** 12d6 poison damage (1 round)
 
-**Stage 3** 15d6 poison damage (1 round)
+**Stage 3** 14d6 poison damage (1 round)
 
-*Source: Pathfinder Advanced Player's Guide*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

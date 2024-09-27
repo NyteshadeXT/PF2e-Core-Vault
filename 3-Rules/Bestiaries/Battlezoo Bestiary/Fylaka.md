@@ -7,6 +7,7 @@ aliases: "Compendium.battlezoo-bestiary-pf2e.pf2e-battlezoo-bestiary.Actor.w22mS
 tags:
   - pf2e/creature/type/monitor
   - pf2e/creature/type/psychopomp
+  - pf2eMonster
   - pf2e/creature/level/6
 statblock: inline
 name: "Fylaka"
@@ -25,16 +26,16 @@ level: "Creature 6"
 
 alignment: ""
 size: "Medium"
-trait_01: "monitor"
-trait_02: "psychopomp"
+trait_01: [[monitor]]
+trait_02: [[psychopomp]]
 modifier: 16
 perception:
   - name: "Perception"
     desc: "+16; Darkvision, Lifesense (Imprecise) 500 Feet"
-languages: "Chthonian, Diabolic, Empyrean, Requian"
+languages: "Chthonian, Diabolic, Empyrean, Requian; (can&#x27;t speak any language), telepathy 120 feet"
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +15, Athletics: +15, Intimidation: +14, Religion: +12, Stealth: +13, Survival: +16 (+20 in Purgatory), "
+    desc: "Acrobatics: +15, Athletics: +15, Intimidation: +14, Religion: +12, Stealth: +13, Survival: +16"
 abilityMods: [5, 3, 3, 2, 4, 2]
 speed: 40 feet
 sourcebook: "_Battlezoo Bestiary_"
@@ -68,20 +69,26 @@ attacks:
     desc: "`pf2:1` (concentrate,divine) The fylaka focuses and hones its divine powers to better fight either the living or the dead. The fylaka chooses either negative or positive damage. Until the next time the fylaka uses Swap Energy, its Breath Weapon and Swallow Whole abilities deal this type of damage."
 
   - name: "Breath Weapon"
-    desc: "`pf2:2` (divine) The fylaka exhales a cloud of fog that deals 7d6 vitality or 7d6 void damage in a 30-foot cone (basic Fortitude save).\nIt can't use Breath Weapon again for 1d4 rounds."
+    desc: "`pf2:2` (divine) The fylaka exhales a cloud of fog that deals 7d6 vitality or 7d6 void damage in a 30-foot cone (DC 22 basic Fortitude save).\n\nIt can't use Breath Weapon again for 1d4 rounds."
 
   - name: "Leap and Catch"
     desc: "`pf2:2`  The fylaka Leaps up to its Speed and makes an Athletics check to Swallow Whole a creature in a space adjacent to where it lands. If it succeeds, the fylaka can choose to land in the space formerly occupied by the Swallowed creature."
 
   - name: "Spirit Touch"
-    desc: "  A fylaka's Strikes affect incorporeal creatures with the effects of a _Ghost Touch_ property rune and deal 2d6 void damage to living creatures and 2d6 vitality damage to undead."
+    desc: "  A fylaka's Strikes affect incorporeal creatures with the effects of a _[[Equipment/Ghost Touch|Ghost Touch]]_ property rune and deal 2d6 void damage to living creatures and 2d6 vitality damage to undead."
 
   - name: "[[Bestiary Ability Glossary/Swallow Whole|Swallow Whole]]"
-    desc: "`pf2:1` (attack) Medium, 3d6 void or 3d6 vitality (see Swap Energy) plus 2d6 acid, Rupture 23.\nThe swallowed creature is contained in the fylaka's ribcage. It doesn't need to hold its breath and it can see and hear normally. Other creatures can target the swallowed creature with spells or other ranged effects, but not melee attacks or effects with a range of touch.\nThough the swallowed creature can see outside the fylaka, it cannot target creatures other than the fylaka with attacks, abilities, or spells.\n"
+    desc: "`pf2:1` (attack) Medium, 3d6 void or 3d6 vitality (see Swap Energy) plus 2d6 acid, Rupture 23.\n\nThe swallowed creature is contained in the fylaka's ribcage. It doesn't need to hold its breath and it can see and hear normally. Other creatures can target the swallowed creature with spells or other ranged effects, but not melee attacks or effects with a range of touch.\n\nThough the swallowed creature can see outside the fylaka, it cannot target creatures other than the fylaka with attacks, abilities, or spells.\n\n* * *\n"
 
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
     desc: "`pf2:1`  "
  
+```
+
+```encounter-table
+name: Fylaka
+creatures:
+  - 1: Fylaka
 ```
 
 

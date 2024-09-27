@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/undead
   - pf2e/creature/type/unholy
+  - pf2eMonster
   - pf2e/creature/level/11
 statblock: inline
 name: "Lady&#x27;s Whisper"
@@ -22,12 +23,12 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #165: Eyes of Empty Death"
 name: "Lady's Whisper"
 level: "Creature 11"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Medium"
-trait_01: "evil"
-trait_02: "undead"
-trait_03: "unholy"
+trait_01: [[evil]]
+trait_02: [[undead]]
+trait_03: [[unholy]]
 modifier: 25
 perception:
   - name: "Perception"
@@ -60,7 +61,7 @@ abilities_mid:
     desc: "  Lady's Whisper can choose whether or not it takes vitality damage."
 
   - name: "Sibilant Whispers"
-    desc: " (auditory,aura,divine,emotion,mental) 20 feet. Each creature that begins its turn within the aura and can hear the ominous whispers must succeed at a DC 30 Will check save or become [[Conditions/Frightened 1|Frightened 2]]. On a success, the creature is temporarily immune for 1 minute."
+    desc: " (auditory,aura,divine,emotion,mental) 20 feet. Each creature that begins its turn within the aura and can hear the ominous whispers must succeed at a DC 30 Will check save or become [[Conditions/Frightened|Frightened 2]]. On a success, the creature is temporarily immune for 1 minute."
 
 attacks:
   - name: ""
@@ -80,6 +81,12 @@ attacks:
   - name: "Unwilling Teleportation"
     desc: " (divine,teleportation) When Lady's Whisper hits and damages a creature with its claw Strike, it can choose to teleport that creature to any open space within 15 feet, even if Lady's Whisper can't see the destination. The target can attempt a DC 30 Will check saving throw to resist this effect."
  
+```
+
+```encounter-table
+name: Lady's Whisper
+creatures:
+  - 1: Lady's Whisper
 ```
 
 

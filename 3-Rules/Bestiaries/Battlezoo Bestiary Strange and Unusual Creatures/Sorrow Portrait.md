@@ -7,6 +7,7 @@ aliases: "Compendium.battlezoo-bestiary-su-pf2e.pf2e-battlezoo-su-actors.Actor.E
 tags:
   - pf2e/creature/type/construct
   - pf2e/creature/type/evil
+  - pf2eMonster
   - pf2e/creature/level/12
 statblock: inline
 name: "Sorrow Portrait"
@@ -22,18 +23,19 @@ token: [[modules/battlezoo-bestiary-su-pf2e/art/Portraits/sorrow-portrait.webp| 
 source: "Battlezoo Bestiary: Strange and Unusual"
 name: "Sorrow Portrait"
 level: "Creature 12"
-rare_03: "Rare"
+rare_03: [[Rare]]
 alignment: ""
 size: "Medium"
-trait_01: "construct"
-trait_02: "evil"
+trait_01: [[construct]]
+trait_02: [[evil]]
 modifier: 18
 perception:
   - name: "Perception"
     desc: "+18; Darkvision"
+languages: ""
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +20, Athletics: +20, Deception: +22 (+25 to Impersonate a regular painting), "
+    desc: "Acrobatics: +20, Athletics: +20, Deception: +22, Acrobatics: +20, Athletics: +20, Deception: +22"
 abilityMods: [4, 4, 5, -4, 0, -3]
 speed:  fly 20 feet
 sourcebook: "_Battlezoo Bestiary: Strange and Unusual_"
@@ -61,8 +63,14 @@ attacks:
     desc: "`pf2:1` Frame +24 ()\n__Damage__  3d12 + 12 bludgeoning plus improved-push"
 
   - name: "Subject of Horror"
-    desc: "`pf2:2` (extradimensional,incapacitation,occult,teleportation) The sorrow portrait transports a creature into a painted world where it becomes the subject of the horrors it depicts. The sorrow portrait can target a creature within 30 feet, and the target must succeed a DC 33 Will check save or be transported into an extradimensional space within the sorrow portrait and become the subject of the painting. Failing the Will save and being sucked into the painting has the effects of the _Maze_ spell on the unfortunate victim, except for the following differences:\n*   The sorrow portrait doesn't need to Sustain the effect.\n*   The victim can also attempt to escape the painting by attempting a check relevant to what the sorrow portrait depicts, as determined by the GM (such as Athletics check to Swim from a shipwreck, or a Strike to fend off wolves).\n*   At the end of its turn, if the subject is still within the sorrow portrait, it takes 5d6 mental damage with a DC 29 Will check save. The damage type and save type might change to suit the sorrow portrait's depiction, as determined by the GM. If the sorrow portrait is destroyed, the effect ends immediately.\n*   The sorrow portrait can only have one subject inside of it at one time, and if the subject escapes it becomes immune to that sorrow portrait's Subject of Horror for 1 minute.\n*   If the subject dies within the painted world, any attempt to resurrect the subject must succeed at a DC 15 Flat check if the painting is still intact, or the resurrection magic fails."
+    desc: "`pf2:2` (extradimensional,incapacitation,occult,teleportation) The sorrow portrait transports a creature into a painted world where it becomes the subject of the horrors it depicts. The sorrow portrait can target a creature within 30 feet, and the target must succeed a DC 33 Will check save or be transported into an extradimensional space within the sorrow portrait and become the subject of the painting. Failing the Will save and being sucked into the painting has the effects of the _[[Spells/Quandary|Maze]]_ spell on the unfortunate victim, except for the following differences:\n\n*   The sorrow portrait doesn't need to Sustain the effect.\n*   The victim can also attempt to escape the painting by attempting a check relevant to what the sorrow portrait depicts, as determined by the GM (such as Athletics check to Swim from a shipwreck, or a Strike to fend off wolves).\n*   At the end of its turn, if the subject is still within the sorrow portrait, it takes 5d6 mental damage with a DC 29 Will check save. The damage type and save type might change to suit the sorrow portrait's depiction, as determined by the GM. If the sorrow portrait is destroyed, the effect ends immediately.\n*   The sorrow portrait can only have one subject inside of it at one time, and if the subject escapes it becomes immune to that sorrow portrait's Subject of Horror for 1 minute.\n*   If the subject dies within the painted world, any attempt to resurrect the subject must succeed at a DC 15 Flat check if the painting is still intact, or the resurrection magic fails."
  
+```
+
+```encounter-table
+name: Sorrow Portrait
+creatures:
+  - 1: Sorrow Portrait
 ```
 
 

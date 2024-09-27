@@ -23,7 +23,7 @@ license: OGL
 
 * * *
 
-**Effect** You concentrate your thermal energy and explode it outward. All creatures in a 20-foot emanation take 14d6 fire damage with a basic Reflex save. Afterward, you lose all effects of the Dormant Eruption feat until your next daily preparations.
+**Effect** You concentrate your thermal energy and explode it outward. All creatures in a @Template\[emanation|distance:20\] take 14d6 fire damage with a basic Reflex save. Afterward, you lose all effects of the Dormant Eruption feat until your next daily preparations.
 
 *Source: Pathfinder Dark Archive*
 *OGL*

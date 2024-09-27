@@ -6,8 +6,9 @@ tags:
   - trait/investigator
   - trait/common
   - category/classfeature
+  - remaster
 aliases: "Compendium.pf2e.classfeatures.Item.DZWQspPi4IkfXV2E"
-license: OGL
+license: ORC
 ---
 # Keen Recollection
 ## Feat 3
@@ -20,5 +21,5 @@ license: OGL
 
 You can recall pertinent facts on topics that aren't your specialty. Your proficiency bonus to untrained skill checks to [[Actions/Recall Knowledge|Recall Knowledge]] is equal to your level instead of +0.
 
-*Source: Pathfinder Advanced Player's Guide*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

@@ -6,13 +6,12 @@ tags:
   - trait/witch
   - trait/uncommon
   - category/classfeature
-  - remaster
 aliases: "Compendium.pf2e.classfeatures.Item.PLMmDXJCDdMS0V5C"
-license: ORC
+license: OGL
 ---
 # Lesson of Calamity
 ## Feat 2
-### [uncommon](uncommon "Uncommon Rarity Trait")[[witch]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[witch]]
 
 **Category** classfeature; 
 
@@ -21,5 +20,5 @@ license: ORC
 
 You gain the [[Spells/Stumbling Curse|Stumbling Curse]] hex, and your familiar learns [[Spells/Ill Omen|Ill Omen]].
 
-*Source: Pathfinder Player Core*
-*ORC*
+*Source: Pathfinder #169: Kindled Magic*
+*OGL*

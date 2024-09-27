@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.strength-of-thousands-bestiary.Actor.EYAcaqkQajIbvtLB"
 tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/plant
+  - pf2eMonster
   - pf2e/creature/level/19
 statblock: inline
 name: "Hivebound Arboreal"
@@ -21,16 +22,16 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #174: Shadows of the Ancients"
 name: "Hivebound Arboreal"
 level: "Creature 19"
-rare_03: "Rare"
+rare_03: [[Rare]]
 alignment: ""
 size: "huge"
-trait_01: "evil"
-trait_02: "plant"
+trait_01: [[evil]]
+trait_02: [[plant]]
 modifier: 33
 perception:
   - name: "Perception"
     desc: "+33; Low-Light Vision, Tremorsense (Imprecise) 120 Feet"
-languages: "Arboreal, Common, Fey"
+languages: "Arboreal, Common, Fey; speak with plants"
 skills:
   - name: "Skills"
     desc: "Athletics: +39, Intimidation: +32, Nature: +33, Stealth: +24"
@@ -73,14 +74,20 @@ attacks:
     desc: "DC 41, attack +33; __9th __ (2 slots) _[[Spells/Desiccate|Horrid Wilting]]_, _[[Spells/Nature's Enmity|Nature's Enmity]]_; __6th __ (1 slots) _[[Spells/Tangling Creepers|Tangling Creepers]]_; __3rd __ (1 slots) _[[Spells/Earthbind|Earthbind (At Will)]]_; __2nd __ (1 slots) _[[Spells/Entangling Flora|Entangle]]_\n__Constant__  __(4th)__ _[[Spells/Unfettered Movement|Freedom of Movement]]_, _[[Spells/Speak with Plants|Speak with Plants]]_"
 
   - name: "[[Bestiary Ability Glossary/Constrict|Constrict]]"
-    desc: "`pf2:1`  4d6 + 16 bludgeoning damage, DC 41 Fortitude check\n"
+    desc: "`pf2:1`  4d6+16 bludgeoning damage, DC 41 Fortitude check\n\n* * *\n"
 
   - name: "Offered to the Swarm"
-    desc: "  **Trigger** The arboreal Grabs or Constricts a foe\n**Requirements** The hivebound arboreal's swarm host is active\n**Effect** The arboreal offers up the triggering creature to its ants to feed. The triggering creature takes damage as from the swarm host aura, but thereafter gains a +4 circumstance bonus to Escape the Grab until it Escapes."
+    desc: "  **Trigger** The arboreal Grabs or Constricts a foe\n\n**Requirements** The hivebound arboreal's swarm host is active\n* * *\n\n**Effect** The arboreal offers up the triggering creature to its ants to feed. The triggering creature takes damage as from the swarm host aura, but thereafter gains a +4 circumstance bonus to Escape the Grab until it Escapes."
 
   - name: "[[Bestiary Ability Glossary/Throw Rock|Throw Rock]]"
     desc: "`pf2:1`  "
  
+```
+
+```encounter-table
+name: Hivebound Arboreal
+creatures:
+  - 1: Hivebound Arboreal
 ```
 
 

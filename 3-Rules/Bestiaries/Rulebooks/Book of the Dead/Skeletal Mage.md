@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/skeleton
   - pf2e/creature/type/undead
   - pf2e/creature/type/unholy
+  - pf2eMonster
   - pf2e/creature/level/5
 statblock: inline
 name: "Skeletal Mage"
@@ -26,10 +27,10 @@ level: "Creature 5"
 
 alignment: ""
 size: "Medium"
-trait_01: "evil"
-trait_02: "skeleton"
-trait_03: "undead"
-trait_04: "unholy"
+trait_01: [[evil]]
+trait_02: [[skeleton]]
+trait_03: [[undead]]
+trait_04: [[unholy]]
 modifier: 9
 perception:
   - name: "Perception"
@@ -64,6 +65,12 @@ attacks:
   - name: "Arcane Innate Spells"
     desc: "DC 22, attack +14; __3rd __  _[[Spells/Lightning Bolt|Lightning Bolt]]_, _[[Spells/Force Barrage|Magic Missile]]_, _[[Spells/Paralyze|Paralyze]]_; __2nd __  _[[Spells/Acid Arrow|Acid Arrow]]_, _[[Spells/Enlarge|Enlarge]]_, _[[Spells/Telekinetic Maneuver|Telekinetic Maneuver]]_; __1st __  _[[Spells/Breathe Fire|Burning Hands (x2)]]_, _[[Spells/Grease|Grease]]_, _[[Spells/Shocking Grasp|Shocking Grasp]]_\n__Cantrips__  __(3rd)__ _[[Spells/Produce Flame|Produce Flame]]_, _[[Spells/Ray of Frost|Ray of Frost]]_"
  
+```
+
+```encounter-table
+name: Skeletal Mage
+creatures:
+  - 1: Skeletal Mage
 ```
 
 

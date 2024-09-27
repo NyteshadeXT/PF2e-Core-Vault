@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.pathfinder-bestiary-2.Actor.Ge5Q5I7TTksf7QyN"
 tags:
   - pf2e/creature/type/dragon
   - pf2e/creature/type/plant
+  - pf2eMonster
   - pf2e/creature/level/16
 statblock: inline
 name: "Zomok"
@@ -25,13 +26,13 @@ level: "Creature 16"
 
 alignment: ""
 size: "grg"
-trait_01: "dragon"
-trait_02: "plant"
+trait_01: [[dragon]]
+trait_02: [[plant]]
 modifier: 28
 perception:
   - name: "Perception"
     desc: "+28; Darkvision, Tremorsense (Imprecise) 60 Feet"
-languages: "Arboreal, Common, Fey, Petran"
+languages: "Arboreal, Common, Fey, Petran; speak with plants"
 skills:
   - name: "Skills"
     desc: "Acrobatics: +27, Athletics: +33, Nature: +29, Stealth: +29, Survival: +30"
@@ -71,17 +72,23 @@ attacks:
     desc: "_[[Spells/Blight|Blight]]_, _[[Spells/Plant Growth|Plant Growth]]_, _[[Spells/Primal Call|Primal Call (doesn't require secondary casters)]]_"
 
   - name: "Entombing Breath"
-    desc: "`pf2:2` (earth,primal) The zomok blasts forth a 60-foot cone of earth and gravel, dealing 17d6 bludgeoning damage (DC 34 Reflex check save); [[Conditions/Prone|Prone]] creatures take a -2 circumstance penalty to this saving throw. Creatures touching the ground that fail their saves take a 10-foot circumstance penalty to their Speeds and are [[Conditions/Restrained|Restrained]] (Escape DC 34) on a critical failure.\nThe zomok can't use Entombing Breath again for 1d4 rounds.\nThe bodies of creatures slain by Entombing Breath instantly decompose and are destroyed-they can be restored to life only by a 7th-rank or higher spell or ritual that restores life. The creature's equipment is unharmed but buried under 5 feet of earth."
+    desc: "`pf2:2` (earth,primal) The zomok blasts forth a @Template[cone|distance:60] of earth and gravel, dealing 17d6 bludgeoning damage (DC 34 Reflex check save); [[Conditions/Prone|Prone]] creatures take a -2 circumstance penalty to this saving throw. Creatures touching the ground that fail their saves take a 10-foot circumstance penalty to their Speeds and are [[Conditions/Restrained|Restrained]] (Escape DC 34) on a critical failure.\n\nThe zomok can't use Entombing Breath again for 1d4 rounds.\n\nThe bodies of creatures slain by Entombing Breath instantly decompose and are destroyed-they can be restored to life only by a 7th-rank or higher spell or ritual that restores life. The creature's equipment is unharmed but buried under 5 feet of earth."
 
   - name: "Forest Step"
-    desc: "`pf2:1` (healing,primal,teleportation) **Frequency** three times per day\n**Effect** The zomok teleports itself with the effects of a 5th-rank [[Spells/Translocate|Translocate]] spell, but the zomok must begin and end the teleportation effect in forest terrain. The zomok regains 10d10 Hit Points during this teleportation. Creatures swallowed by the zomok are left behind.\nThe zomok can't use Forest Step again for 1d6+1 rounds."
+    desc: "`pf2:1` (healing,primal,teleportation) **Frequency** three times per day\n* * *\n\n**Effect** The zomok teleports itself with the effects of a 5th-rank [[Spells/Translocate|Translocate]] spell, but the zomok must begin and end the teleportation effect in forest terrain. The zomok regains 10d10 Hit Points during this teleportation. Creatures swallowed by the zomok are left behind.\n\nThe zomok can't use Forest Step again for 1d6+1 rounds."
 
   - name: "[[Bestiary Ability Glossary/Swallow Whole|Swallow Whole]]"
-    desc: "`pf2:1` (attack) Huge, 3d12 + 9 bludgeoning damage, Rupture 35\n"
+    desc: "`pf2:1` (attack) Huge, 3d12+9 bludgeoning damage, Rupture 35\n\n* * *\n"
 
   - name: "[[Bestiary Ability Glossary/Trample|Trample]]"
-    desc: "`pf2:3`  Huge or smaller, tail, DC 32 Reflex check\n"
+    desc: "`pf2:3`  Huge or smaller, tail, DC 32 Reflex check\n\n* * *\n"
  
+```
+
+```encounter-table
+name: Zomok
+creatures:
+  - 1: Zomok
 ```
 
 

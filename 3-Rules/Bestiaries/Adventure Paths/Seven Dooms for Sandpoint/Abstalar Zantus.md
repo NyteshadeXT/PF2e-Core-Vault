@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/good
   - pf2e/creature/type/human
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/7
 statblock: inline
 name: "Abstalar Zantus"
@@ -23,13 +24,13 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #200: Seven Dooms for Sandpoint"
 name: "Abstalar Zantus"
 level: "Creature 7"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Medium"
-trait_01: "chaotic"
-trait_02: "good"
-trait_03: "human"
-trait_04: "humanoid"
+trait_01: [[chaotic]]
+trait_02: [[good]]
+trait_03: [[human]]
+trait_04: [[humanoid]]
 modifier: 15
 perception:
   - name: "Perception"
@@ -74,6 +75,12 @@ attacks:
   - name: "Communal Healing Hands"
     desc: "  When Abstalar casts heal, he rolls d10s instead of d8s. When he casts heal to heal a single creature other than himself, he regains Hit Points equal to the spell level of the heal spell."
  
+```
+
+```encounter-table
+name: Abstalar Zantus
+creatures:
+  - 1: Abstalar Zantus
 ```
 
 

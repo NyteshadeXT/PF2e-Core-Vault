@@ -12,7 +12,7 @@ license: ORC
 ---
 # Arcane School
 ## Feat 1
-### [[wizard]]
+### [[3-Rules/trait_reference/wizard]]
 
 **Category** classfeature; 
 

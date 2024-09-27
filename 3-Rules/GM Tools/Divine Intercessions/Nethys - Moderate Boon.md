@@ -17,7 +17,7 @@ license: OGL
 
 
 
-**Moderate Boon (Single Use)** Nethys grants you insight into the secrets of magic. Add one spell from a different tradition of magic to your spell list. You still must learn it or add it to your repertoire normally.
+Nethys grants you insight into the secrets of magic. Add one spell from a different tradition of magic to your spell list. You still must learn it or add it to your repertoire normally.
 
 *Source: Pathfinder Lost Omens: Gods & Magic*
 *OGL*

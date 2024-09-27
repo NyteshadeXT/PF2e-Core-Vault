@@ -6,8 +6,9 @@ tags:
   - trait/alchemist
   - trait/common
   - category/class
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.XtIPmZ3Ihq5NJHP2"
-license: OGL
+license: ORC
 ---
 # Pinpoint Poisoner
 ## Feat 8
@@ -18,7 +19,9 @@ license: OGL
 
 
 
-Unsuspecting targets are especially vulnerable to your poisons. When you successfully Strike an off-guard creature with a poisoned weapon or expose an [[Conditions/Off-Guard|Off-Guard]] creature to an inhaled poison, the off-guard condition also gives that creature a -2 circumstance penalty to its initial save against that poison.
+Unsuspecting targets are especially vulnerable to your poisons. When you successfully Strike an [[Conditions/Off-Guard|Off-Guard]] creature with a poisoned weapon or expose an off-guard creature to an inhaled poison, that creature takes a –2 circumstance penalty to its initial save against that poison.
 
-*Source: Pathfinder Advanced Player's Guide*
-*OGL*
+[[Feat_Feature Effects/Effect_ Pinpoint Poisoner|Effect: Pinpoint Poisoner]]
+
+*Source: Pathfinder Player Core 2*
+*ORC*

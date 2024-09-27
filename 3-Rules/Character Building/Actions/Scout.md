@@ -7,12 +7,13 @@ tags:
   - trait/exploration
   - trait/common
   - category/interaction
+  - remaster
 aliases: "Compendium.pf2e.actionspf2e.Item.kV3XM0YJeS2KCSOb"
-license: OGL
+license: ORC
 ---
 # Scout
 
-### [[concentrate]][[exploration]]
+### [[3-Rules/Rule References/Concentrate]][[exploration]]
 
 **Category** interaction; 
 
@@ -23,5 +24,5 @@ You scout ahead and behind the group to watch danger, moving at half speed. At t
 
 [[Other Effects/Effect_ Scouting|Effect: Scouting]]
 
-*Source: Pathfinder Core Rulebook*
-*OGL*
+*Source: Pathfinder Player Core*
+*ORC*

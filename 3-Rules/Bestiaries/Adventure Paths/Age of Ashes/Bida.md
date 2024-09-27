@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/dragon
   - pf2e/creature/type/evil
   - pf2e/creature/type/lawful
+  - pf2eMonster
   - pf2e/creature/level/8
 statblock: inline
 name: "Bida"
@@ -22,12 +23,12 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #146: Cult of Cinders"
 name: "Bida"
 level: "Creature 8"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "huge"
-trait_01: "dragon"
-trait_02: "evil"
-trait_03: "lawful"
+trait_01: [[dragon]]
+trait_02: [[evil]]
+trait_03: [[lawful]]
 modifier: 15
 perception:
   - name: "Perception"
@@ -66,14 +67,20 @@ attacks:
     desc: "DC 26, attack +18; __3rd __  _[[Spells/Veil of Privacy|Nondetection]]_; __2nd __  _[[Spells/Humanoid Form|Humanoid Form]]_"
 
   - name: "[[Bestiary Ability Glossary/Constrict|Constrict]]"
-    desc: "`pf2:1`  1d6 + 6 bludgeoning damage, DC 26 Fortitude check save\n"
+    desc: "`pf2:1`  1d6+6 bludgeoning damage, DC 26 Fortitude check save\n\n* * *\n"
 
   - name: "Eight Coils"
     desc: "  A bida can Strike with its tail even while Grabbing creatures with it. The bida can have up to eight Medium or smaller creatures grabbed with its tail at a time; it can also grab Large creatures, but they count as four Medium creatures for this purpose."
 
   - name: "Mask Settlement"
-    desc: " (arcane,illusion) By concentrating for 4 hours, the bida hides a small settlement. This is a 5th-rank [[Spells/Mirage|Mirage]] spell, except the area is a 500-foot burst and creatures are invisible while inside structures in the area. The bida can conceal only one settlement at a time, and must concentrate on the effect for 10 minutes at the beginning of each day to maintain the illusion."
+    desc: " (arcane,illusion) By concentrating for 4 hours, the bida hides a small settlement. This is a 5th-rank [[Spells/Mirage|Mirage]] spell, except the area is a @Template[burst|distance:500] and creatures are invisible while inside structures in the area. The bida can conceal only one settlement at a time, and must concentrate on the effect for 10 minutes at the beginning of each day to maintain the illusion."
  
+```
+
+```encounter-table
+name: Bida
+creatures:
+  - 1: Bida
 ```
 
 

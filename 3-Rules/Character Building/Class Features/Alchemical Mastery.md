@@ -6,19 +6,20 @@ tags:
   - trait/alchemist
   - trait/common
   - category/classfeature
+  - remaster
 aliases: "Compendium.pf2e.classfeatures.Item.eG7FBDjCdEFzW9V9"
-license: OGL
+license: ORC
 ---
 # Alchemical Mastery
 ## Feat 17
-### [[alchemist]]
+### [[3-Rules/trait_reference/alchemist]]
 
 **Category** classfeature; 
 
 
 
 
-Your alchemical concoctions are incredibly effective. Your proficiency rank for your alchemist class DC increases to master.
+Your concoctions are incredibly effective. Your proficiency rank for your alchemist class DC increases to master.
 
-*Source: Pathfinder Core Rulebook*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

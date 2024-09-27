@@ -3,14 +3,17 @@ obsidianUIMode: preview
 title: "Opportune Riposte"
 cssclasses: pf2e,pf2e-action
 tags:
+  - trait/bravado
+  - trait/swashbuckler
   - trait/common
   - category/offensive
+  - remaster
 aliases: "Compendium.pf2e.actionspf2e.Item.EfjoIuDmtUn4yiow"
-license: OGL
+license: ORC
 ---
 # Opportune Riposte `pf2:r`
 
-### 
+### [[bravado]][[swashbuckler]]
 
 **Category** offensive; 
 
@@ -23,5 +26,5 @@ license: OGL
 
 You take advantage of an opening from your enemy's fumbled attack. You either make a melee Strike against the triggering foe or attempt to [[Actions/Disarm|Disarm]] it of the weapon it used for the Strike.
 
-*Source: Pathfinder Advanced Player's Guide*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

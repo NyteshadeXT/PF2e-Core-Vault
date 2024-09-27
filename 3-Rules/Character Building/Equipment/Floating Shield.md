@@ -11,7 +11,7 @@ license: ORC
 ---
 # Floating Shield
 ## Item 11
-### [uncommon](uncommon "Uncommon Rarity Trait")[[magical]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[3-Rules/Rule References/Magical]]
 
 
 **Price** 1250 gp; 

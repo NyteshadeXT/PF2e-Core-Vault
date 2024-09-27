@@ -5,6 +5,7 @@ noteType: pf2eHazard
 tags:
   - magical
   - trap
+  - pf2eHazard
 
 source: Pathfinder #200: Seven Dooms for Sandpoint
 aliases: "Compendium.pf2e.seven-dooms-for-sandpoint-bestiary.Actor.obwWQUZAdTO8fTKy" 
@@ -22,14 +23,14 @@ name: "Devil's Breath"
 level: "Hazard 5"
 
 
-trait_01: "magical"
-trait_02: "trap"
+trait_01: [[magical]]
+trait_02: [[trap]]
 modifier: 13
 sourcebook: "_Pathfinder #200: Seven Dooms for Sandpoint_"
 ac: 22
 armorclass:
   - name: AC
-    desc: "22; __Fort__ +15, __Ref__ +9, __Will__ NaN"
+    desc: "22; __Fort__ +15, __Ref__ +9, "
 hp: 50
 health:
   - name: ""
@@ -51,10 +52,16 @@ attacks:
   - name: ""
 
   - name: "Exhale Smoke"
-    desc: "`pf2:r` **Trigger** A non-goblin creature approaches within 10 feet of the taxidermy Sandpoint Devil\n**Effect** The taxidermy Sandpoint Devil lurches forward, opens its jaws, and emits a blood-curdling howl and a blast of foul-smelling gray smoke. All creatures in a 30-foot cone directed south of the trap (which reaches all the way to the door leading out to the Pit) must attempt a DC 22 Fortitude check save or become [[Conditions/Enfeebled 1|Enfeebled 1]] for 1 hour (or [[Conditions/Enfeebled 1|Enfeebled 2]] for 8 hours on a critical failure)."
+    desc: "`pf2:r` **Trigger** A non-goblin creature approaches within 10 feet of the taxidermy Sandpoint Devil\n* * *\n\n**Effect** The taxidermy Sandpoint Devil lurches forward, opens its jaws, and emits a blood-curdling howl and a blast of foul-smelling gray smoke. All creatures in a @Template[cone|distance:30] directed south of the trap (which reaches all the way to the door leading out to the Pit) must attempt a DC 22 Fortitude check save or become [[Conditions/Enfeebled|Enfeebled 1]] for 1 hour (or [[Conditions/Enfeebled|Enfeebled 2]] for 8 hours on a critical failure)."
 
 
   - name: "Reset"
     desc: "The Devil's Breath resets automatically after an hour."
+```
+
+```encounter-table
+name: Devil's Breath
+creatures:
+  - 1: Devil's Breath
 ```
 

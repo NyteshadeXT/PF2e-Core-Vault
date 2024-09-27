@@ -18,9 +18,8 @@ license: OGL
 
 
 
-
-**Prerequisites** way of the triggerbrand
-
+**Prerequisites** Way of the Triggerbrand
+* * *
 **Requirements** You're wielding a combination weapon.
 
 * * *

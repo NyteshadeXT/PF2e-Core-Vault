@@ -10,7 +10,7 @@ license: OGL
 ---
 # Cube of Force
 ## Item 13
-### [rare](rare "Rare Rarity Trait")[[magical]]
+### [rare](rare.md "Rare Rarity Trait")[[3-Rules/Rule References/Magical]]
 
 
 **Price** 3000 gp; 

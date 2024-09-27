@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.pathfinder-monster-core.Actor.6yTmbDaZmrkXUJ4t"
 tags:
   - pf2e/creature/type/gnome
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/5
   - remaster
 statblock: inline
@@ -19,14 +20,15 @@ license: ORC
 columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
+token: [[modules/pf2e-tokens-bestiaries/portraits/humanoid/darklands/deep-gnome-rockwarden.webp| ]]
 source: "Pathfinder Monster Core"
 name: "Umbral Gnome Rockwarden"
 level: "Creature 5"
 
 alignment: ""
 size: "Small"
-trait_01: "gnome"
-trait_02: "humanoid"
+trait_01: [[gnome]]
+trait_02: [[humanoid]]
 modifier: 14
 perception:
   - name: "Perception"
@@ -68,6 +70,12 @@ attacks:
   - name: "Primal Innate Spells"
     desc: "DC 21, attack +13; __1st __  _[[Spells/Illusory Disguise|Illusory Disguise]]_"
  
+```
+
+```encounter-table
+name: Umbral Gnome Rockwarden
+creatures:
+  - 1: Umbral Gnome Rockwarden
 ```
 
 

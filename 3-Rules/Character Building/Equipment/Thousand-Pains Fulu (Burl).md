@@ -18,7 +18,7 @@ license: OGL
 **Category** fulu; 
 **Price** 2700 gp; 
 **Bulk** 0; **Size** med
-**Usage** held-in-one-hand
+**Usage** affixed-to-a-creature
 
 **Duration** 1 minute
 

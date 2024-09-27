@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/chaotic
   - pf2e/creature/type/evil
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/6
 statblock: inline
 name: "Dundrath Gorger"
@@ -23,20 +24,20 @@ token: [[modules/battlezoo-bestiary-pf2e/art/dundrath_gorger.webp| ]]
 source: "Battlezoo Bestiary"
 name: "Dundrath Gorger"
 level: "Creature 6"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Large"
-trait_01: "chaotic"
-trait_02: "evil"
-trait_03: "humanoid"
+trait_01: [[chaotic]]
+trait_02: [[evil]]
+trait_03: [[humanoid]]
 modifier: 13
 perception:
   - name: "Perception"
     desc: "+13; Darkvision, Scent (Imprecise) 1 Feet"
-languages: "Jotun"
+languages: "Jotun; dundrath"
 skills:
   - name: "Skills"
-    desc: "Athletics: +16, Intimidation: +14, Survival: +15, "
+    desc: "Athletics: +16, Intimidation: +14, Survival: +15"
 abilityMods: [6, 3, 5, -2, 3, 2]
 speed: 30 feet
 sourcebook: "_Battlezoo Bestiary_"
@@ -59,7 +60,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "[[Bestiary Ability Glossary/Attack of Opportunity|Attack of Opportunity (Tusk Only)]]"
-    desc: "`pf2:r`  Tusk only\n"
+    desc: "`pf2:r`  Tusk only\n\n* * *\n"
 
   - name: "[[Bestiary Ability Glossary/Shield Block|Shield Block]]"
     desc: "`pf2:r`  "
@@ -83,14 +84,20 @@ attacks:
     desc: "`pf2:1` Javelin +15 (thrown 30 ft.)\n__Damage__  1d6 + 9 piercing"
 
   - name: "Impaling Tusk"
-    desc: "  When the dundrath rolls a critical hit with its tusk Strike against a Medium or smaller creature, it impales that creature, which becomes stuck to the tusk.\nThe stuck creature moves with the dundrath and takes 1d6 bleed damage until it either Escapes or someone uses Force Open to break the tusk (either is DC 24)."
+    desc: "  When the dundrath rolls a critical hit with its tusk Strike against a Medium or smaller creature, it impales that creature, which becomes stuck to the tusk.\n\nThe stuck creature moves with the dundrath and takes 1d6 bleed damage until it either [[Actions/Escape|Escapes]] or someone uses [[Actions/Force Open|Force Open]] to break the tusk (either is DC 24)."
 
   - name: "[[Bestiary Ability Glossary/Swallow Whole|Swallow Whole]]"
-    desc: "`pf2:1` (attack) Medium, 3d6 + 5 bludgeoning damage, Rupture 17\n"
+    desc: "`pf2:1` (attack) Medium, 3d6+5 bludgeoning damage, Rupture 17\n\n* * *\n"
 
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
     desc: "`pf2:1`  "
  
+```
+
+```encounter-table
+name: Dundrath Gorger
+creatures:
+  - 1: Dundrath Gorger
 ```
 
 

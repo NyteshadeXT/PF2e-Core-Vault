@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/fey
   - pf2e/creature/type/incorporeal
   - pf2e/creature/type/shadow
+  - pf2eMonster
   - pf2e/creature/level/5
 statblock: inline
 name: "Skotogelia"
@@ -23,12 +24,12 @@ token: [[modules/battlezoo-bestiary-pf2e/art/skotogelia.webp| ]]
 source: "Battlezoo Bestiary"
 name: "Skotogelia"
 level: "Creature 5"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "tiny"
-trait_01: "fey"
-trait_02: "incorporeal"
-trait_03: "shadow"
+trait_01: [[fey]]
+trait_02: [[incorporeal]]
+trait_03: [[shadow]]
 modifier: 12
 perception:
   - name: "Perception"
@@ -36,7 +37,7 @@ perception:
 languages: "Common, Fey, Shadowtongue"
 skills:
   - name: "Skills"
-    desc: "Arcana: +14, Lore (Any Three): +16, Nature: +11, Occultism: +14, Religion: +11, Stealth: +13, "
+    desc: "Arcana: +14, Nature: +11, Occultism: +14, Religion: +11, Stealth: +13, Lore (Any Three): +16"
 abilityMods: [2, 4, 3, 5, 2, 1]
 speed:  fly 25 feet
 sourcebook: "_Battlezoo Bestiary_"
@@ -67,14 +68,20 @@ attacks:
     desc: "`pf2:1` Shadow Fist +13 (finesse, magical)\n__Damage__  2d6 + 4 void"
 
   - name: "Occult Prepared Spells"
-    desc: "DC 22, attack +14; __3rd __  _[[Spells/Hypercognition|Hypercognition]]_, _[[Spells/Mind Reading|Mind Reading]]_; __2nd __  _[[Spells/Translate|Comprehend Language]]_, _[[Spells/Darkness|Darkness]]_, _[[Spells/Stupefy|Touch of Idiocy]]_; __1st __  _[[Spells/Floating Disk|Floating Disk]]_, _[[Spells/Lock|Lock]]_, _[[Spells/Mindlink|Mindlink]]_\n__Cantrips__  __(3rd)__ _[[Spells/Detect Magic|Detect Magic]]_, _[[Spells/Message|Message]]_, _[[Spells/Read Aura|Read Aura]]_, _[[Spells/Stabilize|Stabilize]]_, _[[Spells/Telekinetic Projectile|Telekinetic Projectile]]_"
+    desc: "DC 22, attack +14; __3rd __  _[[Spells/Hypercognition|Hypercognition]]_, _[[Spells/Mind Reading|Mind Reading]]_; __2nd __  _[[Spells/Translate|Comprehend Language]]_, _[[Spells/Darkness|Darkness]]_, _[[Spells/Stupefy|Touch of Idiocy]]_; __1st __  _[[Spells/Carryall|Floating Disk]]_, _[[Spells/Lock|Lock]]_, _[[Spells/Mindlink|Mindlink]]_\n__Cantrips__  __(3rd)__ _[[Spells/Detect Magic|Detect Magic]]_, _[[Spells/Message|Message]]_, _[[Spells/Read Aura|Read Aura]]_, _[[Spells/Stabilize|Stabilize]]_, _[[Spells/Telekinetic Projectile|Telekinetic Projectile]]_"
 
   - name: "Shadowy Smear"
-    desc: "`pf2:1`  **Frequency** once per round;\n**Effect** The skotogelia makes a shadow fist Strike that deals no damage. Instead, on a hit, the target is Dazzled for 1 round. On a critical hit, the target is Blinded for 1 round, then dazzled for 1 round."
+    desc: "`pf2:1`  **Frequency** once per round;\n\n**Effect** The skotogelia makes a shadow fist Strike that deals no damage. Instead, on a hit, the target is [[Conditions/Dazzled|Dazzled]] for 1 round. On a critical hit, the target is [[Conditions/Blinded|Blinded]] for 1 round, then dazzled for 1 round."
 
   - name: "Solid Umbra"
-    desc: "`pf2:1` (occult,shadow) Skotogelias can willfully shed their incorporeal guises for a short duration, typically to move or leave tomes or scrolls from the fey realm on the Material Plane;\n**Frequency** once per day;\n**Effect** The skotogelia loses the incorporeal trait and its resistances for 1 minute."
+    desc: "`pf2:1` (occult,shadow) Skotogelias can willfully shed their incorporeal guises for a short duration, typically to move or leave tomes or scrolls from the fey realm on the Material Plane;\n\n**Frequency** once per day;\n\n**Effect** The skotogelia loses the incorporeal trait and its resistances for 1 minute."
  
+```
+
+```encounter-table
+name: Skotogelia
+creatures:
+  - 1: Skotogelia
 ```
 
 

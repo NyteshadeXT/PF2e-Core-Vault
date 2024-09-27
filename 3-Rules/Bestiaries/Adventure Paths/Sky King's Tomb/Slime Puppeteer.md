@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.sky-kings-tomb-bestiary.Actor.KR4E8k1kmBKVRDyV"
 tags:
   - pf2e/creature/type/aberration
   - pf2e/creature/type/chaotic
+  - pf2eMonster
   - pf2e/creature/level/6
 statblock: inline
 name: "Slime Puppeteer"
@@ -21,16 +22,16 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #194: Cult of the Cave Worm"
 name: "Slime Puppeteer"
 level: "Creature 6"
-rare_03: "Rare"
+rare_03: [[Rare]]
 alignment: ""
 size: "Medium"
-trait_01: "aberration"
-trait_02: "chaotic"
+trait_01: [[aberration]]
+trait_02: [[chaotic]]
 modifier: 14
 perception:
   - name: "Perception"
     desc: "+14; Darkvision"
-languages: "Aklo, Common, Sakvroth"
+languages: "Aklo, Common, Sakvroth; telepathy 100 feet"
 skills:
   - name: "Skills"
     desc: "Acrobatics: +14, Deception: +16, Religion: +10, Society: +13, Stealth: +16"
@@ -55,7 +56,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Stinky Sweat"
-    desc: " (aura,olfactory) 10 feet. When a slime puppeteer takes fire damage, they form a layer of pungent slime on their skin that remains until washed away. While the layer is present, creatures adjacent to the slime puppeteer must attempt a DC 24 Fortitude check save. On a failure, the creature is [[Conditions/Sickened 1|Sickened 1]]. A creature that succeeds at its save is immune to the puppeteer's sweat for 1 minute."
+    desc: " (aura,olfactory) 10 feet. When a slime puppeteer takes fire damage, they form a layer of pungent slime on their skin that remains until washed away. While the layer is present, creatures adjacent to the slime puppeteer must attempt a DC 24 Fortitude check save. On a failure, the creature is [[Conditions/Sickened|Sickened 1]]. A creature that succeeds at its save is immune to the puppeteer's sweat for 1 minute."
 
 attacks:
   - name: ""
@@ -72,6 +73,12 @@ attacks:
   - name: "Mimic Form"
     desc: "  The puppeteer can take on the form of a corpse they have enveloped. This takes one hour, during which time the puppeteer can't move or attack and has an AC of 16. Once the target's form has been taken, the puppeteer cannot use its Envelop, fly speed, and swim speed abilities until Mimic Form ends. The puppeteer only has access to their wing Strike while using Mimic Form. The puppeteer can end Mimic Form as a three-action manipulate activity."
  
+```
+
+```encounter-table
+name: Slime Puppeteer
+creatures:
+  - 1: Slime Puppeteer
 ```
 
 

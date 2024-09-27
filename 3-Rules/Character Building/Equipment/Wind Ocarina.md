@@ -14,7 +14,7 @@ license: OGL
 ---
 # Wind Ocarina
 ## Item 6
-### [[3-Rules/Rule References/Air]][[aura]][[consumable]][[magical]]
+### [[air]][[aura]][[consumable]][[magical]]
 
 **Category** other; 
 **Price** 50 gp; 
@@ -25,7 +25,7 @@ license: OGL
 
 * * *
 
-A blue finish decorates the ceramic body of a wind ocarina. When you play a note on this ocarina, for 1 minute, winds sweep into strong gusts in a 5-foot emanation around you. The winds have the following effects.
+A blue finish decorates the ceramic body of a wind ocarina. When you play a note on this ocarina, for 1 minute, winds sweep into strong gusts in a @Template\[emanation|distance:5\] around you. The winds have the following effects.
 
 *   Ammunition from physical ranged attacks—such as arrows, bolts, sling bullets, and other objects of comparable size—can't pass through the area. Passing through the area causes attacks with bigger ranged weapons, such as thrown weapons, to take a –2 circumstance penalty to their attack rolls if their paths pass through the emanation. Massive ranged weapons and spell effects that don't create physical objects can pass through the emanation with no penalty.
 *   The area is difficult terrain to creatures attempting to move through it.

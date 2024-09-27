@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.pathfinder-bestiary.Actor.vxKqnzwcxNAgLp7C"
 tags:
   - pf2e/creature/type/animal
   - pf2e/creature/type/aquatic
+  - pf2eMonster
   - pf2e/creature/level/8
 statblock: inline
 name: "Giant Octopus"
@@ -25,12 +26,13 @@ level: "Creature 8"
 
 alignment: ""
 size: "huge"
-trait_01: "animal"
-trait_02: "aquatic"
+trait_01: [[animal]]
+trait_02: [[aquatic]]
 modifier: 15
 perception:
   - name: "Perception"
     desc: "+15; Low-Light Vision"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Acrobatics: +17, Athletics: +20, Stealth: +17"
@@ -64,13 +66,13 @@ attacks:
     desc: "  A giant octopus can move through a gap at least 2 feet wide without Squeezing, and can [[Actions/Squeeze|Squeeze]] through a gap at least 1 foot wide."
 
   - name: "[[Bestiary Ability Glossary/Constrict|Constrict]]"
-    desc: "`pf2:1`  1d8 + 9 bludgeoning, DC 26 Fortitude check\n_Note: A DC was not provided for this ability by Paizo. The DC present here is a moderate DC for the creature level according to the Gamemastery Guide creature building Tables._\n"
+    desc: "`pf2:1`  1d8+9 bludgeoning, DC 26 Fortitude check\n* * *\n\n_Note: A DC was not provided for this ability by Paizo. The DC present here is a moderate DC for the creature level according to the Gamemastery Guide creature building Tables._\n\n* * *\n"
 
   - name: "Giant Octopus Venom"
-    desc: " (poison) **Saving Throw** DC 26 Fortitude check\n**Maximum Duration** 6 rounds\n**Stage 1** 2d6 poison damage and [[Conditions/Off-Guard|Off-Guard]] (1 round)\n**Stage 2** 2d6 poison damage, [[Conditions/Clumsy 1|Clumsy 1]], and off-guard (1 round)\n**Stage 3** 2d6 poison damage, [[Conditions/Clumsy 1|Clumsy 2]], and off-guard (1 round)"
+    desc: " (poison) **Saving Throw** DC 26 Fortitude check\n* * *\n\n**Maximum Duration** 6 rounds\n\n**Stage 1** 2d6 poison damage and [[Conditions/Off-Guard|Off-Guard]] (1 round)\n\n**Stage 2** 2d6 poison damage, [[Conditions/Clumsy|Clumsy 1]], and off-guard (1 round)\n\n**Stage 3** 2d6 poison damage, [[Conditions/Clumsy|Clumsy 2]], and off-guard (1 round)"
 
   - name: "Ink Cloud"
-    desc: "`pf2:1`  The octopus emits a cloud of black ink in a 30-foot cone. This cloud has no effect outside of water. Creatures inside the cloud are [[Conditions/Undetected|Undetected]] and can't use their sense of smell. The cloud dissipates after 1 minute.\nThe octopus can't use Ink Cloud again for 2d6 rounds."
+    desc: "`pf2:1`  The octopus emits a cloud of black ink in a @Template[cone|distance:30]. This cloud has no effect outside of water. Creatures inside the cloud are [[Conditions/Undetected|Undetected]] and can't use their sense of smell. The cloud dissipates after 1 minute.\n\nThe octopus can't use Ink Cloud again for 2d6 rounds."
 
   - name: "Jet"
     desc: "`pf2:2` (move) The octopus moves up to 200 feet in a straight line through the water without triggering reactions."
@@ -81,6 +83,12 @@ attacks:
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
     desc: "`pf2:1`  "
  
+```
+
+```encounter-table
+name: Giant Octopus
+creatures:
+  - 1: Giant Octopus
 ```
 
 

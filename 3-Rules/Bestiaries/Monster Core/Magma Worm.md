@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.pathfinder-monster-core.Actor.jh3XmHoFtcGYkdJm"
 tags:
   - pf2e/creature/type/beast
   - pf2e/creature/type/fire
+  - pf2eMonster
   - pf2e/creature/level/18
   - remaster
 statblock: inline
@@ -23,11 +24,11 @@ token: [[modules/pf2e-tokens-bestiaries/portraits/bestial/invertebrate/worm-crim
 source: "Pathfinder Monster Core"
 name: "Magma Worm"
 level: "Creature 18"
-rare_03: "Rare"
+rare_03: [[Rare]]
 alignment: ""
 size: "grg"
-trait_01: "beast"
-trait_02: "fire"
+trait_01: [[beast]]
+trait_02: [[fire]]
 modifier: 25
 perception:
   - name: "Perception"
@@ -54,10 +55,10 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Fire Healing"
-    desc: "  As long as a magma worm is in contact with a fire or body of magma at least as large as itself, it gains fast healing 20. When struck by a magical fire effect from anything other than itself, a crimson worm regains Hit Points equal to half the fire damage the effect would otherwise deal."
+    desc: "  As long as a magma worm is in contact with a fire or body of magma at least as large as itself, it gains fast healing 20. When struck by a magical fire effect from anything other than itself, a magma worm regains Hit Points equal to half the fire damage the effect would otherwise deal."
 
   - name: "Inexorable"
-    desc: "  The magma worm recovers from the [[Conditions/Paralyzed|Paralyzed]], [[Conditions/Slowed 1|Slowed]], and [[Conditions/Stunned 1|Stunned]] conditions at the end of its turn. It's also immune to penalties to its Speeds and the [[Conditions/Immobilized|Immobilized]] condition, and it ignores difficult terrain and greater difficult terrain."
+    desc: "  The magma worm recovers from the [[Conditions/Paralyzed|Paralyzed]], [[Conditions/Slowed|Slowed]], and [[Conditions/Stunned|Stunned]] conditions at the end of its turn. It's also immune to penalties to its Speeds and the [[Conditions/Immobilized|Immobilized]] condition, and it ignores difficult terrain and greater difficult terrain."
 
   - name: "Slough Skin"
     desc: "`pf2:r`  **Frequency** once per day\n\n**Trigger** The magma worm would be affected by a condition or adverse effect (such as [[Spells/Cursed Metamorphosis|Cursed Metamorphosis]])\n* * *\n\n**Effect** The magma worm negates the triggering condition or effect by sloughing an outer layer of its skin. Effects from artifacts, deities, or a similarly powerful source can't be avoided in this way."
@@ -69,7 +70,7 @@ attacks:
     desc: "`pf2:1` Jaws +36 (deadly 3d10, fire, reach 20 feet)\n__Damage__  3d10 + 18 piercing plus improved-grab 2d6 fire plus improved-grab"
 
   - name: "Melee"
-    desc: "`pf2:1` Stinger +36 (agile, fire, poison, reach 20 feet)\n__Damage__  2d12 + 18 piercing plus crimson-worm-venom 2d6 fire plus crimson-worm-venom"
+    desc: "`pf2:1` Stinger +36 (agile, fire, poison, reach 20 feet)\n__Damage__  2d12 + 18 piercing plus magma-worm-venom 2d6 fire plus magma-worm-venom"
 
   - name: "Melee"
     desc: "`pf2:1` Body +34 (fire, reach 15 feet)\n__Damage__  2d10 + 16 bludgeoning 2d6 fire"
@@ -78,20 +79,26 @@ attacks:
     desc: "`pf2:r`  **Trigger** The worm [[Conditions/Grabbed|Grabs]] a creature\n* * *\n\n**Effect** The worm uses Swallow Whole."
 
   - name: "Fire Breath"
-    desc: "`pf2:2` (fire,primal) The magma worm breathes a blast of flame in a 60-foot cone that deals 18d6 fire damage to all creatures in the area (DC 41 Reflex check save).\n\nIt can't use Fire Breath again for 1d4 rounds."
+    desc: "`pf2:2` (fire,primal) The magma worm breathes a blast of flame in a @Template[cone|distance:60] that deals 18d6 fire damage to all creatures in the area (DC 41 Reflex check save).\n\nIt can't use Fire Breath again for 1d4 rounds."
 
   - name: "Magma Worm Venom"
-    desc: " (poison) **Saving Throw** DC 41 Fortitude check\n* * *\n\n**Maximum Duration** 6 rounds\n\n**Stage 1** 1d6 poison damage and [[Conditions/Drained 1|Drained 1]] (1 round)\n\n**Stage 2** 2d6 poison damage and drained 1 (1 round)\n\n**Stage 3** 2d6 poison damage and [[Conditions/Drained 1|Drained 2]] (1 round)."
+    desc: " (poison) **Saving Throw** DC 41 Fortitude check\n* * *\n\n**Maximum Duration** 6 rounds\n\n**Stage 1** 1d6 poison damage and [[Conditions/Drained|Drained 1]] (1 round)\n\n**Stage 2** 2d6 poison damage and drained 1 (1 round)\n\n**Stage 3** 2d6 poison damage and [[Conditions/Drained|Drained 2]] (1 round)."
 
   - name: "Rock Tunneler"
     desc: "  A magma worm can burrow through solid stone at a Speed of 20 feet. It can leave a tunnel if it desires, and it usually does."
 
   - name: "[[Bestiary Ability Glossary/Swallow Whole|Swallow Whole]]"
-    desc: "`pf2:1` (attack) Huge, 3d10 + 10 bludgeoning + 2d6 fire, Rupture 36\n\n* * *\n"
+    desc: "`pf2:1` (attack) Huge, 3d10+10 bludgeoning + 2d6 fire, Rupture 36\n\n* * *\n"
 
   - name: "Thrash"
     desc: "`pf2:2`  The worm makes a Strike once against each creature in its reach. It can Strike up to once with its jaws, up to once with its stinger, and any number of times with its body. Each attack counts toward the worm's multiple attack penalty, but the multiple attack penalty doesn't increase until after it makes all the attacks."
  
+```
+
+```encounter-table
+name: Magma Worm
+creatures:
+  - 1: Magma Worm
 ```
 
 

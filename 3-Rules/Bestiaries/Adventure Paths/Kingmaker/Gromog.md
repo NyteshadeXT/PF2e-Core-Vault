@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/giant
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/2
 statblock: inline
 name: "Gromog"
@@ -23,13 +24,13 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Kingmaker"
 name: "Gromog"
 level: "Creature 2"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Large"
-trait_01: "chaotic"
-trait_02: "evil"
-trait_03: "giant"
-trait_04: "humanoid"
+trait_01: [[chaotic]]
+trait_02: [[evil]]
+trait_03: [[giant]]
+trait_04: [[humanoid]]
 modifier: 1
 perception:
   - name: "Perception"
@@ -68,6 +69,12 @@ attacks:
   - name: "Melee"
     desc: "`pf2:1` Ogre Hook +12 (reach 10 feet, trip)\n__Damage__  1d10 + 7 piercing"
  
+```
+
+```encounter-table
+name: Gromog
+creatures:
+  - 1: Gromog
 ```
 
 

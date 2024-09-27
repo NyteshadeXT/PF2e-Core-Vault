@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.sky-kings-tomb-bestiary.Actor.xuKlDtvqQvbpGWt4"
 tags:
   - pf2e/creature/type/dwarf
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/1
 statblock: inline
 name: "Heldin Ulgincamp"
@@ -21,11 +22,11 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #193: Mantle of Gold"
 name: "Heldin Ulgincamp"
 level: "Creature 1"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Medium"
-trait_01: "dwarf"
-trait_02: "humanoid"
+trait_01: [[dwarf]]
+trait_02: [[humanoid]]
 modifier: 7
 perception:
   - name: "Perception"
@@ -62,8 +63,14 @@ attacks:
     desc: "DC 17, attack +0; __1st __  _[[Spells/Heal|Heal]]_, _[[Spells/Runic Weapon|Magic Weapon]]_\n__Cantrips__  __(1st)__ _[[Spells/Void Warp|Chill Touch]]_, _[[Spells/Shield|Shield]]_, _[[Spells/Stabilize|Stabilize]]_"
 
   - name: "Anchor the Unliving"
-    desc: "`pf2:2` (divine) Heldin displays their religious symbol at an undead creature within 30 feet. The creature must attempt a DC 17 Fortitude check save.\n**Critical Success** The creature is unaffected.\n**Success** Reduce the creature's resistances by 1 for 1d4 rounds, after which it's immune to this ability for 1 round.\n**Failure** As success, but the resistances are reduced by 3.\n**Critical Failure** As success, but the resistances are reduced by 5."
+    desc: "`pf2:2` (divine) Heldin displays their religious symbol at an undead creature within 30 feet. The creature must attempt a DC 17 Fortitude check save.\n* * *\n\n**Critical Success** The creature is unaffected.\n\n**Success** Reduce the creature's resistances by 1 for 1d4 rounds, after which it's immune to this ability for 1 round.\n\n**Failure** As success, but the resistances are reduced by 3.\n\n**Critical Failure** As success, but the resistances are reduced by 5."
  
+```
+
+```encounter-table
+name: Heldin Ulgincamp
+creatures:
+  - 1: Heldin Ulgincamp
 ```
 
 

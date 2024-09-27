@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/dragon
   - pf2e/creature/type/lawful
   - pf2e/creature/type/light
+  - pf2eMonster
   - pf2e/creature/level/19
 statblock: inline
 name: "Star Wyrm"
@@ -23,12 +24,12 @@ token: [[modules/battlezoo-bestiary-su-pf2e/art/Portraits/star-wyrm.webp| ]]
 source: "Battlezoo Bestiary: Strange and Unusual"
 name: "Star Wyrm"
 level: "Creature 19"
-rare_03: "Rare"
+rare_03: [[Rare]]
 alignment: ""
 size: "Large"
-trait_01: "dragon"
-trait_02: "lawful"
-trait_03: "light"
+trait_01: [[dragon]]
+trait_02: [[lawful]]
+trait_03: [[light]]
 modifier: 32
 perception:
   - name: "Perception"
@@ -36,7 +37,7 @@ perception:
 languages: "Draconic"
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +33, Athletics: +37, Diplomacy: +37, Intimidation: +33, Occultism: +35, Stealth: +33, "
+    desc: "Acrobatics: +33, Athletics: +37, Diplomacy: +37, Intimidation: +33, Occultism: +35, Stealth: +33, Acrobatics: +33, Athletics: +37, Diplomacy: +37, Intimidation: +33, Occultism: +35, Stealth: +33"
 abilityMods: [10, 5, 9, 6, 5, 9]
 speed: 40 feet,  fly 150 feet
 sourcebook: "_Battlezoo Bestiary: Strange and Unusual_"
@@ -58,13 +59,13 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Bolster Ally"
-    desc: "`pf2:r`  **Trigger** the star wyrm gains temporary Hit Points from a source other than another creature's Bolster Ally\n**Effect** One of the star wyrm's allies within 30 feet gains half as many temporary Hit Points as the star wyrm did. These temporary Hit Points last for 1 minute."
+    desc: "`pf2:r`  **Trigger** the star wyrm gains temporary Hit Points from a source other than another creature's Bolster Ally\n* * *\n\n**Effect** One of the star wyrm's allies within 30 feet gains half as many temporary Hit Points as the star wyrm did. These temporary Hit Points last for 1 minute."
 
   - name: "Extra Reaction"
     desc: "  The wyrm gains 2 reactions at the start of its turn each round."
 
   - name: "Intercept Attack"
-    desc: "`pf2:r`  **Trigger** One of the star wyrm's allies is hit by a Strike that could have targeted the wyrm\n**Effect** The wyrm takes the effects of the successful Strike instead."
+    desc: "`pf2:r`  **Trigger** One of the star wyrm's allies is hit by a Strike that could have targeted the wyrm\n* * *\n\n**Effect** The wyrm takes the effects of the successful Strike instead."
 
 attacks:
   - name: ""
@@ -85,14 +86,20 @@ attacks:
     desc: "`pf2:1` (arcane,void) The star wyrm attunes to either the emptiness of the void between the stars or the primordial potential of a nebula. This attunement lasts until the star wyrm uses Celestial Attunement again, so when first encountered, the star wyrm is attuned to one of these two cosmic sources, determined by the GM."
 
   - name: "Breath Weapon"
-    desc: "`pf2:2`  The wyrm breathes in one of two ways, as determined by its Celestial Attunement. The wyrm can't use its Breath Weapon again for 1d4 rounds.\n*   **Void** (arcane, necromancy, negative) The wyrm breathes out the soul-sucking emptiness between stars in a 50-foot cone that deals 12d10 void damage (DC 42 Fortitude check save). The wyrm gains temporary Hit Points equal to half the damage a single creature takes from the Breath Weapon; calculate these temporary Hit Points using the creature that took the most damage. These temporary Hit Points last 1 minute.\n*   **Nebula** (arcane, evocation, fire, positive) The wyrm breathes the primordial stuff of proto-stars in a 50-foot cone that deals 20d6 fire damage (DC 42 Reflex check save) to the wyrm's foes in the area, or positive damage to undead foes, whichever is worse for each undead foe. The wyrm's allies in the area instead heal half as many Hit Points."
+    desc: "`pf2:2`  The wyrm breathes in one of two ways, as determined by its Celestial Attunement. The wyrm can't use its Breath Weapon again for 1d4 rounds.\n\n*   **Void** (arcane, necromancy, negative) The wyrm breathes out the soul-sucking emptiness between stars in a 50-foot cone that deals 12d10 void damage (DC 42 Fortitude check save). The wyrm gains temporary Hit Points equal to half the damage a single creature takes from the Breath Weapon; calculate these temporary Hit Points using the creature that took the most damage. These temporary Hit Points last 1 minute.\n*   **Nebula** (arcane, evocation, fire, positive) The wyrm breathes the primordial stuff of proto-stars in a 50-foot cone that deals 20d6 fire damage (DC 42 Reflex check save) to the wyrm's foes in the area, or positive damage to undead foes, whichever is worse for each undead foe. The wyrm's allies in the area instead heal half as many Hit Points."
 
   - name: "Share Attunement"
-    desc: "`pf2:1`  The star wyrm shares its cosmic energy with an ally that doesn't have the Celestial Attunement ability within 30 feet. Each time that ally deals damage with a Strike before the start of the wyrm's next turn, they add the additional damage from the wyrm's Leaking Power.\n[[Effects/Effect_ Share Attunement|Effect: Share Attunement]]"
+    desc: "`pf2:1`  The star wyrm shares its cosmic energy with an ally that doesn't have the Celestial Attunement ability within 30 feet. Each time that ally deals damage with a Strike before the start of the wyrm's next turn, they add the additional damage from the wyrm's Leaking Power.\n\n[[Effects/Effect_ Share Attunement|Effect: Share Attunement]]"
 
   - name: "Teamwork"
-    desc: "  An enemy is Off-Guard to the star wyrm's melee attacks due to flanking as long as it is within reach of two of the star wyrm's allies."
+    desc: "  An enemy is [[undefined]] to the star wyrm's melee attacks due to flanking as long as it is within reach of two of the star wyrm's allies."
  
+```
+
+```encounter-table
+name: Star Wyrm
+creatures:
+  - 1: Star Wyrm
 ```
 
 

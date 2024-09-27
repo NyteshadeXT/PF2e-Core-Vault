@@ -18,11 +18,7 @@ license: OGL
 
 
 
-**One-Handed Weapon Only; Can't Have the Two-Hand Trait**
-
-* * *
-
-Combining your weapon with a gauntlet, you make it so you can quickly switch between attacking with your weapon and tinkering using your hands. Your innovation gains the free-hand trait.
+Combining your weapon with a gauntlet, you make it so you can quickly switch between attacking with your weapon and tinkering using your hands. Your innovation gains the free-hand trait. This cannot be used with weapons that have the two-hand or fatal aim traits.
 
 *Source: Pathfinder Guns & Gears*
 *OGL*

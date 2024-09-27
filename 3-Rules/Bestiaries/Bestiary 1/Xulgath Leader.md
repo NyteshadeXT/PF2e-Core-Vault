@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/humanoid
   - pf2e/creature/type/xulgath
+  - pf2eMonster
   - pf2e/creature/level/3
 statblock: inline
 name: "Xulgath Leader"
@@ -27,10 +28,10 @@ level: "Creature 3"
 
 alignment: ""
 size: "Medium"
-trait_01: "chaotic"
-trait_02: "evil"
-trait_03: "humanoid"
-trait_04: "xulgath"
+trait_01: [[chaotic]]
+trait_02: [[evil]]
+trait_03: [[humanoid]]
+trait_04: [[xulgath]]
 modifier: 9
 perception:
   - name: "Perception"
@@ -58,7 +59,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Stench"
-    desc: " (aura,olfactory) 30 feet. A creature entering the aura must attempt a DC 19 Fortitude check save. On a failure, the creature is [[Conditions/Sickened 1|Sickened 1]], and on a critical failure, the creature also takes a -5-foot status penalty to its Speeds for 1 round. While within the aura, the creature takes a -2 circumstance penalty to saves to recover from the sickened condition. A creature that succeeds at its save is temporarily immune to all xulgaths' stench for 1 minute.\n[[Bestiary Effects/Effect_ Xulgath Stench|Effect: Xulgath Stench]]"
+    desc: " (aura,olfactory) 30 feet. A creature entering the aura must attempt a DC 19 Fortitude check save. On a failure, the creature is [[Conditions/Sickened|Sickened 1]], and on a critical failure, the creature also takes a -5-foot status penalty to its Speeds for 1 round. While within the aura, the creature takes a -2 circumstance penalty to saves to recover from the sickened condition. A creature that succeeds at its save is temporarily immune to all xulgaths' stench for 1 minute.\n\n[[Bestiary Effects/Effect_ Xulgath Stench|Effect: Xulgath Stench]]"
 
 attacks:
   - name: ""
@@ -76,8 +77,14 @@ attacks:
     desc: "`pf2:1` Javelin +8 (thrown 30 ft.)\n__Damage__  1d6 + 4 piercing"
 
   - name: "Weakening Strike"
-    desc: "`pf2:1`  The target must succeed at a DC 20 Fortitude check save or become [[Conditions/Enfeebled 1|Enfeebled 1]] (or [[Conditions/Enfeebled 1|Enfeebled 2]] on a critical hit) for 1 round."
+    desc: "`pf2:1`  The target must succeed at a DC 20 Fortitude check save or become [[Conditions/Enfeebled|Enfeebled 1]] (or [[Conditions/Enfeebled|Enfeebled 2]] on a critical hit) for 1 round."
  
+```
+
+```encounter-table
+name: Xulgath Leader
+creatures:
+  - 1: Xulgath Leader
 ```
 
 

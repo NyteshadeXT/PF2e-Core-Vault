@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/human
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/9
 statblock: inline
 name: "Blade Mercenary"
@@ -22,12 +23,12 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #190: The Choosing"
 name: "Blade Mercenary"
 level: "Creature 9"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Medium"
-trait_01: "evil"
-trait_02: "human"
-trait_03: "humanoid"
+trait_01: [[evil]]
+trait_02: [[human]]
+trait_03: [[humanoid]]
 modifier: 15
 perception:
   - name: "Perception"
@@ -58,7 +59,7 @@ abilities_mid:
     desc: "`pf2:r`  "
 
   - name: "Bravery"
-    desc: "  When the mercenary rolls a successful Will save against a fear effect, they get a critical success instead. When the mercenary gains the [[Conditions/Frightened 1|Frightened]] condition, reduce its value by 1."
+    desc: "  When the mercenary rolls a successful Will save against a fear effect, they get a critical success instead. When the mercenary gains the [[Conditions/Frightened|Frightened]] condition, reduce its value by 1."
 
   - name: "[[Bestiary Ability Glossary/Shield Block|Shield Block]]"
     desc: "`pf2:r`  "
@@ -81,6 +82,12 @@ attacks:
   - name: "Ready Armaments"
     desc: "`pf2:1`  The mercenary Interacts to draw or stow a weapon, then Interacts to draw or stow a weapon. The mercenary can instead Raise a Shield instead of either Interact action."
  
+```
+
+```encounter-table
+name: Blade Mercenary
+creatures:
+  - 1: Blade Mercenary
 ```
 
 

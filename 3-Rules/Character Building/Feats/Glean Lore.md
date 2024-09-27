@@ -8,8 +8,9 @@ tags:
   - trait/secret
   - trait/common
   - category/class
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.MJW4VP7PjVAX131C"
-license: OGL
+license: ORC
 ---
 # Glean Lore `pf2:1`
 ## Feat 1
@@ -34,5 +35,5 @@ Attempt a Religion check check to understand the information you gain. The GM se
 
 **Critical Failure** You recall two pieces of incorrect information or gain two erroneous or misleading clues.
 
-*Source: Pathfinder Advanced Player's Guide*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

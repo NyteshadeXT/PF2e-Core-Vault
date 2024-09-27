@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.npc-gallery.Actor.DSA03902sWGot0ev"
 tags:
   - pf2e/creature/type/human
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/0
 statblock: inline
 name: "Miner"
@@ -24,8 +25,8 @@ level: "Creature 0"
 
 alignment: ""
 size: "Medium"
-trait_01: "human"
-trait_02: "humanoid"
+trait_01: [[human]]
+trait_02: [[humanoid]]
 modifier: 6
 perception:
   - name: "Perception"
@@ -33,7 +34,7 @@ perception:
 languages: "Common"
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +3, Athletics: +6, Mining Lore: +4, Survival: +4"
+    desc: "Acrobatics: +3, Athletics: +6, Survival: +4, Mining Lore: +4"
 abilityMods: [2, 1, 3, 0, 2, 0]
 speed: 25 feet
 sourcebook: "_Pathfinder Gamemastery Guide_"
@@ -59,8 +60,14 @@ attacks:
     desc: "`pf2:1` Pick +6 (fatal d10)\n__Damage__  1d6 + 2 piercing"
 
   - name: "Piton Pin"
-    desc: "`pf2:1` (attack) **Requirements** The miner has their hammer in hand\n**Effect** The miner Interacts to draw a [[Equipment/Piton|Piton]], then hammers it into a creature to pin them in place, attempting an DC 10 Athletics check check made as an Interact action."
+    desc: "`pf2:1` (attack) **Requirements** The miner has their hammer in hand\n* * *\n\n**Effect** The miner Interacts to draw a [[Equipment/Piton|Piton]], then hammers it into a creature to pin them in place, attempting an DC 10 Athletics check check made as an Interact action."
  
+```
+
+```encounter-table
+name: Miner
+creatures:
+  - 1: Miner
 ```
 
 

@@ -10,6 +10,7 @@ tags:
   - pf2e/creature/type/good
   - pf2e/creature/type/holy
   - pf2e/creature/type/lawful
+  - pf2eMonster
   - pf2e/creature/level/10
 statblock: inline
 name: "Shield Archon"
@@ -28,16 +29,16 @@ level: "Creature 10"
 
 alignment: ""
 size: "Large"
-trait_01: "archon"
-trait_02: "celestial"
-trait_03: "good"
-trait_04: "holy"
-trait_05: "lawful"
+trait_01: [[archon]]
+trait_02: [[celestial]]
+trait_03: [[good]]
+trait_04: [[holy]]
+trait_05: [[lawful]]
 modifier: 19
 perception:
   - name: "Perception"
     desc: "+19; Darkvision"
-languages: "Diabolic, Draconic, Empyrean"
+languages: "Diabolic, Draconic, Empyrean; tongues"
 skills:
   - name: "Skills"
     desc: "Athletics: +21, Diplomacy: +19, Intimidation: +19, Religion: +19, Survival: +17"
@@ -58,7 +59,7 @@ abilities_top:
   - name: "Items"
     desc: "[[Equipment/Spear|+1 Striking Holy Spear]], [[Equipment/Sturdy Shield (Lesser)|Sturdy Shield (Lesser)]], [[Equipment/Full Plate|+1 Full Plate]]"
   - name: "Morphic Hands"
-    desc: "`pf2:1` (divine) A shield archon's hands can change into a _+1 [[Equipment/Holy|Holy]] [[Equipment/Striking|Striking]] spear_ and a _[[Equipment/Sturdy Shield (Lesser)|Lesser Sturdy Shield]]_ or back into hands.\nTransforming does not restore any HP to the items, and if either the weapon or shield is fully destroyed, the archon loses that hand until it receives a [[Spells/Regenerate|Regenerate]] spell or similar magic.\nIf a shield archon is slain, its weapon and shield can be taken, but they fade into nothingness after 24 hours."
+    desc: "`pf2:1` (divine) A shield archon's hands can change into a _+1 [[Equipment/Holy|Holy]] [[Equipment/Striking|Striking]] spear_ and a _[[Equipment/Sturdy Shield (Lesser)|Lesser Sturdy Shield]]_ or back into hands.\n\nTransforming does not restore any HP to the items, and if either the weapon or shield is fully destroyed, the archon loses that hand until it receives a [[Spells/Regenerate|Regenerate]] spell or similar magic.\n\nIf a shield archon is slain, its weapon and shield can be taken, but they fade into nothingness after 24 hours."
 
 abilities_mid:
   - name: ""
@@ -66,10 +67,10 @@ abilities_mid:
     desc: "  A shield archon's shield is the focal point of its courage and soul. It always has its shield raised without needing to [[Action Macros/Raise a Shield|Raise a Shield]], and it can use [[Bestiary Ability Glossary/Shield Block|Shield Block]] as a free action instead of a reaction (Hardness 10, HP 80). A shield archon can trigger its Shield Block free action when an ally within 10 feet is the target of an attack, reducing damage to that ally instead of itself but otherwise following the normal rules of Shield Block."
 
   - name: "Menacing Guardian"
-    desc: " (aura,divine) 30 feet. Enemies that start their turn in the area or enter it must attempt a DC 27 Will check save.\nOn a failure, they take a -1 status penalty to attack rolls, spell rolls, and damage rolls against any other target while in the aura for 24 hours or until they damage the archon, whichever comes first. On a critical failure, they can't use hostile actions against any other target while in the area for 24 hours or until they damage the archon, whichever comes first.\nRegardless of the result, a creature is then temporarily immune to further menacing guardian auras for 24 hours."
+    desc: " (aura,divine) 30 feet. Enemies that start their turn in the area or enter it must attempt a DC 27 Will check save.\n\nOn a failure, they take a -1 status penalty to attack rolls, spell rolls, and damage rolls against any other target while in the aura for 24 hours or until they damage the archon, whichever comes first. On a critical failure, they can't use hostile actions against any other target while in the area for 24 hours or until they damage the archon, whichever comes first.\n\nRegardless of the result, a creature is then temporarily immune to further menacing guardian auras for 24 hours."
 
   - name: "Retributive Strike"
-    desc: "`pf2:r`  **Damage Reduction** 12\n**Trigger** An enemy damages the monster's ally, and both are within 15 feet of the monster.\n**Effect** The ally gains resistance to all damage against the triggering damage equal to 2 + the monster's level. If the foe is within reach, the monster makes a melee Strike against it."
+    desc: "`pf2:r`  **Damage Reduction** 12\n* * *\n\n**Trigger** An enemy damages the monster's ally, and both are within 15 feet of the monster.\n* * *\n\n**Effect** The ally gains resistance to all damage against the triggering damage equal to 2 + the monster's level. If the foe is within reach, the monster makes a melee Strike against it."
 
   - name: "[[Bestiary Ability Glossary/Shield Block|Shield Block]]"
     desc: "`pf2:0`  "
@@ -84,11 +85,17 @@ attacks:
     desc: "DC 27, attack +19; __4th __  _[[Spells/Translocate|Dimension Door (At Will)]]_; __2nd __  _[[Spells/Share Life|Shield Other (x3)]]_; __1st __  _[[Spells/Sure Strike|True Strike (x3)]]_\n__Cantrips__  __(5th)__ _[[Spells/Message|Message]]_\n__Constant__  __(5th)__ _[[Spells/Truespeech|Tongues]]_"
 
   - name: "Archon's Door"
-    desc: "  Once per day, if an archon sees another creature cast [[Spells/Translocate|Translocate]], it can cast an innate _dimension door_ (heightened to 5th level) within 1 round to attempt to follow that creature to the maximum distance of the archon's _dimension door_.\nIf the archon's _dimension door_ has enough distance, the archon appears the same distance and direction from the creature as before either used _dimension door_."
+    desc: "  Once per day, if an archon sees another creature cast [[Spells/Translocate|Translocate]], it can cast an innate _dimension door_ (heightened to 5th level) within 1 round to attempt to follow that creature to the maximum distance of the archon's _dimension door_.\n\nIf the archon's _dimension door_ has enough distance, the archon appears the same distance and direction from the creature as before either used _dimension door_."
 
   - name: "Courageous Switch"
     desc: "  When a shield archon uses its [[Spells/Translocate|Translocate]] innate spell, it can choose to move into the space of a willing ally it can see within range. If it does so, the ally switches places with the archon, appearing in the space the archon just vacated, as if it too had cast Dimension Door."
  
+```
+
+```encounter-table
+name: Shield Archon
+creatures:
+  - 1: Shield Archon
 ```
 
 

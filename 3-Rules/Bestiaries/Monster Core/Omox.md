@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/fiend
   - pf2e/creature/type/ooze
   - pf2e/creature/type/unholy
+  - pf2eMonster
   - pf2e/creature/level/12
   - remaster
 statblock: inline
@@ -28,10 +29,10 @@ level: "Creature 12"
 
 alignment: ""
 size: "Medium"
-trait_01: "demon"
-trait_02: "fiend"
-trait_03: "ooze"
-trait_04: "unholy"
+trait_01: [[demon]]
+trait_02: [[fiend]]
+trait_03: [[ooze]]
+trait_04: [[unholy]]
 modifier: 22
 perception:
   - name: "Perception"
@@ -82,7 +83,7 @@ attacks:
     desc: "`pf2:2` (concentrate,teleportation) **Requirements** The omox is in a space of liquid.\n* * *\n\n**Effect** The omox teleports from its current space to any unoccupied space of liquid within 120 feet."
 
   - name: "Slime Trap"
-    desc: "  A creature hit by an omox's slime ball must succeed at a DC 32 Reflex check save or take a –10-foot circumstance penalty to its Speeds for 1 minute or until it [[/act escape dc=35]]{Escapes (DC 35)}. On a critical failure, the creature is also [[Conditions/Clumsy 1|Clumsy 1]] for the same duration.\n\n[[Bestiary Effects/Effect_ Slime Trap|Effect: Slime Trap]]"
+    desc: "  A creature hit by an omox's slime ball must succeed at a DC 32 Reflex check save or take a –10-foot circumstance penalty to its Speeds for 1 minute or until it [[/act escape dc=35]]{Escapes (DC 35)}. On a critical failure, the creature is also [[Conditions/Clumsy|Clumsy 1]] for the same duration.\n\n[[Bestiary Effects/Effect_ Slime Trap|Effect: Slime Trap]]"
 
   - name: "Smother"
     desc: "`pf2:1`  **Requirements** The omox has a creature [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]]\n* * *\n\n**Effect** The demon flows over the creature, covering it in oozing acidic slime. The creature must succeed at a DC 32 Fortitude check save or it becomes [[Conditions/Blinded|Blinded]] and must hold its breath or begin suffocating. These effects lasts as long as the omox has the creature grabbed or restrained."
@@ -90,6 +91,12 @@ attacks:
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
     desc: "`pf2:1`  "
  
+```
+
+```encounter-table
+name: Omox
+creatures:
+  - 1: Omox
 ```
 
 

@@ -7,8 +7,9 @@ tags:
   - trait/dedication
   - trait/common
   - category/class
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.l1eCHNahsBb7rUkT"
-license: OGL
+license: ORC
 ---
 # Pirate Dedication
 ## Feat 2
@@ -20,11 +21,9 @@ license: OGL
 
 **Prerequisites** trained in Intimidation
 * * *
-As a pirate, you sail the seas in search of enemy ships to plunder. You become trained in Sailing Lore, or become an expert in it if you were already trained.
+As a pirate, you sail the seas in search of enemy ships to plunder and great adventures to embark on. You gain the [[Feats/Additional Lore|Additional Lore]] general feat for Sailing Lore or for a specific coastal city you have a connection to (such as Port Peril Lore). You ignore the effects of difficult terrain or uneven ground caused by unstable ground (such as the deck of a ship). Additionally, you gain the [[Actions/Boarding Assault|Boarding Assault]] action.
 
-You ignore the effects of difficult terrain or uneven ground caused by a ship's movement. Additionally, you gain the [[Actions/Boarding Assault|Boarding Assault]] action.
+[[PF2e Journals/Archetypes/Pirate|Pirate]]
 
-**Special** You can't select another dedication feat until you have gained two other feats from the [[PF2e Journals/Archetypes/Pirate|Pirate]] archetype.
-
-*Source: Pathfinder Advanced Player's Guide*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

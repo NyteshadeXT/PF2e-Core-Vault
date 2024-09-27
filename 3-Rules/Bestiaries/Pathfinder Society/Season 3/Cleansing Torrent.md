@@ -6,6 +6,7 @@ tags:
   - magical
   - trap
   - water
+  - pf2eHazard
 
 source: Pathfinder Society Scenario #3-14: The Tomb Between Worlds
 aliases: "Compendium.pf2e.pfs-season-3-bestiary.Actor.4f96tNhBeuyTR5jO" 
@@ -23,9 +24,9 @@ name: "Cleansing Torrent"
 level: "Hazard 9"
 
 
-trait_01: "magical"
-trait_02: "trap"
-trait_03: "water"
+trait_01: [[magical]]
+trait_02: [[trap]]
+trait_03: [[water]]
 modifier: 20
 sourcebook: "_Pathfinder Society Scenario #3-14: The Tomb Between Worlds_"
 perception:
@@ -44,10 +45,16 @@ attacks:
   - name: ""
 
   - name: "Purifying Blast"
-    desc: "`pf2:r` **Trigger** A living creature steps out of the room.\n**Effect** Water sprays out of the tubs. Every creature in the room or within 10 feet of the doors takes 4d10 + 26 bludgeoning damage (DC 30 Reflex check save) and the water casts 5th-rank [[Spells/Dispel Magic|Dispel Magic]] with a counteract modifier of +18 against the highest-rank spell active on each target (or all spells on a target that critically fails its Reflex save)."
+    desc: "`pf2:r` **Trigger** A living creature steps out of the room.\n* * *\n\n**Effect** Water sprays out of the tubs. Every creature in the room or within 10 feet of the doors takes 4d10+26 bludgeoning damage (DC 30 Reflex check save) and the water casts 5th-rank [[Spells/Dispel Magic|Dispel Magic]] with a counteract modifier of +18 against the highest-rank spell active on each target (or all spells on a target that critically fails its Reflex save)."
 
 
   - name: "Reset"
     desc: "1 minute"
+```
+
+```encounter-table
+name: Cleansing Torrent
+creatures:
+  - 1: Cleansing Torrent
 ```
 

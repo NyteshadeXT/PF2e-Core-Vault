@@ -6,8 +6,9 @@ tags:
   - trait/catfolk
   - trait/common
   - category/ancestry
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.fu1cTh93zgGweduf"
-license: OGL
+license: ORC
 ---
 # Wary Skulker
 ## Feat 9
@@ -18,7 +19,7 @@ license: OGL
 
 
 
-Ever alert, you [[Actions/Scout|Scout]] for danger even when you are trying to stay hidden. You can perform the Scout exploration activity at the same time as the [[Actions/Avoid Notice|Avoid Notice]] exploration activity.
+You can perform the [[Actions/Scout|Scout]] exploration activity at the same time as the [[Actions/Avoid Notice|Avoid Notice]] exploration activity.
 
-*Source: Pathfinder Advanced Player's Guide*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

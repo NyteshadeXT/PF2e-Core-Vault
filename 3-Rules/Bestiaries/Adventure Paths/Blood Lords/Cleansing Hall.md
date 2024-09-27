@@ -6,6 +6,7 @@ tags:
   - force
   - magical
   - trap
+  - pf2eHazard
   - complex
 source: Pathfinder #186: Ghost King&#x27;s Rage
 aliases: "Compendium.pf2e.blood-lords-bestiary.Actor.O4revJ2qwWVmSTwN" 
@@ -23,9 +24,9 @@ name: "Cleansing Hall"
 level: "Hazard 18"
 
 trait_06: "Complex"
-trait_01: "force"
-trait_02: "magical"
-trait_03: "trap"
+trait_01: [[force]]
+trait_02: [[magical]]
+trait_03: [[trap]]
 modifier: 29
 sourcebook: "_Pathfinder #186: Ghost King's Rage_"
 perception:
@@ -44,11 +45,17 @@ attacks:
   - name: ""
 
   - name: "Force Barrier"
-    desc: "`pf2:r` (divine, force) **Trigger** A creature reaches the hall's midpoint\n**Effect** Force barriers seal the hall's entrance and exit for 1 minute. The trap then rolls initiative."
+    desc: "`pf2:r` (divine, force) **Trigger** A creature reaches the hall's midpoint\n* * *\n\n**Effect** Force barriers seal the hall's entrance and exit for 1 minute. The trap then rolls initiative."
 
   - name: "Routine"
-    desc: "(1 action) A wave of force flows down the hall from north to south, dealing 3d10 + 20 force damage to each creature in the corridor. Each creature must attempt a DC 40 Reflex check. On a failure, a creature is pushed back 5 feet (10 feet on a critical failure). If this movement would cause a creature to hit another creature, both creatures take 1d6 bludgeoning damage. If this movement would cause a creature to hit a force barrier, the creature takes 2d6 bludgeoning damage. Animals, plants, and worshippers of Pharasma are immune to this force damage."
+    desc: "(1 action) A wave of force flows down the hall from north to south, dealing 3d10+20 force damage to each creature in the corridor. Each creature must attempt a DC 40 Reflex check. On a failure, a creature is pushed back 5 feet (10 feet on a critical failure). If this movement would cause a creature to hit another creature, both creatures take 1d6 bludgeoning damage. If this movement would cause a creature to hit a force barrier, the creature takes 2d6 bludgeoning damage. Animals, plants, and worshippers of Pharasma are immune to this force damage."
   - name: "Reset"
     desc: "The trap deactivates and resets after 1 minute."
+```
+
+```encounter-table
+name: Cleansing Hall
+creatures:
+  - 1: Cleansing Hall
 ```
 

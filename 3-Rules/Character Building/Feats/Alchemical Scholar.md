@@ -6,8 +6,9 @@ tags:
   - trait/hobgoblin
   - trait/common
   - category/ancestry
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.nyNsIePvpovlDAws"
-license: OGL
+license: ORC
 ---
 # Alchemical Scholar
 ## Feat 1
@@ -18,9 +19,7 @@ license: OGL
 
 
 
-You learn formulas more easily. You gain four common 1st-level alchemical formulas when you take this feat, and each time you gain a level, you gain a common alchemical formula of that level. You still need [[Feats/Alchemical Crafting|Alchemical Crafting]] to Craft alchemical items.
+You gain the [[Feats/Alchemical Crafting|Alchemical Crafting]] feat. If you would automatically gain that feat (from your background or the alchemist class, for example), you instead gain a different 1st-level Crafting skill feat. Add an additional common 1st-level alchemical formula to your formula book when you take this feat. Each time you gain a level beyond 1st, add one common alchemical formula of that level to your formula book.
 
-**Special** You can take this feat only at 1st level, and you can't retrain into or out of this feat.
-
-*Source: Pathfinder Lost Omens: Character Guide*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

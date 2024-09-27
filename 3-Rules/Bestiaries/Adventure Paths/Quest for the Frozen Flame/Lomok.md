@@ -10,6 +10,7 @@ tags:
   - pf2e/creature/type/humanoid
   - pf2e/creature/type/lawful
   - pf2e/creature/type/nephilim
+  - pf2eMonster
   - pf2e/creature/level/11
 statblock: inline
 name: "Lomok"
@@ -24,14 +25,14 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #177: Burning Tundra"
 name: "Lomok"
 level: "Creature 11"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Medium"
-trait_01: "good"
-trait_02: "human"
-trait_03: "humanoid"
-trait_04: "lawful"
-trait_05: "nephilim"
+trait_01: [[good]]
+trait_02: [[human]]
+trait_03: [[humanoid]]
+trait_04: [[lawful]]
+trait_05: [[nephilim]]
 modifier: 21
 perception:
   - name: "Perception"
@@ -59,19 +60,19 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Aura of Courage"
-    desc: "  15 feet. Whenever Lomok becomes [[Conditions/Frightened 1|Frightened]], reduce the condition value by 1 (minimum 0). At the end of his turn, when he would reduce his frightened condition value by 1, also reduce the value by 1 for all allies in his aura."
+    desc: "  15 feet. Whenever Lomok becomes [[Conditions/Frightened|Frightened]], reduce the condition value by 1 (minimum 0). At the end of his turn, when he would reduce his frightened condition value by 1, also reduce the value by 1 for all allies in his aura."
 
   - name: "Powerful Will"
     desc: "  When Lomok rolls a success on a Will save, he gets a critical success instead."
 
   - name: "Retributive Strike"
-    desc: "`pf2:r`  **Trigger** An enemy damages one of Lomok's allies, and both combatants are within 15 feet of him\n**Effect** Lomok shields his ally and calls for retribution upon the attacker. The ally reduces the triggering damage by 13. Lomok and any allies within reach of the triggering enemy can make melee Strikes against it."
+    desc: "`pf2:r`  **Trigger** An enemy damages one of Lomok's allies, and both combatants are within 15 feet of him\n* * *\n\n**Effect** Lomok shields his ally and calls for retribution upon the attacker. The ally reduces the triggering damage by 13. Lomok and any allies within reach of the triggering enemy can make melee Strikes against it."
 
   - name: "Shield Block"
-    desc: "`pf2:r`  **Trigger** While you have your shield raised, you would take damage from a physical attack\nYou snap your shield in place to ward off a blow. Your shield prevents you from taking an amount of damage up to the shield's Hardness. You and the shield each take any remaining damage, possibly breaking or destroying the shield."
+    desc: "`pf2:r`  **Trigger** While you have your shield raised, you would take damage from a physical attack\n* * *\n\nYou snap your shield in place to ward off a blow. Your shield prevents you from taking an amount of damage up to the shield's Hardness. You and the shield each take any remaining damage, possibly breaking or destroying the shield."
 
   - name: "Spurred by Death"
-    desc: "`pf2:r`  **Trigger** An ally within 30 feet reduces a creature to 0 HP\n**Effect** Lomok Steps, Strides, or Strikes."
+    desc: "`pf2:r`  **Trigger** An ally within 30 feet reduces a creature to 0 HP\n* * *\n\n**Effect** Lomok Steps, Strides, or Strikes."
 
 attacks:
   - name: ""
@@ -91,6 +92,12 @@ attacks:
   - name: "Oath of the Burning Mammoths"
     desc: "  Lomok's melee Strikes deal an additional 1d10 persistent fire damage. If he critically hits a creature with a melee Strike, the creature is [[Conditions/Off-Guard|Off-Guard]] for as long as it takes persistent fire damage."
  
+```
+
+```encounter-table
+name: Lomok
+creatures:
+  - 1: Lomok
 ```
 
 

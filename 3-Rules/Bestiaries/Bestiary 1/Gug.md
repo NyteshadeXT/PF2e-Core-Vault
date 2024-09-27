@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/aberration
   - pf2e/creature/type/chaotic
   - pf2e/creature/type/evil
+  - pf2eMonster
   - pf2e/creature/level/10
 statblock: inline
 name: "Gug"
@@ -26,9 +27,9 @@ level: "Creature 10"
 
 alignment: ""
 size: "Large"
-trait_01: "aberration"
-trait_02: "chaotic"
-trait_03: "evil"
+trait_01: [[aberration]]
+trait_02: [[chaotic]]
+trait_03: [[evil]]
 modifier: 19
 perception:
   - name: "Perception"
@@ -36,7 +37,7 @@ perception:
 languages: "Sakvroth"
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +19 (+23 to Squeeze), Athletics: +23, Stealth: +19, Survival: +17"
+    desc: "Acrobatics: +19, Athletics: +23, Stealth: +19, Survival: +17"
 abilityMods: [7, 3, 6, 0, 3, 0]
 speed: 40 feet,  climb 20 feet
 sourcebook: "_Pathfinder Bestiary_"
@@ -73,8 +74,14 @@ attacks:
     desc: "`pf2:2`  The gug makes up to four claw Strikes, each against a different target. These attacks all count toward the gug's multiple attack penalty, but the penalty doesn't increase until after the gug makes all its attacks."
 
   - name: "[[Bestiary Ability Glossary/Rend|Rend]]"
-    desc: "`pf2:1`  Claw\n"
+    desc: "`pf2:1`  Claw\n\n* * *\n"
  
+```
+
+```encounter-table
+name: Gug
+creatures:
+  - 1: Gug
 ```
 
 

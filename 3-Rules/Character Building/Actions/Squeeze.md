@@ -8,8 +8,9 @@ tags:
   - trait/skill
   - trait/common
   - category/interaction
+  - remaster
 aliases: "Compendium.pf2e.actionspf2e.Item.kMcV8e5EZUxa6evt"
-license: OGL
+license: ORC
 ---
 # Squeeze
 
@@ -35,5 +36,5 @@ You contort yourself to squeeze through a space so small you can barely fit thro
 *   **Trained** space barely fitting your shoulders
 *   **Master** space barely fitting your head
 
-*Source: Pathfinder Core Rulebook*
-*OGL*
+*Source: Pathfinder Player Core*
+*ORC*

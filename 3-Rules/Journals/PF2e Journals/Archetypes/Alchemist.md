@@ -16,11 +16,9 @@ You enjoy tinkering with alchemical formulas and substances in your spare time, 
 
 * * *
 
-You put your alchemical interest into practice. You become trained in alchemical bombs and Crafting; if you were already trained in Crafting, you instead become trained in a skill of your choice. You become trained in alchemist class DC. You gain the alchemist's [[Class Features/Infused Reagents|Infused Reagents]] class feature, gaining a number of reagents each day equal to your level. You also gain the [[Feats/Alchemical Crafting|Alchemical Crafting]] feat and four additional formulas for 1st-level alchemical items, as well as the ability to create free items during your daily preparations. Your advanced alchemy level is 1 and doesn't increase on its own.
+You put your alchemical interest into practice. You become trained in alchemical bombs, the alchemist class DC, and Crafting; if you were already trained in Crafting, you instead become trained in a skill of your choice.
 
-* * *
-
-**Special** You cannot select another dedication feat until you have gained two other feats from the alchemist archetype.
+You gain the [[PF2e Journals/Archetypes/Quick Alchemy|Quick Alchemy]] benefits, creating up to 4 versatile vials during your daily preparations. Add the formulas for four additional common alchemical items to your formula book, in addition to those you gain from Alchemical Crafting.
 
 ## [[Feats/Basic Concoction|Basic Concoction]] Feat 4
 
@@ -30,13 +28,13 @@ You put your alchemical interest into practice. You become trained in alchemical
 
 You gain a 1st- or 2nd-level alchemist feat.
 
-## [[Feats/Quick Alchemy|Quick Alchemy]] Feat 4
+## [[Feats/Advanced Alchemy|Advanced Alchemy]] Feat 4
 
 **Prerequisites** Alchemist Dedication
 
 * * *
 
-You gain the [[Actions/Quick Alchemy|Quick Alchemy]] action.
+You gain the [[PF2e Journals/Archetypes/Advanced Alchemy|Advanced Alchemy]] benefits, and you can create 4 alchemical consumables during your daily preparations.
 
 ## [[Feats/Advanced Concoction|Advanced Concoction]] Feat 6
 
@@ -50,18 +48,22 @@ You gain one alchemist feat. For the purpose of meeting its prerequisites, your 
 
 **Special** You can select this feat more than once. Each time you select it, you gain another alchemist feat.
 
-## [[Feats/Expert Alchemy|Expert Alchemy]] Feat 6
+## [[Feats/Voluminous Vials|Voluminous Vials]] Feat 6
 
 **Prerequisites** Alchemist Dedication; expert in Crafting
 
 * * *
 
-Your advanced alchemy level increases to 3. At 10th level, it increases to 5.
+Your number of versatile vials per day increases to 5.
 
-## [[Feats/Master Alchemy|Master Alchemy]] Feat 12
+* * *
+
+**Special** At 12th level or higher, you can select this feat a second time to increase your number of versatile vials per day to 6. At 18th level or higher, you can select this feat a third time to increase your number of versatile vials per day to 7.
+
+## [[Feats/Alchemical Power|Alchemical Power]] Feat 12
 
 **Prerequisites** Alchemist Dedication; master in Crafting
 
 * * *
 
-Your advanced alchemy level increases to 7. For every level you gain beyond 12th, your advanced alchemy level increases by 1.
+You become an expert in the alchemist class DC. When you create an infused alchemical item that allows a saving throw, you can change its DC to your class DC.

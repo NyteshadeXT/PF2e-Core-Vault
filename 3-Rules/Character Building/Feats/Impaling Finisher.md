@@ -7,8 +7,9 @@ tags:
   - trait/swashbuckler
   - trait/common
   - category/class
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.Qfn7lmOeXfBtpG4O"
-license: OGL
+license: ORC
 ---
 # Impaling Finisher `pf2:1`
 ## Feat 4
@@ -21,9 +22,9 @@ license: OGL
 
 You stab two foes with a single thrust or bash them together with one punch.
 
-Make a bludgeoning or piercing melee Strike and compare the attack roll result against the AC of up to two foes. One foe must be adjacent to you, and the other foe must be adjacent to and directly behind the first foe, in a straight line from your space. Roll damage once and apply it to each creature you hit.
+Make a bludgeoning or piercing melee Strike and compare the attack roll result against the AC of up to two foes. One foe must be adjacent to you, and the other foe must be adjacent to and directly behind the first foe, in a straight line from your space.
 
-An Impaling Finisher counts as two attacks when calculating your multiple attack penalty.
+Roll damage once and apply it to each creature you hit. An Impaling Finisher counts as two attacks when calculating your multiple attack penalty.
 
-*Source: Pathfinder Advanced Player's Guide*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

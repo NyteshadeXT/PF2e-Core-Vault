@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/chaotic
   - pf2e/creature/type/evil
   - pf2e/creature/type/seugathi
+  - pf2eMonster
   - pf2e/creature/level/9
 statblock: inline
 name: "Mnoghoth"
@@ -23,18 +24,18 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #200: Seven Dooms for Sandpoint"
 name: "Mnoghoth"
 level: "Creature 9"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Large"
-trait_01: "aberration"
-trait_02: "chaotic"
-trait_03: "evil"
-trait_04: "seugathi"
+trait_01: [[aberration]]
+trait_02: [[chaotic]]
+trait_03: [[evil]]
+trait_04: [[seugathi]]
 modifier: 18
 perception:
   - name: "Perception"
     desc: "+18; Darkvision, Tremorsense (Imprecise) 30 Feet"
-languages: "Aklo, Sakvroth"
+languages: "Aklo, Sakvroth; telepathy 100 feet"
 skills:
   - name: "Skills"
     desc: "Acrobatics: +18, Crafting: +17, Deception: +20, Intimidation: +18, Occultism: +19, Stealth: +20"
@@ -57,7 +58,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Command Confusion"
-    desc: "`pf2:r`  **Trigger** A creature fails its save against Mnoghoth's mindfog aura\n**Effect** Mnoghoth determines who the [[Conditions/Confused|Confused]] creature attacks for that round, instead of the target being randomly determined by the GM. If the chosen target is the confused creature's ally, the creature can immediately attempt a DC 25 Will check save; on a success, its target is determined randomly as normal for confusion, and on a critical success the target is no longer confused."
+    desc: "`pf2:r`  **Trigger** A creature fails its save against Mnoghoth's mindfog aura\n* * *\n\n**Effect** Mnoghoth determines who the [[Conditions/Confused|Confused]] creature attacks for that round, instead of the target being randomly determined by the GM. If the chosen target is the confused creature's ally, the creature can immediately attempt a DC 25 Will check save; on a success, its target is determined randomly as normal for confusion, and on a critical success the target is no longer confused."
 
   - name: "Mindfog Aura"
     desc: " (mental) 20 feet. A creature that starts its turn in the aura must succeed at a DC 25 Will check save or become [[Conditions/Confused|Confused]] for 1 round; on a success, that creature is temporarily immune for 1 minute. Mnoghoth can suppress or activate this aura as a single action with the concentrate trait."
@@ -81,8 +82,14 @@ attacks:
     desc: "  Mnoghoth can Cast a Spell from a magic item even if the spell isn't on their spell list. All such spells are occult spells and use Mnoghoth's innate spell DC and attack modifier."
 
   - name: "Seugathi Venom"
-    desc: " (poison) **Saving Throw** DC 28 Fortitude check\n**Maximum Duration** 6 rounds\n**Stage 1** 1d6 poison damage and [[Conditions/Stupefied 1|Stupefied 1]] (1 round)\n**Stage 2** 2d6 poison damage and [[Conditions/Deafened|Deafened]] and [[Conditions/Stupefied 1|Stupefied 2]] (1 round)"
+    desc: " (poison) **Saving Throw** DC 28 Fortitude check\n\n**Maximum Duration** 6 rounds\n\n**Stage 1** 1d6 poison damage and [[Conditions/Stupefied|Stupefied 1]] (1 round)\n\n**Stage 2** 2d6 poison damage and [[Conditions/Deafened|Deafened]] and [[Conditions/Stupefied|Stupefied 2]] (1 round)"
  
+```
+
+```encounter-table
+name: Mnoghoth
+creatures:
+  - 1: Mnoghoth
 ```
 
 

@@ -11,7 +11,7 @@ license: OGL
 ---
 # Dragonscale Amulet
 ## Item 15
-### [rare](rare "Rare Rarity Trait")[[invested]][[magical]]
+### [rare](rare.md "Rare Rarity Trait")[[invested]][[3-Rules/Rule References/Magical]]
 
 
 **Price** 5800 gp; 

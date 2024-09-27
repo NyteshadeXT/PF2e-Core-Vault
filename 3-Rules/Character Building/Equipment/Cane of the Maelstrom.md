@@ -15,7 +15,7 @@ license: OGL
 ---
 # Cane of the Maelstrom
 ## Item 22
-### [unique](unique "Unique Rarity Trait")[[artifact]][[cursed]][[divine]][[thrown-10]]
+### [unique](unique.md "Unique Rarity Trait")[[artifact]][[cursed]][[3-Rules/Rule References/Divine]][[thrown-10]]
 
 |  |  |
 | -- | -- |

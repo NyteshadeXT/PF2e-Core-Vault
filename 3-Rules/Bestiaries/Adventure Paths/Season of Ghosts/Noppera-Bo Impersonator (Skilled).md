@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/aberration
   - pf2e/creature/type/chaotic
   - pf2e/creature/type/evil
+  - pf2eMonster
   - pf2e/creature/level/6
 statblock: inline
 name: "Noppera-Bo Impersonator (Skilled)"
@@ -22,17 +23,17 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #198: No Breath to Cry"
 name: "Noppera-Bo Impersonator (Skilled)"
 level: "Creature 6"
-rare_03: "Rare"
+rare_03: [[Rare]]
 alignment: ""
 size: "Medium"
-trait_01: "aberration"
-trait_02: "chaotic"
-trait_03: "evil"
+trait_01: [[aberration]]
+trait_02: [[chaotic]]
+trait_03: [[evil]]
 modifier: 14
 perception:
   - name: "Perception"
     desc: "+14; "
-languages: "Common"
+languages: "Common; telepathy 30 feet"
 skills:
   - name: "Skills"
     desc: "Acrobatics: +14, Athletics: +14, Deception: +16, Intimidation: +16"
@@ -57,7 +58,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Sensitive Hearing"
-    desc: "  As long as the noppera-bo is [[Conditions/Deafened|Deafened]], they're [[Conditions/Slowed 1|Slowed 1]]."
+    desc: "  As long as the noppera-bo is [[Conditions/Deafened|Deafened]], they're [[Conditions/Slowed|Slowed 1]]."
 
 attacks:
   - name: ""
@@ -65,15 +66,21 @@ attacks:
   - name: "Melee"
     desc: "`pf2:1` False Weapon +15 ()\n__Damage__  2d8 + 8 mental"
 
-  - name: "Ranged"
+  - name: "Melee"
     desc: "`pf2:1` False Weapon +15 ()\n__Damage__  2d4 + 8 mental"
 
   - name: "False Weapon"
     desc: "  A noppera-bo impersonator carries a _+1 striking_ weapon that looks identical to the favored weapon of the PC being impersonated. If the PC favors unarmed strikes, it appears as hand wraps. If the PC favors a ranged weapon, then the noppera-bo impersonator has no melee weapon and instead uses the ranged weapon rules above; otherwise, the noppera-bo impersonator has no ranged weapon. If the PCs favors no weapon, then the noppera-bo wields a club as its false weapon. This false weapon is only partially real and inflicts only mental damage when it hits; it gains none of the original weapon's traits or magical enhancements. If a noppera-bo impersonator's false weapon is broken, disarmed, or set down, it fades away. The noppera-bo impersonator can craft a replacement false weapon by spending 10 minutes to recreate one."
 
   - name: "Impersonated Abilities"
-    desc: "  The noppera-bo impersonator gains one of the following abilities of your choice.\n[[Bestiary Effects/Effect_ Impersonated Ability|Effect: Impersonated Ability]]\n*   **Commander** The noppera-bo impersonator gains a minion that they can command. This creature takes the form of the impersonated PC's animal companion, eidolon, or other fighting companion creature; choose a 4th-level creature that approximates the impersonated companion creature's abilities. This creature gains the minion trait.\n*   [[Adventure-Specific Actions/Elemental Attack|Elemental Attack]]\n*   **Sneak Attack** The noppera-bo impersonator deals an additional 1d6 precision damage to [[Conditions/Off-Guard|Off-Guard]] creatures.\n*   **Weapon Perk** The noppera-bo impersonator chooses one of the following weapon traits to add to their false weapon: agile, backstabber, disarm, finesse, sweep, or trip."
+    desc: "  The noppera-bo impersonator gains one of the following abilities of your choice.\n\n[[Bestiary Effects/Effect_ Impersonated Ability|Effect: Impersonated Ability]]\n\n*   **Commander** The noppera-bo impersonator gains a minion that they can command. This creature takes the form of the impersonated PC's animal companion, eidolon, or other fighting companion creature; choose a 4th-level creature that approximates the impersonated companion creature's abilities. This creature gains the minion trait.\n*   [[Adventure-Specific Actions/Elemental Attack|Elemental Attack]]\n*   **Sneak Attack** The noppera-bo impersonator deals an additional 1d6 precision damage to [[Conditions/Off-Guard|Off-Guard]] creatures.\n*   **Weapon Perk** The noppera-bo impersonator chooses one of the following weapon traits to add to their false weapon: agile, backstabber, disarm, finesse, sweep, or trip."
  
+```
+
+```encounter-table
+name: Noppera-Bo Impersonator (Skilled)
+creatures:
+  - 1: Noppera-Bo Impersonator (Skilled)
 ```
 
 

@@ -10,6 +10,7 @@ tags:
   - pf2e/creature/type/incorporeal
   - pf2e/creature/type/phantom
   - pf2e/creature/type/spirit
+  - pf2eMonster
   - pf2e/creature/level/8
 statblock: inline
 name: "Phantom Beast"
@@ -25,18 +26,19 @@ token: [[modules/pf2e-tokens-bestiaries/portraits/undead/ghostly/phantom-beast.w
 source: "Pathfinder Bestiary 3"
 name: "Phantom Beast"
 level: "Creature 8"
-rare_03: "Rare"
+rare_03: [[Rare]]
 alignment: ""
 size: "Medium"
-trait_01: "chaotic"
-trait_02: "ethereal"
-trait_03: "incorporeal"
-trait_04: "phantom"
-trait_05: "spirit"
+trait_01: [[chaotic]]
+trait_02: [[ethereal]]
+trait_03: [[incorporeal]]
+trait_04: [[phantom]]
+trait_05: [[spirit]]
 modifier: 18
 perception:
   - name: "Perception"
     desc: "+18; Darkvision"
+languages: "telepathy 100 feet"
 skills:
   - name: "Skills"
     desc: "Diplomacy: +16, Intimidation: +18, Occultism: +14, Thievery: +18"
@@ -56,12 +58,12 @@ abilities_top:
   - name: ""
 
   - name: "Walk the Ethereal Line"
-    desc: "`pf2:2`  The phantom walks the thin line between the Ethereal and Material Planes in order to exist on both planes simultaneously.\nThey can shift back to solely the Ethereal Plane by using this ability again."
+    desc: "`pf2:2`  The phantom walks the thin line between the Ethereal and Material Planes in order to exist on both planes simultaneously.\n\nThey can shift back to solely the Ethereal Plane by using this ability again."
 
 abilities_mid:
   - name: ""
   - name: "Susceptible to Death"
-    desc: "  Though phantoms aren't alive, neither are they undead, and they are uniquely vulnerable to the effects of death.\nA phantom whose Hit Points are reduced to 0 as a result of a death effect (such as from a spell like [[Spells/Execute|Execute]]) is immediately whisked away to the River of Souls, where their soul resumes the usual path to the afterlife."
+    desc: "  Though phantoms aren't alive, neither are they undead, and they are uniquely vulnerable to the effects of death.\n\nA phantom whose Hit Points are reduced to 0 as a result of a death effect (such as from a spell like [[Spells/Execute|Execute]]) is immediately whisked away to the River of Souls, where their soul resumes the usual path to the afterlife."
 
 attacks:
   - name: ""
@@ -75,6 +77,12 @@ attacks:
   - name: "Grab Item"
     desc: "`pf2:1`  The phantom beast attempts to [[Actions/Steal|Steal]] one item of up to 1 Bulk from a creature, even if the creature is in combat, though the object still must not be one that is actively in use. If they succeed, they carry the object along with them telekinetically."
  
+```
+
+```encounter-table
+name: Phantom Beast
+creatures:
+  - 1: Phantom Beast
 ```
 
 

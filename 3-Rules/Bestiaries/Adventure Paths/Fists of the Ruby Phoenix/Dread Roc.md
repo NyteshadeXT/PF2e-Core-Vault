@@ -6,6 +6,7 @@ cssClasses: pf2e
 aliases: "Compendium.pf2e.fists-of-the-ruby-phoenix-bestiary.Actor.DW4UFHXzExWwvEuH" 
 tags:
   - pf2e/creature/type/animal
+  - pf2eMonster
   - pf2e/creature/level/15
 statblock: inline
 name: "Dread Roc"
@@ -20,14 +21,15 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #166: Despair on Danger Island"
 name: "Dread Roc"
 level: "Creature 15"
-rare_03: "Rare"
+rare_03: [[Rare]]
 alignment: ""
 size: "grg"
-trait_01: "animal"
+trait_01: [[animal]]
 modifier: 26
 perception:
   - name: "Perception"
     desc: "+26; Low-Light Vision"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Acrobatics: +23, Athletics: +31"
@@ -49,7 +51,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Wing Rebuff"
-    desc: "`pf2:r`  **Trigger** A creature moves from beyond the reach of the roc's wing to within the reach of the roc's wing.\n**Effect** The roc makes a wing Strike against the triggering creature. If the roc Pushes the creature, it disrupts the triggering move action."
+    desc: "`pf2:r`  **Trigger** A creature moves from beyond the reach of the roc's wing to within the reach of the roc's wing.\n* * *\n\n**Effect** The roc makes a wing Strike against the triggering creature. If the roc Pushes the creature, it disrupts the triggering move action."
 
 attacks:
   - name: ""
@@ -64,7 +66,7 @@ attacks:
     desc: "`pf2:1` Wing +30 (agile, reach 30 feet)\n__Damage__  2d6 + 15 bludgeoning plus improved-push"
 
   - name: "Dreadful Screech"
-    desc: "`pf2:1` (auditory,emotion,fear,mental) The dread roc screeches terrifyingly. Each creature in a 120-foot emanation must attempt a DC 32 Will check save. Regardless of the result, creatures are temporarily immune for 1 minute.\n**Critical Success** The creature is unaffected.\n**Success** The creature is [[Conditions/Frightened 1|Frightened 1]].\n**Failure** The creature is [[Conditions/Frightened 1|Frightened 2]].\n**Critical Failure** The creature is fleeing for 1 round and [[Conditions/Frightened 1|Frightened 3]]."
+    desc: "`pf2:1` (auditory,emotion,fear,mental) The dread roc screeches terrifyingly. Each creature in a @Template[emanation|distance:120] must attempt a DC 32 Will check save. Regardless of the result, creatures are temporarily immune for 1 minute.\n* * *\n\n**Critical Success** The creature is unaffected.\n\n**Success** The creature is [[Conditions/Frightened|Frightened 1]].\n\n**Failure** The creature is [[Conditions/Frightened|Frightened 2]].\n\n**Critical Failure** The creature is fleeing for 1 round and [[Conditions/Frightened|Frightened 3]]."
 
   - name: "Flying Strafe"
     desc: "`pf2:2`  The roc Flies up to its Speed and makes two talon Strikes at any point during that movement. Each Strike must target a different creature. Each attack takes the normal multiple attack penalty."
@@ -76,8 +78,14 @@ attacks:
     desc: "  A roc can Fly at half Speed while it has a creature [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]] in either or both of its talons, carrying that creature along with it."
 
   - name: "Improved Push 15ft"
-    desc: "  **Requirements** The monster's last action was a success with a Strike that lists Push in its damage entry.\n**Effect** The monster automatically knocks the target away from the monster. Unless otherwise noted in the ability description, the creature is pushed 15 feet. If the attack was a critical hit, this distance is doubled."
+    desc: "  **Requirements** The monster's last action was a success with a Strike that lists Push in its damage entry.\n* * *\n\n**Effect** The monster automatically knocks the target away from the monster. Unless otherwise noted in the ability description, the creature is pushed 15 feet. If the attack was a critical hit, this distance is doubled."
  
+```
+
+```encounter-table
+name: Dread Roc
+creatures:
+  - 1: Dread Roc
 ```
 
 

@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/fiend
   - pf2e/creature/type/sahkil
   - pf2e/creature/type/unholy
+  - pf2eMonster
   - pf2e/creature/level/4
 statblock: inline
 name: "Nucol"
@@ -27,15 +28,15 @@ level: "Creature 4"
 
 alignment: ""
 size: "Medium"
-trait_01: "evil"
-trait_02: "fiend"
-trait_03: "sahkil"
-trait_04: "unholy"
+trait_01: [[evil]]
+trait_02: [[fiend]]
+trait_03: [[sahkil]]
+trait_04: [[unholy]]
 modifier: 11
 perception:
   - name: "Perception"
     desc: "+11; Darkvision, Scent (Imprecise) 100 Feet"
-languages: "Chthonian, Diabolic, Empyrean, Requian"
+languages: "Chthonian, Diabolic, Empyrean, Requian; telepathy 60 feet"
 skills:
   - name: "Skills"
     desc: "Athletics: +12, Deception: +10, Intimidation: +12, Stealth: +10"
@@ -69,14 +70,20 @@ attacks:
     desc: "DC 20, attack +12; __3rd __  _[[Spells/Fear|Fear (At Will)]]_, _[[Compendium.pf2e.spells-srd.Item.RneiyehRO6f7LP44|Remove Disease]]_; __1st __  _[[Spells/Grease|Grease (x3)]]_\n__Cantrips__  __(2nd)__ _[[Spells/Detect Magic|Detect Magic]]_, _[[Spells/Telekinetic Hand|Mage Hand]]_"
 
   - name: "Nervous Consumption"
-    desc: " (disease,divine,emotion,mental) **Saving Throw** DC 21 Fortitude check\n**Onset** 1 minute\n**Stage1** [[Conditions/Sickened 1|Sickened 1]] and [[Conditions/Stupefied 1|Stupefied 1]] (1 day)\n**Stage 2** [[Conditions/Clumsy 1|Clumsy 1]] and [[Conditions/Stupefied 1|Stupefied 2]] (1 day)\n**Stage 3** [[Conditions/Clumsy 1|Clumsy 2]] and [[Conditions/Stupefied 1|Stupefied 3]] (1 day)"
+    desc: " (disease,divine,emotion,mental) **Saving Throw** DC 21 Fortitude check\n* * *\n\n**Onset** 1 minute\n\n**Stage 1** [[Conditions/Sickened|Sickened 1]] and [[Conditions/Stupefied|Stupefied 1]] (1 day)\n\n**Stage 2** [[Conditions/Clumsy|Clumsy 1]] and [[Conditions/Stupefied|Stupefied 2]] (1 day)\n\n**Stage 3** [[Conditions/Clumsy|Clumsy 2]] and [[Conditions/Stupefied|Stupefied 3]] (1 day)"
 
   - name: "Skip Between"
-    desc: "`pf2:1`  The nucol moves from the Material Plane to the Ethereal Plane or vice-versa, with the effects of [[Spells/Ethereal Jaunt|Ethereal Jaunt]] except that the effect has an unlimited duration and can be Dismissed.\nA summoned nucol can't use Skip Between."
+    desc: "`pf2:1`  The nucol moves from the Material Plane to the Ethereal Plane or vice-versa, with the effects of [[Spells/Ethereal Jaunt|Ethereal Jaunt]] except that the effect has an unlimited duration and can be Dismissed.\n\nA summoned nucol can't use Skip Between."
 
   - name: "Spray Pus"
-    desc: "`pf2:1`  The nucol flexes one of its infected wounds, releasing a spray of pus in a 15-foot cone or targeting an individual creature within 30 feet. A creature targeted or in the area is exposed to nervous consumption."
+    desc: "`pf2:1`  The nucol flexes one of its infected wounds, releasing a spray of pus in a @Template[cone|distance:15] or targeting an individual creature within 30 feet. A creature targeted or in the area is exposed to nervous consumption."
  
+```
+
+```encounter-table
+name: Nucol
+creatures:
+  - 1: Nucol
 ```
 
 

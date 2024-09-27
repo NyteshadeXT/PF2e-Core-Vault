@@ -5,6 +5,7 @@ noteType: pf2eHazard
 tags:
   - mechanical
   - trap
+  - pf2eHazard
 
 source: Pathfinder #193: Mantle of Gold
 aliases: "Compendium.pf2e.sky-kings-tomb-bestiary.Actor.9arU1eNe72I1lTjW" 
@@ -22,14 +23,14 @@ name: "Inexorable Door"
 level: "Hazard 5"
 
 
-trait_01: "mechanical"
-trait_02: "trap"
+trait_01: [[mechanical]]
+trait_02: [[trap]]
 modifier: 10
 sourcebook: "_Pathfinder #193: Mantle of Gold_"
 ac: 22
 armorclass:
   - name: AC
-    desc: "22; __Fort__ +15, __Ref__ +9, __Will__ +0"
+    desc: "22; __Fort__ +15, __Ref__ +9, "
 hp: 54
 health:
   - name: ""
@@ -52,5 +53,11 @@ attacks:
 
 
 
+```
+
+```encounter-table
+name: Inexorable Door
+creatures:
+  - 1: Inexorable Door
 ```
 

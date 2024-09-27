@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/alchemical
   - pf2e/creature/type/construct
   - pf2e/creature/type/golem
+  - pf2eMonster
   - pf2e/creature/level/5
 statblock: inline
 name: "Damaged Alchemical Golem"
@@ -22,16 +23,17 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Society Quest #6: Archaeology In Aspenthar"
 name: "Damaged Alchemical Golem"
 level: "Creature 5"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Large"
-trait_01: "alchemical"
-trait_02: "construct"
-trait_03: "golem"
+trait_01: [[alchemical]]
+trait_02: [[construct]]
+trait_03: [[golem]]
 modifier: 8
 perception:
   - name: "Perception"
     desc: "+8; Darkvision"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Athletics: +10"
@@ -53,13 +55,13 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Alchemical Rupture"
-    desc: "  When an alchemical golem takes physical damage from a critical hit or is affected by a [[Spells/Shatter|Shatter]] spell, one glass chamber within its body shatters, spewing alchemical liquid in a 5-foot emanation.\nRoll on the altered alchemical chambers list to determine which one shatters, and any creatures hit are affected as listed (DC 24 Reflex check).\n  \n| 1d6 | Alchemical Effect |\n| --- | --- |\n| 1-2 | DC 19 Fortitude check or [[Conditions/Enfeebled 1\\|Enfeebled 1]] ([[Conditions/Enfeebled 1\\|Enfeebled 2]] on a critical failure) |\n| 3-4 | DC 19 Fortitude check or [[Conditions/Sickened 1\\|Sickened 1]] ([[Conditions/Sickened 1\\|Sickened 2]] on a critical failure) |\n| 5-6 | DC 19 Fortitude check or [[Conditions/Slowed 1\\|Slowed]] for 1 round (slowed for 2 rounds on a critical failure) |"
+    desc: "  When an alchemical golem takes physical damage from a critical hit or is affected by a [[Spells/Shatter|Shatter]] spell, one glass chamber within its body shatters, spewing alchemical liquid in a @Template[emanation|distance:5].\n\nRoll on the altered alchemical chambers list to determine which one shatters, and any creatures hit are affected as listed (DC 24 Reflex check).\n\n  \n\n| 1d6 | Alchemical Effect |\n| --- | --- |\n| 1-2 | DC 19 Fortitude check or [[Conditions/Enfeebled\\|Enfeebled 1]] ([[Conditions/Enfeebled\\|Enfeebled 2]] on a critical failure) |\n| 3-4 | DC 19 Fortitude check or [[Conditions/Sickened\\|Sickened 1]] ([[Conditions/Sickened\\|Sickened 2]] on a critical failure) |\n| 5-6 | DC 19 Fortitude check or [[Conditions/Slowed\\|Slowed]] for 1 round (slowed for 2 rounds on a critical failure) |"
 
   - name: "Altered Alchemical Chambers"
-    desc: "  The damaged alchemical golem's chemicals have changed after a long period of inactivity. When an alchemical golem ability calls upon a randomly determined alchemical effect, roll 1d6 and consult the following (if you roll the result of a chamber that was shattered, there is no alchemical effect):\n  \n| 1d6 | Alchemical Effect |\n| --- | --- |\n| 1-2 | DC 19 Fortitude check or [[Conditions/Enfeebled 1\\|Enfeebled 1]] ([[Conditions/Enfeebled 1\\|Enfeebled 2]] on a critical failure) |\n| 3-4 | DC 19 Fortitude check or [[Conditions/Sickened 1\\|Sickened 1]] ([[Conditions/Sickened 1\\|Sickened 2]] on a critical failure) |\n| 5-6 | DC 19 Fortitude check or [[Conditions/Slowed 1\\|Slowed]] for 1 round (slowed for 2 rounds on a critical failure) |"
+    desc: "  The damaged alchemical golem's chemicals have changed after a long period of inactivity. When an alchemical golem ability calls upon a randomly determined alchemical effect, roll 1d6 and consult the following (if you roll the result of a chamber that was shattered, there is no alchemical effect):\n\n  \n\n| 1d6 | Alchemical Effect |\n| --- | --- |\n| 1-2 | DC 19 Fortitude check or [[Conditions/Enfeebled\\|Enfeebled 1]] ([[Conditions/Enfeebled\\|Enfeebled 2]] on a critical failure) |\n| 3-4 | DC 19 Fortitude check or [[Conditions/Sickened\\|Sickened 1]] ([[Conditions/Sickened\\|Sickened 2]] on a critical failure) |\n| 5-6 | DC 19 Fortitude check or [[Conditions/Slowed\\|Slowed]] for 1 round (slowed for 2 rounds on a critical failure) |"
 
   - name: "[[Creature Family Ability Glossary/(Golem) Golem Antimagic|Golem Antimagic]]"
-    desc: "  harmed by sonic (1d8 damage, 1d6 damage from areas or persistent damage); slowed by cold\nA golem is immune to spells and magical abilities other than its own, but each type of golem is affected by a few types of magic in special ways. If an entry lists multiple types (such as \"cold and water\"), either type of spell can affect the golem.\n**Harmed By** Any magic of this type that targets the golem causes it to take the listed amount of damage (this damage has no type) instead of the usual effect. If the golem starts its turn in an area of magic of this type or is affected by a persistent effect of the appropriate type, it takes the damage listed in the parenthetical.\n**Healed By** Any magic of this type that targets the golem makes the golem lose the slowed condition and gain HP equal to half the damage the spell would have dealt. If the golem starts its turn in an area of this type of magic, it gains the HP listed in the parenthetical.\n**Slowed By** Any magic of this type that targets the golem causes it to be [[Conditions/Slowed 1|Slowed 1]] for 2d6 rounds instead of the usual effect. If the golem starts its turn in an area of this type of magic, it's [[Conditions/Slowed 1|Slowed 1]] for that round.\n**Vulnerable To** Each golem is vulnerable to one or more specific spells, with the effects described in its stat block."
+    desc: "  harmed by sonic (1d8 damage, 1d6 damage from areas or persistent damage); slowed by cold\n* * *\n\nA golem is immune to spells and magical abilities other than its own, but each type of golem is affected by a few types of magic in special ways. If an entry lists multiple types (such as \"cold and water\"), either type of spell can affect the golem.\n\n**Harmed By** Any magic of this type that targets the golem causes it to take the listed amount of damage (this damage has no type) instead of the usual effect. If the golem starts its turn in an area of magic of this type or is affected by a persistent effect of the appropriate type, it takes the damage listed in the parenthetical.\n\n**Healed By** Any magic of this type that targets the golem makes the golem lose the slowed condition and gain HP equal to half the damage the spell would have dealt. If the golem starts its turn in an area of this type of magic, it gains the HP listed in the parenthetical.\n\n**Slowed By** Any magic of this type that targets the golem causes it to be [[Conditions/Slowed|Slowed 1]] for 2d6 rounds instead of the usual effect. If the golem starts its turn in an area of this type of magic, it's [[Conditions/Slowed|Slowed 1]] for that round.\n\n**Vulnerable To** Each golem is vulnerable to one or more specific spells, with the effects described in its stat block."
 
 attacks:
   - name: ""
@@ -68,8 +70,14 @@ attacks:
     desc: "`pf2:1` Syringe +16 (magical, reach 10 feet)\n__Damage__  2d8 + 2 piercing plus alchemical-injection"
 
   - name: "Alchemical Injection"
-    desc: "  When an alchemical golem hits a creature with a syringe Strike, roll 1d6 on the alchemical chambers list to determine the additional effect of the attack.\nThe syringe exposes the creature to the effect rolled.\n  \n| 1d6 | Alchemical Effect |\n| --- | --- |\n| 1-2 | DC 19 Fortitude check or [[Conditions/Enfeebled 1\\|Enfeebled 1]] ([[Conditions/Enfeebled 1\\|Enfeebled 2]] on a critical failure) |\n| 3-4 | DC 19 Fortitude check or [[Conditions/Sickened 1\\|Sickened 1]] ([[Conditions/Sickened 1\\|Sickened 2]] on a critical failure) |\n| 5-6 | DC 19 Fortitude check or [[Conditions/Slowed 1\\|Slowed]] for 1 round (slowed for 2 rounds on a critical failure) |"
+    desc: "  When an alchemical golem hits a creature with a syringe Strike, roll 1d6 on the alchemical chambers list to determine the additional effect of the attack.\n\nThe syringe exposes the creature to the effect rolled.\n\n  \n\n| 1d6 | Alchemical Effect |\n| --- | --- |\n| 1-2 | DC 19 Fortitude check or [[Conditions/Enfeebled\\|Enfeebled 1]] ([[Conditions/Enfeebled\\|Enfeebled 2]] on a critical failure) |\n| 3-4 | DC 19 Fortitude check or [[Conditions/Sickened\\|Sickened 1]] ([[Conditions/Sickened\\|Sickened 2]] on a critical failure) |\n| 5-6 | DC 19 Fortitude check or [[Conditions/Slowed\\|Slowed]] for 1 round (slowed for 2 rounds on a critical failure) |"
  
+```
+
+```encounter-table
+name: Damaged Alchemical Golem
+creatures:
+  - 1: Damaged Alchemical Golem
 ```
 
 

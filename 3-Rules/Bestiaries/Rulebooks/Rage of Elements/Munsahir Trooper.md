@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/elemental
   - pf2e/creature/type/fire
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/5
   - remaster
 statblock: inline
@@ -26,9 +27,9 @@ level: "Creature 5"
 
 alignment: ""
 size: "Medium"
-trait_01: "elemental"
-trait_02: "fire"
-trait_03: "humanoid"
+trait_01: [[elemental]]
+trait_02: [[fire]]
+trait_03: [[humanoid]]
 modifier: 14
 perception:
   - name: "Perception"
@@ -36,7 +37,7 @@ perception:
 languages: "Common, Pyric"
 skills:
   - name: "Skills"
-    desc: "Athletics: +12, Crafting: +11, Plane of Fire Lore: +11, Stealth: +12"
+    desc: "Athletics: +12, Crafting: +11, Stealth: +12, Plane of Fire Lore: +11"
 abilityMods: [3, 1, 5, 2, 3, 1]
 speed: 20 feet
 sourcebook: "_Pathfinder Rage of Elements_"
@@ -62,7 +63,7 @@ abilities_mid:
     desc: " (aura,fire) 10 feet. An munsahir's skin radiates heat like a forge's fire. A creature that starts its turn in the area must succeed at a DC 20 Fortitude check save or become [[Conditions/Fatigued|Fatigued]] while it remains in the area. Creatures immune to environmental heat effects or with any fire resistance are immune."
 
   - name: "Self-Destruct"
-    desc: "  When the munsahir is reduced to 0 HP, their armor explodes at the start of their next turn, dealing 5d6 fire damage in a 10-foot emanation (DC 19 Reflex check)."
+    desc: "  When the munsahir is reduced to 0 HP, their armor explodes at the start of their next turn, dealing 5d6 fire damage in a @Template[emanation|distance:10] (DC 19 Reflex check)."
 
 attacks:
   - name: ""
@@ -79,6 +80,12 @@ attacks:
   - name: "[[Bestiary Ability Glossary/Power Attack|Volcanic Hammer]]"
     desc: "`pf2:2`  The trooper makes a warhammer Strike that deals one extra weapon die of damage and 2d6 persistent fire damage."
  
+```
+
+```encounter-table
+name: Munsahir Trooper
+creatures:
+  - 1: Munsahir Trooper
 ```
 
 

@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.pathfinder-monster-core.Actor.GJShyw6HgV25ywqU"
 tags:
   - pf2e/creature/type/gnome
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/2
   - remaster
 statblock: inline
@@ -19,14 +20,15 @@ license: ORC
 columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
+token: [[modules/pf2e-tokens-bestiaries/portraits/humanoid/darklands/deep-gnome-warrior.webp| ]]
 source: "Pathfinder Monster Core"
 name: "Umbral Gnome Warrior"
 level: "Creature 2"
 
 alignment: ""
 size: "Small"
-trait_01: "gnome"
-trait_02: "humanoid"
+trait_01: [[gnome]]
+trait_02: [[humanoid]]
 modifier: 7
 perception:
   - name: "Perception"
@@ -71,6 +73,12 @@ attacks:
   - name: "Primal Innate Spells"
     desc: "DC 15, attack +7; __1st __  _[[Spells/Illusory Disguise|Illusory Disguise]]_"
  
+```
+
+```encounter-table
+name: Umbral Gnome Warrior
+creatures:
+  - 1: Umbral Gnome Warrior
 ```
 
 

@@ -33,7 +33,7 @@ When casting the avatar spell, a worshipper of Jin Li becomes a glorious dragon 
 
 **Jin Li** Speed 30 feet, swim 60 feet, ignore difficult terrain and greater difficult terrain; can breathe underwater
 
-Melee `pf2:1` smashing flop (backswing, reach 15 feet, shove), Damage 6d8 + 6 bludgeoning
+Melee `pf2:1` smashing flop (backswing, reach 15 feet, shove), Damage 6d8+6 bludgeoning
 
 Ranged `pf2:1` mighty splash (range 60 feet), Damage 4d6+3 bludgeoning plus 1d6 bludgeoning splash. The caster is immune to this splash damage.
 

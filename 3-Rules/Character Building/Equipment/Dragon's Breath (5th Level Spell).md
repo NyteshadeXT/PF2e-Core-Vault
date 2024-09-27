@@ -10,7 +10,7 @@ license: OGL
 ---
 # Dragon's Breath (5th Level Spell)
 ## Item 12
-### [uncommon](uncommon "Uncommon Rarity Trait")[[magical]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[3-Rules/Rule References/Magical]]
 
 
 **Price** 2000 gp; 

@@ -6,6 +6,7 @@ cssClasses: pf2e
 aliases: "Compendium.battlezoo-bestiary-su-pf2e.pf2e-battlezoo-su-actors.Actor.FUA9mP4TjpD4tTNS" 
 tags:
   - pf2e/creature/type/beast
+  - pf2eMonster
   - pf2e/creature/level/8
 statblock: inline
 name: "Shrieking Auger"
@@ -24,14 +25,15 @@ level: "Creature 8"
 
 alignment: ""
 size: "Small"
-trait_01: "beast"
+trait_01: [[beast]]
 modifier: 18
 perception:
   - name: "Perception"
     desc: "+18; Darkvision, Tremorsense (Imprecise) 60 Feet"
+languages: ""
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +18, Athletics: +15, Deception: +16, Stealth: +18, "
+    desc: "Acrobatics: +18, Athletics: +15, Deception: +16, Stealth: +18, Acrobatics: +18, Athletics: +15, Deception: +16, Stealth: +18"
 abilityMods: [3, 6, 3, -1, 4, 3]
 speed: 35 feet,  climb 15 feet
 sourcebook: "_Battlezoo Bestiary: Strange and Unusual_"
@@ -56,14 +58,20 @@ attacks:
     desc: "`pf2:1` Horn +21 (fatal d12, finesse)\n__Damage__  2d8 + 7 piercing plus attach"
 
   - name: "Attach"
-    desc: "  When a shrieking auger hits a target larger than itself, it quickly burrows its horn into that creature' body. This is similar to Grabbing the creature, but the shrieking auger moves with that creature rather than holding it in place. The shrieking auger is Off-Guard while attached. While attached, the shrieking auger can only Strike the creature to which it is attached."
+    desc: "  When a shrieking auger hits a target larger than itself, it quickly burrows its horn into that creature' body. This is similar to [[Conditions/Grabbed|Grabbing]] the creature, but the shrieking auger moves with that creature rather than holding it in place. The shrieking auger is [[undefined]] while attached. While attached, the shrieking auger can only Strike the creature to which it is attached."
 
   - name: "Keening Shriek"
-    desc: "`pf2:2` (auditory,emotion,fear,mental) The shrieking auger vibrates the hard tines on its paws, creating an unearthly keening. Each creature within a 30-foot burst must attempt a DC 25 Will check save. A creature that successfully saves against the shrieking auger's Keening Shriek is temporarily immune for 10 minutes. If a creature to which the shrieking auger is attached is Fleeing from the keening shriek, the shrieking auger controls the direction it flees.\n**Critical Success** The creature is unaffected.\n**Success** The creature is Frightened 1.\n**Failure** The creature is Frightened 2.\n**Critical Failure** The creature is fleeing for 1 round, Frightened 3 and Stunned 1. Pounce 1 The shrieking auger Strides and makes a horn Strike at the end of that movement. If the shrieking auger began this action Hidden, it remains hidden until after this ability's Strike."
+    desc: "`pf2:2` (auditory,emotion,fear,mental) The shrieking auger vibrates the hard tines on its paws, creating an unearthly keening. Each creature within a 30-foot burst must attempt a DC 25 Will check save. A creature that successfully saves against the shrieking auger's Keening Shriek is temporarily immune for 10 minutes. If a creature to which the shrieking auger is attached is [[undefined]] from the keening shriek, the shrieking auger controls the direction it flees.\n* * *\n\n**Critical Success** The creature is unaffected.\n\n**Success** The creature is [[undefined]].\n\n**Failure** The creature is [[undefined]].\n\n**Critical Failure** The creature is fleeing for 1 round, [[undefined]] and [[undefined]]. Pounce 1 The shrieking auger Strides and makes a horn Strike at the end of that movement. If the shrieking auger began this action [[undefined]], it remains hidden until after this ability's Strike."
 
   - name: "Pounce"
     desc: "`pf2:1`  The shrieking auger Strides and makes a horn Strike at the end of that movement. If the shrieking auger began this action [[Conditions/Hidden|Hidden]], it remains hidden until after this ability's Strike."
  
+```
+
+```encounter-table
+name: Shrieking Auger
+creatures:
+  - 1: Shrieking Auger
 ```
 
 

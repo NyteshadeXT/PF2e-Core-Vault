@@ -10,8 +10,9 @@ tags:
   - trait/polymorph
   - trait/common
   - category/mutagen
+  - remaster
 aliases: "Compendium.pf2e.equipment-srd.Item.GS4YvQieBS11JNYR"
-license: OGL
+license: ORC
 ---
 # Drakeheart Mutagen (Lesser)
 ## Item 1
@@ -22,11 +23,11 @@ license: OGL
 **Bulk** L; **Size** med
 **Usage** held-in-one-hand
 
-**Activate** `pf2:1` Interact
+**Activate** `pf2:1` (manipulate)
 
 * * *
 
-Your skin grows tough scales like a drake, your eyesight become sharp and your pupils slitted, and your limbs grow wiry and quick, but your mind and reflexes become slow.
+Your skin grows scales like a drake, and your eyesight become sharp and your pupils slitted, but your mind and reflexes slow.
 
 **Benefit** You gain +4 item bonus to AC, a Dexterity cap of +2 (as usual, use your lowest Dexterity cap if you have more than one), and a +1 item bonus to Perception checks. If you're wearing armor, you still calculate your proficiency bonus to AC based on your proficiency in the armor you're wearing, even if the drakeheart mutagen has a higher item bonus. You also gain the [[Actions/Final Surge|Final Surge]] action.
 
@@ -36,5 +37,5 @@ Your skin grows tough scales like a drake, your eyesight become sharp and your p
 
 [[Equipment Effects/Effect_ Drakeheart Mutagen (Lesser)|Effect: Drakeheart Mutagen (Lesser)]]
 
-*Source: Pathfinder Advanced Player's Guide*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

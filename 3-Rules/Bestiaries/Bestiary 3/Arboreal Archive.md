@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.pathfinder-bestiary-3.Actor.vJAPvmWCjVGKr06E"
 tags:
   - pf2e/creature/type/good
   - pf2e/creature/type/plant
+  - pf2eMonster
   - pf2e/creature/level/12
 statblock: inline
 name: "Arboreal Archive"
@@ -25,16 +26,16 @@ level: "Creature 12"
 
 alignment: ""
 size: "huge"
-trait_01: "good"
-trait_02: "plant"
+trait_01: [[good]]
+trait_02: [[plant]]
 modifier: 25
 perception:
   - name: "Perception"
     desc: "+25; Low-Light Vision, Tremorsense (Imprecise) 60 Feet"
-languages: "Arboreal, Common, Fey"
+languages: "Arboreal, Common, Fey; speak with plants"
 skills:
   - name: "Skills"
-    desc: "Athletics: +23, Diplomacy: +22, Forest Lore (applies to the arboreal archive's territory): +28, Nature: +25, Stealth: +19 (+23 in forests)"
+    desc: "Athletics: +23, Diplomacy: +22, Nature: +25, Stealth: +19, Forest Lore (applies to the arboreal archive's territory): +28"
 abilityMods: [7, -1, 5, 4, 7, 4]
 speed: 25 feet
 sourcebook: "_Pathfinder Bestiary 3_"
@@ -68,8 +69,14 @@ attacks:
     desc: "DC 32, attack +24; __6th __  _[[Spells/Tangling Creepers|Tangling Creepers]]_; __3rd __  _[[Spells/Earthbind|Earthbind (At Will)]]_; __2nd __  _[[Spells/Entangling Flora|Entangle]]_\n__Constant__  __(4th)__ _[[Spells/Speak with Plants|Speak with Plants]]_"
 
   - name: "Memory Maelstrom"
-    desc: "`pf2:3` (concentrate,incapacitation,mental,nonlethal,primal) The arboreal archive tries to overwhelm foes with a surge of information it has absorbed over its long life. This surge deals 5d6 mental damage to each enemy within 40 feet, who must attempt a DC 32 Will check save.\n**Critical Success** The creature maintains its composure, takes no damage, and is temporarily immune to Memory Maelstrom for 1 minute.\n**Success** The creature is [[Conditions/Stunned 1|Stunned 1]] and takes half damage.\n**Failure** The creature takes full damage and is [[Conditions/Stunned 1|Stunned 3]].\n**Critical Failure** The creature takes double damage, is [[Conditions/Confused|Confused]] for 2d4 rounds, and is stunned 3."
+    desc: "`pf2:3` (concentrate,incapacitation,mental,nonlethal,primal) The arboreal archive tries to overwhelm foes with a surge of information it has absorbed over its long life. This surge deals 5d6 mental damage to each enemy within 40 feet, who must attempt a DC 32 Will check save.\n* * *\n\n**Critical Success** The creature maintains its composure, takes no damage, and is temporarily immune to Memory Maelstrom for 1 minute.\n\n**Success** The creature is [[Conditions/Stunned|Stunned 1]] and takes half damage.\n\n**Failure** The creature takes full damage and is [[Conditions/Stunned|Stunned 3]].\n\n**Critical Failure** The creature takes double damage, is [[Conditions/Confused|Confused]] for 2d4 rounds, and is stunned 3."
  
+```
+
+```encounter-table
+name: Arboreal Archive
+creatures:
+  - 1: Arboreal Archive
 ```
 
 

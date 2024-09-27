@@ -160,6 +160,7 @@ As you gain new spells in your repertoire, you might want to replace some of the
   
 
 Psychic Spells per Day
+ 
 | Your Level | Cantrips | 1st | 2nd | 3rd | 4th | 5th | 6th | 7th | 8th | 9th | 10th |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 1 | 3\* | 1 | \- | \- | \- | \- | \- | \- | \- | \- | \- |

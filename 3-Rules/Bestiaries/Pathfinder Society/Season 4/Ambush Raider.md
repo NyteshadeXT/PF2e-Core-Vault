@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.pfs-season-4-bestiary.Actor.RpDO2ClbBiAUfQCL"
 tags:
   - pf2e/creature/type/elf
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/5
 statblock: inline
 name: "Ambush Raider"
@@ -21,11 +22,11 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Society Scenario #4-99: Blessings of the Forest"
 name: "Ambush Raider"
 level: "Creature 5"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Medium"
-trait_01: "elf"
-trait_02: "humanoid"
+trait_01: [[elf]]
+trait_02: [[humanoid]]
 modifier: 13
 perception:
   - name: "Perception"
@@ -33,7 +34,7 @@ perception:
 languages: "Common, Elven"
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +13, Architecture Lore: +11, Athletics: +13, Deception: +7, Engineering Lore: +11, Society: +9, Stealth: +11, Thievery: +13"
+    desc: "Acrobatics: +13, Athletics: +13, Deception: +7, Society: +9, Stealth: +11, Thievery: +13, Architecture Lore: +11, Engineering Lore: +11"
 abilityMods: [4, 4, 1, 2, 2, 0]
 speed: 30 feet,  climb 15 feet
 sourcebook: "_Pathfinder Society Scenario #4-99: Blessings of the Forest_"
@@ -67,6 +68,12 @@ attacks:
   - name: "Trick Attack"
     desc: "`pf2:1`  The tomb raider musters their guile to attempt a clever attack that catches their foe unprepared. The tomb raider chooses one of their weapons. The next attack with that weapon deals an extra 2d6 precision damage. In addition, the tomb raider can Interact to draw the weapon (or to reload it if they choose the [[Equipment/Hand Crossbow|Hand Crossbow]])."
  
+```
+
+```encounter-table
+name: Ambush Raider
+creatures:
+  - 1: Ambush Raider
 ```
 
 

@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.npc-gallery.Actor.u3tXaX3sOtCvuHW3"
 tags:
   - pf2e/creature/type/human
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/0
 statblock: inline
 name: "Farmer"
@@ -24,8 +25,8 @@ level: "Creature 0"
 
 alignment: ""
 size: "Medium"
-trait_01: "human"
-trait_02: "humanoid"
+trait_01: [[human]]
+trait_02: [[humanoid]]
 modifier: 6
 perception:
   - name: "Perception"
@@ -33,7 +34,7 @@ perception:
 languages: "Common"
 skills:
   - name: "Skills"
-    desc: "Athletics: +5, Farming Lore: +4, Nature: +4, Survival: +4"
+    desc: "Athletics: +5, Nature: +4, Survival: +4, Farming Lore: +4"
 abilityMods: [3, 1, 3, 0, 2, 0]
 speed: 25 feet
 sourcebook: "_Pathfinder Gamemastery Guide_"
@@ -62,8 +63,14 @@ attacks:
     desc: "`pf2:1` Apple +5 (agile, nonlethal, thrown 20 ft.)\n__Damage__  1d4 + 3 bludgeoning"
 
   - name: "Pitch Bale"
-    desc: "`pf2:1`  **Requirements** The farmer's last action was a successful pitchfork Strike\n**Effect** The farmer moves the creature they hit with their pitchfork up to 5 feet, and the target falls [[Conditions/Prone|Prone]]. The target can attempt a DC 13 Reflex check save to avoid falling prone, and avoids being moved altogether on a critical success."
+    desc: "`pf2:1`  **Requirements** The farmer's last action was a successful pitchfork Strike\n* * *\n\n**Effect** The farmer moves the creature they hit with their pitchfork up to 5 feet, and the target falls [[Conditions/Prone|Prone]]. The target can attempt a DC 13 Reflex check save to avoid falling prone, and avoids being moved altogether on a critical success."
  
+```
+
+```encounter-table
+name: Farmer
+creatures:
+  - 1: Farmer
 ```
 
 

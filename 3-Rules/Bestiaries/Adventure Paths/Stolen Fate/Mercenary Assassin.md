@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/human
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/9
 statblock: inline
 name: "Mercenary Assassin"
@@ -22,12 +23,12 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #190: The Choosing"
 name: "Mercenary Assassin"
 level: "Creature 9"
-rare_03: "Rare"
+rare_03: [[Rare]]
 alignment: ""
 size: "Medium"
-trait_01: "evil"
-trait_02: "human"
-trait_03: "humanoid"
+trait_01: [[evil]]
+trait_02: [[human]]
+trait_03: [[humanoid]]
 modifier: 17
 perception:
   - name: "Perception"
@@ -67,11 +68,17 @@ attacks:
     desc: "`pf2:1` Composite Shortbow +20 (deadly d10, magical, propulsive, range increment 60 feet, reload 0)\n__Damage__  1d6 + 9 piercing"
 
   - name: "Poison Weapon"
-    desc: "`pf2:1` (manipulate) **Requirements** The assassin wields a piercing weapon and has a free hand\n**Effect** The assassin applies a poison to the weapon."
+    desc: "`pf2:1` (manipulate) **Requirements** The assassin wields a piercing weapon and has a free hand\n* * *\n\n**Effect** The assassin applies a poison to the weapon."
 
   - name: "[[Bestiary Ability Glossary/Sneak Attack|Sneak Attack]]"
     desc: "  The assassin deals an extra 2d6 precision damage to [[Conditions/Off-Guard|Off-Guard]] creatures."
  
+```
+
+```encounter-table
+name: Mercenary Assassin
+creatures:
+  - 1: Mercenary Assassin
 ```
 
 

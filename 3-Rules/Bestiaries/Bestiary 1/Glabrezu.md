@@ -10,6 +10,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/fiend
   - pf2e/creature/type/unholy
+  - pf2eMonster
   - pf2e/creature/level/13
 statblock: inline
 name: "Glabrezu"
@@ -28,16 +29,16 @@ level: "Creature 13"
 
 alignment: ""
 size: "huge"
-trait_01: "chaotic"
-trait_02: "demon"
-trait_03: "evil"
-trait_04: "fiend"
-trait_05: "unholy"
+trait_01: [[chaotic]]
+trait_02: [[demon]]
+trait_03: [[evil]]
+trait_04: [[fiend]]
+trait_05: [[unholy]]
 modifier: 24
 perception:
   - name: "Perception"
     desc: "+24; Darkvision"
-languages: "Chthonian, Draconic, Empyrean"
+languages: "Chthonian, Draconic, Empyrean; telepathy 100 feet, tongues"
 skills:
   - name: "Skills"
     desc: "Deception: +28, Diplomacy: +26, Intimidation: +26, Religion: +22, Society: +22, Stealth: +21"
@@ -80,7 +81,7 @@ attacks:
     desc: "_[[Spells/Demonic Pact|Abyssal Pact]]_"
 
   - name: "Captive Rake"
-    desc: "`pf2:1`  **Requirements** A creature is [[Conditions/Grabbed|Grabbed]] in the glabrezu's pincer.\n**Effect** The glabrezu pulls the grabbed creature up to 5 feet closer, then makes two claw Strikes against it. Those Strikes count as one attack when determining a treachery demon's multiple attack penalty, and the penalty doesn't increase until after both Strikes."
+    desc: "`pf2:1`  **Requirements** A creature is [[Conditions/Grabbed|Grabbed]] in the glabrezu's pincer.\n* * *\n\n**Effect** The glabrezu pulls the grabbed creature up to 5 feet closer, then makes two claw Strikes against it. Those Strikes count as one attack when determining a treachery demon's multiple attack penalty, and the penalty doesn't increase until after both Strikes."
 
   - name: "Steady Spellcasting"
     desc: "  When a reaction would disrupt a glabrezu's spell, the demon can attempt a DC 15 Flat check check, avoiding the disruption on a success."
@@ -97,6 +98,12 @@ attacks:
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
     desc: "`pf2:1`  "
  
+```
+
+```encounter-table
+name: Glabrezu
+creatures:
+  - 1: Glabrezu
 ```
 
 

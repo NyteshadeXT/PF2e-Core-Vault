@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/devil
   - pf2e/creature/type/fiend
   - pf2e/creature/type/unholy
+  - pf2eMonster
   - pf2e/creature/level/7
   - remaster
 statblock: inline
@@ -20,15 +21,16 @@ license: ORC
 columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
+token: [[modules/pf2e-tokens-monster-core/assets/portraits/devil-coarti.webp| ]]
 source: "Pathfinder Monster Core"
 name: "Coarti"
 level: "Creature 7"
 
 alignment: ""
 size: "Medium"
-trait_01: "devil"
-trait_02: "fiend"
-trait_03: "unholy"
+trait_01: [[devil]]
+trait_02: [[fiend]]
+trait_03: [[unholy]]
 modifier: 17
 perception:
   - name: "Perception"
@@ -36,7 +38,7 @@ perception:
 languages: "Common, Diabolic, Draconic, Empyrean; Telepathy 100 feet, Truespeech"
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +15, Athletics: +15, Deception: +17, Legal Lore: +14, Religion: +17"
+    desc: "Acrobatics: +15, Athletics: +15, Deception: +17, Religion: +17, Legal Lore: +14"
 abilityMods: [4, 6, 2, 3, 4, 4]
 speed: 25 feet,  fly 40 feet
 sourcebook: "_Pathfinder Monster Core_"
@@ -74,11 +76,17 @@ attacks:
     desc: "_[[Spells/Diabolic Pact|Diabolic Pact]]_"
 
   - name: "Despairing Shriek"
-    desc: "`pf2:2` (divine,sonic,unholy) The coarti lets out a terrible cry, dealing 4d6 sonic damage to all creatures in a 30-foot emanation with a DC 25 Will check save. Holy creatures that fail this save are also [[Conditions/Frightened 1|Frightened 2]]; this added effect has the emotion, fear, and mental traits.\n\nThe coarti can't use Despairing Shriek again for 1d4 rounds."
+    desc: "`pf2:2` (divine,sonic,unholy) The coarti lets out a terrible cry, dealing 4d6 sonic damage to all creatures in a @Template[emanation|distance:30] with a DC 25 Will check save. Holy creatures that fail this save are also [[Conditions/Frightened|Frightened 2]]; this added effect has the emotion, fear, and mental traits.\n\nThe coarti can't use Despairing Shriek again for 1d4 rounds."
 
   - name: "Wing Snap"
     desc: "`pf2:1`  **Frequency** once per turn\n* * *\n\n**Effect** The coarti makes two wing Strikes, then falls if it's flying. It can't Fly until the end of its turn."
  
+```
+
+```encounter-table
+name: Coarti
+creatures:
+  - 1: Coarti
 ```
 
 

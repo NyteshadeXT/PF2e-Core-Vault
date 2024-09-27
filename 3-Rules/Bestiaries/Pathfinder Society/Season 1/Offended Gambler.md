@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/chaotic
   - pf2e/creature/type/human
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/-1
 statblock: inline
 name: "Offended Gambler"
@@ -25,9 +26,9 @@ level: "Creature -1"
 
 alignment: ""
 size: "Medium"
-trait_01: "chaotic"
-trait_02: "human"
-trait_03: "humanoid"
+trait_01: [[chaotic]]
+trait_02: [[human]]
+trait_03: [[humanoid]]
 modifier: 6
 perception:
   - name: "Perception"
@@ -64,11 +65,17 @@ attacks:
     desc: "`pf2:1` Slap +6 (agile, nonlethal)\n__Damage__  1d4 + 1 bludgeoning"
 
   - name: "Flurry of Slaps"
-    desc: "`pf2:1` (flourish) The offended gambler makes two slap Strikes. If both hit the same creature, they combine their damage for the purpose of resistances and weaknesses.\nThe gamblers apply their multiple attack penalty to the Strikes normally."
+    desc: "`pf2:1` (flourish) The offended gambler makes two slap Strikes. If both hit the same creature, they combine their damage for the purpose of resistances and weaknesses.\n\nThe gamblers apply their multiple attack penalty to the Strikes normally."
 
   - name: "Throw Drink"
     desc: "`pf2:2` (visual) The offended gambler grabs a nearby drink and throws it in the face of a creature within 10 feet. The creature must attempt a DC 15 Fortitude check save or be [[Conditions/Dazzled|Dazzled]] for one round ([[Conditions/Blinded|Blinded]] on a critical failure). On its turn, the affected creature can spend an Interact action to end the dazzled or blinded condition."
  
+```
+
+```encounter-table
+name: Offended Gambler
+creatures:
+  - 1: Offended Gambler
 ```
 
 

@@ -42,7 +42,7 @@ The following activations do not consume charges from the Horn of Rust, and they
 
 **Frequency** once per hour
 
-**Effect** You blow on the horn to unleash a swirling aura of jagged, rusty metal shards that orbit you in a 5-foot emanation for 1 minute. The shards grant you a +1 item bonus to AC. Creatures and objects that begin their turn in this area take 6d6 slashing damage from the shards (DC 19 Reflex check save). A creature damaged by this aura is exposed to a potent form of tetanus that has a level equal to the Horn of Rust's level and has a DC 19 Fortitude save. Worshippers of Xar-Azmak are immune to this effect.
+**Effect** You blow on the horn to unleash a swirling aura of jagged, rusty metal shards that orbit you in a @Template\[emanation|distance:5\] for 1 minute. The shards grant you a +1 item bonus to AC. Creatures and objects that begin their turn in this area take 6d6 slashing damage from the shards (DC 19 Reflex check save). A creature damaged by this aura is exposed to a potent form of tetanus that has a level equal to the Horn of Rust's level and has a DC 19 Fortitude save. Worshippers of Xar-Azmak are immune to this effect.
 
 **Tetanus** An infection introduced through open wounds, tetanus can produce stiffness, muscle spasms strong enough to break bones, and ultimately death.
 
@@ -50,9 +50,9 @@ The following activations do not consume charges from the Horn of Rust, and they
 
 **Onset** 10 days
 
-**Stage 1** [[Conditions/Clumsy 1|Clumsy 1]] (1 week)
+**Stage 1** [[Conditions/Clumsy|Clumsy 1]] (1 week)
 
-**Stage 2** [[Conditions/Clumsy 1|Clumsy 2]] and can't speak (1 day)
+**Stage 2** [[Conditions/Clumsy|Clumsy 2]] and can't speak (1 day)
 
 **Stage 3** [[Conditions/Paralyzed|Paralyzed]] with spasms (1 day)
 

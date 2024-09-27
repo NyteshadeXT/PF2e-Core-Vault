@@ -10,6 +10,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/fiend
   - pf2e/creature/type/unholy
+  - pf2eMonster
   - pf2e/creature/level/3
 statblock: inline
 name: "Demom"
@@ -27,16 +28,16 @@ level: "Creature 3"
 
 alignment: ""
 size: "Medium"
-trait_01: "chaotic"
-trait_02: "demon"
-trait_03: "evil"
-trait_04: "fiend"
-trait_05: "unholy"
+trait_01: [[chaotic]]
+trait_02: [[demon]]
+trait_03: [[evil]]
+trait_04: [[fiend]]
+trait_05: [[unholy]]
 modifier: 15
 perception:
   - name: "Perception"
     desc: "+15; Darkvision, Truesight"
-languages: "Chthonian, Common"
+languages: "Chthonian, Common; telepathy 100 feet (knows what you&#x27;re thinking)"
 skills:
   - name: "Skills"
     desc: "Diplomacy: +7, Intimidation: +8, Medicine: +10, Stealth: +8"
@@ -61,7 +62,7 @@ abilities_mid:
     desc: " (aura) 50 feet. All creatures who have a tragic backstory in which they've lost their parents take a -4 penalty to all Will saves as they are suddenly overcome with feelings of maternal love."
 
   - name: "Shut It"
-    desc: "`pf2:r`  **Trigger** A creature targets the demom with a hostile spell that has a verbal component.\n**Effect** The demom says, \"Don't talk back to me!\" The caster must attempt a DC 18 Will check save; on a failure, it promptly shuts its mouth and stares at the ground contemplating how it doesn't deserve this."
+    desc: "`pf2:r`  **Trigger** A creature targets the demom with a hostile spell that has a verbal component.\n* * *\n\n**Effect** The demom says, \"Don't talk back to me!\" The caster must attempt a DC 18 Will check save; on a failure, it promptly shuts its mouth and stares at the ground contemplating how it doesn't deserve this."
 
 attacks:
   - name: ""
@@ -76,8 +77,14 @@ attacks:
     desc: "`pf2:3`  The demom narrows its eyes at a target and declares \"You're grounded!\" The target creature must attempt a DC 18 Will check save; on a failure, it must lay down its weapons, set up camp, and sit in its tent."
 
   - name: "There, There"
-    desc: "`pf2:1` (emotion,healing,mental) **Requirements** The demom has a creature grabbed.\n**Effect** The demom embraces the creature and pats its back soothingly as it whispers reassurances, restoring 10 Hit Points to the creature."
+    desc: "`pf2:1` (emotion,healing,mental) **Requirements** The demom has a creature grabbed.\n* * *\n\n**Effect** The demom embraces the creature and pats its back soothingly as it whispers reassurances, restoring 10 Hit Points to the creature."
  
+```
+
+```encounter-table
+name: Demom
+creatures:
+  - 1: Demom
 ```
 
 

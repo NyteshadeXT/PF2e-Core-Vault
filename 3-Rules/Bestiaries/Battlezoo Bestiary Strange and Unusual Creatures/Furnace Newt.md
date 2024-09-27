@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/beast
   - pf2e/creature/type/elemental
   - pf2e/creature/type/fire
+  - pf2eMonster
   - pf2e/creature/level/3
 statblock: inline
 name: "Furnace Newt"
@@ -23,20 +24,20 @@ token: [[modules/battlezoo-bestiary-su-pf2e/art/Portraits/furnace-newt.webp| ]]
 source: "Battlezoo Bestiary: Strange and Unusual"
 name: "Furnace Newt"
 level: "Creature 3"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Small"
-trait_01: "beast"
-trait_02: "elemental"
-trait_03: "fire"
+trait_01: [[beast]]
+trait_02: [[elemental]]
+trait_03: [[fire]]
 modifier: 9
 perception:
   - name: "Perception"
     desc: "+9; "
-languages: "Pyric"
+languages: "Pyric; can&#x27;t speak any language"
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +10, Athletics: +7, Stealth: +10, "
+    desc: "Acrobatics: +10, Athletics: +7, Stealth: +10, Acrobatics: +10, Athletics: +7, Stealth: +10"
 abilityMods: [0, 4, 3, -2, 0, 4]
 speed: 25 feet,  climb 25 feet
 sourcebook: "_Battlezoo Bestiary: Strange and Unusual_"
@@ -58,7 +59,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "All-Consuming Fire"
-    desc: " (fire,polymorph,primal) Whenever a creature other than a furnace newt uses a spell or ability with the fire trait within 30 feet of the furnace newt, the furnace newt feeds on the thermal energy of the fire, growing in size to the next size category (from Small to Medium, from Medium to Large, or from Large to Huge). This ability can take effect multiple times, though at most once per round. If the newt is already Huge when this ability is activated, it must attempt a DC 23 Fortitude check save or explode, killing it and dealing 4d4 fire damage to all creatures in a 15-foot emanation (DC 19 Reflex check save). On a successful save, the newt doesn't absorb the heat and remains Huge. Whenever a creature uses a cold spell or ability within 30 feet of the furnace newt, it instead shrinks one size category, to a minimum of Small. If the newt was already Small, it is instead Slowed 1 until the end of its next turn. Like the growth, this can take effect multiple times, but only once per round.\n[[Effects/Effect_ All-Consuming Fire|Effect: All-Consuming Fire]]"
+    desc: " (fire,polymorph,primal) Whenever a creature other than a furnace newt uses a spell or ability with the fire trait within 30 feet of the furnace newt, the furnace newt feeds on the thermal energy of the fire, growing in size to the next size category (from Small to Medium, from Medium to Large, or from Large to Huge). This ability can take effect multiple times, though at most once per round. If the newt is already Huge when this ability is activated, it must attempt a DC 23 Fortitude check save or explode, killing it and dealing 4d4 fire damage to all creatures in a 15-foot emanation (DC 19 Reflex check save). On a successful save, the newt doesn't absorb the heat and remains Huge. Whenever a creature uses a cold spell or ability within 30 feet of the furnace newt, it instead shrinks one size category, to a minimum of Small. If the newt was already Small, it is instead [[undefined]] until the end of its next turn. Like the growth, this can take effect multiple times, but only once per round.\n\n[[Effects/Effect_ All-Consuming Fire|Effect: All-Consuming Fire]]"
 
 attacks:
   - name: ""
@@ -73,8 +74,14 @@ attacks:
     desc: "  The bigger the flames, the more powerful a furnace newt's attacks. A furnace newt's Strikes deal an additional 1d4 fire damage when it's Small, but this damage increases when its size increases from All-Consuming Fire. Its Strikes instead add 2d4 damage if it's Medium, 3d4 damage if it's Large, and 4d4 damage if it's Huge."
 
   - name: "Vent Heat"
-    desc: "`pf2:1` (fire) **Frequency** once per round\n**Requirements** The furnace newt is Medium or larger due to all-consuming fire\n**Effect** The newt sheds excess heat. It shrinks one size, and the heat coming from its body deals 2d4 fire damage to all creatures within a 10-foot emanation (DC 19 Reflex check save)."
+    desc: "`pf2:1` (fire) **Frequency** once per round\n\n**Requirements** The furnace newt is Medium or larger due to all-consuming fire\n* * *\n\n**Effect** The newt sheds excess heat. It shrinks one size, and the heat coming from its body deals 2d4 fire damage to all creatures within a 10-foot emanation (DC 19 Reflex check save)."
  
+```
+
+```encounter-table
+name: Furnace Newt
+creatures:
+  - 1: Furnace Newt
 ```
 
 

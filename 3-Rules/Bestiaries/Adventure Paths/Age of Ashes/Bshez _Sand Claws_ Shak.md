@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/human
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/17
 statblock: inline
 name: "Bshez &quot;Sand Claws&quot; Shak"
@@ -22,12 +23,12 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #149: Against the Scarlet Triad"
 name: "Bshez "Sand Claws" Shak"
 level: "Creature 17"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Medium"
-trait_01: "evil"
-trait_02: "human"
-trait_03: "humanoid"
+trait_01: [[evil]]
+trait_02: [[human]]
+trait_03: [[humanoid]]
 modifier: 26
 perception:
   - name: "Perception"
@@ -51,7 +52,7 @@ health:
 abilities_top:
   - name: ""
   - name: "Items"
-    desc: "[[Equipment/Javelin|+2 Greater Striking Javelin]], 2x [[Equipment/Kukri|+2 Greater Striking Thundering Kukri]], 2x [[Equipment/Scale Mail|+2 Resilient Scale Mail]], [[Equipment/Potion of Flying (Greater)|Potion of Flying (Greater)]], [[Equipment/Potion of Quickness|Potion of Quickness]]"
+    desc: "[[Equipment/Javelin|+2 Greater Striking Javelin]], 2x [[Equipment/Kukri|+2 Greater Striking Thundering Kukri]], [[Equipment/Scale Mail|+2 Resilient Scale Mail]], [[Equipment/Potion of Flying (Greater)|Potion of Flying (Greater)]], [[Equipment/Potion of Quickness|Potion of Quickness]]"
   - name: "Incredible Initiative"
     desc: "  Bshez gains a +2 circumstance bonus to initiative rolls."
 
@@ -70,13 +71,13 @@ attacks:
     desc: "`pf2:1` Javelin +35 (magical, thrown 30 ft.)\n__Damage__  3d6 + 14 piercing"
 
   - name: "Fling Sand in the Eyes"
-    desc: "`pf2:1`  **Requirements** Bshez is standing in an area with loose sand or soil.\n**Effect** Bshez flings sand into an adjacent creature's eyes. If the target fails a DC 38 Reflex check save, they are [[Conditions/Dazzled|Dazzled]] until the beginning of Bshez's next turn. If they critically fail, they are [[Conditions/Blinded|Blinded]] until the beginning of Bshez's next turn. If they succeed, they are unaffected.\nRegardless of their save, they're temporarily immune until the battle ends."
+    desc: "`pf2:1`  **Requirements** Bshez is standing in an area with loose sand or soil.\n* * *\n\n**Effect** Bshez flings sand into an adjacent creature's eyes. If the target fails a DC 38 Reflex check save, they are [[Conditions/Dazzled|Dazzled]] until the beginning of Bshez's next turn. If they critically fail, they are [[Conditions/Blinded|Blinded]] until the beginning of Bshez's next turn. If they succeed, they are unaffected.\n\nRegardless of their save, they're temporarily immune until the battle ends."
 
   - name: "Graceful Double Slice"
     desc: "`pf2:2`  Bshez makes two Strikes, one with each kukri, using her current multiple attack penalty. If both attacks hit, combine their damage and add any applicable effects from both weapons. This counts as one attack when calculating her multiple attack penalty."
 
   - name: "[[Bestiary Ability Glossary/Rend|Rend]]"
-    desc: "`pf2:1`  Thundering Kukri\n"
+    desc: "`pf2:1`  Thundering Kukri\n\n* * *\n"
 
   - name: "Shield Breaker"
     desc: "  When the target of Bshez's javelin Strike uses Shield Block, the Strike deals an additional 4d6 damage to the shield."
@@ -84,6 +85,12 @@ attacks:
   - name: "Weapon Master"
     desc: "  Bshez has access to the critical specialization effects of any weapon she wields."
  
+```
+
+```encounter-table
+name: Bshez "Sand Claws" Shak
+creatures:
+  - 1: Bshez "Sand Claws" Shak
 ```
 
 

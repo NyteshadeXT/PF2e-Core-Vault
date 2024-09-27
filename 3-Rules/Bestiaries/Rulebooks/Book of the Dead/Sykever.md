@@ -11,6 +11,7 @@ tags:
   - pf2e/creature/type/shadow
   - pf2e/creature/type/undead
   - pf2e/creature/type/unholy
+  - pf2eMonster
   - pf2e/creature/level/15
 statblock: inline
 name: "Sykever"
@@ -28,20 +29,20 @@ level: "Creature 15"
 
 alignment: ""
 size: "huge"
-trait_01: "chaotic"
-trait_02: "darvakka"
-trait_03: "evil"
-trait_04: "shadow"
-trait_05: "undead"
-trait_06: "unholy"
+trait_01: [[chaotic]]
+trait_02: [[darvakka]]
+trait_03: [[evil]]
+trait_04: [[shadow]]
+trait_05: [[undead]]
+trait_06: [[unholy]]
 modifier: 29
 perception:
   - name: "Perception"
     desc: "+29; Greater Darkvision, Lifesense 60 Feet"
-languages: "Chthonian, Common, Diabolic, Necril"
+languages: "Chthonian, Common, Diabolic, Necril; telepathy 100 feet"
 skills:
   - name: "Skills"
-    desc: "Arcana: +27, Athletics: +29, Intimidation: +28, Religion: +27, Shadow Plane Lore: +27, Stealth: +27, The Void Lore: +27, Warfare Lore: +27"
+    desc: "Arcana: +27, Athletics: +29, Intimidation: +28, Religion: +27, Stealth: +27, Shadow Plane Lore: +27, The Void Lore: +27, Warfare Lore: +27"
 abilityMods: [8, 4, 6, 6, 6, 7]
 speed: 40 feet
 sourcebook: "_Pathfinder Book of the Dead_"
@@ -60,10 +61,10 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Entropy's Shadow"
-    desc: " (aura,divine,void) 40 feet. Sykevers leak entropy and corruption from their very being. A living creature entering or starting its turn in the aura takes 4d6 void damage with a DC 33 Fortitude check. If it fails, it's also [[Conditions/Enfeebled 1|Enfeebled 1]] for 1 minute and pulled 10 feet toward the sykever."
+    desc: " (aura,divine,void) 40 feet. Sykevers leak entropy and corruption from their very being. A living creature entering or starting its turn in the aura takes 4d6 void damage with a DC 33 Fortitude check. If it fails, it's also [[Conditions/Enfeebled|Enfeebled 1]] for 1 minute and pulled 10 feet toward the sykever."
 
   - name: "Sunlight Powerlessness"
-    desc: "  A sykever caught in sunlight is [[Conditions/Stunned 1|Stunned 2]] and [[Conditions/Clumsy 1|Clumsy 2]]."
+    desc: "  A sykever caught in sunlight is [[Conditions/Stunned|Stunned 2]] and [[Conditions/Clumsy|Clumsy 2]]."
 
 attacks:
   - name: ""
@@ -81,14 +82,20 @@ attacks:
     desc: "`pf2:1`  The sykever changes between their bipedal and quadrupedal stance. In their bipedal stance, the sykever can use all the abilities in their stat block except Horned Rush. In their quadrupedal stance, the sykever has a Speed of 80 feet but can't make arm spike Strikes, Disarm, cast spells, or use Crush Item."
 
   - name: "Crush Item"
-    desc: "`pf2:r`  **Trigger** The sykever gets a critical success to [[Actions/Disarm|Disarm]]\n**Requirements** The sykever is in their bipedal stance\n**Effect** The sykever snatches the item and pierces it with their arm spikes. The item becomes broken and falls to the ground in the sykever's space. Items that are already broken aren't further damaged, and an item with 14 or higher Hardness is unaffected."
+    desc: "`pf2:r`  **Trigger** The sykever gets a critical success to [[Actions/Disarm|Disarm]]\n\n**Requirements** The sykever is in their bipedal stance\n* * *\n\n**Effect** The sykever snatches the item and pierces it with their arm spikes. The item becomes broken and falls to the ground in the sykever's space. Items that are already broken aren't further damaged, and an item with 14 or higher Hardness is unaffected."
 
   - name: "Draining Gaze"
-    desc: "`pf2:1` (concentrate,divine,visual) The sykever fixes their nightmarish gaze on one creature they can see, who must attempt a DC 36 Will check save. Regardless of the result, the target is temporarily immune for 10 minutes.\n**Critical Success** The target is unaffected.\n**Success** The target is [[Conditions/Enfeebled 1|Enfeebled 2]] for 1 round if the sykever is in bipedal stance, or [[Conditions/Clumsy 1|Clumsy 2]] for 1 round if the sykever is in quadrupedal stance.\n**Failure** As success, but the effect lasts 1 minute.\n**Critical Failure** As success, but [[Conditions/Enfeebled 1|Enfeebled 3]] or [[Conditions/Clumsy 1|Clumsy 3]], and the effect lasts 10 minutes."
+    desc: "`pf2:1` (concentrate,divine,visual) The sykever fixes their nightmarish gaze on one creature they can see, who must attempt a DC 36 Will check save. Regardless of the result, the target is temporarily immune for 10 minutes.\n* * *\n\n**Critical Success** The target is unaffected.\n\n**Success** The target is [[Conditions/Enfeebled|Enfeebled 2]] for 1 round if the sykever is in bipedal stance, or [[Conditions/Clumsy|Clumsy 2]] for 1 round if the sykever is in quadrupedal stance.\n\n**Failure** As success, but the effect lasts 1 minute.\n\n**Critical Failure** As success, but [[Conditions/Enfeebled|Enfeebled 3]] or [[Conditions/Clumsy|Clumsy 3]], and the effect lasts 10 minutes."
 
   - name: "Horned Rush"
-    desc: "`pf2:1`  **Requirements** The sykever is in their quadrupedal stance\n**Effect** The sykever Strides and then makes a horn Strike."
+    desc: "`pf2:1`  **Requirements** The sykever is in their quadrupedal stance\n* * *\n\n**Effect** The sykever Strides and then makes a horn Strike."
  
+```
+
+```encounter-table
+name: Sykever
+creatures:
+  - 1: Sykever
 ```
 
 

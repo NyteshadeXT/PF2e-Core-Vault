@@ -14,7 +14,7 @@ license: OGL
 ---
 # Change Shape (Kitsune) `pf2:1`
 
-### [[concentrate]][[divine]][[kitsune]][[polymorph]]
+### [[3-Rules/Rule References/Concentrate]][[3-Rules/Rule References/Divine]][[kitsune]][[polymorph]]
 
 **Category** interaction; 
 

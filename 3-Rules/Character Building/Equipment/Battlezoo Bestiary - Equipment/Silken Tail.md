@@ -17,7 +17,7 @@ license: OGL
 ---
 # Silken Tail
 ## Item 11
-### [uncommon](uncommon "Uncommon Rarity Trait")[[disarm]][[finesse]][[magical]][[nonlethal]][[reach]][[trip]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[3-Rules/trait_reference/disarm]][[3-Rules/Rule References/Finesse]][[3-Rules/Rule References/Magical]][[nonlethal]][[3-Rules/Rule References/Reach]][[3-Rules/trait_reference/trip]]
 
 |  |  |
 | -- | -- |

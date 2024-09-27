@@ -12,7 +12,7 @@ license: ORC
 ---
 # Debilitating Strike `pf2:0`
 
-### [[rogue]]
+### [[3-Rules/trait_reference/rogue]]
 
 **Category** offensive; 
 
@@ -26,7 +26,7 @@ license: ORC
 You apply one of the following debilitations, which lasts until the end of your next turn:
 
 *   **Debilitation** The target takes a -10-foot status penalty to its Speeds.
-*   **Debilitation** The target becomes [[Conditions/Enfeebled 1|Enfeebled 1]].
+*   **Debilitation** The target becomes [[Conditions/Enfeebled|Enfeebled 1]].
 
 [[Feat_Feature Effects/Effect_ Debilitating Strike|Effect: Debilitating Strike]]
 

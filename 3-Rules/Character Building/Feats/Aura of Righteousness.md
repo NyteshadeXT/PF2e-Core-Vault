@@ -6,8 +6,9 @@ tags:
   - trait/champion
   - trait/common
   - category/class
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.erCOcFZJPT2O3gwC"
-license: OGL
+license: ORC
 ---
 # Aura of Righteousness
 ## Feat 14
@@ -17,9 +18,9 @@ license: OGL
 
 
 
-**Prerequisites** tenets of good
+**Prerequisites** champion's aura; holy
 * * *
-Your righteous aura dampens evil's might. You and all allies within 15 feet gain resistance 5 to unholy.
+Your righteous aura dampens evil's might and prevents the unholy from escaping you. You and all allies in your champion's aura gain resistance 5 to unholy spells, unholy Strikes, and other unholy effects. If a teleportation spell or effect would teleport an unholy creature out of your champion's aura, your aura attempts to counteract it, using the spell rank and DC of your devotion spells.
 
-*Source: Pathfinder Core Rulebook*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

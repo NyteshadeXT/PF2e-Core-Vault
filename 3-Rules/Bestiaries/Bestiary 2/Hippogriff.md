@@ -6,6 +6,7 @@ cssClasses: pf2e
 aliases: "Compendium.pf2e.pathfinder-bestiary-2.Actor.Xv74O1mFzzP06IXl" 
 tags:
   - pf2e/creature/type/animal
+  - pf2eMonster
   - pf2e/creature/level/2
 statblock: inline
 name: "Hippogriff"
@@ -24,11 +25,12 @@ level: "Creature 2"
 
 alignment: ""
 size: "Large"
-trait_01: "animal"
+trait_01: [[animal]]
 modifier: 8
 perception:
   - name: "Perception"
     desc: "+8; Darkvision, Scent (Imprecise) 30 Feet"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Acrobatics: +7, Athletics: +7, Survival: +6"
@@ -67,6 +69,12 @@ attacks:
   - name: "Flying Strafe"
     desc: "`pf2:2`  The hippogriff Flies up to its fly speed and makes two talon Strikes at any point during that movement. Each Strike must target a different creature. The attacks take the normal multiple attack penalty."
  
+```
+
+```encounter-table
+name: Hippogriff
+creatures:
+  - 1: Hippogriff
 ```
 
 

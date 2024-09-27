@@ -6,6 +6,7 @@ cssClasses: pf2e
 aliases: "Compendium.pf2e.pfs-season-2-bestiary.Actor.vqgcpFLXabsGj7RQ" 
 tags:
   - pf2e/creature/type/animal
+  - pf2eMonster
   - pf2e/creature/level/3
 statblock: inline
 name: "Awakened Giant Chameleon"
@@ -20,10 +21,10 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Society Scenario #2-00: The King in Thorns"
 name: "Awakened Giant Chameleon"
 level: "Creature 3"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Large"
-trait_01: "animal"
+trait_01: [[animal]]
 modifier: 10
 perception:
   - name: "Perception"
@@ -31,7 +32,7 @@ perception:
 languages: "Common, Mwangi"
 skills:
   - name: "Skills"
-    desc: "Athletics: +10, Nature: +8, Stealth: +10 (+13 to Hide)"
+    desc: "Athletics: +10, Nature: +8, Stealth: +10"
 abilityMods: [5, 3, 1, 0, 3, -2]
 speed: 30 feet,  climb 20 feet
 sourcebook: "_Pathfinder Society Scenario #2-00: The King in Thorns_"
@@ -67,6 +68,12 @@ attacks:
   - name: "Tongue Grab"
     desc: "  If the giant chameleon hits a creature with a tongue Strike, that creature becomes [[Conditions/Grabbed|Grabbed]] by the giant chameleon. The target isn't [[Conditions/Immobilized|Immobilized]], but it can't move beyond the reach of the giant chameleon's tongue. A creature can sever the tongue with an attack that hits AC 15 and deals at least 4 slashing damage. Though this doesn't deal any damage to the giant chameleon, it prevents it from using its tongue Strike until it regrows its tongue, which takes a week."
  
+```
+
+```encounter-table
+name: Awakened Giant Chameleon
+creatures:
+  - 1: Awakened Giant Chameleon
 ```
 
 

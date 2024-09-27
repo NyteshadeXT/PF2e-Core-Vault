@@ -10,6 +10,7 @@ tags:
   - pf2e/creature/type/undead
   - pf2e/creature/type/unholy
   - pf2e/creature/type/zombie
+  - pf2eMonster
   - pf2e/creature/level/-1
 statblock: inline
 name: "Zombie Hound"
@@ -24,18 +25,19 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #181: Zombie Feast"
 name: "Zombie Hound"
 level: "Creature -1"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Small"
-trait_01: "evil"
-trait_02: "mindless"
-trait_03: "undead"
-trait_04: "unholy"
-trait_05: "zombie"
+trait_01: [[evil]]
+trait_02: [[mindless]]
+trait_03: [[undead]]
+trait_04: [[unholy]]
+trait_05: [[zombie]]
 modifier: 1
 perception:
   - name: "Perception"
     desc: "+1; Darkvision"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Athletics: +5"
@@ -55,7 +57,7 @@ abilities_top:
   - name: ""
 
   - name: "Slow"
-    desc: "  A zombie is permanently [[Conditions/Slowed 1|Slowed 1]] and can't use reactions."
+    desc: "  A zombie is permanently [[Conditions/Slowed|Slowed 1]] and can't use reactions."
 
 abilities_mid:
   - name: ""
@@ -71,6 +73,12 @@ attacks:
   - name: "[[Bestiary Ability Glossary/Knockdown|Knockdown]]"
     desc: "`pf2:1`  "
  
+```
+
+```encounter-table
+name: Zombie Hound
+creatures:
+  - 1: Zombie Hound
 ```
 
 

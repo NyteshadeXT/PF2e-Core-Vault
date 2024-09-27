@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/aberration
   - pf2e/creature/type/chaotic
   - pf2e/creature/type/evil
+  - pf2eMonster
   - pf2e/creature/level/10
 statblock: inline
 name: "Savalir"
@@ -23,12 +24,12 @@ token: [[modules/battlezoo-bestiary-su-pf2e/art/Portraits/savalir.webp| ]]
 source: "Battlezoo Bestiary: Strange and Unusual"
 name: "Savalir"
 level: "Creature 10"
-rare_03: "Rare"
+rare_03: [[Rare]]
 alignment: ""
 size: "Medium"
-trait_01: "aberration"
-trait_02: "chaotic"
-trait_03: "evil"
+trait_01: [[aberration]]
+trait_02: [[chaotic]]
+trait_03: [[evil]]
 modifier: 19
 perception:
   - name: "Perception"
@@ -36,7 +37,7 @@ perception:
 languages: "Aklo, Elven"
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +22, Intimidation: +17, Stealth: +22, Survival: +17, "
+    desc: "Acrobatics: +22, Intimidation: +17, Stealth: +22, Survival: +17, Acrobatics: +22, Intimidation: +17, Stealth: +22, Survival: +17"
 abilityMods: [5, 7, 7, 5, -2, -2]
 speed: 35 feet,  climb 25 feet
 sourcebook: "_Battlezoo Bestiary: Strange and Unusual_"
@@ -55,7 +56,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Pursuing Strike"
-    desc: "`pf2:r`  **Trigger** A foe within reach attempts to move away from the savalir\n**Effect** The savalir can Stride or Climb up to its Speed, following the foe and keeping it in reach throughout its movement until it stops moving or the savalir has moved its full Speed. If the savalir ends its movement in reach of the triggering creature it can make a Strike."
+    desc: "`pf2:r`  **Trigger** A foe within reach attempts to move away from the savalir\n* * *\n\n**Effect** The savalir can Stride or Climb up to its Speed, following the foe and keeping it in reach throughout its movement until it stops moving or the savalir has moved its full Speed. If the savalir ends its movement in reach of the triggering creature it can make a Strike."
 
 attacks:
   - name: ""
@@ -67,17 +68,23 @@ attacks:
     desc: "`pf2:1` Caustic Spit +21 (range increment 30 feet)\n__Damage__  2d10 + 9 acid"
 
   - name: "Alchemical Restoration"
-    desc: "`pf2:1` (alchemical,healing) **Frequency** once per day\n**Effect** The savalir floods its system with medicinal alchemy, healing 5d6 + 12 Hit Points and gaining a +2 item bonus on saves against disease and poison for 1 minute.\n[[Effects/Effect_ Alchemical Restoration|Effect: Alchemical Restoration]]"
+    desc: "`pf2:1` (alchemical,healing) **Frequency** once per day\n* * *\n\n**Effect** The savalir floods its system with medicinal alchemy, healing 5d6+12 Hit Points and gaining a +2 item bonus on saves against disease and poison for 1 minute.\n\n[[Effects/Effect_ Alchemical Restoration|Effect: Alchemical Restoration]]"
 
   - name: "Befuddling Venom"
-    desc: "`pf2:2` (mental,poison) **Frequency** once per round\n**Effect** A savalir can infuse its spit with a powerful neurotoxin. The savalir makes a caustic spit Strike. On a hit, the target must succeed a DC 29 Fortitude check save or be Confused for 1 minute. It can attempt a new saving throw at the end of each of its turns to end the confusion."
+    desc: "`pf2:2` (mental,poison) **Frequency** once per round\n* * *\n\n**Effect** A savalir can infuse its spit with a powerful neurotoxin. The savalir makes a caustic spit Strike. On a hit, the target must succeed a DC 29 Fortitude check save or be [[undefined]] for 1 minute. It can attempt a new saving throw at the end of each of its turns to end the confusion."
 
   - name: "Hermetic Organs"
-    desc: "`pf2:1` (alchemical,elixir,polymorph) Savalirs possess internal organs capable of manufacturing alchemical elixirs on the fly. A savalir can choose to apply the effects of a Juggernaut Mutagen (Greater), apply the effects of a Quicksilver Mutagen (Greater), or gain the following benefits related to a chosen energy type. If the savalir chooses the third option, they must also choose acid, cold, electricity, or fire; they gain 15 resistance to the chosen damage type, add 1d6 damage of the chosen type with their melee Strikes, and change their caustic spit's damage entirely to the chosen type. Whichever effect the savalir chooses, the effect lasts for only 1 minute. Once active, a savalir can change the active elixir on its turn as a free action, but if the current effect hasn't yet expired, the savalir must succeed at a DC 7 Flat check or become Sickened 1.\n[[Effects/Effect_ Hermetic Organs|Effect: Hermetic Organs]]"
+    desc: "`pf2:1` (alchemical,elixir,polymorph) Savalirs possess internal organs capable of manufacturing alchemical elixirs on the fly. A savalir can choose to apply the effects of a [[Equipment/Juggernaut Mutagen (Greater)|Juggernaut Mutagen (Greater)]], apply the effects of a [[Equipment/Quicksilver Mutagen (Greater)|Quicksilver Mutagen (Greater)]], or gain the following benefits related to a chosen energy type. If the savalir chooses the third option, they must also choose acid, cold, electricity, or fire; they gain 15 resistance to the chosen damage type, add 1d6 damage of the chosen type with their melee Strikes, and change their caustic spit's damage entirely to the chosen type. Whichever effect the savalir chooses, the effect lasts for only 1 minute. Once active, a savalir can change the active elixir on its turn as a free action, but if the current effect hasn't yet expired, the savalir must succeed at a DC 7 Flat check or become [[undefined]].\n\n[[Effects/Effect_ Hermetic Organs|Effect: Hermetic Organs]]"
 
   - name: "[[Bestiary Ability Glossary/Sneak Attack|Sneak Attack]]"
     desc: "  The savalir deals 2d6 precision damage to off-guard targets."
  
+```
+
+```encounter-table
+name: Savalir
+creatures:
+  - 1: Savalir
 ```
 
 

@@ -29,9 +29,9 @@ This bullet is fashioned from a rubbery substance and stamped with the image of 
 
 **Success** The target is unaffected.
 
-**Failure** The target shrinks to Tiny size for 1d4 rounds. Its reach becomes 0 feet, and it's [[Conditions/Enfeebled 1|Enfeebled 1]] for this duration.
+**Failure** The target shrinks to Tiny size for 1d4 rounds. Its reach becomes 0 feet, and it's [[Conditions/Enfeebled|Enfeebled 1]] for this duration.
 
-**Critical Failure** The target shrinks to Tiny size for 1 minute. Its reach becomes 0 feet, and it's [[Conditions/Enfeebled 1|Enfeebled 2]] for this duration
+**Critical Failure** The target shrinks to Tiny size for 1 minute. Its reach becomes 0 feet, and it's [[Conditions/Enfeebled|Enfeebled 2]] for this duration
 
 *Source: Pathfinder #180: The Smoking Gun*
 *OGL*

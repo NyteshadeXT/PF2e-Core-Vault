@@ -7,8 +7,9 @@ tags:
   - trait/skill
   - trait/common
   - category/skill
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.R7BO8br4BjCmpjit"
-license: OGL
+license: ORC
 ---
 # Settlement Scholastics
 ## Feat 4
@@ -24,5 +25,5 @@ Your studies open up new horizons. You become an expert in a Lore skill about a 
 
 **Special** You can take this feat multiple times. When you take this feat again, choose a different settlement.
 
-*Source: Pathfinder Advanced Player's Guide*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

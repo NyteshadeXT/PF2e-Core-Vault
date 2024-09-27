@@ -26,7 +26,7 @@ One of the many wondrous devices brought into the world by Stasian technology is
 
 * * *
 
-**Effect** You apply the violet ray to an adjacent creature and attempt to counteract the [[Conditions/Blinded|Blinded]], [[Conditions/Clumsy 1|Clumsy]], [[Conditions/Confused|Confused]], [[Conditions/Deafened|Deafened]], [[Conditions/Drained 1|Drained]], [[Conditions/Enfeebled 1|Enfeebled]], [[Conditions/Sickened 1|Sickened]], or [[Conditions/Stupefied 1|Stupefied]] condition with a counteract rank of 6 and a counteract modifier of +22, using the source of the condition to determine the condition's counteract rank and DC. If the condition was caused by an ongoing effect and you don't remove that effect, the condition returns after 1 minute. Each use of this ability can only counteract a single condition.
+**Effect** You apply the violet ray to an adjacent creature and attempt to counteract the [[Conditions/Blinded|Blinded]], [[Conditions/Clumsy|Clumsy]], [[Conditions/Confused|Confused]], [[Conditions/Deafened|Deafened]], [[Conditions/Drained|Drained]], [[Conditions/Enfeebled|Enfeebled]], [[Conditions/Sickened|Sickened]], or [[Conditions/Stupefied|Stupefied]] condition with a counteract rank of 6 and a counteract modifier of +22, using the source of the condition to determine the condition's counteract rank and DC. If the condition was caused by an ongoing effect and you don't remove that effect, the condition returns after 1 minute. Each use of this ability can only counteract a single condition.
 
 *Source: Pathfinder Guns & Gears*
 *OGL*

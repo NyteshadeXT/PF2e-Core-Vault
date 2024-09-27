@@ -4,6 +4,7 @@ obsidianUIMode: preview
 noteType: pf2eHazard
 tags:
   - mechanical
+  - pf2eHazard
   - complex
 source: Pathfinder Kingmaker
 aliases: "Compendium.pf2e.kingmaker-bestiary.Actor.0qc6h3jgLFNhX1tG" 
@@ -21,13 +22,13 @@ name: "Ballista Defense"
 level: "Hazard 11"
 
 trait_06: "Complex"
-trait_01: "mechanical"
+trait_01: [[mechanical]]
 modifier: 23
 sourcebook: "_Pathfinder Kingmaker_"
 ac: 31
 armorclass:
   - name: AC
-    desc: "31; __Fort__ +24, __Ref__ +18, __Will__ +0"
+    desc: "31; __Fort__ +24, __Ref__ +18, "
 hp: 80
 health:
   - name: ""
@@ -49,7 +50,7 @@ attacks:
   - name: ""
 
   - name: "Ready and Load"
-    desc: "`pf2:r` **Trigger** The alarm is raised while the PCs are approaching the Palace\n**Effect** The guards ready and load the ballista. The ballista defense then rolls Initiative."
+    desc: "`pf2:r` **Trigger** The alarm is raised while the PCs are approaching the Palace\n* * *\n\n**Effect** The guards ready and load the ballista. The ballista defense then rolls Initiative."
   - name: "Melee"
     desc: "Ballista Bolt +24 (range 300 feet) "
 
@@ -57,5 +58,11 @@ attacks:
     desc: "(3 actions) The ballista takes 1 action to fire a ballista bolt and 2 actions to reload. After ten rounds, the ballista is out of ammunition and can no longer function."
   - name: "Reset"
     desc: "(1 day) If the PCs haven't reached 30 Liberation Points, additional ammunition for a ballista can be secured in a day, but if the PCs have reached 30 Liberation Points, a ballista that runs out of ammo cannot be reset."
+```
+
+```encounter-table
+name: Ballista Defense
+creatures:
+  - 1: Ballista Defense
 ```
 

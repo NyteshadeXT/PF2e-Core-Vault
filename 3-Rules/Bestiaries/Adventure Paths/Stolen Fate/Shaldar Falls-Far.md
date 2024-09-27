@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/good
   - pf2e/creature/type/human
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/6
 statblock: inline
 name: "Shaldar Falls-Far"
@@ -22,12 +23,12 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #190: The Choosing"
 name: "Shaldar Falls-Far"
 level: "Creature 6"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Medium"
-trait_01: "good"
-trait_02: "human"
-trait_03: "humanoid"
+trait_01: [[good]]
+trait_02: [[human]]
+trait_03: [[humanoid]]
 modifier: 13
 perception:
   - name: "Perception"
@@ -72,6 +73,12 @@ attacks:
   - name: "Hunter's Aim"
     desc: "`pf2:2` (concentrate) Shaldar Falls-Far makes a ranged weapon Strike against her hunted prey. On this Strike, she gains a +2 circumstance bonus to the attack roll and ignores the prey's [[Conditions/Concealed|Concealed]] condition."
  
+```
+
+```encounter-table
+name: Shaldar Falls-Far
+creatures:
+  - 1: Shaldar Falls-Far
 ```
 
 

@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/human
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/5
 statblock: inline
 name: "Bloody Barber Thief"
@@ -22,12 +23,12 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Society Scenario #4-07: A Most Wondrous Exchange!"
 name: "Bloody Barber Thief"
 level: "Creature 5"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Medium"
-trait_01: "evil"
-trait_02: "human"
-trait_03: "humanoid"
+trait_01: [[evil]]
+trait_02: [[human]]
+trait_03: [[humanoid]]
 modifier: 11
 perception:
   - name: "Perception"
@@ -35,7 +36,7 @@ perception:
 languages: "Common"
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +11, Athletics: +9, Deception: +10, Society: +8, Stealth: +13, Thievery: +13 (can Disable traps that require master proficiency), Underworld Lore: +10"
+    desc: "Acrobatics: +11, Athletics: +9, Deception: +10, Society: +8, Stealth: +13, Thievery: +13, Underworld Lore: +10"
 abilityMods: [2, 4, 2, 1, 2, 1]
 speed: 30 feet
 sourcebook: "_Pathfinder Society Scenario #4-07: A Most Wondrous Exchange!_"
@@ -58,7 +59,7 @@ abilities_mid:
     desc: "  The thief isn't off-guard to creatures of 5th level or lower that are [[Conditions/Hidden|Hidden]], [[Conditions/Undetected|Undetected]], flanking, or using [[Class Features/Surprise Attack|Surprise Attack]]."
 
   - name: "Nimble Dodge"
-    desc: "`pf2:r`  **Trigger** The thief is targeted with a melee or ranged attack by an attacker it can see.\n**Effect** The thief gains a +2 circumstance bonus to AC against the triggering attack."
+    desc: "`pf2:r`  **Trigger** The thief is targeted with a melee or ranged attack by an attacker it can see.\n* * *\n\n**Effect** The thief gains a +2 circumstance bonus to AC against the triggering attack."
 
 attacks:
   - name: ""
@@ -81,6 +82,12 @@ attacks:
   - name: "Surprise Attack"
     desc: "  On the first round of combat, if the thief rolls Deception or Stealth for initiative, creatures that haven't acted are [[Conditions/Off-Guard|Off-Guard]] to them."
  
+```
+
+```encounter-table
+name: Bloody Barber Thief
+creatures:
+  - 1: Bloody Barber Thief
 ```
 
 

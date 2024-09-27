@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/fiend
   - pf2e/creature/type/unholy
+  - pf2eMonster
   - pf2e/creature/level/4
 statblock: inline
 name: "Ardeodaemon"
@@ -27,18 +28,18 @@ level: "Creature 4"
 
 alignment: ""
 size: "Small"
-trait_01: "daemon"
-trait_02: "evil"
-trait_03: "fiend"
-trait_04: "unholy"
+trait_01: [[daemon]]
+trait_02: [[evil]]
+trait_03: [[fiend]]
+trait_04: [[unholy]]
 modifier: 14
 perception:
   - name: "Perception"
     desc: "+14; Darkvision"
-languages: "Common, Daemonic"
+languages: "Common, Daemonic; telepathy 100 feet"
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +13, Athletics: +11, Religion: +7, Stealth: +13, Survival: +12, "
+    desc: "Acrobatics: +13, Athletics: +11, Religion: +7, Stealth: +13, Survival: +12"
 abilityMods: [3, 5, 4, 1, 4, 3]
 speed: 25 feet
 sourcebook: "_Battlezoo Bestiary_"
@@ -66,14 +67,20 @@ attacks:
     desc: "DC 18, attack +10; __3rd __  _[[Spells/Locate|Locate]]_; __2nd __  _[[Spells/Knock|Knock]]_; __1st __  _[[Spells/Detect Alignment|Detect Alignment (At Will) (Good Only)]]_, _[[Spells/Lock|Lock]]_, _[[Spells/Lock|Lock]]_\n__Cantrips__  __(2nd)__ _[[Spells/Detect Magic|Detect Magic]]_, _[[Spells/Produce Flame|Produce Flame]]_"
 
   - name: "Ash Fever"
-    desc: " (curse,divine) Ashy residue from the ardeodaemon's claws infect creatures and objects, making them more susceptible to burning.\nA creature damaged by the ardeodaemon's claw Strike must succeed at a Fortitude save. Objects that take damage from ardeodaemon's claws automatically fails its save and suffers the effects of a failure for the full duration.\n**Success** The creature is unaffected.\n**Failure** The creature gains fire weakness 4. This lasts for 1 minute or until a creature makes a successful Medicine check to clean the wound, whichever comes first.\n**Critical Failure** As failure, but fire weakness 8."
+    desc: " (curse,divine) Ashy residue from the ardeodaemon's claws infect creatures and objects, making them more susceptible to burning.\n\nA creature damaged by the ardeodaemon's claw Strike must succeed at a DC 20 Fortitude save. Objects that take damage from ardeodaemon's claws automatically fails its save and suffers the effects of a failure for the full duration.\n* * *\n\n**Success** The creature is unaffected.\n\n**Failure** The creature gains fire weakness 4. This lasts for 1 minute or until a creature makes a successful DC 20 Medicine check to clean the wound, whichever comes first.\n\n**Critical Failure** As failure, but fire weakness 8."
 
   - name: "Burning Resin"
-    desc: "`pf2:2` (divine,fire) The ardeodaemon vomits out a glob of burning resin, covering a single 5-foot square within 30 feet. The glob creates a fire in the square that spreads to any adjacent squares containing flammable material. If it runs out of fuel, the fire burns out in 3 rounds.\nAny creature that starts its turn or attempts to move through the fire must attempt a Reflex save or take 4d6 fire damage and 2 persistent fire damage.\nThe ardeodaemon can't use Burning Resin again for 1d4 rounds."
+    desc: "`pf2:2` (divine,fire) The ardeodaemon vomits out a glob of burning resin, covering a single 5-foot square within 30 feet. The glob creates a fire in the square that spreads to any adjacent squares containing flammable material. If it runs out of fuel, the fire burns out in 3 rounds.\n\nAny creature that starts its turn or attempts to move through the fire must attempt a DC 20 Reflex save or take 4d6 fire damage and 2 persistent fire damage.\n\nThe ardeodaemon can't use Burning Resin again for 1d4 rounds."
 
   - name: "Flame Jump"
-    desc: "`pf2:2` (divine,fire,teleportation) To an ardeodaemon, all fires are connected;\n**Requirements** The ardeodaemon is adjacent to a Small or larger fire;\n**Effect** The ardeodaemon leaps into the flames and emerges unscathed in an unoccupied space next to that fire or any other Small or larger fire within 100 feet."
+    desc: "`pf2:2` (divine,fire,teleportation) To an ardeodaemon, all fires are connected;\n\n**Requirements** The ardeodaemon is adjacent to a Small or larger fire;\n\n**Effect** The ardeodaemon leaps into the flames and emerges unscathed in an unoccupied space next to that fire or any other Small or larger fire within 100 feet."
  
+```
+
+```encounter-table
+name: Ardeodaemon
+creatures:
+  - 1: Ardeodaemon
 ```
 
 

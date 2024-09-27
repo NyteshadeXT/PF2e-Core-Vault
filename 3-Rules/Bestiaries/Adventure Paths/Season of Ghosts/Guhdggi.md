@@ -10,6 +10,7 @@ tags:
   - pf2e/creature/type/fiend
   - pf2e/creature/type/nindoru
   - pf2e/creature/type/unholy
+  - pf2eMonster
   - pf2e/creature/level/5
 statblock: inline
 name: "Guhdggi"
@@ -24,14 +25,14 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #197: Let the Leaves Fall"
 name: "Guhdggi"
 level: "Creature 5"
-rare_03: "Rare"
+rare_03: [[Rare]]
 alignment: ""
 size: "Large"
-trait_01: "chaotic"
-trait_02: "evil"
-trait_03: "fiend"
-trait_04: "nindoru"
-trait_05: "unholy"
+trait_01: [[chaotic]]
+trait_02: [[evil]]
+trait_03: [[fiend]]
+trait_04: [[nindoru]]
+trait_05: [[unholy]]
 modifier: 14
 perception:
   - name: "Perception"
@@ -74,16 +75,16 @@ attacks:
     desc: "DC 18, attack +10; __3rd __  _[[Spells/Slow|Slow]]_, _[[Spells/Wanderer's Guide|Wanderer's Guide]]_; __2nd __  _[[Spells/Item Facade|Item Facade]]_, _[[Spells/Telekinetic Maneuver|Telekinetic Maneuver]]_; __1st __  _[[Spells/Enfeeble|Ray of Enfeeblement]]_\n__Cantrips__  __(3rd)__ _[[Spells/Daze|Daze]]_, _[[Spells/Know the Way|Know the Way]]_"
 
   - name: "Belch Butterflies"
-    desc: "`pf2:2` (occult) The guhdggi opens both of its mouths and, from its innermost humanoid mouth, belches forth a blast of red butterflies in a 15-foot cone. All creatures in the area must attempt a DC 22 Reflex check save as the hideous insects' razor sharp wings and tiny claws slash and cut away at exposed flesh. The guhdggi can't Belch Butterflies again for 1d4 rounds.\n**Critical Success** The creature takes no damage from the butterflies.\n**Success** The creature takes 2d6 slashing damage from the butterflies.\n**Failure** The creature takes 4d6 slashing damage, 1d6 persistent bleed damage, and is [[Conditions/Sickened 1|Sickened 1]].\n**Critical Failure** The creature takes 8d6 slashing damage, 2d6 persistent bleed damage, and is [[Conditions/Sickened 1|Sickened 2]]."
+    desc: "`pf2:2` (occult) The guhdggi opens both of its mouths and, from its innermost humanoid mouth, belches forth a blast of red butterflies in a @Template[cone|distance:15]. All creatures in the area must attempt a DC 22 Reflex check save as the hideous insects' razor sharp wings and tiny claws slash and cut away at exposed flesh. The guhdggi can't Belch Butterflies again for 1d4 rounds.\n* * *\n\n**Critical Success** The creature takes no damage from the butterflies.\n\n**Success** The creature takes 2d6 slashing damage from the butterflies.\n\n**Failure** The creature takes 4d6 slashing damage, 1d6 persistent bleed damage, and is [[Conditions/Sickened|Sickened 1]].\n\n**Critical Failure** The creature takes 8d6 slashing damage, 2d6 persistent bleed damage, and is [[Conditions/Sickened|Sickened 2]]."
 
   - name: "Cage Prey"
-    desc: "`pf2:1` (attack) **Requirements** The guhdggi has grappled a Medium or smaller creature with its hair lash and doesn't have a creature caged\n**Effect** The guhdggi attempts an Athletics check opposed by the [[Conditions/Grabbed|Grabbed]] creature's Reflex DC. If it succeeds, it places the creature into the cage it carries on its back. The guhdggi's hair lash no longer grapples the creature, and it can't attack a creature in its cage.\nThe caged creature is grabbed. It takes 2d4 + 6 mental damage when first caged and at the end of each of its turns while it's caged. A caged victim can attempt to [[Actions/Force Open|Force Open]] or [[Actions/Escape|Escape]] the cage with a DC 22 check, or it can attack the cage's wicker bars, but only with unarmed attacks or with weapons of light Bulk or less. Other creatures can attack the wicker bars as well but can't attempt to Force Open the cage or aid a caged creature's Escape if the guhdggi can resist. Attacks against the cage resolve against the guhdggi's AC, and if the cage takes at least 16 bludgeoning or slashing damage from a single attack or spell, the caged creature gets free.\nIf the guhdggi dies, its cage crumbles to fragments."
+    desc: "`pf2:1` (attack) **Requirements** The guhdggi has grappled a Medium or smaller creature with its hair lash and doesn't have a creature caged\n* * *\n\n**Effect** The guhdggi attempts an Athletics check opposed by the [[Conditions/Grabbed|Grabbed]] creature's Reflex DC. If it succeeds, it places the creature into the cage it carries on its back. The guhdggi's hair lash no longer grapples the creature, and it can't attack a creature in its cage.\n\nThe caged creature is grabbed. It takes 2d4+6 mental damage when first caged and at the end of each of its turns while it's caged. A caged victim can attempt to [[Actions/Force Open|Force Open]] or [[Actions/Escape|Escape]] the cage with a DC 22 check, or it can attack the cage's wicker bars, but only with unarmed attacks or with weapons of light Bulk or less. Other creatures can attack the wicker bars as well but can't attempt to Force Open the cage or aid a caged creature's Escape if the guhdggi can resist. Attacks against the cage resolve against the guhdggi's AC, and if the cage takes at least 16 bludgeoning or slashing damage from a single attack or spell, the caged creature gets free.\n\nIf the guhdggi dies, its cage crumbles to fragments."
 
   - name: "Lurching Skewer"
     desc: "`pf2:2`  The guhdggi Strides, then makes two spear Strikes, one with each of the two spears it wields. Both Strikes must have the same target. Apply the guhdggi's multiple attack penalty to each Strike normally."
 
   - name: "Manifest Tool"
-    desc: "`pf2:2` (concentrate,occult) **Frequency** once per hour\n**Effect** The guhdggi manifests a tool from its thoughts. If its next action is to attempt a skill check that could be affected by the tool it chose, it gains a +2 item bonus to the skill check. The tool is then destroyed."
+    desc: "`pf2:2` (concentrate,occult) **Frequency** once per hour\n* * *\n\n**Effect** The guhdggi manifests a tool from its thoughts. If its next action is to attempt a skill check that could be affected by the tool it chose, it gains a +2 item bonus to the skill check. The tool is then destroyed."
 
   - name: "[[Actor.TVi4RDeqw7GDsxp0.Item.3mU3jco88GY5GjJy|Ruin Wielder]]"
     desc: "  When a guhdggi wields a broken non-magical weapon, they do not take any of the disadvantages of the weapon being broken. While the guhdggi wields it, the weapon becomes a +1 striking weapon that deals an additional 1d6 mental damage on a successful hit."
@@ -91,6 +92,12 @@ attacks:
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
     desc: "`pf2:1`  "
  
+```
+
+```encounter-table
+name: Guhdggi
+creatures:
+  - 1: Guhdggi
 ```
 
 

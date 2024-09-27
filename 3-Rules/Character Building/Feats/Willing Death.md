@@ -20,7 +20,7 @@ license: OGL
 
 **Frequency** once per day
 
-**Trigger** An ally within 30 feet takes damage that would otherwise reduce them to 0 Hit Points and give them the [[Conditions/Dying 1|Dying]] condition.
+**Trigger** An ally within 30 feet takes damage that would otherwise reduce them to 0 Hit Points and give them the [[Conditions/Dying|Dying]] condition.
 
 * * *
 

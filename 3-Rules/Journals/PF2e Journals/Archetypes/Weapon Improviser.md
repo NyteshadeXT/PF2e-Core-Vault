@@ -8,11 +8,11 @@ tags:
 ---
 
 # Weapon Improviser
-As far as you're concerned, the best weapon to wield is the one that your opponents never see coming. By knowing how to fight effectively with whatever's at hand, you ensure that you're never caught unarmed, and you often get the drop on opponents who mistakenly think they've caught you off guard.
+As far as you're concerned, the best weapon to wield is the one that your opponents never see coming. By knowing how to fight effectively with whatever is at hand, you ensure that you're never caught unarmed, and you often get the drop on opponents who mistakenly think they've caught you unprepared.
 
-Whether you're smashing someone over the head with a bar stool, tossing a mug of ale in their face to blind them, or stabbing your foes with a broken bottle, you can find weapons anywhere and employ them creatively whenever a fight breaks out. Because you fight with disposable weapons, you don't need to be as careful with your weapons as other warriors do, and you can break them when needed to win a fight without feeling any regrets later.
+Whether you're smashing someone over the head with a barstool, tossing a mug of ale in their face to blind them, or stabbing your foes with a broken bottle, you can find weapons anywhere and employ them creatively whenever a brawl breaks out. Because you fight with disposable weapons, you don't need handle them with care as other warriors do, and you can break them when needed to win a fight without feeling any regrets later.
 
-**IMPROVISED WEAPON IDEAS**
+**IMPROVISED WEAPON IDEAS:** Use these for inspiration.
 
 Cavern: broken stalagmites, large mushrooms, old bones
 
@@ -26,13 +26,15 @@ Noble Court: gavel, goblet, quill, lectern
 
 Tavern: bottle, mug, serving tray, stool
 
+**GM Advice** For a GM setting damage, typically a one-handed improvised weapon's damage is 1d4, 1d6, or 1d8; one that needs two hands is 1d8, 1d10, or occasionally 1d12, and an extremely ineffective one might deal 1 damage. Improvised weapons typically have zero, one, or two traits, and often have the nonlethal trait. Agile improvised weapons usually have a smaller die size. It's extremely rare for an improvised weapon to deal more than one die of damage, but powerful magical objects might. Improvised weapons should be fun and don't last long, so feel free to experiment!
+
 ## [[Feats/Weapon Improviser Dedication|Weapon Improviser Dedication]] Feat 2
 
 **Prerequisites** trained in all martial weapons
 
 * * *
 
-You don't take the normal -2 penalty to attack rolls with improvised weapons. Additionally, whenever you gain a class feature that grants you expert or greater proficiency with any weapon, you also gain that proficiency with improvised weapons.
+You don't take the normal –2 penalty to attack rolls with improvised weapons. Improvised weapons you use have a minimum weapon damage die of 1d6, or 1d4 if the improvised weapon is agile.
 
 **Special** You can't select another dedication feat until you have gained two other feats from the Weapon Improviser archetype.
 
@@ -44,11 +46,11 @@ You don't take the normal -2 penalty to attack rolls with improvised weapons. Ad
 
 * * *
 
-You make a Strike with your wielded improvised weapon. You gain a +1 item bonus to the attack roll, and the Strike deals two weapon damage dice if it would have dealt fewer. If the attack is a critical hit, in addition to the effect of the critical hit, the improvised weapon breaks. If the item has a Hardness greater than your level, or if it's an artifact, cursed item, or other item that's difficult to break or destroy, the item doesn't break and the attack is a hit instead of a critical hit.
+When you make a Strike with an improvised weapon you're wielding, you gain a +1 item bonus to the attack roll, and you can have the Strike deal two weapon damage dice instead of the improvised weapon's normal number. If the attack is a critical hit, the improvised weapon breaks after the normal effects of a critical hit occur. If the item has a Hardness greater than your level, or if it's an artifact, cursed item, or other item that's difficult to break or destroy, it doesn't break but the attack is a normal hit instead of a critical hit. You can choose not to get any of the effects of Improvised Pummel on a Strike if you don't want to risk breaking the item. At 12th level, the item bonus increases to +2, and at 16th level, the Strike deals three weapon damage dice instead of the improvised weapon's normal number.
 
-At 12th level, your item bonus to the attack roll increases to +2 instead of +1, and at 16th level, the Strike deals three weapon damage dice if it would have dealt fewer, instead of two.
+If you're benefiting from handwraps of mighty blows, you use the handwraps' item bonus if it's higher and can choose to use its number of damage dice. Any property runes from the handwraps also apply if you use the handwraps' number of weapon damage dice, provided they could apply to the improvised weapon (as determined by the GM).
 
-## [[Feats/Surprise Strike|Surprise Strike]] Feat 4
+## [[Feats/Surprise Strike|Surprise Strike]] Feat 6
 
 **Prerequisites** Weapon Improviser Dedication
 
@@ -70,7 +72,7 @@ You can apply critical specialization effects to improvised weapons you wield. F
 
 * * *
 
-You quickly snatch up whatever's nearby and then attack with it as an improvised weapon. You Interact to pick up a nearby object you could use as an improvised weapon. It must be located at around your chest level, such as a mug on a table, rather than an object on the floor. You then either Strike or make an Improvised Pummel with the improvised weapon.
+You quickly snatch up whatever is nearby and then attack with it as an improvised weapon. You Interact to pick up an unattended object in reach you could use as an improvised weapon, then Strike with that improvised weapon.
 
 ## [[Feats/Shattering Strike (Weapon Improviser)|Shattering Strike (Weapon Improviser)]] Feat 10
 

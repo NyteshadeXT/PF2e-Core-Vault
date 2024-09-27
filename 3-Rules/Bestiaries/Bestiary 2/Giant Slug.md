@@ -6,6 +6,7 @@ cssClasses: pf2e
 aliases: "Compendium.pf2e.pathfinder-bestiary-2.Actor.g1htYgARxNKxc7MV" 
 tags:
   - pf2e/creature/type/animal
+  - pf2eMonster
   - pf2e/creature/level/8
 statblock: inline
 name: "Giant Slug"
@@ -24,11 +25,12 @@ level: "Creature 8"
 
 alignment: ""
 size: "huge"
-trait_01: "animal"
+trait_01: [[animal]]
 modifier: 14
 perception:
   - name: "Perception"
     desc: "+14; Scent (Imprecise) 60 Feet"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Athletics: +19"
@@ -74,8 +76,14 @@ attacks:
     desc: "  Any square the giant slug moves into is coated in mucus. These spaces are difficult terrain, and any creature that moves into one or ends its turn in one is subjected to the slug's mucus. After an hour, the mucus dries and the area is no longer difficult terrain."
 
   - name: "[[Bestiary Ability Glossary/Trample|Trample]]"
-    desc: "`pf2:3`  Large or smaller, foot, DC 27 Reflex check\n"
+    desc: "`pf2:3`  Large or smaller, foot, DC 27 Reflex check\n\n* * *\n"
  
+```
+
+```encounter-table
+name: Giant Slug
+creatures:
+  - 1: Giant Slug
 ```
 
 

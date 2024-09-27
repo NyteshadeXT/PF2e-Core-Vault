@@ -17,7 +17,7 @@ license: OGL
 
 
 
-**Moderate Boon (Daily)** Desna twists fortune in your favor.
+Desna twists fortune in your favor.
 
 Once per day, after determining the result of a check, you can reroll the check and take the new result.
 

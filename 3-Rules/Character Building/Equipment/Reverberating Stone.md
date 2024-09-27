@@ -28,7 +28,7 @@ license: OGL
 
 * * *
 
-This heavy metal emblem is mounted on the face of the affixed shield and has a dull gray gemstone embedded at its center. When you Activate the talisman, the gem shatters, releasing a powerful shockwave in a 15-foot cone that must include the enemy who struck the triggering blow, if possible. Each creature in the cone takes 2d6 sonic with a DC 28 Fortitude check. Any creature that fails its save is pushed 5 feet away from you (or 10 feet on a critical failure).
+This heavy metal emblem is mounted on the face of the affixed shield and has a dull gray gemstone embedded at its center. When you Activate the talisman, the gem shatters, releasing a powerful shockwave in a @Template\[cone|distance:15\] that must include the enemy who struck the triggering blow, if possible. Each creature in the cone takes 2d6 sonic with a DC 28 Fortitude check. Any creature that fails its save is pushed 5 feet away from you (or 10 feet on a critical failure).
 
 *Source: Pathfinder Treasure Vault*
 *OGL*

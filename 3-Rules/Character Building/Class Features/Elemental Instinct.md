@@ -12,7 +12,7 @@ license: OGL
 ---
 # Elemental Instinct
 ## Feat 1
-### [[barbarian]]
+### [[3-Rules/trait_reference/barbarian]]
 
 **Category** classfeature; 
 

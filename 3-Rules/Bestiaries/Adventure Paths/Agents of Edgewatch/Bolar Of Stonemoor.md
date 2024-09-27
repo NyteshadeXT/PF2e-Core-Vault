@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/chaotic
   - pf2e/creature/type/dwarf
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/-1
 statblock: inline
 name: "Bolar Of Stonemoor"
@@ -25,9 +26,9 @@ level: "Creature -1"
 
 alignment: ""
 size: "Medium"
-trait_01: "chaotic"
-trait_02: "dwarf"
-trait_03: "humanoid"
+trait_01: [[chaotic]]
+trait_02: [[dwarf]]
+trait_03: [[humanoid]]
 modifier: 3
 perception:
   - name: "Perception"
@@ -61,8 +62,14 @@ attacks:
     desc: "`pf2:1` Battle Axe +6 (sweep)\n__Damage__  1d8 + 4 slashing"
 
   - name: "Rage"
-    desc: "`pf2:1` (concentrate,emotion,mental) **Requirements** Bolar isn't fatigued or raging\n**Effect** Bolar gains 3 temporary Hit Points that last until the rage ends. While raging, he deals 2 additional damage with melee attacks and takes a -1 penalty to AC. The rage lasts for 1 minute, until there are no enemies Bolar can perceive, or until Bolar falls unconscious.\nOnce the rage ends, Bolar can't Rage again for 1 minute.\n[[Feat_Feature Effects/Effect_ Rage|Effect: Rage]]"
+    desc: "`pf2:1` (concentrate,emotion,mental) **Requirements** Bolar isn't fatigued or raging\n* * *\n\n**Effect** Bolar gains 3 temporary Hit Points that last until the rage ends. While raging, he deals 2 additional damage with melee attacks and takes a -1 penalty to AC. The rage lasts for 1 minute, until there are no enemies Bolar can perceive, or until Bolar falls unconscious.\n\nOnce the rage ends, Bolar can't Rage again for 1 minute.\n\n[[Feat_Feature Effects/Effect_ Rage|Effect: Rage]]"
  
+```
+
+```encounter-table
+name: Bolar Of Stonemoor
+creatures:
+  - 1: Bolar Of Stonemoor
 ```
 
 

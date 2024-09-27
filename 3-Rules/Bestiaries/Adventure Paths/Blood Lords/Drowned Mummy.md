@@ -11,6 +11,7 @@ tags:
   - pf2e/creature/type/mummy
   - pf2e/creature/type/undead
   - pf2e/creature/type/unholy
+  - pf2eMonster
   - pf2e/creature/level/17
 statblock: inline
 name: "Drowned Mummy"
@@ -25,23 +26,23 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #186: Ghost King&#x27;s Rage"
 name: "Drowned Mummy"
 level: "Creature 17"
-rare_03: "Rare"
+rare_03: [[Rare]]
 alignment: ""
 size: "Medium"
-trait_01: "amphibious"
-trait_02: "evil"
-trait_03: "lawful"
-trait_04: "mummy"
-trait_05: "undead"
-trait_06: "unholy"
+trait_01: [[amphibious]]
+trait_02: [[evil]]
+trait_03: [[lawful]]
+trait_04: [[mummy]]
+trait_05: [[undead]]
+trait_06: [[unholy]]
 modifier: 30
 perception:
   - name: "Perception"
     desc: "+30; Echolocation 120 Feet, Darkvision"
-languages: "Necril, Thalassic"
+languages: "Necril, Thalassic; telepathy 30 feet"
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +30, Athletics: +32, Intimidation: +28, Nature: +30, Stealth: +30 (+32 While Underwater)"
+    desc: "Acrobatics: +30, Athletics: +32, Intimidation: +28, Nature: +30, Stealth: +30"
 abilityMods: [9, 5, 6, 3, 7, 1]
 speed: 25 feet,  swim 40 feet
 sourcebook: "_Pathfinder #186: Ghost King&#x27;s Rage_"
@@ -88,11 +89,17 @@ attacks:
     desc: "`pf2:1`  "
 
   - name: "Rancid Bloat"
-    desc: " (curse,disease,divine) This disease and damage from it can't be healed unless this curse is removed. A creature killed by rancid bloat rots away to waterlogged pieces of flesh and can't be resurrected except by an 8th-rank [[Spells/Resurrect|Resurrect]] ritual or similar magic.\n**Saving Throw** DC 38 Fortitude check\n**Stage 1** carrier with no ill effect (1 minute)\n**Stage 2** 12d6 void damage, [[Conditions/Clumsy 1|Clumsy 2]], and [[Conditions/Enfeebled 1|Enfeebled 2]] (1 day)\n**Stage 3** 16d6 void damage, [[Conditions/Clumsy 1|Clumsy 4]], and [[Conditions/Enfeebled 1|Enfeebled 4]] (1 day)"
+    desc: " (curse,disease,divine) This disease and damage from it can't be healed unless this curse is removed. A creature killed by rancid bloat rots away to waterlogged pieces of flesh and can't be resurrected except by an 8th-rank [[Spells/Resurrect|Resurrect]] ritual or similar magic.\n\n**Saving Throw** DC 38 Fortitude check\n\n**Stage 1** carrier with no ill effect (1 minute)\n\n**Stage 2** 12d6 void damage, [[Conditions/Clumsy|Clumsy 2]], and [[Conditions/Enfeebled|Enfeebled 2]] (1 day)\n\n**Stage 3** 16d6 void damage, [[Conditions/Clumsy|Clumsy 4]], and [[Conditions/Enfeebled|Enfeebled 4]] (1 day)"
 
   - name: "Whirlpool"
-    desc: "`pf2:2` (primal,water) **Requirements** The drowned mummy is underwater\n**Effect** The drowned mummy commands the water to churn, creating a powerful whirlpool centered on itself. Each creature within a 30-foot emanation centered on the drowned mummy takes 14d8 bludgeoning damage (DC 38 Reflex check) as the powerful current batters them around. A creature that fails this save is pushed 20 feet away from the mummy and also falls [[Conditions/Prone|Prone]] on a critical failure. The drowned mummy can't use Whirlpool again for 1d4 rounds."
+    desc: "`pf2:2` (primal,water) **Requirements** The drowned mummy is underwater\n* * *\n\n**Effect** The drowned mummy commands the water to churn, creating a powerful whirlpool centered on itself. Each creature within a @Template[emanation|distance:30] centered on the drowned mummy takes 14d8 bludgeoning damage (DC 38 Reflex check) as the powerful current batters them around. A creature that fails this save is pushed 20 feet away from the mummy and also falls [[Conditions/Prone|Prone]] on a critical failure. The drowned mummy can't use Whirlpool again for 1d4 rounds."
  
+```
+
+```encounter-table
+name: Drowned Mummy
+creatures:
+  - 1: Drowned Mummy
 ```
 
 

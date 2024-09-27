@@ -8,7 +8,7 @@ tags:
 ---
 
 # Champion
-_You are an emissary of a deity, a devoted servant who has taken up a weighty mantle, and you adhere to a code that holds you apart from those around you. While champions exist for every alignment, as a champion of good, you provide certainty and hope to the innocent. You have powerful defenses that you share freely with your allies and innocent bystanders, as well as holy power you use to end the threat of evil. Your devotion even attracts the attention of holy spirits who aid you on your journey._
+_You are an emissary of a deity, a devoted servant who has taken up a weighty mantle, and you devoutly pursue a cause that holds you apart from those around you. You have powerful defenses that you share freely with your allies and innocent bystanders, as well as divine power you use to end the threats your deity opposes._
 
 **Key Attribute: STRENGTH OR DEXTERITY**
 
@@ -26,25 +26,25 @@ You confront enemies in hand-to-hand combat while carefully positioning yourself
 
 ## During Social Encounters...
 
-You are a voice of hope, striving to reach a peaceful solution that strengthens bonds and yields good results for all.
+You are a voice of devoted authority, with strong intentions to embody the behaviors your deity encourages.
 
 ## While Exploring...
 
-You overcome barriers both physical and spiritual, providing inspiration to your allies through your actions and-when your fellow adventurers ask for it-providing moral and ethical guidance.
+You overcome barriers both physical and spiritual, providing inspiration to your allies through your actions and—when your fellow adventurers ask for it—providing guidance with a sure hand.
 
 ## In Downtime...
 
-You spend much of your time in solemn prayer and contemplation, rigorous training, charity work, and fulfilling the tenets of your code, but that doesn't mean there isn't time to take up a craft or hobby.
+You spend much of your time in solemn prayer and contemplation, rigorous training, and fulfilling the edicts of your cause, but that doesn't mean there isn't time to take up a craft or hobby.
 
 ## You Might...
 
-*   Believe there is always hope that good will triumph over evil, no matter how grim the odds.
-*   Know the ends don't justify the means, since evil acts increase the power of evil.
-*   Have a strong sense of right and wrong, and grow frustrated when greed or shortsightedness breeds evil.
+*   Believe the righteousness of your cause will triumph, no matter how grim the odds.
+*   Explain how the teachings of your deity apply to decisions and actions in everyday life.
+*   Be a bit overprotective of your allies.
 
 ## Others Probably...
 
-*   See you as a symbol of hope, especially in a time of great need.
+*   See you as a symbol of your deity, and carry over their opinions of that deity to you.
 *   Worry you secretly despise them for not living up to your impossible standard, or that you are unwilling to compromise when necessary.
 *   Know that you've sworn divine oaths of service they can trust you to keep.
 
@@ -104,17 +104,17 @@ You gain these features as a Champion. Abilities gained at higher levels list th
 
 | Your Level | Class Features |
 | --- | --- |
-| 1 | Ancestry and background, initial proficiencies, champion's code, deity and cause, deific weapon, champion's reaction, devotion spells, champion feat, shield block |
+| 1 | Ancestry and background, attribute boosts, initial proficiencies, deity, cause, devotion spells, champion feat, shield block |
 | 2 | Champion feat, skill feat |
-| 3 | Divine ally, general feat, skill increase |
+| 3 | Blessing of the devoted, general feat, skill increase |
 | 4 | Champion feat, skill feat |
 | 5 | Attribute boosts, ancestry feat, skill increase, weapon expertise |
 | 6 | Champion feat, skill feat |
 | 7 | Armor expertise, general feat, skill increase, weapon specialization |
 | 8 | Champion feat, skill feat |
-| 9 | Ancestry feat, champion expertise, divine smite, juggernaut, lightning reflexes, skill increase |
+| 9 | Ancestry feat, champion expertise, reflex expertise, relentless reaction, sacred body, skill increase |
 | 10 | Attribute boosts, champion feat, skill feat |
-| 11 | Alertness, divine will, exalt, general feat, skill increase |
+| 11 | Divine will, exalted reaction, general feat, perception expertise, skill increase |
 | 12 | Champion feat, skill feat |
 | 13 | Ancestry feat, armor mastery, skill increase, weapon mastery |
 | 14 | Champion feat, skill feat |
@@ -122,67 +122,86 @@ You gain these features as a Champion. Abilities gained at higher levels list th
 | 16 | Champion feat, skill feat |
 | 17 | Ancestry feat, champion mastery, legendary armor, skill increase |
 | 18 | Champion feat, skill feat |
-| 19 | General feat, hero's defiance, skill increase |
+| 19 | General feat, hero’s defiance, skill increase |
 | 20 | Attribute boosts, champion feat, skill feat |
 
 ## Ancestry and Background
 
 In addition to the abilities provided by your class at 1st level, you have the benefits of your selected ancestry and background.
 
-## Champion Feats
-
-At 1st level and every even-numbered level thereafter, you gain a champion class feat.
-
-## Champion's Code
-
-You follow a code of conduct, beginning with tenets shared by all champions of an alignment (such as good), and continuing with tenets of your cause. Deities often add additional strictures (for instance, [[Deities/Torag|Torag]]'s champions can't show mercy to enemies of their people, making it almost impossible for them to follow the redeemer cause). Only rules for good champions appear in this book. Tenets are listed in order of importance, starting with the most important. If a situation places two tenets in conflict, you aren't in a no-win situation; instead, follow the more important tenet. For instance, as a paladin, if an evil king asked you if you're hiding refugees so he could execute them, you could lie to him, since the tenet against lying is less important than preventing harm to innocents. Trying to subvert your code by creating a situation that forces a higher tenet to override a lower tenet (for example, promising not to respect authorities and then, to keep your word, disrespecting authorities) is a violation of the champion code.
-
-If you stray from your alignment or violate your code of conduct, you lose your focus pool and divine ally until you demonstrate your repentance by conducting an [[Spells/Atone|Atone]] ritual, but you keep any other champion abilities that don't require those class features. If your alignment shifts but is still one allowed by your deity, your GM might let you retrain your cause while still following the same deity.
-
-### [[Class Features/The Tenets of Good|The Tenets of Good]]
-
-All champions of good alignment follow these tenets.
-
-*   You must never perform acts anathema to your deity or willingly commit an evil act, such as murder, torture, or the casting of an evil spell.
-*   You must never knowingly harm an innocent, or allow immediate harm to one through inaction when you know you could reasonably prevent it. This tenet doesn't force you to take action against possible harm to innocents at an indefinite time in the future, or to sacrifice your life to protect them.
-
-### [[Class Features/The Tenets of Evil|The Tenets of Evil]]
-
-All champions of evil alignment follow these tenets.
-
-*   You must never perform acts anathema to your deity or willingly commit a purely good act, such as giving something solely out of charity, casting a good spell, or using a good item.
-*   You must never put another person's needs before your own, and you must never put your own needs before those of your deity. Though you can perform acts others might consider helpful, it must be done with the expectation that it ultimately furthers your own goals or those of your master.
-
-## Champion's Reaction
-
-Your cause gives you a special reaction. See specific causes for more information.
-
-## Deific Weapon
-
-You zealously bear your deity's favored weapon. If it's uncommon, you gain access to it. If it's an unarmed attack with a d4 damage die or a simple weapon, increase the damage die by one step (d4 to d6, d6 to d8, d8 to d10, d10 to d12).
-
-## Deity and Cause
-
-Champions are divine servants of a deity. Choose a deity to follow; your alignment must be one allowed for followers of your deity. Actions fundamentally opposed to your deity's ideals or alignment are anathema to your faith. A few examples of acts that would be considered anathema appear in each deity's entry. You and your GM determine whether other acts are anathema.
-
-You have one of the following causes. Your cause must match your alignment exactly. Your cause determines your champion's reaction, grants you a devotion spell, and defines part of your champion's code:
-
-*   Lawful good [[Class Features/Paladin|Paladin]]
-*   Neutral good [[Class Features/Redeemer|Redeemer]]
-*   Chaotic good [[Class Features/Liberator|Liberator]]
-*   Lawful evil [[Class Features/Tyrant|Tyrant]]
-*   Neutral evil [[Class Features/Desecrator|Desecrator]]
-*   Chaotic evil [[Class Features/Antipaladin|Antipaladin]]
-
-## Devotion Spells
-
-Your deity's power grants you special divine spells called devotion spells, which are a type of focus spell. It costs 1 Focus Point to cast a focus spell, and you start with a focus pool of 1 Focus Point. You refill your focus pool during your daily preparations, and you regain 1 Focus Point by spending 10 minutes using the Refocus activity to pray to your deity or do service toward their causes.
-
-Focus spells are automatically heightened to half your level rounded up. Certain feats can give you more focus spells and increase the size of your focus pool, though your focus pool can never hold more than 3 Focus Points. You gain a devotion spell depending on your cause, and you are trained in divine spell attack rolls and spell DCs. Your spellcasting attribute is Charisma.
-
 ## Initial Proficiencies
 
 At 1st level, you gain a number of proficiencies that represent your basic training, noted at the start of this class.
+
+## Deity
+
+As a champion, you are a warrior in the name of a deity you revere above all others. The most common deities in Pathfinder appear on pages 35–39 of Player Core, along with their edicts, areas of concern, and the benefits you get for being a devotee of that deity. Choose one deity.
+
+### **Skill**
+
+You become trained in the divine skill listed for your deity. As normal, if you're already trained in that skill, you become trained in a different skill of your choice.
+
+### **Anathema**
+
+Champions care deeply about the edicts and anathema they take from their deity, sanctification, and cause. As with any implementation of edicts and anathema in the rules, these are a tool for roleplaying between you, the GM, and the other players at the table—you're still playing a nuanced character, not strictly following a script.
+
+Acts fundamentally opposed to your deity's ideals are anathema to your faith. Learning or casting spells, committing acts, and using items that are anathema to your deity remove you from your deity's good graces.
+
+Similarly, using items, spells, or actions that are anathema to the tenets or goals of your faith could interfere with your connection to your deity. For example, assisting with a ritual that raises undead would be anathema to Pharasma, the goddess of death. Many actions that are anathema don't appear in any deity's formal list. For borderline cases, you and your GM determine which acts are anathema.
+
+If you perform enough acts that are anathema to your deity, you lose the magical abilities that come from your connection to your deity. The class features that you lose are determined by the GM, but they likely include your holy or unholy trait, your focus pool, and your blessing of the devoted. These abilities can be regained only if you repent by conducting an [[Spells/Atone|Atone]] ritual. If your deity doesn't require the specific sanctification you had, your GM might let you retrain your sanctification and cause while still following the same deity.
+
+### **Sanctification**
+
+Depending on your deity, their sanctification can make you holy or unholy. This commits you to one side of a struggle over souls. Whether you become holy, unholy, or neither will limit your choice of causes, devotion spells, and feats.
+
+If you "can be" holy or unholy according to your deity's sanctification entry, you make that choice, and if you "must be" holy or unholy, you gain the trait automatically. If the deity lists "none," you can choose only options that don't require the holy or unholy trait. If you are holy or unholy and gain the opposing trait in some way, you lose the previous trait until you _atone_.
+
+Unholy sanctification for a champion can be extremely disruptive to a typical game and should be a player character option only in appropriate adventures or campaigns where the group collectively decides to embrace them. Unholy sanctification and causes are uncommon options.
+
+**Holy**: You gain the holy trait and add that trait to any Strikes you make. You gain the edict, "Do not knowingly harm innocents or fail to prevent harm to an innocent if your direct intervention could save them" and the anathema "Commit murder." Even if your game includes behavior outside the Pathfinder baseline, the acts listed there are anathema to you.
+
+**Holy**: You gain the unholy trait and add that trait to any Strikes you make. You gain the edict, "Do not put another's needs before your own or those of your deity" and the anathema "Commit an entirely altruistic act, such as giving something away in charity" and "Put anyone's needs before those of your deity." None of these prevents you from performing acts others might consider helpful, but these acts must be done with the expectation that they ultimately further your own goals or those of your deity.
+
+### **Deific Weapon**
+
+You zealously bear your deity's favored weapon. If it's an unarmed attack with a d4 damage die or a simple weapon, increase the damage die by one step (d4 to d6, d6 to d8, d8 to d10, d10 to d12). If the weapon is uncommon, you gain access to it, and if it's an advanced weapon, you treat it as a martial weapon for the purposes of proficiency.
+
+### **Champion's Aura**
+
+You're surrounded by an aura in a 15-foot emanation. It has the aura and divine traits. Any follower of your deity within the aura immediately knows you're a champion of your deity. This aura is used as the range for your champion's reaction and for various other effects. You can suppress or resume the aura as a single action, which has the concentrate trait, and it ends if you fall unconscious.
+
+## Cause
+
+You devote yourself to a specific cause in your deity's name. Some are limited to sanctification, as noted in parentheses. Your cause adds to your edicts and anathema and grants you a special reaction called your champion's reaction, which appears after the divider, along with its upgrades if you gain the relentless reaction and exalted reaction class features at higher levels.
+
+**[[Class Features/Desecration|Desecration]] (Unholy):** You selfishly corrupt and destroy.
+
+**[[Class Features/Grandeur|Grandeur]] (Holy):** You exemplify the glory and splendor of the celestial realms.
+
+**[[Class Features/Iniquity|Iniquity]] (Unholy):** You destroy, take advantage, and act with dishonor.
+
+**[[Class Features/Justice|Justice]]:** You follow laws and mete out just punishment.
+
+**[[Class Features/Liberation|Liberation]]:** You oppose tyranny and fight for freedom.
+
+**[[Class Features/Obedience|Obedience]]:** You enforce hierarchies and order.
+
+**[[Class Features/Redemption|Redemption]] (Holy):** You try to redeem those who commit wicked deeds.
+
+## Devotion Spells
+
+Your deity's power grants you special divine spells called devotion spells, which are a type of focus spell. Choose either [[Spells/Shields of the Spirit|Shields of the Spirit]] or a spell based on your deity's divine font ([[Spells/Lay on Hands|Lay on Hands]] if your deity allows _heal_, [[Spells/Touch of the Void|Touch of the Void]] if your deity allows _harm_).
+
+It costs 1 Focus Point to cast a focus spell. When you gain your first devotion spell, you also gain a focus pool of 1 Focus Point. You refill your focus pool during your daily preparations, and you regain 1 Focus Point by spending 10 minutes using the Refocus activity to pray to your deity or do service toward their causes.
+
+Your devotion spells are divine spells. Your spellcasting attribute is Charisma.
+
+Focus spells are automatically heightened to half your level rounded up. Certain feats give you more focus spells. The maximum Focus Points your focus pool can hold is equal to the number of focus spells you have, but can never be more than 3 points.
+
+## Champion Feats
+
+At 1st level and every even-numbered level thereafter, you gain a champion class feat.
 
 ## Shield Block
 
@@ -192,19 +211,15 @@ You gain the [[Feats/Shield Block|Shield Block]] general feat, a reaction that l
 
 At 2nd level and every 2 levels thereafter, you gain a skill feat. You must be trained or better in the corresponding skill to select a skill feat.
 
-## Divine AllyLevel 3
+## Blessing of the DevotedLevel 3
 
-Your devotion attracts a spirit of your deity's alignment. Once you choose an ally, your choice can't be changed.
+Your deity blesses your service with a boon. This might come in the form of a spirit that visits you and inhabits your items or body, a mysterious divine tattoo upon your body, or the like. Choose one of the following blessings, or any other to which you have access.
 
-The following are divine allies:
+**Blessed Armament**: Select one weapon or handwraps of mighty blows. You gain that armament's critical specialization effect, and you grant the armament a property rune of your choice from the following list: [[Equipment/Fearsome|Fearsome]], [[Equipment/Ghost Touch|Ghost Touch]], [[Equipment/Returning|Returning]], [[Equipment/Shifting|Shifting]], or [[Equipment/Vitalizing|Vitalizing]]. During your daily preparations, you can change the spirit to inhabit a different armament, grant a different rune, or both.
 
-**Blade Ally** A spirit of battle dwells within your armaments. Select one weapon or [[Equipment/Handwraps of Mighty Blows|Handwraps of Mighty Blows (+1)]] when you make your daily preparations. In your hands, the item gains the effect of a property rune.
+**Blessed Shield:** In your hands, a shield gains the minor [[Equipment/Reinforcing Rune (Minor)|Reinforcing]] rune. As you go up in level, the shield gains the reinforcing rune of your level (lesser at 7th level, moderate at 10th level, greater at 13th level, major at 16th level, and supreme at 19th level). If your shield already has the appropriate reinforcing rune for your level, or if it's a [[Equipment/Sturdy Shield (Minor)|Sturdy Shield]] of the same level as the appropriate reinforcing rune, the shield's Hardness instead increases by 1.
 
-For a champion following the tenets of good, choose [[Equipment/Vitalizing|Vitalizing]], [[Equipment/Ghost Touch|Ghost Touch]], [[Equipment/Returning|Returning]], or [[Equipment/Shifting|Shifting]]. For a champion following the tenets of evil, choose [[Equipment/Fearsome|Fearsome]], [[Equipment/Returning|Returning]], or [[Equipment/Shifting|Shifting]]. You also gain the weapon's critical specialization effect.
-
-**Shield Ally** A spirit of protection dwells within your shield. In your hands, the shield's Hardness increases by 2 and its HP and BT increase by half.
-
-**Steed Ally** You gain a young animal companion as a mount. Ordinarily, your animal companion is one that has the mount special ability, such as a horse. You can select a different animal companion (GM's discretion), but this ability doesn't grant it the mount special ability.
+**Blessed Swiftness:** You gain a +5-foot status bonus to Speed. If you're mounted, your mount gains the bonus instead. In addition, when the movement of one of your allies triggers an enemy's reaction while the ally is in your champion's aura, the ally gains a +2 status bonus to all defenses against that reaction.
 
 ## General FeatsLevel 3
 
@@ -215,12 +230,6 @@ At 3rd level and every 4 levels thereafter, you gain a general feat.
 At 3rd level and every 2 levels thereafter, you gain a skill increase. You can use this increase either to increase your proficiency rank to trained in one skill you're untrained in, or to increase your proficiency rank in one skill in which you're already trained to expert.
 
 At 7th level, you can use skill increases to increase your proficiency rank to master in a skill in which you're already an expert, and at 15th level, you can use them to increase your proficiency rank to legendary in a skill in which you're already a master.
-
-## Attribute BoostsLevel 5
-
-In addition to what you get from your class at 1st level, you have four free boosts to different attribute modifiers.
-
-At 5th level and every 5 levels thereafter, you get four free boosts to different attribute modifiers. If an attribute modifier is already +4 or higher, it takes two boosts to increase it; you get a partial boost and must boost that attribute again at a later level to increase it by 1.
 
 ## Ancestry FeatsLevel 5
 
@@ -236,39 +245,35 @@ You have spent so much time in armor that you know how to make the most of its p
 
 ## Weapon SpecializationLevel 7
 
-You've learned how to inflict greater injuries with the weapons you know best. You deal 2 additional damage with weapons and unarmed attacks in which you are an expert. This damage increases to 3 if you're a master, and to 4 if you're legendary.
+You've learned how to inflict greater injuries with the weapons you know best. You deal 2 additional damage with weapons and unarmed attacks in which you're an expert. This damage increases to 3 if you're a master, and to 4 if you're legendary.
 
 ## Champion ExpertiseLevel 9
 
-Prayers strengthen your divine power. Your proficiency ranks for your champion class DC and divine spell attack rolls and DCs increase to expert.
+Prayers strengthen your divine power. Your proficiency ranks for your champion class DC, spell attack modifier, and spell DC increase to expert.
 
-## Divine SmiteLevel 9
+## Reflex ExpertiseLevel 9
 
-Your champion's reaction improves.
+You've developed a knack for dodging danger. Your proficiency rank for Reflex saves increases to expert.
 
-See specific causes for more information.
+## Relentless ReactionLevel 9
 
-## JuggernautLevel 9
+Your champion's reaction improves, typically to punish the attacker with spiritual backlash. It gains the relentless reaction benefit listed in your cause below your champion's reaction.
 
-Your body is accustomed to physical hardship and resistant to ailments. Your proficiency rank for Fortitude saves increases to master. When you roll a success on a Fortitude save, you get a critical success instead.
+## Sacred BodyLevel 9
 
-## Lightning ReflexesLevel 9
-
-Your reflexes are lightning fast. Your proficiency rank for Reflex saves increases to expert.
-
-## AlertnessLevel 11
-
-You remain alert to threats around you. Your proficiency rank for Perception increases to expert.
+The power of your deity keeps your body safe from harm, as true an edifice of the faith as a great temple. Your proficiency rank for Fortitude saves increases to master. When you roll a success on a Fortitude save, you get a critical success instead.
 
 ## Divine WillLevel 11
 
 Your faith grants mastery of your will. Your proficiency rank for Will saves increases to master. When you roll a success on a Will save, you get a critical success instead.
 
-## ExaltLevel 11
+## Exalted ReactionLevel 11
 
-Your champion's reaction exalts nearby allies, allowing them to benefit as well.
+Your champion's reaction exalts nearby allies, allowing them to benefit as well. When you use your champion's reaction, you also get the effect listed for its exalted reaction.
 
-See specific causes for more information.
+## Perception ExpertiseLevel 11
+
+You remain alert to threats around you. Your proficiency rank for Perception increases to expert.
 
 ## Armor MasteryLevel 13
 
@@ -276,7 +281,7 @@ Your skill with armor improves, helping you avoid more blows. Your proficiency r
 
 ## Weapon MasteryLevel 13
 
-You fully understand your weapons. Your proficiency ranks for simple and martial weapons and unarmed attacks increase to master.
+You fully understand your weapons. Your proficiency ranks for simple weapons, martial weapons, and unarmed attacks increase to master.
 
 ## Greater Weapon SpecializationLevel 15
 
@@ -284,7 +289,7 @@ Your damage from weapon specialization increases to 4 with weapons and unarmed a
 
 ## Champion MasteryLevel 17
 
-You've mastered your arsenal of champion techniques and divine spells. Your proficiency ranks for your champion class DC and for divine spell attack rolls and spell DCs increase to master.
+You've mastered your champion techniques and divine spells. Your proficiency ranks for your champion class DC, spell attack modifier, and spell DC increase to master.
 
 ## Legendary ArmorLevel 17
 
@@ -292,4 +297,4 @@ You shield yourself with steel as easily as with faith. Your proficiency ranks f
 
 ## Hero's DefianceLevel 19
 
-You can defy fate and continue fighting as long as you have divine energy. You gain the [[Spells/Hero's Defiance|Hero's Defiance]] devotion spell.
+You can continue fighting as long as you have divine energy. You gain the [[Spells/Hero's Defiance|Hero's Defiance]] devotion spell.

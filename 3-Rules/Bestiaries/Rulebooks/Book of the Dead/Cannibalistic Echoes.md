@@ -4,6 +4,7 @@ obsidianUIMode: preview
 noteType: pf2eHazard
 tags:
   - haunt
+  - pf2eHazard
 
 source: Pathfinder Book of the Dead
 aliases: "Compendium.pf2e.book-of-the-dead-bestiary.Actor.eLAoo8l1I3OiibwW" 
@@ -21,13 +22,13 @@ name: "Cannibalistic Echoes"
 level: "Hazard 16"
 
 
-trait_01: "haunt"
+trait_01: [[haunt]]
 modifier: 32
 sourcebook: "_Pathfinder Book of the Dead_"
 ac: 10
 armorclass:
   - name: AC
-    desc: "10; __Fort__ +0, __Ref__ +0, __Will__ +0"
+    desc: "10; "
 hp: 10
 health:
   - name: ""
@@ -49,10 +50,16 @@ attacks:
   - name: ""
 
   - name: "Feast"
-    desc: "`pf2:r` **Trigger** A living creature approaches within 10 feet\n**Effect** The spirits bite and chew, dealing 6d12 + 35 piercing damage to each creature within 30 feet. Affected creatures must each attempt a DC 41 Reflex check save.\n**Critical Success** The creature is unaffected.\n**Success** The creature takes half damage.\n**Failure** The creature takes full damage, 2d8 bleed, and is [[Conditions/Drained 1|Drained 1]].\n**Critical Failure** The creature takes double damage, 4d8 bleed, and is [[Conditions/Drained 1|Drained 2]]."
+    desc: "`pf2:r` **Trigger** A living creature approaches within 10 feet\n* * *\n\n**Effect** The spirits bite and chew, dealing 6d12+35 piercing damage to each creature within 30 feet. Affected creatures must each attempt a DC 41 Reflex check save.\n* * *\n\n**Critical Success** The creature is unaffected.\n\n**Success** The creature takes half damage.\n\n**Failure** The creature takes full damage, 2d8 bleed, and is [[Conditions/Drained|Drained 1]].\n\n**Critical Failure** The creature takes double damage, 4d8 bleed, and is [[Conditions/Drained|Drained 2]]."
 
 
   - name: "Reset"
     desc: "1 day"
+```
+
+```encounter-table
+name: Cannibalistic Echoes
+creatures:
+  - 1: Cannibalistic Echoes
 ```
 

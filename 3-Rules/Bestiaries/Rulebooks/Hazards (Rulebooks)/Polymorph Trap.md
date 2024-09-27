@@ -5,6 +5,7 @@ noteType: pf2eHazard
 tags:
   - magical
   - trap
+  - pf2eHazard
 
   - remaster
 source: Pathfinder GM Core
@@ -23,14 +24,14 @@ name: "Polymorph Trap"
 level: "Hazard 12"
 
 
-trait_01: "magical"
-trait_02: "trap"
+trait_01: [[magical]]
+trait_02: [[trap]]
 modifier: 24
 sourcebook: "_Pathfinder GM Core_"
 ac: 10
 armorclass:
   - name: AC
-    desc: "10; __Fort__ +0, __Ref__ +0, __Will__ +0"
+    desc: "10; "
 hp: 0
 health:
   - name: ""
@@ -52,9 +53,15 @@ attacks:
   - name: ""
 
   - name: "Cursed Metamorphosis"
-    desc: "`pf2:r` (primal) **Trigger** A creature moves within 30 feet of the glyph without speaking the passphrase in Druidic\n**Effect** The creature is targeted by [[Spells/Cursed Metamorphosis|Cursed Metamorphosis]] (DC 32 Will check save)."
+    desc: "`pf2:r` (primal) **Trigger** A creature moves within 30 feet of the glyph without speaking the passphrase in Druidic\n* * *\n\n**Effect** The creature is targeted by [[Spells/Cursed Metamorphosis|Cursed Metamorphosis]] (DC 32 Will check save)."
 
 
 
+```
+
+```encounter-table
+name: Polymorph Trap
+creatures:
+  - 1: Polymorph Trap
 ```
 

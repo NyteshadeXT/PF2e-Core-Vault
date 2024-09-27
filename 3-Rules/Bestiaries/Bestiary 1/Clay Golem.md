@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/construct
   - pf2e/creature/type/golem
   - pf2e/creature/type/mindless
+  - pf2eMonster
   - pf2e/creature/level/10
 statblock: inline
 name: "Clay Golem"
@@ -23,16 +24,17 @@ token: [[modules/pf2e-tokens-bestiaries/portraits/constructed/golem/clay-golem.w
 source: "Pathfinder Bestiary"
 name: "Clay Golem"
 level: "Creature 10"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Large"
-trait_01: "construct"
-trait_02: "golem"
-trait_03: "mindless"
+trait_01: [[construct]]
+trait_02: [[golem]]
+trait_03: [[mindless]]
 modifier: 16
 perception:
   - name: "Perception"
     desc: "+16; Darkvision"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Athletics: +24"
@@ -57,13 +59,13 @@ abilities_mid:
     desc: "  A severely damaged clay golem has a chance of going berserk. If it has 50 or fewer Hit Points at the start of its turn, the golem must succeed at a DC 5 Flat check check or go berserk. A berserk golem wildly attacks the nearest living creature, or the nearest object if no creatures are nearby."
 
   - name: "[[Creature Family Ability Glossary/(Golem) Golem Antimagic|Golem Antimagic]]"
-    desc: "  *   **Harmed By** cold and water (5d10 damage, 2d6 damage from areas or persistent damage)\n*   **Healed By** acid (area 2d6 Hit Points)\n*   **Slowed By** earth\nA golem is immune to spells and magical abilities other than its own, but each type of golem is affected by a few types of magic in special ways. These exceptions are listed in shortened form in the golem's stat block, with the full rules appearing here. If an entry lists multiple types (such as \"cold and water\"), either type of spell can affect the golem.\n*   **Harmed By** Any magic of this type that targets the golem causes it to take the listed amount of damage (this damage has no type) instead of the usual effect. If the golem starts its turn in an area of magic of this type or is affected by a persistent effect of the appropriate type, it takes the damage listed in the parenthetical.\n*   **Healed By** Any magic of this type that targets the golem makes the golem lose the slowed condition and gain HP equal to half the damage the spell would have dealt. If the golem starts its turn in an area of this type of magic, it gains the HP listed in the parenthetical.\n*   **Slowed By** Any magic of this type that targets the golem causes it to be [[Conditions/Slowed 1|Slowed 1]] for 2d6 rounds instead of the usual effect. If the golem starts its turn in an area of this type of magic, it's slowed 1 for that round.\n*   **Vulnerable To** Each golem is vulnerable to one or more specific spells, with the effects described in its stat block."
+    desc: "  *   **Harmed By** cold and water (5d10 damage, 2d6 damage from areas or persistent damage)\n*   **Healed By** acid (area 2d6 Hit Points)\n*   **Slowed By** earth\n* * *\n\nA golem is immune to spells and magical abilities other than its own, but each type of golem is affected by a few types of magic in special ways. These exceptions are listed in shortened form in the golem's stat block, with the full rules appearing here. If an entry lists multiple types (such as \"cold and water\"), either type of spell can affect the golem.\n\n*   **Harmed By** Any magic of this type that targets the golem causes it to take the listed amount of damage (this damage has no type) instead of the usual effect. If the golem starts its turn in an area of magic of this type or is affected by a persistent effect of the appropriate type, it takes the damage listed in the parenthetical.\n*   **Healed By** Any magic of this type that targets the golem makes the golem lose the slowed condition and gain HP equal to half the damage the spell would have dealt. If the golem starts its turn in an area of this type of magic, it gains the HP listed in the parenthetical.\n*   **Slowed By** Any magic of this type that targets the golem causes it to be [[Conditions/Slowed|Slowed 1]] for 2d6 rounds instead of the usual effect. If the golem starts its turn in an area of this type of magic, it's slowed 1 for that round.\n*   **Vulnerable To** Each golem is vulnerable to one or more specific spells, with the effects described in its stat block."
 
   - name: "Quicken"
-    desc: "`pf2:0` (divine) **Frequency** Once per day\n**Trigger** The clay golem's turn begins. It can't trigger this free action on the first turn of combat.\n**Effect** The clay golem becomes [[Conditions/Quickened|Quickened]] for 1 minute."
+    desc: "`pf2:0` (divine) **Frequency** Once per day\n\n**Trigger** The clay golem's turn begins. It can't trigger this free action on the first turn of combat.\n* * *\n\n**Effect** The clay golem becomes [[Conditions/Quickened|Quickened]] for 1 minute."
 
   - name: "Vulnerable to Disintegrate"
-    desc: "  A [[Spells/Disintegrate|Disintegrate]] spell affects the golem but deals half the normal amount of damage and causes the golem to become [[Conditions/Slowed 1|Slowed 2]] for 1 round."
+    desc: "  A [[Spells/Disintegrate|Disintegrate]] spell affects the golem but deals half the normal amount of damage and causes the golem to become [[Conditions/Slowed|Slowed 2]] for 1 round."
 
 attacks:
   - name: ""
@@ -72,11 +74,17 @@ attacks:
     desc: "`pf2:1` Fist +24 (magical, reach 10 feet)\n__Damage__  2d10 + 12 bludgeoning plus cursed-wound"
 
   - name: "Berserk Slam"
-    desc: "`pf2:1`  **Requirements** The golem is berserk.\n**Effect** The clay golem Strikes with its fist at a -1 circumstance penalty. If it hits, it deals an additional 1d8 bludgeoning damage and knocks the target [[Conditions/Prone|Prone]]."
+    desc: "`pf2:1`  **Requirements** The golem is berserk.\n* * *\n\n**Effect** The clay golem Strikes with its fist at a -1 circumstance penalty. If it hits, it deals an additional 1d8 bludgeoning damage and knocks the target [[Conditions/Prone|Prone]]."
 
   - name: "Cursed Wound"
     desc: " (curse,divine) A creature hit by the clay golem's fist must succeed at a DC 29 Fortitude check save or be cursed until healed to its maximum HP. The cursed creature can't regain HP except via magic, and anyone [[Actions/Cast a Spell|Casting a Spell]] to heal the creature must succeed at a DC 29 counteract check or the healing has no effect. The golem's counteract rank is equal to its creature level."
  
+```
+
+```encounter-table
+name: Clay Golem
+creatures:
+  - 1: Clay Golem
 ```
 
 

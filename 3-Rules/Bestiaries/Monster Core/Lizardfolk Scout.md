@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.pathfinder-monster-core.Actor.V8w4iOwUMPqYnqVE"
 tags:
   - pf2e/creature/type/humanoid
   - pf2e/creature/type/lizardfolk
+  - pf2eMonster
   - pf2e/creature/level/1
   - remaster
 statblock: inline
@@ -26,8 +27,8 @@ level: "Creature 1"
 
 alignment: ""
 size: "Medium"
-trait_01: "humanoid"
-trait_02: "lizardfolk"
+trait_01: [[humanoid]]
+trait_02: [[lizardfolk]]
 modifier: 8
 perception:
   - name: "Perception"
@@ -70,7 +71,7 @@ attacks:
     desc: "  A lizardfolk scout can hold their breath for 150 rounds (15 minutes)."
 
   - name: "Giant Centipede Venom"
-    desc: " (poison) **Saving Throw** DC 14 Fortitude check\n* * *\n\n**Maximum Duration** 6 rounds\n\n**Stage 1** 1d4 poison damage (1 round)\n\n**Stage 2** 1d4 poison damage and [[Conditions/Off-Guard|Off-Guard]] (1 round)\n\n**Stage 3** 1d4 poison damage, [[Conditions/Clumsy 1|Clumsy 1]], and [[Conditions/Fatigued|Fatigued]] (1 round)"
+    desc: " (poison) **Saving Throw** DC 14 Fortitude check\n* * *\n\n**Maximum Duration** 6 rounds\n\n**Stage 1** 1d4 poison damage (1 round)\n\n**Stage 2** 1d4 poison damage and [[Conditions/Off-Guard|Off-Guard]] (1 round)\n\n**Stage 3** 1d4 poison damage, [[Conditions/Clumsy|Clumsy 1]], and [[Conditions/Fatigued|Fatigued]] (1 round)"
 
   - name: "Hidden Movement"
     desc: "  If the lizardfolk scout starts its turn [[Conditions/Hidden|Hidden]] from or undetected by a creature, that creature is [[Conditions/Off-Guard|Off-Guard]] against the scout's attacks until the end of the turn."
@@ -81,6 +82,12 @@ attacks:
   - name: "Terrain Advantage"
     desc: "  Non-lizardfolk creatures that are in difficult terrain or are in water and lack a swim Speed are [[Conditions/Off-Guard|Off-Guard]] to the lizardfolk defender."
  
+```
+
+```encounter-table
+name: Lizardfolk Scout
+creatures:
+  - 1: Lizardfolk Scout
 ```
 
 

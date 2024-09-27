@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/lawful
   - pf2e/creature/type/undead
   - pf2e/creature/type/unholy
+  - pf2eMonster
   - pf2e/creature/level/9
 statblock: inline
 name: "Frefferth"
@@ -23,13 +24,13 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #158: Sixty Feet Under"
 name: "Frefferth"
 level: "Creature 9"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Medium"
-trait_01: "evil"
-trait_02: "lawful"
-trait_03: "undead"
-trait_04: "unholy"
+trait_01: [[evil]]
+trait_02: [[lawful]]
+trait_03: [[undead]]
+trait_04: [[unholy]]
 modifier: 18
 perception:
   - name: "Perception"
@@ -60,10 +61,10 @@ abilities_mid:
     desc: "`pf2:r`  "
 
   - name: "[[Bestiary Ability Glossary/Frightful Presence|Frightful Presence]]"
-    desc: " (aura,emotion,fear,mental) 30 feet. DC 25 Will check\n"
+    desc: " (aura,emotion,fear,mental) 30 feet. DC 25 Will check\n\n* * *\n"
 
   - name: "Rejuvenation"
-    desc: " (divine) When Frefferth is destroyed, his body and items dissipate into shadowy nothingness and the knight re-forms after 1d4 days within the sarcophagus in area **D12**, fully healed.\nFrefferth can be trapped only by returning the [[Equipment/Chain of the Stilled Spirit|Chain of the Stilled Spirit]] to the sarcophagus (see areas **D12** and **D34**), in which case Frefferth's body dissipates, leaving his items in the spot where he was last slain."
+    desc: " (divine) When Frefferth is destroyed, his body and items dissipate into shadowy nothingness and the knight re-forms after 1d4 days within the sarcophagus in area **D12**, fully healed.\n\nFrefferth can be trapped only by returning the [[Equipment/Chain of the Stilled Spirit|Chain of the Stilled Spirit]] to the sarcophagus (see areas **D12** and **D34**), in which case Frefferth's body dissipates, leaving his items in the spot where he was last slain."
 
 attacks:
   - name: ""
@@ -71,24 +72,30 @@ attacks:
   - name: "Melee"
     desc: "`pf2:1` Alietta +21 (magical, two-hand d12)\n__Damage__  2d8 + 12 slashing plus head-hunter"
 
-  - name: "Melee"
+  - name: "Ranged"
     desc: "`pf2:1` Spear +20 (magical, thrown 20 ft.)\n__Damage__  1d6 + 12 piercing"
 
   - name: "Ranged"
     desc: "`pf2:1` Spear +19 (magical, thrown 20 ft.)\n__Damage__  1d6 + 12 piercing plus impaler"
 
   - name: "Head Hunter"
-    desc: "  Any slashing weapon a dullahan wields becomes [[Equipment/Keen|Keen]], and any hatchet it wields becomes [[Equipment/Returning|Returning]].\nIf the dullahan kills a creature with a critical hit using a slashing weapon, the target is decapitated as though the dullahan had used Reap on the target.\nThese effects remain only while the dullahan holds the weapon."
+    desc: "  Any slashing weapon a dullahan wields becomes [[Equipment/Keen|Keen]], and any hatchet it wields becomes [[Equipment/Returning|Returning]].\n\nIf the dullahan kills a creature with a critical hit using a slashing weapon, the target is decapitated as though the dullahan had used Reap on the target.\n\nThese effects remain only while the dullahan holds the weapon."
 
   - name: "Impaler"
-    desc: "  Whenever Frefferth damages a creature with a critical hit using a ranged piercing weapon, the weapon remains impaled in the victim's body.\nThe victim becomes [[Conditions/Clumsy 1|Clumsy 1]] as long as they are impaled; the impaling weapon can be removed by the affected creature or an adjacent ally as a 2-action activity that has the manipulate trait."
+    desc: "  Whenever Frefferth damages a creature with a critical hit using a ranged piercing weapon, the weapon remains impaled in the victim's body.\n\nThe victim becomes [[Conditions/Clumsy|Clumsy 1]] as long as they are impaled; the impaling weapon can be removed by the affected creature or an adjacent ally as a 2-action activity that has the manipulate trait."
 
   - name: "Reap"
-    desc: "`pf2:2`  Frefferth removes the head of a dead creature within reach.\nEach creature within the area of Frefferth's frightful presence must attempt a new save, even if they are temporarily immune."
+    desc: "`pf2:2`  Frefferth removes the head of a dead creature within reach.\n\nEach creature within the area of Frefferth's frightful presence must attempt a new save, even if they are temporarily immune."
 
   - name: "Summon Steed"
-    desc: "`pf2:2` (occult) Frefferth summons a [[Bestiary 1/Nightmare|Nightmare]].\nThis steed remains until it is slain, Frefferth [[Actions/Dismiss|Dismisses]] it, or Frefferth summons another steed."
+    desc: "`pf2:2` (occult) Frefferth summons a [[Bestiary 1/Nightmare|Nightmare]].\n\nThis steed remains until it is slain, Frefferth [[Actions/Dismiss|Dismisses]] it, or Frefferth summons another steed."
  
+```
+
+```encounter-table
+name: Frefferth
+creatures:
+  - 1: Frefferth
 ```
 
 

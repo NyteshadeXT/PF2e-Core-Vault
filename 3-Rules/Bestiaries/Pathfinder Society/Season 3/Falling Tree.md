@@ -4,6 +4,7 @@ obsidianUIMode: preview
 noteType: pf2eHazard
 tags:
   - environmental
+  - pf2eHazard
 
 source: Pathfinder Bounty #19: Grim Tidings
 aliases: "Compendium.pf2e.pfs-season-3-bestiary.Actor.ovNZDN5d2yYY8tqP" 
@@ -21,7 +22,7 @@ name: "Falling Tree"
 level: "Hazard 4"
 
 
-trait_01: "environmental"
+trait_01: [[environmental]]
 modifier: 15
 sourcebook: "_Pathfinder Bounty #19: Grim Tidings_"
 perception:
@@ -40,9 +41,15 @@ attacks:
   - name: ""
 
   - name: "Timber!"
-    desc: "`pf2:r` **Trigger** A living creature enters the area of collapse\n**Effect** The tree falls over, dealing 4d8 + 10 bludgeoning damage to all creatures in the area (DC 22 Reflex check)."
+    desc: "`pf2:r` **Trigger** A living creature enters the area of collapse\n* * *\n\n**Effect** The tree falls over, dealing 4d8+10 bludgeoning damage to all creatures in the area (DC 22 Reflex check)."
 
 
 
+```
+
+```encounter-table
+name: Falling Tree
+creatures:
+  - 1: Falling Tree
 ```
 

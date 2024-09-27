@@ -19,7 +19,7 @@ license: ORC
 
 
 
-The graveknight unleashes a 30-foot cone of energy. Creatures in the area take limited use area damage for a creature of the graveknight's level with a Reflex check based on a high DC of the graveknight's level.
+The graveknight unleashes a @Template\[cone|distance:30\] of energy. Creatures in the area take limited use area damage for a creature of the graveknight's level with a Reflex check based on a high DC of the graveknight's level.
 
 The graveknight can use this ability once every 1d4 rounds.
 

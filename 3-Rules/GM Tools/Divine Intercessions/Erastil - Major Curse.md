@@ -17,7 +17,7 @@ license: OGL
 
 
 
-**Major Curse** Erastil leaves you unable to have children (or otherwise reproduce or propagate if you do so in a different manner). This curse also affects your livestock, pets, and crops.
+Erastil leaves you unable to have children (or otherwise reproduce or propagate if you do so in a different manner). This curse also affects your livestock, pets, and crops.
 
 *Source: Pathfinder Lost Omens: Gods & Magic*
 *OGL*

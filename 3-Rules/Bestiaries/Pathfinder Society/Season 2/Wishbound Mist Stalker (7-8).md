@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/elemental
   - pf2e/creature/type/evil
   - pf2e/creature/type/water
+  - pf2eMonster
   - pf2e/creature/level/5
 statblock: inline
 name: "Wishbound Mist Stalker (7-8)"
@@ -23,13 +24,13 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Society Scenario #2-16: Freedom for Wishes"
 name: "Wishbound Mist Stalker (7-8)"
 level: "Creature 5"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Medium"
-trait_01: "amphibious"
-trait_02: "elemental"
-trait_03: "evil"
-trait_04: "water"
+trait_01: [[amphibious]]
+trait_02: [[elemental]]
+trait_03: [[evil]]
+trait_04: [[water]]
 modifier: 14
 perception:
   - name: "Perception"
@@ -68,7 +69,7 @@ attacks:
     desc: "`pf2:1` Tentacle +15 (finesse, reach 10 feet, sweep)\n__Damage__  2d8 + 6 bludgeoning plus grab"
 
   - name: "[[Bestiary Ability Glossary/Constrict|Constrict]]"
-    desc: "`pf2:1`  1d8 + 6 bludgeoning damage DC 21 Fortitude check, Escape DC 21\n"
+    desc: "`pf2:1`  1d8+6 bludgeoning damage DC 21 Fortitude check, Escape DC 21\n\n* * *\n"
 
   - name: "Solidify Mist"
     desc: "`pf2:1` (primal,water) The mist stalker makes its mist cloud congeal, causing the aura to be difficult terrain until the start of the mist stalker's next turn. In addition, the mist stalker can make the mist even thicker around a single Medium or smaller creature within the cloud. The creature must succeed at a DC 21 Reflex check save or become [[Conditions/Immobilized|Immobilized]] until it Escapes or it is no longer in the mist cloud's emanation."
@@ -76,6 +77,12 @@ attacks:
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
     desc: "`pf2:1`  "
  
+```
+
+```encounter-table
+name: Wishbound Mist Stalker (7-8)
+creatures:
+  - 1: Wishbound Mist Stalker (7-8)
 ```
 
 

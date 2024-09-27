@@ -15,7 +15,7 @@ license: OGL
 ---
 # Carver-cutter (Greater)
 ## Item 13
-### [[magical]][[sweep]][[Wood]]
+### [[3-Rules/Rule References/Magical]][[sweep]][[wood]]
 
 |  |  |
 | -- | -- |
@@ -40,7 +40,7 @@ Many of the experienced woodcarvers of the Plane of Wood learn to fight as well,
 
 **Frequency** once per hour
 
-**Effect** Make a Strike with the axe against a plant creature or a creature made primarily of wood. This Strike deals an additional 3d6 precision damage, and on a hit, the creature is [[Conditions/Clumsy 1|Clumsy 1]] for 1 minute.
+**Effect** Make a Strike with the axe against a plant creature or a creature made primarily of wood. This Strike deals an additional 3d6 precision damage, and on a hit, the creature is [[Conditions/Clumsy|Clumsy 1]] for 1 minute.
 
 *Source: Pathfinder Rage of Elements*
 *OGL*

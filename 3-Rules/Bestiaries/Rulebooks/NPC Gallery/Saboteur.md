@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/human
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/2
 statblock: inline
 name: "Saboteur"
@@ -25,9 +26,9 @@ level: "Creature 2"
 
 alignment: ""
 size: "Medium"
-trait_01: "evil"
-trait_02: "human"
-trait_03: "humanoid"
+trait_01: [[evil]]
+trait_02: [[human]]
+trait_03: [[humanoid]]
 modifier: 8
 perception:
   - name: "Perception"
@@ -35,7 +36,7 @@ perception:
 languages: "Common"
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +7, Athletics: +5, Crafting: +6 (+8 to Craft snares), Deception: +7, Diplomacy: +5, Engineering Lore: +8, Intimidation: +5, Society: +6, Stealth: +9, Survival: +6, Thievery: +9, Underworld Lore: +6"
+    desc: "Acrobatics: +7, Athletics: +5, Crafting: +6, Deception: +7, Diplomacy: +5, Intimidation: +5, Society: +6, Stealth: +9, Survival: +6, Thievery: +9, Engineering Lore: +8, Underworld Lore: +6"
 abilityMods: [1, 3, 1, 2, 2, 1]
 speed: 25 feet
 sourcebook: "_Pathfinder Gamemastery Guide_"
@@ -69,6 +70,12 @@ attacks:
   - name: "[[Bestiary Ability Glossary/Sneak Attack|Sneak Attack]]"
     desc: "  The saboteur deals an extra 1d6 precision damage to [[Conditions/Off-Guard|Off-Guard]] creatures."
  
+```
+
+```encounter-table
+name: Saboteur
+creatures:
+  - 1: Saboteur
 ```
 
 

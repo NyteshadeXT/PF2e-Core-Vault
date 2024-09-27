@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/amphibious
   - pf2e/creature/type/azarketi
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/7
   - remaster
 statblock: inline
@@ -20,15 +21,16 @@ license: ORC
 columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
+token: [[modules/pf2e-tokens-bestiaries/portraits/humanoid/aquatic/azarketi-explorer.webp| ]]
 source: "Pathfinder Monster Core"
 name: "Azarketi Tide Tamer"
 level: "Creature 7"
 
 alignment: ""
 size: "Medium"
-trait_01: "amphibious"
-trait_02: "azarketi"
-trait_03: "humanoid"
+trait_01: [[amphibious]]
+trait_02: [[azarketi]]
+trait_03: [[humanoid]]
 modifier: 15
 perception:
   - name: "Perception"
@@ -36,7 +38,7 @@ perception:
 languages: "Common, Alghollthu"
 skills:
   - name: "Skills"
-    desc: "Athletics: +15 (+17 to Swim), Intimidation: +15, Nature: +12, Stealth: +15 (+17 underwater), Survival: +14, Underwater Lore: +11"
+    desc: "Athletics: +15, Intimidation: +15, Nature: +12, Stealth: +15, Survival: +14, Underwater Lore: +11"
 abilityMods: [4, 4, 2, 0, 1, 2]
 speed: 25 feet,  swim 25 feet
 sourcebook: "_Pathfinder Monster Core_"
@@ -64,7 +66,7 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
+  - name: "Ranged"
     desc: "`pf2:1` Trident +18 (thrown 20 ft.)\n__Damage__  1d8 + 7 piercing"
 
   - name: "Ranged"
@@ -76,6 +78,12 @@ attacks:
   - name: "Aquatic Predator"
     desc: "  An azarketi deals 2d8 additional damage on a successful weapon Strike while they are underwater."
  
+```
+
+```encounter-table
+name: Azarketi Tide Tamer
+creatures:
+  - 1: Azarketi Tide Tamer
 ```
 
 

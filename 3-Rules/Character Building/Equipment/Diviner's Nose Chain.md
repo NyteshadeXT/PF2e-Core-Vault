@@ -10,7 +10,7 @@ license: OGL
 ---
 # Diviner's Nose Chain
 ## Item 9
-### [uncommon](uncommon "Uncommon Rarity Trait")[[magical]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[3-Rules/Rule References/Magical]]
 
 
 **Price** 650 gp; 

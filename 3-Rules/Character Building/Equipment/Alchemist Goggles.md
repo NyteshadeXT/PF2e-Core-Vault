@@ -6,12 +6,13 @@ tags:
   - trait/invested
   - trait/magical
   - trait/common
+  - remaster
 aliases: "Compendium.pf2e.equipment-srd.Item.7JVgLiNTAs4clEW8"
-license: OGL
+license: ORC
 ---
 # Alchemist Goggles
 ## Item 4
-### [[invested]][[magical]]
+### [[invested]][[3-Rules/Rule References/Magical]]
 
 
 **Price** 100 gp; 
@@ -20,9 +21,9 @@ license: OGL
 
 These brass goggles are engraved with flame patterns and have thick, heavy lenses.
 
-While worn, they give you a +1 item bonus to Crafting checks to [[Actions/Craft|Craft]] alchemical items and a +1 item bonus to attack rolls with alchemical bombs.
+While worn, they give you a +1 item bonus to Crafting checks to [[Actions/Craft|Craft]] alchemical items. When making Strikes with alchemical bombs, you ignore lesser cover.
 
-You can also ignore lesser cover when making Strikes with alchemical bombs.
+If your Strike with an alchemical bomb fails (but doesn't critically fail), you gain a +1 item bonus to the splash damage the target of the Strike takes.
 
-*Source: Pathfinder Core Rulebook*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

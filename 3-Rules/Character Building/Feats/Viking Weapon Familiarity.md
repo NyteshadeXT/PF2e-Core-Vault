@@ -19,9 +19,9 @@ license: OGL
 
 **Prerequisites** Viking Dedication
 * * *
-From childhood, you have been exposed to traditional viking weapons, and you soon learned to handle them in battle. Now, you can raid proudly alongside your fellows.
+From childhood, you have been exposed to traditional viking combat techniques, and you soon learned to handle axe, sword, and shield in battle. Now, you can raid proudly alongside your fellows. You gain the [[Feats/Shield Block|Shield Block]] reaction. Additionally, you have familiarity with the [[Equipment/Battle Axe|Battle Axe]], [[Equipment/Hatchet|Hatchet]], [[Equipment/Longsword|Longsword]], [[Equipment/Shield Boss|Shield Boss]], [[Equipment/Shield Spikes|Shield Spikes]], and [[Equipment/Shortsword|Shortsword]]—for the purposes of proficiency, you treat any of these weapons as simple weapons.
 
-You are trained with the [[Equipment/Battle Axe|Battle Axe]], [[Equipment/Hatchet|Hatchet]], [[Equipment/Longsword|Longsword]], and [[Equipment/Shortsword|Shortsword]]. In addition, you gain the [[Feats/Shield Block|Shield Block]] reaction.
+At 5th level, whenever you get a critical hit with one of these weapons, you get its critical specialization effect.
 
 *Source: Pathfinder Advanced Player's Guide*
 *OGL*

@@ -6,8 +6,9 @@ tags:
   - trait/archetype
   - trait/common
   - category/class
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.RlhvppSmQRqL2RUe"
-license: OGL
+license: ORC
 ---
 # Quick Fix
 ## Feat 4
@@ -23,5 +24,5 @@ You can attach a talisman using only a bit of glue and some string. You gain the
 
 You gain the ability to [[Actions/Affix a Talisman|Affix a Talisman]] as a 3-action activity from that feat at 12th level, regardless of your Crafting proficiency.
 
-*Source: Pathfinder Advanced Player's Guide*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

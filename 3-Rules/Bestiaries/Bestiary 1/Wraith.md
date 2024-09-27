@@ -11,6 +11,7 @@ tags:
   - pf2e/creature/type/undead
   - pf2e/creature/type/unholy
   - pf2e/creature/type/wraith
+  - pf2eMonster
   - pf2e/creature/level/6
 statblock: inline
 name: "Wraith"
@@ -29,12 +30,12 @@ level: "Creature 6"
 
 alignment: ""
 size: "Medium"
-trait_01: "evil"
-trait_02: "incorporeal"
-trait_03: "lawful"
-trait_04: "undead"
-trait_05: "unholy"
-trait_06: "wraith"
+trait_01: [[evil]]
+trait_02: [[incorporeal]]
+trait_03: [[lawful]]
+trait_04: [[undead]]
+trait_05: [[unholy]]
+trait_06: [[wraith]]
 modifier: 14
 perception:
   - name: "Perception"
@@ -64,7 +65,7 @@ abilities_mid:
     desc: "`pf2:r`  "
 
   - name: "Sunlight Powerlessness"
-    desc: "  A wraith caught in sunlight is [[Conditions/Stunned 1|Stunned 2]] and [[Conditions/Clumsy 1|Clumsy 2]]."
+    desc: "  A wraith caught in sunlight is [[Conditions/Stunned|Stunned 2]] and [[Conditions/Clumsy|Clumsy 2]]."
 
 attacks:
   - name: ""
@@ -73,11 +74,17 @@ attacks:
     desc: "`pf2:1` Spectral Hand +17 (finesse)\n__Damage__  2d8 + 5 void plus drain-life"
 
   - name: "Drain Life"
-    desc: " (divine) When the wraith damages a living creature with its spectral hand Strike, the wraith gains 5 temporary Hit Points and the creature must succeed at a DC 23 Fortitude check save or become [[Conditions/Drained 1|Drained 1]]. Further damage dealt by the wraith increases the amount of drain by 1 on a failed save to a maximum of drained 4."
+    desc: " (divine) When the wraith damages a living creature with its spectral hand Strike, the wraith gains 5 temporary Hit Points and the creature must succeed at a DC 23 Fortitude check save or become [[Conditions/Drained|Drained 1]]. Further damage dealt by the wraith increases the amount of drain by 1 on a failed save to a maximum of drained 4."
 
   - name: "Wraith Spawn"
-    desc: " (divine) A living humanoid slain by a wraith's spectral hand Strike rises as a [[Bestiary 1/Wraith|Wraith Spawn]] after 1d4 rounds. This wraith spawn is under the command of the wraith that killed it. It doesn't have drain life or wraith spawn and becomes [[Conditions/Clumsy 1|Clumsy 2]] for as long as it is a wraith spawn. If the creator of the wraith spawn dies, the wraith spawn becomes a full-fledged, autonomous wraith; it regains its free will, gains Wraith Spawn, and is no longer clumsy."
+    desc: " (divine) A living humanoid slain by a wraith's spectral hand Strike rises as a [[Bestiary 1/Wraith|Wraith Spawn]] after 1d4 rounds. This wraith spawn is under the command of the wraith that killed it. It doesn't have drain life or wraith spawn and becomes [[Conditions/Clumsy|Clumsy 2]] for as long as it is a wraith spawn. If the creator of the wraith spawn dies, the wraith spawn becomes a full-fledged, autonomous wraith; it regains its free will, gains Wraith Spawn, and is no longer clumsy."
  
+```
+
+```encounter-table
+name: Wraith
+creatures:
+  - 1: Wraith
 ```
 
 

@@ -16,7 +16,7 @@ license: OGL
 
 
 
-**Moderate Curse:** You are plagued with ill luck just when fortune is most needed. You must always roll flat checks twice and use the worse result. This is a misfortune effect.
+You are plagued with ill luck just when fortune is most needed. You must always roll flat checks twice and use the worse result. This is a misfortune effect.
 
 *Source: Pathfinder Lost Omens: Gods & Magic*
 *OGL*

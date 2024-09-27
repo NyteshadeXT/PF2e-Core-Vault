@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.pfs-season-5-bestiary.Actor.8IJilQMumSAPhsqP"
 tags:
   - pf2e/creature/type/construct
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/3
 statblock: inline
 name: "The Upset Warden (1-2)"
@@ -24,12 +25,13 @@ level: "Creature 3"
 
 alignment: ""
 size: "Large"
-trait_01: "construct"
-trait_02: "humanoid"
+trait_01: [[construct]]
+trait_02: [[humanoid]]
 modifier: 10
 perception:
   - name: "Perception"
     desc: "+10; "
+languages: ""
 skills:
   - name: "Skills"
     desc: "Diplomacy: +10, Intimidation: +9, Occultism: +10"
@@ -62,6 +64,12 @@ attacks:
   - name: "Occult Focus Spells"
     desc: "1 Focus Point, DC 20, attack +12; __2nd __  _[[Spells/Needle of Vengeance|Needle of Vengeance]]_\n__Cantrips__  __(2nd)__ _[[Spells/Evil Eye|Evil Eye]]_"
  
+```
+
+```encounter-table
+name: The Upset Warden (1-2)
+creatures:
+  - 1: The Upset Warden (1-2)
 ```
 
 

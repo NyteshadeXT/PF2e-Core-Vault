@@ -6,6 +6,7 @@ cssClasses: pf2e
 aliases: "Compendium.pf2e.gatewalkers-bestiary.Actor.CBCMrAi44SYguevM" 
 tags:
   - pf2e/creature/type/animal
+  - pf2eMonster
   - pf2e/creature/level/2
 statblock: inline
 name: "Desa-Desa"
@@ -20,14 +21,15 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #187: The Seventh Arch"
 name: "Desa-Desa"
 level: "Creature 2"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Small"
-trait_01: "animal"
+trait_01: [[animal]]
 modifier: 10
 perception:
   - name: "Perception"
     desc: "+10; Low-Light Vision"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Acrobatics: +8, Athletics: +7, Stealth: +9, Survival: +8"
@@ -55,14 +57,20 @@ attacks:
     desc: "`pf2:1` Bite +11 ()\n__Damage__  1d4 + 2 piercing plus bubble-venom"
 
   - name: "Bubble Venom"
-    desc: "  A creature bit by a desa-desa breaks out in large, painful blisters which expand and pop as water in the victim's body turns into volatile gasses. Magical healing of any kind counteracts the bubble venom\n**Saving Throw** DC 18 Fortitude check\n**Maximum Duration** 6 rounds\n**Stage 1** weakness to fire 2 and 1d6 piercing (1 round)\n**Stage 2** weakness to fire 4 and 2d6 piercing (1 round)"
+    desc: "  A creature bit by a desa-desa breaks out in large, painful blisters which expand and pop as water in the victim's body turns into volatile gasses. Magical healing of any kind counteracts the bubble venom\n\n**Saving Throw** DC 18 Fortitude check\n\n**Maximum Duration** 6 rounds\n\n**Stage 1** weakness to fire 2 and 1d6 piercing (1 round)\n\n**Stage 2** weakness to fire 4 and 2d6 piercing (1 round)"
 
   - name: "Fire Blast"
-    desc: "`pf2:2` (arcane,fire) The desa-desa releases a burst of explosive gasses in all directions, dealing 3d6 fire to all creatures in a 5-foot emanation. The desa-desa can't use Fire Blast again for 1d4 rounds."
+    desc: "`pf2:2` (arcane,fire) The desa-desa releases a burst of explosive gasses in all directions, dealing 3d6 fire to all creatures in a @Template[emanation|distance:5]. The desa-desa can't use Fire Blast again for 1d4 rounds."
 
   - name: "Volatile Gasses"
     desc: "  Whenever a desa-desa takes electricity damage, it must attempt a DC 18 Fortitude check save. On a failure, the sparks cause the desa-desa to immediately use Fire Blast if it can, and the desa-desa becomes off-guard for 1 round."
  
+```
+
+```encounter-table
+name: Desa-Desa
+creatures:
+  - 1: Desa-Desa
 ```
 
 

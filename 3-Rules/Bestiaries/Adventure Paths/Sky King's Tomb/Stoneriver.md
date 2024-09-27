@@ -10,6 +10,7 @@ tags:
   - pf2e/creature/type/good
   - pf2e/creature/type/holy
   - pf2e/creature/type/lawful
+  - pf2eMonster
   - pf2e/creature/level/12
 statblock: inline
 name: "Stoneriver"
@@ -24,18 +25,19 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #195: Heavy is the Crown"
 name: "Stoneriver"
 level: "Creature 12"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "grg"
-trait_01: "celestial"
-trait_02: "fire"
-trait_03: "good"
-trait_04: "holy"
-trait_05: "lawful"
+trait_01: [[celestial]]
+trait_02: [[fire]]
+trait_03: [[good]]
+trait_04: [[holy]]
+trait_05: [[lawful]]
 modifier: 23
 perception:
   - name: "Perception"
     desc: "+23; Darkvision, Scent (Imprecise) 60 Feet"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Acrobatics: +20, Athletics: +26, Diplomacy: +21, Intimidation: +21, Stealth: +20, Survival: +23, Torag Lore: +24"
@@ -56,7 +58,7 @@ abilities_top:
 
 abilities_mid:
   - name: ""
-  - name: "Bolster Torag’s Chosen"
+  - name: "Bolster Torag's Chosen"
     desc: " (aura,divine) 20 feet. Dwarves and creatures that worship Torag in the area gain a +1 status bonus to AC and Will saves."
 
   - name: "[[Bestiary Ability Glossary/Retributive Strike|Retributive Strike]]"
@@ -81,14 +83,20 @@ attacks:
     desc: " (divine) Whenever Stoneriver deals damage with Swallow Whole, he consumes one of the swallowed creature's magical effects, as [[Spells/Dispel Magic|Dispel Magic]] with a +21 counteract modifier."
 
   - name: "Measure Soul"
-    desc: "`pf2:1` (concentrate,divine,mental) Stoneriver mentally pries through the mind of a creature within 60 feet, dealing 10d8 mental damage (DC 29 Will check save). Stoneriver can choose to make this damage nonlethal or choose not to damage the creature at all. For 1 minute, Stoneriver gains a +1 circumstance bonus to attack rolls, damage rolls, and Perception checks against that creature. If the creature is evil and it failed its save, the creature is additionally [[Conditions/Frightened 1|Frightened 2]] ([[Conditions/Frightened 1|Frightened 4]] on a critical failure). Stoneriver can't use Measure Soul again for 1d4 rounds."
+    desc: "`pf2:1` (concentrate,divine,mental) Stoneriver mentally pries through the mind of a creature within 60 feet, dealing 10d8 mental damage (DC 29 Will check save). Stoneriver can choose to make this damage nonlethal or choose not to damage the creature at all. For 1 minute, Stoneriver gains a +1 circumstance bonus to attack rolls, damage rolls, and Perception checks against that creature. If the creature is evil and it failed its save, the creature is additionally [[Conditions/Frightened|Frightened 2]] ([[Conditions/Frightened|Frightened 4]] on a critical failure). Stoneriver can't use Measure Soul again for 1d4 rounds."
 
   - name: "Rock Tunneler"
     desc: "  Stoneriver can burrow through solid stone, leaving behind a tunnel if he desires."
 
   - name: "[[Bestiary Ability Glossary/Swallow Whole|Swallow Whole]]"
-    desc: "`pf2:1` (attack) Large, 6d6 bludgeoning plus 2d6 fire and devour magic, Rupture 40\n"
+    desc: "`pf2:1` (attack) Large, 6d6 bludgeoning plus 2d6 fire and devour magic, Rupture 40\n\n* * *\n"
  
+```
+
+```encounter-table
+name: Stoneriver
+creatures:
+  - 1: Stoneriver
 ```
 
 

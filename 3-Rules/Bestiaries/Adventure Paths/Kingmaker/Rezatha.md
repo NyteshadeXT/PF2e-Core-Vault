@@ -6,6 +6,7 @@ cssClasses: pf2e
 aliases: "Compendium.pf2e.kingmaker-bestiary.Actor.tq87VRZjkGBmW8kf" 
 tags:
   - pf2e/creature/type/beast
+  - pf2eMonster
   - pf2e/creature/level/17
 statblock: inline
 name: "Rezatha"
@@ -20,15 +21,15 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Kingmaker"
 name: "Rezatha"
 level: "Creature 17"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "huge"
-trait_01: "beast"
+trait_01: [[beast]]
 modifier: 28
 perception:
   - name: "Perception"
     desc: "+28; Darkvision, Tremorsense (Imprecise) 60 Feet"
-languages: "Jotun"
+languages: "Jotun; (can&#x27;t speak any language)"
 skills:
   - name: "Skills"
     desc: "Athletics: +34, Stealth: +29"
@@ -62,13 +63,13 @@ attacks:
     desc: "`pf2:1` Tail +34 (fire, reach 15 feet)\n__Damage__  3d6 + 17 bludgeoning 2d6 fire"
 
   - name: "Breath Weapon"
-    desc: "`pf2:2` (fire,primal) Rezatha unleashes a gout of flame that deals 18d6 fire damage in a 30-foot cone (DC 38 Reflex check). It can't use Breath Weapon again for 1d4 rounds."
+    desc: "`pf2:2` (fire,primal) Rezatha unleashes a gout of flame that deals 18d6 fire damage in a @Template[cone|distance:30] (DC 38 Reflex check). It can't use Breath Weapon again for 1d4 rounds."
 
   - name: "Ice Tunneler"
     desc: "  A remorhaz can leave a tunnel when it burrows through ice or snow, and it usually does."
 
   - name: "[[Bestiary Ability Glossary/Swallow Whole|Swallow Whole]]"
-    desc: "`pf2:1` (attack) Large, 2d10+10 bludgeoning damage plus 3d6 fire damage, Rupture 12\n"
+    desc: "`pf2:1` (attack) Large, 2d10+10 bludgeoning damage plus 3d6 fire damage, Rupture 12\n\n* * *\n"
 
   - name: "Thrash"
     desc: "`pf2:2`  Rezatha Strikes once with its jaws and once with its tail, each targeting a different creature. Each attack counts toward its multiple attack penalty, but the multiple attack penalty doesn't increase until after all the attacks have been made."
@@ -76,6 +77,12 @@ attacks:
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
     desc: "`pf2:1`  "
  
+```
+
+```encounter-table
+name: Rezatha
+creatures:
+  - 1: Rezatha
 ```
 
 

@@ -36,7 +36,7 @@ _The Eclipse_ represents self-doubt and loss of purpose, as well as a loss of fa
 
 * * *
 
-**Effect** You produce an aura of doubt that overwhelms all foes in a 30-foot emanation and reduces bright light in that area to dim light, as if the region were under an eclipse. The triggering creature's critical success is reduced to a regular success. All further saving throws or Strikes attempted by enemies within the emanation suffer a –2 item penalty; saving throws or Strikes attempted by the triggering enemy suffer a –3 penalty instead. You can sustain this aura of doubt for up to 1 minute.
+**Effect** You produce an aura of doubt that overwhelms all foes in a @Template\[emanation|distance:30\] and reduces bright light in that area to dim light, as if the region were under an eclipse. The triggering creature's critical success is reduced to a regular success. All further saving throws or Strikes attempted by enemies within the emanation suffer a –2 item penalty; saving throws or Strikes attempted by the triggering enemy suffer a –3 penalty instead. You can sustain this aura of doubt for up to 1 minute.
 
 *Source: Pathfinder #192: Worst of All Possible Worlds*
 *OGL*

@@ -7,8 +7,9 @@ tags:
   - trait/dedication
   - trait/common
   - category/class
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.JuEUNrvsxOYdXeYL"
-license: OGL
+license: ORC
 ---
 # Viking Dedication
 ## Feat 2
@@ -20,9 +21,11 @@ license: OGL
 
 **Prerequisites** trained in Athletics
 * * *
-Vikings spend long periods of time at sea, only to leap from their boats at a moment's notice, charge through the surf, and take their enemies by storm. You're trained in Sailing Lore. When moving through water using your land Speed, you ignore difficult terrain resulting from shallow water, such as in bogs or on beaches. In addition, if you roll a success for your Athletics check to [[Actions/Swim|Swim]], you get a critical success instead.
+Vikings spend long periods of time at sea, only to leap from their boats at a moment's notice, charge through the surf, and take their enemies by storm. You gain the Additional Lore general feat for Sailing Lore and Warfare Lore.
 
-**Special** You can't select another dedication feat until you have gained two other feats from the [[PF2e Journals/Archetypes/Viking|Viking]] archetype.
+When using your land Speed, you ignore difficult terrain from shallow water, such as in bogs or on beaches. In addition, if you roll a success on an Athletics check to Swim, you get a critical success instead.
 
-*Source: Pathfinder Advanced Player's Guide*
-*OGL*
+[[PF2e Journals/Archetypes/Viking|Viking]]
+
+*Source: Pathfinder Player Core 2*
+*ORC*

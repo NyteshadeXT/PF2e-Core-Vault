@@ -34,11 +34,11 @@ Concentrated hemlock is a particularly deadly toxin that halts muscle action-inc
 
 **Maximum Duration** 60 minutes
 
-**Stage 1** 16d6 poison damage and [[Conditions/Enfeebled 1|Enfeebled 2]] (10 minutes)
+**Stage 1** 16d6 poison damage and [[Conditions/Enfeebled|Enfeebled 2]] (10 minutes)
 
-**Stage 2** 17d6 poison damage and [[Conditions/Enfeebled 1|Enfeebled 3]] (10 minutes)
+**Stage 2** 17d6 poison damage and [[Conditions/Enfeebled|Enfeebled 3]] (10 minutes)
 
-**Stage 3** 16d6 poison damage and [[Conditions/Enfeebled 1|Enfeebled 4]] (10 minutes)
+**Stage 3** 16d6 poison damage and [[Conditions/Enfeebled|Enfeebled 4]] (10 minutes)
 
 *Source: Pathfinder GM Core*
 *ORC*

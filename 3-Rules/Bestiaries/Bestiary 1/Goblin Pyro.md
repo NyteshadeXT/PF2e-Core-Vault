@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/goblin
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/1
 statblock: inline
 name: "Goblin Pyro"
@@ -27,10 +28,10 @@ level: "Creature 1"
 
 alignment: ""
 size: "Small"
-trait_01: "chaotic"
-trait_02: "evil"
-trait_03: "goblin"
-trait_04: "humanoid"
+trait_01: [[chaotic]]
+trait_02: [[evil]]
+trait_03: [[goblin]]
+trait_04: [[humanoid]]
 modifier: 4
 perception:
   - name: "Perception"
@@ -38,7 +39,7 @@ perception:
 languages: "Common, Goblin"
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +7, Fire Lore: +7, Stealth: +7"
+    desc: "Acrobatics: +7, Stealth: +7, Fire Lore: +7"
 abilityMods: [0, 4, 2, 0, -1, 3]
 speed: 25 feet
 sourcebook: "_Pathfinder Bestiary_"
@@ -58,7 +59,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Goblin Scuttle"
-    desc: "`pf2:r`  **Trigger** A goblin ally ends a move action adjacent to the goblin.\n**Effect** The goblin [[Actions/Step|Steps]]."
+    desc: "`pf2:r`  **Trigger** A goblin ally ends a move action adjacent to the goblin pyro.\n* * *\n\n**Effect** The goblin pyro [[Actions/Step|Steps]]."
 
 attacks:
   - name: ""
@@ -69,6 +70,12 @@ attacks:
   - name: "Arcane Spontaneous Spells"
     desc: "DC 16, attack +6; __1st __ (3 slots) _[[Spells/Breathe Fire|Burning Hands]]_, _[[Spells/Grease|Grease]]_\n__Cantrips__  __(1st)__ _[[Spells/Light|Light]]_, _[[Spells/Telekinetic Hand|Mage Hand]]_, _[[Spells/Produce Flame|Produce Flame]]_, _[[Spells/Tangle Vine|Tanglefoot]]_"
  
+```
+
+```encounter-table
+name: Goblin Pyro
+creatures:
+  - 1: Goblin Pyro
 ```
 
 

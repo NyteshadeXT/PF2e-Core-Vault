@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/undead
   - pf2e/creature/type/unholy
+  - pf2eMonster
   - pf2e/creature/level/16
 statblock: inline
 name: "Ecorche"
@@ -26,10 +27,10 @@ level: "Creature 16"
 
 alignment: ""
 size: "Medium"
-trait_01: "chaotic"
-trait_02: "evil"
-trait_03: "undead"
-trait_04: "unholy"
+trait_01: [[chaotic]]
+trait_02: [[evil]]
+trait_03: [[undead]]
+trait_04: [[unholy]]
 modifier: 27
 perception:
   - name: "Perception"
@@ -37,7 +38,7 @@ perception:
 languages: "Common, Necril"
 skills:
   - name: "Skills"
-    desc: "Athletics: +33, Deception: +31, Intimidation: +27 (+31 when skinless), Stealth: +28"
+    desc: "Athletics: +33, Deception: +31, Intimidation: +31, Stealth: +28"
 abilityMods: [9, 6, 7, 0, 5, 5]
 speed: 25 feet
 sourcebook: "_Pathfinder Book of the Dead_"
@@ -62,17 +63,23 @@ attacks:
     desc: "`pf2:1` Claw +33 (agile)\n__Damage__  3d8 + 17 slashing"
 
   - name: "Flaying Flurry"
-    desc: "`pf2:2`  The ecorche attempts two claw Strikes against the same target. If both hit and deal damage, it attempts to pull the skin off its target. It attempts an Athletics check check against the enemy's Fortitude DC.\n**Critical Success** The ecorche fully pulls the target's skin off its body. The creature takes 4d8 bleed, and it's [[Conditions/Frightened 1|Frightened 4]] and [[Conditions/Stunned 1|Stunned 4]]. The bleed damage can't end naturally, only ending if the creature regains at least 75 HP or regains at least 10 HP from regeneration.\n**Success** The target takes 2d8 bleed and is [[Conditions/Stunned 1|Stunned 1]]."
+    desc: "`pf2:2`  The ecorche attempts two claw Strikes against the same target. If both hit and deal damage, it attempts to pull the skin off its target. It attempts an Athletics check check against the enemy's Fortitude DC.\n* * *\n\n**Critical Success** The ecorche fully pulls the target's skin off its body. The creature takes 4d8 bleed, and it's [[Conditions/Frightened|Frightened 4]] and [[Conditions/Stunned|Stunned 4]]. The bleed damage can't end naturally, only ending if the creature regains at least 75 HP or regains at least 10 HP from regeneration.\n\n**Success** The target takes 2d8 bleed and is [[Conditions/Stunned|Stunned 1]]."
 
   - name: "Muscular Leap"
-    desc: "`pf2:1`  The ecorche over-stresses its leg muscles for a massive jump. It loses 20 HP and Leaps up to 120 feet in any direction. If its next action is a Strike or Flaying Flurry, it doesn't fall until after that action."
+    desc: "`pf2:1`  The ecorche over-stresses its leg muscles for a massive jump. It loses 20 untyped HP and Leaps up to 120 feet in any direction. If its next action is a Strike or Flaying Flurry, it doesn't fall until after that action."
 
   - name: "Tear Skin"
-    desc: "`pf2:1` (emotion,fear,manipulate,mental,visual) **Requirements** The ecorche is wearing skin\n**Effect** The ecorche destroys the skin it's currently wearing. The ecorche reverts to its true appearance and size, and anyone within 120 feet who witnesses this must succeed at a DC 37 Will check save or become [[Conditions/Frightened 1|Frightened 2]] ([[Conditions/Frightened 1|Frightened 4]] on a critical failure). Regardless of the results of their saving throws, the creatures are temporarily immune for 24 hours."
+    desc: "`pf2:1` (emotion,fear,manipulate,mental,visual) **Requirements** The ecorche is wearing skin\n* * *\n\n**Effect** The ecorche destroys the skin it's currently wearing. The ecorche reverts to its true appearance and size, and anyone within 120 feet who witnesses this must succeed at a DC 37 Will check save or become [[Conditions/Frightened|Frightened 2]] ([[Conditions/Frightened|Frightened 4]] on a critical failure). Regardless of the results of their saving throws, the creatures are temporarily immune for 24 hours."
 
   - name: "Wear Skin"
-    desc: "`pf2:1` (manipulate) **Requirements** The ecorche is holding the stolen skin of a Small, Medium, or Large creature and isn't already wearing a skin\n**Effect** The ecorche wears the skin as a disguise. It assumes the creature's size, appearance, and voice. Wearing Skin counts as creating a disguise for the [[Actions/Impersonate|Impersonate]] use of Deception. The ecorche's transformation automatically defeats Perception DCs to determine whether it's a member of the ancestry or creature type into which it transformed, and the ecorche gains a +4 status bonus to its Deception DC to prevent others from seeing through its disguise.\nWearing a skin gives the ecorche a +2 item bonus to AC and 75 temporary Hit Points. If the ecorche takes more than 50 slashing damage from a single source, the skin becomes broken. When broken, the skin no longer provides any of these benefits (any remaining temporary HP are immediately lost) but can still be used for Tear Skin."
+    desc: "`pf2:1` (manipulate) **Requirements** The ecorche is holding the stolen skin of a Small, Medium, or Large creature and isn't already wearing a skin\n* * *\n\n**Effect** The ecorche wears the skin as a disguise. It assumes the creature's size, appearance, and voice. Wearing Skin counts as creating a disguise for the [[Actions/Impersonate|Impersonate]] use of Deception. The ecorche's transformation automatically defeats Perception DCs to determine whether it's a member of the ancestry or creature type into which it transformed, and the ecorche gains a +4 status bonus to its Deception DC to prevent others from seeing through its disguise.\n\nWearing a skin gives the ecorche a +2 item bonus to AC and 75 temporary Hit Points. If the ecorche takes more than 50 slashing damage from a single source, the skin becomes broken. When broken, the skin no longer provides any of these benefits (any remaining temporary HP are immediately lost) but can still be used for Tear Skin."
  
+```
+
+```encounter-table
+name: Ecorche
+creatures:
+  - 1: Ecorche
 ```
 
 

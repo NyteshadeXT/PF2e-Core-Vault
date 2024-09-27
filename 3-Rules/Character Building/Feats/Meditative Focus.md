@@ -6,8 +6,9 @@ tags:
   - trait/monk
   - trait/common
   - category/class
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.fcFrxvqbIX6k71os"
-license: OGL
+license: ORC
 ---
 # Meditative Focus
 ## Feat 12
@@ -17,9 +18,9 @@ license: OGL
 
 
 
-**Prerequisites** ki spells
+**Prerequisites** Qi Spells
 * * *
-Your meditation is so effective that you can achieve a deep focus. If you have spent at least 2 Focus Points since the last time you Refocused, you recover 2 Focus Points when you Refocus instead of 1.
+Your meditation is so effective that you can achieve a deep focus with the world around you. When you Refocus, you regain all your Focus Points instead of 1.
 
-*Source: Pathfinder Core Rulebook*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

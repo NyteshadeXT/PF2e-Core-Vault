@@ -6,8 +6,9 @@ tags:
   - trait/ratfolk
   - trait/common
   - category/ancestry
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.wTT8ieLvfWsZZaWT"
-license: OGL
+license: ORC
 ---
 # Tinkering Fingers
 ## Feat 1
@@ -18,7 +19,7 @@ license: OGL
 
 
 
-You're good with your hands and can quickly improvise a fix for broken or damaged equipment. You're trained in Crafting. If you would automatically become trained in Crafting (from your background or class, for example), you instead become trained in a skill of your choice. You can [[Actions/Repair|Repair]] an item without using a repair kit without taking the -2 circumstance penalty, improvising tools from whatever you have at hand.
+You're trained in Crafting. If you are trained in Crafting from another source (from your background or class, for example), you instead become trained in a skill of your choice. You can [[Actions/Repair|Repair]] an item without using a repair toolkit without taking the –2 circumstance penalty, improvising tools from whatever you have at hand. You gain a +1 circumstance bonus to Crafting checks to Repair an item when you have a repair toolkit.
 
-*Source: Pathfinder Advanced Player's Guide*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

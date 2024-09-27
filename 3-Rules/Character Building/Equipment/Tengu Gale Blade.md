@@ -10,8 +10,9 @@ tags:
   - trait/tengu
   - trait/uncommon
   - category/martial
+  - remaster
 aliases: "Compendium.pf2e.equipment-srd.Item.6qJkA6fnHHiF4CEV"
-license: OGL
+license: ORC
 ---
 # Tengu Gale Blade
 ## Item 0
@@ -26,7 +27,7 @@ license: OGL
 
 
 
-This fan-shaped sword, designed by members of the tengu ancestry, has five broad blades that join at its hilt. Tengu sailors also use gale blades as makeshift weather vanes, as the sword spins to show the wind's direction when loosely held aloft.
+This fan-shaped sword designed by tengu smiths has five broad blades that join at its hilt. Tengu sailors use them as makeshift weather vanes, for the sword spins in the wind's direction when loosely held aloft.
 
-*Source: Pathfinder Advanced Player's Guide*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

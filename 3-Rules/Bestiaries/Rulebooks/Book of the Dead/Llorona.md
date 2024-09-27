@@ -10,6 +10,7 @@ tags:
   - pf2e/creature/type/spirit
   - pf2e/creature/type/undead
   - pf2e/creature/type/unholy
+  - pf2eMonster
   - pf2e/creature/level/12
 statblock: inline
 name: "Llorona"
@@ -27,11 +28,11 @@ level: "Creature 12"
 
 alignment: ""
 size: "Medium"
-trait_01: "evil"
-trait_02: "incorporeal"
-trait_03: "spirit"
-trait_04: "undead"
-trait_05: "unholy"
+trait_01: [[evil]]
+trait_02: [[incorporeal]]
+trait_03: [[spirit]]
+trait_04: [[undead]]
+trait_05: [[unholy]]
 modifier: 20
 perception:
   - name: "Perception"
@@ -67,20 +68,26 @@ attacks:
     desc: "`pf2:1` Ghostly Hand +25 (agile, finesse, magical)\n__Damage__  2d6 + 11 void plus funereal-touch,grab"
 
   - name: "[[Bestiary Ability Glossary/Constrict|Constrict]]"
-    desc: "`pf2:1`  2d6 + 12 void DC 31 Fortitude check\n"
+    desc: "`pf2:1`  2d6+12 void DC 31 Fortitude check\n\n* * *\n"
 
   - name: "Funereal Touch"
-    desc: "  A creature touched by a llorona must attempt a DC 29 Fortitude check save. On a failure, the creature becomes [[Conditions/Drained 1|Drained 1]] (drained 2 on a critical failure) or increases their drained value by 1 (2 on a critical failure), up to a maximum of drained 4. Every time a creature becomes drained in this way, the llorona gains 10 temporary Hit Points for 1 hour."
+    desc: "  A creature touched by a llorona must attempt a DC 29 Fortitude check save. On a failure, the creature becomes [[Conditions/Drained|Drained 1]] (drained 2 on a critical failure) or increases their drained value by 1 (2 on a critical failure), up to a maximum of drained 4. Every time a creature becomes drained in this way, the llorona gains 10 temporary Hit Points for 1 hour."
 
   - name: "Ghostly Grasp"
     desc: "  A llorona can [[Actions/Grapple|Grapple]] corporeal creatures despite being incorporeal. The llorona uses their Athletics check to Grapple as normal but can't use Athletics for other actions that require corporeal contact, like Force Open or Trip."
 
   - name: "Wail"
-    desc: "`pf2:2` (auditory,concentrate,incapacitation,mental,occult) The llorona unleashes a somber wail. Each living creature within 120 feet must attempt a DC 31 Will check save. Regardless of its result, the creature is then temporarily immune for 24 hours.\n**Critical Success** The creature is unaffected.\n**Success** The creature is [[Conditions/Stunned 1|Stunned 1]].\n**Failure** The creature is [[Conditions/Fascinated|Fascinated]] with the nearest body of water and compelled to move toward the water and drown itself. If there's no nearby body of water, the creature instead remains still. The creature can attempt another DC 31 Will check save at the end of each of its turns. On a success, the creature is no longer fascinated. Once the fascinated condition ends, the creature becomes stunned 1.\n**Critical Failure** As failure, except the creature receives another Will save only at the end of a round in which it's submerged in water."
+    desc: "`pf2:2` (auditory,concentrate,incapacitation,mental,occult) The llorona unleashes a somber wail. Each living creature within 120 feet must attempt a DC 31 Will check save. Regardless of its result, the creature is then temporarily immune for 24 hours.\n* * *\n\n**Critical Success** The creature is unaffected.\n\n**Success** The creature is [[Conditions/Stunned|Stunned 1]].\n\n**Failure** The creature is [[Conditions/Fascinated|Fascinated]] with the nearest body of water and compelled to move toward the water and drown itself. If there's no nearby body of water, the creature instead remains still. The creature can attempt another DC 31 Will check save at the end of each of its turns. On a success, the creature is no longer fascinated. Once the fascinated condition ends, the creature becomes stunned 1.\n\n**Critical Failure** As failure, except the creature receives another Will save only at the end of a round in which it's submerged in water."
 
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
     desc: "`pf2:1`  "
  
+```
+
+```encounter-table
+name: Llorona
+creatures:
+  - 1: Llorona
 ```
 
 

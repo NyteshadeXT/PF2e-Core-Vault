@@ -22,7 +22,7 @@ license: ORC
 
 30 feet. The lich is surrounded by an aura of death, drawing forth souls to be consumed by the lich's constant hunger.
 
-Living creatures in the emanation take a -2 status penalty to saves against fear and death effects. In addition, any creature that starts its turn in the area gains the [[Conditions/Doomed 1|Doomed 1]] condition unless it succeeds at a Will check save against the lich's spell DC-4.
+Living creatures in the emanation take a -2 status penalty to saves against fear and death effects. In addition, any creature that starts its turn in the area gains the [[Conditions/Doomed|Doomed 1]] condition unless it succeeds at a Will check save against the lich's spell DC-4.
 
 [[Bestiary Effects/Effect_ Void Shroud|Effect: Void Shroud]]
 

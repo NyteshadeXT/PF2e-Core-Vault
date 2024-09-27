@@ -4,6 +4,7 @@ title: "Light Armor Mastery"
 cssclasses: pf2e,pf2e-spell
 tags:
   - trait/investigator
+  - trait/kineticist
   - trait/rogue
   - trait/swashbuckler
   - trait/common
@@ -14,7 +15,7 @@ license: ORC
 ---
 # Light Armor Mastery
 ## Feat 19
-### [[investigator]][[rogue]][[swashbuckler]]
+### [[investigator]][[kineticist]][[3-Rules/trait_reference/rogue]][[swashbuckler]]
 
 **Category** classfeature; 
 

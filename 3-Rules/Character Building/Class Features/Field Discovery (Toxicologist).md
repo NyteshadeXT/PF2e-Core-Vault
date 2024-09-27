@@ -6,21 +6,20 @@ tags:
   - trait/alchemist
   - trait/common
   - category/classfeature
+  - remaster
 aliases: "Compendium.pf2e.classfeatures.Item.6zo2PJGYoig7nFpR"
-license: OGL
+license: ORC
 ---
 # Field Discovery (Toxicologist)
 ## Feat 5
-### [[alchemist]]
+### [[3-Rules/trait_reference/alchemist]]
 
 **Category** classfeature; 
 
 
 
 
-You learn a special discovery depending on your field.
+You have handled enough poisons to become inured to their effects. You gain poison resistance equal to half your level.
 
-When using [[Class Features/Advanced Alchemy|Advanced Alchemy]] to make poisons during your daily preparations, you can spend one batch of [[Class Features/Infused Reagents|reagents]] to create three poisons in any combination, instead of just two of the same poison.
-
-*Source: Pathfinder Core Rulebook*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

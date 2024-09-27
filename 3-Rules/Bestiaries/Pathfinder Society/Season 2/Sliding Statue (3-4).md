@@ -5,6 +5,7 @@ noteType: pf2eHazard
 tags:
   - magical
   - trap
+  - pf2eHazard
   - complex
 source: Pathfinder Society Scenario #2-09: The Seven Secrets of Dacilane Academy
 aliases: "Compendium.pf2e.pfs-season-2-bestiary.Actor.WisQuxckwd6XU5MF" 
@@ -22,14 +23,14 @@ name: "Sliding Statue (3-4)"
 level: "Hazard 3"
 
 trait_06: "Complex"
-trait_01: "magical"
-trait_02: "trap"
+trait_01: [[magical]]
+trait_02: [[trap]]
 modifier: 10
 sourcebook: "_Pathfinder Society Scenario #2-09: The Seven Secrets of Dacilane Academy_"
 ac: 19
 armorclass:
   - name: AC
-    desc: "19; __Fort__ +12, __Ref__ +6, __Will__ +0"
+    desc: "19; __Fort__ +12, __Ref__ +6, "
 hp: 44
 health:
   - name: ""
@@ -54,15 +55,21 @@ attacks:
     desc: "passive "
 
   - name: "Slide"
-    desc: "`pf2:r` **Trigger** A creature approaches within 10 feet of the trap.\n**Effect** The statue Strides up to 30 feet in the direction of the triggering creature. It deals 1d10+6 damage (DC 20 Reflex check save) to each creature whose space it enters."
+    desc: "`pf2:r` **Trigger** A creature approaches within 10 feet of the trap.\n* * *\n\n**Effect** The statue Strides up to 30 feet in the direction of the triggering creature. It deals 1d10+6 damage (DC 20 Reflex check save) to each creature whose space it enters."
   - name: "Melee"
     desc: "Crushing Feet +12 () "
 
   - name: "Trample"
-    desc: "action Medium or smaller, crushing feet DC 20 Reflex check\nThe monster Strides up to double its Speed and can move through the spaces of creatures of the listed size, Trampling each creature whose space it enters. The monster can attempt to Trample the same creature only once in a single use of Trample. The monster deals the damage of the listed Strike, but trampled creatures can attempt a basic Reflex save at the listed DC (no damage on a critical success, half damage on a success, double damage on a critical failure)."
+    desc: "action Medium or smaller, crushing feet DC 20 Reflex check\n* * *\n\nThe monster Strides up to double its Speed and can move through the spaces of creatures of the listed size, Trampling each creature whose space it enters. The monster can attempt to Trample the same creature only once in a single use of Trample. The monster deals the damage of the listed Strike, but trampled creatures can attempt a basic Reflex save at the listed DC (no damage on a critical success, half damage on a success, double damage on a critical failure)."
 
   - name: "Routine"
     desc: "(3 actions) The trap uses its three actions for its Trample activity."
 
+```
+
+```encounter-table
+name: Sliding Statue (3-4)
+creatures:
+  - 1: Sliding Statue (3-4)
 ```
 

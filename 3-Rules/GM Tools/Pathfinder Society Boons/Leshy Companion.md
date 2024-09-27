@@ -16,16 +16,15 @@ license: OGL
 
 
 
-
-**\[Ally\]**
-
-**Prerequisites** Tier 2 with the Verdant Wheel
-
-**Cost** 4 Fame
+**Prerequisites** Liked by Verdant Wheel
+* * *
+**Cost**: 4 AcP
 
 * * *
 
-**Effect** You can select the [[Feats/Leshy Familiar|Leshy Familiar]] feat as a 2nd level class feat, even if you are not a Druid. You can ignore the prerequisite of belonging to the [[Class Features/Leaf Order|Leaf Order]].
+You can select the Leshy Familiar feat as a 2nd level class feat, even if you are not a druid. You can ignore the prerequisite of belonging to the leaf order.
+
+When you apply this boon, you can retrain your 2nd level class feat to Leshy Companion without spending Downtime.
 
 *Source: *
 *OGL*

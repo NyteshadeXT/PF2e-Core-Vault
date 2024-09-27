@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/undead
   - pf2e/creature/type/unholy
+  - pf2eMonster
   - pf2e/creature/level/8
 statblock: inline
 name: "Bodak"
@@ -24,13 +25,13 @@ token: [[modules/pf2e-tokens-bestiaries/portraits/undead/bodak.webp| ]]
 source: "Pathfinder Bestiary 2"
 name: "Bodak"
 level: "Creature 8"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Medium"
-trait_01: "chaotic"
-trait_02: "evil"
-trait_03: "undead"
-trait_04: "unholy"
+trait_01: [[chaotic]]
+trait_02: [[evil]]
+trait_03: [[undead]]
+trait_04: [[unholy]]
 modifier: 17
 perception:
   - name: "Perception"
@@ -57,10 +58,10 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Draining Glance"
-    desc: "`pf2:r` (aura,death,occult,visual) **Trigger** A living creature within 30 feet that the bodak can perceive with its [[Bestiary Ability Glossary/Lifesense|Lifesense]] starts its turn\n**Effect** The target must attempt a DC 23 Fortitude check save. If it fails, the bodak regains 5 Hit Points and the target becomes [[Conditions/Drained 1|Drained 1]]."
+    desc: "`pf2:r` (aura,death,occult,visual) **Trigger** A living creature within 30 feet that the bodak can perceive with its [[Bestiary Ability Glossary/Lifesense|Lifesense]] starts its turn\n* * *\n\n**Effect** The target must attempt a DC 23 Fortitude check save. If it fails, the bodak regains 5 Hit Points and the target becomes [[Conditions/Drained|Drained 1]]."
 
   - name: "Sunlight Vulnerability"
-    desc: " (death) If exposed to direct sunlight, the bodak can't use actions with the death trait and it becomes [[Conditions/Slowed 1|Slowed 1]]. The slowed value increases by 1 each time the bodak ends its turn in sunlight. If the bodak loses all its actions this way, it is destroyed."
+    desc: " (death) If exposed to direct sunlight, the bodak can't use actions with the death trait and it becomes [[Conditions/Slowed|Slowed 1]]. The slowed value increases by 1 each time the bodak ends its turn in sunlight. If the bodak loses all its actions this way, it is destroyed."
 
 attacks:
   - name: ""
@@ -69,11 +70,17 @@ attacks:
     desc: "`pf2:1` Fist +18 (agile, finesse)\n__Damage__  2d6 + 6 bludgeoning 1d6 void"
 
   - name: "Bodak Spawn"
-    desc: " (occult) Any humanoid who dies while [[Conditions/Drained 1|Drained]] or [[Conditions/Doomed 1|Doomed]] by a bodak rises as an autonomous bodak 24 hours after its death."
+    desc: " (occult) Any humanoid who dies while [[Conditions/Drained|Drained]] or [[Conditions/Doomed|Doomed]] by a bodak rises as an autonomous bodak 24 hours after its death."
 
   - name: "Death Gaze"
-    desc: "`pf2:2` (death,occult,visual) The bodak stares at a living creature within 30 feet that it can sense with its [[Bestiary Ability Glossary/Lifesense|Lifesense]]. That creature must attempt a DC 26 Fortitude check save. If the target becomes [[Conditions/Drained 1|Drained]], the bodak gains a number of temporary Hit Points equal to 5 times the value of the drained condition the target gained.\nMultiple exposures to this ability can increase a creature's drained condition to a maximum of 4. If the bodak is destroyed, any [[Conditions/Doomed 1|Doomed]] condition a creature has gained from Death Gaze are removed.\n**Critical Success** The creature is unaffected.\n**Success** The creature is [[Conditions/Drained 1|Drained 1]].\n**Failure** The creature is [[Conditions/Doomed 1|Doomed 1]] and [[Conditions/Drained 1|Drained 2]].\n**Critical Failure** The creature is doomed 1 and [[Conditions/Drained 1|Drained 4]]."
+    desc: "`pf2:2` (death,occult,visual) The bodak stares at a living creature within 30 feet that it can sense with its [[Bestiary Ability Glossary/Lifesense|Lifesense]]. That creature must attempt a DC 26 Fortitude check save. If the target becomes [[Conditions/Drained|Drained]], the bodak gains a number of temporary Hit Points equal to 5 times the value of the drained condition the target gained.\n\nMultiple exposures to this ability can increase a creature's drained condition to a maximum of 4. If the bodak is destroyed, any [[Conditions/Doomed|Doomed]] condition a creature has gained from Death Gaze are removed.\n* * *\n\n**Critical Success** The creature is unaffected.\n\n**Success** The creature is [[Conditions/Drained|Drained 1]].\n\n**Failure** The creature is [[Conditions/Doomed|Doomed 1]] and [[Conditions/Drained|Drained 2]].\n\n**Critical Failure** The creature is doomed 1 and [[Conditions/Drained|Drained 4]]."
  
+```
+
+```encounter-table
+name: Bodak
+creatures:
+  - 1: Bodak
 ```
 
 

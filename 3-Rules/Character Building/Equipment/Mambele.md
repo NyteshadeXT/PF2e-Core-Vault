@@ -9,8 +9,9 @@ tags:
   - trait/thrown-20
   - trait/uncommon
   - category/martial
+  - remaster
 aliases: "Compendium.pf2e.equipment-srd.Item.MeA0g9xvWCbGxf2g"
-license: OGL
+license: ORC
 ---
 # Mambele
 ## Item 0
@@ -25,7 +26,7 @@ license: OGL
 
 
 
-Also known as a hunga munga or danisco, this hybrid knife-axe consists of a hilt and a blade that curves backward toward the wielder. The curve of the blade is such that after a victim has been struck by a mambele, more damage is dealt as the weapon is extracted from the victim's body.
+Also known as a hunga munga or danisco, this knife-axe hybrid consists of a hilt and blade that curves backward toward the wielder. The blade's curve is such that, after a mambele has struck a victim, more damage is dealt as the weapon is extracted from the victim's body.
 
-*Source: Pathfinder Lost Omens: Gods & Magic*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

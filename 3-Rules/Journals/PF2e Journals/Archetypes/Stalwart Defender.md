@@ -70,7 +70,7 @@ Stone never becomes queasy, so why should you? You gain a +1 circumstance bonus 
 
 * * *
 
-You lean into your foe's attack, using the weight of your body and armor to send them reeling. Attempt an Athletics check against the creature's Reflex DC. On a success, the target becomes [[Conditions/Clumsy 1|Clumsy 1]] until the end of its next turn ([[Conditions/Clumsy 1|Clumsy 2]] on a critical success). If you are anchored, you gain a +2 circumstance bonus to this check.
+You lean into your foe's attack, using the weight of your body and armor to send them reeling. Attempt an Athletics check against the creature's Reflex DC. On a success, the target becomes [[Conditions/Clumsy|Clumsy 1]] until the end of its next turn ([[Conditions/Clumsy|Clumsy 2]] on a critical success). If you are anchored, you gain a +2 circumstance bonus to this check.
 
 ## [[Feats/Rupture Stomp|Rupture Stomp]] Feat 8
 
@@ -82,7 +82,7 @@ You lean into your foe's attack, using the weight of your body and armor to send
 
 * * *
 
-Every dwarf knows that the rock they walk upon can be either a best friend or a treacherous path. With a heavy impact of your armored heel, you crack the ground underneath you. The ground within a 10-foot emanation becomes difficult terrain. If you are a master or better in the armor you are wearing, this becomes greater difficult terrain. The cracked ground settles and reverts to normal terrain after 1 minute.
+Every dwarf knows that the rock they walk upon can be either a best friend or a treacherous path. With a heavy impact of your armored heel, you crack the ground underneath you. The ground within a @Template\[emanation|distance:10\] becomes difficult terrain. If you are a master or better in the armor you are wearing, this becomes greater difficult terrain. The cracked ground settles and reverts to normal terrain after 1 minute.
 
 * * *
 

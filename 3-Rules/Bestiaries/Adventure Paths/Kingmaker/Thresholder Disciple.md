@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/human
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/14
 statblock: inline
 name: "Thresholder Disciple"
@@ -23,13 +24,13 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Kingmaker"
 name: "Thresholder Disciple"
 level: "Creature 14"
-rare_03: "Rare"
+rare_03: [[Rare]]
 alignment: ""
 size: "Medium"
-trait_01: "chaotic"
-trait_02: "evil"
-trait_03: "human"
-trait_04: "humanoid"
+trait_01: [[chaotic]]
+trait_02: [[evil]]
+trait_03: [[human]]
+trait_04: [[humanoid]]
 modifier: 26
 perception:
   - name: "Perception"
@@ -37,7 +38,7 @@ perception:
 languages: "Aklo, Hallit"
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +27, Athletics: +28, Intimidation: +26 (+28 to Demoralize), Religion: +25, Stealth: +25, Yog-Sothoth Lore: +24"
+    desc: "Acrobatics: +27, Athletics: +28, Intimidation: +26, Religion: +25, Stealth: +25, Yog-Sothoth Lore: +24"
 abilityMods: [5, 5, 2, 0, 4, 2]
 speed: 40 feet
 sourcebook: "_Pathfinder Kingmaker_"
@@ -66,7 +67,7 @@ abilities_mid:
     desc: "  The disciple gains a +4 circumstance bonus to AC against reactions triggered by their movement."
 
   - name: "Outside of Time"
-    desc: "  The Thresholder Disciple exists outside of time; they don't age, don't need food or drink to survive, and can't be [[Conditions/Quickened|Quickened]] or [[Conditions/Slowed 1|Slowed]] unless they choose to be."
+    desc: "  The Thresholder Disciple exists outside of time; they don't age, don't need food or drink to survive, and can't be [[Conditions/Quickened|Quickened]] or [[Conditions/Slowed|Slowed]] unless they choose to be."
 
 attacks:
   - name: ""
@@ -81,17 +82,23 @@ attacks:
     desc: "`pf2:1` Shuriken +28 (agile, reload 0, thrown 20 ft.)\n__Damage__  3d6 mental 1d4 + 11 piercing"
 
   - name: "Flurry of Blows"
-    desc: "`pf2:1` (flourish) **Frequency** Once per turn\n**Effect** The disciple makes two unarmed Strikes. If both hit the same creature, combine their damages for the purposes of resistances and weaknesses. The disciple's multiple attack penalty applies normally to these Strikes."
+    desc: "`pf2:1` (flourish) **Frequency** Once per turn\n* * *\n\n**Effect** The disciple makes two unarmed Strikes. If both hit the same creature, combine their damages for the purposes of resistances and weaknesses. The disciple's multiple attack penalty applies normally to these Strikes."
 
   - name: "Lurker Stance"
-    desc: "`pf2:1` (stance) The disciple takes the stance of the Lurker at the Threshold, full of menace and danger. The disciple can make lurker claw unarmed attacks. These deal 1d12 slashing damage; are in the brawling group; and have the parry, forceful, and unarmed traits. While in this stance, if the disciple succeeds or critically succeeds at a check to [[Actions/Demoralize|Demoralize]] a target, the target must succeed at a DC 34 Will check saving throw or be [[Conditions/Stupefied 1|Stupefied 1]] ([[Conditions/Stupefied 1|Stupefied 3]] on a critical failure) for 1 minute."
+    desc: "`pf2:1` (stance) The disciple takes the stance of the Lurker at the Threshold, full of menace and danger. The disciple can make lurker claw unarmed attacks. These deal 1d12 slashing damage; are in the brawling group; and have the parry, forceful, and unarmed traits. While in this stance, if the disciple succeeds or critically succeeds at a check to [[Actions/Demoralize|Demoralize]] a target, the target must succeed at a DC 34 Will check saving throw or be [[Conditions/Stupefied|Stupefied 1]] ([[Conditions/Stupefied|Stupefied 3]] on a critical failure) for 1 minute."
 
   - name: "Ominous Mien"
-    desc: "`pf2:1`  **Requirements** The disciple is in Lurker Stance\n**Effect** The disciple gains a +2 circumstance bonus to Intimidation checks and their [[Actions/Demoralize|Demoralize]] attempts don't take a penalty for not speaking the target's language and don't cause the target to become temporarily immune. These effects last until the end of the disciple's next turn."
+    desc: "`pf2:1`  **Requirements** The disciple is in Lurker Stance\n* * *\n\n**Effect** The disciple gains a +2 circumstance bonus to Intimidation checks and their [[Actions/Demoralize|Demoralize]] attempts don't take a penalty for not speaking the target's language and don't cause the target to become temporarily immune. These effects last until the end of the disciple's next turn."
 
   - name: "Temporal Strikes"
     desc: "  The disciple's Strikes force the creature hit to endure a deluge of unfamiliar memories from a combination of past lives and parallel existences, causing an additional 3d6 mental damage with a successful hit."
  
+```
+
+```encounter-table
+name: Thresholder Disciple
+creatures:
+  - 1: Thresholder Disciple
 ```
 
 

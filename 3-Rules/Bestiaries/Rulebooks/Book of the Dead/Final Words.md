@@ -4,6 +4,7 @@ obsidianUIMode: preview
 noteType: pf2eHazard
 tags:
   - haunt
+  - pf2eHazard
 
 source: Pathfinder Book of the Dead
 aliases: "Compendium.pf2e.book-of-the-dead-bestiary.Actor.tqTcM8VqFMyuQ0hY" 
@@ -21,13 +22,13 @@ name: "Final Words"
 level: "Hazard 4"
 
 
-trait_01: "haunt"
+trait_01: [[haunt]]
 modifier: 12
 sourcebook: "_Pathfinder Book of the Dead_"
 ac: 10
 armorclass:
   - name: AC
-    desc: "10; __Fort__ +0, __Ref__ +0, __Will__ +0"
+    desc: "10; "
 hp: 10
 health:
   - name: ""
@@ -49,10 +50,16 @@ attacks:
   - name: ""
 
   - name: "Carve in Flesh"
-    desc: "`pf2:r` (divine, visual) **Trigger** A creature reads the letter\n**Effect** The haunt deals 2d8 + 11 slashing damage to the triggering creature as the words are carved into its flesh (DC 21 Will check). On a failure, the creature takes 2d8 bleed."
+    desc: "`pf2:r` (divine, visual) **Trigger** A creature reads the letter\n* * *\n\n**Effect** The haunt deals 2d8+11 slashing damage to the triggering creature as the words are carved into its flesh (DC 21 Will check). On a failure, the creature takes 2d8 bleed."
 
 
   - name: "Reset"
     desc: "1 minute"
+```
+
+```encounter-table
+name: Final Words
+creatures:
+  - 1: Final Words
 ```
 

@@ -10,6 +10,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/fey
   - pf2e/creature/type/water
+  - pf2eMonster
   - pf2e/creature/level/5
 statblock: inline
 name: "Kvernknurr"
@@ -24,14 +25,14 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #188: They Watched the Stars"
 name: "Kvernknurr"
 level: "Creature 5"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Large"
-trait_01: "amphibious"
-trait_02: "chaotic"
-trait_03: "evil"
-trait_04: "fey"
-trait_05: "water"
+trait_01: [[amphibious]]
+trait_02: [[chaotic]]
+trait_03: [[evil]]
+trait_04: [[fey]]
+trait_05: [[water]]
 modifier: 12
 perception:
   - name: "Perception"
@@ -39,7 +40,7 @@ perception:
 languages: "Common, Fey, Jotun"
 skills:
   - name: "Skills"
-    desc: "Athletics: +13, Intimidation: +13, Stealth: +10 (+12 in Water)"
+    desc: "Athletics: +13, Intimidation: +13, Stealth: +10"
 abilityMods: [5, 2, 4, -1, 1, -2]
 speed: 30 feet
 sourcebook: "_Pathfinder #188: They Watched the Stars_"
@@ -58,7 +59,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Swallow Projectile"
-    desc: "`pf2:r`  **Trigger** A creature the kvernknurr can see targets it with a ranged Strike\n**Requirements** The kvernknurr doesn't have a creature [[Conditions/Grabbed|Grabbed]] in its jaws\n**Effect** The kvernknurr attempts to swallow the projectile, gaining a +4 circumstance bonus to AC against the triggering attack. If the attack misses, the kvernknurr consumes the projectile harmlessly."
+    desc: "`pf2:r`  **Trigger** A creature the kvernknurr can see targets it with a ranged Strike\n\n**Requirements** The kvernknurr doesn't have a creature [[Conditions/Grabbed|Grabbed]] in its jaws\n* * *\n\n**Effect** The kvernknurr attempts to swallow the projectile, gaining a +4 circumstance bonus to AC against the triggering attack. If the attack misses, the kvernknurr consumes the projectile harmlessly."
 
 attacks:
   - name: ""
@@ -70,14 +71,20 @@ attacks:
     desc: "`pf2:1` Fist +14 (agile, reach 10 feet)\n__Damage__  2d4 + 8 bludgeoning"
 
   - name: "Frightening Bellow"
-    desc: "`pf2:2` (auditory,emotion,fear,mental) **Requirements** The kvernknurr doesn't have a creature [[Conditions/Grabbed|Grabbed]] in its jaws\n**Effect** The kvernknurr lets out a deep-throated shout to scare away its foes. Each non-kvernknurr creature within 60 feet must attempt a DC 20 Will check save, and then they are temporarily immune to that kvenknurr's Frightening Bellow for 24 hours.\n**Critical Success** The creature is unafected.\n**Success** The creature is [[Conditions/Frightened 1|Frightened 1]].\n**Failure** The creature is [[Conditions/Frightened 1|Frightened 2]].\n**Critical Failure** The creature is frightened 2 and is feeing as long as it remains frightened."
+    desc: "`pf2:2` (auditory,emotion,fear,mental) **Requirements** The kvernknurr doesn't have a creature [[Conditions/Grabbed|Grabbed]] in its jaws\n* * *\n\n**Effect** The kvernknurr lets out a deep-throated shout to scare away its foes. Each non-kvernknurr creature within 60 feet must attempt a DC 20 Will check save, and then they are temporarily immune to that kvenknurr's Frightening Bellow for 24 hours.\n* * *\n\n**Critical Success** The creature is unafected.\n\n**Success** The creature is [[Conditions/Frightened|Frightened 1]].\n\n**Failure** The creature is [[Conditions/Frightened|Frightened 2]].\n\n**Critical Failure** The creature is frightened 2 and is feeing as long as it remains frightened."
 
   - name: "[[Bestiary Ability Glossary/Swallow Whole|Swallow Whole]]"
-    desc: "`pf2:1` (attack) Medium, 1d6 + 5 bludgeoning, Rupture 15\n"
+    desc: "`pf2:1` (attack) Medium, 1d6+5 bludgeoning, Rupture 15\n\n* * *\n"
 
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
     desc: "`pf2:1`  "
  
+```
+
+```encounter-table
+name: Kvernknurr
+creatures:
+  - 1: Kvernknurr
 ```
 
 

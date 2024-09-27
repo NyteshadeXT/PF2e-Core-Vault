@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/chaotic
   - pf2e/creature/type/evil
   - pf2e/creature/type/fey
+  - pf2eMonster
   - pf2e/creature/level/10
 statblock: inline
 name: "Brughadatch"
@@ -26,10 +27,10 @@ level: "Creature 10"
 
 alignment: ""
 size: "Medium"
-trait_01: "amphibious"
-trait_02: "chaotic"
-trait_03: "evil"
-trait_04: "fey"
+trait_01: [[amphibious]]
+trait_02: [[chaotic]]
+trait_03: [[evil]]
+trait_04: [[fey]]
 modifier: 19
 perception:
   - name: "Perception"
@@ -68,14 +69,20 @@ attacks:
     desc: "DC 28, attack +22; __4th __  _[[Spells/Charm|Charm (At-Will)]]_, _[[Spells/Confusion|Confusion]]_; __3rd __  _[[Spells/Enthrall|Enthrall (x3)]]_; __2nd __  _[[Spells/Faerie Fire|Faerie Fire]]_, _[[Spells/Laughing Fit|Hideous Laughter]]_; __1st __  _[[Spells/Fear|Fear (At-Will)]]_\n__Cantrips__  __(4th)__ _[[Spells/Detect Magic|Detect Magic]]_, _[[Spells/Produce Flame|Produce Flame]]_"
 
   - name: "Deceitful Feast"
-    desc: " (illusion) The brughadatch conjures a decadent, enticing feast void of nutritional substance. This conjuration takes 1 minute and lasts for 24 hours. For each item of illusory food a creature eats, it must attempt a DC 29 Will check save.\n**Critical Success** The creature sees through the illusion and becomes immune to the effects of Deceitful Feast for 24 hours.\n**Success** The creature doesn't see through the illusion but is unaffected by the food.\n**Failure** The creature takes a -1 circumstance penalty to Will saves against any of the brughadatch's spells or abilities. The penalty increases with each failed save, to a maximum of -5.\n**Critical Failure** As failure, plus for 1 hour, the creature's attitude becomes helpful to the brughadatch, and the creature can't use hostile actions against them.\n[[Bestiary Effects/Effect_ Deceitful Feast (Failure)|Effect: Deceitful Feast (Failure)]]"
+    desc: " (illusion) The brughadatch conjures a decadent, enticing feast void of nutritional substance. This conjuration takes 1 minute and lasts for 24 hours. For each item of illusory food a creature eats, it must attempt a DC 29 Will check save.\n* * *\n\n**Critical Success** The creature sees through the illusion and becomes immune to the effects of Deceitful Feast for 24 hours.\n\n**Success** The creature doesn't see through the illusion but is unaffected by the food.\n\n**Failure** The creature takes a -1 circumstance penalty to Will saves against any of the brughadatch's spells or abilities. The penalty increases with each failed save, to a maximum of -5.\n\n**Critical Failure** As failure, plus for 1 hour, the creature's attitude becomes helpful to the brughadatch, and the creature can't use hostile actions against them.\n\n[[Bestiary Effects/Effect_ Deceitful Feast (Failure)|Effect: Deceitful Feast (Failure)]]"
 
   - name: "Psychic Sip"
-    desc: "`pf2:1`  **Requirements** Targets must have critically failed a save against a brughadatch's Deceitful Feast or charm innate spell\n**Frequency** once per round\n**Effect** The brughadatch feasts on the souls of the creatures they've tricked. They target up to five creatures within 30 feet and feast on their ambient brainpower, dealing 4d10 mental damage (DC 26 Will check save) to each creature. Unless a target succeeds at the Will save, this damage does not end the [[Spells/Charm|Charm]] effect or the effect of Deceitful Feast as a hostile action normally would."
+    desc: "`pf2:1`  **Requirements** Targets must have critically failed a save against a brughadatch's Deceitful Feast or charm innate spell\n\n**Frequency** once per round\n* * *\n\n**Effect** The brughadatch feasts on the souls of the creatures they've tricked. They target up to five creatures within 30 feet and feast on their ambient brainpower, dealing 4d10 mental damage (DC 26 Will check save) to each creature. Unless a target succeeds at the Will save, this damage does not end the [[Spells/Charm|Charm]] effect or the effect of Deceitful Feast as a hostile action normally would."
 
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
     desc: "`pf2:1`  "
  
+```
+
+```encounter-table
+name: Brughadatch
+creatures:
+  - 1: Brughadatch
 ```
 
 

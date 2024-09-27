@@ -7,8 +7,9 @@ tags:
   - trait/fortune
   - trait/common
   - category/class
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.nx2nB10rypAuspAa"
-license: OGL
+license: ORC
 ---
 # Acquired Tolerance `pf2:r`
 ## Feat 8
@@ -24,11 +25,7 @@ license: OGL
 
 * * *
 
-A small amount of poison, taken at nonlethal doses, can help the body build up a resistance against a more deadly dosage. Reroll the triggering check and use the second result.
+A small amount of poison, taken at nonlethal doses, can help the body build up resistance against a more deadly dosage. Reroll the triggering check and use the second result. Once you use Acquired Tolerance, you can continue to use it against the same type of poison that day, but you can't use it against a different type of poison until after you make your next daily preparations. For instance, if you used the reaction on a save against [[Equipment/Giant Scorpion Venom|Giant Scorpion Venom]], you could use it again against giant scorpion venom even if it came from a different source, but you couldn't use it against [[Equipment/Wyvern Poison|Wyvern Poison]].
 
-Once you use Acquired Tolerance, you can continue to use it against the same type of poison that day, but you can't use it against a different type of poison until after you make your next daily preparations.
-
-For instance, if you used the reaction on a save against [[Equipment/Giant Scorpion Venom|Giant Scorpion Venom]], you could use it again against giant scorpion venom even if it came from a different source, but you couldn't use it against [[Equipment/Nettleweed Residue|Nettleweed Residue]], [[Equipment/Lich Dust|Lich Dust]], or another poison.
-
-*Source: Pathfinder Advanced Player's Guide*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

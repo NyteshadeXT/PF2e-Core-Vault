@@ -12,7 +12,7 @@ license: OGL
 ---
 # Clockwork Cloak
 ## Item 18
-### [uncommon](uncommon "Uncommon Rarity Trait")[[clockwork]][[invested]][[magical]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[clockwork]][[invested]][[3-Rules/Rule References/Magical]]
 
 
 **Price** 20000 gp; 

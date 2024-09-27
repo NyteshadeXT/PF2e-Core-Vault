@@ -5,6 +5,7 @@ noteType: pf2eHazard
 tags:
   - magical
   - trap
+  - pf2eHazard
   - complex
 source: Pathfinder #152: Legacy of the Lost God
 aliases: "Compendium.pf2e.extinction-curse-bestiary.Actor.1HYH5BgFGtFxVMpc" 
@@ -22,8 +23,8 @@ name: "Krooth Summoning Rune"
 level: "Hazard 8"
 
 trait_06: "Complex"
-trait_01: "magical"
-trait_02: "trap"
+trait_01: [[magical]]
+trait_02: [[trap]]
 modifier: 14
 sourcebook: "_Pathfinder #152: Legacy of the Lost God_"
 perception:
@@ -42,10 +43,16 @@ attacks:
   - name: ""
 
   - name: "Summon Monster"
-    desc: "`pf2:r` (arcane, summon) **Trigger** A non-xulgath, non-demon creature that isn't carrying a religious symbol of Zevgavizeb crosses from the north part of the hall to the south part of the hall\n**Effect** The trap summons a [[Bestiary 1/Krooth|Krooth]]. The krooth rolls initiative and remains for 2d6 rounds, after which the spell ends and the krooth disappears. The krooth also disappears if someone disables the trap before the duration expires. Unlike most summoned creatures, the krooth can use 3 actions each round and can use reactions."
+    desc: "`pf2:r` (arcane, summon) **Trigger** A non-xulgath, non-demon creature that isn't carrying a religious symbol of Zevgavizeb crosses from the north part of the hall to the south part of the hall\n* * *\n\n**Effect** The trap summons a [[Bestiary 1/Krooth|Krooth]]. The krooth rolls initiative and remains for 2d6 rounds, after which the spell ends and the krooth disappears. The krooth also disappears if someone disables the trap before the duration expires. Unlike most summoned creatures, the krooth can use 3 actions each round and can use reactions."
 
 
   - name: "Reset"
     desc: "The trap resets after 24 hours."
+```
+
+```encounter-table
+name: Krooth Summoning Rune
+creatures:
+  - 1: Krooth Summoning Rune
 ```
 

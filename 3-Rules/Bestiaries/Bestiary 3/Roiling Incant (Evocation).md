@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.pathfinder-bestiary-3.Actor.QWx9cIVUeP7dMOez"
 tags:
   - pf2e/creature/type/arcane
   - pf2e/creature/type/mindless
+  - pf2eMonster
   - pf2e/creature/level/9
 statblock: inline
 name: "Roiling Incant (Evocation)"
@@ -22,15 +23,16 @@ token: [[modules/pf2e-tokens-bestiaries/portraits/constructed/magical/roiling-in
 source: "Pathfinder Bestiary 3"
 name: "Roiling Incant (Evocation)"
 level: "Creature 9"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Large"
-trait_01: "arcane"
-trait_02: "mindless"
+trait_01: [[arcane]]
+trait_02: [[mindless]]
 modifier: 15
 perception:
   - name: "Perception"
     desc: "+15; "
+languages: ""
 skills:
   - name: "Skills"
     desc: "Acrobatics: +19"
@@ -67,11 +69,17 @@ attacks:
     desc: "DC 30, attack +20; __4th __  _[[Spells/Wall of Fire|Wall of Fire (At Will) (See Unstable Magic)]]_; __3rd __  _[[Spells/Fireball|Fireball (At Will) (See Unstable Magic)]]_; __2nd __  _[[Spells/Floating Flame|Flaming Sphere (At Will) (See Unstable Magic)]]_\n__Cantrips__  __(4th)__ _[[Spells/Produce Flame|Produce Flame]]_"
 
   - name: "[[Bestiary Ability Glossary/Engulf|Engulf]]"
-    desc: "`pf2:2`  DC 28 Reflex check, 2d8 force damage plus 4d4 fire damage, [[Actions/Escape|Escape]] DC 28, Rupture 20\n"
+    desc: "`pf2:2`  DC 28 Reflex check, 2d8 force damage plus 4d4 fire damage, [[Actions/Escape|Escape]] DC 28, Rupture 20\n\n* * *\n"
 
   - name: "Unstable Magic"
-    desc: "  A roiling incant is as much a mass of unstable magic as it is a creature. Is isn't living or undead, nor is it even a construct. It can't be healed or [[Actions/Repair|Repaired]] and is destroyed at 0 Hit Points, though it naturally recovers a number of Hit Points equal to its level × its Constitution modifier (54 for most roiling incants) each day.\nEach time a roiling incant casts one of its non-cantrip spells, it drains its own magic to do so, taking 5 force damage."
+    desc: "  A roiling incant is as much a mass of unstable magic as it is a creature. Is isn't living or undead, nor is it even a construct. It can't be healed or [[Actions/Repair|Repaired]] and is destroyed at 0 Hit Points, though it naturally recovers a number of Hit Points equal to its level × its Constitution modifier (54 for most roiling incants) each day.\n\nEach time a roiling incant casts one of its non-cantrip spells, it drains its own magic to do so, taking 5 force damage."
  
+```
+
+```encounter-table
+name: Roiling Incant (Evocation)
+creatures:
+  - 1: Roiling Incant (Evocation)
 ```
 
 

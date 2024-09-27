@@ -4,6 +4,7 @@ obsidianUIMode: preview
 noteType: pf2eHazard
 tags:
   - haunt
+  - pf2eHazard
 
 source: Pathfinder #186: Ghost King&#x27;s Rage
 aliases: "Compendium.pf2e.blood-lords-bestiary.Actor.RC1QKxrLyEZRM2EW" 
@@ -21,7 +22,7 @@ name: "Revisit Past Pains"
 level: "Hazard 18"
 
 
-trait_01: "haunt"
+trait_01: [[haunt]]
 modifier: 35
 sourcebook: "_Pathfinder #186: Ghost King's Rage_"
 perception:
@@ -40,10 +41,16 @@ attacks:
   - name: ""
 
   - name: "Share Pain"
-    desc: "`pf2:r` (illusion, mental, occult) **Trigger** A creature enters the area\n**Effect** Creatures within 30 feet take 6d12 + 41 mental damage (DC 40 Will check) as they experience the spirit's death."
+    desc: "`pf2:r` (illusion, mental, occult) **Trigger** A creature enters the area\n* * *\n\n**Effect** Creatures within 30 feet take 6d12+41 mental damage (DC 40 Will check) as they experience the spirit's death."
 
 
   - name: "Reset"
     desc: "1 hour."
+```
+
+```encounter-table
+name: Revisit Past Pains
+creatures:
+  - 1: Revisit Past Pains
 ```
 

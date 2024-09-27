@@ -12,6 +12,7 @@ tags:
   - pf2e/creature/type/humanoid
   - pf2e/creature/type/lawful
   - pf2e/creature/type/unholy
+  - pf2eMonster
   - pf2e/creature/level/4
 statblock: inline
 name: "Hellbound Attorney"
@@ -27,16 +28,16 @@ token: [[modules/pf2e-tokens-bestiaries/portraits/humanoid/hellbound-attorney.we
 source: "Pathfinder Bestiary 3"
 name: "Hellbound Attorney"
 level: "Creature 4"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Medium"
-trait_01: "devil"
-trait_02: "evil"
-trait_03: "fiend"
-trait_04: "human"
-trait_05: "humanoid"
-trait_06: "lawful"
-trait_07: "unholy"
+trait_01: [[devil]]
+trait_02: [[evil]]
+trait_03: [[fiend]]
+trait_04: [[human]]
+trait_05: [[humanoid]]
+trait_06: [[lawful]]
+trait_07: [[unholy]]
 modifier: 11
 perception:
   - name: "Perception"
@@ -44,7 +45,7 @@ perception:
 languages: "Common, Diabolic"
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +10, Deception: +11, Diplomacy: +11 (+13 to Make an Impression), Intimidation: +11, Legal Lore: +14, Society: +12"
+    desc: "Acrobatics: +10, Deception: +11, Diplomacy: +11, Intimidation: +11, Society: +12, Legal Lore: +14"
 abilityMods: [1, 2, 0, 4, 1, 3]
 speed: 20 feet
 sourcebook: "_Pathfinder Bestiary 3_"
@@ -64,7 +65,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Abrogation of Consequences"
-    desc: "`pf2:r`  **Trigger** The Hellbound attorney rolls a success or critical failure on a saving throw against a linguistic effect.\n**Effect** The attorney finds a loophole in the wording of the effect, turning the success into a critical success or a critical failure into a normal failure."
+    desc: "`pf2:r`  **Trigger** The Hellbound attorney rolls a success or critical failure on a saving throw against a linguistic effect.\n* * *\n\n**Effect** The attorney finds a loophole in the wording of the effect, turning the success into a critical success or a critical failure into a normal failure."
 
 attacks:
   - name: ""
@@ -76,8 +77,14 @@ attacks:
     desc: "DC 21, attack +13; __1st __  _[[Spells/Breathe Fire|Burning Hands]]_"
 
   - name: "Opening Statement"
-    desc: " (auditory,concentrate) **Trigger** The Hellbound attorney's turn begins.\n**Effect** The attorney enumerates the alleged crimes of a creature they can see and attempts a Legal Lore check against that creature's Will DC.\nOn a success, the attorney's Strikes deal an additional 2d6 precision damage (4d6 precision damage on a critical success) to the creature until the end of the attorney's turn."
+    desc: " (auditory,concentrate) **Trigger** The Hellbound attorney's turn begins.\n* * *\n\n**Effect** The attorney enumerates the alleged crimes of a creature they can see and attempts a Legal Lore check against that creature's Will DC.\n\nOn a success, the attorney's Strikes deal an additional 2d6 precision damage (4d6 precision damage on a critical success) to the creature until the end of the attorney's turn."
  
+```
+
+```encounter-table
+name: Hellbound Attorney
+creatures:
+  - 1: Hellbound Attorney
 ```
 
 

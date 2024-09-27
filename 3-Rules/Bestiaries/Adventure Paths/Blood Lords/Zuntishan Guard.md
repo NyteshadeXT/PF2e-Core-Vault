@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/good
   - pf2e/creature/type/human
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/6
 statblock: inline
 name: "Zuntishan Guard"
@@ -22,12 +23,12 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #183: Field of Maidens"
 name: "Zuntishan Guard"
 level: "Creature 6"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Medium"
-trait_01: "good"
-trait_02: "human"
-trait_03: "humanoid"
+trait_01: [[good]]
+trait_02: [[human]]
+trait_03: [[humanoid]]
 modifier: 15
 perception:
   - name: "Perception"
@@ -66,6 +67,12 @@ attacks:
   - name: "Warded Ground"
     desc: "`pf2:1` (stance) The guard designates a 10-foot radius area within 30 feet as a protected zone. The guard's Strikes against targets in the protected zone deal an additional 2d6 precision damage."
  
+```
+
+```encounter-table
+name: Zuntishan Guard
+creatures:
+  - 1: Zuntishan Guard
 ```
 
 

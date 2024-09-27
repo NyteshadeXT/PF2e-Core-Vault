@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/human
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/3
 statblock: inline
 name: "Experienced Robbers"
@@ -22,12 +23,12 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Society Scenario #5-01: Intro: Year of Unfettered Exploration"
 name: "Experienced Robbers"
 level: "Creature 3"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Medium"
-trait_01: "evil"
-trait_02: "human"
-trait_03: "humanoid"
+trait_01: [[evil]]
+trait_02: [[human]]
+trait_03: [[humanoid]]
 modifier: 10
 perception:
   - name: "Perception"
@@ -70,8 +71,14 @@ attacks:
     desc: "  The tough robber leads an extra 1d6 precision damage to [[Conditions/Off-Guard|Off-Guard]] creatures."
 
   - name: "Stunning Critical"
-    desc: "  When the experienced robber deals damage on a critical hit, the target is knocked back 10 feet and must succeed at a DC 20 Fortitude check save or be [[Conditions/Stunned 1|Stunned 1]]. On a critical failure, the target also falls [[Conditions/Prone|Prone]]."
+    desc: "  When the experienced robber deals damage on a critical hit, the target is knocked back 10 feet and must succeed at a DC 20 Fortitude check save or be [[Conditions/Stunned|Stunned 1]]. On a critical failure, the target also falls [[Conditions/Prone|Prone]]."
  
+```
+
+```encounter-table
+name: Experienced Robbers
+creatures:
+  - 1: Experienced Robbers
 ```
 
 

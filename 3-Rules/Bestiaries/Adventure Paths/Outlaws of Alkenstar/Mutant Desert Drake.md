@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/earth
   - pf2e/creature/type/evil
   - pf2e/creature/type/mutant
+  - pf2eMonster
   - pf2e/creature/level/9
 statblock: inline
 name: "Mutant Desert Drake"
@@ -23,17 +24,18 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #179: Cradle of Quartz"
 name: "Mutant Desert Drake"
 level: "Creature 9"
-rare_03: "Rare"
+rare_03: [[Rare]]
 alignment: ""
 size: "Large"
-trait_01: "dragon"
-trait_02: "earth"
-trait_03: "evil"
-trait_04: "mutant"
+trait_01: [[dragon]]
+trait_02: [[earth]]
+trait_03: [[evil]]
+trait_04: [[mutant]]
 modifier: 17
 perception:
   - name: "Perception"
     desc: "+17; Darkvision, Scent (Imprecise) 30 Feet"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Acrobatics: +18, Athletics: +19, Intimidation: +14, Stealth: +16, Survival: +16"
@@ -58,7 +60,7 @@ abilities_mid:
     desc: "  The mutant desert drake's cluster of extra eyes are connected to a gland that, when punctured, causes the drake to rush into a fury. When a desert drake takes damage from a critical hit, it becomes [[Conditions/Dazzled|Dazzled]] and [[Conditions/Quickened|Quickened]] for 1 round."
 
   - name: "Wing Deflection"
-    desc: "`pf2:r`  **Trigger** The desert drake is targeted with an attack.\n**Effect** The desert drake raises its wing, gaining a +2 circumstance bonus to AC against the triggering attack. If the desert drake is flying at the time it is attacked, it descends 10 feet after the attack is complete."
+    desc: "`pf2:r`  **Trigger** The desert drake is targeted with an attack.\n* * *\n\n**Effect** The desert drake raises its wing, gaining a +2 circumstance bonus to AC against the triggering attack. If the desert drake is flying at the time it is attacked, it descends 10 feet after the attack is complete."
 
 attacks:
   - name: ""
@@ -73,7 +75,7 @@ attacks:
     desc: "`pf2:2`  The desert drake makes two Fangs Strikes and one Tail Strike in any order."
 
   - name: "Sandstorm Breath"
-    desc: "`pf2:2` (arcane,electricity) The desert drake spits a ball of electrically charged sand to a range of 60 feet that explodes into a cloud with a 15-foot burst. Creatures in the area take 9d6 electricity damage (DC 28 Reflex check save). The cloud remains for 1d4 rounds, granting [[Conditions/Concealed|Concealment]] to everything within. The desert drake can't use Sandstorm Breath again for 1d6 rounds."
+    desc: "`pf2:2` (arcane,electricity) The desert drake spits a ball of electrically charged sand to a range of 60 feet that explodes into a cloud with a @Template[burst|distance:15]. Creatures in the area take 9d6 electricity damage (DC 28 Reflex check save). The cloud remains for 1d4 rounds, granting [[Conditions/Concealed|Concealment]] to everything within. The desert drake can't use Sandstorm Breath again for 1d6 rounds."
 
   - name: "Speed Surge"
     desc: "`pf2:1` (move) The desert drake moves up to twice its Speed. It can do this three times per day."
@@ -84,6 +86,12 @@ attacks:
   - name: "[[Bestiary Ability Glossary/Push|Push 5 feet]]"
     desc: "`pf2:1`  "
  
+```
+
+```encounter-table
+name: Mutant Desert Drake
+creatures:
+  - 1: Mutant Desert Drake
 ```
 
 

@@ -36,7 +36,7 @@ license: OGL
 
 **Failure** The target is [[Conditions/Restrained|Restrained]] and takes a -2 circumstance penalty to its Fortitude DC against the nosferatu's Drink Blood ability until the end of the nosferatu's next turn.
 
-**Critical Failure** As failure, and the target is [[Conditions/Frightened 1|Frightened 2]].
+**Critical Failure** As failure, and the target is [[Conditions/Frightened|Frightened 2]].
 
 *Source: Pathfinder Bestiary 3*
 *OGL*

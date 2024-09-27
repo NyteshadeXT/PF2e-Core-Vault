@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/chaotic
   - pf2e/creature/type/evil
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/13
 statblock: inline
 name: "Xiuli Cachu"
@@ -22,12 +23,12 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #191: The Destiny War"
 name: "Xiuli Cachu"
 level: "Creature 13"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Medium"
-trait_01: "chaotic"
-trait_02: "evil"
-trait_03: "humanoid"
+trait_01: [[chaotic]]
+trait_02: [[evil]]
+trait_03: [[humanoid]]
 modifier: 25
 perception:
   - name: "Perception"
@@ -35,7 +36,7 @@ perception:
 languages: "Chthonian, Sakvroth"
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +24, Athletics: +23 (+25 Climbing), Religion: +27, Stealth: +24, Survival: +25"
+    desc: "Acrobatics: +24, Athletics: +23, Religion: +27, Stealth: +24, Survival: +25"
 abilityMods: [4, 5, 5, 2, 6, 5]
 speed: 30 feet,  climb 20 feet
 sourcebook: "_Pathfinder #191: The Destiny War_"
@@ -76,7 +77,7 @@ attacks:
     desc: "`pf2:2`  Xiuli Strides up to her speed. At any point during her movement, Xiuli can Cast a Spell that normally takes two actions or fewer to cast."
 
   - name: "Instinctual Tinker"
-    desc: "`pf2:2`  The morlock tinkers with an adjacent construct or mechanical hazard. They attempt a Crafting check check against the construct's or hazard's Fortitude DC. The morlock can't succeed if the target's level is more than double the morlock's.\n**Critical Success** The target gains 4d6 Hit Points and a +1 circumstance bonus to attack rolls for 1 minute.\n**Success** The target gains 2d6 Hit Points.\n**Critical Failure** The morlock injures itself, taking 2d6 damage (typically bludgeoning, piercing, or slashing, but potentially a different type at the GM's discretion).\n[[Bestiary Effects/Effect_ Instinctual Tinker (Critical Success)|Effect: Instinctual Tinker (Critical Success)]]"
+    desc: "`pf2:2`  The morlock tinkers with an adjacent construct or mechanical hazard. They attempt a Crafting check check against the construct's or hazard's Fortitude DC. The morlock can't succeed if the target's level is more than double the morlock's.\n* * *\n\n**Critical Success** The target gains 4d6 healing Hit Points and a +1 circumstance bonus to attack rolls for 1 minute.\n\n**Success** The target gains 2d6 healing Hit Points.\n\n**Critical Failure** The morlock injures itself, taking 2d6 damage (typically bludgeoning, piercing, or slashing, but potentially a different type at the GM's discretion).\n\n[[Bestiary Effects/Effect_ Instinctual Tinker (Critical Success)|Effect: Instinctual Tinker (Critical Success)]]"
 
   - name: "[[Bestiary Ability Glossary/Sneak Attack|Sneak Attack]]"
     desc: "  Xiuli deals an additional 3d6 precision damage to [[Conditions/Off-Guard|Off-Guard]] creatures."
@@ -84,6 +85,12 @@ attacks:
   - name: "Swarming Stance"
     desc: "  A morlock can share the same space as another morlock, but no more than two morlocks can occupy the same space. When morlocks share the same space, they gain a +1 circumstance bonus to attack rolls."
  
+```
+
+```encounter-table
+name: Xiuli Cachu
+creatures:
+  - 1: Xiuli Cachu
 ```
 
 

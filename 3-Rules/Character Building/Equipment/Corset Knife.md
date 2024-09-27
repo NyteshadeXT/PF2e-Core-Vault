@@ -15,7 +15,7 @@ license: OGL
 ---
 # Corset Knife
 ## Item 0
-### [[agile]][[concealable]][[finesse]][[thrown-10]]
+### [[3-Rules/Rule References/Agile]][[concealable]][[3-Rules/Rule References/Finesse]][[thrown-10]]
 
 |  |  |
 | -- | -- |

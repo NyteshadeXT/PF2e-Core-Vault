@@ -13,7 +13,7 @@ license: OGL
 ---
 # Bottled Screams
 ## Item 10
-### [uncommon](uncommon "Uncommon Rarity Trait")[[catalyst]][[consumable]][[magical]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[catalyst]][[consumable]][[3-Rules/Rule References/Magical]]
 
 **Category** other; 
 **Price** 200 gp; 

@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/fiend
   - pf2e/creature/type/unholy
+  - pf2eMonster
   - pf2e/creature/level/1
 statblock: inline
 name: "Ostovite"
@@ -27,10 +28,10 @@ level: "Creature 1"
 
 alignment: ""
 size: "Small"
-trait_01: "chaotic"
-trait_02: "evil"
-trait_03: "fiend"
-trait_04: "unholy"
+trait_01: [[chaotic]]
+trait_02: [[evil]]
+trait_03: [[fiend]]
+trait_04: [[unholy]]
 modifier: 4
 perception:
   - name: "Perception"
@@ -38,7 +39,7 @@ perception:
 languages: "Chthonian"
 skills:
   - name: "Skills"
-    desc: "Crafting: +4 (+6 when using bone), Stealth: +7"
+    desc: "Crafting: +4, Stealth: +7"
 abilityMods: [0, 4, 3, -4, 1, 0]
 speed: 25 feet
 sourcebook: "_Pathfinder Bestiary 3_"
@@ -57,10 +58,10 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Bone Chariot"
-    desc: "  Ostovites build and inhabit moving shells of bone. The ostovite's base statistics, particularly its immunities, assume the ostovite is safely inside its bone chariot. The bone chariot is destroyed when the ostovite is reduced to less than half its Hit Points or immediately after it takes damage from a critical hit. Damage that can specifically affect the ostovite controlling the chariot even while it's inside (such as the spell _spirit blast_) doesn't destroy the bone chariot, and it bypasses the ostovite's immunities.\nWithout the bone chariot, the ostovite loses its immunities and bone spike Strike, and it is reduced to Tiny size. It also gains weakness 5 to mental and physical damage as well as damage with the holy trait. Building a new bone chariot requires the skeleton of a Small or larger creature and 10 minutes. An ostovite in a bone chariot is normally Small, though larger bone chariots are possible, especially when ostovites work together."
+    desc: "  Ostovites build and inhabit moving shells of bone. The ostovite's base statistics, particularly its immunities, assume the ostovite is safely inside its bone chariot. The bone chariot is destroyed when the ostovite is reduced to less than half its Hit Points or immediately after it takes damage from a critical hit. Damage that can specifically affect the ostovite controlling the chariot even while it's inside (such as the spell _spirit blast_) doesn't destroy the bone chariot, and it bypasses the ostovite's immunities.\n\nWithout the bone chariot, the ostovite loses its immunities and bone spike Strike, and it is reduced to Tiny size. It also gains weakness 5 to mental and physical damage as well as damage with the holy trait. Building a new bone chariot requires the skeleton of a Small or larger creature and 10 minutes. An ostovite in a bone chariot is normally Small, though larger bone chariots are possible, especially when ostovites work together."
 
   - name: "Scuttle Away"
-    desc: "`pf2:r`  **Trigger** The ostovite's bone chariot is destroyed\n**Effect** The ostovite within Steps or Strides."
+    desc: "`pf2:r`  **Trigger** The ostovite's bone chariot is destroyed\n* * *\n\n**Effect** The ostovite within Steps or Strides."
 
 attacks:
   - name: ""
@@ -71,6 +72,12 @@ attacks:
   - name: "Melee"
     desc: "`pf2:1` Bone Spike +9 (finesse, unholy)\n__Damage__  1d12 piercing 1d4 bleed"
  
+```
+
+```encounter-table
+name: Ostovite
+creatures:
+  - 1: Ostovite
 ```
 
 

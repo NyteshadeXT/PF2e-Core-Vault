@@ -10,6 +10,7 @@ tags:
   - pf2e/creature/type/fiend
   - pf2e/creature/type/petitioner
   - pf2e/creature/type/unholy
+  - pf2eMonster
   - pf2e/creature/level/1
 statblock: inline
 name: "Petitioner (Abyss)"
@@ -28,11 +29,11 @@ level: "Creature 1"
 
 alignment: ""
 size: "Medium"
-trait_01: "chaotic"
-trait_02: "evil"
-trait_03: "fiend"
-trait_04: "petitioner"
-trait_05: "unholy"
+trait_01: [[chaotic]]
+trait_02: [[evil]]
+trait_03: [[fiend]]
+trait_04: [[petitioner]]
+trait_05: [[unholy]]
 modifier: 7
 perception:
   - name: "Perception"
@@ -65,8 +66,14 @@ attacks:
     desc: "`pf2:1` Jaws +7 (unholy)\n__Damage__  1d8 + 2 piercing"
 
   - name: "Planar Incarnation - Abyss"
-    desc: "  All petitioners are formed from and personify the nature of the plane on which they manifest, and their statistics are adjusted as summarized below. They also gain any trait associated with creatures from their plane.\n**Abyss** The larvae appear as maggot-like grubs with the face the petitioners had in life\n*   **Alignment** CE;\n*   **Language** Abyssal;\n*   **Additional Ability** immune to disease and poison;\n*   **Melee** jaws +7, **Damage** 1d8+2 piercing"
+    desc: "  All petitioners are formed from and personify the nature of the plane on which they manifest, and their statistics are adjusted as summarized below. They also gain any trait associated with creatures from their plane.\n\n**Abyss** The larvae appear as maggot-like grubs with the face the petitioners had in life\n\n*   **Alignment** CE;\n*   **Language** Abyssal;\n*   **Additional Ability** immune to disease and poison;\n*   **Melee** jaws +7, **Damage** 1d8+2 piercing"
  
+```
+
+```encounter-table
+name: Petitioner (Abyss)
+creatures:
+  - 1: Petitioner (Abyss)
 ```
 
 

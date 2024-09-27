@@ -14,7 +14,7 @@ license: OGL
 ---
 # Demon's Knot
 ## Item 15
-### [unique](unique "Unique Rarity Trait")[[artifact]][[cursed]][[invested]][[magical]][[unholy]]
+### [unique](unique.md "Unique Rarity Trait")[[artifact]][[cursed]][[invested]][[3-Rules/Rule References/Magical]][[unholy]]
 
 
 **Price** 0 gp; 
@@ -27,7 +27,7 @@ Upon donning the _demon's knot_, it fuses to you. You are subject to a [[Spells/
 
 The _demon's knot_ sustains your physical form and protects your mind from mental control. You don't need to eat or drink. You become immune to the [[Conditions/Confused|Confused]] and [[Conditions/Controlled|Controlled]] conditions.
 
-The _demon's knot_ corrupts anyone wearing it. You gain weakness to cold iron 10 and holy 10. Whenever you're within 60 feet of a celestial, you're [[Conditions/Frightened 1|Frightened 2]] and can't reduce the value of the frightened condition below 2.
+The _demon's knot_ corrupts anyone wearing it. You gain weakness to cold iron 10 and holy 10. Whenever you're within 60 feet of a celestial, you're [[Conditions/Frightened|Frightened 2]] and can't reduce the value of the frightened condition below 2.
 
 * * *
 

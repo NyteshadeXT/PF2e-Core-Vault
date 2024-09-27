@@ -6,8 +6,9 @@ tags:
   - trait/archetype
   - trait/common
   - category/class
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.F6VlPyZZpqV6d2CS"
-license: OGL
+license: ORC
 ---
 # Flensing Slice `pf2:1`
 ## Feat 8
@@ -29,5 +30,5 @@ The target takes 1d8 bleed per weapon damage die of whichever of the weapons you
 
 The target becomes off-guard, and its resistances to any physical damage types are reduced by 5; these two effects last until the beginning of your next turn.
 
-*Source: Pathfinder Advanced Player's Guide*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

@@ -7,8 +7,9 @@ tags:
   - trait/skill
   - trait/common
   - category/skill
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.oXoQ9wwOmDe0hwbU"
-license: OGL
+license: ORC
 ---
 # Subjective Truth
 ## Feat 7
@@ -20,7 +21,7 @@ license: OGL
 
 **Prerequisites** master in Deception; Vigilante Dedication
 * * *
-Your disparate identities allow you to defeat magic that detects lies. As long as what you say is true from the point of view of your current identity, you can say it even under effects like [[Spells/Ring of Truth|Ring of Truth]] that force you to speak the truth.
+Your disparate identities allow you to defeat magic that detects lies. As long as what you say is true from the point of view of your current identity, you can deceive effects like [[Spells/Ring of Truth|Ring of Truth]] that reveal lies.
 
-*Source: Pathfinder Advanced Player's Guide*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

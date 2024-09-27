@@ -6,6 +6,7 @@ cssClasses: pf2e
 aliases: "Compendium.pf2e.crown-of-the-kobold-king-bestiary.Actor.LAButypiGYfsrGis" 
 tags:
   - pf2e/creature/type/aberration
+  - pf2eMonster
   - pf2e/creature/level/3
 statblock: inline
 name: "Grick"
@@ -20,18 +21,18 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Adventure: Crown of the Kobold King"
 name: "Grick"
 level: "Creature 3"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Medium"
-trait_01: "aberration"
+trait_01: [[aberration]]
 modifier: 8
 perception:
   - name: "Perception"
     desc: "+8; Darkvision, Scent (Imprecise) 30 Feet"
-languages: "Aklo"
+languages: "Aklo; can&#x27;t speak any language"
 skills:
   - name: "Skills"
-    desc: "Athletics: +9, Stealth: +8 (+10 in rocky terrain)"
+    desc: "Athletics: +9, Stealth: +8"
 abilityMods: [4, 3, 2, -3, 3, -2]
 speed: 25 feet,  climb 20 feet
 sourcebook: "_Pathfinder Adventure: Crown of the Kobold King_"
@@ -59,8 +60,14 @@ attacks:
     desc: "`pf2:1` Tentacle +11 (agile)\n__Damage__  1d8 + 6 bludgeoning"
 
   - name: "Gripping Tentacle"
-    desc: "`pf2:r`  **Trigger** A creature in the grick's reach uses a move action or leaves a square during a move action it's using\n**Effect** The grick makes a tentacle Strike against the target. If the attack is a critical hit and the trigger was a move action, the grick disrupts that action."
+    desc: "`pf2:r`  **Trigger** A creature in the grick's reach uses a move action or leaves a square during a move action it's using\n\n**Effect** The grick makes a tentacle Strike against the target. If the attack is a critical hit and the trigger was a move action, the grick disrupts that action."
  
+```
+
+```encounter-table
+name: Grick
+creatures:
+  - 1: Grick
 ```
 
 

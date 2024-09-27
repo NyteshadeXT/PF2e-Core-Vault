@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/chaotic
   - pf2e/creature/type/fey
   - pf2e/creature/type/fungus
+  - pf2eMonster
   - pf2e/creature/level/7
 statblock: inline
 name: "Othruni"
@@ -26,9 +27,9 @@ level: "Creature 7"
 
 alignment: ""
 size: "Medium"
-trait_01: "chaotic"
-trait_02: "fey"
-trait_03: "fungus"
+trait_01: [[chaotic]]
+trait_02: [[fey]]
+trait_03: [[fungus]]
 modifier: 17
 perception:
   - name: "Perception"
@@ -36,7 +37,7 @@ perception:
 languages: "Fey, Petran, Sakvroth"
 skills:
   - name: "Skills"
-    desc: "Athletics: +17, Crafting: +15, Nature: +17, Survival: +15, "
+    desc: "Athletics: +17, Crafting: +15, Nature: +17, Survival: +15"
 abilityMods: [6, 2, 4, 4, 2, 2]
 speed: 20 feet
 sourcebook: "_Battlezoo Bestiary_"
@@ -56,7 +57,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Spore Burst"
-    desc: "`pf2:r` (poison,primal) **Trigger** The othruni takes 10 or more points of slashing or piercing damage;\n**Effect** The othruni uses Spore Cloud, and all creatures within 5 feet of the othruni immediately take 1d6 poison damage."
+    desc: "`pf2:r` (poison,primal) **Trigger** The othruni takes 10 or more points of slashing or piercing damage;\n* * *\n\n**Effect** The othruni uses Spore Cloud, and all creatures within 5 feet of the othruni immediately take 1d6 poison damage."
 
 attacks:
   - name: ""
@@ -68,11 +69,17 @@ attacks:
     desc: "`pf2:1` Moss Pellet +18 (poison, range increment 30 feet)\n__Damage__  1d6 + 6 bludgeoning 2d6 poison"
 
   - name: "Crystal Beam"
-    desc: "`pf2:2` (fire,light,primal) The othruni concentrates on the light stored within the crystals of its body, releasing a beam of concentrated light in a 50-foot line that deals 6d6 fire damage (basic Reflex save).\nThe othruni cannot use Crystal Beam again for 1d4 rounds or until it is exposed to bright light, whichever comes first."
+    desc: "`pf2:2` (fire,light,primal) The othruni concentrates on the light stored within the crystals of its body, releasing a beam of concentrated light in a 50-foot line that deals 6d6 fire damage (DC 25 basic Reflex save).\n\nThe othruni cannot use Crystal Beam again for 1d4 rounds or until it is exposed to bright light, whichever comes first."
 
   - name: "Spore Cloud"
-    desc: "`pf2:1` (poison,primal) The othruni ejects a cloud of spores from its symbiotic moss, obscuring its form and keeping attackers at bay. For 1 round, the othruni gains a +1 circumstance bonus to AC and any creature that ends its turn within 5 feet of the othruni takes 1d6 poison damage.\nEffect: Spore Cloud"
+    desc: "`pf2:1` (poison,primal) The othruni ejects a cloud of spores from its symbiotic moss, obscuring its form and keeping attackers at bay. For 1 round, the othruni gains a +1 circumstance bonus to AC and any creature that ends its turn within 5 feet of the othruni takes 1d6 poison damage.\n* * *\n\n[[Effects/Effect_ Spore Cloud|Effect: Spore Cloud]]"
  
+```
+
+```encounter-table
+name: Othruni
+creatures:
+  - 1: Othruni
 ```
 
 

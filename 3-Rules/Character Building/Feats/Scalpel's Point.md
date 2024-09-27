@@ -6,8 +6,9 @@ tags:
   - trait/investigator
   - trait/common
   - category/class
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.hYu6XxARNJYdf8Qe"
-license: OGL
+license: ORC
 ---
 # Scalpel's Point
 ## Feat 4
@@ -21,5 +22,5 @@ license: OGL
 * * *
 Your stratagems benefit from your precise knowledge of anatomy. When you critically hit with an attack on which you substituted your attack roll due to [[Actions/Devise a Stratagem|Devising a Strategem]], if your attack dealt piercing or slashing damage, you also deal 1d6 bleed to your target.
 
-*Source: Pathfinder Advanced Player's Guide*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

@@ -24,7 +24,7 @@ license: OGL
 
 Your relic's heat keeps the air around you pleasantly warm. While you are holding or wearing the relic, it protects you from severe environmental cold. At 9th level, it also protects you from extreme cold, and at 17th level, it protects you from incredible cold. At 4th level, the relic also gains the following activation.
 
-**Activate** `pf2:2` command, envision
+**Activate** `pf2:2` (concentrate)
 
 **Frequency** once per day
 

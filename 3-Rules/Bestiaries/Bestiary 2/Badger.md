@@ -6,6 +6,7 @@ cssClasses: pf2e
 aliases: "Compendium.pf2e.pathfinder-bestiary-2.Actor.PKAs8bMBMpnegmwq" 
 tags:
   - pf2e/creature/type/animal
+  - pf2eMonster
   - pf2e/creature/level/0
 statblock: inline
 name: "Badger"
@@ -24,11 +25,12 @@ level: "Creature 0"
 
 alignment: ""
 size: "Small"
-trait_01: "animal"
+trait_01: [[animal]]
 modifier: 6
 perception:
   - name: "Perception"
     desc: "+6; Low-Light Vision, Scent (Imprecise) 30 Feet"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Athletics: +4, Stealth: +6"
@@ -50,7 +52,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "[[Bestiary Ability Glossary/Ferocity|Ferocity]]"
-    desc: "`pf2:r`  **Trigger** The monster is reduced to 0 HP.\n**Effect** The monster avoids being knocked out and remains at 1 HP, but its [[Conditions/Wounded 1|wounded]] value increases by 1. When it is [[Conditions/Wounded 1|wounded 3]], it can no longer use this ability"
+    desc: "`pf2:r`  **Trigger** The monster is reduced to 0 HP.\n* * *\n\n**Effect** The monster avoids being knocked out and remains at 1 HP, but its [[Conditions/Wounded|Wounded]] value increases by 1. When it is [[Conditions/Wounded|wounded 3]], it can no longer use this ability"
 
 attacks:
   - name: ""
@@ -61,6 +63,12 @@ attacks:
   - name: "Melee"
     desc: "`pf2:1` Claw +8 (agile)\n__Damage__  1d6 slashing"
  
+```
+
+```encounter-table
+name: Badger
+creatures:
+  - 1: Badger
 ```
 
 

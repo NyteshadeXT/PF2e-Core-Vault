@@ -6,6 +6,7 @@ cssClasses: pf2e
 aliases: "Compendium.pf2e.gatewalkers-bestiary.Actor.EfoaqozIWUdm8unh" 
 tags:
   - pf2e/creature/type/beast
+  - pf2eMonster
   - pf2e/creature/level/3
 statblock: inline
 name: "Captain Salah"
@@ -23,7 +24,7 @@ level: "Creature 3"
 
 alignment: ""
 size: "Large"
-trait_01: "beast"
+trait_01: [[beast]]
 modifier: 9
 perception:
   - name: "Perception"
@@ -69,8 +70,14 @@ attacks:
     desc: "`pf2:1` Spear +9 (thrown 20 ft.)\n__Damage__  1d6 + 4 piercing"
 
   - name: "[[Bestiary Ability Glossary/Trample|Trample]]"
-    desc: "`pf2:3`  Medium or smaller, hoof, DC 18 Reflex check save\n"
+    desc: "`pf2:3`  Medium or smaller, hoof, DC 18 Reflex check save\n\n* * *\n"
  
+```
+
+```encounter-table
+name: Captain Salah
+creatures:
+  - 1: Captain Salah
 ```
 
 

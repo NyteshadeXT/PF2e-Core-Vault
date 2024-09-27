@@ -6,6 +6,7 @@ cssClasses: pf2e
 aliases: "Compendium.pf2e.age-of-ashes-bestiary.Actor.X6TTBlHIfJZ43OqR" 
 tags:
   - pf2e/creature/type/construct
+  - pf2eMonster
   - pf2e/creature/level/22
 statblock: inline
 name: "Dragonshard Guardian"
@@ -20,14 +21,15 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #150: Broken Promises"
 name: "Dragonshard Guardian"
 level: "Creature 22"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Large"
-trait_01: "construct"
+trait_01: [[construct]]
 modifier: 39
 perception:
   - name: "Perception"
     desc: "+39; Darkvision, Truesight"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Arcana: +30"
@@ -49,7 +51,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "[[Bestiary Ability Glossary/Frightful Presence|Frightful Presence]]"
-    desc: " (aura,emotion,fear,mental) 90 feet. DC 42 Will check\n"
+    desc: " (aura,emotion,fear,mental) 90 feet. DC 42 Will check\n\n* * *\n"
 
 attacks:
   - name: ""
@@ -64,11 +66,17 @@ attacks:
     desc: "DC 44, attack +36\n__Constant__  __(6th)__ _[[Spells/Truesight|True Seeing]]_"
 
   - name: "Breath Weapon"
-    desc: "`pf2:2` (arcane,fire) The construct breathes in one of two ways, then can't use Breath Weapon again for 1d4 rounds.\n\- Flame (arcane, evocation, fire) A blast of flame deals 15d10 fire damage to all creatures in a 60-foot cone (DC 45 Reflex check save). This fire damage does not harm objects or constructs.\n\- Weakening Gas (arcane, necromancy) A cloud of gold-flecked gas forces each creature in a 60-foot cone to attempt a DC 45 Fortitude check save; the effect lasts 1 minute.\n**Critical Success** The creature is unaffected.\n**Success** The creature is [[Conditions/Enfeebled 1|Enfeebled 2]].\n**Failure** The creature is [[Conditions/Enfeebled 1|Enfeebled 5]].\n**Critical Failure** The creature is [[Conditions/Enfeebled 1|Enfeebled 8]]."
+    desc: "`pf2:2` (arcane,fire) The construct breathes in one of two ways, then can't use Breath Weapon again for 1d4 rounds.\n\n- Flame (arcane, evocation, fire) A blast of flame deals 15d10 fire damage to all creatures in a @Template[cone|distance:60] (DC 45 Reflex check save). This fire damage does not harm objects or constructs.\n\n- Weakening Gas (arcane, necromancy) A cloud of gold-flecked gas forces each creature in a @Template[cone|distance:60] to attempt a DC 45 Fortitude check save; the effect lasts 1 minute.\n* * *\n\n**Critical Success** The creature is unaffected.\n\n**Success** The creature is [[Conditions/Enfeebled|Enfeebled 2]].\n\n**Failure** The creature is [[Conditions/Enfeebled|Enfeebled 5]].\n\n**Critical Failure** The creature is [[Conditions/Enfeebled|Enfeebled 8]]."
 
   - name: "Reverberating Revenge"
-    desc: "`pf2:r` (arcane,fire) **Trigger** The dragonshard guardian takes cold, fire, electricity, or sonic damage from a non-dragonshard guardian source\n**Effect** The dragonshard guardian's body absorbs the energy entirely, preventing the damage from harming the construct. Its body reverberates and transforms the absorbed energy before projecting it outward in a 60-foot burst.\nEach creature within the burst takes an amount of fire damage equal to the amount of energy damage absorbed by the triggering attack, including any damage resisted by the guardian's resistances and additional damage from its weakness (DC 45 Reflex check save).\nThis fire damage doesn't harm objects or constructs."
+    desc: "`pf2:r` (arcane,fire) **Trigger** The dragonshard guardian takes cold, fire, electricity, or sonic damage from a non-dragonshard guardian source\n* * *\n\n**Effect** The dragonshard guardian's body absorbs the energy entirely, preventing the damage from harming the construct. Its body reverberates and transforms the absorbed energy before projecting it outward in a @Template[burst|distance:60].\n\nEach creature within the burst takes an amount of fire damage equal to the amount of energy damage absorbed by the triggering attack, including any damage resisted by the guardian's resistances and additional damage from its weakness (DC 45 Reflex check save).\n\nThis fire damage doesn't harm objects or constructs."
  
+```
+
+```encounter-table
+name: Dragonshard Guardian
+creatures:
+  - 1: Dragonshard Guardian
 ```
 
 

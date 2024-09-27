@@ -20,7 +20,7 @@ license: ORC
 
 
 
-Your mastery of magic ensures that you can alter your spells just as easily as you can cast them normally. You can use spellshape single actions as free actions.
+Altering your spells doesn't take any longer than casting them normally. You can use spellshape single actions as free actions.
 
-*Source: Pathfinder Player Core*
+*Source: Pathfinder Player Core 2*
 *ORC*

@@ -33,7 +33,7 @@ Depicting a majestic dragon in flight, this tattoo imparts the endurance and maj
 
 * * *
 
-**Effect** The tattoo casts [[Spells/Dragon Wings|Dragon Wings]] on you. You can add the [[Spells/Dragon Claws|Dragon Claws]] benefit only if you know that focus spell and spend 1 Focus Point when you Activate the tattoo.
+**Effect** The tattoo casts [[Spells/Dragon Wings|Dragon Wings]] on you. You can add the [[Spells/Flurry of Claws|Dragon Claws]] benefit only if you know that focus spell and spend 1 Focus Point when you Activate the tattoo.
 
 *Source: Pathfinder Treasure Vault*
 *OGL*

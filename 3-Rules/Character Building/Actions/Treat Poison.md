@@ -13,7 +13,7 @@ license: ORC
 ---
 # Treat Poison `pf2:1`
 
-### [[manipulate]][[skill]]
+### [[3-Rules/Rule References/Manipulate]][[skill]]
 
 **Category** interaction; 
 

@@ -26,6 +26,6 @@ tags:
 
 # Drawing a Blank
 
-> Until healed, you are [[Conditions/Stupefied 1|Stupefied 1]].
+> Until healed, you are [[Conditions/Stupefied|Stupefied 1]].
 
 `Spell`

@@ -1,6 +1,6 @@
 ---
 obsidianUIMode: preview
-title: "Form Of The Bat"
+title: "Form of the Bat"
 cssclasses: pf2e,pf2e-spell
 tags:
   - trait/concentrate
@@ -9,10 +9,11 @@ tags:
   - trait/polymorph
   - trait/common
   - category/ancestry
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.H965m1koFvY4FQkF"
-license: OGL
+license: ORC
 ---
-# Form Of The Bat `pf2:1`
+# Form of the Bat `pf2:1`
 ## Feat 13
 ### [[concentrate]][[dhampir]][[divine]][[polymorph]]
 
@@ -27,5 +28,5 @@ license: OGL
 
 You can transform into a harmless bat. You gain the effects of a 4th-rank [[Spells/Pest Form|Pest Form]], except you always transform into a bat.
 
-*Source: Pathfinder Advanced Player's Guide*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

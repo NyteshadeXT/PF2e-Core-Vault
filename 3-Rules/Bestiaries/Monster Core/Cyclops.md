@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.pathfinder-monster-core.Actor.oZVeE7D70bHOrs1d"
 tags:
   - pf2e/creature/type/giant
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/5
   - remaster
 statblock: inline
@@ -23,11 +24,11 @@ token: [[modules/pf2e-tokens-bestiaries/portraits/humanoid/giant/cyclops.webp| ]
 source: "Pathfinder Monster Core"
 name: "Cyclops"
 level: "Creature 5"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Large"
-trait_01: "giant"
-trait_02: "humanoid"
+trait_01: [[giant]]
+trait_02: [[humanoid]]
 modifier: 12
 perception:
   - name: "Perception"
@@ -35,7 +36,7 @@ perception:
 languages: "Common, Cyclops, Jotun"
 skills:
   - name: "Skills"
-    desc: "Athletics: +14, Fortune-Telling Lore: +13, Intimidation: +10, Survival: +12"
+    desc: "Athletics: +14, Intimidation: +10, Survival: +12, Fortune-Telling Lore: +13"
 abilityMods: [5, -1, 2, 0, 3, -1]
 speed: 30 feet
 sourcebook: "_Pathfinder Monster Core_"
@@ -72,6 +73,12 @@ attacks:
   - name: "Swipe"
     desc: "`pf2:2`  **Frequency** once per round\n* * *\n\n**Effect** The cyclops makes a melee Strike and compares the attack roll result to the AC of up to two foes, each of whom must be within their melee reach and adjacent to each other. Roll damage only once and apply it to each creature hit. A Swipe counts as two attacks for the cyclops's multiple attack penalty."
  
+```
+
+```encounter-table
+name: Cyclops
+creatures:
+  - 1: Cyclops
 ```
 
 

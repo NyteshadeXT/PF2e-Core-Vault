@@ -6,6 +6,7 @@ cssClasses: pf2e
 aliases: "Compendium.pf2e.pathfinder-monster-core.Actor.IGzoFGlVbkit8hnH" 
 tags:
   - pf2e/creature/type/beast
+  - pf2eMonster
   - pf2e/creature/level/15
   - remaster
 statblock: inline
@@ -25,7 +26,7 @@ level: "Creature 15"
 
 alignment: ""
 size: "grg"
-trait_01: "beast"
+trait_01: [[beast]]
 modifier: 24
 perception:
   - name: "Perception"
@@ -52,7 +53,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Partitioned Anatomy"
-    desc: "`pf2:0`  **Trigger** The mukradi would be [[Conditions/Confused|Confused]], [[Conditions/Paralyzed|Paralyzed]], [[Conditions/Slowed 1|Slowed]], or [[Conditions/Stunned 1|Stunned]]\n* * *\n\n**Effect** The mukradi confines the debilitating effect to a certain portion of its nervous system, ignoring the effect but causing a maw of its choice to go dormant for the effect's duration. That maw can't be used for a Strike or to Breathe Energy during that time. This ability can't be used if all the mukradi's heads are dormant."
+    desc: "`pf2:0`  **Trigger** The mukradi would be [[Conditions/Confused|Confused]], [[Conditions/Paralyzed|Paralyzed]], [[Conditions/Slowed|Slowed]], or [[Conditions/Stunned|Stunned]]\n* * *\n\n**Effect** The mukradi confines the debilitating effect to a certain portion of its nervous system, ignoring the effect but causing a maw of its choice to go dormant for the effect's duration. That maw can't be used for a Strike or to Breathe Energy during that time. This ability can't be used if all the mukradi's heads are dormant."
 
   - name: "Spitting Rage"
     desc: "`pf2:r`  **Trigger** A creature scores a critical hit on the mukradi\n* * *\n\n**Effect** The mukradi's Breathe Energy recharges. It can use Breathe Energy immediately as part of this reaction. It can't use this reaction again until it recharges Breathe Energy naturally."
@@ -76,20 +77,26 @@ attacks:
     desc: "`pf2:1` Tail Lash +32 (magical, reach 30 feet)\n__Damage__  3d10 + 17 slashing plus knockdown"
 
   - name: "Breathe Energy"
-    desc: "`pf2:2` (primal) The mukradi breathes a blast of energy from one of its three heads; each creature in the area must attempt a DC 36 Reflex check save.\n\nThe mukradi can't Breathe Energy again for 1d4 rounds.\n\n*   **Acid Maw** (acid) 10-foot-wide, 60-foot line of acid dealing 16d6 acid damage.\n*   **Flame Maw** (fire) 60-foot cone of fire dealing 16d6 fire damage.\n*   **Shock Maw** (electricity) 120-foot line of electricity dealing 16d6 electricity damage."
+    desc: "`pf2:2` (primal) The mukradi breathes a blast of energy from one of its three heads; each creature in the area must attempt a DC 36 Reflex check save.\n\nThe mukradi can't Breathe Energy again for 1d4 rounds.\n\n*   **Acid Maw** (acid) 10-foot-wide, @Template[line|distance:60] of acid dealing 16d6 acid damage.\n*   **Flame Maw** (fire) @Template[cone|distance:60] of fire dealing 16d6 fire damage.\n*   **Shock Maw** (electricity) @Template[line|distance:120] of electricity dealing 16d6 electricity damage."
 
   - name: "Pull Apart"
-    desc: "`pf2:2`  The mukradi makes two Strikes with different maws against the same target. If both hit, the target takes an extra 2d12 + 13 slashing damage, with a DC 36 Fortitude check save. On a critical failure, the creature is torn to pieces and dies.\n\nThe mukradi's multiple attack penalty increases only after all the attacks are made."
+    desc: "`pf2:2`  The mukradi makes two Strikes with different maws against the same target. If both hit, the target takes an extra 2d12+13 slashing damage, with a DC 36 Fortitude check save. On a critical failure, the creature is torn to pieces and dies.\n\nThe mukradi's multiple attack penalty increases only after all the attacks are made."
 
   - name: "Thrash"
     desc: "`pf2:2`  The mukradi Strikes once against each creature in its reach. It can make one of these Strikes with each of its maws, one with its tail lash, and the rest with its legs. Each attack takes a –2 circumstance penalty and counts toward the mukradi's multiple attack penalty, but the multiple attack penalty doesn't increase until after all the attacks are made."
 
   - name: "[[Bestiary Ability Glossary/Trample|Trample]]"
-    desc: "`pf2:3`  Huge or smaller, DC 36 Reflex check\n\n* * *\n"
+    desc: "`pf2:3`  Huge or smaller, leg, DC 36 Reflex check\n\n* * *\n"
 
   - name: "[[Bestiary Ability Glossary/Knockdown|Knockdown]]"
     desc: "`pf2:1`  "
  
+```
+
+```encounter-table
+name: Mukradi
+creatures:
+  - 1: Mukradi
 ```
 
 

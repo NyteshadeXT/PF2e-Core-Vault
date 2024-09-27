@@ -6,6 +6,7 @@ cssClasses: pf2e
 aliases: "Compendium.pf2e.pathfinder-bestiary.Actor.C9s5tBxVValC2HTE" 
 tags:
   - pf2e/creature/type/animal
+  - pf2eMonster
   - pf2e/creature/level/2
 statblock: inline
 name: "Giant Bat"
@@ -24,11 +25,12 @@ level: "Creature 2"
 
 alignment: ""
 size: "Large"
-trait_01: "animal"
+trait_01: [[animal]]
 modifier: 11
 perception:
   - name: "Perception"
     desc: "+11; Echolocation 40 Feet, Low-Light Vision"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Acrobatics: +8, Athletics: +8, Stealth: +8"
@@ -53,7 +55,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Wing Thrash"
-    desc: "`pf2:r`  **Trigger** An adjacent enemy damages the giant bat.\n**Effect** The bat makes one or two wing Strikes-one against the triggering creature and one against another adjacent creature."
+    desc: "`pf2:r`  **Trigger** An adjacent enemy damages the giant bat.\n* * *\n\n**Effect** The bat makes one or two wing Strikes-one against the triggering creature and one against another adjacent creature."
 
 attacks:
   - name: ""
@@ -64,6 +66,12 @@ attacks:
   - name: "Melee"
     desc: "`pf2:1` Wing +10 (agile)\n__Damage__  1d6 + 4 piercing"
  
+```
+
+```encounter-table
+name: Giant Bat
+creatures:
+  - 1: Giant Bat
 ```
 
 

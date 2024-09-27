@@ -5,6 +5,7 @@ noteType: pf2eHazard
 tags:
   - magical
   - trap
+  - pf2eHazard
   - complex
 source: Pathfinder Adventure: A Fistful of Flowers
 aliases: "Compendium.pf2e.one-shot-bestiary.Actor.eqehrCFAe1bgMLgK" 
@@ -22,14 +23,14 @@ name: "Bad Vibrations"
 level: "Hazard 3"
 
 trait_06: "Complex"
-trait_01: "magical"
-trait_02: "trap"
+trait_01: [[magical]]
+trait_02: [[trap]]
 modifier: 10
 sourcebook: "_Pathfinder Adventure: A Fistful of Flowers_"
 ac: 19
 armorclass:
   - name: AC
-    desc: "19; __Fort__ +12, __Ref__ +6, __Will__ +0"
+    desc: "19; __Fort__ +12, __Ref__ +6, "
 hp: 16
 health:
   - name: ""
@@ -51,10 +52,16 @@ attacks:
   - name: ""
 
   - name: "Shrill Chime"
-    desc: "`pf2:r` **Trigger** A creature other than Darius or one of his homonculi approaches within 5 feet of the table or attempts to Interact with the crystals in any way other than to attempt to disable the hazard.\n**Effect** The three large crystals on the table begin vibrating and humming. The hazard rolls initiative."
+    desc: "`pf2:r` **Trigger** A creature other than Darius or one of his homonculi approaches within 5 feet of the table or attempts to Interact with the crystals in any way other than to attempt to disable the hazard.\n* * *\n\n**Effect** The three large crystals on the table begin vibrating and humming. The hazard rolls initiative."
 
   - name: "Routine"
     desc: "(3 actions) The hazard loses 1 action for each crystal that's disabled or destroyed. On each of the trap's actions, one of the crystals fires a blast of sound at a single Small or larger creature in the room. The target is randomly determined and takes 1d8 sonic damage (DC 20 Fortitude check); a target who critically fails this save is [[Conditions/Deafened|Deafened]] for 1 minute. At the end of the hazard's routine, attempt a DC 10 Flat check. On a success, one of the crystals shatters and is destroyed."
 
+```
+
+```encounter-table
+name: Bad Vibrations
+creatures:
+  - 1: Bad Vibrations
 ```
 

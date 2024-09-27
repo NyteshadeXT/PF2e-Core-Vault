@@ -6,8 +6,9 @@ tags:
   - trait/nephilim
   - trait/common
   - category/ancestry
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.L231BR4815B6hwKT"
-license: OGL
+license: ORC
 ---
 # Summon Nephilim Kin
 ## Feat 13
@@ -17,9 +18,9 @@ license: OGL
 
 
 
-**Prerequisites** any aasimar lineage feat
+**Prerequisites** any nephilim lineage feat
 * * *
-You have a connection to the celestial realms, allowing you to summon a celestial ally. Once per day, you can cast [[Spells/Summon Celestial|Summon Celestial]] as a 5th-rank divine innate spell, but the celestial summoned must be from the same category as your own lineage, such as a creature with the angel trait if you are angelkin.
+You have a connection to the Outer Planes, allowing you to summon a divine ally. Choose either [[Spells/Summon Celestial|Summon Celestial]], [[Spells/Summon Fiend|Summon Fiend]], or another 5th-rank spell capable of summoning an extraplanar creature appropriate to your lineage. Once per day, you can cast the chosen spell as a 5th-rank divine innate spell, but the creature summoned must be from the same category as your own lineage, such as a creature with the angel trait if you are an angelkin.
 
-*Source: Pathfinder Advanced Player's Guide*
-*OGL*
+*Source: Pathfinder Player Core*
+*ORC*

@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/human
   - pf2e/creature/type/humanoid
   - pf2e/creature/type/lawful
+  - pf2eMonster
   - pf2e/creature/level/7
 statblock: inline
 name: "Murta Kronniksdottir (5-6)"
@@ -22,12 +23,12 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Society Scenario #2-04: Path of Kings"
 name: "Murta Kronniksdottir (5-6)"
 level: "Creature 7"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Medium"
-trait_01: "human"
-trait_02: "humanoid"
-trait_03: "lawful"
+trait_01: [[human]]
+trait_02: [[humanoid]]
+trait_03: [[lawful]]
 modifier: 15
 perception:
   - name: "Perception"
@@ -67,7 +68,7 @@ attacks:
     desc: "`pf2:1` Javelin +13 (thrown 30 ft.)\n__Damage__  1d6 + 4 piercing"
 
   - name: "Rage"
-    desc: "`pf2:1` (concentrate,emotion,mental) **Requirements** Murta isn't fatigued or raging\n**Effect** Murta gains 9 temporary Hit Points that last until the rage ends. While raging, she deals 8 additional damage with melee attacks, gains a +10- foot status bonus to her Speed, and takes a -1 penalty to AC. Murta can't use concentrate actions except Seek and rage actions. The rage lasts for 1 minute, until there are no enemies she can perceive, or until she falls unconscious.\nOnce the rage ends, Murta can't again for 1 minute."
+    desc: "`pf2:1` (concentrate,emotion,mental) **Requirements** Murta isn't fatigued or raging\n* * *\n\n**Effect** Murta gains 9 temporary Hit Points that last until the rage ends. While raging, she deals 8 additional damage with melee attacks, gains a +10- foot status bonus to her Speed, and takes a -1 penalty to AC. Murta can't use concentrate actions except Seek and rage actions. The rage lasts for 1 minute, until there are no enemies she can perceive, or until she falls unconscious.\n\nOnce the rage ends, Murta can't again for 1 minute."
 
   - name: "Raging Intimidation"
     desc: "  While Murta is raging, her [[Actions/Demoralize|Demoralize]] action gains the rage trait, allowing her to use it while raging."
@@ -75,6 +76,12 @@ attacks:
   - name: "Shoving Blow"
     desc: "`pf2:2`  Murta makes a mighty attack that knocks foes back. She makes a melee Strike. On a hit, the target is pushed back 5 feet. On a critical hit, the target is pushed back 10 feet"
  
+```
+
+```encounter-table
+name: Murta Kronniksdottir (5-6)
+creatures:
+  - 1: Murta Kronniksdottir (5-6)
 ```
 
 

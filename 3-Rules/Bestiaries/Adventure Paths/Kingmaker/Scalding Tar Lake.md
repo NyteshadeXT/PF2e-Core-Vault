@@ -4,6 +4,7 @@ obsidianUIMode: preview
 noteType: pf2eHazard
 tags:
   - environmental
+  - pf2eHazard
   - complex
 source: Pathfinder Kingmaker
 aliases: "Compendium.pf2e.kingmaker-bestiary.Actor.GviFe34FuTpo8AT0" 
@@ -21,7 +22,7 @@ name: "Scalding Tar Lake"
 level: "Hazard 9"
 
 trait_06: "Complex"
-trait_01: "environmental"
+trait_01: [[environmental]]
 modifier: -10
 sourcebook: "_Pathfinder Kingmaker_"
 perception:
@@ -40,10 +41,16 @@ attacks:
   - name: ""
 
   - name: "Scalding Burst"
-    desc: "`pf2:r` **Trigger** A creature attempts to move through the tar\n**Effect** A scalding burst of hot tar burns the creature, which must immediately attempt a DC 28 Reflex check save.\n**Critical Success** The creature takes no damage.\n**Success** The creature takes 3d6 fire damage.\n**Failure** The creature takes 6d6 fire damage and 1d6 persistent fire damage.\n**Critical Failure** The creature takes 9d6 fire damage, 2d6 persistent fire damage and takes a -10-foot status penalty to its Speed as long as it continues to take the persistent fire damage from the hot tar clinging to it."
+    desc: "`pf2:r` **Trigger** A creature attempts to move through the tar\n* * *\n\n**Effect** A scalding burst of hot tar burns the creature, which must immediately attempt a DC 28 Reflex check save.\n* * *\n\n**Critical Success** The creature takes no damage.\n\n**Success** The creature takes 3d6 fire damage.\n\n**Failure** The creature takes 6d6 fire damage and 1d6 persistent fire damage.\n\n**Critical Failure** The creature takes 9d6 fire damage, 2d6 persistent fire damage and takes a -10-foot status penalty to its Speed as long as it continues to take the persistent fire damage from the hot tar clinging to it."
 
   - name: "Routine"
     desc: "(1 action) The bubbling lake of tar churns and sputters. One randomly determined target within 5 feet of the tar lake is targeted by a Scalding Burst."
 
+```
+
+```encounter-table
+name: Scalding Tar Lake
+creatures:
+  - 1: Scalding Tar Lake
 ```
 

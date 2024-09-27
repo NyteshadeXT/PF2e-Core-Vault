@@ -11,7 +11,7 @@ license: OGL
 ---
 # Drum of Upheaval
 ## Item 20
-### [uncommon](uncommon "Uncommon Rarity Trait")[[Earth]][[magical]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[3-Rules/trait_reference/earth]][[3-Rules/Rule References/Magical]]
 
 
 **Price** 60000 gp; 
@@ -28,7 +28,7 @@ This heavy drum is engraved along the sides with images of centaurs in fierce co
 
 * * *
 
-**Effect** Dozens of spectral centaurs burst from the drum and stampede in a 60-foot cone. The stampede deals 7d10 force damage (DC 43 Reflex check).
+**Effect** Dozens of spectral centaurs burst from the drum and stampede in a @Template\[cone|distance:60\]. The stampede deals 7d10 force damage (DC 43 Reflex check).
 
 * * *
 

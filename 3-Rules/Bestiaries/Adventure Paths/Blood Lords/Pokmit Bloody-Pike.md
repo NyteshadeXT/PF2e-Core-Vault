@@ -6,6 +6,7 @@ cssClasses: pf2e
 aliases: "Compendium.pf2e.blood-lords-bestiary.Actor.yydyiiBoUGrzPu2v" 
 tags:
   - pf2e/creature/type/undead
+  - pf2eMonster
   - pf2e/creature/level/18
 statblock: inline
 name: "Pokmit Bloody-Pike"
@@ -20,10 +21,10 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #185: A Taste of Ashes"
 name: "Pokmit Bloody-Pike"
 level: "Creature 18"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Medium"
-trait_01: "undead"
+trait_01: [[undead]]
 modifier: 31
 perception:
   - name: "Perception"
@@ -54,7 +55,7 @@ abilities_mid:
     desc: "`pf2:r`  "
 
   - name: "[[Creature Family Ability Glossary/(Graveknight) Rejuvenation|Rejuvenation]]"
-    desc: " (divine) When a graveknight is destroyed, its armor rebuilds its body over the course of 1d10 days-or more quickly if the armor is worn by a living host. If the body is destroyed before then, the process restarts.\nA graveknight can only be permanently destroyed by obliterating its armor (such as with [[Spells/Disintegrate|Disintegrate]]), transporting it to the Forge of Creation, or throwing it into the heart of a volcano."
+    desc: " (divine) When a graveknight is destroyed, its armor rebuilds its body over the course of 1d10 days-or more quickly if the armor is worn by a living host. If the body is destroyed before then, the process restarts.\n\nA graveknight can only be permanently destroyed by obliterating its armor (such as with [[Spells/Disintegrate|Disintegrate]]), transporting it to the Forge of Creation, or throwing it into the heart of a volcano."
 
   - name: "Sacrilegious Aura"
     desc: " (aura,divine) 30 feet. When a creature in the aura uses a vitality spell or ability, Pokmit automatically attempts to counteract it, with a +29 counteract modifier."
@@ -75,16 +76,16 @@ attacks:
     desc: "`pf2:1` Composite Longbow +32 (cold, deadly d10, magical, propulsive, range increment 100 feet, reload 0, volley 30 ft.)\n__Damage__  3d8 + 17 piercing"
 
   - name: "Devastating Blast"
-    desc: "`pf2:2` (arcane,cold) Pokmit unleashes a 30-foot cone of cold. Creatures in the area take 10d12 cold damage (DC 40 Reflex check). The graveknight can use this ability once every 1d4 rounds."
+    desc: "`pf2:2` (arcane,cold) Pokmit unleashes a @Template[cone|distance:30] of cold. Creatures in the area take 10d12 cold damage (DC 40 Reflex check). The graveknight can use this ability once every 1d4 rounds."
 
   - name: "Graveknight's Curse"
-    desc: " (curse) This curse affects anyone who wears a graveknight's armor for at least 1 hour.\n**Saving Throw** DC 44 Will check save\n**Onset** 1 hour\n**Stage 1** [[Conditions/Doomed 1|Doomed 1]] and can't remove the armor (1 day)\n**Stage 2** [[Conditions/Doomed 1|Doomed 2]], hampered 10, and can't remove the armor (1 day)\n**Stage 3** dies and transforms into the armor's graveknight"
+    desc: " (curse) This curse affects anyone who wears a graveknight's armor for at least 1 hour.\n\n**Saving Throw** DC 44 Will check save\n\n**Onset** 1 hour\n\n**Stage 1** [[Conditions/Doomed|Doomed 1]] and can't remove the armor (1 day)\n\n**Stage 2** [[Conditions/Doomed|Doomed 2]], hampered 10, and can't remove the armor (1 day)\n\n**Stage 3** dies and transforms into the armor's graveknight"
 
   - name: "Pike Master"
     desc: "`pf2:3`  Pokmit's longspear reach increases by 5 feet until the start of his next turn, and he makes a single longspear Strike against any number of creatures. These attacks count toward Pokmit's multiple attack penalty, but the penalty doesn't increase until after all the attacks."
 
   - name: "Pokmit's Discernment"
-    desc: "  **Frequency** once per round\n**Effect** Pokmit sizes up the defenses of a creature within 30 feet; he must know the creature is near, but need not be able to see it. Until the start of Pokmit's next turn, Pokmit's attacks against the target ignore any flat check required due to the target being [[Conditions/Concealed|Concealed]] or [[Conditions/Hidden|Hidden]]."
+    desc: "  **Frequency** once per round\n* * *\n\n**Effect** Pokmit sizes up the defenses of a creature within 30 feet; he must know the creature is near, but need not be able to see it. Until the start of Pokmit's next turn, Pokmit's attacks against the target ignore any flat check required due to the target being [[Conditions/Concealed|Concealed]] or [[Conditions/Hidden|Hidden]]."
 
   - name: "Ruinous Weapons"
     desc: "  Any weapon or unarmed attack Pokmit uses gains the effects of the _+1 greater striking_ and _[[Equipment/Frost (Greater)|Greater Frost]]_ weapons runes. (These bonuses are included in his statistics above.)"
@@ -92,6 +93,12 @@ attacks:
   - name: "Weapon Master"
     desc: "  Pokmit has access to the critical specialization effects of any weapons he wields."
  
+```
+
+```encounter-table
+name: Pokmit Bloody-Pike
+creatures:
+  - 1: Pokmit Bloody-Pike
 ```
 
 

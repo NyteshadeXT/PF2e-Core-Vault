@@ -4,8 +4,9 @@ title: "Stance: Wild Winds Stance"
 cssclasses: pf2e,pf2e-action
 tags:
   - trait/common
+  - remaster
 aliases: "Compendium.pf2e.feat-effects.Item.eeAlh6edygcZIz9c"
-license: OGL
+license: ORC
 ---
 # Stance: Wild Winds Stance
 
@@ -24,5 +25,5 @@ You can make wind crash unarmed Strikes as ranged Strikes against targets within
 
 While in wild winds stance, you gain a +2 circumstance bonus to AC against ranged attacks.
 
-*Source: Pathfinder Core Rulebook*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

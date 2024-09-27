@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.outlaws-of-alkenstar-bestiary.Actor.BO72SUjG83p8p9UU"
 tags:
   - pf2e/creature/type/animal
   - pf2e/creature/type/mutant
+  - pf2eMonster
   - pf2e/creature/level/3
 statblock: inline
 name: "Mutant Giant Toad"
@@ -21,18 +22,19 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #179: Cradle of Quartz"
 name: "Mutant Giant Toad"
 level: "Creature 3"
-rare_03: "Rare"
+rare_03: [[Rare]]
 alignment: ""
 size: "Large"
-trait_01: "animal"
-trait_02: "mutant"
+trait_01: [[animal]]
+trait_02: [[mutant]]
 modifier: 9
 perception:
   - name: "Perception"
     desc: "+9; Darkvision, Scent (Imprecise) 30 Feet"
+languages: ""
 skills:
   - name: "Skills"
-    desc: "Athletics: +10 (+12 to High Jump or Long Jump), Stealth: +7"
+    desc: "Athletics: +10, Stealth: +7"
 abilityMods: [5, 3, 3, -4, 3, -2]
 speed: 25 feet
 sourcebook: "_Pathfinder #179: Cradle of Quartz_"
@@ -63,20 +65,26 @@ attacks:
     desc: "`pf2:1` Tongue +12 (reach 10 feet)\n__Damage__ "
 
   - name: "Giant Toad Poison"
-    desc: " (poison) **Saving Throw** DC 20 Fortitude check\n**Maximum Duration** 6 rounds\n**Stage 1** [[Conditions/Stupefied 1|Stupefied1]] (1 round)\n**Stage 2** Stupefied 1 and [[Conditions/Confused|Confused]] (1 round)"
+    desc: " (poison) **Saving Throw** DC 20 Fortitude check\n\n**Maximum Duration** 6 rounds\n\n**Stage 1** [[Conditions/Stupefied|Stupefied1]] (1 round)\n\n**Stage 2** Stupefied 1 and [[Conditions/Confused|Confused]] (1 round)"
 
   - name: "Squirt Acid"
-    desc: "`pf2:2` (acid,primal) The mutant giant toad squirts a 60-foot line of acid from the pustules on its back. Creatures in the area take 3d6 acid damage (DC 20 Reflex check). The mutant giant toad can't Squirt Acid for 1d4 rounds."
+    desc: "`pf2:2` (acid,primal) The mutant giant toad squirts a @Template[line|distance:60] of acid from the pustules on its back. Creatures in the area take 3d6 acid damage (DC 20 Reflex check). The mutant giant toad can't Squirt Acid for 1d4 rounds."
 
   - name: "[[Bestiary Ability Glossary/Swallow Whole|Swallow Whole]]"
-    desc: "`pf2:1` (attack) Medium, 1d8 + 3 bludgeoning damage, Rupture 8"
+    desc: "`pf2:1` (attack) Medium, 1d8+3 bludgeoning damage, Rupture 8"
 
   - name: "Tongue Grab"
-    desc: "  A creature hit by the giant toad's tongue becomes [[Conditions/Grabbed|Grabbed]] by the giant toad. The creature isn't [[Conditions/Immobilized|Immobilized]], but it can't move beyond the reach of the toad's tongue. A creature can sever the tongue with a successful Strike against AC 15 that deals at least 6 slashing damage.\nThis deals no damage to the toad but prevents it from using its tongue Strike until it regrows its tongue, which takes a week."
+    desc: "  A creature hit by the giant toad's tongue becomes [[Conditions/Grabbed|Grabbed]] by the giant toad. The creature isn't [[Conditions/Immobilized|Immobilized]], but it can't move beyond the reach of the toad's tongue. A creature can sever the tongue with a successful Strike against AC 15 that deals at least 6 slashing damage.\n\nThis deals no damage to the toad but prevents it from using its tongue Strike until it regrows its tongue, which takes a week."
 
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
     desc: "`pf2:1`  "
  
+```
+
+```encounter-table
+name: Mutant Giant Toad
+creatures:
+  - 1: Mutant Giant Toad
 ```
 
 

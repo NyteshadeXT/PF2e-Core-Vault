@@ -4,6 +4,7 @@ obsidianUIMode: preview
 noteType: pf2eHazard
 tags:
   - environmental
+  - pf2eHazard
 
 source: Pathfinder Bounty #20: Burden in Bloodcove
 aliases: "Compendium.pf2e.pfs-season-3-bestiary.Actor.3TvWKI01CMwxex51" 
@@ -21,7 +22,7 @@ name: "Cloud of Reverie"
 level: "Hazard 3"
 
 
-trait_01: "environmental"
+trait_01: [[environmental]]
 modifier: 10
 sourcebook: "_Pathfinder Bounty #20: Burden in Bloodcove_"
 perception:
@@ -40,9 +41,15 @@ attacks:
   - name: ""
 
   - name: "Incense Cloud"
-    desc: "`pf2:r` (poison) **Trigger** The chest is opened\n**Effect** All creatures within 10 feet of the chest inhale the dust and become [[Conditions/Fascinated|Fascinated]] and [[Conditions/Fatigued|Fatigued]] (DC 20 Fortitude check save to negate both effects). The fascinated effect lasts for 1 minute, as the target enters a calm and dreamy stupor looking at into the receding dust mist. As usual, the fatigued condition lasts until the affected creature receives a full night's rest."
+    desc: "`pf2:r` (poison) **Trigger** The chest is opened\n\n**Effect** All creatures within 10 feet of the chest inhale the dust and become [[Conditions/Fascinated|Fascinated]] and [[Conditions/Fatigued|Fatigued]] (DC 20 Fortitude check save to negate both effects). The fascinated effect lasts for 1 minute, as the target enters a calm and dreamy stupor looking at into the receding dust mist. As usual, the fatigued condition lasts until the affected creature receives a full night's rest."
 
 
 
+```
+
+```encounter-table
+name: Cloud of Reverie
+creatures:
+  - 1: Cloud of Reverie
 ```
 

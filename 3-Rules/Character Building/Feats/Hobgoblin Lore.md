@@ -6,8 +6,9 @@ tags:
   - trait/hobgoblin
   - trait/common
   - category/ancestry
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.13zaW8ZHRWnRe2pj"
-license: OGL
+license: ORC
 ---
 # Hobgoblin Lore
 ## Feat 1
@@ -18,7 +19,9 @@ license: OGL
 
 
 
-You've studied traditional hobgoblin exercises and fieldcraft, all of which have a militaristic bent. You become trained in Athletics and Crafting. For each of these skills in which you were already trained, you become trained in a skill of your choice. You also become trained in Hobgoblin Lore.
+You've studied traditional hobgoblin exercises and fieldcraft, all of which have a militaristic bent. You gain the trained proficiency rank in Athletics and Crafting. If you would automatically become trained in one of those skills (from your background or class, for example), you instead become trained in a skill of your choice.
 
-*Source: Pathfinder Lost Omens: Character Guide*
-*OGL*
+You gain the [[Feats/Additional Lore|Additional Lore]] general feat for Hobgoblin Lore.
+
+*Source: Pathfinder Player Core 2*
+*ORC*

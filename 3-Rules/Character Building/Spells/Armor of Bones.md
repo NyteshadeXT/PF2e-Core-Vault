@@ -4,27 +4,34 @@ title: "Armor of Bones"
 noteType: pf2eSpell
 cssclasses: pf2e,pf2e-spell
 tags:
+  - pf2eSpell
   - spell/level/3
-  - trait/cursebound
   - trait/focus
   - trait/manipulate
   - trait/oracle
   - trait/uncommon
+
+  - remaster
 aliases: "Compendium.pf2e.spells-srd.Item.pSNLufPPsReKQtJR" 
+license: ORC
 ---
-# Armor of Bones  `pf2:1`  
-## Focus 3
-### [uncommon](uncommon "Uncommon Rarity Trait")[[cursebound]][[focus]][[manipulate]][[oracle]]
+```statblock
+name: "Armor of Bones  `pf2:1`"
+level: "Focus 3"
+rare_03: [[Uncommon]]
+trait_01: [[focus]]
+trait_02: [[manipulate]]
+trait_03: [[oracle]]
+layout: Basic Pathfinder 2e Layout
+columns: 1
+columnWidth: x
+abilities_top:
+  - name: ""
 
-**Duration** 1 minute
-* * * 
-You ossify your physical form, mimicking the durability of bone. You gain resistance 3 to cold, electricity, fire, piercing, and slashing damage.
-
-[[Spell Effects/Spell Effect_ Armor of Bones|Spell Effect: Armor of Bones]]
-
-* * *
-
-**Heightened (+1)** Increase the resistance by 1.
-
-*Source: Pathfinder Advanced Player's Guide*
-*OGL*
+  - name: "Duration"
+    desc: "1 minute"
+abilities_mid:
+  - name: ""
+    desc: "You ossify your physical form, mimicking the durability of bone. You gain resistance 3 to cold, electricity, fire, piercing, and slashing damage.\n\n[[Spell Effects/Spell Effect_ Armor of Bones|Spell Effect: Armor of Bones]]\n* * *\n\n**Heightened (+1)** Increase the resistance by 1."
+sourcebook: "_Pathfinder Player Core 2_"
+```

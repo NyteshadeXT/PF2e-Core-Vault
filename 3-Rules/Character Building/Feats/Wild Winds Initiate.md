@@ -6,8 +6,9 @@ tags:
   - trait/monk
   - trait/common
   - category/class
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.CL9pFxxMXqzIyg4j"
-license: OGL
+license: ORC
 ---
 # Wild Winds Initiate
 ## Feat 8
@@ -17,11 +18,11 @@ license: OGL
 
 
 
-**Prerequisites** ki spells
+**Prerequisites** Qi Spells
 * * *
-You learn a mystical stance that lets you attack from a distance. You gain the [[Spells/Wild Winds Stance|Wild Winds Stance]] ki spell. Increase the number of Focus Points in your focus pool by 1.
+You learn a stance that lets you attack from a distance. You gain the [[Spells/Wild Winds Stance|Wild Winds Stance]] qi spell.
 
-While entering the stance is a ki spell, the wind crash Strikes the stance grants are not, so you can use them as often as you like while in the stance.
+While entering the stance is a qi spell, the wind crash Strikes the stance grants are not, so you can use them as often as you like while in the stance.
 
-*Source: Pathfinder Core Rulebook*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

@@ -14,18 +14,18 @@ tags:
 
 # Momentum
 
-> You gain a [[Other Effects/Effect\_ +2 circumstance bonus to attack rolls|+2 circumstance bonus to attack rolls]] until the end of your next turn.
+> You gain a [[Other Effects/Effect_ +2 circumstance bonus to attack rolls|+2 circumstance bonus to attack rolls]] until the end of your next turn.
 
 `Piercing`
 
 # Gory
 
-> The target is [[Conditions/Sickened 1|Sickened 1]].
+> The target is [[Conditions/Sickened|Sickened 1]].
 
 `Slashing`
 
 # Stunned
 
-> Normal damage. The target is [[Conditions/Stunned 1|Stunned 2]].
+> Normal damage. The target is [[Conditions/Stunned|Stunned 2]].
 
 `Bomb or Spell`

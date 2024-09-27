@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.abomination-vaults-bestiary.Actor.qXT1SQDtGqMkVl7Q"
 tags:
   - pf2e/creature/type/aberration
   - pf2e/creature/type/undead
+  - pf2eMonster
   - pf2e/creature/level/4
 statblock: inline
 name: "Shanrigol Heap"
@@ -21,15 +22,16 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #164: Hands of the Devil"
 name: "Shanrigol Heap"
 level: "Creature 4"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Medium"
-trait_01: "aberration"
-trait_02: "undead"
+trait_01: [[aberration]]
+trait_02: [[undead]]
 modifier: 9
 perception:
   - name: "Perception"
     desc: "+9; Darkvision, Tremorsense (Imprecise) 30 Feet"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Athletics: +12, Stealth: +10"
@@ -60,17 +62,23 @@ attacks:
     desc: "`pf2:1` Bone Shard +11 (agile, range increment 20 feet, versatile p)\n__Damage__  1d8 + 8 bludgeoning"
 
   - name: "Sapping Squeeze"
-    desc: "`pf2:1`  **Requirements** The shanrigol has a creature grabbed\n**Effect** The shanrigol squeezes the life essence from its target, dealing 1d6+5 bludgeoning and 1d4 persistent bleed damage (DC 18 Fortitude check save).\nThe shanrigol regains temporary Hit Points equal to half the amount of bludgeoning damage a single target takes; these temporary Hit Points last for 1 minute."
+    desc: "`pf2:1`  **Requirements** The shanrigol has a creature grabbed\n* * *\n\n**Effect** The shanrigol squeezes the life essence from its target, dealing 1d6+5 bludgeoning and 1d4 persistent bleed damage (DC 18 Fortitude check save).\n\nThe shanrigol regains temporary Hit Points equal to half the amount of bludgeoning damage a single target takes; these temporary Hit Points last for 1 minute."
 
   - name: "Shred Flesh"
-    desc: "  A shanrigol rips flesh away from targets in great chunks. Creatures critically hit by the shanrigol's fleshy slap Strike take an additional 1d6 bleed and are [[Conditions/Enfeebled 1|Enfeebled 1]] for as long as they are bleeding."
+    desc: "  A shanrigol rips flesh away from targets in great chunks. Creatures critically hit by the shanrigol's fleshy slap Strike take an additional 1d6 bleed and are [[Conditions/Enfeebled|Enfeebled 1]] for as long as they are bleeding."
 
   - name: "Undulating Step"
-    desc: "`pf2:2`  The shanrigol separates its flesh from its bones to fit through small spaces. It Strides, ignoring difficult terrain and fitting through tight spaces as though it were a Tiny creature. It can't use any actions other than until it occupies an area large enough for its normal form."
+    desc: "`pf2:2`  The shanrigol separates its flesh from its bones to fit through small spaces. It Strides, ignoring difficult terrain and fitting through tight spaces as though it were a Tiny creature. It can't use any actions other than Undulating Step until it occupies an area large enough for its normal form."
 
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
     desc: "`pf2:1`  "
  
+```
+
+```encounter-table
+name: Shanrigol Heap
+creatures:
+  - 1: Shanrigol Heap
 ```
 
 

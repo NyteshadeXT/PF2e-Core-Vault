@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.pathfinder-bestiary-3.Actor.EvLBhZSMrzVDk4mM"
 tags:
   - pf2e/creature/type/humanoid
   - pf2e/creature/type/lawful
+  - pf2eMonster
   - pf2e/creature/level/12
 statblock: inline
 name: "Calikang"
@@ -22,11 +23,11 @@ token: [[modules/pf2e-tokens-bestiaries/portraits/humanoid/calikang.webp| ]]
 source: "Pathfinder Bestiary 3"
 name: "Calikang"
 level: "Creature 12"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Large"
-trait_01: "humanoid"
-trait_02: "lawful"
+trait_01: [[humanoid]]
+trait_02: [[lawful]]
 modifier: 22
 perception:
   - name: "Perception"
@@ -52,12 +53,12 @@ abilities_top:
   - name: "Items"
     desc: "2x [[Equipment/Longsword|+1 Striking Longsword]]"
   - name: "Suspended Animation"
-    desc: " (concentrate) By concentrating for 5 minutes, the calikang can enter a state of suspended animation, freezing in place and becoming motionless but remaining aware of their surroundings.\nWhile in this state, the calikang gains a +4 status bonus to Fortitude saves; doesn't age; and is immune to disease, inhaled toxins, poison, starvation, and thirst.\nThe calikang can exit suspended animation as a free action. If they exit this state to attack, the calikang gains a +2 circumstance bonus to their initiative roll."
+    desc: " (concentrate) By concentrating for 5 minutes, the calikang can enter a state of suspended animation, freezing in place and becoming motionless but remaining aware of their surroundings.\n\nWhile in this state, the calikang gains a +4 status bonus to Fortitude saves; doesn't age; and is immune to disease, inhaled toxins, poison, starvation, and thirst.\n\nThe calikang can exit suspended animation as a free action. If they exit this state to attack, the calikang gains a +2 circumstance bonus to their initiative roll."
 
 abilities_mid:
   - name: ""
   - name: "Energy Conversion"
-    desc: " (arcane) Whenever the calikang is hit by an electricity spell's attack roll or rolls a successful save against a spell that deals electricity damage, they absorb the energy.\nThis heals the calikang for an amount of HP equal to quadruple the spell's rank and recharges their Breath Weapon. A calikang can't absorb their own spells this way."
+    desc: " (arcane) Whenever the calikang is hit by an electricity spell's attack roll or rolls a successful save against a spell that deals electricity damage, they absorb the energy.\n\nThis heals the calikang for an amount of HP equal to quadruple the spell's rank and recharges their Breath Weapon. A calikang can't absorb their own spells this way."
 
 attacks:
   - name: ""
@@ -72,11 +73,17 @@ attacks:
     desc: "DC 28, attack +20; __6th __  _[[Spells/Chain Lightning|Chain Lightning]]_; __1st __  _[[Spells/Runic Weapon|Magic Weapon (At Will)]]_\n__Constant__  __(6th)__ _[[Spells/Truesight|True Seeing]]_"
 
   - name: "Breath Weapon"
-    desc: "`pf2:2` (arcane) **Frequency** once per day.\n**Effect** The calikang breathes a blast of energy that deals 13d6 energy damage to creatures in a 60-foot line (DC 28 basic Reflex save). The calikang can choose the damage type each time: acid, cold, electricity, fire, or sonic.\nIncrease the die size to d8 if the calikang chooses electricity.\n*   13d6 acid damage (DC 28 Reflex check save)\n*   13d6 cold damage (DC 28 Reflex check save)\n*   13d8 electricity damage (DC 28 Reflex check save)\n*   13d6 fire damage (DC 28 Reflex check save)\n*   13d6 sonic damage (DC 28 Reflex check save)"
+    desc: "`pf2:2` (arcane) **Frequency** once per day.\n* * *\n\n**Effect** The calikang breathes a blast of energy that deals 13d6 energy damage to creatures in a @Template[line|distance:60] (DC 28 basic Reflex save). The calikang can choose the damage type each time: acid, cold, electricity, fire, or sonic.\n\nIncrease the die size to d8 if the calikang chooses electricity.\n* * *\n\n*   13d6 acid damage (DC 28 Reflex check save)\n*   13d6 cold damage (DC 28 Reflex check save)\n*   13d8 electricity damage (DC 28 Reflex check save)\n*   13d6 fire damage (DC 28 Reflex check save)\n*   13d6 sonic damage (DC 28 Reflex check save)"
 
   - name: "Sixfold Flurry"
-    desc: "`pf2:2`  The calikang makes up to two longsword Strikes and up to four fist Strikes. Each Strike must be against a different target.\nThese attacks count toward the calikang's multiple attack penalty, which doesn't increase until after all the attacks are complete.\nFor 1 round, the calikang gains a circumstance bonus to their AC equal to the number of Strikes they choose not to take, to a maximum of +4 for taking only two Strikes.\n[[Bestiary Effects/Effect_ Sixfold Flurry|Effect: Sixfold Flurry]]"
+    desc: "`pf2:2`  The calikang makes up to two longsword Strikes and up to four fist Strikes. Each Strike must be against a different target.\n\nThese attacks count toward the calikang's multiple attack penalty, which doesn't increase until after all the attacks are complete.\n\nFor 1 round, the calikang gains a circumstance bonus to their AC equal to the number of Strikes they choose not to take, to a maximum of +4 for taking only two Strikes.\n\n[[Bestiary Effects/Effect_ Sixfold Flurry|Effect: Sixfold Flurry]]"
  
+```
+
+```encounter-table
+name: Calikang
+creatures:
+  - 1: Calikang
 ```
 
 

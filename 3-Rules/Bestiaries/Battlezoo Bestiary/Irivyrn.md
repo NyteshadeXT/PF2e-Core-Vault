@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/chaotic
   - pf2e/creature/type/dragon
   - pf2e/creature/type/fey
+  - pf2eMonster
   - pf2e/creature/level/12
 statblock: inline
 name: "Irivyrn"
@@ -26,9 +27,9 @@ level: "Creature 12"
 
 alignment: ""
 size: "huge"
-trait_01: "chaotic"
-trait_02: "dragon"
-trait_03: "fey"
+trait_01: [[chaotic]]
+trait_02: [[dragon]]
+trait_03: [[fey]]
 modifier: 21
 perception:
   - name: "Perception"
@@ -36,7 +37,7 @@ perception:
 languages: "Common, Draconic, Fey"
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +23, Athletics: +25, Deception: +23, Intimidation: +23, Nature: +21, Stealth: +19, "
+    desc: "Acrobatics: +23, Athletics: +25, Deception: +23, Intimidation: +23, Nature: +21, Stealth: +19"
 abilityMods: [7, 5, 6, 1, 3, 5]
 speed: 25 feet,  fly 100 feet
 sourcebook: "_Battlezoo Bestiary_"
@@ -53,7 +54,7 @@ abilities_top:
   - name: ""
 
   - name: "Mercurial Attitude"
-    desc: "  Irivyrns are unpredictable and capricious, even when dealing with creatures they've previously met. Whenever an irivyrn begins interacting with any creature, roll 1d4 to determine the irivyrn's starting attitude.\n1.  Hostile\n2.  Unfriendly\n3.  Indifferent\n4.  Friendly"
+    desc: "  Irivyrns are unpredictable and capricious, even when dealing with creatures they've previously met. Whenever an irivyrn begins interacting with any creature, roll 1d4 to determine the irivyrn's starting attitude.\n\n1.  Hostile\n2.  Unfriendly\n3.  Indifferent\n4.  Friendly"
 
 abilities_mid:
   - name: ""
@@ -61,7 +62,7 @@ abilities_mid:
     desc: "`pf2:r`  "
 
   - name: "Shimmering Aura"
-    desc: " (aura,light) Aura 20 feet.\nThe irivyrn's scales shine with swirling, multicolored luminescence, casting bright light in the aura. The irivyrn can deactivate or activate this aura by spending a single action, which has the concentrate trait."
+    desc: " (aura,light) [[Bestiary Ability Glossary/Aura|Aura]] 20 feet.\n\nThe irivyrn's scales shine with swirling, multicolored luminescence, casting bright light in the aura. The irivyrn can deactivate or activate this aura by spending a single action, which has the concentrate trait."
 
 attacks:
   - name: ""
@@ -76,14 +77,20 @@ attacks:
     desc: "`pf2:1` Stinger +20 (agile, magical, reach 15 feet)\n__Damage__  3d6 + 13 piercing plus iridescent-venom"
 
   - name: "Iridescent Venom"
-    desc: " (poison) **Saving Throw** Fortitude;\n**Maximum Duration** 6 rounds;\n**Stage 1** 2d6 poison damage and Dazzled (1 round);\n**Stage 2** 3d6 poison damage and Blinded (1 round);\n**Stage 3** 4d6 poison damage and blinded (1 round)"
+    desc: " (poison) **Saving Throw** DC 29 Fortitude;\n* * *\n\n**Maximum Duration** 6 rounds;\n\n**Stage 1** 2d6 poison damage and [[Conditions/Dazzled|Dazzled]] (1 round);\n\n**Stage 2** 3d6 poison damage and [[Conditions/Blinded|Blinded]] (1 round);\n\n**Stage 3** 4d6 poison damage and blinded (1 round)"
 
   - name: "Breath Weapon"
-    desc: "`pf2:2` (emotion,mental,primal) The irivyrn exhales a psychotropic cloud in a 50-foot cone. Any creature in the cone takes 1d4 rounds.\nThe irivyrn can't use Breath Weapon again for 1d4 rounds."
+    desc: "`pf2:2` (emotion,mental,primal) The irivyrn exhales a psychotropic cloud in a 50-foot cone. Any creature in the cone takes 1d4 rounds.\n\nThe irivyrn can't use Breath Weapon again for 1d4 rounds."
 
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
     desc: "`pf2:1`  "
  
+```
+
+```encounter-table
+name: Irivyrn
+creatures:
+  - 1: Irivyrn
 ```
 
 

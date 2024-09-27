@@ -6,6 +6,7 @@ tags:
   - fire
   - magical
   - trap
+  - pf2eHazard
 
 source: Pathfinder Society Scenario #4-09: Killer in the Golden Mask
 aliases: "Compendium.pf2e.pfs-season-4-bestiary.Actor.yKEJfIO67TdgW69B" 
@@ -23,9 +24,9 @@ name: "Greater Fireball Rune"
 level: "Hazard 7"
 
 
-trait_01: "fire"
-trait_02: "magical"
-trait_03: "trap"
+trait_01: [[fire]]
+trait_02: [[magical]]
+trait_03: [[trap]]
 modifier: 17
 sourcebook: "_Pathfinder Society Scenario #4-09: Killer in the Golden Mask_"
 perception:
@@ -44,9 +45,15 @@ attacks:
   - name: ""
 
   - name: "Fireball"
-    desc: "`pf2:r` (arcane, fire) **Trigger** A living creature enters the sensor area\n**Effect** The rune detonates a fireball centered on the triggering creature's square. This is a 4th-rank [[Spells/Fireball|Fireball]] spell that deals 8d6 fire damage (DC 25 Reflex check)."
+    desc: "`pf2:r` (arcane, fire) **Trigger** A living creature enters the sensor area\n* * *\n\n**Effect** The rune detonates a fireball centered on the triggering creature's square. This is a 4th-rank [[Spells/Fireball|Fireball]] spell that deals 8d6 fire damage (DC 25 Reflex check)."
 
 
 
+```
+
+```encounter-table
+name: Greater Fireball Rune
+creatures:
+  - 1: Greater Fireball Rune
 ```
 

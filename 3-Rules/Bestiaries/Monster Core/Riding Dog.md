@@ -6,6 +6,7 @@ cssClasses: pf2e
 aliases: "Compendium.pf2e.pathfinder-monster-core.Actor.ECe2DkOgSSqXHBqv" 
 tags:
   - pf2e/creature/type/animal
+  - pf2eMonster
   - pf2e/creature/level/1
   - remaster
 statblock: inline
@@ -25,7 +26,7 @@ level: "Creature 1"
 
 alignment: ""
 size: "Medium"
-trait_01: "animal"
+trait_01: [[animal]]
 modifier: 7
 perception:
   - name: "Perception"
@@ -63,6 +64,12 @@ attacks:
   - name: "Pack Attack"
     desc: "  The dog's Strikes deal 1d4 extra damage to creatures within the reach of at least two of the dog's allies."
  
+```
+
+```encounter-table
+name: Riding Dog
+creatures:
+  - 1: Riding Dog
 ```
 
 

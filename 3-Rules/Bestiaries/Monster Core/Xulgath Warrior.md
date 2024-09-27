@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.pathfinder-monster-core.Actor.5vBG8a8dnJfmVd3Y"
 tags:
   - pf2e/creature/type/humanoid
   - pf2e/creature/type/xulgath
+  - pf2eMonster
   - pf2e/creature/level/1
   - remaster
 statblock: inline
@@ -26,8 +27,8 @@ level: "Creature 1"
 
 alignment: ""
 size: "Medium"
-trait_01: "humanoid"
-trait_02: "xulgath"
+trait_01: [[humanoid]]
+trait_02: [[xulgath]]
 modifier: 6
 perception:
   - name: "Perception"
@@ -75,6 +76,12 @@ attacks:
   - name: "Ranged"
     desc: "`pf2:1` Javelin +7 (thrown 30 ft.)\n__Damage__  1d6 + 4 piercing"
  
+```
+
+```encounter-table
+name: Xulgath Warrior
+creatures:
+  - 1: Xulgath Warrior
 ```
 
 

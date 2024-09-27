@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.rage-of-elements-bestiary.Actor.ytvGscCgKbOCn0dB"
 tags:
   - pf2e/creature/type/elemental
   - pf2e/creature/type/metal
+  - pf2eMonster
   - pf2e/creature/level/5
   - remaster
 statblock: inline
@@ -25,8 +26,8 @@ level: "Creature 5"
 
 alignment: ""
 size: "Large"
-trait_01: "elemental"
-trait_02: "metal"
+trait_01: [[elemental]]
+trait_02: [[metal]]
 modifier: 9
 perception:
   - name: "Perception"
@@ -71,11 +72,17 @@ attacks:
     desc: "`pf2:1` Claw +15 ()\n__Damage__  2d8 + 6 slashing plus tetanus"
 
   - name: "Tetanus"
-    desc: " (disease) **Saving Throw** DC 19 Fortitude check\n**Onset** 1 week\n**Stage 1** [[Conditions/Clumsy 1|Clumsy 1]] (1 week)\n**Stage 2** [[Conditions/Clumsy 1|Clumsy 2]] and can't speak (1 day)\n**Stage 3** [[Conditions/Paralyzed|Paralyzed]] with spasms (1 day)\n**Stage 4** death"
+    desc: " (disease) **Saving Throw** DC 19 Fortitude check\n\n**Onset** 1 week\n\n**Stage 1** [[Conditions/Clumsy|Clumsy 1]] (1 week)\n\n**Stage 2** [[Conditions/Clumsy|Clumsy 2]] and can't speak (1 day)\n\n**Stage 3** [[Conditions/Paralyzed|Paralyzed]] with spasms (1 day)\n\n**Stage 4** death"
 
   - name: "[[Bestiary Ability Glossary/Trample|Trample]]"
-    desc: "`pf2:3`  Medium or smaller, claw, DC 23 Reflex check\n"
+    desc: "`pf2:3`  Medium or smaller, claw, DC 23 Reflex check\n\n* * *\n"
  
+```
+
+```encounter-table
+name: Rust Scarab
+creatures:
+  - 1: Rust Scarab
 ```
 
 

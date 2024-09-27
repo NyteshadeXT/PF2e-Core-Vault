@@ -12,7 +12,7 @@ Members who align themselves with the Scrolls branch of the Pathfinder Society a
 
 ## Pathfinder Society Archetypes
 
-The following archetypes are uncommon, but are available to members of the Pathfinder Society. Qualifying characters with the [[undefined]] archetype can select one of these dedication feats even if they have not gained three feats from the Pathfinder agent archetype, and each of these archetypes' feats fulfills the [[Feats/Pathfinder Agent Dedication|Pathfinder Agent Dedication's]] special requirement despite not being from the Pathfinder agent archetype.
+The following archetypes are uncommon, but are available to members of the Pathfinder Society. Qualifying characters with the [[Compendium.pf2e.journals.JournalEntry.vx5FGEG34AxI2dow.JournalEntryPage.fTxZjmNLckRwZ4Po]] archetype can select one of these dedication feats even if they have not gained three feats from the Pathfinder agent archetype, and each of these archetypes' feats fulfills the [[Feats/Pathfinder Agent Dedication|Pathfinder Agent Dedication's]] special requirement despite not being from the Pathfinder agent archetype.
 
 ## [[Feats/Scrollmaster Dedication|Scrollmaster Dedication]] Feat 6
 

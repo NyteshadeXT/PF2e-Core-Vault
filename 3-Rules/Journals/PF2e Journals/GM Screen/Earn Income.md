@@ -11,6 +11,7 @@ tags:
   
 
 **INCOME EARNED**
+ 
 | Task Level | Failure | Trained | Expert | Master | Legendary |
 | --- | --- | --- | --- | --- | --- |
 | **0** | 1 cp | 5 cp | 5 cp | 5 cp | 5 cp |

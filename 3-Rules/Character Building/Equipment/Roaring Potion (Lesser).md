@@ -37,7 +37,7 @@ Ripples move constantly through a roaring potion, a cloudy liquid that growls wh
 
 **Frequency** once every 1d4 rounds
 
-**Effect** You emit a scream in a 15-foot cone that deals 4d4 sonic. Each creature in the area can attempt a DC 24 Fortitude check saving throw.
+**Effect** You emit a scream in a @Template\[cone|distance:15\] that deals 4d4 sonic. Each creature in the area can attempt a DC 24 Fortitude check saving throw.
 
 * * *
 
@@ -45,9 +45,9 @@ Ripples move constantly through a roaring potion, a cloudy liquid that growls wh
 
 **Success** The creature takes half damage.
 
-**Failure** The creature takes full damage and is [[Conditions/Frightened 1|Frightened 1]].
+**Failure** The creature takes full damage and is [[Conditions/Frightened|Frightened 1]].
 
-**Critical Failure** The creature takes double damage and is [[Conditions/Frightened 1|Frightened 2]].
+**Critical Failure** The creature takes double damage and is [[Conditions/Frightened|Frightened 2]].
 
 *Source: Pathfinder Treasure Vault*
 *OGL*

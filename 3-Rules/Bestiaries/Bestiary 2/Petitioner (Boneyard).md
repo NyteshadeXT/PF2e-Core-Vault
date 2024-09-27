@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.pathfinder-bestiary-2.Actor.fizcFuAe2WPauA2U"
 tags:
   - pf2e/creature/type/monitor
   - pf2e/creature/type/petitioner
+  - pf2eMonster
   - pf2e/creature/level/1
 statblock: inline
 name: "Petitioner (Boneyard)"
@@ -25,8 +26,8 @@ level: "Creature 1"
 
 alignment: ""
 size: "Medium"
-trait_01: "monitor"
-trait_02: "petitioner"
+trait_01: [[monitor]]
+trait_02: [[petitioner]]
 modifier: 7
 perception:
   - name: "Perception"
@@ -59,8 +60,14 @@ attacks:
     desc: "`pf2:1` Claw +7 ()\n__Damage__  1d8 + 2 slashing"
 
   - name: "Planar Incarnation - Boneyard"
-    desc: "  All petitioners are formed from and personify the nature of the plane on which they manifest, and their statistics are adjusted as summarized below. They also gain any trait associated with creatures from their plane.\n**Boneyard** The dead appear as animated skeletons of the type of creature they were when they were alive\n*   **Alignment** N;\n*   **Language** Requian;\n*   **Additional Ability** resist piercing and slashing 3;\n*   **Melee** claw +7, **Damage** 1d8+2 slashing"
+    desc: "  All petitioners are formed from and personify the nature of the plane on which they manifest, and their statistics are adjusted as summarized below. They also gain any trait associated with creatures from their plane.\n\n**Boneyard** The dead appear as animated skeletons of the type of creature they were when they were alive\n\n*   **Alignment** N;\n*   **Language** Requian;\n*   **Additional Ability** resist piercing and slashing 3;\n*   **Melee** claw +7, **Damage** 1d8+2 slashing"
  
+```
+
+```encounter-table
+name: Petitioner (Boneyard)
+creatures:
+  - 1: Petitioner (Boneyard)
 ```
 
 

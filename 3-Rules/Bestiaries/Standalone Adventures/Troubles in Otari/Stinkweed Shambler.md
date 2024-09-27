@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.troubles-in-otari-bestiary.Actor.TIX9yDasefwJ4PxI"
 tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/plant
+  - pf2eMonster
   - pf2e/creature/level/2
 statblock: inline
 name: "Stinkweed Shambler"
@@ -24,16 +25,16 @@ level: "Creature 2"
 
 alignment: ""
 size: "Small"
-trait_01: "evil"
-trait_02: "plant"
+trait_01: [[evil]]
+trait_02: [[plant]]
 modifier: 8
 perception:
   - name: "Perception"
     desc: "+8; Low-Light Vision"
-languages: "Fey"
+languages: "Fey; (can&#x27;t speak any language)"
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +8, Intimidation: +6, Stealth: +8, Survival: +6"
+    desc: "Acrobatics: +8, Intimidation: +6, Stealth: +4, Survival: +6"
 abilityMods: [2, 4, 3, -2, 2, 0]
 speed: 20 feet,  climb 10 feet
 sourcebook: "_Pathfinder Adventure: Troubles in Otari_"
@@ -52,7 +53,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Stench"
-    desc: " (aura,olfactory) 10 feet. A creature entering the aura or starting its turn in the aura must succeed at a DC 14 Fortitude check save or become [[Conditions/Off-Guard|Off-Guard]] for 1 round (and [[Conditions/Slowed 1|Slowed 1]] for 1 round on a critical failure). A creature that succeeds at its save is temporarily immune for 1 minute."
+    desc: " (aura,olfactory) 10 feet. A creature entering the aura or starting its turn in the aura must succeed at a DC 14 Fortitude check save or become [[Conditions/Off-Guard|Off-Guard]] for 1 round (and [[Conditions/Slowed|Slowed 1]] for 1 round on a critical failure). A creature that succeeds at its save is temporarily immune for 1 minute."
 
   - name: "Stinky Leaves"
     desc: "  The foul smell emitted by a stinkweed shambler becomes stronger when its leaves are crushed or burned. When a stinkweed shambler takes bludgeoning or fire damage, the DC for its Stench ability increases to 18 and its Stealth bonus decreases to +4. Both of these effects last for 1 minute."
@@ -72,6 +73,12 @@ attacks:
   - name: "Woodland Stride"
     desc: "  A stinkweed shambler ignores difficult terrain and greater difficult terrain from non-magical foliage."
  
+```
+
+```encounter-table
+name: Stinkweed Shambler
+creatures:
+  - 1: Stinkweed Shambler
 ```
 
 

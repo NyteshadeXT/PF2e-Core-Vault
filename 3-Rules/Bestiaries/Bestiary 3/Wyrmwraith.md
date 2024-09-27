@@ -12,6 +12,7 @@ tags:
   - pf2e/creature/type/undead
   - pf2e/creature/type/unholy
   - pf2e/creature/type/wraith
+  - pf2eMonster
   - pf2e/creature/level/17
 statblock: inline
 name: "Wyrmwraith"
@@ -27,16 +28,16 @@ token: [[modules/pf2e-tokens-bestiaries/portraits/draconic/undead/wyrmwraith.web
 source: "Pathfinder Bestiary 3"
 name: "Wyrmwraith"
 level: "Creature 17"
-rare_03: "Rare"
+rare_03: [[Rare]]
 alignment: ""
 size: "grg"
-trait_01: "chaotic"
-trait_02: "dragon"
-trait_03: "evil"
-trait_04: "incorporeal"
-trait_05: "undead"
-trait_06: "unholy"
-trait_07: "wraith"
+trait_01: [[chaotic]]
+trait_02: [[dragon]]
+trait_03: [[evil]]
+trait_04: [[incorporeal]]
+trait_05: [[undead]]
+trait_06: [[unholy]]
+trait_07: [[wraith]]
 modifier: 29
 perception:
   - name: "Perception"
@@ -63,13 +64,13 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "[[Bestiary Ability Glossary/Frightful Presence|Frightful Presence]]"
-    desc: " (aura,emotion,fear,mental) 90 feet. DC 33 Will check\n"
+    desc: " (aura,emotion,fear,mental) 90 feet. DC 33 Will check\n\n* * *\n"
 
   - name: "Positive Energy Transfer"
-    desc: "`pf2:r` (divine) **Trigger** The wyrmwraith succeeds at a saving throw to resist vitality damage but still takes damage\n**Effect** The wyrmwraith transfers all vitality damage from the effect to a single undead creature of their choice within 120 feet that they control or that's [[Conditions/Friendly|Friendly]] or [[Conditions/Helpful|Helpful]] to them."
+    desc: "`pf2:r` (divine) **Trigger** The wyrmwraith succeeds at a saving throw to resist vitality damage but still takes damage\n* * *\n\n**Effect** The wyrmwraith transfers all vitality damage from the effect to a single undead creature of their choice within 120 feet that they control or that's [[Conditions/Friendly|Friendly]] or [[Conditions/Helpful|Helpful]] to them."
 
   - name: "Sunlight Powerlessness"
-    desc: "  A wyrmwraith in sunlight is [[Conditions/Clumsy 1|Clumsy 2]] and [[Conditions/Stunned 1|Stunned 2]]."
+    desc: "  A wyrmwraith in sunlight is [[Conditions/Clumsy|Clumsy 2]] and [[Conditions/Stunned|Stunned 2]]."
 
 attacks:
   - name: ""
@@ -87,7 +88,7 @@ attacks:
     desc: "_[[Spells/Create Undead|Create Undead]]_"
 
   - name: "Breath Weapon"
-    desc: "`pf2:2` (divine,void) The wyrmwraith unleashes a burst of void energy that deals 18d6 void damage to all creatures in a 60-foot cone (DC 38 Reflex check save).\nThey can't use Breath Weapon again for 1d4 rounds."
+    desc: "`pf2:2` (divine,void) The wyrmwraith unleashes a burst of void energy that deals 18d6 void damage to all creatures in a @Template[cone|distance:60] (DC 38 Reflex check save).\n\nThey can't use Breath Weapon again for 1d4 rounds."
 
   - name: "Divine Dispelling"
     desc: " (divine) A wyrmwraith's claws rend divine magic. Whenever a wyrmwraith hits a creature with a spectral claws Strike, the wyrmwraith can attempt a Religion check check to counteract an ongoing divine spell effect on the creature."
@@ -96,14 +97,20 @@ attacks:
     desc: "`pf2:2`  The wyrmwraith makes two claw Strikes and one jaws Strike in any order."
 
   - name: "Drain Life"
-    desc: " (divine) When a wyrmwraith deals damage to a living creature with a spectral jaws or spectral claw Strike, the wyrmwraith gains 18 temporary Hit Points, and the creature must succeed at a DC 38 Fortitude check save or become [[Conditions/Drained 1|Drained 2]]. Further damage dealt by the wyrmwraith's spectral jaws or spectral claws Strikes increases the value of the drained condition by 2 on a failed save, to a maximum of drained 4."
+    desc: " (divine) When a wyrmwraith deals damage to a living creature with a spectral jaws or spectral claw Strike, the wyrmwraith gains 18 temporary Hit Points, and the creature must succeed at a DC 38 Fortitude check save or become [[Conditions/Drained|Drained 2]]. Further damage dealt by the wyrmwraith's spectral jaws or spectral claws Strikes increases the value of the drained condition by 2 on a failed save, to a maximum of drained 4."
 
   - name: "Ectoplasmic Form"
-    desc: "`pf2:1` (divine) A wyrmwraith can push through the ectoplasmic veil to temporarily assume a physical form made of ectoplasm. The wyrmwraith loses the incorporeal trait for 1d4 rounds, though they can return to their incorporeal form as a free action before then. Once this ability ends, the wyrmwraith can't use this ability again for 1d4 rounds. While in their ectoplasmic form, the wyrmwraith's AC increases to 43 and they gain 100 temporary Hit Points. They lose their immunity to precision damage and all of their resistances. Their melee Strikes deal slashing and piercing damage, respectively, instead of void damage.\n[[Bestiary Effects/Effect_ Ectoplasmic Form (Physical)|Effect: Ectoplasmic Form (Physical)]]"
+    desc: "`pf2:1` (divine) A wyrmwraith can push through the ectoplasmic veil to temporarily assume a physical form made of ectoplasm. The wyrmwraith loses the incorporeal trait for 1d4 rounds, though they can return to their incorporeal form as a free action before then. Once this ability ends, the wyrmwraith can't use this ability again for 1d4 rounds. While in their ectoplasmic form, the wyrmwraith's AC increases to 43 and they gain 100 temporary Hit Points. They lose their immunity to precision damage and all of their resistances. Their melee Strikes deal slashing and piercing damage, respectively, instead of void damage.\n\n[[Bestiary Effects/Effect_ Ectoplasmic Form (Physical)|Effect: Ectoplasmic Form (Physical)]]"
 
   - name: "Phase Lurch"
-    desc: "`pf2:1` (divine,move) **Requirements** The wyrmwraith is in their ectoplasmic form\n**Effect** As the Stride action, but the wyrmwraith can pass through walls or material obstacles as though they were incorporeal. They must begin and end their movement outside of any physical obstacles, and passing through solid material is difficult terrain."
+    desc: "`pf2:1` (divine,move) **Requirements** The wyrmwraith is in their ectoplasmic form\n* * *\n\n**Effect** As the Stride action, but the wyrmwraith can pass through walls or material obstacles as though they were incorporeal. They must begin and end their movement outside of any physical obstacles, and passing through solid material is difficult terrain."
  
+```
+
+```encounter-table
+name: Wyrmwraith
+creatures:
+  - 1: Wyrmwraith
 ```
 
 

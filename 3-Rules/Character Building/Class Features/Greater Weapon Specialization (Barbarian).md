@@ -6,12 +6,13 @@ tags:
   - trait/barbarian
   - trait/common
   - category/classfeature
+  - remaster
 aliases: "Compendium.pf2e.classfeatures.Item.7JjhxMFo8DMwpGx0"
-license: OGL
+license: ORC
 ---
 # Greater Weapon Specialization (Barbarian)
 ## Feat 15
-### [[barbarian]]
+### [[3-Rules/trait_reference/barbarian]]
 
 **Category** classfeature; 
 
@@ -22,5 +23,5 @@ The weapons you've mastered become truly fearsome in your hands. Your damage fro
 
 You gain a greater benefit from your instinct's specialization ability. See specific instincts for more information.
 
-*Source: Pathfinder Core Rulebook*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

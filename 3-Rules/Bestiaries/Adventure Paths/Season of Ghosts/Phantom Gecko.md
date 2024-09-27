@@ -10,6 +10,7 @@ tags:
   - pf2e/creature/type/incorporeal
   - pf2e/creature/type/phantom
   - pf2e/creature/type/spirit
+  - pf2eMonster
   - pf2e/creature/level/1
 statblock: inline
 name: "Phantom Gecko"
@@ -24,14 +25,14 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #196: The Summer That Never Was"
 name: "Phantom Gecko"
 level: "Creature 1"
-rare_03: "Rare"
+rare_03: [[Rare]]
 alignment: ""
 size: "Medium"
-trait_01: "ethereal"
-trait_02: "evil"
-trait_03: "incorporeal"
-trait_04: "phantom"
-trait_05: "spirit"
+trait_01: [[ethereal]]
+trait_02: [[evil]]
+trait_03: [[incorporeal]]
+trait_04: [[phantom]]
+trait_05: [[spirit]]
 modifier: 5
 perception:
   - name: "Perception"
@@ -56,12 +57,12 @@ abilities_top:
   - name: ""
 
   - name: "Walk the Ethereal Line"
-    desc: "`pf2:2`  The phantom walks the thin line between the Ethereal and Material Planes in order to exist on both planes simultaneously.\nThey can shift back to solely the Ethereal Plane by using this ability again."
+    desc: "`pf2:2`  The phantom walks the thin line between the Ethereal and Material Planes in order to exist on both planes simultaneously.\n\nThey can shift back to solely the Ethereal Plane by using this ability again."
 
 abilities_mid:
   - name: ""
   - name: "Susceptible to Death"
-    desc: "  Though phantoms aren't alive, neither are they undead, and they are uniquely vulnerable to the effects of death.\nA phantom whose Hit Points are reduced to 0 as a result of a death effect (such as from a spell like [[Spells/Execute|Execute]]) is immediately whisked away to the River of Souls, where their soul resumes the usual path to the afterlife."
+    desc: "  Though phantoms aren't alive, neither are they undead, and they are uniquely vulnerable to the effects of death.\n\nA phantom whose Hit Points are reduced to 0 as a result of a death effect (such as from a spell like [[Spells/Execute|Execute]]) is immediately whisked away to the River of Souls, where their soul resumes the usual path to the afterlife."
 
 attacks:
   - name: ""
@@ -72,6 +73,12 @@ attacks:
   - name: "Occult Innate Spells"
     desc: "DC 14, attack +6; __1st __  _[[Spells/Fear|Fear]]_\n__Cantrips__  __(1st)__ _[[Spells/Daze|Daze]]_, _[[Spells/Ghost Sound|Ghost Sound]]_"
  
+```
+
+```encounter-table
+name: Phantom Gecko
+creatures:
+  - 1: Phantom Gecko
 ```
 
 

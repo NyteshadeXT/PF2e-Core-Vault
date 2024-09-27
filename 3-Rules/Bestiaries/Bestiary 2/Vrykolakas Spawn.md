@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/undead
   - pf2e/creature/type/unholy
   - pf2e/creature/type/vampire
+  - pf2eMonster
   - pf2e/creature/level/6
 statblock: inline
 name: "Vrykolakas Spawn"
@@ -27,10 +28,10 @@ level: "Creature 6"
 
 alignment: ""
 size: "Medium"
-trait_01: "evil"
-trait_02: "undead"
-trait_03: "unholy"
-trait_04: "vampire"
+trait_01: [[evil]]
+trait_02: [[undead]]
+trait_03: [[unholy]]
+trait_04: [[vampire]]
 modifier: 14
 perception:
   - name: "Perception"
@@ -57,10 +58,10 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Feral Possession"
-    desc: " (curse,divine,incapacitation,mental,possession) **Trigger** The vrykolakas is reduced to 0 Hit Points, and an animal is within 100 feet\n**Effect** Unlike most other undead, a vrykolakas isn't destroyed when it reaches 0 HP. Instead, it attempts to cast its spirit into an animal within 100 feet, which must attempt DC 24 Will check save. On a failure, the animal is possessed. This has the effects of the [[Spells/Possession|Possession]] spell, but it lasts a number of days equal to the vrykolakas's level. This possession can't be counteracted with magic (though remove curse works against it normally).\nIf the animal succeeds at its save, the vrykolakas can attempt to possess a different animal within 100 feet. If at any point an animal critically succeeds at its save or no animal is within 100 feet, the vrykolakas fails to possess anything and is destroyed.\nA vrykolakas possessing an animal seeks out its burial site (see Burial Site Bound below) immediately, burying itself there. While the vrykolakas is in this state of recovery, its animal host is [[Conditions/Paralyzed|Paralyzed]], and beheading it destroys the vrykolakas and kills its host. Removing the curse destroys the vrykolakas and returns the animal to normal.\nAfter 1d4 days, if the vrykolakas hasn't been destroyed, the animal dies and the vrykolakas rises in a new body that's identical to its previous one, formed from the animal's remains."
+    desc: " (curse,divine,incapacitation,mental,possession) **Trigger** The vrykolakas is reduced to 0 Hit Points, and an animal is within 100 feet\n* * *\n\n**Effect** Unlike most other undead, a vrykolakas isn't destroyed when it reaches 0 HP. Instead, it attempts to cast its spirit into an animal within 100 feet, which must attempt DC 24 Will check save. On a failure, the animal is possessed. This has the effects of the [[Spells/Possession|Possession]] spell, but it lasts a number of days equal to the vrykolakas's level. This possession can't be counteracted with magic (though remove curse works against it normally).\n\nIf the animal succeeds at its save, the vrykolakas can attempt to possess a different animal within 100 feet. If at any point an animal critically succeeds at its save or no animal is within 100 feet, the vrykolakas fails to possess anything and is destroyed.\n\nA vrykolakas possessing an animal seeks out its burial site (see Burial Site Bound below) immediately, burying itself there. While the vrykolakas is in this state of recovery, its animal host is [[Conditions/Paralyzed|Paralyzed]], and beheading it destroys the vrykolakas and kills its host. Removing the curse destroys the vrykolakas and returns the animal to normal.\n\nAfter 1d4 days, if the vrykolakas hasn't been destroyed, the animal dies and the vrykolakas rises in a new body that's identical to its previous one, formed from the animal's remains."
 
   - name: "Vrykolakas Vulnerabilities"
-    desc: "  Vrykolakas all have the following vulnerabilities.\n*   **Burial Site Bound** A vrykolakas is bound to the place of its death or interment. It must return to this location once per week and bury itself in the earth for 24 hours, during which time it is [[Conditions/Paralyzed|Paralyzed]] and can be beheaded. If it is unable to return to this site, it is reduced to 0 Hit Points and attempts to use Feral Corruption; if this host animal can't return to the burial site before the possession effect ends, the vrykolakas is destroyed and the animal host returns to normal.\n*   **Vulnerable to Decapitation** A vrykolakas that is beheaded can't use its Feral Possession, and a beheaded corpse cannot rise as a vrykolakas."
+    desc: "  Vrykolakas all have the following vulnerabilities.\n\n*   **Burial Site Bound** A vrykolakas is bound to the place of its death or interment. It must return to this location once per week and bury itself in the earth for 24 hours, during which time it is [[Conditions/Paralyzed|Paralyzed]] and can be beheaded. If it is unable to return to this site, it is reduced to 0 Hit Points and attempts to use Feral Corruption; if this host animal can't return to the burial site before the possession effect ends, the vrykolakas is destroyed and the animal host returns to normal.\n*   **Vulnerable to Decapitation** A vrykolakas that is beheaded can't use its Feral Possession, and a beheaded corpse cannot rise as a vrykolakas."
 
 attacks:
   - name: ""
@@ -72,11 +73,17 @@ attacks:
     desc: "`pf2:1` Claw +17 (agile)\n__Damage__  2d6 + 8 slashing"
 
   - name: "Drink Blood"
-    desc: "`pf2:1` (divine) **Requirements** The vrykolakas' last action was a successful fangs Strike\n**Effect** The vrykolakas sinks its fangs into that creature to drink its blood. This requires an Athletics check check against the creature's Fortitude DC. On a success, the creature becomes [[Conditions/Drained 1|Drained 1]], and the vrykolakas regains 10 HP, gaining any excess HP as temporary Hit Points.\nDrinking Blood from a creature that's already drained doesn't restore any HP to the vampire, but it increases the creature's drained condition value by 1. A vrykolakas can also consume blood that's been emptied into a vessel for sustenance, but it gains no HP from doing so.\nThe target creature's drained condition value decreases by 1 per week.\nA blood transfusion, which requires a successful DC 20 Medicine check check and sufficient blood or a blood donor, reduces the drained value by 1 after 10 minutes."
+    desc: "`pf2:1` (divine) **Requirements** The vrykolakas' last action was a successful fangs Strike\n* * *\n\n**Effect** The vrykolakas sinks its fangs into that creature to drink its blood. This requires an Athletics check check against the creature's Fortitude DC. On a success, the creature becomes [[Conditions/Drained|Drained 1]], and the vrykolakas regains 10 HP, gaining any excess HP as temporary Hit Points.\n\nDrinking Blood from a creature that's already drained doesn't restore any HP to the vampire, but it increases the creature's drained condition value by 1. A vrykolakas can also consume blood that's been emptied into a vessel for sustenance, but it gains no HP from doing so.\n\nThe target creature's drained condition value decreases by 1 per week.\n\nA blood transfusion, which requires a successful DC 20 Medicine check check and sufficient blood or a blood donor, reduces the drained value by 1 after 10 minutes."
 
   - name: "[[Bestiary Ability Glossary/Rend|Rend]]"
-    desc: "`pf2:1`  Claw\n"
+    desc: "`pf2:1`  Claw\n\n* * *\n"
  
+```
+
+```encounter-table
+name: Vrykolakas Spawn
+creatures:
+  - 1: Vrykolakas Spawn
 ```
 
 

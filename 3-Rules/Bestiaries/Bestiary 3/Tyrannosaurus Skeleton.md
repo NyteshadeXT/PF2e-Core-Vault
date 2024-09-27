@@ -10,6 +10,7 @@ tags:
   - pf2e/creature/type/skeleton
   - pf2e/creature/type/undead
   - pf2e/creature/type/unholy
+  - pf2eMonster
   - pf2e/creature/level/9
 statblock: inline
 name: "Tyrannosaurus Skeleton"
@@ -28,15 +29,16 @@ level: "Creature 9"
 
 alignment: ""
 size: "grg"
-trait_01: "evil"
-trait_02: "mindless"
-trait_03: "skeleton"
-trait_04: "undead"
-trait_05: "unholy"
+trait_01: [[evil]]
+trait_02: [[mindless]]
+trait_03: [[skeleton]]
+trait_04: [[undead]]
+trait_05: [[unholy]]
 modifier: 17
 perception:
   - name: "Perception"
     desc: "+17; Darkvision"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Athletics: +22"
@@ -67,14 +69,20 @@ attacks:
     desc: "`pf2:1` Foot +20 (reach 15 feet)\n__Damage__  2d10 + 9 bludgeoning"
 
   - name: "Rib Skewer"
-    desc: "`pf2:1`  The tyrannosaurus skeleton bends down, attempting to skewer one adjacent creature on one of its massive ribs. The creature takes 2d10 + 9 piercing damage (DC 28 Reflex check save). If the creature fails its save and is Medium or smaller, it's also impaled and stuck to the rib. It moves with the skeleton and takes 2d6 bleed until it either [[Actions/Escape|Escapes]] or someone uses [[Actions/Force Open|Force Open]] to break the rib (either is DC 28)."
+    desc: "`pf2:1`  The tyrannosaurus skeleton bends down, attempting to skewer one adjacent creature on one of its massive ribs. The creature takes 2d10+9 piercing damage (DC 28 Reflex check save). If the creature fails its save and is Medium or smaller, it's also impaled and stuck to the rib. It moves with the skeleton and takes 2d6 bleed until it either [[Actions/Escape|Escapes]] or someone uses [[Actions/Force Open|Force Open]] to break the rib (either is DC 28)."
 
   - name: "[[Bestiary Ability Glossary/Trample|Trample]]"
-    desc: "`pf2:3`  Huge or smaller, foot, DC 28 Reflex check\n"
+    desc: "`pf2:3`  Huge or smaller, foot, DC 28 Reflex check\n\n* * *\n"
 
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
     desc: "`pf2:1`  "
  
+```
+
+```encounter-table
+name: Tyrannosaurus Skeleton
+creatures:
+  - 1: Tyrannosaurus Skeleton
 ```
 
 

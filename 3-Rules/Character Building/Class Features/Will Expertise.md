@@ -3,6 +3,7 @@ obsidianUIMode: preview
 title: "Will Expertise"
 cssclasses: pf2e,pf2e-spell
 tags:
+  - trait/alchemist
   - trait/kineticist
   - trait/ranger
   - trait/common
@@ -13,7 +14,7 @@ license: OGL
 ---
 # Will Expertise
 ## Feat 3
-### [[kineticist]][[ranger]]
+### [[3-Rules/trait_reference/alchemist]][[kineticist]][[3-Rules/trait_reference/ranger]]
 
 **Category** classfeature; 
 

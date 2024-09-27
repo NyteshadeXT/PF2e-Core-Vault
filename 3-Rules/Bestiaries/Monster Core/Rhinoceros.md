@@ -6,6 +6,7 @@ cssClasses: pf2e
 aliases: "Compendium.pf2e.pathfinder-monster-core.Actor.LiURMjxzav8SBKSq" 
 tags:
   - pf2e/creature/type/animal
+  - pf2eMonster
   - pf2e/creature/level/4
   - remaster
 statblock: inline
@@ -25,7 +26,7 @@ level: "Creature 4"
 
 alignment: ""
 size: "Large"
-trait_01: "animal"
+trait_01: [[animal]]
 modifier: 9
 perception:
   - name: "Perception"
@@ -61,11 +62,17 @@ attacks:
     desc: "`pf2:1` Foot +12 ()\n__Damage__  2d6 + 6 bludgeoning"
 
   - name: "Rhinoceros Charge"
-    desc: "`pf2:2`  The rhinoceros Strides twice, then makes a horn Strike. As long as the rhinoceros moved at least 20 feet, the Strike's damage increases to 3d8 + 6 piercing damage. A Medium or smaller creature struck by this attack must succeed at a DC 21 Reflex check save or be automatically [[Actions/Shove|Shoved]] back 5 feet and knocked [[Conditions/Prone|Prone]] by the force of the blow."
+    desc: "`pf2:2`  The rhinoceros Strides twice, then makes a horn Strike. As long as the rhinoceros moved at least 20 feet, the Strike's damage increases to 3d8+6 piercing damage. A Medium or smaller creature struck by this attack must succeed at a DC 21 Reflex check save or be automatically [[Actions/Shove|Shoved]] back 5 feet and knocked [[Conditions/Prone|Prone]] by the force of the blow."
 
   - name: "[[Bestiary Ability Glossary/Trample|Trample]]"
-    desc: "`pf2:3`  Medium or smaller, DC 18 Reflex check\n\n* * *\n"
+    desc: "`pf2:3`  Medium or smaller, foot, DC 18 Reflex check\n\n* * *\n"
  
+```
+
+```encounter-table
+name: Rhinoceros
+creatures:
+  - 1: Rhinoceros
 ```
 
 

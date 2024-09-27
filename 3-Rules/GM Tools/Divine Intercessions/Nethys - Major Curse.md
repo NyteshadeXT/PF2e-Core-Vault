@@ -17,7 +17,7 @@ license: OGL
 
 
 
-**Major Curse** Nethys severs your connection to magic. You lose all your spellcasting abilities and cannot gain any future spellcasting.
+Nethys severs your connection to magic. You lose all your spellcasting abilities and cannot gain any future spellcasting.
 
 *Source: Pathfinder Lost Omens: Gods & Magic*
 *OGL*

@@ -5,6 +5,7 @@ noteType: pf2eHazard
 tags:
   - magical
   - trap
+  - pf2eHazard
 
 source: Pathfinder #174: Shadows of the Ancients
 aliases: "Compendium.pf2e.strength-of-thousands-bestiary.Actor.5f8EKdudDgYRBmqA" 
@@ -22,8 +23,8 @@ name: "Stinger Ward Trap"
 level: "Hazard 11"
 
 
-trait_01: "magical"
-trait_02: "trap"
+trait_01: [[magical]]
+trait_02: [[trap]]
 modifier: 22
 sourcebook: "_Pathfinder #174: Shadows of the Ancients_"
 perception:
@@ -42,10 +43,16 @@ attacks:
   - name: ""
 
   - name: "Deadly Sting"
-    desc: "`pf2:r` (divine, poison) **Trigger** A creature who isn't wearing a religious symbol of Norgorber moves the trapdoor\n**Effect** The trap targets the creature with _[[Equipment/Purple Worm Venom|Purple Worm]] sting_ (DC 30 Fortitude check save).\n**Maximum Duration** 6 rounds\n**Stage 1** 5d6 poison damage and [[Conditions/Enfeebled 1|Enfeebled 2]] (1 round)\n**Stage 2** 6d6 poison damage and enfeebled 2 (1 round)\n**Stage 3** 8d6 poison damage and enfeebled 2 (1 round)"
+    desc: "`pf2:r` (divine, poison) **Trigger** A creature who isn't wearing a religious symbol of Norgorber moves the trapdoor\n* * *\n\n**Effect** The trap targets the creature with _[[Equipment/Cave Worm Venom|Purple Worm]] sting_ (DC 30 Fortitude check save).\n\n**Maximum Duration** 6 rounds\n\n**Stage 1** 5d6 poison damage and [[Conditions/Enfeebled|Enfeebled 2]] (1 round)\n\n**Stage 2** 6d6 poison damage and enfeebled 2 (1 round)\n\n**Stage 3** 8d6 poison damage and enfeebled 2 (1 round)"
 
 
   - name: "Reset"
     desc: "The trap resets after 24 hours."
+```
+
+```encounter-table
+name: Stinger Ward Trap
+creatures:
+  - 1: Stinger Ward Trap
 ```
 

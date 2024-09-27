@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/human
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/2
 statblock: inline
 name: "Teflar"
@@ -22,12 +23,12 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Bounty #3: Shadows and Scarecrows"
 name: "Teflar"
 level: "Creature 2"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Medium"
-trait_01: "evil"
-trait_02: "human"
-trait_03: "humanoid"
+trait_01: [[evil]]
+trait_02: [[human]]
+trait_03: [[humanoid]]
 modifier: 8
 perception:
   - name: "Perception"
@@ -55,7 +56,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Invigorating Agony"
-    desc: "`pf2:r`  **Requirements** Teflar has spent at least 1 Focus Point\n**Trigger** Teflar takes bleed, piercing, or slashing damage\n**Effect** Teflar regains 1 Focus Point"
+    desc: "`pf2:r`  **Requirements** Teflar has spent at least 1 Focus Point\n\n**Trigger** Teflar takes bleed, piercing, or slashing damage\n* * *\n\n**Effect** Teflar regains 1 Focus Point"
 
 attacks:
   - name: ""
@@ -69,6 +70,12 @@ attacks:
   - name: "Cleric Domain Spells"
     desc: "1 Focus Point, DC 18, attack +10; __1st __ (1 slots) _[[Spells/Savor the Sting|Savor the Sting]]_"
  
+```
+
+```encounter-table
+name: Teflar
+creatures:
+  - 1: Teflar
 ```
 
 

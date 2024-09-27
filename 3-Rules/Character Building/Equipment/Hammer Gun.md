@@ -22,7 +22,7 @@ license: OGL
 | **Price** 13 gp |  |
 | **Bulk** 2 | **Size** med |
 |**Range** 60 ft.| **Reload** 1|
-| **Damage** 1d6 slashing  | **Usage** held-in-two-hands |
+| **Damage** 1d6 piercing  | **Usage** held-in-two-hands |
 
 
 

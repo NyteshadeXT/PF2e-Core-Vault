@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/archon
   - pf2e/creature/type/celestial
   - pf2e/creature/type/holy
+  - pf2eMonster
   - pf2e/creature/level/4
   - remaster
 statblock: inline
@@ -20,15 +21,16 @@ license: ORC
 columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
+token: [[modules/pf2e-tokens-monster-core/assets/portraits/archon-qarna.webp| ]]
 source: "Pathfinder Monster Core"
 name: "Qarna"
 level: "Creature 4"
 
 alignment: ""
 size: "Medium"
-trait_01: "archon"
-trait_02: "celestial"
-trait_03: "holy"
+trait_01: [[archon]]
+trait_02: [[celestial]]
+trait_03: [[holy]]
 modifier: 11
 perception:
   - name: "Perception"
@@ -36,7 +38,7 @@ perception:
 languages: "Diabolic, Draconic, Empyrean, Utopian; Truespeech"
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +12, Intimidation: +11, Nature: +11, Religion: +9, Stealth: +10, Survival: +11 (+15 to Track)"
+    desc: "Acrobatics: +12, Intimidation: +11, Nature: +11, Religion: +9, Stealth: +10, Survival: +11"
 abilityMods: [3, 4, 3, 1, 3, 1]
 speed: 35 feet
 sourcebook: "_Pathfinder Monster Core_"
@@ -70,7 +72,7 @@ attacks:
   - name: "Divine Innate Spells"
     desc: "DC 21, attack +13; __4th __  _[[Spells/Translocate|Translocate (x3)]]_; __2nd __  _[[Spells/Animal Messenger|Animal Messenger (x3)]]_; __1st __  _[[Spells/Charm|Charm (Animals Only) (x3)]]_, _[[Spells/Sure Strike|Sure Strike (x3)]]_\n__Cantrips__  __(2nd)__ _[[Spells/Light|Light]]_\n__Constant__  __(5th)__ _[[Spells/Truespeech|Truespeech]]_"
 
-  - name: "Archon’s Pursuit"
+  - name: "Archon's Pursuit"
     desc: "`pf2:2`  **Frequency** once per day\n\n**Requirements** The qarna saw another creature teleport within the last round and has at least one [[Spells/Translocate|Translocate]] spell remaining\n* * *\n\n**Effect** The qarna casts one of their _translocate_ spells, which is heightened to 5th rank and causes the qarna to arrive in an unoccupied space it chooses within 30 feet of the creature it's pursuing. If the creature is too far away, the qarna arrives as close as possible."
 
   - name: "Distracting Arrow"
@@ -82,6 +84,12 @@ attacks:
   - name: "[[Bestiary Ability Glossary/Push|Push]]"
     desc: "`pf2:1`  "
  
+```
+
+```encounter-table
+name: Qarna
+creatures:
+  - 1: Qarna
 ```
 
 

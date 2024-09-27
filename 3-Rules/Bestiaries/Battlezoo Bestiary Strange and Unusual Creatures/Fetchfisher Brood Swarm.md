@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/beast
   - pf2e/creature/type/shadow
   - pf2e/creature/type/swarm
+  - pf2eMonster
   - pf2e/creature/level/5
 statblock: inline
 name: "Fetchfisher Brood Swarm"
@@ -23,19 +24,20 @@ token: [[modules/battlezoo-bestiary-su-pf2e/art/Portraits/fetchfisher-brood-swar
 source: "Battlezoo Bestiary: Strange and Unusual"
 name: "Fetchfisher Brood Swarm"
 level: "Creature 5"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Large"
-trait_01: "beast"
-trait_02: "shadow"
-trait_03: "swarm"
+trait_01: [[beast]]
+trait_02: [[shadow]]
+trait_03: [[swarm]]
 modifier: 11
 perception:
   - name: "Perception"
     desc: "+11; Greater Darkvision"
+languages: ""
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +12, Athletics: +13, Stealth: +13, "
+    desc: "Acrobatics: +12, Athletics: +13, Stealth: +13, Acrobatics: +12, Athletics: +13, Stealth: +13"
 abilityMods: [5, 5, 5, -4, 2, -4]
 speed: 20 feet,  climb 15 feet
 sourcebook: "_Battlezoo Bestiary: Strange and Unusual_"
@@ -52,7 +54,7 @@ abilities_top:
   - name: ""
 
   - name: "Shifting Mass"
-    desc: "  Despite their size, the fetchfisher can shift their body between planes to allow it to fit through tight spaces and take cover behind small obstacles that would be enough to provide cover for a Medium creature. While Squeezing, they can move at their full Speed. When using the Take Cover action, they can take cover behind Large or larger objects, reducing their space down from 15 by 15 feet to as small as 5 by 5 feet as necessary."
+    desc: "  Despite their size, the fetchfisher can shift their body between planes to allow it to fit through tight spaces and take cover behind small obstacles that would be enough to provide cover for a Medium creature. While Squeezing, they can move at their full Speed. When using the [[undefined]] action, they can take cover behind Large or larger objects, reducing their space down from 15 by 15 feet to as small as 5 by 5 feet as necessary."
 
 abilities_mid:
   - name: ""
@@ -62,6 +64,12 @@ attacks:
   - name: "Swarming Bites"
     desc: "`pf2:1`  Each enemy in the swarm's space takes 3d6 piercing damage with a DC 22 Reflex check save. The swarm attempts to counteract all light effects in the area (counteract level 3, counteract modifier +12) by slathering them in fetchfisher oil. If the light effect is on a creature in the area, or an object worn or held by a creature, a successful Reflex save allows the creature to avoid the oil. The oil can be removed by spending an Interact action to wipe it off. This restores any light effects counteracted by the swarm."
  
+```
+
+```encounter-table
+name: Fetchfisher Brood Swarm
+creatures:
+  - 1: Fetchfisher Brood Swarm
 ```
 
 

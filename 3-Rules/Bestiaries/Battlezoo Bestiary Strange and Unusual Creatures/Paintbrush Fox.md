@@ -6,6 +6,7 @@ cssClasses: pf2e
 aliases: "Compendium.battlezoo-bestiary-su-pf2e.pf2e-battlezoo-su-actors.Actor.JIxEb7vP55yGgGWH" 
 tags:
   - pf2e/creature/type/beast
+  - pf2eMonster
   - pf2e/creature/level/2
 statblock: inline
 name: "Paintbrush Fox"
@@ -24,7 +25,7 @@ level: "Creature 2"
 
 alignment: ""
 size: "Small"
-trait_01: "beast"
+trait_01: [[beast]]
 modifier: 8
 perception:
   - name: "Perception"
@@ -32,7 +33,7 @@ perception:
 languages: "Fey"
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +8, Athletics: +4, Crafting: +4 (+8 when painting), Deception: +7, Performance: +5, Stealth: +8, Survival: +8, "
+    desc: "Acrobatics: +8, Athletics: +4, Crafting: +4, Deception: +7, Performance: +5, Stealth: +8, Survival: +8, Acrobatics: +8, Athletics: +4, Crafting: +4, Deception: +7, Performance: +5, Stealth: +8, Survival: +8"
 abilityMods: [-2, 3, 1, -2, 3, 1]
 speed: 30 feet
 sourcebook: "_Battlezoo Bestiary: Strange and Unusual_"
@@ -60,11 +61,17 @@ attacks:
     desc: "DC 18, attack +10; __1st __  _[[Spells/Ventriloquism|Ventriloquism (At Will)]]_"
 
   - name: "Form Oil Creature"
-    desc: "`pf2:3` (primal) **Frequency** once per hour\n**Effect** The fox twirls their tail and paints a copy of a Medium or smaller creature they've seen before. The [[Creatures/Oil Creature|Oil Creature]] is a minion, and only acts as directed by the paintbrush fox. Oil Creatures have the following statistics: 10 HP, 15 AC, and a melee pseudopod unarmed attack with an attack roll modifier of +9 that deals 1d6+1 bludgeoning damage. For any other modifier or DC, oil creatures use the paintbrush fox's value. Each turn after the first, the paintbrush fox must spend an action, which has the concentrate trait, to mentally command the oil creature or it collapses into ink, though unlike most minions, the oil creature gains three actions. After 10 minutes, or after the paintbrush fox spends a turn without commanding its oil creature, the oil creature dissolves into a useless black puddle."
+    desc: "`pf2:3` (primal) **Frequency** once per hour\n* * *\n\n**Effect** The fox twirls their tail and paints a copy of a Medium or smaller creature they've seen before. The [[Creatures/Oil Creature|Oil Creature]] is a minion, and only acts as directed by the paintbrush fox. Oil Creatures have the following statistics: 10 HP, 15 AC, and a melee pseudopod unarmed attack with an attack roll modifier of +9 that deals 1d6+1 bludgeoning damage. For any other modifier or DC, oil creatures use the paintbrush fox's value. Each turn after the first, the paintbrush fox must spend an action, which has the concentrate trait, to mentally command the oil creature or it collapses into ink, though unlike most minions, the oil creature gains three actions. After 10 minutes, or after the paintbrush fox spends a turn without commanding its oil creature, the oil creature dissolves into a useless black puddle."
 
   - name: "Leaping Pounce"
-    desc: "`pf2:1`  The fox either Strides up to their Speed or Leaps, making a Strike at the end of that movement. If the fox began this action Hidden, they remain hidden until after this ability's Strike."
+    desc: "`pf2:1`  The fox either Strides up to their Speed or Leaps, making a Strike at the end of that movement. If the fox began this action [[undefined]], they remain hidden until after this ability's Strike."
  
+```
+
+```encounter-table
+name: Paintbrush Fox
+creatures:
+  - 1: Paintbrush Fox
 ```
 
 

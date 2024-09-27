@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/human
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/18
 statblock: inline
 name: "Unshadowed Okoro"
@@ -23,13 +24,13 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #174: Shadows of the Ancients"
 name: "Unshadowed Okoro"
 level: "Creature 18"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Medium"
-trait_01: "chaotic"
-trait_02: "evil"
-trait_03: "human"
-trait_04: "humanoid"
+trait_01: [[chaotic]]
+trait_02: [[evil]]
+trait_03: [[human]]
+trait_04: [[humanoid]]
 modifier: 30
 perception:
   - name: "Perception"
@@ -37,7 +38,7 @@ perception:
 languages: "Common, Draconic, Elven, Petran"
 skills:
   - name: "Skills"
-    desc: "Academia Lore: +33, Athletics: +31, Deception: +35, Diplomacy: +35, Games Lore: +31, Occultism: +35, Performance: +31, Stealth: +29"
+    desc: "Athletics: +31, Deception: +35, Diplomacy: +35, Occultism: +35, Performance: +31, Stealth: +29, Academia Lore: +33, Games Lore: +31"
 abilityMods: [2, 3, 3, 4, 3, 5]
 speed: 25 feet
 sourcebook: "_Pathfinder #174: Shadows of the Ancients_"
@@ -57,7 +58,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Shadow's Displeasure"
-    desc: "  When Okoro has fewer than 150 Hit Points, his shadow pulls at his essence to show the _Vesicant Egg's_ displeasure. He looks pained and confused, and he becomes [[Conditions/Clumsy 1|Clumsy 1]] and [[Conditions/Stupefied 1|Stupefied 1]] until healed to 150 Hit Points or more. These conditions increase to 2 when below 100 Hit Points. When below 50 Hit Points, he falls [[Conditions/Unconscious|Unconscious]]."
+    desc: "  When Okoro has fewer than 150 Hit Points, his shadow pulls at his essence to show the _Vesicant Egg's_ displeasure. He looks pained and confused, and he becomes [[Conditions/Clumsy|Clumsy 1]] and [[Conditions/Stupefied|Stupefied 1]] until healed to 150 Hit Points or more. These conditions increase to 2 when below 100 Hit Points. When below 50 Hit Points, he falls [[Conditions/Unconscious|Unconscious]]."
 
   - name: "Vesicated Shadow"
     desc: "  Okoro's shadow has become corrupted via the power of the _Vesicant Egg_. His shredded shadow grants him some control over acid and shadows. He gains a +4 status bonus to resist acid and shadow effects."
@@ -81,11 +82,17 @@ attacks:
     desc: "`pf2:1` (concentrate,fortune,occult) Okoro studies a creature within 30 feet to find an opening to attack. On his next attack roll against the creature this turn, he rolls twice and uses the higher result, and his attack gains the fortune trait. The target becomes temporarily immune for 1d4 rounds."
 
   - name: "Rupture Shadow"
-    desc: "`pf2:2` (acid,occult,shadow) Okoro can create immense blisters on a creature's shadow, which immediately burst, dealing 20d6 acid damage. He targets a creature within 60 feet that is casting a shadow, which must attempt a DC 37 Will check save. Okoro can't use Rupture Shadow again for 1d4 rounds.\n**Critical Success** The target is unaffected and becomes temporarily immune for 1 day.\n**Success** The target takes half damage. The bursting shadow deals 5 acid splash damage to all creatures within 5 feet of the target.\n**Failure** The target takes full damage, and the bursting shadow deals 10 acid splash damage.\n**Critical Failure** The target takes double damage, the bursting shadow deals 20 acid splash damage, and the target also takes 4d6 persistent acid damage."
+    desc: "`pf2:2` (acid,occult,shadow) Okoro can create immense blisters on a creature's shadow, which immediately burst, dealing 20d6 acid damage. He targets a creature within 60 feet that is casting a shadow, which must attempt a DC 37 Will check save. Okoro can't use Rupture Shadow again for 1d4 rounds.\n* * *\n\n**Critical Success** The target is unaffected and becomes temporarily immune for 1 day.\n\n**Success** The target takes half damage. The bursting shadow deals 5 acid splash damage to all creatures within 5 feet of the target.\n\n**Failure** The target takes full damage, and the bursting shadow deals 10 acid splash damage.\n\n**Critical Failure** The target takes double damage, the bursting shadow deals 20 acid splash damage, and the target also takes 4d6 persistent acid damage."
 
   - name: "Push My Luck"
-    desc: "`pf2:r`  **Trigger** Okoro targets a creature with an attack\n**Requirements** The triggering creature was the target of Observe Weakness this turn\n**Effect** Okoro draws upon his future luck to guarantee his attack. When he makes his attack roll, if he rolls lower than 10 on the die, he treats that attack roll as a 10 instead. This is in addition to rolling twice and taking the higher result from Observe Weakness. Afterward, Okoro's luck is temporarily spent, and he must roll twice and use the lower result of his next 3 checks; this is a misfortune effect. He can't use Push My Luck again until he's completed these 3 checks."
+    desc: "`pf2:r`  **Trigger** Okoro targets a creature with an attack\n\n**Requirements** The triggering creature was the target of Observe Weakness this turn\n* * *\n\n**Effect** Okoro draws upon his future luck to guarantee his attack. When he makes his attack roll, if he rolls lower than 10 on the die, he treats that attack roll as a 10 instead. This is in addition to rolling twice and taking the higher result from Observe Weakness. Afterward, Okoro's luck is temporarily spent, and he must roll twice and use the lower result of his next 3 checks; this is a misfortune effect. He can't use Push My Luck again until he's completed these 3 checks."
  
+```
+
+```encounter-table
+name: Unshadowed Okoro
+creatures:
+  - 1: Unshadowed Okoro
 ```
 
 

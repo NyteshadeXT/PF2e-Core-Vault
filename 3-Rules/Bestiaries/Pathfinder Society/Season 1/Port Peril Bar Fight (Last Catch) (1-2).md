@@ -3,6 +3,7 @@ title: Port Peril Bar Fight (Last Catch) (1-2)
 obsidianUIMode: preview
 noteType: pf2eHazard
 tags:
+  - pf2eHazard
   - complex
 source: Pathfinder Society Quest #4: Port Peril Pub Crawl
 aliases: "Compendium.pf2e.pfs-season-1-bestiary.Actor.KFAjzSMh6HAyJMhd" 
@@ -34,7 +35,7 @@ health:
 perception:
   - name: ""
   - name: "Stealth DC -10" 
-    desc: "\-10 and no minimum proficiency to notice"
+    desc: "-10 and no minimum proficiency to notice"
 abilities_top:
   - name: ""
   - name: "Description"
@@ -57,5 +58,11 @@ attacks:
   - name: "Routine"
     desc: "(2 actions) The bar fight uses its first action to make a general mayhem Strike against all creatures in any area that has not been disabled. Make one Strike against each enemy in the area and roll the damage only once for all targets. The bar fight then uses its second action to use Port Peril specialty."
 
+```
+
+```encounter-table
+name: Port Peril Bar Fight (Last Catch) (1-2)
+creatures:
+  - 1: Port Peril Bar Fight (Last Catch) (1-2)
 ```
 

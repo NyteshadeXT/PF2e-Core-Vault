@@ -12,6 +12,7 @@ tags:
   - pf2e/creature/type/spirit
   - pf2e/creature/type/undead
   - pf2e/creature/type/unholy
+  - pf2eMonster
   - pf2e/creature/level/12
 statblock: inline
 name: "Belcorra Haruvex"
@@ -26,16 +27,16 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #165: Eyes of Empty Death"
 name: "Belcorra Haruvex"
 level: "Creature 12"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Medium"
-trait_01: "chaotic"
-trait_02: "evil"
-trait_03: "ghost"
-trait_04: "incorporeal"
-trait_05: "spirit"
-trait_06: "undead"
-trait_07: "unholy"
+trait_01: [[chaotic]]
+trait_02: [[evil]]
+trait_03: [[ghost]]
+trait_04: [[incorporeal]]
+trait_05: [[spirit]]
+trait_06: [[undead]]
+trait_07: [[unholy]]
 modifier: 22
 perception:
   - name: "Perception"
@@ -63,12 +64,12 @@ abilities_top:
     desc: " (detection) Belcorra can sense the presence of magic auras as though she were always using a 1st-rank [[Spells/Detect Magic|Detect Magic]] spell. When she [[Actions/Seek|Seeks]], she gains the benefits of a 3rd-rank _detect magic_ spell on things she sees."
 
   - name: "[[Creature Family Ability Glossary/(Ghost) Site Bound|Site Bound]]"
-    desc: "  Lowest three levels of the Abomination Vaults\nA typical ghost can stray only a short distance from where it was killed or the place it haunts. A typical limit is 120 feet. Some ghosts are instead bound to a room, building, item, or creature that was special to it rather than a location."
+    desc: "  Lowest three levels of the Abomination Vaults\n* * *\n\nA typical ghost can stray only a short distance from where it was killed or the place it haunts. A typical limit is 120 feet. Some ghosts are instead bound to a room, building, item, or creature that was special to it rather than a location."
 
 abilities_mid:
   - name: ""
   - name: "[[Creature Family Ability Glossary/(Ghost) Rejuvenation|Rejuvenation]]"
-    desc: " (divine) When Belcorra is destroyed, she re-forms in 2d4 days within the Empty Vault (though she can reduce that time by empowering herself with glimmers of Nhimbaloth's essence using the [[Equipment/Ebon Fulcrum Lens|Ebon Fulcrum Lens]]).\nBelcorra can only be permanently destroyed if she enacts her full revenge on Absalom or if Nhimbaloth devours her soul."
+    desc: " (divine) When Belcorra is destroyed, she re-forms in 2d4 days within the Empty Vault (though she can reduce that time by empowering herself with glimmers of Nhimbaloth's essence using the [[Equipment/Ebon Fulcrum Lens|Ebon Fulcrum Lens]]).\n\nBelcorra can only be permanently destroyed if she enacts her full revenge on Absalom or if Nhimbaloth devours her soul."
 
 attacks:
   - name: ""
@@ -86,17 +87,23 @@ attacks:
     desc: "_[[Spells/Collective Memories|Legend Lore]]_, _[[Spells/Binding Circle|Planar Binding]]_, _[[Spells/Teleportation Circle|Teleportation Circle]]_"
 
   - name: "Blood Magic"
-    desc: "  Each time Belcorra casts a sorcerer bloodline spell or an aberrant bloodline granted spell, she can grant herself or a target of the spell a +2 status bonus to Will saving throws for 1 round.\n[[Bestiary Effects/Effect_ Blood Magic|Effect: Blood Magic]]"
+    desc: "  Each time Belcorra casts a sorcerer bloodline spell or an aberrant bloodline granted spell, she can grant herself or a target of the spell a +2 status bonus to Will saving throws for 1 round.\n\n[[Bestiary Effects/Effect_ Blood Magic|Effect: Blood Magic]]"
 
   - name: "Corrupting Gaze"
-    desc: "`pf2:2`  Belcorra stares at a creature she can see within 30 feet. The target takes 9d6 mental damage (DC 33 Will check save).\nA creature that fails its save is also [[Conditions/Stupefied 1|Stupefied 1]] for 1 minute."
+    desc: "`pf2:2`  Belcorra stares at a creature she can see within 30 feet. The target takes 9d6 mental damage (DC 33 Will check save).\n\nA creature that fails its save is also [[Conditions/Stupefied|Stupefied 1]] for 1 minute."
 
   - name: "Haunted Lighthouse"
-    desc: "`pf2:1`  **Frequency** once every 10 minutes\n**Effect** Belcorra extends her presence throughout the lowest three levels of Gauntlight until the end of her next turn. She can see with the benefits of [[Bestiary Ability Glossary/All-Around Vision|All-Around Vision]] and can make ghostly hand attacks or use special abilities originating from any surface in this area."
+    desc: "`pf2:1`  **Frequency** once every 10 minutes\n* * *\n\n**Effect** Belcorra extends her presence throughout the lowest three levels of Gauntlight until the end of her next turn. She can see with the benefits of [[Bestiary Ability Glossary/All-Around Vision|All-Around Vision]] and can make ghostly hand attacks or use special abilities originating from any surface in this area."
 
   - name: "Quickened Casting"
-    desc: "  **Frequency** once per day\n**Effect** If Belcorra's next action is to cast a sorcerer spell of 4th rank or lower, she reduces the number of actions to cast it by 1 (minimum 1 action)."
+    desc: "  **Frequency** once per day\n* * *\n\n**Effect** If Belcorra's next action is to cast a sorcerer spell of 4th rank or lower, she reduces the number of actions to cast it by 1 (minimum 1 action)."
  
+```
+
+```encounter-table
+name: Belcorra Haruvex
+creatures:
+  - 1: Belcorra Haruvex
 ```
 
 

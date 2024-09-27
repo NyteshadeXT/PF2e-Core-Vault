@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/undead
   - pf2e/creature/type/unholy
+  - pf2eMonster
   - pf2e/creature/level/7
 statblock: inline
 name: "Virulak Necromancer"
@@ -22,12 +23,12 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #182: Graveclaw"
 name: "Virulak Necromancer"
 level: "Creature 7"
-rare_03: "Rare"
+rare_03: [[Rare]]
 alignment: ""
 size: "Medium"
-trait_01: "evil"
-trait_02: "undead"
-trait_03: "unholy"
+trait_01: [[evil]]
+trait_02: [[undead]]
+trait_03: [[unholy]]
 modifier: 13
 perception:
   - name: "Perception"
@@ -66,11 +67,17 @@ attacks:
     desc: "  The virulak necromancer can freely heighten [[Spells/False Vitality|False Vitality]], [[Spells/Grim Tendrils|Grim Tendrils]], and [[Spells/Vampiric Feast|Vampiric Feast]] to any level they can cast without knowing them at higher levels."
 
   - name: "Undead Virulence"
-    desc: " (poison,virulent) **Saving Throw** DC 25 Fortitude check\n**Maximum Duration** 6 rounds\n**Stage 1** 2d8 poison damage (1 round)\n**Stage 2** 3d8 poison damage (1 round)\n**Stage 3** 4d8 poison damage (1 round)"
+    desc: " (poison,virulent) **Saving Throw** DC 25 Fortitude check\n* * *\n\n**Maximum Duration** 6 rounds\n\n**Stage 1** 2d8 poison damage (1 round)\n\n**Stage 2** 3d8 poison damage (1 round)\n\n**Stage 3** 4d8 poison damage (1 round)"
 
   - name: "[[Compendium.pf2e.bestiary-family-ability-glossary.Item.G6pHIdhqtNoyM9Pu|Venomous Gaze]]"
     desc: "`pf2:2` (concentrate,divine,poison,visual) The virulak locks its gaze on a single creature within 30 feet. The target is exposed to the virulak's undead virulence."
  
+```
+
+```encounter-table
+name: Virulak Necromancer
+creatures:
+  - 1: Virulak Necromancer
 ```
 
 

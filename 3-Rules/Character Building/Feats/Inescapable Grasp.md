@@ -6,8 +6,9 @@ tags:
   - trait/archetype
   - trait/common
   - category/class
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.UxjAszOYAhUvCDt2"
-license: OGL
+license: ORC
 ---
 # Inescapable Grasp
 ## Feat 12
@@ -21,5 +22,5 @@ license: OGL
 * * *
 Your grasp has a supernatural quality to it, preventing your foes from easily escaping-with or without magical assistance. If a creature you have [[Conditions/Grabbed|Grabbed]] attempts to use a teleportation spell or effect, it must succeed at a DC 15 Flat check check or the spell fails. If a creature you have grabbed attempts to Escape while under the effect of freedom of movement, it must succeed at a DC 15 Flat check check or be forced to roll the Escape attempt normally, rather than automatically succeeding.
 
-*Source: Pathfinder Lost Omens: The Grand Bazaar*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

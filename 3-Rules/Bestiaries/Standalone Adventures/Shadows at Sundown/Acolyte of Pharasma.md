@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.shadows-at-sundown-bestiary.Actor.Ry6Sih9K9iyhAN5C"
 tags:
   - pf2e/creature/type/human
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/1
 statblock: inline
 name: "Acolyte of Pharasma"
@@ -21,11 +22,11 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Adventure: Shadows at Sundown"
 name: "Acolyte of Pharasma"
 level: "Creature 1"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Medium"
-trait_01: "human"
-trait_02: "humanoid"
+trait_01: [[human]]
+trait_02: [[humanoid]]
 modifier: 7
 perception:
   - name: "Perception"
@@ -55,7 +56,7 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
+  - name: "Ranged"
     desc: "`pf2:1` Dagger +4 (agile, finesse, thrown 10 ft., versatile s)\n__Damage__  1d4 + 2 piercing"
 
   - name: "Ranged"
@@ -67,6 +68,12 @@ attacks:
   - name: "Cleric Domain Spells"
     desc: "1 Focus Point, DC 17, attack +9; __1st __  _[[Spells/Healer's Blessing|Healer's Blessing]]_"
  
+```
+
+```encounter-table
+name: Acolyte of Pharasma
+creatures:
+  - 1: Acolyte of Pharasma
 ```
 
 

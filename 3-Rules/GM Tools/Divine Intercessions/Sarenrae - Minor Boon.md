@@ -17,7 +17,7 @@ license: OGL
 
 
 
-**Minor Boon (Single-Use)** Your healing hands are blessed with a warm flame.
+Your healing hands are blessed with a warm flame.
 
 Once, when you heal another creature, instead of healing it for the normal amount, you heal the creature to full Hit Points, no matter how much damage it has taken.
 

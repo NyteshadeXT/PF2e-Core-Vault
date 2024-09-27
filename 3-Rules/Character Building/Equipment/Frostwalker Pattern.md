@@ -12,7 +12,7 @@ license: OGL
 ---
 # Frostwalker Pattern
 ## Item 2
-### [[invested]][[magical]][[tattoo]]
+### [[invested]][[3-Rules/Rule References/Magical]][[tattoo]]
 
 
 **Price** 30 gp; 

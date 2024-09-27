@@ -17,7 +17,9 @@ license: OGL
 
 
 
-**Minor Boon** You feast on the spoils of life and death. You gain the benefits of the [[Heritages/Irongut Goblin|Irongut Goblin]] heritage, regardless of your ancestry. If you already have this heritage, the circumstance bonus increases to +4.
+You feast on the spoils of life and death.
+
+You gain the benefits of the [[Heritages/Irongut Goblin|Irongut Goblin]] heritage, regardless of your ancestry. If you already have this heritage, the circumstance bonus increases to +4.
 
 *Source: Pathfinder Lost Omens: Gods & Magic*
 *OGL*

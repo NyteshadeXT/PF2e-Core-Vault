@@ -14,7 +14,7 @@ license: ORC
 ---
 # Bloodseeker Beak (Greater)
 ## Item 8
-### [[consumable]][[magical]][[talisman]]
+### [[consumable]][[3-Rules/Rule References/Magical]][[talisman]]
 
 **Category** talisman; 
 **Price** 100 gp; 
@@ -23,7 +23,7 @@ license: ORC
 
 **Activate** `pf2:0` (concentrate)
 
-**Trigger** You hit an off-guard creature with the affixed weapon
+**Trigger** You hit an [[Conditions/Off-Guard|Off-Guard]] creature with the affixed weapon
 
 * * *
 

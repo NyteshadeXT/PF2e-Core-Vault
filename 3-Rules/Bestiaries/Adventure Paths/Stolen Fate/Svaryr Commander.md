@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/aesir
   - pf2e/creature/type/chaotic
   - pf2e/creature/type/monitor
+  - pf2eMonster
   - pf2e/creature/level/19
 statblock: inline
 name: "Svaryr Commander"
@@ -22,17 +23,17 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #192: Worst of All Possible Worlds"
 name: "Svaryr Commander"
 level: "Creature 19"
-rare_03: "Rare"
+rare_03: [[Rare]]
 alignment: ""
 size: "Medium"
-trait_01: "aesir"
-trait_02: "chaotic"
-trait_03: "monitor"
+trait_01: [[aesir]]
+trait_02: [[chaotic]]
+trait_03: [[monitor]]
 modifier: 33
 perception:
   - name: "Perception"
     desc: "+33; Darkvision"
-languages: "Common, Jotun"
+languages: "Common, Jotun; ravenspeaker, tongues"
 skills:
   - name: "Skills"
     desc: "Acrobatics: +34, Athletics: +38, Diplomacy: +34, Intimidation: +34, Religion: +33"
@@ -64,7 +65,7 @@ abilities_mid:
     desc: "`pf2:r`  "
 
   - name: "Recall the Fallen"
-    desc: "`pf2:r` (divine,healing) **Frequency** once per day\n**Trigger** An allied creature within 60 feet who isn't a construct or undead is reduced to 0 Hit Points and their dying value is 2 or less\n**Effect** The commander restores 8d10 Hit Points to the target."
+    desc: "`pf2:r` (divine,healing) **Frequency** once per day\n\n**Trigger** An allied creature within 60 feet who isn't a construct or undead is reduced to 0 Hit Points and their dying value is 2 or less\n* * *\n\n**Effect** The commander restores 8d10 Hit Points to the target."
 
 attacks:
   - name: ""
@@ -76,11 +77,17 @@ attacks:
     desc: "`pf2:1` Spear +36 (magical, thrown 20 ft.)\n__Damage__  3d6 + 17 piercing 2d12 electricity"
 
   - name: "Divine Innate Spells"
-    desc: "DC 38, attack +30; __9th __  _[[Spells/Heal|Heal]]_, _[[Spells/Weapon of Judgment|Weapon of Judgment]]_; __8th __  _[[Spells/Heal|Heal]]_; __7th __  _[[Spells/Heal|Heal]]_, _[[Spells/Interplanar Teleport|Plane Shift (Self and Mount Only)]]_; __6th __  _[[Spells/Infuse Vitality|Disrupting Weapons]]_, _[[Spells/Heal|Heal]]_, _[[Spells/Heroism|Heroism]]_; __3rd __  _[[Spells/Augury|Augury]]_, _[[Spells/Sanctified Ground|Sanctified Ground]]_, _[[Spells/Status|Status]]_, _[[Spells/Wanderer's Guide|Wanderer's Guide]]_\n__Constant__  __(9th)__ _[[Spells/Truespeech|Tongues]]_"
+    desc: "DC 38, attack +30; __9th __  _[[Spells/Heal|Heal]]_, _[[Spells/Weapon of Judgment|Weapon of Judgment]]_; __8th __  _[[Spells/Heal|Heal]]_; __7th __  _[[Spells/Heal|Heal]]_, _[[Spells/Interplanar Teleport|Plane Shift (Self and Mount Only)]]_; __6th __  _[[Spells/Infuse Vitality|Disrupting Weapons]]_, _[[Spells/Heal|Heal]]_, _[[Spells/Heroism|Heroism]]_; __3rd __  _[[Spells/Augury|Augury]]_, _[[Spells/Anointed Ground|Sanctified Ground]]_, _[[Spells/Status|Status]]_, _[[Spells/Wanderer's Guide|Wanderer's Guide]]_\n__Constant__  __(9th)__ _[[Spells/Truespeech|Tongues]]_"
 
   - name: "Storm of Battle"
-    desc: "`pf2:2` (divine,electricity) The commander hurls their spear into the air, creating a massive storm in a 100-foot burst. Spears of lightning rain down upon enemies in the area, dealing 5d12 electricity damage (DC 41 Reflex check save)."
+    desc: "`pf2:2` (divine,electricity) The commander hurls their spear into the air, creating a massive storm in a @Template[burst|distance:100]. Spears of lightning rain down upon enemies in the area, dealing 5d12 electricity damage (DC 41 Reflex check save)."
  
+```
+
+```encounter-table
+name: Svaryr Commander
+creatures:
+  - 1: Svaryr Commander
 ```
 
 

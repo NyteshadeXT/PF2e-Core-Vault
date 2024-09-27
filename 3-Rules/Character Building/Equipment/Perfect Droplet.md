@@ -12,7 +12,7 @@ license: OGL
 ---
 # Perfect Droplet
 ## Item 3
-### [[magical]][[spellheart]][[3-Rules/Rule References/Water]]
+### [[magical]][[spellheart]][[water]]
 
 
 **Price** 55 gp; 

@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/amphibious
   - pf2e/creature/type/chaotic
   - pf2e/creature/type/dragon
+  - pf2eMonster
   - pf2e/creature/level/6
 statblock: inline
 name: "I&#x27;iko Dragon"
@@ -22,12 +23,12 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #170: Spoken on the Song Wind"
 name: "I'iko Dragon"
 level: "Creature 6"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Small"
-trait_01: "amphibious"
-trait_02: "chaotic"
-trait_03: "dragon"
+trait_01: [[amphibious]]
+trait_02: [[chaotic]]
+trait_03: [[dragon]]
 modifier: 12
 perception:
   - name: "Perception"
@@ -63,17 +64,23 @@ attacks:
     desc: "`pf2:1` Claw +17 (agile, finesse)\n__Damage__  2d6 + 6 slashing"
 
   - name: "Breath Weapon"
-    desc: "`pf2:1` (arcane) The i'iko dragon breathes a spray of jagged glass shards that deals 7d6 piercing damage in a 15-foot cone (DC 24 Reflex check save). They can't use Breath Weapon again for 1d4 rounds."
+    desc: "`pf2:1` (arcane) The i'iko dragon breathes a spray of jagged glass shards that deals 7d6 piercing damage in a @Template[cone|distance:15] (DC 24 Reflex check save). They can't use Breath Weapon again for 1d4 rounds."
 
   - name: "Cunning Capsize"
     desc: "`pf2:1` (attack) The i'iko dragon attempts to capsize an aquatic vessel of Medium size or smaller that they're on or adjacent to. They must succeed at an DC 25 Athletics check check with a DC of 25 or the pilot's Sailing Lore DC, whichever is higher."
 
   - name: "Draconic Grandeur"
-    desc: "`pf2:1` (emotion,fear,mental) The i'iko dragon spreads their wings, bares their teeth, and threatens their opponent in a terrifying display of draconic majesty. All creatures within 30 feet must attempt a DC 24 Will check save. Regardless of the result of the saving throw, the creatures are temporarily immune to Draconic Grandeur for 1 minute.\n**Critical Success** The creature is unaffected.\n**Success** The creature is [[Conditions/Frightened 1|Frightened 1]].\n**Failure** The creature is [[Conditions/Frightened 1|Frightened 2]].\n**Critical Failure** The creature is [[Conditions/Frightened 1|Frightened 4]]."
+    desc: "`pf2:1` (emotion,fear,mental) The i'iko dragon spreads their wings, bares their teeth, and threatens their opponent in a terrifying display of draconic majesty. All creatures within 30 feet must attempt a DC 24 Will check save. Regardless of the result of the saving throw, the creatures are temporarily immune to Draconic Grandeur for 1 minute.\n* * *\n\n**Critical Success** The creature is unaffected.\n\n**Success** The creature is [[Conditions/Frightened|Frightened 1]].\n\n**Failure** The creature is [[Conditions/Frightened|Frightened 2]].\n\n**Critical Failure** The creature is [[Conditions/Frightened|Frightened 4]]."
 
   - name: "Tackle"
     desc: "`pf2:2` (move) The i'iko dragon Flies up to their fly Speed, descending at least 10 feet, and then makes a jaws Strike. If the jaws Strike hits and the target is Medium or smaller, the target is knocked [[Conditions/Prone|Prone]]."
  
+```
+
+```encounter-table
+name: I'iko Dragon
+creatures:
+  - 1: I'iko Dragon
 ```
 
 

@@ -12,7 +12,7 @@ license: OGL
 ---
 # Feyfoul (Lesser)
 ## Item 1
-### [rare](rare "Rare Rarity Trait")[[alchemical]][[consumable]]
+### [rare](rare.md "Rare Rarity Trait")[[alchemical]][[consumable]]
 
 **Category** other; 
 **Price** 4 gp; 

@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.pathfinder-bestiary-2.Actor.DWQzgPL1WjXfu4rV"
 tags:
   - pf2e/creature/type/mindless
   - pf2e/creature/type/plant
+  - pf2eMonster
   - pf2e/creature/level/3
 statblock: inline
 name: "Assassin Vine"
@@ -25,15 +26,16 @@ level: "Creature 3"
 
 alignment: ""
 size: "Large"
-trait_01: "mindless"
-trait_02: "plant"
+trait_01: [[mindless]]
+trait_02: [[plant]]
 modifier: 10
 perception:
   - name: "Perception"
     desc: "+10; Tremorsense (Imprecise) 30 Feet, Low-Light Vision"
+languages: ""
 skills:
   - name: "Skills"
-    desc: "Athletics: +9, Stealth: +9 (+11 in forests or grasslands)"
+    desc: "Athletics: +9, Stealth: +9"
 abilityMods: [4, 0, 3, -5, 3, 0]
 speed: 5 feet
 sourcebook: "_Pathfinder Bestiary 2_"
@@ -55,7 +57,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Grasping Foliage"
-    desc: "`pf2:r` (primal) **Trigger** The assassin vine detects a creature within 20 feet via [[Bestiary Ability Glossary/Tremorsense|Tremorsense]]\n**Effect** The assassin vine causes vegetation within a 20-foot emanation to writhe for 1 round, turning this area into difficult terrain. When a creature starts its turn in this area, it must attempt a DC 20 Reflex check save. On a failure, it takes a -10-foot circumstance penalty to its Speeds until it leaves the area, and on a critical failure it is also [[Conditions/Immobilized|Immobilized]] for 1 round. A creature can attempt to [[Actions/Escape|Escape]] to remove these effects.\nAssassin vines are immune to Grasping Foliage."
+    desc: "`pf2:r` (primal) **Trigger** The assassin vine detects a creature within 20 feet via [[Bestiary Ability Glossary/Tremorsense|Tremorsense]]\n* * *\n\n**Effect** The assassin vine causes vegetation within a @Template[emanation|distance:20] to writhe for 1 round, turning this area into difficult terrain. When a creature starts its turn in this area, it must attempt a DC 20 Reflex check save. On a failure, it takes a -10-foot circumstance penalty to its Speeds until it leaves the area, and on a critical failure it is also [[Conditions/Immobilized|Immobilized]] for 1 round. A creature can attempt to [[Actions/Escape|Escape]] to remove these effects.\n\nAssassin vines are immune to Grasping Foliage."
 
 attacks:
   - name: ""
@@ -64,11 +66,17 @@ attacks:
     desc: "`pf2:1` Vine +12 (reach 10 feet)\n__Damage__  1d8 + 6 bludgeoning plus grab"
 
   - name: "[[Bestiary Ability Glossary/Constrict|Constrict]]"
-    desc: "`pf2:1`  1d8 + 4 bludgeoning, DC 20 Fortitude check\n"
+    desc: "`pf2:1`  1d8+4 bludgeoning, DC 20 Fortitude check\n\n* * *\n"
 
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
     desc: "`pf2:1`  "
  
+```
+
+```encounter-table
+name: Assassin Vine
+creatures:
+  - 1: Assassin Vine
 ```
 
 

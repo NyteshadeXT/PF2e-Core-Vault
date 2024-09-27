@@ -10,6 +10,7 @@ tags:
   - pf2e/creature/type/ghoul
   - pf2e/creature/type/undead
   - pf2e/creature/type/unholy
+  - pf2eMonster
   - pf2e/creature/level/14
 statblock: inline
 name: "Falrok"
@@ -24,14 +25,14 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #148: Fires of the Haunted City"
 name: "Falrok"
 level: "Creature 14"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Medium"
-trait_01: "chaotic"
-trait_02: "evil"
-trait_03: "ghoul"
-trait_04: "undead"
-trait_05: "unholy"
+trait_01: [[chaotic]]
+trait_02: [[evil]]
+trait_03: [[ghoul]]
+trait_04: [[undead]]
+trait_05: [[unholy]]
 modifier: 28
 perception:
   - name: "Perception"
@@ -39,7 +40,7 @@ perception:
 languages: "Draconic, Dwarven, Necril, Sakvroth"
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +29, Crafting: +24, Deception: +27, Diplomacy: +27, Saggorak Lore: +24, Society: +24, Stealth: +29"
+    desc: "Acrobatics: +29, Crafting: +24, Deception: +27, Diplomacy: +27, Society: +24, Stealth: +29, Saggorak Lore: +24"
 abilityMods: [4, 8, 5, 3, 2, 6]
 speed: 30 feet,  burrow 20 feet
 sourcebook: "_Pathfinder #148: Fires of the Haunted City_"
@@ -61,10 +62,10 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Opportune Backstab"
-    desc: "`pf2:r`  **Trigger** A creature within Falrok's melee reach is hit by a melee attack from one of his allies.\n**Effect** When Falrok's enemy is hit by one of his allies, he capitalizes upon the distraction, making a Strike against the triggering creature."
+    desc: "`pf2:r`  **Trigger** A creature within Falrok's melee reach is hit by a melee attack from one of his allies.\n* * *\n\n**Effect** When Falrok's enemy is hit by one of his allies, he capitalizes upon the distraction, making a Strike against the triggering creature."
 
   - name: "[[Creature Family Ability Glossary/(Ghast) Stench|Stench]]"
-    desc: " (aura,olfactory) 10 feet. A creature entering the aura or starting its turn in the aura must succeed at a DC 34 Fortitude check save or become [[Conditions/Sickened 1|Sickened 1]] (plus [[Conditions/Slowed 1|Slowed 1]] as long as it's sickened on a critical failure).\nWhile within the aura, the creature takes a -2 circumstance penalty to saves against disease and to recover from the sickened condition. A creature that succeeds at its save is temporarily immune for 1 minute.\n[[Bestiary Effects/Effect_ Stench|Effect: Stench]]"
+    desc: " (aura,olfactory) 10 feet. A creature entering the aura or starting its turn in the aura must succeed at a DC 34 Fortitude check save or become [[Conditions/Sickened|Sickened 1]] (plus [[Conditions/Slowed|Slowed 1]] as long as it's sickened on a critical failure).\n\nWhile within the aura, the creature takes a -2 circumstance penalty to saves against disease and to recover from the sickened condition. A creature that succeeds at its save is temporarily immune for 1 minute.\n\n[[Bestiary Effects/Effect_ Stench|Effect: Stench]]"
 
 attacks:
   - name: ""
@@ -76,10 +77,10 @@ attacks:
     desc: "`pf2:1` Claw +30 (agile, finesse)\n__Damage__  3d6 + 12 slashing plus ghast-paralysis"
 
   - name: "[[Creature Family Ability Glossary/(Ghast) Consume Flesh|Consume Flesh]]"
-    desc: "`pf2:1` (manipulate) **Requirements** Falrok is adjacent to the corpse of a creature that died within the last hour.\n**Effect** Falrok devours a chunk of the corpse and regains 8d6 Hit Points.\nHe can regain Hit Points from any given corpse only once."
+    desc: "`pf2:1` (manipulate) **Requirements** Falrok is adjacent to the corpse of a creature that died within the last hour.\n* * *\n\n**Effect** Falrok devours a chunk of the corpse and regains 8d6 healing Hit Points.\n\nHe can regain Hit Points from any given corpse only once."
 
   - name: "[[Creature Family Ability Glossary/(Ghast) Ghast Fever|Ghast Fever]]"
-    desc: " (disease,virulent) **Saving Throw** DC 34 Fortitude check\n**Stage 1** carrier with no ill effect (1 day)\n**Stage 2** 3d8 void damage and regains half as many Hit Points from all healing (1 day)\n**Stage 3** as stage 2 (1 day)\n**Stage 4** 3d8 void damage and gains no benefit from healing (1 day)\n**Stage 5** as stage 4 (1 day)\n**Stage 6** dead, and rises as a [[Bestiary 1/Ghast|Ghast]] the next midnight"
+    desc: " (disease,virulent) **Saving Throw** DC 34 Fortitude check\n* * *\n\n**Stage 1** carrier with no ill effect (1 day)\n\n**Stage 2** 3d8 void damage and regains half as many Hit Points from all healing (1 day)\n\n**Stage 3** as stage 2 (1 day)\n\n**Stage 4** 3d8 void damage and gains no benefit from healing (1 day)\n\n**Stage 5** as stage 4 (1 day)\n\n**Stage 6** dead, and rises as a [[Bestiary 1/Ghast|Ghast]] the next midnight"
 
   - name: "[[Creature Family Ability Glossary/(Ghast) Paralysis|Paralysis]]"
     desc: " (incapacitation,occult) Any living creature hit by a ghast's attack must succeed at a DC 34 Fortitude check save or become [[Conditions/Paralyzed|Paralyzed]]. It can attempt a new save at the end of each of its turns, and the DC cumulatively decreases by 1 on each such save."
@@ -93,6 +94,12 @@ attacks:
   - name: "Swift Leap"
     desc: "`pf2:1` (move) Falrok jumps up to half his Speed. This movement doesn't trigger reactions."
  
+```
+
+```encounter-table
+name: Falrok
+creatures:
+  - 1: Falrok
 ```
 
 

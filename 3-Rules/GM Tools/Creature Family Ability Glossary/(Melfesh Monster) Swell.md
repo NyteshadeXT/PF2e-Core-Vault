@@ -21,7 +21,7 @@ license: OGL
 
 * * *
 
-**Effect** The Melfesh Monster inflates with gas for 1 minute. It grows to Huge size, and its reach increases to 15 feet. It also gains 12 temporary Hit Points, resistance 5 to bludgeoning, and a +2 status bonus to damage rolls, but it's [[Conditions/Clumsy 1|Clumsy 1]]. When the Melfesh Monster takes damage while swollen, all creatures within 15 feet inhale spores that remain in their body for 1 minute. This ability replaces terrorspores and Spore Cloud.
+**Effect** The Melfesh Monster inflates with gas for 1 minute. It grows to Huge size, and its reach increases to 15 feet. It also gains 12 temporary Hit Points, resistance 5 to bludgeoning, and a +2 status bonus to damage rolls, but it's [[Conditions/Clumsy|Clumsy 1]]. When the Melfesh Monster takes damage while swollen, all creatures within 15 feet inhale spores that remain in their body for 1 minute. This ability replaces terrorspores and Spore Cloud.
 
 [[Bestiary Effects/Effect_ Swell|Effect: Swell]]
 

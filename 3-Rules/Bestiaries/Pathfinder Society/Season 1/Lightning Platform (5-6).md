@@ -6,6 +6,7 @@ tags:
   - electricity
   - magical
   - trap
+  - pf2eHazard
 
 source: Pathfinder Society Scenario #1-25: Grim Symphony
 aliases: "Compendium.pf2e.pfs-season-1-bestiary.Actor.2cIhbpiQcXGnWdCP" 
@@ -23,15 +24,15 @@ name: "Lightning Platform (5-6)"
 level: "Hazard 3"
 
 
-trait_01: "electricity"
-trait_02: "magical"
-trait_03: "trap"
+trait_01: [[electricity]]
+trait_02: [[magical]]
+trait_03: [[trap]]
 modifier: 0
 sourcebook: "_Pathfinder Society Scenario #1-25: Grim Symphony_"
 ac: 16
 armorclass:
   - name: AC
-    desc: "16; __Fort__ +14, __Ref__ +12, __Will__ +0"
+    desc: "16; __Fort__ +14, __Ref__ +12, "
 hp: 43
 health:
   - name: ""
@@ -53,9 +54,15 @@ attacks:
   - name: ""
 
   - name: "Magnetic Drag"
-    desc: "`pf2:r` (arcane, electricity) **Trigger** A creature moves within 10 feet of the platform\n**Effect** All creatures within 10 feet of the platform must each attempt a DC 23 Fortitude check save. Creatures who are wearing metal armor or are made of metal suffer a -2 circumstance penalty to this save.\n**Critical Success** The creature is unaffected.\n**Success** The creature is dragged 5 feet toward the platform.\n**Failure** The creature is dragged onto the platform, which is quickly raised on chains 20 feet into the air. The creature is then struck by lightning for 2d10 + 13 electricity damage.\n**Critical Failure** As failure, but the creature is also knocked [[Conditions/Prone|Prone]] and [[Conditions/Restrained|Restrained]] on the platform (Escape DC 20)."
+    desc: "`pf2:r` (arcane, electricity) **Trigger** A creature moves within 10 feet of the platform\n* * *\n\n**Effect** All creatures within 10 feet of the platform must each attempt a DC 23 Fortitude check save. Creatures who are wearing metal armor or are made of metal suffer a -2 circumstance penalty to this save.\n* * *\n\n**Critical Success** The creature is unaffected.\n\n**Success** The creature is dragged 5 feet toward the platform.\n\n**Failure** The creature is dragged onto the platform, which is quickly raised on chains 20 feet into the air. The creature is then struck by lightning for 2d10+13 electricity damage.\n\n**Critical Failure** As failure, but the creature is also knocked [[Conditions/Prone|Prone]] and [[Conditions/Restrained|Restrained]] on the platform (Escape DC 20)."
 
 
 
+```
+
+```encounter-table
+name: Lightning Platform (5-6)
+creatures:
+  - 1: Lightning Platform (5-6)
 ```
 

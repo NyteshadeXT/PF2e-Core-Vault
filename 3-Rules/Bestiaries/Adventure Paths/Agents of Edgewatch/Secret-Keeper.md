@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/human
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/14
 statblock: inline
 name: "Secret-Keeper"
@@ -22,12 +23,12 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #160: Assault on Hunting Lodge Seven"
 name: "Secret-Keeper"
 level: "Creature 14"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Medium"
-trait_01: "evil"
-trait_02: "human"
-trait_03: "humanoid"
+trait_01: [[evil]]
+trait_02: [[human]]
+trait_03: [[humanoid]]
 modifier: 29
 perception:
   - name: "Perception"
@@ -55,7 +56,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Shield Block"
-    desc: "`pf2:r`  **Trigger** The monster has its shield raised and takes damage from a physical attack.\n**Effect** The monster snaps its shield into place to deflect a blow. The shield prevents the monster from taking an amount of damage up to the shield's Hardness. The monster and the shield each take any remaining damage, possibly breaking or destroying the shield."
+    desc: "`pf2:r`  **Trigger** The monster has its shield raised and takes damage from a physical attack.\n* * *\n\n**Effect** The monster snaps its shield into place to deflect a blow. The shield prevents the monster from taking an amount of damage up to the shield's Hardness. The monster and the shield each take any remaining damage, possibly breaking or destroying the shield."
 
 attacks:
   - name: ""
@@ -72,6 +73,12 @@ attacks:
   - name: "Designate Apostate"
     desc: "`pf2:1` (auditory,concentrate,divine,visual) Velberi designates one creature she can see within 30 feet as an apostate to the church of Norgorber, regardless of the creature's actual religious leanings. She can have up to four apostates designated at a time; any additional apostate removes another apostate of her choice. Velberi treats all Perception checks made to [[Actions/Sense Motive|Sense Motive]] against an apostate as one degree of success better, and her Strikes deal an additional 2d8 mental damage to apostates."
  
+```
+
+```encounter-table
+name: Secret-Keeper
+creatures:
+  - 1: Secret-Keeper
 ```
 
 

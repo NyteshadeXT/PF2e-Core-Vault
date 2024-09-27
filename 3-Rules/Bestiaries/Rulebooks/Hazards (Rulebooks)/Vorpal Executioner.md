@@ -5,6 +5,7 @@ noteType: pf2eHazard
 tags:
   - mechanical
   - trap
+  - pf2eHazard
 
   - remaster
 source: Pathfinder GM Core
@@ -23,14 +24,14 @@ name: "Vorpal Executioner"
 level: "Hazard 19"
 
 
-trait_01: "mechanical"
-trait_02: "trap"
+trait_01: [[mechanical]]
+trait_02: [[trap]]
 modifier: 33
 sourcebook: "_Pathfinder GM Core_"
 ac: 43
 armorclass:
   - name: AC
-    desc: "43; __Fort__ +32, __Ref__ +32, __Will__ +0"
+    desc: "43; __Fort__ +32, __Ref__ +32, "
 hp: 120
 health:
   - name: ""
@@ -52,18 +53,24 @@ attacks:
   - name: ""
 
   - name: "Total Decapitation"
-    desc: "`pf2:r` (attack, death) **Trigger** A creature attempts to exit the room.\n**Effect** The saw blade travels along its path, making one Strike against each creature in the room, twisting and varying its height for a maximum chance of beheading its targets."
+    desc: "`pf2:r` (attack, death) **Trigger** A creature attempts to exit the room.\n* * *\n\n**Effect** The saw blade travels along its path, making one Strike against each creature in the room, twisting and varying its height for a maximum chance of beheading its targets."
   - name: "Melee"
     desc: "Saw Blade +40 (deadly d12, death) "
 
   - name: "Decapitation"
     desc: "passive On a critical hit, a target must succeed at a DC 39 Fortitude check save or be decapitated, dying instantly unless it can survive without a head."
 
-  - name: "No Map"
+  - name: "No MAP"
     desc: "passive The saw blade Strikes do not apply a MAP."
 
 
   - name: "Reset"
     desc: "The trap resets over the course of the round and can be triggered again 1 round later."
+```
+
+```encounter-table
+name: Vorpal Executioner
+creatures:
+  - 1: Vorpal Executioner
 ```
 

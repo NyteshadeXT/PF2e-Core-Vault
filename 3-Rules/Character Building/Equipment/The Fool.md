@@ -26,7 +26,7 @@ license: OGL
 
 * * *
 
-_The Fool_ represents grave foolishness, grand naivete, and exceptional greed. As long as you have _The Fool_ invested, anytime you gain the [[Conditions/Stupefied 1|Stupefied]] condition, reduce its value by 1. You also gain a +2 item bonus to all saving throws against effects that cause the stupefied condition. This bonus increases to +3 if you're at least 17th level.
+_The Fool_ represents grave foolishness, grand naivete, and exceptional greed. As long as you have _The Fool_ invested, anytime you gain the [[Conditions/Stupefied|Stupefied]] condition, reduce its value by 1. You also gain a +2 item bonus to all saving throws against effects that cause the stupefied condition. This bonus increases to +3 if you're at least 17th level.
 
 **Activate** `pf2:2` envision, Interact (mental)
 
@@ -40,11 +40,11 @@ _The Fool_ represents grave foolishness, grand naivete, and exceptional greed. A
 
 **Critical Success** The creature is unaffected.
 
-**Success** The creature is distracted by your antics and is [[Conditions/Stupefied 1|Stupefied 1]] until the start of your next turn.
+**Success** The creature is distracted by your antics and is [[Conditions/Stupefied|Stupefied 1]] until the start of your next turn.
 
-**Failure** The creature is [[Conditions/Stupefied 1|Stupefied 2]].
+**Failure** The creature is [[Conditions/Stupefied|Stupefied 2]].
 
-**Critical Failure** The creature is [[Conditions/Stupefied 1|Stupefied 3]]. In addition, for 1 minute, the creature is [[Conditions/Confused|Confused]].
+**Critical Failure** The creature is [[Conditions/Stupefied|Stupefied 3]]. In addition, for 1 minute, the creature is [[Conditions/Confused|Confused]].
 
 *Source: Pathfinder #192: Worst of All Possible Worlds*
 *OGL*

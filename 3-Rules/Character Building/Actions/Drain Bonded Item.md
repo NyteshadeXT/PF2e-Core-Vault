@@ -13,7 +13,7 @@ license: ORC
 ---
 # Drain Bonded Item `pf2:0`
 
-### [[arcane]][[wizard]]
+### [[3-Rules/Rule References/Arcane]][[3-Rules/trait_reference/wizard]]
 
 **Category** interaction; 
 

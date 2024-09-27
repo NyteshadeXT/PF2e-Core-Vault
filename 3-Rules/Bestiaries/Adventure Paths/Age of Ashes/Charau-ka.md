@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/charau-ka
   - pf2e/creature/type/evil
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/1
 statblock: inline
 name: "Charau-ka"
@@ -26,10 +27,10 @@ level: "Creature 1"
 
 alignment: ""
 size: "Small"
-trait_01: "chaotic"
-trait_02: "charau-ka"
-trait_03: "evil"
-trait_04: "humanoid"
+trait_01: [[chaotic]]
+trait_02: [[charau-ka]]
+trait_03: [[evil]]
+trait_04: [[humanoid]]
 modifier: 6
 perception:
   - name: "Perception"
@@ -69,11 +70,17 @@ attacks:
     desc: "`pf2:1` Thrown Debris +8 (thrown 20 ft., deadly d6)\n__Damage__  1d6 + 3 bludgeoning"
 
   - name: "Shrieking Frenzy"
-    desc: " (primal) **Trigger** The charau-ka's turn begins.\n**Frequency** once per hour\n**Effect** The charau-ka is [[Conditions/Quickened|Quickened]] until the end of its turn, and can use the extra action to Stride or Strike. Due to its loud wailing while in a shrieking frenzy, the charau-ka can't speak and automatically critically fails all Stealth checks."
+    desc: " (primal) **Trigger** The charau-ka's turn begins.\n\n**Frequency** once per hour\n* * *\n\n**Effect** The charau-ka is [[Conditions/Quickened|Quickened]] until the end of its turn, and can use the extra action to Stride or Strike. Due to its loud wailing while in a shrieking frenzy, the charau-ka can't speak and automatically critically fails all Stealth checks."
 
   - name: "Thrown Weapon Mastery"
     desc: "  When a charau-ka throws a weapon, the weapon gains the deadly d6 weapon trait. When it throws an improvised weapon, it doesn't take the -2 penalty for using an improvised weapon, nor does it take the penalty for using that weapon to make a lethal attack instead of a nonlethal attack."
  
+```
+
+```encounter-table
+name: Charau-ka
+creatures:
+  - 1: Charau-ka
 ```
 
 

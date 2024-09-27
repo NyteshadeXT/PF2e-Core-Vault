@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/construct
   - pf2e/creature/type/golem
   - pf2e/creature/type/mindless
+  - pf2eMonster
   - pf2e/creature/level/16
 statblock: inline
 name: "Obsidian Golem"
@@ -22,16 +23,17 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #155: Lord of the Black Sands"
 name: "Obsidian Golem"
 level: "Creature 16"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Large"
-trait_01: "construct"
-trait_02: "golem"
-trait_03: "mindless"
+trait_01: [[construct]]
+trait_02: [[golem]]
+trait_03: [[mindless]]
 modifier: 28
 perception:
   - name: "Perception"
     desc: "+28; Darkvision"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Athletics: +33"
@@ -53,10 +55,10 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Assimilate Lava"
-    desc: "  An obsidian golem that submerges itself in lava or magma takes no damage from it, and for as long as it remains submerged, it becomes [[Conditions/Slowed 1|Slowed 2]] and gains fast healing 15.\n[[Bestiary Effects/Effect_ Assimilate Lava|Effect: Assimilate Lava]]"
+    desc: "  An obsidian golem that submerges itself in lava or magma takes no damage from it, and for as long as it remains submerged, it becomes [[Conditions/Slowed|Slowed 2]] and gains fast healing 15.\n\n[[Bestiary Effects/Effect_ Assimilate Lava|Effect: Assimilate Lava]]"
 
   - name: "[[Creature Family Ability Glossary/(Golem) Golem Antimagic|Golem Antimagic]]"
-    desc: "  harmed by sonic ({8d10} damage, {2d10} damage from areas or persistent damage); healed by cold (area 2d10 Hit Points); slowed by fire\nA golem is immune to spells and magical abilities other than its own, but each type of golem is affected by a few types of magic in special ways. These exceptions are listed in shortened form in the golem's stat block, with the full rules appearing here. If an entry lists multiple types (such as \"cold and water\"), either type of spell can affect the golem.\n*   **Harmed By** Any magic of this type that targets the golem causes it to take the listed amount of damage (this damage has no type) instead of the usual effect. If the golem starts its turn in an area of magic of this type or is affected by a persistent effect of the appropriate type, it takes the damage listed in the parenthetical.\n*   **Healed By** Any magic of this type that targets the golem makes the golem lose the slowed condition and gain HP equal to half the damage the spell would have dealt. If the golem starts its turn in an area of this type of magic, it gains the HP listed in the parenthetical.\n*   **Slowed By** Any magic of this type that targets the golem causes it to be [[Conditions/Slowed 1|Slowed 1]] for 2d6 rounds instead of the usual effect. If the golem starts its turn in an area of this type of magic, it's slowed 1 for that round.\n*   **Vulnerable To** Each golem is vulnerable to one or more specific spells, with the effects described in its stat block."
+    desc: "  harmed by sonic (8d10 damage, 2d10 damage from areas or persistent damage); healed by cold (area 2d10 Hit Points); slowed by fire\n* * *\n\nA golem is immune to spells and magical abilities other than its own, but each type of golem is affected by a few types of magic in special ways. These exceptions are listed in shortened form in the golem's stat block, with the full rules appearing here. If an entry lists multiple types (such as \"cold and water\"), either type of spell can affect the golem.\n\n*   **Harmed By** Any magic of this type that targets the golem causes it to take the listed amount of damage (this damage has no type) instead of the usual effect. If the golem starts its turn in an area of magic of this type or is affected by a persistent effect of the appropriate type, it takes the damage listed in the parenthetical.\n*   **Healed By** Any magic of this type that targets the golem makes the golem lose the slowed condition and gain HP equal to half the damage the spell would have dealt. If the golem starts its turn in an area of this type of magic, it gains the HP listed in the parenthetical.\n*   **Slowed By** Any magic of this type that targets the golem causes it to be [[Conditions/Slowed|Slowed 1]] for 2d6 rounds instead of the usual effect. If the golem starts its turn in an area of this type of magic, it's slowed 1 for that round.\n*   **Vulnerable To** Each golem is vulnerable to one or more specific spells, with the effects described in its stat block."
 
   - name: "Vulnerable to Shatter"
     desc: "  Casting a [[Spells/Shatter|Shatter]] spell on an obsidian golem affects the golem normally, but also causes jagged chunks of obsidian to flake off its body. The squares on which the golem was standing (or the squares below it, if it was flying) become difficult terrain."
@@ -74,11 +76,17 @@ attacks:
     desc: "`pf2:1` Obsidian Sliver +32 (deadly d8, magical, range increment 30 feet, versatile s)\n__Damage__  4d8 + 15 piercing"
 
   - name: "Fling Shards"
-    desc: "`pf2:1`  The obsidian golem slings razor-sharp shards of itself in a 15-foot cone.\nCreatures in the area take 4d8 + 9 slashing damage (DC 37 Reflex check)."
+    desc: "`pf2:1`  The obsidian golem slings razor-sharp shards of itself in a @Template[cone|distance:15].\n\nCreatures in the area take 4d8+9 slashing damage (DC 37 Reflex check)."
 
   - name: "Shred Armor"
     desc: "  An obsidian golem's body is so sharp that it tears through armor like a knife through butter. Whenever the golem scores a critical hit with a fist Strike against a creature wearing non-adamantine armor, the creature's armor becomes [[Conditions/Broken|Broken]]."
  
+```
+
+```encounter-table
+name: Obsidian Golem
+creatures:
+  - 1: Obsidian Golem
 ```
 
 

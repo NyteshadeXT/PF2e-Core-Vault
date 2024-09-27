@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.npc-gallery.Actor.K8mtLJ5jgxfqxTCv"
 tags:
   - pf2e/creature/type/human
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/-1
 statblock: inline
 name: "Harrow Reader"
@@ -24,8 +25,8 @@ level: "Creature -1"
 
 alignment: ""
 size: "Medium"
-trait_01: "human"
-trait_02: "humanoid"
+trait_01: [[human]]
+trait_02: [[humanoid]]
 modifier: 7
 perception:
   - name: "Perception"
@@ -33,7 +34,7 @@ perception:
 languages: "Common"
 skills:
   - name: "Skills"
-    desc: "Diplomacy: +8, Fortune-Telling Lore: +11, Occultism: +7, Performance: +10 (+11 when fortune-telling), Society: +7"
+    desc: "Diplomacy: +8, Occultism: +7, Performance: +10, Society: +7, Fortune-Telling Lore: +11"
 abilityMods: [1, 2, 1, 2, 3, 3]
 speed: 25 feet
 sourcebook: "_Pathfinder Gamemastery Guide_"
@@ -61,6 +62,12 @@ attacks:
   - name: "Fated Doom"
     desc: "  While harrow readers try to avoid combat, no throw of the cards can avoid fate, so a harrow reader learns how to best survive. In the harrow reader's first encounter each day, they gain a +1 status bonus to their initiative roll, their attack rolls, and their AC."
  
+```
+
+```encounter-table
+name: Harrow Reader
+creatures:
+  - 1: Harrow Reader
 ```
 
 

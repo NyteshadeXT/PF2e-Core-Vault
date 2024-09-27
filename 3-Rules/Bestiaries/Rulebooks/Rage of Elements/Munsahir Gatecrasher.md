@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/elemental
   - pf2e/creature/type/fire
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/4
   - remaster
 statblock: inline
@@ -26,9 +27,9 @@ level: "Creature 4"
 
 alignment: ""
 size: "Medium"
-trait_01: "elemental"
-trait_02: "fire"
-trait_03: "humanoid"
+trait_01: [[elemental]]
+trait_02: [[fire]]
+trait_03: [[humanoid]]
 modifier: 11
 perception:
   - name: "Perception"
@@ -59,7 +60,7 @@ abilities_mid:
     desc: " (aura,fire) 10 feet. An munsahir's skin radiates heat like a forge's fire. A creature that starts its turn in the area must succeed at a DC 19 Fortitude check save or become [[Conditions/Fatigued|Fatigued]] while it remains in the area. Creatures immune to environmental heat effects or with any fire resistance are immune."
 
   - name: "Self-Destruct"
-    desc: "  When the munsahir is reduced to 0 HP, their armor explodes at the start of their next turn, dealing 5d6 fire damage in a 10-foot emanation (DC 19 Reflex check)."
+    desc: "  When the munsahir is reduced to 0 HP, their armor explodes at the start of their next turn, dealing 5d6 fire damage in a @Template[emanation|distance:10] (DC 19 Reflex check)."
 
 attacks:
   - name: ""
@@ -76,6 +77,12 @@ attacks:
   - name: "Burning Touch"
     desc: " (fire,primal) The munsahir gatecrasher's Strikes deal an extra 1d6 fire damage (included above). When the gatecrasher successfully performs a [[Actions/Grapple|Grapple]] or [[Actions/Shove|Shove]] action, they also deal 1d6 fire damage to their target."
  
+```
+
+```encounter-table
+name: Munsahir Gatecrasher
+creatures:
+  - 1: Munsahir Gatecrasher
 ```
 
 

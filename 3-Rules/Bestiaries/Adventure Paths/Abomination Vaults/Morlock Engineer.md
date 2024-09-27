@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/humanoid
   - pf2e/creature/type/morlock
+  - pf2eMonster
   - pf2e/creature/level/3
 statblock: inline
 name: "Morlock Engineer"
@@ -23,13 +24,13 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #163: Ruins of Gauntlight"
 name: "Morlock Engineer"
 level: "Creature 3"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Medium"
-trait_01: "chaotic"
-trait_02: "evil"
-trait_03: "humanoid"
-trait_04: "morlock"
+trait_01: [[chaotic]]
+trait_02: [[evil]]
+trait_03: [[humanoid]]
+trait_04: [[morlock]]
 modifier: 8
 perception:
   - name: "Perception"
@@ -37,7 +38,7 @@ perception:
 languages: "Sakvroth"
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +8, Athletics: +9 (+11 Climbing), Crafting: +10, Stealth: +10"
+    desc: "Acrobatics: +8, Athletics: +9, Crafting: +10, Stealth: +10"
 abilityMods: [4, 3, 2, 1, 3, 0]
 speed: 30 feet,  climb 20 feet
 sourcebook: "_Pathfinder #163: Ruins of Gauntlight_"
@@ -78,8 +79,14 @@ attacks:
     desc: "  A morlock can share the same space as another morlock, but no more than two morlocks can occupy the same space. When morlocks share the same space, they gain a +1 circumstance bonus to attack rolls."
 
   - name: "Uncanny Tinker"
-    desc: "`pf2:2`  The morlock engineer tinkers with an adjacent construct or mechanical hazard. They attempt a Crafting check check against the construct's or hazard's Fortitude DC. The morlock can't get an outcome better than failure if the target's level is more than double the morlock's.\nThis ability reflects hasty battlefield repairs; once a construct or hazard regains Hit Points from this ability, it can't do so again until it's been [[Actions/Repair|Repaired]].\n**Critical Success** The target regains 8d6 damage (bludgeoning, piercing, or slashing, as chosen by the morlock engineer) to the construct or hazard.\n**Success** As critical success, but the target regains 4d6 damage.\n**Critical Failure** The morlock injures themself, taking 3d6 damage (typically bludgeoning, piercing, or slashing, but potentially a different type at the GM's discretion).\n[[Bestiary Effects/Effect_ Uncanny Tinker|Effect: Uncanny Tinker]]"
+    desc: "`pf2:2`  The morlock engineer tinkers with an adjacent construct or mechanical hazard. They attempt a Crafting check check against the construct's or hazard's Fortitude DC. The morlock can't get an outcome better than failure if the target's level is more than double the morlock's.\n\nThis ability reflects hasty battlefield repairs; once a construct or hazard regains Hit Points from this ability, it can't do so again until it's been [[Actions/Repair|Repaired]].\n* * *\n\n**Critical Success** The target regains 8d6 damage (bludgeoning, piercing, or slashing, as chosen by the morlock engineer) to the construct or hazard.\n\n**Success** As critical success, but the target regains 4d6 damage.\n\n**Critical Failure** The morlock injures themself, taking 3d6 damage (typically bludgeoning, piercing, or slashing, but potentially a different type at the GM's discretion).\n\n[[Bestiary Effects/Effect_ Uncanny Tinker|Effect: Uncanny Tinker]]"
  
+```
+
+```encounter-table
+name: Morlock Engineer
+creatures:
+  - 1: Morlock Engineer
 ```
 
 

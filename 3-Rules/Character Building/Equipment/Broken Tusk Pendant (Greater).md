@@ -11,7 +11,7 @@ license: OGL
 ---
 # Broken Tusk Pendant (Greater)
 ## Item 13
-### [rare](rare "Rare Rarity Trait")[[invested]][[primal]]
+### [rare](rare.md "Rare Rarity Trait")[[invested]][[primal]]
 
 
 **Price** 3000 gp; 

@@ -41,7 +41,7 @@ If you're in this battle form and are already at full HP when your regeneration 
 
 **Trigger** A foe within 15 feet hits you with a Strike that deals slashing or piercing damage
 
-**Effect** Your _ouroboros buckles_ spray acidic blood in a 15-foot cone toward the foe, dealing 5d6 acid with a DC 41 Reflex check.
+**Effect** Your _ouroboros buckles_ spray acidic blood in a @Template\[cone|distance:15\] toward the foe, dealing 5d6 acid with a DC 41 Reflex check.
 
 * * *
 

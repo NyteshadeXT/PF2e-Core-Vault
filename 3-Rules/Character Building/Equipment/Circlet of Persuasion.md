@@ -12,7 +12,7 @@ license: OGL
 ---
 # Circlet of Persuasion
 ## Item 17
-### [[apex]][[invested]][[magical]]
+### [[apex]][[invested]][[3-Rules/Rule References/Magical]]
 
 
 **Price** 15000 gp; 

@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/aesir
   - pf2e/creature/type/chaotic
   - pf2e/creature/type/monitor
+  - pf2eMonster
   - pf2e/creature/level/10
 statblock: inline
 name: "Einherji"
@@ -26,9 +27,9 @@ level: "Creature 10"
 
 alignment: ""
 size: "Medium"
-trait_01: "aesir"
-trait_02: "chaotic"
-trait_03: "monitor"
+trait_01: [[aesir]]
+trait_02: [[chaotic]]
+trait_03: [[monitor]]
 modifier: 17
 perception:
   - name: "Perception"
@@ -80,7 +81,7 @@ attacks:
     desc: "2 Focus Points, DC 29, attack +21; __5th __  _[[Spells/Weapon Surge|Weapon Surge]]_, _[[Spells/Word of Freedom|Word of Freedom]]_"
 
   - name: "Challenge Foe"
-    desc: "`pf2:1`  The einherji challenges one creature they can see to single combat, attempting to [[Actions/Demoralize|Demoralize]] that target.\nThis target remains the einherji's foe until it's defeated, it flees, or the encounter ends. The einherji gains a circumstance bonus to damage equal to their number of weapon damage dice against their designated foe but takes an equivalent circumstance penalty to damage against any other creature.\nIf the einherji is defeated by their challenged foe, the shame causes them to lose use of their champion devotion spells for 1 week or until they challenge the same foe again and emerge victorious, whichever comes first."
+    desc: "`pf2:1`  The einherji challenges one creature they can see to single combat, attempting to [[Actions/Demoralize|Demoralize]] that target.\n\nThis target remains the einherji's foe until it's defeated, it flees, or the encounter ends. The einherji gains a circumstance bonus to damage equal to their number of weapon damage dice against their designated foe but takes an equivalent circumstance penalty to damage against any other creature.\n\nIf the einherji is defeated by their challenged foe, the shame causes them to lose use of their champion devotion spells for 1 week or until they challenge the same foe again and emerge victorious, whichever comes first."
 
   - name: "Instant Repair"
     desc: "`pf2:1`  The einherji [[Actions/Repair|Repairs]] their shield. They can't use this ability if the shield is completely destroyed."
@@ -88,6 +89,12 @@ attacks:
   - name: "Jotun Slayer"
     desc: "  The einherji has a +4 circumstance bonus to damage rolls made against giants and creatures that are at least two sizes larger than the einherji."
  
+```
+
+```encounter-table
+name: Einherji
+creatures:
+  - 1: Einherji
 ```
 
 

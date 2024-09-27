@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/human
   - pf2e/creature/type/humanoid
   - pf2e/creature/type/lawful
+  - pf2eMonster
   - pf2e/creature/level/8
 statblock: inline
 name: "Drelev Guard"
@@ -23,13 +24,13 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Kingmaker"
 name: "Drelev Guard"
 level: "Creature 8"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Medium"
-trait_01: "evil"
-trait_02: "human"
-trait_03: "humanoid"
-trait_04: "lawful"
+trait_01: [[evil]]
+trait_02: [[human]]
+trait_03: [[humanoid]]
+trait_04: [[lawful]]
 modifier: 16
 perception:
   - name: "Perception"
@@ -60,7 +61,7 @@ abilities_mid:
     desc: "`pf2:r`  "
 
   - name: "[[Actions/Raise a Shield|Raise a Shield]]"
-    desc: "`pf2:1` (general) **Requirements** You are wielding a shield\nYou position your shield to protect yourself. When you have Raised a Shield, you gain its listed circumstance bonus to AC. Your shield remains raised until the start of your next turn.\n[[Equipment Effects/Effect_ Raise a Shield|Effect: Raise a Shield]]"
+    desc: "`pf2:1` (general) **Requirements** You are wielding a shield\n* * *\n\nYou position your shield to protect yourself. When you have Raised a Shield, you gain its listed circumstance bonus to AC. Your shield remains raised until the start of your next turn.\n\n[[Equipment Effects/Effect_ Raise a Shield|Effect: Raise a Shield]]"
 
   - name: "[[Bestiary Ability Glossary/Shield Block|Shield Block]]"
     desc: "`pf2:r`  "
@@ -78,8 +79,14 @@ attacks:
     desc: "  Drelev guard gains a +2 circumstance bonus on attack and damage rolls as long as he is adjacent to at least two other Drelev guards."
 
   - name: "Intimidating Strike"
-    desc: "`pf2:2` (emotion,fear,mental) The Drelev guard makes a melee Strike. If he hits and deals damage, the target is [[Conditions/Frightened 1|Frightened 1]], or [[Conditions/Frightened 1|Frightened 2]] on a critical hit."
+    desc: "`pf2:2` (emotion,fear,mental) The Drelev guard makes a melee Strike. If he hits and deals damage, the target is [[Conditions/Frightened|Frightened 1]], or [[Conditions/Frightened|Frightened 2]] on a critical hit."
  
+```
+
+```encounter-table
+name: Drelev Guard
+creatures:
+  - 1: Drelev Guard
 ```
 
 

@@ -66,6 +66,8 @@ Biqkuul, Ehbouja, Haamaah, Kouzo, Quaerjii, Tebaazu, Uruueda, Zekuukeu
 
 ## Goloma Heritages
 
+Choose one of the following goloma heritages at 1st level.
+
 [[Heritages/Farsight Goloma|Farsight Goloma]]
 
 [[Heritages/Frightful Goloma|Frightful Goloma]]

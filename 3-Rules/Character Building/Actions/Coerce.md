@@ -18,7 +18,7 @@ license: ORC
 ---
 # Coerce
 
-### [[auditory]][[concentrate]][[emotion]][[exploration]][[linguistic]][[mental]][[skill]]
+### [[3-Rules/Rule References/auditory]][[3-Rules/Rule References/Concentrate]][[3-Rules/Rule References/Emotion]][[exploration]][[linguistic]][[3-Rules/Rule References/Mental]][[skill]]
 
 **Category** interaction; 
 

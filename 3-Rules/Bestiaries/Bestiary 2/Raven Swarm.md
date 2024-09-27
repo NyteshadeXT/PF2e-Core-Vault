@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.pathfinder-bestiary-2.Actor.wrzlJufGEfMg5kVE"
 tags:
   - pf2e/creature/type/animal
   - pf2e/creature/type/swarm
+  - pf2eMonster
   - pf2e/creature/level/3
 statblock: inline
 name: "Raven Swarm"
@@ -25,12 +26,13 @@ level: "Creature 3"
 
 alignment: ""
 size: "Large"
-trait_01: "animal"
-trait_02: "swarm"
+trait_01: [[animal]]
+trait_02: [[swarm]]
 modifier: 9
 perception:
   - name: "Perception"
     desc: "+9; Low-Light Vision"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Acrobatics: +10, Thievery: +10"
@@ -60,6 +62,12 @@ attacks:
   - name: "Swarming Beaks"
     desc: "`pf2:1`  The ravens' angry pecking deals 1d8 piercing damage to each enemy in the swarm's space (DC 20 Reflex check save). A creature that critically fails its save is [[Conditions/Blinded|Blinded]] for 1d4 rounds as the ravens focus their attacks on the target's vulnerable face."
  
+```
+
+```encounter-table
+name: Raven Swarm
+creatures:
+  - 1: Raven Swarm
 ```
 
 

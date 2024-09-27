@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.fists-of-the-ruby-phoenix-bestiary.Actor.MdkbAYfKgIvtT
 tags:
   - pf2e/creature/type/aberration
   - pf2e/creature/type/evil
+  - pf2eMonster
   - pf2e/creature/level/13
 statblock: inline
 name: "Rivka (Mogaru)"
@@ -21,11 +22,11 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #167: Ready? Fight!"
 name: "Rivka (Mogaru)"
 level: "Creature 13"
-rare_03: "Rare"
+rare_03: [[Rare]]
 alignment: ""
 size: "Medium"
-trait_01: "aberration"
-trait_02: "evil"
+trait_01: [[aberration]]
+trait_02: [[evil]]
 modifier: 21
 perception:
   - name: "Perception"
@@ -64,11 +65,17 @@ attacks:
     desc: "DC 33, attack +25; __5th __  _[[Spells/Charm|Charm (At Will)]]_, _[[Spells/Illusory Disguise|Illusory Disguise (x3)]]_"
 
   - name: "Eviscerate"
-    desc: "`pf2:2`  **Requirements** The rivka has not attacked yet this turn\n**Effect** The rivka lashes out with four of its razor-like claws. It makes four Strikes: the first at its highest attack bonus, the next two with a -4 penalty to their attack rolls, and the last one with a -8 penalty. This ability counts as four Strikes for the purpose of its multiple attack penalty."
+    desc: "`pf2:2`  **Requirements** The rivka has not attacked yet this turn\n* * *\n\n**Effect** The rivka lashes out with four of its razor-like claws. It makes four Strikes: the first at its highest attack bonus, the next two with a -4 penalty to their attack rolls, and the last one with a -8 penalty. This ability counts as four Strikes for the purpose of its multiple attack penalty."
 
   - name: "Kaiju Ray"
-    desc: "`pf2:2` (primal) The rivka opens its maw and projects a 60-foot line of primal energy that deals 14d6 fire damage (DC 32 Reflex check save). The type of damage dealt by the ray depends on which kaiju the rivka has most recently fed from (see above). The rivka can't use Kaiju Ray again for 1d4 rounds."
+    desc: "`pf2:2` (primal) The rivka opens its maw and projects a @Template[line|distance:60] of primal energy that deals 14d6 fire damage (DC 32 Reflex check save). The type of damage dealt by the ray depends on which kaiju the rivka has most recently fed from (see above). The rivka can't use Kaiju Ray again for 1d4 rounds."
  
+```
+
+```encounter-table
+name: Rivka (Mogaru)
+creatures:
+  - 1: Rivka (Mogaru)
 ```
 
 

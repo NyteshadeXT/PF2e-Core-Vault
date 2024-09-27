@@ -30,7 +30,7 @@ Faint, delicate etchings of lightning trace across the blade of this +1 cold iro
 
 **Activate** `pf2:1` Interact
 
-Once per day, you can spend 1 action to point the sparkblade at a foe within 30 feet of you and shoot an arc of lightning from the blade. This lightning can leap from your chosen foe to another creature you choose within 30 feet, dealing 2d4 + 4 electricity damage to each creature (DC 19 Reflex check).
+Once per day, you can spend 1 action to point the sparkblade at a foe within 30 feet of you and shoot an arc of lightning from the blade. This lightning can leap from your chosen foe to another creature you choose within 30 feet, dealing 2d4+4 electricity damage to each creature (DC 19 Reflex check).
 
 *Source: Pathfinder Adventure: Troubles in Otari*
 *OGL*

@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.pathfinder-bestiary.Actor.tKaOsbg8cmIUSjSE"
 tags:
   - pf2e/creature/type/beast
   - pf2e/creature/type/good
+  - pf2eMonster
   - pf2e/creature/level/3
 statblock: inline
 name: "Giant Eagle"
@@ -25,13 +26,13 @@ level: "Creature 3"
 
 alignment: ""
 size: "Large"
-trait_01: "beast"
-trait_02: "good"
+trait_01: [[beast]]
+trait_02: [[good]]
 modifier: 11
 perception:
   - name: "Perception"
     desc: "+11; Low-Light Vision"
-languages: "Fey, Sussuran"
+languages: "Fey, Sussuran; (can&#x27;t speak any language)"
 skills:
   - name: "Skills"
     desc: "Acrobatics: +11, Athletics: +8"
@@ -73,6 +74,12 @@ attacks:
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
     desc: "`pf2:1`  "
  
+```
+
+```encounter-table
+name: Giant Eagle
+creatures:
+  - 1: Giant Eagle
 ```
 
 

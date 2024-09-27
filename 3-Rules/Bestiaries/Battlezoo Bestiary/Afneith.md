@@ -6,6 +6,7 @@ cssClasses: pf2e
 aliases: "Compendium.battlezoo-bestiary-pf2e.pf2e-battlezoo-bestiary.Actor.xZ5bHPrAPNzLNflK" 
 tags:
   - pf2e/creature/type/beast
+  - pf2eMonster
   - pf2e/creature/level/8
 statblock: inline
 name: "Afneith"
@@ -24,15 +25,15 @@ level: "Creature 8"
 
 alignment: ""
 size: "Large"
-trait_01: "beast"
+trait_01: [[beast]]
 modifier: 17
 perception:
   - name: "Perception"
     desc: "+17; Darkvision, Echolocation 60 Feet, Scent (Imprecise) 30 Feet"
-languages: "Common"
+languages: "Common; can&#x27;t speak any language"
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +18, Athletics: +16, Intimidation: +17, Society: +10, Stealth: +18, Survival: +15, "
+    desc: "Acrobatics: +18, Athletics: +16, Intimidation: +17, Society: +10, Stealth: +18, Survival: +15"
 abilityMods: [4, 6, 4, -2, 3, 5]
 speed: 40 feet,  climb 40 feet
 sourcebook: "_Battlezoo Bestiary_"
@@ -54,7 +55,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Belladonna Distraction"
-    desc: "  A creature can spend an Interact action to present a dose of Belladonna to an afneith within 5 feet. The creature must make a DC 25 Survival check check to wiggle the belladonna enticingly.\n**Critical Success** The afneith snatches the belladonna and immediately ingests it, automatically failing its saving throw against the poison. Instead of the belladonna's listed effects, the afneith is Confused and Sickened 1 for 1 minute. The afneith cannot be distracted again by belladonna for 1 hour.\n**Success** As critical success, but the afneith can make a Fortitude saving throw against the belladonna. The afneith takes a -5 penalty to its save.\n**Failure** The afneith is unimpressed and does not react.\n**Critical Failure** The afneith can spend a reaction to make a jaws Strike against the creature."
+    desc: "  A creature can spend an Interact action to present a dose of [[Equipment/Belladonna|Belladonna]] to an afneith within 5 feet. The creature must make a DC 25 Survival check check to wiggle the belladonna enticingly.\n* * *\n\n**Critical Success** The afneith snatches the belladonna and immediately ingests it, automatically failing its saving throw against the poison. Instead of the belladonna's listed effects, the afneith is [[Conditions/Confused|Confused]] and [[Conditions/Sickened|Sickened 1]] for 1 minute. The afneith cannot be distracted again by belladonna for 1 hour.\n\n**Success** As critical success, but the afneith can make a Fortitude saving throw against the belladonna. The afneith takes a -5 penalty to its save.\n\n**Failure** The afneith is unimpressed and does not react.\n\n**Critical Failure** The afneith can spend a reaction to make a jaws Strike against the creature."
 
 attacks:
   - name: ""
@@ -66,17 +67,23 @@ attacks:
     desc: "`pf2:1` Claw +18 (agile, finesse)\n__Damage__  2d6 + 8 slashing plus improved-grab"
 
   - name: "Four-Clawed Maul"
-    desc: "`pf2:2`  The afneith makes four claw Strikes, each with a -2 penalty, against a creature it has Grabbed.\nThese Strikes count toward the afneith's multiple attack penalty, but the penalty doesn't increase until after all of these attacks."
+    desc: "`pf2:2`  The afneith makes four claw Strikes, each with a -2 penalty, against a creature it has [[Conditions/Grabbed|Grabbed]].\n\nThese Strikes count toward the afneith's multiple attack penalty, but the penalty doesn't increase until after all of these attacks."
 
   - name: "Lithe"
-    desc: "  The afneith can fit through tight spaces as if it were a Small creature. While Squeezing, it can move at its full Speed."
+    desc: "  The afneith can fit through tight spaces as if it were a Small creature. While [[Actions/Squeeze|Squeezing]], it can move at its full Speed."
 
   - name: "Pounce"
-    desc: "`pf2:1`  The afneith Strides and makes a Strike at the end of that movement. If the afneith began this action Hidden, it remains hidden until after this ability's Strike."
+    desc: "`pf2:1`  The afneith Strides and makes a Strike at the end of that movement. If the afneith began this action [[Conditions/Hidden|Hidden]], it remains hidden until after this ability's Strike."
 
   - name: "[[Bestiary Ability Glossary/Sneak Attack|Sneak Attack]]"
-    desc: "  The afneith deals 1d6 extra precision damage to Off-Guard creatures.\n"
+    desc: "  The afneith deals 1d6 extra precision damage to [[Conditions/Off-Guard|Off-Guard]] creatures.\n\n* * *\n"
  
+```
+
+```encounter-table
+name: Afneith
+creatures:
+  - 1: Afneith
 ```
 
 

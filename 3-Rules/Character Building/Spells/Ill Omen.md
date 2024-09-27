@@ -4,33 +4,42 @@ title: "Ill Omen"
 noteType: pf2eSpell
 cssclasses: pf2e,pf2e-spell
 tags:
+  - pf2eSpell
   - spell/level/1
   - trait/concentrate
   - trait/curse
   - trait/manipulate
   - trait/misfortune
   - trait/common
+  - tradition/occult
+
   - remaster
 aliases: "Compendium.pf2e.spells-srd.Item.6ZIKB0151LUR19Rw" 
+license: ORC
 ---
-# Ill Omen  `pf2:2`  
-## Spell 1
-### [[concentrate]][[curse]][[manipulate]][[misfortune]]
-**Traditions** [[occult]]
-**Range** 30 feet
-**Targets** 1 creature
-**Saving Throw**  will
-**Duration** 1 round
-* * * 
-The target is struck with misfortune, which throws it off balance. The target must attempt a Will save.
+```statblock
+name: "Ill Omen  `pf2:2`"
+level: "Spell 1"
 
-**Success** The target is unaffected.
-
-**Failure** The first time during the duration that the target attempts an attack roll or skill check, it must roll twice and use the worse result.
-
-**Critical Failure** Every time during the duration that the target attempts an attack roll or skill check, it must roll twice and use the worse result.
-
-[[Spell Effects/Spell Effect_ Ill Omen|Spell Effect: Ill Omen]]
-
-*Source: Pathfinder Player Core*
-*ORC*
+trait_01: [[concentrate]]
+trait_02: [[curse]]
+trait_03: [[manipulate]]
+trait_04: [[misfortune]]
+layout: Basic Pathfinder 2e Layout
+columns: 1
+columnWidth: x
+abilities_top:
+  - name: ""
+  - name: "Traditions"
+    desc: "occult"
+  - name: "Range"
+    desc: "30 feet; **Targets** 1 creature"
+  - name: "Defense"
+    desc: " will"
+  - name: "Duration"
+    desc: "1 round"
+abilities_mid:
+  - name: ""
+    desc: "The target is struck with misfortune, which throws it off balance. The target must attempt a Will save.\n\n**Success** The target is unaffected.\n\n**Failure** The first time during the duration that the target attempts an attack roll or skill check, it must roll twice and use the worse result.\n\n**Critical Failure** Every time during the duration that the target attempts an attack roll or skill check, it must roll twice and use the worse result.\n\n[[Spell Effects/Spell Effect_ Ill Omen|Spell Effect: Ill Omen]]"
+sourcebook: "_Pathfinder Player Core_"
+```

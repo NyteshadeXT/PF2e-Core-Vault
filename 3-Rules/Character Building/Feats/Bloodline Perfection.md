@@ -6,8 +6,9 @@ tags:
   - trait/sorcerer
   - trait/common
   - category/class
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.6SEDoht4dXEJE5SW"
-license: OGL
+license: ORC
 ---
 # Bloodline Perfection
 ## Feat 20
@@ -21,5 +22,5 @@ license: OGL
 * * *
 You command the ultimate powers of your bloodline and tradition. You gain an additional 10th-rank spell slot.
 
-*Source: Pathfinder Core Rulebook*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

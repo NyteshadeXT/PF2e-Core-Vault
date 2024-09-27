@@ -5,6 +5,7 @@ noteType: pf2eHazard
 tags:
   - magical
   - trap
+  - pf2eHazard
 
 source: Pathfinder #186: Ghost King&#x27;s Rage
 aliases: "Compendium.pf2e.blood-lords-bestiary.Actor.lq8H7BBc5C2y9BN0" 
@@ -22,8 +23,8 @@ name: "Psychic Wave"
 level: "Hazard 21"
 
 
-trait_01: "magical"
-trait_02: "trap"
+trait_01: [[magical]]
+trait_02: [[trap]]
 modifier: 43
 sourcebook: "_Pathfinder #186: Ghost King's Rage_"
 perception:
@@ -42,10 +43,16 @@ attacks:
   - name: ""
 
   - name: "Psychic Assault"
-    desc: "`pf2:r` (arcane, mental) **Trigger** A creature has been in the room for more than 1 round\n**Effect** A wave of psychic energy slams into the minds of creatures in the chamber, dealing 8d10 + 48 mental damage (DC 44 Will check). On a failed save, a creature is also [[Conditions/Stunned 1|Stunned 3]]."
+    desc: "`pf2:r` (arcane, mental) **Trigger** A creature has been in the room for more than 1 round\n* * *\n\n**Effect** A wave of psychic energy slams into the minds of creatures in the chamber, dealing 8d10+48 mental damage (DC 44 Will check). On a failed save, a creature is also [[Conditions/Stunned|Stunned 3]]."
 
 
   - name: "Reset"
     desc: "1 hour."
+```
+
+```encounter-table
+name: Psychic Wave
+creatures:
+  - 1: Psychic Wave
 ```
 

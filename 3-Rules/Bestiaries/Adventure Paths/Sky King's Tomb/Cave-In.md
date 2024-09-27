@@ -4,6 +4,7 @@ obsidianUIMode: preview
 noteType: pf2eHazard
 tags:
   - environmental
+  - pf2eHazard
 
 source: Pathfinder #195: Heavy is the Crown
 aliases: "Compendium.pf2e.sky-kings-tomb-bestiary.Actor.INlJKAGcx74b64rh" 
@@ -21,7 +22,7 @@ name: "Cave-In"
 level: "Hazard 8"
 
 
-trait_01: "environmental"
+trait_01: [[environmental]]
 modifier: 14
 sourcebook: "_Pathfinder #195: Heavy is the Crown_"
 perception:
@@ -40,9 +41,15 @@ attacks:
   - name: ""
 
   - name: "Collapse"
-    desc: "`pf2:r` **Trigger** A creature moves the rubble\n**Effect** The cavern collapses in a cave-in that deals 4d8 + 22 bludgeoning damage to the triggering creature and all creatures in the cavern (DC 30 Reflex check save)."
+    desc: "`pf2:r` **Trigger** A creature moves the rubble\n* * *\n\n**Effect** The cavern collapses in a cave-in that deals 4d8+22 bludgeoning damage to the triggering creature and all creatures in the cavern (DC 30 Reflex check save)."
 
 
 
+```
+
+```encounter-table
+name: Cave-In
+creatures:
+  - 1: Cave-In
 ```
 

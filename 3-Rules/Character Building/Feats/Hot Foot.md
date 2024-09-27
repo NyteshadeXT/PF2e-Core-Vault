@@ -29,6 +29,8 @@ Using a carefully aimed shot, you make a creature "dance." You shoot at the grou
 
 **Critical Success** The creature can't use reactions, is [[Conditions/Off-Guard|Off-Guard]], and takes a -2 circumstance penalty to Reflex saves. These effects last until the start of its next turn.
 
+[[Feat_Feature Effects/Effect_ Hot Foot (Critical Success)|Effect: Hot Foot (Critical Success)]]
+
 **Success** The creature can't use reactions until the start of its next turn.
 
 *Source: Pathfinder Guns & Gears*

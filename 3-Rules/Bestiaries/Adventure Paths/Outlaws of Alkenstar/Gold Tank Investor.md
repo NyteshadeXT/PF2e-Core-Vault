@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/human
   - pf2e/creature/type/humanoid
   - pf2e/creature/type/lawful
+  - pf2eMonster
   - pf2e/creature/level/-1
 statblock: inline
 name: "Gold Tank Investor"
@@ -23,13 +24,13 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #178: Punks in a Powder Keg"
 name: "Gold Tank Investor"
 level: "Creature -1"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Medium"
-trait_01: "evil"
-trait_02: "human"
-trait_03: "humanoid"
-trait_04: "lawful"
+trait_01: [[evil]]
+trait_02: [[human]]
+trait_03: [[humanoid]]
+trait_04: [[lawful]]
 modifier: 3
 perception:
   - name: "Perception"
@@ -65,6 +66,12 @@ attacks:
   - name: "Ranged"
     desc: "`pf2:1` Club +4 (thrown 10 ft.)\n__Damage__  1d4 bludgeoning"
  
+```
+
+```encounter-table
+name: Gold Tank Investor
+creatures:
+  - 1: Gold Tank Investor
 ```
 
 

@@ -13,7 +13,7 @@ license: OGL
 ---
 # Ancestral Embrace
 ## Item 26
-### [unique](unique "Unique Rarity Trait")[[artifact]][[divine]][[invested]]
+### [unique](unique.md "Unique Rarity Trait")[[artifact]][[3-Rules/Rule References/Divine]][[invested]]
 
 **Category** light; **Group** leather
 **Price** 0 gp; 

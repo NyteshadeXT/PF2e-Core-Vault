@@ -6,6 +6,7 @@ cssClasses: pf2e
 aliases: "Compendium.pf2e.pathfinder-bestiary-3.Actor.Pvuvyd4RKVyiVWlJ" 
 tags:
   - pf2e/creature/type/ooze
+  - pf2eMonster
   - pf2e/creature/level/14
 statblock: inline
 name: "Mezlan"
@@ -21,18 +22,18 @@ token: [[modules/pf2e-tokens-bestiaries/portraits/aberrant/ooze/mezlan.webp| ]]
 source: "Pathfinder Bestiary 3"
 name: "Mezlan"
 level: "Creature 14"
-rare_03: "Rare"
+rare_03: [[Rare]]
 alignment: ""
 size: "Medium"
-trait_01: "ooze"
+trait_01: [[ooze]]
 modifier: 25
 perception:
   - name: "Perception"
     desc: "+25; Darkvision"
-languages: "Aklo, Azlanti"
+languages: "Aklo, Azlanti; polyglot"
 skills:
   - name: "Skills"
-    desc: "Athletics: +28, Deception: +27 (+31 to Impersonate), Occultism: +24, Stealth: +28"
+    desc: "Athletics: +28, Deception: +27, Occultism: +24, Stealth: +28"
 abilityMods: [8, 6, 5, 4, 5, 5]
 speed: 30 feet
 sourcebook: "_Pathfinder Bestiary 3_"
@@ -54,10 +55,10 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Absorb Spell"
-    desc: "`pf2:r`  **Trigger** The mezlan succeeds at a saving throw against a single-target spell\n**Effect** The mezlan absorbs the spell, nullifying its effect and storing it for later. They can Cast the Spell using the original caster's spell attack modifier and DC. They can store only one spell at a time, but they can absorb a new spell to replace the spell they currently have stored.\nA willing caster can allow the mezlan to Absorb a Spell without requiring a save."
+    desc: "`pf2:r`  **Trigger** The mezlan succeeds at a saving throw against a single-target spell\n* * *\n\n**Effect** The mezlan absorbs the spell, nullifying its effect and storing it for later. They can Cast the Spell using the original caster's spell attack modifier and DC. They can store only one spell at a time, but they can absorb a new spell to replace the spell they currently have stored.\n\nA willing caster can allow the mezlan to Absorb a Spell without requiring a save."
 
   - name: "Discorporate"
-    desc: "  When the mezlan is reduced to 0 Hit Points, their body dissolves into colorless slime and begins seeping into nearby cracks or porous surfaces.\nIf this material is not immediately contained or destroyed, the mezlan will eventually re-form, though they may lie dormant for years or even decades before doing so."
+    desc: "  When the mezlan is reduced to 0 Hit Points, their body dissolves into colorless slime and begins seeping into nearby cracks or porous surfaces.\n\nIf this material is not immediately contained or destroyed, the mezlan will eventually re-form, though they may lie dormant for years or even decades before doing so."
 
 attacks:
   - name: ""
@@ -69,14 +70,20 @@ attacks:
     desc: "`pf2:1` Ooze Globule +28 (range increment 30 feet)\n__Damage__ "
 
   - name: "[[Bestiary Ability Glossary/Change Shape|Change Shape]]"
-    desc: "`pf2:1` (concentrate,polymorph) The mezlan assumes the form of any Medium or Small creature, excluding those with the elemental, incorporeal, or swarm traits but including specific individuals whose appearance they've seen. This doesn't change the mezlan's Speed or their attack and damage bonus with their Strikes, but the damage type dealt by their Strikes might change based on their new form.\n"
+    desc: "`pf2:1` (concentrate,polymorph) The mezlan assumes the form of any Medium or Small creature, excluding those with the elemental, incorporeal, or swarm traits but including specific individuals whose appearance they've seen. This doesn't change the mezlan's Speed or their attack and damage bonus with their Strikes, but the damage type dealt by their Strikes might change based on their new form.\n\n* * *\n"
 
   - name: "Extend Limb"
     desc: "`pf2:1`  The mezlan extends one of their limbs, granting themself a reach of 20 feet with their polymorphic appendages until the end of their next turn."
 
   - name: "Viscous Trap"
-    desc: "  A creature hit by the mezlan's ooze globule takes a -15-foot circumstance penalty to all Speeds for 1 minute. On a critical hit, a target standing on a solid surface also becomes [[Conditions/Immobilized|Immobilized]], while a target Flying via wings falls to the ground and becomes unable to Fly.\nA target can end all effects by [[Actions/Escape|Escaping]] (DC 32) or spending a total of 3 Interact actions to free itself.\n[[Bestiary Effects/Effect_ Viscous Trap|Effect: Viscous Trap]]"
+    desc: "  A creature hit by the mezlan's ooze globule takes a -15-foot circumstance penalty to all Speeds for 1 minute. On a critical hit, a target standing on a solid surface also becomes [[Conditions/Immobilized|Immobilized]], while a target Flying via wings falls to the ground and becomes unable to Fly.\n\nA target can end all effects by [[Actions/Escape|Escaping]] (DC 32) or spending a total of 3 Interact actions to free itself.\n\n[[Bestiary Effects/Effect_ Viscous Trap|Effect: Viscous Trap]]"
  
+```
+
+```encounter-table
+name: Mezlan
+creatures:
+  - 1: Mezlan
 ```
 
 

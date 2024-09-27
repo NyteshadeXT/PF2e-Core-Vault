@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.pfs-season-4-bestiary.Actor.7NNuVN0DwPvmZLN9"
 tags:
   - pf2e/creature/type/elf
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/6
 statblock: inline
 name: "Recon Scout"
@@ -21,11 +22,11 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Society Scenario #4-99: Blessings of the Forest"
 name: "Recon Scout"
 level: "Creature 6"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Medium"
-trait_01: "elf"
-trait_02: "humanoid"
+trait_01: [[elf]]
+trait_02: [[humanoid]]
 modifier: 13
 perception:
   - name: "Perception"
@@ -33,7 +34,7 @@ perception:
 languages: "Common, Elven"
 skills:
   - name: "Skills"
-    desc: "Athletics: +15, Monster Lore: +13, Stealth: +13, Survival: +11"
+    desc: "Athletics: +15, Stealth: +13, Survival: +11, Monster Lore: +13"
 abilityMods: [4, 3, 3, 1, 1, 1]
 speed: 25 feet
 sourcebook: "_Pathfinder Society Scenario #4-99: Blessings of the Forest_"
@@ -65,11 +66,17 @@ attacks:
     desc: "`pf2:1` Composite Longbow +14 (deadly d10, propulsive, range increment 100 feet, reload 0, volley 30 ft.)\n__Damage__  1d8 + 6 piercing"
 
   - name: "Rage"
-    desc: "`pf2:1` (concentrate,emotion,mental) **Requirements** The recon scout isn't [[Conditions/Fatigued|Fatigued]] or raging\n**Effect** s The recon scout gains 9 temporary Hit Points that last until the rage ends. While raging, they deal 8 additional damage with melee attacks, gain a +10-foot status bonus to their Speed, and take a –1 penalty to AC. The recon scout can't use concentrate actions except [[Actions/Seek|Seek]] and rage actions. The rage lasts for 1 minute, until there are no enemies the recon scout can perceive, or until the recon scout falls [[Conditions/Unconscious|Unconscious]]. Once the rage ends, the recon scout can't Rage again for 1 minute.\n[[Feat_Feature Effects/Effect_ Rage|Effect: Rage]]"
+    desc: "`pf2:1` (concentrate,emotion,mental) **Requirements** The recon scout isn't [[Conditions/Fatigued|Fatigued]] or raging\n* * *\n\n**Effect** s The recon scout gains 9 temporary Hit Points that last until the rage ends. While raging, they deal 8 additional damage with melee attacks, gain a +10-foot status bonus to their Speed, and take a –1 penalty to AC. The recon scout can't use concentrate actions except [[Actions/Seek|Seek]] and rage actions. The rage lasts for 1 minute, until there are no enemies the recon scout can perceive, or until the recon scout falls [[Conditions/Unconscious|Unconscious]]. Once the rage ends, the recon scout can't Rage again for 1 minute.\n\n[[Feat_Feature Effects/Effect_ Rage|Effect: Rage]]"
 
   - name: "Sudden Charge"
     desc: "`pf2:2`  The recon scout Strides twice and makes a melee Strike."
  
+```
+
+```encounter-table
+name: Recon Scout
+creatures:
+  - 1: Recon Scout
 ```
 
 

@@ -10,6 +10,7 @@ tags:
   - pf2e/creature/type/humanoid
   - pf2e/creature/type/lizardfolk
   - pf2e/creature/type/nephilim
+  - pf2eMonster
   - pf2e/creature/level/5
 statblock: inline
 name: "Ash Archer"
@@ -24,14 +25,14 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Society Scenario #2-20: Breaking the Storm: Bastion in Embers"
 name: "Ash Archer"
 level: "Creature 5"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Medium"
-trait_01: "chaotic"
-trait_02: "evil"
-trait_03: "humanoid"
-trait_04: "lizardfolk"
-trait_05: "nephilim"
+trait_01: [[chaotic]]
+trait_02: [[evil]]
+trait_03: [[humanoid]]
+trait_04: [[lizardfolk]]
+trait_05: [[nephilim]]
 modifier: 15
 perception:
   - name: "Perception"
@@ -71,8 +72,14 @@ attacks:
     desc: "`pf2:1` Composite Longbow +15 (deadly d10, propulsive, range increment 100 feet, reload 0, volley 30 ft.)\n__Damage__  1d8 + 6 piercing"
 
   - name: "Hunt Prey"
-    desc: "`pf2:1` (concentrate) The ash archer designates a single creature they can see and hear, or one they're Tracking, as their prey. The archer gains a +2 circumstance bonus to Perception checks to [[Actions/Seek|Seek]] the prey and to Survival checks to [[Actions/Track|Track]] the prey.\nThe first time the archer hits the designated prey in a round, they deal an additional 1d8 precision damage. The archer also ignores the penalty for making ranged attacks within their second range increment.\nThese effects last until the archer uses Hunt Prey again."
+    desc: "`pf2:1` (concentrate) The ash archer designates a single creature they can see and hear, or one they're Tracking, as their prey. The archer gains a +2 circumstance bonus to Perception checks to [[Actions/Seek|Seek]] the prey and to Survival checks to [[Actions/Track|Track]] the prey.\n\nThe first time the archer hits the designated prey in a round, they deal an additional 1d8 precision damage. The archer also ignores the penalty for making ranged attacks within their second range increment.\n\nThese effects last until the archer uses Hunt Prey again."
  
+```
+
+```encounter-table
+name: Ash Archer
+creatures:
+  - 1: Ash Archer
 ```
 
 

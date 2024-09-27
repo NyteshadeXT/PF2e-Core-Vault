@@ -6,8 +6,9 @@ tags:
   - trait/dhampir
   - trait/common
   - category/ancestry
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.Zz5A8Yg0jGSK8GNu"
-license: OGL
+license: ORC
 ---
 # Enthralling Allure
 ## Feat 5
@@ -18,7 +19,7 @@ license: OGL
 
 
 
-The powers of domination employed by your progenitors have manifested in you as well. Once per day, you can cast [[Spells/Charm|Charm]]as a 1st-rank divine innate spell.
+The powers of domination employed by your progenitors have manifested in you as well. You can cast [[Spells/Charm|Charm]] as a divine innate spell once per day. Its spell rank is equal to half your level rounded up, but it doesn't increase its duration or number of targets at 4th and 8th rank.
 
-*Source: Pathfinder Advanced Player's Guide*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

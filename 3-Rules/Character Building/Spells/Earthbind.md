@@ -4,34 +4,41 @@ title: "Earthbind"
 noteType: pf2eSpell
 cssclasses: pf2e,pf2e-spell
 tags:
+  - pf2eSpell
   - spell/level/3
   - trait/concentrate
   - trait/earth
   - trait/manipulate
   - trait/common
+  - tradition/arcane
+  - tradition/primal
+
   - remaster
 aliases: "Compendium.pf2e.spells-srd.Item.gPvtmKMRpg9I9D7H" 
+license: ORC
 ---
-# Earthbind  `pf2:2`  
-## Spell 3
-### [[concentrate]][[earth]][[manipulate]]
-**Traditions** [[arcane]], [[primal]]
-**Range** 120 feet
-**Targets** 1 flying creature
-**Saving Throw**  fortitude
-**Duration** varies
-* * * 
-Using the weight of earth, you hamper a target's flight, with effects based on its Fortitude save. If the creature reaches the ground safely, it doesn't take falling damage.
+```statblock
+name: "Earthbind  `pf2:2`"
+level: "Spell 3"
 
-* * *
-
-**Critical Success** The target is unaffected.
-
-**Success** The target falls safely up to 120 feet.
-
-**Failure** The target falls safely up to 120 feet. If it hits the ground, it can't Fly, levitate, or otherwise leave the ground for 1 round.
-
-**Critical Failure** The target falls safely up to 120 feet. If it hits the ground, it can't Fly, levitate, or otherwise leave the ground for 1 minute.
-
-*Source: Pathfinder Player Core*
-*ORC*
+trait_01: [[concentrate]]
+trait_02: [[earth]]
+trait_03: [[manipulate]]
+layout: Basic Pathfinder 2e Layout
+columns: 1
+columnWidth: x
+abilities_top:
+  - name: ""
+  - name: "Traditions"
+    desc: "arcane, primal"
+  - name: "Range"
+    desc: "120 feet; **Targets** 1 flying creature"
+  - name: "Defense"
+    desc: " fortitude"
+  - name: "Duration"
+    desc: "varies"
+abilities_mid:
+  - name: ""
+    desc: "Using the weight of earth, you hamper a target's flight, with effects based on its Fortitude save. If the creature reaches the ground safely, it doesn't take falling damage.\n* * *\n\n**Critical Success** The target is unaffected.\n\n**Success** The target falls safely up to 120 feet.\n\n**Failure** The target falls safely up to 120 feet. If it hits the ground, it can't Fly, levitate, or otherwise leave the ground for 1 round.\n\n**Critical Failure** The target falls safely up to 120 feet. If it hits the ground, it can't Fly, levitate, or otherwise leave the ground for 1 minute."
+sourcebook: "_Pathfinder Player Core_"
+```

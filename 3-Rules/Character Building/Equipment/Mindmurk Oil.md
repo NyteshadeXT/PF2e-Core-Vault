@@ -33,11 +33,11 @@ Often taken recreationally, mindmurk oil dulls the mind, creating a pleasant and
 
 **Maximum Duration** 1 hour
 
-**Stage 1** [[Conditions/Stupefied 1|Stupefied 1]] (5 minutes)
+**Stage 1** [[Conditions/Stupefied|Stupefied 1]] (5 minutes)
 
-**Stage 2** [[Conditions/Stupefied 1|Stupefied 2]] (5 minutes)
+**Stage 2** [[Conditions/Stupefied|Stupefied 2]] (5 minutes)
 
-**Stage 3** [[Conditions/Stupefied 1|Stupefied 3]] (5 minutes).
+**Stage 3** [[Conditions/Stupefied|Stupefied 3]] (5 minutes).
 
 *Source: Pathfinder Society Scenario #1-23: The Star-Crossed Court*
 *OGL*

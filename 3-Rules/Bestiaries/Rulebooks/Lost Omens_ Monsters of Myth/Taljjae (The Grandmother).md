@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.lost-omens-monsters-of-myth-bestiary.Actor.sXZExyaijbR
 tags:
   - pf2e/creature/type/chaotic
   - pf2e/creature/type/fey
+  - pf2eMonster
   - pf2e/creature/level/18
 statblock: inline
 name: "Taljjae (The Grandmother)"
@@ -21,16 +22,16 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Lost Omens: Monsters of Myth"
 name: "Taljjae (The Grandmother)"
 level: "Creature 18"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Large"
-trait_01: "chaotic"
-trait_02: "fey"
+trait_01: [[chaotic]]
+trait_02: [[fey]]
 modifier: 33
 perception:
   - name: "Perception"
     desc: "+33; Darkvision"
-languages: "Hwan, Senzar"
+languages: "Hwan, Senzar; (can&#x27;t speak any language)"
 skills:
   - name: "Skills"
     desc: "Acrobatics: +35, Athletics: +31, Performance: +38, Society: +31"
@@ -53,7 +54,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Exit Stage"
-    desc: "`pf2:r` (primal,teleportation) **Trigger** Taljjae is reduced to 0 Hit Points\n**Effect** Taljjae retains 1 Hit Point and teleports to an empty space within 30 feet. One of its masks remains behind and is broken."
+    desc: "`pf2:r` (primal,teleportation) **Trigger** Taljjae is reduced to 0 Hit Points\n* * *\n\n**Effect** Taljjae retains 1 Hit Point and teleports to an empty space within 30 feet. One of its masks remains behind and is broken."
 
   - name: "Gentle Facade"
     desc: " (aura,emotion,mental) 60 feet. Serenity and a sense of ease blot out all other emotions. Creatures in the emanation must succeed at a DC 37 Will check save or become unable to be affected by beneficial emotion effects while within the aura and for 1 minute after leaving it. The creature is then temporarily immune for 10 minutes."
@@ -77,14 +78,20 @@ attacks:
     desc: "DC 37, attack +29; __9th __ (5 slots) _[[Spells/Energy Aegis|Energy Aegis]]_, _[[Spells/Heal|Heal]]_, _[[Spells/Heroism|Heroism]]_, _[[Spells/Spell Immunity|Spell Immunity]]_, _[[Spells/Truesight|True Seeing]]_; __8th __ (3 slots) _[[Spells/Regenerate|Regenerate]]_, _[[Spells/Repulsion|Repulsion]]_, _[[Spells/Holy Light|Searing Light]]_; __7th __ (3 slots) _[[Spells/Breath of Life|Breath of Life]]_, _[[Spells/Outcast's Curse|Outcast's Curse]]_, _[[Spells/Vital Beacon|Vital Beacon]]_"
 
   - name: "Change Characters"
-    desc: "`pf2:1` (stance) **Frequency** once per round\n**Effect** Taljjae removes its current mask and dons a new one. The change refreshes Taljjae, restoring 25 Hit Points. Once Taljjae has removed a mask, it can't Change Characters back to that mask until it has worn all of its unbroken masks at least once, after which the cycle starts again. Taljjae can't don a broken mask.\nWhen Taljjae Changes Characters, it gains access to the listed abilities. Any items (such as weapons) associated with its previous mask immediately disappear and are replaced by fresh ones for its new mask, but the effects of any mask abilities it has active persist. Removing a mask and later reapplying it doesn't restore any limited-use abilities."
+    desc: "`pf2:1` (stance) **Frequency** once per round\n* * *\n\n**Effect** Taljjae removes its current mask and dons a new one. The change refreshes Taljjae, restoring 25 Hit Points. Once Taljjae has removed a mask, it can't Change Characters back to that mask until it has worn all of its unbroken masks at least once, after which the cycle starts again. Taljjae can't don a broken mask.\n\nWhen Taljjae Changes Characters, it gains access to the listed abilities. Any items (such as weapons) associated with its previous mask immediately disappear and are replaced by fresh ones for its new mask, but the effects of any mask abilities it has active persist. Removing a mask and later reapplying it doesn't restore any limited-use abilities."
 
   - name: "Prop Master"
     desc: "  Taljjae has access to the critical specialization effects of any weapons it wields from one of its masks."
 
   - name: "Second Act"
-    desc: "  **Trigger** Taljjae's turn begins **Requirements** Taljjae has 200 or fewer Hit Points\n**Effect** Taljjae's dance reaches a frantic climax, allowing it to change personas rapidly. Taljjae Changes Characters."
+    desc: "  **Trigger** Taljjae's turn begins **Requirements** Taljjae has 200 or fewer Hit Points\n* * *\n\n**Effect** Taljjae's dance reaches a frantic climax, allowing it to change personas rapidly. Taljjae Changes Characters."
  
+```
+
+```encounter-table
+name: Taljjae (The Grandmother)
+creatures:
+  - 1: Taljjae (The Grandmother)
 ```
 
 

@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.pfs-season-3-bestiary.Actor.aZl2962bnq1j6Hpy"
 tags:
   - pf2e/creature/type/elemental
   - pf2e/creature/type/fire
+  - pf2eMonster
   - pf2e/creature/level/2
 statblock: inline
 name: "Vengeful Ember Fox"
@@ -21,16 +22,16 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Society Intro: Year of Shattered Sanctuaries"
 name: "Vengeful Ember Fox"
 level: "Creature 2"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Small"
-trait_01: "elemental"
-trait_02: "fire"
+trait_01: [[elemental]]
+trait_02: [[fire]]
 modifier: 8
 perception:
   - name: "Perception"
     desc: "+8; Darkvision"
-languages: "Pyric"
+languages: "Pyric; (can&#x27;t speak any language)"
 skills:
   - name: "Skills"
     desc: "Acrobatics: +8, Athletics: +5, Stealth: +8"
@@ -52,7 +53,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Cloak in Embers"
-    desc: "`pf2:r`  **Trigger** An adjacent ally is targeted by an effect that deals fire damage\n**Effect** The ember fox drapes itself across its ally, granting the ally fire resistance 10 against the incoming attack."
+    desc: "`pf2:r`  **Trigger** An adjacent ally is targeted by an effect that deals fire damage\n* * *\n\n**Effect** The ember fox drapes itself across its ally, granting the ally fire resistance 10 against the incoming attack."
 
 attacks:
   - name: ""
@@ -60,6 +61,12 @@ attacks:
   - name: "Melee"
     desc: "`pf2:1` Jaws +10 (agile, finesse)\n__Damage__  1d4 + 3 piercing 1d4 fire"
  
+```
+
+```encounter-table
+name: Vengeful Ember Fox
+creatures:
+  - 1: Vengeful Ember Fox
 ```
 
 

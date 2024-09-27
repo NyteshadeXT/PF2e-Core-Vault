@@ -5,6 +5,7 @@ noteType: pf2eHazard
 tags:
   - magical
   - trap
+  - pf2eHazard
   - complex
 source: Pathfinder #157: Devil at the Dreaming Palace
 aliases: "Compendium.pf2e.agents-of-edgewatch-bestiary.Actor.HXiA7x1jWnB1BqUy" 
@@ -22,14 +23,14 @@ name: "Summoning Rune (Barbazu Devil)"
 level: "Hazard 5"
 
 trait_06: "Complex"
-trait_01: "magical"
-trait_02: "trap"
+trait_01: [[magical]]
+trait_02: [[trap]]
 modifier: 11
 sourcebook: "_Pathfinder #157: Devil at the Dreaming Palace_"
 ac: 10
 armorclass:
   - name: AC
-    desc: "10; __Fort__ +0, __Ref__ +0, __Will__ +0"
+    desc: "10; "
 hp: 0
 health:
   - name: ""
@@ -51,10 +52,16 @@ attacks:
   - name: ""
 
   - name: "Summon Devil"
-    desc: "`pf2:r` (arcane, summon) **Trigger** A living creature steps on any part of the floor not enclosed by the summoning circle\n**Effect** One round after a creature touches the triggering area, the door to the room slams shut and locks (two Thievery checks to pick) and a [[Bestiary 1/Barbazu|Barbazu]] devil appears in the summoning circle.\nThe devil rolls initiative and remains for 3d6 rounds, after which the spell ends and the devil disappears. The devil also disappears if someone disables the trap before the duration expires.\nThe summoned devil can use 3 actions each round and can use reactions, unlike most summoned creatures."
+    desc: "`pf2:r` (arcane, summon) **Trigger** A living creature steps on any part of the floor not enclosed by the summoning circle\n* * *\n\n**Effect** One round after a creature touches the triggering area, the door to the room slams shut and locks (two Thievery checks to pick) and a [[Bestiary 1/Barbazu|Barbazu]] devil appears in the summoning circle.\n\nThe devil rolls initiative and remains for 3d6 rounds, after which the spell ends and the devil disappears. The devil also disappears if someone disables the trap before the duration expires.\n\nThe summoned devil can use 3 actions each round and can use reactions, unlike most summoned creatures."
 
 
   - name: "Reset"
     desc: "The trap resets each day at dawn."
+```
+
+```encounter-table
+name: Summoning Rune (Barbazu Devil)
+creatures:
+  - 1: Summoning Rune (Barbazu Devil)
 ```
 

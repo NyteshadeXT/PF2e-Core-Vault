@@ -8,8 +8,9 @@ tags:
   - trait/rage
   - trait/common
   - category/class
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.nL82Dzh0QwkNkJDA"
-license: OGL
+license: ORC
 ---
 # Disarming Assault `pf2:1`
 ## Feat 8
@@ -21,7 +22,7 @@ license: OGL
 
 **Prerequisites** trained in Athletics
 * * *
-You attack with enough force to knock the weapon out of your foe's hands. Make a melee Strike; if you hit, you can attempt an Athletics check to [[Actions/Disarm|Disarm]] that foe.
+You attack with enough force to knock the weapon out of your foe's hands. Make a melee Strike; if you hit, you can attempt an Athletics check to [[Actions/Disarm|Disarm]] that enemy.
 
-*Source: Pathfinder Advanced Player's Guide*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

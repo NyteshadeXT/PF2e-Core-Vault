@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/humanoid
   - pf2e/creature/type/shadow
+  - pf2eMonster
   - pf2e/creature/level/8
 statblock: inline
 name: "Caligni Assassin"
@@ -23,13 +24,13 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #194: Cult of the Cave Worm"
 name: "Caligni Assassin"
 level: "Creature 8"
-rare_03: "Rare"
+rare_03: [[Rare]]
 alignment: ""
 size: "Medium"
-trait_01: "caligni"
-trait_02: "evil"
-trait_03: "humanoid"
-trait_04: "shadow"
+trait_01: [[caligni]]
+trait_02: [[evil]]
+trait_03: [[humanoid]]
+trait_04: [[shadow]]
 modifier: 14
 perception:
   - name: "Perception"
@@ -63,7 +64,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Countershadow"
-    desc: "`pf2:r` (darkness,occult) **Trigger** A creature within 60 feet casts a light spell\n**Effect** The caligni assassin attempts to counteract the triggering spell. Caligni assassins automatically recognize light spells."
+    desc: "`pf2:r` (darkness,occult) **Trigger** A creature within 60 feet casts a light spell\n* * *\n\n**Effect** The caligni assassin attempts to counteract the triggering spell. Caligni assassins automatically recognize light spells."
 
   - name: "Death Umbral Shroud"
     desc: " (darkness,occult) When a caligni assassin dies, their body disintegrates into a veil of supernatural darkness for 1 round. A 4th-rank [[Spells/Darkness|Darkness]] spell appears, centered on the assassin's location, with a counteract DC of 23."
@@ -84,14 +85,20 @@ attacks:
     desc: "`pf2:1`  You draw your weapon and attack with the same motion. You Interact to draw a weapon, then Strike with that weapon."
 
   - name: "Shadow Leap"
-    desc: "`pf2:3` (darkness,occult,teleportation) **Requirements** The assassin is in dim light or darkness\n**Effect** The assassin vanishes into shadow, appearing in a square of dim light or darkness within 60 feet. If the assassin appears adjacent to a creature, they can Strike that creature, otherwise the assassin can Hide."
+    desc: "`pf2:3` (darkness,occult,teleportation) **Requirements** The assassin is in dim light or darkness\n* * *\n\n**Effect** The assassin vanishes into shadow, appearing in a square of dim light or darkness within 60 feet. If the assassin appears adjacent to a creature, they can Strike that creature, otherwise the assassin can Hide."
 
   - name: "[[Bestiary Ability Glossary/Sneak Attack|Sneak Attack]]"
     desc: "  The assassin deals an additional 2d6 precision damage to [[Conditions/Off-Guard|Off-Guard]] creatures."
 
   - name: "Umbral Veil"
-    desc: "`pf2:1` (darkness) **Requirements** The assassin's last action was a successful melee Strike\n**Effect** The assassin extends a tendril of shadow to obscure the target's vision, [[Conditions/Blinded|blinding]] them for 1 round (DC 23 Will check negates). On a critical failure, they're blind for 1 minute. Creatures with greater darkvision are immune to this ability."
+    desc: "`pf2:1` (darkness) **Requirements** The assassin's last action was a successful melee Strike\n* * *\n\n**Effect** The assassin extends a tendril of shadow to obscure the target's vision, [[Conditions/Blinded|blinding]] them for 1 round (DC 23 Will check negates). On a critical failure, they're blind for 1 minute. Creatures with greater darkvision are immune to this ability."
  
+```
+
+```encounter-table
+name: Caligni Assassin
+creatures:
+  - 1: Caligni Assassin
 ```
 
 

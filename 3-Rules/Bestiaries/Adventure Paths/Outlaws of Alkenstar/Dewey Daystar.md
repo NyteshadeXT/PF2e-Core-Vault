@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/lawful
   - pf2e/creature/type/leshy
   - pf2e/creature/type/plant
+  - pf2eMonster
   - pf2e/creature/level/2
 statblock: inline
 name: "Dewey Daystar"
@@ -22,20 +23,20 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #178: Punks in a Powder Keg"
 name: "Dewey Daystar"
 level: "Creature 2"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Small"
-trait_01: "lawful"
-trait_02: "leshy"
-trait_03: "plant"
+trait_01: [[lawful]]
+trait_02: [[leshy]]
+trait_03: [[plant]]
 modifier: 10
 perception:
   - name: "Perception"
     desc: "+10; Low-Light Vision"
-languages: "Common, Draconic, Fey, Wildsong"
+languages: "Common, Draconic, Fey, Wildsong; speak with plants (succulents only)"
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +6, Alkenstar Lore: +5, Intimidation: +8, Medicine: +8, Nature: +8, Survival: +8"
+    desc: "Acrobatics: +6, Intimidation: +8, Medicine: +8, Nature: +8, Survival: +8, Alkenstar Lore: +5"
 abilityMods: [0, 2, 3, 1, 4, 4]
 speed: 25 feet
 sourcebook: "_Pathfinder #178: Punks in a Powder Keg_"
@@ -55,10 +56,10 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Spiny Body"
-    desc: "  A cactus leshy is covered in spines. A creature that Grabs the cactus leshy takes 1d8 + 3 piercing damage."
+    desc: "  A cactus leshy is covered in spines. A creature that Grabs the cactus leshy takes 1d8+3 piercing damage."
 
   - name: "Verdant Burst"
-    desc: "  When Dewey Daystar dies, a burst of primal energy explodes from his body, restoring 2d8 Hit Points to each plant creature in a 30-foot emanation. This area fills with cacti, becoming difficult terrain. If the terrain is not a viable environment for the cacti, they wither after 24 hours."
+    desc: "  When Dewey Daystar dies, a burst of primal energy explodes from his body, restoring 2d8 Hit Points to each plant creature in a @Template[emanation|distance:30]. This area fills with cacti, becoming difficult terrain. If the terrain is not a viable environment for the cacti, they wither after 24 hours."
 
 attacks:
   - name: ""
@@ -72,6 +73,12 @@ attacks:
   - name: "Primal Innate Spells"
     desc: "DC 18, attack +10; __1st __  _[[Spells/Heal|Heal]]_, _[[Spells/Hydraulic Push|Hydraulic Push]]_, _[[Spells/Runic Body|Magic Fang]]_\n__Cantrips__  __(1st)__ _[[Spells/Acid Splash|Acid Splash]]_, _[[Compendium.pf2e.spells-srd.Item.kl2q6JvBZwed4B6v|Dancing Lights]]_, _[[Spells/Guidance|Guidance]]_, _[[Spells/Stabilize|Stabilize]]_, _[[Spells/Tangle Vine|Tanglefoot]]_"
  
+```
+
+```encounter-table
+name: Dewey Daystar
+creatures:
+  - 1: Dewey Daystar
 ```
 
 

@@ -6,6 +6,7 @@ cssClasses: pf2e
 aliases: "Compendium.pf2e.pathfinder-bestiary-2.Actor.ZBTqN3DNjdreXCu7" 
 tags:
   - pf2e/creature/type/animal
+  - pf2eMonster
   - pf2e/creature/level/9
 statblock: inline
 name: "Mastodon"
@@ -24,11 +25,12 @@ level: "Creature 9"
 
 alignment: ""
 size: "huge"
-trait_01: "animal"
+trait_01: [[animal]]
 modifier: 17
 perception:
   - name: "Perception"
     desc: "+17; Low-Light Vision, Scent (Imprecise) 30 Feet"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Athletics: +21, Stealth: +17"
@@ -65,11 +67,17 @@ attacks:
     desc: "`pf2:1`  The mastodon makes two tusk Strikes, each against a different creature. This counts as one attack for the mastodon's multiple attack penalty, and the penalty doesn't increase until after both attacks."
 
   - name: "[[Bestiary Ability Glossary/Trample|Trample]]"
-    desc: "`pf2:3`  Large or smaller, foot, DC 27 Reflex check\n"
+    desc: "`pf2:3`  Large or smaller, foot, DC 27 Reflex check\n\n* * *\n"
 
   - name: "Grabbing Trunk"
     desc: "  A Medium or smaller creature hit by the mastodon's trunk is [[Conditions/Grabbed|Grabbed]]. If the mastodon moves, it can bring the grabbed creature along with it."
  
+```
+
+```encounter-table
+name: Mastodon
+creatures:
+  - 1: Mastodon
 ```
 
 

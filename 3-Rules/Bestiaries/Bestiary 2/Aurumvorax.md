@@ -6,6 +6,7 @@ cssClasses: pf2e
 aliases: "Compendium.pf2e.pathfinder-bestiary-2.Actor.zjPdqdQGNjO3Kto7" 
 tags:
   - pf2e/creature/type/animal
+  - pf2eMonster
   - pf2e/creature/level/9
 statblock: inline
 name: "Aurumvorax"
@@ -24,14 +25,15 @@ level: "Creature 9"
 
 alignment: ""
 size: "Small"
-trait_01: "animal"
+trait_01: [[animal]]
 modifier: 18
 perception:
   - name: "Perception"
     desc: "+18; Darkvision, Scent (Imprecise) 30 Feet"
+languages: ""
 skills:
   - name: "Skills"
-    desc: "Athletics: +20 (+6 to swim), Stealth: +18"
+    desc: "Athletics: +20, Stealth: +18"
 abilityMods: [6, 2, 4, -4, 3, 0]
 speed: 35 feet,  burrow 10 feet
 sourcebook: "_Pathfinder Bestiary 2_"
@@ -50,7 +52,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "[[Bestiary Ability Glossary/Ferocity|Ferocity]]"
-    desc: "`pf2:r`  **Trigger** The monster is reduced to 0 HP.\n**Effect** The monster avoids being knocked out and remains at 1 HP, but its [[Conditions/Wounded 1|wounded]] value increases by 1. When it is [[Conditions/Wounded 1|wounded 3]], it can no longer use this ability"
+    desc: "`pf2:r`  **Trigger** The monster is reduced to 0 HP.\n* * *\n\n**Effect** The monster avoids being knocked out and remains at 1 HP, but its [[Conditions/Wounded|Wounded]] value increases by 1. When it is [[Conditions/Wounded|wounded 3]], it can no longer use this ability"
 
   - name: "Tenacious Stance"
     desc: "  An aurumvorax gains a +4 circumstance bonus to its Fortitude or Reflex DC against [[Actions/Shove|Shove]] and [[Actions/Trip|Trip]] attempts, and to its Athletics DC against attempts to [[Actions/Escape|Escape]] its Grab."
@@ -76,6 +78,12 @@ attacks:
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
     desc: "`pf2:1`  "
  
+```
+
+```encounter-table
+name: Aurumvorax
+creatures:
+  - 1: Aurumvorax
 ```
 
 

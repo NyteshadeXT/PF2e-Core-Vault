@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/chaotic
   - pf2e/creature/type/monitor
   - pf2e/creature/type/protean
+  - pf2eMonster
   - pf2e/creature/level/7
 statblock: inline
 name: "Naunet"
@@ -26,9 +27,9 @@ level: "Creature 7"
 
 alignment: ""
 size: "Large"
-trait_01: "chaotic"
-trait_02: "monitor"
-trait_03: "protean"
+trait_01: [[chaotic]]
+trait_02: [[monitor]]
+trait_03: [[protean]]
 modifier: 14
 perception:
   - name: "Perception"
@@ -58,7 +59,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "[[Creature Family Ability Glossary/(Protean) Protean Anatomy|Protean Anatomy]]"
-    desc: " (divine) A protean's vital organs shift and change shape and position constantly. Immediately after the protean takes acid, electricity, or sonic damage, it gains the listed amount of resistance to that damage type. This lasts for 1 hour or until the next time the protean takes damage of one of the other types (in which case its resistance changes to match that type), whichever comes first. The protean is immune to polymorph effects unless it is a willing target. If [[Conditions/Blinded|Blinded]] or [[Conditions/Deafened|Deafened]], the protean automatically recovers at the end of its next turn as new sensory organs grow to replace the compromised ones.\n[[Bestiary Effects/Effect_ Protean Anatomy|Effect: Protean Anatomy]]"
+    desc: " (divine) A protean's vital organs shift and change shape and position constantly. Immediately after the protean takes acid, electricity, or sonic damage, it gains the listed amount of resistance to that damage type. This lasts for 1 hour or until the next time the protean takes damage of one of the other types (in which case its resistance changes to match that type), whichever comes first. The protean is immune to polymorph effects unless it is a willing target. If [[Conditions/Blinded|Blinded]] or [[Conditions/Deafened|Deafened]], the protean automatically recovers at the end of its next turn as new sensory organs grow to replace the compromised ones.\n\n[[Bestiary Effects/Effect_ Protean Anatomy|Effect: Protean Anatomy]]"
 
 attacks:
   - name: ""
@@ -76,20 +77,26 @@ attacks:
     desc: "DC 26, attack +16; __5th __  _[[Spells/Translocate|Dimension Door]]_; __4th __  _[[Spells/Acid Arrow|Acid Arrow]]_, _[[Spells/Solid Fog|Solid Fog]]_; __3rd __  _[[Spells/Shatter|Shatter (At Will)]]_; __2nd __  _[[Spells/Mist|Obscuring Mist (At Will)]]_; __1st __  _[[Spells/Detect Alignment|Detect Alignment (At Will) (Lawful Only)]]_\n__Constant__  __(4th)__ _[[Spells/Unfettered Movement|Freedom of Movement]]_"
 
   - name: "Adaptive Strike"
-    desc: " (divine,polymorph) The naunet chooses adamantine, cold iron, or silver; its melee Strikes count as that type for 1 minute or until it uses Adaptive Strike again.\n[[Bestiary Effects/Effect_ Adaptive Strike|Effect: Adaptive Strike]]"
+    desc: " (divine,polymorph) The naunet chooses adamantine, cold iron, or silver; its melee Strikes count as that type for 1 minute or until it uses Adaptive Strike again.\n\n[[Bestiary Effects/Effect_ Adaptive Strike|Effect: Adaptive Strike]]"
 
   - name: "[[Bestiary Ability Glossary/Change Shape|Change Shape]]"
-    desc: "`pf2:1` (concentrate,divine,polymorph) The naunet can take the appearance of any Small, Medium, or Large animal, beast, or humanoid. This doesn't change its Speed or its attack and damage bonuses with its Strikes but might change the damage type its Strikes deal.\n"
+    desc: "`pf2:1` (concentrate,divine,polymorph) The naunet can take the appearance of any Small, Medium, or Large animal, beast, or humanoid. This doesn't change its Speed or its attack and damage bonuses with its Strikes but might change the damage type its Strikes deal.\n\n* * *\n"
 
   - name: "Confounding Slam"
-    desc: " (divine,emotion,mental) A creature hit by the naunet's tentacle Strike is [[Conditions/Stupefied 1|Stupefied 2]] for 1d4 rounds (DC 24 Will check negates). If the creature was already stupefied in this way, the duration extends by 1 round instead. A chaotic creature is only [[Conditions/Stupefied 1|Stupefied 1]] instead."
+    desc: " (divine,emotion,mental) A creature hit by the naunet's tentacle Strike is [[Conditions/Stupefied|Stupefied 2]] for 1d4 rounds (DC 24 Will check negates). If the creature was already stupefied in this way, the duration extends by 1 round instead. A chaotic creature is only [[Conditions/Stupefied|Stupefied 1]] instead."
 
   - name: "[[Bestiary Ability Glossary/Constrict|Constrict]]"
-    desc: "`pf2:1`  1d8 + 8 bludgeoning damage, DC 26 Fortitude check save\n"
+    desc: "`pf2:1`  1d8+8 bludgeoning damage, DC 26 Fortitude check save\n\n* * *\n"
 
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
     desc: "`pf2:1`  "
  
+```
+
+```encounter-table
+name: Naunet
+creatures:
+  - 1: Naunet
 ```
 
 

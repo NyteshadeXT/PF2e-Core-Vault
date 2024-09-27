@@ -6,6 +6,7 @@ cssClasses: pf2e
 aliases: "Compendium.pf2e.strength-of-thousands-bestiary.Actor.XsLYAnDjzpPeICkL" 
 tags:
   - pf2e/creature/type/beast
+  - pf2eMonster
   - pf2e/creature/level/13
 statblock: inline
 name: "Ba&#x27;aupa Mdoudu"
@@ -23,11 +24,12 @@ level: "Creature 13"
 
 alignment: ""
 size: "Medium"
-trait_01: "beast"
+trait_01: [[beast]]
 modifier: 23
 perception:
   - name: "Perception"
     desc: "+23; Darkvision, Tremorsense (Imprecise) 30 Feet"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Athletics: +27, Stealth: +25"
@@ -55,7 +57,7 @@ abilities_mid:
     desc: "  Aba'aupa mdoudu can sense the presence of bones and skeletons within 60 feet; this is a precise sense when detecting dead bones but an imprecise one when detecting living bones."
 
   - name: "Slime Squirt"
-    desc: "`pf2:r`  **Trigger** A creature inflicts slashing or piercing damage on the ba'aupa mdoudu with a melee Strike\n**Effect** The attacking creature takes 2d10 acid damage."
+    desc: "`pf2:r`  **Trigger** A creature inflicts slashing or piercing damage on the ba'aupa mdoudu with a melee Strike\n* * *\n\n**Effect** The attacking creature takes 2d10 acid damage."
 
 attacks:
   - name: ""
@@ -67,14 +69,20 @@ attacks:
     desc: "`pf2:1` Spit +23 (acid, range increment 60 feet)\n__Damage__  6d6 acid"
 
   - name: "Caustic Acid"
-    desc: "  Whenever a creature takes acid damage from any of a ba'aupa mdoudu's abilities or Strikes, it must succeed at a DC 30 Fortitude check save or become [[Conditions/Drained 1|Drained 1]] ([[Conditions/Drained 1|Drained 2]] on a critical failure). On each subsequent failure, the drained condition value increases by 1 (or by 2 on a critical failure), to a maximum of drained 4."
+    desc: "  Whenever a creature takes acid damage from any of a ba'aupa mdoudu's abilities or Strikes, it must succeed at a DC 30 Fortitude check save or become [[Conditions/Drained|Drained 1]] ([[Conditions/Drained|Drained 2]] on a critical failure). On each subsequent failure, the drained condition value increases by 1 (or by 2 on a critical failure), to a maximum of drained 4."
 
   - name: "Caustic Rain"
-    desc: "`pf2:2` (primal) The ba'aupa mdoudu spews copious amounts of acid into the air, creating a cascading rain to fall in a 10-foot emanation around itself. All creatures in the area take 14d6 acid damage (DC 33 Reflex check save) plus Caustic Acid. The ba'aupa mdoudu can't use Caustic Rain again for 1d4 rounds."
+    desc: "`pf2:2` (primal) The ba'aupa mdoudu spews copious amounts of acid into the air, creating a cascading rain to fall in a @Template[emanation|distance:10] around itself. All creatures in the area take 14d6 acid damage (DC 33 Reflex check save) plus Caustic Acid. The ba'aupa mdoudu can't use Caustic Rain again for 1d4 rounds."
 
   - name: "Stone Tunneler"
     desc: "  A ba'aupa mdoudu can leave a tunnel when it burrows through earth or stone, and it usually does."
  
+```
+
+```encounter-table
+name: Ba'aupa Mdoudu
+creatures:
+  - 1: Ba'aupa Mdoudu
 ```
 
 

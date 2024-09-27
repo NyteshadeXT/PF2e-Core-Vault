@@ -7,8 +7,9 @@ tags:
   - trait/skill
   - trait/common
   - category/skill
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.BqceQIKE0lwIS98s"
-license: OGL
+license: ORC
 ---
 # Pilgrim's Token
 ## Feat 1
@@ -18,13 +19,11 @@ license: OGL
 
 
 
-**Prerequisites** trained in Religion
+**Prerequisites** trained in Religion; follower of a specific religion
 * * *
-You carry a small token of protection from a site holy to your faith, or you touched your religious symbol to a relic or altar at such a site. So long as this token is in your possession, when you tie an adversary's initiative roll, you go first.
+You carry a small token of protection from a site holy to your faith. You gain a wooden religious symbol for your deity for free. As long as this religious symbol is in your possession, when you tie an adversary's initiative roll, you go first.
 
-**Special** If you select this feat at 1st level, you receive your pilgrim's token for free. Alternately, if you have a religious symbol, it is already attuned, as described above.
+If you lose this religious symbol, you must purchase or Craft a replacement and attune it. Such a token usually costs at least 1 sp, and the attunement takes 10 minutes of prayer. You can also attune a different religious symbol with the same amount of time, but you lose the benefit of the previous religious symbol.
 
-If you select this feat at a later level, or if you lose your pilgrim's token, you must purchase or Craft a replacement and attune it at a holy site. Such a token usually costs at least 2 sp, and the attunement takes 10 minutes of prayer and requires a successful DC 20 Religion check check. Your GM might adjust the price and DC depending on the token's material and quality and the religious significance of the site; the more significant the location, the easier the attunement.
-
-*Source: Pathfinder Advanced Player's Guide*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

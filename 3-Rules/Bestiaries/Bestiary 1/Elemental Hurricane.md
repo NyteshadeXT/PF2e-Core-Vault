@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.pathfinder-bestiary.Actor.FPKoiMXENk5FouXp"
 tags:
   - pf2e/creature/type/air
   - pf2e/creature/type/elemental
+  - pf2eMonster
   - pf2e/creature/level/11
 statblock: inline
 name: "Elemental Hurricane"
@@ -25,8 +26,8 @@ level: "Creature 11"
 
 alignment: ""
 size: "huge"
-trait_01: "air"
-trait_02: "elemental"
+trait_01: [[air]]
+trait_02: [[elemental]]
 modifier: 20
 perception:
   - name: "Perception"
@@ -53,7 +54,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Disperse"
-    desc: "`pf2:r`  **Trigger** The elemental hurricane takes damage from a hostile action.\n**Effect** The elemental hurricane disperses.\nUntil the end of the current turn, it can't be attacked or targeted, doesn't take up space, and any auras or emanations it has are suppressed. At the end of the turn, the elemental hurricane reforms in any space in which it can fit within 100 feet of where it dispersed and any auras or emanations it has are restored as long as their duration didn't run out while it was dispersed."
+    desc: "`pf2:r`  **Trigger** The elemental hurricane takes damage from a hostile action.\n* * *\n\n**Effect** The elemental hurricane disperses.\n\nUntil the end of the current turn, it can't be attacked or targeted, doesn't take up space, and any auras or emanations it has are suppressed. At the end of the turn, the elemental hurricane reforms in any space in which it can fit within 100 feet of where it dispersed and any auras or emanations it has are restored as long as their duration didn't run out while it was dispersed."
 
   - name: "High Winds"
     desc: " (air,aura) 40 feet. Air within the emanation is difficult terrain for Flying creatures that do not have the air trait."
@@ -71,11 +72,17 @@ attacks:
     desc: "`pf2:1` Lightning Lash +24 (range increment 75 feet)\n__Damage__  2d12 + 6 electricity"
 
   - name: "Breath Weapon"
-    desc: "`pf2:2` (air) The elemental breathes a 30-foot cone of air. Creatures in the cone must succeed at a DC 29 Fortitude check save or be knocked away from the elemental.\nA creature knocked into a solid object stops moving and takes 10d6 bludgeoning damage.\nThe elemental hurricane can't use Breath Weapon again for 1d4 rounds.\n**Critical Success** The creature is unaffected.\n**Success** The creature is Pushed 20 feet.\n**Failure** The creature is Pushed 40 feet.\n**Critical Failure** The creature is Pushed 40 feet and knocked [[Conditions/Prone|Prone]]."
+    desc: "`pf2:2` (air) The elemental breathes a @Template[cone|distance:30] of air. Creatures in the cone must succeed at a DC 29 Fortitude check save or be knocked away from the elemental.\n\nA creature knocked into a solid object stops moving and takes 10d6 bludgeoning damage.\n\nThe elemental hurricane can't use Breath Weapon again for 1d4 rounds.\n* * *\n\n**Critical Success** The creature is unaffected.\n\n**Success** The creature is Pushed 20 feet.\n\n**Failure** The creature is Pushed 40 feet.\n\n**Critical Failure** The creature is Pushed 40 feet and knocked [[Conditions/Prone|Prone]]."
 
   - name: "[[Bestiary Ability Glossary/Push|Push 10 feet]]"
     desc: "`pf2:1`  "
  
+```
+
+```encounter-table
+name: Elemental Hurricane
+creatures:
+  - 1: Elemental Hurricane
 ```
 
 

@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/aberration
   - pf2e/creature/type/evil
   - pf2e/creature/type/unholy
+  - pf2eMonster
   - pf2e/creature/level/4
 statblock: inline
 name: "Karumzek"
@@ -22,12 +23,12 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #171: Hurricane&#x27;s Howl"
 name: "Karumzek"
 level: "Creature 4"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Medium"
-trait_01: "aberration"
-trait_02: "evil"
-trait_03: "unholy"
+trait_01: [[aberration]]
+trait_02: [[evil]]
+trait_03: [[unholy]]
 modifier: 11
 perception:
   - name: "Perception"
@@ -69,8 +70,14 @@ attacks:
     desc: " (arcane,concentrate,polymorph) A karumzek can take the shape of a Tiny spider. This doesn't change its Speed or Strikes."
 
   - name: "Karumzek Venom"
-    desc: " (poison,virulent) **Saving Throw** DC 19 Fortitude check\n**Maximum Duration** 6 rounds\n**Stage 1** 1d6 poison (1 round)\n**Stage 2** 1d6 poison and [[Conditions/Enfeebled 1|Enfeebled 1]] (1 round)\n**Stage 3** 2d6 poison, [[Conditions/Clumsy 1|Clumsy 1]], and enfeebled 1 (1 round)"
+    desc: " (poison,virulent) **Saving Throw** DC 19 Fortitude check\n\n**Maximum Duration** 6 rounds\n\n**Stage 1** 1d6 poison (1 round)\n\n**Stage 2** 1d6 poison and [[Conditions/Enfeebled|Enfeebled 1]] (1 round)\n\n**Stage 3** 2d6 poison, [[Conditions/Clumsy|Clumsy 1]], and enfeebled 1 (1 round)"
  
+```
+
+```encounter-table
+name: Karumzek
+creatures:
+  - 1: Karumzek
 ```
 
 

@@ -16,7 +16,7 @@ license: OGL
 
 
 
-**Minor Curse:** When your pranks start going wrong, they dissolve into a string of catastrophic failures. When you roll a failure on a Deception or Stealth check, you get a critical failure instead.
+When your pranks start going wrong, they dissolve into a string of catastrophic failures. When you roll a failure on a Deception or Stealth check, you get a critical failure instead.
 
 *Source: Pathfinder Lost Omens: Gods & Magic*
 *OGL*

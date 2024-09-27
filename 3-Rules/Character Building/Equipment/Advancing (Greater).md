@@ -10,7 +10,7 @@ license: OGL
 ---
 # Advancing (Greater)
 ## Item 16
-### [[magical]]
+### [[3-Rules/Rule References/Magical]]
 
 
 **Price** 8000 gp; 

@@ -11,7 +11,7 @@ license: OGL
 ---
 # Diver's Gloves (Greater)
 ## Item 15
-### [uncommon](uncommon "Uncommon Rarity Trait")[[invested]][[magical]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[invested]][[3-Rules/Rule References/Magical]]
 
 
 **Price** 6000 gp; 

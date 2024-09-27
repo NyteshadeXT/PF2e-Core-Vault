@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/good
   - pf2e/creature/type/human
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/7
 statblock: inline
 name: "Revna the Brave (7-8)"
@@ -22,12 +23,12 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Society Scenario #4-03: Linnorm&#x27;s Legacy"
 name: "Revna the Brave (7-8)"
 level: "Creature 7"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Medium"
-trait_01: "good"
-trait_02: "human"
-trait_03: "humanoid"
+trait_01: [[good]]
+trait_02: [[human]]
+trait_03: [[humanoid]]
 modifier: 15
 perception:
   - name: "Perception"
@@ -35,7 +36,7 @@ perception:
 languages: "Common, Draconic, Hallit, Skald, Tien"
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +12, Athletics: +16, Bardic Lore: +11, Deception: +17, Diplomacy: +17, Medicine: +13, Occultism: +15, Performance: +19 (+20 when Singing), Sailing Lore: +15, Society: +15, Stealth: +12, Warfare Lore: +15"
+    desc: "Acrobatics: +12, Athletics: +16, Deception: +17, Diplomacy: +17, Medicine: +13, Occultism: +15, Performance: +19, Society: +15, Stealth: +12, Bardic Lore: +11, Sailing Lore: +15, Warfare Lore: +15"
 abilityMods: [3, 1, 1, 2, 2, 4]
 speed: 25 feet
 sourcebook: "_Pathfinder Society Scenario #4-03: Linnorm&#x27;s Legacy_"
@@ -66,13 +67,13 @@ attacks:
   - name: "Melee"
     desc: "`pf2:1` Battle Axe +18 (sweep)\n__Damage__  1d8 + 9 slashing"
 
-  - name: "Melee"
+  - name: "Ranged"
     desc: "`pf2:1` Hatchet +18 (agile, sweep, thrown 10 ft.)\n__Damage__  1d6 + 9 slashing"
 
   - name: "Ranged"
     desc: "`pf2:1` Hatchet +16 (agile, sweep, thrown 10 ft.)\n__Damage__  1d6 + 9 slashing"
 
-  - name: "Ranged"
+  - name: "Melee"
     desc: "`pf2:1` Shortbow +16 (deadly d10)\n__Damage__  1d6 + 6 piercing"
 
   - name: "Occult Spontaneous Spells"
@@ -84,6 +85,12 @@ attacks:
   - name: "Steady Spellcasting"
     desc: "  If a reaction would disrupt Revna's spellcasting action, she attempts a DC 15 Flat check. If she succeeds, her action isn't disrupted."
  
+```
+
+```encounter-table
+name: Revna the Brave (7-8)
+creatures:
+  - 1: Revna the Brave (7-8)
 ```
 
 

@@ -11,7 +11,7 @@ license: OGL
 ---
 # Baba Yaga Patron
 ## Feat 1
-### [rare](rare "Rare Rarity Trait")[[witch]]
+### [rare](rare.md "Rare Rarity Trait")[[witch]]
 
 **Category** classfeature; 
 
@@ -28,7 +28,7 @@ Baba Yaga teaches you how to transfer spirits into objects and freeze your foes.
 
 **Granted Spell** [[Spells/Chilling Spray|Chilling Spray]]
 
-**Familiar of Freezing Rime** Your familiar is cold to the touch, its breath always visible. When you Cast or Sustain a hex, you can cause ice to form in a 5-foot burst centered on a square of your familiar's space. Those squares are difficult terrain until the start of your next turn.
+**Familiar of Freezing Rime** Your familiar is cold to the touch, its breath always visible. When you Cast or Sustain a hex, you can cause ice to form in a @Template\[burst|distance:5\] centered on a square of your familiar's space. Those squares are difficult terrain until the start of your next turn.
 
 _Note: This patron's familiar ability was added per PFS guidelines._
 

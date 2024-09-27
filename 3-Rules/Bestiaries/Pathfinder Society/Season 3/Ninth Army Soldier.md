@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/human
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/5
 statblock: inline
 name: "Ninth Army Soldier"
@@ -22,12 +23,12 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Society Scenario #3-16: Escape from Oppara"
 name: "Ninth Army Soldier"
 level: "Creature 5"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Medium"
-trait_01: "evil"
-trait_02: "human"
-trait_03: "humanoid"
+trait_01: [[evil]]
+trait_02: [[human]]
+trait_03: [[humanoid]]
 modifier: 15
 perception:
   - name: "Perception"
@@ -72,6 +73,12 @@ attacks:
   - name: "Running Reload"
     desc: "`pf2:1`  The Ninth Army soldier Strides, Steps, or Sneaks, and then Interacts to reload."
  
+```
+
+```encounter-table
+name: Ninth Army Soldier
+creatures:
+  - 1: Ninth Army Soldier
 ```
 
 

@@ -12,7 +12,7 @@ license: ORC
 ---
 # Weapon Legend
 ## Feat 13
-### [[fighter]]
+### [[3-Rules/trait_reference/fighter]]
 
 **Category** classfeature; 
 

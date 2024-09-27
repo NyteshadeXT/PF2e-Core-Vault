@@ -13,7 +13,7 @@ license: OGL
 ---
 # Undertaker's Manifest
 ## Item 6
-### [[3-Rules/Character Building/Spells/Darkness]][[grimoire]][[magical]][[shadow]]
+### [[darkness]][[grimoire]][[magical]][[shadow]]
 
 
 **Price** 220 gp; 
@@ -28,7 +28,7 @@ This grim collection of spreadsheets is used both by undertakers who occasionall
 
 * * *
 
-**Effect** If your next action is to cast a necromancy spell, the spell's casting is accompanied by a roiling cloud of shadow that spills out around you, creating dim light in a 30-foot emanation centered on you for the next 3 rounds. This has no effect on areas where the lighting level is already darker than dim light.
+**Effect** If your next action is to cast a necromancy spell, the spell's casting is accompanied by a roiling cloud of shadow that spills out around you, creating dim light in a @Template\[emanation|distance:30\] centered on you for the next 3 rounds. This has no effect on areas where the lighting level is already darker than dim light.
 
 *Source: Pathfinder Treasure Vault*
 *OGL*

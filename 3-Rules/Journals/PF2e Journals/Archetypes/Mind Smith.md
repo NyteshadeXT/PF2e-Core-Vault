@@ -8,7 +8,7 @@ tags:
 ---
 
 # Mind Smith
-“The mind makes it real.” Though uttered in many parts of Golarion, nowhere is this more literal than perhaps among mind smiths—those with a mysterious mental talent that allows them to manifest their mind into a physical object. Some gain this power through magical training from an ancestor or mentor, while others earn it as a gift or reward from some greater being, or by inexplicable chance. Whatever the source, you have mastered the ability to form a mental image into a corporeal figment solid enough to affect the physical world. You trained the power to aid you in battle by shaping itself into a potent weapon, bound by only the reaches of your own imagination.
+"The mind makes it real." Though uttered in many parts of Golarion, nowhere is this more literal than perhaps among mind smiths—those with a mysterious mental talent that allows them to manifest their mind into a physical object. Some gain this power through magical training from an ancestor or mentor, while others earn it as a gift or reward from some greater being, or by inexplicable chance. Whatever the source, you have mastered the ability to form a mental image into a corporeal figment solid enough to affect the physical world. You trained the power to aid you in battle by shaping itself into a potent weapon, bound by only the reaches of your own imagination.
 
 ## [[Feats/Mind Smith Dedication|Mind Smith Dedication]] Feat 2
 
@@ -71,7 +71,7 @@ Your experiences in combat shape your mind's capability to strengthen and shape 
 
 * * *
 
-With a swing and a thought, you detonate your mind weapon into a burst of psychic shards that shred the mind. You concentrate and unleash a 15-foot cone that deals 3d6 mental damage to all creatures in the area, with a Will check save against the higher of your class DC or spell DC. After the attack, your mind weapon automatically re-forms, and you can't use this ability again for 1 minute. Mind Shards' damage increases by 1d6 at level 7 and every two levels thereafter.
+With a swing and a thought, you detonate your mind weapon into a burst of psychic shards that shred the mind. You concentrate and unleash a @Template\[cone|distance:15\] that deals 3d6 mental damage to all creatures in the area, with a Will check save against the higher of your class DC or spell DC. After the attack, your mind weapon automatically re-forms, and you can't use this ability again for 1 minute. Mind Shards' damage increases by 1d6 at level 7 and every two levels thereafter.
 
 Leveled Mental Damage
 

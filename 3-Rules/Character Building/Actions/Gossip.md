@@ -7,8 +7,9 @@ tags:
   - trait/secret
   - trait/common
   - category/interaction
+  - remaster
 aliases: "Compendium.pf2e.actionspf2e.Item.BCp3tn2HATUOUEdQ"
-license: OGL
+license: ORC
 ---
 # Gossip
 
@@ -31,5 +32,5 @@ You seek out rumors about the infiltration's target. Attempt a normal, hard, or 
 
 **Critical Failure** You hear a few mistaken rumors and take a -2 circumstance penalty to your next check for a preparation activity. Word spreads around that you're asking after that group or individual, increasing your Awareness Points by 1.
 
-*Source: Pathfinder Gamemastery Guide*
-*OGL*
+*Source: Pathfinder GM Core*
+*ORC*

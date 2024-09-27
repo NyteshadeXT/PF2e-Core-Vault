@@ -31,9 +31,9 @@ This toxin erratically stimulates the limbs, forcing unexpected shifts in moment
 
 **Stage 1** 4d6 poison and 1 Step of forced movement (1 round)
 
-**Stage 2** 6d6 poison, [[Conditions/Clumsy 1|Clumsy 1]], and 1 Step of forced movement (1 round)
+**Stage 2** 6d6 poison, [[Conditions/Clumsy|Clumsy 1]], and 1 Step of forced movement (1 round)
 
-**Stage 3** 8d6 poison, [[Conditions/Clumsy 1|Clumsy 2]], 2 Steps of forced movement (1 round)
+**Stage 3** 8d6 poison, [[Conditions/Clumsy|Clumsy 2]], 2 Steps of forced movement (1 round)
 
 *Source: Pathfinder Treasure Vault*
 *OGL*

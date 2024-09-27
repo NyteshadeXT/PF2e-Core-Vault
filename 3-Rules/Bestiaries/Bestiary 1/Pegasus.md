@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.pathfinder-bestiary.Actor.PCh2kxeSYWRit9TE"
 tags:
   - pf2e/creature/type/beast
   - pf2e/creature/type/good
+  - pf2eMonster
   - pf2e/creature/level/3
 statblock: inline
 name: "Pegasus"
@@ -25,13 +26,13 @@ level: "Creature 3"
 
 alignment: ""
 size: "Large"
-trait_01: "beast"
-trait_02: "good"
+trait_01: [[beast]]
+trait_02: [[good]]
 modifier: 12
 perception:
   - name: "Perception"
     desc: "+12; Darkvision, Scent (Imprecise) 30 Feet"
-languages: "Common"
+languages: "Common; (can&#x27;t speak any language)"
 skills:
   - name: "Skills"
     desc: "Acrobatics: +11, Athletics: +10"
@@ -65,11 +66,17 @@ attacks:
     desc: "`pf2:1` Wing +10 (agile)\n__Damage__  1d6 + 5 bludgeoning"
 
   - name: "Assisted Mount"
-    desc: "`pf2:1`  **Requirements** The pegasus is Flying without a rider.\n**Effect** The pegasus Flies. At any point during the movement, it can allow a willing adjacent creature to [[Actions/Mount|Mount]] it. That creature must use a reaction to do so."
+    desc: "`pf2:1`  **Requirements** The pegasus is Flying without a rider.\n* * *\n\n**Effect** The pegasus Flies. At any point during the movement, it can allow a willing adjacent creature to [[Actions/Mount|Mount]] it. That creature must use a reaction to do so."
 
   - name: "Gallop"
     desc: "`pf2:2`  The pegasus uses 2 move actions, each of which can be either Stride or Fly. It gains a +20-foot circumstance bonus to its Speeds during a Gallop."
  
+```
+
+```encounter-table
+name: Pegasus
+creatures:
+  - 1: Pegasus
 ```
 
 

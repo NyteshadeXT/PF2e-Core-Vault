@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.rage-of-elements-bestiary.Actor.OX25euLqeBR07Ul7"
 tags:
   - pf2e/creature/type/elemental
   - pf2e/creature/type/metal
+  - pf2eMonster
   - pf2e/creature/level/3
   - remaster
 statblock: inline
@@ -25,12 +26,13 @@ level: "Creature 3"
 
 alignment: ""
 size: "Medium"
-trait_01: "elemental"
-trait_02: "metal"
+trait_01: [[elemental]]
+trait_02: [[metal]]
 modifier: 9
 perception:
   - name: "Perception"
     desc: "+9; Darkvision"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Acrobatics: +11, Stealth: +9, Survival: +7"
@@ -58,8 +60,14 @@ attacks:
     desc: "`pf2:1` Razor&#x27;s Edge +11 (finesse)\n__Damage__  1d10 + 3 slashing"
 
   - name: "Fold Form"
-    desc: "`pf2:1` (concentrate,polymorph,primal) The kinzaruk swiftly unfolds and refolds its body into a new shape chosen from the options of [[Spells/Animal Form|Animal Form]]. This grants it the movement Speeds and Strikes of the chosen form, but none of the other benefits. Its attack bonus is unchanged, and its damage bonus is +3. The kinzaruk can return to its natural form by taking this action again, and automatically returns if it falls [[Conditions/Unconscious|Unconscious]].\n[[Bestiary Effects/Effect_ Fold Form|Effect: Fold Form]]"
+    desc: "`pf2:1` (concentrate,polymorph,primal) The kinzaruk swiftly unfolds and refolds its body into a new shape chosen from the options of [[Spells/Animal Form|Animal Form]]. This grants it the movement Speeds and Strikes of the chosen form, but none of the other benefits. Its attack bonus is unchanged, and its damage bonus is +3. The kinzaruk can return to its natural form by taking this action again, and automatically returns if it falls [[Conditions/Unconscious|Unconscious]].\n\n[[Bestiary Effects/Effect_ Fold Form|Effect: Fold Form]]"
  
+```
+
+```encounter-table
+name: Kinzaruk
+creatures:
+  - 1: Kinzaruk
 ```
 
 

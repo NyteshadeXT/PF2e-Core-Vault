@@ -17,7 +17,7 @@ license: OGL
 
 
 
-**Moderate Curse** Poisons are quick to debilitate you. When you roll a failure at a Fortitude save against a poison, you get a critical failure instead.
+Poisons are quick to debilitate you. When you roll a failure at a Fortitude save against a poison, you get a critical failure instead.
 
 *Source: Pathfinder Lost Omens: Gods & Magic*
 *OGL*

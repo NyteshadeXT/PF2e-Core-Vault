@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.pathfinder-monster-core.Actor.4Ejgj6p1LAu1RAN3"
 tags:
   - pf2e/creature/type/earth
   - pf2e/creature/type/elemental
+  - pf2eMonster
   - pf2e/creature/level/5
   - remaster
 statblock: inline
@@ -26,8 +27,8 @@ level: "Creature 5"
 
 alignment: ""
 size: "Medium"
-trait_01: "earth"
-trait_02: "elemental"
+trait_01: [[earth]]
+trait_02: [[elemental]]
 modifier: 12
 perception:
   - name: "Perception"
@@ -52,7 +53,7 @@ abilities_top:
   - name: ""
 
   - name: "Earthbound"
-    desc: "  When not touching solid ground, the living landslide is [[Conditions/Slowed 1|Slowed 1]] and can't use reactions."
+    desc: "  When not touching solid ground, the living landslide is [[Conditions/Slowed|Slowed 1]] and can't use reactions."
 
 abilities_mid:
   - name: ""
@@ -71,6 +72,12 @@ attacks:
   - name: "Sliding Earth"
     desc: "`pf2:2`  The living landslide Strides up to twice its normal Speed in a straight line, then attempts to [[Actions/Trip|Trip]] a creature in its reach. If a creature falls [[Conditions/Prone|Prone]] from this Trip, it takes 1d4 bludgeoning damage for every 10 feet the living landslide moved."
  
+```
+
+```encounter-table
+name: Living Landslide
+creatures:
+  - 1: Living Landslide
 ```
 
 

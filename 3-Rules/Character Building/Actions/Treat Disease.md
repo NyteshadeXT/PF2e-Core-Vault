@@ -14,7 +14,7 @@ license: ORC
 ---
 # Treat Disease
 
-### [[downtime]][[manipulate]][[skill]]
+### [[downtime]][[3-Rules/Rule References/Manipulate]][[skill]]
 
 **Category** interaction; 
 

@@ -11,6 +11,7 @@ tags:
   - pf2e/creature/type/human
   - pf2e/creature/type/humanoid
   - pf2e/creature/type/unholy
+  - pf2eMonster
   - pf2e/creature/level/13
 statblock: inline
 name: "Metuak"
@@ -25,15 +26,15 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #177: Burning Tundra"
 name: "Metuak"
 level: "Creature 13"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Medium"
-trait_01: "chaotic"
-trait_02: "evil"
-trait_03: "fiend"
-trait_04: "human"
-trait_05: "humanoid"
-trait_06: "unholy"
+trait_01: [[chaotic]]
+trait_02: [[evil]]
+trait_03: [[fiend]]
+trait_04: [[human]]
+trait_05: [[humanoid]]
+trait_06: [[unholy]]
 modifier: 20
 perception:
   - name: "Perception"
@@ -61,7 +62,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Attack of Opportunity"
-    desc: "  \[reaction\]"
+    desc: "  `pf2:r`"
 
   - name: "Dual Deny Advantage"
     desc: "  Due to his dual nature with Xeleria, Metuak is never [[Conditions/Off-Guard|Off-Guard]]."
@@ -72,7 +73,7 @@ attacks:
   - name: "Melee"
     desc: "`pf2:1` Claw +27 (magical, unholy)\n__Damage__  3d8 + 14 cold 2d6 spirit"
 
-  - name: "Melee"
+  - name: "Ranged"
     desc: "`pf2:1` Hatchet +27 (agile, magical, sweep, thrown 10 ft., unholy)\n__Damage__  3d6 + 14 slashing 1d6 spirit"
 
   - name: "Divine Innate Spells"
@@ -93,6 +94,12 @@ attacks:
   - name: "Terrifying Howl"
     desc: "`pf2:1` (auditory) Metuak unleashes a terrifying howl, attempting to Demoralize each creature within 30 feet. These creatures are then immune to Terrifying Howl for 1 minute."
  
+```
+
+```encounter-table
+name: Metuak
+creatures:
+  - 1: Metuak
 ```
 
 

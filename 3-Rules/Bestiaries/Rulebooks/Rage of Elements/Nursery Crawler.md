@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/elemental
   - pf2e/creature/type/plant
   - pf2e/creature/type/wood
+  - pf2eMonster
   - pf2e/creature/level/3
   - remaster
 statblock: inline
@@ -26,16 +27,17 @@ level: "Creature 3"
 
 alignment: ""
 size: "Small"
-trait_01: "elemental"
-trait_02: "plant"
-trait_03: "wood"
+trait_01: [[elemental]]
+trait_02: [[plant]]
+trait_03: [[wood]]
 modifier: 9
 perception:
   - name: "Perception"
     desc: "+9; "
+languages: ""
 skills:
   - name: "Skills"
-    desc: "Deception: +5 (+10 when pretending to be a mundane stump or log), Survival: +9"
+    desc: "Deception: +5, Survival: +9"
 abilityMods: [4, 3, 3, -2, 1, 0]
 speed: 20 feet,  climb 20 feet
 sourcebook: "_Pathfinder Rage of Elements_"
@@ -63,8 +65,14 @@ attacks:
     desc: "`pf2:1` Seed +8 (range increment 20 feet)\n__Damage__  1d6 + 3 piercing plus germinate"
 
   - name: "Germinate"
-    desc: " (plant) A creature hit by the nursery crawler's seed Strike must, on its turn, spend an Interact action to remove the seed; any seeds still implanted at the end of the creature's turn begin to sprout, dealing 1d6 persistent bleed damage and rendering the seeded creature [[Conditions/Clumsy 1|Clumsy 1]] and [[Conditions/Off-Guard|Off-Guard]]. Removing a seed after it's sprouted deals 1d4 piercing damage; removing it before it begins to sprout does no damage. Removed seeds that land in viable soil sprout immediately and grow into new saplings after 1 hour."
+    desc: " (plant) A creature hit by the nursery crawler's seed Strike must, on its turn, spend an Interact action to remove the seed; any seeds still implanted at the end of the creature's turn begin to sprout, dealing 1d6 persistent bleed damage and rendering the seeded creature [[Conditions/Clumsy|Clumsy 1]] and [[Conditions/Off-Guard|Off-Guard]]. Removing a seed after it's sprouted deals 1d4 piercing damage; removing it before it begins to sprout does no damage. Removed seeds that land in viable soil sprout immediately and grow into new saplings after 1 hour."
  
+```
+
+```encounter-table
+name: Nursery Crawler
+creatures:
+  - 1: Nursery Crawler
 ```
 
 

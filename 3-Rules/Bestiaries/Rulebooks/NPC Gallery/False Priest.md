@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.npc-gallery.Actor.9jDT7EhtlZtNpCz7"
 tags:
   - pf2e/creature/type/human
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/4
 statblock: inline
 name: "False Priest"
@@ -24,8 +25,8 @@ level: "Creature 4"
 
 alignment: ""
 size: "Medium"
-trait_01: "human"
-trait_02: "humanoid"
+trait_01: [[human]]
+trait_02: [[humanoid]]
 modifier: 10
 perception:
   - name: "Perception"
@@ -65,14 +66,20 @@ attacks:
     desc: "  On the first round of combat, if the false priest rolls Deception or Performance for initiative, creatures that haven't acted yet are [[Conditions/Off-Guard|Off-Guard]] to the false priest."
 
   - name: "Fickle Prophecy"
-    desc: "`pf2:1` (emotion,mental) The false priest convinces someone of their omnipotence by attempting a Deception check compared to the creature's Will DC.\nIf successful, the target gains 1d8+4 temporary Hit Points that last for 1 hour or until the false priest removes them by rebuking the target, whichever occurs first."
+    desc: "`pf2:1` (emotion,mental) The false priest convinces someone of their omnipotence by attempting a Deception check compared to the creature's Will DC.\n\nIf successful, the target gains 1d8+4 temporary Hit Points that last for 1 hour or until the false priest removes them by rebuking the target, whichever occurs first."
 
   - name: "[[Bestiary Ability Glossary/Sneak Attack|Sneak Attack]]"
     desc: "  The false priest deals an extra 1d6 precision damage to [[Conditions/Off-Guard|Off-Guard]] creatures. This increases to 2d6 precision damage against creatures off-guard due to the false priest's [[Actions/Feint|Feint]] or deceiver's surprise."
 
   - name: "The Jig Is Up"
-    desc: "`pf2:r`  **Frequency** once per hour\n**Trigger** The false priest critically fails a Deception or Performance check\n**Effect** The false priest Strides."
+    desc: "`pf2:r`  **Frequency** once per hour\n\n**Trigger** The false priest critically fails a Deception or Performance check\n* * *\n\n**Effect** The false priest Strides."
  
+```
+
+```encounter-table
+name: False Priest
+creatures:
+  - 1: False Priest
 ```
 
 

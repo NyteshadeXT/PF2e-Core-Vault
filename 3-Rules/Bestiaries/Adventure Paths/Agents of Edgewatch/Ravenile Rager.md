@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/humanoid
   - pf2e/creature/type/lizardfolk
+  - pf2eMonster
   - pf2e/creature/level/14
 statblock: inline
 name: "Ravenile Rager"
@@ -22,12 +23,12 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #159: All or Nothing"
 name: "Ravenile Rager"
 level: "Creature 14"
-rare_03: "Rare"
+rare_03: [[Rare]]
 alignment: ""
 size: "Large"
-trait_01: "evil"
-trait_02: "humanoid"
-trait_03: "lizardfolk"
+trait_01: [[evil]]
+trait_02: [[humanoid]]
+trait_03: [[lizardfolk]]
 modifier: 25
 perception:
   - name: "Perception"
@@ -70,14 +71,20 @@ attacks:
     desc: "`pf2:1` Claw +29 (agile, reach 10 feet)\n__Damage__  3d8 + 8 slashing"
 
   - name: "Forced Regeneration"
-    desc: "`pf2:1` (concentrate) **Requirements** The ravenile's regeneration is currently active\nThe ravenile regains 20 HP."
+    desc: "`pf2:1` (concentrate) **Requirements** The ravenile's regeneration is currently active\n* * *\n\nThe ravenile regains 20 HP."
 
   - name: "Furious Wallop"
-    desc: "`pf2:2`  **Requirements** The ravenile's regeneration is currently deactivated\n**Effect** The ravenile makes a melee Strike.\nThis counts as two attacks for the ravenile's multiple attack penalty.\nIf this Strike hits, the ravenile deals an extra die of weapon damage and the target falls [[Conditions/Prone|Prone]]."
+    desc: "`pf2:2`  **Requirements** The ravenile's regeneration is currently deactivated\n* * *\n\n**Effect** The ravenile makes a melee Strike.\n\nThis counts as two attacks for the ravenile's multiple attack penalty.\n\nIf this Strike hits, the ravenile deals an extra die of weapon damage and the target falls [[Conditions/Prone|Prone]]."
 
   - name: "[[Bestiary Ability Glossary/Rend|Rend]]"
-    desc: "`pf2:1`  Claw\n"
+    desc: "`pf2:1`  Claw\n\n* * *\n"
  
+```
+
+```encounter-table
+name: Ravenile Rager
+creatures:
+  - 1: Ravenile Rager
 ```
 
 

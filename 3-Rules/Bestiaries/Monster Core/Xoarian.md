@@ -6,6 +6,7 @@ cssClasses: pf2e
 aliases: "Compendium.pf2e.pathfinder-monster-core.Actor.mpkGWfPHmwAYPYJH" 
 tags:
   - pf2e/creature/type/aberration
+  - pf2eMonster
   - pf2e/creature/level/8
   - remaster
 statblock: inline
@@ -18,13 +19,14 @@ license: ORC
 columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
+token: [[modules/pf2e-tokens-monster-core/assets/portraits/dominion-of-the-black-xoarian.webp| ]]
 source: "Pathfinder Monster Core"
 name: "Xoarian"
 level: "Creature 8"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Small"
-trait_01: "aberration"
+trait_01: [[aberration]]
 modifier: 16
 perception:
   - name: "Perception"
@@ -74,6 +76,12 @@ attacks:
   - name: "Ravage"
     desc: "`pf2:3`  The xoarian makes two tentacle Strikes against a single [[Conditions/Paralyzed|Paralyzed]], [[Conditions/Restrained|Restrained]], or [[Conditions/Unconscious|Unconscious]] creature. If the target has 0 Hit Points after Ravage, the xoarian can use a free action with the death trait to kill the target and occupy it with Body Thief."
  
+```
+
+```encounter-table
+name: Xoarian
+creatures:
+  - 1: Xoarian
 ```
 
 

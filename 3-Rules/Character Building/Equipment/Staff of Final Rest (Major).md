@@ -43,9 +43,8 @@ This white marble staff is carved into the figure of an abstract knight, its shi
 *   **5th** [[Spells/Death Ward|Death Ward]], [[Spells/Infuse Vitality|Infuse Vitality]], [[Spells/Heal|Heal]]
 *   **6th** [[Spells/Field of Life|Field of Life]], [[Spells/Heal|Heal]], [[Spells/Holy Cascade|Holy Cascade]]
 *   **7th** [[Spells/Heal|Heal]], [[Spells/Holy Cascade|Holy Cascade]], [[Spells/Sunburst|Sunburst]]
-    
-    * * *
-    
+
+* * *
 
 **Craft Requirements** Supply one casting of all listed levels of all listed spells.
 

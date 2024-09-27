@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/undead
   - pf2e/creature/type/unholy
+  - pf2eMonster
   - pf2e/creature/level/2
 statblock: inline
 name: "Fan Hongrui"
@@ -23,13 +24,13 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #196: The Summer That Never Was"
 name: "Fan Hongrui"
 level: "Creature 2"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Small"
-trait_01: "chaotic"
-trait_02: "evil"
-trait_03: "undead"
-trait_04: "unholy"
+trait_01: [[chaotic]]
+trait_02: [[evil]]
+trait_03: [[undead]]
+trait_04: [[unholy]]
 modifier: 8
 perception:
   - name: "Perception"
@@ -37,7 +38,7 @@ perception:
 languages: "Common"
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +7, Deception: +8, Performance: +10, Stealth: +7 (+9 in undergrowth)"
+    desc: "Acrobatics: +7, Deception: +8, Performance: +10, Stealth: +7"
 abilityMods: [0, 3, 2, 0, 2, 3]
 speed: 30 feet
 sourcebook: "_Pathfinder #196: The Summer That Never Was_"
@@ -74,14 +75,20 @@ attacks:
     desc: " (occult) A living humanoid who's slain by a red-hooded thatchling while under the effects of Thatchling's Curse rises as a thatchling after 1d4 rounds. This spawn is under the command of the red-hooded thatchling that killed it. If a red-hooded thatchling controls too many at once (as determined by the GM), some thatchlings can free themselves with a DC 18 Will check saving throw at the start of their turn. If the red-hooded thatchling who created the spawn is destroyed, the spawn becomes an autonomous thatchling."
 
   - name: "Howl of Vengeful Fury"
-    desc: "`pf2:2` (occult,sonic) **Frequency** once per hour\n**Effect** The red-hooded thatchling sobs pitifully before unleashing a terrifying scream. All non-thatchling creatures within a 30-foot emanation take 2d10 sonic damage (DC 18 Fortitude check save) and become immune to all thatchlings' distracting giggle for 1 minute. Thatchlings in the area gain 5 temporary Hit Points and a +1 status bonus to their Strikes and saving throws for 1 minute.\n[[Bestiary Effects/Effect_ Howl of Vengeful Fury|Effect: Howl of Vengeful Fury]]"
+    desc: "`pf2:2` (occult,sonic) **Frequency** once per hour\n* * *\n\n**Effect** The red-hooded thatchling sobs pitifully before unleashing a terrifying scream. All non-thatchling creatures within a @Template[emanation|distance:30] take 2d10 sonic damage (DC 18 Fortitude check save) and become immune to all thatchlings' distracting giggle for 1 minute. Thatchlings in the area gain 5 temporary Hit Points and a +1 status bonus to their Strikes and saving throws for 1 minute.\n\n[[Bestiary Effects/Effect_ Howl of Vengeful Fury|Effect: Howl of Vengeful Fury]]"
 
   - name: "Thatchling's Curse"
-    desc: "`pf2:2` (curse,mental,occult) The thatchling focuses its attention on a single target within 30 feet that it can see, and then begins muttering and whispering nonsense. The target must attempt a DC 18 Will check save.\n**Critical Success** The target is unaffected and is temporarily immune to Thatchling's Curse for 24 hours.\n**Success** The target is momentarily disoriented and has difficulty moving in the right direction. The target takes a –5-foot status penalty to its Speeds for 1 round.\n**Failure** As success, but the penalty to its Speeds lasts for 1 minute.\n**Critical Failure** As failure, but the penalty to its Speeds lasts until the curse is removed or until the thatchling that created the effect is permanently destroyed, whichever comes first. In addition, when the cursed creature attempts a Survival check to Sense Direction or [[Actions/Track|Track]], they use the outcome for one degree of success worse than the result of their check, and they can't take the Scout exploration activity."
+    desc: "`pf2:2` (curse,mental,occult) The thatchling focuses its attention on a single target within 30 feet that it can see, and then begins muttering and whispering nonsense. The target must attempt a DC 18 Will check save.\n* * *\n\n**Critical Success** The target is unaffected and is temporarily immune to Thatchling's Curse for 24 hours.\n\n**Success** The target is momentarily disoriented and has difficulty moving in the right direction. The target takes a –5-foot status penalty to its Speeds for 1 round.\n\n**Failure** As success, but the penalty to its Speeds lasts for 1 minute.\n\n**Critical Failure** As failure, but the penalty to its Speeds lasts until the curse is removed or until the thatchling that created the effect is permanently destroyed, whichever comes first. In addition, when the cursed creature attempts a Survival check to Sense Direction or [[Actions/Track|Track]], they use the outcome for one degree of success worse than the result of their check, and they can't take the Scout exploration activity."
 
   - name: "Thicket Walker"
     desc: "  Thatchlings ignore difficult terrain caused by brambles, tangled grass, and undergrowth, even those manipulated by magic."
  
+```
+
+```encounter-table
+name: Fan Hongrui
+creatures:
+  - 1: Fan Hongrui
 ```
 
 

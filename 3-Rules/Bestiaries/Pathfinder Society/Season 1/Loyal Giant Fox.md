@@ -6,6 +6,7 @@ cssClasses: pf2e
 aliases: "Compendium.pf2e.pfs-season-1-bestiary.Actor.4QEU9t2vYef8QfZQ" 
 tags:
   - pf2e/creature/type/animal
+  - pf2eMonster
   - pf2e/creature/level/1
 statblock: inline
 name: "Loyal Giant Fox"
@@ -23,11 +24,12 @@ level: "Creature 1"
 
 alignment: ""
 size: "Medium"
-trait_01: "animal"
+trait_01: [[animal]]
 modifier: 7
 perception:
   - name: "Perception"
     desc: "+7; Low-Light Vision, Scent (Imprecise) 30 Feet"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Acrobatics: +7, Athletics: +4, Stealth: +7"
@@ -63,6 +65,12 @@ attacks:
   - name: "[[Bestiary Ability Glossary/Sneak Attack|Sneak Attack]]"
     desc: "  A giant fox deals 1d4 extra precision damage to [[Conditions/Off-Guard|Off-Guard]] creatures."
  
+```
+
+```encounter-table
+name: Loyal Giant Fox
+creatures:
+  - 1: Loyal Giant Fox
 ```
 
 

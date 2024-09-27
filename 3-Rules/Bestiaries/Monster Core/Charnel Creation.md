@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.pathfinder-monster-core.Actor.GUjtk2h6Yj0NKifF"
 tags:
   - pf2e/creature/type/construct
   - pf2e/creature/type/mindless
+  - pf2eMonster
   - pf2e/creature/level/8
   - remaster
 statblock: inline
@@ -23,11 +24,11 @@ token: [[modules/pf2e-tokens-bestiaries/portraits/constructed/golem/flesh-golem.
 source: "Pathfinder Monster Core"
 name: "Charnel Creation"
 level: "Creature 8"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Large"
-trait_01: "construct"
-trait_02: "mindless"
+trait_01: [[construct]]
+trait_02: [[mindless]]
 modifier: 12
 perception:
   - name: "Perception"
@@ -57,7 +58,7 @@ abilities_mid:
     desc: "  A severely damaged charnel creation has a chance of going berserk. If it has 40 or fewer HP at the start of its turn, the creation must succeed at a DC 5 Flat check or go berserk. A berserk creation wildly attacks the nearest living creature, or the nearest object if no creatures are nearby. A creation loses its immunity to mental effects while berserk."
 
   - name: "Electric Healing"
-    desc: "  Any time a charnel creation would be affected by an effect with the electricity trait, it loses any [[Conditions/Slowed 1|Slowed]] condition it has and gains HP equal to half the damage the spell would have dealt. If the creation starts its turn in an area that deals electricity damage, it gains 2d4 HP."
+    desc: "  Any time a charnel creation would be affected by an effect with the electricity trait, it loses any [[Conditions/Slowed|Slowed]] condition it has and gains HP equal to half the damage the spell would have dealt. If the creation starts its turn in an area that deals electricity damage, it gains 2d4 HP."
 
   - name: "Electric Reflexes"
     desc: "`pf2:r`  **Trigger** The creation would be affected by an effect with the electricity trait and a creature is in its reach\n* * *\n\n**Effect** The creation lashes out and tries to grab a nearby creature. The creation attempts an Athletics check to [[Actions/Grapple|Grapple]] a creature within reach. The creature also takes 3d6 electricity damage on a success, or 6d6 electricity damage on a critical success."
@@ -71,6 +72,12 @@ attacks:
   - name: "Berserk Slam"
     desc: "`pf2:1`  **Requirements** The charnel creation is berserk\n* * *\n\n**Effect** The charnel creation Strikes with its fist at a –1 circumstance penalty. If it hits, it deals 1d6 extra damage and knocks the target [[Conditions/Prone|Prone]]."
  
+```
+
+```encounter-table
+name: Charnel Creation
+creatures:
+  - 1: Charnel Creation
 ```
 
 

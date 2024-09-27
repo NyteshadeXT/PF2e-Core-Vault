@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/human
   - pf2e/creature/type/humanoid
   - pf2e/creature/type/lawful
+  - pf2eMonster
   - pf2e/creature/level/6
 statblock: inline
 name: "Executioner"
@@ -25,9 +26,9 @@ level: "Creature 6"
 
 alignment: ""
 size: "Medium"
-trait_01: "human"
-trait_02: "humanoid"
-trait_03: "lawful"
+trait_01: [[human]]
+trait_02: [[humanoid]]
+trait_03: [[lawful]]
 modifier: 12
 perception:
   - name: "Perception"
@@ -61,14 +62,20 @@ attacks:
     desc: "`pf2:1` Greataxe +16 (magical, sweep)\n__Damage__  1d12 + 9 slashing"
 
   - name: "Behead"
-    desc: "`pf2:3`  **Requirements** The executioner is adjacent to a dying creature or a creature specifically prepared for a killing blow\n**Effect** The executioner Strikes the creature with their greataxe. On a hit, in addition to taking damage, the target must attempt a DC 24 Fortitude check save or be reduced to 0 HP and become [[Conditions/Dying 1|Dying 1]]. If the creature was already dying (including if it was reduced to 0 HP by the Strike's damage), the creature's dying value increases by 1, in addition to any increase from the Strike. On a critical failure, the creature dies instantly.\nIf the executioner's Strike was a critical hit, the target uses the outcome for one degree of success worse than the result of their saving throw."
+    desc: "`pf2:3`  **Requirements** The executioner is adjacent to a dying creature or a creature specifically prepared for a killing blow\n* * *\n\n**Effect** The executioner Strikes the creature with their greataxe. On a hit, in addition to taking damage, the target must attempt a DC 24 Fortitude check save or be reduced to 0 HP and become [[Conditions/Dying|Dying 1]]. If the creature was already dying (including if it was reduced to 0 HP by the Strike's damage), the creature's dying value increases by 1, in addition to any increase from the Strike. On a critical failure, the creature dies instantly.\n\nIf the executioner's Strike was a critical hit, the target uses the outcome for one degree of success worse than the result of their saving throw."
 
   - name: "Intimidating Strike"
-    desc: "`pf2:2` (emotion,fear,fighter,mental) The executioner makes a melee Strike. If it hits and deals damage, the target is [[Conditions/Frightened 1|Frightened 1]], or [[Conditions/Frightened 1|Frightened 2]] on a critical hit."
+    desc: "`pf2:2` (emotion,fear,fighter,mental) The executioner makes a melee Strike. If it hits and deals damage, the target is [[Conditions/Frightened|Frightened 1]], or [[Conditions/Frightened|Frightened 2]] on a critical hit."
 
   - name: "Mark for Death"
-    desc: "`pf2:1` (concentrate) The executioner marks a single creature they can see for death. The first time each round the executioner Strikes that creature, the Strike deals 1d12 additional precision damage.\nThe creature remains marked for death until the executioner is knocked out, marks a different creature for death, or the encounter ends."
+    desc: "`pf2:1` (concentrate) The executioner marks a single creature they can see for death. The first time each round the executioner Strikes that creature, the Strike deals 1d12 additional precision damage.\n\nThe creature remains marked for death until the executioner is knocked out, marks a different creature for death, or the encounter ends."
  
+```
+
+```encounter-table
+name: Executioner
+creatures:
+  - 1: Executioner
 ```
 
 

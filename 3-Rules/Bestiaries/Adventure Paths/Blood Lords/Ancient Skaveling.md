@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/undead
   - pf2e/creature/type/unholy
+  - pf2eMonster
   - pf2e/creature/level/15
 statblock: inline
 name: "Ancient Skaveling"
@@ -23,13 +24,13 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #184: The Ghouls Hunger"
 name: "Ancient Skaveling"
 level: "Creature 15"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Large"
-trait_01: "chaotic"
-trait_02: "evil"
-trait_03: "undead"
-trait_04: "unholy"
+trait_01: [[chaotic]]
+trait_02: [[evil]]
+trait_03: [[undead]]
+trait_04: [[unholy]]
 modifier: 29
 perception:
   - name: "Perception"
@@ -68,14 +69,20 @@ attacks:
     desc: "`pf2:1` Wing +29 (agile)\n__Damage__  3d8 + 16 bludgeoning plus paralysis"
 
   - name: "Bone-Shattering Screech"
-    desc: "`pf2:2` (auditory,emotion,fear,mental,occult,sonic) The skaveling unleashes a devastating screech that not only chills the bones but shatters them. The screech can be heard throughout the region and alerts all creatures in the Hanging Castle. Creatures in a 20-foot emanation take 12d6 sonic damage must also attempt a DC 36 Will check save.\nThe skaveling can't use Bone-Shattering Screech again for 1d4 rounds.\n**Critical Success** The creature is unaffected and is temporarily immune to Bone-Shattering Screech for 24 hours.\n**Success** The creature takes half damage and is [[Conditions/Frightened 1|Frightened 1]].\n**Failure** The creature takes full damage and is [[Conditions/Frightened 1|Frightened 2]].\n**Critical Failure** The creature takes double damage and is [[Conditions/Frightened 1|Frightened 3]] and is [[Conditions/Stunned 1|Stunned 3]]."
+    desc: "`pf2:2` (auditory,emotion,fear,mental,occult,sonic) The skaveling unleashes a devastating screech that not only chills the bones but shatters them. The screech can be heard throughout the region and alerts all creatures in the Hanging Castle. Creatures in a @Template[emanation|distance:20] take 12d6 sonic damage must also attempt a DC 36 Will check save.\n\nThe skaveling can't use Bone-Shattering Screech again for 1d4 rounds.\n* * *\n\n**Critical Success** The creature is unaffected and is temporarily immune to Bone-Shattering Screech for 24 hours.\n\n**Success** The creature takes half damage and is [[Conditions/Frightened|Frightened 1]].\n\n**Failure** The creature takes full damage and is [[Conditions/Frightened|Frightened 2]].\n\n**Critical Failure** The creature takes double damage and is [[Conditions/Frightened|Frightened 3]] and is [[Conditions/Stunned|Stunned 3]]."
 
   - name: "Ghoul Fever"
-    desc: " (disease) **Saving Throw** DC 36 Fortitude check\n**Stage 1** carrier with no ill effect (1 day)\n**Stage 2** 2d6 void damage and regains half as many Hit Points from all healing (1 day)\n**Stage 3** as stage 2 (1 day)\n**Stage 4** 2d6 void damage and gains no benefit from healing (1 day)\n**Stage 5** as stage 4 (1 day)\n**Stage 6** dead, and rises as a ghoul the next midnight"
+    desc: " (disease) **Saving Throw** DC 36 Fortitude check\n\n**Stage 1** carrier with no ill effect (1 day)\n\n**Stage 2** 2d6 void damage and regains half as many Hit Points from all healing (1 day)\n\n**Stage 3** as stage 2 (1 day)\n\n**Stage 4** 2d6 void damage and gains no benefit from healing (1 day)\n\n**Stage 5** as stage 4 (1 day)\n\n**Stage 6** dead, and rises as a ghoul the next midnight"
 
   - name: "Paralysis"
-    desc: " (incapacitation,occult) Any creature hit by the skaveling's Strikes must attempt a DC 36 Fortitude check save.\n**Critical Success** The creature is unaffected.\n**Success** The creature is [[Conditions/Slowed 1|Slowed 1]].\n**Failure** The creature is [[Conditions/Paralyzed|Paralyzed]]. It can attempt a new save at the end of each of its turns, and the DC cumulatively decreases by 1 on each save."
+    desc: " (incapacitation,occult) Any creature hit by the skaveling's Strikes must attempt a DC 36 Fortitude check save.\n* * *\n\n**Critical Success** The creature is unaffected.\n\n**Success** The creature is [[Conditions/Slowed|Slowed 1]].\n\n**Failure** The creature is [[Conditions/Paralyzed|Paralyzed]]. It can attempt a new save at the end of each of its turns, and the DC cumulatively decreases by 1 on each save."
  
+```
+
+```encounter-table
+name: Ancient Skaveling
+creatures:
+  - 1: Ancient Skaveling
 ```
 
 

@@ -4,8 +4,9 @@ title: "Copper Pieces"
 cssclasses: pf2e,pf2e-action
 tags:
   - trait/common
+  - remaster
 aliases: "Compendium.pf2e.equipment-srd.Item.lzJ8AVhRcbFul5fh"
-license: OGL
+license: ORC
 ---
 # Copper Pieces
 
@@ -18,5 +19,5 @@ license: OGL
 
 
 
-*Source: Pathfinder Core Rulebook*
-*OGL*
+*Source: Pathfinder Player Core*
+*ORC*

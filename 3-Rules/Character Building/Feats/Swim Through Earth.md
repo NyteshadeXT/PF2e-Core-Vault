@@ -15,14 +15,14 @@ license: OGL
 ---
 # Swim Through Earth `pf2:2`
 ## Feat 8
-### [[Earth]][[impulse]][[kineticist]][[primal]]
+### [[earth]][[impulse]][[kineticist]][[primal]]
 
 **Category** class; 
 
 
 
 
-The earth parts before you, letting you swim through it. You gain a burrow Speed equal to your land Speed and can immediately Burrow once. You don't gain the ability to breathe while in the earth, so you must hold your breath. The impulse ends at the end of your next turn, but you can Sustain it up to 1 minute. If you're inside the earth when the impulse ends, you immediately return to the surface directly above you, fall [[Conditions/Prone|Prone]] when you reach the surface, and are [[Conditions/Slowed 1|Slowed 1]] until the end of your next turn.
+The earth parts before you, letting you swim through it. You gain a burrow Speed equal to your land Speed and can immediately Burrow once. You don't gain the ability to breathe while in the earth, so you must hold your breath. The impulse ends at the end of your next turn, but you can Sustain it up to 1 minute. If you're inside the earth when the impulse ends, you immediately return to the surface directly above you, fall [[Conditions/Prone|Prone]] when you reach the surface, and are [[Conditions/Slowed|Slowed 1]] until the end of your next turn.
 
 * * *
 

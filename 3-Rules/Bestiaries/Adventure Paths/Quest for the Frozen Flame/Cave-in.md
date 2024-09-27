@@ -4,6 +4,7 @@ obsidianUIMode: preview
 noteType: pf2eHazard
 tags:
   - environmental
+  - pf2eHazard
 
 source: Pathfinder #176: Lost Mammoth Valley
 aliases: "Compendium.pf2e.quest-for-the-frozen-flame-bestiary.Actor.Cdr1PAtVs3LKYsMQ" 
@@ -21,13 +22,13 @@ name: "Cave-in"
 level: "Hazard 4"
 
 
-trait_01: "environmental"
+trait_01: [[environmental]]
 modifier: 12
 sourcebook: "_Pathfinder #176: Lost Mammoth Valley_"
 ac: 21
 armorclass:
   - name: AC
-    desc: "21; __Fort__ +14, __Ref__ +14, __Will__ +0"
+    desc: "21; __Fort__ +14, __Ref__ +14, "
 hp: 46
 health:
   - name: ""
@@ -49,9 +50,15 @@ attacks:
   - name: ""
 
   - name: "Collapse"
-    desc: "`pf2:r` **Trigger** A creature moves into the unstable tunnel\n**Effect** The tunnel collapses in a cave-in that deals 4d8 + 10 bludgeoning damage to the triggering creature and all creatures in area **A2** (DC 21 Reflex check). On a failed save, the triggering creature is [[Conditions/Immobilized|Immobilized]] (Escape DC 21). This collapse fully blocks the tunnel (area **A2**), making it impassable."
+    desc: "`pf2:r` **Trigger** A creature moves into the unstable tunnel\n* * *\n\n**Effect** The tunnel collapses in a cave-in that deals 4d8+10 bludgeoning damage to the triggering creature and all creatures in area **A2** (DC 21 Reflex check). On a failed save, the triggering creature is [[Conditions/Immobilized|Immobilized]] (Escape DC 21). This collapse fully blocks the tunnel (area **A2**), making it impassable."
 
 
 
+```
+
+```encounter-table
+name: Cave-in
+creatures:
+  - 1: Cave-in
 ```
 

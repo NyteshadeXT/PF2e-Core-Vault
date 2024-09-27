@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/dwarf
   - pf2e/creature/type/humanoid
   - pf2e/creature/type/lawful
+  - pf2eMonster
   - pf2e/creature/level/8
 statblock: inline
 name: "Kelda Halrig"
@@ -22,12 +23,12 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #148: Fires of the Haunted City"
 name: "Kelda Halrig"
 level: "Creature 8"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Medium"
-trait_01: "dwarf"
-trait_02: "humanoid"
-trait_03: "lawful"
+trait_01: [[dwarf]]
+trait_02: [[humanoid]]
+trait_03: [[lawful]]
 modifier: 22
 perception:
   - name: "Perception"
@@ -35,7 +36,7 @@ perception:
 languages: "Common, Dwarven, Sakvroth"
 skills:
   - name: "Skills"
-    desc: "Athletics: +22, Crafting: +27 (+29 Blacksmithing), Diplomacy: +23, Kovlar Lore: +25, Society: +21"
+    desc: "Athletics: +22, Crafting: +27, Diplomacy: +23, Society: +21, Kovlar Lore: +25"
 abilityMods: [4, 2, 3, 5, 4, 3]
 speed: 20 feet
 sourcebook: "_Pathfinder #148: Fires of the Haunted City_"
@@ -66,6 +67,12 @@ attacks:
   - name: "Master Smith"
     desc: "  As the most skillful blacksmith in Kovlar, Kelda's abilities far surpass those of typical smiths. She can Craft items as if she were 16th level. Additionally, she knows how to make a vast catalog of items, including numerous uncommon formulas and several rare formulas. The exact formulas she knows can be tailored to fit the needs of each particular group of PCs, but most are for weapons, armor, and other items that could reasonably be made in a forge."
  
+```
+
+```encounter-table
+name: Kelda Halrig
+creatures:
+  - 1: Kelda Halrig
 ```
 
 

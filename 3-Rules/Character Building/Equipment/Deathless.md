@@ -11,7 +11,7 @@ license: OGL
 ---
 # Deathless
 ## Item 7
-### [uncommon](uncommon "Uncommon Rarity Trait")[[healing]][[magical]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[healing]][[3-Rules/Rule References/Magical]]
 
 
 **Price** 330 gp; 
@@ -26,7 +26,7 @@ These symbols fortify your body's grasp on your soul, keeping it tethered when d
 
 **Frequency** once per day
 
-**Trigger** You gain the [[Conditions/Doomed 1|Doomed]] or [[Conditions/Wounded 1|Wounded]] condition
+**Trigger** You gain the [[Conditions/Doomed|Doomed]] or [[Conditions/Wounded|Wounded]] condition
 
 * * *
 

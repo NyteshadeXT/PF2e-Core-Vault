@@ -6,6 +6,7 @@ cssClasses: pf2e
 aliases: "Compendium.pf2e.pfs-season-2-bestiary.Actor.8FBm4IjFYlolzDXu" 
 tags:
   - pf2e/creature/type/animal
+  - pf2eMonster
   - pf2e/creature/level/3
 statblock: inline
 name: "Lion (PFS 2-13)"
@@ -23,11 +24,12 @@ level: "Creature 3"
 
 alignment: ""
 size: "Large"
-trait_01: "animal"
+trait_01: [[animal]]
 modifier: 9
 perception:
   - name: "Perception"
     desc: "+9; Low-Light Vision, Scent (Imprecise) 30 Feet"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Acrobatics: +8, Athletics: +11, Stealth: +10"
@@ -69,6 +71,12 @@ attacks:
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
     desc: "`pf2:1`  "
  
+```
+
+```encounter-table
+name: Lion (PFS 2-13)
+creatures:
+  - 1: Lion (PFS 2-13)
 ```
 
 

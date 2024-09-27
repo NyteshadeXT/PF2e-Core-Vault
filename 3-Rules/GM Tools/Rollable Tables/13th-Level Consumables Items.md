@@ -12,11 +12,11 @@ Table of 13th-Level Consumables Items
 
 | 1d42 | result |
 |------|--------|
-| 1-6 | Explosive Ammunition (Greater) |
-| 7-12 | Spellstrike Ammunition (Type VI) |
-| 13-18 | Elixir of Life (Greater) |
-| 19-24 | Deathcap Powder |
-| 25-30 | Purple Worm Venom |
-| 31-33 | Panacea |
-| 34-39 | Scroll of 7th-level Spell |
-| 40-42 | Mending Lattice |
+| 1-6 | [[Equipment/Explosive Ammunition (Greater)\|Explosive Ammunition (Greater)]] |
+| 7-12 | [[Equipment/Spellstrike Ammunition (Type VI)\|Spellstrike Ammunition (Type VI)]] |
+| 13-18 | [[Equipment/Elixir of Life (Greater)\|Elixir of Life (Greater)]] |
+| 19-24 | [[Equipment/Deathcap Powder\|Deathcap Powder]] |
+| 25-30 | [[Equipment/Cave Worm Venom\|Purple Worm Venom]] |
+| 31-33 | [[Equipment/Panacea\|Panacea]] |
+| 34-39 | [[Equipment/Scroll of 7th-rank Spell\|Scroll of 7th-level Spell]] |
+| 40-42 | [[Equipment/Mending Lattice\|Mending Lattice]] |

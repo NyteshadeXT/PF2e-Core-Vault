@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/human
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/4
 statblock: inline
 name: "Kelorbeyan Guard"
@@ -22,12 +23,12 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder One-Shot #4: Mark of the Mantis"
 name: "Kelorbeyan Guard"
 level: "Creature 4"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Medium"
-trait_01: "evil"
-trait_02: "human"
-trait_03: "humanoid"
+trait_01: [[evil]]
+trait_02: [[human]]
+trait_03: [[humanoid]]
 modifier: 12
 perception:
   - name: "Perception"
@@ -70,11 +71,17 @@ attacks:
     desc: "`pf2:1` Composite Shortbow +13 (deadly d10, range increment 60 feet, reload 0)\n__Damage__  1d6 + 6 piercing"
 
   - name: "Combat Grab"
-    desc: "`pf2:1`  **Requirements** The Kelorbeyan guard has one hand free, and their target is in reach of that hand\n**Effect** The guard makes a melee Strike while keeping one hand free. If the Strike hits, they grab the target using their free hand. The creature remains [[Conditions/Grabbed|Grabbed]] until the end of the guard's next turn or until it [[Actions/Escape|Escapes]], whichever comes first."
+    desc: "`pf2:1`  **Requirements** The Kelorbeyan guard has one hand free, and their target is in reach of that hand\n* * *\n\n**Effect** The guard makes a melee Strike while keeping one hand free. If the Strike hits, they grab the target using their free hand. The creature remains [[Conditions/Grabbed|Grabbed]] until the end of the guard's next turn or until it [[Actions/Escape|Escapes]], whichever comes first."
 
   - name: "Knockdown"
     desc: "`pf2:2`  The Kelorbeyan guard makes an attack to knock a foe off-balance, then follows up immediately with a sweep to topple them. The guard makes a melee Strike. If it hits and deals damage, they attempt an Athletics check to [[Actions/Trip|Trip]] the creature they hit. Both attacks count toward their multiple attack penalty, but the penalty doesn't increase until after they've made both."
  
+```
+
+```encounter-table
+name: Kelorbeyan Guard
+creatures:
+  - 1: Kelorbeyan Guard
 ```
 
 

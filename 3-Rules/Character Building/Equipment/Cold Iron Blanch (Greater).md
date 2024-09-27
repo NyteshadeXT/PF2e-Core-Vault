@@ -13,7 +13,7 @@ license: OGL
 ---
 # Cold Iron Blanch (Greater)
 ## Item 16
-### [uncommon](uncommon "Uncommon Rarity Trait")[[alchemical]][[consumable]][[precious]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[alchemical]][[consumable]][[precious]]
 
 **Category** potion; 
 **Price** 1700 gp; 

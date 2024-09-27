@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/good
   - pf2e/creature/type/humanoid
   - pf2e/creature/type/ratfolk
+  - pf2eMonster
   - pf2e/creature/level/1
 statblock: inline
 name: "Determined Rhenei (1-2)"
@@ -22,12 +23,12 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Society Quest #14: The Swordlord&#x27;s Challenge"
 name: "Determined Rhenei (1-2)"
 level: "Creature 1"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Small"
-trait_01: "good"
-trait_02: "humanoid"
-trait_03: "ratfolk"
+trait_01: [[good]]
+trait_02: [[humanoid]]
+trait_03: [[ratfolk]]
 modifier: 5
 perception:
   - name: "Perception"
@@ -35,7 +36,7 @@ perception:
 languages: "Common, Ysoki"
 skills:
   - name: "Skills"
-    desc: "Arcana: +4, Athletics: +6, Dueling Lore: +5, Intimidation: +7"
+    desc: "Arcana: +4, Athletics: +6, Intimidation: +7, Dueling Lore: +5"
 abilityMods: [0, 2, 1, 0, 2, 3]
 speed: 25 feet
 sourcebook: "_Pathfinder Society Quest #14: The Swordlord&#x27;s Challenge_"
@@ -69,6 +70,12 @@ attacks:
   - name: "[[Actor.K9ClMcqPZ4BdZ7iU.Item.1EsMXmB9tTK4sElQ|Aldori Parry]]"
     desc: "`pf2:1`  Rhenei gains a +2 circumstance bonus to AC until the start of their next turn."
  
+```
+
+```encounter-table
+name: Determined Rhenei (1-2)
+creatures:
+  - 1: Determined Rhenei (1-2)
 ```
 
 

@@ -11,7 +11,7 @@ license: OGL
 ---
 # Bloodline: Genie
 ## Feat 1
-### [[sorcerer]]
+### [[3-Rules/trait_reference/sorcerer]]
 
 **Category** classfeature; 
 
@@ -36,7 +36,7 @@ Through lineage, magic, or wishes made real, the blood of a noble genie flows th
 
 At 1st level, choose the type of genie that influenced your bloodline: janni, djinni, efreeti, marid, or shaitan. You can't change your genie type later. This determines what granted spells you receive at 2nd, 5th, and 8th level.
 
-*   **Janni** 2nd: [[Spells/Create Food|Create Food]]; 5th: [[Spells/Banishment|Banishment]]; 8th: [[Spells/Scintillating Pattern|Scintillating Pattern]]
+*   **Janni** 2nd: [[Spells/Create Food|Create Food]]; 5th: [[Spells/Banishment|Banishment]]; 8th: [[Spells/Confusing Colors|Confusing Colors]]
 *   **Jaathoom** 2nd: [[Spells/Invisibility|Invisibility]]; 5th: [[Spells/Illusory Scene|Illusory Scene]]; 8th: [[Spells/Punishing Winds|Punishing Winds]]
 *   **Ifrit** 2nd: [[Spells/Enlarge|Enlarge]]; 5th: [[Spells/Elemental Form|Elemental Form]] (fire only); 8th: [[Spells/Quandary|Quandary]]
 *   **Faydhaan** 2nd: [[Spells/Water Walk|Water Walk]]; 5th: [[Spells/Control Water|Control Water]]; 8th: [[Spells/Desiccate|Desiccate]]

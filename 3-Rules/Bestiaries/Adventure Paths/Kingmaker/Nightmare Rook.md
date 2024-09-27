@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/beast
   - pf2e/creature/type/chaotic
   - pf2e/creature/type/evil
+  - pf2eMonster
   - pf2e/creature/level/20
 statblock: inline
 name: "Nightmare Rook"
@@ -22,12 +23,12 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Kingmaker"
 name: "Nightmare Rook"
 level: "Creature 20"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "grg"
-trait_01: "beast"
-trait_02: "chaotic"
-trait_03: "evil"
+trait_01: [[beast]]
+trait_02: [[chaotic]]
+trait_03: [[evil]]
 modifier: 38
 perception:
   - name: "Perception"
@@ -57,10 +58,10 @@ abilities_mid:
     desc: "`pf2:r`  DC 42 Reflex check"
 
   - name: "[[Bestiary Ability Glossary/Frightful Presence|Frightful Presence]]"
-    desc: " (aura,emotion,fear,mental) 60 feet. DC 39 Will check\n"
+    desc: " (aura,emotion,fear,mental) 60 feet. DC 39 Will check\n\n* * *\n"
 
   - name: "Wing Rebuff"
-    desc: "`pf2:r`  **Trigger** A creature moves from beyond the reach of the roc's wing to within the reach of the roc's wing.\n**Effect** The roc makes a wing Strike against the triggering creature. If the roc Pushes the creature, it disrupts the triggering move action."
+    desc: "`pf2:r`  **Trigger** A creature moves from beyond the reach of the roc's wing to within the reach of the roc's wing.\n* * *\n\n**Effect** The roc makes a wing Strike against the triggering creature. If the roc Pushes the creature, it disrupts the triggering move action."
 
 attacks:
   - name: ""
@@ -86,6 +87,12 @@ attacks:
   - name: "Snatch"
     desc: "  A roc can Fly at half Speed while it has a creature [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]] in either or both of its talons, carrying that creature along with it."
  
+```
+
+```encounter-table
+name: Nightmare Rook
+creatures:
+  - 1: Nightmare Rook
 ```
 
 

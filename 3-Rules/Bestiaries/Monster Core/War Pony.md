@@ -6,6 +6,7 @@ cssClasses: pf2e
 aliases: "Compendium.pf2e.pathfinder-monster-core.Actor.BMpBXSq8T20WdUDl" 
 tags:
   - pf2e/creature/type/animal
+  - pf2eMonster
   - pf2e/creature/level/1
   - remaster
 statblock: inline
@@ -25,7 +26,7 @@ level: "Creature 1"
 
 alignment: ""
 size: "Medium"
-trait_01: "animal"
+trait_01: [[animal]]
 modifier: 5
 perception:
   - name: "Perception"
@@ -63,6 +64,12 @@ attacks:
   - name: "Gallop"
     desc: "`pf2:2`  The war pony Strides twice. It has a +10-foot circumstance bonus to its Speed during these Strides."
  
+```
+
+```encounter-table
+name: War Pony
+creatures:
+  - 1: War Pony
 ```
 
 

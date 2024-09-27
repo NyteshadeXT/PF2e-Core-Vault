@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.outlaws-of-alkenstar-bestiary.Actor.5GgDdZKPHB0uJYEu"
 tags:
   - pf2e/creature/type/construct
   - pf2e/creature/type/mindless
+  - pf2eMonster
   - pf2e/creature/level/9
 statblock: inline
 name: "Broken Centurion"
@@ -24,15 +25,16 @@ level: "Creature 9"
 
 alignment: ""
 size: "Medium"
-trait_01: "construct"
-trait_02: "mindless"
+trait_01: [[construct]]
+trait_02: [[mindless]]
 modifier: 18
 perception:
   - name: "Perception"
     desc: "+18; Darkvision"
+languages: ""
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +23, Athletics: +23"
+    desc: "Acrobatics: +21, Athletics: +21"
 abilityMods: [6, 6, 5, -5, 2, -5]
 speed: 40 feet
 sourcebook: "_Pathfinder #180: The Smoking Gun_"
@@ -66,20 +68,26 @@ attacks:
     desc: "`pf2:1` Cannon +23 (concussive, fatal d8, range increment 60 feet)\n__Damage__  3d6 + 4 piercing"
 
   - name: "Hurl Blade"
-    desc: "`pf2:2`  The spiral centurion hurls one of its blades with an angled spin to ensure a swooping flight path. The blade deals 6d6 slashing damage to each creature in a 40-foot line (DC 30 Reflex check save).\nAt the start of the spiral centurion's next turn, the blade swoops around and returns along the same flight path, again dealing 6d6 slashing damage (DC 30 Reflex check save) to each creature along the same line."
+    desc: "`pf2:2`  The spiral centurion hurls one of its blades with an angled spin to ensure a swooping flight path. The blade deals 6d6 slashing damage to each creature in a @Template[line|distance:40] (DC 30 Reflex check save).\n\nAt the start of the spiral centurion's next turn, the blade swoops around and returns along the same flight path, again dealing 6d6 slashing damage (DC 30 Reflex check save) to each creature along the same line."
 
   - name: "Reload Guns"
     desc: "`pf2:1`  The spiral centurion loads ammo into its many guns."
 
   - name: "[[Bestiary Ability Glossary/Trample|Trample]]"
-    desc: "`pf2:3`  Medium or smaller, blade, DC 30 Reflex check\n"
+    desc: "`pf2:3`  Medium or smaller, blade, DC 30 Reflex check\n\n* * *\n"
 
   - name: "Whirling Death"
     desc: "`pf2:3`  The spiral centurion spins furiously in place, its blades extended to slice through nearby creatures. It makes up to five melee blade Strikes. No single creature can be targeted by more than one blade Strike during one use of this ability. These attacks count toward the spiral centurion's multiple attack penalty, but the multiple attack penalty doesn't increase until after all the attacks are made."
 
   - name: "Whirling Fire"
-    desc: "`pf2:3`  **Requirements** The spiral centurion has used Reload Guns three times since the last time it used Whirling Fire\n**Effect** The spiral centurion spins furiously in place, firing its guns wildly and dealing 8d6 piercing damage to creatures in a 60-foot radius (DC 28 Reflex check). Creatures further than 30 feet away gain a +4 circumstance bonus on their save against this attack."
+    desc: "`pf2:3`  **Requirements** The spiral centurion has used Reload Guns three times since the last time it used Whirling Fire\n* * *\n\n**Effect** The spiral centurion spins furiously in place, firing its guns wildly and dealing 8d6 piercing damage to creatures in a 60-foot radius (DC 28 Reflex check). Creatures further than 30 feet away gain a +4 circumstance bonus on their save against this attack."
  
+```
+
+```encounter-table
+name: Broken Centurion
+creatures:
+  - 1: Broken Centurion
 ```
 
 

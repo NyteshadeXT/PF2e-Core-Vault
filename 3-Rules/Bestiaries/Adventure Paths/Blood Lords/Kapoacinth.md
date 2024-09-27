@@ -10,6 +10,7 @@ tags:
   - pf2e/creature/type/chaotic
   - pf2e/creature/type/earth
   - pf2e/creature/type/evil
+  - pf2eMonster
   - pf2e/creature/level/4
 statblock: inline
 name: "Kapoacinth"
@@ -27,11 +28,11 @@ level: "Creature 4"
 
 alignment: ""
 size: "Medium"
-trait_01: "aquatic"
-trait_02: "beast"
-trait_03: "chaotic"
-trait_04: "earth"
-trait_05: "evil"
+trait_01: [[aquatic]]
+trait_02: [[beast]]
+trait_03: [[chaotic]]
+trait_04: [[earth]]
+trait_05: [[evil]]
 modifier: 10
 perception:
   - name: "Perception"
@@ -61,7 +62,7 @@ abilities_mid:
     desc: "`pf2:r`  "
 
   - name: "Wing Buffet"
-    desc: "`pf2:r`  **Trigger** An adjacent creature attacks the kapoacinth while the kapoacinth is Swimming\n**Effect** The kapoacinth pushes the triggering creature 5 feet away from them, and the kapoacinth moves 10 feet in the opposite direction. If the triggering creature can no longer attack the kapoacinth from its new location, the attack misses."
+    desc: "`pf2:r`  **Trigger** An adjacent creature attacks the kapoacinth while the kapoacinth is Swimming\n* * *\n\n**Effect** The kapoacinth pushes the triggering creature 5 feet away from them, and the kapoacinth moves 10 feet in the opposite direction. If the triggering creature can no longer attack the kapoacinth from its new location, the attack misses."
 
 attacks:
   - name: ""
@@ -75,6 +76,12 @@ attacks:
   - name: "Coral Reef"
     desc: "`pf2:1` (concentrate) Until the next time they act, the kapoacinth appears to be a lump of coral. They have an automatic result of 31 on Deception checks and DCs to pass as coral."
  
+```
+
+```encounter-table
+name: Kapoacinth
+creatures:
+  - 1: Kapoacinth
 ```
 
 

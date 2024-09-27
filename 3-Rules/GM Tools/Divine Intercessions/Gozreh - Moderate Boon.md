@@ -17,7 +17,7 @@ license: OGL
 
 
 
-**Moderate Boon** You gain the touch of the sea. You can breathe underwater and gain a [[Actions/Swim|Swim]] Speed equal to your land Speed.
+You gain the touch of the sea. You can breathe underwater and gain a swim Speed equal to your land Speed.
 
 *Source: Pathfinder Lost Omens: Gods & Magic*
 *OGL*

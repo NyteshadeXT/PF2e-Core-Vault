@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/fiend
   - pf2e/creature/type/unholy
+  - pf2eMonster
   - pf2e/creature/level/10
 statblock: inline
 name: "Deimostride (9-10)"
@@ -23,13 +24,13 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Society Scenario #4-11: Prisoners of the Electric Castle"
 name: "Deimostride (9-10)"
 level: "Creature 10"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Large"
-trait_01: "beast"
-trait_02: "evil"
-trait_03: "fiend"
-trait_04: "unholy"
+trait_01: [[beast]]
+trait_02: [[evil]]
+trait_03: [[fiend]]
+trait_04: [[unholy]]
 modifier: 20
 perception:
   - name: "Perception"
@@ -56,7 +57,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Smoke"
-    desc: " (aura) 20 feet. Deimostride continually exhales black smoke that creates [[Conditions/Concealed|Concealment]] in an aura around him. Deimostride and his riders can see through this smoke. A creature that begins its turn in the area becomes [[Conditions/Sickened 1|Sickened 2]] (DC 23 Fortitude check negates) and is then temporarily immune sickness from the smoke for 1 minute. Deimostride, his rider, any creature currently holding its breath (or that does not need to breathe), and any creature immune to poison are immune to the aura's sickened effect but not the concealment."
+    desc: " (aura) 20 feet. Deimostride continually exhales black smoke that creates [[Conditions/Concealed|Concealment]] in an aura around him. Deimostride and his riders can see through this smoke. A creature that begins its turn in the area becomes [[Conditions/Sickened|Sickened 2]] (DC 23 Fortitude check negates) and is then temporarily immune sickness from the smoke for 1 minute. Deimostride, his rider, any creature currently holding its breath (or that does not need to breathe), and any creature immune to poison are immune to the aura's sickened effect but not the concealment."
 
 attacks:
   - name: ""
@@ -71,11 +72,17 @@ attacks:
     desc: "DC 26, attack +18; __7th __  _[[Spells/Ethereal Jaunt|Ethereal Jaunt (Self and Rider Only)]]_, _[[Spells/Interplanar Teleport|Plane Shift (Self and Rider Only)]]_"
 
   - name: "Flaming Gallop"
-    desc: "`pf2:2` (fire) Deimostride Strides or Flies up to triple its Speed. Its hooves burst with intense flame, dealing 6d6 - 2 fire damage (DC 28 Reflex check save) once to each creature other than his rider that he moves adjacent to during its gallop."
+    desc: "`pf2:2` (fire) Deimostride Strides or Flies up to triple its Speed. Its hooves burst with intense flame, dealing 6d6-2 fire damage (DC 28 Reflex check save) once to each creature other than his rider that he moves adjacent to during its gallop."
 
   - name: "[[Bestiary Ability Glossary/Trample|Trample]]"
-    desc: "`pf2:3`  Large or smaller, hoof, DC 28 Reflex check\n"
+    desc: "`pf2:3`  Large or smaller, hoof, DC 28 Reflex check\n\n* * *\n"
  
+```
+
+```encounter-table
+name: Deimostride (9-10)
+creatures:
+  - 1: Deimostride (9-10)
 ```
 
 

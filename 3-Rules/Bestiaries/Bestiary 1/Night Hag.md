@@ -10,6 +10,7 @@ tags:
   - pf2e/creature/type/hag
   - pf2e/creature/type/humanoid
   - pf2e/creature/type/unholy
+  - pf2eMonster
   - pf2e/creature/level/9
 statblock: inline
 name: "Night Hag"
@@ -28,11 +29,11 @@ level: "Creature 9"
 
 alignment: ""
 size: "Medium"
-trait_01: "evil"
-trait_02: "fiend"
-trait_03: "hag"
-trait_04: "humanoid"
-trait_05: "unholy"
+trait_01: [[evil]]
+trait_02: [[fiend]]
+trait_03: [[hag]]
+trait_04: [[humanoid]]
+trait_05: [[unholy]]
 modifier: 18
 perception:
   - name: "Perception"
@@ -58,7 +59,7 @@ abilities_top:
   - name: "Items"
     desc: "[[Equipment/Heartstone|Heartstone]]"
   - name: "[[Bestiary Ability Glossary/Coven|Coven]]"
-    desc: " (mental,occult) A night hag adds [[Spells/Dominate|Dominate]], [[Spells/Nightmare|Nightmare]], [[Spells/Scrying|Scrying]], and [[Spells/Spellwrack|Spellwrack]] to her coven's spells.\n"
+    desc: " (mental,occult) A night hag adds [[Spells/Dominate|Dominate]], [[Spells/Nightmare|Nightmare]], [[Spells/Scrying|Scrying]], and [[Spells/Spellwrack|Spellwrack]] to her coven's spells.\n\n* * *\n"
 
   - name: "Nightmare Rider"
     desc: "  When a night hag rides a [[Bestiary 1/Nightmare|Nightmare]], the nightmare also gains the night hag's status bonus to saves against magic, and both the hag and rider benefit when the night hag uses her _[[Equipment/Heartstone|Heartstone's]]_ [[Spells/Ethereal Jaunt|Ethereal Jaunt]] innate spell."
@@ -75,7 +76,7 @@ attacks:
     desc: "`pf2:1` Claw +20 (agile, magical, unholy)\n__Damage__  2d10 + 8 slashing 1d6 spirit"
 
   - name: "Occult Innate Spells"
-    desc: "DC 28, attack +20; __9th __  _[[Spells/Seize Soul|Bind Soul (At Will) (Heartstone)]]_, _[[Spells/Ethereal Jaunt|Ethereal Jaunt (At Will) (Heartstone)]]_; __8th __  _[[Spells/Dream Council|Dream Council]]_; __5th __  _[[Spells/Nightmare|Nightmare]]_, _[[Spells/Shadow Blast|Shadow Blast (Heartstone) (x2)]]_; __3rd __  _[[Spells/Dream Message|Dream Message (At Will)]]_, _[[Spells/Force Barrage|Magic Missile (At Will)]]_; __2nd __  _[[Spells/Invisibility|Invisibility (At Will)]]_; __1st __  _[[Spells/Enfeeble|Ray of Enfeeblement (At Will)]]_, _[[Spells/Sleep|Sleep (At Will)]]_\n__Cantrips__  __(5th)__ _[[Spells/Detect Magic|Detect Magic (Constant 3rd)]]_\n__Constant__  __(2nd)__ _[[Spells/Detect Alignment|Detect Alignment (All Alignments)]]_"
+    desc: "DC 28, attack +20; __9th __  _[[Spells/Seize Soul|Bind Soul (At Will) (Heartstone)]]_, _[[Spells/Ethereal Jaunt|Ethereal Jaunt (At Will) (Heartstone)]]_; __8th __  _[[Spells/Dream Council|Dream Council]]_; __5th __  _[[Spells/Nightmare|Nightmare]]_, _[[Spells/Shadow Blast|Shadow Blast (Heartstone) (x2)]]_; __3rd __  _[[Spells/Dream Message|Dream Message (At Will)]]_, _[[Spells/Force Barrage|Magic Missile (At Will)]]_; __2nd __  _[[Spells/Invisibility|Invisibility (At Will)]]_; __1st __  _[[Spells/Enfeeble|Ray of Enfeeblement (At Will)]]_, _[[Spells/Sleep|Sleep (At Will)]]_\n__Cantrips__  __(5th)__ _[[Spells/Detect Magic|Detect Magic (3rd)]]_\n__Constant__  __(2nd)__ _[[Spells/Detect Alignment|Detect Alignment (All Alignments)]]_"
 
   - name: "Coven Spells"
     desc: "DC 23, attack +15; __8th __  _[[Spells/Cursed Metamorphosis|Baleful Polymorph]]_; __6th __  _[[Spells/Dominate|Dominate]]_, _[[Spells/Scrying|Scrying]]_, _[[Spells/Spellwrack|Spellwrack]]_; __5th __  _[[Spells/Augury|Augury]]_, _[[Spells/Charm|Charm]]_, _[[Spells/Clairaudience|Clairaudience]]_, _[[Spells/Clairvoyance|Clairvoyance]]_, _[[Spells/Dream Message|Dream Message]]_, _[[Spells/Illusory Disguise|Illusory Disguise]]_, _[[Spells/Illusory Scene|Illusory Scene]]_, _[[Spells/Scouting Eye|Prying Eye]]_, _[[Spells/Talking Corpse|Talking Corpse]]_; __4th __  _[[Spells/Nightmare|Nightmare]]_"
@@ -84,17 +85,23 @@ attacks:
     desc: "_[[Spells/Control Weather|Control Weather]]_"
 
   - name: "Abyssal Plague"
-    desc: " (disease) A creature can't recover from drained until abyssal plague is cured.\n**Saving Throw** DC 28 Fortitude check\n**Stage 1** [[Conditions/Drained 1|Drained 1]] (1 day)\n**Stage 2** [[Conditions/Drained 1|Drained]] increases by 2 (1 day)"
+    desc: " (disease) A creature can't recover from drained until abyssal plague is cured.\n\n**Saving Throw** DC 28 Fortitude check\n\n**Stage 1** [[Conditions/Drained|Drained 1]] (1 day)\n\n**Stage 2** [[Conditions/Drained|Drained]] increases by 2 (1 day)"
 
   - name: "[[Bestiary Ability Glossary/Change Shape|Change Shape]]"
-    desc: "`pf2:1` (concentrate,occult,polymorph) The night hag can take on the appearance of any Medium female humanoid. This doesn't change her Speed or her attack and damage bonuses with her Strikes, but might change the damage type her Strikes deal (typically to bludgeoning).\n"
+    desc: "`pf2:1` (concentrate,occult,polymorph) The night hag can take on the appearance of any Medium female humanoid. This doesn't change her Speed or her attack and damage bonuses with her Strikes, but might change the damage type her Strikes deal (typically to bludgeoning).\n\n* * *\n"
 
   - name: "Dream Haunting"
-    desc: " (mental,occult) If a night hag is ethereal and hovering over a sleeping chaotic or evil creature, she can ride the victim's back until dawn. The creature endures tormenting dreams as the hag casts [[Spells/Nightmare|Nightmare]] on it, and is exposed to abyssal plague. Any drained caused by dream haunting is cumulative.\nOnly an ethereal being can confront the night hag and stop her dream haunting."
+    desc: " (mental,occult) If a night hag is ethereal and hovering over a sleeping chaotic or evil creature, she can ride the victim's back until dawn. The creature endures tormenting dreams as the hag casts [[Spells/Nightmare|Nightmare]] on it, and is exposed to abyssal plague. Any drained caused by dream haunting is cumulative.\n\nOnly an ethereal being can confront the night hag and stop her dream haunting."
 
   - name: "Spell Ambush"
     desc: "  A creature [[Conditions/Off-Guard|Off-Guard]] to the night hag takes a -2 circumstance penalty to checks and DCs to defend against her spells."
  
+```
+
+```encounter-table
+name: Night Hag
+creatures:
+  - 1: Night Hag
 ```
 
 

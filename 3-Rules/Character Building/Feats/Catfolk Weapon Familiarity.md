@@ -6,8 +6,9 @@ tags:
   - trait/catfolk
   - trait/common
   - category/ancestry
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.bEh5qUgX5eFaQwzU"
-license: OGL
+license: ORC
 ---
 # Catfolk Weapon Familiarity
 ## Feat 1
@@ -18,9 +19,9 @@ license: OGL
 
 
 
-You favor weapons that you can use with quick, darting slashes like a cat's claws. You are trained with the [[Equipment/Hatchet|Hatchet]], [[Equipment/Kama|Kama]], [[Equipment/Kukri|Kukri]], [[Equipment/Scimitar|Scimitar]], and [[Equipment/Sickle|Sickle]].
+You gain access to all uncommon weapons with the catfolk trait. You have familiarity with weapons with the catfolk trait plus the kama, kukri, scimitar, and sickle—for the purpose of proficiency, you treat any of these that are martial weapons as simple weapons and any that are advanced weapons as martial weapons.
 
-In addition, you gain access to kama, kukris, and all uncommon catfolk weapons. For you, martial catfolk weapons are simple weapons and advanced catfolk weapons are martial weapons.
+At 5th level, whenever you get a critical hit with one of these weapons, you get its critical specialization effect.
 
-*Source: Pathfinder Advanced Player's Guide*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

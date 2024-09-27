@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.age-of-ashes-bestiary.Actor.91BSCAJA1Oto2ctf"
 tags:
   - pf2e/creature/type/animal
   - pf2e/creature/type/evil
+  - pf2eMonster
   - pf2e/creature/level/6
 statblock: inline
 name: "Blood Boar"
@@ -24,12 +25,13 @@ level: "Creature 6"
 
 alignment: ""
 size: "Medium"
-trait_01: "animal"
-trait_02: "evil"
+trait_01: [[animal]]
+trait_02: [[evil]]
 modifier: 15
 perception:
   - name: "Perception"
     desc: "+15; Low-Light Vision, Scent (Imprecise) 30 Feet"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Acrobatics: +10, Athletics: +15, Survival: +15"
@@ -69,8 +71,14 @@ attacks:
     desc: "`pf2:1`  The blood boar Strides toward its quarry, ignoring difficult terrain and gaining a +10-foot circumstance bonus to its Speed during the movement."
 
   - name: "Terrifying Squeal"
-    desc: "`pf2:1` (auditory,emotion,fear,mental) The blood boar lets forth a hair-raising squeal. Each creature within 30 feet must succeed at a DC 23 Will check save or become [[Conditions/Frightened 1|Frightened 1]] ([[Conditions/Frightened 1|Frightened 2]] on a critical failure).\nIf the blood boar uses Terrifying Squeal on the same turn after using Chase Down, the DC 25 Will check save DC is instead 25."
+    desc: "`pf2:1` (auditory,emotion,fear,mental) The blood boar lets forth a hair-raising squeal. Each creature within 30 feet must succeed at a DC 23 Will check save or become [[Conditions/Frightened|Frightened 1]] ([[Conditions/Frightened|Frightened 2]] on a critical failure).\n\nIf the blood boar uses Terrifying Squeal on the same turn after using Chase Down, the DC 25 Will check save DC is instead 25."
  
+```
+
+```encounter-table
+name: Blood Boar
+creatures:
+  - 1: Blood Boar
 ```
 
 

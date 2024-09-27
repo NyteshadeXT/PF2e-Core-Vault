@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.quest-for-the-frozen-flame-bestiary.Actor.T0AapaQCmo5p
 tags:
   - pf2e/creature/type/amphibious
   - pf2e/creature/type/animal
+  - pf2eMonster
   - pf2e/creature/level/0
 statblock: inline
 name: "Groplit"
@@ -21,18 +22,19 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #175: Broken Tusk Moon"
 name: "Groplit"
 level: "Creature 0"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Small"
-trait_01: "amphibious"
-trait_02: "animal"
+trait_01: [[amphibious]]
+trait_02: [[animal]]
 modifier: 6
 perception:
   - name: "Perception"
     desc: "+6; Darkvision"
+languages: ""
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +5 (+7 to Escape), Athletics: +6, Stealth: +5"
+    desc: "Acrobatics: +5, Athletics: +6, Stealth: +5"
 abilityMods: [2, 3, 2, -4, 2, -2]
 speed: 25 feet,  swim 20 feet
 sourcebook: "_Pathfinder #175: Broken Tusk Moon_"
@@ -54,7 +56,7 @@ abilities_mid:
     desc: "  A groplit's DC to recover from persistent fire damage is increased by 2 (generally, from DC 15 to DC 17)."
 
   - name: "Greasy Slide"
-    desc: "`pf2:r`  **Trigger** A creature misses the groplit with a melee Strike\n**Effect** The groplit Strides or Swims up to 10 feet. This movement doesn't trigger reactions."
+    desc: "`pf2:r`  **Trigger** A creature misses the groplit with a melee Strike\n* * *\n\n**Effect** The groplit Strides or Swims up to 10 feet. This movement doesn't trigger reactions."
 
 attacks:
   - name: ""
@@ -69,8 +71,14 @@ attacks:
     desc: "`pf2:2`  The groplit Strides twice, Leaps twice, or Strides once and Leaps once. It then makes a jaws Strike at the end of the movement."
 
   - name: "Incendiary Dollop"
-    desc: "  Creatures struck by the groplit are smeared with some of its flammable grease. For the following 1 minute, or until a creature scrubs away the grease dollop with a single Interact action, the DC of the creature's checks to recover from persistent fire damage is increased by 2.\n[[Bestiary Effects/Effect_ Incendiary Dollop|Effect: Incendiary Dollop]]"
+    desc: "  Creatures struck by the groplit are smeared with some of its flammable grease. For the following 1 minute, or until a creature scrubs away the grease dollop with a single Interact action, the DC of the creature's checks to recover from persistent fire damage is increased by 2.\n\n[[Bestiary Effects/Effect_ Incendiary Dollop|Effect: Incendiary Dollop]]"
  
+```
+
+```encounter-table
+name: Groplit
+creatures:
+  - 1: Groplit
 ```
 
 

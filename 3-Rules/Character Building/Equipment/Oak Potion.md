@@ -16,7 +16,7 @@ license: ORC
 ---
 # Oak Potion
 ## Item 4
-### [[consumable]][[plant]][[potion]][[primal]][[Wood]]
+### [[consumable]][[plant]][[potion]][[primal]][[wood]]
 
 **Category** potion; 
 **Price** 15 gp; 

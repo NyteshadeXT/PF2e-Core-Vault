@@ -14,7 +14,7 @@ license: OGL
 ---
 # Beckoning Cat Amulet
 ## Item 5
-### [uncommon](uncommon "Uncommon Rarity Trait")[[consumable]][[fortune]][[magical]][[talisman]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[consumable]][[fortune]][[3-Rules/Rule References/Magical]][[talisman]]
 
 **Category** talisman; 
 **Price** 26 gp; 

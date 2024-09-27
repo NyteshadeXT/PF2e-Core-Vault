@@ -6,6 +6,7 @@ tags:
   - cold
   - magical
   - trap
+  - pf2eHazard
 
 source: Pathfinder One-Shot #4: Mark of the Mantis
 aliases: "Compendium.pf2e.one-shot-bestiary.Actor.Ve1QhQgmE6Ex2Guc" 
@@ -23,15 +24,15 @@ name: "Boreal Rage Trap"
 level: "Hazard 6"
 
 
-trait_01: "cold"
-trait_02: "magical"
-trait_03: "trap"
+trait_01: [[cold]]
+trait_02: [[magical]]
+trait_03: [[trap]]
 modifier: 15
 sourcebook: "_Pathfinder One-Shot #4: Mark of the Mantis_"
 ac: 24
 armorclass:
   - name: AC
-    desc: "24; __Fort__ +17, __Ref__ +11, __Will__ +0"
+    desc: "24; __Fort__ +17, __Ref__ +11, "
 hp: 60
 health:
   - name: ""
@@ -53,10 +54,16 @@ attacks:
   - name: ""
 
   - name: "Exhale"
-    desc: "`pf2:r` **Trigger** A creature enters either of the marked areas, or a creature remains in the room for 1 minute\n**Effect** The trap breathes cold that envelops a 15-foot burst centered on the triggering creature's square. This deals 4d8 + 18 cold damage (DC 24 Reflex check save), and a creature that critically fails the save becomes [[Conditions/Clumsy 1|Clumsy 1]] for 10 minutes due to frostbite."
+    desc: "`pf2:r` **Trigger** A creature enters either of the marked areas, or a creature remains in the room for 1 minute\n* * *\n\n**Effect** The trap breathes cold that envelops a 15-foot burst centered on the triggering creature's square. This deals 4d8+18 cold damage (DC 24 Reflex check save), and a creature that critically fails the save becomes [[Conditions/Clumsy|Clumsy 1]] for 10 minutes due to frostbite."
 
 
   - name: "Reset"
     desc: "10 minutes"
+```
+
+```encounter-table
+name: Boreal Rage Trap
+creatures:
+  - 1: Boreal Rage Trap
 ```
 

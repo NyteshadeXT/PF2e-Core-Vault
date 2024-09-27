@@ -16,7 +16,7 @@ license: OGL
 
 
 
-**Moderate Curse:** The horrors at the end of reality become overwhelming and constantly race through your mind. You are permanently [[Conditions/Stupefied 1|Stupefied 2]].
+The horrors at the end of reality become overwhelming and constantly race through your mind. You are permanently [[Conditions/Stupefied|Stupefied 2]].
 
 *Source: Pathfinder Lost Omens: Gods & Magic*
 *OGL*

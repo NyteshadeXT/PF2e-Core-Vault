@@ -10,6 +10,7 @@ tags:
   - pf2e/creature/type/fiend
   - pf2e/creature/type/lawful
   - pf2e/creature/type/unholy
+  - pf2eMonster
   - pf2e/creature/level/8
 statblock: inline
 name: "Erinys"
@@ -28,16 +29,16 @@ level: "Creature 8"
 
 alignment: ""
 size: "Medium"
-trait_01: "devil"
-trait_02: "evil"
-trait_03: "fiend"
-trait_04: "lawful"
-trait_05: "unholy"
+trait_01: [[devil]]
+trait_02: [[evil]]
+trait_03: [[fiend]]
+trait_04: [[lawful]]
+trait_05: [[unholy]]
 modifier: 18
 perception:
   - name: "Perception"
     desc: "+18; Greater Darkvision, Truesight"
-languages: "Common, Diabolic, Draconic, Empyrean"
+languages: "Common, Diabolic, Draconic, Empyrean; telepathy 100 feet"
 skills:
   - name: "Skills"
     desc: "Acrobatics: +17, Crafting: +14, Deception: +19, Diplomacy: +15, Intimidation: +19, Religion: +16, Stealth: +17"
@@ -81,11 +82,17 @@ attacks:
     desc: "  Any weapon an erinys holds gains the effects of a _[[Equipment/Flaming|Flaming]]_ rune while they hold it."
 
   - name: "Furious Fusillade"
-    desc: "`pf2:3`  The erinys hovers in place if they are flying and fires one arrow at any number of creatures in a 30-foot cone. Each attack is rolled separately. This counts as one attack for the purpose of the erinys's multiple attack penalty."
+    desc: "`pf2:3`  The erinys hovers in place if they are flying and fires one arrow at any number of creatures in a @Template[cone|distance:30]. Each attack is rolled separately. This counts as one attack for the purpose of the erinys's multiple attack penalty."
 
   - name: "Rope Snare"
-    desc: "  An erinys carries a coil of rope woven of their hair (use the statistics for [[Equipment/Rope|Rope]]) that animates in their hands.\nWhen a creature is hit by the erinys's rope, a segment of the rope tears loose and wraps itself around the creature, imposing a 10-foot circumstance penalty to Speed. The piece that tears off is 10 feet long for a Medium or smaller creature, and doubles in length for each size larger than Medium.\nWhen a creature [[Actions/Escape|Escapes]] the effect (DC 26), the detached segment of rope withers away into useless black sludge.\n[[Bestiary Effects/Effect_ Rope Snare|Effect: Rope Snare]]"
+    desc: "  An erinys carries a coil of rope woven of their hair (use the statistics for [[Equipment/Rope|Rope]]) that animates in their hands.\n\nWhen a creature is hit by the erinys's rope, a segment of the rope tears loose and wraps itself around the creature, imposing a 10-foot circumstance penalty to Speed. The piece that tears off is 10 feet long for a Medium or smaller creature, and doubles in length for each size larger than Medium.\n\nWhen a creature [[Actions/Escape|Escapes]] the effect (DC 26), the detached segment of rope withers away into useless black sludge.\n\n[[Bestiary Effects/Effect_ Rope Snare|Effect: Rope Snare]]"
  
+```
+
+```encounter-table
+name: Erinys
+creatures:
+  - 1: Erinys
 ```
 
 

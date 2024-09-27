@@ -6,6 +6,7 @@ cssClasses: pf2e
 aliases: "Compendium.pf2e.pfs-season-1-bestiary.Actor.cuTgbvAxDEkT4XhZ" 
 tags:
   - pf2e/creature/type/construct
+  - pf2eMonster
   - pf2e/creature/level/3
 statblock: inline
 name: "Fleshforge Dreg (Shield)"
@@ -20,15 +21,15 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Society Scenario #1-01: The Absalom Initiation"
 name: "Fleshforge Dreg (Shield)"
 level: "Creature 3"
-rare_03: "Rare"
+rare_03: [[Rare]]
 alignment: ""
 size: "Medium"
-trait_01: "construct"
+trait_01: [[construct]]
 modifier: 6
 perception:
   - name: "Perception"
     desc: "+6; "
-languages: "Common"
+languages: "Common; (can&#x27;t speak any language)"
 skills:
   - name: "Skills"
     desc: "Acrobatics: +9, Athletics: +10, Survival: +7"
@@ -62,6 +63,12 @@ attacks:
   - name: "Melee"
     desc: "`pf2:1` Tentacle +12 (agile)\n__Damage__  1d6 + 6 bludgeoning"
  
+```
+
+```encounter-table
+name: Fleshforge Dreg (Shield)
+creatures:
+  - 1: Fleshforge Dreg (Shield)
 ```
 
 

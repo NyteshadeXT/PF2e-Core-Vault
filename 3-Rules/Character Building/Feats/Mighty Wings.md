@@ -19,7 +19,7 @@ license: OGL
 
 **Prerequisites** Dragon Disciple Dedication; dragon wings sorcerer bloodline spell
 * * *
-Your dragon wings are now a permanent part of your body, giving you a fly Speed equal to your Speed. If you spend 1 Focus Point to cast [[Spells/Dragon Wings|Dragon Wings]], your fly Speed increases to 90 feet for the duration, unless your Speed is faster, and you gain the effects of [[Spells/Dragon Claws|Dragon Claws]] for the duration.
+Your dragon wings are now a permanent part of your body, giving you a fly Speed equal to your Speed. If you spend 1 Focus Point to cast [[Spells/Dragon Wings|Dragon Wings]], your fly Speed increases to 90 feet for the duration, unless your Speed is faster, and you gain the effects of [[Spells/Flurry of Claws|Dragon Claws]] for the duration.
 
 *Source: Pathfinder #171: Hurricane's Howl*
 *OGL*

@@ -6,8 +6,9 @@ tags:
   - trait/archetype
   - trait/common
   - category/class
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.YDpSnLmnSLsItP45"
-license: OGL
+license: ORC
 ---
 # Improvised Critical
 ## Feat 8
@@ -21,5 +22,5 @@ license: OGL
 * * *
 You can apply critical specialization effects to improvised weapons you wield. For any given improvised weapon, the GM determines which critical specialization effect is most applicable, based on the type of object it is.
 
-*Source: Pathfinder Advanced Player's Guide*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

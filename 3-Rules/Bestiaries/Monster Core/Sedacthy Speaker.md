@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/amphibious
   - pf2e/creature/type/humanoid
   - pf2e/creature/type/sedacthy
+  - pf2eMonster
   - pf2e/creature/level/6
   - remaster
 statblock: inline
@@ -20,15 +21,16 @@ license: ORC
 columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
+token: [[modules/pf2e-tokens-monster-core/assets/portraits/sedacthy-speaker.webp| ]]
 source: "Pathfinder Monster Core"
 name: "Sedacthy Speaker"
 level: "Creature 6"
 
 alignment: ""
 size: "Medium"
-trait_01: "amphibious"
-trait_02: "humanoid"
-trait_03: "sedacthy"
+trait_01: [[amphibious]]
+trait_02: [[humanoid]]
+trait_03: [[sedacthy]]
 modifier: 15
 perception:
   - name: "Perception"
@@ -80,10 +82,10 @@ attacks:
     desc: "`pf2:1`  **Requirements** The sedacthy speaker is adjacent to a Large or larger animal ally\n* * *\n\n**Effect** The speaker gains cover until the start of their next turn or when they're no longer adjacent to the animal, whichever comes first."
 
   - name: "Exploit Weakness"
-    desc: "  The speaker's Strikes deal 1d6 additional damage to creatures that are [[Conditions/Frightened 1|Frightened]] or [[Conditions/Sickened 1|Sickened]]."
+    desc: "  The speaker's Strikes deal 1d6 additional damage to creatures that are [[Conditions/Frightened|Frightened]] or [[Conditions/Sickened|Sickened]]."
 
   - name: "Painful Cry"
-    desc: "`pf2:2` (mental,sonic) The sedacthy shrieks across a range of painfully high tones, dealing 3d6 sonic damage and 1d6 mental damage to all creatures in a 30-foot cone, with a DC 23 Fortitude check save. A creature that fails its save is [[Conditions/Sickened 1|Sickened 1]]."
+    desc: "`pf2:2` (mental,sonic) The sedacthy shrieks across a range of painfully high tones, dealing 3d6 sonic damage and 1d6 mental damage to all creatures in a @Template[cone|distance:30], with a DC 23 Fortitude check save. A creature that fails its save is [[Conditions/Sickened|Sickened 1]]."
 
   - name: "Shared Feast"
     desc: "`pf2:2`  The sedacthy makes a jaws Strike. If it hits, an ally of their choice can spend a reaction to make a jaws Strike against the same target. Allies with beaks or similar attacks can use those instead of jaws."
@@ -91,6 +93,12 @@ attacks:
   - name: "Swim Together"
     desc: "`pf2:2`  **Requirements** The speaker is adjacent to an animal ally\n* * *\n\n**Effect** The speaker and the animal both Swim, ending their movement adjacent to one another."
  
+```
+
+```encounter-table
+name: Sedacthy Speaker
+creatures:
+  - 1: Sedacthy Speaker
 ```
 
 

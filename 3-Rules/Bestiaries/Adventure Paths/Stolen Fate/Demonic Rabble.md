@@ -11,6 +11,7 @@ tags:
   - pf2e/creature/type/fiend
   - pf2e/creature/type/troop
   - pf2e/creature/type/unholy
+  - pf2eMonster
   - pf2e/creature/level/13
 statblock: inline
 name: "Demonic Rabble"
@@ -25,20 +26,20 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #191: The Destiny War"
 name: "Demonic Rabble"
 level: "Creature 13"
-rare_03: "Rare"
+rare_03: [[Rare]]
 alignment: ""
 size: "grg"
-trait_01: "chaotic"
-trait_02: "demon"
-trait_03: "evil"
-trait_04: "fiend"
-trait_05: "troop"
-trait_06: "unholy"
+trait_01: [[chaotic]]
+trait_02: [[demon]]
+trait_03: [[evil]]
+trait_04: [[fiend]]
+trait_05: [[troop]]
+trait_06: [[unholy]]
 modifier: 23
 perception:
   - name: "Perception"
     desc: "+23; Darkvision"
-languages: "Chthonian, Draconic, Empyrean"
+languages: "Chthonian, Draconic, Empyrean; telepathy 100 feet"
 skills:
   - name: "Skills"
     desc: "Athletics: +25, Intimidation: +25"
@@ -63,26 +64,32 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "[[Bestiary Ability Glossary/Frightful Presence|Frightful Presence]]"
-    desc: " (aura,emotion,fear,mental) 30 feet. DC 30 Will check\n"
+    desc: " (aura,emotion,fear,mental) 30 feet. DC 30 Will check\n\n* * *\n"
 
 attacks:
   - name: ""
 
   - name: "Claws, Fangs, and Horns"
-    desc: "`pf2:1` (unholy) **Frequency** once per round\n**Effect** The throng rips and tears at each enemy within its squares and within 5 feet (DC 33 Reflex check save). Damage depends on the number of actions.\n`pf2:1` Damage 1d10+12 slashing plus 1d6 spirit\n`pf2:2` Damage 2d10+12 slashing plus 1d6 spirit\n`pf2:3` Damage 3d10+12 slashing plus 1d6 spirit"
+    desc: "`pf2:1` (unholy) **Frequency** once per round\n* * *\n\n**Effect** The throng rips and tears at each enemy within its squares and within 5 feet (DC 33 Reflex check save). Damage depends on the number of actions.\n\n`pf2:1` Damage 1d10+12 slashing plus 1d6 spirit\n\n`pf2:2` Damage 2d10+12 slashing plus 1d6 spirit\n\n`pf2:3` Damage 3d10+12 slashing plus 1d6 spirit"
 
   - name: "Demonic Tide"
     desc: "  A demonic rabble is less organized and more vicious than most troops. They can move into other creatures' spaces, and other creatures can move into their spaces. Their spaces are difficult terrain to non-demon creatures. The first time during a turn that a creature hostile to the throng willingly moves into their space, that creature is subjected to the one-action version of Claws, Fangs, and Horns."
 
   - name: "Hurl Debris"
-    desc: "`pf2:1`  **Frequency** once per round\n**Effect** The throng hurls debris, creating a 10-foot burst within 30 feet (DC 25 Reflex check save). When the throng is reduced to 8 or fewer squares, this area decreases to a 5-foot burst. Damage depends on the number of actions.\n`pf2:1` Damage 2d10 bludgeoning damage\n`pf2:2` Damage 4d10 bludgeoning damage\n`pf2:3` Damage 6d10 bludgeoning damage"
+    desc: "`pf2:1`  **Frequency** once per round\n* * *\n\n**Effect** The throng hurls debris, creating a @Template[burst|distance:10] within 30 feet (DC 25 Reflex check save). When the throng is reduced to 8 or fewer squares, this area decreases to a @Template[burst|distance:5]. Damage depends on the number of actions.\n\n`pf2:1` Damage 2d10 bludgeoning damage\n\n`pf2:2` Damage 4d10 bludgeoning damage\n\n`pf2:3` Damage 6d10 bludgeoning damage"
 
   - name: "Serenity Vulnerability"
-    desc: "  A demonic rabble thrives on mayhem, and when members of the throng find themselves facing moments of calm, however brief or temporary, the throng suffers. Whenever the demonic rabble fails a saving throw against an affect that would normally [[Conditions/Fascinated|Fascinate]], [[Conditions/Fatigued|Fatigue]], [[Conditions/Paralyzed|Paralyze]], [[Conditions/Restrained|Restrain]], or [[Conditions/Slowed 1|Slow]] at least four creatures, the troop takes 3d6 mental damage."
+    desc: "  A demonic rabble thrives on mayhem, and when members of the throng find themselves facing moments of calm, however brief or temporary, the throng suffers. Whenever the demonic rabble fails a saving throw against an affect that would normally [[Conditions/Fascinated|Fascinate]], [[Conditions/Fatigued|Fatigue]], [[Conditions/Paralyzed|Paralyze]], [[Conditions/Restrained|Restrain]], or [[Conditions/Slowed|Slow]] at least four creatures, the troop takes 3d6 mental damage."
 
   - name: "Troop Movement"
     desc: "  Whenever the rabble Strides, they first Form Up as a free action to condense into a 20-foot-by-20-foot area (minus any missing squares), then moves up to their Speed."
  
+```
+
+```encounter-table
+name: Demonic Rabble
+creatures:
+  - 1: Demonic Rabble
 ```
 
 

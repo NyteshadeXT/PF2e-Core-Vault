@@ -5,6 +5,7 @@ noteType: pf2eHazard
 tags:
   - mechanical
   - trap
+  - pf2eHazard
 
 source: Pathfinder #151: The Show Must Go On
 aliases: "Compendium.pf2e.extinction-curse-bestiary.Actor.wQHcJGJ9rSyFQFPB" 
@@ -22,14 +23,14 @@ name: "Envenomed Thorns Trap"
 level: "Hazard 2"
 
 
-trait_01: "mechanical"
-trait_02: "trap"
+trait_01: [[mechanical]]
+trait_02: [[trap]]
 modifier: 10
 sourcebook: "_Pathfinder #151: The Show Must Go On_"
 ac: 18
 armorclass:
   - name: AC
-    desc: "18; __Fort__ +10, __Ref__ +4, __Will__ +0"
+    desc: "18; __Fort__ +10, __Ref__ +4, "
 hp: 28
 health:
   - name: ""
@@ -53,9 +54,15 @@ attacks:
     desc: "Poisoned Thorns +14 () "
 
   - name: "Thorny Branch"
-    desc: "`pf2:r` (poison) **Trigger** The trip wire is touched\n**Effect** The trap's poisoned thorns attack the creature or object touching the trip wire."
+    desc: "`pf2:r` (poison) **Trigger** The trip wire is touched\n* * *\n\n**Effect** The trap's poisoned thorns attack the creature or object touching the trip wire."
 
 
 
+```
+
+```encounter-table
+name: Envenomed Thorns Trap
+creatures:
+  - 1: Envenomed Thorns Trap
 ```
 

@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/amphibious
   - pf2e/creature/type/leshy
   - pf2e/creature/type/plant
+  - pf2eMonster
   - pf2e/creature/level/3
 statblock: inline
 name: "Seaweed Leshy"
@@ -26,17 +27,17 @@ level: "Creature 3"
 
 alignment: ""
 size: "Small"
-trait_01: "amphibious"
-trait_02: "leshy"
-trait_03: "plant"
+trait_01: [[amphibious]]
+trait_02: [[leshy]]
+trait_03: [[plant]]
 modifier: 10
 perception:
   - name: "Perception"
     desc: "+10; Low-Light Vision"
-languages: "Common, Fey, Thalassic, Wildsong"
+languages: "Common, Fey, Thalassic, Wildsong; speak with plants (seaweed only)"
 skills:
   - name: "Skills"
-    desc: "Athletics: +9, Nature: +10, Ocean Lore: +9, Stealth: +9, Survival: +8"
+    desc: "Athletics: +9, Nature: +10, Stealth: +9, Survival: +8, Ocean Lore: +9"
 abilityMods: [2, 4, 3, 0, 3, 1]
 speed: 20 feet,  swim 20 feet
 sourcebook: "_Pathfinder Bestiary 3_"
@@ -55,7 +56,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Verdant Burst"
-    desc: "  When a seaweed leshy dies, a burst of primal energy explodes from its body, restoring 3d8 Hit Points to each plant creature in a 30-foot emanation. This area fills with seaweed, becoming difficult terrain. If the terrain is not a viable environment for the seaweed, they wither after 24 hours."
+    desc: "  When a seaweed leshy dies, a burst of primal energy explodes from its body, restoring 3d8 Hit Points to each plant creature in a @Template[emanation|distance:30]. This area fills with seaweed, becoming difficult terrain. If the terrain is not a viable environment for the seaweed, they wither after 24 hours."
 
 attacks:
   - name: ""
@@ -70,11 +71,17 @@ attacks:
     desc: "DC 20, attack +12; __4th __  _[[Spells/Speak with Plants|Speak with Plants]]_"
 
   - name: "[[Bestiary Ability Glossary/Change Shape|Change Shape]]"
-    desc: "`pf2:1` (concentrate,polymorph,primal) The seaweed leshy transforms into a Small patch of seaweed. This ability otherwise uses the effects of [[Spells/One with Plants|One with Plants]].\n"
+    desc: "`pf2:1` (concentrate,polymorph,primal) The seaweed leshy transforms into a Small patch of seaweed. This ability otherwise uses the effects of [[Spells/One with Plants|One with Plants]].\n\n* * *\n"
 
   - name: "Sea Spray"
-    desc: "  A seaweed leshy's water jet has enough salt in it to temporarily impair their target's vision.\nOn a hit, the target must succeed at a DC 20 Fortitude check save or be [[Conditions/Dazzled|Dazzled]] for 1 minute or until it spends 3 Interact actions wiping the salt out of its eyes. On a critical hit, a target that fails its Fortitude save is also [[Conditions/Blinded|Blinded]] for 1 round."
+    desc: "  A seaweed leshy's water jet has enough salt in it to temporarily impair their target's vision.\n\nOn a hit, the target must succeed at a DC 20 Fortitude check save or be [[Conditions/Dazzled|Dazzled]] for 1 minute or until it spends 3 Interact actions wiping the salt out of its eyes. On a critical hit, a target that fails its Fortitude save is also [[Conditions/Blinded|Blinded]] for 1 round."
  
+```
+
+```encounter-table
+name: Seaweed Leshy
+creatures:
+  - 1: Seaweed Leshy
 ```
 
 

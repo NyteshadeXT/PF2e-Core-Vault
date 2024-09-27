@@ -7,8 +7,9 @@ tags:
   - trait/rage
   - trait/common
   - category/class
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.so4v9xjBFaoJ8EQs"
-license: OGL
+license: ORC
 ---
 # Supernatural Senses
 ## Feat 4
@@ -18,9 +19,9 @@ license: OGL
 
 
 
-**Prerequisites** Acute Scent or precise or imprecise scent
+**Prerequisites** Acute Scent or scent
 * * *
-Your scent is preternaturally sharp, and you can always rely on your sense of smell to help guide you when your vision is compromised. When you target a Concealed or Hidden opponent while you are raging, you reduce the DC of the flat check to 3 for a concealed target or to 9 for a hidden one.
+Your scent is preternaturally sharp, and you can always rely on your sense of smell to help guide you when your vision is compromised. When you target a [[Conditions/Concealed|Concealed]] or [[Conditions/Hidden|Hidden]] opponent while you are raging, you reduce the DC of the flat check to 3 for a concealed target or to 9 for a hidden one.
 
-*Source: Pathfinder Advanced Player's Guide*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

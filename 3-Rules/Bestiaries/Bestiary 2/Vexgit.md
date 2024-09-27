@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/fey
   - pf2e/creature/type/gremlin
   - pf2e/creature/type/lawful
+  - pf2eMonster
   - pf2e/creature/level/1
 statblock: inline
 name: "Vexgit"
@@ -27,10 +28,10 @@ level: "Creature 1"
 
 alignment: ""
 size: "tiny"
-trait_01: "evil"
-trait_02: "fey"
-trait_03: "gremlin"
-trait_04: "lawful"
+trait_01: [[evil]]
+trait_02: [[fey]]
+trait_03: [[gremlin]]
+trait_04: [[lawful]]
 modifier: 6
 perception:
   - name: "Perception"
@@ -38,7 +39,7 @@ perception:
 languages: "Sakvroth"
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +7, Athletics: +6, Crafting: +6 (+8 traps), Nature: +6, Stealth: +5 (See Clacking Exoskeleton), Thievery: +7"
+    desc: "Acrobatics: +7, Athletics: +6, Crafting: +6, Nature: +6, Stealth: +5, Thievery: +7"
 abilityMods: [1, 4, 2, 1, 1, 0]
 speed: 20 feet,  climb 20 feet
 sourcebook: "_Pathfinder Bestiary 2_"
@@ -76,14 +77,20 @@ attacks:
     desc: "  A vexgit's maul Strike against an object deals ignores up to 5 of the object's Hardness."
 
   - name: "Gremlin Snare"
-    desc: "`pf2:3` (primal) **Frequency** once per hour\n**Effect** The vexgit creates a snare of their level or lower that normally takes 1 minute to craft at no cost. A single vexgit can maintain one gremlin snare at a time-if they create a new snare, the previously created one vanishes."
+    desc: "`pf2:3` (primal) **Frequency** once per hour\n* * *\n\n**Effect** The vexgit creates a snare of their level or lower that normally takes 1 minute to craft at no cost. A single vexgit can maintain one gremlin snare at a time-if they create a new snare, the previously created one vanishes."
 
   - name: "Rusting Grasp"
-    desc: "`pf2:2` (primal) **Frequency** once per hour\n**Effect** The vexgit makes a +9 spell attack against a creature or unattended object. If they succeed, the vexgit deals 1d6 damage (doubled on a critical hit) to a metal item the target is wearing or holding, ignoring its Hardness. If they hit an unattended metal item, the item takes this damage automatically.\nIf a creature uses [[Bestiary Ability Glossary/Shield Block|Shield Block]] with a metal shield against this attack, the shield is automatically [[Conditions/Broken|Broken]], but no other item is rusted on that attack."
+    desc: "`pf2:2` (primal) **Frequency** once per hour\n* * *\n\n**Effect** The vexgit makes a +9 spell attack against a creature or unattended object. If they succeed, the vexgit deals 1d6 damage (doubled on a critical hit) to a metal item the target is wearing or holding, ignoring its Hardness. If they hit an unattended metal item, the item takes this damage automatically.\n\nIf a creature uses [[Bestiary Ability Glossary/Shield Block|Shield Block]] with a metal shield against this attack, the shield is automatically [[Conditions/Broken|Broken]], but no other item is rusted on that attack."
 
   - name: "Speedy Sabotage"
     desc: "  When a vexgit succeeds or critically succeeds at a check to [[Actions/Disable a Device|Disable a Device]], they gain an additional success toward disabling a complex device."
  
+```
+
+```encounter-table
+name: Vexgit
+creatures:
+  - 1: Vexgit
 ```
 
 

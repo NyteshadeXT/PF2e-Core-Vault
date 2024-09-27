@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/mindless
   - pf2e/creature/type/zombie
+  - pf2eMonster
   - pf2e/creature/level/1
 statblock: inline
 name: "Zombie Riding Horse"
@@ -22,16 +23,17 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Society Scenario #1-03: Escaping the Grave"
 name: "Zombie Riding Horse"
 level: "Creature 1"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Large"
-trait_01: "evil"
-trait_02: "mindless"
-trait_03: "zombie"
+trait_01: [[evil]]
+trait_02: [[mindless]]
+trait_03: [[zombie]]
 modifier: 3
 perception:
   - name: "Perception"
     desc: "+3; Darkvision"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Athletics: +7"
@@ -51,12 +53,12 @@ abilities_top:
   - name: ""
 
   - name: "Slow"
-    desc: "  A zombie is permanently [[Conditions/Slowed 1|Slowed 1]] and can't use reactions."
+    desc: "  A zombie is permanently [[Conditions/Slowed|Slowed 1]] and can't use reactions."
 
 abilities_mid:
   - name: ""
   - name: "[[Creature Family Ability Glossary/(Zombie) Rotting Aura|Rotting Aura]]"
-    desc: " (aura,disease) 10 feet. The zombie riding horse emits an aura of rot and disease that causes wounds to fester and turn sour.\nAny living creature that starts its turn within 10 feet of the zombie and is not at full Hit Points takes 1d6 damage(DC 14 Fortitude check save) as its wounds fester."
+    desc: " (aura,disease) 10 feet. The zombie riding horse emits an aura of rot and disease that causes wounds to fester and turn sour.\n\nAny living creature that starts its turn within 10 feet of the zombie and is not at full Hit Points takes 1d6 damage(DC 14 Fortitude check save) as its wounds fester."
 
 attacks:
   - name: ""
@@ -73,6 +75,12 @@ attacks:
   - name: "Gallop"
     desc: "`pf2:2`  The zombie riding horse Strides twice. It has a +10-foot circumstance bonus to its Speed during these Strides"
  
+```
+
+```encounter-table
+name: Zombie Riding Horse
+creatures:
+  - 1: Zombie Riding Horse
 ```
 
 

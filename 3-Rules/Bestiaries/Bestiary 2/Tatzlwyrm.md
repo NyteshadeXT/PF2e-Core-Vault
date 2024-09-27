@@ -6,6 +6,7 @@ cssClasses: pf2e
 aliases: "Compendium.pf2e.pathfinder-bestiary-2.Actor.UnWr8QSMq2VZUQhX" 
 tags:
   - pf2e/creature/type/dragon
+  - pf2eMonster
   - pf2e/creature/level/2
 statblock: inline
 name: "Tatzlwyrm"
@@ -24,7 +25,7 @@ level: "Creature 2"
 
 alignment: ""
 size: "Medium"
-trait_01: "dragon"
+trait_01: [[dragon]]
 modifier: 8
 perception:
   - name: "Perception"
@@ -63,8 +64,14 @@ attacks:
     desc: "`pf2:1` Claw +10 (agile, magical)\n__Damage__  1d6 + 6 slashing"
 
   - name: "Poison Gasp"
-    desc: "`pf2:1`  The tatzlwyrm belches a puff of poisonous vapor into the face of an adjacent creature, which must attempt a DC 15 Fortitude check save; the creature takes a -2 circumstance penalty to this save if it's [[Conditions/Grabbed|Grabbed]] or [[Conditions/Off-Guard|Off-Guard]].\nThe tatzlwyrm can't use Poison Gasp again for 2 rounds.\n**Critical Success** The target is unaffected.\n**Success** The target is [[Conditions/Sickened 1|Sickened 1]].\n**Failure** The target takes 2d6 poison damage and is [[Conditions/Enfeebled 1|Enfeebled 1]] for 1 round.\n**Critical Failure** The target takes 4d6 poison damage and is [[Conditions/Enfeebled 1|Enfeebled 1]] for 1 minute."
+    desc: "`pf2:1`  The tatzlwyrm belches a puff of poisonous vapor into the face of an adjacent creature, which must attempt a DC 15 Fortitude check save; the creature takes a -2 circumstance penalty to this save if it's [[Conditions/Grabbed|Grabbed]] or [[Conditions/Off-Guard|Off-Guard]].\n\nThe tatzlwyrm can't use Poison Gasp again for 2 rounds.\n* * *\n\n**Critical Success** The target is unaffected.\n\n**Success** The target is [[Conditions/Sickened|Sickened 1]].\n\n**Failure** The target takes 2d6 poison damage and is [[Conditions/Enfeebled|Enfeebled 1]] for 1 round.\n\n**Critical Failure** The target takes 4d6 poison damage and is [[Conditions/Enfeebled|Enfeebled 1]] for 1 minute."
  
+```
+
+```encounter-table
+name: Tatzlwyrm
+creatures:
+  - 1: Tatzlwyrm
 ```
 
 

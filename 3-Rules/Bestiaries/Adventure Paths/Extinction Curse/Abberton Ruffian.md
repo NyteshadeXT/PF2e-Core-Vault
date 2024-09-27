@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/human
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/-1
 statblock: inline
 name: "Abberton Ruffian"
@@ -25,9 +26,9 @@ level: "Creature -1"
 
 alignment: ""
 size: "Medium"
-trait_01: "evil"
-trait_02: "human"
-trait_03: "humanoid"
+trait_01: [[evil]]
+trait_02: [[human]]
+trait_03: [[humanoid]]
 modifier: 4
 perception:
   - name: "Perception"
@@ -35,7 +36,7 @@ perception:
 languages: "Common"
 skills:
   - name: "Skills"
-    desc: "Athletics: +5, Deception: +3, Gambling Lore: +1, Intimidation: +3, Thievery: +3"
+    desc: "Athletics: +5, Deception: +3, Intimidation: +3, Thievery: +3, Gambling Lore: +1"
 abilityMods: [3, 1, 2, -1, 2, 1]
 speed: 25 feet
 sourcebook: "_Pathfinder #151: The Show Must Go On_"
@@ -57,7 +58,7 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
+  - name: "Ranged"
     desc: "`pf2:1` Dagger +7 (agile, thrown 10 ft., versatile s)\n__Damage__  1d4 + 3 piercing"
 
   - name: "Melee"
@@ -67,8 +68,14 @@ attacks:
     desc: "`pf2:1` Thrown Bottle +5 (range 10 feet)\n__Damage__  1d6 + 3 bludgeoning"
 
   - name: "Opening Threat"
-    desc: "`pf2:1`  **Requirements** The ruffian hasn't acted yet on their turn\n**Effect** The ruffian uses an Interact action to draw their dagger, then uses [[Actions/Demoralize|Demoralize]]"
+    desc: "`pf2:1`  **Requirements** The ruffian hasn't acted yet on their turn\n* * *\n\n**Effect** The ruffian uses an Interact action to draw their dagger, then uses [[Actions/Demoralize|Demoralize]]"
  
+```
+
+```encounter-table
+name: Abberton Ruffian
+creatures:
+  - 1: Abberton Ruffian
 ```
 
 

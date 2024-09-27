@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/humanoid
   - pf2e/creature/type/shisk
+  - pf2eMonster
   - pf2e/creature/level/4
 statblock: inline
 name: "Liaskra (3-4)"
@@ -23,13 +24,13 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Society Scenario #4-10: Arclord&#x27;s Abode"
 name: "Liaskra (3-4)"
 level: "Creature 4"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Medium"
-trait_01: "changeling"
-trait_02: "evil"
-trait_03: "humanoid"
-trait_04: "shisk"
+trait_01: [[changeling]]
+trait_02: [[evil]]
+trait_03: [[humanoid]]
+trait_04: [[shisk]]
 modifier: 14
 perception:
   - name: "Perception"
@@ -60,7 +61,7 @@ abilities_mid:
     desc: "`pf2:r`  "
 
   - name: "Barbed Quills"
-    desc: "`pf2:r`  **Frequency** once per day\n**Trigger** Liaskra is hit with an unarmed Strike or a Strike with a non-reach melee weapon\n**Effect** Liaskra breaks off quills in her attacker's flesh. She deals 2d8 piercing damage to the triggering creature (DC 21 Reflex check). On a critical failure, the creature also takes 1d4 + 1 bleed damage as the quills hook into their flesh."
+    desc: "`pf2:r`  **Frequency** once per day\n\n**Trigger** Liaskra is hit with an unarmed Strike or a Strike with a non-reach melee weapon\n* * *\n\n**Effect** Liaskra breaks off quills in her attacker's flesh. She deals 2d8 piercing damage to the triggering creature (DC 21 Reflex check). On a critical failure, the creature also takes 1d4+1 bleed damage as the quills hook into their flesh."
 
 attacks:
   - name: ""
@@ -77,6 +78,12 @@ attacks:
   - name: "Trick Attack"
     desc: "`pf2:1`  Liaskra musters her guile to attempt a clever attack that catches her foe unprepared. Liaskra chooses one of her weapons. The next attack with that weapon deals an extra 2d6 precision damage. In addition, Liaskra can Interact to draw the weapon (or to reload it if she chooses the hand crossbow)."
  
+```
+
+```encounter-table
+name: Liaskra (3-4)
+creatures:
+  - 1: Liaskra (3-4)
 ```
 
 

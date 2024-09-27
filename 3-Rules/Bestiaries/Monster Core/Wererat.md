@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/human
   - pf2e/creature/type/humanoid
   - pf2e/creature/type/werecreature
+  - pf2eMonster
   - pf2e/creature/level/2
   - remaster
 statblock: inline
@@ -28,10 +29,10 @@ level: "Creature 2"
 
 alignment: ""
 size: "Medium"
-trait_01: "beast"
-trait_02: "human"
-trait_03: "humanoid"
-trait_04: "werecreature"
+trait_01: [[beast]]
+trait_02: [[human]]
+trait_03: [[humanoid]]
+trait_04: [[werecreature]]
 modifier: 8
 perception:
   - name: "Perception"
@@ -39,7 +40,7 @@ perception:
 languages: "Common; Rat Empathy"
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +8, Athletics: +6 (+8 to Climb or Swim), Deception: +5, Society: +4, Stealth: +8"
+    desc: "Acrobatics: +8, Athletics: +6, Deception: +5, Society: +4, Stealth: +8"
 abilityMods: [2, 4, 2, 0, 2, 1]
 speed: 25 feet
 sourcebook: "_Pathfinder Monster Core_"
@@ -91,6 +92,12 @@ attacks:
   - name: "Sneak Attack"
     desc: "  The wererat deals 1d6 extra precision damage to [[Conditions/Off-Guard|Off-Guard]] creatures."
  
+```
+
+```encounter-table
+name: Wererat
+creatures:
+  - 1: Wererat
 ```
 
 

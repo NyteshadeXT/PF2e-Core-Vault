@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/chaotic
   - pf2e/creature/type/evil
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/11
 statblock: inline
 name: "Harpy Warbird"
@@ -22,12 +23,12 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #190: The Choosing"
 name: "Harpy Warbird"
 level: "Creature 11"
-rare_03: "Rare"
+rare_03: [[Rare]]
 alignment: ""
 size: "Medium"
-trait_01: "chaotic"
-trait_02: "evil"
-trait_03: "humanoid"
+trait_01: [[chaotic]]
+trait_02: [[evil]]
+trait_03: [[humanoid]]
 modifier: 20
 perception:
   - name: "Perception"
@@ -70,11 +71,17 @@ attacks:
     desc: "`pf2:1` Composite Shortbow +23 (deadly d10, magical, propulsive, range increment 60 feet, reload 0)\n__Damage__  1d6 + 11 piercing"
 
   - name: "Captivating Song"
-    desc: "`pf2:1` (auditory,concentrate,incapacitation,mental,primal) The harpy cries out an eerie, compelling melody. Each non-harpy creature within a 300-foot aura must attempt a DC 29 Will check save to avoid becoming captivated by the harpy's song. The effect lasts for 1 round, but if the harpy uses this ability again on subsequent rounds, it extends the duration by 1 round for all affected creatures. Once a creature succeeds at any save against Captivating Song, that creature is temporarily immune to Captivating Songs for 24 hours.\n**Success** The creature is unaffected.\n**Failure** The creature is [[Conditions/Fascinated|Fascinated]], and it must spend each of its actions to move closer to the harpy as expediently as possible, while avoiding obvious dangers. If a captivated creature is adjacent to the harpy, it stays still and doesn't act. If attacked by the harpy, the creature is freed from captivation at the end of the harpy's turn.\n**Critical Failure** As failure, but if attacked by the harpy, the creature can attempt a new save at the start of its next turn, rather than being freed at the end of the harpy's turn."
+    desc: "`pf2:1` (auditory,concentrate,incapacitation,mental,primal) The harpy cries out an eerie, compelling melody. Each non-harpy creature within a 300-foot aura must attempt a DC 29 Will check save to avoid becoming captivated by the harpy's song. The effect lasts for 1 round, but if the harpy uses this ability again on subsequent rounds, it extends the duration by 1 round for all affected creatures. Once a creature succeeds at any save against Captivating Song, that creature is temporarily immune to Captivating Songs for 24 hours.\n* * *\n\n**Success** The creature is unaffected.\n\n**Failure** The creature is [[Conditions/Fascinated|Fascinated]], and it must spend each of its actions to move closer to the harpy as expediently as possible, while avoiding obvious dangers. If a captivated creature is adjacent to the harpy, it stays still and doesn't act. If attacked by the harpy, the creature is freed from captivation at the end of the harpy's turn.\n\n**Critical Failure** As failure, but if attacked by the harpy, the creature can attempt a new save at the start of its next turn, rather than being freed at the end of the harpy's turn."
 
   - name: "War Formation"
     desc: "  A harpy warbird deals an extra 2d6 damage with its melee Strikes to any creature that's within reach of at least one of the harpy's allies."
  
+```
+
+```encounter-table
+name: Harpy Warbird
+creatures:
+  - 1: Harpy Warbird
 ```
 
 

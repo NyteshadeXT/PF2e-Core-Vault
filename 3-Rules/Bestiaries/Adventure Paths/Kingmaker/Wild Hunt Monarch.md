@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/chaotic
   - pf2e/creature/type/fey
   - pf2e/creature/type/wild-hunt
+  - pf2eMonster
   - pf2e/creature/level/20
 statblock: inline
 name: "Wild Hunt Monarch"
@@ -22,17 +23,17 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Kingmaker"
 name: "Wild Hunt Monarch"
 level: "Creature 20"
-rare_03: "Rare"
+rare_03: [[Rare]]
 alignment: ""
 size: "Medium"
-trait_01: "chaotic"
-trait_02: "fey"
-trait_03: "wild-hunt"
+trait_01: [[chaotic]]
+trait_02: [[fey]]
+trait_03: [[wild-hunt]]
 modifier: 35
 perception:
   - name: "Perception"
     desc: "+35; Greater Darkvision, Scent (Imprecise) 30 Feet"
-languages: "Aklo, Common, Draconic, Fey"
+languages: "Aklo, Common, Draconic, Fey; speak with animals; speak with plants"
 skills:
   - name: "Skills"
     desc: "Acrobatics: +34, Athletics: +38, Diplomacy: +36, Intimidation: +40, Nature: +36, Performance: +36, Stealth: +37, Survival: +37"
@@ -70,7 +71,7 @@ abilities_mid:
     desc: "  The wild hunt monarch automatically achieves a critical success on saving throws against effects created by other allied wild hunt creatures."
 
   - name: "Wild Gaze"
-    desc: " (aura,fear,incapacitation,mental,primal,visual) 30 feet. Those who meet the gaze of a wild hunt monarch come face-to-face with the hunt's fearful power and find it difficult to act in the face of such a legendary legacy. When a creature ends its turn in the aura, it must succeed at a DC 39 Will check save to resist becoming [[Conditions/Slowed 1|Slowed 1]] ([[Conditions/Slowed 1|Slowed 2]] on a critical failure). The wild hunt monarch can deactivate or activate this aura by using a single action, which has the concentrate trait."
+    desc: " (aura,fear,incapacitation,mental,primal,visual) 30 feet. Those who meet the gaze of a wild hunt monarch come face-to-face with the hunt's fearful power and find it difficult to act in the face of such a legendary legacy. When a creature ends its turn in the aura, it must succeed at a DC 39 Will check save to resist becoming [[Conditions/Slowed|Slowed 1]] ([[Conditions/Slowed|Slowed 2]] on a critical failure). The wild hunt monarch can deactivate or activate this aura by using a single action, which has the concentrate trait."
 
 attacks:
   - name: ""
@@ -88,20 +89,26 @@ attacks:
     desc: "_[[Spells/Control Weather|Control Weather]]_, _[[Spells/Primal Call|Primal Call (Creatures with the Wild Hunt Trait Only)]]_"
 
   - name: "Brutal Gore"
-    desc: "  A creature critically hit by a monarch's horns strike is [[Conditions/Stunned 1|Stunned 1]]."
+    desc: "  A creature critically hit by a monarch's horns strike is [[Conditions/Stunned|Stunned 1]]."
 
   - name: "Call Glaive"
     desc: "`pf2:1` (primal,teleportation) The wild hunt monarch wields a magic weapon known as a monarch's glaive. This weapon functions as a _+3 major striking greater thundering wounding glaive_ in the monarch's hands only. The monarch can call their glaive to their hands using this action, transporting it across any distance. If their glaive is destroyed, the monarch can create a new one by using Call Glaive as a three-action activity that gains the manipulate trait."
 
   - name: "Call to the Hunt"
-    desc: "`pf2:3` (manipulate,primal,teleportation) **Frequency** once per day\n**Effect** The wild hunt monarch blows their monarch's horn, causing two wild hunt scouts or four wild hunt archers part of the monarch's wild hunt link and no more than 1 mile from the monarch's location to appear as the monarch chooses at any point within 30 feet. They act immediately before the wild hunt monarch in initiative starting on the next round."
+    desc: "`pf2:3` (manipulate,primal,teleportation) **Frequency** once per day\n\n**Effect** The wild hunt monarch blows their monarch's horn, causing two wild hunt scouts or four wild hunt archers part of the monarch's wild hunt link and no more than 1 mile from the monarch's location to appear as the monarch chooses at any point within 30 feet. They act immediately before the wild hunt monarch in initiative starting on the next round."
 
   - name: "Focus Gaze"
     desc: "`pf2:1` (concentrate,fear,incapacitation,mental,primal,visual) The wild hunt monarch fixes its glare at a creature it can see within 30 feet. The target must immediately attempt a Will save against the wild hunt hound's wild gaze. If the creature was already slowed by the wild gaze before attempting its save, a failed save causes it to be [[Conditions/Paralyzed|Paralyzed]] for 1 round. After attempting its save, the creature is temporarily immune to Focus Gaze from any wild hunt until the start of the wild hunt monarch's next turn."
 
   - name: "Wild Reincarnation"
-    desc: "`pf2:r` (primal) **Trigger** The wild hunt monarch kills an adjacent non-fey creature.\n**Effect** The wild hunt monarch attempts to reincarnate the creature as a fey. The slain creature must attempt a DC 42 Fortitude check save, and it takes a -2 status penalty to this save if it was under any enchantment effect placed by the monarch when it died.\n**Critical Success** The creature is instead restored to life as if via [[Spells/Raise Dead|Raise Dead]] (heightened to 10th level), and it is permanently immune to Wild Reincarnation from that wild hunt monarch.\n**Success** The creature is not reincarnated and remains dead.\n**Failure** The creature is temporarily reincarnated as a fey creature of the monarch's choice. The new fey must be of a level equal to or less than the dead creature's level, and it functions in all ways as that fey creature; it retains none of the abilities and only scatterings of the memories or personality of the reincarnated character, and it follows the commands and orders of the wild hunt monarch. After 1 minute, the reincarnated fey dies and its body reverts back to its original corpse, which can then be restored to life normally.\n**Critical Failure** As failure, but the reincarnated fey remains alive until slain; a [[Spells/Miracle|Miracle]], [[Spells/Wish|Wish]] or similarly powerful spell or effect can reverse the reincarnation as well."
+    desc: "`pf2:r` (primal) **Trigger** The wild hunt monarch kills an adjacent non-fey creature.\n\n**Effect** The wild hunt monarch attempts to reincarnate the creature as a fey. The slain creature must attempt a DC 42 Fortitude check save, and it takes a -2 status penalty to this save if it was under any enchantment effect placed by the monarch when it died.\n* * *\n\n**Critical Success** The creature is instead restored to life as if via [[Spells/Raise Dead|Raise Dead]] (heightened to 10th level), and it is permanently immune to Wild Reincarnation from that wild hunt monarch.\n\n**Success** The creature is not reincarnated and remains dead.\n\n**Failure** The creature is temporarily reincarnated as a fey creature of the monarch's choice. The new fey must be of a level equal to or less than the dead creature's level, and it functions in all ways as that fey creature; it retains none of the abilities and only scatterings of the memories or personality of the reincarnated character, and it follows the commands and orders of the wild hunt monarch. After 1 minute, the reincarnated fey dies and its body reverts back to its original corpse, which can then be restored to life normally.\n\n**Critical Failure** As failure, but the reincarnated fey remains alive until slain; a [[Spells/Miracle|Miracle]], [[Spells/Wish|Wish]] or similarly powerful spell or effect can reverse the reincarnation as well."
  
+```
+
+```encounter-table
+name: Wild Hunt Monarch
+creatures:
+  - 1: Wild Hunt Monarch
 ```
 
 

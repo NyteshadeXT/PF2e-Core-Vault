@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/chaotic
   - pf2e/creature/type/undead
   - pf2e/creature/type/water
+  - pf2eMonster
   - pf2e/creature/level/20
 statblock: inline
 name: "Bolti Sorrinson"
@@ -22,12 +23,12 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #192: Worst of All Possible Worlds"
 name: "Bolti Sorrinson"
 level: "Creature 20"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Medium"
-trait_01: "chaotic"
-trait_02: "undead"
-trait_03: "water"
+trait_01: [[chaotic]]
+trait_02: [[undead]]
+trait_03: [[water]]
 modifier: 34
 perception:
   - name: "Perception"
@@ -70,8 +71,14 @@ attacks:
     desc: "`pf2:2`  Bolti makes a melee Strike and compares the attack roll result to the AC of up to three foes, each of whom must be within his melee reach and adjacent to each other. Roll damage only once and apply it to each creature hit. A Great Swipe counts as three attacks for Bolti's multiple attack penalty."
 
   - name: "Grotesque Gift"
-    desc: " (olfactory) Bolti's attacks spatter his targets with rancid flesh and clotted blood. A creature damaged by one of Bolti's Strikes must succeed at a DC 39 Fortitude check save or become [[Conditions/Sickened 1|Sickened 1]] ([[Conditions/Sickened 1|Sickened 2]] on a critical failure)."
+    desc: " (olfactory) Bolti's attacks spatter his targets with rancid flesh and clotted blood. A creature damaged by one of Bolti's Strikes must succeed at a DC 39 Fortitude check save or become [[Conditions/Sickened|Sickened 1]] ([[Conditions/Sickened|Sickened 2]] on a critical failure)."
  
+```
+
+```encounter-table
+name: Bolti Sorrinson
+creatures:
+  - 1: Bolti Sorrinson
 ```
 
 

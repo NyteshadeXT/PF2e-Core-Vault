@@ -4,34 +4,40 @@ title: "Schadenfreude"
 noteType: pf2eSpell
 cssclasses: pf2e,pf2e-spell
 tags:
+  - pf2eSpell
   - spell/level/1
   - trait/concentrate
   - trait/emotion
   - trait/mental
   - trait/common
+  - tradition/arcane
+  - tradition/divine
+  - tradition/occult
+
+  - remaster
 aliases: "Compendium.pf2e.spells-srd.Item.8E97SA9KAWCNdXfO" 
+license: ORC
 ---
-# Schadenfreude  `pf2:r`  
-## Spell 1
-### [[concentrate]][[emotion]][[mental]]
-**Traditions** [[arcane]], [[divine]], [[occult]]
-**Range** 30 feet
-**Targets** the triggering foe
-**Saving Throw**  will
-* * * 
-**Trigger** You critically fail a saving throw against a foe's effect.
+```statblock
+name: "Schadenfreude  `pf2:r`"
+level: "Spell 1"
 
-You distract your enemy with their feeling of smug pleasure when you fail catastrophically. They must attempt a Will save.
-
-* * *
-
-**Critical Success** The creature is unaffected.
-
-**Success** The creature is distracted by its amusement and takes a -1 status penalty on Perception checks and Will saves for 1 round. [[Spell Effects/Spell Effect_ Schadenfreude (Success)|Spell Effect: Schadenfreude (Success)]]
-
-**Failure** The creature is overcome by its amusement and is [[Conditions/Stupefied 1|Stupefied 1]] for 1 round.
-
-**Critical Failure** The creature is lost in its amusement and is [[Conditions/Stupefied 1|Stupefied 2]] for 1 round and [[Conditions/Stunned 1|Stunned 1]].
-
-*Source: Pathfinder Secrets of Magic*
-*OGL*
+trait_01: [[concentrate]]
+trait_02: [[emotion]]
+trait_03: [[mental]]
+layout: Basic Pathfinder 2e Layout
+columns: 1
+columnWidth: x
+abilities_top:
+  - name: ""
+  - name: "Traditions"
+    desc: "arcane, divine, occult"
+  - name: "Range"
+    desc: "30 feet; **Targets** the triggering foe"
+  - name: "Defense"
+    desc: " will"
+abilities_mid:
+  - name: ""
+    desc: "**Trigger** You critically fail a saving throw against a foe's effect.\n* * *\n\nYou distract your enemy with their feeling of smug pleasure when you fail catastrophically. They must attempt a Will save.\n* * *\n\n**Critical Success** The creature is unaffected.\n\n**Success** The creature is distracted by its amusement and takes a -1 status penalty on Perception checks and Will saves for 1 round. [[Spell Effects/Spell Effect_ Schadenfreude (Success)|Spell Effect: Schadenfreude (Success)]]\n\n**Failure** The creature is overcome by its amusement and is [[Conditions/Stupefied|Stupefied 1]] for 1 round.\n\n**Critical Failure** The creature is lost in its amusement and is [[Conditions/Stupefied|Stupefied 2]] for 1 round and [[Conditions/Stunned|Stunned 1]]."
+sourcebook: "_Pathfinder Player Core 2_"
+```

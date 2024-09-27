@@ -36,7 +36,7 @@ Crafted from flawless jade, the guard of this rapier takes the form of a twistin
 
 **Trigger** You fail, but don't critically fail, an attack using the viper rapier
 
-**Effect** The tip of the rapier briefly takes the form of a viper's head, and the blade twists and contorts, biting the target you missed. The target is affected as if successfully poisoned with [[Equipment/Purple Worm Venom|Purple Worm Venom]] (DC 43).
+**Effect** The tip of the rapier briefly takes the form of a viper's head, and the blade twists and contorts, biting the target you missed. The target is affected as if successfully poisoned with [[Equipment/Cave Worm Venom|Purple Worm Venom]] (DC 43).
 
 * * *
 

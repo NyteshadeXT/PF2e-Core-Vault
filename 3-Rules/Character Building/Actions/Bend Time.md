@@ -11,7 +11,7 @@ license: OGL
 ---
 # Bend Time `pf2:0`
 
-### [[occult]]
+### [[3-Rules/Rule References/Occult]]
 
 **Category** interaction; 
 

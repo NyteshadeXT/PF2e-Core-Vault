@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/chaotic
   - pf2e/creature/type/evil
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/15
 statblock: inline
 name: "Ndede"
@@ -22,12 +23,12 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #190: The Choosing"
 name: "Ndede"
 level: "Creature 15"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Medium"
-trait_01: "chaotic"
-trait_02: "evil"
-trait_03: "humanoid"
+trait_01: [[chaotic]]
+trait_02: [[evil]]
+trait_03: [[humanoid]]
 modifier: 25
 perception:
   - name: "Perception"
@@ -54,7 +55,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Stench"
-    desc: " (aura,olfactory) 30 feet. A creature entering the aura or starting its turn in the aura must succeed at a DC 34 Fortitude check save or become [[Conditions/Sickened 1|Sickened 1]] (plus [[Conditions/Slowed 1|Slowed 1]] for as long as it's sickened on a critical failure).\nWhile within the aura, affected creatures take a -2 circumstance penalty to saves against disease and to recover from the sickened condition.\nA creature that succeeds at its save is temporarily immune for 1 minute.\n[[Bestiary Effects/Effect_ Stench|Effect: Stench]]"
+    desc: " (aura,olfactory) 30 feet. A creature entering the aura or starting its turn in the aura must succeed at a DC 34 Fortitude check save or become [[Conditions/Sickened|Sickened 1]] (plus [[Conditions/Slowed|Slowed 1]] for as long as it's sickened on a critical failure).\n\nWhile within the aura, affected creatures take a -2 circumstance penalty to saves against disease and to recover from the sickened condition.\n\nA creature that succeeds at its save is temporarily immune for 1 minute.\n\n[[Bestiary Effects/Effect_ Stench|Effect: Stench]]"
 
 attacks:
   - name: ""
@@ -69,20 +70,26 @@ attacks:
     desc: "DC 36, attack +28; __6th __  _[[Spells/Animated Assault|Animated Assault]]_, _[[Spells/Dominate|Dominate]]_; __5th __  _[[Spells/Clairaudience|Clairaudience (At Will)]]_, _[[Spells/Clairvoyance|Clairvoyance (At Will)]]_, _[[Spells/Telekinetic Haul|Telekinetic Haul]]_, _[[Spells/Telekinetic Maneuver|Telekinetic Maneuver]]_, _[[Spells/Ventriloquism|Ventriloquism (At Will)]]_\n__Cantrips__  __(7th)__ _[[Spells/Ghost Sound|Ghost Sound]]_, _[[Spells/Telekinetic Hand|Mage Hand]]_"
 
   - name: "[[Bestiary Ability Glossary/Change Shape|Change Shape]]"
-    desc: "`pf2:1` (concentrate,occult,polymorph) The popobawa can take on the appearance of a human or a Small or Medium bat. It loses its stench aura while transformed. In human form it also loses its Strikes but can make fist Strikes that deal the same amount of bludgeoning damage as its talon Strike.\n"
+    desc: "`pf2:1` (concentrate,occult,polymorph) The popobawa can take on the appearance of a human or a Small or Medium bat. It loses its stench aura while transformed. In human form it also loses its Strikes but can make fist Strikes that deal the same amount of bludgeoning damage as its talon Strike.\n\n* * *\n"
 
   - name: "Feed on Sorrow"
-    desc: "`pf2:1` (concentrate,healing,occult,vitality) **Frequency** once per round\n**Effect** The popobawa draws strength from the suffering of others. It regains 10 Hit Points for each enemy within 30 feet feet that has one of the following conditions, to a maximum of 40 Hit Points: [[Conditions/Confused|Confused]], [[Conditions/Doomed 1|Doomed]], [[Conditions/Dying 1|Dying]], [[Conditions/Enfeebled 1|Enfeebled]], [[Conditions/Fatigued|Fatigued]], [[Conditions/Frightened 1|Frightened]], [[Conditions/Sickened 1|Sickened]], [[Conditions/Slowed 1|Slowed]], [[Conditions/Stunned 1|Stunned]], [[Conditions/Stupefied 1|Stupefied]], or [[Conditions/Wounded 1|Wounded]]."
+    desc: "`pf2:1` (concentrate,healing,occult,vitality) **Frequency** once per round\n* * *\n\n**Effect** The popobawa draws strength from the suffering of others. It regains 10 Hit Points for each enemy within 30 feet feet that has one of the following conditions, to a maximum of 40 Hit Points: [[Conditions/Confused|Confused]], [[Conditions/Doomed|Doomed]], [[Conditions/Dying|Dying]], [[Conditions/Enfeebled|Enfeebled]], [[Conditions/Fatigued|Fatigued]], [[Conditions/Frightened|Frightened]], [[Conditions/Sickened|Sickened]], [[Conditions/Slowed|Slowed]], [[Conditions/Stunned|Stunned]], [[Conditions/Stupefied|Stupefied]], or [[Conditions/Wounded|Wounded]]."
 
   - name: "Hallucinatory Haunting"
-    desc: "  **Trigger** The popobawa moves an object with [[Spells/Telekinetic Hand|Telekinetic Hand]] or [[Spells/Telekinetic Haul|Telekinetic Haul]], controls a creature with [[Spells/Dominate|Dominate]], or casts [[Spells/Animated Assault|Animated Assault]]\n**Effect** The popobawa casts [[Spells/Ghost Sound|Ghost Sound]] or [[Spells/Ventriloquism|Ventriloquism]], with the sound originating from the target or area of the spell."
+    desc: "  **Trigger** The popobawa moves an object with [[Spells/Telekinetic Hand|Telekinetic Hand]] or [[Spells/Telekinetic Haul|Telekinetic Haul]], controls a creature with [[Spells/Dominate|Dominate]], or casts [[Spells/Animated Assault|Animated Assault]]\n* * *\n\n**Effect** The popobawa casts [[Spells/Ghost Sound|Ghost Sound]] or [[Spells/Ventriloquism|Ventriloquism]], with the sound originating from the target or area of the spell."
 
   - name: "Shameful Loathing"
-    desc: " (curse,emotion,mental,occult) A creature damaged by the popobawa's jaws is overcome with shame and self-hatred and must attempt a DC 36 Will check save.\n**Success** The target is unaffected.\n**Failure** The target becomes [[Conditions/Stupefied 1|Stupefied 1]] until the curse is removed.\n**Critical Failure** As failure, but the target is also [[Conditions/Doomed 1|Doomed 1]]."
+    desc: " (curse,emotion,mental,occult) A creature damaged by the popobawa's jaws is overcome with shame and self-hatred and must attempt a DC 36 Will check save.\n* * *\n\n**Success** The target is unaffected.\n\n**Failure** The target becomes [[Conditions/Stupefied|Stupefied 1]] until the curse is removed.\n\n**Critical Failure** As failure, but the target is also [[Conditions/Doomed|Doomed 1]]."
 
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
     desc: "`pf2:1`  "
  
+```
+
+```encounter-table
+name: Ndede
+creatures:
+  - 1: Ndede
 ```
 
 

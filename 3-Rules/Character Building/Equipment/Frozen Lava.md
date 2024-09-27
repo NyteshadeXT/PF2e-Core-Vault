@@ -14,7 +14,7 @@ license: ORC
 ---
 # Frozen Lava
 ## Item 5
-### [[consumable]][[fire]][[magical]]
+### [[consumable]][[3-Rules/Rule References/Fire]][[3-Rules/Rule References/Magical]]
 
 **Category** other; 
 **Price** 30 gp; 

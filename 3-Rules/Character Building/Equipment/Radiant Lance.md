@@ -18,7 +18,7 @@ license: OGL
 ---
 # Radiant Lance
 ## Item 15
-### [uncommon](uncommon "Uncommon Rarity Trait")[[deadly-d8]][[divine]][[fire]][[holy]][[jousting-d6]][[3-Rules/Character Building/Spells/Light]][[reach]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[deadly-d8]][[divine]][[fire]][[holy]][[jousting-d6]][[light]][[reach]]
 
 |  |  |
 | -- | -- |
@@ -41,7 +41,7 @@ On a hit against an undead creature that is specifically vulnerable to sunlight,
 
 **Success** The undead is unaffected.
 
-**Failure** The undead is [[Conditions/Slowed 1|Slowed 1]] for 1 round.
+**Failure** The undead is [[Conditions/Slowed|Slowed 1]] for 1 round.
 
 **Critical Failure** The undead is slowed 1 for 1 minute.
 

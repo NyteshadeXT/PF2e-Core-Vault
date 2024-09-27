@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/good
   - pf2e/creature/type/humanoid
   - pf2e/creature/type/orc
+  - pf2eMonster
   - pf2e/creature/level/6
 statblock: inline
 name: "Burning Sun Orc (7-8)"
@@ -22,12 +23,12 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Society Scenario #2-10: In Burning Dawn"
 name: "Burning Sun Orc (7-8)"
 level: "Creature 6"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Medium"
-trait_01: "good"
-trait_02: "humanoid"
-trait_03: "orc"
+trait_01: [[good]]
+trait_02: [[humanoid]]
+trait_03: [[orc]]
 modifier: 13
 perception:
   - name: "Perception"
@@ -69,6 +70,12 @@ attacks:
   - name: "Ranged"
     desc: "`pf2:1` Javelin +13 (thrown 30 ft.)\n__Damage__  1d6 + 12 piercing"
  
+```
+
+```encounter-table
+name: Burning Sun Orc (7-8)
+creatures:
+  - 1: Burning Sun Orc (7-8)
 ```
 
 

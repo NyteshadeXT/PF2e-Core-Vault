@@ -27,7 +27,5 @@ license: OGL
 
 You've installed a self-destruct device within your construct companion, which you can trigger with a special device from up to 60 feet away. When you activate the device, your reanimated construct companion explodes, dealing 2d6 fire damage per level to all creatures in a 30-foot radius. Creatures caught in the blast can attempt a Reflex check save, with a DC equal to the higher of your class DC or spell DC.
 
-Leveled Fire Damage
-
 *Source: Pathfinder #180: The Smoking Gun*
 *OGL*

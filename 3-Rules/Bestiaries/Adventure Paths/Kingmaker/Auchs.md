@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/human
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/2
 statblock: inline
 name: "Auchs"
@@ -23,18 +24,18 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Kingmaker"
 name: "Auchs"
 level: "Creature 2"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Medium"
-trait_01: "chaotic"
-trait_02: "evil"
-trait_03: "human"
-trait_04: "humanoid"
+trait_01: [[chaotic]]
+trait_02: [[evil]]
+trait_03: [[human]]
+trait_04: [[humanoid]]
 modifier: 6
 perception:
   - name: "Perception"
     desc: "+6; "
-languages: "Common"
+languages: "Common; (cannot read)"
 skills:
   - name: "Skills"
     desc: "Athletics: +10, Survival: +4"
@@ -68,6 +69,12 @@ attacks:
   - name: "Hit 'Em Hard"
     desc: "`pf2:2`  Auchs unleashes a particularly powerful attack and makes a melee club Strike that counts as two attacks when calculating his multiple attack penalty. If this strike hits, he deals an extra 1d6 points of damage; on a critical hit, the creature struck must succeed at a DC 18 Fortitude check save or be knocked [[Conditions/Prone|Prone]]."
  
+```
+
+```encounter-table
+name: Auchs
+creatures:
+  - 1: Auchs
 ```
 
 

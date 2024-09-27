@@ -15,7 +15,7 @@ license: OGL
 ---
 # Black King
 ## Item 15
-### [rare](rare "Rare Rarity Trait")[[concussive]][[magical]][[scatter-20]][[void]]
+### [rare](rare.md "Rare Rarity Trait")[[concussive]][[3-Rules/Rule References/Magical]][[scatter-20]][[void]]
 
 |  |  |
 | -- | -- |

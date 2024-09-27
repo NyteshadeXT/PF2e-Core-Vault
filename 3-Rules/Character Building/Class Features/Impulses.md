@@ -31,7 +31,7 @@ Similar to spells, many impulses get more powerful as you increase in level. In 
 
 ### **Impulse Attacks and DCs**
 
-An impulse that requires a saving throw uses your kineticist class DC. Some of your impulses require you to attempt an **impulse attack roll** to see how effective they are. Your impulse attack roll uses the same proficiency and attribute modifier as your kineticist class DC. Like a spell attack modifie , your impulse attack modifier uses the following formula: d20 roll + attribute modifier + proficiency bonus + other bonuses + penalties. This means your impulse attack roll is typically 10 lower than your class DC. The [[Conditions/Drained 1|Drained]] condition can reduce your impulse attack rolls and class DCs. You can acquire a _gate attenuator_ to gain a bonus to your impulse attack modifier.
+An impulse that requires a saving throw uses your kineticist class DC. Some of your impulses require you to attempt an **impulse attack roll** to see how effective they are. Your impulse attack roll uses the same proficiency and attribute modifier as your kineticist class DC. Like a spell attack modifier, your impulse attack modifier uses the following formula: d20 roll + attribute modifier + proficiency bonus + other bonuses + penalties. This means your impulse attack roll is typically 10 lower than your class DC. The [[Conditions/Drained|Drained]] condition can reduce your impulse attack rolls and class DCs. You can acquire a _gate attenuator_ to gain a bonus to your impulse attack modifier.
 
 ### **Elemental Blast**
 

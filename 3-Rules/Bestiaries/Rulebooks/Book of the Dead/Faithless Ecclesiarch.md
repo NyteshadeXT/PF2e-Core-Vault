@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/undead
   - pf2e/creature/type/unholy
+  - pf2eMonster
   - pf2e/creature/level/6
 statblock: inline
 name: "Faithless Ecclesiarch"
@@ -22,12 +23,12 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Book of the Dead"
 name: "Faithless Ecclesiarch"
 level: "Creature 6"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Medium"
-trait_01: "evil"
-trait_02: "undead"
-trait_03: "unholy"
+trait_01: [[evil]]
+trait_02: [[undead]]
+trait_03: [[unholy]]
 modifier: 16
 perception:
   - name: "Perception"
@@ -35,7 +36,7 @@ perception:
 languages: "Common, Necril"
 skills:
   - name: "Skills"
-    desc: "Athletics: +11, Deception: +14, Intimidation: +14, Nethys Lore: +14, Religion: +14, Stealth: +13"
+    desc: "Athletics: +11, Deception: +14, Intimidation: +14, Religion: +14, Stealth: +13, Nethys Lore: +14"
 abilityMods: [3, 3, 2, 2, 4, 4]
 speed: 25 feet
 sourcebook: "_Pathfinder Book of the Dead_"
@@ -67,7 +68,7 @@ attacks:
     desc: "`pf2:1` Staff +14 (magical, two-hand d8)\n__Damage__  1d4 + 5 bludgeoning plus heretics-smite"
 
   - name: "Divine Prepared Spells"
-    desc: "DC 0, attack +0; __3rd __  _[[Spells/Levitate|Levitate]]_; __2nd __  _[[Spells/Darkness|Darkness]]_, _[[Spells/Dispel Magic|Dispel Magic]]_, _[[Spells/Resist Energy|Resist Energy]]_; __1st __  _[[Spells/Fear|Fear]]_, _[[Spells/Harm|Harm]]_, _[[Spells/Force Barrage|Magic Missile]]_, _[[Spells/Force Barrage|Magic Missile]]_, _[[Spells/Enfeeble|Ray of Enfeeblement]]_\n__Cantrips__  __(3rd)__ _[[Spells/Void Warp|Chill Touch]]_, _[[Spells/Daze|Daze]]_, _[[Spells/Detect Magic|Detect Magic]]_, _[[Spells/Read Aura|Read Aura]]_, _[[Spells/Shield|Shield]]_"
+    desc: "DC 24, attack +16; __3rd __  _[[Spells/Levitate|Levitate]]_; __2nd __  _[[Spells/Darkness|Darkness]]_, _[[Spells/Dispel Magic|Dispel Magic]]_, _[[Spells/Resist Energy|Resist Energy]]_; __1st __  _[[Spells/Fear|Fear]]_, _[[Spells/Harm|Harm]]_, _[[Spells/Force Barrage|Magic Missile]]_, _[[Spells/Force Barrage|Magic Missile]]_, _[[Spells/Enfeeble|Ray of Enfeeblement]]_\n__Cantrips__  __(3rd)__ _[[Spells/Void Warp|Chill Touch]]_, _[[Spells/Daze|Daze]]_, _[[Spells/Detect Magic|Detect Magic]]_, _[[Spells/Read Aura|Read Aura]]_, _[[Spells/Shield|Shield]]_"
 
   - name: "Cleric Domain Spells"
     desc: "1 Focus Point, DC 24, attack +16; __3rd __  _[[Spells/Cry of Destruction|Cry of Destruction]]_"
@@ -76,8 +77,14 @@ attacks:
     desc: " (divine) While wielding the favored weapon of its former deity (such as a staff for an ex-Nethys herexen), the herexen's Strikes deal an additional 2d6 spirit damage against creatures that can cast divine spells. This damages divine spellcasters who follow the herexen's former faith regardless of their alignment."
 
   - name: "Siphon Faith"
-    desc: "`pf2:r` (divine) **Trigger** A creature fails a saving throw against a spell cast by the faithless ecclesiarch\n**Effect** The faithless ecclesiarch siphons the triggering creature's spiritual energy to fuel their own magic. The triggering creature is [[Conditions/Stupefied 1|Stupefied 1]] for 1 round, and the faithless ecclesiarch regains 1 Focus Point."
+    desc: "`pf2:r` (divine) **Trigger** A creature fails a saving throw against a spell cast by the faithless ecclesiarch\n* * *\n\n**Effect** The faithless ecclesiarch siphons the triggering creature's spiritual energy to fuel their own magic. The triggering creature is [[Conditions/Stupefied|Stupefied 1]] for 1 round, and the faithless ecclesiarch regains 1 Focus Point."
  
+```
+
+```encounter-table
+name: Faithless Ecclesiarch
+creatures:
+  - 1: Faithless Ecclesiarch
 ```
 
 

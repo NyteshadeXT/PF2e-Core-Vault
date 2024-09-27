@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.blood-lords-bestiary.Actor.Eu7KtTDs6ia5ijUK"
 tags:
   - pf2e/creature/type/animal
   - pf2e/creature/type/shadow
+  - pf2eMonster
   - pf2e/creature/level/20
 statblock: inline
 name: "Shadow Worm"
@@ -21,18 +22,19 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #186: Ghost King&#x27;s Rage"
 name: "Shadow Worm"
 level: "Creature 20"
-rare_03: "Rare"
+rare_03: [[Rare]]
 alignment: ""
 size: "grg"
-trait_01: "animal"
-trait_02: "shadow"
+trait_01: [[animal]]
+trait_02: [[shadow]]
 modifier: 33
 perception:
   - name: "Perception"
     desc: "+33; Darkvision, Tremorsense (Imprecise) 100 Feet"
+languages: ""
 skills:
   - name: "Skills"
-    desc: "Athletics: +41, Stealth: +32 (+37 in Dim Light or Darkness)"
+    desc: "Athletics: +41, Stealth: +32"
 abilityMods: [10, 2, 9, -4, 0, 0]
 speed: 40 feet,  burrow 40 feet
 sourcebook: "_Pathfinder #186: Ghost King&#x27;s Rage_"
@@ -44,14 +46,14 @@ hp: 450
 health:
   - name: ""
   - name: HP
-    desc: "450, shadow healing; __Weaknesses__ light 20; __Resistances__ cold 20, void 20"
+    desc: "450, shadow healing; __Immunities__  immobilized; __Weaknesses__ light 20; __Resistances__ cold 20, void 20"
 abilities_top:
   - name: ""
 
 abilities_mid:
   - name: ""
   - name: "Inexorable"
-    desc: "  The shadow worm recovers from the [[Conditions/Paralyzed|Paralyzed]], [[Conditions/Slowed 1|Slowed]], and [[Conditions/Stunned 1|Stunned]] conditions at the end of its turn. It's also immune to penalties to its Speeds and the [[Conditions/Immobilized|Immobilized]] condition, and it ignores difficult terrain and greater difficult terrain."
+    desc: "  The shadow worm recovers from the [[Conditions/Paralyzed|Paralyzed]], [[Conditions/Slowed|Slowed]], and [[Conditions/Stunned|Stunned]] conditions at the end of its turn. It's also immune to penalties to its Speeds and the [[Conditions/Immobilized|Immobilized]] condition, and it ignores difficult terrain and greater difficult terrain."
 
   - name: "Shadow Healing"
     desc: "  As long as a shadow worm is in an area of dim light or darkness, it gains fast healing 20. When affected by a magical shadow effect from anything other than itself, a shadow worm becomes [[Conditions/Quickened|Quickened]] 1 for 1 round."
@@ -69,20 +71,26 @@ attacks:
     desc: "`pf2:1` Body +38 (reach 15 feet)\n__Damage__  3d10 + 20 bludgeoning"
 
   - name: "Breath Weapon"
-    desc: "`pf2:2` (cold,occult,shadow,void) The shadow worm exhales a blast of clinging shadow, dealing 11d6 cold damage and 10d6 void damage to creatures in a 60-foot cone (DC 42 Reflex check). If the cone passes through an area of magical light or targets a creature affected by magical light, Breath Weapon attempts to counteract the light (+34 counteract modifier). The shadow worm can't use Breath Weapon again for 1d4 rounds."
+    desc: "`pf2:2` (cold,occult,shadow,void) The shadow worm exhales a blast of clinging shadow, dealing 11d6 cold damage and 10d6 void damage to creatures in a @Template[cone|distance:60] (DC 42 Reflex check). If the cone passes through an area of magical light or targets a creature affected by magical light, Breath Weapon attempts to counteract the light (+34 counteract modifier). The shadow worm can't use Breath Weapon again for 1d4 rounds."
 
   - name: "Fast Swallow"
-    desc: "`pf2:r`  **Trigger** The shadow worm Grabs a creature\n**Effect** The worm uses Swallow Whole."
+    desc: "`pf2:r`  **Trigger** The shadow worm Grabs a creature\n* * *\n\n**Effect** The worm uses Swallow Whole."
 
   - name: "Rock Tunneler"
     desc: "  A shadow worm can burrow through solid stone at a Speed of 20 feet. It can leave a tunnel if it desires, and it usually does."
 
   - name: "[[Bestiary Ability Glossary/Swallow Whole|Swallow Whole]]"
-    desc: "`pf2:1` (attack) Huge, 3d10 + 15 bludgeoning, Rupture 42\n"
+    desc: "`pf2:1` (attack) Huge, 3d10+15 bludgeoning, Rupture 42\n\n* * *\n"
 
   - name: "Thrash"
     desc: "`pf2:2`  The worm makes a Strike once against each creature in its reach. It can Strike up to once with its jaws and any number of times with its body. Each attack counts toward the worm's multiple attack penalty, but the multiple attack penalty doesn't increase until after it makes all the attacks."
  
+```
+
+```encounter-table
+name: Shadow Worm
+creatures:
+  - 1: Shadow Worm
 ```
 
 

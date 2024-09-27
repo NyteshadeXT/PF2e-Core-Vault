@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/lawful
   - pf2e/creature/type/mutant
+  - pf2eMonster
   - pf2e/creature/level/19
 statblock: inline
 name: "Hermean Mutant"
@@ -23,17 +24,18 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #150: Broken Promises"
 name: "Hermean Mutant"
 level: "Creature 19"
-rare_03: "Rare"
+rare_03: [[Rare]]
 alignment: ""
 size: "Medium"
-trait_01: "aberration"
-trait_02: "evil"
-trait_03: "lawful"
-trait_04: "mutant"
+trait_01: [[aberration]]
+trait_02: [[evil]]
+trait_03: [[lawful]]
+trait_04: [[mutant]]
 modifier: 35
 perception:
   - name: "Perception"
     desc: "+35; Darkvision"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Athletics: +37"
@@ -61,7 +63,7 @@ attacks:
     desc: "`pf2:1` Fist +36 (agile, reach 10 feet)\n__Damage__  6d8 + 10 bludgeoning plus grab"
 
   - name: "[[Bestiary Ability Glossary/Constrict|Constrict]]"
-    desc: "`pf2:1`  4d8 + 10 bludgeoning damage, DC 41 Fortitude check save\n"
+    desc: "`pf2:1`  4d8+10 bludgeoning damage, DC 41 Fortitude check save\n\n* * *\n"
 
   - name: "Grasping Hands"
     desc: "`pf2:2`  The mutant's various hands stretch and reach out in an attempt to grab nearby creatures. The mutant attempts an Athletics check to Grapple all creatures within 10 feet. The mutant's multiple attack penalty doesn't increase until it has made all the Athletics checks that are part of its Grasping Hands. Creatures that are grabbed are pulled to a space adjacent to the mutant. This is forced movement."
@@ -69,6 +71,12 @@ attacks:
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
     desc: "`pf2:1`  "
  
+```
+
+```encounter-table
+name: Hermean Mutant
+creatures:
+  - 1: Hermean Mutant
 ```
 
 

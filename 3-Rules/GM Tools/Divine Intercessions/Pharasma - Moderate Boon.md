@@ -17,7 +17,7 @@ license: OGL
 
 
 
-**Moderate Boon** You gain a greater mastery over the energies of life and death.
+You gain a greater mastery over the energies of life and death.
 
 Your Strikes deal 1 vitality damage to undead.
 

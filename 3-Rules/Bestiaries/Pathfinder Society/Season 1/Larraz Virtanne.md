@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/human
   - pf2e/creature/type/humanoid
   - pf2e/creature/type/orc
+  - pf2eMonster
   - pf2e/creature/level/1
 statblock: inline
 name: "Larraz Virtanne"
@@ -23,13 +24,13 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Society Scenario #1-03: Escaping the Grave"
 name: "Larraz Virtanne"
 level: "Creature 1"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Medium"
-trait_01: "good"
-trait_02: "human"
-trait_03: "humanoid"
-trait_04: "orc"
+trait_01: [[good]]
+trait_02: [[human]]
+trait_03: [[humanoid]]
+trait_04: [[orc]]
 modifier: 8
 perception:
   - name: "Perception"
@@ -37,7 +38,7 @@ perception:
 languages: "Common, Kelish, Orcish, Wildsong"
 skills:
   - name: "Skills"
-    desc: "Athletics: +5, Games Lore: +4, Medicine: +6, Nature: +6, Survival: +6"
+    desc: "Athletics: +5, Medicine: +6, Nature: +6, Survival: +6, Games Lore: +4"
 abilityMods: [2, 2, 2, 1, 3, 0]
 speed: 25 feet
 sourcebook: "_Pathfinder Society Scenario #1-03: Escaping the Grave_"
@@ -74,6 +75,12 @@ attacks:
   - name: "Druid Order Spells"
     desc: "1 Focus Point, DC 16, attack +6; __1st __ (1 slots) _[[Spells/Heal Animal|Heal Animal]]_"
  
+```
+
+```encounter-table
+name: Larraz Virtanne
+creatures:
+  - 1: Larraz Virtanne
 ```
 
 

@@ -147,19 +147,19 @@ Some of your spells require you to attempt a spell attack to see how effective t
 
 ### **Heightening Spells**
 
-When you get spell slots of 2nd rank and higher, you can fill those slots with stronger versions of lower-rank spells. This increases the spell’s rank, heightening it to match the spell slot. Many spells have specific improvements when they are heightened to certain ranks.
+When you get spell slots of 2nd rank and higher, you can fill those slots with stronger versions of lower-rank spells. This increases the spell's rank, heightening it to match the spell slot. Many spells have specific improvements when they are heightened to certain ranks.
 
 ### **Cantrips**
 
-Some of your spells are cantrips. A cantrip is a special type of spell that doesn’t use spell slots. You can cast a cantrip at will, any number of times per day. A cantrip is always automatically heightened to half your level rounded up— this is usually equal to the highest rank of wizard spell slot you have. For example, as a 1st-level wizard, your cantrips are 1st-rank spells, and as a 5th-level wizard, your cantrips are 3rd-rank spells.
+Some of your spells are cantrips. A cantrip is a special type of spell that doesn't use spell slots. You can cast a cantrip at will, any number of times per day. A cantrip is always automatically heightened to half your level rounded up— this is usually equal to the highest rank of wizard spell slot you have. For example, as a 1st-level wizard, your cantrips are 1st-rank spells, and as a 5th-level wizard, your cantrips are 3rd-rank spells.
 
 ### **Spellbook**
 
-Every arcane spell has a written version, which you record in your personalized book of spells. You start with a spellbook worth 10 sp or less (page 292), which you receive for free and must study each day to prepare your spells. Your spellbook’s form and name are up to you. It might be a musty, leather-bound tome or an assortment of thin metal disks connected to a brass ring; its name might be esoteric, like _The Tome of Silent Shadows_ or something more academic, like _Advanced Pyromantic Applications of Jalmeri Elemental Theory_.
+Every arcane spell has a written version, which you record in your personalized book of spells. You start with a spellbook worth 10 sp or less (page 292), which you receive for free and must study each day to prepare your spells. Your spellbook's form and name are up to you. It might be a musty, leather-bound tome or an assortment of thin metal disks connected to a brass ring; its name might be esoteric, like _The Tome of Silent Shadows_ or something more academic, like _Advanced Pyromantic Applications of Jalmeri Elemental Theory_.
 
 The spellbook contains your choice of 10 arcane cantrips and five 1st-rank arcane spells. You choose these from the common spells on the arcane spell list or from other arcane spells you gain access to. You also add two 1st-rank spells from the curriculum of your arcane school (except in the case of the school of unified magical theory, as described in that school).
 
-Each time you gain a level, you add two arcane spells to your spellbook, of any spell rank for which you have spell slots, chosen from common spells of your tradition or others you gain access to and learn via Learn a Spell. When you gain spell slots of a new rank, you also add an additional spell from your school’s curriculum (unless it’s the school of unified magical theory).
+Each time you gain a level, you add two arcane spells to your spellbook, of any spell rank for which you have spell slots, chosen from common spells of your tradition or others you gain access to and learn via Learn a Spell. When you gain spell slots of a new rank, you also add an additional spell from your school's curriculum (unless it's the school of unified magical theory).
 
   
 
@@ -305,7 +305,7 @@ Your mind is simply too complex and sophisticated to be tampered with. Your prof
 
 ## Archwizard's SpellcraftLevel 19
 
-You command the most potent arcane magic and can cast a spell of truly incredible power. You gain a single 10th-rank spell slot and can prepare a spell in that slot using wizard spellcasting. Unlike with other spell slots, you can’t use 10th-rank slots with abilities that give you more spell slots or that let you cast spells without expending spell slots. You don’t gain more 10th-rank spells as you level up, though you can take the [[Feats/Archwizard's Might|Archwizard's Might]] feat to gain a second slot.
+You command the most potent arcane magic and can cast a spell of truly incredible power. You gain a single 10th-rank spell slot and can prepare a spell in that slot using wizard spellcasting. Unlike with other spell slots, you can't use 10th-rank slots with abilities that give you more spell slots or that let you cast spells without expending spell slots. You don't gain more 10th-rank spells as you level up, though you can take the [[Feats/Archwizard's Might|Archwizard's Might]] feat to gain a second slot.
 
 ## Legendary SpellcasterLevel 19
 

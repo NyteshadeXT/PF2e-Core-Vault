@@ -10,6 +10,7 @@ tags:
   - pf2e/creature/type/hag
   - pf2e/creature/type/humanoid
   - pf2e/creature/type/unholy
+  - pf2eMonster
   - pf2e/creature/level/13
 statblock: inline
 name: "Skarja"
@@ -24,14 +25,14 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #153: Life&#x27;s Long Shadows"
 name: "Skarja"
 level: "Creature 13"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Medium"
-trait_01: "evil"
-trait_02: "fiend"
-trait_03: "hag"
-trait_04: "humanoid"
-trait_05: "unholy"
+trait_01: [[evil]]
+trait_02: [[fiend]]
+trait_03: [[hag]]
+trait_04: [[humanoid]]
+trait_05: [[unholy]]
 modifier: 25
 perception:
   - name: "Perception"
@@ -57,7 +58,7 @@ abilities_top:
   - name: "Items"
     desc: "[[Equipment/Skarja's Heartstone|Skarja's Heartstone]]"
   - name: "[[Bestiary Ability Glossary/Coven|Coven]]"
-    desc: " (mental,occult) Skarja adds [[Spells/Dominate|Dominate]], [[Spells/Nightmare|Nightmare]], [[Spells/Scrying|Scrying]], and [[Spells/Spellwrack|Spellwrack]] to her coven's spells.\n"
+    desc: " (mental,occult) Skarja adds [[Spells/Dominate|Dominate]], [[Spells/Nightmare|Nightmare]], [[Spells/Scrying|Scrying]], and [[Spells/Spellwrack|Spellwrack]] to her coven's spells.\n\n* * *\n"
 
   - name: "Nightmare Rider"
     desc: "  When Skarja rides a [[Bestiary 1/Nightmare|Nightmare]], the nightmare also gains her status bonus to saves against magic, and both the hag and rider benefit when Skarja uses her [[Equipment/Skarja's Heartstone|Heartstone's]] [[Spells/Ethereal Jaunt|Ethereal Jaunt]] innate spell."
@@ -83,17 +84,23 @@ attacks:
     desc: "_[[Spells/Control Weather|Control Weather]]_"
 
   - name: "Abyssal Plague"
-    desc: " (disease) A creature can't recover from the [[Conditions/Drained 1|Drained]] condition until Abyssal plague is cured\n**Saving Throw** DC 33 Fortitude check\n**Stage 1** [[Conditions/Drained 1|Drained 1]] (1 day)\n**Stage 2** drained increases by 2 (1 day)"
+    desc: " (disease) A creature can't recover from the [[Conditions/Drained|Drained]] condition until Abyssal plague is cured\n\n**Saving Throw** DC 33 Fortitude check\n\n**Stage 1** [[Conditions/Drained|Drained 1]] (1 day)\n\n**Stage 2** drained increases by 2 (1 day)"
 
   - name: "Change Shape"
     desc: "`pf2:1` (concentrate,occult,polymorph) Skarja can take on the appearance of any Medium female humanoid. This doesn't change her Speed or her attack or damage bonuses with her Strikes, but might change the damage type her [[Actions/Strike|Strikes]] deal (typically to bludgeoning)."
 
   - name: "Dream Haunting"
-    desc: " (mental,occult) If Skarja is ethereal and hovering over a sleeping chaotic or evil creature, she can ride the victim's back until dawn. The creature endures tormenting dreams as Skarja casts [[Spells/Nightmare|Nightmare]] on it, and is exposed to Abyssal Plague.\nAny [[Conditions/Drained 1|Drained]] condition caused by dream haunting is cumulative. Only an ethereal being can confront the night hag and stop her dream haunting."
+    desc: " (mental,occult) If Skarja is ethereal and hovering over a sleeping chaotic or evil creature, she can ride the victim's back until dawn. The creature endures tormenting dreams as Skarja casts [[Spells/Nightmare|Nightmare]] on it, and is exposed to Abyssal Plague.\n\nAny [[Conditions/Drained|Drained]] condition caused by dream haunting is cumulative. Only an ethereal being can confront the night hag and stop her dream haunting."
 
   - name: "Spell Ambush"
     desc: "  A creature [[Conditions/Off-Guard|Off-Guard]] to the night hag takes a -2 circumstance penalty to checks and DCs to defend against her spells."
  
+```
+
+```encounter-table
+name: Skarja
+creatures:
+  - 1: Skarja
 ```
 
 

@@ -17,9 +17,9 @@ license: OGL
 
 
 
-**Prerequisites** ki spells
+**Prerequisites** Qi Spells
 * * *
-You can read the presence of ki in your area. You gain imprecise lifesense out to a range of 30 feet.
+You can read the presence of qi in your area. You gain imprecise lifesense out to a range of 30 feet.
 
 *Source: Pathfinder #167: Ready? Fight!*
 *OGL*

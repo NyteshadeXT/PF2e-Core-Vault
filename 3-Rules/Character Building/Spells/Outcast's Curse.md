@@ -4,6 +4,7 @@ title: "Outcast's Curse"
 noteType: pf2eSpell
 cssclasses: pf2e,pf2e-spell
 tags:
+  - pf2eSpell
   - spell/level/4
   - trait/concentrate
   - trait/curse
@@ -11,28 +12,36 @@ tags:
   - trait/mental
   - trait/misfortune
   - trait/common
+  - tradition/arcane
+  - tradition/divine
+  - tradition/occult
+
   - remaster
 aliases: "Compendium.pf2e.spells-srd.Item.KSAEhNfZyXMO7Z7V" 
+license: ORC
 ---
-# Outcast's Curse  `pf2:2`  
-## Spell 4
-### [[concentrate]][[curse]][[manipulate]][[mental]][[misfortune]]
-**Traditions** [[arcane]], [[divine]], [[occult]]
-**Range** touch
-**Targets** 1 creature
-**Saving Throw**  will
-* * * 
-You afflict the target with a curse that makes its presence abrasive and off-putting. The target must attempt a Will save.
+```statblock
+name: "Outcast's Curse  `pf2:2`"
+level: "Spell 4"
 
-* * *
-
-**Critical Success** The target is unaffected.
-
-**Success** For 10 minutes, the target must roll twice and use the worse result whenever attempting a Deception, Diplomacy, Intimidation, or Performance check, and creatures they encounter have an initial attitude toward them of one step worse (for instance, [[Conditions/Unfriendly|Unfriendly]] instead of [[Conditions/Indifferent|Indifferent]]).
-
-**Failure** As success, but the effect is permanent.
-
-**Critical Failure** As failure, and creatures that the target encounters have an initial attitude toward them of two steps worse.
-
-*Source: Pathfinder Player Core*
-*ORC*
+trait_01: [[concentrate]]
+trait_02: [[curse]]
+trait_03: [[manipulate]]
+trait_04: [[mental]]
+trait_05: [[misfortune]]
+layout: Basic Pathfinder 2e Layout
+columns: 1
+columnWidth: x
+abilities_top:
+  - name: ""
+  - name: "Traditions"
+    desc: "arcane, divine, occult"
+  - name: "Range"
+    desc: "touch; **Targets** 1 creature"
+  - name: "Defense"
+    desc: " will"
+abilities_mid:
+  - name: ""
+    desc: "You afflict the target with a curse that makes its presence abrasive and off-putting. The target must attempt a Will save.\n* * *\n\n**Critical Success** The target is unaffected.\n\n**Success** For 10 minutes, the target must roll twice and use the worse result whenever attempting a Deception, Diplomacy, Intimidation, or Performance check, and creatures they encounter have an initial attitude toward them of one step worse (for instance, [[Conditions/Unfriendly|Unfriendly]] instead of [[Conditions/Indifferent|Indifferent]]).\n\n**Failure** As success, but the effect is permanent.\n\n**Critical Failure** As failure, and creatures that the target encounters have an initial attitude toward them of two steps worse."
+sourcebook: "_Pathfinder Player Core_"
+```

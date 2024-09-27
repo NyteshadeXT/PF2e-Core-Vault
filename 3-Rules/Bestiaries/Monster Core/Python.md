@@ -6,6 +6,7 @@ cssClasses: pf2e
 aliases: "Compendium.pf2e.pathfinder-monster-core.Actor.Yadztw8CmYuWfA7k" 
 tags:
   - pf2e/creature/type/animal
+  - pf2eMonster
   - pf2e/creature/level/1
   - remaster
 statblock: inline
@@ -25,7 +26,7 @@ level: "Creature 1"
 
 alignment: ""
 size: "Medium"
-trait_01: "animal"
+trait_01: [[animal]]
 modifier: 6
 perception:
   - name: "Perception"
@@ -64,11 +65,17 @@ attacks:
     desc: "`pf2:1`  1d8 bludgeoning, DC 17 Fortitude check\n\n* * *\n"
 
   - name: "Wrap in Coils"
-    desc: "`pf2:1`  **Requirements** A Medium or smaller creature is [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]] in the python's jaws.\n* * *\n\n**Effect** The ball python moves the creature into its coils, freeing its jaws to make attacks, then uses Constrict against the creature. The python's coils can hold one creature."
+    desc: "`pf2:1`  **Requirements** A Medium or smaller creature is [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]] in the python's jaws.\n* * *\n\n**Effect** The python moves the creature into its coils, freeing its jaws to make attacks, then uses Constrict against the creature. The python's coils can hold one creature."
 
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
     desc: "`pf2:1`  "
  
+```
+
+```encounter-table
+name: Python
+creatures:
+  - 1: Python
 ```
 
 

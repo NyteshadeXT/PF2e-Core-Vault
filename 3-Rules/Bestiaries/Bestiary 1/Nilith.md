@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.pathfinder-bestiary.Actor.PfcS6WzhMGzds5Wf"
 tags:
   - pf2e/creature/type/aberration
   - pf2e/creature/type/evil
+  - pf2eMonster
   - pf2e/creature/level/10
 statblock: inline
 name: "Nilith"
@@ -25,13 +26,13 @@ level: "Creature 10"
 
 alignment: ""
 size: "Medium"
-trait_01: "aberration"
-trait_02: "evil"
+trait_01: [[aberration]]
+trait_02: [[evil]]
 modifier: 19
 perception:
   - name: "Perception"
     desc: "+19; Darkvision"
-languages: "Aklo, Common"
+languages: "Aklo, Common; telepathy 100 feet"
 skills:
   - name: "Skills"
     desc: "Acrobatics: +21, Athletics: +17, Intimidation: +23, Occultism: +19, Stealth: +21, Survival: +17"
@@ -65,11 +66,17 @@ attacks:
     desc: "DC 29, attack +21; __5th __  _[[Spells/Hallucination|Hallucination]]_, _[[Spells/Mind Probe|Mind Probe]]_; __4th __  _[[Spells/Flicker|Blink]]_, _[[Spells/Confusion|Confusion]]_, _[[Spells/Wave of Despair|Crushing Despair]]_, _[[Spells/Dream Message|Dream Message]]_, _[[Spells/Invisibility|Invisibility (At Will) (Self Only)]]_, _[[Spells/Nightmare|Nightmare]]_; __3rd __  _[[Spells/Mind Reading|Mind Reading (At Will)]]_\n__Cantrips__  __(5th)__ _[[Spells/Telekinetic Hand|Mage Hand]]_, _[[Spells/Message|Message]]_, _[[Spells/Read Aura|Read Aura]]_, _[[Spells/Shield|Shield]]_"
 
   - name: "Mind Crush"
-    desc: "`pf2:1` (mental,occult) **Requirements** The nilith has a creature [[Conditions/Grabbed|Grabbed]].\n**Effect** The nilith reaches into the mind of the grabbed creature and implants disjointed images of the victim's worst fears and nightmares. The grabbed creature takes 6d6 mental damage (DC 31 Will check save). On a critical failure, the target is also affected as though by [[Spells/Never Mind|Never Mind]], and it must attempt a second Will save against that effect."
+    desc: "`pf2:1` (mental,occult) **Requirements** The nilith has a creature [[Conditions/Grabbed|Grabbed]].\n* * *\n\n**Effect** The nilith reaches into the mind of the grabbed creature and implants disjointed images of the victim's worst fears and nightmares. The grabbed creature takes 6d6 mental damage (DC 31 Will check save). On a critical failure, the target is also affected as though by [[Spells/Never Mind|Never Mind]], and it must attempt a second Will save against that effect."
 
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
     desc: "`pf2:1`  "
  
+```
+
+```encounter-table
+name: Nilith
+creatures:
+  - 1: Nilith
 ```
 
 

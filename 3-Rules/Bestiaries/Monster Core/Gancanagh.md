@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/azata
   - pf2e/creature/type/celestial
   - pf2e/creature/type/holy
+  - pf2eMonster
   - pf2e/creature/level/4
   - remaster
 statblock: inline
@@ -27,9 +28,9 @@ level: "Creature 4"
 
 alignment: ""
 size: "Medium"
-trait_01: "azata"
-trait_02: "celestial"
-trait_03: "holy"
+trait_01: [[azata]]
+trait_02: [[celestial]]
+trait_03: [[holy]]
 modifier: 11
 perception:
   - name: "Perception"
@@ -74,6 +75,12 @@ attacks:
   - name: "Invigorating Passion"
     desc: "`pf2:2` (divine,emotion,mental) The gancanagh embraces or kisses a willing creature adjacent to them, infusing that creature with their invigorating passion. For 10 minutes, the creature gains a +1 status bonus to attack rolls and 10 temporary Hit Points. After that time, the target becomes [[Conditions/Fatigued|Fatigued]] for 10 minutes unless it succeeds at a DC 21 Fortitude check save.\n\n[[Bestiary Effects/Effect_ Invigorating Passion|Effect: Invigorating Passion]]"
  
+```
+
+```encounter-table
+name: Gancanagh
+creatures:
+  - 1: Gancanagh
 ```
 
 

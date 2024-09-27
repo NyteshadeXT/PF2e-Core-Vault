@@ -12,7 +12,7 @@ license: ORC
 ---
 # Wizard Weapon Expertise
 ## Feat 11
-### [[wizard]]
+### [[3-Rules/trait_reference/wizard]]
 
 **Category** classfeature; 
 

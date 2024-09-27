@@ -7,8 +7,9 @@ tags:
   - trait/flourish
   - trait/common
   - category/class
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.6CE1nVGxt192AUGk"
-license: OGL
+license: ORC
 ---
 # Scout's Charge `pf2:2`
 ## Feat 4
@@ -22,7 +23,7 @@ license: OGL
 * * *
 You meander around unpredictably, and then ambush your opponents without warning.
 
-Choose one enemy. Stride, [[Actions/Feint|Feint]] against that opponent, and then make a Strike against that foe. For your Feint, you can attempt a Stealth check instead of the Deception check that's usually required, because you use the terrain around you to catch your foe off-guard.
+Choose one enemy. Stride, [[Actions/Feint|Feint]] against that opponent, and then make a Strike against it. For your Feint, you can attempt a Stealth check instead of the Deception check that's usually required, using the terrain around you to surprise your foe.
 
-*Source: Pathfinder Advanced Player's Guide*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

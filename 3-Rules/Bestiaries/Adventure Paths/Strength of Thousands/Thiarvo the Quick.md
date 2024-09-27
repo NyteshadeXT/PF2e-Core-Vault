@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/halfling
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/9
 statblock: inline
 name: "Thiarvo the Quick"
@@ -23,13 +24,13 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #171: Hurricane&#x27;s Howl"
 name: "Thiarvo the Quick"
 level: "Creature 9"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Small"
-trait_01: "chaotic"
-trait_02: "evil"
-trait_03: "halfling"
-trait_04: "humanoid"
+trait_01: [[chaotic]]
+trait_02: [[evil]]
+trait_03: [[halfling]]
+trait_04: [[humanoid]]
 modifier: 20
 perception:
   - name: "Perception"
@@ -57,7 +58,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Halfling Luck"
-    desc: "`pf2:r` (fortune) **Frequency** once per day\n**Trigger** Thiarvo fails a skill check or a saving throw\n**Effect** Thiarvo rerolls the triggering check and must use the new result."
+    desc: "`pf2:r` (fortune) **Frequency** once per day\n\n**Trigger** Thiarvo fails a skill check or a saving throw\n* * *\n\n**Effect** Thiarvo rerolls the triggering check and must use the new result."
 
 attacks:
   - name: ""
@@ -74,6 +75,12 @@ attacks:
   - name: "Slippery Halfling"
     desc: "  Thiarvo ignores difficult terrain from trees, foliage, rubble, and undergrowth."
  
+```
+
+```encounter-table
+name: Thiarvo the Quick
+creatures:
+  - 1: Thiarvo the Quick
 ```
 
 

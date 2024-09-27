@@ -10,6 +10,7 @@ tags:
   - pf2e/creature/type/undead
   - pf2e/creature/type/unholy
   - pf2e/creature/type/zombie
+  - pf2eMonster
   - pf2e/creature/level/2
 statblock: inline
 name: "Zombie Brute (PFS 1-18)"
@@ -27,15 +28,16 @@ level: "Creature 2"
 
 alignment: ""
 size: "Large"
-trait_01: "evil"
-trait_02: "mindless"
-trait_03: "undead"
-trait_04: "unholy"
-trait_05: "zombie"
+trait_01: [[evil]]
+trait_02: [[mindless]]
+trait_03: [[undead]]
+trait_04: [[unholy]]
+trait_05: [[zombie]]
 modifier: 4
 perception:
   - name: "Perception"
     desc: "+4; Darkvision"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Athletics: +9"
@@ -55,12 +57,12 @@ abilities_top:
   - name: ""
 
   - name: "Slow"
-    desc: "  A zombie is permanently [[Conditions/Slowed 1|Slowed 1]] and can't use reactions."
+    desc: "  A zombie is permanently [[Conditions/Slowed|Slowed 1]] and can't use reactions."
 
 abilities_mid:
   - name: ""
   - name: "[[Creature Family Ability Glossary/(Zombie) Rotting Aura|Rotting Aura]]"
-    desc: " (aura,disease) 10 feet. The zombie emits an aura of rot and disease that causes wounds to fester and turn sour.\nAny living creature that starts its turn within 10 feet of the zombie and is not at full Hit Points takes 1d6 damage as its wounds fester. Creatures that take a critical hit from the zombie also take this damage immediately."
+    desc: " (aura,disease) 10 feet. The zombie emits an aura of rot and disease that causes wounds to fester and turn sour.\n\nAny living creature that starts its turn within 10 feet of the zombie and is not at full Hit Points takes 1d6 damage as its wounds fester. Creatures that take a critical hit from the zombie also take this damage immediately."
 
 attacks:
   - name: ""
@@ -68,6 +70,12 @@ attacks:
   - name: "Melee"
     desc: "`pf2:1` Fist +11 (reach 10 feet)\n__Damage__  1d12 + 5 bludgeoning plus improved-push"
  
+```
+
+```encounter-table
+name: Zombie Brute (PFS 1-18)
+creatures:
+  - 1: Zombie Brute (PFS 1-18)
 ```
 
 

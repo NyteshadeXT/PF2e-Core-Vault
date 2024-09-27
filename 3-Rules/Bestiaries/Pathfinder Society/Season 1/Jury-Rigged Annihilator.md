@@ -6,6 +6,7 @@ tags:
   - mechanical
   - technological
   - trap
+  - pf2eHazard
   - complex
 source: Pathfinder Society Scenario #1-24: Lightning Strikes, Stars Fall
 aliases: "Compendium.pf2e.pfs-season-1-bestiary.Actor.UGB9w4JLH8GFhew7" 
@@ -23,15 +24,15 @@ name: "Jury-Rigged Annihilator"
 level: "Hazard 3"
 
 trait_06: "Complex"
-trait_01: "mechanical"
-trait_02: "technological"
-trait_03: "trap"
+trait_01: [[mechanical]]
+trait_02: [[technological]]
+trait_03: [[trap]]
 modifier: 10
 sourcebook: "_Pathfinder Society Scenario #1-24: Lightning Strikes, Stars Fall_"
 ac: 22
 armorclass:
   - name: AC
-    desc: "22; __Fort__ +12, __Ref__ +6, __Will__ +0"
+    desc: "22; __Fort__ +12, __Ref__ +6, "
 hp: 40
 health:
   - name: ""
@@ -44,7 +45,7 @@ perception:
 abilities_top:
   - name: ""
   - name: "Description"
-    desc: "A gargantuan scorpion-like robot, covered in signs of damage, has been bolted into the canyon's rock walls.\n**Integrated Chain Gun** Hardness 10, HP 40 (BT 20) per integrated chain gun\n**Plasma Lance** Hardness 10, Plasma Lance HP 20 (BT 10)"
+    desc: "A gargantuan scorpion-like robot, covered in signs of damage, has been bolted into the canyon's rock walls.\n* * *\n\n**Integrated Chain Gun** Hardness 10, HP 40 (BT 20) per integrated chain gun\n\n**Plasma Lance** Hardness 10, Plasma Lance HP 20 (BT 10)"
 abilities_mid:
   - name: ""
   - name: "Disable"
@@ -55,10 +56,16 @@ attacks:
     desc: "Integrated Chain Gun +12 (fatal d8, range 200 feet) "
 
   - name: "Plasma Lance"
-    desc: "action (fire) The scorpion-like tail of the annihilator projects a 80-foot line of burning plasma.\nCreatures in the area take 4d6 fire damage (DC 23 Reflex check). The annihilator can't use the plasma lance again for 1d4 rounds."
+    desc: "action (fire) The scorpion-like tail of the annihilator projects a @Template[line|distance:80] of burning plasma.\n\nCreatures in the area take 4d6 fire damage (DC 23 Reflex check). The annihilator can't use the plasma lance again for 1d4 rounds."
 
   - name: "Routine"
     desc: "(2 Actions) When the plasma lance is ready, the annihilator uses it to attack as many PCs as it can, otherwise it attacks with its two integrated chain guns while the plasma lance recharges, spending one action for each of its two integrated chain guns that is still functional. This trap doesn't take a multiple attack penalty. If Synthetic Khismar is destroyed, the annihilator attacks as many creatures as possible."
 
+```
+
+```encounter-table
+name: Jury-Rigged Annihilator
+creatures:
+  - 1: Jury-Rigged Annihilator
 ```
 

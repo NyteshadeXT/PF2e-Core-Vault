@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.pfs-season-1-bestiary.Actor.F4LvpkwzeT7spRX9"
 tags:
   - pf2e/creature/type/human
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/1
 statblock: inline
 name: "Harsus (1-2)"
@@ -24,8 +25,8 @@ level: "Creature 1"
 
 alignment: ""
 size: "Medium"
-trait_01: "human"
-trait_02: "humanoid"
+trait_01: [[human]]
+trait_02: [[humanoid]]
 modifier: 4
 perception:
   - name: "Perception"
@@ -67,6 +68,12 @@ attacks:
   - name: "Cleric Domain Spells"
     desc: "1 Focus Point, DC 16, attack +6; __1st __ (1 slots) _[[Spells/Sudden Shift|Sudden Shift]]_"
  
+```
+
+```encounter-table
+name: Harsus (1-2)
+creatures:
+  - 1: Harsus (1-2)
 ```
 
 

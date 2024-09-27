@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.outlaws-of-alkenstar-bestiary.Actor.YsSpSUB1jeLSifFg"
 tags:
   - pf2e/creature/type/aberration
   - pf2e/creature/type/chaotic
+  - pf2eMonster
   - pf2e/creature/level/7
 statblock: inline
 name: "I"
@@ -21,19 +22,19 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #179: Cradle of Quartz"
 name: "I"
 level: "Creature 7"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Medium"
-trait_01: "aberration"
-trait_02: "chaotic"
+trait_01: [[aberration]]
+trait_02: [[chaotic]]
 modifier: 19
 perception:
   - name: "Perception"
     desc: "+19; Darkvision, Tremorsense (Imprecise) 30 Feet"
-languages: "Common, Kholo, Osiriani"
+languages: "Common, Kholo, Osiriani; can&#x27;t speak any language; telepathy 100 feet"
 skills:
   - name: "Skills"
-    desc: "Arcana: +16, Athletics: +16, Diplomacy: +14, Spellscar Lore: +19, Thievery: +16"
+    desc: "Arcana: +16, Athletics: +16, Diplomacy: +14, Thievery: +16, Spellscar Lore: +19"
 abilityMods: [4, 1, 2, 4, 2, 1]
 speed: 25 feet,  burrow 25 feet
 sourcebook: "_Pathfinder #179: Cradle of Quartz_"
@@ -65,10 +66,10 @@ attacks:
     desc: "DC 25, attack +17; __3rd __  _[[Spells/Noxious Vapors|Noxious Vapors]]_, _[[Spells/Shifting Sand|Shifting Sand]]_; __1st __  _[[Spells/Shockwave|Shockwave (At Will)]]_"
 
   - name: "[[Bestiary Ability Glossary/Constrict|Constrict]]"
-    desc: "`pf2:1`  1d8 + 8 bludgeoning, DC 22 Fortitude check\n_Note: A DC was not provided for this ability by Paizo. The DC present here is a moderate DC for the creature level according to the Gamemastery Guide creature building Tables._\n"
+    desc: "`pf2:1`  1d8+8 bludgeoning, DC 22 Fortitude check\n* * *\n\n_Note: A DC was not provided for this ability by Paizo. The DC present here is a moderate DC for the creature level according to the Gamemastery Guide creature building Tables._\n\n* * *\n"
 
   - name: "I Venom"
-    desc: " (poison) **Saving Throw** DC 25 Fortitude check\n**Maximum Duration** 6 rounds\n**Stage 1** 2d6 poison damage and [[Conditions/Enfeebled 1|Enfeebled 1]] (1 round)\n**Stage 2** 2d6 poison damage, enfeebled 1, and [[Conditions/Off-Guard|Off-Guard]] (1 round)\n**Stage 3** 2d6 poison damage, [[Conditions/Enfeebled 1|Enfeebled 2]], and off-guard (1 round)"
+    desc: " (poison) **Saving Throw** DC 25 Fortitude check\n* * *\n\n**Maximum Duration** 6 rounds\n\n**Stage 1** 2d6 poison damage and [[Conditions/Enfeebled|Enfeebled 1]] (1 round)\n\n**Stage 2** 2d6 poison damage, enfeebled 1, and [[Conditions/Off-Guard|Off-Guard]] (1 round)\n\n**Stage 3** 2d6 poison damage, [[Conditions/Enfeebled|Enfeebled 2]], and off-guard (1 round)"
 
   - name: "Writhing Arms"
     desc: "`pf2:2`  I makes up to four Strikes with different arms, each against a different target. Each attack counts separately for their multiple attack penalty, but the penalty doesn't increase until all attacks have been made. If I subsequently uses the [[Bestiary Ability Glossary/Grab|Grab]] action, they can Grab any number of creatures they hit with Writhing Arms."
@@ -76,6 +77,12 @@ attacks:
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
     desc: "`pf2:1`  "
  
+```
+
+```encounter-table
+name: I
+creatures:
+  - 1: I
 ```
 
 

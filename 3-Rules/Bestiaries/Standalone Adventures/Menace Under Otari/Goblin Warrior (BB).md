@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.menace-under-otari-bestiary.Actor.jVZRROs0GzDjVrgi"
 tags:
   - pf2e/creature/type/goblin
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/-1
   - remaster
 statblock: inline
@@ -25,12 +26,13 @@ level: "Creature -1"
 
 alignment: ""
 size: "Small"
-trait_01: "goblin"
-trait_02: "humanoid"
+trait_01: [[goblin]]
+trait_02: [[humanoid]]
 modifier: 2
 perception:
   - name: "Perception"
     desc: "+2; Darkvision"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Acrobatics: +5, Athletics: +2, Nature: +1, Stealth: +5"
@@ -64,6 +66,12 @@ attacks:
   - name: "Ranged"
     desc: "`pf2:1` Shortbow +7 (deadly d10, range increment 60 feet, reload 0)\n__Damage__  1d6 piercing"
  
+```
+
+```encounter-table
+name: Goblin Warrior (BB)
+creatures:
+  - 1: Goblin Warrior (BB)
 ```
 
 

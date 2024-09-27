@@ -6,12 +6,13 @@ tags:
   - trait/magical
   - trait/common
   - category/defensive
+  - remaster
 aliases: "Compendium.pf2e.actionspf2e.Item.xGqOIheAOV12RGU4"
-license: OGL
+license: ORC
 ---
 # Dueling Counter `pf2:r`
 
-### [[magical]]
+### [[3-Rules/Rule References/Magical]]
 
 **Category** defensive; 
 
@@ -26,5 +27,5 @@ license: OGL
 
 Expend a prepared spell or spell slot. You then attempt to counteract the triggering spell with the expended spell.
 
-*Source: Pathfinder Gamemastery Guide*
-*OGL*
+*Source: Pathfinder GM Core*
+*ORC*

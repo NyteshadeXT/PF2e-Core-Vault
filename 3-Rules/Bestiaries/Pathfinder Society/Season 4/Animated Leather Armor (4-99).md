@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.pfs-season-4-bestiary.Actor.qdUFJOVrItZjjl6j"
 tags:
   - pf2e/creature/type/construct
   - pf2e/creature/type/mindless
+  - pf2eMonster
   - pf2e/creature/level/1
 statblock: inline
 name: "Animated Leather Armor (4-99)"
@@ -21,15 +22,16 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Society Scenario #4-99: Blessings of the Forest"
 name: "Animated Leather Armor (4-99)"
 level: "Creature 1"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Medium"
-trait_01: "construct"
-trait_02: "mindless"
+trait_01: [[construct]]
+trait_02: [[mindless]]
 modifier: 6
 perception:
   - name: "Perception"
     desc: "+6; Darkvision"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Athletics: +9"
@@ -62,6 +64,12 @@ attacks:
   - name: "Melee"
     desc: "`pf2:1` Gauntlet +9 (agile, free-hand, magical)\n__Damage__  1d6 + 4 bludgeoning"
  
+```
+
+```encounter-table
+name: Animated Leather Armor (4-99)
+creatures:
+  - 1: Animated Leather Armor (4-99)
 ```
 
 

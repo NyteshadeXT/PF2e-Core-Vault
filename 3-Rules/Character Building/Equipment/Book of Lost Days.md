@@ -11,7 +11,7 @@ license: OGL
 ---
 # Book of Lost Days
 ## Item 15
-### [unique](unique "Unique Rarity Trait")[[cursed]][[magical]]
+### [unique](unique.md "Unique Rarity Trait")[[cursed]][[3-Rules/Rule References/Magical]]
 
 
 **Price** 0 gp; 
@@ -30,7 +30,7 @@ This massive tome's yellowed pages curl at the edges, and the letters on its fac
 
 The price for this knowledge is the memory of a day in your past, and the vitality of a day in your future. You lose the memory of that day completely, and the total of all the knowledge you learned on that date is added to the book's repository of information. The book, not you, chooses which memories are taken, preferring days with concentrated emotional resonance, and thus tends to steal significant life moments. This loss affects only your memories; it has no effect on your level, class, feats, or other character choices.
 
-Your natural lifespan is also shortened by 1 day. The loss of this life energy causes you to be [[Conditions/Drained 1|Drained 2]]. You can't reduce the drained condition for 2 days, after which you can recover normally from the condition.
+Your natural lifespan is also shortened by 1 day. The loss of this life energy causes you to be [[Conditions/Drained|Drained 2]]. You can't reduce the drained condition for 2 days, after which you can recover normally from the condition.
 
 Creatures have occasionally managed to use the _Book of Lost Days_ not to gain others' knowledge but to wipe their minds clean of painful memories or deadly secrets. Their memories aren't destroyed but merely stored in the book, where someone else might later retrieve them.
 

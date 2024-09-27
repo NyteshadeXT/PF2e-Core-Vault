@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/human
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/2
 statblock: inline
 name: "Bandit"
@@ -25,9 +26,9 @@ level: "Creature 2"
 
 alignment: ""
 size: "Medium"
-trait_01: "evil"
-trait_02: "human"
-trait_03: "humanoid"
+trait_01: [[evil]]
+trait_02: [[human]]
+trait_03: [[humanoid]]
 modifier: 6
 perception:
   - name: "Perception"
@@ -35,7 +36,7 @@ perception:
 languages: "Common"
 skills:
   - name: "Skills"
-    desc: "Athletics: +6, Deception: +5, Forest Lore: +4, Intimidation: +6, Stealth: +8, Survival: +6, Thievery: +8"
+    desc: "Athletics: +6, Deception: +5, Intimidation: +6, Stealth: +8, Survival: +6, Thievery: +8, Forest Lore: +4"
 abilityMods: [3, 3, 1, 0, 2, 1]
 speed: 25 feet
 sourcebook: "_Pathfinder Gamemastery Guide_"
@@ -64,17 +65,23 @@ attacks:
     desc: "`pf2:1` Hatchet +9 (agile, sweep)\n__Damage__  1d6 + 5 slashing"
 
   - name: "Ranged"
-    desc: "`pf2:1` Sling +9 (propulsive, range increment 50 feet, reload 1)\n__Damage__  1d6 + 3 bludgeoning"
-
-  - name: "Ranged"
     desc: "`pf2:1` Hatchet +9 (agile, sweep, thrown 10 ft.)\n__Damage__  1d6 + 5 slashing"
 
+  - name: "Ranged"
+    desc: "`pf2:1` Sling +9 (propulsive, range increment 50 feet, reload 1)\n__Damage__  1d6 + 3 bludgeoning"
+
   - name: "Dread Striker"
-    desc: "  [[Conditions/Frightened 1|Frightened]] creatures are [[Conditions/Off-Guard|Off-Guard]] to the bandit."
+    desc: "  [[Conditions/Frightened|Frightened]] creatures are [[Conditions/Off-Guard|Off-Guard]] to the bandit."
 
   - name: "Favored Terrain"
     desc: "  The bandit ignores the effects of non-magical difficult terrain in forests."
  
+```
+
+```encounter-table
+name: Bandit
+creatures:
+  - 1: Bandit
 ```
 
 

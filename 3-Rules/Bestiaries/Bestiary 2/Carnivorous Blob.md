@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.pathfinder-bestiary-2.Actor.NlMqwcN2ZaALOVSY"
 tags:
   - pf2e/creature/type/mindless
   - pf2e/creature/type/ooze
+  - pf2eMonster
   - pf2e/creature/level/13
 statblock: inline
 name: "Carnivorous Blob"
@@ -25,12 +26,13 @@ level: "Creature 13"
 
 alignment: ""
 size: "grg"
-trait_01: "mindless"
-trait_02: "ooze"
+trait_01: [[mindless]]
+trait_02: [[ooze]]
 modifier: 23
 perception:
   - name: "Perception"
     desc: "+23; Motion Sense (Precise) 240 Feet"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Athletics: +27"
@@ -55,7 +57,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Reactive Strikes"
-    desc: "`pf2:r`  **Trigger** The carnivorous blob takes damage from any source\n**Effect** The blob makes a pseudopod Strike against an adjacent target. If an adjacent creature dealt the triggering damage, that creature is the target of this Reactive Strike."
+    desc: "`pf2:r`  **Trigger** The carnivorous blob takes damage from any source\n* * *\n\n**Effect** The blob makes a pseudopod Strike against an adjacent target. If an adjacent creature dealt the triggering damage, that creature is the target of this Reactive Strike."
 
   - name: "Split"
     desc: "  When a carniverous blob that has 10 or more HP is hit by an attack that would deal piercing or slashing damage, it splits into two identical oozes, each with half the original's HP. One ooze is in the same space as the original, and the other is in an adjacent, unoccupied space. If no adjacent space is unoccupied, it automatically pushes creatures and objects out of the way to fill a space (the GM decides if an object or creature is too big or heavy to push)."
@@ -67,17 +69,23 @@ attacks:
     desc: "`pf2:1` Pseudopod +26 (reach 30 feet)\n__Damage__  2d12 + 12 bludgeoning plus grab 2d6 acid plus grab"
 
   - name: "Carnivorous Blob Acid"
-    desc: "  A carnivorous blob's acid damages only flesh-not bone, stone, wood, or other materials- but is nonetheless devastating. Whenever a creature takes damage from this acid, it must succeed at a DC 33 Fortitude check save or become [[Conditions/Drained 1|Drained 1]] (drained 2 on a critical failure). On each subsequent failure, the drained condition value increases by 1 (or by 2 on a critical failure), to a maximum of drained 4."
+    desc: "  A carnivorous blob's acid damages only flesh-not bone, stone, wood, or other materials- but is nonetheless devastating. Whenever a creature takes damage from this acid, it must succeed at a DC 33 Fortitude check save or become [[Conditions/Drained|Drained 1]] (drained 2 on a critical failure). On each subsequent failure, the drained condition value increases by 1 (or by 2 on a critical failure), to a maximum of drained 4."
 
   - name: "[[Bestiary Ability Glossary/Constrict|Constrict]]"
-    desc: "`pf2:1`  2d12 bludgeoning plus 2d6 acid, DC 33 Fortitude check\n"
+    desc: "`pf2:1`  2d12 bludgeoning plus 2d6 acid, DC 33 Fortitude check\n\n* * *\n"
 
   - name: "[[Bestiary Ability Glossary/Engulf|Engulf]]"
-    desc: "`pf2:2`  DC 33, 4d10 acid damage, Escape DC 33, Rupture 20\n"
+    desc: "`pf2:2`  DC 33, 4d10 acid damage, Escape DC 33, Rupture 20\n\n* * *\n"
 
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
     desc: "`pf2:1`  "
  
+```
+
+```encounter-table
+name: Carnivorous Blob
+creatures:
+  - 1: Carnivorous Blob
 ```
 
 

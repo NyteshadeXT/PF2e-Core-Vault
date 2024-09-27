@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/chaotic
   - pf2e/creature/type/human
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/14
 statblock: inline
 name: "Armag Twice-Born"
@@ -22,12 +23,12 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Kingmaker"
 name: "Armag Twice-Born"
 level: "Creature 14"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Medium"
-trait_01: "chaotic"
-trait_02: "human"
-trait_03: "humanoid"
+trait_01: [[chaotic]]
+trait_02: [[human]]
+trait_03: [[humanoid]]
 modifier: 24
 perception:
   - name: "Perception"
@@ -58,10 +59,10 @@ abilities_mid:
     desc: "`pf2:r`  "
 
   - name: "No Time To Die"
-    desc: "  As long as Armag wields _Ovinrbaane_ and is raging, the combination of the sword's magic and Armag's furious conviction that he is the true Armag protects him from death. His eyes and the sword's blade weep with blood and glow with red light at this time. As long as these conditions persist, he never increases beyond [[Conditions/Dying 1|Dying 3]] and is not rendered [[Conditions/Unconscious|Unconscious]]. Instead, Armag becomes [[Conditions/Confused|Confused]] and continues to fight. If _Ovinrbaane_ is taken from him (such as via a successful [[Actions/Disarm|Disarm]]), or if his rage ends while he is dying, he immediately dies regardless of his dying condition value. If he's healed to at least 1 Hit Point, the confusion effect immediately ends."
+    desc: "  As long as Armag wields _Ovinrbaane_ and is raging, the combination of the sword's magic and Armag's furious conviction that he is the true Armag protects him from death. His eyes and the sword's blade weep with blood and glow with red light at this time. As long as these conditions persist, he never increases beyond [[Conditions/Dying|Dying 3]] and is not rendered [[Conditions/Unconscious|Unconscious]]. Instead, Armag becomes [[Conditions/Confused|Confused]] and continues to fight. If _Ovinrbaane_ is taken from him (such as via a successful [[Actions/Disarm|Disarm]]), or if his rage ends while he is dying, he immediately dies regardless of his dying condition value. If he's healed to at least 1 Hit Point, the confusion effect immediately ends."
 
   - name: "Second Wind"
-    desc: "`pf2:r`  **Trigger** Armag is [[Conditions/Fatigued|Fatigued]] and scores a critical hit with a melee strike or reduces a creature to 0 Hit Points with a melee Strike\n**Effect** Armag draws upon inner reserves of furious energy. He is no longer fatigued."
+    desc: "`pf2:r`  **Trigger** Armag is [[Conditions/Fatigued|Fatigued]] and scores a critical hit with a melee strike or reduces a creature to 0 Hit Points with a melee Strike\n\n**Effect** Armag draws upon inner reserves of furious energy. He is no longer fatigued."
 
 attacks:
   - name: ""
@@ -73,10 +74,10 @@ attacks:
     desc: "`pf2:1` Shoulder Spikes +27 ()\n__Damage__  3d6 + 13 piercing"
 
   - name: "Armag's Rage"
-    desc: "  **Requirements** Armag is not [[Conditions/Fatigued|Fatigued]] or raging.\n**Effect** Armag flies into a rage that lasts 1 minute. While raging, he gains a +6 status bonus to damage rolls and suffers a -1 status penalty to AC. During his rage, Armag gains an additional reaction at the start of his turn, but he can only use this additional reaction for [[Bestiary Ability Glossary/Attack of Opportunity|Attacks of Opportunity]]. After the rage ends, Armag is fatigued.\n[[Feat_Feature Effects/Effect_ Rage|Effect: Rage]]"
+    desc: "  **Requirements** Armag is not [[Conditions/Fatigued|Fatigued]] or raging.\n* * *\n\n**Effect** Armag flies into a rage that lasts 1 minute. While raging, he gains a +6 status bonus to damage rolls and suffers a -1 status penalty to AC. During his rage, Armag gains an additional reaction at the start of his turn, but he can only use this additional reaction for [[Bestiary Ability Glossary/Attack of Opportunity|Attacks of Opportunity]]. After the rage ends, Armag is fatigued.\n\n[[Feat_Feature Effects/Effect_ Rage|Effect: Rage]]"
 
   - name: "Awesome Blow"
-    desc: "`pf2:1`  **Requirements** Armag's last action was a successful Strike.\n**Effect** The weight of Armag's previous swing drives his foe back. He attempts an Athletics check check against the target's Fortitude DC.\n**Critical Success** Armag gains the critical success effects of a [[Actions/Shove|Shove]], then the critical success effect of a [[Actions/Trip|Trip]] against the target.\n**Success** Armag gains the success effect of a Shove, then the success effect of a Trip against the target.\n**Failure** Armag pushes the foe back 5 feet."
+    desc: "`pf2:1`  **Requirements** Armag's last action was a successful Strike.\n\n**Effect** The weight of Armag's previous swing drives his foe back. He attempts an Athletics check check against the target's Fortitude DC.\n* * *\n\n**Critical Success** Armag gains the critical success effects of a [[Actions/Shove|Shove]], then the critical success effect of a [[Actions/Trip|Trip]] against the target.\n\n**Success** Armag gains the success effect of a Shove, then the success effect of a Trip against the target.\n\n**Failure** Armag pushes the foe back 5 feet."
 
   - name: "Greatsword Critical Specialization"
     desc: "  On a critical hit from a greatsword Strike, the target is made off-balance and becomes [[Conditions/Off-Guard|Off-Guard]] until the start of Armag's next turn."
@@ -84,6 +85,12 @@ attacks:
   - name: "Shoulder Slam"
     desc: "`pf2:1`  Armag Strides forward and hunkers down to attempt a shoulder spike Strike against a target at the end of that movement. If he critically hits a creature with this Strike, that creature is knocked [[Conditions/Prone|Prone]]."
  
+```
+
+```encounter-table
+name: Armag Twice-Born
+creatures:
+  - 1: Armag Twice-Born
 ```
 
 

@@ -14,7 +14,7 @@ tags:
 
 # Muscle Severed
 
-> Normal damage. **Crit Effect:** Until healed, the target is [[Conditions/Clumsy 1|Clumsy 3]] and [[Conditions/Enfeebled 1|Enfeebled 3]].
+> Normal damage. **Crit Effect:** Until healed, the target is [[Conditions/Clumsy|Clumsy 3]] and [[Conditions/Enfeebled|Enfeebled 3]].
 
 `Piercing`
 
@@ -26,6 +26,6 @@ tags:
 
 # Funny Bone
 
-> The target laughs uncontrollably until the end of its next turn. While laughing, it is [[Conditions/Slowed 1|Slowed 1]] and can't use reactions.
+> The target laughs uncontrollably until the end of its next turn. While laughing, it is [[Conditions/Slowed|Slowed 1]] and can't use reactions.
 
 `Bomb or Spell`

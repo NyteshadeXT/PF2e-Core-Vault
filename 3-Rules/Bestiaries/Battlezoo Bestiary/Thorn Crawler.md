@@ -6,6 +6,7 @@ cssClasses: pf2e
 aliases: "Compendium.battlezoo-bestiary-pf2e.pf2e-battlezoo-bestiary.Actor.WIbaJagsvR62CE9p" 
 tags:
   - pf2e/creature/type/plant
+  - pf2eMonster
   - pf2e/creature/level/10
 statblock: inline
 name: "Thorn Crawler"
@@ -24,14 +25,15 @@ level: "Creature 10"
 
 alignment: ""
 size: "huge"
-trait_01: "plant"
+trait_01: [[plant]]
 modifier: 19
 perception:
   - name: "Perception"
     desc: "+19; Tremorsense (Imprecise) 120 Feet"
+languages: ""
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +19, Athletics: +21, Stealth: +19 (+23 in Forests), "
+    desc: "Acrobatics: +19, Athletics: +21, Stealth: +19"
 abilityMods: [7, 5, 7, -4, 3, -4]
 speed: 30 feet,  climb 15 feet
 sourcebook: "_Battlezoo Bestiary_"
@@ -65,17 +67,23 @@ attacks:
     desc: "DC 27, attack +19; __2nd __ (2 slots) _[[Spells/Entangling Flora|Entangle (At Will)]]_\n__Constant__  __(2nd)__ _[[Spells/Vanishing Tracks|Pass Without Trace]]_"
 
   - name: "Drain Fluids"
-    desc: "`pf2:1` (primal) **Frequency** once per round;\n**Requirements** The thorn crawler has one or more creatures swallowed whole;\n**Effect** The thorn crawler uses its sharp, hollow roots to suck vital fluids from swallowed creatures' bodies. Each swallowed creature must make a Fortitude save.\n**Success** The creature is unaffected.\n**Failure** The creature is Drained 1 and the thorn crawler regains 15 HP.\n**Critical Failure** The creature is Drained 2 and the thorn crawler regains 30 HP."
+    desc: "`pf2:1` (primal) **Frequency** once per round;\n\n**Requirements** The thorn crawler has one or more creatures swallowed whole;\n\n**Effect** The thorn crawler uses its sharp, hollow roots to suck vital fluids from swallowed creatures' bodies. Each swallowed creature must make a DC 29 Fortitude save.\n* * *\n\n**Success** The creature is unaffected.\n\n**Failure** The creature is [[Conditions/Drained|Drained 1]] and the thorn crawler regains 15 HP.\n\n**Critical Failure** The creature is [[Conditions/Drained|Drained 2]] and the thorn crawler regains 30 HP."
 
   - name: "[[Bestiary Ability Glossary/Swallow Whole|Swallow Whole]]"
-    desc: "`pf2:1` (attack) Large, 2d8 + 13 piercing damage, Rupture 30. A thorn crawler can have up to two Medium creatures swallowed at a time.\n"
+    desc: "`pf2:1` (attack) Large, 2d8 + 13 piercing damage, Rupture 30. A thorn crawler can have up to two Medium creatures swallowed at a time.\n\n* * *\n"
 
   - name: "Woodland Stride"
     desc: "  The thorn crawler ignores difficult terrain and greater difficult terrain from nonmagical foliage."
 
   - name: "Thorn Burst"
-    desc: "`pf2:2` (primal) The thorn crawler thrusts its branches into the ground and up through the surrounding plants, causing sharp thorns to explode from every direction. Other creatures in a 10-foot emanation take 11d6 piercing damage (basic Reflex save).\nThe thorn crawler can't use Thorn Burst again for 1d4 rounds."
+    desc: "`pf2:2` (primal) The thorn crawler thrusts its branches into the ground and up through the surrounding plants, causing sharp thorns to explode from every direction. Other creatures in a 10-foot emanation take 11d6 piercing damage (DC 29 basic Reflex save).\n\nThe thorn crawler can't use Thorn Burst again for 1d4 rounds."
  
+```
+
+```encounter-table
+name: Thorn Crawler
+creatures:
+  - 1: Thorn Crawler
 ```
 
 

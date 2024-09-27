@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/beast
   - pf2e/creature/type/chaotic
   - pf2e/creature/type/evil
+  - pf2eMonster
   - pf2e/creature/level/16
 statblock: inline
 name: "Grootslang"
@@ -22,12 +23,12 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Lost Omens: The Mwangi Expanse"
 name: "Grootslang"
 level: "Creature 16"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "grg"
-trait_01: "beast"
-trait_02: "chaotic"
-trait_03: "evil"
+trait_01: [[beast]]
+trait_02: [[chaotic]]
+trait_03: [[evil]]
 modifier: 28
 perception:
   - name: "Perception"
@@ -75,23 +76,29 @@ attacks:
     desc: "`pf2:1` Tusk +30 (magical, reach 20 feet)\n__Damage__  3d12 + 15 piercing"
 
   - name: "Aquatic Elusion"
-    desc: "`pf2:2` (concentrate,primal,teleportation) **Requirements** The grootslang is fully immersed in water\n**Effect** The grootslang teleports to another body of water within 1 mile that is wide enough to hold the grootslang."
+    desc: "`pf2:2` (concentrate,primal,teleportation) **Requirements** The grootslang is fully immersed in water\n* * *\n\n**Effect** The grootslang teleports to another body of water within 1 mile that is wide enough to hold the grootslang."
 
   - name: "Defensive Coil"
     desc: "`pf2:2`  The grootslang coils its body. It gains 20 resistance against physical attacks until the start of its next turn."
 
   - name: "[[Bestiary Ability Glossary/Greater Constrict|Greater Constrict]]"
-    desc: "`pf2:1`  Tail only, 2d12 + 12 bludgeoning damage, DC 34 Fortitude check\n"
+    desc: "`pf2:1`  Tail only, 2d12+12 bludgeoning damage, DC 34 Fortitude check\n\n* * *\n"
 
   - name: "[[Bestiary Ability Glossary/Swallow Whole|Swallow Whole]]"
-    desc: "`pf2:1` (attack) Jaws only, Huge, 3d12 + 10 bludgeoning damage, Rupture 37\n"
+    desc: "`pf2:1` (attack) Jaws only, Huge, 3d12+10 bludgeoning damage, Rupture 37\n\n* * *\n"
 
   - name: "Thunderous Slam"
-    desc: "`pf2:3`  The grootslang makes a foot Strike against a creature in reach.\nWhether or not the Strike hits, all creatures within 10 feet of the grootslang must attempt a DC 37 Reflex check save.\n**Critical Success** The creature is unaffected.\n**Success** The creature is [[Conditions/Off-Guard|Off-Guard]] until the end of its turn.\n**Failure** The creature is knocked [[Conditions/Prone|Prone]] and takes 2d8 bludgeoning damage.\n**Critical Failure** As failure, except the creature takes 4d8 bludgeoning damage."
+    desc: "`pf2:3`  The grootslang makes a foot Strike against a creature in reach.\n\nWhether or not the Strike hits, all creatures within 10 feet of the grootslang must attempt a DC 37 Reflex check save.\n* * *\n\n**Critical Success** The creature is unaffected.\n\n**Success** The creature is [[Conditions/Off-Guard|Off-Guard]] until the end of its turn.\n\n**Failure** The creature is knocked [[Conditions/Prone|Prone]] and takes 2d8 bludgeoning damage.\n\n**Critical Failure** As failure, except the creature takes 4d8 bludgeoning damage."
 
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
     desc: "`pf2:1`  "
  
+```
+
+```encounter-table
+name: Grootslang
+creatures:
+  - 1: Grootslang
 ```
 
 

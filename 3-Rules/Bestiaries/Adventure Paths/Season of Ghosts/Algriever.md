@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.season-of-ghosts-bestiary.Actor.amLD0YfFcG8ejrME"
 tags:
   - pf2e/creature/type/beast
   - pf2e/creature/type/spirit
+  - pf2eMonster
   - pf2e/creature/level/9
 statblock: inline
 name: "Algriever"
@@ -21,11 +22,11 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #199: To Bloom Below the Web"
 name: "Algriever"
 level: "Creature 9"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Medium"
-trait_01: "beast"
-trait_02: "spirit"
+trait_01: [[beast]]
+trait_02: [[spirit]]
 modifier: 23
 perception:
   - name: "Perception"
@@ -33,7 +34,7 @@ perception:
 languages: "Common"
 skills:
   - name: "Skills"
-    desc: "Intimidation: +17, Religion: +17, Stealth: +19, Survival: +19"
+    desc: "Intimidation: +19, Religion: +19, Stealth: +21, Survival: +21"
 abilityMods: [4, 4, 4, 0, 6, 2]
 speed: 30 feet,  climb 30 feet
 sourcebook: "_Pathfinder #199: To Bloom Below the Web_"
@@ -52,7 +53,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Acolyte's Defense"
-    desc: "`pf2:r` (attack,move) **Requirements** The algriever is bonded with a shrine\n**Trigger** A creature within sight of the algriever damages, desecrates, or defiles their bonded shrine\n**Effect** The algriever Strides toward the creature; this movement doesn't trigger reactions. The algriever marks the creature as its enemy and gains a +2 status bonus to attack rolls against that enemy until they select a new enemy with Acolyte's Defense."
+    desc: "`pf2:r` (attack,move) **Requirements** The algriever is bonded with a shrine\n\n**Trigger** A creature within sight of the algriever damages, desecrates, or defiles their bonded shrine\n* * *\n\n**Effect** The algriever Strides toward the creature; this movement doesn't trigger reactions. The algriever marks the creature as its enemy and gains a +2 status bonus to attack rolls against that enemy until they select a new enemy with Acolyte's Defense."
 
   - name: "Shrine Bond"
     desc: "  The algriever bonds with a shrine after they spend 24 hours at the site. While bonded, the algriever gains a +2 circumstance bonus to Perception checks and skill checks."
@@ -70,14 +71,20 @@ attacks:
     desc: "DC 25, attack +20; __5th __  _[[Spells/Crisis of Faith|Crisis of Faith]]_; __4th __  _[[Spells/Anathematic Reprisal|Anathematic Reprisal (x3)]]_"
 
   - name: "Algriever Venom"
-    desc: " (mental,poison) **Saving Throw** DC 28 Will check\n**Maximum Duration** 6 rounds\n**Stage 1** 2d6 mental\n**Stage 2** 2d6 mental and [[Conditions/Stupefied 1|Stupefied 1]]\n**Stage 3** 2d6 mental and [[Conditions/Stupefied 1|Stupefied 2]]"
+    desc: " (mental,poison) **Saving Throw** DC 28 Will check\n\n**Maximum Duration** 6 rounds\n\n**Stage 1** 2d6 mental\n\n**Stage 2** 2d6 mental and [[Conditions/Stupefied|Stupefied 1]]\n\n**Stage 3** 2d6 mental and [[Conditions/Stupefied|Stupefied 2]]"
 
   - name: "Pilgrim's Ward"
-    desc: "`pf2:2` (divine) **Frequency** once per month\n**Effect** The algriever touches a willing creature and fills it with reverence for their bonded shrine. As long as the target creature obeys the edicts and anathemas of the algriever's bonded shrine, or until that algriever grants Pilgrim's Ward to a different creature, that creature gains a +1 status bonus to all Religion checks and Will saves.\n[[Bestiary Effects/Effect_ Pilgrim's Ward|Effect: Pilgrim's Ward]]"
+    desc: "`pf2:2` (divine) **Frequency** once per month\n* * *\n\n**Effect** The algriever touches a willing creature and fills it with reverence for their bonded shrine. As long as the target creature obeys the edicts and anathemas of the algriever's bonded shrine, or until that algriever grants Pilgrim's Ward to a different creature, that creature gains a +1 status bonus to all Religion checks and Will saves.\n\n[[Bestiary Effects/Effect_ Pilgrim's Ward|Effect: Pilgrim's Ward]]"
 
   - name: "Web Trap"
     desc: "  A creature hit by an algriever's web Strike is [[Conditions/Immobilized|Immobilized]] and stuck to the nearest surface until it [[Actions/Escape|Escapes]] (DC 28)."
  
+```
+
+```encounter-table
+name: Algriever
+creatures:
+  - 1: Algriever
 ```
 
 

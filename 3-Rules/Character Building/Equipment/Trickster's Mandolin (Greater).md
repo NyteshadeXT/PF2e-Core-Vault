@@ -4,6 +4,7 @@ title: "Trickster's Mandolin (Greater)"
 cssclasses: pf2e,pf2e-spell
 tags:
   - trait/coda
+  - trait/illusion
   - trait/occult
   - trait/staff
   - trait/common
@@ -12,7 +13,7 @@ license: OGL
 ---
 # Trickster's Mandolin (Greater)
 ## Item 8
-### [[coda]][[occult]][[staff]]
+### [[coda]][[illusion]][[occult]][[staff]]
 
 
 **Price** 460 gp; 

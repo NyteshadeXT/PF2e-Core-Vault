@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/fey
   - pf2e/creature/type/gremlin
   - pf2e/creature/type/lawful
+  - pf2eMonster
   - pf2e/creature/level/2
 statblock: inline
 name: "Grabbles"
@@ -23,13 +24,13 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Kingmaker"
 name: "Grabbles"
 level: "Creature 2"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Small"
-trait_01: "evil"
-trait_02: "fey"
-trait_03: "gremlin"
-trait_04: "lawful"
+trait_01: [[evil]]
+trait_02: [[fey]]
+trait_03: [[gremlin]]
+trait_04: [[lawful]]
 modifier: 7
 perception:
   - name: "Perception"
@@ -37,7 +38,7 @@ perception:
 languages: "Common, Sakvroth"
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +8, Diplomacy: +7 (+9 vs. arthropods), Nature: +4, Stealth: +8, Thievery: +8"
+    desc: "Acrobatics: +8, Diplomacy: +7, Nature: +4, Stealth: +8, Thievery: +8"
 abilityMods: [1, 4, 3, 0, 1, 3]
 speed: 20 feet,  climb 20 feet
 sourcebook: "_Pathfinder Kingmaker_"
@@ -65,7 +66,7 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
+  - name: "Ranged"
     desc: "`pf2:1` Trident +7 (thrown 20 ft.)\n__Damage__  1d8 + 3 piercing"
 
   - name: "Ranged"
@@ -78,8 +79,14 @@ attacks:
     desc: " (auditory,concentrate) Grabbles can use Diplomacy to Command an Animal when riding Tickleback."
 
   - name: "Vengeful Anger"
-    desc: " (emotion,mental) As long as it isn't [[Conditions/Frightened 1|Frightened]], a mitflit gains a +2 status bonus to damage rolls against a creature that has previously damaged or tormented it."
+    desc: " (emotion,mental) As long as it isn't [[Conditions/Frightened|Frightened]], a mitflit gains a +2 status bonus to damage rolls against a creature that has previously damaged or tormented it."
  
+```
+
+```encounter-table
+name: Grabbles
+creatures:
+  - 1: Grabbles
 ```
 
 

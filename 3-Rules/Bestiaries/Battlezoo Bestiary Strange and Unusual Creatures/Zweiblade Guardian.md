@@ -7,6 +7,7 @@ aliases: "Compendium.battlezoo-bestiary-su-pf2e.pf2e-battlezoo-su-actors.Actor.k
 tags:
   - pf2e/creature/type/construct
   - pf2e/creature/type/mindless
+  - pf2eMonster
   - pf2e/creature/level/9
 statblock: inline
 name: "Zweiblade Guardian"
@@ -25,15 +26,16 @@ level: "Creature 9"
 
 alignment: ""
 size: "Large"
-trait_01: "construct"
-trait_02: "mindless"
+trait_01: [[construct]]
+trait_02: [[mindless]]
 modifier: 18
 perception:
   - name: "Perception"
     desc: "+18; "
+languages: ""
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +23, Athletics: +20, Intimidation: +18, "
+    desc: "Acrobatics: +23, Athletics: +20, Intimidation: +18, Acrobatics: +23, Athletics: +20, Intimidation: +18"
 abilityMods: [4, 7, 6, -5, 0, -5]
 speed: 20 feet
 sourcebook: "_Battlezoo Bestiary: Strange and Unusual_"
@@ -50,7 +52,7 @@ abilities_top:
   - name: ""
 
   - name: "Twin Body"
-    desc: "  When a zweiblade guardian's construct armor is broken, its body splits down the middle, with each half left with a pair of legs but only one arm. In this form, the guardian has two different spaces; each half is a Medium creature. The two halves share a pool of Hit Points and actions per turn, as well as their multiple attack penalty. The zweiblade guardian is Quickened 1 when split, and can use the extra action to Stride, Step, or Strike. If both halves have to save against the same effect, it rolls the save twice and uses the worse result. If both halves take damage from the same effect, they take damage only once, taking the greater amount if the damage isn't the same. The two halves of a split guardian can't stay far apart for long. If the two halves remain separated by over 60 feet for more than 1 minute, one half (randomly determined) permanently loses its animating spark, and the remaining half remains active."
+    desc: "  When a zweiblade guardian's construct armor is broken, its body splits down the middle, with each half left with a pair of legs but only one arm. In this form, the guardian has two different spaces; each half is a Medium creature. The two halves share a pool of Hit Points and actions per turn, as well as their multiple attack penalty. The zweiblade guardian is [[undefined]] when split, and can use the extra action to Stride, Step, or Strike. If both halves have to save against the same effect, it rolls the save twice and uses the worse result. If both halves take damage from the same effect, they take damage only once, taking the greater amount if the damage isn't the same. The two halves of a split guardian can't stay far apart for long. If the two halves remain separated by over 60 feet for more than 1 minute, one half (randomly determined) permanently loses its animating spark, and the remaining half remains active."
 
 abilities_mid:
   - name: ""
@@ -70,8 +72,14 @@ attacks:
     desc: "`pf2:1` Blade Projection +21 (range increment 20 feet)\n__Damage__  2d6 + 6 piercing"
 
   - name: "Double Slice"
-    desc: "`pf2:2`  **Requirements** The zweiblade guardian's construct armor isn't broken\n**Effect** The zweiblade guardian lashes out at its foe with both blades. It makes two Strikes, one with each of its stone blades, each using its current multiple attack penalty. Both Strikes must have the same target. If both attacks hit, combine their damage, and then add any other applicable effects from both weapons. Add any precision damage only once, to the attack of your choice. Combine the damage from both Strikes and apply resistances and weaknesses only once. This counts as two attacks when calculating its multiple attack penalty."
+    desc: "`pf2:2`  **Requirements** The zweiblade guardian's construct armor isn't broken\n* * *\n\n**Effect** The zweiblade guardian lashes out at its foe with both blades. It makes two Strikes, one with each of its stone blades, each using its current multiple attack penalty. Both Strikes must have the same target. If both attacks hit, combine their damage, and then add any other applicable effects from both weapons. Add any precision damage only once, to the attack of your choice. Combine the damage from both Strikes and apply resistances and weaknesses only once. This counts as two attacks when calculating its multiple attack penalty."
  
+```
+
+```encounter-table
+name: Zweiblade Guardian
+creatures:
+  - 1: Zweiblade Guardian
 ```
 
 

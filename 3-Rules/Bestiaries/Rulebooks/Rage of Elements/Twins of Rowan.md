@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/elemental
   - pf2e/creature/type/plant
   - pf2e/creature/type/wood
+  - pf2eMonster
   - pf2e/creature/level/13
   - remaster
 statblock: inline
@@ -26,9 +27,9 @@ level: "Creature 13"
 
 alignment: ""
 size: "huge"
-trait_01: "elemental"
-trait_02: "plant"
-trait_03: "wood"
+trait_01: [[elemental]]
+trait_02: [[plant]]
+trait_03: [[wood]]
 modifier: 26
 perception:
   - name: "Perception"
@@ -53,12 +54,12 @@ abilities_top:
   - name: ""
 
   - name: "Shielded Eyes"
-    desc: "  A twins of rowan’s protective mask shields them from blinding and dazzling effects."
+    desc: "  A twins of rowan's protective mask shields them from blinding and dazzling effects."
 
 abilities_mid:
   - name: ""
   - name: "Beacon of the Rowan Guard"
-    desc: " (aura,plant,primal,wood) 40 feet.\nThe lantern carried by the twins of rowan contains pure elemental life energy that resonates with and empowers all wood elementals. While within the emanation, a creature with the elemental trait and either the plant trait or wood trait gains fast healing 10 and a +2 circumstance bonus to all attack and damage rolls. The aura can be counteracted with a DC 30 check to [[Spells/Dispel Magic|Dispel Magic]]; doing so deactivates the aura for 1d6 rounds"
+    desc: " (aura,plant,primal,wood) 40 feet.\n\nThe lantern carried by the twins of rowan contains pure elemental life energy that resonates with and empowers all wood elementals. While within the emanation, a creature with the elemental trait and either the plant trait or wood trait gains fast healing 10 and a +2 circumstance bonus to all attack and damage rolls. The aura can be counteracted with a DC 30 check to [[Spells/Dispel Magic|Dispel Magic]]; doing so deactivates the aura for 1d6 rounds"
 
 attacks:
   - name: ""
@@ -76,13 +77,19 @@ attacks:
     desc: "`pf2:2`  The twins of rowan makes a rapier Strike, followed by two fist Strikes, all against the same target. These attacks all count toward the twins' multiple attack penalty, but the penalty doesn't increase until after the twins make their attacks."
 
   - name: "Lifespring Burst"
-    desc: "`pf2:3` (plant,primal,vitality) Once per day, the twins of rowan can strike the ground with their sword, releasing a 30-foot burst of life energy centered on the twins that deals 14d6 vitality damage (DC 30 Fortitude check save); the twins of rowan is immune. The area affected by this burst then becomes greater difficult terrain as vibrant new plant life ruptures through it."
+    desc: "`pf2:3` (plant,primal,vitality) Once per day, the twins of rowan can strike the ground with their sword, releasing a @Template[burst|distance:30] of life energy centered on the twins that deals 14d6 vitality damage (DC 30 Fortitude check save); the twins of rowan is immune. The area affected by this burst then becomes greater difficult terrain as vibrant new plant life ruptures through it."
 
   - name: "[[Bestiary Ability Glossary/Throw Rock|Throw Stump]]"
-    desc: "`pf2:1`  Can also be used to throw stumps and logs.\n"
+    desc: "`pf2:1`  Can also be used to throw stumps and logs.\n\n* * *\n"
  
+```
+
+```encounter-table
+name: Twins of Rowan
+creatures:
+  - 1: Twins of Rowan
 ```
 
 
 
-Twins of rowan are among the most powerful elementals on the Plane of Wood, specially crafted to patrol a wide range of wilderness and maintain the plane’s carefully constructed order. Despite having two heads and torsos, each twins of rowan is a singular creature; like all wood elementals, their true consciousness is not in their heads but in the roots, and their true body is the trunk of the tree, not the extended limbs.
+Twins of rowan are among the most powerful elementals on the Plane of Wood, specially crafted to patrol a wide range of wilderness and maintain the plane's carefully constructed order. Despite having two heads and torsos, each twins of rowan is a singular creature; like all wood elementals, their true consciousness is not in their heads but in the roots, and their true body is the trunk of the tree, not the extended limbs.

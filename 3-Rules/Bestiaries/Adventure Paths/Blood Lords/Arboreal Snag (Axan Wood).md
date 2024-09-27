@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/mindless
   - pf2e/creature/type/undead
   - pf2e/creature/type/unholy
+  - pf2eMonster
   - pf2e/creature/level/3
 statblock: inline
 name: "Arboreal Snag (Axan Wood)"
@@ -23,20 +24,21 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #182: Graveclaw"
 name: "Arboreal Snag (Axan Wood)"
 level: "Creature 3"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Large"
-trait_01: "evil"
-trait_02: "mindless"
-trait_03: "undead"
-trait_04: "unholy"
+trait_01: [[evil]]
+trait_02: [[mindless]]
+trait_03: [[undead]]
+trait_04: [[unholy]]
 modifier: 8
 perception:
   - name: "Perception"
     desc: "+8; Darkvision"
+languages: ""
 skills:
   - name: "Skills"
-    desc: "Athletics: +10, Intimidation: +7, Stealth: +7 (+12 in Forests)"
+    desc: "Athletics: +10, Intimidation: +7, Stealth: +7"
 abilityMods: [4, 1, 3, -5, 1, 0]
 speed: 20 feet
 sourcebook: "_Pathfinder #182: Graveclaw_"
@@ -84,6 +86,12 @@ attacks:
   - name: "[[Bestiary Ability Glossary/Knockdown|Knockdown]]"
     desc: "`pf2:1`  "
  
+```
+
+```encounter-table
+name: Arboreal Snag (Axan Wood)
+creatures:
+  - 1: Arboreal Snag (Axan Wood)
 ```
 
 

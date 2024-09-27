@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/giant
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/5
 statblock: inline
 name: "Ogre Slug"
@@ -26,10 +27,10 @@ level: "Creature 5"
 
 alignment: ""
 size: "Large"
-trait_01: "chaotic"
-trait_02: "evil"
-trait_03: "giant"
-trait_04: "humanoid"
+trait_01: [[chaotic]]
+trait_02: [[evil]]
+trait_03: [[giant]]
+trait_04: [[humanoid]]
 modifier: 8
 perception:
   - name: "Perception"
@@ -37,7 +38,7 @@ perception:
 languages: "Jotun"
 skills:
   - name: "Skills"
-    desc: "Athletics: +12, Intimidation: +10, Survival: +6"
+    desc: "Athletics: +14, Intimidation: +12, Survival: +8"
 abilityMods: [6, -1, 4, -2, 0, -2]
 speed: 30 feet
 sourcebook: "_Pathfinder #180: The Smoking Gun_"
@@ -72,14 +73,20 @@ attacks:
     desc: "`pf2:2`  The ogre glutton Strides twice and makes a jaws Strike. If they damage a living creature with this Strike, the temporary Hit Points they receive from Glutton's Feast is increased to 2d4."
 
   - name: "[[Bestiary Ability Glossary/Swallow Whole|Swallow Whole]]"
-    desc: "`pf2:1` (attack) Small, 2d4 + 4 bludgeoning damage, Rupture 14\n"
+    desc: "`pf2:1` (attack) Small, 2d4+4 bludgeoning damage, Rupture 14\n\n* * *\n"
 
   - name: "Throw Powder Keg"
-    desc: "`pf2:2`  **Frequency** once (until the ogre acquires another powder keg)\n**Effect** The ogre lights and hurls a powder keg of gunpowder at a point within 40 feet. The fuse continues to burn for 1 round, during which time an adjacent creature can use an Interact action to remove the lit fuse, rendering the keg harmless. At the start of the ogre's next turn, if the fuse is still lit, the keg explodes, dealing 3d8 fire damage and 3d8 bludgeoning damage to creatures in a 15-foot burst (DC 20 Reflex check)."
+    desc: "`pf2:2`  **Frequency** once (until the ogre acquires another powder keg)\n* * *\n\n**Effect** The ogre lights and hurls a powder keg of gunpowder at a point within 40 feet. The fuse continues to burn for 1 round, during which time an adjacent creature can use an Interact action to remove the lit fuse, rendering the keg harmless. At the start of the ogre's next turn, if the fuse is still lit, the keg explodes, dealing 3d8 fire damage and 3d8 bludgeoning damage to creatures in a @Template[burst|distance:15] (DC 20 Reflex check)."
 
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
     desc: "`pf2:1`  "
  
+```
+
+```encounter-table
+name: Ogre Slug
+creatures:
+  - 1: Ogre Slug
 ```
 
 

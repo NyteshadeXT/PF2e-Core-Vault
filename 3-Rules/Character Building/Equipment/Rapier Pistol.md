@@ -4,6 +4,7 @@ title: "Rapier Pistol"
 cssclasses: pf2e,pf2e-spell
 tags:
   - pf2e/weapon
+  - trait/backstabber
   - trait/combination
   - trait/concussive
   - trait/fatal-d8
@@ -14,7 +15,7 @@ license: OGL
 ---
 # Rapier Pistol
 ## Item 0
-### [uncommon](uncommon "Uncommon Rarity Trait")[[combination]][[concussive]][[fatal-d8]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[backstabber]][[combination]][[concussive]][[fatal-d8]]
 
 |  |  |
 | -- | -- |

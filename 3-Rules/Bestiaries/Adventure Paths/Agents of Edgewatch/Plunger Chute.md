@@ -5,6 +5,7 @@ noteType: pf2eHazard
 tags:
   - mechanical
   - trap
+  - pf2eHazard
 
 source: Pathfinder #157: Devil at the Dreaming Palace
 aliases: "Compendium.pf2e.agents-of-edgewatch-bestiary.Actor.1UIJ4oknQ7btkUCb" 
@@ -22,14 +23,14 @@ name: "Plunger Chute"
 level: "Hazard 3"
 
 
-trait_01: "mechanical"
-trait_02: "trap"
+trait_01: [[mechanical]]
+trait_02: [[trap]]
 modifier: 12
 sourcebook: "_Pathfinder #157: Devil at the Dreaming Palace_"
 ac: 22
 armorclass:
   - name: AC
-    desc: "22; __Fort__ +14, __Ref__ +8, __Will__ +0"
+    desc: "22; __Fort__ +14, __Ref__ +8, "
 hp: 40
 health:
   - name: ""
@@ -51,9 +52,15 @@ attacks:
   - name: ""
 
   - name: "Pitfall and Plunger"
-    desc: "`pf2:r` **Trigger** A creature walks onto the trapdoor\n**Effect** Anyone within 10 feet of the room's northern wall falls 40 feet down the shaft to area **E33**, taking 20 bludgeoning damage and landing prone in the ochre jelly's pit.\nThe victims can [[Actions/Grab an Edge|Grab an Edge]] to avoid falling.\nThe DC to Grab an Edge is 20; the DC to [[Actions/Climb|Climb]] the walls is 22."
+    desc: "`pf2:r` **Trigger** A creature walks onto the trapdoor\n* * *\n\n**Effect** Anyone within 10 feet of the room's northern wall falls 40 feet down the shaft to area **E33**, taking 20 bludgeoning damage and landing prone in the ochre jelly's pit.\n\nThe victims can [[Actions/Grab an Edge|Grab an Edge]] to avoid falling.\n\nThe DC to Grab an Edge is 20; the DC to [[Actions/Climb|Climb]] the walls is 22."
 
 
 
+```
+
+```encounter-table
+name: Plunger Chute
+creatures:
+  - 1: Plunger Chute
 ```
 

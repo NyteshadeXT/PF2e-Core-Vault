@@ -24,7 +24,7 @@ license: OGL
 
 
 
-A _greater spider gun_ is a _+1 striking weapon_. It's a distinct type of martial firearm made from the fangs and spinneret of a Large spider. It deals 1d10 poison damage with a range increment of 30 feet and reload 1. On a critical hit, the venom clings to the target and they take [[Conditions/Persistent Damage|Persistent Poison Damage]] equal to 1d4 + 0 persistent poison. A _spider gun_ does not add critical specialization effects. The gun can be activated to fire webbing that hampers other creatures.
+A _greater spider gun_ is a _+1 striking weapon_. It's a distinct type of martial firearm made from the fangs and spinneret of a Large spider. It deals 1d10 poison damage with a range increment of 30 feet and reload 1. On a critical hit, the venom clings to the target and they take [[Conditions/Persistent Damage|Persistent Poison Damage]] equal to 1d4+@item.system. persistent poison. A _spider gun_ does not add critical specialization effects. The gun can be activated to fire webbing that hampers other creatures.
 
 * * *
 

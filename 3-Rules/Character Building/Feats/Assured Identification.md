@@ -7,8 +7,9 @@ tags:
   - trait/skill
   - trait/common
   - category/skill
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.XmF4q4rzKWg55vG4"
-license: OGL
+license: ORC
 ---
 # Assured Identification
 ## Feat 2
@@ -22,5 +23,5 @@ license: OGL
 * * *
 You rarely misidentify an item. When using Arcana, Nature, Occultism, or Religion checks to Identify Magic, if you roll a critical failure, you get a failure instead. If you would misidentify a cursed item because you roll a success but not a critical success, you simply can't identify it instead.
 
-*Source: Pathfinder Advanced Player's Guide*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

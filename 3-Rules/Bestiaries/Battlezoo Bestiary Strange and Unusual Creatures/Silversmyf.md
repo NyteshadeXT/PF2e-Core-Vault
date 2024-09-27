@@ -7,6 +7,7 @@ aliases: "Compendium.battlezoo-bestiary-su-pf2e.pf2e-battlezoo-su-actors.Actor.J
 tags:
   - pf2e/creature/type/construct
   - pf2e/creature/type/fey
+  - pf2eMonster
   - pf2e/creature/level/6
 statblock: inline
 name: "Silversmyf"
@@ -22,19 +23,19 @@ token: [[modules/battlezoo-bestiary-su-pf2e/art/Portraits/silversmyf.webp| ]]
 source: "Battlezoo Bestiary: Strange and Unusual"
 name: "Silversmyf"
 level: "Creature 6"
-rare_03: "Rare"
+rare_03: [[Rare]]
 alignment: ""
 size: "Small"
-trait_01: "construct"
-trait_02: "fey"
+trait_01: [[construct]]
+trait_02: [[fey]]
 modifier: 14
 perception:
   - name: "Perception"
     desc: "+14; "
-languages: "Fey, Gnomish"
+languages: "Fey, Gnomish; can&#x27;t speak any language"
 skills:
   - name: "Skills"
-    desc: "Stealth: +15 (+18 in kitchens), Acrobatics: +15, Diplomacy: +13, Society: +12, "
+    desc: "Acrobatics: +15, Diplomacy: +13, Society: +12, Stealth: +15, Stealth: +15, Acrobatics: +15, Diplomacy: +13, Society: +12"
 abilityMods: [4, 5, 0, -2, 2, 3]
 speed: 40 feet,  climb 35 feet
 sourcebook: "_Battlezoo Bestiary: Strange and Unusual_"
@@ -56,7 +57,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Deterrent Stab"
-    desc: "`pf2:r`  **Requirements** The silversmyf is in its Disanimated form\n**Trigger** A creature touches one of the silversmyf's silverware pieces\n**Effect** The piece of silverware attacks the triggering creature, making a silverware knife Strike even though the silversmyf can't normally do so while Disanimated. The silversmyf then reanimates."
+    desc: "`pf2:r`  **Requirements** The silversmyf is in its Disanimated form\n\n**Trigger** A creature touches one of the silversmyf's silverware pieces\n* * *\n\n**Effect** The piece of silverware attacks the triggering creature, making a silverware knife Strike even though the silversmyf can't normally do so while Disanimated. The silversmyf then reanimates."
 
   - name: "Silvering Aura"
     desc: " (aura,primal) 20 feet. All weapons within the silversmyf's aura count as silver for the purposes of determining weaknesses, resistances, and the like. The silversmyf's silverware knife Strike is silver even if this aura is somehow canceled."
@@ -71,11 +72,17 @@ attacks:
     desc: "DC 21, attack +13; __7th __  _[[Spells/Interplanar Teleport|Plane Shift (Self Only; To The Fey Realm Or Back To The Material Plane Only) (x2)]]_; __2nd __  _[[Spells/Web|Web (x3)]]_"
 
   - name: "Crushed Ice Grenade"
-    desc: "`pf2:2` (cold,primal) A silversmyf throws a grenade made of crushed ice, dealing 4d6 cold damage to creatures in a 5-foot burst within 30 feet with a DC 21 Reflex check save. On a failure, a creature also falls Prone."
+    desc: "`pf2:2` (cold,primal) A silversmyf throws a grenade made of crushed ice, dealing 4d6 cold damage to creatures in a 5-foot burst within 30 feet with a DC 21 Reflex check save. On a failure, a creature also falls [[undefined]]."
 
   - name: "Freeze Beam"
     desc: "`pf2:2` (cold,concentrate,primal) The silversmyf fires a pulsating beam of freezing cold energy from its eye, dealing 4d6 cold damage (DC 24 Reflex check save) to all creatures in a 30-foot line."
  
+```
+
+```encounter-table
+name: Silversmyf
+creatures:
+  - 1: Silversmyf
 ```
 
 

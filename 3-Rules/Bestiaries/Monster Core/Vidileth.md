@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.pathfinder-monster-core.Actor.VDm2XhfNwhgiJOxD"
 tags:
   - pf2e/creature/type/aberration
   - pf2e/creature/type/aquatic
+  - pf2eMonster
   - pf2e/creature/level/14
   - remaster
 statblock: inline
@@ -23,11 +24,11 @@ token: [[modules/pf2e-tokens-bestiaries/portraits/aberrant/eldritch/veiled-maste
 source: "Pathfinder Monster Core"
 name: "Vidileth"
 level: "Creature 14"
-rare_03: "Rare"
+rare_03: [[Rare]]
 alignment: ""
 size: "Large"
-trait_01: "aberration"
-trait_02: "aquatic"
+trait_01: [[aberration]]
+trait_02: [[aquatic]]
 modifier: 25
 perception:
   - name: "Perception"
@@ -35,7 +36,7 @@ perception:
 languages: "Aklo, Alghollthu, Common, Sakvroth, Thalassic; Truespeech"
 skills:
   - name: "Skills"
-    desc: "Arcana: +27, Athletics: +24, Deception: +28, Intimidation: +26, Lore (any one subcategory): +29, Occultism: +29, Society: +27, Stealth: +24"
+    desc: "Arcana: +27, Athletics: +24, Deception: +28, Intimidation: +26, Occultism: +29, Society: +27, Stealth: +24, Lore (any one subcategory): +29"
 abilityMods: [6, 6, 8, 7, 5, 6]
 speed: 10 feet,  swim 80 feet
 sourcebook: "_Pathfinder Monster Core_"
@@ -52,7 +53,7 @@ abilities_top:
   - name: ""
 
   - name: "Numbing Lights"
-    desc: " (aura,light,visual) 30 feet.\n\nThe vidileth exudes dim light. Creatures within the light must attempt a DC 34 Will check save each round, becoming [[Conditions/Stupefied 1|Stupefied 1]] on a failure (or increase their stupefied value from numbing lights by 1, to a maximum of 4)."
+    desc: " (aura,light,visual) 30 feet.\n\nThe vidileth exudes dim light. Creatures within the light must attempt a DC 34 Will check save each round, becoming [[Conditions/Stupefied|Stupefied 1]] on a failure (or increase their stupefied value from numbing lights by 1, to a maximum of 4)."
 
 abilities_mid:
   - name: ""
@@ -84,14 +85,20 @@ attacks:
     desc: " (occult) When a vidileth successfully casts [[Spells/Dominate|Dominate]] on a creature, a [[Spells/Suggestion|Suggestion]] spell triggers when the _dominate_ spell ends. This _suggestion_ usually causes the target to return to the vidileth, so the creature can cast _dominate_ again, but a vidileth can set the _suggestion_ to different orders if it wishes."
 
   - name: "Shape Flesh"
-    desc: "`pf2:1` (curse,manipulate,occult) **Requirements** The vidileth's last action was a success with a claw Strike\n* * *\n\n**Effect** The vidileth sloppily modifies the target's flesh. They must succeed at a DC 34 Fortitude check save or permanently receive the veiled master's choice of [[Conditions/Clumsy 1|Clumsy 2]], [[Conditions/Enfeebled 1|Enfeebled 2]], or a –10 status penalty to Speed."
+    desc: "`pf2:1` (curse,manipulate,occult) **Requirements** The vidileth's last action was a success with a claw Strike\n* * *\n\n**Effect** The vidileth sloppily modifies the target's flesh. They must succeed at a DC 34 Fortitude check save or permanently receive the veiled master's choice of [[Conditions/Clumsy|Clumsy 2]], [[Conditions/Enfeebled|Enfeebled 2]], or a –10 status penalty to Speed."
 
   - name: "Tentacle Flurry"
     desc: "`pf2:2`  The vidileth makes a tentacle Strike against each creature within its reach. Make only one attack roll, and roll damage once for all targets."
 
   - name: "Thoughtlance"
-    desc: " (curse,occult) A creature touched by the vidileth's tentacles must attempt a DC 34 Will check save, becoming [[Conditions/Slowed 1|Slowed 1]] on a failure or [[Conditions/Slowed 1|Slowed 2]] on a critical failure. Each time the affected creature ends its turn, its slowed value decreases by 1."
+    desc: " (curse,occult) A creature touched by the vidileth's tentacles must attempt a DC 34 Will check save, becoming [[Conditions/Slowed|Slowed 1]] on a failure or [[Conditions/Slowed|Slowed 2]] on a critical failure. Each time the affected creature ends its turn, its slowed value decreases by 1."
  
+```
+
+```encounter-table
+name: Vidileth
+creatures:
+  - 1: Vidileth
 ```
 
 

@@ -9,28 +9,32 @@ tags:
   - trait/mental
   - trait/common
   - category/offensive
+  - remaster
 aliases: "Compendium.pf2e.actionspf2e.Item.M8RCbthRhB4bxO9t"
-license: OGL
+license: ORC
 ---
 # Iron Command `pf2:r`
 
-### [[champion]][[divine]][[emotion]][[mental]]
+### [[3-Rules/trait_reference/champion]][[3-Rules/Rule References/Divine]][[3-Rules/Rule References/Emotion]][[3-Rules/Rule References/Mental]]
 
 **Category** offensive; 
 
 
 
 
-**Trigger** An enemy within 15 feet damages you
+**Trigger** An enemy in your champion's aura damages you
 
 * * *
 
-**Effect** You put an impertinent foe who dared harm you in their proper place. You command your enemy to kneel before you in obedience. If they dare to refuse, they must pay the price in pain and anguish. The foe must choose one of the following options.
+**Effect** You put an impertinent foe who dared harm you in their proper place. You command your enemy to kneel before you in obedience. If they dare to refuse, they must pay the price in pain and anguish. The enemy must choose one of the following options.
 
-*   The enemy kneels, dropping [[Conditions/Prone|Prone]] as a free action.
-*   The enemy refuses, and you deal 1d6 mental damage to it. This damage increases to 2d6 at 5th level, 3d6 at 9th level, 4d6 at 12th level, 5d6 at 16th level, and 6d6 at 19th level.
+*   **Kneel** The enemy drops [[Conditions/Prone|Prone]] as a free action.
+*   **Refuse** You deal 1d6 mental damage to the enemy. This damage increases to 2d6 at 5th level, 3d6 at 9th level, 4d6 at 12th level, 5d6 at 16th level, and 6d6 at 19th level.
+    
 
-In addition, your Strikes against the triggering creature deal 1 extra damage until the end of your next turn. You choose whether the damage type is spirit or void each time you use this reaction. This extra damage increases to 2 at 9th level and 3 at 16th level.
+Regardless of which option the enemy chose, your Strikes against it deal 1 extra spirit damage until the end of your next turn. This extra damage increases to 2 at 9th level and 3 at 16th level.
 
-*Source: Pathfinder Advanced Player's Guide*
-*OGL*
+[[Feat_Feature Effects/Effect_ Champion's Extra Damage|Effect: Champion's Extra Damage]]
+
+*Source: Pathfinder Player Core 2*
+*ORC*

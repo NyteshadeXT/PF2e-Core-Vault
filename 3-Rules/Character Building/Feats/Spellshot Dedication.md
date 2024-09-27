@@ -21,7 +21,9 @@ license: OGL
 
 **Prerequisites** way of the spellshot
 * * *
-You've steeped yourself in magic and gunplay to the extent that you can conjure bullets from thin air, using a rudimentary knowledge of arcane theory to create a temporary piece of ammunition. You gain the [[Actions/Conjure Bullet|Conjure Bullet]] action.
+You cast arcane spells like a wizard, gaining a spellbook with four common arcane cantrips of your choice. You gain the Cast a Spell activity. You can prepare two cantrips each day from your spellbook. You're trained in the spell attack modifier and spell DC statistics. Your key spellcasting attribute for spellshot archetype spells is Intelligence, and they are arcane spells. You become trained in Arcana; if you were already trained in Arcana, you instead become trained in a skill of your choice. This counts as the wizard archetype for the benefits of [[Feats/Basic Wizard Spellcasting|Basic Wizard Spellcasting]].
+
+* * *
 
 **Special** You can't select another dedication feat other than Beast Gunner Dedication until you've gained two other feats from the [[PF2e Journals/Archetypes/Spellshot|Spellshot]] or [[PF2e Journals/Archetypes/Beast Gunner|Beast Gunner]] archetypes.
 

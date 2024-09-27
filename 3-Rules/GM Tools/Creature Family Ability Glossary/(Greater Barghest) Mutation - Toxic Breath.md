@@ -19,7 +19,7 @@ license: OGL
 
 
 
-The barghest breathes a cloud of toxic gas that deals 8d6 poison damage to all creatures in a 30-foot cone (DC 25 Fortitude check save).
+The barghest breathes a cloud of toxic gas that deals 8d6 poison damage to all creatures in a @Template\[cone|distance:30\] (DC 25 Fortitude check save).
 
 It can't use Toxic Breath again for 1d4 rounds.
 

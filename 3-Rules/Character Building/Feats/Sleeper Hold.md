@@ -7,8 +7,9 @@ tags:
   - trait/monk
   - trait/common
   - category/class
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.E1WXnYE2QwhHQxQb"
-license: OGL
+license: ORC
 ---
 # Sleeper Hold `pf2:1`
 ## Feat 10
@@ -29,7 +30,7 @@ You pinch crucial points of your target's nervous system, impeding its ability t
 
 **Critical Success** The target falls [[Conditions/Unconscious|Unconscious]] for 1 minute, though it remains standing and doesn't drop what it holds.
 
-**Success** The target is [[Conditions/Clumsy 1|Clumsy 1]] until the end of its next turn.
+**Success** The target is [[Conditions/Clumsy|Clumsy 1]] until the end of its next turn.
 
-*Source: Pathfinder Core Rulebook*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

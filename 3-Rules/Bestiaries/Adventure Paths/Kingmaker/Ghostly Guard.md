@@ -12,6 +12,7 @@ tags:
   - pf2e/creature/type/spirit
   - pf2e/creature/type/undead
   - pf2e/creature/type/unholy
+  - pf2eMonster
   - pf2e/creature/level/15
 statblock: inline
 name: "Ghostly Guard"
@@ -26,16 +27,16 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Kingmaker"
 name: "Ghostly Guard"
 level: "Creature 15"
-rare_03: "Rare"
+rare_03: [[Rare]]
 alignment: ""
 size: "Medium"
-trait_01: "chaotic"
-trait_02: "evil"
-trait_03: "ghost"
-trait_04: "incorporeal"
-trait_05: "spirit"
-trait_06: "undead"
-trait_07: "unholy"
+trait_01: [[chaotic]]
+trait_02: [[evil]]
+trait_03: [[ghost]]
+trait_04: [[incorporeal]]
+trait_05: [[spirit]]
+trait_06: [[undead]]
+trait_07: [[unholy]]
 modifier: 29
 perception:
   - name: "Perception"
@@ -68,7 +69,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "[[Creature Family Ability Glossary/(Ghost) Rejuvenation|Rejuvenation]]"
-    desc: " (divine) Slaying or forgiving Nyrissa allows the ghostly guards to move on to their long-delayed afterlives, as does achieving a critical success with Forgive Foe.\nWhen a ghost is destroyed, it re-forms after 2d4 days within the location it's bound to, fully healed. A ghost can be permanently destroyed only if someone determines the reason for its existence and sets right whatever prevents the spirit from resting."
+    desc: " (divine) Slaying or forgiving Nyrissa allows the ghostly guards to move on to their long-delayed afterlives, as does achieving a critical success with Forgive Foe.\n* * *\n\nWhen a ghost is destroyed, it re-forms after 2d4 days within the location it's bound to, fully healed. A ghost can be permanently destroyed only if someone determines the reason for its existence and sets right whatever prevents the spirit from resting."
 
 attacks:
   - name: ""
@@ -80,11 +81,17 @@ attacks:
     desc: "`pf2:1` (attack) The ghostly guard lashes out with a whipping strand of solid ectoplasm against a target within 15 feet, in an attempt to [[Actions/Disarm|Disarm]], [[Actions/Shove|Shove]], or [[Actions/Trip|Trip]] the foe. It uses its ghostly rapier Strike rather than an Athletics check to determine the results of this attempt."
 
   - name: "[[Creature Family Ability Glossary/(Ghost) Frightful Moan|Frightful Moan]]"
-    desc: "`pf2:2` (auditory,divine,emotion,fear,mental) The ghost laments its fate, forcing each living creature within 30 feet to attempt a DC 36 Will check save. On a failure, a creature becomes [[Conditions/Frightened 1|Frightened 2]] (or [[Conditions/Frightened 1|Frightened 3]] on a critical failure). On a success, a creature is temporarily immune to this ghost's frightful moan for 1 minute."
+    desc: "`pf2:2` (auditory,divine,emotion,fear,mental) The ghost laments its fate, forcing each living creature within 30 feet to attempt a DC 36 Will check save. On a failure, a creature becomes [[Conditions/Frightened|Frightened 2]] (or [[Conditions/Frightened|Frightened 3]] on a critical failure). On a success, a creature is temporarily immune to this ghost's frightful moan for 1 minute."
 
   - name: "[[Bestiary Ability Glossary/Sneak Attack|Sneak Attack]]"
     desc: "  A ghostly guard deals 3d6 extra precision damage to [[Conditions/Off-Guard|Off-Guard]] creatures."
  
+```
+
+```encounter-table
+name: Ghostly Guard
+creatures:
+  - 1: Ghostly Guard
 ```
 
 

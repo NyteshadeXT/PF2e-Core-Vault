@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/aesir
   - pf2e/creature/type/chaotic
   - pf2e/creature/type/monitor
+  - pf2eMonster
   - pf2e/creature/level/16
 statblock: inline
 name: "Svaryr Soldier"
@@ -22,17 +23,17 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #192: Worst of All Possible Worlds"
 name: "Svaryr Soldier"
 level: "Creature 16"
-rare_03: "Rare"
+rare_03: [[Rare]]
 alignment: ""
 size: "Medium"
-trait_01: "aesir"
-trait_02: "chaotic"
-trait_03: "monitor"
+trait_01: [[aesir]]
+trait_02: [[chaotic]]
+trait_03: [[monitor]]
 modifier: 30
 perception:
   - name: "Perception"
     desc: "+30; Darkvision"
-languages: "Common, Jotun, Skald"
+languages: "Common, Jotun, Skald; tongues"
 skills:
   - name: "Skills"
     desc: "Athletics: +32, Crafting: +25, Intimidation: +29"
@@ -90,6 +91,12 @@ attacks:
   - name: "Instant Repair"
     desc: "`pf2:1`  The soldier [[Actions/Repair|Repairs]] their shield. They can't use this ability if the shield is completely destroyed."
  
+```
+
+```encounter-table
+name: Svaryr Soldier
+creatures:
+  - 1: Svaryr Soldier
 ```
 
 

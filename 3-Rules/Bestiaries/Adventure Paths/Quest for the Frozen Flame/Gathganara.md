@@ -11,6 +11,7 @@ tags:
   - pf2e/creature/type/good
   - pf2e/creature/type/nymph
   - pf2e/creature/type/water
+  - pf2eMonster
   - pf2e/creature/level/1
 statblock: inline
 name: "Gathganara"
@@ -28,17 +29,17 @@ level: "Creature 1"
 
 alignment: ""
 size: "Medium"
-trait_01: "amphibious"
-trait_02: "chaotic"
-trait_03: "fey"
-trait_04: "good"
-trait_05: "nymph"
-trait_06: "water"
+trait_01: [[amphibious]]
+trait_02: [[chaotic]]
+trait_03: [[fey]]
+trait_04: [[good]]
+trait_05: [[nymph]]
+trait_06: [[water]]
 modifier: 6
 perception:
   - name: "Perception"
     desc: "+6; Darkvision"
-languages: "Common, Elven, Fey"
+languages: "Common, Elven, Fey; speak with animals"
 skills:
   - name: "Skills"
     desc: "Acrobatics: +6, Athletics: +3, Diplomacy: +7, Nature: +6, Stealth: +6, Survival: +4"
@@ -80,6 +81,12 @@ attacks:
   - name: "Water Healing"
     desc: "`pf2:2` (concentrate,healing,primal) While within her bonded body of water, the naiad heals 1 Hit Point every 10 minutes."
  
+```
+
+```encounter-table
+name: Gathganara
+creatures:
+  - 1: Gathganara
 ```
 
 

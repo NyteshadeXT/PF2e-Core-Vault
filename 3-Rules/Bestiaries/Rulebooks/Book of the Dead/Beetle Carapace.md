@@ -10,6 +10,7 @@ tags:
   - pf2e/creature/type/skeleton
   - pf2e/creature/type/undead
   - pf2e/creature/type/unholy
+  - pf2eMonster
   - pf2e/creature/level/6
 statblock: inline
 name: "Beetle Carapace"
@@ -27,15 +28,16 @@ level: "Creature 6"
 
 alignment: ""
 size: "Large"
-trait_01: "evil"
-trait_02: "mindless"
-trait_03: "skeleton"
-trait_04: "undead"
-trait_05: "unholy"
+trait_01: [[evil]]
+trait_02: [[mindless]]
+trait_03: [[skeleton]]
+trait_04: [[undead]]
+trait_05: [[unholy]]
 modifier: 12
 perception:
   - name: "Perception"
     desc: "+12; Darkvision"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Acrobatics: +11, Athletics: +15"
@@ -69,11 +71,17 @@ attacks:
     desc: "  The abdomen of a beetle carapace can be fitted with a simple hinge, allowing it to open and be used as storage. The abdomen can hold up to one Medium or smaller creature, a Large or smaller swarm, or a similar amount of cargo. The beetle or a creature stored in it can Interact to open the hatch. If the beetle carapace takes a critical hit by a bludgeoning weapon, roll a DC 10 Flat check. If the check fails, the cache is breached, and its contents spill out of the beetle. The hatch can also be Forced Open (DC 22 Athletics check)."
 
   - name: "[[Bestiary Ability Glossary/Constrict|Constrict]]"
-    desc: "`pf2:1`  2d8 + 2 piercing, DC 24 Fortitude check\n"
+    desc: "`pf2:1`  2d8+2 piercing, DC 24 Fortitude check\n\n* * *\n"
 
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
     desc: "`pf2:1`  "
  
+```
+
+```encounter-table
+name: Beetle Carapace
+creatures:
+  - 1: Beetle Carapace
 ```
 
 

@@ -10,6 +10,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/human
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/15
 statblock: inline
 name: "The Weaver in Dreams"
@@ -24,14 +25,14 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Dark Archive Web Supplement: In Darkness"
 name: "The Weaver in Dreams"
 level: "Creature 15"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Medium"
-trait_01: "aberration"
-trait_02: "chaotic"
-trait_03: "evil"
-trait_04: "human"
-trait_05: "humanoid"
+trait_01: [[aberration]]
+trait_02: [[chaotic]]
+trait_03: [[evil]]
+trait_04: [[human]]
+trait_05: [[humanoid]]
 modifier: 33
 perception:
   - name: "Perception"
@@ -58,13 +59,13 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Dreams Unraveling"
-    desc: " (aura,emotion,fear,mental,visual) When the Weaver has fewer than 155 Hit Points, his form partially unravels, revealing patches of pure horror acute enough to leave physical wounds. This creates a 10-foot emanation that deals 3d6 mental damage and 3d6 slashing damage, with a DC 36 Will check. A creature Averting its Gaze is immune to the aura."
+    desc: " (aura,emotion,fear,mental,visual) When the Weaver has fewer than 155 Hit Points, his form partially unravels, revealing patches of pure horror acute enough to leave physical wounds. This creates a @Template[emanation|distance:10] that deals 3d6 mental damage and 3d6 slashing damage, with a DC 36 Will check. A creature Averting its Gaze is immune to the aura."
 
   - name: "Nameless Nightmare"
-    desc: "  The Weaver has torn off his own name to become a being of fear. He is immune to linguistic effects and any effect that would impose the [[Conditions/Frightened 1|Frightened]] condition. Without a name, he is difficult for phenomena to affect; the Weaver recovers from the [[Conditions/Paralyzed|Paralyzed]], [[Conditions/Slowed 1|Slowed]], and [[Conditions/Stunned 1|Stunned]] conditions at the end of his turn, and his flat check to clear persistent damage is 5. If anyone utters, writes, or otherwise attempts to record his name, that creature automatically takes 10 mental damage and the attempt fails."
+    desc: "  The Weaver has torn off his own name to become a being of fear. He is immune to linguistic effects and any effect that would impose the [[Conditions/Frightened|Frightened]] condition. Without a name, he is difficult for phenomena to affect; the Weaver recovers from the [[Conditions/Paralyzed|Paralyzed]], [[Conditions/Slowed|Slowed]], and [[Conditions/Stunned|Stunned]] conditions at the end of his turn, and his flat check to clear persistent damage is 5. If anyone utters, writes, or otherwise attempts to record his name, that creature automatically takes 10 mental damage and the attempt fails."
 
   - name: "Stitch Into the Web"
-    desc: "`pf2:r`  **Trigger** The Weaver is moved against his will, or a creature attempts to leave a square within 20 feet of him by any means, including teleportation\n**Effect** The Weaver's silk stitches a body in place to prevent movement. The creature stops moving and the action is disrupted. The disruption doesn't affect astral bodies."
+    desc: "`pf2:r`  **Trigger** The Weaver is moved against his will, or a creature attempts to leave a square within 20 feet of him by any means, including teleportation\n* * *\n\n**Effect** The Weaver's silk stitches a body in place to prevent movement. The creature stops moving and the action is disrupted. The disruption doesn't affect astral bodies."
 
 attacks:
   - name: ""
@@ -82,11 +83,17 @@ attacks:
     desc: "`pf2:2`  The Weaver uses a claw to cut the silver cord connecting a creature's astral and physical bodies. This deals 16d6 mental damage to any target affected by Separate Astral Body whose physical or astral body is within 10 feet of the Weaver (DC 37 Will check). After being targeted by this ability, the astral body slams violently back into the target's physical body, causing the target's vision to swim and blinding them until the start of their next turn unless they critically succeeded at their saving throw."
 
   - name: "Stalker in Dreams"
-    desc: " (teleportation) **Trigger** The Weaver becomes [[Conditions/Concealed|Concealed]] to all creatures within 60 feet or is not observed by any creatures within 60 feet\n**Effect** The Weaver's presence on the Material Plane is connected to others' perception of him, and when that perception falters, he can skitter to a new location. The Weaver teleports to an unoccupied space within 60 feet not within line of sight of any creatures within 60 feet. If the Weaver became concealed or unobserved as part of a movement action he was taking, he can resume its movement after teleporting. A creature who Averts its Gaze from the Weaver is not observing him."
+    desc: " (teleportation) **Trigger** The Weaver becomes [[Conditions/Concealed|Concealed]] to all creatures within 60 feet or is not observed by any creatures within 60 feet\n* * *\n\n**Effect** The Weaver's presence on the Material Plane is connected to others' perception of him, and when that perception falters, he can skitter to a new location. The Weaver teleports to an unoccupied space within 60 feet not within line of sight of any creatures within 60 feet. If the Weaver became concealed or unobserved as part of a movement action he was taking, he can resume its movement after teleporting. A creature who Averts its Gaze from the Weaver is not observing him."
 
   - name: "String Astral Body"
     desc: "`pf2:1`  The Weaver attaches strings to a creature's astral body to move it. He forcefully moves an exposed astral body within reach of his astral silk Strike up to 20 feet, with no saving throw."
  
+```
+
+```encounter-table
+name: The Weaver in Dreams
+creatures:
+  - 1: The Weaver in Dreams
 ```
 
 

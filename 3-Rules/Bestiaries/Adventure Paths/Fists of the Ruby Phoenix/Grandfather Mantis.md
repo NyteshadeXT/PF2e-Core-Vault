@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/minion
   - pf2e/creature/type/monitor
   - pf2e/creature/type/spirit
+  - pf2eMonster
   - pf2e/creature/level/15
 statblock: inline
 name: "Grandfather Mantis"
@@ -23,18 +24,18 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #167: Ready? Fight!"
 name: "Grandfather Mantis"
 level: "Creature 15"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Medium"
-trait_01: "good"
-trait_02: "minion"
-trait_03: "monitor"
-trait_04: "spirit"
+trait_01: [[good]]
+trait_02: [[minion]]
+trait_03: [[monitor]]
+trait_04: [[spirit]]
 modifier: 27
 perception:
   - name: "Perception"
     desc: "+27; "
-languages: "Arcadian"
+languages: "Arcadian; telepathy 100 feet"
 skills:
   - name: "Skills"
     desc: "Athletics: +28, Occultism: +25, Religion: +25"
@@ -65,11 +66,17 @@ attacks:
     desc: "DC 35, attack +27; __5th __ (2 slots) _[[Spells/Fly|Fly]]_, _[[Spells/Shadow Blast|Shadow Blast]]_"
 
   - name: "Mantis Ambush"
-    desc: "`pf2:r`  **Trigger** A creature within Grandfather Mantis's reach is hit by an ally's melee attack\n**Effect** Grandfather Mantis makes a claw Strike against the triggering creature."
+    desc: "`pf2:r`  **Trigger** A creature within Grandfather Mantis's reach is hit by an ally's melee attack\n* * *\n\n**Effect** Grandfather Mantis makes a claw Strike against the triggering creature."
 
   - name: "Pounce"
     desc: "`pf2:1`  Grandfather Mantis Strides, then Strikes."
  
+```
+
+```encounter-table
+name: Grandfather Mantis
+creatures:
+  - 1: Grandfather Mantis
 ```
 
 

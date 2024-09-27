@@ -16,6 +16,8 @@ license: OGL
 
 
 
+Granted by [[Equipment/Pickled Demon Tongue (Major)|Pickled Demon Tongue (Major)]]
+
 Strikes with the weapon deal an additional 1d8 acid damage.
 
 *Source: Pathfinder #188: They Watched the Stars*

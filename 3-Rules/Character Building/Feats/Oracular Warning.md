@@ -3,16 +3,21 @@ obsidianUIMode: preview
 title: "Oracular Warning"
 cssclasses: pf2e,pf2e-spell
 tags:
+  - trait/auditory
+  - trait/cursebound
   - trait/divine
+  - trait/emotion
+  - trait/mental
   - trait/oracle
   - trait/common
   - category/class
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.Gcliatty0MGYbTVV"
-license: OGL
+license: ORC
 ---
 # Oracular Warning `pf2:0`
-## Feat 10
-### [[divine]][[oracle]]
+## Feat 1
+### [[auditory]][[cursebound]][[divine]][[emotion]][[mental]][[oracle]]
 
 **Category** class; 
 
@@ -23,9 +28,9 @@ license: OGL
 
 * * *
 
-You have a flash of insight about impending danger related to one ally, and you can shout or gesture to warn that ally of the threat a moment before it materializes. One ally of your choice can roll twice for initiative and use the better result; this is a fortune effect. If you are legendary in Religion, you receive two visions and can warn two allies, granting them both this benefit.
+You have a premonition about impending danger that you use to warn your allies. Each ally within 20 feet gains a +2 status bonus to their initiative roll and gains temporary Hit Points equal to half your level, which last for 1 minute. If you are [[Conditions/Cursebound|Cursebound 2]] when you use Oracular Warning, the bonus increases to +3, and if you are cursebound 3, the bonus increases to +4.
 
-You are momentarily thrown off by the divine insight, however, and you must roll twice for your initiative roll and use the worse result. This is a misfortune effect. The two effects are tied together; if you would avoid the misfortune effect for any reason, or if any of your allies would negate their fortune effect, your Oracular Warning does nothing. Depending on whether you use gestures or call out, this action gains either the visual or auditory trait, respectively.
+[[Feat_Feature Effects/Effect_ Oracular Warning|Effect: Oracular Warning]]
 
-*Source: Pathfinder Advanced Player's Guide*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

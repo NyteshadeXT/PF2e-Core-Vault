@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/humanoid
   - pf2e/creature/type/skulk
+  - pf2eMonster
   - pf2e/creature/level/1
 statblock: inline
 name: "Skulk Raider"
@@ -23,13 +24,13 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Society Scenario #4-05: The Arclord who Never Was"
 name: "Skulk Raider"
 level: "Creature 1"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Medium"
-trait_01: "chaotic"
-trait_02: "evil"
-trait_03: "humanoid"
-trait_04: "skulk"
+trait_01: [[chaotic]]
+trait_02: [[evil]]
+trait_03: [[humanoid]]
+trait_04: [[skulk]]
 modifier: 5
 perception:
   - name: "Perception"
@@ -77,6 +78,12 @@ attacks:
   - name: "[[Bestiary Ability Glossary/Sneak Attack|Sneak Attack]]"
     desc: "  A skulk's Strikes deal an extra 1d6 precision damage to [[Conditions/Off-Guard|Off-Guard]] creatures."
  
+```
+
+```encounter-table
+name: Skulk Raider
+creatures:
+  - 1: Skulk Raider
 ```
 
 

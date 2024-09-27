@@ -8,8 +8,9 @@ tags:
   - trait/move
   - trait/common
   - category/class
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.jfsmtOx4QgXB19BL"
-license: OGL
+license: ORC
 ---
 # Tumbling Strike `pf2:1`
 ## Feat 8
@@ -25,9 +26,7 @@ license: OGL
 
 * * *
 
-Attempt an Acrobatics check check against the Reflex DC of an enemy adjacent to you.
-
-* * *
+You deftly dive through a gap left by a foe to deliver an advantageous blow. Attempt an Acrobatics check against the Reflex DC of an enemy adjacent to you.
 
 **Critical Success** You move through the enemy's space to an unoccupied space on the other side of the enemy from your starting position. This movement doesn't trigger reactions. You can't move farther than your Speed, and you must end your movement adjacent to the enemy whose space you moved through. After moving, you make a melee Strike against the enemy whose space you moved through, and the enemy is [[Conditions/Off-Guard|Off-Guard]] against that Strike.
 
@@ -35,7 +34,7 @@ Attempt an Acrobatics check check against the Reflex DC of an enemy adjacent to 
 
 **Failure** You remain in your original space but can still Strike.
 
-**Critical Failure** No effect.
+**Critical Failure** You neither move nor Strike.
 
-*Source: Pathfinder Advanced Player's Guide*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

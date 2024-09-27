@@ -10,6 +10,7 @@ tags:
   - pf2e/creature/type/fiend
   - pf2e/creature/type/nindoru
   - pf2e/creature/type/unholy
+  - pf2eMonster
   - pf2e/creature/level/4
 statblock: inline
 name: "Sojiruh"
@@ -24,14 +25,14 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #197: Let the Leaves Fall"
 name: "Sojiruh"
 level: "Creature 4"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Medium"
-trait_01: "chaotic"
-trait_02: "evil"
-trait_03: "fiend"
-trait_04: "nindoru"
-trait_05: "unholy"
+trait_01: [[chaotic]]
+trait_02: [[evil]]
+trait_03: [[fiend]]
+trait_04: [[nindoru]]
+trait_05: [[unholy]]
 modifier: 11
 perception:
   - name: "Perception"
@@ -77,8 +78,14 @@ attacks:
     desc: "  When a sojiruh wields a broken non-magical weapon, they do not take any of the disadvantages of the weapon being broken. While the sojiruh wields it, the weapon becomes a +1 weapon that deals an additional 1d6 mental damage on a successful hit."
 
   - name: "Stolen Scream"
-    desc: "`pf2:2` (auditory,emotion,fear,mental,occult) The sojiruh targets a creature within 30 feet that it can see and then inhales, creating a sound identical to that of the target's scream. The targeted creature must attempt a DC 21 Fortitude check save, after which they're temporarily immune to that sojiruh's Soul Scream for 24 hours. If the creature becomes frightened as a result of Stolen Scream and has had a past life, the sojiruh restores 2d8 + 8 Hit Points.\n**Critical Success** The creature is unaffected.\n**Success** The creature takes 2d6 mental damage.\n**Failure** The creature takes 4d6 mental damage and is [[Conditions/Frightened 1|Frightened 1]].\n**Critical Failure** The creature takes 8d6 mental damage and is [[Conditions/Frightened 1|Frightened 3]]."
+    desc: "`pf2:2` (auditory,emotion,fear,mental,occult) The sojiruh targets a creature within 30 feet that it can see and then inhales, creating a sound identical to that of the target's scream. The targeted creature must attempt a DC 21 Fortitude check save, after which they're temporarily immune to that sojiruh's Soul Scream for 24 hours. If the creature becomes frightened as a result of Stolen Scream and has had a past life, the sojiruh restores 2d8+8 Hit Points.\n* * *\n\n**Critical Success** The creature is unaffected.\n\n**Success** The creature takes 2d6 mental damage.\n\n**Failure** The creature takes 4d6 mental damage and is [[Conditions/Frightened|Frightened 1]].\n\n**Critical Failure** The creature takes 8d6 mental damage and is [[Conditions/Frightened|Frightened 3]]."
  
+```
+
+```encounter-table
+name: Sojiruh
+creatures:
+  - 1: Sojiruh
 ```
 
 

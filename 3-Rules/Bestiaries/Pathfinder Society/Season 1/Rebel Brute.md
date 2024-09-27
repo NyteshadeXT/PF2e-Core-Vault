@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.pfs-season-1-bestiary.Actor.wv8PrDy91ae3njBv"
 tags:
   - pf2e/creature/type/human
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/2
 statblock: inline
 name: "Rebel Brute"
@@ -24,8 +25,8 @@ level: "Creature 2"
 
 alignment: ""
 size: "Medium"
-trait_01: "human"
-trait_02: "humanoid"
+trait_01: [[human]]
+trait_02: [[humanoid]]
 modifier: 6
 perception:
   - name: "Perception"
@@ -65,8 +66,14 @@ attacks:
     desc: "`pf2:1` Heavy Crossbow +7 (range increment 120 feet, reload 2)\n__Damage__  1d10 piercing"
 
   - name: "Brutish Shove"
-    desc: "`pf2:1` (press) The rebel brute makes a single Strike with a two-handed melee weapon. If the rebel brute hits a target that is their size or smaller, that creature is [[Conditions/Off-Guard|Off-Guard]] until the end of the brute's turn, and the brute can automatically [[Action Macros/Shove_ Athletics|Shove: Athletics]] it with the same benefits as the Shove action (including the critical success effect, if the Strike was a critical hit). If the brute moves to follow the target, that movement doesn't trigger reactions. This Strike has the following failure effect.\n**Failure** The target becomes off-guard until the end of the elite rebel brute's current turn."
+    desc: "`pf2:1` (press) The rebel brute makes a single Strike with a two-handed melee weapon. If the rebel brute hits a target that is their size or smaller, that creature is [[Conditions/Off-Guard|Off-Guard]] until the end of the brute's turn, and the brute can automatically [[Action Macros/Shove_ Athletics|Shove: Athletics]] it with the same benefits as the Shove action (including the critical success effect, if the Strike was a critical hit). If the brute moves to follow the target, that movement doesn't trigger reactions. This Strike has the following failure effect.\n\n**Failure** The target becomes off-guard until the end of the elite rebel brute's current turn."
  
+```
+
+```encounter-table
+name: Rebel Brute
+creatures:
+  - 1: Rebel Brute
 ```
 
 

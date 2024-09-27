@@ -11,7 +11,7 @@ license: OGL
 ---
 # Heightened Senses
 ## Feat 17
-### [[barbarian]]
+### [[3-Rules/trait_reference/barbarian]]
 
 **Category** classfeature; 
 

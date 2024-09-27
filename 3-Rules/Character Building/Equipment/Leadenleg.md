@@ -9,8 +9,9 @@ tags:
   - trait/poison
   - trait/common
   - category/poison
+  - remaster
 aliases: "Compendium.pf2e.equipment-srd.Item.QJ1fTrX42PoEWpK5"
-license: OGL
+license: ORC
 ---
 # Leadenleg
 ## Item 4
@@ -21,11 +22,11 @@ license: OGL
 **Bulk** L; **Size** med
 **Usage** held-in-two-hands
 
-Once injected, this synthetic toxin sinks into the extremities, numbing them nearly to paralysis.
+**Activate** `pf2:2` (manipulate)
 
 * * *
 
-**Activate** `pf2:2` Interact (Injury)
+Once injected, this synthetic toxin sinks into the extremities, numbing them nearly to paralysis.
 
 **Saving Throw** DC 20 Fortitude check
 
@@ -37,5 +38,5 @@ Once injected, this synthetic toxin sinks into the extremities, numbing them nea
 
 **Stage 3** 2d6 poison damage and -20-foot status penalty to all Speeds (1 round)
 
-*Source: Pathfinder Advanced Player's Guide*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

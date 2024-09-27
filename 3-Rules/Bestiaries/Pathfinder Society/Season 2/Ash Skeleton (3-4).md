@@ -10,6 +10,7 @@ tags:
   - pf2e/creature/type/skeleton
   - pf2e/creature/type/undead
   - pf2e/creature/type/unholy
+  - pf2eMonster
   - pf2e/creature/level/3
 statblock: inline
 name: "Ash Skeleton (3-4)"
@@ -24,18 +25,19 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Society Scenario #2-05: Balancing the Scales"
 name: "Ash Skeleton (3-4)"
 level: "Creature 3"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Large"
-trait_01: "evil"
-trait_02: "mindless"
-trait_03: "skeleton"
-trait_04: "undead"
-trait_05: "unholy"
+trait_01: [[evil]]
+trait_02: [[mindless]]
+trait_03: [[skeleton]]
+trait_04: [[undead]]
+trait_05: [[unholy]]
 modifier: 7
 perception:
   - name: "Perception"
     desc: "+7; Darkvision"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Athletics: +10, Deception: +8, Stealth: +8"
@@ -57,7 +59,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Crumble"
-    desc: "`pf2:r`  **Trigger** The ash skeleton is critically hit\n**Effect** The ash skeleton crumbles to ash, and the attack deals only normal damage"
+    desc: "`pf2:r`  **Trigger** The ash skeleton is critically hit\n* * *\n\n**Effect** The ash skeleton crumbles to ash, and the attack deals only normal damage"
 
 attacks:
   - name: ""
@@ -69,11 +71,17 @@ attacks:
     desc: "`pf2:1` Claw +12 (agile, reach 10 feet)\n__Damage__  1d8 + 5 slashing"
 
   - name: "Ash Form"
-    desc: "`pf2:1`  The ash skeleton crumbles to ash or reforms in a standing position. While ash, the ash skeleton is [[Conditions/Immobilized|Immobile]], [[Conditions/Off-Guard|Off-Guard]], and has an automatic result of 28 on Deception checks and DCs to pass as an inanimate pile of ash or layer of soot.\nThe ash skeleton can remain in this ash form indefinitely."
+    desc: "`pf2:1`  The ash skeleton crumbles to ash or reforms in a standing position. While ash, the ash skeleton is [[Conditions/Immobilized|Immobile]], [[Conditions/Off-Guard|Off-Guard]], and has an automatic result of 28 on Deception checks and DCs to pass as an inanimate pile of ash or layer of soot.\n\nThe ash skeleton can remain in this ash form indefinitely."
 
   - name: "[[Bestiary Ability Glossary/Rend|Rend]]"
-    desc: "`pf2:1`  Claw\n"
+    desc: "`pf2:1`  Claw\n\n* * *\n"
  
+```
+
+```encounter-table
+name: Ash Skeleton (3-4)
+creatures:
+  - 1: Ash Skeleton (3-4)
 ```
 
 

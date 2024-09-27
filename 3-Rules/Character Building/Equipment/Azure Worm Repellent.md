@@ -12,7 +12,7 @@ license: OGL
 ---
 # Azure Worm Repellent
 ## Item 15
-### [uncommon](uncommon "Uncommon Rarity Trait")[[alchemical]][[consumable]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[alchemical]][[consumable]]
 
 **Category** toolkit; 
 **Price** 1100 gp; 

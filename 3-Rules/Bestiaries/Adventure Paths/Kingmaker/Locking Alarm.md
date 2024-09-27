@@ -5,6 +5,7 @@ noteType: pf2eHazard
 tags:
   - magical
   - trap
+  - pf2eHazard
 
 source: Pathfinder Kingmaker
 aliases: "Compendium.pf2e.kingmaker-bestiary.Actor.B0EZMtvXsIE3SYiu" 
@@ -22,14 +23,14 @@ name: "Locking Alarm"
 level: "Hazard 10"
 
 
-trait_01: "magical"
-trait_02: "trap"
+trait_01: [[magical]]
+trait_02: [[trap]]
 modifier: 17
 sourcebook: "_Pathfinder Kingmaker_"
 ac: 25
 armorclass:
   - name: AC
-    desc: "25; __Fort__ +24, __Ref__ +16, __Will__ +0"
+    desc: "25; __Fort__ +24, __Ref__ +16, "
 hp: 70
 health:
   - name: ""
@@ -51,10 +52,16 @@ attacks:
   - name: ""
 
   - name: "Lock and Shriek"
-    desc: "`pf2:r` (occult) **Trigger** A creature attempts to open or affect the door\n**Effect** The religious symbol of Yhidothrus glows green on the door, sealing it shut while simultaneously shrieking like a tormented soul. This howl is audible in areas **D1-D4** and is loud enough in area **D2** to rouse the bodaks.\nWhile the door remains locked, a DC 32 Athletics check check can Force it Open, or a DC 32 Thievery check check can Pick the Lock. The lock can also be removed with [[Spells/Dispel Magic|Dispel Magic]] (5th level, counteract DC 29).\nOnce triggered, the alarm continues to shriek and the door remains locked until the hazard is disabled or the door is destroyed or opened. Tracing Yhidothrus's hourglass-shaped religious symbol on either side of the door with a fingertip disables the alarm and the locking ward."
+    desc: "`pf2:r` (occult) **Trigger** A creature attempts to open or affect the door\n\n**Effect** The religious symbol of Yhidothrus glows green on the door, sealing it shut while simultaneously shrieking like a tormented soul. This howl is audible in areas **D1-D4** and is loud enough in area **D2** to rouse the bodaks.\n\nWhile the door remains locked, a DC 32 Athletics check check can Force it Open, or a DC 32 Thievery check check can Pick the Lock. The lock can also be removed with [[Spells/Dispel Magic|Dispel Magic]] (5th level, counteract DC 29).\n\nOnce triggered, the alarm continues to shriek and the door remains locked until the hazard is disabled or the door is destroyed or opened. Tracing Yhidothrus's hourglass-shaped religious symbol on either side of the door with a fingertip disables the alarm and the locking ward."
 
 
   - name: "Reset"
     desc: "The _locking alarm_ resets after 1 minute."
+```
+
+```encounter-table
+name: Locking Alarm
+creatures:
+  - 1: Locking Alarm
 ```
 

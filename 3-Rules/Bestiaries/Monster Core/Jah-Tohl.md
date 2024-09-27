@@ -6,6 +6,7 @@ cssClasses: pf2e
 aliases: "Compendium.pf2e.pathfinder-monster-core.Actor.YUI465JYqM65iimj" 
 tags:
   - pf2e/creature/type/aberration
+  - pf2eMonster
   - pf2e/creature/level/8
   - remaster
 statblock: inline
@@ -18,13 +19,14 @@ license: ORC
 columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
+token: [[modules/pf2e-tokens-bestiaries/portraits/aberrant/eldritch/brain-collector.webp| ]]
 source: "Pathfinder Monster Core"
 name: "Jah-Tohl"
 level: "Creature 8"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Large"
-trait_01: "aberration"
+trait_01: [[aberration]]
 modifier: 18
 perception:
   - name: "Perception"
@@ -32,7 +34,7 @@ perception:
 languages: "Aklo, Chthonian, Draconic, Protean, Sakvroth; Telepathy 100 feet"
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +17, Arcana: +18, Athletics: +16, Lore (all subcategories): +18, Occultism: +21, Stealth: +17"
+    desc: "Acrobatics: +17, Arcana: +18, Athletics: +16, Occultism: +21, Stealth: +17, Lore (all subcategories): +18"
 abilityMods: [6, 3, 5, 4, 4, 3]
 speed: 25 feet,  fly 30 feet
 sourcebook: "_Pathfinder Monster Core_"
@@ -54,7 +56,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Brain Blisters"
-    desc: "  A jah-tohl has seven brain blisters on its back that it uses to house stolen brains. A jah-tohl without all seven blisters full is [[Conditions/Stupefied 1|Stupefied]] with a value equal to the number of empty blisters."
+    desc: "  A jah-tohl has seven brain blisters on its back that it uses to house stolen brains. A jah-tohl without all seven blisters full is [[Conditions/Stupefied|Stupefied]] with a value equal to the number of empty blisters."
 
   - name: "Brain Loss"
     desc: "  If a jah-tohl takes 30 damage from a critical hit or 25 mental damage, it must succeed at a DC 26 save (Fortitude for critical damage or Will for mental damage) or one of its brain blisters is destroyed."
@@ -75,8 +77,14 @@ attacks:
     desc: "`pf2:1` (manipulate) The jahtohl extracts the brain of a creature within its reach that has been dead for no more than 1 minute. It can then use an Interact action to secure the brain in one of its empty brain blisters and heal 20 Hit Points."
 
   - name: "Mind Snatcher Venom"
-    desc: " (poison) **Saving Throw** DC 26 Fortitude check\n* * *\n\n**Maximum Duration** 6 rounds\n\n**Stage 1** 1d6 poison and [[Conditions/Enfeebled 1|Enfeebled 1]] (1 round)\n\n**Stage 2** 1d6 poison, enfeebled 1, and [[Conditions/Slowed 1|Slowed 1]] (1 round)\n\n**Stage 3** 2d6 poison, [[Conditions/Enfeebled 1|Enfeebled 2]], and slowed 1 (1 round)"
+    desc: " (poison) **Saving Throw** DC 26 Fortitude check\n* * *\n\n**Maximum Duration** 6 rounds\n\n**Stage 1** 1d6 poison and [[Conditions/Enfeebled|Enfeebled 1]] (1 round)\n\n**Stage 2** 1d6 poison, enfeebled 1, and [[Conditions/Slowed|Slowed 1]] (1 round)\n\n**Stage 3** 2d6 poison, [[Conditions/Enfeebled|Enfeebled 2]], and slowed 1 (1 round)"
  
+```
+
+```encounter-table
+name: Jah-Tohl
+creatures:
+  - 1: Jah-Tohl
 ```
 
 

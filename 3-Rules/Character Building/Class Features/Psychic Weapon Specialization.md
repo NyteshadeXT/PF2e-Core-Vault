@@ -3,6 +3,7 @@ obsidianUIMode: preview
 title: "Psychic Weapon Specialization"
 cssclasses: pf2e,pf2e-spell
 tags:
+  - trait/psychic
   - trait/common
   - category/classfeature
 aliases: "Compendium.pf2e.classfeatures.Item.a58MGVX2L589sC9g"
@@ -10,7 +11,7 @@ license: OGL
 ---
 # Psychic Weapon Specialization
 ## Feat 13
-### 
+### [[psychic]]
 
 **Category** classfeature; 
 

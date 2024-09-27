@@ -35,9 +35,9 @@ When casting the [[Spells/Avatar|Avatar]] spell, a worshipper of Kalekot gains t
 
 **Kalekot** Speed 70 feet, ignore difficult terrain
 
-Melee `pf2:1` ivory fangs (fatal d10, reach 10 feet), Damage 6d6 + 6 piercing damage
+Melee `pf2:1` ivory fangs (fatal d10, reach 10 feet), Damage 6d6+6 piercing damage
 
-Ranged `pf2:1` whisper of unmaking (range 120 feet), Damage 6d6 + 3 slashing damage
+Ranged `pf2:1` whisper of unmaking (range 120 feet), Damage 6d6+3 slashing damage
 
 *Source: Pathfinder Lost Omens: The Mwangi Expanse*
 *OGL*

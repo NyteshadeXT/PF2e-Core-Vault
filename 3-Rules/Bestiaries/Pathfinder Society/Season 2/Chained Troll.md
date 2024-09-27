@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/giant
   - pf2e/creature/type/troll
+  - pf2eMonster
   - pf2e/creature/level/6
 statblock: inline
 name: "Chained Troll"
@@ -23,13 +24,13 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Society Scenario #2-24: Breaking The Storm: Parting Clouds"
 name: "Chained Troll"
 level: "Creature 6"
-rare_03: "Rare"
+rare_03: [[Rare]]
 alignment: ""
 size: "Large"
-trait_01: "chaotic"
-trait_02: "evil"
-trait_03: "giant"
-trait_04: "troll"
+trait_01: [[chaotic]]
+trait_02: [[evil]]
+trait_03: [[giant]]
+trait_04: [[troll]]
 modifier: 13
 perception:
   - name: "Perception"
@@ -67,6 +68,12 @@ attacks:
   - name: "[[Bestiary Ability Glossary/Rend|Rend]]"
     desc: "`pf2:1`  **Claw**"
  
+```
+
+```encounter-table
+name: Chained Troll
+creatures:
+  - 1: Chained Troll
 ```
 
 

@@ -3,6 +3,7 @@ obsidianUIMode: preview
 title: "Raiment"
 cssclasses: pf2e,pf2e-spell
 tags:
+  - trait/illusion
   - trait/magical
   - trait/common
   - remaster
@@ -11,7 +12,7 @@ license: ORC
 ---
 # Raiment
 ## Item 5
-### [[magical]]
+### [[illusion]][[magical]]
 
 
 **Price** 140 gp; 

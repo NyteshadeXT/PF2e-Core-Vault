@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/chaotic
   - pf2e/creature/type/good
   - pf2e/creature/type/petitioner
+  - pf2eMonster
   - pf2e/creature/level/1
 statblock: inline
 name: "Petitioner (Elysium)"
@@ -26,9 +27,9 @@ level: "Creature 1"
 
 alignment: ""
 size: "Medium"
-trait_01: "chaotic"
-trait_02: "good"
-trait_03: "petitioner"
+trait_01: [[chaotic]]
+trait_02: [[good]]
+trait_03: [[petitioner]]
 modifier: 7
 perception:
   - name: "Perception"
@@ -61,8 +62,14 @@ attacks:
     desc: "`pf2:1` Fist +7 ()\n__Damage__  1d8 + 2 bludgeoning"
 
   - name: "Planar Incarnation - Elysium"
-    desc: "  All petitioners are formed from and personify the nature of the plane on which they manifest, and their statistics are adjusted as summarized below. They also gain any trait associated with creatures from their plane.\n**Elysium** The chosen appear as idealized versions of their mortal selves with glowing eyes\n*   **Alignment** CG;\n*   **Language** Celestial;\n*   **Additional Ability** immune to [[Spells/Blindness|Blindness]] and [[Conditions/Dazzled|Dazzled]];\n*   **Melee** fist +7, **Damage** 1d8+2 bludgeoning"
+    desc: "  All petitioners are formed from and personify the nature of the plane on which they manifest, and their statistics are adjusted as summarized below. They also gain any trait associated with creatures from their plane.\n\n**Elysium** The chosen appear as idealized versions of their mortal selves with glowing eyes\n\n*   **Alignment** CG;\n*   **Language** Celestial;\n*   **Additional Ability** immune to [[Spells/Blindness|Blindness]] and [[Conditions/Dazzled|Dazzled]];\n*   **Melee** fist +7, **Damage** 1d8+2 bludgeoning"
  
+```
+
+```encounter-table
+name: Petitioner (Elysium)
+creatures:
+  - 1: Petitioner (Elysium)
 ```
 
 

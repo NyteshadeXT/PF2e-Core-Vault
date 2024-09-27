@@ -6,8 +6,9 @@ tags:
   - trait/archetype
   - trait/common
   - category/class
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.RU86cGTryRAdaEqx"
-license: OGL
+license: ORC
 ---
 # Swashbuckler's Speed
 ## Feat 8
@@ -21,5 +22,5 @@ license: OGL
 * * *
 You move faster, with or without [[Feat_Feature Effects/Effect_ Panache|Panache]]. Increase the status bonus to your Speeds when you have panache to a +10-foot status bonus; you also gain a +5-foot status bonus to your Speeds when you don't have panache.
 
-*Source: Pathfinder Advanced Player's Guide*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

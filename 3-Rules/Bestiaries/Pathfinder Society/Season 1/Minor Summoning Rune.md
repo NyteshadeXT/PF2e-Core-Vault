@@ -4,6 +4,7 @@ obsidianUIMode: preview
 noteType: pf2eHazard
 tags:
   - magical
+  - pf2eHazard
   - complex
 source: Pathfinder Society Scenario #1-11: Flames of Rebellion
 aliases: "Compendium.pf2e.pfs-season-1-bestiary.Actor.bpCyglPCTMC8EL5w" 
@@ -21,13 +22,13 @@ name: "Minor Summoning Rune"
 level: "Hazard -1"
 
 trait_06: "Complex"
-trait_01: "magical"
+trait_01: [[magical]]
 modifier: 5
 sourcebook: "_Pathfinder Society Scenario #1-11: Flames of Rebellion_"
 ac: 10
 armorclass:
   - name: AC
-    desc: "10; __Fort__ +0, __Ref__ +0, __Will__ +0"
+    desc: "10; "
 hp: 0
 health:
   - name: ""
@@ -49,10 +50,16 @@ attacks:
   - name: ""
 
   - name: "Summon Monster"
-    desc: "`pf2:r` (arcane, summon) **Trigger** A creature enters the cloud of magical sensors.\n**Effect** This trap summons a specific level -1 creature, determined when the trap is created. The squares above the blue runes summon a [[Bestiary 1/Mitflit|Mitflit]], while the squares above the yellow runes summon a [[Bestiary 1/Bloodseeker|Bloodseeker]]. The creature rolls initiative and remains for 2d4 rounds, after which the spell ends and the creature disappears. The creature also disappears if someone disables the trap before the duration expires. The summoned creature can use 3 actions each round and can use reactions, unlike most summoned creatures."
+    desc: "`pf2:r` (arcane, summon) **Trigger** A creature enters the cloud of magical sensors.\n* * *\n\n**Effect** This trap summons a specific level -1 creature, determined when the trap is created. The squares above the blue runes summon a [[Bestiary 1/Mitflit|Mitflit]], while the squares above the yellow runes summon a [[Bestiary 1/Bloodseeker|Bloodseeker]]. The creature rolls initiative and remains for 2d4 rounds, after which the spell ends and the creature disappears. The creature also disappears if someone disables the trap before the duration expires. The summoned creature can use 3 actions each round and can use reactions, unlike most summoned creatures."
 
 
   - name: "Reset"
     desc: "The trap resets each day at dawn."
+```
+
+```encounter-table
+name: Minor Summoning Rune
+creatures:
+  - 1: Minor Summoning Rune
 ```
 

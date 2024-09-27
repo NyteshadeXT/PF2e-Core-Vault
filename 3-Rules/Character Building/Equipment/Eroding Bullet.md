@@ -13,7 +13,7 @@ license: OGL
 ---
 # Eroding Bullet
 ## Item 5
-### [uncommon](uncommon "Uncommon Rarity Trait")[[3-Rules/Rule References/Acid]][[alchemical]][[consumable]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[3-Rules/Rule References/Acid]][[alchemical]][[consumable]]
 
 **Category** ammo; 
 **Price** 22 gp; 

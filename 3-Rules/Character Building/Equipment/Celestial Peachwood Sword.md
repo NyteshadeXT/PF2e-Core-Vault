@@ -12,12 +12,13 @@ tags:
   - trait/vitality
   - trait/rare
   - category/martial
+  - remaster
 aliases: "Compendium.pf2e.equipment-srd.Item.TKvAPv3jgv4l143r"
-license: OGL
+license: ORC
 ---
 # Celestial Peachwood Sword
 ## Item 17
-### [rare](rare "Rare Rarity Trait")[[agile]][[finesse]][[holy]][[magical]][[versatile-s]][[vitality]]
+### [rare](rare.md "Rare Rarity Trait")[[3-Rules/Rule References/Agile]][[3-Rules/Rule References/Finesse]][[holy]][[3-Rules/Rule References/Magical]][[versatile-s]][[vitality]]
 
 |  |  |
 | -- | -- |
@@ -28,19 +29,19 @@ license: OGL
 
 
 
-From blade to pommel, this sword is carved from a branch of the now-extinct celestial peach tree. The blade of this_+3 greater striking [[Equipment/Vitalizing|Vitalizing]] [[Equipment/Holy|Holy]] shortsword_ has ancient runes that can permanently destroy the most powerful undead - if you are willing to pay the price.
+From blade to pommel, this sword is carved from a branch of the now-extinct celestial peach tree. The blade of this _+3 greater striking holy vitalizing peachwood shortsword_ has ancient runes that can permanently destroy the most powerful undead—if you are willing to pay the price.
 
-An undead creature of 12th level or lower that takes damage from a Strike with the sword takes 10d6 vitality damage (DC 35 Fortitude check). This damage is separate from the Strike itself and isn't included in any effect based on the Strike's damage.
+An undead creature of 12th level or lower that takes damage from a Strike with the sword takes 10d6 vitality damage with a DC 35 Fortitude check save. This damage is separate from the Strike itself and isn't included in any effect based on the Strike's damage.
 
-* * *
-
-**Activate** `pf2:r` envision
+**Activate—Violent Exorcism** `pf2:r` (concentrate)
 
 **Frequency** once per day
 
-**Trigger** You critically hit an undead creature with the celestial peachwood sword
+**Trigger** You critically hit an undead creature with the sword
 
-**Effect** The creature must succeed at a DC 35 Fortitude check or be destroyed. If the undead fails its saving throw and is destroyed, you suffer a backlash, taking 1d6 void damage per level of the destroyed undead.
+* * *
 
-*Source: Pathfinder Book of the Dead*
-*OGL*
+**Effect** The creature must succeed at a DC 35 Fortitude check save or be destroyed. If the undead fails its saving throw and is destroyed, you suffer a backlash, taking 1d6 void damage per level of the destroyed undead.
+
+*Source: Pathfinder Lost Omens: Tian Xia Character Guide*
+*ORC*

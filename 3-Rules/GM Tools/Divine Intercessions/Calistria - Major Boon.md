@@ -17,7 +17,9 @@ license: OGL
 
 
 
-**Major Boon** Calistria guides you towards vengeance. You always know the direction and distance towards the nearest creature that has wronged you and thus far gone unpunished.
+Calistria guides you towards vengeance.
+
+You always know the direction and distance towards the nearest creature that has wronged you and thus far gone unpunished.
 
 *Source: Pathfinder Lost Omens: Gods & Magic*
 *OGL*

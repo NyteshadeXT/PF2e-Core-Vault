@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/amphibious
   - pf2e/creature/type/beast
   - pf2e/creature/type/chaotic
+  - pf2eMonster
   - pf2e/creature/level/6
 statblock: inline
 name: "Shimmernewt"
@@ -22,16 +23,17 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #183: Field of Maidens"
 name: "Shimmernewt"
 level: "Creature 6"
-rare_03: "Rare"
+rare_03: [[Rare]]
 alignment: ""
 size: "Medium"
-trait_01: "amphibious"
-trait_02: "beast"
-trait_03: "chaotic"
+trait_01: [[amphibious]]
+trait_02: [[beast]]
+trait_03: [[chaotic]]
 modifier: 14
 perception:
   - name: "Perception"
     desc: "+14; Darkvision"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Acrobatics: +12, Athletics: +15"
@@ -62,17 +64,23 @@ attacks:
     desc: "`pf2:1` Tail +17 (reach 10 feet)\n__Damage__  2d8 + 8 bludgeoning plus trip"
 
   - name: "Gaping Chomp"
-    desc: "`pf2:1`  The shimmernewt chews on a creature that it has [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]]. The target creature must attempt a DC 24 Fortitude check save.\n**Critical Success** The creature takes no damage.\n**Success** The creature takes 1d10 piercing damage.\n**Failure** The creature takes 2d10 piercing damage and 1d6 bleed damage.\n**Critical Failure** The creature takes 4d10 piercing damage, 1d6 bleed damage, and is [[Conditions/Sickened 1|Sickened 2]] by the pain of the chomp."
+    desc: "`pf2:1`  The shimmernewt chews on a creature that it has [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]]. The target creature must attempt a DC 24 Fortitude check save.\n* * *\n\n**Critical Success** The creature takes no damage.\n\n**Success** The creature takes 1d10 piercing damage.\n\n**Failure** The creature takes 2d10 piercing damage and 1d6 bleed damage.\n\n**Critical Failure** The creature takes 4d10 piercing damage, 1d6 bleed damage, and is [[Conditions/Sickened|Sickened 2]] by the pain of the chomp."
 
   - name: "Shimmer Step"
     desc: "`pf2:2` (primal,teleportation) The shimmernewt surges forward so quickly it slips through space, teleporting to a target for an unexpected attack. The shimmernewt teleports to an empty space adjacent to a creature it can see within 60 feet, then attempts a jaws Strike against the creature. The target creature is [[Conditions/Off-Guard|Off-Guard]] against this Strike."
 
   - name: "[[Actions/Trip|Trip]]"
-    desc: "`pf2:1` (attack,skill) **Requirements** You have at least one hand free. Your target can't be more than one size larger than you\nYou try to knock a creature to the ground. Attempt an Athletics check against the target's Reflex DC.\n**Critical Success** The target falls and lands [[Conditions/Prone|Prone]] and takes 1d6 bludgeoning damage.\n**Success** The target falls and lands prone.\n**Critical Failure** You lose your balance and fall and land prone."
+    desc: "`pf2:1` (attack,skill) **Requirements** You have at least one hand free. Your target can't be more than one size larger than you\n* * *\n\nYou try to knock a creature to the ground. Attempt an Athletics check against the target's Reflex DC.\n* * *\n\n**Critical Success** The target falls and lands [[Conditions/Prone|Prone]] and takes 1d6 bludgeoning damage.\n\n**Success** The target falls and lands prone.\n\n**Critical Failure** You lose your balance and fall and land prone."
 
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
     desc: "`pf2:1`  "
  
+```
+
+```encounter-table
+name: Shimmernewt
+creatures:
+  - 1: Shimmernewt
 ```
 
 

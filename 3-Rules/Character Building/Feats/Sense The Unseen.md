@@ -1,6 +1,6 @@
 ---
 obsidianUIMode: preview
-title: "Sense The Unseen"
+title: "Sense the Unseen"
 cssclasses: pf2e,pf2e-spell
 tags:
   - trait/investigator
@@ -12,7 +12,7 @@ tags:
 aliases: "Compendium.pf2e.feats-srd.Item.DM9rjXZrmx2MFX7k"
 license: ORC
 ---
-# Sense The Unseen `pf2:r`
+# Sense the Unseen `pf2:r`
 ## Feat 14
 ### [[investigator]][[ranger]][[rogue]]
 

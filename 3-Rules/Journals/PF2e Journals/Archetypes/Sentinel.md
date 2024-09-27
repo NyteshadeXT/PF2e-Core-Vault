@@ -8,15 +8,13 @@ tags:
 ---
 
 # Sentinel
-Armor offers solid, reassuring protection in combat, and as someone who faces danger on a regular basis, you have made it your business to get the most out of your defenses. You stand solid on any battlefield, encased in the sturdiest armor you can find. When danger threatens, your solid defenses will safely get you, and possibly your companions, home again. As a sentinel, you might be a member of an order of knights or bodyguards that trained you how best to take advantage of heavy armor. On the other hand, you might just be an adventurer who took one too many scrapes and decided that enough was enough, so you trained yourself to wear the heaviest plate you could get your hands on. Some witches or sorcerers have chosen to follow the path of the sentinel to increase their survivability.
-
-**Additional Feats** 10th [[Feats/Sacrifice Armor|Sacrifice Armor]]; 16th [[Feats/Greater Interpose|Greater Interpose]]
+Armor offers solid, reassuring protection in combat, and as someone who faces danger on a regular basis, you have made it your business to get the most out of your defenses. You stand solid on any battlefield, encased in the sturdiest armor you can find. When danger threatens, your solid defenses will safely get you, and hopefully your companions, home again. As a sentinel, you might be part of an order of knights or bodyguards who trained you how best to take advantage of heavy armor. On the other hand, you might just be an adventurer who took one too many grievous injuries and decided enough was enough, so you trained yourself to wear the heaviest plate you could get your hands on. Some witches or sorcerers have chosen to follow the path of the sentinel to increase their survivability. While this is less common, it's not less effective. Few will argue against stronger, heavier armor leading to a longer life, and as every turtle knows, it's always nice to have a nice hard shell to fall back on when threatened. No one has a tougher shell than a sentinel. Even in the midst of great battles, you know that your armor is your greatest ally. It won't abandon you, break, or falter as things get tough. You can rely on your armor to see you through whatever tough fights lie ahead, and the odds always seem better when you're protected.
 
 ## [[Feats/Sentinel Dedication|Sentinel Dedication]] Feat 2
 
-You have trained carefully to maximize the protective qualities of your armor. You become trained in light armor and medium armor. If you already were trained in light armor and medium armor, you gain training in heavy armor as well. Whenever you gain a class feature that grants you expert or greater proficiency in any type of armor (but not unarmored defense), you also gain that proficiency in the armor types granted to you by this feat. If you are at least 13th level and you have a class feature that grants you expert proficiency in unarmored defense, you also become an expert in the armor types granted to you by this feat.
+You have trained carefully to maximize the protective qualities of your armor. You become trained in light armor and medium armor. If you already were trained in light armor and medium armor, you gain training in heavy armor as well. Whenever you gain a class feature that grants you expert or greater proficiency in any type of armor (but not unarmored defense), you also gain that proficiency in the armor types granted to you by this feat. If you have a class feature that grants you expert proficiency in unarmored defense and you're 13th level or higher, you also become an expert in the armor types granted to you by this feat.
 
-**Special** You can't select another dedication feat until you have gained two other feats from the Sentinel archetype.
+**Special** Once you take a dedication feat, you can't select a different dedication feat until you complete your dedication by taking two other feats from your current archetype. You can't retrain a dedication feat as long as you have any other feats from that archetype.
 
 ## [[Feats/Steel Skin|Steel Skin]] Feat 4
 
@@ -24,7 +22,7 @@ You have trained carefully to maximize the protective qualities of your armor. Y
 
 * * *
 
-You wear your armor like a second skin. You can rest normally while wearing medium armor. If you are a master in heavy armor, you can also rest normally while wearing heavy armor.
+You wear your armor like a second skin, taking comfort in the protection it offers. You don't become Fatigued if you sleep while wearing armor.
 
 ## [[Feats/Armor Specialist|Armor Specialist]] Feat 6
 
@@ -32,7 +30,7 @@ You wear your armor like a second skin. You can rest normally while wearing medi
 
 * * *
 
-You have trained hard to optimize your armor's protective qualities. You gain the armor specialization effects of medium and heavy armor.
+You have trained hard to optimize your armor's unique protective qualities to maximize the materials used in its creation. You gain the armor specialization effects for all armors you are proficient with.
 
 ## [[Feats/Armored Rebuff|Armored Rebuff]] Feat 8
 

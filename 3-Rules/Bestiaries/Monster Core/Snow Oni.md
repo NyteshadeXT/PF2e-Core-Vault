@@ -10,6 +10,7 @@ tags:
   - pf2e/creature/type/humanoid
   - pf2e/creature/type/oni
   - pf2e/creature/type/unholy
+  - pf2eMonster
   - pf2e/creature/level/13
   - remaster
 statblock: inline
@@ -29,11 +30,11 @@ level: "Creature 13"
 
 alignment: ""
 size: "Large"
-trait_01: "cold"
-trait_02: "giant"
-trait_03: "humanoid"
-trait_04: "oni"
-trait_05: "unholy"
+trait_01: [[cold]]
+trait_02: [[giant]]
+trait_03: [[humanoid]]
+trait_04: [[oni]]
+trait_05: [[unholy]]
 modifier: 26
 perception:
   - name: "Perception"
@@ -63,10 +64,10 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Bean Panic"
-    desc: "  Oni are curiously afraid of beans, especially as the seasons begin to change. If a creature Interacts to throw a handful of beans at the oni, the oni becomes [[Conditions/Frightened 1|Frightened 2]]. While frightened this way, their weakness to spirit damage is increased by 5. The oni then becomes immune to bean panic for 24 hours."
+    desc: "  Oni are curiously afraid of beans, especially as the seasons begin to change. If a creature Interacts to throw a handful of beans at the oni, the oni becomes [[Conditions/Frightened|Frightened 2]]. While frightened this way, their weakness to spirit damage is increased by 5. The oni then becomes immune to bean panic for 24 hours."
 
   - name: "Icy Deflection"
-    desc: "`pf2:r` (fire) **Trigger** The snow oni is targeted by a ranged Strike or spell attack roll that doesn't have the fire trait\n* * *\n\n**Effect** The snow oni creates a reflective blockade of ice, gaining a +4 circumstance bonus to AC against the triggering attack roll. If the attack misses, the snow oni redirects the attack to another creature within 20 feet of the snow oni. The attacker rerolls the attack roll against the new target."
+    desc: "`pf2:r`  **Trigger** The snow oni is targeted by a ranged Strike or spell attack roll that doesn't have the fire trait\n* * *\n\n**Effect** The snow oni creates a reflective blockade of ice, gaining a +4 circumstance bonus to AC against the triggering attack roll. If the attack misses, the snow oni redirects the attack to another creature within 20 feet of the snow oni. The attacker rerolls the attack roll against the new target."
 
   - name: "[[Bestiary Ability Glossary/Reactive Strike|Reactive Strike]]"
     desc: "`pf2:r`  "
@@ -90,11 +91,17 @@ attacks:
     desc: "`pf2:1` (concentrate,polymorph) The snow oni can take on the appearance of any Medium or Large humanoid creature. This doesn't change their Speed or their attack and damage bonuses with their Strikes but might change the damage type their Strikes deal (typically to bludgeoning).\n\n* * *\n"
 
   - name: "Chilling Combo"
-    desc: "`pf2:1` (cold) The snow oni makes two fist Strikes targeting the same creature. If they both hit, the target becomes [[Conditions/Slowed 1|Slowed 1]] for 1 round."
+    desc: "`pf2:1` (cold) The snow oni makes two fist Strikes targeting the same creature. If they both hit, the target becomes [[Conditions/Slowed|Slowed 1]] for 1 round."
 
   - name: "Falling Frozen Lightning"
-    desc: "`pf2:2` (cold,primal) The snow oni calls down a bolt of icy lightning, white as fallen snow. The bolt strikes a location within 60 feet, freezing the air into a cloud of snow that fills a 20-foot burst and lasts for 1 minute.\n\nAll creatures within the snow become [[Conditions/Concealed|Concealed]], and all creatures outside the snow become concealed to creatures within it. A creature that enters the snow or begins its turn there takes 15 cold damage, with a DC 33 Fortitude check save."
+    desc: "`pf2:2` (cold,primal) The snow oni calls down a bolt of icy lightning, white as fallen snow. The bolt strikes a location within 60 feet, freezing the air into a cloud of snow that fills a @Template[burst|distance:20] and lasts for 1 minute.\n\nAll creatures within the snow become [[Conditions/Concealed|Concealed]], and all creatures outside the snow become concealed to creatures within it. A creature that enters the snow or begins its turn there takes 15 cold damage, with a DC 33 Fortitude check save."
  
+```
+
+```encounter-table
+name: Snow Oni
+creatures:
+  - 1: Snow Oni
 ```
 
 

@@ -5,6 +5,7 @@ noteType: pf2eHazard
 tags:
   - mechanical
   - trap
+  - pf2eHazard
 
 source: Pathfinder Bounty #7: Cleanup Duty
 aliases: "Compendium.pf2e.pfs-season-2-bestiary.Actor.9mKcQFcY4Y1g5kJt" 
@@ -22,14 +23,14 @@ name: "Ancient Ooze Pit"
 level: "Hazard 0"
 
 
-trait_01: "mechanical"
-trait_02: "trap"
+trait_01: [[mechanical]]
+trait_02: [[trap]]
 modifier: 8
 sourcebook: "_Pathfinder Bounty #7: Cleanup Duty_"
 ac: 10
 armorclass:
   - name: AC
-    desc: "10; __Fort__ +1, __Ref__ +1, __Will__ +0"
+    desc: "10; __Fort__ +1, __Ref__ +1, "
 hp: 12
 health:
   - name: ""
@@ -51,10 +52,16 @@ attacks:
   - name: ""
 
   - name: "Pitfall"
-    desc: "`pf2:r` **Trigger** A creature walks onto the trapdoor\n**Effect** The triggering creature falls in and takes 5 bludgeoning damage as the acidic mass breaks their fall, then 1d6 acid damage as the ooze bursts from the impact. That creature can use the [[Actions/Grab an Edge|Grab an Edge]] reaction to avoid falling."
+    desc: "`pf2:r` **Trigger** A creature walks onto the trapdoor\n* * *\n\n**Effect** The triggering creature falls in and takes 5 bludgeoning damage as the acidic mass breaks their fall, then 1d6 acid damage as the ooze bursts from the impact. That creature can use the [[Actions/Grab an Edge|Grab an Edge]] reaction to avoid falling."
 
 
   - name: "Reset"
     desc: "Creatures can still fall into the trap, but the trapdoor must be reset manually for the trap to become hidden again. The remains of the burst ooze seep into the ground, and the trap functions as a normal [[Hazards (Rulebooks)/Hidden Pit|Hidden Pit]]."
+```
+
+```encounter-table
+name: Ancient Ooze Pit
+creatures:
+  - 1: Ancient Ooze Pit
 ```
 

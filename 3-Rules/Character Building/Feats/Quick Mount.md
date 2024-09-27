@@ -7,8 +7,9 @@ tags:
   - trait/skill
   - trait/common
   - category/skill
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.G9l2g7sDpPVbZJza"
-license: OGL
+license: ORC
 ---
 # Quick Mount `pf2:1`
 ## Feat 4
@@ -26,5 +27,5 @@ license: OGL
 
 You and your mount can spring into action at a moment's notice. You [[Actions/Mount|Mount]] the creature and [[Actions/Command an Animal|Command an Animal]] to issue it an order of your choice.
 
-*Source: Pathfinder Advanced Player's Guide*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

@@ -6,8 +6,9 @@ tags:
   - trait/champion
   - trait/common
   - category/class
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.FIsMdgvGji5Nci8l"
-license: OGL
+license: ORC
 ---
 # Devoted Focus
 ## Feat 10
@@ -19,7 +20,7 @@ license: OGL
 
 **Prerequisites** devotion spells
 * * *
-Your devotion is strong enough to increase your focus to incredible heights. If you have spent at least 2 Focus Points since the last time you Refocused, you recover 2 Focus Points when you Refocus instead of 1.
+Your devotion is strong enough to increase your focus to incredible heights. Whenever you Refocus, completely refill your focus pool.
 
-*Source: Pathfinder Core Rulebook*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

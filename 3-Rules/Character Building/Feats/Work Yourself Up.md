@@ -10,7 +10,7 @@ tags:
 aliases: "Compendium.pf2e.feats-srd.Item.kQfqJLpKOPORq7I6"
 license: OGL
 ---
-# Work Yourself Up
+# Work Yourself Up `pf2:2`
 ## Feat 8
 ### [[archetype]][[concentrate]]
 

@@ -31,7 +31,7 @@ When you Raise this Shield, ephemeral reflections of it appear in front of each 
 
 * * *
 
-**Effect** You heft the shield and thrust it forward, causing ephemeral reflections of the shield to surround you and then rush outward in a 90-foot line or 60-foot cone (your choice).
+**Effect** You heft the shield and thrust it forward, causing ephemeral reflections of the shield to surround you and then rush outward in a @Template\[line|distance:90\] or @Template\[cone|distance:60\] (your choice).
 
 Make a shield bash Strike against each enemy within the area, except that the damage dealt is force damage. Each target you hit is moved 10 feet away from you (each target you critically hit is also knocked prone). This is forced movement. These shield bashes count against your multiple attack penalty, but the penalty doesn't increase until after you have made all these attacks.
 

@@ -40,7 +40,7 @@ Whenever you finish casting a non-cantrip spell, you restore Hit Points equal to
 
 Life energy tears through you to empower your magic. Some of your spells carry vitality energy with them.
 
-Each time you use a spell slot to cast a 5th-rank or higher spell that takes 2 or more actions to cast, you disperse vitality energy in a 30-foot burst with the effects of a 3-action [[Spells/Heal|Heal]] spell with a level 4 lower than that of the spell you cast. This healing occurs immediately after you finish Casting the Spell. You don't benefit from this healing. Instead, you lose double the number of Hit Points rolled for the heal spell.
+Each time you use a spell slot to cast a 5th-rank or higher spell that takes 2 or more actions to cast, you disperse vitality energy in a @Template\[burst|distance:30\] with the effects of a 3-action [[Spells/Heal|Heal]] spell with a level 4 lower than that of the spell you cast. This healing occurs immediately after you finish Casting the Spell. You don't benefit from this healing. Instead, you lose double the number of Hit Points rolled for the heal spell.
 
 *Source: Pathfinder Advanced Player's Guide*
 *OGL*

@@ -7,6 +7,7 @@ aliases: "Compendium.battlezoo-bestiary-pf2e.pf2e-battlezoo-bestiary.Actor.4u4ef
 tags:
   - pf2e/creature/type/construct
   - pf2e/creature/type/mindless
+  - pf2eMonster
   - pf2e/creature/level/7
 statblock: inline
 name: "Knotsman"
@@ -25,16 +26,16 @@ level: "Creature 7"
 
 alignment: ""
 size: "Medium"
-trait_01: "construct"
-trait_02: "mindless"
+trait_01: [[construct]]
+trait_02: [[mindless]]
 modifier: 15
 perception:
   - name: "Perception"
     desc: "+15; Darkvision"
-languages: "Common"
+languages: "Common; (can&#x27;t speak any language)"
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +17, Athletics: +16, Stealth: +17, "
+    desc: "Acrobatics: +17, Athletics: +16, Stealth: +17"
 abilityMods: [5, 6, 5, -5, 2, -5]
 speed: 25 feet,  climb 15 feet
 sourcebook: "_Battlezoo Bestiary_"
@@ -59,17 +60,23 @@ attacks:
     desc: "`pf2:1` Lasso +18 (agile, reach 15 feet)\n__Damage__  2d6 + 7 bludgeoning plus ensnare"
 
   - name: "Ensnare"
-    desc: "  If the knotsman hits a creature with its lasso, the creature is also Grabbed. While grabbed, the creature isn't Immobilized, but it can't move any farther from the knotsman unless the knotsman willfully lengthens its lead. The lasso's Escape DC is 25. A creature can also end the grab by severing the lasso by hitting AC 26 and dealing at least 10 slashing. Damage dealt to the lasso deals an equal amount of damage to the knotsman."
+    desc: "  If the knotsman hits a creature with its lasso, the creature is also [[Conditions/Grabbed|Grabbed]]. While grabbed, the creature isn't [[Conditions/Immobilized|Immobilized]], but it can't move any farther from the knotsman unless the knotsman willfully lengthens its lead. The lasso's Escape DC is 25. A creature can also end the grab by severing the lasso by hitting AC 26 and dealing at least 10 slashing. Damage dealt to the lasso deals an equal amount of damage to the knotsman."
 
   - name: "Rein In"
-    desc: "`pf2:1`  **Requirements** The knotsman has a creature Grabbed with its lasso;\n**Effect** The knotsman pulls the grabbed creature toward itself. The knotsman attempts an Athletics check against the creature's Fortitude DC. On a success, the knotsman pulls the creature 5 feet closer to it, or 10 feet closer on a critical success. The distance the creature can move from the knotsman (see Ensnare) decreases accordingly."
+    desc: "`pf2:1`  **Requirements** The knotsman has a creature [[Conditions/Grabbed|Grabbed]] with its lasso;\n\n**Effect** The knotsman pulls the grabbed creature toward itself. The knotsman attempts an Athletics check against the creature's Fortitude DC. On a success, the knotsman pulls the creature 5 feet closer to it, or 10 feet closer on a critical success. The distance the creature can move from the knotsman (see Ensnare) decreases accordingly."
 
   - name: "Uncoil"
-    desc: "`pf2:1` (concentrate) The knotsman uncoils into a 100-foot- long, mundane-looking rope. While uncoiled, the knotsman's weakness to slashing damage increases to 15, its AC increases to 26, its Speed increases to 35 feet (25 feet while climbing), and it can slither through spaces as narrow as 1 inch in diameter.\nThe knotsman can spend an action (which has the concentrate trait) to return to its humanoid form."
+    desc: "`pf2:1` (concentrate) The knotsman uncoils into a 100-foot- long, mundane-looking rope. While uncoiled, the knotsman's weakness to slashing damage increases to 15, its AC increases to 26, its Speed increases to 35 feet (25 feet while climbing), and it can slither through spaces as narrow as 1 inch in diameter.\n\nThe knotsman can spend an action (which has the concentrate trait) to return to its humanoid form."
 
   - name: "[[Bestiary Ability Glossary/Constrict|Constrict]]"
-    desc: "`pf2:1`  2d6 + 5 bludgeoning damage, basic fortitude save\n"
+    desc: "`pf2:1`  2d6 + 5 bludgeoning damage, DC 25 basic fortitude save\n\n* * *\n"
  
+```
+
+```encounter-table
+name: Knotsman
+creatures:
+  - 1: Knotsman
 ```
 
 

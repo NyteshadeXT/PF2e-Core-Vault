@@ -20,7 +20,7 @@ tags:
 
 # Bad Headbutt
 
-> You are [[Conditions/Stunned 1|Stunned 1]].
+> You are [[Conditions/Stunned|Stunned 1]].
 
 `Unarmed`
 

@@ -11,6 +11,7 @@ tags:
   - pf2e/creature/type/human
   - pf2e/creature/type/humanoid
   - pf2e/creature/type/orc
+  - pf2eMonster
   - pf2e/creature/level/10
 statblock: inline
 name: "Darivan"
@@ -25,15 +26,15 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Kingmaker"
 name: "Darivan"
 level: "Creature 10"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Medium"
-trait_01: "chaotic"
-trait_02: "dromaar"
-trait_03: "evil"
-trait_04: "human"
-trait_05: "humanoid"
-trait_06: "orc"
+trait_01: [[chaotic]]
+trait_02: [[dromaar]]
+trait_03: [[evil]]
+trait_04: [[human]]
+trait_05: [[humanoid]]
+trait_06: [[orc]]
 modifier: 19
 perception:
   - name: "Perception"
@@ -41,7 +42,7 @@ perception:
 languages: "Aklo, Chthonian, Common, Fey, Orcish"
 skills:
   - name: "Skills"
-    desc: "Athletics: +20, Deception: +21, Diplomacy: +19, First World Lore: +18, Intimidation: +21, Nature: +19, Religion: +19, Survival: +19"
+    desc: "Athletics: +20, Deception: +21, Diplomacy: +19, Intimidation: +21, Nature: +19, Religion: +19, Survival: +19, First World Lore: +18"
 abilityMods: [4, 2, 1, 0, 3, 5]
 speed: 25 feet
 sourcebook: "_Pathfinder Kingmaker_"
@@ -61,7 +62,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Bloom Regeneration"
-    desc: "`pf2:r` (divine) **Trigger** Darivan takes damage while he's within the Cradle of Lamashtu.\n**Effect** Darivan cries out a quick prayer to the Mother of Monsters, and filaments of fungus slither up into his wounded body, healing 4d6 points of damage. For the next 4 rounds, Darivan gains regeneration 10; this regeneration can be deactivated by cold iron or spirit damage. Darivan can't activate Bloom Regeneration again for 24 hours.\n[[Bestiary Effects/Effect_ Bloom Regeneration|Effect: Bloom Regeneration]]"
+    desc: "`pf2:r` (divine) **Trigger** Darivan takes damage while he's within the Cradle of Lamashtu.\n\n**Effect** Darivan cries out a quick prayer to the Mother of Monsters, and filaments of fungus slither up into his wounded body, healing 4d6 points of damage. For the next 4 rounds, Darivan gains regeneration 10; this regeneration can be deactivated by cold iron or spirit damage. Darivan can't activate Bloom Regeneration again for 24 hours.\n\n[[Bestiary Effects/Effect_ Bloom Regeneration|Effect: Bloom Regeneration]]"
 
 attacks:
   - name: ""
@@ -82,11 +83,17 @@ attacks:
     desc: "_Monstrous Bloom_"
 
   - name: "Bleed for Lamashtu"
-    desc: "`pf2:1`  **Requirement** Darivan hasn't attempted a falchion strike yet.\n**Effect** Darivan attempts a Strike with a falchion. On a hit, he inflicts an additional 2d6 bleed damage."
+    desc: "`pf2:1`  **Requirement** Darivan hasn't attempted a falchion strike yet.\n\n**Effect** Darivan attempts a Strike with a falchion. On a hit, he inflicts an additional 2d6 bleed damage."
 
   - name: "Bloodline Magic"
-    desc: "  When Darivan's bloodline magic activates, his movements become supernaturally graceful and distracting, granting him a +1 status bonus to Diplomacy checks for 1 round or imposing a -1 status penalty on one target's Will saves for 1 round.\n[[Bestiary Effects/Effect_ Darivan's Bloodline Magic|Effect: Darivan's Bloodline Magic]]"
+    desc: "  When Darivan's bloodline magic activates, his movements become supernaturally graceful and distracting, granting him a +1 status bonus to Diplomacy checks for 1 round or imposing a -1 status penalty on one target's Will saves for 1 round.\n\n[[Bestiary Effects/Effect_ Darivan's Bloodline Magic|Effect: Darivan's Bloodline Magic]]"
  
+```
+
+```encounter-table
+name: Darivan
+creatures:
+  - 1: Darivan
 ```
 
 

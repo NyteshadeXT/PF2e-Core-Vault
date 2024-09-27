@@ -17,7 +17,7 @@ license: OGL
 ---
 # Ghosts in the Storm `pf2:1`
 ## Feat 12
-### [[3-Rules/Rule References/Air]][[electricity]][[impulse]][[kineticist]][[primal]][[stance]]
+### [[air]][[electricity]][[impulse]][[kineticist]][[primal]][[stance]]
 
 **Category** class; 
 

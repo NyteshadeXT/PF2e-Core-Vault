@@ -11,7 +11,7 @@ license: OGL
 ---
 # Cultist Cowl (Greater)
 ## Item 9
-### [uncommon](uncommon "Uncommon Rarity Trait")[[divine]][[magical]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[3-Rules/Rule References/Divine]][[3-Rules/Rule References/Magical]]
 
 
 **Price** 650 gp; 

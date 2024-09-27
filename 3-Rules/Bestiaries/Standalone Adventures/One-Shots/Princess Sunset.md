@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.one-shot-bestiary.Actor.BFTodEMAuiYhte03"
 tags:
   - pf2e/creature/type/construct
   - pf2e/creature/type/mindless
+  - pf2eMonster
   - pf2e/creature/level/2
 statblock: inline
 name: "Princess Sunset"
@@ -24,12 +25,13 @@ level: "Creature 2"
 
 alignment: ""
 size: "Medium"
-trait_01: "construct"
-trait_02: "mindless"
+trait_01: [[construct]]
+trait_02: [[mindless]]
 modifier: 6
 perception:
   - name: "Perception"
     desc: "+6; "
+languages: ""
 skills:
   - name: "Skills"
     desc: "Athletics: +9"
@@ -60,8 +62,14 @@ attacks:
     desc: "`pf2:1` Headbutt +8 ()\n__Damage__  1d8 + 2 bludgeoning"
 
   - name: "[[Bestiary Ability Glossary/Trample|Trample]]"
-    desc: "`pf2:3`  Princess Sunset Strides up to double its Speed and can move through the spaces of creatures of size Small or smaller, Trampling each creature whose space it enters. Princess Sunset can attempt to Trample the same creature only once in a single use of Trample. The monster deals the damage of the headbutt Strike, but trampled creatures can attempt a basic Reflex save at DC 14 Reflex check\n"
+    desc: "`pf2:3`  Princess Sunset Strides up to double its Speed and can move through the spaces of creatures of size Small or smaller, Trampling each creature whose space it enters. Princess Sunset can attempt to Trample the same creature only once in a single use of Trample. The monster deals the damage of the headbutt Strike, but trampled creatures can attempt a basic Reflex save at DC 14 Reflex check\n\n* * *\n"
  
+```
+
+```encounter-table
+name: Princess Sunset
+creatures:
+  - 1: Princess Sunset
 ```
 
 

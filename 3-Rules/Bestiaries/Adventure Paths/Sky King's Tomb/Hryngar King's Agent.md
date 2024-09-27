@@ -10,6 +10,7 @@ tags:
   - pf2e/creature/type/hryngar
   - pf2e/creature/type/humanoid
   - pf2e/creature/type/lawful
+  - pf2eMonster
   - pf2e/creature/level/5
 statblock: inline
 name: "Hryngar King&#x27;s Agent"
@@ -24,14 +25,14 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #194: Cult of the Cave Worm"
 name: "Hryngar King's Agent"
 level: "Creature 5"
-rare_03: "Rare"
+rare_03: [[Rare]]
 alignment: ""
 size: "Medium"
-trait_01: "dwarf"
-trait_02: "evil"
-trait_03: "hryngar"
-trait_04: "humanoid"
-trait_05: "lawful"
+trait_01: [[dwarf]]
+trait_02: [[evil]]
+trait_03: [[hryngar]]
+trait_04: [[humanoid]]
+trait_05: [[lawful]]
 modifier: 12
 perception:
   - name: "Perception"
@@ -62,7 +63,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Counter Feint"
-    desc: "`pf2:r`  **Trigger** A creature fails to [[Actions/Feint|Feint]] the king's agent\n**Effect** The creature is [[Conditions/Off-Guard|Off-Guard]] against the next melee attack that the king's agent attempts before the end of their next turn."
+    desc: "`pf2:r`  **Trigger** A creature fails to [[Actions/Feint|Feint]] the king's agent\n* * *\n\n**Effect** The creature is [[Conditions/Off-Guard|Off-Guard]] against the next melee attack that the king's agent attempts before the end of their next turn."
 
 attacks:
   - name: ""
@@ -74,13 +75,13 @@ attacks:
     desc: "`pf2:1` Dagger +13 (agile, finesse, versatile s)\n__Damage__  1d4 + 4 piercing"
 
   - name: "Ranged"
-    desc: "`pf2:1` Hand Crossbow +13 (range 60 feet, reload 1)\n__Damage__  1d6 + 2 piercing"
-
-  - name: "Ranged"
     desc: "`pf2:1` Dagger +13 (agile, finesse, thrown 20 ft.)\n__Damage__  1d4 + 4 piercing"
 
   - name: "Ranged"
     desc: "`pf2:1` Bola +13 (nonlethal, ranged trip, thrown 20 ft.)\n__Damage__  1d6 + 4 bludgeoning"
+
+  - name: "Ranged"
+    desc: "`pf2:1` Hand Crossbow +13 (range 60 feet, reload 1)\n__Damage__  1d6 + 2 piercing"
 
   - name: "Occult Innate Spells"
     desc: "DC 21, attack +13; __2nd __  _[[Spells/Blood Vendetta|Blood Vendetta]]_, _[[Spells/Paranoia|Paranoia]]_\n__Cantrips__  __(3rd)__ _[[Spells/Sigil|Sigil]]_"
@@ -89,16 +90,22 @@ attacks:
     desc: "`pf2:2`  The king's agent Strikes with their fist. If they hit, the target is [[Conditions/Paralyzed|Paralyzed]] until the end of the agent's next turn (DC 19 Fortitude check negates)."
 
   - name: "Quick Arrest"
-    desc: "`pf2:3`  **Requirements** The hryngar king's agent is holding manacles and is adjacent to a creature who is [[Conditions/Immobilized|Immobilized]], [[Conditions/Paralyzed|Paralyzed]], or [[Conditions/Unconscious|Unconscious]]\n**Effect** The hryngar king's agent applies the manacles."
+    desc: "`pf2:3`  **Requirements** The hryngar king's agent is holding manacles and is adjacent to a creature who is [[Conditions/Immobilized|Immobilized]], [[Conditions/Paralyzed|Paralyzed]], or [[Conditions/Unconscious|Unconscious]]\n* * *\n\n**Effect** The hryngar king's agent applies the manacles."
 
   - name: "[[Bestiary Ability Glossary/Sneak Attack|Sneak Attack]]"
     desc: "  The hryngar king's agent deals an additional 2d6 precision damage to [[Conditions/Off-Guard|Off-Guard]] creatures."
  
 ```
 
+```encounter-table
+name: Hryngar King's Agent
+creatures:
+  - 1: Hryngar King's Agent
+```
 
 
-Involved in both domestic security and international espionage, the agents of King Orgukagan’s secret police are skilled at capturing enemies for interrogation, infiltrating rival organizations, and fighting without weapons. When the king takes special interest in a project, event, or individual, he sends one of his specially trained agents to handle the situation.
+
+Involved in both domestic security and international espionage, the agents of King Orgukagan's secret police are skilled at capturing enemies for interrogation, infiltrating rival organizations, and fighting without weapons. When the king takes special interest in a project, event, or individual, he sends one of his specially trained agents to handle the situation.
 
 * * *
 

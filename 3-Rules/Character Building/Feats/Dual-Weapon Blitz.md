@@ -6,8 +6,9 @@ tags:
   - trait/archetype
   - trait/common
   - category/class
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.04Smj4ZsEBD8WIXv"
-license: OGL
+license: ORC
 ---
 # Dual-Weapon Blitz `pf2:2`
 ## Feat 10
@@ -23,7 +24,7 @@ license: OGL
 
 * * *
 
-You attack as you dash among foes. Stride up to your Speed. At any point during this movement, you can Strike once with each of the two required weapons. These Strikes can be against the same or different targets, as you see fit.
+You attack as you weave your way around the battlefield. Stride up to your Speed. During this movement, you can Strike once with each of the two one-handed melee weapons. Each of these Strikes can be made at any point during your movement.
 
-*Source: Pathfinder Advanced Player's Guide*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

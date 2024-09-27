@@ -26,7 +26,7 @@ The first suit of _+3 greater resilient antimagic sankeit_ made in this fashion 
 
 **Frequency** once per hour
 
-**Effect** You breathe a 60-foot cone of electrified vapor, dealing 17d6 electricity to creatures in the area (DC 38 Reflex check). The electrified mist persists in the area for 2 rounds, dealing 5d6 electricity (DC 38 Reflex check) to each creature that ends its turn in the mist. If you slew the linnorm this armor is made from, you can use the higher of your class DC or spell DC instead of the listed DCs for this effect (Reflex check).
+**Effect** You breathe a @Template\[cone|distance:60\] of electrified vapor, dealing 17d6 electricity to creatures in the area (DC 38 Reflex check). The electrified mist persists in the area for 2 rounds, dealing 5d6 electricity (DC 38 Reflex check) to each creature that ends its turn in the mist. If you slew the linnorm this armor is made from, you can use the higher of your class DC or spell DC instead of the listed DCs for this effect (Reflex check).
 
 * * *
 

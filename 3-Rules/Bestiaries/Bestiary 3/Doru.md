@@ -10,6 +10,7 @@ tags:
   - pf2e/creature/type/fiend
   - pf2e/creature/type/lawful
   - pf2e/creature/type/unholy
+  - pf2eMonster
   - pf2e/creature/level/1
 statblock: inline
 name: "Doru"
@@ -28,19 +29,19 @@ level: "Creature 1"
 
 alignment: ""
 size: "tiny"
-trait_01: "div"
-trait_02: "evil"
-trait_03: "fiend"
-trait_04: "lawful"
-trait_05: "unholy"
+trait_01: [[div]]
+trait_02: [[evil]]
+trait_03: [[fiend]]
+trait_04: [[lawful]]
+trait_05: [[unholy]]
 modifier: 7
 perception:
   - name: "Perception"
     desc: "+7; Greater Darkvision"
-languages: "Common, Daemonic"
+languages: "Common, Daemonic; telepathy (touch)"
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +7, Arcana: +8, Deception: +6, Lore (Any One): +10, Religion: +5, Stealth: +7"
+    desc: "Acrobatics: +7, Arcana: +8, Deception: +6, Religion: +5, Stealth: +7, Lore (Any One): +10"
 abilityMods: [0, 4, 1, 3, 2, 3]
 speed: 15 feet,  fly 30 feet
 sourcebook: "_Pathfinder Bestiary 3_"
@@ -59,7 +60,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Covetous of Secrets"
-    desc: "  Dorus have a weakness for secrets, hoarding them like a miser hoards gold. A creature can tempt a doru with some bit of obscure knowledge the doru doesn't know or thinks they don't know.\nPresenting the hint of the secret is a single action, which has the concentrate and linguistic traits, and requires a skill check using Deception, Lore, or Performance (or some other appropriate skill determined by the GM) against the doru's Will DC.\nOn a success, the doru is [[Conditions/Fascinated|Fascinated]] for as long as the presenter draws out the explanation of the secret (spending 1 action each round doing so, to a maximum of 1 minute). On a critical success, the doru is fascinated for that duration plus 1 minute more as it ponders the implications of the secret. Regardless of the outcome, the doru is temporarily immune to that creature's attempts to present it with secrets for 1 day."
+    desc: "  Dorus have a weakness for secrets, hoarding them like a miser hoards gold. A creature can tempt a doru with some bit of obscure knowledge the doru doesn't know or thinks they don't know.\n\nPresenting the hint of the secret is a single action, which has the concentrate and linguistic traits, and requires a skill check using Deception, Lore, or Performance (or some other appropriate skill determined by the GM) against the doru's Will DC.\n\nOn a success, the doru is [[Conditions/Fascinated|Fascinated]] for as long as the presenter draws out the explanation of the secret (spending 1 action each round doing so, to a maximum of 1 minute). On a critical success, the doru is fascinated for that duration plus 1 minute more as it ponders the implications of the secret. Regardless of the outcome, the doru is temporarily immune to that creature's attempts to present it with secrets for 1 day."
 
 attacks:
   - name: ""
@@ -71,8 +72,14 @@ attacks:
     desc: "DC 17, attack +9; __4th __  _[[Spells/Read Omens|Read Omens]]_; __2nd __  _[[Spells/Invisibility|Invisibility (At Will) (Self Only)]]_; __1st __  _[[Spells/Charm|Charm]]_, _[[Spells/Illusory Object|Illusory Object]]_\n__Cantrips__  __(1st)__ _[[Spells/Detect Magic|Detect Magic]]_"
 
   - name: "Doru Venom"
-    desc: " (poison) **Saving Throw** DC 16 Fortitude check\n**Maximum Duration** 6 rounds\n**Stage 1** 1d6 poison damage (1 round)\n**Stage 2** 1d6 poison damage and [[Conditions/Stupefied 1|Stupefied 1]] (1 round)\n**Stage 3** 1d6 poison damage and [[Conditions/Stupefied 1|Stupefied 2]] (1 round)"
+    desc: " (poison) **Saving Throw** DC 16 Fortitude check\n* * *\n\n**Maximum Duration** 6 rounds\n\n**Stage 1** 1d6 poison damage (1 round)\n\n**Stage 2** 1d6 poison damage and [[Conditions/Stupefied|Stupefied 1]] (1 round)\n\n**Stage 3** 1d6 poison damage and [[Conditions/Stupefied|Stupefied 2]] (1 round)"
  
+```
+
+```encounter-table
+name: Doru
+creatures:
+  - 1: Doru
 ```
 
 

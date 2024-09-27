@@ -6,8 +6,9 @@ tags:
   - trait/archetype
   - trait/common
   - category/class
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.Btu0tA6SEBS6K1hE"
-license: OGL
+license: ORC
 ---
 # Never Tire `pf2:r`
 ## Feat 4
@@ -21,13 +22,11 @@ license: OGL
 * * *
 **Trigger** You would gain the [[Conditions/Fatigued|Fatigued]] condition.
 
-**Requirements** You are [[Conditions/Observed|Observed]] by at least three creatures who aren't foes.
+**Requirements** You are [[Conditions/Observed|Observed]] by at least three creatures who aren't enemies.
 
 * * *
 
-As long as you have an audience, you can continue to perform. Indeed, you must-you have an obligation to your fans!
+As long as you have an audience, you can continue to perform even when you are on the brink of collapse. Indeed, you must—you have an obligation to your fans! You delay the effects of the [[Conditions/Fatigued|Fatigued]] condition for 1 minute or until you are no longer observed by at least three creatures who aren't enemies, whichever comes first. If the fatigued condition has a duration, the duration begins to elapse only after the delay. You can't further delay or prevent the fatigued condition after this ability ends.
 
-You delay the effects of the fatigued condition for 1 minute or until you are no longer observed by the required creatures, whichever comes first. If the fatigued condition has a duration, the duration begins to elapse only after the delay. You can't further delay or prevent the fatigued condition after this ability ends.
-
-*Source: Pathfinder Advanced Player's Guide*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

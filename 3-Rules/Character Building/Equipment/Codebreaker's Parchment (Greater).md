@@ -3,6 +3,7 @@ obsidianUIMode: preview
 title: "Codebreaker's Parchment (Greater)"
 cssclasses: pf2e,pf2e-spell
 tags:
+  - trait/illusion
   - trait/magical
   - trait/common
 aliases: "Compendium.pf2e.equipment-srd.Item.PMCk6NCDvJs1MBcg"
@@ -10,7 +11,7 @@ license: OGL
 ---
 # Codebreaker's Parchment (Greater)
 ## Item 10
-### [[magical]]
+### [[illusion]][[3-Rules/Rule References/Magical]]
 
 
 **Price** 950 gp; 

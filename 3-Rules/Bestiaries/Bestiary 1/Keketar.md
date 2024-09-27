@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/chaotic
   - pf2e/creature/type/monitor
   - pf2e/creature/type/protean
+  - pf2eMonster
   - pf2e/creature/level/17
 statblock: inline
 name: "Keketar"
@@ -26,14 +27,14 @@ level: "Creature 17"
 
 alignment: ""
 size: "Large"
-trait_01: "chaotic"
-trait_02: "monitor"
-trait_03: "protean"
+trait_01: [[chaotic]]
+trait_02: [[monitor]]
+trait_03: [[protean]]
 modifier: 30
 perception:
   - name: "Perception"
     desc: "+30; Darkvision"
-languages: "Chthonian, Empyrean, Protean"
+languages: "Chthonian, Empyrean, Protean; telepathy 100 feet, tongues"
 skills:
   - name: "Skills"
     desc: "Acrobatics: +26, Athletics: +30, Deception: +33, Diplomacy: +35, Intimidation: +35, Religion: +30, Stealth: +28"
@@ -61,10 +62,10 @@ abilities_mid:
     desc: "`pf2:r`  "
 
   - name: "[[Creature Family Ability Glossary/(Protean) Protean Anatomy|Protean Anatomy]]"
-    desc: " (divine) A protean's vital organs shift and change shape and position constantly. Immediately after the protean takes acid, electricity, or sonic damage, it gains the listed amount of resistance to that damage type. This lasts for 1 hour or until the next time the protean takes damage of one of the other types (in which case its resistance changes to match that type), whichever comes first. The protean is immune to polymorph effects unless it is a willing target. If [[Conditions/Blinded|Blinded]] or [[Conditions/Deafened|Deafened]], the protean automatically recovers at the end of its next turn as new sensory organs grow to replace the compromised ones.\n[[Bestiary Effects/Effect_ Protean Anatomy|Effect: Protean Anatomy]]"
+    desc: " (divine) A protean's vital organs shift and change shape and position constantly. Immediately after the protean takes acid, electricity, or sonic damage, it gains the listed amount of resistance to that damage type. This lasts for 1 hour or until the next time the protean takes damage of one of the other types (in which case its resistance changes to match that type), whichever comes first. The protean is immune to polymorph effects unless it is a willing target. If [[Conditions/Blinded|Blinded]] or [[Conditions/Deafened|Deafened]], the protean automatically recovers at the end of its next turn as new sensory organs grow to replace the compromised ones.\n\n[[Bestiary Effects/Effect_ Protean Anatomy|Effect: Protean Anatomy]]"
 
   - name: "Spatial Riptide"
-    desc: " (aura,divine) 30 feet. A creature using a teleportation ability within the aura or arriving in it via teleportation must succeed at a DC 38 Fortitude check save or wink out of existence for 1d4 rounds before completing the teleport. The creature can't act, sense anything, or be targeted. On a successful save, the creature completes the teleport normally but is [[Conditions/Stunned 1|Stunned 1]]. Keketars are immune to this effect."
+    desc: " (aura,divine) 30 feet. A creature using a teleportation ability within the aura or arriving in it via teleportation must succeed at a DC 38 Fortitude check save or wink out of existence for 1d4 rounds before completing the teleport. The creature can't act, sense anything, or be targeted. On a successful save, the creature completes the teleport normally but is [[Conditions/Stunned|Stunned 1]]. Keketars are immune to this effect."
 
 attacks:
   - name: ""
@@ -82,10 +83,10 @@ attacks:
     desc: "DC 42, attack +32; __9th __  _[[Spells/Divine Wrath|Divine Wrath]]_, _[[Spells/Prismatic Sphere|Prismatic Sphere]]_; __8th __  _[[Spells/Cursed Metamorphosis|Baleful Polymorph]]_, _[[Spells/Confusion|Confusion]]_; __7th __  _[[Spells/Disintegrate|Disintegrate]]_, _[[Spells/Dispel Magic|Dispel Magic (At Will)]]_, _[[Spells/Shatter|Shatter (At Will)]]_, _[[Spells/Warp Mind|Warp Mind (x3)]]_; __6th __  _[[Spells/Teleport|Teleport (At Will) (Self Only)]]_; __5th __  _[[Spells/Creation|Creation (At Will)]]_, _[[Spells/Translocate|Dimension Door]]_, _[[Spells/Mirage|Hallucinatory Terrain (See Reshape Reality) (x2)]]_; __4th __  _[[Spells/Confusion|Confusion (At Will)]]_, _[[Spells/Translocate|Dimension Door (At Will)]]_; __2nd __  _[[Spells/Detect Alignment|Detect Alignment (At Will) (Lawful Only)]]_\n__Constant__  __(5th)__ _[[Spells/Truespeech|Tongues]]_ __(4th)__ _[[Spells/Unfettered Movement|Freedom of Movement]]_"
 
   - name: "[[Bestiary Ability Glossary/Change Shape|Change Shape]]"
-    desc: "`pf2:1` (concentrate,divine,polymorph) The keketar can take the appearance of any Huge or smaller creature. This doesn't change its Speed or its attack and damage bonuses with its Strikes, but might change the damage type its Strikes deal.\n"
+    desc: "`pf2:1` (concentrate,divine,polymorph) The keketar can take the appearance of any Huge or smaller creature. This doesn't change its Speed or its attack and damage bonuses with its Strikes, but might change the damage type its Strikes deal.\n\n* * *\n"
 
   - name: "[[Bestiary Ability Glossary/Constrict|Constrict]]"
-    desc: "`pf2:1`  1d10 + 15 bludgeoning damage, DC 42 Fortitude check save\n"
+    desc: "`pf2:1`  1d10+15 bludgeoning damage, DC 42 Fortitude check save\n\n* * *\n"
 
   - name: "Reshape Reality"
     desc: " (concentrate,divine) When the keketar casts [[Spells/Mirage|Mirage]], it infuses the illusion with quasi-real substance. Creatures that do not disbelieve the illusion treat structures and terrain created through the spell as though they were real, ascending illusory stairs, becoming trapped by illusory quicksand, and so on."
@@ -96,6 +97,12 @@ attacks:
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
     desc: "`pf2:1`  "
  
+```
+
+```encounter-table
+name: Keketar
+creatures:
+  - 1: Keketar
 ```
 
 

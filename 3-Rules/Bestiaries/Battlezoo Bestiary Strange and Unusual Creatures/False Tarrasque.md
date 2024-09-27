@@ -6,6 +6,7 @@ cssClasses: pf2e
 aliases: "Compendium.battlezoo-bestiary-su-pf2e.pf2e-battlezoo-su-actors.Actor.ipiHTCn2euSq3j8V" 
 tags:
   - pf2e/creature/type/fey
+  - pf2eMonster
   - pf2e/creature/level/1
 statblock: inline
 name: "False Tarrasque"
@@ -21,18 +22,18 @@ token: [[modules/battlezoo-bestiary-su-pf2e/art/Portraits/false-tarrasque.webp| 
 source: "Battlezoo Bestiary: Strange and Unusual"
 name: "False Tarrasque"
 level: "Creature 1"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "tiny"
-trait_01: "fey"
+trait_01: [[fey]]
 modifier: 7
 perception:
   - name: "Perception"
     desc: "+7; Low-Light Vision"
-languages: "Fey"
+languages: "Fey; cannot speak any language"
 skills:
   - name: "Skills"
-    desc: "Deception: +7, Intimidation: +7, Performance: +7, Legendary Monster Lore: +6, "
+    desc: "Deception: +7, Intimidation: +7, Performance: +7, Deception: +7, Intimidation: +7, Performance: +7, Legendary Monster Lore: +6"
 abilityMods: [1, 3, 1, -3, 3, 4]
 speed: 25 feet
 sourcebook: "_Battlezoo Bestiary: Strange and Unusual_"
@@ -51,7 +52,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Flee"
-    desc: "`pf2:r` (polymorph,primal) **Trigger** A creature makes a hostile action against the false tarrasque while its Titanic Transformation is active.\n**Effect** Before the triggering action is resolved, the false tarrasque becomes Invisible until the end of its next turn. This might force the creature to make a DC 11 Flat check to target the false tarrasque. After the triggering action, the false tarrasque's Titanic Transformation ends."
+    desc: "`pf2:r` (polymorph,primal) **Trigger** A creature makes a hostile action against the false tarrasque while its Titanic Transformation is active.\n* * *\n\n**Effect** Before the triggering action is resolved, the false tarrasque becomes [[undefined]] until the end of its next turn. This might force the creature to make a DC 11 Flat check to target the false tarrasque. After the triggering action, the false tarrasque's Titanic Transformation ends."
 
 attacks:
   - name: ""
@@ -69,8 +70,14 @@ attacks:
     desc: "`pf2:2` (illusion,mental,primal) The false tarrasque creates a colossal illusory attack, which can appear as any damage type. In its normal form, Illusory Attack affects a 10-foot cone, but while Titanic Transformation is active, Illusory Attack can affect a 30-foot cone, a 60-foot line, or a 10-foot burst with a range of 90 feet. Regardless of the area affected or the damage type it mimics, Illusory Attack deals 1d8 mental damage (DC 14 Will check save). A creature that critically succeeds, or a creature with a resistance, immunity, or vulnerability that should apply to the apparent damage type, recognizes that the Illusory Attack is actually an illusion. Such a creature gains a +2 circumstance bonus to saving throws against Illusory Attack."
 
   - name: "Titanic Transformation"
-    desc: "`pf2:2` (polymorph,primal) **Frequency** Once per day\n**Effect** The false tarrasque assumes a monstrous appearance of its choice and its size becomes Gargantuan. All of its attacks gain a 10 foot reach while transformed but its statistics are otherwise unchanged. The transformation lasts for 1 day.\n[[Effects/Effect_ Titanic Transformation|Effect: Titanic Transformation]]"
+    desc: "`pf2:2` (polymorph,primal) **Frequency** Once per day\n* * *\n\n**Effect** The false tarrasque assumes a monstrous appearance of its choice and its size becomes Gargantuan. All of its attacks gain a 10 foot reach while transformed but its statistics are otherwise unchanged. The transformation lasts for 1 day.\n\n[[Effects/Effect_ Titanic Transformation|Effect: Titanic Transformation]]"
  
+```
+
+```encounter-table
+name: False Tarrasque
+creatures:
+  - 1: False Tarrasque
 ```
 
 

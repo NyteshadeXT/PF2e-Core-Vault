@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.agents-of-edgewatch-bestiary.Actor.AYNIAAxV7TbIKPI4"
 tags:
   - pf2e/creature/type/construct
   - pf2e/creature/type/mindless
+  - pf2eMonster
   - pf2e/creature/level/6
 statblock: inline
 name: "Skitterstitch"
@@ -21,15 +22,16 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #158: Sixty Feet Under"
 name: "Skitterstitch"
 level: "Creature 6"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Large"
-trait_01: "construct"
-trait_02: "mindless"
+trait_01: [[construct]]
+trait_02: [[mindless]]
 modifier: 14
 perception:
   - name: "Perception"
     desc: "+14; Darkvision"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Athletics: +17"
@@ -51,7 +53,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Pest Haven"
-    desc: "  The rotting hides and molding straw stuffing of skitterstitches are ideal nesting grounds for vermin and insect swarms. Any animal swarm sharing a space with a skitterstitch gains fast healing 3.\nAdditionally, if a creature deals at least 10 piercing or slashing damage to the skitterstitchstitch, the swarm can use its swarming bites Strike (or similar attack) against the attacker as a reaction.\n[[Bestiary Effects/Effect_ Pest Haven|Effect: Pest Haven]]"
+    desc: "  The rotting hides and molding straw stuffing of skitterstitches are ideal nesting grounds for vermin and insect swarms. Any animal swarm sharing a space with a skitterstitch gains fast healing 3.\n\nAdditionally, if a creature deals at least 10 piercing or slashing damage to the skitterstitchstitch, the swarm can use its swarming bites Strike (or similar attack) against the attacker as a reaction.\n\n[[Bestiary Effects/Effect_ Pest Haven|Effect: Pest Haven]]"
 
   - name: "Spider Swarm Host"
     desc: "  Skitterstitches host a [[Bestiary 1/Spider Swarm|Spider Swarm]] within themselves, which erupts out when the Skitterstitch is destroyed"
@@ -69,11 +71,17 @@ attacks:
     desc: "`pf2:2`  The skitterstitch makes a blade Strike against an animal or humanoid. On a success, the skitterstitch slices a long strip of flesh from the target; if the skitterstitch dealt damage, it deals an additional 1d6 persistent bleed damage."
 
   - name: "Skitterstitch Venom"
-    desc: "  **Saving Throw** DC 23 Fortitude check\n**Maximum Duration** 6 rounds\n**Stage 1** 1d10 poison damage, [[Conditions/Off-Guard|Off-Guard]], and [[Conditions/Clumsy 1|Clumsy 1]] (1 round)\n**Stage 2** 1d10 poison damage, off-guard, and [[Conditions/Clumsy 1|Clumsy 2]] (1 round)"
+    desc: "  **Saving Throw** DC 23 Fortitude check\n\n**Maximum Duration** 6 rounds\n\n**Stage 1** 1d10 poison damage, [[Conditions/Off-Guard|Off-Guard]], and [[Conditions/Clumsy|Clumsy 1]] (1 round)\n\n**Stage 2** 1d10 poison damage, off-guard, and [[Conditions/Clumsy|Clumsy 2]] (1 round)"
 
   - name: "Stitch Skin"
-    desc: "`pf2:1` (manipulate) **Requirements** The skitterstitch hasn't used this ability since the last time it successfully used its Flay ability\n**Effect** The skitterstitch sews flayed flesh to its body to seal tears and rents. The skitterstitch regains 8 Hit Points."
+    desc: "`pf2:1` (manipulate) **Requirements** The skitterstitch hasn't used this ability since the last time it successfully used its Flay ability\n* * *\n\n**Effect** The skitterstitch sews flayed flesh to its body to seal tears and rents. The skitterstitch regains 8 Hit Points."
  
+```
+
+```encounter-table
+name: Skitterstitch
+creatures:
+  - 1: Skitterstitch
 ```
 
 

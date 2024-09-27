@@ -10,6 +10,7 @@ tags:
   - pf2e/creature/type/human
   - pf2e/creature/type/humanoid
   - pf2e/creature/type/nephilim
+  - pf2eMonster
   - pf2e/creature/level/17
 statblock: inline
 name: "Twisted Jack"
@@ -24,14 +25,14 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #161: Belly of the Black Whale"
 name: "Twisted Jack"
 level: "Creature 17"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Medium"
-trait_01: "chaotic"
-trait_02: "evil"
-trait_03: "human"
-trait_04: "humanoid"
-trait_05: "nephilim"
+trait_01: [[chaotic]]
+trait_02: [[evil]]
+trait_03: [[human]]
+trait_04: [[humanoid]]
+trait_05: [[nephilim]]
 modifier: 32
 perception:
   - name: "Perception"
@@ -82,6 +83,12 @@ attacks:
   - name: "[[Bestiary Ability Glossary/Sneak Attack|Sneak Attack]]"
     desc: "  Twisted Jack deals an additional 3d6 precision damage to [[Conditions/Off-Guard|Off-Guard]] targets."
  
+```
+
+```encounter-table
+name: Twisted Jack
+creatures:
+  - 1: Twisted Jack
 ```
 
 

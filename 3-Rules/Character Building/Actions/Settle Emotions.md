@@ -13,7 +13,7 @@ license: OGL
 ---
 # Settle Emotions
 
-### [[concentrate]][[emotion]][[3-Rules/Rule References/Mental]]
+### [[3-Rules/Rule References/Concentrate]][[3-Rules/Rule References/Emotion]][[3-Rules/Rule References/Mental]]
 
 **Category** interaction; 
 

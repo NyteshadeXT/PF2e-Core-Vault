@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/aberration
   - pf2e/creature/type/chaotic
   - pf2e/creature/type/evil
+  - pf2eMonster
   - pf2e/creature/level/4
 statblock: inline
 name: "Faceless Stalker"
@@ -26,14 +27,14 @@ level: "Creature 4"
 
 alignment: ""
 size: "Medium"
-trait_01: "aberration"
-trait_02: "chaotic"
-trait_03: "evil"
+trait_01: [[aberration]]
+trait_02: [[chaotic]]
+trait_03: [[evil]]
 modifier: 10
 perception:
   - name: "Perception"
     desc: "+10; Darkvision"
-languages: "Alghollthu, Common, Thalassic"
+languages: "Alghollthu, Common, Thalassic; tongues"
 skills:
   - name: "Skills"
     desc: "Acrobatics: +12, Athletics: +12, Deception: +13, Stealth: +13, Thievery: +9"
@@ -71,13 +72,13 @@ attacks:
     desc: " (concentrate,occult,polymorph) The faceless stalker spends 10 minutes reshaping its appearance to take on the shape of any Small or Medium humanoid. It gains a +4 circumstance bonus to Deception checks to pass as that creature."
 
   - name: "Blood Nourishment"
-    desc: "`pf2:1`  The faceless stalker uses its three-pronged tongue to drink the blood of an adjacent [[Conditions/Restrained|Restrained]] or [[Conditions/Unconscious|Unconscious]] creature. The creature gains [[Conditions/Drained 1|Drained 1]]."
+    desc: "`pf2:1`  The faceless stalker uses its three-pronged tongue to drink the blood of an adjacent [[Conditions/Restrained|Restrained]] or [[Conditions/Unconscious|Unconscious]] creature. The creature gains [[Conditions/Drained|Drained 1]]."
 
   - name: "Compression"
     desc: "  When the faceless stalker successfully [[Actions/Squeeze|Squeezes]], it moves through the tight space at full speed. Narrow confines are not difficult terrain for a faceless stalker."
 
   - name: "Revert Form"
-    desc: "  **Requirements** The faceless stalker is in an assumed form.\n**Effect** The faceless stalker resumes its true form. Until the start of its next turn, it gains a +2 status bonus to attack rolls, damage rolls, saving throws, and skill checks.\n[[Bestiary Effects/Effect_ Revert Form|Effect: Revert Form]]"
+    desc: "  **Requirements** The faceless stalker is in an assumed form.\n* * *\n\n**Effect** The faceless stalker resumes its true form. Until the start of its next turn, it gains a +2 status bonus to attack rolls, damage rolls, saving throws, and skill checks.\n\n[[Bestiary Effects/Effect_ Revert Form|Effect: Revert Form]]"
 
   - name: "Sneak Attack"
     desc: "  The faceless stalker deals 1d6 extra precision damage to [[Conditions/Off-Guard|Off-Guard]] creatures."
@@ -85,6 +86,12 @@ attacks:
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
     desc: "`pf2:1`  "
  
+```
+
+```encounter-table
+name: Faceless Stalker
+creatures:
+  - 1: Faceless Stalker
 ```
 
 

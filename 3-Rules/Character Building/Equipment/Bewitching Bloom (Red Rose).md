@@ -12,7 +12,7 @@ license: OGL
 ---
 # Bewitching Bloom (Red Rose)
 ## Item 4
-### [[invested]][[magical]][[tattoo]]
+### [[invested]][[3-Rules/Rule References/Magical]][[tattoo]]
 
 
 **Price** 90 gp; 

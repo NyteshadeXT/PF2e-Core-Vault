@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.npc-gallery.Actor.QAodADCKmbkf53CE"
 tags:
   - pf2e/creature/type/human
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/-1
 statblock: inline
 name: "Librarian"
@@ -24,8 +25,8 @@ level: "Creature -1"
 
 alignment: ""
 size: "Medium"
-trait_01: "human"
-trait_02: "humanoid"
+trait_01: [[human]]
+trait_02: [[humanoid]]
 modifier: 7
 perception:
   - name: "Perception"
@@ -33,7 +34,7 @@ perception:
 languages: "Common"
 skills:
   - name: "Skills"
-    desc: "Academia Lore: +11, Arcana: +9, Library Lore: +13, Nature: +8, Religion: +8"
+    desc: "Arcana: +9, Nature: +8, Religion: +8, Academia Lore: +11, Library Lore: +13"
 abilityMods: [0, 1, 0, 4, 3, 1]
 speed: 25 feet
 sourcebook: "_Pathfinder Gamemastery Guide_"
@@ -51,7 +52,7 @@ abilities_top:
   - name: "Items"
     desc: "[[Equipment/Dagger|Dagger]], [[Equipment/Writing Set|Writing Set]]"
   - name: "Methodical Research"
-    desc: " (concentrate) When [[Actions/Search|Searching]] through stacks of books, a librarian can find the answer to almost any question. This allows the librarian to use Library Lore in place of other lore skills, given enough time.\nThe GM determines the DC of the check and the amount of time it takes (typically, a librarian can attempt three or four checks during 1 day of downtime)."
+    desc: " (concentrate) When [[Actions/Search|Searching]] through stacks of books, a librarian can find the answer to almost any question. This allows the librarian to use Library Lore in place of other lore skills, given enough time.\n\nThe GM determines the DC of the check and the amount of time it takes (typically, a librarian can attempt three or four checks during 1 day of downtime)."
 
 abilities_mid:
   - name: ""
@@ -67,6 +68,12 @@ attacks:
   - name: "Ranged"
     desc: "`pf2:1` Book +5 (nonlethal, thrown 10 ft.)\n__Damage__  1d4 bludgeoning"
  
+```
+
+```encounter-table
+name: Librarian
+creatures:
+  - 1: Librarian
 ```
 
 

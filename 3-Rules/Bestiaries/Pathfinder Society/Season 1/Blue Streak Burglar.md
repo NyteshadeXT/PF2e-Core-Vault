@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/human
   - pf2e/creature/type/humanoid
   - pf2e/creature/type/lawful
+  - pf2eMonster
   - pf2e/creature/level/4
 statblock: inline
 name: "Blue Streak Burglar"
@@ -22,12 +23,12 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Society Scenario #1-24: Lightning Strikes, Stars Fall"
 name: "Blue Streak Burglar"
 level: "Creature 4"
-rare_03: "Rare"
+rare_03: [[Rare]]
 alignment: ""
 size: "Medium"
-trait_01: "human"
-trait_02: "humanoid"
-trait_03: "lawful"
+trait_01: [[human]]
+trait_02: [[humanoid]]
+trait_03: [[lawful]]
 modifier: 10
 perception:
   - name: "Perception"
@@ -58,7 +59,7 @@ abilities_mid:
     desc: "  The burglar isn't [[Conditions/Off-Guard|Off-Guard]] to creatures of 4th level or lower that are [[Conditions/Hidden|Hidden]], undetected, flanking, or using surprise attack."
 
   - name: "Nimble Dodge"
-    desc: "`pf2:r`  **Trigger** The burglar is targeted with a melee or ranged attack by an attacker they can see\n**Effect** The burglar gains a +2 circumstance bonus to AC against the triggering attack."
+    desc: "`pf2:r`  **Trigger** The burglar is targeted with a melee or ranged attack by an attacker they can see\n* * *\n\n**Effect** The burglar gains a +2 circumstance bonus to AC against the triggering attack."
 
 attacks:
   - name: ""
@@ -81,6 +82,12 @@ attacks:
   - name: "Surprise Attack"
     desc: "  On the first round of combat, if the burglar rolls Deception or Stealth for initiative, creatures that haven't acted are [[Conditions/Off-Guard|Off-Guard]] to them."
  
+```
+
+```encounter-table
+name: Blue Streak Burglar
+creatures:
+  - 1: Blue Streak Burglar
 ```
 
 

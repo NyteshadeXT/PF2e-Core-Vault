@@ -7,8 +7,9 @@ tags:
   - trait/rage
   - trait/common
   - category/class
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.GE96a0UGPYM74qjI"
-license: OGL
+license: ORC
 ---
 # Cleave `pf2:r`
 ## Feat 6
@@ -19,11 +20,11 @@ license: OGL
 
 
 
-**Trigger** Your melee Strike kills a creature or knocks it unconscious, and another foe is adjacent to that creature.
+**Trigger** Your melee Strike reduces an enemy to 0 Hit Points, and another enemy is adjacent to that creature.
 
 * * *
 
-You swing clear through one foe and into another. Make a melee Strike against the second foe.
+You swing clear through one foe and into another. Make a melee Strike against the second enemy.
 
-*Source: Pathfinder Core Rulebook*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

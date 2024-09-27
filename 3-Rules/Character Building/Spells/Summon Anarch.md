@@ -4,32 +4,35 @@ title: "Summon Anarch"
 noteType: pf2eSpell
 cssclasses: pf2e,pf2e-spell
 tags:
+  - pf2eSpell
   - spell/level/5
   - trait/concentrate
   - trait/manipulate
   - trait/common
+  - tradition/divine
+
 aliases: "Compendium.pf2e.spells-srd.Item.n8ckecJpatSBEp7M" 
+license: OGL
 ---
-# Summon Anarch  `pf2:3`  
-## Spell 5
-### [[concentrate]][[manipulate]]
-**Traditions** [[divine]]
-**Range** 30 feet
-**Duration** 1 minute
-* * * 
-You conjure a chaotic celestial, monitor, or fiend to fight on your behalf. You summon a common chaotic creature that has the celestial, monitor, or fiend trait and whose level is 5 or lower. You can't summon a creature unless its alignment is one of your deity's preferred alignments (or, if you don't have a deity, is within one step of your alignment). At the GM's discretion, some deities might restrict specific types of creatures, even if their alignments match. Heightening the spell increases the maximum level of creature you can summon.
+```statblock
+name: "Summon Anarch  `pf2:3`"
+level: "Spell 5"
 
-* * *
-
-**Heightened (6th)** Level 7.
-
-**Heightened (7th)** Level 9.
-
-**Heightened (8th)** Level 11.
-
-**Heightened (9th)** Level 13.
-
-**Heightened (10th)** Level 15.
-
-*Source: Pathfinder Secrets of Magic*
-*OGL*
+trait_01: [[concentrate]]
+trait_02: [[manipulate]]
+layout: Basic Pathfinder 2e Layout
+columns: 1
+columnWidth: x
+abilities_top:
+  - name: ""
+  - name: "Traditions"
+    desc: "divine"
+  - name: "Range"
+    desc: "30 feet"
+  - name: "Duration"
+    desc: "1 minute"
+abilities_mid:
+  - name: ""
+    desc: "You conjure a chaotic celestial, monitor, or fiend to fight on your behalf. You summon a common chaotic creature that has the celestial, monitor, or fiend trait and whose level is 5 or lower. You can't summon a creature unless its alignment is one of your deity's preferred alignments (or, if you don't have a deity, is within one step of your alignment). At the GM's discretion, some deities might restrict specific types of creatures, even if their alignments match. Heightening the spell increases the maximum level of creature you can summon.\n* * *\n\n**Heightened (6th)** Level 7.\n\n**Heightened (7th)** Level 9.\n\n**Heightened (8th)** Level 11.\n\n**Heightened (9th)** Level 13.\n\n**Heightened (10th)** Level 15."
+sourcebook: "_Pathfinder Secrets of Magic_"
+```

@@ -35,9 +35,9 @@ When casting the avatar spell, a worshipper of Yelayne becomes dressed in fashio
 
 **Yelayne** Speed 60 feet, fly 70 feet
 
-Melee `pf2:1` whip of entangling threads (disarm, finesse, nonlethal, reach 20 feet, trip), Damage 6d4 + 6 slashing plus Grab
+Melee `pf2:1` whip of entangling threads (disarm, finesse, nonlethal, reach 20 feet, trip), Damage 6d4+6 slashing plus Grab
 
-Ranged `pf2:1` gust of captivated wind (range 120 feet, versatile S), Damage 6d6 + 3 bludgeoning plus Push
+Ranged `pf2:1` gust of captivated wind (range 120 feet, versatile S), Damage 6d6+3 bludgeoning plus Push
 
 *Source: Pathfinder Lost Omens: Firebrands*
 *OGL*

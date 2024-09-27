@@ -19,7 +19,7 @@ license: ORC
 **Bulk** 0; **Size** med
 **Usage** worn
 
-This obsidian ring allows you to partially warp your spells through the Shadow Plane, allowing them to strike directly at a target's body.
+This obsidian ring allows you to partially warp your spells through the Netherworld, allowing them to strike directly at a target's body.
 
 **Activate** `pf2:0` (concentrate, spellshape)
 

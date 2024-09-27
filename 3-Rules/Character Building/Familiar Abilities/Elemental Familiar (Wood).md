@@ -12,7 +12,7 @@ license: OGL
 ---
 # Elemental Familiar (Wood)
 
-### [[Wood]]
+### [[wood]]
 
 **Category** familiar; 
 

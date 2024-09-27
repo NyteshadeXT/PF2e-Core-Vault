@@ -6,8 +6,9 @@ tags:
   - trait/catfolk
   - trait/common
   - category/ancestry
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.QgNo1s6nVbKPU4St"
-license: OGL
+license: ORC
 ---
 # Reliable Luck
 ## Feat 17
@@ -19,7 +20,7 @@ license: OGL
 
 **Prerequisites** Cat's Luck
 * * *
-You have gone well past nine lives to survive danger with surprising regularity. You can use [[Feats/Cat's Luck|Cat's Luck]] once per hour, rather than once per day.
+You survive danger with surprising regularity. You can use [[Feats/Cat's Luck|Cat's Luck]] once per hour, rather than once per day.
 
-*Source: Pathfinder Advanced Player's Guide*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

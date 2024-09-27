@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/human
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/3
 statblock: inline
 name: "Bandit Skullcracker"
@@ -25,9 +26,9 @@ level: "Creature 3"
 
 alignment: ""
 size: "Medium"
-trait_01: "evil"
-trait_02: "human"
-trait_03: "humanoid"
+trait_01: [[evil]]
+trait_02: [[human]]
+trait_03: [[humanoid]]
 modifier: 5
 perception:
   - name: "Perception"
@@ -64,8 +65,14 @@ attacks:
     desc: "`pf2:1` Light Hammer +8 (agile, thrown 20 ft.)\n__Damage__  1d6 + 3 bludgeoning"
 
   - name: "Dread Striker"
-    desc: "  [[Conditions/Frightened 1|Frightened]] creatures are [[Conditions/Off-Guard|Off-Guard]] to the bandit."
+    desc: "  [[Conditions/Frightened|Frightened]] creatures are [[Conditions/Off-Guard|Off-Guard]] to the bandit."
  
+```
+
+```encounter-table
+name: Bandit Skullcracker
+creatures:
+  - 1: Bandit Skullcracker
 ```
 
 

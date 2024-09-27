@@ -1,16 +1,17 @@
 ---
 obsidianUIMode: preview
-title: "Tangle Of Battle"
+title: "Tangle of Battle"
 cssclasses: pf2e,pf2e-spell
 tags:
   - trait/barbarian
   - trait/rage
   - trait/common
   - category/class
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.GLbl3qoWCvvjJr4S"
-license: OGL
+license: ORC
 ---
-# Tangle Of Battle `pf2:r`
+# Tangle of Battle `pf2:r`
 ## Feat 10
 ### [[barbarian]][[rage]]
 
@@ -23,7 +24,7 @@ license: OGL
 
 * * *
 
-Your vicious Strike pulls you close, giving you the opportunity to grab your foe. Attempt to [[Actions/Grapple|Grapple]] the triggering enemy.
+Your vicious strike pulls your foe closer, giving you the opportunity to grab them. Attempt to [[Actions/Grapple|Grapple]] the triggering enemy.
 
-*Source: Pathfinder Advanced Player's Guide*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

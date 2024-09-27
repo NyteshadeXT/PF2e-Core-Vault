@@ -6,6 +6,7 @@ cssClasses: pf2e
 aliases: "Compendium.pf2e.strength-of-thousands-bestiary.Actor.OC9ttUM3xalAJWSM" 
 tags:
   - pf2e/creature/type/animal
+  - pf2eMonster
   - pf2e/creature/level/4
 statblock: inline
 name: "Damibwa"
@@ -23,11 +24,12 @@ level: "Creature 4"
 
 alignment: ""
 size: "Medium"
-trait_01: "animal"
+trait_01: [[animal]]
 modifier: 12
 perception:
   - name: "Perception"
     desc: "+12; Echolocation 60 Feet, Low-Light Vision"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Acrobatics: +10, Athletics: +12, Stealth: +10, Survival: +10"
@@ -61,14 +63,20 @@ attacks:
     desc: "`pf2:1` Jaws +14 ()\n__Damage__  2d8 + 4 piercing plus grab"
 
   - name: "Fetch"
-    desc: "`pf2:1` (attack,move) **Requirements** The damibwa has a Small or smaller creature grabbed in water\n**Effect** The damibwa attempts an Athletics check check against the creature's Fortitude DC.\n**Critical Success** The damibwa moves up to its swim Speed, dragging the [[Conditions/Grabbed|Grabbed]] creature along with it.\n**Success** The damibwa moves up to half its swim Speed, dragging the grabbed creature along with it.\n**Failure** The damibwa doesn't move and the creature isn't dragged.\n**Critical Failure** The damibwa no longer has the creature grabbed."
+    desc: "`pf2:1` (attack,move) **Requirements** The damibwa has a Small or smaller creature grabbed in water\n* * *\n\n**Effect** The damibwa attempts an Athletics check check against the creature's Fortitude DC.\n* * *\n\n**Critical Success** The damibwa moves up to its swim Speed, dragging the [[Conditions/Grabbed|Grabbed]] creature along with it.\n\n**Success** The damibwa moves up to half its swim Speed, dragging the grabbed creature along with it.\n\n**Failure** The damibwa doesn't move and the creature isn't dragged.\n\n**Critical Failure** The damibwa no longer has the creature grabbed."
 
   - name: "Predatory Dive"
-    desc: "`pf2:2` (move) **Requirements** The damibwa is in or adjacent to water\n**Effect** The damibwa moves up to double its swim Speed, descending at least 10 feet, and then makes a jaws Strike. If it was [[Conditions/Undetected|Undetected]] at the start of predatory dive, it remains undetected until after the attack."
+    desc: "`pf2:2` (move) **Requirements** The damibwa is in or adjacent to water\n* * *\n\n**Effect** The damibwa moves up to double its swim Speed, descending at least 10 feet, and then makes a jaws Strike. If it was [[Conditions/Undetected|Undetected]] at the start of predatory dive, it remains undetected until after the attack."
 
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
     desc: "`pf2:1`  "
  
+```
+
+```encounter-table
+name: Damibwa
+creatures:
+  - 1: Damibwa
 ```
 
 

@@ -10,6 +10,7 @@ tags:
   - pf2e/creature/type/undead
   - pf2e/creature/type/unholy
   - pf2e/creature/type/zombie
+  - pf2eMonster
   - pf2e/creature/level/11
 statblock: inline
 name: "Zombie Mammoth"
@@ -27,15 +28,16 @@ level: "Creature 11"
 
 alignment: ""
 size: "huge"
-trait_01: "evil"
-trait_02: "mindless"
-trait_03: "undead"
-trait_04: "unholy"
-trait_05: "zombie"
+trait_01: [[evil]]
+trait_02: [[mindless]]
+trait_03: [[undead]]
+trait_04: [[unholy]]
+trait_05: [[zombie]]
 modifier: 17
 perception:
   - name: "Perception"
     desc: "+17; Darkvision"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Athletics: +24"
@@ -57,10 +59,10 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Severed Trunk"
-    desc: "  When the zombie mammoth is hit by a critical hit that deals slashing damage, the mammoth's trunk is severed from its body. Any creature [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]] with the trunk is released, and the mammoth loses its trunk Strike and Greater Constrict.\nThe trunk slithers across the battlefield, still animated, and acts in initiative right after the mammoth. It retains Greater Constrict and trunk Strikes but can't use tusk Strikes, foot Strikes, or Shambling Trample. It has all the stats of the mammoth, except its AC is reduced to 23, it has only 50 Hit Points, and its Speed is 10 feet. Damage dealt to the severed trunk has no effect on the zombie mammoth."
+    desc: "  When the zombie mammoth is hit by a critical hit that deals slashing damage, the mammoth's trunk is severed from its body. Any creature [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]] with the trunk is released, and the mammoth loses its trunk Strike and Greater Constrict.\n\nThe trunk slithers across the battlefield, still animated, and acts in initiative right after the mammoth. It retains Greater Constrict and trunk Strikes but can't use tusk Strikes, foot Strikes, or Shambling Trample. It has all the stats of the mammoth, except its AC is reduced to 23, it has only 50 Hit Points, and its Speed is 10 feet. Damage dealt to the severed trunk has no effect on the zombie mammoth."
 
   - name: "Slow"
-    desc: "  A zombie mammoth is permanently [[Conditions/Slowed 1|Slowed 1]] and can't use reactions."
+    desc: "  A zombie mammoth is permanently [[Conditions/Slowed|Slowed 1]] and can't use reactions."
 
 attacks:
   - name: ""
@@ -75,11 +77,17 @@ attacks:
     desc: "`pf2:1` Foot +24 (reach 10 feet)\n__Damage__  2d10 + 13 bludgeoning"
 
   - name: "[[Bestiary Ability Glossary/Greater Constrict|Greater Constrict]]"
-    desc: "`pf2:1`  2d10 + 7 bludgeoning, DC 30 Fortitude check\n"
+    desc: "`pf2:1`  2d10+7 bludgeoning, DC 30 Fortitude check\n\n* * *\n"
 
   - name: "[[Bestiary Ability Glossary/Trample|Shambling Trample]]"
-    desc: "`pf2:2`  Large or smaller, foot, DC 30 Reflex check\nThe zombie mammoth Strides up to its Speed instead of double.\n"
+    desc: "`pf2:2`  Large or smaller, foot, DC 30 Reflex check\n\nThe zombie mammoth Strides up to its Speed instead of double.\n\n* * *\n"
  
+```
+
+```encounter-table
+name: Zombie Mammoth
+creatures:
+  - 1: Zombie Mammoth
 ```
 
 

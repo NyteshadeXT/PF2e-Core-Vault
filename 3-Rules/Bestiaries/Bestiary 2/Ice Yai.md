@@ -13,6 +13,7 @@ tags:
   - pf2e/creature/type/humanoid
   - pf2e/creature/type/oni
   - pf2e/creature/type/unholy
+  - pf2eMonster
   - pf2e/creature/level/13
 statblock: inline
 name: "Ice Yai"
@@ -31,14 +32,14 @@ level: "Creature 13"
 
 alignment: ""
 size: "Large"
-trait_01: "chaotic"
-trait_02: "cold"
-trait_03: "evil"
-trait_04: "fiend"
-trait_05: "giant"
-trait_06: "humanoid"
-trait_07: "oni"
-trait_08: "unholy"
+trait_01: [[chaotic]]
+trait_02: [[cold]]
+trait_03: [[evil]]
+trait_04: [[fiend]]
+trait_05: [[giant]]
+trait_06: [[humanoid]]
+trait_07: [[oni]]
+trait_08: [[unholy]]
 modifier: 26
 perception:
   - name: "Perception"
@@ -68,7 +69,7 @@ abilities_mid:
     desc: "`pf2:r`  "
 
   - name: "Icy Deflection"
-    desc: "`pf2:r` (fire) **Trigger** The ice yai is targeted by a ranged Strike or spell attack roll that doesn't have the fire trait\n**Effect** The ice yai creates a reflective blockade of ice, gaining a +4 circumstance bonus to AC against the triggering attack roll. If the attack misses, the ice yai redirects the attack to another creature within 20 feet of the yai. The attacker rerolls the attack roll against the new target."
+    desc: "`pf2:r`  **Trigger** The ice yai is targeted by a ranged Strike or spell attack roll that doesn't have the fire trait\n* * *\n\n**Effect** The ice yai creates a reflective blockade of ice, gaining a +4 circumstance bonus to AC against the triggering attack roll. If the attack misses, the ice yai redirects the attack to another creature within 20 feet of the yai. The attacker rerolls the attack roll against the new target."
 
 attacks:
   - name: ""
@@ -83,14 +84,20 @@ attacks:
     desc: "DC 33, attack +23; __7th __  _[[Spells/Cone of Cold|Cone of Cold (x4)]]_, _[[Spells/Wall of Ice|Wall of Ice]]_; __4th __  _[[Spells/Charm|Charm (x3)]]_, _[[Spells/Darkness|Darkness]]_, _[[Spells/Vapor Form|Gaseous Form]]_, _[[Spells/Solid Fog|Solid Fog]]_; __2nd __  _[[Spells/Invisibility|Invisibility (At will) (Self only)]]_"
 
   - name: "[[Bestiary Ability Glossary/Change Shape|Change Shape]]"
-    desc: "`pf2:1` (concentrate,polymorph,primal) The frost yai takes on the appearance of a [[Bestiary 1/Frost Giant|Frost Giant]]. This doesn't change their Speed or Strike attack and damage.\n"
+    desc: "`pf2:1` (concentrate,polymorph,primal) The ice yai takes on the appearance of a [[Bestiary 1/Frost Giant|Frost Giant]]. This doesn't change their Speed or Strike attack and damage.\n\n* * *\n"
 
   - name: "Double Punch"
-    desc: "`pf2:1`  **Frequency** once per round\n**Effect** The ice yai makes two fist Strikes."
+    desc: "`pf2:1`  **Frequency** once per round\n* * *\n\n**Effect** The ice yai makes two fist Strikes."
 
   - name: "Frozen Strike"
-    desc: "  On a critical hit with a fist Strike or a hit with an ice missile Strike, the target creature must attempt a DC 33 Fortitude check save.\n**Critical Success** The creature is unaffected.\n**Success** The creature is [[Conditions/Slowed 1|Slowed 1]] for 1 round.\n**Failure** The creature is [[Conditions/Slowed 1|Slowed 2]] for 1 round.\n**Critical Failure** The creature is [[Conditions/Slowed 1|Slowed 3]] for 1 round."
+    desc: "  On a critical hit with a fist Strike or a hit with an ice missile Strike, the target creature must attempt a DC 33 Fortitude check save.\n* * *\n\n**Critical Success** The creature is unaffected.\n\n**Success** The creature is [[Conditions/Slowed|Slowed 1]] for 1 round.\n\n**Failure** The creature is [[Conditions/Slowed|Slowed 2]] for 1 round.\n\n**Critical Failure** The creature is [[Conditions/Slowed|Slowed 3]] for 1 round."
  
+```
+
+```encounter-table
+name: Ice Yai
+creatures:
+  - 1: Ice Yai
 ```
 
 

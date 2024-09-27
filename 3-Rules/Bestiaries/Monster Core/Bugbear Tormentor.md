@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.pathfinder-monster-core.Actor.httXfBPGseF9csXa"
 tags:
   - pf2e/creature/type/bugbear
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/3
   - remaster
 statblock: inline
@@ -26,8 +27,8 @@ level: "Creature 3"
 
 alignment: ""
 size: "Medium"
-trait_01: "bugbear"
-trait_02: "humanoid"
+trait_01: [[bugbear]]
+trait_02: [[humanoid]]
 modifier: 8
 perception:
   - name: "Perception"
@@ -72,6 +73,12 @@ attacks:
   - name: "Twin Feint"
     desc: "`pf2:2`  The bugbear tormentor makes a dazzling series of attacks with two weapons, using the first attack to throw their foe off-guard against a second attack at a different angle. They make one Strike with each of their two melee weapons, both against the same target. The target is automatically [[Conditions/Off-Guard|Off-Guard]] against the second attack. The bugbear tormentor applies their multiple attack penalty to these Strikes normally."
  
+```
+
+```encounter-table
+name: Bugbear Tormentor
+creatures:
+  - 1: Bugbear Tormentor
 ```
 
 

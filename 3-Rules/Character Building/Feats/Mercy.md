@@ -4,26 +4,34 @@ title: "Mercy"
 cssclasses: pf2e,pf2e-spell
 tags:
   - trait/champion
-  - trait/concentrate
-  - trait/spellshape
   - trait/common
   - category/class
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.zilwynzk8lIujgZo"
-license: OGL
+license: ORC
 ---
-# Mercy `pf2:1`
+# Mercy
 ## Feat 4
-### [[champion]][[concentrate]][[spellshape]]
+### [[champion]]
 
 **Category** class; 
 
 
 
-**Prerequisites** devotion spell (lay on hands)
+**Prerequisites** lay on hands
 * * *
-Your touch relieves fear and restores movement.
+Your touch soothes the body or mind. You can cast lay on hands targeting a living creature using 2 actions instead of 1. If you do, you can attempt to counteract one condition of your choice affecting the target. When you select this feat, choose one of the following options, which determines the conditions you can choose:
 
-If the next action you use is to cast [[Spells/Lay on Hands|Lay on Hands]], you can attempt to counteract a fear effect or an effect imposing the [[Conditions/Paralyzed|Paralyzed]] condition on the target, in addition to the other benefits of lay on hands.
+*   **Mercy of the Body** [[Conditions/Blinded|Blinded]], [[Conditions/Dazzled|Dazzled]], [[Conditions/Deafened|Deafened]], [[Conditions/Enfeebled|Enfeebled]], [[Conditions/Sickened|Sickened]];
+    
+*   **Mercy of Grace** [[Conditions/Clumsy|Clumsy]], [[Conditions/Grabbed|Grabbed]], [[Conditions/Paralyzed|Paralyzed]];
+    
+*   **Mercy of the Mind** [[Conditions/Fleeing|Fleeing]], [[Conditions/Frightened|Frightened]], [[Conditions/Stupefied|Stupefied]].
+    
 
-*Source: Pathfinder Core Rulebook*
-*OGL*
+* * *
+
+**Special** You can select this feat up to three times. Each time, choose a different type of mercy and add its options to those you can choose when you cast a 2-action lay on hands.
+
+*Source: Pathfinder Player Core 2*
+*ORC*

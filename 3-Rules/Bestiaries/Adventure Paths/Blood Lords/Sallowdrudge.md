@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.blood-lords-bestiary.Actor.sySkOlAi825RpRrj"
 tags:
   - pf2e/creature/type/human
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/1
 statblock: inline
 name: "Sallowdrudge"
@@ -21,11 +22,11 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #182: Graveclaw"
 name: "Sallowdrudge"
 level: "Creature 1"
-rare_03: "Rare"
+rare_03: [[Rare]]
 alignment: ""
 size: "Medium"
-trait_01: "human"
-trait_02: "humanoid"
+trait_01: [[human]]
+trait_02: [[humanoid]]
 modifier: 7
 perception:
   - name: "Perception"
@@ -67,6 +68,12 @@ attacks:
   - name: "Spear Fisher"
     desc: " (fortune) A Sallowdrudge attacking an [[Conditions/Immobilized|Immobilized]] target rolls the attack roll twice and takes the better result."
  
+```
+
+```encounter-table
+name: Sallowdrudge
+creatures:
+  - 1: Sallowdrudge
 ```
 
 

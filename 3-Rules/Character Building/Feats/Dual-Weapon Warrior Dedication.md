@@ -7,8 +7,9 @@ tags:
   - trait/dedication
   - trait/common
   - category/class
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.YhnCjiHNlS3nCeoC"
-license: OGL
+license: ORC
 ---
 # Dual-Weapon Warrior Dedication
 ## Feat 2
@@ -19,9 +20,9 @@ license: OGL
 
 
 
-You're exceptional in your use of two weapons. You gain the [[Feats/Double Slice|Double Slice]] fighter feat. This serves as Double Slice for the purpose of meeting prerequisites.
+You're exceptional in your use of two weapons. You gain the [[Feats/Double Slice|Double Slice]] fighter feat.
 
-**Special** You can't select another dedication feat until you gain two other feats from the [[PF2e Journals/Archetypes/Dual-Weapon Warrior|Dual-Weapon Warrior]] archetype.
+[[PF2e Journals/Archetypes/Dual-Weapon Warrior|Dual-Weapon Warrior]]
 
-*Source: Pathfinder Advanced Player's Guide*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

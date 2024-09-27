@@ -6,8 +6,9 @@ tags:
   - trait/grippli
   - trait/common
   - category/ancestry
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.OK8X6QFRuRxpBMcZ"
-license: OGL
+license: ORC
 ---
 # Long Tongue
 ## Feat 5
@@ -17,9 +18,9 @@ license: OGL
 
 
 
-**Prerequisites** snaptongue grippli heritage
+**Prerequisites** snaptongue tripkee
 * * *
-You've learned to stretch your exceptionally long tongue beyond its original limits. When you use your tongue to deliver touch range spells or perform very simple Interact actions, you can do so at a distance that is 5 feet beyond your usual reach.
+You've learned to stretch your exceptionally long tongue beyond its original limits. When you use your tongue to deliver touch-range spells or perform very simple Interact actions, you can do so at a distance that is 5 feet beyond your usual reach.
 
-*Source: Pathfinder Lost Omens: The Mwangi Expanse*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

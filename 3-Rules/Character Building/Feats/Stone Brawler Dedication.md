@@ -24,7 +24,7 @@ You've learned to call the primal power of elemental stone to your aid. You gain
 
 * * *
 
-**Special** You cannot select another dedication feat until you have gained two other feats from the stone brawler archetype.
+**Special** You cannot select another dedication feat until you have gained two other feats from the [[PF2e Journals/Archetypes/Stone Brawler|Stone Brawler]] archetype.
 
 *Source: Pathfinder #195: Heavy is the Crown*
 *OGL*

@@ -17,7 +17,7 @@ license: OGL
 
 
 
-**Moderate Curse** You've lost the glory of slaying a worthy opponent.
+You've lost the glory of slaying a worthy opponent.
 
 All of your weapon and unarmed attacks decrease their damage dice by one step, and all your attacks are nonlethal.
 

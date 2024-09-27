@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/chaotic
   - pf2e/creature/type/evil
   - pf2e/creature/type/troop
+  - pf2eMonster
   - pf2e/creature/level/10
 statblock: inline
 name: "Ayd-rahiba"
@@ -24,20 +25,21 @@ token: [[modules/battlezoo-bestiary-su-pf2e/art/Portraits/ayd-rahiba.webp| ]]
 source: "Battlezoo Bestiary: Strange and Unusual"
 name: "Ayd-rahiba"
 level: "Creature 10"
-rare_03: "Rare"
+rare_03: [[Rare]]
 alignment: ""
 size: "grg"
-trait_01: "aberration"
-trait_02: "chaotic"
-trait_03: "evil"
-trait_04: "troop"
+trait_01: [[aberration]]
+trait_02: [[chaotic]]
+trait_03: [[evil]]
+trait_04: [[troop]]
 modifier: 19
 perception:
   - name: "Perception"
     desc: "+19; Tremorsense (Precise) 60 Feet"
+languages: ""
 skills:
   - name: "Skills"
-    desc: "Athletics: +22, Intimidation: +18, Stealth: +20, "
+    desc: "Athletics: +22, Intimidation: +18, Stealth: +20, Athletics: +22, Intimidation: +18, Stealth: +20"
 abilityMods: [8, 7, 5, 3, 2, 3]
 speed: 30 feet,  climb 30 feet
 sourcebook: "_Battlezoo Bestiary: Strange and Unusual_"
@@ -59,16 +61,16 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Retreat into the Walls"
-    desc: "`pf2:1` (move) The ayd-rahiba's arms all retract into the walls in unison, leaving only gaping holes behind. This grants the ayd-rahiba standard cover and the ability to wall glide.\nEffect: Cover"
+    desc: "`pf2:1` (move) The ayd-rahiba's arms all retract into the walls in unison, leaving only gaping holes behind. This grants the ayd-rahiba standard cover and the ability to wall glide.\n\n[[Other Effects/Effect_ Cover|Effect: Cover]]"
 
 attacks:
   - name: ""
 
   - name: "Constricting Drag"
-    desc: "`pf2:1`  **Frequency** once per round\n**Effect** The ayd-rahiba arms squeeze and pull on all creatures Grabbed by it, rolling a single Athletics check and comparing the result against each grabbed creature's Fortitude DC. On a success, the ayd-rahiba deals 2d8 + 6 bludgeoning damage and pulls the creature 5 feet towards its nearest space (10 feet and double damage on critical success)."
+    desc: "`pf2:1`  **Frequency** once per round\n* * *\n\n**Effect** The ayd-rahiba arms squeeze and pull on all creatures [[undefined]] by it, rolling a single Athletics check and comparing the result against each grabbed creature's Fortitude DC. On a success, the ayd-rahiba deals 2d8+6 bludgeoning damage and pulls the creature 5 feet towards its nearest space (10 feet and double damage on critical success)."
 
   - name: "Grabbing Onslaught"
-    desc: "`pf2:1`  **Frequency** once per round\n**Effect** The ayd-rahiba's arms lash out at all enemies in the squares it occupies or within 5 feet with a DC 27 Reflex check save. On a failure, the creature is Grabbed until the end of the ayd-rahiba's next turn. The damage depends on the number of actions.\n1 2d8 bludgeoning damage\n2 2d8 + 11 bludgeoning damage\n3 2d8 + 17 bludgeoning damage."
+    desc: "`pf2:1`  **Frequency** once per round\n* * *\n\n**Effect** The ayd-rahiba's arms lash out at all enemies in the squares it occupies or within 5 feet with a DC 27 Reflex check save. On a failure, the creature is [[undefined]] until the end of the ayd-rahiba's next turn. The damage depends on the number of actions.\n\n1 2d8 bludgeoning damage\n\n2 2d8+11 bludgeoning damage\n\n3 2d8+17 bludgeoning damage."
 
   - name: "Swarming Tide"
     desc: "  The ayd-rahiba moves with an organization illogical to mortal minds. It can move into other creatures' spaces, and other creatures can move into its spaces. The spaces it occupies are treated as difficult terrain by other creatures. When the ayd-rahiba uses Form up, it can ignore the 15 foot limitation as long as its squares all occupy a single room."
@@ -79,6 +81,12 @@ attacks:
   - name: "Wall Glide"
     desc: "  After Retreating into the Walls, the ayd-rahiba moves behind the surfaces of walls, ceilings, and floors of a structure with illogical ease in a wet, slapping slither. The surfaces bulge obviously in ways that defy their material nature unless the ayd-rahiba Sneaks. After emerging to attack, the ayd-rahiba can't wall glide until it Retreats into the Wall."
  
+```
+
+```encounter-table
+name: Ayd-rahiba
+creatures:
+  - 1: Ayd-rahiba
 ```
 
 

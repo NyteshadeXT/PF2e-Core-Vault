@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/fiend
   - pf2e/creature/type/unholy
+  - pf2eMonster
   - pf2e/creature/level/5
 statblock: inline
 name: "Weak Ceustodaemon (PFS 1-01)"
@@ -26,15 +27,15 @@ level: "Creature 5"
 
 alignment: ""
 size: "Large"
-trait_01: "daemon"
-trait_02: "evil"
-trait_03: "fiend"
-trait_04: "unholy"
+trait_01: [[daemon]]
+trait_02: [[evil]]
+trait_03: [[fiend]]
+trait_04: [[unholy]]
 modifier: 12
 perception:
   - name: "Perception"
     desc: "+12; Darkvision, See the Unseen"
-languages: "Common, Daemonic"
+languages: "Common, Daemonic; telepathy 100 feet"
 skills:
   - name: "Skills"
     desc: "Deception: +13, Intimidation: +11, Stealth: +10, Survival: +8"
@@ -65,14 +66,20 @@ attacks:
     desc: "DC 21, attack +13; __7th __  _[[Spells/Fly|Fly]]_; __4th __  _[[Spells/Translocate|Dimension Door (At Will)]]_; __3rd __  _[[Spells/Dispel Magic|Dispel Magic (x2)]]_, _[[Spells/Paralyze|Paralyze]]_; __1st __  _[[Spells/Detect Alignment|Detect Alignment (At Will) (Good Only)]]_\n__Constant__  __(2nd)__ _[[Spells/See the Unseen|See Invisibility]]_"
 
   - name: "Breath Weapon"
-    desc: "`pf2:2` (divine,fire) The ceustodaemon breathes flames in a 30-foot cone. Creatures in the cone take 6d6 fire damage (DC 22 Reflex check save).\nThe ceustodaemon and each creature that fails the save catch fire, taking 1d6 persistent fire damage.\nThe breath weapon can't be used again for 1d4 rounds."
+    desc: "`pf2:2` (divine,fire) The ceustodaemon breathes flames in a @Template[cone|distance:30]. Creatures in the cone take 6d6 fire damage (DC 22 Reflex check save).\n\nThe ceustodaemon and each creature that fails the save catch fire, taking 1d6 persistent fire damage.\n\nThe breath weapon can't be used again for 1d4 rounds."
 
   - name: "Drawn to Service"
     desc: "  When bringing a ceustodaemon to another plane with effects like a [[Spells/Binding Circle|Binding Circle]] or [[Spells/Planar Servitor|Planar Servitor]] ritual, the primary and secondary skill DCs are reduced by 5, and the ceustodaemon demands only half the normal cost for its service."
 
   - name: "Vicious Wounds"
-    desc: "  On a successful jaws or claw Strike, the ceustodaemon viciously tears into its victim as similar wounds appear on its own body. The target takes an extra 1d6 amount of damage, and the ceustodaemon takes the same extra damage.\nIf this extra damage to the target is doubled, due to a critical hit, the ceustodaemon takes double damage as well."
+    desc: "  On a successful jaws or claw Strike, the ceustodaemon viciously tears into its victim as similar wounds appear on its own body. The target takes an extra 1d6 amount of damage, and the ceustodaemon takes the same extra damage.\n\nIf this extra damage to the target is doubled, due to a critical hit, the ceustodaemon takes double damage as well."
  
+```
+
+```encounter-table
+name: Weak Ceustodaemon (PFS 1-01)
+creatures:
+  - 1: Weak Ceustodaemon (PFS 1-01)
 ```
 
 

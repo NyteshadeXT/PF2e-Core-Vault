@@ -4,6 +4,7 @@ obsidianUIMode: preview
 noteType: pf2eHazard
 tags:
   - mechanical
+  - pf2eHazard
   - complex
 source: Pathfinder Society Intro #2: United in Purpose
 aliases: "Compendium.pf2e.pfs-introductions-bestiary.Actor.ZGX829P4KgPecMsF" 
@@ -21,7 +22,7 @@ name: "Cleaning Agents"
 level: "Hazard 3"
 
 trait_06: "Complex"
-trait_01: "mechanical"
+trait_01: [[mechanical]]
 modifier: 10
 sourcebook: "_Pathfinder Society Intro #2: United in Purpose_"
 perception:
@@ -40,11 +41,17 @@ attacks:
   - name: ""
 
   - name: "Decontamination Spray"
-    desc: "`pf2:r` **Trigger** A creature enters the room.\n**Effect** The trap sprays cleaning chemicals at the triggering creature dealing 1d8 + 4 acid damage. The creature must attempt a DC 20 Reflex check save, and the trap then rolls initiative.\n**Critical Success** The creature is unaffected.\n**Success** The creature takes half damage.\n**Failure** The creature takes full damage and is [[Conditions/Dazzled|Dazzled]] for 1 round.\n**Critical Failure** The creature takes double damage and is [[Conditions/Blinded|Blind]] for 1 round."
+    desc: "`pf2:r` **Trigger** A creature enters the room.\n* * *\n\n**Effect** The trap sprays cleaning chemicals at the triggering creature dealing 1d8+4 acid damage. The creature must attempt a DC 20 Reflex check save, and the trap then rolls initiative.\n* * *\n\n**Critical Success** The creature is unaffected.\n\n**Success** The creature takes half damage.\n\n**Failure** The creature takes full damage and is [[Conditions/Dazzled|Dazzled]] for 1 round.\n\n**Critical Failure** The creature takes double damage and is [[Conditions/Blinded|Blind]] for 1 round."
 
   - name: "Routine"
-    desc: "(3 actions) The trap fills the room with a cloud of caustic vapor and deals 2d6 + 2 acid damage to all creatures in the area (DC 20 Fortitude check)."
+    desc: "(3 actions) The trap fills the room with a cloud of caustic vapor and deals 2d6+2 acid damage to all creatures in the area (DC 20 Fortitude check)."
   - name: "Reset"
     desc: "The trap deactivates after 1 minute and resets in 1 hour."
+```
+
+```encounter-table
+name: Cleaning Agents
+creatures:
+  - 1: Cleaning Agents
 ```
 

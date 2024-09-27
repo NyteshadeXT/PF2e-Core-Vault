@@ -10,6 +10,7 @@ tags:
   - pf2e/creature/type/human
   - pf2e/creature/type/humanoid
   - pf2e/creature/type/werecreature
+  - pf2eMonster
   - pf2e/creature/level/4
 statblock: inline
 name: "Weretiger (PFS 3-13)"
@@ -27,16 +28,16 @@ level: "Creature 4"
 
 alignment: ""
 size: "Large"
-trait_01: "beast"
-trait_02: "evil"
-trait_03: "human"
-trait_04: "humanoid"
-trait_05: "werecreature"
+trait_01: [[beast]]
+trait_02: [[evil]]
+trait_03: [[human]]
+trait_04: [[humanoid]]
+trait_05: [[werecreature]]
 modifier: 11
 perception:
   - name: "Perception"
     desc: "+11; Low-Light Vision, Scent (Imprecise) 30 Feet"
-languages: "Common"
+languages: "Common; tiger empathy"
 skills:
   - name: "Skills"
     desc: "Acrobatics: +11, Athletics: +12, Deception: +7, Society: +10, Stealth: +11"
@@ -73,10 +74,10 @@ attacks:
     desc: "`pf2:1` Claw +14 (agile)\n__Damage__  2d4 + 7 slashing"
 
   - name: "[[Bestiary Ability Glossary/Change Shape|Change Shape]]"
-    desc: "`pf2:1` (concentrate,polymorph,primal) The weretiger changes into their animal, human, or hybrid shape; they are presented in their animal shape. Each shape has a specific, persistent appearance.\nIn human or hybrid form, the weretiger's size changes to Medium, they lose their Wrestle ability, and their speed decreases to 25 feet. In human form, they also lose their jaws and claw Strikes and gain a melee fist Strike (+14 for 1d4 + 7 bludgeoning damage).\n"
+    desc: "`pf2:1` (concentrate,polymorph,primal) The weretiger changes into their animal, human, or hybrid shape; they are presented in their animal shape. Each shape has a specific, persistent appearance.\n\nIn human or hybrid form, the weretiger's size changes to Medium, they lose their Wrestle ability, and their speed decreases to 25 feet. In human form, they also lose their jaws and claw Strikes and gain a melee fist Strike (+14 for 1d4+7 bludgeoning damage).\n\n* * *\n"
 
   - name: "Curse of the Weretiger"
-    desc: " (curse,primal) This curse affects only humanoids\n**Saving Throw** DC 21 Fortitude check.\nOn each full moon, the cursed creature must succeed at another Fortitude save or turn into the same kind of werecreature until dawn. The creature is under the GM's control and goes on a rampage for half the night before falling unconscious until dawn."
+    desc: " (curse,primal) This curse affects only humanoids\n\n**Saving Throw** DC 21 Fortitude check.\n\nOn each full moon, the cursed creature must succeed at another Fortitude save or turn into the same kind of werecreature until dawn. The creature is under the GM's control and goes on a rampage for half the night before falling unconscious until dawn."
 
   - name: "Moon Frenzy"
     desc: " (polymorph,primal) When a full moon appears in the night sky, the weretiger must enter hybrid form and can't Change Shape thereafter. When the moon sets or the sun rises, the weretiger returns to humanoid form and is [[Conditions/Fatigued|Fatigued]] for 2d4 hours."
@@ -87,6 +88,12 @@ attacks:
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
     desc: "`pf2:1`  "
  
+```
+
+```encounter-table
+name: Weretiger (PFS 3-13)
+creatures:
+  - 1: Weretiger (PFS 3-13)
 ```
 
 

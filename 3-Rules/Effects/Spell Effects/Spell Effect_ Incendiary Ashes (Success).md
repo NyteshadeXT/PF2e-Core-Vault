@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted [[Spells/Incendiary Ashes|Incendiary Ashes]]
+Granted by [[Spells/Incendiary Ashes|Incendiary Ashes]]
 
 The creature has weakness to fire 3 until the start of its next turn.
 

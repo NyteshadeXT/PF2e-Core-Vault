@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.strength-of-thousands-bestiary.Actor.AYHh9p9ZJFM0ELK1"
 tags:
   - pf2e/creature/type/beast
   - pf2e/creature/type/electricity
+  - pf2eMonster
   - pf2e/creature/level/6
 statblock: inline
 name: "Mpeshi"
@@ -21,15 +22,16 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #170: Spoken on the Song Wind"
 name: "Mpeshi"
 level: "Creature 6"
-rare_03: "Rare"
+rare_03: [[Rare]]
 alignment: ""
 size: "Large"
-trait_01: "beast"
-trait_02: "electricity"
+trait_01: [[beast]]
+trait_02: [[electricity]]
 modifier: 14
 perception:
   - name: "Perception"
     desc: "+14; Darkvision"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Athletics: +16, Nature: +14, Stealth: +12"
@@ -54,7 +56,7 @@ abilities_mid:
     desc: " (aura,electricity) 5 feet. A buzzing static electricity surrounds the mpeshi. When a creature within the aura takes electricity damage, the damage arcs to a random adjacent creature, dealing 1d6 electricity damage. A creature can only receive arcing damage once from each attack or effect."
 
   - name: "Thunderous Fall"
-    desc: "`pf2:r`  **Trigger** The mpeshi falls at least 10 feet\n**Effect** The mpeshi reorients itself to slam headfirst into the ground with a thundering crash. Creatures within 10 feet of the mpeshi take sonic damage equal to the bludgeoning damage the mpeshi took from the fall (DC 23 Fortitude check save). Creatures that fail this save are [[Conditions/Stunned 1|Stunned 1]] ([[Conditions/Stunned 1|Stunned 2]] on a critical failure)."
+    desc: "`pf2:r`  **Trigger** The mpeshi falls at least 10 feet\n* * *\n\n**Effect** The mpeshi reorients itself to slam headfirst into the ground with a thundering crash. Creatures within 10 feet of the mpeshi take sonic damage equal to the bludgeoning damage the mpeshi took from the fall (DC 23 Fortitude check save). Creatures that fail this save are [[Conditions/Stunned|Stunned 1]] ([[Conditions/Stunned|Stunned 2]] on a critical failure)."
 
 attacks:
   - name: ""
@@ -71,6 +73,12 @@ attacks:
   - name: "Cloud Walk"
     desc: "  The mpeshi can tread on clouds or fog as though on solid ground."
  
+```
+
+```encounter-table
+name: Mpeshi
+creatures:
+  - 1: Mpeshi
 ```
 
 

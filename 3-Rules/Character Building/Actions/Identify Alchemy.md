@@ -15,7 +15,7 @@ license: ORC
 ---
 # Identify Alchemy
 
-### [[concentrate]][[exploration]][[secret]][[skill]]
+### [[3-Rules/Rule References/Concentrate]][[exploration]][[secret]][[skill]]
 
 **Category** interaction; 
 

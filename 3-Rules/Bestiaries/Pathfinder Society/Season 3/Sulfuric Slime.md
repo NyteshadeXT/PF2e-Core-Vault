@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.pfs-season-3-bestiary.Actor.yfh8wibKauDIh6Dj"
 tags:
   - pf2e/creature/type/mindless
   - pf2e/creature/type/ooze
+  - pf2eMonster
   - pf2e/creature/level/1
 statblock: inline
 name: "Sulfuric Slime"
@@ -21,18 +22,19 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Society Scenario #3-10: Delve the Pallid Depths"
 name: "Sulfuric Slime"
 level: "Creature 1"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Medium"
-trait_01: "mindless"
-trait_02: "ooze"
+trait_01: [[mindless]]
+trait_02: [[ooze]]
 modifier: 4
 perception:
   - name: "Perception"
     desc: "+4; Motion Sense (Precise) 60 Feet"
+languages: ""
 skills:
   - name: "Skills"
-    desc: "Stealth: +2 (+5 in water or mud)"
+    desc: "Stealth: +2"
 abilityMods: [0, -3, 2, -5, 1, -5]
 speed: 10 feet,  swim 10 feet
 sourcebook: "_Pathfinder Society Scenario #3-10: Delve the Pallid Depths_"
@@ -54,7 +56,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "One With the Mud"
-    desc: "`pf2:r`  **Trigger** The slime takes piercing or slashing damage while touching water or mud\n**Effect** The slime temporarily shrinks in size as part of its body seeps out through its wounds. It thrashes in the nearby sludge, making it more difficult to determine where the boundaries of its body end. It becomes [[Conditions/Concealed|Concealed]] and gains a +2 circumstance bonus to its AC until the beginning of its next turn."
+    desc: "`pf2:r`  **Trigger** The slime takes piercing or slashing damage while touching water or mud\n* * *\n\n**Effect** The slime temporarily shrinks in size as part of its body seeps out through its wounds. It thrashes in the nearby sludge, making it more difficult to determine where the boundaries of its body end. It becomes [[Conditions/Concealed|Concealed]] and gains a +2 circumstance bonus to its AC until the beginning of its next turn."
 
 attacks:
   - name: ""
@@ -62,6 +64,12 @@ attacks:
   - name: "Ranged"
     desc: "`pf2:1` Sulfur Spout +8 (range increment 10 feet)\n__Damage__  1d4 bludgeoning 1d6 acid"
  
+```
+
+```encounter-table
+name: Sulfuric Slime
+creatures:
+  - 1: Sulfuric Slime
 ```
 
 

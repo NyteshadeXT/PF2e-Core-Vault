@@ -12,12 +12,13 @@ tags:
   - trait/kobold
   - trait/uncommon
   - category/martial
+  - remaster
 aliases: "Compendium.pf2e.equipment-srd.Item.wYruARP1YLfTQBsc"
-license: OGL
+license: ORC
 ---
 # Fangwire
 ## Item 0
-### [uncommon](uncommon "Uncommon Rarity Trait")[[agile]][[backstabber]][[deadly-d8]][[finesse]][[grapple]][[kobold]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[3-Rules/Rule References/Agile]][[backstabber]][[deadly-d8]][[3-Rules/Rule References/Finesse]][[3-Rules/trait_reference/grapple]][[kobold]]
 
 |  |  |
 | -- | -- |
@@ -28,7 +29,7 @@ license: OGL
 
 
 
-This kobold wire is thin and hard to see, making it perfect for an ambush. The wielder wraps the wire around a vulnerable spot, such as the neck, and twists it to inflict potentially fatal lacerations. The name derives from the use of a similar wire in traps, or slow fangs, with the word “slow” removed, as a fangwire gets quick results.
+This kobold wire is thin and hard to see, making it perfect for an ambush. The wielder flicks one handle around a vulnerable spot so that it serves as a catch for the wire, then yanks the other handle back, pulling the wire tight and inflicting painful lacerations. The function and name come from a wire-based trap called a "slow fang."
 
-*Source: Pathfinder Lost Omens: Ancestry Guide*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/elf
   - pf2e/creature/type/good
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/2
 statblock: inline
 name: "Ekujae Guardian"
@@ -26,10 +27,10 @@ level: "Creature 2"
 
 alignment: ""
 size: "Medium"
-trait_01: "chaotic"
-trait_02: "elf"
-trait_03: "good"
-trait_04: "humanoid"
+trait_01: [[chaotic]]
+trait_02: [[elf]]
+trait_03: [[good]]
+trait_04: [[humanoid]]
 modifier: 8
 perception:
   - name: "Perception"
@@ -66,13 +67,13 @@ attacks:
     desc: "`pf2:1` Silver Dagger +11 (agile, silver, versatile s)\n__Damage__  1d4 + 3 piercing"
 
   - name: "Ranged"
-    desc: "`pf2:1` Longbow +11 (deadly d10, range increment 100 feet, reload 0, volley 30 ft.)\n__Damage__  1d8 piercing plus black-adder-venom"
-
-  - name: "Ranged"
     desc: "`pf2:1` Cold Iron Dagger +11 (agile, cold iron, thrown 10 ft., versatile s)\n__Damage__  1d4 + 3 piercing"
 
   - name: "Ranged"
     desc: "`pf2:1` Silver Dagger +11 (agile, silver, thrown 10 ft., versatile s)\n__Damage__  1d4 + 3 piercing"
+
+  - name: "Ranged"
+    desc: "`pf2:1` Longbow +11 (deadly d10, range increment 100 feet, reload 0, volley 30 ft.)\n__Damage__  1d8 piercing plus black-adder-venom"
 
   - name: "Primal Innate Spells"
     desc: "DC 16, attack +8\n__Cantrips__  __(1st)__ _[[Compendium.pf2e.spells-srd.Item.kl2q6JvBZwed4B6v|Dancing Lights]]_, _[[Spells/Detect Magic|Detect Magic]]_, _[[Spells/Vitality Lash|Disrupt Undead]]_, _[[Spells/Tangle Vine|Tanglefoot]]_"
@@ -86,6 +87,12 @@ attacks:
   - name: "Woodland Stride"
     desc: "  The Ekujae guardian ignores difficult terrain from plants."
  
+```
+
+```encounter-table
+name: Ekujae Guardian
+creatures:
+  - 1: Ekujae Guardian
 ```
 
 

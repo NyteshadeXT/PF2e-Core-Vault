@@ -6,8 +6,9 @@ tags:
   - trait/archetype
   - trait/common
   - category/class
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.PTXZ2C3AV8tZf0iX"
-license: OGL
+license: ORC
 ---
 # Deeper Dabbler
 ## Feat 8
@@ -23,5 +24,5 @@ With some streamlining to your process and a deeper collection of talisman mater
 
 **Special** You can select this feat a second time if you are 14th level or higher.
 
-*Source: Pathfinder Advanced Player's Guide*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

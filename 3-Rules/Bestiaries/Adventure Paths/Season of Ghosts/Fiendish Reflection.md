@@ -4,6 +4,7 @@ obsidianUIMode: preview
 noteType: pf2eHazard
 tags:
   - haunt
+  - pf2eHazard
 
 source: Pathfinder #197: Let the Leaves Fall
 aliases: "Compendium.pf2e.season-of-ghosts-bestiary.Actor.l0y5TlJ6t6AzszZZ" 
@@ -21,7 +22,7 @@ name: "Fiendish Reflection"
 level: "Hazard 3"
 
 
-trait_01: "haunt"
+trait_01: [[haunt]]
 modifier: 13
 sourcebook: "_Pathfinder #197: Let the Leaves Fall_"
 perception:
@@ -40,10 +41,16 @@ attacks:
   - name: ""
 
   - name: "Frightening Visage"
-    desc: "`pf2:r` (emotion, fear, mental) **Trigger** A creature looks at the water\n**Effect** The creature sees its reflection on the water's surface distort into a fiendish version of themselves; they must succeed at a DC 20 Will check save or become [[Conditions/Frightened 1|Frightened 2]] (and [[Conditions/Fleeing|Fleeing]] for as long as they remain frightened on a critical failure)."
+    desc: "`pf2:r` (emotion, fear, mental) **Trigger** A creature looks at the water\n* * *\n\n**Effect** The creature sees its reflection on the water's surface distort into a fiendish version of themselves; they must succeed at a DC 20 Will check save or become [[Conditions/Frightened|Frightened 2]] (and [[Conditions/Fleeing|Fleeing]] for as long as they remain frightened on a critical failure)."
 
 
   - name: "Reset"
     desc: "The haunt resets immediately and can trigger again the next round."
+```
+
+```encounter-table
+name: Fiendish Reflection
+creatures:
+  - 1: Fiendish Reflection
 ```
 

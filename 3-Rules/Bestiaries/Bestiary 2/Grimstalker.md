@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/chaotic
   - pf2e/creature/type/evil
   - pf2e/creature/type/fey
+  - pf2eMonster
   - pf2e/creature/level/5
 statblock: inline
 name: "Grimstalker"
@@ -26,9 +27,9 @@ level: "Creature 5"
 
 alignment: ""
 size: "Medium"
-trait_01: "chaotic"
-trait_02: "evil"
-trait_03: "fey"
+trait_01: [[chaotic]]
+trait_02: [[evil]]
+trait_03: [[fey]]
 modifier: 12
 perception:
   - name: "Perception"
@@ -67,11 +68,17 @@ attacks:
     desc: "DC 22, attack +14; __3rd __  _[[Spells/Earthbind|Earthbind]]_, _[[Spells/Wall of Thorns|Wall of Thorns]]_; __2nd __  _[[Spells/Entangling Flora|Entangle]]_, _[[Spells/Vanishing Tracks|Pass Without Trace]]_, _[[Spells/One with Plants|Tree Shape]]_\n__Cantrips__  __(3rd)__ _[[Spells/Tangle Vine|Tanglefoot]]_"
 
   - name: "Grimstalker Sap"
-    desc: " (poison) **Saving Throw** DC 22 Fortitude check\n**Maximum Duration** 6 rounds\n**Stage 1** 1d6 poison damage (1 round)\n**Stage 2** 1d6 poison damage and [[Conditions/Clumsy 1|Clumsy 1]] (1 round),\n**Stage 3** 2d6 poison damage and [[Conditions/Clumsy 1|Clumsy 2]] (1 round)"
+    desc: " (poison) **Saving Throw** DC 22 Fortitude check\n\n**Maximum Duration** 6 rounds\n\n**Stage 1** 1d6 poison damage (1 round)\n\n**Stage 2** 1d6 poison damage and [[Conditions/Clumsy|Clumsy 1]] (1 round),\n\n**Stage 3** 2d6 poison damage and [[Conditions/Clumsy|Clumsy 2]] (1 round)"
 
   - name: "Woodland Stride"
     desc: "  A grimstalker can always find a path, almost as if foliage parts before it. A grimstalker ignores difficult terrain caused by plants, such as bushes, vines, and undergrowth. Even plants manipulated by magic don't impede its progress."
  
+```
+
+```encounter-table
+name: Grimstalker
+creatures:
+  - 1: Grimstalker
 ```
 
 

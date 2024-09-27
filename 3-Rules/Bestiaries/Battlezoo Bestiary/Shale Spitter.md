@@ -7,6 +7,7 @@ aliases: "Compendium.battlezoo-bestiary-pf2e.pf2e-battlezoo-bestiary.Actor.VrmD1
 tags:
   - pf2e/creature/type/animal
   - pf2e/creature/type/earth
+  - pf2eMonster
   - pf2e/creature/level/2
 statblock: inline
 name: "Shale Spitter"
@@ -25,15 +26,16 @@ level: "Creature 2"
 
 alignment: ""
 size: "Medium"
-trait_01: "animal"
-trait_02: "earth"
+trait_01: [[animal]]
+trait_02: [[earth]]
 modifier: 8
 perception:
   - name: "Perception"
     desc: "+8; Darkvision, Tremorsense (Imprecise) 60 Feet"
+languages: ""
 skills:
   - name: "Skills"
-    desc: "Athletics: +7, Stealth: +6 (+8 in Caves), "
+    desc: "Athletics: +7, Stealth: +6"
 abilityMods: [3, 2, 4, -4, 2, 0]
 speed: 20 feet,  burrow 30 feet,  climb 20 feet
 sourcebook: "_Battlezoo Bestiary_"
@@ -53,7 +55,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "[[Item.JZLV4jZTEwNYHgmY|Curl Up]]"
-    desc: "`pf2:r`  **Trigger** The shale spitter is targeted by an attack;\n**Effect** The shale spitter recoils into its carapace, gaining a +2 circumstance bonus to AC against the triggering attack. It retains this bonus to AC and is Slowed 1 until it uncurls by spending an action (this action has the move trait)."
+    desc: "`pf2:r`  **Trigger** The shale spitter is targeted by an attack;\n* * *\n\n**Effect** The shale spitter recoils into its carapace, gaining a +2 circumstance bonus to AC against the triggering attack. It retains this bonus to AC and is [[Conditions/Slowed|Slowed 1]] until it uncurls by spending an action (this action has the move trait)."
 
 attacks:
   - name: ""
@@ -68,11 +70,17 @@ attacks:
     desc: "  A shale spitter ignores difficult terrain caused in caves and rocky mountains."
 
   - name: "Drop Stalactites"
-    desc: "`pf2:2` (earth,primal) **Requirements** The shale spitter is underground;\n**Frequency** once per hour;\n**Effect** The shale spitter glows bright orange and emits a magical shockwave, causing spires of rock to fall from the ceiling in a 20-foot burst centered on a point within 120 feet. Creatures in the area take 3d6 piercing damage (basic Reflex save) and the area becomes difficult terrain.\nThe shale spitter can't Drop Stalactites again for 1d4 rounds."
+    desc: "`pf2:2` (earth,primal) **Requirements** The shale spitter is underground;\n\n**Frequency** once per hour;\n\n**Effect** The shale spitter glows bright orange and emits a magical shockwave, causing spires of rock to fall from the ceiling in a 20-foot burst centered on a point within 120 feet. Creatures in the area take 3d6 piercing damage (DC 18 basic Reflex save) and the area becomes difficult terrain.\n\nThe shale spitter can't Drop Stalactites again for 1d4 rounds."
 
   - name: "Spit Shale"
-    desc: "`pf2:2` (earth,primal) The shale spitter violently regurgitates a hail of rock and dust in a 15-foot cone that deals 2d6 piercing damage (basic Reflex save). Targets who critically fail their saving throw are also Dazzled for 1 round."
+    desc: "`pf2:2` (earth,primal) The shale spitter violently regurgitates a hail of rock and dust in a 15-foot cone that deals 2d6 piercing damage (DC 18 basic Reflex save). Targets who critically fail their saving throw are also [[Conditions/Dazzled|Dazzled]] for 1 round."
  
+```
+
+```encounter-table
+name: Shale Spitter
+creatures:
+  - 1: Shale Spitter
 ```
 
 

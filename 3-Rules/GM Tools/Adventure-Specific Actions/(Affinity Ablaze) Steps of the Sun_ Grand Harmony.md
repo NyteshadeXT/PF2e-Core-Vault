@@ -27,7 +27,7 @@ There are few bonds like those between fighters who have shared blows in an aren
 
 * * *
 
-Your heart harmonizes with those of your comrades before pounding once in a devastating shock wave. You deal 18d4 sonic damage in a 60-foot cone. Enemies can attempt a Fortitude check save with a DC equal to your class DC or spell DC, whichever is higher. If you are adjacent to at least 1 ally, this deals 18d6, if you are adjacent to at least 2 allies, this deals 18d8.
+Your heart harmonizes with those of your comrades before pounding once in a devastating shock wave. You deal 18d4 sonic damage in a @Template\[cone|distance:60\]. Enemies can attempt a Fortitude check save with a DC equal to your class DC or spell DC, whichever is higher. If you are adjacent to at least 1 ally, this deals 18d6, if you are adjacent to at least 2 allies, this deals 18d8.
 
 *Source: Pathfinder Fists of the Ruby Phoenix Hardcover Compilation*
 *OGL*

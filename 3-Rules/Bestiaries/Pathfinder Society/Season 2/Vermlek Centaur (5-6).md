@@ -10,6 +10,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/fiend
   - pf2e/creature/type/unholy
+  - pf2eMonster
   - pf2e/creature/level/6
 statblock: inline
 name: "Vermlek Centaur (5-6)"
@@ -24,19 +25,19 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Society Scenario #2-18: The Fanciful March of Urwal"
 name: "Vermlek Centaur (5-6)"
 level: "Creature 6"
-rare_03: "Rare"
+rare_03: [[Rare]]
 alignment: ""
 size: "Large"
-trait_01: "chaotic"
-trait_02: "demon"
-trait_03: "evil"
-trait_04: "fiend"
-trait_05: "unholy"
+trait_01: [[chaotic]]
+trait_02: [[demon]]
+trait_03: [[evil]]
+trait_04: [[fiend]]
+trait_05: [[unholy]]
 modifier: 13
 perception:
   - name: "Perception"
     desc: "+13; Darkvision"
-languages: "Chthonian, Draconic, Empyrean, Pyric"
+languages: "Chthonian, Draconic, Empyrean, Pyric; telepathy 100 feet"
 skills:
   - name: "Skills"
     desc: "Acrobatics: +12, Athletics: +15, Deception: +11, Stealth: +12"
@@ -73,7 +74,7 @@ attacks:
   - name: "Melee"
     desc: "`pf2:1` Longsword +17 (unholy, versatile p)\n__Damage__  1d8 + 5 slashing"
 
-  - name: "Melee"
+  - name: "Ranged"
     desc: "`pf2:1` Light Hammer +17 (agile, thrown 20 ft., unholy)\n__Damage__  1d6 + 7 bludgeoning"
 
   - name: "Ranged"
@@ -83,17 +84,23 @@ attacks:
     desc: "DC 23, attack +15; __3rd __ (2 slots) _[[Spells/Fear|Fear]]_, _[[Spells/Harm|Harm]]_"
 
   - name: "Abandon Body"
-    desc: "`pf2:2` (manipulate) **Requirements** The vermlek is Inhabiting a Centaur Body\n**Effect** The vermlek crawls out of the body it is inhabiting, devouring much of the body's remaining flesh and regaining 15 Hit Points in the process. The corpse it leaves behind is little more than a husk."
+    desc: "`pf2:2` (manipulate) **Requirements** The vermlek is Inhabiting a Centaur Body\n* * *\n\n**Effect** The vermlek crawls out of the body it is inhabiting, devouring much of the body's remaining flesh and regaining 15 Hit Points in the process. The corpse it leaves behind is little more than a husk."
 
   - name: "Inhabit Centaur Body"
-    desc: "`pf2:3` (manipulate) While most vermleks inhabit Medium humanoids, Urxehl has granted this demon the ability to inhabit centaurs instead.\nThe vermlek crawls into the body of an adjacent dead centaur, consuming the bulk of the victim's skeleton and internal organs as it does so and cramming itself into the cavity.\nThe vermlek can wield weapons and use the centaur's Speed, hoof attack, and Trample ability. It also gains a +3 circumstance bonus to AC. While Inhabiting a Centaur body, a vermlek can't burrow.\nIt can't use this ability if it's already Inhabiting a Centaur Body."
+    desc: "`pf2:3` (manipulate) While most vermleks inhabit Medium humanoids, Urxehl has granted this demon the ability to inhabit centaurs instead.\n\nThe vermlek crawls into the body of an adjacent dead centaur, consuming the bulk of the victim's skeleton and internal organs as it does so and cramming itself into the cavity.\n\nThe vermlek can wield weapons and use the centaur's Speed, hoof attack, and Trample ability. It also gains a +3 circumstance bonus to AC. While Inhabiting a Centaur body, a vermlek can't burrow.\n\nIt can't use this ability if it's already Inhabiting a Centaur Body."
 
   - name: "[[Bestiary Ability Glossary/Trample|Trample]]"
-    desc: "`pf2:3`  Medium or Smaller; Hoof; DC 23 Reflex check\n"
+    desc: "`pf2:3`  Medium or Smaller; Hoof; DC 23 Reflex check\n\n* * *\n"
 
   - name: "Unsettling Movement"
-    desc: " (emotion,fear,mental,visual) Whenever the vermlek Abandons a Body or Inhabits a Body, all creatures within 30 feet who can see the vermlek must succeed at a DC 23 Will check save or become [[Conditions/Frightened 1|Frightened 1]]. On a critical failure, the creature is frightened 1 and [[Conditions/Sickened 1|Sickened 1]].\nRegardless of the result, creatures are immune to the same vermlek's unsettling movement for 24 hours."
+    desc: " (emotion,fear,mental,visual) Whenever the vermlek Abandons a Body or Inhabits a Body, all creatures within 30 feet who can see the vermlek must succeed at a DC 23 Will check save or become [[Conditions/Frightened|Frightened 1]]. On a critical failure, the creature is frightened 1 and [[Conditions/Sickened|Sickened 1]].\n\nRegardless of the result, creatures are immune to the same vermlek's unsettling movement for 24 hours."
  
+```
+
+```encounter-table
+name: Vermlek Centaur (5-6)
+creatures:
+  - 1: Vermlek Centaur (5-6)
 ```
 
 

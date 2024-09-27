@@ -5,6 +5,7 @@ noteType: pf2eMonster
 cssClasses: pf2e
 aliases: "Compendium.pf2e.pathfinder-dark-archive.Actor.ICdVjs6JEs0YAefl" 
 tags:
+  - pf2eMonster
   - pf2e/creature/level/6
 statblock: inline
 name: "Reflection"
@@ -26,6 +27,7 @@ modifier: 0
 perception:
   - name: "Perception"
     desc: "+0; "
+languages: ""
 skills:
   - name: "Skills"
     desc: ""
@@ -55,6 +57,12 @@ attacks:
   - name: "Reflection Routine"
     desc: " (magical,trap) Each reflection has 2 actions which it uses to Step, Stride, or Strike (in any combination). Reflections can act on the same turn they're created."
  
+```
+
+```encounter-table
+name: Reflection
+creatures:
+  - 1: Reflection
 ```
 
 

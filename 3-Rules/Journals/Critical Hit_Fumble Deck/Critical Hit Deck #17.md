@@ -8,7 +8,7 @@ tags:
 ---
 # And stay Down
 
-> Normal damage. **Crit Effect:** The target is knocked [[Conditions/Prone|Prone]] and [[Conditions/Stunned 1|Stunned 2]].
+> Normal damage. **Crit Effect:** The target is knocked [[Conditions/Prone|Prone]] and [[Conditions/Stunned|Stunned 2]].
 
 `Bludgeoning`
 
@@ -26,6 +26,6 @@ tags:
 
 # Frozen
 
-> If this is a cold bomb or spell, the target takes triple damage and is [[Conditions/Slowed 1|Slowed 2]] for 1 round. Any other bomb or spell deals double damage.
+> If this is a cold bomb or spell, the target takes triple damage and is [[Conditions/Slowed|Slowed 2]] for 1 round. Any other bomb or spell deals double damage.
 
 `Bomb or Spell`

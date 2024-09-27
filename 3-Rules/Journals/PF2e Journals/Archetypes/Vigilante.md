@@ -8,7 +8,7 @@ tags:
 ---
 
 # Vigilante
-As a vigilante, you have two faces: a public persona, and a secret identity that lets you hide your extralegal actions from polite society. Your secret identity lets you adventure and carry out clandestine missions while keeping the civilians you care about safe. Whatever your purpose- fighting crime, inciting rebellion, sowing chaos-your vigilante identity makes you both hard to pin down and a mysterious, intriguing subject of gossip.
+As a vigilante, you have two faces: a public persona, and a secret identity that lets you hide your extralegal actions from polite society. Your secret identity lets you adventure and carry out clandestine missions while keeping the civilians you care about safe. Whatever your purpose—fighting crime, inciting rebellion, sowing chaos—your vigilante identity makes you both hard to pin down and a mysterious, intriguing subject of gossip. While many adventurers prefer to bask in the glory or infamy of their actions, you keep that part of your life a secret. There are various reasons why you might do this. Perhaps you have something or someone in your life that you want to protect from the dangers and threats that your other life. Perhaps you are a public figure, and your alternate life could draw undue attention from your community. It could also be that you don't like attention and wish to retain the ability to step away from it all and relax in peace. Regardless of your reasons, you have a secret identity and will go to great lengths to keep it secret. Vigilantes can have many goals and agendas. Some see them as glory seekers, but more often than not, they are working towards some lofty goal. Perhaps they are trying to inspire a people to fight back against their oppressors. They could be hunting down a crime lord they have a personal vendetta against. Maybe they seek to rebalance the wealth of a nation, stealing from the rich to give to those in need. You are one such vigilante, living a hidden life so you can fight in secrecy. What will you do to keep your secret and continue down your path?
 
 **Additional Feats** 4th [[Feats/Quick Draw|Quick Draw]]
 
@@ -18,13 +18,13 @@ As a vigilante, you have two faces: a public persona, and a secret identity that
 
 * * *
 
-You have two identities, each with its own name, alignment, and abilities. Your social identity is an upstanding member of society, while your vigilante identity is a skilled and cunning warrior. Neither of these identities is a false front; you really are both of these people, and as such, your two identities can be at most one alignment step from each other (for instance, you could be neutral in one identity and neutral evil in the other, but not chaotic evil in the other). If someone attempts to discern your other identity, they must use a Seek action to attempt a Perception check against your Deception DC, as if you were using the Impersonate action. Your Deception DC against such attempts is 20 + your proficiency modifier instead of the normal DC. Unlike with Impersonate, you don't have to attempt a Deception check to interact with someone to conceal your other identity-a check happens only if someone else specifically tries to uncover your other identity.
+You have two identities, each with its own name and abilities. Your social identity is an upstanding member of society, while your vigilante identity is a skilled and cunning warrior. Neither of these identities is a false front; you really are both of these people. If someone attempts to discern your other identity, they must use a [[Actions/Seek|Seek]] action to attempt a Perception check against your Deception DC, as if you were using the Impersonate action. Your Deception DC against such attempts is 20 + your proficiency modifier instead of the normal DC. Unlike with Impersonate, you don't have to attempt a Deception check to interact with someone to conceal your other identity—a check happens only if someone else specifically tries to uncover your other identity.
 
-Changing from one identity to the other takes 1 minute and must be done out of sight from other creatures. As this process involves both physical changes such as clothing and makeup along with an altered state of mind, other effects that change your appearance don't reduce the time required to change identities.
+Changing from one identity to the other takes 1 minute and must be done out of sight from other creatures. As this process involves both physical changes such as clothing and makeup, along with an altered state of mind, other effects that change your appearance don't reduce the time required to change identities.
 
-Your two identities are completely distinct. You have your current identity's alignment for effects that rely on alignment, though you are eligible for abilities that require a certain alignment (such as a cleric's deity) only if both of your identities qualify. Checks to Recall Knowledge about one of your identities don't reveal information about the other unless the person attempting the check knows both identities are the same person. Effects that detect you based on your identity, such as the detect alignment spell, work only if you are currently in the identity the effect is trying to detect; otherwise, the effect fails as if the target didn't exist.
+Your two identities are completely distinct. Checks to Recall Knowledge about one of your identities don't reveal information about the other unless the person attempting the check knows both identities are the same person. Effects that detect you based on your identity work only if you are currently in the identity the effect is trying to detect; otherwise, the effect fails as if the target didn't exist.
 
-To maintain the separation between your identities, some of your abilities have one of two traits: social or vigilante. You can use social feats only while in your social identity. Your class feats and vigilante feats are associated with your vigilante identity, and using them while in your social identity risks exposing you as a vigilante. This means that if you were particularly meek or inconspicuous before you took this feat, your identity could be at greater risk of exposure. If your identity is exposed to the public, you lose the benefits of Vigilante Dedication to disguising yourself, but you can otherwise use both social and vigilante abilities in either identity unless they rely on your identity being a secret. You can use feats that don't have either trait regardless of your current identity.
+To maintain the separation between your identities, some of your abilities have the vigilante trait. Your class feats and vigilante feats are associated with your vigilante identity, and using them while in your social identity may risk exposing you as a vigilante. If your identity is exposed to the public, you lose the benefits of Vigilante Dedication to disguising yourself, but you can spend 1 week of downtime to create a new social identity.
 
 **Special** You can't select another dedication feat until you have gained two other feats from the Vigilante archetype.
 
@@ -50,7 +50,7 @@ When you are in your social identity, you can also grant a social identity to an
 
 * * *
 
-You establish a safe house-a secure space in which to hide your secrets from the outside world. This safe house is roughly the size of a 10-foot cube. It's in a location you have access to, and it can be part of a larger building or structure, like a hidden room or an underground cave. The safe house protects objects and people inside it from magical detection. This has the effects of nondetection, using your Deception modifier for the counteract DC and half your level rounded up for the counteract rank. Setting up or moving your safe house takes a week of downtime. The size of the safe house expands to four 10-foot cubes if you're an expert in Deception, eight cubes if you're a master, and 16 cubes if you're legendary.
+You establish a safe house—a secure space in which to hide your secrets from the outside world. This safe house is roughly the size of two 10-foot cubes. It's in a location you have access to, and it can be part of a larger building or structure, like a hidden room or an underground cave. The safe house protects objects and people inside it from magical detection. This has the effects of _Veil of Privacy_, using your Deception modifier for the counteract DC and half your level rounded up for the counteract rank. Setting up or moving your safe house takes a week of downtime. The size of the safe house expands to four 10-foot cubes if you're an expert in Deception, eight cubes if you're a master, and 16 cubes if you're legendary.
 
 ## [[Feats/Social Purview|Social Purview]] Feat 4
 
@@ -76,7 +76,7 @@ You can startle foes who are unaware of your presence. Make a Strike against you
 
 * * *
 
-You can shift between your identities with ease. Instead of spending 1 minute to change your identity, you can now do so as a 3-action activity. If you are legendary in Deception, you can perform this change as a 1-action activity.
+You can shift between your identities with ease. Instead of spending 1 minute to change your identity, you can now do so as a 3-action activity. If you are legendary in Deception, you can perform this change as a single action.
 
 ## [[Feats/Subjective Truth|Subjective Truth]] Feat 7
 
@@ -84,15 +84,15 @@ You can shift between your identities with ease. Instead of spending 1 minute to
 
 * * *
 
-Your disparate identities allow you to defeat magic that detects lies. As long as what you say is true from the point of view of your current identity, you can say it even under effects like zone of truth that force you to speak the truth.
+Your disparate identities allow you to defeat magic that detects lies. As long as what you say is true from the point of view of your current identity, you can deceive effects like _ring of truth_ that reveal lies.
 
-## [[Feats/Many Guises|Many Guises]] Feat 8
+## [[Feats/Many Guises (Vigilante)|Many Guises (Vigilante)]] Feat 8
 
 **Prerequisites** master in Deception, Vigilante Dedication
 
 * * *
 
-You can take on any number of mundane guises. Whenever you change your identity, instead of taking on your social or vigilante identity, you can become someone completely ordinary. This identity isn't a specific individual-rather, you become a nondescript member of your ancestry, of any gender, with a neutral alignment and a mundane occupation such as common laborer, farmer, or peasant. Spells and abilities detect you as if you were this ordinary identity, rather than either of your two real identities, unless they succeed at a counteract check against your Deception DC. You can't use either social abilities or vigilante abilities while in this identity.
+YYou can take on any number of mundane guises. Whenever you change your identity, instead of taking on your social or vigilante identity, you can become someone completely ordinary. This identity isn't a specific individual—rather, you become a nondescript member of your ancestry, of any gender, and from a mundane occupation such as common laborer, farmer, or peasant. Spells and abilities detect you as if you were this ordinary identity, rather than either of your two real identities, unless they succeed at a counteract check against the same Deception DC used for Vigilante Dedication. Using class or dedication abilities ends this disguise
 
 ## [[Feats/Frightening Appearance|Frightening Appearance]] Feat 12
 
@@ -101,6 +101,10 @@ You can take on any number of mundane guises. Whenever you change your identity,
 * * *
 
 Your dramatic appearances can frighten bystanders. When you make a Startling Appearance, you can also attempt to Demoralize each opponent within 10 feet to whom you were unnoticed before your Strike.
+
+## [[Feats/It Was Me All Along!|It Was Me All Along!]] Feat 14
+
+@Embed\[Compendium.pf2e.feats-srd.Item.hPfqQpiq6W8RPCxz inline hr=false\]
 
 ## [[Feats/Stunning Appearance|Stunning Appearance]] Feat 16
 

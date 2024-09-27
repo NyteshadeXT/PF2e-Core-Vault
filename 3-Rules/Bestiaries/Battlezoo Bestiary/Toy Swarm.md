@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/construct
   - pf2e/creature/type/mindless
   - pf2e/creature/type/swarm
+  - pf2eMonster
   - pf2e/creature/level/2
 statblock: inline
 name: "Toy Swarm"
@@ -26,9 +27,9 @@ level: "Creature 2"
 
 alignment: ""
 size: "Large"
-trait_01: "construct"
-trait_02: "mindless"
-trait_03: "swarm"
+trait_01: [[construct]]
+trait_02: [[mindless]]
+trait_03: [[swarm]]
 modifier: 7
 perception:
   - name: "Perception"
@@ -36,7 +37,7 @@ perception:
 languages: "Common"
 skills:
   - name: "Skills"
-    desc: "Athletics: +8, Stealth: +8, Thievery: +6, "
+    desc: "Athletics: +8, Stealth: +8, Thievery: +6"
 abilityMods: [2, 4, 3, -5, 1, -5]
 speed: 30 feet,  climb 10 feet
 sourcebook: "_Battlezoo Bestiary_"
@@ -61,11 +62,17 @@ attacks:
   - name: ""
 
   - name: "Miniature Barrage"
-    desc: "`pf2:1`  Each enemy in the toy swarm's space takes 1d6 piercing damage (basic Reflex save). Creatures that fail their save also take 1d4 bleed damage."
+    desc: "`pf2:1`  Each enemy in the toy swarm's space takes 1d6 piercing damage (DC 15 basic Reflex save). Creatures that fail their save also take 1d4 bleed damage."
 
   - name: "Wind-Up"
-    desc: "`pf2:3`  Each toy in the toy swarm winds up a fellow toy. The toy swarm gains the Quickened condition for 1d4+1 rounds. It can use the extra action each round only for Miniature Barrage and Stride actions."
+    desc: "`pf2:3`  Each toy in the toy swarm winds up a fellow toy. The toy swarm gains the [[Conditions/Quickened|Quickened]] condition for 1d4+1 rounds. It can use the extra action each round only for Miniature Barrage and Stride actions."
  
+```
+
+```encounter-table
+name: Toy Swarm
+creatures:
+  - 1: Toy Swarm
 ```
 
 

@@ -6,6 +6,7 @@ cssClasses: pf2e
 aliases: "Compendium.pf2e.pfs-season-3-bestiary.Actor.1OHuJmY24AnfJHpz" 
 tags:
   - pf2e/creature/type/animal
+  - pf2eMonster
   - pf2e/creature/level/3
 statblock: inline
 name: "Bergworm"
@@ -20,14 +21,15 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Society Special #3-99: Fate in the Future"
 name: "Bergworm"
 level: "Creature 3"
-rare_03: "Rare"
+rare_03: [[Rare]]
 alignment: ""
 size: "Large"
-trait_01: "animal"
+trait_01: [[animal]]
 modifier: 6
 perception:
   - name: "Perception"
     desc: "+6; Tremorsense (Imprecise) 30 Feet"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Athletics: +10, Stealth: +9"
@@ -58,7 +60,7 @@ attacks:
     desc: "`pf2:1` Jaws +12 ()\n__Damage__  1d10 + 4 piercing plus grab 1d6 cold plus grab"
 
   - name: "Gnaw"
-    desc: "`pf2:1`  **Requirements** The bergworm has a creature [[Conditions/Grabbed|Grabbed]] from its jaws Strike\n**Effect** The bergworm gnaws on the target creature, burrowing through its flesh and freezing its skin. This deals 1d10 piercing damage and 1d6 cold damage. A creature that takes cold damage in this way is [[Conditions/Clumsy 1|Clumsy 1]] until it receives any kind or amount of healing."
+    desc: "`pf2:1`  **Requirements** The bergworm has a creature [[Conditions/Grabbed|Grabbed]] from its jaws Strike\n* * *\n\n**Effect** The bergworm gnaws on the target creature, burrowing through its flesh and freezing its skin. This deals 1d10 piercing damage and 1d6 cold damage. A creature that takes cold damage in this way is [[Conditions/Clumsy|Clumsy 1]] until it receives any kind or amount of healing."
 
   - name: "Ice Burrow 20 feet"
     desc: "  The bergworm can Burrow through ice or snow with a Speed of 20 feet. It moves at its full burrow Speed."
@@ -66,6 +68,12 @@ attacks:
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
     desc: "`pf2:1`  "
  
+```
+
+```encounter-table
+name: Bergworm
+creatures:
+  - 1: Bergworm
 ```
 
 

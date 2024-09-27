@@ -10,6 +10,7 @@ tags:
   - pf2e/creature/type/ghoul
   - pf2e/creature/type/undead
   - pf2e/creature/type/unholy
+  - pf2eMonster
   - pf2e/creature/level/3
 statblock: inline
 name: "Marcon Tinol (3-4)"
@@ -27,11 +28,11 @@ level: "Creature 3"
 
 alignment: ""
 size: "Medium"
-trait_01: "chaotic"
-trait_02: "evil"
-trait_03: "ghoul"
-trait_04: "undead"
-trait_05: "unholy"
+trait_01: [[chaotic]]
+trait_02: [[evil]]
+trait_03: [[ghoul]]
+trait_04: [[undead]]
+trait_05: [[unholy]]
 modifier: 10
 perception:
   - name: "Perception"
@@ -58,7 +59,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "[[Creature Family Ability Glossary/(Ghast) Stench|Stench]]"
-    desc: " (aura,olfactory) 10 feet. A creature entering the aura or starting its turn in the aura must succeed at a DC 18 Fortitude check save or become [[Conditions/Sickened 1|Sickened 1]] (plus [[Conditions/Slowed 1|Slowed 1]] as long as it's sickened on a critical failure).\nWhile within the aura, the creature takes a -2 circumstance penalty to saves against disease and to recover from the sickened condition. A creature that succeeds at its save is temporarily immune for 1 minute.\n[[Bestiary Effects/Effect_ Stench|Effect: Stench]]"
+    desc: " (aura,olfactory) 10 feet. A creature entering the aura or starting its turn in the aura must succeed at a DC 18 Fortitude check save or become [[Conditions/Sickened|Sickened 1]] (plus [[Conditions/Slowed|Slowed 1]] as long as it's sickened on a critical failure).\n\nWhile within the aura, the creature takes a -2 circumstance penalty to saves against disease and to recover from the sickened condition. A creature that succeeds at its save is temporarily immune for 1 minute.\n\n[[Bestiary Effects/Effect_ Stench|Effect: Stench]]"
 
 attacks:
   - name: ""
@@ -70,10 +71,10 @@ attacks:
     desc: "`pf2:1` Claw +13 (agile, finesse)\n__Damage__  1d4 + 7 slashing plus ghoul-paralysis"
 
   - name: "[[Creature Family Ability Glossary/(Ghoul) Consume Flesh|Consume Flesh]]"
-    desc: "`pf2:1` (manipulate) **Requirements** The ghoul is adjacent to the corpse of a creature that died within the last hour.\n**Effect** The ghoul devours a chunk of the corpse and regains 3d6 Hit Points.\nIt can regain Hit Points from any given corpse only once."
+    desc: "`pf2:1` (manipulate) **Requirements** The ghoul is adjacent to the corpse of a creature that died within the last hour.\n* * *\n\n**Effect** The ghoul devours a chunk of the corpse and regains 3d6 Hit Points.\n\nIt can regain Hit Points from any given corpse only once."
 
   - name: "[[Creature Family Ability Glossary/(Ghast) Ghast Fever|Ghast Fever]]"
-    desc: " (disease) **Saving Throw** DC 18 Fortitude check\n**Stage 1** carrier with no ill effect (1 day)\n**Stage 2** 3d8 void damage and regains half as many Hit Points from all healing (1 day)\n**Stage 3** as stage 2 (1 day)\n**Stage 4** 3d8 void damage and gains no benefit from healing (1 day)\n**Stage 5** as stage 4 (1 day)\n**Stage 6** dead, and rises as a [[Bestiary 1/Ghast|Ghast]] the next midnight"
+    desc: " (disease) **Saving Throw** DC 18 Fortitude check\n* * *\n\n**Stage 1** carrier with no ill effect (1 day)\n\n**Stage 2** 3d8 void damage and regains half as many Hit Points from all healing (1 day)\n\n**Stage 3** as stage 2 (1 day)\n\n**Stage 4** 3d8 void damage and gains no benefit from healing (1 day)\n\n**Stage 5** as stage 4 (1 day)\n\n**Stage 6** dead, and rises as a [[Bestiary 1/Ghast|Ghast]] the next midnight"
 
   - name: "[[Creature Family Ability Glossary/(Ghoul) Paralysis|Paralysis]]"
     desc: " (incapacitation,occult) Any living, non-elf creature hit by a ghoul's attack must succeed at a DC 18 Fortitude check save or become [[Conditions/Paralyzed|Paralyzed]]. It can attempt a new save at the end of each of its turns, and the DC cumulatively decreases by 1 on each such save."
@@ -81,6 +82,12 @@ attacks:
   - name: "[[Creature Family Ability Glossary/(Ghoul) Swift Leap|Swift Leap]]"
     desc: "`pf2:1` (move) The ghoul jumps up to half its Speed. This movement doesn't trigger reactions."
  
+```
+
+```encounter-table
+name: Marcon Tinol (3-4)
+creatures:
+  - 1: Marcon Tinol (3-4)
 ```
 
 

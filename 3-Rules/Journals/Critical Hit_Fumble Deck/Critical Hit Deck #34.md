@@ -8,7 +8,7 @@ tags:
 ---
 # Staggering Blow
 
-> **Crit Effect:** The target is [[Conditions/Stunned 1|Stunned 2]].
+> **Crit Effect:** The target is [[Conditions/Stunned|Stunned 2]].
 
 `Bludgeoning`
 
@@ -26,6 +26,6 @@ tags:
 
 # Terrifying Display
 
-> The target is [[Conditions/Frightened 1|Frightened 3]].
+> The target is [[Conditions/Frightened|Frightened 3]].
 
 `Bomb or Spell`

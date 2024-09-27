@@ -6,6 +6,7 @@ cssClasses: pf2e
 aliases: "Compendium.pf2e.pathfinder-bestiary.Actor.U1L3MFKHe0sNvLoU" 
 tags:
   - pf2e/creature/type/plant
+  - pf2eMonster
   - pf2e/creature/level/10
 statblock: inline
 name: "Dezullon"
@@ -24,14 +25,15 @@ level: "Creature 10"
 
 alignment: ""
 size: "Medium"
-trait_01: "plant"
+trait_01: [[plant]]
 modifier: 18
 perception:
   - name: "Perception"
     desc: "+18; Low-Light Vision"
+languages: ""
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +21, Athletics: +19, Stealth: +21 (+24 in forests or swamps)"
+    desc: "Acrobatics: +21, Athletics: +19, Stealth: +21"
 abilityMods: [5, 7, 3, -4, 2, -1]
 speed: 25 feet,  climb 30 feet
 sourcebook: "_Pathfinder Bestiary_"
@@ -50,7 +52,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Stench"
-    desc: " (aura,olfactory) 30 feet. A creature entering the emanation must attempt a DC 27 Fortitude check save. On a failure, the creature is [[Conditions/Sickened 1|Sickened 1]], and on a critical failure is also [[Conditions/Slowed 1|Slowed 1]]. While within the aura, the creature takes a -2 circumstance penalty to saves to recover from the sickened condition. A creature that succeeds at the save is temporarily immune to this effect for 1 minute."
+    desc: " (aura,olfactory) 30 feet. A creature entering the emanation must attempt a DC 27 Fortitude check save. On a failure, the creature is [[Conditions/Sickened|Sickened 1]], and on a critical failure is also [[Conditions/Slowed|Slowed 1]]. While within the aura, the creature takes a -2 circumstance penalty to saves to recover from the sickened condition. A creature that succeeds at the save is temporarily immune to this effect for 1 minute."
 
 attacks:
   - name: ""
@@ -62,10 +64,10 @@ attacks:
     desc: "`pf2:1` Acid Glob +23 (acid, range 30 feet)\n__Damage__  4d8 acid plus amnesia-venom"
 
   - name: "Amnesia Venom"
-    desc: " (mental,poison) **Saving Throw** DC 29 Fortitude check\n**Maximum Duration** 6 rounds\n**Stage 1** [[Conditions/Off-Guard|Off-Guard]] (1 round)\n**Stage 2** off-guard and [[Conditions/Clumsy 1|Clumsy 1]] (1 round)\n**Stage 3** [[Conditions/Confused|Confused]], off-guard, and [[Conditions/Clumsy 1|Clumsy 2]] (1 round)"
+    desc: " (mental,poison) **Saving Throw** DC 29 Fortitude check\n* * *\n\n**Maximum Duration** 6 rounds\n\n**Stage 1** [[Conditions/Off-Guard|Off-Guard]] (1 round)\n\n**Stage 2** off-guard and [[Conditions/Clumsy|Clumsy 1]] (1 round)\n\n**Stage 3** [[Conditions/Confused|Confused]], off-guard, and [[Conditions/Clumsy|Clumsy 2]] (1 round)"
 
   - name: "[[Bestiary Ability Glossary/Constrict|Constrict]]"
-    desc: "`pf2:1`  2d6 + 2 bludgeoning damage, DC 27 Fortitude check\n_Note: A DC was not provided for this ability by Paizo. The DC present here is a moderate DC for the creature level according to the Gamemastery Guide creature building Tables._\n"
+    desc: "`pf2:1`  2d6+2 bludgeoning damage, DC 27 Fortitude check\n* * *\n\n_Note: A DC was not provided for this ability by Paizo. The DC present here is a moderate DC for the creature level according to the Gamemastery Guide creature building Tables._\n\n* * *\n"
 
   - name: "Root"
     desc: "`pf2:1` (concentrate) Until the next time it acts, the dezullon appears to be a normal pitcher plant. It has an automatic result of 41 (44 in forests or swamps) on Deception checks and DCs to pass as a non-creature plant."
@@ -73,6 +75,12 @@ attacks:
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
     desc: "`pf2:1`  "
  
+```
+
+```encounter-table
+name: Dezullon
+creatures:
+  - 1: Dezullon
 ```
 
 

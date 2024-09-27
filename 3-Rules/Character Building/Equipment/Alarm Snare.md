@@ -10,12 +10,13 @@ tags:
   - trait/trap
   - trait/common
   - category/snare
+  - remaster
 aliases: "Compendium.pf2e.equipment-srd.Item.AFX1V0Go9DqPWBlN"
-license: OGL
+license: ORC
 ---
 # Alarm Snare
 ## Item 1
-### [[auditory]][[consumable]][[mechanical]][[snare]][[trap]]
+### [[3-Rules/Rule References/auditory]][[consumable]][[mechanical]][[snare]][[trap]]
 
 **Category** snare; 
 **Price** 3 gp; 
@@ -24,5 +25,5 @@ license: OGL
 
 You create an alarm snare by rigging one or more noisy objects to a trip wire or pressure plate. When you create an alarm snare, you designate a range between 100 to 500 feet at which it can be heard. When a Small or larger creature enters the square, the snare makes a noise loud enough that it can be heard by all creatures in the range you designated.
 
-*Source: Pathfinder Core Rulebook*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

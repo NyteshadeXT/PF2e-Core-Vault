@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/leshy
   - pf2e/creature/type/plant
+  - pf2eMonster
   - pf2e/creature/level/0
 statblock: inline
 name: "Leshy Husk"
@@ -27,18 +28,18 @@ level: "Creature 0"
 
 alignment: ""
 size: "Small"
-trait_01: "chaotic"
-trait_02: "evil"
-trait_03: "leshy"
-trait_04: "plant"
+trait_01: [[chaotic]]
+trait_02: [[evil]]
+trait_03: [[leshy]]
+trait_04: [[plant]]
 modifier: 3
 perception:
   - name: "Perception"
     desc: "+3; Darkvision"
-languages: "Common, Wildsong, Fey"
+languages: "Common, Wildsong, Fey; speak with plants (trees only)"
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +4, Nature: +5, Stealth: +6, "
+    desc: "Acrobatics: +4, Nature: +5, Stealth: +6"
 abilityMods: [1, 2, 2, -2, 1, 0]
 speed: 25 feet
 sourcebook: "_Battlezoo Bestiary_"
@@ -57,10 +58,10 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Necrotic Burst"
-    desc: "  When a leshy husk is destroyed, a burst of negative energy explodes from its body, dealing 1d4 void damage to all creatures in a 30-foot emanation (basic Fortitude save). This area is filled with corrupted tree saplings, becoming difficult terrain. The corrupted saplings might out-compete local plant life temporarily, but they inevitably rot after a week."
+    desc: "  When a leshy husk is destroyed, a burst of negative energy explodes from its body, dealing 1d4 void damage to all creatures in a 30-foot emanation (DC 15 basic Fortitude save). This area is filled with corrupted tree saplings, becoming difficult terrain. The corrupted saplings might out-compete local plant life temporarily, but they inevitably rot after a week."
 
   - name: "[[Bestiary Ability Glossary/Frightful Presence|Frightful Presence]]"
-    desc: " (aura,emotion,fear,mental) Aura 30 feet, Will"
+    desc: " (aura,emotion,fear,mental) [[Bestiary Ability Glossary/Aura|Aura]] 30 feet, DC 12 Will"
 
 attacks:
   - name: ""
@@ -75,11 +76,17 @@ attacks:
     desc: "DC 12, attack +4; __4th __  _[[Spells/Speak with Plants|Speak with Plants (Constant; Trees Only)]]_"
 
   - name: "Draining Impact"
-    desc: " (primal) When the leshy husk hits an enemy with its blighted seedpod, the creature must make a Fortitude save.\n**Critical Success** The creature is unaffected and becomes immune to the leshy's draining impact for 1 hour.\n**Success** The creature is unaffected.\n**Failure** The creature takes 1d4 void damage. The leshy husk recovers Hit Points equal to the negative damage dealt.\n**Critical Failure** As failure, but the creature is also Drained 1."
+    desc: " (primal) When the leshy husk hits an enemy with its blighted seedpod, the creature must make a DC 16 Fortitude save.\n* * *\n\n**Critical Success** The creature is unaffected and becomes immune to the leshy's draining impact for 1 hour.\n\n**Success** The creature is unaffected.\n\n**Failure** The creature takes 1d4 void damage. The leshy husk recovers Hit Points equal to the negative damage dealt.\n\n**Critical Failure** As failure, but the creature is also [[Conditions/Drained|Drained 1]]."
 
   - name: "[[Bestiary Ability Glossary/Change Shape|Change Shape]]"
-    desc: "`pf2:1` (concentrate,polymorph,primal) The leshy husk turns into a Small dead tree or tree detritus (such as a fallen log). This ability otherwise uses the effects of _Tree Shape_.\n"
+    desc: "`pf2:1` (concentrate,polymorph,primal) The leshy husk turns into a Small dead tree or tree detritus (such as a fallen log). This ability otherwise uses the effects of _[[Spells/One with Plants|Tree Shape]]_.\n\n* * *\n"
  
+```
+
+```encounter-table
+name: Leshy Husk
+creatures:
+  - 1: Leshy Husk
 ```
 
 

@@ -6,6 +6,7 @@ cssClasses: pf2e
 aliases: "Compendium.pf2e.pfs-season-5-bestiary.Actor.yrQTOX05SXnpvEYL" 
 tags:
   - pf2e/creature/type/animal
+  - pf2eMonster
   - pf2e/creature/level/2
 statblock: inline
 name: "Giant-er Mouse"
@@ -23,11 +24,12 @@ level: "Creature 2"
 
 alignment: ""
 size: "Medium"
-trait_01: "animal"
+trait_01: [[animal]]
 modifier: 8
 perception:
   - name: "Perception"
     desc: "+8; "
+languages: ""
 skills:
   - name: "Skills"
     desc: "Acrobatics: +7, Athletics: +5, Stealth: +8"
@@ -49,7 +51,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Skittish"
-    desc: "`pf2:r`  **Trigger** The giant-er mouse is hit with a melee attack\n**Effect** The giant-er mouse takes a step after the effects of the triggering attack are resolved."
+    desc: "`pf2:r`  **Trigger** The giant-er mouse is hit with a melee attack\n* * *\n\n**Effect** The giant-er mouse takes a step after the effects of the triggering attack are resolved."
 
 attacks:
   - name: ""
@@ -60,6 +62,12 @@ attacks:
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
     desc: "`pf2:1`  "
  
+```
+
+```encounter-table
+name: Giant-er Mouse
+creatures:
+  - 1: Giant-er Mouse
 ```
 
 

@@ -6,6 +6,7 @@ cssClasses: pf2e
 aliases: "Compendium.pf2e.pfs-season-1-bestiary.Actor.0TEnslG0jaLrbf58" 
 tags:
   - pf2e/creature/type/animal
+  - pf2eMonster
   - pf2e/creature/level/1
 statblock: inline
 name: "Tough Giant Shrew"
@@ -23,14 +24,15 @@ level: "Creature 1"
 
 alignment: ""
 size: "Small"
-trait_01: "animal"
+trait_01: [[animal]]
 modifier: 5
 perception:
   - name: "Perception"
     desc: "+5; Low-Light Vision, Scent (Imprecise) 30 Feet"
+languages: ""
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +7, Athletics: +4 (+6 to Climb or Swim), Stealth: +7"
+    desc: "Acrobatics: +7, Athletics: +4, Stealth: +7"
 abilityMods: [3, 3, 2, -4, 1, -3]
 speed: 30 feet,  climb 10 feet
 sourcebook: "_Pathfinder Society Scenario #1-05: Trailblazers&#x27; Bounty_"
@@ -55,8 +57,14 @@ attacks:
     desc: "`pf2:1` Jaws +8 (agile, finesse)\n__Damage__  1d6 + 3 piercing plus shrew-venom"
 
   - name: "Shrew Venom"
-    desc: " (poison) **Saving Throw** DC 15 Fortitude check\n**Maximum Duration** 6 rounds\n**Stage 1** 1d6 poison (1 round)\n**Stage 2** 1d6 poison and [[Conditions/Drained 1|Drained 1]]"
+    desc: " (poison) **Saving Throw** DC 15 Fortitude check\n\n**Maximum Duration** 6 rounds\n\n**Stage 1** 1d6 poison (1 round)\n\n**Stage 2** 1d6 poison and [[Conditions/Drained|Drained 1]]"
  
+```
+
+```encounter-table
+name: Tough Giant Shrew
+creatures:
+  - 1: Tough Giant Shrew
 ```
 
 

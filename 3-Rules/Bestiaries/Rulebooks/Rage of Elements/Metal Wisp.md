@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.rage-of-elements-bestiary.Actor.Vtx0UBhy5aUu3UMO"
 tags:
   - pf2e/creature/type/elemental
   - pf2e/creature/type/metal
+  - pf2eMonster
   - pf2e/creature/level/0
   - remaster
 statblock: inline
@@ -25,8 +26,8 @@ level: "Creature 0"
 
 alignment: ""
 size: "tiny"
-trait_01: "elemental"
-trait_02: "metal"
+trait_01: [[elemental]]
+trait_02: [[metal]]
 modifier: 6
 perception:
   - name: "Perception"
@@ -56,10 +57,10 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Accord Essence"
-    desc: "`pf2:r` (plant) **Trigger** An ally within 30 feet that benefited from the wisp's resonance in the last hour is targeted by an attack\n**Effect** The wisp detonates itself in a small elemental explosion. Allies within 30 feet that have benefited from the wisp's resonance in the last hour gain temporary Hit Points equal to half the wisp's current Hit Points. These temporary Hit Points last 1 hour.\nA wisp that uses this reaction is permanently destroyed, and it can be restored only by a [[Spells/Wish|Wish]] ritual or similarly powerful effect. If an ability would prevent the wisp's destruction (for instance, if the wisp is summoned and would merely be dismissed), Accord Essence has no effect."
+    desc: "`pf2:r` (plant) **Trigger** An ally within 30 feet that benefited from the wisp's resonance in the last hour is targeted by an attack\n* * *\n\n**Effect** The wisp detonates itself in a small elemental explosion. Allies within 30 feet that have benefited from the wisp's resonance in the last hour gain temporary Hit Points equal to half the wisp's current Hit Points. These temporary Hit Points last 1 hour.\n\nA wisp that uses this reaction is permanently destroyed, and it can be restored only by a [[Spells/Wish|Wish]] ritual or similarly powerful effect. If an ability would prevent the wisp's destruction (for instance, if the wisp is summoned and would merely be dismissed), Accord Essence has no effect."
 
   - name: "Resonance"
-    desc: " (aura,metal) 30 feet.\nAll wisps vibrate at a frequency attuned to their element, resonating with and empowering all creatures and effects sharing that trait. Creatures in the area gain a +1 status bonus to attack and damage rolls made with metal weapons or effects with the metal trait; a creature with the elemental and metal traits gains this bonus to all attack and damage rolls."
+    desc: " (aura,metal) 30 feet.\n\nAll wisps vibrate at a frequency attuned to their element, resonating with and empowering all creatures and effects sharing that trait. Creatures in the area gain a +1 status bonus to attack and damage rolls made with metal weapons or effects with the metal trait; a creature with the elemental and metal traits gains this bonus to all attack and damage rolls."
 
   - name: "Rust Cloud"
     desc: "  A metal wisp is constantly surrounded by a cloud of rust flakes that cause it to be [[Conditions/Concealed|Concealed]] from creatures more than 5 feet away from it."
@@ -73,6 +74,12 @@ attacks:
   - name: "In Concert"
     desc: "  When a metal wisp rolls a critical failure on a check to Aid, they get a failure instead, and when they roll a success, they get a critical success instead."
  
+```
+
+```encounter-table
+name: Metal Wisp
+creatures:
+  - 1: Metal Wisp
 ```
 
 

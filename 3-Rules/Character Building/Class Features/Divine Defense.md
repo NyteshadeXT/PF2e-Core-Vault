@@ -12,7 +12,7 @@ license: ORC
 ---
 # Divine Defense
 ## Feat 13
-### [[cleric]]
+### [[3-Rules/trait_reference/cleric]]
 
 **Category** classfeature; 
 

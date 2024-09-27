@@ -15,7 +15,7 @@ license: OGL
 ---
 # Tailor's Boll
 ## Item 3
-### [[consumable]][[magical]][[plant]][[Wood]]
+### [[consumable]][[magical]][[plant]][[wood]]
 
 **Category** other; 
 **Price** 12 gp; 

@@ -37,7 +37,7 @@ A _horn of blasting_ is a bright brass trumpet. It can be played as an instrumen
 
 * * *
 
-**Effect** You can blow even louder to create an intense blast wave in a 30-foot cone that deals 8d6 sonic damage. Each creature attempts a DC 28 Fortitude check save with the following effects.
+**Effect** You can blow even louder to create an intense blast wave in a @Template\[cone|distance:30\] that deals 8d6 sonic damage. Each creature attempts a DC 28 Fortitude check save with the following effects.
 
 * * *
 

@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.pathfinder-bestiary-3.Actor.oR8cm0Aj5FIDF67w"
 tags:
   - pf2e/creature/type/animal
   - pf2e/creature/type/earth
+  - pf2eMonster
   - pf2e/creature/level/7
 statblock: inline
 name: "Zetogeki"
@@ -25,15 +26,16 @@ level: "Creature 7"
 
 alignment: ""
 size: "Large"
-trait_01: "animal"
-trait_02: "earth"
+trait_01: [[animal]]
+trait_02: [[earth]]
 modifier: 15
 perception:
   - name: "Perception"
     desc: "+15; Low-Light Vision"
+languages: ""
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +12, Athletics: +18, Stealth: +12 (+16 in mountains)"
+    desc: "Acrobatics: +12, Athletics: +18, Stealth: +12"
 abilityMods: [5, 1, 5, -4, 2, -1]
 speed: 35 feet,  climb 35 feet
 sourcebook: "_Pathfinder Bestiary 3_"
@@ -61,7 +63,7 @@ attacks:
     desc: "`pf2:1` Tail +18 (reach 15 feet, sweep)\n__Damage__  2d6 + 11 bludgeoning"
 
   - name: "Mangle"
-    desc: "`pf2:1`  **Requirements** The zetogeki has a creature [[Conditions/Grabbed|Grabbed]] in its jaws\n**Effect** The zetogeki mangles the grabbed creature and slams it about, dealing 3d8 bludgeoning damage (DC 26 Fortitude check save)."
+    desc: "`pf2:1`  **Requirements** The zetogeki has a creature [[Conditions/Grabbed|Grabbed]] in its jaws\n* * *\n\n**Effect** The zetogeki mangles the grabbed creature and slams it about, dealing 3d8 bludgeoning damage (DC 26 Fortitude check save)."
 
   - name: "Tilt Scales"
     desc: "`pf2:1`  The zetogeki shifts the scales that cover its body to better absorb kinetic energy from physical blows. The zetogeki gains resistance 10 to physical damage, but its Speeds are reduced to 10 feet. If the zetogeki gets hit for 20 or more physical damage in a single blow while its scales are tilted (before applying resistance), it stores the kinetic energy of the blow. The zetogeki can realign its scales to their regular position by taking this action again. When it does, it channels any stored kinetic energy into the next Strike it makes before the end of its turn. If the Strike hits, it deals an additional 2d8 damage. The energy is expended whether or not the Strike hits."
@@ -69,6 +71,12 @@ attacks:
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
     desc: "`pf2:1`  "
  
+```
+
+```encounter-table
+name: Zetogeki
+creatures:
+  - 1: Zetogeki
 ```
 
 

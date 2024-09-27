@@ -6,6 +6,7 @@ cssClasses: pf2e
 aliases: "Compendium.pf2e.pfs-season-4-bestiary.Actor.473NoC8CXToJcWzk" 
 tags:
   - pf2e/creature/type/animal
+  - pf2eMonster
   - pf2e/creature/level/-1
 statblock: inline
 name: "Burrowing Viper Rat"
@@ -20,14 +21,15 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Society Scenario #4-13: Within the Prairies"
 name: "Burrowing Viper Rat"
 level: "Creature -1"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "tiny"
-trait_01: "animal"
+trait_01: [[animal]]
 modifier: 5
 perception:
   - name: "Perception"
     desc: "+5; Low-Light Vision, Scent (Imprecise) 30 Feet"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Acrobatics: +6, Stealth: +6"
@@ -55,8 +57,14 @@ attacks:
     desc: "`pf2:1` Jaws +7 (agile, finesse)\n__Damage__  1d6 piercing plus burrowing-viper-rat-venom"
 
   - name: "Burrowing Viper Rat Venom"
-    desc: " (poison) **Saving Throw** DC 16 Fortitude check\n**Maximum Duration** 4 rounds\n**Stage 1** 1d6 poison damage and [[Conditions/Enfeebled 1|Enfeebled 1]] (1 round)\n**Stage 1** 1d8 poison damage and [[Conditions/Enfeebled 1|Enfeebled 1]] (1 round)"
+    desc: " (poison) **Saving Throw** DC 16 Fortitude check\n\n**Maximum Duration** 4 rounds\n* * *\n\n**Stage 1** 1d6 poison damage and [[Conditions/Enfeebled|Enfeebled 1]] (1 round)\n\n**Stage 2** 1d8 poison damage and [[Conditions/Enfeebled|Enfeebled 1]] (1 round)"
  
+```
+
+```encounter-table
+name: Burrowing Viper Rat
+creatures:
+  - 1: Burrowing Viper Rat
 ```
 
 

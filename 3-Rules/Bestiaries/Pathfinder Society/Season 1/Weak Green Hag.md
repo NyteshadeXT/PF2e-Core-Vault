@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/hag
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/3
 statblock: inline
 name: "Weak Green Hag"
@@ -26,18 +27,18 @@ level: "Creature 3"
 
 alignment: ""
 size: "Medium"
-trait_01: "chaotic"
-trait_02: "evil"
-trait_03: "hag"
-trait_04: "humanoid"
+trait_01: [[chaotic]]
+trait_02: [[evil]]
+trait_03: [[hag]]
+trait_04: [[humanoid]]
 modifier: 8
 perception:
   - name: "Perception"
     desc: "+8; Darkvision"
-languages: "Aklo, Jotun, Tien"
+languages: "Aklo, Jotun, Tien; tongues"
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +9, Athletics: +11, Crafting: +11, Deception: +10, Nature: +8, Occultism: +8, Stealth: +9"
+    desc: "Acrobatics: +7, Athletics: +9, Crafting: +9, Deception: +8, Nature: +6, Occultism: +6, Stealth: +7"
 abilityMods: [5, 3, 3, 2, 2, 4]
 speed: 25 feet,  swim 25 feet
 sourcebook: "_Pathfinder Society Scenario #1-06: Lost on the Spirit Road_"
@@ -54,7 +55,7 @@ abilities_top:
   - name: ""
 
   - name: "[[Bestiary Ability Glossary/Coven|Coven]]"
-    desc: " (mental,occult) A green hag adds [[Spells/Entangling Flora|Entangling Flora]], [[Spells/Outcast's Curse|Outcast's Curse]], and [[Spells/Wall of Thorns|Wall of Thorns]] to her coven's spells.\n"
+    desc: " (mental,occult) A green hag adds [[Spells/Entangling Flora|Entangling Flora]], [[Spells/Outcast's Curse|Outcast's Curse]], and [[Spells/Wall of Thorns|Wall of Thorns]] to her coven's spells.\n\n* * *\n"
 
 abilities_mid:
   - name: ""
@@ -80,14 +81,20 @@ attacks:
     desc: "`pf2:1`  The green hag touches a creature that doesn't realize the hag is an enemy. The betrayed creature is affected by the hag's enfeebling humors and takes a -4 circumstance penalty to their saving throw against that effect."
 
   - name: "[[Bestiary Ability Glossary/Change Shape|Change Shape]]"
-    desc: "`pf2:1` (concentrate,occult,polymorph) The green hag can take on the appearance of any Medium humanoid woman. This doesn't change her Speed or her attack and damage bonuses with her Strikes, but might change the damage type her Strikes deal (typically to bludgeoning).\n"
+    desc: "`pf2:1` (concentrate,occult,polymorph) The green hag can take on the appearance of any Medium humanoid woman. This doesn't change her Speed or her attack and damage bonuses with her Strikes, but might change the damage type her Strikes deal (typically to bludgeoning).\n\n* * *\n"
 
   - name: "Enfeebling Humors"
-    desc: " (occult) A creature damaged by a hag's claw must succeed at a DC 20 Fortitude check save or be [[Conditions/Enfeebled 1|Enfeebled 1]] for 1 day. On a critical failure, or if it gets hit again and fails its save a second time, it's [[Conditions/Enfeebled 1|Enfeebled 2]] for 1 day."
+    desc: " (occult) A creature damaged by a hag's claw must succeed at a DC 20 Fortitude check save or be [[Conditions/Enfeebled|Enfeebled 1]] for 1 day. On a critical failure, or if it gets hit again and fails its save a second time, it's [[Conditions/Enfeebled|Enfeebled 2]] for 1 day."
 
   - name: "Exhale Miasma"
-    desc: "`pf2:2` (occult) The green hag exhales a miasma of green vapors. Each living creature in a 15-foot cone is affected by her enfeebling humors (attemping a save as normal).\nShe can't use Exhale Miasma again for 1d4 rounds."
+    desc: "`pf2:2` (occult) The green hag exhales a miasma of green vapors. Each living creature in a @Template[cone|distance:15] is affected by her enfeebling humors (attemping a save as normal).\n\nShe can't use Exhale Miasma again for 1d4 rounds."
  
+```
+
+```encounter-table
+name: Weak Green Hag
+creatures:
+  - 1: Weak Green Hag
 ```
 
 

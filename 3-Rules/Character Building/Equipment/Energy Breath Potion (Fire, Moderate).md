@@ -15,7 +15,7 @@ license: ORC
 ---
 # Energy Breath Potion (Fire, Moderate)
 ## Item 12
-### [[consumable]][[3-Rules/Rule References/Fire]][[magical]][[potion]]
+### [[consumable]][[3-Rules/Rule References/Fire]][[3-Rules/Rule References/Magical]][[potion]]
 
 **Category** potion; 
 **Price** 400 gp; 
@@ -28,7 +28,7 @@ license: ORC
 
 Distilled from the energy of dangerous spells, an energy breath potion grants you the Energy Breath action for 1 hour after you imbibe the concoction.
 
-**Energy Breath `pf2:1`** You create a 15-foot cone of fire which deals 6d6 fire damage. All creatures in the area must attempt a DC 29 Reflex check save.
+**Energy Breath** `pf2:1` You create a @Template\[cone|distance:15\] of fire which deals 6d6 fire damage. All creatures in the area must attempt a DC 29 Reflex check save.
 
 After you use Energy Breath, you can't do so again for 1d4 rounds.
 

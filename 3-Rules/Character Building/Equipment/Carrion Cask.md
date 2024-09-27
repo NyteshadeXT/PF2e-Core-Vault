@@ -10,7 +10,7 @@ license: OGL
 ---
 # Carrion Cask
 ## Item 8
-### [uncommon](uncommon "Uncommon Rarity Trait")[[magical]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[3-Rules/Rule References/Magical]]
 
 
 **Price** 500 gp; 
@@ -37,7 +37,7 @@ This stylized, palm-sized box contains a black, ooze-like substance that can eas
 
 * * *
 
-**Effect** You release the sludge from the carrion cask's last meal in a pulse of necromantic energy. Creatures in a 30-foot cone take 6d6 void damage, with a DC 24 Fortitude check.
+**Effect** You release the sludge from the carrion cask's last meal in a pulse of necromantic energy. Creatures in a @Template\[cone|distance:30\] take 6d6 void damage, with a DC 24 Fortitude check.
 
 *Source: Pathfinder Lost Omens: Impossible Lands*
 *OGL*

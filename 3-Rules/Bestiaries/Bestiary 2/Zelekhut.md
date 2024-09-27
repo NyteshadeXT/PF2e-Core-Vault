@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/inevitable
   - pf2e/creature/type/lawful
   - pf2e/creature/type/monitor
+  - pf2eMonster
   - pf2e/creature/level/9
 statblock: inline
 name: "Zelekhut"
@@ -27,18 +28,18 @@ level: "Creature 9"
 
 alignment: ""
 size: "Large"
-trait_01: "aeon"
-trait_02: "inevitable"
-trait_03: "lawful"
-trait_04: "monitor"
+trait_01: [[aeon]]
+trait_02: [[inevitable]]
+trait_03: [[lawful]]
+trait_04: [[monitor]]
 modifier: 21
 perception:
   - name: "Perception"
     desc: "+21; Darkvision, Truesight"
-languages: "Diabolic, Empyrean, Utopian"
+languages: "Diabolic, Empyrean, Utopian; truespeech"
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +18, Athletics: +21, Axis Lore: +15, Diplomacy: +16, Survival: +21 (+23 when Tracking)"
+    desc: "Acrobatics: +18, Athletics: +21, Diplomacy: +16, Survival: +21, Axis Lore: +15"
 abilityMods: [6, 5, 4, 0, 3, 3]
 speed: 40 feet,  fly 40 feet
 sourcebook: "_Pathfinder Bestiary 2_"
@@ -80,6 +81,12 @@ attacks:
   - name: "[[Bestiary Ability Glossary/Knockdown|Knockdown]]"
     desc: "`pf2:1`  "
  
+```
+
+```encounter-table
+name: Zelekhut
+creatures:
+  - 1: Zelekhut
 ```
 
 

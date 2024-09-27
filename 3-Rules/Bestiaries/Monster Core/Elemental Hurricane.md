@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.pathfinder-monster-core.Actor.mx2Xpra7bRJP0GuX"
 tags:
   - pf2e/creature/type/air
   - pf2e/creature/type/elemental
+  - pf2eMonster
   - pf2e/creature/level/11
   - remaster
 statblock: inline
@@ -26,8 +27,8 @@ level: "Creature 11"
 
 alignment: ""
 size: "huge"
-trait_01: "air"
-trait_02: "elemental"
+trait_01: [[air]]
+trait_02: [[elemental]]
 modifier: 20
 perception:
   - name: "Perception"
@@ -72,11 +73,17 @@ attacks:
     desc: "`pf2:1` Lightning Lash +24 (range increment 75 feet)\n__Damage__  2d12 + 6 electricity"
 
   - name: "Gale Breath"
-    desc: "`pf2:2` (air) The elemental exhales a 30-foot cone of air. Creatures in the cone must succeed at a DC 29 Fortitude check save or be knocked away from the elemental.\n\nA creature knocked into a solid object stops moving and takes 10d6 bludgeoning damage (roll the damage once for all creatures).\n\nThe elemental hurricane can't use Gale Breath again for 1d4 rounds.\n* * *\n\n**Critical Success** The creature is unaffected.\n\n**Success** The creature is pushed 20 feet.\n\n**Failure** The creature is pushed 40 feet.\n\n**Critical Failure** The creature is pushed 40 feet and knocked [[Conditions/Prone|Prone]]."
+    desc: "`pf2:2` (air) The elemental exhales a @Template[cone|distance:30] of air. Creatures in the cone must succeed at a DC 29 Fortitude check save or be knocked away from the elemental.\n\nA creature knocked into a solid object stops moving and takes 10d6 bludgeoning damage (roll the damage once for all creatures).\n\nThe elemental hurricane can't use Gale Breath again for 1d4 rounds.\n* * *\n\n**Critical Success** The creature is unaffected.\n\n**Success** The creature is pushed 20 feet.\n\n**Failure** The creature is pushed 40 feet.\n\n**Critical Failure** The creature is pushed 40 feet and knocked [[Conditions/Prone|Prone]]."
 
   - name: "[[Bestiary Ability Glossary/Push|Push 10 feet]]"
     desc: "`pf2:1`  "
  
+```
+
+```encounter-table
+name: Elemental Hurricane
+creatures:
+  - 1: Elemental Hurricane
 ```
 
 

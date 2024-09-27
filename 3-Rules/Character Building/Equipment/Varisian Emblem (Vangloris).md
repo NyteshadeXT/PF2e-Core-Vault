@@ -3,6 +3,7 @@ obsidianUIMode: preview
 title: "Varisian Emblem (Vangloris)"
 cssclasses: pf2e,pf2e-spell
 tags:
+  - trait/illusion
   - trait/invested
   - trait/magical
   - trait/tattoo
@@ -12,7 +13,7 @@ license: OGL
 ---
 # Varisian Emblem (Vangloris)
 ## Item 3
-### [[invested]][[magical]][[tattoo]]
+### [[illusion]][[invested]][[magical]][[tattoo]]
 
 
 **Price** 60 gp; 

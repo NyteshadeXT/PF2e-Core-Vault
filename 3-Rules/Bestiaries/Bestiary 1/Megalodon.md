@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.pathfinder-bestiary.Actor.vUKCuAgLQdz5akgp"
 tags:
   - pf2e/creature/type/animal
   - pf2e/creature/type/aquatic
+  - pf2eMonster
   - pf2e/creature/level/9
 statblock: inline
 name: "Megalodon"
@@ -22,15 +23,16 @@ token: [[modules/pf2e-tokens-bestiaries/portraits/bestial/aquatic/megalodon.webp
 source: "Pathfinder Bestiary"
 name: "Megalodon"
 level: "Creature 9"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "grg"
-trait_01: "animal"
-trait_02: "aquatic"
+trait_01: [[animal]]
+trait_02: [[aquatic]]
 modifier: 20
 perception:
   - name: "Perception"
     desc: "+20; Scent (Imprecise) 100 Feet"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Athletics: +21, Stealth: +19, Survival: +16"
@@ -67,14 +69,20 @@ attacks:
     desc: "`pf2:1` (attack,move) The megalodon Swims up to its swim Speed, then [[Actions/Leap|Leaps]] vertically out of the water up to 25 feet high, making a Strike against a creature at any point during the jump (this lets it attack a creature within 35 feet of the water's surface or 40 feet with its tail). After the Strike, the megalodon splashes back down into the water."
 
   - name: "Savage"
-    desc: "`pf2:1`  **Requirements** The megalodon hit with a jaws Strike on its most recent action this turn.\n**Effect** The creature the megalodon hit takes 2d12 slashing damage."
+    desc: "`pf2:1`  **Requirements** The megalodon hit with a jaws Strike on its most recent action this turn.\n* * *\n\n**Effect** The creature the megalodon hit takes 2d12 slashing damage."
 
   - name: "[[Bestiary Ability Glossary/Swallow Whole|Swallow Whole]]"
-    desc: "`pf2:1` (attack) Huge, 2d8 + 5 bludgeoning, Rupture 20\n"
+    desc: "`pf2:1` (attack) Huge, 2d8+5 bludgeoning, Rupture 20\n\n* * *\n"
 
   - name: "[[Bestiary Ability Glossary/Push|Push 15 feet]]"
     desc: "`pf2:1`  "
  
+```
+
+```encounter-table
+name: Megalodon
+creatures:
+  - 1: Megalodon
 ```
 
 

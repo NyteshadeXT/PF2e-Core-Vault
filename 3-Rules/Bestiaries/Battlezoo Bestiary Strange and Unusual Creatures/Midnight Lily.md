@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/mindless
   - pf2e/creature/type/plant
   - pf2e/creature/type/swarm
+  - pf2eMonster
   - pf2e/creature/level/3
 statblock: inline
 name: "Midnight Lily"
@@ -26,16 +27,17 @@ level: "Creature 3"
 
 alignment: ""
 size: "huge"
-trait_01: "mindless"
-trait_02: "plant"
-trait_03: "swarm"
+trait_01: [[mindless]]
+trait_02: [[plant]]
+trait_03: [[swarm]]
 modifier: 6
 perception:
   - name: "Perception"
     desc: "+6; Tremorsense (Imprecise) 20 Feet"
+languages: ""
 skills:
   - name: "Skills"
-    desc: "Stealth: +10 (+13 in darkness), "
+    desc: "Stealth: +10, Stealth: +10"
 abilityMods: [0, 1, 3, -5, 1, 3]
 speed: 20 feet
 sourcebook: "_Battlezoo Bestiary: Strange and Unusual_"
@@ -54,20 +56,26 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Phototropic Bloom"
-    desc: "`pf2:r`  **Trigger** A light source moves or lights up inside the midnight lily's space and the midnight lily has the slowed condition\n**Effect** The midnight lily uses Stinging Thorns and loses the slowed condition and status penalty from its desiccation ability for as long as the light source remains in the midnight lily's space and for 1 round after the light leaves the area."
+    desc: "`pf2:r`  **Trigger** A light source moves or lights up inside the midnight lily's space and the midnight lily has the slowed condition\n* * *\n\n**Effect** The midnight lily uses Stinging Thorns and loses the slowed condition and status penalty from its desiccation ability for as long as the light source remains in the midnight lily's space and for 1 round after the light leaves the area."
 
   - name: "Desiccation"
-    desc: "  In darkness, a midnight lily is Slowed 1, and has a –10-foot status penalty to its Speeds"
+    desc: "  In darkness, a midnight lily is [[undefined]], and has a –10-foot status penalty to its Speeds"
 
 attacks:
   - name: ""
 
   - name: "Midnight Lily Venom"
-    desc: " (poison) **Saving Throw** DC 20 Fortitude check\n**Maximum Duration** 1 minute\n**Stage 1** 1d4 poison and sheds light like a torch (1 round)\n**Stage 2** 1d6 poison, sheds light like a torch, and light blindness (1 round)"
+    desc: " (poison) **Saving Throw** DC 20 Fortitude check\n\n**Maximum Duration** 1 minute\n\n**Stage 1** 1d4 poison and sheds light like a torch (1 round)\n\n**Stage 2** 1d6 poison, sheds light like a torch, and light blindness (1 round)"
 
   - name: "Stinging Thorns"
     desc: "`pf2:1`  Each creature within the midnight lily's space takes 2d6 piercing damage with a DC 20 Reflex check save. A creature that fails its save is exposed to midnight lily venom."
  
+```
+
+```encounter-table
+name: Midnight Lily
+creatures:
+  - 1: Midnight Lily
 ```
 
 

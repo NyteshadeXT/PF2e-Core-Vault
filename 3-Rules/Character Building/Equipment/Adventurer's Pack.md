@@ -3,7 +3,7 @@ obsidianUIMode: preview
 title: "Adventurer's Pack"
 cssclasses: pf2e,pf2e-action
 tags:
-  - trait/common
+  - trait/
   - remaster
 aliases: "Compendium.pf2e.equipment-srd.Item.2req0jGaxz8hScdB"
 license: ORC

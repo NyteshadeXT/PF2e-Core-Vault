@@ -34,7 +34,7 @@ Your reinforced chalice can collect a creature's life force to become empowered.
 
 ### **Paragon Benefit**
 
-When you or an ally drain the chalice, the overwhelming vitality it's collected helps you overcome many ailments. Reduce the drinker's [[Conditions/Clumsy 1|Clumsy]], [[Conditions/Enfeebled 1|Enfeebled]], [[Conditions/Frightened 1|Frightened]], [[Conditions/Stupefied 1|Stupefied]], and [[Conditions/Stunned 1|Stunned]] values by 1. (This reduces the stunned condition only if it has a condition value, not when it has a duration.) The drinker also reduces its [[Conditions/Drained 1|Drained]] value by 1, but it can reduce its drained condition by Drinking from the Chalice only once per day.
+When you or an ally drain the chalice, the overwhelming vitality it's collected helps you overcome many ailments. Reduce the drinker's [[Conditions/Clumsy|Clumsy]], [[Conditions/Enfeebled|Enfeebled]], [[Conditions/Frightened|Frightened]], [[Conditions/Stupefied|Stupefied]], and [[Conditions/Stunned|Stunned]] values by 1. (This reduces the stunned condition only if it has a condition value, not when it has a duration.) The drinker also reduces its [[Conditions/Drained|Drained]] value by 1, but it can reduce its drained condition by Drinking from the Chalice only once per day.
 
 In addition, the chalice attempts to counteract all poisons, diseases, and curses afflicting the drinker, using half your level rounded up as the counteract rank and your class DC - 10 as the counteract modifier. If the chalice fails to counteract a given affliction for a drinker, it can't attempt to counteract that affliction again until midnight.
 

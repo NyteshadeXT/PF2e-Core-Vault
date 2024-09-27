@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.pathfinder-monster-core.Actor.v1UK3IwCB8wCbL3L"
 tags:
   - pf2e/creature/type/leshy
   - pf2e/creature/type/plant
+  - pf2eMonster
   - pf2e/creature/level/0
   - remaster
 statblock: inline
@@ -26,8 +27,8 @@ level: "Creature 0"
 
 alignment: ""
 size: "Small"
-trait_01: "leshy"
-trait_02: "plant"
+trait_01: [[leshy]]
+trait_02: [[plant]]
 modifier: 4
 perception:
   - name: "Perception"
@@ -55,7 +56,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Verdant Burst"
-    desc: " (healing,primal,vitality) When a leaf leshy dies, a burst of primal energy explodes from their body, restoring 1d4 Hit Points to each plant creature in a 30-foot emanation. This area is filled with tree saplings, becoming difficult terrain.\n\nIf the terrain is not a viable environment for these trees, they wither after 24 hours."
+    desc: " (healing,primal,vitality) When a leaf leshy dies, a burst of primal energy explodes from their body, restoring 1d4 Hit Points to each plant creature in a @Template[emanation|distance:30]. This area is filled with tree saplings, becoming difficult terrain.\n\nIf the terrain is not a viable environment for these trees, they wither after 24 hours."
 
 attacks:
   - name: ""
@@ -78,6 +79,12 @@ attacks:
   - name: "Glide"
     desc: "`pf2:1` (move) The leshy glides gently through the air, moving 5 feet toward the ground and up to 25 feet forward. As long as the leshy spends at least 1 action gliding each round, they remain in the air at the end of each turn. For the purpose of determining damage from falls, a leaf leshy always treats falls as if they were 20 feet shorter."
  
+```
+
+```encounter-table
+name: Leaf Leshy
+creatures:
+  - 1: Leaf Leshy
 ```
 
 

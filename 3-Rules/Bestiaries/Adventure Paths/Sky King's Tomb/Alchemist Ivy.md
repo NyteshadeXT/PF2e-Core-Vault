@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/alchemical
   - pf2e/creature/type/mindless
   - pf2e/creature/type/plant
+  - pf2eMonster
   - pf2e/creature/level/3
 statblock: inline
 name: "Alchemist Ivy"
@@ -22,19 +23,20 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #193: Mantle of Gold"
 name: "Alchemist Ivy"
 level: "Creature 3"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Large"
-trait_01: "alchemical"
-trait_02: "mindless"
-trait_03: "plant"
+trait_01: [[alchemical]]
+trait_02: [[mindless]]
+trait_03: [[plant]]
 modifier: 10
 perception:
   - name: "Perception"
     desc: "+10; Tremorsense (Imprecise) 30 Feet, Low-Light Vision"
+languages: ""
 skills:
   - name: "Skills"
-    desc: "Athletics: +9, Stealth: +9 (+11 in forests or grasslands)"
+    desc: "Athletics: +9, Stealth: +9"
 abilityMods: [4, 0, 3, -5, 3, 0]
 speed: 5 feet
 sourcebook: "_Pathfinder #193: Mantle of Gold_"
@@ -59,10 +61,10 @@ abilities_mid:
     desc: "  An alchemist ivy takes 5 less damage from attacks with the alchemical trait."
 
   - name: "Chemical Fertilizer"
-    desc: "`pf2:0` (alchemical,healing) **Trigger** A creature within 10 feet of the alchemist ivy Activates or is hit by an item with the alchemical trait\n**Effect** The alchemist ivy briefly extends tendrils toward the creature and absorbs some of the alchemical residue, regaining 2d8 Hit Points and gaining a +15-foot status bonus to its Speed until the end of its next turn.\n[[Bestiary Effects/Effect_ Chemical Fertilizer|Effect: Chemical Fertilizer]]"
+    desc: "`pf2:0` (alchemical,healing) **Trigger** A creature within 10 feet of the alchemist ivy Activates or is hit by an item with the alchemical trait\n* * *\n\n**Effect** The alchemist ivy briefly extends tendrils toward the creature and absorbs some of the alchemical residue, regaining 2d8 Hit Points and gaining a +15-foot status bonus to its Speed until the end of its next turn.\n\n[[Bestiary Effects/Effect_ Chemical Fertilizer|Effect: Chemical Fertilizer]]"
 
   - name: "Grasping Foliage"
-    desc: "`pf2:r` (primal) **Trigger** The assassin vine detects a creature within 20 feet via [[Bestiary Ability Glossary/Tremorsense|Tremorsense]]\n**Effect** The assassin vine causes vegetation within a 20-foot emanation to writhe for 1 round, turning this area into difficult terrain. When a creature starts its turn in this area, it must attempt a DC 20 Reflex check save. On a failure, it takes a -10-foot circumstance penalty to its Speeds until it leaves the area, and on a critical failure it is also [[Conditions/Immobilized|Immobilized]] for 1 round. A creature can attempt to [[Actions/Escape|Escape]] to remove these effects.\nAssassin vines are immune to Grasping Foliage."
+    desc: "`pf2:r` (primal) **Trigger** The assassin vine detects a creature within 20 feet via [[Bestiary Ability Glossary/Tremorsense|Tremorsense]]\n* * *\n\n**Effect** The assassin vine causes vegetation within a @Template[emanation|distance:20] to writhe for 1 round, turning this area into difficult terrain. When a creature starts its turn in this area, it must attempt a DC 20 Reflex check save. On a failure, it takes a -10-foot circumstance penalty to its Speeds until it leaves the area, and on a critical failure it is also [[Conditions/Immobilized|Immobilized]] for 1 round. A creature can attempt to [[Actions/Escape|Escape]] to remove these effects.\n\nAssassin vines are immune to Grasping Foliage."
 
 attacks:
   - name: ""
@@ -74,11 +76,17 @@ attacks:
     desc: "`pf2:1` Sap +12 (range increment 20 feet)\n__Damage__  2d6 cold"
 
   - name: "[[Bestiary Ability Glossary/Constrict|Constrict]]"
-    desc: "`pf2:1`  1d8 + 4 bludgeoning, DC 20 Fortitude check\n"
+    desc: "`pf2:1`  1d8+4 bludgeoning, DC 20 Fortitude check\n\n* * *\n"
 
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
     desc: "`pf2:1`  "
  
+```
+
+```encounter-table
+name: Alchemist Ivy
+creatures:
+  - 1: Alchemist Ivy
 ```
 
 

@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.pathfinder-bestiary-3.Actor.fcFQ2GDUZ9YAhiDC"
 tags:
   - pf2e/creature/type/construct
   - pf2e/creature/type/mindless
+  - pf2eMonster
   - pf2e/creature/level/13
 statblock: inline
 name: "Animated Trebuchet"
@@ -25,12 +26,13 @@ level: "Creature 13"
 
 alignment: ""
 size: "grg"
-trait_01: "construct"
-trait_02: "mindless"
+trait_01: [[construct]]
+trait_02: [[mindless]]
 modifier: 21
 perception:
   - name: "Perception"
     desc: "+21; Darkvision"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Athletics: +30"
@@ -64,14 +66,20 @@ attacks:
     desc: "`pf2:1` Rock +28 (brutal, magical, range increment 120 feet)\n__Damage__  3d10 + 11 bludgeoning"
 
   - name: "Launch"
-    desc: "`pf2:1`  **Requirements** The animated trebuchet has a creature [[Conditions/Grabbed|Grabbed]] in its arm.\n**Effect** The animated trebuchet attempts an Athletics check check against the grabbed creature's Fortitude DC.\nOn a success, it fires the creature up to 40 feet in height and up to 120 feet away. The creature takes 4d12 bludgeoning damage plus the appropriate falling damage. If the flung creature lands on another creature, the creature it lands on takes the same amount of bludgeoning damage (DC 33 Reflex check save).\nOn a successful Launch, the animated trebuchet must Interact to reposition its arm into the proper position before it can Launch again."
+    desc: "`pf2:1`  **Requirements** The animated trebuchet has a creature [[Conditions/Grabbed|Grabbed]] in its arm.\n* * *\n\n**Effect** The animated trebuchet attempts an Athletics check check against the grabbed creature's Fortitude DC.\n\nOn a success, it fires the creature up to 40 feet in height and up to 120 feet away. The creature takes 4d12 bludgeoning damage plus the appropriate falling damage. If the flung creature lands on another creature, the creature it lands on takes the same amount of bludgeoning damage (DC 33 Reflex check save).\n\nOn a successful Launch, the animated trebuchet must Interact to reposition its arm into the proper position before it can Launch again."
 
   - name: "[[Bestiary Ability Glossary/Trample|Trample]]"
-    desc: "`pf2:3`  Large or smaller, arm, DC 33 Reflex check\n"
+    desc: "`pf2:3`  Large or smaller, arm, DC 33 Reflex check\n\n* * *\n"
 
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
     desc: "`pf2:1`  "
  
+```
+
+```encounter-table
+name: Animated Trebuchet
+creatures:
+  - 1: Animated Trebuchet
 ```
 
 

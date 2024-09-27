@@ -11,6 +11,7 @@ tags:
   - pf2e/creature/type/swarm
   - pf2e/creature/type/undead
   - pf2e/creature/type/unholy
+  - pf2eMonster
   - pf2e/creature/level/-1
 statblock: inline
 name: "Money-Grubber Swarm"
@@ -26,22 +27,23 @@ token: [[modules/battlezoo-bestiary-su-pf2e/art/Portraits/money-grubber-swarm.we
 source: "Battlezoo Bestiary: Strange and Unusual"
 name: "Money-Grubber Swarm"
 level: "Creature -1"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Large"
-trait_01: "evil"
-trait_02: "incorporeal"
-trait_03: "spirit"
-trait_04: "swarm"
-trait_05: "undead"
-trait_06: "unholy"
+trait_01: [[evil]]
+trait_02: [[incorporeal]]
+trait_03: [[spirit]]
+trait_04: [[swarm]]
+trait_05: [[undead]]
+trait_06: [[unholy]]
 modifier: 4
 perception:
   - name: "Perception"
     desc: "+4; Darkvision"
+languages: ""
 skills:
   - name: "Skills"
-    desc: "Stealth: +5, Thievery: +5 (Steal Coins Only), "
+    desc: "Stealth: +5, Thievery: +5, Stealth: +5, Thievery: +5"
 abilityMods: [-5, 3, 2, -4, 1, 0]
 speed: 20 feet
 sourcebook: "_Battlezoo Bestiary: Strange and Unusual_"
@@ -67,14 +69,20 @@ abilities_mid:
     desc: "  A money-grubber's existence is linked to the coins they steal. If a creature successfully Steals coins from the swarm, the swarm is dealt 1d4 mental damage, or mental damage equal to the number of coins stolen, whichever is lower."
 
   - name: "Nourishing Spirits"
-    desc: "  Any spirit, undead, or creature with negative healing inside a money- grubber swarm can take a single manipulate action with the evil trait to consume a handful of money-grubbers. This deals 1d4 mental damage to the swarm, and the creature gains temporary hit points equal to the damage dealt for 1 minute. If the creature was an undead spirit, it also gains a +1 status to attack rolls and damage rolls for 1 minute. A creature can only gain these benefits from eating money-grubbers once per hour.\n[[Effects/Effect_ Nourishing Spirits|Effect: Nourishing Spirits]]"
+    desc: "  Any spirit, undead, or creature with negative healing inside a money- grubber swarm can take a single manipulate action with the evil trait to consume a handful of money-grubbers. This deals 1d4 mental damage to the swarm, and the creature gains temporary hit points equal to the damage dealt for 1 minute. If the creature was an undead spirit, it also gains a +1 status to attack rolls and damage rolls for 1 minute. A creature can only gain these benefits from eating money-grubbers once per hour.\n\n[[Effects/Effect_ Nourishing Spirits|Effect: Nourishing Spirits]]"
 
 attacks:
   - name: ""
 
   - name: "Penny Pinching"
-    desc: "`pf2:2`  The money- grubber swarm rummages through the possessions of all the creatures within its space in order to steal their shiniest coins, attempting a Thievery check against all the creatures' Reflex DCs.\n**Success** The money-grubbers can steal up to 1d4 coins from the creature, prioritizing the shiniest ones, at the GM's discretion. The constant tickling and pinching also deal 1d4 mental damage to the creature.\n**Failure** The money-grubbers fail to steal any coins, but they still deal 1 mental damage to the creature."
+    desc: "`pf2:2`  The money- grubber swarm rummages through the possessions of all the creatures within its space in order to steal their shiniest coins, attempting a Thievery check against all the creatures' Reflex DCs.\n* * *\n\n**Success** The money-grubbers can steal up to 1d4 coins from the creature, prioritizing the shiniest ones, at the GM's discretion. The constant tickling and pinching also deal 1d4 mental damage to the creature.\n\n**Failure** The money-grubbers fail to steal any coins, but they still deal 1 mental damage to the creature."
  
+```
+
+```encounter-table
+name: Money-Grubber Swarm
+creatures:
+  - 1: Money-Grubber Swarm
 ```
 
 

@@ -28,7 +28,7 @@ This band of interwoven gold and copper, traced with Aklo symbols, is topped wit
 
 **Effect** You attempt to make the ring cast an arcane [[Spells/Wish|Wish]] spell. However, if the ring doesn't deem the wish to be sufficiently selfless, the wish isn't cast and the ring can't be activated for 24 hours.
 
-You are [[Conditions/Drained 1|Drained 3]], whether or not the ring refuses the wish.
+You are [[Conditions/Drained|Drained 3]], whether or not the ring refuses the wish.
 
 * * *
 

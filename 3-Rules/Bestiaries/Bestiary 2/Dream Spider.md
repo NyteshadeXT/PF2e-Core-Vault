@@ -6,6 +6,7 @@ cssClasses: pf2e
 aliases: "Compendium.pf2e.pathfinder-bestiary-2.Actor.Z2v611Np3J1MBkpv" 
 tags:
   - pf2e/creature/type/animal
+  - pf2eMonster
   - pf2e/creature/level/0
 statblock: inline
 name: "Dream Spider"
@@ -24,11 +25,12 @@ level: "Creature 0"
 
 alignment: ""
 size: "Small"
-trait_01: "animal"
+trait_01: [[animal]]
 modifier: 6
 perception:
   - name: "Perception"
     desc: "+6; Darkvision"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Acrobatics: +5, Athletics: +2, Stealth: +7"
@@ -62,11 +64,17 @@ attacks:
     desc: "`pf2:1` Web +7 (range increment 10 feet)\n__Damage__ "
 
   - name: "Dream Spider Venom"
-    desc: " (poison) **Saving Throw** DC 16 Fortitude check\n**Maximum Duration** 4 rounds\n**Stage 1** [[Conditions/Stupefied 1|Stupefied 1]] (1 round)\n**Stage 2** 1d6 poison damage plus stupefied 1 (1 round)"
+    desc: " (poison) **Saving Throw** DC 16 Fortitude check\n* * *\n\n**Maximum Duration** 4 rounds\n\n**Stage 1** [[Conditions/Stupefied|Stupefied 1]] (1 round)\n\n**Stage 2** 1d6 poison damage plus stupefied 1 (1 round)"
 
   - name: "Web Trap"
     desc: "  A creature hit by the dream spider's web attack is [[Conditions/Immobilized|Immobilized]] and stuck to the nearest surface until it [[Actions/Escape|Escapes]] (DC 16)."
  
+```
+
+```encounter-table
+name: Dream Spider
+creatures:
+  - 1: Dream Spider
 ```
 
 

@@ -6,8 +6,9 @@ tags:
   - trait/swashbuckler
   - trait/common
   - category/classfeature
+  - remaster
 aliases: "Compendium.pf2e.classfeatures.Item.U74JoAcLHTOsZG6q"
-license: OGL
+license: ORC
 ---
 # Swashbuckler Expertise
 ## Feat 9
@@ -18,7 +19,7 @@ license: OGL
 
 
 
-You perform swashbuckling techniques with exceptional flair, making them harder to resist. Your proficiency rank for your swashbuckler class DC increases to expert.
+You perform swashbuckling techniques with exceptional flair, making them harder to resist. Your circumstance bonus from Stylish Combatant increases to +2. Your proficiency rank for your swashbuckler class DC increases to expert.
 
-*Source: Pathfinder Advanced Player's Guide*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

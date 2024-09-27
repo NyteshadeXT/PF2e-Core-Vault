@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/humanoid
   - pf2e/creature/type/orc
+  - pf2eMonster
   - pf2e/creature/level/5
 statblock: inline
 name: "Scorched Earth Orc (Sharpshooter) (5-6)"
@@ -23,13 +24,13 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Society Scenario #2-10: In Burning Dawn"
 name: "Scorched Earth Orc (Sharpshooter) (5-6)"
 level: "Creature 5"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Medium"
-trait_01: "chaotic"
-trait_02: "evil"
-trait_03: "humanoid"
-trait_04: "orc"
+trait_01: [[chaotic]]
+trait_02: [[evil]]
+trait_03: [[humanoid]]
+trait_04: [[orc]]
 modifier: 15
 perception:
   - name: "Perception"
@@ -75,8 +76,14 @@ attacks:
     desc: "  Scorched Earth orcs deal an extra 2d6 precision damage to [[Conditions/Off-Guard|Off-Guard]] creatures."
 
   - name: "Tethered Shot"
-    desc: "`pf2:2`  **Frequency** once per round\nThe Scorched Earth sharpshooter makes a ranged Strike, firing an arrow attached to a line at a creature in range.\nIf it hits, in addition to taking 1d8 + 4 piercing damage, that creature must attempt a DC 20 Reflex check save, with the following effects.\n**Success** The creature is unaffected.\n**Failure** The creature is [[Conditions/Clumsy 1|Clumsy 1]] for 1 minute or until it [[Actions/Escape|Escapes]](DC 20).\n**Critical Failure** As failure, but the creature is pulled 5 feet toward the sharpshooter."
+    desc: "`pf2:2`  **Frequency** once per round\n\nThe Scorched Earth sharpshooter makes a ranged Strike, firing an arrow attached to a line at a creature in range.\n\nIf it hits, in addition to taking 1d8+4 piercing damage, that creature must attempt a DC 20 Reflex check save, with the following effects.\n* * *\n\n**Success** The creature is unaffected.\n\n**Failure** The creature is [[Conditions/Clumsy|Clumsy 1]] for 1 minute or until it [[Actions/Escape|Escapes]](DC 20).\n\n**Critical Failure** As failure, but the creature is pulled 5 feet toward the sharpshooter."
  
+```
+
+```encounter-table
+name: Scorched Earth Orc (Sharpshooter) (5-6)
+creatures:
+  - 1: Scorched Earth Orc (Sharpshooter) (5-6)
 ```
 
 

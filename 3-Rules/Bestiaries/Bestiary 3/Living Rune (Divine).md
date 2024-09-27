@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.pathfinder-bestiary-3.Actor.tvAlNMQluKDpfXMz"
 tags:
   - pf2e/creature/type/construct
   - pf2e/creature/type/lawful
+  - pf2eMonster
   - pf2e/creature/level/13
 statblock: inline
 name: "Living Rune (Divine)"
@@ -22,18 +23,19 @@ token: [[modules/pf2e-tokens-bestiaries/portraits/constructed/magical/living-run
 source: "Pathfinder Bestiary 3"
 name: "Living Rune (Divine)"
 level: "Creature 13"
-rare_03: "Rare"
+rare_03: [[Rare]]
 alignment: ""
 size: "Small"
-trait_01: "construct"
-trait_02: "lawful"
+trait_01: [[construct]]
+trait_02: [[lawful]]
 modifier: 25
 perception:
   - name: "Perception"
     desc: "+25; Darkvision"
+languages: "truescript"
 skills:
   - name: "Skills"
-    desc: "Deception: +24, Religion: +27, Stealth: +25 (+31 to Hide or Sneak among inscriptions)"
+    desc: "Deception: +24, Religion: +27, Stealth: +25"
 abilityMods: [1, 6, 1, 8, 8, 5]
 speed: 25 feet
 sourcebook: "_Pathfinder Bestiary 3_"
@@ -69,6 +71,12 @@ attacks:
   - name: "Divine Innate Spells"
     desc: "DC 35, attack +27; __7th __  _[[Spells/Divine Decree|Divine Decree (x2)]]_; __6th __  _[[Spells/Blade Barrier|Blade Barrier]]_, _[[Spells/Rune Trap|Glyph of Warding (At Will)]]_, _[[Spells/Repulsion|Repulsion]]_, _[[Spells/Spirit Blast|Spirit Blast]]_; __5th __  _[[Spells/Divine Wrath|Divine Wrath (x2)]]_, _[[Spells/Flame Strike|Flame Strike]]_"
  
+```
+
+```encounter-table
+name: Living Rune (Divine)
+creatures:
+  - 1: Living Rune (Divine)
 ```
 
 

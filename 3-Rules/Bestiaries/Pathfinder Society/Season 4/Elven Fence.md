@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/elf
   - pf2e/creature/type/evil
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/5
 statblock: inline
 name: "Elven Fence"
@@ -22,12 +23,12 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Society Scenario #4-99: Blessings of the Forest"
 name: "Elven Fence"
 level: "Creature 5"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Medium"
-trait_01: "elf"
-trait_02: "evil"
-trait_03: "humanoid"
+trait_01: [[elf]]
+trait_02: [[evil]]
+trait_03: [[humanoid]]
 modifier: 11
 perception:
   - name: "Perception"
@@ -35,7 +36,7 @@ perception:
 languages: "Common, Elven"
 skills:
   - name: "Skills"
-    desc: "Accounting Lore: +13, Acrobatics: +10, Crafting: +13, Deception: +13, Diplomacy: +11, Intimidation: +11, Society: +11, Stealth: +10, Thievery: +10, Underworld Lore: +15"
+    desc: "Acrobatics: +10, Crafting: +13, Deception: +13, Diplomacy: +11, Intimidation: +11, Society: +11, Stealth: +10, Thievery: +10, Accounting Lore: +13, Underworld Lore: +15"
 abilityMods: [0, 3, 0, 4, 2, 4]
 speed: 30 feet
 sourcebook: "_Pathfinder Society Scenario #4-99: Blessings of the Forest_"
@@ -78,6 +79,12 @@ attacks:
   - name: "[[Bestiary Ability Glossary/Sneak Attack|Sneak Attack]]"
     desc: "  The fence deals an extra 2d6 precision damage to [[Conditions/Off-Guard|Off-Guard]] creatures."
  
+```
+
+```encounter-table
+name: Elven Fence
+creatures:
+  - 1: Elven Fence
 ```
 
 

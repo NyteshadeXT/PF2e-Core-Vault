@@ -10,7 +10,7 @@ license: OGL
 ---
 # Enhanced Hearing Aids
 ## Item 3
-### [[magical]]
+### [[3-Rules/Rule References/Magical]]
 
 
 **Price** 50 gp; 

@@ -11,7 +11,7 @@ license: OGL
 ---
 # Endless Grimoire (True)
 ## Item 18
-### [[grimoire]][[magical]]
+### [[grimoire]][[3-Rules/Rule References/Magical]]
 
 
 **Price** 23000 gp; 

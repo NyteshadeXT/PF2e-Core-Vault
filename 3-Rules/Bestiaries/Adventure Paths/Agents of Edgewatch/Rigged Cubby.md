@@ -5,6 +5,7 @@ noteType: pf2eHazard
 tags:
   - mechanical
   - trap
+  - pf2eHazard
 
 source: Pathfinder #158: Sixty Feet Under
 aliases: "Compendium.pf2e.agents-of-edgewatch-bestiary.Actor.54i6ithgmhDk7Dne" 
@@ -22,14 +23,14 @@ name: "Rigged Cubby"
 level: "Hazard 6"
 
 
-trait_01: "mechanical"
-trait_02: "trap"
+trait_01: [[mechanical]]
+trait_02: [[trap]]
 modifier: 15
 sourcebook: "_Pathfinder #158: Sixty Feet Under_"
 ac: 25
 armorclass:
   - name: AC
-    desc: "25; __Fort__ +0, __Ref__ +0, __Will__ +0"
+    desc: "25; "
 hp: 1
 health:
   - name: ""
@@ -51,9 +52,15 @@ attacks:
   - name: ""
 
   - name: "Collapse"
-    desc: "`pf2:r` **Trigger** A creature touches the sickle in the cubby\n**Effect** The heavy bricks above the cubby collapse, leaving the sickle unscathed but dealing 4d6 + 10 bludgeoning damage (DC 26 Reflex check save) to the triggering creature."
+    desc: "`pf2:r` **Trigger** A creature touches the sickle in the cubby\n* * *\n\n**Effect** The heavy bricks above the cubby collapse, leaving the sickle unscathed but dealing 4d6+10 bludgeoning damage (DC 26 Reflex check save) to the triggering creature."
 
 
 
+```
+
+```encounter-table
+name: Rigged Cubby
+creatures:
+  - 1: Rigged Cubby
 ```
 

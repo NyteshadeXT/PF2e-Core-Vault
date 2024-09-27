@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/undead
   - pf2e/creature/type/unholy
+  - pf2eMonster
   - pf2e/creature/level/17
 statblock: inline
 name: "Blood-Pear Tree"
@@ -22,17 +23,17 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #191: The Destiny War"
 name: "Blood-Pear Tree"
 level: "Creature 17"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "huge"
-trait_01: "evil"
-trait_02: "undead"
-trait_03: "unholy"
+trait_01: [[evil]]
+trait_02: [[undead]]
+trait_03: [[unholy]]
 modifier: 29
 perception:
   - name: "Perception"
     desc: "+29; Darkvision"
-languages: "Arboreal, Fey, Necril"
+languages: "Arboreal, Fey, Necril; (can&#x27;t speak any language)"
 skills:
   - name: "Skills"
     desc: "Athletics: +32, Stealth: +30"
@@ -72,11 +73,17 @@ attacks:
     desc: "`pf2:1` Bloody Pear +30 (range increment 20 feet, splash)\n__Damage__  2d6 + 12 bludgeoning 2d6 poison"
 
   - name: "Take Root"
-    desc: "`pf2:1` (primal) **Frequency** once per round\n**Requirements** The Blood-Pear Tree has a creature [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]]\n**Effect** The Blood-Pear Tree buries its roots into the creature, dealing 2d6 + 17 piercing damage (DC 38 Fortitude check save). On a failure, the creature is [[Conditions/Enfeebled 1|Enfeebled 1]] (or increases the value by 1 if already enfeebled), and the corpseroot regains 15 HP. If this would make a creature [[Conditions/Enfeebled 1|Enfeebled 5]], the creature dies."
+    desc: "`pf2:1` (primal) **Frequency** once per round\n\n**Requirements** The Blood-Pear Tree has a creature [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]]\n* * *\n\n**Effect** The Blood-Pear Tree buries its roots into the creature, dealing 2d6+17 piercing damage (DC 38 Fortitude check save). On a failure, the creature is [[Conditions/Enfeebled|Enfeebled 1]] (or increases the value by 1 if already enfeebled), and the corpseroot regains 15 HP. If this would make a creature [[Conditions/Enfeebled|Enfeebled 5]], the creature dies."
 
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
     desc: "`pf2:1`  "
  
+```
+
+```encounter-table
+name: Blood-Pear Tree
+creatures:
+  - 1: Blood-Pear Tree
 ```
 
 

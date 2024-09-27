@@ -5,6 +5,7 @@ noteType: pf2eHazard
 tags:
   - environmental
   - fire
+  - pf2eHazard
   - complex
 source: Pathfinder Society Scenario #2-19: Enter the Pallid Peak
 aliases: "Compendium.pf2e.pfs-season-2-bestiary.Actor.gAoKDxmIriTC7xVn" 
@@ -22,8 +23,8 @@ name: "Churning Lava (1-2)"
 level: "Hazard 1"
 
 trait_06: "Complex"
-trait_01: "environmental"
-trait_02: "fire"
+trait_01: [[environmental]]
+trait_02: [[fire]]
 modifier: 9
 sourcebook: "_Pathfinder Society Scenario #2-19: Enter the Pallid Peak_"
 perception:
@@ -42,16 +43,22 @@ attacks:
   - name: ""
 
   - name: "Boil"
-    desc: "`pf2:r` **Trigger** A creature disturbs the mold, typically by walking through it\n**Effect** The hazard makes a spatter attack against the triggering creature, and then rolls initiative as the lava begins to bubble."
+    desc: "`pf2:r` **Trigger** A creature disturbs the mold, typically by walking through it\n* * *\n\n**Effect** The hazard makes a spatter attack against the triggering creature, and then rolls initiative as the lava begins to bubble."
   - name: "Melee"
     desc: "Spatter +9 () "
 
   - name: "Solidifying Lava"
-    desc: "passive The target must attempt a DC 17 Reflex check save as the lava rapidly cools and solidifies. On a critical hit, use the outcome for one degree of success worse than the result of the save.\n**Success** The lava slides off the target with no additional effect.\n**Failure** The target becomes [[Conditions/Clumsy 1|Clumsy 1]]. The target or an adjacent creature can take an Interact action to remove the stone, removing the condition.\n**Critical Failure** As failure, except the target becomes [[Conditions/Clumsy 1|Clumsy 2]]. Each Interact action to remove the stone reduces the value of the clumsy condition by 1."
+    desc: "passive The target must attempt a DC 17 Reflex check save as the lava rapidly cools and solidifies. On a critical hit, use the outcome for one degree of success worse than the result of the save.\n\n**Success** The lava slides off the target with no additional effect.\n\n**Failure** The target becomes [[Conditions/Clumsy|Clumsy 1]]. The target or an adjacent creature can take an Interact action to remove the stone, removing the condition.\n\n**Critical Failure** As failure, except the target becomes [[Conditions/Clumsy|Clumsy 2]]. Each Interact action to remove the stone reduces the value of the clumsy condition by 1."
 
   - name: "Routine"
     desc: "(1 action) On the its initiative, the churning lava targets a random creature in the area with a ranged spatter attack as a magma bubble bursts."
   - name: "Reset"
     desc: "If not completely destroyed, the mold spreads to one additional square within 10 feet of lava each day until it fully regenerates and regains its state of equilibrium. If every square is cleaned of mold, the hazard is destroyed."
+```
+
+```encounter-table
+name: Churning Lava (1-2)
+creatures:
+  - 1: Churning Lava (1-2)
 ```
 

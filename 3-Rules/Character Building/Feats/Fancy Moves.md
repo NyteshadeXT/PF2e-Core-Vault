@@ -7,8 +7,9 @@ tags:
   - trait/skill
   - trait/common
   - category/skill
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.mwZzcwYVcTvxbXDl"
-license: OGL
+license: ORC
 ---
 # Fancy Moves
 ## Feat 4
@@ -22,5 +23,5 @@ license: OGL
 * * *
 You show off your fighting style to discourage your foes. You can use Performance to [[Actions/Demoralize|Demoralize]].
 
-*Source: Pathfinder Advanced Player's Guide*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

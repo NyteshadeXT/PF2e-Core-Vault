@@ -18,7 +18,7 @@ license: OGL
 ---
 # Witchwood Seed `pf2:2`
 ## Feat 12
-### [[impulse]][[kineticist]][[overflow]][[plant]][[polymorph]][[primal]][[Wood]]
+### [[impulse]][[kineticist]][[overflow]][[plant]][[polymorph]][[primal]][[wood]]
 
 **Category** class; 
 
@@ -33,7 +33,7 @@ You touch a creature to implant a malignant seed in its body. The creature takes
 
 **Success** The creature takes half damage and takes a -10-foot status penalty to all its Speeds until the end of its next turn.
 
-**Failure** The target takes full damage and is [[Conditions/Clumsy 1|Clumsy 2]] and [[Conditions/Immobilized|Immobilized]] until the end of its next turn.
+**Failure** The target takes full damage and is [[Conditions/Clumsy|Clumsy 2]] and [[Conditions/Immobilized|Immobilized]] until the end of its next turn.
 
 **Critical Failure** The target takes double damage and is clumsy 2 and immobilized. It attempts a new save at the end of each of its turns, ending the effect if it succeeds.
 

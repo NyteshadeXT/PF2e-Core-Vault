@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/human
   - pf2e/creature/type/humanoid
   - pf2e/creature/type/nephilim
+  - pf2eMonster
   - pf2e/creature/level/5
   - remaster
 statblock: inline
@@ -20,15 +21,16 @@ license: ORC
 columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
+token: [[modules/pf2e-tokens-monster-core/assets/portraits/planar-scion-lawbringer-warpriest.webp| ]]
 source: "Pathfinder Monster Core"
 name: "Lawbringer Warpriest"
 level: "Creature 5"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Medium"
-trait_01: "human"
-trait_02: "humanoid"
-trait_03: "nephilim"
+trait_01: [[human]]
+trait_02: [[humanoid]]
+trait_03: [[nephilim]]
 modifier: 11
 perception:
   - name: "Perception"
@@ -76,6 +78,12 @@ attacks:
   - name: "Channel Smite"
     desc: "`pf2:2`  **Requirements** The lawbringer has a [[Spells/Heal|Heal]] or [[Spells/Harm|Harm]] spell prepared\n* * *\n\n**Effect** The lawbringer makes a melee Strike and expends a _harm_ or _heal_ spell. On a hit, they cast the 1-action version of the spell to damage the target. The target automatically gets a failure on its save (or a critical failure if the lawbringer's Strike was a critical hit). The spell doesn't have the manipulate trait when cast this way."
  
+```
+
+```encounter-table
+name: Lawbringer Warpriest
+creatures:
+  - 1: Lawbringer Warpriest
 ```
 
 

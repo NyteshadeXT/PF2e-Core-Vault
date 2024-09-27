@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.pathfinder-bestiary-2.Actor.zXZrUTQSI0WxAsF5"
 tags:
   - pf2e/creature/type/mindless
   - pf2e/creature/type/ooze
+  - pf2eMonster
   - pf2e/creature/level/6
 statblock: inline
 name: "Verdurous Ooze"
@@ -25,15 +26,16 @@ level: "Creature 6"
 
 alignment: ""
 size: "Medium"
-trait_01: "mindless"
-trait_02: "ooze"
+trait_01: [[mindless]]
+trait_02: [[ooze]]
 modifier: 8
 perception:
   - name: "Perception"
     desc: "+8; Motion Sense (Precise) 60 Feet"
+languages: ""
 skills:
   - name: "Skills"
-    desc: "Athletics: +15, Stealth: +4 (+10 in tall grass or undergrowth)"
+    desc: "Athletics: +15, Stealth: +4"
 abilityMods: [5, -4, 5, -5, 0, -5]
 speed: 15 feet
 sourcebook: "_Pathfinder Bestiary 2_"
@@ -70,10 +72,10 @@ attacks:
     desc: "`pf2:1` Pseudopod +15 ()\n__Damage__  2d6 + 7 bludgeoning plus grab 1d6 acid plus grab"
 
   - name: "[[Bestiary Ability Glossary/Constrict|Constrict]]"
-    desc: "`pf2:1`  2d6 bludgeoning plus 1d6 acid, DC 24 Fortitude check\n"
+    desc: "`pf2:1`  2d6 bludgeoning plus 1d6 acid, DC 24 Fortitude check\n\n* * *\n"
 
   - name: "Sleep Gas"
-    desc: "`pf2:2` (incapacitation,mental,poison,sleep) The verdurous ooze adjusts its aura of supernatural vapors to affect living creatures within a 20-foot emanation, forcing them to attempt a DC 24 Will check save.\n**Critical Success** The creature is unaffected and becomes temporarily immune to Sleep Gas for 24 hours.\n**Success** The creature is [[Conditions/Stupefied 1|Stupefied 1]] for 1 round.\n**Failure** The creature falls [[Conditions/Unconscious|Unconscious]]. If it's still unconscious after 1 minute, it wakes up automatically.\n**Critical Failure** The creature falls [[Conditions/Unconscious|Unconscious]]. If it's still unconscious after 1 hour, it wakes up automatically."
+    desc: "`pf2:2` (incapacitation,mental,poison,sleep) The verdurous ooze adjusts its aura of supernatural vapors to affect living creatures within a @Template[emanation|distance:20], forcing them to attempt a DC 24 Will check save.\n* * *\n\n**Critical Success** The creature is unaffected and becomes temporarily immune to Sleep Gas for 24 hours.\n\n**Success** The creature is [[Conditions/Stupefied|Stupefied 1]] for 1 round.\n\n**Failure** The creature falls [[Conditions/Unconscious|Unconscious]]. If it's still unconscious after 1 minute, it wakes up automatically.\n\n**Critical Failure** The creature falls [[Conditions/Unconscious|Unconscious]]. If it's still unconscious after 1 hour, it wakes up automatically."
 
   - name: "Verdurous Ooze Acid"
     desc: "  A verdurous ooze's acid damages only metal and flesh-not bone, stone, or other materials."
@@ -81,6 +83,12 @@ attacks:
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
     desc: "`pf2:1`  "
  
+```
+
+```encounter-table
+name: Verdurous Ooze
+creatures:
+  - 1: Verdurous Ooze
 ```
 
 

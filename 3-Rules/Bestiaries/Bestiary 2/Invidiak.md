@@ -11,6 +11,7 @@ tags:
   - pf2e/creature/type/fiend
   - pf2e/creature/type/incorporeal
   - pf2e/creature/type/unholy
+  - pf2eMonster
   - pf2e/creature/level/7
 statblock: inline
 name: "Invidiak"
@@ -29,17 +30,17 @@ level: "Creature 7"
 
 alignment: ""
 size: "Medium"
-trait_01: "chaotic"
-trait_02: "demon"
-trait_03: "evil"
-trait_04: "fiend"
-trait_05: "incorporeal"
-trait_06: "unholy"
+trait_01: [[chaotic]]
+trait_02: [[demon]]
+trait_03: [[evil]]
+trait_04: [[fiend]]
+trait_05: [[incorporeal]]
+trait_06: [[unholy]]
 modifier: 15
 perception:
   - name: "Perception"
     desc: "+15; Darkvision"
-languages: "Chthonian, Common"
+languages: "Chthonian, Common; telepathy 100 feet"
 skills:
   - name: "Skills"
     desc: "Acrobatics: +15, Deception: +18, Religion: +13, Society: +15, Stealth: +17"
@@ -76,7 +77,7 @@ attacks:
     desc: "_[[Spells/Demonic Pact|Abyssal Pact]]_"
 
   - name: "Favored Host"
-    desc: " (beast,dwarf,human) Each invidiak has a particular type of creature they prefer possessing, chosen from the following list:\n*   aberration\n*   animal\n*   beast\n*   any humanoid (such as dwarf)\nIn most cases, the favored type of target is human. When an invidiak uses possession against a favored host, the duration of possession increases to unlimited, and the effect lasts until dispelled or until the invidiak dismisses it."
+    desc: " (beast,dwarf,human) Each invidiak has a particular type of creature they prefer possessing, chosen from the following list:\n\n*   aberration\n*   animal\n*   beast\n*   any humanoid (such as dwarf)\n\nIn most cases, the favored type of target is human. When an invidiak uses possession against a favored host, the duration of possession increases to unlimited, and the effect lasts until dispelled or until the invidiak dismisses it."
 
   - name: "Shadow Blend"
     desc: "`pf2:2` (divine,illusion) The invidiak Strides up to twice their speed. If the invidiak ends their movement in an area of dim light, they become hidden as long as they don't move and the lighting in the area they're in doesn't grow brighter than dim light."
@@ -84,6 +85,12 @@ attacks:
   - name: "Unbodied Possession"
     desc: "  An invidiak leaves no body behind when using [[Spells/Possession|Possession]]."
  
+```
+
+```encounter-table
+name: Invidiak
+creatures:
+  - 1: Invidiak
 ```
 
 

@@ -6,8 +6,9 @@ tags:
   - trait/archetype
   - trait/common
   - category/class
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.wBqQsXzqObrZM9Va"
-license: OGL
+license: ORC
 ---
 # Basic Bloodline Spell
 ## Feat 4
@@ -21,5 +22,5 @@ license: OGL
 * * *
 You gain your bloodline's initial bloodline spell. If you don't already have one, you also gain a focus pool of 1 Focus Point, which you can Refocus without any special effort.
 
-*Source: Pathfinder Core Rulebook*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

@@ -6,6 +6,7 @@ cssClasses: pf2e
 aliases: "Compendium.pf2e.gatewalkers-bestiary.Actor.AihjWbZiorAJ80gE" 
 tags:
   - pf2e/creature/type/animal
+  - pf2eMonster
   - pf2e/creature/level/2
 statblock: inline
 name: "Cliffhunter Pteranodon"
@@ -23,11 +24,12 @@ level: "Creature 2"
 
 alignment: ""
 size: "Large"
-trait_01: "animal"
+trait_01: [[animal]]
 modifier: 8
 perception:
   - name: "Perception"
     desc: "+8; Low-Light Vision, Scent (Imprecise) 30 Feet"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Acrobatics: +10, Athletics: +7"
@@ -55,11 +57,17 @@ attacks:
     desc: "`pf2:1` Beak +10 ()\n__Damage__  1d10 + 3 piercing"
 
   - name: "Pluck"
-    desc: "  The cliff hunter pteranodon attempts to fling its prey of a cliff or into some other hazardous situation\n**Frequency** once per round\n**Trigger** The pteranodon's last action this turn was a successful beak Strike. The pteranodon can use this ability mid-Swoop\n**Effect** The pteranodon attempts to fling the struck creature into harm's way. The pteranodon makes an Athletics check check against the target's Fortitude DC.\n**Success** The target creature is flung 15 feet in a direction of the pteranodon's choosing and potentially falls or takes damage accordingly. The creature cannot use the [[Actions/Grab an Edge|Grab an Edge]] reaction.\n**Failure** The pteranodon fails to move the target creature.\n**Critical Failure** As failure, but the pteranodon's clumsy movement leaves it open to attack. The pteranodon's turn ends, and it becomes off-guard until the beginning of its next turn."
+    desc: "  The cliff hunter pteranodon attempts to fling its prey of a cliff or into some other hazardous situation\n\n**Frequency** once per round\n\n**Trigger** The pteranodon's last action this turn was a successful beak Strike. The pteranodon can use this ability mid-Swoop\n* * *\n\n**Effect** The pteranodon attempts to fling the struck creature into harm's way. The pteranodon makes an Athletics check check against the target's Fortitude DC.\n\n**Success** The target creature is flung 15 feet in a direction of the pteranodon's choosing and potentially falls or takes damage accordingly. The creature cannot use the [[Actions/Grab an Edge|Grab an Edge]] reaction.\n\n**Failure** The pteranodon fails to move the target creature.\n\n**Critical Failure** As failure, but the pteranodon's clumsy movement leaves it open to attack. The pteranodon's turn ends, and it becomes off-guard until the beginning of its next turn."
 
   - name: "Swoop"
     desc: "`pf2:2`  The pteranodon Flies up to its Speed and makes one beak Strike at any point during that movement."
  
+```
+
+```encounter-table
+name: Cliffhunter Pteranodon
+creatures:
+  - 1: Cliffhunter Pteranodon
 ```
 
 

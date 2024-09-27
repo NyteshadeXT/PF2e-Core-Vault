@@ -13,7 +13,7 @@ license: OGL
 ---
 # Dragonclaw Scutcheon
 ## Item 16
-### [[consumable]][[magical]][[talisman]]
+### [[consumable]][[3-Rules/Rule References/Magical]][[talisman]]
 
 **Category** talisman; 
 **Price** 1600 gp; 

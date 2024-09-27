@@ -11,6 +11,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/fiend
   - pf2e/creature/type/unholy
+  - pf2eMonster
   - pf2e/creature/level/11
 statblock: inline
 name: "Hezrou"
@@ -29,20 +30,20 @@ level: "Creature 11"
 
 alignment: ""
 size: "Large"
-trait_01: "amphibious"
-trait_02: "chaotic"
-trait_03: "demon"
-trait_04: "evil"
-trait_05: "fiend"
-trait_06: "unholy"
+trait_01: [[amphibious]]
+trait_02: [[chaotic]]
+trait_03: [[demon]]
+trait_04: [[evil]]
+trait_05: [[fiend]]
+trait_06: [[unholy]]
 modifier: 21
 perception:
   - name: "Perception"
     desc: "+21; Darkvision"
-languages: "Chthonian, Draconic, Empyrean"
+languages: "Chthonian, Draconic, Empyrean; telepathy 100 feet"
 skills:
   - name: "Skills"
-    desc: "Arcana: +21, Athletics: +24, Intimidation: +23, Stealth: +20 (+24 in swamps)"
+    desc: "Arcana: +21, Athletics: +24, Intimidation: +23, Stealth: +20"
 abilityMods: [7, 3, 6, 4, 5, 4]
 speed: 30 feet,  swim 30 feet
 sourcebook: "_Pathfinder Bestiary 2_"
@@ -64,7 +65,7 @@ abilities_mid:
     desc: " (mental) A hezrou revels in the foulness it exudes and becomes distraught when contaminations are purified. The first time in a round when a contamination is purified (such as via purify food and drink) or a toxin is neutralized (such as via neutralize poison) within 30 feet of a hezrou, the demon takes 6d6 mental damage."
 
   - name: "Stench"
-    desc: " (aura,disease,olfactory) 30 feet. A creature entering the aura or starting its turn in the aura must succeed at a DC 27 Fortitude check save or become [[Conditions/Sickened 1|Sickened 1]] (plus [[Conditions/Slowed 1|Slowed 1]] for as long as itʼs sickened on a critical failure).\nWhile within the aura, affected creatures take a -2 circumstance penalty to saves against disease and to recover from the sickened condition. A creature that succeeds at its save is temporarily immune for 1 minute."
+    desc: " (aura,disease,olfactory) 30 feet. A creature entering the aura or starting its turn in the aura must succeed at a DC 27 Fortitude check save or become [[Conditions/Sickened|Sickened 1]] (plus [[Conditions/Slowed|Slowed 1]] for as long as itʼs sickened on a critical failure).\n\nWhile within the aura, affected creatures take a -2 circumstance penalty to saves against disease and to recover from the sickened condition. A creature that succeeds at its save is temporarily immune for 1 minute."
 
 attacks:
   - name: ""
@@ -82,11 +83,17 @@ attacks:
     desc: "_[[Spells/Demonic Pact|Abyssal Pact]]_, _[[Spells/Blight|Blight]]_"
 
   - name: "Poisonous Pustules"
-    desc: "`pf2:1` (poison) **Requirements** The hezrou is grappling a creature\n**Effect** Toxic fluids spurt from burst boils and weeping wens on the hezrou's body. A creature [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]] by the hezrou takes 2d12 + 6 poison damage (DC 30 Fortitude check save)."
+    desc: "`pf2:1` (poison) **Requirements** The hezrou is grappling a creature\n* * *\n\n**Effect** Toxic fluids spurt from burst boils and weeping wens on the hezrou's body. A creature [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]] by the hezrou takes 2d12+6 poison damage (DC 30 Fortitude check save)."
 
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
     desc: "`pf2:1`  "
  
+```
+
+```encounter-table
+name: Hezrou
+creatures:
+  - 1: Hezrou
 ```
 
 

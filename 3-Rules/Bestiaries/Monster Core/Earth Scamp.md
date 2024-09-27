@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.pathfinder-monster-core.Actor.4n0nhynklrs2iHUJ"
 tags:
   - pf2e/creature/type/earth
   - pf2e/creature/type/elemental
+  - pf2eMonster
   - pf2e/creature/level/1
   - remaster
 statblock: inline
@@ -19,14 +20,15 @@ license: ORC
 columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
+token: [[modules/pf2e-tokens-bestiaries/portraits/elemental/earth/mephit-earth.webp| ]]
 source: "Pathfinder Monster Core"
 name: "Earth Scamp"
 level: "Creature 1"
 
 alignment: ""
 size: "Small"
-trait_01: "earth"
-trait_02: "elemental"
+trait_01: [[earth]]
+trait_02: [[elemental]]
 modifier: 3
 perception:
   - name: "Perception"
@@ -62,8 +64,14 @@ attacks:
     desc: "DC 17, attack +9; __3rd __  _[[Spells/One with Stone|One with Stone]]_; __2nd __  _[[Spells/Enlarge|Enlarge (Self Only)]]_"
 
   - name: "Scree Breath"
-    desc: "`pf2:2` (arcane,earth) The earth scamp breathes rocks in a 15-foot cone that deals 2d6 bludgeoning damage to each creature within the area (DC 17 Reflex check save).\n\nThe earth scamp can't use Scree Breath again for 1d4 rounds."
+    desc: "`pf2:2` (arcane,earth) The earth scamp breathes rocks in a @Template[cone|distance:15] that deals 2d6 bludgeoning damage to each creature within the area (DC 17 Reflex check save).\n\nThe earth scamp can't use Scree Breath again for 1d4 rounds."
  
+```
+
+```encounter-table
+name: Earth Scamp
+creatures:
+  - 1: Earth Scamp
 ```
 
 

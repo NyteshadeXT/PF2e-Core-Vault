@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/gnoll
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/5
 statblock: inline
 name: "Krashk"
@@ -23,13 +24,13 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Adventure: The Enmity Cycle"
 name: "Krashk"
 level: "Creature 5"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Medium"
-trait_01: "chaotic"
-trait_02: "evil"
-trait_03: "gnoll"
-trait_04: "humanoid"
+trait_01: [[chaotic]]
+trait_02: [[evil]]
+trait_03: [[gnoll]]
+trait_04: [[humanoid]]
 modifier: 14
 perception:
   - name: "Perception"
@@ -74,6 +75,12 @@ attacks:
   - name: "[[Bestiary 1/Gnoll Hunter/Rugged Travel|Rugged Travel]]"
     desc: "  Krashk ignores the first square of difficult terrain she moves into each time she Steps or Strides."
  
+```
+
+```encounter-table
+name: Krashk
+creatures:
+  - 1: Krashk
 ```
 
 

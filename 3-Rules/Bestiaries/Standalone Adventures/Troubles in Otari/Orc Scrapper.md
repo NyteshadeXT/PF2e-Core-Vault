@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/humanoid
   - pf2e/creature/type/orc
+  - pf2eMonster
   - pf2e/creature/level/1
 statblock: inline
 name: "Orc Scrapper"
@@ -26,14 +27,15 @@ level: "Creature 1"
 
 alignment: ""
 size: "Medium"
-trait_01: "chaotic"
-trait_02: "evil"
-trait_03: "humanoid"
-trait_04: "orc"
+trait_01: [[chaotic]]
+trait_02: [[evil]]
+trait_03: [[humanoid]]
+trait_04: [[orc]]
 modifier: 6
 perception:
   - name: "Perception"
     desc: "+6; Darkvision"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Athletics: +7, Intimidation: +4, Survival: +4"
@@ -70,6 +72,12 @@ attacks:
   - name: "Ranged"
     desc: "`pf2:1` Javelin +5 (thrown 30 ft.)\n__Damage__  1d6 + 4 piercing"
  
+```
+
+```encounter-table
+name: Orc Scrapper
+creatures:
+  - 1: Orc Scrapper
 ```
 
 

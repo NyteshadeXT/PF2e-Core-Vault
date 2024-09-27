@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/fiend
   - pf2e/creature/type/unholy
+  - pf2eMonster
   - pf2e/creature/level/-1
 statblock: inline
 name: "Fetid Familiar"
@@ -23,17 +24,18 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Society Intro: Year of Boundless Wonder"
 name: "Fetid Familiar"
 level: "Creature -1"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "tiny"
-trait_01: "animal"
-trait_02: "evil"
-trait_03: "fiend"
-trait_04: "unholy"
+trait_01: [[animal]]
+trait_02: [[evil]]
+trait_03: [[fiend]]
+trait_04: [[unholy]]
 modifier: 5
 perception:
   - name: "Perception"
     desc: "+5; Low-Light Vision, Scent (Imprecise) 40 Feet"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Acrobatics: +5, Athletics: +2, Stealth: +5"
@@ -61,8 +63,14 @@ attacks:
     desc: "`pf2:1` Jaws +7 (agile, finesse, unholy)\n__Damage__  1d8 piercing"
 
   - name: "Evil Musk"
-    desc: "`pf2:2` (poison) The fetid familiar propels a stream of acrid musk in a 10-foot line. Each creature in the line must attempt a DC 15 Fortitude check save.\n**Critical Success** The target is unaffected.\n**Success** The target is [[Conditions/Sickened 1|Sickened 1]].\n**Failure** The target is [[Conditions/Sickened 1|Sickened 2]].\n**Critical Failure** The target is [[Conditions/Sickened 1|Sickened 2]] and becomes [[Conditions/Doomed 1|Doomed 1]] until the musk is removed or neutralized, requiring 10 minutes of thorough scrubbing with soap."
+    desc: "`pf2:2` (poison) The fetid familiar propels a stream of acrid musk in a @Template[line|distance:10]. Each creature in the line must attempt a DC 15 Fortitude check save.\n* * *\n\n**Critical Success** The target is unaffected.\n\n**Success** The target is [[Conditions/Sickened|Sickened 1]].\n\n**Failure** The target is [[Conditions/Sickened|Sickened 2]].\n\n**Critical Failure** The target is [[Conditions/Sickened|Sickened 2]] and becomes [[Conditions/Doomed|Doomed 1]] until the musk is removed or neutralized, requiring 10 minutes of thorough scrubbing with soap."
  
+```
+
+```encounter-table
+name: Fetid Familiar
+creatures:
+  - 1: Fetid Familiar
 ```
 
 

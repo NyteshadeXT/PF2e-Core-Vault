@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/construct
   - pf2e/creature/type/golem
   - pf2e/creature/type/mindless
+  - pf2eMonster
   - pf2e/creature/level/12
 statblock: inline
 name: "Fossil Golem"
@@ -23,16 +24,17 @@ token: [[modules/pf2e-tokens-bestiaries/portraits/constructed/golem/fossil-golem
 source: "Pathfinder Bestiary 3"
 name: "Fossil Golem"
 level: "Creature 12"
-rare_03: "Rare"
+rare_03: [[Rare]]
 alignment: ""
 size: "huge"
-trait_01: "construct"
-trait_02: "golem"
-trait_03: "mindless"
+trait_01: [[construct]]
+trait_02: [[golem]]
+trait_03: [[mindless]]
 modifier: 20
 perception:
   - name: "Perception"
     desc: "+20; Darkvision"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Athletics: +20"
@@ -54,7 +56,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "[[Creature Family Ability Glossary/(Golem) Golem Antimagic|Golem Antimagic]]"
-    desc: "  harmed by cold and water (5d10 damage, 2d8 damage from areas or persistent damage); healed by acid (area 2d8 Hit Points); slowed by earth\nA golem is immune to spells and magical abilities other than its own, but each type of golem is affected by a few types of magic in special ways. These exceptions are listed in shortened form in the golem's stat block, with the full rules appearing here. If an entry lists multiple types (such as \"cold and water\"), either type of spell can affect the golem.\n*   **Harmed By** Any magic of this type that targets the golem causes it to take the listed amount of damage (this damage has no type) instead of the usual effect. If the golem starts its turn in an area of magic of this type or is affected by a persistent effect of the appropriate type, it takes the damage listed in the parenthetical.\n*   **Healed By** Any magic of this type that targets the golem makes the golem lose the slowed condition and gain HP equal to half the damage the spell would have dealt. If the golem starts its turn in an area of this type of magic, it gains the HP listed in the parenthetical.\n*   **Slowed By** Any magic of this type that targets the golem causes it to be [[Conditions/Slowed 1|Slowed 1]] for 2d6 rounds instead of the usual effect. If the golem starts its turn in an area of this type of magic, it's slowed 1 for that round.\n*   **Vulnerable To** Each golem is vulnerable to one or more specific spells, with the effects described in its stat block."
+    desc: "  harmed by cold and water (5d10 damage, 2d8 damage from areas or persistent damage); healed by acid (area 2d8 Hit Points); slowed by earth\n* * *\n\nA golem is immune to spells and magical abilities other than its own, but each type of golem is affected by a few types of magic in special ways. These exceptions are listed in shortened form in the golem's stat block, with the full rules appearing here. If an entry lists multiple types (such as \"cold and water\"), either type of spell can affect the golem.\n\n*   **Harmed By** Any magic of this type that targets the golem causes it to take the listed amount of damage (this damage has no type) instead of the usual effect. If the golem starts its turn in an area of magic of this type or is affected by a persistent effect of the appropriate type, it takes the damage listed in the parenthetical.\n*   **Healed By** Any magic of this type that targets the golem makes the golem lose the slowed condition and gain HP equal to half the damage the spell would have dealt. If the golem starts its turn in an area of this type of magic, it gains the HP listed in the parenthetical.\n*   **Slowed By** Any magic of this type that targets the golem causes it to be [[Conditions/Slowed|Slowed 1]] for 2d6 rounds instead of the usual effect. If the golem starts its turn in an area of this type of magic, it's slowed 1 for that round.\n*   **Vulnerable To** Each golem is vulnerable to one or more specific spells, with the effects described in its stat block."
 
   - name: "Vulnerable to Stone to Flesh"
     desc: "  A [[Spells/Stone to Flesh|Stone to Flesh]] spell negates the golem's golem antimagic and its resistance to physical damage for 1 round. A [[Spells/Petrify|Petrify]] spell reverses this effect immediately."
@@ -66,11 +68,17 @@ attacks:
     desc: "`pf2:1` Jaws +26 (deadly d10, magical, reach 15 feet)\n__Damage__  3d10 + 13 piercing plus fossilization"
 
   - name: "Fossilization"
-    desc: " (arcane,incapacitation) The first time each round a creature takes damage from the fossil golem's jaws, the target must attempt a DC 32 Fortitude check save.\nIf it fails and has not already been slowed by this ability, it becomes [[Conditions/Slowed 1|Slowed 1]] for 1 minute. If the creature was already slowed by this ability, a failed save causes it to be [[Conditions/Petrified|Petrified]] permanently."
+    desc: " (arcane,incapacitation) The first time each round a creature takes damage from the fossil golem's jaws, the target must attempt a DC 32 Fortitude check save.\n\nIf it fails and has not already been slowed by this ability, it becomes [[Conditions/Slowed|Slowed 1]] for 1 minute. If the creature was already slowed by this ability, a failed save causes it to be [[Conditions/Petrified|Petrified]] permanently."
 
   - name: "Reassemble"
     desc: "`pf2:1`  The fossil golem reorganizes its bones, increasing its reach to 25 feet and reducing its Speed to 15 feet. It can revert to its original form by taking this action again."
  
+```
+
+```encounter-table
+name: Fossil Golem
+creatures:
+  - 1: Fossil Golem
 ```
 
 

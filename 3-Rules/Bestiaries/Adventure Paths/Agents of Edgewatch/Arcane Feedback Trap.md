@@ -5,6 +5,7 @@ noteType: pf2eHazard
 tags:
   - arcane
   - magical
+  - pf2eHazard
 
 source: Pathfinder #160: Assault on Hunting Lodge Seven
 aliases: "Compendium.pf2e.agents-of-edgewatch-bestiary.Actor.XTHcALqbg5kgxtPw" 
@@ -22,14 +23,14 @@ name: "Arcane Feedback Trap"
 level: "Hazard 13"
 
 
-trait_01: "arcane"
-trait_02: "magical"
+trait_01: [[arcane]]
+trait_02: [[magical]]
 modifier: 25
 sourcebook: "_Pathfinder #160: Assault on Hunting Lodge Seven_"
 ac: 10
 armorclass:
   - name: AC
-    desc: "10; __Fort__ +0, __Ref__ +0, __Will__ +0"
+    desc: "10; "
 hp: 0
 health:
   - name: ""
@@ -51,11 +52,17 @@ attacks:
   - name: ""
 
   - name: "Stone Spike"
-    desc: "`pf2:r` (arcane, earth) **Trigger** A creature in area **E1** casts an arcane spell or uses an arcane ability\n**Effect** The trap makes a stone spike attack against the triggering creature. For the next 1 minute thereafter, the ripples are stronger, giving the trap a +2 circumstance bonus on stone spike Strikes during this time."
+    desc: "`pf2:r` (arcane, earth) **Trigger** A creature in area **E1** casts an arcane spell or uses an arcane ability\n* * *\n\n**Effect** The trap makes a stone spike attack against the triggering creature. For the next 1 minute thereafter, the ripples are stronger, giving the trap a +2 circumstance bonus on stone spike Strikes during this time."
   - name: "Melee"
     desc: "Stone Spike +31 () "
 
 
 
+```
+
+```encounter-table
+name: Arcane Feedback Trap
+creatures:
+  - 1: Arcane Feedback Trap
 ```
 

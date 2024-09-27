@@ -7,6 +7,7 @@ aliases: "Compendium.battlezoo-bestiary-su-pf2e.pf2e-battlezoo-su-actors.Actor.Y
 tags:
   - pf2e/creature/type/construct
   - pf2e/creature/type/mindless
+  - pf2eMonster
   - pf2e/creature/level/8
 statblock: inline
 name: "Iron Houndmaster"
@@ -22,18 +23,19 @@ token: [[modules/battlezoo-bestiary-su-pf2e/art/Portraits/iron-houndmaster.webp|
 source: "Battlezoo Bestiary: Strange and Unusual"
 name: "Iron Houndmaster"
 level: "Creature 8"
-rare_03: "Rare"
+rare_03: [[Rare]]
 alignment: ""
 size: "Medium"
-trait_01: "construct"
-trait_02: "mindless"
+trait_01: [[construct]]
+trait_02: [[mindless]]
 modifier: 20
 perception:
   - name: "Perception"
     desc: "+20; Darkvision"
+languages: ""
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +18, Athletics: +16, Stealth: +16, Survival: +18, "
+    desc: "Acrobatics: +18, Athletics: +16, Stealth: +16, Survival: +18, Acrobatics: +18, Athletics: +16, Stealth: +16, Survival: +18"
 abilityMods: [4, 6, 3, -5, 6, -5]
 speed: 30 feet
 sourcebook: "_Battlezoo Bestiary: Strange and Unusual_"
@@ -61,14 +63,20 @@ attacks:
   - name: ""
 
   - name: "Bring Down"
-    desc: "`pf2:2`  **Requirements** Only the hound half can use this action\n**Effect** The hound performs a metallic fangs Strike. On a hit, it also knocks the target Prone, and on a critical hit, the target takes an additional 1d8 persistent bleed damage."
+    desc: "`pf2:2`  **Requirements** Only the hound half can use this action\n* * *\n\n**Effect** The hound performs a metallic fangs Strike. On a hit, it also knocks the target [[undefined]], and on a critical hit, the target takes an additional 1d8 persistent bleed damage."
 
   - name: "Net Cannon"
-    desc: "`pf2:1` (attack) **Requirements** Only the hound half can use this action\n**Effect** The hound half launches a net at a target within 60 feet. The target attempts a DC 26 Reflex check save.\n**Critical Success** The creature is unaffected.\n**Success** The creature is Off-Guard until the end of the hound's next turn, though it can use an Interact action to end the effect early.\n**Failure** The creature is caught in the net. It is Immobilized and off-guard until it Escapes, with an Escape DC of 26.\n**Critical Failure** As failure, but the creature is also knocked Prone. The iron houndmaster can't use Net Cannon again for 1d4 rounds."
+    desc: "`pf2:1` (attack) **Requirements** Only the hound half can use this action\n* * *\n\n**Effect** The hound half launches a net at a target within 60 feet. The target attempts a DC 26 Reflex check save.\n* * *\n\n**Critical Success** The creature is unaffected.\n\n**Success** The creature is [[undefined]] until the end of the hound's next turn, though it can use an Interact action to end the effect early.\n\n**Failure** The creature is caught in the net. It is [[undefined]] and off-guard until it Escapes, with an [[undefined]] DC of 26.\n\n**Critical Failure** As failure, but the creature is also knocked [[undefined]]. The iron houndmaster can't use Net Cannon again for 1d4 rounds."
 
   - name: "Subduing Strike"
-    desc: "`pf2:2`  **Requirements** Only the master half can use this action\n**Effect** The master makes a melee Strike. On a hit, the target takes the normal damage from the Strike and attempts a DC 23 Fortitude check save; this additional effect has the incapacitation trait.\n**Critical Success** The target is unaffected.\n**Success** The target is Stunned 1.\n**Failure** The target is Stunned 2.\n**Critical Failure** The target is Stunned 4."
+    desc: "`pf2:2`  **Requirements** Only the master half can use this action\n* * *\n\n**Effect** The master makes a melee Strike. On a hit, the target takes the normal damage from the Strike and attempts a DC 23 Fortitude check save; this additional effect has the incapacitation trait.\n* * *\n\n**Critical Success** The target is unaffected.\n\n**Success** The target is [[undefined]].\n\n**Failure** The target is [[undefined]].\n\n**Critical Failure** The target is [[undefined]]."
  
+```
+
+```encounter-table
+name: Iron Houndmaster
+creatures:
+  - 1: Iron Houndmaster
 ```
 
 

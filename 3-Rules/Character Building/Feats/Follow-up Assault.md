@@ -1,16 +1,17 @@
 ---
 obsidianUIMode: preview
-title: "Follow-up Assault"
+title: "Follow-Up Assault"
 cssclasses: pf2e,pf2e-spell
 tags:
   - trait/barbarian
   - trait/rage
   - trait/common
   - category/class
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.9Q0tPGtOawPTU2TU"
-license: OGL
+license: ORC
 ---
-# Follow-up Assault `pf2:1`
+# Follow-Up Assault `pf2:1`
 ## Feat 8
 ### [[barbarian]][[rage]]
 
@@ -23,7 +24,7 @@ license: OGL
 
 * * *
 
-Even in the face of failure you press the attack, determined to succeed. Make a Strike with the same weapon, adding the effects of the backswing and forceful weapon traits.
+Even in the face of failure you press the attack, determined to succeed. Make a Strike with the same weapon, adding the backswing and forceful weapon traits to that Strike.
 
-*Source: Pathfinder Advanced Player's Guide*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

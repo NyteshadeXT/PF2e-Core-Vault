@@ -6,8 +6,9 @@ tags:
   - trait/ratfolk
   - trait/common
   - category/ancestry
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.LAArv2uv6TOkTzQO"
-license: OGL
+license: ORC
 ---
 # Quick Stow (Ratfolk) `pf2:0`
 ## Feat 5
@@ -23,7 +24,7 @@ license: OGL
 
 * * *
 
-You are adept at quickly moving items into your cheek pouches. You [[Actions/Interact|Interact]] to store one held item in your cheek pouches (provided it fits).
+You Interact to store one item you're holding in your cheek pouches (provided it fits).
 
-*Source: Pathfinder Advanced Player's Guide*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

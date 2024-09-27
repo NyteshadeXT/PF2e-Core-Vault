@@ -6,6 +6,7 @@ tags:
   - illusion
   - magical
   - trap
+  - pf2eHazard
   - complex
 source: Pathfinder #187: The Seventh Arch
 aliases: "Compendium.pf2e.gatewalkers-bestiary.Actor.KzQARBhXpizdWcoP" 
@@ -23,15 +24,15 @@ name: "Scholar's Bane"
 level: "Hazard 4"
 
 trait_06: "Complex"
-trait_01: "illusion"
-trait_02: "magical"
-trait_03: "trap"
+trait_01: [[illusion]]
+trait_02: [[magical]]
+trait_03: [[trap]]
 modifier: 14
 sourcebook: "_Pathfinder #187: The Seventh Arch_"
 ac: 20
 armorclass:
   - name: AC
-    desc: "20; __Fort__ +12, __Ref__ +8, __Will__ +0"
+    desc: "20; __Fort__ +12, __Ref__ +8, "
 hp: 20
 health:
   - name: ""
@@ -53,11 +54,17 @@ attacks:
   - name: ""
 
   - name: "Reveal Failure"
-    desc: "`pf2:r` **Trigger** A creature with an Intelligence score of 10 or greater enters the room\n**Effect** The trap fills the triggering creature's mind with shameful memories. The creature must succeed at a DC 22 Will check save or take 2d8 + 2 mental. The trap then rolls initiative."
+    desc: "`pf2:r` **Trigger** A creature with an Intelligence score of 10 or greater enters the room\n* * *\n\n**Effect** The trap fills the triggering creature's mind with shameful memories. The creature must succeed at a DC 22 Will check save or take 2d8+2 mental. The trap then rolls initiative."
 
   - name: "Routine"
-    desc: "(4 actions) The trap uses each action to target a creature in the room with an Intelligence score of 10 or greater. A target must succeed at a DC 22 Will check save or take 2d8 + 2 mental. On a critical failure, the creature takes a –10-foot status penalty to Speed for 1 minute as they stagger under the weight of their failures. The trap loses 1 action for each eye sensor disabled or destroyed."
+    desc: "(4 actions) The trap uses each action to target a creature in the room with an Intelligence score of 10 or greater. A target must succeed at a DC 22 Will check save or take 2d8+2 mental. On a critical failure, the creature takes a –10-foot status penalty to Speed for 1 minute as they stagger under the weight of their failures. The trap loses 1 action for each eye sensor disabled or destroyed."
   - name: "Reset"
     desc: "The trap can function for 10 rounds, which don't need to be consecutive, before it must recharge for 24 hours."
+```
+
+```encounter-table
+name: Scholar's Bane
+creatures:
+  - 1: Scholar's Bane
 ```
 

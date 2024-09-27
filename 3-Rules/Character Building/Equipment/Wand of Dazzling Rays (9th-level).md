@@ -13,7 +13,7 @@ license: OGL
 ---
 # Wand of Dazzling Rays (9th-level)
 ## Item 20
-### [[fire]][[3-Rules/Character Building/Spells/Light]][[magical]][[wand]]
+### [[fire]][[light]][[magical]][[wand]]
 
 
 **Price** 70000 gp; 

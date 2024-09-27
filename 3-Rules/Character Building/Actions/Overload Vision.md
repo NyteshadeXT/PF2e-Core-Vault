@@ -11,7 +11,7 @@ license: OGL
 ---
 # Overload Vision `pf2:r`
 
-### [[concentrate]]
+### [[3-Rules/Rule References/Concentrate]]
 
 **Category** defensive; 
 

@@ -5,6 +5,7 @@ noteType: pf2eHazard
 tags:
   - mechanical
   - trap
+  - pf2eHazard
 
 source: Pathfinder Adventure: Rusthenge
 aliases: "Compendium.pf2e.rusthenge-bestiary.Actor.h6yNkGx8q5ITD3a3" 
@@ -22,8 +23,8 @@ name: "Rusty Floor Spikes"
 level: "Hazard 2"
 
 
-trait_01: "mechanical"
-trait_02: "trap"
+trait_01: [[mechanical]]
+trait_02: [[trap]]
 modifier: 8
 sourcebook: "_Pathfinder Adventure: Rusthenge_"
 perception:
@@ -42,15 +43,21 @@ attacks:
   - name: ""
 
   - name: "Spring Up"
-    desc: "`pf2:r` (attack) **Trigger** A creature steps on the pressure plate\n**Effect** The spikes spring up, Striking all creatures in the hallway. The floor becomes greater difficult terrain."
+    desc: "`pf2:r` (attack) **Trigger** A creature steps on the pressure plate\n* * *\n\n**Effect** The spikes spring up, Striking all creatures in the hallway. The floor becomes greater difficult terrain."
   - name: "Melee"
     desc: "Rusty Spike +11 () "
 
   - name: "Tetanus"
-    desc: "passive (disease) An infection introduced through open wounds, tetanus can produce stiffness, muscle spasms strong enough to break bones, and ultimately death.\n**Saving Throw** DC 14 Fortitude check\n**Onset** 10 days\n**Stage 1** [[Conditions/Clumsy 1|Clumsy 1]] (1 week)\n**Stage 2** [[Conditions/Clumsy 1|Clumsy 2]] and can't speak (1 day)\n**Stage 3** [[Conditions/Paralyzed|Paralyzed]] with spasms (1 day)\n**Stage 4** death"
+    desc: "passive (disease) An infection introduced through open wounds, tetanus can produce stiffness, muscle spasms strong enough to break bones, and ultimately death.\n\n**Saving Throw** DC 14 Fortitude check\n\n**Onset** 10 days\n\n**Stage 1** [[Conditions/Clumsy|Clumsy 1]] (1 week)\n\n**Stage 2** [[Conditions/Clumsy|Clumsy 2]] and can't speak (1 day)\n\n**Stage 3** [[Conditions/Paralyzed|Paralyzed]] with spasms (1 day)\n\n**Stage 4** death"
 
 
   - name: "Reset"
     desc: "Turn the resetting wheel in the eastern Inner Guard Station (area **C8b**)."
+```
+
+```encounter-table
+name: Rusty Floor Spikes
+creatures:
+  - 1: Rusty Floor Spikes
 ```
 

@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/aberration
   - pf2e/creature/type/dragon
   - pf2e/creature/type/evil
+  - pf2eMonster
   - pf2e/creature/level/4
 statblock: inline
 name: "Shadowless House Drake"
@@ -23,12 +24,12 @@ token: [[modules/battlezoo-bestiary-pf2e/art/shadowless_house_drake.webp| ]]
 source: "Battlezoo Bestiary"
 name: "Shadowless House Drake"
 level: "Creature 4"
-rare_03: "Rare"
+rare_03: [[Rare]]
 alignment: ""
 size: "Small"
-trait_01: "aberration"
-trait_02: "dragon"
-trait_03: "evil"
+trait_01: [[aberration]]
+trait_02: [[dragon]]
+trait_03: [[evil]]
 modifier: 11
 perception:
   - name: "Perception"
@@ -36,7 +37,7 @@ perception:
 languages: "Aklo, Common, Draconic"
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +12, Arcana: +13, Stealth: +12, Thievery: +12, "
+    desc: "Acrobatics: +12, Arcana: +13, Stealth: +12, Thievery: +12"
 abilityMods: [2, 4, 3, 5, 3, 4]
 speed: 15 feet,  fly 50 feet
 sourcebook: "_Battlezoo Bestiary_"
@@ -68,11 +69,17 @@ attacks:
     desc: "DC 21, attack +11; __2nd __ (1 slots) _[[Spells/Darkness|Darkness]]_; __1st __ (2 slots) _[[Spells/Charm|Charm]]_, _[[Spells/Fear|Fear]]_\n__Cantrips__  __(2nd)__ _[[Spells/Daze|Daze]]_, _[[Spells/Telekinetic Projectile|Telekinetic Projectile]]_"
 
   - name: "Breath Weapon"
-    desc: "`pf2:2` (arcane) The shadowless house drake breathes a cloud of dark vapor in a 10-foot cone that deals 5d6 void damage (basic Reflex save). A creature that fails or critically fails the save is exposed to cosmic blight.\nThe shadowless drake can't use Breath Weapon again for 1d4 rounds."
+    desc: "`pf2:2` (arcane) The shadowless house drake breathes a cloud of dark vapor in a 10-foot cone that deals 5d6 void damage (DC 21 basic Reflex save). A creature that fails or critically fails the save is exposed to cosmic blight.\n\nThe shadowless drake can't use Breath Weapon again for 1d4 rounds."
 
   - name: "Cosmic Blight"
-    desc: " (disease) **Saving Throw** Fortitude;\n**Stage 1** carrier with no ill effect (1 week);\n**Stage 2** 1d6 mental damage, 2d6 void damage and Stupefied 1 (1 day);\n**Stage 3** 2d6 mental damage, 4d6 void damage and Stupefied 2 (1 day);\n**Stage 4** Unconscious and gains no benefit from healing magic (1 day);\n**Stage 5** dead"
+    desc: " (disease) **Saving Throw** DC 19 Fortitude;\n* * *\n\n**Stage 1** carrier with no ill effect (1 week);\n\n**Stage 2** 1d6 mental damage, 2d6 void damage and [[Conditions/Stupefied|Stupefied 1]] (1 day);\n\n**Stage 3** 2d6 mental damage, 4d6 void damage and [[Conditions/Stupefied|Stupefied 2]] (1 day);\n\n**Stage 4** [[Conditions/Unconscious|Unconscious]] and gains no benefit from healing magic (1 day);\n\n**Stage 5** dead"
  
+```
+
+```encounter-table
+name: Shadowless House Drake
+creatures:
+  - 1: Shadowless House Drake
 ```
 
 
@@ -85,7 +92,7 @@ The transformed house drake's appearance is what gives these creatures their mon
 
 ## Worlds of Potential
 
-Like typical House Drakes, shadowless house drakes are almost exclusively found in certain cosmopolitan cities. Unlike their mundane brethren, however, these shadowy dragons are not bound to just one planet. Indeed, their bizarre interactions with the greater cosmos has planted descendants of the original shadowless house drakes on every celestial body in the solar system.
+Like typical [[Bestiary 3/House Drake|House Drakes]], shadowless house drakes are almost exclusively found in certain cosmopolitan cities. Unlike their mundane brethren, however, these shadowy dragons are not bound to just one planet. Indeed, their bizarre interactions with the greater cosmos has planted descendants of the original shadowless house drakes on every celestial body in the solar system.
 
 ## Monster Part Subsystem
 

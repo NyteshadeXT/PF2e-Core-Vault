@@ -11,7 +11,7 @@ license: OGL
 ---
 # Everywhen Map
 ## Item 8
-### [rare](rare "Rare Rarity Trait")[[invested]][[magical]]
+### [rare](rare.md "Rare Rarity Trait")[[invested]][[3-Rules/Rule References/Magical]]
 
 
 **Price** 500 gp; 

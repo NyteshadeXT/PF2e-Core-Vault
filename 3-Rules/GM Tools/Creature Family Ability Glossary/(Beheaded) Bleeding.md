@@ -17,7 +17,7 @@ license: OGL
 
 
 
-The beheaded is covered in slimy blood. The target of a successful Strike is splattered with gore and must succeed at a Fortitude check save or become [[Conditions/Sickened 1|Sickened 1]].
+The beheaded is covered in slimy blood. The target of a successful Strike is splattered with gore and must succeed at a Fortitude check save or become [[Conditions/Sickened|Sickened 1]].
 
 *Source: Pathfinder Bestiary 3*
 *OGL*

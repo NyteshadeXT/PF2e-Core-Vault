@@ -10,6 +10,7 @@ tags:
   - pf2e/creature/type/human
   - pf2e/creature/type/humanoid
   - pf2e/creature/type/nephilim
+  - pf2eMonster
   - pf2e/creature/level/10
 statblock: inline
 name: "Vharnev the Butcher"
@@ -24,14 +25,14 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #190: The Choosing"
 name: "Vharnev the Butcher"
 level: "Creature 10"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Medium"
-trait_01: "chaotic"
-trait_02: "evil"
-trait_03: "human"
-trait_04: "humanoid"
-trait_05: "nephilim"
+trait_01: [[chaotic]]
+trait_02: [[evil]]
+trait_03: [[human]]
+trait_04: [[humanoid]]
+trait_05: [[nephilim]]
 modifier: 14
 perception:
   - name: "Perception"
@@ -62,7 +63,7 @@ abilities_mid:
     desc: "`pf2:r`  "
 
   - name: "Defensive Charm"
-    desc: "`pf2:r` (arcane,manipulate) **Trigger** Vharnev is the target of a ranged attack\n**Effect** Vharnev quickly traces a defensive rune between himself and the source of the ranged attack, giving him a +2 circumstance bonus to AC against the triggering attack."
+    desc: "`pf2:r` (arcane,manipulate) **Trigger** Vharnev is the target of a ranged attack\n* * *\n\n**Effect** Vharnev quickly traces a defensive rune between himself and the source of the ranged attack, giving him a +2 circumstance bonus to AC against the triggering attack."
 
 attacks:
   - name: ""
@@ -85,6 +86,12 @@ attacks:
   - name: "Uniila Witch Token"
     desc: "  Vharnev bears the uniila's witch token in the form of an amulet with Mahathallah's rune-ringed eye symbol. Vharnev's spells lower than 5th level count as 1 level higher for the purpose of being counteracted and counteracting other spells. Once per day, Vharnev can activate the token to cast [[Spells/Confusion|Confusion]] (DC 29)."
  
+```
+
+```encounter-table
+name: Vharnev the Butcher
+creatures:
+  - 1: Vharnev the Butcher
 ```
 
 

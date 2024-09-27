@@ -13,7 +13,7 @@ license: OGL
 ---
 # Baleblood Draft
 ## Item 10
-### [rare](rare "Rare Rarity Trait")[[alchemical]][[consumable]][[elixir]]
+### [rare](rare.md "Rare Rarity Trait")[[alchemical]][[consumable]][[elixir]]
 
 **Category** elixir; 
 **Price** 155 gp; 

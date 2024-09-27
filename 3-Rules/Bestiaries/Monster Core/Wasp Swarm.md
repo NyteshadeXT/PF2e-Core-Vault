@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.pathfinder-monster-core.Actor.h7je8nkscJQ2Ac8j"
 tags:
   - pf2e/creature/type/animal
   - pf2e/creature/type/swarm
+  - pf2eMonster
   - pf2e/creature/level/4
   - remaster
 statblock: inline
@@ -26,8 +27,8 @@ level: "Creature 4"
 
 alignment: ""
 size: "Large"
-trait_01: "animal"
-trait_02: "swarm"
+trait_01: [[animal]]
+trait_02: [[swarm]]
 modifier: 10
 perception:
   - name: "Perception"
@@ -60,8 +61,14 @@ attacks:
     desc: "`pf2:1`  Each enemy in the swarm's space takes 2d8 piercing damage (DC 21 Reflex check save). A creature that fails its save is also exposed to wasp venom."
 
   - name: "Wasp Venom"
-    desc: " (poison) **Saving Throw** DC 21 Fortitude check\n* * *\n\n**Maximum Duration** 6 rounds\n\n**Stage 1** 1d6 poison (1 round)\n\n**Stage 2** 2d6 poison and [[Conditions/Clumsy 1|Clumsy 2]] (2 rounds)"
+    desc: " (poison) **Saving Throw** DC 21 Fortitude check\n* * *\n\n**Maximum Duration** 6 rounds\n\n**Stage 1** 1d6 poison (1 round)\n\n**Stage 2** 2d6 poison and [[Conditions/Clumsy|Clumsy 2]] (2 rounds)"
  
+```
+
+```encounter-table
+name: Wasp Swarm
+creatures:
+  - 1: Wasp Swarm
 ```
 
 

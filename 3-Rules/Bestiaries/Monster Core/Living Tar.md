@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.pathfinder-monster-core.Actor.EWYXtfIQYhUbWK4R"
 tags:
   - pf2e/creature/type/mindless
   - pf2e/creature/type/ooze
+  - pf2eMonster
   - pf2e/creature/level/7
   - remaster
 statblock: inline
@@ -19,14 +20,15 @@ license: ORC
 columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
+token: [[modules/pf2e-tokens-bestiaries/portraits/aberrant/ooze/black-pudding.webp| ]]
 source: "Pathfinder Monster Core"
 name: "Living Tar"
 level: "Creature 7"
 
 alignment: ""
 size: "huge"
-trait_01: "mindless"
-trait_02: "ooze"
+trait_01: [[mindless]]
+trait_02: [[ooze]]
 modifier: 9
 perception:
   - name: "Perception"
@@ -65,7 +67,7 @@ attacks:
     desc: "`pf2:1` Pseudopod +18 (reach 10 feet)\n__Damage__  2d6 acid plus grab 2d8 + 7 bludgeoning plus grab"
 
   - name: "[[Bestiary Ability Glossary/Constrict|Constrict]]"
-    desc: "`pf2:1`  1d8 + 7 bludgeoning + 1d6 acid, DC 26 Fortitude check\n\n* * *\n"
+    desc: "`pf2:1`  1d8+7 bludgeoning + 1d6 acid, DC 26 Fortitude check\n\n* * *\n"
 
   - name: "[[Bestiary Ability Glossary/Engulf|Engulf]]"
     desc: "`pf2:2`  DC 22 Reflex check, 4d6 acid damage, [[/act escape dc=22]], Rupture 15\n\n* * *\n"
@@ -73,6 +75,12 @@ attacks:
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
     desc: "`pf2:1`  "
  
+```
+
+```encounter-table
+name: Living Tar
+creatures:
+  - 1: Living Tar
 ```
 
 

@@ -6,12 +6,13 @@ tags:
   - trait/exploration
   - trait/manipulate
   - trait/common
+  - remaster
 aliases: "Compendium.pf2e.actionspf2e.Item.UAaQk93a30nx0nYY"
-license: OGL
+license: ORC
 ---
 # Affix a Talisman
 
-### [[exploration]][[manipulate]]
+### [[exploration]][[3-Rules/Rule References/Manipulate]]
 
 
 
@@ -22,7 +23,7 @@ license: OGL
 
 * * *
 
-You spend 10 minutes affixing a talisman to an item, placing the item on a stable surface and using the repair kit with both hands. You can also use this activity to remove a talisman. If more than one talisman is affixed to an item, the talismans are suppressed; none of them can be activated.
+You spend 10 minutes affixing a talisman to an item, placing the item on a stable surface and using the repair toolkit with both hands. You can also use this activity to remove a talisman. Attaching more than one talisman to an item deactivates all the talismans. They must be removed and re-affixed before they can be used again.
 
-*Source: Pathfinder Core Rulebook*
-*OGL*
+*Source: Pathfinder GM Core*
+*ORC*

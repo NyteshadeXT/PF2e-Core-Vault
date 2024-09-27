@@ -5,6 +5,7 @@ noteType: pf2eHazard
 tags:
   - magical
   - trap
+  - pf2eHazard
   - complex
 source: Pathfinder Adventure: Crown of the Kobold King
 aliases: "Compendium.pf2e.crown-of-the-kobold-king-bestiary.Actor.A3WeZVWuDHp7aUSB" 
@@ -22,14 +23,14 @@ name: "Explosive Crystal Spheres"
 level: "Hazard 6"
 
 trait_06: "Complex"
-trait_01: "magical"
-trait_02: "trap"
+trait_01: [[magical]]
+trait_02: [[trap]]
 modifier: 5
 sourcebook: "_Pathfinder Adventure: Crown of the Kobold King_"
 ac: 24
 armorclass:
   - name: AC
-    desc: "24; __Fort__ +11, __Ref__ +17, __Will__ +0"
+    desc: "24; __Fort__ +11, __Ref__ +17, "
 hp: 54
 health:
   - name: ""
@@ -51,10 +52,16 @@ attacks:
   - name: ""
 
   - name: "Manifest Crystal Sphere"
-    desc: "`pf2:r` **Trigger** Three or more creatures remain in the Outer Ring for 6 seconds or longer;\n**Effect** Six spheres of crystal, each measuring 2 feet in diameter, manifest from thin air and begin quickly floating toward intruders. A sphere manifests at each of the points on the map indicated with a small numeral (labeled 1 through 6); the trap then rolls initiative."
+    desc: "`pf2:r` **Trigger** Three or more creatures remain in the Outer Ring for 6 seconds or longer;\n\n**Effect** Six spheres of crystal, each measuring 2 feet in diameter, manifest from thin air and begin quickly floating toward intruders. A sphere manifests at each of the points on the map indicated with a small numeral (labeled 1 through 6); the trap then rolls initiative."
 
   - name: "Routine"
     desc: "(6 actions) On each of the trap's actions, a crystal sphere that hasn't yet taken an action during the turn either flies 25 feet toward the closest creature in the Outer Ring (if no creature is within 25 feet), or it attacks a visible creature within 25 feet (the crystal spheres can sense targets via darkvision). If a crystal sphere attacks a target, that target takes 1d6 force damage (DC 24 Reflex check) as the sphere hits them and bursts. A creature can be attacked by multiple spheres in a turn, but a sphere always targets the closest target. Once a sphere attacks and bursts, it vanishes but respawns at its spawn point at the start of the next turn and continues its routine. A sphere that has been destroyed or had its spawn point disabled vanishes and doesn't continue to respawn and attack, and the trap loses 1 action for each sphere destroyed or disabled in this way."
 
+```
+
+```encounter-table
+name: Explosive Crystal Spheres
+creatures:
+  - 1: Explosive Crystal Spheres
 ```
 

@@ -20,7 +20,7 @@ license: ORC
 
 A _greater vitalizing_ weapon pulses with vital energy, dealing an extra 2d6 persistent vitality damage to undead.
 
-On a critical hit, the undead creature is [[Conditions/Enfeebled 1|Enfeebled 1]] and [[Conditions/Stupefied 1|Stupefied 1]] as long as it has the persistent damage from this rune.
+On a critical hit, the undead creature is [[Conditions/Enfeebled|Enfeebled 1]] and [[Conditions/Stupefied|Stupefied 1]] as long as it has the persistent damage from this rune.
 
 *Source: Pathfinder GM Core*
 *ORC*

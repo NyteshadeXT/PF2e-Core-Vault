@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/elf
   - pf2e/creature/type/good
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/7
 statblock: inline
 name: "Ilverani Sentry"
@@ -23,13 +24,13 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #189: Dreamers of the Nameless Spires"
 name: "Ilverani Sentry"
 level: "Creature 7"
-rare_03: "Rare"
+rare_03: [[Rare]]
 alignment: ""
 size: "Medium"
-trait_01: "chaotic"
-trait_02: "elf"
-trait_03: "good"
-trait_04: "humanoid"
+trait_01: [[chaotic]]
+trait_02: [[elf]]
+trait_03: [[good]]
+trait_04: [[humanoid]]
 modifier: 17
 perception:
   - name: "Perception"
@@ -37,7 +38,7 @@ perception:
 languages: "Common, Elven, Erutaki"
 skills:
   - name: "Skills"
-    desc: "Arctic Lore: +13, Intimidation: +11, Nature: +17, Stealth: +17, Survival: +17"
+    desc: "Intimidation: +11, Nature: +17, Stealth: +17, Survival: +17, Arctic Lore: +13"
 abilityMods: [4, 4, 2, 1, 4, 0]
 speed: 25 feet
 sourcebook: "_Pathfinder #189: Dreamers of the Nameless Spires_"
@@ -74,6 +75,12 @@ attacks:
   - name: "Hunt Prey"
     desc: "`pf2:1` (concentrate) The Ilverani sentry designates a single creature they can see and hear, or one they're Tracking, as their prey. The sentry gains a +2 circumstance bonus to Perception checks to [[Actions/Seek|Seek]] the prey and to Survival checks to [[Actions/Track|Track]] the prey. The first time the sentry hits the designated prey in a round, they deal an additional 1d8 precision damage. The sentry ignores the penalty for making ranged attacks within their second range increment. These effects last until the sentry uses Hunt Prey again."
  
+```
+
+```encounter-table
+name: Ilverani Sentry
+creatures:
+  - 1: Ilverani Sentry
 ```
 
 

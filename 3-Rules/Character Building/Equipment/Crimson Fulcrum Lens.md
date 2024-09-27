@@ -11,7 +11,7 @@ license: OGL
 ---
 # Crimson Fulcrum Lens
 ## Item 9
-### [unique](unique "Unique Rarity Trait")[[invested]][[occult]]
+### [unique](unique.md "Unique Rarity Trait")[[invested]][[3-Rules/Rule References/Occult]]
 
 
 **Price** 700 gp; 

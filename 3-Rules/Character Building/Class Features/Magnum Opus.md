@@ -12,7 +12,7 @@ license: ORC
 ---
 # Magnum Opus
 ## Feat 19
-### [[bard]]
+### [[3-Rules/trait_reference/bard]]
 
 **Category** classfeature; 
 

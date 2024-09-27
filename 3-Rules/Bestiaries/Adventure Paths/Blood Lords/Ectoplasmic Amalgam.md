@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/undead
   - pf2e/creature/type/unholy
+  - pf2eMonster
   - pf2e/creature/level/15
 statblock: inline
 name: "Ectoplasmic Amalgam"
@@ -23,18 +24,18 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #186: Ghost King&#x27;s Rage"
 name: "Ectoplasmic Amalgam"
 level: "Creature 15"
-rare_03: "Rare"
+rare_03: [[Rare]]
 alignment: ""
 size: "Large"
-trait_01: "chaotic"
-trait_02: "evil"
-trait_03: "undead"
-trait_04: "unholy"
+trait_01: [[chaotic]]
+trait_02: [[evil]]
+trait_03: [[undead]]
+trait_04: [[unholy]]
 modifier: 25
 perception:
   - name: "Perception"
     desc: "+25; Darkvision"
-languages: "Necril"
+languages: "Necril; (can&#x27;t speak any language)"
 skills:
   - name: "Skills"
     desc: "Acrobatics: +27, Athletics: +29, Stealth: +27"
@@ -65,14 +66,20 @@ attacks:
     desc: "`pf2:1` Ectoplasm +28 (range increment 60 feet)\n__Damage__  3d12 + 10 bludgeoning plus overwhelming-ectoplasm"
 
   - name: "Overwhelming Ectoplasm"
-    desc: "  An ectoplasmic amalgam's Strikes affect incorporeal creatures with the effects of a _[[Equipment/Ghost Touch|Ghost Touch]]_ property rune. A creature damaged by an ectoplasmic amalgam's Strikes is [[Conditions/Stunned 1|Stunned 1]] unless they succeed at a DC 36 Fortitude check save, as the thoughts and emotions of the amalgam's constituent souls invade their mind."
+    desc: "  An ectoplasmic amalgam's Strikes affect incorporeal creatures with the effects of a _[[Equipment/Ghost Touch|Ghost Touch]]_ property rune. A creature damaged by an ectoplasmic amalgam's Strikes is [[Conditions/Stunned|Stunned 1]] unless they succeed at a DC 36 Fortitude check save, as the thoughts and emotions of the amalgam's constituent souls invade their mind."
 
   - name: "Pummeling Barrage"
     desc: "`pf2:3`  The ectoplasmic amalgam attempts a melee Strike against each enemy within the amalgam's melee reach. Each attack counts toward the amalgam's multiple attack penalty but don't increase the amalgam's penalty until it has made all its attacks."
 
   - name: "Spew Ectoplasm"
-    desc: "`pf2:2` (divine) The ectoplasmic amalgam releases a burst of ectoplasm that deals 16d6 bludgeoning damage in a 60-foot cone (DC 36 Reflex check). On a failed save, a creature is additionally [[Conditions/Stunned 1|Stunned 1]] (or [[Conditions/Stunned 1|Stunned 2]] on a critical failure). Spew Ectoplasm functions as a force effect for the purposes of affecting incorporeal creatures. The ectoplasmic amalgam can't use Spew Ectoplasm again for 1d4 rounds."
+    desc: "`pf2:2` (divine) The ectoplasmic amalgam releases a burst of ectoplasm that deals 16d6 bludgeoning damage in a @Template[cone|distance:60] (DC 36 Reflex check). On a failed save, a creature is additionally [[Conditions/Stunned|Stunned 1]] (or [[Conditions/Stunned|Stunned 2]] on a critical failure). Spew Ectoplasm functions as a force effect for the purposes of affecting incorporeal creatures. The ectoplasmic amalgam can't use Spew Ectoplasm again for 1d4 rounds."
  
+```
+
+```encounter-table
+name: Ectoplasmic Amalgam
+creatures:
+  - 1: Ectoplasmic Amalgam
 ```
 
 

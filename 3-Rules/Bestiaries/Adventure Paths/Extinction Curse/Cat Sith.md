@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.extinction-curse-bestiary.Actor.7p4RWS26W5k6vCkH"
 tags:
   - pf2e/creature/type/chaotic
   - pf2e/creature/type/fey
+  - pf2eMonster
   - pf2e/creature/level/6
 statblock: inline
 name: "Cat Sith"
@@ -21,16 +22,16 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #153: Life&#x27;s Long Shadows"
 name: "Cat Sith"
 level: "Creature 6"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "tiny"
-trait_01: "chaotic"
-trait_02: "fey"
+trait_01: [[chaotic]]
+trait_02: [[fey]]
 modifier: 14
 perception:
   - name: "Perception"
     desc: "+14; Low-Light Vision"
-languages: "Fey"
+languages: "Fey; speak with animals"
 skills:
   - name: "Skills"
     desc: "Acrobatics: +15, Deception: +15, Stealth: +15"
@@ -52,7 +53,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Ill Omen"
-    desc: " (aura,curse,misfortune,occult) 60 feet. Any creature within the area that can see the cat sith must succeed at a DC 21 Will check save or become struck by an ill omen. On a failure, the creature becomes immune to fortune effects as long as it remains in the aura and for 1 minute thereafter. On a critical failure, the creature takes a -1 penalty to attack rolls, skill checks, and saving throws while within the ill omen aura and becomes immune to fortune effects for 1 day.\n[[Bestiary Effects/Effect_ Ill Omen|Effect: Ill Omen]]"
+    desc: " (aura,curse,misfortune,occult) 60 feet. Any creature within the area that can see the cat sith must succeed at a DC 21 Will check save or become struck by an ill omen. On a failure, the creature becomes immune to fortune effects as long as it remains in the aura and for 1 minute thereafter. On a critical failure, the creature takes a -1 penalty to attack rolls, skill checks, and saving throws while within the ill omen aura and becomes immune to fortune effects for 1 day.\n\n[[Bestiary Effects/Effect_ Ill Omen|Effect: Ill Omen]]"
 
 attacks:
   - name: ""
@@ -67,11 +68,17 @@ attacks:
     desc: "DC 23, attack +15; __2nd __ (2 slots) _[[Spells/Humanoid Form|Humanoid Form (At Will)]]_, _[[Spells/Paranoia|Paranoia (x2)]]_"
 
   - name: "Cat Sith's Mark"
-    desc: " (curse,misfortune) A creature hit by a cat sith's claw must succeed at a DC 23 Will check save or be cursed with misfortune. Whenever the cursed creature rolls a critical success on a skill check or saving throw, it gets a success instead. Each day, a cursed creature can attempt a DC 10 Flat check check to break the curse.\n[[Bestiary Effects/Effect_ Cat Sith's Mark|Effect: Cat Sith's Mark]]"
+    desc: " (curse,misfortune) A creature hit by a cat sith's claw must succeed at a DC 23 Will check save or be cursed with misfortune. Whenever the cursed creature rolls a critical success on a skill check or saving throw, it gets a success instead. Each day, a cursed creature can attempt a DC 10 Flat check check to break the curse.\n* * *\n\n[[Bestiary Effects/Effect_ Cat Sith's Mark|Effect: Cat Sith's Mark]]"
 
   - name: "Steal Soul"
     desc: "`pf2:2` (occult) The cat sith touches a dying creature or a creature that died within the past 3 days. If the target is a dying creature, it must attempt a DC 25 Fortitude check save; on a failure, its dying value increases by 1 (or 2 on a critical failure). If the target is dead, it receives no save and its soul is imprisoned in the cat sith's body, becoming freed only if the cat sith is slain. While the soul is imprisoned, the creature can't be brought back to life by any means short of a [[Spells/Wish|Wish]] or [[Spells/Miracle|Miracle]]. The cat sith can hold only one soul at a time and can release a soul as a free action."
  
+```
+
+```encounter-table
+name: Cat Sith
+creatures:
+  - 1: Cat Sith
 ```
 
 

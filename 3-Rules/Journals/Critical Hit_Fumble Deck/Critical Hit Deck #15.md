@@ -8,7 +8,7 @@ tags:
 ---
 # Numbing Blow
 
-> Normal damage. **Crit Effect:** The target is [[Conditions/Clumsy 1|Clumsy 1]] for 1 minute and must succeed at a Reflex check or drop one item it holds at random.
+> Normal damage. **Crit Effect:** The target is [[Conditions/Clumsy|Clumsy 1]] for 1 minute and must succeed at a Reflex check or drop one item it holds at random.
 
 `Bludgeoning`
 

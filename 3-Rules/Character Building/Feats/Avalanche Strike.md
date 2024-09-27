@@ -7,8 +7,9 @@ tags:
   - trait/flourish
   - trait/common
   - category/class
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.SGgK4BoUooA0HhTj"
-license: OGL
+license: ORC
 ---
 # Avalanche Strike `pf2:3`
 ## Feat 16
@@ -24,7 +25,7 @@ license: OGL
 
 * * *
 
-You attack all nearby adversaries. Make a melee Strike with the required weapon against each enemy within your melee reach. Each attack counts toward your multiple attack penalty, but don't increase your penalty until you have made all your attacks.
+You attack all nearby adversaries. Make a melee Strike with your two-handed weapon against each enemy within its melee reach. Each attack counts toward your multiple attack penalty, but don't increase your penalty until you have made all your attacks.
 
-*Source: Pathfinder Advanced Player's Guide*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

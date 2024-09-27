@@ -4,6 +4,7 @@ obsidianUIMode: preview
 noteType: pf2eHazard
 tags:
   - haunt
+  - pf2eHazard
   - complex
 source: Pathfinder #177: Burning Tundra
 aliases: "Compendium.pf2e.quest-for-the-frozen-flame-bestiary.Actor.tKCrebehC0sHvvE2" 
@@ -21,13 +22,13 @@ name: "Spectral Archers"
 level: "Hazard 8"
 
 trait_06: "Complex"
-trait_01: "haunt"
+trait_01: [[haunt]]
 modifier: 28
 sourcebook: "_Pathfinder #177: Burning Tundra_"
 ac: 10
 armorclass:
   - name: AC
-    desc: "10; __Fort__ +0, __Ref__ +0, __Will__ +0"
+    desc: "10; "
 hp: 0
 health:
   - name: ""
@@ -49,18 +50,24 @@ attacks:
   - name: ""
 
   - name: "Rain of Bolts"
-    desc: "`pf2:r` **Trigger** A creature attacks the graveknights in area **G1** or enters the castle\n**Effect** The haunt makes a spectral bolt Strike against the triggering creature, then rolls initiative."
+    desc: "`pf2:r` **Trigger** A creature attacks the graveknights in area **G1** or enters the castle\n* * *\n\n**Effect** The haunt makes a spectral bolt Strike against the triggering creature, then rolls initiative."
 
   - name: "Routine"
     desc: "action (1 action) The hazard fires one bolt at every creature in a 30-foot-by-30-foot area in front of the gate as 1 action. Because the spectral archers fire bolts continuously, the haunt can also use the Continuous Barrage free action (below) to fire bolts at each creature during that creature's turn."
 
   - name: "Continuous Barrage"
-    desc: "`pf2:0` **Trigger** A creature in front of the gate finishes an action\n**Effect** The haunt makes a spectral bolt Strike against the triggering creature."
+    desc: "`pf2:0` **Trigger** A creature in front of the gate finishes an action\n* * *\n\n**Effect** The haunt makes a spectral bolt Strike against the triggering creature."
   - name: "Melee"
     desc: "Spectral Bolt +20 () No multiple attack penalty."
 
 
   - name: "Reset"
     desc: "The haunt vanishes permanently if the graveknights are destroyed. Otherwise, it returns after 1 hour."
+```
+
+```encounter-table
+name: Spectral Archers
+creatures:
+  - 1: Spectral Archers
 ```
 

@@ -9,7 +9,7 @@ license: OGL
 ---
 # Cunning
 ## Item 5
-### [uncommon](uncommon "Uncommon Rarity Trait")
+### [uncommon](uncommon.md "Uncommon Rarity Trait")
 
 
 **Price** 140 gp; 

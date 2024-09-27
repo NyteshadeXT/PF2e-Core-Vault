@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/human
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/10
 statblock: inline
 name: "Norgorberite Spy"
@@ -25,9 +26,9 @@ level: "Creature 10"
 
 alignment: ""
 size: "Medium"
-trait_01: "evil"
-trait_02: "human"
-trait_03: "humanoid"
+trait_01: [[evil]]
+trait_02: [[human]]
+trait_03: [[humanoid]]
 modifier: 18
 perception:
   - name: "Perception"
@@ -58,7 +59,7 @@ abilities_mid:
     desc: "  When the Norgorberite spy successfully [[Actions/Feint|Feints]] a creature, the target is [[Conditions/Off-Guard|Off-Guard]] against the spy's ranged attacks as well as melee attacks."
 
   - name: "Reaper's Protection"
-    desc: "`pf2:r` (manipulate) **Trigger** The spy is about to attempt a saving throw\n**Effect** The spy touches their religious symbol of Norgorber and gains a +2 circumstance bonus to the triggering save."
+    desc: "`pf2:r` (manipulate) **Trigger** The spy is about to attempt a saving throw\n* * *\n\n**Effect** The spy touches their religious symbol of Norgorber and gains a +2 circumstance bonus to the triggering save."
 
 attacks:
   - name: ""
@@ -78,6 +79,12 @@ attacks:
   - name: "Surprise Attack"
     desc: "  On the first round of combat, creatures that haven't acted yet are [[Conditions/Off-Guard|Off-Guard]] to the Norgorberite spy."
  
+```
+
+```encounter-table
+name: Norgorberite Spy
+creatures:
+  - 1: Norgorberite Spy
 ```
 
 

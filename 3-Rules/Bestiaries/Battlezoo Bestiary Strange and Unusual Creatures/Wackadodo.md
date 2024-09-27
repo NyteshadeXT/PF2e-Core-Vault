@@ -7,6 +7,7 @@ aliases: "Compendium.battlezoo-bestiary-su-pf2e.pf2e-battlezoo-su-actors.Actor.M
 tags:
   - pf2e/creature/type/animal
   - pf2e/creature/type/evil
+  - pf2eMonster
   - pf2e/creature/level/6
 statblock: inline
 name: "Wackadodo"
@@ -22,18 +23,19 @@ token: [[modules/battlezoo-bestiary-su-pf2e/art/Portraits/wackadodo.webp| ]]
 source: "Battlezoo Bestiary: Strange and Unusual"
 name: "Wackadodo"
 level: "Creature 6"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Medium"
-trait_01: "animal"
-trait_02: "evil"
+trait_01: [[animal]]
+trait_02: [[evil]]
 modifier: 14
 perception:
   - name: "Perception"
     desc: "+14; Low-Light Vision"
+languages: ""
 skills:
   - name: "Skills"
-    desc: "Athletics: +13 (+17 to High Jump or Long Jump), Deception: +13, Intimidation: +13, Performance: +15 (+17 to dance), Stealth: +13, "
+    desc: "Athletics: +13, Deception: +13, Intimidation: +13, Performance: +15, Stealth: +13, Athletics: +13, Deception: +13, Intimidation: +13, Performance: +15, Stealth: +13"
 abilityMods: [4, 5, 2, -4, 2, 5]
 speed: 25 feet
 sourcebook: "_Battlezoo Bestiary: Strange and Unusual_"
@@ -64,14 +66,20 @@ attacks:
     desc: "`pf2:1` Beak +14 (agile, reach 10 feet)\n__Damage__  2d8 + 8 piercing plus gyrating-fever"
 
   - name: "Awkward Dance"
-    desc: "`pf2:1` (emotion,incapacitation,mental,occult,visual) The wackadodo bobs its head while shaking its tail feathers and Strides up to half its speed. Each creature within 30 feet of the wackadodo at the end of their movement must attempt a DC 22 Will check save.\n**Critical Success** The creature is unaffected and is temporarily immune to Awkward Dance for 24 hours.\n**Success** The creature is Stupefied 1 for 1 round and is temporarily immune to Awkward Dance for 24 hours.\n**Failure** The creature is Fascinated by the wackadodo, and it's Stupefied 2 as long as it's fascinated. Hostile actions against the fascinated creature's allies don't end this fascination, though hostile actions against the fascinated creature itself ends the fascination for that creature.\n**Critical Failure** The creature is Confused for 1d4 rounds. Once the confusion ends, the creature suffers the failure effects."
+    desc: "`pf2:1` (emotion,incapacitation,mental,occult,visual) The wackadodo bobs its head while shaking its tail feathers and Strides up to half its speed. Each creature within 30 feet of the wackadodo at the end of their movement must attempt a DC 22 Will check save.\n* * *\n\n**Critical Success** The creature is unaffected and is temporarily immune to Awkward Dance for 24 hours.\n\n**Success** The creature is [[undefined]] for 1 round and is temporarily immune to Awkward Dance for 24 hours.\n\n**Failure** The creature is [[undefined]] by the wackadodo, and it's [[undefined]] as long as it's fascinated. Hostile actions against the fascinated creature's allies don't end this fascination, though hostile actions against the fascinated creature itself ends the fascination for that creature.\n\n**Critical Failure** The creature is [[undefined]] for 1d4 rounds. Once the confusion ends, the creature suffers the failure effects."
 
   - name: "Opportune Chomp"
-    desc: "`pf2:r`  **Trigger** On one of the wackadodo heads' initiative, the wackadodo ends its turn next to a Fascinated enemy\n**Effect** The other head makes a beak Strike against the triggering enemy."
+    desc: "`pf2:r`  **Trigger** On one of the wackadodo heads' initiative, the wackadodo ends its turn next to a [[undefined]] enemy\n* * *\n\n**Effect** The other head makes a beak Strike against the triggering enemy."
 
   - name: "Gyrating Fever"
-    desc: " (disease,incapacitation) **Saving Throw** DC 20 Fortitude check\n**Stage 1** You can't become temporarily immune to the wackadodo's Awkward Dance (1 day)\n**Stage 2** As Stage 1, and you must spend the first action on each of your turns to use Perform to dance (1 day)\n**Stage 3** As Stage 1, and you must spend the first two actions on each of your turns to use Perform to dance (1 day)\n**Stage 4** dead"
+    desc: " (disease,incapacitation) **Saving Throw** DC 20 Fortitude check\n\n**Stage 1** You can't become temporarily immune to the wackadodo's Awkward Dance (1 day)\n\n**Stage 2** As Stage 1, and you must spend the first action on each of your turns to use [[undefined]] to dance (1 day)\n\n**Stage 3** As Stage 1, and you must spend the first two actions on each of your turns to use Perform to dance (1 day)\n\n**Stage 4** dead"
  
+```
+
+```encounter-table
+name: Wackadodo
+creatures:
+  - 1: Wackadodo
 ```
 
 

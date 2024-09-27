@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/gnoll
   - pf2e/creature/type/humanoid
   - pf2e/creature/type/lawful
+  - pf2eMonster
   - pf2e/creature/level/13
 statblock: inline
 name: "Surjit Hamelan"
@@ -22,12 +23,12 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #167: Ready? Fight!"
 name: "Surjit Hamelan"
 level: "Creature 13"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Small"
-trait_01: "gnoll"
-trait_02: "humanoid"
-trait_03: "lawful"
+trait_01: [[gnoll]]
+trait_02: [[humanoid]]
+trait_03: [[lawful]]
 modifier: 25
 perception:
   - name: "Perception"
@@ -56,12 +57,12 @@ abilities_top:
     desc: "  While in natural terrain, Surjit can [[Actions/Sneak|Sneak]] even while [[Conditions/Observed|Observed]]."
 
   - name: "Sense the Unseen"
-    desc: "  **Trigger** Surjit fails a Perception check to [[Actions/Seek|Seek]]\n**Effect** Surjit automatically senses any [[Conditions/Undetected|Undetected]] creatures in the area where he was Seeking, making them merely [[Conditions/Hidden|Hidden]] to him."
+    desc: "  **Trigger** Surjit fails a Perception check to [[Actions/Seek|Seek]]\n* * *\n\n**Effect** Surjit automatically senses any [[Conditions/Undetected|Undetected]] creatures in the area where he was Seeking, making them merely [[Conditions/Hidden|Hidden]] to him."
 
 abilities_mid:
   - name: ""
   - name: "[[Bestiary Ability Glossary/Attack of Opportunity|Attack of Opportunity (Special)]]"
-    desc: "`pf2:r`  Surjit can use a ranged weapon to make an Attack of Opportunity as though the weapon had a reach of 10 feet.\n"
+    desc: "`pf2:r`  Surjit can use a ranged weapon to make an Attack of Opportunity as though the weapon had a reach of 10 feet.\n\n* * *\n"
 
 attacks:
   - name: ""
@@ -81,6 +82,12 @@ attacks:
   - name: "[[Bestiary Ability Glossary/Sneak Attack|Sneak Attack]]"
     desc: "  Surjit deals an extra 2d6 precision damage to [[Conditions/Off-Guard|Off-Guard]] targets."
  
+```
+
+```encounter-table
+name: Surjit Hamelan
+creatures:
+  - 1: Surjit Hamelan
 ```
 
 

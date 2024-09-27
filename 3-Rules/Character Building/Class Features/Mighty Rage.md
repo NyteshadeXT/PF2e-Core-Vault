@@ -6,21 +6,20 @@ tags:
   - trait/barbarian
   - trait/common
   - category/classfeature
+  - remaster
 aliases: "Compendium.pf2e.classfeatures.Item.88Q33X2a0iYPkbzd"
-license: OGL
+license: ORC
 ---
 # Mighty Rage
 ## Feat 11
-### [[barbarian]]
+### [[3-Rules/trait_reference/barbarian]]
 
 **Category** classfeature; 
 
 
 
 
-Your rage intensifies and lets you burst into action. Your proficiency rank for your barbarian class DC increases to expert.
+Your rage intensifies and lets you hit harder at the start of a fight. Your proficiency rank for your barbarian class DC increases to expert. In addition, when you use Quick-Tempered, the first Strike you make during your first turn deals additional damage equal to your [[Actions/Rage|Rage]] damage.
 
-You gain the [[Actions/Mighty Rage|Mighty Rage]] free action.
-
-*Source: Pathfinder Core Rulebook*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

@@ -31,7 +31,7 @@ This heavy iron ring is shaped to look like the head of a ram, with curling horn
 
 The blow deals 3d6 force damage per action spent and pushes the target 5 feet per action spent. The target must attempt a DC 32 Fortitude check save.
 
-When you activate the ring using 3 actions, you can disperse the force into multiple magical rams, targeting all creatures in a 30-foot cone instead of one target within 60 feet.
+When you activate the ring using 3 actions, you can disperse the force into multiple magical rams, targeting all creatures in a @Template\[cone|distance:30\] instead of one target within 60 feet.
 
 `pf2:1` 3d6 force damage
 

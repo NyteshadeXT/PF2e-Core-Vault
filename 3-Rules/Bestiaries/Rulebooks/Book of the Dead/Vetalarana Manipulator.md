@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/undead
   - pf2e/creature/type/unholy
   - pf2e/creature/type/vampire
+  - pf2eMonster
   - pf2e/creature/level/11
 statblock: inline
 name: "Vetalarana Manipulator"
@@ -23,18 +24,18 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Book of the Dead"
 name: "Vetalarana Manipulator"
 level: "Creature 11"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Medium"
-trait_01: "evil"
-trait_02: "undead"
-trait_03: "unholy"
-trait_04: "vampire"
+trait_01: [[evil]]
+trait_02: [[undead]]
+trait_03: [[unholy]]
+trait_04: [[vampire]]
 modifier: 22
 perception:
   - name: "Perception"
     desc: "+22; Darkvision, Thoughtsense (Precise) 100 Feet"
-languages: "Common, Necril"
+languages: "Common, Necril; telepathy 100 feet, tongues"
 skills:
   - name: "Skills"
     desc: "Athletics: +22, Deception: +24, Diplomacy: +24, Intimidation: +22, Occultism: +23, Society: +23"
@@ -59,13 +60,13 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "[[Creature Family Ability Glossary/(Vampire, Vetalarana, Basic) Mental Rebirth|Mental Rebirth]]"
-    desc: " (curse,incapacitation,mental,occult) Unlike most other undead, a vetalarana isn't destroyed when they reach 0 HP. Instead, their body is destroyed, crumbling to ash, and their mind is immediately transferred into a creature they rendered comatose through Drain Thoughts. This creature must be within 1 mile; if no such creature is in range, the vetalarana is destroyed. The creature becomes controlled by the vetalarana and loses the stupefied and [[Conditions/Unconscious|Unconscious]] conditions. If the creature controlled by a vetalarana in this way is killed, the vetalarana's mind transfers to another creature within 1 mile who they rendered comatose through Drain Thoughts.\nAfter 1d6 days of being controlled, the controlled creature dies, and its body transforms into that of the vetalarana who rendered it comatose."
+    desc: " (curse,incapacitation,mental,occult) Unlike most other undead, a vetalarana isn't destroyed when they reach 0 HP. Instead, their body is destroyed, crumbling to ash, and their mind is immediately transferred into a creature they rendered comatose through Drain Thoughts. This creature must be within 1 mile; if no such creature is in range, the vetalarana is destroyed. The creature becomes controlled by the vetalarana and loses the stupefied and [[Conditions/Unconscious|Unconscious]] conditions. If the creature controlled by a vetalarana in this way is killed, the vetalarana's mind transfers to another creature within 1 mile who they rendered comatose through Drain Thoughts.\n\nAfter 1d6 days of being controlled, the controlled creature dies, and its body transforms into that of the vetalarana who rendered it comatose."
 
   - name: "Psychic Superiority"
-    desc: "`pf2:r` (mental,occult) **Trigger** A creature targets the vetalarana manipulator with a mental effect or spell\n**Effect** The manipulator psychically lashes out at the triggering creature, dealing 3d8 mental damage (DC 24 Will check)."
+    desc: "`pf2:r` (mental,occult) **Trigger** A creature targets the vetalarana manipulator with a mental effect or spell\n* * *\n\n**Effect** The manipulator psychically lashes out at the triggering creature, dealing 3d8 mental damage (DC 24 Will check)."
 
   - name: "[[Creature Family Ability Glossary/(Vampire, Vetalarana, Basic) Vetalarana Vulnerabilities|Vetalarana Vulnerabilities]]"
-    desc: "  All vetalaranas possess the following weaknesses.\n*   **Barred Senses** A vetalarana can't see or sense through force effects or cold iron, and their mind can't penetrate force effects or cold iron. Such barriers can prevent the transference of a vetalarana's mind through Mental Rebirth.\n*   **Revulsion** A vetalarana delights in consuming memories and secrets, and is disgusted by those who share such sensitive tidbits openly. A vetalarana can't voluntarily come within 10 feet of a creature loudly voicing their intimate personal secrets or most cherished memories aloud. Speaking such information aloud with conviction is a single action that has the auditory, concentrate, and linguistic traits, and protects the creature until the start of its next turn. A vetalarana that involuntarily comes within 10 feet of a creature sharing such information gains the [[Conditions/Fleeing|Fleeing]] condition until they're 10 feet or farther from the creature. After 1 round of being exposed to the secrets of a creature, a vetalarana can attempt a DC 25 Will check save as a single action, which has the concentrate trait. On a success, they overcome their revulsions for 1d6 rounds (or 1 hour on a critical success).\n*   **Vulnerable to Brain Destruction** A vetalarana whose brain has been destroyed, or is reduced to 0 HP while unable to take mental actions, can't use Mental Rebirth."
+    desc: "  All vetalaranas possess the following weaknesses.\n\n*   **Barred Senses** A vetalarana can't see or sense through force effects or cold iron, and their mind can't penetrate force effects or cold iron. Such barriers can prevent the transference of a vetalarana's mind through Mental Rebirth.\n*   **Revulsion** A vetalarana delights in consuming memories and secrets, and is disgusted by those who share such sensitive tidbits openly. A vetalarana can't voluntarily come within 10 feet of a creature loudly voicing their intimate personal secrets or most cherished memories aloud. Speaking such information aloud with conviction is a single action that has the auditory, concentrate, and linguistic traits, and protects the creature until the start of its next turn. A vetalarana that involuntarily comes within 10 feet of a creature sharing such information gains the [[Conditions/Fleeing|Fleeing]] condition until they're 10 feet or farther from the creature. After 1 round of being exposed to the secrets of a creature, a vetalarana can attempt a DC 25 Will check save as a single action, which has the concentrate trait. On a success, they overcome their revulsions for 1d6 rounds (or 1 hour on a critical success).\n*   **Vulnerable to Brain Destruction** A vetalarana whose brain has been destroyed, or is reduced to 0 HP while unable to take mental actions, can't use Mental Rebirth."
 
 attacks:
   - name: ""
@@ -80,10 +81,10 @@ attacks:
     desc: "DC 30, attack +22\n__Constant__  __(5th)__ _[[Spells/Truespeech|Tongues]]_"
 
   - name: "[[Creature Family Ability Glossary/(Vampire, Vetalarana, Manipulator) Control Comatose|Control Comatose]]"
-    desc: "  **Frequency** once per day\n**Effect** The vetalarana manipulator spends 10 minutes to take psychic control of the creatures they've rendered comatose with Drain Thoughts. This has the effects of the [[Spells/Possession|Possession]] spell, but lasts for up to 6 hours, has a range of 1 mile, and the vetalarana can control a number of comatose victims at a time equal to half the vetalarana's level. A comatose victim can't resist this possession and automatically gets a critical failure on its saving throw against Control Comatose.\nAs long as a comatose victim is controlled by a vetalarana manipulator in this way, the victim's stupefied and [[Conditions/Unconscious|Unconscious]] conditions are temporarily suppressed."
+    desc: "  **Frequency** once per day\n* * *\n\n**Effect** The vetalarana manipulator spends 10 minutes to take psychic control of the creatures they've rendered comatose with Drain Thoughts. This has the effects of the [[Spells/Possession|Possession]] spell, but lasts for up to 6 hours, has a range of 1 mile, and the vetalarana can control a number of comatose victims at a time equal to half the vetalarana's level. A comatose victim can't resist this possession and automatically gets a critical failure on its saving throw against Control Comatose.\n\nAs long as a comatose victim is controlled by a vetalarana manipulator in this way, the victim's stupefied and [[Conditions/Unconscious|Unconscious]] conditions are temporarily suppressed."
 
   - name: "[[Creature Family Ability Glossary/(Vampire, Vetalarana, Basic) Drain Thoughts|Drain Thoughts]]"
-    desc: "`pf2:1` (mental,occult) **Requirements** A [[Conditions/Grabbed|Grabbed]], [[Conditions/Paralyzed|Paralyzed]], [[Conditions/Restrained|Restrained]], [[Conditions/Unconscious|Unconscious]], or willing creature is within the vetalarana's reach\n**Effect** The vetalarana seizes a creature and consumes its memories. This requires an Athletics check check against the victim's Fortitude DC if the victim is grabbed and is automatic for any of the other conditions. The victim is [[Conditions/Stupefied 1|Stupefied 1]], and the vetalarana regains 14 HP, gaining any excess as temporary Hit Points. Draining Thoughts from a creature that is already stupefied doesn't restore any HP to the vetalarana but increases the victim's stupefied value by 1. Additionally, the vetalarana views one of the victim's memories.\nA victim's stupefied condition value decreases by 1 every week.\nA victim that becomes stupefied 5 in this way is rendered comatose, becoming permanently [[Conditions/Unconscious|Unconscious]]. As long as the vetalarana lives, a comatose victim can't regain consciousness, and its stupefied condition doesn't decrease."
+    desc: "`pf2:1` (mental,occult) **Requirements** A [[Conditions/Grabbed|Grabbed]], [[Conditions/Paralyzed|Paralyzed]], [[Conditions/Restrained|Restrained]], [[Conditions/Unconscious|Unconscious]], or willing creature is within the vetalarana's reach\n* * *\n\n**Effect** The vetalarana seizes a creature and consumes its memories. This requires an Athletics check check against the victim's Fortitude DC if the victim is grabbed and is automatic for any of the other conditions. The victim is [[Conditions/Stupefied|Stupefied 1]], and the vetalarana regains 14 HP, gaining any excess as temporary Hit Points. Draining Thoughts from a creature that is already stupefied doesn't restore any HP to the vetalarana but increases the victim's stupefied value by 1. Additionally, the vetalarana views one of the victim's memories.\n\nA victim's stupefied condition value decreases by 1 every week.\n\nA victim that becomes stupefied 5 in this way is rendered comatose, becoming permanently [[Conditions/Unconscious|Unconscious]]. As long as the vetalarana lives, a comatose victim can't regain consciousness, and its stupefied condition doesn't decrease."
 
   - name: "[[Creature Family Ability Glossary/(Vampire, Vetalarana, Manipulator) Paralyzing Claws|Paralyzing Claws]]"
     desc: " (incapacitation,occult) Any living creature hit by a vetalarana manipulator's claw Strike must succeed at a DC 27 Fortitude check save or become [[Conditions/Paralyzed|Paralyzed]]. The target can attempt a new save at the end of each of its turns to end the effect, and the DC cumulatively decreases by 1 on each such save."
@@ -91,6 +92,12 @@ attacks:
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
     desc: "`pf2:1`  "
  
+```
+
+```encounter-table
+name: Vetalarana Manipulator
+creatures:
+  - 1: Vetalarana Manipulator
 ```
 
 

@@ -10,8 +10,9 @@ tags:
   - trait/polymorph
   - trait/common
   - category/mutagen
+  - remaster
 aliases: "Compendium.pf2e.equipment-srd.Item.xY2MogTwH9Fd8UPG"
-license: OGL
+license: ORC
 ---
 # Drakeheart Mutagen (Moderate)
 ## Item 3
@@ -36,5 +37,5 @@ Your skin grows tough scales like a drake, your eyesight become sharp and your p
 
 [[Equipment Effects/Effect_ Drakeheart Mutagen (Moderate)|Effect: Drakeheart Mutagen (Moderate)]]
 
-*Source: Pathfinder Advanced Player's Guide*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

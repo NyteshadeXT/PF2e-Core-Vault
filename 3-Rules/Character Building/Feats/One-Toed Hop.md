@@ -6,11 +6,12 @@ tags:
   - trait/tengu
   - trait/common
   - category/ancestry
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.fD3RSV9nIkJsW6lD"
-license: OGL
+license: ORC
 ---
 # One-Toed Hop `pf2:1`
-## Feat 5
+## Feat 1
 ### [[tengu]]
 
 **Category** ancestry; 
@@ -20,5 +21,5 @@ license: OGL
 
 Assuming a peculiar stance, you make a short hop on each toe. You make a vertical [[Actions/Leap|Leap]] without triggering reactions that can be triggered by move actions or upon leaving or entering a square.
 
-*Source: Pathfinder Advanced Player's Guide*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

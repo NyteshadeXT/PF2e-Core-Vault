@@ -46,7 +46,7 @@ The first of these strips of glittering cloth was worn by a monk from Jinin who 
 
 * * *
 
-**Effect** You cast [[Spells/Scintillating Pattern|Scintillating Pattern]].
+**Effect** You cast [[Spells/Confusing Colors|Scintillating Pattern]].
 
 *Source: Pathfinder Treasure Vault*
 *OGL*

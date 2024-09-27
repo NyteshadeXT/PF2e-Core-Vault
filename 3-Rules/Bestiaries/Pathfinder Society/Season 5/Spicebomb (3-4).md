@@ -5,6 +5,7 @@ noteType: pf2eHazard
 tags:
   - mechanical
   - trap
+  - pf2eHazard
 
 source: Pathfinder Society Scenario #5-04: Necessary Introductions
 aliases: "Compendium.pf2e.pfs-season-5-bestiary.Actor.CpDjDjrACYoosgWA" 
@@ -22,14 +23,14 @@ name: "Spicebomb (3-4)"
 level: "Hazard 2"
 
 
-trait_01: "mechanical"
-trait_02: "trap"
+trait_01: [[mechanical]]
+trait_02: [[trap]]
 modifier: 10
 sourcebook: "_Pathfinder Society Scenario #5-04: Necessary Introductions_"
 ac: 16
 armorclass:
   - name: AC
-    desc: "16; __Fort__ +12, __Ref__ +5, __Will__ +0"
+    desc: "16; __Fort__ +12, __Ref__ +5, "
 hp: 30
 health:
   - name: ""
@@ -51,9 +52,15 @@ attacks:
   - name: ""
 
   - name: "Peppery Explosion"
-    desc: "`pf2:r` (inhaled) **Trigger** A creature steps on a spice bomb\n**Effect** The spice bombs explode into clouds of spicy, choking gas that envelops the area. All creatures within 30 feet must succeed a DC 16 Fortitude check save or take 2d10 poison damage. On a critical failure, the creature takes full damage and is [[Conditions/Sickened 1|Sickened 1]]."
+    desc: "`pf2:r` (inhaled) **Trigger** A creature steps on a spice bomb\n* * *\n\n**Effect** The spice bombs explode into clouds of spicy, choking gas that envelops the area. All creatures within 30 feet must succeed a DC 16 Fortitude check save or take 2d10 poison damage. On a critical failure, the creature takes full damage and is [[Conditions/Sickened|Sickened 1]]."
 
 
 
+```
+
+```encounter-table
+name: Spicebomb (3-4)
+creatures:
+  - 1: Spicebomb (3-4)
 ```
 

@@ -6,8 +6,9 @@ tags:
   - trait/alchemist
   - trait/common
   - category/class
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.b7isszc8C75V3okn"
-license: OGL
+license: ORC
 ---
 # Sticky Poison
 ## Feat 6
@@ -24,5 +25,5 @@ If your Strike with a poisoned weapon would expend its poison without your targe
 
 If your Strike with a poisoned weapon succeeds, attempt a DC 17 Flat check. On a success, your weapon remains poisoned until the end of your next turn.
 
-*Source: Pathfinder Advanced Player's Guide*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

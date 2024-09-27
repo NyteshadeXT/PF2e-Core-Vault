@@ -26,7 +26,7 @@ license: OGL
 
 * * *
 
-You purify a spirit by coaxing it to release its anguish in a final cathartic howl. This deals sonic damage to all creatures in a 30-foot cone, with a Will check save against your class DC or spell DC, whichever is higher. If you expend a spirit wisp, this deals 1d4 sonic damage per level you have. If you expend a spirit remnant, this deals 1d6 sonic damage per level of the incorporeal undead or haunt from which you gained the remnant.
+You purify a spirit by coaxing it to release its anguish in a final cathartic howl. This deals sonic damage to all creatures in a @Template\[cone|distance:30\], with a Will check save against your class DC or spell DC, whichever is higher. If you expend a spirit wisp, this deals 1d4 sonic. If you expend a spirit remnant, this deals 1d6 sonic damage per level of the incorporeal undead or haunt from which you gained the remnant.
 
 *Source: Pathfinder Book of the Dead*
 *OGL*

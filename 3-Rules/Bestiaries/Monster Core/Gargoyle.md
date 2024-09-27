@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.pathfinder-monster-core.Actor.cvfIkEF6xmWn2soN"
 tags:
   - pf2e/creature/type/beast
   - pf2e/creature/type/earth
+  - pf2eMonster
   - pf2e/creature/level/4
   - remaster
 statblock: inline
@@ -26,8 +27,8 @@ level: "Creature 4"
 
 alignment: ""
 size: "Medium"
-trait_01: "beast"
-trait_02: "earth"
+trait_01: [[beast]]
+trait_02: [[earth]]
 modifier: 10
 perception:
   - name: "Perception"
@@ -68,6 +69,12 @@ attacks:
   - name: "Statue"
     desc: "`pf2:1` (concentrate) Until the next time it acts, the gargoyle appears to be a statue. It has an automatic result of 32 on Deception checks and DCs to pass as a statue."
  
+```
+
+```encounter-table
+name: Gargoyle
+creatures:
+  - 1: Gargoyle
 ```
 
 

@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/aberration
   - pf2e/creature/type/good
   - pf2e/creature/type/lawful
+  - pf2eMonster
   - pf2e/creature/level/1
 statblock: inline
 name: "Flumph"
@@ -26,9 +27,9 @@ level: "Creature 1"
 
 alignment: ""
 size: "Small"
-trait_01: "aberration"
-trait_02: "good"
-trait_03: "lawful"
+trait_01: [[aberration]]
+trait_02: [[good]]
+trait_03: [[lawful]]
 modifier: 8
 perception:
   - name: "Perception"
@@ -36,7 +37,7 @@ perception:
 languages: "Aklo, Common, Empyrean"
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +7, Dark Tapestry Lore: +8, Diplomacy: +7, Stealth: +7"
+    desc: "Acrobatics: +7, Diplomacy: +7, Stealth: +7, Dark Tapestry Lore: +8"
 abilityMods: [0, 4, 0, 1, 3, 2]
 speed: 5 feet,  fly 25 feet
 sourcebook: "_Pathfinder Bestiary 3_"
@@ -64,8 +65,14 @@ attacks:
     desc: "`pf2:1` Spikes +7 (agile, finesse)\n__Damage__  1d4 piercing 1d4 acid"
 
   - name: "Spray Perfume"
-    desc: "`pf2:1` (olfactory) The flumph sprays a 20-foot line of foul-smelling liquid. Each creature caught in the spray must succeed at a DC 16 Fortitude check save or become [[Conditions/Sickened 1|Sickened 1]] ([[Conditions/Sickened 1|Sickened 2]] on a critical failure).\nThe odor from the spray lingers for 1d4 hours on all creatures that failed their saves. The sprayed creatures can be detected by smell at a range of 100 feet, and any creatures adjacent to them take a -2 circumstance penalty to saves against Spray Perfume or to recover from the sickened condition.\nThe flumph can't use Spray Perfume again for 1d4 rounds."
+    desc: "`pf2:1` (olfactory) The flumph sprays a @Template[line|distance:20] of foul-smelling liquid. Each creature caught in the spray must succeed at a DC 16 Fortitude check save or become [[Conditions/Sickened|Sickened 1]] ([[Conditions/Sickened|Sickened 2]] on a critical failure).\n\nThe odor from the spray lingers for 1d4 hours on all creatures that failed their saves. The sprayed creatures can be detected by smell at a range of 100 feet, and any creatures adjacent to them take a -2 circumstance penalty to saves against Spray Perfume or to recover from the sickened condition.\n\nThe flumph can't use Spray Perfume again for 1d4 rounds."
  
+```
+
+```encounter-table
+name: Flumph
+creatures:
+  - 1: Flumph
 ```
 
 

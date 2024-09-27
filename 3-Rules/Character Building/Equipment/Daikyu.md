@@ -4,15 +4,17 @@ title: "Daikyu"
 cssclasses: pf2e,pf2e-spell
 tags:
   - pf2e/weapon
+  - trait/forceful
   - trait/propulsive
   - trait/uncommon
   - category/advanced
+  - remaster
 aliases: "Compendium.pf2e.equipment-srd.Item.RN3m5Hb5LPbdZGoO"
-license: OGL
+license: ORC
 ---
 # Daikyu
 ## Item 0
-### [uncommon](uncommon "Uncommon Rarity Trait")[[propulsive]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[forceful]][[propulsive]]
 
 |  |  |
 | -- | -- |
@@ -20,11 +22,11 @@ license: OGL
 | **Price** 8 gp |  |
 | **Bulk** 2 | **Size** med |
 |**Range** 80 ft.| **Reload** 0|
-| **Damage** 1d8 piercing  | **Usage** held-in-one-hand |
+| **Damage** 1d8 piercing  | **Usage** held-in-one-plus-hands |
 
 
 
-This asymmetrical bow, made of laminated bamboo, wood, and leather, stands 6 feet or more in height. Using a daikyu while mounted limits its firing range to your left side.
+This asymmetrical bow, made of laminated bamboo, wood, and leather, stands 6 feet or more in height. It's most often used while mounted.
 
-*Source: Pathfinder Advanced Player's Guide*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

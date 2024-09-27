@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/amphibious
   - pf2e/creature/type/dragon
   - pf2e/creature/type/water
+  - pf2eMonster
   - pf2e/creature/level/6
 statblock: inline
 name: "Ahrkinos (5-6)"
@@ -22,12 +23,12 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Society Quest #5: The Dragon who Stole Evoking Day"
 name: "Ahrkinos (5-6)"
 level: "Creature 6"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Medium"
-trait_01: "amphibious"
-trait_02: "dragon"
-trait_03: "water"
+trait_01: [[amphibious]]
+trait_02: [[dragon]]
+trait_03: [[water]]
 modifier: 15
 perception:
   - name: "Perception"
@@ -54,7 +55,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Tail Lash"
-    desc: "`pf2:r`  **Trigger** A creature within reach of Ahrkinos's tail uses an action to Strike or attempt a skill check.\n**Effect** Ahrkinos attempts to Strike the triggering creature with his tail. If he hits, the creature takes a -2 circumstance penalty to the triggering roll."
+    desc: "`pf2:r`  **Trigger** A creature within reach of Ahrkinos's tail uses an action to Strike or attempt a skill check.\n* * *\n\n**Effect** Ahrkinos attempts to Strike the triggering creature with his tail. If he hits, the creature takes a -2 circumstance penalty to the triggering roll."
 
 attacks:
   - name: ""
@@ -66,7 +67,7 @@ attacks:
     desc: "`pf2:1` Tail +17 (reach 10 feet)\n__Damage__  2d6 + 8 bludgeoning"
 
   - name: "Caustic Mucus"
-    desc: "`pf2:2` (acid,arcane) Ahrkinos spits a ball of caustic mucus up to a range of 50 feet that explodes in a 10-foot burst. Creatures within the burst take 7d6 acid damage (DC 23 Reflex check save). Those that fail this save also take 1d6 persistent acid damage and take a -5-foot status penalty to their Speed. This Speed reduction ends with the persistent acid damage.\nAhrkinos can't use Caustic Mucus again for 1d6 rounds."
+    desc: "`pf2:2` (acid,arcane) Ahrkinos spits a ball of caustic mucus up to a range of 50 feet that explodes in a @Template[burst|distance:10]. Creatures within the burst take 7d6 acid damage (DC 23 Reflex check save). Those that fail this save also take 1d6 persistent acid damage and take a -5-foot status penalty to their Speed. This Speed reduction ends with the persistent acid damage.\n\nAhrkinos can't use Caustic Mucus again for 1d6 rounds."
 
   - name: "Draconic Frenzy"
     desc: "`pf2:2`  Ahrkinos makes one fangs Strike and two tail Strikes in any order."
@@ -77,6 +78,12 @@ attacks:
   - name: "Speed Surge"
     desc: "`pf2:1` (move) Ahrkinos moves up to twice his Speed. He can do this three times per day."
  
+```
+
+```encounter-table
+name: Ahrkinos (5-6)
+creatures:
+  - 1: Ahrkinos (5-6)
 ```
 
 

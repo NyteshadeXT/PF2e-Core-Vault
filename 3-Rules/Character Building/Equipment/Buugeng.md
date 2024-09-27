@@ -15,7 +15,7 @@ license: OGL
 ---
 # Buugeng
 ## Item 0
-### [uncommon](uncommon "Uncommon Rarity Trait")[[agile]][[conrasu]][[sweep]][[twin]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[3-Rules/Rule References/Agile]][[conrasu]][[sweep]][[twin]]
 
 |  |  |
 | -- | -- |

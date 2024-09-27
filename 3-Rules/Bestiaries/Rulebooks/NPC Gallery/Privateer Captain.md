@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/good
   - pf2e/creature/type/human
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/11
 statblock: inline
 name: "Privateer Captain"
@@ -26,10 +27,10 @@ level: "Creature 11"
 
 alignment: ""
 size: "Medium"
-trait_01: "chaotic"
-trait_02: "good"
-trait_03: "human"
-trait_04: "humanoid"
+trait_01: [[chaotic]]
+trait_02: [[good]]
+trait_03: [[human]]
+trait_04: [[humanoid]]
 modifier: 21
 perception:
   - name: "Perception"
@@ -37,7 +38,7 @@ perception:
 languages: "Common, Thalassic"
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +20, Athletics: +17, Deception: +21, Religion: +23, Sailing Lore: +19, Thievery: +22"
+    desc: "Acrobatics: +20, Athletics: +17, Deception: +21, Religion: +23, Thievery: +22, Sailing Lore: +19"
 abilityMods: [1, 4, 3, 0, 5, 3]
 speed: 25 feet
 sourcebook: "_Pathfinder Lost Omens: Character Guide_"
@@ -75,8 +76,14 @@ attacks:
     desc: "`pf2:1` (concentrate,spellshape) If the next action the privateer captain uses is to [[Actions/Cast a Spell|Cast a Spell]] that has a range, increase that spell's range by 30 feet. As is standard for increasing spell ranges, if the spell normally has a range of touch, extend its range to 30 feet."
 
   - name: "Sink or Swim"
-    desc: "`pf2:1` (divine,water) **Frequency** once per day\n**Effect** The privateer captain exerts their influence on a surrounding body of water. For 1 minute, if an ally within 60 feet rolls a success on an Athletics check to Swim, they get a critical success instead, and if any enemy within 60 feet rolls a failure on an Athletics check to Swim, it gets a critical failure instead.\nFor the ability's duration, enemies within 60 feet of the privateer captain treat the water as turbulent (if it was not already rougher), requiring an DC 20 Athletics check check to [[Actions/Swim|Swim]], or the water's usual DC, whichever is higher."
+    desc: "`pf2:1` (divine,water) **Frequency** once per day\n* * *\n\n**Effect** The privateer captain exerts their influence on a surrounding body of water. For 1 minute, if an ally within 60 feet rolls a success on an Athletics check to Swim, they get a critical success instead, and if any enemy within 60 feet rolls a failure on an Athletics check to Swim, it gets a critical failure instead.\n\nFor the ability's duration, enemies within 60 feet of the privateer captain treat the water as turbulent (if it was not already rougher), requiring an DC 20 Athletics check check to [[Actions/Swim|Swim]], or the water's usual DC, whichever is higher."
  
+```
+
+```encounter-table
+name: Privateer Captain
+creatures:
+  - 1: Privateer Captain
 ```
 
 

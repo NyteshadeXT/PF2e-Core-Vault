@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/fey
   - pf2e/creature/type/lawful
+  - pf2eMonster
   - pf2e/creature/level/17
 statblock: inline
 name: "Ankou Assassin"
@@ -22,17 +23,17 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Kingmaker"
 name: "Ankou Assassin"
 level: "Creature 17"
-rare_03: "Rare"
+rare_03: [[Rare]]
 alignment: ""
 size: "Large"
-trait_01: "evil"
-trait_02: "fey"
-trait_03: "lawful"
+trait_01: [[evil]]
+trait_02: [[fey]]
+trait_03: [[lawful]]
 modifier: 30
 perception:
   - name: "Perception"
     desc: "+30; Lifesense 120 Feet, Low-Light Vision"
-languages: "Aklo, Common, Fey"
+languages: "Aklo, Common, Fey; can&#x27;t speak any language; telepathy 100 feet"
 skills:
   - name: "Skills"
     desc: "Acrobatics: +34, Deception: +31, Intimidation: +34, Nature: +28, Stealth: +34"
@@ -66,11 +67,17 @@ attacks:
     desc: "DC 38, attack +30; __9th __  _[[Spells/Massacre|Massacre]]_; __8th __  _[[Spells/Darkness|Darkness (At Will)]]_, _[[Spells/Planar Tether|Dimensional Anchor]]_, _[[Spells/Pinpoint|Discern Location]]_; __7th __  _[[Spells/Prismatic Spray|Prismatic Spray]]_, _[[Spells/Silence|Silence]]_, _[[Spells/Teleport|Teleport]]_; __6th __  _[[Spells/Enfeeble|Ray of Enfeeblement]]_, _[[Spells/Truesight|True Seeing]]_"
 
   - name: "Shadow Doubles"
-    desc: "`pf2:1` (concentrate,illusion,light,occult,shadow,summoned) (1 to 3 actions)\n**Frequency** once per day\n**Effect** For each action spent to use this ability, the ankou creates one shadowy duplicate of themself anywhere within 60 feet of themself. Shadow doubles have the same statistics as an ankou, but they have the summoned trait, have 110 Hit Points, can't use Shadow Doubles or innate spells, and have an attack bonus of +27 for their Strikes. A shadow double that attempts a saving throw against a light effect can't get a result better than failure. Each double remains for 1 round, until it's reduced to 0 Hit Points, or until it moves further than 120 feet from the ankou, whichever comes first. Each round thereafter, the ankou can spend a single action that has the concentrate trait to extend the duration of surviving duplicates by 1 round, to a maximum duration of 1 minute. The ankou can see through the eyes of all of the shadow doubles at once. A character who [[Actions/Seek|Seeks]] can identify an ankou as real or a shadow double with a successful DC 43 Perception check check."
+    desc: "`pf2:1` (concentrate,illusion,light,occult,shadow,summoned) (1 to 3 actions)\n\n**Frequency** once per day\n* * *\n\n**Effect** For each action spent to use this ability, the ankou creates one shadowy duplicate of themself anywhere within 60 feet of themself. Shadow doubles have the same statistics as an ankou, but they have the summoned trait, have 110 Hit Points, can't use Shadow Doubles or innate spells, and have an attack bonus of +27 for their Strikes. A shadow double that attempts a saving throw against a light effect can't get a result better than failure. Each double remains for 1 round, until it's reduced to 0 Hit Points, or until it moves further than 120 feet from the ankou, whichever comes first. Each round thereafter, the ankou can spend a single action that has the concentrate trait to extend the duration of surviving duplicates by 1 round, to a maximum duration of 1 minute. The ankou can see through the eyes of all of the shadow doubles at once. A character who [[Actions/Seek|Seeks]] can identify an ankou as real or a shadow double with a successful DC 43 Perception check check."
 
   - name: "[[Bestiary Ability Glossary/Sneak Attack|Sneak Attack]]"
     desc: "  An ankou's Strikes deal an additional 3d6 precision damage to [[Conditions/Off-Guard|Off-Guard]] creatures."
  
+```
+
+```encounter-table
+name: Ankou Assassin
+creatures:
+  - 1: Ankou Assassin
 ```
 
 

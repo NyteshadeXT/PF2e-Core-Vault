@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/humanoid
   - pf2e/creature/type/lawful
+  - pf2eMonster
   - pf2e/creature/level/5
 statblock: inline
 name: "Hagegraf Royal Guard"
@@ -23,13 +24,13 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #194: Cult of the Cave Worm"
 name: "Hagegraf Royal Guard"
 level: "Creature 5"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Medium"
-trait_01: "dwarf"
-trait_02: "evil"
-trait_03: "humanoid"
-trait_04: "lawful"
+trait_01: [[dwarf]]
+trait_02: [[evil]]
+trait_03: [[humanoid]]
+trait_04: [[lawful]]
 modifier: 16
 perception:
   - name: "Perception"
@@ -60,7 +61,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Stop Right There!"
-    desc: "`pf2:r`  **Trigger** A creature within the royal guard's reach uses a move action\n**Effect** The royal guard Strikes the creature. On a success the target's action is interrupted; on a critical success the target is also knocked [[Conditions/Prone|Prone]]."
+    desc: "`pf2:r`  **Trigger** A creature within the royal guard's reach uses a move action\n* * *\n\n**Effect** The royal guard Strikes the creature. On a success the target's action is interrupted; on a critical success the target is also knocked [[Conditions/Prone|Prone]]."
 
   - name: "Tight Formation"
     desc: "  While adjacent to another royal guard, each royal guard gains a +2 circumstance bonus to their Fortitude and Reflex DCs against attempts to [[Actions/Shove|Shove]], [[Actions/Trip|Trip]], or [[Actions/Tumble Through|Tumble Through]] them."
@@ -83,6 +84,12 @@ attacks:
   - name: "[[Bestiary Ability Glossary/Knockdown|Knockdown]]"
     desc: "`pf2:1`  "
  
+```
+
+```encounter-table
+name: Hagegraf Royal Guard
+creatures:
+  - 1: Hagegraf Royal Guard
 ```
 
 

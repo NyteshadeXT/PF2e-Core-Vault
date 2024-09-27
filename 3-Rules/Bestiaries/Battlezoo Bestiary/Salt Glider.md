@@ -6,6 +6,7 @@ cssClasses: pf2e
 aliases: "Compendium.battlezoo-bestiary-pf2e.pf2e-battlezoo-bestiary.Actor.DlvilLvFvzhT1Cyl" 
 tags:
   - pf2e/creature/type/beast
+  - pf2eMonster
   - pf2e/creature/level/8
 statblock: inline
 name: "Salt Glider"
@@ -24,14 +25,15 @@ level: "Creature 8"
 
 alignment: ""
 size: "Large"
-trait_01: "beast"
+trait_01: [[beast]]
 modifier: 16
 perception:
   - name: "Perception"
     desc: "+16; "
+languages: ""
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +18, Athletics: +16, Stealth: +18, Survival: +19, "
+    desc: "Acrobatics: +18, Athletics: +16, Stealth: +18, Survival: +19"
 abilityMods: [4, 6, 2, -3, 5, -2]
 speed: 20 feet,  fly 60 feet
 sourcebook: "_Battlezoo Bestiary_"
@@ -56,10 +58,10 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Water Vulnerability"
-    desc: "  Water rapidly degrades the spines that cover a salt stalker. A salt stalker immersed in water, stuck in a rain storm, or otherwise soaked is Slowed 1.\nSpells or effects that temporarily drench a salt stalker, such as _Hydraulic Push_ or a bucket of water, cause the salt stalker to become slowed 1 for 1d4 rounds.\nAs long as it is slowed in this way, a salt stalker cannot make spines Strikes."
+    desc: "  Water rapidly degrades the spines that cover a salt stalker. A salt stalker immersed in water, stuck in a rain storm, or otherwise soaked is [[Conditions/Slowed|Slowed 1]].\n\nSpells or effects that temporarily drench a salt stalker, such as _[[Spells/Hydraulic Push|Hydraulic Push]]_ or a bucket of water, cause the salt stalker to become slowed 1 for 1d4 rounds.\n\nAs long as it is slowed in this way, a salt stalker cannot make spines Strikes."
 
   - name: "Gliding Drop"
-    desc: "`pf2:2`  The salt glider Strides, grabs a willing Medium or smaller creature, then Flies up to its fly Speed while carrying its ally. At the end of this movement, the salt glider drops the creature onto the ground below.\nThe dropped creature takes 10 less damage than usual for a fall from that height. If the carried creature was a salt stalker and it lands adjacent to an enemy, it can spend a reaction to make a melee Strike against that creature.\nThe salt glider can grab an unwilling creature with this ability by succeeding at an Athletics check against the creature's Fortitude DC. On a failure, the salt glider fails to grab the creature, though it can still finish its movement."
+    desc: "`pf2:2`  The salt glider Strides, grabs a willing Medium or smaller creature, then Flies up to its fly Speed while carrying its ally. At the end of this movement, the salt glider drops the creature onto the ground below.\n\nThe dropped creature takes 10 less damage than usual for a fall from that height. If the carried creature was a salt stalker and it lands adjacent to an enemy, it can spend a reaction to make a melee Strike against that creature.\n\nThe salt glider can grab an unwilling creature with this ability by succeeding at an Athletics check against the creature's Fortitude DC. On a failure, the salt glider fails to grab the creature, though it can still finish its movement."
 
 attacks:
   - name: ""
@@ -77,11 +79,17 @@ attacks:
     desc: "  When two or more salt gliders are adjacent to the same foe, salt gliders' attacks deal an additional 1d6 damage to that foe."
 
   - name: "Desiccation Venom"
-    desc: " (injury,poison) A salt stalker's teeth and spines inflict a terrible, toxic bile that violently dehydrates the target, making them more susceptible to heat. The sickened condition and weakness to fire can't end or be reduced until the poison is cured;\n**Saving Throw** Fortitude;\n**Maximum Duration** 1 hour;\n**Stage 1** 2d4 + 4 poison damage plus weakness to fire 3 (1 minute);\n**Stage 2** 2d6 + 4 poison damage plus weakness to fire 6 (1 minute);\n**Stage 3** 2d8 + 4 poison damage plus Sickened 1 and weakness to fire 9 (10 minutes)"
+    desc: " (injury,poison) A salt stalker's teeth and spines inflict a terrible, toxic bile that violently dehydrates the target, making them more susceptible to heat. The sickened condition and weakness to fire can't end or be reduced until the poison is cured;\n* * *\n\n**Saving Throw** DC 24 Fortitude;\n\n**Maximum Duration** 1 hour;\n\n**Stage 1** 2d4+4 poison damage plus weakness to fire 3 (1 minute);\n\n**Stage 2** 2d6+4 poison damage plus weakness to fire 6 (1 minute);\n\n**Stage 3** 2d8+4 poison damage plus [[Conditions/Sickened|Sickened 1]] and weakness to fire 9 (10 minutes)"
 
   - name: "Fling Spines"
-    desc: "`pf2:2`  **Requirements** The salt glider is flying;\n**Effect** The salt glider whips its body about violently, flinging a volley of spines at enemies below. The salt glider makes three spines Strikes, each against a different target. Its multiple attack penalty doesn't increase until after it makes all three attacks."
+    desc: "`pf2:2`  **Requirements** The salt glider is flying;\n\n**Effect** The salt glider whips its body about violently, flinging a volley of spines at enemies below. The salt glider makes three spines Strikes, each against a different target. Its multiple attack penalty doesn't increase until after it makes all three attacks."
  
+```
+
+```encounter-table
+name: Salt Glider
+creatures:
+  - 1: Salt Glider
 ```
 
 

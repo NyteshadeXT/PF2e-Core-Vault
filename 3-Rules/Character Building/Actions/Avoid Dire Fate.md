@@ -26,5 +26,5 @@ license: OGL
 
 **Effect** Treat the failure as a success or a critical failure as a failure. You no longer have an active harrow omen.
 
-*Source: Pathfinder: Stolen Fate Player's Guide*
+*Source: Pathfinder Stolen Fate Player's Guide*
 *OGL*

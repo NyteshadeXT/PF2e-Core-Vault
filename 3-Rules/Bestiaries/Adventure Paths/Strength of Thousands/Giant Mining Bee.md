@@ -6,6 +6,7 @@ cssClasses: pf2e
 aliases: "Compendium.pf2e.strength-of-thousands-bestiary.Actor.U6LMDSZqlzAap72K" 
 tags:
   - pf2e/creature/type/animal
+  - pf2eMonster
   - pf2e/creature/level/2
 statblock: inline
 name: "Giant Mining Bee"
@@ -23,11 +24,12 @@ level: "Creature 2"
 
 alignment: ""
 size: "Small"
-trait_01: "animal"
+trait_01: [[animal]]
 modifier: 9
 perception:
   - name: "Perception"
     desc: "+9; Darkvision, Tremorsense (Imprecise) 30 Feet"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Acrobatics: +7, Athletics: +8"
@@ -47,7 +49,7 @@ abilities_top:
   - name: ""
 
   - name: "Smoke Susceptibility"
-    desc: "  A giant bee is [[Conditions/Slowed 1|Slowed 1]] for 1 round if it starts its turn in heavy smoke."
+    desc: "  A giant bee is [[Conditions/Slowed|Slowed 1]] for 1 round if it starts its turn in heavy smoke."
 
 abilities_mid:
   - name: ""
@@ -60,6 +62,12 @@ attacks:
   - name: "Melee"
     desc: "`pf2:1` Mandibles +11 (agile)\n__Damage__  1d6 + 4 piercing"
  
+```
+
+```encounter-table
+name: Giant Mining Bee
+creatures:
+  - 1: Giant Mining Bee
 ```
 
 

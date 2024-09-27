@@ -4,8 +4,9 @@ title: "Effect: Devise a Stratagem"
 cssclasses: pf2e,pf2e-spell
 tags:
   - trait/
+  - remaster
 aliases: "Compendium.pf2e.feat-effects.Item.XQpTyjXFYYNexyOk"
-license: OGL
+license: ORC
 ---
 # Effect: Devise a Stratagem
 ## Level 1
@@ -22,5 +23,5 @@ When you make this substitution, you can also add your Intelligence modifier to 
 
 If you're aware that the creature you choose is the subject of a lead you're pursuing, you can use this ability as a free action.
 
-*Source: Pathfinder Advanced Player's Guide*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

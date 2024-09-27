@@ -6,8 +6,9 @@ tags:
   - trait/downtime
   - trait/common
   - category/interaction
+  - remaster
 aliases: "Compendium.pf2e.actionspf2e.Item.MLchOIG6uLvzK3r0"
-license: OGL
+license: ORC
 ---
 # Gain Contact
 
@@ -32,5 +33,5 @@ You try to make contact with an individual who can aid you in the infiltration. 
 
 **Special** Multiple critical failures might cause the contact to work against the PCs in some way, likely increasing the party's Awareness Points.
 
-*Source: Pathfinder Gamemastery Guide*
-*OGL*
+*Source: Pathfinder GM Core*
+*ORC*

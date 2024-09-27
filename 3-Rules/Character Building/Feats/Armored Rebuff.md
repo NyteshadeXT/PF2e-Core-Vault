@@ -6,8 +6,9 @@ tags:
   - trait/archetype
   - trait/common
   - category/class
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.jwcNyPDVw313KXZU"
-license: OGL
+license: ORC
 ---
 # Armored Rebuff `pf2:r`
 ## Feat 8
@@ -27,5 +28,5 @@ license: OGL
 
 You rebuff puny attacks with your armor, knocking back your foe. Attempt an Athletics check to [[Actions/Shove|Shove]] the triggering foe, even if you don't have a hand free. If you succeed, you can't Stride to follow the foe, as you're knocking the foe back with the rebounded attack, not by physically moving towards them.
 
-*Source: Pathfinder Advanced Player's Guide*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

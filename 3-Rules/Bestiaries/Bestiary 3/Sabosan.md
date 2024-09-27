@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.pathfinder-bestiary-3.Actor.92nVPdtlJR5uHzIl"
 tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/5
 statblock: inline
 name: "Sabosan"
@@ -25,8 +26,8 @@ level: "Creature 5"
 
 alignment: ""
 size: "Medium"
-trait_01: "evil"
-trait_02: "humanoid"
+trait_01: [[evil]]
+trait_02: [[humanoid]]
 modifier: 10
 perception:
   - name: "Perception"
@@ -72,10 +73,10 @@ attacks:
     desc: "`pf2:1` Spear +16 (thrown 20 ft.)\n__Damage__  1d6 + 7 piercing"
 
   - name: "Drain Blood"
-    desc: "`pf2:1`  **Requirements** The sabosan has a creature [[Conditions/Grabbed|Grabbed]]\n**Effect** The sabosan drains blood from the creature. The creature must succeed at a DC 23 Fortitude check save or become [[Conditions/Drained 1|Drained 1]]. The sabosan gains a number of temporary Hit Points equal to the number of Hit Points lost by the creature."
+    desc: "`pf2:1`  **Requirements** The sabosan has a creature [[Conditions/Grabbed|Grabbed]]\n* * *\n\n**Effect** The sabosan drains blood from the creature. The creature must succeed at a DC 23 Fortitude check save or become [[Conditions/Drained|Drained 1]]. The sabosan gains a number of temporary Hit Points equal to the number of Hit Points lost by the creature."
 
   - name: "Fell Shriek"
-    desc: "`pf2:2` (auditory) The sabosan emits a deafening cry in a 30-foot cone. Non-sabosan creatures in this area must each succeed at a DC 23 Fortitude check save or be [[Conditions/Deafened|Deafened]] for 1 minute."
+    desc: "`pf2:2` (auditory) The sabosan emits a deafening cry in a @Template[cone|distance:30]. Non-sabosan creatures in this area must each succeed at a DC 23 Fortitude check save or be [[Conditions/Deafened|Deafened]] for 1 minute."
 
   - name: "Powerful Charge"
     desc: "`pf2:2`  The sabosan Strides up to double their Speed and then makes a claw Strike. If the sabosan moved at least 20 feet, they deal an additional 1d6 damage on a hit."
@@ -83,6 +84,12 @@ attacks:
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
     desc: "`pf2:1`  "
  
+```
+
+```encounter-table
+name: Sabosan
+creatures:
+  - 1: Sabosan
 ```
 
 

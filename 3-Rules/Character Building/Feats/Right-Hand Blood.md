@@ -6,8 +6,9 @@ tags:
   - trait/gnoll
   - trait/common
   - category/ancestry
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.hrITlxkBqHvaiiRS"
-license: OGL
+license: ORC
 ---
 # Right-Hand Blood
 ## Feat 5
@@ -18,7 +19,7 @@ license: OGL
 
 
 
-It's said that the flesh of the right side of a hyena can heal diseases, but that of the left side is poisonous. You can take 1 damage to feed someone blood from your right side and Administer First Aid or take 2d8 damage to Treat Disease or Treat Wounds; in either case, you don't need healer's tools, and gain a +1 item bonus. Blood from your left side causes the check to critically fail automatically.
+It's said that the flesh of the right side of a hyena can heal diseases, but that the flesh of the left side is deadly and poisonous. You can deal 1 slashing damage to yourself to feed someone blood from your right side and Administer First Aid or take 2d8 untyped damage to [[Actions/Treat Disease|Treat Disease]] or [[Actions/Treat Wounds|Treat Wounds]]; in either case, you don't need a healer's toolkit, and you gain a +1 item bonus to your check. Blood from your left side causes the check to critically fail automatically.
 
-*Source: Pathfinder Lost Omens: The Mwangi Expanse*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

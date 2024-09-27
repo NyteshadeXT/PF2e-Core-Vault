@@ -14,7 +14,7 @@ license: OGL
 ---
 # Azure Lily Pollen
 ## Item 10
-### [rare](rare "Rare Rarity Trait")[[alchemical]][[consumable]][[inhaled]][[3-Rules/Rule References/Poison]]
+### [rare](rare.md "Rare Rarity Trait")[[alchemical]][[consumable]][[inhaled]][[3-Rules/Rule References/Poison]]
 
 **Category** poison; 
 **Price** 200 gp; 
@@ -35,7 +35,7 @@ Azure lilies are a rare, toxic plant. Once harvested and refined, the effects of
 
 **Stage 2** 3d6 mental damage (1 round)
 
-**Stage 3** 3d6 mental damage and [[Conditions/Slowed 1|Slowed 1]] (1 round)
+**Stage 3** 3d6 mental damage and [[Conditions/Slowed|Slowed 1]] (1 round)
 
 **Stage 4** 3d6 mental damage, slowed 1, and [[Conditions/Confused|Confused]] (1 round).
 

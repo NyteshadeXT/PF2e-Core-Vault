@@ -13,7 +13,7 @@ license: OGL
 ---
 # Wish for Luck `pf2:0`
 
-### [[arcane]][[auditory]][[fortune]]
+### [[3-Rules/Rule References/Arcane]][[3-Rules/Rule References/auditory]][[fortune]]
 
 **Category** interaction; 
 

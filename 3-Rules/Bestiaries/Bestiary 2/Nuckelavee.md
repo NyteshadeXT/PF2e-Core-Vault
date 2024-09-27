@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/amphibious
   - pf2e/creature/type/evil
   - pf2e/creature/type/fey
+  - pf2eMonster
   - pf2e/creature/level/9
 statblock: inline
 name: "Nuckelavee"
@@ -26,9 +27,9 @@ level: "Creature 9"
 
 alignment: ""
 size: "Large"
-trait_01: "amphibious"
-trait_02: "evil"
-trait_03: "fey"
+trait_01: [[amphibious]]
+trait_02: [[evil]]
+trait_03: [[fey]]
 modifier: 16
 perception:
   - name: "Perception"
@@ -59,10 +60,10 @@ abilities_mid:
     desc: "`pf2:r`  "
 
   - name: "[[Bestiary Ability Glossary/Frightful Presence|Frightful Presence]]"
-    desc: " (aura,emotion,fear,mental) 30 feet. DC 25 Will check\n"
+    desc: " (aura,emotion,fear,mental) 30 feet. DC 25 Will check\n\n* * *\n"
 
   - name: "Purity Vulnerability"
-    desc: "  Unpolluted fresh water burns a nuckelavee like acid, dealing 1d6 damage to it and causing it to be [[Conditions/Sickened 1|Sickened 2]]. A nuckelavee can't heal from damage when it's in an area that isn't polluted (subject to GM discretion)."
+    desc: "  Unpolluted fresh water burns a nuckelavee like acid, dealing 1d6 damage to it and causing it to be [[Conditions/Sickened|Sickened 2]]. A nuckelavee can't heal from damage when it's in an area that isn't polluted (subject to GM discretion)."
 
 attacks:
   - name: ""
@@ -83,14 +84,20 @@ attacks:
     desc: "_[[Spells/Blight|Blight]]_"
 
   - name: "Breath Weapon"
-    desc: "`pf2:2` (disease,poison,primal) The nuckelavee breathes a 30-foot cone of foulness, dealing 8d6 void damage (DC 28 Fortitude check save) to living creatures in the area. A creature that fails also takes 2d6 bleed.\nThe nuckelavee can't use Breath Weapon again for 1d4 rounds."
+    desc: "`pf2:2` (disease,poison,primal) The nuckelavee breathes a @Template[cone|distance:30] of foulness, dealing 8d6 void damage (DC 28 Fortitude check save) to living creatures in the area. A creature that fails also takes 2d6 bleed.\n\nThe nuckelavee can't use Breath Weapon again for 1d4 rounds."
 
   - name: "Mortasheen"
-    desc: " (disease) The target can't recover from the [[Conditions/Fatigued|Fatigued]] condition caused by mortasheen until the disease is cured. Mortasheen gains the virulent trait against animals and plants DC 28 Fortitude check\n**Saving Throw** DC 28 Fortitude check\n**Stage 1** Carrier with no ill effect (1 day)\n**Stage 2** [[Conditions/Drained 1|Drained 1]] and fatigued (1 day)\n**Stage 3** [[Conditions/Drained 1|Drained 2]] and fatigued (1 day)\n**Stage 4** dead"
+    desc: " (disease) The target can't recover from the [[Conditions/Fatigued|Fatigued]] condition caused by mortasheen until the disease is cured. Mortasheen gains the virulent trait against animals and plants DC 28 Fortitude check\n* * *\n\n**Saving Throw** DC 28 Fortitude check\n\n**Stage 1** Carrier with no ill effect (1 day)\n\n**Stage 2** [[Conditions/Drained|Drained 1]] and fatigued (1 day)\n\n**Stage 3** [[Conditions/Drained|Drained 2]] and fatigued (1 day)\n\n**Stage 4** dead"
 
   - name: "[[Bestiary Ability Glossary/Trample|Trample]]"
-    desc: "`pf2:3`  Medium or smaller, hoof, DC 28 Reflex check\n"
+    desc: "`pf2:3`  Medium or smaller, hoof, DC 28 Reflex check\n\n* * *\n"
  
+```
+
+```encounter-table
+name: Nuckelavee
+creatures:
+  - 1: Nuckelavee
 ```
 
 

@@ -35,7 +35,7 @@ A stony hag eye is fashioned from the eye of a creature, such a basilisk or medu
 
 * * *
 
-**Effect** You target a creature within 30 feet that can see the stony hag eye. The target must attempt a DC 22 Fortitude check save. On a failure, it's [[Conditions/Slowed 1|Slowed 1]] for 1 minute; on a critical failure, if the creature is already slowed, it's permanently petrified. Touching the stony hag eye to the petrified creature (a single action with the manipulate trait) removes the petrified condition.
+**Effect** You target a creature within 30 feet that can see the stony hag eye. The target must attempt a DC 22 Fortitude check save. On a failure, it's [[Conditions/Slowed|Slowed 1]] for 1 minute; on a critical failure, if the creature is already slowed, it's permanently petrified. Touching the stony hag eye to the petrified creature (a single action with the manipulate trait) removes the petrified condition.
 
 * * *
 

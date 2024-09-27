@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.pathfinder-bestiary.Actor.eP96NzLFSjua4NS5"
 tags:
   - pf2e/creature/type/animal
   - pf2e/creature/type/dinosaur
+  - pf2eMonster
   - pf2e/creature/level/7
 statblock: inline
 name: "Stegosaurus"
@@ -25,12 +26,13 @@ level: "Creature 7"
 
 alignment: ""
 size: "huge"
-trait_01: "animal"
-trait_02: "dinosaur"
+trait_01: [[animal]]
+trait_02: [[dinosaur]]
 modifier: 15
 perception:
   - name: "Perception"
     desc: "+15; Low-Light Vision, Scent (Imprecise) 30 Feet"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Athletics: +20"
@@ -52,7 +54,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Dorsal Deflection"
-    desc: "`pf2:r`  **Trigger** The stegosaurus is targeted with a melee attack.\n**Effect** The stegosaurus leans its dorsal plates into the attack, gaining a +2 circumstance bonus to its AC against the triggering attack. If the attack misses, the stegosaurus Steps after the attack."
+    desc: "`pf2:r`  **Trigger** The stegosaurus is targeted with a melee attack.\n* * *\n\n**Effect** The stegosaurus leans its dorsal plates into the attack, gaining a +2 circumstance bonus to its AC against the triggering attack. If the attack misses, the stegosaurus Steps after the attack."
 
 attacks:
   - name: ""
@@ -64,8 +66,14 @@ attacks:
     desc: "`pf2:1` Foot +18 (reach 10 feet)\n__Damage__  2d6 + 9 bludgeoning"
 
   - name: "[[Bestiary Ability Glossary/Trample|Trample]]"
-    desc: "`pf2:3`  Large or smaller, foot, DC 25 Reflex check\n"
+    desc: "`pf2:3`  Large or smaller, foot, DC 25 Reflex check\n\n* * *\n"
  
+```
+
+```encounter-table
+name: Stegosaurus
+creatures:
+  - 1: Stegosaurus
 ```
 
 

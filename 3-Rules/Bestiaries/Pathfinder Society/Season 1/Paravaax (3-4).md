@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/chaotic
   - pf2e/creature/type/earth
   - pf2e/creature/type/evil
+  - pf2eMonster
   - pf2e/creature/level/5
 statblock: inline
 name: "Paravaax (3-4)"
@@ -26,10 +27,10 @@ level: "Creature 5"
 
 alignment: ""
 size: "Medium"
-trait_01: "beast"
-trait_02: "chaotic"
-trait_03: "earth"
-trait_04: "evil"
+trait_01: [[beast]]
+trait_02: [[chaotic]]
+trait_03: [[earth]]
+trait_04: [[evil]]
 modifier: 11
 perception:
   - name: "Perception"
@@ -56,10 +57,10 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Clawed Feet"
-    desc: "`pf2:r` (attack) **Trigger** Paravaax is Flying, and a creature moves into an adjacent square below it.\n**Effect** Paravaax makes a claw Strike against the triggering creature."
+    desc: "`pf2:r` (attack) **Trigger** Paravaax is Flying, and a creature moves into an adjacent square below it.\n* * *\n\n**Effect** Paravaax makes a claw Strike against the triggering creature."
 
   - name: "Lodestone Aura"
-    desc: " (aura) 30 feet. Paravaax's body exudes a powerful, fluctuating magnetic field that makes any opponent wearing or primarily comprised of metal [[Conditions/Clumsy 1|Clumsy 2]] for as long as they are within the aura and for 1 round thereafter. In addition, attacks targeting Paravaax made with metal weapons, or weapons whose primary striking surface is metal such as most arrows and bolts, suffer a -2 status penalty. Creatures exposed to this aura for several weeks (such as the elementals comprising Paravaax's \"court\") eventually become immune to this effect."
+    desc: " (aura) 30 feet. Paravaax's body exudes a powerful, fluctuating magnetic field that makes any opponent wearing or primarily comprised of metal [[Conditions/Clumsy|Clumsy 2]] for as long as they are within the aura and for 1 round thereafter. In addition, attacks targeting Paravaax made with metal weapons, or weapons whose primary striking surface is metal such as most arrows and bolts, suffer a -2 status penalty. Creatures exposed to this aura for several weeks (such as the elementals comprising Paravaax's \"court\") eventually become immune to this effect."
 
 attacks:
   - name: ""
@@ -73,6 +74,12 @@ attacks:
   - name: "Lodestone Statue"
     desc: "`pf2:1` (concentrate) Until the next time it acts, Paravaax appears to be a statue. It has an automatic result of 32 on Deception checks and DCs to pass as a statue. While disguised in this manner, Paravaax can increase the radius of his lodestone aura by up to 100 miles or return the radius to normal as a free action."
  
+```
+
+```encounter-table
+name: Paravaax (3-4)
+creatures:
+  - 1: Paravaax (3-4)
 ```
 
 

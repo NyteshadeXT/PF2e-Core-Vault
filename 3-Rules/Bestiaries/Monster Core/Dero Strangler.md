@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.pathfinder-monster-core.Actor.uUP9MQscB0EFPptr"
 tags:
   - pf2e/creature/type/dero
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/3
   - remaster
 statblock: inline
@@ -26,8 +27,8 @@ level: "Creature 3"
 
 alignment: ""
 size: "Small"
-trait_01: "dero"
-trait_02: "humanoid"
+trait_01: [[dero]]
+trait_02: [[humanoid]]
 modifier: 6
 perception:
   - name: "Perception"
@@ -55,7 +56,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Ill Glow"
-    desc: " (disease,light) A non-dero living creature that starts its turn [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]] by the strangler is exposed to the sickly blue light from the strangler's cytillesh toolkit. It must succeed at a DC 19 Fortitude check save or become [[Conditions/Sickened 1|Sickened 1]]. This has no effect if the strangler isn't wearing the toolkit."
+    desc: " (disease,light) A non-dero living creature that starts its turn [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]] by the strangler is exposed to the sickly blue light from the strangler's cytillesh toolkit. It must succeed at a DC 19 Fortitude check save or become [[Conditions/Sickened|Sickened 1]]. This has no effect if the strangler isn't wearing the toolkit."
 
   - name: "Vulnerable to Sunlight"
     desc: "  A dero strangler takes 8 damage for every hour they're exposed to sunlight."
@@ -76,8 +77,14 @@ attacks:
     desc: "`pf2:1` (healing,manipulate) **Requirements** The dero is wearing a cytillesh toolkit and has a hand free\n* * *\n\n**Effect** The dero excises damaged flesh and crudely stitches wounds shut, healing themself or an ally in reach for 2d8 Hit Points. For 1 hour, the target has slashing weakness 2 and is immune to Dero Medicine.\n\n[[Bestiary Effects/Effect_ Dero Medicine|Effect: Dero Medicine]]"
 
   - name: "Strangle"
-    desc: "`pf2:1` (attack,nonlethal) **Requirements** The dero must have two free hands or be wielding a spiked chain\n* * *\n\n**Effect** The dero attempts an Athletics check to [[Actions/Grapple|Grapple]] with a +2 circumstance bonus. On a success, the target also takes 1d6 + 6 bludgeoning damage and can't speak (including to Cast a Spell) as long as they're [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]]."
+    desc: "`pf2:1` (attack,nonlethal) **Requirements** The dero must have two free hands or be wielding a spiked chain\n* * *\n\n**Effect** The dero attempts an Athletics check to [[Actions/Grapple|Grapple]] with a +2 circumstance bonus. On a success, the target also takes 1d6+6 bludgeoning damage and can't speak (including to Cast a Spell) as long as they're [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]]."
  
+```
+
+```encounter-table
+name: Dero Strangler
+creatures:
+  - 1: Dero Strangler
 ```
 
 

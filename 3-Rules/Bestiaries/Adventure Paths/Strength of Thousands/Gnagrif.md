@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/fey
   - pf2e/creature/type/gremlin
+  - pf2eMonster
   - pf2e/creature/level/2
 statblock: inline
 name: "Gnagrif"
@@ -22,12 +23,12 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #169: Kindled Magic"
 name: "Gnagrif"
 level: "Creature 2"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "tiny"
-trait_01: "evil"
-trait_02: "fey"
-trait_03: "gremlin"
+trait_01: [[evil]]
+trait_02: [[fey]]
+trait_03: [[gremlin]]
 modifier: 7
 perception:
   - name: "Perception"
@@ -56,7 +57,7 @@ abilities_top:
     desc: "  A gnagrif ignores difficult terrain caused by rocks or rubble, including squares affected by their Stomp Around."
 
   - name: "Soften Stone"
-    desc: "  **Trigger** A creature Strides or Steps into difficult terrain adjacent to the gnagrif\n**Effect** The gnagrif gives the ground a hearty pound and it shifts beneath the triggering creature's feet. The triggering creature must succeed on a DC 18 Reflex check save or fall [[Conditions/Prone|Prone]]."
+    desc: "  **Trigger** A creature Strides or Steps into difficult terrain adjacent to the gnagrif\n* * *\n\n**Effect** The gnagrif gives the ground a hearty pound and it shifts beneath the triggering creature's feet. The triggering creature must succeed on a DC 18 Reflex check save or fall [[Conditions/Prone|Prone]]."
 
   - name: "Stomp Around"
     desc: "`pf2:1` (move) The gnagrif huffs and stamps its feet, churning the ground around it. The square it is in and all unoccupied adjacent squares become difficult terrain."
@@ -64,7 +65,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Lurk"
-    desc: "`pf2:2`  **Requirements** A structure made from stone or earth is within the gnagrif's reach\n**Effect** The gnagrif partially melds with the stone. It Takes Cover in the stone and makes a Stealth check to [[Action Macros/Hide_ Stealth|Hide: Stealth]]."
+    desc: "`pf2:2`  **Requirements** A structure made from stone or earth is within the gnagrif's reach\n* * *\n\n**Effect** The gnagrif partially melds with the stone. It Takes Cover in the stone and makes a Stealth check to [[Action Macros/Hide_ Stealth|Hide: Stealth]]."
 
 attacks:
   - name: ""
@@ -79,11 +80,17 @@ attacks:
     desc: "DC 16, attack +8; __2nd __ (1 slots) _[[Spells/Shatter|Shatter]]_, _[[Spells/Speak with Animals|Speak with Animals (At Will)]]_; __1st __ (2 slots) _[[Spells/Ant Haul|Ant Haul]]_, _[[Spells/Gentle Landing|Feather Fall]]_\n__Cantrips__  __(1st)__ _[[Spells/Prestidigitation|Prestidigitation]]_"
 
   - name: "Eat Rocks"
-    desc: "`pf2:1`  The gnagrif gnashes and tears at an object or structure, dealing 2d4 + 2 piercing damage and ignoring Hardness 2 or lower."
+    desc: "`pf2:1`  The gnagrif gnashes and tears at an object or structure, dealing 2d4+2 piercing damage and ignoring Hardness 2 or lower."
 
   - name: "Wrecker"
     desc: "  Whenever two or more gnagrifs use Eat Rocks on the same object or structure, the value of Hardness they can ignore increases by 1 for every gnagrif, to a maximum of Hardness 10."
  
+```
+
+```encounter-table
+name: Gnagrif
+creatures:
+  - 1: Gnagrif
 ```
 
 

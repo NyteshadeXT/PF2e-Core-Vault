@@ -16,14 +16,14 @@ license: OGL
 ---
 # Hail Of Splinters `pf2:2`
 ## Feat 1
-### [[impulse]][[kineticist]][[overflow]][[primal]][[Wood]]
+### [[impulse]][[kineticist]][[overflow]][[primal]][[wood]]
 
 **Category** class; 
 
 
 
 
-A fusillade of jagged splinters flies from you. Creatures in a 30-foot cone take 1d4 piercing + floor1 - 1 / 2 + 1d4 persistent bleed damage with a Reflex check save against your class DC.
+A fusillade of jagged splinters flies from you. Creatures in a @Template\[cone|distance:30\] take 1d4 piercing + 1d4 persistent bleed damage with a Reflex check save against your class DC.
 
 * * *
 

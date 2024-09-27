@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/goblin
   - pf2e/creature/type/humanoid
   - pf2e/creature/type/lawful
+  - pf2eMonster
   - pf2e/creature/level/1
 statblock: inline
 name: "Iron Ring Pirate"
@@ -23,13 +24,13 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Society Scenario #3-08: Foundation&#x27;s Price"
 name: "Iron Ring Pirate"
 level: "Creature 1"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Medium"
-trait_01: "evil"
-trait_02: "goblin"
-trait_03: "humanoid"
-trait_04: "lawful"
+trait_01: [[evil]]
+trait_02: [[goblin]]
+trait_03: [[humanoid]]
+trait_04: [[lawful]]
 modifier: 5
 perception:
   - name: "Perception"
@@ -60,7 +61,7 @@ abilities_mid:
     desc: "`pf2:r`  "
 
   - name: "Bravery"
-    desc: "  When the pirate rolls a success on a Will save against a fear effect, they get a critical success instead. In addition, any time they gain the [[Conditions/Frightened 1|Frightened]] condition, reduce its value by 1."
+    desc: "  When the pirate rolls a success on a Will save against a fear effect, they get a critical success instead. In addition, any time they gain the [[Conditions/Frightened|Frightened]] condition, reduce its value by 1."
 
 attacks:
   - name: ""
@@ -77,6 +78,12 @@ attacks:
   - name: "Boarding Action"
     desc: "`pf2:2`  The pirate swings on a rope or Strides, moving up to double their Speed. If the pirate boarded or disembarked a boat during this movement, they can make a melee Strike at the end of their movement that deals one extra damage die on a hit."
  
+```
+
+```encounter-table
+name: Iron Ring Pirate
+creatures:
+  - 1: Iron Ring Pirate
 ```
 
 

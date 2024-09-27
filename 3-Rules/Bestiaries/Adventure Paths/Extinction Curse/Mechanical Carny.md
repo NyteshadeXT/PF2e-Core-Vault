@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.extinction-curse-bestiary.Actor.3Fxih1eU4IXABxpy"
 tags:
   - pf2e/creature/type/construct
   - pf2e/creature/type/mindless
+  - pf2eMonster
   - pf2e/creature/level/2
 statblock: inline
 name: "Mechanical Carny"
@@ -24,13 +25,13 @@ level: "Creature 2"
 
 alignment: ""
 size: "Medium"
-trait_01: "construct"
-trait_02: "mindless"
+trait_01: [[construct]]
+trait_02: [[mindless]]
 modifier: 6
 perception:
   - name: "Perception"
     desc: "+6; Low-Light Vision"
-languages: "Common"
+languages: "Common; (can speak pre-recorded phrases only)"
 skills:
   - name: "Skills"
     desc: "Acrobatics: +7, Athletics: +9, Performance: +6"
@@ -52,7 +53,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Haywire"
-    desc: "  A severely damaged mechanical carny has a chance of malfunctioning. If a mechanical carny has 15 or fewer Hit Points at the start of its turn, it must succeed at a DC 5 Flat check check or go haywire. A haywire mechanical carny wildly attacks the nearest living creature, or the nearest object if no creatures are nearby. It takes a -1 circumstance penalty to Strikes but deals an additional 1d6 bludgeoning damage plus [[Bestiary Ability Glossary/Knockdown|Knockdown]]. This effect lasts 10 minutes or until the mechanical carny is destroyed.\n[[Bestiary Effects/Effect_ Haywire|Effect: Haywire]]"
+    desc: "  A severely damaged mechanical carny has a chance of malfunctioning. If a mechanical carny has 15 or fewer Hit Points at the start of its turn, it must succeed at a DC 5 Flat check check or go haywire. A haywire mechanical carny wildly attacks the nearest living creature, or the nearest object if no creatures are nearby. It takes a -1 circumstance penalty to Strikes but deals an additional 1d6 bludgeoning damage plus [[Bestiary Ability Glossary/Knockdown|Knockdown]]. This effect lasts 10 minutes or until the mechanical carny is destroyed.\n\n[[Bestiary Effects/Effect_ Haywire|Effect: Haywire]]"
 
 attacks:
   - name: ""
@@ -63,6 +64,12 @@ attacks:
   - name: "Melee"
     desc: "`pf2:1` Headbutt +11 ()\n__Damage__  2d4 + 4 bludgeoning"
  
+```
+
+```encounter-table
+name: Mechanical Carny
+creatures:
+  - 1: Mechanical Carny
 ```
 
 

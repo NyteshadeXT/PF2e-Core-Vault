@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/drow
   - pf2e/creature/type/elf
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/7
 statblock: inline
 name: "Nyzuros"
@@ -23,13 +24,13 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Abomination Vaults Hardcover Compilation"
 name: "Nyzuros"
 level: "Creature 7"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Medium"
-trait_01: "chaotic"
-trait_02: "drow"
-trait_03: "elf"
-trait_04: "humanoid"
+trait_01: [[chaotic]]
+trait_02: [[drow]]
+trait_03: [[elf]]
+trait_04: [[humanoid]]
 modifier: 16
 perception:
   - name: "Perception"
@@ -37,7 +38,7 @@ perception:
 languages: "Elven, Sakvroth"
 skills:
   - name: "Skills"
-    desc: "Athletics: +14, Nature: +14, Stealth: +15, Survival: +16 (+18 to Subsist)"
+    desc: "Athletics: +14, Nature: +14, Stealth: +15, Survival: +16"
 abilityMods: [3, 4, 2, 0, 3, 1]
 speed: 30 feet
 sourcebook: "_Pathfinder Abomination Vaults Hardcover Compilation_"
@@ -72,11 +73,17 @@ attacks:
     desc: "DC 23, attack +15; __2nd __  _[[Spells/Darkness|Darkness (At Will)]]_, _[[Spells/Faerie Fire|Faerie Fire (At Will)]]_\n__Cantrips__  __(4th)__ _[[Compendium.pf2e.spells-srd.Item.kl2q6JvBZwed4B6v|Dancing Lights]]_"
 
   - name: "Hunter's Wound"
-    desc: "`pf2:1`  **Frequency** once per round\n**Prerequisites** The hunter is wielding a ranged weapon with a reload of 0\n**Effect** The hunter makes two ranged Strikes against their prey. If both hit and deal damage, the target takes an additional 1d8 bleed."
+    desc: "`pf2:1`  **Frequency** once per round\n\n**Prerequisites** The hunter is wielding a ranged weapon with a reload of 0\n* * *\n\n**Effect** The hunter makes two ranged Strikes against their prey. If both hit and deal damage, the target takes an additional 1d8 bleed."
 
   - name: "Skirmish Strike"
     desc: "`pf2:1`  The hunter can Step and then Strike, or Strike and then Step."
  
+```
+
+```encounter-table
+name: Nyzuros
+creatures:
+  - 1: Nyzuros
 ```
 
 

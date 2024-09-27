@@ -6,6 +6,7 @@ cssClasses: pf2e
 aliases: "Compendium.pf2e.pathfinder-monster-core.Actor.Iwk2qT4lVyrvoz3B" 
 tags:
   - pf2e/creature/type/aberration
+  - pf2eMonster
   - pf2e/creature/level/12
   - remaster
 statblock: inline
@@ -25,7 +26,7 @@ level: "Creature 12"
 
 alignment: ""
 size: "Large"
-trait_01: "aberration"
+trait_01: [[aberration]]
 modifier: 21
 perception:
   - name: "Perception"
@@ -33,7 +34,7 @@ perception:
 languages: "Sakvroth; (Can&#x27;t Speak)"
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +19, Athletics: +24, Stealth: +21, Survival: +17 (+24 to Track)"
+    desc: "Acrobatics: +19, Athletics: +24, Stealth: +21, Survival: +17"
 abilityMods: [6, 3, 4, -2, 1, 0]
 speed: 40 feet,  climb 30 feet
 sourcebook: "_Pathfinder Monster Core_"
@@ -67,16 +68,22 @@ attacks:
     desc: "  The gogiteth can move at its full Speed while it has a creature [[Conditions/Grabbed|Grabbed]] in its jaws, bringing the grabbed creature along."
 
   - name: "[[Bestiary Ability Glossary/Constrict|Constrict]]"
-    desc: "`pf2:1`  3d6 + 12 bludgeoning, DC 32 Fortitude check\n\n* * *\n"
+    desc: "`pf2:1`  3d6+12 bludgeoning, DC 32 Fortitude check\n\n* * *\n"
 
   - name: "Skittering Assault"
     desc: "`pf2:2`  The gogiteth Strides three times. Once per Stride, it can attempt a leg Strike against a creature in its reach at any point during the Stride; it must make each attack against a different creature, but it doesn't apply its multiple attack penalty until after making all its Strikes. If any of the Strikes result in a critical failure, Skittering Assault ends."
  
 ```
 
+```encounter-table
+name: Gogiteth
+creatures:
+  - 1: Gogiteth
+```
 
 
-A gogiteth is a slavering nightmare of teeth, eyes, and hairy spiderlike legs, and its appearance is invariably seared into the minds of any who witness it. Hives of these skittering monsters haunt the lowest reaches of the Darklands, competing with cave worms and other subterranean horrors for food and resources. A gogiteth is rarely alone, as they learned that the best means of survival is sticking with others of their own kind. Even the hardiest Darklands residents seek cover when a gogiteth is spotted, for where there’s one, a swarm is sure to follow.
+
+A gogiteth is a slavering nightmare of teeth, eyes, and hairy spiderlike legs, and its appearance is invariably seared into the minds of any who witness it. Hives of these skittering monsters haunt the lowest reaches of the Darklands, competing with cave worms and other subterranean horrors for food and resources. A gogiteth is rarely alone, as they learned that the best means of survival is sticking with others of their own kind. Even the hardiest Darklands residents seek cover when a gogiteth is spotted, for where there's one, a swarm is sure to follow.
 
 Gogiteths make a clacking sound as they skitter. The joints in their many legs pop and crack with each movement, though they can suppress this voluntarily and hunt silently without alerting prey. The odd creatures can also make a high-pitched whistling sound that echoes throughout the caverns where they live. Some Darklands natives report that groups of gogiteths sometimes join together in eerie, discordant songs.
 

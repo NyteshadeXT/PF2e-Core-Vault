@@ -4,8 +4,9 @@ title: "Stance: Clinging Shadows Stance"
 cssclasses: pf2e,pf2e-action
 tags:
   - trait/common
+  - remaster
 aliases: "Compendium.pf2e.feat-effects.Item.uFYvW3kFP9iyNfVX"
-license: OGL
+license: ORC
 ---
 # Stance: Clinging Shadows Stance
 
@@ -22,5 +23,5 @@ You adopt the stance of clinging shadows. You can make shadow grasp Strikes. The
 
 While in the clinging shadows stance, you gain a +2 circumstance bonus to Athletics checks to [[Actions/Grapple|Grapple]], and to the DC for creatures to [[Actions/Escape|Escape]] from you.
 
-*Source: Pathfinder Advanced Player's Guide*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

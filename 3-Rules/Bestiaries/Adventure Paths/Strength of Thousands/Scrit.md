@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/fey
   - pf2e/creature/type/gremlin
+  - pf2eMonster
   - pf2e/creature/level/0
 statblock: inline
 name: "Scrit"
@@ -23,13 +24,13 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #169: Kindled Magic"
 name: "Scrit"
 level: "Creature 0"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "tiny"
-trait_01: "chaotic"
-trait_02: "evil"
-trait_03: "fey"
-trait_04: "gremlin"
+trait_01: [[chaotic]]
+trait_02: [[evil]]
+trait_03: [[fey]]
+trait_04: [[gremlin]]
 modifier: 6
 perception:
   - name: "Perception"
@@ -68,11 +69,17 @@ attacks:
     desc: "DC 16, attack +8; __2nd __  _[[Spells/Speak with Animals|Speak with Animals (At Will)]]_; __1st __ (1 slots) _[[Spells/Grease|Grease]]_\n__Cantrips__  __(1st)__ _[[Spells/Prestidigitation|Prestidigitation]]_"
 
   - name: "Nasty Ink"
-    desc: " (poison) A scrit's fingers are perpetually covered in smeared ink from the writing it's destroyed. This ink mixes with its skin oils to create a disgusting, sticky poison.\n**Saving Throw** DC 14 Fortitude check\n**Maximum Duration** 4 rounds\n**Stage 1** 1d4 poison damage and [[Conditions/Sickened 1|Sickened 1]] (1 round)"
+    desc: " (poison) A scrit's fingers are perpetually covered in smeared ink from the writing it's destroyed. This ink mixes with its skin oils to create a disgusting, sticky poison.\n\n**Saving Throw** DC 14 Fortitude check\n\n**Maximum Duration** 4 rounds\n\n**Stage 1** 1d4 poison damage and [[Conditions/Sickened|Sickened 1]] (1 round)"
 
   - name: "Smear Text"
     desc: "`pf2:1`  The scrit rubs its fingers against one page of writing, smearing the text and rendering it unreadable. The scrit can smear and destroy magical writing such as a [[Spells/Rune Trap|Rune Trap]] or a [[Spells/Sigil|Sigil]] by succeeding at a counteract check (using the scrit's spell attack modifier) against the caster's DC."
  
+```
+
+```encounter-table
+name: Scrit
+creatures:
+  - 1: Scrit
 ```
 
 

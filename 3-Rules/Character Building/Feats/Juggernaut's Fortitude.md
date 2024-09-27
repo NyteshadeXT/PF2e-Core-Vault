@@ -6,8 +6,9 @@ tags:
   - trait/archetype
   - trait/common
   - category/class
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.jPBqvEH2jLlvDr6M"
-license: OGL
+license: ORC
 ---
 # Juggernaut's Fortitude
 ## Feat 12
@@ -21,5 +22,5 @@ license: OGL
 * * *
 Your proficiency rank in Fortitude saves increases to master.
 
-*Source: Pathfinder Core Rulebook*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

@@ -10,7 +10,7 @@ license: OGL
 ---
 # Brain Cylinder
 ## Item 6
-### [rare](rare "Rare Rarity Trait")[[magical]]
+### [rare](rare.md "Rare Rarity Trait")[[3-Rules/Rule References/Magical]]
 
 
 **Price** 250 gp; 

@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.pathfinder-monster-core.Actor.PLZk6zY5iwccPTPS"
 tags:
   - pf2e/creature/type/humanoid
   - pf2e/creature/type/orc
+  - pf2eMonster
   - pf2e/creature/level/2
   - remaster
 statblock: inline
@@ -19,14 +20,15 @@ license: ORC
 columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
+token: [[modules/pf2e-tokens-bestiaries/portraits/humanoid/orc-warchief.webp| ]]
 source: "Pathfinder Monster Core"
 name: "Orc Commander"
 level: "Creature 2"
 
 alignment: ""
 size: "Medium"
-trait_01: "humanoid"
-trait_02: "orc"
+trait_01: [[humanoid]]
+trait_02: [[orc]]
 modifier: 8
 perception:
   - name: "Perception"
@@ -74,6 +76,12 @@ attacks:
   - name: "Battle Cry"
     desc: "`pf2:1` (auditory,concentrate,emotion,mental) Bellowing mightily, the orc commander gives themself and all orc allies within 60 feet a +1 status bonus to attack and damage rolls until the start of the orc commander's next turn.\n\n[[Bestiary Effects/Effect_ Battle Cry|Effect: Battle Cry]]"
  
+```
+
+```encounter-table
+name: Orc Commander
+creatures:
+  - 1: Orc Commander
 ```
 
 

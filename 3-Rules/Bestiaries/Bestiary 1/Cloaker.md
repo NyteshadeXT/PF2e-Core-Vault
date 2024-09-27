@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.pathfinder-bestiary.Actor.bkaDwBD3mIBgvULs"
 tags:
   - pf2e/creature/type/aberration
   - pf2e/creature/type/chaotic
+  - pf2eMonster
   - pf2e/creature/level/5
 statblock: inline
 name: "Cloaker"
@@ -25,8 +26,8 @@ level: "Creature 5"
 
 alignment: ""
 size: "Large"
-trait_01: "aberration"
-trait_02: "chaotic"
+trait_01: [[aberration]]
+trait_02: [[chaotic]]
 modifier: 12
 perception:
   - name: "Perception"
@@ -34,7 +35,7 @@ perception:
 languages: "Aklo, Sakvroth"
 skills:
   - name: "Skills"
-    desc: "Deception: +14 (+16 to Impersonate a cloak, sheet, or ray), Religion: +12, Stealth: +14"
+    desc: "Deception: +14, Religion: +12, Stealth: +14"
 abilityMods: [5, 3, 4, 2, 3, 1]
 speed: 10 feet,  fly 30 feet
 sourcebook: "_Pathfinder Bestiary_"
@@ -65,11 +66,17 @@ attacks:
     desc: "`pf2:1` Tail +14 (agile, reach 10 feet)\n__Damage__  2d6 + 7 slashing"
 
   - name: "Envelop"
-    desc: "`pf2:1` (attack,incapacitation) The cloaker makes an attack roll with a +14 bonus against an adjacent creature's Reflex DC. If it succeeds, it envelops the target, who is [[Conditions/Restrained|Restrained]]. Attacks that hit an enveloping cloaker deal half their damage to the cloaker and half to the trapped victim. The cloaker can't Fly, and when it moves using its land Speed it moves the enveloped creature with it. The cloaker can make only jaws Strikes against the restrained creature but can make tail Strikes against other creatures.\nA creature that voluntarily puts on the cloaker becomes engulfed automatically. A cloaker can engulf only Large or smaller creatures, and no more than one creature at a time."
+    desc: "`pf2:1` (attack,incapacitation) The cloaker makes an attack roll with a +14 bonus against an adjacent creature's Reflex DC. If it succeeds, it envelops the target, who is [[Conditions/Restrained|Restrained]]. Attacks that hit an enveloping cloaker deal half their damage to the cloaker and half to the trapped victim. The cloaker can't Fly, and when it moves using its land Speed it moves the enveloped creature with it. The cloaker can make only jaws Strikes against the restrained creature but can make tail Strikes against other creatures.\n\nA creature that voluntarily puts on the cloaker becomes engulfed automatically. A cloaker can engulf only Large or smaller creatures, and no more than one creature at a time."
 
   - name: "Infrasonic Moan"
-    desc: "`pf2:2` (auditory,emotion,mental) The cloaker lets out an infrasonic moan that has one of the effects below. A creature that succeeds at a Will save is unaffected. Any creature that attempts this save becomes temporarily immune for 1 hour. Because the moan is infrasonic, most humanoids don't detect the source of their plight if they aren't already aware of the cloaker.\n*   **Fear** (fear, incapacitation) DC 22 Will check Each creature within a 30-foot emanation becomes [[Conditions/Frightened 1|Frightened 1]] (or, on a critical failure, [[Conditions/Frightened 1|Frightened 2]] and [[Conditions/Fleeing|Fleeing]] until the end of its next turn).\n*   **Nausea** DC 22 Will check Each creature within a 30-foot emanation falls [[Conditions/Prone|Prone]] and become [[Conditions/Sickened 1|Sickened 2]].\n*   **Stupor** DC 22 Will check The cloaker targets a single creature within 30 feet. The creature becomes [[Conditions/Clumsy 1|Clumsy 1]] and [[Conditions/Stupefied 1|Stupefied 1]] for 1 minute."
+    desc: "`pf2:2` (auditory,emotion,mental) The cloaker lets out an infrasonic moan that has one of the effects below. A creature that succeeds at a Will save is unaffected. Any creature that attempts this save becomes temporarily immune for 1 hour. Because the moan is infrasonic, most humanoids don't detect the source of their plight if they aren't already aware of the cloaker.\n\n*   **Fear** (fear, incapacitation) DC 22 Will check Each creature within a @Template[emanation|distance:30] becomes [[Conditions/Frightened|Frightened 1]] (or, on a critical failure, [[Conditions/Frightened|Frightened 2]] and [[Conditions/Fleeing|Fleeing]] until the end of its next turn).\n*   **Nausea** DC 22 Will check Each creature within a @Template[emanation|distance:30] falls [[Conditions/Prone|Prone]] and become [[Conditions/Sickened|Sickened 2]].\n*   **Stupor** DC 22 Will check The cloaker targets a single creature within 30 feet. The creature becomes [[Conditions/Clumsy|Clumsy 1]] and [[Conditions/Stupefied|Stupefied 1]] for 1 minute."
  
+```
+
+```encounter-table
+name: Cloaker
+creatures:
+  - 1: Cloaker
 ```
 
 

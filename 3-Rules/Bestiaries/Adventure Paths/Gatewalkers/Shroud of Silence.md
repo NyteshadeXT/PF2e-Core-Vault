@@ -5,6 +5,7 @@ noteType: pf2eHazard
 tags:
   - environmental
   - magical
+  - pf2eHazard
 
 source: Pathfinder #188: They Watched the Stars
 aliases: "Compendium.pf2e.gatewalkers-bestiary.Actor.2i3x4XFKf8G2vN0N" 
@@ -22,8 +23,8 @@ name: "Shroud of Silence"
 level: "Hazard 4"
 
 
-trait_01: "environmental"
-trait_02: "magical"
+trait_01: [[environmental]]
+trait_02: [[magical]]
 modifier: 15
 sourcebook: "_Pathfinder #188: They Watched the Stars_"
 perception:
@@ -42,9 +43,15 @@ attacks:
   - name: ""
 
   - name: "Hush"
-    desc: "`pf2:r` (illusion, occult) **Trigger** A creature reaches the street's halfway point\n**Effect** Each creature in the affected area must succeed at a DC 23 Will check saving throw or be silenced as long as it remains in the area. A silenced creature makes no sound and can't use abilities with the sonic or auditory traits, including spells with verbal components."
+    desc: "`pf2:r` (illusion, occult) **Trigger** A creature reaches the street's halfway point\n* * *\n\n**Effect** Each creature in the affected area must succeed at a DC 23 Will check saving throw or be silenced as long as it remains in the area. A silenced creature makes no sound and can't use abilities with the sonic or auditory traits, including spells with verbal components."
 
 
 
+```
+
+```encounter-table
+name: Shroud of Silence
+creatures:
+  - 1: Shroud of Silence
 ```
 

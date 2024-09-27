@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/undead
   - pf2e/creature/type/unholy
+  - pf2eMonster
   - pf2e/creature/level/8
 statblock: inline
 name: "Raw Nerve"
@@ -25,17 +26,17 @@ level: "Creature 8"
 
 alignment: ""
 size: "Medium"
-trait_01: "evil"
-trait_02: "undead"
-trait_03: "unholy"
+trait_01: [[evil]]
+trait_02: [[undead]]
+trait_03: [[unholy]]
 modifier: 17
 perception:
   - name: "Perception"
     desc: "+17; Darkvision, Thoughtsense (Imprecise) 60 Feet"
-languages: "Common, Necril"
+languages: "Common, Necril; (can&#x27;t speak any language), telepathy 100 feet"
 skills:
   - name: "Skills"
-    desc: "Intimidation: +16, Lore: +20, Medicine: +15, Occultism: +18, Stealth: +16"
+    desc: "Intimidation: +16, Medicine: +15, Occultism: +18, Stealth: +16, Lore: +20"
 abilityMods: [3, 4, 0, 6, 3, 2]
 speed: 30 feet
 sourcebook: "_Pathfinder Book of the Dead_"
@@ -72,8 +73,14 @@ attacks:
     desc: "  A creature struck by a raw nerve's nerve ending strike must succeed at a DC 26 Reflex check saving throw or be unable to use reactions until the start of its next turn."
 
   - name: "Synaptic Overload"
-    desc: "`pf2:3` (incapacitation,mental,occult) The raw nerve releases a burst of mental energy in a 30-foot cone, dealing 4d12 mental damage to each creature in the cone (DC 23 Will check save).\n**Critical Success** The creature takes no damage.\n**Success** The creature takes half damage.\n**Failure** The creature takes full damage and is [[Conditions/Stunned 1|Stunned 1]].\n**Critical Failure** The creature takes double damage and is [[Conditions/Stunned 1|Stunned 2]]"
+    desc: "`pf2:3` (incapacitation,mental,occult) The raw nerve releases a burst of mental energy in a @Template[cone|distance:30], dealing 4d12 mental damage to each creature in the cone (DC 23 Will check save).\n* * *\n\n**Critical Success** The creature takes no damage.\n\n**Success** The creature takes half damage.\n\n**Failure** The creature takes full damage and is [[Conditions/Stunned|Stunned 1]].\n\n**Critical Failure** The creature takes double damage and is [[Conditions/Stunned|Stunned 2]]"
  
+```
+
+```encounter-table
+name: Raw Nerve
+creatures:
+  - 1: Raw Nerve
 ```
 
 

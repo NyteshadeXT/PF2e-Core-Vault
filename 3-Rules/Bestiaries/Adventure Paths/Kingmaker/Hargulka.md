@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/giant
   - pf2e/creature/type/troll
+  - pf2eMonster
   - pf2e/creature/level/8
 statblock: inline
 name: "Hargulka"
@@ -23,13 +24,13 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Kingmaker"
 name: "Hargulka"
 level: "Creature 8"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Large"
-trait_01: "chaotic"
-trait_02: "evil"
-trait_03: "giant"
-trait_04: "troll"
+trait_01: [[chaotic]]
+trait_02: [[evil]]
+trait_03: [[giant]]
+trait_04: [[troll]]
 modifier: 16
 perception:
   - name: "Perception"
@@ -75,14 +76,20 @@ attacks:
     desc: "`pf2:1` Claw +20 (agile, reach 10 feet)\n__Damage__  2d8 + 9 slashing"
 
   - name: "[[Bestiary Ability Glossary/Rend|Rend]]"
-    desc: "`pf2:1`  Claw\n"
+    desc: "`pf2:1`  Claw\n\n* * *\n"
 
   - name: "Royal Command"
     desc: "`pf2:1` (auditory,fear,linguistic) Hargulka issues an order to his followers. Each ally who hears and understands this command becomes [[Conditions/Quickened|Quickened]] until the end of that ally's next turn but can use the extra action only to Strike. Hargulka can't issue a Royal Command on his next turn."
 
   - name: "Shield Rip and Chew"
-    desc: "`pf2:2`  **Requirement** An opponent within reach has [[Actions/Raise a Shield|Raised a Shield]].\n**Effect** Hargulka snatches at a foe's shield, pulling it out of the way. He attempts an Athletics check check against the Reflex DC of an opponent who has Raised a Shield before making a jaws Strike against the opponent. If the Athletics check succeeds, the shield is not considered raised against the jaws Strike. On a critical success, Hargulka pulls the shield out of position, so it is no longer raised until the opponent Raises the Shield again. This counts as two attacks toward Hargulka's multiple attack penalty, but the multiple attack penalty doesn't increase until after the jaws Strike."
+    desc: "`pf2:2`  **Requirement** An opponent within reach has [[Actions/Raise a Shield|Raised a Shield]].\n* * *\n\n**Effect** Hargulka snatches at a foe's shield, pulling it out of the way. He attempts an Athletics check check against the Reflex DC of an opponent who has Raised a Shield before making a jaws Strike against the opponent. If the Athletics check succeeds, the shield is not considered raised against the jaws Strike. On a critical success, Hargulka pulls the shield out of position, so it is no longer raised until the opponent Raises the Shield again. This counts as two attacks toward Hargulka's multiple attack penalty, but the multiple attack penalty doesn't increase until after the jaws Strike."
  
+```
+
+```encounter-table
+name: Hargulka
+creatures:
+  - 1: Hargulka
 ```
 
 

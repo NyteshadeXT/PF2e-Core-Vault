@@ -96,7 +96,7 @@ Whenever an adjacent creature attacks you, the attacker must attempt a Will chec
 
 When you reach 17th level, the resistance increases to 10.
 
-[[Feat\_Feature Effects/Effect\_ Starlight Armor|Effect: Starlight Armor]]
+[[Feat_Feature Effects/Effect_ Starlight Armor|Effect: Starlight Armor]]
 
 ## [[Feats/Master Skysage Divination|Master Skysage Divination]] Feat 16
 

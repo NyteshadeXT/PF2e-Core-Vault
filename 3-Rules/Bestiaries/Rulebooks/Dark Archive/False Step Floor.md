@@ -6,6 +6,7 @@ tags:
   - magical
   - teleportation
   - trap
+  - pf2eHazard
 
 source: Pathfinder Dark Archive
 aliases: "Compendium.pf2e.pathfinder-dark-archive.Actor.6EELzUwaHp1oMfCO" 
@@ -23,9 +24,9 @@ name: "False Step Floor"
 level: "Hazard 6"
 
 
-trait_01: "magical"
-trait_02: "teleportation"
-trait_03: "trap"
+trait_01: [[magical]]
+trait_02: [[teleportation]]
+trait_03: [[trap]]
 modifier: 15
 sourcebook: "_Pathfinder Dark Archive_"
 perception:
@@ -44,9 +45,15 @@ attacks:
   - name: ""
 
   - name: "False Step"
-    desc: "`pf2:r` (arcane, teleportation) **Trigger** A creature enters the room and steps onto the floor\n**Effect** The creature slips through the floor; it tumbles through an interdimensional void before falling back into the room through the ceiling and landing on the floor. The triggering creature takes 40 bludgeoning damage from the fall. That creature can try to [[Actions/Grab an Edge|Grab an Edge]] (DC 24) to avoid falling."
+    desc: "`pf2:r` (arcane, teleportation) **Trigger** A creature enters the room and steps onto the floor\n\n**Effect** The creature slips through the floor; it tumbles through an interdimensional void before falling back into the room through the ceiling and landing on the floor. The triggering creature takes 40 bludgeoning damage from the fall. That creature can try to [[Actions/Grab an Edge|Grab an Edge]] (DC 24) to avoid falling."
 
 
 
+```
+
+```encounter-table
+name: False Step Floor
+creatures:
+  - 1: False Step Floor
 ```
 

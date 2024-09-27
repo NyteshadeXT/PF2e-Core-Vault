@@ -6,6 +6,7 @@ cssClasses: pf2e
 aliases: "Compendium.pf2e.kingmaker-bestiary.Actor.ni0RSuVeUgs5WmlY" 
 tags:
   - pf2e/creature/type/animal
+  - pf2eMonster
   - pf2e/creature/level/12
 statblock: inline
 name: "Hillstomper"
@@ -20,10 +21,10 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Kingmaker"
 name: "Hillstomper"
 level: "Creature 12"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "huge"
-trait_01: "animal"
+trait_01: [[animal]]
 modifier: 21
 perception:
   - name: "Perception"
@@ -68,11 +69,17 @@ attacks:
     desc: "`pf2:1`  The mammoth makes two tusk Strikes, each against a different creature. This counts as one attack for the mammoth's multiple attack penalty, and the penalty doesn't increase until after both attacks."
 
   - name: "[[Bestiary Ability Glossary/Trample|Trample]]"
-    desc: "`pf2:3`  Large or smaller, foot, DC 30 Reflex check\n"
+    desc: "`pf2:3`  Large or smaller, foot, DC 30 Reflex check\n\n* * *\n"
 
   - name: "Grabbing Trunk"
     desc: "  A Medium or smaller creature hit by the mammoth's trunk is [[Conditions/Grabbed|Grabbed]]. If the mammoth moves, it can bring the Grabbed creature along with it."
  
+```
+
+```encounter-table
+name: Hillstomper
+creatures:
+  - 1: Hillstomper
 ```
 
 

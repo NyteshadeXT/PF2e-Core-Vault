@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.pathfinder-bestiary.Actor.WNiNj0Brn2LCYmwd"
 tags:
   - pf2e/creature/type/animal
   - pf2e/creature/type/aquatic
+  - pf2eMonster
   - pf2e/creature/level/4
 statblock: inline
 name: "Great White Shark"
@@ -25,12 +26,13 @@ level: "Creature 4"
 
 alignment: ""
 size: "huge"
-trait_01: "animal"
-trait_02: "aquatic"
+trait_01: [[animal]]
+trait_02: [[aquatic]]
 modifier: 11
 perception:
   - name: "Perception"
     desc: "+11; Scent (Imprecise) 100 Feet"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Athletics: +14, Stealth: +12, Survival: +9"
@@ -64,11 +66,17 @@ attacks:
     desc: "`pf2:2`  The shark Swims up to its swim Speed, then [[Actions/Leap|Leaps]] vertically out of the water up to 25 feet high, making a Strike against a creature at any point during the jump (this lets it attack a creature within 30 feet of the water's surface). After the Strike, the shark splashes back down into the water."
 
   - name: "Savage"
-    desc: "`pf2:1`  **Requirements** The shark hit with a jaws Strike on its most recent action this turn.\n**Effect** The creature the shark hit takes 1d12 slashing damage."
+    desc: "`pf2:1`  **Requirements** The shark hit with a jaws Strike on its most recent action this turn.\n* * *\n\n**Effect** The creature the shark hit takes 1d12 slashing damage."
 
   - name: "Strafing Chomp"
     desc: "`pf2:1`  The shark Swims up to half its swim Speed, makes a jaws Strike, and then Swims up to half its Speed further. The Strike deals half damage."
  
+```
+
+```encounter-table
+name: Great White Shark
+creatures:
+  - 1: Great White Shark
 ```
 
 

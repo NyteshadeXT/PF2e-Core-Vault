@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/undead
   - pf2e/creature/type/unholy
+  - pf2eMonster
   - pf2e/creature/level/17
 statblock: inline
 name: "Dwandek"
@@ -22,12 +23,12 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #173: Doorway to the Red Star"
 name: "Dwandek"
 level: "Creature 17"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Medium"
-trait_01: "evil"
-trait_02: "undead"
-trait_03: "unholy"
+trait_01: [[evil]]
+trait_02: [[undead]]
+trait_03: [[unholy]]
 modifier: 31
 perception:
   - name: "Perception"
@@ -47,7 +48,7 @@ hp: 270
 health:
   - name: ""
   - name: HP
-    desc: "270, void healing, rejuvenation; __Immunities__  death effects,  disease,  paralyzed,  poison,  unconscious; __Resistances__ cold 20, physical 15 (except bludgeoning)"
+    desc: "270, void healing, rejuvenation; __Immunities__  death effects,  disease,  paralyzed,  poison,  unconscious; __Resistances__ cold 20, all damage from arcane spells 5, physical 15 (except magical bludgeoning)"
 abilities_top:
   - name: ""
   - name: "Items"
@@ -55,16 +56,16 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Counterspell"
-    desc: "`pf2:r`  **Trigger** A creature casts a spell Dwandek has prepared.\n**Effect** Dwandek expends a prepared spell to counter the triggering creature's casting of that same spell. Dwandek loses his spell slot as if he had cast the triggering spell. Dwandek then attempts to counteract the triggering spell."
+    desc: "`pf2:r`  **Trigger** A creature casts a spell Dwandek has prepared.\n* * *\n\n**Effect** Dwandek expends a prepared spell to counter the triggering creature's casting of that same spell. Dwandek loses his spell slot as if he had cast the triggering spell. Dwandek then attempts to counteract the triggering spell."
 
   - name: "[[Creature Family Ability Glossary/(Lich) Rejuvenation|Rejuvenation]]"
     desc: " (arcane) When a lich is destroyed, its soul immediately transfers to its _[[Equipment/Lich Soul Cage|Soul Cage]]_. A lich can be permanently destroyed only if its _soul cage_ is found and destroyed."
 
   - name: "Resist Arcane Magic"
-    desc: "`pf2:r`  **Frequency** once per day\n**Trigger** Dwandek attempts a save against an arcane spell but hasn't rolled yet\n**Effect** Dwandek automatically succeeds at his save against the triggering spell."
+    desc: "`pf2:r`  **Frequency** once per day\n\n**Trigger** Dwandek attempts a save against an arcane spell but hasn't rolled yet\n* * *\n\n**Effect** Dwandek automatically succeeds at his save against the triggering spell."
 
   - name: "[[Creature Family Ability Glossary/(Lich) Void Shroud|Void Shroud]]"
-    desc: " (aura,death) 30 feet. The lich is surrounded by an aura of death, drawing forth souls to be consumed by the lich's constant hunger.\nLiving creatures in the emanation take a -2 status penalty to saves against fear and death effects. In addition, any creature that starts its turn in the area gains the [[Conditions/Doomed 1|Doomed 1]] condition unless it succeeds at a DC 35 Will check save against the lich's spell DC-4.\n[[Bestiary Effects/Effect_ Void Shroud|Effect: Void Shroud]]"
+    desc: " (aura,death) 30 feet. The lich is surrounded by an aura of death, drawing forth souls to be consumed by the lich's constant hunger.\n\nLiving creatures in the emanation take a -2 status penalty to saves against fear and death effects. In addition, any creature that starts its turn in the area gains the [[Conditions/Doomed|Doomed 1]] condition unless it succeeds at a DC 35 Will check save against the lich's spell DC-4.\n\n[[Bestiary Effects/Effect_ Void Shroud|Effect: Void Shroud]]"
 
 attacks:
   - name: ""
@@ -76,14 +77,20 @@ attacks:
     desc: "DC 39, attack +29; __9th __  _[[Spells/Massacre|Massacre]]_, _[[Spells/Power Word Kill|Power Word Kill]]_, _[[Spells/Telepathic Demand|Telepathic Demand]]_; __8th __  _[[Spells/Desiccate|Horrid Wilting]]_, _[[Spells/Quandary|Maze]]_, _[[Spells/Prismatic Wall|Prismatic Wall]]_; __7th __  _[[Spells/Duplicate Foe|Duplicate Foe]]_, _[[Spells/Eclipse Burst|Eclipse Burst]]_, _[[Spells/Mask of Terror|Mask of Terror]]_; __6th __  _[[Spells/Chain Lightning|Chain Lightning]]_, _[[Spells/Dominate|Dominate]]_, _[[Spells/Vampiric Exsanguination|Vampiric Exsanguination]]_; __5th __  _[[Spells/Toxic Cloud|Cloudkill]]_, _[[Spells/Cone of Cold|Cone of Cold]]_, _[[Spells/Wall of Ice|Wall of Ice]]_; __4th __  _[[Spells/Fly|Fly]]_, _[[Spells/Phantasmal Killer|Phantasmal Killer]]_, _[[Spells/Vampiric Maiden|Vampiric Maiden]]_; __3rd __  _[[Spells/Blindness|Blindness]]_, _[[Spells/Locate|Locate]]_, _[[Spells/Vampiric Feast|Vampiric Touch]]_; __2nd __  _[[Spells/False Vitality|False Life]]_, _[[Spells/Mirror Image|Mirror Image]]_, _[[Spells/Resist Energy|Resist Energy]]_, _[[Spells/See the Unseen|See Invisibility]]_; __1st __  _[[Spells/Force Barrage|Magic Missile]]_, _[[Spells/Enfeeble|Ray of Enfeeblement]]_, _[[Spells/Sure Strike|True Strike]]_\n__Cantrips__  __(9th)__ _[[Spells/Detect Magic|Detect Magic]]_, _[[Spells/Telekinetic Hand|Mage Hand]]_, _[[Spells/Message|Message]]_, _[[Spells/Ray of Frost|Ray of Frost]]_, _[[Spells/Shield|Shield]]_"
 
   - name: "[[Creature Family Ability Glossary/(Lich) Drain Soul Cage|Drain Soul Cage]]"
-    desc: "  **Frequency** once per day\n**Effect** Dwandek taps into his _[[Equipment/Lich Soul Cage|Soul Cage's]]_ power to cast any arcane spell up to 9th rank, even if the spell being cast is not one of the lich's prepared spells.\nThe lich's _soul cage_ doesn't need to be present for the lich to use this ability."
+    desc: "  **Frequency** once per day\n* * *\n\n**Effect** Dwandek taps into his _[[Equipment/Lich Soul Cage|Soul Cage's]]_ power to cast any arcane spell up to 9th rank, even if the spell being cast is not one of the lich's prepared spells.\n\nThe lich's _soul cage_ doesn't need to be present for the lich to use this ability."
 
   - name: "[[Creature Family Ability Glossary/(Lich) Paralyzing Touch|Paralyzing Touch]]"
-    desc: " (arcane,curse,incapacitation) A creature damaged by the lich's hand Strike must succeed at a DC 38 Fortitude check save.\nThe creature becomes [[Conditions/Paralyzed|Paralyzed]] for 1 round on a failure. On a critical failure, the creature is paralyzed permanently, falls [[Conditions/Prone|Prone]], and seems dead. A DC 25 Medicine check check reveals the victim is alive."
+    desc: " (arcane,curse,incapacitation) A creature damaged by the lich's hand Strike must succeed at a DC 38 Fortitude check save.\n\nThe creature becomes [[Conditions/Paralyzed|Paralyzed]] for 1 round on a failure. On a critical failure, the creature is paralyzed permanently, falls [[Conditions/Prone|Prone]], and seems dead. A DC 25 Medicine check check reveals the victim is alive."
 
   - name: "Unflinching Spellcasting"
     desc: "  If a reaction would disrupt Dwandek's spellcasting action, Dwandek attempts a DC 12 Flat check. On a success, the action isn't disrupted."
  
+```
+
+```encounter-table
+name: Dwandek
+creatures:
+  - 1: Dwandek
 ```
 
 

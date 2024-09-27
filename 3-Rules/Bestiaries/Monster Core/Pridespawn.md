@@ -6,6 +6,7 @@ cssClasses: pf2e
 aliases: "Compendium.pf2e.pathfinder-monster-core.Actor.h4cMwW2K34KheWtD" 
 tags:
   - pf2e/creature/type/aberration
+  - pf2eMonster
   - pf2e/creature/level/2
   - remaster
 statblock: inline
@@ -25,7 +26,7 @@ level: "Creature 2"
 
 alignment: ""
 size: "Medium"
-trait_01: "aberration"
+trait_01: [[aberration]]
 modifier: 10
 perception:
   - name: "Perception"
@@ -71,8 +72,14 @@ attacks:
     desc: "`pf2:1` Maul +10 (shove)\n__Damage__  1d12 + 4 bludgeoning"
 
   - name: "Sinful Bite"
-    desc: " (arcane,emotion,mental) A creature hit by the jaws of a sinspawn must attempt a DC 18 Will check save as it is assailed by sinful thoughts.\n* * *\n\n**Critical Success** Unaffected\n\n**Success** [[Conditions/Sickened 1|Sickened 1]]\n\n**Failure** [[Conditions/Sickened 1|Sickened 2]]\n\n**Critical Failure** sickened 2 plus [[Conditions/Clumsy 1|Clumsy 1]] and [[Conditions/Enfeebled 1|Enfeebled 1]] for 1 minute"
+    desc: " (arcane,emotion,mental) A creature hit by the jaws of a sinspawn must attempt a DC 18 Will check save as it is assailed by sinful thoughts.\n* * *\n\n**Critical Success** Unaffected\n\n**Success** [[Conditions/Sickened|Sickened 1]]\n\n**Failure** [[Conditions/Sickened|Sickened 2]]\n\n**Critical Failure** sickened 2 plus [[Conditions/Clumsy|Clumsy 1]] and [[Conditions/Enfeebled|Enfeebled 1]] for 1 minute"
  
+```
+
+```encounter-table
+name: Pridespawn
+creatures:
+  - 1: Pridespawn
 ```
 
 

@@ -10,6 +10,7 @@ tags:
   - pf2e/creature/type/skeleton
   - pf2e/creature/type/undead
   - pf2e/creature/type/unholy
+  - pf2eMonster
   - pf2e/creature/level/-1
 statblock: inline
 name: "Unstable Skeleton Guard"
@@ -24,18 +25,19 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Society Scenario #3-10: Delve the Pallid Depths"
 name: "Unstable Skeleton Guard"
 level: "Creature -1"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Medium"
-trait_01: "evil"
-trait_02: "mindless"
-trait_03: "skeleton"
-trait_04: "undead"
-trait_05: "unholy"
+trait_01: [[evil]]
+trait_02: [[mindless]]
+trait_03: [[skeleton]]
+trait_04: [[undead]]
+trait_05: [[unholy]]
 modifier: 2
 perception:
   - name: "Perception"
     desc: "+2; Darkvision"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Acrobatics: +6, Athletics: +3"
@@ -58,7 +60,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "[[Creature Family Ability Glossary/(Skeleton) Explosive Death|Explosive Death]]"
-    desc: "  When the skeleton is destroyed, its bones shatter and explode as the necromantic energy holding it together is released.\nAdjacent creatures take 1d6 slashing damage with a DC 13 Reflex check save."
+    desc: "  When the skeleton is destroyed, its bones shatter and explode as the necromantic energy holding it together is released.\n\nAdjacent creatures take 1d6 slashing damage with a DC 13 Reflex check save."
 
 attacks:
   - name: ""
@@ -72,6 +74,12 @@ attacks:
   - name: "Ranged"
     desc: "`pf2:1` Shortbow +6 (deadly d10, range increment 60 feet, reload 0)\n__Damage__  1d6 piercing"
  
+```
+
+```encounter-table
+name: Unstable Skeleton Guard
+creatures:
+  - 1: Unstable Skeleton Guard
 ```
 
 

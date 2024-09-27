@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.pathfinder-monster-core.Actor.0Dsy2I3mu86Czjm0"
 tags:
   - pf2e/creature/type/plant
   - pf2e/creature/type/wood
+  - pf2eMonster
   - pf2e/creature/level/6
   - remaster
 statblock: inline
@@ -26,8 +27,8 @@ level: "Creature 6"
 
 alignment: ""
 size: "huge"
-trait_01: "plant"
-trait_02: "wood"
+trait_01: [[plant]]
+trait_02: [[wood]]
 modifier: 13
 perception:
   - name: "Perception"
@@ -35,7 +36,7 @@ perception:
 languages: "Arboreal; (can&#x27;t speak any language)"
 skills:
   - name: "Skills"
-    desc: "Athletics: +14, Stealth: +9 (+14 in forests)"
+    desc: "Athletics: +14, Stealth: +9"
 abilityMods: [6, -1, 6, -5, 3, 0]
 speed: 20 feet
 sourcebook: "_Pathfinder Monster Core_"
@@ -62,6 +63,12 @@ attacks:
   - name: "Melee"
     desc: "`pf2:1` Root +16 (trip)\n__Damage__  2d6 + 6 bludgeoning"
  
+```
+
+```encounter-table
+name: Awakened Tree
+creatures:
+  - 1: Awakened Tree
 ```
 
 

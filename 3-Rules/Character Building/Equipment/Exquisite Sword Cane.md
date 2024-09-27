@@ -16,7 +16,7 @@ license: OGL
 ---
 # Exquisite Sword Cane
 ## Item 4
-### [[agile]][[concealable]][[finesse]][[parry]][[twin]]
+### [[3-Rules/Rule References/Agile]][[concealable]][[3-Rules/Rule References/Finesse]][[parry]][[twin]]
 
 |  |  |
 | -- | -- |

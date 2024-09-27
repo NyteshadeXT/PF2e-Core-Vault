@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/skeleton
   - pf2e/creature/type/undead
   - pf2e/creature/type/unholy
+  - pf2eMonster
   - pf2e/creature/level/2
 statblock: inline
 name: "Skeletal Champion"
@@ -27,10 +28,10 @@ level: "Creature 2"
 
 alignment: ""
 size: "Medium"
-trait_01: "evil"
-trait_02: "skeleton"
-trait_03: "undead"
-trait_04: "unholy"
+trait_01: [[evil]]
+trait_02: [[skeleton]]
+trait_03: [[undead]]
+trait_04: [[unholy]]
 modifier: 8
 perception:
   - name: "Perception"
@@ -75,6 +76,12 @@ attacks:
   - name: "Melee"
     desc: "`pf2:1` Lance +10 (deadly d8, jousting d6, reach 10 feet)\n__Damage__  1d8 + 4 piercing"
  
+```
+
+```encounter-table
+name: Skeletal Champion
+creatures:
+  - 1: Skeletal Champion
 ```
 
 

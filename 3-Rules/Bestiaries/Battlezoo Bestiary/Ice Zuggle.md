@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/cold
   - pf2e/creature/type/elemental
   - pf2e/creature/type/water
+  - pf2eMonster
   - pf2e/creature/level/2
 statblock: inline
 name: "Ice Zuggle"
@@ -27,17 +28,18 @@ level: "Creature 2"
 
 alignment: ""
 size: "Small"
-trait_01: "chaotic"
-trait_02: "cold"
-trait_03: "elemental"
-trait_04: "water"
+trait_01: [[chaotic]]
+trait_02: [[cold]]
+trait_03: [[elemental]]
+trait_04: [[water]]
 modifier: 10
 perception:
   - name: "Perception"
     desc: "+10; Low-Light Vision"
+languages: ""
 skills:
   - name: "Skills"
-    desc: "Athletics: +5, Stealth: +9, Survival: +7, "
+    desc: "Athletics: +5, Stealth: +9, Survival: +7"
 abilityMods: [1, 3, 4, -4, 3, 0]
 speed: 20 feet,  climb 20 feet
 sourcebook: "_Battlezoo Bestiary_"
@@ -58,15 +60,15 @@ abilities_top:
     desc: "  Zuggles can detect sources of elemental magic within the listed range as an imprecise sense. This includes any creatures, spells, or abilities with the elemental, air, earth, fire, or water trait."
 
   - name: "Zuggle Orbs"
-    desc: "  Ice Zuggles have 1d6+2 Zuggle Orbs\nZuggles naturally produce fist-sized globules of element-infused protein, which they store in specialized pouches that run the length of their spine near their fin. A zuggle can launch these globules at predators for self-defense, but alchemists and others prize these \"zuggle orbs\" for their unique magical properties and take care to extract them without scaring or hurting the zuggle."
+    desc: "  Ice Zuggles have 1d6+2 Zuggle Orbs\n* * *\n\nZuggles naturally produce fist-sized globules of element-infused protein, which they store in specialized pouches that run the length of their spine near their fin. A zuggle can launch these globules at predators for self-defense, but alchemists and others prize these \"zuggle orbs\" for their unique magical properties and take care to extract them without scaring or hurting the zuggle."
 
 abilities_mid:
   - name: ""
   - name: "Defensive Ball"
-    desc: "`pf2:r` (manipulate) **Trigger** The zuggle is hit with a melee or ranged attack;\n**Effect** The zuggle curls into a defensive ball, granting it a +3 circumstance bonus to AC against the triggering attack. While in its defensive ball form, the zuggle's AC increases to 20, it can't perform melee Strikes, and it is Immobilized until it spends an action to roll out of its ball (this action has the manipulate trait)."
+    desc: "`pf2:r` (manipulate) **Trigger** The zuggle is hit with a melee or ranged attack;\n\n**Effect** The zuggle curls into a defensive ball, granting it a +3 circumstance bonus to AC against the triggering attack. While in its defensive ball form, the zuggle's AC increases to 20, it can't perform melee Strikes, and it is [[Conditions/Immobilized|Immobilized]] until it spends an action to roll out of its ball (this action has the manipulate trait)."
 
   - name: "Elemental Absorption"
-    desc: "`pf2:0`  Ice zuggles feed on cold energy, but too much can cause them to explode.\n**Trigger** The ice zuggle is hit by an effect that deals cold damage, but the damage hasn't yet been rolled;\n**Effect** The ice zuggle absorbs the energy, regaining Hit Points equal to the cold damage that would have been dealt. If this heals the zuggle in excess of its maximum HP, it gains the excess amount as temporary HP. If this would give the zuggle more than 15 temporary HP, it immediately explodes, dealing 4d4 cold damage in a 10-foot burst (DC 18 Reflex check save)."
+    desc: "`pf2:0`  Ice zuggles feed on cold energy, but too much can cause them to explode.\n\n**Trigger** The ice zuggle is hit by an effect that deals cold damage, but the damage hasn't yet been rolled;\n\n**Effect** The ice zuggle absorbs the energy, regaining Hit Points equal to the cold damage that would have been dealt. If this heals the zuggle in excess of its maximum HP, it gains the excess amount as temporary HP. If this would give the zuggle more than 15 temporary HP, it immediately explodes, dealing 4d4 cold damage in a 10-foot burst (DC 18 Reflex check save)."
 
 attacks:
   - name: ""
@@ -77,6 +79,12 @@ attacks:
   - name: "Ranged"
     desc: "`pf2:1` Zuggle Orb +9 (cold, primal, range increment 20 feet)\n__Damage__  1d8 + 3 cold"
  
+```
+
+```encounter-table
+name: Ice Zuggle
+creatures:
+  - 1: Ice Zuggle
 ```
 
 

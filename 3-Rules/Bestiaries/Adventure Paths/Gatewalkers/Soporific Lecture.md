@@ -5,6 +5,7 @@ noteType: pf2eHazard
 tags:
   - mechanical
   - trap
+  - pf2eHazard
 
 source: Pathfinder #189: Dreamers of the Nameless Spires
 aliases: "Compendium.pf2e.gatewalkers-bestiary.Actor.y9W4wnQ5mzs09Px8" 
@@ -22,8 +23,8 @@ name: "Soporific Lecture"
 level: "Hazard 8"
 
 
-trait_01: "mechanical"
-trait_02: "trap"
+trait_01: [[mechanical]]
+trait_02: [[trap]]
 modifier: 18
 sourcebook: "_Pathfinder #189: Dreamers of the Nameless Spires_"
 perception:
@@ -42,9 +43,15 @@ attacks:
   - name: ""
 
   - name: "Gas Spray"
-    desc: "`pf2:r` (incapacitation, mental, poison, sleep) **Trigger** Pressure is applied to any of the steps in the middle of the seating area, or applied to the manual trigger on the stage. This manual trigger can activate the trap even if its [[Conditions/Hidden|Hidden]] bypass switch is engaged\n**Effect** Sleeping gas is silently sprayed into the seating area. All creatures in the area must roll a DC 26 Will check save to resist its effects. The gas persists in the area for 3 rounds before becoming inert. Any creature who ends their turn in this area during these 3 rounds must attempt a new DC 26 Will check save.\n**Critical Success** The creature is unaffected and realizes that the area has been gassed.\n**Success** The creature is unaffected but doesn't notice the gas.\n**Failure** The creature feels a bit drowsy and lethargic, and becomes [[Conditions/Fatigued|Fatigued]] for 1 minute. If the creature is already fatigued, it instead falls [[Conditions/Unconscious|Unconscious]]. If it's still unconscious after 1 minute, it wakes up automatically.\n**Critical Failure** The creature falls unconscious. If it's still unconscious after 1 hour, it wakes up automatically."
+    desc: "`pf2:r` (incapacitation, mental, poison, sleep) **Trigger** Pressure is applied to any of the steps in the middle of the seating area, or applied to the manual trigger on the stage. This manual trigger can activate the trap even if its [[Conditions/Hidden|Hidden]] bypass switch is engaged\n* * *\n\n**Effect** Sleeping gas is silently sprayed into the seating area. All creatures in the area must roll a DC 26 Will check save to resist its effects. The gas persists in the area for 3 rounds before becoming inert. Any creature who ends their turn in this area during these 3 rounds must attempt a new DC 26 Will check save.\n* * *\n\n**Critical Success** The creature is unaffected and realizes that the area has been gassed.\n\n**Success** The creature is unaffected but doesn't notice the gas.\n\n**Failure** The creature feels a bit drowsy and lethargic, and becomes [[Conditions/Fatigued|Fatigued]] for 1 minute. If the creature is already fatigued, it instead falls [[Conditions/Unconscious|Unconscious]]. If it's still unconscious after 1 minute, it wakes up automatically.\n\n**Critical Failure** The creature falls unconscious. If it's still unconscious after 1 hour, it wakes up automatically."
 
 
 
+```
+
+```encounter-table
+name: Soporific Lecture
+creatures:
+  - 1: Soporific Lecture
 ```
 

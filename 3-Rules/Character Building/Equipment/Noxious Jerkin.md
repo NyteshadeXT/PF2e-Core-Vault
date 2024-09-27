@@ -32,9 +32,9 @@ This +2 resilient padded armor is woven from many strands of gut cord strung wit
 
 **Success** The creature is unaffected and is immune to the effects of the noxious jerkin for 1 minute.
 
-**Failure** The creature is [[Conditions/Sickened 1|Sickened 1]].
+**Failure** The creature is [[Conditions/Sickened|Sickened 1]].
 
-**Critical Failure** The creature is sickened 1 and is [[Conditions/Slowed 1|Slowed 1]] for 1 round.
+**Critical Failure** The creature is sickened 1 and is [[Conditions/Slowed|Slowed 1]] for 1 round.
 
 *Source: Pathfinder #154: Siege of the Dinosaurs*
 *OGL*

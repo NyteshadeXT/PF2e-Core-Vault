@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/dwarf
   - pf2e/creature/type/humanoid
   - pf2e/creature/type/lawful
+  - pf2eMonster
   - pf2e/creature/level/8
 statblock: inline
 name: "Hrungul Ironeye"
@@ -22,16 +23,17 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #195: Heavy is the Crown"
 name: "Hrungul Ironeye"
 level: "Creature 8"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Medium"
-trait_01: "dwarf"
-trait_02: "humanoid"
-trait_03: "lawful"
+trait_01: [[dwarf]]
+trait_02: [[humanoid]]
+trait_03: [[lawful]]
 modifier: 16
 perception:
   - name: "Perception"
     desc: "+16; Darkvision"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Athletics: +16, Deception: +15, Survival: +14, Warfare Lore: +17"
@@ -57,7 +59,7 @@ abilities_mid:
     desc: "`pf2:r`  "
 
   - name: "Bravery"
-    desc: "  When the Hrungul rolls a success on a Will save against a fear effect, he gets a critical success instead. In addition, any time he gains the [[Conditions/Frightened 1|Frightened]] condition, reduce its value by 1."
+    desc: "  When the Hrungul rolls a success on a Will save against a fear effect, he gets a critical success instead. In addition, any time he gains the [[Conditions/Frightened|Frightened]] condition, reduce its value by 1."
 
   - name: "[[Bestiary Ability Glossary/Shield Block|Shield Block]]"
     desc: "`pf2:r`  "
@@ -78,11 +80,17 @@ attacks:
     desc: "  Hrungul makes a longsword Strike, followed by a shield boss Strike against the same target at a –2 penalty, each using his current multiple attack penalty. If both attacks hit, he combines their damage and applies resistances and weaknesses only once. This counts as two attacks when calculating his multiple attack penalty."
 
   - name: "Grim Efficiency"
-    desc: "`pf2:r` (mental,visual) **Frequency** once per round\n**Trigger** A foe within 30 feet critically fails a Strike against Hrungul or targets Hrungul with an effect against which he critically succeeds at the saving throw\n**Effect** Hrungul's defense displays his effortless military skill, unsettling the triggering foe. He attempts to [[Actions/Demoralize|Demoralize]] the foe, using his Warfare Lore skill modifier in place of his Intimidation skill."
+    desc: "`pf2:r` (mental,visual) **Frequency** once per round\n\n**Trigger** A foe within 30 feet critically fails a Strike against Hrungul or targets Hrungul with an effect against which he critically succeeds at the saving throw\n* * *\n\n**Effect** Hrungul's defense displays his effortless military skill, unsettling the triggering foe. He attempts to [[Actions/Demoralize|Demoralize]] the foe, using his Warfare Lore skill modifier in place of his Intimidation skill."
 
   - name: "Quick Block"
     desc: "  At the start of his turn, Hrungul gains an additional reaction that he can use only to Shield Block."
  
+```
+
+```encounter-table
+name: Hrungul Ironeye
+creatures:
+  - 1: Hrungul Ironeye
 ```
 
 

@@ -4,6 +4,7 @@ title: "Specialist's Ring (Illusion)"
 cssclasses: pf2e,pf2e-spell
 tags:
   - trait/focused
+  - trait/illusion
   - trait/invested
   - trait/magical
   - trait/common
@@ -12,7 +13,7 @@ license: OGL
 ---
 # Specialist's Ring (Illusion)
 ## Item 10
-### [[focused]][[invested]][[magical]]
+### [[focused]][[illusion]][[invested]][[magical]]
 
 
 **Price** 1000 gp; 

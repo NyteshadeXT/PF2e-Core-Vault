@@ -12,7 +12,7 @@ license: OGL
 ---
 # Craft Disharmonic Instrument
 
-### [[downtime]][[manipulate]]
+### [[downtime]][[3-Rules/Rule References/Manipulate]]
 
 **Category** interaction; 
 

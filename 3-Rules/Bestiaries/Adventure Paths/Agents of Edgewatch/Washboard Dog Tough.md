@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.agents-of-edgewatch-bestiary.Actor.5pBr5aWUb7yGCqN7"
 tags:
   - pf2e/creature/type/human
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/7
 statblock: inline
 name: "Washboard Dog Tough"
@@ -21,11 +22,11 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #159: All or Nothing"
 name: "Washboard Dog Tough"
 level: "Creature 7"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Medium"
-trait_01: "human"
-trait_02: "humanoid"
+trait_01: [[human]]
+trait_02: [[humanoid]]
 modifier: 17
 perception:
   - name: "Perception"
@@ -33,7 +34,7 @@ perception:
 languages: "Common"
 skills:
   - name: "Skills"
-    desc: "Athletics: +17, Gang Lore: +13, Intimidation: +13"
+    desc: "Athletics: +17, Intimidation: +13, Gang Lore: +13"
 abilityMods: [4, 3, 4, 0, 2, 0]
 speed: 25 feet
 sourcebook: "_Pathfinder #159: All or Nothing_"
@@ -71,11 +72,17 @@ attacks:
     desc: "  Whenever the gang tough makes a successful melee Strike against a frightened creature, the Strike deals an extra weapon die of damage."
 
   - name: "Frightening Critical"
-    desc: "  When the gang tough's Strike with a bludgeoning weapon is a critical hit and deals damage, the target becomes [[Conditions/Frightened 1|Frightened 1]]."
+    desc: "  When the gang tough's Strike with a bludgeoning weapon is a critical hit and deals damage, the target becomes [[Conditions/Frightened|Frightened 1]]."
 
   - name: "Scraping Clamor"
-    desc: "`pf2:1` (auditory,manipulate) The Washboard Dog scrapes their weapon up and down their washboard shield, making such a clatter that it's hard to hear anything over the din. Until the beginning of the Washboard Dog tough's next turn, all creatures within 30 feet gain a +1 circumstance bonus to any saves to resist auditory spells or abilities.\n[[Bestiary Effects/Effect_ Scraping Clamor|Effect: Scraping Clamor]]"
+    desc: "`pf2:1` (auditory,manipulate) The Washboard Dog scrapes their weapon up and down their washboard shield, making such a clatter that it's hard to hear anything over the din. Until the beginning of the Washboard Dog tough's next turn, all creatures within 30 feet gain a +1 circumstance bonus to any saves to resist auditory spells or abilities.\n\n[[Bestiary Effects/Effect_ Scraping Clamor|Effect: Scraping Clamor]]"
  
+```
+
+```encounter-table
+name: Washboard Dog Tough
+creatures:
+  - 1: Washboard Dog Tough
 ```
 
 

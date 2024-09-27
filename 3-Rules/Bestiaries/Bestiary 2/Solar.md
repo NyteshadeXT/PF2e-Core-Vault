@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/celestial
   - pf2e/creature/type/good
   - pf2e/creature/type/holy
+  - pf2eMonster
   - pf2e/creature/level/23
 statblock: inline
 name: "Solar"
@@ -24,18 +25,18 @@ token: [[modules/pf2e-tokens-bestiaries/portraits/divine/angel/solar.webp| ]]
 source: "Pathfinder Bestiary 2"
 name: "Solar"
 level: "Creature 23"
-rare_03: "Rare"
+rare_03: [[Rare]]
 alignment: ""
 size: "Large"
-trait_01: "angel"
-trait_02: "celestial"
-trait_03: "good"
-trait_04: "holy"
+trait_01: [[angel]]
+trait_02: [[celestial]]
+trait_03: [[good]]
+trait_04: [[holy]]
 modifier: 40
 perception:
   - name: "Perception"
     desc: "+40; Darkvision, Truesight"
-languages: "Diabolic, Draconic, Empyrean"
+languages: "Diabolic, Draconic, Empyrean; tongues"
 skills:
   - name: "Skills"
     desc: "Arcana: +38, Athletics: +43, Diplomacy: +43, Religion: +43, Stealth: +36, Survival: +46"
@@ -58,7 +59,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Aura of Protection"
-    desc: " (aura,divine) 20 feet. Allies in the solar's aura gain a +2 status bonus to AC against evil creatures and a +2 status bonus to saves against effects from evil creatures. The bonus increases to +4 against control by evil creatures and attacks by evil summoned creatures. When the solar or an ally is hit by an attack from a creature in the aura, that foe must succeed at a DC 43 Will check save or be blinded for 1 minute (this is an incapacitation effect). It's then temporarily immune for 1 minute.\n[[Bestiary Effects/Effect_ Aura of Protection (Solar)|Effect: Aura of Protection (Solar)]]"
+    desc: " (aura,divine) 20 feet. Allies in the solar's aura gain a +2 status bonus to AC against evil creatures and a +2 status bonus to saves against effects from evil creatures. The bonus increases to +4 against control by evil creatures and attacks by evil summoned creatures. When the solar or an ally is hit by an attack from a creature in the aura, that foe must succeed at a DC 43 Will check save or be blinded for 1 minute (this is an incapacitation effect). It's then temporarily immune for 1 minute.\n\n[[Bestiary Effects/Effect_ Aura of Protection (Solar)|Effect: Aura of Protection (Solar)]]"
 
 attacks:
   - name: ""
@@ -76,17 +77,23 @@ attacks:
     desc: "_[[Spells/Angelic Messenger|Angelic Messenger]]_, _[[Spells/Animate Object|Animate Object]]_, _[[Spells/Call Spirit|Call Spirit]]_, _[[Spells/Freedom|Freedom]]_, _[[Spells/Imprisonment|Imprisonment]]_, _[[Spells/Resurrect|Resurrect]]_"
 
   - name: "Animate Weapon"
-    desc: "`pf2:r`  **Trigger** The solar hits with a melee weapon Strike while Animate Weapon is not already in effect\n**Effect** The solar's weapon leaps into the air and moves with the solar as if held with both hands. The weapon gains the effects of the dancing weapon rune for 1 minute."
+    desc: "`pf2:r`  **Trigger** The solar hits with a melee weapon Strike while Animate Weapon is not already in effect\n* * *\n\n**Effect** The solar's weapon leaps into the air and moves with the solar as if held with both hands. The weapon gains the effects of the dancing weapon rune for 1 minute."
 
   - name: "Arrow of Mortality"
-    desc: "  The solar doesn't need to provide ammunition for their bow. When they draw their bow, they create a magical arrow of light that sheds bright light in a 20-foot radius until the end of the solar's next turn.\nOn a critical hit with the arrow, if the target has 75 or fewer Hit Points after taking the damage, it drops to 0 Hit Points and becomes [[Conditions/Dying 1|Dying 1]] (or, if it was already dying, increases its dying value by 3)."
+    desc: "  The solar doesn't need to provide ammunition for their bow. When they draw their bow, they create a magical arrow of light that sheds bright light in a 20-foot radius until the end of the solar's next turn.\n\nOn a critical hit with the arrow, if the target has 75 or fewer Hit Points after taking the damage, it drops to 0 Hit Points and becomes [[Conditions/Dying|Dying 1]] (or, if it was already dying, increases its dying value by 3)."
 
   - name: "[[Bestiary Ability Glossary/Change Shape|Change Shape]]"
-    desc: "`pf2:1` (concentrate,divine,polymorph) The solar can take on the appearance of any Small or Medium humanoid. This doesn't change their Speed or Strikes.\n"
+    desc: "`pf2:1` (concentrate,divine,polymorph) The solar can take on the appearance of any Small or Medium humanoid. This doesn't change their Speed or Strikes.\n\n* * *\n"
 
   - name: "Holy Armaments"
     desc: " (divine) Any weapon gains the effect of a _[[Equipment/Holy|Holy]]_ property rune while a solar wields it."
  
+```
+
+```encounter-table
+name: Solar
+creatures:
+  - 1: Solar
 ```
 
 

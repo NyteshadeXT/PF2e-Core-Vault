@@ -5,6 +5,7 @@ noteType: pf2eHazard
 tags:
   - magical
   - trap
+  - pf2eHazard
 
 source: Pathfinder Adventure: Shadows at Sundown
 aliases: "Compendium.pf2e.shadows-at-sundown-bestiary.Actor.YSeSON3GciHKf6VM" 
@@ -22,14 +23,14 @@ name: "Life Draining Thunder"
 level: "Hazard 13"
 
 
-trait_01: "magical"
-trait_02: "trap"
+trait_01: [[magical]]
+trait_02: [[trap]]
 modifier: 25
 sourcebook: "_Pathfinder Adventure: Shadows at Sundown_"
 ac: 10
 armorclass:
   - name: AC
-    desc: "10; __Fort__ +0, __Ref__ +0, __Will__ +0"
+    desc: "10; "
 hp: 10
 health:
   - name: ""
@@ -51,9 +52,15 @@ attacks:
   - name: ""
 
   - name: "Thunderous Lifedrain"
-    desc: "`pf2:r` (occult, sonic) **Trigger** A living creature approaches within 5 feet of either double door\n**Effect** All living creatures in the room take 9d6 void damage and 9d6 sonic damage (DC 33 Reflex check)."
+    desc: "`pf2:r` (occult, sonic) **Trigger** A living creature approaches within 5 feet of either double door\n* * *\n\n**Effect** All living creatures in the room take 9d6 void damage and 9d6 sonic damage (DC 33 Reflex check)."
 
 
 
+```
+
+```encounter-table
+name: Life Draining Thunder
+creatures:
+  - 1: Life Draining Thunder
 ```
 

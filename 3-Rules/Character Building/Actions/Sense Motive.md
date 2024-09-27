@@ -14,7 +14,7 @@ license: ORC
 ---
 # Sense Motive `pf2:1`
 
-### [[concentrate]][[general]][[secret]]
+### [[3-Rules/Rule References/Concentrate]][[general]][[secret]]
 
 **Category** interaction; 
 

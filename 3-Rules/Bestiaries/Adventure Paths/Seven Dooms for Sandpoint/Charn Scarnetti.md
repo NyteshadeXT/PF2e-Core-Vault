@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.seven-dooms-for-sandpoint-bestiary.Actor.tlduVEwwd5zQa
 tags:
   - pf2e/creature/type/human
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/3
 statblock: inline
 name: "Charn Scarnetti"
@@ -21,11 +22,11 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #200: Seven Dooms for Sandpoint"
 name: "Charn Scarnetti"
 level: "Creature 3"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Medium"
-trait_01: "human"
-trait_02: "humanoid"
+trait_01: [[human]]
+trait_02: [[humanoid]]
 modifier: 11
 perception:
   - name: "Perception"
@@ -33,7 +34,7 @@ perception:
 languages: "Common"
 skills:
   - name: "Skills"
-    desc: "Deception: +10, Diplomacy: +10, Gambling Lore: +8, Intimidation: +9"
+    desc: "Deception: +10, Diplomacy: +10, Intimidation: +9, Gambling Lore: +8"
 abilityMods: [2, 3, 1, 1, 2, 4]
 speed: 25 feet
 sourcebook: "_Pathfinder #200: Seven Dooms for Sandpoint_"
@@ -68,11 +69,17 @@ attacks:
     desc: "  After years of sticking their nose where it doesn't belong, the noble has learned to read lips from afar, with the effects of the [[Feats/Read Lips|Read Lips]] feat."
 
   - name: "Noble's Ruse"
-    desc: "`pf2:1`  **Frequency** Once per round\n**Effect** The noble [[Actions/Feint|Feints]]. On a success, the noble Strikes the target."
+    desc: "`pf2:1`  **Frequency** Once per round\n* * *\n\n**Effect** The noble [[Actions/Feint|Feints]]. On a success, the noble Strikes the target."
 
   - name: "[[Bestiary Ability Glossary/Sneak Attack|Sneak Attack]]"
     desc: "  The noble deals 1d6 extra precision damage to [[Conditions/Off-Guard|Off-Guard]] creatures."
  
+```
+
+```encounter-table
+name: Charn Scarnetti
+creatures:
+  - 1: Charn Scarnetti
 ```
 
 

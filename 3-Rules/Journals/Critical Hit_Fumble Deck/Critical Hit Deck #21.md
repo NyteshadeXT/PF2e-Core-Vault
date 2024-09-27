@@ -8,13 +8,13 @@ tags:
 ---
 # Collapsed Lung
 
-> Normal damage. **Crit Effect:** Until healed, the target is [[Conditions/Enfeebled 1|Enfeebled 2]] and [[Conditions/Fatigued|Fatigued]].
+> Normal damage. **Crit Effect:** Until healed, the target is [[Conditions/Enfeebled|Enfeebled 2]] and [[Conditions/Fatigued|Fatigued]].
 
 `Bludgeoning`
 
 # Never Cluster
 
-> Normal damage. **Crit Effect:** The target is [[Conditions/Stunned 1|Stunned 2]].
+> Normal damage. **Crit Effect:** The target is [[Conditions/Stunned|Stunned 2]].
 
 `Piercing`
 

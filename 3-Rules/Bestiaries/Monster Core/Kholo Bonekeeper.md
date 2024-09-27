@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.pathfinder-monster-core.Actor.yogotW0edcHEPeuR"
 tags:
   - pf2e/creature/type/gnoll
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/3
   - remaster
 statblock: inline
@@ -26,8 +27,8 @@ level: "Creature 3"
 
 alignment: ""
 size: "Medium"
-trait_01: "gnoll"
-trait_02: "humanoid"
+trait_01: [[gnoll]]
+trait_02: [[humanoid]]
 modifier: 8
 perception:
   - name: "Perception"
@@ -67,11 +68,17 @@ attacks:
     desc: "DC 22, attack +10; __2nd __  _[[Spells/Darkness|Darkness]]_, _[[Spells/Spiritual Armament|Spiritual Armament]]_; __1st __  _[[Spells/Command|Command]]_, _[[Spells/Fear|Fear]]_, _[[Spells/Harm|Harm]]_, _[[Spells/Runic Weapon|Runic Weapon]]_\n__Cantrips__  __(2nd)__ _[[Spells/Daze|Daze]]_, _[[Spells/Detect Magic|Detect Magic]]_, _[[Spells/Light|Light]]_, _[[Spells/Read Aura|Read Aura]]_, _[[Spells/Sigil|Sigil]]_"
 
   - name: "Pack Attack"
-    desc: "  A kholo hunter deals 1d4 extra damage to any creature that's within reach of at least two of the kholo hunter's allies."
+    desc: "  A kholo bonekeeper deals 1d4 extra damage to any creature that's within reach of at least two of the kholo bonekeeper's allies."
 
   - name: "Rugged Travel"
     desc: "  A kholo ignores the first square of difficult terrain they move into each time they Step or Stride."
  
+```
+
+```encounter-table
+name: Kholo Bonekeeper
+creatures:
+  - 1: Kholo Bonekeeper
 ```
 
 

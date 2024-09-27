@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/giant
   - pf2e/creature/type/troll
+  - pf2eMonster
   - pf2e/creature/level/5
 statblock: inline
 name: "Gurija"
@@ -23,13 +24,13 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Kingmaker"
 name: "Gurija"
 level: "Creature 5"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Large"
-trait_01: "chaotic"
-trait_02: "evil"
-trait_03: "giant"
-trait_04: "troll"
+trait_01: [[chaotic]]
+trait_02: [[evil]]
+trait_03: [[giant]]
+trait_04: [[troll]]
 modifier: 11
 perception:
   - name: "Perception"
@@ -69,8 +70,14 @@ attacks:
     desc: "DC 22, attack +14; __3rd __ (2 slots) _[[Spells/Lightning Bolt|Lightning Bolt]]_, _[[Spells/Slow|Slow]]_; __2nd __ (3 slots) _[[Spells/Dispel Magic|Dispel Magic]]_, _[[Spells/Hydraulic Push|Hydraulic Push]]_, _[[Spells/Resist Energy|Resist Energy]]_; __1st __ (3 slots) _[[Spells/Fear|Fear]]_, _[[Spells/Runic Body|Magic Fang]]_, _[[Spells/Shocking Grasp|Shocking Grasp]]_\n__Cantrips__  __(3rd)__ _[[Spells/Electric Arc|Electric Arc]]_, _[[Spells/Prestidigitation|Prestidigitation]]_, _[[Spells/Ray of Frost|Ray of Frost]]_, _[[Spells/Read Aura|Read Aura]]_, _[[Spells/Tangle Vine|Tanglefoot]]_"
 
   - name: "Sudden Stormburst"
-    desc: "`pf2:r` (primal,water) **Requirements** An ally within 60 feet is suffering persistent acid or fire damage.\n**Effect** Gurija summons a torrential but localized rainstorm around the ally that washes off any acid or douses any fire on it to immediately end persistent acid or fire damage."
+    desc: "`pf2:r` (primal,water) **Requirements** An ally within 60 feet is suffering persistent acid or fire damage.\n* * *\n\n**Effect** Gurija summons a torrential but localized rainstorm around the ally that washes off any acid or douses any fire on it to immediately end persistent acid or fire damage."
  
+```
+
+```encounter-table
+name: Gurija
+creatures:
+  - 1: Gurija
 ```
 
 

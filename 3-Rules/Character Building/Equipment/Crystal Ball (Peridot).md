@@ -12,7 +12,7 @@ license: ORC
 ---
 # Crystal Ball (Peridot)
 ## Item 17
-### [uncommon](uncommon "Uncommon Rarity Trait")[[magical]][[scrying]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[3-Rules/Rule References/Magical]][[3-Rules/trait_reference/scrying]]
 
 
 **Price** 12500 gp; 

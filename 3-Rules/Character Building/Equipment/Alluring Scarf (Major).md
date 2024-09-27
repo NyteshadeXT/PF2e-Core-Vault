@@ -10,7 +10,7 @@ license: OGL
 ---
 # Alluring Scarf (Major)
 ## Item 16
-### [uncommon](uncommon "Uncommon Rarity Trait")[[magical]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[3-Rules/Rule References/Magical]]
 
 
 **Price** 8000 gp; 

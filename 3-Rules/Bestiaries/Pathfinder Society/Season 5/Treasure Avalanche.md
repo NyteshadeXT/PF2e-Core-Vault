@@ -3,6 +3,7 @@ title: Treasure Avalanche
 obsidianUIMode: preview
 noteType: pf2eHazard
 tags:
+  - pf2eHazard
 
 source: Pathfinder Society Scenario #5-04: Necessary Introductions
 aliases: "Compendium.pf2e.pfs-season-5-bestiary.Actor.FnDZckxPSmYbURSM" 
@@ -25,7 +26,7 @@ sourcebook: "_Pathfinder Society Scenario #5-04: Necessary Introductions_"
 ac: 14
 armorclass:
   - name: AC
-    desc: "14; __Fort__ +10, __Ref__ +4, __Will__ NaN"
+    desc: "14; __Fort__ +10, __Ref__ +4, "
 hp: 24
 health:
   - name: ""
@@ -47,9 +48,15 @@ attacks:
   - name: ""
 
   - name: "Flood"
-    desc: "`pf2:r` **Trigger** A creature moves within 5 feet of the treasure pile\n**Effect** Treasure slides down the side of the triggering creature in a large wave. All creatures within 15 feet of the falling treasure must attempt a DC 16 Reflex check save as an onslaught of treasures bears down on them, dealing 2d6 + 5 bludgeoning damage.\n**Critical Success** The creature takes no damage.\n**Success** The creature takes half damage.\n**Failure** The creature takes full damage and is trapped in treasure, becoming [[Conditions/Immobilized|Immobilized]] until they [[Actions/Escape|Escape]] the collapsed treasure (DC 16).\n**Critical Failure** The creature takes full damage and is buried in treasure, requiring another creature to dig them out of the treasure before they can Escape."
+    desc: "`pf2:r` **Trigger** A creature moves within 5 feet of the treasure pile\n* * *\n\n**Effect** Treasure slides down the side of the triggering creature in a large wave. All creatures within 15 feet of the falling treasure must attempt a DC 16 Reflex check save as an onslaught of treasures bears down on them, dealing 2d6+5 bludgeoning damage.\n* * *\n\n**Critical Success** The creature takes no damage.\n\n**Success** The creature takes half damage.\n\n**Failure** The creature takes full damage and is trapped in treasure, becoming [[Conditions/Immobilized|Immobilized]] until they [[Actions/Escape|Escape]] the collapsed treasure (DC 16).\n\n**Critical Failure** The creature takes full damage and is buried in treasure, requiring another creature to dig them out of the treasure before they can Escape."
 
 
 
+```
+
+```encounter-table
+name: Treasure Avalanche
+creatures:
+  - 1: Treasure Avalanche
 ```
 

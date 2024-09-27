@@ -22,7 +22,7 @@ license: OGL
 
 **Prerequisite** The relic is a worn item
 
-**Activate** command
+**Activate** `pf2:1` (concentrate)
 
 * * *
 

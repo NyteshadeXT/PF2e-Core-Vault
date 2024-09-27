@@ -8,7 +8,7 @@ aliases: "Compendium.pf2e.equipment-effects.Item.sZPXKQACna6YDsVX"
 license: OGL
 ---
 # Effect: Sanguine Mutagen (Moderate)
-## Level 1
+## Level 3
 ### 
 
 

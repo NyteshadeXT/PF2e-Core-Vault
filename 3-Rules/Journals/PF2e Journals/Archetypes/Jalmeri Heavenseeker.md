@@ -18,7 +18,7 @@ You can select the dedication feat for the Jalmeri Heavenseeker archetype even i
 
 * * *
 
-You become trained in either Acrobatics or Occultism; if you were already trained in both these skills, you become an expert in one of them instead. You gain either the [[Feats/Ki Rush|Ki Rush]] or [[Feats/Ki Strike|Ki Strike]] monk feat, which grants you a ki spell and a focus pool of 1 Focus Point that you can recover using the Refocus activity as a monk does. If you already have both feats, you can instead choose a single 1st‐level monk feat.
+You become trained in either Acrobatics or Occultism; if you were already trained in both these skills, you become an expert in one of them instead. You gain either the [[Feats/Qi Spells|Qi Spells]] or [[Feats/Qi Spells|Qi Spells]] monk feat, which grants you a ki spell and a focus pool of 1 Focus Point that you can recover using the Refocus activity as a monk does. If you already have both feats, you can instead choose a single 1st‐level monk feat.
 
 **Special** You can't select another dedication feat until you gain two other feats from the Jalmeri Heavenseeker or Student of Perfection archetypes.
 

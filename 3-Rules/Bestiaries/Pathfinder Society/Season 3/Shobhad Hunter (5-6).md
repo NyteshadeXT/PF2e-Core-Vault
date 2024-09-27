@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.pfs-season-3-bestiary.Actor.Q2a9EA1zQB8acuiF"
 tags:
   - pf2e/creature/type/humanoid
   - pf2e/creature/type/shobhad
+  - pf2eMonster
   - pf2e/creature/level/4
 statblock: inline
 name: "Shobhad Hunter (5-6)"
@@ -21,11 +22,11 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Society Special #3-99: Fate in the Future"
 name: "Shobhad Hunter (5-6)"
 level: "Creature 4"
-rare_03: "Rare"
+rare_03: [[Rare]]
 alignment: ""
 size: "Large"
-trait_01: "humanoid"
-trait_02: "shobhad"
+trait_01: [[humanoid]]
+trait_02: [[shobhad]]
 modifier: 13
 perception:
   - name: "Perception"
@@ -82,6 +83,12 @@ attacks:
   - name: "Precision Edge"
     desc: "  The first time the shobhad hunter hits their hunted prey in a round, they deal an additional 1d8 precision damage."
  
+```
+
+```encounter-table
+name: Shobhad Hunter (5-6)
+creatures:
+  - 1: Shobhad Hunter (5-6)
 ```
 
 

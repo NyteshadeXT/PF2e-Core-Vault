@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.pathfinder-bestiary-3.Actor.oE52gEbyrF4Dl3Go"
 tags:
   - pf2e/creature/type/aberration
   - pf2e/creature/type/lawful
+  - pf2eMonster
   - pf2e/creature/level/9
 statblock: inline
 name: "Yithian"
@@ -22,16 +23,16 @@ token: [[modules/pf2e-tokens-bestiaries/portraits/aberrant/eldritch/yithian.webp
 source: "Pathfinder Bestiary 3"
 name: "Yithian"
 level: "Creature 9"
-rare_03: "Rare"
+rare_03: [[Rare]]
 alignment: ""
 size: "Large"
-trait_01: "aberration"
-trait_02: "lawful"
+trait_01: [[aberration]]
+trait_02: [[lawful]]
 modifier: 21
 perception:
   - name: "Perception"
     desc: "+21; Darkvision, Thoughtsense (Imprecise) 60 Feet"
-languages: "Aklo, Common, Yithian"
+languages: "Aklo, Common, Yithian; 20 other languages, telepathy 100 feet"
 skills:
   - name: "Skills"
     desc: "Arcana: +19, Diplomacy: +14, Nature: +18, Occultism: +21, Society: +19"
@@ -64,6 +65,12 @@ attacks:
   - name: "Mind Swap"
     desc: "  When a yithian successfully casts [[Spells/Possession|Possession]], they exchange their mind and soul with the target. Each creature takes control of the other's body. This effect lasts until the yithian Dismisses the spell or they're forced out by any effect that ends Possession. When the effect ends, each creature's mind and soul returns to its own body, regardless of physical or temporal distance, and the yithian can cast [[Spells/Rewrite Memory|Rewrite Memory]] on the target to remove any or all knowledge of its time being possessed. If the yithian is forced out of the target's mind by an effect, the yithian can't remove such knowledge."
  
+```
+
+```encounter-table
+name: Yithian
+creatures:
+  - 1: Yithian
 ```
 
 

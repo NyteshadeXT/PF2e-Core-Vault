@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/chaotic
   - pf2e/creature/type/good
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/2
 statblock: inline
 name: "Anadi Hunter"
@@ -23,13 +24,13 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Lost Omens: The Mwangi Expanse"
 name: "Anadi Hunter"
 level: "Creature 2"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Medium"
-trait_01: "anadi"
-trait_02: "chaotic"
-trait_03: "good"
-trait_04: "humanoid"
+trait_01: [[anadi]]
+trait_02: [[chaotic]]
+trait_03: [[good]]
+trait_04: [[humanoid]]
 modifier: 9
 perception:
   - name: "Perception"
@@ -37,7 +38,7 @@ perception:
 languages: "Anadi, Mwangi"
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +8, Athletics: +6 (+8 to Climb in hybrid or spider form), Crafting: +6 (+10 to weaving), Nature: +5, Stealth: +8"
+    desc: "Acrobatics: +8, Athletics: +6, Crafting: +6, Nature: +5, Stealth: +8"
 abilityMods: [2, 4, 2, 0, 1, 0]
 speed: 25 feet,  climb 25 feet
 sourcebook: "_Pathfinder Lost Omens: The Mwangi Expanse_"
@@ -69,14 +70,20 @@ attacks:
     desc: "`pf2:1` Composite Shortbow +9 (deadly d10, propulsive, range increment 60 feet, reload 0)\n__Damage__  1d6 + 4 piercing"
 
   - name: "Anadi Venom"
-    desc: " (poison) **Saving Throw** DC 16 Fortitude check\n**Maximum Duration** 4 rounds\n**Stage 1** 1d6 poison damage and [[Conditions/Off-Guard|Off-Guard]] (1 round)\n**Stage 2** 1d6 poison damage, off-guard, and [[Conditions/Clumsy 1|Clumsy 1]] (1 round)"
+    desc: " (poison) **Saving Throw** DC 16 Fortitude check\n\n**Maximum Duration** 4 rounds\n\n**Stage 1** 1d6 poison damage and [[Conditions/Off-Guard|Off-Guard]] (1 round)\n\n**Stage 2** 1d6 poison damage, off-guard, and [[Conditions/Clumsy|Clumsy 1]] (1 round)"
 
   - name: "[[Bestiary Ability Glossary/Change Shape|Change Shape]]"
-    desc: "`pf2:1` (arcane,concentrate,polymorph) The anadi changes into their hybrid form, spider form, or human form. The above statistics assume the anadi is in their hybrid form. While in their human form, the anadi hunter can't use their fangs attack and loses their climb Speed. When in spider form, they can't use weapons.\n"
+    desc: "`pf2:1` (arcane,concentrate,polymorph) The anadi changes into their hybrid form, spider form, or human form. The above statistics assume the anadi is in their hybrid form. While in their human form, the anadi hunter can't use their fangs attack and loses their climb Speed. When in spider form, they can't use weapons.\n\n* * *\n"
 
   - name: "Spin Silk"
     desc: " (concentrate,exploration,manipulate) By spending several minutes, an anadi can produce silk to craft items made of cloth. A single anadi can produce enough silk in a day to craft a single garment."
  
+```
+
+```encounter-table
+name: Anadi Hunter
+creatures:
+  - 1: Anadi Hunter
 ```
 
 

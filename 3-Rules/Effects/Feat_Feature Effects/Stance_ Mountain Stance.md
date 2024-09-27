@@ -4,8 +4,9 @@ title: "Stance: Mountain Stance"
 cssclasses: pf2e,pf2e-action
 tags:
   - trait/common
+  - remaster
 aliases: "Compendium.pf2e.feat-effects.Item.gYpy9XBPScIlY93p"
-license: OGL
+license: ORC
 ---
 # Stance: Mountain Stance
 
@@ -22,5 +23,5 @@ You enter the stance of an implacable mountain—a technique first discovered by
 
 While in Mountain Stance, you gain a +4 item bonus to AC and a +2 circumstance bonus to any defenses against being Shoved or Tripped. However, you have a Dexterity modifier cap to your AC of +0, meaning you don't add your Dexterity to your AC, and your Speeds are all reduced by 5 feet. The item bonus to AC from Mountain Stance is cumulative with armor potency runes on your explorer's clothing, mage armor, and bracers of armor.
 
-*Source: Pathfinder Core Rulebook*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

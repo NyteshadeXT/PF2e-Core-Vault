@@ -6,8 +6,9 @@ tags:
   - trait/barbarian
   - trait/common
   - category/class
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.QO8l5Dao8HnaFQE4"
-license: OGL
+license: ORC
 ---
 # Impressive Landing `pf2:r`
 ## Feat 10
@@ -22,7 +23,7 @@ license: OGL
 
 * * *
 
-You slam into the ground, shattering it around you. Treat the fall as 10 feet shorter. You land on your feet. All adjacent spaces become difficult terrain, and creatures in those spaces when you land take 5 bludgeoning damage as the debris hits them and are [[Conditions/Off-Guard|Off-Guard]] until the start of their next turn.
+You slam into the ground, shattering it around you. Treat the fall as 10 feet shorter. You land on your feet. The ground in a @Template\[emanation|distance:5\] becomes difficult terrain. Any creature in the emanation when you land takes 5 bludgeoning damage as the debris hits it and is [[Conditions/Off-Guard|Off-Guard]] until the start of its next turn.
 
-*Source: Pathfinder Advanced Player's Guide*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

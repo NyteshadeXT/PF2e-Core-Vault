@@ -12,7 +12,7 @@ license: OGL
 ---
 # Blast Boots (Moderate)
 ## Item 3
-### [uncommon](uncommon "Uncommon Rarity Trait")[[consumable]][[gadget]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[consumable]][[gadget]]
 
 **Category** gadget; 
 **Price** 11 gp; 

@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/dero
   - pf2e/creature/type/evil
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/4
 statblock: inline
 name: "Zaiox"
@@ -23,13 +24,13 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Adventure: Rusthenge"
 name: "Zaiox"
 level: "Creature 4"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Small"
-trait_01: "chaotic"
-trait_02: "dero"
-trait_03: "evil"
-trait_04: "humanoid"
+trait_01: [[chaotic]]
+trait_02: [[dero]]
+trait_03: [[evil]]
+trait_04: [[humanoid]]
 modifier: 7
 perception:
   - name: "Perception"
@@ -75,8 +76,14 @@ attacks:
     desc: "DC 21, attack +13; __2nd __  _[[Spells/Darkness|Darkness (At Will)]]_, _[[Spells/Noise Blast|Sound Burst]]_\n__Cantrips__  __(1st)__ _[[Spells/Daze|Daze]]_, _[[Spells/Ghost Sound|Ghost Sound]]_"
 
   - name: "Cytillesh Stare"
-    desc: "`pf2:1` (concentrate,incapacitation,mental,visual) **Frequency** once per round\n**Effect** Zaiox glares at a creature he can see within 30 feet. The target is [[Conditions/Dazzled|Dazzled]] for 1 round and must succeed at a DC 21 Will check save or be [[Conditions/Stupefied 1|Stupefied 1]] for 1 round."
+    desc: "`pf2:1` (concentrate,incapacitation,mental,visual) **Frequency** once per round\n* * *\n\n**Effect** Zaiox glares at a creature he can see within 30 feet. The target is [[Conditions/Dazzled|Dazzled]] for 1 round and must succeed at a DC 21 Will check save or be [[Conditions/Stupefied|Stupefied 1]] for 1 round."
  
+```
+
+```encounter-table
+name: Zaiox
+creatures:
+  - 1: Zaiox
 ```
 
 

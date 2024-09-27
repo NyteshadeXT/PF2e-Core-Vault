@@ -10,6 +10,7 @@ tags:
   - pf2e/creature/type/spirit
   - pf2e/creature/type/undead
   - pf2e/creature/type/unholy
+  - pf2eMonster
   - pf2e/creature/level/4
   - remaster
 statblock: inline
@@ -29,11 +30,11 @@ level: "Creature 4"
 
 alignment: ""
 size: "Medium"
-trait_01: "ghost"
-trait_02: "incorporeal"
-trait_03: "spirit"
-trait_04: "undead"
-trait_05: "unholy"
+trait_01: [[ghost]]
+trait_02: [[incorporeal]]
+trait_03: [[spirit]]
+trait_04: [[undead]]
+trait_05: [[unholy]]
 modifier: 10
 perception:
   - name: "Perception"
@@ -41,7 +42,7 @@ perception:
 languages: "Common"
 skills:
   - name: "Skills"
-    desc: "Dwelling Lore (applies to the place the ghost is bound to): +10, Stealth: +12"
+    desc: "Stealth: +12, Dwelling Lore (applies to the place the ghost is bound to): +10"
 abilityMods: [-5, 3, 0, 0, 2, 2]
 speed:  fly 25 feet
 sourcebook: "_Pathfinder Monster Core_"
@@ -63,7 +64,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "[[Creature Family Ability Glossary/(Ghost) Rejuvenation|Rejuvenation]]"
-    desc: " (divine) Setting right the injustice that led to the commoner’s death allows it to move on to the afterlife.\n* * *\n\nWhen a ghost is destroyed, it re-forms after 2d4 days within the location it's bound to, fully healed. A ghost can be permanently destroyed only if someone determines the reason for its existence and sets right whatever prevents the spirit from resting."
+    desc: " (divine) Setting right the injustice that led to the commoner's death allows it to move on to the afterlife.\n* * *\n\nWhen a ghost is destroyed, it re-forms after 2d4 days within the location it's bound to, fully healed. A ghost can be permanently destroyed only if someone determines the reason for its existence and sets right whatever prevents the spirit from resting."
 
 attacks:
   - name: ""
@@ -72,8 +73,14 @@ attacks:
     desc: "`pf2:1` Ghostly Hand +13 (agile, finesse, magical)\n__Damage__  2d6 + 2 void"
 
   - name: "[[Creature Family Ability Glossary/(Ghost) Frightful Moan|Frightful Moan]]"
-    desc: "`pf2:2` (auditory,divine,emotion,fear,mental) The ghost laments its fate, forcing each living creature within 30 feet to attempt a DC 21 Will check save. On a failure, a creature becomes [[Conditions/Frightened 1|Frightened 2]] (or [[Conditions/Frightened 1|Frightened 3]] on a critical failure). On a success, a creature is temporarily immune to this ghost's frightful moan for 1 minute."
+    desc: "`pf2:2` (auditory,divine,emotion,fear,mental) The ghost laments its fate, forcing each living creature within 30 feet to attempt a DC 21 Will check save. On a failure, a creature becomes [[Conditions/Frightened|Frightened 2]] (or [[Conditions/Frightened|Frightened 3]] on a critical failure). On a success, a creature is temporarily immune to this ghost's frightful moan for 1 minute."
  
+```
+
+```encounter-table
+name: Ghost Commoner
+creatures:
+  - 1: Ghost Commoner
 ```
 
 

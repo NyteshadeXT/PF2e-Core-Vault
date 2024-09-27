@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.strength-of-thousands-bestiary.Actor.rSCb5qmvljAHZ65d"
 tags:
   - pf2e/creature/type/animal
   - pf2e/creature/type/swarm
+  - pf2eMonster
   - pf2e/creature/level/-1
 statblock: inline
 name: "Silverfish Swarm"
@@ -21,15 +22,16 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #169: Kindled Magic"
 name: "Silverfish Swarm"
 level: "Creature -1"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Large"
-trait_01: "animal"
-trait_02: "swarm"
+trait_01: [[animal]]
+trait_02: [[swarm]]
 modifier: 5
 perception:
   - name: "Perception"
     desc: "+5; Darkvision"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Acrobatics: +6, Stealth: +4"
@@ -49,7 +51,7 @@ abilities_top:
   - name: ""
 
   - name: "Voracious Consumption"
-    desc: "  Action 1 minute\nA silverfish swarm consumes up to 1 Bulk of paper, cloth, or similar material. It can consume up to 4 Bulk each day."
+    desc: "  Action 1 minute\n\nA silverfish swarm consumes up to 1 Bulk of paper, cloth, or similar material. It can consume up to 4 Bulk each day."
 
 abilities_mid:
   - name: ""
@@ -57,8 +59,14 @@ attacks:
   - name: ""
 
   - name: "Swarming Bites"
-    desc: "`pf2:1`  Each enemy in the silverfish swarm's space takes 1d4 piercing damage (DC 14 Fortitude check save). A creature that fails its save is [[Conditions/Sickened 1|Sickened 1]]."
+    desc: "`pf2:1`  Each enemy in the silverfish swarm's space takes 1d4 piercing damage (DC 14 Fortitude check save). A creature that fails its save is [[Conditions/Sickened|Sickened 1]]."
  
+```
+
+```encounter-table
+name: Silverfish Swarm
+creatures:
+  - 1: Silverfish Swarm
 ```
 
 

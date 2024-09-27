@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.pathfinder-bestiary-3.Actor.2DrerJYEJon5U6Fx"
 tags:
   - pf2e/creature/type/mindless
   - pf2e/creature/type/ooze
+  - pf2eMonster
   - pf2e/creature/level/7
 statblock: inline
 name: "Slithering Pit"
@@ -22,15 +23,16 @@ token: [[modules/pf2e-tokens-bestiaries/portraits/aberrant/ooze/slithering-pit.w
 source: "Pathfinder Bestiary 3"
 name: "Slithering Pit"
 level: "Creature 7"
-rare_03: "Rare"
+rare_03: [[Rare]]
 alignment: ""
 size: "Medium"
-trait_01: "mindless"
-trait_02: "ooze"
+trait_01: [[mindless]]
+trait_02: [[ooze]]
 modifier: 9
 perception:
   - name: "Perception"
     desc: "+9; Tremorsense (Imprecise) 60 Feet"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Athletics: +18, Stealth: +10"
@@ -50,7 +52,7 @@ abilities_top:
   - name: ""
 
   - name: "Transparent"
-    desc: "  A slithering pit is so clear it's difficult to spot. A successful DC 30 Perception check check is required to notice a stationary slithering pit, and a creature must be [[Actions/Search|Searching]] to attempt this check.\nA creature that walks into the pit's space might fall into any pit currently in effect due to Dimensional Pit."
+    desc: "  A slithering pit is so clear it's difficult to spot. A successful DC 30 Perception check check is required to notice a stationary slithering pit, and a creature must be [[Actions/Search|Searching]] to attempt this check.\n\nA creature that walks into the pit's space might fall into any pit currently in effect due to Dimensional Pit."
 
 abilities_mid:
   - name: ""
@@ -64,7 +66,7 @@ attacks:
     desc: "`pf2:1` Pseudopod +18 (reach 10 feet)\n__Damage__  2d8 + 9 bludgeoning plus improved-grab"
 
   - name: "Dimensional Pit"
-    desc: "`pf2:2` (extradimensional,occult) The slithering pit opens an extradimensional, 20-foot-deep pit that covers its own space and all adjacent squares unless they're walls or similar blocking terrain.\nAny other creature occupying or entering pit spaces must succeed at a DC 22 Reflex check save or fall into the pit, taking damage from the fall (typically 10 bludgeoning damage). Any creature [[Conditions/Grabbed|Grabbed]] by the ooze falls in and is no longer grabbed, even if it was outside the pit squares.\nWhile a dimensional pit is open, the slithering pit is [[Conditions/Immobilized|Immobilized]], can't be forced to move, and can make pseudopod Strikes originating from the walls of the pit. A creature that starts its turn at the bottom of the pit takes 2d6 acid damage. [[Actions/Climb|Climbing]] the walls of the pit requires a DC 22 Athletics check check.\nWhen the slithering pit dies, the dimensional pit closes and creatures inside are ejected, with the effects of Out You Go."
+    desc: "`pf2:2` (extradimensional,occult) The slithering pit opens an extradimensional, 20-foot-deep pit that covers its own space and all adjacent squares unless they're walls or similar blocking terrain.\n\nAny other creature occupying or entering pit spaces must succeed at a DC 22 Reflex check save or fall into the pit, taking damage from the fall (typically 10 bludgeoning damage). Any creature [[Conditions/Grabbed|Grabbed]] by the ooze falls in and is no longer grabbed, even if it was outside the pit squares.\n\nWhile a dimensional pit is open, the slithering pit is [[Conditions/Immobilized|Immobilized]], can't be forced to move, and can make pseudopod Strikes originating from the walls of the pit. A creature that starts its turn at the bottom of the pit takes 2d6 acid damage. [[Actions/Climb|Climbing]] the walls of the pit requires a DC 22 Athletics check check.\n\nWhen the slithering pit dies, the dimensional pit closes and creatures inside are ejected, with the effects of Out You Go."
 
   - name: "Flurry of Pods"
     desc: "`pf2:2`  The slithering pit makes a single pseudopod Strike against each target within range it doesn't already have [[Conditions/Grabbed|Grabbed]]. These attacks count toward the slithering pit's multiple attack penalty, but the penalty doesn't increase until after all of these attacks."
@@ -72,6 +74,12 @@ attacks:
   - name: "Out You Go"
     desc: "`pf2:1`  The slithering pit closes all pit spaces it created using Dimensional Pit, ejecting all its occupants onto the ground into random free spaces where the pit opened. Each occupant takes 4d6 bludgeoning damage (DC 22 Reflex check save)."
  
+```
+
+```encounter-table
+name: Slithering Pit
+creatures:
+  - 1: Slithering Pit
 ```
 
 

@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/human
   - pf2e/creature/type/humanoid
   - pf2e/creature/type/lawful
+  - pf2eMonster
   - pf2e/creature/level/4
 statblock: inline
 name: "Determined Halran (3-4)"
@@ -22,12 +23,12 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Society Quest #14: The Swordlord&#x27;s Challenge"
 name: "Determined Halran (3-4)"
 level: "Creature 4"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Medium"
-trait_01: "human"
-trait_02: "humanoid"
-trait_03: "lawful"
+trait_01: [[human]]
+trait_02: [[humanoid]]
+trait_03: [[lawful]]
 modifier: 11
 perception:
   - name: "Perception"
@@ -35,7 +36,7 @@ perception:
 languages: "Common, Hallit"
 skills:
   - name: "Skills"
-    desc: "Athletics: +12, Dueling Lore: +8, Intimidation: +10"
+    desc: "Athletics: +12, Intimidation: +10, Dueling Lore: +8"
 abilityMods: [4, 2, 3, 0, -1, 3]
 speed: 25 feet
 sourcebook: "_Pathfinder Society Quest #14: The Swordlord&#x27;s Challenge_"
@@ -64,8 +65,14 @@ attacks:
     desc: "`pf2:1` Aldori Dueling Sword +12 (finesse, versatile p)\n__Damage__  2d8 + 5 slashing"
 
   - name: "[[Actor.xiowQvReC58NPbD5.Item.YiAJAUnLYTzQ6ys0|Unnerving Prowess]]"
-    desc: "  **Trigger** Halran critically succeeds at a Strike or [[Actions/Disarm|Disarm]] with hisAldori dueling sword.\n**Effect** Halran attempts to [[Actions/Demoralize|Demoralize]] the target of his Strike or Disarm. This Demoralize attempt does not have the auditory trait, nor does Halran take a penalty to the check if the target doesn't understand his language."
+    desc: "  **Trigger** Halran critically succeeds at a Strike or [[Actions/Disarm|Disarm]] with hisAldori dueling sword.\n\n**Effect** Halran attempts to [[Actions/Demoralize|Demoralize]] the target of his Strike or Disarm. This Demoralize attempt does not have the auditory trait, nor does Halran take a penalty to the check if the target doesn't understand his language."
  
+```
+
+```encounter-table
+name: Determined Halran (3-4)
+creatures:
+  - 1: Determined Halran (3-4)
 ```
 
 

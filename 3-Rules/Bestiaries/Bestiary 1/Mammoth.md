@@ -6,6 +6,7 @@ cssClasses: pf2e
 aliases: "Compendium.pf2e.pathfinder-bestiary.Actor.yIXRooXdsKtbcw2D" 
 tags:
   - pf2e/creature/type/animal
+  - pf2eMonster
   - pf2e/creature/level/10
 statblock: inline
 name: "Mammoth"
@@ -24,11 +25,12 @@ level: "Creature 10"
 
 alignment: ""
 size: "huge"
-trait_01: "animal"
+trait_01: [[animal]]
 modifier: 18
 perception:
   - name: "Perception"
     desc: "+18; Low-Light Vision, Scent (Imprecise) 30 Feet"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Athletics: +22, Survival: +19"
@@ -68,11 +70,17 @@ attacks:
     desc: "`pf2:1`  The mammoth makes two tusk Strikes, each against a different creature. This counts as one attack for the mammoth's multiple attack penalty, and the penalty doesn't increase until after both attacks."
 
   - name: "[[Bestiary Ability Glossary/Trample|Trample]]"
-    desc: "`pf2:3`  Large or smaller, foot, DC 28 Reflex check\n"
+    desc: "`pf2:3`  Large or smaller, foot, DC 28 Reflex check\n\n* * *\n"
 
   - name: "Grabbing Trunk"
     desc: "  A Medium or smaller creature hit by the mammoth's trunk is [[Conditions/Grabbed|Grabbed]]. If the mammoth moves, it can bring the Grabbed creature along with it."
  
+```
+
+```encounter-table
+name: Mammoth
+creatures:
+  - 1: Mammoth
 ```
 
 

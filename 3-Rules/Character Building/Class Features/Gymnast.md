@@ -6,8 +6,9 @@ tags:
   - trait/swashbuckler
   - trait/common
   - category/classfeature
+  - remaster
 aliases: "Compendium.pf2e.classfeatures.Item.B7RMnrHwQHlezlJT"
-license: OGL
+license: ORC
 ---
 # Gymnast
 ## Feat 1
@@ -18,9 +19,7 @@ license: OGL
 
 
 
-You reposition, maneuver, and bewilder your foes with daring feats of physical prowess.
+You reposition, maneuver, and bewilder your foes with daring feats of physical prowess. You are trained in Athletics. When you [[Actions/Grapple|Grapple]], [[Actions/Reposition|Reposition]], [[Actions/Shove|Shove]], or [[Actions/Trip|Trip]], the action gains the bravado trait.
 
-You are trained in Athletics. You gain [[Feat_Feature Effects/Effect_ Panache|Panache]] during an encounter whenever you successfully [[Actions/Grapple|Grapple]], [[Actions/Shove|Shove]], or [[Actions/Trip|Trip]] a foe.
-
-*Source: Pathfinder Advanced Player's Guide*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

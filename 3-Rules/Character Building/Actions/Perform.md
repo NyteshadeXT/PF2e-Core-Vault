@@ -13,7 +13,7 @@ license: ORC
 ---
 # Perform `pf2:1`
 
-### [[concentrate]][[skill]]
+### [[3-Rules/Rule References/Concentrate]][[skill]]
 
 **Category** interaction; 
 

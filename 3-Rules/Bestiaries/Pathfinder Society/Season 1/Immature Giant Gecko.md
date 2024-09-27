@@ -6,6 +6,7 @@ cssClasses: pf2e
 aliases: "Compendium.pf2e.pfs-season-1-bestiary.Actor.20DJMDdNk0zLzaZZ" 
 tags:
   - pf2e/creature/type/animal
+  - pf2eMonster
   - pf2e/creature/level/0
 statblock: inline
 name: "Immature Giant Gecko"
@@ -23,14 +24,15 @@ level: "Creature 0"
 
 alignment: ""
 size: "Medium"
-trait_01: "animal"
+trait_01: [[animal]]
 modifier: 5
 perception:
   - name: "Perception"
     desc: "+5; Low-Light Vision"
+languages: ""
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +6, Athletics: +3 (+7 to climb), Stealth: +4"
+    desc: "Acrobatics: +6, Athletics: +3, Stealth: +4"
 abilityMods: [2, 3, 1, -4, 2, -2]
 speed: 30 feet,  climb 30 feet
 sourcebook: "_Pathfinder Society Scenario #1-18: Lodge of the Living God_"
@@ -57,6 +59,12 @@ attacks:
   - name: "Melee"
     desc: "`pf2:1` Jaws +6 ()\n__Damage__  1d6 + 2 piercing"
  
+```
+
+```encounter-table
+name: Immature Giant Gecko
+creatures:
+  - 1: Immature Giant Gecko
 ```
 
 

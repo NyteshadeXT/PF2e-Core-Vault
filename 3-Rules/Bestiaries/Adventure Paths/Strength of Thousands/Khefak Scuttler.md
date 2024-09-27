@@ -6,6 +6,7 @@ cssClasses: pf2e
 aliases: "Compendium.pf2e.strength-of-thousands-bestiary.Actor.eKKp33z9z6U8alo9" 
 tags:
   - pf2e/creature/type/animal
+  - pf2eMonster
   - pf2e/creature/level/-1
 statblock: inline
 name: "Khefak Scuttler"
@@ -20,14 +21,15 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #173: Doorway to the Red Star"
 name: "Khefak Scuttler"
 level: "Creature -1"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Small"
-trait_01: "animal"
+trait_01: [[animal]]
 modifier: 4
 perception:
   - name: "Perception"
     desc: "+4; Darkvision, Tremorsense (Imprecise) 60 Feet"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Acrobatics: +5, Athletics: +2, Stealth: +5"
@@ -57,6 +59,12 @@ attacks:
   - name: "Melee"
     desc: "`pf2:1` Mandibles +5 (agile, finesse)\n__Damage__  1d6 piercing"
  
+```
+
+```encounter-table
+name: Khefak Scuttler
+creatures:
+  - 1: Khefak Scuttler
 ```
 
 

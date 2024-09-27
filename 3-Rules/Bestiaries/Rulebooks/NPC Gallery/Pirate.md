@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/chaotic
   - pf2e/creature/type/human
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/2
 statblock: inline
 name: "Pirate"
@@ -25,9 +26,9 @@ level: "Creature 2"
 
 alignment: ""
 size: "Medium"
-trait_01: "chaotic"
-trait_02: "human"
-trait_03: "humanoid"
+trait_01: [[chaotic]]
+trait_02: [[human]]
+trait_03: [[humanoid]]
 modifier: 6
 perception:
   - name: "Perception"
@@ -58,7 +59,7 @@ abilities_mid:
     desc: "`pf2:r`  "
 
   - name: "Bravery"
-    desc: "  When the pirate rolls a success on a Will save against a fear effect, they get a critical success instead. In addition, any time they gain the [[Conditions/Frightened 1|Frightened]] condition, reduce its value by 1."
+    desc: "  When the pirate rolls a success on a Will save against a fear effect, they get a critical success instead. In addition, any time they gain the [[Conditions/Frightened|Frightened]] condition, reduce its value by 1."
 
 attacks:
   - name: ""
@@ -75,6 +76,12 @@ attacks:
   - name: "Boarding Action"
     desc: "`pf2:2`  The pirate swings on a rope or Strides, moving up to double their Speed. If the pirate boarded or disembarked a boat during this movement, they can make a melee Strike at the end of their movement that deals one extra damage die on a hit."
  
+```
+
+```encounter-table
+name: Pirate
+creatures:
+  - 1: Pirate
 ```
 
 

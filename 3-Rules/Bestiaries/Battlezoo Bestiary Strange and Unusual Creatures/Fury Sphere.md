@@ -10,6 +10,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/fiend
   - pf2e/creature/type/unholy
+  - pf2eMonster
   - pf2e/creature/level/9
 statblock: inline
 name: "Fury Sphere"
@@ -25,14 +26,14 @@ token: [[modules/battlezoo-bestiary-su-pf2e/art/Portraits/fury-sphere.webp| ]]
 source: "Battlezoo Bestiary: Strange and Unusual"
 name: "Fury Sphere"
 level: "Creature 9"
-rare_03: "Rare"
+rare_03: [[Rare]]
 alignment: ""
 size: "Large"
-trait_01: "chaotic"
-trait_02: "construct"
-trait_03: "evil"
-trait_04: "fiend"
-trait_05: "unholy"
+trait_01: [[chaotic]]
+trait_02: [[construct]]
+trait_03: [[evil]]
+trait_04: [[fiend]]
+trait_05: [[unholy]]
 modifier: 18
 perception:
   - name: "Perception"
@@ -40,7 +41,7 @@ perception:
 languages: "Chthonian, Common, Empyrean"
 skills:
   - name: "Skills"
-    desc: "Athletics: +20, Intimidation: +18, Heaven Lore: +18, Legal Lore: +18, "
+    desc: "Athletics: +20, Intimidation: +18, Athletics: +20, Intimidation: +18, Heaven Lore: +18, Legal Lore: +18"
 abilityMods: [6, 4, 6, 2, 3, 4]
 speed: 25 feet
 sourcebook: "_Battlezoo Bestiary: Strange and Unusual_"
@@ -65,14 +66,20 @@ attacks:
     desc: "`pf2:1` Body +19 (unholy)\n__Damage__  2d10 + 10 bludgeoning plus roll-over"
 
   - name: "Roll Over"
-    desc: "  A fury sphere gains +10-foot circumstance bonus to its Speed when moving down a significant incline. After moving down an incline, a fury sphere deals 2d8 additional damage with its body Strikes, and Trample ability until the end of the turn and its successful body Strikes knock creatures Prone."
+    desc: "  A fury sphere gains +10-foot circumstance bonus to its Speed when moving down a significant incline. After moving down an incline, a fury sphere deals 2d8 additional damage with its body Strikes, and Trample ability until the end of the turn and its successful body Strikes knock creatures [[undefined]]."
 
   - name: "Slamball"
-    desc: "`pf2:3`  A fury sphere can propel itself into the air and crash down, creating a shockwave and battering enemies as it flies by. The Angry Steel Sphere Flies up to its land Speed and then lands on the ground below. All creatures in the air in its path, plus those within 15 feet of the landing spot take 8d8 bludgeoning damage with a DC 28 Reflex check save. On a failure they are also knocked Prone, and on a critical failure, they are also Slowed 1. The fury sphere can't use Slamball again for 1d4 rounds."
+    desc: "`pf2:3`  A fury sphere can propel itself into the air and crash down, creating a shockwave and battering enemies as it flies by. The Angry Steel Sphere Flies up to its land Speed and then lands on the ground below. All creatures in the air in its path, plus those within 15 feet of the landing spot take 8d8 bludgeoning damage with a DC 28 Reflex check save. On a failure they are also knocked [[undefined]], and on a critical failure, they are also [[undefined]]. The fury sphere can't use Slamball again for 1d4 rounds."
 
   - name: "[[Bestiary Ability Glossary/Trample|Trample]]"
-    desc: "`pf2:3`  Medium or smaller, body, DC 28 Reflex check\n"
+    desc: "`pf2:3`  Medium or smaller, body, DC 28 Reflex check\n\n* * *\n"
  
+```
+
+```encounter-table
+name: Fury Sphere
+creatures:
+  - 1: Fury Sphere
 ```
 
 
@@ -87,7 +94,7 @@ Occasionally, a fury sphere comes up with a plan to seek out a high mountain, a 
 
 ## Trapping A Sphere
 
-When slain, the spirit of a fury sphere can be contained in a smaller vessel of Bulk 2 or less in the next 10 minutes with a DC 25 Arcana check, DC 25 Religion check, or DC 25 Occultism check check. The sphere trapped in the new vessel can be used as one of the ingredients for an _Animate Object_ ritual, creating an object that will begrudgingly follow commands.
+When slain, the spirit of a fury sphere can be contained in a smaller vessel of Bulk 2 or less in the next 10 minutes with a DC 25 Arcana check, DC 25 Religion check, or DC 25 Occultism check check. The sphere trapped in the new vessel can be used as one of the ingredients for an _[[Spells/Animate Object|Animate Object]]_ ritual, creating an object that will begrudgingly follow commands.
 
 ## Suggested Monster Parts
 

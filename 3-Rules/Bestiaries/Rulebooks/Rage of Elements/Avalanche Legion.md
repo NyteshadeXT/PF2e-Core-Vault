@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/earth
   - pf2e/creature/type/elemental
   - pf2e/creature/type/troop
+  - pf2eMonster
   - pf2e/creature/level/11
   - remaster
 statblock: inline
@@ -26,9 +27,9 @@ level: "Creature 11"
 
 alignment: ""
 size: "grg"
-trait_01: "earth"
-trait_02: "elemental"
-trait_03: "troop"
+trait_01: [[earth]]
+trait_02: [[elemental]]
+trait_03: [[troop]]
 modifier: 21
 perception:
   - name: "Perception"
@@ -53,7 +54,7 @@ abilities_top:
   - name: ""
 
   - name: "Earthbound"
-    desc: "  When not touching solid ground, the avalanche legion is [[Conditions/Slowed 1|Slowed 1]]."
+    desc: "  When not touching solid ground, the avalanche legion is [[Conditions/Slowed|Slowed 1]]."
 
   - name: "[[Bestiary Ability Glossary/Form Up|Form Up]]"
     desc: "`pf2:1`  "
@@ -67,10 +68,10 @@ attacks:
     desc: "  The avalanche legion can Burrow through any earthen matter, including rock. When it does so, the legion moves at its full burrow Speed, leaving no tunnels or signs of its passing."
 
   - name: "Pummeling Boulders"
-    desc: "`pf2:1`  **Frequency** once per round\n**Effect** The avalanche legion unleashes an onslaught of blows against each enemy within 5 feet (DC 28 Reflex check save). The damage depends on the number of actions.\n`pf2:1` 2d8 bludgeoning damage\n`pf2:2` 3d8 + 8 bludgeoning damage\n`pf2:3` 4d8 + 11 bludgeoning damage"
+    desc: "`pf2:1`  **Frequency** once per round\n* * *\n\n**Effect** The avalanche legion unleashes an onslaught of blows against each enemy within 5 feet (DC 28 Reflex check save). The damage depends on the number of actions.\n\n`pf2:1` 2d8 bludgeoning damage\n\n`pf2:2` 3d8+8 bludgeoning damage\n\n`pf2:3` 4d8+11 bludgeoning damage"
 
   - name: "Spinning Stones"
-    desc: "`pf2:2`  The avalanche legion spins in place, kicking up a barrage of stones. Each creature in a 10-foot burst within 30 feet of the troop takes 2d12 + 10 bludgeoning damage (DC 28 Reflex check save). When the troop is reduced to 8 or fewer squares, this area decreases to a 5-foot burst."
+    desc: "`pf2:2`  The avalanche legion spins in place, kicking up a barrage of stones. Each creature in a @Template[burst|distance:10] within 30 feet of the troop takes 2d12+10 bludgeoning damage (DC 28 Reflex check save). When the troop is reduced to 8 or fewer squares, this area decreases to a @Template[burst|distance:5]."
 
   - name: "Trample into the Earth"
     desc: "`pf2:3`  The avalanche legion speeds forward, running over creatures with their stone bodies and knocking them down. As [[Bestiary Ability Glossary/Trample|Trample]]; Gargantuan or smaller, 2d8 bludgeoning damage, DC 28 Reflex check. A creature that critically fails its save is knocked [[Conditions/Prone|Prone]]."
@@ -78,6 +79,12 @@ attacks:
   - name: "Troop Movement"
     desc: "  Whenever the avalanche legion Strides or Burrows, it first Forms Up as a free action to condense into a 20-foot-by-20-foot area (minus any missing squares), then moves up to its respective Speed. This works just like a Gargantuan creature moving; for instance, if any square of the legion enters difficult terrain, the extra movement cost applies to all the elementals."
  
+```
+
+```encounter-table
+name: Avalanche Legion
+creatures:
+  - 1: Avalanche Legion
 ```
 
 

@@ -5,6 +5,7 @@ noteType: pf2eHazard
 tags:
   - magical
   - trap
+  - pf2eHazard
 
 source: Pathfinder Kingmaker
 aliases: "Compendium.pf2e.kingmaker-bestiary.Actor.zZrKk6wh7av4nU1z" 
@@ -22,8 +23,8 @@ name: "Phantasmagoric Fog Trap"
 level: "Hazard 6"
 
 
-trait_01: "magical"
-trait_02: "trap"
+trait_01: [[magical]]
+trait_02: [[trap]]
 modifier: 15
 sourcebook: "_Pathfinder Kingmaker_"
 perception:
@@ -42,12 +43,18 @@ attacks:
   - name: ""
 
   - name: "Blow Mists"
-    desc: "`pf2:r` (mental) **Trigger** A creature moves through the undergrowth\n**Effect** One round later, the hall fills with violet fog that imposes a -2 circumstance penalty to Perception checks to all creatures within it and exposes anyone who enters it to phantasmagoric fog.\n[[Bestiary Effects/Effect_ Phantasmagoric Fog|Effect: Phantasmagoric Fog]]"
+    desc: "`pf2:r` (mental) **Trigger** A creature moves through the undergrowth\n* * *\n\n**Effect** One round later, the hall fills with violet fog that imposes a -2 circumstance penalty to Perception checks to all creatures within it and exposes anyone who enters it to phantasmagoric fog.\n\n[[Bestiary Effects/Effect_ Phantasmagoric Fog|Effect: Phantasmagoric Fog]]"
 
   - name: "Phantasmagoric Fog"
-    desc: "passive (inhaled, poison) **Saving Throw** DC 24 Will check\n**Maximum Duration** 6 rounds\n**Stage 1** [[Conditions/Stupefied 1|Stupefied 1]] (1 round)\n**Stage 2** [[Conditions/Confused|Confused]] and stupefied 1 (1 round)\n**Stage 3** confused and [[Conditions/Stupefied 1|Stupefied 2]] (1 round)."
+    desc: "passive (inhaled, poison) **Saving Throw** DC 24 Will check\n\n**Maximum Duration** 6 rounds\n\n**Stage 1** [[Conditions/Stupefied|Stupefied 1]] (1 round)\n\n**Stage 2** [[Conditions/Confused|Confused]] and stupefied 1 (1 round)\n\n**Stage 3** confused and [[Conditions/Stupefied|Stupefied 2]] (1 round)."
 
 
 
+```
+
+```encounter-table
+name: Phantasmagoric Fog Trap
+creatures:
+  - 1: Phantasmagoric Fog Trap
 ```
 

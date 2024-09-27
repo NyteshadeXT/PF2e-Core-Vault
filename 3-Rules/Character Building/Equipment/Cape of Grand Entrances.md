@@ -11,14 +11,14 @@ license: OGL
 ---
 # Cape of Grand Entrances
 ## Item 9
-### [uncommon](uncommon "Uncommon Rarity Trait")[[invested]][[magical]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[invested]][[3-Rules/Rule References/Magical]]
 
 
 **Price** 600 gp; 
 **Bulk** L; **Size** med
 **Usage** worncloak
 
-This regal blue cape is crafted from a hefty yet elegant velvet embroidered with ornate silver stars and dragons. Falling in a cascade of fabric, the cape rustles and flows in all the right ways and hangs upon your shoulders in a way that flatters your form and figure. You draw the eyes of those around you and gain a +2 circumstance bonus to your Performance checks.
+This regal blue cape is crafted from a hefty yet elegant velvet embroidered with ornate silver stars and dragons. Falling in a cascade of fabric, the cape rustles and flows in all the right ways and hangs upon your shoulders in a way that flatters your form and figure. You draw the eyes of those around you and gain a +2 item bonus to your Performance checks.
 
 **Activate** `pf2:2` envision, Interact
 

@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/gnoll
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/18
 statblock: inline
 name: "Unshadowed Anchor Root"
@@ -23,13 +24,13 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #174: Shadows of the Ancients"
 name: "Unshadowed Anchor Root"
 level: "Creature 18"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Small"
-trait_01: "chaotic"
-trait_02: "evil"
-trait_03: "gnoll"
-trait_04: "humanoid"
+trait_01: [[chaotic]]
+trait_02: [[evil]]
+trait_03: [[gnoll]]
+trait_04: [[humanoid]]
 modifier: 33
 perception:
   - name: "Perception"
@@ -37,7 +38,7 @@ perception:
 languages: "Amurrun, Common, Fey, Iruxi, Kholo, Necril"
 skills:
   - name: "Skills"
-    desc: "Academia Lore: +31, Deception: +35, Nature: +35, Occultism: +35, Religion: +31, Stealth: +31, Survival: +33"
+    desc: "Deception: +35, Nature: +35, Occultism: +35, Religion: +31, Stealth: +31, Survival: +33, Academia Lore: +31"
 abilityMods: [2, 3, 4, 5, 5, -1]
 speed: 25 feet
 sourcebook: "_Pathfinder #174: Shadows of the Ancients_"
@@ -56,7 +57,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Shadow's Displeasure"
-    desc: "  When Anchor Root has fewer than 150 Hit Points, her shadow pulls at her essence to show the _Vesicant Egg's_ displeasure. She looks pained and confused, and she becomes [[Conditions/Clumsy 1|Clumsy 1]] and [[Conditions/Stupefied 1|Stupefied 1]] until healed to 150 Hit Points or more. These conditions increase to 2 when below 100 Hit Points. When below 50 Hit Points, she falls [[Conditions/Unconscious|Unconscious]]."
+    desc: "  When Anchor Root has fewer than 150 Hit Points, her shadow pulls at her essence to show the _Vesicant Egg's_ displeasure. She looks pained and confused, and she becomes [[Conditions/Clumsy|Clumsy 1]] and [[Conditions/Stupefied|Stupefied 1]] until healed to 150 Hit Points or more. These conditions increase to 2 when below 100 Hit Points. When below 50 Hit Points, she falls [[Conditions/Unconscious|Unconscious]]."
 
   - name: "Vesicated Shadow"
     desc: "  Anchor Root's shadow has become corrupted via the power of the _Vesicant Egg_. Her shredded shadow grants her some control over acid and shadows. She gains a +4 status bonus to resist acid and shadow effects."
@@ -74,8 +75,14 @@ attacks:
     desc: "DC 40, attack +32; __9th __ (3 slots) _[[Spells/Shadow Blast|Shadow Blast (Acid Only) (x2)]]_, _[[Spells/Shadow Siphon|Shadow Siphon (x2)]]_; __5th __ (1 slots) _[[Spells/Animal Form|Animal Form (Canine Form Only)]]_; __2nd __ (2 slots) _[[Spells/Augury|Augury (x2)]]_"
 
   - name: "Rupture Shadow"
-    desc: "`pf2:2` (acid,occult,shadow) Anchor Root can create immense blisters on a creature's shadow, which immediately burst, dealing 20d6 acid damage. She targets a creature within 60 feet that is casting a shadow, which must attempt a DC 37 Will check save. Anchor Root can't use Rupture Shadow again for 1d4 rounds.\n**Critical Success** The target is unaffected and becomes temporarily immune for 1 day.\n**Success** The target takes half damage. The bursting shadow deals 5 acid splash damage to all creatures within 5 feet of the target.\n**Failure** The target takes full damage, and the bursting shadow deals 10 acid splash damage.\n**Critical Failure** The target takes double damage, the bursting shadow deals 20 acid splash damage, and the target also takes 4d6 persistent acid damage."
+    desc: "`pf2:2` (acid,occult,shadow) Anchor Root can create immense blisters on a creature's shadow, which immediately burst, dealing 20d6 acid damage. She targets a creature within 60 feet that is casting a shadow, which must attempt a DC 37 Will check save. Anchor Root can't use Rupture Shadow again for 1d4 rounds.\n* * *\n\n**Critical Success** The target is unaffected and becomes temporarily immune for 1 day.\n\n**Success** The target takes half damage. The bursting shadow deals 5 acid splash damage to all creatures within 5 feet of the target.\n\n**Failure** The target takes full damage, and the bursting shadow deals 10 acid splash damage.\n\n**Critical Failure** The target takes double damage, the bursting shadow deals 20 acid splash damage, and the target also takes 4d6 persistent acid damage."
  
+```
+
+```encounter-table
+name: Unshadowed Anchor Root
+creatures:
+  - 1: Unshadowed Anchor Root
 ```
 
 

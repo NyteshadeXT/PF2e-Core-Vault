@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.pathfinder-bestiary-2.Actor.yBglC9GBy6p1x87t"
 tags:
   - pf2e/creature/type/fungus
   - pf2e/creature/type/plant
+  - pf2eMonster
   - pf2e/creature/level/7
 statblock: inline
 name: "Tendriculos"
@@ -25,8 +26,8 @@ level: "Creature 7"
 
 alignment: ""
 size: "huge"
-trait_01: "fungus"
-trait_02: "plant"
+trait_01: [[fungus]]
+trait_02: [[plant]]
 modifier: 15
 perception:
   - name: "Perception"
@@ -34,7 +35,7 @@ perception:
 languages: "Fey"
 skills:
   - name: "Skills"
-    desc: "Athletics: +17, Stealth: +14 (+16 in undergrowth)"
+    desc: "Athletics: +17, Stealth: +14"
 abilityMods: [7, 2, 5, -2, 3, 0]
 speed: 20 feet
 sourcebook: "_Pathfinder Bestiary 2_"
@@ -53,7 +54,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "[[Bestiary Ability Glossary/Attack of Opportunity|Attack of Opportunity (Tentacle Only)]]"
-    desc: "`pf2:r`  Tentacle only.\n"
+    desc: "`pf2:r`  Tentacle only.\n\n* * *\n"
 
 attacks:
   - name: ""
@@ -65,17 +66,23 @@ attacks:
     desc: "`pf2:1` Tentacle +18 (agile, reach 15 feet)\n__Damage__  2d6 + 11 bludgeoning plus grab"
 
   - name: "Rampant Growth"
-    desc: "`pf2:1`  **Requirements** A creature the tendriculos has Swallowed Whole has taken damage since the end of the tendriculos's last turn, and the tendriculos hasn't used any other actions this turn\n**Effect** The tendriculos regains 3d8 Hit Points and recovers from the [[Conditions/Fatigued|Fatigued]] and [[Conditions/Slowed 1|Slowed]] conditions. It reduces any [[Conditions/Enfeebled 1|Enfeebled]] value it has by 2."
+    desc: "`pf2:1`  **Requirements** A creature the tendriculos has Swallowed Whole has taken damage since the end of the tendriculos's last turn, and the tendriculos hasn't used any other actions this turn\n* * *\n\n**Effect** The tendriculos regains 3d8 Hit Points and recovers from the [[Conditions/Fatigued|Fatigued]] and [[Conditions/Slowed|Slowed]] conditions. It reduces any [[Conditions/Enfeebled|Enfeebled]] value it has by 2."
 
   - name: "[[Bestiary Ability Glossary/Swallow Whole|Swallow Whole]]"
-    desc: "`pf2:1` (attack) Large, 2d10 + 7 acid damage plus tendriculos venom, Rupture 14\n"
+    desc: "`pf2:1` (attack) Large, 2d10+7 acid damage plus tendriculos venom, Rupture 14\n\n* * *\n"
 
   - name: "Tendriculos Venom"
-    desc: " (incapacitation,poison) **Saving Throw** DC 21 Fortitude check\n**Maximum Duration** 6 rounds\n**Stage 1** [[Conditions/Clumsy 1|Clumsy 2]] (1 round)\n**Stage 2** [[Conditions/Clumsy 1|Clumsy 2]] and [[Conditions/Slowed 1|Slowed 2]] (1 round)\n**Stage 3** [[Conditions/Paralyzed|Paralyzed]] (1 round)"
+    desc: " (incapacitation,poison) **Saving Throw** DC 21 Fortitude check\n\n**Maximum Duration** 6 rounds\n\n**Stage 1** [[Conditions/Clumsy|Clumsy 2]] (1 round)\n\n**Stage 2** [[Conditions/Clumsy|Clumsy 2]] and [[Conditions/Slowed|Slowed 2]] (1 round)\n\n**Stage 3** [[Conditions/Paralyzed|Paralyzed]] (1 round)"
 
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
     desc: "`pf2:1`  "
  
+```
+
+```encounter-table
+name: Tendriculos
+creatures:
+  - 1: Tendriculos
 ```
 
 

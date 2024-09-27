@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.pfs-season-4-bestiary.Actor.cIa7Zdq9cUziEL3U"
 tags:
   - pf2e/creature/type/chaotic
   - pf2e/creature/type/undead
+  - pf2eMonster
   - pf2e/creature/level/1
 statblock: inline
 name: "Pups"
@@ -21,15 +22,16 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Bounty #21: Against the Unliving"
 name: "Pups"
 level: "Creature 1"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Small"
-trait_01: "chaotic"
-trait_02: "undead"
+trait_01: [[chaotic]]
+trait_02: [[undead]]
 modifier: 7
 perception:
   - name: "Perception"
     desc: "+7; Darkvision, Scent (Imprecise) 30 Feet"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Acrobatics: +5, Athletics: +7, Stealth: +5, Survival: +5"
@@ -55,7 +57,7 @@ abilities_mid:
     desc: " (detection,occult) Pups knows the direction of its past owner or family (as long as they're both on the same plane), but not the distance."
 
   - name: "Stench"
-    desc: " (aura,olfactory) 10 feet. A creature entering the aura or starting its turn in the aura must succeed at a DC 14 Fortitude check save or become [[Conditions/Sickened 1|Sickened 1]] (plus [[Conditions/Slowed 1|Slowed 1]] for as long as it's sickened on a critical failure). While within the aura, affected creatures take a -2 circumstance penalty to saves against disease and to recover from the sickened condition. A creature that succeeds at its save is temporarily immune for 1 minute."
+    desc: " (aura,olfactory) 10 feet. A creature entering the aura or starting its turn in the aura must succeed at a DC 14 Fortitude check save or become [[Conditions/Sickened|Sickened 1]] (plus [[Conditions/Slowed|Slowed 1]] for as long as it's sickened on a critical failure). While within the aura, affected creatures take a -2 circumstance penalty to saves against disease and to recover from the sickened condition. A creature that succeeds at its save is temporarily immune for 1 minute."
 
 attacks:
   - name: ""
@@ -66,6 +68,12 @@ attacks:
   - name: "Betray the Living"
     desc: "  Pups' Strikes deal 1d4 additional damage to living creatures."
  
+```
+
+```encounter-table
+name: Pups
+creatures:
+  - 1: Pups
 ```
 
 

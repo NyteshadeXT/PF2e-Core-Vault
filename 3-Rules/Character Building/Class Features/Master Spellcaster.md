@@ -20,7 +20,7 @@ license: ORC
 ---
 # Master Spellcaster
 ## Feat 15
-### [[bard]][[druid]][[magus]][[oracle]][[psychic]][[sorcerer]][[summoner]][[witch]][[wizard]]
+### [[3-Rules/trait_reference/bard]][[3-Rules/trait_reference/druid]][[magus]][[oracle]][[psychic]][[3-Rules/trait_reference/sorcerer]][[summoner]][[witch]][[3-Rules/trait_reference/wizard]]
 
 **Category** classfeature; 
 

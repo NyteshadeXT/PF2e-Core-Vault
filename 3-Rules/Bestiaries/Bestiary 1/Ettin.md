@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/giant
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/6
 statblock: inline
 name: "Ettin"
@@ -27,15 +28,15 @@ level: "Creature 6"
 
 alignment: ""
 size: "Large"
-trait_01: "chaotic"
-trait_02: "evil"
-trait_03: "giant"
-trait_04: "humanoid"
+trait_01: [[chaotic]]
+trait_02: [[evil]]
+trait_03: [[giant]]
+trait_04: [[humanoid]]
 modifier: 16
 perception:
   - name: "Perception"
     desc: "+16; Low-Light Vision"
-languages: "Goblin, Jotun, Orcish"
+languages: "Goblin, Jotun, Orcish; (pidgin of the three languages)"
 skills:
   - name: "Skills"
     desc: "Athletics: +16, Intimidation: +10"
@@ -72,6 +73,12 @@ attacks:
   - name: "Melee"
     desc: "`pf2:1` Fist +16 (agile, reach 10 feet)\n__Damage__  1d6 + 10 bludgeoning"
  
+```
+
+```encounter-table
+name: Ettin
+creatures:
+  - 1: Ettin
 ```
 
 

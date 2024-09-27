@@ -10,6 +10,7 @@ tags:
   - pf2e/creature/type/skeleton
   - pf2e/creature/type/undead
   - pf2e/creature/type/unholy
+  - pf2eMonster
   - pf2e/creature/level/1
 statblock: inline
 name: "Brittle Skeletal Horse"
@@ -24,18 +25,19 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Society Scenario #2-11: The Pathfinder Trials"
 name: "Brittle Skeletal Horse"
 level: "Creature 1"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Large"
-trait_01: "evil"
-trait_02: "mindless"
-trait_03: "skeleton"
-trait_04: "undead"
-trait_05: "unholy"
+trait_01: [[evil]]
+trait_02: [[mindless]]
+trait_03: [[skeleton]]
+trait_04: [[undead]]
+trait_05: [[unholy]]
 modifier: 6
 perception:
   - name: "Perception"
     desc: "+6; Darkvision"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Acrobatics: +5, Athletics: +7"
@@ -68,6 +70,12 @@ attacks:
   - name: "Undead Steed"
     desc: "  Undead and creatures allied with them can [[Actions/Command an Animal|Command]] a skeletal steed without needing to attempt a skill check."
  
+```
+
+```encounter-table
+name: Brittle Skeletal Horse
+creatures:
+  - 1: Brittle Skeletal Horse
 ```
 
 

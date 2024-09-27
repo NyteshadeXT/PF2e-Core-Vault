@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/humanoid
   - pf2e/creature/type/kobold
   - pf2e/creature/type/lawful
+  - pf2eMonster
   - pf2e/creature/level/-1
 statblock: inline
 name: "Kobold Warrior (PFS 2-11)"
@@ -26,10 +27,10 @@ level: "Creature -1"
 
 alignment: ""
 size: "Small"
-trait_01: "evil"
-trait_02: "humanoid"
-trait_03: "kobold"
-trait_04: "lawful"
+trait_01: [[evil]]
+trait_02: [[humanoid]]
+trait_03: [[kobold]]
+trait_04: [[lawful]]
 modifier: 3
 perception:
   - name: "Perception"
@@ -37,7 +38,7 @@ perception:
 languages: "Draconic"
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +5, Crafting: +2 (+4 traps), Stealth: +5"
+    desc: "Acrobatics: +5, Crafting: +2, Stealth: +5"
 abilityMods: [1, 3, 0, 0, 1, -1]
 speed: 25 feet
 sourcebook: "_Pathfinder Society Scenario #2-11: The Pathfinder Trials_"
@@ -63,17 +64,23 @@ attacks:
     desc: "`pf2:1` Spear +3 ()\n__Damage__  1d6 + 1 piercing"
 
   - name: "Ranged"
-    desc: "`pf2:1` Sling +5 (propulsive, range increment 50 feet, reload 1)\n__Damage__  1d4 bludgeoning"
-
-  - name: "Ranged"
     desc: "`pf2:1` Spear +5 (thrown 20 ft.)\n__Damage__  1d6 + 1 piercing"
 
+  - name: "Ranged"
+    desc: "`pf2:1` Sling +5 (propulsive, range increment 50 feet, reload 1)\n__Damage__  1d4 bludgeoning"
+
   - name: "Hurried Retreat"
-    desc: "`pf2:1`  **Requirements** The kobold warrior is adjacent to at least one enemy.\n**Effect** The kobold warrior Strides up to its Speed plus 5 feet and gains a +2 circumstance bonus to AC against reactions triggered by this movement. It must end this movement in a space that's not adjacent to any enemy."
+    desc: "`pf2:1`  **Requirements** The kobold warrior is adjacent to at least one enemy.\n* * *\n\n**Effect** The kobold warrior Strides up to its Speed plus 5 feet and gains a +2 circumstance bonus to AC against reactions triggered by this movement. It must end this movement in a space that's not adjacent to any enemy."
 
   - name: "[[Bestiary Ability Glossary/Sneak Attack|Sneak Attack]]"
     desc: "  The kobold warrior deals an extra 1d4 precision damage to [[Conditions/Off-Guard|Off-Guard]] creatures."
  
+```
+
+```encounter-table
+name: Kobold Warrior (PFS 2-11)
+creatures:
+  - 1: Kobold Warrior (PFS 2-11)
 ```
 
 

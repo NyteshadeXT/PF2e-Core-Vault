@@ -11,11 +11,11 @@ license: OGL
 ---
 # Backpack Ballista
 ## Item 1
-### [uncommon](uncommon "Uncommon Rarity Trait")
+### [uncommon](uncommon.md "Uncommon Rarity Trait")
 
 |  |  |
 | -- | -- |
-| **Category** martial ranged weapon | **Group** bow |
+| **Category** martial ranged weapon | **Group** crossbow |
 | **Price** 18 gp |  |
 | **Bulk** 2 | **Size** med |
 |**Range** 180 ft.| **Reload** 10|

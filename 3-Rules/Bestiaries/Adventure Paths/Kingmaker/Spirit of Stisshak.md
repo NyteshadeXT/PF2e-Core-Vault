@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/air
   - pf2e/creature/type/chaotic
   - pf2e/creature/type/evil
+  - pf2eMonster
   - pf2e/creature/level/7
 statblock: inline
 name: "Spirit of Stisshak"
@@ -23,13 +24,13 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Kingmaker"
 name: "Spirit of Stisshak"
 level: "Creature 7"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Small"
-trait_01: "aberration"
-trait_02: "air"
-trait_03: "chaotic"
-trait_04: "evil"
+trait_01: [[aberration]]
+trait_02: [[air]]
+trait_03: [[chaotic]]
+trait_04: [[evil]]
 modifier: 18
 perception:
   - name: "Perception"
@@ -71,14 +72,20 @@ attacks:
     desc: "DC 25, attack +17; __4th __  _[[Spells/Rewrite Memory|Modify Memory]]_, _[[Spells/Nightmare|Nightmare]]_; __3rd __  _[[Spells/Fear|Fear]]_, _[[Spells/Mind Reading|Mind Reading]]_"
 
   - name: "Feed on Fear"
-    desc: "`pf2:1` (concentrate) **Requirement** An enemy is under a fear effect or [[Conditions/Dying 1|Dying]] within 15 feet of the will-o'-wisp.\n**Effect** The will-o'wisp feeds on the creature's terror. It regains 2d4 Hit Points, and if it has Gone Dark, its glow reignites.\nA will-o'-wisp can take this action only once per round."
+    desc: "`pf2:1` (concentrate) **Requirement** An enemy is under a fear effect or [[Conditions/Dying|Dying]] within 15 feet of the will-o'-wisp.\n* * *\n\n**Effect** The will-o'wisp feeds on the creature's terror. It regains 2d4 Hit Points, and if it has Gone Dark, its glow reignites.\n\nA will-o'-wisp can take this action only once per round."
 
   - name: "Go Dark"
     desc: "`pf2:1` (concentrate) The will-o'-wisp extinguishes its glow, becoming [[Conditions/Invisible|Invisible]]. It can end this effect with another use of this action. If it uses its shock attack while invisible, the arc of electricity lets any observer determine its location, making the will-o'-wisp only [[Conditions/Hidden|Hidden]] to all observers until it moves."
 
   - name: "Invoke Stisshak"
-    desc: "`pf2:2` (auditory,illusion,occult,visual) **Frequency** once per day\n**Effect** The Spirit of Stisshak manifests a shimmering form, that of a regal lizardfolk king made of flickering ghostly light. This image is Medium and must manifest within 10 feet of the will-o'-wisp. The will-o'-wisp can sustain the image by concentrating, and can speak through it and control minor motions (such as movement of limbs), but cannot cause it to leave the square in which it appeared. The will-o'-wisp gains a +2 circumstance bonus on Intimidation checks made to demoralize foes through this invoked image. Any damage inflicted to the will-o'-wisp or the illusion itself causes the invoked illusion to vanish immediately."
+    desc: "`pf2:2` (auditory,illusion,occult,visual) **Frequency** once per day\n\n**Effect** The Spirit of Stisshak manifests a shimmering form, that of a regal lizardfolk king made of flickering ghostly light. This image is Medium and must manifest within 10 feet of the will-o'-wisp. The will-o'-wisp can sustain the image by concentrating, and can speak through it and control minor motions (such as movement of limbs), but cannot cause it to leave the square in which it appeared. The will-o'-wisp gains a +2 circumstance bonus on Intimidation checks made to demoralize foes through this invoked image. Any damage inflicted to the will-o'-wisp or the illusion itself causes the invoked illusion to vanish immediately."
  
+```
+
+```encounter-table
+name: Spirit of Stisshak
+creatures:
+  - 1: Spirit of Stisshak
 ```
 
 

@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/daemon
   - pf2e/creature/type/fiend
   - pf2e/creature/type/unholy
+  - pf2eMonster
   - pf2e/creature/level/5
   - remaster
 statblock: inline
@@ -20,15 +21,16 @@ license: ORC
 columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
+token: [[modules/pf2e-tokens-monster-core/assets/portraits/daemon-venedaemon.webp| ]]
 source: "Pathfinder Monster Core"
 name: "Venedaemon"
 level: "Creature 5"
 
 alignment: ""
 size: "Medium"
-trait_01: "daemon"
-trait_02: "fiend"
-trait_03: "unholy"
+trait_01: [[daemon]]
+trait_02: [[fiend]]
+trait_03: [[unholy]]
 modifier: 12
 perception:
   - name: "Perception"
@@ -73,11 +75,17 @@ attacks:
     desc: "`pf2:1` (arcane,force) **Requirements** The venedaemon's most recent action was to cast a spell\n* * *\n\n**Effect** Fading runes cling to the venedaemon's tentacles. The venedaemon makes a tentacle Strike that has a reach of 20 feet and deals 2d4 additional force damage."
 
   - name: "Soul Spell"
-    desc: "  If a venedaemon ingest a soul gem from a cacodaemon, they can recover an expended spell slot instead of gaining fast healing. The spell slot’s rank can be no higher than half the level of the creature whose soul was consumed, rounded up."
+    desc: "  If a venedaemon ingest a soul gem from a cacodaemon, they can recover an expended spell slot instead of gaining fast healing. The spell slot's rank can be no higher than half the level of the creature whose soul was consumed, rounded up."
 
   - name: "Twisted Whispers"
-    desc: "`pf2:1` (arcane,auditory,concentrate,linguistic,mental) The venedaemon whispers to a creature within 15 feet, which must succeed at a DC 22 Will check save or be [[Conditions/Stupefied 1|Stupefied 2]] for 1 minute (or [[Conditions/Stupefied 1|Stupefied 3]] on a critical failure).\n\nRegardless of the results of the save, the creature is immune to Twisted Whispers for 24 hours."
+    desc: "`pf2:1` (arcane,auditory,concentrate,linguistic,mental) The venedaemon whispers to a creature within 15 feet, which must succeed at a DC 22 Will check save or be [[Conditions/Stupefied|Stupefied 2]] for 1 minute (or [[Conditions/Stupefied|Stupefied 3]] on a critical failure).\n\nRegardless of the results of the save, the creature is immune to Twisted Whispers for 24 hours."
  
+```
+
+```encounter-table
+name: Venedaemon
+creatures:
+  - 1: Venedaemon
 ```
 
 

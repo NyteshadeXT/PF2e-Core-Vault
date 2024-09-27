@@ -11,7 +11,7 @@ license: ORC
 ---
 # Flying Broomstick
 ## Item 12
-### [[magical]]
+### [[3-Rules/Rule References/Magical]]
 
 
 **Price** 1900 gp; 

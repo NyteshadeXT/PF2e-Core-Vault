@@ -6,8 +6,9 @@ tags:
   - trait/tengu
   - trait/common
   - category/ancestry
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.QUaSGUmRnlMbzw1P"
-license: OGL
+license: ORC
 ---
 # Wind God's Fan
 ## Feat 9
@@ -19,7 +20,7 @@ license: OGL
 
 **Prerequisites** Tengu Feather Fan
 * * *
-Your fan can stir up even more powerful winds. You can Activate your tengu feather fan one additional time per day. Add the 3rd-rank [[Spells/Wall of Wind|Wall of Wind]] spell to the spells contained within your fan. Fortitude saving throw
+Your fan can stir up even more powerful winds. You can use the Wave Fan activation one additional time per day. Add a 3rd-rank [[Spells/Wall of Wind|Wall of Wind]] spell to the spells contained within your fan.
 
-*Source: Pathfinder Lost Omens: Ancestry Guide*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

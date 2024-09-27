@@ -10,6 +10,7 @@ tags:
   - pf2e/creature/type/skeleton
   - pf2e/creature/type/undead
   - pf2e/creature/type/unholy
+  - pf2eMonster
   - pf2e/creature/level/2
 statblock: inline
 name: "Skeletal Horse"
@@ -28,15 +29,16 @@ level: "Creature 2"
 
 alignment: ""
 size: "Large"
-trait_01: "evil"
-trait_02: "mindless"
-trait_03: "skeleton"
-trait_04: "undead"
-trait_05: "unholy"
+trait_01: [[evil]]
+trait_02: [[mindless]]
+trait_03: [[skeleton]]
+trait_04: [[undead]]
+trait_05: [[unholy]]
 modifier: 8
 perception:
   - name: "Perception"
     desc: "+8; Darkvision"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Acrobatics: +7, Athletics: +9"
@@ -69,6 +71,12 @@ attacks:
   - name: "Undead Steed"
     desc: "  Undead and creatures allied with them can [[Actions/Command an Animal|Command]] a skeletal steed without needing to attempt a skill check."
  
+```
+
+```encounter-table
+name: Skeletal Horse
+creatures:
+  - 1: Skeletal Horse
 ```
 
 

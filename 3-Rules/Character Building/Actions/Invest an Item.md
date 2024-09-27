@@ -6,8 +6,9 @@ tags:
   - trait/general
   - trait/common
   - category/interaction
+  - remaster
 aliases: "Compendium.pf2e.actionspf2e.Item.lvqPQDdWT2DDO0k2"
-license: OGL
+license: ORC
 ---
 # Invest an Item
 
@@ -22,5 +23,5 @@ You invest your energy in an item with the invested trait as you don it. This pr
 
 You can invest no more than 10 items per day. If you remove an invested item, it loses its investiture. The item still counts against your daily limit after it loses its investiture. You reset the limit during your daily preparations, at which point you Invest your Items anew. If you're still wearing items you had invested the previous day, you can typically keep them invested on the new day, but they still count against your limit.
 
-*Source: Pathfinder Core Rulebook*
-*OGL*
+*Source: Pathfinder GM Core*
+*ORC*

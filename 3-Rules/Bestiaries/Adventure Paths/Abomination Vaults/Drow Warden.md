@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/drow
   - pf2e/creature/type/elf
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/4
 statblock: inline
 name: "Drow Warden"
@@ -23,13 +24,13 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #165: Eyes of Empty Death"
 name: "Drow Warden"
 level: "Creature 4"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Medium"
-trait_01: "chaotic"
-trait_02: "drow"
-trait_03: "elf"
-trait_04: "humanoid"
+trait_01: [[chaotic]]
+trait_02: [[drow]]
+trait_03: [[elf]]
+trait_04: [[humanoid]]
 modifier: 11
 perception:
   - name: "Perception"
@@ -72,11 +73,17 @@ attacks:
     desc: "DC 19, attack +11; __2nd __  _[[Spells/Darkness|Darkness (At Will)]]_, _[[Spells/Faerie Fire|Faerie Fire (At Will)]]_\n__Cantrips__  __(2nd)__ _[[Compendium.pf2e.spells-srd.Item.kl2q6JvBZwed4B6v|Dancing Lights]]_"
 
   - name: "Hampering Slash"
-    desc: "  A target damaged by the warden's melee Strike must succeed at a DC 21 Fortitude check save or be [[Conditions/Slowed 1|Slowed 1]] until the end of the warden's next turn."
+    desc: "  A target damaged by the warden's melee Strike must succeed at a DC 21 Fortitude check save or be [[Conditions/Slowed|Slowed 1]] until the end of the warden's next turn."
 
   - name: "[[Bestiary Ability Glossary/Sneak Attack|Sneak Attack]]"
     desc: "  A warden deals an extra 1d6 damage to [[Conditions/Off-Guard|Off-Guard]] creatures."
  
+```
+
+```encounter-table
+name: Drow Warden
+creatures:
+  - 1: Drow Warden
 ```
 
 

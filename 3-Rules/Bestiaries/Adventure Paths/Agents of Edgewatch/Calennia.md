@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/human
   - pf2e/creature/type/humanoid
   - pf2e/creature/type/lawful
+  - pf2eMonster
   - pf2e/creature/level/16
 statblock: inline
 name: "Calennia"
@@ -23,13 +24,13 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #161: Belly of the Black Whale"
 name: "Calennia"
 level: "Creature 16"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Medium"
-trait_01: "evil"
-trait_02: "human"
-trait_03: "humanoid"
-trait_04: "lawful"
+trait_01: [[evil]]
+trait_02: [[human]]
+trait_03: [[humanoid]]
+trait_04: [[lawful]]
 modifier: 28
 perception:
   - name: "Perception"
@@ -37,7 +38,7 @@ perception:
 languages: "Common, Diabolic"
 skills:
   - name: "Skills"
-    desc: "Athletics: +31, Diplomacy: +28, Hell Lore: +26, Intimidation: +30, Legal Lore: +24, Religion: +25"
+    desc: "Athletics: +31, Diplomacy: +28, Intimidation: +30, Religion: +25, Hell Lore: +26, Legal Lore: +24"
 abilityMods: [5, 0, 5, 2, 3, 4]
 speed: 15 feet
 sourcebook: "_Pathfinder #161: Belly of the Black Whale_"
@@ -60,7 +61,7 @@ abilities_mid:
     desc: "  When making a Recall Knowledge check about a devil she's observing, whenever Calennia rolls a critical failure, she gets a failure instead."
 
   - name: "Shield Block"
-    desc: "`pf2:r`  **Trigger** The monster has its shield raised and takes damage from a physical attack.\n**Effect** The monster snaps its shield into place to deflect a blow. The shield prevents the monster from taking an amount of damage up to the shield's Hardness. The monster and the shield each take any remaining damage, possibly breaking or destroying the shield."
+    desc: "`pf2:r`  **Trigger** The monster has its shield raised and takes damage from a physical attack.\n* * *\n\n**Effect** The monster snaps its shield into place to deflect a blow. The shield prevents the monster from taking an amount of damage up to the shield's Hardness. The monster and the shield each take any remaining damage, possibly breaking or destroying the shield."
 
 attacks:
   - name: ""
@@ -75,8 +76,14 @@ attacks:
     desc: "`pf2:1` (flourish) Calennia Strikes with her _scourge_. On a hit, she rolls damage three times. This damage is combined (for the purpose of overcoming damage resistance, for example)."
 
   - name: "Terrible Justice"
-    desc: " (divine) **Trigger** A living creature within 30 feet is reduced to 0 Hit Points\n**Effect** Calennia targets the creature with a _death knell_ spell (DC 34). If the target dies, all of Calennia's enemies within 60 feet are targeted by a _fear_ spell (DC 34). A creature that succeeds at either save is temporarily immune to this ability for 24 hours."
+    desc: " (divine) **Trigger** A living creature within 30 feet is reduced to 0 Hit Points\n* * *\n\n**Effect** Calennia targets the creature with a _death knell_ spell (DC 34). If the target dies, all of Calennia's enemies within 60 feet are targeted by a _fear_ spell (DC 34). A creature that succeeds at either save is temporarily immune to this ability for 24 hours."
  
+```
+
+```encounter-table
+name: Calennia
+creatures:
+  - 1: Calennia
 ```
 
 

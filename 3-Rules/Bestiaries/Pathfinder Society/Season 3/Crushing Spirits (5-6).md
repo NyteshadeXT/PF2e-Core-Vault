@@ -4,6 +4,7 @@ obsidianUIMode: preview
 noteType: pf2eHazard
 tags:
   - haunt
+  - pf2eHazard
   - complex
 source: Pathfinder Society Scenario #3-09: The Secluded Siege
 aliases: "Compendium.pf2e.pfs-season-3-bestiary.Actor.Eyf5gaIlI4X2HCos" 
@@ -21,7 +22,7 @@ name: "Crushing Spirits (5-6)"
 level: "Hazard 4"
 
 trait_06: "Complex"
-trait_01: "haunt"
+trait_01: [[haunt]]
 modifier: 12
 sourcebook: "_Pathfinder Society Scenario #3-09: The Secluded Siege_"
 perception:
@@ -40,11 +41,17 @@ attacks:
   - name: ""
 
   - name: "Weight of Death"
-    desc: "`pf2:r` (death, emotion, fear, mental, occult) **Trigger** A creature remains within the area occupied by the buried souls for 1 round or longer\n**Effect** The haunt rolls initiative (if it hasn't already) as the spirits surge forth, swirling up sand in their wake."
+    desc: "`pf2:r` (death, emotion, fear, mental, occult) **Trigger** A creature remains within the area occupied by the buried souls for 1 round or longer\n* * *\n\n**Effect** The haunt rolls initiative (if it hasn't already) as the spirits surge forth, swirling up sand in their wake."
 
   - name: "Routine"
-    desc: "(1 action) The haunt imposes the sensation of becoming buried beneath millions of grains of sand on all living creatures within the area. Each living creature must attempt a DC 21 Will check save as the sensation threatens to overcome them. The creatures take 1d10 + 6 bludgeoning damage.\n**Critical Success** The creature takes no damage and is unaffected.\n**Success** The creature takes half damage and takes a -10-foot circumstance penalty to all its Speeds for 1 round.\n**Failure** The creature takes full damage and takes a -10-foot circumstance penalty to all its Speeds for 1 round. It also begins suffocating. The creature can begin breathing normally again if it leaves the area of the haunt or the haunt is disabled.\n**Critical Failure** As failure, but the target takes double damage.\n[[Bestiary Effects/Effect_ Crushing Spirits|Effect: Crushing Spirits]]"
+    desc: "(1 action) The haunt imposes the sensation of becoming buried beneath millions of grains of sand on all living creatures within the area. Each living creature must attempt a DC 21 Will check save as the sensation threatens to overcome them. The creatures take 1d10+6 bludgeoning damage.\n* * *\n\n**Critical Success** The creature takes no damage and is unaffected.\n\n**Success** The creature takes half damage and takes a -10-foot circumstance penalty to all its Speeds for 1 round.\n\n**Failure** The creature takes full damage and takes a -10-foot circumstance penalty to all its Speeds for 1 round. It also begins suffocating. The creature can begin breathing normally again if it leaves the area of the haunt or the haunt is disabled.\n\n**Critical Failure** As failure, but the target takes double damage.\n\n[[Bestiary Effects/Effect_ Crushing Spirits|Effect: Crushing Spirits]]"
   - name: "Reset"
     desc: "The haunt deactivates 1 minute after all living creatures leave the area but resets immediately thereafter."
+```
+
+```encounter-table
+name: Crushing Spirits (5-6)
+creatures:
+  - 1: Crushing Spirits (5-6)
 ```
 

@@ -10,7 +10,7 @@ license: OGL
 ---
 # Call Upon the Brightness `pf2:r`
 
-### [[concentrate]]
+### [[3-Rules/Rule References/Concentrate]]
 
 
 

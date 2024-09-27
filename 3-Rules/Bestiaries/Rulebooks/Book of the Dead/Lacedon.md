@@ -11,6 +11,7 @@ tags:
   - pf2e/creature/type/ghoul
   - pf2e/creature/type/undead
   - pf2e/creature/type/unholy
+  - pf2eMonster
   - pf2e/creature/level/2
 statblock: inline
 name: "Lacedon"
@@ -28,12 +29,12 @@ level: "Creature 2"
 
 alignment: ""
 size: "Medium"
-trait_01: "amphibious"
-trait_02: "chaotic"
-trait_03: "evil"
-trait_04: "ghoul"
-trait_05: "undead"
-trait_06: "unholy"
+trait_01: [[amphibious]]
+trait_02: [[chaotic]]
+trait_03: [[evil]]
+trait_04: [[ghoul]]
+trait_05: [[undead]]
+trait_06: [[unholy]]
 modifier: 7
 perception:
   - name: "Perception"
@@ -41,7 +42,7 @@ perception:
 languages: "Common, Necril, Thalassic"
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +8, Athletics: +9 (+11 to Swim), Stealth: +8, Survival: +7"
+    desc: "Acrobatics: +8, Athletics: +9, Stealth: +8, Survival: +7"
 abilityMods: [3, 4, 3, 1, 1, 3]
 speed: 25 feet,  swim 30 feet
 sourcebook: "_Pathfinder Book of the Dead_"
@@ -72,17 +73,23 @@ attacks:
     desc: "`pf2:1` Claw +10 (agile, finesse)\n__Damage__  1d4 + 5 slashing"
 
   - name: "[[Bestiary Ability Glossary/Aquatic Ambush|Aquatic Ambush]]"
-    desc: "`pf2:1`  45 feet\n"
+    desc: "`pf2:1`  45 feet\n\n* * *\n"
 
   - name: "[[Creature Family Ability Glossary/(Ghoul) Consume Flesh|Consume Flesh]]"
-    desc: "`pf2:1` (manipulate) **Requirements** The lacedon is adjacent to the corpse of a creature that died within the last hour.\n**Effect** The lacedon devours a chunk of the corpse and regains 2d6 Hit Points. It can regain Hit Points from any given corpse only once."
+    desc: "`pf2:1` (manipulate) **Requirements** The lacedon is adjacent to the corpse of a creature that died within the last hour.\n* * *\n\n**Effect** The lacedon devours a chunk of the corpse and regains 2d6 Hit Points. It can regain Hit Points from any given corpse only once."
 
   - name: "[[Creature Family Ability Glossary/(Ghoul) Ghoul Fever|Ghoul Fever]]"
-    desc: " (disease) **Saving Throw** DC 16 Fortitude check\n**Stage 1** carrier with no ill effect (1 day)\n**Stage 2** 2d6 void damage and regains half as many Hit Points from all healing (1 day)\n**Stage 3** as stage 2 (1 day)\n**Stage 4** 2d6 void damage and gains no benefit from healing (1 day)\n**Stage 5** as stage 4 (1 day)\n**Stage 6** dead, and rises as a [[Bestiary 1/Ghoul|Ghoul]] the next midnight."
+    desc: " (disease) **Saving Throw** DC 16 Fortitude check\n* * *\n\n**Stage 1** carrier with no ill effect (1 day)\n\n**Stage 2** 2d6 void damage and regains half as many Hit Points from all healing (1 day)\n\n**Stage 3** as stage 2 (1 day)\n\n**Stage 4** 2d6 void damage and gains no benefit from healing (1 day)\n\n**Stage 5** as stage 4 (1 day)\n\n**Stage 6** dead, and rises as a [[Bestiary 1/Ghoul|Ghoul]] the next midnight."
 
   - name: "Paralyzing Spew"
     desc: "`pf2:1` (incapacitation,occult) The lacedon discharges a spray of carrion vomit at a creature within 20 feet, dealing 1d6 poison damage with a DC 17 Fortitude check. A non-elf creature that fails its save is also [[Conditions/Paralyzed|Paralyzed]]. It can attempt a new save to end the paralysis at the end of each of its turns, and the DC cumulatively decreases by 1 on each such save. The lacedon can't use Paralyzing Spew again for 1d4 rounds."
  
+```
+
+```encounter-table
+name: Lacedon
+creatures:
+  - 1: Lacedon
 ```
 
 

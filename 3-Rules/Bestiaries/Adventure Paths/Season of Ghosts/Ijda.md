@@ -10,6 +10,7 @@ tags:
   - pf2e/creature/type/fiend
   - pf2e/creature/type/nindoru
   - pf2e/creature/type/unholy
+  - pf2eMonster
   - pf2e/creature/level/6
 statblock: inline
 name: "Ijda"
@@ -24,14 +25,14 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #197: Let the Leaves Fall"
 name: "Ijda"
 level: "Creature 6"
-rare_03: "Rare"
+rare_03: [[Rare]]
 alignment: ""
 size: "Large"
-trait_01: "chaotic"
-trait_02: "evil"
-trait_03: "fiend"
-trait_04: "nindoru"
-trait_05: "unholy"
+trait_01: [[chaotic]]
+trait_02: [[evil]]
+trait_03: [[fiend]]
+trait_04: [[nindoru]]
+trait_05: [[unholy]]
 modifier: 15
 perception:
   - name: "Perception"
@@ -59,7 +60,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Aura of Forgetfulness"
-    desc: " (aura,mental,occult) 30 feet. A creature who begins its turn in the aura must attempt a DC 21 Will check save.\n**Critical Success** The creature is unaffected and is temporarily immune to Aura of Forgetfulness for 24 hours.\n**Success** The creature is unaffected.\n**Failure** The creature is [[Conditions/Slowed 1|Slowed 1]] until the end of its next turn, as it has trouble remembering what it intended to do.\n**Critical Failure** As failure, but [[Conditions/Slowed 1|Slowed 2]]."
+    desc: " (aura,mental,occult) 30 feet. A creature who begins its turn in the aura must attempt a DC 21 Will check save.\n* * *\n\n**Critical Success** The creature is unaffected and is temporarily immune to Aura of Forgetfulness for 24 hours.\n\n**Success** The creature is unaffected.\n\n**Failure** The creature is [[Conditions/Slowed|Slowed 1]] until the end of its next turn, as it has trouble remembering what it intended to do.\n\n**Critical Failure** As failure, but [[Conditions/Slowed|Slowed 2]]."
 
   - name: "Soul Shred"
     desc: "  Creatures killed by a idja are difficult to bring back to life or animate as undead. The idja automatically attempts to counteract any attempt to resurrect or animate any creature that it has killed (counteract modifier +14, counteract rank 3). If the idja who slew the creature is itself slain, the creature can be brought back from death or become undead normally."
@@ -74,11 +75,17 @@ attacks:
     desc: "DC 24, attack +16; __3rd __  _[[Spells/Phantom Pain|Phantom Pain]]_, _[[Spells/Shatter|Shatter]]_; __2nd __  _[[Spells/Item Facade|Item Facade]]_, _[[Spells/Stupefy|Touch of Idiocy]]_; __1st __  _[[Spells/Sure Strike|True Strike]]_\n__Cantrips__  __(3rd)__ _[[Spells/Daze|Daze]]_"
 
   - name: "Manifest False Memories"
-    desc: "`pf2:2` (concentrate,emotion,mental,occult) The ijda releases a cloud of red butterflies from its body, each of which carries a false memory that infects those they brush against. All non-nindoru creatures within 10 feet of the ijda must attempt a DC 21 Will check save. The ijda can't Manifest False Memories for 1d4 rounds.\n**Critical Success** The creature is unaffected.\n**Success** The creature is [[Conditions/Stupefied 1|Stupefied 1]] until the end of its next turn.\n**Failure** The creature is stupefied 1 and [[Conditions/Confused|Confused]] until the end of its next turn.\n**Critical Failure** The creature is stupefied 1 and confused for 1 minute. It can attempt a new save at the end of each of its turns to end the effects."
+    desc: "`pf2:2` (concentrate,emotion,mental,occult) The ijda releases a cloud of red butterflies from its body, each of which carries a false memory that infects those they brush against. All non-nindoru creatures within 10 feet of the ijda must attempt a DC 21 Will check save. The ijda can't Manifest False Memories for 1d4 rounds.\n* * *\n\n**Critical Success** The creature is unaffected.\n\n**Success** The creature is [[Conditions/Stupefied|Stupefied 1]] until the end of its next turn.\n\n**Failure** The creature is stupefied 1 and [[Conditions/Confused|Confused]] until the end of its next turn.\n\n**Critical Failure** The creature is stupefied 1 and confused for 1 minute. It can attempt a new save at the end of each of its turns to end the effects."
 
   - name: "[[Actor.TVi4RDeqw7GDsxp0.Item.3mU3jco88GY5GjJy|Ruin Wielder]]"
     desc: "  When a ijda wields a broken non-magical weapon, they do not take any of the disadvantages of the weapon being broken. While the ijda wields it, the weapon becomes a +1 striking weapon that deals an additional 1d6 mental damage on a successful hit."
  
+```
+
+```encounter-table
+name: Ijda
+creatures:
+  - 1: Ijda
 ```
 
 

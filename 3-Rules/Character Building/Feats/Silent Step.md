@@ -7,8 +7,9 @@ tags:
   - trait/flourish
   - trait/common
   - category/ancestry
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.HPW7Qi02lkVprW6V"
-license: OGL
+license: ORC
 ---
 # Silent Step `pf2:1`
 ## Feat 9
@@ -19,7 +20,7 @@ license: OGL
 
 
 
-You vanish with silent treads. You [[Actions/Step|Step]], then [[Actions/Hide|Hide]] or [[Actions/Sneak|Sneak]]. You still need to meet the requirements to Hide or Sneak, as normal.
+You Step, then [[Actions/Hide|Hide]] or [[Actions/Sneak|Sneak]]. You still need to meet the requirements to Hide or Sneak, as normal.
 
-*Source: Pathfinder Lost Omens: Ancestry Guide*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

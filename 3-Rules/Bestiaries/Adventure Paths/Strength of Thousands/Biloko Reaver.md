@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/chaotic
   - pf2e/creature/type/evil
   - pf2e/creature/type/fey
+  - pf2eMonster
   - pf2e/creature/level/10
 statblock: inline
 name: "Biloko Reaver"
@@ -22,12 +23,12 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #172: Secrets of the Temple-City"
 name: "Biloko Reaver"
 level: "Creature 10"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Small"
-trait_01: "chaotic"
-trait_02: "evil"
-trait_03: "fey"
+trait_01: [[chaotic]]
+trait_02: [[evil]]
+trait_03: [[fey]]
 modifier: 19
 perception:
   - name: "Perception"
@@ -76,8 +77,14 @@ attacks:
     desc: " (emotion,mental) If a biloko feasts on a human corpse for 1 minute or more, they gain a +1 status bonus to attack rolls and a +2 status bonus to damage rolls for 1 hour."
 
   - name: "Terrifying Roar"
-    desc: "`pf2:1` (auditory,emotion,fear,mental) The biloko reaver unleashes a frightful roar. Any non-biloko within 30 feet must succeed at a DC 29 Will check save or become [[Conditions/Frightened 1|Frightened 1]] ([[Conditions/Frightened 1|Frightened 3]] on a critical failure). Those who critically succeed are temporarily immune for 1 minute."
+    desc: "`pf2:1` (auditory,emotion,fear,mental) The biloko reaver unleashes a frightful roar. Any non-biloko within 30 feet must succeed at a DC 29 Will check save or become [[Conditions/Frightened|Frightened 1]] ([[Conditions/Frightened|Frightened 3]] on a critical failure). Those who critically succeed are temporarily immune for 1 minute."
  
+```
+
+```encounter-table
+name: Biloko Reaver
+creatures:
+  - 1: Biloko Reaver
 ```
 
 

@@ -12,7 +12,7 @@ license: OGL
 ---
 # Trinity Geode (Major)
 ## Item 12
-### [[Earth]][[magical]][[spellheart]]
+### [[earth]][[magical]][[spellheart]]
 
 
 **Price** 1900 gp; 

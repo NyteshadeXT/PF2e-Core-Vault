@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/human
   - pf2e/creature/type/humanoid
   - pf2e/creature/type/lawful
+  - pf2eMonster
   - pf2e/creature/level/-1
 statblock: inline
 name: "Barrister"
@@ -25,9 +26,9 @@ level: "Creature -1"
 
 alignment: ""
 size: "Medium"
-trait_01: "human"
-trait_02: "humanoid"
-trait_03: "lawful"
+trait_01: [[human]]
+trait_02: [[humanoid]]
+trait_03: [[lawful]]
 modifier: 6
 perception:
   - name: "Perception"
@@ -35,7 +36,7 @@ perception:
 languages: "Common"
 skills:
   - name: "Skills"
-    desc: "Deception: +10, Diplomacy: +12, Legal Lore: +13, Performance: +10, Society: +9"
+    desc: "Deception: +10, Diplomacy: +12, Performance: +10, Society: +9, Legal Lore: +13"
 abilityMods: [0, 1, 1, 3, 2, 4]
 speed: 25 feet
 sourcebook: "_Pathfinder Gamemastery Guide_"
@@ -53,7 +54,7 @@ abilities_top:
   - name: "Items"
     desc: "[[Equipment/Clothing (Fine)|Court Garb]], [[Equipment/Scholarly Journal|Law Book]], [[Equipment/Writing Set|Writing Set]]"
   - name: "Sway the Judge and Jury"
-    desc: "  A barrister gains a +2 circumstance bonus to Diplomacy checks to [[Actions/Make an Impression|Make an Impression]] or [[Actions/Request|Request]] something of the deciding members within a courtroom.\nIf the barrister successfully [[Actions/Perform|Performs]] against a DC 20 Performance check during the 20 minutes prior to the check, they increase the circumstance bonus to +4."
+    desc: "  A barrister gains a +2 circumstance bonus to Diplomacy checks to [[Actions/Make an Impression|Make an Impression]] or [[Actions/Request|Request]] something of the deciding members within a courtroom.\n\nIf the barrister successfully [[Actions/Perform|Performs]] against a DC 20 Performance check during the 20 minutes prior to the check, they increase the circumstance bonus to +4."
 
 abilities_mid:
   - name: ""
@@ -64,8 +65,14 @@ attacks:
     desc: "`pf2:1` Fist +4 (agile, nonlethal)\n__Damage__  1d4 bludgeoning"
 
   - name: "Cite Precedent"
-    desc: "`pf2:1` (auditory,linguistic) The barrister uses existing case law to undermine their opposition. If they succeed at a Legal Lore check, they impose a -2 circumstance penalty on the next Diplomacy check an opponent attempts in a legal argument.\nAny further attempts to Cite Precedent fail until a new topic with different precedents is being argued.\n[[Bestiary Effects/Effect_ Cite Precedent|Effect: Cite Precedent]]"
+    desc: "`pf2:1` (auditory,linguistic) The barrister uses existing case law to undermine their opposition. If they succeed at a Legal Lore check, they impose a -2 circumstance penalty on the next Diplomacy check an opponent attempts in a legal argument.\n\nAny further attempts to Cite Precedent fail until a new topic with different precedents is being argued.\n\n[[Bestiary Effects/Effect_ Cite Precedent|Effect: Cite Precedent]]"
  
+```
+
+```encounter-table
+name: Barrister
+creatures:
+  - 1: Barrister
 ```
 
 

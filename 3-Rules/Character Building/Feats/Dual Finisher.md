@@ -7,8 +7,9 @@ tags:
   - trait/swashbuckler
   - trait/common
   - category/class
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.PP1gfRCc1YwnQGxp"
-license: OGL
+license: ORC
 ---
 # Dual Finisher `pf2:1`
 ## Feat 8
@@ -27,5 +28,5 @@ You split your attacks. Make two melee [[Actions/Strike|Strikes]], one with each
 
 Increase your multiple attack penalty only after attempting both Strikes.
 
-*Source: Pathfinder Advanced Player's Guide*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

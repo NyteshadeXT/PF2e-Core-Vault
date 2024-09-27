@@ -13,7 +13,7 @@ license: OGL
 ---
 # Ambrosia of Undying Hope
 ## Item 19
-### [rare](rare "Rare Rarity Trait")[[alchemical]][[consumable]][[elixir]]
+### [rare](rare.md "Rare Rarity Trait")[[alchemical]][[consumable]][[elixir]]
 
 **Category** elixir; 
 **Price** 6200 gp; 

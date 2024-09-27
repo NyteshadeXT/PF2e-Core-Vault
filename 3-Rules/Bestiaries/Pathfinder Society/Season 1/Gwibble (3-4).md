@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/fey
   - pf2e/creature/type/gremlin
   - pf2e/creature/type/lawful
+  - pf2eMonster
   - pf2e/creature/level/3
 statblock: inline
 name: "Gwibble (3-4)"
@@ -23,13 +24,13 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Society Scenario #1-02: The Mosquito Witch"
 name: "Gwibble (3-4)"
 level: "Creature 3"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Small"
-trait_01: "evil"
-trait_02: "fey"
-trait_03: "gremlin"
-trait_04: "lawful"
+trait_01: [[evil]]
+trait_02: [[fey]]
+trait_03: [[gremlin]]
+trait_04: [[lawful]]
 modifier: 9
 perception:
   - name: "Perception"
@@ -37,7 +38,7 @@ perception:
 languages: "Sakvroth"
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +11, Diplomacy: +6 (+12 vs. arthropods), Nature: +7, Stealth: +11, Thievery: +11"
+    desc: "Acrobatics: +11, Diplomacy: +6, Nature: +7, Stealth: +11, Thievery: +11"
 abilityMods: [0, 4, 2, -1, 2, 0]
 speed: 20 feet,  climb 20 feet
 sourcebook: "_Pathfinder Society Scenario #1-02: The Mosquito Witch_"
@@ -84,8 +85,14 @@ attacks:
     desc: "  Gwibble deals an extra 2d6 precision damage to [[Conditions/Off-Guard|Off-Guard]] creatures."
 
   - name: "Vengeful Anger"
-    desc: " (emotion,mental) As long as it isn't [[Conditions/Frightened 1|Frightened]], a mitflit gains a +2 status bonus to damage rolls against a creature that has previously damaged or tormented it."
+    desc: " (emotion,mental) As long as it isn't [[Conditions/Frightened|Frightened]], a mitflit gains a +2 status bonus to damage rolls against a creature that has previously damaged or tormented it."
  
+```
+
+```encounter-table
+name: Gwibble (3-4)
+creatures:
+  - 1: Gwibble (3-4)
 ```
 
 

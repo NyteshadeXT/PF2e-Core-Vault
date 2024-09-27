@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/undead
   - pf2e/creature/type/unholy
+  - pf2eMonster
   - pf2e/creature/level/14
 statblock: inline
 name: "Sunburst Corpse"
@@ -22,17 +23,17 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #172: Secrets of the Temple-City"
 name: "Sunburst Corpse"
 level: "Creature 14"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Medium"
-trait_01: "evil"
-trait_02: "undead"
-trait_03: "unholy"
+trait_01: [[evil]]
+trait_02: [[undead]]
+trait_03: [[unholy]]
 modifier: 25
 perception:
   - name: "Perception"
     desc: "+25; Darkvision"
-languages: "Common"
+languages: "Common; (can&#x27;t speak any language)"
 skills:
   - name: "Skills"
     desc: "Athletics: +23, Intimidation: +29, Occultism: +25"
@@ -57,7 +58,7 @@ abilities_mid:
     desc: " (aura,incapacitation,light,occult,visual) 60 feet. The sunburst corpse sheds bright light. Any creature that starts its turn in the emanation must succeed at a DC 31 Fortitude check save. If it fails, it's [[Conditions/Blinded|Blinded]] for 1 minute, and if it critically fails, it's blinded permanently. A creature that succeeds at its save is temporarily immune to this effect for 24 hours."
 
   - name: "Darkness Vulnerability"
-    desc: "  A sunburst corpse is [[Conditions/Sickened 1|Sickened 1]] while in areas of magical darkness. If the level of the magical darkness effect is at least half of the sunburst corpse's level (a 7th-rank effect against most sunburst corpses), the sunburst corpse is also [[Conditions/Slowed 1|Slowed 1]] while in the area."
+    desc: "  A sunburst corpse is [[Conditions/Sickened|Sickened 1]] while in areas of magical darkness. If the level of the magical darkness effect is at least half of the sunburst corpse's level (a 7th-rank effect against most sunburst corpses), the sunburst corpse is also [[Conditions/Slowed|Slowed 1]] while in the area."
 
   - name: "Light Camouflage"
     desc: "  The sunburst corpse is [[Conditions/Concealed|Concealed]] in areas of natural bright light, such as due to sunlight or torches, even to creatures that can see clearly in bright light. Magical bright light and light from the sunburst corpse's blinding aura don't conceal the sunburst corpse."
@@ -72,10 +73,10 @@ attacks:
     desc: "`pf2:1` Sunfire +25 (range increment 40 feet)\n__Damage__  7d6 fire"
 
   - name: "[[Bestiary Ability Glossary/Constrict|Constrict]]"
-    desc: "`pf2:1`  2d6+6 bludgeoning plus 2d8 fire and Residual Light, DC 34 Fortitude check\n"
+    desc: "`pf2:1`  2d6+6 bludgeoning plus 2d8 fire and Residual Light, DC 34 Fortitude check\n\n* * *\n"
 
   - name: "Nova Burst"
-    desc: "`pf2:3` (light,occult) The sunburst corpse intensifies its light and unleashes a burning blast of energy. It deals 12d8 fire damage to all creatures in a 20-foot emanation (DC 34 Fortitude check save). A creature that fails its save becomes [[Conditions/Dazzled|Dazzled]] until the end of its next turn. The sunburst corpse can't use Nova Burst again for 1d4 rounds, and its blinding aura becomes inactive during this time."
+    desc: "`pf2:3` (light,occult) The sunburst corpse intensifies its light and unleashes a burning blast of energy. It deals 12d8 fire damage to all creatures in a @Template[emanation|distance:20] (DC 34 Fortitude check save). A creature that fails its save becomes [[Conditions/Dazzled|Dazzled]] until the end of its next turn. The sunburst corpse can't use Nova Burst again for 1d4 rounds, and its blinding aura becomes inactive during this time."
 
   - name: "Residual Light"
     desc: " (light,occult) When a sunburst corpse Strikes or Grapples a creature, some of the corpse's light clings to the creature for a moment. The creature must attempt a DC 34 Fortitude check save. On a failure, the creature is [[Conditions/Dazzled|Dazzled]] until the end of its next turn. On a critical failure, the creature is dazzled for 1 minute. A dazzled creature can use an Interact action to wick off the light and remove the dazzled condition."
@@ -83,6 +84,12 @@ attacks:
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
     desc: "`pf2:1`  "
  
+```
+
+```encounter-table
+name: Sunburst Corpse
+creatures:
+  - 1: Sunburst Corpse
 ```
 
 

@@ -7,6 +7,7 @@ aliases: "Compendium.battlezoo-bestiary-su-pf2e.pf2e-battlezoo-su-actors.Actor.Q
 tags:
   - pf2e/creature/type/good
   - pf2e/creature/type/plant
+  - pf2eMonster
   - pf2e/creature/level/0
 statblock: inline
 name: "Living Origami"
@@ -25,8 +26,8 @@ level: "Creature 0"
 
 alignment: ""
 size: "tiny"
-trait_01: "good"
-trait_02: "plant"
+trait_01: [[good]]
+trait_02: [[plant]]
 modifier: 6
 perception:
   - name: "Perception"
@@ -34,7 +35,7 @@ perception:
 languages: "Fey"
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +6, Deception: +6 (+9 to Impersonate ordinary paper), Nature: +5, Stealth: +6, "
+    desc: "Acrobatics: +6, Deception: +6, Nature: +5, Stealth: +6, Acrobatics: +6, Deception: +6, Nature: +5, Stealth: +6"
 abilityMods: [0, 3, 0, 2, 3, 3]
 speed: 30 feet
 sourcebook: "_Battlezoo Bestiary: Strange and Unusual_"
@@ -53,7 +54,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Bolt"
-    desc: "`pf2:r`  **Trigger** The living origami is attacked with a melee weapon\n**Effect** After resolving the attack, the living origami Steps or Strides away."
+    desc: "`pf2:r`  **Trigger** The living origami is attacked with a melee weapon\n* * *\n\n**Effect** After resolving the attack, the living origami Steps or Strides away."
 
 attacks:
   - name: ""
@@ -70,6 +71,12 @@ attacks:
   - name: "Freeze"
     desc: "`pf2:1`  The living origami stops moving, attempting to disguise itself as ordinary origami. It has an automatic result of 32 on Deception checks and DCs to pass as inanimate origami until it acts again."
  
+```
+
+```encounter-table
+name: Living Origami
+creatures:
+  - 1: Living Origami
 ```
 
 

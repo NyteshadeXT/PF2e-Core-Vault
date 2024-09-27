@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/fiend
   - pf2e/creature/type/sahkil
   - pf2e/creature/type/unholy
+  - pf2eMonster
   - pf2e/creature/level/9
 statblock: inline
 name: "Pakalchi"
@@ -27,15 +28,15 @@ level: "Creature 9"
 
 alignment: ""
 size: "Medium"
-trait_01: "evil"
-trait_02: "fiend"
-trait_03: "sahkil"
-trait_04: "unholy"
+trait_01: [[evil]]
+trait_02: [[fiend]]
+trait_03: [[sahkil]]
+trait_04: [[unholy]]
 modifier: 18
 perception:
   - name: "Perception"
     desc: "+18; Darkvision, Truesight"
-languages: "Chthonian, Diabolic, Empyrean, Requian"
+languages: "Chthonian, Diabolic, Empyrean, Requian; telepathy 100 feet, tongues"
 skills:
   - name: "Skills"
     desc: "Acrobatics: +18, Deception: +21, Diplomacy: +21, Intimidation: +21, Stealth: +18"
@@ -60,7 +61,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Entangling Train"
-    desc: "`pf2:r`  **Trigger** A creature moves adjacent to the pakalchi\n**Effect** Writhing, pitch-black vines wrap around the creature. The creature takes 1d6 slashing damage and takes a -15-foot circumstance penalty to its Speeds until the end of its next turn.\n[[Bestiary Effects/Effect_ Entangling Train|Effect: Entangling Train]]"
+    desc: "`pf2:r`  **Trigger** A creature moves adjacent to the pakalchi\n* * *\n\n**Effect** Writhing, pitch-black vines wrap around the creature. The creature takes 1d6 slashing damage and takes a -15-foot circumstance penalty to its Speeds until the end of its next turn.\n\n[[Bestiary Effects/Effect_ Entangling Train|Effect: Entangling Train]]"
 
 attacks:
   - name: ""
@@ -75,14 +76,20 @@ attacks:
     desc: "`pf2:1` Thorn +18 (agile, range increment 50 feet, unholy)\n__Damage__  2d4 + 6 piercing plus betrayal-toxin 1d6 spirit plus betrayal-toxin 1d6 bleed plus betrayal-toxin"
 
   - name: "Divine Innate Spells"
-    desc: "DC 0, attack +0; __7th __  _[[Spells/Mask of Terror|Mask of Terror (Self Only)]]_; __6th __  _[[Spells/Dominate|Dominate]]_; __5th __  _[[Spells/Calm|Calm Emotions]]_, _[[Spells/Charm|Charm]]_, _[[Spells/Suggestion|Suggestion (At Will)]]_\n__Cantrips__  __(5th)__ _[[Spells/Detect Magic|Detect Magic]]_\n__Constant__  __(6th)__ _[[Spells/Truespeech|Tongues]]_, _[[Spells/Truesight|True Seeing]]_"
+    desc: "DC 30, attack +22; __7th __  _[[Spells/Mask of Terror|Mask of Terror (Self Only)]]_; __6th __  _[[Spells/Dominate|Dominate]]_; __5th __  _[[Spells/Calm|Calm Emotions]]_, _[[Spells/Charm|Charm]]_, _[[Spells/Suggestion|Suggestion (At Will)]]_\n__Cantrips__  __(5th)__ _[[Spells/Detect Magic|Detect Magic]]_\n__Constant__  __(6th)__ _[[Spells/Truespeech|Tongues]]_, _[[Spells/Truesight|True Seeing]]_"
 
   - name: "Betrayal Toxin"
-    desc: " (divine,mental,poison) A creature affected by betrayal toxin hears whispers of incessant doubt in their head and can't treat any creature as their ally\n**Saving Throw** DC 28 Fortitude check\n**Maximum Duration** 6 rounds\n**Stage 1** [[Conditions/Stupefied 1|Stupefied 1]] (1 round)\n**Stage 2** [[Conditions/Stupefied 1|Stupefied 2]] (1 round)"
+    desc: " (divine,mental,poison) A creature affected by betrayal toxin hears whispers of incessant doubt in their head and can't treat any creature as their ally\n\n**Saving Throw** DC 28 Fortitude check\n* * *\n\n**Maximum Duration** 6 rounds\n\n**Stage 1** [[Conditions/Stupefied|Stupefied 1]] (1 round)\n\n**Stage 2** [[Conditions/Stupefied|Stupefied 2]] (1 round)"
 
   - name: "Skip Between"
-    desc: "`pf2:1` (divine,teleportation) The pakalchi moves from the Material Plane to the Ethereal Plane or vice-versa, with the effects of [[Spells/Ethereal Jaunt|Ethereal Jaunt]] except that the effect has an unlimited duration and can be Dismissed.\nA summoned pakalchi can't use Skip Between."
+    desc: "`pf2:1` (divine,teleportation) The pakalchi moves from the Material Plane to the Ethereal Plane or vice-versa, with the effects of [[Spells/Ethereal Jaunt|Ethereal Jaunt]] except that the effect has an unlimited duration and can be Dismissed.\n\nA summoned pakalchi can't use Skip Between."
  
+```
+
+```encounter-table
+name: Pakalchi
+creatures:
+  - 1: Pakalchi
 ```
 
 

@@ -6,6 +6,7 @@ cssClasses: pf2e
 aliases: "Compendium.pf2e.blood-lords-bestiary.Actor.glq0AJMjNAB0R2Ke" 
 tags:
   - pf2e/creature/type/construct
+  - pf2eMonster
   - pf2e/creature/level/6
 statblock: inline
 name: "Terra-cotta Soldier"
@@ -23,12 +24,12 @@ level: "Creature 6"
 
 alignment: ""
 size: "Medium"
-trait_01: "construct"
+trait_01: [[construct]]
 modifier: 14
 perception:
   - name: "Perception"
     desc: "+14; "
-languages: "Common"
+languages: "Common; (can&#x27;t speak any language)"
 skills:
   - name: "Skills"
     desc: "Athletics: +15, Intimidation: +15"
@@ -62,6 +63,12 @@ attacks:
   - name: "Melee"
     desc: "`pf2:1` Claw +17 (agile, magical)\n__Damage__  2d8 + 6 slashing"
  
+```
+
+```encounter-table
+name: Terra-cotta Soldier
+creatures:
+  - 1: Terra-cotta Soldier
 ```
 
 

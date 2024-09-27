@@ -15,7 +15,7 @@ license: OGL
 ---
 # Bastion of the Inheritor
 ## Item 12
-### [uncommon](uncommon "Uncommon Rarity Trait")[[bulwark]][[entrench-melee]][[hindering]][[invested]][[magical]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[bulwark]][[entrench-melee]][[hindering]][[invested]][[3-Rules/Rule References/Magical]]
 
 **Category** heavy; **Group** plate
 **Price** 1750 gp; 

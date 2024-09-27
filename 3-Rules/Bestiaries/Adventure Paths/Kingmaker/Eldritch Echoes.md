@@ -5,6 +5,7 @@ noteType: pf2eHazard
 tags:
   - magical
   - trap
+  - pf2eHazard
   - complex
 source: Pathfinder Kingmaker
 aliases: "Compendium.pf2e.kingmaker-bestiary.Actor.MABh0eh1VKh3izdf" 
@@ -22,8 +23,8 @@ name: "Eldritch Echoes"
 level: "Hazard 20"
 
 trait_06: "Complex"
-trait_01: "magical"
-trait_02: "trap"
+trait_01: [[magical]]
+trait_02: [[trap]]
 modifier: 38
 sourcebook: "_Pathfinder Kingmaker_"
 perception:
@@ -42,10 +43,16 @@ attacks:
   - name: ""
 
   - name: "Distort Senses"
-    desc: "`pf2:r` **Trigger** At least two creatures who aren't native to Thousandbreaths end their turn in area **K13**.\n**Effect** Those in the room begin \"hearing\" the sounds in the room telepathically and start to have difficulty telling the difference between these sounds and those of their allies; the trap then rolls initiative."
+    desc: "`pf2:r` **Trigger** At least two creatures who aren't native to Thousandbreaths end their turn in area **K13**.\n* * *\n\n**Effect** Those in the room begin \"hearing\" the sounds in the room telepathically and start to have difficulty telling the difference between these sounds and those of their allies; the trap then rolls initiative."
 
   - name: "Routine"
-    desc: "(1 action; emotion, enchantment, mental, primal) The trap starts scrambling senses and forcing creatures to perceive threats to their very place in time and space where no such threats actually exist. Every creature in area **K13** must attempt a DC 42 Will check saving throw.\n**Critical Success** The creature is unaffected.\n**Success** The creature is [[Conditions/Stupefied 1|Stupefied 1]] for 1 round.\n**Failure** As success, but the creature is also [[Conditions/Confused|Confused]] as long as it remains stupefied.\n**Critical Failure** The creature is [[Conditions/Stupefied 1|Stupefied 2]] and confused. The confused condition persists until the creature recovers normally, but the stupefaction effect is permanent until removed."
+    desc: "(1 action; emotion, enchantment, mental, primal) The trap starts scrambling senses and forcing creatures to perceive threats to their very place in time and space where no such threats actually exist. Every creature in area **K13** must attempt a DC 42 Will check saving throw.\n* * *\n\n**Critical Success** The creature is unaffected.\n\n**Success** The creature is [[Conditions/Stupefied|Stupefied 1]] for 1 round.\n\n**Failure** As success, but the creature is also [[Conditions/Confused|Confused]] as long as it remains stupefied.\n\n**Critical Failure** The creature is [[Conditions/Stupefied|Stupefied 2]] and confused. The confused condition persists until the creature recovers normally, but the stupefaction effect is permanent until removed."
 
+```
+
+```encounter-table
+name: Eldritch Echoes
+creatures:
+  - 1: Eldritch Echoes
 ```
 

@@ -7,8 +7,9 @@ tags:
   - trait/trip
   - trait/uncommon
   - category/martial
+  - remaster
 aliases: "Compendium.pf2e.equipment-srd.Item.YLb6XnT7OxAVGL5m"
-license: OGL
+license: ORC
 ---
 # Khopesh
 ## Item 0
@@ -23,7 +24,7 @@ license: OGL
 
 
 
-This curved sickle sword has a pointed tip, allowing it to be swung like a handaxe or thrust like a short sword. The tip of a khopesh is usually hooked so that it can be used to disarm an opponent's shield or weapon.
+This curved sickle sword has a pointed tip, allowing it to be swung in wide arcs or thrust vertically around enemy defenses. The tip of a khopesh is hooked and can be used to trip an opponent.
 
-*Source: Pathfinder Lost Omens: Gods & Magic*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

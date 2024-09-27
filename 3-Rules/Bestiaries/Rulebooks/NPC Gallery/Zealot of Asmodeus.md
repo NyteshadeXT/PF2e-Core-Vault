@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/human
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/4
 statblock: inline
 name: "Zealot of Asmodeus"
@@ -25,9 +26,9 @@ level: "Creature 4"
 
 alignment: ""
 size: "Medium"
-trait_01: "evil"
-trait_02: "human"
-trait_03: "humanoid"
+trait_01: [[evil]]
+trait_02: [[human]]
+trait_03: [[humanoid]]
 modifier: 9
 perception:
   - name: "Perception"
@@ -58,7 +59,7 @@ abilities_mid:
     desc: "`pf2:r`  "
 
   - name: "Swear Vengeance"
-    desc: "`pf2:r`  **Trigger** A creature the Zealot can see damages a follower of Asmodeus other than the zealot.\n**Effect** The zealot gains the effect of a 1st level [[Spells/Sure Strike|Sure Strike]] spell. If the zealot makes an attack roll against anyone other than the triggering creature, the _true strike_ ends with no effect."
+    desc: "`pf2:r`  **Trigger** A creature the Zealot can see damages a follower of Asmodeus other than the zealot.\n* * *\n\n**Effect** The zealot gains the effect of a 1st level [[Spells/Sure Strike|Sure Strike]] spell. If the zealot makes an attack roll against anyone other than the triggering creature, the _true strike_ ends with no effect."
 
 attacks:
   - name: ""
@@ -78,6 +79,12 @@ attacks:
   - name: "Deadly Simplicity"
     desc: "  The zealot's mace deals 1d8 damage instead of 1d6."
  
+```
+
+```encounter-table
+name: Zealot of Asmodeus
+creatures:
+  - 1: Zealot of Asmodeus
 ```
 
 

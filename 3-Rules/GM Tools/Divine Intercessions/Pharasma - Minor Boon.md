@@ -17,7 +17,7 @@ license: OGL
 
 
 
-**Minor Boon (Single Use)** You see a momentary, prophetic glimpse of your fate.
+You see a momentary, prophetic glimpse of your fate.
 
 Once, you gain a +2 status bonus to a single check; you can apply this bonus after you determine the result, and it can potentially change the degree of success.
 

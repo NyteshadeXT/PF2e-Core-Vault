@@ -6,12 +6,13 @@ tags:
   - trait/barbarian
   - trait/common
   - category/classfeature
+  - remaster
 aliases: "Compendium.pf2e.classfeatures.Item.WZUCvxqbigXos1L9"
-license: OGL
+license: ORC
 ---
 # Rage
 ## Feat 1
-### [[barbarian]]
+### [[3-Rules/trait_reference/barbarian]]
 
 **Category** classfeature; 
 
@@ -20,5 +21,5 @@ license: OGL
 
 You gain the [[Actions/Rage|Rage]] action, which lets you fly into a frenzy.
 
-*Source: Pathfinder Core Rulebook*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

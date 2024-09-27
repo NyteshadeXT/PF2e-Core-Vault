@@ -12,7 +12,7 @@ license: OGL
 ---
 # Clockwork Helm
 ## Item 17
-### [rare](rare "Rare Rarity Trait")[[clockwork]][[invested]][[magical]]
+### [rare](rare.md "Rare Rarity Trait")[[clockwork]][[invested]][[3-Rules/Rule References/Magical]]
 
 
 **Price** 13000 gp; 
@@ -33,7 +33,7 @@ In order to function, the device must be wound for 10 minutes once every 24 hour
 
 * * *
 
-**Effect** You fire a beam of withering heat from the helmet's eye slits at a target. Make a spell or ranged attack roll (your choice) to affect the target. On a hit, the target takes 10d8 fire damage and is [[Conditions/Drained 1|Drained 2]].
+**Effect** You fire a beam of withering heat from the helmet's eye slits at a target. Make a spell or ranged attack roll (your choice) to affect the target. On a hit, the target takes 10d8 fire damage and is [[Conditions/Drained|Drained 2]].
 
 *Source: Pathfinder #161: Belly of the Black Whale*
 *OGL*

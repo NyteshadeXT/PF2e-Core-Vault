@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.menace-under-otari-bestiary.Actor.aeCoh4u6c5kt1iCs"
 tags:
   - pf2e/creature/type/beast
   - pf2e/creature/type/earth
+  - pf2eMonster
   - pf2e/creature/level/4
   - remaster
 statblock: inline
@@ -25,12 +26,13 @@ level: "Creature 4"
 
 alignment: ""
 size: "Medium"
-trait_01: "beast"
-trait_02: "earth"
+trait_01: [[beast]]
+trait_02: [[earth]]
 modifier: 10
 perception:
   - name: "Perception"
     desc: "+10; Darkvision"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Acrobatics: +10, Athletics: +9, Stealth: +12"
@@ -66,6 +68,12 @@ attacks:
   - name: "Statue"
     desc: "`pf2:1` (concentrate) Until the next time they use an action, the gargoyle appears to be a statue. A creature must succeed at a DC 32 Perception check check to figure out that the statue is really a creature."
  
+```
+
+```encounter-table
+name: Gargoyle (BB)
+creatures:
+  - 1: Gargoyle (BB)
 ```
 
 

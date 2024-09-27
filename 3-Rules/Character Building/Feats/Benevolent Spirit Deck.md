@@ -41,5 +41,5 @@ You manifest a ghostly deck of harrow cards that seek to protect you or an ally.
 
 **Crowns:** acid damage
 
-*Source: Pathfinder: Stolen Fate Player's Guide*
+*Source: Pathfinder Stolen Fate Player's Guide*
 *OGL*

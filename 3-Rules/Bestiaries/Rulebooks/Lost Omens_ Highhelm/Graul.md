@@ -6,6 +6,7 @@ cssClasses: pf2e
 aliases: "Compendium.pf2e.lost-omens-highhelm-bestiary.Actor.IGoJDxjMiADXa1bm" 
 tags:
   - pf2e/creature/type/aberration
+  - pf2eMonster
   - pf2e/creature/level/4
 statblock: inline
 name: "Graul"
@@ -20,10 +21,10 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Lost Omens: Highhelm"
 name: "Graul"
 level: "Creature 4"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Large"
-trait_01: "aberration"
+trait_01: [[aberration]]
 modifier: 14
 perception:
   - name: "Perception"
@@ -31,7 +32,7 @@ perception:
 languages: "Aklo"
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +10, Athletics: +10 (+12 to Grapple), Deception: +10, Stealth: +12"
+    desc: "Acrobatics: +10, Athletics: +10, Deception: +10, Stealth: +12"
 abilityMods: [5, 3, 3, 2, 3, 2]
 speed:  fly 25 feet
 sourcebook: "_Pathfinder Lost Omens: Highhelm_"
@@ -71,7 +72,7 @@ attacks:
     desc: " (incapacitation,poison) A living creature struck by a graul's jaws attack must succeed at a DC 20 Fortitude check save or become [[Conditions/Paralyzed|Paralyzed]]. It can attempt a new check at the end of each of its turns, and the DC cumulatively decreases by 1 on each such check. A creature paralyzed by this ability is also affected by the graul's darkvision invisibility for as long as the effect persists."
 
   - name: "Seize"
-    desc: "`pf2:1`  **Requirements** The graul has a creature [[Conditions/Grabbed|Grabbed]] with its tentacle\n**Effect** The graul pulls the creature toward itself. The graul attempts an Athletics check check against the creature's Fortitude DC. With a success, the graul pulls the creature 15 feet closer to it."
+    desc: "`pf2:1`  **Requirements** The graul has a creature [[Conditions/Grabbed|Grabbed]] with its tentacle\n* * *\n\n**Effect** The graul pulls the creature toward itself. The graul attempts an Athletics check check against the creature's Fortitude DC. With a success, the graul pulls the creature 15 feet closer to it."
 
   - name: "Sound Mimicry"
     desc: "`pf2:1`  The graul can perfectly imitate the sounds and speech of other creatures by attempting a Deception check against a listener's Will DC. The graul doesn't need to understand the language it's mimicking, but when speaking a language it doesn't know, the creature can only repeat specific words and phrases it has heard in the past 24 hours. The graul can't use this ability to duplicate voice-based abilities or spells."
@@ -79,6 +80,12 @@ attacks:
   - name: "Tentacle Grab"
     desc: "  A creature hit by the graul's tentacle becomes [[Conditions/Grabbed|Grabbed]] by the graul. The creature isn't [[Conditions/Immobilized|Immobilized]], but it can't move beyond the reach of the graul's tentacle. A creature can sever the tentacle with a Strike against AC 18 that deals at least 10 slashing damage. This deals no damage to the graul but prevents it from using its tentacle Strike until it regrows the tentacle, which takes 1 round. The graul can move without ending the Grab as long as the creature remains within the tentacle's reach."
  
+```
+
+```encounter-table
+name: Graul
+creatures:
+  - 1: Graul
 ```
 
 

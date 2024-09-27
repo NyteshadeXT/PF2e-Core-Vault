@@ -10,6 +10,7 @@ tags:
   - pf2e/creature/type/fiend
   - pf2e/creature/type/nindoru
   - pf2e/creature/type/unholy
+  - pf2eMonster
   - pf2e/creature/level/13
 statblock: inline
 name: "Argyrzei"
@@ -24,14 +25,14 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #199: To Bloom Below the Web"
 name: "Argyrzei"
 level: "Creature 13"
-rare_03: "Rare"
+rare_03: [[Rare]]
 alignment: ""
 size: "Medium"
-trait_01: "chaotic"
-trait_02: "evil"
-trait_03: "fiend"
-trait_04: "nindoru"
-trait_05: "unholy"
+trait_01: [[chaotic]]
+trait_02: [[evil]]
+trait_03: [[fiend]]
+trait_04: [[nindoru]]
+trait_05: [[unholy]]
 modifier: 23
 perception:
   - name: "Perception"
@@ -70,17 +71,23 @@ attacks:
   - name: ""
 
   - name: "Melee"
-    desc: "`pf2:1` Silver Blade +28 (magical, silver, two-hand d12)\n__Damage__  1d6 bleed 1d6 mental 2d8 + 11 slashing"
+    desc: "`pf2:1` Silver Blade +28 (magical, silver, two-hand d12)\n__Damage__  2d8 + 11 slashing 1d6 bleed 1d6 mental"
 
   - name: "Occult Innate Spells"
     desc: "DC 33, attack +25; __7th __  _[[Spells/Phantom Pain|Phantom Pain]]_; __6th __  _[[Spells/Dominate|Dominate]]_, _[[Spells/Illusory Scene|Illusory Scene]]_; __5th __  _[[Spells/Subconscious Suggestion|Subconscious Suggestion]]_; __3rd __  _[[Spells/Illusory Disguise|Illusory Disguise (At Will)]]_, _[[Spells/Item Facade|Item Facade]]_\n__Cantrips__  __(7th)__ _[[Spells/Daze|Daze]]_, _[[Spells/Telekinetic Hand|Telekinetic Hand]]_, _[[Spells/Telekinetic Projectile|Telekinetic Projectile]]_"
 
   - name: "Infect Silver"
-    desc: "`pf2:3` (concentrate,curse,occult) **Frequency** once per day\n**Effect** The argyrzei concentrates on an adjacent silver object that's no larger than Bulk 2. That object becomes cursed; if the object is being carried, the object's carrier can resist the object becoming cursed with a DC 33 Will check save. The argyrzei can maintain up to five curses simultaneously; if it infects a sixth silver item, the oldest cursed item becomes uncursed.\n## **Infected Silver**\n**RARE**\n**CURSED**\n**MAGICAL**\n**Usage** curses silver item\nAfter 1 minute of carrying infected silver, it fuses to you. You become [[Conditions/Clumsy 1|Clumsy 1]] and remain so as long as the curse persists. As long as you remain cursed, you take a –2 status penalties to all saving throws against mental effects created by nindorus."
+    desc: "`pf2:3` (concentrate,curse,occult) **Frequency** once per day\n* * *\n\n**Effect** The argyrzei concentrates on an adjacent silver object that's no larger than Bulk 2. That object becomes cursed; if the object is being carried, the object's carrier can resist the object becoming cursed with a DC 33 Will check save. The argyrzei can maintain up to five curses simultaneously; if it infects a sixth silver item, the oldest cursed item becomes uncursed.\n\n## **Infected Silver**\n\n**RARE**\n\n**CURSED**\n\n**MAGICAL**\n\n**Usage** curses silver item\n\nAfter 1 minute of carrying infected silver, it fuses to you. You become [[Conditions/Clumsy|Clumsy 1]] and remain so as long as the curse persists. As long as you remain cursed, you take a –2 status penalties to all saving throws against mental effects created by nindorus."
 
   - name: "Manifest Silver Blade"
-    desc: "`pf2:1` (concentrate,occult) **Requirements** The argyrzei isn't carrying a silver blade\n**Effect** The argyrzei pulls one of the broken silver weapons from the stump of its neck, transforming it into a _+1 striking wounding silver bastard sword_. This weapon crumbles into sand if it leaves the argyrzei's possession."
+    desc: "`pf2:1` (concentrate,occult) **Requirements** The argyrzei isn't carrying a silver blade\n* * *\n\n**Effect** The argyrzei pulls one of the broken silver weapons from the stump of its neck, transforming it into a _+1 striking wounding silver bastard sword_. This weapon crumbles into sand if it leaves the argyrzei's possession."
  
+```
+
+```encounter-table
+name: Argyrzei
+creatures:
+  - 1: Argyrzei
 ```
 
 

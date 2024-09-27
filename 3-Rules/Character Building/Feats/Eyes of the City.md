@@ -7,8 +7,9 @@ tags:
   - trait/skill
   - trait/common
   - category/skill
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.IyJyZ1VQxS58Nk6V"
-license: OGL
+license: ORC
 ---
 # Eyes of the City
 ## Feat 2
@@ -22,5 +23,5 @@ license: OGL
 * * *
 You can track down targets with the help of locals. You can use Diplomacy or Society, whichever you're trained in, to [[Actions/Track|Track]] creatures in settlements. You chat with locals to help follow the trail of creatures you Track. At the GM's discretion, there might not be enough people to speak with to keep following the trail.
 
-*Source: Pathfinder Lost Omens: Firebrands*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

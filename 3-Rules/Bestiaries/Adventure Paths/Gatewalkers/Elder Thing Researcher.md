@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/aberration
   - pf2e/creature/type/amphibious
   - pf2e/creature/type/lawful
+  - pf2eMonster
   - pf2e/creature/level/10
 statblock: inline
 name: "Elder Thing Researcher"
@@ -22,12 +23,12 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #189: Dreamers of the Nameless Spires"
 name: "Elder Thing Researcher"
 level: "Creature 10"
-rare_03: "Rare"
+rare_03: [[Rare]]
 alignment: ""
 size: "Medium"
-trait_01: "aberration"
-trait_02: "amphibious"
-trait_03: "lawful"
+trait_01: [[aberration]]
+trait_02: [[amphibious]]
+trait_03: [[lawful]]
 modifier: 21
 perception:
   - name: "Perception"
@@ -35,7 +36,7 @@ perception:
 languages: "Aklo, Common, Elder-thing, Migo, Yithian"
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +17, Arcana: +21, Astronomy Lore: +14, Athletics: +19, Crafting: +21, Medicine: +21, Occultism: +23, Survival: +19, Thievery: +19 (+21 to Disable a Device)"
+    desc: "Acrobatics: +17, Arcana: +21, Athletics: +19, Crafting: +21, Medicine: +21, Occultism: +23, Survival: +19, Thievery: +19, Astronomy Lore: +14"
 abilityMods: [5, 3, 5, 7, 5, 3]
 speed: 25 feet,  fly 20 feet,  swim 30 feet
 sourcebook: "_Pathfinder #189: Dreamers of the Nameless Spires_"
@@ -66,10 +67,10 @@ attacks:
     desc: "DC 29, attack +21; __5th __  _[[Spells/Black Tentacles|Black Tentacles]]_, _[[Spells/Mind Probe|Mind Probe]]_, _[[Spells/Summon Entity|Summon Entity]]_; __4th __  _[[Spells/Rewrite Memory|Modify Memory]]_, _[[Spells/Phantom Pain|Phantom Pain]]_; __3rd __  _[[Spells/Hypercognition|Hypercognition]]_, _[[Spells/Mind Reading|Mind Reading]]_\n__Cantrips__  __(5th)__ _[[Spells/Daze|Daze]]_, _[[Spells/Telekinetic Hand|Mage Hand]]_, _[[Spells/Read Aura|Read Aura]]_, _[[Spells/Sigil|Sigil]]_, _[[Spells/Telekinetic Projectile|Telekinetic Projectile]]_"
 
   - name: "[[Bestiary Ability Glossary/Constrict|Constrict]]"
-    desc: "`pf2:1`  2d8 + 11 bludgeoning, DC 29 Fortitude check\n"
+    desc: "`pf2:1`  2d8+11 bludgeoning, DC 29 Fortitude check\n\n* * *\n"
 
   - name: "Eldritch Insight"
-    desc: "`pf2:3` (occult) **Frequency** once per day\n**Effect** By focusing its senses and thoughts on a single concept, an elder thing researcher can draw upon the thousands of years of deep memories. It then selects one of the following skills: Arcana, any Lore, Nature, Religion, or Society. Once the skill is chosen, the elder thing researcher can attempt checks for the selected skill using its Occultism modifier. This effect lasts until the elder thing researcher uses Eldritch Insight again to change its focus. If no focus is predetermined, assume an elder thing researcher has chosen to focus on Library Lore."
+    desc: "`pf2:3` (occult) **Frequency** once per day\n* * *\n\n**Effect** By focusing its senses and thoughts on a single concept, an elder thing researcher can draw upon the thousands of years of deep memories. It then selects one of the following skills: Arcana, any Lore, Nature, Religion, or Society. Once the skill is chosen, the elder thing researcher can attempt checks for the selected skill using its Occultism modifier. This effect lasts until the elder thing researcher uses Eldritch Insight again to change its focus. If no focus is predetermined, assume an elder thing researcher has chosen to focus on Library Lore."
 
   - name: "Hibernate"
     desc: "  The elder thing enters a state of hibernation after focusing its thoughts for 1 minute. While hibernating, an elder thing is [[Conditions/Unconscious|Unconscious]]. The elder thing can remain in hibernation as long as it wishes—while hibernating, it doesn't need to eat or drink, nor does it age. Time effectively stands still for a hibernating elder thing. Any effect that would normally rouse an unconscious creature can end an elder thing's hibernation, but the elder thing must attempt a DC 25 Will check save. On a success, the elder thing awakens in 2d4 rounds; otherwise it takes 1d4 days to wake from hibernation. The elder thing can set the length of its hibernation when it enters this state, so that it can awaken after a set amount of time has passed. When awakening in this way, the elder thing does so in only 1d4 rounds, with no Will save necessary."
@@ -80,6 +81,12 @@ attacks:
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
     desc: "`pf2:1`  "
  
+```
+
+```encounter-table
+name: Elder Thing Researcher
+creatures:
+  - 1: Elder Thing Researcher
 ```
 
 

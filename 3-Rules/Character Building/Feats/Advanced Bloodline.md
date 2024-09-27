@@ -6,8 +6,9 @@ tags:
   - trait/sorcerer
   - trait/common
   - category/class
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.eZrftEihfuJBldG5"
-license: OGL
+license: ORC
 ---
 # Advanced Bloodline
 ## Feat 6
@@ -19,7 +20,7 @@ license: OGL
 
 **Prerequisites** bloodline spell
 * * *
-You have studied your bloodline to learn the secrets of its magic. You gain the advanced bloodline spell associated with your bloodline. Increase the number of Focus Points in your focus pool by 1.
+You draw more power from your bloodline. You gain the advanced bloodline spell associated with your bloodline.
 
-*Source: Pathfinder Core Rulebook*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

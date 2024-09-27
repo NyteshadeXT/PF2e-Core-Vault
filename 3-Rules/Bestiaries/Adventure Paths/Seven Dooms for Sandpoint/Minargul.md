@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/goblin
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/6
 statblock: inline
 name: "Minargul"
@@ -23,13 +24,13 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #200: Seven Dooms for Sandpoint"
 name: "Minargul"
 level: "Creature 6"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Small"
-trait_01: "chaotic"
-trait_02: "evil"
-trait_03: "goblin"
-trait_04: "humanoid"
+trait_01: [[chaotic]]
+trait_02: [[evil]]
+trait_03: [[goblin]]
+trait_04: [[humanoid]]
 modifier: 11
 perception:
   - name: "Perception"
@@ -57,7 +58,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "[[Actor.iaddEHUH7gLx2WNr.Item.czwGWW73rkPW7vBg|Goblin Scuttle]]"
-    desc: "`pf2:r`  **Trigger** A goblin ally ends a move action adjacent to the goblin.\n**Effect** The goblin [[Actions/Step|Steps]]."
+    desc: "`pf2:r`  **Trigger** A goblin ally ends a move action adjacent to the goblin.\n* * *\n\n**Effect** The goblin [[Actions/Step|Steps]]."
 
 attacks:
   - name: ""
@@ -75,8 +76,14 @@ attacks:
     desc: "  Whistlewing (bat)"
 
   - name: "Whistle Up Cursed Flames"
-    desc: "`pf2:2` (curse,divine,fire) Minargul whistles a high-pitched shrill note, breathing out a blast of fire and foul-smelling smoke as she does so. All creatures in a 15-foot cone must attempt a DC 24 Reflex check save.\n**Critical Success** The creature is unaffected.\n**Success** The creature takes 3d6 fire damage.\n**Failure** The creature takes 6d6 fire damage and is [[Conditions/Sickened 1|Sickened 1]] by the agonizing pain of the burns.\n**Critical Failure** The creature takes 6d6 fire damage and is cursed. The burns caused by the fire linger, and the charred flesh remains blistered. The cursed creature takes a –1 status penalty to all checks from the constant pain. Healing doesn't alter the appearance of the burns or lessen the penalty, but removing the curse does."
+    desc: "`pf2:2` (curse,divine,fire) Minargul whistles a high-pitched shrill note, breathing out a blast of fire and foul-smelling smoke as she does so. All creatures in a @Template[cone|distance:15] must attempt a DC 24 Reflex check save.\n* * *\n\n**Critical Success** The creature is unaffected.\n\n**Success** The creature takes 3d6 fire damage.\n\n**Failure** The creature takes 6d6 fire damage and is [[Conditions/Sickened|Sickened 1]] by the agonizing pain of the burns.\n\n**Critical Failure** The creature takes 6d6 fire damage and is cursed. The burns caused by the fire linger, and the charred flesh remains blistered. The cursed creature takes a –1 status penalty to all checks from the constant pain. Healing doesn't alter the appearance of the burns or lessen the penalty, but removing the curse does."
  
+```
+
+```encounter-table
+name: Minargul
+creatures:
+  - 1: Minargul
 ```
 
 

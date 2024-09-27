@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/human
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/6
 statblock: inline
 name: "Scarlet Triad Sneak"
@@ -23,13 +24,13 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #147: Tomorrow Must Burn"
 name: "Scarlet Triad Sneak"
 level: "Creature 6"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Medium"
-trait_01: "chaotic"
-trait_02: "evil"
-trait_03: "human"
-trait_04: "humanoid"
+trait_01: [[chaotic]]
+trait_02: [[evil]]
+trait_03: [[human]]
+trait_04: [[humanoid]]
 modifier: 12
 perception:
   - name: "Perception"
@@ -63,7 +64,7 @@ abilities_mid:
     desc: "  When the sneak takes a Stride action to move half their Speed or less, that movement does not trigger reactions."
 
   - name: "Nimble Dodge"
-    desc: "`pf2:r`  **Requirement** A sneak can't use this reaction while encumbered.\n**Trigger** The sneak is hit by an attack made by a creature the sneak can see.\n**Effect** The sneak gains a +2 circumstance bonus to their Armor Class against the triggering attack."
+    desc: "`pf2:r`  **Requirement** A sneak can't use this reaction while encumbered.\n\n**Trigger** The sneak is hit by an attack made by a creature the sneak can see.\n* * *\n\n**Effect** The sneak gains a +2 circumstance bonus to their Armor Class against the triggering attack."
 
 attacks:
   - name: ""
@@ -78,7 +79,7 @@ attacks:
     desc: "`pf2:1` Dagger +16 (agile, thrown 10 ft., versatile s)\n__Damage__  1d4 + 4 piercing"
 
   - name: "Efficient Capture"
-    desc: "`pf2:3` (attack,manipulate) **Requirements** The sneak has manacles in hand and is adjacent to a creature.\n**Effect** The sneak attempts to bind the creature's wrists or ankles with the manacles. If the sneak succeeds at an attack roll with a +16 modifier against the target's AC, they apply the manacles."
+    desc: "`pf2:3` (attack,manipulate) **Requirements** The sneak has manacles in hand and is adjacent to a creature.\n* * *\n\n**Effect** The sneak attempts to bind the creature's wrists or ankles with the manacles. If the sneak succeeds at an attack roll with a +16 modifier against the target's AC, they apply the manacles."
 
   - name: "[[Bestiary Ability Glossary/Sneak Attack|Sneak Attack]]"
     desc: "  The scarlet triad sneak deals an extra 2d6 precision damage to [[Conditions/Off-Guard|Off-Guard]] creatures."
@@ -86,6 +87,12 @@ attacks:
   - name: "Surprise Attack"
     desc: "  In the first round of combat, creatures that haven't acted yet are [[Conditions/Off-Guard|Off-Guard]] to the sneak."
  
+```
+
+```encounter-table
+name: Scarlet Triad Sneak
+creatures:
+  - 1: Scarlet Triad Sneak
 ```
 
 

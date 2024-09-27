@@ -13,7 +13,7 @@ license: OGL
 ---
 # Recall Ammunition `pf2:r`
 
-### [[magical]][[spellshot]][[teleportation]]
+### [[3-Rules/Rule References/Magical]][[spellshot]][[teleportation]]
 
 **Category** interaction; 
 

@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/chaotic
   - pf2e/creature/type/fey
   - pf2e/creature/type/fire
+  - pf2eMonster
   - pf2e/creature/level/24
 statblock: inline
 name: "Avatar of the Lantern King"
@@ -22,20 +23,20 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Kingmaker"
 name: "Avatar of the Lantern King"
 level: "Creature 24"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "grg"
-trait_01: "chaotic"
-trait_02: "fey"
-trait_03: "fire"
+trait_01: [[chaotic]]
+trait_02: [[fey]]
+trait_03: [[fire]]
 modifier: 39
 perception:
   - name: "Perception"
     desc: "+39; Darkvision, Truesight"
-languages: "Aklo, Common, Fey"
+languages: "Aklo, Common, Fey; telepathy 300 feet; tongues"
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +46, Arcana: +41, Athletics: +41, Deception: +49, Diplomacy: +42, First World Lore: +43, Intimidation: +46, Nature: +46, Occultism: +41, Religion: +41, Society: +39, Stealth: +42, Thievery: +42"
+    desc: "Acrobatics: +46, Arcana: +41, Athletics: +41, Deception: +49, Diplomacy: +42, Intimidation: +46, Nature: +46, Occultism: +41, Religion: +41, Society: +39, Stealth: +42, Thievery: +42, First World Lore: +43"
 abilityMods: [9, 12, 7, 9, 7, 12]
 speed:  fly 60 feet
 sourcebook: "_Pathfinder Kingmaker_"
@@ -57,7 +58,7 @@ abilities_mid:
     desc: "`pf2:r`  "
 
   - name: "Fortune's Friend"
-    desc: "`pf2:r` (fortune,primal) **Trigger** The Lantern King fails or critically fails a saving throw.\n**Effect** The result of the saving throw is improved one degree. The Lantern King can't Fortune's Friend for 1d4 rounds."
+    desc: "`pf2:r` (fortune,primal) **Trigger** The Lantern King fails or critically fails a saving throw.\n\n**Effect** The result of the saving throw is improved one degree. The Lantern King can't Fortune's Friend for 1d4 rounds."
 
   - name: "Lantern King's Glow"
     desc: " (aura,light,primal) The Lantern King illuminates his aura with bright light. At the start of his turn, this aura attempts to counteract any ongoing darkness effect in the aura (counteract check +44). The Lantern King can suppress or activate this aura as a free action."
@@ -72,7 +73,7 @@ attacks:
   - name: ""
 
   - name: "Primal Innate Spells"
-    desc: "DC 48, attack +40; __10th __  _[[Spells/Fireball|Fireball]]_, _[[Spells/Primal Phenomenon|Primal Phenomenon]]_; __9th __  _[[Spells/Disjunction|Disjunction]]_, _[[Spells/Illusory Creature|Illusory Creature]]_, _[[Spells/Falling Stars|Meteor Swarm]]_; __8th __  _[[Spells/Illusory Object|Illusory Object]]_, _[[Spells/Illusory Scene|Illusory Scene]]_, _[[Spells/Sunburst|Sunburst]]_, _[[Spells/Teleport|Teleport]]_, _[[Spells/Wall of Fire|Wall of Fire]]_; __7th __  _[[Spells/Interplanar Teleport|Plane Shift]]_, _[[Spells/Prismatic Spray|Prismatic Spray (At Will)]]_\n__Cantrips__  __(1st)__ _[[Compendium.pf2e.spells-srd.Item.kl2q6JvBZwed4B6v|Dancing Lights]]_, _[[Spells/Light|Light]]_, _[[Spells/Produce Flame|Produce Flame]]_, _[[Spells/Read Aura|Read Aura]]_\n__Constant__  __(6th)__ _[[Spells/Truespeech|Tongues]]_, _[[Spells/Truesight|True Seeing]]_"
+    desc: "DC 48, attack +40; __10th __  _[[Spells/Fireball|Fireball]]_, _[[Spells/Primal Phenomenon|Primal Phenomenon]]_; __9th __  _[[Spells/Disjunction|Disjunction]]_, _[[Spells/Illusory Creature|Illusory Creature]]_, _[[Spells/Falling Stars|Meteor Swarm]]_; __8th __  _[[Spells/Illusory Object|Illusory Object]]_, _[[Spells/Illusory Scene|Illusory Scene]]_, _[[Spells/Sunburst|Sunburst]]_, _[[Spells/Teleport|Teleport]]_, _[[Spells/Wall of Fire|Wall of Fire]]_; __7th __  _[[Spells/Interplanar Teleport|Plane Shift]]_, _[[Spells/Prismatic Spray|Prismatic Spray (At Will)]]_\n__Cantrips__  __(10th)__ _[[Compendium.pf2e.spells-srd.Item.kl2q6JvBZwed4B6v|Dancing Lights]]_, _[[Spells/Light|Light]]_, _[[Spells/Produce Flame|Produce Flame]]_, _[[Spells/Read Aura|Read Aura]]_\n__Constant__  __(6th)__ _[[Spells/Truespeech|Tongues]]_, _[[Spells/Truesight|True Seeing]]_"
 
   - name: "Rituals"
     desc: "_[[Compendium.pf2e.spells-srd.Item.l4LFwY7iuzX6sDXr|Commune with Nature]]_, _[[Spells/Control Weather|Control Weather]]_, _[[Spells/Create Demiplane|Create Demiplane]]_, _[[Spells/Fantastic Facade|Fantastic Facade]]_, _[[Spells/Freedom|Freedom]]_, _[[Spells/Geas|Geas]]_, _[[Spells/Primal Call|Primal Call]]_"
@@ -81,20 +82,26 @@ attacks:
     desc: "`pf2:1` (primal) The Lantern King adjusts the temperature of his flames. He shifts from orange to blue, and his Strikes inflict cold damage until he takes this action again to switch back to fire damage."
 
   - name: "Blindness"
-    desc: "  A creature damaged by the Lantern King's blinding beam Strike must make a DC 48 Fortitude check save. If the Strike was a critical hit, the save's result is worsened one degree.\n**Critical Success** The creature is unaffected by blindness.\n**Success** The creature is [[Conditions/Dazzled|Dazzled]] for 1 round.\n**Failure** The creature is [[Conditions/Blinded|Blinded]] for 1 minute. At the end of each of its turns, the creature can attempt a DC 48 Fortitude check save to end this blindness early.\n**Critical Failure** The creature is blinded permanently."
+    desc: "  A creature damaged by the Lantern King's blinding beam Strike must make a DC 48 Fortitude check save. If the Strike was a critical hit, the save's result is worsened one degree.\n* * *\n\n**Critical Success** The creature is unaffected by blindness.\n\n**Success** The creature is [[Conditions/Dazzled|Dazzled]] for 1 round.\n\n**Failure** The creature is [[Conditions/Blinded|Blinded]] for 1 minute. At the end of each of its turns, the creature can attempt a DC 48 Fortitude check save to end this blindness early.\n\n**Critical Failure** The creature is blinded permanently."
 
   - name: "Change Shape"
     desc: " (concentrate,polymorph,primal) The Lantern King can take on the appearance of any fey or humanoid, but he typically does so only to trick and confuse creatures. He loses his searing rune and blinding beam Strikes, but he gains a melee fist Strike that inflicts 4d8 + 19 bludgeoning damage."
 
   - name: "Drain Luck"
-    desc: " (curse,mental,misfortune,primal) When the Lantern King damages a creature with his searing rune Strike, he drains the creature's luck. The creature must succeed at a DC 48 Will check save or gain a -1 status penalty to all checks; it is then temporarily immune to Drain Luck for 1 round. Further damage dealt by the Lantern King's searing rune Strikes increases the status penalty by 1 on a failed save to a maximum status penalty of -4. This status penalty is reduced by one every time the affected creature achieves a critical success on a die roll against a creature that is at least equal to them in level, but otherwise is permanent until removed.\n[[Bestiary Effects/Effect_ Drain Luck|Effect: Drain Luck]]"
+    desc: " (curse,mental,misfortune,primal) When the Lantern King damages a creature with his searing rune Strike, he drains the creature's luck. The creature must succeed at a DC 48 Will check save or gain a -1 status penalty to all checks; it is then temporarily immune to Drain Luck for 1 round. Further damage dealt by the Lantern King's searing rune Strikes increases the status penalty by 1 on a failed save to a maximum status penalty of -4. This status penalty is reduced by one every time the affected creature achieves a critical success on a die roll against a creature that is at least equal to them in level, but otherwise is permanent until removed.\n\n[[Bestiary Effects/Effect_ Drain Luck|Effect: Drain Luck]]"
 
   - name: "Playful Switch"
-    desc: "`pf2:1` (primal,teleportation) The Lantern King targets two creatures within 60 feet, causing each to become surrounded by glowing runes. The Lantern King attempts a single Thievery check against each target's Reflex DC. The Lantern King can't use Playful Switch again for 1 round.\n**Critical Success** If the Thievery check achieves a critical success against both targets, they swap places and are both [[Conditions/Stunned 1|Stunned 1]]. Each creature must be able to fit into their new spaces or the effect fails.\n**Success** If the Thievery check achieves a success against both targets (or a critical success on one and a success on another), the two targets swap places. Each creature must be able to fit into their new spaces or the effect fails.\n**Failure** If the Thievery check fails against either target, neither target is affected.\n**Critical Failure** As failure, but both creatures are temporarily immune to Playful Switch for 24 hours."
+    desc: "`pf2:1` (primal,teleportation) The Lantern King targets two creatures within 60 feet, causing each to become surrounded by glowing runes. The Lantern King attempts a single Thievery check against each target's Reflex DC. The Lantern King can't use Playful Switch again for 1 round.\n* * *\n\n**Critical Success** If the Thievery check achieves a critical success against both targets, they swap places and are both [[Conditions/Stunned|Stunned 1]]. Each creature must be able to fit into their new spaces or the effect fails.\n\n**Success** If the Thievery check achieves a success against both targets (or a critical success on one and a success on another), the two targets swap places. Each creature must be able to fit into their new spaces or the effect fails.\n\n**Failure** If the Thievery check fails against either target, neither target is affected.\n\n**Critical Failure** As failure, but both creatures are temporarily immune to Playful Switch for 24 hours."
 
   - name: "Prismatic Burst"
-    desc: "`pf2:r`  **Trigger** A creature achieves a critical hit against the Lantern King or damages it with a cold iron weapon.\n**Effect** The Lantern King casts [[Spells/Prismatic Spray|Prismatic Spray]]."
+    desc: "`pf2:r`  **Trigger** A creature achieves a critical hit against the Lantern King or damages it with a cold iron weapon.\n\n**Effect** The Lantern King casts [[Spells/Prismatic Spray|Prismatic Spray]]."
  
+```
+
+```encounter-table
+name: Avatar of the Lantern King
+creatures:
+  - 1: Avatar of the Lantern King
 ```
 
 

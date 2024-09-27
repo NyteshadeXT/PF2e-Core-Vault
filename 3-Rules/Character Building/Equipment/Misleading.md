@@ -3,6 +3,7 @@ obsidianUIMode: preview
 title: "Misleading"
 cssclasses: pf2e,pf2e-spell
 tags:
+  - trait/illusion
   - trait/magical
   - trait/common
 aliases: "Compendium.pf2e.equipment-srd.Item.68rHNRZmlnyaUbBF"
@@ -10,7 +11,7 @@ license: OGL
 ---
 # Misleading
 ## Item 16
-### [[magical]]
+### [[illusion]][[magical]]
 
 
 **Price** 8000 gp; 

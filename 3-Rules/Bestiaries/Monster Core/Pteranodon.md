@@ -6,6 +6,7 @@ cssClasses: pf2e
 aliases: "Compendium.pf2e.pathfinder-monster-core.Actor.bGp2t0UteEYu3BGe" 
 tags:
   - pf2e/creature/type/animal
+  - pf2eMonster
   - pf2e/creature/level/2
   - remaster
 statblock: inline
@@ -25,7 +26,7 @@ level: "Creature 2"
 
 alignment: ""
 size: "Large"
-trait_01: "animal"
+trait_01: [[animal]]
 modifier: 8
 perception:
   - name: "Perception"
@@ -60,6 +61,12 @@ attacks:
   - name: "Swoop"
     desc: "`pf2:2`  The pteranodon Flies up to its Speed and makes one beak Strike at any point during that movement."
  
+```
+
+```encounter-table
+name: Pteranodon
+creatures:
+  - 1: Pteranodon
 ```
 
 

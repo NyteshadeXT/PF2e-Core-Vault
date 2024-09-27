@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/ganzi
   - pf2e/creature/type/human
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/3
 statblock: inline
 name: "Ganzi Martial Artist"
@@ -27,10 +28,10 @@ level: "Creature 3"
 
 alignment: ""
 size: "Medium"
-trait_01: "chaotic"
-trait_02: "ganzi"
-trait_03: "human"
-trait_04: "humanoid"
+trait_01: [[chaotic]]
+trait_02: [[ganzi]]
+trait_03: [[human]]
+trait_04: [[humanoid]]
 modifier: 9
 perception:
   - name: "Perception"
@@ -58,10 +59,10 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Ganzi Resistance"
-    desc: "  The ganzi gains resistance 1 to acid, electricity, or sonic (chosen randomly each day).\n[[Bestiary Effects/Effect_ Ganzi Resistance|Effect: Ganzi Resistance]]"
+    desc: "  The ganzi gains resistance 1 to acid, electricity, or sonic (chosen randomly each day).\n\n[[Bestiary Effects/Effect_ Ganzi Resistance|Effect: Ganzi Resistance]]"
 
   - name: "Ganzi Spells"
-    desc: "  Two 2nd level spells of the following chosen at random each day using 1d12.\n1: [[Spells/Acid Arrow|Acid Arrow]], 2: [[Spells/Blur|Blur]], 3: [[Spells/Laughing Fit|Laughing Fit]], 4: [[Spells/Humanoid Form|Humanoid Form]], 5: [[Spells/Illusory Object|Illusory Object]], 6: [[Spells/Mirror Image|Mirror Image]], 7: [[Spells/Resist Energy|Resist Energy]], 8: [[Spells/See the Unseen|See the Unseen]], 9: [[Spells/Shatter|Shatter]], 10: [[Spells/Noise Blast|Noise Blast]], 11: [[Spells/Gecko Grip|Gecko Grip]], 12: [[Spells/Telekinetic Maneuver|Telekinetic Maneuver]]"
+    desc: "  Two 2nd level spells of the following chosen at random each day using 1d12.\n\n1: [[Spells/Acid Arrow|Acid Arrow]], 2: [[Spells/Blur|Blur]], 3: [[Spells/Laughing Fit|Laughing Fit]], 4: [[Spells/Humanoid Form|Humanoid Form]], 5: [[Spells/Illusory Object|Illusory Object]], 6: [[Spells/Mirror Image|Mirror Image]], 7: [[Spells/Resist Energy|Resist Energy]], 8: [[Spells/See the Unseen|See the Unseen]], 9: [[Spells/Shatter|Shatter]], 10: [[Spells/Noise Blast|Noise Blast]], 11: [[Spells/Gecko Grip|Gecko Grip]], 12: [[Spells/Telekinetic Maneuver|Telekinetic Maneuver]]"
 
 attacks:
   - name: ""
@@ -76,11 +77,17 @@ attacks:
     desc: "DC 19, attack +11; __2nd __  _[[Spells/Acid Arrow|Acid Arrow]]_, _[[Spells/Blur|Blur]]_, _[[Spells/Laughing Fit|Hideous Laughter]]_, _[[Spells/Humanoid Form|Humanoid Form]]_, _[[Spells/Illusory Object|Illusory Object]]_, _[[Spells/Mirror Image|Mirror Image]]_, _[[Spells/Resist Energy|Resist Energy]]_, _[[Spells/See the Unseen|See Invisibility]]_, _[[Spells/Shatter|Shatter]]_, _[[Spells/Noise Blast|Sound Burst]]_, _[[Spells/Gecko Grip|Spider Climb]]_, _[[Spells/Telekinetic Maneuver|Telekinetic Maneuver]]_"
 
   - name: "Flurry of Kicks"
-    desc: "`pf2:1`  **Frequency** once per turn\n**Effect** The martial artist makes two melee Strikes. The martial artist applies their multiple attack penalty to these Strikes normally."
+    desc: "`pf2:1`  **Frequency** once per turn\n* * *\n\n**Effect** The martial artist makes two melee Strikes. The martial artist applies their multiple attack penalty to these Strikes normally."
 
   - name: "Handspring Kick"
-    desc: "`pf2:1`  **Requirements** The martial artist has both hands free\n**Effect** The martial artist Steps, then makes a melee Strike at a -1 penalty."
+    desc: "`pf2:1`  **Requirements** The martial artist has both hands free\n* * *\n\n**Effect** The martial artist Steps, then makes a melee Strike at a -1 penalty."
  
+```
+
+```encounter-table
+name: Ganzi Martial Artist
+creatures:
+  - 1: Ganzi Martial Artist
 ```
 
 

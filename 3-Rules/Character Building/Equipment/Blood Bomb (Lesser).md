@@ -15,7 +15,7 @@ license: OGL
 ---
 # Blood Bomb (Lesser)
 ## Item 1
-### [uncommon](uncommon "Uncommon Rarity Trait")[[alchemical]][[bomb]][[consumable]][[splash]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[alchemical]][[bomb]][[consumable]][[splash]]
 
 |  |  |
 | -- | -- |

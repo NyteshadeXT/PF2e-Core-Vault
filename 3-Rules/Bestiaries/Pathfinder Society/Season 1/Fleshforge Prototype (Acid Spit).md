@@ -6,6 +6,7 @@ cssClasses: pf2e
 aliases: "Compendium.pf2e.pfs-season-1-bestiary.Actor.lzDOAywWh0mP4UeH" 
 tags:
   - pf2e/creature/type/construct
+  - pf2eMonster
   - pf2e/creature/level/5
 statblock: inline
 name: "Fleshforge Prototype (Acid Spit)"
@@ -20,15 +21,15 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Society Scenario #1-01: The Absalom Initiation"
 name: "Fleshforge Prototype (Acid Spit)"
 level: "Creature 5"
-rare_03: "Rare"
+rare_03: [[Rare]]
 alignment: ""
 size: "Medium"
-trait_01: "construct"
+trait_01: [[construct]]
 modifier: 9
 perception:
   - name: "Perception"
     desc: "+9; "
-languages: "Common"
+languages: "Common; (can&#x27;t speak any language)"
 skills:
   - name: "Skills"
     desc: "Acrobatics: +12, Athletics: +13, Survival: +9"
@@ -61,6 +62,12 @@ attacks:
   - name: "Ranged"
     desc: "`pf2:1` Acid Spit +13 (range 30 feet)\n__Damage__  4d6 acid"
  
+```
+
+```encounter-table
+name: Fleshforge Prototype (Acid Spit)
+creatures:
+  - 1: Fleshforge Prototype (Acid Spit)
 ```
 
 

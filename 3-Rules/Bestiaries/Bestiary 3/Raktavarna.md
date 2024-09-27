@@ -10,6 +10,7 @@ tags:
   - pf2e/creature/type/lawful
   - pf2e/creature/type/rakshasa
   - pf2e/creature/type/unholy
+  - pf2eMonster
   - pf2e/creature/level/1
 statblock: inline
 name: "Raktavarna"
@@ -25,14 +26,14 @@ token: [[modules/pf2e-tokens-bestiaries/portraits/fiendish/raktavarna.webp| ]]
 source: "Pathfinder Bestiary 3"
 name: "Raktavarna"
 level: "Creature 1"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "tiny"
-trait_01: "evil"
-trait_02: "fiend"
-trait_03: "lawful"
-trait_04: "rakshasa"
-trait_05: "unholy"
+trait_01: [[evil]]
+trait_02: [[fiend]]
+trait_03: [[lawful]]
+trait_04: [[rakshasa]]
+trait_05: [[unholy]]
 modifier: 6
 perception:
   - name: "Perception"
@@ -68,17 +69,23 @@ attacks:
     desc: "DC 16, attack +8; __4th __  _[[Spells/Read Omens|Read Omens]]_; __1st __  _[[Spells/Charm|Charm]]_, _[[Spells/Command|Command]]_\n__Cantrips__  __(1st)__ _[[Spells/Detect Magic|Detect Magic]]_"
 
   - name: "[[Bestiary Ability Glossary/Change Shape|Change Shape]]"
-    desc: "`pf2:1` (concentrate,occult,polymorph) The raktavarna takes on the appearance of a Tiny inanimate object. If, while transformed, the raktavarna takes any action other than the purely mental (such as [[Actions/Recall Knowledge|Recall Knowledge]]), they immediately revert to their original form. Until then, they can use Deception to [[Actions/Impersonate|Impersonate]] the object.\n"
+    desc: "`pf2:1` (concentrate,occult,polymorph) The raktavarna takes on the appearance of a Tiny inanimate object. If, while transformed, the raktavarna takes any action other than the purely mental (such as [[Actions/Recall Knowledge|Recall Knowledge]]), they immediately revert to their original form. Until then, they can use Deception to [[Actions/Impersonate|Impersonate]] the object.\n\n* * *\n"
 
   - name: "Designate Master"
     desc: "  A raktavarna can designate a creature as their master using a 10-minute invocation in which the master must participate. The raktavarna can revoke this status at any time."
 
   - name: "Master's Eyes"
-    desc: "  As a 3-action activity with the concentrate trait, a raktavarna's master can observe the world through the raktavarna's eyes, instead of their own. This uses the raktavarna's Perception and darkvision.\nEach round, the master must spend a single action, which also has the concentrate trait, to maintain the connection. This ability functions at any range, even on different planes of existence.\nIf the raktavarna dies while their master is using this ability, the master is [[Conditions/Stunned 1|Stunned 5]]."
+    desc: "  As a 3-action activity with the concentrate trait, a raktavarna's master can observe the world through the raktavarna's eyes, instead of their own. This uses the raktavarna's Perception and darkvision.\n\nEach round, the master must spend a single action, which also has the concentrate trait, to maintain the connection. This ability functions at any range, even on different planes of existence.\n\nIf the raktavarna dies while their master is using this ability, the master is [[Conditions/Stunned|Stunned 5]]."
 
   - name: "Raktavarna Venom"
-    desc: " (poison) **Saving Throw** DC 16 Fortitude check\n**Maximum Duration** 6 rounds\n**Stage 1** 1d4 poison damage and [[Conditions/Stupefied 1|Stupefied 1]] (1 round)\n**Stage 2** 1d4 poison damage and [[Conditions/Stupefied 1|Stupefied 2]] (1 round)"
+    desc: " (poison) **Saving Throw** DC 16 Fortitude check\n* * *\n\n**Maximum Duration** 6 rounds\n\n**Stage 1** 1d4 poison damage and [[Conditions/Stupefied|Stupefied 1]] (1 round)\n\n**Stage 2** 1d4 poison damage and [[Conditions/Stupefied|Stupefied 2]] (1 round)"
  
+```
+
+```encounter-table
+name: Raktavarna
+creatures:
+  - 1: Raktavarna
 ```
 
 

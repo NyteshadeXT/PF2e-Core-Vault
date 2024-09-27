@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.pathfinder-bestiary-3.Actor.EGyCQDseM9FaCl78"
 tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/kami
+  - pf2eMonster
   - pf2e/creature/level/6
 statblock: inline
 name: "Chouchin-Obake"
@@ -25,8 +26,8 @@ level: "Creature 6"
 
 alignment: ""
 size: "Medium"
-trait_01: "evil"
-trait_02: "kami"
+trait_01: [[evil]]
+trait_02: [[kami]]
 modifier: 15
 perception:
   - name: "Perception"
@@ -53,10 +54,10 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Lifewick Candle"
-    desc: " (aura,divine,void) 15 feet. A ghostly blue flame within the chouchin-obake draws upon the life-force of the living to sustain themself.\nAt the start of the chouchin-obake's turn, each creature in the aura takes 2d6 void damage (DC 26 Fortitude check save). The chouchin-obake regains an amount of Hit Points equal to the amount of damage taken by the single creature that took the most damage."
+    desc: " (aura,divine,void) 15 feet. A ghostly blue flame within the chouchin-obake draws upon the life-force of the living to sustain themself.\n\nAt the start of the chouchin-obake's turn, each creature in the aura takes 2d6 void damage (DC 26 Fortitude check save). The chouchin-obake regains an amount of Hit Points equal to the amount of damage taken by the single creature that took the most damage."
 
   - name: "Shadowbind"
-    desc: "`pf2:r`  **Trigger** A creature attempts to leave the chouchin-obake's Lifewick Candle aura during a move action\n**Effect** The chouchin-obake attempts to bind the creature using their own shadow. The triggering creature must succeed at a DC 26 Reflex check save or become [[Conditions/Immobilized|Immobilized]] until its next turn."
+    desc: "`pf2:r`  **Trigger** A creature attempts to leave the chouchin-obake's Lifewick Candle aura during a move action\n* * *\n\n**Effect** The chouchin-obake attempts to bind the creature using their own shadow. The triggering creature must succeed at a DC 26 Reflex check save or become [[Conditions/Immobilized|Immobilized]] until its next turn."
 
 attacks:
   - name: ""
@@ -68,11 +69,17 @@ attacks:
     desc: "`pf2:1` Flame +16 (range increment 30 feet)\n__Damage__  2d4 void 2d6 fire"
 
   - name: "[[Bestiary Ability Glossary/Constrict|Constrict]]"
-    desc: "`pf2:1`  2d8 void plus 1d6 fire, DC 26 Fortitude check\n"
+    desc: "`pf2:1`  2d8 void plus 1d6 fire, DC 26 Fortitude check\n\n* * *\n"
 
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
     desc: "`pf2:1`  "
  
+```
+
+```encounter-table
+name: Chouchin-Obake
+creatures:
+  - 1: Chouchin-Obake
 ```
 
 

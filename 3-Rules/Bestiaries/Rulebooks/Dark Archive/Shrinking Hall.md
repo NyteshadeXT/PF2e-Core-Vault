@@ -5,6 +5,7 @@ noteType: pf2eHazard
 tags:
   - mechanical
   - trap
+  - pf2eHazard
 
 source: Pathfinder Dark Archive
 aliases: "Compendium.pf2e.pathfinder-dark-archive.Actor.dbbWRZqE509Ac4bH" 
@@ -22,8 +23,8 @@ name: "Shrinking Hall"
 level: "Hazard 2"
 
 
-trait_01: "mechanical"
-trait_02: "trap"
+trait_01: [[mechanical]]
+trait_02: [[trap]]
 modifier: 8
 sourcebook: "_Pathfinder Dark Archive_"
 perception:
@@ -42,10 +43,16 @@ attacks:
   - name: ""
 
   - name: "Shrink"
-    desc: "`pf2:r` **Trigger** 100 pounds of weight or more is placed on the hallway's floor\n**Effect** The hall's last 40 feet of walls angle inward, causing the hall to shrink and contract down, reaching 6 inches in height and width at the hall's far end and completely blocking access to the hall's exit door for anything but a Tiny creature Squeezing."
+    desc: "`pf2:r` **Trigger** 100 pounds of weight or more is placed on the hallway's floor\n* * *\n\n**Effect** The hall's last 40 feet of walls angle inward, causing the hall to shrink and contract down, reaching 6 inches in height and width at the hall's far end and completely blocking access to the hall's exit door for anything but a Tiny creature Squeezing."
 
 
   - name: "Reset"
     desc: "After 10 minutes without weight being placed on this hall's floor, this trap resets, returning the hall to its original size."
+```
+
+```encounter-table
+name: Shrinking Hall
+creatures:
+  - 1: Shrinking Hall
 ```
 

@@ -10,6 +10,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/fiend
   - pf2e/creature/type/unholy
+  - pf2eMonster
   - pf2e/creature/level/7
 statblock: inline
 name: "Serraleth"
@@ -24,22 +25,22 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Society Scenario #4-99: Blessings of the Forest"
 name: "Serraleth"
 level: "Creature 7"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Medium"
-trait_01: "chaotic"
-trait_02: "demon"
-trait_03: "evil"
-trait_04: "fiend"
-trait_05: "unholy"
+trait_01: [[chaotic]]
+trait_02: [[demon]]
+trait_03: [[evil]]
+trait_04: [[fiend]]
+trait_05: [[unholy]]
 modifier: 16
 perception:
   - name: "Perception"
     desc: "+16; Darkvision, Scent (Imprecise) 60 Feet"
-languages: "Chthonian, Common, Draconic, Empyrean"
+languages: "Chthonian, Common, Draconic, Empyrean; speak with animals, telepathy 100 feet"
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +15, Athletics: +17, Intimidation: +15, Nature: +14 (+18 to Command an Animal), Survival: +16"
+    desc: "Acrobatics: +15, Athletics: +17, Intimidation: +15, Nature: +14, Survival: +16"
 abilityMods: [6, 4, 2, 0, 3, 2]
 speed: 40 feet
 sourcebook: "_Pathfinder Society Scenario #4-99: Blessings of the Forest_"
@@ -61,7 +62,7 @@ abilities_mid:
     desc: "  The first time each round an attempt to Command an Animal fails within 60 feet of Serraleth, she takes 4d6 mental damage (10d6 mental if Serraleth failed the attempt)."
 
   - name: "Predatory Aura"
-    desc: " (aura) 30 feet. An animal or beast entering or starting its turn in the emanation must succeed at a DC 25 Will check save or become [[Conditions/Frightened 1|Frightened 1]] (frightened 2 on a critical failure). Frightened animals within the emanation can't attack Serraleth. A creature that succeeds at a saving throw against predatory aura is immune for 24 hours."
+    desc: " (aura) 30 feet. An animal or beast entering or starting its turn in the emanation must succeed at a DC 25 Will check save or become [[Conditions/Frightened|Frightened 1]] (frightened 2 on a critical failure). Frightened animals within the emanation can't attack Serraleth. A creature that succeeds at a saving throw against predatory aura is immune for 24 hours."
 
 attacks:
   - name: ""
@@ -84,6 +85,12 @@ attacks:
   - name: "Wear Pelt"
     desc: "`pf2:2` (divine,manipulate) Serraleth dons the pelt of an adjacent dead animal, transforming into its lookalike. She becomes the same size and gains the same Speeds as the target animal. Serraleth loses her claw and jaws unarmed Strikes and gains the types of melee Strikes of the animal whose pelt she wears. The Strike deals damage equal to her jaws Strike or, if the Strike has the agile trait, her claw Strike. Either way, the damage type changes to match the new unarmed attack. While Serraleth wears a pelt, half of physical damage dealt to her is instead dealt to the pelt. A pelt has Hardness 5 and 25 HP. When a pelt reaches 0 HP, she's immediately expelled from the pelt and it's destroyed."
  
+```
+
+```encounter-table
+name: Serraleth
+creatures:
+  - 1: Serraleth
 ```
 
 

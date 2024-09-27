@@ -17,4 +17,4 @@ tags:
 | **Lift wooden portcullis** | 20\* |
 | **Lift iron portcullis** | 30\* |
 | **Bend metal bars** | 30 |
-| \* Use the Thievery DC of the locking mechanism if it's higher. |  |
+| \* Use the Thievery DC of the locking mechanism +5 if it's higher. |  |

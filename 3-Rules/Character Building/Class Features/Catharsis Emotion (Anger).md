@@ -10,7 +10,7 @@ license: OGL
 ---
 # Catharsis Emotion (Anger)
 
-### [uncommon](uncommon "Uncommon Rarity Trait")
+### [uncommon](uncommon.md "Uncommon Rarity Trait")
 
 **Category** classfeature; 
 

@@ -29,9 +29,9 @@ Your connection to energy is so much stronger than the offending display in fron
 
 **Awakening** The energy you consume helps empower your abilities. The next ability from the dragon classification that you use increases its range by 30 feet if it has a range, or increases its area by 10 feet if it's a cone or line. If you don't use this benefit within 1 minute, it fades.
 
-40-foot cone
+@Template\[cone|distance:40\]
 
-70-foot line
+@Template\[line|distance:70\]
 
 * * *
 

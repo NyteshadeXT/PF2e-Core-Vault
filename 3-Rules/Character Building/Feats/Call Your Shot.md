@@ -6,8 +6,9 @@ tags:
   - trait/archetype
   - trait/common
   - category/class
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.SfBXPmADMFiZIBQt"
-license: OGL
+license: ORC
 ---
 # Call Your Shot
 ## Feat 8
@@ -21,7 +22,7 @@ license: OGL
 * * *
 When you successfully Play to the Crowd, add the following to the list of benefits you can choose from:
 
-*   Choose a creature within 30 feet that can see you to become [[Conditions/Frightened 1|Frightened 1]]. This effect has the emotion, fear, mental, and visual traits.
+*   Choose a creature within 30 feet that can see you to become [[Conditions/Frightened|Frightened 2]]. This effect has the emotion, fear, mental, and visual traits.
 
-*Source: Pathfinder Advanced Player's Guide*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

@@ -17,7 +17,7 @@ license: OGL
 
 
 
-**Major Curse** You have wronged those unable to obtain revenge for themselves, and Calistria's curse grants their revenge its own life.
+You have wronged those unable to obtain revenge for themselves, and Calistria's curse grants their revenge its own life.
 
 Whenever another creature imagines vengeance upon you but can't pursue that vengeance because you are too powerful, well connected, or otherwise untouchable, a creature of roughly your level manifests out of their imagination and performs their desired revenge.
 

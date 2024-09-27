@@ -10,8 +10,9 @@ tags:
   - trait/polymorph
   - trait/common
   - category/mutagen
+  - remaster
 aliases: "Compendium.pf2e.equipment-srd.Item.YwRAHWW8yUI07sy9"
-license: OGL
+license: ORC
 ---
 # Silvertongue Mutagen (Lesser)
 ## Item 1
@@ -22,11 +23,11 @@ license: OGL
 **Bulk** L; **Size** med
 **Usage** held-in-one-hand
 
-**Activate** `pf2:1` Interact
+**Activate** `pf2:1` (manipulate)
 
 * * *
 
-Your features become striking and your voice becomes musical and commanding, though facts and figures become hazy for you and emotion clouds your ability to reason.
+Your features become striking, and your voice becomes musical and commanding, though emotion clouds your reason.
 
 **Benefit** You gain a +1 item bonus to Deception, Diplomacy, Intimidation and Performance checks. Your critical failures with any of these skills become failures instead.
 
@@ -36,5 +37,5 @@ Your features become striking and your voice becomes musical and commanding, tho
 
 [[Equipment Effects/Effect_ Silvertongue Mutagen (Lesser)|Effect: Silvertongue Mutagen (Lesser)]]
 
-*Source: Pathfinder Core Rulebook*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

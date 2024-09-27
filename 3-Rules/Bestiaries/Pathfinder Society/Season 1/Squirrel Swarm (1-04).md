@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.pfs-season-1-bestiary.Actor.l8PzmglYbEtM5Xy6"
 tags:
   - pf2e/creature/type/animal
   - pf2e/creature/type/swarm
+  - pf2eMonster
   - pf2e/creature/level/1
 statblock: inline
 name: "Squirrel Swarm (1-04)"
@@ -24,15 +25,16 @@ level: "Creature 1"
 
 alignment: ""
 size: "Large"
-trait_01: "animal"
-trait_02: "swarm"
+trait_01: [[animal]]
+trait_02: [[swarm]]
 modifier: 5
 perception:
   - name: "Perception"
     desc: "+5; Low-Light Vision"
+languages: ""
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +8, Athletics: +4 (+6 to Climb)"
+    desc: "Acrobatics: +8, Athletics: +4"
 abilityMods: [-3, 3, 1, -4, 1, -2]
 speed: 30 feet,  climb 20 feet
 sourcebook: "_Pathfinder Society Scenario #1-04: Bandits of Immenwood_"
@@ -54,8 +56,14 @@ attacks:
   - name: ""
 
   - name: "Swarming Claws and Teeth"
-    desc: "`pf2:2`  Each enemy in the swarm's space takes 1d4 piercing damage and must attempt a DC 17 Reflex check save.\nA creature affected by this attack can spend 2 actions on it's turn to attempt another DC 17 Reflex check to remove the clumsy condition.\n**Critical Success** The creature is unaffected.\n**Success** The creature takes half damage\n**Failure** The creature takes full damage and is [[Conditions/Clumsy 1|Clumsy 2]].\n**Critical Failure** The creature takes double damage, is clumsy 2, and falls [[Conditions/Prone|Prone]]."
+    desc: "`pf2:2`  Each enemy in the swarm's space takes 1d4 piercing damage and must attempt a DC 17 Reflex check save.\n\nA creature affected by this attack can spend 2 actions on it's turn to attempt another DC 17 Reflex check to remove the clumsy condition.\n* * *\n\n**Critical Success** The creature is unaffected.\n\n**Success** The creature takes half damage\n\n**Failure** The creature takes full damage and is [[Conditions/Clumsy|Clumsy 2]].\n\n**Critical Failure** The creature takes double damage, is clumsy 2, and falls [[Conditions/Prone|Prone]]."
  
+```
+
+```encounter-table
+name: Squirrel Swarm (1-04)
+creatures:
+  - 1: Squirrel Swarm (1-04)
 ```
 
 

@@ -6,8 +6,9 @@ tags:
   - trait/investigator
   - trait/common
   - category/classfeature
+  - remaster
 aliases: "Compendium.pf2e.classfeatures.Item.dmK1wya8GBi9MmCB"
-license: OGL
+license: ORC
 ---
 # Skillful Lessons
 ## Feat 3
@@ -20,5 +21,5 @@ license: OGL
 
 At 3rd level and every odd-numbered level thereafter, you gain a skill feat. This feat must be for an Intelligence-, Wisdom-, or Charisma-based skill, or for the skill you gained from your methodology.
 
-*Source: Pathfinder Advanced Player's Guide*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

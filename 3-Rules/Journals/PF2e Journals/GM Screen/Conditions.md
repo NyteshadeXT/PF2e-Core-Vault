@@ -15,12 +15,12 @@ tags:
 | **Degrees of Detection** | **[[Conditions/Observed\|Observed]]** | **[[Conditions/Hidden\|Hidden]]** | **[[Conditions/Undetected\|Undetected]]** | **[[Conditions/Unnoticed\|Unnoticed]]** |
 | **Senses** | [[Conditions/Blinded\|Blinded]] | [[Conditions/Concealed\|Concealed]] | [[Conditions/Dazzled\|Dazzled]] | [[Conditions/Deafened\|Deafened]] |
 |  | [[Conditions/Invisible\|Invisible]] |  |  |  |
-| **Death and Dying** | [[Conditions/Doomed 1\|Doomed]] | [[Conditions/Dying 1\|Dying]] | [[Conditions/Unconscious\|Unconscious]] | [[Conditions/Wounded 1\|Wounded]] |
+| **Death and Dying** | [[Conditions/Doomed\|Doomed]] | [[Conditions/Dying\|Dying]] | [[Conditions/Unconscious\|Unconscious]] | [[Conditions/Wounded\|Wounded]] |
 | **Attitudes** | [[Conditions/Hostile\|Hostile]] | [[Conditions/Unfriendly\|Unfriendly]] | [[Conditions/Indifferent\|Indifferent]] | [[Conditions/Friendly\|Friendly]] |
 |  | [[Conditions/Helpful\|Helpful]] |  |  |  |
-| **Lowered Ability** | [[Conditions/Broken\|Broken]] | [[Conditions/Clumsy 1\|Clumsy]] | [[Conditions/Confused\|Confused]] | [[Conditions/Controlled\|Controlled]] |
-|  | [[Conditions/Drained 1\|Drained]] | [[Conditions/Encumbered\|Encumbered]] | [[Conditions/Enfeebled 1\|Enfeebled]] | [[Conditions/Fascinated\|Fascinated]] |
-|  | [[Conditions/Fatigued\|Fatigued]] | [[Conditions/Off-Guard\|Off-Guard]] | [[Conditions/Fleeing\|Fleeing]] | [[Conditions/Frightened 1\|Frightened]] |
+| **Lowered Ability** | [[Conditions/Broken\|Broken]] | [[Conditions/Clumsy\|Clumsy]] | [[Conditions/Confused\|Confused]] | [[Conditions/Controlled\|Controlled]] |
+|  | [[Conditions/Drained\|Drained]] | [[Conditions/Encumbered\|Encumbered]] | [[Conditions/Enfeebled\|Enfeebled]] | [[Conditions/Fascinated\|Fascinated]] |
+|  | [[Conditions/Fatigued\|Fatigued]] | [[Conditions/Off-Guard\|Off-Guard]] | [[Conditions/Fleeing\|Fleeing]] | [[Conditions/Frightened\|Frightened]] |
 |  | [[Conditions/Grabbed\|Grabbed]] | [[Conditions/Immobilized\|Immobilized]] | [[Conditions/Paralyzed\|Paralyzed]] | [[Conditions/Persistent Damage\|Persistent Damage]] |
 |  | [[Conditions/Petrified\|Petrified]] | [[Conditions/Prone\|Prone]] | [[Conditions/Quickened\|Quickened]] | [[Conditions/Restrained\|Restrained]] |
-|  | [[Conditions/Sickened 1\|Sickened]] | [[Conditions/Slowed 1\|Slowed]] | [[Conditions/Stunned 1\|Stunned]] | [[Conditions/Stupefied 1\|Stupefied]] |
+|  | [[Conditions/Sickened\|Sickened]] | [[Conditions/Slowed\|Slowed]] | [[Conditions/Stunned\|Stunned]] | [[Conditions/Stupefied\|Stupefied]] |

@@ -6,8 +6,9 @@ tags:
   - trait/champion
   - trait/common
   - category/class
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.07jxXvRZ8nD3JLF4"
-license: OGL
+license: ORC
 ---
 # Imposing Destrier
 ## Feat 10
@@ -17,9 +18,11 @@ license: OGL
 
 
 
-**Prerequisites** divine ally (steed); Loyal Warhorse
+**Prerequisites** Loyal Warhorse
 * * *
-Under your care, your mount has realized its innate potential. The mount you gained through the divine ally class feature is now a nimble or savage animal companion. During an encounter, even if you don't use the Command an Animal action, your mount can still use 1 action on your turn to Stride or Strike.
+Under your care, your mount has realized its innate potential. The mount you gained with Faithful Steed is now a nimble or savage animal companion.
 
-*Source: Pathfinder Core Rulebook*
-*OGL*
+Your animal companion has greater independence. During an encounter, even if you don't use the Command an Animal action, your animal companion can still use 1 action that round on your turn to Stride or Strike. It can do this at any point during your turn, as long as you aren't currently taking an action. If it does, that's all the actions it gets that round—you can't Command it later.
+
+*Source: Pathfinder Player Core 2*
+*ORC*

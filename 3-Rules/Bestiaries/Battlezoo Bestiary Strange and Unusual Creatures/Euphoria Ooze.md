@@ -7,6 +7,7 @@ aliases: "Compendium.battlezoo-bestiary-su-pf2e.pf2e-battlezoo-su-actors.Actor.k
 tags:
   - pf2e/creature/type/mindless
   - pf2e/creature/type/ooze
+  - pf2eMonster
   - pf2e/creature/level/4
 statblock: inline
 name: "Euphoria Ooze"
@@ -22,18 +23,19 @@ token: [[modules/battlezoo-bestiary-su-pf2e/art/Portraits/euphoria-ooze.webp| ]]
 source: "Battlezoo Bestiary: Strange and Unusual"
 name: "Euphoria Ooze"
 level: "Creature 4"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Small"
-trait_01: "mindless"
-trait_02: "ooze"
+trait_01: [[mindless]]
+trait_02: [[ooze]]
 modifier: 8
 perception:
   - name: "Perception"
-    desc: "+8; Motion Sense (Precise) 60 Feet"
+    desc: "+8; Motion Sense (Imprecise) 60 Feet"
+languages: ""
 skills:
   - name: "Skills"
-    desc: "Athletics: +12 (+14 to Shove), "
+    desc: "Athletics: +12, Athletics: +12"
 abilityMods: [5, -2, 5, -5, 0, -5]
 speed: 10 feet,  climb 10 feet
 sourcebook: "_Battlezoo Bestiary: Strange and Unusual_"
@@ -55,7 +57,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Sizzling Slime"
-    desc: "  Whenever the euphoria ooze takes fire damage, the radius of its euphoric vapors aura increases to 30 feet. It loses its immunity to bludgeoning damage. Everything within the aura, including the euphoria ooze, is Concealed by smoke, and all creatures outside the smoke are concealed to creatures within it. These effects all last for 1 minute."
+    desc: "  Whenever the euphoria ooze takes fire damage, the radius of its euphoric vapors aura increases to 30 feet. It loses its immunity to bludgeoning damage. Everything within the aura, including the euphoria ooze, is [[undefined]] by smoke, and all creatures outside the smoke are concealed to creatures within it. These effects all last for 1 minute."
 
 attacks:
   - name: ""
@@ -64,11 +66,17 @@ attacks:
     desc: "`pf2:1` Pseudopod +14 ()\n__Damage__  2d6 + 5 bludgeoning"
 
   - name: "Euphoric Vapors"
-    desc: " (aura,olfactory,poison) 15 feet. A creature that enters the aura or begins its turn there must succeed a DC 21 Fortitude check save or become Clumsy 1 and Stupefied 1 for 1 minute. On a success, the creature is temporarily immune for 1 minute."
+    desc: " (aura,olfactory,poison) 15 feet. A creature that enters the aura or begins its turn there must succeed a DC 21 Fortitude check save or become [[undefined]] and [[undefined]] for 1 minute. On a success, the creature is temporarily immune for 1 minute."
 
   - name: "Elastic Bounce"
-    desc: "`pf2:1`  **Frequency** Once per round\n**Requirements** The euphoria ooze's last action was a successful pseudopod Strike or a successful Shove, or the euphoria ooze is within 5 feet of a wall\n**Effect** The ooze bounces off either a wall or the creature it hit or pushed. It Strides twice. If it ends its movement within melee reach of at least one enemy, it can make a melee Strike against that enemy."
+    desc: "`pf2:1`  **Frequency** Once per round\n\n**Requirements** The euphoria ooze's last action was a successful pseudopod Strike or a successful [[undefined]], or the euphoria ooze is within 5 feet of a wall\n* * *\n\n**Effect** The ooze bounces off either a wall or the creature it hit or pushed. It Strides twice. If it ends its movement within melee reach of at least one enemy, it can make a melee Strike against that enemy."
  
+```
+
+```encounter-table
+name: Euphoria Ooze
+creatures:
+  - 1: Euphoria Ooze
 ```
 
 

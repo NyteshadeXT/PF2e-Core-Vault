@@ -11,7 +11,7 @@ license: OGL
 ---
 # Cube of Nex
 ## Item 25
-### [unique](unique "Unique Rarity Trait")[[artifact]][[magical]]
+### [unique](unique.md "Unique Rarity Trait")[[artifact]][[3-Rules/Rule References/Magical]]
 
 
 **Price** 0 gp; 

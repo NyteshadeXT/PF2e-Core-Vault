@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/humanoid
   - pf2e/creature/type/xulgath
+  - pf2eMonster
   - pf2e/creature/level/5
 statblock: inline
 name: "Xulgath Demon-Caller"
@@ -23,13 +24,13 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #152: Legacy of the Lost God"
 name: "Xulgath Demon-Caller"
 level: "Creature 5"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Medium"
-trait_01: "chaotic"
-trait_02: "evil"
-trait_03: "humanoid"
-trait_04: "xulgath"
+trait_01: [[chaotic]]
+trait_02: [[evil]]
+trait_03: [[humanoid]]
+trait_04: [[xulgath]]
 modifier: 11
 perception:
   - name: "Perception"
@@ -57,7 +58,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Stench"
-    desc: " (aura,olfactory) 30 feet. A creature entering the aura must attempt a DC 22 Fortitude check save. On a failure, the creature is [[Conditions/Sickened 1|Sickened 1]], and on a critical failure, the creature also takes a -5-foot status penalty to its Speeds for 1 round. While within the aura, the creature takes a -2 circumstance penalty to saves to recover from the sickened condition. A creature that succeeds at its save is temporarily immune to all xulgaths' stench for 1 minute.\n[[Bestiary Effects/Effect_ Xulgath Stench|Effect: Xulgath Stench]]"
+    desc: " (aura,olfactory) 30 feet. A creature entering the aura must attempt a DC 22 Fortitude check save. On a failure, the creature is [[Conditions/Sickened|Sickened 1]], and on a critical failure, the creature also takes a -5-foot status penalty to its Speeds for 1 round. While within the aura, the creature takes a -2 circumstance penalty to saves to recover from the sickened condition. A creature that succeeds at its save is temporarily immune to all xulgaths' stench for 1 minute.\n\n[[Bestiary Effects/Effect_ Xulgath Stench|Effect: Xulgath Stench]]"
 
 attacks:
   - name: ""
@@ -81,8 +82,14 @@ attacks:
     desc: "1 Focus Point, DC 24, attack +14; __3rd __ (1 slots) _[[Spells/Athletic Rush|Athletic Rush]]_"
 
   - name: "Demonic Condemnation"
-    desc: "  The target must succeed at a DC 22 Fortitude check save or become [[Conditions/Frightened 1|Frightened 2]] ([[Conditions/Frightened 1|Frightened 4]] on a critical failure). The target is [[Conditions/Enfeebled 1|Enfeebled 1]] for as long as it is frightened."
+    desc: "  The target must succeed at a DC 22 Fortitude check save or become [[Conditions/Frightened|Frightened 2]] ([[Conditions/Frightened|Frightened 4]] on a critical failure). The target is [[Conditions/Enfeebled|Enfeebled 1]] for as long as it is frightened."
  
+```
+
+```encounter-table
+name: Xulgath Demon-Caller
+creatures:
+  - 1: Xulgath Demon-Caller
 ```
 
 

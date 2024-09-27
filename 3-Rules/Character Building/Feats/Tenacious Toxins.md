@@ -6,8 +6,9 @@ tags:
   - trait/alchemist
   - trait/common
   - category/class
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.FdP21jbjHHGpHut1"
-license: OGL
+license: ORC
 ---
 # Tenacious Toxins
 ## Feat 4
@@ -20,5 +21,5 @@ license: OGL
 
 Your victims tend to expire long before your poisons, since the latter have been specifically formulated to last longer. The maximum duration of any poison you create increases by an amount equal to the poison's stage 1 interval, to a maximum of twice the poison's maximum duration.
 
-*Source: Pathfinder Advanced Player's Guide*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

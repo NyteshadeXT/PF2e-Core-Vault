@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/chaotic
   - pf2e/creature/type/evil
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/19
 statblock: inline
 name: "Laruhao"
@@ -22,12 +23,12 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #168: King of the Mountain"
 name: "Laruhao"
 level: "Creature 19"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Medium"
-trait_01: "chaotic"
-trait_02: "evil"
-trait_03: "humanoid"
+trait_01: [[chaotic]]
+trait_02: [[evil]]
+trait_03: [[humanoid]]
 modifier: 35
 perception:
   - name: "Perception"
@@ -35,7 +36,7 @@ perception:
 languages: "Senzar, Tien"
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +35, Athletics: +31, Dancing Lore: +38, Deception: +37, Occultism: +34, Performance: +39"
+    desc: "Acrobatics: +35, Athletics: +31, Deception: +37, Occultism: +34, Performance: +39, Dancing Lore: +38"
 abilityMods: [6, 8, 7, 7, 7, 9]
 speed: 25 feet
 sourcebook: "_Pathfinder #168: King of the Mountain_"
@@ -75,6 +76,12 @@ attacks:
   - name: "Dance, Puppets, Dance!"
     desc: "`pf2:2` (auditory,linguistic) Laruhao plays an invigorating melody that signals his horde to attack. The dancing night parade can use either Seiya! Soiya! or the two-action version of Wasshoi! Wasshoi! as a reaction."
  
+```
+
+```encounter-table
+name: Laruhao
+creatures:
+  - 1: Laruhao
 ```
 
 

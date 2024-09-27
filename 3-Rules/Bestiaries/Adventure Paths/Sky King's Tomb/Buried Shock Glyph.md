@@ -6,6 +6,7 @@ tags:
   - electricity
   - magical
   - trap
+  - pf2eHazard
 
 source: Pathfinder #193: Mantle of Gold
 aliases: "Compendium.pf2e.sky-kings-tomb-bestiary.Actor.yGlzyyqtMfngIBON" 
@@ -23,15 +24,15 @@ name: "Buried Shock Glyph"
 level: "Hazard 3"
 
 
-trait_01: "electricity"
-trait_02: "magical"
-trait_03: "trap"
+trait_01: [[electricity]]
+trait_02: [[magical]]
+trait_03: [[trap]]
 modifier: 10
 sourcebook: "_Pathfinder #193: Mantle of Gold_"
 ac: 17
 armorclass:
   - name: AC
-    desc: "17; __Fort__ +10, __Ref__ +3, __Will__ +0"
+    desc: "17; __Fort__ +10, __Ref__ +3, "
 hp: 32
 health:
   - name: ""
@@ -53,9 +54,15 @@ attacks:
   - name: ""
 
   - name: "Electrocution"
-    desc: "`pf2:r` (arcane, electricity, fire) **Trigger** A creature jostles or views the glyph\n**Effect** An electric discharge shocks the triggering creature and all creatures within 10 feet, dealing 3d8 electricity damage to anyone in the area (DC 20 Reflex check save)."
+    desc: "`pf2:r` (arcane, electricity, fire) **Trigger** A creature jostles or views the glyph\n* * *\n\n**Effect** An electric discharge shocks the triggering creature and all creatures within 10 feet, dealing 3d8 electricity damage to anyone in the area (DC 20 Reflex check save)."
 
 
 
+```
+
+```encounter-table
+name: Buried Shock Glyph
+creatures:
+  - 1: Buried Shock Glyph
 ```
 

@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/amphibious
   - pf2e/creature/type/hag
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/3
   - remaster
 statblock: inline
@@ -27,9 +28,9 @@ level: "Creature 3"
 
 alignment: ""
 size: "Medium"
-trait_01: "amphibious"
-trait_02: "hag"
-trait_03: "humanoid"
+trait_01: [[amphibious]]
+trait_02: [[hag]]
+trait_03: [[humanoid]]
 modifier: 10
 perception:
   - name: "Perception"
@@ -57,7 +58,7 @@ abilities_top:
     desc: " (mental,occult) A sea hag adds [[Spells/Humanoid Form|Humanoid Form]], [[Spells/Mariner's Curse|Mariner's Curse]], and [[Spells/Water Walk|Water Walk]] to their coven's spells. Their spell DC when leading a coven is 20.\n\n* * *\n"
 
   - name: "Sea Hag's Bargain"
-    desc: " (concentrate,exploration,occult,polymorph) The sea hag can make a bargain with a willing creature who must be of sound mind. The creature gives away a special or cherished quality—such as its courage, its beauty, or its voice. In exchange, the sea hag spends 1 minute polymorphing the creature into a form the target desires.\n\nThis functions as [[Bestiary Ability Glossary/Change Shape|Change Shape]]. It might be a total transformation or just changing one or more aspects of the target's body, and it can't make the creature more than one size smaller or larger. The creature changes its Speeds as appropriate for the new form. It doesn't change the attack and damage bonuses with its Strikes, but it might change the damage type the Strikes deal. This has an unlimited duration, and as long as it's transformed, the creature is [[Conditions/Sickened 1|Sickened 2]] and can't reduce its sickened condition below 2. The creature can slowly and carefully eat and drink despite being sickened. The only way to restore the lost quality used as payment is to defeat the sea hag or make another bargain for its return. Ending the bargain in this way also removes the transformation."
+    desc: " (concentrate,exploration,occult,polymorph) The sea hag can make a bargain with a willing creature who must be of sound mind. The creature gives away a special or cherished quality—such as its courage, its beauty, or its voice. In exchange, the sea hag spends 1 minute polymorphing the creature into a form the target desires.\n\nThis functions as [[Bestiary Ability Glossary/Change Shape|Change Shape]]. It might be a total transformation or just changing one or more aspects of the target's body, and it can't make the creature more than one size smaller or larger. The creature changes its Speeds as appropriate for the new form. It doesn't change the attack and damage bonuses with its Strikes, but it might change the damage type the Strikes deal. This has an unlimited duration, and as long as it's transformed, the creature is [[Conditions/Sickened|Sickened 2]] and can't reduce its sickened condition below 2. The creature can slowly and carefully eat and drink despite being sickened. The only way to restore the lost quality used as payment is to defeat the sea hag or make another bargain for its return. Ending the bargain in this way also removes the transformation."
 
 abilities_mid:
   - name: ""
@@ -74,8 +75,14 @@ attacks:
     desc: "_[[Spells/Control Weather|Control Weather]]_"
 
   - name: "Dread Gaze"
-    desc: "`pf2:2` (curse,emotion,fear,mental,occult) The hag gazes upon a creature, afflicting it with a gnawing sense of impending doom, with a result depending on its DC 20 Will check save. The target doesn't need to be able to see the sea hag.\n* * *\n\n**Critical Success** The creature is unaffected.\n\n**Success** The creature is [[Conditions/Frightened 1|Frightened 1]].\n\n**Failure** The creature is frightened 1 and is [[Conditions/Slowed 1|Slowed 1]] for 1 round. If the target was dying, it remains [[Conditions/Unconscious|Unconscious]] for 1 day. At the end of the day, it must attempt a DC 20 Fortitude check save; if it fails, it dies.\n\n**Critical Failure** As failure, but the creature is [[Conditions/Frightened 1|Frightened 2]] and slowed 1 for 1 minute."
+    desc: "`pf2:2` (curse,emotion,fear,mental,occult) The hag gazes upon a creature, afflicting it with a gnawing sense of impending doom, with a result depending on its DC 20 Will check save. The target doesn't need to be able to see the sea hag.\n* * *\n\n**Critical Success** The creature is unaffected.\n\n**Success** The creature is [[Conditions/Frightened|Frightened 1]].\n\n**Failure** The creature is frightened 1 and is [[Conditions/Slowed|Slowed 1]] for 1 round. If the target was dying, it remains [[Conditions/Unconscious|Unconscious]] for 1 day. At the end of the day, it must attempt a DC 20 Fortitude check save; if it fails, it dies.\n\n**Critical Failure** As failure, but the creature is [[Conditions/Frightened|Frightened 2]] and slowed 1 for 1 minute."
  
+```
+
+```encounter-table
+name: Sea Hag
+creatures:
+  - 1: Sea Hag
 ```
 
 

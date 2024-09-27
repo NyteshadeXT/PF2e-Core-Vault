@@ -5,6 +5,7 @@ noteType: pf2eHazard
 tags:
   - mechanical
   - trap
+  - pf2eHazard
 
 source: Pathfinder Kingmaker
 aliases: "Compendium.pf2e.kingmaker-bestiary.Actor.2deePNLiJcnSZQhd" 
@@ -22,8 +23,8 @@ name: "Test of Strength"
 level: "Hazard 13"
 
 
-trait_01: "mechanical"
-trait_02: "trap"
+trait_01: [[mechanical]]
+trait_02: [[trap]]
 modifier: 27
 sourcebook: "_Pathfinder Kingmaker_"
 perception:
@@ -42,13 +43,19 @@ attacks:
   - name: ""
 
   - name: "Open Doors"
-    desc: "`pf2:r` **Trigger** All four boulders are placed within six minutes;\n**Effect** the doors to area **D4** open."
+    desc: "`pf2:r` **Trigger** All four boulders are placed within six minutes;\n\n**Effect** the doors to area **D4** open."
 
   - name: "Release Boulders"
-    desc: "`pf2:r` **Trigger** All four boulders are not placed within six minutes\n**Effect** All four steps angle downward, causing any boulders held within to roll toward area **D1**. Each rolling boulder inflicts 3d6 + 6 bludgeoning damage on all creatures in area **D2**(DC 37 Reflex check)."
+    desc: "`pf2:r` **Trigger** All four boulders are not placed within six minutes\n\n**Effect** All four steps angle downward, causing any boulders held within to roll toward area **D1**. Each rolling boulder inflicts 3d6 + 6 bludgeoning damage on all creatures in area **D2**(DC 37 Reflex check)."
 
 
   - name: "Reset"
     desc: "The trap Releases Boulders 24 hours after it Opens Doors. Once the trap Releases Boulders, it resets itself automatically."
+```
+
+```encounter-table
+name: Test of Strength
+creatures:
+  - 1: Test of Strength
 ```
 

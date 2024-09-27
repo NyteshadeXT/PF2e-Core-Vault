@@ -6,6 +6,7 @@ cssClasses: pf2e
 aliases: "Compendium.pf2e.strength-of-thousands-bestiary.Actor.pJiD1DAiCFdVvnys" 
 tags:
   - pf2e/creature/type/animal
+  - pf2eMonster
   - pf2e/creature/level/0
 statblock: inline
 name: "Giant Worker Bee"
@@ -23,11 +24,12 @@ level: "Creature 0"
 
 alignment: ""
 size: "Medium"
-trait_01: "animal"
+trait_01: [[animal]]
 modifier: 5
 perception:
   - name: "Perception"
     desc: "+5; Darkvision"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Acrobatics: +6, Athletics: +5"
@@ -47,7 +49,7 @@ abilities_top:
   - name: ""
 
   - name: "Smoke Susceptibility"
-    desc: "  A giant bee is [[Conditions/Slowed 1|Slowed 1]] for 1 round if it starts its turn in heavy smoke."
+    desc: "  A giant bee is [[Conditions/Slowed|Slowed 1]] for 1 round if it starts its turn in heavy smoke."
 
 abilities_mid:
   - name: ""
@@ -60,6 +62,12 @@ attacks:
   - name: "Melee"
     desc: "`pf2:1` Mandibles +8 (agile, finesse)\n__Damage__  1d4 + 2 piercing"
  
+```
+
+```encounter-table
+name: Giant Worker Bee
+creatures:
+  - 1: Giant Worker Bee
 ```
 
 

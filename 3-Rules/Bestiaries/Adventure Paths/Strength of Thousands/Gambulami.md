@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.strength-of-thousands-bestiary.Actor.XqifZ5APrSc8PqhP"
 tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/fey
+  - pf2eMonster
   - pf2e/creature/level/11
 statblock: inline
 name: "Gambulami"
@@ -21,11 +22,11 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #172: Secrets of the Temple-City"
 name: "Gambulami"
 level: "Creature 11"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Small"
-trait_01: "evil"
-trait_02: "fey"
+trait_01: [[evil]]
+trait_02: [[fey]]
 modifier: 21
 perception:
   - name: "Perception"
@@ -77,11 +78,17 @@ attacks:
     desc: "`pf2:2` (polymorph,primal) Gambulami is affected by a 4th-rank [[Spells/Enlarge|Enlarge]] spell. This lasts for 1 minute, and Gambulami can Dismiss the Spell."
 
   - name: "Thrashing Chomp"
-    desc: "`pf2:2`  **Requirements** Gambulami is larger than Small in size and has a creature [[Conditions/Grabbed|Grabbed]] with his jaws\n**Effect** Gambulami whips the creature around, smashing it against other nearby creatures. He makes an Athletics check check against the grabbed creature's Fortitude DC. Regardless of the result, the creature is released from Gambulami's jaws afterward, escaping into the space in which it was grabbed.\n**Critical Success** Gambulami uses a mighty spin to smash the held creature against every creature within his reach. Every creature, including the grabbed creature, takes 1d10 + 7 bludgeoning damage.\n**Success** As critical success, but creatures take 1d10 bludgeoning damage.\n**Failure** The creature breaks free.\n**Critical Failure** The creature breaks free and Gambulami's spin causes him to fall [[Conditions/Prone|Prone]]."
+    desc: "`pf2:2`  **Requirements** Gambulami is larger than Small in size and has a creature [[Conditions/Grabbed|Grabbed]] with his jaws\n* * *\n\n**Effect** Gambulami whips the creature around, smashing it against other nearby creatures. He makes an Athletics check check against the grabbed creature's Fortitude DC. Regardless of the result, the creature is released from Gambulami's jaws afterward, escaping into the space in which it was grabbed.\n* * *\n\n**Critical Success** Gambulami uses a mighty spin to smash the held creature against every creature within his reach. Every creature, including the grabbed creature, takes 1d10+7 bludgeoning damage.\n\n**Success** As critical success, but creatures take 1d10 bludgeoning damage.\n\n**Failure** The creature breaks free.\n\n**Critical Failure** The creature breaks free and Gambulami's spin causes him to fall [[Conditions/Prone|Prone]]."
 
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
     desc: "`pf2:1`  "
  
+```
+
+```encounter-table
+name: Gambulami
+creatures:
+  - 1: Gambulami
 ```
 
 

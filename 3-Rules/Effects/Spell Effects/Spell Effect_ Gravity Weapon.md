@@ -17,7 +17,7 @@ license: ORC
 
 
 
-Granted by [[Spells/Gravity Weapon|Gravity Weapon]] .
+Granted by [[Spells/Gravity Weapon|Gravity Weapon]].
 
 *Source: Pathfinder Player Core*
 *ORC*

@@ -5,6 +5,7 @@ noteType: pf2eHazard
 tags:
   - environmental
   - fungus
+  - pf2eHazard
 
 source: Pathfinder Core Rulebook
 aliases: "Compendium.pf2e.hazards.Actor.A93flWUsot3FmC7t" 
@@ -22,14 +23,14 @@ name: "Yellow Mold"
 level: "Hazard 8"
 
 
-trait_01: "environmental"
-trait_02: "fungus"
+trait_01: [[environmental]]
+trait_02: [[fungus]]
 modifier: 18
 sourcebook: "_Pathfinder Core Rulebook_"
 ac: 27
 armorclass:
   - name: AC
-    desc: "27; __Fort__ +17, __Ref__ +13, __Will__ +0"
+    desc: "27; __Fort__ +17, __Ref__ +13, "
 hp: 70
 health:
   - name: ""
@@ -51,12 +52,18 @@ attacks:
   - name: ""
 
   - name: "Spore Explosion"
-    desc: "`pf2:r` **Trigger** A creature moves into the mold's space or damages the mold. The mold can't use this reaction if it's in direct sunlight or if the damage was fire damage.\n**Effect** The triggering creature and all creatures within 10 feet are exposed to yellow mold spores."
+    desc: "`pf2:r` **Trigger** A creature moves into the mold's space or damages the mold. The mold can't use this reaction if it's in direct sunlight or if the damage was fire damage.\n* * *\n\n**Effect** The triggering creature and all creatures within 10 feet are exposed to yellow mold spores."
 
   - name: "Yellow Mold Spores"
-    desc: "passive (inhaled, poison) Any drained condition from the spores persists after the poison's duration ends.\n**Saving Throw** DC 26 Fortitude check\n**Maximum Duration** 6 rounds\n**Stage 1** 1d8 poison damage and [[Conditions/Drained 1|Drained 1]] (1 round)\n**Stage 2** 2d8 poison damage and [[Conditions/Drained 1|Drained 2]] (1 round)\n**Stage 3** 3d8 poison damage and [[Conditions/Drained 1|Drained 3]] (1 round)"
+    desc: "passive (inhaled, poison) Any drained condition from the spores persists after the poison's duration ends.\n\n**Saving Throw** DC 26 Fortitude check\n* * *\n\n**Maximum Duration** 6 rounds\n\n**Stage 1** 1d8 poison damage and [[Conditions/Drained|Drained 1]] (1 round)\n\n**Stage 2** 2d8 poison damage and [[Conditions/Drained|Drained 2]] (1 round)\n\n**Stage 3** 3d8 poison damage and [[Conditions/Drained|Drained 3]] (1 round)"
 
 
 
+```
+
+```encounter-table
+name: Yellow Mold
+creatures:
+  - 1: Yellow Mold
 ```
 

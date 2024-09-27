@@ -6,6 +6,7 @@ cssClasses: pf2e
 aliases: "Compendium.pf2e.quest-for-the-frozen-flame-bestiary.Actor.jNv046Jhoq4yEMey" 
 tags:
   - pf2e/creature/type/animal
+  - pf2eMonster
   - pf2e/creature/level/3
 statblock: inline
 name: "Lagofir"
@@ -20,17 +21,18 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #176: Lost Mammoth Valley"
 name: "Lagofir"
 level: "Creature 3"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Large"
-trait_01: "animal"
+trait_01: [[animal]]
 modifier: 11
 perception:
   - name: "Perception"
     desc: "+11; Low-Light Vision, Scent (Imprecise) 30 Feet"
+languages: ""
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +10, Athletics: +8 (+10 to Swim), Stealth: +9, Survival: +7"
+    desc: "Acrobatics: +10, Athletics: +8, Stealth: +9, Survival: +7"
 abilityMods: [3, 4, 3, -4, 2, 1]
 speed: 30 feet,  swim 30 feet
 sourcebook: "_Pathfinder #176: Lost Mammoth Valley_"
@@ -70,11 +72,17 @@ attacks:
     desc: "  Lagofirs excrete a warm, flammable oil. Any creature that Grapples a lagofir or is [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]] by a lagofir becomes coated in lagofir oil for 10 minutes or until the oil is washed off, which takes 1 minute of vigorous scrubbing. Any time a lagofir or a creature coated in lagofir oil is dealt fire damage, it catches flame, taking 1d6 persistent fire damage."
 
   - name: "Gnaw"
-    desc: "`pf2:1`  **Requirements** The lagofir's last action was a successful jaws Strike\n**Effect** The lagofir gnaws on the target, driving its teeth deeper into its prey. The target takes 1d8 + 3 piercing damage."
+    desc: "`pf2:1`  **Requirements** The lagofir's last action was a successful jaws Strike\n* * *\n\n**Effect** The lagofir gnaws on the target, driving its teeth deeper into its prey. The target takes 1d8+3 piercing damage."
 
   - name: "Nimble Rush"
     desc: "`pf2:2`  The lagofir attacks while darting around its foes. The lagofir Strides twice and Strikes at any point during its movement. It can substitute a Swim action in place of any Stride."
  
+```
+
+```encounter-table
+name: Lagofir
+creatures:
+  - 1: Lagofir
 ```
 
 

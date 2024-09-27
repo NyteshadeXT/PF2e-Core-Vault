@@ -7,8 +7,9 @@ tags:
   - trait/skill
   - trait/common
   - category/skill
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.e6s2nIvlTycuzlR9"
-license: OGL
+license: ORC
 ---
 # Fabricated Connections
 ## Feat 7
@@ -26,5 +27,5 @@ You can roll Deception in place of a different skill when attempting to [[Action
 
 You can use Fabricated Connections to Make an Impression or Request once per day, and you can also use it once per week to Earn Income or Subsist.
 
-*Source: Pathfinder Advanced Player's Guide*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

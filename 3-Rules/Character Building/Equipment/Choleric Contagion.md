@@ -5,6 +5,7 @@ cssclasses: pf2e,pf2e-spell
 tags:
   - trait/alchemical
   - trait/consumable
+  - trait/injury
   - trait/poison
   - trait/common
   - category/poison
@@ -13,7 +14,7 @@ license: OGL
 ---
 # Choleric Contagion
 ## Item 18
-### [[alchemical]][[consumable]][[3-Rules/Rule References/Poison]]
+### [[alchemical]][[consumable]][[injury]][[3-Rules/Rule References/Poison]]
 
 **Category** poison; 
 **Price** 4200 gp; 

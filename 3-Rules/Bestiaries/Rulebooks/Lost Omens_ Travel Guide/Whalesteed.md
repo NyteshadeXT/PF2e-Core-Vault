@@ -6,6 +6,7 @@ cssClasses: pf2e
 aliases: "Compendium.pf2e.lost-omens-travel-guide-bestiary.Actor.MQBH5svYUyhd3RsK" 
 tags:
   - pf2e/creature/type/animal
+  - pf2eMonster
   - pf2e/creature/level/0
 statblock: inline
 name: "Whalesteed"
@@ -23,11 +24,12 @@ level: "Creature 0"
 
 alignment: ""
 size: "Large"
-trait_01: "animal"
+trait_01: [[animal]]
 modifier: 7
 perception:
   - name: "Perception"
     desc: "+7; Echolocation 120 Feet, Low-Light Vision"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Athletics: +6"
@@ -64,8 +66,14 @@ attacks:
     desc: "`pf2:1` Jaws +6 ()\n__Damage__  1d6 + 2 piercing"
 
   - name: "Ramming Speed"
-    desc: "`pf2:2`  The whalesteed [[Actions/Swim|Swims]] twice and then makes a snout Strike. As long as it moved at least 20 feet, it gains a +1 circumstance bonus to its attack roll. A Large or smaller creature hit by this attack must succeed at a DC 16 Fortitude check save or be [[Conditions/Slowed 1|Slowed 1]] for 1 round."
+    desc: "`pf2:2`  The whalesteed [[Actions/Swim|Swims]] twice and then makes a snout Strike. As long as it moved at least 20 feet, it gains a +1 circumstance bonus to its attack roll. A Large or smaller creature hit by this attack must succeed at a DC 16 Fortitude check save or be [[Conditions/Slowed|Slowed 1]] for 1 round."
  
+```
+
+```encounter-table
+name: Whalesteed
+creatures:
+  - 1: Whalesteed
 ```
 
 

@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/human
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/3
 statblock: inline
 name: "Corrupted Priest"
@@ -22,12 +23,12 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #151: The Show Must Go On"
 name: "Corrupted Priest"
 level: "Creature 3"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Medium"
-trait_01: "evil"
-trait_02: "human"
-trait_03: "humanoid"
+trait_01: [[evil]]
+trait_02: [[human]]
+trait_03: [[humanoid]]
 modifier: 11
 perception:
   - name: "Perception"
@@ -35,7 +36,7 @@ perception:
 languages: "Common"
 skills:
   - name: "Skills"
-    desc: "Diplomacy: +7, Gozreh Lore: +8, Nature: +9, Religion: +9, Survival: +9"
+    desc: "Diplomacy: +7, Nature: +9, Religion: +9, Survival: +9, Gozreh Lore: +8"
 abilityMods: [1, 0, 1, 1, 4, 2]
 speed: 25 feet
 sourcebook: "_Pathfinder #151: The Show Must Go On_"
@@ -58,12 +59,12 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Roiling Mind"
-    desc: "`pf2:r`  **Trigger** The corrupted priest is targeted by an effect with the mental trait or that requires a Will save\n**Effect** The hermit's mind is a storm of chaos due to demonic influences. The creator of the triggering effect takes 3d8 mental damage (DC 20 Will check save)."
+    desc: "`pf2:r`  **Trigger** The corrupted priest is targeted by an effect with the mental trait or that requires a Will save\n* * *\n\n**Effect** The hermit's mind is a storm of chaos due to demonic influences. The creator of the triggering effect takes 3d8 mental damage (DC 20 Will check save)."
 
 attacks:
   - name: ""
 
-  - name: "Melee"
+  - name: "Ranged"
     desc: "`pf2:1` Trident +10 (thrown 20 ft., fatal d10)\n__Damage__  1d8 + 1 piercing"
 
   - name: "Primal Prepared Spells"
@@ -72,6 +73,12 @@ attacks:
   - name: "Demonic Strength"
     desc: "  Corrupted priests deal an extra 1d8 damage with their tridents, and any trident gains the fatal d10 trait while the priest is using it (both the extra weapon damage die and the fatal trait have already been included above)."
  
+```
+
+```encounter-table
+name: Corrupted Priest
+creatures:
+  - 1: Corrupted Priest
 ```
 
 

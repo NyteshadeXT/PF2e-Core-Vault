@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/chaotic
   - pf2e/creature/type/evil
   - pf2e/creature/type/fey
+  - pf2eMonster
   - pf2e/creature/level/6
 statblock: inline
 name: "Baobhan Sith"
@@ -23,12 +24,12 @@ token: [[modules/pf2e-tokens-bestiaries/portraits/fey/baobhan-sith.webp| ]]
 source: "Pathfinder Bestiary 2"
 name: "Baobhan Sith"
 level: "Creature 6"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Medium"
-trait_01: "chaotic"
-trait_02: "evil"
-trait_03: "fey"
+trait_01: [[chaotic]]
+trait_02: [[evil]]
+trait_03: [[fey]]
 modifier: 12
 perception:
   - name: "Perception"
@@ -36,7 +37,7 @@ perception:
 languages: "Aklo, Common, Fey"
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +15, Deception: +15, Nature: +12, Performance: +15 (+17 when dancing), Stealth: +15"
+    desc: "Acrobatics: +15, Deception: +15, Nature: +12, Performance: +15, Stealth: +15"
 abilityMods: [3, 5, 2, 2, 2, 5]
 speed: 25 feet
 sourcebook: "_Pathfinder Bestiary 2_"
@@ -64,14 +65,20 @@ attacks:
     desc: "DC 24, attack +14; __3rd __  _[[Spells/Mind Reading|Mind Reading (At will)]]_"
 
   - name: "Captivating Dance"
-    desc: "`pf2:2` (incapacitation,mental,primal,visual) The baobhan sith sways rhythmically and Strides up to their Speed. Each creature within 30 feet of the baobhan sith at the end of their movement must attempt a DC 25 Will check save.\n**Critical Success** The creature is unaffected and is temporarily immune to Captivating Dance for 24 hours.\n**Success** The creature is [[Conditions/Slowed 1|Slowed 1]] for 1 round and is temporarily immune to Captivating Dance for 24 hours.\n**Failure** The creature is [[Conditions/Fascinated|Fascinated]], and it must spend at least 1 of its actions on each of its turns to move closer to the baobhan sith as expediently as possible, while avoiding obvious dangers. If the creature ends its movement or turn adjacent to the fey, it is [[Conditions/Slowed 1|Slowed 1]] until the end of its next turn.\n**Critical Failure** As failure, but the creature must spend each of its actions moving closer to the baobhan sith, and if it ends its movement or turn adjacent to the fey, it is [[Conditions/Paralyzed|Paralyzed]] until the end of its next turn."
+    desc: "`pf2:2` (incapacitation,mental,primal,visual) The baobhan sith sways rhythmically and Strides up to their Speed. Each creature within 30 feet of the baobhan sith at the end of their movement must attempt a DC 25 Will check save.\n* * *\n\n**Critical Success** The creature is unaffected and is temporarily immune to Captivating Dance for 24 hours.\n\n**Success** The creature is [[Conditions/Slowed|Slowed 1]] for 1 round and is temporarily immune to Captivating Dance for 24 hours.\n\n**Failure** The creature is [[Conditions/Fascinated|Fascinated]], and it must spend at least 1 of its actions on each of its turns to move closer to the baobhan sith as expediently as possible, while avoiding obvious dangers. If the creature ends its movement or turn adjacent to the fey, it is [[Conditions/Slowed|Slowed 1]] until the end of its next turn.\n\n**Critical Failure** As failure, but the creature must spend each of its actions moving closer to the baobhan sith, and if it ends its movement or turn adjacent to the fey, it is [[Conditions/Paralyzed|Paralyzed]] until the end of its next turn."
 
   - name: "[[Bestiary Ability Glossary/Change Shape|Change Shape]]"
-    desc: "`pf2:1` (concentrate,polymorph,primal) The baobhan sith can transform into a large raven, with the effects from the bird option in the [[Spells/Aerial Form|Aerial Form]] spell.\n"
+    desc: "`pf2:1` (concentrate,polymorph,primal) The baobhan sith can transform into a large raven, with the effects from the bird option in the [[Spells/Aerial Form|Aerial Form]] spell.\n\n* * *\n"
 
   - name: "Drink Blood"
-    desc: "`pf2:1`  **Requirements** A bleeding creature is within the baobhan sith's reach\n**Effect** The baobhan sith tries to Drink the Blood from the bleeding creature's wounds. The baobhan sith attempts an Athletics check check against the victim's Fortitude DC. On a success, the victim becomes [[Conditions/Drained 1|Drained 1]] and the baobhan sith regains 10 HP, gaining any Hit Points in excess of their maximum Hit Points as temporary Hit Points.\nDrinking Blood from a victim that's already drained doesn't restore any Hit Points to the baobhan sith but increases the victim's drained value by 1. A victim's drained condition decreases by 1 per week. A blood transfusion, which requires 10 minutes, a successful DC 20 Medicine check check, and sufficient blood or a blood donor, reduces the drained value by 1."
+    desc: "`pf2:1`  **Requirements** A bleeding creature is within the baobhan sith's reach\n* * *\n\n**Effect** The baobhan sith tries to Drink the Blood from the bleeding creature's wounds. The baobhan sith attempts an Athletics check check against the victim's Fortitude DC. On a success, the victim becomes [[Conditions/Drained|Drained 1]] and the baobhan sith regains 10 HP, gaining any Hit Points in excess of their maximum Hit Points as temporary Hit Points.\n\nDrinking Blood from a victim that's already drained doesn't restore any Hit Points to the baobhan sith but increases the victim's drained value by 1. A victim's drained condition decreases by 1 per week. A blood transfusion, which requires 10 minutes, a successful DC 20 Medicine check check, and sufficient blood or a blood donor, reduces the drained value by 1."
  
+```
+
+```encounter-table
+name: Baobhan Sith
+creatures:
+  - 1: Baobhan Sith
 ```
 
 

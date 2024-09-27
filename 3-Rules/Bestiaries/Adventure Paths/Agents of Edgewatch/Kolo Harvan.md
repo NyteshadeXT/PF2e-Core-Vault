@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/halfling
   - pf2e/creature/type/humanoid
   - pf2e/creature/type/lawful
+  - pf2eMonster
   - pf2e/creature/level/2
 statblock: inline
 name: "Kolo Harvan"
@@ -23,13 +24,13 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #158: Sixty Feet Under"
 name: "Kolo Harvan"
 level: "Creature 2"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Small"
-trait_01: "evil"
-trait_02: "halfling"
-trait_03: "humanoid"
-trait_04: "lawful"
+trait_01: [[evil]]
+trait_02: [[halfling]]
+trait_03: [[humanoid]]
+trait_04: [[lawful]]
 modifier: 8
 perception:
   - name: "Perception"
@@ -57,7 +58,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Scurry"
-    desc: "`pf2:r`  **Trigger** A creature ends its movement adjacent to Kolo\n**Effect** Kolo Steps."
+    desc: "`pf2:r`  **Trigger** A creature ends its movement adjacent to Kolo\n* * *\n\n**Effect** Kolo Steps."
 
 attacks:
   - name: ""
@@ -71,6 +72,12 @@ attacks:
   - name: "Upward Stab"
     desc: "  Kolo's melee Strikes deal an extra 1d6 precision damage to Medium or larger creatures."
  
+```
+
+```encounter-table
+name: Kolo Harvan
+creatures:
+  - 1: Kolo Harvan
 ```
 
 

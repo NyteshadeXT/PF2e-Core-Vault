@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/aberration
   - pf2e/creature/type/amphibious
   - pf2e/creature/type/chaotic
+  - pf2eMonster
   - pf2e/creature/level/11
 statblock: inline
 name: "Dread Dhuthorex"
@@ -22,12 +23,12 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #165: Eyes of Empty Death"
 name: "Dread Dhuthorex"
 level: "Creature 11"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Large"
-trait_01: "aberration"
-trait_02: "amphibious"
-trait_03: "chaotic"
+trait_01: [[aberration]]
+trait_02: [[amphibious]]
+trait_03: [[chaotic]]
 modifier: 22
 perception:
   - name: "Perception"
@@ -57,7 +58,7 @@ abilities_mid:
     desc: "`pf2:r`  "
 
   - name: "[[Bestiary Ability Glossary/Frightful Presence|Frightful Presence]]"
-    desc: " (aura,emotion,fear,mental) 60 feet. DC 27 Will check\n"
+    desc: " (aura,emotion,fear,mental) 60 feet. DC 27 Will check\n\n* * *\n"
 
 attacks:
   - name: ""
@@ -75,13 +76,13 @@ attacks:
     desc: "DC 27, attack +19; __5th __  _[[Spells/Mariner's Curse|Mariner's Curse]]_; __3rd __  _[[Spells/Hypnotize|Hypnotic Pattern]]_, _[[Spells/Mind Reading|Mind Reading]]_"
 
   - name: "[[Bestiary Ability Glossary/Aquatic Ambush|Aquatic Ambush]]"
-    desc: "`pf2:1`  50 feet\n"
+    desc: "`pf2:1`  50 feet\n\n* * *\n"
 
   - name: "Overpowering Jaws"
     desc: "  A dread dhuthorex deals 8 piercing damage to its target if its jaws Strike is a failure (but not a critical failure)."
 
   - name: "[[Bestiary Ability Glossary/Swallow Whole|Swallow Whole]]"
-    desc: "`pf2:1` (attack) Large, 3d6+8 bludgeoning plus 2d6 acid damage, Rupture 23\n"
+    desc: "`pf2:1` (attack) Large, 3d6+8 bludgeoning plus 2d6 acid damage, Rupture 23\n\n* * *\n"
 
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
     desc: "`pf2:1`  "
@@ -89,6 +90,12 @@ attacks:
   - name: "[[Bestiary Ability Glossary/Push|Push]]"
     desc: "`pf2:1`  "
  
+```
+
+```encounter-table
+name: Dread Dhuthorex
+creatures:
+  - 1: Dread Dhuthorex
 ```
 
 

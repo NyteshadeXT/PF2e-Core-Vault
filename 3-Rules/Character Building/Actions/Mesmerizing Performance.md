@@ -11,7 +11,7 @@ license: OGL
 ---
 # Mesmerizing Performance `pf2:1`
 
-### [[concentrate]][[emotion]]
+### [[3-Rules/Rule References/Concentrate]][[3-Rules/Rule References/Emotion]]
 
 
 

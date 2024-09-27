@@ -10,8 +10,9 @@ tags:
   - trait/mental
   - trait/common
   - category/ancestry
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.gS9FYlD0Vt8yyZkP"
-license: OGL
+license: ORC
 ---
 # Grovel `pf2:1`
 ## Feat 5
@@ -23,9 +24,7 @@ license: OGL
 
 **Prerequisites** trained in Deception
 * * *
-With obsequious words and begging gestures, you convince your foe you're less of a threat.
+You convince your foe you're less of a threat. You attempt to [[Actions/Feint|Feint]] against a creature. Unlike a normal Feint, the creature can be within 30 feet instead of in your melee reach, and you make your check against its Will DC instead of its Perception DC.
 
-You attempt to [[Actions/Feint|Feint]] against a creature. Unlike a normal Feint, the creature can be within 30 feet instead of in your melee reach, and you make your check against its Will DC instead of its Perception DC.
-
-*Source: Pathfinder Advanced Player's Guide*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/incorporeal
   - pf2e/creature/type/spirit
   - pf2e/creature/type/undead
+  - pf2eMonster
   - pf2e/creature/level/2
 statblock: inline
 name: "Wailing Ghost"
@@ -23,13 +24,13 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Society Special #3-98: Expedition Into Pallid Peril"
 name: "Wailing Ghost"
 level: "Creature 2"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Medium"
-trait_01: "ghost"
-trait_02: "incorporeal"
-trait_03: "spirit"
-trait_04: "undead"
+trait_01: [[ghost]]
+trait_02: [[incorporeal]]
+trait_03: [[spirit]]
+trait_04: [[undead]]
 modifier: 8
 perception:
   - name: "Perception"
@@ -37,7 +38,7 @@ perception:
 languages: "Common, Dwarven"
 skills:
   - name: "Skills"
-    desc: "Dwarven Lore: +6, Religion: +8, Stealth: +8"
+    desc: "Religion: +8, Stealth: +8, Dwarven Lore: +6"
 abilityMods: [-5, 2, 0, 0, 2, 2]
 speed:  fly 20 feet
 sourcebook: "_Pathfinder Society Special #3-98: Expedition Into Pallid Peril_"
@@ -54,7 +55,7 @@ abilities_top:
   - name: ""
 
   - name: "[[Creature Family Ability Glossary/(Ghost) Site Bound|Site Bound]]"
-    desc: "  The wailing ghost is bound to the labyrinth and can't stray from its location.\nA typical ghost can stray only a short distance from where it was killed or the place it haunts. A typical limit is 120 feet. Some ghosts are instead bound to a room, building, item, or creature that was special to it rather than a location."
+    desc: "  The wailing ghost is bound to the labyrinth and can't stray from its location.\n* * *\n\nA typical ghost can stray only a short distance from where it was killed or the place it haunts. A typical limit is 120 feet. Some ghosts are instead bound to a room, building, item, or creature that was special to it rather than a location."
 
 abilities_mid:
   - name: ""
@@ -68,8 +69,14 @@ attacks:
     desc: "`pf2:1` Ghostly Hand +10 (agile, finesse, magical)\n__Damage__  1d6 + 3 void"
 
   - name: "Weeping Moan"
-    desc: "`pf2:1` (auditory,divine,emotion,fear,mental) The wailing ghost shakes with a terrible sob, forcing each living creature within 15 feet to attempt a DC 18 Will check save. On a failure, a creature becomes [[Conditions/Frightened 1|Frightened 1]] (or [[Conditions/Frightened 1|Frightened 2]] on a critical failure). On a success, a creature is temporarily immune to this ghost's Weeping Moan for 1 minute."
+    desc: "`pf2:1` (auditory,divine,emotion,fear,mental) The wailing ghost shakes with a terrible sob, forcing each living creature within 15 feet to attempt a DC 18 Will check save. On a failure, a creature becomes [[Conditions/Frightened|Frightened 1]] (or [[Conditions/Frightened|Frightened 2]] on a critical failure). On a success, a creature is temporarily immune to this ghost's Weeping Moan for 1 minute."
  
+```
+
+```encounter-table
+name: Wailing Ghost
+creatures:
+  - 1: Wailing Ghost
 ```
 
 

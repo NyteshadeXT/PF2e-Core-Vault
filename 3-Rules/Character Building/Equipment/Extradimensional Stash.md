@@ -10,7 +10,7 @@ license: OGL
 ---
 # Extradimensional Stash
 ## Item 20
-### [uncommon](uncommon "Uncommon Rarity Trait")[[extradimensional]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[extradimensional]]
 
 
 **Price** 0 gp; 

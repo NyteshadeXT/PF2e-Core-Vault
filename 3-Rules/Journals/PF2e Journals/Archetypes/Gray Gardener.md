@@ -68,7 +68,7 @@ If you use Sense Motive on a creature you have currently condemned with Harsh Ju
 
 * * *
 
-Your willingness to follow through on your pitiless judgment is frightful to the person you have condemned, and they begin to dread what you will do to them next. Your condemned foe is [[Conditions/Frightened 1|Frightened 1]], or [[Conditions/Frightened 1|Frightened 2]] if the triggering Strike was a critical hit.
+Your willingness to follow through on your pitiless judgment is frightful to the person you have condemned, and they begin to dread what you will do to them next. Your condemned foe is [[Conditions/Frightened|Frightened 1]], or [[Conditions/Frightened|Frightened 2]] if the triggering Strike was a critical hit.
 
 ## [[Feats/Accurate Swing|Accurate Swing]] Feat 8
 

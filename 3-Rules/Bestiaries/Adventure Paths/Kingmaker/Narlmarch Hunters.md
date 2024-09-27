@@ -1,15 +1,16 @@
 ---
-title: "Narlmarch Hunters"
+title: Narlmarch Hunters
 obsidianUIMode: preview
-noteType: pf2eMonster
+noteType: pf2eArmy
 cssClasses: pf2e
-aliases: "Compendium.pf2e.kingmaker-bestiary.Actor.EM8SeGIwho2W1EMX" 
 tags:
-  - pf2e/creature/level/6
-statblock: inline
-name: "Narlmarch Hunters"
+  - pf2eArmy
+
+source: 
+aliases: "Compendium.pf2e.kingmaker-bestiary.Actor.EM8SeGIwho2W1EMX" 
 level: 6
 license: 
+statblock: inline
 ---
 
 ```statblock
@@ -18,39 +19,54 @@ forcecolumns: true
 layout: Basic Pathfinder 2e Layout
 source: ""
 name: "Narlmarch Hunters"
-level: "Creature 6"
+level: "Army 6"
+
 
 alignment: ""
 size: "Medium"
-modifier: 
+trait_01: skirmisher
+modifier: 14
 perception:
-  - name: "Perception"
-    desc: "NaN; "
-skills:
-  - name: "Skills"
-    desc: ""
-abilityMods: [, , , , , ]
-speed: 
-sourcebook: "__"
-ac: 
+  - name: ""
+  - name: "Scouting"
+    desc: "+14"
+  - name: "Recruitment DC"
+    desc: "; __Consumption__ 1"
+  - name: "Description"
+    desc: "This army is a band of hunters and trappers who have gathered into a ragtag group of archers led by Mayor Loy Rezbin."
+ac: 24
 armorclass:
   - name: AC
-    desc: "; __Fort__ NaN, __Ref__ NaN, __Will__ NaN"
+    desc: "24; __Maneuver__ +17, __Morale__ +11"
 hp: 4
 health:
   - name: ""
-  - name: HP
-    desc: "4"
+  - name: "HP"
+    desc: "4 (RT 2))"
 abilities_top:
   - name: ""
 
 abilities_mid:
   - name: ""
+  - name: "Melee"
+    desc: "Hatchets and shortswords +18"
+  - name: "Ranged"
+    desc: "Longbows +18"
+
 attacks:
   - name: ""
+
+  - name: "Increased Ammunition"
+    desc: "You increase the number of times your army can use ranged Strikes in each war encounter by 2. This tactic can be taken multiple times; each time you do so, increase the army's maximum number of ranged Strikes by 2."
+
+  - name: "Sharpshooter"
+    desc: "The commander drills the army in precision ranged attacks. You gain a +1 status bonus on attacks with ranged Strikes, but suffer a –2 status bonus on attacks with melee Strikes. At 9th level, the penalty to melee Strikes is reduced to –1, and at 15th level the penalty to melee Strikes is removed.\n\nThe army can use the [[Kingmaker Features/Covering Fire|Covering Fire]] tactical war action."
  
 ```
 
-
-
+```encounter-table
+name: Narlmarch Hunters
+creatures:
+  - 1: Narlmarch Hunters
+```
 

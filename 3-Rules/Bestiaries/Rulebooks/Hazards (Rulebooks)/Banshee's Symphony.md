@@ -4,6 +4,7 @@ obsidianUIMode: preview
 noteType: pf2eHazard
 tags:
   - magical
+  - pf2eHazard
   - complex
 source: Pathfinder Core Rulebook
 aliases: "Compendium.pf2e.hazards.Actor.mMXHyWdmmAN0GPvG" 
@@ -21,13 +22,13 @@ name: "Banshee's Symphony"
 level: "Hazard 18"
 
 trait_06: "Complex"
-trait_01: "magical"
+trait_01: [[magical]]
 modifier: 30
 sourcebook: "_Pathfinder Core Rulebook_"
 ac: 10
 armorclass:
   - name: AC
-    desc: "10; __Fort__ +0, __Ref__ +0, __Will__ +0"
+    desc: "10; "
 hp: 0
 health:
   - name: ""
@@ -49,11 +50,17 @@ attacks:
   - name: ""
 
   - name: "Scream"
-    desc: "`pf2:r` **Trigger** Three or more living creatures remain within 100 feet of the trap for 6 seconds or longer.\n**Effect** The trap releases an arcane _wail of the banshee_ (DC 40) with a 100-foot-radius emanation instead of 40 feet, targeting all living creatures in the area, and rolls initiative."
+    desc: "`pf2:r` **Trigger** Three or more living creatures remain within 100 feet of the trap for 6 seconds or longer.\n* * *\n\n**Effect** The trap releases an arcane _wail of the banshee_ (DC 40) with a 100-foot-radius emanation instead of 40 feet, targeting all living creatures in the area, and rolls initiative."
 
   - name: "Routine"
     desc: "(1 action) The trap uses its action to force one random creature that failed its save against _wail of the banshee_ last turn to emit a _wail of the banshee_ with the same statistics as the initial one. The creature wails even if it is dead or unable to speak, no matter how far away from the trap it is. Unlike a casting of the spell, the drained condition from this trap's _wail of the banshee_ spells increases the targets' drained condition values. A creature that critically succeeds at any of its saves can still be affected by the trap on future rounds, but can't be forced to wail by the trap."
   - name: "Reset"
     desc: "The trap ends when the trap is unable to make a creature scream (usually because no creature failed its save on the previous turn or because all creatures have critically succeeded in the past). It then resets over 24 hours, as a new scream builds up in the mummified larynx."
+```
+
+```encounter-table
+name: Banshee's Symphony
+creatures:
+  - 1: Banshee's Symphony
 ```
 

@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.pathfinder-monster-core.Actor.PvYl5kItb7xoE8Is"
 tags:
   - pf2e/creature/type/catfolk
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/1
   - remaster
 statblock: inline
@@ -26,8 +27,8 @@ level: "Creature 1"
 
 alignment: ""
 size: "Medium"
-trait_01: "catfolk"
-trait_02: "humanoid"
+trait_01: [[catfolk]]
+trait_02: [[humanoid]]
 modifier: 6
 perception:
   - name: "Perception"
@@ -72,6 +73,12 @@ attacks:
   - name: "Sudden Charge"
     desc: "`pf2:2`  The catfolk pouncer Strides up to double their Speed. If the catfolk ends their movement within melee reach of at least one enemy, they can make a melee Strike against that enemy."
  
+```
+
+```encounter-table
+name: Catfolk Pouncer
+creatures:
+  - 1: Catfolk Pouncer
 ```
 
 

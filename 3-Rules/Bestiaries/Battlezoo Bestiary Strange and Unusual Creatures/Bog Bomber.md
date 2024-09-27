@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/amphibious
   - pf2e/creature/type/dragon
   - pf2e/creature/type/fire
+  - pf2eMonster
   - pf2e/creature/level/10
 statblock: inline
 name: "Bog Bomber"
@@ -23,19 +24,20 @@ token: [[modules/battlezoo-bestiary-su-pf2e/art/Portraits/bog-bomber.webp| ]]
 source: "Battlezoo Bestiary: Strange and Unusual"
 name: "Bog Bomber"
 level: "Creature 10"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "huge"
-trait_01: "amphibious"
-trait_02: "dragon"
-trait_03: "fire"
+trait_01: [[amphibious]]
+trait_02: [[dragon]]
+trait_03: [[fire]]
 modifier: 16
 perception:
   - name: "Perception"
     desc: "+16; Darkvision, Scent (Imprecise) 20 Feet"
+languages: ""
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +22, Athletics: +19 (20 to High Jump or Long Jump), Intimidation: +19, Stealth: +22, "
+    desc: "Acrobatics: +22, Athletics: +19, Intimidation: +19, Stealth: +22, Acrobatics: +22, Athletics: +19, Intimidation: +19, Stealth: +22"
 abilityMods: [7, 3, 6, -3, 5, -1]
 speed: 25 feet,  swim 25 feet
 sourcebook: "_Battlezoo Bestiary: Strange and Unusual_"
@@ -52,7 +54,7 @@ abilities_top:
   - name: ""
 
   - name: "Smoke Vision"
-    desc: "  Smoke doesn’t impair a bog bomber’s vision; it ignores Concealement from smoke."
+    desc: "  Smoke doesn’t impair a bog bomber’s vision; it ignores [[Conditions/Concealed|Concealement]] from smoke."
 
 abilities_mid:
   - name: ""
@@ -69,20 +71,26 @@ attacks:
     desc: "`pf2:1` Tongue +23 (fire, reach 30 feet)\n__Damage__  2d6 + 10 fire plus flame-tongue-grab"
 
   - name: "Fireball Breath"
-    desc: "`pf2:2` (arcane,fire) The bog bomber expels a ball of flame to a range of 180 feet that explodes in a 20-foot burst. Creatures in the burst take 9d6 fire damage (DC 27 Reflex check save). If there are creatures swallowed by the bog bomber and the bog bomber uses its fireball breath, the damage of the fire ball increases by an additional 1d6 fire damage per creature, to a maximum of 12d6 if it swallowed three or more creatures. The bog bomber can't use Fireball Breath again for 1d4 rounds.\n10d6 fire\n11d6 fire"
+    desc: "`pf2:2` (arcane,fire) The bog bomber expels a ball of flame to a range of 180 feet that explodes in a 20-foot burst. Creatures in the burst take 9d6 fire damage (DC 27 Reflex check save). If there are creatures swallowed by the bog bomber and the bog bomber uses its fireball breath, the damage of the fire ball increases by an additional 1d6 fire damage per creature, to a maximum of 12d6 if it swallowed three or more creatures. The bog bomber can't use Fireball Breath again for 1d4 rounds.\n\n10d6 fire\n\n11d6 fire"
 
   - name: "Flame Tongue Grab"
-    desc: " (fire) A creature hit by the bog bomber's tongue becomes Grabbed by the bog bomber and takes 2d6 persistent fire damage. Unlike normal for the grabbed condition, though, the creature isn't Immobilized; instead, it can't move farther away from the bog bomber. A creature can sever the tongue with a Strike against AC 25 that deals at least 20 slashing damage. This deals no damage to the bog bomber, but prevents it from using its tongue Strike until its tongue regrows, which takes a day."
+    desc: " (fire) A creature hit by the bog bomber's tongue becomes [[undefined]] by the bog bomber and takes 2d6 persistent fire damage. Unlike normal for the grabbed condition, though, the creature isn't [[undefined]]; instead, it can't move farther away from the bog bomber. A creature can sever the tongue with a Strike against AC 25 that deals at least 20 slashing damage. This deals no damage to the bog bomber, but prevents it from using its tongue Strike until its tongue regrows, which takes a day."
 
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
     desc: "`pf2:1`  "
 
   - name: "[[Bestiary Ability Glossary/Swallow Whole|Swallow Whole]]"
-    desc: "`pf2:1` (attack) Large, [[/r (2d10+11)\[bludgeoning\],3d6\[fire]]\], Rupture 20\n"
+    desc: "`pf2:1` (attack) Large, [[/r (2d10+11)[bludgeoning],3d6[fire]]], Rupture 20\n\n* * *\n"
 
   - name: "Swamp Surge"
     desc: "  A bog bomber ignores difficult terrain caused by swamp terrain features and it gains a +10-foot circumstance bonus to its Speeds in swamps."
  
+```
+
+```encounter-table
+name: Bog Bomber
+creatures:
+  - 1: Bog Bomber
 ```
 
 

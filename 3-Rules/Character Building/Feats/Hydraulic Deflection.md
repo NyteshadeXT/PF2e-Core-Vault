@@ -14,7 +14,7 @@ license: OGL
 ---
 # Hydraulic Deflection `pf2:1`
 ## Feat 1
-### [[azarketi]][[concentrate]][[primal]][[3-Rules/Rule References/Water]]
+### [[azarketi]][[concentrate]][[primal]][[water]]
 
 **Category** ancestry; 
 

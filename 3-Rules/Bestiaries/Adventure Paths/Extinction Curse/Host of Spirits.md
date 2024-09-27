@@ -4,6 +4,7 @@ obsidianUIMode: preview
 noteType: pf2eHazard
 tags:
   - haunt
+  - pf2eHazard
   - complex
 source: Pathfinder #155: Lord of the Black Sands
 aliases: "Compendium.pf2e.extinction-curse-bestiary.Actor.CknWKRO1xUHBL5Km" 
@@ -21,7 +22,7 @@ name: "Host of Spirits"
 level: "Hazard 18"
 
 trait_06: "Complex"
-trait_01: "haunt"
+trait_01: [[haunt]]
 modifier: 35
 sourcebook: "_Pathfinder #155: Lord of the Black Sands_"
 perception:
@@ -40,7 +41,7 @@ attacks:
   - name: ""
 
   - name: "Embrace of Death"
-    desc: "`pf2:r` (attack, death, occult) **Trigger** A creature that has angered the haunt begins its turn within 50 feet of the ruins of the house\n**Effect** The haunt attempts a ghostly hand Strike against the target creature, and then rolls initiative."
+    desc: "`pf2:r` (attack, death, occult) **Trigger** A creature that has angered the haunt begins its turn within 50 feet of the ruins of the house\n* * *\n\n**Effect** The haunt attempts a ghostly hand Strike against the target creature, and then rolls initiative."
   - name: "Melee"
     desc: "Ghostly Hand +35 () "
 
@@ -51,5 +52,11 @@ attacks:
     desc: "`pf2:3` For each of its actions, the trap attempts a ghostly hand Strike against a different creature within 50 feet of the ruins of the house (if there are fewer than 3 creatures, the haunt doesn't use its remaining actions)."
   - name: "Reset"
     desc: "The haunt ends 1 round after no creatures are within 50 feet of the house. The haunt resets after 1 day."
+```
+
+```encounter-table
+name: Host of Spirits
+creatures:
+  - 1: Host of Spirits
 ```
 

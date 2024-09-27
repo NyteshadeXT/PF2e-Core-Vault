@@ -6,6 +6,7 @@ cssClasses: pf2e
 aliases: "Compendium.pf2e.kingmaker-bestiary.Actor.Wyqsf3qDt7PqQ8OM" 
 tags:
   - pf2e/creature/type/animal
+  - pf2eMonster
   - pf2e/creature/level/2
 statblock: inline
 name: "Brush Thylacine"
@@ -20,14 +21,15 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Kingmaker"
 name: "Brush Thylacine"
 level: "Creature 2"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Small"
-trait_01: "animal"
+trait_01: [[animal]]
 modifier: 8
 perception:
   - name: "Perception"
     desc: "+8; Low-Light Vision, Scent (Imprecise) 30 Feet"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Athletics: +8, Intimidation: +6, Stealth: +8, Survival: +6"
@@ -60,6 +62,12 @@ attacks:
   - name: "Pounce"
     desc: "`pf2:1`  The brush thylacine Strides and makes a Strike at the end of that movement. If the brush thylacine began this action [[Conditions/Hidden|Hidden]], it remains hidden until after this ability's Strike."
  
+```
+
+```encounter-table
+name: Brush Thylacine
+creatures:
+  - 1: Brush Thylacine
 ```
 
 

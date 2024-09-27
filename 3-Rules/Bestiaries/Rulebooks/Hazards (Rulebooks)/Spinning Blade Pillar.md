@@ -5,6 +5,7 @@ noteType: pf2eHazard
 tags:
   - mechanical
   - trap
+  - pf2eHazard
   - complex
   - remaster
 source: Pathfinder GM Core
@@ -23,14 +24,14 @@ name: "Spinning Blade Pillar"
 level: "Hazard 4"
 
 trait_06: "Complex"
-trait_01: "mechanical"
-trait_02: "trap"
+trait_01: [[mechanical]]
+trait_02: [[trap]]
 modifier: 11
 sourcebook: "_Pathfinder GM Core_"
 ac: 21
 armorclass:
   - name: AC
-    desc: "21; __Fort__ +10, __Ref__ +12, __Will__ +0"
+    desc: "21; __Fort__ +10, __Ref__ +12, "
 hp: 48
 health:
   - name: ""
@@ -52,7 +53,7 @@ attacks:
   - name: ""
 
   - name: "Rising Pillar"
-    desc: "`pf2:r` (attack) **Trigger** A creature steps on one of the trapped floor tiles\n**Effect** The trap pops up in a grid intersection and makes a spinning blade Strike against one adjacent creature (if any), then rolls initiative."
+    desc: "`pf2:r` (attack) **Trigger** A creature steps on one of the trapped floor tiles\n* * *\n\n**Effect** The trap pops up in a grid intersection and makes a spinning blade Strike against one adjacent creature (if any), then rolls initiative."
 
   - name: "Speed"
     desc: "passive 10 feet"
@@ -63,5 +64,11 @@ attacks:
     desc: "(3 actions) The trap uses its first action to make a spinning blade Strike against each adjacent creature, its second action to move straight in a random direction (roll 1d4 to determine the direction), and its third to make a spinning blade Strike against each adjacent creature. This trap doesn't take a multiple attack penalty."
   - name: "Reset"
     desc: "The trap deactivates and resets after 1 minute."
+```
+
+```encounter-table
+name: Spinning Blade Pillar
+creatures:
+  - 1: Spinning Blade Pillar
 ```
 

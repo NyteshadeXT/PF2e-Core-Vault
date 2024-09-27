@@ -17,7 +17,7 @@ license: OGL
 
 
 
-**Moderate Curse** The sun shines its light on everything you say.
+The sun shines its light on everything you say.
 
 You become unable to tell [[Actions/Lie|Lies]], and if you attempt to do so, you instead compulsively blurt out the truth on the matter in question. You are still able to withhold information or lie by omission.
 

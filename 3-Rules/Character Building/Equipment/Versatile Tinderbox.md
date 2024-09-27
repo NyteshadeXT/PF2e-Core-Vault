@@ -12,7 +12,7 @@ license: OGL
 ---
 # Versatile Tinderbox
 ## Item 1
-### [[magical]][[Wood]]
+### [[magical]][[wood]]
 
 
 **Price** 20 gp; 

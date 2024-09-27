@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.pathfinder-monster-core.Actor.r3EXyntNIazKf2gP"
 tags:
   - pf2e/creature/type/mindless
   - pf2e/creature/type/ooze
+  - pf2eMonster
   - pf2e/creature/level/3
   - remaster
 statblock: inline
@@ -19,14 +20,15 @@ license: ORC
 columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
+token: [[modules/pf2e-tokens-monster-core/assets/portraits/ooze-string-slime.webp| ]]
 source: "Pathfinder Monster Core"
 name: "String Slime"
 level: "Creature 3"
 
 alignment: ""
 size: "Large"
-trait_01: "mindless"
-trait_02: "ooze"
+trait_01: [[mindless]]
+trait_02: [[ooze]]
 modifier: 5
 perception:
   - name: "Perception"
@@ -34,7 +36,7 @@ perception:
 languages: ""
 skills:
   - name: "Skills"
-    desc: "Athletics: +11 (+13 to Shove)"
+    desc: "Athletics: +11"
 abilityMods: [4, -5, 5, -5, 0, -5]
 speed: 20 feet
 sourcebook: "_Pathfinder Monster Core_"
@@ -70,6 +72,12 @@ attacks:
   - name: "Weak Acid"
     desc: "  A string slime's acid damages only organic material—not metal, stone, or other inorganic substances."
  
+```
+
+```encounter-table
+name: String Slime
+creatures:
+  - 1: String Slime
 ```
 
 

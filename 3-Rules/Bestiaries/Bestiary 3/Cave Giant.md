@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/giant
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/6
 statblock: inline
 name: "Cave Giant"
@@ -27,10 +28,10 @@ level: "Creature 6"
 
 alignment: ""
 size: "Large"
-trait_01: "chaotic"
-trait_02: "evil"
-trait_03: "giant"
-trait_04: "humanoid"
+trait_01: [[chaotic]]
+trait_02: [[evil]]
+trait_03: [[giant]]
+trait_04: [[humanoid]]
 modifier: 15
 perception:
   - name: "Perception"
@@ -73,11 +74,17 @@ attacks:
     desc: "`pf2:1` Rock +16 (brutal, range increment 120 feet)\n__Damage__  2d6 + 10 bludgeoning plus rock"
 
   - name: "Smear"
-    desc: "`pf2:2` (attack) **Requirements** The cave giant is within reach of a creature that is adjacent to a wall or other solid vertical surface\n**Effect** The cave giant snags the creature and smashes it against the wall. The giant attempts an Athletics check check against the target's Reflex DC. On a success, the cave giant [[Bestiary Ability Glossary/Grab|Grabs]] the creature and smears it along the nearby wall, dealing 2d8 + 8 bludgeoning damage. On a critical success, the damage is doubled."
+    desc: "`pf2:2` (attack) **Requirements** The cave giant is within reach of a creature that is adjacent to a wall or other solid vertical surface\n* * *\n\n**Effect** The cave giant snags the creature and smashes it against the wall. The giant attempts an Athletics check check against the target's Reflex DC. On a success, the cave giant [[Bestiary Ability Glossary/Grab|Grabs]] the creature and smears it along the nearby wall, dealing 2d8+8 bludgeoning damage. On a critical success, the damage is doubled."
 
   - name: "[[Bestiary Ability Glossary/Throw Rock|Throw Rock]]"
     desc: "`pf2:1`  "
  
+```
+
+```encounter-table
+name: Cave Giant
+creatures:
+  - 1: Cave Giant
 ```
 
 

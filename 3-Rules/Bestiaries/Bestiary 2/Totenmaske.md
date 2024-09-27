@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/undead
   - pf2e/creature/type/unholy
+  - pf2eMonster
   - pf2e/creature/level/7
 statblock: inline
 name: "Totenmaske"
@@ -26,9 +27,9 @@ level: "Creature 7"
 
 alignment: ""
 size: "Medium"
-trait_01: "evil"
-trait_02: "undead"
-trait_03: "unholy"
+trait_01: [[evil]]
+trait_02: [[undead]]
+trait_03: [[unholy]]
 modifier: 15
 perception:
   - name: "Perception"
@@ -64,14 +65,20 @@ attacks:
     desc: "`pf2:1` Claw +18 (agile, finesse)\n__Damage__  2d8 + 7 slashing"
 
   - name: "Drink Flesh"
-    desc: "`pf2:1` (divine) **Requirements** The totenmaske hit the same enemy with two claw Strikes this turn and is still adjacent to it\n**Effect** The totenmaske drains flesh from the creature's body. The creature becomes [[Conditions/Sickened 1|Sickened 2]] and [[Conditions/Drained 1|Drained 1]] unless it succeeds at a DC 25 Fortitude check save ([[Conditions/Sickened 1|Sickened 2]] and [[Conditions/Drained 1|Drained 2]] on a critical failure)."
+    desc: "`pf2:1` (divine) **Requirements** The totenmaske hit the same enemy with two claw Strikes this turn and is still adjacent to it\n* * *\n\n**Effect** The totenmaske drains flesh from the creature's body. The creature becomes [[Conditions/Sickened|Sickened 2]] and [[Conditions/Drained|Drained 1]] unless it succeeds at a DC 25 Fortitude check save ([[Conditions/Sickened|Sickened 2]] and [[Conditions/Drained|Drained 2]] on a critical failure)."
 
   - name: "Living Form"
-    desc: "`pf2:1` (concentrate,divine,polymorph) The totenmaske takes the appearance of a Medium or smaller humanoid creature. This is either its form from before it became undead, or the form of the last creature it successfully hit with Drink Flesh.\nThis doesn't change the totenmaske's Speed or the attack and damage bonuses for its Strikes, but might change the damage type its Strikes deal (typically to bludgeoning)."
+    desc: "`pf2:1` (concentrate,divine,polymorph) The totenmaske takes the appearance of a Medium or smaller humanoid creature. This is either its form from before it became undead, or the form of the last creature it successfully hit with Drink Flesh.\n\nThis doesn't change the totenmaske's Speed or the attack and damage bonuses for its Strikes, but might change the damage type its Strikes deal (typically to bludgeoning)."
 
   - name: "Shape Flesh"
-    desc: " (curse,divine) After spending 1 minute in contact with a [[Conditions/Paralyzed|Paralyzed]], [[Conditions/Unconscious|Unconscious]], or willing creature, a totenmaske can reshape the target's face, causing flesh to cover vital features.\nThe target can attempt a DC 25 Fortitude check save to resist; a critical success grants temporary immunity to Shape Flesh for 24 hours.\nEach time the totenmaske Shapes Flesh, it chooses one feature: ears (target becomes [[Conditions/Deafened|Deafened]]), eyes (target becomes [[Conditions/Blinded|Blinded]]), mouth (target can't speak or eat), or nose (target can't smell). A creature with both its nose and mouth sealed can't breathe and begins to suffocate.\nChanges are permanent until reversed by removing this curse, or the sealed flesh can be surgically opened with a DC 25 Medicine check check that takes 1d4 rounds and deals 1d6 slashing damage per round."
+    desc: " (curse,divine) After spending 1 minute in contact with a [[Conditions/Paralyzed|Paralyzed]], [[Conditions/Unconscious|Unconscious]], or willing creature, a totenmaske can reshape the target's face, causing flesh to cover vital features.\n\nThe target can attempt a DC 25 Fortitude check save to resist; a critical success grants temporary immunity to Shape Flesh for 24 hours.\n\nEach time the totenmaske Shapes Flesh, it chooses one feature: ears (target becomes [[Conditions/Deafened|Deafened]]), eyes (target becomes [[Conditions/Blinded|Blinded]]), mouth (target can't speak or eat), or nose (target can't smell). A creature with both its nose and mouth sealed can't breathe and begins to suffocate.\n\nChanges are permanent until reversed by removing this curse, or the sealed flesh can be surgically opened with a DC 25 Medicine check check that takes 1d4 rounds and deals 1d6 slashing damage per round."
  
+```
+
+```encounter-table
+name: Totenmaske
+creatures:
+  - 1: Totenmaske
 ```
 
 

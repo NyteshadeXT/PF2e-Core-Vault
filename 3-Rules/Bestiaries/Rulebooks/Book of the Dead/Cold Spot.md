@@ -4,6 +4,7 @@ obsidianUIMode: preview
 noteType: pf2eHazard
 tags:
   - haunt
+  - pf2eHazard
 
 source: Pathfinder Book of the Dead
 aliases: "Compendium.pf2e.book-of-the-dead-bestiary.Actor.Tjgk2iMSjSbUnuXO" 
@@ -21,13 +22,13 @@ name: "Cold Spot"
 level: "Hazard 1"
 
 
-trait_01: "haunt"
+trait_01: [[haunt]]
 modifier: 7
 sourcebook: "_Pathfinder Book of the Dead_"
 ac: 10
 armorclass:
   - name: AC
-    desc: "10; __Fort__ +0, __Ref__ +0, __Will__ +0"
+    desc: "10; "
 hp: 10
 health:
   - name: ""
@@ -49,10 +50,16 @@ attacks:
   - name: ""
 
   - name: "Sudden Chill"
-    desc: "`pf2:r` (cold, occult) **Trigger** A living creature enters the area\n**Effect** The temperature drops as [[Conditions/Invisible|Invisible]] spirits gather around the living. Living creatures within 15 feet take 2d4 + 5 cold damage (DC 17 Fortitude check). Creatures that critically fail their save are additionally [[Conditions/Clumsy 1|Clumsy 1]]."
+    desc: "`pf2:r` (cold, occult) **Trigger** A living creature enters the area\n* * *\n\n**Effect** The temperature drops as [[Conditions/Invisible|Invisible]] spirits gather around the living. Living creatures within 15 feet take 2d4+5 cold damage (DC 17 Fortitude check). Creatures that critically fail their save are additionally [[Conditions/Clumsy|Clumsy 1]]."
 
 
   - name: "Reset"
     desc: "1 hour"
+```
+
+```encounter-table
+name: Cold Spot
+creatures:
+  - 1: Cold Spot
 ```
 

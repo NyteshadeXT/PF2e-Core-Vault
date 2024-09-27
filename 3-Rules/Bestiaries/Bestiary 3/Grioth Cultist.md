@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/grioth
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/3
 statblock: inline
 name: "Grioth Cultist"
@@ -24,18 +25,18 @@ token: [[modules/pf2e-tokens-bestiaries/portraits/aberrant/humanoid/grioth-culti
 source: "Pathfinder Bestiary 3"
 name: "Grioth Cultist"
 level: "Creature 3"
-rare_03: "Rare"
+rare_03: [[Rare]]
 alignment: ""
 size: "Medium"
-trait_01: "chaotic"
-trait_02: "evil"
-trait_03: "grioth"
-trait_04: "humanoid"
+trait_01: [[chaotic]]
+trait_02: [[evil]]
+trait_03: [[grioth]]
+trait_04: [[humanoid]]
 modifier: 10
 perception:
   - name: "Perception"
     desc: "+10; Greater Darkvision, Echolocation 20 Feet"
-languages: "Aklo, Grioth"
+languages: "Aklo, Grioth; telepathy 30 feet"
 skills:
   - name: "Skills"
     desc: "Acrobatics: +8, Occultism: +9, Religion: +10, Stealth: +10"
@@ -79,14 +80,20 @@ attacks:
     desc: "DC 19, attack +11; __2nd __  _[[Spells/Phantom Pain|Phantom Pain]]_\n__Cantrips__  __(2nd)__ _[[Spells/Daze|Daze]]_, _[[Spells/Detect Magic|Detect Magic]]_, _[[Spells/Telekinetic Hand|Mage Hand]]_, _[[Spells/Telekinetic Projectile|Telekinetic Projectile]]_"
 
   - name: "Grioth Venom"
-    desc: " (emotion,fear,mental,poison) **Saving Throw** DC 20 Fortitude check\n**Maximum Duration** 6 rounds\n**Stage 1** [[Conditions/Frightened 1|Frightened 1]] (1 round)\n**Stage 2** [[Conditions/Frightened 1|Frightened 2]] (1 round)\n**Stage 3** [[Conditions/Frightened 1|Frightened 3]] (1 round)"
+    desc: " (emotion,fear,mental,poison) **Saving Throw** DC 20 Fortitude check\n* * *\n\n**Maximum Duration** 6 rounds\n\n**Stage 1** [[Conditions/Frightened|Frightened 1]] (1 round)\n\n**Stage 2** [[Conditions/Frightened|Frightened 2]] (1 round)\n\n**Stage 3** [[Conditions/Frightened|Frightened 3]] (1 round)"
 
   - name: "Invoke Haunter of the Dark"
-    desc: "`pf2:2` (divine,mental,visual) **Frequency** once per day\n**Effect** The grioth cultist waves a hand in a complex pattern to invoke dark powers, dealing 3d8 mental damage. Each non-grioth creature within 20 feet must attempt a DC 20 Will check save.\n**Critical Success** The creature is unaffected.\n**Success** The creature takes half damage\n**Failure** The creature takes full damage and becomes [[Conditions/Stupefied 1|Stupefied 1]] for 1 round\n**Critical Failure** The creature takes double damage and becomes stupefied 1 for 1 minute."
+    desc: "`pf2:2` (divine,mental,visual) **Frequency** once per day\n* * *\n\n**Effect** The grioth cultist waves a hand in a complex pattern to invoke dark powers, dealing 3d8 mental damage. Each non-grioth creature within 20 feet must attempt a DC 20 Will check save.\n* * *\n\n**Critical Success** The creature is unaffected.\n\n**Success** The creature takes half damage\n\n**Failure** The creature takes full damage and becomes [[Conditions/Stupefied|Stupefied 1]] for 1 round\n\n**Critical Failure** The creature takes double damage and becomes stupefied 1 for 1 minute."
 
   - name: "Shock Mind"
-    desc: "`pf2:2` (mental,occult) The grioth cultist makes a Strike with a voidglass weapon.\nIf the Strike hits, it deals an additional 2d6 mental damage, and the target must succeed at a DC 20 Will check save (this has the incapacitation trait) or become [[Conditions/Confused|Confused]] for 1 round."
+    desc: "`pf2:2` (mental,occult) The grioth cultist makes a Strike with a voidglass weapon.\n\nIf the Strike hits, it deals an additional 2d6 mental damage, and the target must succeed at a DC 20 Will check save (this has the incapacitation trait) or become [[Conditions/Confused|Confused]] for 1 round."
  
+```
+
+```encounter-table
+name: Grioth Cultist
+creatures:
+  - 1: Grioth Cultist
 ```
 
 

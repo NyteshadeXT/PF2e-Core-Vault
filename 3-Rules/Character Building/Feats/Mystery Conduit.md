@@ -3,24 +3,25 @@ obsidianUIMode: preview
 title: "Mystery Conduit"
 cssclasses: pf2e,pf2e-spell
 tags:
+  - trait/cursebound
   - trait/oracle
+  - trait/spellshape
   - trait/common
   - category/class
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.eIW5p8qqvsx2MFkY"
-license: OGL
+license: ORC
 ---
-# Mystery Conduit
+# Mystery Conduit `pf2:0`
 ## Feat 20
-### [[oracle]]
+### [[cursebound]][[oracle]][[spellshape]]
 
 **Category** class; 
 
 
 
 
-The power of your mystery enables you to cast more than just revelation spells.
+The power of your mystery enables you access to myriad magic. If your next action is to Cast a Spell of 5th rank or lower that has no duration, you do not expend a spell slot.
 
-When you cast a spell of 5th rank or lower that has no duration, instead of spending a spell slot, you can advance the effects of your oracular curse in the same manner as when you cast a revelation spell. A spell cast in this way gains the cursebound trait.
-
-*Source: Pathfinder Advanced Player's Guide*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

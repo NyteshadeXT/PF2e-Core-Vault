@@ -12,7 +12,7 @@ license: ORC
 ---
 # Debilitating Strike
 ## Feat 9
-### [[rogue]]
+### [[3-Rules/trait_reference/rogue]]
 
 **Category** classfeature; 
 

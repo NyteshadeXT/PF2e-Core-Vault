@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/chaotic
   - pf2e/creature/type/dream
   - pf2e/creature/type/evil
+  - pf2eMonster
   - pf2e/creature/level/8
 statblock: inline
 name: "Denizen of Leng"
@@ -24,21 +25,21 @@ token: [[modules/pf2e-tokens-bestiaries/portraits/planar/dream/denizen-of-leng.w
 source: "Pathfinder Bestiary 2"
 name: "Denizen of Leng"
 level: "Creature 8"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Medium"
-trait_01: "aberration"
-trait_02: "chaotic"
-trait_03: "dream"
-trait_04: "evil"
+trait_01: [[aberration]]
+trait_02: [[chaotic]]
+trait_03: [[dream]]
+trait_04: [[evil]]
 modifier: 17
 perception:
   - name: "Perception"
     desc: "+17; Darkvision"
-languages: "Aklo"
+languages: "Aklo; tongues"
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +15, Athletics: +15, Deception: +19, Occultism: +18, Sailing Lore: +20, Stealth: +17, Thievery: +17"
+    desc: "Acrobatics: +15, Athletics: +15, Deception: +19, Occultism: +18, Stealth: +17, Thievery: +17, Sailing Lore: +20"
 abilityMods: [3, 3, 4, 6, 3, 5]
 speed: 30 feet
 sourcebook: "_Pathfinder Bestiary 2_"
@@ -58,7 +59,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "[[Bestiary Ability Glossary/Fast Healing|Planar Fast Healing]]"
-    desc: "  A denizen of Leng maintains a connection to Leng at all times, and when away from Leng, they have fast healing 5. They lose this ability on Leng or in areas where planar connections do not function. If killed, their body dissolves into nothingness in 1d4 rounds, leaving behind their equipment. A slain denizen reforms in Leng; they can be permanently killed only when their planar fast healing doesn't function.\n"
+    desc: "  A denizen of Leng maintains a connection to Leng at all times, and when away from Leng, they have fast healing 5. They lose this ability on Leng or in areas where planar connections do not function. If killed, their body dissolves into nothingness in 1d4 rounds, leaving behind their equipment. A slain denizen reforms in Leng; they can be permanently killed only when their planar fast healing doesn't function.\n\n* * *\n"
 
   - name: "No Breath"
     desc: "  Denizens of Leng don't need to breathe."
@@ -76,11 +77,17 @@ attacks:
     desc: "DC 27, attack +19; __4th __  _[[Spells/Outcast's Curse|Outcast's Curse]]_, _[[Spells/Phantom Pain|Phantom Pain]]_, _[[Spells/Suggestion|Suggestion]]_; __3rd __  _[[Spells/Hypnotize|Hypnotic Pattern]]_, _[[Spells/Levitate|Levitate]]_, _[[Spells/Locate|Locate]]_, _[[Spells/Mind Reading|Mind Reading]]_; __2nd __  _[[Spells/Mirror Image|Mirror Image]]_\n__Cantrips__  __(4th)__ _[[Spells/Void Warp|Chill Touch]]_, _[[Spells/Detect Magic|Detect Magic]]_, _[[Spells/Telekinetic Hand|Mage Hand]]_, _[[Spells/Message|Message]]_, _[[Spells/Read Aura|Read Aura]]_\n__Constant__  __(5th)__ _[[Spells/Truespeech|Tongues]]_"
 
   - name: "Debilitating Bite"
-    desc: " (curse,occult) A creature that takes damage from a denizen's bite must succeed at a DC 27 Fortitude check save or become [[Conditions/Clumsy 1|Clumsy 1]]. Each time a target fails an additional save against this ability, the condition value increases by 1 (to a maximum of Clumsy 4). This condition value decreases by 1 every 24 hours."
+    desc: " (curse,occult) A creature that takes damage from a denizen's bite must succeed at a DC 27 Fortitude check save or become [[Conditions/Clumsy|Clumsy 1]]. Each time a target fails an additional save against this ability, the condition value increases by 1 (to a maximum of Clumsy 4). This condition value decreases by 1 every 24 hours."
 
   - name: "Leng Ruby"
     desc: " (occult) Many denizens of Leng carry strange rubies mined from quarries in Leng. As long as a creature holds a Leng ruby that it willingly accepted as a gift or payment from a denizen of Leng, any denizen of Leng can target that creature with [[Spells/Outcast's Curse|Outcast's Curse]], [[Spells/Phantom Pain|Phantom Pain]], or [[Spells/Mind Reading|Mind Reading]] at a range of 1 mile, and the bearer uses an outcome one degree of success worse than the result of its saving throw against _Outcast's Curse_."
  
+```
+
+```encounter-table
+name: Denizen of Leng
+creatures:
+  - 1: Denizen of Leng
 ```
 
 

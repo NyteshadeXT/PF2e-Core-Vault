@@ -10,6 +10,7 @@ tags:
   - pf2e/creature/type/plant
   - pf2e/creature/type/undead
   - pf2e/creature/type/unholy
+  - pf2eMonster
   - pf2e/creature/level/2
 statblock: inline
 name: "Lantern Leshy"
@@ -28,11 +29,11 @@ level: "Creature 2"
 
 alignment: ""
 size: "Small"
-trait_01: "evil"
-trait_02: "leshy"
-trait_03: "plant"
-trait_04: "undead"
-trait_05: "unholy"
+trait_01: [[evil]]
+trait_02: [[leshy]]
+trait_03: [[plant]]
+trait_04: [[undead]]
+trait_05: [[unholy]]
 modifier: 8
 perception:
   - name: "Perception"
@@ -40,7 +41,7 @@ perception:
 languages: "Common, Wildsong, Fey, Necril"
 skills:
   - name: "Skills"
-    desc: "Deception: +7, Intimidation: +7, Occultism: +7, Stealth: +8, "
+    desc: "Deception: +7, Intimidation: +7, Occultism: +7, Stealth: +8, Deception: +7, Intimidation: +7, Occultism: +7, Stealth: +8"
 abilityMods: [3, 4, 3, 1, 4, 3]
 speed: 25 feet
 sourcebook: "_Battlezoo Bestiary: Strange and Unusual_"
@@ -62,7 +63,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Withering Burst"
-    desc: " (poison,void) When a lantern leshy is destroyed, it explodes in a blast of necromantic energy. Due to its origin, this energy only affects plants, doing 1d10 void damage to each plant creature in a 30-foot emanation with a DC 15 Fortitude check save. This burst causes plants in the area to rot, creating a disgusting miasma that lingers in the air for 1 minute. Any creature that breathes must attempt a DC 15 Fortitude check save any time it enters or ends its turn in the area while the miasma lasts.\n**Critical Success** The creature is temporarily immune to the miasma for 1 day.\n**Success** The creature is unaffected this turn.\n**Failure** The creature is Sickened 1.\n**Critical Failure** The creature is Sickened 2."
+    desc: " (poison,void) When a lantern leshy is destroyed, it explodes in a blast of necromantic energy. Due to its origin, this energy only affects plants, doing 1d10 void damage to each plant creature in a 30-foot emanation with a DC 15 Fortitude check save. This burst causes plants in the area to rot, creating a disgusting miasma that lingers in the air for 1 minute. Any creature that breathes must attempt a DC 15 Fortitude check save any time it enters or ends its turn in the area while the miasma lasts.\n* * *\n\n**Critical Success** The creature is temporarily immune to the miasma for 1 day.\n\n**Success** The creature is unaffected this turn.\n\n**Failure** The creature is [[undefined]].\n\n**Critical Failure** The creature is [[undefined]]."
 
 attacks:
   - name: ""
@@ -77,11 +78,17 @@ attacks:
     desc: "`pf2:1` Roasted Seed +9 (range increment 30 feet)\n__Damage__  1d8 + 3 bludgeoning 1 fire"
 
   - name: "Head Toss"
-    desc: "`pf2:2` (emotion,fear,mental) The lantern leshy can remove its head and toss it to attack a foe. It makes a head Strike against a foe; this ability is the only way it can make a head Strike. Whether the Strike hits or misses, any creature within 20 feet of either the lantern leshy or the Strike's target must attempt a DC 18 Will check save or be Frightened 1 (Frightened 2 on a critical failure). The lantern leshy's head does not return after being thrown until it retrieves and reattaches it. It is Blinded until then, though it always precisely senses its own head. Picking up and reattaching the head requires a single Interact action by the lantern leshy, which it can do as long as the head is within its reach."
+    desc: "`pf2:2` (emotion,fear,mental) The lantern leshy can remove its head and toss it to attack a foe. It makes a head Strike against a foe; this ability is the only way it can make a head Strike. Whether the Strike hits or misses, any creature within 20 feet of either the lantern leshy or the Strike's target must attempt a DC 18 Will check save or be [[undefined]] ([[undefined]] on a critical failure). The lantern leshy's head does not return after being thrown until it retrieves and reattaches it. It is [[Conditions/Blinded|Blinded]] until then, though it always precisely senses its own head. Picking up and reattaching the head requires a single Interact action by the lantern leshy, which it can do as long as the head is within its reach."
 
   - name: "Spooky Decorations"
     desc: "`pf2:1` (concentrate,occult,polymorph) The lantern leshy collapses into a pile of sticks and withered leaves with its illuminated head sitting on top. Creatures who come across the lantern leshy in this form must succeed a Perception check check against its Deception DC to recognize that it is not simply a decoration. This lasts until it uses this action again to regain its original form."
  
+```
+
+```encounter-table
+name: Lantern Leshy
+creatures:
+  - 1: Lantern Leshy
 ```
 
 

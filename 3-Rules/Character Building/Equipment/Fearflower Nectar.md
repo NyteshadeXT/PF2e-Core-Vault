@@ -22,7 +22,7 @@ license: ORC
 **Bulk** L; **Size** med
 **Usage** held-in-two-hands
 
-The nectar of a night-blooming desert flower attacks a victim’s central nervous system and causes feelings of panic.
+The nectar of a night-blooming desert flower attacks a victim's central nervous system and causes feelings of panic.
 
 * * *
 
@@ -32,11 +32,11 @@ The nectar of a night-blooming desert flower attacks a victim’s central nervou
 
 **Maximum Duration** 6 rounds
 
-**Stage 1** 1d6 poison damage and [[Conditions/Frightened 1|Frightened 1]] (1 round)
+**Stage 1** 1d6 poison damage and [[Conditions/Frightened|Frightened 1]] (1 round)
 
-**Stage 2** 1d6 poison damage and [[Conditions/Frightened 1|Frightened 2]] (1 round)
+**Stage 2** 1d6 poison damage and [[Conditions/Frightened|Frightened 2]] (1 round)
 
-**Stage 3** 1d6 poison damage and [[Conditions/Frightened 1|Frightened 3]] (1 round)
+**Stage 3** 1d6 poison damage and [[Conditions/Frightened|Frightened 3]] (1 round)
 
 *Source: Pathfinder GM Core*
 *ORC*

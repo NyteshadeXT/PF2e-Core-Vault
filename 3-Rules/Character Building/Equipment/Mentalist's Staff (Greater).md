@@ -28,7 +28,9 @@ license: ORC
 
 This polished wooden staff bears a swirling motif reminiscent of the folds of a brain. While wielding the staff, you gain a +2 circumstance bonus to checks to identify mental magic.
 
-**Activate** Cast a Spell; **Effect** You expend a number of charges from the staff to cast a spell from its list.
+**Activate** Cast a Spell
+
+**Effect** You expend a number of charges from the staff to cast a spell from its list.
 
 * * *
 

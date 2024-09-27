@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.sky-kings-tomb-bestiary.Actor.U2UxLnrZ7wbtOftk"
 tags:
   - pf2e/creature/type/fey
   - pf2e/creature/type/swarm
+  - pf2eMonster
   - pf2e/creature/level/3
 statblock: inline
 name: "Ether Sprite Swarm"
@@ -24,12 +25,13 @@ level: "Creature 3"
 
 alignment: ""
 size: "Large"
-trait_01: "fey"
-trait_02: "swarm"
+trait_01: [[fey]]
+trait_02: [[swarm]]
 modifier: 9
 perception:
   - name: "Perception"
     desc: "+9; Low-Light Vision"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Acrobatics: +9, Diplomacy: +9, Performance: +11, Stealth: +9, Thievery: +9"
@@ -71,6 +73,12 @@ attacks:
   - name: "Swarming Needles"
     desc: "`pf2:1`  The sprites numerous rapiers deal 2d6 piercing damage to each enemy in the swarm's space (DC 20 Reflex check save)."
  
+```
+
+```encounter-table
+name: Ether Sprite Swarm
+creatures:
+  - 1: Ether Sprite Swarm
 ```
 
 

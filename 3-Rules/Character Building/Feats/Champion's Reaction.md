@@ -6,8 +6,9 @@ tags:
   - trait/archetype
   - trait/common
   - category/class
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.7wk6yVM3OJdc4LEU"
-license: OGL
+license: ORC
 ---
 # Champion's Reaction
 ## Feat 6
@@ -21,5 +22,5 @@ license: OGL
 * * *
 You can use the champion's reaction associated with your cause.
 
-*Source: Pathfinder Core Rulebook*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

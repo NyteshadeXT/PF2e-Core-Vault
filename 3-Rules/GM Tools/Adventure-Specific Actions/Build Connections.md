@@ -18,7 +18,7 @@ license: OGL
 
 
 
-You dedicate a day to making friends in high places, typically by inviting yourself to parties, performing small favors to be repaid later, and generally projecting an aura of confidence and capability. Attempt a DC 36 Crafting check, DC 36 Diplomacy check, DC 36 Performance check, or appropriate Lore check. The result determines the impact of your efforts. If you have the [[Feats/Connections|Connections]] skill feat and roll a success, you get a critical success instead.
+You dedicate a day to making friends in high places, typically by inviting yourself to parties, performing small favors to be repaid later, and generally projecting an aura of confidence and capability. Attempt a DC 36 Crafting check, DC 36 Diplomacy check, DC 36 Performance check, or appropriate Lore check. The result determines the impact of your efforts. If you have the [[Feats/Leverage Connections|Leverage Connections]] skill feat and roll a success, you get a critical success instead.
 
 * * *
 

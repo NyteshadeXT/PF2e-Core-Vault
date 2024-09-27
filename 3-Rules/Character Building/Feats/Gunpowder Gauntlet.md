@@ -31,5 +31,7 @@ Your flair keeps foes' attention, as your motions with your gun draw your foes i
 
 **Success** The target takes a -1 status penalty to attack rolls against creatures other than you until the beginning of your next turn.
 
+[[Feat_Feature Effects/Effect_ Gunpowder Gauntlet|Effect: Gunpowder Gauntlet]]
+
 *Source: Pathfinder Guns & Gears*
 *OGL*

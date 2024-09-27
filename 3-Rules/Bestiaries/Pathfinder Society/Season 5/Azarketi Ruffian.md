@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/azarketi
   - pf2e/creature/type/chaotic
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/4
 statblock: inline
 name: "Azarketi Ruffian"
@@ -23,13 +24,13 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Society Scenario #5-03: Heidmarch Heist"
 name: "Azarketi Ruffian"
 level: "Creature 4"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Medium"
-trait_01: "amphibious"
-trait_02: "azarketi"
-trait_03: "chaotic"
-trait_04: "humanoid"
+trait_01: [[amphibious]]
+trait_02: [[azarketi]]
+trait_03: [[chaotic]]
+trait_04: [[humanoid]]
 modifier: 14
 perception:
   - name: "Perception"
@@ -37,7 +38,7 @@ perception:
 languages: "Azlanti, Common"
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +10, Athletics: +12 (+14 to Swim), Intimidation: +8, Nature: +10, Stealth: +10 (+12 Underwater)"
+    desc: "Acrobatics: +10, Athletics: +12, Intimidation: +8, Nature: +10, Stealth: +10"
 abilityMods: [4, 3, 2, 1, 2, 0]
 speed: 25 feet,  swim 25 feet
 sourcebook: "_Pathfinder Society Scenario #5-03: Heidmarch Heist_"
@@ -74,6 +75,12 @@ attacks:
   - name: "Ranged"
     desc: "`pf2:1` Javelin +12 (thrown 30 ft.)\n__Damage__  2d6 + 5 bludgeoning"
  
+```
+
+```encounter-table
+name: Azarketi Ruffian
+creatures:
+  - 1: Azarketi Ruffian
 ```
 
 

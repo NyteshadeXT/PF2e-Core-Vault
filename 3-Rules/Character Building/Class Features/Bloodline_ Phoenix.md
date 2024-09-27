@@ -11,7 +11,7 @@ license: OGL
 ---
 # Bloodline: Phoenix
 ## Feat 1
-### [uncommon](uncommon "Uncommon Rarity Trait")[[sorcerer]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[3-Rules/trait_reference/sorcerer]]
 
 **Category** classfeature; 
 

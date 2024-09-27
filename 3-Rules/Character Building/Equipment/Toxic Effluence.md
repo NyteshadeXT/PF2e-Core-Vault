@@ -33,11 +33,11 @@ This dark green sludge has a caustic scent and gritty texture. Capable of enteri
 
 **Maximum Duration** 6 rounds
 
-**Stage 1** 3d6 poison damage, 3d6 fire damage, [[Conditions/Clumsy 1|Clumsy 1]], and [[Conditions/Enfeebled 1|Enfeebled 1]] (1 round)
+**Stage 1** 3d6 poison damage, 3d6 fire damage, [[Conditions/Clumsy|Clumsy 1]], and [[Conditions/Enfeebled|Enfeebled 1]] (1 round)
 
-**Stage 2** 4d6 poison damage, 4d6 fire damage, [[Conditions/Clumsy 1|Clumsy 2]], and [[Conditions/Enfeebled 1|Enfeebled 2]] (1 round)
+**Stage 2** 4d6 poison damage, 4d6 fire damage, [[Conditions/Clumsy|Clumsy 2]], and [[Conditions/Enfeebled|Enfeebled 2]] (1 round)
 
-**Stage 3** 5d6 poison damage, 5d6 fire damage, [[Conditions/Clumsy 1|Clumsy 3]], and [[Conditions/Enfeebled 1|Enfeebled 3]] (1 round)
+**Stage 3** 5d6 poison damage, 5d6 fire damage, [[Conditions/Clumsy|Clumsy 3]], and [[Conditions/Enfeebled|Enfeebled 3]] (1 round)
 
 *Source: Pathfinder #195: Heavy is the Crown*
 *OGL*

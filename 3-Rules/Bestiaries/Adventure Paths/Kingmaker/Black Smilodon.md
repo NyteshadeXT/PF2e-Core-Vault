@@ -6,6 +6,7 @@ cssClasses: pf2e
 aliases: "Compendium.pf2e.kingmaker-bestiary.Actor.ndoXVn6MPPxSJvcC" 
 tags:
   - pf2e/creature/type/animal
+  - pf2eMonster
   - pf2e/creature/level/14
 statblock: inline
 name: "Black Smilodon"
@@ -23,11 +24,12 @@ level: "Creature 14"
 
 alignment: ""
 size: "Large"
-trait_01: "animal"
+trait_01: [[animal]]
 modifier: 25
 perception:
   - name: "Perception"
     desc: "+25; Low-Light Vision, Scent (Imprecise) 60 Feet"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Acrobatics: +25, Athletics: +28, Stealth: +27"
@@ -69,6 +71,12 @@ attacks:
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
     desc: "`pf2:1`  "
  
+```
+
+```encounter-table
+name: Black Smilodon
+creatures:
+  - 1: Black Smilodon
 ```
 
 

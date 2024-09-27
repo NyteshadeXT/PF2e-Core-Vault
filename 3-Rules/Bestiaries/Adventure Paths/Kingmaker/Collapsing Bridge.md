@@ -4,6 +4,7 @@ obsidianUIMode: preview
 noteType: pf2eHazard
 tags:
   - environmental
+  - pf2eHazard
 
 source: Pathfinder Kingmaker
 aliases: "Compendium.pf2e.kingmaker-bestiary.Actor.AXmQ8rUKsJFZUKb6" 
@@ -21,13 +22,13 @@ name: "Collapsing Bridge"
 level: "Hazard 6"
 
 
-trait_01: "environmental"
+trait_01: [[environmental]]
 modifier: 25
 sourcebook: "_Pathfinder Kingmaker_"
 ac: 21
 armorclass:
   - name: AC
-    desc: "21; __Fort__ +9, __Ref__ +9, __Will__ +0"
+    desc: "21; __Fort__ +9, __Ref__ +9, "
 hp: 10
 health:
   - name: ""
@@ -49,9 +50,15 @@ attacks:
   - name: ""
 
   - name: "Collapse"
-    desc: "`pf2:r` **Trigger** A support is destroyed\n**Effect** The bridge collapses. Any creature on the bridge between the red dotted lines falls 30 feet into water or onto land, taking damage as appropriate plus an additional 5d6 bludgeoning damage (DC 24 Reflex check) from falling debris; a creature within five feet of the red dotted line can try to [[Actions/Grab an Edge|Grab an Edge]] (DC 24 Reflex check) to avoid falling. A creature under the bridge-either directly below it or within ten feet of it-must attempt a DC 24 Reflex check save; a creature that's not directly under the bridge improves the result of their saving throw one degree.\n**Critical Success** The creature takes no damage.\n**Success** The creature takes 2d8 + 9 bludgeoning damage.\n**Failure** The creature takes 4d8 + 18 bludgeoning damage and is knocked [[Conditions/Prone|Prone]].\n**Critical Failure** The creature takes 8d8 + 18 bludgeoning damage, is knocked prone, and is [[Conditions/Immobilized|Immobilized]] by fallen rubble from the collapsed bridge."
+    desc: "`pf2:r` **Trigger** A support is destroyed\n\n**Effect** The bridge collapses. Any creature on the bridge between the red dotted lines falls 30 feet into water or onto land, taking damage as appropriate plus an additional 5d6 bludgeoning damage (DC 24 Reflex check) from falling debris; a creature within five feet of the red dotted line can try to [[Actions/Grab an Edge|Grab an Edge]] (DC 24 Reflex check) to avoid falling. A creature under the bridge-either directly below it or within ten feet of it-must attempt a DC 24 Reflex check save; a creature that's not directly under the bridge improves the result of their saving throw one degree.\n* * *\n\n**Critical Success** The creature takes no damage.\n\n**Success** The creature takes 2d8 + 9 bludgeoning damage.\n\n**Failure** The creature takes 4d8 + 18 bludgeoning damage and is knocked [[Conditions/Prone|Prone]].\n\n**Critical Failure** The creature takes 8d8 + 18 bludgeoning damage, is knocked prone, and is [[Conditions/Immobilized|Immobilized]] by fallen rubble from the collapsed bridge."
 
 
 
+```
+
+```encounter-table
+name: Collapsing Bridge
+creatures:
+  - 1: Collapsing Bridge
 ```
 

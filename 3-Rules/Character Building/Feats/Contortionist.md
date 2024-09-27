@@ -6,8 +6,9 @@ tags:
   - trait/archetype
   - trait/common
   - category/class
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.JO3mcFvxjRp1V8XK"
-license: OGL
+license: ORC
 ---
 # Contortionist
 ## Feat 4
@@ -23,5 +24,5 @@ You can squeeze out of tight situations surprisingly quickly, gaining an advanta
 
 Whenever you successfully [[Actions/Escape|Escape]] using Acrobatics, the creature you Escaped from is [[Conditions/Off-Guard|Off-Guard]] against the next attack you make against it before the end of your next turn.
 
-*Source: Pathfinder Advanced Player's Guide*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

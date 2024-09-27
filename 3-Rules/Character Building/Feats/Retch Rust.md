@@ -23,7 +23,7 @@ license: OGL
 
 
 
-You exhale tendrils formed from flakes of rusted metal. All creatures in a 30-foot cone take 0d10 slashing damage with a Fortitude check save against your class DC. A metal creature that fails its save also takes -2d4 persistent slashing damage.
+You exhale tendrils formed from flakes of rusted metal. All creatures in a @Template\[cone|distance:30\] take 0d10 slashing damage with a Fortitude check save against your class DC. A metal creature that fails its save also takes -2d4 persistent slashing damage.
 
 * * *
 

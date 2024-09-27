@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/undead
   - pf2e/creature/type/unholy
+  - pf2eMonster
   - pf2e/creature/level/7
 statblock: inline
 name: "Veenlijk"
@@ -27,10 +28,10 @@ level: "Creature 7"
 
 alignment: ""
 size: "Medium"
-trait_01: "amphibious"
-trait_02: "evil"
-trait_03: "undead"
-trait_04: "unholy"
+trait_01: [[amphibious]]
+trait_02: [[evil]]
+trait_03: [[undead]]
+trait_04: [[unholy]]
 modifier: 17
 perception:
   - name: "Perception"
@@ -38,7 +39,7 @@ perception:
 languages: "Common"
 skills:
   - name: "Skills"
-    desc: "Athletics: +17, Nature: +15, Religion: +17, Stealth: +12 (+18 in Swamps), "
+    desc: "Athletics: +17, Nature: +15, Religion: +17, Stealth: +12"
 abilityMods: [6, 1, 4, 2, 4, 2]
 speed: 20 feet,  swim 20 feet
 sourcebook: "_Battlezoo Bestiary_"
@@ -60,7 +61,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Peat-Fire Immolation"
-    desc: " (fire) A veenlijk's body is highly flammable, and when ignited it becomes a smoky conflagration. Whenever a veenlijk takes fire damage, it catches fire and takes 2d8 persistent fire damage (or more, if the source of the fire damage inflicts a more severe persistent damage).\nAs long as the veenlijk is on fire, it loses its weakness to fire. Each round at the end of its turn, the veenlijk deals splash damage to each creature within 5 feet equal to the amount of persistent fire damage it took that round. Finally, smoke billows from the burning veenlijk in a 10-foot emanation; all creatures in the smoke are concealed, and all other creatures are concealed to them."
+    desc: " (fire) A veenlijk's body is highly flammable, and when ignited it becomes a smoky conflagration. Whenever a veenlijk takes fire damage, it catches fire and takes 2d8 persistent fire damage (or more, if the source of the fire damage inflicts a more severe persistent damage).\n\nAs long as the veenlijk is on fire, it loses its weakness to fire. Each round at the end of its turn, the veenlijk deals splash damage to each creature within 5 feet equal to the amount of persistent fire damage it took that round. Finally, smoke billows from the burning veenlijk in a 10-foot emanation; all creatures in the smoke are concealed, and all other creatures are concealed to them."
 
 attacks:
   - name: ""
@@ -78,14 +79,20 @@ attacks:
     desc: "  A veenlijk ignores difficult terrain caused by swamp terrain features. A veenlijk always gains the benefits of Cover Tracks in natural surroundings, even while moving at full speed."
 
   - name: "[[Bestiary Ability Glossary/Constrict|Constrict]]"
-    desc: "`pf2:1`  1d8 + 6 bludgeoning damage, basic Fortitude\n"
+    desc: "`pf2:1`  1d8+6 bludgeoning damage, DC 25 basic Fortitude\n\n* * *\n"
 
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
     desc: "`pf2:1`  "
 
   - name: "Out of the Mists"
-    desc: "`pf2:1`  **Frequency** once per round;\n**Requirements** The veenlijk is concealed by mist or smoke;\n**Effect** The veenlijk Strides and makes a Strike at the end of that movement. If the veenlijk began this action hidden, it remains hidden until after this ability's Strike."
+    desc: "`pf2:1`  **Frequency** once per round;\n\n**Requirements** The veenlijk is concealed by mist or smoke;\n\n**Effect** The veenlijk Strides and makes a Strike at the end of that movement. If the veenlijk began this action hidden, it remains hidden until after this ability's Strike."
  
+```
+
+```encounter-table
+name: Veenlijk
+creatures:
+  - 1: Veenlijk
 ```
 
 

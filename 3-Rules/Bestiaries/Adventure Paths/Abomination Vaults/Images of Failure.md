@@ -5,6 +5,7 @@ noteType: pf2eHazard
 tags:
   - magical
   - trap
+  - pf2eHazard
 
 source: Pathfinder #165: Eyes of Empty Death
 aliases: "Compendium.pf2e.abomination-vaults-bestiary.Actor.9BEHjBWRs0st7IVv" 
@@ -22,8 +23,8 @@ name: "Images of Failure"
 level: "Hazard 12"
 
 
-trait_01: "magical"
-trait_02: "trap"
+trait_01: [[magical]]
+trait_02: [[trap]]
 modifier: 25
 sourcebook: "_Pathfinder #165: Eyes of Empty Death_"
 perception:
@@ -42,10 +43,16 @@ attacks:
   - name: ""
 
   - name: "Echoes of Defeat"
-    desc: "`pf2:0` (curse, emotion, mental) **Trigger** A creature ends a move action within the trap's area\n**Effect** The triggering creature takes 2d10 + 10 mental damage (DC 32 Will check save) as it recalls its past failures. A creature that takes damage hears a soft whisper offering, “Let me take something from you and I can stop the pain.” A creature who agrees loses access to a random skill feat that isn't a prerequisite for another feat, and the creature doesn't take further damage from Echoes of Defeat. This effect lasts for 1 week and can be ended by effects that remove curses."
+    desc: "`pf2:0` (curse, emotion, mental) **Trigger** A creature ends a move action within the trap's area\n* * *\n\n**Effect** The triggering creature takes 2d10+10 mental damage (DC 32 Will check save) as it recalls its past failures. A creature that takes damage hears a soft whisper offering, \"Let me take something from you and I can stop the pain.\" A creature who agrees loses access to a random skill feat that isn't a prerequisite for another feat, and the creature doesn't take further damage from Echoes of Defeat. This effect lasts for 1 week and can be ended by effects that remove curses."
 
 
   - name: "Reset"
     desc: "The trap resets immediately and can affect the same creature multiple times on the creature's turn."
+```
+
+```encounter-table
+name: Images of Failure
+creatures:
+  - 1: Images of Failure
 ```
 

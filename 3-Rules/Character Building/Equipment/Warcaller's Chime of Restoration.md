@@ -17,7 +17,7 @@ license: OGL
 **Bulk** L; **Size** med
 **Usage** held-in-one-hand
 
-This chime's carvings depict blooming flowers. When activated, it creates a small aura of healing in a 5-foot emanation. Creatures in the aura gain fast healing 15. This aura remains active for 3 rounds. This chime can be used once per week.
+This chime's carvings depict blooming flowers. When activated, it creates a small aura of healing in a @Template\[emanation|distance:5\]. Creatures in the aura gain fast healing 15. This aura remains active for 3 rounds. This chime can be used once per week.
 
 *Source: Pathfinder #170: Spoken on the Song Wind*
 *OGL*

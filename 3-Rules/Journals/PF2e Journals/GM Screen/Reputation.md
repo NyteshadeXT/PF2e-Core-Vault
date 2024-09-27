@@ -11,6 +11,7 @@ tags:
   
 
 **TABLE: REPUTATIONS**
+ 
 | Reputation | Reputation Points | Raised By | Lowered By |
 | --- | --- | --- | --- |
 | Revered | 30 to 50 | Major favor | Moderate or major disservice |

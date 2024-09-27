@@ -6,6 +6,7 @@ cssClasses: pf2e
 aliases: "Compendium.pf2e.strength-of-thousands-bestiary.Actor.wz2788pDzWe52BBE" 
 tags:
   - pf2e/creature/type/beast
+  - pf2eMonster
   - pf2e/creature/level/19
 statblock: inline
 name: "Aspect of Hunger"
@@ -20,14 +21,15 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #174: Shadows of the Ancients"
 name: "Aspect of Hunger"
 level: "Creature 19"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "grg"
-trait_01: "beast"
+trait_01: [[beast]]
 modifier: 25
 perception:
   - name: "Perception"
     desc: "+25; Darkvision, Tremorsense (Imprecise) 100 Feet"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Athletics: +38"
@@ -42,20 +44,20 @@ hp: 410
 health:
   - name: ""
   - name: HP
-    desc: "410, fire healing; __Immunities__  mental"
+    desc: "410, fire healing; __Immunities__  mental,  immobilized"
 abilities_top:
   - name: ""
 
 abilities_mid:
   - name: ""
   - name: "Inexorable"
-    desc: "  The Aspect of Hunger recovers from the [[Conditions/Paralyzed|Paralyzed]], [[Conditions/Slowed 1|Slowed]], and [[Conditions/Stunned 1|Stunned]] conditions at the end of its turn. It's also immune to penalties to its Speeds and the [[Conditions/Immobilized|Immobilized]] condition, and it ignores difficult terrain and greater difficult terrain."
+    desc: "  The Aspect of Hunger recovers from the [[Conditions/Paralyzed|Paralyzed]], [[Conditions/Slowed|Slowed]], and [[Conditions/Stunned|Stunned]] conditions at the end of its turn. It's also immune to penalties to its Speeds and the [[Conditions/Immobilized|Immobilized]] condition, and it ignores difficult terrain and greater difficult terrain."
 
   - name: "Key Weakness"
     desc: "  The Aspect of Hunger is foiled by the bounty of natural magic. It has a weakness to divine spells and primal spells."
 
   - name: "Shake It Off"
-    desc: "`pf2:r`  **Frequency** once per day\n**Trigger** The Aspect of Hunger would be affected by a condition or adverse effect (such as [[Spells/Cursed Metamorphosis|Cursed Metamorphosis]])\n**Effect** The Aspect of Hunger negates the triggering condition or effect. Effects from artifacts, deities, or a similarly powerful source can't be avoided in this way."
+    desc: "`pf2:r`  **Frequency** once per day\n\n**Trigger** The Aspect of Hunger would be affected by a condition or adverse effect (such as [[Spells/Cursed Metamorphosis|Cursed Metamorphosis]])\n* * *\n\n**Effect** The Aspect of Hunger negates the triggering condition or effect. Effects from artifacts, deities, or a similarly powerful source can't be avoided in this way."
 
 attacks:
   - name: ""
@@ -70,26 +72,32 @@ attacks:
     desc: "`pf2:1` Body +34 (mental, reach 15 feet)\n__Damage__  2d10 + 16 bludgeoning 2d6 mental"
 
   - name: "Aspect of Hunger Venom"
-    desc: " (poison) **Saving Throw** DC 41 Fortitude check\n**Maximum Duration** 6 rounds\n**Stage 1** 1d6 poison damage and [[Conditions/Drained 1|Drained 1]] (1 round)\n**Stage 2** 2d6 poison damage and drained 1 (1 round)\n**Stage 3** 2d6 poison damage and [[Conditions/Drained 1|Drained 2]] (1 round)."
+    desc: " (poison) **Saving Throw** DC 41 Fortitude check\n* * *\n\n**Maximum Duration** 6 rounds\n\n**Stage 1** 1d6 poison damage and [[Conditions/Drained|Drained 1]] (1 round)\n\n**Stage 2** 2d6 poison damage and drained 1 (1 round)\n\n**Stage 3** 2d6 poison damage and [[Conditions/Drained|Drained 2]] (1 round)."
 
   - name: "Breath Weapon"
-    desc: "`pf2:2` (mental,primal) The Aspect of Hunger breathes a blast of hunger in a 60-foot cone that deals 18d6 mental damage to all creatures in the area (DC 41 Reflex check save).\nIt can't use Breath Weapon again for 1d4 rounds."
+    desc: "`pf2:2` (mental,primal) The Aspect of Hunger breathes a blast of hunger in a @Template[cone|distance:60] that deals 18d6 mental damage to all creatures in the area (DC 41 Reflex check save).\n\nIt can't use Breath Weapon again for 1d4 rounds."
 
   - name: "Essence of Hunger"
     desc: "  The Aspect of Hunger doesn't have the fire trait, immunity to fire, weakness to cold, or fire healing. It instead has immunity to mental effects, and its attacks deal mental damage instead of fire damage."
 
   - name: "Fast Swallow"
-    desc: "`pf2:r`  **Trigger** The Aspect of Hunger [[Conditions/Grabbed|Grabs]] a creature\n**Effect** The Aspect of Hunger uses Swallow Whole."
+    desc: "`pf2:r`  **Trigger** The Aspect of Hunger [[Conditions/Grabbed|Grabs]] a creature\n* * *\n\n**Effect** The Aspect of Hunger uses Swallow Whole."
 
   - name: "Rock Tunneler"
     desc: "  The Aspect of Hunger can burrow through solid stone at a Speed of 20 feet. It can leave a tunnel if it desires, and it usually does."
 
   - name: "[[Bestiary Ability Glossary/Swallow Whole|Swallow Whole]]"
-    desc: "`pf2:1` (attack) Huge, 3d10+10 bludgeoning damage plus 2d6 mental damage, Rupture 36\n"
+    desc: "`pf2:1` (attack) Huge, 3d10+10 bludgeoning damage plus 2d6 mental damage, Rupture 36\n\n* * *\n"
 
   - name: "Thrash"
     desc: "`pf2:2`  The Aspect of Hunger makes a Strike once against each creature in its reach. It can Strike up to once with its jaws, up to once with its stinger, and any number of times with its body. Each attack counts toward the Aspect of Hunger's multiple attack penalty, but the multiple attack penalty doesn't increase until after it makes all the attacks."
  
+```
+
+```encounter-table
+name: Aspect of Hunger
+creatures:
+  - 1: Aspect of Hunger
 ```
 
 

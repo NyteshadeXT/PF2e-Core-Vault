@@ -3,6 +3,7 @@ obsidianUIMode: preview
 title: "Cloak of Elvenkind (Greater)"
 cssclasses: pf2e,pf2e-spell
 tags:
+  - trait/illusion
   - trait/invested
   - trait/magical
   - trait/common
@@ -11,7 +12,7 @@ license: OGL
 ---
 # Cloak of Elvenkind (Greater)
 ## Item 12
-### [[invested]][[magical]]
+### [[illusion]][[invested]][[3-Rules/Rule References/Magical]]
 
 
 **Price** 1750 gp; 

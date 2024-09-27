@@ -6,8 +6,9 @@ tags:
   - trait/lizardfolk
   - trait/common
   - category/ancestry
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.FhCsnHjdIUyKteCM"
-license: OGL
+license: ORC
 ---
 # Lizardfolk Lore
 ## Feat 1
@@ -18,7 +19,9 @@ license: OGL
 
 
 
-You listened carefully to the tales passed down among your community. You gain the trained proficiency rank in Nature and Survival. If you would automatically become trained in one of those skills (from your background or class, for example), you instead become trained in a skill of your choice. You also become trained in Iruxi Lore.
+You listened carefully to the tales passed down among your community. You gain the trained proficiency rank in Survival and either Nature or Occultism. If you would automatically become trained in one of those skills (from your background or class, for example), you instead become trained in a skill of your choice.
 
-*Source: Pathfinder Lost Omens: Character Guide*
-*OGL*
+You also gain the [[Feats/Additional Lore|Additional Lore]] general feat for either Astrology Lore or Lizardfolk Lore.
+
+*Source: Pathfinder Player Core 2*
+*ORC*

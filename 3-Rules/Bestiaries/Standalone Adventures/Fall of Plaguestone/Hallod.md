@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/human
   - pf2e/creature/type/humanoid
   - pf2e/creature/type/lawful
+  - pf2eMonster
   - pf2e/creature/level/3
 statblock: inline
 name: "Hallod"
@@ -23,13 +24,13 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Adventure: The Fall of Plaguestone"
 name: "Hallod"
 level: "Creature 3"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Medium"
-trait_01: "evil"
-trait_02: "human"
-trait_03: "humanoid"
-trait_04: "lawful"
+trait_01: [[evil]]
+trait_02: [[human]]
+trait_03: [[humanoid]]
+trait_04: [[lawful]]
 modifier: 9
 perception:
   - name: "Perception"
@@ -69,7 +70,7 @@ attacks:
     desc: "`pf2:1` Heavy Crossbow +10 (range increment 120 feet, reload 2)\n__Damage__  1d10 + 2 piercing"
 
   - name: "Dirty Trick"
-    desc: "  **Trigger** Hallod scores a critical hit with a melee attack.\n**Effect** Hallod can attempt an Athletics check to [[Actions/Shove|Shove]] or [[Actions/Trip|Trip]] the target of his attack. This uses the same multiple attack penalty as the attack, but it does not count as an additional attack for that penalty"
+    desc: "  **Trigger** Hallod scores a critical hit with a melee attack.\n* * *\n\n**Effect** Hallod can attempt an Athletics check to [[Actions/Shove|Shove]] or [[Actions/Trip|Trip]] the target of his attack. This uses the same multiple attack penalty as the attack, but it does not count as an additional attack for that penalty"
 
   - name: "One-Two Move"
     desc: "`pf2:2`  Hallod makes two Strikes, one with each hand; he usually attacks first with his kukri. If this first attack hits, the target is [[Conditions/Off-Guard|Off-Guard]] to the second attack (which for Hallod is usually a fist Strike). The multiple attack penalty applies to these attacks as normal"
@@ -77,6 +78,12 @@ attacks:
   - name: "[[Bestiary Ability Glossary/Sneak Attack|Sneak Attack]]"
     desc: "  Hallod deals 1d6 extra precision damage precision damage to [[Conditions/Off-Guard|Off-Guard]] creatures."
  
+```
+
+```encounter-table
+name: Hallod
+creatures:
+  - 1: Hallod
 ```
 
 

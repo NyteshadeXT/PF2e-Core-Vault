@@ -6,6 +6,7 @@ cssClasses: pf2e
 aliases: "Compendium.pf2e.fall-of-plaguestone-bestiary.Actor.EhtODTbFdElXSyXX" 
 tags:
   - pf2e/creature/type/animal
+  - pf2eMonster
   - pf2e/creature/level/0
 statblock: inline
 name: "Icy Rat"
@@ -20,17 +21,18 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Adventure: The Fall of Plaguestone"
 name: "Icy Rat"
 level: "Creature 0"
-rare_03: "Rare"
+rare_03: [[Rare]]
 alignment: ""
 size: "Small"
-trait_01: "animal"
+trait_01: [[animal]]
 modifier: 5
 perception:
   - name: "Perception"
     desc: "+5; Low-Light Vision, Scent (Imprecise) 30 Feet"
+languages: ""
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +5, Athletics: +3 (+5 to Climb or Swim), Stealth: +7"
+    desc: "Acrobatics: +5, Athletics: +3, Stealth: +7"
 abilityMods: [1, 3, 2, -4, 1, -3]
 speed: 30 feet,  climb 10 feet
 sourcebook: "_Pathfinder Adventure: The Fall of Plaguestone_"
@@ -57,6 +59,12 @@ attacks:
   - name: "Icy Death"
     desc: "  When an icy rat is slain, its body explodes in a burst of frozen fur and bone, dealing 2d4 cold damage to all adjacent creatures (DC 14 Reflex check save)."
  
+```
+
+```encounter-table
+name: Icy Rat
+creatures:
+  - 1: Icy Rat
 ```
 
 

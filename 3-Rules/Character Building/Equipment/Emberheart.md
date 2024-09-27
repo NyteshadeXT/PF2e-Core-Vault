@@ -12,7 +12,7 @@ license: OGL
 ---
 # Emberheart
 ## Item 18
-### [[apex]][[invested]][[magical]]
+### [[apex]][[invested]][[3-Rules/Rule References/Magical]]
 
 
 **Price** 24000 gp; 
@@ -29,7 +29,7 @@ When you invest the amulet, you either increase your Constitution score by 2 or 
 
 **Frequency** once per day
 
-You hold the amulet aloft as a ripple of warm orange light exudes outward. Each ally in a 30-foot emanation regains 30 Hit Points and gains a +3 status bonus to Fortitude saves until the end of their next turn.
+You hold the amulet aloft as a ripple of warm orange light exudes outward. Each ally in a @Template\[emanation|distance:30\] regains 30 Hit Points and gains a +3 status bonus to Fortitude saves until the end of their next turn.
 
 [[Equipment Effects/Effect_ Emberheart|Effect: Emberheart]]
 

@@ -3,6 +3,12 @@ obsidianUIMode: preview
 title: "Medium Armor Expertise"
 cssclasses: pf2e,pf2e-spell
 tags:
+  - trait/alchemist
+  - trait/barbarian
+  - trait/druid
+  - trait/gunslinger
+  - trait/magus
+  - trait/ranger
   - trait/common
   - category/classfeature
   - remaster
@@ -11,7 +17,7 @@ license: ORC
 ---
 # Medium Armor Expertise
 ## Feat 11
-### 
+### [[3-Rules/trait_reference/alchemist]][[3-Rules/trait_reference/barbarian]][[3-Rules/trait_reference/druid]][[gunslinger]][[magus]][[3-Rules/trait_reference/ranger]]
 
 **Category** classfeature; 
 

@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.pathfinder-monster-core.Actor.GdqPoQ2WWnuzEzbu"
 tags:
   - pf2e/creature/type/arcane
   - pf2e/creature/type/dragon
+  - pf2eMonster
   - pf2e/creature/level/19
   - remaster
 statblock: inline
@@ -19,14 +20,15 @@ license: ORC
 columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
+token: [[modules/pf2e-tokens-monster-core/assets/portraits/dragon-fortune-adult.webp| ]]
 source: "Pathfinder Monster Core"
 name: "Fortune Dragon (Ancient, Spellcaster)"
 level: "Creature 19"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "grg"
-trait_01: "arcane"
-trait_02: "dragon"
+trait_01: [[arcane]]
+trait_02: [[dragon]]
 modifier: 30
 perception:
   - name: "Perception"
@@ -34,7 +36,7 @@ perception:
 languages: "Common, Draconic, Dwarven, Petran"
 skills:
   - name: "Skills"
-    desc: "Accounting Lore: +37, Acrobatics: +36, Arcana: +37, Athletics: +34, Crafting: +37, Diplomacy: +32, Mercantile Lore: +37, Thievery: +36"
+    desc: "Acrobatics: +36, Arcana: +37, Athletics: +34, Crafting: +37, Diplomacy: +32, Thievery: +36, Accounting Lore: +37, Mercantile Lore: +37"
 abilityMods: [9, 9, 8, 10, 5, 5]
 speed: 80 feet,  fly 180 feet
 sourcebook: "_Pathfinder Monster Core_"
@@ -77,17 +79,23 @@ attacks:
     desc: "DC 45, attack +37; __10th __ (3 slots) _[[Spells/Chain Lightning|Chain Lightning]]_, _[[Spells/Fireball|Fireball]]_, _[[Spells/Force Barrage|Force Barrage]]_, _[[Spells/Implosion|Implosion]]_, _[[Spells/Quandary|Quandary]]_, _[[Spells/Slither|Slither]]_, _[[Spells/Unfettered Movement|Unfettered Movement]]_, _[[Spells/Warp Mind|Warp Mind]]_\n__Cantrips__  __(10th)__ _[[Spells/Detect Magic|Detect Magic]]_, _[[Spells/Read Aura|Read Aura]]_"
 
   - name: "Disruptive Breath"
-    desc: "`pf2:2` (arcane,force) The dragon unleashes a spray of magic-disrupting energies that deals 18d6 force damage in a 60-foot cone (DC 45 Reflex check save). Creatures that fail become [[Conditions/Stupefied 1|Stupefied 1]] ([[Conditions/Stupefied 1|Stupefied 2]] on a critical failure) for 1 minute.\n\nThe dragon can't use Disruptive Breath again for 1d4 rounds."
+    desc: "`pf2:2` (arcane,force) The dragon unleashes a spray of magic-disrupting energies that deals 18d6 force damage in a @Template[cone|distance:60] (DC 45 Reflex check save). Creatures that fail become [[Conditions/Stupefied|Stupefied 1]] ([[Conditions/Stupefied|Stupefied 2]] on a critical failure) for 1 minute.\n\nThe dragon can't use Disruptive Breath again for 1d4 rounds."
 
   - name: "Drain Hoard"
     desc: "`pf2:1`  **Requirements** The dragon is within 60 feet of their hoard\n\n**Frequency** once per day\n* * *\n\n**Effect** The dragon draws power out of the magic items in their hoard, regaining all their expended spontaneous spell slots."
 
   - name: "Share the Wealth"
-    desc: "`pf2:2`  **Requirements** The dragon's body is covered in riches (this is typically the case when the dragon is first encountered)\n* * *\n\n**Effect** The dragon shakes their body aggressively, sending coins and other riches flying in every direction, dealing 18d10 bludgeoning damage with a DC 40 Reflex check save to all creatures in a 50-foot emanation. The dragon's body is then no longer covered in riches."
+    desc: "`pf2:2`  **Requirements** The dragon's body is covered in riches (this is typically the case when the dragon is first encountered)\n* * *\n\n**Effect** The dragon shakes their body aggressively, sending coins and other riches flying in every direction, dealing 18d10 bludgeoning damage with a DC 40 Reflex check save to all creatures in a @Template[emanation|distance:50]. The dragon's body is then no longer covered in riches."
 
   - name: "Treasure Dive"
     desc: "`pf2:2`  **Requirements** The dragon's body isn't covered in riches and the dragon is adjacent to their hoard\n* * *\n\n**Effect** The dragon Strides or Burrows through their hoard using their land Speed. They coat themself in coins, magic items, and other treasures. This contact with magical items revitalizes the dragon, causing them to regain one expended spontaneous spell slot.\n\nThe dragon can move through other creatures while moving in this way. Creatures in the dragon's path, or above it if the dragon Burrows, must succeed at a DC 38 Reflex check save or be pushed 10 feet (or pushed 20 feet and knocked [[Conditions/Prone|Prone]] on a critical failure)."
  
+```
+
+```encounter-table
+name: Fortune Dragon (Ancient, Spellcaster)
+creatures:
+  - 1: Fortune Dragon (Ancient, Spellcaster)
 ```
 
 

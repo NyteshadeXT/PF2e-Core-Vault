@@ -7,8 +7,9 @@ tags:
   - trait/attack
   - trait/common
   - category/class
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.UEqntGzFrFA7ncUO"
-license: OGL
+license: ORC
 ---
 # Aerial Piledriver `pf2:2`
 ## Feat 10
@@ -32,5 +33,5 @@ Heaving both yourself and your opponent into the air, you bring them crashing to
 
 **Critical Failure** You lose both your grip on the target and your balance. You fall prone, and the target is no longer grabbed or restrained by you.
 
-*Source: Pathfinder Lost Omens: The Grand Bazaar*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

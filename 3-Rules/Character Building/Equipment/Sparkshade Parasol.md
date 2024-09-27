@@ -38,7 +38,7 @@ This large magical parasol shields you from the heat in hot environments, no mat
 
 **Requirements** Flames are dancing on the _sparkshade parasol_ due to you using Parasol's Protection
 
-**Effect** You release captured flames out from your parasol, shooting fire in a 30-foot line. Each creature in the line takes 10d6 fire damage (DC 28 Reflex check save). This activation loses its charge.
+**Effect** You release captured flames out from your parasol, shooting fire in a @Template\[line|distance:30\]. Each creature in the line takes 10d6 fire damage (DC 28 Reflex check save). This activation loses its charge.
 
 *Source: Pathfinder Rage of Elements*
 *OGL*

@@ -6,8 +6,9 @@ tags:
   - trait/archetype
   - trait/common
   - category/class
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.ErKwliHplziJY2BW"
-license: OGL
+license: ORC
 ---
 # Greater Magical Scholastics
 ## Feat 10
@@ -19,9 +20,9 @@ license: OGL
 
 **Prerequisites** Archaeologist Dedication; Magical Scholastics
 * * *
-You broaden your magical studies, allowing you to find the right path, detect objects, and conceal those objects from unscrupulous rivals.
+You broaden your magical studies, allowing you to find the right path, detect hidden objects, and conceal those objects from unscrupulous rivals.
 
-You can cast [[Spells/Augury|Augury]], [[Spells/Locate|Locate]], and [[Spells/Veil of Privacy|Veil of Privacy]] as occult innate spells, each once per day. You can cast this _nondetection_ spell only on an object, and it is automatically heightened to the same spell rank as your cantrips from Magical Scholastics.
+You can cast [[Spells/Augury|Augury]], [[Spells/Locate|Locate]], and [[Spells/Veil of Privacy|Veil of Privacy]] as occult innate spells, each once per day. You can cast this _veil of privacy_ spell only on an object, and it's automatically heightened to half your level rounded up.
 
-*Source: Pathfinder Advanced Player's Guide*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/chaotic
   - pf2e/creature/type/evil
   - pf2e/creature/type/fey
+  - pf2eMonster
   - pf2e/creature/level/8
 statblock: inline
 name: "Caxirus"
@@ -24,13 +25,13 @@ token: [[modules/battlezoo-bestiary-su-pf2e/art/Portraits/caxirus.webp| ]]
 source: "Battlezoo Bestiary: Strange and Unusual"
 name: "Caxirus"
 level: "Creature 8"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Large"
-trait_01: "aquatic"
-trait_02: "chaotic"
-trait_03: "evil"
-trait_04: "fey"
+trait_01: [[aquatic]]
+trait_02: [[chaotic]]
+trait_03: [[evil]]
+trait_04: [[fey]]
 modifier: 18
 perception:
   - name: "Perception"
@@ -38,7 +39,7 @@ perception:
 languages: "Common, Fey"
 skills:
   - name: "Skills"
-    desc: "Athletics: +18, Deception: +16, Intimidation: +18, Nature: +16, Stealth: +18, Survival: +16, "
+    desc: "Athletics: +18, Deception: +16, Intimidation: +18, Nature: +16, Stealth: +18, Survival: +16, Athletics: +18, Deception: +16, Intimidation: +18, Nature: +16, Stealth: +18, Survival: +16"
 abilityMods: [6, 3, 4, 4, 6, 3]
 speed:  swim 30 feet
 sourcebook: "_Battlezoo Bestiary: Strange and Unusual_"
@@ -57,10 +58,10 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Swarm Rejuvenation"
-    desc: "  A caxirus's swarm is part of its true self. After defeating a caxirus, its swarm disperses, and 2d4 days later, one of the constituent creatures grows into a new caxirus if even a single one escapes. While the exact circumstances and surroundings determine how long the caxirus's foes have to dispatch the Fleeing creatures before they escape, usually its foes have only a single round. Typically, this requires the application of an area effect or splash weapon within 1 round to the space where the caxirus collapsed. After any amount of area or splash damage is dealt to that space, the character dealing the damage must attempt a DC 15 Flat check. Each subsequent area or splash damage effect performed on the area reduces the DC of this flat check by 2, to a minimum of DC 5. If any of these flat checks succeed, none of the creatures escapes, and the caxirus is destroyed permanently. At the GM's discretion, clever means of trapping or otherwise detaining the vermin may extend the time allowed to finish off the caxirus."
+    desc: "  A caxirus's swarm is part of its true self. After defeating a caxirus, its swarm disperses, and 2d4 days later, one of the constituent creatures grows into a new caxirus if even a single one escapes. While the exact circumstances and surroundings determine how long the caxirus's foes have to dispatch the [[undefined]] creatures before they escape, usually its foes have only a single round. Typically, this requires the application of an area effect or splash weapon within 1 round to the space where the caxirus collapsed. After any amount of area or splash damage is dealt to that space, the character dealing the damage must attempt a DC 15 Flat check. Each subsequent area or splash damage effect performed on the area reduces the DC of this flat check by 2, to a minimum of DC 5. If any of these flat checks succeed, none of the creatures escapes, and the caxirus is destroyed permanently. At the GM's discretion, clever means of trapping or otherwise detaining the vermin may extend the time allowed to finish off the caxirus."
 
   - name: "Flashing School"
-    desc: " (aura,visual) 20 feet. Creatures within the caxirus's aura are surrounded by a swarm of multicolored flashing fish. A creature entering the aura or starting its turn in the aura must attempt a DC 23 Fortitude check save.\n**Critical Success** The creature is unaffected and is temporarily immune to flashing school for 1 minute.\n**Success** The creature is unaffected.\n**Failure** The creature is Dazzled for 1 round.\n**Critical Failure** The creature is Blinded for 1 round and dazzled for 1 minute."
+    desc: " (aura,visual) 20 feet. Creatures within the caxirus's aura are surrounded by a swarm of multicolored flashing fish. A creature entering the aura or starting its turn in the aura must attempt a DC 23 Fortitude check save.\n* * *\n\n**Critical Success** The creature is unaffected and is temporarily immune to flashing school for 1 minute.\n\n**Success** The creature is unaffected.\n\n**Failure** The creature is [[undefined]] for 1 round.\n\n**Critical Failure** The creature is [[undefined]] for 1 round and dazzled for 1 minute."
 
 attacks:
   - name: ""
@@ -75,20 +76,26 @@ attacks:
     desc: "DC 23, attack +15; __4th __  _[[Spells/Coral Eruption|Coral Eruption]]_, _[[Spells/Hydraulic Torrent|Hydraulic Torrent]]_; __3rd __  _[[Spells/Animal Vision|Animal Vision (At Will)]]_, _[[Spells/Crashing Wave|Crashing Wave]]_; __2nd __  _[[Spells/Darkness|Darkness]]_\n__Cantrips__  __(4th)__ _[[Spells/Spout|Spout]]_"
 
   - name: "Douse Lure"
-    desc: "`pf2:1`  The caxirus turns off the illumination in its lure (normally 20 feet of bright light and 20 feet of dim light), obscuring itself in the flashing lights of its school. It makes Stealth check to Hide without requiring cover or concealment. While it can Hide, it can't use this Hidden condition to Sneak and become Undetected, since it is still clearly positioned in the midst of its school."
+    desc: "`pf2:1`  The caxirus turns off the illumination in its lure (normally 20 feet of bright light and 20 feet of dim light), obscuring itself in the flashing lights of its school. It makes Stealth check to [[Actions/Hide|Hide]] without requiring cover or concealment. While it can Hide, it can't use this [[undefined]] condition to [[undefined]] and become [[Conditions/Undetected|Undetected]], since it is still clearly positioned in the midst of its school."
 
   - name: "Pounce"
-    desc: "`pf2:1`  The caxirus Strides and makes a Strike at the end of that movement. If the caxirus began this action Hidden, it remains hidden until after the Strike."
+    desc: "`pf2:1`  The caxirus Strides and makes a Strike at the end of that movement. If the caxirus began this action [[undefined]], it remains hidden until after the Strike."
 
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
     desc: "`pf2:1`  "
 
   - name: "[[Bestiary Ability Glossary/Constrict|Constrict]]"
-    desc: "`pf2:1`  2d6 + 7 bludgeoning, DC 26 Fortitude check\n"
+    desc: "`pf2:1`  2d6+7 bludgeoning, DC 26 Fortitude check\n\n* * *\n"
 
   - name: "[[Bestiary Ability Glossary/Sneak Attack|Sneak Attack]]"
     desc: "  The caxirus's Strikes deal 2d6 extra precision damage to off-guard creatures."
  
+```
+
+```encounter-table
+name: Caxirus
+creatures:
+  - 1: Caxirus
 ```
 
 
@@ -97,7 +104,7 @@ Reefs are locations full of beautiful and often dangerous life. Unfortunately, m
 
 A caxirus finds and protects one reef from any who would despoil it, whether intentionally or not. An ambush predator, they most commonly attract interlopers with the flashing bioluminescence of their lure and the swarm of fish that surrounds them. Then, as their prey gets close, they douse the light of their lure and sneak up on their victim while the unsuspecting prey continues to be distracted by the smaller fish.
 
-Caxiruses are experts at ambushing their prey, using the small school of bioluminescent fish that always attends them as a distraction before striking from hiding. More often than not, their victims are so Fascinated by the smaller, harmless fish that they never see the main caxirus, with their dangerous teeth and claws, coming.
+Caxiruses are experts at ambushing their prey, using the small school of bioluminescent fish that always attends them as a distraction before striking from hiding. More often than not, their victims are so [[undefined]] by the smaller, harmless fish that they never see the main caxirus, with their dangerous teeth and claws, coming.
 
 The main body of a caxirus, in sharp contrast to the sleek fish that make up their swarm, looks much like an anglerfish, complete with a stubby body, toothy maw, and glowing lure. Unlike an anglerfish, a caxirus has a pair of crustacean- like claws instead of pelvic fins, and its eyes sit at the ends of long stalks that it can rotate independently.
 

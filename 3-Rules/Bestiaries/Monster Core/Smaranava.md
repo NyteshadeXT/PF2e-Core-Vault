@@ -6,6 +6,7 @@ cssClasses: pf2e
 aliases: "Compendium.pf2e.pathfinder-monster-core.Actor.CYyxzpymkIZxX4Zo" 
 tags:
   - pf2e/creature/type/beast
+  - pf2eMonster
   - pf2e/creature/level/7
   - remaster
 statblock: inline
@@ -18,13 +19,14 @@ license: ORC
 columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
+token: [[modules/pf2e-tokens-monster-core/assets/portraits/naga-smaranava.webp| ]]
 source: "Pathfinder Monster Core"
 name: "Smaranava"
 level: "Creature 7"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Large"
-trait_01: "beast"
+trait_01: [[beast]]
 modifier: 15
 perception:
   - name: "Perception"
@@ -66,11 +68,17 @@ attacks:
     desc: " (force,magical) The naga's grip is more spiritual than physical. A creature hit by a smaranava's tail must succeed at a DC 25 Will check save or become [[Conditions/Grabbed|Grabbed]] by the tail until they [[Actions/Escape|Escape]], the naga releases them with an Interact action, or the naga dies.\n\nA captive takes a –4 status penalty to Escape, but can choose to attempt an Occultism or Religion check to Escape instead of the usual options without taking this penalty"
 
   - name: "[[Bestiary Ability Glossary/Constrict|Constrict]]"
-    desc: "`pf2:1`  2d8 + 5 bludgeoning, DC 25 Fortitude check\n\n* * *\n"
+    desc: "`pf2:1`  2d8+5 bludgeoning, DC 25 Fortitude check\n\n* * *\n"
 
   - name: "Smaranava Venom"
-    desc: " (incapacitation,mental,poison) When a holy creature succeeds at a saving throw against this poison, it is immediately cured\n\n**Saving Throw** DC 25 Will check\n* * *\n\n**Maximum Duration** 5 minutes\n\n**Stage 1** [[Conditions/Slowed 1|Slowed 1]] (1 round)\n\n**Stage 2** [[Conditions/Slowed 1|Slowed 2]] (1 round)\n\n**Stage 3** [[Conditions/Unconscious|Unconscious]] with no Perception check to wake up (1 minute)"
+    desc: " (incapacitation,mental,poison) When a holy creature succeeds at a saving throw against this poison, it is immediately cured\n\n**Saving Throw** DC 25 Will check\n* * *\n\n**Maximum Duration** 5 minutes\n\n**Stage 1** [[Conditions/Slowed|Slowed 1]] (1 round)\n\n**Stage 2** [[Conditions/Slowed|Slowed 2]] (1 round)\n\n**Stage 3** [[Conditions/Unconscious|Unconscious]] with no Perception check to wake up (1 minute)"
  
+```
+
+```encounter-table
+name: Smaranava
+creatures:
+  - 1: Smaranava
 ```
 
 

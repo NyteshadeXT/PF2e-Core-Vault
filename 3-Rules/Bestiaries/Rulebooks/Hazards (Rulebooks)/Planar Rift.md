@@ -5,6 +5,7 @@ noteType: pf2eHazard
 tags:
   - magical
   - trap
+  - pf2eHazard
 
   - remaster
 source: Pathfinder GM Core
@@ -23,14 +24,14 @@ name: "Planar Rift"
 level: "Hazard 13"
 
 
-trait_01: "magical"
-trait_02: "trap"
+trait_01: [[magical]]
+trait_02: [[trap]]
 modifier: 25
 sourcebook: "_Pathfinder GM Core_"
 ac: 10
 armorclass:
   - name: AC
-    desc: "10; __Fort__ +0, __Ref__ +0, __Will__ +0"
+    desc: "10; "
 hp: 0
 health:
   - name: ""
@@ -52,9 +53,15 @@ attacks:
   - name: ""
 
   - name: "Into the Great Beyond"
-    desc: "`pf2:r` (occult, teleportation) **Trigger** A creature moves within 10 feet of the rift.\n**Effect** The triggering creature and all creatures within 30 feet of the rift are drawn into another plane. Each creature can attempt a DC 33 Reflex check save to avoid this fate."
+    desc: "`pf2:r` (occult, teleportation) **Trigger** A creature moves within 10 feet of the rift.\n* * *\n\n**Effect** The triggering creature and all creatures within 30 feet of the rift are drawn into another plane. Each creature can attempt a DC 33 Reflex check save to avoid this fate."
 
 
 
+```
+
+```encounter-table
+name: Planar Rift
+creatures:
+  - 1: Planar Rift
 ```
 

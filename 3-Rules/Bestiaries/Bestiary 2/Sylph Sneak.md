@@ -10,6 +10,7 @@ tags:
   - pf2e/creature/type/human
   - pf2e/creature/type/humanoid
   - pf2e/creature/type/sylph
+  - pf2eMonster
   - pf2e/creature/level/1
 statblock: inline
 name: "Sylph Sneak"
@@ -28,11 +29,11 @@ level: "Creature 1"
 
 alignment: ""
 size: "Medium"
-trait_01: "chaotic"
-trait_02: "good"
-trait_03: "human"
-trait_04: "humanoid"
-trait_05: "sylph"
+trait_01: [[chaotic]]
+trait_02: [[good]]
+trait_03: [[human]]
+trait_04: [[humanoid]]
+trait_05: [[sylph]]
 modifier: 5
 perception:
   - name: "Perception"
@@ -60,7 +61,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Deflecting Gale"
-    desc: "`pf2:r` (air,primal) **Trigger** The sylph sneak is the target of a physical ranged attack\n**Requirements** The sylph sneak is aware of the attack\n**Effect** A swift gale whips up between the sylph sneak and the source of the ranged attack, giving the sneak a +3 status bonus to AC against the triggering attack. If the attack misses, the wind deflected it. The wind can't deflect unusually large or heavy ranged projectiles (such as boulders or ballista bolts)."
+    desc: "`pf2:r` (air,primal) **Trigger** The sylph sneak is the target of a physical ranged attack\n\n**Requirements** The sylph sneak is aware of the attack\n* * *\n\n**Effect** A swift gale whips up between the sylph sneak and the source of the ranged attack, giving the sneak a +3 status bonus to AC against the triggering attack. If the attack misses, the wind deflected it. The wind can't deflect unusually large or heavy ranged projectiles (such as boulders or ballista bolts)."
 
 attacks:
   - name: ""
@@ -80,6 +81,12 @@ attacks:
   - name: "Wind's Guidance"
     desc: "  When the sylph sneak attacks with a thrown weapon, the range increment increases by 10 feet."
  
+```
+
+```encounter-table
+name: Sylph Sneak
+creatures:
+  - 1: Sylph Sneak
 ```
 
 

@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/chaotic
   - pf2e/creature/type/evil
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/8
 statblock: inline
 name: "Virthad"
@@ -22,12 +23,12 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Kingmaker"
 name: "Virthad"
 level: "Creature 8"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Medium"
-trait_01: "chaotic"
-trait_02: "evil"
-trait_03: "humanoid"
+trait_01: [[chaotic]]
+trait_02: [[evil]]
+trait_03: [[humanoid]]
 modifier: 18
 perception:
   - name: "Perception"
@@ -55,7 +56,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "End the Charade"
-    desc: "`pf2:r` (attack) **Trigger** The doppelganger is transformed with Change Shape and another creature moves adjacent to it or takes a hostile action against it.\n**Effect** The doppelganger reverts to its natural form and can make a Strike against the triggering creature. If the creature was unaware the doppelganger was in disguise, that creature is [[Conditions/Off-Guard|Off-Guard]] against this attack."
+    desc: "`pf2:r` (attack) **Trigger** The doppelganger is transformed with Change Shape and another creature moves adjacent to it or takes a hostile action against it.\n* * *\n\n**Effect** The doppelganger reverts to its natural form and can make a Strike against the triggering creature. If the creature was unaware the doppelganger was in disguise, that creature is [[Conditions/Off-Guard|Off-Guard]] against this attack."
 
 attacks:
   - name: ""
@@ -73,8 +74,14 @@ attacks:
     desc: "`pf2:1` (arcane,concentrate,polymorph) The doppelganger takes on the specific appearance of any Small or Medium humanoid who it has seen and whose appearance it remembers. This doesn't change the doppelganger's Speed or its attack and damage bonuses with its Strikes but might change the damage type its Strikes deal (typically to bludgeoning)."
 
   - name: "Deploy Flytraps"
-    desc: "`pf2:2` (divine,manipulate) **Requirements** Virthad is carrying a sack of prepared flytrap pods\n**Effect** Virthad dumps the contents of the sack into two adjacent squares while invoking prayers to Lamashtu. The pods grow into two elite [[Bestiary 1/Snapping Flytrap|Snapping Flytraps]] that immediately attack any non-worshipper of Lamashtu they can detect."
+    desc: "`pf2:2` (divine,manipulate) **Requirements** Virthad is carrying a sack of prepared flytrap pods\n* * *\n\n**Effect** Virthad dumps the contents of the sack into two adjacent squares while invoking prayers to Lamashtu. The pods grow into two elite [[Bestiary 1/Snapping Flytrap|Snapping Flytraps]] that immediately attack any non-worshipper of Lamashtu they can detect."
  
+```
+
+```encounter-table
+name: Virthad
+creatures:
+  - 1: Virthad
 ```
 
 

@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/air
   - pf2e/creature/type/chaotic
   - pf2e/creature/type/evil
+  - pf2eMonster
   - pf2e/creature/level/6
 statblock: inline
 name: "Spellvoid"
@@ -26,10 +27,10 @@ level: "Creature 6"
 
 alignment: ""
 size: "Small"
-trait_01: "aberration"
-trait_02: "air"
-trait_03: "chaotic"
-trait_04: "evil"
+trait_01: [[aberration]]
+trait_02: [[air]]
+trait_03: [[chaotic]]
+trait_04: [[evil]]
 modifier: 16
 perception:
   - name: "Perception"
@@ -68,11 +69,17 @@ attacks:
     desc: "`pf2:1` Shock +17 (electricity, magical)\n__Damage__  2d8 + 4 electricity"
 
   - name: "Feed on Magic"
-    desc: "`pf2:1` (concentrate) **Requirement** A creature who can cast spells is within 15 feet of the spellvoid\n**Effect** The spellvoid feeds on the creature's magic. The spellvoid regains 2d8 Hit Points, and the target must attempt a DC 24 Will check save.\nThe target is then temporarily immune for 1 hour.\n**Critical Success** The target is unaffected.\n**Success** The first time the target Casts a Spell before the start of the spellvoid's next turn, the spell is disrupted unless the target succeeds at a DC 15 Flat check check.\n**Failure** As success, but the effect applies the first time the target Casts a Spell within the next minute.\n**Critical Failure** As success, but the effect applies each time the target Casts a Spell within the next minute. In addition, the spellvoid doubles the Hit Points it regains."
+    desc: "`pf2:1` (concentrate) **Requirement** A creature who can cast spells is within 15 feet of the spellvoid\n* * *\n\n**Effect** The spellvoid feeds on the creature's magic. The spellvoid regains 2d8 Hit Points, and the target must attempt a DC 24 Will check save.\n\nThe target is then temporarily immune for 1 hour.\n* * *\n\n**Critical Success** The target is unaffected.\n\n**Success** The first time the target Casts a Spell before the start of the spellvoid's next turn, the spell is disrupted unless the target succeeds at a DC 15 Flat check check.\n\n**Failure** As success, but the effect applies the first time the target Casts a Spell within the next minute.\n\n**Critical Failure** As success, but the effect applies each time the target Casts a Spell within the next minute. In addition, the spellvoid doubles the Hit Points it regains."
 
   - name: "Go Dark"
     desc: "`pf2:1` (concentrate) The will-o'-wisp extinguishes its glow, becoming [[Conditions/Invisible|Invisible]]. It can end this effect with another use of this action. If it uses its shock attack while invisible, the arc of electricity lets any observer determine its location, making the will-o'-wisp only [[Conditions/Hidden|Hidden]] to all observers until it moves."
  
+```
+
+```encounter-table
+name: Spellvoid
+creatures:
+  - 1: Spellvoid
 ```
 
 

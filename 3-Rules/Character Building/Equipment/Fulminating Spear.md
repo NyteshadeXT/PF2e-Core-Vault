@@ -15,7 +15,7 @@ license: OGL
 ---
 # Fulminating Spear
 ## Item 7
-### [uncommon](uncommon "Uncommon Rarity Trait")[[fire]][[magical]][[monk]][[thrown-20]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[3-Rules/Rule References/Fire]][[3-Rules/Rule References/Magical]][[3-Rules/trait_reference/monk]][[thrown-20]]
 
 |  |  |
 | -- | -- |
@@ -34,7 +34,7 @@ This _+1 striking returning spear_ is warm to the touch. The head of the spear i
 
 **Frequency** once per day
 
-**Effect** You touch the ruby and hurl the spear at a square within 40 feet. When the spear lands, it detonates, dealing 6d6 fire damage (DC 23 Reflex check) to all creatures in a 10-foot emanation. It then flies back to your hand.
+**Effect** You touch the ruby and hurl the spear at a square within 40 feet. When the spear lands, it detonates, dealing 6d6 fire damage (DC 23 Reflex check) to all creatures in a @Template\[emanation|distance:10\]. It then flies back to your hand.
 
 *Source: Pathfinder #170: Spoken on the Song Wind*
 *OGL*

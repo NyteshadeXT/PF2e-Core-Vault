@@ -11,6 +11,7 @@ tags:
   - pf2e/creature/type/spirit
   - pf2e/creature/type/undead
   - pf2e/creature/type/unholy
+  - pf2eMonster
   - pf2e/creature/level/4
 statblock: inline
 name: "Charghar"
@@ -25,15 +26,15 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #181: Zombie Feast"
 name: "Charghar"
 level: "Creature 4"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Medium"
-trait_01: "chaotic"
-trait_02: "evil"
-trait_03: "incorporeal"
-trait_04: "spirit"
-trait_05: "undead"
-trait_06: "unholy"
+trait_01: [[chaotic]]
+trait_02: [[evil]]
+trait_03: [[incorporeal]]
+trait_04: [[spirit]]
+trait_05: [[undead]]
+trait_06: [[unholy]]
 modifier: 12
 perception:
   - name: "Perception"
@@ -41,7 +42,7 @@ perception:
 languages: "Common, Necril"
 skills:
   - name: "Skills"
-    desc: "Cooking Lore: +9, Intimidation: +11, Stealth: +12"
+    desc: "Intimidation: +11, Stealth: +12, Cooking Lore: +9"
 abilityMods: [-5, 4, 0, 1, 2, 1]
 speed:  fly 25 feet
 sourcebook: "_Pathfinder #181: Zombie Feast_"
@@ -60,7 +61,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Malevolent Mishaps"
-    desc: " (aura,emotion,mental,occult) 10 feet. The charghar causes clumsiness and uncertainty in those nearby. Each creature that starts its turn in the aura must attempt a DC 21 Will check save.\n**Success** The creature is temporarily immune to Malevolent Mishaps for 1 minute.\n**Failure** The creature becomes [[Conditions/Clumsy 1|Clumsy 1]] and [[Conditions/Stupefied 1|Stupefied 1]] until the start of its next turn. If the creature is living, the charghar Imparts Fears.\n**Critical Failure** As failure, but [[Conditions/Clumsy 1|Clumsy 2]] and [[Conditions/Stupefied 1|Stupefied 2]]."
+    desc: " (aura,emotion,mental,occult) 10 feet. The charghar causes clumsiness and uncertainty in those nearby. Each creature that starts its turn in the aura must attempt a DC 21 Will check save.\n* * *\n\n**Success** The creature is temporarily immune to Malevolent Mishaps for 1 minute.\n\n**Failure** The creature becomes [[Conditions/Clumsy|Clumsy 1]] and [[Conditions/Stupefied|Stupefied 1]] until the start of its next turn. If the creature is living, the charghar Imparts Fears.\n\n**Critical Failure** As failure, but [[Conditions/Clumsy|Clumsy 2]] and [[Conditions/Stupefied|Stupefied 2]]."
 
 attacks:
   - name: ""
@@ -72,8 +73,14 @@ attacks:
     desc: " (divine) Any humanoid creature killed by a charghar and left unburied in the vicinity of a stove, oven, cauldron, or similar object rises as a free-willed charghar at the next dawn."
 
   - name: "Impart Fears"
-    desc: " (curse,divine) A living creature that is struck by a charghar's ghostly cookware Strike or fails a saving throw against the charghar's malevolent mishaps must attempt a DC 21 Will check save. A creature affected by Impart Fears can attempt a new saving throw each day to remove the effect.\n**Success** The creature is temporarily immune to Impart Fears for 24 hours.\n**Failure** The creature becomes [[Conditions/Frightened 1|Frightened 1]] each time it ingests anything or takes an action to prepare any food or drink.\n**Critical Failure** As failure, but [[Conditions/Frightened 1|Frightened 2]], and the creature can't reduce its frightened condition below 1."
+    desc: " (curse,divine) A living creature that is struck by a charghar's ghostly cookware Strike or fails a saving throw against the charghar's malevolent mishaps must attempt a DC 21 Will check save. A creature affected by Impart Fears can attempt a new saving throw each day to remove the effect.\n* * *\n\n**Success** The creature is temporarily immune to Impart Fears for 24 hours.\n\n**Failure** The creature becomes [[Conditions/Frightened|Frightened 1]] each time it ingests anything or takes an action to prepare any food or drink.\n\n**Critical Failure** As failure, but [[Conditions/Frightened|Frightened 2]], and the creature can't reduce its frightened condition below 1."
  
+```
+
+```encounter-table
+name: Charghar
+creatures:
+  - 1: Charghar
 ```
 
 

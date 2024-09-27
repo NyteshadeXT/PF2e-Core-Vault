@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/human
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/15
 statblock: inline
 name: "Jonis Flakfatter"
@@ -22,12 +23,12 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #160: Assault on Hunting Lodge Seven"
 name: "Jonis Flakfatter"
 level: "Creature 15"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Medium"
-trait_01: "evil"
-trait_02: "human"
-trait_03: "humanoid"
+trait_01: [[evil]]
+trait_02: [[human]]
+trait_03: [[humanoid]]
 modifier: 29
 perception:
   - name: "Perception"
@@ -35,7 +36,7 @@ perception:
 languages: "Common, Daemonic, Diabolic, Osiriani, Sakvroth"
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +25, Crafting: +26, Deception: +26, Diplomacy: +26, Intimidation: +26, Norgorber Lore: +28, Religion: +29, Society: +24, Stealth: +25, Thievery: +25"
+    desc: "Acrobatics: +25, Crafting: +26, Deception: +26, Diplomacy: +26, Intimidation: +26, Religion: +29, Society: +24, Stealth: +25, Thievery: +25, Norgorber Lore: +28"
 abilityMods: [0, 4, 2, 3, 6, 3]
 speed: 25 feet
 sourcebook: "_Pathfinder #160: Assault on Hunting Lodge Seven_"
@@ -78,6 +79,12 @@ attacks:
   - name: "Steady Spellcasting"
     desc: "  If a reaction would disrupt Flakfatter's spellcasting action, he attempts a DC 15 Flat check check. On a success, the action isn't disrupted."
  
+```
+
+```encounter-table
+name: Jonis Flakfatter
+creatures:
+  - 1: Jonis Flakfatter
 ```
 
 

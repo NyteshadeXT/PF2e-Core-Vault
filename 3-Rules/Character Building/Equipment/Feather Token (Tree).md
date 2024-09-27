@@ -12,7 +12,7 @@ license: OGL
 ---
 # Feather Token (Tree)
 ## Item 6
-### [[consumable]][[magical]]
+### [[consumable]][[3-Rules/Rule References/Magical]]
 
 **Category** other; 
 **Price** 38 gp; 

@@ -35,7 +35,7 @@ A _growth gun_ is a _+1 striking hand cannon_ made from the regenerative flesh o
 
 * * *
 
-**Effect** Make a ranged Strike. On a hit, the creature becomes covered in a mass of flesh that continues to grow on the target for a brief time. The creature becomes [[Conditions/Slowed 1|Slowed 1]] for 1 round, after which the growth withers and falls off.
+**Effect** Make a ranged Strike. On a hit, the creature becomes covered in a mass of flesh that continues to grow on the target for a brief time. The creature becomes [[Conditions/Slowed|Slowed 1]] for 1 round, after which the growth withers and falls off.
 
 * * *
 

@@ -4,6 +4,7 @@ title: "Tome of Dripping Shadows"
 cssclasses: pf2e,pf2e-spell
 tags:
   - trait/grimoire
+  - trait/illusion
   - trait/magical
   - trait/shadow
   - trait/rare
@@ -12,7 +13,7 @@ license: OGL
 ---
 # Tome of Dripping Shadows
 ## Item 10
-### [rare](rare "Rare Rarity Trait")[[grimoire]][[magical]][[shadow]]
+### [rare](rare "Rare Rarity Trait")[[grimoire]][[illusion]][[magical]][[shadow]]
 
 
 **Price** 1000 gp; 

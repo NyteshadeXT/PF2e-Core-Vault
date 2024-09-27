@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/aberration
   - pf2e/creature/type/amphibious
   - pf2e/creature/type/chaotic
+  - pf2eMonster
   - pf2e/creature/level/18
 statblock: inline
 name: "Shoggoth"
@@ -23,12 +24,12 @@ token: [[modules/pf2e-tokens-bestiaries/portraits/aberrant/eldritch/shoggoth.web
 source: "Pathfinder Bestiary"
 name: "Shoggoth"
 level: "Creature 18"
-rare_03: "Rare"
+rare_03: [[Rare]]
 alignment: ""
 size: "huge"
-trait_01: "aberration"
-trait_02: "amphibious"
-trait_03: "chaotic"
+trait_01: [[aberration]]
+trait_02: [[amphibious]]
+trait_03: [[chaotic]]
 modifier: 34
 perception:
   - name: "Perception"
@@ -64,17 +65,23 @@ attacks:
     desc: "`pf2:1` Pseudopod +35 (magical, reach 30 feet)\n__Damage__  4d10 + 18 bludgeoning plus grab"
 
   - name: "[[Bestiary Ability Glossary/Constrict|Constrict]]"
-    desc: "`pf2:1`  2d10 + 15 bludgeoning, DC 40 Fortitude check\n_Note: A DC was not provided for this ability by Paizo. The DC present here is a moderate DC for the creature level according to the Gamemastery Guide creature building Tables._\n"
+    desc: "`pf2:1`  2d10+15 bludgeoning, DC 40 Fortitude check\n* * *\n\n_Note: A DC was not provided for this ability by Paizo. The DC present here is a moderate DC for the creature level according to the Gamemastery Guide creature building Tables._\n\n* * *\n"
 
   - name: "Eat Away"
     desc: "  A creature that begins its turn inside the shoggoth takes 9d6 acid damage."
 
   - name: "[[Bestiary Ability Glossary/Engulf|Engulf]]"
-    desc: "`pf2:2`  DC 40 Reflex check, 6d6 acid damage, Escape DC 40, Rupture 40\n"
+    desc: "`pf2:2`  DC 40 Reflex check, 6d6 acid damage, Escape DC 40, Rupture 40\n\n* * *\n"
 
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
     desc: "`pf2:1`  "
  
+```
+
+```encounter-table
+name: Shoggoth
+creatures:
+  - 1: Shoggoth
 ```
 
 

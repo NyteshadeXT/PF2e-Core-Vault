@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/construct
   - pf2e/creature/type/earth
   - pf2e/creature/type/mindless
+  - pf2eMonster
   - pf2e/creature/level/5
 statblock: inline
 name: "Mechanical Laborer"
@@ -22,16 +23,17 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #182: Graveclaw"
 name: "Mechanical Laborer"
 level: "Creature 5"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Medium"
-trait_01: "construct"
-trait_02: "earth"
-trait_03: "mindless"
+trait_01: [[construct]]
+trait_02: [[earth]]
+trait_03: [[mindless]]
 modifier: 11
 perception:
   - name: "Perception"
     desc: "+11; Darkvision"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Athletics: +14"
@@ -64,6 +66,12 @@ attacks:
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
     desc: "`pf2:1`  "
  
+```
+
+```encounter-table
+name: Mechanical Laborer
+creatures:
+  - 1: Mechanical Laborer
 ```
 
 

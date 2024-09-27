@@ -11,7 +11,7 @@ license: OGL
 ---
 # Cloak of Feline Rest
 ## Item 1
-### [[invested]][[magical]]
+### [[invested]][[3-Rules/Rule References/Magical]]
 
 
 **Price** 20 gp; 

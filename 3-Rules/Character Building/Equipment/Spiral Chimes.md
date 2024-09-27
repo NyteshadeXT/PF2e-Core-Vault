@@ -12,7 +12,7 @@ license: OGL
 ---
 # Spiral Chimes
 ## Item 13
-### [[3-Rules/Rule References/Air]][[magical]]
+### [[air]][[magical]]
 
 
 **Price** 2500 gp; 
@@ -35,7 +35,7 @@ A set of _spiral chimes_ is a planar key for [[Spells/Interplanar Teleport|Inter
 
 * * *
 
-**Effect** You ring the chimes, blanketing everything in a 30-foot burst within 120 feet in visible, reverberating sound. This can negate invisibility, making creatures [[Conditions/Concealed|Concealed]] instead of [[Conditions/Invisible|Invisible]]. The duration and other effects depend on the result of each creature's attempt at a DC 30 Reflex check save.
+**Effect** You ring the chimes, blanketing everything in a @Template\[burst|distance:30\] within 120 feet in visible, reverberating sound. This can negate invisibility, making creatures [[Conditions/Concealed|Concealed]] instead of [[Conditions/Invisible|Invisible]]. The duration and other effects depend on the result of each creature's attempt at a DC 30 Reflex check save.
 
 * * *
 

@@ -6,6 +6,7 @@ tags:
   - magical
   - trap
   - void
+  - pf2eHazard
 
 source: Pathfinder #176: Lost Mammoth Valley
 aliases: "Compendium.pf2e.quest-for-the-frozen-flame-bestiary.Actor.EsMrRuDoACAxLxno" 
@@ -23,15 +24,15 @@ name: "Soul Draining Cage"
 level: "Hazard 6"
 
 
-trait_01: "magical"
-trait_02: "trap"
-trait_03: "void"
+trait_01: [[magical]]
+trait_02: [[trap]]
+trait_03: [[void]]
 modifier: 15
 sourcebook: "_Pathfinder #176: Lost Mammoth Valley_"
 ac: 10
 armorclass:
   - name: AC
-    desc: "10; __Fort__ +0, __Ref__ +0, __Will__ +0"
+    desc: "10; "
 hp: 0
 health:
   - name: ""
@@ -53,9 +54,15 @@ attacks:
   - name: ""
 
   - name: "Soul Drain"
-    desc: "`pf2:r` (arcane, void) **Trigger** A creature touches the cage bars, door, or lock directly or with a tool\n**Effect** The trap deals 4d8 + 18 void damage to the triggering creature, creatures inside the cage, and all creatures adjacent to the cage (DC 27 Fortitude check). On a failed save, a creature is also [[Conditions/Drained 1|Drained 1]]."
+    desc: "`pf2:r` (arcane, void) **Trigger** A creature touches the cage bars, door, or lock directly or with a tool\n* * *\n\n**Effect** The trap deals 4d8+18 void damage to the triggering creature, creatures inside the cage, and all creatures adjacent to the cage (DC 27 Fortitude check). On a failed save, a creature is also [[Conditions/Drained|Drained 1]]."
 
 
 
+```
+
+```encounter-table
+name: Soul Draining Cage
+creatures:
+  - 1: Soul Draining Cage
 ```
 

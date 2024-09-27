@@ -10,6 +10,7 @@ tags:
   - pf2e/creature/type/skeleton
   - pf2e/creature/type/undead
   - pf2e/creature/type/unholy
+  - pf2eMonster
   - pf2e/creature/level/1
 statblock: inline
 name: "Skeletal Soldier"
@@ -27,15 +28,16 @@ level: "Creature 1"
 
 alignment: ""
 size: "Medium"
-trait_01: "evil"
-trait_02: "mindless"
-trait_03: "skeleton"
-trait_04: "undead"
-trait_05: "unholy"
+trait_01: [[evil]]
+trait_02: [[mindless]]
+trait_03: [[skeleton]]
+trait_04: [[undead]]
+trait_05: [[unholy]]
 modifier: 5
 perception:
   - name: "Perception"
     desc: "+5; Darkvision"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Acrobatics: +5, Athletics: +7, Stealth: +5"
@@ -72,6 +74,12 @@ attacks:
   - name: "Set Defense"
     desc: "`pf2:1`  The skeletal soldier sets its glaive (or other reach weapon) to defend the area around it. It gains the [[Bestiary Ability Glossary/Attack of Opportunity|Attack of Opportunity]] reaction for that weapon only. This lasts until the skeleton takes an action with the move or attack trait or is destroyed."
  
+```
+
+```encounter-table
+name: Skeletal Soldier
+creatures:
+  - 1: Skeletal Soldier
 ```
 
 

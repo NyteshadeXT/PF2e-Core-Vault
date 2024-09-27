@@ -12,6 +12,7 @@ tags:
   - pf2e/creature/type/skeleton
   - pf2e/creature/type/undead
   - pf2e/creature/type/unholy
+  - pf2eMonster
   - pf2e/creature/level/16
 statblock: inline
 name: "Skeleton Rival Corpsekiller"
@@ -26,16 +27,16 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #186: Ghost King&#x27;s Rage"
 name: "Skeleton Rival Corpsekiller"
 level: "Creature 16"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Medium"
-trait_01: "chaotic"
-trait_02: "evil"
-trait_03: "human"
-trait_04: "humanoid"
-trait_05: "skeleton"
-trait_06: "undead"
-trait_07: "unholy"
+trait_01: [[chaotic]]
+trait_02: [[evil]]
+trait_03: [[human]]
+trait_04: [[humanoid]]
+trait_05: [[skeleton]]
+trait_06: [[undead]]
+trait_07: [[unholy]]
 modifier: 28
 perception:
   - name: "Perception"
@@ -80,6 +81,12 @@ attacks:
   - name: "Flamboyant Reposition"
     desc: "`pf2:1` (visual) With a flourish, a celebrant shrouds themself in a puff of smoke, glitter, or colorful ribbons. If the celebrant is adjacent to an enemy, they attempt to [[Actions/Feint|Feint]] that adjacent enemy. The celebrant Steps or Strides; they're [[Conditions/Concealed|Concealed]] during this movement."
  
+```
+
+```encounter-table
+name: Skeleton Rival Corpsekiller
+creatures:
+  - 1: Skeleton Rival Corpsekiller
 ```
 
 

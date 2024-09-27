@@ -10,7 +10,7 @@ license: OGL
 ---
 # Bookthief Brew
 ## Item 1
-### [uncommon](uncommon "Uncommon Rarity Trait")
+### [uncommon](uncommon.md "Uncommon Rarity Trait")
 
 **Category** potion; 
 **Price** 3 gp; 

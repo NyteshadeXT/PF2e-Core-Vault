@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/human
   - pf2e/creature/type/orc
+  - pf2eMonster
   - pf2e/creature/level/7
 statblock: inline
 name: "Shenga Heartrender"
@@ -23,13 +24,13 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Society Scenario #5-06: Ukuja, the First Wall"
 name: "Shenga Heartrender"
 level: "Creature 7"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Medium"
-trait_01: "chaotic"
-trait_02: "evil"
-trait_03: "human"
-trait_04: "orc"
+trait_01: [[chaotic]]
+trait_02: [[evil]]
+trait_03: [[human]]
+trait_04: [[orc]]
 modifier: 15
 perception:
   - name: "Perception"
@@ -66,14 +67,20 @@ attacks:
     desc: "DC 25, attack +17; __4th __ (3 slots) _[[Spells/Divine Wrath|Divine Wrath]]_; __3rd __ (4 slots) _[[Spells/Chilling Darkness|Chilling Darkness]]_, _[[Spells/Crisis of Faith|Crisis of Faith]]_, _[[Spells/Dispel Magic|Dispel Magic]]_; __2nd __ (4 slots) _[[Spells/Clear Mind|Clear Mind (Remove Frightened Only)]]_, _[[Spells/Dispel Magic|Dispel Magic]]_, _[[Spells/Noise Blast|Noise Blast]]_, _[[Spells/Enfeeble|Ray of Enfeeblement]]_; __1st __ (4 slots) _[[Spells/Fear|Fear]]_, _[[Spells/Harm|Harm]]_, _[[Spells/Heal|Heal]]_, _[[Spells/Enfeeble|Ray of Enfeeblement]]_\n__Cantrips__  __(4th)__ _[[Spells/Daze|Daze]]_, _[[Spells/Divine Lance|Divine Lance]]_, _[[Spells/Guidance|Guidance]]_, _[[Spells/Read Aura|Read Aura]]_"
 
   - name: "Sorcerer Bloodline Spells"
-    desc: "2 Focus Points, DC 25, attack +17; __4th __  _[[Spells/Glutton's Jaw|Glutton's Jaw]]_, _[[Spells/Swamp of Sloth|Swamp of Sloth]]_"
+    desc: "2 Focus Points, DC 25, attack +17; __4th __  _[[Spells/Glutton's Jaws|Glutton's Jaw]]_, _[[Spells/Swamp of Sloth|Swamp of Sloth]]_"
 
   - name: "Demon-Touched Weapon"
-    desc: "`pf2:1`  **Frequency** once per turn\n**Requirements** Shenga's most recent action was to cast a non-cantrip spell\n**Effect** Until the end of her next turn, Shenga deals 1d6 bleed damage with her melee Strikes."
+    desc: "`pf2:1`  **Frequency** once per turn\n\n**Requirements** Shenga's most recent action was to cast a non-cantrip spell\n* * *\n\n**Effect** Until the end of her next turn, Shenga deals 1d6 bleed damage with her melee Strikes."
 
   - name: "Reach Spell"
     desc: "`pf2:1` (concentrate,spellshape) If the next action the Shenga Heartrender uses is to Cast a Spell that has a range, increase that spell's range by 30 feet."
  
+```
+
+```encounter-table
+name: Shenga Heartrender
+creatures:
+  - 1: Shenga Heartrender
 ```
 
 

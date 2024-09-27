@@ -5,7 +5,6 @@ cssclasses: pf2e,pf2e-spell
 tags:
   - trait/champion
   - trait/investigator
-  - trait/magus
   - trait/ranger
   - trait/swashbuckler
   - trait/common
@@ -16,7 +15,7 @@ license: ORC
 ---
 # Martial Weapon Mastery
 ## Feat 13
-### [[champion]][[investigator]][[magus]][[ranger]][[swashbuckler]]
+### [[3-Rules/trait_reference/champion]][[investigator]][[3-Rules/trait_reference/ranger]][[swashbuckler]]
 
 **Category** classfeature; 
 

@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/undead
   - pf2e/creature/type/unholy
+  - pf2eMonster
   - pf2e/creature/level/8
 statblock: inline
 name: "Kieragan Skross"
@@ -22,12 +23,12 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Adventure: Crown of the Kobold King"
 name: "Kieragan Skross"
 level: "Creature 8"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Medium"
-trait_01: "evil"
-trait_02: "undead"
-trait_03: "unholy"
+trait_01: [[evil]]
+trait_02: [[undead]]
+trait_03: [[unholy]]
 modifier: 16
 perception:
   - name: "Perception"
@@ -55,7 +56,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "[[Bestiary 3/Herexen/Final Blasphemy|Final Blasphemy]]"
-    desc: " (divine,void) When the herexen is destroyed, it explodes in a wave of void energy with the effects of a 3-action 4th-rank [[Spells/Harm|Harm]] spell (DC 26 Fortitude check).\nThe herexen is destroyed, so it doesn't gain any Hit Points from this use of _harm_, and it doesn't need to have any _harm_ spells remaining to use this ability."
+    desc: " (divine,void) When the herexen is destroyed, it explodes in a wave of void energy with the effects of a 3-action 4th-rank [[Spells/Harm|Harm]] spell (DC 26 Fortitude check).\n\nThe herexen is destroyed, so it doesn't gain any Hit Points from this use of _harm_, and it doesn't need to have any _harm_ spells remaining to use this ability."
 
 attacks:
   - name: ""
@@ -75,6 +76,12 @@ attacks:
   - name: "[[Bestiary 3/Herexen/Heretic's Smite|Heretic's Smite]]"
     desc: " (divine) While wielding the favored weapon of its former deity (such as a dagger for an ex-Pharasmin herexen), the herexen's Strikes deal an additional 2d6 spirit damage against creatures that can cast divine spells."
  
+```
+
+```encounter-table
+name: Kieragan Skross
+creatures:
+  - 1: Kieragan Skross
 ```
 
 

@@ -10,6 +10,7 @@ tags:
   - pf2e/creature/type/ghoul
   - pf2e/creature/type/undead
   - pf2e/creature/type/unholy
+  - pf2eMonster
   - pf2e/creature/level/3
 statblock: inline
 name: "Canker Cultist"
@@ -24,14 +25,14 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #163: Ruins of Gauntlight"
 name: "Canker Cultist"
 level: "Creature 3"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Medium"
-trait_01: "chaotic"
-trait_02: "evil"
-trait_03: "ghoul"
-trait_04: "undead"
-trait_05: "unholy"
+trait_01: [[chaotic]]
+trait_02: [[evil]]
+trait_03: [[ghoul]]
+trait_04: [[undead]]
+trait_05: [[unholy]]
 modifier: 11
 perception:
   - name: "Perception"
@@ -71,10 +72,10 @@ attacks:
     desc: "DC 20, attack +12; __1st __  _[[Spells/Command|Command]]_, _[[Spells/Grim Tendrils|Grim Tendrils]]_, _[[Spells/Harm|Harm]]_, _[[Spells/Phantom Pain|Phantom Pain]]_, _[[Spells/Enfeeble|Ray of Enfeeblement]]_\n__Cantrips__  __(2nd)__ _[[Spells/Void Warp|Chill Touch]]_, _[[Spells/Daze|Daze]]_, _[[Spells/Telekinetic Hand|Mage Hand]]_, _[[Spells/Telekinetic Projectile|Telekinetic Projectile]]_"
 
   - name: "[[Creature Family Ability Glossary/(Ghoul) Consume Flesh|Consume Flesh]]"
-    desc: "`pf2:1` (manipulate) **Requirements** The Canker cultist is adjacent to the corpse of a creature that died within the last hour, or is carrying a specially prepared lump of decaying flesh.\n**Effect** The Canker cultist devours a chunk of the corpse or the lump of decaying flesh and regains Hit Points. They regain 1d6 Hit Points from consuming the flesh of a creature that died within the last hour, and 2d6 Hit Points from the lump.\nThe cultist can regain Hit Points from any given corpse only once."
+    desc: "`pf2:1` (manipulate) **Requirements** The Canker cultist is adjacent to the corpse of a creature that died within the last hour, or is carrying a specially prepared lump of decaying flesh.\n* * *\n\n**Effect** The Canker cultist devours a chunk of the corpse or the lump of decaying flesh and regains Hit Points. They regain 1d6 Hit Points from consuming the flesh of a creature that died within the last hour, and 2d6 Hit Points from the lump.\n\nThe cultist can regain Hit Points from any given corpse only once."
 
   - name: "[[Creature Family Ability Glossary/(Ghoul) Ghoul Fever|Ghoul Fever]]"
-    desc: " (disease) **Saving Throw** DC 20 Fortitude check\n**Stage 1** carrier with no ill effect (1 day)\n**Stage 2** 2d6 void damage and regains half as many Hit Points from all healing (1 day)\n**Stage 3** as stage 2 (1 day)\n**Stage 4** 2d6 void damage and gains no benefit from healing (1 day)\n**Stage 5** as stage 4 (1 day)\n**Stage 6** dead, and rises as a [[Bestiary 1/Ghoul|Ghoul]] the next midnight."
+    desc: " (disease) **Saving Throw** DC 20 Fortitude check\n* * *\n\n**Stage 1** carrier with no ill effect (1 day)\n\n**Stage 2** 2d6 void damage and regains half as many Hit Points from all healing (1 day)\n\n**Stage 3** as stage 2 (1 day)\n\n**Stage 4** 2d6 void damage and gains no benefit from healing (1 day)\n\n**Stage 5** as stage 4 (1 day)\n\n**Stage 6** dead, and rises as a [[Bestiary 1/Ghoul|Ghoul]] the next midnight."
 
   - name: "[[Creature Family Ability Glossary/(Ghoul) Paralysis|Paralysis]]"
     desc: " (incapacitation,occult) Any living, non-elf creature hit by a Canker cultist's attack must succeed at a DC 20 Fortitude check save or become [[Conditions/Paralyzed|Paralyzed]]. It can attempt a new save at the end of each of its turns, and the DC cumulatively decreases by 1 on each such save."
@@ -82,6 +83,12 @@ attacks:
   - name: "[[Creature Family Ability Glossary/(Ghoul) Swift Leap|Swift Leap]]"
     desc: "`pf2:1` (move) The cultist jumps up to half its Speed. This movement doesn't trigger reactions."
  
+```
+
+```encounter-table
+name: Canker Cultist
+creatures:
+  - 1: Canker Cultist
 ```
 
 

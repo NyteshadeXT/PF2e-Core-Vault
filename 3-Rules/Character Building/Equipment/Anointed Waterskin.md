@@ -11,7 +11,7 @@ license: OGL
 ---
 # Anointed Waterskin
 ## Item 9
-### [[divine]][[3-Rules/Rule References/Water]]
+### [[3-Rules/Rule References/Divine]][[3-Rules/Rule References/Water]]
 
 
 **Price** 600 gp; 

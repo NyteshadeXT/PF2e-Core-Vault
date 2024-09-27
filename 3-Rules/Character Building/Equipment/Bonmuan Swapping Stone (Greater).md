@@ -12,7 +12,7 @@ license: OGL
 ---
 # Bonmuan Swapping Stone (Greater)
 ## Item 17
-### [uncommon](uncommon "Uncommon Rarity Trait")[[consumable]][[magical]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[consumable]][[3-Rules/Rule References/Magical]]
 
 **Category** other; 
 **Price** 3000 gp; 

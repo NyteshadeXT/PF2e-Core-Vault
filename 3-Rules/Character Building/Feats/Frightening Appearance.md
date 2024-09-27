@@ -6,8 +6,9 @@ tags:
   - trait/archetype
   - trait/common
   - category/class
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.Ano4tRq88V39eyPq"
-license: OGL
+license: ORC
 ---
 # Frightening Appearance
 ## Feat 12
@@ -23,5 +24,5 @@ Your dramatic appearances can frighten bystanders.
 
 When you make a Startling Appearance, you can also attempt to [[Actions/Demoralize|Demoralize]] each opponent within 10 feet to whom you were unnoticed before your Strike.
 
-*Source: Pathfinder Advanced Player's Guide*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

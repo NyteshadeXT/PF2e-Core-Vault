@@ -6,6 +6,7 @@ cssClasses: pf2e
 aliases: "Compendium.pf2e.lost-omens-highhelm-bestiary.Actor.fQvTnIpC2Wq1U32z" 
 tags:
   - pf2e/creature/type/animal
+  - pf2eMonster
   - pf2e/creature/level/7
 statblock: inline
 name: "Pagulin"
@@ -20,17 +21,18 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Lost Omens: Highhelm"
 name: "Pagulin"
 level: "Creature 7"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Medium"
-trait_01: "animal"
+trait_01: [[animal]]
 modifier: 14
 perception:
   - name: "Perception"
     desc: "+14; Low-Light Vision, Scent (Imprecise) 30 Feet"
+languages: ""
 skills:
   - name: "Skills"
-    desc: "Athletics: +17, Stealth: +15 (+17 in rocky environments), Survival: +15 (+17 to Track a bleeding creature)"
+    desc: "Athletics: +17, Stealth: +15, Survival: +15"
 abilityMods: [6, 3, 4, -4, 3, 0]
 speed: 25 feet,  climb 15 feet
 sourcebook: "_Pathfinder Lost Omens: Highhelm_"
@@ -64,13 +66,13 @@ attacks:
     desc: "`pf2:1` Spit +16 (range 30 feet)\n__Damage__ "
 
   - name: "Blinding Spittle"
-    desc: "  A creature hit by a pagulin's spit must attempt a DC 22 Fortitude check save.\n**Critical Success** The creature is unaffected.\n**Success** The creature is [[Conditions/Dazzled|Dazzled]] for 1 round. It can use an Interact action to wipe away the spittle and remove the dazzled condition.\n**Failure** As success, except the creature is [[Conditions/Blinded|Blinded]] for 1 round instead of dazzled.\n**Critical Failure** As failure, but the creature is blinded for 1 minute. The creature needs 2 total Interact actions to wipe away the spittle."
+    desc: "  A creature hit by a pagulin's spit must attempt a DC 22 Fortitude check save.\n* * *\n\n**Critical Success** The creature is unaffected.\n\n**Success** The creature is [[Conditions/Dazzled|Dazzled]] for 1 round. It can use an Interact action to wipe away the spittle and remove the dazzled condition.\n\n**Failure** As success, except the creature is [[Conditions/Blinded|Blinded]] for 1 round instead of dazzled.\n\n**Critical Failure** As failure, but the creature is blinded for 1 minute. The creature needs 2 total Interact actions to wipe away the spittle."
 
   - name: "[[Bestiary Ability Glossary/Constrict|Constrict]]"
-    desc: "`pf2:1`  1d10 + 6 piercing, DC 25 Fortitude check\n"
+    desc: "`pf2:1`  1d10+6 piercing, DC 25 Fortitude check\n\n* * *\n"
 
   - name: "Spike Rend"
-    desc: "`pf2:1`  **Requirements** The pagulin has a creature impaled on its tail;\n**Effect** The pagulin violently pulls its tail out of the creature, dealing 2d6 persistent bleed damage to the creature."
+    desc: "`pf2:1`  **Requirements** The pagulin has a creature impaled on its tail;\n* * *\n\n**Effect** The pagulin violently pulls its tail out of the creature, dealing 2d6 persistent bleed damage to the creature."
 
   - name: "Tail Impalement"
     desc: "  A creature hit by a pagulin's tail becomes impaled on one of the tail's spikes. The creature becomes [[Conditions/Grabbed|Grabbed]]. If the pagulin moves, it brings the grabbed creature along with it. The pagulin doesn't need to use additional actions to keep the creature grabbed; the creature remains grabbed as long as it's impaled. The grabbed creature can attempt to [[Actions/Escape|Escape]] as normal. Large and larger creatures are immune to a pagulin's Tail Impalement."
@@ -78,6 +80,12 @@ attacks:
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
     desc: "`pf2:1`  "
  
+```
+
+```encounter-table
+name: Pagulin
+creatures:
+  - 1: Pagulin
 ```
 
 

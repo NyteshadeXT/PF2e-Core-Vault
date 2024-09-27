@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/chaotic
   - pf2e/creature/type/human
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/1
 statblock: inline
 name: "Grim Rictus Bridge Guard"
@@ -22,12 +23,12 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Society Scenario #4-02: Return to the Grave"
 name: "Grim Rictus Bridge Guard"
 level: "Creature 1"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Medium"
-trait_01: "chaotic"
-trait_02: "human"
-trait_03: "humanoid"
+trait_01: [[chaotic]]
+trait_02: [[human]]
+trait_03: [[humanoid]]
 modifier: 7
 perception:
   - name: "Perception"
@@ -67,11 +68,17 @@ attacks:
     desc: "`pf2:1` Sap +9 (agile, nonlethal)\n__Damage__  1d6 + 4 bludgeoning"
 
   - name: "Ranged"
-    desc: "`pf2:1` Crossbow +7 (range increment 120 feet, reload 1)\n__Damage__  1d8 piercing"
+    desc: "`pf2:1` Club +7 (thrown 10 ft.)\n__Damage__  1d6 + 4 bludgeoning"
 
   - name: "Ranged"
-    desc: "`pf2:1` Club +7 (thrown 10 ft.)\n__Damage__  1d6 + 4 bludgeoning"
+    desc: "`pf2:1` Crossbow +7 (range increment 120 feet, reload 1)\n__Damage__  1d8 piercing"
  
+```
+
+```encounter-table
+name: Grim Rictus Bridge Guard
+creatures:
+  - 1: Grim Rictus Bridge Guard
 ```
 
 

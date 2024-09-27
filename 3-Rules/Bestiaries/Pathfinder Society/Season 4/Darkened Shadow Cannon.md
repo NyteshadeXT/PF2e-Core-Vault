@@ -4,6 +4,7 @@ obsidianUIMode: preview
 noteType: pf2eHazard
 tags:
   - magical
+  - pf2eHazard
   - complex
 source: Pathfinder Society Scenario #4-08: Battle for Star&#x27;s Fate
 aliases: "Compendium.pf2e.pfs-season-4-bestiary.Actor.UT4hacQMILQiIqSn" 
@@ -21,13 +22,13 @@ name: "Darkened Shadow Cannon"
 level: "Hazard 5"
 
 trait_06: "Complex"
-trait_01: "magical"
+trait_01: [[magical]]
 modifier: 8
 sourcebook: "_Pathfinder Society Scenario #4-08: Battle for Star's Fate_"
 ac: 23
 armorclass:
   - name: AC
-    desc: "23; __Fort__ +17, __Ref__ +10, __Will__ +0"
+    desc: "23; __Fort__ +17, __Ref__ +10, "
 hp: 50
 health:
   - name: ""
@@ -49,12 +50,18 @@ attacks:
   - name: ""
 
   - name: "Load the Cannons"
-    desc: "`pf2:r` **Trigger** The ship flies within 30 feet of Star\n**Effect** The cannon rolls initiative."
+    desc: "`pf2:r` **Trigger** The ship flies within 30 feet of Star\n\n**Effect** The cannon rolls initiative."
   - name: "Melee"
-    desc: "Cannon Blast +13 (range 30 feet) to creatures in a 5-foot burst (DC 21 Reflex check)"
+    desc: "Cannon Blast +13 (range 30 feet) to creatures in a @Template[burst|distance:5] (DC 21 Reflex check)"
 
   - name: "Routine"
     desc: "(1 action) The cannon fires a blast that contains as many PCs as possible, choosing randomly in the event of a tie."
 
+```
+
+```encounter-table
+name: Darkened Shadow Cannon
+creatures:
+  - 1: Darkened Shadow Cannon
 ```
 

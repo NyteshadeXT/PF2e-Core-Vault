@@ -16,7 +16,7 @@ license: OGL
 
 
 
-**Major Curse:** When you would regain Hit Points due to either a vitality or void effect, you lose that many Hit Points instead.
+When you would regain Hit Points due to either a vitality or void effect, you lose that many Hit Points instead.
 
 *Source: Pathfinder Lost Omens: Gods & Magic*
 *OGL*

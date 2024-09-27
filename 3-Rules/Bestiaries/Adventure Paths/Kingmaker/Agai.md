@@ -10,6 +10,7 @@ tags:
   - pf2e/creature/type/gnome
   - pf2e/creature/type/humanoid
   - pf2e/creature/type/spriggan
+  - pf2eMonster
   - pf2e/creature/level/9
 statblock: inline
 name: "Agai"
@@ -24,14 +25,14 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Kingmaker"
 name: "Agai"
 level: "Creature 9"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Small"
-trait_01: "chaotic"
-trait_02: "evil"
-trait_03: "gnome"
-trait_04: "humanoid"
-trait_05: "spriggan"
+trait_01: [[chaotic]]
+trait_02: [[evil]]
+trait_03: [[gnome]]
+trait_04: [[humanoid]]
+trait_05: [[spriggan]]
 modifier: 19
 perception:
   - name: "Perception"
@@ -59,7 +60,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Enraged Growth"
-    desc: "`pf2:r` (polymorph,primal) **Trigger** The spriggan warlord takes damage\n**Effect** The spriggan warlord grows to size Large, along with their equipment (which returns to natural size if removed). The spriggan warlord's reach increases by 5 feet. They regain 15 Hit Points and gain a +2 status bonus to melee attack and damage rolls.\nThis effect continues until the end of the spriggan warlord's next turn, but on any turn in which the spriggan warlord deals damage to another creature and is not [[Conditions/Fatigued|Fatigued]], the effect extends until the end of the following turn.\nWhen Enraged Growth ends, the spriggan warlord is fatigued for 1 hour."
+    desc: "`pf2:r` (polymorph,primal) **Trigger** The spriggan warlord takes damage\n* * *\n\n**Effect** The spriggan warlord grows to size Large, along with their equipment (which returns to natural size if removed). The spriggan warlord's reach increases by 5 feet. They regain 15 Hit Points and gain a +2 status bonus to melee attack and damage rolls.\n\nThis effect continues until the end of the spriggan warlord's next turn, but on any turn in which the spriggan warlord deals damage to another creature and is not [[Conditions/Fatigued|Fatigued]], the effect extends until the end of the following turn.\n\nWhen Enraged Growth ends, the spriggan warlord is fatigued for 1 hour."
 
 attacks:
   - name: ""
@@ -82,6 +83,12 @@ attacks:
   - name: "Warlord's Training"
     desc: "  A spriggan warlord has access to the critical specialization effects for crossbows and morningstars, and the reload of any crossbow they wield is reduced by 1 (to a minimum of 0)."
  
+```
+
+```encounter-table
+name: Agai
+creatures:
+  - 1: Agai
 ```
 
 

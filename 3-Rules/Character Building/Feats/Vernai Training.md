@@ -6,8 +6,9 @@ tags:
   - trait/archetype
   - trait/rare
   - category/class
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.cppQZwnuoXqX8mgF"
-license: OGL
+license: ORC
 ---
 # Vernai Training
 ## Feat 12
@@ -21,17 +22,7 @@ license: OGL
 * * *
 To resurrect a creature you've slain, a spellcaster must counteract your influence on its death. The DC of this check is equal to your class DC or spell DC, whichever is higher.
 
-In addition, add two 5th-rank spells to your Red Mantis assassin spellbook-both spells must be chosen from the following options:
+In addition, you've undergone training to better make use of your magic. Increase the spell slots you gain from Red Mantis assassin archetype feats by 1 for each spell rank other than your two highest Red Mantis spell slots. You can prepare only spells from the Red Mantis magic school curriculum in these extra slots.
 
-*   [[Spells/Death Ward|Death Ward]],
-*   [[Spells/Drop Dead|Drop Dead]],
-*   [[Spells/False Vision|False Vision]],
-*   [[Spells/Hallucination|Hallucination]],
-*   [[Spells/Illusory Scene|Illusory Scene]],
-*   [[Spells/Mind Probe|Mind Probe]], or
-*   [[Spells/Sending|Sending]].
-
-You gain a 5th-rank spell slot that you can use to prepare a spell from your Red Mantis assassin spellbook.
-
-*Source: Pathfinder Lost Omens: Legends*
-*OGL*
+*Source: Pathfinder Adventure: Prey for Death*
+*ORC*

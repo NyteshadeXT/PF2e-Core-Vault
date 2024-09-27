@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/undead
   - pf2e/creature/type/unholy
+  - pf2eMonster
   - pf2e/creature/level/12
 statblock: inline
 name: "Vordakai"
@@ -22,12 +23,12 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Kingmaker"
 name: "Vordakai"
 level: "Creature 12"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Large"
-trait_01: "evil"
-trait_02: "undead"
-trait_03: "unholy"
+trait_01: [[evil]]
+trait_02: [[undead]]
+trait_03: [[unholy]]
 modifier: 23
 perception:
   - name: "Perception"
@@ -35,7 +36,7 @@ perception:
 languages: "Cyclops, Daemonic, Jotun, Necril"
 skills:
   - name: "Skills"
-    desc: "Abaddon Lore: +27, Acrobatics: +20, Arcana: +25, Athletics: +21, Crafting: +23, Deception: +21, Intimidation: +21, Occultism: +25, Religion: +25"
+    desc: "Acrobatics: +20, Arcana: +25, Athletics: +21, Crafting: +23, Deception: +21, Intimidation: +21, Occultism: +25, Religion: +25, Abaddon Lore: +27"
 abilityMods: [5, 4, 5, 7, 5, 5]
 speed: 25 feet
 sourcebook: "_Pathfinder Kingmaker_"
@@ -55,16 +56,16 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Atrophied Lich"
-    desc: "  Sometimes, a lich that remains immobile and insensible for extended periods of time-as Vordakai did after he was imprisoned in his tomb just prior to Earthfall 10,000 years ago-can become atrophied. The exact effects of atrophy vary from lich to lich but always result in a reduction of spellcasting power and damage to their soul cage link.\nIn Vordakai's case, he has forgotten much arcane lore and lost a significant amount of his spellcasting ability. At the height of his power, he was a 20th-level wizard, but today, his power has reduced to that of a 12th-level wizard. More troubling to the lich is the fact that he can no longer use a soul cage to rejuvenate-if Vordakai is destroyed, he crumbles to dust, forever dead. Given time, Vordakai could recover his power and regain his rejuvenation ability, but it's unlikely the PCs will give him that chance, as it would take the lich several years to undo the ravages of centuries."
+    desc: "  Sometimes, a lich that remains immobile and insensible for extended periods of time-as Vordakai did after he was imprisoned in his tomb just prior to Earthfall 10,000 years ago-can become atrophied. The exact effects of atrophy vary from lich to lich but always result in a reduction of spellcasting power and damage to their soul cage link.\n\nIn Vordakai's case, he has forgotten much arcane lore and lost a significant amount of his spellcasting ability. At the height of his power, he was a 20th-level wizard, but today, his power has reduced to that of a 12th-level wizard. More troubling to the lich is the fact that he can no longer use a soul cage to rejuvenate-if Vordakai is destroyed, he crumbles to dust, forever dead. Given time, Vordakai could recover his power and regain his rejuvenation ability, but it's unlikely the PCs will give him that chance, as it would take the lich several years to undo the ravages of centuries."
 
   - name: "Counterspell"
-    desc: "`pf2:r`  **Trigger** A creature casts a spell Vordakai has prepared.\n**Effect** Vordakai expends a prepared spell to counter the triggering creature's casting of that same spell. He loses its spell slot as if he had cast the triggering spell. He then attempts to counteract the triggering spell."
+    desc: "`pf2:r`  **Trigger** A creature casts a spell Vordakai has prepared.\n\n**Effect** Vordakai expends a prepared spell to counter the triggering creature's casting of that same spell. He loses its spell slot as if he had cast the triggering spell. He then attempts to counteract the triggering spell."
 
   - name: "Flash of Insight"
-    desc: "`pf2:0` (fortune,occult) **Frequency** once per day.\n**Trigger** Vordakai is about to roll a d20.\n**Effect** Vordakai peers into an occluded spectrum of possible futures. He gets a success (but not a critical success) without rolling."
+    desc: "`pf2:0` (fortune,occult) **Frequency** once per day.\n\n**Trigger** Vordakai is about to roll a d20.\n\n**Effect** Vordakai peers into an occluded spectrum of possible futures. He gets a success (but not a critical success) without rolling."
 
   - name: "[[Bestiary Ability Glossary/Frightful Presence|Frightful Presence]]"
-    desc: " (aura,emotion,fear,mental) 60 feet. DC 29 Will check\n"
+    desc: " (aura,emotion,fear,mental) 60 feet. DC 29 Will check\n\n* * *\n"
 
   - name: "Steady Spellcasting"
     desc: "  If a reaction would disrupt Vordakai's spellcasting action, the lich attempts a DC 15 Flat check. On a success, the action isn't disrupted."
@@ -82,17 +83,23 @@ attacks:
     desc: "_[[Spells/Create Undead|Create Undead]]_, _[[Spells/Imprisonment|Imprisonment (Cannot Currently Cast)]]_, _[[Spells/Binding Circle|Planar Binding]]_"
 
   - name: "Consume Memories"
-    desc: "`pf2:2` (arcane,attack,mental) Vordakai draws out a creature's memories and consumes them, learning bits and pieces of the world through the victim's thoughts. The lich makes a hand Strike against the target; if he hits, he deals 6d6 void damage. The target must attempt a DC 32 Will check save, after which it is temporarily immune to Consume Memories for 24 hours.\n**Critical Success** The target takes no additional ill effects.\n**Success** The target becomes [[Conditions/Stupefied 1|Stupefied 1]] for 1 round.\n**Failure** The target becomes stupefied 1 with an unlimited duration. Vordakai gains a +1 status bonus to all skill checks for 1 minute as a result of the consumed memories.\n**Critical Failure** As failure, but the target is [[Conditions/Stupefied 1|Stupefied 2]] with an unlimited duration. In addition, Vordakai can telepathically learn one specific bit of secret information known by the victim, subject to the GM's discretion.\n[[Bestiary Effects/Effect_ Consume Memories|Effect: Consume Memories]]"
+    desc: "`pf2:2` (arcane,attack,mental) Vordakai draws out a creature's memories and consumes them, learning bits and pieces of the world through the victim's thoughts. The lich makes a hand Strike against the target; if he hits, he deals 6d6 void damage. The target must attempt a DC 32 Will check save, after which it is temporarily immune to Consume Memories for 24 hours.\n* * *\n\n**Critical Success** The target takes no additional ill effects.\n\n**Success** The target becomes [[Conditions/Stupefied|Stupefied 1]] for 1 round.\n\n**Failure** The target becomes stupefied 1 with an unlimited duration. Vordakai gains a +1 status bonus to all skill checks for 1 minute as a result of the consumed memories.\n\n**Critical Failure** As failure, but the target is [[Conditions/Stupefied|Stupefied 2]] with an unlimited duration. In addition, Vordakai can telepathically learn one specific bit of secret information known by the victim, subject to the GM's discretion.\n\n[[Bestiary Effects/Effect_ Consume Memories|Effect: Consume Memories]]"
 
   - name: "Drain Oculus"
-    desc: "  **Frequency** once per day\n**Effect** Vordakai taps into the _Oculus of Abaddon's_ power to cast any arcane spell up to 6th level, even if the spell being cast is not one of his prepared spells."
+    desc: "  **Frequency** once per day\n\n**Effect** Vordakai taps into the _Oculus of Abaddon's_ power to cast any arcane spell up to 6th level, even if the spell being cast is not one of his prepared spells."
 
   - name: "Familiar"
     desc: "  Vordakai's familiar is Horagnamon"
 
   - name: "[[Creature Family Ability Glossary/(Lich) Paralyzing Touch|Paralyzing Touch]]"
-    desc: " (arcane,curse,incapacitation) A creature damaged by the lich's hand Strike must succeed at a DC 32 Fortitude check save.\nThe creature becomes [[Conditions/Paralyzed|Paralyzed]] for 1 round on a failure. On a critical failure, the creature is paralyzed permanently, falls [[Conditions/Prone|Prone]], and seems dead. A DC 25 Medicine check check reveals the victim is alive."
+    desc: " (arcane,curse,incapacitation) A creature damaged by the lich's hand Strike must succeed at a DC 32 Fortitude check save.\n\nThe creature becomes [[Conditions/Paralyzed|Paralyzed]] for 1 round on a failure. On a critical failure, the creature is paralyzed permanently, falls [[Conditions/Prone|Prone]], and seems dead. A DC 25 Medicine check check reveals the victim is alive."
  
+```
+
+```encounter-table
+name: Vordakai
+creatures:
+  - 1: Vordakai
 ```
 
 

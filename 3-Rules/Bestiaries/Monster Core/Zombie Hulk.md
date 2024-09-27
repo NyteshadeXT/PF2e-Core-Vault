@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/undead
   - pf2e/creature/type/unholy
   - pf2e/creature/type/zombie
+  - pf2eMonster
   - pf2e/creature/level/6
   - remaster
 statblock: inline
@@ -28,10 +29,10 @@ level: "Creature 6"
 
 alignment: ""
 size: "huge"
-trait_01: "mindless"
-trait_02: "undead"
-trait_03: "unholy"
-trait_04: "zombie"
+trait_01: [[mindless]]
+trait_02: [[undead]]
+trait_03: [[unholy]]
+trait_04: [[zombie]]
 modifier: 8
 perception:
   - name: "Perception"
@@ -75,6 +76,12 @@ attacks:
   - name: "Wide Swing"
     desc: "`pf2:1`  The zombie hulk makes two hunk of meat Strikes against different targets within its reach."
  
+```
+
+```encounter-table
+name: Zombie Hulk
+creatures:
+  - 1: Zombie Hulk
 ```
 
 

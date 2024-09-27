@@ -6,6 +6,7 @@ cssClasses: pf2e
 aliases: "Compendium.pf2e.pfs-season-1-bestiary.Actor.24UI02EJVRSO6KZx" 
 tags:
   - pf2e/creature/type/animal
+  - pf2eMonster
   - pf2e/creature/level/-1
 statblock: inline
 name: "House Cat"
@@ -23,11 +24,12 @@ level: "Creature -1"
 
 alignment: ""
 size: "tiny"
-trait_01: "animal"
+trait_01: [[animal]]
 modifier: 6
 perception:
   - name: "Perception"
     desc: "+6; Low-Light Vision, Scent (Imprecise) 30 Feet"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Acrobatics: +4, Athletics: +4, Stealth: +5, Survival: +4"
@@ -58,8 +60,14 @@ attacks:
     desc: "`pf2:1` Claw +6 (agile, finesse)\n__Damage__  1d4 slashing"
 
   - name: "Land on Feet"
-    desc: "`pf2:r`  **Trigger** The cat falls between 10 and 100 feet\n**Effect** The cat treats the fall as if it were only 5 feet."
+    desc: "`pf2:r`  **Trigger** The cat falls between 10 and 100 feet\n* * *\n\n**Effect** The cat treats the fall as if it were only 5 feet."
  
+```
+
+```encounter-table
+name: House Cat
+creatures:
+  - 1: House Cat
 ```
 
 

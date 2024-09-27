@@ -10,6 +10,7 @@ tags:
   - pf2e/creature/type/undead
   - pf2e/creature/type/unholy
   - pf2e/creature/type/vampire
+  - pf2eMonster
   - pf2e/creature/level/8
 statblock: inline
 name: "Vetalarana Emergent"
@@ -27,11 +28,11 @@ level: "Creature 8"
 
 alignment: ""
 size: "Medium"
-trait_01: "chaotic"
-trait_02: "evil"
-trait_03: "undead"
-trait_04: "unholy"
-trait_05: "vampire"
+trait_01: [[chaotic]]
+trait_02: [[evil]]
+trait_03: [[undead]]
+trait_04: [[unholy]]
+trait_05: [[vampire]]
 modifier: 14
 perception:
   - name: "Perception"
@@ -59,10 +60,10 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "[[Creature Family Ability Glossary/(Vampire, Vetalarana, Basic) Mental Rebirth|Mental Rebirth]]"
-    desc: " (curse,incapacitation,mental,occult) Unlike most other undead, a vetalarana isn't destroyed when they reach 0 HP. Instead, their body is destroyed, crumbling to ash, and their mind is immediately transferred into a creature they rendered comatose through Drain Thoughts. This creature must be within 1 mile; if no such creature is in range, the vetalarana is destroyed. The creature becomes controlled by the vetalarana and loses the stupefied and [[Conditions/Unconscious|Unconscious]] conditions. If the creature controlled by a vetalarana in this way is killed, the vetalarana's mind transfers to another creature within 1 mile who they rendered comatose through Drain Thoughts.\nAfter 1d6 days of being controlled, the controlled creature dies, and its body transforms into that of the vetalarana who rendered it comatose."
+    desc: " (curse,incapacitation,mental,occult) Unlike most other undead, a vetalarana isn't destroyed when they reach 0 HP. Instead, their body is destroyed, crumbling to ash, and their mind is immediately transferred into a creature they rendered comatose through Drain Thoughts. This creature must be within 1 mile; if no such creature is in range, the vetalarana is destroyed. The creature becomes controlled by the vetalarana and loses the stupefied and [[Conditions/Unconscious|Unconscious]] conditions. If the creature controlled by a vetalarana in this way is killed, the vetalarana's mind transfers to another creature within 1 mile who they rendered comatose through Drain Thoughts.\n\nAfter 1d6 days of being controlled, the controlled creature dies, and its body transforms into that of the vetalarana who rendered it comatose."
 
   - name: "[[Creature Family Ability Glossary/(Vampire, Vetalarana, Basic) Vetalarana Vulnerabilities|Vetalarana Vulnerabilities]]"
-    desc: "  All vetalaranas possess the following weaknesses.\n*   **Barred Senses** A vetalarana can't see or sense through force effects or cold iron, and their mind can't penetrate force effects or cold iron. Such barriers can prevent the transference of a vetalarana's mind through Mental Rebirth.\n*   **Revulsion** A vetalarana delights in consuming memories and secrets, and is disgusted by those who share such sensitive tidbits openly. A vetalarana can't voluntarily come within 10 feet of a creature loudly voicing their intimate personal secrets or most cherished memories aloud. Speaking such information aloud with conviction is a single action that has the auditory, concentrate, and linguistic traits, and protects the creature until the start of its next turn. A vetalarana that involuntarily comes within 10 feet of a creature sharing such information gains the [[Conditions/Fleeing|Fleeing]] condition until they're 10 feet or farther from the creature. After 1 round of being exposed to the secrets of a creature, a vetalarana can attempt a DC 25 Will check save as a single action, which has the concentrate trait. On a success, they overcome their revulsions for 1d6 rounds (or 1 hour on a critical success).\n*   **Vulnerable to Brain Destruction** A vetalarana whose brain has been destroyed, or is reduced to 0 HP while unable to take mental actions, can't use Mental Rebirth."
+    desc: "  All vetalaranas possess the following weaknesses.\n\n*   **Barred Senses** A vetalarana can't see or sense through force effects or cold iron, and their mind can't penetrate force effects or cold iron. Such barriers can prevent the transference of a vetalarana's mind through Mental Rebirth.\n*   **Revulsion** A vetalarana delights in consuming memories and secrets, and is disgusted by those who share such sensitive tidbits openly. A vetalarana can't voluntarily come within 10 feet of a creature loudly voicing their intimate personal secrets or most cherished memories aloud. Speaking such information aloud with conviction is a single action that has the auditory, concentrate, and linguistic traits, and protects the creature until the start of its next turn. A vetalarana that involuntarily comes within 10 feet of a creature sharing such information gains the [[Conditions/Fleeing|Fleeing]] condition until they're 10 feet or farther from the creature. After 1 round of being exposed to the secrets of a creature, a vetalarana can attempt a DC 25 Will check save as a single action, which has the concentrate trait. On a success, they overcome their revulsions for 1d6 rounds (or 1 hour on a critical success).\n*   **Vulnerable to Brain Destruction** A vetalarana whose brain has been destroyed, or is reduced to 0 HP while unable to take mental actions, can't use Mental Rebirth."
 
 attacks:
   - name: ""
@@ -77,11 +78,17 @@ attacks:
     desc: "  The vetalarana emergent uses consumed memories to anticipate their prey's movements. The vetalarana emergent's Strikes deal an additional 1d8 precision damage to creatures stupefied due to the vetalarana's Drain Thoughts."
 
   - name: "[[Creature Family Ability Glossary/(Vampire, Vetalarana, Basic) Drain Thoughts|Drain Thoughts]]"
-    desc: "`pf2:1` (mental,occult) **Requirements** A [[Conditions/Grabbed|Grabbed]], [[Conditions/Paralyzed|Paralyzed]], [[Conditions/Restrained|Restrained]], [[Conditions/Unconscious|Unconscious]], or willing creature is within the vetalarana's reach\n**Effect** The vetalarana seizes a creature and consumes its memories. This requires an Athletics check check against the victim's Fortitude DC if the victim is grabbed and is automatic for any of the other conditions. The victim is [[Conditions/Stupefied 1|Stupefied 1]], and the vetalarana regains 10 HP, gaining any excess as temporary Hit Points. Draining Thoughts from a creature that is already stupefied doesn't restore any HP to the vetalarana but increases the victim's stupefied value by 1. Additionally, the vetalarana views one of the victim's memories.\nA victim's stupefied condition value decreases by 1 every week.\nA victim that becomes stupefied 5 in this way is rendered comatose, becoming permanently [[Conditions/Unconscious|Unconscious]]. As long as the vetalarana lives, a comatose victim can't regain consciousness, and its stupefied condition doesn't decrease."
+    desc: "`pf2:1` (mental,occult) **Requirements** A [[Conditions/Grabbed|Grabbed]], [[Conditions/Paralyzed|Paralyzed]], [[Conditions/Restrained|Restrained]], [[Conditions/Unconscious|Unconscious]], or willing creature is within the vetalarana's reach\n* * *\n\n**Effect** The vetalarana seizes a creature and consumes its memories. This requires an Athletics check check against the victim's Fortitude DC if the victim is grabbed and is automatic for any of the other conditions. The victim is [[Conditions/Stupefied|Stupefied 1]], and the vetalarana regains 10 HP, gaining any excess as temporary Hit Points. Draining Thoughts from a creature that is already stupefied doesn't restore any HP to the vetalarana but increases the victim's stupefied value by 1. Additionally, the vetalarana views one of the victim's memories.\n\nA victim's stupefied condition value decreases by 1 every week.\n\nA victim that becomes stupefied 5 in this way is rendered comatose, becoming permanently [[Conditions/Unconscious|Unconscious]]. As long as the vetalarana lives, a comatose victim can't regain consciousness, and its stupefied condition doesn't decrease."
 
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
     desc: "`pf2:1`  "
  
+```
+
+```encounter-table
+name: Vetalarana Emergent
+creatures:
+  - 1: Vetalarana Emergent
 ```
 
 

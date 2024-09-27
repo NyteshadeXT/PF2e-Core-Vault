@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/fungus
   - pf2e/creature/type/leshy
+  - pf2eMonster
   - pf2e/creature/level/4
 statblock: inline
 name: "Skibrellon"
@@ -22,17 +23,17 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #193: Mantle of Gold"
 name: "Skibrellon"
 level: "Creature 4"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Small"
-trait_01: "evil"
-trait_02: "fungus"
-trait_03: "leshy"
+trait_01: [[evil]]
+trait_02: [[fungus]]
+trait_03: [[leshy]]
 modifier: 11
 perception:
   - name: "Perception"
     desc: "+11; Darkvision"
-languages: "Common, Fey, Sakvroth, Wildsong"
+languages: "Common, Fey, Sakvroth, Wildsong; speak with plants (fungi only)"
 skills:
   - name: "Skills"
     desc: "Athletics: +8, Nature: +10, Occultism: +10, Stealth: +11"
@@ -58,7 +59,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Spore Burst"
-    desc: " (healing,void) When a hyphae tyrant dies, a burst of primal energy explodes from its body in a 30-foot emanation, restoring 3d8 to each fungus creature and dealing 3d8 void damage (basic Fortitude save) to each non-fungus creature in the area. This area is filled with fungus, becoming difficult terrain."
+    desc: " (healing,void) When a hyphae tyrant dies, a burst of primal energy explodes from its body in a @Template[emanation|distance:30], restoring 3d8 to each fungus creature and dealing 3d8 void damage (basic Fortitude save) to each non-fungus creature in the area. This area is filled with fungus, becoming difficult terrain."
 
 attacks:
   - name: ""
@@ -82,14 +83,20 @@ attacks:
     desc: "_[[Item.QQlTyMFNG67mq3lQ|Create Mycoguardian]]_"
 
   - name: "[[Bestiary Ability Glossary/Change Shape|Change Shape]]"
-    desc: "`pf2:1` (concentrate,polymorph) The hyphae tyrant transforms into a Small fungus. This ability otherwise uses the effects of [[Spells/One with Plants|One with Plants]].\n"
+    desc: "`pf2:1` (concentrate,polymorph) The hyphae tyrant transforms into a Small fungus. This ability otherwise uses the effects of [[Spells/One with Plants|One with Plants]].\n\n* * *\n"
 
   - name: "[[Actor.zMoOfK6QSycciTaG.Item.eA8XIQs39g3Y3ATP|Spore Cloud]]"
-    desc: "`pf2:1` (poison) A hyphae tyrant unleashes a cloud of spores in a 20-foot emanation. Each non-fungi creature in this area must succeed at a DC 20 Fortitude check save or take 2 persistent poison damage. A creature has its vision reduced as long as the persistent damage continues and can see only within 20 feet (or 10 feet on a critical failure)."
+    desc: "`pf2:1` (poison) A hyphae tyrant unleashes a cloud of spores in a @Template[emanation|distance:20]. Each non-fungi creature in this area must succeed at a DC 20 Fortitude check save or take 2 persistent poison damage. A creature has its vision reduced as long as the persistent damage continues and can see only within 20 feet (or 10 feet on a critical failure)."
 
   - name: "Spores"
     desc: "  A creature that takes damage from a hyphae tyrant's spore pod Strike must attempt a saving throw with the same DC and effect as its Spore Cloud ability."
  
+```
+
+```encounter-table
+name: Skibrellon
+creatures:
+  - 1: Skibrellon
 ```
 
 

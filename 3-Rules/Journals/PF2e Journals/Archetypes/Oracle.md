@@ -16,9 +16,9 @@ A mysterious force granted you divine magic and a curse.
 
 * * *
 
-Choose a mystery. You become trained in Religion and the mystery's skill; if you were already trained, you become trained in a skill of your choice. You gain the mild, constant effects of the mystery's curse described in its first paragraph, but not other effects the mystery usually grants. You cast spells like an oracle and gain the Cast a Spell activity. You gain a spell repertoire with two cantrips, either common divine cantrips or other divine cantrips you learn or discover. You're trained in divine spell attack rolls and divine spell DCs. Your key spellcasting attribute for oracle archetype spells is Charisma, and they are divine oracle spells.
+Choose a [[Class Features/Mystery|Mystery]].You become trained in Religion and the mystery's skill; if you were already trained, you become trained in a skill of your choice. You gain the curse associated with your mystery, which follows the normal rules for an oracular curse.
 
-**Special** You can't select another dedication feat until you have gained two other feats from the oracle archetype.
+You cast spells like an oracle and gain the Cast a Spell activity. You gain a spell repertoire with two cantrips, either common divine cantrips or other divine cantrips you learn or discover. You're trained in the spell attack modifier and spell DC statistics. Your key spellcasting attribute for oracle archetype spells is Charisma, and they are divine oracle spells.
 
 ## [[Feats/Basic Mysteries|Basic Mysteries]] Feat 4
 
@@ -34,7 +34,7 @@ You gain a 1st- or 2nd-level oracle feat of your choice.
 
 * * *
 
-You gain the basic spellcasting benefits. When you gain a spell slot of a new level from the oracle archetype, add a common divine spell or another divine spell you have learned or discovered to your repertoire, of that spell rank.
+You gain the [[PF2e Journals/Archetypes/Basic Spellcasting Feat|Basic Spellcasting Feat]] benefits. When you gain a spell slot of a new rank from the oracle archetype, add a common divine spell or another divine spell you have learned or discovered (including the granted spells associated with your mystery) to your repertoire, of that spell rank.
 
 ## [[Feats/First Revelation|First Revelation]] Feat 4
 
@@ -42,9 +42,9 @@ You gain the basic spellcasting benefits. When you gain a spell slot of a new le
 
 * * *
 
-You gain your mystery's initial revelation spell. Casting this spell progresses your curse. Use the minor curse from your mystery, but when you progress it again, instead of your mystery's moderate curse effect, you become off-guard in addition to the effects of the minor curse.
+You gain your mystery's initial revelation spell.
 
-If you don't have one, you gain a focus pool of 1 Focus Point. You can Refocus by reconciling the conflicting nature of your mystery, which also reduces your curse to minor.
+If you don't have one, you gain a focus pool of 1 Focus Point. You can Refocus by reconciling the conflicting nature of your mystery, which also reduces your Cursebound value by 1.
 
 ## [[Feats/Advanced Mysteries|Advanced Mysteries]] Feat 6
 

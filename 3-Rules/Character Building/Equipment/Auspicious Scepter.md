@@ -13,7 +13,7 @@ license: OGL
 ---
 # Auspicious Scepter
 ## Item 5
-### [[magical]][[shove]]
+### [[3-Rules/Rule References/Magical]][[3-Rules/trait_reference/shove]]
 
 |  |  |
 | -- | -- |

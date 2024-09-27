@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/humanoid
   - pf2e/creature/type/kobold
   - pf2e/creature/type/lawful
+  - pf2eMonster
   - pf2e/creature/level/2
 statblock: inline
 name: "Kobold Dragon Mage (1-14)"
@@ -26,10 +27,10 @@ level: "Creature 2"
 
 alignment: ""
 size: "Small"
-trait_01: "evil"
-trait_02: "humanoid"
-trait_03: "kobold"
-trait_04: "lawful"
+trait_01: [[evil]]
+trait_02: [[humanoid]]
+trait_03: [[kobold]]
+trait_04: [[lawful]]
 modifier: 5
 perception:
   - name: "Perception"
@@ -37,7 +38,7 @@ perception:
 languages: "Common, Draconic"
 skills:
   - name: "Skills"
-    desc: "Arcana: +6, Deception: +8, Diplomacy: +8, Dragon Lore: +10, Intimidation: +8, Stealth: +7"
+    desc: "Arcana: +6, Deception: +8, Diplomacy: +8, Intimidation: +8, Stealth: +7, Dragon Lore: +10"
 abilityMods: [-1, 3, 0, 2, 1, 4]
 speed: 25 feet
 sourcebook: "_Pathfinder Society Scenario #1-14: Lions of Katapesh_"
@@ -72,11 +73,17 @@ attacks:
     desc: "DC 20, attack +8; __1st __ (4 slots) _[[Spells/Fear|Fear]]_, _[[Spells/Illusory Object|Illusory Object]]_, _[[Spells/Force Barrage|Magic Missile]]_\n__Cantrips__  __(1st)__ _[[Spells/Detect Magic|Detect Magic]]_, _[[Spells/Electric Arc|Electric Arc]]_, _[[Spells/Ghost Sound|Ghost Sound]]_, _[[Spells/Telekinetic Hand|Mage Hand]]_, _[[Spells/Tangle Vine|Tanglefoot]]_"
 
   - name: "Illusory Retreat"
-    desc: "`pf2:3` (arcane,illusion,manipulate,move) **Frequency** once per hour\n**Requirements** The kobold dragon mage is adjacent to at least one enemy.\n**Effect** The dragon mage creates an illusion of itself in its square and then becomes [[Conditions/Invisible|Invisible]] (with the effects of a 2nd-rank [[Spells/Invisibility|Invisibility]] spell) for 1d4 rounds. The dragon mage can move up to half its Speed, but it must end its movement in a space that's not adjacent to any enemies.\nThis is a 1st-rank spell that requires a somatic component."
+    desc: "`pf2:3` (arcane,illusion,manipulate,move) **Frequency** once per hour\n\n**Requirements** The kobold dragon mage is adjacent to at least one enemy.\n* * *\n\n**Effect** The dragon mage creates an illusion of itself in its square and then becomes [[Conditions/Invisible|Invisible]] (with the effects of a 2nd-rank [[Spells/Invisibility|Invisibility]] spell) for 1d4 rounds. The dragon mage can move up to half its Speed, but it must end its movement in a space that's not adjacent to any enemies.\n\nThis is a 1st-rank spell that requires a somatic component."
 
   - name: "[[Bestiary Ability Glossary/Sneak Attack|Sneak Attack]]"
     desc: "  The dragon mage deals an extra 1d6 precision damage to [[Conditions/Off-Guard|Off-Guard]] creatures."
  
+```
+
+```encounter-table
+name: Kobold Dragon Mage (1-14)
+creatures:
+  - 1: Kobold Dragon Mage (1-14)
 ```
 
 

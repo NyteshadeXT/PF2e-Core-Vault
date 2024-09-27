@@ -4,18 +4,31 @@ title: "Hypercognition"
 noteType: pf2eSpell
 cssclasses: pf2e,pf2e-spell
 tags:
+  - pf2eSpell
   - spell/level/3
   - trait/concentrate
   - trait/common
+  - tradition/occult
+
   - remaster
 aliases: "Compendium.pf2e.spells-srd.Item.ZYoC630tNGutgbE0" 
+license: ORC
 ---
-# Hypercognition  `pf2:1`  
-## Spell 3
-### [[concentrate]]
-**Traditions** [[occult]]
-* * * 
-You rapidly catalog and collate information relevant to your current situation. You can instantly use up to 6 Recall Knowledge actions as part of Casting this Spell. For these actions, you can't use any special abilities, reactions, or free actions that trigger when you Recall Knowledge.
+```statblock
+name: "Hypercognition  `pf2:1`"
+level: "Spell 3"
 
-*Source: Pathfinder Player Core*
-*ORC*
+trait_01: [[concentrate]]
+layout: Basic Pathfinder 2e Layout
+columns: 1
+columnWidth: x
+abilities_top:
+  - name: ""
+  - name: "Traditions"
+    desc: "occult"
+
+abilities_mid:
+  - name: ""
+    desc: "You rapidly catalog and collate information relevant to your current situation. You can instantly use up to 6 Recall Knowledge actions as part of Casting this Spell. For these actions, you can't use any special abilities, reactions, or free actions that trigger when you Recall Knowledge."
+sourcebook: "_Pathfinder Player Core_"
+```

@@ -6,8 +6,9 @@ tags:
   - trait/monk
   - trait/common
   - category/class
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.txLcSHu6kEfmrJj1"
-license: OGL
+license: ORC
 ---
 # Enduring Quickness
 ## Feat 20
@@ -22,5 +23,5 @@ You move as fast and as high as the wind itself. You're permanently [[Conditions
 
 You can use your extra action to Stride or [[Actions/Leap|Leap]], to provide one of the actions needed for a [[Actions/High Jump|High Jump]] or [[Actions/Long Jump|Long Jump]]
 
-*Source: Pathfinder Core Rulebook*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

@@ -32,9 +32,9 @@ A compound produced from the hallucinogenic venom of certain spiders, shiver is 
 
 **Maximum Duration** 4 hours
 
-**Stage 1** whenever you become [[Conditions/Frightened 1|Frightened]], reduce that condition's value by 1 (10 minutes)
+**Stage 1** whenever you become [[Conditions/Frightened|Frightened]], reduce that condition's value by 1 (10 minutes)
 
-**Stage 2** [[Conditions/Clumsy 1|Clumsy 2]] (1 hour)
+**Stage 2** [[Conditions/Clumsy|Clumsy 2]] (1 hour)
 
 **Stage 3** asleep (1 hour)
 

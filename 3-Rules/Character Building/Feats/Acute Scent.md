@@ -6,8 +6,9 @@ tags:
   - trait/barbarian
   - trait/common
   - category/class
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.dgmjiToPHC3Yf5I3"
-license: OGL
+license: ORC
 ---
 # Acute Scent
 ## Feat 2
@@ -17,9 +18,8 @@ license: OGL
 
 
 
-**Prerequisites** Acute Vision or Darkvision
-* * *
-When you Rage, your sense of smell improves. You gain imprecise scent with a range of 30 feet
 
-*Source: Pathfinder Core Rulebook*
-*OGL*
+When your anger is heightened, your sense of smell improves. While you're raging, you gain imprecise scent with a range of 30 feet.
+
+*Source: Pathfinder Player Core 2*
+*ORC*

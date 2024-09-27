@@ -12,7 +12,7 @@ license: OGL
 ---
 # Frightful Hag Eye
 ## Item 4
-### [rare](rare "Rare Rarity Trait")[[invested]][[occult]][[scrying]]
+### [rare](rare.md "Rare Rarity Trait")[[invested]][[3-Rules/Rule References/Occult]][[3-Rules/trait_reference/scrying]]
 
 
 **Price** 85 gp; 
@@ -39,11 +39,11 @@ A frightful hag eye is made with the eye of a creature whose gaze inflicts fear,
 
 **Critical Success** The target is unaffected.
 
-**Success** The target is [[Conditions/Frightened 1|Frightened 1]].
+**Success** The target is [[Conditions/Frightened|Frightened 1]].
 
-**Failure** The target is [[Conditions/Frightened 1|Frightened 2]].
+**Failure** The target is [[Conditions/Frightened|Frightened 2]].
 
-**Critical Failure** The target is [[Conditions/Frightened 1|Frightened 3]] and [[Conditions/Fleeing|Fleeing]] for 1 round.
+**Critical Failure** The target is [[Conditions/Frightened|Frightened 3]] and [[Conditions/Fleeing|Fleeing]] for 1 round.
 
 * * *
 

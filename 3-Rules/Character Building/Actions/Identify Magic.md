@@ -14,7 +14,7 @@ license: ORC
 ---
 # Identify Magic
 
-### [[concentrate]][[exploration]][[secret]]
+### [[3-Rules/Rule References/Concentrate]][[exploration]][[secret]]
 
 **Category** interaction; 
 

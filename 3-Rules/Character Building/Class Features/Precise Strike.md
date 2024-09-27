@@ -6,8 +6,9 @@ tags:
   - trait/swashbuckler
   - trait/common
   - category/classfeature
+  - remaster
 aliases: "Compendium.pf2e.classfeatures.Item.RQH6vigvhmiYKKjg"
-license: OGL
+license: ORC
 ---
 # Precise Strike
 ## Feat 1
@@ -18,9 +19,9 @@ license: OGL
 
 
 
-You Strike with flair. When you have panache and you Strike with an agile or finesse melee weapon or agile or finesse unarmed attack, you deal 2 additional precision damage. If the strike is part of a finisher, the additional damage is 2d6 precision damage instead.
+When you make a Strike with an agile or finesse melee weapon or agile or finesse unarmed attack, you deal 2 additional precision damage. If the Strike is part of a finisher, the additional damage is 2d6 precision damage instead.
 
-As your swashbuckler level increases, so does your additional damage for precise strike. Increase the amount of additional damage on a Strike and the number of additional dice on a finisher by one at 5th, 9th, 13th, and 17th levels.
+As your swashbuckler level increases, so does your additional damage for precise strike. At 5th, 9th, 13th, and 17th level, increase the amount of additional damage on a Strike by 1 and the additional damage on a finisher by 1d6.
 
-*Source: Pathfinder Advanced Player's Guide*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

@@ -7,8 +7,9 @@ tags:
   - trait/flourish
   - trait/common
   - category/class
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.hE6fchGuHuPIeKlO"
-license: OGL
+license: ORC
 ---
 # Fleeting Shadow `pf2:2`
 ## Feat 6
@@ -22,5 +23,5 @@ license: OGL
 * * *
 You're able to quickly disappear and then move about stealthily. You [[Actions/Hide|Hide]], then [[Actions/Sneak|Sneak]] twice.
 
-*Source: Pathfinder Advanced Player's Guide*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

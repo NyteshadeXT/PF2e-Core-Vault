@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/human
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/16
 statblock: inline
 name: "Rival Necromancer"
@@ -23,13 +24,13 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #186: Ghost King&#x27;s Rage"
 name: "Rival Necromancer"
 level: "Creature 16"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Medium"
-trait_01: "chaotic"
-trait_02: "evil"
-trait_03: "human"
-trait_04: "humanoid"
+trait_01: [[chaotic]]
+trait_02: [[evil]]
+trait_03: [[human]]
+trait_04: [[humanoid]]
 modifier: 28
 perception:
   - name: "Perception"
@@ -72,11 +73,17 @@ attacks:
     desc: "2 Focus Points, DC 41, attack +33; __8th __  _[[Spells/Call of the Grave|Call of the Grave]]_, _[[Spells/Life Siphon|Life Siphon]]_"
 
   - name: "Bolster Dead"
-    desc: "  **Frequency** once per turn\n**Requirements** Your most recent action was to cast a non-cantrip necromancy spell\n**Effect** You harness the residual energy from the spell you last cast into the body of an undead creature within 30 feet. That creature's resistances increase by an amount equal to the rank of the spell cast until the beginning of the next turn."
+    desc: "  **Frequency** once per turn\n\n**Requirements** Your most recent action was to cast a non-cantrip necromancy spell\n* * *\n\n**Effect** You harness the residual energy from the spell you last cast into the body of an undead creature within 30 feet. That creature's resistances increase by an amount equal to the rank of the spell cast until the beginning of the next turn."
 
   - name: "Drain Bonded Item"
-    desc: " (arcane) **Frequency** once per day\n**Requirements** The necromancer hasn't acted yet on this turn\n**Effect** The necromancer expends the power stored in their dagger. This gives them the ability to cast one prepared spell they prepared today and already cast, without spending a spell slot."
+    desc: " (arcane) **Frequency** once per day\n\n**Requirements** The necromancer hasn't acted yet on this turn\n* * *\n\n**Effect** The necromancer expends the power stored in their dagger. This gives them the ability to cast one prepared spell they prepared today and already cast, without spending a spell slot."
  
+```
+
+```encounter-table
+name: Rival Necromancer
+creatures:
+  - 1: Rival Necromancer
 ```
 
 

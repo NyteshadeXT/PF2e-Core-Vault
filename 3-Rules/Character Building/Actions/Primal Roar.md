@@ -12,7 +12,7 @@ license: OGL
 ---
 # Primal Roar `pf2:2`
 
-### [[auditory]][[eidolon]]
+### [[3-Rules/Rule References/auditory]][[eidolon]]
 
 **Category** offensive; 
 

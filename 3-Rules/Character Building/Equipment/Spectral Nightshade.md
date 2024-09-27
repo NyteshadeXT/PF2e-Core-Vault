@@ -35,13 +35,13 @@ Belladonna cultivated in planes hazardous to living visitors, such as the Shadow
 
 **Stage 1** 10d6 poison damage and [[Conditions/Dazzled|Dazzled]](1 minute)
 
-**Stage 2** 13d6 poison damage and [[Conditions/Drained 1|Drained 1]] (1 minute)
+**Stage 2** 13d6 poison damage and [[Conditions/Drained|Drained 1]] (1 minute)
 
-**Stage 3** 15d6 poison damage, [[Conditions/Confused|Confused]], and [[Conditions/Drained 1|Drained 2]] (1 minute)
+**Stage 3** 15d6 poison damage, [[Conditions/Confused|Confused]], and [[Conditions/Drained|Drained 2]] (1 minute)
 
 * * *
 
-Craft Requirements Supply one casting of [[Spells/Spirit Blast|Spirit Blast]].
+**Craft Requirements** Supply one casting of [[Spells/Spirit Blast|Spirit Blast]].
 
 *Source: Pathfinder #160: Assault on Hunting Lodge Seven*
 *OGL*

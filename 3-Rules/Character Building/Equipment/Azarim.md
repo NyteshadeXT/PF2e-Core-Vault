@@ -18,7 +18,7 @@ license: OGL
 ---
 # Azarim
 ## Item 7
-### [unique](unique "Unique Rarity Trait")[[deadly-d8]][[disarm]][[divine]][[finesse]][[holy]][[intelligent]][[magical]]
+### [unique](unique.md "Unique Rarity Trait")[[deadly-d8]][[3-Rules/trait_reference/disarm]][[3-Rules/Rule References/Divine]][[3-Rules/Rule References/Finesse]][[holy]][[intelligent]][[3-Rules/Rule References/Magical]]
 
 |  |  |
 | -- | -- |
@@ -61,7 +61,7 @@ _Azarim_ deals an additional 1d6 spirit damage to worshippers of Droskar, to cre
 
 **Trigger** A creature picks up _Azarim_ or begins its turn carrying _Azarim_
 
-**Effect** The creature who carries _Azarim_ becomes [[Conditions/Enfeebled 1|Enfeebled 2]]. This condition persists as long as the creature carries _Azarim_. A non-lawful creature can attempt to resist this effect with a DC 23 Fortitude check save, but lawful creatures don't gain a save to resist.
+**Effect** The creature who carries _Azarim_ becomes [[Conditions/Enfeebled|Enfeebled 2]]. This condition persists as long as the creature carries _Azarim_. A non-lawful creature can attempt to resist this effect with a DC 23 Fortitude check save, but lawful creatures don't gain a save to resist.
 
 * * *
 

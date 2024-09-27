@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/human
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/6
 statblock: inline
 name: "Amar"
@@ -22,12 +23,12 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Adventure: The Enmity Cycle"
 name: "Amar"
 level: "Creature 6"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Medium"
-trait_01: "evil"
-trait_02: "human"
-trait_03: "humanoid"
+trait_01: [[evil]]
+trait_02: [[human]]
+trait_03: [[humanoid]]
 modifier: 15
 perception:
   - name: "Perception"
@@ -64,8 +65,14 @@ attacks:
     desc: "DC 24, attack +16; __3rd __ (3 slots) _[[Spells/Agonizing Despair|Agonizing Despair]]_, _[[Spells/Roaring Applause|Roaring Applause]]_, _[[Spells/Slow|Slow]]_; __2nd __ (3 slots) _[[Spells/Dispel Magic|Dispel Magic]]_, _[[Spells/False Vitality|False Life]]_, _[[Spells/Mirror Image|Mirror Image]]_; __1st __ (3 slots) _[[Spells/Biting Words|Biting Words]]_, _[[Spells/Charm|Charm]]_, _[[Spells/Fear|Fear]]_\n__Cantrips__  __(2nd)__ _[[Spells/Bullhorn|Bullhorn]]_, _[[Spells/Ghost Sound|Ghost Sound]]_, _[[Spells/Haunting Hymn|Haunting Hymn]]_, _[[Spells/Light|Light]]_, _[[Spells/Summon Instrument|Summon Instrument]]_"
 
   - name: "Cruel Performance"
-    desc: "`pf2:2` (occult,sonic) **Frequency** once per day\n**Effect** The bard makes cruel, cutting comments that draw blood. All enemies within 30 feet take 7d6 slashing damage (DC 24 Fortitude check save)."
+    desc: "`pf2:2` (occult,sonic) **Frequency** once per day\n* * *\n\n**Effect** The bard makes cruel, cutting comments that draw blood. All enemies within 30 feet take 7d6 slashing damage (DC 24 Fortitude check save)."
  
+```
+
+```encounter-table
+name: Amar
+creatures:
+  - 1: Amar
 ```
 
 

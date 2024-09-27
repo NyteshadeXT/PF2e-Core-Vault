@@ -7,8 +7,9 @@ tags:
   - trait/monk
   - trait/common
   - category/class
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.2OYJOFaEkhc8dFbl"
-license: OGL
+license: ORC
 ---
 # Knockback Strike `pf2:2`
 ## Feat 10
@@ -21,5 +22,5 @@ license: OGL
 
 You focus your strength into a blow powerful enough to push an enemy away from you. Make an unarmed Strike. If you hit, attempt an Athletics check to [[Actions/Shove|Shove]] the target. This attack uses the same multiple attack penalty as your Strike, and doesn't count toward your multiple attack penalty.
 
-*Source: Pathfinder Core Rulebook*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

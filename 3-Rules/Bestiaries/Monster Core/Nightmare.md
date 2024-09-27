@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/beast
   - pf2e/creature/type/fiend
   - pf2e/creature/type/unholy
+  - pf2eMonster
   - pf2e/creature/level/6
   - remaster
 statblock: inline
@@ -27,9 +28,9 @@ level: "Creature 6"
 
 alignment: ""
 size: "Large"
-trait_01: "beast"
-trait_02: "fiend"
-trait_03: "unholy"
+trait_01: [[beast]]
+trait_02: [[fiend]]
+trait_03: [[unholy]]
 modifier: 14
 perception:
   - name: "Perception"
@@ -56,7 +57,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Smoke"
-    desc: " (aura) 15 feet.\n\nThe nightmare continually exhales black smoke. Creatures within the aura are [[Conditions/Concealed|Concealed]] to those outside it, and creatures outside the aura are concealed to creatures within it. Nightmares and their riders can see through this smoke.\n\nA creature that begins its turn in the area must succeed at a DC 23 Fortitude check save or be [[Conditions/Sickened 1|Sickened 2]]. It's then temporarily immune to being sickened by the smoke for 1 minute. This is an inhaled poison, and the nightmare and its rider are immune to it."
+    desc: " (aura) 15 feet.\n\nThe nightmare continually exhales black smoke. Creatures within the aura are [[Conditions/Concealed|Concealed]] to those outside it, and creatures outside the aura are concealed to creatures within it. Nightmares and their riders can see through this smoke.\n\nA creature that begins its turn in the area must succeed at a DC 23 Fortitude check save or be [[Conditions/Sickened|Sickened 2]]. It's then temporarily immune to being sickened by the smoke for 1 minute. This is an inhaled poison, and the nightmare and its rider are immune to it."
 
 attacks:
   - name: ""
@@ -73,6 +74,12 @@ attacks:
   - name: "Flaming Gallop"
     desc: "`pf2:2` (divine,fire,unholy) The nightmare Strides or Flies up to triple its Speed. Its hooves burst with intense flame, dealing 3d6 fire damage with a DC 24 Reflex check save to each creature other than the nightmare's rider that the nightmare moves adjacent to during its gallop. Each creature can be affected only once during a single use of Flaming Gallop."
  
+```
+
+```encounter-table
+name: Nightmare
+creatures:
+  - 1: Nightmare
 ```
 
 

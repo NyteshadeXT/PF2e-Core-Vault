@@ -8,8 +8,9 @@ tags:
   - trait/spellshape
   - trait/common
   - category/class
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.IYt6pMqiTocTrixA"
-license: OGL
+license: ORC
 ---
 # Familiar Conduit `pf2:1`
 ## Feat 4
@@ -27,5 +28,5 @@ license: OGL
 
 Under your tutelage, your familiar has grown attuned to the hidden currents of the world and can serve as a conduit for your magic. If the next action you use is to [[Actions/Cast a Spell|Cast a Spell]] that has a range, the spell uses the familiar as its origin point.
 
-*Source: Pathfinder Advanced Player's Guide*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

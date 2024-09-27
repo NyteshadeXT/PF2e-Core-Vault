@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/gnoll
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/2
 statblock: inline
 name: "Bristlebane"
@@ -23,13 +24,13 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #178: Punks in a Powder Keg"
 name: "Bristlebane"
 level: "Creature 2"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Medium"
-trait_01: "chaotic"
-trait_02: "evil"
-trait_03: "gnoll"
-trait_04: "humanoid"
+trait_01: [[chaotic]]
+trait_02: [[evil]]
+trait_03: [[gnoll]]
+trait_04: [[humanoid]]
 modifier: 8
 perception:
   - name: "Perception"
@@ -37,7 +38,7 @@ perception:
 languages: "Common, Kholo"
 skills:
   - name: "Skills"
-    desc: "Athletics: +9, Intimidation: +9, Mana Wastes Lore: +5, Society: +5, Stealth: +5, Survival: +8, Thievery: +7"
+    desc: "Athletics: +9, Intimidation: +9, Society: +5, Stealth: +5, Survival: +8, Thievery: +7, Mana Wastes Lore: +5"
 abilityMods: [5, 1, 3, 1, 2, 3]
 speed: 25 feet
 sourcebook: "_Pathfinder #178: Punks in a Powder Keg_"
@@ -83,6 +84,12 @@ attacks:
   - name: "Whip Whirlwind"
     desc: "`pf2:3`  Bristlebane uses her whip to [[Actions/Disarm|Disarm]], Strike, or [[Actions/Trip|Trip]] each creature within her reach. She can select a different action for each target. She takes a -2 circumstance penalty on the check for each action, and each action counts against her multiple attack penalty, but her multiple attack penalty doesn't increase until after all the actions."
  
+```
+
+```encounter-table
+name: Bristlebane
+creatures:
+  - 1: Bristlebane
 ```
 
 

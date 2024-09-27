@@ -16,7 +16,9 @@ license: OGL
 
 
 
-**Minor Boon:** Once, when you roll a failure on a Deception or Stealth check to protect an uprising from discovery, you critically succeed instead. Milani typically grants this boon for extremely significant checks on which the uprising's survival hinges.
+Once, when you roll a failure on a Deception or Stealth check to protect an uprising from discovery, you critically succeed instead.
+
+Milani typically grants this boon for extremely significant checks on which the uprising's survival hinges.
 
 *Source: Pathfinder Lost Omens: Gods & Magic*
 *OGL*

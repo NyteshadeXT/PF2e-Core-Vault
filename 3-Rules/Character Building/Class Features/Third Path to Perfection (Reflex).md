@@ -11,7 +11,7 @@ license: OGL
 ---
 # Third Path to Perfection (Reflex)
 ## Feat 15
-### [[monk]]
+### [[3-Rules/trait_reference/monk]]
 
 **Category** classfeature; 
 

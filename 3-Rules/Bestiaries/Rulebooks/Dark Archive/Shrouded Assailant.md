@@ -4,6 +4,7 @@ obsidianUIMode: preview
 noteType: pf2eHazard
 tags:
   - haunt
+  - pf2eHazard
   - complex
 source: Pathfinder Dark Archive
 aliases: "Compendium.pf2e.pathfinder-dark-archive.Actor.wjWedZ12f3t8ixE1" 
@@ -21,7 +22,7 @@ name: "Shrouded Assailant"
 level: "Hazard 17"
 
 trait_06: "Complex"
-trait_01: "haunt"
+trait_01: [[haunt]]
 modifier: 33
 sourcebook: "_Pathfinder Dark Archive_"
 ac: 40
@@ -49,13 +50,19 @@ attacks:
   - name: ""
 
   - name: "Don Shroud"
-    desc: "`pf2:r` (occult) **Trigger** A creature enters the area\n**Effect** The spirit steps out of the mirror, wearing the cloth as a shroud and revealing the mirror. The triggering creature is [[Conditions/Frightened 1|Frightened 3]] unless they succeed at a DC 38 Will check save. The haunt then rolls initiative."
+    desc: "`pf2:r` (occult) **Trigger** A creature enters the area\n* * *\n\n**Effect** The spirit steps out of the mirror, wearing the cloth as a shroud and revealing the mirror. The triggering creature is [[Conditions/Frightened|Frightened 3]] unless they succeed at a DC 38 Will check save. The haunt then rolls initiative."
   - name: "Melee"
     desc: "Shrouded Touch +33 () "
 
   - name: "Routine"
-    desc: "(3 actions) The spirit uses 3 actions to Step, fly 60 feet, or Strike, in any order. On a successful Strike the spirit's target is [[Conditions/Frightened 1|Frightened 1]], and on a critical success, the target is [[Conditions/Frightened 1|Frightened 2]]."
+    desc: "(3 actions) The spirit uses 3 actions to Step, fly 60 feet, or Strike, in any order. On a successful Strike the spirit's target is [[Conditions/Frightened|Frightened 1]], and on a critical success, the target is [[Conditions/Frightened|Frightened 2]]."
   - name: "Reset"
     desc: "The haunt can be reset if the mirror is covered in a cloth or shroud."
+```
+
+```encounter-table
+name: Shrouded Assailant
+creatures:
+  - 1: Shrouded Assailant
 ```
 

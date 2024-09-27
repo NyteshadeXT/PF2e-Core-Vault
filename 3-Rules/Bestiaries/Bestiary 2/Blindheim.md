@@ -6,6 +6,7 @@ cssClasses: pf2e
 aliases: "Compendium.pf2e.pathfinder-bestiary-2.Actor.B8dOh27iarR7rZI3" 
 tags:
   - pf2e/creature/type/animal
+  - pf2eMonster
   - pf2e/creature/level/2
 statblock: inline
 name: "Blindheim"
@@ -24,14 +25,15 @@ level: "Creature 2"
 
 alignment: ""
 size: "Small"
-trait_01: "animal"
+trait_01: [[animal]]
 modifier: 9
 perception:
   - name: "Perception"
     desc: "+9; Darkvision"
+languages: ""
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +7, Athletics: +6 (+9 to Leap or Swim), Stealth: +7"
+    desc: "Acrobatics: +7, Athletics: +6, Stealth: +7"
 abilityMods: [2, 3, 3, -4, 1, -2]
 speed: 25 feet,  climb 15 feet,  swim 15 feet
 sourcebook: "_Pathfinder Bestiary 2_"
@@ -59,8 +61,14 @@ attacks:
     desc: "`pf2:1` Claw +11 (agile, finesse)\n__Damage__  1d8 + 2 slashing"
 
   - name: "Spotlight"
-    desc: "`pf2:1` (concentrate,light) Bright light shines from the blindheim's eyes in a 30-foot emanation (also creating dim light to 60 feet). Each creature in the bright light when the blindheim uses this action, or who enters it while the light continues, must attempt a DC 18 Fortitude check save. It is then temporarily immune for 1 hour. This light remains until the blindheim dims its eyes by using this action again.\n**Critical Success** The creature is unaffected.\n**Success** The creature is [[Conditions/Dazzled|Dazzled]] for 1 round.\n**Failure** The creature is [[Conditions/Blinded|Blinded]] for 1d4 rounds.\n**Critical Failure** The creature is Blinded for 1 hour."
+    desc: "`pf2:1` (concentrate,light) Bright light shines from the blindheim's eyes in a @Template[emanation|distance:30] (also creating dim light to 60 feet). Each creature in the bright light when the blindheim uses this action, or who enters it while the light continues, must attempt a DC 18 Fortitude check save. It is then temporarily immune for 1 hour. This light remains until the blindheim dims its eyes by using this action again.\n* * *\n\n**Critical Success** The creature is unaffected.\n\n**Success** The creature is [[Conditions/Dazzled|Dazzled]] for 1 round.\n\n**Failure** The creature is [[Conditions/Blinded|Blinded]] for 1d4 rounds.\n\n**Critical Failure** The creature is Blinded for 1 hour."
  
+```
+
+```encounter-table
+name: Blindheim
+creatures:
+  - 1: Blindheim
 ```
 
 

@@ -32,9 +32,7 @@ Midnight milk is a strange and powerful drug, originally invented by the intelle
 
 **Stage 1** +3 item bonus to Perception checks and Will saving throws
 
-**Stage 2** [[Conditions/Unconscious|Unconscious]] (1 hour; the creature endures phantasmagoric nightmares as described in the text above—during this stage, the creature is a viable Dream Lens target, and once a creature recovers and awakens from
-
-**Stage 3**, they're [[Conditions/Fatigued|Fatigued]])
+**Stage 2** [[Conditions/Unconscious|Unconscious]] (1 hour; the creature endures phantasmagoric nightmares as described in the text above—during this stage, the creature is a viable Dream Lens target, and once a creature recovers and awakens from stage 3, they're [[Conditions/Fatigued|Fatigued]])
 
 **Stage 3** as stage 2 (1 day)
 

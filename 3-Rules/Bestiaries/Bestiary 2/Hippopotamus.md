@@ -6,6 +6,7 @@ cssClasses: pf2e
 aliases: "Compendium.pf2e.pathfinder-bestiary-2.Actor.5CixyyBkCLj2VI8q" 
 tags:
   - pf2e/creature/type/animal
+  - pf2eMonster
   - pf2e/creature/level/5
 statblock: inline
 name: "Hippopotamus"
@@ -24,14 +25,15 @@ level: "Creature 5"
 
 alignment: ""
 size: "Large"
-trait_01: "animal"
+trait_01: [[animal]]
 modifier: 11
 perception:
   - name: "Perception"
     desc: "+11; Low-Light Vision, Scent (Imprecise) 30 Feet"
+languages: ""
 skills:
   - name: "Skills"
-    desc: "Athletics: +13, Stealth: +11 (+13 in Water), Survival: +11"
+    desc: "Athletics: +13, Stealth: +11, Survival: +11"
 abilityMods: [6, 2, 6, -4, 4, -2]
 speed: 25 feet,  swim 20 feet
 sourcebook: "_Pathfinder Bestiary 2_"
@@ -62,14 +64,20 @@ attacks:
     desc: "`pf2:1` Foot +13 ()\n__Damage__  1d10 + 8 bludgeoning"
 
   - name: "[[Bestiary Ability Glossary/Aquatic Ambush|Aquatic Ambush]]"
-    desc: "`pf2:1`  30 feet\n"
+    desc: "`pf2:1`  30 feet\n\n* * *\n"
 
   - name: "Capsize"
     desc: "`pf2:1` (attack) The hippopotamus tries to capsize an adjacent aquatic vessel of its size or smaller. The hippopotamus must succeed at an Athletics check with a DC of 25 (reduced by 5 for each size smaller the vessel is than the hippo) or the pilot's Sailing Lore DC, whichever is higher."
 
   - name: "[[Bestiary Ability Glossary/Trample|Trample]]"
-    desc: "`pf2:3`  Medium or smaller, foot, DC 23 Reflex check\n"
+    desc: "`pf2:3`  Medium or smaller, foot, DC 23 Reflex check\n\n* * *\n"
  
+```
+
+```encounter-table
+name: Hippopotamus
+creatures:
+  - 1: Hippopotamus
 ```
 
 

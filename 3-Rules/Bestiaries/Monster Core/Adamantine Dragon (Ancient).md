@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.pathfinder-monster-core.Actor.KdUMMd6ol83JpP62"
 tags:
   - pf2e/creature/type/dragon
   - pf2e/creature/type/primal
+  - pf2eMonster
   - pf2e/creature/level/18
   - remaster
 statblock: inline
@@ -19,14 +20,15 @@ license: ORC
 columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
+token: [[modules/pf2e-tokens-monster-core/assets/portraits/dragon-adamantine-adult.webp| ]]
 source: "Pathfinder Monster Core"
 name: "Adamantine Dragon (Ancient)"
 level: "Creature 18"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "grg"
-trait_01: "dragon"
-trait_02: "primal"
+trait_01: [[dragon]]
+trait_02: [[primal]]
 modifier: 30
 perception:
   - name: "Perception"
@@ -34,7 +36,7 @@ perception:
 languages: "Common, Draconic, Fey, Petran, Sakvroth, Aklo"
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +28, Athletics: +36, Intimidation: +32, Mining Lore: +30, Nature: +29, Survival: +31"
+    desc: "Acrobatics: +28, Athletics: +36, Intimidation: +32, Nature: +29, Survival: +31, Mining Lore: +30"
 abilityMods: [9, 4, 8, 4, 5, 6]
 speed: 40 feet,  burrow 50 feet,  fly 180 feet
 sourcebook: "_Pathfinder Monster Core_"
@@ -77,10 +79,10 @@ attacks:
     desc: "`pf2:1` Rock +34 (brutal, range increment 150 feet)\n__Damage__  3d8 + 18 bludgeoning"
 
   - name: "Adamantine Body"
-    desc: "  The dragon’s unarmed melee Strikes are adamantine."
+    desc: "  The dragon's unarmed melee Strikes are adamantine."
 
   - name: "Avalanche Breath"
-    desc: "`pf2:2` (primal) The dragon belches a mass of boulders that deals 15d8 bludgeoning damage in a 40-foot cone (DC 40 Reflex check save).\n\nThey can't use Avalanche Breath again for 1d4 rounds."
+    desc: "`pf2:2` (primal) The dragon belches a mass of boulders that deals 15d8 bludgeoning damage in a @Template[cone|distance:40] (DC 40 Reflex check save).\n\nThey can't use Avalanche Breath again for 1d4 rounds."
 
   - name: "Burrowing Pounce"
     desc: "`pf2:3`  **Requirements** The dragon is burrowed\n* * *\n\n**Effect** The dragon Burrows, then Leaps out of the ground, landing at a point within 25 feet. The dragon makes a melee Strike against a creature within reach when they land. If the Strike is a critical hit, the target is knocked [[Conditions/Prone|Prone]]."
@@ -95,10 +97,10 @@ attacks:
     desc: "`pf2:r`  **Trigger** The dragon Grabs a creature\n* * *\n\n**Effect** The dragon uses Swallow Whole."
 
   - name: "Rock Tunneler"
-    desc: "  The dragon can burrow through solid stone at a Speed of 20 feet. They can leave a tunnel if they desire, and they usually don’t."
+    desc: "  The dragon can burrow through solid stone at a Speed of 20 feet. They can leave a tunnel if they desire, and they usually don't."
 
   - name: "[[Bestiary Ability Glossary/Swallow Whole|Swallow Whole]]"
-    desc: "`pf2:1` (attack) Large, 3d12 + 14 bludgeoning, Rupture 35\n\n* * *\n"
+    desc: "`pf2:1` (attack) Large, 3d12+14 bludgeoning, Rupture 35\n\n* * *\n"
 
   - name: "[[Bestiary Ability Glossary/Throw Rock|Throw Rock]]"
     desc: "`pf2:1`  "
@@ -106,6 +108,12 @@ attacks:
   - name: "[[Bestiary Ability Glossary/Knockdown|Knockdown]]"
     desc: "`pf2:1`  "
  
+```
+
+```encounter-table
+name: Adamantine Dragon (Ancient)
+creatures:
+  - 1: Adamantine Dragon (Ancient)
 ```
 
 

@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/good
   - pf2e/creature/type/humanoid
   - pf2e/creature/type/kobold
+  - pf2eMonster
   - pf2e/creature/level/6
 statblock: inline
 name: "Duhgik"
@@ -22,12 +23,12 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Blog"
 name: "Duhgik"
 level: "Creature 6"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Small"
-trait_01: "good"
-trait_02: "humanoid"
-trait_03: "kobold"
+trait_01: [[good]]
+trait_02: [[humanoid]]
+trait_03: [[kobold]]
 modifier: 14
 perception:
   - name: "Perception"
@@ -35,7 +36,7 @@ perception:
 languages: "Common, Draconic, Dwarven, Gnomish, Sakvroth"
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +12, Crafting: +15, Deception: +12, Lore: +13, Medicine: +10, Stealth: +14, Survival: +12"
+    desc: "Acrobatics: +12, Crafting: +15, Deception: +12, Medicine: +10, Stealth: +14, Survival: +12, Lore: +13"
 abilityMods: [2, 4, 2, 5, 4, 2]
 speed: 30 feet
 sourcebook: "_Pathfinder Blog_"
@@ -55,7 +56,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Cringe"
-    desc: "`pf2:r` (emotion,kobold,mental,visual) **Trigger** A creature Duhgik is aware of critically succeeds on a Strike against her and would deal damage to her\n**Effect** With pitiful posturing, she causes her foe to pull back a deadly attack. The attacking creature takes a -8 circumstance penalty to the damage of the triggering Strike. This penalty applies after doubling the damage for a critical hit. The attacker is then immune to Duhgik's for 24 hours."
+    desc: "`pf2:r` (emotion,kobold,mental,visual) **Trigger** A creature Duhgik is aware of critically succeeds on a Strike against her and would deal damage to her\n* * *\n\n**Effect** With pitiful posturing, she causes her foe to pull back a deadly attack. The attacking creature takes a -8 circumstance penalty to the damage of the triggering Strike. This penalty applies after doubling the damage for a critical hit. The attacker is then immune to Duhgik's for 24 hours."
 
 attacks:
   - name: ""
@@ -75,6 +76,12 @@ attacks:
   - name: "Surprise Snare"
     desc: "`pf2:2` (manipulate) Duhgik installs one of her snares prepared for quick deployment in a space that's occupied by an opponent. It must be a snare that normally takes 1 minute or less to Craft. The snare automatically triggers, but it takes a -2 circumstance penalty to any applicable save DC, as well as any attack rolls or other checks the snare attempts."
  
+```
+
+```encounter-table
+name: Duhgik
+creatures:
+  - 1: Duhgik
 ```
 
 

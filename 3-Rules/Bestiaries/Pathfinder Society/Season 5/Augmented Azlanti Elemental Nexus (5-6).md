@@ -6,6 +6,7 @@ tags:
   - magical
   - mechanical
   - trap
+  - pf2eHazard
   - complex
 source: Pathfinder Society Scenario #5-02: The Blackwood Lost
 aliases: "Compendium.pf2e.pfs-season-5-bestiary.Actor.OkAH5MvTWnwr5JoD" 
@@ -23,9 +24,9 @@ name: "Augmented Azlanti Elemental Nexus (5-6)"
 level: "Hazard 5"
 
 trait_06: "Complex"
-trait_01: "magical"
-trait_02: "mechanical"
-trait_03: "trap"
+trait_01: [[magical]]
+trait_02: [[mechanical]]
+trait_03: [[trap]]
 modifier: 8
 sourcebook: "_Pathfinder Society Scenario #5-02: The Blackwood Lost_"
 ac: 22
@@ -53,15 +54,15 @@ attacks:
   - name: ""
 
   - name: "Proximity Wave"
-    desc: "`pf2:r` (primal) **Trigger** A creature without the elemental trait approaches within 15 feet of the nexus or attacks an elemental within 15 feet of the nexus\n**Effect** Unstable elemental energies surrounding the machine discharge abruptly from one of the spikes, sending waves of wind, gusts of metallic shards, jets of fire and other elemental bursts across the room in various directions. The hazard makes an elemental wave Strike against the triggering creature. The hazard then rolls initiative."
+    desc: "`pf2:r` (primal) **Trigger** A creature without the elemental trait approaches within 15 feet of the nexus or attacks an elemental within 15 feet of the nexus\n* * *\n\n**Effect** Unstable elemental energies surrounding the machine discharge abruptly from one of the spikes, sending waves of wind, gusts of metallic shards, jets of fire and other elemental bursts across the room in various directions. The hazard makes an elemental wave Strike against the triggering creature. The hazard then rolls initiative."
 
   - name: "Unstable Detonation"
-    desc: "`pf2:r` **Trigger** The nexus is broken or destroyed\n**Effect** A ferocious gush of elemental energies bursts from the broken machine, dealing 6d6 bludgeoning damage to each creature within 15 feet (basic DC 22 Reflex check save). The trap is then disabled."
+    desc: "`pf2:r` **Trigger** The nexus is broken or destroyed\n* * *\n\n**Effect** A ferocious gush of elemental energies bursts from the broken machine, dealing 6d6 bludgeoning damage to each creature within 15 feet (basic DC 22 Reflex check save). The trap is then disabled."
   - name: "Melee"
     desc: "Elemental Wave (Cold) +15 (range 30 feet) "
 
   - name: "Elemental Wave"
-    desc: "action The damage of this strike varies; No multiple attack penalty. Roll 1d6 for damage type.\n1 cold (air)\n2 bludgeoning (earth)\n3 fire\n4 electric (metal)\n5 piercing (water)\n6 slashing (wood)"
+    desc: "action The damage of this strike varies; No multiple attack penalty. Roll 1d6 for damage type.\n\n1 cold (air)\n\n2 bludgeoning (earth)\n\n3 fire\n\n4 electric (metal)\n\n5 piercing (water)\n\n6 slashing (wood)"
   - name: "Melee"
     desc: "Elemental Wave (Bludgeoning) +15 (range 30 feet) "
   - name: "Melee"
@@ -76,5 +77,11 @@ attacks:
   - name: "Routine"
     desc: "(3 actions) The nexus spends each of its actions making an elemental wave Strike; each of these must be against a different creature who does not have the elemental trait. For each spike destroyed or disabled, the trap loses 1 action."
 
+```
+
+```encounter-table
+name: Augmented Azlanti Elemental Nexus (5-6)
+creatures:
+  - 1: Augmented Azlanti Elemental Nexus (5-6)
 ```
 

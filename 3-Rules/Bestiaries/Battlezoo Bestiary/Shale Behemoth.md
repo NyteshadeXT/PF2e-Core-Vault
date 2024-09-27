@@ -7,6 +7,7 @@ aliases: "Compendium.battlezoo-bestiary-pf2e.pf2e-battlezoo-bestiary.Actor.z0vO0
 tags:
   - pf2e/creature/type/animal
   - pf2e/creature/type/earth
+  - pf2eMonster
   - pf2e/creature/level/18
 statblock: inline
 name: "Shale Behemoth"
@@ -22,18 +23,19 @@ token: [[modules/battlezoo-bestiary-pf2e/art/shale_behemoth.webp| ]]
 source: "Battlezoo Bestiary"
 name: "Shale Behemoth"
 level: "Creature 18"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "grg"
-trait_01: "animal"
-trait_02: "earth"
+trait_01: [[animal]]
+trait_02: [[earth]]
 modifier: 30
 perception:
   - name: "Perception"
     desc: "+30; Darkvision, Tremorsense (Imprecise) 120 Feet"
+languages: ""
 skills:
   - name: "Skills"
-    desc: "Athletics: +36, Stealth: +27 (+31 in Caves), "
+    desc: "Athletics: +36, Stealth: +27"
 abilityMods: [10, 5, 9, -4, 7, 1]
 speed: 30 feet,  burrow 30 feet
 sourcebook: "_Battlezoo Bestiary_"
@@ -62,14 +64,20 @@ attacks:
     desc: "`pf2:1` Crystal Shard +36 (brutal, range increment 120 feet, sonic)\n__Damage__  3d8 + 18 piercing 2d12 sonic"
 
   - name: "Crystal Prison"
-    desc: "`pf2:1`  **Requirements** The shale behemoth has a creature Grabbed in one of its claws;\n**Effect** The shale behemoth impales the grabbed creature on the sharp crystal spikes that protrude from the shale behemoth's carapace, dealing 2d12 + 18 piercing damage (basic Reflex save). If the creature fails its save and is Large or smaller, it's impaled on the jagged crystals. It moves with the shale behemoth and takes 3d12 bleed damage until it either Escapes or someone uses Force Open to break the crystals (either is DC 40)."
+    desc: "`pf2:1`  **Requirements** The shale behemoth has a creature [[Conditions/Grabbed|Grabbed]] in one of its claws;\n\n**Effect** The shale behemoth impales the grabbed creature on the sharp crystal spikes that protrude from the shale behemoth's carapace, dealing 2d12 + 18 piercing damage (basic DC 40 Reflex save). If the creature fails its save and is Large or smaller, it's impaled on the jagged crystals. It moves with the shale behemoth and takes 3d12 bleed damage until it either Escapes or someone uses Force Open to break the crystals (either is DC 40)."
 
   - name: "Hurl Supersonic Shard"
-    desc: "`pf2:2` (sonic) The shale behemoth flings a sonically resonant crystal shard from its back, making three crystal shard Strikes against one to three creatures within 120 feet. Its multiple attack penalty doesn't increase until after all three attacks.\nRegardless of whether or not a shard hits, each shard lands in the space of the targeted creature and begins to violently hum as a supersonic shockwave vibrates through it. A creature that begins its turn adjacent to a shard must succeed at a Fortitude save or become Clumsy 2 for 1 round.\nOn the shale behemoth's next turn, each shard explodes in a cacophonous burst of sharp crystals, dealing 3d10 sonic damage and 3d10 piercing damage to creatures in a 10-foot emanation (basic Reflex save)."
+    desc: "`pf2:2` (sonic) The shale behemoth flings a sonically resonant crystal shard from its back, making three crystal shard Strikes against one to three creatures within 120 feet. Its multiple attack penalty doesn't increase until after all three attacks.\n\nRegardless of whether or not a shard hits, each shard lands in the space of the targeted creature and begins to violently hum as a supersonic shockwave vibrates through it. A creature that begins its turn adjacent to a shard must succeed at a DC 40 Fortitude save or become [[Conditions/Clumsy|Clumsy 2]] for 1 round.\n\nOn the shale behemoth's next turn, each shard explodes in a cacophonous burst of sharp crystals, dealing 3d10 sonic damage and 3d10 piercing damage to creatures in a 10-foot emanation (DC 40 basic Reflex save)."
 
   - name: "Screeching Scrape"
-    desc: "`pf2:2` (incapacitation,sonic) The shale behemoth rubs its crystalline joints against the ground or a nearby wall, causing a deafening squeal of mineral on rock, dealing 1d4 rounds.\n**Critical Success** The creature takes no damage.\n**Success** The creature takes half damage and is Clumsy 1 for 1 round.\n**Failure** The creature takes full damage, is Deafened for 24 hours, and is Stunned 1.\n**Critical Failure** The creature takes double damage, is permanently deafened, and is Stunned 2."
+    desc: "`pf2:2` (incapacitation,sonic) The shale behemoth rubs its crystalline joints against the ground or a nearby wall, causing a deafening squeal of mineral on rock, dealing 1d4 rounds.\n* * *\n\n**Critical Success** The creature takes no damage.\n\n**Success** The creature takes half damage and is [[Conditions/Clumsy|Clumsy 1]] for 1 round.\n\n**Failure** The creature takes full damage, is [[Conditions/Deafened|Deafened]] for 24 hours, and is [[Conditions/Stunned|Stunned 1]].\n\n**Critical Failure** The creature takes double damage, is permanently deafened, and is [[Conditions/Stunned|Stunned 2]]."
  
+```
+
+```encounter-table
+name: Shale Behemoth
+creatures:
+  - 1: Shale Behemoth
 ```
 
 

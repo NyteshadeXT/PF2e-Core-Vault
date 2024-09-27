@@ -37,9 +37,9 @@ When casting the [[Spells/Avatar|Avatar]] spell, a worshipper of Luhar gains the
 
 **Luhar** Speed 70 feet, ignore difficult terrain and greater difficult terrain
 
-Melee `pf2:1` spiked chain (disarm, finesse, trip, reach 15 feet), Damage 6d8 + 6 slashing damage
+Melee `pf2:1` spiked chain (disarm, finesse, trip, reach 15 feet), Damage 6d8+6 slashing damage
 
-Ranged `pf2:1` touch of mercy (range increment 120 feet), Damage 6d6 + 3 void damage
+Ranged `pf2:1` touch of mercy (range increment 120 feet), Damage 6d6+3 void damage
 
 *Source: Pathfinder Lost Omens: Legends*
 *OGL*

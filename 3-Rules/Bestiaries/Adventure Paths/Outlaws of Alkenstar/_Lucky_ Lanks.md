@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/halfling
   - pf2e/creature/type/humanoid
   - pf2e/creature/type/lawful
+  - pf2eMonster
   - pf2e/creature/level/5
 statblock: inline
 name: "&quot;Lucky&quot; Lanks"
@@ -23,13 +24,13 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #179: Cradle of Quartz"
 name: ""Lucky" Lanks"
 level: "Creature 5"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Small"
-trait_01: "evil"
-trait_02: "halfling"
-trait_03: "humanoid"
-trait_04: "lawful"
+trait_01: [[evil]]
+trait_02: [[halfling]]
+trait_03: [[humanoid]]
+trait_04: [[lawful]]
 modifier: 11
 perception:
   - name: "Perception"
@@ -66,10 +67,10 @@ attacks:
     desc: "`pf2:1` Dagger +15 (agile, finesse, versatile s)\n__Damage__  1d4 + 4 piercing"
 
   - name: "Ranged"
-    desc: "`pf2:1` Coat Pistol +15 (concealable, concussive, fatal d8, range increment 30 feet, reload 1)\n__Damage__  1d4 + 4 piercing"
+    desc: "`pf2:1` Dagger +15 (agile, thrown 10 ft., versatile s)\n__Damage__  1d4 + 4 piercing"
 
   - name: "Ranged"
-    desc: "`pf2:1` Dagger +15 (agile, thrown 10 ft., versatile s)\n__Damage__  1d4 + 4 piercing"
+    desc: "`pf2:1` Coat Pistol +15 (concealable, concussive, fatal d8, range increment 30 feet, reload 1)\n__Damage__  1d4 + 4 piercing"
 
   - name: "Scoundrel's Feint"
     desc: "  When Lanks successfully [[Actions/Feint|Feints]], his target is [[Conditions/Off-Guard|Off-Guard]] against his attacks until the end of his next turn. On a critical success, the target is off-guard against all attacks until the end of Lanks's next turn."
@@ -77,6 +78,12 @@ attacks:
   - name: "[[Bestiary Ability Glossary/Sneak Attack|Sneak Attack]]"
     desc: "  Lanks deals an additional 2d6 precision damage to [[Conditions/Off-Guard|Off-Guard]] creatures."
  
+```
+
+```encounter-table
+name: "Lucky" Lanks
+creatures:
+  - 1: "Lucky" Lanks
 ```
 
 

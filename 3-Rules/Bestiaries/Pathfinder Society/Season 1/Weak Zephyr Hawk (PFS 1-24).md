@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.pfs-season-1-bestiary.Actor.81H7cwCK8TBi6dnv"
 tags:
   - pf2e/creature/type/air
   - pf2e/creature/type/elemental
+  - pf2eMonster
   - pf2e/creature/level/2
 statblock: inline
 name: "Weak Zephyr Hawk (PFS 1-24)"
@@ -24,12 +25,13 @@ level: "Creature 2"
 
 alignment: ""
 size: "Small"
-trait_01: "air"
-trait_02: "elemental"
+trait_01: [[air]]
+trait_02: [[elemental]]
 modifier: 5
 perception:
   - name: "Perception"
     desc: "+5; Darkvision"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Acrobatics: +11, Stealth: +9"
@@ -59,6 +61,12 @@ attacks:
   - name: "Circling Attack"
     desc: "`pf2:2`  The zephyr hawk Flies up to half its Speed, makes two wing Strikes, then Flies up to half its Speed again to return to its original location. The second half of this movement doesn't trigger reactions. Both attacks count toward the zephyr hawk's multiple attack penalty, but the penalty doesn't increase until after it makes both attacks."
  
+```
+
+```encounter-table
+name: Weak Zephyr Hawk (PFS 1-24)
+creatures:
+  - 1: Weak Zephyr Hawk (PFS 1-24)
 ```
 
 

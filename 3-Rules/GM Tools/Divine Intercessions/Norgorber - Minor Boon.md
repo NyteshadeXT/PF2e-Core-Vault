@@ -17,7 +17,9 @@ license: OGL
 
 
 
-**Minor Boon (Single Use)** Norgorber protects your secrets and lies. Once, when you roll a failure at a Deception check to tell a [[Actions/Lie|Lie]], you get a critical success instead.
+Norgorber protects your secrets and lies.
+
+Once, when you roll a failure at a Deception check to tell a [[Actions/Lie|Lie]], you get a critical success instead.
 
 Norgorber typically chooses to grant this boon to protect an extremely consequential lie.
 

@@ -15,7 +15,7 @@ license: OGL
 ### [uncommon](uncommon "Uncommon Rarity Trait")[[consumable]][[gadget]]
 
 **Category** gadget; 
-**Price** 6500 gp; 
+**Price** 1300 gp; 
 **Bulk** 1; **Size** sm
 **Usage** held-in-one-hand
 
@@ -27,7 +27,7 @@ A material essence disruptor emits bursts of disordered energy to break down the
 
 * * *
 
-The range is 90 feet, the counteract modifier is +24 d20 + 24, and the counteract rank is 8.
+The range is 90 feet, the counteract modifier is +24 1d20+24, and the counteract rank is 8.
 
 *Source: Pathfinder Guns & Gears*
 *OGL*

@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.npc-gallery.Actor.OSCpJYTr6xNIxqZi"
 tags:
   - pf2e/creature/type/human
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/-1
 statblock: inline
 name: "Server"
@@ -24,8 +25,8 @@ level: "Creature -1"
 
 alignment: ""
 size: "Medium"
-trait_01: "human"
-trait_02: "humanoid"
+trait_01: [[human]]
+trait_02: [[humanoid]]
 modifier: 3
 perception:
   - name: "Perception"
@@ -53,7 +54,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Quick Catch"
-    desc: "`pf2:r`  **Trigger** An object that the server could hold in one hand is dropped within the server's reach\n**Requirements** The server has at least one hand free\n**Effect** The server catches the dropped object before it hits the floor or leaves their reach."
+    desc: "`pf2:r`  **Trigger** An object that the server could hold in one hand is dropped within the server's reach\n\n**Requirements** The server has at least one hand free\n* * *\n\n**Effect** The server catches the dropped object before it hits the floor or leaves their reach."
 
 attacks:
   - name: ""
@@ -64,6 +65,12 @@ attacks:
   - name: "Ranged"
     desc: "`pf2:1` Pewter Mug +6 (thrown 10 ft.)\n__Damage__  1d4 + 1 bludgeoning"
  
+```
+
+```encounter-table
+name: Server
+creatures:
+  - 1: Server
 ```
 
 

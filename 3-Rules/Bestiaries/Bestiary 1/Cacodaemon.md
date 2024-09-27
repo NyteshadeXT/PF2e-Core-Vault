@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/fiend
   - pf2e/creature/type/unholy
+  - pf2eMonster
   - pf2e/creature/level/1
 statblock: inline
 name: "Cacodaemon"
@@ -27,15 +28,15 @@ level: "Creature 1"
 
 alignment: ""
 size: "tiny"
-trait_01: "daemon"
-trait_02: "evil"
-trait_03: "fiend"
-trait_04: "unholy"
+trait_01: [[daemon]]
+trait_02: [[evil]]
+trait_03: [[fiend]]
+trait_04: [[unholy]]
 modifier: 6
 perception:
   - name: "Perception"
     desc: "+6; Darkvision"
-languages: "Common, Daemonic"
+languages: "Common, Daemonic; telepathy 100 feet"
 skills:
   - name: "Skills"
     desc: "Acrobatics: +8, Deception: +5, Religion: +6, Stealth: +8"
@@ -66,14 +67,20 @@ attacks:
     desc: "DC 17, attack +9; __4th __  _[[Spells/Read Omens|Read Omens]]_; __2nd __  _[[Spells/Invisibility|Invisibility (At Will) (Self Only)]]_; __1st __  _[[Spells/Detect Alignment|Detect Alignment (At Will) (Good Only)]]_, _[[Spells/Fear|Fear]]_\n__Cantrips__  __(1st)__ _[[Spells/Detect Magic|Detect Magic (At Will)]]_"
 
   - name: "Cacodaemonia"
-    desc: " (disease) The cacodaemon can telepathically communicate with the afflicted creature at any distance on the same plane.\n**Saving Throw** DC 17 Fortitude check\n**Stage 1** carrier (1 day)\n**Stage 2** [[Conditions/Stupefied 1|Stupefied 1]] (1 day)\n**Stage 3** [[Conditions/Stupefied 1|Stupefied 2]] (1 day)"
+    desc: " (disease) The cacodaemon can telepathically communicate with the afflicted creature at any distance on the same plane.\n\n**Saving Throw** DC 17 Fortitude check\n\n**Stage 1** carrier (1 day)\n\n**Stage 2** [[Conditions/Stupefied|Stupefied 1]] (1 day)\n\n**Stage 3** [[Conditions/Stupefied|Stupefied 2]] (1 day)"
 
   - name: "[[Bestiary Ability Glossary/Change Shape|Change Shape]]"
-    desc: "`pf2:1` (concentrate,divine,polymorph) *   **Lizard**\n    *   **Speed** 20 feet\n    *   **Melee** `pf2:1` Jaws +8 (agile, finesse), **Damage** 1d8 + 1 piercing\n*   **Octopus**\n    *   **Size** small\n    *   **Speed** 20 feet, swim 30 feet\n    *   **Melee** `pf2:1` Tentacle +8 (finesse), **Damage** 1d8 + 1 bludgeoning plus [[Bestiary Ability Glossary/Grab|Grab]]\n    *   **Melee** `pf2:1` Beak +8 (agile, finesse), **Damage** 1d6 piercing plus 2 poison\n*   **Scorpion**\n    *   **Size** small\n    *   **Speed** 30 feet\n    *   **Melee** `pf2:1` Pincer +8 (agile, finesse), **Damage** 1d6 + 1 bludgeoning plus [[Bestiary Ability Glossary/Grab|Grab]]\n    *   **Melee** `pf2:1` Stinger +8 (agile, finesse), **Damage** 1d6 piercing plus 1d4 poison\n"
+    desc: "`pf2:1` (concentrate,divine,polymorph) *   **Lizard**\n    *   **Speed** 20 feet\n    *   **Melee** `pf2:1` Jaws +8 (agile, finesse), **Damage** 1d8+1 piercing\n*   **Octopus**\n    *   **Size** small\n    *   **Speed** 20 feet, swim 30 feet\n    *   **Melee** `pf2:1` Tentacle +8 (finesse), **Damage** 1d8+1 bludgeoning plus [[Bestiary Ability Glossary/Grab|Grab]]\n    *   **Melee** `pf2:1` Beak +8 (agile, finesse), **Damage** 1d6 piercing plus 2 poison\n*   **Scorpion**\n    *   **Size** small\n    *   **Speed** 30 feet\n    *   **Melee** `pf2:1` Pincer +8 (agile, finesse), **Damage** 1d6+1 bludgeoning plus [[Bestiary Ability Glossary/Grab|Grab]]\n    *   **Melee** `pf2:1` Stinger +8 (agile, finesse), **Damage** 1d6 piercing plus 1d4 poison\n\n* * *\n"
 
   - name: "Soul Lock"
-    desc: "`pf2:3` (death,divine) Once per day, a cacodaemon can ingest the soul of a sentient creature within 30 feet that died within the last minute. When it does, the cacodaemon grows a fist-sized soul gem (Hardness 2, HP 8) in its gut and can regurgitate it at any time as an Interact action.\nDestroying the gem frees the soul within but does not return the deceased creature to life. The caster of a spell to return a creature to life whose soul is trapped within a soul gem must succeed at a DC 30 Religion check check. On a success, the soul gem shatters and the creature is returned to life as normal for the spell.\nBy using an Interact action, a fiend can ingest a soul gem it is holding, condemning the soul to the fiend's home plane. The fiend gains fast healing 5 for 1 minute.\n[[Bestiary Effects/Effect_ Soul Lock (Healing)|Effect: Soul Lock (Healing)]]"
+    desc: "`pf2:3` (death,divine) Once per day, a cacodaemon can ingest the soul of a sentient creature within 30 feet that died within the last minute. When it does, the cacodaemon grows a fist-sized soul gem (Hardness 2, HP 8) in its gut and can regurgitate it at any time as an Interact action.\n\nDestroying the gem frees the soul within but does not return the deceased creature to life. The caster of a spell to return a creature to life whose soul is trapped within a soul gem must succeed at a DC 30 Religion check check. On a success, the soul gem shatters and the creature is returned to life as normal for the spell.\n\nBy using an Interact action, a fiend can ingest a soul gem it is holding, condemning the soul to the fiend's home plane. The fiend gains fast healing 5 for 1 minute.\n\n[[Bestiary Effects/Effect_ Soul Lock (Healing)|Effect: Soul Lock (Healing)]]"
  
+```
+
+```encounter-table
+name: Cacodaemon
+creatures:
+  - 1: Cacodaemon
 ```
 
 

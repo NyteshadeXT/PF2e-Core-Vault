@@ -6,8 +6,9 @@ tags:
   - trait/champion
   - trait/common
   - category/class
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.2c9awqDem5OLK47S"
-license: OGL
+license: ORC
 ---
 # Weight of Guilt
 ## Feat 1
@@ -17,9 +18,9 @@ license: OGL
 
 
 
-**Prerequisites** redeemer cause
+**Prerequisites** redemption cause
 * * *
-Guilt clouds the minds of those who ignore your [[Actions/Glimpse of Redemption|Glimpse of Redemption]]. Instead of making the triggering creature enfeebled 2, you can make it [[Conditions/Stupefied 1|Stupefied 2]] for the same duration.
+Guilt clouds the minds of those who ignore your [[Actions/Glimpse of Redemption|Glimpse of Redemption]]. Instead of making the triggering creature enfeebled 2, you can make it [[Conditions/Stupefied|Stupefied 2]] for the same duration.
 
-*Source: Pathfinder Core Rulebook*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

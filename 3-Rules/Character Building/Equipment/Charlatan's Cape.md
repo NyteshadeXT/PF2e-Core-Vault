@@ -12,7 +12,7 @@ license: ORC
 ---
 # Charlatan's Cape
 ## Item 10
-### [uncommon](uncommon "Uncommon Rarity Trait")[[invested]][[magical]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[invested]][[3-Rules/Rule References/Magical]]
 
 
 **Price** 980 gp; 

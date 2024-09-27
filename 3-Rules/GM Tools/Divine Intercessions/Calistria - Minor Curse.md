@@ -17,7 +17,7 @@ license: OGL
 
 
 
-**Minor Curse** Whenever a new person desires vengeance against you, you suffer a painful sting and are afflicted with [[Equipment/Giant Wasp Venom|Giant Wasp Venom]] at stage 1.
+Whenever a new person desires vengeance against you, you suffer a painful sting and are afflicted with [[Equipment/Giant Wasp Venom|Giant Wasp Venom]] at stage 1.
 
 *Source: Pathfinder Lost Omens: Gods & Magic*
 *OGL*

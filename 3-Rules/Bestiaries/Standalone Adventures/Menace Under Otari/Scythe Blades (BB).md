@@ -3,6 +3,7 @@ title: Scythe Blades (BB)
 obsidianUIMode: preview
 noteType: pf2eHazard
 tags:
+  - pf2eHazard
 
 source: Pathfinder Beginner Box
 aliases: "Compendium.pf2e.menace-under-otari-bestiary.Actor.7VqibTAEXXX6PIhh" 
@@ -25,7 +26,7 @@ sourcebook: "_Pathfinder Beginner Box_"
 ac: 21
 armorclass:
   - name: AC
-    desc: "21; __Fort__ +12, __Ref__ +8, __Will__ +0"
+    desc: "21; __Fort__ +12, __Ref__ +8, "
 hp: 44
 health:
   - name: ""
@@ -56,5 +57,11 @@ attacks:
 
 
 
+```
+
+```encounter-table
+name: Scythe Blades (BB)
+creatures:
+  - 1: Scythe Blades (BB)
 ```
 

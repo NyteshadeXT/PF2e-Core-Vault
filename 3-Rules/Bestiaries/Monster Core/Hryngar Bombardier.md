@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/duergar
   - pf2e/creature/type/dwarf
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/1
   - remaster
 statblock: inline
@@ -27,9 +28,9 @@ level: "Creature 1"
 
 alignment: ""
 size: "Medium"
-trait_01: "duergar"
-trait_02: "dwarf"
-trait_03: "humanoid"
+trait_01: [[duergar]]
+trait_02: [[dwarf]]
+trait_03: [[humanoid]]
 modifier: 4
 perception:
   - name: "Perception"
@@ -74,6 +75,12 @@ attacks:
   - name: "Quick Bombardier"
     desc: "`pf2:1`  The hryngar bombardier draws an alchemical grenade with an Interact action and throws it as a ranged Strike."
  
+```
+
+```encounter-table
+name: Hryngar Bombardier
+creatures:
+  - 1: Hryngar Bombardier
 ```
 
 

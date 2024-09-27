@@ -11,6 +11,7 @@ tags:
   - pf2e/creature/type/fey
   - pf2e/creature/type/nymph
   - pf2e/creature/type/water
+  - pf2eMonster
   - pf2e/creature/level/7
 statblock: inline
 name: "Pholebis"
@@ -25,23 +26,23 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #188: They Watched the Stars"
 name: "Pholebis"
 level: "Creature 7"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Medium"
-trait_01: "amphibious"
-trait_02: "chaotic"
-trait_03: "evil"
-trait_04: "fey"
-trait_05: "nymph"
-trait_06: "water"
+trait_01: [[amphibious]]
+trait_02: [[chaotic]]
+trait_03: [[evil]]
+trait_04: [[fey]]
+trait_05: [[nymph]]
+trait_06: [[water]]
 modifier: 18
 perception:
   - name: "Perception"
     desc: "+18; Low-Light Vision"
-languages: "Common, Elven, Fey"
+languages: "Common, Elven, Fey; speak with animals"
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +16, Athletics: +9 (+13 to Swim), Diplomacy: +20, Medicine: +15, Nature: +15, Performance: +20, Stealth: +14, Survival: +15"
+    desc: "Acrobatics: +16, Athletics: +9, Diplomacy: +20, Medicine: +15, Nature: +15, Performance: +20, Stealth: +14, Survival: +15"
 abilityMods: [0, 5, 4, 3, 4, 7]
 speed: 25 feet,  swim 25 feet
 sourcebook: "_Pathfinder #188: They Watched the Stars_"
@@ -67,7 +68,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "[[Creature Family Ability Glossary/(Nymph Queen) Nymph's Beauty|Nymph's Beauty]]"
-    desc: " (aura,emotion,mental,primal,visual) 30 feet. On a failed save, the target is [[Conditions/Stunned 1|Stunned 1]] for this turn and whenever it begins its turn within 30 feet of the naiad queen for the next 24 hours, even if it can't see her on subsequent turns.\nCreatures that start their turn in the aura must succeed at a DC 23 Will check save or suffer an effect described in the nymph queen's entry."
+    desc: " (aura,emotion,mental,primal,visual) 30 feet. On a failed save, the target is [[Conditions/Stunned|Stunned 1]] for this turn and whenever it begins its turn within 30 feet of the naiad queen for the next 24 hours, even if it can't see her on subsequent turns.\n* * *\n\nCreatures that start their turn in the aura must succeed at a DC 23 Will check save or suffer an effect described in the nymph queen's entry."
 
 attacks:
   - name: ""
@@ -82,17 +83,23 @@ attacks:
     desc: "DC 28, attack +20; __4th __  _[[Spells/Tidal Surge|Tidal Surge (At Will)]]_; __1st __  _[[Spells/Charm|Charm]]_, _[[Spells/Create Water|Create Water]]_\n__Constant__  __(2nd)__ _[[Spells/Speak with Animals|Speak with Animals]]_"
 
   - name: "[[Creature Family Ability Glossary/(Nymph Queen) Change Shape|Change Shape]]"
-    desc: "`pf2:1` (polymorph,primal) Nymph queens can transform between their original form, which looks much like a typical nymph of their kind, and any Small or Medium humanoid form, typically choosing a more humanoid-looking version of their natural form.\n"
+    desc: "`pf2:1` (polymorph,primal) Nymph queens can transform between their original form, which looks much like a typical nymph of their kind, and any Small or Medium humanoid form, typically choosing a more humanoid-looking version of their natural form.\n\n* * *\n"
 
   - name: "[[Creature Family Ability Glossary/(Nymph Queen) Focus Beauty|Focus Beauty]]"
-    desc: "`pf2:1` (emotion,mental,primal,visual) On a failed save, if the target was already affected by the naiad queen's beauty, the image of the queen sears into the creature's mind, allowing no further sight and effectively [[Conditions/Blinded|Blinding]] the creature until restored via [[Spells/Sound Body|Sound Body]] or a similar effect, or until the naiad queen chooses to remove the effect using a single action, which has the concentrate trait.\nThe nymph queen focuses her beauty upon a target within her aura. The creature must attempt a DC 23 Will check save. On a failure, it is affected as if by the nymph queen's nymph's beauty aura; if it was already affected by the aura, it suffers a greater effect described in the nymph queen's entry. A nymph queen can Focus Beauty on a given creature only once per turn."
+    desc: "`pf2:1` (emotion,mental,primal,visual) On a failed save, if the target was already affected by the naiad queen's beauty, the image of the queen sears into the creature's mind, allowing no further sight and effectively [[Conditions/Blinded|Blinding]] the creature until restored via [[Spells/Sound Body|Sound Body]] or a similar effect, or until the naiad queen chooses to remove the effect using a single action, which has the concentrate trait.\n* * *\n\nThe nymph queen focuses her beauty upon a target within her aura. The creature must attempt a DC 23 Will check save. On a failure, it is affected as if by the nymph queen's nymph's beauty aura; if it was already affected by the aura, it suffers a greater effect described in the nymph queen's entry. A nymph queen can Focus Beauty on a given creature only once per turn."
 
   - name: "[[Creature Family Ability Glossary/(Nymph Queen) Inspiration|Inspiration]]"
-    desc: "`pf2:3` (emotion,mental,primal) A nymph queen can inspire a single intelligent creature by giving that creature a token of her favor, typically a lock of her hair. As long as the creature carries her token and remains in good standing with the nymph queen, the creature gains a +1 status bonus to all Crafting checks, Performance checks, and Will saves.\nIf a nymph queen grants her Inspiration to a bard and the nymph queen is that bard's muse, the bard gains an additional benefit depending on their muse theme: for lore muse, the bard also gains a +1 status bonus to all Lore checks; for maestro muse, the status bonus to Performance checks increases to +2 for the purpose of determining the effects of compositions; for polymath muse, the bard gains a +4 status bonus to untrained skill checks; and for all other muses, the Will save bonus increases to +2 against fey.\n[[Bestiary Effects/Effect_ Nymph Queen's Inspiration|Effect: Naiad Queen's Inspiration]]"
+    desc: "`pf2:3` (emotion,mental,primal) A nymph queen can inspire a single intelligent creature by giving that creature a token of her favor, typically a lock of her hair. As long as the creature carries her token and remains in good standing with the nymph queen, the creature gains a +1 status bonus to all Crafting checks, Performance checks, and Will saves.\n\nIf a nymph queen grants her Inspiration to a bard and the nymph queen is that bard's muse, the bard gains an additional benefit depending on their muse theme: for lore muse, the bard also gains a +1 status bonus to all Lore checks; for maestro muse, the status bonus to Performance checks increases to +2 for the purpose of determining the effects of compositions; for polymath muse, the bard gains a +4 status bonus to untrained skill checks; and for all other muses, the Will save bonus increases to +2 against fey.\n\n[[Bestiary Effects/Effect_ Nymph Queen's Inspiration|Effect: Naiad Queen's Inspiration]]"
 
   - name: "Water Healing"
     desc: "`pf2:2` (concentrate,healing,primal) While within any body of water in her domain, the naiad queen heals 28 Hit Points every 10 minutes."
  
+```
+
+```encounter-table
+name: Pholebis
+creatures:
+  - 1: Pholebis
 ```
 
 

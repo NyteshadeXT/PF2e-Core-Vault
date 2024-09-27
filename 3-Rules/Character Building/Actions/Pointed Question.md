@@ -10,29 +10,32 @@ tags:
   - trait/mental
   - trait/common
   - category/interaction
+  - remaster
 aliases: "Compendium.pf2e.actionspf2e.Item.xccOiNL2W1EtfUYl"
-license: OGL
+license: ORC
 ---
 # Pointed Question `pf2:1`
 
-### [[auditory]][[concentrate]][[investigator]][[linguistic]][[mental]]
+### [[3-Rules/Rule References/auditory]][[3-Rules/Rule References/Concentrate]][[investigator]][[linguistic]][[3-Rules/Rule References/Mental]]
 
 **Category** interaction; 
 
 
 
 
-You ask a question that charms or needles someone in just the right way. Ask a question of a non-allied creature that you can see and have been conversing with. Attempt a Diplomacy check against the creature's Will DC. The creature is then temporarily immune for 1 hour.
+You ask a question that charms or needles someone in just the right way. Ask a question of a non-allied creature that you can see. Attempt a Diplomacy check check against the creature's Will DC. The creature is then temporarily immune for 1 hour.
 
 * * *
 
-**Critical Success** The target must directly answer your question. It doesn't have to answer truthfully, but you gain a +4 circumstance bonus to your Perception DC if the creature attempts to [[Actions/Lie|Lie]] to you.
+**Critical Success** The target must directly answer your question. It doesn't have to answer truthfully, but you gain a +4 circumstance bonus to your Perception DC if the creature attempts to Lie to you.
 
-**Success** As critical success, but the circumstance bonus is +2.
+Whether it answers truthfully or not, you glean something from its body language, and it is [[Conditions/Off-Guard|Off-Guard]] to the Strike you make using Devise a Stratagem against it before the end of your turn.
+
+**Success** As critical success, but the circumstance bonus to your Perception DC is +2.
 
 **Failure** The target can refuse to answer you as normal.
 
 **Critical Failure** The target can refuse to answer you as normal, and its attitude toward you decreases by one step due to your aggravating attention.
 
-*Source: Pathfinder Advanced Player's Guide*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

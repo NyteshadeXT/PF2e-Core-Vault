@@ -6,6 +6,7 @@ cssClasses: pf2e
 aliases: "Compendium.battlezoo-bestiary-su-pf2e.pf2e-battlezoo-su-actors.Actor.MRT5JJDzH1U14fm8" 
 tags:
   - pf2e/creature/type/aberration
+  - pf2eMonster
   - pf2e/creature/level/12
 statblock: inline
 name: "Contortion Crown"
@@ -21,10 +22,10 @@ token: [[modules/battlezoo-bestiary-su-pf2e/art/Portraits/contortion-crown.webp|
 source: "Battlezoo Bestiary: Strange and Unusual"
 name: "Contortion Crown"
 level: "Creature 12"
-rare_03: "Rare"
+rare_03: [[Rare]]
 alignment: ""
 size: "grg"
-trait_01: "aberration"
+trait_01: [[aberration]]
 modifier: 20
 perception:
   - name: "Perception"
@@ -32,7 +33,7 @@ perception:
 languages: "Aklo, Common, Sakvroth"
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +25, Stealth: +22, Thievery: +25, Society: +20, "
+    desc: "Acrobatics: +25, Society: +20, Stealth: +22, Thievery: +25, Acrobatics: +25, Stealth: +22, Thievery: +25, Society: +20"
 abilityMods: [7, 4, 7, 5, 2, 4]
 speed: 25 feet
 sourcebook: "_Battlezoo Bestiary: Strange and Unusual_"
@@ -51,7 +52,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Improvised Block"
-    desc: "`pf2:r`  **Trigger** The contortion crown would take damage while Inhabiting an object\n**Effect** The crown wards off the blow with its improvised carapace. The object's Hardness prevents up to 15 damage. The crown and the object both take any remaining damage, possibly breaking or destroying the object and expelling the crown. The object has 60 Hit Points and a Break Threshold of 30."
+    desc: "`pf2:r`  **Trigger** The contortion crown would take damage while Inhabiting an object\n* * *\n\n**Effect** The crown wards off the blow with its improvised carapace. The object's Hardness prevents up to 15 damage. The crown and the object both take any remaining damage, possibly breaking or destroying the object and expelling the crown. The object has 60 Hit Points and a Break Threshold of 30."
 
 attacks:
   - name: ""
@@ -66,13 +67,13 @@ attacks:
     desc: "`pf2:1` Junk +26 (brutal, modular b, p, or s, range increment 120 feet)\n__Damage__  3d6 + 13 bludgeoning"
 
   - name: "Inhabit"
-    desc: "`pf2:2` (move) **Requirements** The contortion crown doesn't currently Inhabit an object\n**Effect** contortion crown inhabits a Gargantuan object such as a small building, vehicle, or similar dwelling, and the dwelling’s Hardness becomes 15, with 60 Hit Points and a Break Threshold of 30. The object becomes an extradimensional space with an interior large enough for the creeper to fit inside, regardless of the object's exterior volume. While Inhabiting an object, the contortion crown gains a +2 circumstance bonus to AC and loses its weakness to slashing damage. The crown remains Inhabiting the object until the object breaks or the crown Inhabits a new object. When not Inhabiting an object, the crown can't use its junk carapace Strike."
+    desc: "`pf2:2` (move) **Requirements** The contortion crown doesn't currently Inhabit an object\n* * *\n\n**Effect** contortion crown inhabits a Gargantuan object such as a small building, vehicle, or similar dwelling, and the dwelling’s Hardness becomes 15, with 60 Hit Points and a Break Threshold of 30. The object becomes an extradimensional space with an interior large enough for the creeper to fit inside, regardless of the object's exterior volume. While Inhabiting an object, the contortion crown gains a +2 circumstance bonus to AC and loses its weakness to slashing damage. The crown remains Inhabiting the object until the object breaks or the crown Inhabits a new object. When not Inhabiting an object, the crown can't use its junk carapace Strike."
 
   - name: "Retract"
-    desc: "`pf2:1`  **Requirements** The contortion crown Inhabits an object\n**Effect** The crown fully withdraws into their improvised carapace. Their circumstance bonus to AC increases to +4, and they can't take actions except to use Improved Block, Enforce Dominion, or this action again to come out of their carapace."
+    desc: "`pf2:1`  **Requirements** The contortion crown Inhabits an object\n* * *\n\n**Effect** The crown fully withdraws into their improvised carapace. Their circumstance bonus to AC increases to +4, and they can't take actions except to use Improved Block, Enforce Dominion, or this action again to come out of their carapace."
 
   - name: "Enforce Dominion"
-    desc: "`pf2:1`  **Frequency** once per round\n**Requirements** A Huge or Gargantuan object or building suitable for a dwelling is within the contortion crown's reach, and there are creatures inside of that object or dwelling\n**Effect** The contortion crown attempts to force out all creatures (except itself, if applicable) from the object or dwelling. The occupying creatures must succeed on a Fortitude save against the contortion crown's Athletics DC. On a failed save, a creature is pushed out of the object and to an adjacent square. On a critical failure, a creature is pushed 15 feet away from the object and then the creature falls Prone."
+    desc: "`pf2:1`  **Frequency** once per round\n\n**Requirements** A Huge or Gargantuan object or building suitable for a dwelling is within the contortion crown's reach, and there are creatures inside of that object or dwelling\n* * *\n\n**Effect** The contortion crown attempts to force out all creatures (except itself, if applicable) from the object or dwelling. The occupying creatures must succeed on a Fortitude save against the contortion crown's Athletics DC. On a failed save, a creature is pushed out of the object and to an adjacent square. On a critical failure, a creature is pushed 15 feet away from the object and then the creature falls [[undefined]]."
 
   - name: "Forceful Seizure"
     desc: "`pf2:2`  With a sweeping motion, the contortion crown Interacts to pick up a Small, Medium, or Large object and Strikes up to two creatures within 10 feet of it using its limb Strike. Its multiple attack penalty does not increase until after it makes both limb Strikes, and its +1 circumstance bonus to attack rolls from the sweep trait applies to both Strikes."
@@ -80,6 +81,12 @@ attacks:
   - name: "Throw Junk"
     desc: "`pf2:1`  The contortion crown picks up an object within reach (typically a piece of junk) and throws it, making a ranged junk Strike."
  
+```
+
+```encounter-table
+name: Contortion Crown
+creatures:
+  - 1: Contortion Crown
 ```
 
 

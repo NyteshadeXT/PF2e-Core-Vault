@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.kingmaker-bestiary.Actor.oM1AvORITfhzwrDk"
 tags:
   - pf2e/creature/type/dragon
   - pf2e/creature/type/evil
+  - pf2eMonster
   - pf2e/creature/level/18
 statblock: inline
 name: "Barbtongued Wyvern"
@@ -21,11 +22,11 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Kingmaker"
 name: "Barbtongued Wyvern"
 level: "Creature 18"
-rare_03: "Rare"
+rare_03: [[Rare]]
 alignment: ""
 size: "huge"
-trait_01: "dragon"
-trait_02: "evil"
+trait_01: [[dragon]]
+trait_02: [[evil]]
 modifier: 29
 perception:
   - name: "Perception"
@@ -55,7 +56,7 @@ abilities_mid:
     desc: "`pf2:r`  "
 
   - name: "Savage"
-    desc: "`pf2:r`  **Trigger** A creature [[Conditions/Grabbed|Grabbed]] by the wyvern critically fails a skill check to Escape.\n**Effect** The wyvern makes a stinger Strike against the triggering creature."
+    desc: "`pf2:r`  **Trigger** A creature [[Conditions/Grabbed|Grabbed]] by the wyvern critically fails a skill check to Escape.\n* * *\n\n**Effect** The wyvern makes a stinger Strike against the triggering creature."
 
 attacks:
   - name: ""
@@ -70,17 +71,23 @@ attacks:
     desc: "`pf2:1` Stinger +35 (agile, reach 20 feet)\n__Damage__  3d10 + 17 piercing plus barbtongued-wyvern-venom"
 
   - name: "Barbtongued Wyvern Venom"
-    desc: " (poison) **Saving Throw** DC 40 Fortitude check\n**Maximum Duration** 6 rounds\n**Stage 1** 5d12 poison damage and [[Conditions/Clumsy 1|Clumsy 1]] (1 round)\n**Stage 2** 6d12 poison damage and [[Conditions/Clumsy 1|Clumsy 2]] (1 round)\n**Stage 3** 7d12 poison damage and [[Conditions/Clumsy 1|Clumsy 3]] (1 round)"
+    desc: " (poison) **Saving Throw** DC 40 Fortitude check\n* * *\n\n**Maximum Duration** 6 rounds\n\n**Stage 1** 5d12 poison damage and [[Conditions/Clumsy|Clumsy 1]] (1 round)\n\n**Stage 2** 6d12 poison damage and [[Conditions/Clumsy|Clumsy 2]] (1 round)\n\n**Stage 3** 7d12 poison damage and [[Conditions/Clumsy|Clumsy 3]] (1 round)"
 
   - name: "Pin to the Sky"
-    desc: "`pf2:1`  With incredible force, the barbtongued wyvern whips its tongue and flings barbs from its length. Up to two creatures within 200 feet of the wyvern can be targeted; each creature must attempt a DC 40 Reflex check save. The barbtongued wyvern can't use Pin to the Sky again until its next turn.\n**Critical Success** The target is unaffected.\n**Success** The target takes 2d12 + 3 piercing damage.\n**Failure** The target takes 5d12 piercing damage and is pinned in place, fastened to the underlying magical nature of Thousandbreaths by the barbs (even if not adjacent to a solid surface). It is [[Conditions/Immobilized|Immobilized]] until it Escapes. If the creature is under the effects of a spell that would prevent it from being immobilized, Thousandbreaths first attempts a Counteract check against the spell (+27).\n**Critical Failure** As failure, but the target takes 10d12 piercing damage and is [[Conditions/Slowed 1|Slowed 1]] until it escapes."
+    desc: "`pf2:1`  With incredible force, the barbtongued wyvern whips its tongue and flings barbs from its length. Up to two creatures within 200 feet of the wyvern can be targeted; each creature must attempt a DC 40 Reflex check save. The barbtongued wyvern can't use Pin to the Sky again until its next turn.\n* * *\n\n**Critical Success** The target is unaffected.\n\n**Success** The target takes 2d12+3 piercing damage.\n\n**Failure** The target takes 5d12 piercing damage and is pinned in place, fastened to the underlying magical nature of Thousandbreaths by the barbs (even if not adjacent to a solid surface). It is [[Conditions/Immobilized|Immobilized]] until it Escapes. If the creature is under the effects of a spell that would prevent it from being immobilized, Thousandbreaths first attempts a Counteract check against the spell (+27).\n\n**Critical Failure** As failure, but the target takes 10d12 piercing damage and is [[Conditions/Slowed|Slowed 1]] until it escapes."
 
   - name: "Reel In"
-    desc: "  **Requirements** The wyvern has a creature [[Conditions/Grabbed|Grabbed]] in its tongue.\n**Effect** The wyvern moves the creature up to 20 feet closer to it."
+    desc: "  **Requirements** The wyvern has a creature [[Conditions/Grabbed|Grabbed]] in its tongue.\n* * *\n\n**Effect** The wyvern moves the creature up to 20 feet closer to it."
 
   - name: "Ripping Grab"
-    desc: "`pf2:1`  **Requirements** The wyvern's last action was a success with a barbed tongue Strike, or it has a creature [[Conditions/Grabbed|Grabbed]] using this action.\n**Effect** If the target was [[Conditions/Immobilized|Immobilized]] by Pin to the Sky, the wyvern first painfully rips it free of the effect, dealing 4d12 piercing damage. Regardless of whether or not the target was previously immobilized, the wyvern Grabs the target until the end of the monster's next turn. The wyvern can't use its tongue to Strike creatures until the Grab ends. Using Ripping Grab extends the duration of the monster's Grab until the end of its next turn for all creatures grabbed by it. A grabbed creature can use the [[Actions/Escape|Escape]] action to get out of the grab, and the Grab ends for a grabbed creature if the barbtongued wyvern moves away from it."
+    desc: "`pf2:1`  **Requirements** The wyvern's last action was a success with a barbed tongue Strike, or it has a creature [[Conditions/Grabbed|Grabbed]] using this action.\n* * *\n\n**Effect** If the target was [[Conditions/Immobilized|Immobilized]] by Pin to the Sky, the wyvern first painfully rips it free of the effect, dealing 4d12 piercing damage. Regardless of whether or not the target was previously immobilized, the wyvern Grabs the target until the end of the monster's next turn. The wyvern can't use its tongue to Strike creatures until the Grab ends. Using Ripping Grab extends the duration of the monster's Grab until the end of its next turn for all creatures grabbed by it. A grabbed creature can use the [[Actions/Escape|Escape]] action to get out of the grab, and the Grab ends for a grabbed creature if the barbtongued wyvern moves away from it."
  
+```
+
+```encounter-table
+name: Barbtongued Wyvern
+creatures:
+  - 1: Barbtongued Wyvern
 ```
 
 

@@ -10,7 +10,7 @@ tags:
 aliases: "Compendium.pf2e.feats-srd.Item.CpjN7v1QN8TQFcvI"
 license: ORC
 ---
-# Crossbow Ace
+# Crossbow Ace `pf2:1`
 ## Feat 1
 ### [[ranger]]
 

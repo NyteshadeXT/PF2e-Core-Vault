@@ -6,8 +6,9 @@ tags:
   - trait/investigator
   - trait/common
   - category/class
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.6fojN9yBJByTZ1Q9"
-license: OGL
+license: ORC
 ---
 # Didactic Strike
 ## Feat 16
@@ -25,5 +26,5 @@ When you use [[Feats/Shared Stratagem|Shared Stratagem]], you can designate up t
 
 [[Feat_Feature Effects/Effect_ Didactic Strike|Effect: Didactic Strike]]
 
-*Source: Pathfinder Advanced Player's Guide*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

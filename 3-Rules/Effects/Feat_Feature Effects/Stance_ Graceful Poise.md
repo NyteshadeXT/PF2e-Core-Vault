@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by: [[Feats/Graceful Poise|Graceful Poise]]
+Granted by [[Feats/Graceful Poise|Graceful Poise]]
 
 With the right positioning, your off-hand weapon can strike like a scorpion's stinger.
 

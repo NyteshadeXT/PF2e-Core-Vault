@@ -9,8 +9,9 @@ tags:
   - trait/trap
   - trait/uncommon
   - category/snare
+  - remaster
 aliases: "Compendium.pf2e.equipment-srd.Item.0lhh2l4kh3QrwYH9"
-license: OGL
+license: ORC
 ---
 # Hobbling Snare
 ## Item 4
@@ -33,5 +34,5 @@ You rig vines, ropes, or wires to cinch tight around a creature that triggers th
 
 **Critical Failure** As success, but the penalty is -20 feet.
 
-*Source: Pathfinder Core Rulebook*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

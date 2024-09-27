@@ -14,7 +14,7 @@ license: OGL
 ---
 # Bayonet
 ## Item 0
-### [[agile]][[attached-to-crossbow-or-firearm]][[finesse]]
+### [[3-Rules/Rule References/Agile]][[attached-to-crossbow-or-firearm]][[3-Rules/Rule References/Finesse]]
 
 |  |  |
 | -- | -- |

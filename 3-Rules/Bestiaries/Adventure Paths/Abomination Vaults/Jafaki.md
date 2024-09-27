@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/chaotic
   - pf2e/creature/type/evil
   - pf2e/creature/type/seugathi
+  - pf2eMonster
   - pf2e/creature/level/8
 statblock: inline
 name: "Jafaki"
@@ -23,18 +24,18 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #164: Hands of the Devil"
 name: "Jafaki"
 level: "Creature 8"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Large"
-trait_01: "aberration"
-trait_02: "chaotic"
-trait_03: "evil"
-trait_04: "seugathi"
+trait_01: [[aberration]]
+trait_02: [[chaotic]]
+trait_03: [[evil]]
+trait_04: [[seugathi]]
 modifier: 18
 perception:
   - name: "Perception"
     desc: "+18; Darkvision, Tremorsense (Imprecise) 30 Feet"
-languages: "Aklo, Common, Sakvroth"
+languages: "Aklo, Common, Sakvroth; telepathy 100 feet"
 skills:
   - name: "Skills"
     desc: "Acrobatics: +18, Crafting: +18, Diplomacy: +15, Intimidation: +17, Medicine: +16, Nature: +16, Occultism: +18, Stealth: +18"
@@ -60,10 +61,10 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Command Confusion"
-    desc: "`pf2:r`  **Trigger** A creature fails its save against Jafaki's mindfog aura\n**Effect** Jafaki determines who the [[Conditions/Confused|Confused]] creature attacks for that round, instead of the target being randomly determined by the GM.\nIf the chosen target is the confused creature's ally, the creature can immediately attempt a DC 21 Will check save; on a success, its target is determined randomly as normal, and on a critical success the target is no longer confused."
+    desc: "`pf2:r`  **Trigger** A creature fails its save against Jafaki's mindfog aura\n* * *\n\n**Effect** Jafaki determines who the [[Conditions/Confused|Confused]] creature attacks for that round, instead of the target being randomly determined by the GM.\n\nIf the chosen target is the confused creature's ally, the creature can immediately attempt a DC 21 Will check save; on a success, its target is determined randomly as normal, and on a critical success the target is no longer confused."
 
   - name: "Mindfog Aura"
-    desc: " (mental) 20 feet. A creature that starts its turn in the aura must succeed at a DC 23 Will check save or become [[Conditions/Confused|Confused]] for 1 round; on a success, that creature is temporarily immune for 1 minute.\nJafaki can suppress or activate this aura as a single action with the concentrate trait."
+    desc: " (mental) 20 feet. A creature that starts its turn in the aura must succeed at a DC 23 Will check save or become [[Conditions/Confused|Confused]] for 1 round; on a success, that creature is temporarily immune for 1 minute.\n\nJafaki can suppress or activate this aura as a single action with the concentrate trait."
 
 attacks:
   - name: ""
@@ -93,8 +94,14 @@ attacks:
     desc: "`pf2:1` (flourish) Jafaki Interacts to draw an elixir or mutagen, then drinks it."
 
   - name: "Seugathi Venom"
-    desc: " (poison) **Saving Throw** DC 24 Fortitude check\n**Maximum Duration** 6 rounds\n**Stage 1** 1d6 poison damage and [[Conditions/Stupefied 1|Stupefied 1]] (1 round)\n**Stage 2** 2d6 poison damage and [[Conditions/Deafened|Deafened]] and [[Conditions/Stupefied 1|Stupefied 2]] (1 round)"
+    desc: " (poison) **Saving Throw** DC 24 Fortitude check\n* * *\n\n**Maximum Duration** 6 rounds\n\n**Stage 1** 1d6 poison damage and [[Conditions/Stupefied|Stupefied 1]] (1 round)\n\n**Stage 2** 2d6 poison damage and [[Conditions/Deafened|Deafened]] and [[Conditions/Stupefied|Stupefied 2]] (1 round)"
  
+```
+
+```encounter-table
+name: Jafaki
+creatures:
+  - 1: Jafaki
 ```
 
 

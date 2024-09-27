@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.pathfinder-monster-core.Actor.kKFfigxrJ2vbJazp"
 tags:
   - pf2e/creature/type/undead
   - pf2e/creature/type/unholy
+  - pf2eMonster
   - pf2e/creature/level/21
   - remaster
 statblock: inline
@@ -23,11 +24,11 @@ token: [[modules/pf2e-tokens-bestiaries/portraits/undead/skeletal/grim-reaper.we
 source: "Pathfinder Monster Core"
 name: "Grim Reaper"
 level: "Creature 21"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Medium"
-trait_01: "undead"
-trait_02: "unholy"
+trait_01: [[undead]]
+trait_02: [[unholy]]
 modifier: 41
 perception:
   - name: "Perception"
@@ -82,7 +83,7 @@ attacks:
     desc: " (death) A creature critically hit by any of the grim reaper's attacks or that critically fails against any of its spells must succeed at a DC 47 Fortitude check save or die."
 
   - name: "Energy Drain"
-    desc: "  When the Grim Reaper hits and deals damage with its scythe, it regains 20 Hit Points, and the target must succeed at a DC 43 Fortitude check save or become [[Conditions/Doomed 1|Doomed 1]]. If the target is already doomed, the doomed value increases by 1 (to a maximum of [[Conditions/Doomed 1|Doomed 3]])."
+    desc: "  When the Grim Reaper hits and deals damage with its scythe, it regains 20 healing Hit Points, and the target must succeed at a DC 43 Fortitude check save or become [[Conditions/Doomed|Doomed 1]]. If the target is already doomed, the doomed value increases by 1 (to a maximum of [[Conditions/Doomed|Doomed 3]])."
 
   - name: "Final Death"
     desc: "  A creature killed by the Grim Reaper can't be brought back to life by any means short of divine intervention."
@@ -90,6 +91,12 @@ attacks:
   - name: "Infuse Weapon"
     desc: " (divine) Any scythe gains the agile trait, can't be disarmed, and becomes a _+3 major striking keen scythe_ while the Grim Reaper wields it.\n\nIf the Grim Reaper Strikes a creature with a weakness to any specific type of damage, the scythe's damage counts as that type of damage, in addition to slashing."
  
+```
+
+```encounter-table
+name: Grim Reaper
+creatures:
+  - 1: Grim Reaper
 ```
 
 

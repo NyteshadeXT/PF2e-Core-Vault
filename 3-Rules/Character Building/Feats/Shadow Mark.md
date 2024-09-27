@@ -7,8 +7,9 @@ tags:
   - trait/skill
   - trait/common
   - category/skill
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.N7IsnLDFt73r7x56"
-license: OGL
+license: ORC
 ---
 # Shadow Mark
 ## Feat 2
@@ -26,5 +27,5 @@ When you attempt a Stealth check to [[Actions/Avoid Notice|Avoid Notice]] while 
 
 If you start an encounter with the target while shadowing them, the target takes this penalty to their initiative roll and to their Perception DC to determine if they notice you, as normal for [[Actions/Sneak|Sneak]].
 
-*Source: Pathfinder Advanced Player's Guide*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

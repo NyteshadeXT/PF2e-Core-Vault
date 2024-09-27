@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/fiend
   - pf2e/creature/type/unholy
+  - pf2eMonster
   - pf2e/creature/level/16
 statblock: inline
 name: "Astradaemon"
@@ -27,15 +28,15 @@ level: "Creature 16"
 
 alignment: ""
 size: "Large"
-trait_01: "daemon"
-trait_02: "evil"
-trait_03: "fiend"
-trait_04: "unholy"
+trait_01: [[daemon]]
+trait_02: [[evil]]
+trait_03: [[fiend]]
+trait_04: [[unholy]]
 modifier: 28
 perception:
   - name: "Perception"
     desc: "+28; Darkvision, Lifesense 30 Feet"
-languages: "Common, Daemonic"
+languages: "Common, Daemonic; telepathy 100 feet"
 skills:
   - name: "Skills"
     desc: "Acrobatics: +28, Intimidation: +33, Religion: +26, Stealth: +28, Survival: +26"
@@ -60,7 +61,7 @@ abilities_mid:
     desc: " (divine,illusion,visual) An astradaemon bends light, appearing shifted from its true position, though still in the same space. Creatures targeting the astradaemon must attempt a DC 11 Flat check check, as if the astradaemon were [[Conditions/Hidden|Hidden]], even though it remains [[Conditions/Observed|Observed]]. Effects such as the Blind-Fight feat and halfling's keen eyes that apply on the flat check against hidden creatures also apply against a displaced astradaemon."
 
   - name: "Soul Siphon"
-    desc: " (aura,divine,force) 30 feet. An astradaemon draws power from the souls of the recently slain. If a Small or larger living creature dies within its aura, the astradaemon gains 5 temporary Hit Points and a status bonus to attack and damage rolls for 1 round, unless the creature was slain by an astradaemon's Devour Soul ability.\nIncorporeal undead and living spirits traveling outside the body take 1d8 force damage each round within the daemon's aura from the spiritual pressure as the astradaemon pulls in fragments of their soul.\n[[Bestiary Effects/Effect_ Soul Siphon|Effect: Soul Siphon]]"
+    desc: " (aura,divine,force) 30 feet. An astradaemon draws power from the souls of the recently slain. If a Small or larger living creature dies within its aura, the astradaemon gains 5 temporary Hit Points and a status bonus to attack and damage rolls for 1 round, unless the creature was slain by an astradaemon's Devour Soul ability.\n\nIncorporeal undead and living spirits traveling outside the body take 1d8 force damage each round within the daemon's aura from the spiritual pressure as the astradaemon pulls in fragments of their soul.\n\n[[Bestiary Effects/Effect_ Soul Siphon|Effect: Soul Siphon]]"
 
 attacks:
   - name: ""
@@ -78,14 +79,20 @@ attacks:
     desc: "DC 37, attack +29; __8th __  _[[Spells/Pinpoint|Discern Location]]_, _[[Spells/Execute|Finger of Death]]_; __7th __  _[[Spells/Interplanar Teleport|Plane Shift (x2)]]_; __5th __  _[[Spells/Translocate|Dimension Door]]_; __4th __  _[[Spells/Translocate|Dimension Door (At Will)]]_; __1st __  _[[Spells/Detect Alignment|Detect Alignment (At Will) (Good Only)]]_\n__Constant__  __(6th)__ _[[Spells/Truesight|True Seeing]]_"
 
   - name: "Devour Soul"
-    desc: "`pf2:1` (divine,incapacitation) **Requirements** The astradaemon hasn't used an action with the attack trait yet this turn.\n**Effect** The astradaemon draws out and consumes the soul of a living creature it has [[Conditions/Grabbed|Grabbed]]. The creature must succeed at a DC 35 Fortitude check save or instantly die. If it dies, the astradaemon gains 10 temporary Hit Points and a +2 status bonus to attack and damage rolls for 1 minute, or for 1 day if the victim was 15th level or higher. A victim slain in this way can be returned to life normally. A creature that survives is temporarily immune for 1 minute.\n[[Bestiary Effects/Effect_ Devour Soul|Effect: Devour Soul]]\n[[Bestiary Effects/Effect_ Devour Soul (Victim Level 15 or Higher)|Effect: Devour Soul (Victim Level 15 or Higher)]]"
+    desc: "`pf2:1` (divine,incapacitation) **Requirements** The astradaemon hasn't used an action with the attack trait yet this turn.\n* * *\n\n**Effect** The astradaemon draws out and consumes the soul of a living creature it has [[Conditions/Grabbed|Grabbed]]. The creature must succeed at a DC 35 Fortitude check save or instantly die. If it dies, the astradaemon gains 10 temporary Hit Points and a +2 status bonus to attack and damage rolls for 1 minute, or for 1 day if the victim was 15th level or higher. A victim slain in this way can be returned to life normally. A creature that survives is temporarily immune for 1 minute.\n\n[[Bestiary Effects/Effect_ Devour Soul|Effect: Devour Soul]]\n\n[[Bestiary Effects/Effect_ Devour Soul (Victim Level 15 or Higher)|Effect: Devour Soul (Victim Level 15 or Higher)]]"
 
   - name: "Essence Drain"
-    desc: " (divine,void) When an astradaemon hits with its claw, jaws, or tail, it drains the target's spiritual and vital essences. The target takes 2d10 void damage and the astradaemon regains an equal number of Hit Points. The target must succeed at a DC 37 Fortitude check save or become [[Conditions/Doomed 1|Doomed 1]] and [[Conditions/Drained 1|Drained 1]]. If the target was already drained or doomed, it instead increases both conditions' value by 1, to a maximum of 4."
+    desc: " (divine,void) When an astradaemon hits with its claw, jaws, or tail, it drains the target's spiritual and vital essences. The target takes 2d10 void damage and the astradaemon regains an equal number of Hit Points. The target must succeed at a DC 37 Fortitude check save or become [[Conditions/Doomed|Doomed 1]] and [[Conditions/Drained|Drained 1]]. If the target was already drained or doomed, it instead increases both conditions' value by 1, to a maximum of 4."
 
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
     desc: "`pf2:1`  "
  
+```
+
+```encounter-table
+name: Astradaemon
+creatures:
+  - 1: Astradaemon
 ```
 
 

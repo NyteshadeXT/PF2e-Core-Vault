@@ -6,6 +6,7 @@ cssClasses: pf2e
 aliases: "Compendium.pf2e.pathfinder-bestiary-3.Actor.ULfACJrDBnZLNBKj" 
 tags:
   - pf2e/creature/type/construct
+  - pf2eMonster
   - pf2e/creature/level/6
 statblock: inline
 name: "Terra-Cotta Soldier"
@@ -24,12 +25,12 @@ level: "Creature 6"
 
 alignment: ""
 size: "Medium"
-trait_01: "construct"
+trait_01: [[construct]]
 modifier: 14
 perception:
   - name: "Perception"
     desc: "+14; "
-languages: "Common"
+languages: "Common; (can&#x27;t speak any language)"
 skills:
   - name: "Skills"
     desc: "Athletics: +15, Intimidation: +15"
@@ -55,7 +56,7 @@ abilities_mid:
     desc: "`pf2:r`  "
 
   - name: "[[Actions/Raise a Shield|Raise a Shield]]"
-    desc: "`pf2:1` (general) **Requirements** You are wielding a shield\nYou position your shield to protect yourself. When you have Raised a Shield, you gain its listed circumstance bonus to AC. Your shield remains raised until the start of your next turn.\n[[Equipment Effects/Effect_ Raise a Shield|Effect: Raise a Shield]]"
+    desc: "`pf2:1` (general) **Requirements** You are wielding a shield\n* * *\n\nYou position your shield to protect yourself. When you have Raised a Shield, you gain its listed circumstance bonus to AC. Your shield remains raised until the start of your next turn.\n\n[[Equipment Effects/Effect_ Raise a Shield|Effect: Raise a Shield]]"
 
   - name: "[[Bestiary Ability Glossary/Shield Block|Shield Block]]"
     desc: "`pf2:r`  "
@@ -69,6 +70,12 @@ attacks:
   - name: "Ranged"
     desc: "`pf2:1` Composite Longbow +16 (deadly d10, propulsive, range increment 100 feet, volley 30 ft.)\n__Damage__  2d8 + 6 piercing"
  
+```
+
+```encounter-table
+name: Terra-Cotta Soldier
+creatures:
+  - 1: Terra-Cotta Soldier
 ```
 
 

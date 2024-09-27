@@ -6,8 +6,9 @@ tags:
   - trait/archetype
   - trait/common
   - category/class
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.jYKKnr41OqQrf7hv"
-license: OGL
+license: ORC
 ---
 # Efficient Rituals
 ## Feat 8
@@ -19,7 +20,9 @@ license: OGL
 
 **Prerequisites** Ritualist Dedication
 * * *
-You can perform some rituals in less time. If the ritual normally requires 1 day to cast, you can cast it in 4 hours. If it takes longer than 1 day, you cast it in half the number of days, rounded up.
+You can perform particularly extensive rituals in less time. If the ritual normally requires 1 day to cast, you can cast it in 4 hours. If it takes longer than 1 day, you cast it in half the number of days, rounded up.
 
-*Source: Pathfinder Advanced Player's Guide*
-*OGL*
+At 14th level, if a ritual has a casting time measured in days, you can cast it in an equal number of hours. If this results in a ritual longer than 8 hours, you split the ritual between multiple days, as normal for a ritual.
+
+*Source: Pathfinder Player Core 2*
+*ORC*

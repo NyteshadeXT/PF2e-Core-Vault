@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/human
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/13
 statblock: inline
 name: "Crimson Acolyte"
@@ -23,13 +24,13 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #173: Doorway to the Red Star"
 name: "Crimson Acolyte"
 level: "Creature 13"
-rare_03: "Rare"
+rare_03: [[Rare]]
 alignment: ""
 size: "Medium"
-trait_01: "chaotic"
-trait_02: "evil"
-trait_03: "human"
-trait_04: "humanoid"
+trait_01: [[chaotic]]
+trait_02: [[evil]]
+trait_03: [[human]]
+trait_04: [[humanoid]]
 modifier: 23
 perception:
   - name: "Perception"
@@ -78,14 +79,20 @@ attacks:
     desc: "`pf2:1` Dueling Pistol +26 (concealable, concussive, fatal d10, magical, range increment 60 feet, reload 1)\n__Damage__  2d6 + 10 piercing"
 
   - name: "Flurry of Blows"
-    desc: "`pf2:1` (flourish) **Frequency** once per turn\n**Effect** The acolyte makes two unarmed Strikes, or one unarmed Strike and a dueling pistol Strike. If both hit the same creature, combine their damages for the purposes of resistances and weaknesses.\nThe acolyte's multiple attack penalty applies normally to these Strikes."
+    desc: "`pf2:1` (flourish) **Frequency** once per turn\n* * *\n\n**Effect** The acolyte makes two unarmed Strikes, or one unarmed Strike and a dueling pistol Strike. If both hit the same creature, combine their damages for the purposes of resistances and weaknesses.\n\nThe acolyte's multiple attack penalty applies normally to these Strikes."
 
   - name: "[[Bestiary Ability Glossary/Sneak Attack|Sneak Attack]]"
     desc: "  The acolyte deals an extra 2d6 precision damage to [[Conditions/Off-Guard|Off-Guard]] creatures."
 
   - name: "Thousand Ants Stance"
-    desc: "`pf2:1` (stance) The acolyte takes the stance of thousand ants, a style mimicking the distracting strikes of a swarm of tiny, vicious creatures. The acolyte can make thousand wounds unarmed attacks.\nThese deal 1d12 piercing damage; are in the brawling group; and have the backstabber, forceful, and unarmed traits. While in this stance, if the acolyte successfully [[Actions/Trip|Trips]] a target, the target is [[Conditions/Off-Guard|Off-Guard]] until the start of the target's next turn."
+    desc: "`pf2:1` (stance) The acolyte takes the stance of thousand ants, a style mimicking the distracting strikes of a swarm of tiny, vicious creatures. The acolyte can make thousand wounds unarmed attacks.\n\nThese deal 1d12 piercing damage; are in the brawling group; and have the backstabber, forceful, and unarmed traits. While in this stance, if the acolyte successfully [[Actions/Trip|Trips]] a target, the target is [[Conditions/Off-Guard|Off-Guard]] until the start of the target's next turn."
  
+```
+
+```encounter-table
+name: Crimson Acolyte
+creatures:
+  - 1: Crimson Acolyte
 ```
 
 

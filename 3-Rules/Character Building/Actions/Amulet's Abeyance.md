@@ -13,7 +13,7 @@ license: OGL
 ---
 # Amulet's Abeyance `pf2:r`
 
-### [[magical]][[manipulate]][[thaumaturge]]
+### [[3-Rules/Rule References/Magical]][[3-Rules/Rule References/Manipulate]][[thaumaturge]]
 
 **Category** defensive; 
 

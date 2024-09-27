@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/animal
   - pf2e/creature/type/aquatic
   - pf2e/creature/type/swarm
+  - pf2eMonster
   - pf2e/creature/level/3
 statblock: inline
 name: "Piranha Swarm"
@@ -26,13 +27,14 @@ level: "Creature 3"
 
 alignment: ""
 size: "Large"
-trait_01: "animal"
-trait_02: "aquatic"
-trait_03: "swarm"
+trait_01: [[animal]]
+trait_02: [[aquatic]]
+trait_03: [[swarm]]
 modifier: 9
 perception:
   - name: "Perception"
     desc: "+9; Low-Light Vision, Scent (Imprecise) 100 Feet"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Acrobatics: +10, Athletics: +8"
@@ -60,8 +62,14 @@ attacks:
   - name: ""
 
   - name: "Feeding Frenzy"
-    desc: "`pf2:1`  Each enemy in the swarm's space takes 2d6 piercing damage (DC 20 Reflex check save).\nA creature that fails the save also takes 1d6 bleed and takes a -2 circumstance penalty to their Reflex saves against Feeding Frenzy while this damage continues, as the piranhas' frenzy increases in intensity when they smell blood."
+    desc: "`pf2:1`  Each enemy in the swarm's space takes 2d6 piercing damage (DC 20 Reflex check save).\n\nA creature that fails the save also takes 1d6 bleed and takes a -2 circumstance penalty to their Reflex saves against Feeding Frenzy while this damage continues, as the piranhas' frenzy increases in intensity when they smell blood."
  
+```
+
+```encounter-table
+name: Piranha Swarm
+creatures:
+  - 1: Piranha Swarm
 ```
 
 

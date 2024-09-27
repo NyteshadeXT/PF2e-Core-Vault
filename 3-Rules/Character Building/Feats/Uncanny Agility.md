@@ -6,8 +6,9 @@ tags:
   - trait/tengu
   - trait/common
   - category/ancestry
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.qpVB9F9DURW4Lti1"
-license: OGL
+license: ORC
 ---
 # Uncanny Agility
 ## Feat 1
@@ -18,7 +19,7 @@ license: OGL
 
 
 
-You have near-supernatural poise that lets you move swiftly across the most unsteady surfaces. You gain the [[Feats/Steady Balance|Steady Balance]] skill feat. You can Step into difficult terrain caused by uneven ground, such as a rocky field or hilly incline.
+You have near-supernatural poise that lets you move swiftly across the most unsteady surfaces. You gain the [[Feats/Steady Balance|Steady Balance]] skill feat. You can Step into difficult terrain caused by uneven ground, such as a rocky field, hilly incline, or rocking ship.
 
-*Source: Pathfinder Lost Omens: Ancestry Guide*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

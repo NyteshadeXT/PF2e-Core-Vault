@@ -7,8 +7,9 @@ tags:
   - trait/dedication
   - trait/common
   - category/class
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.4QFElZoWjg1X0vsg"
-license: OGL
+license: ORC
 ---
 # Archer Dedication
 ## Feat 2
@@ -19,9 +20,11 @@ license: OGL
 
 
 
-You become trained in all simple and martial weapons in the bow and crossbow weapon groups. Whenever you gain a class feature that grants you expert or greater proficiency in certain weapons, you also gain that proficiency rank in all simple and martial weapons in the bow and crossbow weapon groups. If you are at least an expert in the bow you are using, you gain access to the critical specialization effect with that bow or crossbow.
+You have familiarity with all weapons in the bow and crossbow weapon groups. For the purposes of proficiency, treat any of these that are martial weapons as simple weapons and any that are advanced weapons as martial weapons.
 
-**Special** You can't select another dedication feat until you have gained two other feats from the [[PF2e Journals/Archetypes/Archer|Archer]] archetype.
+If you are at least an expert in the bow or crossbow you are using, you get the critical specialization effect of that weapon when you get a critical hit with it.
 
-*Source: Pathfinder Advanced Player's Guide*
-*OGL*
+[[PF2e Journals/Archetypes/Archer|Archer]]
+
+*Source: Pathfinder Player Core 2*
+*ORC*

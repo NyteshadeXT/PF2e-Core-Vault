@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.rage-of-elements-bestiary.Actor.a2kTygtqIuMCSLIr"
 tags:
   - pf2e/creature/type/elemental
   - pf2e/creature/type/genie
+  - pf2eMonster
   - pf2e/creature/level/13
   - remaster
 statblock: inline
@@ -25,13 +26,13 @@ level: "Creature 13"
 
 alignment: ""
 size: "huge"
-trait_01: "elemental"
-trait_02: "genie"
+trait_01: [[elemental]]
+trait_02: [[genie]]
 modifier: 23
 perception:
   - name: "Perception"
     desc: "+23; Darkvision"
-languages: "Common, Talican"
+languages: "Common, Talican; truespeech"
 skills:
   - name: "Skills"
     desc: "Acrobatics: +27, Athletics: +24, Crafting: +26, Deception: +26, Intimidation: +24, Performance: +28, Society: +22"
@@ -54,10 +55,10 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "[[Actor.nHgfiWS35zsMEe4k.Item.RrpDOSh8ukqc73TP|Conductive Redirection]]"
-    desc: "`pf2:r` (arcane,concentrate,electricity) **Trigger** The zuhra is hit by an attack, spell, or effect that deals electricity damage\n**Effect** The zuhra conducts the electricity through their body, taking damage as normal, and redirecting a bolt at one target within 30 feet that they can see. The zuhra makes a ranged attack roll with a +27 modifier against the target's AC. On a hit or critical hit, the target takes electricity damage equal to the full damage of the triggering effect."
+    desc: "`pf2:r` (arcane,concentrate,electricity) **Trigger** The zuhra is hit by an attack, spell, or effect that deals electricity damage\n* * *\n\n**Effect** The zuhra conducts the electricity through their body, taking damage as normal, and redirecting a bolt at one target within 30 feet that they can see. The zuhra makes a ranged attack roll with a +27 modifier against the target's AC. On a hit or critical hit, the target takes electricity damage equal to the full damage of the triggering effect."
 
   - name: "Magnetic Field"
-    desc: " (arcane,aura,metal) 10 feet.\nAll squares in the aura are difficult terrain for creatures wearing metal armor or made of metal. Strikes with metallic weapons made by or against creatures in this aura take a –2 status penalty to the attack roll. Zuhras ignore these effects."
+    desc: " (arcane,aura,metal) 10 feet.\n\nAll squares in the aura are difficult terrain for creatures wearing metal armor or made of metal. Strikes with metallic weapons made by or against creatures in this aura take a –2 status penalty to the attack roll. Zuhras ignore these effects."
 
 attacks:
   - name: ""
@@ -72,17 +73,23 @@ attacks:
     desc: "DC 32, attack +24; __7th __  _[[Spells/Clad In Metal|Clad In Metal (Can Choose Uncommon and Rare Metals)]]_, _[[Spells/Enthrall|Enthrall]]_, _[[Compendium.pf2e.spells-srd.Item.nRINcQb81Wt4KeFu|Interplanar Teleport (At Will) (To Astral Plane, Elemental Planes, or Universe only)]]_, _[[Spells/Weapon Storm|Weapon Storm]]_; __6th __  _[[Spells/Mercurial Stride|Mercurial Stride]]_, _[[Spells/Wall of Metal|Wall of Metal]]_; __5th __  _[[Spells/Invisibility|Invisibility (x2)]]_, _[[Spells/Magnetic Acceleration|Magnetic Acceleration (At Will)]]_, _[[Spells/Magnetic Attraction|Magnetic Attraction (At Will)]]_\n__Cantrips__  __(7th)__ _[[Spells/Detect Magic|Detect Magic]]_\n__Constant__  __(5th)__ _[[Spells/Truespeech|Truespeech]]_"
 
   - name: "[[Bestiary Ability Glossary/Change Shape|Change Shape]]"
-    desc: "`pf2:1` (arcane,concentrate,polymorph) The zuhra transforms into a Small or Medium metal elemental or animal. This doesn't affect the zuhra's statistics, but it could change the damage type of their Strikes.\n"
+    desc: "`pf2:1` (arcane,concentrate,polymorph) The zuhra transforms into a Small or Medium metal elemental or animal. This doesn't affect the zuhra's statistics, but it could change the damage type of their Strikes.\n\n* * *\n"
 
   - name: "Magnetic Reposition"
-    desc: "`pf2:1` (arcane) **Frequency** once per round\n**Effect** The shuyookh targets any number of creatures affected by their magnetic field, and moves each target 10 feet in a direction the zuhra chooses. Each target can resist being moved if it succeeds at a DC 32 Fortitude check save."
+    desc: "`pf2:1` (arcane) **Frequency** once per round\n* * *\n\n**Effect** The shuyookh targets any number of creatures affected by their magnetic field, and moves each target 10 feet in a direction the zuhra chooses. Each target can resist being moved if it succeeds at a DC 32 Fortitude check save."
 
   - name: "Magnetic Storm"
-    desc: "`pf2:3` (arcane) **Requirements** The shuyookh's magnetic field is active\n**Effect** The shuyookh electromagnetically flings razor-sharp metal scraps. Each creature in a 30-foot emanation takes 8d6 slashing + 3d12 electricity damage, with a DC 32 Fortitude check save.\nThe shuyookh's magnetic field is deactivated for 1d4 rounds."
+    desc: "`pf2:3` (arcane) **Requirements** The shuyookh's magnetic field is active\n* * *\n\n**Effect** The shuyookh electromagnetically flings razor-sharp metal scraps. Each creature in a @Template[emanation|distance:30] takes 8d6 slashing + 3d12 electricity damage, with a DC 32 Fortitude check save.\n\nThe shuyookh's magnetic field is deactivated for 1d4 rounds."
 
   - name: "Mercurial Wish"
-    desc: " (downtime) **Frequency** three times per year\n**Effect** The shuyookh conducts a [[Spells/Wish|Wish]] ritual for the benefit of a mortal, requiring no cost or secondary casters. The shuyookh's result is a success if they succeed at a DC 5 Flat check or a failure if not. The shuyookh attempts to fulfill the wish in a way that creates an unstable or impermanent benefit."
+    desc: " (downtime) **Frequency** three times per year\n* * *\n\n**Effect** The shuyookh conducts a [[Spells/Wish|Wish]] ritual for the benefit of a mortal, requiring no cost or secondary casters. The shuyookh's result is a success if they succeed at a DC 5 Flat check or a failure if not. The shuyookh attempts to fulfill the wish in a way that creates an unstable or impermanent benefit."
  
+```
+
+```encounter-table
+name: Zuhra Shuyookh
+creatures:
+  - 1: Zuhra Shuyookh
 ```
 
 

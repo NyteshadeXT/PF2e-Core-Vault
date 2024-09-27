@@ -5,6 +5,7 @@ noteType: pf2eHazard
 tags:
   - magical
   - trap
+  - pf2eHazard
   - complex
 source: Pathfinder #186: Ghost King&#x27;s Rage
 aliases: "Compendium.pf2e.blood-lords-bestiary.Actor.HQwuxqW1cTS0PrDM" 
@@ -22,14 +23,14 @@ name: "Spiraling Comets"
 level: "Hazard 16"
 
 trait_06: "Complex"
-trait_01: "magical"
-trait_02: "trap"
+trait_01: [[magical]]
+trait_02: [[trap]]
 modifier: 32
 sourcebook: "_Pathfinder #186: Ghost King's Rage_"
 ac: 36
 armorclass:
   - name: AC
-    desc: "36; __Fort__ +25, __Ref__ +30, __Will__ +0"
+    desc: "36; __Fort__ +25, __Ref__ +30, "
 hp: 100
 health:
   - name: ""
@@ -51,7 +52,7 @@ attacks:
   - name: ""
 
   - name: "Intruder Alert"
-    desc: "`pf2:r` (divine) **Trigger** An intruder enters the room\n**Effect** The comets change from blue to red in color. The trap then rolls initiative."
+    desc: "`pf2:r` (divine) **Trigger** An intruder enters the room\n* * *\n\n**Effect** The comets change from blue to red in color. The trap then rolls initiative."
   - name: "Melee"
     desc: "Comet +32 () "
 
@@ -59,5 +60,11 @@ attacks:
     desc: "(3 action) The trap loses 1 action each turn for each comet disabled, counteracted, or destroyed. Each comet uses 1 action to attack the nearest intruder with a comet Strike."
   - name: "Reset"
     desc: "The trap resets after 1 hour."
+```
+
+```encounter-table
+name: Spiraling Comets
+creatures:
+  - 1: Spiraling Comets
 ```
 

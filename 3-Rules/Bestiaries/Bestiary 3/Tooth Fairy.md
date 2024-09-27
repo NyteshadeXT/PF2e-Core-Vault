@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/chaotic
   - pf2e/creature/type/evil
   - pf2e/creature/type/fey
+  - pf2eMonster
   - pf2e/creature/level/-1
 statblock: inline
 name: "Tooth Fairy"
@@ -26,9 +27,9 @@ level: "Creature -1"
 
 alignment: ""
 size: "tiny"
-trait_01: "chaotic"
-trait_02: "evil"
-trait_03: "fey"
+trait_01: [[chaotic]]
+trait_02: [[evil]]
+trait_03: [[fey]]
 modifier: 6
 perception:
   - name: "Perception"
@@ -56,7 +57,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Plaque Burst"
-    desc: "  When killed, a tooth fairy bursts into sticky, foul-smelling white dust. Each creature within 5 feet must succeed at a DC 16 Fortitude check save or become [[Conditions/Sickened 1|Sickened 1]] ([[Conditions/Sickened 1|Sickened 2]] on a critical failure)."
+    desc: "  When killed, a tooth fairy bursts into sticky, foul-smelling white dust. Each creature within 5 feet must succeed at a DC 16 Fortitude check save or become [[Conditions/Sickened|Sickened 1]] ([[Conditions/Sickened|Sickened 2]] on a critical failure)."
 
 attacks:
   - name: ""
@@ -68,8 +69,14 @@ attacks:
     desc: "DC 13, attack +5; __1st __  _[[Spells/Sleep|Sleep]]_\n__Cantrips__  __(1st)__ _[[Spells/Telekinetic Hand|Mage Hand]]_"
 
   - name: "Tooth Tug"
-    desc: "`pf2:1` (manipulate) **Requirements** The tooth fairy's last action was a successful pliers Strike against a creature with teeth\n**Effect** The tooth fairy tugs on the creature's teeth, dealing 2 bleed damage to the creature."
+    desc: "`pf2:1` (manipulate) **Requirements** The tooth fairy's last action was a successful pliers Strike against a creature with teeth\n* * *\n\n**Effect** The tooth fairy tugs on the creature's teeth, dealing 2 bleed damage to the creature."
  
+```
+
+```encounter-table
+name: Tooth Fairy
+creatures:
+  - 1: Tooth Fairy
 ```
 
 

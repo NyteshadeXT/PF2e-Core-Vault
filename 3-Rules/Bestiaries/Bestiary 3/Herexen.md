@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/undead
   - pf2e/creature/type/unholy
+  - pf2eMonster
   - pf2e/creature/level/2
 statblock: inline
 name: "Herexen"
@@ -23,12 +24,12 @@ token: [[modules/pf2e-tokens-bestiaries/portraits/undead/herexen.webp| ]]
 source: "Pathfinder Bestiary 3"
 name: "Herexen"
 level: "Creature 2"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Medium"
-trait_01: "evil"
-trait_02: "undead"
-trait_03: "unholy"
+trait_01: [[evil]]
+trait_02: [[undead]]
+trait_03: [[unholy]]
 modifier: 8
 perception:
   - name: "Perception"
@@ -56,7 +57,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Final Blasphemy"
-    desc: " (divine,void) When the herexen is destroyed, it explodes in a wave of void energy with the effects of a 3-action [[Spells/Harm|Harm]] spell (DC 20 Fortitude check).\nThe herexen is destroyed, so it doesn't gain any Hit Points from this use of _harm_, and it doesn't need to have any _harm_ spells remaining to use this ability."
+    desc: " (divine,void) When the herexen is destroyed, it explodes in a wave of void energy with the effects of a 3-action [[Spells/Harm|Harm]] spell (DC 20 Fortitude check).\n\nThe herexen is destroyed, so it doesn't gain any Hit Points from this use of _harm_, and it doesn't need to have any _harm_ spells remaining to use this ability."
 
 attacks:
   - name: ""
@@ -73,6 +74,12 @@ attacks:
   - name: "Heretic's Smite"
     desc: " (divine) While wielding the favored weapon of its former deity (such as a dagger for an ex-Pharasmin herexen), the herexen's Strikes deal an additional 1d6 spirit damage against creatures that can cast divine spells."
  
+```
+
+```encounter-table
+name: Herexen
+creatures:
+  - 1: Herexen
 ```
 
 

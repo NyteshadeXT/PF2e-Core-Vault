@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.npc-gallery.Actor.IaSxoVNZFYatdfjI"
 tags:
   - pf2e/creature/type/human
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/2
 statblock: inline
 name: "Drunkard"
@@ -24,8 +25,8 @@ level: "Creature 2"
 
 alignment: ""
 size: "Medium"
-trait_01: "human"
-trait_02: "humanoid"
+trait_01: [[human]]
+trait_02: [[humanoid]]
 modifier: 6
 perception:
   - name: "Perception"
@@ -33,7 +34,7 @@ perception:
 languages: "Common"
 skills:
   - name: "Skills"
-    desc: "Alcohol Lore: +3, Athletics: +7, Intimidation: +8"
+    desc: "Athletics: +7, Intimidation: +8, Alcohol Lore: +3"
 abilityMods: [3, 2, 4, -1, 0, 2]
 speed: 25 feet
 sourcebook: "_Pathfinder Gamemastery Guide_"
@@ -62,8 +63,14 @@ attacks:
     desc: "`pf2:1` Pewter Mug +8 (thrown 10 ft.)\n__Damage__  1d4 + 3 bludgeoning"
 
   - name: "Drunken Rage"
-    desc: " (concentrate,emotion,mental) **Requirements** The drunkard is drunk, and isn't [[Conditions/Fatigued|Fatigued]] or raging\n**Effect** Something sets the drunkard off, causing them to fly into a drunken rage. They gain 6 temporary Hit Points that last until the drunken rage ends. While raging, they deal 4 additional damage with melee attacks and take a -1 penalty to AC. The drunkard can't use concentrate actions except [[Actions/Seek|Seek]] and rage actions.\nThe rage lasts for 1 minute or until the drunkard falls unconscious or sobers up. The drunkard can't voluntarily stop the Drunken Rage. Once the rage ends, the drunkard can't Rage again for 1 minute.\n[[Feat_Feature Effects/Effect_ Rage|Effect: Rage]]"
+    desc: " (concentrate,emotion,mental) **Requirements** The drunkard is drunk, and isn't [[Conditions/Fatigued|Fatigued]] or raging\n* * *\n\n**Effect** Something sets the drunkard off, causing them to fly into a drunken rage. They gain 6 temporary Hit Points that last until the drunken rage ends. While raging, they deal 4 additional damage with melee attacks and take a -1 penalty to AC. The drunkard can't use concentrate actions except [[Actions/Seek|Seek]] and rage actions.\n\nThe rage lasts for 1 minute or until the drunkard falls unconscious or sobers up. The drunkard can't voluntarily stop the Drunken Rage. Once the rage ends, the drunkard can't Rage again for 1 minute.\n\n[[Feat_Feature Effects/Effect_ Rage|Effect: Rage]]"
  
+```
+
+```encounter-table
+name: Drunkard
+creatures:
+  - 1: Drunkard
 ```
 
 

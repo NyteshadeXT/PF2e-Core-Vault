@@ -6,6 +6,7 @@ cssClasses: pf2e
 aliases: "Compendium.battlezoo-bestiary-su-pf2e.pf2e-battlezoo-su-actors.Actor.ByaexcHaun72TyTI" 
 tags:
   - pf2e/creature/type/fungus
+  - pf2eMonster
   - pf2e/creature/level/8
 statblock: inline
 name: "Tree of Eyes"
@@ -21,17 +22,18 @@ token: [[modules/battlezoo-bestiary-su-pf2e/art/Portraits/tree-of-eyes.webp| ]]
 source: "Battlezoo Bestiary: Strange and Unusual"
 name: "Tree of Eyes"
 level: "Creature 8"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Large"
-trait_01: "fungus"
+trait_01: [[fungus]]
 modifier: 19
 perception:
   - name: "Perception"
     desc: "+19; Darkvision, Tremorsense (Imprecise) 60 Feet"
+languages: ""
 skills:
   - name: "Skills"
-    desc: "Stealth: +15, "
+    desc: "Stealth: +15, Stealth: +15"
 abilityMods: [6, -1, 7, -4, 3, -2]
 speed: 5 feet
 sourcebook: "_Battlezoo Bestiary: Strange and Unusual_"
@@ -62,17 +64,23 @@ attacks:
     desc: "  When the tree of eyes damages a creature with an eye Strike, the creature and each other creature within 5 feet of it are exposed to Lung Rot."
 
   - name: "Drain Life"
-    desc: "`pf2:2`  The tree of eyes's roots come out of the ground and attempt to sap an adjacent creature of nutrients. The target must attempt a DC 25 Fortitude check save. Prone creatures treat the result of their save as one degree worse.\n**Success** The target is unaffected.\n**Failure** The target becomes Drained 1 or increases its drained value by 1 if it was already drained (to a maximum of Drained 3). The tree of eyes gains 5 temporary Hit Points.\n**Critical Failure** The target becomes Drained 2, or increases its drained value by 2 if it was already drained (to a maximum of drained 3). and the target becomes Blinded for 1 round and Dazzled for 1 minute. The tree of eyes gains 10 temporary Hit Points."
+    desc: "`pf2:2`  The tree of eyes's roots come out of the ground and attempt to sap an adjacent creature of nutrients. The target must attempt a DC 25 Fortitude check save. [[Conditions/Prone|Prone]] creatures treat the result of their save as one degree worse.\n* * *\n\n**Success** The target is unaffected.\n\n**Failure** The target becomes [[undefined]] or increases its drained value by 1 if it was already drained (to a maximum of [[undefined]]). The tree of eyes gains 5 temporary Hit Points.\n\n**Critical Failure** The target becomes [[undefined]], or increases its drained value by 2 if it was already drained (to a maximum of drained 3). and the target becomes [[undefined]] for 1 round and [[undefined]] for 1 minute. The tree of eyes gains 10 temporary Hit Points."
 
   - name: "Hypnotic Gaze"
-    desc: "`pf2:2` (incapacitation,mental,visual) The tree of eyes hypnotizes a creature it can see within 60 feet. The target must attempt a DC 25 Will check save.\n**Success** The target is unaffected.\n**Failure** The target must use its next action to Stride toward the tree of eyes, falling Prone if it ends this movement adjacent to the tree of eyes.\n**Critical Failure** As a failure, except the target must use all of its actions on its next turn to do so."
+    desc: "`pf2:2` (incapacitation,mental,visual) The tree of eyes hypnotizes a creature it can see within 60 feet. The target must attempt a DC 25 Will check save.\n* * *\n\n**Success** The target is unaffected.\n\n**Failure** The target must use its next action to Stride toward the tree of eyes, falling [[undefined]] if it ends this movement adjacent to the tree of eyes.\n\n**Critical Failure** As a failure, except the target must use all of its actions on its next turn to do so."
 
   - name: "Lung Rot"
-    desc: " (inhaled,poison) While a creature is afflicted by this poison, it can't reduce its sickened condition below 1\n**Saving Throw** DC 25 Fortitude check\n**Maximum Duration** 5 rounds\n**Stage 1** 2d6 poison damage and Sickened 1 (1 round)\n**Stage 2** 2d8 poison damage and Sickened 2 (1 round)\n**Stage 3** 3d8 poison damage and sickened 2 (1 round)."
+    desc: " (inhaled,poison) While a creature is afflicted by this poison, it can't reduce its sickened condition below 1\n\n**Saving Throw** DC 25 Fortitude check\n\n**Maximum Duration** 5 rounds\n\n**Stage 1** 2d6 poison damage and [[undefined]] (1 round)\n\n**Stage 2** 2d8 poison damage and [[undefined]] (1 round)\n\n**Stage 3** 3d8 poison damage and sickened 2 (1 round)."
 
   - name: "Transfer Host"
-    desc: "`pf2:1` (move) **Requirements** The tree of eyes is touching another tree beyond its host, either along its current host's branches (within 30 feet) or root system (within 50 feet)\n**Effect** The tree of eyes moves to the other tree. The tree of eyes's Hit Points represent damage to the fungus, not the host, so they aren't affected by transferring hosts."
+    desc: "`pf2:1` (move) **Requirements** The tree of eyes is touching another tree beyond its host, either along its current host's branches (within 30 feet) or root system (within 50 feet)\n* * *\n\n**Effect** The tree of eyes moves to the other tree. The tree of eyes's Hit Points represent damage to the fungus, not the host, so they aren't affected by transferring hosts."
  
+```
+
+```encounter-table
+name: Tree of Eyes
+creatures:
+  - 1: Tree of Eyes
 ```
 
 

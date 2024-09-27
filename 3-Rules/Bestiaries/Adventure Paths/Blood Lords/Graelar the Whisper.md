@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/giant
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/18
 statblock: inline
 name: "Graelar the Whisper"
@@ -22,12 +23,12 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #185: A Taste of Ashes"
 name: "Graelar the Whisper"
 level: "Creature 18"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Large"
-trait_01: "evil"
-trait_02: "giant"
-trait_03: "humanoid"
+trait_01: [[evil]]
+trait_02: [[giant]]
+trait_03: [[humanoid]]
 modifier: 25
 perception:
   - name: "Perception"
@@ -76,10 +77,10 @@ attacks:
     desc: "_[[Spells/Create Undead|Create Undead]]_"
 
   - name: "Dooming Touch"
-    desc: " (divine) The tomb giant's claws carry the accursed power of their foul gods. A creature hit by the tomb giant's claw Strike becomes [[Conditions/Doomed 1|Doomed 1]]."
+    desc: " (divine) The tomb giant's claws carry the accursed power of their foul gods. A creature hit by the tomb giant's claw Strike becomes [[Conditions/Doomed|Doomed 1]]."
 
   - name: "Font of Death"
-    desc: "`pf2:3` (divine,void) The tomb giant turns the spiritual tide on a creature that has just died, temporarily transforming it into a volatile vessel of void energy. The tomb giant touches a creature that died in the past 24 hours, infusing its flesh and bone with void energy. Once during the next hour, the tomb giant can spend a single action (from any distance) to release this void energy from the corpse in an explosion that deals 10d12 void damage in a 15-foot burst (DC 40 Fortitude check); if not released before the end of the hour, the energy dissipates harmlessly. The tomb giant can't use Font of Death while a previous corpse remains infused."
+    desc: "`pf2:3` (divine,void) The tomb giant turns the spiritual tide on a creature that has just died, temporarily transforming it into a volatile vessel of void energy. The tomb giant touches a creature that died in the past 24 hours, infusing its flesh and bone with void energy. Once during the next hour, the tomb giant can spend a single action (from any distance) to release this void energy from the corpse in an explosion that deals 10d12 void damage in a @Template[burst|distance:15] (DC 40 Fortitude check); if not released before the end of the hour, the energy dissipates harmlessly. The tomb giant can't use Font of Death while a previous corpse remains infused."
 
   - name: "Slippery Fighter"
     desc: "`pf2:2`  Graelar moves up to his Speed, attempts to [[Actions/Feint|Feint]] a creature within his reach, then makes a melee Strike against that creature."
@@ -90,6 +91,12 @@ attacks:
   - name: "[[Bestiary Ability Glossary/Throw Rock|Throw Rock]]"
     desc: "`pf2:1`  "
  
+```
+
+```encounter-table
+name: Graelar the Whisper
+creatures:
+  - 1: Graelar the Whisper
 ```
 
 

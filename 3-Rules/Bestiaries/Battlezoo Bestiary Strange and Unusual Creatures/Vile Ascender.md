@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/chaotic
   - pf2e/creature/type/evil
   - pf2e/creature/type/fey
+  - pf2eMonster
   - pf2e/creature/level/10
 statblock: inline
 name: "Vile Ascender"
@@ -23,20 +24,20 @@ token: [[modules/battlezoo-bestiary-su-pf2e/art/Portraits/vile-ascender.webp| ]]
 source: "Battlezoo Bestiary: Strange and Unusual"
 name: "Vile Ascender"
 level: "Creature 10"
-rare_03: "Rare"
+rare_03: [[Rare]]
 alignment: ""
 size: "Medium"
-trait_01: "chaotic"
-trait_02: "evil"
-trait_03: "fey"
+trait_01: [[chaotic]]
+trait_02: [[evil]]
+trait_03: [[fey]]
 modifier: 19
 perception:
   - name: "Perception"
     desc: "+19; Low-Light Vision"
-languages: "Common, Fey, Gnomish"
+languages: "Common, Fey, Gnomish; thrallspeech"
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +19, Crafting: +22 (+25 to Craft an ascending gift), Deception: +22 (+25 to Impersonate a gnome version of themself), Nature: +19, Society: +19, Stealth: +22, Survival: +19, Thievery: +19, "
+    desc: "Acrobatics: +19, Crafting: +22, Deception: +22, Nature: +19, Society: +19, Stealth: +22, Survival: +19, Thievery: +19, Acrobatics: +19, Crafting: +22, Deception: +22, Nature: +19, Society: +19, Stealth: +22, Survival: +19, Thievery: +19"
 abilityMods: [5, 7, 5, 4, 7, 5]
 speed: 30 feet
 sourcebook: "_Battlezoo Bestiary: Strange and Unusual_"
@@ -77,17 +78,23 @@ attacks:
     desc: "  A creature critically hit by the vile ascender’s claw is exposed to curse of ascendance."
 
   - name: "Curse of Ascendance"
-    desc: " (curse,mental,primal) A creature who fails to identify the vile ascender's curse of ascendance believes that the curse of ascendance is a divine blessing, magical boon, or other beneficial effect. The curse ends if the vile ascender is slain, removing both the beneficial and detrimental effects.\n**Saving Throw** DC 29 Will check\n**Stage 1** Whenever the target rolls initiative, they become Quickened until the end of their first turn. They can use the extra action only to Strike or Stride (1 day)\n**Stage 2** As Stage 1, and the target gains the ability to cast an innate spell chosen by the GM once per day, typically of a level up to half the victim's level – 1. The spell is intended to tempt the victim and suit the victim's interests (1 day)\n**Stage 3** As Stage 2, and the victim can use the spell once per hour instead of once per day (1 day)\n**Stage 4** As Stage 3, and the target becomes an NPC thrall controlled by the vile ascender (permanent)."
+    desc: " (curse,mental,primal) A creature who fails to identify the vile ascender's curse of ascendance believes that the curse of ascendance is a divine blessing, magical boon, or other beneficial effect. The curse ends if the vile ascender is slain, removing both the beneficial and detrimental effects.\n\n**Saving Throw** DC 29 Will check\n\n**Stage 1** Whenever the target rolls initiative, they become [[undefined]] until the end of their first turn. They can use the extra action only to Strike or Stride (1 day)\n\n**Stage 2** As Stage 1, and the target gains the ability to cast an innate spell chosen by the GM once per day, typically of a level up to half the victim's level – 1. The spell is intended to tempt the victim and suit the victim's interests (1 day)\n\n**Stage 3** As Stage 2, and the victim can use the spell once per hour instead of once per day (1 day)\n\n**Stage 4** As Stage 3, and the target becomes an NPC thrall controlled by the vile ascender (permanent)."
 
   - name: "Ascending Gift"
     desc: "`pf2:2` (manipulate) The vile ascender draws and presents a wondrous gift to another creature. If the creature accepts the gift the vile ascender offers, they are exposed to curse of ascendance."
 
   - name: "[[Bestiary Ability Glossary/Sneak Attack|Sneak Attack]]"
-    desc: "  The vile ascender deals 2d6 precision damage against Off-Guard creatures. When a creature takes precision damage from a vile ascender, they are exposed to curse of ascendance."
+    desc: "  The vile ascender deals 2d6 precision damage against [[undefined]] creatures. When a creature takes precision damage from a vile ascender, they are exposed to curse of ascendance."
 
   - name: "Wanderer's Bane"
-    desc: "  Vile ascenders know exactly how to take advantage of others when their targets are distracted by the environment. Creatures in difficult terrain are Off-Guard to the vile ascender."
+    desc: "  Vile ascenders know exactly how to take advantage of others when their targets are distracted by the environment. Creatures in difficult terrain are [[undefined]] to the vile ascender."
  
+```
+
+```encounter-table
+name: Vile Ascender
+creatures:
+  - 1: Vile Ascender
 ```
 
 

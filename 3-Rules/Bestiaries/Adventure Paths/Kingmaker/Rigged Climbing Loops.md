@@ -5,6 +5,7 @@ noteType: pf2eHazard
 tags:
   - mechanical
   - trap
+  - pf2eHazard
 
 source: Pathfinder Kingmaker
 aliases: "Compendium.pf2e.kingmaker-bestiary.Actor.YyUVzTucO99JFDnm" 
@@ -22,8 +23,8 @@ name: "Rigged Climbing Loops"
 level: "Hazard 0"
 
 
-trait_01: "mechanical"
-trait_02: "trap"
+trait_01: [[mechanical]]
+trait_02: [[trap]]
 modifier: 10
 sourcebook: "_Pathfinder Kingmaker_"
 perception:
@@ -42,9 +43,15 @@ attacks:
   - name: ""
 
   - name: "Tear Free"
-    desc: "`pf2:r` **Trigger** A creature climbs across the chasm without knowing which of the loops are rigged\n**Effect** The loops rip free, dropping the climber 20 feet into the chasm below and dealing 10 bludgeoning damage. The falling creature can use the [[Actions/Grab an Edge|Grab an Edge]] reaction to avoid falling if it succeeds at a DC 11 Flat check; failure indicates that the edge [[Conditions/Grabbed|Grabbed]] rips away as well."
+    desc: "`pf2:r` **Trigger** A creature climbs across the chasm without knowing which of the loops are rigged\n\n**Effect** The loops rip free, dropping the climber 20 feet into the chasm below and dealing 10 bludgeoning damage. The falling creature can use the [[Actions/Grab an Edge|Grab an Edge]] reaction to avoid falling if it succeeds at a DC 11 Flat check; failure indicates that the edge [[Conditions/Grabbed|Grabbed]] rips away as well."
 
 
 
+```
+
+```encounter-table
+name: Rigged Climbing Loops
+creatures:
+  - 1: Rigged Climbing Loops
 ```
 

@@ -21,7 +21,7 @@ license: ORC
 
 This elegant copper ring has miniature images of songbirds engraved around its circumference. You gain a +2 item bonus to Deception checks.
 
-**Activate—Throw Voice**`pf2:2`(manipulate)
+**Activate—Throw Voice** `pf2:2` (manipulate)
 
 **Frequency** any number of times per day
 

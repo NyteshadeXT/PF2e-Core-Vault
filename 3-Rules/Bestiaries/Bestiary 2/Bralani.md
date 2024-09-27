@@ -10,6 +10,7 @@ tags:
   - pf2e/creature/type/chaotic
   - pf2e/creature/type/good
   - pf2e/creature/type/holy
+  - pf2eMonster
   - pf2e/creature/level/6
 statblock: inline
 name: "Bralani"
@@ -28,19 +29,19 @@ level: "Creature 6"
 
 alignment: ""
 size: "Medium"
-trait_01: "azata"
-trait_02: "celestial"
-trait_03: "chaotic"
-trait_04: "good"
-trait_05: "holy"
+trait_01: [[azata]]
+trait_02: [[celestial]]
+trait_03: [[chaotic]]
+trait_04: [[good]]
+trait_05: [[holy]]
 modifier: 14
 perception:
   - name: "Perception"
     desc: "+14; Darkvision"
-languages: "Diabolic, Draconic, Empyrean"
+languages: "Diabolic, Draconic, Empyrean; tongues"
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +13, Deception: +15, Diplomacy: +15, Games Lore: +14, Stealth: +15"
+    desc: "Acrobatics: +13, Deception: +15, Diplomacy: +15, Stealth: +15, Games Lore: +14"
 abilityMods: [5, 5, 3, 2, 4, 5]
 speed: 30 feet,  fly 80 feet
 sourcebook: "_Pathfinder Bestiary 2_"
@@ -72,14 +73,20 @@ attacks:
     desc: "DC 24, attack +14; __4th __  _[[Spells/Vapor Form|Gaseous Form (At will)]]_; __3rd __  _[[Spells/Heal|Heal]]_, _[[Spells/Lightning Bolt|Lightning Bolt]]_, _[[Spells/Wall of Wind|Wall of Wind]]_; __2nd __  _[[Spells/Calm|Calm Emotions]]_; __1st __  _[[Spells/Gust of Wind|Gust of Wind (At will)]]_\n__Constant__  __(5th)__ _[[Spells/Truespeech|Tongues]]_"
 
   - name: "Fair Competition"
-    desc: " (divine,mental) Once per day, a bralani can spend 1 minute to bless willing creatures within 100 feet who are about to participate in a contest. This blessing lasts 24 hours. If a blessed creature cheats or uses the contest to harm another, the creature grows visibly ill, becoming [[Conditions/Sickened 1|Sickened 1]] and unable to remove this condition for the duration or until they withdraw from the competition. At the end of the contest, participants who competed fairly find it easier to negotiate and understand their opponent's perspective. For 1 hour, they gain a +2 status bonus to Diplomacy checks and [[Actions/Recall Knowledge|Recall Knowledge]] checks that directly pertain to their opponents."
+    desc: " (divine,mental) Once per day, a bralani can spend 1 minute to bless willing creatures within 100 feet who are about to participate in a contest. This blessing lasts 24 hours. If a blessed creature cheats or uses the contest to harm another, the creature grows visibly ill, becoming [[Conditions/Sickened|Sickened 1]] and unable to remove this condition for the duration or until they withdraw from the competition. At the end of the contest, participants who competed fairly find it easier to negotiate and understand their opponent's perspective. For 1 hour, they gain a +2 status bonus to Diplomacy checks and [[Actions/Recall Knowledge|Recall Knowledge]] checks that directly pertain to their opponents."
 
   - name: "Whirlwind Blast"
-    desc: "`pf2:2` (air,divine) The bralani generates a 20-foot line of scouring wind that deals 7d6 bludgeoning damage (DC 24 Reflex check save). It can't use this ability again for 1d4 rounds."
+    desc: "`pf2:2` (air,divine) The bralani generates a @Template[line|distance:20] of scouring wind that deals 7d6 bludgeoning damage (DC 24 Reflex check save). It can't use this ability again for 1d4 rounds."
 
   - name: "Wind Form"
     desc: "  A bralani flies at full Speed in [[Spells/Vapor Form|Vapor Form]]."
  
+```
+
+```encounter-table
+name: Bralani
+creatures:
+  - 1: Bralani
 ```
 
 

@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.stolen-fate-bestiary.Actor.eF3ndkXtyeMHpzZb"
 tags:
   - pf2e/creature/type/aberration
   - pf2e/creature/type/evil
+  - pf2eMonster
   - pf2e/creature/level/12
 statblock: inline
 name: "Bhanyada Behemoth"
@@ -21,16 +22,16 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #190: The Choosing"
 name: "Bhanyada Behemoth"
 level: "Creature 12"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "huge"
-trait_01: "aberration"
-trait_02: "evil"
+trait_01: [[aberration]]
+trait_02: [[evil]]
 modifier: 23
 perception:
   - name: "Perception"
     desc: "+23; Darkvision"
-languages: "Aklo"
+languages: "Aklo; can&#x27;t speak any language"
 skills:
   - name: "Skills"
     desc: "Athletics: +23, Survival: +21"
@@ -55,10 +56,10 @@ abilities_mid:
     desc: "`pf2:r`  "
 
   - name: "Extraneous Flesh"
-    desc: "`pf2:0`  **Frequency** three times per day\n**Trigger** A Strike scores a critical hit on the bhanyada behemoth\n**Effect** A critical hit might simply sever a component chunk that the bhanyada can lose without much harm. The bhanyada behemoth attempts a DC 11 Flat check. On a success, it doesn't take any extra damage from the critical hit (although it takes other effects normally, such as critical specialization effects)."
+    desc: "`pf2:0`  **Frequency** three times per day\n\n**Trigger** A Strike scores a critical hit on the bhanyada behemoth\n* * *\n\n**Effect** A critical hit might simply sever a component chunk that the bhanyada can lose without much harm. The bhanyada behemoth attempts a DC 11 Flat check. On a success, it doesn't take any extra damage from the critical hit (although it takes other effects normally, such as critical specialization effects)."
 
   - name: "Odor of Rot"
-    desc: " (aura,olfactory) 10 feet. Creatures other than aberrations that enter or start their turn in the bhanyada's aura must succeed at a DC 29 Fortitude check save or become [[Conditions/Sickened 1|Sickened 1]] ([[Conditions/Sickened 1|Sickened 2]] on a critical failure). A creature that succeeds at its save is temporarily immune for 1 minute."
+    desc: " (aura,olfactory) 10 feet. Creatures other than aberrations that enter or start their turn in the bhanyada's aura must succeed at a DC 29 Fortitude check save or become [[Conditions/Sickened|Sickened 1]] ([[Conditions/Sickened|Sickened 2]] on a critical failure). A creature that succeeds at its save is temporarily immune for 1 minute."
 
 attacks:
   - name: ""
@@ -78,6 +79,12 @@ attacks:
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
     desc: "`pf2:1`  "
  
+```
+
+```encounter-table
+name: Bhanyada Behemoth
+creatures:
+  - 1: Bhanyada Behemoth
 ```
 
 

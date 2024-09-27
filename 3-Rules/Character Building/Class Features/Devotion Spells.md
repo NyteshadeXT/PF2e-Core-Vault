@@ -6,21 +6,26 @@ tags:
   - trait/champion
   - trait/common
   - category/classfeature
+  - remaster
 aliases: "Compendium.pf2e.classfeatures.Item.Q1VfQZp49hkhY0HY"
-license: OGL
+license: ORC
 ---
 # Devotion Spells
 ## Feat 1
-### [[champion]]
+### [[3-Rules/trait_reference/champion]]
 
 **Category** classfeature; 
 
 
 
 
-Your deity's power grants you special divine spells called devotion spells, which are a type of focus spell. It costs 1 Focus Point to cast a focus spell, and you start with a focus pool of 1 Focus Point. You refill your focus pool during your daily preparations, and you regain 1 Focus Point by spending 10 minutes using the Refocus activity to pray to your deity or do service toward their causes.
+Your deity's power grants you special divine spells called devotion spells, which are a type of focus spell. Choose either [[Spells/Shields of the Spirit|Shields of the Spirit]] or a spell based on your deity's divine font ([[Spells/Lay on Hands|Lay on Hands]] if your deity allows _heal_, [[Spells/Touch of the Void|Touch of the Void]] if your deity allows _harm_).
 
-Focus spells are automatically heightened to half your level rounded up. Certain feats can give you more focus spells and increase the size of your focus pool, though your focus pool can never hold more than 3 Focus Points. You gain a devotion spell depending on your cause, and you are trained in divine spell attack rolls and spell DCs. Your spellcasting ability is Charisma.
+It costs 1 Focus Point to cast a focus spell. When you gain your first devotion spell, you also gain a focus pool of 1 Focus Point. You refill your focus pool during your daily preparations, and you regain 1 Focus Point by spending 10 minutes using the Refocus activity to pray to your deity or do service toward their causes.
 
-*Source: Pathfinder Core Rulebook*
-*OGL*
+Your devotion spells are divine spells. Your spellcasting attribute is Charisma.
+
+Focus spells are automatically heightened to half your level rounded up. Certain feats give you more focus spells. The maximum Focus Points your focus pool can hold is equal to the number of focus spells you have, but can never be more than 3 points.
+
+*Source: Pathfinder Player Core 2*
+*ORC*

@@ -31,8 +31,6 @@ This _+2 striking arquebus_ has an ashwood stock plated with worked silver, feat
 
 Whenever the _reaper's grasp_ kills a sapient living or undead creature, a portion of that creature's soul is drawn inexorably into the weapon, and another skull is added to the mosaic as if scrawled by an invisible hand, to a maximum of 10 souls. Creatures whose souls are protected by outside forces, such as a lich's soul cage, are immune to this effect, though the process, while painful, does not prevent the soul from going to the afterlife or being resurrected.
 
-Whenever the _reaper's grasp_ kills a sapient living or undead creature, a portion of that creature's soul is drawn inexorably into the weapon, and another skull is added to the mosaic as if scrawled by an [[Conditions/Invisible|Invisible]] hand, to a maximum of 10 souls. Creatures whose souls are protected by outside forces, such as a lich's soul cage, are immune to this effect, though the process, while painful, does not prevent the soul from going to the afterlife or being resurrected.
-
 Keep track of the level of each creature whose souls are stored in the _reaper's grasp_.
 
 * * *

@@ -10,6 +10,7 @@ tags:
   - pf2e/creature/type/humanoid
   - pf2e/creature/type/mortic
   - pf2e/creature/type/orc
+  - pf2eMonster
   - pf2e/creature/level/8
 statblock: inline
 name: "Lifeleecher Brawler"
@@ -25,14 +26,14 @@ token: [[modules/pf2e-tokens-bestiaries/portraits/humanoid/lifeleecher-brawler.w
 source: "Pathfinder Bestiary 3"
 name: "Lifeleecher Brawler"
 level: "Creature 8"
-rare_03: "Rare"
+rare_03: [[Rare]]
 alignment: ""
 size: "Medium"
-trait_01: "chaotic"
-trait_02: "evil"
-trait_03: "humanoid"
-trait_04: "mortic"
-trait_05: "orc"
+trait_01: [[chaotic]]
+trait_02: [[evil]]
+trait_03: [[humanoid]]
+trait_04: [[mortic]]
+trait_05: [[orc]]
 modifier: 15
 perception:
   - name: "Perception"
@@ -60,13 +61,13 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Consecration Vulnerability"
-    desc: "  A lifeleecher in a place of worship dedicated to a non-evil deity or on sacred ground, such as an area blessed by [[Spells/Sanctified Ground|Sanctified Ground]], is [[Conditions/Slowed 1|Slowed 1]]."
+    desc: "  A lifeleecher in a place of worship dedicated to a non-evil deity or on sacred ground, such as an area blessed by [[Spells/Anointed Ground|Anointed Ground]], is [[Conditions/Slowed|Slowed 1]]."
 
   - name: "[[Bestiary Ability Glossary/Ferocity|Mortic Ferocity]]"
-    desc: "`pf2:r`  The lifeleecher is also surrounded by visibly flickering fragments of the souls they've consumed, becoming [[Conditions/Concealed|Concealed]] until the end of their next turn.\n"
+    desc: "`pf2:r`  The lifeleecher is also surrounded by visibly flickering fragments of the souls they've consumed, becoming [[Conditions/Concealed|Concealed]] until the end of their next turn.\n\n* * *\n"
 
   - name: "Soul Feast"
-    desc: "`pf2:r` (divine,void) **Trigger** A creature adjacent to the lifeleecher dies\n**Effect** The lifeleecher consumes a portion of the creature's soul, regaining 2d8 Hit Points."
+    desc: "`pf2:r` (divine,void) **Trigger** A creature adjacent to the lifeleecher dies\n* * *\n\n**Effect** The lifeleecher consumes a portion of the creature's soul, regaining 2d8 Hit Points."
 
 attacks:
   - name: ""
@@ -81,14 +82,20 @@ attacks:
     desc: "`pf2:1` Composite Shortbow +19 (deadly d10, magical, propulsive, range increment 30 feet)\n__Damage__  2d6 + 3 piercing"
 
   - name: "Death Gasp"
-    desc: "`pf2:1` (divine) The lifeleecher draws in a deep breath and holds it, temporarily suspending their biological processes and becoming undead.\nThe lifeleecher gains the undead trait and becomes immune to bleed, death effects, disease, [[Conditions/Paralyzed|Paralyzed]], poison, and sleep. Any such effects the angheuvore is currently suffering from are suspended, but take effect again once they take a breath.\nDeath Gasp lasts as long as the lifeleecher holds their breath (up to 11 rounds).\n[[Bestiary Effects/Effect_ Death Gasp|Effect: Death Gasp]]"
+    desc: "`pf2:1` (divine) The lifeleecher draws in a deep breath and holds it, temporarily suspending their biological processes and becoming undead.\n\nThe lifeleecher gains the undead trait and becomes immune to bleed, death effects, disease, [[Conditions/Paralyzed|Paralyzed]], poison, and sleep. Any such effects the angheuvore is currently suffering from are suspended, but take effect again once they take a breath.\n\nDeath Gasp lasts as long as the lifeleecher holds their breath (up to 11 rounds).\n\n[[Bestiary Effects/Effect_ Death Gasp|Effect: Death Gasp]]"
 
   - name: "Ghost Hunter"
     desc: "  The lifeleecher's tusks have the effects of the _[[Equipment/Ghost Touch|Ghost Touch]]_ property rune on attacks against incorporeal undead."
 
   - name: "Leech Essence"
-    desc: " (divine) When the lifeleecher damages a living or undead creature with their jaws Strike, they drain the target's life essence.\nThe lifeleecher gains 5 temporary Hit Points that last for 1 minute, and the target must succeed at a DC 24 Fortitude check save or become [[Conditions/Drained 1|Drained 1]] if living, or [[Conditions/Stunned 1|Stunned 1]] if undead. If the target was already drained or stunned, the value of this condition instead increases by 1, to a maximum of 3."
+    desc: " (divine) When the lifeleecher damages a living or undead creature with their jaws Strike, they drain the target's life essence.\n\nThe lifeleecher gains 5 temporary Hit Points that last for 1 minute, and the target must succeed at a DC 24 Fortitude check save or become [[Conditions/Drained|Drained 1]] if living, or [[Conditions/Stunned|Stunned 1]] if undead. If the target was already drained or stunned, the value of this condition instead increases by 1, to a maximum of 3."
  
+```
+
+```encounter-table
+name: Lifeleecher Brawler
+creatures:
+  - 1: Lifeleecher Brawler
 ```
 
 

@@ -6,6 +6,7 @@ cssClasses: pf2e
 aliases: "Compendium.pf2e.pfs-season-1-bestiary.Actor.TmDKaw1WenWKvNBU" 
 tags:
   - pf2e/creature/type/animal
+  - pf2eMonster
   - pf2e/creature/level/1
 statblock: inline
 name: "Tough Mountain Goat"
@@ -23,11 +24,12 @@ level: "Creature 1"
 
 alignment: ""
 size: "Medium"
-trait_01: "animal"
+trait_01: [[animal]]
 modifier: 5
 perception:
   - name: "Perception"
     desc: "+5; Low-Light Vision, Scent (Imprecise) 30 Feet"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Acrobatics: +7, Athletics: +7"
@@ -55,11 +57,17 @@ attacks:
     desc: "`pf2:1` Horn +7 ()\n__Damage__  1d4 + 4 bludgeoning plus push"
 
   - name: "Powerful Charge"
-    desc: "`pf2:2`  The mountain goat Strides up to double its Speed in a straight line and then makes a horn attack.\nIf the mountain goat moved at least 20 feet, its Push increases to 10 feet on a hit."
+    desc: "`pf2:2`  The mountain goat Strides up to double its Speed in a straight line and then makes a horn attack.\n\nIf the mountain goat moved at least 20 feet, its Push increases to 10 feet on a hit."
 
   - name: "[[Bestiary Ability Glossary/Push|Push]]"
     desc: "`pf2:1`  "
  
+```
+
+```encounter-table
+name: Tough Mountain Goat
+creatures:
+  - 1: Tough Mountain Goat
 ```
 
 

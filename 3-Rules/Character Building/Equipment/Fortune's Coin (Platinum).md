@@ -10,7 +10,7 @@ license: OGL
 ---
 # Fortune's Coin (Platinum)
 ## Item 14
-### [[magical]]
+### [[3-Rules/Rule References/Magical]]
 
 
 **Price** 4000 gp; 

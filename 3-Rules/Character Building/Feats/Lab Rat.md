@@ -6,8 +6,9 @@ tags:
   - trait/ratfolk
   - trait/common
   - category/ancestry
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.QE8asCPqyrdenll0"
-license: OGL
+license: ORC
 ---
 # Lab Rat
 ## Feat 5
@@ -18,9 +19,7 @@ license: OGL
 
 
 
-You've spent more than your share of time in an alchemy lab. You might have been an alchemist yourself, an assistant, or perhaps even a test subject. Either way, you have been exposed to a wide variety of alchemical poisons and elixirs, leaving you with increased tolerance of their effects.
+You've spent more than your share of time in an alchemy lab. You have been exposed to a wide variety of alchemical poisons and harmful substances, leaving you with an increased tolerance of their effects. You have a +1 circumstance bonus to saves against poisons and diseases. If you roll a success on your saving throw against a poison or disease, you get a critical success instead.
 
-You have a +1 circumstance bonus to saves against poison and harmful effects from elixirs. If you roll a success on your saving throw against an elixir or poison, you get a critical success instead.
-
-*Source: Pathfinder Advanced Player's Guide*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

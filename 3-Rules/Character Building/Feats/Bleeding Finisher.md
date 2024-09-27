@@ -7,8 +7,9 @@ tags:
   - trait/swashbuckler
   - trait/common
   - category/class
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.dxujgA0NgiEvA0H8"
-license: OGL
+license: ORC
 ---
 # Bleeding Finisher `pf2:1`
 ## Feat 8
@@ -19,9 +20,7 @@ license: OGL
 
 
 
-Your blow inflicts profuse bleeding. Make a slashing or piercing Strike with a weapon or unarmed attack that allows you to add your precise strike damage.
+Your blow inflicts profuse bleeding. Make a slashing or piercing Strike. If you hit, the target also takes persistent bleed damage equal to your precise strike finisher damage.
 
-If you hit, the target also takes persistent bleed damage equal to your precise strike finisher damage.
-
-*Source: Pathfinder Advanced Player's Guide*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

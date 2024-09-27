@@ -13,7 +13,7 @@ license: OGL
 ---
 # Final Rest
 ## Item 18
-### [[magical]][[versatile-p]]
+### [[3-Rules/Rule References/Magical]][[versatile-p]]
 
 |  |  |
 | -- | -- |
@@ -30,9 +30,9 @@ This _+3 [[Equipment/Vitalizing (Greater)|Vitalizing (Greater)]] greater strikin
 
 **Success** The creature takes half the persistent spirit damage.
 
-**Failure** The creature is [[Conditions/Stunned 1|Stunned 1]] and takes the full persistent spirit damage.
+**Failure** The creature is [[Conditions/Stunned|Stunned 1]] and takes the full persistent spirit damage.
 
-**Critical Failure** The creature is [[Conditions/Stunned 1|Stunned]] and takes double the persistent spirit damage.
+**Critical Failure** The creature is [[Conditions/Stunned|Stunned]] and takes double the persistent spirit damage.
 
 * * *
 

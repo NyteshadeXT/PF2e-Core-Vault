@@ -6,8 +6,9 @@ tags:
   - trait/sorcerer
   - trait/common
   - category/class
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.zSTPB1FFWMfA1JPi"
-license: OGL
+license: ORC
 ---
 # Bloodline Focus
 ## Feat 12
@@ -19,7 +20,7 @@ license: OGL
 
 **Prerequisites** bloodline spell
 * * *
-Your focus recovers faster. If you have spent at least 2 Focus Points since the last time you Refocused, you recover 2 Focus Points when you Refocus instead of 1.
+By listening to the beating of your heart, your focus recovers faster. Whenever you Refocus, completely refill your focus pool.
 
-*Source: Pathfinder Core Rulebook*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

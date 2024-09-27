@@ -16,7 +16,7 @@ You have dabbled in the arcane arts and, through discipline and academic study, 
 
 * * *
 
-You cast spells like a wizard, gaining a spellbook with four common arcane cantrips of your choice. You gain the Cast a Spell activity. You can prepare two cantrips each day from your spellbook. You’re trained in the spell attack modifier and spell DC statistics. Your key spellcasting attribute for wizard archetype spells is Intelligence, and they are arcane wizard spells. You become trained in Arcana; if you were already trained in Arcana, you instead become trained in a skill of your choice. Select a school; you don’t gain any abilities from your choice of school, but qualify for feats as a member.
+You cast spells like a wizard, gaining a spellbook with four common arcane cantrips of your choice. You gain the Cast a Spell activity. You can prepare two cantrips each day from your spellbook. You're trained in the spell attack modifier and spell DC statistics. Your key spellcasting attribute for wizard archetype spells is Intelligence, and they are arcane wizard spells. You become trained in Arcana; if you were already trained in Arcana, you instead become trained in a skill of your choice. Select a school; you don't gain any abilities from your choice of school, but qualify for feats as a member.
 
 * * *
 
@@ -112,7 +112,7 @@ Your mask is infused with restorative magic associated with Ibex, the Flourishin
 
 * * *
 
-Your mask carries the protective instincts of White Bull, the Horn Forger, and no one will hurt your allies while you have anything to say about it. Immediately after you Cast a non-cantrip Spell that targets only one ally, you can choose to have the spell also give that creature a +1 circumstance bonus to AC until the start of your next turn. [[Feat\_Feature Effects/Effect\_ Protective Spirit Mask|Effect: Protective Spirit Mask]]
+Your mask carries the protective instincts of White Bull, the Horn Forger, and no one will hurt your allies while you have anything to say about it. Immediately after you Cast a non-cantrip Spell that targets only one ally, you can choose to have the spell also give that creature a +1 circumstance bonus to AC until the start of your next turn. [[Feat_Feature Effects/Effect_ Protective Spirit Mask|Effect: Protective Spirit Mask]]
 
 You also gain the [[Adventure-Specific Actions/Protector's Interdiction|Protector's Interdiction]] reaction.
 

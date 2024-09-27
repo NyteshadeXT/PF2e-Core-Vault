@@ -6,8 +6,9 @@ tags:
   - trait/investigator
   - trait/common
   - category/class
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.RqccUKf8DCPnsYXJ"
-license: OGL
+license: ORC
 ---
 # Implausible Purchase (Investigator)
 ## Feat 16
@@ -25,5 +26,5 @@ You can use [[Feats/Prescient Planner|Prescient Planner]] even if you have alrea
 
 In addition, five times per day, you can use Prescient Planner to pull out a common consumable item up to 6 levels lower than your level.
 
-*Source: Pathfinder Advanced Player's Guide*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

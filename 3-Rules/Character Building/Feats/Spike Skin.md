@@ -15,7 +15,7 @@ license: OGL
 ---
 # Spike Skin `pf2:2`
 ## Feat 8
-### [[Earth]][[impulse]][[kineticist]][[primal]]
+### [[earth]][[impulse]][[kineticist]][[primal]]
 
 **Category** class; 
 

@@ -10,6 +10,7 @@ tags:
   - pf2e/creature/type/spirit
   - pf2e/creature/type/undead
   - pf2e/creature/type/unholy
+  - pf2eMonster
   - pf2e/creature/level/4
 statblock: inline
 name: "Corrupted Blade Spirit"
@@ -24,14 +25,14 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #193: Mantle of Gold"
 name: "Corrupted Blade Spirit"
 level: "Creature 4"
-rare_03: "Rare"
+rare_03: [[Rare]]
 alignment: ""
 size: "Medium"
-trait_01: "evil"
-trait_02: "incorporeal"
-trait_03: "spirit"
-trait_04: "undead"
-trait_05: "unholy"
+trait_01: [[evil]]
+trait_02: [[incorporeal]]
+trait_03: [[spirit]]
+trait_04: [[undead]]
+trait_05: [[unholy]]
 modifier: 9
 perception:
   - name: "Perception"
@@ -62,7 +63,7 @@ abilities_mid:
     desc: " (curse,divine) The corrupted relic is Taargick's clan dagger rather than an amulet. When the spirit Manifests, the clan dagger teleports into its hand. The clan dagger can be targeted by Strikes (AC 21, Hardness 8, HP 20, BT 10)."
 
   - name: "Sudden Manifestation"
-    desc: "`pf2:r`  **Trigger** The relic detects a creature using its lifesense.\n**Effect** The relic Manifests. If this causes an encounter to begin, the relic gains a +4 status bonus to its initiative roll."
+    desc: "`pf2:r`  **Trigger** The relic detects a creature using its lifesense.\n* * *\n\n**Effect** The relic Manifests. If this causes an encounter to begin, the relic gains a +4 status bonus to its initiative roll."
 
 attacks:
   - name: ""
@@ -77,14 +78,20 @@ attacks:
     desc: "`pf2:1` Deadly Spark +14 (air, divine, electricity, range 20 feet)\n__Damage__  2d12 electricity"
 
   - name: "Blood Accusation"
-    desc: "`pf2:r` (fear,linguistic,mental) **Trigger** A creature within 30 feet of the corrupted blade spirit takes persistent bleed damage\n**Effect** The corrupted blade spirit shapes the spilled blood into words that remind the bleeding creature of their fears, mistakes, and shames. The corrupted blade spirit Demoralizes the creature, additionally dealing 1d6 mental damage on a critical success."
+    desc: "`pf2:r` (fear,linguistic,mental) **Trigger** A creature within 30 feet of the corrupted blade spirit takes persistent bleed damage\n* * *\n\n**Effect** The corrupted blade spirit shapes the spilled blood into words that remind the bleeding creature of their fears, mistakes, and shames. The corrupted blade spirit Demoralizes the creature, additionally dealing 1d6 mental damage on a critical success."
 
   - name: "Death Gaze"
-    desc: "`pf2:2` (concentrate,divine,void) The spirit targets a creature it can see within 30 feet, dealing to it 4d6 void damage (DC 20 Fortitude check save).\nA creature with [[Bestiary Ability Glossary/Void Healing|Void Healing]] instead regains 4d6 Hit Points and is then temporarily immune for 10 minutes."
+    desc: "`pf2:2` (concentrate,divine,void) The spirit targets a creature it can see within 30 feet, dealing to it 4d6 void damage (DC 20 Fortitude check save).\n\nA creature with [[Bestiary Ability Glossary/Void Healing|Void Healing]] instead regains 4d6 Hit Points and is then temporarily immune for 10 minutes."
 
   - name: "Manifest"
-    desc: "`pf2:1` (divine) **Requirements** The relic detects at least one creature using its lifesense.\n**Effect** The spirit within the relic manifests in an open space within 10 feet of the amulet. When it does, the relic teleports around its neck. The spirit remains in its manifested state until it no longer senses any living creatures within range of its lifesense."
+    desc: "`pf2:1` (divine) **Requirements** The relic detects at least one creature using its lifesense.\n* * *\n\n**Effect** The spirit within the relic manifests in an open space within 10 feet of the amulet. When it does, the relic teleports around its neck. The spirit remains in its manifested state until it no longer senses any living creatures within range of its lifesense."
  
+```
+
+```encounter-table
+name: Corrupted Blade Spirit
+creatures:
+  - 1: Corrupted Blade Spirit
 ```
 
 

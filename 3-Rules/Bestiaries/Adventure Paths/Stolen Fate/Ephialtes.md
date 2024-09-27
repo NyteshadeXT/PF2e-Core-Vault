@@ -10,6 +10,7 @@ tags:
   - pf2e/creature/type/lawful
   - pf2e/creature/type/unholy
   - pf2e/creature/type/velstrac
+  - pf2eMonster
   - pf2e/creature/level/16
 statblock: inline
 name: "Ephialtes"
@@ -24,14 +25,14 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #191: The Destiny War"
 name: "Ephialtes"
 level: "Creature 16"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "huge"
-trait_01: "evil"
-trait_02: "fiend"
-trait_03: "lawful"
-trait_04: "unholy"
-trait_05: "velstrac"
+trait_01: [[evil]]
+trait_02: [[fiend]]
+trait_03: [[lawful]]
+trait_04: [[unholy]]
+trait_05: [[velstrac]]
 modifier: 30
 perception:
   - name: "Perception"
@@ -56,12 +57,12 @@ abilities_top:
   - name: ""
 
   - name: "Painsight"
-    desc: " (divine) A velstrac automatically knows whether a creature it sees has any of the [[Conditions/Doomed 1|Doomed]], [[Conditions/Dying 1|Dying]], and [[Conditions/Wounded 1|Wounded]] conditions, as well as the value of those conditions."
+    desc: " (divine) A velstrac automatically knows whether a creature it sees has any of the [[Conditions/Doomed|Doomed]], [[Conditions/Dying|Dying]], and [[Conditions/Wounded|Wounded]] conditions, as well as the value of those conditions."
 
 abilities_mid:
   - name: ""
   - name: "Nowhere to Run"
-    desc: " (aura,divine,fear,mental,visual) 30 feet. When a creature ends its turn in the aura, it feels a powerful sensation of hopelessness. The creature must succeed at a DC 34 Will check save or become [[Conditions/Slowed 1|Slowed 1]] ([[Conditions/Slowed 1|Slowed 2]] on a critical failure) for 1 round."
+    desc: " (aura,divine,fear,mental,visual) 30 feet. When a creature ends its turn in the aura, it feels a powerful sensation of hopelessness. The creature must succeed at a DC 34 Will check save or become [[Conditions/Slowed|Slowed 1]] ([[Conditions/Slowed|Slowed 2]] on a critical failure) for 1 round."
 
 attacks:
   - name: ""
@@ -76,10 +77,10 @@ attacks:
     desc: "DC 37, attack +29; __8th __  _[[Spells/Chilling Darkness|Chilling Darkness]]_, _[[Spells/Pinpoint|Discern Location]]_, _[[Spells/Umbral Journey|Shadow Walk]]_; __7th __  _[[Spells/Blur|Blur]]_, _[[Spells/Interplanar Teleport|Plane Shift (Self Only)]]_, _[[Spells/Silence|Silence (x3)]]_; __6th __  _[[Spells/Darkness|Darkness]]_, _[[Spells/Planar Tether|Dimensional Anchor (At Will)]]_\n__Constant__  __(8th)__ _[[Spells/Truesight|True Seeing]]_"
 
   - name: "[[Bestiary Ability Glossary/Constrict|Constrict]]"
-    desc: "`pf2:1`  2d4 + 13 slashing, DC 37 Fortitude check\n"
+    desc: "`pf2:1`  2d4+13 slashing, DC 37 Fortitude check\n\n* * *\n"
 
   - name: "Exhale Chains"
-    desc: "`pf2:2` (divine) The ephialtes exhales a tangle of barbed chains. All creatures in a 50-foot cone must attempt a DC 37 Reflex check save. The ephialtes can't Exhale Chains for 1d4 rounds.\n**Critical Success** The creature is unaffected.\n**Success** It takes 8d6 piercing damage.\n**Failure** It takes 15d6 piercing damage, 2d6 persistent bleed damage, and is [[Conditions/Off-Guard|Off-Guard]] for 1 round.\n**Critical Failure** As failure, but 30d6 piercing damage, 2d6 persistent bleed damage, and is [[Conditions/Restrained|Restrained]] until they [[Actions/Escape|Escape]] (DC 37)."
+    desc: "`pf2:2` (divine) The ephialtes exhales a tangle of barbed chains. All creatures in a @Template[cone|distance:50] must attempt a DC 37 Reflex check save. The ephialtes can't Exhale Chains for 1d4 rounds.\n* * *\n\n**Critical Success** The creature is unaffected.\n\n**Success** It takes 8d6 piercing damage.\n\n**Failure** It takes 15d6 piercing damage, 2d6 persistent bleed damage, and is [[Conditions/Off-Guard|Off-Guard]] for 1 round.\n\n**Critical Failure** As failure, but 30d6 piercing damage, 2d6 persistent bleed damage, and is [[Conditions/Restrained|Restrained]] until they [[Actions/Escape|Escape]] (DC 37)."
 
   - name: "Focus Gaze"
     desc: "`pf2:1` (concentrate,divine,fear,mental,visual) The ephialtes stares at a creature they can see within 30 feet. The creature must attempt a Will save against the nowhere to run aura. If it was already slowed, on a failed save its speed is reduced by 10 feet until the end of its next turn. After attempting this save, the targeted creature is then temporarily immune to Focus Gaze until the start of the ephialtes's next turn."
@@ -87,6 +88,12 @@ attacks:
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
     desc: "`pf2:1`  "
  
+```
+
+```encounter-table
+name: Ephialtes
+creatures:
+  - 1: Ephialtes
 ```
 
 

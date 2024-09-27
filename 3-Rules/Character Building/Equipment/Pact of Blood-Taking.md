@@ -33,7 +33,7 @@ You negotiate for might and viciousness.
 
 **Hidden Condition** The barbazu owns any weapons you find. No more often than once per month, the barbazu can demand a single weapon of its choice (often the best weapon in your possession). You are compelled to hand over the weapon immediately, without question.
 
-**Termination Clause** The contract guarantees that you will not “be slain by the barbazu or by barbazu action.” This wording is vague; if any barbazu kills you, or if you die from persistent bleed damage from any source, the contract is voided.
+**Termination Clause** The contract guarantees that you will not "be slain by the barbazu or by barbazu action." This wording is vague; if any barbazu kills you, or if you die from persistent bleed damage from any source, the contract is voided.
 
 *Source: Pathfinder #164: Hands of the Devil*
 *OGL*

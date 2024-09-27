@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/construct
   - pf2e/creature/type/earth
   - pf2e/creature/type/lawful
+  - pf2eMonster
   - pf2e/creature/level/6
 statblock: inline
 name: "Ruin Bruiser"
@@ -23,19 +24,20 @@ token: [[modules/battlezoo-bestiary-pf2e/art/ruin_bruiser.webp| ]]
 source: "Battlezoo Bestiary"
 name: "Ruin Bruiser"
 level: "Creature 6"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Medium"
-trait_01: "construct"
-trait_02: "earth"
-trait_03: "lawful"
+trait_01: [[construct]]
+trait_02: [[earth]]
+trait_03: [[lawful]]
 modifier: 13
 perception:
   - name: "Perception"
     desc: "+13; Darkvision"
+languages: ""
 skills:
   - name: "Skills"
-    desc: "Athletics: +15, "
+    desc: "Athletics: +15"
 abilityMods: [5, 1, 4, -4, 3, -5]
 speed: 20 feet
 sourcebook: "_Battlezoo Bestiary_"
@@ -58,7 +60,7 @@ abilities_mid:
     desc: "  When the ruin bruiser uses Shield Block, the attacking weapon (or creature, in the case of an unarmed attack) takes 7 points of bludgeoning damage."
 
   - name: "Weight of Ages"
-    desc: " (arcane,aura) 20 feet Aura\nCreatures in the ruin bruiser's aura are Encumbered."
+    desc: " (arcane,aura) 20 feet [[Bestiary Ability Glossary/Aura|Aura]]\n\nCreatures in the ruin bruiser's aura are [[Conditions/Encumbered|Encumbered]]."
 
   - name: "[[Bestiary Ability Glossary/Shield Block|Shield Block]]"
     desc: "`pf2:r`  "
@@ -73,11 +75,17 @@ attacks:
     desc: "`pf2:1` Fist +17 (agile, magical)\n__Damage__  1d6 + 7 bludgeoning"
 
   - name: "Ruinous March"
-    desc: "`pf2:1`  The ruin bruiser Strides up to its Speed, violently pushing back each creature whose space it moves into. A creature can attempt to stop the ruin bruiser by attempting a Fortitude save.\n**Critical Success** The creature stops the ruin bruiser's movement.\n**Success** The creature stops the ruin bruiser's movement but takes 1d6 + 9 bludgeoning damage.\n**Failure** The creature is pushed back 5 feet by the ruin bruiser and takes 2d6 + 9 bludgeoning damage.\n**Critical Failure** The creature is pushed back 5 feet by the ruin bruiser and takes 4d6 + 9 bludgeoning damage."
+    desc: "`pf2:1`  The ruin bruiser Strides up to its Speed, violently pushing back each creature whose space it moves into. A creature can attempt to stop the ruin bruiser by attempting a DC 23 Fortitude save.\n* * *\n\n**Critical Success** The creature stops the ruin bruiser's movement.\n\n**Success** The creature stops the ruin bruiser's movement but takes 1d6+9 bludgeoning damage.\n\n**Failure** The creature is pushed back 5 feet by the ruin bruiser and takes 2d6+9 bludgeoning damage.\n\n**Critical Failure** The creature is pushed back 5 feet by the ruin bruiser and takes 4d6+9 bludgeoning damage."
 
   - name: "Decaying Fist"
-    desc: " (arcane) A ruin bruiser's fist inflicts the destructive effects of unbridled entropy on any creature or thing it touches. The persistent chaotic damage dealt by the ruin bruiser's fist Strike affects objects as well as creatures. Each round, an affected object rolls a Flat Check to end the persistent damage."
+    desc: " (arcane) A ruin bruiser's fist inflicts the destructive effects of unbridled entropy on any creature or thing it touches. The persistent chaotic damage dealt by the ruin bruiser's fist Strike affects objects as well as creatures. Each round, an affected object rolls a DC 15 Flat Check to end the persistent damage."
  
+```
+
+```encounter-table
+name: Ruin Bruiser
+creatures:
+  - 1: Ruin Bruiser
 ```
 
 

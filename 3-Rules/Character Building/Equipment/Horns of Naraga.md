@@ -35,7 +35,7 @@ This imposing helm bears the horns of a powerful black dragon. While wearing the
 
 **Frequency** once per day
 
-**Effect** The _Horns of Naraga_ transform into Naraga, an [[Bestiary 1/Ancient Black Dragon|Ancient Black Dragon]]. Naraga appears in an adjacent appropriate space, and if no such space is available, she does not appear. Naraga follows your commands without question. She remains for up to 1 hour or until you use an Interact action to dismiss her, after which she reverts back to the helm. If Naraga is slain, she immediately reverts back to the helm and can't be summoned for 1 week. You don't receive any of the helm's other benefits while it is transformed.
+**Effect** The _Horns of Naraga_ transform into Naraga, an [[Bestiary 1/Black Dragon (Ancient)|Ancient Black Dragon]]. Naraga appears in an adjacent appropriate space, and if no such space is available, she does not appear. Naraga follows your commands without question. She remains for up to 1 hour or until you use an Interact action to dismiss her, after which she reverts back to the helm. If Naraga is slain, she immediately reverts back to the helm and can't be summoned for 1 week. You don't receive any of the helm's other benefits while it is transformed.
 
 * * *
 

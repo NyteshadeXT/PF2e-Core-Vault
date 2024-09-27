@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/undead
   - pf2e/creature/type/unholy
+  - pf2eMonster
   - pf2e/creature/level/11
 statblock: inline
 name: "Unrisen"
@@ -25,14 +26,14 @@ level: "Creature 11"
 
 alignment: ""
 size: "Medium"
-trait_01: "evil"
-trait_02: "undead"
-trait_03: "unholy"
+trait_01: [[evil]]
+trait_02: [[undead]]
+trait_03: [[unholy]]
 modifier: 21
 perception:
   - name: "Perception"
     desc: "+21; Darkvision, Lifesense 30 Feet"
-languages: "Common"
+languages: "Common; (can&#x27;t speak any language)"
 skills:
   - name: "Skills"
     desc: "Athletics: +24, Stealth: +19"
@@ -72,14 +73,23 @@ attacks:
     desc: "`pf2:1` Claw +24 (agile, magical)\n__Damage__  2d8 + 13 slashing plus grab"
 
   - name: "Agonized Howl"
-    desc: "`pf2:2` (auditory,mental,occult) The unrisen howls in pain at its cursed existence. Creatures within a 30-foot emanation take 9d8 mental damage (DC 30 Will check). The unrisen can't use Agonized Howl again for 1d4 rounds."
+    desc: "`pf2:2` (auditory,mental,occult) The unrisen howls in pain at its cursed existence. Creatures within a @Template[emanation|distance:30] take 9d8 mental damage (DC 30 Will check). The unrisen can't use Agonized Howl again for 1d4 rounds."
 
   - name: "Awful Approach"
-    desc: "`pf2:1`  The unrisen reshapes its grotesque form to move swiftly. It Strides twice. Any living creature that can see the unrisen during this movement must succeed at a DC 28 Fortitude check save or be [[Conditions/Sickened 1|Sickened 1]] ([[Conditions/Sickened 1|Sickened 2]] on a critical failure). This is a mental and visual effect. The unrisen can't use Awful Approach again for 1d4 rounds."
+    desc: "`pf2:1`  The unrisen reshapes its grotesque form to move swiftly. It Strides twice. Any living creature that can see the unrisen during this movement must succeed at a DC 28 Fortitude check save or be [[Conditions/Sickened|Sickened 1]] ([[Conditions/Sickened|Sickened 2]] on a critical failure). This is a mental and visual effect. The unrisen can't use Awful Approach again for 1d4 rounds."
 
   - name: "Death Grip"
-    desc: "`pf2:1` (curse,occult) **Requirements** The unrisen has a living creature [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]]\n**Effect** The unrisen attempts to destroy its victim's life force to share the unrisen's fate. The creature must succeed at a DC 30 Fortitude check save or become [[Conditions/Doomed 1|Doomed 1]]. While the curse lasts, the creature regains only half as many HP from vitality healing effects; if it dies, any attempt to raise it from the dead causes it to return as an unrisen. The curse ends automatically if the creature's doomed value is reduced to 0."
+    desc: "`pf2:1` (curse,occult) **Requirements** The unrisen has a living creature [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]]\n* * *\n\n**Effect** The unrisen attempts to destroy its victim's life force to share the unrisen's fate. The creature must succeed at a DC 30 Fortitude check save or become [[Conditions/Doomed|Doomed 1]]. While the curse lasts, the creature regains only half as many HP from vitality healing effects; if it dies, any attempt to raise it from the dead causes it to return as an unrisen. The curse ends automatically if the creature's doomed value is reduced to 0."
+
+  - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
+    desc: "`pf2:1`  "
  
+```
+
+```encounter-table
+name: Unrisen
+creatures:
+  - 1: Unrisen
 ```
 
 

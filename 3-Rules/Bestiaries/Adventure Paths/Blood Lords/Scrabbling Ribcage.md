@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.blood-lords-bestiary.Actor.CVBM8oY76Yw4IxN5"
 tags:
   - pf2e/creature/type/construct
   - pf2e/creature/type/mindless
+  - pf2eMonster
   - pf2e/creature/level/1
 statblock: inline
 name: "Scrabbling Ribcage"
@@ -21,15 +22,16 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #181: Zombie Feast"
 name: "Scrabbling Ribcage"
 level: "Creature 1"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Small"
-trait_01: "construct"
-trait_02: "mindless"
+trait_01: [[construct]]
+trait_02: [[mindless]]
 modifier: 6
 perception:
   - name: "Perception"
     desc: "+6; Darkvision"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Athletics: +6"
@@ -51,7 +53,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Scrabble"
-    desc: "`pf2:r`  **Trigger** A creature moves away from the scrabbling ribcage, or a creature [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]] by the scrabbling ribcage [[Actions/Escape|Escapes]] from it\n**Effect** The ribcage Strides or Climbs. This movement doesn't trigger reactions."
+    desc: "`pf2:r`  **Trigger** A creature moves away from the scrabbling ribcage, or a creature [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]] by the scrabbling ribcage [[Actions/Escape|Escapes]] from it\n* * *\n\n**Effect** The ribcage Strides or Climbs. This movement doesn't trigger reactions."
 
 attacks:
   - name: ""
@@ -60,7 +62,7 @@ attacks:
     desc: "`pf2:1` Jagged Ribs +7 ()\n__Damage__  1d6 + 2 piercing plus grab"
 
   - name: "[[Bestiary Ability Glossary/Constrict|Constrict]]"
-    desc: "`pf2:1`  1d8 bludgeoning, DC 17 Fortitude check\n"
+    desc: "`pf2:1`  1d8 bludgeoning, DC 17 Fortitude check\n\n* * *\n"
 
   - name: "Skittering Rush"
     desc: "`pf2:2`  The scrabbling ribcage Strides or Climbs twice, with its Speeds increased by 10 feet for this movement."
@@ -68,6 +70,12 @@ attacks:
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
     desc: "`pf2:1`  "
  
+```
+
+```encounter-table
+name: Scrabbling Ribcage
+creatures:
+  - 1: Scrabbling Ribcage
 ```
 
 

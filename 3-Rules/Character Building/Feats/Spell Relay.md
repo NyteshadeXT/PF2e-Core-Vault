@@ -7,8 +7,9 @@ tags:
   - trait/sorcerer
   - trait/common
   - category/class
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.zwEaXGKqnlBTllfE"
-license: OGL
+license: ORC
 ---
 # Spell Relay `pf2:r`
 ## Feat 6
@@ -25,5 +26,5 @@ license: OGL
 
 You open the power in your blood to your ally's spellcasting, using your magic to boost their range. Your ally can use you as the point of origin for their spell, calculating range and cover from your space instead of their own.
 
-*Source: Pathfinder Advanced Player's Guide*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

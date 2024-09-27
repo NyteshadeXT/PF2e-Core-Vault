@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.pathfinder-monster-core.Actor.oaxKg1yQDmK2PWXG"
 tags:
   - pf2e/creature/type/aeon
   - pf2e/creature/type/monitor
+  - pf2eMonster
   - pf2e/creature/level/1
   - remaster
 statblock: inline
@@ -26,8 +27,8 @@ level: "Creature 1"
 
 alignment: ""
 size: "tiny"
-trait_01: "aeon"
-trait_02: "monitor"
+trait_01: [[aeon]]
+trait_02: [[monitor]]
 modifier: 7
 perception:
   - name: "Perception"
@@ -35,7 +36,7 @@ perception:
 languages: "Common, Diabolic, Empyrean, Utopian"
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +9, Axis Lore: +5, Diplomacy: +6, Stealth: +9"
+    desc: "Acrobatics: +9, Diplomacy: +6, Stealth: +9, Axis Lore: +5"
 abilityMods: [1, 4, 2, 0, 2, 1]
 speed: 20 feet,  fly 40 feet
 sourcebook: "_Pathfinder Monster Core_"
@@ -67,8 +68,14 @@ attacks:
     desc: "DC 17, attack +9; __4th __  _[[Spells/Read Omens|Read Omens]]_; __1st __  _[[Spells/Command|Command]]_, _[[Spells/Mending|Mending (x3)]]_, _[[Spells/Sanctuary|Sanctuary]]_"
 
   - name: "Electrical Burst"
-    desc: "`pf2:2` (divine,electricity) The arbiter releases an electrical burst from its body that deals 3d6 electricity damage to all creatures in a 10-foot emanation, with a DC 17 Reflex check save. The arbiter is then [[Conditions/Stunned 1|Stunned]] for 24 hours."
+    desc: "`pf2:2` (divine,electricity) The arbiter releases an electrical burst from its body that deals 3d6 electricity damage to all creatures in a @Template[emanation|distance:10], with a DC 17 Reflex check save. The arbiter is then [[Conditions/Stunned|Stunned]] for 24 hours."
  
+```
+
+```encounter-table
+name: Arbiter
+creatures:
+  - 1: Arbiter
 ```
 
 

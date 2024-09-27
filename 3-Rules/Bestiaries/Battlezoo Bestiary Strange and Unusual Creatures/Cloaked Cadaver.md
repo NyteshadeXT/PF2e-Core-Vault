@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/undead
   - pf2e/creature/type/unholy
+  - pf2eMonster
   - pf2e/creature/level/10
 statblock: inline
 name: "Cloaked Cadaver"
@@ -23,12 +24,12 @@ token: [[modules/battlezoo-bestiary-su-pf2e/art/Portraits/cloaked-cadaver.webp| 
 source: "Battlezoo Bestiary: Strange and Unusual"
 name: "Cloaked Cadaver"
 level: "Creature 10"
-rare_03: "Rare"
+rare_03: [[Rare]]
 alignment: ""
 size: "Medium"
-trait_01: "evil"
-trait_02: "undead"
-trait_03: "unholy"
+trait_01: [[evil]]
+trait_02: [[undead]]
+trait_03: [[unholy]]
 modifier: 17
 perception:
   - name: "Perception"
@@ -36,7 +37,7 @@ perception:
 languages: "Common, Necril"
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +22, Intimidation: +19, Stealth: +19, "
+    desc: "Acrobatics: +22, Intimidation: +19, Stealth: +19, Acrobatics: +22, Intimidation: +19, Stealth: +19"
 abilityMods: [3, 7, 5, 2, 5, 3]
 speed:  fly 45 feet
 sourcebook: "_Battlezoo Bestiary: Strange and Unusual_"
@@ -53,31 +54,37 @@ abilities_top:
   - name: ""
 
   - name: "[[Bestiary Ability Glossary/Lifesense|Lifesense 60 feet]]"
-    desc: "  A cloaked cadaver can sense the vital essence of living and undead creatures within 60 feet.\n"
+    desc: "  A cloaked cadaver can sense the vital essence of living and undead creatures within 60 feet.\n\n* * *\n"
 
 abilities_mid:
   - name: ""
   - name: "[[Bestiary Ability Glossary/Frightful Presence|Frightful Presence]]"
-    desc: " (aura,emotion,fear,mental) 20 feet. DC 26 Will check\n"
+    desc: " (aura,emotion,fear,mental) 20 feet. DC 26 Will check\n\n* * *\n"
 
   - name: "Sunlight Powerlessness"
-    desc: "  A cloaked cadaver caught in sunlight is Clumsy 2 and Slowed 2 for as long as it remains in the sunlight."
+    desc: "  A cloaked cadaver caught in sunlight is [[undefined]] and [[undefined]] for as long as it remains in the sunlight."
 
 attacks:
   - name: ""
 
   - name: "Melee"
-    desc: "`pf2:1` Touch of Paralysis +23 (agile, finesse, magical)\n__Damage__  2d6 + 10 void plus paralysis"
+    desc: "`pf2:1` Touch of Paralysis +23 (agile, finesse, magical)\n__Damage__ "
 
   - name: "Cloaked Embrace"
-    desc: "`pf2:2` (divine,void) **Requirements** An adjacent living creature is Paralyzed\n**Effect** The cloaked cadaver drains the vital essences of the creature, which must attempt a DC 29 Fortitude check save.\n**Critical Success** The creature is unaffected.\n**Success** The creature is Drained 1, and Stupefied 1 for 1 hour.\n**Failure** The creature takes 12d6 void damage, is Drained 2, Doomed 2, and Stupefied 2 for 1 hour.\n**Critical Failure** As failure, but the creature takes 24d6 void damage."
+    desc: "`pf2:2` (divine,void) **Requirements** An adjacent living creature is [[undefined]]\n* * *\n\n**Effect** The cloaked cadaver drains the vital essences of the creature, which must attempt a DC 29 Fortitude check save.\n* * *\n\n**Critical Success** The creature is unaffected.\n\n**Success** The creature is [[undefined]], and [[undefined]] for 1 hour.\n\n**Failure** The creature takes 12d6 void damage, is [[undefined]], [[undefined]], and [[undefined]] for 1 hour.\n\n**Critical Failure** As failure, but the creature takes 24d6 void damage."
 
   - name: "Soul's Anguish"
-    desc: " (death,divine) **Trigger** A living creature dies within 20 feet of the cloaked cadaver\n**Effect** The cloaked cadaver absorbs the creature's soul and regains a number of Hit Points equal to the creature's level as it begins to feed off of it. A creature whose soul has been absorbed in this way can't be resurrected unless the cloaked cadaver is killed within 7 days. If the cloaked cadaver isn't killed within 7 days the creature's soul is completely consumed and can only be restored to life by a powerful effect such as _Miracle_ or _Wish_."
+    desc: " (death,divine) **Trigger** A living creature dies within 20 feet of the cloaked cadaver\n* * *\n\n**Effect** The cloaked cadaver absorbs the creature's soul and regains a number of Hit Points equal to the creature's level as it begins to feed off of it. A creature whose soul has been absorbed in this way can't be resurrected unless the cloaked cadaver is killed within 7 days. If the cloaked cadaver isn't killed within 7 days the creature's soul is completely consumed and can only be restored to life by a powerful effect such as _[[Spells/Miracle|Miracle]]_ or _[[Spells/Wish|Wish]]_."
 
   - name: "Paralysis"
-    desc: " (divine,incapacitation) Any living creature hit by a cloaked cadaver's attack must succeed at a DC 26 Fortitude check save or become Paralyzed. It can attempt a new save at the end of each of its turns, and the DC cumulatively decreases by 1 after each failed save."
+    desc: " (divine,incapacitation) Any living creature hit by a cloaked cadaver's attack must succeed at a DC 26 Fortitude check save or become [[undefined]]. It can attempt a new save at the end of each of its turns, and the DC cumulatively decreases by 1 after each failed save."
  
+```
+
+```encounter-table
+name: Cloaked Cadaver
+creatures:
+  - 1: Cloaked Cadaver
 ```
 
 

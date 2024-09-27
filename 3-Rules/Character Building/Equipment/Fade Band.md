@@ -15,7 +15,7 @@ license: ORC
 ---
 # Fade Band
 ## Item 12
-### [[consumable]][[illusion]][[magical]][[talisman]]
+### [[consumable]][[illusion]][[3-Rules/Rule References/Magical]][[talisman]]
 
 **Category** talisman; 
 **Price** 320 gp; 

@@ -7,8 +7,9 @@ tags:
   - trait/dedication
   - trait/common
   - category/class
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.s6wXcQYmHbew14gC"
-license: OGL
+license: ORC
 ---
 # Bastion Dedication
 ## Feat 2
@@ -20,9 +21,9 @@ license: OGL
 
 **Prerequisites** Shield Block
 * * *
-You are particularly skilled at using a shield in combat. You gain the [[Feats/Reactive Shield|Reactive Shield]] feat. This fulfills any prerequisites requiring Reactive Shield as normal.
+You are particularly skilled at using a shield to protect yourself in combat. You gain the [[Feats/Reactive Shield|Reactive Shield]] fighter feat.
 
-**Special** You can't select another dedication feat until you have gained two other feats from the [[PF2e Journals/Archetypes/Bastion|Bastion]] archetype.
+[[PF2e Journals/Archetypes/Bastion|Bastion]]
 
-*Source: Pathfinder Advanced Player's Guide*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

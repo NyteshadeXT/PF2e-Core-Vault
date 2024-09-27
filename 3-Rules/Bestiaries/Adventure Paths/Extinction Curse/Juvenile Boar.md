@@ -6,6 +6,7 @@ cssClasses: pf2e
 aliases: "Compendium.pf2e.extinction-curse-bestiary.Actor.a2FCggU8UCQl6RDx" 
 tags:
   - pf2e/creature/type/animal
+  - pf2eMonster
   - pf2e/creature/level/0
 statblock: inline
 name: "Juvenile Boar"
@@ -23,11 +24,12 @@ level: "Creature 0"
 
 alignment: ""
 size: "Small"
-trait_01: "animal"
+trait_01: [[animal]]
 modifier: 5
 perception:
   - name: "Perception"
     desc: "+5; Low-Light Vision, Scent (Imprecise) 30 Feet"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Acrobatics: +3, Athletics: +5, Survival: +5"
@@ -60,6 +62,12 @@ attacks:
   - name: "Boar Charge"
     desc: "`pf2:2`  The juvenile boar Strides up to two times and then makes a tusk Strike. As long as it moved at least 20 feet, it gains a +2 circumstance bonus to its attack roll."
  
+```
+
+```encounter-table
+name: Juvenile Boar
+creatures:
+  - 1: Juvenile Boar
 ```
 
 

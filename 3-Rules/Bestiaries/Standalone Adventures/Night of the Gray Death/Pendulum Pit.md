@@ -6,6 +6,7 @@ tags:
   - magical
   - mechanical
   - trap
+  - pf2eHazard
   - complex
 source: Pathfinder Adventure: Night of the Gray Death
 aliases: "Compendium.pf2e.night-of-the-gray-death-bestiary.Actor.mgcQVqHyxDzNWT3e" 
@@ -23,15 +24,15 @@ name: "Pendulum Pit"
 level: "Hazard 20"
 
 trait_06: "Complex"
-trait_01: "magical"
-trait_02: "mechanical"
-trait_03: "trap"
+trait_01: [[magical]]
+trait_02: [[mechanical]]
+trait_03: [[trap]]
 modifier: 36
 sourcebook: "_Pathfinder Adventure: Night of the Gray Death_"
 ac: 10
 armorclass:
   - name: AC
-    desc: "10; __Fort__ +0, __Ref__ +0, __Will__ +0"
+    desc: "10; "
 hp: 0
 health:
   - name: ""
@@ -53,7 +54,7 @@ attacks:
   - name: ""
 
   - name: "Locking Room"
-    desc: "`pf2:r` **Trigger** A creature disturbs any of the platforms, or anything falls into the pit\n**Effect** The room rotates 45 degrees, closing off the room by shifting its exits to face bare walls. A pendulum of force swings across the platform with the armor on it, knocking the armor into the pit and making a pendulum blade Strike against a creature on that platform (if any). The trap then rolls for initiative."
+    desc: "`pf2:r` **Trigger** A creature disturbs any of the platforms, or anything falls into the pit\n* * *\n\n**Effect** The room rotates 45 degrees, closing off the room by shifting its exits to face bare walls. A pendulum of force swings across the platform with the armor on it, knocking the armor into the pit and making a pendulum blade Strike against a creature on that platform (if any). The trap then rolls for initiative."
   - name: "Melee"
     desc: "Pendulum Blade +38 (fatal d12, force, magical) No MAP applies to strikes made by pendulum blade attacks"
 
@@ -67,5 +68,11 @@ attacks:
     desc: "(5 actions) For each active platform, the trap uses an action to create a pendulum of force to swing down along a straight line between the platform and one other creature in the room that isn't on the platform (if any). The trap makes a pendulum blade attack against any creature in that line. For each platform deactivated, reduce the number of actions the trap takes in its routine by 1."
   - name: "Reset"
     desc: "The trap resets after 1 hour. If the [[Spells/Darkness|Darkness]] throughout the room has been dispelled, the _darkness_ in the room returns when the trap resets."
+```
+
+```encounter-table
+name: Pendulum Pit
+creatures:
+  - 1: Pendulum Pit
 ```
 

@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.pathfinder-monster-core.Actor.SipdgBCL7XuuEjn6"
 tags:
   - pf2e/creature/type/gnoll
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/4
   - remaster
 statblock: inline
@@ -26,8 +27,8 @@ level: "Creature 4"
 
 alignment: ""
 size: "Medium"
-trait_01: "gnoll"
-trait_02: "humanoid"
+trait_01: [[gnoll]]
+trait_02: [[humanoid]]
 modifier: 10
 perception:
   - name: "Perception"
@@ -73,11 +74,17 @@ attacks:
     desc: "`pf2:1` (auditory,linguistic) The kholo sergeant commands its allies to reposition. Any allies who hear and understand this order can use a reaction to Step."
 
   - name: "Pack Attack"
-    desc: "  A kholo hunter deals 1d4 extra damage to any creature that's within reach of at least two of the kholo hunter's allies."
+    desc: "  A kholo sergeant deals 1d4 extra damage to any creature that's within reach of at least two of the kholo sergeant's allies."
 
   - name: "Rugged Travel"
     desc: "  A kholo ignores the first square of difficult terrain they move into each time they Step or Stride."
  
+```
+
+```encounter-table
+name: Kholo Sergeant
+creatures:
+  - 1: Kholo Sergeant
 ```
 
 

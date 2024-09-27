@@ -10,6 +10,7 @@ tags:
   - pf2e/creature/type/good
   - pf2e/creature/type/nymph
   - pf2e/creature/type/plant
+  - pf2eMonster
   - pf2e/creature/level/3
 statblock: inline
 name: "Dryad"
@@ -28,19 +29,19 @@ level: "Creature 3"
 
 alignment: ""
 size: "Medium"
-trait_01: "chaotic"
-trait_02: "fey"
-trait_03: "good"
-trait_04: "nymph"
-trait_05: "plant"
+trait_01: [[chaotic]]
+trait_02: [[fey]]
+trait_03: [[good]]
+trait_04: [[nymph]]
+trait_05: [[plant]]
 modifier: 10
 perception:
   - name: "Perception"
     desc: "+10; Low-Light Vision"
-languages: "Common, Elven, Fey"
+languages: "Common, Elven, Fey; speak with plants"
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +9, Athletics: +5, Crafting: +7 (+9 woodworking), Diplomacy: +9, Nature: +13, Stealth: +9, Survival: +12"
+    desc: "Acrobatics: +9, Athletics: +5, Crafting: +7, Diplomacy: +9, Nature: +13, Stealth: +9, Survival: +12"
 abilityMods: [0, 4, 1, 2, 3, 4]
 speed: 25 feet
 sourcebook: "_Pathfinder Bestiary_"
@@ -62,7 +63,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Tree Dependent"
-    desc: "  A dryad is mystically bonded to a single great tree and must remain within 300 feet of it. If she moves beyond that range, she becomes [[Conditions/Sickened 1|Sickened 1]] and is unable to recover. She must attempt a DC 18 Fortitude check save every hour or increase the sickened value by 1 (to a maximum of sickened 4). After 24 hours, she becomes [[Conditions/Drained 1|Drained 1]], with this value increasing by 1 every additional 24 hours. A dryad can perform a 24-hour ritual to bond herself to a new tree."
+    desc: "  A dryad is mystically bonded to a single great tree and must remain within 300 feet of it. If she moves beyond that range, she becomes [[Conditions/Sickened|Sickened 1]] and is unable to recover. She must attempt a DC 18 Fortitude check save every hour or increase the sickened value by 1 (to a maximum of sickened 4). After 24 hours, she becomes [[Conditions/Drained|Drained 1]], with this value increasing by 1 every additional 24 hours. A dryad can perform a 24-hour ritual to bond herself to a new tree."
 
 attacks:
   - name: ""
@@ -74,8 +75,14 @@ attacks:
     desc: "DC 21, attack +11; __5th __  _[[Spells/Nature's Pathway|Tree Stride (x2)]]_; __4th __  _[[Spells/Charm|Charm (x3)]]_, _[[Spells/Suggestion|Suggestion]]_; __3rd __  _[[Spells/Sleep|Sleep]]_; __2nd __  _[[Spells/Entangling Flora|Entangle (At Will)]]_, _[[Spells/One with Plants|Tree Shape (At Will)]]_\n__Cantrips__  __(2nd)__ _[[Spells/Tangle Vine|Tanglefoot]]_\n__Constant__  __(4th)__ _[[Spells/Speak with Plants|Speak with Plants]]_"
 
   - name: "Tree Meld"
-    desc: "`pf2:2` (primal) The dryad touches a tree of enough volume to contain her and merges into it for as long as she wishes. She can Cast a Spell while inside as long as the spell doesn't require a line of effect outside the tree. She can hear, but not see, what's going on outside the tree. She can Dismiss this effect.\nSignificant physical damage dealt to the tree expels the dryad from the tree and deals 3d6 damage to her. [[Spells/Magic Passage|Magic Passage]] expels the dryad without dealing damage.\nIf a dryad uses this ability on her bonded tree, she instead enters an extradimensional living space within the tree; Tree Meld gains the extradimensional trait. A dryad can bring up to two other creatures with her when entering her home within her bonded tree. The dryad can still be expelled from this space as above."
+    desc: "`pf2:2` (primal) The dryad touches a tree of enough volume to contain her and merges into it for as long as she wishes. She can Cast a Spell while inside as long as the spell doesn't require a line of effect outside the tree. She can hear, but not see, what's going on outside the tree. She can Dismiss this effect.\n\nSignificant physical damage dealt to the tree expels the dryad from the tree and deals 3d6 damage to her. [[Spells/Magic Passage|Magic Passage]] expels the dryad without dealing damage.\n\nIf a dryad uses this ability on her bonded tree, she instead enters an extradimensional living space within the tree; Tree Meld gains the extradimensional trait. A dryad can bring up to two other creatures with her when entering her home within her bonded tree. The dryad can still be expelled from this space as above."
  
+```
+
+```encounter-table
+name: Dryad
+creatures:
+  - 1: Dryad
 ```
 
 

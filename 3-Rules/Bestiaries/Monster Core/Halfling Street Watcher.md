@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.pathfinder-monster-core.Actor.FWLTPQZzrVsokXHb"
 tags:
   - pf2e/creature/type/halfling
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/-1
   - remaster
 statblock: inline
@@ -19,14 +20,15 @@ license: ORC
 columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
+token: [[modules/pf2e-tokens-monster-core/assets/portraits/halfling-street-watcher.webp| ]]
 source: "Pathfinder Monster Core"
 name: "Halfling Street Watcher"
 level: "Creature -1"
 
 alignment: ""
 size: "Small"
-trait_01: "halfling"
-trait_02: "humanoid"
+trait_01: [[halfling]]
+trait_02: [[humanoid]]
 modifier: 8
 perception:
   - name: "Perception"
@@ -65,6 +67,12 @@ attacks:
   - name: "Keen Eyes"
     desc: "  The halfling gains a +2 circumstance bonus when using the [[Actions/Seek|Seek]] action to find [[Conditions/Hidden|Hidden]] or undetected creatures within 30 feet of it.\n\nWhenever the halfling targets a creature that is [[Conditions/Concealed|Concealed]] or hidden from them, reduce the DC of the flat check to 3 for a concealed target or 9 for a hidden one."
  
+```
+
+```encounter-table
+name: Halfling Street Watcher
+creatures:
+  - 1: Halfling Street Watcher
 ```
 
 

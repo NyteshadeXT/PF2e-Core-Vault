@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.npc-gallery.Actor.EslFhpdvQf7KN8W3"
 tags:
   - pf2e/creature/type/human
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/3
 statblock: inline
 name: "Chronicler"
@@ -24,8 +25,8 @@ level: "Creature 3"
 
 alignment: ""
 size: "Medium"
-trait_01: "human"
-trait_02: "humanoid"
+trait_01: [[human]]
+trait_02: [[humanoid]]
 modifier: 14
 perception:
   - name: "Perception"
@@ -33,7 +34,7 @@ perception:
 languages: "Common"
 skills:
   - name: "Skills"
-    desc: "Map Lore: +17, Nature: +14, Scribing Lore: +17, Society: +12, Survival: +14"
+    desc: "Nature: +14, Society: +12, Survival: +14, Map Lore: +17, Scribing Lore: +17"
 abilityMods: [2, 2, 1, 4, 4, 0]
 speed: 25 feet
 sourcebook: "_Pathfinder Gamemastery Guide_"
@@ -53,12 +54,12 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Live to Tell the Tale"
-    desc: "`pf2:r`  **Frequency** once per day\n**Trigger** The chronicler is [[Conditions/Dying 1|Dying]]\n**Effect** The chronicler reduces their dying condition by 1. If the chronicler is no longer dying, they remain [[Conditions/Unconscious|Unconscious]] for at least 1 hour or until they regain 1 Hit Point."
+    desc: "`pf2:r`  **Frequency** once per day\n\n**Trigger** The chronicler is [[Conditions/Dying|Dying]]\n* * *\n\n**Effect** The chronicler reduces their dying condition by 1. If the chronicler is no longer dying, they remain [[Conditions/Unconscious|Unconscious]] for at least 1 hour or until they regain 1 Hit Point."
 
 attacks:
   - name: ""
 
-  - name: "Melee"
+  - name: "Ranged"
     desc: "`pf2:1` Dagger +7 (agile, thrown 10 ft., versatile s)\n__Damage__  1d4 + 2 piercing"
 
   - name: "Melee"
@@ -73,6 +74,12 @@ attacks:
   - name: "Scroll Mastery"
     desc: "  The chronicler can activate any scroll of a 2nd-rank spell or lower as if they had the spell on their spell list, regardless of its magical tradition."
  
+```
+
+```encounter-table
+name: Chronicler
+creatures:
+  - 1: Chronicler
 ```
 
 

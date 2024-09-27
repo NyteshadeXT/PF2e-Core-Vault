@@ -10,7 +10,7 @@ license: OGL
 ---
 # Dragon's Breath (2nd Level Spell)
 ## Item 6
-### [uncommon](uncommon "Uncommon Rarity Trait")[[magical]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[3-Rules/Rule References/Magical]]
 
 
 **Price** 250 gp; 

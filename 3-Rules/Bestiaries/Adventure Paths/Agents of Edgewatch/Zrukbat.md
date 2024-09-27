@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.agents-of-edgewatch-bestiary.Actor.PEjcy9CxelKC3Kp6"
 tags:
   - pf2e/creature/type/chaotic
   - pf2e/creature/type/fey
+  - pf2eMonster
   - pf2e/creature/level/2
 statblock: inline
 name: "Zrukbat"
@@ -24,8 +25,8 @@ level: "Creature 2"
 
 alignment: ""
 size: "Small"
-trait_01: "chaotic"
-trait_02: "fey"
+trait_01: [[chaotic]]
+trait_02: [[fey]]
 modifier: 7
 perception:
   - name: "Perception"
@@ -61,11 +62,17 @@ attacks:
     desc: "`pf2:1` Fangs +11 ()\n__Damage__  1d6 + 3 piercing"
 
   - name: "Dubious Shifting"
-    desc: "`pf2:1` (concentrate,polymorph,primal) The zrukbat assumes the shape of any Small object or ornamentation, although the zrukbat's mimicked objects usually have unrealistic or suspicious quirks.\nThis doesn't change the zrukbat's size but can alter their coloration and visual appearance.\nThey have an automatic result of 23 on Deception checks and DCs to pass as the mimicked object."
+    desc: "`pf2:1` (concentrate,polymorph,primal) The zrukbat assumes the shape of any Small object or ornamentation, although the zrukbat's mimicked objects usually have unrealistic or suspicious quirks.\n\nThis doesn't change the zrukbat's size but can alter their coloration and visual appearance.\n\nThey have an automatic result of 23 on Deception checks and DCs to pass as the mimicked object."
 
   - name: "Go for the Eyes"
-    desc: "`pf2:2`  The zrukbat flies up to its Speed and makes a claw Strike at the end of its move.\nIf the claw attack hits, the target must succeed on a DC 15 Fortitude check saving throw or be [[Conditions/Blinded|Blinded]] for 1 round (or blinded for 1 minute on a critical failure). If the Strike was a critical hit, the target's save result is one degree of success worse."
+    desc: "`pf2:2`  The zrukbat flies up to its Speed and makes a claw Strike at the end of its move.\n\nIf the claw attack hits, the target must succeed on a DC 15 Fortitude check saving throw or be [[Conditions/Blinded|Blinded]] for 1 round (or blinded for 1 minute on a critical failure). If the Strike was a critical hit, the target's save result is one degree of success worse."
  
+```
+
+```encounter-table
+name: Zrukbat
+creatures:
+  - 1: Zrukbat
 ```
 
 

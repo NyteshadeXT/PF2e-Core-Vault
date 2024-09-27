@@ -28,7 +28,7 @@ license: OGL
 
 This staff of magically hardened wood is topped with a silver sculpture depicting magical runic symbols. When used as a weapon, a _staff of power_ is a _+2 greater striking staff_.
 
-Voluntarily destroying a _staff of power_ unleashes an incredible blast of energy. When wielding the staff, you can Interact to break it. This releases a 30-foot burst magical explosion centered on the staff. This deals 2d8 force damage per charge remaining in the staff (DC 40 Reflex check). You automatically critically fail your save. A creature reduced to 0 Hit Points by this damage dies instantly; this is a death effect.
+Voluntarily destroying a _staff of power_ unleashes an incredible blast of energy. When wielding the staff, you can Interact to break it. This releases a @Template\[burst|distance:30\] magical explosion centered on the staff. This deals 2d8 force damage per charge remaining in the staff (DC 40 Reflex check). You automatically critically fail your save. A creature reduced to 0 Hit Points by this damage dies instantly; this is a death effect.
 
 **Activate** Cast a Spell
 

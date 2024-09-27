@@ -8,8 +8,9 @@ tags:
   - trait/swashbuckler
   - trait/common
   - category/class
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.XfCPAoNdF2XMnH7K"
-license: OGL
+license: ORC
 ---
 # Lethal Finisher `pf2:1`
 ## Feat 18
@@ -35,5 +36,5 @@ Instead, your target takes additional precision damage based on a Fortitude chec
 
 **Critical Failure** You deal 18d6 precision damage.
 
-*Source: Pathfinder Advanced Player's Guide*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

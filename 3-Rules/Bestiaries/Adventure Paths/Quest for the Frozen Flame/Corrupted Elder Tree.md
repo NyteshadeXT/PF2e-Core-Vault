@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/good
   - pf2e/creature/type/plant
   - pf2e/creature/type/unholy
+  - pf2eMonster
   - pf2e/creature/level/8
 statblock: inline
 name: "Corrupted Elder Tree"
@@ -23,21 +24,21 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #176: Lost Mammoth Valley"
 name: "Corrupted Elder Tree"
 level: "Creature 8"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "huge"
-trait_01: "fiend"
-trait_02: "good"
-trait_03: "plant"
-trait_04: "unholy"
+trait_01: [[fiend]]
+trait_02: [[good]]
+trait_03: [[plant]]
+trait_04: [[unholy]]
 modifier: 18
 perception:
   - name: "Perception"
     desc: "+18; Low-Light Vision"
-languages: "Arboreal, Common, Fey"
+languages: "Arboreal, Common, Fey; speak with plants"
 skills:
   - name: "Skills"
-    desc: "Athletics: +19, Diplomacy: +16, Intimidation: +16, Nature: +18, Stealth: +11 (+21 in forests)"
+    desc: "Athletics: +19, Diplomacy: +16, Intimidation: +16, Nature: +18, Stealth: +11"
 abilityMods: [7, -1, 6, 1, 4, 2]
 speed: 25 feet
 sourcebook: "_Pathfinder #176: Lost Mammoth Valley_"
@@ -74,7 +75,7 @@ attacks:
     desc: "DC 26, attack +18\n__Constant__  __(4th)__ _[[Spells/Speak with Plants|Speak with Plants]]_"
 
   - name: "Awaken Tree"
-    desc: "`pf2:2` (concentrate,primal) The arboreal regent causes a tree within 180 feet to uproot itself and fight as a minion using the statistics for an [[Bestiary 1/Awakened Tree|Awakened Tree]]. The arboreal regent can control up to two awakened trees at a time, and it can issue commands to both trees as a single action, which has the concentrate and auditory traits."
+    desc: "`pf2:2` (concentrate,primal) The arboreal regent causes a tree within 180 feet to uproot itself and fight as a minion using the statistics for an [[Monster Core/Awakened Tree|Awakened Tree]]. The arboreal regent can control up to two awakened trees at a time, and it can issue commands to both trees as a single action, which has the concentrate and auditory traits."
 
   - name: "Sunder Objects"
     desc: "  When an arboreal regent damages an item or structure, it deals an additional 2d10 damage to that item or structure."
@@ -82,6 +83,12 @@ attacks:
   - name: "[[Bestiary Ability Glossary/Throw Rock|Throw Rock]]"
     desc: "`pf2:1`  "
  
+```
+
+```encounter-table
+name: Corrupted Elder Tree
+creatures:
+  - 1: Corrupted Elder Tree
 ```
 
 

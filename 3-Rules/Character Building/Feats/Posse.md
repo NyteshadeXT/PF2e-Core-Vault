@@ -7,8 +7,9 @@ tags:
   - trait/exploration
   - trait/common
   - category/class
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.N0YcU8mIJnQ4C2N6"
-license: OGL
+license: ORC
 ---
 # Posse
 ## Feat 4
@@ -20,13 +21,13 @@ license: OGL
 
 **Prerequisites** Bounty Hunter Dedication
 * * *
-**Requirements** You have designated prey with [[Actions/Hunt Prey|Hunt Prey]].
+**Requirements** You have designated prey with Hunt Prey.
 
 * * *
 
 By spending 1 minute giving guidance to help hunt down your prey, you instruct up to five willing creatures to assist you. They gain a +1 circumstance bonus to [[Actions/Seek|Seek]] your prey, to [[Actions/Track|Track]] your prey, and to [[Actions/Gather Information|Gather Information]] about your prey. You and the creatures assisting you gain a +1 circumstance bonus to initiative rolls when entering combat with your prey.
 
-This benefit lasts until you designate a new prey or your prey dies, whichever comes first. An individual creature assisting you loses this benefit if they're out of your presence for too long to benefit from your instructions. This is usually 1 hour, but is determined by the GM.
+These benefits lasts until you designate a new prey or your prey dies, whichever comes first. An individual creature assisting you loses this benefit if they're out of your presence for too long to benefit from your instructions. This is usually 1 hour, but is determined by the GM.
 
-*Source: Pathfinder Advanced Player's Guide*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

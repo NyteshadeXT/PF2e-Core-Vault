@@ -6,6 +6,7 @@ cssClasses: pf2e
 aliases: "Compendium.pf2e.pfs-season-4-bestiary.Actor.xKCWrQM7tgIz5vTx" 
 tags:
   - pf2e/creature/type/animal
+  - pf2eMonster
   - pf2e/creature/level/1
 statblock: inline
 name: "Giant Fetid Familiar"
@@ -20,14 +21,15 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Society Intro: Year of Boundless Wonder"
 name: "Giant Fetid Familiar"
 level: "Creature 1"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Large"
-trait_01: "animal"
+trait_01: [[animal]]
 modifier: 6
 perception:
   - name: "Perception"
     desc: "+6; Low-Light Vision, Scent (Imprecise) 40 Feet"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Acrobatics: +7, Athletics: +6, Stealth: +7"
@@ -58,8 +60,14 @@ attacks:
     desc: "`pf2:1` Claw +8 (agile)\n__Damage__  1d4 + 3 slashing"
 
   - name: "Evil Blinding Musk"
-    desc: "`pf2:2` (poison) The giant fetid familiar propels potent, acrid musk in a 15-foot cone. Each creature in the line must attempt a DC 16 Fortitude check save.\n**Critical Success** The target is unaffected.\n**Success** The target is [[Conditions/Sickened 1|Sickened 1]].\n**Failure** The target is [[Conditions/Sickened 1|Sickened 3]].\n**Critical Failure** The target is [[Conditions/Blinded|Blinded]] for 1 round, becomes [[Conditions/Sickened 1|Sickened 3]], and is [[Conditions/Doomed 1|Doomed 1]] until the musk is removed or neutralized, requiring 10 minutes of thorough scrubbing with soap."
+    desc: "`pf2:2` (poison) The giant fetid familiar propels potent, acrid musk in a @Template[cone|distance:15]. Each creature in the line must attempt a DC 16 Fortitude check save.\n* * *\n\n**Critical Success** The target is unaffected.\n\n**Success** The target is [[Conditions/Sickened|Sickened 1]].\n\n**Failure** The target is [[Conditions/Sickened|Sickened 3]].\n\n**Critical Failure** The target is [[Conditions/Blinded|Blinded]] for 1 round, becomes [[Conditions/Sickened|Sickened 3]], and is [[Conditions/Doomed|Doomed 1]] until the musk is removed or neutralized, requiring 10 minutes of thorough scrubbing with soap."
  
+```
+
+```encounter-table
+name: Giant Fetid Familiar
+creatures:
+  - 1: Giant Fetid Familiar
 ```
 
 

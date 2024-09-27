@@ -13,7 +13,7 @@ license: OGL
 ---
 # Awakened Adamantine Shot
 ## Item 18
-### [uncommon](uncommon "Uncommon Rarity Trait")[[alchemical]][[consumable]][[magical]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[alchemical]][[consumable]][[3-Rules/Rule References/Magical]]
 
 **Category** ammo; 
 **Price** 3500 gp; 

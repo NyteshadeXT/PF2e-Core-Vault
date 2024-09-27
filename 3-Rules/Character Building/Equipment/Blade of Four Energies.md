@@ -15,7 +15,7 @@ license: OGL
 ---
 # Blade of Four Energies
 ## Item 13
-### [[agile]][[finesse]][[magical]][[versatile-s]]
+### [[3-Rules/Rule References/Agile]][[3-Rules/Rule References/Finesse]][[3-Rules/Rule References/Magical]][[versatile-s]]
 
 |  |  |
 | -- | -- |
@@ -42,9 +42,8 @@ This _+2 greater striking shifting shortsword_ is formed of rapidly vibrating ai
 2.  _[[Equipment/Flaming|Flaming]]_,
 3.  _[[Equipment/Frost|Frost]]_, or
 4.  _[[Equipment/Shock|Shock]]_.
-    
-    * * *
-    
+
+* * *
 
 **Activate** `pf2:2` command, envision
 

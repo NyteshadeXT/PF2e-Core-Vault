@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/human
   - pf2e/creature/type/humanoid
   - pf2e/creature/type/lawful
+  - pf2eMonster
   - pf2e/creature/level/3
 statblock: inline
 name: "Archis Peers (3-4)"
@@ -23,13 +24,13 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Society Scenario #2-13: A Gilded Test"
 name: "Archis Peers (3-4)"
 level: "Creature 3"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Medium"
-trait_01: "evil"
-trait_02: "human"
-trait_03: "humanoid"
-trait_04: "lawful"
+trait_01: [[evil]]
+trait_02: [[human]]
+trait_03: [[humanoid]]
+trait_04: [[lawful]]
 modifier: 8
 perception:
   - name: "Perception"
@@ -57,7 +58,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Eluding Strike"
-    desc: "`pf2:r`  **Trigger** A creature targets Archis with a melee attack and Archis can see the attacker\n**Effect** Archis dodges out of the way, gaining a +1 circumstance bonus to AC against the triggering attack. If the attack misses, Archis makes a melee Strike against that creature.\nThis Strike doesn't count toward Archis' multiple attack penalty, and his multiple attack penalty doesn't apply to this Strike."
+    desc: "`pf2:r`  **Trigger** A creature targets Archis with a melee attack and Archis can see the attacker\n* * *\n\n**Effect** Archis dodges out of the way, gaining a +1 circumstance bonus to AC against the triggering attack. If the attack misses, Archis makes a melee Strike against that creature.\n\nThis Strike doesn't count toward Archis' multiple attack penalty, and his multiple attack penalty doesn't apply to this Strike."
 
 attacks:
   - name: ""
@@ -71,6 +72,12 @@ attacks:
   - name: "[[Bestiary Ability Glossary/Sneak Attack|Sneak Attack]]"
     desc: "  Archis deals 1d6 extra precision damage to [[Conditions/Off-Guard|Off-Guard]] creatures."
  
+```
+
+```encounter-table
+name: Archis Peers (3-4)
+creatures:
+  - 1: Archis Peers (3-4)
 ```
 
 

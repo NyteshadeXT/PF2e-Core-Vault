@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.pathfinder-monster-core.Actor.2A7jnl9tpmeTBkQy"
 tags:
   - pf2e/creature/type/amphibious
   - pf2e/creature/type/plant
+  - pf2eMonster
   - pf2e/creature/level/6
   - remaster
 statblock: inline
@@ -19,14 +20,15 @@ license: ORC
 columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
+token: [[modules/pf2e-tokens-monster-core/assets/portraits/sargassum-heap.webp| ]]
 source: "Pathfinder Monster Core"
 name: "Sargassum Heap"
 level: "Creature 6"
 
 alignment: ""
 size: "Large"
-trait_01: "amphibious"
-trait_02: "plant"
+trait_01: [[amphibious]]
+trait_02: [[plant]]
 modifier: 10
 perception:
   - name: "Perception"
@@ -62,11 +64,17 @@ attacks:
     desc: "`pf2:1` Tendril +17 (reach 10 feet)\n__Damage__  2d8 + 8 bludgeoning plus grab"
 
   - name: "[[Bestiary Ability Glossary/Constrict|Constrict]]"
-    desc: "`pf2:1`  2d8 + 3 bludgeoning, DC 23 Fortitude check\n\n* * *\n"
+    desc: "`pf2:1`  2d8+3 bludgeoning, DC 23 Fortitude check\n\n* * *\n"
 
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
     desc: "`pf2:1`  "
  
+```
+
+```encounter-table
+name: Sargassum Heap
+creatures:
+  - 1: Sargassum Heap
 ```
 
 

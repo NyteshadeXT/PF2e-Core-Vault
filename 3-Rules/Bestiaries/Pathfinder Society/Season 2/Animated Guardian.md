@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.pfs-season-2-bestiary.Actor.WEo5SYs2SPZkU6lu"
 tags:
   - pf2e/creature/type/construct
   - pf2e/creature/type/mindless
+  - pf2eMonster
   - pf2e/creature/level/1
 statblock: inline
 name: "Animated Guardian"
@@ -21,15 +22,16 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Society Scenario #2-19: Enter the Pallid Peak"
 name: "Animated Guardian"
 level: "Creature 1"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Medium"
-trait_01: "construct"
-trait_02: "mindless"
+trait_01: [[construct]]
+trait_02: [[mindless]]
 modifier: 5
 perception:
   - name: "Perception"
     desc: "+5; Darkvision"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Athletics: +8"
@@ -51,7 +53,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Guardian Construct Armor (Hardness 3)"
-    desc: "  Like normal objects, the animated guardian has Hardness. This Hardness reduces any damage it takes by an amount equal to the Hardness.\nOnce the animated guardian is reduced to less than half its Hit Points, or immediately upon being damaged by a critical hit, its construct armor breaks and its Armor Class is reduced to 11. It also loses its hardness."
+    desc: "  Like normal objects, the animated guardian has Hardness. This Hardness reduces any damage it takes by an amount equal to the Hardness.\n\nOnce the animated guardian is reduced to less than half its Hit Points, or immediately upon being damaged by a critical hit, its construct armor breaks and its Armor Class is reduced to 11. It also loses its hardness."
 
 attacks:
   - name: ""
@@ -62,6 +64,12 @@ attacks:
   - name: "Melee"
     desc: "`pf2:1` Gauntlet +7 (agile, free-hand, magical)\n__Damage__  1d6 + 2 bludgeoning"
  
+```
+
+```encounter-table
+name: Animated Guardian
+creatures:
+  - 1: Animated Guardian
 ```
 
 

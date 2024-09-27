@@ -7,6 +7,7 @@ aliases: "Compendium.battlezoo-bestiary-su-pf2e.pf2e-battlezoo-su-actors.Actor.N
 tags:
   - pf2e/creature/type/lawful
   - pf2e/creature/type/ooze
+  - pf2eMonster
   - pf2e/creature/level/13
 statblock: inline
 name: "Wannabe Knight"
@@ -22,16 +23,16 @@ token: [[modules/battlezoo-bestiary-su-pf2e/art/Portraits/wannabe-knight.webp| ]
 source: "Battlezoo Bestiary: Strange and Unusual"
 name: "Wannabe Knight"
 level: "Creature 13"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Medium"
-trait_01: "lawful"
-trait_02: "ooze"
+trait_01: [[lawful]]
+trait_02: [[ooze]]
 modifier: 23
 perception:
   - name: "Perception"
-    desc: "+23; Motion Sense (Precise) 240 Feet"
-languages: "Common"
+    desc: "+23; Motion Sense (Imprecise) 240 Feet"
+languages: "Common; can&#x27;t speak"
 skills:
   - name: "Skills"
     desc: ""
@@ -72,7 +73,7 @@ attacks:
     desc: "`pf2:1` Bastard Sword Pseudopod +27 (two-hand d12)\n__Damage__  3d8 + 14 slashing"
 
   - name: "[[Actor.N6fhuATeclvEg2wN.Item.zVsMjrtflEQNNwda|Issue Challenge]]"
-    desc: "`pf2:3` (mental,visual) The wannabe knight points at a foe, usually the strongest looking creature it can see, issuing a challenge to single combat. That creature can choose whether to accept. If the creature denies the challenge, the wannabe knight wins by default. If the creature accepts, both it and the knight gain 50 temporary Hit Points, which only protect them from damage they each deal to the other. They can only attack each other for the duration of the challenge and if any ally assists the challenged opponent, the challenged opponent forfeits and loses. When either combatant reduces the other's temporary Hit Points from Issue Challenge to 0, they are the victor and gain a +2 status bonus to attack rolls, saving throws, and skill checks for 1 minute. Additionally if the wannabe knight wins, its opponent becomes Frightened 2. Afterward, the challenged creature is temporarily immune for 1 month.\n[[Effects/Effect_ Issue Challenge (Participants)|Effect: Issue Challenge (Participants)]]\n[[Effects/Effect_ Issue Challenge (Victor)|Effect: Issue Challenge (Victor)]]"
+    desc: "`pf2:3` (mental,visual) The wannabe knight points at a foe, usually the strongest looking creature it can see, issuing a challenge to single combat. That creature can choose whether to accept. If the creature denies the challenge, the wannabe knight wins by default. If the creature accepts, both it and the knight gain 50 temporary Hit Points, which only protect them from damage they each deal to the other. They can only attack each other for the duration of the challenge and if any ally assists the challenged opponent, the challenged opponent forfeits and loses. When either combatant reduces the other's temporary Hit Points from Issue Challenge to 0, they are the victor and gain a +2 status bonus to attack rolls, saving throws, and skill checks for 1 minute. Additionally if the wannabe knight wins, its opponent becomes [[undefined]]. Afterward, the challenged creature is temporarily immune for 1 month.\n\n[[Effects/Effect_ Issue Challenge (Participants)|Effect: Issue Challenge (Participants)]]\n\n[[Effects/Effect_ Issue Challenge (Victor)|Effect: Issue Challenge (Victor)]]"
 
   - name: "Mount Up"
     desc: "`pf2:2`  The wannabe knight creates a growth that extends below it and out of its armor to form a mount, which typically resembles a featureless black horse whose shape is slightly off. While \"mounted,\" the wannabe knight's size increases to Large, it gains a +20-foot circumstance bonus to its Speed, and it takes a –2 penalty to its AC."
@@ -83,6 +84,12 @@ attacks:
   - name: "Whirlwind Charge"
     desc: "`pf2:3`  The wannabe knight Strides up to twice its Speed in a straight line and can make a Strike against each foe within its reach throughout the movement. These attacks increase its multiple attack penalty, but only after the Whirlwind Charge is complete."
  
+```
+
+```encounter-table
+name: Wannabe Knight
+creatures:
+  - 1: Wannabe Knight
 ```
 
 

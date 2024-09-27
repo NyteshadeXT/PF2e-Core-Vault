@@ -15,7 +15,7 @@ license: ORC
 ---
 # Cover Tracks
 
-### [[concentrate]][[exploration]][[move]][[skill]]
+### [[3-Rules/Rule References/Concentrate]][[exploration]][[move]][[skill]]
 
 **Category** defensive; 
 

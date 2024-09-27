@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.extinction-curse-bestiary.Actor.QcJtBai5JViNFqUC"
 tags:
   - pf2e/creature/type/beast
   - pf2e/creature/type/evil
+  - pf2eMonster
   - pf2e/creature/level/15
 statblock: inline
 name: "Viskithrel"
@@ -21,16 +22,16 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #156: The Apocalypse Prophet"
 name: "Viskithrel"
 level: "Creature 15"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "huge"
-trait_01: "beast"
-trait_02: "evil"
+trait_01: [[beast]]
+trait_02: [[evil]]
 modifier: 27
 perception:
   - name: "Perception"
     desc: "+27; Darkvision, Scent (Precise) 100 Feet"
-languages: "Chthonian"
+languages: "Chthonian; (can&#x27;t speak any language)"
 skills:
   - name: "Skills"
     desc: "Acrobatics: +25, Athletics: +31, Survival: +27"
@@ -55,7 +56,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Predator's Leap"
-    desc: "`pf2:r`  **Trigger** A creature within 10 feet of the viskithrel makes a melee Strike against it\n**Effect** The viskithrel Steps up to 15 feet, ignoring difficult terrain as it leaps over obstacles. If this movement takes the viskithrel out of range of the triggering Strike, the Strike is disrupted. It then makes a jaws Strike against a bleeding creature."
+    desc: "`pf2:r`  **Trigger** A creature within 10 feet of the viskithrel makes a melee Strike against it\n* * *\n\n**Effect** The viskithrel Steps up to 15 feet, ignoring difficult terrain as it leaps over obstacles. If this movement takes the viskithrel out of range of the triggering Strike, the Strike is disrupted. It then makes a jaws Strike against a bleeding creature."
 
   - name: "Selective Scent"
     desc: "  A viskithrel's many-chambered snout allows it to partition and ignore scents. The creature can choose to critically succeed at any saving throw against an inhaled threat (such as inhaled poison) or olfactory effects, regardless of its roll."
@@ -73,11 +74,17 @@ attacks:
     desc: "`pf2:1` Tentacle +30 (reach 20 feet)\n__Damage__  1d10 + 14 slashing 2d10 bleed"
 
   - name: "[[Bestiary Ability Glossary/Swallow Whole|Swallow Whole]]"
-    desc: "`pf2:1` (attack) Large, 3d10 bludgeoning plus 2d10 acid, Rupture 25\n"
+    desc: "`pf2:1` (attack) Large, 3d10 bludgeoning plus 2d10 acid, Rupture 25\n\n* * *\n"
 
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
     desc: "`pf2:1`  "
  
+```
+
+```encounter-table
+name: Viskithrel
+creatures:
+  - 1: Viskithrel
 ```
 
 

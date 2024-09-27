@@ -6,6 +6,7 @@ cssClasses: pf2e
 aliases: "Compendium.pf2e.pathfinder-bestiary-2.Actor.3DSqfobadad3pA6O" 
 tags:
   - pf2e/creature/type/animal
+  - pf2eMonster
   - pf2e/creature/level/1
 statblock: inline
 name: "Giant Fly"
@@ -24,11 +25,12 @@ level: "Creature 1"
 
 alignment: ""
 size: "Medium"
-trait_01: "animal"
+trait_01: [[animal]]
 modifier: 8
 perception:
   - name: "Perception"
     desc: "+8; Darkvision, Tremorsense (Imprecise) 30 Feet"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Acrobatics: +7, Athletics: +6"
@@ -50,7 +52,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Avoid the Swat"
-    desc: "`pf2:r`  **Trigger** The giant fly is targeted with a melee or ranged attack by an attacker it can see\n**Effect** The giant fly gains a +2 circumstance bonus against the triggering attack. If the attack misses, the giant insect can Fly up to its fly Speed."
+    desc: "`pf2:r`  **Trigger** The giant fly is targeted with a melee or ranged attack by an attacker it can see\n* * *\n\n**Effect** The giant fly gains a +2 circumstance bonus against the triggering attack. If the attack misses, the giant insect can Fly up to its fly Speed."
 
 attacks:
   - name: ""
@@ -59,8 +61,14 @@ attacks:
     desc: "`pf2:1` Mandibles +8 ()\n__Damage__  1d6 + 3 piercing plus fly-pox"
 
   - name: "Fly Pox"
-    desc: " (disease,virulent) A giant fly could carry any disease, but most transmit a virulent but not fatal infection called Fly Pox with their bite\n**Saving Throw** DC 16 Fortitude check\n**Onset** 1 day\n**Stage 1** [[Conditions/Enfeebled 1|Enfeebled 1]] (1 day)\n**Stage 2** as stage 1 (1 day)\n**Stage 3** [[Conditions/Enfeebled 1|Enfeebled 2]] (1 day)\n**Stage 4** as stage 3 (1 day)\n**Stage 5** enfeebled 2 and [[Conditions/Fatigued|Fatigued]] (1 day)"
+    desc: " (disease,virulent) A giant fly could carry any disease, but most transmit a virulent but not fatal infection called Fly Pox with their bite\n\n**Saving Throw** DC 16 Fortitude check\n* * *\n\n**Onset** 1 day\n\n**Stage 1** [[Conditions/Enfeebled|Enfeebled 1]] (1 day)\n\n**Stage 2** as stage 1 (1 day)\n\n**Stage 3** [[Conditions/Enfeebled|Enfeebled 2]] (1 day)\n\n**Stage 4** as stage 3 (1 day)\n\n**Stage 5** enfeebled 2 and [[Conditions/Fatigued|Fatigued]] (1 day)"
  
+```
+
+```encounter-table
+name: Giant Fly
+creatures:
+  - 1: Giant Fly
 ```
 
 

@@ -6,21 +6,20 @@ tags:
   - trait/barbarian
   - trait/common
   - category/classfeature
+  - remaster
 aliases: "Compendium.pf2e.classfeatures.Item.dU7xRpg4kFd01hwZ"
-license: OGL
+license: ORC
 ---
 # Instinct
 ## Feat 1
-### [[barbarian]]
+### [[3-Rules/trait_reference/barbarian]]
 
 **Category** classfeature; 
 
 
 
 
-You channel your rage through an instinct. You decide what your instinct means to you. It could be a creature or symbol beloved by your clan, or a purely internal source or filter of your rage, such as a belief, curse, heritage, or state of mind. Each instinct grants an instinct ability, plus more abilities you can gain via feats that list that instinct as a prerequisite. It also determines what damage you resist with raging resistance and, at higher levels, increases the additional damage you deal when you [[Class Features/Rage|Rage]].
+Your rage wells up from a dominant instinct—one you learned from a tradition or that comes naturally to you. Your instinct gives you an ability, requires you to avoid certain behaviors, grants you increased damage and resistances at higher levels, and allows you to select feats tied to your instinct.
 
-Each instinct lists acts that are anathema to it. Whenever you perform such acts, you lose the instinct's abilities and any feats that list your instinct as a prerequisite until you spend 1 day of downtime re-centering yourself, though you keep all of your other barbarian abilities.
-
-*Source: Pathfinder Core Rulebook*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

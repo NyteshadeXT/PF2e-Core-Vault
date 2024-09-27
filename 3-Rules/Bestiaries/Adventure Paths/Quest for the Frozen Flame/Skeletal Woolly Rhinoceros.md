@@ -10,6 +10,7 @@ tags:
   - pf2e/creature/type/skeleton
   - pf2e/creature/type/undead
   - pf2e/creature/type/unholy
+  - pf2eMonster
   - pf2e/creature/level/5
 statblock: inline
 name: "Skeletal Woolly Rhinoceros"
@@ -24,18 +25,19 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #176: Lost Mammoth Valley"
 name: "Skeletal Woolly Rhinoceros"
 level: "Creature 5"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Large"
-trait_01: "evil"
-trait_02: "mindless"
-trait_03: "skeleton"
-trait_04: "undead"
-trait_05: "unholy"
+trait_01: [[evil]]
+trait_02: [[mindless]]
+trait_03: [[skeleton]]
+trait_04: [[undead]]
+trait_05: [[unholy]]
 modifier: 9
 perception:
   - name: "Perception"
     desc: "+9; Darkvision"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Athletics: +14"
@@ -66,11 +68,17 @@ attacks:
     desc: "`pf2:1` Foot +15 ()\n__Damage__  2d6 + 6 bludgeoning"
 
   - name: "Rhinoceros Charge"
-    desc: "`pf2:2`  The rhino Strides twice, then makes a horn Strike. As long as the rhino moved at least 20 feet, the Strike's damage increases to 3d12 + 5 piercing. A Medium or smaller creature struck by this attack must succeed at a DC 22 Reflex check save or be automatically Shoved back 5 feet and knocked [[Conditions/Prone|Prone]] by the force of the blow."
+    desc: "`pf2:2`  The rhino Strides twice, then makes a horn Strike. As long as the rhino moved at least 20 feet, the Strike's damage increases to 3d12+5 piercing. A Medium or smaller creature struck by this attack must succeed at a DC 22 Reflex check save or be automatically Shoved back 5 feet and knocked [[Conditions/Prone|Prone]] by the force of the blow."
 
   - name: "[[Bestiary Ability Glossary/Trample|Trample]]"
     desc: "`pf2:3`  Medium or smaller, foot, DC 19 Reflex check"
  
+```
+
+```encounter-table
+name: Skeletal Woolly Rhinoceros
+creatures:
+  - 1: Skeletal Woolly Rhinoceros
 ```
 
 

@@ -10,14 +10,14 @@ license: OGL
 ---
 # Bloodthirsty
 ## Item 16
-### [uncommon](uncommon "Uncommon Rarity Trait")[[magical]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[3-Rules/Rule References/Magical]]
 
 
 **Price** 8500 gp; 
 **Bulk** 0; **Size** med
 **Usage** etched-onto-piercing-or-slashing-melee-weapon
 
-The magic in this rune sings in time with your attacks and coaxes you into finishing your opponent. When you critically hit a target that's taking persistent bleed damage, your target becomes [[Conditions/Drained 1|Drained 1]].
+The magic in this rune sings in time with your attacks and coaxes you into finishing your opponent. When you critically hit a target that's taking persistent bleed damage, your target becomes [[Conditions/Drained|Drained 1]].
 
 * * *
 

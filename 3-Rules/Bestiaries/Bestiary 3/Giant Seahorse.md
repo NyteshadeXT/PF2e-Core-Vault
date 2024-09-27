@@ -6,6 +6,7 @@ cssClasses: pf2e
 aliases: "Compendium.pf2e.pathfinder-bestiary-3.Actor.qE0iZoeeOp7og5A5" 
 tags:
   - pf2e/creature/type/animal
+  - pf2eMonster
   - pf2e/creature/level/3
 statblock: inline
 name: "Giant Seahorse"
@@ -24,14 +25,15 @@ level: "Creature 3"
 
 alignment: ""
 size: "Large"
-trait_01: "animal"
+trait_01: [[animal]]
 modifier: 10
 perception:
   - name: "Perception"
     desc: "+10; Low-Light Vision"
+languages: ""
 skills:
   - name: "Skills"
-    desc: "Athletics: +11, Stealth: +10 (+12 in underwater vegetation)"
+    desc: "Athletics: +11, Stealth: +10"
 abilityMods: [4, 3, 4, -4, 1, 3]
 speed:  swim 30 feet
 sourcebook: "_Pathfinder Bestiary 3_"
@@ -62,11 +64,17 @@ attacks:
     desc: "`pf2:1` Tail +11 (agile)\n__Damage__  1d6 + 4 bludgeoning plus grab"
 
   - name: "Anchor"
-    desc: "`pf2:1`  The seahorse wraps its tail around either a stationary object or its rider. A seahorse anchored to an object gains a +2 circumstance bonus to any defense against effects that would forcibly move it. An anchored rider gains the same benefit against effects that would forcibly knock it off the seahorse.\nThe seahorse remains anchored until it Releases its grip, is knocked unconscious, or either it's forcibly moved away from the object or its rider is forcibly moved off it."
+    desc: "`pf2:1`  The seahorse wraps its tail around either a stationary object or its rider. A seahorse anchored to an object gains a +2 circumstance bonus to any defense against effects that would forcibly move it. An anchored rider gains the same benefit against effects that would forcibly knock it off the seahorse.\n\nThe seahorse remains anchored until it Releases its grip, is knocked unconscious, or either it's forcibly moved away from the object or its rider is forcibly moved off it."
 
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
     desc: "`pf2:1`  "
  
+```
+
+```encounter-table
+name: Giant Seahorse
+creatures:
+  - 1: Giant Seahorse
 ```
 
 

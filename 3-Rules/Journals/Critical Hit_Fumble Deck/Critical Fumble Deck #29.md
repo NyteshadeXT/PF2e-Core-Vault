@@ -8,7 +8,7 @@ tags:
 ---
 # Catch your Breath
 
-> You are [[Conditions/Slowed 1|Slowed 2]] until the end of your next turn.
+> You are [[Conditions/Slowed|Slowed 2]] until the end of your next turn.
 
 `Melee`
 
@@ -26,6 +26,6 @@ tags:
 
 # You made 'em Stronger
 
-> The target gains a [[Other Effects/Effect\_ +2 status bonus to attack rolls|+2 status bonus to attack rolls]] until the end of its next turn.
+> The target gains a [[Other Effects/Effect_ +2 status bonus to attack rolls|+2 status bonus to attack rolls]] until the end of its next turn.
 
 `Spell`

@@ -29,5 +29,7 @@ license: ORC
 
 This tiger formed of pewter snarls viciously from your weapon's grip. When you activate the tiger, the weapon gains the forceful and sweep traits on the triggering Strike and all other Strikes for 1 minute.
 
+[[Equipment Effects/Effect_ Tiger Menuki|Effect: Tiger Menuki]]
+
 *Source: Pathfinder GM Core*
 *ORC*

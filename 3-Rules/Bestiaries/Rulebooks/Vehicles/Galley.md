@@ -1,16 +1,17 @@
 ---
-title: "Galley"
+title: Galley
 obsidianUIMode: preview
-noteType: pf2eMonster
+noteType: pf2eVehicle
 cssClasses: pf2e
-aliases: "Compendium.pf2e.vehicles.Actor.HA93YJ0qjmRk0Nh8" 
 tags:
-  - pf2e/creature/level/10
+  - pf2eVehicle
+
   - remaster
-statblock: inline
-name: "Galley"
+source: Pathfinder GM Core
+aliases: "Compendium.pf2e.vehicles.Actor.HA93YJ0qjmRk0Nh8" 
 level: 10
 license: ORC
+statblock: inline
 ---
 
 ```statblock
@@ -19,39 +20,51 @@ forcecolumns: true
 layout: Basic Pathfinder 2e Layout
 source: "Pathfinder GM Core"
 name: "Galley"
-level: "Creature 10"
+level: "Vehicle 10"
 
-alignment: ""
-size: "grg"
+
+size: "Gargantuan"
 modifier: 
 perception:
-  - name: "Perception"
-    desc: "NaN; "
-skills:
-  - name: "Skills"
-    desc: ""
-abilityMods: [, , , , , ]
-speed: 
-sourcebook: "_Pathfinder GM Core_"
+  - name: ""
+  - name: "Price"
+    desc: "3000 gp\n* * *"
+abilities_top:
+  - name: ""
+  - name: "Space"
+    desc: "130 feet long, 20 feet wide, 25 feet high"
+  - name: "Crew"
+    desc: "1 pilot, 20 rowers; **Passengers** 6"
+  - name: "Piloting Check"
+    desc: "Sailing Lore (DC 27), Diplomacy (DC 29), Or Intimidation (DC 29)"
 ac: 25
 armorclass:
   - name: AC
-    desc: "25; __Fort__ +19, __Ref__ NaN, __Will__ NaN"
+    desc: "25; __Fort__ +19"
 hp: 170
 health:
   - name: ""
-  - name: HP
-    desc: "170; __Immunities__  object immunities; __Weaknesses__ fire 15"
-abilities_top:
-  - name: ""
-
+  - name: "Hardness"
+    desc: "15; **HP** 170 (BT 85); __Immunities__  object immunities; __Weaknesses__ fire 15 until broken"
+speed: "swim 30 feet (rowed, wind)"
 abilities_mid:
   - name: ""
 attacks:
   - name: ""
- 
+  - name: "Collision"
+    desc: "7d10 (DC 27)"
+
+  - name: "Maneuverable"
+    desc: " With a full complement of skilled rowers, a rowed galley can turn swiftly, turn in place, and even row backwards. Each 90-degree turn made in less than a vehicle length costs 5 extra feet of movement. It can row backwards no faster than half its speed, and it can't turn while rowing backwards."
+
+
+
+sourcebook: "_Pathfinder GM Core_"
 ```
 
-
-
+```encounter-table
+name: Galley
+creatures:
+  - 1: Galley
+```
 

@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/divine
   - pf2e/creature/type/dragon
   - pf2e/creature/type/unholy
+  - pf2eMonster
   - pf2e/creature/level/11
   - remaster
 statblock: inline
@@ -20,15 +21,16 @@ license: ORC
 columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
+token: [[modules/pf2e-tokens-monster-core/assets/portraits/dragon-diabolic-young.webp| ]]
 source: "Pathfinder Monster Core"
 name: "Diabolic Dragon (Young, Spellcaster)"
 level: "Creature 11"
 
 alignment: ""
 size: "Large"
-trait_01: "divine"
-trait_02: "dragon"
-trait_03: "unholy"
+trait_01: [[divine]]
+trait_02: [[dragon]]
+trait_03: [[unholy]]
 modifier: 21
 perception:
   - name: "Perception"
@@ -36,7 +38,7 @@ perception:
 languages: "Common, Diabolic, Draconic, Pyric"
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +20, Athletics: +24, Deception: +20, Diplomacy: +22, Hell Lore: +19, Intimidation: +20, Legal Lore: +21, Religion: +21, Society: +19, Thievery: +20"
+    desc: "Acrobatics: +20, Athletics: +24, Deception: +20, Diplomacy: +22, Intimidation: +20, Religion: +21, Society: +19, Thievery: +20, Hell Lore: +19, Legal Lore: +21"
 abilityMods: [7, 3, 6, 2, 4, 3]
 speed: 50 feet,  fly 120 feet
 sourcebook: "_Pathfinder Monster Core_"
@@ -88,7 +90,7 @@ attacks:
     desc: "  Any fire damage that a diabolic dragon deals, including fire damage from spells, is imbued with the unholy power of Hell to scorch the spirit as well. A creature takes spirit damage instead of fire damage if that would be more detrimental to the creature (as determined by the GM). A diabolic dragon is immune to the diabolic fire of other diabolic dragons, the fire from divine immolation, and similar effects."
 
   - name: "Hellfire Breath"
-    desc: "`pf2:2` (divine,fire,unholy) The dragon unleashes a blast of infernal fire that deals 12d6 fire damage in a 40-foot cone (DC 30 Reflex check save).\n\nThe dragon can't use Hellfire Breath again for 1d4 rounds."
+    desc: "`pf2:2` (divine,fire,unholy) The dragon unleashes a blast of infernal fire that deals 12d6 fire damage in a @Template[cone|distance:40] (DC 30 Reflex check save).\n\nThe dragon can't use Hellfire Breath again for 1d4 rounds."
 
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
     desc: "`pf2:1`  "
@@ -96,6 +98,12 @@ attacks:
   - name: "[[Bestiary Ability Glossary/Knockdown|Knockdown]]"
     desc: "`pf2:1`  "
  
+```
+
+```encounter-table
+name: Diabolic Dragon (Young, Spellcaster)
+creatures:
+  - 1: Diabolic Dragon (Young, Spellcaster)
 ```
 
 

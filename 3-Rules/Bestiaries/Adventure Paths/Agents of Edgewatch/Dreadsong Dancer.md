@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/fiend
   - pf2e/creature/type/lawful
   - pf2e/creature/type/unholy
+  - pf2eMonster
   - pf2e/creature/level/8
 statblock: inline
 name: "Dreadsong Dancer"
@@ -23,18 +24,18 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #158: Sixty Feet Under"
 name: "Dreadsong Dancer"
 level: "Creature 8"
-rare_03: "Rare"
+rare_03: [[Rare]]
 alignment: ""
 size: "Medium"
-trait_01: "evil"
-trait_02: "fiend"
-trait_03: "lawful"
-trait_04: "unholy"
+trait_01: [[evil]]
+trait_02: [[fiend]]
+trait_03: [[lawful]]
+trait_04: [[unholy]]
 modifier: 13
 perception:
   - name: "Perception"
     desc: "+13; Darkvision"
-languages: "Common, Diabolic"
+languages: "Common, Diabolic; (can&#x27;t speak any language)"
 skills:
   - name: "Skills"
     desc: "Acrobatics: +18, Athletics: +16, Deception: +18, Occultism: +14, Performance: +18, Stealth: +18"
@@ -56,10 +57,10 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Jealous Musician"
-    desc: "`pf2:r`  **Trigger** A creature plays an instrument while Casting a Spell or casts a composition spell within 20 feet of the dreadsong dancer\n**Effect** The dreadsong dancer Strides up to 20 feet and makes a songblade Strike against the triggering creature. If the Strike hits, the spell is disrupted."
+    desc: "`pf2:r`  **Trigger** A creature plays an instrument while Casting a Spell or casts a composition spell within 20 feet of the dreadsong dancer\n* * *\n\n**Effect** The dreadsong dancer Strides up to 20 feet and makes a songblade Strike against the triggering creature. If the Strike hits, the spell is disrupted."
 
   - name: "Performance Anxiety"
-    desc: "  A dreadsong dancer is [[Conditions/Stunned 1|Stunned 1]] if they see or hear a creature critically succeed at a Performance check or at a saving throw against their Dreadsong.\nThe dreadsong dancer is [[Conditions/Quickened|Quickened 1]] for 1 round if they see or hear a creature critically fail at a Performance check or a saving throw against their Dreadsong.\nThey can use the extra action only to Stride or Strike."
+    desc: "  A dreadsong dancer is [[Conditions/Stunned|Stunned 1]] if they see or hear a creature critically succeed at a Performance check or at a saving throw against their Dreadsong.\n\nThe dreadsong dancer is [[Conditions/Quickened|Quickened 1]] for 1 round if they see or hear a creature critically fail at a Performance check or a saving throw against their Dreadsong.\n\nThey can use the extra action only to Stride or Strike."
 
 attacks:
   - name: ""
@@ -74,11 +75,17 @@ attacks:
     desc: "DC 23, attack +15; __4th __  _[[Spells/Translocate|Dimension Door]]_; __2nd __  _[[Spells/Invisibility|Invisibility]]_, _[[Spells/Silence|Silence]]_; __1st __  _[[Spells/Sure Strike|True Strike (x3)]]_"
 
   - name: "Dreadsong"
-    desc: "`pf2:2` (auditory,concentrate,fear,illusion,mental) The dreadsong dancer whirls their howling songblades and cloaks themself in illusion magic. Each non-fiend creature in a 30-foot emanation from the dreadsong dancer must attempt a DC 29 Will check save.\n**Critical Success** No effect, and the creature is temporarily immune for 24 hours. The dreadsong dancer is affected by their performance anxiety.\n**Success** The creature is [[Conditions/Frightened 1|Frightened 1]].\n**Failure** The creature is [[Conditions/Frightened 1|Frightened 2]], and the dreadsong dancer is [[Conditions/Undetected|Undetected]] by the creature for 1 minute. The creature can't use Seek to find the dreadsong dancer.\n**Critical Failure** As failure, but the creature can't reduce its frightened condition below 2 for 1 minute. In addition, the dreadsong dancer is affected by its performance anxiety."
+    desc: "`pf2:2` (auditory,concentrate,fear,illusion,mental) The dreadsong dancer whirls their howling songblades and cloaks themself in illusion magic. Each non-fiend creature in a @Template[emanation|distance:30] from the dreadsong dancer must attempt a DC 29 Will check save.\n* * *\n\n**Critical Success** No effect, and the creature is temporarily immune for 24 hours. The dreadsong dancer is affected by their performance anxiety.\n\n**Success** The creature is [[Conditions/Frightened|Frightened 1]].\n\n**Failure** The creature is [[Conditions/Frightened|Frightened 2]], and the dreadsong dancer is [[Conditions/Undetected|Undetected]] by the creature for 1 minute. The creature can't use Seek to find the dreadsong dancer.\n\n**Critical Failure** As failure, but the creature can't reduce its frightened condition below 2 for 1 minute. In addition, the dreadsong dancer is affected by its performance anxiety."
 
   - name: "[[Bestiary Ability Glossary/Rend|Rend]]"
-    desc: "`pf2:1`  Songblade\n"
+    desc: "`pf2:1`  Songblade\n\n* * *\n"
  
+```
+
+```encounter-table
+name: Dreadsong Dancer
+creatures:
+  - 1: Dreadsong Dancer
 ```
 
 

@@ -5,6 +5,7 @@ noteType: pf2eHazard
 tags:
   - magical
   - trap
+  - pf2eHazard
 
 source: Pathfinder #162: Ruins of the Radiant Siege
 aliases: "Compendium.pf2e.agents-of-edgewatch-bestiary.Actor.kidMmEzwgoBcHdnR" 
@@ -22,8 +23,8 @@ name: "The Laughing Fiend's Greeting"
 level: "Hazard 20"
 
 
-trait_01: "magical"
-trait_02: "trap"
+trait_01: [[magical]]
+trait_02: [[trap]]
 modifier: 36
 sourcebook: "_Pathfinder #162: Ruins of the Radiant Siege_"
 perception:
@@ -42,10 +43,16 @@ attacks:
   - name: ""
 
   - name: "Tegresin's Greeting"
-    desc: "`pf2:r` **Trigger** A creature capable of casting divine magic examines the mural\n**Effect** The mural casts [[Spells/Weird|Weird]] (DC 43 Will check save) on all creatures in the gallery. A snarl fills the creatures' minds."
+    desc: "`pf2:r` **Trigger** A creature capable of casting divine magic examines the mural\n* * *\n\n**Effect** The mural casts [[Spells/Weird|Weird]] (DC 43 Will check save) on all creatures in the gallery. A snarl fills the creatures' minds."
 
 
   - name: "Reset"
     desc: "1 week"
+```
+
+```encounter-table
+name: The Laughing Fiend's Greeting
+creatures:
+  - 1: The Laughing Fiend's Greeting
 ```
 

@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/chaotic
   - pf2e/creature/type/human
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/12
 statblock: inline
 name: "Zorek"
@@ -22,12 +23,12 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Kingmaker"
 name: "Zorek"
 level: "Creature 12"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Medium"
-trait_01: "chaotic"
-trait_02: "human"
-trait_03: "humanoid"
+trait_01: [[chaotic]]
+trait_02: [[human]]
+trait_03: [[humanoid]]
 modifier: 25
 perception:
   - name: "Perception"
@@ -35,7 +36,7 @@ perception:
 languages: "Hallit"
 skills:
   - name: "Skills"
-    desc: "Athletics: +24, Gorum Lore: +20, Religion: +25, Survival: +23"
+    desc: "Athletics: +24, Religion: +25, Survival: +23, Gorum Lore: +20"
 abilityMods: [7, 4, 5, 0, 7, 4]
 speed: 25 feet
 sourcebook: "_Pathfinder Kingmaker_"
@@ -76,8 +77,14 @@ attacks:
     desc: "  Zorek does not age or breathe, and he doesn't need to eat, drink, or sleep."
 
   - name: "Divine Recovery"
-    desc: "`pf2:r`  **Frequency** once per day\n**Trigger** Zorek fails a saving throw\n**Effect** Zorek loses all negative conditions he is currently affected by and may attempt a new saving throw against the effect that triggered Divine Recovery. His armor and weapons glow with blood-red light when he uses this ability."
+    desc: "`pf2:r`  **Frequency** once per day\n\n**Trigger** Zorek fails a saving throw\n\n**Effect** Zorek loses all negative conditions he is currently affected by and may attempt a new saving throw against the effect that triggered Divine Recovery. His armor and weapons glow with blood-red light when he uses this ability."
  
+```
+
+```encounter-table
+name: Zorek
+creatures:
+  - 1: Zorek
 ```
 
 

@@ -12,7 +12,7 @@ license: OGL
 ---
 # Conduit Shot (Moderate)
 ## Item 10
-### [[consumable]][[magical]]
+### [[consumable]][[3-Rules/Rule References/Magical]]
 
 **Category** ammo; 
 **Price** 200 gp; 

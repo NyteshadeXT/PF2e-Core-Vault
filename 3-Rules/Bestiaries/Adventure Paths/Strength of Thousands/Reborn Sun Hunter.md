@@ -10,6 +10,7 @@ tags:
   - pf2e/creature/type/lawful
   - pf2e/creature/type/undead
   - pf2e/creature/type/unholy
+  - pf2eMonster
   - pf2e/creature/level/11
 statblock: inline
 name: "Reborn Sun Hunter"
@@ -24,14 +25,14 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #172: Secrets of the Temple-City"
 name: "Reborn Sun Hunter"
 level: "Creature 11"
-rare_03: "Rare"
+rare_03: [[Rare]]
 alignment: ""
 size: "Medium"
-trait_01: "evil"
-trait_02: "fire"
-trait_03: "lawful"
-trait_04: "undead"
-trait_05: "unholy"
+trait_01: [[evil]]
+trait_02: [[fire]]
+trait_03: [[lawful]]
+trait_04: [[undead]]
+trait_05: [[unholy]]
 modifier: 24
 perception:
   - name: "Perception"
@@ -59,10 +60,10 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Burning Sacrifice"
-    desc: " (divine,fire) When the sun hunter is destroyed, they explode in a blast of flame that deals 6d6 fire damage in a 10-foot emanation (DC 27 Reflex check save). Creatures that critically fail their saves are marked with Walkena's religious symbol on a visible area of their body, which remains for 1 day. This mark allows Walkena to treat the creature as if he knew the creature's identity but not having met them for the purposes of [[Spells/Scrying|Scrying]], lowering the spell's DC by 2. The sun hunter's gear and treasure are unaffected by the explosion and left in a pile where they die."
+    desc: " (divine,fire) When the sun hunter is destroyed, they explode in a blast of flame that deals 6d6 fire damage in a @Template[emanation|distance:10] (DC 27 Reflex check save). Creatures that critically fail their saves are marked with Walkena's religious symbol on a visible area of their body, which remains for 1 day. This mark allows Walkena to treat the creature as if he knew the creature's identity but not having met them for the purposes of [[Spells/Scrying|Scrying]], lowering the spell's DC by 2. The sun hunter's gear and treasure are unaffected by the explosion and left in a pile where they die."
 
   - name: "Nimble Dodge"
-    desc: "`pf2:r`  **Trigger** The sun hunter is targeted with a melee or ranged attack by an attacker they can see\n**Effect** The sun hunter gains a +2 circumstance bonus to AC against the triggering attack."
+    desc: "`pf2:r`  **Trigger** The sun hunter is targeted with a melee or ranged attack by an attacker they can see\n* * *\n\n**Effect** The sun hunter gains a +2 circumstance bonus to AC against the triggering attack."
 
 attacks:
   - name: ""
@@ -83,8 +84,14 @@ attacks:
     desc: "  The sun hunter's Strikes deal an additional 2d6 precision damage to [[Conditions/Off-Guard|Off-Guard]] creatures."
 
   - name: "Study Foe"
-    desc: "`pf2:1`  The sun hunter reads a creature they can see within 30 feet to notice openings. The sun hunter attempts a Perception check against that creature's Deception DC or Will DC, whichever is higher. The target is then temporarily immune for 1 minute.\n**Critical Success** The sun hunter reads the target like a book. The target is [[Conditions/Off-Guard|Off-Guard]] against the sun hunter's attacks until the end of the sun hunter's next turn.\n**Success** The sun hunter notices a brief opening. The target is off-guard against the sun hunter's attacks until the end of the sun hunter's turn.\n**Failure** The target is unaffected.\n**Critical Failure** The sun hunter's intense focus opens them up to other attacks. The target is unaffected, and the sun hunter is off-guard until the start of their next turn."
+    desc: "`pf2:1`  The sun hunter reads a creature they can see within 30 feet to notice openings. The sun hunter attempts a Perception check against that creature's Deception DC or Will DC, whichever is higher. The target is then temporarily immune for 1 minute.\n* * *\n\n**Critical Success** The sun hunter reads the target like a book. The target is [[Conditions/Off-Guard|Off-Guard]] against the sun hunter's attacks until the end of the sun hunter's next turn.\n\n**Success** The sun hunter notices a brief opening. The target is off-guard against the sun hunter's attacks until the end of the sun hunter's turn.\n\n**Failure** The target is unaffected.\n\n**Critical Failure** The sun hunter's intense focus opens them up to other attacks. The target is unaffected, and the sun hunter is off-guard until the start of their next turn."
  
+```
+
+```encounter-table
+name: Reborn Sun Hunter
+creatures:
+  - 1: Reborn Sun Hunter
 ```
 
 

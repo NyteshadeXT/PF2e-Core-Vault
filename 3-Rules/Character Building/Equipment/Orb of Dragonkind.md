@@ -42,7 +42,7 @@ Bearing an _orb of dragonkind_ earns you the enmity of all dragonkind forever be
 
 * * *
 
-**Effect** You breathe an elemental blast that deals 25d6 damage (DC 40 Reflex check save) in either a 60-foot cone or a 100-foot line (your choice). The breath's damage type matches the Breath Weapon of the dragon type associated with the _orb of dragonkind_ (acid for the black orb, electricity for the blue orb, and so on).
+**Effect** You breathe an elemental blast that deals 25d6 damage (DC 40 Reflex check save) in either a @Template\[cone|distance:60\] or a @Template\[line|distance:100\] (your choice). The breath's damage type matches the Breath Weapon of the dragon type associated with the _orb of dragonkind_ (acid for the black orb, electricity for the blue orb, and so on).
 
 **Destruction** An _orb of dragonkind_ violently shatters and explodes when exposed to the Breath Weapon of a dragon who is a descendant of the dragon trapped within. The explosion deals damage as the 2-action activation above to all creatures within 90 feet.
 

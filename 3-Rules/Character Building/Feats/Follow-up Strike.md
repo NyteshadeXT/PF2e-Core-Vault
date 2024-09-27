@@ -1,16 +1,17 @@
 ---
 obsidianUIMode: preview
-title: "Follow-up Strike"
+title: "Follow-Up Strike"
 cssclasses: pf2e,pf2e-spell
 tags:
   - trait/archetype
   - trait/flourish
   - trait/common
   - category/class
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.m0ot9Qydb9SYWHis"
-license: OGL
+license: ORC
 ---
-# Follow-up Strike `pf2:1`
+# Follow-Up Strike `pf2:1`
 ## Feat 6
 ### [[archetype]][[flourish]]
 
@@ -24,9 +25,7 @@ license: OGL
 
 * * *
 
-You have trained to use all parts of your body as a weapon, and when you miss with an attack, you can usually continue the attack with a different body part and still deal damage.
+You have trained rigorously to use all parts of your body as a weapon, and when you miss with an attack, you can usually continue the attack with a different body part and still deal damage. Make another Strike with a melee unarmed attack, using the same multiple attack penalty as the missed Strike, if any.
 
-Make another Strike with a melee unarmed attack, using the same multiple attack penalty as for the missed Strike, if any.
-
-*Source: Pathfinder Advanced Player's Guide*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

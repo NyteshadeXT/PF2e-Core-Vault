@@ -6,6 +6,7 @@ cssClasses: pf2e
 aliases: "Compendium.pf2e.pathfinder-bestiary-3.Actor.KG1Zu3EK0wrNdsQC" 
 tags:
   - pf2e/creature/type/kami
+  - pf2eMonster
   - pf2e/creature/level/2
 statblock: inline
 name: "Ittan-Momen"
@@ -24,7 +25,7 @@ level: "Creature 2"
 
 alignment: ""
 size: "Medium"
-trait_01: "kami"
+trait_01: [[kami]]
 modifier: 7
 perception:
   - name: "Perception"
@@ -60,14 +61,20 @@ attacks:
     desc: "`pf2:1` Body +10 (finesse)\n__Damage__  1d8 + 2 bludgeoning plus grab"
 
   - name: "[[Bestiary Ability Glossary/Constrict|Constrict]]"
-    desc: "`pf2:1`  1d8 bludgeoning, DC 18 Fortitude check\n"
+    desc: "`pf2:1`  1d8 bludgeoning, DC 18 Fortitude check\n\n* * *\n"
 
   - name: "[[Bestiary Ability Glossary/Engulf|Engulf]]"
-    desc: "`pf2:2`  DC 18 Reflex check, 1d8 + 2 bludgeoning damage, Escape DC 18, Rupture 5\nThe ittan-momen can Engulf only one creature. They can Engulf a creature of a larger size so long as the creature's head can feasibly be covered by the ittan-momen's body.\n"
+    desc: "`pf2:2`  DC 18 Reflex check, 1d8+2 bludgeoning damage, Escape DC 18, Rupture 5\n\nThe ittan-momen can Engulf only one creature. They can Engulf a creature of a larger size so long as the creature's head can feasibly be covered by the ittan-momen's body.\n\n* * *\n"
 
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
     desc: "`pf2:1`  "
  
+```
+
+```encounter-table
+name: Ittan-Momen
+creatures:
+  - 1: Ittan-Momen
 ```
 
 

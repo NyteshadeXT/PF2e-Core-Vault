@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.pathfinder-bestiary-2.Actor.GvjCh1Q6NEXnBHcD"
 tags:
   - pf2e/creature/type/beast
   - pf2e/creature/type/dragon
+  - pf2eMonster
   - pf2e/creature/level/9
 statblock: inline
 name: "Green Dracolisk"
@@ -22,15 +23,16 @@ token: [[modules/pf2e-tokens-bestiaries/portraits/bestial/mythological/dracolisk
 source: "Pathfinder Bestiary 2"
 name: "Green Dracolisk"
 level: "Creature 9"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Large"
-trait_01: "beast"
-trait_02: "dragon"
+trait_01: [[beast]]
+trait_02: [[dragon]]
 modifier: 18
 perception:
   - name: "Perception"
     desc: "+18; Darkvision, Tremorsense (Imprecise) 30 Feet"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Acrobatics: +17, Athletics: +21, Stealth: +17, Survival: +20"
@@ -52,10 +54,10 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Draconic Resistance"
-    desc: "  A dracolisk has resistance 10 to the type of damage it produces with its breath weapon."
+    desc: "  A green dracolisk has resistance 10 to poison damage."
 
   - name: "Petrifying Glance"
-    desc: "`pf2:r` (arcane,aura,visual) **Trigger** A creature within 30 feet that the dracolisk can see starts its turn\n**Effect** The target must attempt a DC 26 Fortitude check save. If it fails, it becomes [[Conditions/Slowed 1|Slowed 1]] for 1 minute as its body stiffens."
+    desc: "`pf2:r` (arcane,aura,visual) **Trigger** A creature within 30 feet that the dracolisk can see starts its turn\n* * *\n\n**Effect** The target must attempt a DC 26 Fortitude check save. If it fails, it becomes [[Conditions/Slowed|Slowed 1]] for 1 minute as its body stiffens."
 
 attacks:
   - name: ""
@@ -67,14 +69,20 @@ attacks:
     desc: "`pf2:1` Claw +21 (agile)\n__Damage__  2d10 + 8 slashing"
 
   - name: "Breath Weapon"
-    desc: "`pf2:2` (arcane) The dracolisk breathes a gout of energy based on its draconic heritage, as noted below. This breath weapon deals 6d10 poison damage, with a DC 28 Fortitude check save.\nThe dracolisk can't use Breath Weapon again for 1d4 rounds.\n**Black** 30-foot cone of poison"
+    desc: "`pf2:2` (arcane) The green dracolisk breathes a @Template[cone|distance:30] of energy. This breath weapon deals 6d10 poison damage, with a DC 28 Fortitude check save.\n\nThe dracolisk can't use Breath Weapon again for 1d4 rounds."
 
   - name: "Petrifying Gaze"
-    desc: "`pf2:2` (arcane,concentrate,incapacitation,visual) The dracolisk stares at a creature it can see within 30 feet. That creature must attempt a DC 28 Fortitude check save. If it fails and has not already been slowed by Petrifying Glance or this ability, it becomes [[Conditions/Slowed 1|Slowed 1]]. If the creature already was slowed by this ability or Petrifying Glance, a failed save causes the creature to be [[Conditions/Petrified|Petrified]] permanently.\nA creature petrified in this manner can be instantly restored to flesh by being coated (not just splashed) with fresh dracolisk or basilisk blood no more than 1 hour old. A single dracolisk contains enough blood to coat 1d4 + 2 Medium creatures in this manner."
+    desc: "`pf2:2` (arcane,concentrate,incapacitation,visual) The dracolisk stares at a creature it can see within 30 feet. That creature must attempt a DC 28 Fortitude check save. If it fails and has not already been slowed by Petrifying Glance or this ability, it becomes [[Conditions/Slowed|Slowed 1]]. If the creature already was slowed by this ability or Petrifying Glance, a failed save causes the creature to be [[Conditions/Petrified|Petrified]] permanently.\n\nA creature petrified in this manner can be instantly restored to flesh by being coated (not just splashed) with fresh dracolisk or basilisk blood no more than 1 hour old. A single dracolisk contains enough blood to coat 1d4+2 Medium creatures in this manner."
 
   - name: "Savage Jaws"
-    desc: "`pf2:2`  The dracolisk makes a single Strike with its jaws. If the attack hits, it deals 4d12 + 16 piercing damage (versatile S). This counts as two attacks for its multiple attack penalty."
+    desc: "`pf2:2`  The dracolisk makes a single Strike with its jaws. If the attack hits, it deals 4d12+16 piercing damage (versatile S). This counts as two attacks for its multiple attack penalty."
  
+```
+
+```encounter-table
+name: Green Dracolisk
+creatures:
+  - 1: Green Dracolisk
 ```
 
 

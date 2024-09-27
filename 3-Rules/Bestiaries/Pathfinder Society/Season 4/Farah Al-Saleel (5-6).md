@@ -10,6 +10,7 @@ tags:
   - pf2e/creature/type/fire
   - pf2e/creature/type/genie
   - pf2e/creature/type/lawful
+  - pf2eMonster
   - pf2e/creature/level/7
 statblock: inline
 name: "Farah Al-Saleel (5-6)"
@@ -24,14 +25,14 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Society Scenario #4-14: Shattering Golden Chains"
 name: "Farah Al-Saleel (5-6)"
 level: "Creature 7"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Large"
-trait_01: "elemental"
-trait_02: "evil"
-trait_03: "fire"
-trait_04: "genie"
-trait_05: "lawful"
+trait_01: [[elemental]]
+trait_02: [[evil]]
+trait_03: [[fire]]
+trait_04: [[genie]]
+trait_05: [[lawful]]
 modifier: 18
 perception:
   - name: "Perception"
@@ -80,11 +81,17 @@ attacks:
     desc: " (fire) When Farah grabs a creature, that creature takes 1d6 fire damage, and takes 1d6 fire damage at the end of each of its turns as long as it remains [[Conditions/Grabbed|Grabbed]]."
 
   - name: "Change Size"
-    desc: "`pf2:2` (arcane,concentrate,polymorph) **Frequency** once per day\n**Effect** Farah changes a creature's size. This works as a 2nd-rank [[Spells/Enlarge|Enlarge]] or [[Spells/Shrink|Shrink]] spell but can target an unwilling creature (DC 25 Fortitude check save negates)."
+    desc: "`pf2:2` (arcane,concentrate,polymorph) **Frequency** once per day\n* * *\n\n**Effect** Farah changes a creature's size. This works as a 2nd-rank [[Spells/Enlarge|Enlarge]] or [[Spells/Shrink|Shrink]] spell but can target an unwilling creature (DC 25 Fortitude check save negates)."
 
   - name: "Combat Grab"
-    desc: "`pf2:1`  **Requirements** Farah has one hand free\n**Effect** Farah makes a melee Strike while keeping one hand free. If the Strike hits, the target is [[Conditions/Grabbed|Grabbed]] in Farah's free hand."
+    desc: "`pf2:1`  **Requirements** Farah has one hand free\n* * *\n\n**Effect** Farah makes a melee Strike while keeping one hand free. If the Strike hits, the target is [[Conditions/Grabbed|Grabbed]] in Farah's free hand."
  
+```
+
+```encounter-table
+name: Farah Al-Saleel (5-6)
+creatures:
+  - 1: Farah Al-Saleel (5-6)
 ```
 
 

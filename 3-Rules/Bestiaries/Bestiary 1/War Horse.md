@@ -6,6 +6,7 @@ cssClasses: pf2e
 aliases: "Compendium.pf2e.pathfinder-bestiary.Actor.Jy2va0NTTbaUH1zP" 
 tags:
   - pf2e/creature/type/animal
+  - pf2eMonster
   - pf2e/creature/level/2
 statblock: inline
 name: "War Horse"
@@ -24,14 +25,15 @@ level: "Creature 2"
 
 alignment: ""
 size: "Large"
-trait_01: "animal"
+trait_01: [[animal]]
 modifier: 6
 perception:
   - name: "Perception"
     desc: "+6; Low-Light Vision, Scent (Imprecise) 30 Feet"
+languages: ""
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +7, Acrobatics: +7, Athletics: +11"
+    desc: "Acrobatics: +7, Athletics: +11"
 abilityMods: [5, 3, 4, -4, 2, -2]
 speed: 40 feet
 sourcebook: "_Pathfinder Bestiary_"
@@ -61,6 +63,12 @@ attacks:
   - name: "Gallop"
     desc: "`pf2:2`  The war horse Strides twice. It has a +10-foot circumstance bonus to its Speed during these Strides."
  
+```
+
+```encounter-table
+name: War Horse
+creatures:
+  - 1: War Horse
 ```
 
 

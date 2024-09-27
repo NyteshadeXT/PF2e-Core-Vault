@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by failing the save against [[Spells/Litany of Self-Interest|Litany of Self-Interest]]
+Granted by failing the save against _litany of Self-Interest_
 
 *Source: Pathfinder Advanced Player's Guide*
 *OGL*

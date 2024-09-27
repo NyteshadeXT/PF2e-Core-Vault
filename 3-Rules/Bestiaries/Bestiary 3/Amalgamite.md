@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.pathfinder-bestiary-3.Actor.xIT2yHlwILLc5hgw"
 tags:
   - pf2e/creature/type/aberration
   - pf2e/creature/type/evil
+  - pf2eMonster
   - pf2e/creature/level/13
 statblock: inline
 name: "Amalgamite"
@@ -22,11 +23,11 @@ token: [[modules/pf2e-tokens-bestiaries/portraits/aberrant/humanoid/amalgamite.w
 source: "Pathfinder Bestiary 3"
 name: "Amalgamite"
 level: "Creature 13"
-rare_03: "Rare"
+rare_03: [[Rare]]
 alignment: ""
 size: "Medium"
-trait_01: "aberration"
-trait_02: "evil"
+trait_01: [[aberration]]
+trait_02: [[evil]]
 modifier: 23
 perception:
   - name: "Perception"
@@ -34,7 +35,7 @@ perception:
 languages: "Aklo, Common, Draconic"
 skills:
   - name: "Skills"
-    desc: "Arcana: +27, Athletics: +22, Lore (Any One Subcategory): +27, Occultism: +27"
+    desc: "Arcana: +27, Athletics: +22, Occultism: +27, Lore (Any One Subcategory): +27"
 abilityMods: [5, 6, 4, 8, 6, -1]
 speed: 25 feet
 sourcebook: "_Pathfinder Bestiary 3_"
@@ -53,10 +54,10 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Destabilizing Field"
-    desc: " (aura) 40 feet. A creature that begins its turn within the area feels its body begin to stretch and must succeed at a DC 33 Fortitude check save or become destabilized.\nA destabilized creature emits a 10-foot destabilizing field aura and becomes [[Conditions/Sickened 1|Sickened 1]]. The destabilization ends when the creature is no longer sickened.\nA creature that succeeds at its saving throw against the aura is temporarily immune to all destabilizing fields for 1 minute."
+    desc: " (aura) 40 feet. A creature that begins its turn within the area feels its body begin to stretch and must succeed at a DC 33 Fortitude check save or become destabilized.\n\nA destabilized creature emits a 10-foot destabilizing field aura and becomes [[Conditions/Sickened|Sickened 1]]. The destabilization ends when the creature is no longer sickened.\n\nA creature that succeeds at its saving throw against the aura is temporarily immune to all destabilizing fields for 1 minute."
 
   - name: "Displace"
-    desc: "`pf2:r`  **Trigger** The amalgamite is hit by a Strike.\n**Effect** The amalgamite Repositions itself or Transposes itself with another creature. If the amalgamite successfully changes its location, it and any Transposed creature take half damage from the triggering Strike."
+    desc: "`pf2:r`  **Trigger** The amalgamite is hit by a Strike.\n* * *\n\n**Effect** The amalgamite Repositions itself or Transposes itself with another creature. If the amalgamite successfully changes its location, it and any Transposed creature take half damage from the triggering Strike."
 
 attacks:
   - name: ""
@@ -74,8 +75,14 @@ attacks:
     desc: "`pf2:2` (concentrate,occult,teleportation) The amalgamite teleports into an unoccupied space it can see within 50 feet."
 
   - name: "Transpose"
-    desc: "`pf2:2` (occult,teleportation) The amalgamite chooses up to two destabilized creatures they can see within 50 feet and swaps their positions, or moves a single such creature to an unoccupied space they can see within range. If the amalgamite chooses two creatures, they can choose their self as one of these creatures, but both targets must be the same size.\nAn unwilling creature can attempt a DC 33 Will check save. If either target succeeds at this saving throw, both are unaffected."
+    desc: "`pf2:2` (occult,teleportation) The amalgamite chooses up to two destabilized creatures they can see within 50 feet and swaps their positions, or moves a single such creature to an unoccupied space they can see within range. If the amalgamite chooses two creatures, they can choose their self as one of these creatures, but both targets must be the same size.\n\nAn unwilling creature can attempt a DC 33 Will check save. If either target succeeds at this saving throw, both are unaffected."
  
+```
+
+```encounter-table
+name: Amalgamite
+creatures:
+  - 1: Amalgamite
 ```
 
 

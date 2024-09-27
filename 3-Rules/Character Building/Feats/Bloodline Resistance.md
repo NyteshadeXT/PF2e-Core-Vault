@@ -6,8 +6,9 @@ tags:
   - trait/sorcerer
   - trait/common
   - category/class
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.zf6Poru1jNmrO3kk"
-license: OGL
+license: ORC
 ---
 # Bloodline Resistance
 ## Feat 8
@@ -20,5 +21,5 @@ license: OGL
 
 Your magical blood makes you more resistant to magic. You gain a +1 status bonus to saving throws against spells and magical effects.
 
-*Source: Pathfinder Core Rulebook*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

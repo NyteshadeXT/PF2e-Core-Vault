@@ -8,8 +8,9 @@ tags:
   - trait/skill
   - trait/common
   - category/skill
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.f5JOSyW1tKMpz6hU"
-license: OGL
+license: ORC
 ---
 # Influence Nature
 ## Feat 7
@@ -27,5 +28,5 @@ The GM determines the DC of any check required and the amount of time your work 
 
 If you're legendary in Nature, you can elicit these same adjustments to animal behavior in the area by spending only 10 minutes.
 
-*Source: Pathfinder Advanced Player's Guide*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

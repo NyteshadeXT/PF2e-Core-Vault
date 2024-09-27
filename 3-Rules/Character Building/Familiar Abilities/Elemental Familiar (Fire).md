@@ -21,7 +21,7 @@ license: OGL
 
 Your familiar gains the fire elemental trait.
 
-Your familiar sheds bright light in a 20-foot radius (and dim light for the next 20 feet) and emits warmth. Creatures who remain within a 15-foot emanation don't take damage from severe environmental cold.
+Your familiar sheds bright light in a 20-foot radius (and dim light for the next 20 feet) and emits warmth. Creatures who remain within a @Template\[emanation|distance:15\] don't take damage from severe environmental cold.
 
 *Source: Pathfinder Rage of Elements*
 *OGL*

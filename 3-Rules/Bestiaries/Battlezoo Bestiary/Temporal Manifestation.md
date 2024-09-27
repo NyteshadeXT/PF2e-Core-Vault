@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/aberration
   - pf2e/creature/type/evil
   - pf2e/creature/type/time
+  - pf2eMonster
   - pf2e/creature/level/5
 statblock: inline
 name: "Temporal Manifestation"
@@ -23,12 +24,12 @@ token: [[modules/battlezoo-bestiary-pf2e/art/temporal_manifestation.webp| ]]
 source: "Battlezoo Bestiary"
 name: "Temporal Manifestation"
 level: "Creature 5"
-rare_03: "Rare"
+rare_03: [[Rare]]
 alignment: ""
 size: "Medium"
-trait_01: "aberration"
-trait_02: "evil"
-trait_03: "time"
+trait_01: [[aberration]]
+trait_02: [[evil]]
+trait_03: [[time]]
 modifier: 14
 perception:
   - name: "Perception"
@@ -36,7 +37,7 @@ perception:
 languages: "Aklo"
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +13, Athletics: +12, Occultism: +10, Stealth: +13, "
+    desc: "Acrobatics: +13, Athletics: +12, Occultism: +10, Stealth: +13"
 abilityMods: [3, 4, 2, 1, 5, 0]
 speed: 40 feet
 sourcebook: "_Battlezoo Bestiary_"
@@ -58,10 +59,10 @@ abilities_mid:
     desc: "  The temporal manifestation bends the laws of space and time to repair itself. Force damage heals a temporal manifestation rather than dealing damage."
 
   - name: "Singularity"
-    desc: " (force,occult) When the temporal manifestation is destroyed, it implodes into a singularity before disgorging any swallowed creatures and disappearing from existence. Nearby creatures are sucked toward the being and feel as though they are being ripped apart. Creatures within 15 feet of the temporal manifestation take 3d6 force damage and must attempt a Fortitude save.\n**Critical Success** The creature is unaffected.\n**Success** The creature takes half damage.\n**Failure** The creature takes full damage and is Sickened 1.\n**Critical Failure** The creature takes double damage, is sickened 1, and is pulled to an empty space adjacent to the temporal manifestation."
+    desc: " (force,occult) When the temporal manifestation is destroyed, it implodes into a singularity before disgorging any swallowed creatures and disappearing from existence. Nearby creatures are sucked toward the being and feel as though they are being ripped apart. Creatures within 15 feet of the temporal manifestation take 3d6 force damage and must attempt a DC 19 Fortitude save.\n* * *\n\n**Critical Success** The creature is unaffected.\n\n**Success** The creature takes half damage.\n\n**Failure** The creature takes full damage and is [[Conditions/Sickened|Sickened 1]].\n\n**Critical Failure** The creature takes double damage, is sickened 1, and is pulled to an empty space adjacent to the temporal manifestation."
 
   - name: "Slow Aura"
-    desc: " (aura,time) Aura 30 feet.\nCreatures that start their turn in the aura must attempt a Will save. On a failure, the creature is Slowed 1; on a critical failure, the creature is also Sickened 1. A creature that succeeds its save is immune to slow aura for 24 hours."
+    desc: " (aura,time) [[Bestiary Ability Glossary/Aura|Aura]] 30 feet.\n* * *\n\nCreatures that start their turn in the aura must attempt a DC 19 Will save. On a failure, the creature is [[Conditions/Slowed|Slowed 1]]; on a critical failure, the creature is also [[Conditions/Sickened|Sickened 1]]. A creature that succeeds its save is immune to slow aura for 24 hours."
 
 attacks:
   - name: ""
@@ -76,14 +77,20 @@ attacks:
     desc: "DC 20, attack +12; __3rd __ (2 slots) _[[Spells/Haste|Haste]]_, _[[Spells/Slow|Slow]]_"
 
   - name: "Time Step"
-    desc: "`pf2:1` (occult,teleportation) **Frequency** once per round;\n**Effect** The temporal manifestation opens a rift in space-time, disappearing from its current space and reappearing in a free space within 30 feet. This movement does not trigger reactions."
+    desc: "`pf2:1` (occult,teleportation) **Frequency** once per round;\n\n**Effect** The temporal manifestation opens a rift in space-time, disappearing from its current space and reappearing in a free space within 30 feet. This movement does not trigger reactions."
 
   - name: "[[Bestiary Ability Glossary/Swallow Whole|Swallow Whole]]"
-    desc: "`pf2:1` (attack) Medium, 3d6 + 3 force damage, Rupture 10. Creatures swallowed by a temporal manifestation are subsumed into a unique temporal pocket. This temporal pocket has no dimensions, so the temporal manifestation can fit any number of Medium or smaller creatures within itself.\nTime does not function normally within the temporal pocket. Each round at the beginning of its turn, a swallowed creature must succeed at a Fortitude save; on a failure, the creature is Slowed 2 that round instead of Slowed 1. Creatures who suffocate within the temporal pocket do not die, but rather remain Unconscious in a kind of stasis, never aging, until the temporal manifestation is destroyed or another trapped creature ruptures the temporal manifestation. Once the temporal manifestation ruptures, all creatures in the pocket dimension fall out; unconscious creatures regain consciousness but are Sickened 1 from the sudden shift in the laws of time.\n"
+    desc: "`pf2:1` (attack) Medium, 3d6 + 3 force damage, Rupture 10. Creatures swallowed by a temporal manifestation are subsumed into a unique temporal pocket. This temporal pocket has no dimensions, so the temporal manifestation can fit any number of Medium or smaller creatures within itself.\n\nTime does not function normally within the temporal pocket. Each round at the beginning of its turn, a swallowed creature must succeed at a DC 19 Fortitude save; on a failure, the creature is [[Conditions/Slowed|Slowed 2]] that round instead of [[Conditions/Slowed|Slowed 1]]. Creatures who suffocate within the temporal pocket do not die, but rather remain [[Conditions/Unconscious|Unconscious]] in a kind of stasis, never aging, until the temporal manifestation is destroyed or another trapped creature ruptures the temporal manifestation. Once the temporal manifestation ruptures, all creatures in the pocket dimension fall out; unconscious creatures regain consciousness but are [[Conditions/Sickened|Sickened 1]] from the sudden shift in the laws of time.\n\n* * *\n"
 
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
     desc: "`pf2:1`  "
  
+```
+
+```encounter-table
+name: Temporal Manifestation
+creatures:
+  - 1: Temporal Manifestation
 ```
 
 

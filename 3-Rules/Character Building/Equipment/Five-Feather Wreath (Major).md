@@ -12,7 +12,7 @@ license: OGL
 ---
 # Five-Feather Wreath (Major)
 ## Item 12
-### [[3-Rules/Rule References/Air]][[magical]][[spellheart]]
+### [[3-Rules/Rule References/Air]][[3-Rules/Rule References/Magical]][[spellheart]]
 
 
 **Price** 1750 gp; 

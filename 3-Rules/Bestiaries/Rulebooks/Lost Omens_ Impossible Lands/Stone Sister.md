@@ -6,6 +6,7 @@ cssClasses: pf2e
 aliases: "Compendium.pf2e.lost-omens-impossible-lands-bestiary.Actor.1SIx3wcRvplbfwk3" 
 tags:
   - pf2e/creature/type/undead
+  - pf2eMonster
   - pf2e/creature/level/6
 statblock: inline
 name: "Stone Sister"
@@ -20,15 +21,15 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Lost Omens: Impossible Lands"
 name: "Stone Sister"
 level: "Creature 6"
-rare_03: "Rare"
+rare_03: [[Rare]]
 alignment: ""
 size: "Medium"
-trait_01: "undead"
+trait_01: [[undead]]
 modifier: 11
 perception:
   - name: "Perception"
     desc: "+11; Darkvision"
-languages: "Drooni, Empyrean"
+languages: "Drooni, Empyrean; (can&#x27;t speak)"
 skills:
   - name: "Skills"
     desc: "Athletics: +17, Deception: +14, Intimidation: +14, Stealth: +12"
@@ -57,7 +58,7 @@ abilities_mid:
     desc: "  Until Geb's curse is broken, any stone sister who's destroyed gradually reforms in her original shape. A stone sister who's reduced to 0 Hit Points will reform after 24 hours, while one reduced to rubble or dust might take a year or more to reform. Stone sisters who are removed from the Field of Maidens always attempt to return to it when they reconstitute."
 
   - name: "Stone Flesh"
-    desc: "  A stone sister is made of a bizarre stone that never stops bleeding from numerous cracks along her skin. She reacts to certain spells in unique ways, as listed below.\n*   Spells that alter earth, such as shape stone, either deal 3d10 points of damage or heal 3d10 Hit Points, as decided by the caster. If the spell is specifically harmful or beneficial to earth and stone, the GM might decide it can only harm the stone sister, or only heal her.\n*   Stone to flesh doesn't revert a stone sister to flesh and blood but instead weakens her. She loses her resistance to physical damage for 1 minute. If she's reduced to 0 Hit Points during this time, she's permanently destroyed and can't reform."
+    desc: "  A stone sister is made of a bizarre stone that never stops bleeding from numerous cracks along her skin. She reacts to certain spells in unique ways, as listed below.\n\n*   Spells that alter earth, such as shape stone, either deal 3d10 points of damage or heal 3d10 Hit Points, as decided by the caster. If the spell is specifically harmful or beneficial to earth and stone, the GM might decide it can only harm the stone sister, or only heal her.\n*   Stone to flesh doesn't revert a stone sister to flesh and blood but instead weakens her. She loses her resistance to physical damage for 1 minute. If she's reduced to 0 Hit Points during this time, she's permanently destroyed and can't reform."
 
 attacks:
   - name: ""
@@ -69,11 +70,17 @@ attacks:
     desc: "`pf2:1` Fist +17 (agile, earth)\n__Damage__  2d6 + 8 bludgeoning plus curse-of-stone"
 
   - name: "Curse of Stone"
-    desc: " (curse) The creature must succeed at a DC 21 Fortitude check save or become [[Conditions/Clumsy 1|Clumsy 2]] ([[Conditions/Clumsy 1|Clumsy 3]] on a critical failure) and gain a +1 status bonus to AC as their skin hardens to stone. The clumsy condition can be temporarily relieved for 24 hours by casting stone to flesh on the cursed creature but can't be removed or reduced by any other means short of removing the curse; during this time, the cursed creature also no longer receives the status bonus to AC.\n[[Bestiary Effects/Effect_ Curse of Stone|Effect: Curse of Stone]]"
+    desc: " (curse) The creature must succeed at a DC 21 Fortitude check save or become [[Conditions/Clumsy|Clumsy 2]] ([[Conditions/Clumsy|Clumsy 3]] on a critical failure) and gain a +1 status bonus to AC as their skin hardens to stone. The clumsy condition can be temporarily relieved for 24 hours by casting stone to flesh on the cursed creature but can't be removed or reduced by any other means short of removing the curse; during this time, the cursed creature also no longer receives the status bonus to AC.\n\n[[Bestiary Effects/Effect_ Curse of Stone|Effect: Curse of Stone]]"
 
   - name: "Statue"
     desc: "`pf2:1` (concentrate) Until the next time she acts, the stone sister appears to be a statue. She has an automatic result of 34 on Deception checks and DCs to pass as a statue. Since the Field of Maidens is filled with thousands of statues just like her, most of which aren't stone sisters, it's incredibly difficult to recognize her true nature."
  
+```
+
+```encounter-table
+name: Stone Sister
+creatures:
+  - 1: Stone Sister
 ```
 
 

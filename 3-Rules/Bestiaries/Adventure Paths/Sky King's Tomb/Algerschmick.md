@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.sky-kings-tomb-bestiary.Actor.F3l4OxG2u3z7G41E"
 tags:
   - pf2e/creature/type/chaotic
   - pf2e/creature/type/fey
+  - pf2eMonster
   - pf2e/creature/level/3
 statblock: inline
 name: "Algerschmick"
@@ -21,11 +22,11 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #193: Mantle of Gold"
 name: "Algerschmick"
 level: "Creature 3"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Small"
-trait_01: "chaotic"
-trait_02: "fey"
+trait_01: [[chaotic]]
+trait_02: [[fey]]
 modifier: 12
 perception:
   - name: "Perception"
@@ -33,7 +34,7 @@ perception:
 languages: "Common, Fey"
 skills:
   - name: "Skills"
-    desc: "Crafting: +8, Household Lore: +11, Nature: +9, Stealth: +9"
+    desc: "Crafting: +8, Nature: +9, Stealth: +9, Household Lore: +11"
 abilityMods: [3, 2, 1, -1, 0, 1]
 speed: 30 feet
 sourcebook: "_Pathfinder #193: Mantle of Gold_"
@@ -50,7 +51,7 @@ abilities_top:
   - name: ""
 
   - name: "Master of the Yard"
-    desc: "  The dvorovoi helps or causes trouble in the yard, milking or scaring cows, protecting or scattering tools, and so forth. By commanding their home to attack, the dvorovoi can [[Actions/Grapple|Grapple]], [[Actions/Shove|Shove]], [[Actions/Trip|Trip]], and [[Actions/Disarm|Disarm]] with their enraged home Strike.\nThe dvorovoi uses their Household Lore instead of Athletics skill for these checks."
+    desc: "  The dvorovoi helps or causes trouble in the yard, milking or scaring cows, protecting or scattering tools, and so forth. By commanding their home to attack, the dvorovoi can [[Actions/Grapple|Grapple]], [[Actions/Shove|Shove]], [[Actions/Trip|Trip]], and [[Actions/Disarm|Disarm]] with their enraged home Strike.\n\nThe dvorovoi uses their Household Lore instead of Athletics skill for these checks."
 
 abilities_mid:
   - name: ""
@@ -67,8 +68,14 @@ attacks:
     desc: "DC 18, attack +10; __2nd __  _[[Spells/Entangling Flora|Entangle]]_, _[[Spells/Speak with Animals|Speak with Animals (At Will)]]_; __1st __  _[[Spells/Charm|Charm (Animals Only)]]_, _[[Spells/Command|Command (Animals Only)]]_, _[[Spells/Mending|Mending]]_\n__Cantrips__  __(2nd)__ _[[Spells/Telekinetic Hand|Mage Hand]]_, _[[Spells/Prestidigitation|Prestidigitation]]_"
 
   - name: "Rile Augdunars"
-    desc: "`pf2:1` (auditory,emotion,fear) `pf2:1` or `pf2:2`\n**Frequency** once per round\n**Effect** Algerschmick goads the animals and incites their anger. She attempts a DC 11 Flat check (DC 6 Flat check if she used two actions). If she succeeds, she negates one successful check the PCs have made to disable the hazard. This action makes enough noise that attempts to [[Actions/Seek|Seek]] Algerschmick can detect her, even if she isn't in the area that a PC is searching."
+    desc: "`pf2:1` (auditory,emotion,fear) `pf2:1` or `pf2:2`\n* * *\n\n**Frequency** once per round\n* * *\n\n**Effect** Algerschmick goads the animals and incites their anger. She attempts a DC 11 Flat check (DC 6 Flat check if she used two actions). If she succeeds, she negates one successful check the PCs have made to disable the hazard. This action makes enough noise that attempts to [[Actions/Seek|Seek]] Algerschmick can detect her, even if she isn't in the area that a PC is searching."
  
+```
+
+```encounter-table
+name: Algerschmick
+creatures:
+  - 1: Algerschmick
 ```
 
 

@@ -15,7 +15,7 @@ license: ORC
 ---
 # Energy Breath Potion (Sonic, Moderate)
 ## Item 12
-### [[consumable]][[magical]][[potion]][[Sonic]]
+### [[consumable]][[3-Rules/Rule References/Magical]][[potion]][[3-Rules/trait_reference/sonic]]
 
 **Category** potion; 
 **Price** 400 gp; 
@@ -28,7 +28,7 @@ license: ORC
 
 Distilled from the energy of dangerous spells, an energy breath potion grants you the Energy Breath action for 1 hour after you imbibe the concoction.
 
-**Energy Breath `pf2:1`** You create a 15-foot cone of sound which deals 6d6 sonic damage. All creatures in the area must attempt a DC 29 Fortitude check save.
+**Energy Breath** `pf2:1` You create a @Template\[cone|distance:15\] of sound which deals 6d6 sonic damage. All creatures in the area must attempt a DC 29 Fortitude check save.
 
 After you use Energy Breath, you can't do so again for 1d4 rounds.
 

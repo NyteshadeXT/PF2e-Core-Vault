@@ -20,7 +20,7 @@ license: OGL
 
 
 
-You release a terrible wail that tears at the spirits of all nearby. All living creatures in a 20-foot emanation take -1d6 void damage with a Fortitude check save. The damage is 4d6, plus 1d6 for every level you have beyond 6th.
+You release a terrible wail that tears at the spirits of all nearby. All living creatures in a @Template\[emanation|distance:20\] take -1d6 void damage with a Fortitude check save. The damage is 4d6, plus 1d6 for every level you have beyond 6th.
 
 * * *
 
@@ -28,7 +28,7 @@ You release a terrible wail that tears at the spirits of all nearby. All living 
 
 * * *
 
-**Awakening** Your wail saps your foes' strength. In addition to the normal effects, living creatures in the area are [[Conditions/Enfeebled 1|Enfeebled 1]] for 1 round on a success (but not a critical success), enfeebled 1 for 1 minute on a failure, and [[Conditions/Enfeebled 1|Enfeebled 2]] for 1 minute on a critical failure.
+**Awakening** Your wail saps your foes' strength. In addition to the normal effects, living creatures in the area are [[Conditions/Enfeebled|Enfeebled 1]] for 1 round on a success (but not a critical success), enfeebled 1 for 1 minute on a failure, and [[Conditions/Enfeebled|Enfeebled 2]] for 1 minute on a critical failure.
 
 *Source: Pathfinder Dark Archive*
 *OGL*

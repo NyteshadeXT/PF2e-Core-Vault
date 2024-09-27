@@ -4,6 +4,7 @@ obsidianUIMode: preview
 noteType: pf2eHazard
 tags:
   - haunt
+  - pf2eHazard
 
 source: Pathfinder Society Scenario #1-01: The Absalom Initiation
 aliases: "Compendium.pf2e.pfs-season-1-bestiary.Actor.OTTvIkBvJ2ABYwEd" 
@@ -21,7 +22,7 @@ name: "Whispering Souls"
 level: "Hazard 4"
 
 
-trait_01: "haunt"
+trait_01: [[haunt]]
 modifier: 13
 sourcebook: "_Pathfinder Society Scenario #1-01: The Absalom Initiation_"
 perception:
@@ -40,10 +41,16 @@ attacks:
   - name: ""
 
   - name: "Luring Whispers"
-    desc: "`pf2:r` (auditory, divine, emotion, mental) **Trigger** Multiple creatures remain in area **C4** for more than 6 seconds.\n**Effect** The whispers become more insistent until each character in the room must attempt a DC 21 Will check save.\nOn a failure, a creature is [[Conditions/Confused|Confused]] for 1 round (or for 1d4+2 rounds on a critical failure). Both the audible whispers and the babbling of the confused are related to the haunting's origin.\n  \n| Owners | Whispers and Babbles |\n| --- | --- |\n| Archdevil worshippers | Desperate praise of Mephistopheles |\n| Soulbound dollmakers | Pleading \"don't make me go in the doll again\" |\n| Alchemical experimenters | Frantic claims of not wanting to live forever anymore |\n| Slavers | Begging to be allowed to be released in multiple languages |\n| Crime lords | Promising not to mess with the family again |\n| Misguided Pharasmins | Sighing desires to be put to rest |"
+    desc: "`pf2:r` (auditory, divine, emotion, mental) **Trigger** Multiple creatures remain in area **C4** for more than 6 seconds.\n* * *\n\n**Effect** The whispers become more insistent until each character in the room must attempt a DC 21 Will check save.\n\nOn a failure, a creature is [[Conditions/Confused|Confused]] for 1 round (or for 1d4+2 rounds on a critical failure). Both the audible whispers and the babbling of the confused are related to the haunting's origin.\n\n  \n\n| Owners | Whispers and Babbles |\n| --- | --- |\n| Archdevil worshippers | Desperate praise of Mephistopheles |\n| Soulbound dollmakers | Pleading \"don't make me go in the doll again\" |\n| Alchemical experimenters | Frantic claims of not wanting to live forever anymore |\n| Slavers | Begging to be allowed to be released in multiple languages |\n| Crime lords | Promising not to mess with the family again |\n| Misguided Pharasmins | Sighing desires to be put to rest |"
 
 
   - name: "Reset"
     desc: "The underlying spirits remain, resetting the haunt every midnight, until what truly happened here becomes public."
+```
+
+```encounter-table
+name: Whispering Souls
+creatures:
+  - 1: Whispering Souls
 ```
 

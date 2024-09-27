@@ -10,6 +10,7 @@ tags:
   - pf2e/creature/type/good
   - pf2e/creature/type/holy
   - pf2e/creature/type/lawful
+  - pf2eMonster
   - pf2e/creature/level/7
 statblock: inline
 name: "Legion Archon"
@@ -28,16 +29,16 @@ level: "Creature 7"
 
 alignment: ""
 size: "Medium"
-trait_01: "archon"
-trait_02: "celestial"
-trait_03: "good"
-trait_04: "holy"
-trait_05: "lawful"
+trait_01: [[archon]]
+trait_02: [[celestial]]
+trait_03: [[good]]
+trait_04: [[holy]]
+trait_05: [[lawful]]
 modifier: 15
 perception:
   - name: "Perception"
     desc: "+15; Darkvision"
-languages: "Diabolic, Draconic, Empyrean"
+languages: "Diabolic, Draconic, Empyrean; tongues"
 skills:
   - name: "Skills"
     desc: "Acrobatics: +13, Athletics: +14, Diplomacy: +16, Intimidation: +16, Religion: +14, Survival: +14"
@@ -60,10 +61,10 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Menacing Guardian"
-    desc: " (aura,divine) 30 feet. Enemies that start their turn in the area or enter it must attempt a DC 23 Will check save.\nOn a failure, they take a -1 status penalty to attack rolls, spell rolls, and damage rolls against any other target while in the aura for 24 hours or until they damage the archon, whichever comes first. On a critical failure, they can't use hostile actions against any other target while in the area for 24 hours or until they damage the archon, whichever comes first.\nRegardless of the result, a creature is then temporarily immune to further menacing guardian auras for 24 hours."
+    desc: " (aura,divine) 30 feet. Enemies that start their turn in the area or enter it must attempt a DC 23 Will check save.\n\nOn a failure, they take a -1 status penalty to attack rolls, spell rolls, and damage rolls against any other target while in the aura for 24 hours or until they damage the archon, whichever comes first. On a critical failure, they can't use hostile actions against any other target while in the area for 24 hours or until they damage the archon, whichever comes first.\n\nRegardless of the result, a creature is then temporarily immune to further menacing guardian auras for 24 hours."
 
   - name: "Retributive Strike"
-    desc: "`pf2:r`  **Damage Reduction** 9\nA legion archon can also make a Retributive Strike by throwing its flame of justice.\n**Trigger** An enemy damages the monster's ally, and both are within 15 feet of the monster.\n**Effect** The ally gains resistance to all damage against the triggering damage equal to 2 + the monster's level. If the foe is within reach, the monster makes a melee Strike against it."
+    desc: "`pf2:r`  **Damage Reduction** 9\n\nA legion archon can also make a Retributive Strike by throwing its flame of justice.\n* * *\n\n**Trigger** An enemy damages the monster's ally, and both are within 15 feet of the monster.\n* * *\n\n**Effect** The ally gains resistance to all damage against the triggering damage equal to 2 + the monster's level. If the foe is within reach, the monster makes a melee Strike against it."
 
 attacks:
   - name: ""
@@ -78,11 +79,17 @@ attacks:
     desc: "DC 24, attack +16; __4th __  _[[Spells/Translocate|Dimension Door (At Will)]]_; __1st __  _[[Spells/Sure Strike|True Strike (x3)]]_\n__Cantrips__  __(4th)__ _[[Spells/Light|Light]]_, _[[Spells/Message|Message]]_\n__Constant__  __(5th)__ _[[Spells/Truespeech|Tongues]]_"
 
   - name: "Archon's Door"
-    desc: "  Once per day, if an archon sees another creature cast [[Spells/Translocate|Translocate]], it can cast an innate _dimension door_ (heightened to 5th level) within 1 round to attempt to follow that creature to the maximum distance of the archon's _dimension door_.\nIf the archon's _dimension door_ has enough distance, the archon appears the same distance and direction from the creature as before either used _dimension door_."
+    desc: "  Once per day, if an archon sees another creature cast [[Spells/Translocate|Translocate]], it can cast an innate _dimension door_ (heightened to 5th level) within 1 round to attempt to follow that creature to the maximum distance of the archon's _dimension door_.\n\nIf the archon's _dimension door_ has enough distance, the archon appears the same distance and direction from the creature as before either used _dimension door_."
 
   - name: "Flame of Justice"
-    desc: " (divine) A legion archon's spirit of righteousness manifests in its hands as a mighty two-handed sword called the flame of justice.\nA legion archon can throw its flame of justice as a ranged weapon. If disarmed or thrown, the flame of justice vanishes after landing or dealing damage and reappears in the legion archon's hands again instantly.\nOn a critical hit, the fire damage from the flame of justice deals maximum damage (6 on the d6) before being doubled for the critical hit, and the target takes 1d10 persistent fire damage."
+    desc: " (divine) A legion archon's spirit of righteousness manifests in its hands as a mighty two-handed sword called the flame of justice.\n\nA legion archon can throw its flame of justice as a ranged weapon. If disarmed or thrown, the flame of justice vanishes after landing or dealing damage and reappears in the legion archon's hands again instantly.\n\nOn a critical hit, the fire damage from the flame of justice deals maximum damage (6 on the d6) before being doubled for the critical hit, and the target takes 1d10 persistent fire damage."
  
+```
+
+```encounter-table
+name: Legion Archon
+creatures:
+  - 1: Legion Archon
 ```
 
 

@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/giant
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/2
 statblock: inline
 name: "Ogre"
@@ -26,10 +27,10 @@ level: "Creature 2"
 
 alignment: ""
 size: "Large"
-trait_01: "chaotic"
-trait_02: "evil"
-trait_03: "giant"
-trait_04: "humanoid"
+trait_01: [[chaotic]]
+trait_02: [[evil]]
+trait_03: [[giant]]
+trait_04: [[humanoid]]
 modifier: 5
 perception:
   - name: "Perception"
@@ -68,6 +69,12 @@ attacks:
   - name: "Ranged"
     desc: "`pf2:1` Refuse +5 (thrown 20 ft.)\n__Damage__  1d4 + 5 bludgeoning"
  
+```
+
+```encounter-table
+name: Ogre
+creatures:
+  - 1: Ogre
 ```
 
 

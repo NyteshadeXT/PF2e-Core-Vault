@@ -15,7 +15,7 @@ license: OGL
 ---
 # Blade of Fallen Stars
 ## Item 22
-### [uncommon](uncommon "Uncommon Rarity Trait")[[combination]][[concussive]][[kickback]][[magical]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[combination]][[concussive]][[kickback]][[3-Rules/Rule References/Magical]]
 
 |  |  |
 | -- | -- |
@@ -41,7 +41,7 @@ This _+4 major striking greater frost gun sword_ is made from high-grade cold si
 
 **Requirements** The blade of fallen stars was exposed to starlight for at least one hour since the last time this ability was used
 
-**Effect** The coating on the blade seeps into the engravings and is collected in the barrel. On your next ranged Strike, the weapon fires a glowing white projectile with a blazing blue tail that explodes on impact. In addition to the normal Strike damage, the projectile also deals 6d8 cold damage and creates a [[Spells/Faerie Fire|Faerie Fire]] effect in a 5-foot emanation centered on the target.
+**Effect** The coating on the blade seeps into the engravings and is collected in the barrel. On your next ranged Strike, the weapon fires a glowing white projectile with a blazing blue tail that explodes on impact. In addition to the normal Strike damage, the projectile also deals 6d8 cold damage and creates a [[Spells/Faerie Fire|Faerie Fire]] effect in a @Template\[emanation|distance:5\] centered on the target.
 
 * * *
 

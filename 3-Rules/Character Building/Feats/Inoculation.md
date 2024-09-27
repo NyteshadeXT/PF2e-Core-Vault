@@ -8,8 +8,9 @@ tags:
   - trait/skill
   - trait/common
   - category/skill
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.sMCpihnBEpx18GBD"
-license: OGL
+license: ORC
 ---
 # Inoculation
 ## Feat 1
@@ -25,5 +26,5 @@ You have practice combating plague, and your patients are less likely to succumb
 
 When you successfully [[Actions/Treat Disease|Treat a Disease]] on someone and they fully recover from the disease, they gain a +2 circumstance bonus to saving throws against that same disease for 1 week.
 
-*Source: Pathfinder Advanced Player's Guide*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

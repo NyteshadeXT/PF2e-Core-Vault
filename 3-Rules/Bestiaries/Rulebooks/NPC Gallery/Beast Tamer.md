@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.npc-gallery.Actor.PoIuzIWFnlAQ8pdH"
 tags:
   - pf2e/creature/type/human
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/4
 statblock: inline
 name: "Beast Tamer"
@@ -24,8 +25,8 @@ level: "Creature 4"
 
 alignment: ""
 size: "Medium"
-trait_01: "human"
-trait_02: "humanoid"
+trait_01: [[human]]
+trait_02: [[humanoid]]
 modifier: 12
 perception:
   - name: "Perception"
@@ -33,7 +34,7 @@ perception:
 languages: "Common, Wildsong"
 skills:
   - name: "Skills"
-    desc: "Athletics: +8, Circus Lore: +6, Diplomacy: +8, Intimidation: +8, Nature: +12, Performance: +8, Survival: +10"
+    desc: "Athletics: +8, Diplomacy: +8, Intimidation: +8, Nature: +12, Performance: +8, Survival: +10, Circus Lore: +6"
 abilityMods: [2, 1, 2, 0, 4, 2]
 speed: 25 feet
 sourcebook: "_Pathfinder Gamemastery Guide_"
@@ -68,8 +69,14 @@ attacks:
     desc: "1 Focus Point, DC 22, attack +14; __2nd __  _[[Spells/Heal Animal|Heal Animal]]_"
 
   - name: "Trained Animal"
-    desc: "  The beast tamer fights alongside a trained animal ally of its level or lower, most likely a [[Bestiary 1/Tiger|Tiger]]. The animal has the standard number of actions, uses its normal stat block, and counts toward the encounter's XP budget normally.\nThe beast tamer can spend 1 action to gain the support benefit appropriate to its trained animal. Unlike for an animal companion, this doesn't require the animal to use any of its actions."
+    desc: "  The beast tamer fights alongside a trained animal ally of its level or lower, most likely a [[Bestiary 1/Tiger|Tiger]]. The animal has the standard number of actions, uses its normal stat block, and counts toward the encounter's XP budget normally.\n\nThe beast tamer can spend 1 action to gain the support benefit appropriate to its trained animal. Unlike for an animal companion, this doesn't require the animal to use any of its actions."
  
+```
+
+```encounter-table
+name: Beast Tamer
+creatures:
+  - 1: Beast Tamer
 ```
 
 

@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/chaotic
   - pf2e/creature/type/fey
   - pf2e/creature/type/wild-hunt
+  - pf2eMonster
   - pf2e/creature/level/16
 statblock: inline
 name: "Wild Hunt Archer"
@@ -22,17 +23,17 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Kingmaker"
 name: "Wild Hunt Archer"
 level: "Creature 16"
-rare_03: "Rare"
+rare_03: [[Rare]]
 alignment: ""
 size: "Medium"
-trait_01: "chaotic"
-trait_02: "fey"
-trait_03: "wild-hunt"
+trait_01: [[chaotic]]
+trait_02: [[fey]]
+trait_03: [[wild-hunt]]
 modifier: 30
 perception:
   - name: "Perception"
     desc: "+30; Greater Darkvision, Scent (Imprecise) 30 Feet, Truesight"
-languages: "Aklo, Common, Fey"
+languages: "Aklo, Common, Fey; speak with animals; speak with plants"
 skills:
   - name: "Skills"
     desc: "Acrobatics: +32, Athletics: +30, Intimidation: +32, Nature: +27, Stealth: +32, Survival: +30"
@@ -67,7 +68,7 @@ abilities_mid:
     desc: "  The wild hunt archer automatically achieves a critical success on saving throws against effects created by other allied wild hunt creatures."
 
   - name: "Wild Gaze"
-    desc: " (aura,fear,incapacitation,mental,primal,visual) 30 feet. Those who meet the gaze of a wild hunt archer come face-to-face with the hunt's fearful power and find it difficult to act in the face of such a legendary legacy. When a creature ends its turn in the aura, it must succeed at a DC 34 Will check save to resist becoming [[Conditions/Slowed 1|Slowed 1]] ([[Conditions/Slowed 1|Slowed 2]] on a critical failure). The wild hunt archer can deactivate or activate this aura by using a single action, which has the concentrate trait."
+    desc: " (aura,fear,incapacitation,mental,primal,visual) 30 feet. Those who meet the gaze of a wild hunt archer come face-to-face with the hunt's fearful power and find it difficult to act in the face of such a legendary legacy. When a creature ends its turn in the aura, it must succeed at a DC 34 Will check save to resist becoming [[Conditions/Slowed|Slowed 1]] ([[Conditions/Slowed|Slowed 2]] on a critical failure). The wild hunt archer can deactivate or activate this aura by using a single action, which has the concentrate trait."
 
 attacks:
   - name: ""
@@ -85,7 +86,7 @@ attacks:
     desc: "`pf2:1` (concentrate,fear,incapacitation,mental,primal,visual) The wild hunt archer fixes its glare at a creature it can see within 30 feet. The target must immediately attempt a Will save against the wild hunt hound's wild gaze. If the creature was already slowed by the wild gaze before attempting its save, a failed save causes it to be [[Conditions/Paralyzed|Paralyzed]] for 1 round. After attempting its save, the creature is temporarily immune to Focus Gaze from any wild hunt until the start of the wild hunt archer's next turn."
 
   - name: "Infuse Arrow"
-    desc: "`pf2:3` (magical) The wild hunt archer Casts a Spell with a range of touch and then makes a ranged Strike with their living bow. If they hit a creature with that Strike, that creature is also targeted by the spell's effects. If the Strike misses, the spell is wasted.\nAlternatively, the wild hunt archer can [[Actions/Cast a Spell|Cast a Spell]] that affects an area and then make a ranged Strike with their living bow. If they hit a creature with that Strike, the spell takes effect centered on that creature, and the creature struck takes a -2 circumstance penalty to any save against the spell's effect. If the Strike misses, the spell is wasted."
+    desc: "`pf2:3` (magical) The wild hunt archer Casts a Spell with a range of touch and then makes a ranged Strike with their living bow. If they hit a creature with that Strike, that creature is also targeted by the spell's effects. If the Strike misses, the spell is wasted.\n\nAlternatively, the wild hunt archer can [[Actions/Cast a Spell|Cast a Spell]] that affects an area and then make a ranged Strike with their living bow. If they hit a creature with that Strike, the spell takes effect centered on that creature, and the creature struck takes a -2 circumstance penalty to any save against the spell's effect. If the Strike misses, the spell is wasted."
 
   - name: "Living Bow"
     desc: " (primal) The wild hunt archer carries a manifestation of their archery in the form of a living bow. This weapon functions as a _+2 greater striking frost composite longbow_ as long as it is wielded by the wild hunt archer, but in any other creature's hands the living bow functions as a normal, nonmagic composite longbow. A wild hunt archer can manifest a replacement living bow if its previous one is lost or destroyed by performing a one-minute activity that has the concentrate trait. A living bow appears to be made of wood and constantly sprouts leaves that turn autumnal colors and drop away; it's bowstring is a glowing green line of energy. A wild hunt archer spontaneously generates arrows as needed from its quiver when using a living bow."
@@ -93,6 +94,12 @@ attacks:
   - name: "Seeking Shots"
     desc: "  The wild hunt archer's ranged Strikes and spells with ranged attack rolls ignore their target's [[Conditions/Concealed|Concealed]] condition."
  
+```
+
+```encounter-table
+name: Wild Hunt Archer
+creatures:
+  - 1: Wild Hunt Archer
 ```
 
 

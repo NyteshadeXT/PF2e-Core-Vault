@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.pfs-season-1-bestiary.Actor.E17afWSsCBGM8Gnq"
 tags:
   - pf2e/creature/type/human
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/3
 statblock: inline
 name: "Nalla, Rebel Leader (3-4)"
@@ -21,11 +22,11 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Society Scenario #1-08: Revolution on the Riverside"
 name: "Nalla, Rebel Leader (3-4)"
 level: "Creature 3"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Medium"
-trait_01: "human"
-trait_02: "humanoid"
+trait_01: [[human]]
+trait_02: [[humanoid]]
 modifier: 8
 perception:
   - name: "Perception"
@@ -67,6 +68,12 @@ attacks:
   - name: "Bard Composition Spells"
     desc: "1 Focus Point, DC 17, attack +7; __2nd __  _[[Spells/Lingering Composition|Lingering Composition]]_\n__Cantrips__  __(2nd)__ _[[Spells/Courageous Anthem|Inspire Courage]]_, _[[Spells/Triple Time|Triple Time]]_"
  
+```
+
+```encounter-table
+name: Nalla, Rebel Leader (3-4)
+creatures:
+  - 1: Nalla, Rebel Leader (3-4)
 ```
 
 

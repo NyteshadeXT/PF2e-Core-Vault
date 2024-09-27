@@ -4,23 +4,42 @@ title: "Lucky Number"
 noteType: pf2eSpell
 cssclasses: pf2e,pf2e-spell
 tags:
+  - pf2eSpell
   - spell/level/2
   - trait/concentrate
   - trait/contingency
   - trait/exploration
   - trait/manipulate
   - trait/common
+  - tradition/arcane
+  - tradition/divine
+  - tradition/occult
+
 aliases: "Compendium.pf2e.spells-srd.Item.rDDYGY2ekZ1yVv7q" 
+license: OGL
 ---
-# Lucky Number   
-## Spell 2
-### [[concentrate]][[contingency]][[exploration]][[manipulate]]
-**Traditions** [[arcane]], [[divine]], [[occult]]
-**Cast** 10 minutes**Duration** until the next time you make your daily preparations
-* * * 
-When you Cast this Spell, roll 1d20 and make a note of the result. You gain the [[Actions/That's My Number|That's My Number]] reaction; once you use the reaction, the spell ends, and you become temporarily immune to _lucky number_ until the next time you make your daily preparations.
+```statblock
+name: "Lucky Number "
+level: "Spell 2"
 
-[[Spell Effects/Spell Effect_ Lucky Number|Spell Effect: Lucky Number]]
+trait_01: [[concentrate]]
+trait_02: [[contingency]]
+trait_03: [[exploration]]
+trait_04: [[manipulate]]
+layout: Basic Pathfinder 2e Layout
+columns: 1
+columnWidth: x
+abilities_top:
+  - name: ""
+  - name: "Traditions"
+    desc: "arcane, divine, occult"
+  - name: "Cast"
+    desc: "10 minutes"
 
-*Source: Pathfinder Secrets of Magic*
-*OGL*
+  - name: "Duration"
+    desc: "until the next time you make your daily preparations"
+abilities_mid:
+  - name: ""
+    desc: "When you Cast this Spell, roll 1d20 and make a note of the result. You gain the [[Actions/That's My Number|That's My Number]] reaction; once you use the reaction, the spell ends, and you become temporarily immune to _lucky number_ until the next time you make your daily preparations.\n\n[[Spell Effects/Spell Effect_ Lucky Number|Spell Effect: Lucky Number]]"
+sourcebook: "_Pathfinder Secrets of Magic_"
+```

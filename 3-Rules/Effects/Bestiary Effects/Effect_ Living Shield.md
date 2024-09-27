@@ -17,7 +17,7 @@ license: ORC
 
 
 
-The rekhep grants an adjacent ally a +2 circumstance bonus to AC until they’re no longer adjacent or until the start of the archon’s next turn, whichever comes first.
+The rekhep grants an adjacent ally a +2 circumstance bonus to AC until they're no longer adjacent or until the start of the archon's next turn, whichever comes first.
 
 *Source: Pathfinder Monster Core*
 *ORC*

@@ -6,8 +6,9 @@ tags:
   - trait/oracle
   - trait/common
   - category/classfeature
+  - remaster
 aliases: "Compendium.pf2e.classfeatures.Item.PRJYLksQEwT39bTl"
-license: OGL
+license: ORC
 ---
 # Mystery
 ## Feat 1
@@ -18,36 +19,34 @@ license: OGL
 
 
 
-Choose the divine mystery that fuels your mystical power.
+An oracle wields divine power, but not from a single divine being. This power could come from a potent concept or ideal, the attention of multiple divine entities whose areas of concern all touch on that subject, or a direct and dangerous conduit to raw divine power. This is the oracle's mystery, a source of divine magic not beholden to any deity.
 
-Your mystery might represent a pantheistic devotion to all the deities with power over the subject of your mystery, veneration of a particular ideal, or a conduit to raw divine energy. Whatever its origin and nature, your mystery determines the revelation spells you can cast and the oracular curse that overtakes your body when you do. You learn skills related to that mystery, gain access to a cantrip, and gain a special benefit drawn from the combined divine knowledge and experience of your mystery.
+Choose the mystery that empowers your magic. Your mystery grants you additional spells, and special focus spells called revelation spells. Your mystery also gives you a unique cursebound ability that lets you draw upon the divine, as well as dictating the effects of the oracular curse that falls upon you when you touch too much of this power.
 
 * * *
 
-*   [[Class Features/Ancestors|Ancestors]]
-*   [[Class Features/Battle|Battle]]
-*   [[Class Features/Bones|Bones]]
-*   [[Class Features/Cosmos|Cosmos]]
-*   [[Class Features/Flames|Flames]]
-*   [[Class Features/Life|Life]]
-*   [[Class Features/Lore|Lore]]
-*   [[Class Features/Tempest|Tempest]]
-*   [[Class Features/Time|Time]]
-*   [[Class Features/Ash|Ash]]
+*   [[Class Features/Ancestors|Ancestors]] Voices of past generations teach and haunt you.
+*   [[Class Features/Battle|Battle]] You embody the virtues upheld by heroes of legend.
+*   [[Class Features/Bones|Bones]] Death always seems near, and the dead speak to you.
+*   [[Class Features/Cosmos|Cosmos]] You draw power from the stars and the spaces between.
+*   [[Class Features/Flames|Flames]] You dance with fire and do your best to remain unscorched by it.
+*   [[Class Features/Life|Life]] The teeming energies of life flow through you out into the world.
+*   [[Class Features/Lore|Lore]] You gain access to unparalleled, overwhelming knowledge.
+*   [[Class Features/Tempest|Tempest]] Wind, waves, and storms rage at your beck and call.
 
 ### Reading a Mystery Entry
 
 A mystery entry contains the following information, followed by a description of that mystery's curse.
 
-**Mystery Benefit** The mystery benefit is a special ability (or abilities) you gain from your mystery.
+**Granted Spells** You automatically add the spells listed here to your spell repertoire, as described in Spell Repertoire on page 130. At 1st level, you gain a cantrip and a 1st-rank spell. You learn the other spells on the list as soon as you gain the ability to cast oracle spells of that rank.
 
-**Trained Skill** You become trained in the listed skill. A few mysteries make you trained in more than one skill.
+**Revelation Spells** You automatically gain your mystery's initial revelation spell at 1st level and can gain more by selecting the Advanced Revelation, Greater Revelation, and Diverse Mystery oracle feats. These spells start on page 259.
 
-**Granted Cantrip** You automatically add this cantrip to your spell repertoire, in addition to those you gain through divine spellcasting.
+**Related Domains** These are the cleric domains associated with your mystery. You gain domain spells, which you can cast as revelation spells, by taking the Domain Acumen and Domain Fluency feats. At 11th level, the divine access class feature also gives you additional slotted spells based on your domains. The domains and their domain spells appear on page 372 of Player Core. Domains marked with an asterisk (\*) are found in Pathfinder Lost Omens Divine Mysteries.
 
-**Revelation Spells** You automatically gain your mystery's initial revelation spell at 1st level and can gain more by selecting the [[Feats/Advanced Revelation|Advanced Revelation]], [[Feats/Greater Revelation|Greater Revelation]], and [[Feats/Diverse Mystery|Diverse Mystery]] oracle feats.
+**Mystery Skill** You become trained in the listed skill. A few mysteries make you trained in more than one skill.
 
-**Related Domains** These are the cleric domains associated with your mystery. You select one initial domain spell from one of these domains at 1st level, which you can cast as a revelation spell with the cursebound trait.
+**Oracle Feat** You gain this 1st-level oracle feat. This is a cursebound feat, so using it aggravates your oracular curse.
 
-*Source: Pathfinder Advanced Player's Guide*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

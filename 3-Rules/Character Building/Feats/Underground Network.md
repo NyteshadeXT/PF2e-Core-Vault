@@ -7,8 +7,9 @@ tags:
   - trait/skill
   - trait/uncommon
   - category/skill
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.gydOsP9VsdRw3Wg1"
-license: OGL
+license: ORC
 ---
 # Underground Network
 ## Feat 2
@@ -24,5 +25,5 @@ You're connected to groups that know what's going on in the streets, and you can
 
 In addition, if you have successfully consulted the underground network, you get a +1 circumstance bonus to the next check to [[Actions/Recall Knowledge|Recall Knowledge]] you attempt about the subject you were Gathering Information on, or a +2 circumstance bonus if you're using Underworld Lore for the check. The GM might change the Lore skill related to the network depending on your location or the specifics of the network you're tapping into.
 
-*Source: Pathfinder Advanced Player's Guide*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

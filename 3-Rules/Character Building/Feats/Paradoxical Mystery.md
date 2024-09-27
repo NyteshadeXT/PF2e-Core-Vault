@@ -6,8 +6,9 @@ tags:
   - trait/oracle
   - trait/common
   - category/class
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.fMAUsLdBd5SDoHBz"
-license: OGL
+license: ORC
 ---
 # Paradoxical Mystery
 ## Feat 20
@@ -19,7 +20,7 @@ license: OGL
 
 **Prerequisites** Greater Revelation
 * * *
-The truest depths of your divine mystery are fathomless and contradictory, granting you changing powers that even you can barely begin to fathom. Each day during your daily preparations, choose one basic or advanced domain spell from any domain from the _Core Rulebook_ or another domain to which you have access, or any initial or advanced revelation spell from another mystery. You gain that spell as a revelation spell until your next daily preparations, and it has the cursebound trait.
+The truest depths of your divine mystery are fathomless and contradictory, granting you changing powers that even you can barely begin to fathom. Each day during your daily preparations, choose one basic or advanced domain spell from any domain from _Player Core_, one of the domains granted by your mystery, another domain to which you have access, or any initial or advanced revelation spell from another mystery. You gain that spell as a revelation spell until your next daily preparations.
 
-*Source: Pathfinder Advanced Player's Guide*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

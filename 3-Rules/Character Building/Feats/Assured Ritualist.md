@@ -6,8 +6,9 @@ tags:
   - trait/archetype
   - trait/common
   - category/class
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.v482u7QboZEbhgvv"
-license: OGL
+license: ORC
 ---
 # Assured Ritualist
 ## Feat 10
@@ -19,7 +20,7 @@ license: OGL
 
 **Prerequisites** Flexible Ritualist
 * * *
-You can cover for a secondary caster's error. If you are the primary caster, after rolling all the secondary checks, choose one check on which the secondary caster rolled a failure or critical failure, and treat the result as one degree of success better.
+You can cover for a secondary caster's error. If you are the primary caster, after all the secondary checks are rolled, you can choose one check that was a failure or critical failure, and improve the result to one degree of success better than what the secondary caster rolled.
 
-*Source: Pathfinder Advanced Player's Guide*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

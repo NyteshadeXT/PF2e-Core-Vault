@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/humanoid
   - pf2e/creature/type/orc
+  - pf2eMonster
   - pf2e/creature/level/7
 statblock: inline
 name: "Scorched Earth Orc (Clipper) (7-8)"
@@ -23,13 +24,13 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Society Scenario #2-10: In Burning Dawn"
 name: "Scorched Earth Orc (Clipper) (7-8)"
 level: "Creature 7"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Medium"
-trait_01: "chaotic"
-trait_02: "evil"
-trait_03: "humanoid"
-trait_04: "orc"
+trait_01: [[chaotic]]
+trait_02: [[evil]]
+trait_03: [[humanoid]]
+trait_04: [[orc]]
 modifier: 16
 perception:
   - name: "Perception"
@@ -72,11 +73,17 @@ attacks:
     desc: "`pf2:1` Composite Shortbow +17 (deadly d10, propulsive, volley 30 ft.)\n__Damage__  2d8 + 7 piercing"
 
   - name: "Hamstring"
-    desc: "`pf2:2`  **Frequency** once per round\nThe Scorched Earth clipper makes a melee Strike, attempting to sever connective tissues and disable its foe. If it hits, in addition to taking 1d6 + 8 slashing damage, the creature must attempt a DC 23 Fortitude check save, with the following effects.\n**Success** The creature is unaffected.\n**Failure** The creature is off-guard and takes a -5 foot status penalty to its movement until the end of its next turn.\n**Critical Failure** As failure, and the creature is knocked [[Conditions/Prone|Prone]]."
+    desc: "`pf2:2`  **Frequency** once per round\n\nThe Scorched Earth clipper makes a melee Strike, attempting to sever connective tissues and disable its foe. If it hits, in addition to taking 1d6+8 slashing damage, the creature must attempt a DC 23 Fortitude check save, with the following effects.\n* * *\n\n**Success** The creature is unaffected.\n\n**Failure** The creature is off-guard and takes a -5 foot status penalty to its movement until the end of its next turn.\n\n**Critical Failure** As failure, and the creature is knocked [[Conditions/Prone|Prone]]."
 
   - name: "[[Bestiary Ability Glossary/Sneak Attack|Sneak Attack]]"
     desc: "  Scorched Earth orcs deal an extra 2d6 precision damage to [[Conditions/Off-Guard|Off-Guard]] creatures."
  
+```
+
+```encounter-table
+name: Scorched Earth Orc (Clipper) (7-8)
+creatures:
+  - 1: Scorched Earth Orc (Clipper) (7-8)
 ```
 
 

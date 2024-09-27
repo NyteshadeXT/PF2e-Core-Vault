@@ -6,6 +6,7 @@ cssClasses: pf2e
 aliases: "Compendium.pf2e.pathfinder-bestiary-3.Actor.Ir3N6RHfg6vXYkmN" 
 tags:
   - pf2e/creature/type/animal
+  - pf2eMonster
   - pf2e/creature/level/2
 statblock: inline
 name: "Rosethorn Ram"
@@ -24,11 +25,12 @@ level: "Creature 2"
 
 alignment: ""
 size: "Medium"
-trait_01: "animal"
+trait_01: [[animal]]
 modifier: 8
 perception:
   - name: "Perception"
     desc: "+8; Low-Light Vision"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Acrobatics: +8, Athletics: +7, Stealth: +8, Survival: +8"
@@ -59,7 +61,7 @@ attacks:
     desc: "`pf2:1` Horn +11 (agile, finesse)\n__Damage__  1d6 + 5 piercing"
 
   - name: "Broken Thorns"
-    desc: "`pf2:1`  **Requirements** The rosethorn ram damaged a creature with its horns on its most recent action this turn\n**Effect** The ram breaks off one of the thorny protrusions of its horns and leaves it in the wound, dealing 1d6 bleed."
+    desc: "`pf2:1`  **Requirements** The rosethorn ram damaged a creature with its horns on its most recent action this turn\n* * *\n\n**Effect** The ram breaks off one of the thorny protrusions of its horns and leaves it in the wound, dealing 1d6 bleed."
 
   - name: "Mountain Stride"
     desc: "  The Rosethorn ram ignores difficult terrain caused by narrow ledges and icy terrain, and reduces the effects it suffers from cold environments by one step."
@@ -67,6 +69,12 @@ attacks:
   - name: "Ram Charge"
     desc: "`pf2:2`  The ram Strides twice in a straight line and then makes a horn Strike with a +1 circumstance bonus to its attack roll."
  
+```
+
+```encounter-table
+name: Rosethorn Ram
+creatures:
+  - 1: Rosethorn Ram
 ```
 
 

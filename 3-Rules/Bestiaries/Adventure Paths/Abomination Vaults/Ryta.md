@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/humanoid
   - pf2e/creature/type/lawful
   - pf2e/creature/type/ratfolk
+  - pf2eMonster
   - pf2e/creature/level/4
 statblock: inline
 name: "Ryta"
@@ -22,12 +23,12 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #164: Hands of the Devil"
 name: "Ryta"
 level: "Creature 4"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Small"
-trait_01: "humanoid"
-trait_02: "lawful"
-trait_03: "ratfolk"
+trait_01: [[humanoid]]
+trait_02: [[lawful]]
+trait_03: [[ratfolk]]
 modifier: 10
 perception:
   - name: "Perception"
@@ -55,7 +56,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Dance Moves"
-    desc: "`pf2:r`  **Trigger** Ryta is targeted with a melee or ranged attack by an attacker she can see.\n**Effect** Ryta Steps and gains a +2 circumstance bonus to AC against the triggering attack."
+    desc: "`pf2:r`  **Trigger** Ryta is targeted with a melee or ranged attack by an attacker she can see.\n* * *\n\n**Effect** Ryta Steps and gains a +2 circumstance bonus to AC against the triggering attack."
 
 attacks:
   - name: ""
@@ -73,8 +74,14 @@ attacks:
     desc: "  Ryta can end her movement in the same square as an ally that also has this ability. Only two such creatures can share the same space."
 
   - name: "Vocal Warm-Up"
-    desc: "`pf2:1`  Ryta sets up devastating vibrations that echo in her throat and her cheek pouches. Until the start of her next turn, her fangs Strikes deal an additional 2d8 sonic damage.\nRyta can't use Vocal Warm-up if she has an object in her cheek pouches."
+    desc: "`pf2:1`  Ryta sets up devastating vibrations that echo in her throat and her cheek pouches. Until the start of her next turn, her fangs Strikes deal an additional 2d8 sonic damage.\n\nRyta can't use Vocal Warm-up if she has an object in her cheek pouches."
  
+```
+
+```encounter-table
+name: Ryta
+creatures:
+  - 1: Ryta
 ```
 
 

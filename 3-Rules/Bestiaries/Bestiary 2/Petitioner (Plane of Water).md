@@ -6,6 +6,7 @@ cssClasses: pf2e
 aliases: "Compendium.pf2e.pathfinder-bestiary-2.Actor.QpTRWkbZ6k6xP4tR" 
 tags:
   - pf2e/creature/type/petitioner
+  - pf2eMonster
   - pf2e/creature/level/1
 statblock: inline
 name: "Petitioner (Plane of Water)"
@@ -24,11 +25,12 @@ level: "Creature 1"
 
 alignment: ""
 size: "Medium"
-trait_01: "petitioner"
+trait_01: [[petitioner]]
 modifier: 7
 perception:
   - name: "Perception"
     desc: "+7; Darkvision"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Athletics: +7, Planar Lore: +7"
@@ -56,8 +58,14 @@ attacks:
     desc: "`pf2:1` Current +7 (water)\n__Damage__  1d8 + 2 bludgeoning"
 
   - name: "Planar Incarnation - Plane of Water"
-    desc: " (water) All petitioners are formed from and personify the nature of the plane on which they manifest, and their statistics are adjusted as summarized below. They also gain any trait associated with creatures from their plane.\n**Plane of Water** Water pneuma appear as versions of their mortal selves formed of flowing water\n*   **Alignment** any;\n*   **Language** Aquan;\n*   **Additional Ability** amphibious, swim Speed 20 feet;\n*   **Melee** current +7 (water), **Damage** 1d8+2 bludgeoning"
+    desc: " (water) All petitioners are formed from and personify the nature of the plane on which they manifest, and their statistics are adjusted as summarized below. They also gain any trait associated with creatures from their plane.\n\n**Plane of Water** Water pneuma appear as versions of their mortal selves formed of flowing water\n\n*   **Alignment** any;\n*   **Language** Aquan;\n*   **Additional Ability** amphibious, swim Speed 20 feet;\n*   **Melee** current +7 (water), **Damage** 1d8+2 bludgeoning"
  
+```
+
+```encounter-table
+name: Petitioner (Plane of Water)
+creatures:
+  - 1: Petitioner (Plane of Water)
 ```
 
 

@@ -6,6 +6,7 @@ cssClasses: pf2e
 aliases: "Compendium.pf2e.pathfinder-bestiary-2.Actor.C7LvY2Xxzm2xRL1M" 
 tags:
   - pf2e/creature/type/animal
+  - pf2eMonster
   - pf2e/creature/level/1
 statblock: inline
 name: "Giant Solifugid"
@@ -24,14 +25,15 @@ level: "Creature 1"
 
 alignment: ""
 size: "Medium"
-trait_01: "animal"
+trait_01: [[animal]]
 modifier: 7
 perception:
   - name: "Perception"
     desc: "+7; Darkvision"
+languages: ""
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +8, Athletics: +6, Stealth: +6 (+10 in Deserts)"
+    desc: "Acrobatics: +8, Athletics: +6, Stealth: +6"
 abilityMods: [1, 3, 3, -5, 1, -4]
 speed: 35 feet,  climb 25 feet
 sourcebook: "_Pathfinder Bestiary 2_"
@@ -62,8 +64,14 @@ attacks:
     desc: "`pf2:1`  The giant solifugid Strides and makes a Strike at the end of that movement. If the giant solifugid began this action [[Conditions/Hidden|Hidden]], it remains hidden until after this ability's Strike."
 
   - name: "[[Bestiary Ability Glossary/Rend|Rend]]"
-    desc: "`pf2:1`  Claw\n"
+    desc: "`pf2:1`  Claw\n\n* * *\n"
  
+```
+
+```encounter-table
+name: Giant Solifugid
+creatures:
+  - 1: Giant Solifugid
 ```
 
 

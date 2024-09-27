@@ -5,6 +5,7 @@ noteType: pf2eHazard
 tags:
   - mechanical
   - trap
+  - pf2eHazard
 
 source: Pathfinder Society Scenario #2-03: Catastrophe&#x27;s Spark
 aliases: "Compendium.pf2e.pfs-season-2-bestiary.Actor.ErhCUif0jmnDKogH" 
@@ -22,14 +23,14 @@ name: "Collapsing Cabinet (1-2)"
 level: "Hazard 1"
 
 
-trait_01: "mechanical"
-trait_02: "trap"
+trait_01: [[mechanical]]
+trait_02: [[trap]]
 modifier: 7
 sourcebook: "_Pathfinder Society Scenario #2-03: Catastrophe's Spark_"
 ac: 12
 armorclass:
   - name: AC
-    desc: "12; __Fort__ +10, __Ref__ +2, __Will__ +0"
+    desc: "12; __Fort__ +10, __Ref__ +2, "
 hp: 20
 health:
   - name: ""
@@ -42,7 +43,7 @@ perception:
 abilities_top:
   - name: ""
   - name: "Description"
-    desc: "Fluids from leaking beakers have eaten nearly through the supports holding up this cabinet.\nThis Broken Threshold for this trap is 5, not 10."
+    desc: "Fluids from leaking beakers have eaten nearly through the supports holding up this cabinet.\n\nThis Broken Threshold for this trap is 5, not 10."
 abilities_mid:
   - name: ""
   - name: "Disable"
@@ -51,9 +52,15 @@ attacks:
   - name: ""
 
   - name: "Slam Down"
-    desc: "`pf2:r` **Trigger** Someone touches or otherwise interacts with the cabinet\n**Effect** The cabinet falls, splintering on impact. If someone attempts to break the cabinet but its Broken Threshold is not reached in one hit, it falls as well. The cabinet deals 3d8 bludgeoning damage to anyone beneath (DC 20 Reflex check save)."
+    desc: "`pf2:r` **Trigger** Someone touches or otherwise interacts with the cabinet\n* * *\n\n**Effect** The cabinet falls, splintering on impact. If someone attempts to break the cabinet but its Broken Threshold is not reached in one hit, it falls as well. The cabinet deals 3d8 bludgeoning damage to anyone beneath (DC 20 Reflex check save)."
 
 
 
+```
+
+```encounter-table
+name: Collapsing Cabinet (1-2)
+creatures:
+  - 1: Collapsing Cabinet (1-2)
 ```
 

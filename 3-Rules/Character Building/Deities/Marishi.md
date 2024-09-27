@@ -33,9 +33,9 @@ When casting the [[Spells/Avatar|Avatar]] spell, a worshipper of Marishi becomes
 
 Marishi Speed 70 feet, climb 50 feet, swim 50 feet, air walk
 
-Melee `pf2:1` spiked gauntlet (agile, free-hand, reach 15 feet), Damage 6d4 + 6 piercing
+Melee `pf2:1` spiked gauntlet (agile, free-hand, reach 15 feet), Damage 6d4+6 piercing
 
-Ranged `pf2:1` strain of exertion (nonlethal, range 120 feet), Damage 6d6 + 3 mental
+Ranged `pf2:1` strain of exertion (nonlethal, range 120 feet), Damage 6d6+3 mental
 
 *Source: Pathfinder Lost Omens: Firebrands*
 *OGL*

@@ -14,7 +14,7 @@ license: ORC
 ---
 # Dragon Turtle Scale
 ## Item 4
-### [[consumable]][[magical]][[talisman]]
+### [[consumable]][[3-Rules/Rule References/Magical]][[talisman]]
 
 **Category** talisman; 
 **Price** 13 gp; 

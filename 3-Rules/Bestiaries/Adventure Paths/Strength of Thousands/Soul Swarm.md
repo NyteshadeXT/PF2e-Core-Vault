@@ -12,6 +12,7 @@ tags:
   - pf2e/creature/type/troop
   - pf2e/creature/type/undead
   - pf2e/creature/type/unholy
+  - pf2eMonster
   - pf2e/creature/level/13
 statblock: inline
 name: "Soul Swarm"
@@ -26,16 +27,16 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #172: Secrets of the Temple-City"
 name: "Soul Swarm"
 level: "Creature 13"
-rare_03: "Rare"
+rare_03: [[Rare]]
 alignment: ""
 size: "grg"
-trait_01: "evil"
-trait_02: "ghost"
-trait_03: "incorporeal"
-trait_04: "spirit"
-trait_05: "troop"
-trait_06: "undead"
-trait_07: "unholy"
+trait_01: [[evil]]
+trait_02: [[ghost]]
+trait_03: [[incorporeal]]
+trait_04: [[spirit]]
+trait_05: [[troop]]
+trait_06: [[undead]]
+trait_07: [[unholy]]
 modifier: 24
 perception:
   - name: "Perception"
@@ -65,7 +66,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "[[Bestiary Ability Glossary/Frightful Presence|Frightful Presence]]"
-    desc: " (aura,emotion,fear,mental) 60 feet. DC 30 Will check\n"
+    desc: " (aura,emotion,fear,mental) 60 feet. DC 30 Will check\n\n* * *\n"
 
 attacks:
   - name: ""
@@ -74,14 +75,20 @@ attacks:
     desc: "DC 30, attack +22\n__Constant__  __(4th)__ _[[Spells/Air Walk|Air Walk]]_"
 
   - name: "Cosmic Explosion"
-    desc: "`pf2:2`  The soul swarm unleashes a blast of burning sunlight or moonlight, dealing 4d8 + 6 fire damage to creatures in a 10-foot burst within 20 feet (DC 30 Reflex check save). When the soul swarm is reduced to 8 or fewer squares, this decreases to a 5-foot burst."
+    desc: "`pf2:2`  The soul swarm unleashes a blast of burning sunlight or moonlight, dealing 4d8+6 fire damage to creatures in a @Template[burst|distance:10] within 20 feet (DC 30 Reflex check save). When the soul swarm is reduced to 8 or fewer squares, this decreases to a @Template[burst|distance:5]."
 
   - name: "Soul Grasp"
-    desc: "`pf2:1`  `pf2:1` to `pf2:3` actions\n**Frequency** once per round\n**Effect** The soul swarm reaches out and tries to tear at the spiritual energy of enemies within 5 feet (DC 32 Reflex check save). The soul swarm can choose to deal slashing damage as it cuts away at a creature, fire damage as it burns other souls away, or void damage as it attempts to unmake a soul. The damage depends on the number of actions.\n`pf2:1` 2d6+1 damage: slashing, fire, negative\n`pf2:2` 4d6+11 damage: slashing, fire, negative\n`pf2:3` 6d6+11 damage: slashing, fire, negative"
+    desc: "`pf2:1`  `pf2:1` to `pf2:3` actions\n\n**Frequency** once per round\n* * *\n\n**Effect** The soul swarm reaches out and tries to tear at the spiritual energy of enemies within 5 feet (DC 32 Reflex check save). The soul swarm can choose to deal slashing damage as it cuts away at a creature, fire damage as it burns other souls away, or void damage as it attempts to unmake a soul. The damage depends on the number of actions.\n* * *\n\n`pf2:1` 2d6+1 untyped damage\n\n`pf2:2` 4d6+11 untyped damage\n\n`pf2:3` 6d6+11 untyped damage"
 
   - name: "Troop Movement"
     desc: "  Whenever the soul swarm Strides, the soul swarm first Forms Up as a free action to condense into a 20-foot-by-20-foot area (minus any missing squares), then moves. This works just like a Gargantuan creature moving; for instance, if any square of the soul swarm enters difficult terrain, the extra movement cost applies to the whole soul swarm."
  
+```
+
+```encounter-table
+name: Soul Swarm
+creatures:
+  - 1: Soul Swarm
 ```
 
 

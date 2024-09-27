@@ -13,7 +13,7 @@ license: OGL
 ---
 # Corpsecaller Round
 ## Item 9
-### [uncommon](uncommon "Uncommon Rarity Trait")[[consumable]][[magical]][[void]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[consumable]][[3-Rules/Rule References/Magical]][[void]]
 
 **Category** ammo; 
 **Price** 130 gp; 
@@ -34,9 +34,9 @@ This bullet is crafted entirely from obsidian and engraved with hair-thin runes.
 
 **Success** The foe takes half damage.
 
-**Failure** The foe takes full damage and is [[Conditions/Doomed 1|Doomed 1]]. If the foe dies within the next 24 hours, its corpse is tethered to the Void, making it easier to raise as an undead. Creatures using the create undead ritual on the foe's corpse receive a +2 circumstance bonus to their primary and secondary skill checks for the ritual.
+**Failure** The foe takes full damage and is [[Conditions/Doomed|Doomed 1]]. If the foe dies within the next 24 hours, its corpse is tethered to the Void, making it easier to raise as an undead. Creatures using the create undead ritual on the foe's corpse receive a +2 circumstance bonus to their primary and secondary skill checks for the ritual.
 
-**Critical Failure** As failure, except the foe takes double damage and is [[Conditions/Doomed 1|Doomed 2]].
+**Critical Failure** As failure, except the foe takes double damage and is [[Conditions/Doomed|Doomed 2]].
 
 *Source: Pathfinder #180: The Smoking Gun*
 *OGL*

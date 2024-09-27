@@ -10,6 +10,7 @@ tags:
   - pf2e/creature/type/skeleton
   - pf2e/creature/type/undead
   - pf2e/creature/type/unholy
+  - pf2eMonster
   - pf2e/creature/level/1
 statblock: inline
 name: "Skeleton Corporal"
@@ -27,15 +28,16 @@ level: "Creature 1"
 
 alignment: ""
 size: "Medium"
-trait_01: "evil"
-trait_02: "mindless"
-trait_03: "skeleton"
-trait_04: "undead"
-trait_05: "unholy"
+trait_01: [[evil]]
+trait_02: [[mindless]]
+trait_03: [[skeleton]]
+trait_04: [[undead]]
+trait_05: [[unholy]]
 modifier: 4
 perception:
   - name: "Perception"
     desc: "+4; Darkvision"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Acrobatics: +8, Athletics: +5"
@@ -72,6 +74,12 @@ attacks:
   - name: "Ranged"
     desc: "`pf2:1` Shortbow +8 (deadly d10, range increment 60 feet, reload 0)\n__Damage__  1d6 piercing"
  
+```
+
+```encounter-table
+name: Skeleton Corporal
+creatures:
+  - 1: Skeleton Corporal
 ```
 
 

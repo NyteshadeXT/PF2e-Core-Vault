@@ -10,6 +10,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/fiend
   - pf2e/creature/type/unholy
+  - pf2eMonster
   - pf2e/creature/level/5
 statblock: inline
 name: "Vloriak"
@@ -24,19 +25,19 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Adventure: Rusthenge"
 name: "Vloriak"
 level: "Creature 5"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Medium"
-trait_01: "chaotic"
-trait_02: "demon"
-trait_03: "evil"
-trait_04: "fiend"
-trait_05: "unholy"
+trait_01: [[chaotic]]
+trait_02: [[demon]]
+trait_03: [[evil]]
+trait_04: [[fiend]]
+trait_05: [[unholy]]
 modifier: 13
 perception:
   - name: "Perception"
     desc: "+13; Darkvision"
-languages: "Chthonian, Common"
+languages: "Chthonian, Common; telepathy 100 feet"
 skills:
   - name: "Skills"
     desc: "Athletics: +13, Intimidation: +12"
@@ -73,17 +74,23 @@ attacks:
     desc: "DC 22, attack +14; __3rd __  _[[Spells/Paralyze|Paralyze]]_; __2nd __  _[[Spells/Acid Arrow|Acid Arrow]]_, _[[Spells/Shatter|Shatter]]_\n__Cantrips__  __(3rd)__ _[[Spells/Acid Splash|Acid Splash]]_"
 
   - name: "Lick Rust"
-    desc: "`pf2:1` (attack) **Requirements** The vloriak rusted a metal item with its tongue this turn\n**Effect** The vloriak attempts a tongue Strike on the same target it just attacked. If it hits, it deals no damage as it licks away the rust and heals 2d6 Hit Points (or 4d6 Hit Points if the Strike was a critical hit). It can't Lick Rust on its next turn."
+    desc: "`pf2:1` (attack) **Requirements** The vloriak rusted a metal item with its tongue this turn\n* * *\n\n**Effect** The vloriak attempts a tongue Strike on the same target it just attacked. If it hits, it deals no damage as it licks away the rust and heals 2d6 healing Hit Points (or 4d6 healing Hit Points if the Strike was a critical hit). It can't Lick Rust on its next turn."
 
   - name: "Rust"
     desc: "  A vloriak's saliva causes metal to rust rapidly. If it succeeds at a tongue Strike or [[Actions/Disarm|Disarm]] attempt, the vloriak deals 2d6 untyped damage (doubled on a critical hit) to a metal item the target is wearing or holding, ignoring its Hardness. If the vloriak hits an unattended metal item, the item takes this damage automatically. If a creature uses the Shield Block reaction with a metal shield against a tongue attack, the shield is automatically broken, but no other item is rusted on that attack."
 
   - name: "Spew Rusted Shards"
-    desc: "`pf2:1` (divine) The vloriak spews a 15-foot cone of acid and rusted metal. Creatures in the area take 3d6 acid and 3d6 piercing damage (DC 22 Reflex check save). A creature that takes any piercing damage is exposed to tetanus. The vloriak can't Spew Rusted Shards for 1d4 rounds."
+    desc: "`pf2:2` (divine) The vloriak spews a @Template[cone|distance:15] of acid and rusted metal. Creatures in the area take 3d6 acid and 3d6 piercing damage (DC 22 Reflex check save). A creature that takes any piercing damage is exposed to tetanus. The vloriak can't Spew Rusted Shards for 1d4 rounds."
 
   - name: "Tetanus"
-    desc: " (disease) An infection introduced through open wounds, tetanus can produce stiffness, muscle spasms strong enough to break bones, and ultimately death.\n**Saving Throw** DC 14 Fortitude check\n**Onset** 10 days\n**Stage 1** [[Conditions/Clumsy 1|Clumsy 1]] (1 week)\n**Stage 2** [[Conditions/Clumsy 1|Clumsy 2]] and can't speak (1 day)\n**Stage 3** [[Conditions/Paralyzed|Paralyzed]] with spasms (1 day)\n**Stage 4** death"
+    desc: " (disease) An infection introduced through open wounds, tetanus can produce stiffness, muscle spasms strong enough to break bones, and ultimately death.\n\n**Saving Throw** DC 14 Fortitude check\n\n**Onset** 10 days\n\n**Stage 1** [[Conditions/Clumsy|Clumsy 1]] (1 week)\n\n**Stage 2** [[Conditions/Clumsy|Clumsy 2]] and can't speak (1 day)\n\n**Stage 3** [[Conditions/Paralyzed|Paralyzed]] with spasms (1 day)\n\n**Stage 4** death"
  
+```
+
+```encounter-table
+name: Vloriak
+creatures:
+  - 1: Vloriak
 ```
 
 

@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.pfs-season-1-bestiary.Actor.t238i4Zw2JsDvUop"
 tags:
   - pf2e/creature/type/earth
   - pf2e/creature/type/elemental
+  - pf2eMonster
   - pf2e/creature/level/3
 statblock: inline
 name: "Metallic Sod Hound"
@@ -24,15 +25,16 @@ level: "Creature 3"
 
 alignment: ""
 size: "Small"
-trait_01: "earth"
-trait_02: "elemental"
+trait_01: [[earth]]
+trait_02: [[elemental]]
 modifier: 9
 perception:
   - name: "Perception"
     desc: "+9; Darkvision"
+languages: ""
 skills:
   - name: "Skills"
-    desc: "Athletics: +14, Survival: +9 (+11 to track)"
+    desc: "Athletics: +14, Survival: +9"
 abilityMods: [5, -1, 4, -4, 3, -1]
 speed: 30 feet,  burrow 20 feet
 sourcebook: "_Pathfinder Society Scenario #1-09: Star-Crossed Voyages_"
@@ -65,6 +67,12 @@ attacks:
   - name: "[[Bestiary Ability Glossary/Knockdown|Knockdown]]"
     desc: "`pf2:1`  "
  
+```
+
+```encounter-table
+name: Metallic Sod Hound
+creatures:
+  - 1: Metallic Sod Hound
 ```
 
 

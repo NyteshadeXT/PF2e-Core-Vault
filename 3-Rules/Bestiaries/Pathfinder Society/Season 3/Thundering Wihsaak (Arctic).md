@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/fiend
   - pf2e/creature/type/sahkil
   - pf2e/creature/type/unholy
+  - pf2eMonster
   - pf2e/creature/level/6
 statblock: inline
 name: "Thundering Wihsaak (Arctic)"
@@ -23,18 +24,18 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Society Scenario #3-13: Guardian&#x27;s Covenant"
 name: "Thundering Wihsaak (Arctic)"
 level: "Creature 6"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Medium"
-trait_01: "evil"
-trait_02: "fiend"
-trait_03: "sahkil"
-trait_04: "unholy"
+trait_01: [[evil]]
+trait_02: [[fiend]]
+trait_03: [[sahkil]]
+trait_04: [[unholy]]
 modifier: 14
 perception:
   - name: "Perception"
     desc: "+14; Darkvision"
-languages: "Chthonian, Diabolic, Empyrean, Requian"
+languages: "Chthonian, Diabolic, Empyrean, Requian; telepathy 100 feet"
 skills:
   - name: "Skills"
     desc: "Acrobatics: +13, Deception: +15, Intimidation: +15, Stealth: +15"
@@ -71,11 +72,17 @@ attacks:
     desc: "DC 23, attack +15; __4th __ (1 slots) _[[Spells/Suggestion|Suggestion]]_; __3rd __ (2 slots) _[[Spells/Fear|Fear]]_, _[[Spells/Noise Blast|Sound Burst]]_; __2nd __ (2 slots) _[[Spells/Blur|Blur]]_, _[[Spells/See the Unseen|See Invisibility]]_\n__Cantrips__  __(3rd)__ _[[Spells/Detect Magic|Detect Magic]]_"
 
   - name: "Droning Distraction"
-    desc: "`pf2:1` (auditory,divine,incapacitation,mental) **Effect** The wihsaak beats its wings rapidly, creating a buzzing drone that numbs creatures' minds. Each creature within 100 feet must attempt a DC 23 Will check save. They are then temporarily immune for 1 minute.\n**Success** The creature is unaffected.\n**Failure** The creature is [[Conditions/Confused|Confused]] and [[Conditions/Stupefied 1|Stupefied 1]] for 1 round.\n**Critical Failure** The creature is confused for 1 round and [[Conditions/Stupefied 1|Stupefied 2]] for 1 minute."
+    desc: "`pf2:1` (auditory,divine,incapacitation,mental) **Effect** The wihsaak beats its wings rapidly, creating a buzzing drone that numbs creatures' minds. Each creature within 100 feet must attempt a DC 23 Will check save. They are then temporarily immune for 1 minute.\n* * *\n\n**Success** The creature is unaffected.\n\n**Failure** The creature is [[Conditions/Confused|Confused]] and [[Conditions/Stupefied|Stupefied 1]] for 1 round.\n\n**Critical Failure** The creature is confused for 1 round and [[Conditions/Stupefied|Stupefied 2]] for 1 minute."
 
   - name: "Skip Between"
-    desc: "`pf2:1` (divine,teleportation) The wihsaak moves from the Material Plane to the Ethereal Plane or vice-versa, with the effects of [[Spells/Ethereal Jaunt|Ethereal Jaunt]] except that the effect has an unlimited duration and can be Dismissed.\nA summoned sakhil can't use Skip Between."
+    desc: "`pf2:1` (divine,teleportation) The wihsaak moves from the Material Plane to the Ethereal Plane or vice-versa, with the effects of [[Spells/Ethereal Jaunt|Ethereal Jaunt]] except that the effect has an unlimited duration and can be Dismissed.\n\nA summoned sakhil can't use Skip Between."
  
+```
+
+```encounter-table
+name: Thundering Wihsaak (Arctic)
+creatures:
+  - 1: Thundering Wihsaak (Arctic)
 ```
 
 

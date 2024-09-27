@@ -18,7 +18,7 @@ license: OGL
 ---
 # Brilliant Rapier
 ## Item 14
-### [uncommon](uncommon "Uncommon Rarity Trait")[[deadly-d8]][[disarm]][[finesse]][[holy]][[magical]][[versatile-spirit]][[versatile-vitality]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[deadly-d8]][[3-Rules/trait_reference/disarm]][[3-Rules/Rule References/Finesse]][[holy]][[3-Rules/Rule References/Magical]][[versatile-spirit]][[versatile-vitality]]
 
 |  |  |
 | -- | -- |

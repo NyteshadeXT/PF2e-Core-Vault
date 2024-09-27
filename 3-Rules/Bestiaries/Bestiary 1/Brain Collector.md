@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/aberration
   - pf2e/creature/type/chaotic
   - pf2e/creature/type/evil
+  - pf2eMonster
   - pf2e/creature/level/8
 statblock: inline
 name: "Brain Collector"
@@ -23,20 +24,20 @@ token: [[modules/pf2e-tokens-bestiaries/portraits/aberrant/eldritch/brain-collec
 source: "Pathfinder Bestiary"
 name: "Brain Collector"
 level: "Creature 8"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Large"
-trait_01: "aberration"
-trait_02: "chaotic"
-trait_03: "evil"
+trait_01: [[aberration]]
+trait_02: [[chaotic]]
+trait_03: [[evil]]
 modifier: 18
 perception:
   - name: "Perception"
     desc: "+18; Darkvision"
-languages: "Aklo, Chthonian, Common, Draconic, Protean, Sakvroth"
+languages: "Aklo, Chthonian, Common, Draconic, Protean, Sakvroth; telepathy 100 feet"
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +17, Arcana: +18, Athletics: +16, Lore (all subcategories): +18, Occultism: +21, Stealth: +17"
+    desc: "Acrobatics: +17, Arcana: +18, Athletics: +16, Occultism: +21, Stealth: +17, Lore (all subcategories): +18"
 abilityMods: [6, 3, 5, 4, 4, 3]
 speed: 25 feet,  fly 30 feet
 sourcebook: "_Pathfinder Bestiary_"
@@ -55,7 +56,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Brain Blisters"
-    desc: "  A brain collector has seven brain blisters on its back that it uses to house stolen brains. A brain collector without all seven blisters full is [[Conditions/Stupefied 1|Stupefied]] with a value equal to the number of empty blisters."
+    desc: "  A brain collector has seven brain blisters on its back that it uses to house stolen brains. A brain collector without all seven blisters full is [[Conditions/Stupefied|Stupefied]] with a value equal to the number of empty blisters."
 
   - name: "Brain Loss"
     desc: "  If a brain collector takes 30 damage from a critical hit or takes 25 mental damage, it must succeed at a DC 26 save (DC 26 Fortitude check for critical damage or DC 26 Will check for mental damage) or one of its brain blisters is destroyed."
@@ -73,11 +74,17 @@ attacks:
     desc: "DC 26, attack +18; __4th __ (2 slots) _[[Spells/Confusion|Confusion]]_, _[[Spells/Phantasmal Killer|Phantasmal Killer]]_; __3rd __ (3 slots) _[[Spells/Dispel Magic|Dispel Magic]]_, _[[Spells/Haste|Haste]]_, _[[Spells/Paralyze|Paralyze]]_; __2nd __ (4 slots) _[[Spells/Humanoid Form|Humanoid Form]]_, _[[Spells/Invisibility|Invisibility]]_, _[[Spells/Mirror Image|Mirror Image]]_, _[[Spells/Paranoia|Paranoia]]_; __1st __ (4 slots) _[[Spells/Mindlink|Mindlink]]_, _[[Spells/Enfeeble|Ray of Enfeeblement]]_, _[[Spells/Sure Strike|True Strike]]_, _[[Spells/Phantasmal Minion|Unseen Servant]]_\n__Cantrips__  __(4th)__ _[[Compendium.pf2e.spells-srd.Item.kl2q6JvBZwed4B6v|Dancing Lights]]_, _[[Spells/Detect Magic|Detect Magic]]_, _[[Spells/Telekinetic Hand|Mage Hand]]_, _[[Spells/Prestidigitation|Prestidigitation]]_"
 
   - name: "Brain Collector Venom"
-    desc: " (poison) **Saving Throw** DC 26 Fortitude check\n**Maximum Duration** 6 rounds\n**Stage 1** 1d6 poison and [[Conditions/Enfeebled 1|Enfeebled 1]] (1 round)\n**Stage 2** 1d6 poison, enfeebled 1, and [[Conditions/Slowed 1|Slowed 1]] (1 round)\n**Stage 3** 2d6 poison, [[Conditions/Enfeebled 1|Enfeebled 2]], and slowed 1 (1 round)"
+    desc: " (poison) **Saving Throw** DC 26 Fortitude check\n* * *\n\n**Maximum Duration** 6 rounds\n\n**Stage 1** 1d6 poison and [[Conditions/Enfeebled|Enfeebled 1]] (1 round)\n\n**Stage 2** 1d6 poison, enfeebled 1, and [[Conditions/Slowed|Slowed 1]] (1 round)\n\n**Stage 3** 2d6 poison, [[Conditions/Enfeebled|Enfeebled 2]], and slowed 1 (1 round)"
 
   - name: "Collect Brain"
     desc: "`pf2:1` (manipulate) The brain collector collects a brain of a creature that has been dead for no more than 1 minute. It can then use an Interact action to secure the brain in one of its empty brain blisters."
  
+```
+
+```encounter-table
+name: Brain Collector
+creatures:
+  - 1: Brain Collector
 ```
 
 

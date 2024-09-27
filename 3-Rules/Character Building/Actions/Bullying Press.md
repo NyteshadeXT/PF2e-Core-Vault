@@ -6,8 +6,9 @@ tags:
   - trait/flourish
   - trait/common
   - category/offensive
+  - remaster
 aliases: "Compendium.pf2e.actionspf2e.Item.TXqTIwNGULs3j6CH"
-license: OGL
+license: ORC
 ---
 # Bullying Press `pf2:r`
 
@@ -24,7 +25,7 @@ license: OGL
 
 * * *
 
-If you hit, your opponent becomes [[Conditions/Frightened 1|Frightened 1]]. If your opponent is using Perception for initiative when this ability is used, they become [[Conditions/Frightened 1|Frightened 2]] instead.
+If you hit, your opponent becomes [[Conditions/Frightened|Frightened 1]]. If your opponent is using Perception for initiative when this ability is used, they become [[Conditions/Frightened|Frightened 2]] instead.
 
-*Source: Pathfinder Gamemastery Guide*
-*OGL*
+*Source: Pathfinder GM Core*
+*ORC*

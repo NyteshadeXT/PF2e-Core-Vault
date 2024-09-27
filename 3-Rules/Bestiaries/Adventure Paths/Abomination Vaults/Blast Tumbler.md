@@ -6,6 +6,7 @@ tags:
   - magical
   - mechanical
   - trap
+  - pf2eHazard
 
 source: Pathfinder #165: Eyes of Empty Death
 aliases: "Compendium.pf2e.abomination-vaults-bestiary.Actor.neNlIrZOs6zOODoe" 
@@ -23,9 +24,9 @@ name: "Blast Tumbler"
 level: "Hazard 10"
 
 
-trait_01: "magical"
-trait_02: "mechanical"
-trait_03: "trap"
+trait_01: [[magical]]
+trait_02: [[mechanical]]
+trait_03: [[trap]]
 modifier: 32
 sourcebook: "_Pathfinder #165: Eyes of Empty Death_"
 perception:
@@ -44,10 +45,16 @@ attacks:
   - name: ""
 
   - name: "Force Blast"
-    desc: "`pf2:r` (force, occult) **Trigger** A non-undead creature opens the door or critically fails an attempt to disarm or dispel the rune\n**Effect** A 30-foot cone of force issues forth from the lock. Creatures within the cone must succeed a DC 29 Fortitude check saving throw or take 8d12 force damage. Those who fail the save are pushed 10 feet, and those who critically fail are pushed 20 feet and are [[Conditions/Stunned 1|Stunned 2]]."
+    desc: "`pf2:r` (force, occult) **Trigger** A non-undead creature opens the door or critically fails an attempt to disarm or dispel the rune\n* * *\n\n**Effect** A 30-foot cone of force issues forth from the lock. Creatures within the cone must succeed a DC 29 Fortitude check saving throw or take 8d12 force damage. Those who fail the save are pushed 10 feet, and those who critically fail are pushed 20 feet and are [[Conditions/Stunned|Stunned 2]]."
 
 
   - name: "Reset"
     desc: "The rune resets 1 minute after it triggers."
+```
+
+```encounter-table
+name: Blast Tumbler
+creatures:
+  - 1: Blast Tumbler
 ```
 

@@ -6,6 +6,7 @@ cssClasses: pf2e
 aliases: "Compendium.pf2e.abomination-vaults-bestiary.Actor.zsgW8hHm3JfZUgwF" 
 tags:
   - pf2e/creature/type/aberration
+  - pf2eMonster
   - pf2e/creature/level/7
 statblock: inline
 name: "Mulventok"
@@ -20,10 +21,10 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #164: Hands of the Devil"
 name: "Mulventok"
 level: "Creature 7"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Medium"
-trait_01: "aberration"
+trait_01: [[aberration]]
 modifier: 15
 perception:
   - name: "Perception"
@@ -31,7 +32,7 @@ perception:
 languages: "Aklo, Daemonic, Sakvroth"
 skills:
   - name: "Skills"
-    desc: "Athletics: +17, Intimidation: +17, Purpose Lore: +15, Survival: +15"
+    desc: "Athletics: +17, Intimidation: +17, Survival: +15, Purpose Lore: +15"
 abilityMods: [6, 0, 4, 2, 4, 6]
 speed: 25 feet
 sourcebook: "_Pathfinder #164: Hands of the Devil_"
@@ -49,7 +50,7 @@ abilities_top:
   - name: "Items"
     desc: "[[Equipment/Tamchal Chakram|+1 Tamchal Chakram]], [[Equipment/Steel Shield|Steel Shield]]"
   - name: "War Leader"
-    desc: " (emotion,mental) A mulventok's fervor inspires its allies. Allies within 30 feet that can see or hear the mulventok gain a +1 status bonus to attack rolls and skill checks as long as their actions don't impede the mulventok's imprinted purpose.\n[[Bestiary Effects/Effect_ War Leader|Effect: War Leader]]"
+    desc: " (emotion,mental) A mulventok's fervor inspires its allies. Allies within 30 feet that can see or hear the mulventok gain a +1 status bonus to attack rolls and skill checks as long as their actions don't impede the mulventok's imprinted purpose.\n\n[[Bestiary Effects/Effect_ War Leader|Effect: War Leader]]"
 
 abilities_mid:
   - name: ""
@@ -57,7 +58,7 @@ abilities_mid:
     desc: " (occult,void) When a mulventok dies, its mirrored flesh ruptures and explodes in a 20-foot radius. Creatures caught in the blast are covered with viscera and take 8d6 void damage (DC 22 Reflex check save)."
 
   - name: "Stay in the Fight"
-    desc: "`pf2:r` (healing,occult) **Trigger** An allied creature within 30 feet reaches 0 HP\n**Effect** The mulventok imparts some of its own energy to keep the ally fighting. The target creature gains 1 Hit Point, and the mulventok takes 2d6 mental damage."
+    desc: "`pf2:r` (healing,occult) **Trigger** An allied creature within 30 feet reaches 0 HP\n* * *\n\n**Effect** The mulventok imparts some of its own energy to keep the ally fighting. The target creature gains 1 Hit Point, and the mulventok takes 2d6 mental damage."
 
 attacks:
   - name: ""
@@ -77,6 +78,12 @@ attacks:
   - name: "Psychokinetic Honing"
     desc: " (occult) A thrown weapon gains the effects of a _[[Equipment/Returning|Returning]]_ rune when a mulventok throws it. Thrown weapons the mulventok uses deal an additional 1d6 mental damage, whether used in melee or thrown."
  
+```
+
+```encounter-table
+name: Mulventok
+creatures:
+  - 1: Mulventok
 ```
 
 

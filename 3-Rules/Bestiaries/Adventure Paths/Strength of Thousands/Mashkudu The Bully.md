@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/human
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/5
 statblock: inline
 name: "Mashkudu The Bully"
@@ -23,13 +24,13 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #170: Spoken on the Song Wind"
 name: "Mashkudu The Bully"
 level: "Creature 5"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Medium"
-trait_01: "chaotic"
-trait_02: "evil"
-trait_03: "human"
-trait_04: "humanoid"
+trait_01: [[chaotic]]
+trait_02: [[evil]]
+trait_03: [[human]]
+trait_04: [[humanoid]]
 modifier: 13
 perception:
   - name: "Perception"
@@ -66,7 +67,7 @@ attacks:
     desc: "`pf2:1` Hand Crossbow +15 (range increment 60 feet, reload 1)\n__Damage__  1d6 piercing"
 
   - name: "Opportunistic Maneuver"
-    desc: "`pf2:r`  **Trigger** Mashkudu Shoves, Trips, or Disarms a creature\n**Effect** Mashkudu attempts a Thievery check to Steal an object the target carries."
+    desc: "`pf2:r`  **Trigger** Mashkudu Shoves, Trips, or Disarms a creature\n* * *\n\n**Effect** Mashkudu attempts a Thievery check to Steal an object the target carries."
 
   - name: "[[Bestiary Ability Glossary/Sneak Attack|Sneak Attack]]"
     desc: "  Mashkudu deals an extra 1d6 precision damage to [[Conditions/Off-Guard|Off-Guard]] creatures."
@@ -74,6 +75,12 @@ attacks:
   - name: "Surprise Attack"
     desc: "  On the first round of combat, creatures that haven't acted yet are [[Conditions/Off-Guard|Off-Guard]] to Mashkudu."
  
+```
+
+```encounter-table
+name: Mashkudu The Bully
+creatures:
+  - 1: Mashkudu The Bully
 ```
 
 

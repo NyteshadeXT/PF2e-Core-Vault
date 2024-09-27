@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/alchemical
   - pf2e/creature/type/mindless
   - pf2e/creature/type/ooze
+  - pf2eMonster
   - pf2e/creature/level/10
 statblock: inline
 name: "Whorl Ooze"
@@ -23,19 +24,20 @@ token: [[modules/battlezoo-bestiary-su-pf2e/art/Portraits/whorl-ooze.webp| ]]
 source: "Battlezoo Bestiary: Strange and Unusual"
 name: "Whorl Ooze"
 level: "Creature 10"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Large"
-trait_01: "alchemical"
-trait_02: "mindless"
-trait_03: "ooze"
+trait_01: [[alchemical]]
+trait_02: [[mindless]]
+trait_03: [[ooze]]
 modifier: 15
 perception:
   - name: "Perception"
-    desc: "+15; Motion Sense (Precise) 60 Feet"
+    desc: "+15; Motion Sense (Imprecise) 60 Feet"
+languages: ""
 skills:
   - name: "Skills"
-    desc: "Athletics: +22, "
+    desc: "Athletics: +22, Athletics: +22"
 abilityMods: [7, -4, 6, -5, 1, -5]
 speed: 20 feet
 sourcebook: "_Battlezoo Bestiary: Strange and Unusual_"
@@ -60,10 +62,10 @@ abilities_mid:
     desc: "  A whorl ooze gains an extra reaction each round. It can only use this reaction to Spin Whorls."
 
   - name: "Spin Whorls"
-    desc: "`pf2:r` (mental,visual) **Trigger** A creature that the whorl ooze can sense makes a ranged attack targeting the whorl ooze;\n**Effect** The patterns and spirals on the whorl ooze begin to spin and rotate hypnotically, overloading the creature's mind and distorting the creature's spatial reasoning. The creature must attempt a DC 26 Will check save.\n**Success** The creature is unaffected.\n**Failure** The creature takes 4d10 mental damage and is Sickened 1.\n**Critical Failure** The creature takes 8d10 mental damage and is Sickened 2, and the creature's ranged attack automatically fails."
+    desc: "`pf2:r` (mental,visual) **Trigger** A creature that the whorl ooze can sense makes a ranged attack targeting the whorl ooze;\n* * *\n\n**Effect** The patterns and spirals on the whorl ooze begin to spin and rotate hypnotically, overloading the creature's mind and distorting the creature's spatial reasoning. The creature must attempt a DC 26 Will check save.\n\n**Success** The creature is unaffected.\n\n**Failure** The creature takes 4d10 mental damage and is [[undefined]].\n\n**Critical Failure** The creature takes 8d10 mental damage and is [[undefined]], and the creature's ranged attack automatically fails."
 
   - name: "Transfixing Display"
-    desc: " (aura,mental,visual) 10 feet.\nA creature that enters or begins its turn within the aura must succeed at a DC 26 Fortitude check save or be Sickened 1 and also Dazzled for 1 round. Regardless of the result of the saving throw, the creature is temporarily immune to this ability for 24 hours."
+    desc: " (aura,mental,visual) 10 feet.\n\nA creature that enters or begins its turn within the aura must succeed at a DC 26 Fortitude check save or be [[undefined]] and also [[undefined]] for 1 round. Regardless of the result of the saving throw, the creature is temporarily immune to this ability for 24 hours."
 
 attacks:
   - name: ""
@@ -75,11 +77,17 @@ attacks:
     desc: "`pf2:1`  "
 
   - name: "Gelatinizing Strike"
-    desc: " (polymorph) When a whorl ooze critically succeeds at an attack against a creature, the creature liquefies into an ooze, as per the _Ooze Form_ spell unless it succeeds at a DC 26 Fortitude check save. Like the spell, this effect lasts for 1 minute, but each round, on the target's turn, it must attempt a DC 26 Will check save or it becomes Confused for the remaining duration of the transformation. While confused, the target doesn't attack other oozes. Roll 1d4 to determine the battle form, with the following results.\n  \n| d4 | Form |\n| --- | --- |\n| 1 | [[Spell Effects/Spell Effect_ Ooze Form (Black Pudding)\\|Black Pudding]] |\n| 2 | [[Spell Effects/Spell Effect_ Ooze Form (Gelatinous Cube)\\|Gelatinous Cube]] |\n| 3 | [[Spell Effects/Spell Effect_ Ooze Form (Gray Ooze)\\|Gray Ooze]] |\n| 4 | [[Spell Effects/Spell Effect_ Ooze Form (Ochre Jelly)\\|Ochre Jelly]] |"
+    desc: " (polymorph) When a whorl ooze critically succeeds at an attack against a creature, the creature liquefies into an ooze, as per the _[[Spells/Ooze Form|Ooze Form]]_ spell unless it succeeds at a DC 26 Fortitude check save. Like the spell, this effect lasts for 1 minute, but each round, on the target's turn, it must attempt a DC 26 Will check save or it becomes [[undefined]] for the remaining duration of the transformation. While confused, the target doesn't attack other oozes. Roll 1d4 to determine the battle form, with the following results.\n\n  \n\n| d4 | Form |\n| --- | --- |\n| 1 | [[Spell Effects/Spell Effect_ Ooze Form (Black Pudding)\\|Black Pudding]] |\n| 2 | [[Spell Effects/Spell Effect_ Ooze Form (Gelatinous Cube)\\|Gelatinous Cube]] |\n| 3 | [[Spell Effects/Spell Effect_ Ooze Form (Gray Ooze)\\|Gray Ooze]] |\n| 4 | [[Spell Effects/Spell Effect_ Ooze Form (Ochre Jelly)\\|Ochre Jelly]] |"
 
   - name: "Mind Vice"
-    desc: "`pf2:1` (mental) **Requirements** The whorl ooze has a creature Grabbed\n**Effect** While grabbed, the whorl ooze can overwhelm the creature's brain, dulling perception and dealing 2d12 + 9 mental damage, with a DC 26 Will check save. On a critical failure, the creature is also Stunned 1."
+    desc: "`pf2:1` (mental) **Requirements** The whorl ooze has a creature [[undefined]]\n* * *\n\n**Effect** While grabbed, the whorl ooze can overwhelm the creature's brain, dulling perception and dealing 2d12+9 mental damage, with a DC 26 Will check save. On a critical failure, the creature is also [[undefined]]."
  
+```
+
+```encounter-table
+name: Whorl Ooze
+creatures:
+  - 1: Whorl Ooze
 ```
 
 

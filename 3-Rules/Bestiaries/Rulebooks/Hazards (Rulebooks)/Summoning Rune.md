@@ -5,6 +5,7 @@ noteType: pf2eHazard
 tags:
   - magical
   - trap
+  - pf2eHazard
   - complex
   - remaster
 source: Pathfinder GM Core
@@ -23,14 +24,14 @@ name: "Summoning Rune"
 level: "Hazard 1"
 
 trait_06: "Complex"
-trait_01: "magical"
-trait_02: "trap"
+trait_01: [[magical]]
+trait_02: [[trap]]
 modifier: 7
 sourcebook: "_Pathfinder GM Core_"
 ac: 10
 armorclass:
   - name: AC
-    desc: "10; __Fort__ +0, __Ref__ +0, __Will__ +0"
+    desc: "10; "
 hp: 0
 health:
   - name: ""
@@ -52,10 +53,16 @@ attacks:
   - name: ""
 
   - name: "Summon Monster"
-    desc: "`pf2:r` (arcane, summon) **Trigger** A creature enters the cloud of magical sensors\n**Effect** This trap summons a specific 1st-level creature, determined when the trap is created. The creature rolls initiative and remains for 2d6 rounds, after which the spell ends and the creature disappears. The creature also disappears if someone disables the trap before the duration expires. The summoned creature can use 3 actions each round and can use reactions, unlike most summoned creatures."
+    desc: "`pf2:r` (arcane, summon) **Trigger** A creature enters the cloud of magical sensors\n* * *\n\n**Effect** This trap summons a specific 1st-level creature, determined when the trap is created. The creature rolls initiative and remains for 2d6 rounds, after which the spell ends and the creature disappears. The creature also disappears if someone disables the trap before the duration expires. The summoned creature can use 3 actions each round and can use reactions, unlike most summoned creatures."
 
 
   - name: "Reset"
     desc: "The trap resets each day at dawn."
+```
+
+```encounter-table
+name: Summoning Rune
+creatures:
+  - 1: Summoning Rune
 ```
 

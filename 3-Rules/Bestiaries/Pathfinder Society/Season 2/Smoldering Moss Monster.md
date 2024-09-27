@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.pfs-season-2-bestiary.Actor.E8mFpCpTrhiBfYcp"
 tags:
   - pf2e/creature/type/fire
   - pf2e/creature/type/plant
+  - pf2eMonster
   - pf2e/creature/level/3
 statblock: inline
 name: "Smoldering Moss Monster"
@@ -21,15 +22,16 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Society Scenario #2-17: Lost Maid of Anactoria"
 name: "Smoldering Moss Monster"
 level: "Creature 3"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Medium"
-trait_01: "fire"
-trait_02: "plant"
+trait_01: [[fire]]
+trait_02: [[plant]]
 modifier: 9
 perception:
   - name: "Perception"
     desc: "+9; "
+languages: ""
 skills:
   - name: "Skills"
     desc: "Athletics: +9"
@@ -51,7 +53,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Smoldering Stench"
-    desc: " (aura,olfactory) 5 feet. A creature entering the aura or starting its turn in the aura must attempt a DC 17 Fortitude check save.\n**Success** The creature is unaffected and is temporarily immune to for 1 minute.\n**Failure** The creature is [[Conditions/Sickened 1|Sickened 1]].\n**Critical Failure** The creature is [[Conditions/Sickened 1|Sickened 2]]."
+    desc: " (aura,olfactory) 5 feet. A creature entering the aura or starting its turn in the aura must attempt a DC 17 Fortitude check save.\n* * *\n\n**Success** The creature is unaffected and is temporarily immune to for 1 minute.\n\n**Failure** The creature is [[Conditions/Sickened|Sickened 1]].\n\n**Critical Failure** The creature is [[Conditions/Sickened|Sickened 2]]."
 
 attacks:
   - name: ""
@@ -62,6 +64,12 @@ attacks:
   - name: "Melee"
     desc: "`pf2:1` Flaming Peat Ball +10 (reload 1)\n__Damage__  3d6 bludgeoning 1d6 fire 1d4 fire"
  
+```
+
+```encounter-table
+name: Smoldering Moss Monster
+creatures:
+  - 1: Smoldering Moss Monster
 ```
 
 

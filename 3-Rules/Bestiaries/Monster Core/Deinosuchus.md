@@ -6,6 +6,7 @@ cssClasses: pf2e
 aliases: "Compendium.pf2e.pathfinder-monster-core.Actor.xC6v5Ef8mDt05QFK" 
 tags:
   - pf2e/creature/type/animal
+  - pf2eMonster
   - pf2e/creature/level/9
   - remaster
 statblock: inline
@@ -25,7 +26,7 @@ level: "Creature 9"
 
 alignment: ""
 size: "huge"
-trait_01: "animal"
+trait_01: [[animal]]
 modifier: 17
 perception:
   - name: "Perception"
@@ -33,7 +34,7 @@ perception:
 languages: ""
 skills:
   - name: "Skills"
-    desc: "Athletics: +20, Stealth: +16 (+20 in water)"
+    desc: "Athletics: +20, Stealth: +16"
 abilityMods: [7, 3, 5, -5, 2, -4]
 speed: 30 feet,  swim 40 feet
 sourcebook: "_Pathfinder Monster Core_"
@@ -67,11 +68,17 @@ attacks:
     desc: "`pf2:1`  50 feet"
 
   - name: "[[Bestiary Ability Glossary/Swallow Whole|Swallow Whole]]"
-    desc: "`pf2:1` (attack) Large, 2d8 + 7 bludgeoning, Rupture 18\n\n* * *\n"
+    desc: "`pf2:1` (attack) Large, 2d8+7 bludgeoning, Rupture 18\n\n* * *\n"
 
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
     desc: "`pf2:1`  "
  
+```
+
+```encounter-table
+name: Deinosuchus
+creatures:
+  - 1: Deinosuchus
 ```
 
 

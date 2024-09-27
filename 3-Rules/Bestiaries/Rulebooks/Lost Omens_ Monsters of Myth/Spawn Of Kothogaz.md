@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.lost-omens-monsters-of-myth-bestiary.Actor.CgNC8uWPrJb
 tags:
   - pf2e/creature/type/beast
   - pf2e/creature/type/evil
+  - pf2eMonster
   - pf2e/creature/level/6
 statblock: inline
 name: "Spawn Of Kothogaz"
@@ -21,15 +22,16 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Lost Omens: Monsters of Myth"
 name: "Spawn Of Kothogaz"
 level: "Creature 6"
-rare_03: "Rare"
+rare_03: [[Rare]]
 alignment: ""
 size: "Large"
-trait_01: "beast"
-trait_02: "evil"
+trait_01: [[beast]]
+trait_02: [[evil]]
 modifier: 14
 perception:
   - name: "Perception"
     desc: "+14; "
+languages: ""
 skills:
   - name: "Skills"
     desc: "Acrobatics: +15, Athletics: +14, Stealth: +13"
@@ -66,8 +68,14 @@ attacks:
     desc: "`pf2:1` Putrid Spit +17 (range increment 60 feet)\n__Damage__  2d8 + 4 acid"
 
   - name: "Fusing Spit"
-    desc: "`pf2:2` (acid) The spawn retches up thick, caustic sludge and spits it at a creature within 60 feet, causing equipment and flesh to melt and partially fuse together. The creature must succeed at a DC 23 Reflex check save or be [[Conditions/Clumsy 1|Clumsy 2]] for 1 minute."
+    desc: "`pf2:2` (acid) The spawn retches up thick, caustic sludge and spits it at a creature within 60 feet, causing equipment and flesh to melt and partially fuse together. The creature must succeed at a DC 23 Reflex check save or be [[Conditions/Clumsy|Clumsy 2]] for 1 minute."
  
+```
+
+```encounter-table
+name: Spawn Of Kothogaz
+creatures:
+  - 1: Spawn Of Kothogaz
 ```
 
 

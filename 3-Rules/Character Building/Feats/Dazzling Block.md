@@ -13,7 +13,7 @@ license: OGL
 ---
 # Dazzling Block
 ## Feat 10
-### [[3-Rules/Character Building/Spells/Light]][[magus]][[visual]]
+### [[light]][[magus]][[visual]]
 
 **Category** class; 
 
@@ -25,7 +25,7 @@ license: OGL
 
 * * *
 
-When you use [[Feats/Shield Block|Shield Block]], you can create a flash of brilliant, multicolored light in a 15-foot cone. Each creature in the area must attempt a Fortitude check save, with the following effects.
+When you use [[Feats/Shield Block|Shield Block]], you can create a flash of brilliant, multicolored light in a @Template\[cone|distance:15\]. Each creature in the area must attempt a Fortitude check save, with the following effects.
 
 * * *
 

@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/undead
   - pf2e/creature/type/unholy
+  - pf2eMonster
   - pf2e/creature/level/5
 statblock: inline
 name: "Bone Croupier"
@@ -25,9 +26,9 @@ level: "Creature 5"
 
 alignment: ""
 size: "Medium"
-trait_01: "evil"
-trait_02: "undead"
-trait_03: "unholy"
+trait_01: [[evil]]
+trait_02: [[undead]]
+trait_03: [[unholy]]
 modifier: 11
 perception:
   - name: "Perception"
@@ -35,7 +36,7 @@ perception:
 languages: "Common"
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +14, Deception: +14, Diplomacy: +14, Gambling Lore: +12, Stealth: +14, Thievery: +14"
+    desc: "Acrobatics: +14, Deception: +14, Diplomacy: +14, Stealth: +14, Thievery: +14, Gambling Lore: +12"
 abilityMods: [2, 5, 2, 1, 2, 5]
 speed: 25 feet
 sourcebook: "_Pathfinder #151: The Show Must Go On_"
@@ -63,11 +64,17 @@ attacks:
     desc: "DC 22, attack +14; __4th __  _[[Spells/Discern Lies|Discern Lies]]_; __3rd __  _[[Spells/Mind Reading|Mind Reading]]_; __1st __  _[[Spells/Illusory Disguise|Illusory Disguise]]_\n__Cantrips__  __(3rd)__ _[[Spells/Prestidigitation|Prestidigitation]]_"
 
   - name: "Change of Luck"
-    desc: " (misfortune,occult) **Frequency** once per day\n**Trigger** A creature within 30 feet of the bone croupier attempts a check that uses a d20, but hasn't rolled yet\n**Effect** The bone croupier pulls on the threads of luck that bind all things. Instead of rolling its check, the target automatically gets a failure."
+    desc: " (misfortune,occult) **Frequency** once per day\n\n**Trigger** A creature within 30 feet of the bone croupier attempts a check that uses a d20, but hasn't rolled yet\n* * *\n\n**Effect** The bone croupier pulls on the threads of luck that bind all things. Instead of rolling its check, the target automatically gets a failure."
 
   - name: "Roll the Bones"
-    desc: "`pf2:2` (death,occult) The bone croupier targets an adjacent creature that is [[Conditions/Dying 1|Dying]]. That creature can either increase its dying value by 1 or roll a 1d4. On a 4, the creature is no longer dying and is [[Conditions/Unconscious|Unconscious]] at 0 HP. On a 1, 2, or 3, however, the creature increases its dying value by that amount. Regardless, the creature is temporarily immune for the next 24 hours."
+    desc: "`pf2:2` (death,occult) The bone croupier targets an adjacent creature that is [[Conditions/Dying|Dying]]. That creature can either increase its dying value by 1 or roll a 1d4. On a 4, the creature is no longer dying and is [[Conditions/Unconscious|Unconscious]] at 0 HP. On a 1, 2, or 3, however, the creature increases its dying value by that amount. Regardless, the creature is temporarily immune for the next 24 hours."
  
+```
+
+```encounter-table
+name: Bone Croupier
+creatures:
+  - 1: Bone Croupier
 ```
 
 

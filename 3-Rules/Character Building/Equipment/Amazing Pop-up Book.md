@@ -4,6 +4,7 @@ title: "Amazing Pop-up Book"
 cssclasses: pf2e,pf2e-spell
 tags:
   - trait/grimoire
+  - trait/illusion
   - trait/magical
   - trait/uncommon
 aliases: "Compendium.pf2e.equipment-srd.Item.FzwSBVaSTt1s4A66"
@@ -11,7 +12,7 @@ license: OGL
 ---
 # Amazing Pop-up Book
 ## Item 11
-### [uncommon](uncommon "Uncommon Rarity Trait")[[grimoire]][[magical]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[grimoire]][[illusion]][[3-Rules/Rule References/Magical]]
 
 
 **Price** 1250 gp; 

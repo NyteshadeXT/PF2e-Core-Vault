@@ -5,6 +5,7 @@ noteType: pf2eHazard
 tags:
   - magical
   - trap
+  - pf2eHazard
   - complex
 source: Pathfinder Adventure: Crown of the Kobold King
 aliases: "Compendium.pf2e.crown-of-the-kobold-king-bestiary.Actor.AnNKQvx9HlUXN4bD" 
@@ -22,14 +23,14 @@ name: "Toxic Furnace"
 level: "Hazard 6"
 
 trait_06: "Complex"
-trait_01: "magical"
-trait_02: "trap"
+trait_01: [[magical]]
+trait_02: [[trap]]
 modifier: 5
 sourcebook: "_Pathfinder Adventure: Crown of the Kobold King_"
 ac: 24
 armorclass:
   - name: AC
-    desc: "24; __Fort__ +17, __Ref__ +11, __Will__ +0"
+    desc: "24; __Fort__ +17, __Ref__ +11, "
 hp: 56
 health:
   - name: ""
@@ -51,7 +52,7 @@ attacks:
   - name: ""
 
   - name: "Spew Toxins"
-    desc: "`pf2:r` **Trigger** A visible living creature enters the room, or a Stealthy creature fails to remain [[Conditions/Hidden|Hidden]] from the toxic furnace with a DC 25 Stealth check check (the trap's sensors have darkvision and lifesense);\n**Effect** One of the toxic furnace's vents swivels to aim at the triggering creature and then spews a gout of boiling toxin at the target. The toxic furnace then rolls initiative."
+    desc: "`pf2:r` **Trigger** A visible living creature enters the room, or a Stealthy creature fails to remain [[Conditions/Hidden|Hidden]] from the toxic furnace with a DC 25 Stealth check check (the trap's sensors have darkvision and lifesense);\n\n**Effect** One of the toxic furnace's vents swivels to aim at the triggering creature and then spews a gout of boiling toxin at the target. The toxic furnace then rolls initiative."
   - name: "Melee"
     desc: "Boiling Toxin +17 (range 30 feet) "
 
@@ -59,5 +60,11 @@ attacks:
     desc: "(3 actions) The trap loses 1 action for each disabled vent. On each of the trap's actions, a vent spews a gout of boiling toxin at a living creature in sight of it. It can't target a single creature more than once per round, so if there aren't enough viable targets for all 3 actions, the trap loses those unspent actions."
   - name: "Reset"
     desc: "The trap resets after 1 minute, during which it sees no creatures to target."
+```
+
+```encounter-table
+name: Toxic Furnace
+creatures:
+  - 1: Toxic Furnace
 ```
 

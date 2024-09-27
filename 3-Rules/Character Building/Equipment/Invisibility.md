@@ -3,6 +3,7 @@ obsidianUIMode: preview
 title: "Invisibility"
 cssclasses: pf2e,pf2e-spell
 tags:
+  - trait/illusion
   - trait/magical
   - trait/common
   - remaster
@@ -11,7 +12,7 @@ license: ORC
 ---
 # Invisibility
 ## Item 8
-### [[magical]]
+### [[illusion]][[magical]]
 
 
 **Price** 500 gp; 

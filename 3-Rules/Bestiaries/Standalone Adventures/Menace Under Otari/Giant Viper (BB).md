@@ -6,6 +6,7 @@ cssClasses: pf2e
 aliases: "Compendium.pf2e.menace-under-otari-bestiary.Actor.KsWAIXTTh3mfNWOY" 
 tags:
   - pf2e/creature/type/animal
+  - pf2eMonster
   - pf2e/creature/level/2
   - remaster
 statblock: inline
@@ -24,11 +25,12 @@ level: "Creature 2"
 
 alignment: ""
 size: "Medium"
-trait_01: "animal"
+trait_01: [[animal]]
 modifier: 7
 perception:
   - name: "Perception"
     desc: "+7; Low-Light Vision"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Acrobatics: +9, Athletics: +8, Stealth: +8, Survival: +6"
@@ -64,6 +66,12 @@ attacks:
   - name: "Giant Viper Venom"
     desc: " (poison) A target damaged by the snake's fangs must succeed at a DC 17 Fortitude check save or take 1d8 poison damage."
  
+```
+
+```encounter-table
+name: Giant Viper (BB)
+creatures:
+  - 1: Giant Viper (BB)
 ```
 
 

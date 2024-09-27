@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/good
   - pf2e/creature/type/humanoid
   - pf2e/creature/type/shoony
+  - pf2eMonster
   - pf2e/creature/level/4
 statblock: inline
 name: "Shoony Hierarch"
@@ -22,12 +23,12 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #153: Life&#x27;s Long Shadows"
 name: "Shoony Hierarch"
 level: "Creature 4"
-rare_03: "Rare"
+rare_03: [[Rare]]
 alignment: ""
 size: "Small"
-trait_01: "good"
-trait_02: "humanoid"
-trait_03: "shoony"
+trait_01: [[good]]
+trait_02: [[humanoid]]
+trait_03: [[shoony]]
 modifier: 12
 perception:
   - name: "Perception"
@@ -35,7 +36,7 @@ perception:
 languages: "Common, Shoony"
 skills:
   - name: "Skills"
-    desc: "Crafting: +11, Diplomacy: +12, Shoony Lore: +13, Society: +13, Survival: +11"
+    desc: "Crafting: +11, Diplomacy: +12, Society: +13, Survival: +11, Shoony Lore: +13"
 abilityMods: [0, 2, -1, 3, 3, 4]
 speed: 25 feet
 sourcebook: "_Pathfinder #153: Life&#x27;s Long Shadows_"
@@ -72,6 +73,12 @@ attacks:
   - name: "Signal Arrow"
     desc: "`pf2:2`  The shoony hierarch sparks and launches an alchemically treated arrow that creates a bright light high in the sky. A signal arrow cannot be used to deal damage. Hierarchs carry a number of different arrows that signal different things; a red signal arrow might mean retreat, whereas a green arrow might be a call to gather in the village commons."
  
+```
+
+```encounter-table
+name: Shoony Hierarch
+creatures:
+  - 1: Shoony Hierarch
 ```
 
 

@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/humanoid
   - pf2e/creature/type/orc
+  - pf2eMonster
   - pf2e/creature/level/4
 statblock: inline
 name: "The Sculptor"
@@ -23,13 +24,13 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Adventure: The Fall of Plaguestone"
 name: "The Sculptor"
 level: "Creature 4"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Medium"
-trait_01: "chaotic"
-trait_02: "evil"
-trait_03: "humanoid"
-trait_04: "orc"
+trait_01: [[chaotic]]
+trait_02: [[evil]]
+trait_03: [[humanoid]]
+trait_04: [[orc]]
 modifier: 9
 perception:
   - name: "Perception"
@@ -86,6 +87,12 @@ attacks:
   - name: "Quick Bomber"
     desc: "`pf2:1`  The Sculptor can use Interact to draw a bomb and then Strike with it."
  
+```
+
+```encounter-table
+name: The Sculptor
+creatures:
+  - 1: The Sculptor
 ```
 
 

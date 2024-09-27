@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/beast
   - pf2e/creature/type/chaotic
   - pf2e/creature/type/evil
+  - pf2eMonster
   - pf2e/creature/level/12
 statblock: inline
 name: "Catoblepas"
@@ -26,9 +27,9 @@ level: "Creature 12"
 
 alignment: ""
 size: "Large"
-trait_01: "beast"
-trait_02: "chaotic"
-trait_03: "evil"
+trait_01: [[beast]]
+trait_02: [[chaotic]]
+trait_03: [[evil]]
 modifier: 22
 perception:
   - name: "Perception"
@@ -36,7 +37,7 @@ perception:
 languages: "Aklo"
 skills:
   - name: "Skills"
-    desc: "Athletics: +25, Intimidation: +20, Stealth: +22 (+24 in swamps), Survival: +20"
+    desc: "Athletics: +25, Intimidation: +20, Stealth: +22, Survival: +20"
 abilityMods: [7, 4, 6, -2, 4, 2]
 speed: 35 feet,  swim 20 feet
 sourcebook: "_Pathfinder Bestiary 2_"
@@ -53,7 +54,7 @@ abilities_top:
   - name: ""
 
   - name: "Stench"
-    desc: " (aura,disease,olfactory) 30 feet. A creature entering the aura or starting its turn in the aura must succeed at a DC 30 Fortitude check save or become [[Conditions/Sickened 1|Sickened 1]] (plus [[Conditions/Slowed 1|Slowed 1]] for as long as itʼs sickened on a critical failure).\nWhile within the aura, affected creatures take a -2 circumstance penalty to saves against disease and to recover from the sickened condition. A creature that succeeds at its save is temporarily immune for 1 minute."
+    desc: " (aura,disease,olfactory) 30 feet. A creature entering the aura or starting its turn in the aura must succeed at a DC 30 Fortitude check save or become [[Conditions/Sickened|Sickened 1]] (plus [[Conditions/Slowed|Slowed 1]] for as long as itʼs sickened on a critical failure).\n\nWhile within the aura, affected creatures take a -2 circumstance penalty to saves against disease and to recover from the sickened condition. A creature that succeeds at its save is temporarily immune for 1 minute."
 
 abilities_mid:
   - name: ""
@@ -73,11 +74,17 @@ attacks:
     desc: "`pf2:1` Hoof +23 (magical)\n__Damage__  3d10 + 11 bludgeoning"
 
   - name: "Breath Weapon"
-    desc: "`pf2:2` (poison,primal) The catoblepas breathes a 60-foot cone of horrid fumes, dealing 13d6 poison damage (DC 32 Fortitude check save). The area of this cone is reduced to 30 feet underwater. Targets that fail their saving throw also become [[Conditions/Sickened 1|Sickened 1]] ([[Conditions/Sickened 1|Sickened 2]] on a critical failure).\nThe catoblepas can't use its Breath Weapon again for 1d4 rounds."
+    desc: "`pf2:2` (poison,primal) The catoblepas breathes a @Template[cone|distance:60] of horrid fumes, dealing 13d6 poison damage (DC 32 Fortitude check save). The area of this cone is reduced to 30 feet underwater. Targets that fail their saving throw also become [[Conditions/Sickened|Sickened 1]] ([[Conditions/Sickened|Sickened 2]] on a critical failure).\n\nThe catoblepas can't use its Breath Weapon again for 1d4 rounds."
 
   - name: "[[Bestiary Ability Glossary/Trample|Trample]]"
-    desc: "`pf2:3`  Medium or smaller, hoof, DC 32 Reflex check\n"
+    desc: "`pf2:3`  Medium or smaller, hoof, DC 32 Reflex check\n\n* * *\n"
  
+```
+
+```encounter-table
+name: Catoblepas
+creatures:
+  - 1: Catoblepas
 ```
 
 

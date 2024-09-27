@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.pathfinder-monster-core.Actor.CYt04IKRQeiC9Ly9"
 tags:
   - pf2e/creature/type/animal
   - pf2e/creature/type/dinosaur
+  - pf2eMonster
   - pf2e/creature/level/6
   - remaster
 statblock: inline
@@ -26,8 +27,8 @@ level: "Creature 6"
 
 alignment: ""
 size: "huge"
-trait_01: "animal"
-trait_02: "dinosaur"
+trait_01: [[animal]]
+trait_02: [[dinosaur]]
 modifier: 12
 perception:
   - name: "Perception"
@@ -63,11 +64,17 @@ attacks:
     desc: "`pf2:1` Foot +17 (reach 10 feet)\n__Damage__  2d6 + 7 bludgeoning"
 
   - name: "Punishing Tail"
-    desc: "  A creature struck by the ankylosaurus's tail must attempt a DC 24 Fortitude check save.\n\nOn a failure, it's [[Conditions/Stunned 1|Stunned 1]]; on a critical failure, it's [[Conditions/Stunned 1|Stunned 3]]."
+    desc: "  A creature struck by the ankylosaurus's tail must attempt a DC 24 Fortitude check save.\n\nOn a failure, it's [[Conditions/Stunned|Stunned 1]]; on a critical failure, it's [[Conditions/Stunned|Stunned 3]]."
 
   - name: "[[Bestiary Ability Glossary/Trample|Trample]]"
     desc: "`pf2:3`  Medium or smaller, foot, DC 24 Reflex check\n\n* * *\n"
  
+```
+
+```encounter-table
+name: Ankylosaurus
+creatures:
+  - 1: Ankylosaurus
 ```
 
 

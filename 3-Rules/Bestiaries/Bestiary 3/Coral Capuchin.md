@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.pathfinder-bestiary-3.Actor.Vt28ucE0FUJYl1fD"
 tags:
   - pf2e/creature/type/amphibious
   - pf2e/creature/type/beast
+  - pf2eMonster
   - pf2e/creature/level/1
 statblock: inline
 name: "Coral Capuchin"
@@ -25,8 +26,8 @@ level: "Creature 1"
 
 alignment: ""
 size: "tiny"
-trait_01: "amphibious"
-trait_02: "beast"
+trait_01: [[amphibious]]
+trait_02: [[beast]]
 modifier: 8
 perception:
   - name: "Perception"
@@ -62,8 +63,14 @@ attacks:
     desc: "`pf2:1` Jaws +9 (agile, finesse)\n__Damage__  1d8 piercing plus capuchins-curse"
 
   - name: "Capuchin's Curse"
-    desc: " (curse,divine) If a capuchin damages a creature with its jaws Strike, the creature gains both a blessing and a curse that last for 1d6 hours.\nWhile the blessing doubles the amount of time that the affected creature can hold its breath, the curse imposes a quickened version of the capuchin's moisture dependency, taking 1d6 damage every 10 minutes they go without water.\nA cursed creature can fully immerse itself in water as a 3-action activity to attempt a DC 17 Fortitude check save, ending both the blessing and the curse on a success."
+    desc: " (curse,divine) If a capuchin damages a creature with its jaws Strike, the creature gains both a blessing and a curse that last for 1d6 hours.\n\nWhile the blessing doubles the amount of time that the affected creature can hold its breath, the curse imposes a quickened version of the capuchin's moisture dependency, taking 1d6 damage every 10 minutes they go without water.\n\nA cursed creature can fully immerse itself in water as a 3-action activity to attempt a DC 17 Fortitude check save, ending both the blessing and the curse on a success."
  
+```
+
+```encounter-table
+name: Coral Capuchin
+creatures:
+  - 1: Coral Capuchin
 ```
 
 

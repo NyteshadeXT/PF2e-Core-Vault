@@ -17,7 +17,7 @@ license: OGL
 
 
 
-**Minor Curse** Asmodeus's flames burn you with great malice. You gain weakness 5 to fire.
+Asmodeus's flames burn you with great malice. You gain weakness 5 to fire.
 
 *Source: Pathfinder Lost Omens: Gods & Magic*
 *OGL*

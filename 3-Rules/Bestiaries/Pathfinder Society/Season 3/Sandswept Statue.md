@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/earth
   - pf2e/creature/type/evil
   - pf2e/creature/type/mindless
+  - pf2eMonster
   - pf2e/creature/level/3
 statblock: inline
 name: "Sandswept Statue"
@@ -23,17 +24,18 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Society Scenario #3-09: The Secluded Siege"
 name: "Sandswept Statue"
 level: "Creature 3"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Medium"
-trait_01: "construct"
-trait_02: "earth"
-trait_03: "evil"
-trait_04: "mindless"
+trait_01: [[construct]]
+trait_02: [[earth]]
+trait_03: [[evil]]
+trait_04: [[mindless]]
 modifier: 9
 perception:
   - name: "Perception"
     desc: "+9; Darkvision"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Acrobatics: +11"
@@ -55,7 +57,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Construct Armor (Hardness 6)"
-    desc: "  Like normal objects, an animated statue has Hardness. This Hardness reduces any damage it takes by an amount equal to the Hardness.\nOnce an animated statue is reduced to less than half its Hit Points, or immediately upon being damaged by a critical hit, its construct armor breaks and its Armor Class is reduced to 15."
+    desc: "  Like normal objects, an animated statue has Hardness. This Hardness reduces any damage it takes by an amount equal to the Hardness.\n\nOnce an animated statue is reduced to less than half its Hit Points, or immediately upon being damaged by a critical hit, its construct armor breaks and its Armor Class is reduced to 15."
 
 attacks:
   - name: ""
@@ -66,6 +68,12 @@ attacks:
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
     desc: "`pf2:1`  "
  
+```
+
+```encounter-table
+name: Sandswept Statue
+creatures:
+  - 1: Sandswept Statue
 ```
 
 

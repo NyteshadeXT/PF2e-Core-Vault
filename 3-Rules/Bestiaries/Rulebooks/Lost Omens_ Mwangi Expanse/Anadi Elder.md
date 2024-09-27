@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/chaotic
   - pf2e/creature/type/good
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/6
 statblock: inline
 name: "Anadi Elder"
@@ -23,13 +24,13 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Lost Omens: The Mwangi Expanse"
 name: "Anadi Elder"
 level: "Creature 6"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Medium"
-trait_01: "anadi"
-trait_02: "chaotic"
-trait_03: "good"
-trait_04: "humanoid"
+trait_01: [[anadi]]
+trait_02: [[chaotic]]
+trait_03: [[good]]
+trait_04: [[humanoid]]
 modifier: 15
 perception:
   - name: "Perception"
@@ -37,7 +38,7 @@ perception:
 languages: "Anadi, Mwangi"
 skills:
   - name: "Skills"
-    desc: "Athletics: +15 (+17 to Climb in hybrid or spider form), Crafting: +13 (+17 to weaving), Deception: +13, Diplomacy: +11, Nature: +15, Society: +11, Survival: +13"
+    desc: "Athletics: +15, Crafting: +13, Deception: +13, Diplomacy: +11, Nature: +15, Society: +11, Survival: +13"
 abilityMods: [2, 4, 0, 1, 4, 2]
 speed: 25 feet,  climb 25 feet
 sourcebook: "_Pathfinder Lost Omens: The Mwangi Expanse_"
@@ -69,17 +70,23 @@ attacks:
     desc: "`pf2:1` Composite Longbow +16 (deadly d10, propulsive, range increment 100 feet, reload 0, volley 30 ft.)\n__Damage__  1d8 + 1 piercing"
 
   - name: "Arcane Innate Spells"
-    desc: "DC 24, attack +16; __3rd __  _[[Spells/Hypnotize|Hypnotic Pattern]]_, _[[Spells/Invisibility Sphere|Invisibility Sphere]]_; __2nd __  _[[Spells/Blur|Blur]]_, _[[Spells/Invisibility|Invisibility]]_, _[[Spells/Mirror Image|Mirror Image]]_; __1st __  _[[Spells/Dizzying Colors|Color Spray]]_, _[[Spells/Illusory Disguise|Illusory Disguise]]_, _[[Spells/Illusory Object|Illusory Object]]_\n__Cantrips__  __(3rd)__ _[[Spells/Detect Magic|Detect Magic]]_, _[[Spells/Electric Arc|Electric Arc]]_, _[[Spells/Ghost Sound|Ghost Sound]]_, _[[Spells/Telekinetic Hand|Mage Hand]]_, _[[Spells/Message|Message]]_"
+    desc: "DC 24, attack +16; __3rd __  _[[Spells/Hypnotize|Hypnotic Pattern]]_, _[[Spells/Shared Invisibility|Invisibility Sphere]]_; __2nd __  _[[Spells/Blur|Blur]]_, _[[Spells/Invisibility|Invisibility]]_, _[[Spells/Mirror Image|Mirror Image]]_; __1st __  _[[Spells/Dizzying Colors|Color Spray]]_, _[[Spells/Illusory Disguise|Illusory Disguise]]_, _[[Spells/Illusory Object|Illusory Object]]_\n__Cantrips__  __(3rd)__ _[[Spells/Detect Magic|Detect Magic]]_, _[[Spells/Electric Arc|Electric Arc]]_, _[[Spells/Ghost Sound|Ghost Sound]]_, _[[Spells/Telekinetic Hand|Mage Hand]]_, _[[Spells/Message|Message]]_"
 
   - name: "Anadi Venom"
-    desc: " (poison) **Saving Throw** DC 22 Fortitude check\n**Maximum Duration** 4 rounds\n**Stage 1** 2d6 poison damage and [[Conditions/Off-Guard|Off-Guard]] (1 round)\n**Stage 2** 1d6 poison damage, off-guard, and [[Conditions/Clumsy 1|Clumsy 1]] (1 round)"
+    desc: " (poison) **Saving Throw** DC 22 Fortitude check\n\n**Maximum Duration** 4 rounds\n\n**Stage 1** 2d6 poison damage and [[Conditions/Off-Guard|Off-Guard]] (1 round)\n\n**Stage 2** 1d6 poison damage, off-guard, and [[Conditions/Clumsy|Clumsy 1]] (1 round)"
 
   - name: "[[Bestiary Ability Glossary/Change Shape|Change Shape]]"
-    desc: "`pf2:1` (arcane,concentrate,polymorph) The anadi changes into their hybrid form, spider form, or human form. The above statistics assume the anadi is in their hybrid form. While in their human form, the anadi elder can't use their fangs attack and loses their climb Speed. When in spider form, they can't use weapons.\n"
+    desc: "`pf2:1` (arcane,concentrate,polymorph) The anadi changes into their hybrid form, spider form, or human form. The above statistics assume the anadi is in their hybrid form. While in their human form, the anadi elder can't use their fangs attack and loses their climb Speed. When in spider form, they can't use weapons.\n\n* * *\n"
 
   - name: "Spin Silk"
     desc: " (concentrate,exploration,manipulate) By spending several minutes, an anadi can produce silk to craft items made of cloth. A single anadi can produce enough silk in a day to craft a single garment."
  
+```
+
+```encounter-table
+name: Anadi Elder
+creatures:
+  - 1: Anadi Elder
 ```
 
 

@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/lawful
   - pf2e/creature/type/undead
   - pf2e/creature/type/unholy
+  - pf2eMonster
   - pf2e/creature/level/6
 statblock: inline
 name: "Kurobozu"
@@ -24,13 +25,13 @@ token: [[modules/pf2e-tokens-bestiaries/portraits/undead/kurobozu.webp| ]]
 source: "Pathfinder Bestiary 3"
 name: "Kurobozu"
 level: "Creature 6"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Medium"
-trait_01: "evil"
-trait_02: "lawful"
-trait_03: "undead"
-trait_04: "unholy"
+trait_01: [[evil]]
+trait_02: [[lawful]]
+trait_03: [[undead]]
+trait_04: [[unholy]]
 modifier: 14
 perception:
   - name: "Perception"
@@ -38,7 +39,7 @@ perception:
 languages: "Common"
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +14, Athletics: +15, Monastic Lore: +11, Stealth: +14"
+    desc: "Acrobatics: +14, Athletics: +15, Stealth: +14, Monastic Lore: +11"
 abilityMods: [5, 4, 2, 1, 4, 2]
 speed: 35 feet
 sourcebook: "_Pathfinder Bestiary 3_"
@@ -63,20 +64,26 @@ attacks:
     desc: "`pf2:1` Fist +17 (agile, magical)\n__Damage__  1d6 + 8 bludgeoning plus sagebane 1d4 void plus sagebane"
 
   - name: "Black Apoxia"
-    desc: " (disease) The target can't recover from the fatigued condition caused by black apoxia until the disease is cured\n**Saving Throw** DC 24 Fortitude check\n**Stage 1** carrier with no ill effect (1 day)\n**Stage 2** [[Conditions/Drained 1|Drained 1]] and [[Conditions/Fatigued|Fatigued]] (1 day)\n**Stage 3** [[Conditions/Drained 1|Drained 2]] and fatigued (1 day)\n**Stage 4** dead"
+    desc: " (disease) The target can't recover from the fatigued condition caused by black apoxia until the disease is cured\n\n**Saving Throw** DC 24 Fortitude check\n* * *\n\n**Stage 1** carrier with no ill effect (1 day)\n\n**Stage 2** [[Conditions/Drained|Drained 1]] and [[Conditions/Fatigued|Fatigued]] (1 day)\n\n**Stage 3** [[Conditions/Drained|Drained 2]] and fatigued (1 day)\n\n**Stage 4** dead"
 
   - name: "Brawling Critical"
-    desc: "  When the kurobozu scores a critical hit with an unarmed attack, the target must succeed at a DC 22 Fortitude check save or be [[Conditions/Slowed 1|Slowed 1]] until the end of its next turn."
+    desc: "  When the kurobozu scores a critical hit with an unarmed attack, the target must succeed at a DC 22 Fortitude check save or be [[Conditions/Slowed|Slowed 1]] until the end of its next turn."
 
   - name: "Sagebane"
-    desc: " (occult) When the kurobozu damages a living creature with an unarmed Strike, the target must succeed at a DC 24 Fortitude check save or become [[Conditions/Stupefied 1|Stupefied 1]] for 1 minute.\nFurther damage dealt by the kurobozu resets the duration to 1 minute and increases the stupefied value by 1 on a failed save, to a maximum of stupefied 4."
+    desc: " (occult) When the kurobozu damages a living creature with an unarmed Strike, the target must succeed at a DC 24 Fortitude check save or become [[Conditions/Stupefied|Stupefied 1]] for 1 minute.\n\nFurther damage dealt by the kurobozu resets the duration to 1 minute and increases the stupefied value by 1 on a failed save, to a maximum of stupefied 4."
 
   - name: "Steal Breath"
-    desc: "`pf2:2` (incapacitation,occult) **Requirements** The kurobozu is adjacent to a living creature that is [[Conditions/Paralyzed|Paralyzed]], [[Conditions/Slowed 1|Slowed]], [[Conditions/Stunned 1|Stunned]], or [[Conditions/Unconscious|Unconscious]]\n**Effect** The kurobozu leans over and sucks the breath from the target, who must attempt a DC 22 Fortitude check save. Regardless of the result, the creature is exposed to black apoxia and its breath reeks of carrion for 1 minute.\n**Critical Success** The creature is unaffected.\n**Success** The creature can't speak for 1 minute.\n**Failure** The creature becomes [[Conditions/Sickened 1|Sickened 2]] and can't speak for 1 minute.\n**Critical Failure** As failure, plus the creature falls [[Conditions/Unconscious|Unconscious]] and begins suffocating."
+    desc: "`pf2:2` (incapacitation,occult) **Requirements** The kurobozu is adjacent to a living creature that is [[Conditions/Paralyzed|Paralyzed]], [[Conditions/Slowed|Slowed]], [[Conditions/Stunned|Stunned]], or [[Conditions/Unconscious|Unconscious]]\n* * *\n\n**Effect** The kurobozu leans over and sucks the breath from the target, who must attempt a DC 22 Fortitude check save. Regardless of the result, the creature is exposed to black apoxia and its breath reeks of carrion for 1 minute.\n* * *\n\n**Critical Success** The creature is unaffected.\n\n**Success** The creature can't speak for 1 minute.\n\n**Failure** The creature becomes [[Conditions/Sickened|Sickened 2]] and can't speak for 1 minute.\n\n**Critical Failure** As failure, plus the creature falls [[Conditions/Unconscious|Unconscious]] and begins suffocating."
 
   - name: "Stunning Flurry"
-    desc: "`pf2:1`  **Frequency** once per round\n**Effect** The kurobozu makes two unarmed Strikes. If both hit the same creature, combine their damage for the purpose of resistances and weaknesses, and the target must succeed at a DC 22 Fortitude check save or be [[Conditions/Stunned 1|Stunned 1]] (or [[Conditions/Stunned 1|Stunned 3]] on a critical failure); this save has the incapacitation trait."
+    desc: "`pf2:1`  **Frequency** once per round\n* * *\n\n**Effect** The kurobozu makes two unarmed Strikes. If both hit the same creature, combine their damage for the purpose of resistances and weaknesses, and the target must succeed at a DC 22 Fortitude check save or be [[Conditions/Stunned|Stunned 1]] (or [[Conditions/Stunned|Stunned 3]] on a critical failure); this save has the incapacitation trait."
  
+```
+
+```encounter-table
+name: Kurobozu
+creatures:
+  - 1: Kurobozu
 ```
 
 

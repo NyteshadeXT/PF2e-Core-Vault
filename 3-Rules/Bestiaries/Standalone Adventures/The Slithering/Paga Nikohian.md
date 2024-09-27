@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/halfling
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/9
 statblock: inline
 name: "Paga Nikohian"
@@ -22,12 +23,12 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Adventure: The Slithering"
 name: "Paga Nikohian"
 level: "Creature 9"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Small"
-trait_01: "evil"
-trait_02: "halfling"
-trait_03: "humanoid"
+trait_01: [[evil]]
+trait_02: [[halfling]]
+trait_03: [[humanoid]]
 modifier: 19
 perception:
   - name: "Perception"
@@ -35,7 +36,7 @@ perception:
 languages: "Common, Dwarven, Halfling, Mwangi"
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +19, Arcana: +16, Aspis Consortium Lore: +16, Crafting: +16, Deception: +22, Diplomacy: +20, Intimidation: +20, Occultism: +16, Society: +18, Stealth: +21, Thievery: +19"
+    desc: "Acrobatics: +19, Arcana: +16, Crafting: +16, Deception: +22, Diplomacy: +20, Intimidation: +20, Occultism: +16, Society: +18, Stealth: +21, Thievery: +19, Aspis Consortium Lore: +16"
 abilityMods: [0, 4, 1, 1, 3, 5]
 speed: 25 feet
 sourcebook: "_Pathfinder Adventure: The Slithering_"
@@ -53,12 +54,12 @@ abilities_top:
   - name: "Items"
     desc: "3x [[Equipment/Dagger|Dagger]], [[Equipment/Slime Whip|Slime Whip]], [[Equipment/Studded Leather Armor|+1 Studded Leather Armor]]"
   - name: "Keen Eyes"
-    desc: "  Paga gains a +2 circumstance bonus when using the [[Actions/Seek|Seek]] action to find [[Conditions/Hidden|Hidden]] or [[Conditions/Undetected|Undetected]] creatures within 30 feet of her.\nWhen she targets an opponent that is [[Conditions/Concealed|Concealed]] from her or hidden, she reduces the DC of the flat check to 3 for a concealed target or 9 for a hidden one."
+    desc: "  Paga gains a +2 circumstance bonus when using the [[Actions/Seek|Seek]] action to find [[Conditions/Hidden|Hidden]] or [[Conditions/Undetected|Undetected]] creatures within 30 feet of her.\n\nWhen she targets an opponent that is [[Conditions/Concealed|Concealed]] from her or hidden, she reduces the DC of the flat check to 3 for a concealed target or 9 for a hidden one."
 
 abilities_mid:
   - name: ""
   - name: "Halfling Luck"
-    desc: "`pf2:r`  **Trigger** Paga fails or critically fails a skill check or a saving throw\n**Frequency** once per day\n**Effect** Paga rerolls the saving throw and must take the new result."
+    desc: "`pf2:r`  **Trigger** Paga fails or critically fails a skill check or a saving throw\n\n**Frequency** once per day\n* * *\n\n**Effect** Paga rerolls the saving throw and must take the new result."
 
 attacks:
   - name: ""
@@ -66,7 +67,7 @@ attacks:
   - name: "Melee"
     desc: "`pf2:1` Slime Whip +21 (disarm, finesse, reach 10 feet, trip)\n__Damage__  2d4 + 10 slashing"
 
-  - name: "Melee"
+  - name: "Ranged"
     desc: "`pf2:1` Dagger +20 (agile, thrown 10 ft., versatile s)\n__Damage__  1d4 + 10 piercing"
 
   - name: "Ranged"
@@ -79,11 +80,17 @@ attacks:
     desc: "2 Focus Points, DC 28, attack +21; __5th __ (2 slots) _[[Spells/Counter Performance|Counter Performance]]_\n__Cantrips__  __(5th)__ _[[Spells/Dirge of Doom|Dirge of Doom]]_, _[[Spells/Courageous Anthem|Inspire Courage]]_"
 
   - name: "Feign Harmlessness"
-    desc: "`pf2:1` (emotion,occult,visual) Paga cringes and cowers before a creature within 10 feet that can see her. The target must attempt a DC 28 Will check save.\nThe target is then temporarily immune for 1 hour.\n**Critical Success** No effect.\n**Success** The creature is [[Conditions/Fascinated|Fascinated]] by Paga until the end of its next turn.\n**Failure** The creature is fascinated by Paga and can't use hostile actions against her until the end of its next turn.\n**Critical Failure** As failure, and the creature isn't temporarily immune to Feign Harmlessness."
+    desc: "`pf2:1` (emotion,occult,visual) Paga cringes and cowers before a creature within 10 feet that can see her. The target must attempt a DC 28 Will check save.\n\nThe target is then temporarily immune for 1 hour.\n* * *\n\n**Critical Success** No effect.\n\n**Success** The creature is [[Conditions/Fascinated|Fascinated]] by Paga until the end of its next turn.\n\n**Failure** The creature is fascinated by Paga and can't use hostile actions against her until the end of its next turn.\n\n**Critical Failure** As failure, and the creature isn't temporarily immune to Feign Harmlessness."
 
   - name: "Unbreakable Concentration"
     desc: "  Paga's spells are disrupted by reactions only if she is critically hit."
  
+```
+
+```encounter-table
+name: Paga Nikohian
+creatures:
+  - 1: Paga Nikohian
 ```
 
 

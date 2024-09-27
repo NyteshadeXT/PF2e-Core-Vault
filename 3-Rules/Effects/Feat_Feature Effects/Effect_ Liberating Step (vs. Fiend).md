@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[Feats/Fiendsbane Oath|Fiendsbane Oath (Liberator)]]
+Granted by Fiendsbane Oath (Liberator)
 
 If you use Liberating Step triggered by a fiend, your ally gains a +4 circumstance bonus to checks granted by your Liberating Step, and the ally can Step twice afterward.
 

@@ -6,6 +6,7 @@ cssClasses: pf2e
 aliases: "Compendium.pf2e.pathfinder-bestiary-2.Actor.iLZpGlyBWxS4Idbi" 
 tags:
   - pf2e/creature/type/animal
+  - pf2eMonster
   - pf2e/creature/level/5
 statblock: inline
 name: "Emperor Cobra"
@@ -24,11 +25,12 @@ level: "Creature 5"
 
 alignment: ""
 size: "Large"
-trait_01: "animal"
+trait_01: [[animal]]
 modifier: 13
 perception:
   - name: "Perception"
     desc: "+13; Low-Light Vision, Scent (Imprecise) 30 Feet"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Acrobatics: +11, Athletics: +13, Survival: +11"
@@ -56,11 +58,17 @@ attacks:
     desc: "`pf2:1` Fangs +15 (reach 10 feet)\n__Damage__  2d8 + 8 piercing plus emperor-cobra-venom"
 
   - name: "Emperor Cobra Venom"
-    desc: " (poison) **Saving Throw** DC 22 Fortitude check ,\n**Maximum Duration** 6 rounds\n**Stage 1** 1d8 poison damage (1 round)\n**Stage 2** 1d8 poison damage and [[Conditions/Drained 1|Drained 1]] (1 round)\n**Stage 3** 2d6 poison damage and [[Conditions/Drained 1|Drained 2]] (1 round)"
+    desc: " (poison) **Saving Throw** DC 22 Fortitude check\n\n**Maximum Duration** 6 rounds\n\n**Stage 1** 1d8 poison damage (1 round)\n\n**Stage 2** 1d8 poison damage and [[Conditions/Drained|Drained 1]] (1 round)\n\n**Stage 3** 2d6 poison damage and [[Conditions/Drained|Drained 2]] (1 round)"
 
   - name: "Flare Hood"
-    desc: "`pf2:1` (emotion,fear,mental,visual) The emperor cobra flares its hood. Each non-emperor cobra creature within a 20-foot emanation must attempt a DC 22 Will check save. The creature is then temporarily immune for 1 minute.\n**Critical Success** The creature is unaffected.\n**Success** The creature is [[Conditions/Frightened 1|Frightened 1]].\n**Failure** The creature is [[Conditions/Frightened 1|Frightened 2]].\n**Critical Failure** The creature is [[Conditions/Frightened 1|Frightened 3]]."
+    desc: "`pf2:1` (emotion,fear,mental,visual) The emperor cobra flares its hood. Each non-emperor cobra creature within a @Template[emanation|distance:20] must attempt a DC 22 Will check save. The creature is then temporarily immune for 1 minute.\n* * *\n\n**Critical Success** The creature is unaffected.\n\n**Success** The creature is [[Conditions/Frightened|Frightened 1]].\n\n**Failure** The creature is [[Conditions/Frightened|Frightened 2]].\n\n**Critical Failure** The creature is [[Conditions/Frightened|Frightened 3]]."
  
+```
+
+```encounter-table
+name: Emperor Cobra
+creatures:
+  - 1: Emperor Cobra
 ```
 
 

@@ -19,7 +19,7 @@ license: ORC
 
 
 
-The ghost cries out in pain and anguish as small objects and debris fly about in a 30-foot emanation. Creatures in this area take 1d6 bludgeoning damage + 1d6 per 2 levels, subject to a Reflex check save.
+The ghost cries out in pain and anguish as small objects and debris fly about in a @Template\[emanation|distance:30\]. Creatures in this area take 1d6 bludgeoning damage + 1d6 per 2 levels, subject to a Reflex check save.
 
 For DCs, use the high spell DC of the ghost's level.
 

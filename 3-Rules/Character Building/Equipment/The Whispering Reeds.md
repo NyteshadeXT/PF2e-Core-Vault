@@ -22,7 +22,7 @@ This hefty tome was compiled centuries ago by an anonymous author who sought to 
 
 The anonymous compiler wanted to produce an enormous print run of _The Whispering Reeds_, but after the initial run they realized the danger and scuttled those plans, instead attempting to destroy those copies already created. This crusade caught the attention of Nhimbaloth's cult, who swiftly assassinated the compiler. Fewer than two dozen copies of this rare tome are believed to still exist. The book's sinister nature causes all attempts to transcribe it to fail, resulting in bodies of gibberish, nonsense text.
 
-_The Whispering Reeds_ provides several abilities, but you can't activate any of them while you are [[Conditions/Stupefied 1|Stupefied]] unless you are a follower of Nhimbaloth.
+_The Whispering Reeds_ provides several abilities, but you can't activate any of them while you are [[Conditions/Stupefied|Stupefied]] unless you are a follower of Nhimbaloth.
 
 * * *
 
@@ -44,7 +44,7 @@ _The Whispering Reeds_ provides several abilities, but you can't activate any of
 
 **Frequency** once per day
 
-**Effect** You invoke a tale from _The Whispering Reeds_ that parallels the situation, environment, or creatures nearby. Eerie mists and indistinct whispers rise in a 20-foot emanation around you, and clusters of seven perfectly spaced divots manifest in the ground, vegetation, and flesh of creatures in the emanation other than yourself and up to three creatures you designate at the time of activation. Creatures afflicted with these divots suffer from agonizing mental anguish in the form of crippling despair and take 4d6 mental damage (DC 27 Will check save). The mists, whispers, and strange divots fade away at the end of the round, but any creature that takes mental damage from the effect also takes a -1 penalty to saving throws against effects with the emotion trait for 1 minute.
+**Effect** You invoke a tale from _The Whispering Reeds_ that parallels the situation, environment, or creatures nearby. Eerie mists and indistinct whispers rise in a @Template\[emanation|distance:20\] around you, and clusters of seven perfectly spaced divots manifest in the ground, vegetation, and flesh of creatures in the emanation other than yourself and up to three creatures you designate at the time of activation. Creatures afflicted with these divots suffer from agonizing mental anguish in the form of crippling despair and take 4d6 mental damage (DC 27 Will check save). The mists, whispers, and strange divots fade away at the end of the round, but any creature that takes mental damage from the effect also takes a -1 penalty to saving throws against effects with the emotion trait for 1 minute.
 
 * * *
 

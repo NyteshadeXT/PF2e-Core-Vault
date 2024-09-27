@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/dragon
   - pf2e/creature/type/evil
   - pf2e/creature/type/shadow
+  - pf2eMonster
   - pf2e/creature/level/2
 statblock: inline
 name: "Shadow Drake"
@@ -27,10 +28,10 @@ level: "Creature 2"
 
 alignment: ""
 size: "tiny"
-trait_01: "chaotic"
-trait_02: "dragon"
-trait_03: "evil"
-trait_04: "shadow"
+trait_01: [[chaotic]]
+trait_02: [[dragon]]
+trait_03: [[evil]]
+trait_04: [[shadow]]
 modifier: 6
 perception:
   - name: "Perception"
@@ -61,7 +62,7 @@ abilities_top:
     desc: "  The shadow drake's form shifts and blends reflexively with surrounding shadows. A shadow drake gains an additional reaction each round, but it can use this reaction only for Shadow Evade."
 
   - name: "Shadow Evade"
-    desc: "  **Trigger** A creature attacks the shadow drake while it is in an area of dim light\n**Effect** The shadow drake further obscures its position. The attacker must succeed at a DC 11 Flat check check in order to affect the shadow drake, as if the drake were [[Conditions/Hidden|Hidden]] for the triggering attack."
+    desc: "  **Trigger** A creature attacks the shadow drake while it is in an area of dim light\n* * *\n\n**Effect** The shadow drake further obscures its position. The attacker must succeed at a DC 11 Flat check check in order to affect the shadow drake, as if the drake were [[Conditions/Hidden|Hidden]] for the triggering attack."
 
 abilities_mid:
   - name: ""
@@ -78,11 +79,17 @@ attacks:
     desc: "`pf2:2`  The shadow drake makes one bite Strike and two tail Strikes in any order."
 
   - name: "Shadow Breath"
-    desc: "`pf2:2` (arcane,cold,shadow) A shadow drake spits a ball of black liquid that explodes into a cloud of frigid black shadow. This attack has a range of 40 feet and explodes in a 5-foot-radius burst. Creatures within the burst take 3d6 cold damage (DC 18 Reflex check save). The explosion of shadow also snuffs out mundane light sources the size of a torch, lantern, or smaller, and attempts to counteract magical light with a +10 counteract modifier.\nThe shadow drake can't use Shadow Breath again for 1d6 rounds."
+    desc: "`pf2:2` (arcane,cold,shadow) A shadow drake spits a ball of black liquid that explodes into a cloud of frigid black shadow. This attack has a range of 40 feet and explodes in a 5-foot-radius burst. Creatures within the burst take 3d6 cold damage (DC 18 Reflex check save). The explosion of shadow also snuffs out mundane light sources the size of a torch, lantern, or smaller, and attempts to counteract magical light with a +10 counteract modifier.\n\nThe shadow drake can't use Shadow Breath again for 1d6 rounds."
 
   - name: "Speed Surge"
-    desc: "`pf2:1`  **Frequency** three times per day\n**Effect** The shadow drake Strides or Flies twice."
+    desc: "`pf2:1`  **Frequency** three times per day\n* * *\n\n**Effect** The shadow drake Strides or Flies twice."
  
+```
+
+```encounter-table
+name: Shadow Drake
+creatures:
+  - 1: Shadow Drake
 ```
 
 

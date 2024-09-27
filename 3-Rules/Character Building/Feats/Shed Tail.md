@@ -6,8 +6,9 @@ tags:
   - trait/lizardfolk
   - trait/common
   - category/ancestry
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.t3IzY8uSyFj3aGmh"
-license: OGL
+license: ORC
 ---
 # Shed Tail `pf2:r`
 ## Feat 5
@@ -19,13 +20,13 @@ license: OGL
 
 **Prerequisites** Tail Whip
 * * *
-**Requirements** You have a fully grown tail.
+**Trigger** You become [[Conditions/Grabbed|Grabbed]].
 
-**Trigger** You become grabbed.
+**Requirements** You have a fully grown tail.
 
 * * *
 
-You can shed your tail to escape. You cease being grabbed, then Stride without triggering any reactions from the creature that grabbed you. It takes 1 week for your tail to fully grow back. Until it does, you can't use your tail unarmed attack, and you take a -2 circumstance penalty on checks to Balance.
+You can shed a portion of your tail to escape. You cease being grabbed, then Stride without triggering any reactions from the creature that grabbed you. It takes 1 day for your tail to fully grow back. Until it does, you can't use your tail unarmed attack, and you take a –2 circumstance penalty on checks to [[Actions/Balance|Balance]].
 
-*Source: Pathfinder Lost Omens: Character Guide*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

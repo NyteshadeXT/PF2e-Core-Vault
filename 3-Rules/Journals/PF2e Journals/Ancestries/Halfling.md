@@ -15,7 +15,7 @@ If you want to play a character who must contend with these opposing drives towa
 ## You Might...
 
 *   Get along well with a wide variety of people and enjoy meeting new friends.
-*   Find it difficult to resist indulging your curiosity, even when you know it’s going to lead to trouble.
+*   Find it difficult to resist indulging your curiosity, even when you know it's going to lead to trouble.
 
 ## Others Probably...
 

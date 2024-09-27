@@ -17,7 +17,7 @@ license: OGL
 
 
 
-**Minor Curse** You must overindulge or partake in forbidden feasts before you find yourself even remotely sated.
+You must overindulge or partake in forbidden feasts before you find yourself even remotely sated.
 
 You need to eat 20 times as much food as normal to avoid starvation, though you always feel hungry regardless of how much you eat.
 

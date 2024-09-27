@@ -12,7 +12,7 @@ license: ORC
 ---
 # Nature's Edge
 ## Feat 9
-### [[ranger]]
+### [[3-Rules/trait_reference/ranger]]
 
 **Category** classfeature; 
 

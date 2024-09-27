@@ -5,6 +5,7 @@ noteType: pf2eHazard
 tags:
   - mechanical
   - trap
+  - pf2eHazard
   - complex
 source: Pathfinder #147: Tomorrow Must Burn
 aliases: "Compendium.pf2e.age-of-ashes-bestiary.Actor.zdJHl3xMY7n2Lwlf" 
@@ -22,14 +23,14 @@ name: "Trapped Lathe"
 level: "Hazard 10"
 
 trait_06: "Complex"
-trait_01: "mechanical"
-trait_02: "trap"
+trait_01: [[mechanical]]
+trait_02: [[trap]]
 modifier: 19
 sourcebook: "_Pathfinder #147: Tomorrow Must Burn_"
 ac: 30
 armorclass:
   - name: AC
-    desc: "30; __Fort__ +22, __Ref__ +14, __Will__ +0"
+    desc: "30; __Fort__ +22, __Ref__ +14, "
 hp: 72
 health:
   - name: ""
@@ -51,7 +52,7 @@ attacks:
   - name: ""
 
   - name: "Unleash Fragments"
-    desc: "`pf2:r` **Trigger** The lathe is jostled or damaged, or its trigger is remotely pulled.\n**Effect** The trap makes a sharpened fragment Strike against a random target in area **A1**, then rolls for initiative."
+    desc: "`pf2:r` **Trigger** The lathe is jostled or damaged, or its trigger is remotely pulled.\n* * *\n\n**Effect** The trap makes a sharpened fragment Strike against a random target in area **A1**, then rolls for initiative."
   - name: "Melee"
     desc: "Sharpened Fragment +26 () "
 
@@ -61,5 +62,11 @@ attacks:
   - name: "Routine"
     desc: "(4 actions) The lathe attempts four sharpened fragment attacks against creatures in the room, selecting a target randomly from all available targets in area A1. The trap does not take multiple attack penalties for any of its attacks. The trap loses 1 action each turn as its springs wind down, and becomes disabled when it has 0 actions."
 
+```
+
+```encounter-table
+name: Trapped Lathe
+creatures:
+  - 1: Trapped Lathe
 ```
 

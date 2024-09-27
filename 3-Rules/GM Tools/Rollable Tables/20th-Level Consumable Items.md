@@ -12,9 +12,9 @@ Table of 20th-Level Consumables Items
 
 | 1d25 | result |
 |------|--------|
-| 1-3 | Elixir of Rejuvenation |
-| 4 | Antimagic Oil |
-| 5-10 | Tears of Death |
-| 11-16 | Flying Blade Wheel Snare |
-| 17-22 | Instant Evisceration Snare |
-| 23-25 | Philosopher's Stone |
+| 1-3 | [[Equipment/Elixir of Rejuvenation\|Elixir of Rejuvenation]] |
+| 4 | [[Equipment/Antimagic Oil\|Antimagic Oil]] |
+| 5-10 | [[Equipment/Tears of Death\|Tears of Death]] |
+| 11-16 | [[Equipment/Flying Blade Wheel Snare\|Flying Blade Wheel Snare]] |
+| 17-22 | [[Equipment/Instant Evisceration Snare\|Instant Evisceration Snare]] |
+| 23-25 | [[Equipment/Philosopher's Stone\|Philosopher's Stone]] |

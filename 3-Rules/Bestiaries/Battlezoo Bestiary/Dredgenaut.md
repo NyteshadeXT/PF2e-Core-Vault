@@ -7,6 +7,7 @@ aliases: "Compendium.battlezoo-bestiary-pf2e.pf2e-battlezoo-bestiary.Actor.FIgDB
 tags:
   - pf2e/creature/type/construct
   - pf2e/creature/type/mindless
+  - pf2eMonster
   - pf2e/creature/level/14
 statblock: inline
 name: "Dredgenaut"
@@ -22,18 +23,19 @@ token: [[modules/battlezoo-bestiary-pf2e/art/dredgenaut.webp| ]]
 source: "Battlezoo Bestiary"
 name: "Dredgenaut"
 level: "Creature 14"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "huge"
-trait_01: "construct"
-trait_02: "mindless"
+trait_01: [[construct]]
+trait_02: [[mindless]]
 modifier: 24
 perception:
   - name: "Perception"
     desc: "+24; Greater Darkvision, Truesight"
+languages: ""
 skills:
   - name: "Skills"
-    desc: "Athletics: +30, "
+    desc: "Athletics: +30"
 abilityMods: [8, 4, 6, -5, 0, -1]
 speed: 30 feet,  burrow 45 feet
 sourcebook: "_Battlezoo Bestiary_"
@@ -67,20 +69,26 @@ attacks:
     desc: "DC 31, attack +23; __7th __  _[[Spells/Retrocognition|Retrocognition]]_; __6th __  _[[Spells/Vibrant Pattern|Vibrant Pattern]]_; __5th __  _[[Spells/Locate|Locate]]_, _[[Spells/Scouting Eye|Prying Eye]]_\n__Constant__  __(6th)__ _[[Spells/Truesight|True Seeing]]_"
 
   - name: "Calamity Vent"
-    desc: "`pf2:2` (arcane,fire,mental,time) The dredgenaut rapidly burns off some of the damning supernatural evidence stored in its body, then releases the fiery, time-infused energy from vents all over its body. Each creature in a 30-foot burst takes 6d8 fire and 6d8 mental damage (basic Reflex save).\nAffected creatures instantly age 1 year per 2 mental damage taken."
+    desc: "`pf2:2` (arcane,fire,mental,time) The dredgenaut rapidly burns off some of the damning supernatural evidence stored in its body, then releases the fiery, time-infused energy from vents all over its body. Each creature in a 30-foot burst takes 6d8 fire and 6d8 mental damage (DC 34 basic Reflex save).\n\nAffected creatures instantly age 1 year per 2 mental damage taken."
 
   - name: "Inexorable March"
-    desc: "`pf2:1`  The dredgenaut Strides up to its Speed, pushing back each creature whose space it moves into and damaging them if they try to stop its movement.\nA creature can attempt to bar the way by succeeding at a Fortitude save. On a critical success, the resisting creature takes no damage; otherwise, it is damaged as if hit by the dredgenaut's foot."
+    desc: "`pf2:1`  The dredgenaut Strides up to its Speed, pushing back each creature whose space it moves into and damaging them if they try to stop its movement.\n\nA creature can attempt to bar the way by succeeding at a DC 38 Fortitude save. On a critical success, the resisting creature takes no damage; otherwise, it is damaged as if hit by the dredgenaut's foot."
 
   - name: "[[Bestiary Ability Glossary/Swallow Whole|Swallow Whole]]"
-    desc: "`pf2:1` (attack) Large, 3d8 + 8 bludgeoning damage, Rupture 25.\nThe dredgenaut can use Swallow Whole on any creature Grabbed in its claws.\n"
+    desc: "`pf2:1` (attack) Large, 3d8+8 bludgeoning damage, Rupture 25.\n\nThe dredgenaut can use Swallow Whole on any creature [[Conditions/Grabbed|Grabbed]] in its claws.\n\n* * *\n"
 
   - name: "Temporal Trauma"
-    desc: " (arcane,time) When condensed, burned as fuel, and vented, evidence collected by a dredgenaut washes over living creatures as a wave of psychic trauma and disruption to the flow of time itself.\nAny creature damaged by a dredgenaut's chrono beam Strike instantly ages 1 year per 2 mental damage taken (for example, a creature that takes 20 mental damage ages 10 years)."
+    desc: " (arcane,time) When condensed, burned as fuel, and vented, evidence collected by a dredgenaut washes over living creatures as a wave of psychic trauma and disruption to the flow of time itself.\n\nAny creature damaged by a dredgenaut's chrono beam Strike instantly ages 1 year per 2 mental damage taken (for example, a creature that takes 20 mental damage ages 10 years)."
 
   - name: "[[Bestiary Ability Glossary/Trample|Trample]]"
-    desc: "`pf2:3`  Large or smaller, foot, basic Reflex\n"
+    desc: "`pf2:3`  Large or smaller, foot, DC 36 basic Reflex\n\n* * *\n"
  
+```
+
+```encounter-table
+name: Dredgenaut
+creatures:
+  - 1: Dredgenaut
 ```
 
 

@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/humanoid
   - pf2e/creature/type/lawful
   - pf2e/creature/type/skelm
+  - pf2eMonster
   - pf2e/creature/level/5
 statblock: inline
 name: "Shrine Skelm"
@@ -27,15 +28,15 @@ level: "Creature 5"
 
 alignment: ""
 size: "Medium"
-trait_01: "evil"
-trait_02: "humanoid"
-trait_03: "lawful"
-trait_04: "skelm"
+trait_01: [[evil]]
+trait_02: [[humanoid]]
+trait_03: [[lawful]]
+trait_04: [[skelm]]
 modifier: 11
 perception:
   - name: "Perception"
     desc: "+11; Scent (Imprecise) 30 Feet"
-languages: "Aklo, Common"
+languages: "Aklo, Common; telepathy 30 feet"
 skills:
   - name: "Skills"
     desc: "Athletics: +12, Deception: +14, Intimidation: +14, Occultism: +11, Religion: +11, Stealth: +12, Thievery: +12"
@@ -58,7 +59,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Seize Prayer"
-    desc: "`pf2:r` (concentrate,occult) **Trigger** A creature the shrine skelm can hear within 30 feet Casts a divine Spell with a verbal component\n**Effect** The shrine skelm utters an incantation and attempts to counteract the triggering spell (counteract modifier +14, counteract rank 3rd).\nIf he successfully counteracts the spell, the skelm and the caster each take 1d8 mental damage per level of the triggering spell, and if the spell had one or more targets, the skelm learns its effect and can allow the spell's effects to continue with himself as the only target (any other effect is still counteracted)."
+    desc: "`pf2:r` (concentrate,occult) **Trigger** A creature the shrine skelm can hear within 30 feet Casts a divine Spell with a verbal component\n* * *\n\n**Effect** The shrine skelm utters an incantation and attempts to counteract the triggering spell (counteract modifier +14, counteract rank 3rd).\n\nIf he successfully counteracts the spell, the skelm and the caster each take 1d8 mental damage per level of the triggering spell, and if the spell had one or more targets, the skelm learns its effect and can allow the spell's effects to continue with himself as the only target (any other effect is still counteracted)."
 
 attacks:
   - name: ""
@@ -73,7 +74,7 @@ attacks:
     desc: "DC 22, attack +14; __3rd __  _[[Spells/Command|Command]]_, _[[Spells/Enthrall|Enthrall]]_, _[[Spells/Mind Reading|Mind Reading (x3)]]_, _[[Spells/Soothe|Soothe]]_"
 
   - name: "[[Bestiary Ability Glossary/Change Shape|Change Shape]]"
-    desc: "`pf2:1` (concentrate,occult,polymorph) The shrine skelm can take on the appearance of any Medium male humanoid. This doesn't change his Speed or his attack and damage bonuses with his Strikes but might change the damage type his Strikes deal.\n"
+    desc: "`pf2:1` (concentrate,occult,polymorph) The shrine skelm can take on the appearance of any Medium male humanoid. This doesn't change his Speed or his attack and damage bonuses with his Strikes but might change the damage type his Strikes deal.\n\n* * *\n"
 
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
     desc: "`pf2:1`  "
@@ -81,6 +82,12 @@ attacks:
   - name: "[[Bestiary Ability Glossary/Knockdown|Knockdown]]"
     desc: "`pf2:1`  "
  
+```
+
+```encounter-table
+name: Shrine Skelm
+creatures:
+  - 1: Shrine Skelm
 ```
 
 

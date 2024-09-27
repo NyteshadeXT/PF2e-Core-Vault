@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/mummy
   - pf2e/creature/type/undead
   - pf2e/creature/type/unholy
+  - pf2eMonster
   - pf2e/creature/level/6
   - remaster
 statblock: inline
@@ -27,9 +28,9 @@ level: "Creature 6"
 
 alignment: ""
 size: "Medium"
-trait_01: "mummy"
-trait_02: "undead"
-trait_03: "unholy"
+trait_01: [[mummy]]
+trait_02: [[undead]]
+trait_03: [[unholy]]
 modifier: 16
 perception:
   - name: "Perception"
@@ -59,7 +60,7 @@ abilities_mid:
     desc: "  The guardian's weakness to alchemical items not only applies to damage from alchemical items, but the guardian also takes 5 damage when splashed with non-damaging alchemical items or dosed with alchemical poisons, even if they're immune to their other effects."
 
   - name: "Blighted Consumption"
-    desc: "`pf2:r` (curse,divine,poison) **Trigger** A creature within 30 feet eats or drinks (including an alchemical item or potion)\n* * *\n\n**Effect** The food or drink burns like the caustic substances fed to the mummy before its death. If the creature fails a DC 24 Fortitude check save, they become [[Conditions/Sickened 1|Sickened 2]] after they finish the consumption and can't reduce their sickened condition while within 30 feet of any mummy."
+    desc: "`pf2:r` (curse,divine,poison) **Trigger** A creature within 30 feet eats or drinks (including an alchemical item or potion)\n* * *\n\n**Effect** The food or drink burns like the caustic substances fed to the mummy before its death. If the creature fails a DC 24 Fortitude check save, they become [[Conditions/Sickened|Sickened 2]] after they finish the consumption and can't reduce their sickened condition while within 30 feet of any mummy."
 
 attacks:
   - name: ""
@@ -70,6 +71,12 @@ attacks:
   - name: "Choking Pain"
     desc: "`pf2:1` (divine,illusion,mental,void) **Requirements** The mummy's last action was a successful fist Strike\n* * *\n\n**Effect** The mummy shares the pain of its dying moments with the target of that Strike. That creature takes 3d8 void damage with a DC 24 Will check save. If the creature critically fails the saving throw, it can't speak for 1 round, including to Cast a Spell."
  
+```
+
+```encounter-table
+name: Mummy Guardian
+creatures:
+  - 1: Mummy Guardian
 ```
 
 

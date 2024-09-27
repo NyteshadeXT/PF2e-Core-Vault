@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/aberration
   - pf2e/creature/type/amphibious
   - pf2e/creature/type/evil
+  - pf2eMonster
   - pf2e/creature/level/11
 statblock: inline
 name: "Isqulug"
@@ -23,12 +24,12 @@ token: [[modules/pf2e-tokens-bestiaries/portraits/aberrant/monstrous/isqulug.web
 source: "Pathfinder Bestiary 2"
 name: "Isqulug"
 level: "Creature 11"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Medium"
-trait_01: "aberration"
-trait_02: "amphibious"
-trait_03: "evil"
+trait_01: [[aberration]]
+trait_02: [[amphibious]]
+trait_03: [[evil]]
 modifier: 24
 perception:
   - name: "Perception"
@@ -67,10 +68,10 @@ attacks:
     desc: "DC 30, attack +22; __6th __  _[[Spells/Tangling Creepers|Tangling Creepers]]_; __5th __  _[[Spells/Control Water|Control Water]]_, _[[Spells/Entangling Flora|Entangle (At will)]]_, _[[Spells/Mirage|Hallucinatory Terrain]]_, _[[Spells/Mist|Obscuring Mist (At will)]]_; __4th __  _[[Spells/Fly|Fly]]_\n__Cantrips__  __(6th)__ _[[Compendium.pf2e.spells-srd.Item.kl2q6JvBZwed4B6v|Dancing Lights]]_"
 
   - name: "Expel Infestation"
-    desc: "`pf2:2`  The isqulug expels larvae from the hivemind in its head in a 30-foot cone. Creatures in this area take 6d10 piercing damage as the swarm feeds on their flesh (DC 30 Reflex check save). Any creature that takes damage is exposed to isqulugia.\nThe isqulug becomes [[Conditions/Stupefied 1|Stupefied 1]] for 1d4 rounds, during which it can't Expel Infestation."
+    desc: "`pf2:2`  The isqulug expels larvae from the hivemind in its head in a @Template[cone|distance:30]. Creatures in this area take 6d10 piercing damage as the swarm feeds on their flesh (DC 30 Reflex check save). Any creature that takes damage is exposed to isqulugia.\n\nThe isqulug becomes [[Conditions/Stupefied|Stupefied 1]] for 1d4 rounds, during which it can't Expel Infestation."
 
   - name: "Isqulugia"
-    desc: " (disease,incapacitation,primal,virulent) Isqulugia's [[Conditions/Sickened 1|Sickened]], [[Conditions/Slowed 1|Slowed]], and [[Conditions/Paralyzed|Paralyzed]] conditions can't be removed until this affliction is removed\n**Saving Throw** DC 30 Fortitude check\n**Stage 1** [[Conditions/Sickened 1|Sickened 1]] (1 hour)\n**Stage 2** [[Conditions/Fatigued|Fatigued]] and [[Conditions/Sickened 1|Sickened 2]] (1 day)\n**Stage 3** fatigued and [[Conditions/Slowed 1|Slowed 1]] (1 day)\n**Stage 4** paralyzed (1 day)\n**Stage 5** the creature dies, and its body violently transforms into a new isqulug. [[Spells/Wish|Wish]], similar magic, or a 9th-rank [[Spells/Resurrect|Resurrect]] ritual can return the victim to life. The new isqulug remains even if the victim is brought back to life."
+    desc: " (disease,incapacitation,primal,virulent) Isqulugia's [[Conditions/Sickened|Sickened]], [[Conditions/Slowed|Slowed]], and [[Conditions/Paralyzed|Paralyzed]] conditions can't be removed until this affliction is removed\n\n**Saving Throw** DC 30 Fortitude check\n\n**Stage 1** [[Conditions/Sickened|Sickened 1]] (1 hour)\n\n**Stage 2** [[Conditions/Fatigued|Fatigued]] and [[Conditions/Sickened|Sickened 2]] (1 day)\n\n**Stage 3** fatigued and [[Conditions/Slowed|Slowed 1]] (1 day)\n\n**Stage 4** paralyzed (1 day)\n\n**Stage 5** the creature dies, and its body violently transforms into a new isqulug. [[Spells/Wish|Wish]], similar magic, or a 9th-rank [[Spells/Resurrect|Resurrect]] ritual can return the victim to life. The new isqulug remains even if the victim is brought back to life."
 
   - name: "Malleability"
     desc: "  The isqulug can [[Actions/Squeeze|Squeeze]] through tight spaces as if it were a Small creature. While Squeezing, it can move at its full Speed. The isqulug can even Squeeze through spaces that typically fit only a Tiny creature, but does so at the standard speed for Squeezing."
@@ -78,6 +79,12 @@ attacks:
   - name: "Swamp Stride"
     desc: "  An isqulug ignores difficult terrain that's caused by typical features of swamps."
  
+```
+
+```encounter-table
+name: Isqulug
+creatures:
+  - 1: Isqulug
 ```
 
 

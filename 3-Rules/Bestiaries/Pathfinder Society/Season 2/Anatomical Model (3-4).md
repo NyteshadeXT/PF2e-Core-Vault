@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.pfs-season-2-bestiary.Actor.j7K9SefeHJ16qHMl"
 tags:
   - pf2e/creature/type/construct
   - pf2e/creature/type/mindless
+  - pf2eMonster
   - pf2e/creature/level/4
 statblock: inline
 name: "Anatomical Model (3-4)"
@@ -24,12 +25,13 @@ level: "Creature 4"
 
 alignment: ""
 size: "Medium"
-trait_01: "construct"
-trait_02: "mindless"
+trait_01: [[construct]]
+trait_02: [[mindless]]
 modifier: 15
 perception:
   - name: "Perception"
     desc: "+15; "
+languages: ""
 skills:
   - name: "Skills"
     desc: "Athletics: +12, Stealth: +14"
@@ -51,7 +53,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Construct Armor (Hardness 5)"
-    desc: "  Like normal objects, the anatomical model has Hardness. This Hardness reduces any damage the model takes by an amount equal to the Hardness.\nOnce an anatomical model is reduced to fewer than half its Hit Points, or immediately upon being damaged by a critical hit, its construct armor breaks, removing the Hardness and reducing its Armor Class to 17."
+    desc: "  Like normal objects, the anatomical model has Hardness. This Hardness reduces any damage the model takes by an amount equal to the Hardness.\n\nOnce an anatomical model is reduced to fewer than half its Hit Points, or immediately upon being damaged by a critical hit, its construct armor breaks, removing the Hardness and reducing its Armor Class to 17."
 
 attacks:
   - name: ""
@@ -65,6 +67,12 @@ attacks:
   - name: "Slimy Guts"
     desc: "  A creature hit by the anatomical model's guts attack is [[Conditions/Off-Guard|Off-Guard]] until it takes an action to remove the guts. A creature critically hit by the anatomical model's guts attack is [[Conditions/Immobilized|Immobilized]] until it [[Actions/Escape|Escapes]]."
  
+```
+
+```encounter-table
+name: Anatomical Model (3-4)
+creatures:
+  - 1: Anatomical Model (3-4)
 ```
 
 

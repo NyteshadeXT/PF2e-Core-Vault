@@ -10,6 +10,7 @@ tags:
   - pf2e/creature/type/lawful
   - pf2e/creature/type/undead
   - pf2e/creature/type/unholy
+  - pf2eMonster
   - pf2e/creature/level/10
 statblock: inline
 name: "Remnant of Barzillai"
@@ -24,14 +25,14 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #147: Tomorrow Must Burn"
 name: "Remnant of Barzillai"
 level: "Creature 10"
-rare_03: "Rare"
+rare_03: [[Rare]]
 alignment: ""
 size: "Medium"
-trait_01: "evil"
-trait_02: "incorporeal"
-trait_03: "lawful"
-trait_04: "undead"
-trait_05: "unholy"
+trait_01: [[evil]]
+trait_02: [[incorporeal]]
+trait_03: [[lawful]]
+trait_04: [[undead]]
+trait_05: [[unholy]]
 modifier: 22
 perception:
   - name: "Perception"
@@ -67,8 +68,14 @@ attacks:
     desc: "`pf2:1` Burning Mace +22 (fire, magical, shove)\n__Damage__  2d6 + 8 bludgeoning 2d6 fire"
 
   - name: "Create Haunt"
-    desc: "`pf2:3` (divine) **Frequency** three times per day\n**Requirements** The remnant of Barzillai is within Ravounel.\n**Effect** The remnant of Barzillai stirs up and amplifies unsettled spirits in the area to create a single haunt of 6th level or lower at his present location. This haunt is permanent until it is disabled or the remnant of Barzillai is destroyed."
+    desc: "`pf2:3` (divine) **Frequency** three times per day\n\n**Requirements** The remnant of Barzillai is within Ravounel.\n* * *\n\n**Effect** The remnant of Barzillai stirs up and amplifies unsettled spirits in the area to create a single haunt of 6th level or lower at his present location. This haunt is permanent until it is disabled or the remnant of Barzillai is destroyed."
  
+```
+
+```encounter-table
+name: Remnant of Barzillai
+creatures:
+  - 1: Remnant of Barzillai
 ```
 
 

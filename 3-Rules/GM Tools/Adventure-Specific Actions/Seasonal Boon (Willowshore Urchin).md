@@ -25,5 +25,5 @@ license: OGL
 
 **Effect** You gain an automatic critical success on the recovery check rather than rolling it as your hearty physique, tenacious attitude, or just plain old luck continues to help you survive the way it had during your childhood. If you're adjacent to a PC who's about to roll a recovery check, you can instead use this boon to grant them this effect.
 
-*Source: Pathfinder: Season of Ghosts Player's Guide*
+*Source: Pathfinder Season of Ghosts Player's Guide*
 *OGL*

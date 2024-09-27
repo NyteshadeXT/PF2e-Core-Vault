@@ -13,7 +13,7 @@ license: OGL
 ---
 # Dazzling Rosary
 ## Item 4
-### [[catalyst]][[consumable]][[magical]]
+### [[catalyst]][[consumable]][[3-Rules/Rule References/Magical]]
 
 **Category** catalyst; 
 **Price** 15 gp; 

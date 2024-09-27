@@ -9,8 +9,9 @@ tags:
   - trait/propulsive
   - trait/common
   - category/martial
+  - remaster
 aliases: "Compendium.pf2e.equipment-srd.Item.0E9ADJkQUVsz7A4G"
-license: OGL
+license: ORC
 ---
 # Gakgung
 ## Item 0
@@ -19,7 +20,7 @@ license: OGL
 |  |  |
 | -- | -- |
 | **Category** martial ranged weapon | **Group** bow |
-| **Price** 6 gp |  |
+| **Price** 2 gp |  |
 | **Bulk** L | **Size** med |
 |**Range** 100 ft.| **Reload** 0|
 | **Damage** 1d6 piercing  | **Usage** held-in-one-plus-hands |
@@ -28,5 +29,5 @@ license: OGL
 
 A gakgung is a type of composite reflex bow that combines speed and power in equal amounts for effective precision shooting.
 
-*Source: Pathfinder Treasure Vault*
-*OGL*
+*Source: Pathfinder Lost Omens: Tian Xia Character Guide*
+*ORC*

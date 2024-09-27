@@ -10,6 +10,7 @@ tags:
   - pf2e/creature/type/ghoul
   - pf2e/creature/type/undead
   - pf2e/creature/type/unholy
+  - pf2eMonster
   - pf2e/creature/level/5
 statblock: inline
 name: "Aller Rosk"
@@ -24,14 +25,14 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #163: Ruins of Gauntlight"
 name: "Aller Rosk"
 level: "Creature 5"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Medium"
-trait_01: "chaotic"
-trait_02: "evil"
-trait_03: "ghoul"
-trait_04: "undead"
-trait_05: "unholy"
+trait_01: [[chaotic]]
+trait_02: [[evil]]
+trait_03: [[ghoul]]
+trait_04: [[undead]]
+trait_05: [[unholy]]
 modifier: 15
 perception:
   - name: "Perception"
@@ -67,10 +68,10 @@ attacks:
     desc: "`pf2:1` Claw +15 (agile)\n__Damage__  2d6 + 7 slashing plus ghoul-paralysis"
 
   - name: "[[Creature Family Ability Glossary/(Ghoul) Consume Flesh|Consume Tattooed Flesh]]"
-    desc: "`pf2:1` (manipulate) **Requirements** Aller is adjacent to a tattooed scrap of flesh or to the corpse of a creature that died within the last hour\nAller devours a bite of flesh and regains 4d6 Hit Points. If the piece of flesh was tattooed, he is also [[Conditions/Quickened|Quickened 1]] and can use this extra action to make a jaws Strike.\nAller then can't Consume Flesh for 1d4 rounds. He has one piece of tattooed flesh on his person."
+    desc: "`pf2:1` (manipulate) **Requirements** Aller is adjacent to a tattooed scrap of flesh or to the corpse of a creature that died within the last hour\n\nAller devours a bite of flesh and regains 4d6 healing Hit Points. If the piece of flesh was tattooed, he is also [[Conditions/Quickened|Quickened 1]] and can use this extra action to make a jaws Strike.\n\nAller then can't Consume Flesh for 1d4 rounds. He has one piece of tattooed flesh on his person."
 
   - name: "[[Creature Family Ability Glossary/(Ghoul) Ghoul Fever|Ghoul Fever]]"
-    desc: " (disease) **Saving Throw** DC 22 Fortitude check\n**Stage 1** carrier with no ill effect (1 day)\n**Stage 2** 2d6 void damage and regains half as many Hit Points from all healing (1 day)\n**Stage 3** as stage 2 (1 day)\n**Stage 4** 2d6 void damage and gains no benefit from healing (1 day)\n**Stage 5** as stage 4 (1 day)\n**Stage 6** dead, and rises as a [[Bestiary 1/Ghoul|Ghoul]] the next midnight."
+    desc: " (disease) **Saving Throw** DC 22 Fortitude check\n* * *\n\n**Stage 1** carrier with no ill effect (1 day)\n\n**Stage 2** 2d6 void damage and regains half as many Hit Points from all healing (1 day)\n\n**Stage 3** as stage 2 (1 day)\n\n**Stage 4** 2d6 void damage and gains no benefit from healing (1 day)\n\n**Stage 5** as stage 4 (1 day)\n\n**Stage 6** dead, and rises as a [[Bestiary 1/Ghoul|Ghoul]] the next midnight."
 
   - name: "[[Creature Family Ability Glossary/(Ghoul) Paralysis|Paralysis]]"
     desc: " (incapacitation,occult) Any living, non-elf creature hit by Aller's attack must succeed at a DC 22 Fortitude check save or become [[Conditions/Paralyzed|Paralyzed]]. It can attempt a new save at the end of each of its turns, and the DC cumulatively decreases by 1 on each such save."
@@ -78,6 +79,12 @@ attacks:
   - name: "[[Creature Family Ability Glossary/(Ghoul) Swift Leap|Swift Leap]]"
     desc: "`pf2:1` (move) Aller jumps up to half his Speed. This movement doesn't trigger reactions."
  
+```
+
+```encounter-table
+name: Aller Rosk
+creatures:
+  - 1: Aller Rosk
 ```
 
 

@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/undead
   - pf2e/creature/type/unholy
+  - pf2eMonster
   - pf2e/creature/level/9
 statblock: inline
 name: "Baykok"
@@ -27,10 +28,10 @@ level: "Creature 9"
 
 alignment: ""
 size: "Medium"
-trait_01: "chaotic"
-trait_02: "evil"
-trait_03: "undead"
-trait_04: "unholy"
+trait_01: [[chaotic]]
+trait_02: [[evil]]
+trait_03: [[undead]]
+trait_04: [[unholy]]
 modifier: 19
 perception:
   - name: "Perception"
@@ -58,10 +59,10 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Banished from the Ground"
-    desc: "  A baykok can't willingly touch earth or rock surfaces. If forced into contact with such a surface, it becomes [[Conditions/Enfeebled 1|Enfeebled 2]] for as long as it remains incontact."
+    desc: "  A baykok can't willingly touch earth or rock surfaces. If forced into contact with such a surface, it becomes [[Conditions/Enfeebled|Enfeebled 2]] for as long as it remains incontact."
 
   - name: "[[Bestiary Ability Glossary/Frightful Presence|Frightful Presence]]"
-    desc: " (aura,emotion,fear,mental) 120 feet. DC 25 Will check\n"
+    desc: " (aura,emotion,fear,mental) 120 feet. DC 25 Will check\n\n* * *\n"
 
 attacks:
   - name: ""
@@ -73,14 +74,20 @@ attacks:
     desc: "`pf2:1` Longbow +21 (deadly d10, magical, range increment 100 feet, volley 30 ft.)\n__Damage__  1d8 + 6 piercing plus arrow-of-despair 1d8 mental plus arrow-of-despair"
 
   - name: "Arrow of Despair"
-    desc: " (emotion,fear,incapacitation,mental,occult) A baykok creates an invisible arrow of bone as it draws its bow. A [[Conditions/Frightened 1|Frightened]] creature hit by the arrow is stricken with loneliness and despair and must attempt a DC 26 Will check save; if the Strike was a critical hit, the target uses the outcome one degree of success worse than the result of its save.\n**Critical Success** The creature is unaffected.\n**Success** The creature is [[Conditions/Slowed 1|Slowed 1]] for 1 round.\n**Failure** The creature's frightened value increases by 1 (to a maximum of 4), and it is slowed 1 until its frightened condition ends.\n**Critical Failure** As failure, but the creature is [[Conditions/Paralyzed|Paralyzed]] until its frightened condition ends. At the start of each of its turns, it can end the paralyzed condition early with a successful DC 26 Will check save."
+    desc: " (emotion,fear,incapacitation,mental,occult) A baykok creates an invisible arrow of bone as it draws its bow. A [[Conditions/Frightened|Frightened]] creature hit by the arrow is stricken with loneliness and despair and must attempt a DC 26 Will check save; if the Strike was a critical hit, the target uses the outcome one degree of success worse than the result of its save.\n* * *\n\n**Critical Success** The creature is unaffected.\n\n**Success** The creature is [[Conditions/Slowed|Slowed 1]] for 1 round.\n\n**Failure** The creature's frightened value increases by 1 (to a maximum of 4), and it is slowed 1 until its frightened condition ends.\n\n**Critical Failure** As failure, but the creature is [[Conditions/Paralyzed|Paralyzed]] until its frightened condition ends. At the start of each of its turns, it can end the paralyzed condition early with a successful DC 26 Will check save."
 
   - name: "Devour Life"
-    desc: "`pf2:1` (curse,occult) **Requirements** The baykok is adjacent to a [[Conditions/Paralyzed|Paralyzed]], [[Conditions/Restrained|Restrained]], or [[Conditions/Unconscious|Unconscious]] living humanoid.\n**Effect** The baykok touches the target and devours part of its life force. The target must succeed at a DC 26 Fortitude check save or be afflicted with the baykok's wasting curse. If the target fails and wasn't already affected by the wasting curse, the baykok gains 20 temporary Hit Points that last for 1 hour."
+    desc: "`pf2:1` (curse,occult) **Requirements** The baykok is adjacent to a [[Conditions/Paralyzed|Paralyzed]], [[Conditions/Restrained|Restrained]], or [[Conditions/Unconscious|Unconscious]] living humanoid.\n* * *\n\n**Effect** The baykok touches the target and devours part of its life force. The target must succeed at a DC 26 Fortitude check save or be afflicted with the baykok's wasting curse. If the target fails and wasn't already affected by the wasting curse, the baykok gains 20 temporary Hit Points that last for 1 hour."
 
   - name: "Wasting Curse"
-    desc: " (curse,occult) The baykok steals life from its victim and leaves listless dread in its place.\nIf a target fails its save against Devour Life, it becomes [[Conditions/Drained 1|Drained 1]].\nEach time the target gets a full night's rest, it must succeed at a DC 26 Fortitude check save or its drained value increases rather than decreasing. The curse ends if the creature recovers from the drained condition, but if the creature would reach drained 5 from this effect, it dies."
+    desc: " (curse,occult) The baykok steals life from its victim and leaves listless dread in its place.\n\nIf a target fails its save against Devour Life, it becomes [[Conditions/Drained|Drained 1]].\n\nEach time the target gets a full night's rest, it must succeed at a DC 26 Fortitude check save or its drained value increases rather than decreasing. The curse ends if the creature recovers from the drained condition, but if the creature would reach drained 5 from this effect, it dies."
  
+```
+
+```encounter-table
+name: Baykok
+creatures:
+  - 1: Baykok
 ```
 
 

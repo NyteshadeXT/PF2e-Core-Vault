@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.pathfinder-monster-core.Actor.pVbggIyXxCo8pPue"
 tags:
   - pf2e/creature/type/elemental
   - pf2e/creature/type/fire
+  - pf2eMonster
   - pf2e/creature/level/5
   - remaster
 statblock: inline
@@ -26,8 +27,8 @@ level: "Creature 5"
 
 alignment: ""
 size: "Medium"
-trait_01: "elemental"
-trait_02: "fire"
+trait_01: [[elemental]]
+trait_02: [[fire]]
 modifier: 10
 perception:
   - name: "Perception"
@@ -57,7 +58,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Explosion"
-    desc: " (fire) When the living wildfire dies, it explodes, dealing 3d6 fire damage to each creature in a 10-foot emanation (DC 19 Reflex check save)."
+    desc: " (fire) When the living wildfire dies, it explodes, dealing 3d6 fire damage to each creature in a @Template[emanation|distance:10|traits:fire,damaging-effect] (DC 19 Reflex check save)."
 
 attacks:
   - name: ""
@@ -71,6 +72,12 @@ attacks:
   - name: "Spreading Flames"
     desc: "`pf2:1` (fire,primal) **Requirements** The living wildfire's last action was a Strike that dealt fire damage\n* * *\n\n**Effect** The fire flares, dealing 3d6 fire damage to each creature adjacent to that target with a DC 19 Reflex check save."
  
+```
+
+```encounter-table
+name: Living Wildfire
+creatures:
+  - 1: Living Wildfire
 ```
 
 

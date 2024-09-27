@@ -5,6 +5,7 @@ noteType: pf2eHazard
 tags:
   - mechanical
   - trap
+  - pf2eHazard
 
   - remaster
 source: Pathfinder GM Core
@@ -23,14 +24,14 @@ name: "Spear Launcher"
 level: "Hazard 2"
 
 
-trait_01: "mechanical"
-trait_02: "trap"
+trait_01: [[mechanical]]
+trait_02: [[trap]]
 modifier: 10
 sourcebook: "_Pathfinder GM Core_"
 ac: 18
 armorclass:
   - name: AC
-    desc: "18; __Fort__ +11, __Ref__ +3, __Will__ +0"
+    desc: "18; __Fort__ +11, __Ref__ +3, "
 hp: 32
 health:
   - name: ""
@@ -52,11 +53,17 @@ attacks:
   - name: ""
 
   - name: "Spear"
-    desc: "`pf2:r` (attack) **Trigger** Pressure is applied to the floor tile.\n**Effect** The trap shoots a spear, making a Strike against the creature or object on the floor tile."
+    desc: "`pf2:r` (attack) **Trigger** Pressure is applied to the floor tile.\n* * *\n\n**Effect** The trap shoots a spear, making a Strike against the creature or object on the floor tile."
   - name: "Melee"
     desc: "Spear +14 () "
 
 
 
+```
+
+```encounter-table
+name: Spear Launcher
+creatures:
+  - 1: Spear Launcher
 ```
 

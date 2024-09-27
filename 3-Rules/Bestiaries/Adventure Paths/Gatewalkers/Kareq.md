@@ -6,6 +6,7 @@ cssClasses: pf2e
 aliases: "Compendium.pf2e.gatewalkers-bestiary.Actor.yJSqKx1kBbadhQX6" 
 tags:
   - pf2e/creature/type/animal
+  - pf2eMonster
   - pf2e/creature/level/5
 statblock: inline
 name: "Kareq"
@@ -20,14 +21,15 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #187: The Seventh Arch"
 name: "Kareq"
 level: "Creature 5"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Large"
-trait_01: "animal"
+trait_01: [[animal]]
 modifier: 15
 perception:
   - name: "Perception"
     desc: "+15; Low-Light Vision"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Acrobatics: +12, Athletics: +13, Intimidation: +13, Stealth: +12, Survival: +10"
@@ -55,8 +57,14 @@ attacks:
     desc: "`pf2:1` Claw +14 ()\n__Damage__  2d10 + 5 slashing"
 
   - name: "Boomstrike"
-    desc: "`pf2:2`  The kareq beats its legs against its reverberation chamber, creating a blast of sound concentrated enough to ignite the air around it. The kareq chooses to affect either a 30-foot cone (which deals sonic damage) or a 60-foot line (which deals fire damage). Affected creatures must attempt a DC 21 Fortitude check save.\n**Success** The creature takes no damage.\n**Failure** The creature takes 3d6 fire or 3d6 sonic.\n**Critical Failure** The creature takes 6d6 fire or 6d6 sonic and either is [[Conditions/Deafened|Deafened]] for 1 minute (if sonic damage) or takes 1d6 persistent fire (if fire damage)."
+    desc: "`pf2:2`  The kareq beats its legs against its reverberation chamber, creating a blast of sound concentrated enough to ignite the air around it. The kareq chooses to affect either a @Template[cone|distance:30] (which deals sonic damage) or a @Template[line|distance:60] (which deals fire damage). Affected creatures must attempt a DC 21 Fortitude check save.\n* * *\n\n**Success** The creature takes no damage.\n\n**Failure** The creature takes 3d6 fire or 3d6 sonic.\n\n**Critical Failure** The creature takes 6d6 fire or 6d6 sonic and either is [[Conditions/Deafened|Deafened]] for 1 minute (if sonic damage) or takes 1d6 persistent fire (if fire damage)."
  
+```
+
+```encounter-table
+name: Kareq
+creatures:
+  - 1: Kareq
 ```
 
 

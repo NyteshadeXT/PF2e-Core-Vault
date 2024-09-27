@@ -26,7 +26,7 @@ You attempt to topple a stack of heavy crates onto a foe. Attempt a DC 22 Athlet
 
 * * *
 
-**Success** You topple the crates toward a target within a 15-foot line from the column. The falling crates deal 3d10 + 6 bludgeoning damage with a DC 26 Reflex check save. A creature that critically fails is also knocked [[Conditions/Prone|Prone]]. Any squares where crates crashed down become difficult terrain.
+**Success** You topple the crates toward a target within a 15-foot line from the column. The falling crates deal 3d10+6 bludgeoning damage with a DC 26 Reflex check save. A creature that critically fails is also knocked [[Conditions/Prone|Prone]]. Any squares where crates crashed down become difficult terrain.
 
 **Failure** You are unable to topple the crates.
 

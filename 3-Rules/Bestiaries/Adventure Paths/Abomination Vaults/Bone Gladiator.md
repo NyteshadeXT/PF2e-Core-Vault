@@ -10,6 +10,7 @@ tags:
   - pf2e/creature/type/skeleton
   - pf2e/creature/type/undead
   - pf2e/creature/type/unholy
+  - pf2eMonster
   - pf2e/creature/level/7
 statblock: inline
 name: "Bone Gladiator"
@@ -24,18 +25,19 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Abomination Vaults Hardcover Compilation"
 name: "Bone Gladiator"
 level: "Creature 7"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "huge"
-trait_01: "evil"
-trait_02: "mindless"
-trait_03: "skeleton"
-trait_04: "undead"
-trait_05: "unholy"
+trait_01: [[evil]]
+trait_02: [[mindless]]
+trait_03: [[skeleton]]
+trait_04: [[undead]]
+trait_05: [[unholy]]
 modifier: 16
 perception:
   - name: "Perception"
     desc: "+16; Darkvision"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Athletics: +20, Intimidation: +17"
@@ -57,7 +59,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Loose Bones"
-    desc: "  A critical hit jostles the skeleton's loose bones, making it [[Conditions/Clumsy 1|Clumsy 1]]. Additional critical hits increase this value, up to [[Conditions/Clumsy 1|Clumsy 4]]."
+    desc: "  A critical hit jostles the skeleton's loose bones, making it [[Conditions/Clumsy|Clumsy 1]]. Additional critical hits increase this value, up to [[Conditions/Clumsy|Clumsy 4]]."
 
 attacks:
   - name: ""
@@ -71,6 +73,12 @@ attacks:
   - name: "Terrifying Charge"
     desc: "`pf2:2`  The skeleton Strides and makes a claw Strike with a +4 circumstance bonus to damage. If the Strike hits, it attempts to [[Actions/Demoralize|Demoralize]] the target."
  
+```
+
+```encounter-table
+name: Bone Gladiator
+creatures:
+  - 1: Bone Gladiator
 ```
 
 

@@ -6,6 +6,7 @@ cssClasses: pf2e
 aliases: "Compendium.pf2e.pathfinder-monster-core.Actor.4GXL5FLmN7IxPzVC" 
 tags:
   - pf2e/creature/type/animal
+  - pf2eMonster
   - pf2e/creature/level/4
   - remaster
 statblock: inline
@@ -18,13 +19,14 @@ license: ORC
 columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
+token: [[modules/pf2e-tokens-monster-core/assets/portraits/ape-gigantopithecus.webp| ]]
 source: "Pathfinder Monster Core"
 name: "Gigantopithecus"
 level: "Creature 4"
 
 alignment: ""
 size: "Large"
-trait_01: "animal"
+trait_01: [[animal]]
 modifier: 10
 perception:
   - name: "Perception"
@@ -60,8 +62,14 @@ attacks:
     desc: "`pf2:1` Jaws +13 ()\n__Damage__  1d8 + 6 piercing"
 
   - name: "Frightening Display"
-    desc: "`pf2:2` (auditory,emotion,fear,mental) The gorilla beats its chest in a terrifying display. Creatures within 30 feet must attempt a DC 22 Will check save.\n\nWhile a creature is [[Conditions/Frightened 1|Frightened]] by this ability, it is [[Conditions/Off-Guard|Off-Guard]] to the gigantopithecus.\n* * *\n\n**Critical Success** No effect and temporarily immune for 1 minute.\n\n**Success** The creature is unaffected.\n\n**Failure** The creature is [[Conditions/Frightened 1|Frightened 1]].\n\n**Critical Failure** The creature is [[Conditions/Frightened 1|Frightened 2]]."
+    desc: "`pf2:2` (auditory,emotion,fear,mental) The gorilla beats its chest in a terrifying display. Creatures within 30 feet must attempt a DC 22 Will check save.\n\nWhile a creature is [[Conditions/Frightened|Frightened]] by this ability, it is [[Conditions/Off-Guard|Off-Guard]] to the gigantopithecus.\n* * *\n\n**Critical Success** No effect and temporarily immune for 1 minute.\n\n**Success** The creature is unaffected.\n\n**Failure** The creature is [[Conditions/Frightened|Frightened 1]].\n\n**Critical Failure** The creature is [[Conditions/Frightened|Frightened 2]]."
  
+```
+
+```encounter-table
+name: Gigantopithecus
+creatures:
+  - 1: Gigantopithecus
 ```
 
 

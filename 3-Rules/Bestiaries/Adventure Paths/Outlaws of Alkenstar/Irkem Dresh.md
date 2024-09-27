@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/humanoid
   - pf2e/creature/type/lawful
+  - pf2eMonster
   - pf2e/creature/level/3
 statblock: inline
 name: "Irkem Dresh"
@@ -23,13 +24,13 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #178: Punks in a Powder Keg"
 name: "Irkem Dresh"
 level: "Creature 3"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Medium"
-trait_01: "dwarf"
-trait_02: "evil"
-trait_03: "humanoid"
-trait_04: "lawful"
+trait_01: [[dwarf]]
+trait_02: [[evil]]
+trait_03: [[humanoid]]
+trait_04: [[lawful]]
 modifier: 8
 perception:
   - name: "Perception"
@@ -37,7 +38,7 @@ perception:
 languages: "Common, Dwarven, Jotun"
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +9, Banking Lore: +8, Deception: +7, Diplomacy: +5, Intimidation: +9, Nature: +7, Society: +6, Thievery: +6"
+    desc: "Acrobatics: +9, Deception: +7, Diplomacy: +5, Intimidation: +9, Nature: +7, Society: +6, Thievery: +6, Banking Lore: +8"
 abilityMods: [1, 4, 3, 1, 3, 0]
 speed: 25 feet
 sourcebook: "_Pathfinder #178: Punks in a Powder Keg_"
@@ -57,7 +58,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Defying Glare"
-    desc: "`pf2:r`  **Trigger** A creature uses a mental effect against Dresh and fails or critically fails\n**Effect** Dresh [[Actions/Demoralize|Demoralizes]] that creature; when she does, Demoralize loses the auditory trait and gains the visual trait and she doesn't take a penalty if the creature doesn't understand her language."
+    desc: "`pf2:r`  **Trigger** A creature uses a mental effect against Dresh and fails or critically fails\n* * *\n\n**Effect** Dresh [[Actions/Demoralize|Demoralizes]] that creature; when she does, Demoralize loses the auditory trait and gains the visual trait and she doesn't take a penalty if the creature doesn't understand her language."
 
 attacks:
   - name: ""
@@ -72,11 +73,17 @@ attacks:
     desc: "  Dresh can use the promise of wealth to distract her foes. When she succeeds or critically succeeds on a Deception check to [[Actions/Feint|Feint]] against a target within 30 feet, the target is [[Conditions/Off-Guard|Off-Guard]] against her ranged attacks as well as her melee Strikes."
 
   - name: "Silver Shower Shot"
-    desc: "`pf2:1`  **Frequency** once per round\n**Effect** Dresh throws 2d6 silver pieces into the air, potentially distracting her target. Dresh makes a Deception check to [[Actions/Feint|Feint]] against a creature within 30 feet that can see her and which she can see. If her flintlock pistol is loaded, Dresh then makes a ranged flintlock pistol Strike against that target."
+    desc: "`pf2:1`  **Frequency** once per round\n* * *\n\n**Effect** Dresh throws 2d6 silver pieces into the air, potentially distracting her target. Dresh makes a Deception check to [[Actions/Feint|Feint]] against a creature within 30 feet that can see her and which she can see. If her flintlock pistol is loaded, Dresh then makes a ranged flintlock pistol Strike against that target."
 
   - name: "[[Bestiary Ability Glossary/Sneak Attack|Sneak Attack]]"
     desc: "  Dresh deals an additional 1d6 precision damage to [[Conditions/Off-Guard|Off-Guard]] creatures."
  
+```
+
+```encounter-table
+name: Irkem Dresh
+creatures:
+  - 1: Irkem Dresh
 ```
 
 

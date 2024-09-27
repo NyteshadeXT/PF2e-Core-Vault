@@ -6,6 +6,7 @@ cssClasses: pf2e
 aliases: "Compendium.battlezoo-bestiary-pf2e.pf2e-battlezoo-bestiary.Actor.YdhWQlUxoHSbth7m" 
 tags:
   - pf2e/creature/type/construct
+  - pf2eMonster
   - pf2e/creature/level/9
 statblock: inline
 name: "Living Library"
@@ -21,17 +22,18 @@ token: [[modules/battlezoo-bestiary-pf2e/art/living_library.webp| ]]
 source: "Battlezoo Bestiary"
 name: "Living Library"
 level: "Creature 9"
-rare_03: "Rare"
+rare_03: [[Rare]]
 alignment: ""
 size: "Medium"
-trait_01: "construct"
+trait_01: [[construct]]
 modifier: 19
 perception:
   - name: "Perception"
     desc: "+19; Darkvision"
+languages: "telepathy 100 feet; tongues"
 skills:
   - name: "Skills"
-    desc: "Arcana: +22, Deception: +12, Nature: +19, Religion: +19, Society: +20, Stealth: +14 (+20 in libraries and schools), Occultism: +20"
+    desc: "Arcana: +22, Deception: +12, Nature: +19, Occultism: +20, Religion: +19, Society: +20, Stealth: +14"
 abilityMods: [3, 4, 4, 7, 4, -3]
 speed: 25 feet
 sourcebook: "_Battlezoo Bestiary_"
@@ -50,7 +52,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Versatile Counterspell"
-    desc: "`pf2:r` (arcane) **Trigger** A creature Casts a Spell;\n**Effect** The living library expends a prepared spell to counter the triggering creature's casting. The living library can expend either the same spell or any spell of 1 level higher than the triggering spell. The living library loses the spell slot as if it had cast the triggering spell. It then attempts to counteract the triggering spell."
+    desc: "`pf2:r` (arcane) **Trigger** A creature Casts a Spell;\n* * *\n\n**Effect** The living library expends a prepared spell to counter the triggering creature's casting. The living library can expend either the same spell or any spell of 1 level higher than the triggering spell. The living library loses the spell slot as if it had cast the triggering spell. It then attempts to counteract the triggering spell."
 
 attacks:
   - name: ""
@@ -65,11 +67,17 @@ attacks:
     desc: "`pf2:1` (concentrate,polymorph) The living library assumes the form of some mundane academic furniture, such as a desk covered in pens and scrolls or a bookshelf full of arcane tomes. This doesn't change the living library's texture or overall size but can alter its coloration and visual appearance. It has an automatic result of 36 on Deception checks and DCs to pass as the furniture that it's impersonating."
 
   - name: "Copy Spell"
-    desc: "`pf2:1` (arcane) **Requirements** The living library successfully counteracted a spell with Versatile Counterspell since its last turn;\n**Effect** The living library rolls an Arcana check to Recall Knowledge to identify the spell. On a success, the living library writes the spell in one of its many spellbooks. It can immediately replace one of the spells it has prepared for this new spell."
+    desc: "`pf2:1` (arcane) **Requirements** The living library successfully counteracted a spell with Versatile Counterspell since its last turn;\n\n**Effect** The living library rolls an Arcana check to Recall Knowledge to identify the spell. On a success, the living library writes the spell in one of its many spellbooks. It can immediately replace one of the spells it has prepared for this new spell."
 
   - name: "Scroll Vortex"
-    desc: "`pf2:2` (arcane) **Frequency** once per hour;\n**Effect** The living library sighs mightily, creating a vortex of swirling parchment within 60 feet. This vortex fills a 15-foot-by-15-foot space. A creature that starts its turn in the vortex takes 8d8 slashing damage (basic Reflex save).\nThe vortex lasts for 1d4 rounds."
+    desc: "`pf2:2` (arcane) **Frequency** once per hour;\n\n**Effect** The living library sighs mightily, creating a vortex of swirling parchment within 60 feet. This vortex fills a 15-foot-by-15-foot space. A creature that starts its turn in the vortex takes 8d8 slashing damage (DC 28 basic Reflex save).\n\nThe vortex lasts for 1d4 rounds."
  
+```
+
+```encounter-table
+name: Living Library
+creatures:
+  - 1: Living Library
 ```
 
 

@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/human
   - pf2e/creature/type/humanoid
   - pf2e/creature/type/werecreature
+  - pf2eMonster
   - pf2e/creature/level/3
   - remaster
 statblock: inline
@@ -28,10 +29,10 @@ level: "Creature 3"
 
 alignment: ""
 size: "Medium"
-trait_01: "beast"
-trait_02: "human"
-trait_03: "humanoid"
-trait_04: "werecreature"
+trait_01: [[beast]]
+trait_02: [[human]]
+trait_03: [[humanoid]]
+trait_04: [[werecreature]]
 modifier: 9
 perception:
   - name: "Perception"
@@ -39,7 +40,7 @@ perception:
 languages: "Common; Wolf Empathy"
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +7, Athletics: +9, Survival: +0, Survival: +0, Survival: +10"
+    desc: "Acrobatics: +7, Athletics: +9, Survival: +0"
 abilityMods: [4, 2, 2, -1, 2, 1]
 speed: 25 feet
 sourcebook: "_Pathfinder Monster Core_"
@@ -91,6 +92,12 @@ attacks:
   - name: "Pack Attack"
     desc: "  The werewolf's Strikes deal 1d6 extra damage to creatures within reach of at least two of the werewolf's allies."
  
+```
+
+```encounter-table
+name: Werewolf
+creatures:
+  - 1: Werewolf
 ```
 
 

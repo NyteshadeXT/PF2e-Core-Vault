@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.pathfinder-monster-core.Actor.IjFlp5eVVTEg902W"
 tags:
   - pf2e/creature/type/dwarf
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/1
   - remaster
 statblock: inline
@@ -19,14 +20,15 @@ license: ORC
 columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
+token: [[modules/pf2e-tokens-monster-core/assets/portraits/dwarf-warrior.webp| ]]
 source: "Pathfinder Monster Core"
 name: "Dwarf Warrior"
 level: "Creature 1"
 
 alignment: ""
 size: "Medium"
-trait_01: "dwarf"
-trait_02: "humanoid"
+trait_01: [[dwarf]]
+trait_02: [[humanoid]]
 modifier: 7
 perception:
   - name: "Perception"
@@ -71,6 +73,12 @@ attacks:
   - name: "Shielded Charge"
     desc: "`pf2:2`  The dwarf warrior Raises a Shield and Strides twice."
  
+```
+
+```encounter-table
+name: Dwarf Warrior
+creatures:
+  - 1: Dwarf Warrior
 ```
 
 

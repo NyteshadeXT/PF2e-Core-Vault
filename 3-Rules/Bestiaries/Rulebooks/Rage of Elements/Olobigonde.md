@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/aquatic
   - pf2e/creature/type/elemental
   - pf2e/creature/type/water
+  - pf2eMonster
   - pf2e/creature/level/2
   - remaster
 statblock: inline
@@ -27,17 +28,18 @@ level: "Creature 2"
 
 alignment: ""
 size: "Large"
-trait_01: "animal"
-trait_02: "aquatic"
-trait_03: "elemental"
-trait_04: "water"
+trait_01: [[animal]]
+trait_02: [[aquatic]]
+trait_03: [[elemental]]
+trait_04: [[water]]
 modifier: 7
 perception:
   - name: "Perception"
     desc: "+7; Scent (Imprecise) 60 Feet"
+languages: ""
 skills:
   - name: "Skills"
-    desc: "Athletics: +10, Stealth: +9 (+11 in aquatic terrain), Survival: +7"
+    desc: "Athletics: +10, Stealth: +9, Survival: +7"
 abilityMods: [3, 1, 4, -4, 1, -5]
 speed: 5 feet,  swim 30 feet
 sourcebook: "_Pathfinder Rage of Elements_"
@@ -62,14 +64,20 @@ attacks:
     desc: "`pf2:1` Jaws +11 ()\n__Damage__  1d8 + 3 piercing plus decomposing-toxin"
 
   - name: "Ambush"
-    desc: "`pf2:r`  **Trigger** A target creature passes within 20 feet of the olobigonde's hiding place and has not detected the olobigonde\n**Effect** The olobigonde lunges out of its hiding place, Swims directly toward the triggering creature, and makes a jaws Strike against it. The target creature is [[Conditions/Off-Guard|Off-Guard]] to this attack."
+    desc: "`pf2:r`  **Trigger** A target creature passes within 20 feet of the olobigonde's hiding place and has not detected the olobigonde\n* * *\n\n**Effect** The olobigonde lunges out of its hiding place, Swims directly toward the triggering creature, and makes a jaws Strike against it. The target creature is [[Conditions/Off-Guard|Off-Guard]] to this attack."
 
   - name: "Decomposing Toxin"
-    desc: " (poison) A living creature struck by an olobigonde's jaws Strike must succeed at a DC 15 Fortitude check save or become [[Conditions/Enfeebled 1|Enfeebled 1]] and take 1d6 poison persistent damage (or [[Conditions/Enfeebled 1|Enfeebled 2]] with 2d6 poison persistent damage on a critical failure). The enfeebled condition ends when the persistent damage does. A creature currently affected by decomposing toxin doesn't need to save again."
+    desc: " (poison) A living creature struck by an olobigonde's jaws Strike must succeed at a DC 15 Fortitude check save or become [[Conditions/Enfeebled|Enfeebled 1]] and take 1d6 poison persistent damage (or [[Conditions/Enfeebled|Enfeebled 2]] with 2d6 poison persistent damage on a critical failure). The enfeebled condition ends when the persistent damage does. A creature currently affected by decomposing toxin doesn't need to save again."
 
   - name: "Reactive Grab"
-    desc: "`pf2:r`  **Trigger** A creature within the olobigonde's reach leaves a square during a move action it's using\n**Requirements** The olobigonde doesn't have a creature [[Conditions/Grabbed|Grabbed]]\n**Effect** The olobigonde attempts to [[Actions/Grapple|Grapple]] the triggering creature with its jaws. On a success, the target also takes 3 piercing damage (doubled on a critical success)."
+    desc: "`pf2:r`  **Trigger** A creature within the olobigonde's reach leaves a square during a move action it's using\n\n**Requirements** The olobigonde doesn't have a creature [[Conditions/Grabbed|Grabbed]]\n* * *\n\n**Effect** The olobigonde attempts to [[Actions/Grapple|Grapple]] the triggering creature with its jaws. On a success, the target also takes 3 piercing damage (doubled on a critical success)."
  
+```
+
+```encounter-table
+name: Olobigonde
+creatures:
+  - 1: Olobigonde
 ```
 
 

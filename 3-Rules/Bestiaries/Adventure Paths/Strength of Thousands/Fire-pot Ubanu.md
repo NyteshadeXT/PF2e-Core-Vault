@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/chaotic
   - pf2e/creature/type/human
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/8
 statblock: inline
 name: "Fire-pot Ubanu"
@@ -22,12 +23,12 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #170: Spoken on the Song Wind"
 name: "Fire-pot Ubanu"
 level: "Creature 8"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Medium"
-trait_01: "chaotic"
-trait_02: "human"
-trait_03: "humanoid"
+trait_01: [[chaotic]]
+trait_02: [[human]]
+trait_03: [[humanoid]]
 modifier: 16
 perception:
   - name: "Perception"
@@ -78,6 +79,12 @@ attacks:
   - name: "Quick Bomber"
     desc: "`pf2:1`  Ubanu Interacts to draw a bomb, then Strikes with it."
  
+```
+
+```encounter-table
+name: Fire-pot Ubanu
+creatures:
+  - 1: Fire-pot Ubanu
 ```
 
 

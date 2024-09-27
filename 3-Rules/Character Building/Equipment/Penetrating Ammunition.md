@@ -26,7 +26,7 @@ license: ORC
 
 * * *
 
-This ammunition has a slender shape and a viciously pointed tip. When you activate and shoot _penetrating ammunition_, the Strike takes the shape of a 60-foot line originating from you.
+This ammunition has a slender shape and a viciously pointed tip. When you activate and shoot _penetrating ammunition_, the Strike takes the shape of a @Template\[line|distance:60\] originating from you.
 
 Roll one attack roll and compare the result to the AC of each target in the line. The ammunition ignores up to 10 of a target's resistance, and it can penetrate walls up to 1 foot thick with Hardness 10 or less. Each target that takes damage from this ammunition also takes 1d6 bleed.
 

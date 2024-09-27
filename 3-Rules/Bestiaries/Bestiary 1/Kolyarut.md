@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/inevitable
   - pf2e/creature/type/lawful
   - pf2e/creature/type/monitor
+  - pf2eMonster
   - pf2e/creature/level/12
 statblock: inline
 name: "Kolyarut"
@@ -27,18 +28,18 @@ level: "Creature 12"
 
 alignment: ""
 size: "Medium"
-trait_01: "aeon"
-trait_02: "inevitable"
-trait_03: "lawful"
-trait_04: "monitor"
+trait_01: [[aeon]]
+trait_02: [[inevitable]]
+trait_03: [[lawful]]
+trait_04: [[monitor]]
 modifier: 23
 perception:
   - name: "Perception"
     desc: "+23; Darkvision"
-languages: "Diabolic, Empyrean, Utopian"
+languages: "Diabolic, Empyrean, Utopian; truespeech"
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +22, Athletics: +27, Axis Lore: +22, Deception: +20, Diplomacy: +20, Survival: +22"
+    desc: "Acrobatics: +22, Athletics: +27, Deception: +20, Diplomacy: +20, Survival: +22, Axis Lore: +22"
 abilityMods: [7, 4, 5, 1, 4, 2]
 speed: 25 feet
 sourcebook: "_Pathfinder Bestiary_"
@@ -75,6 +76,12 @@ attacks:
   - name: "Rituals"
     desc: "_[[Spells/Geas|Geas]]_"
  
+```
+
+```encounter-table
+name: Kolyarut
+creatures:
+  - 1: Kolyarut
 ```
 
 

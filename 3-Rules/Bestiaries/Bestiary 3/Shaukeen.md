@@ -10,6 +10,7 @@ tags:
   - pf2e/creature/type/fiend
   - pf2e/creature/type/lawful
   - pf2e/creature/type/unholy
+  - pf2eMonster
   - pf2e/creature/level/1
 statblock: inline
 name: "Shaukeen"
@@ -28,16 +29,16 @@ level: "Creature 1"
 
 alignment: ""
 size: "tiny"
-trait_01: "asura"
-trait_02: "evil"
-trait_03: "fiend"
-trait_04: "lawful"
-trait_05: "unholy"
+trait_01: [[asura]]
+trait_02: [[evil]]
+trait_03: [[fiend]]
+trait_04: [[lawful]]
+trait_05: [[unholy]]
 modifier: 8
 perception:
   - name: "Perception"
     desc: "+8; Darkvision"
-languages: "Common, Diabolic"
+languages: "Common, Diabolic; telepathy (touch)"
 skills:
   - name: "Skills"
     desc: "Acrobatics: +7, Deception: +9, Performance: +7, Religion: +7, Stealth: +7"
@@ -71,11 +72,17 @@ attacks:
     desc: "DC 17, attack +9; __2nd __  _[[Spells/Charm|Charm]]_, _[[Spells/Gecko Grip|Spider Climb]]_, _[[Spells/Stupefy|Touch of Idiocy]]_\n__Cantrips__  __(1st)__ _[[Spells/Read Aura|Read Aura]]_\n__Constant__  __(3rd)__ _[[Spells/Disguise Magic|Magic Aura (Shaukeen and its Items Only)]]_, _[[Spells/Veil of Privacy|Nondetection (Self Only)]]_"
 
   - name: "[[Bestiary Ability Glossary/Change Shape|Change Shape]]"
-    desc: "`pf2:1` (concentrate,divine,polymorph) The shaukeen takes on the appearance of a Small humanoid. This doesn't change the shaukeen's Speed or their attack and damage modifiers with their Strikes, but it might change the damage type their Strikes deal (typically to bludgeoning). The asura typically loses their jaws and thorn Strikes unless the humanoid form has fangs or a similar unarmed attack.\nThis alternate form has a specific, persistent appearance, which the shaukeen can change by performing a 1-hour ritual.\n"
+    desc: "`pf2:1` (concentrate,divine,polymorph) The shaukeen takes on the appearance of a Small humanoid. This doesn't change the shaukeen's Speed or their attack and damage modifiers with their Strikes, but it might change the damage type their Strikes deal (typically to bludgeoning). The asura typically loses their jaws and thorn Strikes unless the humanoid form has fangs or a similar unarmed attack.\n\nThis alternate form has a specific, persistent appearance, which the shaukeen can change by performing a 1-hour ritual.\n\n* * *\n"
 
   - name: "Fire Jackal Saliva"
-    desc: " (poison) **Saving Throw** DC 17 Fortitude check\n**Maximum Duration** 6 rounds\n**Stage 1** 1d4 poison damage and [[Conditions/Clumsy 1|Clumsy 1]] (1 round)\n**Stage 2** 1d6 poison damage and [[Conditions/Clumsy 1|Clumsy 2]] (1 round)"
+    desc: " (poison) **Saving Throw** DC 17 Fortitude check\n* * *\n\n**Maximum Duration** 6 rounds\n\n**Stage 1** 1d4 poison damage and [[Conditions/Clumsy|Clumsy 1]] (1 round)\n\n**Stage 2** 1d6 poison damage and [[Conditions/Clumsy|Clumsy 2]] (1 round)"
  
+```
+
+```encounter-table
+name: Shaukeen
+creatures:
+  - 1: Shaukeen
 ```
 
 

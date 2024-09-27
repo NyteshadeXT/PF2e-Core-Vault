@@ -3,6 +3,7 @@ obsidianUIMode: preview
 title: "Voicebox"
 cssclasses: pf2e,pf2e-action
 tags:
+  - trait/illusion
   - trait/magical
   - trait/common
 aliases: "Compendium.pf2e.equipment-srd.Item.uWe8GXBjAdA0q4ad"
@@ -10,7 +11,7 @@ license: OGL
 ---
 # Voicebox
 
-### [[magical]]
+### [[illusion]][[magical]]
 
 
 **Price** 5 sp; 

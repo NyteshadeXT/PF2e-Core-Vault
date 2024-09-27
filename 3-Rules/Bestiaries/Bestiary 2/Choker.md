@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/aberration
   - pf2e/creature/type/chaotic
   - pf2e/creature/type/evil
+  - pf2eMonster
   - pf2e/creature/level/2
 statblock: inline
 name: "Choker"
@@ -26,9 +27,9 @@ level: "Creature 2"
 
 alignment: ""
 size: "Small"
-trait_01: "aberration"
-trait_02: "chaotic"
-trait_03: "evil"
+trait_01: [[aberration]]
+trait_02: [[chaotic]]
+trait_03: [[evil]]
 modifier: 7
 perception:
   - name: "Perception"
@@ -36,7 +37,7 @@ perception:
 languages: "Aklo, Sakvroth"
 skills:
   - name: "Skills"
-    desc: "Athletics: +9 (+11 to Grapple), Stealth: +9"
+    desc: "Athletics: +9, Stealth: +9"
 abilityMods: [3, 3, 1, -3, 1, -2]
 speed: 20 feet,  climb 15 feet
 sourcebook: "_Pathfinder Bestiary 2_"
@@ -55,7 +56,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Yank"
-    desc: "`pf2:r` (manipulate) **Trigger** An enemy targets the choker with an attack\n**Effect** The choker tries to pull a creature it has [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]] into the path of the attack. The choker attempts an Athletics check, including its bonus to [[Actions/Grapple|Grapple]]. If it succeeds against the grabbed or restrained creature's Fortitude DC, the choker redirects the attack to that creature, and the attacker compares its attack roll result against the new target's AC. The choker must move the creature into a space adjacent to itself. The creature must also be moved within the attacker's reach against a melee attack or into a space between itself and the attacker against a ranged attack. The choker can't use this ability to make the attacker target itself, even if it's grabbing or restraining the attacker."
+    desc: "`pf2:r` (manipulate) **Trigger** An enemy targets the choker with an attack\n* * *\n\n**Effect** The choker tries to pull a creature it has [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]] into the path of the attack. The choker attempts an Athletics check, including its bonus to [[Actions/Grapple|Grapple]]. If it succeeds against the grabbed or restrained creature's Fortitude DC, the choker redirects the attack to that creature, and the attacker compares its attack roll result against the new target's AC. The choker must move the creature into a space adjacent to itself. The creature must also be moved within the attacker's reach against a melee attack or into a space between itself and the attacker against a ranged attack. The choker can't use this ability to make the attacker target itself, even if it's grabbing or restraining the attacker."
 
 attacks:
   - name: ""
@@ -64,7 +65,7 @@ attacks:
     desc: "`pf2:1` Arm +11 (reach 10 feet)\n__Damage__  1d6 + 3 bludgeoning plus strangling-fingers"
 
   - name: "[[Bestiary Ability Glossary/Constrict|Constrict]]"
-    desc: "`pf2:1`  1d6 + 3 bludgeoning, DC 19 Fortitude check\n"
+    desc: "`pf2:1`  1d6+3 bludgeoning, DC 19 Fortitude check\n\n* * *\n"
 
   - name: "Hidden Movement"
     desc: "  If the choker starts its turn [[Conditions/Hidden|Hidden]] from or [[Conditions/Undetected|Undetected]] by a creature, that creature is [[Conditions/Off-Guard|Off-Guard]] against the choker's attacks until the end of the turn."
@@ -72,6 +73,12 @@ attacks:
   - name: "Strangling Fingers"
     desc: "  Any creature hit by a choker's arm Strike is automatically [[Conditions/Grabbed|Grabbed]], and the choker begins to strangle the target. The creature is suffocating and can't speak as long as it's strangled. This prevents it from casting spells with a verbal component or activating items with a command component."
  
+```
+
+```encounter-table
+name: Choker
+creatures:
+  - 1: Choker
 ```
 
 

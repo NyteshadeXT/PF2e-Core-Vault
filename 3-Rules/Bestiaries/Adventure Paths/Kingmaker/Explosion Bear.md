@@ -6,6 +6,7 @@ tags:
   - fire
   - magical
   - trap
+  - pf2eHazard
 
 source: Pathfinder Kingmaker
 aliases: "Compendium.pf2e.kingmaker-bestiary.Actor.sNqAajzeDA9BUkfa" 
@@ -23,15 +24,15 @@ name: "Explosion Bear"
 level: "Hazard 20"
 
 
-trait_01: "fire"
-trait_02: "magical"
-trait_03: "trap"
+trait_01: [[fire]]
+trait_02: [[magical]]
+trait_03: [[trap]]
 modifier: 38
 sourcebook: "_Pathfinder Kingmaker_"
 ac: 20
 armorclass:
   - name: AC
-    desc: "20; __Fort__ +8, __Ref__ +14, __Will__ +0"
+    desc: "20; __Fort__ +8, __Ref__ +14, "
 hp: 40
 health:
   - name: ""
@@ -53,9 +54,15 @@ attacks:
   - name: ""
 
   - name: "Fireball"
-    desc: "`pf2:r` (fire, magical, trap) **Trigger** The animated bear is reduced below its BT, or it finishes its three-round dance while there are still people in the room\n**Effect** The rune detonates into a blast of fire centered on the bear. All creatures within a 20-foot radius of the center of area **K6** take 16d10 fire damage (DC 42 Reflex check)."
+    desc: "`pf2:r` (fire, magical, trap) **Trigger** The animated bear is reduced below its BT, or it finishes its three-round dance while there are still people in the room\n* * *\n\n**Effect** The rune detonates into a blast of fire centered on the bear. All creatures within a 20-foot radius of the center of area **K6** take 16d10 fire damage (DC 42 Reflex check)."
 
 
 
+```
+
+```encounter-table
+name: Explosion Bear
+creatures:
+  - 1: Explosion Bear
 ```
 

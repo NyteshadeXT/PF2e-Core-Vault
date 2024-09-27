@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/chaotic
   - pf2e/creature/type/dream
   - pf2e/creature/type/evil
+  - pf2eMonster
   - pf2e/creature/level/18
 statblock: inline
 name: "Leng Envoy"
@@ -23,21 +24,21 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Kingmaker"
 name: "Leng Envoy"
 level: "Creature 18"
-rare_03: "Rare"
+rare_03: [[Rare]]
 alignment: ""
 size: "Medium"
-trait_01: "aberration"
-trait_02: "chaotic"
-trait_03: "dream"
-trait_04: "evil"
+trait_01: [[aberration]]
+trait_02: [[chaotic]]
+trait_03: [[dream]]
+trait_04: [[evil]]
 modifier: 31
 perception:
   - name: "Perception"
     desc: "+31; Darkvision"
-languages: "Aklo"
+languages: "Aklo; tongues"
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +32, Athletics: +29, Deception: +35, Intimidation: +32, Occultism: +35, Sailing Lore: +38, Stealth: +32, Thievery: +30"
+    desc: "Acrobatics: +32, Athletics: +29, Deception: +35, Intimidation: +32, Occultism: +35, Stealth: +32, Thievery: +30, Sailing Lore: +38"
 abilityMods: [5, 6, 5, 9, 5, 6]
 speed: 30 feet
 sourcebook: "_Pathfinder Kingmaker_"
@@ -57,7 +58,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "[[Bestiary Ability Glossary/Fast Healing|Planar Fast Healing]]"
-    desc: "  A denizen of Leng maintains a connection to Leng at all times, and when away from Leng, they have fast healing 15. They lose this ability on Leng or in areas where planar connections do not function. If killed, their body dissolves into nothingness in 1d4 rounds, leaving behind their equipment. A slain denizen reforms in Leng; they can be permanently killed only when their planar fast healing doesn't function.\n"
+    desc: "  A denizen of Leng maintains a connection to Leng at all times, and when away from Leng, they have fast healing 15. They lose this ability on Leng or in areas where planar connections do not function. If killed, their body dissolves into nothingness in 1d4 rounds, leaving behind their equipment. A slain denizen reforms in Leng; they can be permanently killed only when their planar fast healing doesn't function.\n\n* * *\n"
 
   - name: "No Breath"
     desc: "  The Leng envoy doesn't need to breathe."
@@ -75,14 +76,20 @@ attacks:
     desc: "DC 40, attack +34; __9th __  _[[Spells/Phantom Pain|Phantom Pain]]_, _[[Spells/Truespeech|Tongues (Tongues)]]_, _[[Spells/Unfathomable Song|Unfathomable Song]]_; __8th __  _[[Spells/Suggestion|Suggestion]]_, _[[Spells/Uncontrollable Dance|Uncontrollable Dance]]_; __7th __  _[[Spells/Warp Mind|Warp Mind]]_; __5th __  _[[Spells/Locate|Locate]]_, _[[Spells/Mind Probe|Mind Probe]]_; __4th __  _[[Spells/Outcast's Curse|Outcast's Curse]]_; __3rd __  _[[Spells/Hypnotize|Hypnotic Pattern]]_, _[[Spells/Levitate|Levitate]]_; __2nd __  _[[Spells/Mirror Image|Mirror Image]]_\n__Cantrips__  __(9th)__ _[[Spells/Void Warp|Chill Touch]]_, _[[Spells/Detect Magic|Detect Magic]]_, _[[Spells/Telekinetic Hand|Mage Hand]]_, _[[Spells/Message|Message]]_, _[[Spells/Read Aura|Read Aura]]_"
 
   - name: "Debilitating Bite"
-    desc: " (curse,occult) A creature that takes damage from a denizen's bite must succeed at a DC 40 Fortitude check save or become [[Conditions/Clumsy 1|Clumsy 1]]. Each time a target fails an additional save against this ability, the condition value increases by 1 (to a maximum of Clumsy 4). This condition value decreases by 1 every 24 hours."
+    desc: " (curse,occult) A creature that takes damage from a denizen's bite must succeed at a DC 40 Fortitude check save or become [[Conditions/Clumsy|Clumsy 1]]. Each time a target fails an additional save against this ability, the condition value increases by 1 (to a maximum of Clumsy 4). This condition value decreases by 1 every 24 hours."
 
   - name: "Leng Ruby"
     desc: " (occult) Many denizens of Leng carry strange rubies mined from quarries in Leng. As long as a creature holds a Leng ruby that it willingly accepted as a gift or payment from a denizen of Leng, any denizen of Leng can target that creature with [[Spells/Mind Reading|Mind Reading]], [[Spells/Outcast's Curse|Outcast's Curse]], [[Spells/Phantom Pain|Phantom Pain]], or [[Spells/Warp Mind|Warp Mind]] at a range of 1 mile, and the bearer uses an outcome one degree of success worse than the result of its saving throw against _Outcast's Curse_."
 
   - name: "Play the Pipes"
-    desc: "`pf2:3` (auditory,primal) **Frequency** once per day\n**Requirements** The Leng envoy is holding a musical instrument\n**Effect** The envoy plays a melody on its instrument to cast [[Spells/Uncontrollable Dance|Uncontrollable Dance]], [[Spells/Unfathomable Song|Unfathomable Song]], or [[Spells/Warp Mind|Warp Mind]] without expending the spell slot and using his music in place of providing the spell's component actions. The spell gains the auditory trait and targets all creatures in a 60-foot emanation instead of its usual targets. A creature that succeeds at its Will save against any spell is then temporarily immune from all spells played from the envoy's pipes for 1 minute. Aberrations are immune to this music."
+    desc: "`pf2:3` (auditory,primal) **Frequency** once per day\n\n**Requirements** The Leng envoy is holding a musical instrument\n* * *\n\n**Effect** The envoy plays a melody on its instrument to cast [[Spells/Uncontrollable Dance|Uncontrollable Dance]], [[Spells/Unfathomable Song|Unfathomable Song]], or [[Spells/Warp Mind|Warp Mind]] without expending the spell slot and using his music in place of providing the spell's component actions. The spell gains the auditory trait and targets all creatures in a @Template[emanation|distance:60] instead of its usual targets. A creature that succeeds at its Will save against any spell is then temporarily immune from all spells played from the envoy's pipes for 1 minute. Aberrations are immune to this music."
  
+```
+
+```encounter-table
+name: Leng Envoy
+creatures:
+  - 1: Leng Envoy
 ```
 
 

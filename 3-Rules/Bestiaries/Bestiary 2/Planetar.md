@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/celestial
   - pf2e/creature/type/good
   - pf2e/creature/type/holy
+  - pf2eMonster
   - pf2e/creature/level/16
 statblock: inline
 name: "Planetar"
@@ -24,18 +25,18 @@ token: [[modules/pf2e-tokens-bestiaries/portraits/divine/angel/planetar.webp| ]]
 source: "Pathfinder Bestiary 2"
 name: "Planetar"
 level: "Creature 16"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Large"
-trait_01: "angel"
-trait_02: "celestial"
-trait_03: "good"
-trait_04: "holy"
+trait_01: [[angel]]
+trait_02: [[celestial]]
+trait_03: [[good]]
+trait_04: [[holy]]
 modifier: 28
 perception:
   - name: "Perception"
     desc: "+28; Darkvision, Truesight"
-languages: "Diabolic, Draconic, Empyrean"
+languages: "Diabolic, Draconic, Empyrean; tongues"
 skills:
   - name: "Skills"
     desc: "Athletics: +32, Intimidation: +32, Religion: +32"
@@ -58,7 +59,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Aura of Righteousness"
-    desc: " (aura,divine) 20 feet. Allies in the planetar's aura gain a +2 status bonus to AC against evil creatures and a +2 status bonus to damage rolls against evil creatures. The area in the aura is difficult terrain for evil creatures.\n[[Bestiary Effects/Effect_ Aura of Righteousness (Planetar)|Effect: Aura of Righteousness (Planetar)]]"
+    desc: " (aura,divine) 20 feet. Allies in the planetar's aura gain a +2 status bonus to AC against evil creatures and a +2 status bonus to damage rolls against evil creatures. The area in the aura is difficult terrain for evil creatures.\n\n[[Bestiary Effects/Effect_ Aura of Righteousness (Planetar)|Effect: Aura of Righteousness (Planetar)]]"
 
 attacks:
   - name: ""
@@ -76,11 +77,17 @@ attacks:
     desc: "`pf2:2` (holy) The planetar makes a greatsword Strike against a target it detects as evil. If the target is evil, the Strike deals three extra weapon damage dice and deals 1d6 persistent spirit damage to the target. The planetar can convert all the physical damage from the attack into spirit damage."
 
   - name: "[[Bestiary Ability Glossary/Change Shape|Change Shape]]"
-    desc: "`pf2:1` (concentrate,divine,polymorph) The planetar can take on the appearance of any Small or Medium humanoid. This doesn't change their Speed or Strikes.\n"
+    desc: "`pf2:1` (concentrate,divine,polymorph) The planetar can take on the appearance of any Small or Medium humanoid. This doesn't change their Speed or Strikes.\n\n* * *\n"
 
   - name: "Holy Armaments"
     desc: " (divine) Any weapon gains the effect of a _[[Equipment/Holy|Holy]]_ property rune while a planetar wields it."
  
+```
+
+```encounter-table
+name: Planetar
+creatures:
+  - 1: Planetar
 ```
 
 

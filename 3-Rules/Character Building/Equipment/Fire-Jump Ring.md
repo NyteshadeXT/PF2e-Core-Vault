@@ -6,23 +6,23 @@ tags:
   - trait/fire
   - trait/invested
   - trait/magical
-  - trait/teleportation
   - trait/uncommon
+  - remaster
 aliases: "Compendium.pf2e.equipment-srd.Item.64mxKuxc9k98FkUi"
-license: OGL
+license: ORC
 ---
 # Fire-Jump Ring
 ## Item 10
-### [uncommon](uncommon "Uncommon Rarity Trait")[[3-Rules/Rule References/Fire]][[invested]][[magical]][[teleportation]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[3-Rules/Rule References/Fire]][[invested]][[3-Rules/Rule References/Magical]]
 
 
 **Price** 940 gp; 
 **Bulk** 0; **Size** med
 **Usage** worn
 
-This dark-red ring is engraved with ashen symbols and smells faintly of smoke.
+This black, metal ring is inset with rubies that occasionally give off wisps of smoke. It grants you a +2 item bonus to Athletics checks.
 
-**Activate** `pf2:2` envision, Interact
+**Activate—Fire Jump** `pf2:2` (concentrate, manipulate, teleportation)
 
 **Frequency** once per day
 
@@ -30,5 +30,5 @@ This dark-red ring is engraved with ashen symbols and smells faintly of smoke.
 
 **Effect** You Stride (or Burrow or Fly, if you have the corresponding Speed) into any fire large enough to contain you, including magical fires. You vanish into the fire and take no damage from it. You can sense all sufficiently large fires within 100 feet of where you vanish, and you reemerge from any of those fires, either within the fire or adjacent to it. If you end your movement in the fire, it affects you as normal.
 
-*Source: Pathfinder Advanced Player's Guide*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

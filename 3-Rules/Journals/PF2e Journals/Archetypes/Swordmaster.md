@@ -12,7 +12,7 @@ Though the ultimate goal of the Pathfinder society is to learn, knowledge cannot
 
 ## Pathfinder Society Archetypes
 
-The following archetypes are uncommon, but are available to members of the Pathfinder Society. Qualifying characters with the archetype can select one of these dedication feats even if they have not gained three feats from the [[undefined]] archetype, and each of these archetypes' feats fulfills the [[Feats/Pathfinder Agent Dedication|Pathfinder Agent Dedication's]] special requirement despite not being from the Pathfinder agent archetype.
+The following archetypes are uncommon, but are available to members of the Pathfinder Society. Qualifying characters with the archetype can select one of these dedication feats even if they have not gained three feats from the [[PF2e Journals/Archetypes/Pathfinder Agent|Pathfinder Agent]] archetype, and each of these archetypes' feats fulfills the [[Feats/Pathfinder Agent Dedication|Pathfinder Agent Dedication's]] special requirement despite not being from the Pathfinder agent archetype.
 
 ## [[Feats/Swordmaster Dedication|Swordmaster Dedication]] Feat 6
 

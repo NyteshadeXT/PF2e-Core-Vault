@@ -17,7 +17,7 @@ license: OGL
 
 
 
-**Moderate Boon** You share some of the bravery Cayden espoused during his ascension.
+You share some of the bravery Cayden espoused during his ascension.
 
 When you roll a success on a saving throw against a fear effect, you get a critical success instead. If you have the fighter [[Class Features/Bravery|Bravery]] class feature, when you roll a critical failure on a save against a fear effect, you get a failure instead.
 

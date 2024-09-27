@@ -13,7 +13,7 @@ license: OGL
 ---
 # Alchemist's Damper
 ## Item 5
-### [uncommon](uncommon "Uncommon Rarity Trait")[[consumable]][[magical]][[talisman]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[consumable]][[3-Rules/Rule References/Magical]][[talisman]]
 
 **Category** talisman; 
 **Price** 30 gp; 

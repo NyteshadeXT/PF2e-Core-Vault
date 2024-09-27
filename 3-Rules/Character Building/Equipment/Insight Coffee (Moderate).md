@@ -31,5 +31,7 @@ A popular choice for investigators studying alchemy, insight coffee is infused w
 *   **Pumpkin Spice** Occultism
 *   **Toffee** Medicine
 
+[[Equipment Effects/Effect_ Insight Coffee (Moderate)|Effect: Insight Coffee (Moderate)]]
+
 *Source: Pathfinder Treasure Vault*
 *OGL*

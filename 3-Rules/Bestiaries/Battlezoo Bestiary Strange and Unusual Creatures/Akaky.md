@@ -11,6 +11,7 @@ tags:
   - pf2e/creature/type/spirit
   - pf2e/creature/type/undead
   - pf2e/creature/type/unholy
+  - pf2eMonster
   - pf2e/creature/level/3
 statblock: inline
 name: "Akaky"
@@ -26,15 +27,15 @@ token: [[modules/battlezoo-bestiary-su-pf2e/art/Portraits/akaky.webp| ]]
 source: "Battlezoo Bestiary: Strange and Unusual"
 name: "Akaky"
 level: "Creature 3"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Medium"
-trait_01: "chaotic"
-trait_02: "evil"
-trait_03: "incorporeal"
-trait_04: "spirit"
-trait_05: "undead"
-trait_06: "unholy"
+trait_01: [[chaotic]]
+trait_02: [[evil]]
+trait_03: [[incorporeal]]
+trait_04: [[spirit]]
+trait_05: [[undead]]
+trait_06: [[unholy]]
 modifier: 8
 perception:
   - name: "Perception"
@@ -42,7 +43,7 @@ perception:
 languages: "Common, Necril"
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +9, Intimidation: +7, Society: +9, "
+    desc: "Acrobatics: +9, Intimidation: +7, Society: +9, Acrobatics: +9, Intimidation: +7, Society: +9"
 abilityMods: [-5, -4, 0, 0, 3, 0]
 speed:  fly 25 feet
 sourcebook: "_Battlezoo Bestiary: Strange and Unusual_"
@@ -70,17 +71,23 @@ attacks:
   - name: ""
 
   - name: "Melee"
-    desc: "`pf2:1` Ghostly Hand +11 (agile, finesse, magical)\n__Damage__  1d8 + 6 void plus ghostly-grab"
+    desc: "`pf2:1` Ghostly Hand +11 (agile, finesse, magical)\n__Damage__ "
 
   - name: "[[Bestiary Ability Glossary/Grab|Ghostly Grab]]"
-    desc: "`pf2:1`  As Grab, but the akaky can Grab a corporeal creature despite being incorporeal itself. It is only able to do so by manifesting a fading image of a ghostly overcoat onto the creature and then clutching onto the incorporeal coat. This spiritual garment superimposes over any winter clothing a target might have, allowing the akaky to potentially tear the warm clothing off the victim after killing them. The Escape DC for victims of an akaky's Grab is 20, rather than the akaky's Athletics DC.\n"
+    desc: "`pf2:1`  As Grab, but the akaky can Grab a corporeal creature despite being incorporeal itself. It is only able to do so by manifesting a fading image of a ghostly overcoat onto the creature and then clutching onto the incorporeal coat. This spiritual garment superimposes over any winter clothing a target might have, allowing the akaky to potentially tear the warm clothing off the victim after killing them. The [[undefined]] DC for victims of an akaky's Grab is 20, rather than the akaky's Athletics DC.\n\n* * *\n"
 
   - name: "Steal Coat"
-    desc: "`pf2:1`  **Requirements** The akaky has a creature Grabbed\n**Effect** The akaky rips the ghostly overcoat off and fills the target with the freezing cold of a fierce winter night. The target takes 1d8 + 6 cold damage, with a DC 20 Fortitude check save.\n**Critical Success** Target is unaffected.\n**Success** Target takes half damage but its coat remains secure.\n**Failure** Target takes full damage. If the target was wearing winter clothing, the clothing phases off their body along with the superimposed ghostly overcoat and falls to the ground in the target's space. Because the akaky is only able to grab the coat, not the creature directly, this causes the creature's grabbed condition to end, though it doesn't stop the akaky from using its Ghostly Grab ability again later to manifest a new coat.\n**Critical Failure** As failure, but the target is also Clumsy 1 and Enfeebled 1 until it spends 10 minutes in a warm environment."
+    desc: "`pf2:1`  **Requirements** The akaky has a creature [[undefined]]\n* * *\n\n**Effect** The akaky rips the ghostly overcoat off and fills the target with the freezing cold of a fierce winter night. The target takes 1d8+6 cold damage, with a DC 20 Fortitude check save.\n* * *\n\n**Critical Success** Target is unaffected.\n\n**Success** Target takes half damage but its coat remains secure.\n\n**Failure** Target takes full damage. If the target was wearing winter clothing, the clothing phases off their body along with the superimposed ghostly overcoat and falls to the ground in the target's space. Because the akaky is only able to grab the coat, not the creature directly, this causes the creature's grabbed condition to end, though it doesn't stop the akaky from using its Ghostly Grab ability again later to manifest a new coat.\n\n**Critical Failure** As failure, but the target is also [[undefined]] and [[undefined]] until it spends 10 minutes in a warm environment."
 
   - name: "Jealous Hatred"
     desc: "  An akaky gains +2 circumstance bonus to all its attack rolls against targets wearing winter clothing, but its hatred for such creatures is also ultimately its undoing. Strikes made by creature wearing winter clothing are treated as magical when attacking the akaky."
  
+```
+
+```encounter-table
+name: Akaky
+creatures:
+  - 1: Akaky
 ```
 
 

@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.pathfinder-bestiary-3.Actor.S2DdLrq9V7M5WzM3"
 tags:
   - pf2e/creature/type/chaotic
   - pf2e/creature/type/fey
+  - pf2eMonster
   - pf2e/creature/level/3
 statblock: inline
 name: "Dvorovoi"
@@ -25,8 +26,8 @@ level: "Creature 3"
 
 alignment: ""
 size: "Small"
-trait_01: "chaotic"
-trait_02: "fey"
+trait_01: [[chaotic]]
+trait_02: [[fey]]
 modifier: 12
 perception:
   - name: "Perception"
@@ -34,7 +35,7 @@ perception:
 languages: "Common, Fey"
 skills:
   - name: "Skills"
-    desc: "Crafting: +8, Household Lore: +11, Nature: +9, Stealth: +9"
+    desc: "Crafting: +8, Nature: +9, Stealth: +9, Household Lore: +11"
 abilityMods: [3, 2, 1, -1, 0, 1]
 speed: 30 feet
 sourcebook: "_Pathfinder Bestiary 3_"
@@ -52,7 +53,7 @@ abilities_top:
   - name: "Items"
     desc: "Pitchfork"
   - name: "Master of the Yard"
-    desc: "  The dvorovoi helps or causes trouble in the yard, milking or scaring cows, protecting or scattering tools, and so forth. By commanding their home to attack, the dvorovoi can [[Actions/Grapple|Grapple]], [[Actions/Shove|Shove]], [[Actions/Trip|Trip]], and [[Actions/Disarm|Disarm]] with their enraged home Strike.\nThe dvorovoi uses their Household Lore instead of Athletics skill for these checks."
+    desc: "  The dvorovoi helps or causes trouble in the yard, milking or scaring cows, protecting or scattering tools, and so forth. By commanding their home to attack, the dvorovoi can [[Actions/Grapple|Grapple]], [[Actions/Shove|Shove]], [[Actions/Trip|Trip]], and [[Actions/Disarm|Disarm]] with their enraged home Strike.\n\nThe dvorovoi uses their Household Lore instead of Athletics skill for these checks."
 
 abilities_mid:
   - name: ""
@@ -68,6 +69,12 @@ attacks:
   - name: "Primal Innate Spells"
     desc: "DC 18, attack +10; __2nd __  _[[Spells/Entangling Flora|Entangle]]_, _[[Spells/Speak with Animals|Speak with Animals (At Will)]]_; __1st __  _[[Spells/Charm|Charm (Animals Only)]]_, _[[Spells/Command|Command (Animals Only)]]_, _[[Spells/Mending|Mending]]_\n__Cantrips__  __(2nd)__ _[[Spells/Telekinetic Hand|Mage Hand]]_, _[[Spells/Prestidigitation|Prestidigitation]]_"
  
+```
+
+```encounter-table
+name: Dvorovoi
+creatures:
+  - 1: Dvorovoi
 ```
 
 

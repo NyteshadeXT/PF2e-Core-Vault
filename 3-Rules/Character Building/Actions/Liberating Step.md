@@ -6,19 +6,20 @@ tags:
   - trait/champion
   - trait/common
   - category/defensive
+  - remaster
 aliases: "Compendium.pf2e.actionspf2e.Item.IX1VlVCL5sFTptEE"
-license: OGL
+license: ORC
 ---
 # Liberating Step `pf2:r`
 
-### [[champion]]
+### [[3-Rules/trait_reference/champion]]
 
 **Category** defensive; 
 
 
 
 
-**Trigger** An enemy damages, [[Conditions/Grabbed|Grabs]], or [[Actions/Grapple|Grapples]] your ally, and both are within 15 feet of you
+**Trigger** An enemy damages, [[Conditions/Grabbed|grabs]], or [[Conditions/Restrained|restrains]] your ally, and both are in your champion's aura
 
 * * *
 
@@ -32,5 +33,5 @@ If they can move, the ally can Step as a free action, even if they didn't need t
 
 [[Feat_Feature Effects/Effect_ Champion's Resistance|Effect: Champion's Resistance]]
 
-*Source: Pathfinder Core Rulebook*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

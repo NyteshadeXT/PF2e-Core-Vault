@@ -7,8 +7,9 @@ tags:
   - trait/skill
   - trait/common
   - category/skill
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.f0faBEUPtspdutKx"
-license: OGL
+license: ORC
 ---
 # Acrobatic Performer
 ## Feat 1
@@ -20,9 +21,7 @@ license: OGL
 
 **Prerequisites** trained in Acrobatics
 * * *
-You're an incredible acrobat, evoking wonder and enrapturing audiences with your prowess. It's almost a performance!
+You're an incredible acrobat, evoking wonder and enrapturing audiences with your prowess. You can roll an [[/act perform skill=acrobatics variant=dance]]{Acrobatics} check instead of a Performance check when using the [[Actions/Perform|Perform]] action. If you are trained in both Acrobatics and Performance, you gain a +1 circumstances bonus on Acrobatics checks made to Perform.
 
-You can roll an Acrobatics check instead of a Performance check when using the [[Actions/Perform|Perform]] action.
-
-*Source: Pathfinder Advanced Player's Guide*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

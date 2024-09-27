@@ -5,6 +5,7 @@ noteType: pf2eHazard
 tags:
   - magical
   - sonic
+  - pf2eHazard
 
 source: Pathfinder #177: Burning Tundra
 aliases: "Compendium.pf2e.quest-for-the-frozen-flame-bestiary.Actor.5huE8GHx2GRJDBx0" 
@@ -22,14 +23,14 @@ name: "Shattering Rune"
 level: "Hazard 9"
 
 
-trait_01: "magical"
-trait_02: "sonic"
+trait_01: [[magical]]
+trait_02: [[sonic]]
 modifier: 23
 sourcebook: "_Pathfinder #177: Burning Tundra_"
 ac: 10
 armorclass:
   - name: AC
-    desc: "10; __Fort__ +0, __Ref__ +0, __Will__ +0"
+    desc: "10; "
 hp: 0
 health:
   - name: ""
@@ -51,9 +52,15 @@ attacks:
   - name: ""
 
   - name: "Shattering Shockwave"
-    desc: "`pf2:r` (arcane, sonic) **Trigger** A Small or larger creature comes within 10 feet of the rune\n**Effect** The rune unleashes a deafening peal of thunder that deals 10d8 sonic damage in a 20-foot burst (DC 30 Reflex check)."
+    desc: "`pf2:r` (arcane, sonic) **Trigger** A Small or larger creature comes within 10 feet of the rune\n* * *\n\n**Effect** The rune unleashes a deafening peal of thunder that deals 10d8 sonic damage in a 20-foot burst (DC 30 Reflex check)."
 
 
 
+```
+
+```encounter-table
+name: Shattering Rune
+creatures:
+  - 1: Shattering Rune
 ```
 

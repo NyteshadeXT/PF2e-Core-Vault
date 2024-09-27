@@ -9,8 +9,9 @@ tags:
   - trait/visual
   - trait/uncommon
   - category/class
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.CAaXGhHDMRM3Pt4J"
-license: OGL
+license: ORC
 ---
 # Cavalier's Banner
 ## Feat 4
@@ -26,7 +27,7 @@ license: OGL
 
 * * *
 
-You fly the banner of your pledge from your mount, raising your allies' spirits. You and all allies within 30 feet gain a +1 circumstance bonus to Will saves and DCs against fear effects. If your banner is destroyed or removed, allies within 30 feet become [[Conditions/Frightened 1|Frightened 1]].
+You fly the banner of your pledge from your mount, raising your allies' spirits. You and all allies within 30 feet gain a +1 circumstance bonus to Will saves and DCs against fear effects. If your banner is destroyed or removed, allies within 30 feet become [[Conditions/Frightened|Frightened 1]].
 
 [[Feat_Feature Effects/Effect_ Cavalier's Banner|Effect: Cavalier's Banner]]
 
@@ -38,5 +39,5 @@ Many cavaliers pledge themselves in service to a specific organization or indivi
 
 Cavaliers who have pledged themselves can gain access to certain abilities related to that pledge, such as Cavalier's Banner. If you violate the anathema of your pledge, you lose access to those feats until you benefit from an [[Spells/Atone|Atone]] ritual. Changing the subject of your pledge is equivalent to retraining a class feature.
 
-*Source: Pathfinder Advanced Player's Guide*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

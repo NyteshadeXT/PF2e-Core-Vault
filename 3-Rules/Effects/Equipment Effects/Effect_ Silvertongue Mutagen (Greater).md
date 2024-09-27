@@ -4,8 +4,9 @@ title: "Effect: Silvertongue Mutagen (Greater)"
 cssclasses: pf2e,pf2e-spell
 tags:
   - trait/common
+  - remaster
 aliases: "Compendium.pf2e.equipment-effects.Item.oAewXfq9c0ecaSfw"
-license: OGL
+license: ORC
 ---
 # Effect: Silvertongue Mutagen (Greater)
 ## Level 11
@@ -30,5 +31,5 @@ Unimplemented effects:
 
 *   Become untrained in one skill you're trained in
 
-*Source: Pathfinder Core Rulebook*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.pathfinder-monster-core.Actor.V90OYOMyyPLPJuod"
 tags:
   - pf2e/creature/type/humanoid
   - pf2e/creature/type/orc
+  - pf2eMonster
   - pf2e/creature/level/1
   - remaster
 statblock: inline
@@ -19,14 +20,15 @@ license: ORC
 columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
+token: [[modules/pf2e-tokens-bestiaries/portraits/humanoid/orc-warrior.webp| ]]
 source: "Pathfinder Monster Core"
 name: "Orc Veteran"
 level: "Creature 1"
 
 alignment: ""
 size: "Medium"
-trait_01: "humanoid"
-trait_02: "orc"
+trait_01: [[humanoid]]
+trait_02: [[orc]]
 modifier: 6
 perception:
   - name: "Perception"
@@ -74,6 +76,12 @@ attacks:
   - name: "Ranged"
     desc: "`pf2:1` Javelin +5 (thrown 30 ft.)\n__Damage__  1d6 + 4 piercing"
  
+```
+
+```encounter-table
+name: Orc Veteran
+creatures:
+  - 1: Orc Veteran
 ```
 
 

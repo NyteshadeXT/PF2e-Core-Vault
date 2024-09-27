@@ -7,6 +7,7 @@ aliases: "Compendium.battlezoo-bestiary-su-pf2e.pf2e-battlezoo-su-actors.Actor.z
 tags:
   - pf2e/creature/type/chaotic
   - pf2e/creature/type/monitor
+  - pf2eMonster
   - pf2e/creature/level/17
 statblock: inline
 name: "Adada"
@@ -22,18 +23,19 @@ token: [[modules/battlezoo-bestiary-su-pf2e/art/Portraits/adada.webp| ]]
 source: "Battlezoo Bestiary: Strange and Unusual"
 name: "Adada"
 level: "Creature 17"
-rare_03: "Rare"
+rare_03: [[Rare]]
 alignment: ""
 size: "Small"
-trait_01: "chaotic"
-trait_02: "monitor"
+trait_01: [[chaotic]]
+trait_02: [[monitor]]
 modifier: 29
 perception:
   - name: "Perception"
     desc: "+29; Darkvision, Tremorsense (Imprecise) 90 Feet"
+languages: "tongue of nonsense"
 skills:
   - name: "Skills"
-    desc: "Arcana: +31, Athletics: +30, Crafting: +33, Performance: +36, Art Lore: +33, "
+    desc: "Arcana: +31, Athletics: +30, Crafting: +33, Performance: +36, Arcana: +31, Athletics: +30, Crafting: +33, Performance: +36, Art Lore: +33"
 abilityMods: [9, 6, 9, 6, 6, 9]
 speed: 50 feet,  burrow 35 feet,  fly 40 feet,  swim 35 feet
 sourcebook: "_Battlezoo Bestiary: Strange and Unusual_"
@@ -55,10 +57,10 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Aura of Illogicality"
-    desc: " (aura,divine) 60 feet. Creatures within range attempt a DC 35 Will check save. On failure, the world melts into a chaotic morass of randomness and absurdity, causing the creature to become Stupefied 2. The flat check from this stupefied condition to avoid losing an action also applies to all actions using tools, weapons, or other objects, as the equipment's functionality sporadically becomes random and nonsensical. On a successful Will save, the creature is temporarily immune for 1 minute."
+    desc: " (aura,divine) 60 feet. Creatures within range attempt a DC 35 Will check save. On failure, the world melts into a chaotic morass of randomness and absurdity, causing the creature to become [[undefined]]. The flat check from this stupefied condition to avoid losing an action also applies to all actions using tools, weapons, or other objects, as the equipment's functionality sporadically becomes random and nonsensical. On a successful Will save, the creature is temporarily immune for 1 minute."
 
   - name: "Melt Time"
-    desc: "`pf2:r` (divine) **Trigger** The adada becomes slowed or stunned\n**Effect**: The adada attempts to counteract its Slowed and Stunned conditions (using its Performance modifier as its counteract modifier with a counteract level of 9). Regardless of whether it succeeds, it becomes Quickened for 1 minute and can use the extra action to Strike, Stride, Burrow, Fly, or Swim."
+    desc: "`pf2:r` (divine) **Trigger** The adada becomes slowed or stunned\n* * *\n\n**Effect**: The adada attempts to counteract its [[Conditions/Slowed|Slowed]] and [[Conditions/Stunned|Stunned]] conditions (using its Performance modifier as its counteract modifier with a counteract level of 9). Regardless of whether it succeeds, it becomes [[undefined]] for 1 minute and can use the extra action to Strike, Stride, Burrow, Fly, or Swim."
 
   - name: "Structure Vulnerability"
     desc: "  Unarmed attacks from creatures that follow a rigid code, such as tenets and anathemas trigger an adada's weakness to lawful damage, even if the creature isn't lawful."
@@ -76,14 +78,20 @@ attacks:
     desc: "DC 38, attack +30; __8th __  _[[Spells/Teleport|Teleport]]_\n__Constant__  __(8th)__ _[[Spells/Unfettered Movement|Freedom of Movement]]_, _[[Spells/Hidden Mind|Mind Blank]]_"
 
   - name: "Anti-Poetry"
-    desc: " (auditory,divine,emotion,mental) An adada's plume recites a sound poem on impact, which infects their victim with scathing and cutting satire that threatens to rip them apart, dealing 3d6 slashing damage with a DC 38 Will check save. On a critical failure, the creature is also Stunned 2."
+    desc: " (auditory,divine,emotion,mental) An adada's plume recites a sound poem on impact, which infects their victim with scathing and cutting satire that threatens to rip them apart, dealing 3d6 slashing damage with a DC 38 Will check save. On a critical failure, the creature is also [[undefined]]."
 
   - name: "De-Artifice Convention"
-    desc: "`pf2:3` (divine,visual) **Frequency** Once per 1 minute\n**Effect** The adada unmakes order in a 300 foot radius. Unattended objects without the magical trait become broken. The area becomes difficult terrain as the ground cracks, shifts, and transforms into formless absurdity. All creatures in the radius 12d10 bludgeoning damage from the sudden shift of aesthetics, with a DC 38 Reflex check save."
+    desc: "`pf2:3` (divine,visual) **Frequency** Once per 1 minute\n* * *\n\n**Effect** The adada unmakes order in a 300 foot radius. Unattended objects without the magical trait become broken. The area becomes difficult terrain as the ground cracks, shifts, and transforms into formless absurdity. All creatures in the radius 12d10 bludgeoning damage from the sudden shift of aesthetics, with a DC 38 Reflex check save."
 
   - name: "Rhetoric of Violence"
     desc: "`pf2:2`  The Adada babbles strange violent rhetoric, allowing it to make three confounding attacks as one. It Strikes three times with its tongue, each against a different target. These count as only one attack for its multiple attack penalty."
  
+```
+
+```encounter-table
+name: Adada
+creatures:
+  - 1: Adada
 ```
 
 

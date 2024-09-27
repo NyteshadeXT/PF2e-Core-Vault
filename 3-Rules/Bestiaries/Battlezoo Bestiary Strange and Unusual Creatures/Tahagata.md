@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/astral
   - pf2e/creature/type/chaotic
   - pf2e/creature/type/evil
+  - pf2eMonster
   - pf2e/creature/level/6
 statblock: inline
 name: "Tahagata"
@@ -24,21 +25,21 @@ token: [[modules/battlezoo-bestiary-su-pf2e/art/Portraits/tahagata.webp| ]]
 source: "Battlezoo Bestiary: Strange and Unusual"
 name: "Tahagata"
 level: "Creature 6"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Medium"
-trait_01: "aberration"
-trait_02: "astral"
-trait_03: "chaotic"
-trait_04: "evil"
+trait_01: [[aberration]]
+trait_02: [[astral]]
+trait_03: [[chaotic]]
+trait_04: [[evil]]
 modifier: 17
 perception:
   - name: "Perception"
     desc: "+17; Darkvision"
-languages: "Aklo"
+languages: "Aklo; tongues"
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +13, Athletics: +13, Deception: +15, Intimidation: +15, Occultism: +15, Stealth: +15, "
+    desc: "Acrobatics: +13, Athletics: +13, Deception: +15, Intimidation: +15, Occultism: +15, Stealth: +15, Acrobatics: +13, Athletics: +13, Deception: +15, Intimidation: +15, Occultism: +15, Stealth: +15"
 abilityMods: [4, 4, 4, 4, 4, 4]
 speed: 35 feet
 sourcebook: "_Battlezoo Bestiary: Strange and Unusual_"
@@ -55,15 +56,15 @@ abilities_top:
   - name: ""
 
   - name: "Presaging Reflection"
-    desc: " (occult,visual) A creature within 30 feet who Seeks as a 1 minute activity (gazing carefully at the reflections upon the tahagata's body) can see a glimpse of their own fate. This acts similarly to a _Read Omens_ spell, but the predictions are made with one especially incorrect assumption. If the tahagata is aware of such observation, they can choose to purposefully twist the vision that the creature sees. In that case, the GM makes a secret DC 25 Will check save for the observer; on a failure, the tahagata shows them a false vision of the tahagata's design, often one that leads the observer to harm. A creature can only ever benefit from viewing any given tahagata's reflection a single time."
+    desc: " (occult,visual) A creature within 30 feet who Seeks as a 1 minute activity (gazing carefully at the reflections upon the tahagata's body) can see a glimpse of their own fate. This acts similarly to a _[[Spells/Read Omens|Read Omens]]_ spell, but the predictions are made with one especially incorrect assumption. If the tahagata is aware of such observation, they can choose to purposefully twist the vision that the creature sees. In that case, the GM makes a secret DC 25 Will check save for the observer; on a failure, the tahagata shows them a false vision of the tahagata's design, often one that leads the observer to harm. A creature can only ever benefit from viewing any given tahagata's reflection a single time."
 
 abilities_mid:
   - name: ""
   - name: "Enoptromancy"
-    desc: "`pf2:r` (concentrate,curse,occult) **Trigger** The tahagata is Juxtaposed and takes damage from one of the Juxtaposed creature's allies.\n**Effect** The Juxtaposed creature must attempt a DC 24 Will check save; on a failure, the Juxtaposition ends and the creature is affected by an _Inevitable Disaster_ spell dealing 35 damage instead of 55, with the triggering ally being the source of the spell's eventual damage, if possible."
+    desc: "`pf2:r` (concentrate,curse,occult) **Trigger** The tahagata is Juxtaposed and takes damage from one of the Juxtaposed creature's allies.\n* * *\n\n**Effect** The Juxtaposed creature must attempt a DC 24 Will check save; on a failure, the Juxtaposition ends and the creature is affected by an _[[Spells/Inevitable Disaster|Inevitable Disaster]]_ spell dealing 35 damage instead of 55, with the triggering ally being the source of the spell's eventual damage, if possible."
 
   - name: "Fortune Weakness"
-    desc: "  A tahagata takes 10 additional damage from damaging effects with the fortune trait or benefiting from an effect with the fortune trait (for instance, attacks affected by a _True Strike_ spell)."
+    desc: "  A tahagata takes 10 additional damage from damaging effects with the fortune trait or benefiting from an effect with the fortune trait (for instance, attacks affected by a _[[Spells/Sure Strike|True Strike]]_ spell)."
 
 attacks:
   - name: ""
@@ -81,11 +82,17 @@ attacks:
     desc: "`pf2:1`  "
 
   - name: "Envisage"
-    desc: "`pf2:1`  **Requirements** The tahagata has a creature Grabbed\n**Effect** The tahagata Juxtaposes into the grabbed creature, and the two briefly meld, during which the tahagata can choose to either imperceptibly swap places with the creature or remain in its original position, making it impossible in either case to determine which is the original creature at a glance. Creatures who successfully Seek against the tahagata's Deception DC can discern which of the two is real."
+    desc: "`pf2:1`  **Requirements** The tahagata has a creature [[undefined]]\n* * *\n\n**Effect** The tahagata Juxtaposes into the grabbed creature, and the two briefly meld, during which the tahagata can choose to either imperceptibly swap places with the creature or remain in its original position, making it impossible in either case to determine which is the original creature at a glance. Creatures who successfully [[undefined]] against the tahagata's Deception DC can discern which of the two is real."
 
   - name: "Juxtapose"
-    desc: " (occult,polymorph) **Trigger** The tahagata's turn begins.\n**Effect** The tahagata peers into the soul of a Large or smaller sapient creature that it can detect, seeing the variations of that creature that could have existed, and changing its appearance to Impersonate one of these nearly-indistinguishable variants until the beginning of its next turn. The creature must attempt a DC 21 Will check save; on a failure, while the tahagata remains Juxtaposed as them, the creature rolls twice and takes the lower result whenever it makes a check against the tahagata (this is a misfortune effect), while the tahagata rolls twice on checks it makes against the creature, taking the higher result (this is a fortune effect).\n[[Effects/Effect_ Juxtapose|Effect: Juxtapose]]"
+    desc: " (occult,polymorph) **Trigger** The tahagata's turn begins.\n* * *\n\n**Effect** The tahagata peers into the soul of a Large or smaller sapient creature that it can detect, seeing the variations of that creature that could have existed, and changing its appearance to Impersonate one of these nearly-indistinguishable variants until the beginning of its next turn. The creature must attempt a DC 21 Will check save; on a failure, while the tahagata remains Juxtaposed as them, the creature rolls twice and takes the lower result whenever it makes a check against the tahagata (this is a misfortune effect), while the tahagata rolls twice on checks it makes against the creature, taking the higher result (this is a fortune effect).\n\n[[Effects/Effect_ Juxtapose|Effect: Juxtapose]]"
  
+```
+
+```encounter-table
+name: Tahagata
+creatures:
+  - 1: Tahagata
 ```
 
 
@@ -96,7 +103,7 @@ When a tahagata juxtaposes itself with another creature, mimicking that creature
 
 * * *
 
-Mirrorborn are a family of creatures with connections to both the Astral Plane and the infinite alternate realities beyond the twisted dimensions found within mirrors. Much like the evil duplicates found on the other side of a _Darkside Mirror_, most mirrorborn represent the infinite possibilities of the multiverse, of things that aren't but could have been. This category of mirrorborn includes tahagatas and fragmentors, two entities formed from the paradoxical distortion of potential into a corporeal form. To a lesser extent, the same is true of chiraluses, the incarnations of the reflections that could never be, embodying reflections of creatures like vampires that ordinarily have no reflections. Finally, odrazu are highly unusual mirrorborn, as they form from a symbiotic hybrid between a devil and the Astral Plane, peppered with otherworldly energies from alternate mirror dimensions.
+Mirrorborn are a family of creatures with connections to both the Astral Plane and the infinite alternate realities beyond the twisted dimensions found within mirrors. Much like the evil duplicates found on the other side of a _[[Hazards (Rulebooks)/Darkside Mirror|Darkside Mirror]]_, most mirrorborn represent the infinite possibilities of the multiverse, of things that aren't but could have been. This category of mirrorborn includes tahagatas and fragmentors, two entities formed from the paradoxical distortion of potential into a corporeal form. To a lesser extent, the same is true of chiraluses, the incarnations of the reflections that could never be, embodying reflections of creatures like vampires that ordinarily have no reflections. Finally, odrazu are highly unusual mirrorborn, as they form from a symbiotic hybrid between a devil and the Astral Plane, peppered with otherworldly energies from alternate mirror dimensions.
 
 One commonality among all mirrorborn is their physical connection to mirrors: odrazu feed on reflections, chiraluses appear as two-dimensional reflections, tahagatas take a form built of myriad mirrored surfaces, and fragmentors are composed of countless jagged mirror shards. This doesn't mean that they are necessarily more likely to be found in areas where mirrors are more common, as each of the creatures brings their mirrored physicality along with them.
 

@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/beast
   - pf2e/creature/type/evil
   - pf2e/creature/type/swarm
+  - pf2eMonster
   - pf2e/creature/level/14
 statblock: inline
 name: "Psychic Rat King"
@@ -24,21 +25,21 @@ token: [[modules/battlezoo-bestiary-su-pf2e/art/Portraits/psychic-rat-king.webp|
 source: "Battlezoo Bestiary: Strange and Unusual"
 name: "Psychic Rat King"
 level: "Creature 14"
-rare_03: "Rare"
+rare_03: [[Rare]]
 alignment: ""
 size: "Large"
-trait_01: "aberration"
-trait_02: "beast"
-trait_03: "evil"
-trait_04: "swarm"
+trait_01: [[aberration]]
+trait_02: [[beast]]
+trait_03: [[evil]]
+trait_04: [[swarm]]
 modifier: 26
 perception:
   - name: "Perception"
     desc: "+26; Low-Light Vision, Scent (Imprecise) 30 Feet, Thoughtsense (Imprecise) 120 Feet"
-languages: "Aklo"
+languages: "Aklo; telepathy 60 feet, tongues"
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +27, Athletics: +23 (+27 to Climb or Swim), Deception: +25, Diplomacy: +25, Intimidation: +27, Stealth: +27, "
+    desc: "Acrobatics: +27, Athletics: +23, Deception: +25, Diplomacy: +25, Intimidation: +27, Stealth: +27, Acrobatics: +27, Athletics: +23, Deception: +25, Diplomacy: +25, Intimidation: +27, Stealth: +27"
 abilityMods: [2, 5, 4, 9, 8, 5]
 speed: 30 feet
 sourcebook: "_Battlezoo Bestiary: Strange and Unusual_"
@@ -72,8 +73,14 @@ attacks:
     desc: "`pf2:1`  Each enemy in the psychic rat king's space takes 4d12 piercing damage and must attempt a DC 31 Reflex check save. A creature that fails its Reflex save is exposed to psychic fever."
 
   - name: "Psychic Fever"
-    desc: " (disease,mental) The stupefied and unconscious conditions suffered from psychic fever don't improve on their own until the disease is cured.\n**Saving Throw** DC 34 Will check\n**Stage 1** carrier with no ill effect (1d4 hours),\n**Stage 2** Stupefied 2 (1 day),\n**Stage 3** stupefied 2 and Confused (1 day),\n**Stage 4** Unconscious (1 day),\n**Stage 5** dead"
+    desc: " (disease,mental) The stupefied and unconscious conditions suffered from psychic fever don't improve on their own until the disease is cured.\n\n**Saving Throw** DC 34 Will check\n\n**Stage 1** carrier with no ill effect (1d4 hours),\n\n**Stage 2** [[undefined]] (1 day),\n\n**Stage 3** stupefied 2 and [[undefined]] (1 day),\n\n**Stage 4** [[undefined]] (1 day),\n\n**Stage 5** dead"
  
+```
+
+```encounter-table
+name: Psychic Rat King
+creatures:
+  - 1: Psychic Rat King
 ```
 
 

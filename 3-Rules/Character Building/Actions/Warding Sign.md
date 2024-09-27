@@ -5,12 +5,13 @@ cssclasses: pf2e,pf2e-action
 tags:
   - trait/concentrate
   - trait/common
+  - remaster
 aliases: "Compendium.pf2e.actionspf2e.Item.7pdG8l9POMK76Lf2"
-license: OGL
+license: ORC
 ---
 # Warding Sign `pf2:r`
 
-### [[concentrate]]
+### [[3-Rules/Rule References/Concentrate]]
 
 
 
@@ -25,5 +26,5 @@ license: OGL
 
 **Effect** You call on the power of a personal, eldritch sign of protection, which flares brightly before slowly fading. You gain a +2 circumstance bonus to the triggering saving throw, or a +3 circumstance bonus if the effect is a curse.
 
-*Source: Pathfinder Advanced Player's Guide*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

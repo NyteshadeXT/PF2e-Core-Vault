@@ -32,7 +32,7 @@ The strain of conflict wears upon your body, even though you gain vitality from 
 
 #### Major Curse (11th)
 
-Your body proves capable of truly heroic feats, but doing so interferes with your mental focus. Your moderate curse's fast healing is equal to your level, and its damage bonus is +6. You gain a +1 status bonus to weapon and unarmed attack rolls, but you are [[Conditions/Stupefied 1|Stupefied 2]].
+Your body proves capable of truly heroic feats, but doing so interferes with your mental focus. Your moderate curse's fast healing is equal to your level, and its damage bonus is +6. You gain a +1 status bonus to weapon and unarmed attack rolls, but you are [[Conditions/Stupefied|Stupefied 2]].
 
 *Source: Pathfinder Advanced Player's Guide*
 *OGL*

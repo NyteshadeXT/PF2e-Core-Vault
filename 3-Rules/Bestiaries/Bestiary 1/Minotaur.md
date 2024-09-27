@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/chaotic
   - pf2e/creature/type/evil
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/4
 statblock: inline
 name: "Minotaur"
@@ -26,9 +27,9 @@ level: "Creature 4"
 
 alignment: ""
 size: "Large"
-trait_01: "chaotic"
-trait_02: "evil"
-trait_03: "humanoid"
+trait_01: [[chaotic]]
+trait_02: [[evil]]
+trait_03: [[humanoid]]
 modifier: 12
 perception:
   - name: "Perception"
@@ -36,7 +37,7 @@ perception:
 languages: "Jotun"
 skills:
   - name: "Skills"
-    desc: "Athletics: +14, Intimidation: +9, Survival: +12 (natural cunning)"
+    desc: "Athletics: +14, Intimidation: +9, Survival: +12"
 abilityMods: [6, 0, 3, -2, 2, -1]
 speed: 25 feet
 sourcebook: "_Pathfinder Bestiary_"
@@ -71,11 +72,17 @@ attacks:
     desc: "`pf2:2`  The minotaur swings its axe in a wide arc, making greataxe Strikes against any two foes who are adjacent to each other and within the minotaur's reach. The multiple attack penalty does not increase until after both attacks are resolved."
 
   - name: "Hunted Fear"
-    desc: "`pf2:1`  The minotaur snorts and clomps as it hunts its prey, inspiring terror. The minotaur makes an Intimidation check to [[Actions/Demoralize|Demoralize]] all living creatures within 60 feet that can hear the minotaur but not see it. Roll once and apply the result to all creatures. If the targets are in a maze or similarly difficult-to-navigate structure, the minotaur gains a +4 circumstance bonus to this check. Creatures that become [[Conditions/Frightened 1|Frightened]] as a result also take a -2 circumstance penalty to Survival checks to avoid getting lost for 1 minute. This use of Demoralize doesn't have the visual trait. Each target is temporarily immune for 1 minute.\n[[Bestiary Effects/Effect_ Hunted Fear|Effect: Hunted Fear]]"
+    desc: "`pf2:1`  The minotaur snorts and clomps as it hunts its prey, inspiring terror. The minotaur makes an Intimidation check to [[Actions/Demoralize|Demoralize]] all living creatures within 60 feet that can hear the minotaur but not see it. Roll once and apply the result to all creatures. If the targets are in a maze or similarly difficult-to-navigate structure, the minotaur gains a +4 circumstance bonus to this check. Creatures that become [[Conditions/Frightened|Frightened]] as a result also take a -2 circumstance penalty to Survival checks to avoid getting lost for 1 minute. This use of Demoralize doesn't have the visual trait. Each target is temporarily immune for 1 minute.\n\n[[Bestiary Effects/Effect_ Hunted Fear|Effect: Hunted Fear]]"
 
   - name: "Powerful Charge"
     desc: "`pf2:2`  The minotaur Strides twice, then makes a horn Strike. If it moved at least 20 feet from its starting position, the Strike's damage is increased to 2d8+10."
  
+```
+
+```encounter-table
+name: Minotaur
+creatures:
+  - 1: Minotaur
 ```
 
 

@@ -31,7 +31,7 @@ license: ORC
 
 The serrated blade of this _+1 striking dagger_ has a greenish tinge, and the hilt is sculpted to look like the head of a serpent about to strike.
 
-When you critically succeed at an attack roll with the _serpent dagger_, the target becomes [[Conditions/Sickened 1|Sickened 1]] unless it succeeds at a DC 19 Fortitude check save. This is a poison effect.
+When you critically succeed at an attack roll with the _serpent dagger_, the target becomes [[Conditions/Sickened|Sickened 1]] unless it succeeds at a DC 19 Fortitude check save. This is a poison effect.
 
 In addition, you can activate the dagger to poison a creature with a more potent poison.
 
@@ -53,7 +53,7 @@ In addition, you can activate the dagger to poison a creature with a more potent
 
 **Maximum Duration** 4 rounds
 
-**Stage 1** 1d8 poison damage and [[Conditions/Enfeebled 1|Enfeebled 1]]
+**Stage 1** 1d8 poison damage and [[Conditions/Enfeebled|Enfeebled 1]]
 
 *Source: Pathfinder GM Core*
 *ORC*

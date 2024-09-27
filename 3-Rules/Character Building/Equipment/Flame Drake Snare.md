@@ -16,7 +16,7 @@ license: OGL
 ---
 # Flame Drake Snare
 ## Item 5
-### [uncommon](uncommon "Uncommon Rarity Trait")[[clockwork]][[consumable]][[3-Rules/Rule References/Fire]][[mechanical]][[snare]][[trap]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[clockwork]][[consumable]][[3-Rules/Rule References/Fire]][[mechanical]][[snare]][[trap]]
 
 **Category** snare; 
 **Price** 25 gp; 

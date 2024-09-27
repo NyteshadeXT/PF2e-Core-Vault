@@ -21,7 +21,7 @@ license: OGL
 
 * * *
 
-**Effect** Your connections with leaders within the Pathfinder Society help you find opportunities, both new missions and support for your other endeavors. Check the box that precedes this boon when you [[Actions/Earn Income|Earn Income]] during Downtime to attempt a task of level \_. If you critically fail the check, you still earn the result of a failure for that task.
+**Effect** Your connections with leaders within the Pathfinder Society help you find opportunities, both new missions and support for your other endeavors. Check the box that precedes this boon when you [[Actions/Earn Income|Earn Income]] during Downtime to attempt a task of level _. If you critically fail the check, you still earn the result of a failure for that task.
 
 *Source: *
 *OGL*

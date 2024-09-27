@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/chaotic
   - pf2e/creature/type/construct
   - pf2e/creature/type/evil
+  - pf2eMonster
   - pf2e/creature/level/15
 statblock: inline
 name: "Orb of Insanity"
@@ -23,20 +24,20 @@ token: [[modules/battlezoo-bestiary-pf2e/art/orb_of_insanity.webp| ]]
 source: "Battlezoo Bestiary"
 name: "Orb of Insanity"
 level: "Creature 15"
-rare_03: "Rare"
+rare_03: [[Rare]]
 alignment: ""
 size: "tiny"
-trait_01: "chaotic"
-trait_02: "construct"
-trait_03: "evil"
+trait_01: [[chaotic]]
+trait_02: [[construct]]
+trait_03: [[evil]]
 modifier: 29
 perception:
   - name: "Perception"
     desc: "+29; Greater Darkvision, Truesight"
-languages: "Aklo, Chthonian, Common, Necril"
+languages: "Aklo, Chthonian, Common, Necril; telepathy 100 feet; tongues"
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +30, Arcana: +31, Deception: +29, Occultism: +31, Stealth: +28, Lore (All Subcategories): +31, "
+    desc: "Acrobatics: +30, Arcana: +31, Deception: +29, Occultism: +31, Stealth: +28, Lore (All Subcategories): +31"
 abilityMods: [3, 7, 4, 8, 6, 6]
 speed:  fly 60 feet
 sourcebook: "_Battlezoo Bestiary_"
@@ -56,13 +57,13 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Aura of Madness"
-    desc: " (aura,emotion,mental,occult) Aura 30 feet.\nThe space surrounding an orb of insanity is warped in subtle yet impossible ways. A creature that enters or begins its turn in the area must succeed at a Will save or be Confused for 1d4 rounds (1 minute on a critical failure).\nRegardless of the result of the saving throw, the creature is temporarily immune to the aura for 1 minute."
+    desc: " (aura,emotion,mental,occult) [[Bestiary Ability Glossary/Aura|Aura]] 30 feet.\n\nThe space surrounding an orb of insanity is warped in subtle yet impossible ways. A creature that enters or begins its turn in the area must succeed at a DC 33 Will save or be [[Conditions/Confused|Confused]] for 1d4 rounds (1 minute on a critical failure).\n\nRegardless of the result of the saving throw, the creature is temporarily immune to the aura for 1 minute."
 
   - name: "Drop Tentacle"
-    desc: "`pf2:r` (occult) **Trigger** A creature Grabbed by one of the orb's tentacles ends the grab;\n**Effect** The orb relinquishes the tentacle, causing the alien appendage to detach from the orb and continue to pester the triggering creature. The orb loses the tentacle, the grab ends, and the triggering creature takes 2d4 persistent void damage."
+    desc: "`pf2:r` (occult) **Trigger** A creature [[Conditions/Grabbed|Grabbed]] by one of the orb's tentacles ends the grab;\n* * *\n\n**Effect** The orb relinquishes the tentacle, causing the alien appendage to detach from the orb and continue to pester the triggering creature. The orb loses the tentacle, the grab ends, and the triggering creature takes 2d4 persistent void damage."
 
   - name: "Forbidden Knowledge"
-    desc: "`pf2:r` (incapacitation,mental,occult) **Trigger** A creature targets the orb of insanity with a divination spell that has the mental trait;\n**Effect** The triggering creature gains knowledge that fragile minds cannot endure. It gains a +4 status bonus to Occultism checks for 1 day. It must make a Will save.\nEffect: Forbidden Knowledge\n**Critical Success** The creature is unaffected.\n**Success** The creature is Stunned 1 and is Stupefied 1. The stupefied condition value decreases by 1 every 24 hours.\n**Failure** As success, but the creature is Stunned 4 and Stupefied 3.\n**Critical Failure** The creature's psyche shatters under the immense weight of the orb. The creature becomes Controlled by the orb for 1 day."
+    desc: "`pf2:r` (incapacitation,mental,occult) **Trigger** A creature targets the orb of insanity with a divination spell that has the mental trait;\n\n**Effect** The triggering creature gains knowledge that fragile minds cannot endure. It gains a +4 status bonus to Occultism checks for 1 day. It must make a DC 37 Will save.\n\n[[Effects/Effect_ Forbidden Knowledge|Effect: Forbidden Knowledge]]\n* * *\n\n**Critical Success** The creature is unaffected.\n\n**Success** The creature is [[Conditions/Stunned|Stunned 1]] and is [[Conditions/Stupefied|Stupefied 1]]. The stupefied condition value decreases by 1 every 24 hours.\n\n**Failure** As success, but the creature is [[Conditions/Stunned|Stunned 4]] and [[Conditions/Stupefied|Stupefied 3]].\n\n**Critical Failure** The creature's psyche shatters under the immense weight of the orb. The creature becomes [[Conditions/Controlled|Controlled]] by the orb for 1 day."
 
   - name: "[[Bestiary Ability Glossary/Shield Block|Shield Block]]"
     desc: "`pf2:r`  "
@@ -76,18 +77,21 @@ attacks:
   - name: "Occult Innate Spells"
     desc: "DC 37, attack +29; __8th __  _[[Spells/Pinpoint|Discern Location]]_, _[[Spells/Hidden Mind|Mind Blank]]_; __7th __  _[[Spells/Possession|Possession]]_, _[[Spells/Retrocognition|Retrocognition]]_; __6th __  _[[Spells/Scrying|Scrying]]_, _[[Spells/Scrying|Scrying]]_; __5th __  _[[Spells/Mind Probe|Mind Probe]]_; __4th __  _[[Spells/Rewrite Memory|Modify Memory]]_; __3rd __  _[[Spells/Hypercognition|Hypercognition]]_, _[[Spells/Mind Reading|Mind Reading]]_, _[[Spells/Mind Reading|Mind Reading]]_; __1st __  _[[Spells/Mindlink|Mindlink (At Will)]]_\n__Cantrips__  __(8th)__ _[[Compendium.pf2e.spells-srd.Item.kl2q6JvBZwed4B6v|Dancing Lights]]_, _[[Spells/Daze|Daze]]_, _[[Spells/Ghost Sound|Ghost Sound]]_, _[[Spells/Telekinetic Projectile|Telekinetic Projectile]]_\n__Constant__  __(6th)__ _[[Spells/Truespeech|Tongues]]_, _[[Spells/Truesight|True Seeing]]_"
 
-  - name: "Ritual"
-    desc: "DC 37, attack +29"
-
   - name: "Rituals"
     desc: "_[[Spells/Call Spirit|Call Spirit]]_, _[[Spells/Commune|Commune]]_"
 
   - name: "Spawn Tentacles"
-    desc: "`pf2:1` (occult) The orb conjures two writhing tentacles composed of negative energy, which squirm outward from the orb's surface.\nThe orb can make Strikes with its tentacles. It can also use one tentacle per turn as a shield with 10 Hardness, 20 Hit Points, and an AC bonus of +2, granting the orb the Shield Block reaction and the Raise a Shield action. A broken tentacle cannot be used to attack.\nThe orb can have a maximum of six tentacles at a time. A tentacle automatically retreats back into the orb after 1 minute."
+    desc: "`pf2:1` (occult) The orb conjures two writhing tentacles composed of negative energy, which squirm outward from the orb's surface.\n\nThe orb can make Strikes with its tentacles. It can also use one tentacle per turn as a shield with 10 Hardness, 20 Hit Points, and an AC bonus of +2, granting the orb the [[Bestiary Ability Glossary/Shield Block|Shield Block]] reaction and the [[Actions/Raise a Shield|Raise a Shield]] action. A broken tentacle cannot be used to attack.\n\nThe orb can have a maximum of six tentacles at a time. A tentacle automatically retreats back into the orb after 1 minute."
 
   - name: "Telekinetic Storm"
-    desc: "`pf2:2` (occult) The orb summons a vortex of debris that deals 4d12 bludgeoning damage in a 20-foot burst within 60 feet (basic Reflex save)."
+    desc: "`pf2:2` (occult) The orb summons a vortex of debris that deals 4d12 bludgeoning damage in a 20-foot burst within 60 feet (DC 36 basic Reflex save)."
  
+```
+
+```encounter-table
+name: Orb of Insanity
+creatures:
+  - 1: Orb of Insanity
 ```
 
 

@@ -12,7 +12,7 @@ license: OGL
 ---
 # Flare Beacon (Greater)
 ## Item 10
-### [uncommon](uncommon "Uncommon Rarity Trait")[[consumable]][[gadget]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[consumable]][[gadget]]
 
 **Category** gadget; 
 **Price** 180 gp; 

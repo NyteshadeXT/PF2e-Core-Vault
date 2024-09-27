@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/humanoid
   - pf2e/creature/type/urdefhan
+  - pf2eMonster
   - pf2e/creature/level/7
 statblock: inline
 name: "Urdefhan Lasher"
@@ -25,9 +26,9 @@ level: "Creature 7"
 
 alignment: ""
 size: "Medium"
-trait_01: "evil"
-trait_02: "humanoid"
-trait_03: "urdefhan"
+trait_01: [[evil]]
+trait_02: [[humanoid]]
+trait_03: [[urdefhan]]
 modifier: 16
 perception:
   - name: "Perception"
@@ -55,7 +56,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Necrotic Decay"
-    desc: " (divine,void) When an urdefhan dies, its invisible flesh quickly rots away and sublimates into a foul-smelling gas that fills a 5-foot emanation around the body.\nThis gas deals 7d6 void damage to creatures in this area as their flesh curdles and rots as well (DC 24 Fortitude check save)."
+    desc: " (divine,void) When an urdefhan dies, its invisible flesh quickly rots away and sublimates into a foul-smelling gas that fills a @Template[emanation|distance:5] around the body.\n\nThis gas deals 7d6 void damage to creatures in this area as their flesh curdles and rots as well (DC 24 Fortitude check save)."
 
 attacks:
   - name: ""
@@ -70,17 +71,23 @@ attacks:
     desc: "DC 22, attack +14; __3rd __  _[[Spells/Paralyze|Paralyze]]_; __2nd __  _[[Spells/Death Knell|Death Knell]]_; __1st __  _[[Spells/Gentle Landing|Feather Fall (At Will) (Self Only)]]_, _[[Spells/Enfeeble|Ray of Enfeeblement]]_"
 
   - name: "[[Bestiary Ability Glossary/Constrict|Constrict]]"
-    desc: "`pf2:1`  1d8 + 7 slashing damage, DC 25 Fortitude check\n"
+    desc: "`pf2:1`  1d8+7 slashing damage, DC 25 Fortitude check\n\n* * *\n"
 
   - name: "Shauth Seize"
     desc: "  The lasher gains the [[Bestiary Ability Glossary/Grab|Grab]] ability with a shauth lash and can use their Wicked Bite through magical shauth weapon Strikes."
 
   - name: "Wicked Bite"
-    desc: "`pf2:1`  **Requirements** The urdefhan damaged a creature with a jaws Strike on its last action\n**Effect** The urdefhan maintains contact, turning the creature's flesh translucent around the site of the injury. The urdefhan chooses one of two options, each of which requires a fortitude save. If the jaws Strike was a critical hit, the creature suffers both effects, using the same save result for both.\n*   **Drain Blood** DC 25 Fortitude check The urdefhan drinks some of the creature's blood. On a failed save, the creature is [[Conditions/Drained 1|Drained 1]] and the urdefhan regains 10 HP (or, on a critical failure, it's [[Conditions/Drained 1|Drained 2]] and the urdefhan regains 20 HP).\n*   **Drain Vitality** (necromancy) DC 25 Fortitude check The urdefhan draws out some of the creature's vital essence. The creature becomes [[Conditions/Enfeebled 1|Enfeebled 1]] for 1 hour on a failed save (or [[Conditions/Enfeebled 1|Enfeebled 2]] for 1 hour on a critical failure)."
+    desc: "`pf2:1`  **Requirements** The urdefhan damaged a creature with a jaws Strike on its last action\n* * *\n\n**Effect** The urdefhan maintains contact, turning the creature's flesh translucent around the site of the injury. The urdefhan chooses one of two options, each of which requires a fortitude save. If the jaws Strike was a critical hit, the creature suffers both effects, using the same save result for both.\n\n*   **Drain Blood** DC 25 Fortitude check The urdefhan drinks some of the creature's blood. On a failed save, the creature is [[Conditions/Drained|Drained 1]] and the urdefhan regains 10 HP (or, on a critical failure, it's [[Conditions/Drained|Drained 2]] and the urdefhan regains 20 HP).\n*   **Drain Vitality** (necromancy) DC 25 Fortitude check The urdefhan draws out some of the creature's vital essence. The creature becomes [[Conditions/Enfeebled|Enfeebled 1]] for 1 hour on a failed save (or [[Conditions/Enfeebled|Enfeebled 2]] for 1 hour on a critical failure)."
 
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
     desc: "`pf2:1`  "
  
+```
+
+```encounter-table
+name: Urdefhan Lasher
+creatures:
+  - 1: Urdefhan Lasher
 ```
 
 

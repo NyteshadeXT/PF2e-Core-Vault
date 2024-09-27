@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.strength-of-thousands-bestiary.Actor.eWCArhCIUv1SvIyD"
 tags:
   - pf2e/creature/type/mindless
   - pf2e/creature/type/ooze
+  - pf2eMonster
   - pf2e/creature/level/18
 statblock: inline
 name: "Chromatic Ooze"
@@ -21,15 +22,16 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #174: Shadows of the Ancients"
 name: "Chromatic Ooze"
 level: "Creature 18"
-rare_03: "Rare"
+rare_03: [[Rare]]
 alignment: ""
 size: "Large"
-trait_01: "mindless"
-trait_02: "ooze"
+trait_01: [[mindless]]
+trait_02: [[ooze]]
 modifier: 30
 perception:
   - name: "Perception"
     desc: "+30; Motion Sense (Precise) 240 Feet"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Athletics: +35"
@@ -51,10 +53,10 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Caustic Aura"
-    desc: " (alchemical,aura,olfactory) 90 feet. The chromatic ooze emanates noxious chemicals into the environment. A creature that enters the aura or starts its turn within it is [[Conditions/Sickened 1|Sickened 1]] unless it succeeds at a DC 37 Fortitude check save. Creatures with the scent ability or a particularly heightened sense of smell are [[Conditions/Sickened 1|Sickened 2]], or sickened 1 on a successful Fortitude save. Creatures in the aura can't recover from the sickened condition."
+    desc: " (alchemical,aura,olfactory) 90 feet. The chromatic ooze emanates noxious chemicals into the environment. A creature that enters the aura or starts its turn within it is [[Conditions/Sickened|Sickened 1]] unless it succeeds at a DC 37 Fortitude check save. Creatures with the scent ability or a particularly heightened sense of smell are [[Conditions/Sickened|Sickened 2]], or sickened 1 on a successful Fortitude save. Creatures in the aura can't recover from the sickened condition."
 
   - name: "Chromatic Shift"
-    desc: "`pf2:r`  **Trigger** The chromatic ooze takes acid, cold, electricity, fire, or poison damage\n**Effect** The chromatic ooze changes its color based on the triggering damage (to dark green, pale blue, dark blue, red, or light green, respectively) and gains resistance 20 to the triggering damage. If it already had resistance to another damage type from this ability, it loses the resistance to that damage type and gains weakness 20 to it. If it already had weakness to another damage type from this ability, it loses that weakness. After 1 minute, the chromatic ooze returns to its usual rippling, multicolored hue and loses the resistance and weakness from this ability."
+    desc: "`pf2:r`  **Trigger** The chromatic ooze takes acid, cold, electricity, fire, or poison damage\n* * *\n\n**Effect** The chromatic ooze changes its color based on the triggering damage (to dark green, pale blue, dark blue, red, or light green, respectively) and gains resistance 20 to the triggering damage. If it already had resistance to another damage type from this ability, it loses the resistance to that damage type and gains weakness 20 to it. If it already had weakness to another damage type from this ability, it loses that weakness. After 1 minute, the chromatic ooze returns to its usual rippling, multicolored hue and loses the resistance and weakness from this ability."
 
   - name: "Motion Sense"
     desc: "  A chromatic ooze can sense nearby motion through vibration and air movement."
@@ -69,11 +71,17 @@ attacks:
     desc: "  The ooze's pseudopod Strikes deal an additional 2d10 damage of the same type it resists from its Chromatic Shift ability, if any."
 
   - name: "[[Bestiary Ability Glossary/Greater Constrict|Greater Constrict]]"
-    desc: "`pf2:1`  3d10 + 13 bludgeoning damage, DC 40 Fortitude check"
+    desc: "`pf2:1`  3d10+13 bludgeoning damage, DC 40 Fortitude check"
 
   - name: "Pseudopod Eruption"
     desc: "`pf2:2`  The chromatic ooze concentrates its mass into several pseudopods, increasing its reach to 30 feet until the end of its turn. It then Strikes at up to four different creatures within its reach. This counts as two attacks for the ooze's multiple attack penalty, but the penalty doesn't increase until after it makes all the attacks."
  
+```
+
+```encounter-table
+name: Chromatic Ooze
+creatures:
+  - 1: Chromatic Ooze
 ```
 
 

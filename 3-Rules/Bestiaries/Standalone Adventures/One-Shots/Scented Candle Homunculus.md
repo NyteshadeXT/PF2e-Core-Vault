@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.one-shot-bestiary.Actor.8BMVxqhcdNtdStUj"
 tags:
   - pf2e/creature/type/construct
   - pf2e/creature/type/evil
+  - pf2eMonster
   - pf2e/creature/level/1
 statblock: inline
 name: "Scented Candle Homunculus"
@@ -21,16 +22,16 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Adventure: A Fistful of Flowers"
 name: "Scented Candle Homunculus"
 level: "Creature 1"
-rare_03: "Rare"
+rare_03: [[Rare]]
 alignment: ""
 size: "tiny"
-trait_01: "construct"
-trait_02: "evil"
+trait_01: [[construct]]
+trait_02: [[evil]]
 modifier: 3
 perception:
   - name: "Perception"
     desc: "+3; Darkvision"
-languages: "Common"
+languages: "Common; can&#x27;t speak any language; master link"
 skills:
   - name: "Skills"
     desc: "Acrobatics: +5, Stealth: +5"
@@ -55,7 +56,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Perfume Aura"
-    desc: " (aura,olfactory,poison) 5 feet. The scented candle homunculus's fragrance of lavender is overwhelmingly intense. Any creature other than the homunculus's master who enters the aura must attempt a DC 15 Fortitude check save.\n**Critical Success** The creature is temporarily immune to the homunculus's aura for 24 hours.\n**Success** The creature is unaffected.\n**Failure** The creature is [[Conditions/Sickened 1|Sickened 1]].\n**Critical Failure** The creature is [[Conditions/Stupefied 1|Stupefied 1]] for 1 round and sickened 1."
+    desc: " (aura,olfactory,poison) 5 feet. The scented candle homunculus's fragrance of lavender is overwhelmingly intense. Any creature other than the homunculus's master who enters the aura must attempt a DC 15 Fortitude check save.\n* * *\n\n**Critical Success** The creature is temporarily immune to the homunculus's aura for 24 hours.\n\n**Success** The creature is unaffected.\n\n**Failure** The creature is [[Conditions/Sickened|Sickened 1]].\n\n**Critical Failure** The creature is [[Conditions/Stupefied|Stupefied 1]] for 1 round and sickened 1."
 
 attacks:
   - name: ""
@@ -69,6 +70,12 @@ attacks:
   - name: "Dunk in Wax"
     desc: "`pf2:2` (move) A scented candle homunculus who is adjacent to the large wax cauldron can dunk itself in wax, healing 2d6 damage."
  
+```
+
+```encounter-table
+name: Scented Candle Homunculus
+creatures:
+  - 1: Scented Candle Homunculus
 ```
 
 

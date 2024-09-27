@@ -29,7 +29,5 @@ Using your last shot to gauge your accuracy, you can fire off a quick shot to in
 
 [[Feat_Feature Effects/Effect_ Assisting Shot|Effect: Assisting Shot]]
 
-[[Feat_Feature Effects/Effect_ Assisting Shot (Critical Hit)|Effect: Assisting Shot (Critical Hit)]]
-
 *Source: Pathfinder Player Core*
 *ORC*

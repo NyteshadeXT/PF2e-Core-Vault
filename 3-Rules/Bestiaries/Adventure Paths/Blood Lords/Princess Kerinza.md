@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/construct
   - pf2e/creature/type/evil
   - pf2e/creature/type/soulbound
+  - pf2eMonster
   - pf2e/creature/level/10
 statblock: inline
 name: "Princess Kerinza"
@@ -22,12 +23,12 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #183: Field of Maidens"
 name: "Princess Kerinza"
 level: "Creature 10"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Small"
-trait_01: "construct"
-trait_02: "evil"
-trait_03: "soulbound"
+trait_01: [[construct]]
+trait_02: [[evil]]
+trait_03: [[soulbound]]
 modifier: 19
 perception:
   - name: "Perception"
@@ -72,6 +73,12 @@ attacks:
   - name: "Surprise Attack"
     desc: "  On the first round of combat, creatures that haven't acted are [[Conditions/Off-Guard|Off-Guard]] to Princess Kerinza."
  
+```
+
+```encounter-table
+name: Princess Kerinza
+creatures:
+  - 1: Princess Kerinza
 ```
 
 

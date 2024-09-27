@@ -10,6 +10,7 @@ tags:
   - pf2e/creature/type/skeleton
   - pf2e/creature/type/undead
   - pf2e/creature/type/unholy
+  - pf2eMonster
   - pf2e/creature/level/2
 statblock: inline
 name: "Flaming Skull Skeletal Champion"
@@ -27,11 +28,11 @@ level: "Creature 2"
 
 alignment: ""
 size: "Medium"
-trait_01: "evil"
-trait_02: "mindless"
-trait_03: "skeleton"
-trait_04: "undead"
-trait_05: "unholy"
+trait_01: [[evil]]
+trait_02: [[mindless]]
+trait_03: [[skeleton]]
+trait_04: [[undead]]
+trait_05: [[unholy]]
 modifier: 8
 perception:
   - name: "Perception"
@@ -79,6 +80,12 @@ attacks:
   - name: "Screaming Skull"
     desc: "`pf2:2` (auditory,emotion,fear,mental) The skeleton removes its skull and throws it, making a jaws Strike with a range of 20 feet. It then attempts to [[Action Macros/Demoralize_ Intimidation|Demoralize: Intimidation]] each foe within 10 feet of the target. The head bounces, rolls, or even flies back, returning to the skeleton at the start of its next turn. The skeleton is [[Conditions/Blinded|Blinded]] until then."
  
+```
+
+```encounter-table
+name: Flaming Skull Skeletal Champion
+creatures:
+  - 1: Flaming Skull Skeletal Champion
 ```
 
 

@@ -5,6 +5,7 @@ noteType: pf2eHazard
 tags:
   - mechanical
   - trap
+  - pf2eHazard
 
 source: Pathfinder Society Scenario #1-11: Flames of Rebellion
 aliases: "Compendium.pf2e.pfs-season-1-bestiary.Actor.tShwzNRi8eEqznAi" 
@@ -22,14 +23,14 @@ name: "Collapsing Barricade (3-4)"
 level: "Hazard 5"
 
 
-trait_01: "mechanical"
-trait_02: "trap"
+trait_01: [[mechanical]]
+trait_02: [[trap]]
 modifier: 13
 sourcebook: "_Pathfinder Society Scenario #1-11: Flames of Rebellion_"
 ac: 24
 armorclass:
   - name: AC
-    desc: "24; __Fort__ +15, __Ref__ +9, __Will__ +0"
+    desc: "24; __Fort__ +15, __Ref__ +9, "
 hp: 50
 health:
   - name: ""
@@ -51,9 +52,15 @@ attacks:
   - name: ""
 
   - name: "Collapse"
-    desc: "`pf2:r` **Trigger** A creature crawls into the tunnel in the collapsing barricade after the trap is activated with the lever\n**Effect** The barricade collapses on the creature, who must attempt a DC 25 Reflex check save.\n**Critical Success** The creature takes no damage and escapes the barricade, emerging into a safe space on either side of it.\n**Success** The creature takes 1d8 + 3 bludgeoning damage from collapsing debris and 1d8 + 3 slashing damage from broken glass before emerging on the opposite side of the barricade from the one they entered.\n**Failure** The creature takes 2d8 + 7 bludgeoning damage from collapsing debris and 2d8 + 7 slashing damage from broken glass before emerging on the opposite side of the barricade from the one they entered.\n**Critical Failure** As a failure, and the creature is [[Conditions/Immobilized|Immobilized]] beneath the barricade until they or another creature succeed at a DC 22 Athletics check check to pull them free. They can still be targeted, touched, and otherwise interacted with by creatures on either side of the barrier."
+    desc: "`pf2:r` **Trigger** A creature crawls into the tunnel in the collapsing barricade after the trap is activated with the lever\n* * *\n\n**Effect** The barricade collapses on the creature, who must attempt a DC 25 Reflex check save.\n* * *\n\n**Critical Success** The creature takes no damage and escapes the barricade, emerging into a safe space on either side of it.\n\n**Success** The creature takes 1d8+3 bludgeoning damage from collapsing debris and 1d8+3 slashing damage from broken glass before emerging on the opposite side of the barricade from the one they entered.\n\n**Failure** The creature takes 2d8+7 bludgeoning damage from collapsing debris and 2d8+7 slashing damage from broken glass before emerging on the opposite side of the barricade from the one they entered.\n\n**Critical Failure** As a failure, and the creature is [[Conditions/Immobilized|Immobilized]] beneath the barricade until they or another creature succeed at a DC 22 Athletics check check to pull them free. They can still be targeted, touched, and otherwise interacted with by creatures on either side of the barrier."
 
 
 
+```
+
+```encounter-table
+name: Collapsing Barricade (3-4)
+creatures:
+  - 1: Collapsing Barricade (3-4)
 ```
 

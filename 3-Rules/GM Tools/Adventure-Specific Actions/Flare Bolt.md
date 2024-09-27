@@ -20,7 +20,7 @@ license: OGL
 
 **Aspect** fire
 
-**Activate** `pf2:2` command, Interact
+**Activate** `pf2:2` (concentrate, manipulate)
 
 * * *
 

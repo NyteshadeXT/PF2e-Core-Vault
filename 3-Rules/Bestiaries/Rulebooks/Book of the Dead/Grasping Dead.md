@@ -4,6 +4,7 @@ obsidianUIMode: preview
 noteType: pf2eHazard
 tags:
   - haunt
+  - pf2eHazard
   - complex
 source: Pathfinder Book of the Dead
 aliases: "Compendium.pf2e.book-of-the-dead-bestiary.Actor.DUFaigFhqeKLbrMG" 
@@ -21,7 +22,7 @@ name: "Grasping Dead"
 level: "Hazard 5"
 
 trait_06: "Complex"
-trait_01: "haunt"
+trait_01: [[haunt]]
 modifier: 12
 sourcebook: "_Pathfinder Book of the Dead_"
 perception:
@@ -40,11 +41,17 @@ attacks:
   - name: ""
 
   - name: "Shifting Earth"
-    desc: "`pf2:r` **Trigger** At least two creatures enter the area\n**Effect** The earth shifts wildly as the hands of the dead spring forth from the ground. The area becomes difficult terrain. Creatures within the area are knocked [[Conditions/Prone|Prone]] unless they succeed at a DC 26 Reflex check save. The haunt then rolls initiative."
+    desc: "`pf2:r` **Trigger** At least two creatures enter the area\n* * *\n\n**Effect** The earth shifts wildly as the hands of the dead spring forth from the ground. The area becomes difficult terrain. Creatures within the area are knocked [[Conditions/Prone|Prone]] unless they succeed at a DC 26 Reflex check save. The haunt then rolls initiative."
 
   - name: "Routine"
-    desc: "(1 action) The grasping hands batter all creatures in the area, dealing 2d6 + 7 bludgeoning damage (DC 26 Reflex check save). On a critical failure, a creature is dragged partially into the earth, becoming [[Conditions/Immobilized|Immobilized]] until it [[Actions/Escape|Escapes]] (DC 26). If already immobilized, it's fully submerged and must hold its breath to avoid suffocation."
+    desc: "(1 action) The grasping hands batter all creatures in the area, dealing 2d6+7 bludgeoning damage (DC 26 Reflex check save). On a critical failure, a creature is dragged partially into the earth, becoming [[Conditions/Immobilized|Immobilized]] until it [[Actions/Escape|Escapes]] (DC 26). If already immobilized, it's fully submerged and must hold its breath to avoid suffocation."
   - name: "Reset"
     desc: "The haunt deactivates 1 minute after all living creatures leave the area. After 1 hour, the haunt reactivates."
+```
+
+```encounter-table
+name: Grasping Dead
+creatures:
+  - 1: Grasping Dead
 ```
 

@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.pathfinder-monster-core.Actor.XO3qw7XPkgRq4H6I"
 tags:
   - pf2e/creature/type/dragon
   - pf2e/creature/type/occult
+  - pf2eMonster
   - pf2e/creature/level/11
   - remaster
 statblock: inline
@@ -19,14 +20,15 @@ license: ORC
 columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
+token: [[modules/pf2e-tokens-monster-core/assets/portraits/dragon-omen-adult.webp| ]]
 source: "Pathfinder Monster Core"
 name: "Omen Dragon (Adult, Spellcaster)"
 level: "Creature 11"
 
 alignment: ""
 size: "Large"
-trait_01: "dragon"
-trait_02: "occult"
+trait_01: [[dragon]]
+trait_02: [[occult]]
 modifier: 21
 perception:
   - name: "Perception"
@@ -34,7 +36,7 @@ perception:
 languages: "Common, Draconic, Fey, Jotun"
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +21, Athletics: +22, Diplomacy: +20, Fortune-Telling Lore: +26, Lore (any one subcategory): +24, Occultism: +24, Society: +22"
+    desc: "Acrobatics: +21, Athletics: +22, Diplomacy: +20, Occultism: +24, Society: +22, Fortune-Telling Lore: +26, Lore (any one subcategory): +24"
 abilityMods: [7, 4, 5, 7, 6, 3]
 speed: 50 feet,  fly 130 feet
 sourcebook: "_Pathfinder Monster Core_"
@@ -80,7 +82,7 @@ attacks:
     desc: "DC 30, attack +22; __5th __  _[[Spells/Ill Omen|Ill Omen (At Will)]]_, _[[Spells/Mindlink|Mindlink (At Will)]]_, _[[Spells/Sure Strike|Sure Strike (x2)]]_\n__Cantrips__  __(6th)__ _[[Spells/Guidance|Guidance]]_"
 
   - name: "Destiny Breath"
-    desc: "`pf2:2` (mental,occult) The dragon breathes a translucent mist of potentialities that overwhelms creatures with visions of possible features, dealing 10d6 mental damage in a 30-foot cone (DC 30 Will check save). A creature that fails its save is [[Conditions/Slowed 1|Slowed 1]] for 1 round (or [[Conditions/Slowed 1|Slowed 2]] on a critical failure) as it struggles with the visions.\n\nThe dragon can't use Destiny Breath again for 1d4 rounds."
+    desc: "`pf2:2` (mental,occult) The dragon breathes a translucent mist of potentialities that overwhelms creatures with visions of possible features, dealing 10d6 mental damage in a @Template[cone|distance:30] (DC 30 Will check save). A creature that fails its save is [[Conditions/Slowed|Slowed 1]] for 1 round (or [[Conditions/Slowed|Slowed 2]] on a critical failure) as it struggles with the visions.\n\nThe dragon can't use Destiny Breath again for 1d4 rounds."
 
   - name: "Prophetic Wings"
     desc: "  The dragon or any ally can glimpse into the future through the dragon's wings in a process that requires 10 minutes of concentration. This casts a 6th-rank [[Spells/Augury|Augury]] spell, except that the wings can predict results up to 1 month into the future and the dragon always speaks a few cryptic words related to the result of the prediction.\n\nThe dragon can use their wings in this way only once per day, and a given creature can seek a future in the wings only once per week."
@@ -88,6 +90,12 @@ attacks:
   - name: "Walk the Timelines"
     desc: "`pf2:2` (occult) **Frequency** once per hour\n* * *\n\n**Effect** The dragon splits themself into two versions with different fates. Each copy Strides or Flies from the dragon's current space, then takes a single action. If the actions are both attacks, they use the same multiple attack penalty and count as one attack toward the dragon's multiple attack penalty.\n\nAfter both actions, the dragon chooses one of the two locations as their actual destination and the other version of themself disappears."
  
+```
+
+```encounter-table
+name: Omen Dragon (Adult, Spellcaster)
+creatures:
+  - 1: Omen Dragon (Adult, Spellcaster)
 ```
 
 

@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/humanoid
   - pf2e/creature/type/serpentfolk
+  - pf2eMonster
   - pf2e/creature/level/7
 statblock: inline
 name: "Serpentfolk Venom Caller"
@@ -22,17 +23,17 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #170: Spoken on the Song Wind"
 name: "Serpentfolk Venom Caller"
 level: "Creature 7"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Medium"
-trait_01: "evil"
-trait_02: "humanoid"
-trait_03: "serpentfolk"
+trait_01: [[evil]]
+trait_02: [[humanoid]]
+trait_03: [[serpentfolk]]
 modifier: 15
 perception:
   - name: "Perception"
     desc: "+15; Darkvision, Scent (Imprecise) 30 Feet"
-languages: "Aklo, Common, Draconic"
+languages: "Aklo, Common, Draconic; telepathy 100 feet"
 skills:
   - name: "Skills"
     desc: "Arcana: +17, Deception: +15, Nature: +15, Occultism: +17, Society: +15, Survival: +15"
@@ -73,11 +74,17 @@ attacks:
     desc: "DC 25, attack +17; __4th __ (1 slots) _[[Spells/Suggestion|Suggestion]]_; __3rd __ (1 slots) _[[Spells/Illusory Disguise|Illusory Disguise (At Will)]]_; __2nd __ (1 slots) _[[Spells/Mirror Image|Mirror Image (At Will)]]_; __1st __ (1 slots) _[[Spells/Ventriloquism|Ventriloquism (At Will)]]_"
 
   - name: "Serpentfolk Venom"
-    desc: " (poison) **Saving Throw** DC 23 Fortitude check\n**Maximum Duration** 6 rounds\n**Stage 1** 1d4 poison damage and [[Conditions/Enfeebled 1|Enfeebled 1]] (1 round)\n**Stage 2** 2d4 poison damage and enfeebled 1 (1 round)"
+    desc: " (poison) **Saving Throw** DC 23 Fortitude check\n\n**Maximum Duration** 6 rounds\n\n**Stage 1** 1d4 poison damage and [[Conditions/Enfeebled|Enfeebled 1]] (1 round)\n\n**Stage 2** 2d4 poison damage and enfeebled 1 (1 round)"
 
   - name: "Venom Pool"
-    desc: "`pf2:2` (arcane,poison) **Frequency** once per day\n**Effect** The venom caller conjures a 10-foot burst of liquid poison within 60 feet. Each creature that begins its turn in the area takes 4d6 poison damage (DC 25 Fortitude check save). On a critical failure, creatures also take 1d6 persistent poison. Once per turn, starting the turn after the venom caller uses Venom Pool, the venom caller can use a single action, which has the concentrate trait, to increase the radius of the burst by 5 feet. The pool of venom lasts for 1 minute, at which time it evaporates without a trace."
+    desc: "`pf2:2` (arcane,poison) **Frequency** once per day\n* * *\n\n**Effect** The venom caller conjures a @Template[burst|distance:10] of liquid poison within 60 feet. Each creature that begins its turn in the area takes 4d6 poison damage (DC 25 Fortitude check save). On a critical failure, creatures also take 1d6 persistent poison. Once per turn, starting the turn after the venom caller uses Venom Pool, the venom caller can use a single action, which has the concentrate trait, to increase the radius of the burst by 5 feet. The pool of venom lasts for 1 minute, at which time it evaporates without a trace."
  
+```
+
+```encounter-table
+name: Serpentfolk Venom Caller
+creatures:
+  - 1: Serpentfolk Venom Caller
 ```
 
 

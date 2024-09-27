@@ -6,6 +6,7 @@ cssClasses: pf2e
 aliases: "Compendium.pf2e.fists-of-the-ruby-phoenix-bestiary.Actor.PsipHKpczW9FT2Jk" 
 tags:
   - pf2e/creature/type/construct
+  - pf2eMonster
   - pf2e/creature/level/11
 statblock: inline
 name: "Planar Terra-cotta Soldier"
@@ -20,15 +21,15 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #166: Despair on Danger Island"
 name: "Planar Terra-cotta Soldier"
 level: "Creature 11"
-rare_03: "Rare"
+rare_03: [[Rare]]
 alignment: ""
 size: "Medium"
-trait_01: "construct"
+trait_01: [[construct]]
 modifier: 21
 perception:
   - name: "Perception"
     desc: "+21; "
-languages: "Tien"
+languages: "Tien; (can&#x27;t speak any language)"
 skills:
   - name: "Skills"
     desc: "Athletics: +23, Intimidation: +23"
@@ -68,6 +69,12 @@ attacks:
   - name: "Ranged"
     desc: "`pf2:1` Composite Shortbow +23 (deadly d10, propulsive, range increment 60 feet)\n__Damage__  3d6 + 13 piercing"
  
+```
+
+```encounter-table
+name: Planar Terra-cotta Soldier
+creatures:
+  - 1: Planar Terra-cotta Soldier
 ```
 
 

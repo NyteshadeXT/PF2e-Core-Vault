@@ -6,10 +6,11 @@ tags:
   - trait/archetype
   - trait/common
   - category/class
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.Xhphe5Lsa4kuU4RG"
-license: OGL
+license: ORC
 ---
-# Crossbow Terror
+# Crossbow Terror `pf2:1`
 ## Feat 6
 ### [[archetype]]
 
@@ -19,11 +20,7 @@ license: OGL
 
 **Prerequisites** Archer Dedication
 * * *
-You are a dynamo with the crossbow.
+Your skill with a crossbow strikes terror into your opponents when you threaten them with the next bolt. Interact to reload a crossbow and then attempt an Intimidation check to [[Actions/Demoralize|Demoralize]]. You gain a +2 circumstance bonus to this check if you succeeded at a [[Actions/Strike|Strike]] with a crossbow this turn.
 
-You gain a +2 circumstance bonus to damage with [[Equipment/Crossbow|Crossbows]].
-
-If the crossbow is a simple weapon, also increase the damage die size for your attacks made with that crossbow by one step. As normal, this damage die increase can't be combined with other abilities that alter the weapon damage die (such as the ranger feat [[Feats/Crossbow Ace|Crossbow Ace]]).
-
-*Source: Pathfinder Advanced Player's Guide*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

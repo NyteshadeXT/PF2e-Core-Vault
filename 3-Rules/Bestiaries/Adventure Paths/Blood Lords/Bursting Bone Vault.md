@@ -4,6 +4,7 @@ obsidianUIMode: preview
 noteType: pf2eHazard
 tags:
   - environmental
+  - pf2eHazard
 
 source: Pathfinder #181: Zombie Feast
 aliases: "Compendium.pf2e.blood-lords-bestiary.Actor.UsvCc0wceUBOwbdl" 
@@ -21,13 +22,13 @@ name: "Bursting Bone Vault"
 level: "Hazard 3"
 
 
-trait_01: "environmental"
+trait_01: [[environmental]]
 modifier: 13
 sourcebook: "_Pathfinder #181: Zombie Feast_"
 ac: 10
 armorclass:
   - name: AC
-    desc: "10; __Fort__ +0, __Ref__ +0, __Will__ +0"
+    desc: "10; "
 hp: 10
 health:
   - name: ""
@@ -49,9 +50,15 @@ attacks:
   - name: ""
 
   - name: "Collapse"
-    desc: "`pf2:r` **Trigger** A creature opens the door to the vault\n**Effect** The bones spill from the vault and into the adjacent corridor, dealing 2d10 + 13 bludgeoning damage to each creature within 10 feet of the door (DC 20 Reflex check). The area becomes difficult terrain."
+    desc: "`pf2:r` **Trigger** A creature opens the door to the vault\n* * *\n\n**Effect** The bones spill from the vault and into the adjacent corridor, dealing 2d10+13 bludgeoning damage to each creature within 10 feet of the door (DC 20 Reflex check). The area becomes difficult terrain."
 
 
 
+```
+
+```encounter-table
+name: Bursting Bone Vault
+creatures:
+  - 1: Bursting Bone Vault
 ```
 

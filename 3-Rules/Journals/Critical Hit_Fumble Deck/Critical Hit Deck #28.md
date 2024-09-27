@@ -8,13 +8,13 @@ tags:
 ---
 # Skull Crush
 
-> **Crit Effect:** The target is [[Conditions/Stupefied 1|Stupefied 3]] until healed.
+> **Crit Effect:** The target is [[Conditions/Stupefied|Stupefied 3]] until healed.
 
 `Bludgeoning`
 
 # hand Wound
 
-> **Crit Effect:** Until healed, the target is [[Conditions/Clumsy 1|Clumsy 2]] and can't use one of its hands (determined randomly by the GM).
+> **Crit Effect:** Until healed, the target is [[Conditions/Clumsy|Clumsy 2]] and can't use one of its hands (determined randomly by the GM).
 
 `Piercing`
 

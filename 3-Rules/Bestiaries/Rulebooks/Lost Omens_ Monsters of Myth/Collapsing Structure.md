@@ -5,6 +5,7 @@ noteType: pf2eHazard
 tags:
   - environmental
   - kaiju
+  - pf2eHazard
   - complex
 source: Pathfinder Lost Omens: Monsters of Myth
 aliases: "Compendium.pf2e.lost-omens-monsters-of-myth-bestiary.Actor.0ypo8Vt3B6p9DqAt" 
@@ -22,14 +23,14 @@ name: "Collapsing Structure"
 level: "Hazard 15"
 
 trait_06: "Complex"
-trait_01: "environmental"
-trait_02: "kaiju"
+trait_01: [[environmental]]
+trait_02: [[kaiju]]
 modifier: 20
 sourcebook: "_Pathfinder Lost Omens: Monsters of Myth_"
 ac: 10
 armorclass:
   - name: AC
-    desc: "10; __Fort__ +0, __Ref__ +0, __Will__ +0"
+    desc: "10; "
 hp: 0
 health:
   - name: ""
@@ -51,11 +52,17 @@ attacks:
   - name: ""
 
   - name: "Shake Apart"
-    desc: "`pf2:r` **Trigger** Ebeshra applies any amount of force to the structure\n**Effect** The building trembles. The floors of the building and the streets within 30 feet of the building become difficult terrain; creatures on this difficult terrain take a -2 circumstance penalty to attack rolls, AC, and skill checks. The hazard rolls initiative."
+    desc: "`pf2:r` **Trigger** Ebeshra applies any amount of force to the structure\n* * *\n\n**Effect** The building trembles. The floors of the building and the streets within 30 feet of the building become difficult terrain; creatures on this difficult terrain take a -2 circumstance penalty to attack rolls, AC, and skill checks. The hazard rolls initiative."
 
   - name: "Routine"
-    desc: "The GM rolls a DC 9 Flat check to determine if the building partially collapses, increasing the DC as listed above. On a successful check, dust and debris fall within the building and 30 feet around it, providing concealment and dealing 6d6 bludgeoning damage to 1d4 randomly chosen targets (DC 35 Reflex check save; on a critical failure, the creature is knocked [[Conditions/Prone|Prone]]). On a critical success, the effect is the same, but the debris deals 12d6 bludgeoning damage to 2d4 randomly chosen targets instead (DC 35 Reflex check save; on a critical failure, the creature is [[Conditions/Restrained|Restrained]] by rubble until freed [[\[Actions/Force Open|Force Open]] DC 38, [[Actions/Escape|Escape]] DC 35\])."
+    desc: "The GM rolls a DC 9 Flat check to determine if the building partially collapses, increasing the DC as listed above. On a successful check, dust and debris fall within the building and 30 feet around it, providing concealment and dealing 6d6 bludgeoning damage to 1d4 randomly chosen targets (DC 35 Reflex check save; on a critical failure, the creature is knocked [[Conditions/Prone|Prone]]). On a critical success, the effect is the same, but the debris deals 12d6 bludgeoning damage to 2d4 randomly chosen targets instead (DC 35 Reflex check save; on a critical failure, the creature is [[Conditions/Restrained|Restrained]] by rubble until freed [[[Actions/Force Open|Force Open]] DC 38, [[Actions/Escape|Escape]] DC 35])."
   - name: "Reset"
     desc: "The building becomes susceptible to Shake Apart again 1d6 rounds after it's stabilized."
+```
+
+```encounter-table
+name: Collapsing Structure
+creatures:
+  - 1: Collapsing Structure
 ```
 

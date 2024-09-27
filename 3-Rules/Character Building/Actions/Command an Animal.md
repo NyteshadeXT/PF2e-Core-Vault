@@ -14,7 +14,7 @@ license: ORC
 ---
 # Command an Animal `pf2:1`
 
-### [[auditory]][[concentrate]][[skill]]
+### [[3-Rules/Rule References/auditory]][[3-Rules/Rule References/Concentrate]][[skill]]
 
 **Category** interaction; 
 

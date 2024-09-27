@@ -10,6 +10,7 @@ tags:
   - pf2e/creature/type/humanoid
   - pf2e/creature/type/lawful
   - pf2e/creature/type/shadow
+  - pf2eMonster
   - pf2e/creature/level/13
 statblock: inline
 name: "Shadow Giant"
@@ -28,11 +29,11 @@ level: "Creature 13"
 
 alignment: ""
 size: "Large"
-trait_01: "evil"
-trait_02: "giant"
-trait_03: "humanoid"
-trait_04: "lawful"
-trait_05: "shadow"
+trait_01: [[evil]]
+trait_02: [[giant]]
+trait_03: [[humanoid]]
+trait_04: [[lawful]]
+trait_05: [[shadow]]
 modifier: 20
 perception:
   - name: "Perception"
@@ -40,7 +41,7 @@ perception:
 languages: "Common, Jotun, Shadowtongue"
 skills:
   - name: "Skills"
-    desc: "Athletics: +27, Intimidation: +22, Stealth: +21 (+23 to Hide in dim light)"
+    desc: "Athletics: +27, Intimidation: +22, Stealth: +21"
 abilityMods: [8, 2, 5, 0, 1, 3]
 speed: 35 feet
 sourcebook: "_Pathfinder Bestiary 2_"
@@ -75,7 +76,7 @@ attacks:
     desc: "`pf2:1` Rock +26 (brutal, range increment 120 feet)\n__Damage__  2d8 + 18 bludgeoning"
 
   - name: "Pall of Shadow"
-    desc: " (divine,shadow) When a shadow giant hits with a melee Strike, the target must succeed at a DC 30 Fortitude check save or become [[Conditions/Drained 1|Drained 1]] and take a -1 status penalty to Perception checks involving sight as long as they remain drained. On a critical failure, this condition doesn't heal naturally and can be removed only with magic."
+    desc: " (divine,shadow) When a shadow giant hits with a melee Strike, the target must succeed at a DC 30 Fortitude check save or become [[Conditions/Drained|Drained 1]] and take a -1 status penalty to Perception checks involving sight as long as they remain drained. On a critical failure, this condition doesn't heal naturally and can be removed only with magic."
 
   - name: "Shadowcloak"
     desc: "`pf2:1` (divine,illusion,shadow) The shadow giant becomes shrouded in shadows and becomes [[Conditions/Concealed|Concealed]]. As the nature of this effect leaves the giant's location obvious, it can't use this concealment to [[Actions/Hide|Hide]] or [[Actions/Sneak|Sneak]]. This effect lasts for 1 minute or until it is exposed to direct sunlight, whichever comes first."
@@ -83,6 +84,12 @@ attacks:
   - name: "[[Bestiary Ability Glossary/Throw Rock|Throw Rock]]"
     desc: "`pf2:1`  "
  
+```
+
+```encounter-table
+name: Shadow Giant
+creatures:
+  - 1: Shadow Giant
 ```
 
 

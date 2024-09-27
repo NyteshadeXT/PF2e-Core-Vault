@@ -6,6 +6,7 @@ cssClasses: pf2e
 aliases: "Compendium.pf2e.pfs-season-3-bestiary.Actor.BQOgvcGbGxFSQQ0T" 
 tags:
   - pf2e/creature/type/animal
+  - pf2eMonster
   - pf2e/creature/level/2
 statblock: inline
 name: "Leopard (PFS 3-13)"
@@ -23,14 +24,15 @@ level: "Creature 2"
 
 alignment: ""
 size: "Medium"
-trait_01: "animal"
+trait_01: [[animal]]
 modifier: 7
 perception:
   - name: "Perception"
     desc: "+7; Low-Light Vision, Scent (Imprecise) 30 Feet"
+languages: ""
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +8, Athletics: +7, Stealth: +8 (+11 in undergrowth)"
+    desc: "Acrobatics: +8, Athletics: +7, Stealth: +8"
 abilityMods: [3, 4, 2, -4, 1, -2]
 speed: 30 feet,  climb 20 feet
 sourcebook: "_Pathfinder Society Scenario #3-13: Guardian&#x27;s Covenant_"
@@ -69,6 +71,12 @@ attacks:
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
     desc: "`pf2:1`  "
  
+```
+
+```encounter-table
+name: Leopard (PFS 3-13)
+creatures:
+  - 1: Leopard (PFS 3-13)
 ```
 
 

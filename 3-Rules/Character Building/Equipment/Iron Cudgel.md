@@ -8,8 +8,9 @@ tags:
   - trait/talisman
   - trait/common
   - category/talisman
+  - remaster
 aliases: "Compendium.pf2e.equipment-srd.Item.XvmYNnQ4vg8GREH7"
-license: OGL
+license: ORC
 ---
 # Iron Cudgel
 ## Item 14
@@ -20,15 +21,15 @@ license: OGL
 **Bulk** 0; **Size** med
 **Usage** affixed-to-weapon
 
-This miniature iron cudgel is typically affixed to a weapon by an iron chain. When you activate the cudgel, you use Brutal Finish, as the fighter feat. You must meet the normal requirements, including those of the press trait.
+**Usage** affixed to a melee weapon
 
-If you have the Brutal Finish feat, add two additional weapon damage dice on a success or a failure.
+**Activate** `pf2:1` (manipulate)
 
-**Usage** affixed to a weapon
+* * *
 
-**Activate** `pf2:1` Brutal Finish
+This miniature club is typically affixed to a weapon by an iron chain. When you activate the cudgel, you use [[Feats/Brutal Finish|Brutal Finish]], as the fighter feat. You must meet the normal requirements, including those of the press trait.
 
-**Requirements** You are a master with the affixed weapon
+If you have the Brutal Finish feat, add an additional weapon damage die on a success or a failure to the normal results.
 
-*Source: Pathfinder Core Rulebook*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

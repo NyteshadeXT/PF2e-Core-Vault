@@ -8,8 +8,9 @@ tags:
   - trait/potion
   - trait/common
   - category/potion
+  - remaster
 aliases: "Compendium.pf2e.equipment-srd.Item.67KiGZtoTMbl7nv2"
-license: OGL
+license: ORC
 ---
 # Potion of Fire Retaliation (Lesser)
 ## Item 3
@@ -20,11 +21,13 @@ license: OGL
 **Bulk** L; **Size** med
 **Usage** held-in-one-hand
 
-**Activate** `pf2:1` Interact
+**Activate** `pf2:1` (manipulate)
+
+* * *
 
 For 1 minute after drinking a potion of fire retaliation, you glow with a faint aura of fire energy, and a creature that touches you (such as by making an unarmed attack or using a spell with a range of touch against you) takes fire damage.
 
 The aura deals 1d4 fire damage.
 
-*Source: Pathfinder Advanced Player's Guide*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

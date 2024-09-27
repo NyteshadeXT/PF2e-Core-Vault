@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.quest-for-the-frozen-flame-bestiary.Actor.hNHljzF0xpUB
 tags:
   - pf2e/creature/type/human
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/10
 statblock: inline
 name: "Jesseri The Hailstorm"
@@ -21,11 +22,11 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #177: Burning Tundra"
 name: "Jesseri The Hailstorm"
 level: "Creature 10"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Medium"
-trait_01: "human"
-trait_02: "humanoid"
+trait_01: [[human]]
+trait_02: [[humanoid]]
 modifier: 23
 perception:
   - name: "Perception"
@@ -33,7 +34,7 @@ perception:
 languages: "Common, Hallit"
 skills:
   - name: "Skills"
-    desc: "Mammoth Lord Lore: +16, Medicine: +23, Nature: +23, Performance: +20, Religion: +21, Society: +18, Survival: +21"
+    desc: "Medicine: +23, Nature: +23, Performance: +20, Religion: +21, Society: +18, Survival: +21, Mammoth Lord Lore: +16"
 abilityMods: [0, 4, 5, 2, 5, 2]
 speed: 25 feet
 sourcebook: "_Pathfinder #177: Burning Tundra_"
@@ -70,6 +71,12 @@ attacks:
   - name: "Signature Spells"
     desc: "  Jesseri can heighten [[Spells/Heal|Heal]] and [[Spells/Lightning Bolt|Lightning Bolt]] to any level for which she has an available spell slot."
  
+```
+
+```encounter-table
+name: Jesseri The Hailstorm
+creatures:
+  - 1: Jesseri The Hailstorm
 ```
 
 

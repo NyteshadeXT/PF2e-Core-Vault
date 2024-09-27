@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.gatewalkers-bestiary.Actor.A9gKXEQXwKb4U6wA"
 tags:
   - pf2e/creature/type/dragon
   - pf2e/creature/type/evil
+  - pf2eMonster
   - pf2e/creature/level/6
 statblock: inline
 name: "Myroga"
@@ -21,11 +22,11 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #188: They Watched the Stars"
 name: "Myroga"
 level: "Creature 6"
-rare_03: "Rare"
+rare_03: [[Rare]]
 alignment: ""
 size: "Large"
-trait_01: "dragon"
-trait_02: "evil"
+trait_01: [[dragon]]
+trait_02: [[evil]]
 modifier: 17
 perception:
   - name: "Perception"
@@ -79,11 +80,17 @@ attacks:
     desc: "`pf2:2`  The myroga makes two talon Strikes and one tail Strike in any order."
 
   - name: "Ley Line Empowerment"
-    desc: "`pf2:2` (force,occult) **Requirements** The myroga is within 500 feet of a ley line\n**Effect** The myroga wreathes itself in raw destructive energy converted from the ley line's ambient magic. The myroga deals an additional 2d6 force with each of its next successful fangs, tail, and talon Strike. Once its dealt damage with one of these Strikes, the energy is discharged from that body part, but not the others."
+    desc: "`pf2:2` (force,occult) **Requirements** The myroga is within 500 feet of a ley line\n* * *\n\n**Effect** The myroga wreathes itself in raw destructive energy converted from the ley line's ambient magic. The myroga deals an additional 2d6 force with each of its next successful fangs, tail, and talon Strike. Once its dealt damage with one of these Strikes, the energy is discharged from that body part, but not the others."
 
   - name: "Ley Line Rupture"
-    desc: "`pf2:1` (attack,force,occult) **Requirements** The myroga is within 500 feet of a ley line\n**Effect** The myroga diverts some of the ley line's magic into a deadly and distant explosion. The myroga creates a detonation of force in a 5-foot square within a mile of its ley line and that it can see, dealing 5d6 force to creatures (DC 24 Reflex check). A myroga can will the detonation into existence anywhere within a mile of the ley line, possibly allowing it to ignore cover the target might have from, for example, an obstacle between itself and the myroga."
+    desc: "`pf2:1` (attack,force,occult) **Requirements** The myroga is within 500 feet of a ley line\n* * *\n\n**Effect** The myroga diverts some of the ley line's magic into a deadly and distant explosion. The myroga creates a detonation of force in a 5-foot square within a mile of its ley line and that it can see, dealing 5d6 force to creatures (DC 24 Reflex check). A myroga can will the detonation into existence anywhere within a mile of the ley line, possibly allowing it to ignore cover the target might have from, for example, an obstacle between itself and the myroga."
  
+```
+
+```encounter-table
+name: Myroga
+creatures:
+  - 1: Myroga
 ```
 
 

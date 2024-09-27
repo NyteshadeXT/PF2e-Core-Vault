@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.pfs-season-1-bestiary.Actor.MJtndSx73zEx8702"
 tags:
   - pf2e/creature/type/human
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/-1
 statblock: inline
 name: "Guard"
@@ -21,11 +22,11 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Society Scenario #1-08: Revolution on the Riverside"
 name: "Guard"
 level: "Creature -1"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Medium"
-trait_01: "human"
-trait_02: "humanoid"
+trait_01: [[human]]
+trait_02: [[humanoid]]
 modifier: 5
 perception:
   - name: "Perception"
@@ -64,6 +65,12 @@ attacks:
   - name: "Ranged"
     desc: "`pf2:1` Spear +6 (range increment 20 feet)\n__Damage__  1d6 + 2 piercing"
  
+```
+
+```encounter-table
+name: Guard
+creatures:
+  - 1: Guard
 ```
 
 

@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.npc-gallery.Actor.ldaY3QcPczuFoqBC"
 tags:
   - pf2e/creature/type/human
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/5
 statblock: inline
 name: "Plague Doctor"
@@ -24,8 +25,8 @@ level: "Creature 5"
 
 alignment: ""
 size: "Medium"
-trait_01: "human"
-trait_02: "humanoid"
+trait_01: [[human]]
+trait_02: [[humanoid]]
 modifier: 13
 perception:
   - name: "Perception"
@@ -33,7 +34,7 @@ perception:
 languages: "Common"
 skills:
   - name: "Skills"
-    desc: "Intimidation: +9, Medicine: +13, Plague Lore: +13, Religion: +13"
+    desc: "Intimidation: +9, Medicine: +13, Religion: +13, Plague Lore: +13"
 abilityMods: [0, 1, 4, 2, 4, 2]
 speed: 25 feet
 sourcebook: "_Pathfinder Gamemastery Guide_"
@@ -73,6 +74,12 @@ attacks:
   - name: "Improved Communal Healing"
     desc: "  When the plague doctor casts [[Spells/Heal|Heal]] targeting a single creature, the plague doctor also restores Hit Points equal to the spell's rank to themself or any other creature within range of the spell."
  
+```
+
+```encounter-table
+name: Plague Doctor
+creatures:
+  - 1: Plague Doctor
 ```
 
 

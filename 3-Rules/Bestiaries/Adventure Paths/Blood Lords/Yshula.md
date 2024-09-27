@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/fiend
   - pf2e/creature/type/unholy
+  - pf2eMonster
   - pf2e/creature/level/8
 statblock: inline
 name: "Yshula"
@@ -23,18 +24,18 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #183: Field of Maidens"
 name: "Yshula"
 level: "Creature 8"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Medium"
-trait_01: "div"
-trait_02: "evil"
-trait_03: "fiend"
-trait_04: "unholy"
+trait_01: [[div]]
+trait_02: [[evil]]
+trait_03: [[fiend]]
+trait_04: [[unholy]]
 modifier: 17
 perception:
   - name: "Perception"
     desc: "+17; Greater Darkvision"
-languages: "Common, Daemonic"
+languages: "Common, Daemonic; telepathy 100 feet"
 skills:
   - name: "Skills"
     desc: "Acrobatics: +16, Arcana: +15, Deception: +22, Diplomacy: +22, Intimidation: +18, Religion: +15, Society: +15, Stealth: +18"
@@ -72,17 +73,23 @@ attacks:
     desc: "_[[Spells/Div Pact|Div Pact]]_"
 
   - name: "Bubonic Plague"
-    desc: " (disease) A creature can't remove the [[Conditions/Fatigued|Fatigued]] condition while infected\n**Saving Throw** DC 23 Fortitude check\n**Onset** 1 day\n**Stage 1** fatigued (1 day)\n**Stage 2** [[Conditions/Enfeebled 1|Enfeebled 2]] and fatigued (1 day)\n**Stage 3** [[Conditions/Enfeebled 1|Enfeebled 3]], fatigued, and take 1d6 bleed damage every 1d20 minutes (1 day)"
+    desc: " (disease) A creature can't remove the [[Conditions/Fatigued|Fatigued]] condition while infected\n\n**Saving Throw** DC 23 Fortitude check\n\n**Onset** 1 day\n\n**Stage 1** fatigued (1 day)\n\n**Stage 2** [[Conditions/Enfeebled|Enfeebled 2]] and fatigued (1 day)\n\n**Stage 3** [[Conditions/Enfeebled|Enfeebled 3]], fatigued, and take 1d6 bleed damage every 1d20 minutes (1 day)"
 
   - name: "[[Bestiary Ability Glossary/Change Shape|Change Shape]]"
     desc: "`pf2:1` (concentrate,divine,polymorph) Yshula can take the appearance of any Small or Medium humanoid or animal. This doesn't change his Speed or his attack and damage modifiers with the Strikes, but it might change the damage type his strikes deal."
 
   - name: "Cottage-Drained"
-    desc: "  Yshula is [[Conditions/Drained 1|Drained 2]] and can't recover from his drained condition while he's in the cottage. These reductions are included in his statistics."
+    desc: "  Yshula is [[Conditions/Drained|Drained 2]] and can't recover from his drained condition while he's in the cottage. These reductions are included in his statistics."
 
   - name: "Tormenting Dreams"
-    desc: "`pf2:2` (divine,emotion,mental) **Frequency** once per day\n**Effect** Yshula torments a sleeping creature within 100 feet with visions of betrayals by loved ones and friends. The target must attempt a DC 25 Will check save, with the effects of the [[Spells/Nightmare|Nightmare]] spell."
+    desc: "`pf2:2` (divine,emotion,mental) **Frequency** once per day\n* * *\n\n**Effect** Yshula torments a sleeping creature within 100 feet with visions of betrayals by loved ones and friends. The target must attempt a DC 25 Will check save, with the effects of the [[Spells/Nightmare|Nightmare]] spell."
  
+```
+
+```encounter-table
+name: Yshula
+creatures:
+  - 1: Yshula
 ```
 
 

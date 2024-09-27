@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/human
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/9
 statblock: inline
 name: "Pavetta Stroon-Drelev"
@@ -22,12 +23,12 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Kingmaker"
 name: "Pavetta Stroon-Drelev"
 level: "Creature 9"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Medium"
-trait_01: "evil"
-trait_02: "human"
-trait_03: "humanoid"
+trait_01: [[evil]]
+trait_02: [[human]]
+trait_03: [[humanoid]]
 modifier: 19
 perception:
   - name: "Perception"
@@ -35,7 +36,7 @@ perception:
 languages: "Common, Skald"
 skills:
   - name: "Skills"
-    desc: "Deception: +19, Diplomacy: +19, Intimidation: +19, Nature: +17, Nobility Lore: +17, Performance: +15, Society: +17"
+    desc: "Deception: +19, Diplomacy: +19, Intimidation: +19, Nature: +17, Performance: +15, Society: +17, Nobility Lore: +17"
 abilityMods: [0, 2, 2, 2, 4, 4]
 speed: 25 feet
 sourcebook: "_Pathfinder Kingmaker_"
@@ -55,7 +56,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Vengeful Rage"
-    desc: "`pf2:r` (emotion,mental) **Trigger** Jewel is either killed or knocked [[Conditions/Unconscious|Unconscious]]\n**Effect** Pavetta flies into a rage. She gains 20 temporary Hit Points, gains a +4 circumstance bonus on attack rolls, and deals 4d6 additional damage with melee weapons. In addition, she becomes [[Conditions/Confused|Confused]]. This rage persists for 1 minute or until she ceases to be confused, after which she becomes [[Conditions/Fatigued|Fatigued]].\n[[Feat_Feature Effects/Effect_ Rage|Effect: Rage]]"
+    desc: "`pf2:r` (emotion,mental) **Trigger** Jewel is either killed or knocked [[Conditions/Unconscious|Unconscious]]\n* * *\n\n**Effect** Pavetta flies into a rage. She gains 20 temporary Hit Points, gains a +4 circumstance bonus on attack rolls, and deals 4d6 additional damage with melee weapons. In addition, she becomes [[Conditions/Confused|Confused]]. This rage persists for 1 minute or until she ceases to be confused, after which she becomes [[Conditions/Fatigued|Fatigued]].\n\n[[Feat_Feature Effects/Effect_ Rage|Effect: Rage]]"
 
 attacks:
   - name: ""
@@ -76,8 +77,14 @@ attacks:
     desc: "`pf2:1` (auditory,concentrate,manipulate) With a command to Jewel, Pavetta releases her to serve as a minion. She must concentrate to sustain this ability, during which she continues to shout commands to the little dog."
 
   - name: "Stabbing Fit"
-    desc: "`pf2:2`  **Requirement** Pavetta is affected by Vengeful Rage.\n**Effect** Pavetta makes up to five melee Strikes with her dagger, each against a different target. These attacks count toward her multiple attack penalty, but the penalty doesn't increase until after she makes all of her attacks."
+    desc: "`pf2:2`  **Requirement** Pavetta is affected by Vengeful Rage.\n\n**Effect** Pavetta makes up to five melee Strikes with her dagger, each against a different target. These attacks count toward her multiple attack penalty, but the penalty doesn't increase until after she makes all of her attacks."
  
+```
+
+```encounter-table
+name: Pavetta Stroon-Drelev
+creatures:
+  - 1: Pavetta Stroon-Drelev
 ```
 
 

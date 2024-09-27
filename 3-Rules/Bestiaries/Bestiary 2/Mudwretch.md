@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/earth
   - pf2e/creature/type/elemental
   - pf2e/creature/type/water
+  - pf2eMonster
   - pf2e/creature/level/2
 statblock: inline
 name: "Mudwretch"
@@ -26,9 +27,9 @@ level: "Creature 2"
 
 alignment: ""
 size: "Medium"
-trait_01: "earth"
-trait_02: "elemental"
-trait_03: "water"
+trait_01: [[earth]]
+trait_02: [[elemental]]
+trait_03: [[water]]
 modifier: 9
 perception:
   - name: "Perception"
@@ -58,7 +59,7 @@ abilities_mid:
     desc: " (aura) 10 feet. The ground in the area is difficult terrain for all non-mudwretch creatures."
 
   - name: "Susceptible to Desiccation"
-    desc: "  If a mudwretch takes any damage from [[Spells/Desiccate|Desiccate]] or a similar effect, takes 10 or more fire damage from a single effect, or spends more than 24 hours outside of a source of sufficient hydration (such as a swamp, river, well, or recent rainfall), it becomes dehydrated.\nWhile dehydrated, the mudwretch can't Spew Mud, is [[Conditions/Sickened 1|Sickened 2]], and is [[Conditions/Slowed 1|Slowed 1]] until it either fully immerses in water, spends 1 minute in the rain, or rehydrates in another way (such as via Gory Hydration)."
+    desc: "  If a mudwretch takes any damage from [[Spells/Desiccate|Desiccate]] or a similar effect, takes 10 or more fire damage from a single effect, or spends more than 24 hours outside of a source of sufficient hydration (such as a swamp, river, well, or recent rainfall), it becomes dehydrated.\n\nWhile dehydrated, the mudwretch can't Spew Mud, is [[Conditions/Sickened|Sickened 2]], and is [[Conditions/Slowed|Slowed 1]] until it either fully immerses in water, spends 1 minute in the rain, or rehydrates in another way (such as via Gory Hydration)."
 
 attacks:
   - name: ""
@@ -67,20 +68,26 @@ attacks:
     desc: "`pf2:1` Fist +10 (agile)\n__Damage__  1d8 + 4 bludgeoning plus grab"
 
   - name: "[[Bestiary Ability Glossary/Constrict|Constrict]]"
-    desc: "`pf2:1`  1d8 + 2 bludgeoning damage, DC 18 Fortitude check\n"
+    desc: "`pf2:1`  1d8+2 bludgeoning damage, DC 18 Fortitude check\n\n* * *\n"
 
   - name: "Gory Hydration"
-    desc: "`pf2:r`  **Requirements** The mudwretch is dehydrated\n**Trigger** The mudwretch deals Constrict damage to a living creature that has blood\n**Effect** The mudwretch squeezes harder, dealing 1d6 bleed to the target. The mudwretch absorbs this blood, removing any penalties it had as a result of being dehydrated."
+    desc: "`pf2:r`  **Requirements** The mudwretch is dehydrated\n\n**Trigger** The mudwretch deals Constrict damage to a living creature that has blood\n* * *\n\n**Effect** The mudwretch squeezes harder, dealing 1d6 bleed to the target. The mudwretch absorbs this blood, removing any penalties it had as a result of being dehydrated."
 
   - name: "Mud Puddle"
     desc: "`pf2:1` (concentrate) Until it next acts, the mudwretch appears to be an ordinary puddle of mud. It has an automatic result of 20 on Deception checks to pass as a mud puddle and can make a fist Strike against a creature that walks onto the mud puddle as a reaction."
 
   - name: "Spew Mud"
-    desc: "`pf2:2` (primal) The mudwretch spews a 20-foot line of pressurized mud that deals 2d10 bludgeoning damage (DC 18 Reflex check save). On a critical failure, a creature also takes a -10-foot status penalty to its Speeds for 1 round.\nThe mudwretch can't Spew Mud again for 1d4 rounds."
+    desc: "`pf2:2` (primal) The mudwretch spews a @Template[line|distance:20] of pressurized mud that deals 2d10 bludgeoning damage (DC 18 Reflex check save). On a critical failure, a creature also takes a -10-foot status penalty to its Speeds for 1 round.\n\nThe mudwretch can't Spew Mud again for 1d4 rounds."
 
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
     desc: "`pf2:1`  "
  
+```
+
+```encounter-table
+name: Mudwretch
+creatures:
+  - 1: Mudwretch
 ```
 
 

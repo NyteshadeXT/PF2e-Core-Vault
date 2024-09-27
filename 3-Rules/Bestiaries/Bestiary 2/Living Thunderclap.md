@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.pathfinder-bestiary-2.Actor.mZxVXRI1Zh3HUXxn"
 tags:
   - pf2e/creature/type/air
   - pf2e/creature/type/elemental
+  - pf2eMonster
   - pf2e/creature/level/4
 statblock: inline
 name: "Living Thunderclap"
@@ -25,8 +26,8 @@ level: "Creature 4"
 
 alignment: ""
 size: "Medium"
-trait_01: "air"
-trait_02: "elemental"
+trait_01: [[air]]
+trait_02: [[elemental]]
 modifier: 9
 perception:
   - name: "Perception"
@@ -65,11 +66,17 @@ attacks:
     desc: "  The living thunderclap doesn't trigger reactions when it moves."
 
   - name: "Thunderbolt"
-    desc: "`pf2:2` (electricity,primal,sonic) The living thunderclap emits a bolt of lightning that crashes with deafening thunder. The living thunderclap makes a lightning bolt Strike that deals 1d12 electricity damage. If it hits, the target and any creatures within a 15-foot emanation around the target take 2d6 sonic damage and must attempt a DC 18 Fortitude check save.\nAny creature that fails its save is also [[Conditions/Deafened|Deafened]] for 1d4 rounds."
+    desc: "`pf2:2` (electricity,primal,sonic) The living thunderclap emits a bolt of lightning that crashes with deafening thunder. The living thunderclap makes a lightning bolt Strike that deals 1d12 electricity damage. If it hits, the target and any creatures within a @Template[emanation|distance:15] around the target take 2d6 sonic damage and must attempt a DC 18 Fortitude check save.\n\nAny creature that fails its save is also [[Conditions/Deafened|Deafened]] for 1d4 rounds."
 
   - name: "[[Bestiary Ability Glossary/Push|Push]]"
     desc: "`pf2:1`  "
  
+```
+
+```encounter-table
+name: Living Thunderclap
+creatures:
+  - 1: Living Thunderclap
 ```
 
 

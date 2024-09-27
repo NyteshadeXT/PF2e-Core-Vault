@@ -6,6 +6,7 @@ tags:
   - alchemical
   - mechanical
   - trap
+  - pf2eHazard
   - complex
 source: Pathfinder #159: All or Nothing
 aliases: "Compendium.pf2e.agents-of-edgewatch-bestiary.Actor.hzThZ50RRdfTYTKc" 
@@ -23,15 +24,15 @@ name: "Clockwork Poison Bomb"
 level: "Hazard 11"
 
 trait_06: "Complex"
-trait_01: "alchemical"
-trait_02: "mechanical"
-trait_03: "trap"
+trait_01: [[alchemical]]
+trait_02: [[mechanical]]
+trait_03: [[trap]]
 modifier: 0
 sourcebook: "_Pathfinder #159: All or Nothing_"
 ac: 32
 armorclass:
   - name: AC
-    desc: "32; __Fort__ +24, __Ref__ +26, __Will__ +0"
+    desc: "32; __Fort__ +24, __Ref__ +26, "
 hp: 20
 health:
   - name: ""
@@ -53,11 +54,17 @@ attacks:
   - name: ""
 
   - name: "Poisonous Cloud"
-    desc: "`pf2:r` (alchemical, poison) **Trigger** The bomb is Activated, which requires 3 actions\n**Effect** The bomb releases a smoky cloud of [[Equipment/Blackfinger Blight|Blackfinger Blight]] in a 20-foot radius. Creatures within the smoke are [[Conditions/Concealed|Concealed]] from other creatures.\nAny creature that starts its turn in the smoke must roll a DC 32 Fortitude check saving throw to avoid being afflicted by blackfinger blight poison.\nThe cloud remains for 1 minute or until dispersed by strong winds."
+    desc: "`pf2:r` (alchemical, poison) **Trigger** The bomb is Activated, which requires 3 actions\n* * *\n\n**Effect** The bomb releases a smoky cloud of [[Equipment/Blackfinger Blight|Blackfinger Blight]] in a 20-foot radius. Creatures within the smoke are [[Conditions/Concealed|Concealed]] from other creatures.\n\nAny creature that starts its turn in the smoke must roll a DC 32 Fortitude check saving throw to avoid being afflicted by blackfinger blight poison.\n\nThe cloud remains for 1 minute or until dispersed by strong winds."
 
   - name: "Routine"
     desc: "(1 action) On its turn, the bomb spews forth a smoky gout of airborne [[Equipment/Blackfinger Blight|Blackfinger Blight]] poison. The cloud fills a 20-foot radius, or a 10-foot radius if only one tank remains intact. If the bomb is already in the center of a blackfinger blight cloud, the radius of that cloud increases by 20 feet (or 10 feet, if only one tank remains intact) instead."
   - name: "Reset"
     desc: "The trap issues smoke for 3 minutes before its tanks run dry. The tanks must be replaced before the bomb can be reactivated."
+```
+
+```encounter-table
+name: Clockwork Poison Bomb
+creatures:
+  - 1: Clockwork Poison Bomb
 ```
 

@@ -13,7 +13,7 @@ license: OGL
 ---
 # Arctic Vigor (Greater)
 ## Item 15
-### [uncommon](uncommon "Uncommon Rarity Trait")[[3-Rules/Rule References/Cold]][[invested]][[magical]][[tattoo]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[3-Rules/Rule References/Cold]][[invested]][[3-Rules/Rule References/Magical]][[tattoo]]
 
 
 **Price** 6000 gp; 
@@ -30,7 +30,7 @@ This tattoo takes the shape of the face of a roaring polar bear with piercing, i
 
 * * *
 
-**Effect** You call forth a blast of polar wind in your choice of a 10-foot burst, 15-foot burst, or 20-foot burst within a range of 60 feet that deals 12d6 cold damage. All creatures in the area must attempt a DC 27 Fortitude check save.
+**Effect** You call forth a blast of polar wind in your choice of a @Template\[burst|distance:10\], @Template\[burst|distance:15\], or @Template\[burst|distance:20\] within a range of 60 feet that deals 12d6 cold damage. All creatures in the area must attempt a DC 27 Fortitude check save.
 
 *Source: Pathfinder Lost Omens: The Grand Bazaar*
 *OGL*

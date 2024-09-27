@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/demon
   - pf2e/creature/type/fiend
   - pf2e/creature/type/unholy
+  - pf2eMonster
   - pf2e/creature/level/25
   - remaster
 statblock: inline
@@ -25,13 +26,13 @@ token: [[modules/pf2e-tokens-bestiaries/portraits/fiendish/demon/treerazer.webp|
 source: "Pathfinder Monster Core"
 name: "Treerazer"
 level: "Creature 25"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "huge"
-trait_01: "amphibious"
-trait_02: "demon"
-trait_03: "fiend"
-trait_04: "unholy"
+trait_01: [[amphibious]]
+trait_02: [[demon]]
+trait_03: [[fiend]]
+trait_04: [[unholy]]
 modifier: 46
 perception:
   - name: "Perception"
@@ -79,24 +80,30 @@ attacks:
   - name: "Rituals"
     desc: "_[[Spells/Demonic Pact|Demonic Pact]]_, _[[Spells/Planar Servitor|Planar Servitor]]_"
 
-  - name: "Blackaxe - Owner’s Authority"
-    desc: "`pf2:1` (concentrate,scrying) **Requirements** Treerazer isn't wielding _Blackaxe_.\n* * *\n\n**Effect** Treerazer sense the world around Blackaxe as though you were in its location and can use any of your innate spells through the link as if it were the source of the spell. If another creature is wielding Blackaxe, it must succeed at a DC 50 Will check save or be [[Conditions/Slowed 1|Slowed 2]] until it relinquishes the weapon."
+  - name: "Blackaxe - Owner's Authority"
+    desc: "`pf2:1` (concentrate,scrying) **Requirements** Treerazer isn't wielding _Blackaxe_.\n* * *\n\n**Effect** Treerazer sense the world around Blackaxe as though you were in its location and can use any of your innate spells through the link as if it were the source of the spell. If another creature is wielding Blackaxe, it must succeed at a DC 50 Will check save or be [[Conditions/Slowed|Slowed 2]] until it relinquishes the weapon."
 
-  - name: "Blackaxe - Owner’s Reclamation"
+  - name: "Blackaxe - Owner's Reclamation"
     desc: " (concentrate,teleportation) **Requirements** Treerazer isn't wielding _Blackaxe_.\n* * *\n\n**Effect** _Blackaxe_ appears in Treerazer's hands, teleporting instantly from its prior location."
 
   - name: "Blackaxe - Rejuvenating Deforestation"
     desc: "`pf2:1` (concentrate,death,healing,vitality) **Frequency** once per minute.\n* * *\n\n**Effect** Make a Strike against a living tree with Blackaxe. If it hits, the tree withers to ash and you heal 250 Hit Points and gain the benefit of a 6th-rank [[Spells/Sound Body|Sound Body]] spell."
 
   - name: "Defoliation"
-    desc: "`pf2:2` (plant,primal) Treerazer exudes a pulse of sickly green light in a 30-foot-radius emanation. All plants in the area (including creatures under the effect of his aura of corruption) blacken and wither.\n\nNon-creature plants immediately wither and die. Plant and fungus creatures take 20d8 void damage with a DC 49 Fortitude check save. A creature that fails its save is [[Conditions/Doomed 1|Doomed 1]] for 1 minute and [[Conditions/Sickened 1|Sickened 3]].\n\nTreerazer can choose to exclude any number of plants or fungi in the area from this effect, and generally does so to preserve twisted and corrupted plants or fungi, or plant and fungus creatures that are allied to his cause.\n\nTreerazer can't use Defoliation for 1d4 rounds."
+    desc: "`pf2:2` (plant,primal) Treerazer exudes a pulse of sickly green light in a 30-foot-radius emanation. All plants in the area (including creatures under the effect of his aura of corruption) blacken and wither.\n\nNon-creature plants immediately wither and die. Plant and fungus creatures take 20d8 void damage with a DC 49 Fortitude check save. A creature that fails its save is [[Conditions/Doomed|Doomed 1]] for 1 minute and [[Conditions/Sickened|Sickened 3]].\n\nTreerazer can choose to exclude any number of plants or fungi in the area from this effect, and generally does so to preserve twisted and corrupted plants or fungi, or plant and fungus creatures that are allied to his cause.\n\nTreerazer can't use Defoliation for 1d4 rounds."
 
   - name: "Dispelling Strike"
     desc: " (primal) **Frequency** once per round\n\n**Trigger** Treerazer hits a creature, object, or spell effect with a weapon Strike or subjects one to Defoliation;\n* * *\n\n**Effect** Treerazer casts his innate [[Spells/Dispel Magic|Dispel Magic]], targeting the creature he hit with his Strike or one spell affecting that creature."
 
   - name: "Staggering Strike"
-    desc: "  When Treerazer scores a critical hit with a melee attack, the target is [[Conditions/Stunned 1|Stunned 2]]."
+    desc: "  When Treerazer scores a critical hit with a melee attack, the target is [[Conditions/Stunned|Stunned 2]]."
  
+```
+
+```encounter-table
+name: Treerazer
+creatures:
+  - 1: Treerazer
 ```
 
 

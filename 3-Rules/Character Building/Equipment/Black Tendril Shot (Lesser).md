@@ -12,7 +12,7 @@ license: OGL
 ---
 # Black Tendril Shot (Lesser)
 ## Item 7
-### [[consumable]][[magical]]
+### [[consumable]][[3-Rules/Rule References/Magical]]
 
 **Category** ammo; 
 **Price** 60 gp; 
@@ -31,11 +31,11 @@ A glistening, tar-like substance that's displeasing to the touch coats a black t
 
 **Critical Success** The target is unaffected.
 
-**Success** The target is [[Conditions/Slowed 1|Slowed 1]] but gains a +2 circumstance bonus to [[Actions/Escape|Escape]] the ammunition's effect.
+**Success** The target is [[Conditions/Slowed|Slowed 1]] but gains a +2 circumstance bonus to [[Actions/Escape|Escape]] the ammunition's effect.
 
 **Failure** The target is slowed 1.
 
-**Critical Failure** The target is [[Conditions/Slowed 1|Slowed 2]].
+**Critical Failure** The target is [[Conditions/Slowed|Slowed 2]].
 
 *Source: Pathfinder Treasure Vault*
 *OGL*

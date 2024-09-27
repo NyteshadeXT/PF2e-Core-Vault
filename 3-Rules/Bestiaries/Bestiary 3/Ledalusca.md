@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/cold
   - pf2e/creature/type/elemental
   - pf2e/creature/type/water
+  - pf2eMonster
   - pf2e/creature/level/2
 statblock: inline
 name: "Ledalusca"
@@ -26,9 +27,9 @@ level: "Creature 2"
 
 alignment: ""
 size: "Medium"
-trait_01: "cold"
-trait_02: "elemental"
-trait_03: "water"
+trait_01: [[cold]]
+trait_02: [[elemental]]
+trait_03: [[water]]
 modifier: 8
 perception:
   - name: "Perception"
@@ -58,7 +59,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Shell Block"
-    desc: "`pf2:r`  **Trigger** The ledalusca takes physical damage from an attack\n**Requirements** The ledalusca's shell is frozen (see Freeze Shell)\n**Effect** The ledalusca angles their shell to absorb the blow, gaining resistance 5 to the triggering damage. If they take bludgeoning or fire damage after applying this resistance, their frozen shell shatters until they freeze a new one."
+    desc: "`pf2:r`  **Trigger** The ledalusca takes physical damage from an attack\n\n**Requirements** The ledalusca's shell is frozen (see Freeze Shell)\n* * *\n\n**Effect** The ledalusca angles their shell to absorb the blow, gaining resistance 5 to the triggering damage. If they take bludgeoning or fire damage after applying this resistance, their frozen shell shatters until they freeze a new one."
 
 attacks:
   - name: ""
@@ -70,7 +71,7 @@ attacks:
     desc: "`pf2:1` Ice Shard +9 (deadly d6, thrown 20 ft.)\n__Damage__  1d6 + 4 piercing 1d4 cold"
 
   - name: "Freeze Shell"
-    desc: "`pf2:1` (cold,manipulate) The ledalusca freezes their surface into a translucent, faintly colored ice sculpture matching the mirror image of a Medium creature or object they have seen before. While in this form, instead of a wave, they have the following Strike:\n**Melee** `pf2:1` ice shell +10/+5/+0, **Damage** 1d4 cold damage\nThe physical damage is a type that matches the new shape of the ledalusca's frozen shell. The ledalusca can revert to their liquid form by taking this action again."
+    desc: "`pf2:1` (cold,manipulate) The ledalusca freezes their surface into a translucent, faintly colored ice sculpture matching the mirror image of a Medium creature or object they have seen before. While in this form, instead of a wave, they have the following Strike:\n\n**Melee** `pf2:1` ice shell +10/+5/+0, **Damage** 1d4 cold damage\n\nThe physical damage is a type that matches the new shape of the ledalusca's frozen shell. The ledalusca can revert to their liquid form by taking this action again."
 
   - name: "Hold Still"
     desc: "`pf2:1` (concentrate) Until the next time they act, the ledaluca appears to be either an ice sculpture (if under the effects of Freeze Shell) or a pool of still water (if not). They have an automatic result of 28 on Deception checks and DCs to pass as what they appear to be."
@@ -78,6 +79,12 @@ attacks:
   - name: "[[Bestiary Ability Glossary/Push|Push]]"
     desc: "`pf2:1`  "
  
+```
+
+```encounter-table
+name: Ledalusca
+creatures:
+  - 1: Ledalusca
 ```
 
 

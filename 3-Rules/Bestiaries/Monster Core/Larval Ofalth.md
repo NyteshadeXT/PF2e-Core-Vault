@@ -6,6 +6,7 @@ cssClasses: pf2e
 aliases: "Compendium.pf2e.pathfinder-monster-core.Actor.lK4Xfb58mUNygoae" 
 tags:
   - pf2e/creature/type/aberration
+  - pf2eMonster
   - pf2e/creature/level/4
   - remaster
 statblock: inline
@@ -18,13 +19,14 @@ license: ORC
 columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
+token: [[modules/pf2e-tokens-monster-core/assets/portraits/ofalth-larval.webp| ]]
 source: "Pathfinder Monster Core"
 name: "Larval Ofalth"
 level: "Creature 4"
 
 alignment: ""
 size: "Medium"
-trait_01: "aberration"
+trait_01: [[aberration]]
 modifier: 9
 perception:
   - name: "Perception"
@@ -32,7 +34,7 @@ perception:
 languages: "Common"
 skills:
   - name: "Skills"
-    desc: "Athletics: +13, Stealth: +9 (+13 in trash and rubbish)"
+    desc: "Athletics: +13, Stealth: +9"
 abilityMods: [5, 1, 3, -2, 1, -2]
 speed: 25 feet
 sourcebook: "_Pathfinder Monster Core_"
@@ -70,8 +72,14 @@ attacks:
     desc: "`pf2:1` Leachate +11 (range 20 feet)\n__Damage__  3d8 acid plus wretched-weeps"
 
   - name: "Wretched Weeps"
-    desc: "  **Saving Throw** DC 19 Fortitude check\n* * *\n\n**Stage 1** carrier with no ill effect (1 day)\n\n**Stage 2** 2d4 persistent bleed every hour and [[Conditions/Enfeebled 1|Enfeebled 1]] (1 day);\n\n**Stage 3** 2d6 persistent bleed every hour and [[Conditions/Enfeebled 1|Enfeebled 2]] (1 day)"
+    desc: "  **Saving Throw** DC 19 Fortitude check\n* * *\n\n**Stage 1** carrier with no ill effect (1 day)\n\n**Stage 2** 2d4 persistent bleed every hour and [[Conditions/Enfeebled|Enfeebled 1]] (1 day);\n\n**Stage 3** 2d6 persistent bleed every hour and [[Conditions/Enfeebled|Enfeebled 2]] (1 day)"
  
+```
+
+```encounter-table
+name: Larval Ofalth
+creatures:
+  - 1: Larval Ofalth
 ```
 
 

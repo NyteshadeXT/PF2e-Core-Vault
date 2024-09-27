@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/undead
   - pf2e/creature/type/unholy
+  - pf2eMonster
   - pf2e/creature/level/3
 statblock: inline
 name: "Desiccated Giant Crawling Hand"
@@ -22,17 +23,17 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Society Scenario #2-03: Catastrophe&#x27;s Spark"
 name: "Desiccated Giant Crawling Hand"
 level: "Creature 3"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Medium"
-trait_01: "evil"
-trait_02: "undead"
-trait_03: "unholy"
+trait_01: [[evil]]
+trait_02: [[undead]]
+trait_03: [[unholy]]
 modifier: 9
 perception:
   - name: "Perception"
     desc: "+9; Lifesense 30 Feet, Tremorsense (Imprecise) 30 Feet"
-languages: "Common"
+languages: "Common; (can&#x27;t speak any language)"
 skills:
   - name: "Skills"
     desc: "Athletics: +10, Stealth: +8, Survival: +9"
@@ -54,7 +55,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Pus Burst"
-    desc: "`pf2:r`  **Trigger** The giant crawling hand takes piercing or slashing damage\n**Effect** A random creature adjacent to the giant crawling hand is sprayed with vile pus that deals 2d6 void damage. The affected creature must attempt a DC 19 Reflex check save.\n**Critical Success** The creature takes no damage.\n**Success** The creature takes half damage and becomes [[Conditions/Sickened 1|Sickened 1]].\n**Failure** The creature takes full damage and becomes [[Conditions/Sickened 1|Sickened 2]].\n**Critical Failure** The creature takes double damage and becomes [[Conditions/Sickened 1|Sickened 3]]."
+    desc: "`pf2:r`  **Trigger** The giant crawling hand takes piercing or slashing damage\n* * *\n\n**Effect** A random creature adjacent to the giant crawling hand is sprayed with vile pus that deals 2d6 void damage. The affected creature must attempt a DC 19 Reflex check save.\n* * *\n\n**Critical Success** The creature takes no damage.\n\n**Success** The creature takes half damage and becomes [[Conditions/Sickened|Sickened 1]].\n\n**Failure** The creature takes full damage and becomes [[Conditions/Sickened|Sickened 2]].\n\n**Critical Failure** The creature takes double damage and becomes [[Conditions/Sickened|Sickened 3]]."
 
 attacks:
   - name: ""
@@ -68,6 +69,12 @@ attacks:
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
     desc: "`pf2:1`  "
  
+```
+
+```encounter-table
+name: Desiccated Giant Crawling Hand
+creatures:
+  - 1: Desiccated Giant Crawling Hand
 ```
 
 

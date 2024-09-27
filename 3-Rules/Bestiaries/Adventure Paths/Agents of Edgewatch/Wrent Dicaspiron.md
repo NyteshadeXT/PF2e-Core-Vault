@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/human
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/10
 statblock: inline
 name: "Wrent Dicaspiron"
@@ -23,13 +24,13 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #158: Sixty Feet Under"
 name: "Wrent Dicaspiron"
 level: "Creature 10"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Medium"
-trait_01: "chaotic"
-trait_02: "evil"
-trait_03: "human"
-trait_04: "humanoid"
+trait_01: [[chaotic]]
+trait_02: [[evil]]
+trait_03: [[human]]
+trait_04: [[humanoid]]
 modifier: 22
 perception:
   - name: "Perception"
@@ -75,17 +76,23 @@ attacks:
     desc: "  The Skinner can effectively wield abnormally long spiked chains and can do so using only one hand."
 
   - name: "Chain Up"
-    desc: "  **Requirements** The Skinner has an adjacent creature grabbed with her spiked chain\n**Effect** The Skinner attempts an Athletics check check against the grabbed creature's Reflex save DC. On a success, the Skinner knots her chain around the grabbed creature, which becomes [[Conditions/Restrained|Restrained]] (Escape DC = 10 + the result of the Skinner's Athletics check); on a critical success, the creature also falls [[Conditions/Prone|Prone]].\nRegardless of whether the Skinner succeeds, she drops the chain."
+    desc: "  **Requirements** The Skinner has an adjacent creature grabbed with her spiked chain\n* * *\n\n**Effect** The Skinner attempts an Athletics check check against the grabbed creature's Reflex save DC. On a success, the Skinner knots her chain around the grabbed creature, which becomes [[Conditions/Restrained|Restrained]] (Escape DC = 10 + the result of the Skinner's Athletics check); on a critical success, the creature also falls [[Conditions/Prone|Prone]].\n\nRegardless of whether the Skinner succeeds, she drops the chain."
 
   - name: "Flay"
     desc: "  Whenever the Skinner makes a successful cleaver Strike against a grabbed creature, she also deals 1d6 bleed (or 2d6 bleed on a critical hit)."
 
   - name: "Hook and Flay"
-    desc: "`pf2:2`  **Requirements** The Skinner has a creature grabbed with her spiked chain\n**Effect** The Skinner pulls the creature into the nearest open adjacent square and makes a cleaver Strike against the creature."
+    desc: "`pf2:2`  **Requirements** The Skinner has a creature grabbed with her spiked chain\n* * *\n\n**Effect** The Skinner pulls the creature into the nearest open adjacent square and makes a cleaver Strike against the creature."
 
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
     desc: "`pf2:1`  "
  
+```
+
+```encounter-table
+name: Wrent Dicaspiron
+creatures:
+  - 1: Wrent Dicaspiron
 ```
 
 

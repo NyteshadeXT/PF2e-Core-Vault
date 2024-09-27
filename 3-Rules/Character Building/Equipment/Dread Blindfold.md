@@ -15,7 +15,7 @@ license: ORC
 ---
 # Dread Blindfold
 ## Item 17
-### [[emotion]][[fear]][[invested]][[magical]][[3-Rules/Rule References/Mental]]
+### [[3-Rules/Rule References/Emotion]][[3-Rules/trait_reference/fear]][[invested]][[3-Rules/Rule References/Magical]][[3-Rules/Rule References/Mental]]
 
 
 **Price** 15000 gp; 
@@ -24,7 +24,7 @@ license: ORC
 
 When tied over your eyes, this ragged strip of black linen gives you a +3 item bonus to Intimidation checks and darkvision. You can see through the blindfold, but only using darkvision.
 
-The first time a particular creature sees you in a day, it must succeed at a DC 37 Will check save or be [[Conditions/Frightened 1|Frightened 1]]. This is an emotion, fear, and mental effect, and your allies become immune to it after about a week.
+The first time a particular creature sees you in a day, it must succeed at a DC 37 Will check save or be [[Conditions/Frightened|Frightened 1]]. This is an emotion, fear, and mental effect, and your allies become immune to it after about a week.
 
 * * *
 

@@ -6,8 +6,9 @@ tags:
   - trait/archetype
   - trait/common
   - category/class
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.BQzExsEZrwGsJD66"
-license: OGL
+license: ORC
 ---
 # Endemic Herbs
 ## Feat 6
@@ -19,9 +20,7 @@ license: OGL
 
 **Prerequisites** Herbalist Dedication; trained in Survival
 * * *
-During your daily preparations, you find medicinal plants endemic to your location. Until your next preparations, you can spend an additional batch of herbs to add a benefit to an item you create with your herbalism.
-
-The benefit of the special herbs affects the creature that the item is applied to; if the benefit is not immediate, it lasts for 1 minute unless otherwise stated. This adjustment counts as an additive, so you can't include another additive without spoiling the item.
+The herbal items you create use medicinal plants endemic to your location. When a creature consumes one of your herbal items, that creature gains the benefit matching the location where you created that item. If the benefit is not immediate, it lasts for 1 minute unless otherwise stated.
 
 *   **Aquatic** Gain a +1 circumstance bonus to Fortitude saves.
 *   **Arctic** For 1 hour, treat environmental cold effects as if they were one step less severe.
@@ -46,5 +45,5 @@ The benefit of the special herbs affects the creature that the item is applied t
 
 [[Feat_Feature Effects/Effect_ Underground Endemic Herbs|Effect: Underground Endemic Herbs]]
 
-*Source: Pathfinder Advanced Player's Guide*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

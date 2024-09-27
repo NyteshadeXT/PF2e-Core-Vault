@@ -13,7 +13,7 @@ license: OGL
 ---
 # Breath Weapon (Cold) (Cone) `pf2:2`
 
-### [[arcane]][[3-Rules/Rule References/Cold]][[eidolon]]
+### [[3-Rules/Rule References/Arcane]][[3-Rules/Rule References/Cold]][[eidolon]]
 
 **Category** offensive; 
 

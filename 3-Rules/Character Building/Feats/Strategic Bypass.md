@@ -6,8 +6,9 @@ tags:
   - trait/investigator
   - trait/common
   - category/class
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.NgUB5toKxBd8RJmm"
-license: OGL
+license: ORC
 ---
 # Strategic Bypass
 ## Feat 14
@@ -20,5 +21,5 @@ license: OGL
 
 Your plans account for your foes' resistances, enabling you to strike a telling blow. When you hit with a Strike on which you substituted your attack roll due to [[Actions/Devise a Stratagem|Devise a Strategem]], you ignore an amount of resistance equal to your Intelligence modifier for each resistance that applies against your attack.
 
-*Source: Pathfinder Advanced Player's Guide*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

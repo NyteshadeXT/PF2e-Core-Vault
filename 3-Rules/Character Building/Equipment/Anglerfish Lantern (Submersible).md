@@ -12,7 +12,7 @@ license: OGL
 ---
 # Anglerfish Lantern (Submersible)
 ## Item 8
-### [uncommon](uncommon "Uncommon Rarity Trait")[[magical]][[3-Rules/Rule References/Water]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[3-Rules/Rule References/Magical]][[3-Rules/Rule References/Water]]
 
 
 **Price** 500 gp; 
@@ -35,7 +35,7 @@ This [[Equipment/Lantern (Bull's Eye)|bull's-eye lantern]] is either stylized af
 
 **Frequency** once per day
 
-**Effect** You lower the _submersible anglerfish lantern_ into water at least 15 feet deep while issuing a command. The lantern transforms into a [[Vehicles/Bathysphere|Bathysphere]] for 1 hour. This vehicle possesses a 60-foot cone light that can be swiveled up to 90 degrees with an Interact action and has the activation listed above. When the effect ends, any occupants are ejected harmlessly. If the bathysphere becomes broken, the effect ends and the _submersible anglerfish lantern_ is broken as well.
+**Effect** You lower the _submersible anglerfish lantern_ into water at least 15 feet deep while issuing a command. The lantern transforms into a [[Vehicles/Bathysphere|Bathysphere]] for 1 hour. This vehicle possesses a @Template\[cone|distance:60\] light that can be swiveled up to 90 degrees with an Interact action and has the activation listed above. When the effect ends, any occupants are ejected harmlessly. If the bathysphere becomes broken, the effect ends and the _submersible anglerfish lantern_ is broken as well.
 
 *Source: Pathfinder Rage of Elements*
 *OGL*

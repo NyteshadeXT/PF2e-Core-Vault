@@ -17,7 +17,7 @@ license: OGL
 ---
 # Vine of Roses
 ## Item 9
-### [uncommon](uncommon "Uncommon Rarity Trait")[[disarm]][[finesse]][[holy]][[3-Rules/Character Building/Spells/Light]][[magical]][[trip]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[disarm]][[finesse]][[holy]][[light]][[magical]][[trip]]
 
 |  |  |
 | -- | -- |

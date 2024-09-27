@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/undead
   - pf2e/creature/type/unholy
   - pf2e/creature/type/wraith
+  - pf2eMonster
   - pf2e/creature/level/6
   - remaster
 statblock: inline
@@ -28,10 +29,10 @@ level: "Creature 6"
 
 alignment: ""
 size: "Medium"
-trait_01: "incorporeal"
-trait_02: "undead"
-trait_03: "unholy"
-trait_04: "wraith"
+trait_01: [[incorporeal]]
+trait_02: [[undead]]
+trait_03: [[unholy]]
+trait_04: [[wraith]]
 modifier: 14
 perception:
   - name: "Perception"
@@ -58,7 +59,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Sunlight Powerlessness"
-    desc: "  While in sunlight, a wraith is [[Conditions/Blinded|Blinded]] and [[Conditions/Slowed 1|Slowed 2]]."
+    desc: "  While in sunlight, a wraith is [[Conditions/Blinded|Blinded]] and [[Conditions/Slowed|Slowed 2]]."
 
 attacks:
   - name: ""
@@ -75,6 +76,12 @@ attacks:
   - name: "Void's Embrace"
     desc: " (curse,death,divine,void) If the victim succeeds at a saving throw against this curse while in sunlight, the curse ends. While you have this curse, you bypass the resistance of the wraith that cursed you;\n\n**Saving Throw** DC 24 Will check\n* * *\n\n**Stage 1** the victim is [[Conditions/Dazzled|Dazzled]] in any light (1 hour)\n\n**Stage 2** the victim gains lifesense 30 feet but is [[Conditions/Blinded|Blinded]] in any light (1 hour)\n\n**Stage 3** as stage 2, but the creature also has [[Bestiary Ability Glossary/Void Healing|Void Healing]] (1 hour)\n\n**Stage 4** the victim becomes [[Conditions/Unconscious|Unconscious]] and can't awaken (1 day)\n\n**Stage 5** the creature dies and becomes a wraith, its body crumbling to ash"
  
+```
+
+```encounter-table
+name: Wraith
+creatures:
+  - 1: Wraith
 ```
 
 

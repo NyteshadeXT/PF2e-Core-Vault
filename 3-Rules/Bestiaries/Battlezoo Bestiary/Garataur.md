@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/beast
   - pf2e/creature/type/evil
   - pf2e/creature/type/gnoll
+  - pf2eMonster
   - pf2e/creature/level/5
 statblock: inline
 name: "Garataur"
@@ -23,12 +24,12 @@ token: [[modules/battlezoo-bestiary-pf2e/art/garataur.webp| ]]
 source: "Battlezoo Bestiary"
 name: "Garataur"
 level: "Creature 5"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Large"
-trait_01: "beast"
-trait_02: "evil"
-trait_03: "gnoll"
+trait_01: [[beast]]
+trait_02: [[evil]]
+trait_03: [[gnoll]]
 modifier: 13
 perception:
   - name: "Perception"
@@ -36,7 +37,7 @@ perception:
 languages: "Chthonian, Common, Kholo"
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +11, Athletics: +14, Intimidation: +13, Religion: +11, Stealth: +9, Survival: +11, "
+    desc: "Acrobatics: +11, Athletics: +14, Intimidation: +13, Religion: +11, Stealth: +9, Survival: +11"
 abilityMods: [5, 4, 3, 1, 2, 4]
 speed: 40 feet
 sourcebook: "_Battlezoo Bestiary_"
@@ -74,11 +75,17 @@ attacks:
     desc: "  A garataur ignores the first square of difficult terrain it moves into each time it Steps or Strides."
 
   - name: "Slashing Sprint"
-    desc: "`pf2:2`  The garataur scrambles around the field, hacking at enemies in its way. The garataur Strides up to its Speed and can make up to two falchion Strikes at any points during that movement. It must make each attack against a different creature, but it doesn't apply its multiple attack penalty until after making both Strikes.\nIf either Strike is a critical miss, Slashing Sprint ends."
+    desc: "`pf2:2`  The garataur scrambles around the field, hacking at enemies in its way. The garataur Strides up to its Speed and can make up to two falchion Strikes at any points during that movement. It must make each attack against a different creature, but it doesn't apply its multiple attack penalty until after making both Strikes.\n\nIf either Strike is a critical miss, Slashing Sprint ends."
 
   - name: "Terrible Cackle"
-    desc: "`pf2:2` (auditory,emotion,fear,mental) The garataur unleashes a horrifying cackle. Each creature within 30 feet must attempt a Will save. While a creature is frightened by this ability, it is Off-Guard to the garataur and its allies. Gnolls and hyenas are unaffected by this ability.\nThe garataur can't use Terrible Cackle again for 1d4 rounds.\n**Critical Success** The creature is unaffected and immune to this garataur's Terrible Cackle for 1 minute.\n**Success** The creature is unaffected.\n**Failure** The creature is Frightened 1.\n**Critical Failure** The creature is Frightened 2."
+    desc: "`pf2:2` (auditory,emotion,fear,mental) The garataur unleashes a horrifying cackle. Each creature within 30 feet must attempt a DC 21 Will save. While a creature is frightened by this ability, it is [[Conditions/Off-Guard|Off-Guard]] to the garataur and its allies. Gnolls and hyenas are unaffected by this ability.\n\nThe garataur can't use Terrible Cackle again for 1d4 rounds.\n* * *\n\n**Critical Success** The creature is unaffected and immune to this garataur's Terrible Cackle for 1 minute.\n\n**Success** The creature is unaffected.\n\n**Failure** The creature is [[Conditions/Frightened|Frightened 1]].\n\n**Critical Failure** The creature is [[Conditions/Frightened|Frightened 2]]."
  
+```
+
+```encounter-table
+name: Garataur
+creatures:
+  - 1: Garataur
 ```
 
 

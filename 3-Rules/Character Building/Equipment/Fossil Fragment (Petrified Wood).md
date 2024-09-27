@@ -12,7 +12,7 @@ license: OGL
 ---
 # Fossil Fragment (Petrified Wood)
 ## Item 14
-### [uncommon](uncommon "Uncommon Rarity Trait")[[Earth]][[magical]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[3-Rules/trait_reference/earth]][[3-Rules/Rule References/Magical]]
 
 
 **Price** 4200 gp; 

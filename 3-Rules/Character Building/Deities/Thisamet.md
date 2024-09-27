@@ -41,9 +41,9 @@ When casting the avatar spell, a worshipper of Thisamet becomes middle-aged and 
 
 serving platter shield (15 Hardness, can't be damaged)
 
-Melee `pf2:1` serving platter (nonlethal, reach 15 feet, shove, two-hand d6), Damage 6d4 + 6 bludgeoning
+Melee `pf2:1` serving platter (nonlethal, reach 15 feet, shove, two-hand d6), Damage 6d4+6 bludgeoning
 
-Ranged `pf2:1` fresh-baked pie (range 60 feet), Damage 4d4 + 3 bludgeoning plus 2d4 fire
+Ranged `pf2:1` fresh-baked pie (range 60 feet), Damage 4d4+3 bludgeoning plus 2d4 fire
 
 *Source: Pathfinder Lost Omens: Firebrands*
 *OGL*

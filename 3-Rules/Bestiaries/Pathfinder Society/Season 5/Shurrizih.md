@@ -14,6 +14,7 @@ tags:
   - pf2e/creature/type/metal
   - pf2e/creature/type/water
   - pf2e/creature/type/wood
+  - pf2eMonster
   - pf2e/creature/level/7
   - remaster
 statblock: inline
@@ -29,23 +30,23 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Society Scenario #5-13: Thick as Thieves"
 name: "Shurrizih"
 level: "Creature 7"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Medium"
-trait_01: "air"
-trait_02: "chaotic"
-trait_03: "earth"
-trait_04: "elemental"
-trait_05: "fire"
-trait_06: "genie"
-trait_07: "metal"
-trait_08: "water"
-trait_09: "wood"
+trait_01: [[air]]
+trait_02: [[chaotic]]
+trait_03: [[earth]]
+trait_04: [[elemental]]
+trait_05: [[fire]]
+trait_06: [[genie]]
+trait_07: [[metal]]
+trait_08: [[water]]
+trait_09: [[wood]]
 modifier: 15
 perception:
   - name: "Perception"
     desc: "+15; Darkvision"
-languages: "Common, Muan, Petran, Pyric, Sussuran, Talican, Thalassic"
+languages: "Common, Muan, Petran, Pyric, Sussuran, Talican, Thalassic; truespeech"
 skills:
   - name: "Skills"
     desc: "Arcana: +15, Athletics: +16, Deception: +14, Diplomacy: +16"
@@ -68,7 +69,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Commanding Presence"
-    desc: " (aura,emotion,fear,mental) 20 feet. A creature that enters the aura must succeed at a DC 17 Will check save or be [[Conditions/Frightened 1|Frightened 2]] ([[Conditions/Frightened 1|Frightened 3]] on a critical failure), and is then temporarily immune for 1 minute. A genie (with the exception of another jann) takes a –4 circumstance penalty to their save."
+    desc: " (aura,emotion,fear,mental) 20 feet. A creature that enters the aura must succeed at a DC 17 Will check save or be [[Conditions/Frightened|Frightened 2]] ([[Conditions/Frightened|Frightened 3]] on a critical failure), and is then temporarily immune for 1 minute. A genie (with the exception of another jann) takes a –4 circumstance penalty to their save."
 
   - name: "Elemental Resistance"
     desc: "  The jann shuyookh's elemental resistance applies to cold, electricity, and fire damage, as well as all damage from elemental sources (including environmental damage from the elemental planes and damage from anything with the air, earth, fire, metal, water, or wood trait)."
@@ -92,11 +93,17 @@ attacks:
     desc: "DC 25, attack +17; __3rd __  _[[Spells/Fireball|Fireball]]_, _[[Spells/Lightning Bolt|Lightning Bolt]]_, _[[Spells/Noxious Metals|Noxious Metals]]_, _[[Spells/One with Stone|One with Stone]]_, _[[Spells/Wall of Thorns|Wall of Thorns]]_, _[[Spells/Wall of Water|Wall of Water]]_"
 
   - name: "[[Rage of Elements/Jann Shuyookh/All Made One|All Made One]]"
-    desc: "`pf2:1`  The jann shuyookh calls upon all the elements that make up their being and chooses one. They gain an additional arcane spell they can cast at will and empower their Strikes with the element, dealing an extra 1d6 damage of the listed type. These benefits last until the shuyookh uses this ability again.\n*   Air: [[Spells/Lightning Bolt|Lightning Bolt]], 1d6 electricity;\n*   Earth: [[Spells/One with Stone|One with Stone]], 1d6 bludgeoning;\n*   Fire: [[Spells/Fireball|Fireball]], 1d6 fire;\n*   Metal: [[Spells/Noxious Metals|Noxious Metals]], 1d6 electricity;\n*   Water: [[Spells/Wall of Water|Wall of Water]], 1d6 bludgeoning;\n*   Wood: [[Spells/Wall of Thorns|Wall of Thorns]], 1d6 piercing."
+    desc: "`pf2:1`  The jann shuyookh calls upon all the elements that make up their being and chooses one. They gain an additional arcane spell they can cast at will and empower their Strikes with the element, dealing an extra 1d6 damage of the listed type. These benefits last until the shuyookh uses this ability again.\n\n*   Air: [[Spells/Lightning Bolt|Lightning Bolt]], 1d6 electricity;\n*   Earth: [[Spells/One with Stone|One with Stone]], 1d6 bludgeoning;\n*   Fire: [[Spells/Fireball|Fireball]], 1d6 fire;\n*   Metal: [[Spells/Noxious Metals|Noxious Metals]], 1d6 electricity;\n*   Water: [[Spells/Wall of Water|Wall of Water]], 1d6 bludgeoning;\n*   Wood: [[Spells/Wall of Thorns|Wall of Thorns]], 1d6 piercing."
 
   - name: "[[Bestiary Ability Glossary/Change Shape|Change Shape]]"
-    desc: "`pf2:1` (arcane,concentrate,polymorph) The jann transforms into a Small or Medium elemental or animal. This doesn't affect the gennayn's statistics, but it could change the damage type of their Strikes.\n"
+    desc: "`pf2:1` (arcane,concentrate,polymorph) The jann transforms into a Small or Medium elemental or animal. This doesn't affect the gennayn's statistics, but it could change the damage type of their Strikes.\n\n* * *\n"
  
+```
+
+```encounter-table
+name: Shurrizih
+creatures:
+  - 1: Shurrizih
 ```
 
 

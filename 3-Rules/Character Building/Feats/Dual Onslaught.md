@@ -6,8 +6,9 @@ tags:
   - trait/archetype
   - trait/common
   - category/class
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.EVNd9hZs49b1pScR"
-license: OGL
+license: ORC
 ---
 # Dual Onslaught
 ## Feat 14
@@ -17,7 +18,7 @@ license: OGL
 
 
 
-**Prerequisites** Dual-Weapon Dedication
+**Prerequisites** Dual-Weapon Warrior Dedication
 * * *
 When you lash out with both weapons, you leave no room for the target to escape your attack.
 
@@ -25,5 +26,5 @@ When you use [[Feats/Double Slice|Double Slice]], if you miss with both [[Action
 
 You can't choose a weapon if your attack roll with that weapon was a critical failure, meaning you still miss entirely if both attack rolls were critical failures.
 
-*Source: Pathfinder Advanced Player's Guide*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

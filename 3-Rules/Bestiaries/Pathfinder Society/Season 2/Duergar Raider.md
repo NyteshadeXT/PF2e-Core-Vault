@@ -10,6 +10,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/humanoid
   - pf2e/creature/type/lawful
+  - pf2eMonster
   - pf2e/creature/level/2
 statblock: inline
 name: "Duergar Raider"
@@ -24,14 +25,14 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Society Scenario #2-19: Enter the Pallid Peak"
 name: "Duergar Raider"
 level: "Creature 2"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Medium"
-trait_01: "duergar"
-trait_02: "dwarf"
-trait_03: "evil"
-trait_04: "humanoid"
-trait_05: "lawful"
+trait_01: [[duergar]]
+trait_02: [[dwarf]]
+trait_03: [[evil]]
+trait_04: [[humanoid]]
+trait_05: [[lawful]]
 modifier: 8
 perception:
   - name: "Perception"
@@ -74,8 +75,14 @@ attacks:
     desc: "DC 18, attack +10; __2nd __ (2 slots) _[[Spells/Enlarge|Enlarge (Self Only)]]_, _[[Spells/Invisibility|Invisibility (Self Only)]]_"
 
   - name: "Shackle"
-    desc: "`pf2:3` (attack,manipulate) **Requirements** The duergar raider has manacles in hand and is adjacent to a creature\n**Effect** The duergar raider makes an attack roll with a +8 modifier against the target's AC to bind the creature's wrists or ankles with the manacles. On a success, they apply the manacles."
+    desc: "`pf2:3` (attack,manipulate) **Requirements** The duergar raider has manacles in hand and is adjacent to a creature\n* * *\n\n**Effect** The duergar raider makes an attack roll with a +8 modifier against the target's AC to bind the creature's wrists or ankles with the manacles. On a success, they apply the manacles."
  
+```
+
+```encounter-table
+name: Duergar Raider
+creatures:
+  - 1: Duergar Raider
 ```
 
 

@@ -4,6 +4,7 @@ obsidianUIMode: preview
 noteType: pf2eHazard
 tags:
   - haunt
+  - pf2eHazard
 
 source: Pathfinder Book of the Dead
 aliases: "Compendium.pf2e.book-of-the-dead-bestiary.Actor.8tX1seLMsXto5Kni" 
@@ -21,13 +22,13 @@ name: "Ectoplasmic Grasp"
 level: "Hazard 5"
 
 
-trait_01: "haunt"
+trait_01: [[haunt]]
 modifier: 13
 sourcebook: "_Pathfinder Book of the Dead_"
 ac: 10
 armorclass:
   - name: AC
-    desc: "10; __Fort__ +0, __Ref__ +0, __Will__ +0"
+    desc: "10; "
 hp: 10
 health:
   - name: ""
@@ -49,10 +50,16 @@ attacks:
   - name: ""
 
   - name: "Squeeze"
-    desc: "`pf2:r` **Trigger** A creature moves over the haunt's area\n**Effect** The hand forms out of ectoplasm and squeezes the triggering creature, dealing 3d8 + 14 bludgeoning damage (DC 22 Fortitude check). On a failure, the creature is [[Conditions/Immobilized|Immobilized]] ([[Actions/Escape|Escape]] DC 22)."
+    desc: "`pf2:r` **Trigger** A creature moves over the haunt's area\n* * *\n\n**Effect** The hand forms out of ectoplasm and squeezes the triggering creature, dealing 3d8+14 bludgeoning damage (DC 22 Fortitude check). On a failure, the creature is [[Conditions/Immobilized|Immobilized]] ([[Actions/Escape|Escape]] DC 22)."
 
 
   - name: "Reset"
     desc: "1 day"
+```
+
+```encounter-table
+name: Ectoplasmic Grasp
+creatures:
+  - 1: Ectoplasmic Grasp
 ```
 

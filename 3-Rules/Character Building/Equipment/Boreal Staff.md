@@ -15,7 +15,7 @@ license: OGL
 ---
 # Boreal Staff
 ## Item 8
-### [[magical]][[monk]][[staff]][[two-hand-d8]]
+### [[3-Rules/Rule References/Magical]][[3-Rules/trait_reference/monk]][[3-Rules/Character Building/Equipment/Staff]][[two-hand-d8]]
 
 |  |  |
 | -- | -- |

@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/amphibious
   - pf2e/creature/type/dragon
   - pf2e/creature/type/primal
+  - pf2eMonster
   - pf2e/creature/level/12
   - remaster
 statblock: inline
@@ -20,15 +21,16 @@ license: ORC
 columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
+token: [[modules/pf2e-tokens-monster-core/assets/portraits/dragon-horned-adult.webp| ]]
 source: "Pathfinder Monster Core"
 name: "Horned Dragon (Adult)"
 level: "Creature 12"
 
 alignment: ""
 size: "huge"
-trait_01: "amphibious"
-trait_02: "dragon"
-trait_03: "primal"
+trait_01: [[amphibious]]
+trait_02: [[dragon]]
+trait_03: [[primal]]
 modifier: 22
 perception:
   - name: "Perception"
@@ -36,7 +38,7 @@ perception:
 languages: "Common, Draconic, Elven, Fey"
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +19, Arcana: +22, Athletics: +24, Deception: +19, Diplomacy: +23, Forest Lore: +22, Intimidation: +23, Nature: +20, Occultism: +24, Society: +22, Stealth: +21"
+    desc: "Acrobatics: +19, Arcana: +22, Athletics: +24, Deception: +19, Diplomacy: +23, Intimidation: +23, Nature: +20, Occultism: +24, Society: +22, Stealth: +21, Forest Lore: +22"
 abilityMods: [6, 3, 3, 4, 4, 5]
 speed: 40 feet,  fly 160 feet,  swim 40 feet
 sourcebook: "_Pathfinder Monster Core_"
@@ -85,17 +87,23 @@ attacks:
     desc: "  The dragon recharges their Poison Breath whenever they score a critical hit with a Strike."
 
   - name: "Forest Passage"
-    desc: "  The horned dragon ignores any difficult terrain caused by plants, such as bushes, vines, and undergrowth. Even plants manipulated by magic don’t impede their progress."
+    desc: "  The horned dragon ignores any difficult terrain caused by plants, such as bushes, vines, and undergrowth. Even plants manipulated by magic don't impede their progress."
 
   - name: "Impaling Charge"
     desc: "`pf2:2`  **Requirements** The dragon doesn't have a creature impaled on their horn\n* * *\n\n**Effect** The dragon attempts to gore a foe. They Stride, then attempt a horn Strike. On a hit, the target becomes impaled on the dragon's horn. The creature is [[Conditions/Grabbed|Grabbed]] while on the horn (and can attempt to [[Actions/Escape|Escape]] as normal). The dragon doesn't need to use additional actions to keep the impaled creature grabbed. If the dragon moves, they bring the grabbed creature along with them."
 
   - name: "Poison Breath"
-    desc: "`pf2:2` (poison,primal) The dragon breathes a toxic cloud that deals 13d6 poison damage in a 50-foot cone (DC 31 Fortitude check save).\n\nThey can't use Poison Breath again for 1d4 rounds."
+    desc: "`pf2:2` (poison,primal) The dragon breathes a toxic cloud that deals 13d6 poison damage in a @Template[cone|distance:50] (DC 31 Fortitude check save).\n\nThey can't use Poison Breath again for 1d4 rounds."
 
   - name: "Trackless Journey"
     desc: "  The horned dragon always gains the benefits of Cover Tracks in natural surroundings, even while moving at full speed."
  
+```
+
+```encounter-table
+name: Horned Dragon (Adult)
+creatures:
+  - 1: Horned Dragon (Adult)
 ```
 
 

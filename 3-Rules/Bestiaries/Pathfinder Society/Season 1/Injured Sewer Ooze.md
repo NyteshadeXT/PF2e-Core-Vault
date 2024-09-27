@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.pfs-season-1-bestiary.Actor.cG7wNXEp67uWgwfB"
 tags:
   - pf2e/creature/type/mindless
   - pf2e/creature/type/ooze
+  - pf2eMonster
   - pf2e/creature/level/0
 statblock: inline
 name: "Injured Sewer Ooze"
@@ -24,15 +25,16 @@ level: "Creature 0"
 
 alignment: ""
 size: "Medium"
-trait_01: "mindless"
-trait_02: "ooze"
+trait_01: [[mindless]]
+trait_02: [[ooze]]
 modifier: 1
 perception:
   - name: "Perception"
     desc: "+1; Motion Sense (Precise) 60 Feet"
+languages: ""
 skills:
   - name: "Skills"
-    desc: "Stealth: -1 (+2 in sewers)"
+    desc: "Stealth: -1"
 abilityMods: [2, -5, 4, -5, 0, -5]
 speed: 10 feet
 sourcebook: "_Pathfinder Society Quest #10: The Broken Scales_"
@@ -60,8 +62,14 @@ attacks:
     desc: "`pf2:1` Pseudopod +8 ()\n__Damage__  1d4 + 2 bludgeoning 1d4 acid"
 
   - name: "Filth Wave"
-    desc: "`pf2:1`  **Frequency** once per minute\n**Effect** The sewer ooze unleashes a wave of filth, covering all creatures within a 20-foot emanation. Each creature in the area must succeed at a DC 15 Reflex check save or take 1d4 acid damage and take a -10-foot penalty to its Speeds for 1 minute (on a critical failure, the creature also falls [[Conditions/Prone|Prone]]). A creature can spend and Interact action to clean someone off, decreasing the Speed penalty by 5 feet with each action."
+    desc: "`pf2:1`  **Frequency** once per minute\n* * *\n\n**Effect** The sewer ooze unleashes a wave of filth, covering all creatures within a @Template[emanation|distance:20]. Each creature in the area must succeed at a DC 15 Reflex check save or take 1d4 acid damage and take a -10-foot penalty to its Speeds for 1 minute (on a critical failure, the creature also falls [[Conditions/Prone|Prone]]). A creature can spend and Interact action to clean someone off, decreasing the Speed penalty by 5 feet with each action."
  
+```
+
+```encounter-table
+name: Injured Sewer Ooze
+creatures:
+  - 1: Injured Sewer Ooze
 ```
 
 

@@ -10,6 +10,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/fiend
   - pf2e/creature/type/unholy
+  - pf2eMonster
   - pf2e/creature/level/9
 statblock: inline
 name: "Vrock"
@@ -28,16 +29,16 @@ level: "Creature 9"
 
 alignment: ""
 size: "Large"
-trait_01: "chaotic"
-trait_02: "demon"
-trait_03: "evil"
-trait_04: "fiend"
-trait_05: "unholy"
+trait_01: [[chaotic]]
+trait_02: [[demon]]
+trait_03: [[evil]]
+trait_04: [[fiend]]
+trait_05: [[unholy]]
 modifier: 18
 perception:
   - name: "Perception"
     desc: "+18; Darkvision"
-languages: "Chthonian, Draconic, Empyrean"
+languages: "Chthonian, Draconic, Empyrean; telepathy 100 feet"
 skills:
   - name: "Skills"
     desc: "Acrobatics: +18, Intimidation: +18, Performance: +18, Religion: +18, Stealth: +18, Survival: +16"
@@ -59,7 +60,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "[[Bestiary Ability Glossary/Attack of Opportunity|Attack of Opportunity (Special)]]"
-    desc: "`pf2:r`  If the vrock is flying and a creature triggers an attack of opportunity, the vrock can make 2 Strikes with its talons against that creature instead of 1 Strike.\n"
+    desc: "`pf2:r`  If the vrock is flying and a creature triggers an attack of opportunity, the vrock can make 2 Strikes with its talons against that creature instead of 1 Strike.\n\n* * *\n"
 
   - name: "Peace Vulnerability"
     desc: "  A vrock's wrath is the heart of their essence, and forcing peace upon them wrenches at their soul. If they fail a save against [[Spells/Calm|Calm]] or a similar effect forcing them to be peaceful, a vrock takes 4d6 mental damage."
@@ -83,14 +84,20 @@ attacks:
     desc: "_[[Spells/Demonic Pact|Abyssal Pact]]_"
 
   - name: "Dance of Ruin"
-    desc: "`pf2:3` (divine,electricity,manipulate,move) The vrock dances in flight and chants to create a ruinous explosion of electricity. If more vrocks within 30 feet want to join the dance, the vrock can delay the dance to wait for more vrocks; in that case, the effect occurs after the last vrock uses Dance of Ruin or one of the vrocks chooses to complete that round of the dance. Each non-demon creature in a 20-foot emanation from any of the dancing vrocks takes 2d12 electricity damage (DC 28 Reflex check save). For each additional vrock that joins the dance, the damage increases by 1d12 and the save DC increases by 1 (to a maximum of four vrocks dealing 5d12 electricity damage with a DC 31 save). The vrocks can continue dancing by using Dance of Ruin each round, for up to 3 rounds in total. The emanation's size increases by 20 feet each round, and the damage increases by 1d12 per vrock each round.\n*   **1 Vrock Dancing**  \n    \n    | Round | Effect |\n    | --- | --- |\n    | 1 | 20-foot emanation 2d12 electricity damage DC 28 Reflex check |\n    | 2 | 40-foot emanation 3d12 electricity damage DC 28 Reflex check |\n    | 3 | 60-foot emanation 4d12 electricity damage DC 28 Reflex check |\n    \n*   **2 Vrocks Dancing**  \n    \n    | Round | Effect |\n    | --- | --- |\n    | 1 | 20-foot emanation 3d12 electricity damage DC 29 Reflex check |\n    | 2 | 40-foot emanation 5d12 electricity damage DC 29 Reflex check |\n    | 3 | 60-foot emanation 7d12 electricity damage DC 29 Reflex check |\n    \n*   **3 Vrocks Dancing**  \n    \n    | Round | Effect |\n    | --- | --- |\n    | 1 | 20-foot emanation 4d12 electricity damage DC 30 Reflex check |\n    | 2 | 40-foot emanation 7d12 electricity damage DC 30 Reflex check |\n    | 3 | 60-foot emanation 10d12 electricity damage DC 30 Reflex check |\n    \n*   **4 Vrocks Dancing**  \n    \n    | Round | Effect |\n    | --- | --- |\n    | 1 | 20-foot emanation 5d12 electricity damage DC 31 Reflex check |\n    | 2 | 40-foot emanation 9d12 electricity damage DC 31 Reflex check |\n    | 3 | 60-foot emanation 13d12 electricity damage DC 31 Reflex check |"
+    desc: "`pf2:3` (divine,electricity,manipulate,move) The vrock dances in flight and chants to create a ruinous explosion of electricity. If more vrocks within 30 feet want to join the dance, the vrock can delay the dance to wait for more vrocks; in that case, the effect occurs after the last vrock uses Dance of Ruin or one of the vrocks chooses to complete that round of the dance. Each non-demon creature in a @Template[emanation|distance:20] from any of the dancing vrocks takes 2d12 electricity damage (DC 28 Reflex check save). For each additional vrock that joins the dance, the damage increases by 1d12 and the save DC increases by 1 (to a maximum of four vrocks dealing 5d12 electricity damage with a DC 31 save). The vrocks can continue dancing by using Dance of Ruin each round, for up to 3 rounds in total. The emanation's size increases by 20 feet each round, and the damage increases by 1d12 per vrock each round.\n* * *\n\n*   **1 Vrock Dancing**  \n    \n    | Round | Effect |\n    | --- | --- |\n    | 1 | @Template[emanation\\|distance:20] 2d12 electricity damage DC 28 Reflex check |\n    | 2 | @Template[emanation\\|distance:40] 3d12 electricity damage DC 28 Reflex check |\n    | 3 | @Template[emanation\\|distance:60] 4d12 electricity damage DC 28 Reflex check |\n    \n*   **2 Vrocks Dancing**  \n    \n    | Round | Effect |\n    | --- | --- |\n    | 1 | @Template[emanation\\|distance:20] 3d12 electricity damage DC 29 Reflex check |\n    | 2 | @Template[emanation\\|distance:40] 5d12 electricity damage DC 29 Reflex check |\n    | 3 | @Template[emanation\\|distance:60] 7d12 electricity damage DC 29 Reflex check |\n    \n*   **3 Vrocks Dancing**  \n    \n    | Round | Effect |\n    | --- | --- |\n    | 1 | @Template[emanation\\|distance:20] 4d12 electricity damage DC 30 Reflex check |\n    | 2 | @Template[emanation\\|distance:40] 7d12 electricity damage DC 30 Reflex check |\n    | 3 | @Template[emanation\\|distance:60] 10d12 electricity damage DC 30 Reflex check |\n    \n*   **4 Vrocks Dancing**  \n    \n    | Round | Effect |\n    | --- | --- |\n    | 1 | @Template[emanation\\|distance:20] 5d12 electricity damage DC 31 Reflex check |\n    | 2 | @Template[emanation\\|distance:40] 9d12 electricity damage DC 31 Reflex check |\n    | 3 | @Template[emanation\\|distance:60] 13d12 electricity damage DC 31 Reflex check |"
 
   - name: "Spore Cloud"
-    desc: "`pf2:1` (disease,poison) The vrock emits a cloud of spores from their body, dealing 2d8 poison damage to all adjacent creatures. Each creature damaged this way must succeed at a DC 28 Fortitude check save or take 2d8 persistent piercing damage as the spores penetrate its skin and grow into thick, green vines. The vines cease growing after 10 rounds, and they wither away in 1d4 days if not shaved off before then. The vines can be destroyed if the creature is affected by a good spell or if _[[Equipment/Holy Water|Holy Water]]_ is applied to the vines (with an Interact action).\nOnce the vrock uses Spore Cloud, the ability can't be used for 1d6 rounds."
+    desc: "`pf2:1` (disease,poison) The vrock emits a cloud of spores from their body, dealing 2d8 poison damage to all adjacent creatures. Each creature damaged this way must succeed at a DC 28 Fortitude check save or take 2d8 persistent piercing damage as the spores penetrate its skin and grow into thick, green vines. The vines cease growing after 10 rounds, and they wither away in 1d4 days if not shaved off before then. The vines can be destroyed if the creature is affected by a good spell or if _[[Equipment/Holy Water|Holy Water]]_ is applied to the vines (with an Interact action).\n\nOnce the vrock uses Spore Cloud, the ability can't be used for 1d6 rounds."
 
   - name: "Stunning Screech"
-    desc: "`pf2:1` (auditory,divine,incapacitation,sonic) **Frequency** once per minute.\n**Effect** The vrock emits a shrill screech. Each non-demon creature within a 30-foot burst must attempt a DC 28 Fortitude check save. On a failure, the creature is [[Conditions/Stunned 1|Stunned 2]], and on a critical failure, it's [[Conditions/Stunned 1|Stunned 3]]."
+    desc: "`pf2:1` (auditory,divine,incapacitation,sonic) **Frequency** once per minute.\n* * *\n\n**Effect** The vrock emits a shrill screech. Each non-demon creature within a @Template[burst|distance:30] must attempt a DC 28 Fortitude check save. On a failure, the creature is [[Conditions/Stunned|Stunned 2]], and on a critical failure, it's [[Conditions/Stunned|Stunned 3]]."
  
+```
+
+```encounter-table
+name: Vrock
+creatures:
+  - 1: Vrock
 ```
 
 

@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.pfs-introductions-bestiary.Actor.j7hidXUeUNJtQEW4"
 tags:
   - pf2e/creature/type/mindless
   - pf2e/creature/type/ooze
+  - pf2eMonster
   - pf2e/creature/level/1
 statblock: inline
 name: "Swamp Ooze"
@@ -21,18 +22,19 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Society Intro #1: The Second Confirmation"
 name: "Swamp Ooze"
 level: "Creature 1"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Medium"
-trait_01: "mindless"
-trait_02: "ooze"
+trait_01: [[mindless]]
+trait_02: [[ooze]]
 modifier: 3
 perception:
   - name: "Perception"
     desc: "+3; Motion Sense (Precise) 60 Feet"
+languages: ""
 skills:
   - name: "Skills"
-    desc: "Stealth: +1 (+4 in swamps)"
+    desc: "Stealth: +1"
 abilityMods: [2, -5, 4, -5, 0, -5]
 speed: 10 feet
 sourcebook: "_Pathfinder Society Intro #1: The Second Confirmation_"
@@ -60,8 +62,14 @@ attacks:
     desc: "`pf2:1` Pseudopod +9 ()\n__Damage__  1d6 + 1 bludgeoning 1d4 piercing"
 
   - name: "Swamp Wave"
-    desc: "`pf2:1`  **Frequency** once per minute\n**Effect** The swamp ooze unleashes a wave of swamp muck filled with sharp debris, covering all creatures within a 20-foot emanation. Each creature in the area must succeed at a DC 17 Reflex check save or take 1d4 piercing damage and take a -10-foot penalty to its Speeds for 1 minute (on a critical failure, the creature also falls [[Conditions/Prone|Prone]]).\nA creature can spend an Interact action to clean someone off, decreasing the Speed penalty by 5 feet with each action."
+    desc: "`pf2:1`  **Frequency** once per minute\n* * *\n\n**Effect** The swamp ooze unleashes a wave of swamp muck filled with sharp debris, covering all creatures within a @Template[emanation|distance:20]. Each creature in the area must succeed at a DC 17 Reflex check save or take 1d4 piercing damage and take a -10-foot penalty to its Speeds for 1 minute (on a critical failure, the creature also falls [[Conditions/Prone|Prone]]).\n\nA creature can spend an Interact action to clean someone off, decreasing the Speed penalty by 5 feet with each action."
  
+```
+
+```encounter-table
+name: Swamp Ooze
+creatures:
+  - 1: Swamp Ooze
 ```
 
 

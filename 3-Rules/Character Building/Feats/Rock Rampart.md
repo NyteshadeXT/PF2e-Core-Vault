@@ -17,7 +17,7 @@ license: OGL
 ---
 # Rock Rampart `pf2:3`
 ## Feat 12
-### [[Earth]][[impulse]][[kineticist]][[manipulate]][[overflow]][[primal]]
+### [[earth]][[impulse]][[kineticist]][[manipulate]][[overflow]][[primal]]
 
 **Category** class; 
 

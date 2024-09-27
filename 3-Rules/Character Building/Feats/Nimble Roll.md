@@ -4,7 +4,6 @@ title: "Nimble Roll"
 cssclasses: pf2e,pf2e-spell
 tags:
   - trait/rogue
-  - trait/swashbuckler
   - trait/common
   - category/class
   - remaster
@@ -13,7 +12,7 @@ license: ORC
 ---
 # Nimble Roll
 ## Feat 8
-### [[rogue]][[swashbuckler]]
+### [[rogue]]
 
 **Category** class; 
 

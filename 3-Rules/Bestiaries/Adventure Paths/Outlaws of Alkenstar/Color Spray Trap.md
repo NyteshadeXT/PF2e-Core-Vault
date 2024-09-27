@@ -7,6 +7,7 @@ tags:
   - illusion
   - magical
   - trap
+  - pf2eHazard
 
 source: Pathfinder #179: Cradle of Quartz
 aliases: "Compendium.pf2e.outlaws-of-alkenstar-bestiary.Actor.e9pKPMzzgT2qINEq" 
@@ -24,16 +25,16 @@ name: "Color Spray Trap"
 level: "Hazard 4"
 
 
-trait_01: "auditory"
-trait_02: "illusion"
-trait_03: "magical"
-trait_04: "trap"
+trait_01: [[auditory]]
+trait_02: [[illusion]]
+trait_03: [[magical]]
+trait_04: [[trap]]
 modifier: 12
 sourcebook: "_Pathfinder #179: Cradle of Quartz_"
 ac: 22
 armorclass:
   - name: AC
-    desc: "22; __Fort__ +12, __Ref__ +10, __Will__ +0"
+    desc: "22; __Fort__ +12, __Ref__ +10, "
 hp: 50
 health:
   - name: ""
@@ -55,9 +56,15 @@ attacks:
   - name: ""
 
   - name: "Color Spray"
-    desc: "`pf2:r` **Trigger** The door is opened\n**Effect** The trap casts [[Spells/Dizzying Colors|Dizzying Colors]] on the triggering creature (DC 21 Will check)."
+    desc: "`pf2:r` **Trigger** The door is opened\n* * *\n\n**Effect** The trap casts [[Spells/Dizzying Colors|Dizzying Colors]] on the triggering creature (DC 21 Will check)."
 
 
 
+```
+
+```encounter-table
+name: Color Spray Trap
+creatures:
+  - 1: Color Spray Trap
 ```
 

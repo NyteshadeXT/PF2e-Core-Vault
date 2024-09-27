@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.kingmaker-bestiary.Actor.ZbgFOoDCOXqhJWhz"
 tags:
   - pf2e/creature/type/aberration
   - pf2e/creature/type/evil
+  - pf2eMonster
   - pf2e/creature/level/12
 statblock: inline
 name: "Ngara"
@@ -21,11 +22,11 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Kingmaker"
 name: "Ngara"
 level: "Creature 12"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Large"
-trait_01: "aberration"
-trait_02: "evil"
+trait_01: [[aberration]]
+trait_02: [[evil]]
 modifier: 22
 perception:
   - name: "Perception"
@@ -64,8 +65,14 @@ attacks:
     desc: "_[[Spells/Inveigle|Inveigle]]_"
 
   - name: "Spirit Naga Venom"
-    desc: " (poison) **Saving Throw** DC 32 Fortitude check\n**Maximum Duration** 6 rounds\n**Stage 1** 2d6 poison damage and [[Conditions/Stupefied 1|Stupefied 1]] (1 round)\n**Stage 2** 2d6 poison damage and [[Conditions/Stupefied 1|Stupefied 2]] (1 round)"
+    desc: " (poison) **Saving Throw** DC 32 Fortitude check\n* * *\n\n**Maximum Duration** 6 rounds\n\n**Stage 1** 2d6 poison damage and [[Conditions/Stupefied|Stupefied 1]] (1 round)\n\n**Stage 2** 2d6 poison damage and [[Conditions/Stupefied|Stupefied 2]] (1 round)"
  
+```
+
+```encounter-table
+name: Ngara
+creatures:
+  - 1: Ngara
 ```
 
 

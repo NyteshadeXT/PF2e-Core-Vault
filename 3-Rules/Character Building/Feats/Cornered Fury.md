@@ -6,8 +6,9 @@ tags:
   - trait/ratfolk
   - trait/common
   - category/ancestry
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.ulrGnvF0KAgEaifX"
-license: OGL
+license: ORC
 ---
 # Cornered Fury
 ## Feat 5
@@ -18,7 +19,7 @@ license: OGL
 
 
 
-When physically outmatched, you fight with unexpected ferocity. If a foe of a larger size than you critically hits and damages you, that foe is [[Conditions/Off-Guard|Off-Guard]] to you for 1 round.
+If a foe of a larger size than you critically hits and damages you, that foe is [[Conditions/Off-Guard|Off-Guard]] to you for 1 round.
 
-*Source: Pathfinder Lost Omens: Ancestry Guide*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

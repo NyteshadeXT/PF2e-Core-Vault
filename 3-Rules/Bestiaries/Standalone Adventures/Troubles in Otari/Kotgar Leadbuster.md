@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/humanoid
   - pf2e/creature/type/lawful
+  - pf2eMonster
   - pf2e/creature/level/4
 statblock: inline
 name: "Kotgar Leadbuster"
@@ -23,20 +24,21 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Adventure: Troubles in Otari"
 name: "Kotgar Leadbuster"
 level: "Creature 4"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Medium"
-trait_01: "dwarf"
-trait_02: "evil"
-trait_03: "humanoid"
-trait_04: "lawful"
+trait_01: [[dwarf]]
+trait_02: [[evil]]
+trait_03: [[humanoid]]
+trait_04: [[lawful]]
 modifier: 12
 perception:
   - name: "Perception"
     desc: "+12; Darkvision"
+languages: ""
 skills:
   - name: "Skills"
-    desc: "Athletics: +12 (+14 to shove), Crafting: +8, Deception: +9, Intimidation: +9, Society: +8, Survival: +10"
+    desc: "Athletics: +12, Crafting: +8, Deception: +9, Intimidation: +9, Society: +8, Survival: +10"
 abilityMods: [4, 1, 3, 0, 2, 1]
 speed: 20 feet
 sourcebook: "_Pathfinder Adventure: Troubles in Otari_"
@@ -76,6 +78,12 @@ attacks:
   - name: "Unburdened Iron"
     desc: "  Kotgar ignores the reduction to his Speed from armor and deducts 5 feet from any one penalty to his Speed (such as from a spell)."
  
+```
+
+```encounter-table
+name: Kotgar Leadbuster
+creatures:
+  - 1: Kotgar Leadbuster
 ```
 
 

@@ -7,8 +7,9 @@ tags:
   - trait/rage
   - trait/common
   - category/class
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.p2I4o9Cc6UrXvjhO"
-license: OGL
+license: ORC
 ---
 # Furious Sprint `pf2:2`
 ## Feat 10
@@ -19,7 +20,7 @@ license: OGL
 
 
 
-You rush forward. Stride up to five times your Speed in a straight line. You can increase the number of actions this activity takes to 3 to Stride up to eight times your Speed in a straight line instead.
+You rush forward. Stride up to five times, or up to eight times if you used 3 actions. All this movement must be in a straight line (though the GM might allow reasonable variance). You can replace any of these Strides with a [[Actions/Balance|Balance]] action if you need to, which you attempt using an Athletics check instead of an Acrobatics check, using the same DC.
 
-*Source: Pathfinder Core Rulebook*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

@@ -4,6 +4,7 @@ obsidianUIMode: preview
 noteType: pf2eHazard
 tags:
   - mechanical
+  - pf2eHazard
 
 source: Pathfinder #176: Lost Mammoth Valley
 aliases: "Compendium.pf2e.quest-for-the-frozen-flame-bestiary.Actor.Sb9xUYxdWyMmkvQL" 
@@ -21,13 +22,13 @@ name: "Rockfall Ceiling"
 level: "Hazard 5"
 
 
-trait_01: "mechanical"
+trait_01: [[mechanical]]
 modifier: 10
 sourcebook: "_Pathfinder #176: Lost Mammoth Valley_"
 ac: 22
 armorclass:
   - name: AC
-    desc: "22; __Fort__ +15, __Ref__ +15, __Will__ +0"
+    desc: "22; __Fort__ +15, __Ref__ +15, "
 hp: 50
 health:
   - name: ""
@@ -49,9 +50,15 @@ attacks:
   - name: ""
 
   - name: "Drop Rocks"
-    desc: "`pf2:r` **Trigger** A creature holding the rope pulley pulls it\n**Effect** The net releases, dropping rocks on all creatures and objects in the lower half of area **A15**, dealing 4d8 + 14 bludgeoning damage (DC 26 Reflex check). The area then becomes difficult terrain."
+    desc: "`pf2:r` **Trigger** A creature holding the rope pulley pulls it\n* * *\n\n**Effect** The net releases, dropping rocks on all creatures and objects in the lower half of area **A15**, dealing 4d8+14 bludgeoning damage (DC 26 Reflex check). The area then becomes difficult terrain."
 
 
 
+```
+
+```encounter-table
+name: Rockfall Ceiling
+creatures:
+  - 1: Rockfall Ceiling
 ```
 

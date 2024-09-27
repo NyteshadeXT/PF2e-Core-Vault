@@ -9,8 +9,9 @@ tags:
   - trait/trap
   - trait/common
   - category/snare
+  - remaster
 aliases: "Compendium.pf2e.equipment-srd.Item.9EZb1hmSKOGrU4Cf"
-license: OGL
+license: ORC
 ---
 # Biting Snare
 ## Item 4
@@ -21,7 +22,7 @@ license: OGL
 **Bulk** 0; **Size** med
 **Usage** held-in-one-hand
 
-The snare's jaws shut on the leg of a creature that steps on it. The snare deals 5d6 piercing damage to the first creature that enters its square; that creature must attempt a DC 18 Reflex check save.
+This snare closes shut on the leg of a creature. The snare deals 5d6 piercing damage to the first creature that enters its square; that creature must attempt a DC 21 Reflex check save.
 
 * * *
 
@@ -33,5 +34,5 @@ The snare's jaws shut on the leg of a creature that steps on it. The snare deals
 
 **Critical Failure** The creature takes double damage and takes a -10-foot status penalty to its Speed until it recovers at least 1 Hit Point.
 
-*Source: Pathfinder Core Rulebook*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

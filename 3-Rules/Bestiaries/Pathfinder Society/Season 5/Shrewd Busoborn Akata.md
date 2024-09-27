@@ -6,6 +6,7 @@ cssClasses: pf2e
 aliases: "Compendium.pf2e.pfs-season-5-bestiary.Actor.Q2Pg6YJidDTOE7zA" 
 tags:
   - pf2e/creature/type/aberration
+  - pf2eMonster
   - pf2e/creature/level/6
 statblock: inline
 name: "Shrewd Busoborn Akata"
@@ -20,14 +21,15 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Society Scenario #5-09: Equal Exchange - Skymetal Hoard"
 name: "Shrewd Busoborn Akata"
 level: "Creature 6"
-rare_03: "Rare"
+rare_03: [[Rare]]
 alignment: ""
 size: "Large"
-trait_01: "aberration"
+trait_01: [[aberration]]
 modifier: 13
 perception:
   - name: "Perception"
     desc: "+13; Darkvision, Scent (Imprecise) 30 Feet"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Acrobatics: +7, Athletics: +7, Stealth: +7"
@@ -55,7 +57,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Bark Shield"
-    desc: "`pf2:r`  **Trigger** The busoborn akata takes damage that isn't fire\n**Effect** The akata hardens its body into a bark-like material at the point of impact and reduces the damage it takes by 5."
+    desc: "`pf2:r`  **Trigger** The busoborn akata takes damage that isn't fire\n* * *\n\n**Effect** The akata hardens its body into a bark-like material at the point of impact and reduces the damage it takes by 5."
 
   - name: "No Breath"
     desc: " (inhaled) An akata doesn't breathe and is immune to effects that require breathing (such as an inhaled poison)."
@@ -73,17 +75,23 @@ attacks:
     desc: "`pf2:1` Tentacle Vine +17 (agile, reach 10 feet, trip)\n__Damage__  2d10 + 4 bludgeoning plus grab"
 
   - name: "Grasping Tendrils"
-    desc: "`pf2:2` (manipulate) The busoborn akata presses one of its tentacle vines to the ground and causes it to spread beneath creatures in a 15-foot cone in front of it. Until the end of its next turn, the area is difficult terrain to enemy creatures, and the akata gains a +2 circumstance bonus to attack rolls against targets within that area\n**Special** The akata can only use this ability if it has no more than one creature grappled."
+    desc: "`pf2:2` (manipulate) The busoborn akata presses one of its tentacle vines to the ground and causes it to spread beneath creatures in a @Template[cone|distance:15] in front of it. Until the end of its next turn, the area is difficult terrain to enemy creatures, and the akata gains a +2 circumstance bonus to attack rolls against targets within that area\n* * *\n\n**Special** The akata can only use this ability if it has no more than one creature grappled."
 
   - name: "Pack Attack"
     desc: "  The busoborn akata's Strikes deal an additional 1d10 damage to creatures within reach of at least two of its allies."
 
   - name: "Void Death"
-    desc: " (disease) An akata implants its parasitic larval young into any creature it bites, but only Medium or Small humanoids make suitable hosts; all other creatures are immune to this disease\n**Saving Throw** DC 17 Fortitude check\n**Stage 1** carrier with no ill effect 1 (1 day)\n**Stage 2** [[Conditions/Drained 1|Drained 1]] (1 day)\n**Stage 3** as stage 2 (1 day)\n**Stage 4** drained 2 and [[Conditions/Fatigued|Fatigued]] (1 day)\n**Stage 5** as stage 4 (1 day)\n**Stage 6** dead and corpse rises as a void zombie in 2d4 hours"
+    desc: " (disease) An akata implants its parasitic larval young into any creature it bites, but only Medium or Small humanoids make suitable hosts; all other creatures are immune to this disease\n\n**Saving Throw** DC 17 Fortitude check\n\n**Stage 1** carrier with no ill effect 1 (1 day)\n\n**Stage 2** [[Conditions/Drained|Drained 1]] (1 day)\n\n**Stage 3** as stage 2 (1 day)\n\n**Stage 4** drained 2 and [[Conditions/Fatigued|Fatigued]] (1 day)\n\n**Stage 5** as stage 4 (1 day)\n\n**Stage 6** dead and corpse rises as a void zombie in 2d4 hours"
 
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
     desc: "`pf2:1`  "
  
+```
+
+```encounter-table
+name: Shrewd Busoborn Akata
+creatures:
+  - 1: Shrewd Busoborn Akata
 ```
 
 

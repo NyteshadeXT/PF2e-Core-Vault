@@ -39,9 +39,9 @@ In addition, any arthropods (insects, spiders, scorpions, crabs, and similar inv
 
 **Critical Success** The creature can act normally.
 
-**Success** The creature is [[Conditions/Frightened 1|Frightened 1]].
+**Success** The creature is [[Conditions/Frightened|Frightened 1]].
 
-**Failure** The creature is [[Conditions/Frightened 1|Frightened 2]].
+**Failure** The creature is [[Conditions/Frightened|Frightened 2]].
 
 **Critical Failure** The creature is frightened 2 and [[Conditions/Fleeing|Fleeing]].
 

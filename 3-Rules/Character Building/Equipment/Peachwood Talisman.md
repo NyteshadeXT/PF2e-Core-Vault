@@ -8,8 +8,9 @@ tags:
   - trait/talisman
   - trait/uncommon
   - category/talisman
+  - remaster
 aliases: "Compendium.pf2e.equipment-srd.Item.GiiBkaa5JaJ5msPS"
-license: OGL
+license: ORC
 ---
 # Peachwood Talisman
 ## Item 6
@@ -20,13 +21,13 @@ license: OGL
 **Bulk** 0; **Size** med
 **Usage** affixed-to-armor
 
-**Activate** `pf2:1` envision
+**Access** Tian Xia origin
 
-**Requirements** You are an expert in Perception
+**Activate** `pf2:1` (concentrate)
 
 * * *
 
 Symbols of good fortune and luck are carved on this thin, square wooden plaque. It smells of sandalwood from the blessings placed upon it. After activation, for the next minute, you can sense attacks from undead. You aren't [[Conditions/Off-Guard|Off-Guard]] to [[Conditions/Hidden|Hidden]], [[Conditions/Undetected|Undetected]], or flanking undead of your level or lower, or undead of your level or lower using surprise attack. However, they can still help their allies flank.
 
-*Source: Pathfinder Book of the Dead*
-*OGL*
+*Source: Pathfinder Lost Omens: Tian Xia Character Guide*
+*ORC*

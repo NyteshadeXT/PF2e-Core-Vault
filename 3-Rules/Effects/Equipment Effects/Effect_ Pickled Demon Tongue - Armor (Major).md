@@ -16,7 +16,9 @@ license: OGL
 
 
 
-You gain resistance 10 to acid.
+Granted by [[Equipment/Pickled Demon Tongue (Major)|Pickled Demon Tongue (Major)]]
+
+You gain resistance 10 to acid and attacks by demons.
 
 *Source: Pathfinder #188: They Watched the Stars*
 *OGL*

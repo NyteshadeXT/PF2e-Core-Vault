@@ -6,8 +6,9 @@ tags:
   - trait/archetype
   - trait/common
   - category/class
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.bki36RiEM5FR4aiT"
-license: OGL
+license: ORC
 ---
 # Specialized Beastmaster Companion
 ## Feat 14
@@ -19,9 +20,11 @@ license: OGL
 
 **Prerequisites** Incredible Beastmaster Companion
 * * *
-Your nimble and savage animal companions become cunning enough to become specialized. Each companion gains one specialization of your choice (_Core Rulebook_ 217, choose separately).
+Your nimble and savage animal companions become cunning enough to become specialized. Each companion gains one specialization of your choice. Choose the specialization separately for each companion, including any companion that becomes specialized after you take this feat.
+
+* * *
 
 **Special** You can select this feat more than once. Each time, add a different specialization to your nimble and savage companions. Your nimble and savage companions can have up to three specializations each.
 
-*Source: Pathfinder Advanced Player's Guide*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

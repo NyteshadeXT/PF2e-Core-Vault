@@ -6,6 +6,7 @@ cssClasses: pf2e
 aliases: "Compendium.pf2e.pathfinder-bestiary-3.Actor.rOBXOcxMcnFR2P9y" 
 tags:
   - pf2e/creature/type/beast
+  - pf2eMonster
   - pf2e/creature/level/6
 statblock: inline
 name: "Skull Peeler"
@@ -24,11 +25,12 @@ level: "Creature 6"
 
 alignment: ""
 size: "Small"
-trait_01: "beast"
+trait_01: [[beast]]
 modifier: 17
 perception:
   - name: "Perception"
     desc: "+17; Low-Light Vision"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Acrobatics: +12, Athletics: +15, Stealth: +16"
@@ -50,7 +52,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Snatch Skull"
-    desc: "`pf2:r`  **Trigger** The skull peeler is using Perfect Camouflage and a creature moves into a space within 15 feet of it\n**Effect** The skull peeler Leaps toward the triggering creature and Strikes with its tongue. If this Strike is successful, the skull peeler automatically [[Bestiary Ability Glossary/Grab|Grabs]] the target with its tongue."
+    desc: "`pf2:r`  **Trigger** The skull peeler is using Perfect Camouflage and a creature moves into a space within 15 feet of it\n* * *\n\n**Effect** The skull peeler Leaps toward the triggering creature and Strikes with its tongue. If this Strike is successful, the skull peeler automatically [[Bestiary Ability Glossary/Grab|Grabs]] the target with its tongue."
 
 attacks:
   - name: ""
@@ -62,11 +64,17 @@ attacks:
     desc: "`pf2:1` Claw +17 ()\n__Damage__  2d10 + 8 slashing"
 
   - name: "Anticoagulant"
-    desc: "  The skull peeler's razor-sharp tongue is coated in an anticoagulant substance that makes wounds it inflicts particularly hard to close.\nThe DC of the flat check to end the persistent bleed damage from a skull peeler's tongue is DC 16 Flat check, or DC 11 Flat check with appropriate assistance."
+    desc: "  The skull peeler's razor-sharp tongue is coated in an anticoagulant substance that makes wounds it inflicts particularly hard to close.\n\nThe DC of the flat check to end the persistent bleed damage from a skull peeler's tongue is DC 16 Flat check, or DC 11 Flat check with appropriate assistance."
 
   - name: "Perfect Camouflage"
-    desc: "`pf2:1` (concentrate) **Requirements** The skull peeler is in a treetop or standing on a tree limb\n**Effect** Until the next time it acts, the skull peeler hangs perfectly still, blending into the treetop surroundings. It has an automatic result of 36 on Stealth checks and DCs to [[Actions/Hide|Hide]] from any creature more than 10 feet away from it."
+    desc: "`pf2:1` (concentrate) **Requirements** The skull peeler is in a treetop or standing on a tree limb\n* * *\n\n**Effect** Until the next time it acts, the skull peeler hangs perfectly still, blending into the treetop surroundings. It has an automatic result of 36 on Stealth checks and DCs to [[Actions/Hide|Hide]] from any creature more than 10 feet away from it."
  
+```
+
+```encounter-table
+name: Skull Peeler
+creatures:
+  - 1: Skull Peeler
 ```
 
 

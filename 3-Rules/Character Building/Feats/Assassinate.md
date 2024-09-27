@@ -6,8 +6,9 @@ tags:
   - trait/archetype
   - trait/common
   - category/class
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.iJxbrXAdxhLqdT5E"
-license: OGL
+license: ORC
 ---
 # Assassinate `pf2:2`
 ## Feat 12
@@ -23,7 +24,7 @@ license: OGL
 
 * * *
 
-You Strike with one swift movement, trying to instantly slay your mark. Make a Strike against your mark. If you hit, your mark takes 6d6 extra precision damage with a basic Fortitude save against your class DC or spell DC, whichever is higher. If the mark critically fails, they die. This is an incapacitation effect. The creature then becomes temporarily immune to your Assassinate for 1 day.
+You strike with one swift movement, trying to instantly slay your mark. Make a Strike against your mark. If you hit, your mark takes an additional 6d6 precision damage with a Fortitude check save against the higher of your class DC or spell DC. If the mark critically fails, it dies unless its level is higher than yours. Regardless of the result of its save, the creature is temporarily immune to your Assassinate for 1 day.
 
-*Source: Pathfinder Advanced Player's Guide*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

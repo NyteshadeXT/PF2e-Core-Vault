@@ -8,7 +8,7 @@ tags:
 ---
 
 # Scroll Trickster
-Magic has long been written down, and in myriad forms. From the classic rolled parchment to strings tied with a hundred intricate knots, from baked clay tablets covered with incisions to bound collections of bamboo slips, magic is everywhere. You just need to know how to read it.
+Magic has been written down in myriad forms for a very long time. From the classic rolled parchment to strings tied with a hundred intricate knots, from baked clay tablets covered with incisions to bound collections of bamboo slips, magic is everywhere. You just need to know how to read it. You have studied the art of reading magical scrolls of various kinds. The language of magic is yours to use and manipulate, however unstable and archaic such writing tends to be.
 
 ## [[Feats/Scroll Trickster Dedication|Scroll Trickster Dedication]] Feat 2
 
@@ -26,7 +26,7 @@ You've studied scrolls in depth. This might have been a comprehensive education 
 
 * * *
 
-You have a vast and overflowing collection of scroll scraps, riddled with errors and misspellings and leaking energy like a sieve. With enough care, you can coax these scroll scraps into functioning-briefly. Each day during your daily preparations, you can create a single temporary scroll containing a 1st-rank spell. The spell must be a common spell from the Core Rulebook, or another spell you learned via Learn a Spell, and it must come from a tradition in which you have the corresponding skill trained. This scroll is an unstable, temporary item and loses its magic the next time you make your daily preparations if you haven't already used it. It can't be used to Learn the Spell.
+You have a vast and overflowing collection of scroll scraps, riddled with errors and misspellings and leaking energy like a sieve. With enough care, you can coax these scroll scraps into functioning—briefly. Each day during your daily preparations, you can create a single temporary scroll containing a 1st-rank spell. The spell must be a common spell, a spell to which you have access, or a spell you are able to cast, and you must be trained in the skill corresponding to at least one of the spell's traditions. You can use Learn a Spell to add spells to those you can use with this feat, even if you aren't a spellcaster. This scroll is an unstable, temporary item and loses its magic the next time you make your daily preparations if you haven't already used it. This temporary scroll can't be used to Learn the Spell.
 
 At 8th level, add a second temporary scroll containing a 2nd-rank spell.
 
@@ -44,7 +44,7 @@ You can activate the magic of a scroll with a cursory read as you draw it from y
 
 * * *
 
-Your scroll collection is more powerful. In addition to your daily scrolls from Basic Scroll Cache, add a scroll with a 3rd-rank spell. At 14th level, add a scroll with a 4th-rank spell. At 16th level, add a scroll with a 5th-rank spell.
+Your scroll collection has vastly grown, both in size and potency. In addition to your daily scrolls from Basic Scroll Cache, add a scroll with a 3rd-rank spell. At 14th level, add a scroll with a 4th-rank spell. At 16th level, add a scroll with a 5th-rank spell.
 
 ## [[Feats/Master Scroll Cache|Master Scroll Cache]] Feat 18
 

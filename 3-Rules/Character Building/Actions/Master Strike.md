@@ -13,7 +13,7 @@ license: ORC
 ---
 # Master Strike `pf2:0`
 
-### [[incapacitation]][[rogue]]
+### [[3-Rules/Rule References/Incapacitation]][[3-Rules/trait_reference/rogue]]
 
 **Category** offensive; 
 
@@ -30,7 +30,7 @@ The target attempts a Fortitude check save against your class DC. It then become
 
 **Critical Success** The target is unaffected.
 
-**Success** The target is [[Conditions/Enfeebled 1|Enfeebled 2]] until the end of your next turn.
+**Success** The target is [[Conditions/Enfeebled|Enfeebled 2]] until the end of your next turn.
 
 **Failure** The target is [[Conditions/Paralyzed|Paralyzed]] for 4 rounds.
 

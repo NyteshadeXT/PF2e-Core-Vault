@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/human
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/5
 statblock: inline
 name: "Cole Farsen, Advisor"
@@ -23,13 +24,13 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Society Scenario #3-11: No Time for Treason"
 name: "Cole Farsen, Advisor"
 level: "Creature 5"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Medium"
-trait_01: "chaotic"
-trait_02: "evil"
-trait_03: "human"
-trait_04: "humanoid"
+trait_01: [[chaotic]]
+trait_02: [[evil]]
+trait_03: [[human]]
+trait_04: [[humanoid]]
 modifier: 14
 perception:
   - name: "Perception"
@@ -37,7 +38,7 @@ perception:
 languages: "Common"
 skills:
   - name: "Skills"
-    desc: "Deception: +15, Diplomacy: +15, Legal Lore: +11, Occultism: +9, Performance: +11, Society: +11"
+    desc: "Deception: +15, Diplomacy: +15, Occultism: +9, Performance: +11, Society: +11, Legal Lore: +11"
 abilityMods: [0, 2, 2, 0, 4, 4]
 speed: 25 feet
 sourcebook: "_Pathfinder Society Scenario #3-11: No Time for Treason_"
@@ -74,6 +75,12 @@ attacks:
   - name: "Bard Composition Spells"
     desc: "1 Focus Point, DC 22, attack +14; __3rd __  _[[Spells/Counter Performance|Counter Performance]]_\n__Cantrips__  __(3rd)__ _[[Spells/Uplifting Overture|Inspire Competence]]_, _[[Spells/Courageous Anthem|Inspire Courage]]_, _[[Spells/Rallying Anthem|Inspire Defense]]_"
  
+```
+
+```encounter-table
+name: Cole Farsen, Advisor
+creatures:
+  - 1: Cole Farsen, Advisor
 ```
 
 

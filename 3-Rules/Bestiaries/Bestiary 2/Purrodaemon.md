@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/fiend
   - pf2e/creature/type/unholy
+  - pf2eMonster
   - pf2e/creature/level/18
 statblock: inline
 name: "Purrodaemon"
@@ -27,15 +28,15 @@ level: "Creature 18"
 
 alignment: ""
 size: "Large"
-trait_01: "daemon"
-trait_02: "evil"
-trait_03: "fiend"
-trait_04: "unholy"
+trait_01: [[daemon]]
+trait_02: [[evil]]
+trait_03: [[fiend]]
+trait_04: [[unholy]]
 modifier: 33
 perception:
   - name: "Perception"
     desc: "+33; Darkvision, Truesight"
-languages: "Common, Daemonic"
+languages: "Common, Daemonic; telepathy 100 feet"
 skills:
   - name: "Skills"
     desc: "Athletics: +37, Intimidation: +35, Religion: +30, Stealth: +34, Survival: +33, Warfare Lore: +32"
@@ -73,14 +74,20 @@ attacks:
     desc: "`pf2:1` (divine) The purrodaemon causes a weapon that has steeped in their flesh (see Steep Weapon) to telekinetically launch from their flesh. The purrodaemon makes a hurled weapon Strike without using their hands."
 
   - name: "Recall Weapon"
-    desc: "`pf2:1`  **Requirements** A steeped weapon that's no longer sheathed in the purrodaemon's body is within 120 feet of the daemon\n**Effect** The steeped weapon swiftly flies through the air to resheath itself in the purrodaemon's body. If a creature is along this flight path, the purrodaemon can make a hurled weapon Strike against the target; if it hits, the weapon drops to the ground in a square adjacent to the creature."
+    desc: "`pf2:1`  **Requirements** A steeped weapon that's no longer sheathed in the purrodaemon's body is within 120 feet of the daemon\n* * *\n\n**Effect** The steeped weapon swiftly flies through the air to resheath itself in the purrodaemon's body. If a creature is along this flight path, the purrodaemon can make a hurled weapon Strike against the target; if it hits, the weapon drops to the ground in a square adjacent to the creature."
 
   - name: "Steep Weapon"
-    desc: "`pf2:1` (manipulate) The purrodaemon sheathes a weapon in their own flesh. This deals no damage to the purrodaemon, which can have up to 10 weapons sheathed in their body at a time. A steeped weapon must be one that deals piercing or slashing damage.\nIf a purrodaemon [[Actions/Interact|Interacts]] to crush a soul gem, one weapon of their choice sheathed in their flesh becomes enchanted with the daemon's fiendish power and becomes a +2 greater striking weapon that can be used in place of their glaive or hurled at targets (with a +2 item bonus to the hurled weapon's attack modifier and an extra d10 of damage). This magical quality fades 24 hours after it ceases being sheathed in the daemon's living body. A steeped weapon can be [[Actions/Disarm|Disarmed]]."
+    desc: "`pf2:1` (manipulate) The purrodaemon sheathes a weapon in their own flesh. This deals no damage to the purrodaemon, which can have up to 10 weapons sheathed in their body at a time. A steeped weapon must be one that deals piercing or slashing damage.\n\nIf a purrodaemon [[Actions/Interact|Interacts]] to crush a soul gem, one weapon of their choice sheathed in their flesh becomes enchanted with the daemon's fiendish power and becomes a +2 greater striking weapon that can be used in place of their glaive or hurled at targets (with a +2 item bonus to the hurled weapon's attack modifier and an extra d10 of damage). This magical quality fades 24 hours after it ceases being sheathed in the daemon's living body. A steeped weapon can be [[Actions/Disarm|Disarmed]]."
 
   - name: "Twist the Blade"
-    desc: "`pf2:r`  **Requirements** The purrodaemon has fewer than 10 weapons sheathed in their body\n**Trigger** The purrodaemon is hit with a weapon that deals piercing damage\n**Effect** The purrodaemon seizes the triggering weapon. The weapon's wielder must attempt a DC 40 Reflex check save. On a failure, the weapon is disarmed and falls to an adjacent square. On a critical failure, the weapon is sheathed in the purrodaemon's body as though the daemon had used Steep Weapon."
+    desc: "`pf2:r`  **Requirements** The purrodaemon has fewer than 10 weapons sheathed in their body\n\n**Trigger** The purrodaemon is hit with a weapon that deals piercing damage\n* * *\n\n**Effect** The purrodaemon seizes the triggering weapon. The weapon's wielder must attempt a DC 40 Reflex check save. On a failure, the weapon is disarmed and falls to an adjacent square. On a critical failure, the weapon is sheathed in the purrodaemon's body as though the daemon had used Steep Weapon."
  
+```
+
+```encounter-table
+name: Purrodaemon
+creatures:
+  - 1: Purrodaemon
 ```
 
 

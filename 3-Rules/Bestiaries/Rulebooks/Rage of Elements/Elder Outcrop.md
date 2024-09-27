@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.rage-of-elements-bestiary.Actor.GdXjhFu8Afg24fM9"
 tags:
   - pf2e/creature/type/earth
   - pf2e/creature/type/elemental
+  - pf2eMonster
   - pf2e/creature/level/13
   - remaster
 statblock: inline
@@ -25,8 +26,8 @@ level: "Creature 13"
 
 alignment: ""
 size: "Medium"
-trait_01: "earth"
-trait_02: "elemental"
+trait_01: [[earth]]
+trait_02: [[elemental]]
 modifier: 26
 perception:
   - name: "Perception"
@@ -56,7 +57,7 @@ abilities_mid:
     desc: " (aura,earth) 30 feet. Dust swirls about the outcrop, rendering everything within its aura (including the outcrop) [[Conditions/Concealed|Concealed]]. In addition, the dust at the outcrop's base creates difficult terrain on the ground within the aura. The outcrop can activate or deactivate this aura using a single action, which has the concentrate trait."
 
   - name: "Unstoppable"
-    desc: "  The elder outcrop's slowed condition can't exceed [[Conditions/Slowed 1|Slowed 1]], and it ignores penalties to its Speeds and the [[Conditions/Immobilized|Immobilized]] condition."
+    desc: "  The elder outcrop's slowed condition can't exceed [[Conditions/Slowed|Slowed 1]], and it ignores penalties to its Speeds and the [[Conditions/Immobilized|Immobilized]] condition."
 
 attacks:
   - name: ""
@@ -77,7 +78,7 @@ attacks:
     desc: "`pf2:1` (concentrate) Until the next time it acts, the elder outcrop appears to be a natural terrain feature. It has an automatic result of 47 on Deception checks and DCs to pass as a natural outcropping of rock. The outcrop's dust eternal aura is deactivated while Natural Formation is being used."
 
   - name: "Stone Grip"
-    desc: "`pf2:1` (earth,incapacitation,primal) Great fingers of stone arise to grasp up to two Medium or smaller creatures on the ground in the outcrop's aura. Each target must succeed at a DC 33 Reflex check save or be [[Conditions/Grabbed|Grabbed]] by the stone hand (or [[Conditions/Restrained|Restrained]] on a critical failure; [[Actions/Escape|Escape]] DC 33). A creature grabbed or restrained by a stone hand at the end of its turn becomes [[Conditions/Slowed 1|Slowed 1]] or increases its existing slowed condition by 1. When a creature is unable to act due to the slowed condition from this effect, the creature is permanently petrified."
+    desc: "`pf2:1` (earth,incapacitation,primal) Great fingers of stone arise to grasp up to two Medium or smaller creatures on the ground in the outcrop's aura. Each target must succeed at a DC 33 Reflex check save or be [[Conditions/Grabbed|Grabbed]] by the stone hand (or [[Conditions/Restrained|Restrained]] on a critical failure; [[Actions/Escape|Escape]] DC 33). A creature grabbed or restrained by a stone hand at the end of its turn becomes [[Conditions/Slowed|Slowed 1]] or increases its existing slowed condition by 1. When a creature is unable to act due to the slowed condition from this effect, the creature is permanently petrified."
 
   - name: "[[Bestiary Ability Glossary/Throw Rock|Throw Rock]]"
     desc: "`pf2:1`  "
@@ -85,6 +86,12 @@ attacks:
   - name: "[[Bestiary Ability Glossary/Knockdown|Knockdown]]"
     desc: "`pf2:1`  "
  
+```
+
+```encounter-table
+name: Elder Outcrop
+creatures:
+  - 1: Elder Outcrop
 ```
 
 

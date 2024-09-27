@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/giant
   - pf2e/creature/type/humanoid
   - pf2e/creature/type/mutant
+  - pf2eMonster
   - pf2e/creature/level/12
   - remaster
 statblock: inline
@@ -24,12 +25,12 @@ token: [[modules/pf2e-tokens-bestiaries/portraits/humanoid/giant/cyclops-great.w
 source: "Pathfinder Monster Core"
 name: "Great Cyclops"
 level: "Creature 12"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "huge"
-trait_01: "giant"
-trait_02: "humanoid"
-trait_03: "mutant"
+trait_01: [[giant]]
+trait_02: [[humanoid]]
+trait_03: [[mutant]]
 modifier: 22
 perception:
   - name: "Perception"
@@ -37,7 +38,7 @@ perception:
 languages: "Common, Cyclops, Jotun"
 skills:
   - name: "Skills"
-    desc: "Any One Lore: +18, Athletics: +25, Survival: +22"
+    desc: "Athletics: +25, Survival: +22, Any One Lore: +18"
 abilityMods: [7, 1, 6, -2, 4, -1]
 speed: 40 feet
 sourcebook: "_Pathfinder Monster Core_"
@@ -83,6 +84,12 @@ attacks:
   - name: "[[Bestiary Ability Glossary/Throw Rock|Throw Rock]]"
     desc: "`pf2:1`  "
  
+```
+
+```encounter-table
+name: Great Cyclops
+creatures:
+  - 1: Great Cyclops
 ```
 
 

@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.outlaws-of-alkenstar-bestiary.Actor.FMnoyAlVppHvcu8I"
 tags:
   - pf2e/creature/type/astral
   - pf2e/creature/type/incorporeal
+  - pf2eMonster
   - pf2e/creature/level/2
 statblock: inline
 name: "Ioton (F6)"
@@ -24,15 +25,16 @@ level: "Creature 2"
 
 alignment: ""
 size: "tiny"
-trait_01: "astral"
-trait_02: "incorporeal"
+trait_01: [[astral]]
+trait_02: [[incorporeal]]
 modifier: 5
 perception:
   - name: "Perception"
     desc: "+5; Thoughtsense (Imprecise) 60 Feet"
+languages: "absorbed language"
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +6, Stealth: +6"
+    desc: "Acrobatics: +8, Stealth: +8"
 abilityMods: [-5, 2, 3, 0, -1, -3]
 speed:  fly 30 feet
 sourcebook: "_Pathfinder #178: Punks in a Powder Keg_"
@@ -66,11 +68,17 @@ attacks:
     desc: "DC 14, attack +4\n__Cantrips__  __(1st)__ _[[Spells/Daze|Daze]]_, _[[Spells/Detect Magic|Detect Magic]]_"
 
   - name: "Leech Thought"
-    desc: " (healing,occult,polymorph) While a creature is taking persistent mental damage from the ioton, the ioton takes the shape of a creature familiar to the target, such as an acquaintance, pet, or common animal, though the appearance is imperfect and grants no benefit to Impersonate an individual.\nWhile transformed, the ioton loses its incorporeal trait, immunities, and resistances, but it gains an unarmed melee Strike with a +6 attack modifier that deals 1d8 + 2 bludgeoning damage. The ioton immediately returns to its original form once no creature is taking persistent mental damage from it."
+    desc: " (healing,occult,polymorph) While a creature is taking persistent mental damage from the ioton, the ioton takes the shape of a creature familiar to the target, such as an acquaintance, pet, or common animal, though the appearance is imperfect and grants no benefit to Impersonate an individual.\n\nWhile transformed, the ioton loses its incorporeal trait, immunities, and resistances, but it gains an unarmed melee Strike with a +6 attack modifier that deals 1d8+2 bludgeoning damage. The ioton immediately returns to its original form once no creature is taking persistent mental damage from it."
 
   - name: "Seeking Alchemical Knowledge"
     desc: "  This ioton is seeking alchemical knowledge. The ioton gains a +1 circumstance bonus to attack rolls against any creature with the [[Feats/Alchemical Crafting|Alchemical Crafting]] feat, and they prefer to attack those targets to the exclusion of others."
  
+```
+
+```encounter-table
+name: Ioton (F6)
+creatures:
+  - 1: Ioton (F6)
 ```
 
 

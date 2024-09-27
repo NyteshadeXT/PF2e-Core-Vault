@@ -4,6 +4,7 @@ obsidianUIMode: preview
 noteType: pf2eHazard
 tags:
   - haunt
+  - pf2eHazard
   - complex
 source: Pathfinder #156: The Apocalypse Prophet
 aliases: "Compendium.pf2e.extinction-curse-bestiary.Actor.mlktvPVq3mb5DTpP" 
@@ -21,7 +22,7 @@ name: "Suffering Xulgaths"
 level: "Hazard 16"
 
 trait_06: "Complex"
-trait_01: "haunt"
+trait_01: [[haunt]]
 modifier: 26
 sourcebook: "_Pathfinder #156: The Apocalypse Prophet_"
 ac: 39
@@ -49,7 +50,7 @@ attacks:
   - name: ""
 
   - name: "Wendigo Remnants"
-    desc: "`pf2:r` **Trigger** A living creature other than a wendigo gains the [[Conditions/Frightened 1|Frightened]] condition while within 100 feet of the way station\n**Effect** The haunt rolls for initiative."
+    desc: "`pf2:r` **Trigger** A living creature other than a wendigo gains the [[Conditions/Frightened|Frightened]] condition while within 100 feet of the way station\n* * *\n\n**Effect** The haunt rolls for initiative."
   - name: "Melee"
     desc: "Ghostly Bite +32 (magical) "
 
@@ -57,5 +58,11 @@ attacks:
     desc: "(4 actions) Each active spirit chooses a living non-wendigo creature within 120 feet and attempts to devour it, targeting different creatures if possible. Each calmed spirit reduces the hazard's actions by 1"
   - name: "Reset"
     desc: "The haunt is deactivated and resets 1 minute after all non-wendigo creatures leave the area."
+```
+
+```encounter-table
+name: Suffering Xulgaths
+creatures:
+  - 1: Suffering Xulgaths
 ```
 

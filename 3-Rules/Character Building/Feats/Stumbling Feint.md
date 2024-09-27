@@ -6,8 +6,9 @@ tags:
   - trait/monk
   - trait/common
   - category/class
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.kYA6LkDw4AzKI156"
-license: OGL
+license: ORC
 ---
 # Stumbling Feint
 ## Feat 6
@@ -29,5 +30,5 @@ When you use [[Actions/Flurry of Blows|Flurry of Blows]], you can attempt a chec
 
 On a success, instead of making the target [[Conditions/Off-Guard|Off-Guard]] against your next attack, they become off-guard against both attacks from the Flurry of Blows.
 
-*Source: Pathfinder Advanced Player's Guide*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

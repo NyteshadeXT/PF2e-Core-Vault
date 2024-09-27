@@ -28,7 +28,7 @@ This tangy gum cracks and pops in your mouth as you chew it. While you're chewin
 
 * * *
 
-**Effect** You blow a bubble with the gum until it pops, after which it becomes inert. The pop deals 4d4 sonic to all creatures in a 15-foot cone with a DC 19 Fortitude check save. A creature that fails its save is also bound with sticky gum, taking a –10-foot item penalty to its Speed for 1 minute. The creature can remove the gum with a total of 3 Interact actions. These actions don't have to be consecutive, and other creatures can provide the actions as well.
+**Effect** You blow a bubble with the gum until it pops, after which it becomes inert. The pop deals 4d4 sonic to all creatures in a @Template\[cone|distance:15\] with a DC 19 Fortitude check save. A creature that fails its save is also bound with sticky gum, taking a –10-foot item penalty to its Speed for 1 minute. The creature can remove the gum with a total of 3 Interact actions. These actions don't have to be consecutive, and other creatures can provide the actions as well.
 
 [[Equipment Effects/Effect_ Crackling Bubble Gum (Failure)|Effect: Crackling Bubble Gum (Failure)]]
 

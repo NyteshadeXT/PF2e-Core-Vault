@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/undead
   - pf2e/creature/type/unholy
+  - pf2eMonster
   - pf2e/creature/level/10
 statblock: inline
 name: "Herecite of Zevgavizeb"
@@ -23,13 +24,13 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #153: Life&#x27;s Long Shadows"
 name: "Herecite of Zevgavizeb"
 level: "Creature 10"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Medium"
-trait_01: "chaotic"
-trait_02: "evil"
-trait_03: "undead"
-trait_04: "unholy"
+trait_01: [[chaotic]]
+trait_02: [[evil]]
+trait_03: [[undead]]
+trait_04: [[unholy]]
 modifier: 20
 perception:
   - name: "Perception"
@@ -63,7 +64,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Perverse Prayer"
-    desc: "`pf2:r` (auditory,divine) **Trigger** A creature within 30 feet uses the Sustain a Spell action to sustain a divine spell or the Cast a Spell action to cast a divine spell with a verbal component\n**Effect** The herecite warps the caster's prayers into a sacrilegious echo praising the evils of its own deity. The triggering caster must succeed at a DC 29 Will check saving throw or their spell is disrupted and their action wasted."
+    desc: "`pf2:r` (auditory,divine) **Trigger** A creature within 30 feet uses the Sustain a Spell action to sustain a divine spell or the Cast a Spell action to cast a divine spell with a verbal component\n* * *\n\n**Effect** The herecite warps the caster's prayers into a sacrilegious echo praising the evils of its own deity. The triggering caster must succeed at a DC 29 Will check saving throw or their spell is disrupted and their action wasted."
 
 attacks:
   - name: ""
@@ -81,14 +82,20 @@ attacks:
     desc: "_[[Spells/Consecrate|Consecrate]]_"
 
   - name: "Assault the Soul"
-    desc: "`pf2:3` (concentrate,divine) **Requirements** The herecite is in a cabal of three or more members, two of which are within 60 feet and have used Cabal Communion within the last round\n**Effect** The herecite casts [[Spells/Seize Soul|Seize Soul]], [[Spells/Spirit Blast|Spirit Blast]], or [[Spells/Spiritual Epidemic|Spiritual Epidemic]] (DC 31). Once a herecite has used this ability (whether or not it was successful), the cabal must wait 24 hours before one of its members can use Assault the Soul again."
+    desc: "`pf2:3` (concentrate,divine) **Requirements** The herecite is in a cabal of three or more members, two of which are within 60 feet and have used Cabal Communion within the last round\n* * *\n\n**Effect** The herecite casts [[Spells/Seize Soul|Seize Soul]], [[Spells/Spirit Blast|Spirit Blast]], or [[Spells/Spiritual Epidemic|Spiritual Epidemic]] (DC 31). Once a herecite has used this ability (whether or not it was successful), the cabal must wait 24 hours before one of its members can use Assault the Soul again."
 
   - name: "Cabal Communion"
     desc: "`pf2:2` (auditory,concentrate) With murmurs and chants, the herecite casts its consciousness toward the other members of its cabal. For 1 round, it senses what other members are sensing, knows their thoughts, and knows their exact location."
 
   - name: "Curse of Defiled Idols"
-    desc: "`pf2:2` (curse,divine) Recalling the cruelty of the foul ritual that birthed it, the herecite curses an enemy with a fragment of its blasphemy. The herecite targets one creature within 30 feet, which must attempt a DC 29 Will check save. On a failure, the creature is cursed. As long as the creature is cursed, any art object, symbol, or implement of religious significance in the creature's possession-such as a divine spellcasting focus, holy text, fetish, or rendering of a deity-becomes physically corrupted in a way that debases the deity's tenets (a depiction of Shelyn's songbird, for example, might lose its beautiful plumage to reveal a hideous skeletal form beneath). While these items continue to function normally, the cursed creature is [[Conditions/Stupefied 1|Stupified 2]] as long as it possesses an object corrupted in this fashion. The creature can cast off its corrupted objects to remove the stupefied condition, but any new religious objects it takes into its possession become similarly corrupted. The curse can be lifted by a remove curse spell or by an atone ritual. After a creature is targeted with this ability, regardless of whether it was affected, it becomes immune to herecites' Curse of Defiled Idols for 1 day."
+    desc: "`pf2:2` (curse,divine) Recalling the cruelty of the foul ritual that birthed it, the herecite curses an enemy with a fragment of its blasphemy. The herecite targets one creature within 30 feet, which must attempt a DC 29 Will check save. On a failure, the creature is cursed. As long as the creature is cursed, any art object, symbol, or implement of religious significance in the creature's possession-such as a divine spellcasting focus, holy text, fetish, or rendering of a deity-becomes physically corrupted in a way that debases the deity's tenets (a depiction of Shelyn's songbird, for example, might lose its beautiful plumage to reveal a hideous skeletal form beneath). While these items continue to function normally, the cursed creature is [[Conditions/Stupefied|Stupified 2]] as long as it possesses an object corrupted in this fashion. The creature can cast off its corrupted objects to remove the stupefied condition, but any new religious objects it takes into its possession become similarly corrupted. The curse can be lifted by a remove curse spell or by an atone ritual. After a creature is targeted with this ability, regardless of whether it was affected, it becomes immune to herecites' Curse of Defiled Idols for 1 day."
  
+```
+
+```encounter-table
+name: Herecite of Zevgavizeb
+creatures:
+  - 1: Herecite of Zevgavizeb
 ```
 
 

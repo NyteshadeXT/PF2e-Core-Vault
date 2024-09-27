@@ -29,6 +29,7 @@ tags:
   
 
 **Table: Victory Point Scales**
+ 
 | **Duration of Challenge** | **VP End Point** | **VP Thresholds** |
 | --- | --- | --- |
 | Quick encounter | 3-5 | \- |
@@ -47,11 +48,11 @@ Victory Points (or VP) are a powerful tool in your GM arsenal, as they allow you
 > 
 > In addition to giving both the PCs and enemies Victory Points, as mentioned on page 149, sometimes it makes more sense to have only the enemies gain or lose Victory Points instead of the PCs. Even though the NPCs are also taking actions, it's usually best to increase or reduce the enemy's Victory Points based on just the PCs' actions, since it maximizes the feeling of player agency. In some rare cases where the foes act directly against the PCs, you might have both PC and foe actions increase the foe's Victory Points.
 > 
-> Implementing such a subsystem might mean flipping the normal rolls. For instance, if the PCs were trying to lower their enemies' Influence over a faction, a critical success by a PC would lower the Influence by 2, a success would lower the Influence by 1, and a critical failure might give the enemies something to exploit, raising their Influence by 1. This uses the same effects as an accumulating roll, but “damages” the enemies' VP instead of gaining VP for the PCs' side. While this is very similar mechanically to the PCs gaining VP, the thematic connection is much stronger for an intrigue-based story.
+> Implementing such a subsystem might mean flipping the normal rolls. For instance, if the PCs were trying to lower their enemies' Influence over a faction, a critical success by a PC would lower the Influence by 2, a success would lower the Influence by 1, and a critical failure might give the enemies something to exploit, raising their Influence by 1. This uses the same effects as an accumulating roll, but "damages" the enemies' VP instead of gaining VP for the PCs' side. While this is very similar mechanically to the PCs gaining VP, the thematic connection is much stronger for an intrigue-based story.
 
 ## Naming Your Victory Points
 
-It can be fun to rename your Victory Points, to better reflect the subsystem they track. The term “Victory Points” is unspecific, so you can create a name for your Victory Points that fits the theme of your adventure and helps the players feel more like they are taking part in the type of activity your subsystem represents. Examples of renamed VPs include Influence Points (page 151), Infiltration Points (page 160), Research Points (page 154), and Reputation Points (page 164). The name should be representative, and the PCs should understand what it refers to. You can leave off the word “Points” if you prefer, though this section often retains it while describing how Victory Points can be used.
+It can be fun to rename your Victory Points, to better reflect the subsystem they track. The term "Victory Points" is unspecific, so you can create a name for your Victory Points that fits the theme of your adventure and helps the players feel more like they are taking part in the type of activity your subsystem represents. Examples of renamed VPs include Influence Points (page 151), Infiltration Points (page 160), Research Points (page 154), and Reputation Points (page 164). The name should be representative, and the PCs should understand what it refers to. You can leave off the word "Points" if you prefer, though this section often retains it while describing how Victory Points can be used.
 
 ## Victory Point Subsystem Structure
 
@@ -107,15 +108,16 @@ Think of some possibilities that are much easier and some that are harder. Who a
 
 ## Setting Your Scale
 
-The number of points it takes to reach a goal will greatly affect how your subsystem feels during play. If you want the subsystem to be used for a single scene, such as one negotiation with a powerful NPC, set the number lower than if it's meant to take up most or all of a game session. The Table 3-1 (page 150) suggests possible values for your Victory Point scale. The “adventure-wide” scale is for subsystems that are part of a larger narrative, granting Victory Points when the PCs overcome entire encounters or dungeons, rather than as an encounter unfolds.
+The number of points it takes to reach a goal will greatly affect how your subsystem feels during play. If you want the subsystem to be used for a single scene, such as one negotiation with a powerful NPC, set the number lower than if it's meant to take up most or all of a game session. The Table 3-1 (page 150) suggests possible values for your Victory Point scale. The "adventure-wide" scale is for subsystems that are part of a larger narrative, granting Victory Points when the PCs overcome entire encounters or dungeons, rather than as an encounter unfolds.
 
-This larger scale is intended for subsystems that take a lot of the party's focus. A subsystem that runs in the background during an adventure should use a smaller scale. This is usually the “adventure-wide, sideline” value. It could be even lower, such as if you have a dungeon-based adventure including several opportunities to interact with a kobold tribe to get some small benefits. Though they appear throughout the adventure, you would use a lower value because attaining the VP is a minor part of the story. In fact, you might choose not to use a VP subsystem at all.
+This larger scale is intended for subsystems that take a lot of the party's focus. A subsystem that runs in the background during an adventure should use a smaller scale. This is usually the "adventure-wide, sideline" value. It could be even lower, such as if you have a dungeon-based adventure including several opportunities to interact with a kobold tribe to get some small benefits. Though they appear throughout the adventure, you would use a lower value because attaining the VP is a minor part of the story. In fact, you might choose not to use a VP subsystem at all.
 
 The table also lists numbers for one or more thresholds. These are the point values at which the PCs get a partial benefit (or, for a diminishing subsystem, take a drawback). You should grant partial benefits when the PCs reach a certain threshold or introduce twists to the subsystem to ensure they continue to feel engaged and rewarded over time.
 
   
 
 **Table: Victory Point Scales**
+ 
 | **Duration of Challenge** | **VP End Point** | **VP Thresholds** |
 | --- | --- | --- |
 | Quick encounter | 3-5 | \- |
@@ -134,4 +136,4 @@ You can even have challenges that require all the PCs to participate. For instan
 
 ## Rewards
 
-How you structure rewards for your subsystem depends greatly on its scope. A subsystem resolved in a single sitting usually gives accomplishment XP unless it is particularly demanding, in which case it could be considered a full-scale encounter. Meanwhile, subsystems that span over the course of multiple sessions or the entire campaign might generate accomplishment XP at meaningful milestones along the way. If you have a long-spanning subsystem that's fairly low profile and behind the scenes or is not success-oriented, such as a subsystem to track what type of ruler the PCs' patron will become based on the PCs' decisions, you might not give XP directly from the subsystem, since in that case “success” is undefined.
+How you structure rewards for your subsystem depends greatly on its scope. A subsystem resolved in a single sitting usually gives accomplishment XP unless it is particularly demanding, in which case it could be considered a full-scale encounter. Meanwhile, subsystems that span over the course of multiple sessions or the entire campaign might generate accomplishment XP at meaningful milestones along the way. If you have a long-spanning subsystem that's fairly low profile and behind the scenes or is not success-oriented, such as a subsystem to track what type of ruler the PCs' patron will become based on the PCs' decisions, you might not give XP directly from the subsystem, since in that case "success" is undefined.

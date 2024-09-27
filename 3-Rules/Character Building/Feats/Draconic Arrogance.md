@@ -7,8 +7,9 @@ tags:
   - trait/rage
   - trait/common
   - category/class
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.EOmTf95t03y4IGdp"
-license: OGL
+license: ORC
 ---
 # Draconic Arrogance
 ## Feat 1
@@ -22,5 +23,5 @@ license: OGL
 * * *
 Few can sway you from your goals while the fury of combat fills you. While raging, you gain a +2 status bonus to saving throws against emotion effects.
 
-*Source: Pathfinder Advanced Player's Guide*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

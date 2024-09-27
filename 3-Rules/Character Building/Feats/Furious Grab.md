@@ -7,8 +7,9 @@ tags:
   - trait/rage
   - trait/common
   - category/class
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.7HPXQvPH3ovwtVae"
-license: OGL
+license: ORC
 ---
 # Furious Grab `pf2:1`
 ## Feat 12
@@ -25,5 +26,5 @@ license: OGL
 
 You grab your foe while it's distracted by your attack. The foe you hit becomes [[Conditions/Grabbed|Grabbed]], as if you had succeeded at an Athletics check to [[Actions/Grapple|Grapple]] the foe.
 
-*Source: Pathfinder Core Rulebook*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

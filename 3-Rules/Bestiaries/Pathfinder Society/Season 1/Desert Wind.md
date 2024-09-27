@@ -6,6 +6,7 @@ cssClasses: pf2e
 aliases: "Compendium.pf2e.pfs-season-1-bestiary.Actor.RS04fRQEWzk2aZOx" 
 tags:
   - pf2e/creature/type/animal
+  - pf2eMonster
   - pf2e/creature/level/1
 statblock: inline
 name: "Desert Wind"
@@ -20,14 +21,15 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Society Scenario #1-03: Escaping the Grave"
 name: "Desert Wind"
 level: "Creature 1"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Large"
-trait_01: "animal"
+trait_01: [[animal]]
 modifier: 5
 perception:
   - name: "Perception"
     desc: "+5; Low-Light Vision, Scent (Imprecise) 30 Feet"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Acrobatics: +6, Athletics: +7, Survival: +5"
@@ -58,6 +60,12 @@ attacks:
   - name: "Gallop"
     desc: "`pf2:2`  Desert Wind Strides twice. He has a +10-foot circumstance bonus to his Speed during these Strides."
  
+```
+
+```encounter-table
+name: Desert Wind
+creatures:
+  - 1: Desert Wind
 ```
 
 

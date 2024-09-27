@@ -6,8 +6,9 @@ tags:
   - trait/investigator
   - trait/common
   - category/class
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.264KzmKMK4zqi6AR"
-license: OGL
+license: ORC
 ---
 # Clue Them All In
 ## Feat 8
@@ -18,7 +19,7 @@ license: OGL
 
 
 
-You can clue in all your allies at once. When you use the [[Actions/Clue In|Clue In]] reaction, any of your allies who are attempting the same check to investigate a lead receive the circumstance bonus from Clue In. If you use this ability during an encounter, they must attempt their check within 1 round of when you Clued them In.
+You can clue in all your allies at once. When you use the Clue In reaction, any of your allies who are attempting the same check to investigate one of your active investigations receive the circumstance bonus from Clue In. If you use this ability during an encounter, they must attempt their check within 1 round of when you Clued them In.
 
-*Source: Pathfinder Advanced Player's Guide*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

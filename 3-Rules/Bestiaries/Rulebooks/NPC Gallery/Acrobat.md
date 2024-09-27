@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.npc-gallery.Actor.Tj03FbN4SSr0o953"
 tags:
   - pf2e/creature/type/human
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/2
 statblock: inline
 name: "Acrobat"
@@ -24,8 +25,8 @@ level: "Creature 2"
 
 alignment: ""
 size: "Medium"
-trait_01: "human"
-trait_02: "humanoid"
+trait_01: [[human]]
+trait_02: [[humanoid]]
 modifier: 6
 perception:
   - name: "Perception"
@@ -33,7 +34,7 @@ perception:
 languages: "Common"
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +15, Athletics: +8, Circus Lore: +5, Deception: +5, Performance: +9, Stealth: +8"
+    desc: "Acrobatics: +15, Athletics: +8, Deception: +5, Performance: +9, Stealth: +8, Circus Lore: +5"
 abilityMods: [2, 4, 2, 1, 0, 1]
 speed: 30 feet
 sourcebook: "_Pathfinder Gamemastery Guide_"
@@ -51,7 +52,7 @@ abilities_top:
   - name: "Items"
     desc: "5x [[Equipment/Dagger|Dagger]], [[Equipment/Climbing Kit|Climbing Kit]], [[Equipment/Rope|Rope]]"
   - name: "Steady Balance"
-    desc: "  When the acrobat rolls a success on an Acrobatics check, they get a critical success instead.\nThey aren't [[Conditions/Off-Guard|Off-Guard]] when attempting to [[Actions/Balance|Balance]] and can attempt an Acrobatics check instead of a Reflex save to [[Actions/Grab an Edge|Grab an Edge]]."
+    desc: "  When the acrobat rolls a success on an Acrobatics check, they get a critical success instead.\n\nThey aren't [[Conditions/Off-Guard|Off-Guard]] when attempting to [[Actions/Balance|Balance]] and can attempt an Acrobatics check instead of a Reflex save to [[Actions/Grab an Edge|Grab an Edge]]."
 
 abilities_mid:
   - name: ""
@@ -59,7 +60,7 @@ abilities_mid:
     desc: "  The acrobat treats all falls as 50 feet shorter."
 
   - name: "Nimble Dodge"
-    desc: "`pf2:r`  **Trigger** The acrobat is targeted with a melee or ranged attack by an attacker they can see\n**Effect** The acrobat gains a +2 circumstance bonus to AC against the triggering attack."
+    desc: "`pf2:r`  **Trigger** The acrobat is targeted with a melee or ranged attack by an attacker they can see\n* * *\n\n**Effect** The acrobat gains a +2 circumstance bonus to AC against the triggering attack."
 
 attacks:
   - name: ""
@@ -79,6 +80,12 @@ attacks:
   - name: "Swinging Strike"
     desc: "`pf2:2`  The acrobat swings on a rope or trapeze, moving up to double their Speed. At any point during the swing, they can make a melee Strike."
  
+```
+
+```encounter-table
+name: Acrobat
+creatures:
+  - 1: Acrobat
 ```
 
 

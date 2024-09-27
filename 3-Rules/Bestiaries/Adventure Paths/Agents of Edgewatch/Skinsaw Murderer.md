@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/human
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/6
 statblock: inline
 name: "Skinsaw Murderer"
@@ -23,13 +24,13 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #158: Sixty Feet Under"
 name: "Skinsaw Murderer"
 level: "Creature 6"
-rare_03: "Rare"
+rare_03: [[Rare]]
 alignment: ""
 size: "Medium"
-trait_01: "chaotic"
-trait_02: "evil"
-trait_03: "human"
-trait_04: "humanoid"
+trait_01: [[chaotic]]
+trait_02: [[evil]]
+trait_03: [[human]]
+trait_04: [[humanoid]]
 modifier: 17
 perception:
   - name: "Perception"
@@ -72,8 +73,14 @@ attacks:
     desc: "  When attacking an [[Conditions/Off-Guard|Off-Guard]] creature, the Skinsaw murderer deals 1d6 additional precision damage."
 
   - name: "Twin Takedown"
-    desc: "`pf2:1` (flourish) **Frequency** once per round\n**Requirement** You are wielding two melee weapons, each in a different hand.\n**Effect** You swiftly attack your hunted prey with both weapons. Make two Strikes against a creature, one with each of the required weapons. If both hit the same creature, combine their damage for the purpose of its resistances and weaknesses. Apply your multiple attack penalty to each Strike normally."
+    desc: "`pf2:1` (flourish) **Frequency** once per round\n\n**Requirement** You are wielding two melee weapons, each in a different hand.\n* * *\n\n**Effect** You swiftly attack your hunted prey with both weapons. Make two Strikes against a creature, one with each of the required weapons. If both hit the same creature, combine their damage for the purpose of its resistances and weaknesses. Apply your multiple attack penalty to each Strike normally."
  
+```
+
+```encounter-table
+name: Skinsaw Murderer
+creatures:
+  - 1: Skinsaw Murderer
 ```
 
 

@@ -4,8 +4,9 @@ title: "Achaekek - Major Curse"
 cssclasses: pf2e,pf2e-action
 tags:
   - trait/common
+  - remaster
 aliases: "Compendium.pf2e.boons-and-curses.Item.GJdHcY56q2c3kSiA"
-license: OGL
+license: ORC
 ---
 # Achaekek - Major Curse
 
@@ -16,7 +17,7 @@ license: OGL
 
 
 
-**Major Curse:** The Mantis God doesn't waste his time toying with or tormenting those who truly anger him, or those who dare to consider themselves divine. He rips open a portal to your location, kills you, drags your soul to judgment in a way that prevents resurrection magic, and then leaves.
+The Mantis God doesn't waste his time toying with or tormenting those who truly anger him or those who dare to consider themselves divine. He rips open a portal to your location, kills you, drags your soul to judgment in a way that prevents resurrection magic, and then leaves.
 
-*Source: Pathfinder Lost Omens: Gods & Magic*
-*OGL*
+*Source: Pathfinder Adventure: Prey for Death*
+*ORC*

@@ -7,8 +7,9 @@ tags:
   - trait/fortune
   - trait/common
   - category/class
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.dmXd68ilbuGR6eUP"
-license: OGL
+license: ORC
 ---
 # Archaeologist's Luck
 ## Feat 8
@@ -28,5 +29,5 @@ license: OGL
 
 You are more than just skillful; your drive to find the secrets of the past manifests as a strange kind of luck. Reroll the failed check and use the new result.
 
-*Source: Pathfinder Advanced Player's Guide*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

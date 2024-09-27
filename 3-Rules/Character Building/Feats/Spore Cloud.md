@@ -22,7 +22,7 @@ license: OGL
 
 * * *
 
-You unleash a cloud of pollen or similar spores. All creatures in a 10-foot emanation around you must attempt a Fortitude check save using your class DC or spell DC (whichever is higher) with the following results. Plants and fungi are immune to this effect.
+You unleash a cloud of pollen or similar spores. All creatures in a @Template\[emanation|distance:10\] around you must attempt a Fortitude check save using your class DC or spell DC (whichever is higher) with the following results. Plants and fungi are immune to this effect.
 
 * * *
 

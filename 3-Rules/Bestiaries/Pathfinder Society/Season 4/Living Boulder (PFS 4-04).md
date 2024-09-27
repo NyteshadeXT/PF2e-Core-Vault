@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.pfs-season-4-bestiary.Actor.mbTq6K9uYYIVbwDL"
 tags:
   - pf2e/creature/type/earth
   - pf2e/creature/type/elemental
+  - pf2eMonster
   - pf2e/creature/level/2
 statblock: inline
 name: "Living Boulder (PFS 4-04)"
@@ -24,15 +25,16 @@ level: "Creature 2"
 
 alignment: ""
 size: "Small"
-trait_01: "earth"
-trait_02: "elemental"
+trait_01: [[earth]]
+trait_02: [[elemental]]
 modifier: 6
 perception:
   - name: "Perception"
     desc: "+6; Darkvision, Tremorsense (Imprecise) 30 Feet"
+languages: ""
 skills:
   - name: "Skills"
-    desc: "Athletics: +8, Stealth: +5 (+7 in rocky areas)"
+    desc: "Athletics: +8, Stealth: +5"
 abilityMods: [4, -1, 4, -4, 2, -1]
 speed: 20 feet,  burrow 20 feet
 sourcebook: "_Pathfinder Society Scenario #4-04: To Seek the Heart of Calamity_"
@@ -62,6 +64,12 @@ attacks:
   - name: "Rolling Charge"
     desc: "`pf2:2`  The living boulder Strides twice, and can then make a Strike with its jaws. This jaws Strike gains [[Bestiary Ability Glossary/Knockdown|Knockdown]]."
  
+```
+
+```encounter-table
+name: Living Boulder (PFS 4-04)
+creatures:
+  - 1: Living Boulder (PFS 4-04)
 ```
 
 

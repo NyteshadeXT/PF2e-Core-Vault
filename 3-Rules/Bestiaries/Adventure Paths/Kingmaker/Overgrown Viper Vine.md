@@ -6,6 +6,7 @@ cssClasses: pf2e
 aliases: "Compendium.pf2e.kingmaker-bestiary.Actor.w8jUzPPGLQECT4j7" 
 tags:
   - pf2e/creature/type/plant
+  - pf2eMonster
   - pf2e/creature/level/14
 statblock: inline
 name: "Overgrown Viper Vine"
@@ -20,14 +21,15 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Kingmaker"
 name: "Overgrown Viper Vine"
 level: "Creature 14"
-rare_03: "Rare"
+rare_03: [[Rare]]
 alignment: ""
 size: "Large"
-trait_01: "plant"
+trait_01: [[plant]]
 modifier: 24
 perception:
   - name: "Perception"
     desc: "+24; Low-Light Vision, Tremorsense (Precise) 7 Feet"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Athletics: +29, Stealth: +26"
@@ -49,7 +51,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Cold Vulnerability"
-    desc: " (cold) When exposed to a cold effect, the viper vine is overwhelmed by lethargy, becoming [[Conditions/Slowed 1|Slowed 1]] for 1d4 rounds."
+    desc: " (cold) When exposed to a cold effect, the viper vine is overwhelmed by lethargy, becoming [[Conditions/Slowed|Slowed 1]] for 1d4 rounds."
 
 attacks:
   - name: ""
@@ -61,17 +63,23 @@ attacks:
     desc: "`pf2:1` Vine +29 (agile, reach 15 feet)\n__Damage__  3d10 + 13 bludgeoning plus grab"
 
   - name: "Captivating Pollen"
-    desc: "`pf2:1` (incapacitation,mental,poison) The viper vine releases a 60-foot emanation of invisible pollen that stays in the air for 5 rounds unless dispersed by a moderate or stronger wind. Each creature that enters or starts its turn in the area must attempt a DC 33 Will check save or be captivated.\nThe viper vine can't use Captivating Pollen for 1d4 rounds.\n**Critical Success** The creature is unaffected and is temporarily immune to Captivating Pollen for 24 hours.\n**Success** The creature is [[Conditions/Sickened 1|Sickened 1]].\n**Failure** The creature is [[Conditions/Fascinated|Fascinated]], and it must spend each of its actions to move closer to the viper vine as expediently as possible while avoiding obvious dangers. If a captivated creature is adjacent to the viper vine, it stays still and doesn't act. It ceases to be fascinated if it's no longer in the pollen aura at the end of its turn.\n**Critical Failure** As failure, plus the creature is [[Conditions/Stupefied 1|Stupefied 2]] for 24 hours."
+    desc: "`pf2:1` (incapacitation,mental,poison) The viper vine releases a @Template[emanation|distance:60] of invisible pollen that stays in the air for 5 rounds unless dispersed by a moderate or stronger wind. Each creature that enters or starts its turn in the area must attempt a DC 33 Will check save or be captivated.\n\nThe viper vine can't use Captivating Pollen for 1d4 rounds.\n* * *\n\n**Critical Success** The creature is unaffected and is temporarily immune to Captivating Pollen for 24 hours.\n\n**Success** The creature is [[Conditions/Sickened|Sickened 1]].\n\n**Failure** The creature is [[Conditions/Fascinated|Fascinated]], and it must spend each of its actions to move closer to the viper vine as expediently as possible while avoiding obvious dangers. If a captivated creature is adjacent to the viper vine, it stays still and doesn't act. It ceases to be fascinated if it's no longer in the pollen aura at the end of its turn.\n\n**Critical Failure** As failure, plus the creature is [[Conditions/Stupefied|Stupefied 2]] for 24 hours."
 
   - name: "[[Bestiary Ability Glossary/Constrict|Constrict]]"
-    desc: "`pf2:1`  3d8 + 8 bludgeoning damage, DC 35 Fortitude check\n"
+    desc: "`pf2:1`  3d8+8 bludgeoning damage, DC 35 Fortitude check\n\n* * *\n"
 
   - name: "Grasping Roots"
-    desc: "`pf2:r`  **Trigger** a creature attempts a Move action in area **A7**\n**Requirements** the overgrown viper vine is in area **A7**\n**Effect** The viper vine manipulates its roots to cause foliage around the triggering creature to suddenly seem to spring to life. The triggering creature must attempt a DC 35 Reflex check saving throw.\n**Critical Success** The target is unaffected.\n**Success** The target treats the first square of its movement as difficult terrain.\n**Failure** The target becomes [[Conditions/Immobilized|Immobilized]] by the foliage, (escape DC 35).\n**Critical Failure** As failure but the target also falls [[Conditions/Prone|Prone]]."
+    desc: "`pf2:r`  **Trigger** a creature attempts a Move action in area **A7**\n\n**Requirements** the overgrown viper vine is in area **A7**\n* * *\n\n**Effect** The viper vine manipulates its roots to cause foliage around the triggering creature to suddenly seem to spring to life. The triggering creature must attempt a DC 35 Reflex check saving throw.\n* * *\n\n**Critical Success** The target is unaffected.\n\n**Success** The target treats the first square of its movement as difficult terrain.\n\n**Failure** The target becomes [[Conditions/Immobilized|Immobilized]] by the foliage, (escape DC 35).\n\n**Critical Failure** As failure but the target also falls [[Conditions/Prone|Prone]]."
 
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
     desc: "`pf2:1`  "
  
+```
+
+```encounter-table
+name: Overgrown Viper Vine
+creatures:
+  - 1: Overgrown Viper Vine
 ```
 
 

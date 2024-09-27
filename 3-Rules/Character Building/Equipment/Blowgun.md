@@ -14,7 +14,7 @@ license: ORC
 ---
 # Blowgun
 ## Item 0
-### [[agile]][[nonlethal]]
+### [[3-Rules/Rule References/Agile]][[nonlethal]]
 
 |  |  |
 | -- | -- |

@@ -8,19 +8,19 @@ tags:
 ---
 # Crushed Toe
 
-> Normal damage. The target is [[Conditions/Clumsy 1|Clumsy 2]] and takes a [[Other Effects/Effect\_ -10-foot status penalty to your land Speed|-10-foot status penalty to your land Speed]]. Both effects last until healed.
+> Normal damage. The target is [[Conditions/Clumsy|Clumsy 2]] and takes a [[Other Effects/Effect_ -10-foot status penalty to your land Speed|-10-foot status penalty to your land Speed]]. Both effects last until healed.
 
 `Bludgeoning`
 
 # Stinger
 
-> Normal damage. The target is [[Conditions/Sickened 1|Sickened 3]].
+> Normal damage. The target is [[Conditions/Sickened|Sickened 3]].
 
 `Piercing`
 
 # Missing Digits
 
-> Normal damage. **Crit Effect:** The target loses 1d4 fingers on one hand and becomes [[Conditions/Clumsy 1|Clumsy 1]] until subject to a [[Spells/Regenerate|Regenerate]] spell or similar effect.
+> Normal damage. **Crit Effect:** The target loses 1d4 fingers on one hand and becomes [[Conditions/Clumsy|Clumsy 1]] until subject to a [[Spells/Regenerate|Regenerate]] spell or similar effect.
 
 `Slashing`
 

@@ -10,6 +10,7 @@ tags:
   - pf2e/creature/type/fiend
   - pf2e/creature/type/lawful
   - pf2e/creature/type/unholy
+  - pf2eMonster
   - pf2e/creature/level/6
 statblock: inline
 name: "The Ascendant (3-4)"
@@ -24,19 +25,19 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Society Scenario #1-13: Devil at the Crossroads"
 name: "The Ascendant (3-4)"
 level: "Creature 6"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Small"
-trait_01: "devil"
-trait_02: "evil"
-trait_03: "fiend"
-trait_04: "lawful"
-trait_05: "unholy"
+trait_01: [[devil]]
+trait_02: [[evil]]
+trait_03: [[fiend]]
+trait_04: [[lawful]]
+trait_05: [[unholy]]
 modifier: 17
 perception:
   - name: "Perception"
     desc: "+17; Greater Darkvision, Truesight"
-languages: "Common, Diabolic"
+languages: "Common, Diabolic; telepathy 30 feet"
 skills:
   - name: "Skills"
     desc: "Arcana: +11, Deception: +18, Intimidation: +13, Occultism: +15, Religion: +15, Stealth: +11"
@@ -79,6 +80,12 @@ attacks:
   - name: "Furious Wings"
     desc: "`pf2:2`  The ascendant beats their wings in a frenzied motion, creating a powerful blast of wind that disperses fog and gases and blows objects of light Bulk or less away. All creatures within 20 feet of the ascendant must succeed at a DC 24 Reflex check save or be pushed 5 feet away from the ascendant, or 10 feet on a critical failure. A flying creature that fails its save gets a critical failure instead."
  
+```
+
+```encounter-table
+name: The Ascendant (3-4)
+creatures:
+  - 1: The Ascendant (3-4)
 ```
 
 

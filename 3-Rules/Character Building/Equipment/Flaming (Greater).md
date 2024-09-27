@@ -12,7 +12,7 @@ license: ORC
 ---
 # Flaming (Greater)
 ## Item 15
-### [[3-Rules/Rule References/Fire]][[magical]]
+### [[3-Rules/Rule References/Fire]][[3-Rules/Rule References/Magical]]
 
 
 **Price** 6500 gp; 

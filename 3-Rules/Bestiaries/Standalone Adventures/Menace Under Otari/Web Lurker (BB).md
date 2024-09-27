@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.menace-under-otari-bestiary.Actor.ZMr28tFTA5NUcBTi"
 tags:
   - pf2e/creature/type/aberration
   - pf2e/creature/type/evil
+  - pf2eMonster
   - pf2e/creature/level/3
 statblock: inline
 name: "Web Lurker (BB)"
@@ -24,12 +25,13 @@ level: "Creature 3"
 
 alignment: ""
 size: "Medium"
-trait_01: "aberration"
-trait_02: "evil"
+trait_01: [[aberration]]
+trait_02: [[evil]]
 modifier: 10
 perception:
   - name: "Perception"
     desc: "+10; Darkvision"
+languages: "spider speak"
 skills:
   - name: "Skills"
     desc: "Acrobatics: +9, Athletics: +9, Crafting: +8, Stealth: +11"
@@ -71,6 +73,12 @@ attacks:
   - name: "Web Trap"
     desc: "  A creature hit by the web lurker's web attack gets stuck to the nearest surface. It can't move until it successfully [[Actions/Escape|Escapes]] (DC 20)."
  
+```
+
+```encounter-table
+name: Web Lurker (BB)
+creatures:
+  - 1: Web Lurker (BB)
 ```
 
 

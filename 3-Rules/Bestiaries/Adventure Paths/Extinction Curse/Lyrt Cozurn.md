@@ -10,6 +10,7 @@ tags:
   - pf2e/creature/type/spirit
   - pf2e/creature/type/undead
   - pf2e/creature/type/unholy
+  - pf2eMonster
   - pf2e/creature/level/15
 statblock: inline
 name: "Lyrt Cozurn"
@@ -24,19 +25,19 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #154: Siege of the Dinosaurs"
 name: "Lyrt Cozurn"
 level: "Creature 15"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Medium"
-trait_01: "evil"
-trait_02: "incorporeal"
-trait_03: "spirit"
-trait_04: "undead"
-trait_05: "unholy"
+trait_01: [[evil]]
+trait_02: [[incorporeal]]
+trait_03: [[spirit]]
+trait_04: [[undead]]
+trait_05: [[unholy]]
 modifier: 27
 perception:
   - name: "Perception"
     desc: "+27; Darkvision"
-languages: "Aklo, Chthonian, Common"
+languages: "Aklo, Chthonian, Common; telepathy 100 feet"
 skills:
   - name: "Skills"
     desc: "Acrobatics: +28, Deception: +31, Diplomacy: +27, Intimidation: +29, Stealth: +28"
@@ -58,7 +59,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "[[Bestiary Ability Glossary/Frightful Presence|Frightful Presence]]"
-    desc: " (aura,divine,emotion,fear,mental) 30 feet. DC 33 Will check\n"
+    desc: " (aura,divine,emotion,fear,mental) 30 feet. DC 33 Will check\n\n* * *\n"
 
 attacks:
   - name: ""
@@ -70,11 +71,17 @@ attacks:
     desc: "DC 35, attack +31; __6th __  _[[Spells/Dominate|Dominate]]_, _[[Spells/Never Mind|Feeblemind]]_, _[[Spells/Telekinetic Maneuver|Telekinetic Maneuver (At Will)]]_; __5th __  _[[Spells/Chilling Darkness|Chilling Darkness (x2)]]_, _[[Spells/Fear|Fear]]_; __4th __  _[[Spells/Rewrite Memory|Modify Memory]]_; __3rd __  _[[Spells/Fear|Fear (At Will)]]_\n__Cantrips__  __(6th)__ _[[Spells/Telekinetic Projectile|Telekinetic Projectile]]_"
 
   - name: "[[Creature Family Ability Glossary/(Ghost) Inhabit Object|Inhabit Object]]"
-    desc: "`pf2:1` (occult,possession) Lyrt possesses an object of size Large or smaller within 20 feet, making it an animated object. This animated object's level can be no higher than Lyrt's level -2. If the target object is being held by a creature, the bearer can attempt a DC 34 Will check save to prevent the possession.\nThis possession ends when the object is destroyed or Lyrt leaves it. At this point, Lyrt reappears in the object's square and can't Inhabit an Object again for 1d4 rounds.\n_Note: A DC was not provided for this ability by Paizo. The DC present here is a moderate DC for the creature level according to the Gamemastery Guide creature building Tables._"
+    desc: "`pf2:1` (occult,possession) Lyrt possesses an object of size Large or smaller within 20 feet, making it an animated object. This animated object's level can be no higher than Lyrt's level -2. If the target object is being held by a creature, the bearer can attempt a DC 34 Will check save to prevent the possession.\n\nThis possession ends when the object is destroyed or Lyrt leaves it. At this point, Lyrt reappears in the object's square and can't Inhabit an Object again for 1d4 rounds.\n\n_Note: A DC was not provided for this ability by Paizo. The DC present here is a moderate DC for the creature level according to the Gamemastery Guide creature building Tables._"
 
   - name: "[[Creature Family Ability Glossary/(Ghost) Malevolent Possession|Malevolent Possession]]"
-    desc: "`pf2:2` (incapacitation,mental,occult,possession) Lyrt attempts to possess an adjacent corporeal creature. This has the same effect as the [[Spells/Possession|Possession]] spell with an unlimited duration, except since Lyrt doesn't have a physical body, it is unaffected by that restriction.\nWhen Lyrt departs, the target has only confused and incoherent memories of the period during which they were possessed. If a creature dies while possessed by Lyrt and its corpse remains intact, Lyrt can immediately inhabit the corpse (see Inhabit Body) as a reaction, in which case the corpse acts like an animated object."
+    desc: "`pf2:2` (incapacitation,mental,occult,possession) Lyrt attempts to possess an adjacent corporeal creature. This has the same effect as the [[Spells/Possession|Possession]] spell with an unlimited duration, except since Lyrt doesn't have a physical body, it is unaffected by that restriction.\n\nWhen Lyrt departs, the target has only confused and incoherent memories of the period during which they were possessed. If a creature dies while possessed by Lyrt and its corpse remains intact, Lyrt can immediately inhabit the corpse (see Inhabit Body) as a reaction, in which case the corpse acts like an animated object."
  
+```
+
+```encounter-table
+name: Lyrt Cozurn
+creatures:
+  - 1: Lyrt Cozurn
 ```
 
 

@@ -12,7 +12,7 @@ license: OGL
 ---
 # Bagpipes of Turmoil (Major)
 ## Item 12
-### [[coda]][[occult]][[staff]]
+### [[coda]][[3-Rules/Rule References/Occult]][[3-Rules/Character Building/Equipment/Staff]]
 
 
 **Price** 1900 gp; 

@@ -10,6 +10,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/giant
   - pf2e/creature/type/troll
+  - pf2eMonster
   - pf2e/creature/level/6
 statblock: inline
 name: "Cavern Troll"
@@ -25,14 +26,14 @@ token: [[modules/pf2e-tokens-bestiaries/portraits/humanoid/troll/cavern-troll.we
 source: "Pathfinder Bestiary 2"
 name: "Cavern Troll"
 level: "Creature 6"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Large"
-trait_01: "chaotic"
-trait_02: "earth"
-trait_03: "evil"
-trait_04: "giant"
-trait_05: "troll"
+trait_01: [[chaotic]]
+trait_02: [[earth]]
+trait_03: [[evil]]
+trait_04: [[giant]]
+trait_05: [[troll]]
 modifier: 14
 perception:
   - name: "Perception"
@@ -65,7 +66,7 @@ abilities_mid:
     desc: "`pf2:r`  "
 
   - name: "Sunlight Petrification"
-    desc: "  If exposed to direct sunlight, a cavern troll immediately becomes [[Conditions/Slowed 1|Slowed 1]] and can't use reactions or Trample. The slowed value increases by 1 each time the cavern troll ends its turn in sunlight. If the cavern troll's actions are reduced to 0 in this way, they become [[Conditions/Petrified|Petrified]] until they spends at least 1 minute in darkness. Spells like [[Spells/Sunburst|Sunburst]] that create magical sunlight cannot petrify a cavern troll, but the troll is slowed 1 for 1d4 rounds after being exposed to such an effect."
+    desc: "  If exposed to direct sunlight, a cavern troll immediately becomes [[Conditions/Slowed|Slowed 1]] and can't use reactions or Trample. The slowed value increases by 1 each time the cavern troll ends its turn in sunlight. If the cavern troll's actions are reduced to 0 in this way, they become [[Conditions/Petrified|Petrified]] until they spends at least 1 minute in darkness. Spells like [[Spells/Sunburst|Sunburst]] that create magical sunlight cannot petrify a cavern troll, but the troll is slowed 1 for 1d4 rounds after being exposed to such an effect."
 
 attacks:
   - name: ""
@@ -80,7 +81,7 @@ attacks:
     desc: "`pf2:1` Rock +16 (brutal, range increment 120 feet)\n__Damage__  1d12 + 8 bludgeoning"
 
   - name: "[[Bestiary Ability Glossary/Rend|Rend]]"
-    desc: "`pf2:1`  Claw\n"
+    desc: "`pf2:1`  Claw\n\n* * *\n"
 
   - name: "Rock Tunneler"
     desc: "  A cavern troll can burrow through solid stone at a Speed of 10 feet. It can leave a tunnel if it desires."
@@ -88,6 +89,12 @@ attacks:
   - name: "[[Bestiary Ability Glossary/Throw Rock|Throw Rock]]"
     desc: "`pf2:1`  "
  
+```
+
+```encounter-table
+name: Cavern Troll
+creatures:
+  - 1: Cavern Troll
 ```
 
 

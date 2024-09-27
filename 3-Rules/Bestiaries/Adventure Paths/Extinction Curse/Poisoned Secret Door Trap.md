@@ -6,6 +6,7 @@ tags:
   - magical
   - mechanical
   - trap
+  - pf2eHazard
 
 source: Pathfinder #154: Siege of the Dinosaurs
 aliases: "Compendium.pf2e.extinction-curse-bestiary.Actor.b7ADAguVQLHCauWO" 
@@ -23,15 +24,15 @@ name: "Poisoned Secret Door Trap"
 level: "Hazard 14"
 
 
-trait_01: "magical"
-trait_02: "mechanical"
-trait_03: "trap"
+trait_01: [[magical]]
+trait_02: [[mechanical]]
+trait_03: [[trap]]
 modifier: 24
 sourcebook: "_Pathfinder #154: Siege of the Dinosaurs_"
 ac: 36
 armorclass:
   - name: AC
-    desc: "36; __Fort__ +28, __Ref__ +19, __Will__ +0"
+    desc: "36; __Fort__ +28, __Ref__ +19, "
 hp: 92
 health:
   - name: ""
@@ -55,13 +56,19 @@ attacks:
     desc: "Needles +32 () "
 
   - name: "Spring"
-    desc: "`pf2:r` (attack) **Trigger** A creature tries to open the door, whether or not it is still locked, without first depressing three specific stones on the door's surface\n**Effect** Needles pop out of the door at the triggering creature."
+    desc: "`pf2:r` (attack) **Trigger** A creature tries to open the door, whether or not it is still locked, without first depressing three specific stones on the door's surface\n* * *\n\n**Effect** Needles pop out of the door at the triggering creature."
 
   - name: "Purple Worm Venom"
-    desc: "passive (poison) **Saving Throw** DC 34 Fortitude check\n**Maximum Duration** 6 rounds\n**Stage 1** 5d6 poison damage and [[Conditions/Enfeebled 1|Enfeebled 2]] (1 round)\n**Stage 2** 6d6 poison damage and enfeebled 2 (1 round)\n**Stage 3** 8d6 poison damage and enfeebled 2 (1 round)."
+    desc: "passive (poison) **Saving Throw** DC 34 Fortitude check\n\n**Maximum Duration** 6 rounds\n\n**Stage 1** 5d6 poison damage and [[Conditions/Enfeebled|Enfeebled 2]] (1 round)\n\n**Stage 2** 6d6 poison damage and enfeebled 2 (1 round)\n\n**Stage 3** 8d6 poison damage and enfeebled 2 (1 round)."
 
 
   - name: "Reset"
     desc: "If disabled, the trap resets after 1 minute."
+```
+
+```encounter-table
+name: Poisoned Secret Door Trap
+creatures:
+  - 1: Poisoned Secret Door Trap
 ```
 

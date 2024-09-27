@@ -14,7 +14,7 @@ license: OGL
 ---
 # Dragontooth Club
 ## Item 13
-### [uncommon](uncommon "Uncommon Rarity Trait")[[fatal-d10]][[magical]][[versatile-s]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[fatal-d10]][[3-Rules/Rule References/Magical]][[versatile-s]]
 
 |  |  |
 | -- | -- |
@@ -33,7 +33,7 @@ Dragon teeth line the edges of this _+2 greater striking leiomano_. The leiomano
 
 * * *
 
-**Effect** You swing the leiomano, sending several of the dragon teeth shooting through the air on jets of energy. The dragon teeth deal 3d6 piercing and 3d6 damage of the energy type corresponding to the weapon in a 15-foot cone (DC 29 Reflex check). The teeth hunt down their targets, correcting their flight in midair, which reduces any circumstance bonus from cover by 2.
+**Effect** You swing the leiomano, sending several of the dragon teeth shooting through the air on jets of energy. The dragon teeth deal 3d6 piercing and 3d6 damage of the energy type corresponding to the weapon in a @Template\[cone|distance:15\] (DC 29 Reflex check). The teeth hunt down their targets, correcting their flight in midair, which reduces any circumstance bonus from cover by 2.
 
 * * *
 

@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/human
   - pf2e/creature/type/humanoid
   - pf2e/creature/type/lawful
+  - pf2eMonster
   - pf2e/creature/level/2
 statblock: inline
 name: "Alak Stagram"
@@ -22,12 +23,12 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #145: Hellknight Hill"
 name: "Alak Stagram"
 level: "Creature 2"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Medium"
-trait_01: "human"
-trait_02: "humanoid"
-trait_03: "lawful"
+trait_01: [[human]]
+trait_02: [[humanoid]]
+trait_03: [[lawful]]
 modifier: 7
 perception:
   - name: "Perception"
@@ -67,11 +68,17 @@ attacks:
     desc: "`pf2:1` Javelin +7 (thrown 30 ft.)\n__Damage__  1d6 + 4 piercing"
 
   - name: "Intimidating Strike"
-    desc: "`pf2:2` (emotion,fear,mental) Alak's blow not only wounds creatures but also shatters their confidence. He makes a melee Strike. If he hits and deals damage, the target is [[Conditions/Frightened 1|Frightened 1]], or [[Conditions/Frightened 1|Frightened 2]] on a critical hit."
+    desc: "`pf2:2` (emotion,fear,mental) Alak's blow not only wounds creatures but also shatters their confidence. He makes a melee Strike. If he hits and deals damage, the target is [[Conditions/Frightened|Frightened 1]], or [[Conditions/Frightened|Frightened 2]] on a critical hit."
 
   - name: "Power Attack"
     desc: "`pf2:2` (flourish) Alak unleashes a particularly powerful attack that clobbers his foe but leaves him a bit unsteady. He makes a melee Strike. This counts as two attacks when calculating his multiple attack penalty. If this Strike hits, he deals an extra die of weapon damage."
  
+```
+
+```encounter-table
+name: Alak Stagram
+creatures:
+  - 1: Alak Stagram
 ```
 
 

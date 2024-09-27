@@ -5,6 +5,7 @@ noteType: pf2eHazard
 tags:
   - magical
   - trap
+  - pf2eHazard
 
 source: Pathfinder #189: Dreamers of the Nameless Spires
 aliases: "Compendium.pf2e.gatewalkers-bestiary.Actor.jzU3LPOPpzd5RDTW" 
@@ -22,8 +23,8 @@ name: "Dream-Poisoned Door"
 level: "Hazard 12"
 
 
-trait_01: "magical"
-trait_02: "trap"
+trait_01: [[magical]]
+trait_02: [[trap]]
 modifier: 25
 sourcebook: "_Pathfinder #189: Dreamers of the Nameless Spires_"
 perception:
@@ -42,9 +43,15 @@ attacks:
   - name: ""
 
   - name: "Manifest Dream Guardians"
-    desc: "`pf2:r` (occult) **Trigger** The door is opened\n**Effect** A group of four [[Bestiary 2/Animate Dream|Animate Dreams]] manifest in the area just beyond the door. These four animate dreams each appear as vaguely whale-shaped but human-sized masses of tendrils. They swim through the air and attack the intruders at once, fighting to the death and pursuing any who flee the temple."
+    desc: "`pf2:r` (occult) **Trigger** The door is opened\n* * *\n\n**Effect** A group of four [[Bestiary 2/Animate Dream|Animate Dreams]] manifest in the area just beyond the door. These four animate dreams each appear as vaguely whale-shaped but human-sized masses of tendrils. They swim through the air and attack the intruders at once, fighting to the death and pursuing any who flee the temple."
 
 
 
+```
+
+```encounter-table
+name: Dream-Poisoned Door
+creatures:
+  - 1: Dream-Poisoned Door
 ```
 

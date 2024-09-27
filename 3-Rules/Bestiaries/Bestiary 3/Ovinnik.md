@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.pathfinder-bestiary-3.Actor.fuCPoL2OVcQf5uT9"
 tags:
   - pf2e/creature/type/chaotic
   - pf2e/creature/type/fey
+  - pf2eMonster
   - pf2e/creature/level/4
 statblock: inline
 name: "Ovinnik"
@@ -25,8 +26,8 @@ level: "Creature 4"
 
 alignment: ""
 size: "tiny"
-trait_01: "chaotic"
-trait_02: "fey"
+trait_01: [[chaotic]]
+trait_02: [[fey]]
 modifier: 14
 perception:
   - name: "Perception"
@@ -34,7 +35,7 @@ perception:
 languages: "Common, Fey"
 skills:
   - name: "Skills"
-    desc: "Household Lore: +12, Intimidation: +11, Stealth: +13"
+    desc: "Intimidation: +11, Stealth: +13, Household Lore: +12"
 abilityMods: [0, 5, 0, 2, 5, 3]
 speed: 30 feet,  climb 20 feet
 sourcebook: "_Pathfinder Bestiary 3_"
@@ -51,7 +52,7 @@ abilities_top:
   - name: ""
 
   - name: "Master of the Granary"
-    desc: "  A home with a friendly ovinnik is blessed, as the ovinnik preserves food from vermin and mold.\nA home so blessed never suffers from random accidents such as fires, and any checks to [[Actions/Craft|Craft]], [[Actions/Earn Income|Earn Income]], [[Actions/Repair|Repair]], or [[Actions/Subsist|Subsist]] in the home receive a +2 circumstance bonus. If the ovinnik is unfriendly, such checks take a -2 circumstance penalty instead, as the ovinnik causes devastating fires and infestations\nAn ovinnik must spend a week in a place before these benefits occur."
+    desc: "  A home with a friendly ovinnik is blessed, as the ovinnik preserves food from vermin and mold.\n\nA home so blessed never suffers from random accidents such as fires, and any checks to [[Actions/Craft|Craft]], [[Actions/Earn Income|Earn Income]], [[Actions/Repair|Repair]], or [[Actions/Subsist|Subsist]] in the home receive a +2 circumstance bonus. If the ovinnik is unfriendly, such checks take a -2 circumstance penalty instead, as the ovinnik causes devastating fires and infestations\n\nAn ovinnik must spend a week in a place before these benefits occur."
 
 abilities_mid:
   - name: ""
@@ -68,8 +69,14 @@ attacks:
     desc: "DC 21, attack +13; __4th __  _[[Spells/Read Omens|Read Omens]]_; __2nd __  _[[Spells/Augury|Augury]]_, _[[Spells/Breathe Fire|Burning Hands]]_, _[[Spells/Floating Flame|Flaming Sphere]]_, _[[Spells/Cleanse Cuisine|Purify Food and Drink (At Will)]]_\n__Cantrips__  __(2nd)__ _[[Spells/Daze|Daze]]_, _[[Spells/Produce Flame|Produce Flame]]_"
 
   - name: "Raise Grain Cloud"
-    desc: "`pf2:2`  While in their bound storeroom or granary, the ovinnik slams a paw against the ground, stirring up a cloud of grain dust in an 20-foot emanation.\nWithin this cloud, they gain a +4 status bonus to any fire damage they deal. The ovinnik doubles their fire resistance against this increased damage. The grain cloud dissipates after the first such effect or after 1 minute if no such effects occur."
+    desc: "`pf2:2`  While in their bound storeroom or granary, the ovinnik slams a paw against the ground, stirring up a cloud of grain dust in an @Template[emanation|distance:20].\n\nWithin this cloud, they gain a +4 status bonus to any fire damage they deal. The ovinnik doubles their fire resistance against this increased damage. The grain cloud dissipates after the first such effect or after 1 minute if no such effects occur."
  
+```
+
+```encounter-table
+name: Ovinnik
+creatures:
+  - 1: Ovinnik
 ```
 
 

@@ -6,6 +6,7 @@ cssClasses: pf2e
 aliases: "Compendium.pf2e.pathfinder-dark-archive.Actor.q9q6ag5sSEEefgUs" 
 tags:
   - pf2e/creature/type/plant
+  - pf2eMonster
   - pf2e/creature/level/8
 statblock: inline
 name: "Verdure&#x27;s Moonflower"
@@ -20,17 +21,18 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Dark Archive"
 name: "Verdure's Moonflower"
 level: "Creature 8"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "huge"
-trait_01: "plant"
+trait_01: [[plant]]
 modifier: 16
 perception:
   - name: "Perception"
     desc: "+16; Darkvision"
+languages: "telepathy 1 mile (other moonflowers only)"
 skills:
   - name: "Skills"
-    desc: "Athletics: +19 (Can&#x27;t Jump or Swim), Stealth: +14 (+18 in Thick Vegetation)"
+    desc: "Athletics: +19, Stealth: +14"
 abilityMods: [7, 0, 4, -2, 4, 3]
 speed: 20 feet
 sourcebook: "_Pathfinder Dark Archive_"
@@ -58,20 +60,26 @@ attacks:
     desc: "`pf2:1` Root +20 (agile, reach 15 feet)\n__Damage__  2d8 + 10 bludgeoning"
 
   - name: "Pod Prison"
-    desc: "`pf2:r`  **Trigger** The moonflower has swallowed a creature\n**Effect** The swallowed creature is wrapped in a tight cocoon and extruded from the moonflower's body into an adjacent square. The creature continues to be Swallowed Whole. It can't use Acrobatics to [[Actions/Escape|Escape]] a pod, but other creatures can attempt to Rupture the pod. The cocooned creature takes half damage from any damage dealt to the cocoon. Once the cocoon is Ruptured, it deflates and decays."
+    desc: "`pf2:r`  **Trigger** The moonflower has swallowed a creature\n* * *\n\n**Effect** The swallowed creature is wrapped in a tight cocoon and extruded from the moonflower's body into an adjacent square. The creature continues to be Swallowed Whole. It can't use Acrobatics to [[Actions/Escape|Escape]] a pod, but other creatures can attempt to Rupture the pod. The cocooned creature takes half damage from any damage dealt to the cocoon. Once the cocoon is Ruptured, it deflates and decays."
 
   - name: "Pod Spawn"
-    desc: "  Should a Small or larger creature die within a pod prison, the pod transforms into an adult moonflower with full Hit Points after 1d4 hours of growth.\nThe newly formed moonflower has its own consciousness, but some aspect of its trunk or blossoms resembles the creature that died within. The dead creature's equipment remains inside the new moonflower and can be retrieved if the moonflower is slain."
+    desc: "  Should a Small or larger creature die within a pod prison, the pod transforms into an adult moonflower with full Hit Points after 1d4 hours of growth.\n\nThe newly formed moonflower has its own consciousness, but some aspect of its trunk or blossoms resembles the creature that died within. The dead creature's equipment remains inside the new moonflower and can be retrieved if the moonflower is slain."
 
   - name: "Spray Blossoms"
-    desc: "`pf2:2`  **Effect** The moonflower expels mindwarping petals in a 30-foot cone. Creatures in the area take 4d6 mental damage and 4d6 poison damage (DC 26 Will check). On a failure, they are [[Conditions/Stupefied 1|Stupefied 2]] for 1 minute, and on a critical failure, they are also [[Conditions/Confused|Confused]] for 1 round.\nThe moonflower can't Spray Blossoms again for 1d4 rounds."
+    desc: "`pf2:2`  **Effect** The moonflower expels mindwarping petals in a @Template[cone|distance:30]. Creatures in the area take 4d6 mental damage and 4d6 poison damage (DC 26 Will check). On a failure, they are [[Conditions/Stupefied|Stupefied 2]] for 1 minute, and on a critical failure, they are also [[Conditions/Confused|Confused]] for 1 round.\n\nThe moonflower can't Spray Blossoms again for 1d4 rounds."
 
   - name: "[[Bestiary Ability Glossary/Swallow Whole|Swallow Whole]]"
-    desc: "`pf2:1` (attack) Large, 2d10 + 10 bludgeoning and 2d6 acid, Rupture 21\n"
+    desc: "`pf2:1` (attack) Large, 2d10 + 10 bludgeoning and 2d6 acid, Rupture 21\n\n* * *\n"
 
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
     desc: "`pf2:1`  "
  
+```
+
+```encounter-table
+name: Verdure's Moonflower
+creatures:
+  - 1: Verdure's Moonflower
 ```
 
 

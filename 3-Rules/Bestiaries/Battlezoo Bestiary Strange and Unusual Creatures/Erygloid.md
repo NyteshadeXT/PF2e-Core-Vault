@@ -7,6 +7,7 @@ aliases: "Compendium.battlezoo-bestiary-su-pf2e.pf2e-battlezoo-su-actors.Actor.l
 tags:
   - pf2e/creature/type/fey
   - pf2e/creature/type/ooze
+  - pf2eMonster
   - pf2e/creature/level/3
 statblock: inline
 name: "Erygloid"
@@ -22,19 +23,19 @@ token: [[modules/battlezoo-bestiary-su-pf2e/art/Portraits/erygloid.webp| ]]
 source: "Battlezoo Bestiary: Strange and Unusual"
 name: "Erygloid"
 level: "Creature 3"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Small"
-trait_01: "fey"
-trait_02: "ooze"
+trait_01: [[fey]]
+trait_02: [[ooze]]
 modifier: 6
 perception:
   - name: "Perception"
     desc: "+6; "
-languages: "Fey"
+languages: "Fey; can&#x27;t speak any language"
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +10, Stealth: +6, "
+    desc: "Acrobatics: +10, Stealth: +6, Acrobatics: +10, Stealth: +6"
 abilityMods: [4, -5, 5, 1, 1, 1]
 speed: 10 feet,  climb 10 feet,  swim 10 feet
 sourcebook: "_Battlezoo Bestiary: Strange and Unusual_"
@@ -68,8 +69,14 @@ attacks:
     desc: "`pf2:1`  "
 
   - name: "[[Bestiary Ability Glossary/Constrict|Constrict]]"
-    desc: "`pf2:1`  1d6 + 3 bludgeoning plus Magic Acid, Fortitude check\n"
+    desc: "`pf2:1`  1d6+3 bludgeoning plus Magic Acid, Fortitude check\n\n* * *\n"
  
+```
+
+```encounter-table
+name: Erygloid
+creatures:
+  - 1: Erygloid
 ```
 
 

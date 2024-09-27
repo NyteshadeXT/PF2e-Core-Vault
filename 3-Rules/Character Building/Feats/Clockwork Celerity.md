@@ -31,9 +31,5 @@ You can use unstable clockwork devices in your innovation to push your invention
 *   **Construct** You can use the extra action to Command your construct innovation (or to provide 1 of the actions if you spend 2 actions to Command your construct).
 *   **Weapon** You can use the extra action to Strike with your innovation or Reload your innovation.
 
-* * *
-
-PF2E.SpecificRule.Inventor.Unstable.FlatCheck.Label
-
 *Source: Pathfinder Guns & Gears*
 *OGL*

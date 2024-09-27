@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/undead
   - pf2e/creature/type/unholy
+  - pf2eMonster
   - pf2e/creature/level/16
 statblock: inline
 name: "Jadrani"
@@ -24,13 +25,13 @@ token: [[modules/battlezoo-bestiary-su-pf2e/art/Portraits/jadrani.webp| ]]
 source: "Battlezoo Bestiary: Strange and Unusual"
 name: "Jadrani"
 level: "Creature 16"
-rare_03: "Rare"
+rare_03: [[Rare]]
 alignment: ""
 size: "grg"
-trait_01: "beast"
-trait_02: "evil"
-trait_03: "undead"
-trait_04: "unholy"
+trait_01: [[beast]]
+trait_02: [[evil]]
+trait_03: [[undead]]
+trait_04: [[unholy]]
 modifier: 28
 perception:
   - name: "Perception"
@@ -38,7 +39,7 @@ perception:
 languages: "Common, Necril, Shadowtongue"
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +32, Athletics: +28, Deception: +26, Intimidation: +30, Stealth: +28, "
+    desc: "Acrobatics: +32, Athletics: +28, Deception: +26, Intimidation: +30, Stealth: +28, Acrobatics: +32, Athletics: +28, Deception: +26, Intimidation: +30, Stealth: +28"
 abilityMods: [6, 8, 6, 7, 6, 6]
 speed: 25 feet,  fly 75 feet
 sourcebook: "_Battlezoo Bestiary: Strange and Unusual_"
@@ -57,29 +58,35 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Jadrani Death Curse"
-    desc: " (curse,death,occult) When a creature slays an jadrani, the slaying creature must succeed at a DC 41 Will check save or become a vessel for the jadrani's self-resurrection. On a failure, the jadrani returns to unlife fully healed 1d4 rounds later, with the effects of a 7th-level _Resurrect_ ritual. This deals 10d10 void damage to the host (DC 37 Fortitude check save). An jadrani who died within an area devoted to a good deity by a _Consecrate_ ritual can't self-resurrect, and an jadrani can self-resurrect only once per year."
+    desc: " (curse,death,occult) When a creature slays an jadrani, the slaying creature must succeed at a DC 41 Will check save or become a vessel for the jadrani's self-resurrection. On a failure, the jadrani returns to unlife fully healed 1d4 rounds later, with the effects of a 7th-level _[[Spells/Resurrect|Resurrect]]_ ritual. This deals 10d10 void damage to the host (DC 37 Fortitude check save). An jadrani who died within an area devoted to a good deity by a _[[Spells/Consecrate|Consecrate]]_ ritual can't self-resurrect, and an jadrani can self-resurrect only once per year."
 
   - name: "Fountain of Youth"
-    desc: " (aura,occult) 60 feet. When a living creature ends its turn in the aura, it must attempt a DC 34 Fortitude check save. If the creature fails, its body regresses, reversing muscle development, balance, and coordination. The creature appears superficially youthful for 1 day but is also Clumsy 1 and Enfeebled 1 while the appearance of youth lasts."
+    desc: " (aura,occult) 60 feet. When a living creature ends its turn in the aura, it must attempt a DC 34 Fortitude check save. If the creature fails, its body regresses, reversing muscle development, balance, and coordination. The creature appears superficially youthful for 1 day but is also [[undefined]] and [[undefined]] while the appearance of youth lasts."
 
 attacks:
   - name: ""
 
   - name: "Melee"
-    desc: "`pf2:1` Beak +32 (finesse, magical, reach 20 feet)\n__Damage__  3d8 + 14 piercing 2d6 void 2d6 void"
+    desc: "`pf2:1` Beak +32 (finesse, magical, reach 20 feet)\n__Damage__ "
 
   - name: "Melee"
-    desc: "`pf2:1` Talon +32 (agile, finesse, magical, reach 20 feet)\n__Damage__  3d6 + 14 piercing 2d6 void"
+    desc: "`pf2:1` Talon +32 (agile, finesse, magical, reach 20 feet)\n__Damage__ "
 
   - name: "Ranged"
-    desc: "`pf2:1` Bone Pinion +32 (magical, range increment 40 feet)\n__Damage__  3d6 + 14 piercing 2d6 void"
+    desc: "`pf2:1` Bone Pinion +32 (magical, range increment 40 feet)\n__Damage__ "
 
   - name: "Occult Innate Spells"
     desc: "DC 37, attack +29; __8th __  _[[Spells/Spirit Song|Spirit Song]]_"
 
   - name: "Bone Shards"
-    desc: "`pf2:2`  The jadrani snaps its wings and throws shards of bones in a 50-foot cone that deals 14d6 piercing damage to creatures in the area with a DC 37 Reflex check save. A creature that fails its save is also Immobilized until they spend an Interact action to wrench themselves free. An jadrani can't use Bone Shards again for 1d4 rounds."
+    desc: "`pf2:2`  The jadrani snaps its wings and throws shards of bones in a 50-foot cone that deals 14d6 piercing damage to creatures in the area with a DC 37 Reflex check save. A creature that fails its save is also [[undefined]] until they spend an Interact action to wrench themselves free. An jadrani can't use Bone Shards again for 1d4 rounds."
  
+```
+
+```encounter-table
+name: Jadrani
+creatures:
+  - 1: Jadrani
 ```
 
 

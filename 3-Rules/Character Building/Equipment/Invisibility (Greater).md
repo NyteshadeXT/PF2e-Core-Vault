@@ -3,14 +3,16 @@ obsidianUIMode: preview
 title: "Invisibility (Greater)"
 cssclasses: pf2e,pf2e-spell
 tags:
+  - trait/illusion
   - trait/magical
   - trait/common
+  - remaster
 aliases: "Compendium.pf2e.equipment-srd.Item.bxz885LMjLCkpDq3"
-license: OGL
+license: ORC
 ---
 # Invisibility (Greater)
 ## Item 10
-### [[magical]]
+### [[illusion]][[magical]]
 
 
 **Price** 1000 gp; 
@@ -29,5 +31,5 @@ Light seems to partially penetrate this armor.
 
 **Craft Requirements** Supply one casting of _invisibility_.
 
-*Source: Pathfinder Core Rulebook*
-*OGL*
+*Source: Pathfinder GM Core*
+*ORC*

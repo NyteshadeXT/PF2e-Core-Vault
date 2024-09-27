@@ -12,7 +12,7 @@ license: OGL
 ---
 # Feather Token (Swan Boat) (Ammunition)
 ## Item 10
-### [[consumable]][[magical]]
+### [[consumable]][[3-Rules/Rule References/Magical]]
 
 **Category** ammo; 
 **Price** 152 gp; 

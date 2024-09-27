@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/elemental
   - pf2e/creature/type/fire
   - pf2e/creature/type/water
+  - pf2eMonster
   - pf2e/creature/level/1
 statblock: inline
 name: "Steam Mephit"
@@ -23,12 +24,12 @@ token: [[modules/pf2e-tokens-bestiaries/portraits/elemental/water/mephit-steam.w
 source: "Pathfinder Bestiary 2"
 name: "Steam Mephit"
 level: "Creature 1"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Small"
-trait_01: "elemental"
-trait_02: "fire"
-trait_03: "water"
+trait_01: [[elemental]]
+trait_02: [[fire]]
+trait_03: [[water]]
 modifier: 3
 perception:
   - name: "Perception"
@@ -67,11 +68,17 @@ attacks:
     desc: "DC 17, attack +7; __2nd __  _[[Spells/Mist|Obscuring Mist]]_"
 
   - name: "Boiling Rain"
-    desc: "`pf2:2` (arcane,fire,water) **Frequency** once per day\n**Effect** The steam mephit calls down a rain boiling water that surrounds them in a 10-foot emanation. Creatures in the area take 2d8 fire damage (DC 17 Reflex check save), and small unattended flames (such as torches) are extinguished."
+    desc: "`pf2:2` (arcane,fire,water) **Frequency** once per day\n* * *\n\n**Effect** The steam mephit calls down a rain boiling water that surrounds them in a @Template[emanation|distance:10]. Creatures in the area take 2d8 fire damage (DC 17 Reflex check save), and small unattended flames (such as torches) are extinguished."
 
   - name: "Breath Weapon"
-    desc: "`pf2:2` (arcane,fire) The steam mephit spits a cloud of steam in a 15-foot cone that deals 2d6 fire damage to each creature within the area (DC 17 Reflex check save).\nThe steam mephit can't use Breath Weapon again for 1d4 rounds."
+    desc: "`pf2:2` (arcane,fire) The steam mephit spits a cloud of steam in a @Template[cone|distance:15] that deals 2d6 fire damage to each creature within the area (DC 17 Reflex check save).\n\nThe steam mephit can't use Breath Weapon again for 1d4 rounds."
  
+```
+
+```encounter-table
+name: Steam Mephit
+creatures:
+  - 1: Steam Mephit
 ```
 
 

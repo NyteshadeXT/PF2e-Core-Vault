@@ -5,6 +5,7 @@ noteType: pf2eHazard
 tags:
   - magical
   - trap
+  - pf2eHazard
   - complex
 source: Pathfinder Society Intro #1: The Second Confirmation
 aliases: "Compendium.pf2e.pfs-introductions-bestiary.Actor.qXaXfqQfW3cp8kbI" 
@@ -22,14 +23,14 @@ name: "Ancient Summoning Rune"
 level: "Hazard 1"
 
 trait_06: "Complex"
-trait_01: "magical"
-trait_02: "trap"
+trait_01: [[magical]]
+trait_02: [[trap]]
 modifier: 7
 sourcebook: "_Pathfinder Society Intro #1: The Second Confirmation_"
 ac: 16
 armorclass:
   - name: AC
-    desc: "16; __Fort__ +10, __Ref__ +2, __Will__ +0"
+    desc: "16; __Fort__ +10, __Ref__ +2, "
 hp: 24
 health:
   - name: ""
@@ -51,10 +52,16 @@ attacks:
   - name: ""
 
   - name: "Summon Weak Monster"
-    desc: "`pf2:r` (arcane, summon) **Trigger** A creature enters the cloud of magical sensors\n**Effect** The trap summons one of the creatures previously encountered in area B with the weak adjustment. The creature rolls initiative and remains for 7 rounds, after which the spell ends and the creature disappears. The summoned creature also disappears if a creature disables the trap before the duration expires. The summoned creature can use 3 actions each round and can use reactions, unlike most summoned creatures."
+    desc: "`pf2:r` (arcane, summon) **Trigger** A creature enters the cloud of magical sensors\n* * *\n\n**Effect** The trap summons one of the creatures previously encountered in area B with the weak adjustment. The creature rolls initiative and remains for 7 rounds, after which the spell ends and the creature disappears. The summoned creature also disappears if a creature disables the trap before the duration expires. The summoned creature can use 3 actions each round and can use reactions, unlike most summoned creatures."
 
 
   - name: "Reset"
     desc: "The trap resets each day at dawn."
+```
+
+```encounter-table
+name: Ancient Summoning Rune
+creatures:
+  - 1: Ancient Summoning Rune
 ```
 

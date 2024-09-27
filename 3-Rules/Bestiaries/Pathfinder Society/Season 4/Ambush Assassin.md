@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/elf
   - pf2e/creature/type/evil
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/8
 statblock: inline
 name: "Ambush Assassin"
@@ -22,12 +23,12 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Society Scenario #4-99: Blessings of the Forest"
 name: "Ambush Assassin"
 level: "Creature 8"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Medium"
-trait_01: "elf"
-trait_02: "evil"
-trait_03: "humanoid"
+trait_01: [[elf]]
+trait_02: [[evil]]
+trait_03: [[humanoid]]
 modifier: 16
 perception:
   - name: "Perception"
@@ -61,7 +62,7 @@ abilities_mid:
     desc: "  The assassin isn't [[Conditions/Off-Guard|Off-Guard]] to creatures of 8th level or lower that are [[Conditions/Hidden|Hidden]], [[Conditions/Undetected|Undetected]], flanking or using [[Class Features/Surprise Attack|Surprise Attack]]."
 
   - name: "[[Bestiary Ability Glossary/Nimble Dodge|Nimble Dodge]]"
-    desc: "`pf2:r`  **Trigger** A creature targets you with an attack and you can see the attacker.\n**Requirements** You are not encumbered\nYou deftly dodge out of the way, gaining a +2 circumstance bonus to AC against the triggering attack."
+    desc: "`pf2:r`  **Trigger** A creature targets you with an attack and you can see the attacker.\n\n**Requirements** You are not encumbered\n* * *\n\nYou deftly dodge out of the way, gaining a +2 circumstance bonus to AC against the triggering attack."
 
 attacks:
   - name: ""
@@ -73,7 +74,7 @@ attacks:
     desc: "`pf2:1` Composite Shortbow +20 (deadly 2d10, magical, propulsive, range increment 60 feet, reload 0)\n__Damage__  2d6 + 4 piercing"
 
   - name: "Poison Weapon"
-    desc: "`pf2:1` (manipulate) **Requirements** The assassin is wielding a piercing or slashing weapon and has a free hand.\n**Effect** The assassin applied a poison to the weapon."
+    desc: "`pf2:1` (manipulate) **Requirements** The assassin is wielding a piercing or slashing weapon and has a free hand.\n* * *\n\n**Effect** The assassin applied a poison to the weapon."
 
   - name: "Quick Draw"
     desc: "`pf2:1`  The assassin [[Actions/Interact|Interacts]] to draw a weapon, then [[Actions/Strike|Strikes]] with that weapon."
@@ -84,6 +85,12 @@ attacks:
   - name: "Surprise Attack"
     desc: "  On the first round of combat, creatures that haven't acted yet are [[Conditions/Off-Guard|Off-Guard]] to the assassin."
  
+```
+
+```encounter-table
+name: Ambush Assassin
+creatures:
+  - 1: Ambush Assassin
 ```
 
 

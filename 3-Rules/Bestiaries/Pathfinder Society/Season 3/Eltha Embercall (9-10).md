@@ -6,6 +6,7 @@ cssClasses: pf2e
 aliases: "Compendium.pf2e.pfs-season-3-bestiary.Actor.xiBVzPUwh1QI2lIs" 
 tags:
   - pf2e/creature/type/dwarf
+  - pf2eMonster
   - pf2e/creature/level/9
 statblock: inline
 name: "Eltha Embercall (9-10)"
@@ -20,10 +21,10 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Society Scenario #3-15: Cavern of Sundered Songs"
 name: "Eltha Embercall (9-10)"
 level: "Creature 9"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Medium"
-trait_01: "dwarf"
+trait_01: [[dwarf]]
 modifier: 20
 perception:
   - name: "Perception"
@@ -31,7 +32,7 @@ perception:
 languages: "Common, Dwarven, Sakvroth, Wildsong"
 skills:
   - name: "Skills"
-    desc: "Athletics: +18, Crafting: +16, Darklands Lore: +16, Nature: +20, Stealth: +17, Survival: +20"
+    desc: "Athletics: +18, Crafting: +16, Nature: +20, Stealth: +17, Survival: +20, Darklands Lore: +16"
 abilityMods: [2, 2, 4, 1, 4, 1]
 speed: 20 feet
 sourcebook: "_Pathfinder Society Scenario #3-15: Cavern of Sundered Songs_"
@@ -62,6 +63,12 @@ attacks:
   - name: "Steadying Stone"
     desc: "  If Eltha rolls a success on an Acrobatics check to Balance on uneven ground composed of earth or rock, she gets a critical success instead. As long as she remains on the ground, she has a +3 circumstance bonus to her Fortitude or Reflex DC against attempts to Shove or Trip her. This bonus also applies to saving throws against spells or effects that would attempt to knock her prone."
  
+```
+
+```encounter-table
+name: Eltha Embercall (9-10)
+creatures:
+  - 1: Eltha Embercall (9-10)
 ```
 
 

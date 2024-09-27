@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/good
   - pf2e/creature/type/human
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/17
 statblock: inline
 name: "Dead Faine"
@@ -23,13 +24,13 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #186: Ghost King&#x27;s Rage"
 name: "Dead Faine"
 level: "Creature 17"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Medium"
-trait_01: "chaotic"
-trait_02: "good"
-trait_03: "human"
-trait_04: "humanoid"
+trait_01: [[chaotic]]
+trait_02: [[good]]
+trait_03: [[human]]
+trait_04: [[humanoid]]
 modifier: 32
 perception:
   - name: "Perception"
@@ -57,7 +58,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Give Them the Slip"
-    desc: "`pf2:r`  **Trigger** Dead Faine gains the [[Conditions/Grabbed|Grabbed]], [[Conditions/Immobilized|Immobilized]], or [[Conditions/Restrained|Restrained]] condition\n**Effect** Dead Faine slips out of his disguise to escape; he removes the grabbed, immobilized, and restrained conditions imposed by the triggering event, then he Steps. If Dead Faine is currently Impersonating, his disguise is ruined, and he's exposed as himself."
+    desc: "`pf2:r`  **Trigger** Dead Faine gains the [[Conditions/Grabbed|Grabbed]], [[Conditions/Immobilized|Immobilized]], or [[Conditions/Restrained|Restrained]] condition\n* * *\n\n**Effect** Dead Faine slips out of his disguise to escape; he removes the grabbed, immobilized, and restrained conditions imposed by the triggering event, then he Steps. If Dead Faine is currently Impersonating, his disguise is ruined, and he's exposed as himself."
 
 attacks:
   - name: ""
@@ -78,7 +79,7 @@ attacks:
     desc: "`pf2:3`  Dead Faine attempts a Deception check to [[Actions/Impersonate|Impersonate]]. He doesn't take a penalty to this check due to lacking a disguise kit, to appear as an undead, or to appear as a specific individual."
 
   - name: "Feinting Strike"
-    desc: "`pf2:1`  **Frequency** once per round\n**Requirements** Dead Faine is within melee reach of an enemy\n**Effect** Dead Faine Feints, then Strikes the target of his [[Actions/Feint|Feint]]."
+    desc: "`pf2:1`  **Frequency** once per round\n\n**Requirements** Dead Faine is within melee reach of an enemy\n* * *\n\n**Effect** Dead Faine Feints, then Strikes the target of his [[Actions/Feint|Feint]]."
 
   - name: "[[Bestiary Ability Glossary/Sneak Attack|Sneak Attack]]"
     desc: "  Dead Faine deals an additional 4d6 precision damage to [[Conditions/Off-Guard|Off-Guard]] creatures. This increases to 6d6 against creatures off-guard due to Dead Faine's [[Actions/Feint|Feint]] or Traitorous Betrayal."
@@ -86,6 +87,12 @@ attacks:
   - name: "Traitorous Betrayal"
     desc: "`pf2:2`  Dead Faine Interacts to draw his dagger and Strikes with it. If the target believes Dead Faine was anyone other than himself, the target is [[Conditions/Off-Guard|Off-Guard]] against Dead Faine's attack."
  
+```
+
+```encounter-table
+name: Dead Faine
+creatures:
+  - 1: Dead Faine
 ```
 
 

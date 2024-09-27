@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.pathfinder-bestiary.Actor.EhB5Q98OO25DDOOl"
 tags:
   - pf2e/creature/type/humanoid
   - pf2e/creature/type/lizardfolk
+  - pf2eMonster
   - pf2e/creature/level/1
 statblock: inline
 name: "Lizardfolk Defender"
@@ -25,8 +26,8 @@ level: "Creature 1"
 
 alignment: ""
 size: "Medium"
-trait_01: "humanoid"
-trait_02: "lizardfolk"
+trait_01: [[humanoid]]
+trait_02: [[lizardfolk]]
 modifier: 7
 perception:
   - name: "Perception"
@@ -80,6 +81,12 @@ attacks:
   - name: "Terrain Advantage"
     desc: "  Non-lizardfolk creatures in difficult terrain and non-lizardfolk creatures that are in water and lack a swim Speed are [[Conditions/Off-Guard|Off-Guard]] to the lizardfolk defender."
  
+```
+
+```encounter-table
+name: Lizardfolk Defender
+creatures:
+  - 1: Lizardfolk Defender
 ```
 
 

@@ -12,7 +12,7 @@ license: OGL
 ---
 # Drake Rifle (Cold)
 ## Item 4
-### [uncommon](uncommon "Uncommon Rarity Trait")[[magical]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[3-Rules/Rule References/Magical]]
 
 |  |  |
 | -- | -- |

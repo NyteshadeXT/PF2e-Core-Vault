@@ -6,21 +6,20 @@ tags:
   - trait/alchemist
   - trait/common
   - category/classfeature
+  - remaster
 aliases: "Compendium.pf2e.classfeatures.Item.RGs4uR3CAvgbtBAA"
-license: OGL
+license: ORC
 ---
 # Greater Field Discovery (Bomber)
 ## Feat 13
-### [[alchemist]]
+### [[3-Rules/trait_reference/alchemist]]
 
 **Category** classfeature; 
 
 
 
 
-You learn an incredible discovery that advances your understanding of your field.
-
 You can increase the splash on your bombs to damage creatures within 10 feet, or 15 feet if you have [[Feats/Expanded Splash|Expanded Splash]].
 
-*Source: Pathfinder Core Rulebook*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

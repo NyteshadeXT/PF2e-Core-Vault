@@ -14,7 +14,7 @@ tags:
 
 # Bicep Wound
 
-> The target is [[Conditions/Enfeebled 1|Enfeebled 1]] until healed.
+> The target is [[Conditions/Enfeebled|Enfeebled 1]] until healed.
 
 `Piercing`
 

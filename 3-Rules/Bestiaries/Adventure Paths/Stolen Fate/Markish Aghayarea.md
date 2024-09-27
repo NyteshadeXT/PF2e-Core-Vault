@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/undead
   - pf2e/creature/type/unholy
+  - pf2eMonster
   - pf2e/creature/level/15
 statblock: inline
 name: "Markish Aghayarea"
@@ -22,12 +23,12 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #191: The Destiny War"
 name: "Markish Aghayarea"
 level: "Creature 15"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Large"
-trait_01: "evil"
-trait_02: "undead"
-trait_03: "unholy"
+trait_01: [[evil]]
+trait_02: [[undead]]
+trait_03: [[unholy]]
 modifier: 29
 perception:
   - name: "Perception"
@@ -35,7 +36,7 @@ perception:
 languages: "Chthonian, Common, Necril, Shadowtongue, Thalassic"
 skills:
   - name: "Skills"
-    desc: "Arcana: +29, Athletics: +28 (+32 to Swim), Deception: +28, Intimidation: +30, Occultism: +29, Society: +27, Stealth: +29"
+    desc: "Arcana: +29, Athletics: +28, Deception: +28, Intimidation: +30, Occultism: +29, Society: +27, Stealth: +29"
 abilityMods: [7, 4, 5, 5, 4, 5]
 speed: 30 feet,  fly 30 feet,  swim 40 feet
 sourcebook: "_Pathfinder #191: The Destiny War_"
@@ -55,7 +56,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Spell Deflection"
-    desc: " (divine,mental) A spellcaster who targets a devourer with a mental spell, [[Spells/Banishment|Banishment]], [[Spells/Seize Soul|Seize Soul]], [[Spells/Divine Decree|Divine Decree]], [[Spells/Divine Wrath|Divine Wrath]], [[Spells/Possession|Possession]], [[Spells/Spirit Blast|Spirit Blast]], or [[Spells/Spirit Song|Spirit Song]] can attempt a counteract check to free a soul the devourer has trapped with Devour Soul. If this counteract attempt succeeds, the trapped soul is released (though the creature remains dead), and the devourer can't use any soul charges from that creature.\nDevourers are otherwise immune to these spells."
+    desc: " (divine,mental) A spellcaster who targets a devourer with a mental spell, [[Spells/Banishment|Banishment]], [[Spells/Seize Soul|Seize Soul]], [[Spells/Divine Decree|Divine Decree]], [[Spells/Divine Wrath|Divine Wrath]], [[Spells/Possession|Possession]], [[Spells/Spirit Blast|Spirit Blast]], or [[Spells/Spirit Song|Spirit Song]] can attempt a counteract check to free a soul the devourer has trapped with Devour Soul. If this counteract attempt succeeds, the trapped soul is released (though the creature remains dead), and the devourer can't use any soul charges from that creature.\n\nDevourers are otherwise immune to these spells."
 
   - name: "Vortex"
     desc: " (aura,water) 40 feet. Water in the aura that is also in the same body of water as the marid is difficult terrain for Swimming creatures. Creatures with the water trait are immune."
@@ -82,20 +83,26 @@ attacks:
     desc: "_[[Spells/Create Undead|Create Undead]]_"
 
   - name: "Devour Soul"
-    desc: "`pf2:2` (death,divine) Markish touches a creature within reach, dealing 12d6 void damage (DC 36 Fortitude check save). If a creature is slain by this ability, the creature's soul becomes trapped within Markish. While its soul is trapped, a creature can't be resurrected except by powerful magic such as a [[Spells/Wish|Wish]] spell. Destroying Markish or successfully counteracting Devour Soul (see Spell Deflection) releases the soul. Markish can hold only one soul at a time. A soul has 5 soul charges per level of the originating creature (see Soul Spells). The devourer can expend these charges to cast spells. If the soul is freed and the creature returns to life, the creature is [[Conditions/Drained 1|Drained 1]] for every 5 soul charges expended. If reduced to 0 soul charges, the soul is consumed and can be restored to life only by wish or similar magic."
+    desc: "`pf2:2` (death,divine) Markish touches a creature within reach, dealing 12d6 void damage (DC 36 Fortitude check save). If a creature is slain by this ability, the creature's soul becomes trapped within Markish. While its soul is trapped, a creature can't be resurrected except by powerful magic such as a [[Spells/Wish|Wish]] spell. Destroying Markish or successfully counteracting Devour Soul (see Spell Deflection) releases the soul. Markish can hold only one soul at a time. A soul has 5 soul charges per level of the originating creature (see Soul Spells). The devourer can expend these charges to cast spells. If the soul is freed and the creature returns to life, the creature is [[Conditions/Drained|Drained 1]] for every 5 soul charges expended. If reduced to 0 soul charges, the soul is consumed and can be restored to life only by wish or similar magic."
 
   - name: "Drain Life"
-    desc: " (divine) When Markish damages a living creature with his claw Strike, he gains 15 temporary Hit Points and the creature must succeed at a DC 36 Fortitude check save or become [[Conditions/Drained 1|Drained 1]]. Further damage Markish deals increases the condition value by 1 on a failed save, to a maximum of [[Conditions/Drained 1|Drained 4]]."
+    desc: " (divine) When Markish damages a living creature with his claw Strike, he gains 15 temporary Hit Points and the creature must succeed at a DC 36 Fortitude check save or become [[Conditions/Drained|Drained 1]]. Further damage Markish deals increases the condition value by 1 on a failed save, to a maximum of [[Conditions/Drained|Drained 4]]."
 
   - name: "Grant Wish"
-    desc: "`pf2:3` (arcane) **Frequency** 3 times per year\n**Effect** Markish casts [[Spells/Wish|Wish]] as an arcane spell to grant a wish to a mortal or undead creature (excluding himself), but he does his best to warp the effects of the wish to cause suffering or interprets the wish's wording in a way to torment the one who asks for it."
+    desc: "`pf2:3` (arcane) **Frequency** 3 times per year\n* * *\n\n**Effect** Markish casts [[Spells/Wish|Wish]] as an arcane spell to grant a wish to a mortal or undead creature (excluding himself), but he does his best to warp the effects of the wish to cause suffering or interprets the wish's wording in a way to torment the one who asks for it."
 
   - name: "Rush of Shadows"
-    desc: "`pf2:2` (arcane,water) Markish releases a jet of shadowy water in a 60-foot line, dealing 9d6 bludgeoning damage and 6d6 void damage (DC 36 Reflex check save). A creature who critically fails its save is also pushed 10 feet (20 feet on a critical failure) and is [[Conditions/Enfeebled 1|Enfeebled 1]] ([[Conditions/Enfeebled 1|Enfeebled 2]] on a critical failure). Markish can't use Rush of Shadows for 1d4 rounds."
+    desc: "`pf2:2` (arcane,water) Markish releases a jet of shadowy water in a @Template[line|distance:60], dealing 9d6 bludgeoning damage and 6d6 void damage (DC 36 Reflex check save). A creature who critically fails its save is also pushed 10 feet (20 feet on a critical failure) and is [[Conditions/Enfeebled|Enfeebled 1]] ([[Conditions/Enfeebled|Enfeebled 2]] on a critical failure). Markish can't use Rush of Shadows for 1d4 rounds."
 
   - name: "Soul Spells"
     desc: "  To cast occult innate spells, Markish must expend a number of soul charges equal to the spell's rank. He can heighten any occult spell to a maximum of 8th level by expending more charges as he Casts the Spell. Markish starts this combat with a trapped soul that has 16 soul charges."
  
+```
+
+```encounter-table
+name: Markish Aghayarea
+creatures:
+  - 1: Markish Aghayarea
 ```
 
 

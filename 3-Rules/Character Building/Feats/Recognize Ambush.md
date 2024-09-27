@@ -6,8 +6,9 @@ tags:
   - trait/hobgoblin
   - trait/common
   - category/ancestry
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.OOBSMpdAfYuiiQqo"
-license: OGL
+license: ORC
 ---
 # Recognize Ambush `pf2:0`
 ## Feat 5
@@ -24,5 +25,5 @@ license: OGL
 
 Your combat training has honed you to be ready for an attack at all times. You Interact to draw a weapon.
 
-*Source: Pathfinder Lost Omens: Ancestry Guide*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

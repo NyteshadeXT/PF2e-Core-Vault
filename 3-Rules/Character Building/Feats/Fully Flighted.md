@@ -10,7 +10,7 @@ aliases: "Compendium.pf2e.feats-srd.Item.J2CPfHKPvu6RGfY6"
 license: OGL
 ---
 # Fully Flighted
-## Feat 13
+## Feat 9
 ### [[strix]]
 
 **Category** ancestry; 
@@ -19,7 +19,11 @@ license: OGL
 
 **Prerequisites** Juvenile Flight
 * * *
-You gain the effects of Juvenile Flight at all times, rather than just once per day for 10 minutes. This includes the status bonus to your Speed if you have Fledgling Flight.
+You can take to the skies at any time. You have a fly Speed of 25 feet at all times.
+
+* * *
+
+**Special** You can take this feat a second time. If you do, your fly Speed increases to 35 feet.
 
 *Source: Pathfinder Lost Omens: Ancestry Guide*
 *OGL*

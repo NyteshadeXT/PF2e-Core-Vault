@@ -17,7 +17,9 @@ license: OGL
 
 
 
-**Major Boon** Shadows are deeper around you. darkvision and greater darkvision cannot penetrate darkness within 60 feet of you, but you can see through it normally.
+Shadows are deeper around you.
+
+Darkvision and greater darkvision cannot penetrate darkness within 60 feet of you, but you can see through it normally.
 
 *Source: Pathfinder Lost Omens: Gods & Magic*
 *OGL*

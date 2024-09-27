@@ -33,7 +33,7 @@ You gain the following statistics and abilities regardless of the form that you 
 You also gain specific abilities based on the type of Daemon you choose:
 
 *   **Meladaemon** Speed 25 feet, fly 40 feet;
-    *   **Melee**`pf2:1` jaws (reach 10 feet), **Damage** 2d10+10 piercing plus 1d6 spirit;
+    *   **Melee** `pf2:1` jaws (reach 10 feet), **Damage** 2d10+10 piercing plus 1d6 spirit;
     *   **Melee** `pf2:1` claw (agile, reach 10 feet), **Damage** 1d8 slashing plus 1d6 spirit and 1d6 void, and you can spend an action after a hit to Grab the target.
 
 *Source: Pathfinder Secrets of Magic*

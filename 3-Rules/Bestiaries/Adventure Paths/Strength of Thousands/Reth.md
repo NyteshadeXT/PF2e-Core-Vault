@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/humanoid
   - pf2e/creature/type/lizardfolk
+  - pf2eMonster
   - pf2e/creature/level/7
 statblock: inline
 name: "Reth"
@@ -22,12 +23,12 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #170: Spoken on the Song Wind"
 name: "Reth"
 level: "Creature 7"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Medium"
-trait_01: "evil"
-trait_02: "humanoid"
-trait_03: "lizardfolk"
+trait_01: [[evil]]
+trait_02: [[humanoid]]
+trait_03: [[lizardfolk]]
 modifier: 13
 perception:
   - name: "Perception"
@@ -67,7 +68,7 @@ attacks:
     desc: "`pf2:1` Hand Crossbow +16 (magical, range increment 60 feet, reload 1)\n__Damage__  1d6 + 2 piercing"
 
   - name: "Deadly Bolts"
-    desc: "`pf2:1` (stance) **Requirements** Reth is wielding a crossbow\n**Effect** Reth gains a deadly focus with crossbows while in this stance. His crossbow Strikes deal an additional 3d8 precision damage. He doesn't provoke reactions for making ranged Strikes with crossbows."
+    desc: "`pf2:1` (stance) **Requirements** Reth is wielding a crossbow\n* * *\n\n**Effect** Reth gains a deadly focus with crossbows while in this stance. His crossbow Strikes deal an additional 3d8 precision damage. He doesn't provoke reactions for making ranged Strikes with crossbows."
 
   - name: "Deep Breath"
     desc: "  Reth can hold his breath for 200 rounds (20 minutes)."
@@ -78,6 +79,12 @@ attacks:
   - name: "Skirmishing Shot"
     desc: "`pf2:1` (flourish) Reth Strides or Steps, then Strikes with his hand crossbow."
  
+```
+
+```encounter-table
+name: Reth
+creatures:
+  - 1: Reth
 ```
 
 

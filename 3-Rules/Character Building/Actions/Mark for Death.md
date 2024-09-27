@@ -3,29 +3,29 @@ obsidianUIMode: preview
 title: "Mark for Death"
 cssclasses: pf2e,pf2e-action
 tags:
+  - trait/concentrate
   - trait/common
   - category/offensive
+  - remaster
 aliases: "Compendium.pf2e.actionspf2e.Item.orjJjLdm4XNAcFi8"
-license: OGL
+license: ORC
 ---
 # Mark for Death `pf2:3`
 
-### 
+### [[3-Rules/Rule References/Concentrate]]
 
 **Category** offensive; 
 
 
 
 
-**Requirements** You can see and hear the creature you intend to mark
+**Requirements** The creature you intend to mark is observed by you
 
 * * *
 
-**Effect** You designate a single creature as your mark. This lasts until the mark dies or you use Mark for Death again. You gain a +2 circumstance bonus to Perception checks to [[Actions/Seek|Seek]] your mark and on Deception checks to [[Actions/Feint|Feint]] against your mark.
+**Effect** You designate a single creature as your mark. Using Mark for Death while [[Conditions/Hidden|Hidden]] or [[Conditions/Undetected|Undetected]] doesn't make you [[Conditions/Observed|Observed]]. Mark for Death lasts until the mark dies or you use Mark for Death again. You gain a +2 circumstance bonus to Perception checks to [[Actions/Seek|Seek]] your mark, as well as to Deception checks to [[Actions/Feint|Feint]] against your mark. Your mark takes a –2 circumstance penalty to all Perception checks to Seek you.
 
-Your agile and finesse weapons and unarmed attacks gain the backstabber and deadly d6 weapon traits when you're attacking your mark.
+In addition, when attacking your mark, you have the [[Class Features/Sneak Attack|Sneak Attack]] class feature, except it deals 1d4 precision damage and you don't increase the number of dice as you gain levels. At 6th level, the damage increases to 1d6. If you already have the sneak attack class feature, you instead deal an additional 1 precision damage with your sneak attacks made against your mark, increasing to 2 precision damage at 6th level.
 
-If the weapon or unarmed attack already has the deadly trait, increase the size of the deadly damage die by one step instead of giving it deadly d6.
-
-*Source: Pathfinder Advanced Player's Guide*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

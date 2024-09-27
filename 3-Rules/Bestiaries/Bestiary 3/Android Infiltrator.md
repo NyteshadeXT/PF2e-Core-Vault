@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.pathfinder-bestiary-3.Actor.iNgKGHzMOAHjWQeI"
 tags:
   - pf2e/creature/type/android
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/2
 statblock: inline
 name: "Android Infiltrator"
@@ -22,11 +23,11 @@ token: [[modules/pf2e-tokens-bestiaries/portraits/humanoid/android-infiltrator.w
 source: "Pathfinder Bestiary 3"
 name: "Android Infiltrator"
 level: "Creature 2"
-rare_03: "Rare"
+rare_03: [[Rare]]
 alignment: ""
 size: "Medium"
-trait_01: "android"
-trait_02: "humanoid"
+trait_01: [[android]]
+trait_02: [[humanoid]]
 modifier: 6
 perception:
   - name: "Perception"
@@ -34,7 +35,7 @@ perception:
 languages: "Androffan, Common"
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +8, Athletics: +6, Crafting: +7, Deception: +3, Engineering Lore: +7, Society: +7, Stealth: +10, Thievery: +8"
+    desc: "Acrobatics: +8, Athletics: +6, Crafting: +7, Deception: +3, Society: +7, Stealth: +10, Thievery: +8, Engineering Lore: +7"
 abilityMods: [2, 4, 2, 3, 0, -1]
 speed: 25 feet
 sourcebook: "_Pathfinder Bestiary 3_"
@@ -57,7 +58,7 @@ abilities_mid:
     desc: "  The android takes a -1 circumstance penalty to Diplomacy and Performance checks, and to Perception checks to [[Actions/Sense Motive|Sense Motive]]."
 
   - name: "Nanite Surge"
-    desc: "`pf2:r`  **Trigger** The android infiltrator attempts a skill check but hasn't rolled yet\n**Effect** The android infiltrator stimulates their nanites, forcing their body to temporarily increase its efficiency. They gain a +2 status bonus to the triggering skill check. In addition, their circuitry glows, creating a 10-foot emanation with dim light for 1 round.\n[[Bestiary Effects/Effect_ Nanite Surge (Glow)|Effect: Nanite Surge (Glow)]]"
+    desc: "`pf2:r`  **Trigger** The android infiltrator attempts a skill check but hasn't rolled yet\n* * *\n\n**Effect** The android infiltrator stimulates their nanites, forcing their body to temporarily increase its efficiency. They gain a +2 status bonus to the triggering skill check. In addition, their circuitry glows, creating a 10-foot emanation with dim light for 1 round.\n\n[[Bestiary Effects/Effect_ Nanite Surge (Glow)|Effect: Nanite Surge (Glow)]]"
 
 attacks:
   - name: ""
@@ -74,6 +75,12 @@ attacks:
   - name: "[[Bestiary Ability Glossary/Sneak Attack|Sneak Attack]]"
     desc: "  The android infiltrator deals an additional 1d6 precision damage to [[Conditions/Off-Guard|Off-Guard]] creatures."
  
+```
+
+```encounter-table
+name: Android Infiltrator
+creatures:
+  - 1: Android Infiltrator
 ```
 
 

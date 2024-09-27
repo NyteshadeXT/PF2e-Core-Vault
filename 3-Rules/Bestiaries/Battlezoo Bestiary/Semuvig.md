@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/undead
   - pf2e/creature/type/unholy
+  - pf2eMonster
   - pf2e/creature/level/23
 statblock: inline
 name: "Semuvig"
@@ -24,13 +25,13 @@ token: [[modules/battlezoo-bestiary-pf2e/art/semuvig.webp| ]]
 source: "Battlezoo Bestiary"
 name: "Semuvig"
 level: "Creature 23"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Small"
-trait_01: "chaotic"
-trait_02: "evil"
-trait_03: "undead"
-trait_04: "unholy"
+trait_01: [[chaotic]]
+trait_02: [[evil]]
+trait_03: [[undead]]
+trait_04: [[unholy]]
 modifier: 41
 perception:
   - name: "Perception"
@@ -38,7 +39,7 @@ perception:
 languages: "Aklo, Chthonian, Diabolic, Necril"
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +44, Arcana: +39, Athletics: +38, Deception: +40, Intimidation: +40 (+44 against any creature holding the monkey’s paw), Occultism: +39, Stealth: +42, Survival: +39, "
+    desc: "Acrobatics: +44, Arcana: +39, Athletics: +38, Deception: +40, Intimidation: +40, Occultism: +39, Stealth: +42, Survival: +39"
 abilityMods: [9, 11, 8, 6, 10, 9]
 speed: 50 feet
 sourcebook: "_Battlezoo Bestiary_"
@@ -57,13 +58,13 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "[[Creature Family Ability Glossary/(Lich) Rejuvenation|Rejuvenation]]"
-    desc: " (arcane) When Semuvig is destroyed, its soul immediately transfers to its paw, which acts like a _Lich Phylactery_.\nNecromantic energies rebuild Semuvig's body over 1d10 days. Upon regenerating, Semuvig reappears at a random location anywhere in the multiverse."
+    desc: " (arcane) When Semuvig is destroyed, its soul immediately transfers to its paw, which acts like a _[[Equipment/Lich Soul Cage|Lich Phylactery]]_.\n\nNecromantic energies rebuild Semuvig's body over 1d10 days. Upon regenerating, Semuvig reappears at a random location anywhere in the multiverse."
 
   - name: "Fear of Stillness"
-    desc: "  Semuvig's only known weakness is a petrifying fear of being kept in place. While Semuvig is Immobilized, Paralyzed, or Restrained, it is also Frightened 2."
+    desc: "  Semuvig's only known weakness is a petrifying fear of being kept in place. While Semuvig is [[Conditions/Immobilized|Immobilized]], [[Conditions/Paralyzed|Paralyzed]], or [[Conditions/Restrained|Restrained]], it is also [[Conditions/Frightened|Frightened 2]]."
 
   - name: "[[Bestiary Ability Glossary/Frightful Presence|Frightful Presence]]"
-    desc: " (aura,emotion,fear,mental) Aura 60 feet, Will"
+    desc: " (aura,emotion,fear,mental) [[Bestiary Ability Glossary/Aura|Aura]] 60 feet, DC 44 Will"
 
 attacks:
   - name: ""
@@ -78,16 +79,22 @@ attacks:
     desc: "DC 48, attack +40; __10th __ (1 slots) _[[Spells/Alter Reality|Alter Reality]]_; __9th __ (3 slots) _[[Spells/Eclipse Burst|Eclipse Burst]]_, _[[Spells/Paralyze|Paralyze]]_, _[[Spells/Phantasmal Calamity|Phantasmal Calamity]]_; __8th __ (3 slots) _[[Spells/Execute|Finger of Death]]_, _[[Spells/Desiccate|Horrid Wilting]]_, _[[Spells/Spirit Song|Spirit Song]]_\n__Constant__  __(8th)__ _[[Spells/Locate|Locate (Monkey's Paw Only)]]_"
 
   - name: "Three Curses"
-    desc: "`pf2:2` (arcane,curse) **Frequency** once per target per day;\n**Effect** Semuvig curses a creature within 60 feet. The target must attempt a Will save. On a failure, the target is cursed by one of the following effects (randomly selected); on a critical failure, two curses apply instead.\n*   **_Doom_**: Increase the target's Doomed value by 1.\n*   **_Backlash_**: For 1 minute, any weapon the target holds erupts into flames and acid, dealing 5d6 fire damage and 5d6 acid damage (basic Reflex save) to the weapon and the target at the beginning of the target's turn.\n*   **_Inversion_**: For 1 minute, the effects of healing and damaging spells are reversed when applied to the target. Spells that cause damage heal the target, and spells that restore Hit Points deal damage to the target. If the spell requires a saving throw, the target must roll that saving throw; the target does not get to roll a saving throw against spells that don't require a saving throw."
+    desc: "`pf2:2` (arcane,curse) **Frequency** once per target per day;\n\n**Effect** Semuvig curses a creature within 60 feet. The target must attempt a DC 46 Will save. On a failure, the target is cursed by one of the following effects (randomly selected); on a critical failure, two curses apply instead.\n* * *\n\n*   **_Doom_**: Increase the target's [[Conditions/Doomed|Doomed]] value by 1.\n*   **_Backlash_**: For 1 minute, any weapon the target holds erupts into flames and acid, dealing 5d6 fire damage and 5d6 acid damage (DC 46 basic Reflex save) to the weapon and the target at the beginning of the target's turn.\n*   **_Inversion_**: For 1 minute, the effects of healing and damaging spells are reversed when applied to the target. Spells that cause damage heal the target, and spells that restore Hit Points deal damage to the target. If the spell requires a saving throw, the target must roll that saving throw; the target does not get to roll a saving throw against spells that don't require a saving throw."
 
   - name: "Paralyzing Touch"
-    desc: " (arcane,curse,incapacitation) A creature damaged by Semuvig's hand Strike must succeed at a DC 46 Fortitude check save. The creature becomes Paralyzed for 1 round on a failure. On a critical failure, the creature is paralyzed permanently, falls Prone, and seems dead. A DC 40 Medicine check check reveals the victim is alive."
+    desc: " (arcane,curse,incapacitation) A creature damaged by Semuvig's hand Strike must succeed at a DC 46 Fortitude check save. The creature becomes [[Conditions/Paralyzed|Paralyzed]] for 1 round on a failure. On a critical failure, the creature is paralyzed permanently, falls [[Conditions/Prone|Prone]], and seems dead. A DC 40 Medicine check check reveals the victim is alive."
  
+```
+
+```encounter-table
+name: Semuvig
+creatures:
+  - 1: Semuvig
 ```
 
 
 
-Many have heard of the fabled _Monkey's Paw_, an artifact capable of granting a mortal's greatest wishes but at equally great cost. Few, however, know of the cursed thing's origins. Those who have borne the paw and lived through the experience sometimes tell of a wicked wailing monkey pursuing them in their nightmares. With the body of a desiccated dead chimpanzee, an eerily human shriveled face, and a missing hand, this violent being is far from mere phantasmagoria. The legendary primate indeed walks the mortal world, not just in dreams. It calls itself Semuvig, though, in visions and legends, it is also known as the Yowling Simian, or "the paw's monkey."
+Many have heard of the fabled _[[Equipment/Monkey's Paw|Monkey's Paw]]_, an artifact capable of granting a mortal's greatest wishes but at equally great cost. Few, however, know of the cursed thing's origins. Those who have borne the paw and lived through the experience sometimes tell of a wicked wailing monkey pursuing them in their nightmares. With the body of a desiccated dead chimpanzee, an eerily human shriveled face, and a missing hand, this violent being is far from mere phantasmagoria. The legendary primate indeed walks the mortal world, not just in dreams. It calls itself Semuvig, though, in visions and legends, it is also known as the Yowling Simian, or "the paw's monkey."
 
 It is unknown whether Semuvig's present state is the result of a cruel god's vindictive curse or whether the Yowling Simian chose this life for itself. Equally mysterious is the relationship between paw and owner: Perhaps the paw is a scout, though it is equally possible that the paw is fleeing Semuvig for its own reasons, possibly to prevent its master's ascent to even greater power. Whatever the true story, legends agree that the Yowling Simian must be kept away from its paw at all costs.
 

@@ -11,7 +11,7 @@ license: OGL
 ---
 # Cloak of the False Foe
 ## Item 12
-### [uncommon](uncommon "Uncommon Rarity Trait")[[invested]][[primal]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[invested]][[primal]]
 
 
 **Price** 1850 gp; 

@@ -98,25 +98,25 @@ You gain these features as a Swashbuckler. Abilities gained at higher levels lis
 
 | Your Level | Class Features |
 | --- | --- |
-| 1 | Ancestry and background, initial proficiencies, panache, swashbuckler's style, precise strike (2d6), confident finisher, swashbuckler feat |
+| 1 | Ancestry and background, attribute boosts, initial proficiencies, panache, precise strike, stylish combatant, swashbuckler's style, confident finisher, swashbuckler feat |
 | 2 | Skill feat, swashbuckler feat |
-| 3 | General feat, great fortitude, opportune riposte, skill increase, stylish trick, vivacious speed +10 feet |
+| 3 | Fortitude expertise, general feat, opportune riposte, skill increase, stylish tricks, vivacious speed |
 | 4 | Skill feat, swashbuckler feat |
 | 5 | Attribute boosts, ancestry feat, precise strike (3d6), skill increase, weapon expertise |
 | 6 | Skill feat, swashbuckler feat |
-| 7 | Evasion, general feat, skill increase, stylish trick, vivacious speed +15 feet, weapon specialization |
+| 7 | Confident evasion, general feat, skill increase, stylish tricks, vivacious speed, weapon specialization |
 | 8 | Skill feat, swashbuckler feat |
 | 9 | Ancestry feat, exemplary finish, precise strike (4d6), skill increase, swashbuckler expertise |
 | 10 | Attribute boosts, skill feat, swashbuckler feat |
-| 11 | Continuous flair, general feat, skill increase, vigilant senses, vivacious speed +20 feet |
+| 11 | Continuous flair, general feat, perception mastery, skill increase, vivacious speed |
 | 12 | Skill feat, swashbuckler feat |
 | 13 | Ancestry feat, improved evasion, light armor expertise, precise strike (5d6), skill increase, weapon mastery |
 | 14 | Skill feat, swashbuckler feat |
-| 15 | Attribute boosts, general feat, greater weapon specialization, keen flair, skill increase, stylish trick, vivacious speed +25 feet |
+| 15 | Attribute boosts, general feat, greater weapon specialization, keen flair, skill increase, stylish trick, vivacious speed |
 | 16 | Skill feat, swashbuckler feat |
 | 17 | Ancestry feat, precise strike (6d6), resolve, skill increase |
 | 18 | Skill feat, swashbuckler feat |
-| 19 | Eternal confidence, general feat, light armor mastery, skill increase, vivacious speed +30 feet |
+| 19 | Eternal confidence, general feat, light armor mastery, skill increase, vivacious speed |
 | 20 | Attribute boosts, skill feat, swashbuckler feat |
 
 ## Ancestry and Background
@@ -129,29 +129,32 @@ At 1st level you gain a number of proficiencies that represent your basic traini
 
 ## Panache
 
-You care as much about the way you accomplish something as whether you actually accomplish it in the first place. When you perform an action with particular bravado, you can leverage this moment of verve to perform spectacular, deadly maneuvers. This state of flair is called panache, and you are either in a state of panache or you are not.
+You care as much about the way you accomplish something as whether you actually accomplish it in the first place. When you perform an action with particular style, you can leverage this moment of verve to perform spectacular, deadly maneuvers. This heightened state of flair is called panache.
 
-You gain panache by successfully performing the skill check associated with specific actions that have a bit of flair, including [[Actions/Tumble Through|Tumble Through]] and additional actions determined by your swashbuckler's style (see below). At the GM's discretion, after succeeding at a check to perform a particularly daring action, such as swinging on a chandelier or sliding down a drapery, you also gain panache if your result is high enough (typically the very hard DC for your level, but the GM can choose a different threshold).
+You gain panache by performing actions that have the bravado trait. [[Actions/Tumble Through|Tumble Through]] and additional actions determined by your swashbuckler's style (see below) gain the bravado trait when you use them. The GM might determine that a check to perform a particularly daring action, such as swinging on a chandelier or sliding down a drapery, can gain the bravado trait. These checks typically involve at least a single action and a non-trivial DC. Normally, you gain and use panache only in combat encounters; when an encounter ends, you lose panache.
 
-While you have panache, you gain a +5-foot status bonus to your Speeds and gain a +1 circumstance bonus to checks to Tumble Through or to take any actions that give you panache due to your style. The precise strike class feature also causes you to deal extra precision damage while you have panache. Powerful finisher actions, including [[Class Features/Confident Finisher|Confident Finisher]], can be used only while you have panache and cause you to lose your panache.
-
-Normally, you gain and use panache only in combat encounters; when an encounter ends, you lose panache.
-
-## Swashbuckler's Style
-
-As a swashbuckler, you have your own distinctive style that enables you to gracefully handle everyday events and life-or-death situations alike. Choose a swashbuckler's style. This style determines the additional actions you use to gain panache and makes you trained in the skill related to that action. The styles presented in this book are as follows.
-
-*   **[[Class Features/Battledancer|Battledancer]]** To you, a fight is a kind of performance art, and you command your foes' attention with mesmerizing motions. You are trained in Performance and gain the [[Feats/Fascinating Performance|Fascinating Performance]] skill feat. You gain panache during an encounter when the result of your Performance check to [[Actions/Perform|Perform]] exceeds the Will DC of an observing foe, even if the foe isn't [[Conditions/Fascinated|Fascinated]].
-*   **[[Class Features/Braggart|Braggart]]** You boast, taunt, and psychologically needle your foes. You are trained in Intimidation. You gain panache during an encounter whenever you successfully [[Actions/Demoralize|Demoralize]] a foe.
-*   **[[Class Features/Fencer|Fencer]]** You move carefully, feinting and creating false openings to lead your foes into inopportune attacks. You are trained in Deception. You gain panache during an encounter whenever you successfully [[Actions/Feint|Feint]] or [[Actions/Create a Diversion|Create a Diversion]] against a foe.
-*   **[[Class Features/Gymnast|Gymnast]]** You reposition, maneuver, and bewilder your foes with daring feats of physical prowess. You are trained in Athletics. You gain panache during an encounter whenever you successfully [[Actions/Grapple|Grapple]], [[Actions/Shove|Shove]], or [[Actions/Trip|Trip]] a foe.
-*   **[[Class Features/Wit|Wit]]** You are friendly, clever, and full of humor, always knowing just what to say in any situation. Your witticisms leave foes unprepared for the skill and speed of your attacks. You are trained in Diplomacy and gain the [[Feats/Bon Mot|Bon Mot]] skill feat. You gain panache during an encounter whenever you succeed at a Bon Mot against a foe.
+Powerful finisher actions, including Confident Finisher, can be used only while you have panache and cause you to lose your panache.
 
 ## Precise Strike
 
-You strike with flair. When you have panache and you Strike with an agile or finesse melee weapon or agile or finesse unarmed attack, you deal 2 additional precision damage. If the strike is part of a finisher, the additional damage is 2d6 precision damage instead.
+When you make a Strike with an agile or finesse melee weapon or agile or finesse unarmed attack, you deal 2 additional precision damage. If the Strike is part of a finisher, the additional damage is 2d6 precision damage instead.
 
-As your swashbuckler level increases, so does your additional damage for precise strike. Increase the amount of additional damage on a Strike and the number of additional dice on a finisher by one at 5th, 9th, 13th, and 17th levels.
+As your swashbuckler level increases, so does your additional damage for precise strike. At 5th, 9th, 13th, and 17th level, increase the amount of additional damage on a Strike by 1 and the additional damage on a finisher by 1d6.
+
+## Stylish Combatant
+
+You gain a +1 circumstance bonus to skill checks with the bravado trait while in a combat encounter. While you have panache, you gain a +5-foot status bonus to your Speeds.
+
+## Swashbuckler's Style
+
+Your own distinctive style lets you gracefully handle any situation. Choose a swashbuckler's style. This style determines the additional actions you use to gain panache and makes you trained in the skill related to that action.
+
+*   **[[Class Features/Battledancer|Battledancer]]** To you, a fight is a kind of performance art, and you command your foes' attention with mesmerizing motions. You are trained in Performance and gain the Fascinating Performance skill feat. When you [[Actions/Perform|Perform]], the action gains the bravado trait..
+*   **[[Class Features/Braggart|Braggart]]** You boast, taunt, and psychologically needle your foes. You are trained in Intimidation. When you [[Actions/Demoralize|Demoralize]], the action gains the bravado trait.
+*   **[[Class Features/Fencer|Fencer]]** You move carefully, feinting and creating false openings to lead your foes into inopportune attacks. You are trained in Deception. When you [[Actions/Feint|Feint]] or [[Actions/Create a Diversion|Create a Diversion]], the action gains the bravado trait.
+*   **[[Class Features/Gymnast|Gymnast]]** You reposition, maneuver, and bewilder your foes with daring feats of physical prowess. You are trained in Athletics. When you [[Actions/Grapple|Grapple]], [[Actions/Reposition|Reposition]], [[Actions/Shove|Shove]], or [[Actions/Trip|Trip]], the action gains the bravado trait.
+*   **[[Class Features/Rascal|Rascal]]** You aren't afraid to use underhanded tactics to get the edge over your opponents. You are trained in Thievery and gain the Dirty Trick general feat. When you use Dirty Trick, the action gains the bravado trait.
+*   **[[Class Features/Wit|Wit]]** You are friendly, clever, and full of humor, always knowing just what to say. Your witticisms leave foes unprepared for the skill and speed of your attacks. You are trained in Diplomacy and gain the Bon Mot skill feat. When you use Bon Mot, the action gains the bravado trait.
 
 ## Confident Finisher
 
@@ -165,13 +168,13 @@ At 1st level and every even-numbered level, you gain a swashbuckler class feat.
 
 At 2nd level and every 2 levels thereafter, you gain a skill feat. You must be trained or better in the corresponding skill to select a skill feat.
 
+## Fortitude ExpertiseLevel 3
+
+Your physique has grown hardy in your adventures. Your proficiency rank for Fortitude saves increases to expert.
+
 ## General FeatsLevel 3
 
 At 3rd level and every 4 levels thereafter, you gain a general feat.
-
-## Great FortitudeLevel 3
-
-Your physique is incredibly hardy, granting you increased endurance. Your proficiency rank for Fortitude saves increases to expert.
 
 ## Opportune RiposteLevel 3
 
@@ -185,11 +188,11 @@ At 7th level, you can use skill increases to increase your proficiency rank to m
 
 ## Stylish TricksLevel 3
 
-At 3rd level, 7th level, and 15th level, you gain a skill feat. This feat must be for Acrobatics or the trained skill from your swashbuckler's style.
+At 3rd level, 7th level, and 15th level, you gain an additional skill increase you can apply only to Acrobatics or the skill from your swashbuckler's style. You also gain an additional skill feat at these levels. This feat must be for Acrobatics or the trained skill from your swashbuckler's style.
 
 ## Vivacious SpeedLevel 3
 
-When you've made an impression, you move even faster than normal, darting about the battlefield with incredible speed. Increase the status bonus to your Speeds when you have panache to a +10-foot status bonus; this bonus increases by 5 feet at 7th, 11th, 15th, and 19th levels. When you don't have panache, you still get half this status bonus to your Speed, rounded down to the nearest 5-foot increment.
+When you've made an impression, you move even faster than normal, darting about the battlefield with incredible speed. Increase the status bonus to your Speeds from stylish combatant to a +10-foot status bonus; this bonus increases by 5 feet at 7th, 11th, 15th, and 19th levels. When you don't have panache, you still get half this status bonus to your Speed, rounded down to the nearest 5-foot increment.
 
 ## Attribute BoostsLevel 5
 
@@ -221,21 +224,22 @@ You execute your finishing moves with spectacular flair, adding special effects 
 *   **Braggart** If the foe was temporarily immune to your Demoralize, their temporary immunity ends.
 *   **Fencer** The foe is off-guard until your next turn.
 *   **Gymnast** If the foe is grabbed, restrained, or prone, you gain a circumstance bonus to the damage roll equal to twice the number of weapon damage dice.
+*   **Rascal** The foe takes a –10 circumstance penalty to its speed until the start of your next turn.
 *   **Wit** The foe takes a -2 circumstance penalty to attack rolls against you until the start of your next turn.
 
 ## Swashbuckler ExpertiseLevel 9
 
-You perform swashbuckling techniques with exceptional flair, making them harder to resist. Your proficiency rank for your swashbuckler class DC increases to expert.
+You perform swashbuckling techniques with exceptional flair, making them harder to resist. Your circumstance bonus from Stylish Combatant increases to +2. Your proficiency rank for your swashbuckler class DC increases to expert.
 
 ## Continuous FlairLevel 11
 
-While not equal to the heights of your panache in combat, you have a dramatic flair about you in any situation. Whenever you succeed at a check during exploration that would have granted you panache in combat, you gain a +1 circumstance bonus to further checks for actions that would grant you panache in combat. This benefit ends when the exploration changes to a different scene (as determined by the GM) or shifts to an encounter or downtime.
+While not equal to your panache in combat, you have a dramatic flair about you in any situation. The circumstance bonus from Stylish Combatant applies in exploration mode.
 
 ## Vigilant SensesLevel 11
 
 Through your adventures, you've developed keen awareness and attention to detail. Your proficiency rank for Perception increases to master.
 
-## Improved EvasionLevel 13
+## Assured EvasionLevel 13
 
 Your ability to elude danger is matchless. Your proficiency rank for Reflex saves increases to legendary. When you roll a critical failure on a Reflex save, you get a failure instead. When you roll a failure on a Reflex save against a damaging effect, you take half damage.
 
@@ -253,9 +257,9 @@ Your damage from weapon specialization increases to 4 with weapons and unarmed a
 
 ## Keen FlairLevel 15
 
-You inflict particularly devastating attacks on even well-defended foes. When you Strike with a weapon or unarmed attack with which you have master proficiency, if you roll a 19 on the die and the roll is a success, you critically succeed instead.
+You inflict devastating attacks on even well-defended foes. When you Strike with a weapon or unarmed attack with which you have master proficiency, if you roll a 19 on the die and the roll is a success, you critically succeed instead.
 
-## ResolveLevel 17
+## Reinforced EgoLevel 17
 
 You've steeled your mind with resolve. Your proficiency rank for Will saves increases to master. When you roll a success on a Will save, you get a critical success instead.
 

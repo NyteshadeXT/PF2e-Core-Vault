@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/humanoid
   - pf2e/creature/type/orc
+  - pf2eMonster
   - pf2e/creature/level/8
 statblock: inline
 name: "Strak (7-8)"
@@ -23,13 +24,13 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Society Scenario #2-10: In Burning Dawn"
 name: "Strak (7-8)"
 level: "Creature 8"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Medium"
-trait_01: "chaotic"
-trait_02: "evil"
-trait_03: "humanoid"
-trait_04: "orc"
+trait_01: [[chaotic]]
+trait_02: [[evil]]
+trait_03: [[humanoid]]
+trait_04: [[orc]]
 modifier: 13
 perception:
   - name: "Perception"
@@ -78,11 +79,17 @@ attacks:
     desc: "`pf2:1` Moderate Alchemist&#x27;s Fire +19 (range increment 30 feet)\n__Damage__  2d8 fire 2d6 fire 5 fire"
 
   - name: "Directional Bombs"
-    desc: "  When throwing an alchemical bomb with the splash trait, Strak can treat the target's space as the first affected square of a 15-foot cone directed away from him, potentially allowing him to avoid allies and splash deeper into enemy lines. If the target takes up more than a single square, the target's square closest to Strak is the first affected square of the cone."
+    desc: "  When throwing an alchemical bomb with the splash trait, Strak can treat the target's space as the first affected square of a @Template[cone|distance:15] directed away from him, potentially allowing him to avoid allies and splash deeper into enemy lines. If the target takes up more than a single square, the target's square closest to Strak is the first affected square of the cone."
 
   - name: "Quick Bomber"
     desc: "`pf2:1`  Strak draws an alchemical bomb with an Interact action and throws it as a ranged Strike."
  
+```
+
+```encounter-table
+name: Strak (7-8)
+creatures:
+  - 1: Strak (7-8)
 ```
 
 

@@ -6,8 +6,9 @@ tags:
   - trait/investigator
   - trait/common
   - category/classfeature
+  - remaster
 aliases: "Compendium.pf2e.classfeatures.Item.lgo65ldX7WkXC8Ir"
-license: OGL
+license: ORC
 ---
 # Devise a Stratagem
 ## Feat 1
@@ -22,5 +23,5 @@ You can play out a battle in your head, using brains rather than brawn to execut
 
 You gain the [[Actions/Devise a Stratagem|Devise a Stratagem]] action.
 
-*Source: Pathfinder Advanced Player's Guide*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

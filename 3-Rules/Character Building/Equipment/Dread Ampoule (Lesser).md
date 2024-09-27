@@ -20,7 +20,7 @@ license: ORC
 ---
 # Dread Ampoule (Lesser)
 ## Item 1
-### [[alchemical]][[bomb]][[consumable]][[emotion]][[fear]][[3-Rules/Rule References/Mental]][[3-Rules/Rule References/Poison]][[splash]]
+### [[alchemical]][[bomb]][[consumable]][[3-Rules/Rule References/Emotion]][[3-Rules/trait_reference/fear]][[3-Rules/Rule References/Mental]][[3-Rules/Rule References/Poison]][[splash]]
 
 |  |  |
 | -- | -- |
@@ -38,7 +38,7 @@ license: ORC
 
 This flask is filled with a murky purple gas that briefly interferes with normal brain activity. A dread ampoule deals 1d6 mental damage and 1 mental splash damage.
 
-On a hit, the target becomes [[Conditions/Frightened 1|Frightened 1]], or [[Conditions/Frightened 1|Frightened 2]] on a critical hit. Many types also grant an item bonus to attack rolls.
+On a hit, the target becomes [[Conditions/Frightened|Frightened 1]], or [[Conditions/Frightened|Frightened 2]] on a critical hit. Many types also grant an item bonus to attack rolls.
 
 *Source: Pathfinder GM Core*
 *ORC*

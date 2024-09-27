@@ -5,6 +5,7 @@ noteType: pf2eHazard
 tags:
   - mechanical
   - trap
+  - pf2eHazard
   - complex
 source: Pathfinder Society Scenario #1-00: Origin of the Open Road
 aliases: "Compendium.pf2e.pfs-season-1-bestiary.Actor.mhKK0mhhI9V3OiUQ" 
@@ -22,14 +23,14 @@ name: "Acid Spray Fountain"
 level: "Hazard 6"
 
 trait_06: "Complex"
-trait_01: "mechanical"
-trait_02: "trap"
+trait_01: [[mechanical]]
+trait_02: [[trap]]
 modifier: 16
 sourcebook: "_Pathfinder Society Scenario #1-00: Origin of the Open Road_"
 ac: 24
 armorclass:
   - name: AC
-    desc: "24; __Fort__ +14, __Ref__ +13, __Will__ +0"
+    desc: "24; __Fort__ +14, __Ref__ +13, "
 hp: 56
 health:
   - name: ""
@@ -51,7 +52,7 @@ attacks:
   - name: ""
 
   - name: "Fountain Activation"
-    desc: "`pf2:r` **Trigger** A creature steps on a pressure pad.\n**Effect** The trap makes an acid spray Strike against a random creature in the room, although the initial damage is reduced by 8 as the acid eats through the concealing boxes. The trap then rolls initiative."
+    desc: "`pf2:r` **Trigger** A creature steps on a pressure pad.\n* * *\n\n**Effect** The trap makes an acid spray Strike against a random creature in the room, although the initial damage is reduced by 8 as the acid eats through the concealing boxes. The trap then rolls initiative."
   - name: "Melee"
     desc: "Acid Spray +14 () No MAP applies to strikes made by acid spray attacks"
 
@@ -62,5 +63,11 @@ attacks:
     desc: "(3 actions) On its initiative, the trap makes an acid spray Strike against a random creature in the room for each of its actions."
   - name: "Reset"
     desc: "The trap deactivates after 1 minute, at which point its acid reservoir is empty. It can't reactivate until this reservoir is refilled."
+```
+
+```encounter-table
+name: Acid Spray Fountain
+creatures:
+  - 1: Acid Spray Fountain
 ```
 

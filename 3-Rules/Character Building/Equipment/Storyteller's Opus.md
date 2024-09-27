@@ -4,6 +4,7 @@ title: "Storyteller's Opus"
 cssclasses: pf2e,pf2e-spell
 tags:
   - trait/grimoire
+  - trait/illusion
   - trait/magical
   - trait/common
 aliases: "Compendium.pf2e.equipment-srd.Item.1ii8hvKjkf71wYMx"
@@ -11,7 +12,7 @@ license: OGL
 ---
 # Storyteller's Opus
 ## Item 6
-### [[grimoire]][[magical]]
+### [[grimoire]][[illusion]][[magical]]
 
 
 **Price** 230 gp; 

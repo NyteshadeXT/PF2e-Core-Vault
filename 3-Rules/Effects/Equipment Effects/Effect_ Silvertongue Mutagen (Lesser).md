@@ -4,8 +4,9 @@ title: "Effect: Silvertongue Mutagen (Lesser)"
 cssclasses: pf2e,pf2e-spell
 tags:
   - trait/common
+  - remaster
 aliases: "Compendium.pf2e.equipment-effects.Item.dpIrjd1UPY7EnWUD"
-license: OGL
+license: ORC
 ---
 # Effect: Silvertongue Mutagen (Lesser)
 ## Level 1
@@ -30,5 +31,5 @@ Unimplemented effects:
 
 *   Become untrained in one skill you're trained in
 
-*Source: Pathfinder Core Rulebook*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

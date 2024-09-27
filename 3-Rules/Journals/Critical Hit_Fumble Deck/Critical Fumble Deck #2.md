@@ -14,18 +14,18 @@ tags:
 
 # Phantom Wind
 
-> You take a [[Other Effects/Effect\_ -2 circumstance penalty to ranged attacks|-2 circumstance penalty to ranged attacks]] until the end of your next turn.
+> You take a [[Other Effects/Effect_ -2 circumstance penalty to ranged attacks|-2 circumstance penalty to ranged attacks]] until the end of your next turn.
 
 `Ranged`
 
 # Overthink It
 
-> Your target gains a [[Other Effects/Effect\_ +2 circumstance bonus to AC|+2 circumstance bonus to AC]] against attacks you make against it until the end of your next turn.
+> Your target gains a [[Other Effects/Effect_ +2 circumstance bonus to AC|+2 circumstance bonus to AC]] against attacks you make against it until the end of your next turn.
 
 `Unarmed`
 
 # Power Down
 
-> Until healed, you are [[Conditions/Stupefied 1|Stupefied 2]]
+> Until healed, you are [[Conditions/Stupefied|Stupefied 2]]
 
 `Spell`

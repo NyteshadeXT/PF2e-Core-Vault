@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/skeleton
   - pf2e/creature/type/undead
   - pf2e/creature/type/unholy
+  - pf2eMonster
   - pf2e/creature/level/3
   - remaster
 statblock: inline
@@ -28,10 +29,10 @@ level: "Creature 3"
 
 alignment: ""
 size: "Large"
-trait_01: "mindless"
-trait_02: "skeleton"
-trait_03: "undead"
-trait_04: "unholy"
+trait_01: [[mindless]]
+trait_02: [[skeleton]]
+trait_03: [[undead]]
+trait_04: [[unholy]]
 modifier: 7
 perception:
   - name: "Perception"
@@ -73,6 +74,12 @@ attacks:
   - name: "Terrifying Charge"
     desc: "`pf2:2`  The giant Strides and makes a horns Strike with a +4 circumstance bonus to damage.\n\nIf the strike hits, the giant attempts to [[Actions/Demoralize|Demoralize]] the target."
  
+```
+
+```encounter-table
+name: Skeletal Giant
+creatures:
+  - 1: Skeletal Giant
 ```
 
 

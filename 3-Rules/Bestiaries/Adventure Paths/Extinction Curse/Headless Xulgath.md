@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/humanoid
   - pf2e/creature/type/xulgath
+  - pf2eMonster
   - pf2e/creature/level/11
 statblock: inline
 name: "Headless Xulgath"
@@ -23,18 +24,18 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #153: Life&#x27;s Long Shadows"
 name: "Headless Xulgath"
 level: "Creature 11"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Large"
-trait_01: "chaotic"
-trait_02: "evil"
-trait_03: "humanoid"
-trait_04: "xulgath"
+trait_01: [[chaotic]]
+trait_02: [[evil]]
+trait_03: [[humanoid]]
+trait_04: [[xulgath]]
 modifier: 20
 perception:
   - name: "Perception"
     desc: "+20; "
-languages: "Draconic, Sakvroth"
+languages: "Draconic, Sakvroth; (can&#x27;t speak any language)"
 skills:
   - name: "Skills"
     desc: "Athletics: +23, Intimidation: +21, Survival: +21"
@@ -62,7 +63,7 @@ abilities_mid:
     desc: "`pf2:r`  "
 
   - name: "Powerful Stench"
-    desc: " (aura,olfactory) 30 feet. A creature that enters the area must attempt a DC 29 Fortitude check save. On a failure, the creature is [[Conditions/Sickened 1|Sickened 2]], and on a critical failure, the creature is also [[Conditions/Slowed 1|Slowed 1]] for as long as it is sickened. While within the aura, the creature takes a -2 circumstance penalty to saves to recover from the sickened condition. A creature that succeeds at its save is temporarily immune to all xulgaths' stenches for 1 minute."
+    desc: " (aura,olfactory) 30 feet. A creature that enters the area must attempt a DC 29 Fortitude check save. On a failure, the creature is [[Conditions/Sickened|Sickened 2]], and on a critical failure, the creature is also [[Conditions/Slowed|Slowed 1]] for as long as it is sickened. While within the aura, the creature takes a -2 circumstance penalty to saves to recover from the sickened condition. A creature that succeeds at its save is temporarily immune to all xulgaths' stenches for 1 minute."
 
 attacks:
   - name: ""
@@ -71,7 +72,7 @@ attacks:
     desc: "`pf2:1` Claw +22 (agile, reach 15 feet)\n__Damage__  2d8 + 13 slashing plus grab"
 
   - name: "Choke Slam"
-    desc: "`pf2:1`  **Frequency** once per round\n**Requirements** The headless xulgath has a creature grabbed\n**Effect** The headless xulgath slams the creature against a nearby surface. The creature takes 6d6 + 6 bludgeoning damage and must attempt a DC 30 Fortitude check save.\n**Critical Success** The creature is no longer grabbed.\n**Failure** The creature is [[Conditions/Slowed 1|Slowed 1]] for 1 round.\n**Critical Failure** The creature is [[Conditions/Stunned 1|Stunned]] for 1 round."
+    desc: "`pf2:1`  **Frequency** once per round\n\n**Requirements** The headless xulgath has a creature grabbed\n* * *\n\n**Effect** The headless xulgath slams the creature against a nearby surface. The creature takes 6d6+6 bludgeoning damage and must attempt a DC 30 Fortitude check save.\n* * *\n\n**Critical Success** The creature is no longer grabbed.\n\n**Failure** The creature is [[Conditions/Slowed|Slowed 1]] for 1 round.\n\n**Critical Failure** The creature is [[Conditions/Stunned|Stunned]] for 1 round."
 
   - name: "Furious Claws"
     desc: "`pf2:3` (attack) The headless xulgath makes up to four claws Strikes, each against a different target. These attacks all count toward the headless xulgath's multiple attack penalty, but the penalty doesn't increase until after the headless xulgath makes all its attacks."
@@ -79,6 +80,12 @@ attacks:
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
     desc: "`pf2:1`  "
  
+```
+
+```encounter-table
+name: Headless Xulgath
+creatures:
+  - 1: Headless Xulgath
 ```
 
 

@@ -9,8 +9,9 @@ tags:
   - trait/trap
   - trait/uncommon
   - category/snare
+  - remaster
 aliases: "Compendium.pf2e.equipment-srd.Item.TFnr9Gq7VXPJu0GQ"
-license: OGL
+license: ORC
 ---
 # Grasping Snare
 ## Item 8
@@ -33,5 +34,5 @@ You rig vines and ropes to hold a creature in place. The first creature to enter
 
 **Critical Failure** The creature is immobilized for 1 minute or until it Escapes (DC 26).
 
-*Source: Pathfinder Core Rulebook*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

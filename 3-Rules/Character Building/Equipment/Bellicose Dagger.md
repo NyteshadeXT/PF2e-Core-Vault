@@ -17,7 +17,7 @@ license: OGL
 ---
 # Bellicose Dagger
 ## Item 7
-### [rare](rare "Rare Rarity Trait")[[agile]][[cursed]][[finesse]][[magical]][[thrown-10]][[versatile-s]]
+### [rare](rare.md "Rare Rarity Trait")[[3-Rules/Rule References/Agile]][[cursed]][[3-Rules/Rule References/Finesse]][[3-Rules/Rule References/Magical]][[thrown-10]][[versatile-s]]
 
 |  |  |
 | -- | -- |

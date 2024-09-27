@@ -24,7 +24,7 @@ This simple scarf is designed for wrapping around the head and comes with a gemm
 
 * * *
 
-**Activate—Consider the Consequences `pf2:1`**(concentrate)
+**Activate—Consider the Consequences** `pf2:1` (concentrate)
 
 **Frequency** once per day
 
@@ -32,11 +32,11 @@ This simple scarf is designed for wrapping around the head and comes with a gemm
 
 * * *
 
-**Activate—Reclaim Your Mind `pf2:r`**(concentrate, fortune)
+**Activate—Reclaim Your Mind** `pf2:r` (concentrate, fortune)
 
 **Frequency** once per hour
 
-**Trigger** You fail a saving throw against an effect that makes you [[Conditions/Confused|Confused]], [[Conditions/Fascinated|Fascinated]], or [[Conditions/Stupefied 1|Stupefied]]
+**Trigger** You fail a saving throw against an effect that makes you [[Conditions/Confused|Confused]], [[Conditions/Fascinated|Fascinated]], or [[Conditions/Stupefied|Stupefied]]
 
 **Effect** The _headwrap of wisdom_ clears your mind. You can reroll the saving throw and use the better result.
 

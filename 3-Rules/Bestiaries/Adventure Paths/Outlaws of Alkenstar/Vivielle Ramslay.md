@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/human
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/4
 statblock: inline
 name: "Vivielle Ramslay"
@@ -25,9 +26,9 @@ level: "Creature 4"
 
 alignment: ""
 size: "Medium"
-trait_01: "evil"
-trait_02: "human"
-trait_03: "humanoid"
+trait_01: [[evil]]
+trait_02: [[human]]
+trait_03: [[humanoid]]
 modifier: 10
 perception:
   - name: "Perception"
@@ -53,7 +54,7 @@ abilities_top:
   - name: "Items"
     desc: "[[Equipment/Hand Crossbow|Hand Crossbow]], [[Equipment/Shortsword|Shortsword]], [[Equipment/Chain Shirt|Chain Shirt]], [[Equipment/Disguise Kit|Disguise Kit]], 10x [[Equipment/Bolts|Bolts]]"
   - name: "Versatile Performance"
-    desc: "  The mastermind can use Performance instead of Diplomacy to [[Actions/Make an Impression|Make an Impression]] and instead of Intimidation to [[Actions/Demoralize|Demoralize]].\nThe mastermind can also use an acting Performance instead of Deception to [[Actions/Impersonate|Impersonate]]."
+    desc: "  The mastermind can use Performance instead of Diplomacy to [[Actions/Make an Impression|Make an Impression]] and instead of Intimidation to [[Actions/Demoralize|Demoralize]].\n\nThe mastermind can also use an acting Performance instead of Deception to [[Actions/Impersonate|Impersonate]]."
 
 abilities_mid:
   - name: ""
@@ -78,6 +79,12 @@ attacks:
   - name: "[[Bestiary Ability Glossary/Sneak Attack|Sneak Attack]]"
     desc: "  The mastermind deals an extra 1d6 precision damage to [[Conditions/Off-Guard|Off-Guard]] creatures."
  
+```
+
+```encounter-table
+name: Vivielle Ramslay
+creatures:
+  - 1: Vivielle Ramslay
 ```
 
 

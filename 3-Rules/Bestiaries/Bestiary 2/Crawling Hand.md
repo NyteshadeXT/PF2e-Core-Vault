@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/undead
   - pf2e/creature/type/unholy
+  - pf2eMonster
   - pf2e/creature/level/-1
 statblock: inline
 name: "Crawling Hand"
@@ -26,14 +27,14 @@ level: "Creature -1"
 
 alignment: ""
 size: "tiny"
-trait_01: "evil"
-trait_02: "undead"
-trait_03: "unholy"
+trait_01: [[evil]]
+trait_02: [[undead]]
+trait_03: [[unholy]]
 modifier: 5
 perception:
   - name: "Perception"
     desc: "+5; Lifesense 30 Feet, Tremorsense (Imprecise) 30 Feet"
-languages: "Common"
+languages: "Common; (can&#x27;t speak any language)"
 skills:
   - name: "Skills"
     desc: "Athletics: +5, Stealth: +6, Survival: +2"
@@ -69,6 +70,12 @@ attacks:
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
     desc: "`pf2:1`  "
  
+```
+
+```encounter-table
+name: Crawling Hand
+creatures:
+  - 1: Crawling Hand
 ```
 
 

@@ -15,7 +15,7 @@ license: OGL
 ---
 # Blaze
 ## Item 2
-### [uncommon](uncommon "Uncommon Rarity Trait")[[alchemical]][[consumable]][[drug]][[ingested]][[3-Rules/Rule References/Poison]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[alchemical]][[consumable]][[drug]][[ingested]][[3-Rules/Rule References/Poison]]
 
 **Category** drug; 
 **Price** 7 gp; 
@@ -36,9 +36,9 @@ This acrid blend of black powder, honey, saltpeter, sulfur, and stranger ingredi
 
 [[Equipment Effects/Effect_ Blaze|Effect: Blaze]]
 
-**Stage 2** [[Conditions/Stupefied 1|Stupefied 1]], and you treat severe or extreme environmental heat effects as if they were one step lower (1 hour)
+**Stage 2** [[Conditions/Stupefied|Stupefied 1]], and you treat severe or extreme environmental heat effects as if they were one step lower (1 hour)
 
-**Stage 3** [[Conditions/Fatigued|Fatigued]] and [[Conditions/Stupefied 1|Stupefied 2]] (1 hour)
+**Stage 3** [[Conditions/Fatigued|Fatigued]] and [[Conditions/Stupefied|Stupefied 2]] (1 hour)
 
 *Source: Pathfinder #178: Punks in a Powder Keg*
 *OGL*

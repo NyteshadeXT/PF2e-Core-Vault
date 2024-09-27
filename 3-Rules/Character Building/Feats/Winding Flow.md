@@ -6,8 +6,9 @@ tags:
   - trait/monk
   - trait/common
   - category/class
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.vXH0HWMHzevA1Wox"
-license: OGL
+license: ORC
 ---
 # Winding Flow `pf2:1`
 ## Feat 10
@@ -24,5 +25,5 @@ license: OGL
 
 Any journey consists of more than simply reaching your destination. You use two of the following actions in any order: Stand, Step, and Stride. You can't use the same action twice.
 
-*Source: Pathfinder Core Rulebook*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

@@ -6,6 +6,7 @@ cssClasses: pf2e
 aliases: "Compendium.pf2e.pathfinder-monster-core.Actor.8w0LwQHkip8nzFo0" 
 tags:
   - pf2e/creature/type/fey
+  - pf2eMonster
   - pf2e/creature/level/20
   - remaster
 statblock: inline
@@ -22,10 +23,10 @@ token: [[modules/pf2e-tokens-bestiaries/portraits/fey/norn.webp| ]]
 source: "Pathfinder Monster Core"
 name: "Norn"
 level: "Creature 20"
-rare_03: "Rare"
+rare_03: [[Rare]]
 alignment: ""
 size: "Large"
-trait_01: "fey"
+trait_01: [[fey]]
 modifier: 41
 perception:
   - name: "Perception"
@@ -33,7 +34,7 @@ perception:
 languages: "Common, Fey, Jotun; Truespeech"
 skills:
   - name: "Skills"
-    desc: "Crafting: +36, Deception: +35, Intimidation: +37, Lore (All): +28, Medicine: +38, Occultism: +34, Performance: +31, Religion: +34"
+    desc: "Crafting: +36, Deception: +35, Intimidation: +37, Medicine: +38, Occultism: +34, Performance: +31, Religion: +34, Lore (All): +28"
 abilityMods: [7, 6, 6, 6, 10, 7]
 speed: 35 feet,  fly 35 feet
 sourcebook: "_Pathfinder Monster Core_"
@@ -80,7 +81,7 @@ attacks:
     desc: " (fortune,misfortune) When a creature is subject to a fortune effect from a norn and a misfortune effect from any source other than a norn (or vice versa), the norn's effect automatically counteracts the other effect and then takes place normally, rather than the two effects canceling each other out. If both the fortune and misfortune effect are from a norn, then the two cancel each other out as normal. At the GM's discretion, powerful entities related to fate or luck, like Desna, Magdh, or Pharasma, can't have their effects negated by this ability."
 
   - name: "Sever Fate"
-    desc: " (occult) When a norn deals void damage with a Strike, she regains 10 Hit Points. The target must succeed at a DC 39 Fortitude check save or become [[Conditions/Drained 1|Drained 1]] ([[Conditions/Drained 1|Drained 2]] on a critical failure).\n\nFurther void damage dealt by the norn increases the drained condition value by 1 on a failed save (or by 2 on a critical failure), to a maximum of [[Conditions/Drained 1|Drained 4]]."
+    desc: " (occult) When a norn deals void damage with a Strike, she regains 10 Hit Points. The target must succeed at a DC 39 Fortitude check save or become [[Conditions/Drained|Drained 1]] ([[Conditions/Drained|Drained 2]] on a critical failure).\n\nFurther void damage dealt by the norn increases the drained condition value by 1 on a failed save (or by 2 on a critical failure), to a maximum of [[Conditions/Drained|Drained 4]]."
 
   - name: "Shift Fate"
     desc: "`pf2:r` (occult) **Trigger** A creature within 120 feet attempts a saving throw\n* * *\n\n**Effect** The creature rolls the saving throw twice, and then the norn decides which result applies. If the norn chooses the lower roll, this is a misfortune effect; if she chooses the higher roll, it's a fortune effect; if they're the same, she decides which trait to apply."
@@ -88,6 +89,12 @@ attacks:
   - name: "Snip Thread"
     desc: "`pf2:2` (death,manipulate,occult) **Frequency** three times per day\n* * *\n\n**Effect** The norn produces a golden thread linked to the fate of a creature within 100 feet of her, then snips it short with her shears. The target takes 100 void damage (DC 42 Fortitude check save). If the target is reduced to 0 Hit Points from this damage, the thread is completely severed and the creature dies immediately.\n\nA creature slain by Snip Thread can't be restored to life except by a [[Spells/Wish|Wish]] ritual or similarly powerful magic; or by divine intervention. Regardless of the outcome of their saving throw, a creature targeted by Snip Thread then becomes temporarily immune for 24 hours.\n\nThe norn can't use Snip Thread again for 1d4 rounds."
  
+```
+
+```encounter-table
+name: Norn
+creatures:
+  - 1: Norn
 ```
 
 

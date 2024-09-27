@@ -24,8 +24,8 @@ license: OGL
 | **Category** martial ranged weapon | **Group** firearm |
 | **Price** 250 gp |  |
 | **Bulk** 2 | **Size** med |
-|**Range** 50 ft.| **Reload** 1|
-| **Damage** 2d8 piercing  | **Usage** held-in-two-hands |
+|**Range** 30 ft.| **Reload** 1|
+| **Damage** 2d10 piercing  | **Usage** held-in-two-hands |
 
 
 
@@ -39,7 +39,7 @@ This black obsidian blade is a _+1 striking gun sword_. Magma seeps along its ma
 
 **Frequency** once per 10 minutes
 
-**Effect** Magma coats the sword blade completely before exploding from your weapon in a 15-foot emanation of fire and glass. Creatures in the area take 2d6 fire damage and 2d6 piercing damage with a DC 20 Reflex check save.
+**Effect** Magma coats the sword blade completely before exploding from your weapon in a @Template\[emanation|distance:15\] of fire and glass. Creatures in the area take 2d6 fire damage and 2d6 piercing damage with a DC 20 Reflex check save.
 
 *Source: Pathfinder Rage of Elements*
 *OGL*

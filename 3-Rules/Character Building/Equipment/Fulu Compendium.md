@@ -10,7 +10,7 @@ license: OGL
 ---
 # Fulu Compendium
 ## Item 9
-### [uncommon](uncommon "Uncommon Rarity Trait")[[magical]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[3-Rules/Rule References/Magical]]
 
 
 **Price** 550 gp; 
@@ -27,7 +27,7 @@ This pamphlet-sized book records the various symbols seen on fulu and also conta
 
 * * *
 
-**Effect** You rip a page from the fulu compendium and cast it in a wide arc; as it flies in that arc, it multiplies into a storm of fulus. All undead creatures in a 30-foot emanation are affected by a [[Equipment/Spirit-Sealing Fulu|Spirit-Sealing Fulu]] with a DC 25 Will check save DC of 25.
+**Effect** You rip a page from the fulu compendium and cast it in a wide arc; as it flies in that arc, it multiplies into a storm of fulus. All undead creatures in a @Template\[emanation|distance:30\] are affected by a [[Equipment/Spirit-Sealing Fulu|Spirit-Sealing Fulu]] with a DC 25 Will check save DC of 25.
 
 *Source: Pathfinder Secrets of Magic*
 *OGL*

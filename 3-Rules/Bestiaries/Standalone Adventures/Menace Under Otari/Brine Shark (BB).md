@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/aquatic
   - pf2e/creature/type/elemental
   - pf2e/creature/type/water
+  - pf2eMonster
   - pf2e/creature/level/3
   - remaster
 statblock: inline
@@ -26,13 +27,14 @@ level: "Creature 3"
 
 alignment: ""
 size: "Medium"
-trait_01: "aquatic"
-trait_02: "elemental"
-trait_03: "water"
+trait_01: [[aquatic]]
+trait_02: [[elemental]]
+trait_03: [[water]]
 modifier: 8
 perception:
   - name: "Perception"
     desc: "+8; Darkvision"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Athletics: +10, Stealth: +11, Survival: +8"
@@ -65,6 +67,12 @@ attacks:
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
     desc: "`pf2:1`  When the brine shark succeeds at its jaws Strike, it can use this action immediately after to attempt to [[Actions/Grapple|Grapple]] the target. This Grapple doesn't apply or count toward the shark's multiple attack penalty."
  
+```
+
+```encounter-table
+name: Brine Shark (BB)
+creatures:
+  - 1: Brine Shark (BB)
 ```
 
 

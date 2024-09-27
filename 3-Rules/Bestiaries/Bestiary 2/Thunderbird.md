@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/air
   - pf2e/creature/type/beast
   - pf2e/creature/type/electricity
+  - pf2eMonster
   - pf2e/creature/level/11
 statblock: inline
 name: "Thunderbird"
@@ -23,12 +24,12 @@ token: [[modules/pf2e-tokens-bestiaries/portraits/elemental/air/thunderbird.webp
 source: "Pathfinder Bestiary 2"
 name: "Thunderbird"
 level: "Creature 11"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "grg"
-trait_01: "air"
-trait_02: "beast"
-trait_03: "electricity"
+trait_01: [[air]]
+trait_02: [[beast]]
+trait_03: [[electricity]]
 modifier: 22
 perception:
   - name: "Perception"
@@ -58,10 +59,10 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Reactive Shock"
-    desc: "`pf2:r` (move) **Trigger** A creature enters the thunderbird's reach or uses a move action within their reach\n**Effect** A lightning bolt dancing on the thunderbird's body leaps onto the creature, dealing 8d6 electricity damage (DC 30 Reflex check save)."
+    desc: "`pf2:r` (move) **Trigger** A creature enters the thunderbird's reach or uses a move action within their reach\n* * *\n\n**Effect** A lightning bolt dancing on the thunderbird's body leaps onto the creature, dealing 8d6 electricity damage (DC 30 Reflex check save)."
 
   - name: "Storm Aura"
-    desc: " (air,aura,concentrate,move,primal,water) 100 feet. The thunderbird is surrounded by a cyclone of wind and driving rain. This area is greater difficult terrain for flying creatures, who must successfully [[Actions/Maneuver in Flight|Maneuver in Flight]] (DC 27) or be blown 30 feet away from the thunderbird. Creatures on the ground must succeed at a DC 27 Reflex check save to perform any move action and are knocked [[Conditions/Prone|Prone]] on a critical failure.\nThe driving rain in the storm aura imposes a -2 circumstance penalty on Perception checks and extinguishes smaller flames.\nA thunderbird can deactivate or activate the storm aura as a free action with the concentrate trait."
+    desc: " (air,aura,concentrate,move,primal,water) 100 feet. The thunderbird is surrounded by a cyclone of wind and driving rain. This area is greater difficult terrain for flying creatures, who must successfully [[Actions/Maneuver in Flight|Maneuver in Flight]] (DC 27) or be blown 30 feet away from the thunderbird. Creatures on the ground must succeed at a DC 27 Reflex check save to perform any move action and are knocked [[Conditions/Prone|Prone]] on a critical failure.\n\nThe driving rain in the storm aura imposes a -2 circumstance penalty on Perception checks and extinguishes smaller flames.\n\nA thunderbird can deactivate or activate the storm aura as a free action with the concentrate trait."
 
 attacks:
   - name: ""
@@ -79,7 +80,7 @@ attacks:
     desc: "_[[Spells/Control Weather|Control Weather]]_"
 
   - name: "Lightning Blast"
-    desc: "`pf2:2` (primal) The thunderbird spreads their wings and blasts their foe with thunderous bolts of lightning. Each creature in a 30-foot emanation takes 6d6 electricity damage and 6d6 sonic damage (DC 30 Reflex check save). The thunderbird can't use Lightning Blast for 1d4 rounds."
+    desc: "`pf2:2` (primal) The thunderbird spreads their wings and blasts their foe with thunderous bolts of lightning. Each creature in a @Template[emanation|distance:30] takes 6d6 electricity damage and 6d6 sonic damage (DC 30 Reflex check save). The thunderbird can't use Lightning Blast for 1d4 rounds."
 
   - name: "Stormflight"
     desc: "  A thunderbird can move in wind with ease. They don't treat wind as difficult terrain or need to [[Actions/Maneuver in Flight|Maneuver in Flight]] in high winds."
@@ -87,6 +88,12 @@ attacks:
   - name: "Thunderstrike"
     desc: "  A creature that takes damage from a thunderbird's thunderbolt Strike must succeed at a DC 28 Fortitude check save or be knocked [[Conditions/Prone|Prone]] and [[Conditions/Deafened|Deafened]] for 1 round."
  
+```
+
+```encounter-table
+name: Thunderbird
+creatures:
+  - 1: Thunderbird
 ```
 
 

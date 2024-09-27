@@ -18,5 +18,5 @@ license: OGL
 
 
 
-*Source: Pathfinder: Stolen Fate Player's Guide*
+*Source: Pathfinder Stolen Fate Player's Guide*
 *OGL*

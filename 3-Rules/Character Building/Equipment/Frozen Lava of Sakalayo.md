@@ -14,7 +14,7 @@ license: ORC
 ---
 # Frozen Lava of Sakalayo
 ## Item 17
-### [[consumable]][[fire]][[magical]]
+### [[consumable]][[3-Rules/Rule References/Fire]][[3-Rules/Rule References/Magical]]
 
 **Category** other; 
 **Price** 3000 gp; 

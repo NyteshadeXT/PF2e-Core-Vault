@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/earth
   - pf2e/creature/type/swarm
   - pf2e/creature/type/undead
+  - pf2eMonster
   - pf2e/creature/level/3
 statblock: inline
 name: "Cobblebone Swarm"
@@ -22,16 +23,17 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #181: Zombie Feast"
 name: "Cobblebone Swarm"
 level: "Creature 3"
-rare_03: "Rare"
+rare_03: [[Rare]]
 alignment: ""
 size: "Large"
-trait_01: "earth"
-trait_02: "swarm"
-trait_03: "undead"
+trait_01: [[earth]]
+trait_02: [[swarm]]
+trait_03: [[undead]]
 modifier: 9
 perception:
   - name: "Perception"
     desc: "+9; Lifesense 40 Feet"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Acrobatics: +9, Athletics: +8, Stealth: +11"
@@ -70,6 +72,12 @@ attacks:
   - name: "Settlement Bound"
     desc: "  A typical cobblebone swarm must remain in the settlement where it originated and can travel no farther than 1 mile from it without falling apart into component pieces, reviving if its pieces are returned to this area. Occasionally, cobblebone swarms are bound to a specific building, road, or district, rather than a settlement."
  
+```
+
+```encounter-table
+name: Cobblebone Swarm
+creatures:
+  - 1: Cobblebone Swarm
 ```
 
 

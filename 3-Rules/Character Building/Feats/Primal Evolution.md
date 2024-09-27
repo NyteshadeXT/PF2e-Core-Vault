@@ -7,8 +7,9 @@ tags:
   - trait/sorcerer
   - trait/common
   - category/class
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.K3TasgeZLJQ84qtZ"
-license: OGL
+license: ORC
 ---
 # Primal Evolution
 ## Feat 4
@@ -20,7 +21,7 @@ license: OGL
 
 **Prerequisites** bloodline that grants primal spells
 * * *
-You can call upon the creatures of the wild for aid. You gain an additional spell slot of your highest level, which you can use only to cast [[Spells/Summon Animal|Summon Animal]] or [[Spells/Summon Plant or Fungus|Summon Plant or Fungus]]. You can cast either of these spells using that spell slot, even if it they aren't in your spell repertoire.
+You can call upon the creatures of the wild for aid. You gain an additional spell slot of your highest rank, which you can use only to cast [[Spells/Summon Animal|Summon Animal]] or [[Spells/Summon Plant or Fungus|Summon Plant or Fungus]]. You can cast either of these spells using that spell slot, even if it they aren't in your spell repertoire.
 
-*Source: Pathfinder Core Rulebook*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

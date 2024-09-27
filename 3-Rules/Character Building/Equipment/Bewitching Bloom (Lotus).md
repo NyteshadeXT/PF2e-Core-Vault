@@ -12,7 +12,7 @@ license: OGL
 ---
 # Bewitching Bloom (Lotus)
 ## Item 9
-### [[invested]][[magical]][[tattoo]]
+### [[invested]][[3-Rules/Rule References/Magical]][[tattoo]]
 
 
 **Price** 600 gp; 

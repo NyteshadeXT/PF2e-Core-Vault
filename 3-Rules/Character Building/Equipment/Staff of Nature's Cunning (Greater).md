@@ -37,14 +37,14 @@ Moss and winding vines give this gnarled staff of wild wood a vibrant green ting
 **Effect** You expend a number of charges from the staff to cast a spell from its list.
 
 *   **Cantrip** [[Spells/Tangle Vine|Tangle Vine]]
-*   **1st** [[Spells/Protector Tree|Protector Tree]] , [[Spells/Shillelagh|Shillelagh]]
+*   **1st** [[Spells/Protector Tree|Protector Tree]], [[Spells/Shillelagh|Shillelagh]]
 *   **2nd** [[Spells/Entangling Flora|Entangling Flora]], [[Spells/Shape Wood|Shape Wood]]
 *   **3rd** [[Spells/One with Plants|One with Plants]], [[Spells/Wall of Thorns|Wall of Thorns]]
 *   **4th** [[Spells/Oaken Resilience|Oaken Resilience]], [[Spells/Speak with Plants|Speak with Plants]]
-    
-    * * *
-    
-    **Craft Requirements** Supply one casting of all listed levels of all listed spells.
+
+* * *
+
+**Craft Requirements** Supply one casting of all listed levels of all listed spells.
 
 *Source: Pathfinder Secrets of Magic*
 *OGL*

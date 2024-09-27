@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/good
   - pf2e/creature/type/human
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/17
 statblock: inline
 name: "Firebrand Bastion"
@@ -26,10 +27,10 @@ level: "Creature 17"
 
 alignment: ""
 size: "Medium"
-trait_01: "chaotic"
-trait_02: "good"
-trait_03: "human"
-trait_04: "humanoid"
+trait_01: [[chaotic]]
+trait_02: [[good]]
+trait_03: [[human]]
+trait_04: [[humanoid]]
 modifier: 29
 perception:
   - name: "Perception"
@@ -63,7 +64,7 @@ abilities_mid:
     desc: "  When a Firebrand bastion has a shield raised, they can use their Shield Block reaction when an attack is made against an adjacent ally. If they do, the shield prevents that ally from taking damage instead of preventing the bastion from taking damage, following the normal rules for Shield block."
 
   - name: "Shoving Block"
-    desc: "`pf2:0`  **Trigger** The Firebrand bastion uses the Shield Block reaction, and the opponent that triggered Shield Block is adjacent to the bastion and is the bastion's size or smaller\n**Effect** The Firebrand bastion automatically Shoves the target of the Shield Block 10 feet. If this would cause the creature to hit an object, the creature takes 6 bludgeoning damage from the impact."
+    desc: "`pf2:0`  **Trigger** The Firebrand bastion uses the Shield Block reaction, and the opponent that triggered Shield Block is adjacent to the bastion and is the bastion's size or smaller\n* * *\n\n**Effect** The Firebrand bastion automatically Shoves the target of the Shield Block 10 feet. If this would cause the creature to hit an object, the creature takes 6 bludgeoning damage from the impact."
 
 attacks:
   - name: ""
@@ -83,6 +84,12 @@ attacks:
   - name: "Quick Shield Block"
     desc: "  At the start of each of a Firebrand bastion's turns, the bastion gains an additional reaction they can use only to Shield Block."
  
+```
+
+```encounter-table
+name: Firebrand Bastion
+creatures:
+  - 1: Firebrand Bastion
 ```
 
 

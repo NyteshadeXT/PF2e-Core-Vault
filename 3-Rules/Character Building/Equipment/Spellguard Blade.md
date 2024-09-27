@@ -12,8 +12,9 @@ tags:
   - trait/versatile-s
   - trait/common
   - category/martial
+  - remaster
 aliases: "Compendium.pf2e.equipment-srd.Item.v6LpzpIA0BmKvEtK"
-license: OGL
+license: ORC
 ---
 # Spellguard Blade
 ## Item 7
@@ -28,11 +29,11 @@ license: OGL
 
 
 
-The guard of this +1 striking main-gauche is inscribed with eldritch glyphs that guard against magic.
+The guard of this _+1 striking main-gauche_ is inscribed with eldritch glyphs that guard against magic.
 
 When you are benefiting from the +1 circumstance bonus to AC from this weapon's parry trait, you also apply that circumstance bonus to your saving throws against spells that target you.
 
 [[Equipment Effects/Effect_ Spellguard Blade|Effect: Spellguard Blade]]
 
-*Source: Pathfinder Advanced Player's Guide*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

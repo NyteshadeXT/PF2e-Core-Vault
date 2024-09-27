@@ -10,6 +10,7 @@ tags:
   - pf2e/creature/type/fiend
   - pf2e/creature/type/lawful
   - pf2e/creature/type/unholy
+  - pf2eMonster
   - pf2e/creature/level/9
 statblock: inline
 name: "Urevian"
@@ -24,22 +25,22 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #164: Hands of the Devil"
 name: "Urevian"
 level: "Creature 9"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Medium"
-trait_01: "devil"
-trait_02: "evil"
-trait_03: "fiend"
-trait_04: "lawful"
-trait_05: "unholy"
+trait_01: [[devil]]
+trait_02: [[evil]]
+trait_03: [[fiend]]
+trait_04: [[lawful]]
+trait_05: [[unholy]]
 modifier: 19
 perception:
   - name: "Perception"
     desc: "+19; Greater Darkvision"
-languages: "Aklo, Chthonian, Common, Diabolic, Empyrean, Necril, Sakvroth"
+languages: "Aklo, Chthonian, Common, Diabolic, Empyrean, Necril, Sakvroth; telepathy 100 feet, tongues"
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +17, Deception: +21, Diplomacy: +19, Intimidation: +19, Legal Lore: +23, Religion: +19, Society: +19, Thievery: +18"
+    desc: "Acrobatics: +17, Deception: +21, Diplomacy: +19, Intimidation: +19, Religion: +19, Society: +19, Thievery: +18, Legal Lore: +23"
 abilityMods: [3, 4, 3, 6, 4, 6]
 speed: 25 feet
 sourcebook: "_Pathfinder #164: Hands of the Devil_"
@@ -79,14 +80,20 @@ attacks:
     desc: "_[[Spells/Call Spirit|Call Spirit]]_, _[[Spells/Diabolic Pact|Infernal Pact]]_, _[[Spells/Inveigle|Inveigle]]_"
 
   - name: "Draft Contract"
-    desc: "`pf2:3` (divine,manipulate) Urevian produces an infernal contract for a single living mortal. This contract can grant a wide range of abilities and effects, akin to the power of a [[Spells/Wish|Wish]] spell but fulfilled to the letter by Urevian. To receive any of those benefits, the mortal must willingly sign its true name to the contract. At that point, the mortal's soul is bound to Urevian and to Hell.\nWhile the contract is in effect, the mortal can't be restored to life except by wish or similar magic. If the mortal is restored to life by those means, Urevian knows which mortal came to life and can locate the creature or creatures who restored the mortal to life for 1 year, gaining the effects of a [[Spells/Locate|Locate]] spell with unlimited range. Avoiding the terms of an infernal contract is difficult and often dangerous."
+    desc: "`pf2:3` (divine,manipulate) Urevian produces an infernal contract for a single living mortal. This contract can grant a wide range of abilities and effects, akin to the power of a [[Spells/Wish|Wish]] spell but fulfilled to the letter by Urevian. To receive any of those benefits, the mortal must willingly sign its true name to the contract. At that point, the mortal's soul is bound to Urevian and to Hell.\n\nWhile the contract is in effect, the mortal can't be restored to life except by wish or similar magic. If the mortal is restored to life by those means, Urevian knows which mortal came to life and can locate the creature or creatures who restored the mortal to life for 1 year, gaining the effects of a [[Spells/Locate|Locate]] spell with unlimited range. Avoiding the terms of an infernal contract is difficult and often dangerous."
 
   - name: "Infernal Wound"
-    desc: " (divine) Urevian's Strikes also deal 2d6 bleed that resists attempts to heal them.\nThe flat check to stop the bleeding starts at DC 20 Flat check. The DC is reduced to DC 15 Flat check only if the bleeding creature or an ally successfully assists with the recovery. The DC to [[Actions/Administer First Aid|Administer First Aid]] to a creature with an infernal wound is increased by 5.\nA spellcaster or item attempting to use healing magic on a creature suffering from an infernal wound must succeed at a DC 28 counteract check or the magic fails to heal the creature.\n[[Bestiary Effects/Effect_ Infernal Wound|Effect: Infernal Wound]]"
+    desc: " (divine) Urevian's Strikes also deal 2d6 bleed that resists attempts to heal them.\n\nThe flat check to stop the bleeding starts at DC 20 Flat check. The DC is reduced to DC 15 Flat check only if the bleeding creature or an ally successfully assists with the recovery. The DC to [[Actions/Administer First Aid|Administer First Aid]] to a creature with an infernal wound is increased by 5.\n\nA spellcaster or item attempting to use healing magic on a creature suffering from an infernal wound must succeed at a DC 28 counteract check or the magic fails to heal the creature.\n\n[[Bestiary Effects/Effect_ Infernal Wound|Effect: Infernal Wound]]"
 
   - name: "Right of Inspection"
     desc: "  Urevian can cast his innate [[Spells/Scrying|Scrying]] spell at will, but only to target a creature with which he has a contract, a specific creature named in a contract he has, or a descendant of any of those creatures. The outcome of the target's saving throw is one step worse than the result it rolled."
  
+```
+
+```encounter-table
+name: Urevian
+creatures:
+  - 1: Urevian
 ```
 
 

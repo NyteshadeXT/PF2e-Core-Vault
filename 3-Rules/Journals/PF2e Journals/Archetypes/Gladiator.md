@@ -8,7 +8,7 @@ tags:
 ---
 
 # Gladiator
-The roar of the crowd and thrill of competitive combat drive you to become the best-and the fame isn't bad either. If there are sapient creatures observing a combat encounter, and these onlookers are neither engaged in the combat themselves nor allied or affiliated with either side, the combatants have spectators. The GM is the final arbiter.
+The roar of the crowd and thrill of competitive combat drive you to become the best—and the fame isn't bad either. You always do your best work under the fervent gaze of spectators, and by work, you of course mean violence.
 
 ## [[Feats/Gladiator Dedication|Gladiator Dedication]] Feat 2
 
@@ -16,7 +16,9 @@ The roar of the crowd and thrill of competitive combat drive you to become the b
 
 * * *
 
-You know how to turn combat into a form of entertainment. You become trained in Gladiatorial Lore; if already trained in Gladiatorial Lore, you instead become trained in another Lore skill of your choice. At the start of a combat encounter, if you have spectators, you gain a number of temporary HP equal to your character level for 1 minute and you can roll Performance for your initiative.
+You know how to turn combat into a form of entertainment. You gain the Additional Lore general feat for Gladiatorial Lore. If you were already trained in Gladiatorial Lore, you also become trained in a Lore skill of your choice.
+
+At the start of a combat encounter, if you have spectators, you gain a number of temporary HP equal to your character level for 1 minute and you can roll Performance for your initiative. If there are sapient creatures observing a combat encounter, and these onlookers are neither engaged in the combat themselves nor directly assisting any participants, the combatants have spectators. The GM is the final arbiter of whether or not a combat has spectators.
 
 **Special** You can't select another dedication feat until you have gained two other feats from the Gladiator archetype.
 
@@ -28,7 +30,7 @@ You know how to turn combat into a form of entertainment. You become trained in 
 
 You show off your fighting style to discourage your foes. You can use Performance to Demoralize.
 
-## [[Feats/Play To The Crowd|Play To The Crowd]] Feat 4
+## [[Feats/Play to the Crowd|Play to the Crowd]] Feat 4
 
 **Prerequisites** Gladiator Dedication
 
@@ -56,7 +58,9 @@ You pull punches to give a better show. You don't take the usual -2 circumstance
 
 * * *
 
-You're skilled with flashy weapons. You are trained with the bo staff, dueling cape, spiked chain, sword cane, and whip. Whenever you gain a class feature that grants you expert or greater proficiency in a given weapon or weapons, you also gain that proficiency in the weapons listed.
+You're skilled with flashy weapons and can use them to great effect. You have familiarity with the bo staff, dueling cape, spiked chain, sword cane, trident, war flail, and whip. For the purposes of proficiency, you treat these as simple weapons. The GM may add other martial weapons to this list as appropriate for the world or region you are playing in.
+
+Whenever you get a critical hit with one of these weapons, you get its critical specialization effect.
 
 ## [[Feats/Call Your Shot|Call Your Shot]] Feat 8
 
@@ -66,4 +70,12 @@ You're skilled with flashy weapons. You are trained with the bo staff, dueling c
 
 When you successfully Play to the Crowd, add the following to the list of benefits you can choose from:
 
-*   Choose a creature within 30 feet that can see you to become frightened 1. This effect has the emotion, fear, mental, and visual traits.
+*   Choose a creature within 30 feet that can see you to become frightened 2. This effect has the emotion, fear, mental, and visual traits.
+
+## [[Feats/Living for the Applause|Living for the Applause]] Feat 8
+
+@Embed\[Compendium.pf2e.feats-srd.Item.CL43gGiErw5FUtFQ inline hr=false\]
+
+## [[Feats/Big Debut|Big Debut]] Feat 10
+
+@Embed\[Compendium.pf2e.feats-srd.Item.PfnlKlLuqKOOhLyK inline hr=false\]

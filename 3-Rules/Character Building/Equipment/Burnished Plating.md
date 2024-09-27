@@ -10,7 +10,7 @@ license: OGL
 ---
 # Burnished Plating
 ## Item 1
-### [uncommon](uncommon "Uncommon Rarity Trait")[[adjustment]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[adjustment]]
 
 
 **Price** 5 gp; 

@@ -10,6 +10,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/human
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/1
 statblock: inline
 name: "Suhko (1-2)"
@@ -24,14 +25,14 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Society Scenario #4-13: Within the Prairies"
 name: "Suhko (1-2)"
 level: "Creature 1"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Medium"
-trait_01: "changeling"
-trait_02: "chaotic"
-trait_03: "evil"
-trait_04: "human"
-trait_05: "humanoid"
+trait_01: [[changeling]]
+trait_02: [[chaotic]]
+trait_03: [[evil]]
+trait_04: [[human]]
+trait_05: [[humanoid]]
 modifier: 10
 perception:
   - name: "Perception"
@@ -77,8 +78,14 @@ attacks:
     desc: "  Suhko has a Tiny prairie drake named Runt as a familiar. Runt has a speed of 25 feet, a burrow speed of 20 feet, 5 hit points, an AC of 16, and the following additional familiar abilities: [[Familiar Abilities/Restorative Familiar|Restorative Familiar]] and speech (Common). Note that as normal for a minion, Suhko must spend 1 action to command Runt to give him the 2 actions needed to use Restorative Familiar."
 
   - name: "Restorative Familiar"
-    desc: "`pf2:2` (concentrate) **Frequency** once per day\n**Effect** Runt gives up some of his animating energy and heals Suhko. He must be in Suhko’s space to do so. Runt restores 1d8 Hit Points to Suhko.\n**Note** Suhko must spend 1 action to command Runt to give him the 2 actions needed to use Restorative Familiar."
+    desc: "`pf2:2` (concentrate) **Frequency** once per day\n* * *\n\n**Effect** Runt gives up some of his animating energy and heals Suhko. He must be in Suhko's space to do so. Runt restores 1d8 Hit Points to Suhko.\n* * *\n\n**Note** Suhko must spend 1 action to command Runt to give him the 2 actions needed to use Restorative Familiar."
  
+```
+
+```encounter-table
+name: Suhko (1-2)
+creatures:
+  - 1: Suhko (1-2)
 ```
 
 

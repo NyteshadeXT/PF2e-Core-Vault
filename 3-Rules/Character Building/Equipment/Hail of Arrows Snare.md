@@ -9,8 +9,9 @@ tags:
   - trait/trap
   - trait/common
   - category/snare
+  - remaster
 aliases: "Compendium.pf2e.equipment-srd.Item.Odl2SyKw8Zg6ckKb"
-license: OGL
+license: ORC
 ---
 # Hail of Arrows Snare
 ## Item 16
@@ -23,5 +24,5 @@ license: OGL
 
 When a creature enters the snare's square, it releases hundreds upon hundreds of carefully prepared arrows, blanketing a 20-foot radius around the snare's square with massive arrow fire that deals 18d6 piercing damage. Creatures in the area must attempt a DC 37 Reflex check saving throw.
 
-*Source: Pathfinder Core Rulebook*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

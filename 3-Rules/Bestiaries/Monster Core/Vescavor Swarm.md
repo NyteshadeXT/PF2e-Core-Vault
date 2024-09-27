@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/fiend
   - pf2e/creature/type/swarm
   - pf2e/creature/type/unholy
+  - pf2eMonster
   - pf2e/creature/level/5
   - remaster
 statblock: inline
@@ -20,15 +21,16 @@ license: ORC
 columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
+token: [[modules/pf2e-tokens-monster-core/assets/portraits/vescavor-swarm.webp| ]]
 source: "Pathfinder Monster Core"
 name: "Vescavor Swarm"
 level: "Creature 5"
 
 alignment: ""
 size: "Large"
-trait_01: "fiend"
-trait_02: "swarm"
-trait_03: "unholy"
+trait_01: [[fiend]]
+trait_02: [[swarm]]
+trait_03: [[unholy]]
 modifier: 11
 perception:
   - name: "Perception"
@@ -64,8 +66,14 @@ attacks:
     desc: "`pf2:2` (auditory,mental) Each stupefied creature in the swarm's space must attempt a DC 21 Will check saving throw as the swarm yammers the endless chorus of the Outer Rifts.\n* * *\n\n**Critical Success** The target is unaffected and is temporarily immune to Maddening Gibbers for 1 minute.\n\n**Success** The target is unaffected and is immune to Maddening Gibbers for 1 round.\n\n**Failure** The target becomes [[Conditions/Confused|Confused]] for 1 round.\n\n**Critical Failure** The target becomes confused for 1 round and can't target demons while confused in this way."
 
   - name: "Ravenous Bites"
-    desc: "`pf2:1`  Each enemy in the swarm's space takes 3d6 piercing damage (DC 20 Fortitude check save). A creature that fails its save is also [[Conditions/Stupefied 1|Stupefied 1]] for 1 round."
+    desc: "`pf2:1`  Each enemy in the swarm's space takes 3d6 piercing damage (DC 20 Fortitude check save). A creature that fails its save is also [[Conditions/Stupefied|Stupefied 1]] for 1 round."
  
+```
+
+```encounter-table
+name: Vescavor Swarm
+creatures:
+  - 1: Vescavor Swarm
 ```
 
 

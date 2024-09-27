@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/clockwork
   - pf2e/creature/type/construct
   - pf2e/creature/type/mindless
+  - pf2eMonster
   - pf2e/creature/level/12
 statblock: inline
 name: "Glass Elephant"
@@ -22,16 +23,17 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #180: The Smoking Gun"
 name: "Glass Elephant"
 level: "Creature 12"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "huge"
-trait_01: "clockwork"
-trait_02: "construct"
-trait_03: "mindless"
+trait_01: [[clockwork]]
+trait_02: [[construct]]
+trait_03: [[mindless]]
 modifier: 22
 perception:
   - name: "Perception"
     desc: "+22; Darkvision"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Athletics: +25"
@@ -51,12 +53,12 @@ abilities_top:
   - name: ""
 
   - name: "Wind-Up"
-    desc: "  24 hours, DC 29 Thievery check, standby\nFor a clockwork to act, it must be wound with a unique key by another creature. This takes 1 minute. Once wound, it remains operational for the listed amount of time, usually 24 hours, after which time it becomes unaware of its surroundings and can't act until it's wound again. Some clockworks' abilities require them to spend some of their remaining operational time. They can't spend more than they have and shut down immediately once they have 0 time remaining. If it's unclear when a clockwork was last wound, most clockwork keepers wind all their clockworks at a set time, typically 8 a.m.\nA clockwork that lists standby in its wind-up entry can enter standby mode as a 3-action activity. Its operational time doesn't decrease in standby, but it can sense its surroundings (with a -2 penalty to Perception). It can't act, with one exception: when it perceives a creature, it can exit standby as a reaction (rolling initiative if appropriate).\nA creature can attempt to Disable a Device to wind a clockwork down (with a DC listed in the wind-up entry). For each success, the clockwork loses 1 hour of operational time. This can be done even if the clockwork is in standby mode."
+    desc: "  24 hours, DC 29 Thievery check, standby\n\nFor a clockwork to act, it must be wound with a unique key by another creature. This takes 1 minute. Once wound, it remains operational for the listed amount of time, usually 24 hours, after which time it becomes unaware of its surroundings and can't act until it's wound again. Some clockworks' abilities require them to spend some of their remaining operational time. They can't spend more than they have and shut down immediately once they have 0 time remaining. If it's unclear when a clockwork was last wound, most clockwork keepers wind all their clockworks at a set time, typically 8 a.m.\n\nA clockwork that lists standby in its wind-up entry can enter standby mode as a 3-action activity. Its operational time doesn't decrease in standby, but it can sense its surroundings (with a -2 penalty to Perception). It can't act, with one exception: when it perceives a creature, it can exit standby as a reaction (rolling initiative if appropriate).\n\nA creature can attempt to Disable a Device to wind a clockwork down (with a DC listed in the wind-up entry). For each success, the clockwork loses 1 hour of operational time. This can be done even if the clockwork is in standby mode."
 
 abilities_mid:
   - name: ""
   - name: "Spell Reflection"
-    desc: "`pf2:r` (arcane) **Trigger** The glass elephant is targeted by a spell\n**Effect** The elephant positions its reflective magical surfaces to turn the spell back on the caster. It tries to counteract the spell, making an Athletics check for its counteract check. If it successfully counteracts the spell, the effect is turned back on the caster."
+    desc: "`pf2:r` (arcane) **Trigger** The glass elephant is targeted by a spell\n* * *\n\n**Effect** The elephant positions its reflective magical surfaces to turn the spell back on the caster. It tries to counteract the spell, making an Athletics check for its counteract check. If it successfully counteracts the spell, the effect is turned back on the caster."
 
   - name: "Vulnerable to Shatter"
     desc: "  The glass elephant is affected by the [[Spells/Shatter|Shatter]] spell as though it were an unattended object."
@@ -82,6 +84,12 @@ attacks:
   - name: "Grabbing Trunk"
     desc: "  A Medium or smaller creature hit by the glass elephant's trunk is [[Conditions/Grabbed|Grabbed]]. If the elephant moves, it can bring the grabbed creature along with it."
  
+```
+
+```encounter-table
+name: Glass Elephant
+creatures:
+  - 1: Glass Elephant
 ```
 
 

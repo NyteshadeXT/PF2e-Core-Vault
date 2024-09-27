@@ -1,16 +1,17 @@
 ---
-title: "Sky Chariot (Medium)"
+title: Sky Chariot (Medium)
 obsidianUIMode: preview
-noteType: pf2eMonster
+noteType: pf2eVehicle
 cssClasses: pf2e
-aliases: "Compendium.pf2e.vehicles.Actor.vbJL4dPQcXfYigwv" 
 tags:
-  - pf2e/creature/level/10
+  - pf2eVehicle
+
   - remaster
-statblock: inline
-name: "Sky Chariot (Medium)"
+source: Pathfinder GM Core
+aliases: "Compendium.pf2e.vehicles.Actor.vbJL4dPQcXfYigwv" 
 level: 10
 license: ORC
+statblock: inline
 ---
 
 ```statblock
@@ -19,39 +20,48 @@ forcecolumns: true
 layout: Basic Pathfinder 2e Layout
 source: "Pathfinder GM Core"
 name: "Sky Chariot (Medium)"
-level: "Creature 10"
-rare_03: "Uncommon"
-alignment: ""
+level: "Vehicle 10"
+rare_03: [[Uncommon]]
+
 size: "Large"
 modifier: 
 perception:
-  - name: "Perception"
-    desc: "NaN; "
-skills:
-  - name: "Skills"
-    desc: ""
-abilityMods: [, , , , , ]
-speed: 
-sourcebook: "_Pathfinder GM Core_"
+  - name: ""
+  - name: "Price"
+    desc: "3000 gp\n* * *"
+abilities_top:
+  - name: ""
+  - name: "Space"
+    desc: "10 feet long, 20 feet wide, 8 feet high"
+  - name: "Crew"
+    desc: "1 pilot; **Passengers** 3"
+  - name: "Piloting Check"
+    desc: "Arcana (DC 29), Nature (DC 29 to 37, depending on pulling creature), or Piloting Lore (DC 27)"
 ac: 25
 armorclass:
   - name: AC
-    desc: "25; __Fort__ +19, __Ref__ NaN, __Will__ NaN"
+    desc: "25; __Fort__ +19"
 hp: 160
 health:
   - name: ""
-  - name: HP
-    desc: "160; __Immunities__  critical hits,  object immunities,  precision"
-abilities_top:
-  - name: ""
-
+  - name: "Hardness"
+    desc: "15; **HP** 160 (BT 80); __Immunities__  critical hits,  object immunities,  precision"
+speed: "the fly Speed of the slowest pulling creature (pulled by 4 Large creatures, 2 Huge creatures, or 1 Gargantuan creature)"
 abilities_mid:
   - name: ""
 attacks:
   - name: ""
- 
+  - name: "Collision"
+    desc: "7d10 (DC 27)"
+
+
+
+sourcebook: "_Pathfinder GM Core_"
 ```
 
-
-
+```encounter-table
+name: Sky Chariot (Medium)
+creatures:
+  - 1: Sky Chariot (Medium)
+```
 

@@ -6,8 +6,9 @@ tags:
   - trait/gnoll
   - trait/common
   - category/ancestry
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.5vipJDU5hGs0SejD"
-license: OGL
+license: ORC
 ---
 # Hyena Familiar
 ## Feat 1
@@ -18,7 +19,7 @@ license: OGL
 
 
 
-Hyenas serve gnolls as pets, trackers, and in your case, vessels for spirits. You gain a Tiny hyena as a familiar.
+Hyenas serve kholo as pets and trackers. Some kholos, such as yourself, draw the attention of smaller hyenas that are vessels for magical spirits. You gain a Tiny hyena as a familiar.
 
-*Source: Pathfinder Lost Omens: The Mwangi Expanse*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.pathfinder-monster-core.Actor.C1gYuDSwTkTIkAcC"
 tags:
   - pf2e/creature/type/humanoid
   - pf2e/creature/type/ratfolk
+  - pf2eMonster
   - pf2e/creature/level/4
   - remaster
 statblock: inline
@@ -26,8 +27,8 @@ level: "Creature 4"
 
 alignment: ""
 size: "Small"
-trait_01: "humanoid"
-trait_02: "ratfolk"
+trait_01: [[humanoid]]
+trait_02: [[ratfolk]]
 modifier: 10
 perception:
   - name: "Perception"
@@ -63,7 +64,7 @@ attacks:
   - name: "Melee"
     desc: "`pf2:1` Fangs +12 (agile, finesse)\n__Damage__  1d4 piercing"
 
-  - name: "Melee"
+  - name: "Ranged"
     desc: "`pf2:1` Alchemical Grenade +13 (range increment 20 feet, splash)\n__Damage__  1d6 acid"
 
   - name: "Ranged"
@@ -81,6 +82,12 @@ attacks:
   - name: "Swarming"
     desc: "  A ratfolk grenadier can end its movement in the same square as an ally that also has this ability. Only two such creatures can share the same space."
  
+```
+
+```encounter-table
+name: Ratfolk Grenadier
+creatures:
+  - 1: Ratfolk Grenadier
 ```
 
 

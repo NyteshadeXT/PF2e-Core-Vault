@@ -6,6 +6,7 @@ cssClasses: pf2e
 aliases: "Compendium.battlezoo-bestiary-su-pf2e.pf2e-battlezoo-su-actors.Actor.eh6RYMcli24fAhmu" 
 tags:
   - pf2e/creature/type/beast
+  - pf2eMonster
   - pf2e/creature/level/9
 statblock: inline
 name: "Gastrophage"
@@ -24,14 +25,15 @@ level: "Creature 9"
 
 alignment: ""
 size: "Large"
-trait_01: "beast"
+trait_01: [[beast]]
 modifier: 18
 perception:
   - name: "Perception"
     desc: "+18; Darkvision"
+languages: ""
 skills:
   - name: "Skills"
-    desc: "Athletics: +20, "
+    desc: "Athletics: +20, Athletics: +20"
 abilityMods: [6, 2, 4, -4, 1, 2]
 speed: 35 feet
 sourcebook: "_Battlezoo Bestiary: Strange and Unusual_"
@@ -68,8 +70,14 @@ attacks:
     desc: " (acid) While the gastrophage is under the affects of persistent acid damage, its jaws and tail Strikes deal an additional 1d6 acid damage."
 
   - name: "Gastric Explosion"
-    desc: "`pf2:2` (acid) Corrosive bile sprays forth from the pores in the gastrophage's skin. This deals 8d6 acid damage in a 20-foot emanation (DC 28 Reflex check save). The gastrophage automatically takes 1d4 rounds.\n**Critical Success** The creature takes no damage.\n**Success** The creature takes half damage.\n**Failure** The creature takes full damage and 2d6 persistent acid damage.\n**Critical Failure** The creature takes double damage and 2d6 persistent acid damage."
+    desc: "`pf2:2` (acid) Corrosive bile sprays forth from the pores in the gastrophage's skin. This deals 8d6 acid damage in a 20-foot emanation (DC 28 Reflex check save). The gastrophage automatically takes 1d4 rounds.\n* * *\n\n**Critical Success** The creature takes no damage.\n\n**Success** The creature takes half damage.\n\n**Failure** The creature takes full damage and 2d6 persistent acid damage.\n\n**Critical Failure** The creature takes double damage and 2d6 persistent acid damage."
  
+```
+
+```encounter-table
+name: Gastrophage
+creatures:
+  - 1: Gastrophage
 ```
 
 

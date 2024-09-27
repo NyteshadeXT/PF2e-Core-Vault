@@ -13,7 +13,7 @@ license: OGL
 ---
 # Frying Pan
 ## Item 0
-### [[fatal-d8]][[halfling]]
+### [[fatal-d8]][[3-Rules/trait_reference/halfling]]
 
 |  |  |
 | -- | -- |

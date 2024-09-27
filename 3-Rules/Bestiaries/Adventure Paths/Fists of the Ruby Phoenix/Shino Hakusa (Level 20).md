@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/human
   - pf2e/creature/type/humanoid
   - pf2e/creature/type/lawful
+  - pf2eMonster
   - pf2e/creature/level/20
 statblock: inline
 name: "Shino Hakusa (Level 20)"
@@ -23,13 +24,13 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #168: King of the Mountain"
 name: "Shino Hakusa (Level 20)"
 level: "Creature 20"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Medium"
-trait_01: "evil"
-trait_02: "human"
-trait_03: "humanoid"
-trait_04: "lawful"
+trait_01: [[evil]]
+trait_02: [[human]]
+trait_03: [[humanoid]]
+trait_04: [[lawful]]
 modifier: 34
 perception:
   - name: "Perception"
@@ -57,7 +58,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Nimble Dodge"
-    desc: "`pf2:r`  **Trigger** Hakusa is targeted with a melee or ranged attack by an attacker she can see.\n**Effect** Hakusa gains a +2 circumstance bonus to AC against the triggering attack."
+    desc: "`pf2:r`  **Trigger** Hakusa is targeted with a melee or ranged attack by an attacker she can see.\n* * *\n\n**Effect** Hakusa gains a +2 circumstance bonus to AC against the triggering attack."
 
 attacks:
   - name: ""
@@ -75,14 +76,20 @@ attacks:
     desc: "  Hakusa absorbs vitality with each blow. She gains fast healing 10 for 1 round whenever she successfully Strikes with a melee unarmed attack."
 
   - name: "Pressure Point Attack"
-    desc: "`pf2:2`  Hakusa rapidly strikes at pressure points to debilitate a foe. She makes a fingers Strike. On a hit, the target takes damage as normal and must attempt a DC 43 Fortitude check save. Regardless of the result of the save, the target is then temporarily immune to Pressure Point Attack for 1 minute.\n**Critical Success** The target is unaffected.\n**Success** The target's muscles become temporarily weaker. For 1 round, the target is [[Conditions/Enfeebled 1|Enfeebled 2]], and any time it attempts to take an action with the manipulate trait, the action is disrupted unless it succeeds at a flat check with a DC equal to 5 + its enfeebled value.\n**Failure** As success, but the duration is 1 minute.\n**Critical Failure** As success, but the duration is 1 minute, the flat check is DC 11, and the target takes a -10-foot status penalty to all Speeds for the duration."
+    desc: "`pf2:2`  Hakusa rapidly strikes at pressure points to debilitate a foe. She makes a fingers Strike. On a hit, the target takes damage as normal and must attempt a DC 43 Fortitude check save. Regardless of the result of the save, the target is then temporarily immune to Pressure Point Attack for 1 minute.\n* * *\n\n**Critical Success** The target is unaffected.\n\n**Success** The target's muscles become temporarily weaker. For 1 round, the target is [[Conditions/Enfeebled|Enfeebled 2]], and any time it attempts to take an action with the manipulate trait, the action is disrupted unless it succeeds at a flat check with a DC equal to 5 + its enfeebled value.\n\n**Failure** As success, but the duration is 1 minute.\n\n**Critical Failure** As success, but the duration is 1 minute, the flat check is DC 11, and the target takes a -10-foot status penalty to all Speeds for the duration."
 
   - name: "[[Bestiary Ability Glossary/Sneak Attack|Sneak Attack]]"
     desc: "  Hakusa's Strikes deal an extra 5d6 precision damage to [[Conditions/Off-Guard|Off-Guard]] creatures."
 
   - name: "Swallows in Flight"
-    desc: "`pf2:2` (certain-kill,void) **Frequency** once per round\n**Effect** Hakusa strikes a series of pressure points on her target's body that redirects its ki to the heart, before following up with a palm strike to the sternum. She makes a fingers Strike and a palm Strike, dealing damage as normal. If both hit, the target takes 8d10 void damage as its life energy escapes from its body in a shower of bird-shaped sparks. The target attempts a DC 43 Fortitude check save.\n**Critical Success** The target is unaffected.\n**Success** The target takes half the void damage.\n**Failure** The target takes full damage, its life energy exploding violently from its back in a 30-foot cone originating from the target. All of Hakusa's other enemies in the cone also take the void damage (DC 43 Fortitude check save).\n**Critical Failure** As failure, but the target takes double void damage."
+    desc: "`pf2:2` (certain-kill,void) **Frequency** once per round\n* * *\n\n**Effect** Hakusa strikes a series of pressure points on her target's body that redirects its ki to the heart, before following up with a palm strike to the sternum. She makes a fingers Strike and a palm Strike, dealing damage as normal. If both hit, the target takes 8d10 void damage as its life energy escapes from its body in a shower of bird-shaped sparks. The target attempts a DC 43 Fortitude check save.\n* * *\n\n**Critical Success** The target is unaffected.\n\n**Success** The target takes half the void damage.\n\n**Failure** The target takes full damage, its life energy exploding violently from its back in a @Template[cone|distance:30] originating from the target. All of Hakusa's other enemies in the cone also take the void damage (DC 43 Fortitude check save).\n\n**Critical Failure** As failure, but the target takes double void damage."
  
+```
+
+```encounter-table
+name: Shino Hakusa (Level 20)
+creatures:
+  - 1: Shino Hakusa (Level 20)
 ```
 
 

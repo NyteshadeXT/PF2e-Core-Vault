@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/dragon
   - pf2e/creature/type/earth
   - pf2e/creature/type/evil
+  - pf2eMonster
   - pf2e/creature/level/7
 statblock: inline
 name: "Sapphire Drake"
@@ -26,9 +27,9 @@ level: "Creature 7"
 
 alignment: ""
 size: "Large"
-trait_01: "dragon"
-trait_02: "earth"
-trait_03: "evil"
+trait_01: [[dragon]]
+trait_02: [[earth]]
+trait_03: [[evil]]
 modifier: 15
 perception:
   - name: "Perception"
@@ -36,7 +37,7 @@ perception:
 languages: "Draconic"
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +14, Athletics: +17, Intimidation: +17, Stealth: +12, "
+    desc: "Acrobatics: +14, Athletics: +17, Intimidation: +17, Stealth: +12"
 abilityMods: [6, 3, 5, -1, 2, 2]
 speed: 20 feet,  climb 25 feet,  fly 50 feet
 sourcebook: "_Battlezoo Bestiary_"
@@ -55,7 +56,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Harden Scales"
-    desc: "`pf2:r` (arcane,earth) The sapphire drake temporarily hardens its body against threats;\n**Frequency** once per minute;\n**Trigger** The sapphire drake fails a Fortitude save;\n**Effect** The drake improves the result of its save by one degree, turning a failure into a success or a critical failure into a failure. For the next 1d4 rounds, the sapphire drake gains a +1 status bonus to AC and a -10-foot status penalty to Speeds.\nEffect: Harden Scales"
+    desc: "`pf2:r` (arcane,earth) The sapphire drake temporarily hardens its body against threats;\n\n**Frequency** once per minute;\n\n**Trigger** The sapphire drake fails a Fortitude save;\n\n**Effect** The drake improves the result of its save by one degree, turning a failure into a success or a critical failure into a failure. For the next 1d4 rounds, the sapphire drake gains a +1 status bonus to AC and a -10-foot status penalty to Speeds.\n* * *\n\n[[Effects/Effect_ Harden Scales|Effect: Harden Scales]]"
 
 attacks:
   - name: ""
@@ -67,17 +68,23 @@ attacks:
     desc: "`pf2:1` Tail +17 (reach 10 feet)\n__Damage__  2d8 + 8 bludgeoning"
 
   - name: "Bone-Shaking Hum"
-    desc: "`pf2:1` (incapacitation,manipulate,sonic) **Frequency** once per minute;\n**Effect** The sapphire drake strikes its own crystal hide, causing its body to emit a resonating hum. Each non-dragon creature within a 20-foot burst must attempt a Fortitude save. On a failure, the creature is Slowed 1; on a critical failure, it is Slowed 2"
+    desc: "`pf2:1` (incapacitation,manipulate,sonic) **Frequency** once per minute;\n\n**Effect** The sapphire drake strikes its own crystal hide, causing its body to emit a resonating hum. Each non-dragon creature within a 20-foot burst must attempt a DC 24 Fortitude save. On a failure, the creature is [[Conditions/Slowed|Slowed 1]]; on a critical failure, it is [[Conditions/Slowed|Slowed 2]]"
 
   - name: "Draconic Frenzy"
     desc: "`pf2:2`  The sapphire drake makes one fangs Strike and two tail Strikes in any order."
 
   - name: "Embershard Breath"
-    desc: "`pf2:2` (arcane,earth,fire) The sapphire drake exhales flaming blue crystals that deal 4d6 fire and 4d6 piercing damage in a 30-foot cone (basic Reflex save).\nThe area becomes difficult terrain; the first time a creature enters an affected square each round, that creature takes 1d6 fire and 1d6 piercing damage (basic Reflex save).\nThe sapphire drake can't use Embershard Breath again for 1d6 rounds."
+    desc: "`pf2:2` (arcane,earth,fire) The sapphire drake exhales flaming blue crystals that deal 4d6 fire and 4d6 piercing damage in a 30-foot cone (DC 24 basic Reflex save).\n\nThe area becomes difficult terrain; the first time a creature enters an affected square each round, that creature takes 1d6 fire and 1d6 piercing damage (DC 24 basic Reflex save).\n\nThe sapphire drake can't use Embershard Breath again for 1d6 rounds."
 
   - name: "Speed Surge"
     desc: "`pf2:1` (move) The sapphire drake moves up to twice its Speed. It can do this three times per day."
  
+```
+
+```encounter-table
+name: Sapphire Drake
+creatures:
+  - 1: Sapphire Drake
 ```
 
 

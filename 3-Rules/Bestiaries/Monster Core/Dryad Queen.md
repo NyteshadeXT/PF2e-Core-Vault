@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/nymph
   - pf2e/creature/type/plant
   - pf2e/creature/type/wood
+  - pf2eMonster
   - pf2e/creature/level/13
   - remaster
 statblock: inline
@@ -25,13 +26,13 @@ token: [[modules/pf2e-tokens-bestiaries/portraits/fey/nymph/dryad-queen.webp| ]]
 source: "Pathfinder Monster Core"
 name: "Dryad Queen"
 level: "Creature 13"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Medium"
-trait_01: "fey"
-trait_02: "nymph"
-trait_03: "plant"
-trait_04: "wood"
+trait_01: [[fey]]
+trait_02: [[nymph]]
+trait_03: [[plant]]
+trait_04: [[wood]]
 modifier: 25
 perception:
   - name: "Perception"
@@ -39,7 +40,7 @@ perception:
 languages: "Common, Elven, Fey, Muan"
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +25, Athletics: +19, Crafting: +23 (+25 woodworking), Deception: +30, Diplomacy: +30, Intimidation: +27, Nature: +24, Performance: +28, Stealth: +25, Survival: +24"
+    desc: "Acrobatics: +25, Athletics: +19, Crafting: +23, Deception: +30, Diplomacy: +30, Intimidation: +27, Nature: +24, Performance: +28, Stealth: +25, Survival: +24"
 abilityMods: [2, 6, 6, 4, 4, 8]
 speed: 30 feet
 sourcebook: "_Pathfinder Monster Core_"
@@ -93,6 +94,12 @@ attacks:
   - name: "Tree Meld"
     desc: "`pf2:2` (primal) A [[Spells/One with Plants|One with Plants]] spell cast by a dryad has an unlimited duration.\n\nIn addition, if the dryad merges with any tree in her domain, she can choose to instead enter an extradimensional living space within the tree, and can bring up to eight adjacent, willing creatures with her; the spell gains the extradimensional trait. The dryad can still be expelled from this space."
  
+```
+
+```encounter-table
+name: Dryad Queen
+creatures:
+  - 1: Dryad Queen
 ```
 
 

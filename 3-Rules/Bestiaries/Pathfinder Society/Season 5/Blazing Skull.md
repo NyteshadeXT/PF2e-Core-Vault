@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/undead
   - pf2e/creature/type/unholy
+  - pf2eMonster
   - pf2e/creature/level/3
 statblock: inline
 name: "Blazing Skull"
@@ -22,12 +23,12 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Society Scenario #5-05: The Island of the Vibrant Dead"
 name: "Blazing Skull"
 level: "Creature 3"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "tiny"
-trait_01: "evil"
-trait_02: "undead"
-trait_03: "unholy"
+trait_01: [[evil]]
+trait_02: [[undead]]
+trait_03: [[unholy]]
 modifier: 11
 perception:
   - name: "Perception"
@@ -35,7 +36,7 @@ perception:
 languages: "Common, Necril"
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +10 (+12 to Maneuver in Flight)"
+    desc: "Acrobatics: +10"
 abilityMods: [1, 4, 1, -5, 3, 0]
 speed: 15 feet,  fly 30 feet
 sourcebook: "_Pathfinder Society Scenario #5-05: The Island of the Vibrant Dead_"
@@ -68,6 +69,12 @@ attacks:
   - name: "Flaming Shroud"
     desc: "  A flaming skull is shrouded in hideous flames. It deals 1d6 fire damage to any unattended item it touches and on a forehead Strike. On a critical hit with a Strike, the target catches fire, taking 1d4 persistent fire."
  
+```
+
+```encounter-table
+name: Blazing Skull
+creatures:
+  - 1: Blazing Skull
 ```
 
 

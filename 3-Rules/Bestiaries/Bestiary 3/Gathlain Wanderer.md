@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/fey
   - pf2e/creature/type/good
   - pf2e/creature/type/plant
+  - pf2eMonster
   - pf2e/creature/level/1
 statblock: inline
 name: "Gathlain Wanderer"
@@ -24,13 +25,13 @@ token: [[modules/pf2e-tokens-bestiaries/portraits/fey/fairy/gathlain-wanderer.we
 source: "Pathfinder Bestiary 3"
 name: "Gathlain Wanderer"
 level: "Creature 1"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Small"
-trait_01: "chaotic"
-trait_02: "fey"
-trait_03: "good"
-trait_04: "plant"
+trait_01: [[chaotic]]
+trait_02: [[fey]]
+trait_03: [[good]]
+trait_04: [[plant]]
 modifier: 6
 perception:
   - name: "Perception"
@@ -38,7 +39,7 @@ perception:
 languages: "Common, Fey"
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +7, Deception: +5, Forest Lore: +5, Nature: +4, Performance: +5, Society: +3, Stealth: +7, Survival: +4"
+    desc: "Acrobatics: +7, Deception: +5, Nature: +4, Performance: +5, Society: +3, Stealth: +7, Survival: +4, Forest Lore: +5"
 abilityMods: [2, 4, 0, 0, 1, 2]
 speed: 20 feet,  fly 30 feet
 sourcebook: "_Pathfinder Bestiary 3_"
@@ -58,7 +59,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Final Jape"
-    desc: "  When the gathlain dies, their wings explode into a cloud of toxic mist. Each creature within a 5-foot emanation takes 1d6 poison damage (DC 18 Fortitude check save)."
+    desc: "  When the gathlain dies, their wings explode into a cloud of toxic mist. Each creature within a @Template[emanation|distance:5] takes 1d6 poison damage (DC 18 Fortitude check save)."
 
 attacks:
   - name: ""
@@ -73,8 +74,14 @@ attacks:
     desc: "  The gathlain ignores difficult terrain from non-magical foliage."
 
   - name: "Rootbound"
-    desc: "`pf2:2`  **Requirements** The gathlain isn't using their wings to fly\n**Effect** The gathlain sprouts woody roots from the tips of their wings that bind an adjacent creature's limbs. The target must succeed at a DC 17 Fortitude check save or be [[Conditions/Grabbed|Grabbed]] by the gathlain's wing-tip vines until the start of the gathlain's next turn."
+    desc: "`pf2:2`  **Requirements** The gathlain isn't using their wings to fly\n* * *\n\n**Effect** The gathlain sprouts woody roots from the tips of their wings that bind an adjacent creature's limbs. The target must succeed at a DC 17 Fortitude check save or be [[Conditions/Grabbed|Grabbed]] by the gathlain's wing-tip vines until the start of the gathlain's next turn."
  
+```
+
+```encounter-table
+name: Gathlain Wanderer
+creatures:
+  - 1: Gathlain Wanderer
 ```
 
 

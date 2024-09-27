@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/undead
   - pf2e/creature/type/unholy
   - pf2e/creature/type/zombie
+  - pf2eMonster
   - pf2e/creature/level/2
 statblock: inline
 name: "Husk Zombie"
@@ -26,10 +27,10 @@ level: "Creature 2"
 
 alignment: ""
 size: "Medium"
-trait_01: "evil"
-trait_02: "undead"
-trait_03: "unholy"
-trait_04: "zombie"
+trait_01: [[evil]]
+trait_02: [[undead]]
+trait_03: [[unholy]]
+trait_04: [[zombie]]
 modifier: 5
 perception:
   - name: "Perception"
@@ -57,7 +58,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Slow"
-    desc: "  A husk zombie is permanently [[Conditions/Slowed 1|Slowed 1]] and can't use reactions."
+    desc: "  A husk zombie is permanently [[Conditions/Slowed|Slowed 1]] and can't use reactions."
 
 attacks:
   - name: ""
@@ -72,8 +73,14 @@ attacks:
     desc: "  The husk zombie deals an additional 1d6 precision damage to [[Conditions/Off-Guard|Off-Guard]] creatures."
 
   - name: "Sudden Surge"
-    desc: "  **Trigger** The husk zombie's turn begins\n**Effect** The husk zombie has a sudden burst of speed. They are [[Conditions/Quickened|Quickened]] this turn and can use the extra action only to Stride or Strike. If the husk zombie's first action this turn is a melee Strike, the target is [[Conditions/Off-Guard|Off-Guard]] against the attack.\nThe husk zombie can't use Sudden Surge again until after they spend at least 10 minutes standing motionless."
+    desc: "  **Trigger** The husk zombie's turn begins\n* * *\n\n**Effect** The husk zombie has a sudden burst of speed. They are [[Conditions/Quickened|Quickened]] this turn and can use the extra action only to Stride or Strike. If the husk zombie's first action this turn is a melee Strike, the target is [[Conditions/Off-Guard|Off-Guard]] against the attack.\n\nThe husk zombie can't use Sudden Surge again until after they spend at least 10 minutes standing motionless."
  
+```
+
+```encounter-table
+name: Husk Zombie
+creatures:
+  - 1: Husk Zombie
 ```
 
 

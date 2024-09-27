@@ -10,6 +10,7 @@ tags:
   - pf2e/creature/type/humanoid
   - pf2e/creature/type/lawful
   - pf2e/creature/type/nephilim
+  - pf2eMonster
   - pf2e/creature/level/15
 statblock: inline
 name: "Scarlet Triad Mage"
@@ -27,11 +28,11 @@ level: "Creature 15"
 
 alignment: ""
 size: "Medium"
-trait_01: "evil"
-trait_02: "human"
-trait_03: "humanoid"
-trait_04: "lawful"
-trait_05: "nephilim"
+trait_01: [[evil]]
+trait_02: [[human]]
+trait_03: [[humanoid]]
+trait_04: [[lawful]]
+trait_05: [[nephilim]]
 modifier: 26
 perception:
   - name: "Perception"
@@ -73,6 +74,12 @@ attacks:
   - name: "Rituals"
     desc: "_[[Spells/Binding Circle|Planar Binding]]_"
  
+```
+
+```encounter-table
+name: Scarlet Triad Mage
+creatures:
+  - 1: Scarlet Triad Mage
 ```
 
 

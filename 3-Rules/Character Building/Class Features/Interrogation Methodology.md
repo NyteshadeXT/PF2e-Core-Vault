@@ -6,8 +6,9 @@ tags:
   - trait/investigator
   - trait/common
   - category/classfeature
+  - remaster
 aliases: "Compendium.pf2e.classfeatures.Item.UIHUNNYZyQ3p4Vmo"
-license: OGL
+license: ORC
 ---
 # Interrogation Methodology
 ## Feat 1
@@ -20,7 +21,7 @@ license: OGL
 
 People can't help but trust you, whether through your inherent likableness or your firm insistence on sticking to the truth. You have a way about you that gets others talking, and you've developed interrogative techniques to help you get to the truth of your investigations.
 
-You are trained in Diplomacy. You gain the [[Feats/No Cause For Alarm|No Cause For Alarm]] skill feat. You can also [[Actions/Pursue a Lead|Pursue a Lead]] over the course of a conversation rather than spending dedicated time looking into the lead, provided the conversation lasts 1 minute or longer. For example, while trying to [[Actions/Make an Impression|Make an Impression]], you could pursue the creature you're conversing with as a lead, and you could Pursue a Lead about an object while someone is telling you information about that object. You also gain the [[Actions/Pointed Question|Pointed Question]] action.
+You are trained in Diplomacy. You gain the No Cause for Alarm skill feat. You can also Pursue a Lead at the same time you [[Actions/Make an Impression|Make an Impression]], as long as you ask a question related to the creature with which you're conversing or a topic of your conversation. You also gain the Pointed Question action.
 
-*Source: Pathfinder Advanced Player's Guide*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

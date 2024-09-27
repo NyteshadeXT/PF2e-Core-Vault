@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/fey
   - pf2e/creature/type/troop
+  - pf2eMonster
   - pf2e/creature/level/5
 statblock: inline
 name: "Cultist Troop"
@@ -25,13 +26,14 @@ level: "Creature 5"
 
 alignment: ""
 size: "grg"
-trait_01: "evil"
-trait_02: "fey"
-trait_03: "troop"
+trait_01: [[evil]]
+trait_02: [[fey]]
+trait_03: [[troop]]
 modifier: 15
 perception:
   - name: "Perception"
     desc: "+15; Low-Light Vision"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Athletics: +14"
@@ -62,8 +64,14 @@ attacks:
     desc: "  Whenever a troop Strides, it first Forms Up as a free action to condense into a 20-foot-by–20-foot area (minus any missing squares), then moves up to its Speed. See _Bestiary 3_ for further details."
 
   - name: "Wild Swing"
-    desc: "`pf2:1`  **Frequency** once per round\n**Effect** The cultists chaotically swing their weapons—from pixies' tiny rapiers to redcaps' scythes—at each enemy adjacent to the troop (DC 22 Reflex check save), dealing a small amount of damage to the troop at the same time. The damage depends on the number of actions.\n`pf2:1` 1d12 + 1 slashing damage to enemies and 1d4 slashing damage to the troop\n`pf2:2` 2d12 + 1 slashing damage and 1d4 + 2 slashing damage to the troop\n`pf2:3` 2d12 + 5 slashing damage and 2d4 slashing damage to the troop"
+    desc: "`pf2:1`  **Frequency** once per round\n* * *\n\n**Effect** The cultists chaotically swing their weapons—from pixies' tiny rapiers to redcaps' scythes—at each enemy adjacent to the troop (DC 22 Reflex check save), dealing a small amount of damage to the troop at the same time. The damage depends on the number of actions.\n\n`pf2:1` 1d12+1 slashing damage to enemies and 1d4 slashing damage to the troop\n\n`pf2:2` 2d12+1 slashing damage and 1d4+2 slashing damage to the troop\n\n`pf2:3` 2d12+5 slashing damage and 2d4 slashing damage to the troop"
  
+```
+
+```encounter-table
+name: Cultist Troop
+creatures:
+  - 1: Cultist Troop
 ```
 
 

@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.kingmaker-bestiary.Actor.1upVC05DY7YzxNsr"
 tags:
   - pf2e/creature/type/animal
   - pf2e/creature/type/swarm
+  - pf2eMonster
   - pf2e/creature/level/2
 statblock: inline
 name: "Chew Spider"
@@ -21,15 +22,16 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Kingmaker"
 name: "Chew Spider"
 level: "Creature 2"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Large"
-trait_01: "animal"
-trait_02: "swarm"
+trait_01: [[animal]]
+trait_02: [[swarm]]
 modifier: 6
 perception:
   - name: "Perception"
     desc: "+6; Darkvision"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Acrobatics: +8, Athletics: +2, Stealth: +8"
@@ -57,11 +59,17 @@ attacks:
   - name: ""
 
   - name: "Chew Spider Venom"
-    desc: " (poison) **Saving Throw** DC 18 Fortitude check\n**Maximum Duration** 6 rounds\n**Stage 1** 1d6 poison damage and [[Conditions/Clumsy 1|Clumsy 1]] (1 round)\n**Stage 2** 1d6 poison damage and [[Conditions/Clumsy 1|Clumsy 2]] (1 round)."
+    desc: " (poison) **Saving Throw** DC 18 Fortitude check\n\n**Maximum Duration** 6 rounds\n\n**Stage 1** 1d6 poison damage and [[Conditions/Clumsy|Clumsy 1]] (1 round)\n\n**Stage 2** 1d6 poison damage and [[Conditions/Clumsy|Clumsy 2]] (1 round)."
 
   - name: "Chewing Bites"
     desc: "`pf2:1`  Each enemy in the chew spiders' space takes 1d6 bleed damage (DC 16 Reflex check). A creature that fails its save is exposed to chew spider venom."
  
+```
+
+```encounter-table
+name: Chew Spider
+creatures:
+  - 1: Chew Spider
 ```
 
 

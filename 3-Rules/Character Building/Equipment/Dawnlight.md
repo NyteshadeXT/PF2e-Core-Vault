@@ -10,7 +10,7 @@ license: OGL
 ---
 # Dawnlight
 ## Item 3
-### [uncommon](uncommon "Uncommon Rarity Trait")[[divine]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[3-Rules/Rule References/Divine]]
 
 
 **Price** 60 gp; 

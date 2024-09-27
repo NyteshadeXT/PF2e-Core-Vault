@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/shadow
   - pf2e/creature/type/undead
   - pf2e/creature/type/unholy
+  - pf2eMonster
   - pf2e/creature/level/17
 statblock: inline
 name: "Tenebric Giant"
@@ -23,21 +24,21 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #185: A Taste of Ashes"
 name: "Tenebric Giant"
 level: "Creature 17"
-rare_03: "Rare"
+rare_03: [[Rare]]
 alignment: ""
 size: "Large"
-trait_01: "evil"
-trait_02: "shadow"
-trait_03: "undead"
-trait_04: "unholy"
+trait_01: [[evil]]
+trait_02: [[shadow]]
+trait_03: [[undead]]
+trait_04: [[unholy]]
 modifier: 31
 perception:
   - name: "Perception"
     desc: "+31; Darkvision, Lifesense 80 Feet"
-languages: "Common, Jotun, Necril"
+languages: "Common, Jotun, Necril; telepathy (with its creator only) 100 feet"
 skills:
   - name: "Skills"
-    desc: "Athletics: +33, Intimidation: +30, Religion: +30, Stealth: +29 (+33 to Hide in Dim Light or Darkness)"
+    desc: "Athletics: +33, Intimidation: +30, Religion: +30, Stealth: +29"
 abilityMods: [9, 4, 9, 4, 7, 5]
 speed: 25 feet
 sourcebook: "_Pathfinder #185: A Taste of Ashes_"
@@ -75,7 +76,7 @@ attacks:
     desc: "`pf2:1` Rock +32 (brutal, range increment 120 feet)\n__Damage__  3d6 + 17 bludgeoning plus cloying-shadows"
 
   - name: "Cloying Shadows"
-    desc: " (occult,shadow) The tenebric giant's attacks leave behind a residue of energy from the Shadow Plane. A creature hit by the tenebric giant's melee Strike takes an additional 1d8 persistent void damage and must attempt a DC 36 Reflex check save.\n**Critical Success** The creature is unaffected.\n**Success** The creature is [[Conditions/Blinded|Blinded]] until its next turn begins.\n**Failure** The creature is blinded for 1 minute.\n**Critical Failure** The creature is permanently blinded."
+    desc: " (occult,shadow) The tenebric giant's attacks leave behind a residue of energy from the Shadow Plane. A creature hit by the tenebric giant's melee Strike takes an additional 1d8 persistent void damage and must attempt a DC 36 Reflex check save.\n* * *\n\n**Critical Success** The creature is unaffected.\n\n**Success** The creature is [[Conditions/Blinded|Blinded]] until its next turn begins.\n\n**Failure** The creature is blinded for 1 minute.\n\n**Critical Failure** The creature is permanently blinded."
 
   - name: "Tenebric Stride"
     desc: "`pf2:2` (illusion,occult,shadow) The tenebric giant can move quickly in shadowy conditions. The tenebric giant Strides twice and makes a scythe Strike at any point during this movement against a target that is in darkness or dim light. This movement doesn't provoke reactions."
@@ -83,6 +84,12 @@ attacks:
   - name: "[[Bestiary Ability Glossary/Throw Rock|Throw Rock]]"
     desc: "`pf2:1`  "
  
+```
+
+```encounter-table
+name: Tenebric Giant
+creatures:
+  - 1: Tenebric Giant
 ```
 
 

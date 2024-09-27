@@ -11,7 +11,7 @@ license: OGL
 ---
 # Busine of Divine Reinforcements
 ## Item 15
-### [uncommon](uncommon "Uncommon Rarity Trait")[[divine]][[magical]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[3-Rules/Rule References/Divine]][[3-Rules/Rule References/Magical]]
 
 
 **Price** 6000 gp; 
@@ -28,7 +28,7 @@ This long, straight, trumpet-like instrument is made of well-polished brass and 
 
 * * *
 
-**Effect** You play a few notes on the busine. Evil creatures within 60 feet who hear the notes must succeed at a DC 34 Will check save or be [[Conditions/Stunned 1|Stunned]] for 1 round, or 2 rounds on a critical failure; this is an incapacitation effect.
+**Effect** You play a few notes on the busine. Evil creatures within 60 feet who hear the notes must succeed at a DC 34 Will check save or be [[Conditions/Stunned|Stunned]] for 1 round, or 2 rounds on a critical failure; this is an incapacitation effect.
 
 * * *
 

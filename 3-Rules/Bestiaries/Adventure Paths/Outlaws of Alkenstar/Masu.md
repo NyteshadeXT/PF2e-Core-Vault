@@ -6,6 +6,7 @@ cssClasses: pf2e
 aliases: "Compendium.pf2e.outlaws-of-alkenstar-bestiary.Actor.T9vLIrNIbcNkYx1M" 
 tags:
   - pf2e/creature/type/animal
+  - pf2eMonster
   - pf2e/creature/level/-1
 statblock: inline
 name: "Masu"
@@ -20,14 +21,15 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #179: Cradle of Quartz"
 name: "Masu"
 level: "Creature -1"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "tiny"
-trait_01: "animal"
+trait_01: [[animal]]
 modifier: 8
 perception:
   - name: "Perception"
     desc: "+8; Low-Light Vision"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Acrobatics: +6, Stealth: +6"
@@ -58,8 +60,14 @@ attacks:
     desc: "`pf2:1` Claw +6 (agile, finesse, nonlethal)\n__Damage__  1 slashing"
 
   - name: "Get Underfoot"
-    desc: "`pf2:1`  Masu Strides up to half her Speed, moving through one or more space occupied by allied creatures, rubbing against and around legs and feet. Each creature whose space Masu moves through is [[Conditions/Clumsy 1|Clumsy 1]] for 1 round."
+    desc: "`pf2:1`  Masu Strides up to half her Speed, moving through one or more space occupied by allied creatures, rubbing against and around legs and feet. Each creature whose space Masu moves through is [[Conditions/Clumsy|Clumsy 1]] for 1 round."
  
+```
+
+```encounter-table
+name: Masu
+creatures:
+  - 1: Masu
 ```
 
 

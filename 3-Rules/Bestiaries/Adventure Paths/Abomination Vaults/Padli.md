@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/chaotic
   - pf2e/creature/type/evil
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/9
 statblock: inline
 name: "Padli"
@@ -23,13 +24,13 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #165: Eyes of Empty Death"
 name: "Padli"
 level: "Creature 9"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Medium"
-trait_01: "caligni"
-trait_02: "chaotic"
-trait_03: "evil"
-trait_04: "humanoid"
+trait_01: [[caligni]]
+trait_02: [[chaotic]]
+trait_03: [[evil]]
+trait_04: [[humanoid]]
 modifier: 16
 perception:
   - name: "Perception"
@@ -57,10 +58,10 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Death Flame"
-    desc: " (light) When Padli dies, his body combusts in a flash of white-hot flame. All creatures in a 20-foot burst take 6d10 fire damage (DC 28 Reflex check save).\nHis gear is unaffected by the flames and is left in a pile where he died."
+    desc: " (light) When Padli dies, his body combusts in a flash of white-hot flame. All creatures in a @Template[burst|distance:20] take 6d10 fire damage (DC 28 Reflex check save).\n\nHis gear is unaffected by the flames and is left in a pile where he died."
 
   - name: "Occult Ward"
-    desc: "`pf2:r`  **Trigger** Padli attempts a saving throw against a spell cast by a creature he can see\n**Effect** Padli gains a +2 circumstance bonus to the triggering save."
+    desc: "`pf2:r`  **Trigger** Padli attempts a saving throw against a spell cast by a creature he can see\n* * *\n\n**Effect** Padli gains a +2 circumstance bonus to the triggering save."
 
 attacks:
   - name: ""
@@ -74,6 +75,12 @@ attacks:
   - name: "[[Bestiary Ability Glossary/Sneak Attack|Sneak Attack]]"
     desc: "  Padli deals 3d6 extra precision damage to [[Conditions/Off-Guard|Off-Guard]] creatures."
  
+```
+
+```encounter-table
+name: Padli
+creatures:
+  - 1: Padli
 ```
 
 

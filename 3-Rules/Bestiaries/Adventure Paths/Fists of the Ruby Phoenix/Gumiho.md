@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/chaotic
   - pf2e/creature/type/evil
   - pf2e/creature/type/fey
+  - pf2eMonster
   - pf2e/creature/level/17
 statblock: inline
 name: "Gumiho"
@@ -22,12 +23,12 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #168: King of the Mountain"
 name: "Gumiho"
 level: "Creature 17"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Medium"
-trait_01: "chaotic"
-trait_02: "evil"
-trait_03: "fey"
+trait_01: [[chaotic]]
+trait_02: [[evil]]
+trait_03: [[fey]]
 modifier: 29
 perception:
   - name: "Perception"
@@ -53,7 +54,7 @@ abilities_top:
   - name: "Items"
     desc: "[[Equipment/Fox Marble|Fox Marble]]"
   - name: "Guileful Charm"
-    desc: " (emotion,incapacitation,mental,occult) Any creature that converses with a gumiho must attempt a DC 35 Will check save. The creature then becomes temporarily immune for 24 hours.\n**Critical Success** The target is unaffected but knows the gumiho tried to charm it.\n**Success** The target is unaffected.\n**Failure** The target is affected by the failure effects of 4th-rank [[Spells/Charm|Charm]].\n**Critical Failure** The target is affected by the failure effects of [[Spells/Dominate|Dominate]]."
+    desc: " (emotion,incapacitation,mental,occult) Any creature that converses with a gumiho must attempt a DC 35 Will check save. The creature then becomes temporarily immune for 24 hours.\n* * *\n\n**Critical Success** The target is unaffected but knows the gumiho tried to charm it.\n\n**Success** The target is unaffected.\n\n**Failure** The target is affected by the failure effects of 4th-rank [[Spells/Charm|Charm]].\n\n**Critical Failure** The target is affected by the failure effects of [[Spells/Dominate|Dominate]]."
 
 abilities_mid:
   - name: ""
@@ -70,11 +71,17 @@ attacks:
     desc: "DC 38, attack +30; __9th __ (1 slots) _[[Spells/Power Word Kill|Power Word Kill]]_; __8th __ (2 slots) _[[Spells/Disappearance|Disappearance]]_, _[[Spells/Power Word Stun|Power Word Stun]]_; __7th __ (2 slots) _[[Spells/Project Image|Project Image]]_, _[[Spells/Warp Mind|Warp Mind]]_; __6th __ (3 slots) _[[Spells/Dominate|Dominate]]_, _[[Spells/Repulsion|Repulsion]]_; __5th __ (3 slots) _[[Spells/Subconscious Suggestion|Subconscious Suggestion]]_; __4th __ (4 slots) _[[Spells/Charm|Charm]]_, _[[Spells/Invisibility|Invisibility]]_, _[[Spells/Sleep|Sleep]]_; __3rd __ (3 slots) _[[Spells/Enthrall|Enthrall]]_\n__Cantrips__  __(9th)__ _[[Compendium.pf2e.spells-srd.Item.kl2q6JvBZwed4B6v|Dancing Lights]]_, _[[Spells/Daze|Daze]]_"
 
   - name: "[[Bestiary Ability Glossary/Change Shape|Change Shape]]"
-    desc: "`pf2:1` (concentrate,occult,polymorph) The gumiho changes into humanoid or fox shape. Their humanoid shape has a specific, persistent appearance but their true form is their fox shape. In humanoid shape, the gumiho uses their original size, loses their jaws strike but retains their claws strike, and their Speed is reduced to 25 feet. A gumiho is never able to completely conceal one of their nine tails through this transformation.\n"
+    desc: "`pf2:1` (concentrate,occult,polymorph) The gumiho changes into humanoid or fox shape. Their humanoid shape has a specific, persistent appearance but their true form is their fox shape. In humanoid shape, the gumiho uses their original size, loses their jaws strike but retains their claws strike, and their Speed is reduced to 25 feet. A gumiho is never able to completely conceal one of their nine tails through this transformation.\n\n* * *\n"
 
   - name: "Snapping Critical"
-    desc: "  **Trigger** The gumiho critically hits with a claw or jaws Strike\n**Effect** The gumiho uses its fox marble to channel the life force lost by the target and heal for half the amount of damage dealt."
+    desc: "  **Trigger** The gumiho critically hits with a claw or jaws Strike\n* * *\n\n**Effect** The gumiho uses its fox marble to channel the life force lost by the target and heal for half the amount of damage dealt."
  
+```
+
+```encounter-table
+name: Gumiho
+creatures:
+  - 1: Gumiho
 ```
 
 

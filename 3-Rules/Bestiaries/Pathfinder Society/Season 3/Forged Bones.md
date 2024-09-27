@@ -10,6 +10,7 @@ tags:
   - pf2e/creature/type/skeleton
   - pf2e/creature/type/undead
   - pf2e/creature/type/unholy
+  - pf2eMonster
   - pf2e/creature/level/3
 statblock: inline
 name: "Forged Bones"
@@ -24,14 +25,14 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Society Scenario #3-10: Delve the Pallid Depths"
 name: "Forged Bones"
 level: "Creature 3"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Large"
-trait_01: "evil"
-trait_02: "lawful"
-trait_03: "skeleton"
-trait_04: "undead"
-trait_05: "unholy"
+trait_01: [[evil]]
+trait_02: [[lawful]]
+trait_03: [[skeleton]]
+trait_04: [[undead]]
+trait_05: [[unholy]]
 modifier: 10
 perception:
   - name: "Perception"
@@ -68,8 +69,14 @@ attacks:
     desc: "DC 17, attack +9; __2nd __ (1 slots) _[[Spells/Reaper's Lantern|Reaper's Lantern]]_; __1st __ (1 slots) _[[Spells/Bane|Bane]]_"
 
   - name: "Forge-Flame Breath"
-    desc: "`pf2:2` (divine) The forged bones calls on the power contained in its mask to shoot a burst of forge-hot flames at intruders, dealing 3d6 fire damage in a 15-foot cone (DC 17 Reflex check save).\nThe forged bones can't use Breath Weapon again for 1d4 rounds."
+    desc: "`pf2:2` (divine) The forged bones calls on the power contained in its mask to shoot a burst of forge-hot flames at intruders, dealing 3d6 fire damage in a @Template[cone|distance:15] (DC 17 Reflex check save).\n\nThe forged bones can't use Breath Weapon again for 1d4 rounds."
  
+```
+
+```encounter-table
+name: Forged Bones
+creatures:
+  - 1: Forged Bones
 ```
 
 

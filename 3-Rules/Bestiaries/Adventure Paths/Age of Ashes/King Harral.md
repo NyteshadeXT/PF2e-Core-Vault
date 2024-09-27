@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/lawful
   - pf2e/creature/type/undead
   - pf2e/creature/type/unholy
+  - pf2eMonster
   - pf2e/creature/level/14
 statblock: inline
 name: "King Harral"
@@ -23,13 +24,13 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #148: Fires of the Haunted City"
 name: "King Harral"
 level: "Creature 14"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Medium"
-trait_01: "evil"
-trait_02: "lawful"
-trait_03: "undead"
-trait_04: "unholy"
+trait_01: [[evil]]
+trait_02: [[lawful]]
+trait_03: [[undead]]
+trait_04: [[unholy]]
 modifier: 25
 perception:
   - name: "Perception"
@@ -49,18 +50,18 @@ hp: 195
 health:
   - name: ""
   - name: HP
-    desc: "195, void healing, rejuvenation; __Immunities__  death effects,  disease,  paralyzed,  poison,  unconscious; __Resistances__ cold 10, physical 10 (except bludgeoning)"
+    desc: "195, void healing, rejuvenation; __Immunities__  death effects,  disease,  paralyzed,  poison,  unconscious; __Resistances__ cold 10, physical 10 (except magical bludgeoning)"
 abilities_top:
   - name: ""
   - name: "Items"
-    desc: "[[Equipment/Maul|+2 Striking Thundering Maul]], [[Equipment/Full Plate|+1 Resilient Full Plate]], [[Equipment/Wand of Smoldering Fireballs (7th-Level Spell)|Wand of Smoldering Fireballs (7th-Level Spell)]]"
+    desc: "[[Equipment/Maul|+2 Striking Thundering Maul]], [[Equipment/Full Plate|+1 Resilient Full Plate]], [[Equipment/Wand of Smoldering Fireballs (7th-Rank Spell)|Wand of Smoldering Fireballs (7th-Rank Spell)]]"
 abilities_mid:
   - name: ""
   - name: "Counterspell"
-    desc: "`pf2:r`  **Trigger** A creature casts a spell King Harral has prepared.\n**Effect** The king expends a prepared spell to counter the triggering creature's casting of that same spell. He can then attempt to dispel the triggering spell."
+    desc: "`pf2:r`  **Trigger** A creature casts a spell King Harral has prepared.\n* * *\n\n**Effect** The king expends a prepared spell to counter the triggering creature's casting of that same spell. He can then attempt to dispel the triggering spell."
 
   - name: "[[Bestiary Ability Glossary/Frightful Presence|Frightful Presence]]"
-    desc: " (aura,emotion,fear,mental) 60 feet. DC 33 Will check\n"
+    desc: " (aura,emotion,fear,mental) 60 feet. DC 33 Will check\n\n* * *\n"
 
   - name: "[[Creature Family Ability Glossary/(Lich) Rejuvenation|Rejuvenation]]"
     desc: " (arcane) 24 hours after King Harral is destroyed, his body rebuilds itself on his throne (or, if the throne is destroyed, on the site where the throne once sat), similarly to how a lich's body is restored via its phylactery. If all of Saggorak's buildings are destroyed, or if heroes perform a great service in saving Saggorak, King Harral loses this ability."
@@ -77,6 +78,12 @@ attacks:
   - name: "Steady Spellcasting"
     desc: "  If another creature's reaction would disrupt King Harral's spell, he attempts a DC 15 Flat check. If he succeeds, the spell isn't disrupted."
  
+```
+
+```encounter-table
+name: King Harral
+creatures:
+  - 1: King Harral
 ```
 
 

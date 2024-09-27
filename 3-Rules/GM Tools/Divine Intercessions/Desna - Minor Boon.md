@@ -17,7 +17,7 @@ license: OGL
 
 
 
-**Minor Boon (Single Use)** For those at the end of a journey, Desna gifts a deep sleep.
+For those at the end of a journey, Desna gifts a deep sleep.
 
 Once, after you rest, you completely recover all Hit Points, remove all negative conditions, and become free of any curses or diseases.
 

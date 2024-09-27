@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.pathfinder-monster-core.Actor.5NnKgWCNbEzbSEN8"
 tags:
   - pf2e/creature/type/construct
   - pf2e/creature/type/soulbound
+  - pf2eMonster
   - pf2e/creature/level/2
   - remaster
 statblock: inline
@@ -19,15 +20,15 @@ license: ORC
 columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
-token: [[modules/pf2e-tokens-bestiaries/portraits/constructed/magical/soulbound-doll-cn.webp| ]]
+token: [[modules/pf2e-tokens-bestiaries/portraits/constructed/magical/soulbound-doll-ce.webp| ]]
 source: "Pathfinder Monster Core"
 name: "Soulbound Doll (Impish)"
 level: "Creature 2"
 
 alignment: ""
 size: "tiny"
-trait_01: "construct"
-trait_02: "soulbound"
+trait_01: [[construct]]
+trait_02: [[soulbound]]
 modifier: 8
 perception:
   - name: "Perception"
@@ -65,6 +66,12 @@ attacks:
   - name: "Occult Innate Spells"
     desc: "DC 18, attack +10; __3rd __ (2 slots) _[[Spells/Levitate|Levitate]]_; __2nd __  _[[Spells/Disguise Magic|Disguise Magic]]_\n__Cantrips__  __(1st)__ _[[Spells/Light|Light]]_, _[[Spells/Prestidigitation|Prestidigitation]]_, _[[Spells/Telekinetic Hand|Telekinetic Hand]]_"
  
+```
+
+```encounter-table
+name: Soulbound Doll (Impish)
+creatures:
+  - 1: Soulbound Doll (Impish)
 ```
 
 

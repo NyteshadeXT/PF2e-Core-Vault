@@ -3,6 +3,7 @@ obsidianUIMode: preview
 title: "Wardrobe Stone (Greater)"
 cssclasses: pf2e,pf2e-spell
 tags:
+  - trait/illusion
   - trait/invested
   - trait/magical
   - trait/uncommon
@@ -11,7 +12,7 @@ license: OGL
 ---
 # Wardrobe Stone (Greater)
 ## Item 20
-### [uncommon](uncommon "Uncommon Rarity Trait")[[invested]][[magical]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[illusion]][[invested]][[magical]]
 
 
 **Price** 55000 gp; 

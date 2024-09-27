@@ -31,7 +31,7 @@ Move through door
 
 Move through window
 
-**Success** You move through the object, treating the square within it as difficult terrain. If you end your turn inside an object, you can move out of it only if you Pass Through again or use some other means of moving through a solid object. As normal for being incorporeal, starting your turn inside an object makes you [[Conditions/Slowed 1|Slowed 1]] for that turn.
+**Success** You move through the object, treating the square within it as difficult terrain. If you end your turn inside an object, you can move out of it only if you Pass Through again or use some other means of moving through a solid object. As normal for being incorporeal, starting your turn inside an object makes you [[Conditions/Slowed|Slowed 1]] for that turn.
 
 **Failure** Your movement ends, and you trigger reactions as if you moved out of the square you started in.
 

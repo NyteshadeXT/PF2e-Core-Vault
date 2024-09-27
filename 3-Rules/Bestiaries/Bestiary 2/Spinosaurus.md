@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.pathfinder-bestiary-2.Actor.s8EjxYqdN4gOvcBh"
 tags:
   - pf2e/creature/type/animal
   - pf2e/creature/type/dinosaur
+  - pf2eMonster
   - pf2e/creature/level/11
 statblock: inline
 name: "Spinosaurus"
@@ -25,15 +26,16 @@ level: "Creature 11"
 
 alignment: ""
 size: "grg"
-trait_01: "animal"
-trait_02: "dinosaur"
+trait_01: [[animal]]
+trait_02: [[dinosaur]]
 modifier: 21
 perception:
   - name: "Perception"
     desc: "+21; Low-Light Vision, Scent (Imprecise) 30 Feet"
+languages: ""
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +19, Athletics: +23 (+25 to Swim)"
+    desc: "Acrobatics: +19, Athletics: +23"
 abilityMods: [8, 4, 6, -4, 2, 1]
 speed: 40 feet,  swim 30 feet
 sourcebook: "_Pathfinder Bestiary 2_"
@@ -64,17 +66,23 @@ attacks:
     desc: "`pf2:1` Claw +23 (agile, reach 15 feet)\n__Damage__  2d8 + 14 slashing"
 
   - name: "Rip and Tear"
-    desc: "`pf2:1`  **Requirements** The spinosaurus has a creature [[Conditions/Grabbed|Grabbed]] in its jaws\n**Effect** The spinosaurus reaches up and slashes with its claws at the creature it has grabbed, dealing 4d8 slashing damage (DC 30 Reflex check save) and 1d6 bleed."
+    desc: "`pf2:1`  **Requirements** The spinosaurus has a creature [[Conditions/Grabbed|Grabbed]] in its jaws\n* * *\n\n**Effect** The spinosaurus reaches up and slashes with its claws at the creature it has grabbed, dealing 4d8 slashing damage (DC 30 Reflex check save) and 1d6 bleed."
 
   - name: "Staggering Sail"
-    desc: "`pf2:2` (incapacitation) **Requirements** The spinosaurus is swimming on the surface of water\n**Effect** With a powerful lunge to the side, the spinosaurus uses its sail to slap the surface of the water, creating a crushing wave of water that deals 6d6 bludgeoning damage in a 30 foot cone. Each creature in the water in the area must attempt a DC 30 Reflex check save.\n**Critical Success** The creature is unaffected.\n**Success** The creature takes half damage.\n**Failure** The creature takes full damage and is [[Conditions/Slowed 1|Slowed 1]] until the end of its next turn.\n**Critical Failure** The creature takes double damage and is [[Conditions/Stunned 1|Stunned 3]]."
+    desc: "`pf2:2` (incapacitation) **Requirements** The spinosaurus is swimming on the surface of water\n* * *\n\n**Effect** With a powerful lunge to the side, the spinosaurus uses its sail to slap the surface of the water, creating a crushing wave of water that deals 6d6 bludgeoning damage in a 30 foot cone. Each creature in the water in the area must attempt a DC 30 Reflex check save.\n* * *\n\n**Critical Success** The creature is unaffected.\n\n**Success** The creature takes half damage.\n\n**Failure** The creature takes full damage and is [[Conditions/Slowed|Slowed 1]] until the end of its next turn.\n\n**Critical Failure** The creature takes double damage and is [[Conditions/Stunned|Stunned 3]]."
 
   - name: "[[Bestiary Ability Glossary/Swallow Whole|Swallow Whole]]"
-    desc: "`pf2:1` (attack) Medium, 2d12 bludgeoning damage, Rupture 19\n"
+    desc: "`pf2:1` (attack) Medium, 2d12 bludgeoning damage, Rupture 19\n\n* * *\n"
 
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
     desc: "`pf2:1`  "
  
+```
+
+```encounter-table
+name: Spinosaurus
+creatures:
+  - 1: Spinosaurus
 ```
 
 

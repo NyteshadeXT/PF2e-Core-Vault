@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/fey
   - pf2e/creature/type/nymph
   - pf2e/creature/type/water
+  - pf2eMonster
   - pf2e/creature/level/7
   - remaster
 statblock: inline
@@ -25,13 +26,13 @@ token: [[modules/pf2e-tokens-bestiaries/portraits/fey/nymph/naiad-queen.webp| ]]
 source: "Pathfinder Monster Core"
 name: "Naiad Queen"
 level: "Creature 7"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Medium"
-trait_01: "amphibious"
-trait_02: "fey"
-trait_03: "nymph"
-trait_04: "water"
+trait_01: [[amphibious]]
+trait_02: [[fey]]
+trait_03: [[nymph]]
+trait_04: [[water]]
 modifier: 18
 perception:
   - name: "Perception"
@@ -39,7 +40,7 @@ perception:
 languages: "Common, Elven, Fey, Thalassic"
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +16, Athletics: +9 (+13 to Swim), Diplomacy: +20, Medicine: +15, Nature: +15, Performance: +20, Stealth: +14, Survival: +15"
+    desc: "Acrobatics: +16, Athletics: +9, Diplomacy: +20, Medicine: +15, Nature: +15, Performance: +20, Stealth: +14, Survival: +15"
 abilityMods: [0, 5, 4, 3, 4, 7]
 speed: 25 feet,  swim 25 feet
 sourcebook: "_Pathfinder Monster Core_"
@@ -64,7 +65,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "[[Creature Family Ability Glossary/(Nymph Queen) Nymph's Beauty|Nymph's Beauty]]"
-    desc: " (aura,emotion,mental,primal,visual) 30 feet.\n* * *\n\nA creature that fails its save is [[Conditions/Stunned 1|Stunned 1]] and becomes stunned 1 each time it starts its turn within the aura for the next 24 hours, even if it can't see the naiad queen.\n* * *\n\nCreatures that start their turn in the aura must succeed at a DC 23 Will check save or suffer an effect described in the nymph queen's entry."
+    desc: " (aura,emotion,mental,primal,visual) 30 feet.\n* * *\n\nA creature that fails its save is [[Conditions/Stunned|Stunned 1]] and becomes stunned 1 each time it starts its turn within the aura for the next 24 hours, even if it can't see the naiad queen.\n* * *\n\nCreatures that start their turn in the aura must succeed at a DC 23 Will check save or suffer an effect described in the nymph queen's entry."
 
 attacks:
   - name: ""
@@ -93,6 +94,12 @@ attacks:
   - name: "Water Healing"
     desc: "`pf2:2` (healing,primal,vitality) For every 10 minutes a naiad spends soaking in any body of water in her domain, she regains 30 Hit Points."
  
+```
+
+```encounter-table
+name: Naiad Queen
+creatures:
+  - 1: Naiad Queen
 ```
 
 

@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.pathfinder-bestiary-3.Actor.EMT6L7RarzkSiEOq"
 tags:
   - pf2e/creature/type/construct
   - pf2e/creature/type/lawful
+  - pf2eMonster
   - pf2e/creature/level/13
 statblock: inline
 name: "Living Rune (Arcane)"
@@ -22,18 +23,19 @@ token: [[modules/pf2e-tokens-bestiaries/portraits/constructed/magical/living-run
 source: "Pathfinder Bestiary 3"
 name: "Living Rune (Arcane)"
 level: "Creature 13"
-rare_03: "Rare"
+rare_03: [[Rare]]
 alignment: ""
 size: "Small"
-trait_01: "construct"
-trait_02: "lawful"
+trait_01: [[construct]]
+trait_02: [[lawful]]
 modifier: 25
 perception:
   - name: "Perception"
     desc: "+25; Darkvision, Truesight"
+languages: "truescript"
 skills:
   - name: "Skills"
-    desc: "Arcana: +27, Deception: +24, Stealth: +25 (+31 to Hide or Sneak among inscriptions)"
+    desc: "Arcana: +27, Deception: +24, Stealth: +25"
 abilityMods: [1, 6, 1, 8, 8, 5]
 speed: 25 feet
 sourcebook: "_Pathfinder Bestiary 3_"
@@ -69,6 +71,12 @@ attacks:
   - name: "Arcane Innate Spells"
     desc: "DC 35, attack +27; __7th __  _[[Spells/Prismatic Spray|Prismatic Spray (x2)]]_; __6th __  _[[Spells/Chain Lightning|Chain Lightning]]_, _[[Spells/Disintegrate|Disintegrate]]_, _[[Spells/Rune Trap|Glyph of Warding (At Will)]]_, _[[Spells/Truesight|True Seeing]]_, _[[Spells/Wall of Force|Wall of Force]]_; __5th __  _[[Spells/Black Tentacles|Black Tentacles (x2)]]_, _[[Spells/Toxic Cloud|Cloudkill (x2)]]_\n__Cantrips__  __(7th)__ _[[Spells/Detect Magic|Detect Magic]]_"
  
+```
+
+```encounter-table
+name: Living Rune (Arcane)
+creatures:
+  - 1: Living Rune (Arcane)
 ```
 
 

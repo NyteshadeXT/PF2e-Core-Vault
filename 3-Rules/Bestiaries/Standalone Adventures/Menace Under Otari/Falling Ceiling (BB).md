@@ -3,6 +3,7 @@ title: Falling Ceiling (BB)
 obsidianUIMode: preview
 noteType: pf2eHazard
 tags:
+  - pf2eHazard
 
 source: Pathfinder Beginner Box
 aliases: "Compendium.pf2e.menace-under-otari-bestiary.Actor.Z9ggO7spfHwr8up1" 
@@ -42,5 +43,11 @@ attacks:
 
 
 
+```
+
+```encounter-table
+name: Falling Ceiling (BB)
+creatures:
+  - 1: Falling Ceiling (BB)
 ```
 

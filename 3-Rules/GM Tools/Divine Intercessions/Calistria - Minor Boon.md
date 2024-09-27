@@ -17,7 +17,11 @@ license: OGL
 
 
 
-**Minor Boon (Single Use)** Calistria smiles on the riskiest deceptions. Once, when you roll a failure on a check to [[Actions/Lie|Lie]], you get a critical success instead. Calistria typically grants this boon for an extremely consequential lie.
+Calistria smiles on the riskiest deceptions.
+
+Once, when you roll a failure on a check to [[Actions/Lie|Lie]], you get a critical success instead.
+
+Calistria typically grants this boon for an extremely consequential lie.
 
 *Source: Pathfinder Lost Omens: Gods & Magic*
 *OGL*

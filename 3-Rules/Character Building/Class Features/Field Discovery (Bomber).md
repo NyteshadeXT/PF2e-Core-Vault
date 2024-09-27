@@ -6,21 +6,20 @@ tags:
   - trait/alchemist
   - trait/common
   - category/classfeature
+  - remaster
 aliases: "Compendium.pf2e.classfeatures.Item.8QAFgy9U8PxEa7Dw"
-license: OGL
+license: ORC
 ---
 # Field Discovery (Bomber)
 ## Feat 5
-### [[alchemist]]
+### [[3-Rules/trait_reference/alchemist]]
 
 **Category** classfeature; 
 
 
 
 
-You learn a special discovery depending on your field.
+You have calculated all the angles to maximize a bomb's splash. When you throw an alchemical bomb with the splash trait, you can cause the bomb to deal splash damage equal to your Intelligence modifier (minimum 1) instead of the normal amount.
 
-When using [[Class Features/Advanced Alchemy|Advanced Alchemy]] to make bombs during your daily preparations, you can use a batch of [[Class Features/Infused Reagents|reagents]] to create any three bombs instead of just two of the same bomb.
-
-*Source: Pathfinder Core Rulebook*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/human
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/2
 statblock: inline
 name: "Dovan from Nisroch"
@@ -22,12 +23,12 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Kingmaker"
 name: "Dovan from Nisroch"
 level: "Creature 2"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Medium"
-trait_01: "evil"
-trait_02: "human"
-trait_03: "humanoid"
+trait_01: [[evil]]
+trait_02: [[human]]
+trait_03: [[humanoid]]
 modifier: 8
 perception:
   - name: "Perception"
@@ -55,7 +56,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "[[Bestiary Ability Glossary/Nimble Dodge|Nimble Dodge]]"
-    desc: "`pf2:r`  **Trigger** A creature targets Dovan with an attack, and he can see the attacker.\n**Effect** Dovan gains a +2 circumstance bonus to AC against the triggering attack."
+    desc: "`pf2:r`  **Trigger** A creature targets Dovan with an attack, and he can see the attacker.\n* * *\n\n**Effect** Dovan gains a +2 circumstance bonus to AC against the triggering attack."
 
 attacks:
   - name: ""
@@ -75,6 +76,12 @@ attacks:
   - name: "[[Bestiary Ability Glossary/Sneak Attack|Sneak Attack]]"
     desc: "  Dovan deals an additional 1d6 precision damage to [[Conditions/Off-Guard|Off-Guard]] creatures."
  
+```
+
+```encounter-table
+name: Dovan from Nisroch
+creatures:
+  - 1: Dovan from Nisroch
 ```
 
 

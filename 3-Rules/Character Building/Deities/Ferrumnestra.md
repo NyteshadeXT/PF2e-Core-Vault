@@ -32,7 +32,7 @@ license: OGL
 
 ### **DEVOTEE BENEFITS**
 
-**Cleric Spells** 1st: [[Spells/Detect Metal|Detect Metal]], 3rd: [[Spells/Noxious Metals|Noxious Metals]], 4th: [[Spells/Rust Cloud|Rust Cloud]]
+**Cleric Spells** 1st: [[Spells/Conductive Weapon|Conductive Weapon]], 3rd: [[Spells/Noxious Metals|Noxious Metals]], 4th: [[Spells/Rust Cloud|Rust Cloud]]
 
 **Divine Font** harm
 

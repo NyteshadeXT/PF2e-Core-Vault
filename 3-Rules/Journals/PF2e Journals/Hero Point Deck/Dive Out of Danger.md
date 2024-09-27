@@ -10,4 +10,4 @@ Play before you attempt a Reflex save.
 
 * * *
 
-You succeed at the saving throw without needing to roll. You gain the [[Conditions/Clumsy 1|Clumsy 1]] condition, which lasts until the next time you get a full night's rest.
+You succeed at the saving throw without needing to roll. You gain the [[Conditions/Clumsy|Clumsy 1]] condition, which lasts until the next time you get a full night's rest.

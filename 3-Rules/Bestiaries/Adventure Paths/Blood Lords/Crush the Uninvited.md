@@ -5,6 +5,7 @@ noteType: pf2eHazard
 tags:
   - magical
   - trap
+  - pf2eHazard
 
 source: Pathfinder #186: Ghost King&#x27;s Rage
 aliases: "Compendium.pf2e.blood-lords-bestiary.Actor.AyUIaZ5TiRkyl3NL" 
@@ -22,8 +23,8 @@ name: "Crush the Uninvited"
 level: "Hazard 20"
 
 
-trait_01: "magical"
-trait_02: "trap"
+trait_01: [[magical]]
+trait_02: [[trap]]
 modifier: 38
 sourcebook: "_Pathfinder #186: Ghost King's Rage_"
 perception:
@@ -42,9 +43,15 @@ attacks:
   - name: ""
 
   - name: "Implosion"
-    desc: "`pf2:r` (arcane) **Trigger** A creature passes through the doorway without Kemnebi's permission\n**Effect** The trap casts implosion on the triggering creature. This is a 10th-rank [[Spells/Implosion|Implosion]] spell that deals 85 damage (DC 47 Fortitude check)."
+    desc: "`pf2:r` (arcane) **Trigger** A creature passes through the doorway without Kemnebi's permission\n* * *\n\n**Effect** The trap casts implosion on the triggering creature. This is a 10th-rank [[Spells/Implosion|Implosion]] spell that deals 85 damage (DC 47 Fortitude check)."
 
 
 
+```
+
+```encounter-table
+name: Crush the Uninvited
+creatures:
+  - 1: Crush the Uninvited
 ```
 

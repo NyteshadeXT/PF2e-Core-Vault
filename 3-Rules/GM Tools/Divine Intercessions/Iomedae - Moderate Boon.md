@@ -17,7 +17,7 @@ license: OGL
 
 
 
-**Moderate Boon (Single Use)** Your heart beats with a determined valor.
+Your heart beats with a determined valor.
 
 Once, Iomedae ends all negative effects affecting you, unless they are from an artifact, deity, or similarly powerful source; she also restores all lost Hit Points and replenishes your spells, Focus Points, and other daily resources.
 

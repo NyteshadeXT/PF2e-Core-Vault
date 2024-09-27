@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.pathfinder-monster-core.Actor.qlxVPpwVFw5qIVQM"
 tags:
   - pf2e/creature/type/dragon
   - pf2e/creature/type/fire
+  - pf2eMonster
   - pf2e/creature/level/5
   - remaster
 statblock: inline
@@ -26,8 +27,8 @@ level: "Creature 5"
 
 alignment: ""
 size: "Large"
-trait_01: "dragon"
-trait_02: "fire"
+trait_01: [[dragon]]
+trait_02: [[fire]]
 modifier: 12
 perception:
   - name: "Perception"
@@ -72,11 +73,17 @@ attacks:
     desc: "`pf2:2`  The flame drake makes two Fangs Strikes and one Tail Strike in any order."
 
   - name: "Fireball Breath"
-    desc: "`pf2:2` (fire,primal) The flame drake expels a ball of flame to a range of 180 feet that explodes in a 20-foot burst. Creatures in the burst take 6d6 fire damage (DC 22 Reflex check save).\n\nThe flame drake can't use Fireball Breath again for 1d6 rounds."
+    desc: "`pf2:2` (fire,primal) The flame drake expels a ball of flame to a range of 180 feet that explodes in a @Template[burst|distance:20]. Creatures in the burst take 6d6 fire damage (DC 22 Reflex check save).\n\nThe flame drake can't use Fireball Breath again for 1d6 rounds."
 
   - name: "Speed Surge"
     desc: "`pf2:1` (move) **Frequency** three times per day\n* * *\n\n**Effect** The flame drake Strides or Flies twice."
  
+```
+
+```encounter-table
+name: Flame Drake
+creatures:
+  - 1: Flame Drake
 ```
 
 

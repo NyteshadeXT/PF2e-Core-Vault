@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/halfling
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/0
 statblock: inline
 name: "Halfling Druid (1-2)"
@@ -25,13 +26,14 @@ level: "Creature 0"
 
 alignment: ""
 size: "Small"
-trait_01: "evil"
-trait_02: "halfling"
-trait_03: "humanoid"
+trait_01: [[evil]]
+trait_02: [[halfling]]
+trait_03: [[humanoid]]
 modifier: 8
 perception:
   - name: "Perception"
     desc: "+8; Low-Light Vision"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Athletics: +3, Stealth: +6"
@@ -71,6 +73,12 @@ attacks:
   - name: "Support"
     desc: "  The halfling druid's animal companion supports its master's attacks, tearing tendons with each opening. Until the start of the druid's next turn, any Strikes that damage a target that the animal companion threatens give the target a -5-foot status penalty to its Speeds for 1 minute (-10 on a critical success). While using Support, the only other actions an animal companion can use on its turn are movement actions to get into position. If an animal companion has used any other actions on its turn, it cannot support its master."
  
+```
+
+```encounter-table
+name: Halfling Druid (1-2)
+creatures:
+  - 1: Halfling Druid (1-2)
 ```
 
 

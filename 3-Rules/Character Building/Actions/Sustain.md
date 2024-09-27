@@ -12,7 +12,7 @@ license: ORC
 ---
 # Sustain `pf2:1`
 
-### [[concentrate]]
+### [[3-Rules/Rule References/Concentrate]]
 
 **Category** interaction; 
 

@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/fiend
   - pf2e/creature/type/sahkil
   - pf2e/creature/type/unholy
+  - pf2eMonster
   - pf2e/creature/level/17
 statblock: inline
 name: "Ximtal"
@@ -27,15 +28,15 @@ level: "Creature 17"
 
 alignment: ""
 size: "Large"
-trait_01: "evil"
-trait_02: "fiend"
-trait_03: "sahkil"
-trait_04: "unholy"
+trait_01: [[evil]]
+trait_02: [[fiend]]
+trait_03: [[sahkil]]
+trait_04: [[unholy]]
 modifier: 30
 perception:
   - name: "Perception"
     desc: "+30; Darkvision, Truesight"
-languages: "Chthonian, Diabolic, Empyrean, Requian"
+languages: "Chthonian, Diabolic, Empyrean, Requian; telepathy 100 feet"
 skills:
   - name: "Skills"
     desc: "Arcana: +27, Deception: +33, Intimidation: +33, Occultism: +27, Religion: +30, Stealth: +28"
@@ -60,7 +61,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Despoiler"
-    desc: " (aura,divine) 1000 feet. Creatures within the aura take a -2 circumstance penalty to all saving throws against poisons, diseases, and drugs.\n[[Bestiary Effects/Effect_ Despoiler|Effect: Despoiler]]"
+    desc: " (aura,divine) 1000 feet. Creatures within the aura take a -2 circumstance penalty to all saving throws against poisons, diseases, and drugs.\n\n[[Bestiary Effects/Effect_ Despoiler|Effect: Despoiler]]"
 
 attacks:
   - name: ""
@@ -75,14 +76,20 @@ attacks:
     desc: "DC 38, attack +30; __8th __  _[[Spells/Fear|Fear (At Will)]]_, _[[Spells/Desiccate|Horrid Wilting (x3)]]_, _[[Spells/Quandary|Maze (x3)]]_, _[[Spells/Suggestion|Suggestion (At Will)]]_\n__Cantrips__  __(9th)__ _[[Spells/Detect Magic|Detect Magic]]_\n__Constant__  __(8th)__ _[[Spells/Fly|Fly]]_, _[[Spells/Truesight|True Seeing]]_"
 
   - name: "Isolate Foes"
-    desc: "`pf2:2` (curse,divine,emotion,incapacitation,mental) **Frequency** once per day\n**Effect** The ximtal attempts to isolate its enemy's companions, forcing an impression that each creature's friends and allies have vanished and they are all alone against an insurmountable threat. The ximtal chooses up to four creatures, each of whom must be adjacent to one other target. Each target must attempt a DC 38 Will check save. On a failure, a target becomes out of phase with all allies. The affected creatures can't perceive their allies or interact with them in any way, and they can move into allies' spaces as if their allies simply weren't there. Allies similarly can't perceive or interact with the affected creatures with one exception: an ally can target an affected creature with [[Spells/Cleanse Affliction|Cleanse Affliction]] to remove the effects. Every 24 hours, an affected creature can attempt a new saving throw to end this effect."
+    desc: "`pf2:2` (curse,divine,emotion,incapacitation,mental) **Frequency** once per day\n* * *\n\n**Effect** The ximtal attempts to isolate its enemy's companions, forcing an impression that each creature's friends and allies have vanished and they are all alone against an insurmountable threat. The ximtal chooses up to four creatures, each of whom must be adjacent to one other target. Each target must attempt a DC 38 Will check save. On a failure, a target becomes out of phase with all allies. The affected creatures can't perceive their allies or interact with them in any way, and they can move into allies' spaces as if their allies simply weren't there. Allies similarly can't perceive or interact with the affected creatures with one exception: an ally can target an affected creature with [[Spells/Cleanse Affliction|Cleanse Affliction]] to remove the effects. Every 24 hours, an affected creature can attempt a new saving throw to end this effect."
 
   - name: "Sensory Fever"
-    desc: " (disease) A ximtal's withering attacks cause a debilitating disease targeting the senses\n**Saving Throw** DC 36 Fortitude check\n**Stage1** creature loses one sense determined randomly: taste, smell, hearing, or sight (1 day)\n**Stage 2** creature loses an additional sense from the stage 1 list (1 day)\n**Stage 3** creature loses an additional sense from the stage 1 list (1 day)\n**Stage 4** creature loses the last sense from the stage 1 list and any special senses, such as tremorsense or lifesense (1 day)\n**Stage 5** all lost senses are permanent unless restored via [[Spells/Sound Body|Sound Body]] or a similar effect."
+    desc: " (disease) A ximtal's withering attacks cause a debilitating disease targeting the senses\n\n**Saving Throw** DC 36 Fortitude check\n* * *\n\n**Stage1** creature loses one sense determined randomly: taste, smell, hearing, or sight (1 day)\n\n**Stage 2** creature loses an additional sense from the stage 1 list (1 day)\n\n**Stage 3** creature loses an additional sense from the stage 1 list (1 day)\n\n**Stage 4** creature loses the last sense from the stage 1 list and any special senses, such as tremorsense or lifesense (1 day)\n\n**Stage 5** all lost senses are permanent unless restored via [[Spells/Sound Body|Sound Body]] or a similar effect."
 
   - name: "Skip Between"
-    desc: "`pf2:1` (divine,teleportation) The ximtal moves from the Material Plane to the Ethereal Plane or vice-versa, with the effects of [[Spells/Ethereal Jaunt|Ethereal Jaunt]] except that the effect has an unlimited duration and can be [[Actions/Dismiss|Dismissed]].\nA summoned ximtal can't use Skip Between."
+    desc: "`pf2:1` (divine,teleportation) The ximtal moves from the Material Plane to the Ethereal Plane or vice-versa, with the effects of [[Spells/Ethereal Jaunt|Ethereal Jaunt]] except that the effect has an unlimited duration and can be [[Actions/Dismiss|Dismissed]].\n\nA summoned ximtal can't use Skip Between."
  
+```
+
+```encounter-table
+name: Ximtal
+creatures:
+  - 1: Ximtal
 ```
 
 

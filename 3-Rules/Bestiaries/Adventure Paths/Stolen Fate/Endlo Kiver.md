@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/dwarf
   - pf2e/creature/type/evil
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/12
 statblock: inline
 name: "Endlo Kiver"
@@ -23,13 +24,13 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #190: The Choosing"
 name: "Endlo Kiver"
 level: "Creature 12"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Medium"
-trait_01: "chaotic"
-trait_02: "dwarf"
-trait_03: "evil"
-trait_04: "humanoid"
+trait_01: [[chaotic]]
+trait_02: [[dwarf]]
+trait_03: [[evil]]
+trait_04: [[humanoid]]
 modifier: 22
 perception:
   - name: "Perception"
@@ -72,11 +73,17 @@ attacks:
     desc: "  Endlo deals an additional die of damage with greatswords (included in his Strike above), which also adds an additional die to his [[Spells/Weapon Storm|Weapon Storm]] spell."
 
   - name: "Replenishment of War"
-    desc: "  When Endlo damages a creature with a greatsword Strike, he gains 6 temporary Hit Points until the start of his next turn. If the Strike was a critical hit, he instead gains 12 temporary Hit Points.\n[[Bestiary Effects/Effect_ Replenishment of War (Endlo)|Effect: Replenishment of War (Endlo)]]"
+    desc: "  When Endlo damages a creature with a greatsword Strike, he gains 6 temporary Hit Points until the start of his next turn. If the Strike was a critical hit, he instead gains 12 temporary Hit Points.\n\n[[Bestiary Effects/Effect_ Replenishment of War (Endlo)|Effect: Replenishment of War (Endlo)]]"
 
   - name: "Resolute Stance"
     desc: "`pf2:1` (stance) Endlo draws upon the might of stone to bolster his defenses. While in this stance, he gains a +2 status bonus to his AC and increases his resistance to slashing damage to 15, but he reduces his Speeds by 5 feet."
  
+```
+
+```encounter-table
+name: Endlo Kiver
+creatures:
+  - 1: Endlo Kiver
 ```
 
 

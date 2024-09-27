@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/humanoid
   - pf2e/creature/type/xulgath
+  - pf2eMonster
   - pf2e/creature/level/15
 statblock: inline
 name: "Zashathal Head-Taker"
@@ -22,12 +23,12 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #154: Siege of the Dinosaurs"
 name: "Zashathal Head-Taker"
 level: "Creature 15"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Medium"
-trait_01: "evil"
-trait_02: "humanoid"
-trait_03: "xulgath"
+trait_01: [[evil]]
+trait_02: [[humanoid]]
+trait_03: [[xulgath]]
 modifier: 27
 perception:
   - name: "Perception"
@@ -35,7 +36,7 @@ perception:
 languages: "Common, Draconic, Sakvroth"
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +22, Athletics: +29, Intimidation: +25 (+27 to Demoralize), Religion: +25, Stealth: +22, Survival: +25"
+    desc: "Acrobatics: +22, Athletics: +29, Intimidation: +25, Religion: +25, Stealth: +22, Survival: +25"
 abilityMods: [6, 1, 5, 0, 4, 2]
 speed: 35 feet
 sourcebook: "_Pathfinder #154: Siege of the Dinosaurs_"
@@ -64,7 +65,7 @@ abilities_mid:
     desc: "  When Zashathal rolls a success on a Fortitude save, it is a critical success instead. Zashathal halves damage he takes from failing a Fortitude save."
 
   - name: "Powerful Stench"
-    desc: " (aura,olfactory) 30 feet. A creature that enters the area must attempt a DC 34 Fortitude check save. On a failure, the creature is [[Conditions/Sickened 1|Sickened 2]], and on a critical failure, the creature is also [[Conditions/Slowed 1|Slowed 1]] for as long as it is sickened. While within the aura, the creature takes a -2 circumstance penalty to saves to recover from the sickened condition. A creature that succeeds at its save is temporarily immune to all xulgaths' stenches for 1 minute."
+    desc: " (aura,olfactory) 30 feet. A creature that enters the area must attempt a DC 34 Fortitude check save. On a failure, the creature is [[Conditions/Sickened|Sickened 2]], and on a critical failure, the creature is also [[Conditions/Slowed|Slowed 1]] for as long as it is sickened. While within the aura, the creature takes a -2 circumstance penalty to saves to recover from the sickened condition. A creature that succeeds at its save is temporarily immune to all xulgaths' stenches for 1 minute."
 
 attacks:
   - name: ""
@@ -82,13 +83,13 @@ attacks:
     desc: "`pf2:1` Stoneraiser Javelin +25 (thrown 30 ft.)\n__Damage__  2d6 + 12 piercing"
 
   - name: "Intimidating Strike"
-    desc: " (rage) **Trigger** Zashathal hits a creature with a melee Strike\n**Effect** Zashathal makes an Intimidate check to [[Actions/Demoralize|Demoralize]] the target creature. If the target creature was reduced to 0 Hit Points by the triggering Strike, Zashathal can instead Demoralize all opponents within 30 feet by comparing the result of his Intimidation check to each creature's Will DC. Zashathal doesn't take a penalty to these Intimidation checks for not speaking a target's language."
+    desc: " (rage) **Trigger** Zashathal hits a creature with a melee Strike\n* * *\n\n**Effect** Zashathal makes an Intimidate check to [[Actions/Demoralize|Demoralize]] the target creature. If the target creature was reduced to 0 Hit Points by the triggering Strike, Zashathal can instead Demoralize all opponents within 30 feet by comparing the result of his Intimidation check to each creature's Will DC. Zashathal doesn't take a penalty to these Intimidation checks for not speaking a target's language."
 
   - name: "Rage"
-    desc: "`pf2:1` (concentrate,emotion,mental) **Requirements** Zashathal isn't [[Conditions/Fatigued|Fatigued]] or raging\n**Effect** Zashathal gains 20 temporary Hit Points that last until the rage ends. While raging, he deals 12 additional damage with melee attacks and takes a -1 penalty to AC. Zashathal can't use concentrate actions except Seek and rage actions. The rage lasts for 1 minute, until there are no enemies Zashathal can perceive, or until Zashathal falls unconscious. Once the rage ends, Zashathal can't again for 1 minute.\n[[Feat_Feature Effects/Effect_ Rage|Effect: Rage]]"
+    desc: "`pf2:1` (concentrate,emotion,mental) **Requirements** Zashathal isn't [[Conditions/Fatigued|Fatigued]] or raging\n* * *\n\n**Effect** Zashathal gains 20 temporary Hit Points that last until the rage ends. While raging, he deals 12 additional damage with melee attacks and takes a -1 penalty to AC. Zashathal can't use concentrate actions except Seek and rage actions. The rage lasts for 1 minute, until there are no enemies Zashathal can perceive, or until Zashathal falls unconscious. Once the rage ends, Zashathal can't again for 1 minute.\n\n[[Feat_Feature Effects/Effect_ Rage|Effect: Rage]]"
 
   - name: "Renewed Vigor"
-    desc: "`pf2:1` (concentrate,rage) Zashathal gains 12 temporary Hit Points.\n[[Feat_Feature Effects/Effect_ Renewed Vigor|Effect: Renewed Vigor]]"
+    desc: "`pf2:1` (concentrate,rage) Zashathal gains 12 temporary Hit Points.\n\n[[Feat_Feature Effects/Effect_ Renewed Vigor|Effect: Renewed Vigor]]"
 
   - name: "Sudden Charge"
     desc: "`pf2:2`  Zashathal Strides twice and makes a melee Strike."
@@ -96,6 +97,12 @@ attacks:
   - name: "Whirlwind Strike"
     desc: "`pf2:3`  Zashathal makes a melee Strike against all creatures within his reach. Each attack counts toward his multiple attack penalty, but his multiple attack penalty doesn't increase until he's made all his attacks."
  
+```
+
+```encounter-table
+name: Zashathal Head-Taker
+creatures:
+  - 1: Zashathal Head-Taker
 ```
 
 

@@ -13,7 +13,7 @@ license: OGL
 ---
 # Forgotten Shell
 ## Item 13
-### [rare](rare "Rare Rarity Trait")[[bulwark]][[invested]][[magical]]
+### [rare](rare.md "Rare Rarity Trait")[[bulwark]][[invested]][[3-Rules/Rule References/Magical]]
 
 **Category** heavy; **Group** plate
 **Price** 2500 gp; 
@@ -28,7 +28,7 @@ You can spend 1 hour using blacksmithing tools to bind a helpless Medium humanoi
 
 *   Whenever the humanoid attempts a Deception, Diplomacy, Intimidation, or Performance check, they must roll twice and use the worse result.
 *   Additionally, creatures the humanoid encounters have an initial attitude toward them of one degree worse than they normally would (for instance, [[Conditions/Unfriendly|Unfriendly]] instead of [[Conditions/Indifferent|Indifferent]]).
-*   Good creatures are [[Conditions/Enfeebled 1|Enfeebled 2]] while carrying, wielding, or wearing this item crafted by the sea-witches.
+*   Good creatures are [[Conditions/Enfeebled|Enfeebled 2]] while carrying, wielding, or wearing this item crafted by the sea-witches.
 
 **Craft Requirements** Supply a casting of _Nondetection_ and [[Spells/Outcast's Curse|Outcast's Curse]].
 

@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/human
   - pf2e/creature/type/humanoid
   - pf2e/creature/type/lawful
+  - pf2eMonster
   - pf2e/creature/level/3
 statblock: inline
 name: "Ardissa Prendergant"
@@ -23,13 +24,13 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #175: Broken Tusk Moon"
 name: "Ardissa Prendergant"
 level: "Creature 3"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Medium"
-trait_01: "evil"
-trait_02: "human"
-trait_03: "humanoid"
-trait_04: "lawful"
+trait_01: [[evil]]
+trait_02: [[human]]
+trait_03: [[humanoid]]
+trait_04: [[lawful]]
 modifier: 9
 perception:
   - name: "Perception"
@@ -57,7 +58,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Mesmerizing Sigil"
-    desc: "`pf2:r` (arcane,concentrate) **Trigger** A creature targets Ardissa with a melee Strike\n**Effect** Ardissa traces a dizzying symbol in the air. The creature must attempt a DC 20 Will check save. The creature is then temporarily immune for 1 minute.\n**Success** The creature is unaffected.\n**Failure** Until the beginning of her next turn, Ardissa is [[Conditions/Concealed|Concealed]] from the creature.\n**Critical Failure** Until the end of her next turn, Ardissa is [[Conditions/Hidden|Hidden]] from the creature."
+    desc: "`pf2:r` (arcane,concentrate) **Trigger** A creature targets Ardissa with a melee Strike\n* * *\n\n**Effect** Ardissa traces a dizzying symbol in the air. The creature must attempt a DC 20 Will check save. The creature is then temporarily immune for 1 minute.\n* * *\n\n**Success** The creature is unaffected.\n\n**Failure** Until the beginning of her next turn, Ardissa is [[Conditions/Concealed|Concealed]] from the creature.\n\n**Critical Failure** Until the end of her next turn, Ardissa is [[Conditions/Hidden|Hidden]] from the creature."
 
 attacks:
   - name: ""
@@ -75,8 +76,14 @@ attacks:
     desc: "1 Focus Point, DC 20, attack +12; __2nd __  _[[Spells/Hand of the Apprentice|Hand of the Apprentice]]_"
 
   - name: "Drain Bonded Item"
-    desc: " (arcane) **Frequency** twice per day\n**Effect** Ardissa regains the ability to cast one spell she has already cast. She must still Cast the Spell normally. She can use this ability once to recover a 1st-rank spell and once to recover a 2nd-rank spell. She typically uses this ability to recover her [[Spells/Force Barrage|Force Barrage]] spells."
+    desc: " (arcane) **Frequency** twice per day\n* * *\n\n**Effect** Ardissa regains the ability to cast one spell she has already cast. She must still Cast the Spell normally. She can use this ability once to recover a 1st-rank spell and once to recover a 2nd-rank spell. She typically uses this ability to recover her [[Spells/Force Barrage|Force Barrage]] spells."
  
+```
+
+```encounter-table
+name: Ardissa Prendergant
+creatures:
+  - 1: Ardissa Prendergant
 ```
 
 

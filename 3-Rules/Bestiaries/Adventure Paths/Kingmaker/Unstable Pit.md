@@ -4,6 +4,7 @@ obsidianUIMode: preview
 noteType: pf2eHazard
 tags:
   - environmental
+  - pf2eHazard
 
 source: Pathfinder Kingmaker
 aliases: "Compendium.pf2e.kingmaker-bestiary.Actor.hQ0aR4oXug0yoTbT" 
@@ -21,7 +22,7 @@ name: "Unstable Pit"
 level: "Hazard 0"
 
 
-trait_01: "environmental"
+trait_01: [[environmental]]
 modifier: 2
 sourcebook: "_Pathfinder Kingmaker_"
 perception:
@@ -39,9 +40,15 @@ attacks:
   - name: ""
 
   - name: "Crumbling Edge"
-    desc: "`pf2:r` **Trigger** A creature comes within 5 feet of the pit's edge\n**Effect** The edge of the pit crumbles. The triggering creature must attempt a DC 19 Reflex check save.\n**Critical Success** The triggering creature steps back from the edge before it collapses.\n**Success** The triggering creature falls [[Conditions/Prone|Prone]].\n**Failure** The triggering creature falls prone and slides into the pit, taking 1d6 bludgeoning damage.\n**Critical Failure** As failure, but 2d6 bludgeoning damage."
+    desc: "`pf2:r` **Trigger** A creature comes within 5 feet of the pit's edge\n\n**Effect** The edge of the pit crumbles. The triggering creature must attempt a DC 19 Reflex check save.\n* * *\n\n**Critical Success** The triggering creature steps back from the edge before it collapses.\n\n**Success** The triggering creature falls [[Conditions/Prone|Prone]].\n\n**Failure** The triggering creature falls prone and slides into the pit, taking 1d6 bludgeoning damage.\n\n**Critical Failure** As failure, but 2d6 bludgeoning damage."
 
 
 
+```
+
+```encounter-table
+name: Unstable Pit
+creatures:
+  - 1: Unstable Pit
 ```
 

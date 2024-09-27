@@ -5,6 +5,7 @@ noteType: pf2eHazard
 tags:
   - magical
   - trap
+  - pf2eHazard
   - complex
 source: Pathfinder #171: Hurricane&#x27;s Howl
 aliases: "Compendium.pf2e.strength-of-thousands-bestiary.Actor.cbviU6AtgD4Cp6fd" 
@@ -22,8 +23,8 @@ name: "Spider Summoning Rune"
 level: "Hazard 11"
 
 trait_06: "Complex"
-trait_01: "magical"
-trait_02: "trap"
+trait_01: [[magical]]
+trait_02: [[trap]]
 modifier: 24
 sourcebook: "_Pathfinder #171: Hurricane's Howl_"
 perception:
@@ -42,10 +43,16 @@ attacks:
   - name: ""
 
   - name: "Summon Animal"
-    desc: "`pf2:r` (divine, summon) **Trigger** A creature that isn't wearing a religious symbol of Norgorber enters the area above the rune\n**Effect** The trap summons a [[Bestiary 1/Goliath Spider|Goliath Spider]]. The goliath spider rolls initiative and remains for 2d6 rounds, after which the spell ends and the spider disappears. The spider also disappears if someone disables the trap before the duration expires. Unlike most summoned creatures, the goliath spider can use 3 actions each round and can use reactions."
+    desc: "`pf2:r` (divine, summon) **Trigger** A creature that isn't wearing a religious symbol of Norgorber enters the area above the rune\n* * *\n\n**Effect** The trap summons a [[Bestiary 1/Goliath Spider|Goliath Spider]]. The goliath spider rolls initiative and remains for 2d6 rounds, after which the spell ends and the spider disappears. The spider also disappears if someone disables the trap before the duration expires. Unlike most summoned creatures, the goliath spider can use 3 actions each round and can use reactions."
 
 
   - name: "Reset"
     desc: "The trap resets after 24 hours."
+```
+
+```encounter-table
+name: Spider Summoning Rune
+creatures:
+  - 1: Spider Summoning Rune
 ```
 

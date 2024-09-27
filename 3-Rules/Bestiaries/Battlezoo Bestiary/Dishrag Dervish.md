@@ -12,6 +12,7 @@ tags:
   - pf2e/creature/type/swarm
   - pf2e/creature/type/undead
   - pf2e/creature/type/unholy
+  - pf2eMonster
   - pf2e/creature/level/4
 statblock: inline
 name: "Dishrag Dervish"
@@ -30,13 +31,13 @@ level: "Creature 4"
 
 alignment: ""
 size: "Large"
-trait_01: "chaotic"
-trait_02: "evil"
-trait_03: "incorporeal"
-trait_04: "spirit"
-trait_05: "swarm"
-trait_06: "undead"
-trait_07: "unholy"
+trait_01: [[chaotic]]
+trait_02: [[evil]]
+trait_03: [[incorporeal]]
+trait_04: [[spirit]]
+trait_05: [[swarm]]
+trait_06: [[undead]]
+trait_07: [[unholy]]
 modifier: 10
 perception:
   - name: "Perception"
@@ -44,7 +45,7 @@ perception:
 languages: "Common"
 skills:
   - name: "Skills"
-    desc: "Intimidation: +12, Stealth: +13, Alcohol Lore: +11, "
+    desc: "Intimidation: +12, Stealth: +13, Alcohol Lore: +11"
 abilityMods: [-5, 5, 0, 1, 2, 4]
 speed:  fly 25 feet
 sourcebook: "_Battlezoo Bestiary_"
@@ -78,14 +79,20 @@ attacks:
     desc: "`pf2:1` Ectoplasmic Splash +12 (magical, range increment 30 feet)\n__Damage__  1d6 + 4 void plus ectoplasmic-dishwater"
 
   - name: "Ectoplasmic Dishwater"
-    desc: " (divine,poison) **Saving Throw** Fortitude;\n**Maximum Duration** 6 rounds;\n**Stage 1** 1d6 poison damage and Off-Guard (1 round);\n**Stage 2** 1d6 poison damage, off-guard, and Sickened 1 (1 round);\n**Stage 3** 1d6 poison damage, off-guard, and Sickened 2 (1 round)"
+    desc: " (divine,poison) **Saving Throw** DC 21 Fortitude;\n* * *\n\n**Maximum Duration** 6 rounds;\n\n**Stage 1** 1d6 poison damage and [[Conditions/Off-Guard|Off-Guard]] (1 round);\n\n**Stage 2** 1d6 poison damage, off-guard, and [[Conditions/Sickened|Sickened 1]] (1 round);\n\n**Stage 3** 1d6 poison damage, off-guard, and [[Conditions/Sickened|Sickened 2]] (1 round)"
 
   - name: "Swarming Rags"
-    desc: "`pf2:1` (divine) Each enemy in the dishrag dervish's space takes 1d8 bludgeoning damage (basic Reflex save) plus ectoplasmic dishwater."
+    desc: "`pf2:1` (divine) Each enemy in the dishrag dervish's space takes 1d8 bludgeoning damage (DC 21 basic Reflex save) plus ectoplasmic dishwater."
 
   - name: "Greasy Spill"
-    desc: "`pf2:2`  The dishrag dervish dumps grimy buckets and wrings out filthy sponges, creating a slippery puddle in a 15-foot burst that lasts for 1 minute. Each creature standing in the area must succeed at a Reflex save or Acrobatics check or fall Prone. Creatures using an action to move into the affected area must attempt either a Reflex save or an Acrobatics check to Balance. A creature that Steps or Crawls doesn't have to attempt a check or save."
+    desc: "`pf2:2`  The dishrag dervish dumps grimy buckets and wrings out filthy sponges, creating a slippery puddle in a 15-foot burst that lasts for 1 minute. Each creature standing in the area must succeed at a DC 20 Reflex save or DC 20 Acrobatics check or fall [[Conditions/Prone|Prone]]. Creatures using an action to move into the affected area must attempt either a Reflex save or an Acrobatics check to Balance. A creature that Steps or Crawls doesn't have to attempt a check or save."
  
+```
+
+```encounter-table
+name: Dishrag Dervish
+creatures:
+  - 1: Dishrag Dervish
 ```
 
 

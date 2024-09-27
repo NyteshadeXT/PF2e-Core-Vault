@@ -12,7 +12,7 @@ license: ORC
 ---
 # Aeon Stone (Preserving)
 ## Item 5
-### [uncommon](uncommon "Uncommon Rarity Trait")[[invested]][[magical]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[invested]][[3-Rules/Rule References/Magical]]
 
 
 **Price** 150 gp; 

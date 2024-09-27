@@ -10,8 +10,9 @@ tags:
   - trait/trap
   - trait/uncommon
   - category/snare
+  - remaster
 aliases: "Compendium.pf2e.equipment-srd.Item.Ap2Styg25sZMx3wn"
-license: OGL
+license: ORC
 ---
 # Mudrock Snare
 ## Item 10
@@ -32,13 +33,13 @@ Fired clay covers a pit of thin mud interspersed with fragile vials of blue drag
 
 [[Equipment Effects/Effect_ Mudrock Snare (Success)|Effect: Mudrock Snare (Success)]]
 
-**Failure** The creature is [[Conditions/Stunned 1|Stunned 2]], and it takes a -10-foot circumstance penalty to its Speed for 1 minute or until it Escapes (DC 27).
+**Failure** The creature is [[Conditions/Stunned|Stunned 2]], and it takes a -10-foot circumstance penalty to its Speed for 1 minute or until it Escapes (DC 27).
 
 [[Equipment Effects/Effect_ Mudrock Snare (Failure)|Effect: Mudrock Snare (Failure)]]
 
-**Critical Failure** The creature is [[Conditions/Stunned 1|Stunned 3]], and it's [[Conditions/Immobilized|Immobilized]] for 1 minute or until it Escapes (DC 27).
+**Critical Failure** The creature is [[Conditions/Stunned|Stunned 3]], and it's [[Conditions/Immobilized|Immobilized]] for 1 minute or until it Escapes (DC 27).
 
 **Craft Requirements** Supply 75 gp worth of refined blue dragon blood.
 
-*Source: Pathfinder Lost Omens: The Grand Bazaar*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

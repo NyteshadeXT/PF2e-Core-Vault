@@ -8,8 +8,9 @@ tags:
   - trait/fortune
   - trait/common
   - category/class
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.cEu8BUS41dlPyPGW"
-license: OGL
+license: ORC
 ---
 # Spiritual Guides `pf2:r`
 ## Feat 4
@@ -27,7 +28,7 @@ license: OGL
 
 * * *
 
-Though no one sees them and only you can hear them, the spirits around you constantly chatter, save when you are raging. Sometimes they're even helpful. You can heed the spirits' guidance to reroll the triggering check, using the second result even if it's worse.
+Though no one sees them and only you can hear them, the spirits around you constantly chatter, save when you are raging. Sometimes they're even helpful, and their guidance can even cut through the haze of your rage. Reroll the triggering check, using the second result even if it's worse.
 
-*Source: Pathfinder Advanced Player's Guide*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

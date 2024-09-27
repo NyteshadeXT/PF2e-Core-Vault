@@ -18,7 +18,7 @@ license: OGL
 
 
 
-The shock zombie breathes lightning, dealing 4d12 electricity damage in a 40-foot line (DC 24 Reflex check). It can't use its Breath Weapon again for 1 minute.
+The shock zombie breathes lightning, dealing 4d12 electricity damage in a @Template\[line|distance:40\] (DC 24 Reflex check). It can't use its Breath Weapon again for 1 minute.
 
 *Source: Pathfinder #180: The Smoking Gun*
 *OGL*

@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/anugobu
   - pf2e/creature/type/chaotic
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/3
 statblock: inline
 name: "Anugobu Apprentice"
@@ -22,12 +23,12 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #166: Despair on Danger Island"
 name: "Anugobu Apprentice"
 level: "Creature 3"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "tiny"
-trait_01: "anugobu"
-trait_02: "chaotic"
-trait_03: "humanoid"
+trait_01: [[anugobu]]
+trait_02: [[chaotic]]
+trait_03: [[humanoid]]
 modifier: 12
 perception:
   - name: "Perception"
@@ -35,7 +36,7 @@ perception:
 languages: "Anugobu, Common, Fey, Petran"
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +10, Athletics: +6, Crafting: +13, Diplomacy: +8, Engineering Lore: +13, Stealth: +10, Survival: +7"
+    desc: "Acrobatics: +10, Athletics: +6, Crafting: +13, Diplomacy: +8, Stealth: +10, Survival: +7, Engineering Lore: +13"
 abilityMods: [-1, 3, 1, 4, 0, 3]
 speed: 20 feet
 sourcebook: "_Pathfinder #166: Despair on Danger Island_"
@@ -76,8 +77,14 @@ attacks:
     desc: "`pf2:1` Hammer +12 (agile, thrown 20 ft.)\n__Damage__  1d8 + 2 bludgeoning"
 
   - name: "Innate Occult Spells"
-    desc: "DC 20, attack +12; __2nd __  _[[Spells/Dispel Magic|Dispel Magic]]_, _[[Spells/Mending|Mending (At Will)]]_; __1st __  _[[Spells/Create Water|Create Water]]_, _[[Spells/Floating Disk|Floating Disk]]_, _[[Spells/Phantasmal Minion|Unseen Servant (At Will)]]_\n__Cantrips__  __(2nd)__ _[[Spells/Prestidigitation|Prestidigitation]]_, _[[Spells/Telekinetic Projectile|Telekinetic Projectile]]_"
+    desc: "DC 20, attack +12; __2nd __  _[[Spells/Dispel Magic|Dispel Magic]]_, _[[Spells/Mending|Mending (At Will)]]_; __1st __  _[[Spells/Create Water|Create Water]]_, _[[Spells/Carryall|Floating Disk]]_, _[[Spells/Phantasmal Minion|Unseen Servant (At Will)]]_\n__Cantrips__  __(2nd)__ _[[Spells/Prestidigitation|Prestidigitation]]_, _[[Spells/Telekinetic Projectile|Telekinetic Projectile]]_"
  
+```
+
+```encounter-table
+name: Anugobu Apprentice
+creatures:
+  - 1: Anugobu Apprentice
 ```
 
 

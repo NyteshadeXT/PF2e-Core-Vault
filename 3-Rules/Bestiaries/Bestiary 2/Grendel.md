@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/chaotic
   - pf2e/creature/type/evil
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/19
 statblock: inline
 name: "Grendel"
@@ -23,12 +24,12 @@ token: [[modules/pf2e-tokens-bestiaries/portraits/aberrant/humanoid/grendel.webp
 source: "Pathfinder Bestiary 2"
 name: "Grendel"
 level: "Creature 19"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Large"
-trait_01: "chaotic"
-trait_02: "evil"
-trait_03: "humanoid"
+trait_01: [[chaotic]]
+trait_02: [[evil]]
+trait_03: [[humanoid]]
 modifier: 35
 perception:
   - name: "Perception"
@@ -58,16 +59,16 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "[[Bestiary Ability Glossary/Attack of Opportunity|Attack of Opportunity (Special)]]"
-    desc: "`pf2:r`  Grendel gains an extra reaction at the start of each of his turns that he can use only to make an Attack of Opportunity with his claw. He can't use more than one Attack of Opportunity triggered by the same action.\n"
+    desc: "`pf2:r`  Grendel gains an extra reaction at the start of each of his turns that he can use only to make an Attack of Opportunity with his claw. He can't use more than one Attack of Opportunity triggered by the same action.\n\n* * *\n"
 
   - name: "[[Bestiary Ability Glossary/Ferocity|Ferocity]]"
     desc: "`pf2:r`  "
 
   - name: "[[Bestiary Ability Glossary/Frightful Presence|Frightful Presence]]"
-    desc: " (aura,emotion,fear,mental) 60 feet. DC 38 Will check\n"
+    desc: " (aura,emotion,fear,mental) 60 feet. DC 38 Will check\n\n* * *\n"
 
   - name: "Unstoppable"
-    desc: "`pf2:r`  **Trigger** Grendel would take [[Conditions/Persistent Damage|Persistent Damage]] or gain one of the following conditions: [[Conditions/Blinded|Blinded]], [[Conditions/Clumsy 1|Clumsy]], [[Conditions/Confused|Confused]], [[Conditions/Controlled|Controlled]], [[Conditions/Dazzled|Dazzled]], [[Conditions/Deafened|Deafened]], [[Conditions/Doomed 1|Doomed]], [[Conditions/Drained 1|Drained]], [[Conditions/Enfeebled 1|Enfeebled]], [[Conditions/Fascinated|Fascinated]], [[Conditions/Fatigued|Fatigued]], [[Conditions/Fleeing|Fleeing]], [[Conditions/Frightened 1|Frightened]], [[Conditions/Paralyzed|Paralyzed]], [[Conditions/Petrified|Petrified]], [[Conditions/Sickened 1|Sickened]], [[Conditions/Slowed 1|Slowed]], [[Conditions/Stunned 1|Stunned]], or [[Conditions/Stupefied 1|Stupefied]]\n**Effect** The persistent damage or condition from the triggering effect doesn't affect Grendel."
+    desc: "`pf2:r`  **Trigger** Grendel would take [[Conditions/Persistent Damage|Persistent Damage]] or gain one of the following conditions: [[Conditions/Blinded|Blinded]], [[Conditions/Clumsy|Clumsy]], [[Conditions/Confused|Confused]], [[Conditions/Controlled|Controlled]], [[Conditions/Dazzled|Dazzled]], [[Conditions/Deafened|Deafened]], [[Conditions/Doomed|Doomed]], [[Conditions/Drained|Drained]], [[Conditions/Enfeebled|Enfeebled]], [[Conditions/Fascinated|Fascinated]], [[Conditions/Fatigued|Fatigued]], [[Conditions/Fleeing|Fleeing]], [[Conditions/Frightened|Frightened]], [[Conditions/Paralyzed|Paralyzed]], [[Conditions/Petrified|Petrified]], [[Conditions/Sickened|Sickened]], [[Conditions/Slowed|Slowed]], [[Conditions/Stunned|Stunned]], or [[Conditions/Stupefied|Stupefied]]\n* * *\n\n**Effect** The persistent damage or condition from the triggering effect doesn't affect Grendel."
 
 attacks:
   - name: ""
@@ -88,8 +89,14 @@ attacks:
     desc: "`pf2:1`  "
 
   - name: "Tooth Grind"
-    desc: "`pf2:1` (healing) **Requirements** Grendel is grabbing a creature\n**Effect** Grendel makes a bludgeoning jaws Strike against the creature he's grabbing. On a hit, the creature also takes 2d6 bleed damage and becomes [[Conditions/Wounded 1|Wounded 1]], or increases its wounded value by 1 if already wounded. On a critical hit, the creature instead becomes wounded 2, or increases its wounded value by 2 if already wounded. If a creature dies from Tooth Grind, Grendel regains 40 HP; this is a healing effect."
+    desc: "`pf2:1` (healing) **Requirements** Grendel is grabbing a creature\n* * *\n\n**Effect** Grendel makes a bludgeoning jaws Strike against the creature he's grabbing. On a hit, the creature also takes 2d6 bleed damage and becomes [[Conditions/Wounded|Wounded 1]], or increases its wounded value by 1 if already wounded. On a critical hit, the creature instead becomes wounded 2, or increases its wounded value by 2 if already wounded. If a creature dies from Tooth Grind, Grendel regains 40 healing HP; this is a healing effect."
  
+```
+
+```encounter-table
+name: Grendel
+creatures:
+  - 1: Grendel
 ```
 
 

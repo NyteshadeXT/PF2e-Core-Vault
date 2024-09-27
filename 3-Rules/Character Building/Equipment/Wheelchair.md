@@ -17,7 +17,7 @@ license: ORC
 **Bulk** 2; **Size** med
 **Usage** worn
 
-A common wheelchair is ideal for everyday use but isn’t designed for strenuous activity. These wheelchairs are most common among nonadventurers. Wheelchairs come in a variety of sizes to suit every person regardless of height or body type.
+A common wheelchair is ideal for everyday use but isn't designed for strenuous activity. These wheelchairs are most common among nonadventurers. Wheelchairs come in a variety of sizes to suit every person regardless of height or body type.
 
 *Source: Pathfinder Player Core*
 *ORC*

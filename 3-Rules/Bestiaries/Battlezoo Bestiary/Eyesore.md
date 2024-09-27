@@ -7,6 +7,7 @@ aliases: "Compendium.battlezoo-bestiary-pf2e.pf2e-battlezoo-bestiary.Actor.95uhU
 tags:
   - pf2e/creature/type/mindless
   - pf2e/creature/type/ooze
+  - pf2eMonster
   - pf2e/creature/level/3
 statblock: inline
 name: "Eyesore"
@@ -25,15 +26,16 @@ level: "Creature 3"
 
 alignment: ""
 size: "Medium"
-trait_01: "mindless"
-trait_02: "ooze"
+trait_01: [[mindless]]
+trait_02: [[ooze]]
 modifier: 12
 perception:
   - name: "Perception"
     desc: "+12; "
+languages: ""
 skills:
   - name: "Skills"
-    desc: "Thievery: +10, "
+    desc: "Thievery: +10"
 abilityMods: [4, -5, 5, -5, 1, -5]
 speed: 15 feet
 sourcebook: "_Battlezoo Bestiary_"
@@ -50,7 +52,7 @@ abilities_top:
   - name: ""
 
   - name: "Stolen Vision"
-    desc: "  An eyesore that has stolen at least one eye has vision. Additional eyes grant it additional vision types; with at least 4 eyes it has Low-Light Vision, with at least 6 eyes it has Darkvision, and with 8 or more eyes it has All-Around Vision.\nA typical eyesore has 6 eyes."
+    desc: "  An eyesore that has stolen at least one eye has vision. Additional eyes grant it additional vision types; with at least 4 eyes it has [[Bestiary Ability Glossary/Low-Light Vision|Low-Light Vision]], with at least 6 eyes it has [[Familiar Abilities/Darkvision|Darkvision]], and with 8 or more eyes it has [[Bestiary Ability Glossary/All-Around Vision|All-Around Vision]].\n\nA typical eyesore has 6 eyes."
 
 abilities_mid:
   - name: ""
@@ -61,11 +63,17 @@ attacks:
     desc: "`pf2:1` Acid Spray +10 (acid, range increment 30 feet)\n__Damage__  1d8 + 7 acid"
 
   - name: "Enucleate"
-    desc: "`pf2:3` (arcane,concentrate,incapacitation,visual) Against a helpless, Unconscious, or asleep creature, an eyesore will sometimes instinctively attempt to use their Steal Eye ability to painlessly extract the creature's eyes without disturbing or waking the subject.\nThe eyesore attempts a Thievery check opposed by the target's Perception DC. On a success, the eyesore steals a single eye, as per Steal Eye. If the eyesore fails its Thievery check, the target becomes aware of the attempt, waking up if possible."
+    desc: "`pf2:3` (arcane,concentrate,incapacitation,visual) Against a helpless, [[Conditions/Unconscious|Unconscious]], or asleep creature, an eyesore will sometimes instinctively attempt to use their Steal Eye ability to painlessly extract the creature's eyes without disturbing or waking the subject.\n\nThe eyesore attempts a Thievery check opposed by the target's Perception DC. On a success, the eyesore steals a single eye, as per Steal Eye. If the eyesore fails its Thievery check, the target becomes aware of the attempt, waking up if possible."
 
   - name: "Steal Eye"
-    desc: "`pf2:2` (arcane,concentrate,visual) All non-digested eyes within the eyesore lock gazes with a target it can see within 30 feet. That creature must attempt a Fortitude save. If it fails and has not been Dazzled by this ability, it loses an eye and becomes permanently dazzled. If the creature critically fails the save, was already dazzled by this ability, or otherwise only has one eye, a critically failed save causes the creature to lose their remaining eye and be permanently Blinded.\nStolen eyes immediately appear within the eyesore, under its control and potentially improving its vision. Stolen eyes can be retrieved from the fresh corpse of an eyesore within 1 hour of the eyesore's death.\nA creature can place a reclaimed eye back into an empty eye socket with a successful Medicine check, which restores the creature's vision after 1 minute and removes the dazzled and blinded conditions (a critical failure results in destroying the eye). Implanting a foreign eye into a socket other than its original requires a successful Medicine check instead. Eyes must be fresh and damp from the fluid of the eyesore for this process to succeed. After 1 hour, the eyes in a dead eyesore are too decomposed to be of any use."
+    desc: "`pf2:2` (arcane,concentrate,visual) All non-digested eyes within the eyesore lock gazes with a target it can see within 30 feet. That creature must attempt a DC 18 Fortitude save. If it fails and has not been [[Conditions/Dazzled|Dazzled]] by this ability, it loses an eye and becomes permanently dazzled. If the creature critically fails the save, was already dazzled by this ability, or otherwise only has one eye, a critically failed save causes the creature to lose their remaining eye and be permanently [[Conditions/Blinded|Blinded]].\n\nStolen eyes immediately appear within the eyesore, under its control and potentially improving its vision. Stolen eyes can be retrieved from the fresh corpse of an eyesore within 1 hour of the eyesore's death.\n\nA creature can place a reclaimed eye back into an empty eye socket with a successful DC 20 Medicine check, which restores the creature's vision after 1 minute and removes the dazzled and blinded conditions (a critical failure results in destroying the eye). Implanting a foreign eye into a socket other than its original requires a successful DC 24 Medicine check instead. Eyes must be fresh and damp from the fluid of the eyesore for this process to succeed. After 1 hour, the eyes in a dead eyesore are too decomposed to be of any use."
  
+```
+
+```encounter-table
+name: Eyesore
+creatures:
+  - 1: Eyesore
 ```
 
 

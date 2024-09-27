@@ -6,8 +6,9 @@ tags:
   - trait/catfolk
   - trait/common
   - category/ancestry
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.Iqv8qj7ym63YjexN"
-license: OGL
+license: ORC
 ---
 # Catfolk Dance `pf2:1`
 ## Feat 1
@@ -28,5 +29,5 @@ You have a habit of always being in the way when other creatures attempt to move
 
 **Success** The target creature gains a -2 circumstance penalty to Reflex saves until the start of your next turn.
 
-*Source: Pathfinder Lost Omens: Ancestry Guide*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

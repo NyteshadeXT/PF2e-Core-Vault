@@ -12,7 +12,7 @@ license: OGL
 ---
 # Runebranded Hide
 ## Item 8
-### [uncommon](uncommon "Uncommon Rarity Trait")[[invested]][[magical]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[invested]][[3-Rules/Rule References/Magical]]
 
 **Category** medium; 
 **Price** 160 gp; 

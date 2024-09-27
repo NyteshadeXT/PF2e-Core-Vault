@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.pfs-season-4-bestiary.Actor.16Ye7Wd2pXiUiGJo"
 tags:
   - pf2e/creature/type/construct
   - pf2e/creature/type/mindless
+  - pf2eMonster
   - pf2e/creature/level/0
 statblock: inline
 name: "Animated Dagger (3-4)"
@@ -21,15 +22,16 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Society Scenario #4-99: Blessings of the Forest"
 name: "Animated Dagger (3-4)"
 level: "Creature 0"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "tiny"
-trait_01: "construct"
-trait_02: "mindless"
+trait_01: [[construct]]
+trait_02: [[mindless]]
 modifier: 5
 perception:
   - name: "Perception"
     desc: "+5; Darkvision"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Athletics: +8"
@@ -59,6 +61,12 @@ attacks:
   - name: "Melee"
     desc: "`pf2:1` Blade +8 (magical, sweep)\n__Damage__  1d4 + 3 slashing"
  
+```
+
+```encounter-table
+name: Animated Dagger (3-4)
+creatures:
+  - 1: Animated Dagger (3-4)
 ```
 
 

@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/human
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/5
 statblock: inline
 name: "Artennod Raike (3-4)"
@@ -22,12 +23,12 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Society Scenario #2-12: Snakes in the Grass"
 name: "Artennod Raike (3-4)"
 level: "Creature 5"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Medium"
-trait_01: "evil"
-trait_02: "human"
-trait_03: "humanoid"
+trait_01: [[evil]]
+trait_02: [[human]]
+trait_03: [[humanoid]]
 modifier: 15
 perception:
   - name: "Perception"
@@ -70,8 +71,14 @@ attacks:
     desc: "  When fighting outdoors, or wherever her hawk can fly, Raike ignores the effects of lesser or standard cover for her foes."
 
   - name: "Motivating Assault"
-    desc: "`pf2:2`  **Frequency** once per round\n**Effect** Raike makes a Strike with her axe. If the attack is successful all allies within 30 feet gain a +1 status bonus to attack rolls, damage rolls, and saves against fear effects for 1 round.\n[[Bestiary Effects/Effect_ Motivating Assault|Effect: Motivating Assault]]"
+    desc: "`pf2:2`  **Frequency** once per round\n* * *\n\n**Effect** Raike makes a Strike with her axe. If the attack is successful all allies within 30 feet gain a +1 status bonus to attack rolls, damage rolls, and saves against fear effects for 1 round.\n\n[[Bestiary Effects/Effect_ Motivating Assault|Effect: Motivating Assault]]"
  
+```
+
+```encounter-table
+name: Artennod Raike (3-4)
+creatures:
+  - 1: Artennod Raike (3-4)
 ```
 
 

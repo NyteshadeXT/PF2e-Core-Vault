@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/giant
   - pf2e/creature/type/troll
+  - pf2eMonster
   - pf2e/creature/level/4
 statblock: inline
 name: "Chained Drained Troll"
@@ -23,13 +24,13 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Society Scenario #2-24: Breaking The Storm: Parting Clouds"
 name: "Chained Drained Troll"
 level: "Creature 4"
-rare_03: "Rare"
+rare_03: [[Rare]]
 alignment: ""
 size: "Large"
-trait_01: "chaotic"
-trait_02: "evil"
-trait_03: "giant"
-trait_04: "troll"
+trait_01: [[chaotic]]
+trait_02: [[evil]]
+trait_03: [[giant]]
+trait_04: [[troll]]
 modifier: 10
 perception:
   - name: "Perception"
@@ -61,6 +62,12 @@ attacks:
   - name: "Melee"
     desc: "`pf2:1` Jaws +13 (reach 10 feet)\n__Damage__  2d10 + 3 piercing"
  
+```
+
+```encounter-table
+name: Chained Drained Troll
+creatures:
+  - 1: Chained Drained Troll
 ```
 
 

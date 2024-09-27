@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/aeon
   - pf2e/creature/type/plant
   - pf2e/creature/type/wood
+  - pf2eMonster
   - pf2e/creature/level/3
   - remaster
 statblock: inline
@@ -23,12 +24,12 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Rage of Elements"
 name: "Lomori Sprout"
 level: "Creature 3"
-rare_03: "Rare"
+rare_03: [[Rare]]
 alignment: ""
 size: "tiny"
-trait_01: "aeon"
-trait_02: "plant"
-trait_03: "wood"
+trait_01: [[aeon]]
+trait_02: [[plant]]
+trait_03: [[wood]]
 modifier: 9
 perception:
   - name: "Perception"
@@ -36,7 +37,7 @@ perception:
 languages: "Muan, Rasu, Utopian"
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +11, Athletics: +7, Crafting: +10, Gardening Lore: +11, Nature: +10, Stealth: +11"
+    desc: "Acrobatics: +11, Athletics: +7, Crafting: +10, Nature: +10, Stealth: +11, Gardening Lore: +11"
 abilityMods: [0, 4, 3, 0, 3, 1]
 speed: 30 feet,  climb 20 feet
 sourcebook: "_Pathfinder Rage of Elements_"
@@ -55,7 +56,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Scurry"
-    desc: "`pf2:r`  **Trigger** A creature the lomori sprout can observe attacks the sprout;\n**Effect** After the attack resolves, the lomori sprout can Stride up to their speed. This movement doesn't trigger reactions from the triggering creature."
+    desc: "`pf2:r`  **Trigger** A creature the lomori sprout can observe attacks the sprout;\n* * *\n\n**Effect** After the attack resolves, the lomori sprout can Stride up to their speed. This movement doesn't trigger reactions from the triggering creature."
 
 attacks:
   - name: ""
@@ -67,11 +68,17 @@ attacks:
     desc: "  The lomori sprout ignores difficult terrain and greater difficult terrain from plants and fungi."
 
   - name: "Take Root"
-    desc: "`pf2:2`  **Requirements** The lomori sprout is on the ground\n**Effect** The lomori sprout plants themself in the ground. Grasping roots erupt from the ground in a 5-foot burst within 60 feet of the lomori sprout, dealing 4d4 bludgeoning damage (DC 20 Reflex check save) to creatures in the area; on a failed save, a creature gains the [[Conditions/Immobilized|Immobilized]] condition until it Escapes (DC 20). The roots also make the area difficult terrain for 1 minute, after which they decompose into fertile mulch; the area is no longer difficult terrain, and any creatures still immobilized by the roots automatically [[Actions/Escape|Escape]]."
+    desc: "`pf2:2`  **Requirements** The lomori sprout is on the ground\n* * *\n\n**Effect** The lomori sprout plants themself in the ground. Grasping roots erupt from the ground in a @Template[burst|distance:5] within 60 feet of the lomori sprout, dealing 4d4 bludgeoning damage (DC 20 Reflex check save) to creatures in the area; on a failed save, a creature gains the [[Conditions/Immobilized|Immobilized]] condition until it Escapes (DC 20). The roots also make the area difficult terrain for 1 minute, after which they decompose into fertile mulch; the area is no longer difficult terrain, and any creatures still immobilized by the roots automatically [[Actions/Escape|Escape]]."
 
   - name: "[[Bestiary Ability Glossary/Knockdown|Knockdown]]"
     desc: "`pf2:1`  "
  
+```
+
+```encounter-table
+name: Lomori Sprout
+creatures:
+  - 1: Lomori Sprout
 ```
 
 

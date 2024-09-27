@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.npc-gallery.Actor.pZOgcQRwXrX9g0s8"
 tags:
   - pf2e/creature/type/human
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/8
 statblock: inline
 name: "Guildmaster"
@@ -24,8 +25,8 @@ level: "Creature 8"
 
 alignment: ""
 size: "Medium"
-trait_01: "human"
-trait_02: "humanoid"
+trait_01: [[human]]
+trait_02: [[humanoid]]
 modifier: 16
 perception:
   - name: "Perception"
@@ -33,7 +34,7 @@ perception:
 languages: "Common"
 skills:
   - name: "Skills"
-    desc: "Architecture Lore: +25, Athletics: +13, Bureaucracy Lore: +19, Crafting: +25, Diplomacy: +24, Intimidation: +22, Society: +21"
+    desc: "Athletics: +13, Crafting: +25, Diplomacy: +24, Intimidation: +22, Society: +21, Architecture Lore: +25, Bureaucracy Lore: +19"
 abilityMods: [3, 1, 1, 4, 2, 3]
 speed: 25 feet
 sourcebook: "_Pathfinder Gamemastery Guide_"
@@ -62,11 +63,17 @@ attacks:
     desc: "`pf2:1` Light Hammer +14 (agile, magical, thrown 20 ft.)\n__Damage__  2d6 + 5 bludgeoning"
 
   - name: "Call to Action"
-    desc: "`pf2:1` (auditory,concentrate,emotion,mental) The guildmaster gives a speech to inspire themself and all guild-member allies within 60 feet, granting them a +1 status bonus to attack and damage rolls until the start of the guildmaster's next turn.\n[[Bestiary Effects/Effect_ Call to Action|Effect: Call to Action]]"
+    desc: "`pf2:1` (auditory,concentrate,emotion,mental) The guildmaster gives a speech to inspire themself and all guild-member allies within 60 feet, granting them a +1 status bonus to attack and damage rolls until the start of the guildmaster's next turn.\n\n[[Bestiary Effects/Effect_ Call to Action|Effect: Call to Action]]"
 
   - name: "Sworn Duty"
     desc: "  While within the guild or presiding over guild business, the guildmaster gains a +2 circumstance bonus to weapon attack rolls and deals an additional 2d6 damage on a successful weapon attack."
  
+```
+
+```encounter-table
+name: Guildmaster
+creatures:
+  - 1: Guildmaster
 ```
 
 

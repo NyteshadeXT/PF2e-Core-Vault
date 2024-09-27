@@ -8,8 +8,9 @@ tags:
   - trait/spellshape
   - trait/common
   - category/class
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.V3nNlrdU2OxYJAjx"
-license: OGL
+license: ORC
 ---
 # Blessed Spell `pf2:1`
 ## Feat 8
@@ -31,5 +32,5 @@ If your next action is to [[Actions/Cast a Spell|Cast a Spell]] from a spell slo
 
 Attempt a counteract check based on the spell's DC and level. This effect is in addition to the normal effects of your spell.
 
-*Source: Pathfinder Advanced Player's Guide*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

@@ -11,6 +11,7 @@ tags:
   - pf2e/creature/type/fiend
   - pf2e/creature/type/ooze
   - pf2e/creature/type/unholy
+  - pf2eMonster
   - pf2e/creature/level/12
 statblock: inline
 name: "Omox"
@@ -26,20 +27,20 @@ token: [[modules/pf2e-tokens-bestiaries/portraits/aberrant/ooze/omox.webp| ]]
 source: "Pathfinder Bestiary 3"
 name: "Omox"
 level: "Creature 12"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Medium"
-trait_01: "chaotic"
-trait_02: "demon"
-trait_03: "evil"
-trait_04: "fiend"
-trait_05: "ooze"
-trait_06: "unholy"
+trait_01: [[chaotic]]
+trait_02: [[demon]]
+trait_03: [[evil]]
+trait_04: [[fiend]]
+trait_05: [[ooze]]
+trait_06: [[unholy]]
 modifier: 22
 perception:
   - name: "Perception"
     desc: "+22; Greater Darkvision"
-languages: "Chthonian, Draconic, Empyrean"
+languages: "Chthonian, Draconic, Empyrean; telepathy 100 feet"
 skills:
   - name: "Skills"
     desc: "Acrobatics: +24, Athletics: +23, Religion: +20, Stealth: +24"
@@ -59,12 +60,12 @@ abilities_top:
   - name: ""
 
   - name: "Cleanly Vulnerability"
-    desc: "  An omox embodies filth, and they find the concept of cleanliness abhorrent. An omox subjected to an effect that cleans them, such as the tidy command of [[Spells/Prestidigitation|Prestidigitation]], takes 2d6 mental damage.\nThey also take this damage the first time each round a creature hit by one of the omox's attacks spends actions cleaning off the filth."
+    desc: "  An omox embodies filth, and they find the concept of cleanliness abhorrent. An omox subjected to an effect that cleans them, such as the tidy command of [[Spells/Prestidigitation|Prestidigitation]], takes 2d6 mental damage.\n\nThey also take this damage the first time each round a creature hit by one of the omox's attacks spends actions cleaning off the filth."
 
 abilities_mid:
   - name: ""
   - name: "Grab Weapon"
-    desc: "`pf2:r` (concentrate) **Trigger** A creature hits the omox with a melee weapon.\n**Effect** The omox attempts to [[Actions/Disarm|Disarm]] the triggering creature. On a critical success, the weapon becomes subsumed within the omox's body rather than falling to the ground, from which it must be Disarmed before it can be retrieved."
+    desc: "`pf2:r` (concentrate) **Trigger** A creature hits the omox with a melee weapon.\n* * *\n\n**Effect** The omox attempts to [[Actions/Disarm|Disarm]] the triggering creature. On a critical success, the weapon becomes subsumed within the omox's body rather than falling to the ground, from which it must be Disarmed before it can be retrieved."
 
 attacks:
   - name: ""
@@ -82,17 +83,23 @@ attacks:
     desc: "_[[Spells/Demonic Pact|Abyssal Pact]]_"
 
   - name: "Liquid Leap"
-    desc: "`pf2:2` (concentrate,teleportation) **Requirements** The omox is in a space of liquid.\n**Effect** The omox teleports from its current space to any unoccupied space of liquid within 120 feet."
+    desc: "`pf2:2` (concentrate,teleportation) **Requirements** The omox is in a space of liquid.\n* * *\n\n**Effect** The omox teleports from its current space to any unoccupied space of liquid within 120 feet."
 
   - name: "Slime Trap"
-    desc: "  A creature hit by an omox's slime ball must attempt a DC 32 Reflex check save.\n**Success** The creature is unaffected.\n**Failure** The creature takes a -10-foot circumstance penalty to its Speeds for 1 minute or until it [[Actions/Escape|Escapes]] (DC 35).\n**Critical Failure** As failure, but the target is also [[Conditions/Clumsy 1|Clumsy 1]] for the same duration.\n[[Bestiary Effects/Effect_ Slime Trap|Effect: Slime Trap]]"
+    desc: "  A creature hit by an omox's slime ball must attempt a DC 32 Reflex check save.\n* * *\n\n**Success** The creature is unaffected.\n\n**Failure** The creature takes a -10-foot circumstance penalty to its Speeds for 1 minute or until it [[Actions/Escape|Escapes]] (DC 35).\n\n**Critical Failure** As failure, but the target is also [[Conditions/Clumsy|Clumsy 1]] for the same duration.\n\n[[Bestiary Effects/Effect_ Slime Trap|Effect: Slime Trap]]"
 
   - name: "Smother"
-    desc: "`pf2:1`  **Requirements** The omox has a creature [[Conditions/Grabbed|Grabbed]].\n**Effect** The demon flows over the grabbed creature, covering it in oozing acidic slime. The creature must succeed at a DC 32 Fortitude check save or else it becomes [[Conditions/Blinded|Blinded]] and must hold its breath or begin suffocating. These effects lasts as long as the omox has the creature grabbed."
+    desc: "`pf2:1`  **Requirements** The omox has a creature [[Conditions/Grabbed|Grabbed]].\n* * *\n\n**Effect** The demon flows over the grabbed creature, covering it in oozing acidic slime. The creature must succeed at a DC 32 Fortitude check save or else it becomes [[Conditions/Blinded|Blinded]] and must hold its breath or begin suffocating. These effects lasts as long as the omox has the creature grabbed."
 
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
     desc: "`pf2:1`  "
  
+```
+
+```encounter-table
+name: Omox
+creatures:
+  - 1: Omox
 ```
 
 

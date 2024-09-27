@@ -6,8 +6,9 @@ tags:
   - trait/archetype
   - trait/common
   - category/class
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.Hwvrive2vBIqZUcE"
-license: OGL
+license: ORC
 ---
 # Familiar Mascot
 ## Feat 4
@@ -19,11 +20,7 @@ license: OGL
 
 **Prerequisites** Familiar Master Dedication
 * * *
-Your familiar is the heart and soul of your adventuring team.
+When selecting master abilities, you can choose an ally to benefit from any specific master ability. Each master ability can benefit only a single character, and you can select a specific master ability only once unless the ability says otherwise.
 
-When selecting master abilities, you can choose an ally to benefit from any specific master ability.
-
-Each master ability can benefit only a single character, and you can select a specific master ability only once unless the ability says otherwise.
-
-*Source: Pathfinder Advanced Player's Guide*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

@@ -9,8 +9,9 @@ tags:
   - trait/tengu
   - trait/uncommon
   - category/martial
+  - remaster
 aliases: "Compendium.pf2e.equipment-srd.Item.pnA6uENYDDduWmAn"
-license: OGL
+license: ORC
 ---
 # Thunder Sling
 ## Item 0
@@ -26,7 +27,7 @@ license: OGL
 
 
 
-Tengu use these specialized slings to fire darts further and with greater force than when thrown by hand. A thunder sling uses darts as ammunition. It can also hurl blowgun darts as ammunition but deals 1d4 piercing instead of 1d6 when used this way.
+Tengu use these specialized slings to fire darts further and with greater force than when thrown by hand. A thunder sling uses darts as ammunition. It can also hurl blowgun darts as ammunition but deals 1d4 piercing damage instead of 1d6 when used this way.
 
-*Source: Pathfinder Treasure Vault*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

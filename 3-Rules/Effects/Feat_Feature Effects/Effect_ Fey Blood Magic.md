@@ -4,8 +4,9 @@ title: "Effect: Fey Blood Magic"
 cssclasses: pf2e,pf2e-spell
 tags:
   - trait/common
+  - remaster
 aliases: "Compendium.pf2e.feat-effects.Item.rJpkKaPRGaH0pLse"
-license: OGL
+license: ORC
 ---
 # Effect: Fey Blood Magic
 ## Level 1
@@ -16,7 +17,9 @@ license: OGL
 
 
 
-Colorful fey glamours dance around you or one target, causing them to be concealed for 1 round. Such obvious concealment can't be used to Hide.
+Granted by [[Class Features/Bloodline_ Fey|Bloodline: Fey]]
 
-*Source: Pathfinder Core Rulebook*
-*OGL*
+You gain a +2 status bonus to Performance checks.
+
+*Source: Pathfinder Player Core 2*
+*ORC*

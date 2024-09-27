@@ -26,7 +26,7 @@ license: OGL
 
 * * *
 
-_The Theater_ represents prophecy and how prophets can't change the unfolding pageantry of fate. As long as you have _The Theater_ invested and as long as you are not already [[Conditions/Doomed 1|Doomed]], when you would gain the doomed condition, attempt a DC 10 Flat check. On a success, you do not gain the doomed condition.
+_The Theater_ represents prophecy and how prophets can't change the unfolding pageantry of fate. As long as you have _The Theater_ invested and as long as you are not already [[Conditions/Doomed|Doomed]], when you would gain the doomed condition, attempt a DC 10 Flat check. On a success, you do not gain the doomed condition.
 
 **Activate** `pf2:r` (fortune) envision
 

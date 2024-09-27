@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/aberration
   - pf2e/creature/type/evil
   - pf2e/creature/type/lawful
+  - pf2eMonster
   - pf2e/creature/level/8
 statblock: inline
 name: "Voxnia"
@@ -22,12 +23,12 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #194: Cult of the Cave Worm"
 name: "Voxnia"
 level: "Creature 8"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Large"
-trait_01: "aberration"
-trait_02: "evil"
-trait_03: "lawful"
+trait_01: [[aberration]]
+trait_02: [[evil]]
+trait_03: [[lawful]]
 modifier: 17
 perception:
   - name: "Perception"
@@ -35,7 +36,7 @@ perception:
 languages: "Aklo, Common"
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +17, Arcana: +16, Athletics: +13, Deception: +16, Intimidation: +16, Stealth: +19"
+    desc: "Acrobatics: +19, Arcana: +18, Athletics: +15, Deception: +18, Intimidation: +18, Stealth: +21"
 abilityMods: [2, 6, 4, 3, 2, 3]
 speed: 30 feet
 sourcebook: "_Pathfinder #194: Cult of the Cave Worm_"
@@ -69,8 +70,14 @@ attacks:
     desc: "DC 25, attack +17\n__Constant__  __(3rd)__ _[[Spells/Mind Reading|Mind Reading]]_"
 
   - name: "Dark Naga Venom"
-    desc: " (incapacitation,poison) **Saving Throw** DC 25 Fortitude check\n**Maximum Duration** 5 minutes\n**Stage 1** [[Conditions/Slowed 1|Slowed 1]] (1 round)\n**Stage 2** [[Conditions/Slowed 1|Slowed 2]] (1 round)\n**Stage 3** [[Conditions/Unconscious|Unconscious]] with no Perception check to wake up (1d4+1 minutes)"
+    desc: " (incapacitation,poison) **Saving Throw** DC 25 Fortitude check\n* * *\n\n**Maximum Duration** 5 minutes\n\n**Stage 1** [[Conditions/Slowed|Slowed 1]] (1 round)\n\n**Stage 2** [[Conditions/Slowed|Slowed 2]] (1 round)\n\n**Stage 3** [[Conditions/Unconscious|Unconscious]] with no Perception check to wake up (1d4+1 minutes)"
  
+```
+
+```encounter-table
+name: Voxnia
+creatures:
+  - 1: Voxnia
 ```
 
 

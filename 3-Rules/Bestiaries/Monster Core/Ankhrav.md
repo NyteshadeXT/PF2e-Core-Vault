@@ -6,6 +6,7 @@ cssClasses: pf2e
 aliases: "Compendium.pf2e.pathfinder-monster-core.Actor.V1Kr5aiPaTM0mDFu" 
 tags:
   - pf2e/creature/type/animal
+  - pf2eMonster
   - pf2e/creature/level/3
   - remaster
 statblock: inline
@@ -25,7 +26,7 @@ level: "Creature 3"
 
 alignment: ""
 size: "Large"
-trait_01: "animal"
+trait_01: [[animal]]
 modifier: 7
 perception:
   - name: "Perception"
@@ -64,8 +65,14 @@ attacks:
     desc: "`pf2:2`  The ankhrav makes a mandibles Strike; if the Strike hits, the target's armor takes the damage and the acid damage bypasses the armor's Hardness."
 
   - name: "Spray Acid"
-    desc: "`pf2:2` (acid) **Frequency** once per hour\n* * *\n\n**Effect** The ankhrav spews acid in a 30-foot cone, dealing 3d6 acid damage and 1d6 persistent acid damage (DC 20 Reflex check save)."
+    desc: "`pf2:2` (acid) **Frequency** once per hour\n* * *\n\n**Effect** The ankhrav spews acid in a @Template[cone|distance:30], dealing 3d6 acid damage and 1d6 persistent acid damage (DC 20 Reflex check save)."
  
+```
+
+```encounter-table
+name: Ankhrav
+creatures:
+  - 1: Ankhrav
 ```
 
 

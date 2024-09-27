@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.lost-omens-impossible-lands-bestiary.Actor.K2AOcLMDOVN
 tags:
   - pf2e/creature/type/aberration
   - pf2e/creature/type/chaotic
+  - pf2eMonster
   - pf2e/creature/level/8
 statblock: inline
 name: "Fleshforged Conformer"
@@ -24,16 +25,16 @@ level: "Creature 8"
 
 alignment: ""
 size: "Medium"
-trait_01: "aberration"
-trait_02: "chaotic"
+trait_01: [[aberration]]
+trait_02: [[chaotic]]
 modifier: 19
 perception:
   - name: "Perception"
     desc: "+19; Darkvision"
-languages: "Aklo, Common"
+languages: "Aklo, Common; two other languages"
 skills:
   - name: "Skills"
-    desc: "Arcana: +15, Deception: +17, Fleshwarp Lore: +170, Medicine: +17, Occultism: +15, Society: +15, Stealth: +18"
+    desc: "Arcana: +15, Deception: +17, Medicine: +17, Occultism: +15, Society: +15, Stealth: +18, Fleshwarp Lore: +170"
 abilityMods: [0, 6, 3, 3, 3, 3]
 speed: 25 feet
 sourcebook: "_Pathfinder Lost Omens: Impossible Lands_"
@@ -67,11 +68,17 @@ attacks:
     desc: "`pf2:1` (concentrate,manipulate,morph,occult) The conformer detaches part of their body to serve them as an autonomous organism. For the next 24 hours, the conformer gains the loyal service of a fleshforged [[Lost Omens: Impossible Lands/Skinskitter|Skinskitter]]. As long as they remain within 1 mile of each other, the conformer can use the Surgical Detachment action again to empathically direct the actions of their skinskitter servant as well as perceive through its senses. Due to how taxing this process is, the conformer can have only one skinskitter servant at a time."
 
   - name: "Tissue Siphon"
-    desc: "`pf2:1` (manipulate,occult) **Requirements** The conformer is within reach of an [[Conditions/Unconscious|Unconscious]] or willing creature, or a creature taking persistent bleed damage\n**Effect** The conformer touches and absorbs some of the creature's flesh. The target must attempt a DC 26 Fortitude check save; on a failure, they become [[Conditions/Drained 1|Drained 1]] and take damage from their persistent bleed damage, even though it isn't the end of their turn."
+    desc: "`pf2:1` (manipulate,occult) **Requirements** The conformer is within reach of an [[Conditions/Unconscious|Unconscious]] or willing creature, or a creature taking persistent bleed damage\n* * *\n\n**Effect** The conformer touches and absorbs some of the creature's flesh. The target must attempt a DC 26 Fortitude check save; on a failure, they become [[Conditions/Drained|Drained 1]] and take damage from their persistent bleed damage, even though it isn't the end of their turn."
 
   - name: "Wear Flesh"
-    desc: "`pf2:1` (occult) **Requirements** The conformer has used Tissue Siphon to absorb flesh within the last hour\n**Effect** The conformer expends the flesh they've absorbed to transform their body, reproducing the effects of one of the following spells: [[Spells/Adapt Self|Adapt Self]], [[Spells/Enlarge|Enlarge]], [[Spells/Shifting Form|Shifting Form]], [[Spells/Tentacular Limbs|Tentacular Limbs]], or [[Ancestry Features/Unusual Anatomy|Unusual Anatomy]]. The Wear Flesh action gains the traits of the spell it's reproducing, and the conformer can Sustain a Spell on these effects."
+    desc: "`pf2:1` (occult) **Requirements** The conformer has used Tissue Siphon to absorb flesh within the last hour\n* * *\n\n**Effect** The conformer expends the flesh they've absorbed to transform their body, reproducing the effects of one of the following spells: [[Spells/Adapt Self|Adapt Self]], [[Spells/Enlarge|Enlarge]], [[Spells/Shifting Form|Shifting Form]], [[Spells/Tentacular Limbs|Tentacular Limbs]], or [[Spells/Unusual Anatomy|Unusual Anatomy]]. The Wear Flesh action gains the traits of the spell it's reproducing, and the conformer can Sustain a Spell on these effects."
  
+```
+
+```encounter-table
+name: Fleshforged Conformer
+creatures:
+  - 1: Fleshforged Conformer
 ```
 
 

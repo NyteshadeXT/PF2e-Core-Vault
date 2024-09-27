@@ -12,7 +12,7 @@ license: OGL
 ---
 # Underwater
 ## Item 3
-### [[magical]][[3-Rules/Rule References/Water]]
+### [[magical]][[water]]
 
 
 **Price** 50 gp; 

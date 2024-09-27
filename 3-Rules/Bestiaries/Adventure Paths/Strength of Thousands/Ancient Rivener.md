@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/humanoid
   - pf2e/creature/type/ikeshti
+  - pf2eMonster
   - pf2e/creature/level/14
 statblock: inline
 name: "Ancient Rivener"
@@ -26,15 +27,15 @@ level: "Creature 14"
 
 alignment: ""
 size: "Large"
-trait_01: "chaotic"
-trait_02: "evil"
-trait_03: "humanoid"
-trait_04: "ikeshti"
+trait_01: [[chaotic]]
+trait_02: [[evil]]
+trait_03: [[humanoid]]
+trait_04: [[ikeshti]]
 modifier: 25
 perception:
   - name: "Perception"
     desc: "+25; "
-languages: "Ikeshti"
+languages: "Ikeshti; can speak and understand only simple words"
 skills:
   - name: "Skills"
     desc: "Athletics: +28, Intimidation: +22, Stealth: +25, Survival: +24"
@@ -74,8 +75,14 @@ attacks:
     desc: "`pf2:2`  The ancient rivener [[Actions/Leap|Leaps]] at a target within 30 feet, and then makes one jaws Strike and one claw Strike in any order."
 
   - name: "Squirt Blood"
-    desc: "`pf2:1`  **Frequency** once per day\n**Effect** The ancient rivener squirts blood from one of their eyes at a target within 30 feet. The target must attempt a DC 18 Fortitude check save or become [[Conditions/Sickened 1|Sickened 1]] ([[Conditions/Sickened 1|Sickened 2]] on a critical failure)."
+    desc: "`pf2:1`  **Frequency** once per day\n* * *\n\n**Effect** The ancient rivener squirts blood from one of their eyes at a target within 30 feet. The target must attempt a DC 18 Fortitude check save or become [[Conditions/Sickened|Sickened 1]] ([[Conditions/Sickened|Sickened 2]] on a critical failure)."
  
+```
+
+```encounter-table
+name: Ancient Rivener
+creatures:
+  - 1: Ancient Rivener
 ```
 
 

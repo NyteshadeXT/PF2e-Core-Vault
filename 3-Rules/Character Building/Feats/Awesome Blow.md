@@ -8,8 +8,9 @@ tags:
   - trait/rage
   - trait/common
   - category/class
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.rCnaBbk0M1gBVHjG"
-license: OGL
+license: ORC
 ---
 # Awesome Blow
 ## Feat 14
@@ -31,5 +32,5 @@ Your attacks are so powerful, they can flatten your opponents. When you use [[Fe
 
 **Failure** You gain the normal effect of Knockback.
 
-*Source: Pathfinder Core Rulebook*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

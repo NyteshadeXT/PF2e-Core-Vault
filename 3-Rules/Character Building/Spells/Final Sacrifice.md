@@ -4,27 +4,41 @@ title: "Final Sacrifice"
 noteType: pf2eSpell
 cssclasses: pf2e,pf2e-spell
 tags:
+  - pf2eSpell
   - spell/level/2
   - trait/concentrate
   - trait/fire
   - trait/manipulate
   - trait/common
+  - tradition/arcane
+  - tradition/divine
+  - tradition/occult
+  - tradition/primal
+
+  - remaster
 aliases: "Compendium.pf2e.spells-srd.Item.x0rWq0wS06dns4G2" 
+license: ORC
 ---
-# Final Sacrifice  `pf2:2`  
-## Spell 2
-### [[concentrate]][[fire]][[manipulate]]
-**Traditions** [[arcane]], [[divine]], [[occult]], [[primal]]
-**Range** 120 feet
-**Area** 20-foot emanation
-**Targets** 1 creature with the minion trait that you summoned or permanently control
-**Saving Throw** basic reflex
-* * * 
-You channel disruptive energies through the bond between you and your minion, causing it to violently explode. The target is immediately slain, and the explosion deals 6d6 fire damage to creatures within 20 feet of it (basic Reflex save). If the target has the cold or water trait, the spell instead deals cold damage and gains the cold trait in place of the fire trait. If used on a creature that isn't mindless, this spell has the evil trait. Attempting to cast this spell targeting a creature that you temporarily seized control of, such as an undead commanded by [[Feats/Command Undead|Command Undead]], automatically fails and breaks the controlling effect.
+```statblock
+name: "Final Sacrifice  `pf2:2`"
+level: "Spell 2"
 
-* * *
-
-**Heightened (+1)** The damage increases by 2d6.
-
-*Source: Pathfinder Advanced Player's Guide*
-*OGL*
+trait_01: [[concentrate]]
+trait_02: [[fire]]
+trait_03: [[manipulate]]
+layout: Basic Pathfinder 2e Layout
+columns: 1
+columnWidth: x
+abilities_top:
+  - name: ""
+  - name: "Traditions"
+    desc: "arcane, divine, occult, primal"
+  - name: "Range"
+    desc: "120 feet; **Area** 20-foot emanation; **Targets** 1 creature with the minion trait that you summoned or permanently control"
+  - name: "Defense"
+    desc: "basic reflex"
+abilities_mid:
+  - name: ""
+    desc: "You channel disruptive energies through the bond between you and your minion, causing it to violently explode. The target is immediately slain, and the explosion deals 6d6 fire damage to creatures within 20 feet of it with a basic Reflex save. If the target has the cold or water trait, the spell deals cold damage and has the cold trait instead of the fire trait. Attempting to cast this spell targeting a creature that you temporarily seized control of, such as an undead commanded by bind undead, automatically fails and breaks the controlling effect.\n* * *\n\n**Heightened (+1)** The damage increases by 2d6."
+sourcebook: "_Pathfinder Player Core 2_"
+```

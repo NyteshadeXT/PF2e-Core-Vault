@@ -5,6 +5,7 @@ noteType: pf2eHazard
 tags:
   - mechanical
   - trap
+  - pf2eHazard
 
 source: Pathfinder Society Scenario #5-09: Equal Exchange - Skymetal Hoard
 aliases: "Compendium.pf2e.pfs-season-5-bestiary.Actor.bPUdYAQ88KS0HTzF" 
@@ -22,14 +23,14 @@ name: "Rope Net Trap"
 level: "Hazard 4"
 
 
-trait_01: "mechanical"
-trait_02: "trap"
+trait_01: [[mechanical]]
+trait_02: [[trap]]
 modifier: 9
 sourcebook: "_Pathfinder Society Scenario #5-09: Equal Exchange - Skymetal Hoard_"
 ac: 8
 armorclass:
   - name: AC
-    desc: "8; __Fort__ +1, __Ref__ +0, __Will__ +0"
+    desc: "8; __Fort__ +1, "
 hp: 12
 health:
   - name: ""
@@ -51,9 +52,15 @@ attacks:
   - name: ""
 
   - name: "Ensnare"
-    desc: "`pf2:r` **Trigger** A creature steps on top of where the trap is located\n**Effect** The triggering creature is caught in the rope net. The target must attempt a DC 20 Reflex check save or be [[Conditions/Immobilized|Immobilized]] in the net and suspended in the air until they [[Actions/Escape|Escape]] from the net."
+    desc: "`pf2:r` **Trigger** A creature steps on top of where the trap is located\n* * *\n\n**Effect** The triggering creature is caught in the rope net. The target must attempt a DC 20 Reflex check save or be [[Conditions/Immobilized|Immobilized]] in the net and suspended in the air until they [[Actions/Escape|Escape]] from the net."
 
 
 
+```
+
+```encounter-table
+name: Rope Net Trap
+creatures:
+  - 1: Rope Net Trap
 ```
 

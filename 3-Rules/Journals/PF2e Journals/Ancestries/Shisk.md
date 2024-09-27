@@ -32,7 +32,7 @@ Shisks have features and skin-tones similar to humans, usually ranging from deep
 
 ## Society
 
-Though rarely encountered, shisks are willing to speak, host, and trade with outsiders. Their economy might be confusing to others: they greatly eschew materialism in favor of information and the arts. They freely give away material goods for knowledge or even performances, considering themselves on the “winning” side of a bargain if people are willing to take material things in exchange for valuable information. They never give away information for material goods, only for other knowledge, and they rarely ask for material goods in trades.
+Though rarely encountered, shisks are willing to speak, host, and trade with outsiders. Their economy might be confusing to others: they greatly eschew materialism in favor of information and the arts. They freely give away material goods for knowledge or even performances, considering themselves on the "winning" side of a bargain if people are willing to take material things in exchange for valuable information. They never give away information for material goods, only for other knowledge, and they rarely ask for material goods in trades.
 
 Shisk are so paranoid that different communities of shisks have been known to clash with one another over secrets. Wars are fought not over territory or resources, but over coveted information. On a few occasions, when shisk sages or diplomats convinced different groups of shisks to put aside their differences and collaborate, great puzzles and mysteries of Golarion have been solved in a matter of hours.
 
@@ -67,6 +67,8 @@ Adomssha, Asjossa, Chishinsa, Dalissho, Lessia, Lishassha, Somissu, Quinshu
 **Senses** Darkvision
 
 ## Shisk Heritages
+
+Choose one of the following shisk heritages at 1st level.
 
 [[Heritages/Lorekeeper Shisk|Lorekeeper Shisk]]
 

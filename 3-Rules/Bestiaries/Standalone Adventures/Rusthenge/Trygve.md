@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/chaotic
   - pf2e/creature/type/human
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/2
 statblock: inline
 name: "Trygve"
@@ -22,12 +23,12 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Adventure: Rusthenge"
 name: "Trygve"
 level: "Creature 2"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Medium"
-trait_01: "chaotic"
-trait_02: "human"
-trait_03: "humanoid"
+trait_01: [[chaotic]]
+trait_02: [[human]]
+trait_03: [[humanoid]]
 modifier: 6
 perception:
   - name: "Perception"
@@ -35,7 +36,7 @@ perception:
 languages: "Common, Dwarven, Skald"
 skills:
   - name: "Skills"
-    desc: "Athletics: +8, Crafting: +9, Smithing Lore: +9, Society: +7"
+    desc: "Athletics: +8, Crafting: +9, Society: +7, Smithing Lore: +9"
 abilityMods: [4, 0, 1, 3, 2, 0]
 speed: 25 feet
 sourcebook: "_Pathfinder Adventure: Rusthenge_"
@@ -66,6 +67,12 @@ attacks:
   - name: "Smith's Fury"
     desc: "  Trygve deals an additional 1d6 bludgeoning damage on a critical hit when he Strikes with his light hammer."
  
+```
+
+```encounter-table
+name: Trygve
+creatures:
+  - 1: Trygve
 ```
 
 

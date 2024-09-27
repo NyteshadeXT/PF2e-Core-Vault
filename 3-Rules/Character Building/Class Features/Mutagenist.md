@@ -6,63 +6,32 @@ tags:
   - trait/alchemist
   - trait/common
   - category/classfeature
+  - remaster
 aliases: "Compendium.pf2e.classfeatures.Item.tvdb1jkjl2bRZjSp"
-license: OGL
+license: ORC
 ---
 # Mutagenist
 ## Feat 1
-### [[alchemist]]
+### [[3-Rules/trait_reference/alchemist]]
 
 **Category** classfeature; 
 
 
 
 
-You focus on bizarre mutagenic transformations that sacrifice one aspect of a creature's physical or psychological being in order to strengthen another. You start with the formulas for two common 1st-level alchemical mutagens, in addition to your other formulas.
+You focus on bizarre mutagenic transformations that sacrifice one aspect of a creature's physical or psychological being in order to strengthen another.
 
-Your research field adds a number of formulas to your formula book; these are your signature items. When using a batch of [[Class Features/Infused Reagents|Infused Reagents]] to create your signature items using [[Class Features/Advanced Alchemy|Advanced Alchemy]], you create three items instead of two. Each time you gain a level, you can swap one of your signature items with another formula in your formula book. This new signature item must be on your research field's list of possible signature items.
+**Formulas** Two common 1st-level alchemical mutagens.
 
-You gain the following free action.
+**Field Benefit** When you use a mutagen, you gain a number of temporary Hit Points equal to your Intelligence modifier (minimum 0) plus half your level. These temporary Hit Points last for 1 minute or until the mutagen's duration expires, whichever comes first. You can't gain temporary HP from drinking a mutagen again for 1 minute.
 
-### [[Actions/Mutagenic Flashback|Mutagenic Flashback]]
+**Field Vials** You can drink the contents of one your versatile vials to suppress the drawback you take from one mutagen currently affecting you until the beginning of your next turn. A vial used this way loses the acid, bomb, and splash traits and gains the elixir trait. If you have more than one drawback due to [[Feats/Combine Elixirs|Combine Elixirs]] or a similar ability, drinking the vial suppresses one drawback of your choice.
 
-**Frequency** once per day
+**[[Class Features/Field Discovery (Mutagenist)|Field Discovery]] (5th)** The mutagens flowing through your blood have altered your body chemistry. When you roll a Fortitude save while affected by a mutagen and dislike the result, you can end the effect of the mutagen to reroll the save. This is a fortune effect.
 
-* * *
+**[[Class Features/Advanced Vials (Mutagenist)|Advanced Vials]] (11th)** When you drink one of your field vials, you also gain resistance to physical damage for the same duration. The resistance is equal to half your level.
 
-You experience a brief resurgence of a mutagen. Choose one mutagen you've consumed since your last daily preparations. You gain the effects of that mutagen for 1 minute.
+**[[Class Features/Greater Field Discovery (Mutagenist)|Greater Field Discovery]] (13th)** If you imbibe another mutagen while you are under the effects of a mutagen, you can gain the benefits and the drawbacks of both mutagens at once, despite the fact that they both have the polymorph trait and would not normally function together. If you come under the effects of any further mutagens while benefiting from two mutagens, you lose the benefit of one of the former mutagens of your choice, while retaining the drawbacks of all the mutagens. If you are under the effects of two mutagens and you come under the effect of a non-mutagen polymorph effect, you lose the benefits of the mutagens while retaining the drawbacks of both. Your field vial benefit applies to one mutagen of your choice.
 
-## [[Class Features/Field Discovery (Mutagenist)|Field Discovery]]Level 5
-
-When using Advanced Alchemy to make mutagens during your daily preparations, you can use a batch of reagents to create any three mutagens instead of just two of the same mutagen.
-
-## [[Class Features/Perpetual Infusions (Mutagenist)|Perpetual Infusions]]Level 7
-
-You have learned how to create perpetual alchemical infusions that can provide a near-infinite supply of certain simple items. You gain the ability to create two 1st-level alchemical items using Quick Alchemy without spending a batch of infused reagents. The items you can select depend on your research field and must be in your formula book.
-
-Each time you gain a level, you can swap any number of your perpetual infusions with other eligible infusions.
-
-Choose two 1st-level mutagens.
-
-## [[Class Features/Perpetual Potency (Mutagenist)|Perpetual Potency]]Level 11
-
-Your perpetual infusions improve, allowing you to use [[Class Features/Quick Alchemy|Quick Alchemy]] to create more powerful items with no cost. The items you can select depend on your research field and must be in your formula book.
-
-Choose two 3rd-level or lower mutagens.
-
-## [[Class Features/Greater Field Discovery (Mutagenist)|Greater Field Discovery]]Level 13
-
-If you imbibe another mutagen while you are under the effects of a mutagen, you can gain the benefits and the drawbacks of both mutagens at once, despite the fact that they both have the polymorph trait and would not normally function together.
-
-If you come under the effects of any further mutagens while benefiting from two mutagens, you lose the benefit of one of the former mutagens of your choice, while retaining the drawbacks of all the mutagens.
-
-If you are under the effects of two mutagens and you come under the effect of a non-mutagen polymorph effect, you lose the benefits of the mutagens while retaining the drawbacks of both.
-
-## [[Class Features/Perpetual Perfection (Mutagenist)|Perpetual Perfection]]Level 17
-
-You have perfected your perpetual infusions, allowing you to use Quick Alchemy to create even more powerful items at no cost. The items you can select depend on your research field and must be in your formula book.
-
-Choose two 11th-level or lower mutagens.
-
-*Source: Pathfinder Core Rulebook*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

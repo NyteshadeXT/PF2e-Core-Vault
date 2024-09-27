@@ -1,7 +1,7 @@
 ---
 obsidianUIMode: preview
 title: "Spell Effect: Traveler's Transit"
-cssclasses: pf2e,pf2e-action
+cssclasses: pf2e,pf2e-spell
 tags:
   - trait/
   - remaster
@@ -9,7 +9,7 @@ aliases: "Compendium.pf2e.spell-effects.Item.Ig9p2rDXGYHpEuTx"
 license: ORC
 ---
 # Spell Effect: Traveler's Transit
-
+## Level 4
 ### 
 
 

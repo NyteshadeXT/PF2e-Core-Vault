@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/amphibious
   - pf2e/creature/type/boggard
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/3
   - remaster
 statblock: inline
@@ -27,9 +28,9 @@ level: "Creature 3"
 
 alignment: ""
 size: "Medium"
-trait_01: "amphibious"
-trait_02: "boggard"
-trait_03: "humanoid"
+trait_01: [[amphibious]]
+trait_02: [[boggard]]
+trait_03: [[humanoid]]
 modifier: 11
 perception:
   - name: "Perception"
@@ -69,7 +70,7 @@ attacks:
     desc: "DC 21, attack +11; __2nd __  _[[Spells/Acid Grip|Acid Grip]]_, _[[Spells/Mist|Mist]]_; __1st __  _[[Spells/Fear|Fear]]_, _[[Spells/Jump|Jump]]_, _[[Spells/Runic Weapon|Runic Weapon]]_\n__Cantrips__  __(2nd)__ _[[Spells/Caustic Blast|Caustic Blast]]_, _[[Spells/Frostbite|Frostbite]]_, _[[Spells/Tangle Vine|Tangle Vine]]_"
 
   - name: "Destructive Croak"
-    desc: "`pf2:2` (sonic) The swampseer utters a powerful croak that deals 4d6 sonic damage to any non-boggard within a 15-foot emanation (DC 19 Fortitude check save); any creature with the frightened condition takes additional sonic damage equal to twice the value of its frightened condition.\n\nThe boggard can't use Destructive Croak again for 1d4 rounds."
+    desc: "`pf2:2` (sonic) The swampseer utters a powerful croak that deals 4d6 sonic damage to any non-boggard within a @Template[emanation|distance:15] (DC 19 Fortitude check save); any creature with the frightened condition takes additional sonic damage equal to twice the value of its frightened condition.\n\nThe boggard can't use Destructive Croak again for 1d4 rounds."
 
   - name: "Drowning Drone"
     desc: "`pf2:r` (auditory,mental) **Trigger** The boggard swampseer or one of their allies within 60 feet attempts a saving throw against an auditory or sonic effect\n* * *\n\n**Effect** The swampseer releases a croak that drowns out other sounds. They roll a Performance check check. They and boggard allies in the area can use the higher result between the swampseer's Performance check and their saves to resolve the effects against the auditory or sonic effect."
@@ -78,11 +79,17 @@ attacks:
     desc: "  A boggard swampseer ignores difficult terrain caused by swamp terrain features."
 
   - name: "Terrifying Croak"
-    desc: "`pf2:1` (auditory,emotion,fear,mental) The boggard swampseer unleashes a terrifying croak. Any non-boggard within 30 feet becomes [[Conditions/Frightened 1|Frightened 1]] unless they succeed at a DC 19 Will check save; those who critically succeed are temporarily immune for 1 minute."
+    desc: "`pf2:1` (auditory,emotion,fear,mental) The boggard swampseer unleashes a terrifying croak. Any non-boggard within 30 feet becomes [[Conditions/Frightened|Frightened 1]] unless they succeed at a DC 19 Will check save; those who critically succeed are temporarily immune for 1 minute."
 
   - name: "Tongue Grab"
     desc: "  If the boggard swampseer hits a creature with their tongue, that creature becomes [[Conditions/Grabbed|Grabbed]] by the boggard. Unlike with a normal Grab, the creature isn't [[Conditions/Immobilized|Immobilized]], but it can't move beyond the reach of the boggard's tongue. A creature can sever the tongue by hitting AC 15 and dealing at least 4 slashing damage. Though this doesn't deal any damage to the boggard, it prevents them from using their tongue Strike until they regrow their tongue, which takes a week."
  
+```
+
+```encounter-table
+name: Boggard Swampseer
+creatures:
+  - 1: Boggard Swampseer
 ```
 
 

@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/caligni
   - pf2e/creature/type/chaotic
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/8
 statblock: inline
 name: "Caligni Defender"
@@ -22,12 +23,12 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #165: Eyes of Empty Death"
 name: "Caligni Defender"
 level: "Creature 8"
-rare_03: "Rare"
+rare_03: [[Rare]]
 alignment: ""
 size: "Medium"
-trait_01: "caligni"
-trait_02: "chaotic"
-trait_03: "humanoid"
+trait_01: [[caligni]]
+trait_02: [[chaotic]]
+trait_03: [[humanoid]]
 modifier: 16
 perception:
   - name: "Perception"
@@ -58,10 +59,10 @@ abilities_mid:
     desc: "`pf2:r`  "
 
   - name: "Bravery"
-    desc: "  When the caligni defender rolls a success on a Will save against a fear effect, they get a critical success instead. In addition, any time they gain the [[Conditions/Frightened 1|Frightened]] condition, reduce its value by 1."
+    desc: "  When the caligni defender rolls a success on a Will save against a fear effect, they get a critical success instead. In addition, any time they gain the [[Conditions/Frightened|Frightened]] condition, reduce its value by 1."
 
   - name: "Death Flame"
-    desc: " (light) When the caligni defender dies, their body combusts in a flash of white-hot flame. All creatures in a 20-foot burst take 6d10 fire damage (DC 26 Reflex check save). Their gear and treasure are unaffected by the flames and are left in a pile where they died."
+    desc: " (light) When the caligni defender dies, their body combusts in a flash of white-hot flame. All creatures in a @Template[burst|distance:20] take 6d10 fire damage (DC 26 Reflex check save). Their gear and treasure are unaffected by the flames and are left in a pile where they died."
 
 attacks:
   - name: ""
@@ -76,11 +77,17 @@ attacks:
     desc: "DC 24, attack +14; __2nd __  _[[Spells/Darkness|Darkness (At Will)]]_, _[[Spells/Mist|Obscuring Mist (At Will)]]_\n__Cantrips__  __(4th)__ _[[Spells/Detect Magic|Detect Magic]]_"
 
   - name: "Black Smear Poison"
-    desc: "  Many calignis use a debilitating poison crafted from subterranean fungi.\n**Saving Throw** DC 16 Fortitude check\n**Maximum Duration** 6 rounds\n**Stage 1** 1d6 poison damage and [[Conditions/Enfeebled 1|Enfeebled 1]] (1 round)\n**Stage 2** As stage 1\n**Stage 3** 1d6 poison damage, and [[Conditions/Enfeebled 1|Enfeebled 2]] (1 round)"
+    desc: "  Many calignis use a debilitating poison crafted from subterranean fungi.\n* * *\n\n**Saving Throw** DC 16 Fortitude check\n\n**Maximum Duration** 6 rounds\n\n**Stage 1** 1d6 poison damage and [[Conditions/Enfeebled|Enfeebled 1]] (1 round)\n\n**Stage 2** As stage 1\n\n**Stage 3** 1d6 poison damage, and [[Conditions/Enfeebled|Enfeebled 2]] (1 round)"
 
   - name: "Shoulder to Shoulder"
     desc: "  When adjacent to one or more defenders they can see, the defender deals an additional 2d6 damage with their Strikes."
  
+```
+
+```encounter-table
+name: Caligni Defender
+creatures:
+  - 1: Caligni Defender
 ```
 
 

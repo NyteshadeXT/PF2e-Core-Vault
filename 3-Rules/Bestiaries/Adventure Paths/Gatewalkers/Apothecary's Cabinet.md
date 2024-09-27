@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.gatewalkers-bestiary.Actor.uTaGZT1vl7UG9tdf"
 tags:
   - pf2e/creature/type/construct
   - pf2e/creature/type/mindless
+  - pf2eMonster
   - pf2e/creature/level/6
 statblock: inline
 name: "Apothecary&#x27;s Cabinet"
@@ -21,15 +22,16 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #188: They Watched the Stars"
 name: "Apothecary's Cabinet"
 level: "Creature 6"
-rare_03: "Rare"
+rare_03: [[Rare]]
 alignment: ""
 size: "Large"
-trait_01: "construct"
-trait_02: "mindless"
+trait_01: [[construct]]
+trait_02: [[mindless]]
 modifier: 11
 perception:
   - name: "Perception"
     desc: "+11; Darkvision"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Athletics: +15"
@@ -63,8 +65,14 @@ attacks:
     desc: "`pf2:1` Poison Bottle +14 (magical, thrown 20 ft.)\n__Damage__  2d6 + 3 bludgeoning plus poison-stock"
 
   - name: "Poison Stock"
-    desc: "  When the cabinet hits a creature with its poison bottle Strike, roll 1d4 to determine what kind of poison splashes onto the struck creature:\n1.  nerve poison ([[Conditions/Clumsy 1|Clumsy 1]])\n2.  weakening poison ([[Conditions/Enfeebled 1|Enfeebled 1]])\n3.  noxious poison ([[Conditions/Sickened 1|Sickened 1]])\n4.  clouded mind poison ([[Conditions/Stupefied 1|Stupefied 1]]).\nThe target must attempt a DC 24 Fortitude check save.\n**Critical Success** The creature is unafected.\n**Success** The creature takes 1d6 poison.\n**Failure** The creature takes 2d6 poison and is aficted with the rolled poison's associated condition until the end of its next turn.\n**Critical Failure** The creature takes 2d6 poison and is aficted with the rolled poison's associated condition for 1d4 + 1 rounds."
+    desc: "  When the cabinet hits a creature with its poison bottle Strike, roll 1d4 to determine what kind of poison splashes onto the struck creature:\n\n1.  nerve poison ([[Conditions/Clumsy|Clumsy 1]])\n2.  weakening poison ([[Conditions/Enfeebled|Enfeebled 1]])\n3.  noxious poison ([[Conditions/Sickened|Sickened 1]])\n4.  clouded mind poison ([[Conditions/Stupefied|Stupefied 1]]).\n\nThe target must attempt a DC 24 Fortitude check save.\n* * *\n\n**Critical Success** The creature is unafected.\n\n**Success** The creature takes 1d6 poison.\n\n**Failure** The creature takes 2d6 poison and is aficted with the rolled poison's associated condition until the end of its next turn.\n\n**Critical Failure** The creature takes 2d6 poison and is aficted with the rolled poison's associated condition for 1d4+1 rounds."
  
+```
+
+```encounter-table
+name: Apothecary's Cabinet
+creatures:
+  - 1: Apothecary's Cabinet
 ```
 
 

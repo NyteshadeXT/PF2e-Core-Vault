@@ -4,6 +4,7 @@ obsidianUIMode: preview
 noteType: pf2eHazard
 tags:
   - haunt
+  - pf2eHazard
   - complex
 source: Pathfinder Society Intro #2: United in Purpose
 aliases: "Compendium.pf2e.pfs-introductions-bestiary.Actor.GYfIWbgOu5LAsUOg" 
@@ -21,7 +22,7 @@ name: "Spite of the Righteous"
 level: "Hazard 3"
 
 trait_06: "Complex"
-trait_01: "haunt"
+trait_01: [[haunt]]
 modifier: 10
 sourcebook: "_Pathfinder Society Intro #2: United in Purpose_"
 perception:
@@ -40,11 +41,17 @@ attacks:
   - name: ""
 
   - name: "Racing Blood"
-    desc: "`pf2:r` (arcane, death, fear) **Trigger** A living creature bearing _Hunger's Call_ moves within 30 feet of the exit stairs\n**Effect** Blood pounds in the targe's body as their heart races uncontrollably. The creature must attempt a DC 20 Will check save, and the haunt then rolls initiative.\n**Critical Success** The target is unaffected.\n**Success** The target is [[Conditions/Sickened 1|Sickened 1]].\n**Failure** The target is [[Conditions/Sickened 1|Sickened 2]].\n**Critical Failure** As failure, and the target's move speed is reduced by 10 for 1 minute."
+    desc: "`pf2:r` (arcane, death, fear) **Trigger** A living creature bearing _Hunger's Call_ moves within 30 feet of the exit stairs\n* * *\n\n**Effect** Blood pounds in the targe's body as their heart races uncontrollably. The creature must attempt a DC 20 Will check save, and the haunt then rolls initiative.\n* * *\n\n**Critical Success** The target is unaffected.\n\n**Success** The target is [[Conditions/Sickened|Sickened 1]].\n\n**Failure** The target is [[Conditions/Sickened|Sickened 2]].\n\n**Critical Failure** As failure, and the target's move speed is reduced by 10 for 1 minute."
 
   - name: "Routine"
-    desc: "(3 actions) The warrior's blade sweeps through the bodies of any living creature within sight of the exit stairs, and they each take 1d10 + 4 slashing damage (DC 20 Fortitude check save). Undead creatures in the area gain 5 temporary hit points."
+    desc: "(3 actions) The warrior's blade sweeps through the bodies of any living creature within sight of the exit stairs, and they each take 1d10+4 slashing damage (DC 20 Fortitude check save). Undead creatures in the area gain 5 temporary hit points."
   - name: "Reset"
     desc: "The spectral warrior returns to the wall and ceases 2 rounds after all living creatures are out of sight of the stairs. After 6 hours the haunt is ready to trigger again."
+```
+
+```encounter-table
+name: Spite of the Righteous
+creatures:
+  - 1: Spite of the Righteous
 ```
 

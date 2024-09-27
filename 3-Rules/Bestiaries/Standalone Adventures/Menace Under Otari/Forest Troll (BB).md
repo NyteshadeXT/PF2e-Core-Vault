@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/humanoid
   - pf2e/creature/type/troll
   - pf2e/creature/type/wood
+  - pf2eMonster
   - pf2e/creature/level/5
   - remaster
 statblock: inline
@@ -27,14 +28,15 @@ level: "Creature 5"
 
 alignment: ""
 size: "Large"
-trait_01: "giant"
-trait_02: "humanoid"
-trait_03: "troll"
-trait_04: "wood"
+trait_01: [[giant]]
+trait_02: [[humanoid]]
+trait_03: [[troll]]
+trait_04: [[wood]]
 modifier: 11
 perception:
   - name: "Perception"
     desc: "+11; Darkvision"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Athletics: +12, Intimidation: +12"
@@ -73,6 +75,12 @@ attacks:
   - name: "[[Bestiary Ability Glossary/Rend|Rend]]"
     desc: "`pf2:1`  If the troll succeeds at two claw Strikes against the same creature in the same turn, they can use this ability to automatically deal claw Strike damage to that creature."
  
+```
+
+```encounter-table
+name: Forest Troll (BB)
+creatures:
+  - 1: Forest Troll (BB)
 ```
 
 

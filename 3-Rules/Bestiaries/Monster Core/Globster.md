@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.pathfinder-monster-core.Actor.H9CHNiW18cRFocNO"
 tags:
   - pf2e/creature/type/aquatic
   - pf2e/creature/type/ooze
+  - pf2eMonster
   - pf2e/creature/level/5
   - remaster
 statblock: inline
@@ -26,8 +27,8 @@ level: "Creature 5"
 
 alignment: ""
 size: "Large"
-trait_01: "aquatic"
-trait_02: "ooze"
+trait_01: [[aquatic]]
+trait_02: [[ooze]]
 modifier: 9
 perception:
   - name: "Perception"
@@ -63,10 +64,10 @@ attacks:
     desc: "`pf2:1` Tendril +15 ()\n__Damage__  2d8 + 6 bludgeoning plus grab,nauseating-slap"
 
   - name: "[[Bestiary Ability Glossary/Constrict|Constrict]]"
-    desc: "`pf2:1`  1d8 + 6 bludgeoning, DC 22 Fortitude check\n\n* * *\n"
+    desc: "`pf2:1`  1d8+6 bludgeoning, DC 22 Fortitude check\n\n* * *\n"
 
   - name: "Nauseating Slap"
-    desc: " (poison) A living creature struck by a globster's tendril must attempt a DC 19 Fortitude check save. On a failure, the creature becomes [[Conditions/Sickened 1|Sickened 1]]. If the creature is already sickened, the condition value increases by 1, to a maximum of sickened 4.\n\nOnce a creature succeeds at its saving throw, it is temporarily immune for 24 hours."
+    desc: " (poison) A living creature struck by a globster's tendril must attempt a DC 19 Fortitude check save. On a failure, the creature becomes [[Conditions/Sickened|Sickened 1]]. If the creature is already sickened, the condition value increases by 1, to a maximum of sickened 4.\n\nOnce a creature succeeds at its saving throw, it is temporarily immune for 24 hours."
 
   - name: "Saturated"
     desc: "  A globster can survive for 1 hour out of the water, after which it risks drowning and suffocation."
@@ -74,6 +75,12 @@ attacks:
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
     desc: "`pf2:1`  "
  
+```
+
+```encounter-table
+name: Globster
+creatures:
+  - 1: Globster
 ```
 
 

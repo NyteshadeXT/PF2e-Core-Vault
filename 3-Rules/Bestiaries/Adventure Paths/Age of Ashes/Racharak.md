@@ -11,6 +11,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/fire
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/8
 statblock: inline
 name: "Racharak"
@@ -25,15 +26,15 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #146: Cult of Cinders"
 name: "Racharak"
 level: "Creature 8"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Small"
-trait_01: "chaotic"
-trait_02: "charau-ka"
-trait_03: "dragon"
-trait_04: "evil"
-trait_05: "fire"
-trait_06: "humanoid"
+trait_01: [[chaotic]]
+trait_02: [[charau-ka]]
+trait_03: [[dragon]]
+trait_04: [[evil]]
+trait_05: [[fire]]
+trait_06: [[humanoid]]
 modifier: 16
 perception:
   - name: "Perception"
@@ -60,7 +61,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Tail Swipe"
-    desc: "`pf2:r`  **Trigger** A creature within reach of Racharak's tail uses a move action or leaves a square during a move action it's using.\n**Effect** Racharak makes a tail Strike at the creature with a -2 penalty. If it hits, she disrupts the creature's action."
+    desc: "`pf2:r`  **Trigger** A creature within reach of Racharak's tail uses a move action or leaves a square during a move action it's using.\n* * *\n\n**Effect** Racharak makes a tail Strike at the creature with a -2 penalty. If it hits, she disrupts the creature's action."
 
 attacks:
   - name: ""
@@ -78,17 +79,23 @@ attacks:
     desc: "`pf2:1` Thrown Rock +17 (thrown 20 ft., deadly d6)\n__Damage__  2d6 + 9 bludgeoning"
 
   - name: "Breath Weapon"
-    desc: "`pf2:2` (divine,fire) Racharak breathes flames that deals 9d6 fire damage to all creatures in a 30-foot cone (DC 26 Reflex check save).\nShe can't use Breath Weapon again for 1d4 rounds"
+    desc: "`pf2:2` (divine,fire) Racharak breathes flames that deals 9d6 fire damage to all creatures in a @Template[cone|distance:30] (DC 26 Reflex check save).\n\nShe can't use Breath Weapon again for 1d4 rounds"
 
   - name: "Draconic Frenzy"
     desc: "`pf2:2`  Racharak makes two claw Strikes and one bite Strike in any order."
 
   - name: "Shrieking Frenzy"
-    desc: " (primal) **Trigger** Racharak's turn begins.\n**Frequency** once per hour\n**Effect** Racharak is [[Conditions/Quickened|Quickened]] until the end of her turn, and can use the extra action to Stride or Strike. While in the frenzy, Racharak can't speak and automatically critically fails Stealth checks, due to her loud wailing."
+    desc: " (primal) **Trigger** Racharak's turn begins.\n\n**Frequency** once per hour\n* * *\n\n**Effect** Racharak is [[Conditions/Quickened|Quickened]] until the end of her turn, and can use the extra action to Stride or Strike. While in the frenzy, Racharak can't speak and automatically critically fails Stealth checks, due to her loud wailing."
 
   - name: "Thrown Weapon Mastery"
     desc: "  When Racharak throws a weapon, the weapon gains the deadly d6 weapon trait. When she throws an improvised weapon, she doesn't take the -2 penalty for using an improvised weapon, nor does she take the penalty for using that weapon to make a lethal attack instead of a nonlethal attack."
  
+```
+
+```encounter-table
+name: Racharak
+creatures:
+  - 1: Racharak
 ```
 
 

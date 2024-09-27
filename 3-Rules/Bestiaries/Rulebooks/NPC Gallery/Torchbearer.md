@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.npc-gallery.Actor.IQJT1Bg9FhvHHEap"
 tags:
   - pf2e/creature/type/human
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/0
 statblock: inline
 name: "Torchbearer"
@@ -24,8 +25,8 @@ level: "Creature 0"
 
 alignment: ""
 size: "Medium"
-trait_01: "human"
-trait_02: "humanoid"
+trait_01: [[human]]
+trait_02: [[humanoid]]
 modifier: 5
 perception:
   - name: "Perception"
@@ -33,7 +34,7 @@ perception:
 languages: "Common"
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +5, Architecture Lore: +2, Athletics: +4, Stealth: +5, Survival: +3"
+    desc: "Acrobatics: +5, Athletics: +4, Stealth: +5, Survival: +3, Architecture Lore: +2"
 abilityMods: [2, 3, 1, 0, 1, 1]
 speed: 25 feet
 sourcebook: "_Pathfinder Gamemastery Guide_"
@@ -67,6 +68,12 @@ attacks:
   - name: "Torch Combatant"
     desc: "  A torchbearer is adept at attacking with torches and deals 1 persistent fire damage when they critically hit with a [[Equipment/Torch|Torch]]."
  
+```
+
+```encounter-table
+name: Torchbearer
+creatures:
+  - 1: Torchbearer
 ```
 
 

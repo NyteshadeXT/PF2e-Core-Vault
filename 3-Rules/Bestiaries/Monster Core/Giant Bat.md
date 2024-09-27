@@ -6,6 +6,7 @@ cssClasses: pf2e
 aliases: "Compendium.pf2e.pathfinder-monster-core.Actor.xnpuGO8jEMba9wy5" 
 tags:
   - pf2e/creature/type/animal
+  - pf2eMonster
   - pf2e/creature/level/2
   - remaster
 statblock: inline
@@ -25,7 +26,7 @@ level: "Creature 2"
 
 alignment: ""
 size: "Large"
-trait_01: "animal"
+trait_01: [[animal]]
 modifier: 11
 perception:
   - name: "Perception"
@@ -66,6 +67,12 @@ attacks:
   - name: "Melee"
     desc: "`pf2:1` Wing +9 (agile)\n__Damage__  1d6 + 4 slashing"
  
+```
+
+```encounter-table
+name: Giant Bat
+creatures:
+  - 1: Giant Bat
 ```
 
 

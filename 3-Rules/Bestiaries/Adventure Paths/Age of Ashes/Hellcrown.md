@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/lawful
   - pf2e/creature/type/undead
   - pf2e/creature/type/unholy
+  - pf2eMonster
   - pf2e/creature/level/1
 statblock: inline
 name: "Hellcrown"
@@ -23,13 +24,13 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #145: Hellknight Hill"
 name: "Hellcrown"
 level: "Creature 1"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "tiny"
-trait_01: "evil"
-trait_02: "lawful"
-trait_03: "undead"
-trait_04: "unholy"
+trait_01: [[evil]]
+trait_02: [[lawful]]
+trait_03: [[undead]]
+trait_04: [[unholy]]
 modifier: 10
 perception:
   - name: "Perception"
@@ -62,11 +63,17 @@ attacks:
     desc: "`pf2:1` Nail +9 (range increment 20 feet)\n__Damage__  1d4 + 2 piercing plus bleeding-nail"
 
   - name: "Bleeding Nail"
-    desc: "  If the hellcrown hits with a nail Strike, the target must attempt a DC 16 Fortitude check save. On a failure, the nail is embedded in the creature, making it [[Conditions/Enfeebled 1|Enfeebled 1]] for 1 minute and giving it 1 bleed damage ([[Conditions/Enfeebled 1|Enfeebled 2]] and 1d4 bleed on a critical failure). Each additional embedded nail increases the enfeebled value by 1 (to a maximum of enfeebled 4) and the bleed damage by 1. A creature can remove a nail with an Interact action to reduce the enfeeblement and amount of bleed damage. Pulling out the last nail removes both conditions."
+    desc: "  If the hellcrown hits with a nail Strike, the target must attempt a DC 16 Fortitude check save. On a failure, the nail is embedded in the creature, making it [[Conditions/Enfeebled|Enfeebled 1]] for 1 minute and giving it 1 bleed damage ([[Conditions/Enfeebled|Enfeebled 2]] and 1d4 bleed on a critical failure). Each additional embedded nail increases the enfeebled value by 1 (to a maximum of enfeebled 4) and the bleed damage by 1. A creature can remove a nail with an Interact action to reduce the enfeeblement and amount of bleed damage. Pulling out the last nail removes both conditions."
 
   - name: "Terrifying Stare"
-    desc: "`pf2:1` (fear,mental,visual) All creatures that can see the hellcrown and are suffering from its bleeding nail must attempt a DC 16 Will check saving throw. A creature that fails is [[Conditions/Frightened 1|Frightened 1]], and on a critical failure becomes [[Conditions/Fleeing|Fleeing]] for as long as it's frightened. Any creature that attempts a save is then temporarily immune for 10 minutes."
+    desc: "`pf2:1` (fear,mental,visual) All creatures that can see the hellcrown and are suffering from its bleeding nail must attempt a DC 16 Will check saving throw. A creature that fails is [[Conditions/Frightened|Frightened 1]], and on a critical failure becomes [[Conditions/Fleeing|Fleeing]] for as long as it's frightened. Any creature that attempts a save is then temporarily immune for 10 minutes."
  
+```
+
+```encounter-table
+name: Hellcrown
+creatures:
+  - 1: Hellcrown
 ```
 
 

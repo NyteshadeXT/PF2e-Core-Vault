@@ -27,7 +27,5 @@ license: OGL
 
 **Effect** A spark flashes out from the relic toward a creature within 20 feet. This spark deals 1d12 electricity damage (Reflex check save). The damage increases by 1d12 at 6th level and by another 1d12 every 4 levels thereafter.
 
-Leveled electricity damage
-
 *Source: Pathfinder Gamemastery Guide*
 *OGL*

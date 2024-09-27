@@ -4,6 +4,7 @@ obsidianUIMode: preview
 noteType: pf2eHazard
 tags:
   - environmental
+  - pf2eHazard
   - complex
 source: Pathfinder Society Scenario #3-17: Dreams of a Dustbound Isle
 aliases: "Compendium.pf2e.pfs-season-3-bestiary.Actor.FHsq4Yw458ogI2RQ" 
@@ -21,7 +22,7 @@ name: "Angry Void Boils"
 level: "Hazard 8"
 
 trait_06: "Complex"
-trait_01: "environmental"
+trait_01: [[environmental]]
 modifier: 18
 sourcebook: "_Pathfinder Society Scenario #3-17: Dreams of a Dustbound Isle_"
 perception:
@@ -40,10 +41,16 @@ attacks:
   - name: ""
 
   - name: "Awaken"
-    desc: "`pf2:r` **Trigger** Sarnia's psychic intrusion begins\n**Effect** The hazard rolls initiative."
+    desc: "`pf2:r` **Trigger** Sarnia's psychic intrusion begins\n* * *\n\n**Effect** The hazard rolls initiative."
 
   - name: "Routine"
-    desc: "(1 action) On the hazard's initiative, a boil erupts from the ground and bursts. This blast strikes as many enemies as possible in a 15-foot burst anywhere on the isle, dealing 5d8 force damage (DC 26 Reflex check or DC 26 Will check, target's choice) to enemies in the area. Aslynn avoids targeting the nightmares with the blast."
+    desc: "(1 action) On the hazard's initiative, a boil erupts from the ground and bursts. This blast strikes as many enemies as possible in a @Template[burst|distance:15] anywhere on the isle, dealing 5d8 force damage (DC 26 Reflex check or DC 26 Will check, target's choice) to enemies in the area. Aslynn avoids targeting the nightmares with the blast."
 
+```
+
+```encounter-table
+name: Angry Void Boils
+creatures:
+  - 1: Angry Void Boils
 ```
 

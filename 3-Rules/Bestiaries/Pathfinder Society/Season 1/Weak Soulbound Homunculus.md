@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/construct
   - pf2e/creature/type/evil
   - pf2e/creature/type/soulbound
+  - pf2eMonster
   - pf2e/creature/level/-1
 statblock: inline
 name: "Weak Soulbound Homunculus"
@@ -26,10 +27,10 @@ level: "Creature -1"
 
 alignment: ""
 size: "tiny"
-trait_01: "chaotic"
-trait_02: "construct"
-trait_03: "evil"
-trait_04: "soulbound"
+trait_01: [[chaotic]]
+trait_02: [[construct]]
+trait_03: [[evil]]
+trait_04: [[soulbound]]
 modifier: 3
 perception:
   - name: "Perception"
@@ -62,8 +63,14 @@ attacks:
     desc: "`pf2:1` Jaws +5 (finesse, magical)\n__Damage__  1d4 piercing plus homunculus-poison"
 
   - name: "Homunculus Poison"
-    desc: " (poison) A homunculus has one dose of poison in a reservoir in its head. It can refill this poison from its reserves with an Interact action.\n**Saving Throw** DC 13 Fortitude check\n**Maximum Duration** 6 rounds\n**Stage 1** 1d6 poison and [[Conditions/Enfeebled 1|Enfeebled 1]] (1 round)"
+    desc: " (poison) A homunculus has one dose of poison in a reservoir in its head. It can refill this poison from its reserves with an Interact action.\n* * *\n\n**Saving Throw** DC 13 Fortitude check\n\n**Maximum Duration** 6 rounds\n\n**Stage 1** 1d6 poison and [[Conditions/Enfeebled|Enfeebled 1]] (1 round)"
  
+```
+
+```encounter-table
+name: Weak Soulbound Homunculus
+creatures:
+  - 1: Weak Soulbound Homunculus
 ```
 
 

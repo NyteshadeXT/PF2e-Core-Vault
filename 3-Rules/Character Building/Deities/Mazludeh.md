@@ -33,9 +33,9 @@ When casting the [[Spells/Avatar|Avatar]] spell, a worshipper of Mazludeh gains 
 
 **Mazludeh** Speed 70 feet, climb speed 50 feet, shield (hardness 15, can't be damaged)
 
-Melee `pf2:1` viper strike (reach 15 feet), Damage 6d10 + 6 piercing damage
+Melee `pf2:1` viper strike (reach 15 feet), Damage 6d10+6 piercing damage
 
-Ranged `pf2:1` stone rain (range 120 feet), Damage 6d6 + 3 bludgeoning damage
+Ranged `pf2:1` stone rain (range 120 feet), Damage 6d6+3 bludgeoning damage
 
 *Source: Pathfinder Lost Omens: The Mwangi Expanse*
 *OGL*

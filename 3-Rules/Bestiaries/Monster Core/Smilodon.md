@@ -6,6 +6,7 @@ cssClasses: pf2e
 aliases: "Compendium.pf2e.pathfinder-monster-core.Actor.6EgJNAJss45TQqpa" 
 tags:
   - pf2e/creature/type/animal
+  - pf2eMonster
   - pf2e/creature/level/6
   - remaster
 statblock: inline
@@ -25,7 +26,7 @@ level: "Creature 6"
 
 alignment: ""
 size: "Large"
-trait_01: "animal"
+trait_01: [[animal]]
 modifier: 14
 perception:
   - name: "Perception"
@@ -72,6 +73,12 @@ attacks:
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
     desc: "`pf2:1`  "
  
+```
+
+```encounter-table
+name: Smilodon
+creatures:
+  - 1: Smilodon
 ```
 
 

@@ -7,6 +7,7 @@ aliases: "Compendium.battlezoo-bestiary-pf2e.pf2e-battlezoo-bestiary.Actor.x5KrB
 tags:
   - pf2e/creature/type/aberration
   - pf2e/creature/type/evil
+  - pf2eMonster
   - pf2e/creature/level/7
 statblock: inline
 name: "Hook Hanger"
@@ -25,16 +26,16 @@ level: "Creature 7"
 
 alignment: ""
 size: "Medium"
-trait_01: "aberration"
-trait_02: "evil"
+trait_01: [[aberration]]
+trait_02: [[evil]]
 modifier: 15
 perception:
   - name: "Perception"
     desc: "+15; Darkvision"
-languages: "Aklo"
+languages: "Aklo; aklo sign language"
 skills:
   - name: "Skills"
-    desc: "Athletics: +17, Intimidation: +12, Stealth: +17, Survival: +14, Acrobatics: +14"
+    desc: "Acrobatics: +14, Athletics: +17, Intimidation: +12, Stealth: +17, Survival: +14"
 abilityMods: [6, 4, 5, 1, 3, 3]
 speed: 15 feet,  climb 40 feet
 sourcebook: "_Battlezoo Bestiary_"
@@ -68,17 +69,23 @@ attacks:
     desc: "`pf2:1`  "
 
   - name: "[[Bestiary Ability Glossary/Rend|Rend]]"
-    desc: "`pf2:1`  Fist\n"
+    desc: "`pf2:1`  Fist\n\n* * *\n"
 
   - name: "Drop the Hammer"
-    desc: "`pf2:2` (incapacitation) **Requirements** The hook hanger is hanging at least 10 feet above a creature and is Concealed;\n**Effect** The hook hanger drops down and slams violently into its prey. The hook hanger moves to a space of its choice adjacent to and at the same elevation as its target and makes a fist Strike against that target. If the hook hanger's Strike deals damage, the creature is knocked Prone and must succeed at a Fortitude save or become Stunned 1 (or Stunned 2 on a critical failure)."
+    desc: "`pf2:2` (incapacitation) **Requirements** The hook hanger is hanging at least 10 feet above a creature and is [[Conditions/Concealed|Concealed]];\n\n**Effect** The hook hanger drops down and slams violently into its prey. The hook hanger moves to a space of its choice adjacent to and at the same elevation as its target and makes a fist Strike against that target. If the hook hanger's Strike deals damage, the creature is knocked [[Conditions/Prone|Prone]] and must succeed at a DC 25 Fortitude save or become [[Conditions/Stunned|Stunned 1]] (or [[Conditions/Stunned|Stunned 2]] on a critical failure)."
 
   - name: "Swinging Swipe"
-    desc: "`pf2:1`  The hook hanger Climbs across the ceiling and makes a Hidden hook Strike at any point during its movement."
+    desc: "`pf2:1`  The hook hanger Climbs across the ceiling and makes a [[Conditions/Hidden|Hidden]] hook Strike at any point during its movement."
 
   - name: "Twist and Snap"
-    desc: "`pf2:2`  **Requirements** The hook hanger is grabbing a creature;\n**Effect** Using one of its hooks for leverage, the hook hanger breaks a victim's arm, dealing 6d8 bludgeoning damage. The Grabbed creature must make a Fortitude save.\n**Critical Success** The creature is unaffected.\n**Success** The target takes half damage.\n**Failure** The target takes full damage and is Clumsy 1 for 1d4 rounds.\n**Critical Failure** The target takes double damage and is Clumsy 2 for 1 minute. As long as it is clumsy, the creature can't use one of its arms. An adjacent creature can Administer First Aid (DC = 15 + the target's clumsy value) to decrease the target's clumsy value by 1."
+    desc: "`pf2:2`  **Requirements** The hook hanger is grabbing a creature;\n\n**Effect** Using one of its hooks for leverage, the hook hanger breaks a victim's arm, dealing 6d8 bludgeoning damage. The [[Conditions/Grabbed|Grabbed]] creature must make a DC 25 Fortitude save.\n* * *\n\n**Critical Success** The creature is unaffected.\n\n**Success** The target takes half damage.\n\n**Failure** The target takes full damage and is [[Conditions/Clumsy|Clumsy 1]] for 1d4 rounds.\n\n**Critical Failure** The target takes double damage and is [[Conditions/Clumsy|Clumsy 2]] for 1 minute. As long as it is clumsy, the creature can't use one of its arms. An adjacent creature can Administer First Aid (DC = 15 + the target's clumsy value) to decrease the target's clumsy value by 1."
  
+```
+
+```encounter-table
+name: Hook Hanger
+creatures:
+  - 1: Hook Hanger
 ```
 
 

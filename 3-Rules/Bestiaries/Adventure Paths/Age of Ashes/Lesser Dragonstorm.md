@@ -5,6 +5,7 @@ noteType: pf2eHazard
 tags:
   - environmental
   - magical
+  - pf2eHazard
   - complex
 source: Pathfinder #150: Broken Promises
 aliases: "Compendium.pf2e.age-of-ashes-bestiary.Actor.EUYisYdY3fcGL8zp" 
@@ -22,8 +23,8 @@ name: "Lesser Dragonstorm"
 level: "Hazard 20"
 
 trait_06: "Complex"
-trait_01: "environmental"
-trait_02: "magical"
+trait_01: [[environmental]]
+trait_02: [[magical]]
 modifier: 38
 sourcebook: "_Pathfinder #150: Broken Promises_"
 perception:
@@ -42,10 +43,16 @@ attacks:
   - name: ""
 
   - name: "Manifest Lesser Dragonstorm"
-    desc: "`pf2:r` **Trigger** A creature attempts to activate Vengegate\n**Effect** The chamber within Alseta's Ring fills with a dragonstorm. Creatures within this area take 10d8 damage, equally split between acid, cold, electricity, fire, and poison."
+    desc: "`pf2:r` **Trigger** A creature attempts to activate Vengegate\n* * *\n\n**Effect** The chamber within Alseta's Ring fills with a dragonstorm. Creatures within this area take 10d8 damage, equally split between acid, cold, electricity, fire, and poison."
 
   - name: "Routine"
     desc: "(1 action) On its initiative, the lesser dragonstorm reaches out and blasts all creatures within Alseta's Ring. Affected creatures take 10d8 damage (DC 46 Reflex check), evenly split between acid, cold, fire, electricity, and poison. Creatures that fail their save are pulled 20 feet toward the center of Alseta's Ring (or are knocked prone and pulled 30 feet on a critical failure). After 10 rounds, the lesser dragonstorm is destroyed, but a much greater dragonstorm manifests in the surrounding region-see The Dragonstorm."
 
+```
+
+```encounter-table
+name: Lesser Dragonstorm
+creatures:
+  - 1: Lesser Dragonstorm
 ```
 

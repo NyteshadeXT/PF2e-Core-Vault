@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/human
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/4
 statblock: inline
 name: "Burglar"
@@ -25,9 +26,9 @@ level: "Creature 4"
 
 alignment: ""
 size: "Medium"
-trait_01: "evil"
-trait_02: "human"
-trait_03: "humanoid"
+trait_01: [[evil]]
+trait_02: [[human]]
+trait_03: [[humanoid]]
 modifier: 10
 perception:
   - name: "Perception"
@@ -35,7 +36,7 @@ perception:
 languages: "Common"
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +10, Athletics: +8, Deception: +7, Society: +7, Stealth: +12, Thievery: +12 (can Disable traps that require master proficiency), Underworld Lore: +7"
+    desc: "Acrobatics: +10, Athletics: +8, Deception: +7, Society: +7, Stealth: +12, Thievery: +12, Underworld Lore: +7"
 abilityMods: [2, 4, 1, 1, 2, 1]
 speed: 30 feet
 sourcebook: "_Pathfinder Gamemastery Guide_"
@@ -58,7 +59,7 @@ abilities_mid:
     desc: "  The burglar isn't off-guard to creatures of 4th level or lower that are [[Conditions/Hidden|Hidden]], [[Conditions/Undetected|Undetected]], flanking, or using [[Class Features/Surprise Attack|Surprise Attack]]."
 
   - name: "Nimble Dodge"
-    desc: "`pf2:r`  **Trigger** The burglar is targeted with a melee or ranged attack by an attacker it can see.\n**Effect** The burglar gains a +2 circumstance bonus to AC against the triggering attack."
+    desc: "`pf2:r`  **Trigger** The burglar is targeted with a melee or ranged attack by an attacker it can see.\n* * *\n\n**Effect** The burglar gains a +2 circumstance bonus to AC against the triggering attack."
 
 attacks:
   - name: ""
@@ -81,6 +82,12 @@ attacks:
   - name: "Surprise Attack"
     desc: "  On the first round of combat, if the burglar rolls Deception or Stealth for initiative, creatures that haven't acted are [[Conditions/Off-Guard|Off-Guard]] to them."
  
+```
+
+```encounter-table
+name: Burglar
+creatures:
+  - 1: Burglar
 ```
 
 

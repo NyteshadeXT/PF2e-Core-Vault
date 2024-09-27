@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.pathfinder-monster-core.Actor.k5p4mRDT26DrDXPA"
 tags:
   - pf2e/creature/type/animal
   - pf2e/creature/type/aquatic
+  - pf2eMonster
   - pf2e/creature/level/8
   - remaster
 statblock: inline
@@ -26,8 +27,8 @@ level: "Creature 8"
 
 alignment: ""
 size: "huge"
-trait_01: "animal"
-trait_02: "aquatic"
+trait_01: [[animal]]
+trait_02: [[aquatic]]
 modifier: 15
 perception:
   - name: "Perception"
@@ -66,13 +67,13 @@ attacks:
     desc: "  A giant octopus can move through a gap at least 2 feet wide without Squeezing, and can [[Actions/Squeeze|Squeeze]] through a gap at least 1 foot wide."
 
   - name: "[[Bestiary Ability Glossary/Constrict|Constrict]]"
-    desc: "`pf2:1`  1d8 + 9 bludgeoning, DC 26 Fortitude check\n\n* * *\n"
+    desc: "`pf2:1`  1d8+9 bludgeoning, DC 26 Fortitude check\n\n* * *\n"
 
   - name: "Giant Octopus Venom"
-    desc: " (poison) **Saving Throw** DC 26 Fortitude check\n* * *\n\n**Maximum Duration** 6 rounds\n\n**Stage 1** 2d6 poison damage and [[Conditions/Off-Guard|Off-Guard]] (1 round)\n\n**Stage 2** 2d6 poison damage, [[Conditions/Clumsy 1|Clumsy 1]], and off-guard (1 round)\n\n**Stage 3** 2d6 poison damage, [[Conditions/Clumsy 1|Clumsy 2]], and off-guard (1 round)"
+    desc: " (poison) **Saving Throw** DC 26 Fortitude check\n* * *\n\n**Maximum Duration** 6 rounds\n\n**Stage 1** 2d6 poison damage and [[Conditions/Off-Guard|Off-Guard]] (1 round)\n\n**Stage 2** 2d6 poison damage, [[Conditions/Clumsy|Clumsy 1]], and off-guard (1 round)\n\n**Stage 3** 2d6 poison damage, [[Conditions/Clumsy|Clumsy 2]], and off-guard (1 round)"
 
   - name: "Ink Cloud"
-    desc: "`pf2:1`  The octopus emits a cloud of black ink in a 30-foot emanation. This cloud has no effect outside of water. Creatures inside the cloud are [[Conditions/Undetected|Undetected]] and can't use their sense of smell. The cloud dissipates after 1 minute.\n\nThe octopus can't use Ink Cloud again for 2d6 rounds."
+    desc: "`pf2:1`  The octopus emits a cloud of black ink in a @Template[emanation|distance:30]. This cloud has no effect outside of water. Creatures inside the cloud are [[Conditions/Undetected|Undetected]] and can't use their sense of smell. The cloud dissipates after 1 minute.\n\nThe octopus can't use Ink Cloud again for 2d6 rounds."
 
   - name: "Jet"
     desc: "`pf2:2` (move) The octopus moves up to 200 feet in a straight line through the water without triggering reactions."
@@ -83,6 +84,12 @@ attacks:
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
     desc: "`pf2:1`  "
  
+```
+
+```encounter-table
+name: Giant Octopus
+creatures:
+  - 1: Giant Octopus
 ```
 
 

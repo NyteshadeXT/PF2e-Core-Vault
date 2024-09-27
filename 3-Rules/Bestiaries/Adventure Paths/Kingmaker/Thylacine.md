@@ -6,6 +6,7 @@ cssClasses: pf2e
 aliases: "Compendium.pf2e.kingmaker-bestiary.Actor.TLoNfIIhS7YGdV54" 
 tags:
   - pf2e/creature/type/animal
+  - pf2eMonster
   - pf2e/creature/level/0
 statblock: inline
 name: "Thylacine"
@@ -20,14 +21,15 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Kingmaker"
 name: "Thylacine"
 level: "Creature 0"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Small"
-trait_01: "animal"
+trait_01: [[animal]]
 modifier: 4
 perception:
   - name: "Perception"
     desc: "+4; Low-Light Vision, Scent (Imprecise) 30 Feet"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Athletics: +5, Intimidation: +4, Stealth: +6, Survival: +4"
@@ -57,6 +59,12 @@ attacks:
   - name: "Hunting Cry"
     desc: "`pf2:1` (auditory,emotion,mental) The thylacine growls, hisses, and bares its jaws in a frightening manner as it attempts to [[Actions/Demoralize|Demoralize]] a creature. It gains a +2 circumstance bonus to this Intimidation check, and the attempt is not penalized if the target can't understand the thylacine."
  
+```
+
+```encounter-table
+name: Thylacine
+creatures:
+  - 1: Thylacine
 ```
 
 

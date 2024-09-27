@@ -1,15 +1,16 @@
 ---
-title: "Lizardfolk Defenders"
+title: Lizardfolk Defenders
 obsidianUIMode: preview
-noteType: pf2eMonster
+noteType: pf2eArmy
 cssClasses: pf2e
-aliases: "Compendium.pf2e.kingmaker-bestiary.Actor.gNnyvSLsItTN0Ks4" 
 tags:
-  - pf2e/creature/level/5
-statblock: inline
-name: "Lizardfolk Defenders"
+  - pf2eArmy
+
+source: 
+aliases: "Compendium.pf2e.kingmaker-bestiary.Actor.gNnyvSLsItTN0Ks4" 
 level: 5
 license: 
+statblock: inline
 ---
 
 ```statblock
@@ -18,39 +19,54 @@ forcecolumns: true
 layout: Basic Pathfinder 2e Layout
 source: ""
 name: "Lizardfolk Defenders"
-level: "Creature 5"
-rare_03: "Uncommon"
+level: "Army 5"
+rare_03: [[Uncommon]]
+
 alignment: ""
 size: "Medium"
-modifier: 
+trait_01: skirmisher
+modifier: 14
 perception:
-  - name: "Perception"
-    desc: "NaN; "
-skills:
-  - name: "Skills"
-    desc: ""
-abilityMods: [, , , , , ]
-speed: 
-sourcebook: "__"
-ac: 
+  - name: ""
+  - name: "Scouting"
+    desc: "+14"
+  - name: "Recruitment DC"
+    desc: "22; __Consumption__ 0"
+  - name: "Description"
+    desc: "These lizardfolk are from the settlement on the banks of Candlemere; they fight with flails and javelins."
+ac: 23
 armorclass:
   - name: AC
-    desc: "; __Fort__ NaN, __Ref__ NaN, __Will__ NaN"
+    desc: "23; __Maneuver__ +9, __Morale__ +15"
 hp: 4
 health:
   - name: ""
-  - name: HP
-    desc: "4"
+  - name: "HP"
+    desc: "4 (RT 2))"
 abilities_top:
   - name: ""
 
 abilities_mid:
   - name: ""
+  - name: "Melee"
+    desc: "Flails +18"
+  - name: "Ranged"
+    desc: "Javelins +18"
+
 attacks:
   - name: ""
+
+  - name: "Swamp Dwellers"
+    desc: "The lizardfolk defenders have the [[Kingmaker Features/Live off the Land|Live off the Land]] tactic for free (it does not count against the maximum number of tactics the army can possess), do not treat water or swamp on a battlefield as difficult terrain, and gain a +2 circumstance bonus to Scouting checks attempted in hexes that include swamps or water."
+
+  - name: "Live off the Land"
+    desc: "The army is trained to be self-sufficient and sustains itself via hunting and gathering when they're in the wild. If during a Kingdom turn's Upkeep phase this army is located in a hex that doesn't include a settlement, and if the army is not garrisoned, it reduces its Consumption by 1."
  
 ```
 
-
-
+```encounter-table
+name: Lizardfolk Defenders
+creatures:
+  - 1: Lizardfolk Defenders
+```
 

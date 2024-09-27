@@ -12,7 +12,7 @@ license: ORC
 ---
 # Weapon Tricks
 ## Feat 5
-### [[rogue]]
+### [[3-Rules/trait_reference/rogue]]
 
 **Category** classfeature; 
 

@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/fire
   - pf2e/creature/type/lawful
+  - pf2eMonster
   - pf2e/creature/level/10
 statblock: inline
 name: "Peluda"
@@ -27,10 +28,10 @@ level: "Creature 10"
 
 alignment: ""
 size: "Large"
-trait_01: "dragon"
-trait_02: "evil"
-trait_03: "fire"
-trait_04: "lawful"
+trait_01: [[dragon]]
+trait_02: [[evil]]
+trait_03: [[fire]]
+trait_04: [[lawful]]
 modifier: 21
 perception:
   - name: "Perception"
@@ -57,7 +58,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Quill Thrust"
-    desc: "`pf2:r`  **Trigger** A creature within 10 feet attempts a melee Strike against the peluda\n**Effect** The peluda shifts their position and makes a quill Strike against the attacking creature. This Strike doesn't count toward the peluda's multiple attack penalty, and the peluda's multiple attack penalty doesn't apply to this Strike."
+    desc: "`pf2:r`  **Trigger** A creature within 10 feet attempts a melee Strike against the peluda\n* * *\n\n**Effect** The peluda shifts their position and makes a quill Strike against the attacking creature. This Strike doesn't count toward the peluda's multiple attack penalty, and the peluda's multiple attack penalty doesn't apply to this Strike."
 
   - name: "Vulnerable Tail"
     desc: "  If the peluda takes 30 or more slashing damage from a critical hit, the attacker severs the peluda's tail. The peluda takes 2d6 bleed and can't make tail attacks until their tail grows back (in about 1 week)."
@@ -75,14 +76,20 @@ attacks:
     desc: "`pf2:1` Tail +23 (reach 15 feet, versatile p)\n__Damage__  2d6 + 13 bludgeoning plus improved-knockdown"
 
   - name: "Breath Weapon"
-    desc: "`pf2:2` (fire,primal) The peluda breathes a torrent of flames that deals 7d10 fire damage in a 60-foot line (DC 29 Reflex check save).\nThey can't use their Breath Weapon again for 1d4 rounds."
+    desc: "`pf2:2` (fire,primal) The peluda breathes a torrent of flames that deals 7d10 fire damage in a @Template[line|distance:60] (DC 29 Reflex check save).\n\nThey can't use their Breath Weapon again for 1d4 rounds."
 
   - name: "Peluda Venom"
-    desc: " (poison) **Saving Throw** DC 29 Fortitude check\n**Maximum Duration** 6 rounds\n**Stage 1** 2d6 poison damage and [[Conditions/Off-Guard|Off-Guard]] (1 round)\n**Stage 2** 2d6 poison damage, [[Conditions/Enfeebled 1|Enfeebled 1]], and off-guard (1 round)\n**Stage 3** 2d6 poison damage, [[Conditions/Enfeebled 1|Enfeebled 2]], and off-guard (1 round)"
+    desc: " (poison) **Saving Throw** DC 29 Fortitude check\n\n**Maximum Duration** 6 rounds\n\n**Stage 1** 2d6 poison damage and [[Conditions/Off-Guard|Off-Guard]] (1 round)\n\n**Stage 2** 2d6 poison damage, [[Conditions/Enfeebled|Enfeebled 1]], and off-guard (1 round)\n\n**Stage 3** 2d6 poison damage, [[Conditions/Enfeebled|Enfeebled 2]], and off-guard (1 round)"
 
   - name: "Quill Barrage"
-    desc: "`pf2:2`  The peluda bristles their quills and shakes, sending dozens of spear-like barbs in every direction. All creatures within 30 feet take 11d6 piercing damage (DC 29 Reflex check save) and are exposed to peluda venom if they take any damage.\nThe peluda can't use Quill Barrage again for 1 minute."
+    desc: "`pf2:2`  The peluda bristles their quills and shakes, sending dozens of spear-like barbs in every direction. All creatures within 30 feet take 11d6 piercing damage (DC 29 Reflex check save) and are exposed to peluda venom if they take any damage.\n\nThe peluda can't use Quill Barrage again for 1 minute."
  
+```
+
+```encounter-table
+name: Peluda
+creatures:
+  - 1: Peluda
 ```
 
 

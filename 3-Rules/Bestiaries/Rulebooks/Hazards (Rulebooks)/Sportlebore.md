@@ -5,6 +5,7 @@ noteType: pf2eHazard
 tags:
   - animal
   - environmental
+  - pf2eHazard
 
 source: Pathfinder Bestiary 2
 aliases: "Compendium.pf2e.hazards.Actor.1egK7HFAFdHxMS9N" 
@@ -22,8 +23,8 @@ name: "Sportlebore"
 level: "Hazard 7"
 
 
-trait_01: "animal"
-trait_02: "environmental"
+trait_01: [[animal]]
+trait_02: [[environmental]]
 modifier: 16
 sourcebook: "_Pathfinder Bestiary 2_"
 perception:
@@ -42,12 +43,18 @@ attacks:
   - name: ""
 
   - name: "Mimic Food"
-    desc: "`pf2:r` **Trigger** A creature eats food the sportlebore is hidden within\n**Effect** The sportlebore rapidly multiplies in the host's stomach, exposing the host to sportlebore infestation"
+    desc: "`pf2:r` **Trigger** A creature eats food the sportlebore is hidden within\n* * *\n\n**Effect** The sportlebore rapidly multiplies in the host's stomach, exposing the host to sportlebore infestation"
 
   - name: "Sportlebore Infestation"
-    desc: "passive (disease) **Saving Throw** DC 22 Fortitude check\n**Stage 1** carrier with no ill effect (1 day)\n**Stage 2** [[Conditions/Enfeebled 1|Enfeebled 1]] (1 hour)\n**Stage 3** [[Conditions/Enfeebled 1|Enfeebled 2]] (1 hour)\n**Stage 4** 4d6 bludgeoning damage (DC 25 Fortitude check save) as the host painfully vomits out a sportlebore swarm and returns to stage 1"
+    desc: "passive (disease) **Saving Throw** DC 22 Fortitude check\n\n**Stage 1** carrier with no ill effect (1 day)\n\n**Stage 2** [[Conditions/Enfeebled|Enfeebled 1]] (1 hour)\n\n**Stage 3** [[Conditions/Enfeebled|Enfeebled 2]] (1 hour)\n\n**Stage 4** 4d6 bludgeoning damage (DC 25 Fortitude check save) as the host painfully vomits out a sportlebore swarm and returns to stage 1"
 
 
 
+```
+
+```encounter-table
+name: Sportlebore
+creatures:
+  - 1: Sportlebore
 ```
 

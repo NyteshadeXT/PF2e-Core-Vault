@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/aberration
   - pf2e/creature/type/evil
   - pf2e/creature/type/unholy
+  - pf2eMonster
   - pf2e/creature/level/18
 statblock: inline
 name: "Deghuun (Child of Mhar)"
@@ -22,17 +23,17 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #156: The Apocalypse Prophet"
 name: "Deghuun (Child of Mhar)"
 level: "Creature 18"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "huge"
-trait_01: "aberration"
-trait_02: "evil"
-trait_03: "unholy"
+trait_01: [[aberration]]
+trait_02: [[evil]]
+trait_03: [[unholy]]
 modifier: 30
 perception:
   - name: "Perception"
     desc: "+30; Greater Darkvision"
-languages: "Aklo"
+languages: "Aklo; telepathy 100 feet"
 skills:
   - name: "Skills"
     desc: "Athletics: +37"
@@ -72,10 +73,10 @@ attacks:
     desc: "DC 38, attack +30; __8th __  _[[Spells/Earthquake|Earthquake]]_; __6th __  _[[Spells/Earthbind|Earthbind (x3)]]_, _[[Spells/Hallucination|Hallucination]]_"
 
   - name: "Beak Crunch"
-    desc: "`pf2:1`  **Requirements** The deghuun has a creature [[Conditions/Grabbed|Grabbed]] with its tentacles\n**Effect** The creature takes 4d8 + 17 piercing damage."
+    desc: "`pf2:1`  **Requirements** The deghuun has a creature [[Conditions/Grabbed|Grabbed]] with its tentacles\n* * *\n\n**Effect** The creature takes 4d8+17 piercing damage."
 
   - name: "Sulfurous Plume"
-    desc: "`pf2:2` (fire,poison) The deghuun vents caustic smog for 1d4 rounds.\nAny creature that ends its turn within 30 feet of the deghuun during this time takes 6d6 fire damage and is [[Conditions/Sickened 1|Sickened 1]] (DC 38 Fortitude check; the creature avoids the sickened condition on a critical success, or is [[Conditions/Sickened 1|Sickened 2]] on a critical failure).\nWhile sickened in this way, a creature takes a -2 status penalty to its saving throw against the deghuun's [[Spells/Hallucination|Hallucination]].\nAny creature that's in the smog is [[Conditions/Concealed|Concealed]] and treats other creatures as concealed. Strong winds dissipate the smog."
+    desc: "`pf2:2` (fire,poison) The deghuun vents caustic smog for 1d4 rounds.\n\nAny creature that ends its turn within 30 feet of the deghuun during this time takes 6d6 fire damage and is [[Conditions/Sickened|Sickened 1]] (DC 38 Fortitude check; the creature avoids the sickened condition on a critical success, or is [[Conditions/Sickened|Sickened 2]] on a critical failure).\n\nWhile sickened in this way, a creature takes a -2 status penalty to its saving throw against the deghuun's [[Spells/Hallucination|Hallucination]].\n\nAny creature that's in the smog is [[Conditions/Concealed|Concealed]] and treats other creatures as concealed. Strong winds dissipate the smog."
 
   - name: "Tentacle Assault"
     desc: "`pf2:1`  The deghuun makes three tentacle Strikes, each against a different creature within reach. These attacks count toward its multiple attack penalty as normal."
@@ -83,6 +84,12 @@ attacks:
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
     desc: "`pf2:1`  "
  
+```
+
+```encounter-table
+name: Deghuun (Child of Mhar)
+creatures:
+  - 1: Deghuun (Child of Mhar)
 ```
 
 

@@ -7,8 +7,9 @@ tags:
   - trait/secret
   - trait/common
   - category/interaction
+  - remaster
 aliases: "Compendium.pf2e.actionspf2e.Item.EcDcowQ8vS6cEfXd"
-license: OGL
+license: ORC
 ---
 # Scout Location
 
@@ -29,5 +30,5 @@ You spend time observing the place or group you wish to infiltrate. Attempt a no
 
 **Critical Failure** You misjudge some aspect of what you observed, gaining 1 EP that results in a critical failure instead of a success when used, even if a PC uses the Edge Point after rolling a failure.
 
-*Source: Pathfinder Gamemastery Guide*
-*OGL*
+*Source: Pathfinder GM Core*
+*ORC*

@@ -10,6 +10,7 @@ tags:
   - pf2e/creature/type/skeleton
   - pf2e/creature/type/undead
   - pf2e/creature/type/unholy
+  - pf2eMonster
   - pf2e/creature/level/2
 statblock: inline
 name: "Skeletal Hellknight"
@@ -24,14 +25,14 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #145: Hellknight Hill"
 name: "Skeletal Hellknight"
 level: "Creature 2"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Medium"
-trait_01: "evil"
-trait_02: "lawful"
-trait_03: "skeleton"
-trait_04: "undead"
-trait_05: "unholy"
+trait_01: [[evil]]
+trait_02: [[lawful]]
+trait_03: [[skeleton]]
+trait_04: [[undead]]
+trait_05: [[unholy]]
 modifier: 7
 perception:
   - name: "Perception"
@@ -74,8 +75,14 @@ attacks:
     desc: " (divine) The skeletal Hellknight can direct the actions of the nearby skeleton guards, commanding them to perform tactics such as flanking foes and focusing their attacks on specific targets. As long as the skeletal Hellknight is active and commanding the skeletons, they gain the [[Bestiary Ability Glossary/Attack of Opportunity|Attack of Opportunity]] reaction."
 
   - name: "Invoke Reckoning"
-    desc: "`pf2:r` (divine,mental) **Trigger** The skeletal Hellknight hits a foe with a Strike.\n**Effect** The skeletal Hellknight causes the creature struck to endure the pain of an Order of the Nail's reckoning-a rite of mortification Hellknights of that order use to focus their minds. The creature struck feels as if nails are being driven into their body, and must succeed at a DC 17 Will check save or be [[Conditions/Stunned 1|Stunned 1]] from the pain. On a critical failure, the pain manifests as actual puncture wounds, dealing an additional 2d6 piercing damage to the victim."
+    desc: "`pf2:r` (divine,mental) **Trigger** The skeletal Hellknight hits a foe with a Strike.\n* * *\n\n**Effect** The skeletal Hellknight causes the creature struck to endure the pain of an Order of the Nail's reckoning-a rite of mortification Hellknights of that order use to focus their minds. The creature struck feels as if nails are being driven into their body, and must succeed at a DC 17 Will check save or be [[Conditions/Stunned|Stunned 1]] from the pain. On a critical failure, the pain manifests as actual puncture wounds, dealing an additional 2d6 piercing damage to the victim."
  
+```
+
+```encounter-table
+name: Skeletal Hellknight
+creatures:
+  - 1: Skeletal Hellknight
 ```
 
 

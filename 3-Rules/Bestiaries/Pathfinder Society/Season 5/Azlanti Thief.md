@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/human
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/5
 statblock: inline
 name: "Azlanti Thief"
@@ -23,13 +24,13 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Society Scenario #5-03: Heidmarch Heist"
 name: "Azlanti Thief"
 level: "Creature 5"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Medium"
-trait_01: "chaotic"
-trait_02: "evil"
-trait_03: "human"
-trait_04: "humanoid"
+trait_01: [[chaotic]]
+trait_02: [[evil]]
+trait_03: [[human]]
+trait_04: [[humanoid]]
 modifier: 15
 perception:
   - name: "Perception"
@@ -80,6 +81,12 @@ attacks:
   - name: "Surprise Attack"
     desc: "  On the first round of combat, if an Azlanti thief rolls Stealth for initiative, creatures who haven't acted are [[Conditions/Off-Guard|Off-Guard]] to the Azlanti thief."
  
+```
+
+```encounter-table
+name: Azlanti Thief
+creatures:
+  - 1: Azlanti Thief
 ```
 
 

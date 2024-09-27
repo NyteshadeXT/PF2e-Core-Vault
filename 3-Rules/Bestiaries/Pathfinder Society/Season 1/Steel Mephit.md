@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.pfs-season-1-bestiary.Actor.LAZDcdX1ISXJCqPd"
 tags:
   - pf2e/creature/type/earth
   - pf2e/creature/type/elemental
+  - pf2eMonster
   - pf2e/creature/level/1
 statblock: inline
 name: "Steel Mephit"
@@ -24,8 +25,8 @@ level: "Creature 1"
 
 alignment: ""
 size: "Small"
-trait_01: "earth"
-trait_02: "elemental"
+trait_01: [[earth]]
+trait_02: [[elemental]]
 modifier: 3
 perception:
   - name: "Perception"
@@ -61,8 +62,14 @@ attacks:
     desc: "DC 17, attack +9; __3rd __ (1 slots) _[[Spells/One with Stone|Meld into Stone]]_; __2nd __ (1 slots) _[[Spells/Enlarge|Enlarge (Self Only)]]_"
 
   - name: "Breath Weapon"
-    desc: "`pf2:2` (arcane,earth) The steel mephit breathes shards of iron in a 15-foot cone that deals 2d4 slashing damage to each creature within the area (DC 17 Reflex check save). Creatures who fail their save against this effect also take 1d6 bleed. The steel mephit can't use its breath weapon again for 1d4 rounds."
+    desc: "`pf2:2` (arcane,earth) The steel mephit breathes shards of iron in a @Template[cone|distance:15] that deals 2d4 slashing damage to each creature within the area (DC 17 Reflex check save). Creatures who fail their save against this effect also take 1d6 bleed. The steel mephit can't use its breath weapon again for 1d4 rounds."
  
+```
+
+```encounter-table
+name: Steel Mephit
+creatures:
+  - 1: Steel Mephit
 ```
 
 

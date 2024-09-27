@@ -25,9 +25,9 @@ This sprig of berry-festooned holly and mistletoe doesn't wilt or rot. It can be
 
 **Activate—Anoint** `pf2:2` (manipulate)
 
-**Frequency once per** 10 minutes
+**Frequency** once per 10 minutes
 
-**Effect** You squeeze juice from one of the berries and smear it onto a weapon made primarily of wood to cast a 6th-rank [[Spells/Runic Weapon|Runic Weapon]] on it, or onto a creature to cast a 6th-rank [[Spells/Runic Body|Runic Body]] body on it.
+**Effect** You squeeze juice from one of the berries and smear it onto a weapon made primarily of wood to cast a 6th-rank [[Spells/Runic Weapon|Runic Weapon]] on it, or onto a creature to cast a 6th-rank [[Spells/Runic Body|Runic Body]] on it.
 
 * * *
 

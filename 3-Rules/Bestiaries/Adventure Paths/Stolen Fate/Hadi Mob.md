@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/humanoid
   - pf2e/creature/type/ratfolk
   - pf2e/creature/type/troop
+  - pf2eMonster
   - pf2e/creature/level/15
 statblock: inline
 name: "Hadi Mob"
@@ -23,21 +24,21 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #191: The Destiny War"
 name: "Hadi Mob"
 level: "Creature 15"
-rare_03: "Rare"
+rare_03: [[Rare]]
 alignment: ""
 size: "grg"
-trait_01: "evil"
-trait_02: "humanoid"
-trait_03: "ratfolk"
-trait_04: "troop"
+trait_01: [[evil]]
+trait_02: [[humanoid]]
+trait_03: [[ratfolk]]
+trait_04: [[troop]]
 modifier: 25
 perception:
   - name: "Perception"
     desc: "+25; Darkvision"
-languages: "Common, Daemonic"
+languages: "Common, Daemonic; ratspeak"
 skills:
   - name: "Skills"
-    desc: "Athletics: +27 (+29 to Climb or Swim), Stealth: +29"
+    desc: "Athletics: +27, Stealth: +29"
 abilityMods: [6, 8, 6, 4, 4, 2]
 speed: 25 feet,  climb 10 feet
 sourcebook: "_Pathfinder #191: The Destiny War_"
@@ -65,14 +66,20 @@ attacks:
   - name: ""
 
   - name: "Gnaw and Chew"
-    desc: "`pf2:1`  **Frequency** once per round\n**Effect** the hadi mob bites and tears into the flesh of each enemy adjacent to the troop (DC 33 Reflex check save). The damage depends on the number of actions.\n`pf2:1` 2d8 + 8 slashing damage plus hadi pestilence\n`pf2:2` 4d8 + 12 slashing damage plus hadi pestilence\n`pf2:3` 6d8 + 12 slashing damage plus hadi pestilence"
+    desc: "`pf2:1`  **Frequency** once per round\n* * *\n\n**Effect** the hadi mob bites and tears into the flesh of each enemy adjacent to the troop (DC 33 Reflex check save). The damage depends on the number of actions.\n\n`pf2:1` 2d8+8 slashing damage plus hadi pestilence\n\n`pf2:2` 4d8+12 slashing damage plus hadi pestilence\n\n`pf2:3` 6d8+12 slashing damage plus hadi pestilence"
 
   - name: "Hadi Pestilence"
-    desc: " (disease,divine) This daemonic disease turns the victim into a hadi.\n**Saving Throw** DC 19 Fortitude check\n**Stage 1** carrier (1 day)\n**Stage 2** [[Conditions/Sickened 1|Sickened 1]] (1 day)\n**Stage 3** [[Conditions/Drained 1|Drained 1]] (1 day)\n**Stage 4** [[Conditions/Drained 1|Drained 2]] (1 day)\n**Stage 5** [[Conditions/Drained 1|Drained 3]] (1 week)\n**Stage 6** transform into a hadi (1 year). For a PC, the best way to model this is to replace ancestry Hit Points, size, Speeds, ability boosts, ability flaws, traits, and special abilities with those of the ratfolk ancestry. The character loses previous ancestry feats, selecting replacements from the ratfolk ancestry."
+    desc: " (disease,divine) This daemonic disease turns the victim into a hadi.\n\n**Saving Throw** DC 19 Fortitude check\n\n**Stage 1** carrier (1 day)\n\n**Stage 2** [[Conditions/Sickened|Sickened 1]] (1 day)\n\n**Stage 3** [[Conditions/Drained|Drained 1]] (1 day)\n\n**Stage 4** [[Conditions/Drained|Drained 2]] (1 day)\n\n**Stage 5** [[Conditions/Drained|Drained 3]] (1 week)\n\n**Stage 6** transform into a hadi (1 year). For a PC, the best way to model this is to replace ancestry Hit Points, size, Speeds, ability boosts, ability flaws, traits, and special abilities with those of the ratfolk ancestry. The character loses previous ancestry feats, selecting replacements from the ratfolk ancestry."
 
   - name: "Troop Movement"
     desc: "  Whenever the hadi mob Strides, they first Form Up as a free action to condense into a 20-foot-by-20-foot area (minus any missing squares), then moves up to their Speed. This works just like a Gargantuan creature moving; for instance, if any square of the troop enters difficult terrain, the extra movement cost applies to the whole troop."
  
+```
+
+```encounter-table
+name: Hadi Mob
+creatures:
+  - 1: Hadi Mob
 ```
 
 

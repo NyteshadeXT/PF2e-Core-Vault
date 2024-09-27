@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.extinction-curse-bestiary.Actor.sQvm52N0E5ulBaaq"
 tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/11
 statblock: inline
 name: "Faceless Butcher"
@@ -21,16 +22,16 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #154: Siege of the Dinosaurs"
 name: "Faceless Butcher"
 level: "Creature 11"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Medium"
-trait_01: "evil"
-trait_02: "humanoid"
+trait_01: [[evil]]
+trait_02: [[humanoid]]
 modifier: 21
 perception:
   - name: "Perception"
     desc: "+21; Darkvision"
-languages: "Common"
+languages: "Common; one regional language, can&#x27;t speak any language"
 skills:
   - name: "Skills"
     desc: "Acrobatics: +22, Athletics: +24, Deception: +24, Intimidation: +22, Stealth: +24"
@@ -59,7 +60,7 @@ abilities_mid:
     desc: "`pf2:r`  "
 
   - name: "[[Bestiary Ability Glossary/Frightful Presence|Frightful Presence]]"
-    desc: " (aura,emotion,fear,mental) 10 feet. DC 26 Will check\nThis aura is suppressed if the faceless butcher is using Change Shape.\n"
+    desc: " (aura,emotion,fear,mental) 10 feet. DC 26 Will check\n\nThis aura is suppressed if the faceless butcher is using Change Shape.\n\n* * *\n"
 
 attacks:
   - name: ""
@@ -77,11 +78,17 @@ attacks:
     desc: "`pf2:1` (concentrate,occult,polymorph) The faceless butcher can take on the exact form of any Small, Medium, or Large humanoid whose face they carry in their bag of faces, changing their shape and physical features to precisely match that of the victim whose face they wear. This doesn't change the butcher's Speed or attack or damage bonuses with their Strikes."
 
   - name: "Remove Face"
-    desc: "`pf2:2` (attack) **Requirements** The faceless butcher is within reach of a [[Conditions/Dying 1|Dying]], [[Conditions/Immobilized|Immobilized]], or [[Conditions/Unconscious|Unconscious]] creature\n**Effect** The faceless butcher attempts a cleaver Strike or an Athletics check check against the creature's Fortitude DC. On a success, the faceless butcher deals damage as if they had made a successful cleaver Strike against the creature and removes the creature's face. On a critical success, the damage doubles and the creature takes 4d6 bleed. Once its face is removed, the creature takes a permanent -4 status penalty to Charisma checks and Charisma-based skill checks. This penalty can be removed only if the victim recovers its face from the faceless butcher and has a [[Spells/Restoration|Restoration]] spell cast on it.\n[[Bestiary Effects/Effect_ Remove Face|Effect: Remove Face]]"
+    desc: "`pf2:2` (attack) **Requirements** The faceless butcher is within reach of a [[Conditions/Dying|Dying]], [[Conditions/Immobilized|Immobilized]], or [[Conditions/Unconscious|Unconscious]] creature\n* * *\n\n**Effect** The faceless butcher attempts a cleaver Strike or an Athletics check check against the creature's Fortitude DC. On a success, the faceless butcher deals damage as if they had made a successful cleaver Strike against the creature and removes the creature's face. On a critical success, the damage doubles and the creature takes 4d6 bleed. Once its face is removed, the creature takes a permanent -4 status penalty to Charisma checks and Charisma-based skill checks. This penalty can be removed only if the victim recovers its face from the faceless butcher and has a [[Spells/Restoration|Restoration]] spell cast on it.\n\n[[Bestiary Effects/Effect_ Remove Face|Effect: Remove Face]]"
 
   - name: "Sudden Slices"
-    desc: "`pf2:2`  **Requirements** The faceless butcher is undetected by their target\n**Effect** The faceless butcher Strides once and makes two cleaver Strikes against the target. During the Stride, they gain a +10-foot circumstance bonus to their Speed."
+    desc: "`pf2:2`  **Requirements** The faceless butcher is undetected by their target\n* * *\n\n**Effect** The faceless butcher Strides once and makes two cleaver Strikes against the target. During the Stride, they gain a +10-foot circumstance bonus to their Speed."
  
+```
+
+```encounter-table
+name: Faceless Butcher
+creatures:
+  - 1: Faceless Butcher
 ```
 
 

@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/construct
   - pf2e/creature/type/lawful
   - pf2e/creature/type/soulbound
+  - pf2eMonster
   - pf2e/creature/level/2
 statblock: inline
 name: "Soulbound Doll (Lawful Neutral)"
@@ -26,13 +27,14 @@ level: "Creature 2"
 
 alignment: ""
 size: "tiny"
-trait_01: "construct"
-trait_02: "lawful"
-trait_03: "soulbound"
+trait_01: [[construct]]
+trait_02: [[lawful]]
+trait_03: [[soulbound]]
 modifier: 8
 perception:
   - name: "Perception"
     desc: "+8; Darkvision"
+languages: "one spoken by its creator (typically common)"
 skills:
   - name: "Skills"
     desc: "Acrobatics: +8, Occultism: +4, Stealth: +8"
@@ -65,6 +67,12 @@ attacks:
   - name: "Occult Innate Spells"
     desc: "DC 18, attack +8; __3rd __  _[[Spells/Levitate|Levitate]]_, _[[Spells/Veil of Privacy|Nondetection]]_\n__Cantrips__  __(1st)__ _[[Spells/Light|Light]]_, _[[Spells/Telekinetic Hand|Mage Hand]]_, _[[Spells/Prestidigitation|Prestidigitation]]_"
  
+```
+
+```encounter-table
+name: Soulbound Doll (Lawful Neutral)
+creatures:
+  - 1: Soulbound Doll (Lawful Neutral)
 ```
 
 

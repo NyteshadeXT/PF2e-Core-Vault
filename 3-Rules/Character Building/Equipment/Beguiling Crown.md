@@ -12,7 +12,7 @@ license: OGL
 ---
 # Beguiling Crown
 ## Item 20
-### [uncommon](uncommon "Uncommon Rarity Trait")[[apex]][[invested]][[magical]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[apex]][[invested]][[3-Rules/Rule References/Magical]]
 
 
 **Price** 80000 gp; 

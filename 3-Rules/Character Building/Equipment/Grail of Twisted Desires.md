@@ -3,6 +3,7 @@ obsidianUIMode: preview
 title: "Grail of Twisted Desires"
 cssclasses: pf2e,pf2e-spell
 tags:
+  - trait/illusion
   - trait/magical
   - trait/unique
 aliases: "Compendium.pf2e.equipment-srd.Item.3nv4JcajPAxDgGMb"
@@ -10,7 +11,7 @@ license: OGL
 ---
 # Grail of Twisted Desires
 ## Item 10
-### [unique](unique "Unique Rarity Trait")[[magical]]
+### [unique](unique "Unique Rarity Trait")[[illusion]][[magical]]
 
 
 **Price** 850 gp; 

@@ -12,7 +12,7 @@ license: ORC
 ---
 # Miraculous Spell
 ## Feat 19
-### [[cleric]]
+### [[3-Rules/trait_reference/cleric]]
 
 **Category** classfeature; 
 

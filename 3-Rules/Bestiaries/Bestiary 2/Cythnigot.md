@@ -10,6 +10,7 @@ tags:
   - pf2e/creature/type/fiend
   - pf2e/creature/type/qlippoth
   - pf2e/creature/type/unholy
+  - pf2eMonster
   - pf2e/creature/level/1
 statblock: inline
 name: "Cythnigot"
@@ -25,19 +26,19 @@ token: [[modules/pf2e-tokens-bestiaries/portraits/fiendish/cythnigot.webp| ]]
 source: "Pathfinder Bestiary 2"
 name: "Cythnigot"
 level: "Creature 1"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "tiny"
-trait_01: "chaotic"
-trait_02: "evil"
-trait_03: "fiend"
-trait_04: "qlippoth"
-trait_05: "unholy"
+trait_01: [[chaotic]]
+trait_02: [[evil]]
+trait_03: [[fiend]]
+trait_04: [[qlippoth]]
+trait_05: [[unholy]]
 modifier: 5
 perception:
   - name: "Perception"
     desc: "+5; Darkvision"
-languages: "Chthonian"
+languages: "Chthonian; telepathy (touch only)"
 skills:
   - name: "Skills"
     desc: "Acrobatics: +6, Occultism: +7, Stealth: +6"
@@ -68,11 +69,17 @@ attacks:
     desc: "DC 17, attack +9; __4th __ (1 slots) _[[Spells/Read Omens|Read Omens]]_; __2nd __ (1 slots) _[[Spells/Detect Alignment|Detect Alignment (At will) (Lawful only)]]_, _[[Spells/Paranoia|Paranoia]]_; __1st __ (1 slots) _[[Spells/Phantom Pain|Phantom Pain]]_\n__Cantrips__  __(1st)__ _[[Spells/Daze|Daze]]_, _[[Spells/Detect Magic|Detect Magic]]_"
 
   - name: "Sickening Display"
-    desc: "`pf2:1` (concentrate,emotion,fear,mental,occult,visual) The cythnigot presents its awful appearance fully, and creatures in a 10-foot emanation must attempt a DC 17 Will check save. Once a creature attempts this save, it's temporarily immune to further Sickening Displays for 1 minute.\n**Critical Success** The creature is unaffected.\n**Success** The creature is [[Conditions/Off-Guard|Off-Guard]] until its next turn.\n**Failure** The creature is [[Conditions/Sickened 1|Sickened 1]], and is off-guard for as long as it's sickened.\n**Critical Failure** The creature is [[Conditions/Sickened 1|Sickened 2]] and is off-guard for as long as it's sickened."
+    desc: "`pf2:1` (concentrate,emotion,fear,mental,occult,visual) The cythnigot presents its awful appearance fully, and creatures in a @Template[emanation|distance:10] must attempt a DC 17 Will check save. Once a creature attempts this save, it's temporarily immune to further Sickening Displays for 1 minute.\n* * *\n\n**Critical Success** The creature is unaffected.\n\n**Success** The creature is [[Conditions/Off-Guard|Off-Guard]] until its next turn.\n\n**Failure** The creature is [[Conditions/Sickened|Sickened 1]], and is off-guard for as long as it's sickened.\n\n**Critical Failure** The creature is [[Conditions/Sickened|Sickened 2]] and is off-guard for as long as it's sickened."
 
   - name: "Tangle Spores"
-    desc: " (disease) A creature bitten by a cythnigot becomes afflicted by fast-growing spores that swiftly grow into twitching spikes and hideous pallid growths of hairlike fibers. These growths erupt from the bite wound and writhe and wrap around the creature's limbs. Plant creatures take a -2 circumstance penalty to save against tangle spores\n**Saving Throw** DC 17 Fortitude check\n**Maximum Duration** 6 rounds\n**Stage 1** [[Conditions/Clumsy 1|Clumsy 1]] (1 round)\n**Stage 2** Clumsy 1 and [[Conditions/Off-Guard|Off-Guard]] (1 round)\n**Stage 3** [[Conditions/Clumsy 1|Clumsy 2]], off-guard, and if you attempt a manipulate action, you must succeed at a DC 5 Flat check or it's lost; roll the check after spending the action, but before any effects are applied (1 round)."
+    desc: " (disease) A creature bitten by a cythnigot becomes afflicted by fast-growing spores that swiftly grow into twitching spikes and hideous pallid growths of hairlike fibers. These growths erupt from the bite wound and writhe and wrap around the creature's limbs. Plant creatures take a -2 circumstance penalty to save against tangle spores\n\n**Saving Throw** DC 17 Fortitude check\n\n**Maximum Duration** 6 rounds\n\n**Stage 1** [[Conditions/Clumsy|Clumsy 1]] (1 round)\n\n**Stage 2** Clumsy 1 and [[Conditions/Off-Guard|Off-Guard]] (1 round)\n\n**Stage 3** [[Conditions/Clumsy|Clumsy 2]], off-guard, and if you attempt a manipulate action, you must succeed at a DC 5 Flat check or it's lost; roll the check after spending the action, but before any effects are applied (1 round)."
  
+```
+
+```encounter-table
+name: Cythnigot
+creatures:
+  - 1: Cythnigot
 ```
 
 

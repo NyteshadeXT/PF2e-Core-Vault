@@ -10,6 +10,7 @@ tags:
   - pf2e/creature/type/elemental
   - pf2e/creature/type/genie
   - pf2e/creature/type/good
+  - pf2eMonster
   - pf2e/creature/level/5
 statblock: inline
 name: "Djinni"
@@ -25,14 +26,14 @@ token: [[modules/pf2e-tokens-bestiaries/portraits/elemental/genie/djinni.webp| ]
 source: "Pathfinder Bestiary"
 name: "Djinni"
 level: "Creature 5"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Large"
-trait_01: "air"
-trait_02: "chaotic"
-trait_03: "elemental"
-trait_04: "genie"
-trait_05: "good"
+trait_01: [[air]]
+trait_02: [[chaotic]]
+trait_03: [[elemental]]
+trait_04: [[genie]]
+trait_05: [[good]]
 modifier: 13
 perception:
   - name: "Perception"
@@ -78,8 +79,14 @@ attacks:
     desc: "DC 23, attack +15; __7th __  _[[Spells/Interplanar Teleport|Plane Shift (At Will) (to Astral Plane, Elemental Planes, or Material Plane Only)]]_; __4th __  _[[Spells/Creation|Creation]]_, _[[Spells/Vapor Form|Gaseous Form]]_; __3rd __  _[[Spells/Illusory Creature|Illusory Creature]]_, _[[Spells/Illusory Object|Illusory Object]]_; __2nd __  _[[Spells/Enhance Victuals|Enhance Victuals (At Will)]]_, _[[Spells/Invisibility|Invisibility (At Will) (Self Only)]]_\n__Cantrips__  __(3rd)__ _[[Spells/Detect Magic|Detect Magic]]_"
 
   - name: "Hurricane Blast"
-    desc: "`pf2:1` (air,arcane) **Frequency** Once per round.\n**Effect** The djinni all creatures in its whirlwind pushes back 20 feet, or forces all creatures in the aura to move 20 feet clockwise or counterclockwise. Each creature must attempt a DC 21 Fortitude check save. On a success, it avoids being moved, and on a critical failure it falls [[Conditions/Prone|Prone]] in addition to being moved. Creatures with the air trait are immune."
+    desc: "`pf2:1` (air,arcane) **Frequency** Once per round.\n* * *\n\n**Effect** The djinni all creatures in its whirlwind pushes back 20 feet, or forces all creatures in the aura to move 20 feet clockwise or counterclockwise. Each creature must attempt a DC 21 Fortitude check save. On a success, it avoids being moved, and on a critical failure it falls [[Conditions/Prone|Prone]] in addition to being moved. Creatures with the air trait are immune."
  
+```
+
+```encounter-table
+name: Djinni
+creatures:
+  - 1: Djinni
 ```
 
 

@@ -10,7 +10,7 @@ license: OGL
 ---
 # Dragon's Breath (4th Level Spell)
 ## Item 10
-### [uncommon](uncommon "Uncommon Rarity Trait")[[magical]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[3-Rules/Rule References/Magical]]
 
 
 **Price** 1000 gp; 

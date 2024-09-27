@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/human
   - pf2e/creature/type/humanoid
   - pf2e/creature/type/lawful
+  - pf2eMonster
   - pf2e/creature/level/4
 statblock: inline
 name: "Aphorite Sharpshooter"
@@ -27,10 +28,10 @@ level: "Creature 4"
 
 alignment: ""
 size: "Medium"
-trait_01: "aphorite"
-trait_02: "human"
-trait_03: "humanoid"
-trait_04: "lawful"
+trait_01: [[aphorite]]
+trait_02: [[human]]
+trait_03: [[humanoid]]
+trait_04: [[lawful]]
 modifier: 8
 perception:
   - name: "Perception"
@@ -38,7 +39,7 @@ perception:
 languages: "Common, Utopian"
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +10, Athletics: +8, Deception: +10, Diplomacy: +10, Engineering Lore: +9, Intimidation: +10"
+    desc: "Acrobatics: +10, Athletics: +8, Deception: +10, Diplomacy: +10, Intimidation: +10, Engineering Lore: +9"
 abilityMods: [2, 4, 2, 1, 0, 2]
 speed: 20 feet
 sourcebook: "_Pathfinder Bestiary 3_"
@@ -58,7 +59,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Crystalline Dust"
-    desc: "`pf2:2`  **Frequency** once per day\n**Effect** The sharpshooter becomes [[Conditions/Concealed|Concealed]] for 4 rounds, though they can't use the concealment to [[Actions/Hide|Hide]] or [[Actions/Sneak|Sneak]], as normal for concealment where their position is obvious."
+    desc: "`pf2:2`  **Frequency** once per day\n* * *\n\n**Effect** The sharpshooter becomes [[Conditions/Concealed|Concealed]] for 4 rounds, though they can't use the concealment to [[Actions/Hide|Hide]] or [[Actions/Sneak|Sneak]], as normal for concealment where their position is obvious."
 
 attacks:
   - name: ""
@@ -76,8 +77,14 @@ attacks:
     desc: "  When the sharpshooter reloads their crossbow, they also calculate the best angle to their target, increasing the damage die from 1d8 to 1d10 and gaining a +2 circumstance bonus to their damage roll for their next crossbow Strike, as long as it occurs before the end of their next turn."
 
   - name: "Hurtful Critique"
-    desc: "`pf2:1` (auditory,emotion,linguistic,mental) The sharpshooter makes witty, but disparaging comments about the fighting style of a target within 30 feet, expressing sympathy over every missed blow and providing sarcastic advice on how to improve.\nThe target must succeed at a DC 18 Will check save or take a -1 circumstance penalty to attack rolls (-2 on a critical failure) for 1 minute or until it makes a successful Strike against the sharpshooter.\nA creature who critically succeeds or who Strikes the sharpshooter after failing is immune to that sharpshooter's Hurtful Critique for 1 hour.\n[[Bestiary Effects/Effect_ Hurtful Critique|Effect: Hurtful Critique]]"
+    desc: "`pf2:1` (auditory,emotion,linguistic,mental) The sharpshooter makes witty, but disparaging comments about the fighting style of a target within 30 feet, expressing sympathy over every missed blow and providing sarcastic advice on how to improve.\n\nThe target must succeed at a DC 18 Will check save or take a -1 circumstance penalty to attack rolls (-2 on a critical failure) for 1 minute or until it makes a successful Strike against the sharpshooter.\n\nA creature who critically succeeds or who Strikes the sharpshooter after failing is immune to that sharpshooter's Hurtful Critique for 1 hour.\n\n[[Bestiary Effects/Effect_ Hurtful Critique|Effect: Hurtful Critique]]"
  
+```
+
+```encounter-table
+name: Aphorite Sharpshooter
+creatures:
+  - 1: Aphorite Sharpshooter
 ```
 
 

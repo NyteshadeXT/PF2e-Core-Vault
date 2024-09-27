@@ -22,7 +22,7 @@ license: OGL
 * * *
 You gain a spirit guide ally. Your familiar takes on the form of a spirit guide specific familiar.
 
-**Special** You can take Scion of Domora Dedication even if you have the [[Feats/Familiar Master Dedication|Familiar Master Dedication]] and have not taken two other [[PF2e Journals/Archetypes/Familiar Master|Familiar Master]] feats. You can't select another dedication feat until you have gained at least two other feats from the scion of Domora or familiar master archetypes.
+**Special** You can take Scion of Domora Dedication even if you have the [[Feats/Familiar Master Dedication|Familiar Master Dedication]] and have not taken two other [[PF2e Journals/Archetypes/Familiar Master|Familiar Master]] feats. You can't select another dedication feat until you have gained at least two other feats from the [[PF2e Journals/Archetypes/Scion of Domora|Scion of Domora]] or familiar master archetypes.
 
 *Source: Pathfinder #188: They Watched the Stars*
 *OGL*

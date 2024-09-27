@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/animal
   - pf2e/creature/type/aquatic
   - pf2e/creature/type/swarm
+  - pf2eMonster
   - pf2e/creature/level/3
 statblock: inline
 name: "Trilobite Swarm"
@@ -26,13 +27,14 @@ level: "Creature 3"
 
 alignment: ""
 size: "Large"
-trait_01: "animal"
-trait_02: "aquatic"
-trait_03: "swarm"
+trait_01: [[animal]]
+trait_02: [[aquatic]]
+trait_03: [[swarm]]
 modifier: 9
 perception:
   - name: "Perception"
     desc: "+9; Darkvision, Wavesense (Imprecise) 60 Feet"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Athletics: +8, Stealth: +9, Survival: +7"
@@ -59,6 +61,12 @@ attacks:
   - name: "Clinging Bites"
     desc: "`pf2:1`  The trilobites in the swarm latch onto creatures and gnaw at them. Each enemy in the swarm's space takes 2d6 slashing damage (DC 18 Reflex check save)."
  
+```
+
+```encounter-table
+name: Trilobite Swarm
+creatures:
+  - 1: Trilobite Swarm
 ```
 
 

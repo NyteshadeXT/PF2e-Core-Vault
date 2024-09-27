@@ -4,8 +4,9 @@ title: "Spell Effect: Wind Jump"
 cssclasses: pf2e,pf2e-spell
 tags:
   - trait/common
+  - remaster
 aliases: "Compendium.pf2e.spell-effects.Item.5MI2c9IgxfSeGZQo"
-license: OGL
+license: ORC
 ---
 # Spell Effect: Wind Jump
 ## Level 5
@@ -18,7 +19,7 @@ license: OGL
 
 Granted by [[Spells/Wind Jump|Wind Jump]]
 
-You gain a fly Speed equal to your Speed. You must end your turn on solid ground, or you fall.
+You gain a fly Speed equal to your Speed.
 
-*Source: Pathfinder Core Rulebook*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

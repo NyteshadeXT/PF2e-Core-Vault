@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/undead
   - pf2e/creature/type/unholy
+  - pf2eMonster
   - pf2e/creature/level/1
 statblock: inline
 name: "Festering Gnasher"
@@ -25,16 +26,17 @@ level: "Creature 1"
 
 alignment: ""
 size: "tiny"
-trait_01: "evil"
-trait_02: "undead"
-trait_03: "unholy"
+trait_01: [[evil]]
+trait_02: [[undead]]
+trait_03: [[unholy]]
 modifier: 8
 perception:
   - name: "Perception"
     desc: "+8; Darkvision"
+languages: ""
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +7 (+9 to Maneuver in Flight)"
+    desc: "Acrobatics: +7"
 abilityMods: [3, 4, 1, -3, 3, 0]
 speed: 15 feet,  fly 25 feet
 sourcebook: "_Pathfinder Book of the Dead_"
@@ -59,8 +61,14 @@ attacks:
     desc: "`pf2:1` Jaws +9 (agile, finesse, reach 0 feet)\n__Damage__  1d4 + 3 piercing plus brain-rot"
 
   - name: "Brain Rot"
-    desc: " (disease) **Saving Throw** DC 14 Fortitude check\n**Onset** 1 day\n**Stage 1** [[Conditions/Stupefied 1|Stupefied 1]] (3 days)\n**Stage 2** [[Conditions/Stupefied 1|Stupefied 2]] and [[Conditions/Slowed 1|Slowed 1]] (1 day)\n**Stage 3** [[Conditions/Paralyzed|Paralyzed]] with spasms (1 day)\n**Stage 4** death"
+    desc: " (disease) **Saving Throw** DC 14 Fortitude check\n* * *\n\n**Onset** 1 day\n\n**Stage 1** [[Conditions/Stupefied|Stupefied 1]] (3 days)\n\n**Stage 2** [[Conditions/Stupefied|Stupefied 2]] and [[Conditions/Slowed|Slowed 1]] (1 day)\n\n**Stage 3** [[Conditions/Paralyzed|Paralyzed]] with spasms (1 day)\n\n**Stage 4** death"
  
+```
+
+```encounter-table
+name: Festering Gnasher
+creatures:
+  - 1: Festering Gnasher
 ```
 
 

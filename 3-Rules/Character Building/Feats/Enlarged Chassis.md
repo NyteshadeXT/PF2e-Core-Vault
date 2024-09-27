@@ -21,7 +21,7 @@ license: OGL
 * * *
 You've empowered your core to support a larger body, granting you size and additional reach. You gain the effects of [[Spells/Enlarge|Enlarge]] constantly.
 
-**Enhancement** Your core's empowerment has stabilized, allowing for greater support. You are no longer [[Conditions/Clumsy 1|Clumsy]] due to the effects of enlarge.
+**Enhancement** Your core's empowerment has stabilized, allowing for greater support. You are no longer [[Conditions/Clumsy|Clumsy]] due to the effects of enlarge.
 
 *Source: Pathfinder Guns & Gears*
 *OGL*

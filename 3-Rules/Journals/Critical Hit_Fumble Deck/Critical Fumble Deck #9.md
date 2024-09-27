@@ -20,7 +20,7 @@ tags:
 
 # Brutal Collision
 
-> Attempt a fortitude check saving throw. If you succeed, you're [[Conditions/Stunned 1|Stunned 1]]. If you fail, you're [[Conditions/Stunned 1|Stunned 2]].
+> Attempt a fortitude check saving throw. If you succeed, you're [[Conditions/Stunned|Stunned 1]]. If you fail, you're [[Conditions/Stunned|Stunned 2]].
 
 `Unarmed`
 

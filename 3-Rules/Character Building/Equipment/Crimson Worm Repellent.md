@@ -12,7 +12,7 @@ license: OGL
 ---
 # Crimson Worm Repellent
 ## Item 18
-### [uncommon](uncommon "Uncommon Rarity Trait")[[alchemical]][[consumable]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[alchemical]][[consumable]]
 
 **Category** toolkit; 
 **Price** 4500 gp; 

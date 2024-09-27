@@ -4,6 +4,7 @@ obsidianUIMode: preview
 noteType: pf2eHazard
 tags:
   - environmental
+  - pf2eHazard
 
 source: Pathfinder Society Scenario #1-12: The Burden of Envy
 aliases: "Compendium.pf2e.pfs-season-1-bestiary.Actor.KoYqhZoY3RSBEo5Y" 
@@ -21,13 +22,13 @@ name: "Submerged Shard"
 level: "Hazard 1"
 
 
-trait_01: "environmental"
+trait_01: [[environmental]]
 modifier: 8
 sourcebook: "_Pathfinder Society Scenario #1-12: The Burden of Envy_"
 ac: 16
 armorclass:
   - name: AC
-    desc: "16; __Fort__ +10, __Ref__ +4, __Will__ +0"
+    desc: "16; __Fort__ +10, __Ref__ +4, "
 hp: 24
 health:
   - name: ""
@@ -49,10 +50,16 @@ attacks:
   - name: ""
 
   - name: "Shard"
-    desc: "`pf2:r` (attack) **Trigger** A creature or object moves into the shard's space.\n**Effect** The triggering creature takes 2d6 + 5 piercing damage (DC 17 Reflex check save)."
+    desc: "`pf2:r` (attack) **Trigger** A creature or object moves into the shard's space.\n* * *\n\n**Effect** The triggering creature takes 2d6+5 piercing damage (DC 17 Reflex check save)."
 
 
   - name: "Reset"
     desc: "The hazard still damages any creature or object that enters its space, but the surface doesn't become hidden again until it settles over the course of 1 minute."
+```
+
+```encounter-table
+name: Submerged Shard
+creatures:
+  - 1: Submerged Shard
 ```
 

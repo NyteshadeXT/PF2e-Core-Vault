@@ -10,6 +10,7 @@ tags:
   - pf2e/creature/type/gnome
   - pf2e/creature/type/humanoid
   - pf2e/creature/type/spriggan
+  - pf2eMonster
   - pf2e/creature/level/3
 statblock: inline
 name: "Spriggan Bully"
@@ -28,11 +29,11 @@ level: "Creature 3"
 
 alignment: ""
 size: "Small"
-trait_01: "chaotic"
-trait_02: "evil"
-trait_03: "gnome"
-trait_04: "humanoid"
-trait_05: "spriggan"
+trait_01: [[chaotic]]
+trait_02: [[evil]]
+trait_03: [[gnome]]
+trait_04: [[humanoid]]
+trait_05: [[spriggan]]
 modifier: 10
 perception:
   - name: "Perception"
@@ -60,7 +61,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Enraged Growth"
-    desc: "`pf2:r` (polymorph,primal) **Trigger** The spriggan bully takes damage\n**Effect** The spriggan bully grows to Large size, along with their equipment (which returns to natural size if removed). The spriggan bully's reach increases by 5 feet. They regain 5 Hit Points and gain a +2 status bonus to melee attacks and damage rolls. This effect continues until the end of the spriggan bully's next turn, but on any turn in which the spriggan bully deals damage to another creature and is not [[Conditions/Fatigued|Fatigued]], the effect extends until the end of the following turn.\nWhen Enraged Growth ends, the spriggan bully is fatigued for 1 hour."
+    desc: "`pf2:r` (polymorph,primal) **Trigger** The spriggan bully takes damage\n* * *\n\n**Effect** The spriggan bully grows to Large size, along with their equipment (which returns to natural size if removed). The spriggan bully's reach increases by 5 feet. They regain 5 Hit Points and gain a +2 status bonus to melee attacks and damage rolls. This effect continues until the end of the spriggan bully's next turn, but on any turn in which the spriggan bully deals damage to another creature and is not [[Conditions/Fatigued|Fatigued]], the effect extends until the end of the following turn.\n\nWhen Enraged Growth ends, the spriggan bully is fatigued for 1 hour."
 
 attacks:
   - name: ""
@@ -80,6 +81,12 @@ attacks:
   - name: "[[Bestiary Ability Glossary/Sneak Attack|Sneak Attack]]"
     desc: "  The spriggan bully's Strikes deal an additional 1d6 precision damage to [[Conditions/Off-Guard|Off-Guard]] creatures."
  
+```
+
+```encounter-table
+name: Spriggan Bully
+creatures:
+  - 1: Spriggan Bully
 ```
 
 

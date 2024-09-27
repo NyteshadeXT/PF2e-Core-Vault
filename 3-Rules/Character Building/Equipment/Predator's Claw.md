@@ -29,5 +29,7 @@ license: ORC
 
 This claw set in an iron clasp and chain is usually that of a large predator. When you activate the claw, the triggering attack gains the weapon's critical specialization effect.
 
+[[Equipment Effects/Effect_ Predator's Claw|Effect: Predator's Claw]]
+
 *Source: Pathfinder GM Core*
 *ORC*

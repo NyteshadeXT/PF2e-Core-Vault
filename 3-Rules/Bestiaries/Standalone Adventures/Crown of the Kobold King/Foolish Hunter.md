@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.crown-of-the-kobold-king-bestiary.Actor.btIGNqj5SqOAKP
 tags:
   - pf2e/creature/type/human
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/-1
 statblock: inline
 name: "Foolish Hunter"
@@ -24,8 +25,8 @@ level: "Creature -1"
 
 alignment: ""
 size: "Medium"
-trait_01: "human"
-trait_02: "humanoid"
+trait_01: [[human]]
+trait_02: [[humanoid]]
 modifier: 8
 perception:
   - name: "Perception"
@@ -33,7 +34,7 @@ perception:
 languages: "Common"
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +5, Deception: +4, Hunting Lore: +4, Survival: +3"
+    desc: "Acrobatics: +4, Deception: +3, Survival: +2, Hunting Lore: +3"
 abilityMods: [1, 3, 1, 0, 1, 2]
 speed: 25 feet
 sourcebook: "_Pathfinder Adventure: Crown of the Kobold King_"
@@ -64,6 +65,12 @@ attacks:
   - name: "Ranged"
     desc: "`pf2:1` Shortbow +5 (deadly d10, range increment 60 feet, reload 0)\n__Damage__  1d6 piercing"
  
+```
+
+```encounter-table
+name: Foolish Hunter
+creatures:
+  - 1: Foolish Hunter
 ```
 
 

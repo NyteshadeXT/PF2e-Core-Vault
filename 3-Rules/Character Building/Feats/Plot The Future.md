@@ -1,6 +1,6 @@
 ---
 obsidianUIMode: preview
-title: "Plot The Future"
+title: "Plot the Future"
 cssclasses: pf2e,pf2e-spell
 tags:
   - trait/concentrate
@@ -8,10 +8,11 @@ tags:
   - trait/prediction
   - trait/uncommon
   - category/class
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.N7CM5CmHuZ1cylV9"
-license: OGL
+license: ORC
 ---
-# Plot The Future
+# Plot the Future
 ## Feat 14
 ### [uncommon](uncommon "Uncommon Rarity Trait")[[concentrate]][[investigator]][[prediction]]
 
@@ -24,5 +25,5 @@ You spend 10 minutes in contemplation to uncannily predict how events will play 
 
 The GM determines the likeliness of the event and the piece of advice you learn.
 
-*Source: Pathfinder Advanced Player's Guide*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

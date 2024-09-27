@@ -14,7 +14,7 @@ license: OGL
 ---
 # Fearweed
 ## Item 10
-### [uncommon](uncommon "Uncommon Rarity Trait")[[consumable]][[contact]][[divine]][[3-Rules/Rule References/Poison]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[consumable]][[contact]][[3-Rules/Rule References/Divine]][[3-Rules/Rule References/Poison]]
 
 **Category** poison; 
 **Price** 160 gp; 
@@ -23,7 +23,7 @@ license: OGL
 
 **Activate** `pf2:1` Interact
 
-Cultivated by mashing and fermenting toxic weeds found in lonely graveyards, fearweed is a greenish paste magically infused with psychic horror. The [[Conditions/Frightened 1|Frightened]] condition from fearweed can't be removed while the poison lasts.
+Cultivated by mashing and fermenting toxic weeds found in lonely graveyards, fearweed is a greenish paste magically infused with psychic horror. The [[Conditions/Frightened|Frightened]] condition from fearweed can't be removed while the poison lasts.
 
 * * *
 
@@ -35,9 +35,9 @@ Cultivated by mashing and fermenting toxic weeds found in lonely graveyards, fea
 
 **Stage 1** 7d6 poison damage and frightened 1 (1 minute)
 
-**Stage 2** 8d6 poison damage and [[Conditions/Frightened 1|Frightened 2]] (1 minute)
+**Stage 2** 8d6 poison damage and [[Conditions/Frightened|Frightened 2]] (1 minute)
 
-**Stage 3** 9d6 poison damage and [[Conditions/Frightened 1|Frightened 3]] (1 minute)
+**Stage 3** 9d6 poison damage and [[Conditions/Frightened|Frightened 3]] (1 minute)
 
 * * *
 

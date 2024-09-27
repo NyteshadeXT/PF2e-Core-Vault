@@ -10,6 +10,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/fiend
   - pf2e/creature/type/unholy
+  - pf2eMonster
   - pf2e/creature/level/5
 statblock: inline
 name: "Brimorak"
@@ -28,16 +29,16 @@ level: "Creature 5"
 
 alignment: ""
 size: "Small"
-trait_01: "chaotic"
-trait_02: "demon"
-trait_03: "evil"
-trait_04: "fiend"
-trait_05: "unholy"
+trait_01: [[chaotic]]
+trait_02: [[demon]]
+trait_03: [[evil]]
+trait_04: [[fiend]]
+trait_05: [[unholy]]
 modifier: 12
 perception:
   - name: "Perception"
     desc: "+12; Darkvision"
-languages: "Chthonian, Draconic, Empyrean, Pyric"
+languages: "Chthonian, Draconic, Empyrean, Pyric; telepathy 60 feet"
 skills:
   - name: "Skills"
     desc: "Acrobatics: +12, Deception: +11, Religion: +10, Stealth: +12"
@@ -83,14 +84,20 @@ attacks:
     desc: "_[[Spells/Demonic Pact|Abyssal Pact]]_"
 
   - name: "Breath Weapon"
-    desc: "`pf2:2` (divine,fire) The brimorak spits their boiling blood in a 20-foot line that deals 6d6 fire damage (DC 21 Reflex check save).\nThe brimorak can't use their Breath Weapon again for 1d4 rounds.\nThe ground within this area becomes slippery, with the effects of a [[Spells/Grease|Grease]] spell targeting an area until it's cleaned up or the brimorak is able to use their Breath Weapon again, whichever comes first."
+    desc: "`pf2:2` (divine,fire) The brimorak spits their boiling blood in a @Template[line|distance:20] that deals 6d6 fire damage (DC 21 Reflex check save).\n\nThe brimorak can't use their Breath Weapon again for 1d4 rounds.\n\nThe ground within this area becomes slippery, with the effects of a [[Spells/Grease|Grease]] spell targeting an area until it's cleaned up or the brimorak is able to use their Breath Weapon again, whichever comes first."
 
   - name: "Flaming Weapon"
-    desc: " (divine,fire) A brimorak's hooves and any weapon they wield burst into flame, dealing an extra 1d6 fire damage with each hit.\nIf they don't have a weapon, they can create a flaming sword of fire and steel (see flaming sword Strike in Melee entry above)."
+    desc: " (divine,fire) A brimorak's hooves and any weapon they wield burst into flame, dealing an extra 1d6 fire damage with each hit.\n\nIf they don't have a weapon, they can create a flaming sword of fire and steel (see flaming sword Strike in Melee entry above)."
 
   - name: "Fume"
-    desc: "`pf2:2` (divine,fire) The brimorak emits a cloud of thick black smoke in a 10-foot burst that remains in place for 1d4 rounds.\nAll creatures within the smoke become [[Conditions/Concealed|Concealed]], and all creatures outside the smoke become concealed to creatures within it. A creature that enters or begins its turn within the smoke it must succeed at a DC 21 Fortitude check save or become [[Conditions/Sickened 1|Sickened 1]] ([[Conditions/Sickened 1|Sickened 2]] on a critical failure)."
+    desc: "`pf2:2` (divine,fire) The brimorak emits a cloud of thick black smoke in a @Template[burst|distance:10] that remains in place for 1d4 rounds.\n\nAll creatures within the smoke become [[Conditions/Concealed|Concealed]], and all creatures outside the smoke become concealed to creatures within it. A creature that enters or begins its turn within the smoke it must succeed at a DC 21 Fortitude check save or become [[Conditions/Sickened|Sickened 1]] ([[Conditions/Sickened|Sickened 2]] on a critical failure)."
  
+```
+
+```encounter-table
+name: Brimorak
+creatures:
+  - 1: Brimorak
 ```
 
 

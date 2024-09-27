@@ -18,10 +18,6 @@ Monastic training has taught you martial arts and allowed you to hone your mind,
 
 You become trained in unarmed attacks and gain the [[Class Features/Powerful Fist|Powerful Fist]] class feature. You become trained in your choice of Acrobatics or Athletics; if you are already trained in both of these skills, you become trained in a skill of your choice. You become trained in monk class DC.
 
-* * *
-
-**Special** You can't select another dedication feat until you have gained two other feats from the monk archetype.
-
 ## [[Feats/Basic Kata|Basic Kata]] Feat 4
 
 **Prerequisites** Monk Dedication
@@ -64,9 +60,9 @@ You gain a +10-foot status bonus to your Speed when you're not wearing armor.
 
 * * *
 
-You gain the [[Actions/Flurry of Blows|Flurry of Blows]] action.
+You gain the [[Actions/Flurry of Blows|Flurry of Blows]] action. Your fists' power, however, exceeds your conditioning; once you use Flurry of Blows, you can't use it again for 1d4 rounds as your muscles recover.
 
-## [[Feats/Perfection's Path (Fortitude)|Perfection's Path (Fortitude)]]/[[Feats/Perfection's Path (Reflex)|Perfection's Path (Reflex)]]/[[Feats/Perfection's Path (Will)|Perfection's Path (Will)]] Feat 12
+## [[Feats/Perfection's Path|Perfection's Path]] Feat 12
 
 **Prerequisites** Monk Dedication; expert in at least one saving throw
 

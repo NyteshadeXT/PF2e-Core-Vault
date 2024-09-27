@@ -11,7 +11,7 @@ license: OGL
 ---
 # Ghost Lantern
 ## Item 12
-### [[3-Rules/Character Building/Spells/Light]][[magical]]
+### [[light]][[magical]]
 
 
 **Price** 1850 gp; 

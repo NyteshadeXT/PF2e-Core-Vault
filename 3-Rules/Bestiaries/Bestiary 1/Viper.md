@@ -6,6 +6,7 @@ cssClasses: pf2e
 aliases: "Compendium.pf2e.pathfinder-bestiary.Actor.lFlXmieuHTBIonhj" 
 tags:
   - pf2e/creature/type/animal
+  - pf2eMonster
   - pf2e/creature/level/-1
 statblock: inline
 name: "Viper"
@@ -24,14 +25,15 @@ level: "Creature -1"
 
 alignment: ""
 size: "tiny"
-trait_01: "animal"
+trait_01: [[animal]]
 modifier: 5
 perception:
   - name: "Perception"
     desc: "+5; Low-Light Vision, Scent (Imprecise) 30 Feet"
+languages: ""
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +5, Athletics: +1 (+4 to Climb), Stealth: +5, Survival: +3"
+    desc: "Acrobatics: +5, Athletics: +1, Stealth: +5, Survival: +3"
 abilityMods: [-3, 4, 0, -4, 1, -2]
 speed: 20 feet,  climb 20 feet,  swim 20 feet
 sourcebook: "_Pathfinder Bestiary_"
@@ -50,7 +52,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Slink"
-    desc: "`pf2:r`  **Trigger** A creature ends its movement adjacent to the viper or within the viper's space.\n**Effect** The viper Strides, Climbs, or Swims up to 10 feet (or up to the relevant Speed, if that Speed is less than 10 feet). It must end its movement in a location that isn't within 5 feet of a foe. This movement doesn't trigger reactions."
+    desc: "`pf2:r`  **Trigger** A creature ends its movement adjacent to the viper or within the viper's space.\n* * *\n\n**Effect** The viper Strides, Climbs, or Swims up to 10 feet (or up to the relevant Speed, if that Speed is less than 10 feet). It must end its movement in a location that isn't within 5 feet of a foe. This movement doesn't trigger reactions."
 
 attacks:
   - name: ""
@@ -59,8 +61,14 @@ attacks:
     desc: "`pf2:1` Fangs +8 (agile, finesse)\n__Damage__  1d8 - 3 piercing plus viper-venom"
 
   - name: "Viper Venom"
-    desc: " (poison) **Saving Throw** DC 16 Fortitude check\n**Maximum Duration** 4 rounds\n**Stage 1** 1d8 poison (1 round)."
+    desc: " (poison) **Saving Throw** DC 16 Fortitude check\n* * *\n\n**Maximum Duration** 4 rounds\n\n**Stage 1** 1d8 poison (1 round)."
  
+```
+
+```encounter-table
+name: Viper
+creatures:
+  - 1: Viper
 ```
 
 

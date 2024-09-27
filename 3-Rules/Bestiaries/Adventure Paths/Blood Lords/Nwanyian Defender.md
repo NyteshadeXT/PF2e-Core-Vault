@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/good
   - pf2e/creature/type/human
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/5
 statblock: inline
 name: "Nwanyian Defender"
@@ -22,12 +23,12 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #183: Field of Maidens"
 name: "Nwanyian Defender"
 level: "Creature 5"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Medium"
-trait_01: "good"
-trait_02: "human"
-trait_03: "humanoid"
+trait_01: [[good]]
+trait_02: [[human]]
+trait_03: [[humanoid]]
 modifier: 12
 perception:
   - name: "Perception"
@@ -72,6 +73,12 @@ attacks:
   - name: "Offensive Line"
     desc: "  The defender's Strikes deal an extra 1d6 damage when adjacent to an ally."
  
+```
+
+```encounter-table
+name: Nwanyian Defender
+creatures:
+  - 1: Nwanyian Defender
 ```
 
 

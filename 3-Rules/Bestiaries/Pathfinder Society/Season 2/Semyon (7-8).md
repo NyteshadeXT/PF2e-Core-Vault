@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.pfs-season-2-bestiary.Actor.8ZukoQpVoMcshX62"
 tags:
   - pf2e/creature/type/human
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/6
 statblock: inline
 name: "Semyon (7-8)"
@@ -21,11 +22,11 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Society Scenario #2-08: A Frosty Mug"
 name: "Semyon (7-8)"
 level: "Creature 6"
-rare_03: "Rare"
+rare_03: [[Rare]]
 alignment: ""
 size: "Medium"
-trait_01: "human"
-trait_02: "humanoid"
+trait_01: [[human]]
+trait_02: [[humanoid]]
 modifier: 14
 perception:
   - name: "Perception"
@@ -62,7 +63,7 @@ attacks:
     desc: "`pf2:1` Composite Longbow +15 (deadly d10, propulsive, range increment 100 feet, volley 30 ft.)\n__Damage__  1d8 + 2 piercing 2d6 fire"
 
   - name: "Davai!"
-    desc: "`pf2:1`  Semyon orders his troops to fire, selecting a single target he can see. All allies that can hear or see him gain a +1 status bonus to attack and damage rolls against that creature until the beginning of Semyon's next turn. (Note: The Guiding Words effect provides this bonus)\n[[Bestiary Effects/Effect_ Guiding Words|Effect: Davai!]]"
+    desc: "`pf2:1`  Semyon orders his troops to fire, selecting a single target he can see. All allies that can hear or see him gain a +1 status bonus to attack and damage rolls against that creature until the beginning of Semyon's next turn. (Note: The Guiding Words effect provides this bonus)\n\n[[Bestiary Effects/Effect_ Guiding Words|Effect: Davai!]]"
 
   - name: "Gunpowder Mastery"
     desc: "  With their rifles' firing ability ruined beyond repair, the soldiers put their gunpowder reserves to use, making explosive arrows and rigging their guns to let off sparks on each successful bayonet Strike. On a critical hit with the bayonet, the target catches fire, taking 2d4 persistent fire damage (DC 24 Reflex check negates)."
@@ -70,6 +71,12 @@ attacks:
   - name: "Trench Fighter"
     desc: "  The Russian soldiers have trained extensively to make good use of cover. They receive a +5 circumstance bonus to AC from greater cover and a +3 circumstance bonus from standard cover, rather than +4 and +2, respectively"
  
+```
+
+```encounter-table
+name: Semyon (7-8)
+creatures:
+  - 1: Semyon (7-8)
 ```
 
 

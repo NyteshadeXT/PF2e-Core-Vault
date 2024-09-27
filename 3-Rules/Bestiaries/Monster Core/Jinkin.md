@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.pathfinder-monster-core.Actor.lFDYJOIp2knQ0IRY"
 tags:
   - pf2e/creature/type/fey
   - pf2e/creature/type/gremlin
+  - pf2eMonster
   - pf2e/creature/level/1
   - remaster
 statblock: inline
@@ -26,8 +27,8 @@ level: "Creature 1"
 
 alignment: ""
 size: "tiny"
-trait_01: "fey"
-trait_02: "gremlin"
+trait_01: [[fey]]
+trait_02: [[gremlin]]
 modifier: 7
 perception:
   - name: "Perception"
@@ -35,7 +36,7 @@ perception:
 languages: "Sakvroth"
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +7, Crafting: +5 (+7 traps), Deception: +5, Nature: +5, Stealth: +7, Thievery: +7"
+    desc: "Acrobatics: +7, Crafting: +5, Deception: +5, Nature: +5, Stealth: +7, Thievery: +7"
 abilityMods: [-2, 4, 0, 2, 2, 2]
 speed: 30 feet
 sourcebook: "_Pathfinder Monster Core_"
@@ -69,6 +70,12 @@ attacks:
   - name: "Tinker"
     desc: " (curse,primal) A group of six jinkins can work together for an hour to imbue an item with a curse at a range of 60 feet. While this process is lengthy, it's also unobtrusive and can be performed while [[Actions/Hide|Hiding]]. Jinkins prefer to use this ability on magic items. The curse makes the item unreliable (DC 5 Flat check check or waste any action to Interact with or Activate the item), adds a bizarre requirement to use the item, or imparts some other curse of a similar caliber."
  
+```
+
+```encounter-table
+name: Jinkin
+creatures:
+  - 1: Jinkin
 ```
 
 

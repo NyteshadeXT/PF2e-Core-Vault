@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.pathfinder-bestiary-3.Actor.cmzlnTgWcJjnISAK"
 tags:
   - pf2e/creature/type/beast
   - pf2e/creature/type/evil
+  - pf2eMonster
   - pf2e/creature/level/12
 statblock: inline
 name: "Kokogiak"
@@ -25,8 +26,8 @@ level: "Creature 12"
 
 alignment: ""
 size: "huge"
-trait_01: "beast"
-trait_02: "evil"
+trait_01: [[beast]]
+trait_02: [[evil]]
 modifier: 25
 perception:
   - name: "Perception"
@@ -34,7 +35,7 @@ perception:
 languages: "Common, Thalassic"
 skills:
   - name: "Skills"
-    desc: "Athletics: +27, Deception: +23, Stealth: +21 (+25 in Snow), Survival: +21"
+    desc: "Athletics: +27, Deception: +23, Stealth: +21, Survival: +21"
 abilityMods: [7, 5, 7, 1, 5, 5]
 speed: 40 feet,  swim 20 feet
 sourcebook: "_Pathfinder Bestiary 3_"
@@ -74,11 +75,17 @@ attacks:
     desc: "  The kokogiak's Strikes deal an additional 2d6 precision damage to [[Conditions/Off-Guard|Off-Guard]] creatures."
 
   - name: "Tormented Snarl"
-    desc: "`pf2:2` (auditory,illusion,mental,primal) Using their voice imitation abilities, a kokogiak emits the horrific wails of its former victims. Each creature within 120 feet takes 4d6 mental damage and must attempt a DC 32 Will check save.\nA creature frightened by this ability is [[Conditions/Off-Guard|Off-Guard]] to the kokogiak.\n**Critical Success** The creature is unaffected and is temporarily immune for 1 minute.\n**Success** The creature takes half damage and becomes [[Conditions/Frightened 1|Frightened 1]].\n**Failure** The creature takes full damage and becomes [[Conditions/Frightened 1|Frightened 2]].\n**Critical Failure** The creature takes double damage, becomes [[Conditions/Frightened 1|Frightened 3]], and is [[Conditions/Fleeing|Fleeing]] until the end of its next turn."
+    desc: "`pf2:2` (auditory,illusion,mental,primal) Using their voice imitation abilities, a kokogiak emits the horrific wails of its former victims. Each creature within 120 feet takes 4d6 mental damage and must attempt a DC 32 Will check save.\n\nA creature frightened by this ability is [[Conditions/Off-Guard|Off-Guard]] to the kokogiak.\n* * *\n\n**Critical Success** The creature is unaffected and is temporarily immune for 1 minute.\n\n**Success** The creature takes half damage and becomes [[Conditions/Frightened|Frightened 1]].\n\n**Failure** The creature takes full damage and becomes [[Conditions/Frightened|Frightened 2]].\n\n**Critical Failure** The creature takes double damage, becomes [[Conditions/Frightened|Frightened 3]], and is [[Conditions/Fleeing|Fleeing]] until the end of its next turn."
 
   - name: "Trackless Step"
     desc: "  The kokogiak always gains the benefits of [[Actions/Cover Tracks|Cover Tracks]] in natural surroundings, even while moving at full speed."
  
+```
+
+```encounter-table
+name: Kokogiak
+creatures:
+  - 1: Kokogiak
 ```
 
 

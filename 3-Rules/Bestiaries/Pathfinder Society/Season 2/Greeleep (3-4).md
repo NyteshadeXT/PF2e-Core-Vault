@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/humanoid
   - pf2e/creature/type/kobold
+  - pf2eMonster
   - pf2e/creature/level/3
 statblock: inline
 name: "Greeleep (3-4)"
@@ -23,13 +24,13 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Society Scenario #2-12: Snakes in the Grass"
 name: "Greeleep (3-4)"
 level: "Creature 3"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Small"
-trait_01: "chaotic"
-trait_02: "evil"
-trait_03: "humanoid"
-trait_04: "kobold"
+trait_01: [[chaotic]]
+trait_02: [[evil]]
+trait_03: [[humanoid]]
+trait_04: [[kobold]]
 modifier: 8
 perception:
   - name: "Perception"
@@ -37,7 +38,7 @@ perception:
 languages: "Common, Draconic"
 skills:
   - name: "Skills"
-    desc: "Arcana: +10, Crafting: +10, Deception: +5, Dragon Lore: +10, Nature: +11"
+    desc: "Arcana: +10, Crafting: +10, Deception: +5, Nature: +11, Dragon Lore: +10"
 abilityMods: [2, 3, 2, 4, 3, -1]
 speed: 25 feet
 sourcebook: "_Pathfinder Society Scenario #2-12: Snakes in the Grass_"
@@ -68,6 +69,12 @@ attacks:
   - name: "Spontaneous Primal Spells"
     desc: "DC 18, attack +10; __2nd __ (3 slots) _[[Spells/Environmental Endurance|Endure Elements]]_, _[[Spells/Enlarge|Enlarge]]_, _[[Spells/Entangling Flora|Entangle]]_; __1st __ (3 slots) _[[Spells/Fear|Fear]]_, _[[Spells/Fleet Step|Fleet Step]]_, _[[Spells/Hydraulic Push|Hydraulic Push]]_\n__Cantrips__  __(2nd)__ _[[Spells/Detect Magic|Detect Magic]]_, _[[Spells/Electric Arc|Electric Arc]]_, _[[Spells/Produce Flame|Produce Flame]]_, _[[Spells/Ray of Frost|Ray of Frost]]_, _[[Spells/Stabilize|Stabilize]]_"
  
+```
+
+```encounter-table
+name: Greeleep (3-4)
+creatures:
+  - 1: Greeleep (3-4)
 ```
 
 

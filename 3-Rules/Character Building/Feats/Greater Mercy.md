@@ -6,8 +6,9 @@ tags:
   - trait/champion
   - trait/common
   - category/class
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.kZdcoaTD849QalR9"
-license: OGL
+license: ORC
 ---
 # Greater Mercy
 ## Feat 8
@@ -19,9 +20,13 @@ license: OGL
 
 **Prerequisites** Mercy
 * * *
-Your faith enhances your ability to remove conditions.
+Your faith enhances your ability to remove conditions. Add the following options to the list of conditions you can counteract for any type of mercy you can grant.
 
-When you use [[Feats/Mercy|Mercy]], you can instead attempt to counteract the [[Conditions/Blinded|Blinded]], [[Conditions/Deafened|Deafened]], [[Conditions/Sickened 1|Sickened]], or [[Conditions/Slowed 1|Slowed]] conditions.
+*   **Mercy of the Body** [[Conditions/Drained|Drained]], [[Conditions/Slowed|Slowed]]; if you're 16th level, add [[Conditions/Stunned|Stunned]]
+    
+*   **Mercy of Grace** [[Conditions/Immobilized|Immobilized]], [[Conditions/Restrained|Restrained]], [[Conditions/Slowed|Slowed]]; if you're 12th level, add [[Conditions/Petrified|Petrified]]; if you're 16th level, add [[Conditions/Stunned|Stunned]]
+    
+*   **Mercy of the Mind** [[Conditions/Confused|Confused]], [[Conditions/Controlled|Controlled]], [[Conditions/Slowed|Slowed]]; if you're 16th level, add [[Conditions/Doomed|Doomed]] and [[Conditions/Stunned|Stunned]].
 
-*Source: Pathfinder Core Rulebook*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

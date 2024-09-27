@@ -8,17 +8,17 @@ tags:
 ---
 
 # Ritualist
-While some learn the art of ritual casting through rigorous study, other gifted individuals may find that a combination of natural talent and luck gives them surprising skill at performing rituals, whether they want that power or not.
+While some learn the art of ritual casting through rigorous study, other gifted individuals may find that a combination of natural talent and luck grants them surprising skill at performing rituals, whether they want that power or not. Undertaking rituals always carries an element of risk, but the potential rewards are undeniable and difficult to resist. You have learned how to perform rituals and can decide how to best use their powerful benefits.
 
-## [[Feats/Ritualist Dedication|Ritualist Dedication]] Feat 2
+## [[Feats/Ritualist Dedication|Ritualist Dedication]] Feat 4
 
 **Prerequisites** expert in Arcana, Nature, Occultism, or Religion
 
 * * *
 
-You have begun to master the difficult art of casting rituals. You gain a +2 circumstance bonus to all primary checks to perform a ritual. You learn two uncommon rituals with a level no higher than half your level; you must meet all prerequisites for casting the ritual to choose it. At 8th level and every 4 levels thereafter, you learn another uncommon ritual with a level no higher than half your level and for which you meet the prerequisites. You can cast these as the primary caster, but you can't teach them to anyone else or allow someone else to serve as primary caster unless they know the ritual as well.
+You have begun to master the difficult art of casting rituals. You gain a +2 circumstance bonus to all checks to perform a ritual. You learn two uncommon rituals of 2nd rank or lower. You must meet all prerequisites to be the primary caster of a ritual to select it, and you can't teach it to anyone else or allow someone else to serve as primary caster unless they know the ritual as well.
 
-**Special** You can't select another dedication feat until you have gained two other feats from the Ritualist archetype. If you retrain out of this feat, you lose the rituals learned from it.
+At 8th level and every 4 levels thereafter, you learn two more rituals with the same restrictions and with a maximum rank of half that level.
 
 ## [[Feats/Flexible Ritualist|Flexible Ritualist]] Feat 6
 
@@ -42,7 +42,9 @@ You can cast difficult rituals that might otherwise be just beyond your skill. Y
 
 * * *
 
-You can perform some rituals in less time. If the ritual normally requires 1 day to cast, you can cast it in 4 hours. If it takes longer than 1 day, you cast it in half the number of days, rounded up.
+You can perform particularly extensive rituals in less time. If the ritual normally requires 1 day to cast, you can cast it in 4 hours. If it takes longer than 1 day, you cast it in half the number of days, rounded up.
+
+At 14th level, if a ritual has a casting time measured in days, you can cast it in an equal number of hours. If this results in a ritual longer than 8 hours, you split the ritual between multiple days, as normal for a ritual.
 
 ## [[Feats/Assured Ritualist|Assured Ritualist]] Feat 10
 
@@ -50,12 +52,12 @@ You can perform some rituals in less time. If the ritual normally requires 1 day
 
 * * *
 
-You can cover for a secondary caster's error. If you are the primary caster, after rolling all the secondary checks, choose one check on which the secondary caster rolled a failure or critical failure, and treat the result as one degree of success better.
+You can cover for a secondary caster's error. If you are the primary caster, after all the secondary checks are rolled, you can choose one check that was a failure or critical failure, and improve the result to one degree of success better than what the secondary caster rolled.
 
-## [[Feats/Speedy Rituals|Speedy Rituals]] Feat 14
+## [[Feats/Enterprising Ritualist|Enterprising Ritualist]] Feat 14
 
-**Prerequisites** Efficient Rituals
+**Prerequisites** Ritualist Dedication
 
 * * *
 
-You can perform rituals in only a fraction of the usual time. If a ritual has a casting time measured in days, you can cast it in an equal number of hours. If this results in a ritual longer than 8 hours, you split the ritual between multiple days, as normal for a ritual.
+Elegant and expensive components are no replacement for your skill and practice at ritual casting. If a ritual has a Cost entry that has a value in gp, reduce the amount you need to spend by 10%. If you critically succeed at the primary check for a ritual, the gp value of components the ritual consumes is reduced by the same amount. For example, using resurrect to bring back a 14th-level creature normally costs 1,050 gp, but would cost you only 945 gp; and if you critically succeeded at the primary Religion check, you would spend only 840 gp.

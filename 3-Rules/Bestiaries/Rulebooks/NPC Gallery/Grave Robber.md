@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/holy
   - pf2e/creature/type/human
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/1
 statblock: inline
 name: "Grave Robber"
@@ -26,10 +27,10 @@ level: "Creature 1"
 
 alignment: ""
 size: "Medium"
-trait_01: "evil"
-trait_02: "holy"
-trait_03: "human"
-trait_04: "humanoid"
+trait_01: [[evil]]
+trait_02: [[holy]]
+trait_03: [[human]]
+trait_04: [[humanoid]]
 modifier: 5
 perception:
   - name: "Perception"
@@ -53,9 +54,9 @@ health:
 abilities_top:
   - name: ""
   - name: "Items"
-    desc: "[[Equipment/Dagger|Dagger]], [[Equipment/Light Hammer|Shovel]], 2x [[Equipment/Bottled Lightning (Lesser)|Bottled Lightning (Lesser) (Infused)]], [[Equipment/Frost Vial (Lesser)|Frost Vial (Lesser) (Infused)]], [[Equipment/Thunderstone (Lesser)|Thunderstone (Lesser) (Infused)]], [[Equipment/Holy Water|Holy Water]], [[Equipment/Studded Leather Armor|Studded Leather Armor]], [[Equipment/Alchemist's Toolkit|Alchemist's Tools]], [[Equipment/Formula Book (Blank)|Formula Book]]"
+    desc: "[[Equipment/Dagger|Dagger]], [[Equipment/Light Hammer|Shovel]], 2x [[Equipment/Bottled Lightning (Lesser)|Bottled Lightning (Lesser) (Infused)]], [[Equipment/Frost Vial (Lesser)|Frost Vial (Lesser) (Infused)]], [[Equipment/Blasting Stone (Lesser)|Thunderstone (Lesser) (Infused)]], [[Equipment/Holy Water|Holy Water]], [[Equipment/Studded Leather Armor|Studded Leather Armor]], [[Equipment/Alchemist's Toolkit|Alchemist's Tools]], [[Equipment/Formula Book (Blank)|Formula Book]]"
   - name: "Infused Items"
-    desc: "  A grave robber carries the following infused items: 2 [[Equipment/Bottled Lightning (Lesser)|Bottled Lightning (Lesser)]], a [[Equipment/Frost Vial (Lesser)|Frost Vial (Lesser)]], and a [[Equipment/Thunderstone (Lesser)|Thunderstone (Lesser)]].\nThese items last for 24 hours, or until the next time the grave robber makes their daily preparations."
+    desc: "  A grave robber carries the following infused items: 2 [[Equipment/Bottled Lightning (Lesser)|Bottled Lightning (Lesser)]], a [[Equipment/Frost Vial (Lesser)|Frost Vial (Lesser)]], and a [[Equipment/Blasting Stone (Lesser)|Thunderstone (Lesser)]].\n\nThese items last for 24 hours, or until the next time the grave robber makes their daily preparations."
 
 abilities_mid:
   - name: ""
@@ -66,6 +67,9 @@ attacks:
     desc: "`pf2:1` Shovel +6 ()\n__Damage__  1d6 + 1 bludgeoning"
 
   - name: "Ranged"
+    desc: "`pf2:1` Holy Water +7 (consumable, holy, splash, thrown 20 ft.)\n__Damage__  1d6 spirit 1 spirit"
+
+  - name: "Ranged"
     desc: "`pf2:1` Bottled Lightning +7 (alchemical, bomb, consumable, electricity, range increment 20 feet, splash)\n__Damage__  1d6 electricity 1 electricity"
 
   - name: "Ranged"
@@ -73,10 +77,13 @@ attacks:
 
   - name: "Ranged"
     desc: "`pf2:1` Frost Vial +7 (alchemical, bomb, cold, consumable, range increment 20 feet, splash)\n__Damage__  1d6 cold 1 cold"
-
-  - name: "Ranged"
-    desc: "`pf2:1` Holy Water +7 (consumable, holy, splash, thrown 20 ft.)\n__Damage__  1d6 spirit 1 spirit"
  
+```
+
+```encounter-table
+name: Grave Robber
+creatures:
+  - 1: Grave Robber
 ```
 
 

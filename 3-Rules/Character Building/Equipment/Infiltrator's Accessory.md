@@ -7,15 +7,17 @@ tags:
   - trait/agile
   - trait/concealable
   - trait/finesse
+  - trait/illusion
   - trait/magical
   - trait/common
   - category/martial
+  - remaster
 aliases: "Compendium.pf2e.equipment-srd.Item.AYdpUABAZeZnSA7s"
-license: OGL
+license: ORC
 ---
 # Infiltrator's Accessory
 ## Item 5
-### [[agile]][[concealable]][[finesse]][[magical]]
+### [[agile]][[concealable]][[finesse]][[illusion]][[magical]]
 
 |  |  |
 | -- | -- |
@@ -26,13 +28,13 @@ license: OGL
 
 
 
-This elegant +1 striking sword cane serves equally well as a fashionable accessory and hidden weapon suitable for high-society events where weapons aren't typically permitted.
+This elegant _+1 striking sword cane_ serves equally well as a fashionable accessory and hidden weapon suitable for high-society events where weapons aren't typically permitted.
 
-**Activate** `pf2:1` Interact
+**Activate-Hide Magic** `pf2:1` (manipulate)
 
 * * *
 
-**Effect** You twist the sword cane's hilt, magically merging the blade into the cane. While the blade is merged, it can't be drawn and gains the benefits of a 3rd-rank magic aura spell to appear non-magical. Passive observers can't attempt a check to notice the cane is anything more than a mundane, if superb, fashion accessory. Those carefully examining it can discern the cane is more than it appears, but doing so is extremely difficult (DC 30 Perception check). Activating the sword cane again releases the blade, allowing it to be drawn normally.
+**Effect** You twist the sword cane's hilt, magically merging the blade into the cane. While the blade is merged, it can't be drawn and gains the benefits of a 3rd-rank [[Spells/Disguise Magic|Disguise Magic]] spell to appear non-magical. Passive observers can't attempt a check to notice the cane is anything more than a mundane, if superb, fashion accessory. Those carefully examining it can discern the cane is more than it appears, but doing so is extremely difficult (DC 30 Perception check). Activating the sword cane again releases the blade, allowing it to be drawn normally.
 
-*Source: Pathfinder Advanced Player's Guide*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

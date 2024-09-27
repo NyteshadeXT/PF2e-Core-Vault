@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/chaotic
   - pf2e/creature/type/incorporeal
   - pf2e/creature/type/protean
+  - pf2eMonster
   - pf2e/creature/level/16
 statblock: inline
 name: "Blune&#x27;s Illusory Toady"
@@ -22,12 +23,12 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #162: Ruins of the Radiant Siege"
 name: "Blune's Illusory Toady"
 level: "Creature 16"
-rare_03: "Rare"
+rare_03: [[Rare]]
 alignment: ""
 size: "Medium"
-trait_01: "chaotic"
-trait_02: "incorporeal"
-trait_03: "protean"
+trait_01: [[chaotic]]
+trait_02: [[incorporeal]]
+trait_03: [[protean]]
 modifier: 27
 perception:
   - name: "Perception"
@@ -57,7 +58,7 @@ abilities_mid:
     desc: "`pf2:r`  "
 
   - name: "Ferocious Devotion"
-    desc: " (arcane) When an illusory toady is destroyed, it dissolves into a puddle of cerulean quintessence before reforming to quasi-life once more. One round after it is destroyed, the toady starts re-forming. One round after that, the toady is completely healed and begins to fight once more.\nIf damaged while it is re-forming but before the process is complete, the toady is destroyed but splits into two cerulean puddles that begin re-forming into two identical toadies 1 round later, each with half the maximum HP of the original toady (this is similar to an [[Bestiary 1/Ochre Jelly|Ochre Jelly's]] Split ability); the toadies begin re-forming 1 round later.\nThe toadies are permanently destroyed only by [[Spells/Disjunction|Disjunction]] or if [[Agents of Edgewatch/Blune Bandersworth|Blune]] falls unconscious."
+    desc: " (arcane) When an illusory toady is destroyed, it dissolves into a puddle of cerulean quintessence before reforming to quasi-life once more. One round after it is destroyed, the toady starts re-forming. One round after that, the toady is completely healed and begins to fight once more.\n\nIf damaged while it is re-forming but before the process is complete, the toady is destroyed but splits into two cerulean puddles that begin re-forming into two identical toadies 1 round later, each with half the maximum HP of the original toady (this is similar to an [[Bestiary 1/Ochre Jelly|Ochre Jelly's]] Split ability); the toadies begin re-forming 1 round later.\n\nThe toadies are permanently destroyed only by [[Spells/Disjunction|Disjunction]] or if [[Agents of Edgewatch/Blune Bandersworth|Blune]] falls unconscious."
 
 attacks:
   - name: ""
@@ -69,8 +70,14 @@ attacks:
     desc: "DC 36, attack +28; __6th __ (1 slots) _[[Spells/Heroism|Heroism]]_; __5th __ (3 slots) _[[Spells/Force Barrage|Magic Missile (At Will)]]_, _[[Spells/Share Life|Shield Other]]_, _[[Spells/Telekinetic Haul|Telekinetic Haul]]_\n__Cantrips__  __(5th)__ _[[Spells/Guidance|Guidance]]_"
 
   - name: "Amplify Spell"
-    desc: "`pf2:3` (arcane) The toady wills itself to become a conduit for Blune's next spell, empowering the spell.\nThe toady becomes [[Conditions/Immobilized|Immobilized]] until the beginning of its next turn.\nIf Blune Bandersworth is within 30 feet and Casts a Spell before the toady's next turn, the spell travels through the toady before redirecting toward its intended target.\nThe spell is heightened by 1 rank, to a maximum of 10th rank. The toady is then destroyed."
+    desc: "`pf2:3` (arcane) The toady wills itself to become a conduit for Blune's next spell, empowering the spell.\n\nThe toady becomes [[Conditions/Immobilized|Immobilized]] until the beginning of its next turn.\n\nIf Blune Bandersworth is within 30 feet and Casts a Spell before the toady's next turn, the spell travels through the toady before redirecting toward its intended target.\n\nThe spell is heightened by 1 rank, to a maximum of 10th rank. The toady is then destroyed."
  
+```
+
+```encounter-table
+name: Blune's Illusory Toady
+creatures:
+  - 1: Blune's Illusory Toady
 ```
 
 

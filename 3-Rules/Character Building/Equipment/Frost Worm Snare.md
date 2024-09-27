@@ -16,7 +16,7 @@ license: OGL
 ---
 # Frost Worm Snare
 ## Item 9
-### [uncommon](uncommon "Uncommon Rarity Trait")[[clockwork]][[3-Rules/Rule References/Cold]][[consumable]][[mechanical]][[snare]][[trap]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[clockwork]][[3-Rules/Rule References/Cold]][[consumable]][[mechanical]][[snare]][[trap]]
 
 **Category** snare; 
 **Price** 115 gp; 

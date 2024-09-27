@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/human
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/12
 statblock: inline
 name: "Ivarsa"
@@ -23,13 +24,13 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #177: Burning Tundra"
 name: "Ivarsa"
 level: "Creature 12"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Medium"
-trait_01: "chaotic"
-trait_02: "evil"
-trait_03: "human"
-trait_04: "humanoid"
+trait_01: [[chaotic]]
+trait_02: [[evil]]
+trait_03: [[human]]
+trait_04: [[humanoid]]
 modifier: 21
 perception:
   - name: "Perception"
@@ -57,10 +58,10 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Attack of Opportunity"
-    desc: "  \[reaction\]"
+    desc: "  `pf2:r`"
 
   - name: "Capture Magic"
-    desc: "`pf2:r`  **Trigger** Ivarsa succeeds at a save against a foe's harmful spell, or a foe fails a spell attack roll against her with a harmful spell\n**Effect** Ivarsa enters her Arcane Cascade. If she's already in Arcane Cascade, she gains a +2 status bonus to damage from Arcane Cascade until the end of her next turn."
+    desc: "`pf2:r`  **Trigger** Ivarsa succeeds at a save against a foe's harmful spell, or a foe fails a spell attack roll against her with a harmful spell\n* * *\n\n**Effect** Ivarsa enters her Arcane Cascade. If she's already in Arcane Cascade, she gains a +2 status bonus to damage from Arcane Cascade until the end of her next turn."
 
 attacks:
   - name: ""
@@ -75,7 +76,7 @@ attacks:
     desc: "1 Focus Point, DC 32, attack +24; __6th __  _[[Spells/Thunderous Strike|Thunderous Strike]]_"
 
   - name: "[[Actions/Arcane Cascade|Arcane Cascade]]"
-    desc: "`pf2:1` (concentrate,magus,stance) **Requirements** Ivarsa can enter this stance only if her most recent action was to [[Actions/Cast a Spell|Cast a Spell]] or make a Spellstrike, but she can remain in the stance even if she no longer meets the requirements\n**Effect** When she enters this stance and at the beginning of each of her turns while she's in it, Ivarsa gains 6 temporary Hit Points. While in this stance, Ivarsa's melee Strikes gain the arcane trait, deal 2 extra fire damage, and deal 4 splash fire damage to foes adjacent to her target."
+    desc: "`pf2:1` (concentrate,magus,stance) **Requirements** Ivarsa can enter this stance only if her most recent action was to [[Actions/Cast a Spell|Cast a Spell]] or make a Spellstrike, but she can remain in the stance even if she no longer meets the requirements\n* * *\n\n**Effect** When she enters this stance and at the beginning of each of her turns while she's in it, Ivarsa gains 6 temporary Hit Points. While in this stance, Ivarsa's melee Strikes gain the arcane trait, deal 2 extra fire damage, and deal 4 splash fire damage to foes adjacent to her target."
 
   - name: "Companion Bond"
     desc: "  When Ivarsa uses a teleportation effect while she's riding a mount, the mount teleports with her."
@@ -83,6 +84,12 @@ attacks:
   - name: "[[Actions/Spellstrike|Spellstrike]]"
     desc: "`pf2:2` (magus) Ivarsa channels a spell into a punch or axe swing to deliver a magically charged attack. She casts [[Spells/Produce Flame|Produce Flame]] or [[Spells/Ray of Frost|Ray of Frost]]. The effects of the spell don't occur immediately but are imbued into her attack instead. She makes a melee Strike with a weapon or unarmed attack, which gains the arcane trait. Her spell is coupled with the attack, using her attack roll to determine the effects of both the Strike and the spell. This counts as two attacks for her multiple attack penalty, but the penalty isn't applied until after she has completed the Spellstrike. After she uses Spellstrike, Ivarsa can't do so again until she recharges this ability as a single action, which has the concentrate trait. She also recharges her Spellstrike when she casts thunderous strike."
  
+```
+
+```encounter-table
+name: Ivarsa
+creatures:
+  - 1: Ivarsa
 ```
 
 

@@ -10,6 +10,7 @@ tags:
   - pf2e/creature/type/swarm
   - pf2e/creature/type/undead
   - pf2e/creature/type/unholy
+  - pf2eMonster
   - pf2e/creature/level/11
 statblock: inline
 name: "Elite Clacking Skull Swarm"
@@ -24,18 +25,19 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Society Scenario #4-15: In Glorious Battle"
 name: "Elite Clacking Skull Swarm"
 level: "Creature 11"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Large"
-trait_01: "evil"
-trait_02: "mindless"
-trait_03: "swarm"
-trait_04: "undead"
-trait_05: "unholy"
+trait_01: [[evil]]
+trait_02: [[mindless]]
+trait_03: [[swarm]]
+trait_04: [[undead]]
+trait_05: [[unholy]]
 modifier: 20
 perception:
   - name: "Perception"
     desc: "+20; Darkvision"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Acrobatics: +21"
@@ -57,7 +59,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Boneshard Burst"
-    desc: "  When a clacking skull swarm is reduced to 0 Hit Points, it erupts in an explosion of foul energy and bone fragments in a 30-foot burst, dealing 2d12+2 piercing damage and 2d12+2 void damage (DC 31 Reflex check save)."
+    desc: "  When a clacking skull swarm is reduced to 0 Hit Points, it erupts in an explosion of foul energy and bone fragments in a @Template[burst|distance:30], dealing 2d12+2 piercing damage and 2d12+2 void damage (DC 31 Reflex check save)."
 
   - name: "Chattering Teeth"
     desc: " (arcane,auditory,aura,emotion,incapacitation,mental) 60 feet. A clacking skull swarm emits a cacophony of chattering. A creature entering or beginning its turn within the area must succeed at a DC 31 Will check save or become [[Conditions/Confused|Confused]] for 1 round. A creature that successfully saves is immune to that swarm's chattering teeth for 24 hours. The swarm can stop or resume this ability as a free action."
@@ -66,11 +68,17 @@ attacks:
   - name: ""
 
   - name: "Shrieking Scream"
-    desc: "`pf2:2` (auditory,emotion,fear,mental) The clacking skull swarm emits a terrifying, painful scream that deals 10d6 + 4 sonic damage to all creatures in a 30-foot cone (DC 31 Will check save). A creature that fails this save is also [[Conditions/Frightened 1|Frightened 1]] ([[Conditions/Frightened 1|Frightened 2]] on a critical failure).\nThe swarm can't use Frightening Scream again for 1d4 rounds."
+    desc: "`pf2:2` (auditory,emotion,fear,mental) The clacking skull swarm emits a terrifying, painful scream that deals 10d6+4 sonic damage to all creatures in a @Template[cone|distance:30] (DC 31 Will check save). A creature that fails this save is also [[Conditions/Frightened|Frightened 1]] ([[Conditions/Frightened|Frightened 2]] on a critical failure).\n\nThe swarm can't use Frightening Scream again for 1d4 rounds."
 
   - name: "Swarming Gnaw"
-    desc: "`pf2:1`  Each enemy in the swarm's space takes 4d8 + 2 piercing damage (DC 31 Reflex check save)."
+    desc: "`pf2:1`  Each enemy in the swarm's space takes 4d8+2 piercing damage (DC 31 Reflex check save)."
  
+```
+
+```encounter-table
+name: Elite Clacking Skull Swarm
+creatures:
+  - 1: Elite Clacking Skull Swarm
 ```
 
 

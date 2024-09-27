@@ -11,7 +11,7 @@ license: OGL
 ---
 # Cloak of Thirsty Fronds
 ## Item 7
-### [rare](rare "Rare Rarity Trait")[[invested]][[primal]]
+### [rare](rare.md "Rare Rarity Trait")[[invested]][[primal]]
 
 
 **Price** 330 gp; 

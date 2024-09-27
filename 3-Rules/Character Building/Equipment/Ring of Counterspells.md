@@ -30,7 +30,7 @@ When you invest a _ring of counterspells_, you immediately know the name and ran
 
 * * *
 
-**Effect** You can attempt to counteract the triggering spell, using the rank of the spell stored in the ring and a counteract modifier of 1d20 + 19. Once you do, the stored spell's energy is spent, and the ring is empty.
+**Effect** You can attempt to counteract the triggering spell, using the rank of the spell stored in the ring and a counteract modifier of 1d20+19. Once you do, the stored spell's energy is spent, and the ring is empty.
 
 * * *
 

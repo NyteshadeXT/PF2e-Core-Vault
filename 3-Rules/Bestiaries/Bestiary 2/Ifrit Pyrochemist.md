@@ -10,6 +10,7 @@ tags:
   - pf2e/creature/type/humanoid
   - pf2e/creature/type/lawful
   - pf2e/creature/type/naari
+  - pf2eMonster
   - pf2e/creature/level/1
 statblock: inline
 name: "Ifrit Pyrochemist"
@@ -28,11 +29,11 @@ level: "Creature 1"
 
 alignment: ""
 size: "Medium"
-trait_01: "evil"
-trait_02: "human"
-trait_03: "humanoid"
-trait_04: "lawful"
-trait_05: "naari"
+trait_01: [[evil]]
+trait_02: [[human]]
+trait_03: [[humanoid]]
+trait_04: [[lawful]]
+trait_05: [[naari]]
 modifier: 3
 perception:
   - name: "Perception"
@@ -58,7 +59,7 @@ abilities_top:
   - name: "Items"
     desc: "[[Equipment/Alchemist's Fire (Lesser)|Lesser Alchemist's Fire]], [[Equipment/Dagger|Dagger]], [[Equipment/Studded Leather Armor|Studded Leather Armor]], [[Equipment/Formula Book (Blank)|Blank Formula Book]], [[Equipment/Alchemist's Toolkit|Alchemist's Tools]], [[Equipment/Flint and Steel|Flint and Steel]], [[Equipment/Elixir of Life (Lesser)|Lesser Elixir of Life]], [[Equipment/Smoke Ball (Lesser)|Lesser Smokestick]]"
   - name: "Infused Items"
-    desc: "  An ifrit pyrochemist carries the following infused items, which last for 24 hours or until the next time the pyrochemist makes their daily preparations:\n[[Equipment/Alchemist's Fire (Lesser)|Lesser Alchemist's Fire]] (5)\n[[Equipment/Elixir of Life (Lesser)|Lesser Elixir of Life]] (2)\n[[Equipment/Smoke Ball (Lesser)|Lesser Smokestick]]"
+    desc: "  An ifrit pyrochemist carries the following infused items, which last for 24 hours or until the next time the pyrochemist makes their daily preparations:\n\n[[Equipment/Alchemist's Fire (Lesser)|Lesser Alchemist's Fire]] (5)\n\n[[Equipment/Elixir of Life (Lesser)|Lesser Elixir of Life]] (2)\n\n[[Equipment/Smoke Ball (Lesser)|Lesser Smokestick]]"
 
 abilities_mid:
   - name: ""
@@ -80,6 +81,12 @@ attacks:
   - name: "Quick Bomber"
     desc: "`pf2:1`  The ifrit pyrochemist draws an alchemical bomb with an Interact action and throws it as a ranged Strike."
  
+```
+
+```encounter-table
+name: Ifrit Pyrochemist
+creatures:
+  - 1: Ifrit Pyrochemist
 ```
 
 

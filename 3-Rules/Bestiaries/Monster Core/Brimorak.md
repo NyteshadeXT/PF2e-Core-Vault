@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/demon
   - pf2e/creature/type/fiend
   - pf2e/creature/type/unholy
+  - pf2eMonster
   - pf2e/creature/level/5
   - remaster
 statblock: inline
@@ -27,9 +28,9 @@ level: "Creature 5"
 
 alignment: ""
 size: "Small"
-trait_01: "demon"
-trait_02: "fiend"
-trait_03: "unholy"
+trait_01: [[demon]]
+trait_02: [[fiend]]
+trait_03: [[unholy]]
 modifier: 12
 perception:
   - name: "Perception"
@@ -83,11 +84,17 @@ attacks:
     desc: " (divine,fire) A brimorak's hooves and any weapon they wield burst into flame. They can also Interact to create a sword of fire and steel, which dissolves if it leaves their grip."
 
   - name: "Frothing Spew"
-    desc: "`pf2:2` (divine,fire,unholy) The brimorak spits their boiling blood in a 20-foot line that deals 6d6 fire damage (DC 21 basic Reflex save). Creatures that fail the save also fall [[Conditions/Prone|Prone]] as they slip in the greasy blood.\n\nThe brimorak can't use Frothing Spew again for 1d4 rounds."
+    desc: "`pf2:2` (divine,fire,unholy) The brimorak spits their boiling blood in a @Template[line|distance:20] that deals 6d6 fire damage (DC 21 basic Reflex save). Creatures that fail the save also fall [[Conditions/Prone|Prone]] as they slip in the greasy blood.\n\nThe brimorak can't use Frothing Spew again for 1d4 rounds."
 
   - name: "Fume"
-    desc: "`pf2:2` (divine,fire) **Frequency** once per minute\n* * *\n\n**Effect** The brimorak emits a cloud of thick black smoke in a 10-foot burst adjacent to them. The cloud remains for 1 minute. All creatures within the smoke become [[Conditions/Concealed|Concealed]], and all creatures outside the smoke become concealed to creatures within it.\n\nA creature that enters or begins its turn within the smoke it must succeed at a DC 21 Fortitude check save or become [[Conditions/Sickened 1|Sickened 1]] ([[Conditions/Sickened 1|Sickened 2]] on a critical failure)."
+    desc: "`pf2:2` (divine,fire) **Frequency** once per minute\n* * *\n\n**Effect** The brimorak emits a cloud of thick black smoke in a @Template[burst|distance:10] adjacent to them. The cloud remains for 1 minute. All creatures within the smoke become [[Conditions/Concealed|Concealed]], and all creatures outside the smoke become concealed to creatures within it.\n\nA creature that enters or begins its turn within the smoke it must succeed at a DC 21 Fortitude check save or become [[Conditions/Sickened|Sickened 1]] ([[Conditions/Sickened|Sickened 2]] on a critical failure)."
  
+```
+
+```encounter-table
+name: Brimorak
+creatures:
+  - 1: Brimorak
 ```
 
 

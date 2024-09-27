@@ -10,6 +10,7 @@ tags:
   - pf2e/creature/type/humanoid
   - pf2e/creature/type/lawful
   - pf2e/creature/type/mortic
+  - pf2eMonster
   - pf2e/creature/level/12
 statblock: inline
 name: "Relictner Eroder"
@@ -24,14 +25,14 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Book of the Dead"
 name: "Relictner Eroder"
 level: "Creature 12"
-rare_03: "Rare"
+rare_03: [[Rare]]
 alignment: ""
 size: "Medium"
-trait_01: "dwarf"
-trait_02: "evil"
-trait_03: "humanoid"
-trait_04: "lawful"
-trait_05: "mortic"
+trait_01: [[dwarf]]
+trait_02: [[evil]]
+trait_03: [[humanoid]]
+trait_04: [[lawful]]
+trait_05: [[mortic]]
 modifier: 23
 perception:
   - name: "Perception"
@@ -59,7 +60,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Consecration Vulnerability"
-    desc: "  A relictner in a place of worship dedicated to a non-evil deity or on sacred ground, such as an area blessed by [[Spells/Sanctified Ground|Sanctified Ground]], is [[Conditions/Slowed 1|Slowed 1]]."
+    desc: "  A relictner in a place of worship dedicated to a non-evil deity or on sacred ground, such as an area blessed by [[Spells/Anointed Ground|Anointed Ground]], is [[Conditions/Slowed|Slowed 1]]."
 
   - name: "Lair Sense"
     desc: " (detection,divine) The relictner bonds with a single structure they consider their lair, such as a house, temple, or ruin. A relictner is aware of any creature that enters the lair, and the direction and approximate distance to the creature. If the lair is destroyed, the relictner can bond with a new lair by residing within a structure they own or claim for 1 week."
@@ -80,11 +81,17 @@ attacks:
     desc: "`pf2:2` (divine) The relictner erodes an object within 30 feet, dealing 3d10 bludgeoning damage to it, with a DC 31 Reflex check if the object is attended."
 
   - name: "Death Gasp"
-    desc: "`pf2:1` (divine) The relictner draws in a deep breath and holds it, temporarily suspending their biological processes and becoming undead. The relictner gains the undead trait and becomes immune to bleed, death effects, disease, [[Conditions/Paralyzed|Paralyzed]], poison, and sleep. Any such effects the relictner is currently inflicted with are suspended but take effect again once they take a breath.\nDeath Gasp lasts as long as the relictner holds their breath (up to 12 rounds).\n[[Bestiary Effects/Effect_ Death Gasp|Effect: Death Gasp]]"
+    desc: "`pf2:1` (divine) The relictner draws in a deep breath and holds it, temporarily suspending their biological processes and becoming undead. The relictner gains the undead trait and becomes immune to bleed, death effects, disease, [[Conditions/Paralyzed|Paralyzed]], poison, and sleep. Any such effects the relictner is currently inflicted with are suspended but take effect again once they take a breath.\n\nDeath Gasp lasts as long as the relictner holds their breath (up to 12 rounds).\n\n[[Bestiary Effects/Effect_ Death Gasp|Effect: Death Gasp]]"
 
   - name: "Demolition"
-    desc: "`pf2:3` (divine) The relictner bellows in fury, causing the surrounding structure to collapse. All creatures in a 30-foot emanation take 8d10 bludgeoning damage from falling debris (DC 31 Reflex check). A creature that fails its save is knocked [[Conditions/Prone|Prone]]. The area becomes difficult terrain.\nThe relictner can't use Demolition again for 1d4 rounds."
+    desc: "`pf2:3` (divine) The relictner bellows in fury, causing the surrounding structure to collapse. All creatures in a @Template[emanation|distance:30] take 8d10 bludgeoning damage from falling debris (DC 31 Reflex check). A creature that fails its save is knocked [[Conditions/Prone|Prone]]. The area becomes difficult terrain.\n\nThe relictner can't use Demolition again for 1d4 rounds."
  
+```
+
+```encounter-table
+name: Relictner Eroder
+creatures:
+  - 1: Relictner Eroder
 ```
 
 

@@ -13,7 +13,7 @@ license: OGL
 ---
 # Goblin Jubilee `pf2:3`
 
-### [[3-Rules/Rule References/Fire]][[Sonic]][[visual]]
+### [[3-Rules/Rule References/Fire]][[3-Rules/trait_reference/sonic]][[visual]]
 
 **Category** offensive; 
 
@@ -24,7 +24,7 @@ license: OGL
 
 * * *
 
-**Effect** Chaos fills a 20-foot burst within 120 feet. All creatures in the area takes 3d6 fire damage and 3d6 sonic damage and must attempt a Fortitude save. A goblin jubilee display costs 3 batches of infused reagents, rather than 1.
+**Effect** Chaos fills a @Template\[burst|distance:20\] within 120 feet. All creatures in the area takes 3d6 fire damage and 3d6 sonic damage and must attempt a Fortitude save. A goblin jubilee display costs 3 batches of infused reagents, rather than 1.
 
 * * *
 

@@ -13,7 +13,7 @@ license: OGL
 ---
 # Amnemonic Charm
 ## Item 9
-### [uncommon](uncommon "Uncommon Rarity Trait")[[consumable]][[magical]][[talisman]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[consumable]][[3-Rules/Rule References/Magical]][[talisman]]
 
 **Category** talisman; 
 **Price** 140 gp; 

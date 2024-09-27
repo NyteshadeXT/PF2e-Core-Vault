@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/divine
   - pf2e/creature/type/lawful
   - pf2e/creature/type/mindless
+  - pf2eMonster
   - pf2e/creature/level/14
 statblock: inline
 name: "Old Man Statue"
@@ -23,18 +24,18 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #166: Despair on Danger Island"
 name: "Old Man Statue"
 level: "Creature 14"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "huge"
-trait_01: "construct"
-trait_02: "divine"
-trait_03: "lawful"
-trait_04: "mindless"
+trait_01: [[construct]]
+trait_02: [[divine]]
+trait_03: [[lawful]]
+trait_04: [[mindless]]
 modifier: 24
 perception:
   - name: "Perception"
     desc: "+24; "
-languages: "Tien"
+languages: "Tien; (can&#x27;t speak any language)"
 skills:
   - name: "Skills"
     desc: "Athletics: +28"
@@ -56,7 +57,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Divine Destruction"
-    desc: " (divine,vitality) When the divine warden is reduced to 0 HP, it erupts with divine energy in a 30-foot emanation, dealing 14d6 vitality damage. Each creature in the area must attempt a DC 32 Will check save with the following outcomes.\n**Critical Success** The creature takes half damage.\n**Success** The creature takes full damage.\n**Failure** The creature takes full damage and becomes temporarily cursed by the patron deity. The creature becomes [[Conditions/Enfeebled 1|Enfeebled 1]] and [[Conditions/Stupefied 1|Stupefied 1]] for 1 day; this is a curse effect that uses the Will save DC as the counteract DC.\n**Critical Failure** As failure, except the creature becomes [[Conditions/Enfeebled 1|Enfeebled 2]] and [[Conditions/Stupefied 1|Stupefied 2]]."
+    desc: " (divine,vitality) When the divine warden is reduced to 0 HP, it erupts with divine energy in a @Template[emanation|distance:30], dealing 14d6 vitality damage. Each creature in the area must attempt a DC 32 Will check save with the following outcomes.\n* * *\n\n**Critical Success** The creature takes half damage.\n\n**Success** The creature takes full damage.\n\n**Failure** The creature takes full damage and becomes temporarily cursed by the patron deity. The creature becomes [[Conditions/Enfeebled|Enfeebled 1]] and [[Conditions/Stupefied|Stupefied 1]] for 1 day; this is a curse effect that uses the Will save DC as the counteract DC.\n\n**Critical Failure** As failure, except the creature becomes [[Conditions/Enfeebled|Enfeebled 2]] and [[Conditions/Stupefied|Stupefied 2]]."
 
   - name: "Faith Bound"
     desc: " (divine) A divine warden can't attack a creature that openly wears or displays the religious symbol of the divine warden's patron deity unless that creature uses a hostile action against the divine warden first. If the divine warden is intelligent, it can also attack a creature it believes isn't faithful to its deity or who wears the religious symbol as a ruse (typically after succeeding at a Perception check to Sense Motive)."
@@ -85,6 +86,12 @@ attacks:
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
     desc: "`pf2:1`  "
  
+```
+
+```encounter-table
+name: Old Man Statue
+creatures:
+  - 1: Old Man Statue
 ```
 
 

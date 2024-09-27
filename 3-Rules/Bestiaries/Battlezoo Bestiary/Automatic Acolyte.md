@@ -6,6 +6,7 @@ cssClasses: pf2e
 aliases: "Compendium.battlezoo-bestiary-pf2e.pf2e-battlezoo-bestiary.Actor.0vcYe4Qom1yB18AP" 
 tags:
   - pf2e/creature/type/construct
+  - pf2eMonster
   - pf2e/creature/level/8
 statblock: inline
 name: "Automatic Acolyte"
@@ -24,7 +25,7 @@ level: "Creature 8"
 
 alignment: ""
 size: "Medium"
-trait_01: "construct"
+trait_01: [[construct]]
 modifier: 18
 perception:
   - name: "Perception"
@@ -32,7 +33,7 @@ perception:
 languages: "Common, Diabolic, Empyrean"
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +17, Arcana: +14, Religion: +20, "
+    desc: "Acrobatics: +17, Arcana: +14, Religion: +20"
 abilityMods: [4, 5, 3, 0, 6, -5]
 speed: 25 feet
 sourcebook: "_Battlezoo Bestiary_"
@@ -60,14 +61,20 @@ attacks:
     desc: "`pf2:1` Fist +19 (agile, finesse, reach 15 feet)\n__Damage__  2d6 + 8 bludgeoning"
 
   - name: "Armed with Magic"
-    desc: "  Each of the automatic acolyte's fists is etched with a _Spell-Storing_ rune, which cannot be swapped or removed. Each spell stored in the automatic acolyte's _spell storing_ runes reduces the number of spells it can maintain with Project and Serve by one."
+    desc: "  Each of the automatic acolyte's fists is etched with a _[[Equipment/Spell Reservoir|Spell-Storing]]_ rune, which cannot be swapped or removed. Each spell stored in the automatic acolyte's _spell storing_ runes reduces the number of spells it can maintain with Project and Serve by one."
 
   - name: "Divinity Beam"
-    desc: "`pf2:2` (divine) Depending on the deity served by its master, an automatic acolyte is imbued with a font of either positive or negative energy, chosen at the time of the automatic acolyte's creation.\nThe automatic acolyte connects its arms at the wrist and sends a wave of holy or unholy energy coursing through its open palms, dealing 7d8 negative damage or 7d8 positive damage with a (basic Fortitude save). The automatic acolyte can shape this energy into either a 15-foot cone or a 30-foot line.\nThe automatic acolyte can't use Divinity Beam again for 1d4 rounds."
+    desc: "`pf2:2` (divine) Depending on the deity served by its master, an automatic acolyte is imbued with a font of either positive or negative energy, chosen at the time of the automatic acolyte's creation.\n\nThe automatic acolyte connects its arms at the wrist and sends a wave of holy or unholy energy coursing through its open palms, dealing 7d8 negative damage or 7d8 positive damage with a (DC 26 basic Fortitude save). The automatic acolyte can shape this energy into either a 15-foot cone or a 30-foot line.\n\nThe automatic acolyte can't use Divinity Beam again for 1d4 rounds."
 
   - name: "Project and Serve"
-    desc: "`pf2:1` (concentrate) The automatic acolyte Sustains a Spell on its ally's behalf, causing glowing runes to manifest across its body. The automatic acolyte must be within 100 feet of its ally to use this ability.\nAs long as the automatic acolyte uses Project and Serve each round on its turn, the spell is sustained without any effort required from the original caster.\nThe automatic acolyte can Project and Serve up to two spells per turn. If either spell is disrupted, each spell the automatic acolyte is sustaining ends."
+    desc: "`pf2:1` (concentrate) The automatic acolyte [[Actions/Sustain|Sustains a Spell]] on its ally's behalf, causing glowing runes to manifest across its body. The automatic acolyte must be within 100 feet of its ally to use this ability.\n\nAs long as the automatic acolyte uses Project and Serve each round on its turn, the spell is sustained without any effort required from the original caster.\n\nThe automatic acolyte can Project and Serve up to two spells per turn. If either spell is disrupted, each spell the automatic acolyte is sustaining ends."
  
+```
+
+```encounter-table
+name: Automatic Acolyte
+creatures:
+  - 1: Automatic Acolyte
 ```
 
 

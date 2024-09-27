@@ -4,6 +4,7 @@ obsidianUIMode: preview
 noteType: pf2eHazard
 tags:
   - haunt
+  - pf2eHazard
   - complex
 source: Pathfinder Book of the Dead
 aliases: "Compendium.pf2e.book-of-the-dead-bestiary.Actor.GabMKY8QJOulyqAr" 
@@ -21,13 +22,13 @@ name: "Ghost Stampede"
 level: "Hazard 15"
 
 trait_06: "Complex"
-trait_01: "haunt"
+trait_01: [[haunt]]
 modifier: 30
 sourcebook: "_Pathfinder Book of the Dead_"
 ac: 40
 armorclass:
   - name: AC
-    desc: "40; __Fort__ +23, __Ref__ +29, __Will__ +0"
+    desc: "40; __Fort__ +23, __Ref__ +29, "
 hp: 20
 health:
   - name: ""
@@ -49,7 +50,7 @@ attacks:
   - name: ""
 
   - name: "Defend Territory"
-    desc: "`pf2:r` (emotion, fear, mental, occult) **Trigger** A creature approaches within 10 feet of an aurochs skull\n**Effect** The skulls rise into the air, form ghostly bodies, and bellow in rage. Each creature within 60 feet of an aurochs skull must attempt a DC 36 Will check saving throw. The haunt then rolls initiative.\n**Critical Success** The creature is unaffected.\n**Success** The creature is [[Conditions/Frightened 1|Frightened 1]].\n**Failure** The creature takes 1d12 + 6 mental damage and is [[Conditions/Frightened 1|Frightened 2]].\n**Critical Failure** The creature takes 2d12 + 12 mental damage and is [[Conditions/Frightened 1|Frightened 4]]."
+    desc: "`pf2:r` (emotion, fear, mental, occult) **Trigger** A creature approaches within 10 feet of an aurochs skull\n* * *\n\n**Effect** The skulls rise into the air, form ghostly bodies, and bellow in rage. Each creature within 60 feet of an aurochs skull must attempt a DC 36 Will check saving throw. The haunt then rolls initiative.\n* * *\n\n**Critical Success** The creature is unaffected.\n\n**Success** The creature is [[Conditions/Frightened|Frightened 1]].\n\n**Failure** The creature takes 1d12+6 mental damage and is [[Conditions/Frightened|Frightened 2]].\n\n**Critical Failure** The creature takes 2d12+12 mental damage and is [[Conditions/Frightened|Frightened 4]]."
   - name: "Melee"
     desc: "Horn +30 () No multiple attack penalty"
 
@@ -57,5 +58,11 @@ attacks:
     desc: "(4 actions) For each aurochs skull disabled or destroyed, the haunt has 1 fewer action. On each action, a different aurochs moves up to 60 feet and attempts a horn Strike against a different living creature. A creature critically hit by a horn Strike also takes 2d6 bleed and is knocked [[Conditions/Prone|Prone]]."
   - name: "Reset"
     desc: "The haunt deactivates 1 minute after all living creatures leave the area or after all four aurochs skulls are destroyed. After 1 hour, if at least one aurochs skull remains, the haunt reactivates."
+```
+
+```encounter-table
+name: Ghost Stampede
+creatures:
+  - 1: Ghost Stampede
 ```
 

@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/amphibious
   - pf2e/creature/type/beast
   - pf2e/creature/type/evil
+  - pf2eMonster
   - pf2e/creature/level/7
 statblock: inline
 name: "Tiddalik"
@@ -26,9 +27,9 @@ level: "Creature 7"
 
 alignment: ""
 size: "huge"
-trait_01: "amphibious"
-trait_02: "beast"
-trait_03: "evil"
+trait_01: [[amphibious]]
+trait_02: [[beast]]
+trait_03: [[evil]]
 modifier: 15
 perception:
   - name: "Perception"
@@ -55,7 +56,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Deluge"
-    desc: "  A creature can provoke a waterlogged tiddalik into laughing and releasing its stored water with a successful check to DC 25 Performance check a joke or funny story. The tiddalik also disgorges its water automatically if it dies while waterlogged, or can voluntarily Deluge as a three-action activity that has the concentrate trait. The mass of stored water swamps a 10-foot emanation, dealing 8d6 bludgeoning damage to creatures in the area (DC 25 Reflex check save) and making the area difficult terrain for 1 day. The tiddalik can't use its spit Strike or Expel Wave until it next Drinks in Abundance."
+    desc: "  A creature can provoke a waterlogged tiddalik into laughing and releasing its stored water with a successful check to DC 25 Performance check a joke or funny story. The tiddalik also disgorges its water automatically if it dies while waterlogged, or can voluntarily Deluge as a three-action activity that has the concentrate trait. The mass of stored water swamps a @Template[emanation|distance:10], dealing 8d6 bludgeoning damage to creatures in the area (DC 25 Reflex check save) and making the area difficult terrain for 1 day. The tiddalik can't use its spit Strike or Expel Wave until it next Drinks in Abundance."
 
 attacks:
   - name: ""
@@ -70,11 +71,17 @@ attacks:
     desc: " (downtime) The tiddalik spends a day or more drinking from a water source. If the water source is equal to or greater in volume than itself, the tiddalik consumes 5,000 gallons of water per day and becomes waterlogged. While waterlogged, it can use its spit Strike, Expel Wave, and its Deluge ability, but its Speed is reduced to 10 feet. If the water source is smaller than the tiddalik, it consumes the water but does not become waterlogged."
 
   - name: "Expel Wave"
-    desc: "`pf2:2`  **Requirements** The tiddalik is waterlogged\n**Effect** The tiddalik expels a wave of water in a 60-foot cone that deals 6d6 bludgeoning damage (DC 25 Reflex check save). Creatures that fail the save are pushed back 5 feet (10 feet on a critical failure).\nThe tiddalik can't use Expel Wave again for 1d4 rounds."
+    desc: "`pf2:2`  **Requirements** The tiddalik is waterlogged\n* * *\n\n**Effect** The tiddalik expels a wave of water in a @Template[cone|distance:60] that deals 6d6 bludgeoning damage (DC 25 Reflex check save). Creatures that fail the save are pushed back 5 feet (10 feet on a critical failure).\n\nThe tiddalik can't use Expel Wave again for 1d4 rounds."
 
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
     desc: "`pf2:1`  "
  
+```
+
+```encounter-table
+name: Tiddalik
+creatures:
+  - 1: Tiddalik
 ```
 
 

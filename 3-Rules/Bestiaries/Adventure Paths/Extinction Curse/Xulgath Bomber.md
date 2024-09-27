@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/humanoid
   - pf2e/creature/type/xulgath
+  - pf2eMonster
   - pf2e/creature/level/7
 statblock: inline
 name: "Xulgath Bomber"
@@ -23,13 +24,13 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #153: Life&#x27;s Long Shadows"
 name: "Xulgath Bomber"
 level: "Creature 7"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Medium"
-trait_01: "chaotic"
-trait_02: "evil"
-trait_03: "humanoid"
-trait_04: "xulgath"
+trait_01: [[chaotic]]
+trait_02: [[evil]]
+trait_03: [[humanoid]]
+trait_04: [[xulgath]]
 modifier: 15
 perception:
   - name: "Perception"
@@ -60,7 +61,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Powerful Stench"
-    desc: " (aura,olfactory) 30 feet. A creature that enters the area must attempt a DC 24 Fortitude check save. On a failure, the creature is [[Conditions/Sickened 1|Sickened 2]], and on a critical failure, the creature is also [[Conditions/Slowed 1|Slowed 1]] for as long as it is sickened. While within the aura, the creature takes a -2 circumstance penalty to saves to recover from the sickened condition. A creature that succeeds at its save is temporarily immune to all xulgaths' stenches for 1 minute."
+    desc: " (aura,olfactory) 30 feet. A creature that enters the area must attempt a DC 24 Fortitude check save. On a failure, the creature is [[Conditions/Sickened|Sickened 2]], and on a critical failure, the creature is also [[Conditions/Slowed|Slowed 1]] for as long as it is sickened. While within the aura, the creature takes a -2 circumstance penalty to saves to recover from the sickened condition. A creature that succeeds at its save is temporarily immune to all xulgaths' stenches for 1 minute."
 
 attacks:
   - name: ""
@@ -81,11 +82,17 @@ attacks:
     desc: "`pf2:1` Alchemist&#x27;s Fire +17 (range increment 20 feet, splash)\n__Damage__  2d8 + 2 fire 4 fire 4 fire"
 
   - name: "Concentrated Xulgath Bile"
-    desc: " (poison) The [[Conditions/Sickened 1|Sickened]] condition from concentrated xulgath bile doesn't improve on its own until the target recovers from the poison. A target who recovers from concentrated xulgath bile is immune to being sickened by this poison for 1 minute\n**Saving Throw** DC 22 Fortitude check\n**Maximum Duration** 6 rounds\n**Stage 1** 1d10 poison damage and [[Conditions/Sickened 1|Sickened 1]] (1 round)\n**Stage 2** 2d10 poison damage and [[Conditions/Sickened 1|Sickened 2]] (1 round)\n**Stage 3** 2d10 poison damage and [[Conditions/Sickened 1|Sickened 3]] (1 round)"
+    desc: " (poison) The [[Conditions/Sickened|Sickened]] condition from concentrated xulgath bile doesn't improve on its own until the target recovers from the poison. A target who recovers from concentrated xulgath bile is immune to being sickened by this poison for 1 minute\n\n**Saving Throw** DC 22 Fortitude check\n\n**Maximum Duration** 6 rounds\n\n**Stage 1** 1d10 poison damage and [[Conditions/Sickened|Sickened 1]] (1 round)\n\n**Stage 2** 2d10 poison damage and [[Conditions/Sickened|Sickened 2]] (1 round)\n\n**Stage 3** 2d10 poison damage and [[Conditions/Sickened|Sickened 3]] (1 round)"
 
   - name: "Quick Bomber"
     desc: "`pf2:1`  The bomber Interacts to draw a bomb, then Strikes with it."
  
+```
+
+```encounter-table
+name: Xulgath Bomber
+creatures:
+  - 1: Xulgath Bomber
 ```
 
 

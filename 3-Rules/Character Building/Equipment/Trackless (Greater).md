@@ -25,7 +25,7 @@ Trackless runes are common among hunters and trappers, as well as thieves and an
 
 * * *
 
-**Effect** You extend the effect of your rune out to a 20-foot emanation. The emanation remains for 8 hours, affecting up to 10 creatures of your choice within the area. You can Dismiss this effect.
+**Effect** You extend the effect of your rune out to a @Template\[emanation|distance:20\]. The emanation remains for 8 hours, affecting up to 10 creatures of your choice within the area. You can Dismiss this effect.
 
 *Source: Pathfinder Treasure Vault*
 *OGL*

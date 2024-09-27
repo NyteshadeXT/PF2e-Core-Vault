@@ -10,6 +10,7 @@ tags:
   - pf2e/creature/type/incorporeal
   - pf2e/creature/type/phantom
   - pf2e/creature/type/spirit
+  - pf2eMonster
   - pf2e/creature/level/-1
 statblock: inline
 name: "Phantom Raven"
@@ -24,14 +25,14 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #196: The Summer That Never Was"
 name: "Phantom Raven"
 level: "Creature -1"
-rare_03: "Rare"
+rare_03: [[Rare]]
 alignment: ""
 size: "tiny"
-trait_01: "ethereal"
-trait_02: "evil"
-trait_03: "incorporeal"
-trait_04: "phantom"
-trait_05: "spirit"
+trait_01: [[ethereal]]
+trait_02: [[evil]]
+trait_03: [[incorporeal]]
+trait_04: [[phantom]]
+trait_05: [[spirit]]
 modifier: 5
 perception:
   - name: "Perception"
@@ -56,15 +57,15 @@ abilities_top:
   - name: ""
 
   - name: "Walk the Ethereal Line"
-    desc: "`pf2:2`  The phantom walks the thin line between the Ethereal and Material Planes in order to exist on both planes simultaneously.\nThey can shift back to solely the Ethereal Plane by using this ability again."
+    desc: "`pf2:2`  The phantom walks the thin line between the Ethereal and Material Planes in order to exist on both planes simultaneously.\n\nThey can shift back to solely the Ethereal Plane by using this ability again."
 
 abilities_mid:
   - name: ""
   - name: "Susceptible to Death"
-    desc: "  Though phantoms aren't alive, neither are they undead, and they are uniquely vulnerable to the effects of death.\nA phantom whose Hit Points are reduced to 0 as a result of a death effect (such as from a spell like [[Spells/Execute|Execute]]) is immediately whisked away to the River of Souls, where their soul resumes the usual path to the afterlife."
+    desc: "  Though phantoms aren't alive, neither are they undead, and they are uniquely vulnerable to the effects of death.\n\nA phantom whose Hit Points are reduced to 0 as a result of a death effect (such as from a spell like [[Spells/Execute|Execute]]) is immediately whisked away to the River of Souls, where their soul resumes the usual path to the afterlife."
 
   - name: "Vulnerable to Kindness"
-    desc: "  Any creature within 30 feet that the phantom can see and hear can issue a calm and friendly greeting to it as a two-action activity with the auditory, concentrate, linguistic, and mental traits. A creature greeting the phantom in this manner must attempt a DC 15 Diplomacy check check.\n**Critical Success** The phantom takes 4d8 mental damage and is [[Conditions/Stunned 1|Stunned 1]].\n**Success** The phantom takes 2d8 mental damage.\n**Failure** The phantom takes 1d8 mental damage.\n**Critical Failure** The phantom is unaffected, and is not affected by this weakness for 1 round."
+    desc: "  Any creature within 30 feet that the phantom can see and hear can issue a calm and friendly greeting to it as a two-action activity with the auditory, concentrate, linguistic, and mental traits. A creature greeting the phantom in this manner must attempt a DC 15 Diplomacy check check.\n* * *\n\n**Critical Success** The phantom takes 4d8 mental damage and is [[Conditions/Stunned|Stunned 1]].\n\n**Success** The phantom takes 2d8 mental damage.\n\n**Failure** The phantom takes 1d8 mental damage.\n\n**Critical Failure** The phantom is unaffected, and is not affected by this weakness for 1 round."
 
 attacks:
   - name: ""
@@ -75,6 +76,12 @@ attacks:
   - name: "Occult Innate Spells"
     desc: "DC 13, attack +5\n__Cantrips__  __(1st)__ _[[Spells/Daze|Daze]]_, _[[Spells/Ghost Sound|Ghost Sound]]_"
  
+```
+
+```encounter-table
+name: Phantom Raven
+creatures:
+  - 1: Phantom Raven
 ```
 
 

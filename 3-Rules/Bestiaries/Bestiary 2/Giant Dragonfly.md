@@ -6,6 +6,7 @@ cssClasses: pf2e
 aliases: "Compendium.pf2e.pathfinder-bestiary-2.Actor.b5b6J3TqbcXnmKyy" 
 tags:
   - pf2e/creature/type/animal
+  - pf2eMonster
   - pf2e/creature/level/4
 statblock: inline
 name: "Giant Dragonfly"
@@ -24,14 +25,15 @@ level: "Creature 4"
 
 alignment: ""
 size: "Medium"
-trait_01: "animal"
+trait_01: [[animal]]
 modifier: 11
 perception:
   - name: "Perception"
     desc: "+11; Darkvision, Wavesense (Imprecise) 30 Feet"
+languages: ""
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +10 (+12 to Maneuver in Flight), Athletics: +12, Stealth: +12"
+    desc: "Acrobatics: +10, Athletics: +12, Stealth: +12"
 abilityMods: [4, 4, 2, -5, 3, 0]
 speed: 20 feet,  fly 60 feet
 sourcebook: "_Pathfinder Bestiary 2_"
@@ -56,7 +58,7 @@ attacks:
     desc: "`pf2:1` Mandibles +14 ()\n__Damage__  1d12 + 7 piercing plus grab"
 
   - name: "Clutch"
-    desc: "`pf2:1`  **Requirements** The giant dragonfly has a Medium or smaller creature [[Conditions/Grabbed|Grabbed]] in its mandibles\n**Effect** The dragonfly tries to transfer the grabbed creature to be clutched by its legs. The giant dragonfly attempts an Athletics check check against the creature's Reflex DC. On a success, it transfers the creature (which remains grabbed) to its legs, freeing its mandibles to attack. The dragonfly can have only one creature clutched at a time."
+    desc: "`pf2:1`  **Requirements** The giant dragonfly has a Medium or smaller creature [[Conditions/Grabbed|Grabbed]] in its mandibles\n* * *\n\n**Effect** The dragonfly tries to transfer the grabbed creature to be clutched by its legs. The giant dragonfly attempts an Athletics check check against the creature's Reflex DC. On a success, it transfers the creature (which remains grabbed) to its legs, freeing its mandibles to attack. The dragonfly can have only one creature clutched at a time."
 
   - name: "Snatch"
     desc: "  The giant dragonfly can Fly at half Speed while it has a creature [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]] by Clutch, carrying that creature along with it."
@@ -67,6 +69,12 @@ attacks:
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
     desc: "`pf2:1`  "
  
+```
+
+```encounter-table
+name: Giant Dragonfly
+creatures:
+  - 1: Giant Dragonfly
 ```
 
 

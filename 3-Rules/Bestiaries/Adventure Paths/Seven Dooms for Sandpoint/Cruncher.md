@@ -6,6 +6,7 @@ cssClasses: pf2e
 aliases: "Compendium.pf2e.seven-dooms-for-sandpoint-bestiary.Actor.vLaHGDJu2xsqAxuq" 
 tags:
   - pf2e/creature/type/beast
+  - pf2eMonster
   - pf2e/creature/level/6
 statblock: inline
 name: "Cruncher"
@@ -20,18 +21,18 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #200: Seven Dooms for Sandpoint"
 name: "Cruncher"
 level: "Creature 6"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Large"
-trait_01: "beast"
+trait_01: [[beast]]
 modifier: 10
 perception:
   - name: "Perception"
     desc: "+10; Scent (Imprecise) 30 Feet"
-languages: "Common"
+languages: "Common; (can&#x27;t speak any language)"
 skills:
   - name: "Skills"
-    desc: "Athletics: +15, Stealth: +14 (+16 in forests), Survival: +12"
+    desc: "Athletics: +14, Stealth: +14, Survival: +12"
 abilityMods: [5, 4, 5, -2, 4, 0]
 speed: 25 feet,  burrow 15 feet
 sourcebook: "_Pathfinder #200: Seven Dooms for Sandpoint_"
@@ -71,14 +72,20 @@ attacks:
     desc: "`pf2:2`  The hodag makes two claw Strikes and one jaws Strike in any order."
 
   - name: "Sickly"
-    desc: "  Cruncher is [[Conditions/Enfeebled 1|Enfeebled 1]] due to his mistreatment from the goblins. In addition, his eyes are rheumy and caked with gunk, resulting in a –4 circumstance penalty to sight-based Perception checks and causing him to be [[Conditions/Blinded|Blinded]] beyond a range of 5 feet. If he escapes into the wild, he heals back up after a few nights' rest and a big meal. Alternatively, a PC can speed his recovery with a DC 20 Medicine check check, with the results detailed below; this takes 10 minutes to perform, and as such Cruncher needs to either be helpless or willing to receive the attention.\n**Critical Success** Cruncher's vision clears and he loses the enfeebled condition.\n**Success** Cruncher's vision clears, and he'll lose the enfeebled condition after 8 hours of rest.\n**Failure** The attempt provides no aid.\n**Critical Failure** As failure, but Cruncher takes 2d6 points of damage as well, potentially causing him to lose his trust in the PCs and driving him to attack."
+    desc: "  Cruncher is [[Conditions/Enfeebled|Enfeebled 1]] due to his mistreatment from the goblins. In addition, his eyes are rheumy and caked with gunk, resulting in a –4 circumstance penalty to sight-based Perception checks and causing him to be [[Conditions/Blinded|Blinded]] beyond a range of 5 feet. If he escapes into the wild, he heals back up after a few nights' rest and a big meal. Alternatively, a PC can speed his recovery with a DC 20 Medicine check check, with the results detailed below; this takes 10 minutes to perform, and as such Cruncher needs to either be helpless or willing to receive the attention.\n* * *\n\n**Critical Success** Cruncher's vision clears and he loses the enfeebled condition.\n\n**Success** Cruncher's vision clears, and he'll lose the enfeebled condition after 8 hours of rest.\n\n**Failure** The attempt provides no aid.\n\n**Critical Failure** As failure, but Cruncher takes 2d6 points of damage as well, potentially causing him to lose his trust in the PCs and driving him to attack."
 
   - name: "Toss"
-    desc: "`pf2:2`  The hodag Strides, then makes a Strike against a target in reach. If it moves at least 20 feet and succeeds at its Strike, the hodag deals damage normally and then attempts an Athletics check check against the creature's Fortitude DC to toss the enemy into the air.\nOn a success, the tossed creature is thrown 10 feet in a straight line in the direction of the hodag's choice and then lands [[Conditions/Prone|Prone]]. If the creature is knocked into a solid object, it takes 1d6 bludgeoning damage as well before landing prone. The hodag can instead toss a creature straight up in the air. The creature lands in the same square where it started, takes 1d6 bludgeoning damage, and lands prone."
+    desc: "`pf2:2`  The hodag Strides, then makes a Strike against a target in reach. If it moves at least 20 feet and succeeds at its Strike, the hodag deals damage normally and then attempts an Athletics check check against the creature's Fortitude DC to toss the enemy into the air.\n\nOn a success, the tossed creature is thrown 10 feet in a straight line in the direction of the hodag's choice and then lands [[Conditions/Prone|Prone]]. If the creature is knocked into a solid object, it takes 1d6 bludgeoning damage as well before landing prone. The hodag can instead toss a creature straight up in the air. The creature lands in the same square where it started, takes 1d6 bludgeoning damage, and lands prone."
 
   - name: "[[Bestiary Ability Glossary/Knockdown|Knockdown]]"
     desc: "`pf2:1`  "
  
+```
+
+```encounter-table
+name: Cruncher
+creatures:
+  - 1: Cruncher
 ```
 
 

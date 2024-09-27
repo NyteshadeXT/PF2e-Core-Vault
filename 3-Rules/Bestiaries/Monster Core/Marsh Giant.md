@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/giant
   - pf2e/creature/type/humanoid
   - pf2e/creature/type/water
+  - pf2eMonster
   - pf2e/creature/level/8
   - remaster
 statblock: inline
@@ -28,10 +29,10 @@ level: "Creature 8"
 
 alignment: ""
 size: "Large"
-trait_01: "amphibious"
-trait_02: "giant"
-trait_03: "humanoid"
-trait_04: "water"
+trait_01: [[amphibious]]
+trait_02: [[giant]]
+trait_03: [[humanoid]]
+trait_04: [[water]]
 modifier: 16
 perception:
   - name: "Perception"
@@ -79,6 +80,12 @@ attacks:
   - name: "Twist the Hook"
     desc: "`pf2:2`  The marsh giant makes a melee Strike with its gaff. If it hits, it twists and yanks the gaff to knock the target [[Conditions/Prone|Prone]] and create an awful wound, dealing 2d6 persistent bleed damage to the creature."
  
+```
+
+```encounter-table
+name: Marsh Giant
+creatures:
+  - 1: Marsh Giant
 ```
 
 

@@ -6,8 +6,9 @@ tags:
   - trait/investigator
   - trait/common
   - category/class
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.KWXoo738KuddWMOB"
-license: OGL
+license: ORC
 ---
 # Ongoing Investigation
 ## Feat 4
@@ -20,5 +21,5 @@ license: OGL
 
 You're always investigating what's around you, even as you perform other activities. You can move at full Speed while using the [[Actions/Investigate|Investigate]] exploration activity, and you can use another exploration activity while Investigating.
 
-*Source: Pathfinder Advanced Player's Guide*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

@@ -12,7 +12,7 @@ license: ORC
 ---
 # Bard Weapon Expertise
 ## Feat 11
-### [[bard]]
+### [[3-Rules/trait_reference/bard]]
 
 **Category** classfeature; 
 

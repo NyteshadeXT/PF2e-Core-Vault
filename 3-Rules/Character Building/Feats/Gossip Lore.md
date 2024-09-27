@@ -6,8 +6,9 @@ tags:
   - trait/archetype
   - trait/common
   - category/class
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.7jqBwXq9jVsghCva"
-license: OGL
+license: ORC
 ---
 # Gossip Lore
 ## Feat 4
@@ -25,5 +26,5 @@ You are trained in Gossip Lore, a special Lore skill that can be used only to [[
 
 If you have legendary proficiency in Society, you gain expert proficiency in Gossip Lore, but you can't increase your proficiency rank in Gossip Lore by any other means.
 
-*Source: Pathfinder Advanced Player's Guide*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

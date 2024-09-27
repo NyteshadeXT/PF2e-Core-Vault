@@ -10,6 +10,7 @@ tags:
   - pf2e/creature/type/cold
   - pf2e/creature/type/good
   - pf2e/creature/type/holy
+  - pf2eMonster
   - pf2e/creature/level/12
 statblock: inline
 name: "Peng"
@@ -24,14 +25,14 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #167: Ready? Fight!"
 name: "Peng"
 level: "Creature 12"
-rare_03: "Rare"
+rare_03: [[Rare]]
 alignment: ""
 size: "grg"
-trait_01: "air"
-trait_02: "beast"
-trait_03: "cold"
-trait_04: "good"
-trait_05: "holy"
+trait_01: [[air]]
+trait_02: [[beast]]
+trait_03: [[cold]]
+trait_04: [[good]]
+trait_05: [[holy]]
 modifier: 25
 perception:
   - name: "Perception"
@@ -84,6 +85,12 @@ attacks:
   - name: "Flap Wings"
     desc: "`pf2:2`  The peng beats its wings to create a mighty burst of frosty air and push away foes. Each creature within 10 feet of the peng takes 3d6 bludgeoning damage and 3d6 cold damage (DC 32 Reflex check save). Creatures that fail their save are pushed away 10 feet; creatures that critically fail are pushed away 20 feet and knocked [[Conditions/Prone|Prone]]. The peng can't Flap Wings again for 1d4 rounds."
  
+```
+
+```encounter-table
+name: Peng
+creatures:
+  - 1: Peng
 ```
 
 

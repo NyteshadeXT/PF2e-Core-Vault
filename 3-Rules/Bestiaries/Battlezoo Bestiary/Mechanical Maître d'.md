@@ -6,6 +6,7 @@ cssClasses: pf2e
 aliases: "Compendium.battlezoo-bestiary-pf2e.pf2e-battlezoo-bestiary.Actor.GuvK4x8aS28lTlGP" 
 tags:
   - pf2e/creature/type/construct
+  - pf2eMonster
   - pf2e/creature/level/6
 statblock: inline
 name: "Mechanical Maître d&#x27;"
@@ -24,7 +25,7 @@ level: "Creature 6"
 
 alignment: ""
 size: "Medium"
-trait_01: "construct"
+trait_01: [[construct]]
 modifier: 15
 perception:
   - name: "Perception"
@@ -32,7 +33,7 @@ perception:
 languages: "Common, Dwarven, Elven, Fey, Goblin, Halfling"
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +16, Stealth: +16, "
+    desc: "Acrobatics: +16, Stealth: +16"
 abilityMods: [5, 4, 3, 0, 2, -5]
 speed: 25 feet
 sourcebook: "_Battlezoo Bestiary_"
@@ -57,14 +58,20 @@ attacks:
     desc: "`pf2:1` Carving Knife +17 (agile, reach 15 feet)\n__Damage__  2d4 + 7 slashing"
 
   - name: "Part of the Architecture"
-    desc: "`pf2:1` (concentrate) **Requirements** The mechanical maître d' is in an urban environment;\n**Effect** Thanks to some trick of construction or magic, the mechanical maître d' blends in seamlessly with urban environments. Until the next time it acts, the mechanical maître d' appears to be a nondescript bust, pillar, or other part of the environment. It has an automatic result of 25 on Deception checks and DCs to pass as a part of the architecture."
+    desc: "`pf2:1` (concentrate) **Requirements** The mechanical maître d' is in an urban environment;\n\n**Effect** Thanks to some trick of construction or magic, the mechanical maître d' blends in seamlessly with urban environments. Until the next time it acts, the mechanical maître d' appears to be a nondescript bust, pillar, or other part of the environment. It has an automatic result of 25 on Deception checks and DCs to pass as a part of the architecture."
 
   - name: "Prepare and Serve"
-    desc: "`pf2:2` (arcane) The mechanical maître d' retrieves a serving of magic-infused food and drink from its torso compartment, then extends its arm to give the dish to a creature within 15 feet. A creature can Interact with this food to consume it. When it does so, the creature gains one of the following effects, which is chosen by the mechanical maître d' at the time of using Prepare and Serve.\n*   The eater regains 4d8 Hit Points.\n*   The eater gains a +1 status bonus to attack rolls, Perception checks, saving throws, and skill checks.\nEffect: Prepare and Serve - Combat Buff\n*   The eater can carry an additional 3 Bulk before becoming Encumbered, and its maximum carrying limit is increased by 6 Bulk.\n*   The eater gains a +10-foot status bonus to Speed.\nEffect: Prepare and Serve - Speed Bonus\nExcept for regaining Hit Points, each effect lasts for 1 hour. Once it has eaten a dish, a creature is immune to the mechanical maître d's magical food for 1 hour.\nA mechanical maître d' can store up to 12 servings of food and drink at a time. The mechanical maître d's torso compartment automatically casts _Enhance Victuals_ on any food placed inside."
+    desc: "`pf2:2` (arcane) The mechanical maître d' retrieves a serving of magic-infused food and drink from its torso compartment, then extends its arm to give the dish to a creature within 15 feet. A creature can Interact with this food to consume it. When it does so, the creature gains one of the following effects, which is chosen by the mechanical maître d' at the time of using Prepare and Serve.\n\n*   The eater regains 4d8 Hit Points.\n*   The eater gains a +1 status bonus to attack rolls, Perception checks, saving throws, and skill checks.\n\n[[Effects/Effect_ Prepare and Serve - Combat Buff|Effect: Prepare and Serve - Combat Buff]]\n\n*   The eater can carry an additional 3 Bulk before becoming [[Conditions/Encumbered|Encumbered]], and its maximum carrying limit is increased by 6 Bulk.\n*   The eater gains a +10-foot status bonus to Speed.\n\n[[Effects/Effect_ Prepare and Serve - Speed Bonus|Effect: Prepare and Serve - Speed Bonus]]\n\nExcept for regaining Hit Points, each effect lasts for 1 hour. Once it has eaten a dish, a creature is immune to the mechanical maître d's magical food for 1 hour.\n\nA mechanical maître d' can store up to 12 servings of food and drink at a time. The mechanical maître d's torso compartment automatically casts _[[Spells/Enhance Victuals|Enhance Victuals]]_ on any food placed inside."
 
   - name: "Noxious Gases"
-    desc: "`pf2:2`  **Frequency** once per hour;\n**Effect** The mechanical maître d' vents a cloud of putrid gas from its food waste compartment in a 20-foot burst centered on itself. A creature that starts its turn in the cloud must succeed at a Fortitude save or become Sickened 1 (Sickened 2 on a critical failure).\nThis cloud dissipates after 1 minute or once exposed to strong winds (such as from a _Gust of Wind_ spell)."
+    desc: "`pf2:2`  **Frequency** once per hour;\n\n**Effect** The mechanical maître d' vents a cloud of putrid gas from its food waste compartment in a 20-foot burst centered on itself. A creature that starts its turn in the cloud must succeed at a DC 25 Fortitude save or become [[Conditions/Sickened|Sickened 1]] ([[Conditions/Sickened|Sickened 2]] on a critical failure).\n\nThis cloud dissipates after 1 minute or once exposed to strong winds (such as from a _[[Spells/Gust of Wind|Gust of Wind]]_ spell)."
  
+```
+
+```encounter-table
+name: Mechanical Maître d'
+creatures:
+  - 1: Mechanical Maître d'
 ```
 
 

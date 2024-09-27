@@ -29,7 +29,7 @@ Pale fade is a white ointment with a sharp, earthy scent. The poison rapidly des
 
 **Maximum Duration** 6 rounds
 
-**Stage 1** 10d6 poison and [[Conditions/Drained 1|Drained 1]] (1 round)
+**Stage 1** 10d6 poison and [[Conditions/Drained|Drained 1]] (1 round)
 
 **Stage 2** 12d6 poison, drained 1, and concealed (1 round)
 

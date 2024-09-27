@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/elemental
   - pf2e/creature/type/fire
   - pf2e/creature/type/water
+  - pf2eMonster
   - pf2e/creature/level/2
 statblock: inline
 name: "Scalding Mephit"
@@ -22,12 +23,12 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Society Scenario #3-12: Fury&#x27;s Toll"
 name: "Scalding Mephit"
 level: "Creature 2"
-rare_03: "Rare"
+rare_03: [[Rare]]
 alignment: ""
 size: "Small"
-trait_01: "elemental"
-trait_02: "fire"
-trait_03: "water"
+trait_01: [[elemental]]
+trait_02: [[fire]]
+trait_03: [[water]]
 modifier: 4
 perception:
   - name: "Perception"
@@ -66,11 +67,17 @@ attacks:
     desc: "DC 18, attack +10; __2nd __  _[[Spells/Mist|Obscuring Mist]]_"
 
   - name: "Boiling Rain"
-    desc: "`pf2:2` (arcane,fire,water) **Frequency** once per day\n**Effect** The scalding mephit calls down a rain boiling water that surrounds them in a 10-foot emanation. Creatures in the area take 2d8 + 3 fire damage (DC 18 Reflex check save), and small unattended flames (such as torches) are extinguished."
+    desc: "`pf2:2` (arcane,fire,water) **Frequency** once per day\n* * *\n\n**Effect** The scalding mephit calls down a rain boiling water that surrounds them in a @Template[emanation|distance:10]. Creatures in the area take 2d8+3 fire damage (DC 18 Reflex check save), and small unattended flames (such as torches) are extinguished."
 
   - name: "Breath Weapon"
-    desc: "`pf2:2` (arcane,fire) The scalding mephit spits a cloud of steam in a 15-foot cone that deals 3d6 fire damage to each creature within the area (DC 18 Reflex check save).\nThe scalding mephit can't use Breath Weapon again for 1d4 rounds."
+    desc: "`pf2:2` (arcane,fire) The scalding mephit spits a cloud of steam in a @Template[cone|distance:15] that deals 3d6 fire damage to each creature within the area (DC 18 Reflex check save).\n\nThe scalding mephit can't use Breath Weapon again for 1d4 rounds."
  
+```
+
+```encounter-table
+name: Scalding Mephit
+creatures:
+  - 1: Scalding Mephit
 ```
 
 

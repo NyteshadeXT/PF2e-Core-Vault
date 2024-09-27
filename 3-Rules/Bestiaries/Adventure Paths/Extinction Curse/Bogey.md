@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.extinction-curse-bestiary.Actor.u6b7tlXDXMxmkdLO"
 tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/fey
+  - pf2eMonster
   - pf2e/creature/level/3
 statblock: inline
 name: "Bogey"
@@ -21,11 +22,11 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #152: Legacy of the Lost God"
 name: "Bogey"
 level: "Creature 3"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Small"
-trait_01: "evil"
-trait_02: "fey"
+trait_01: [[evil]]
+trait_02: [[fey]]
 modifier: 9
 perception:
   - name: "Perception"
@@ -61,11 +62,17 @@ attacks:
     desc: "DC 18, attack +8; __1st __ (2 slots) _[[Spells/Fear|Fear]]_\n__Cantrips__  __(2nd)__ _[[Spells/Ghost Sound|Ghost Sound]]_, _[[Spells/Message|Message]]_"
 
   - name: "Devour Soul"
-    desc: "`pf2:3` (occult) **Requirements** The bogey has killed a creature within the last round and is adjacent to the creature\n**Effect** The bogey consumes the creature's soul. The soul is utterly destroyed-nothing short of [[Spells/Wish|Wish]] or a similar effect can restore it to life, and only after the bogey has been slain. The bogey regains Hit Points equal to double the level of the consumed creature. After devouring three souls within a year, the bogey transforms into a bugaboo."
+    desc: "`pf2:3` (occult) **Requirements** The bogey has killed a creature within the last round and is adjacent to the creature\n* * *\n\n**Effect** The bogey consumes the creature's soul. The soul is utterly destroyed-nothing short of [[Spells/Wish|Wish]] or a similar effect can restore it to life, and only after the bogey has been slain. The bogey regains Hit Points equal to double the level of the consumed creature. After devouring three souls within a year, the bogey transforms into a bugaboo."
 
   - name: "Surprise Attack"
     desc: "  On the first round of combat, creatures that haven't acted yet are [[Conditions/Off-Guard|Off-Guard]] to the bogey."
  
+```
+
+```encounter-table
+name: Bogey
+creatures:
+  - 1: Bogey
 ```
 
 

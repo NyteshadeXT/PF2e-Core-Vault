@@ -14,7 +14,7 @@ tags:
 
 # Painful Poke
 
-> The target is [[Conditions/Stunned 1|Stunned 1]].
+> The target is [[Conditions/Stunned|Stunned 1]].
 
 `Piercing`
 
@@ -26,6 +26,6 @@ tags:
 
 # Devastating Strike
 
-> Triple damage. The target is [[Conditions/Stunned 1|Stunned 1]].
+> Triple damage. The target is [[Conditions/Stunned|Stunned 1]].
 
 `Bomb or Spell`

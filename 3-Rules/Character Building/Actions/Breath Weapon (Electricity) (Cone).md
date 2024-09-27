@@ -13,7 +13,7 @@ license: OGL
 ---
 # Breath Weapon (Electricity) (Cone) `pf2:2`
 
-### [[arcane]][[eidolon]][[electricity]]
+### [[3-Rules/Rule References/Arcane]][[eidolon]][[3-Rules/Rule References/Electricity]]
 
 **Category** offensive; 
 

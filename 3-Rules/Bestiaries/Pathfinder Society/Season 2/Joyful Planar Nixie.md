@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/chaotic
   - pf2e/creature/type/fey
   - pf2e/creature/type/water
+  - pf2eMonster
   - pf2e/creature/level/5
 statblock: inline
 name: "Joyful Planar Nixie"
@@ -23,13 +24,13 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Society Scenario #2-16: Freedom for Wishes"
 name: "Joyful Planar Nixie"
 level: "Creature 5"
-rare_03: "Rare"
+rare_03: [[Rare]]
 alignment: ""
 size: "Small"
-trait_01: "aquatic"
-trait_02: "chaotic"
-trait_03: "fey"
-trait_04: "water"
+trait_01: [[aquatic]]
+trait_02: [[chaotic]]
+trait_03: [[fey]]
+trait_04: [[water]]
 modifier: 11
 perception:
   - name: "Perception"
@@ -68,8 +69,14 @@ attacks:
     desc: "DC 22, attack +14; __3rd __ (3 slots) _[[Spells/Hydraulic Push|Hydraulic Push (x3)]]_; __2nd __ (1 slots) _[[Spells/Water Breathing|Water Breathing]]_; __1st __  _[[Spells/Charm|Charm (At Will)]]_"
 
   - name: "Grant Desire"
-    desc: "`pf2:3` (primal) **Frequency** once per day\n**Effect** The planar nixie can duplicate a spell of up to 3rd level, but only in response to the request or desire of a non-fey creature. The creature whose desire is granted can never again benefit from that particular planar nixie's Grant Desire ability."
+    desc: "`pf2:3` (primal) **Frequency** once per day\n* * *\n\n**Effect** The planar nixie can duplicate a spell of up to 3rd level, but only in response to the request or desire of a non-fey creature. The creature whose desire is granted can never again benefit from that particular planar nixie's Grant Desire ability."
  
+```
+
+```encounter-table
+name: Joyful Planar Nixie
+creatures:
+  - 1: Joyful Planar Nixie
 ```
 
 

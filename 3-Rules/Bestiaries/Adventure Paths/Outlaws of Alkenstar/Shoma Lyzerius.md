@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/human
   - pf2e/creature/type/humanoid
   - pf2e/creature/type/naari
+  - pf2eMonster
   - pf2e/creature/level/3
 statblock: inline
 name: "Shoma Lyzerius"
@@ -23,13 +24,13 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #178: Punks in a Powder Keg"
 name: "Shoma Lyzerius"
 level: "Creature 3"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Medium"
-trait_01: "chaotic"
-trait_02: "human"
-trait_03: "humanoid"
-trait_04: "naari"
+trait_01: [[chaotic]]
+trait_02: [[human]]
+trait_03: [[humanoid]]
+trait_04: [[naari]]
 modifier: 9
 perception:
   - name: "Perception"
@@ -89,6 +90,12 @@ attacks:
   - name: "Quick Bomber"
     desc: "`pf2:1`  Lyzerius can Interact to draw a bomb and then make a Strike with it."
  
+```
+
+```encounter-table
+name: Shoma Lyzerius
+creatures:
+  - 1: Shoma Lyzerius
 ```
 
 

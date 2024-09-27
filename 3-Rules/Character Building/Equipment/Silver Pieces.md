@@ -4,8 +4,9 @@ title: "Silver Pieces"
 cssclasses: pf2e,pf2e-action
 tags:
   - trait/common
+  - remaster
 aliases: "Compendium.pf2e.equipment-srd.Item.5Ew82vBF9YfaiY9f"
-license: OGL
+license: ORC
 ---
 # Silver Pieces
 
@@ -18,5 +19,5 @@ license: OGL
 
 
 
-*Source: Pathfinder Core Rulebook*
-*OGL*
+*Source: Pathfinder Player Core*
+*ORC*

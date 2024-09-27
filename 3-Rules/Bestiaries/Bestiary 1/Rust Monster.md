@@ -6,6 +6,7 @@ cssClasses: pf2e
 aliases: "Compendium.pf2e.pathfinder-bestiary.Actor.mEmWRqTRxLUZQYSh" 
 tags:
   - pf2e/creature/type/aberration
+  - pf2eMonster
   - pf2e/creature/level/3
 statblock: inline
 name: "Rust Monster"
@@ -24,14 +25,15 @@ level: "Creature 3"
 
 alignment: ""
 size: "Medium"
-trait_01: "aberration"
+trait_01: [[aberration]]
 modifier: 8
 perception:
   - name: "Perception"
     desc: "+8; Darkvision, Scent (Imprecise) 30 Feet"
+languages: ""
 skills:
   - name: "Skills"
-    desc: "Athletics: +7 (+13 to Disarm a metal item)"
+    desc: "Athletics: +7"
 abilityMods: [0, 3, 1, -4, 1, 0]
 speed: 35 feet,  climb 10 feet
 sourcebook: "_Pathfinder Bestiary_"
@@ -53,7 +55,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Tail Trip"
-    desc: "`pf2:r`  **Trigger** A creature carrying a metal item attempts to move out of a square within reach of the rust monster's tail.\n**Effect** The rust monster makes a tail Strike against the triggering creature."
+    desc: "`pf2:r`  **Trigger** A creature carrying a metal item attempts to move out of a square within reach of the rust monster's tail.\n* * *\n\n**Effect** The rust monster makes a tail Strike against the triggering creature."
 
 attacks:
   - name: ""
@@ -68,11 +70,17 @@ attacks:
     desc: "`pf2:1` Tail +8 (finesse)\n__Damage__  1d4 + 2 bludgeoning plus improved-knockdown"
 
   - name: "Antenna Disarm"
-    desc: "`pf2:1`  The rust monster attempts to [[Action Macros/Disarm_ Athletics|Disarm]] a metal item a creature is holding using its antenna (with the same modifier as an antenna Strike).\nOn a success, the item is subject to the rust monster's rust ability in addition to the effects of the Disarm, and if the check to Disarm is a critical success, the rust monster drops the item on the ground in its own space."
+    desc: "`pf2:1`  The rust monster attempts to [[Action Macros/Disarm_ Athletics|Disarm]] a metal item a creature is holding using its antenna (with the same modifier as an antenna Strike).\n\nOn a success, the item is subject to the rust monster's rust ability in addition to the effects of the Disarm, and if the check to Disarm is a critical success, the rust monster drops the item on the ground in its own space."
 
   - name: "Rust"
-    desc: "  A rust monster's antenna causes metal to rapidly rust and corrode.\nIf it succeeds at an antenna Strike or Disarm attempt with its antenna, the rust monster deals 2d6 damage (doubled on a critical hit) to a metal item the target is wearing or holding, ignoring its Hardness.\nIf the rust monster hits an unattended metal item, the item takes this damage automatically.\nIf a creature uses the [[Feats/Shield Block|Shield Block]] reaction with a metal shield against an antenna attack, the shield is automatically broken, but no other item is rusted on that attack."
+    desc: "  A rust monster's antenna causes metal to rapidly rust and corrode.\n\nIf it succeeds at an antenna Strike or Disarm attempt with its antenna, the rust monster deals 2d6 damage (doubled on a critical hit) to a metal item the target is wearing or holding, ignoring its Hardness.\n\nIf the rust monster hits an unattended metal item, the item takes this damage automatically.\n\nIf a creature uses the [[Feats/Shield Block|Shield Block]] reaction with a metal shield against an antenna attack, the shield is automatically broken, but no other item is rusted on that attack."
  
+```
+
+```encounter-table
+name: Rust Monster
+creatures:
+  - 1: Rust Monster
 ```
 
 

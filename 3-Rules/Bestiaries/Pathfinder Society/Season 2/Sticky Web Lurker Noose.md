@@ -3,6 +3,7 @@ title: Sticky Web Lurker Noose
 obsidianUIMode: preview
 noteType: pf2eHazard
 tags:
+  - pf2eHazard
 
 source: Pathfinder Society Scenario #2-18: The Fanciful March of Urwal
 aliases: "Compendium.pf2e.pfs-season-2-bestiary.Actor.OMEVkAFReRtjj1zb" 
@@ -25,7 +26,7 @@ sourcebook: "_Pathfinder Society Scenario #2-18: The Fanciful March of Urwal_"
 ac: 19
 armorclass:
   - name: AC
-    desc: "19; __Fort__ +12, __Ref__ +6, __Will__ +0"
+    desc: "19; __Fort__ +12, __Ref__ +6, "
 hp: 0
 health:
   - name: ""
@@ -47,11 +48,17 @@ attacks:
   - name: ""
 
   - name: "Web Noose"
-    desc: "`pf2:r` (attack) **Trigger** A creature steps into the square with the web tripwire.\n**Effect** The web lurker noose makes a noose Strike against the triggering creature."
+    desc: "`pf2:r` (attack) **Trigger** A creature steps into the square with the web tripwire.\n* * *\n\n**Effect** The web lurker noose makes a noose Strike against the triggering creature."
   - name: "Melee"
     desc: "Noose Strike +15 (deadly d10) On a successful strike, the target is grabbed and pulled off the ground (Escape DC 22). The target takes 1d6 bludgeoning damage at the end of each of its turns as long as it's caught in the noose."
 
 
 
+```
+
+```encounter-table
+name: Sticky Web Lurker Noose
+creatures:
+  - 1: Sticky Web Lurker Noose
 ```
 

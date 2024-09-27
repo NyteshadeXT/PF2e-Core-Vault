@@ -9,8 +9,9 @@ tags:
   - trait/poison
   - trait/common
   - category/poison
+  - remaster
 aliases: "Compendium.pf2e.equipment-srd.Item.aZm1x9tpvBAT8YCd"
-license: OGL
+license: ORC
 ---
 # Cytillesh Oil
 ## Item 3
@@ -21,11 +22,11 @@ license: OGL
 **Bulk** L; **Size** med
 **Usage** held-in-one-hand
 
-This thick substance is distilled from the mind-robbing cytillesh fungus, though it lacks memory-altering capabilities.
+**Activate** `pf2:2` (manipulate)
 
 * * *
 
-**Activate** `pf2:2` Interact (Injury)
+This thick substance is distilled from the mind-robbing cytillesh fungus, though it lacks memory-altering capabilities.
 
 **Saving Throw** DC 19 Fortitude check
 
@@ -37,5 +38,5 @@ This thick substance is distilled from the mind-robbing cytillesh fungus, though
 
 **Stage 3** 2d10 poison damage (1 round)
 
-*Source: Pathfinder Core Rulebook*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

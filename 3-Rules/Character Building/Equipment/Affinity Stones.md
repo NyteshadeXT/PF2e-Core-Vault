@@ -12,7 +12,7 @@ license: OGL
 ---
 # Affinity Stones
 ## Item 9
-### [rare](rare "Rare Rarity Trait")[[artifact]][[invested]][[magical]]
+### [rare](rare.md "Rare Rarity Trait")[[artifact]][[invested]][[3-Rules/Rule References/Magical]]
 
 
 **Price** 0 gp; 

@@ -22,7 +22,7 @@ license: OGL
 
 
 
-You create a tune so catchy, your foes can't help but dance along. Attempt a Performance check check against the Will DCs of all enemies in a 30-foot emanation.
+You create a tune so catchy, your foes can't help but dance along. Attempt a Performance check check against the Will DCs of all enemies in a @Template\[emanation|distance:30\].
 
 * * *
 

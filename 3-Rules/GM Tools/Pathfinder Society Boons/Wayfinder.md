@@ -16,16 +16,13 @@ license: OGL
 
 
 
-
-**\[Slotless\]**
-
-**Prerequisites** Tier 0 with any faction
-
-**Cost** 2 Fame
+**Prerequisites** Played 2 sessions
+* * *
+**Cost**: 0 AcP
 
 * * *
 
-**Effect** To guide your path, your faction has secured a wayfinder for you to carry on your journeys and serve as a badge of office in the Pathfinder Society. This wayfinder has an effective sale price of 0 gp.
+To guide your path, your faction has secured a wayfinder for you to carry on your journeys and serve as a badge of office in the Pathfinder Society. This wayfinder has an effective sale price of 0 gp.
 
 *Source: *
 *OGL*

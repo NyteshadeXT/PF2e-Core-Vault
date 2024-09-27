@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/incorporeal
   - pf2e/creature/type/kami
   - pf2e/creature/type/spirit
+  - pf2eMonster
   - pf2e/creature/level/6
 statblock: inline
 name: "Silsyche"
@@ -23,13 +24,13 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #198: No Breath to Cry"
 name: "Silsyche"
 level: "Creature 6"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Small"
-trait_01: "chaotic"
-trait_02: "incorporeal"
-trait_03: "kami"
-trait_04: "spirit"
+trait_01: [[chaotic]]
+trait_02: [[incorporeal]]
+trait_03: [[kami]]
+trait_04: [[spirit]]
 modifier: 14
 perception:
   - name: "Perception"
@@ -71,8 +72,14 @@ attacks:
     desc: "DC 24, attack +16; __3rd __  _[[Spells/Item Facade|Item Facade]]_; __2nd __  _[[Spells/Illusory Object|Illusory Object (x3)]]_\n__Cantrips__  __(3rd)__ _[[Spells/Light|Light]]_, _[[Spells/Telekinetic Hand|Telekinetic Hand]]_, _[[Spells/Telekinetic Projectile|Telekinetic Projectile]]_"
 
   - name: "Hallucinatory Home"
-    desc: "`pf2:3` (divine,emotion,illusion,mental) **Frequency** once per day\n**Effect** The silsyche creates a hospitable but illusory environment in an attempt to entice their targets into staying, including food and amenities. Creatures in the building must attempt a DC 24 Will check save.\n**Critical Success** The creature is unaffected.\n**Success** The creature perceives the home to be as the silsyche's illusion presents it but isn't compelled to stay.\n**Failure** The creature becomes [[Conditions/Fascinated|Fascinated]] with the building and refuses to leave. The creature can attempt another Will save at the end of each turn. On a success, they're no longer fascinated.\n**Critical Failure** As failure, but the creature becomes hostile to anyone who tries to make them leave the building. The creature can only attempt another Will save to end the effect at the end of any turn in which they attack an ally."
+    desc: "`pf2:3` (divine,emotion,illusion,mental) **Frequency** once per day\n* * *\n\n**Effect** The silsyche creates a hospitable but illusory environment in an attempt to entice their targets into staying, including food and amenities. Creatures in the building must attempt a DC 24 Will check save.\n* * *\n\n**Critical Success** The creature is unaffected.\n\n**Success** The creature perceives the home to be as the silsyche's illusion presents it but isn't compelled to stay.\n\n**Failure** The creature becomes [[Conditions/Fascinated|Fascinated]] with the building and refuses to leave. The creature can attempt another Will save at the end of each turn. On a success, they're no longer fascinated.\n\n**Critical Failure** As failure, but the creature becomes hostile to anyone who tries to make them leave the building. The creature can only attempt another Will save to end the effect at the end of any turn in which they attack an ally."
  
+```
+
+```encounter-table
+name: Silsyche
+creatures:
+  - 1: Silsyche
 ```
 
 

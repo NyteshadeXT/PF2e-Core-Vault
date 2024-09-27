@@ -4,34 +4,38 @@ title: "Divinity Leech"
 noteType: pf2eSpell
 cssclasses: pf2e,pf2e-spell
 tags:
+  - pf2eSpell
   - spell/level/9
   - trait/concentrate
   - trait/manipulate
   - trait/rare
+  - tradition/arcane
+  - tradition/occult
+
 aliases: "Compendium.pf2e.spells-srd.Item.T5Mt4jXFuh14uREv" 
+license: OGL
 ---
-# Divinity Leech  `pf2:2`  
-## Spell 9
-### [rare](rare "Rare Rarity Trait")[[concentrate]][[manipulate]]
-**Traditions** [[arcane]], [[occult]]
-**Range** 30 feet
-**Targets** 1 creature
-**Saving Throw**  will
-**Duration** 1 minute
-* * * 
-You disrupt the connection between a divine caster or deific servitor and their deity, blocking their use of divine power. If the target fails its save, it is [[Conditions/Fatigued|Fatigued]].
-
-For the spell's duration, whenever the target casts a divine spell, you regain 6d6 Hit Points and the target must attempt another Will save with the following effects.
-
-* * *
-
-**Critical Success** The target is unaffected.
-
-**Success** Each target of the divine spell has an outcome one degree of success better than the result it rolled.
-
-**Failure** The divine spell is lost and target is [[Conditions/Stunned 1|Stunned 1]].
-
-**Critical Failure** As failure, but the target is [[Conditions/Stunned 1|Stunned]] for 1 round.
-
-*Source: Pathfinder #162: Ruins of the Radiant Siege*
-*OGL*
+```statblock
+name: "Divinity Leech  `pf2:2`"
+level: "Spell 9"
+rare_03: [[Rare]]
+trait_01: [[concentrate]]
+trait_02: [[manipulate]]
+layout: Basic Pathfinder 2e Layout
+columns: 1
+columnWidth: x
+abilities_top:
+  - name: ""
+  - name: "Traditions"
+    desc: "arcane, occult"
+  - name: "Range"
+    desc: "30 feet; **Targets** 1 creature"
+  - name: "Defense"
+    desc: " will"
+  - name: "Duration"
+    desc: "1 minute"
+abilities_mid:
+  - name: ""
+    desc: "You disrupt the connection between a divine caster or deific servitor and their deity, blocking their use of divine power. If the target fails its save, it is [[Conditions/Fatigued|Fatigued]].\n\nFor the spell's duration, whenever the target casts a divine spell, you regain 6d6 healing Hit Points and the target must attempt another Will save with the following effects.\n* * *\n\n**Critical Success** The target is unaffected.\n\n**Success** Each target of the divine spell has an outcome one degree of success better than the result it rolled.\n\n**Failure** The divine spell is lost and target is [[Conditions/Stunned|Stunned 1]].\n\n**Critical Failure** As failure, but the target is [[Conditions/Stunned|Stunned]] for 1 round."
+sourcebook: "_Pathfinder #162: Ruins of the Radiant Siege_"
+```

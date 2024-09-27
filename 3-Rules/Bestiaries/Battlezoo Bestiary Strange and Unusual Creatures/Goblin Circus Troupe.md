@@ -10,6 +10,7 @@ tags:
   - pf2e/creature/type/goblin
   - pf2e/creature/type/humanoid
   - pf2e/creature/type/troop
+  - pf2eMonster
   - pf2e/creature/level/6
 statblock: inline
 name: "Goblin Circus Troupe"
@@ -28,11 +29,11 @@ level: "Creature 6"
 
 alignment: ""
 size: "grg"
-trait_01: "chaotic"
-trait_02: "evil"
-trait_03: "goblin"
-trait_04: "humanoid"
-trait_05: "troop"
+trait_01: [[chaotic]]
+trait_02: [[evil]]
+trait_03: [[goblin]]
+trait_04: [[humanoid]]
+trait_05: [[troop]]
 modifier: 11
 perception:
   - name: "Perception"
@@ -40,7 +41,7 @@ perception:
 languages: "Goblin"
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +13, Athletics: +13, Nature: +11, Performance: +14, "
+    desc: "Acrobatics: +13, Athletics: +13, Nature: +11, Performance: +14, Acrobatics: +13, Athletics: +13, Nature: +11, Performance: +14"
 abilityMods: [4, 6, 4, 1, 1, 2]
 speed: 25 feet
 sourcebook: "_Battlezoo Bestiary: Strange and Unusual_"
@@ -65,23 +66,29 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Cacophonous Aura"
-    desc: " (auditory,aura,mental) 30 feet. Whenever a living creature within the aura starts its turn, the creature must attempt a DC 21 Will check save.\n**Critical Success** The creature is immune to this ability for 1 hour.\n**Success** The creature is unaffected.\n**Failure** The creature is Stupefied 2 until the end of its next turn.\n**Critical Failure** The creature is stupefied 2 for 1 minute."
+    desc: " (auditory,aura,mental) 30 feet. Whenever a living creature within the aura starts its turn, the creature must attempt a DC 21 Will check save.\n* * *\n\n**Critical Success** The creature is immune to this ability for 1 hour.\n\n**Success** The creature is unaffected.\n\n**Failure** The creature is [[undefined]] until the end of its next turn.\n\n**Critical Failure** The creature is stupefied 2 for 1 minute."
 
 attacks:
   - name: ""
 
   - name: "Encore!"
-    desc: "`pf2:2` (auditory,mental,visual) **Requirements** No enemy is within 10 feet of the goblin circus troupe.\n**Effect** The goblin circus troupe puts on the show of their lives. Creatures within 120 feet that can see and hear the goblin circus troupe must attempt a DC 24 Will check save.\n**Success** The target is unaffected.\n**Failure** The target is Fascinated by the goblin circus troupe for 1 minute.\n**Critical Failure** The target is fascinated by the cavorting troupe and Stupefied 2 for 1 minute."
+    desc: "`pf2:2` (auditory,mental,visual) **Requirements** No enemy is within 10 feet of the goblin circus troupe.\n* * *\n\n**Effect** The goblin circus troupe puts on the show of their lives. Creatures within 120 feet that can see and hear the goblin circus troupe must attempt a DC 24 Will check save.\n\n**Success** The target is unaffected.\n\n**Failure** The target is [[undefined]] by the goblin circus troupe for 1 minute.\n\n**Critical Failure** The target is fascinated by the cavorting troupe and [[undefined]] for 1 minute."
 
   - name: "Pelt Them!"
     desc: "`pf2:2`  The goblin circus troupe pelt their target with a volley of stones, bombs, and random props. This volley is a 10-foot burst with a range of 30 feet that deals 2d8 bludgeoning damage and 2d4 fire damage (DC 21 Reflex check save). When the goblin circus troupe is reduced to 8 or fewer squares, this area decreases to a 5-foot burst."
 
   - name: "Smash Them!"
-    desc: "`pf2:1`  **Frequency** once per round\n**Effect** The goblin circus troupe engages in a coordinated attack against each enemy in their squares and within 5 feet (DC 21 Reflex check save). The damage depends on the number of actions.\n1 1d8 bludgeoning damage and 1d4 fire damage\n2 1d8+7 bludgeoning damage and 1d4 fire damage\n3 1d8+11 bludgeoning damage and 1d4 fire damage"
+    desc: "`pf2:1`  **Frequency** once per round\n* * *\n\n**Effect** The goblin circus troupe engages in a coordinated attack against each enemy in their squares and within 5 feet (DC 21 Reflex check save). The damage depends on the number of actions.\n\n1 1d8 bludgeoning damage and 1d4 fire damage\n\n2 1d8+7 bludgeoning damage and 1d4 fire damage\n\n3 1d8+11 bludgeoning damage and 1d4 fire damage"
 
   - name: "Troop Movement"
     desc: "  Whenever the goblin circus troupe Strides, the troupe first Forms Up as a free action to condense into a 20-foot-by-20-foot area (minus any missing squares), then moves. This works just like a Gargantuan creature moving; for instance, if any square of the troupe enters difficult terrain, the extra movement cost applies to the whole troupe."
  
+```
+
+```encounter-table
+name: Goblin Circus Troupe
+creatures:
+  - 1: Goblin Circus Troupe
 ```
 
 

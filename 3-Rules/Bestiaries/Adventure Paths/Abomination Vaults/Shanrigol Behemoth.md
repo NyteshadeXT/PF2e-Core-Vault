@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.abomination-vaults-bestiary.Actor.mrxDc0fj5t5CvjJQ"
 tags:
   - pf2e/creature/type/aberration
   - pf2e/creature/type/undead
+  - pf2eMonster
   - pf2e/creature/level/9
 statblock: inline
 name: "Shanrigol Behemoth"
@@ -21,15 +22,16 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #164: Hands of the Devil"
 name: "Shanrigol Behemoth"
 level: "Creature 9"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "grg"
-trait_01: "aberration"
-trait_02: "undead"
+trait_01: [[aberration]]
+trait_02: [[undead]]
 modifier: 18
 perception:
   - name: "Perception"
     desc: "+18; Darkvision, Tremorsense (Imprecise) 30 Feet"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Athletics: +20, Stealth: +16"
@@ -51,7 +53,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Necrotic Decay"
-    desc: " (divine,void) When the shanrigol behemoth dies, its flesh rots away and sublimates into a foul-smelling gas that fills a 5-foot emanation around the body. This gas deals 9d6 void damage to creatures in this area as their flesh curdles and rots as well (DC 27 Fortitude check save)."
+    desc: " (divine,void) When the shanrigol behemoth dies, its flesh rots away and sublimates into a foul-smelling gas that fills a @Template[emanation|distance:5] around the body. This gas deals 9d6 void damage to creatures in this area as their flesh curdles and rots as well (DC 27 Fortitude check save)."
 
 attacks:
   - name: ""
@@ -66,13 +68,13 @@ attacks:
     desc: "`pf2:1` Web +18 (range increment 30 feet)\n__Damage__ "
 
   - name: "Sapping Squeeze"
-    desc: "`pf2:1`  **Requirements** The shanrigol has a creature [[Conditions/Grabbed|Grabbed]]\n**Effect** The shanrigol squeezes the life essence from its target, dealing 1d10+11 bludgeoning and 1d6 persistent bleed damage (DC 25 Fortitude check save).\nThe shanrigol regains temporary Hit Points equal to half the amount of bludgeoning damage a single target takes; these temporary Hit Points last for 1 minute."
+    desc: "`pf2:1`  **Requirements** The shanrigol has a creature [[Conditions/Grabbed|Grabbed]]\n* * *\n\n**Effect** The shanrigol squeezes the life essence from its target, dealing 1d10+11 bludgeoning and 1d6 persistent bleed damage (DC 25 Fortitude check save).\n\nThe shanrigol regains temporary Hit Points equal to half the amount of bludgeoning damage a single target takes; these temporary Hit Points last for 1 minute."
 
   - name: "Shred Flesh"
-    desc: "  A shanrigol behemoth's attacks brutally rend its foes. Creatures critically hit by the shanrigol's fleshy slap Strike take an additional 2d6 bleed and are [[Conditions/Enfeebled 1|Enfeebled 1]] for as long as they are bleeding."
+    desc: "  A shanrigol behemoth's attacks brutally rend its foes. Creatures critically hit by the shanrigol's fleshy slap Strike take an additional 2d6 bleed and are [[Conditions/Enfeebled|Enfeebled 1]] for as long as they are bleeding."
 
   - name: "Undulating Step"
-    desc: "`pf2:2`  The shanrigol separates its flesh from its bones to fit through small spaces. It Strides, ignoring difficult terrain and fitting through tight spaces as though it were a Tiny creature.\nIt can't use any actions other than Undulating Step until it occupies an area large enough for its normal form."
+    desc: "`pf2:2`  The shanrigol separates its flesh from its bones to fit through small spaces. It Strides, ignoring difficult terrain and fitting through tight spaces as though it were a Tiny creature.\n\nIt can't use any actions other than Undulating Step until it occupies an area large enough for its normal form."
 
   - name: "Web Trap"
     desc: "  A creature hit by the shanrigol behemoth's web attack is [[Conditions/Immobilized|Immobilized]] and stuck to the nearest surface until it can Escape (DC 25)."
@@ -80,6 +82,12 @@ attacks:
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
     desc: "`pf2:1`  "
  
+```
+
+```encounter-table
+name: Shanrigol Behemoth
+creatures:
+  - 1: Shanrigol Behemoth
 ```
 
 

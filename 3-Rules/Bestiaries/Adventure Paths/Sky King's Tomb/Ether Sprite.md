@@ -6,6 +6,7 @@ cssClasses: pf2e
 aliases: "Compendium.pf2e.sky-kings-tomb-bestiary.Actor.g1tWmlBEnltpFK6m" 
 tags:
   - pf2e/creature/type/fey
+  - pf2eMonster
   - pf2e/creature/level/-1
 statblock: inline
 name: "Ether Sprite"
@@ -23,11 +24,12 @@ level: "Creature -1"
 
 alignment: ""
 size: "tiny"
-trait_01: "fey"
+trait_01: [[fey]]
 modifier: 5
 perception:
   - name: "Perception"
     desc: "+5; "
+languages: ""
 skills:
   - name: "Skills"
     desc: "Acrobatics: +4, Diplomacy: +4, Performance: +6, Stealth: +4, Thievery: +4"
@@ -58,12 +60,18 @@ attacks:
   - name: "Melee"
     desc: "`pf2:1` Rapier +6 (deadly d8, disarm, finesse, magical)\n__Damage__  1d6 - 2 piercing"
 
-  - name: "Melee"
+  - name: "Ranged"
     desc: "`pf2:1` Luminous Spark +6 (fire, light, magical, range 20 feet)\n__Damage__  1d4 fire"
 
   - name: "Hilarious Insult"
     desc: "`pf2:1` (auditory,emotion,linguistic,mental) The ether sprite taunts a creature within 30 feet and rolls Performance check against the target's Will DC. On a success, the target is [[Conditions/Confused|Confused]] until the end of their next turn."
  
+```
+
+```encounter-table
+name: Ether Sprite
+creatures:
+  - 1: Ether Sprite
 ```
 
 
@@ -78,4 +86,4 @@ The excitable sprites of the Ether Court prefer to frolic, drink, insult each ot
 
 #### Sprite Collections
 
-Ether sprites have a reputation for being thieves. In truth, they’re generally curious about the world and simply have a tendency to walk away with objects that don’t belong to them, not understanding the concept of ownership. As a result, ether sprites tend to have small interesting objects in their possession, such as talismans or gemstones.
+Ether sprites have a reputation for being thieves. In truth, they're generally curious about the world and simply have a tendency to walk away with objects that don't belong to them, not understanding the concept of ownership. As a result, ether sprites tend to have small interesting objects in their possession, such as talismans or gemstones.

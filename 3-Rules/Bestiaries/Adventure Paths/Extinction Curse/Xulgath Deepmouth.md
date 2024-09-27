@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/humanoid
   - pf2e/creature/type/xulgath
+  - pf2eMonster
   - pf2e/creature/level/12
 statblock: inline
 name: "Xulgath Deepmouth"
@@ -23,13 +24,13 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #155: Lord of the Black Sands"
 name: "Xulgath Deepmouth"
 level: "Creature 12"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Medium"
-trait_01: "chaotic"
-trait_02: "evil"
-trait_03: "humanoid"
-trait_04: "xulgath"
+trait_01: [[chaotic]]
+trait_02: [[evil]]
+trait_03: [[humanoid]]
+trait_04: [[xulgath]]
 modifier: 26
 perception:
   - name: "Perception"
@@ -57,7 +58,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Stench"
-    desc: " (aura,olfactory) 30 feet. A creature that enters the area must attempt a DC 28 Fortitude check save. On a failure, the creature is [[Conditions/Sickened 1|Sickened 1]], and on a critical failure, the creature also takes a -5-foot status penalty to its Speeds for 1 round.\nWhile within the aura, the creature takes a -2 circumstance penalty to saves to recover from the sickened condition.\nA creature that succeeds at its save is temporarily immune to all xulgaths' stenches for 1 minute.\n[[Bestiary Effects/Effect_ Xulgath Stench|Effect: Xulgath Stench]]"
+    desc: " (aura,olfactory) 30 feet. A creature that enters the area must attempt a DC 28 Fortitude check save. On a failure, the creature is [[Conditions/Sickened|Sickened 1]], and on a critical failure, the creature also takes a -5-foot status penalty to its Speeds for 1 round.\n\nWhile within the aura, the creature takes a -2 circumstance penalty to saves to recover from the sickened condition.\n\nA creature that succeeds at its save is temporarily immune to all xulgaths' stenches for 1 minute.\n\n[[Bestiary Effects/Effect_ Xulgath Stench|Effect: Xulgath Stench]]"
 
 attacks:
   - name: ""
@@ -81,11 +82,17 @@ attacks:
     desc: "_[[Spells/Commune|Commune]]_, _[[Spells/Consecrate|Consecrate]]_"
 
   - name: "Devourer's Dictum"
-    desc: "`pf2:1` (concentrate) The deepmouth warps part of a scalescribed creature's flesh into a mouthed tentacle, then wills it to lash out.\nThe deepmouth makes a jaws Strike that originates from any living scalescribed creature within 120 feet; this Strike also has reach 15 feet and deals an additional 2d8 void damage. If the Strike originates from a creature other than the deepmouth, that creature triggers reactions as though it had made the Strike."
+    desc: "`pf2:1` (concentrate) The deepmouth warps part of a scalescribed creature's flesh into a mouthed tentacle, then wills it to lash out.\n\nThe deepmouth makes a jaws Strike that originates from any living scalescribed creature within 120 feet; this Strike also has reach 15 feet and deals an additional 2d8 void damage. If the Strike originates from a creature other than the deepmouth, that creature triggers reactions as though it had made the Strike."
 
   - name: "Scalescribe"
-    desc: " (manipulate) With 10 minutes of work, a deepmouth can carve a magical rune called a scalescript on the flesh of a living, willing xulgath (including the deepmouth itself). A creature cannot be inscribed with more than one scalescribe rune at a time, and a deepmouth can create and maintain no more than three scalescripts at a time.\nIf the deepmouth Scalescribed itself, it can provide material and somatic components while Casting a Spell without a free hand."
+    desc: " (manipulate) With 10 minutes of work, a deepmouth can carve a magical rune called a scalescript on the flesh of a living, willing xulgath (including the deepmouth itself). A creature cannot be inscribed with more than one scalescribe rune at a time, and a deepmouth can create and maintain no more than three scalescripts at a time.\n\nIf the deepmouth Scalescribed itself, it can provide material and somatic components while Casting a Spell without a free hand."
  
+```
+
+```encounter-table
+name: Xulgath Deepmouth
+creatures:
+  - 1: Xulgath Deepmouth
 ```
 
 

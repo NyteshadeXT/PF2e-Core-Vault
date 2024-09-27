@@ -10,8 +10,9 @@ tags:
   - trait/mental
   - trait/common
   - category/ancestry
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.nePEcAp7lTL35uyx"
-license: OGL
+license: ORC
 ---
 # Caterwaul `pf2:r`
 ## Feat 13
@@ -28,9 +29,7 @@ license: OGL
 
 * * *
 
-You give a daring yowl in the face of adversity, calling your companion back from the brink of unconsciousness.
+You give a daring yowl, calling your companion back from the brink of unconsciousness. Your ally isn't knocked out and remains at 1 Hit Point. Their [[Conditions/Wounded|Wounded]] condition still increases by 1 as though they had been [[Conditions/Dying|Dying]] and recovered.
 
-Your ally isn't knocked out and remains at 1 Hit Point. Your ally's [[Conditions/Wounded 1|Wounded]] condition still increases by 1 as though they had been dying and recovered.
-
-*Source: Pathfinder Advanced Player's Guide*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

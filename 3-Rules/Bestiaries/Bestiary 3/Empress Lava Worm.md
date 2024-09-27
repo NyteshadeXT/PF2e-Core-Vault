@@ -6,6 +6,7 @@ cssClasses: pf2e
 aliases: "Compendium.pf2e.pathfinder-bestiary-3.Actor.YsgpbtWVT3q0OLWv" 
 tags:
   - pf2e/creature/type/animal
+  - pf2eMonster
   - pf2e/creature/level/7
 statblock: inline
 name: "Empress Lava Worm"
@@ -24,11 +25,12 @@ level: "Creature 7"
 
 alignment: ""
 size: "huge"
-trait_01: "animal"
+trait_01: [[animal]]
 modifier: 13
 perception:
   - name: "Perception"
     desc: "+13; Tremorsense (Imprecise) 60 Feet"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Athletics: +17, Stealth: +14"
@@ -50,7 +52,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Viviparous Birth"
-    desc: "  When killed, an empress lava worm violently expels the young it carries. These young erupt as a [[Bestiary 3/Lava Worm Swarm|Lava Worm Swarm]] in the empress lava worm's space.\nIn addition, every creature within 20 feet takes 5d10 fire damage (DC 25 Reflex check save) from the splatter of fiery viscera."
+    desc: "  When killed, an empress lava worm violently expels the young it carries. These young erupt as a [[Bestiary 3/Lava Worm Swarm|Lava Worm Swarm]] in the empress lava worm's space.\n\nIn addition, every creature within 20 feet takes 5d10 fire damage (DC 25 Reflex check save) from the splatter of fiery viscera."
 
 attacks:
   - name: ""
@@ -62,11 +64,17 @@ attacks:
     desc: "  An empress lava worm can leave a tunnel behind itself when it burrows, and it usually does."
 
   - name: "Fiery Wake"
-    desc: "`pf2:1`  The empress lava worm Strides, leaving behind dribbles of lava in every square that it passes through.\nA creature that enters or begins its turn in such a square takes 3d6 fire damage (DC 22 Fortitude check save). The lava becomes inert after 1 minute."
+    desc: "`pf2:1`  The empress lava worm Strides, leaving behind dribbles of lava in every square that it passes through.\n\nA creature that enters or begins its turn in such a square takes 3d6 fire damage (DC 22 Fortitude check save). The lava becomes inert after 1 minute."
 
   - name: "Painful Bite"
-    desc: "  The bite of an empress lava worm causes excruciating pain. The target must succeed at a DC 25 Fortitude check save or become [[Conditions/Sickened 1|Sickened 1]] from the pain ([[Conditions/Sickened 1|Sickened 2]] on a critical failure)."
+    desc: "  The bite of an empress lava worm causes excruciating pain. The target must succeed at a DC 25 Fortitude check save or become [[Conditions/Sickened|Sickened 1]] from the pain ([[Conditions/Sickened|Sickened 2]] on a critical failure)."
  
+```
+
+```encounter-table
+name: Empress Lava Worm
+creatures:
+  - 1: Empress Lava Worm
 ```
 
 

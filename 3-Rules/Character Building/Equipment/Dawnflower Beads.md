@@ -13,7 +13,7 @@ license: OGL
 ---
 # Dawnflower Beads
 ## Item 11
-### [rare](rare "Rare Rarity Trait")[[divine]][[healing]][[intelligent]][[vitality]]
+### [rare](rare.md "Rare Rarity Trait")[[3-Rules/Rule References/Divine]][[healing]][[intelligent]][[vitality]]
 
 
 **Price** 1400 gp; 

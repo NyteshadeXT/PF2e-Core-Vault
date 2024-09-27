@@ -14,7 +14,7 @@ license: OGL
 ---
 # Blessed Reformer
 ## Item 14
-### [uncommon](uncommon "Uncommon Rarity Trait")[[divine]][[holy]][[shove]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[3-Rules/Rule References/Divine]][[holy]][[3-Rules/trait_reference/shove]]
 
 |  |  |
 | -- | -- |
@@ -25,7 +25,7 @@ license: OGL
 
 
 
-The Celestial word for "repent" is etched in golden lettering on the shaft of this _+2 greater striking merciful dawnsilver warhammer_. An evil-aligned creature is [[Conditions/Enfeebled 1|Enfeebled 2]] when carrying or wielding this weapon.
+The Celestial word for "repent" is etched in golden lettering on the shaft of this _+2 greater striking merciful dawnsilver warhammer_. An evil-aligned creature is [[Conditions/Enfeebled|Enfeebled 2]] when carrying or wielding this weapon.
 
 **Activate** `pf2:2` command, Interact
 

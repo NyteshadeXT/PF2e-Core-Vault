@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/humanoid
   - pf2e/creature/type/xulgath
+  - pf2eMonster
   - pf2e/creature/level/20
 statblock: inline
 name: "Kirosthrek"
@@ -22,17 +23,17 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #156: The Apocalypse Prophet"
 name: "Kirosthrek"
 level: "Creature 20"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Medium"
-trait_01: "evil"
-trait_02: "humanoid"
-trait_03: "xulgath"
+trait_01: [[evil]]
+trait_02: [[humanoid]]
+trait_03: [[xulgath]]
 modifier: 36
 perception:
   - name: "Perception"
     desc: "+36; Darkvision, Thoughtsense (Imprecise) 60 Feet, Truesight"
-languages: "Chthonian, Common, Daemonic, Draconic, Sakvroth"
+languages: "Chthonian, Common, Daemonic, Draconic, Sakvroth; telepathy 100 feet"
 skills:
   - name: "Skills"
     desc: "Arcana: +36, Deception: +33, Diplomacy: +41, Intimidation: +33, Medicine: +38, Occultism: +38, Stealth: +37"
@@ -53,15 +54,15 @@ abilities_top:
   - name: "Items"
     desc: "[[Equipment/Studded Leather Armor|+2 Greater Resilient Studded Leather Armor]], [[Equipment/Planar Ribbon|Planar Ribbon]], [[Equipment/Elixir of Life (True)|Elixir of Life (True)]]"
   - name: "[[Bestiary Ability Glossary/Thoughtsense|Thoughtsense (Imprecise) 60 feet]]"
-    desc: " (mental,occult) Kirosthrek senses a creature's mental essence at the listed range.\n"
+    desc: " (mental,occult) Kirosthrek senses a creature's mental essence at the listed range.\n\n* * *\n"
 
 abilities_mid:
   - name: ""
   - name: "Divert Thoughts"
-    desc: "`pf2:r` (mental) **Trigger** Kirosthrek attempts a saving throw against a spell\n**Effect** Kirosthrek diverts some of the spell's energy, gaining a +2 circumstance bonus to the saving throw or +4 if the spell has the mental trait.\nIf she critically succeeds at the saving throw, she can use the Cast a Spell action on her next turn to cast the triggering spell at the same level without expending any spell slots."
+    desc: "`pf2:r` (mental) **Trigger** Kirosthrek attempts a saving throw against a spell\n* * *\n\n**Effect** Kirosthrek diverts some of the spell's energy, gaining a +2 circumstance bonus to the saving throw or +4 if the spell has the mental trait.\n\nIf she critically succeeds at the saving throw, she can use the Cast a Spell action on her next turn to cast the triggering spell at the same level without expending any spell slots."
 
   - name: "Psychogenic Secretions"
-    desc: " (aura,mental) 30 feet. A creature that enters the emanation must attempt a DC 42 Will check save.\nOn a failure, the creature is [[Conditions/Stupefied 1|Stupefied 1]] for 1 minute ([[Conditions/Stupefied 1|Stupefied 2]] and also [[Conditions/Paralyzed|Paralyzed]] for 1 round on a critical failure).\nA creature that succeeds at its save is temporarily immune to psychogenic secretions for 1 minute."
+    desc: " (aura,mental) 30 feet. A creature that enters the emanation must attempt a DC 42 Will check save.\n\nOn a failure, the creature is [[Conditions/Stupefied|Stupefied 1]] for 1 minute ([[Conditions/Stupefied|Stupefied 2]] and also [[Conditions/Paralyzed|Paralyzed]] for 1 round on a critical failure).\n\nA creature that succeeds at its save is temporarily immune to psychogenic secretions for 1 minute."
 
 attacks:
   - name: ""
@@ -82,8 +83,14 @@ attacks:
     desc: "_[[Spells/Call Spirit|Call Spirit]]_, _[[Spells/Inveigle|Inveigle]]_, _[[Spells/Binding Circle|Planar Binding]]_"
 
   - name: "Consume Knowledge"
-    desc: "`pf2:2` (mental,occult) Kirosthrek invades the mind of a creature within 100 feet and attempts to swallow its capacity for higher thought. The creature must attempt a DC 42 Will check save.\nUsing Consume Knowledge immediately ends any of the ability's previous effects on a different creature.\n**Critical Success** The creature is unaffected.\n**Success** The creature is [[Conditions/Slowed 1|Slowed 1]] for 1 round.\n**Failure** The creature is slowed 1 and can take no actions other than basic actions for 1 minute.\n**Critical Failure** As failure, and Kirosthrek is [[Conditions/Quickened|Quickened 1]] for 1 minute. She can use this extra action to Stride, Strike, or Cast a Spell if the target had prepared spells or a spell repertoire."
+    desc: "`pf2:2` (mental,occult) Kirosthrek invades the mind of a creature within 100 feet and attempts to swallow its capacity for higher thought. The creature must attempt a DC 42 Will check save.\n\nUsing Consume Knowledge immediately ends any of the ability's previous effects on a different creature.\n* * *\n\n**Critical Success** The creature is unaffected.\n\n**Success** The creature is [[Conditions/Slowed|Slowed 1]] for 1 round.\n\n**Failure** The creature is slowed 1 and can take no actions other than basic actions for 1 minute.\n\n**Critical Failure** As failure, and Kirosthrek is [[Conditions/Quickened|Quickened 1]] for 1 minute. She can use this extra action to Stride, Strike, or Cast a Spell if the target had prepared spells or a spell repertoire."
  
+```
+
+```encounter-table
+name: Kirosthrek
+creatures:
+  - 1: Kirosthrek
 ```
 
 

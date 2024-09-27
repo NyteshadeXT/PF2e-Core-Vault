@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/undead
   - pf2e/creature/type/unholy
+  - pf2eMonster
   - pf2e/creature/level/3
 statblock: inline
 name: "Opkherab"
@@ -23,13 +24,13 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #181: Zombie Feast"
 name: "Opkherab"
 level: "Creature 3"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Medium"
-trait_01: "chaotic"
-trait_02: "evil"
-trait_03: "undead"
-trait_04: "unholy"
+trait_01: [[chaotic]]
+trait_02: [[evil]]
+trait_03: [[undead]]
+trait_04: [[unholy]]
 modifier: 10
 perception:
   - name: "Perception"
@@ -56,13 +57,13 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Draining Peek"
-    desc: "`pf2:r` (death,occult,visual) **Trigger** A living creature within 30 feet that Opkherab can perceive with his lifesense starts its turn\n**Effect** The target must attempt a DC 17 Fortitude check save. If it fails, Opkherab regains 3 Hit Points, and the target becomes [[Conditions/Drained 1|Drained 1]]. Opkherab can't use Draining Peek for 1d4 rounds."
+    desc: "`pf2:r` (death,occult,visual) **Trigger** A living creature within 30 feet that Opkherab can perceive with his lifesense starts its turn\n* * *\n\n**Effect** The target must attempt a DC 17 Fortitude check save. If it fails, Opkherab regains 3 Hit Points, and the target becomes [[Conditions/Drained|Drained 1]]. Opkherab can't use Draining Peek for 1d4 rounds."
 
   - name: "Key Conditioning"
     desc: "  Opkherab has a -1 circumstance penalty to attacks against anyone holding one of the bank's keys."
 
   - name: "Sunlight Vulnerability"
-    desc: " (death) If exposed to direct sunlight, Opkherab can't use actions with the death trait and it becomes [[Conditions/Slowed 1|Slowed 1]]. The slowed value increases by 1 each time Opkherab ends its turn in sunlight. If Opkherab loses all its actions this way, he is destroyed."
+    desc: " (death) If exposed to direct sunlight, Opkherab can't use actions with the death trait and it becomes [[Conditions/Slowed|Slowed 1]]. The slowed value increases by 1 each time Opkherab ends its turn in sunlight. If Opkherab loses all its actions this way, he is destroyed."
 
 attacks:
   - name: ""
@@ -71,11 +72,17 @@ attacks:
     desc: "`pf2:1` Fist +12 (agile, finesse)\n__Damage__  1d6 + 4 bludgeoning plus grab"
 
   - name: "Death Grip"
-    desc: " (death,occult) When Opkherab Grabs a living creature, including a Grab to extend the effect on a grappled creature, he gains 3 temporary Hit Points, and the creature must succeed at a DC 17 Fortitude check save or become [[Conditions/Drained 1|Drained 1]]. This increases the value of the creature's drained condition by 1, to a maximum of drained 4."
+    desc: " (death,occult) When Opkherab Grabs a living creature, including a Grab to extend the effect on a grappled creature, he gains 3 temporary Hit Points, and the creature must succeed at a DC 17 Fortitude check save or become [[Conditions/Drained|Drained 1]]. This increases the value of the creature's drained condition by 1, to a maximum of drained 4."
 
   - name: "Zombie Spawn"
     desc: " (occult) Any humanoid who dies while drained by Opkherab rises as an autonomous zombie 24 hours after their death. You might use this opportunity to allow the player to keep playing the same character, rebuilt with the zombie archetype."
  
+```
+
+```encounter-table
+name: Opkherab
+creatures:
+  - 1: Opkherab
 ```
 
 

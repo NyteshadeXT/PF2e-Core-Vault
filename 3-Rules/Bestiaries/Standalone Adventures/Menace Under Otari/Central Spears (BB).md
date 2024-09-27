@@ -3,6 +3,7 @@ title: Central Spears (BB)
 obsidianUIMode: preview
 noteType: pf2eHazard
 tags:
+  - pf2eHazard
 
 source: Pathfinder Beginner Box
 aliases: "Compendium.pf2e.menace-under-otari-bestiary.Actor.j8qD2LVDSP2lhLUO" 
@@ -43,5 +44,11 @@ attacks:
 
   - name: "Reset"
     desc: "The central spears reset after 1 minute."
+```
+
+```encounter-table
+name: Central Spears (BB)
+creatures:
+  - 1: Central Spears (BB)
 ```
 

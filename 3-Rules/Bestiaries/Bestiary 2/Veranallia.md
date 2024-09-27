@@ -10,6 +10,7 @@ tags:
   - pf2e/creature/type/chaotic
   - pf2e/creature/type/good
   - pf2e/creature/type/holy
+  - pf2eMonster
   - pf2e/creature/level/20
 statblock: inline
 name: "Veranallia"
@@ -28,19 +29,19 @@ level: "Creature 20"
 
 alignment: ""
 size: "Medium"
-trait_01: "azata"
-trait_02: "celestial"
-trait_03: "chaotic"
-trait_04: "good"
-trait_05: "holy"
+trait_01: [[azata]]
+trait_02: [[celestial]]
+trait_03: [[chaotic]]
+trait_04: [[good]]
+trait_05: [[holy]]
 modifier: 38
 perception:
   - name: "Perception"
     desc: "+38; Darkvision, Tremorsense (Imprecise) 120 Feet"
-languages: "Diabolic, Draconic, Empyrean"
+languages: "Diabolic, Draconic, Empyrean; speak with animals, speak with plants, tongues"
 skills:
   - name: "Skills"
-    desc: "Athletics: +34, Deception: +36, Diplomacy: +38, Elysium Lore: +36, Intimidation: +36, Medicine: +36, Nature: +34, Survival: +38"
+    desc: "Athletics: +34, Deception: +36, Diplomacy: +38, Intimidation: +36, Medicine: +36, Nature: +34, Survival: +38, Elysium Lore: +36"
 abilityMods: [8, 6, 8, 6, 10, 8]
 speed: 40 feet,  fly 40 feet
 sourcebook: "_Pathfinder Bestiary 2_"
@@ -75,11 +76,17 @@ attacks:
     desc: "_[[Spells/Awaken Animal|Awaken Animal]]_, _[[Spells/Blight|Blight]]_, _[[Compendium.pf2e.spells-srd.Item.l4LFwY7iuzX6sDXr|Commune with Nature]]_, _[[Spells/Consecrate|Consecrate]]_, _[[Spells/Plant Growth|Plant Growth]]_, _[[Spells/Primal Call|Primal Call]]_, _[[Spells/Reincarnate|Reincarnate]]_"
 
   - name: "Alter Weather"
-    desc: "`pf2:3`  **Frequency** three times per day\n**Effect** The veranallia dramatically alters weather patterns in the surrounding area, producing any of the results of a successful 9th-rank [[Spells/Control Weather|Control Weather]] ritual."
+    desc: "`pf2:3`  **Frequency** three times per day\n* * *\n\n**Effect** The veranallia dramatically alters weather patterns in the surrounding area, producing any of the results of a successful 9th-rank [[Spells/Control Weather|Control Weather]] ritual."
 
   - name: "Rebirth"
-    desc: " (divine) **Frequency** once per day\n**Effect** The veranallia spends a minute to encase a creature that has been dead for no more than a year in a cocoon. After 24 hours, the creature is restored to life, and the cocoon explodes in a shower of colorful blossoms. If the veranallia's chooses, Rebirth can change the creature's ancestry or heritage, typically into an aasimar."
+    desc: " (divine) **Frequency** once per day\n* * *\n\n**Effect** The veranallia spends a minute to encase a creature that has been dead for no more than a year in a cocoon. After 24 hours, the creature is restored to life, and the cocoon explodes in a shower of colorful blossoms. If the veranallia's chooses, Rebirth can change the creature's ancestry or heritage, typically into an aasimar."
  
+```
+
+```encounter-table
+name: Veranallia
+creatures:
+  - 1: Veranallia
 ```
 
 

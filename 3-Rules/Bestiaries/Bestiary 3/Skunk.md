@@ -6,6 +6,7 @@ cssClasses: pf2e
 aliases: "Compendium.pf2e.pathfinder-bestiary-3.Actor.CFzeAzMfGHkzCF7h" 
 tags:
   - pf2e/creature/type/animal
+  - pf2eMonster
   - pf2e/creature/level/-1
 statblock: inline
 name: "Skunk"
@@ -24,11 +25,12 @@ level: "Creature -1"
 
 alignment: ""
 size: "tiny"
-trait_01: "animal"
+trait_01: [[animal]]
 modifier: 5
 perception:
   - name: "Perception"
     desc: "+5; Low-Light Vision, Scent (Imprecise) 40 Feet"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Acrobatics: +5, Athletics: +2, Stealth: +5"
@@ -56,8 +58,14 @@ attacks:
     desc: "`pf2:1` Jaws +7 (agile, finesse)\n__Damage__  1d8 piercing"
 
   - name: "Spray Musk"
-    desc: "`pf2:2` (poison) The skunk propels a stream of acrid musk in a 10-foot line. Each creature in the line must attempt a DC 16 Fortitude check save.\n**Critical Success** The target is unaffected.\n**Success** The target is [[Conditions/Sickened 1|Sickened 1]].\n**Failure** The target is [[Conditions/Sickened 1|Sickened 2]].\n**Critical Failure** The target is [[Conditions/Sickened 1|Sickened 2]] and takes a -2 penalty to Stealth checks from the horrific odor for 24 hours or until the musk is removed or neutralized, requiring 10 minutes of thorough scrubbing with soap.\n[[Bestiary Effects/Effect_ Musk|Effect: Musk]]"
+    desc: "`pf2:2` (poison) The skunk propels a stream of acrid musk in a @Template[line|distance:10]. Each creature in the line must attempt a DC 16 Fortitude check save.\n* * *\n\n**Critical Success** The target is unaffected.\n\n**Success** The target is [[Conditions/Sickened|Sickened 1]].\n\n**Failure** The target is [[Conditions/Sickened|Sickened 2]].\n\n**Critical Failure** The target is [[Conditions/Sickened|Sickened 2]] and takes a -2 penalty to Stealth checks from the horrific odor for 24 hours or until the musk is removed or neutralized, requiring 10 minutes of thorough scrubbing with soap.\n\n[[Bestiary Effects/Effect_ Musk|Effect: Musk]]"
  
+```
+
+```encounter-table
+name: Skunk
+creatures:
+  - 1: Skunk
 ```
 
 

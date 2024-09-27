@@ -5,6 +5,7 @@ noteType: pf2eHazard
 tags:
   - mechanical
   - trap
+  - pf2eHazard
 
 source: Pathfinder #186: Ghost King&#x27;s Rage
 aliases: "Compendium.pf2e.blood-lords-bestiary.Actor.UtMyUvcmy22QTuxK" 
@@ -22,8 +23,8 @@ name: "Shadow Hooks"
 level: "Hazard 21"
 
 
-trait_01: "mechanical"
-trait_02: "trap"
+trait_01: [[mechanical]]
+trait_02: [[trap]]
 modifier: 40
 sourcebook: "_Pathfinder #186: Ghost King's Rage_"
 perception:
@@ -42,11 +43,17 @@ attacks:
   - name: ""
 
   - name: "Tearing Hooks"
-    desc: "`pf2:r` (cold, shadow) **Trigger** A creature reaches the hall's midpoint\n**Effect** The trap attempts a shadow hook Strike against each creature in the hall. On a critical hit, a creature additionally takes 1d10 bleed damage."
+    desc: "`pf2:r` (cold, shadow) **Trigger** A creature reaches the hall's midpoint\n* * *\n\n**Effect** The trap attempts a shadow hook Strike against each creature in the hall. On a critical hit, a creature additionally takes 1d10 bleed damage."
   - name: "Melee"
     desc: "Shadow Hook +43 () "
 
 
 
+```
+
+```encounter-table
+name: Shadow Hooks
+creatures:
+  - 1: Shadow Hooks
 ```
 

@@ -22,7 +22,7 @@ license: ORC
 
 * * *
 
-**Effect** The monster avoids being knocked out and remains at 1 HP, but its [[Conditions/Wounded 1|Wounded]] value increases by 1. When it is Wounded 3, it can no longer use this ability
+**Effect** The monster avoids being knocked out and remains at 1 HP, but its [[Conditions/Wounded|Wounded]] value increases by 1. When it is Wounded 3, it can no longer use this ability
 
 *Source: Pathfinder Monster Core*
 *ORC*

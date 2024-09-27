@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.pfs-season-1-bestiary.Actor.54m8L1izUMDi02O9"
 tags:
   - pf2e/creature/type/human
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/3
 statblock: inline
 name: "Harsus (3-4)"
@@ -24,8 +25,8 @@ level: "Creature 3"
 
 alignment: ""
 size: "Medium"
-trait_01: "human"
-trait_02: "humanoid"
+trait_01: [[human]]
+trait_02: [[humanoid]]
 modifier: 6
 perception:
   - name: "Perception"
@@ -64,6 +65,12 @@ attacks:
   - name: "Prepared Arcane Spells"
     desc: "DC 19, attack +9; __2nd __  _[[Spells/Invisibility|Invisibility]]_; __1st __  _[[Spells/Fear|Fear]]_, _[[Spells/Grim Tendrils|Grim Tendrils]]_, _[[Spells/Illusory Disguise|Illusory Disguise]]_, _[[Spells/Mystic Armor|Mage Armor]]_, _[[Spells/Force Barrage|Magic Missile]]_\n__Cantrips__  __(2nd)__ _[[Spells/Light|Light]]_, _[[Spells/Ray of Frost|Ray of Frost]]_, _[[Spells/Shield|Shield]]_"
  
+```
+
+```encounter-table
+name: Harsus (3-4)
+creatures:
+  - 1: Harsus (3-4)
 ```
 
 

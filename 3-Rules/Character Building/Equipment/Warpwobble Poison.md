@@ -5,6 +5,8 @@ cssclasses: pf2e,pf2e-spell
 tags:
   - trait/alchemical
   - trait/consumable
+  - trait/injury
+  - trait/mental
   - trait/poison
   - trait/common
   - category/poison
@@ -13,7 +15,7 @@ license: OGL
 ---
 # Warpwobble Poison
 ## Item 8
-### [[alchemical]][[consumable]][[poison]]
+### [[alchemical]][[consumable]][[injury]][[mental]][[poison]]
 
 **Category** poison; 
 **Price** 90 gp; 
@@ -23,6 +25,8 @@ license: OGL
 **Activate** `pf2:2` Interact
 
 Warpwobble poison causes hallucinations of space bending and stretching, leading to vertigo and an inability to discern a stable place to move.
+
+* * *
 
 **Saving Throw** DC 26 Will check
 

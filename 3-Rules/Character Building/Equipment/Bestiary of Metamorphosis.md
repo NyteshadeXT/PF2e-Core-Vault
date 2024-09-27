@@ -11,7 +11,7 @@ license: OGL
 ---
 # Bestiary of Metamorphosis
 ## Item 6
-### [[grimoire]][[magical]]
+### [[grimoire]][[3-Rules/Rule References/Magical]]
 
 
 **Price** 210 gp; 

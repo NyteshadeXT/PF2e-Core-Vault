@@ -10,7 +10,7 @@ license: OGL
 ---
 # Called (Lastwall)
 ## Item 7
-### [[magical]]
+### [[3-Rules/Rule References/Magical]]
 
 
 **Price** 350 gp; 

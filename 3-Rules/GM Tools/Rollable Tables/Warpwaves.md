@@ -14,11 +14,11 @@ tags:
 
 | 1d8 | result |
 |------|--------|
-| 1 | [[Conditions/Clumsy 1\|Clumsy 2]] ([[Conditions/Clumsy 1\|Clumsy 3]] on a critical failure) |
+| 1 | [[Conditions/Clumsy\|Clumsy 2]] ([[Conditions/Clumsy\|Clumsy 3]] on a critical failure) |
 | 2 | [[Conditions/Confused\|Confused]] and gains 4d6 temporary Hit Points |
 | 3 | [[Conditions/Dazzled\|Dazzled]] (permanent on a critical failure) |
-| 4 | [[Conditions/Enfeebled 1\|Enfeebled 2]] ([[Conditions/Enfeebled 1\|Enfeebled 3]] on a critical failure) |
+| 4 | [[Conditions/Enfeebled\|Enfeebled 2]] ([[Conditions/Enfeebled\|Enfeebled 3]] on a critical failure) |
 | 5 | [[Conditions/Immobilized\|Immobilized]] by filaments of energy |
 | 6 | [[Conditions/Quickened\|Quickened]] (Stride, Strike, or Step only) |
-| 7 | [[Conditions/Slowed 1\|Slowed 1]] |
-| 8 | [[Conditions/Stupefied 1\|Stupefied 2]] ([[Conditions/Stupefied 1\|Stupefied 3]] on a critical failure) |
+| 7 | [[Conditions/Slowed\|Slowed 1]] |
+| 8 | [[Conditions/Stupefied\|Stupefied 2]] ([[Conditions/Stupefied\|Stupefied 3]] on a critical failure) |

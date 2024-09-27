@@ -10,6 +10,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/hag
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/3
 statblock: inline
 name: "Sea Hag"
@@ -28,11 +29,11 @@ level: "Creature 3"
 
 alignment: ""
 size: "Medium"
-trait_01: "amphibious"
-trait_02: "chaotic"
-trait_03: "evil"
-trait_04: "hag"
-trait_05: "humanoid"
+trait_01: [[amphibious]]
+trait_02: [[chaotic]]
+trait_03: [[evil]]
+trait_04: [[hag]]
+trait_05: [[humanoid]]
 modifier: 10
 perception:
   - name: "Perception"
@@ -57,7 +58,7 @@ abilities_top:
   - name: ""
 
   - name: "[[Bestiary Ability Glossary/Coven|Coven]]"
-    desc: " (mental,occult) A sea hag adds [[Spells/Acid Arrow|Acid Arrow]], [[Spells/Mariner's Curse|Mariner's Curse]], and [[Spells/Water Walk|Water Walk]] to her coven's spells.\n"
+    desc: " (mental,occult) A sea hag adds [[Spells/Acid Arrow|Acid Arrow]], [[Spells/Mariner's Curse|Mariner's Curse]], and [[Spells/Water Walk|Water Walk]] to her coven's spells.\n\n* * *\n"
 
   - name: "Sea Hag's Bargain"
     desc: " (occult) The sea hag can make a bargain with a willing creature, who must be of sound mind. The creature gives away a special or cherished quality-such as its courage, its beauty, or its voice-in exchange for a boon or a promise from the sea hag. As long as the sea hag keeps her end of the bargain, the only way to restore the lost quality is to defeat the sea hag or make another bargain for its return."
@@ -77,8 +78,14 @@ attacks:
     desc: "_[[Spells/Control Weather|Control Weather]]_"
 
   - name: "Dread Gaze"
-    desc: "`pf2:2` (curse,emotion,fear,mental,occult) The hag gazes upon a creature, afflicting it with intense distress and a gnawing sense of impending doom, with a result depending on its DC 20 Will check save. The target does not need to be able to see the sea hag.\n**Critical Success** No effect.\n**Success** [[Conditions/Frightened 1|Frightened 1]].\n**Failure** Frightened 1 and [[Conditions/Slowed 1|Slowed 1]] for 1 round. If the target was dying, it remains [[Conditions/Unconscious|Unconscious]] for 1 day. At the end of the day, it must attempt a Fortitude save against the same DC; if it fails, it dies.\n**Critical Failure** [[Conditions/Frightened 1|Frightened 2]] and slowed 1 for 1 minute. If the target was dying, it remains unconscious for 1 day. At the end of the day, it must attempt a Fortitude save against the same DC; if it fails, it dies."
+    desc: "`pf2:2` (curse,emotion,fear,mental,occult) The hag gazes upon a creature, afflicting it with intense distress and a gnawing sense of impending doom, with a result depending on its DC 20 Will check save. The target does not need to be able to see the sea hag.\n* * *\n\n**Critical Success** No effect.\n\n**Success** [[Conditions/Frightened|Frightened 1]].\n\n**Failure** Frightened 1 and [[Conditions/Slowed|Slowed 1]] for 1 round. If the target was dying, it remains [[Conditions/Unconscious|Unconscious]] for 1 day. At the end of the day, it must attempt a Fortitude save against the same DC; if it fails, it dies.\n\n**Critical Failure** [[Conditions/Frightened|Frightened 2]] and slowed 1 for 1 minute. If the target was dying, it remains unconscious for 1 day. At the end of the day, it must attempt a Fortitude save against the same DC; if it fails, it dies."
  
+```
+
+```encounter-table
+name: Sea Hag
+creatures:
+  - 1: Sea Hag
 ```
 
 

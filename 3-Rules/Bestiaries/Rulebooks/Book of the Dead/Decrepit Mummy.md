@@ -10,6 +10,7 @@ tags:
   - pf2e/creature/type/mummy
   - pf2e/creature/type/undead
   - pf2e/creature/type/unholy
+  - pf2eMonster
   - pf2e/creature/level/2
 statblock: inline
 name: "Decrepit Mummy"
@@ -27,16 +28,16 @@ level: "Creature 2"
 
 alignment: ""
 size: "Medium"
-trait_01: "evil"
-trait_02: "lawful"
-trait_03: "mummy"
-trait_04: "undead"
-trait_05: "unholy"
+trait_01: [[evil]]
+trait_02: [[lawful]]
+trait_03: [[mummy]]
+trait_04: [[undead]]
+trait_05: [[unholy]]
 modifier: 10
 perception:
   - name: "Perception"
     desc: "+10; Darkvision"
-languages: "Necril"
+languages: "Necril; any one language they knew in life"
 skills:
   - name: "Skills"
     desc: "Athletics: +7, Stealth: +9"
@@ -67,8 +68,14 @@ attacks:
     desc: "`pf2:1` Fist +11 ()\n__Damage__  1d8 + 3 bludgeoning plus lesser-mummy-rot"
 
   - name: "Lesser Mummy Rot"
-    desc: " (disease,divine,void) The damage from this disease can't be healed while a creature still has the disease. A creature killed by lesser mummy rot turns to dust and can't be resurrected except by a 7th-rank [[Spells/Resurrect|Resurrect]] ritual or similar magic\n**Saving Throw** DC 16 Fortitude check\n**Stage 1** carrier with no ill effect (1 minute)\n**Stage 2** 2d6 void damage and [[Conditions/Stupefied 1|Stupefied 1]] (1 day)"
+    desc: " (disease,divine,void) The damage from this disease can't be healed while a creature still has the disease. A creature killed by lesser mummy rot turns to dust and can't be resurrected except by a 7th-rank [[Spells/Resurrect|Resurrect]] ritual or similar magic\n\n**Saving Throw** DC 16 Fortitude check\n* * *\n\n**Stage 1** carrier with no ill effect (1 minute)\n\n**Stage 2** 2d6 void damage and [[Conditions/Stupefied|Stupefied 1]] (1 day)"
  
+```
+
+```encounter-table
+name: Decrepit Mummy
+creatures:
+  - 1: Decrepit Mummy
 ```
 
 

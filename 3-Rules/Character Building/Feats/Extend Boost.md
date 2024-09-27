@@ -20,7 +20,7 @@ license: OGL
 
 You can increase the duration of your eidolon's boosts.
 
-You learn the _extend boost_ link spell. Increase the number of Focus Points in your focus pool by 1.
+You learn the [[Spells/Extend Boost|Extend Boost]] link spell. Increase the number of Focus Points in your focus pool by 1.
 
 *Source: Pathfinder Secrets of Magic*
 *OGL*

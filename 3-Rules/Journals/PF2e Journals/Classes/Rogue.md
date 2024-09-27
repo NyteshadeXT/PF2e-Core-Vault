@@ -98,7 +98,7 @@ You gain these features as a Rogue. Abilities gained at higher levels list the l
 
 | Your Level | Class Features |
 | --- | --- |
-| 1 | Ancestry and background, attribute boosts, initial proficiencies, rogue’s racket, sneak attack 1d6, surprise attack, rogue feat, skill feat |
+| 1 | Ancestry and background, attribute boosts, initial proficiencies, rogue's racket, sneak attack 1d6, surprise attack, rogue feat, skill feat |
 | 2 | Rogue feat, skill feat, skill increase |
 | 3 | Deny advantage, general feat, skill feat, skill increase |
 | 4 | Rogue feat, skill feat, skill increase |
@@ -133,7 +133,7 @@ At 1st level and every even-numbered level, you gain a rogue class feat.
 
 ## Rogue's Racket
 
-You’ve begun to develop your techniques and approach to a job, while building your reputation in rogues’ circles. Choose a rogue's racket.
+You've begun to develop your techniques and approach to a job, while building your reputation in rogues' circles. Choose a rogue's racket.
 
 Rackets can be found here:
 
@@ -186,7 +186,7 @@ You gain expert proficiency in simple weapons, martial weapons, and unarmed atta
 
 ## Evasive ReflexesLevel 7
 
-You’ve learned to move quickly to avoid explosions, dragons’ breath, and worse. Your proficiency rank for Reflex saves increases to master. When you roll a success on a Reflex save, you get a critical success instead.
+You've learned to move quickly to avoid explosions, dragons' breath, and worse. Your proficiency rank for Reflex saves increases to master. When you roll a success on a Reflex save, you get a critical success instead.
 
 ## Perception MasteryLevel 7
 
@@ -234,7 +234,7 @@ You've learned how to dodge while wearing light or no armor. Your proficiency ra
 
 ## Master TricksLevel 13
 
-You’ve mastered a rogue’s fighting moves. Your proficiency ranks increase to master for all simple weapons, martial weapons, and unarmed attacks.
+You've mastered a rogue's fighting moves. Your proficiency ranks increase to master for all simple weapons, martial weapons, and unarmed attacks.
 
 ## Double DebilitationLevel 15
 

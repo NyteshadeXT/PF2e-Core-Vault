@@ -8,7 +8,7 @@ tags:
 ---
 # Pulled Muscle
 
-> Until healed, you are [[Conditions/Enfeebled 1|Enfeebled 2]].
+> Until healed, you are [[Conditions/Enfeebled|Enfeebled 2]].
 
 `Melee`
 

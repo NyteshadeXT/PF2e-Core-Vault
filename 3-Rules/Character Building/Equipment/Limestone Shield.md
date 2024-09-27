@@ -12,7 +12,7 @@ license: OGL
 ---
 # Limestone Shield
 ## Item 7
-### [[Earth]][[magical]]
+### [[earth]][[magical]]
 
 
 **Price** 350 gp; 

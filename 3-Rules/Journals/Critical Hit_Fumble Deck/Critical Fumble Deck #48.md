@@ -20,7 +20,7 @@ tags:
 
 # Don't pick it It
 
-> You become [[Conditions/Wounded 1|Wounded 1]] or your wounded value increases by 1.
+> You become [[Conditions/Wounded|Wounded 1]] or your wounded value increases by 1.
 
 `Unarmed`
 

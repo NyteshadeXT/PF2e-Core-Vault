@@ -12,7 +12,7 @@ license: OGL
 ---
 # Ablative Armor Plating (True)
 ## Item 19
-### [uncommon](uncommon "Uncommon Rarity Trait")[[consumable]][[gadget]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[consumable]][[gadget]]
 
 **Category** gadget; 
 **Price** 8000 gp; 

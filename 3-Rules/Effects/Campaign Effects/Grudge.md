@@ -28,9 +28,9 @@ Your hatred is so powerful that it can overwhelm another's mind. Choose a creatu
 
 **Critical Success** The creature is unaffected.
 
-**Success** The creature becomes [[Conditions/Frightened 1|Frightened 1]]
+**Success** The creature becomes [[Conditions/Frightened|Frightened 1]]
 
-**Failure** The creature becomes [[Conditions/Frightened 1|Frightened 2]], falls [[Conditions/Prone|Prone]] from the shock, and is [[Conditions/Fleeing|Fleeing]] as long as it remains frightened.
+**Failure** The creature becomes [[Conditions/Frightened|Frightened 2]], falls [[Conditions/Prone|Prone]] from the shock, and is [[Conditions/Fleeing|Fleeing]] as long as it remains frightened.
 
 **Critical Failure** The creature faints from fear, becoming [[Conditions/Unconscious|Unconscious]]. It becomes frightened 2 and is fleeing as soon as it is no longer unconscious.
 

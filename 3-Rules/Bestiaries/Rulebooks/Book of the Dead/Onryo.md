@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/undead
   - pf2e/creature/type/unholy
+  - pf2eMonster
   - pf2e/creature/level/12
 statblock: inline
 name: "Onryo"
@@ -22,12 +23,12 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Book of the Dead"
 name: "Onryo"
 level: "Creature 12"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Medium"
-trait_01: "evil"
-trait_02: "undead"
-trait_03: "unholy"
+trait_01: [[evil]]
+trait_02: [[undead]]
+trait_03: [[unholy]]
 modifier: 21
 perception:
   - name: "Perception"
@@ -66,11 +67,17 @@ attacks:
     desc: "  An onryo's erratic movement makes them difficult to target. If an onryo moves at least 10 feet during a move action, they gain [[Conditions/Concealed|Concealment]] until the start of their next turn."
 
   - name: "Onryo's Rancor"
-    desc: "`pf2:1` (curse,mental,occult) **Requirements** The onryo's last action was a successful claw Strike\n**Effect** The onryo attempts to instill its need for vengeance into the creature. The onryo, with their touch, casts a 5th-rank [[Spells/Geas|Geas]] on the creature they hit (DC 30 Will check). On a failure, it's forced to seek and slay loved ones of the onryo's wrongdoer and anyone who attempts to defend them for up to one week. On a critical failure, the duration is 1 month and the creature gains Onryo's Rancor, which it's also compelled to use by the geas. Regardless of the outcome, the creature is temporarily immune to Onryo's Rancor from this individual for 1 year."
+    desc: "`pf2:1` (curse,mental,occult) **Requirements** The onryo's last action was a successful claw Strike\n* * *\n\n**Effect** The onryo attempts to instill its need for vengeance into the creature. The onryo, with their touch, casts a 5th-rank [[Spells/Geas|Geas]] on the creature they hit (DC 30 Will check). On a failure, it's forced to seek and slay loved ones of the onryo's wrongdoer and anyone who attempts to defend them for up to one week. On a critical failure, the duration is 1 month and the creature gains Onryo's Rancor, which it's also compelled to use by the geas. Regardless of the outcome, the creature is temporarily immune to Onryo's Rancor from this individual for 1 year."
 
   - name: "Vengeful Suffocation"
-    desc: "`pf2:2` (incapacitation,occult) **Frequency** once per hour\n**Effect** The onryo channels their boundless resentment, manifesting it as a tangled clump of wet hair, a clot of rancid swamp mud, or other disgusting mass of matter in the throat of a creature within 30 feet. The creature must attempt a DC 32 Fortitude check save.\n**Critical Success** The creature is unaffected.\n**Success** The creature becomes [[Conditions/Sickened 1|Sickened 1]].\n**Failure** The creature becomes [[Conditions/Sickened 1|Sickened 2]].\n**Critical Failure** The creature becomes [[Conditions/Sickened 1|Sickened 3]] and the mass fully blocks the creature's airway. The creature begins suffocating."
+    desc: "`pf2:2` (incapacitation,occult) **Frequency** once per hour\n* * *\n\n**Effect** The onryo channels their boundless resentment, manifesting it as a tangled clump of wet hair, a clot of rancid swamp mud, or other disgusting mass of matter in the throat of a creature within 30 feet. The creature must attempt a DC 32 Fortitude check save.\n* * *\n\n**Critical Success** The creature is unaffected.\n\n**Success** The creature becomes [[Conditions/Sickened|Sickened 1]].\n\n**Failure** The creature becomes [[Conditions/Sickened|Sickened 2]].\n\n**Critical Failure** The creature becomes [[Conditions/Sickened|Sickened 3]] and the mass fully blocks the creature's airway. The creature begins suffocating."
  
+```
+
+```encounter-table
+name: Onryo
+creatures:
+  - 1: Onryo
 ```
 
 

@@ -13,7 +13,7 @@ license: OGL
 ---
 # Air Repeater
 ## Item 0
-### [uncommon](uncommon "Uncommon Rarity Trait")[[agile]][[repeating]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[3-Rules/Rule References/Agile]][[repeating]]
 
 |  |  |
 | -- | -- |

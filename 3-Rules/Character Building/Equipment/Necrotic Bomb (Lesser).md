@@ -36,7 +36,7 @@ Necrotic bombs combine reagents most people consider disgusting at best and unho
 
 * * *
 
-The bomb deals 1d6 void damage and 1 void splash damage. On a critical hit, the target is [[Conditions/Sickened 1|Sickened 1]].
+The bomb deals 1d6 void damage and 1 void splash damage. On a critical hit, the target is [[Conditions/Sickened|Sickened 1]].
 
 *Source: Pathfinder #165: Eyes of Empty Death*
 *OGL*

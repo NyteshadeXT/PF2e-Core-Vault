@@ -7,8 +7,9 @@ tags:
   - trait/flourish
   - trait/common
   - category/class
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.Vab3XIirjs3KQh3t"
-license: OGL
+license: ORC
 ---
 # Cavalier's Charge `pf2:2`
 ## Feat 4
@@ -24,7 +25,7 @@ license: OGL
 
 * * *
 
-You [[Actions/Command an Animal|Command an Animal]] to order your mount to Stride twice. At any point during this movement, you can Strike one enemy within reach or within the first range increment of a ranged weapon. You gain a +1 circumstance bonus to your attack roll.
+You [[Actions/Command an Animal|Command an Animal]] to order your mount to [[Actions/Stride|Stride]] twice. At any point during this movement, you can [[Actions/Strike|Strike]] one enemy within reach or within the first range increment of a ranged weapon. You gain a +1 circumstance bonus to your attack roll.
 
-*Source: Pathfinder Advanced Player's Guide*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

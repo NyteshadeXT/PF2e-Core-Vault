@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/undead
   - pf2e/creature/type/unholy
+  - pf2eMonster
   - pf2e/creature/level/19
 statblock: inline
 name: "Teyam Ishtori"
@@ -22,17 +23,17 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #149: Against the Scarlet Triad"
 name: "Teyam Ishtori"
 level: "Creature 19"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "tiny"
-trait_01: "evil"
-trait_02: "undead"
-trait_03: "unholy"
+trait_01: [[evil]]
+trait_02: [[undead]]
+trait_03: [[unholy]]
 modifier: 25
 perception:
   - name: "Perception"
     desc: "+25; Darkvision, Truesight"
-languages: "Chthonian, Daemonic, Diabolic, Draconic, Elven, Necril"
+languages: "Chthonian, Daemonic, Diabolic, Draconic, Elven, Necril; ancient osiriani"
 skills:
   - name: "Skills"
     desc: "Acrobatics: +31, Arcana: +38, Deception: +33, Occultism: +35, Religion: +31, Stealth: +33"
@@ -58,10 +59,10 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Contingency"
-    desc: "`pf2:r`  Teyam has one permanent 8th-rank [[Spells/Contingency|Contingency]] spell in effect with one of its arcane innate spells of 5th level or lower as the companion spell- typically [[Spells/Translocate|Translocate]].\n**Trigger** While Teyam is in torpor, a creature disturbs Teyam's remains, touches her treasure, or casts a spell that would affect Teyam.\n**Effect** Teyam ends torpor, rolls initiative, and gains the effect of her contingency's companion spell. The contingency resets after 24 hours."
+    desc: "`pf2:r`  Teyam has one permanent 8th-rank [[Spells/Contingency|Contingency]] spell in effect with one of its arcane innate spells of 5th level or lower as the companion spell- typically [[Spells/Translocate|Translocate]].\n\n**Trigger** While Teyam is in torpor, a creature disturbs Teyam's remains, touches her treasure, or casts a spell that would affect Teyam.\n* * *\n\n**Effect** Teyam ends torpor, rolls initiative, and gains the effect of her contingency's companion spell. The contingency resets after 24 hours."
 
   - name: "Countermeasures"
-    desc: "`pf2:0`  **Trigger** Teyam's turn begins.\n**Effect** Teyam casts [[Spells/Flicker|Flicker]], [[Spells/Fly|Fly]], [[Spells/Spell Turning|Spell Turning]], or [[Spells/Truesight|Truesight]] on itself. It usually chooses spell turning unless it already has that spell in effect."
+    desc: "`pf2:0`  **Trigger** Teyam's turn begins.\n* * *\n\n**Effect** Teyam casts [[Spells/Flicker|Flicker]], [[Spells/Fly|Fly]], [[Spells/Spell Turning|Spell Turning]], or [[Spells/Truesight|Truesight]] on itself. It usually chooses spell turning unless it already has that spell in effect."
 
   - name: "Telekinetic Whirlwind"
     desc: " (arcane,aura) 20 feet. Telekinetic whirlwind activates when Teyam ends torpor. Loose debris in the area whip up into a whirling storm. This obscures vision, making any creature in the area concealed, and causes creatures in its area (except Teyam) to treat all creatures as concealed. Any creature other than Teyam that enters or begins its turn in the aura takes 2d12 bludgeoning damage."
@@ -76,10 +77,10 @@ attacks:
     desc: "DC 43, attack +37; __10th __  _[[Spells/Wails of the Damned|Wail of the Banshee]]_; __8th __  _[[Spells/Spell Turning|Spell Turning (At Will)]]_; __4th __  _[[Spells/Flicker|Blink (At Will)]]_, _[[Spells/Translocate|Dimension Door (At Will)]]_, _[[Spells/Telekinetic Maneuver|Telekinetic Maneuver (At Will)]]_\n__Cantrips__  __(10th)__ _[[Spells/Telekinetic Hand|Mage Hand]]_, _[[Spells/Telekinetic Projectile|Telekinetic Projectile]]_\n__Constant__  __(6th)__ _[[Spells/Truesight|True Seeing]]_"
 
   - name: "Demilich Eye Gems"
-    desc: " (arcane) A demilich has gemstone eyes that glow when the demilich is active. Each eye contains an 8th-rank spell that targets one creature (usually one eye has [[Spells/Quandary|Quandary]] and the other [[Spells/Polar Ray|Polar Ray]]). The demilich can Activate an eye. This uses the number of spellcasting actions the spell requires, and also requires command and envision components.\nWhen the demilich casts a spell from a gemstone eye, that eye stops glowing for 1d4 rounds, during which time that eye's spell can't be used. Occasionally, one or both of the two _[[Equipment/Demilich Eye Gem|Demilich Eye Gems]]_ can be harvested from a destroyed demilich as magic items."
+    desc: " (arcane) A demilich has gemstone eyes that glow when the demilich is active. Each eye contains an 8th-rank spell that targets one creature (usually one eye has [[Spells/Quandary|Quandary]] and the other [[Spells/Polar Ray|Polar Ray]]). The demilich can Activate an eye. This uses the number of spellcasting actions the spell requires, and also requires command and envision components.\n\nWhen the demilich casts a spell from a gemstone eye, that eye stops glowing for 1d4 rounds, during which time that eye's spell can't be used. Occasionally, one or both of the two _[[Equipment/Demilich Eye Gem|Demilich Eye Gems]]_ can be harvested from a destroyed demilich as magic items."
 
   - name: "Devour Soul"
-    desc: "`pf2:1` (arcane,void) **Requirements** A soul has been trapped in one of Teyam's blight quartz gems for 24 hours.\n**Effect** Teyam consumes the soul. The soul is utterly destroyed, and Teyam regains HP equal to double the creature's level."
+    desc: "`pf2:1` (arcane,void) **Requirements** A soul has been trapped in one of Teyam's blight quartz gems for 24 hours.\n* * *\n\n**Effect** Teyam consumes the soul. The soul is utterly destroyed, and Teyam regains HP equal to double the creature's level."
 
   - name: "Mental Magic"
     desc: "  Teyam can replace all material and somatic components for casting spells with verbal components, and can replace all Interact components for activating magic items with envision components."
@@ -88,8 +89,14 @@ attacks:
     desc: "  Teyam long ago absorbed the spells from a staff into gemstone nodules embedded in her skull, with larger nodules representing higher-rank spells. She can cast any of the spells as though it were Activating the staff, and regains 1 charge per 4 hours spent in torpor, to a maximum of 10 charges. Teyam has the spells from a [[Equipment/Staff of Power|Staff of Power]]"
 
   - name: "Trap Soul"
-    desc: "`pf2:1`  **Frequency** once per day per gem\n**Effect** Ten blight quartz gemstones on Teyam's skull can trap the souls of the living. The Activated gem casts [[Spells/Seize Soul|Seize Soul]]. This bind soul can target and affect a dying creature instead of a corpse. The dying creature can attempt a DC 43 Fortitude check save; if it succeeds, it doesn't die and its soul is not trapped but it's [[Conditions/Drained 1|Drained 2]] (or is unaffected entirely on a critical success). When the soul of a creature gets trapped, the creature's body swiftly turns to dust.\nThe gemstones work like the black sapphires used in bind soul, except that they can hold creatures of up to 17th level and have a value of 200 gp apiece. Teyam can Devour a Soul it has trapped."
+    desc: "`pf2:1`  **Frequency** once per day per gem\n* * *\n\n**Effect** Ten blight quartz gemstones on Teyam's skull can trap the souls of the living. The Activated gem casts [[Spells/Seize Soul|Seize Soul]]. This bind soul can target and affect a dying creature instead of a corpse. The dying creature can attempt a DC 43 Fortitude check save; if it succeeds, it doesn't die and its soul is not trapped but it's [[Conditions/Drained|Drained 2]] (or is unaffected entirely on a critical success). When the soul of a creature gets trapped, the creature's body swiftly turns to dust.\n\nThe gemstones work like the black sapphires used in bind soul, except that they can hold creatures of up to 17th level and have a value of 200 gp apiece. Teyam can Devour a Soul it has trapped."
  
+```
+
+```encounter-table
+name: Teyam Ishtori
+creatures:
+  - 1: Teyam Ishtori
 ```
 
 

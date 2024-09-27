@@ -13,6 +13,7 @@ tags:
   - pf2e/creature/type/lawful
   - pf2e/creature/type/oni
   - pf2e/creature/type/unholy
+  - pf2eMonster
   - pf2e/creature/level/14
 statblock: inline
 name: "Fire Yai"
@@ -31,14 +32,14 @@ level: "Creature 14"
 
 alignment: ""
 size: "Large"
-trait_01: "evil"
-trait_02: "fiend"
-trait_03: "fire"
-trait_04: "giant"
-trait_05: "humanoid"
-trait_06: "lawful"
-trait_07: "oni"
-trait_08: "unholy"
+trait_01: [[evil]]
+trait_02: [[fiend]]
+trait_03: [[fire]]
+trait_04: [[giant]]
+trait_05: [[humanoid]]
+trait_06: [[lawful]]
+trait_07: [[oni]]
+trait_08: [[unholy]]
 modifier: 26
 perception:
   - name: "Perception"
@@ -84,14 +85,20 @@ attacks:
     desc: "DC 34, attack +24; __7th __  _[[Spells/Fiery Body|Fiery Body]]_, _[[Spells/Fireball|Fireball (x4)]]_, _[[Spells/Flame Strike|Flame Strike]]_, _[[Spells/Wall of Fire|Wall of Fire]]_; __4th __  _[[Spells/Charm|Charm (x3)]]_, _[[Spells/Darkness|Darkness]]_, _[[Spells/Vapor Form|Gaseous Form]]_; __2nd __  _[[Spells/Invisibility|Invisibility (At will) (Self only)]]_"
 
   - name: "[[Bestiary Ability Glossary/Change Shape|Change Shape]]"
-    desc: "`pf2:1` (concentrate,polymorph,primal) The fire yai takes on the appearance of a [[Bestiary 1/Fire Giant|Fire Giant]]. This doesn't change their Speed or Strike attack and damage.\n"
+    desc: "`pf2:1` (concentrate,polymorph,primal) The fire yai takes on the appearance of a [[Bestiary 1/Fire Giant|Fire Giant]]. This doesn't change their Speed or Strike attack and damage.\n\n* * *\n"
 
   - name: "Impaling Push"
-    desc: "`pf2:2`  The fire yai attempts a katana Strike. If it hits, the fire yai attempts an Athletics check check against the target creature's Fortitude DC.\n**Critical Success** The fire yai Strides or Flies up to half its Speed in any direction. The struck creature takes 4d6 bleed and is pushed along with the yai an equal distance. The creature is [[Conditions/Grabbed|Grabbed]] until the yai's next turn or until the yai makes a katana Strike.\n**Success** As critical success, but the creature takes 2d6 bleed.\n**Failure** The struck creature is pushed back 5 feet.\n**Critical Failure** The struck creature is unaffected."
+    desc: "`pf2:2`  The fire yai attempts a katana Strike. If it hits, the fire yai attempts an Athletics check check against the target creature's Fortitude DC.\n* * *\n\n**Critical Success** The fire yai Strides or Flies up to half its Speed in any direction. The struck creature takes 4d6 bleed and is pushed along with the yai an equal distance. The creature is [[Conditions/Grabbed|Grabbed]] until the yai's next turn or until the yai makes a katana Strike.\n\n**Success** As critical success, but the creature takes 2d6 bleed.\n\n**Failure** The struck creature is pushed back 5 feet.\n\n**Critical Failure** The struck creature is unaffected."
 
   - name: "Smoke Form"
-    desc: "`pf2:2` (concentrate,primal) The fire yai transforms into a cloud of smoke and then Flies up to its fly speed. This movement does not trigger reactions, and the fire yai can move through spaces occupied by other creatures. The fire yai returns to its physical form after this move, and must end the movement in a space in which it can fit.\nAll creatures in spaces through which the fire yai moves with Smoke Form must succeed at a DC 34 Fortitude check save or become [[Conditions/Sickened 1|Sickened 3]].\nThe fire yai cannot use Smoke Form for 1d4 rounds."
+    desc: "`pf2:2` (concentrate,primal) The fire yai transforms into a cloud of smoke and then Flies up to its fly speed. This movement does not trigger reactions, and the fire yai can move through spaces occupied by other creatures. The fire yai returns to its physical form after this move, and must end the movement in a space in which it can fit.\n\nAll creatures in spaces through which the fire yai moves with Smoke Form must succeed at a DC 34 Fortitude check save or become [[Conditions/Sickened|Sickened 3]].\n\nThe fire yai cannot use Smoke Form for 1d4 rounds."
  
+```
+
+```encounter-table
+name: Fire Yai
+creatures:
+  - 1: Fire Yai
 ```
 
 

@@ -6,6 +6,7 @@ cssClasses: pf2e
 aliases: "Compendium.battlezoo-bestiary-su-pf2e.pf2e-battlezoo-su-actors.Actor.LWSvM2THzmycayqx" 
 tags:
   - pf2e/creature/type/construct
+  - pf2eMonster
   - pf2e/creature/level/3
 statblock: inline
 name: "Mercurial Knight"
@@ -24,14 +25,15 @@ level: "Creature 3"
 
 alignment: ""
 size: "Medium"
-trait_01: "construct"
+trait_01: [[construct]]
 modifier: 9
 perception:
   - name: "Perception"
     desc: "+9; Darkvision"
+languages: ""
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +9, Athletics: +9, Stealth: +7, "
+    desc: "Acrobatics: +9, Athletics: +9, Stealth: +7, Acrobatics: +9, Athletics: +9, Stealth: +7"
 abilityMods: [4, 3, 2, 0, 1, 1]
 speed: 20 feet
 sourcebook: "_Battlezoo Bestiary: Strange and Unusual_"
@@ -53,14 +55,20 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Reform"
-    desc: "`pf2:r`  **Trigger** The Mercurial Knight would take physical damage that it is weak to\n**Effect** The knight changes to a liquid or solid form, whichever is not its current form. Apply the triggering damage after the change."
+    desc: "`pf2:r`  **Trigger** The Mercurial Knight would take physical damage that it is weak to\n* * *\n\n**Effect** The knight changes to a liquid or solid form, whichever is not its current form. Apply the triggering damage after the change."
 
 attacks:
   - name: ""
 
   - name: "Mercury Splash"
-    desc: "`pf2:2`  **Requirements** The Mercurial Knight is in its liquid form\n**Effect** The knight sprays raw mercury from its body in a 15-foot cone. All creatures within this cone take 2d6 bludgeoning damage and 1d4 poison damage, with a DC 17 Reflex check save."
+    desc: "`pf2:2`  **Requirements** The Mercurial Knight is in its liquid form\n* * *\n\n**Effect** The knight sprays raw mercury from its body in a 15-foot cone. All creatures within this cone take 2d6 bludgeoning damage and 1d4 poison damage, with a DC 17 Reflex check save."
  
+```
+
+```encounter-table
+name: Mercurial Knight
+creatures:
+  - 1: Mercurial Knight
 ```
 
 

@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/cold
   - pf2e/creature/type/giant
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/9
   - remaster
 statblock: inline
@@ -27,9 +28,9 @@ level: "Creature 9"
 
 alignment: ""
 size: "Large"
-trait_01: "cold"
-trait_02: "giant"
-trait_03: "humanoid"
+trait_01: [[cold]]
+trait_02: [[giant]]
+trait_03: [[humanoid]]
 modifier: 17
 perception:
   - name: "Perception"
@@ -37,7 +38,7 @@ perception:
 languages: "Common, Jotun"
 skills:
   - name: "Skills"
-    desc: "Athletics: +23, Crafting: +18, Intimidation: +18, Nature: +17, Stealth: +17 (+21 in snow)"
+    desc: "Athletics: +23, Crafting: +18, Intimidation: +18, Nature: +17, Stealth: +17"
 abilityMods: [6, 0, 5, 0, 2, 0]
 speed: 30 feet
 sourcebook: "_Pathfinder Monster Core_"
@@ -69,14 +70,20 @@ attacks:
     desc: "`pf2:1` Icicle +21 (cold, primal, range 120 feet)\n__Damage__  3d6 cold 2d8 piercing"
 
   - name: "Chill Breath"
-    desc: "`pf2:1` (cold,primal) The frost giant breathes out a 15-foot cone of freezing moisture that quickly condenses into ice, dealing 4d6 cold damage. Each creature in the cone must attempt a DC 28 Reflex check save. A creature that fails its save is also [[Conditions/Immobilized|Immobilized]] and takes 2d6 cold damage at the end of each of its turns until it gets free ([[Actions/Escape|Escape]] DC 28).\n\nThe giant can't use Chill Breath again for 1d4 rounds."
+    desc: "`pf2:1` (cold,primal) The frost giant breathes out a @Template[cone|distance:15] of freezing moisture that quickly condenses into ice, dealing 4d6 cold damage. Each creature in the cone must attempt a DC 28 Reflex check save. A creature that fails its save is also [[Conditions/Immobilized|Immobilized]] and takes 2d6 cold damage at the end of each of its turns until it gets free ([[/act escape dc=28]]).\n\nThe giant can't use Chill Breath again for 1d4 rounds."
 
   - name: "Ice Stride"
-    desc: "  A frost giant isn’t impeded by difficult terrain caused by snow or ice, nor do they need to attempt Acrobatics checks to keep from falling on slippery ice."
+    desc: "  A frost giant isn't impeded by difficult terrain caused by snow or ice, nor do they need to attempt Acrobatics checks to keep from falling on slippery ice."
 
   - name: "Wide Swing"
-    desc: "`pf2:1`  The frost giant makes a single greataxe Strike and compares the attack roll result to the ACs of up to two foes within their reach. This counts as two attacks for the frost giant’s multiple attack penalty."
+    desc: "`pf2:1`  The frost giant makes a single greataxe Strike and compares the attack roll result to the ACs of up to two foes within their reach. This counts as two attacks for the frost giant's multiple attack penalty."
  
+```
+
+```encounter-table
+name: Frost Giant
+creatures:
+  - 1: Frost Giant
 ```
 
 

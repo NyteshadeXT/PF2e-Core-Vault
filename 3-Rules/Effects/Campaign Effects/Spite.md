@@ -27,9 +27,9 @@ Even if a person was kind in life, the dead have many reasons to spite the livin
 
 **Success** The target's skin itches uncontrollably. If the target doesn't spend an action to scratch at the itch, they become [[Conditions/Off-Guard|Off-Guard]] until the start of their next turn. This effect lasts for 1 minute.
 
-**Failure** The target's skin breaks out in painful lesions and unsightly sores. The victim becomes [[Conditions/Enfeebled 1|Enfeebled 2]], [[Conditions/Clumsy 1|Clumsy 2]], and [[Conditions/Drained 1|Drained 2]] for 24 hours.
+**Failure** The target's skin breaks out in painful lesions and unsightly sores. The victim becomes [[Conditions/Enfeebled|Enfeebled 2]], [[Conditions/Clumsy|Clumsy 2]], and [[Conditions/Drained|Drained 2]] for 24 hours.
 
-**Critical Failure** As failure, but the target is also [[Conditions/Slowed 1|Slowed 1]] for the duration.
+**Critical Failure** As failure, but the target is also [[Conditions/Slowed|Slowed 1]] for the duration.
 
 *Source: Pathfinder #198: No Breath to Cry*
 *OGL*

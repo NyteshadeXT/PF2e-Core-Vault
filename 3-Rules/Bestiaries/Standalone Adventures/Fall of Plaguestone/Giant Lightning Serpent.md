@@ -6,6 +6,7 @@ cssClasses: pf2e
 aliases: "Compendium.pf2e.fall-of-plaguestone-bestiary.Actor.1Nr9cgWHMn8KtiXe" 
 tags:
   - pf2e/creature/type/animal
+  - pf2eMonster
   - pf2e/creature/level/2
 statblock: inline
 name: "Giant Lightning Serpent"
@@ -20,14 +21,15 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Adventure: The Fall of Plaguestone"
 name: "Giant Lightning Serpent"
 level: "Creature 2"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Medium"
-trait_01: "animal"
+trait_01: [[animal]]
 modifier: 7
 perception:
   - name: "Perception"
     desc: "+7; Low-Light Vision, Scent (Imprecise) 30 Feet"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Acrobatics: +9, Athletics: +8, Stealth: +8, Survival: +6"
@@ -49,7 +51,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "[[Bestiary Ability Glossary/Attack of Opportunity|Coiled Opportunity (Special)]]"
-    desc: "`pf2:r`  As Attack of Opportunity, but the serpent can use this reaction only if it's coiled.\n"
+    desc: "`pf2:r`  As Attack of Opportunity, but the serpent can use this reaction only if it's coiled.\n\n* * *\n"
 
 attacks:
   - name: ""
@@ -61,8 +63,14 @@ attacks:
     desc: "`pf2:1`  The serpent uses an action to coil itself; increasing its reach with its fangs from 5 feet to 10 feet. After the serpent strikes with its fangs, it becomes uncoiled."
 
   - name: "Lightning Rattle"
-    desc: "`pf2:2`  The serpent rattles its strange metal tail and unleashes a bolt of lightning in a 60-foot line. The bolt deals 2d10 electricity damage (DC 17 Reflex check save).\nOnce the giant lightning serpent uses this ability, it must wait 1d4 rounds before doing so again."
+    desc: "`pf2:2`  The serpent rattles its strange metal tail and unleashes a bolt of lightning in a @Template[line|distance:60]. The bolt deals 2d10 electricity damage (DC 17 Reflex check save).\n\nOnce the giant lightning serpent uses this ability, it must wait 1d4 rounds before doing so again."
  
+```
+
+```encounter-table
+name: Giant Lightning Serpent
+creatures:
+  - 1: Giant Lightning Serpent
 ```
 
 

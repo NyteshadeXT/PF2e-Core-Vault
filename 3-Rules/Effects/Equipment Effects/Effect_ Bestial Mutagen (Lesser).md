@@ -4,8 +4,9 @@ title: "Effect: Bestial Mutagen (Lesser)"
 cssclasses: pf2e,pf2e-spell
 tags:
   - trait/common
+  - remaster
 aliases: "Compendium.pf2e.equipment-effects.Item.fIpzDpuwLdIS4tW5"
-license: OGL
+license: ORC
 ---
 # Effect: Bestial Mutagen (Lesser)
 ## Level 1
@@ -18,14 +19,9 @@ license: OGL
 
 Granted by [[Equipment/Bestial Mutagen (Lesser)|Bestial Mutagen (Lesser)]]
 
-Implemented effects:
+You gain a +1 item bonus to Athletics checks and unarmed attack rolls. You gain a claw unarmed attack (1d4 slashing damage) with the agile trait and a jaws unarmed attack (1d6 piercing damage).
 
-*   +1 item bonus to Athletics checks
-*   +1 item bonus to unarmed attack rolls
-*   Gain a claw unarmed attack
-*   Gain a jaws unarmed attack
-*   \-1 penalty to AC
-*   \-2 to penalty Reflex saves
+You take a –2 penalty to Reflex saves, Acrobatics checks, and Stealth checks.
 
-*Source: Pathfinder Core Rulebook*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

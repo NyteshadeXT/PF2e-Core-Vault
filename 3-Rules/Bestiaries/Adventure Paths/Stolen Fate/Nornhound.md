@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.stolen-fate-bestiary.Actor.zsITxVss3vTQHISh"
 tags:
   - pf2e/creature/type/fey
   - pf2e/creature/type/lawful
+  - pf2eMonster
   - pf2e/creature/level/18
 statblock: inline
 name: "Nornhound"
@@ -21,16 +22,16 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #192: Worst of All Possible Worlds"
 name: "Nornhound"
 level: "Creature 18"
-rare_03: "Rare"
+rare_03: [[Rare]]
 alignment: ""
 size: "grg"
-trait_01: "fey"
-trait_02: "lawful"
+trait_01: [[fey]]
+trait_02: [[lawful]]
 modifier: 32
 perception:
   - name: "Perception"
     desc: "+32; Greater Darkvision, Scent (Precise) 120 Feet, Truesight"
-languages: "Common, Fey, Jotun"
+languages: "Common, Fey, Jotun; tongues"
 skills:
   - name: "Skills"
     desc: "Acrobatics: +30, Athletics: +35, Deception: +31, Diplomacy: +31, Intimidation: +33, Occultism: +30"
@@ -73,7 +74,7 @@ attacks:
     desc: "DC 37, attack +29; __9th __  _[[Spells/Cast into Time|Cast into Time]]_; __8th __  _[[Spells/Inevitable Disaster|Inevitable Disaster]]_, _[[Spells/Teleport|Teleport (Self Only, At Will)]]_; __6th __  _[[Spells/Slow|Slow]]_\n__Cantrips__  __(9th)__ _[[Spells/Detect Magic|Detect Magic]]_\n__Constant__  __(10th)__ _[[Spells/Truespeech|Tongues]]_, _[[Spells/Truesight|True Seeing]]_"
 
   - name: "Breath Weapon"
-    desc: "`pf2:2` (mental,primal) The nornhound unleashes a blast of temporal energy in a 30-foot cone that deals 15d8 mental damage (DC 40 Will check save). Creatures that fail their save become [[Conditions/Confused|Confused]] for 1 round. The nornhound can't use Breath Weapon again for 1d4 rounds."
+    desc: "`pf2:2` (mental,primal) The nornhound unleashes a blast of temporal energy in a @Template[cone|distance:30] that deals 15d8 mental damage (DC 40 Will check save). Creatures that fail their save become [[Conditions/Confused|Confused]] for 1 round. The nornhound can't use Breath Weapon again for 1d4 rounds."
 
   - name: "Follow the Thread"
     desc: "  A nornhound is permanently [[Conditions/Quickened|Quickened]]. It can use its extra action only to Step or Stride."
@@ -82,7 +83,7 @@ attacks:
     desc: "  The nornhound's Strikes deal 1d6 extra damage to creatures within reach of at least two of its allies."
 
   - name: "[[Bestiary Ability Glossary/Swallow Whole|Swallow Whole]]"
-    desc: "`pf2:1` (attack) Huge, 3d12 + 10 bludgeoning, Rupture 36\n"
+    desc: "`pf2:1` (attack) Huge, 3d12+10 bludgeoning, Rupture 36\n\n* * *\n"
 
   - name: "Time Bound"
     desc: "`pf2:3`  The nornhound jumps into the air, releasing multiple blasts of temporal energy. The nornhound leaps to a point within 60 feet. It can make up to three temporal blast Strikes at any point during this movement, each against a different target. These attacks count toward the nornhound's multiple attack penalty, but the multiple attack penalty doesn't increase until after all the attacks."
@@ -90,6 +91,12 @@ attacks:
   - name: "[[Bestiary Ability Glossary/Knockdown|Knockdown]]"
     desc: "`pf2:1`  "
  
+```
+
+```encounter-table
+name: Nornhound
+creatures:
+  - 1: Nornhound
 ```
 
 

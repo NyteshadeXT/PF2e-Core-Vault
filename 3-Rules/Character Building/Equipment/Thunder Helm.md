@@ -30,7 +30,7 @@ A _thunder helm_ appears as a cylindrical iron helmet adorned with a crown-like 
 
 * * *
 
-**Effect** The helm's gun barrels swivel and aim randomly, then conjure enough gunpowder and bullets to fire in all directions around you. Every creature within a 20-foot emanation takes 4d6 piercing damage (DC 19 Reflex check). When determining a creature's resistance or immunity to this damage, use the weaker of the target's resistance or immunity to piercing or bludgeoning.
+**Effect** The helm's gun barrels swivel and aim randomly, then conjure enough gunpowder and bullets to fire in all directions around you. Every creature within a @Template\[emanation|distance:20\] takes 4d6 piercing damage (DC 19 Reflex check). When determining a creature's resistance or immunity to this damage, use the weaker of the target's resistance or immunity to piercing or bludgeoning.
 
 *Source: Pathfinder #179: Cradle of Quartz*
 *OGL*

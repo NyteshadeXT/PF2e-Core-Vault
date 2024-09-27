@@ -44,7 +44,7 @@ This _+3 greater striking [[Equipment/Flaming (Greater)|Greater Flaming]] longsw
 
 * * *
 
-**Effect** A 10-foot emanation of flame radiates from the _greater searing blade_ for 1 minute. All weapon and unarmed attacks by you and your allies within the area gain the effect of the _flaming_ property rune.
+**Effect** A @Template\[emanation|distance:10\] of flame radiates from the _greater searing blade_ for 1 minute. All weapon and unarmed attacks by you and your allies within the area gain the effect of the _flaming_ property rune.
 
 [[Equipment Effects/Aura_ Searing Blade (Greater)|Aura: Searing Blade (Greater)]]
 

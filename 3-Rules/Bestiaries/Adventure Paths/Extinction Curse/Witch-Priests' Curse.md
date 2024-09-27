@@ -6,6 +6,7 @@ tags:
   - curse
   - magical
   - trap
+  - pf2eHazard
 
 source: Pathfinder #155: Lord of the Black Sands
 aliases: "Compendium.pf2e.extinction-curse-bestiary.Actor.nJBpLZFgEuF7uZAZ" 
@@ -23,9 +24,9 @@ name: "Witch-Priests' Curse"
 level: "Hazard 18"
 
 
-trait_01: "curse"
-trait_02: "magical"
-trait_03: "trap"
+trait_01: [[curse]]
+trait_02: [[magical]]
+trait_03: [[trap]]
 modifier: 32
 sourcebook: "_Pathfinder #155: Lord of the Black Sands_"
 perception:
@@ -44,10 +45,16 @@ attacks:
   - name: ""
 
   - name: "Hex of the Bloody Thief"
-    desc: "`pf2:r` (curse, divine) **Trigger** A creature opens a secret compartment\n**Effect** The creature must succeed at a DC 38 Will check save or be subjected to the witch-priests' curse. Whenever a cursed creature takes at least 10 piercing or slashing damage from a single attack, it also takes 3d6 bleed. In addition, the cursed creature regains only half as many Hit Points as normal from all healing. The effect is permanent unless removed by magic."
+    desc: "`pf2:r` (curse, divine) **Trigger** A creature opens a secret compartment\n* * *\n\n**Effect** The creature must succeed at a DC 38 Will check save or be subjected to the witch-priests' curse. Whenever a cursed creature takes at least 10 piercing or slashing damage from a single attack, it also takes 3d6 bleed. In addition, the cursed creature regains only half as many Hit Points as normal from all healing. The effect is permanent unless removed by magic."
 
 
   - name: "Reset"
     desc: "The trap resets if both secret compartments are shut."
+```
+
+```encounter-table
+name: Witch-Priests' Curse
+creatures:
+  - 1: Witch-Priests' Curse
 ```
 

@@ -12,6 +12,7 @@ tags:
   - pf2e/creature/type/humanoid
   - pf2e/creature/type/lawful
   - pf2e/creature/type/unholy
+  - pf2eMonster
   - pf2e/creature/level/-1
 statblock: inline
 name: "Hellbound Robber"
@@ -26,16 +27,16 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Society Scenario #3-05: Inheritor&#x27;s Rite"
 name: "Hellbound Robber"
 level: "Creature -1"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Medium"
-trait_01: "devil"
-trait_02: "evil"
-trait_03: "fiend"
-trait_04: "human"
-trait_05: "humanoid"
-trait_06: "lawful"
-trait_07: "unholy"
+trait_01: [[devil]]
+trait_02: [[evil]]
+trait_03: [[fiend]]
+trait_04: [[human]]
+trait_05: [[humanoid]]
+trait_06: [[lawful]]
+trait_07: [[unholy]]
 modifier: 4
 perception:
   - name: "Perception"
@@ -68,6 +69,12 @@ attacks:
   - name: "Melee"
     desc: "`pf2:1` Dagger +6 (agile, finesse, unholy)\n__Damage__  1d4 + 1 piercing"
  
+```
+
+```encounter-table
+name: Hellbound Robber
+creatures:
+  - 1: Hellbound Robber
 ```
 
 

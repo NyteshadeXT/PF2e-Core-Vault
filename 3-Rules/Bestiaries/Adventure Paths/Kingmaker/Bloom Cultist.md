@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/human
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/5
 statblock: inline
 name: "Bloom Cultist"
@@ -23,13 +24,13 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Kingmaker"
 name: "Bloom Cultist"
 level: "Creature 5"
-rare_03: "Rare"
+rare_03: [[Rare]]
 alignment: ""
 size: "Medium"
-trait_01: "chaotic"
-trait_02: "evil"
-trait_03: "human"
-trait_04: "humanoid"
+trait_01: [[chaotic]]
+trait_02: [[evil]]
+trait_03: [[human]]
+trait_04: [[humanoid]]
 modifier: 13
 perception:
   - name: "Perception"
@@ -71,6 +72,12 @@ attacks:
   - name: "Absorb the Bloom"
     desc: "`pf2:1` (divine,manipulate) The bloom cultist places a hand against the wall or floor in the Cradle of Lamashtu and utters a prayer to the Mother of Monsters. Filaments of fungus slither up into the cultist's flesh, healing 4d6 points of damage. The cultist can't Absorb the Bloom for 24 hours."
  
+```
+
+```encounter-table
+name: Bloom Cultist
+creatures:
+  - 1: Bloom Cultist
 ```
 
 

@@ -4,6 +4,7 @@ obsidianUIMode: preview
 noteType: pf2eHazard
 tags:
   - haunt
+  - pf2eHazard
   - complex
 source: Pathfinder #177: Burning Tundra
 aliases: "Compendium.pf2e.quest-for-the-frozen-flame-bestiary.Actor.lXpZF3gFjkXz6Eua" 
@@ -21,13 +22,13 @@ name: "Hall Of Fiery Doom"
 level: "Hazard 10"
 
 trait_06: "Complex"
-trait_01: "haunt"
+trait_01: [[haunt]]
 modifier: 32
 sourcebook: "_Pathfinder #177: Burning Tundra_"
 ac: 10
 armorclass:
   - name: AC
-    desc: "10; __Fort__ +0, __Ref__ +0, __Will__ +0"
+    desc: "10; "
 hp: 0
 health:
   - name: ""
@@ -49,16 +50,22 @@ attacks:
   - name: ""
 
   - name: "Burst of Fire"
-    desc: "`pf2:r` **Trigger** A creature enters the hall or ends its turn in the hall\n**Effect** The hall bursts into flame, dealing 4d6 fire damage to each creature in the hall. The haunt then rolls initiative."
+    desc: "`pf2:r` **Trigger** A creature enters the hall or ends its turn in the hall\n* * *\n\n**Effect** The hall bursts into flame, dealing 4d6 fire damage to each creature in the hall. The haunt then rolls initiative."
 
   - name: "Burning Timbers"
-    desc: "action Creatures within the 30-foot by 90-foot area of the hall take 4d6 + 12 fire damage (DC 29 Reflex check)."
+    desc: "action Creatures within the 30-foot by 90-foot area of the hall take 4d6+12 fire damage (DC 29 Reflex check)."
   - name: "Melee"
-    desc: "Demonic Abduction +23 () Spectral demons lift a single creature 50 feet into the air and drop it. The haunt makes a Strike against the creature with a +23 attack bonus. On a success, the creature is lifted into the air and dropped, taking 25 bludgeoning, though it might negate some or all this damage using a spell, such as [[Spells/Gentle Landing|Gentle Landing]]. On a critical hit, the creature also takes 2d12 + 13 slashing damage as the demons' claws tear through its flesh."
+    desc: "Demonic Abduction +23 () Spectral demons lift a single creature 50 feet into the air and drop it. The haunt makes a Strike against the creature with a +23 attack bonus. On a success, the creature is lifted into the air and dropped, taking 25 bludgeoning, though it might negate some or all this damage using a spell, such as [[Spells/Gentle Landing|Gentle Landing]]. On a critical hit, the creature also takes 2d12+13 slashing damage as the demons' claws tear through its flesh."
 
   - name: "Routine"
     desc: "(3 actions) The haunt spends 1 action to fill the hall with burning timbers falling from above, and 2 actions to pluck up random victims and drop them to their deaths."
   - name: "Reset"
     desc: "The hall falls quiet for 24 hours, after which it can trigger again."
+```
+
+```encounter-table
+name: Hall Of Fiery Doom
+creatures:
+  - 1: Hall Of Fiery Doom
 ```
 

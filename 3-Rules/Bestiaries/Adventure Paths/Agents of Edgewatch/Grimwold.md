@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/chaotic
   - pf2e/creature/type/human
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/14
 statblock: inline
 name: "Grimwold"
@@ -22,12 +23,12 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #161: Belly of the Black Whale"
 name: "Grimwold"
 level: "Creature 14"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Medium"
-trait_01: "chaotic"
-trait_02: "human"
-trait_03: "humanoid"
+trait_01: [[chaotic]]
+trait_02: [[human]]
+trait_03: [[humanoid]]
 modifier: 27
 perception:
   - name: "Perception"
@@ -35,7 +36,7 @@ perception:
 languages: "Common, Varisian"
 skills:
   - name: "Skills"
-    desc: "Deception: +22, Diplomacy: +20, Legal Lore: +24, Society: +24, Stealth: +24"
+    desc: "Deception: +22, Diplomacy: +20, Society: +24, Stealth: +24, Legal Lore: +24"
 abilityMods: [6, 2, 2, 4, 4, 0]
 speed: 25 feet
 sourcebook: "_Pathfinder #161: Belly of the Black Whale_"
@@ -69,6 +70,12 @@ attacks:
   - name: "Studied Strike"
     desc: "`pf2:1`  Grimwold studies his foe for weaknesses to exploit. His next successful Strike against that target deals an additional 4d6 precision damage."
  
+```
+
+```encounter-table
+name: Grimwold
+creatures:
+  - 1: Grimwold
 ```
 
 

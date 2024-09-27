@@ -10,6 +10,7 @@ tags:
   - pf2e/creature/type/mummy
   - pf2e/creature/type/undead
   - pf2e/creature/type/unholy
+  - pf2eMonster
   - pf2e/creature/level/8
 statblock: inline
 name: "Chafkhem"
@@ -24,14 +25,14 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #164: Hands of the Devil"
 name: "Chafkhem"
 level: "Creature 8"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Medium"
-trait_01: "evil"
-trait_02: "lawful"
-trait_03: "mummy"
-trait_04: "undead"
-trait_05: "unholy"
+trait_01: [[evil]]
+trait_02: [[lawful]]
+trait_03: [[mummy]]
+trait_04: [[undead]]
+trait_05: [[unholy]]
 modifier: 17
 perception:
   - name: "Perception"
@@ -59,13 +60,13 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Despair"
-    desc: " (aura,divine,emotion,fear,incapacitation,mental) 30 feet. Living creatures are [[Conditions/Frightened 1|Frightened 1]] while in Chafkhem's despair aura. They can't naturally recover from this fear while in the area but recover instantly once they leave it. When a creature first enters the area, it must succeed at a DC 24 Will check save (after taking the penalty from being frightened) or be [[Conditions/Paralyzed|Paralyzed]] for 1 round.\nThe creature is then temporarily immune for 24 hours.\n[[Bestiary Effects/Effect_ Despair|Effect: Despair]]"
+    desc: " (aura,divine,emotion,fear,incapacitation,mental) 30 feet. Living creatures are [[Conditions/Frightened|Frightened 1]] while in Chafkhem's despair aura. They can't naturally recover from this fear while in the area but recover instantly once they leave it. When a creature first enters the area, it must succeed at a DC 24 Will check save (after taking the penalty from being frightened) or be [[Conditions/Paralyzed|Paralyzed]] for 1 round.\n\nThe creature is then temporarily immune for 24 hours.\n\n[[Bestiary Effects/Effect_ Despair|Effect: Despair]]"
 
   - name: "Rejuvenation"
     desc: " (divine) When Chafkhem is destroyed, necromantic energies rebuild his body in the magic circle in his room over 1d10 days. If the re-forming body is destroyed during that time, the process starts anew. Chafkhem can be destroyed for good with a [[Spells/Consecrate|Consecrate]] ritual, or if the magic circle is destroyed."
 
   - name: "Warding Script"
-    desc: "`pf2:r` (arcane) **Trigger** A creature Chafkhem can see makes a melee Strike against Chafkhem\n**Effect** Chafkhem traces a magical glyph in the air that glows and fades. The triggering creature must attempt a DC 25 Fortitude check save.\n**Success** The target is unaffected.\n**Failure** The target is [[Conditions/Blinded|Blinded]] until the start of its next turn.\n**Critical Failure** The target is blinded for 1 minute."
+    desc: "`pf2:r` (arcane) **Trigger** A creature Chafkhem can see makes a melee Strike against Chafkhem\n* * *\n\n**Effect** Chafkhem traces a magical glyph in the air that glows and fades. The triggering creature must attempt a DC 25 Fortitude check save.\n* * *\n\n**Success** The target is unaffected.\n\n**Failure** The target is [[Conditions/Blinded|Blinded]] until the start of its next turn.\n\n**Critical Failure** The target is blinded for 1 minute."
 
 attacks:
   - name: ""
@@ -83,8 +84,14 @@ attacks:
     desc: "_[[Spells/Awaken Portal|Awaken Portal]]_, _[[Spells/Create Undead|Create Undead]]_, _[[Spells/Inveigle|Inveigle]]_"
 
   - name: "Mummy Rot"
-    desc: " (curse,disease,divine,void) This disease and any damage from it can't be healed until this curse is removed. A creature killed by mummy rot turns to dust and can't be resurrected except by a 7th-rank [[Spells/Resurrect|Resurrect]] ritual or similar magic.\n**Saving Throw** DC 24 Fortitude check\n**Stage 1** carrier with no ill effect (1 minute)\n**Stage 2** 6d6 void damage and [[Conditions/Stupefied 1|Stupefied 1]] (1 day)"
+    desc: " (curse,disease,divine,void) This disease and any damage from it can't be healed until this curse is removed. A creature killed by mummy rot turns to dust and can't be resurrected except by a 7th-rank [[Spells/Resurrect|Resurrect]] ritual or similar magic.\n\n**Saving Throw** DC 24 Fortitude check\n* * *\n\n**Stage 1** carrier with no ill effect (1 minute)\n\n**Stage 2** 6d6 void damage and [[Conditions/Stupefied|Stupefied 1]] (1 day)"
  
+```
+
+```encounter-table
+name: Chafkhem
+creatures:
+  - 1: Chafkhem
 ```
 
 

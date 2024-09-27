@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.pfs-season-2-bestiary.Actor.DYEJU8PPBg6yWGJe"
 tags:
   - pf2e/creature/type/human
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/1
 statblock: inline
 name: "Mercenary Trapper (3-4)"
@@ -21,11 +22,11 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Society Scenario #2-13: A Gilded Test"
 name: "Mercenary Trapper (3-4)"
 level: "Creature 1"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Medium"
-trait_01: "human"
-trait_02: "humanoid"
+trait_01: [[human]]
+trait_02: [[humanoid]]
 modifier: 8
 perception:
   - name: "Perception"
@@ -67,6 +68,12 @@ attacks:
   - name: "Trapped Prey"
     desc: "  The mercenary trapper's attacks deal an extra 1d6 precision damage to creatures that are [[Conditions/Immobilized|Immobilized]] by a mechanical jaws trap."
  
+```
+
+```encounter-table
+name: Mercenary Trapper (3-4)
+creatures:
+  - 1: Mercenary Trapper (3-4)
 ```
 
 

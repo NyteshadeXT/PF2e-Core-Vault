@@ -5,8 +5,9 @@ cssclasses: pf2e,pf2e-action
 tags:
   - trait/common
   - category/interaction
+  - remaster
 aliases: "Compendium.pf2e.actionspf2e.Item.s4s40hJr5uRLOqix"
-license: OGL
+license: ORC
 ---
 # Change Tradition Focus `pf2:1`
 
@@ -23,5 +24,5 @@ license: OGL
 
 You change your tradition focus to another magical tradition.
 
-*Source: Pathfinder Gamemastery Guide*
-*OGL*
+*Source: Pathfinder GM Core*
+*ORC*

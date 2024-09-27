@@ -11,7 +11,7 @@ license: OGL
 ---
 # Fleshgem (Earthspeaker)
 ## Item 8
-### [uncommon](uncommon "Uncommon Rarity Trait")[[invested]][[primal]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[invested]][[primal]]
 
 
 **Price** 450 gp; 
@@ -32,7 +32,7 @@ You siphon your _fleshgem's_ power, and the earth around you erupts in crystal s
 
 * * *
 
-**Effect** The ground around you erupts in a 10-foot burst of knee-high crystal shards that remain for 1 round, or 1 minute if you spent two actions. To all creatures other than you, the area is difficult terrain as well as hazardous terrain. Creatures that move through a space containing crystal shards take 2 piercing damage.
+**Effect** The ground around you erupts in a @Template\[burst|distance:10\] of knee-high crystal shards that remain for 1 round, or 1 minute if you spent two actions. To all creatures other than you, the area is difficult terrain as well as hazardous terrain. Creatures that move through a space containing crystal shards take 2 piercing damage.
 
 *Source: Pathfinder Lost Omens: The Grand Bazaar*
 *OGL*

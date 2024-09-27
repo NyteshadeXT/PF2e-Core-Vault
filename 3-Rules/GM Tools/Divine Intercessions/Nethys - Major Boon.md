@@ -17,7 +17,7 @@ license: OGL
 
 
 
-**Major Boon** You are granted supreme magical knowledge and mastery.
+You are granted supreme magical knowledge and mastery.
 
 If you are a prepared spellcaster, you can switch one of your prepared spells for another spell you could have prepared in that slot; if you are a spontaneous spellcaster, you can switch one of the spells in your spell repertoire for another spell you could have chosen for your repertoire instead.
 

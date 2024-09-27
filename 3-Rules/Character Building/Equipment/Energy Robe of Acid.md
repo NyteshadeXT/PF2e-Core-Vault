@@ -11,7 +11,7 @@ license: OGL
 ---
 # Energy Robe of Acid
 ## Item 9
-### [uncommon](uncommon "Uncommon Rarity Trait")[[invested]][[magical]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[invested]][[3-Rules/Rule References/Magical]]
 
 
 **Price** 575 gp; 

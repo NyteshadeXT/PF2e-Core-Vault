@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.menace-under-otari-bestiary.Actor.EtRqBsWh1Hv1toqh"
 tags:
   - pf2e/creature/type/humanoid
   - pf2e/creature/type/orc
+  - pf2eMonster
   - pf2e/creature/level/1
   - remaster
 statblock: inline
@@ -25,12 +26,13 @@ level: "Creature 1"
 
 alignment: ""
 size: "Medium"
-trait_01: "humanoid"
-trait_02: "orc"
+trait_01: [[humanoid]]
+trait_02: [[orc]]
 modifier: 6
 perception:
   - name: "Perception"
     desc: "+6; Darkvision"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Athletics: +7, Intimidation: +4, Survival: +4"
@@ -53,7 +55,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "[[Bestiary Ability Glossary/Ferocity|Ferocity]]"
-    desc: "`pf2:r`  When the orc is reduced to 0 Hit Points, they can use their reaction to remain conscious with 1 Hit Point, but they gain the [[Conditions/Wounded 1|Wounded 1]] condition (or increases the wounded value by 1 if they already have that condition). The orc can't use this ability at wounded 3."
+    desc: "`pf2:r`  When the orc is reduced to 0 Hit Points, they can use their reaction to remain conscious with 1 Hit Point, but they gain the [[Conditions/Wounded|Wounded 1]] condition (or increases the wounded value by 1 if they already have that condition). The orc can't use this ability at wounded 3."
 
 attacks:
   - name: ""
@@ -70,6 +72,12 @@ attacks:
   - name: "Ranged"
     desc: "`pf2:1` Javelin +5 (thrown 30 ft.)\n__Damage__  1d6 + 4 piercing"
  
+```
+
+```encounter-table
+name: Orc Veteran (BB)
+creatures:
+  - 1: Orc Veteran (BB)
 ```
 
 

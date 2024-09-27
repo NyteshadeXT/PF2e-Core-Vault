@@ -13,7 +13,7 @@ license: OGL
 ---
 # Aerial Cloak
 ## Item 3
-### [[3-Rules/Rule References/Air]][[invested]][[magical]]
+### [[3-Rules/Rule References/Air]][[invested]][[3-Rules/Rule References/Magical]]
 
 
 **Price** 60 gp; 

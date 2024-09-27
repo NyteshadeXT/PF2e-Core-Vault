@@ -6,10 +6,11 @@ tags:
   - trait/gunslinger
   - trait/common
   - category/class
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.sjChYEuEWPqndCSK"
-license: OGL
+license: ORC
 ---
-# Dual-Weapon Reload `pf2:1`
+# Dual-Weapon Reload
 ## Feat 1
 ### [[gunslinger]]
 
@@ -18,11 +19,7 @@ license: OGL
 
 
 
-**Requirements** You're wielding two one-handed weapons, each in a different hand, one of which is a ranged weapon.
+You carry your ammunition in a way that allows you to reload while holding two weapons. While you're wielding two one-handed weapons, each in a different hand, you don't need a free hand to reload a one-handed ranged weapon you're wielding.
 
-* * *
-
-You carry your ammunition in a way that allows you to reload while holding two weapons. You Interact to reload a one-handed ranged weapon you're holding. Unlike most Interact actions, you don't need a free hand to reload your ranged weapon in this way.
-
-*Source: Pathfinder Guns & Gears*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

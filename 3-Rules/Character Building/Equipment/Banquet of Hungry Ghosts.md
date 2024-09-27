@@ -12,7 +12,7 @@ license: OGL
 ---
 # Banquet of Hungry Ghosts
 ## Item 12
-### [[consumable]][[magical]]
+### [[consumable]][[3-Rules/Rule References/Magical]]
 
 **Category** other; 
 **Price** 350 gp; 

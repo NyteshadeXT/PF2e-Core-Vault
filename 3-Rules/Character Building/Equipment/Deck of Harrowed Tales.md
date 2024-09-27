@@ -11,7 +11,7 @@ license: OGL
 ---
 # Deck of Harrowed Tales
 ## Item 20
-### [unique](unique "Unique Rarity Trait")[[artifact]][[magical]]
+### [unique](unique.md "Unique Rarity Trait")[[artifact]][[3-Rules/Rule References/Magical]]
 
 
 **Price** 0 gp; 

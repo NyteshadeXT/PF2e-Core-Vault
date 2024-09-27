@@ -6,8 +6,9 @@ tags:
   - trait/general
   - trait/common
   - category/general
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.38uOVS8fLZxraUrg"
-license: OGL
+license: ORC
 ---
 # Pick Up The Pace
 ## Feat 3
@@ -19,7 +20,7 @@ license: OGL
 
 **Prerequisites** Constitution +2
 * * *
-You lead by example and can help others push themselves beyond their normal limits. When [[Actions/Hustle|Hustling]] in a group during exploration mode, your group can Hustle for up to 20 additional minutes, to a maximum of the amount of time the character with the highest Constitution modifier could Hustle alone.
+You lead by example and can help others push themselves beyond their normal limits. When Hustling in a group during exploration mode, your group can Hustle for as long as the member who could Hustle longest on their own.
 
-*Source: Pathfinder Advanced Player's Guide*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

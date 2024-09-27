@@ -6,6 +6,7 @@ cssClasses: pf2e
 aliases: "Compendium.pf2e.pathfinder-bestiary-2.Actor.SG8fOxo4SS7bXpav" 
 tags:
   - pf2e/creature/type/aberration
+  - pf2eMonster
   - pf2e/creature/level/2
 statblock: inline
 name: "Bog Strider"
@@ -21,10 +22,10 @@ token: [[modules/pf2e-tokens-bestiaries/portraits/humanoid/hybrid/bog-strider.we
 source: "Pathfinder Bestiary 2"
 name: "Bog Strider"
 level: "Creature 2"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Medium"
-trait_01: "aberration"
+trait_01: [[aberration]]
 modifier: 8
 perception:
   - name: "Perception"
@@ -32,7 +33,7 @@ perception:
 languages: "Thalassic"
 skills:
   - name: "Skills"
-    desc: "Athletics: +8 (+10 to Leap while Water Striding or Swimming), Stealth: +8, Survival: +8"
+    desc: "Athletics: +8, Stealth: +8, Survival: +8"
 abilityMods: [2, 4, 2, 0, 2, 0]
 speed: 25 feet,  swim 20 feet
 sourcebook: "_Pathfinder Bestiary 2_"
@@ -67,7 +68,7 @@ attacks:
     desc: "`pf2:1` Spear +10 (thrown 20 ft.)\n__Damage__  1d6 + 3 piercing"
 
   - name: "Hurl Net"
-    desc: "`pf2:1`  **Requirements** The bog strider is holding a net in two hands\n**Effect** The bog strider hurls their net to hamper a foe. They make a ranged Strike (with a +10 modifier) against a Medium or smaller creature within 20 feet. On a hit, the target is [[Conditions/Off-Guard|Off-Guard]] and takes a -10-foot circumstance penalty to its Speeds. On a critical hit, the creature is instead [[Conditions/Restrained|Restrained]]. The DC to [[Actions/Escape|Escape]] the net is 16. A creature adjacent to the target can [[Actions/Interact|Interact]] with the net to remove it from the target."
+    desc: "`pf2:1`  **Requirements** The bog strider is holding a net in two hands\n* * *\n\n**Effect** The bog strider hurls their net to hamper a foe. They make a ranged Strike (with a +10 modifier) against a Medium or smaller creature within 20 feet. On a hit, the target is [[Conditions/Off-Guard|Off-Guard]] and takes a -10-foot circumstance penalty to its Speeds. On a critical hit, the creature is instead [[Conditions/Restrained|Restrained]]. The DC to [[Actions/Escape|Escape]] the net is 16. A creature adjacent to the target can [[Actions/Interact|Interact]] with the net to remove it from the target."
 
   - name: "Water Sprint"
     desc: "`pf2:3`  The bog strider Strides up to three times in a straight line across smooth water. They can make a single Strike against a creature at the end of this movement."
@@ -75,6 +76,12 @@ attacks:
   - name: "Water Stride"
     desc: "  The bog strider can stand and move on the surface of water or other liquids without falling through. The bog strider can go underwater if they wish, but they must [[Actions/Swim|Swim]] to do so."
  
+```
+
+```encounter-table
+name: Bog Strider
+creatures:
+  - 1: Bog Strider
 ```
 
 

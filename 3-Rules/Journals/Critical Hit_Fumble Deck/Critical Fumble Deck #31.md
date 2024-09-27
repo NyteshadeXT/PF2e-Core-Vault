@@ -20,12 +20,12 @@ tags:
 
 # Off Balance
 
-> You are [[Conditions/Slowed 1|Slowed 2]] until the end of your next turn.
+> You are [[Conditions/Slowed|Slowed 2]] until the end of your next turn.
 
 `Unarmed`
 
 # Spell Shield
 
-> The target gains a [[Other Effects/Effect\_ +2 status bonus to saving throws against spells for 1 min|+2 status bonus to saving throws against spells for 1 min]].
+> The target gains a [[Other Effects/Effect_ +2 status bonus to saving throws against spells for 1 min|+2 status bonus to saving throws against spells for 1 min]].
 
 `Spell`

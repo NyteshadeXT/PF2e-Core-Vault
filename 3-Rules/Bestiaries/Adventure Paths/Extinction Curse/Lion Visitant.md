@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/undead
   - pf2e/creature/type/unholy
+  - pf2eMonster
   - pf2e/creature/level/5
 statblock: inline
 name: "Lion Visitant"
@@ -26,14 +27,15 @@ level: "Creature 5"
 
 alignment: ""
 size: "Large"
-trait_01: "animal"
-trait_02: "evil"
-trait_03: "undead"
-trait_04: "unholy"
+trait_01: [[animal]]
+trait_02: [[evil]]
+trait_03: [[undead]]
+trait_04: [[unholy]]
 modifier: 13
 perception:
   - name: "Perception"
     desc: "+13; Darkvision, Lifesense (Imprecise) 60 Feet"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Acrobatics: +13, Athletics: +13, Stealth: +13"
@@ -73,7 +75,7 @@ attacks:
     desc: "`pf2:1`  The visitant Strides and makes a Strike at the end of that movement. If the visitant began this action [[Conditions/Hidden|Hidden]], it remains hidden until after the ability's Strike."
 
   - name: "[[Creature Family Ability Glossary/(Visitant) Roar|Roar]]"
-    desc: "`pf2:1` (auditory,concentrate,emotion,fear,mental,primal) The visitant lets out a loud and horrifying roar. Each creature within 100 feet must attempt at a DC 19 Will check save.\nNo matter the result, affected creatures are then temporarily immune to the effect for 1 minute.\n_Note: A DC was not provided for this ability by Paizo. The DC present here is a moderate DC for the creature level according to the Gamemastery Guide creature building Tables._\n**Critical Success** The creature is unaffected.\n**Success** The creature is [[Conditions/Frightened 1|Frightened 1]].\n**Failure** The creature is [[Conditions/Frightened 1|Frightened 2]].\n**Critical Failure** The creature is [[Conditions/Frightened 1|Frightened 3]]."
+    desc: "`pf2:1` (auditory,concentrate,emotion,fear,mental,primal) The visitant lets out a loud and horrifying roar. Each creature within 100 feet must attempt at a DC 19 Will check save.\n\nNo matter the result, affected creatures are then temporarily immune to the effect for 1 minute.\n* * *\n\n_Note: A DC was not provided for this ability by Paizo. The DC present here is a moderate DC for the creature level according to the Gamemastery Guide creature building Tables._\n* * *\n\n**Critical Success** The creature is unaffected.\n\n**Success** The creature is [[Conditions/Frightened|Frightened 1]].\n\n**Failure** The creature is [[Conditions/Frightened|Frightened 2]].\n\n**Critical Failure** The creature is [[Conditions/Frightened|Frightened 3]]."
 
   - name: "[[Bestiary Ability Glossary/Sneak Attack|Sneak Attack]]"
     desc: "  The visitant deals an extra 1d8 precision damage to [[Conditions/Off-Guard|Off-Guard]] creatures."
@@ -81,6 +83,12 @@ attacks:
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
     desc: "`pf2:1`  "
  
+```
+
+```encounter-table
+name: Lion Visitant
+creatures:
+  - 1: Lion Visitant
 ```
 
 

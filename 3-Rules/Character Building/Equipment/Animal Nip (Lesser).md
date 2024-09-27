@@ -16,7 +16,7 @@ license: OGL
 ---
 # Animal Nip (Lesser)
 ## Item 4
-### [[alchemical]][[consumable]][[olfactory]][[plant]][[Wood]]
+### [[alchemical]][[consumable]][[olfactory]][[3-Rules/trait_reference/plant]][[wood]]
 
 **Category** other; 
 **Price** 15 gp; 

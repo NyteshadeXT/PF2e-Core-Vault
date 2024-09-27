@@ -20,7 +20,7 @@ license: ORC
 
 **Prerequisites** trained in Intimidation
 * * *
-Imitating animal threat displays, you make yourself appear larger and more imposing. Roll one Intimidation check to [[Actions/Demoralize|Demoralize]] and compare the result to the Will DC of each animal, fungus, and plant creature in a 15-foot cone. When you do, Demoralize gains the visual trait. You don't take a penalty if the creature doesn't understand your language.
+Imitating animal threat displays, you make yourself appear larger and more imposing. Roll one Intimidation check to [[Actions/Demoralize|Demoralize]] and compare the result to the Will DC of each animal, fungus, and plant creature in a @Template\[cone|distance:15\]. When you do, Demoralize gains the visual trait. You don't take a penalty if the creature doesn't understand your language.
 
 *Source: Pathfinder Player Core*
 *ORC*

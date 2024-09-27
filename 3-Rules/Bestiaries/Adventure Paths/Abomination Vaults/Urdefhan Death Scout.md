@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/humanoid
   - pf2e/creature/type/urdefhan
+  - pf2eMonster
   - pf2e/creature/level/6
 statblock: inline
 name: "Urdefhan Death Scout"
@@ -25,9 +26,9 @@ level: "Creature 6"
 
 alignment: ""
 size: "Medium"
-trait_01: "evil"
-trait_02: "humanoid"
-trait_03: "urdefhan"
+trait_01: [[evil]]
+trait_02: [[humanoid]]
+trait_03: [[urdefhan]]
 modifier: 15
 perception:
   - name: "Perception"
@@ -55,7 +56,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Necrotic Decay"
-    desc: " (divine,void) When an urdefhan dies, its invisible flesh quickly rots away and sublimates into a foul-smelling gas that fills a 5-foot emanation around the body.\nThis gas deals 6d6 void damage to creatures in this area as their flesh curdles and rots as well (DC 23 Fortitude check save)."
+    desc: " (divine,void) When an urdefhan dies, its invisible flesh quickly rots away and sublimates into a foul-smelling gas that fills a @Template[emanation|distance:5] around the body.\n\nThis gas deals 6d6 void damage to creatures in this area as their flesh curdles and rots as well (DC 23 Fortitude check save)."
 
 attacks:
   - name: ""
@@ -79,8 +80,14 @@ attacks:
     desc: "  The death scout deals an extra 2d6 precision damage to [[Conditions/Off-Guard|Off-Guard]] creatures."
 
   - name: "Wicked Bite"
-    desc: "`pf2:1`  **Requirements** The urdefhan damaged a creature with a jaws Strike on its last action\n**Effect** The urdefhan maintains contact, turning the creature's flesh translucent around the site of the injury. The urdefhan chooses one of two options, each of which requires a fortitude save. If the jaws Strike was a critical hit, the creature suffers both effects, using the same save result for both.\n*   **Drain Blood** DC 24 Fortitude check The urdefhan drinks some of the creature's blood. On a failed save, the creature is [[Conditions/Drained 1|Drained 1]] and the urdefhan regains 5 HP (or, on a critical failure, it's [[Conditions/Drained 1|Drained 2]] and the urdefhan regains 10 HP).\n*   **Drain Vitality** (necromancy) DC 24 Fortitude check The urdefhan draws out some of the creature's vital essence. The creature becomes [[Conditions/Enfeebled 1|Enfeebled 1]] for 1 hour on a failed save (or [[Conditions/Enfeebled 1|Enfeebled 2]] for 1 hour on a critical failure)."
+    desc: "`pf2:1`  **Requirements** The urdefhan damaged a creature with a jaws Strike on its last action\n* * *\n\n**Effect** The urdefhan maintains contact, turning the creature's flesh translucent around the site of the injury. The urdefhan chooses one of two options, each of which requires a fortitude save. If the jaws Strike was a critical hit, the creature suffers both effects, using the same save result for both.\n\n*   **Drain Blood** DC 24 Fortitude check The urdefhan drinks some of the creature's blood. On a failed save, the creature is [[Conditions/Drained|Drained 1]] and the urdefhan regains 5 HP (or, on a critical failure, it's [[Conditions/Drained|Drained 2]] and the urdefhan regains 10 HP).\n*   **Drain Vitality** (necromancy) DC 24 Fortitude check The urdefhan draws out some of the creature's vital essence. The creature becomes [[Conditions/Enfeebled|Enfeebled 1]] for 1 hour on a failed save (or [[Conditions/Enfeebled|Enfeebled 2]] for 1 hour on a critical failure)."
  
+```
+
+```encounter-table
+name: Urdefhan Death Scout
+creatures:
+  - 1: Urdefhan Death Scout
 ```
 
 

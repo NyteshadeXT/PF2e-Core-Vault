@@ -6,6 +6,7 @@ cssClasses: pf2e
 aliases: "Compendium.pf2e.strength-of-thousands-bestiary.Actor.7aqbEcMv3d1ZVBEz" 
 tags:
   - pf2e/creature/type/construct
+  - pf2eMonster
   - pf2e/creature/level/0
 statblock: inline
 name: "Spellskein (Control Weather)"
@@ -20,15 +21,15 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #169: Kindled Magic"
 name: "Spellskein (Control Weather)"
 level: "Creature 0"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "tiny"
-trait_01: "construct"
+trait_01: [[construct]]
 modifier: 2
 perception:
   - name: "Perception"
     desc: "+2; Darkvision"
-languages: "Common"
+languages: "Common; (can&#x27;t speak any language)"
 skills:
   - name: "Skills"
     desc: "Acrobatics: +5, Stealth: +7"
@@ -51,10 +52,10 @@ abilities_top:
     desc: "  The spellskein can collapse flat to the ground to Hide; it can attempt to Hide even if it doesn't have any cover or concealment."
 
   - name: "Crane Glide"
-    desc: "`pf2:1`  **Requirements** The spellskein is folded into its crane shape\n**Effect** The spellskein gains a 25-foot fly Speed until the beginning of its next turn."
+    desc: "`pf2:1`  **Requirements** The spellskein is folded into its crane shape\n* * *\n\n**Effect** The spellskein gains a 25-foot fly Speed until the beginning of its next turn."
 
   - name: "Frog Hop"
-    desc: "`pf2:2`  **Requirements** The spellskein is folded into its frog shape\n**Effect** The spellskein Leaps 15 feet horizontally or vertically and gains a 10-foot climb Speed until the beginning of its next turn."
+    desc: "`pf2:2`  **Requirements** The spellskein is folded into its frog shape\n* * *\n\n**Effect** The spellskein Leaps 15 feet horizontally or vertically and gains a 10-foot climb Speed until the beginning of its next turn."
 
   - name: "Refold"
     desc: "`pf2:1`  The spellskein folds itself into a crane, frog, lizard, or cloud shape, as it chooses."
@@ -71,8 +72,14 @@ attacks:
     desc: "`pf2:1` Zap +6 (range increment 30 feet)\n__Damage__  1d4 + 1 electricity"
 
   - name: "Lizard Frill"
-    desc: "`pf2:1` (arcane,fear,mental) **Requirements** The spellskein is folded into its lizard shape\n**Effect** The spellskein puffs out its cloth frills and shakes them from side to side to look fierce. The first creature hit by its sharp edge Strike before the start of its next turn must succeed on a DC 14 Will check save or become [[Conditions/Frightened 1|Frightened 1]] ([[Conditions/Frightened 1|Frightened 2]] on a critical failure)."
+    desc: "`pf2:1` (arcane,fear,mental) **Requirements** The spellskein is folded into its lizard shape\n* * *\n\n**Effect** The spellskein puffs out its cloth frills and shakes them from side to side to look fierce. The first creature hit by its sharp edge Strike before the start of its next turn must succeed on a DC 14 Will check save or become [[Conditions/Frightened|Frightened 1]] ([[Conditions/Frightened|Frightened 2]] on a critical failure)."
  
+```
+
+```encounter-table
+name: Spellskein (Control Weather)
+creatures:
+  - 1: Spellskein (Control Weather)
 ```
 
 

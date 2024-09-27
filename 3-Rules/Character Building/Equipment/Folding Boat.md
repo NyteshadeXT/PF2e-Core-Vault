@@ -10,7 +10,7 @@ license: OGL
 ---
 # Folding Boat
 ## Item 8
-### [uncommon](uncommon "Uncommon Rarity Trait")[[magical]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[3-Rules/Rule References/Magical]]
 
 
 **Price** 500 gp; 

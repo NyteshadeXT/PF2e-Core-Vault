@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/human
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/7
 statblock: inline
 name: "Elven Hunter"
@@ -22,12 +23,12 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Society Scenario #4-99: Blessings of the Forest"
 name: "Elven Hunter"
 level: "Creature 7"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Medium"
-trait_01: "evil"
-trait_02: "human"
-trait_03: "humanoid"
+trait_01: [[evil]]
+trait_02: [[human]]
+trait_03: [[humanoid]]
 modifier: 17
 perception:
   - name: "Perception"
@@ -35,7 +36,7 @@ perception:
 languages: "Common, Elven"
 skills:
   - name: "Skills"
-    desc: "Forest Lore: +13, Medicine: +15, Nature: +17, Stealth: +17, Survival: +17"
+    desc: "Medicine: +15, Nature: +17, Stealth: +17, Survival: +17, Forest Lore: +13"
 abilityMods: [4, 4, 2, 1, 4, 0]
 speed: 30 feet
 sourcebook: "_Pathfinder Society Scenario #4-99: Blessings of the Forest_"
@@ -73,8 +74,14 @@ attacks:
     desc: "`pf2:1` Composite Longbow +18 (deadly d10, magical, propulsive, range increment 100 feet, reload 0, volley 30 ft.)\n__Damage__  1d8 + 8 piercing"
 
   - name: "Hunt Prey"
-    desc: "`pf2:1` (concentrate) The hunter designates a single creature they can see and hear, or one they're Tracking, as their prey. The hunter gains a +2 circumstance bonus to Perception checks to [[Actions/Seek|Seek]] the prey and to Survival checks to [[Actions/Track|Track]] the prey.\nThe first time the hunter hits the designated prey in a round, they deal an additional 1d8 precision damage. The hunter also ignores the penalty for making ranged attacks within their second range increment.\nThese effects last until the hunter uses Hunt Prey again."
+    desc: "`pf2:1` (concentrate) The hunter designates a single creature they can see and hear, or one they're Tracking, as their prey. The hunter gains a +2 circumstance bonus to Perception checks to [[Actions/Seek|Seek]] the prey and to Survival checks to [[Actions/Track|Track]] the prey.\n\nThe first time the hunter hits the designated prey in a round, they deal an additional 1d8 precision damage. The hunter also ignores the penalty for making ranged attacks within their second range increment.\n\nThese effects last until the hunter uses Hunt Prey again."
  
+```
+
+```encounter-table
+name: Elven Hunter
+creatures:
+  - 1: Elven Hunter
 ```
 
 

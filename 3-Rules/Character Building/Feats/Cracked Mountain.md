@@ -25,7 +25,7 @@ license: OGL
 
 * * *
 
-You fight on, staying on your feet and lashing out at a foe. You avoid being knocked out and remain at 1 Hit Point, and your [[Conditions/Wounded 1|Wounded]] condition increases by 1. Make a melee Strike at an enemy within reach. You immediately end your Tenacious Stance.
+You fight on, staying on your feet and lashing out at a foe. You avoid being knocked out and remain at 1 Hit Point, and your [[Conditions/Wounded|Wounded]] condition increases by 1. Make a melee Strike at an enemy within reach. You immediately end your Tenacious Stance.
 
 *Source: Pathfinder Lost Omens: Highhelm*
 *OGL*

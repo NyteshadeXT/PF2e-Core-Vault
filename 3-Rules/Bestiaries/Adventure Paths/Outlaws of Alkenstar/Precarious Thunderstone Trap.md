@@ -5,6 +5,7 @@ noteType: pf2eHazard
 tags:
   - mechanical
   - trap
+  - pf2eHazard
 
 source: Pathfinder #178: Punks in a Powder Keg
 aliases: "Compendium.pf2e.outlaws-of-alkenstar-bestiary.Actor.CMTeUYpFwhN0CKs2" 
@@ -22,14 +23,14 @@ name: "Precarious Thunderstone Trap"
 level: "Hazard 1"
 
 
-trait_01: "mechanical"
-trait_02: "trap"
+trait_01: [[mechanical]]
+trait_02: [[trap]]
 modifier: 5
 sourcebook: "_Pathfinder #178: Punks in a Powder Keg_"
 ac: 12
 armorclass:
   - name: AC
-    desc: "12; __Fort__ +7, __Ref__ +3, __Will__ +0"
+    desc: "12; __Fort__ +7, __Ref__ +3, "
 hp: 10
 health:
   - name: ""
@@ -51,9 +52,15 @@ attacks:
   - name: ""
 
   - name: "Thunderstone"
-    desc: "`pf2:r` (sonic) **Trigger** The front gate is opened\n**Effect** A moderate thunderstone falls on the flagstones and activates, dealing 2 sonic splash damage to each creature within 10 feet of the gate. Creatures in the area must succeed at a DC 17 Fortitude check saving throw or be [[Conditions/Deafened|Deafened]] for 1 round. Adjacent creatures can attempt to catch the falling thunderstone (see Disable)."
+    desc: "`pf2:r` (sonic) **Trigger** The front gate is opened\n* * *\n\n**Effect** A moderate thunderstone falls on the flagstones and activates, dealing 2 sonic splash damage to each creature within 10 feet of the gate. Creatures in the area must succeed at a DC 17 Fortitude check saving throw or be [[Conditions/Deafened|Deafened]] for 1 round. Adjacent creatures can attempt to catch the falling thunderstone (see Disable)."
 
 
 
+```
+
+```encounter-table
+name: Precarious Thunderstone Trap
+creatures:
+  - 1: Precarious Thunderstone Trap
 ```
 

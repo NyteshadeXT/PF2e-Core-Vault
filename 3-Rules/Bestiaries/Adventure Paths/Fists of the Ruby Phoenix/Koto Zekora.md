@@ -12,6 +12,7 @@ tags:
   - pf2e/creature/type/lawful
   - pf2e/creature/type/oni
   - pf2e/creature/type/unholy
+  - pf2eMonster
   - pf2e/creature/level/17
 statblock: inline
 name: "Koto Zekora"
@@ -26,16 +27,16 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #166: Despair on Danger Island"
 name: "Koto Zekora"
 level: "Creature 17"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Large"
-trait_01: "evil"
-trait_02: "fiend"
-trait_03: "giant"
-trait_04: "humanoid"
-trait_05: "lawful"
-trait_06: "oni"
-trait_07: "unholy"
+trait_01: [[evil]]
+trait_02: [[fiend]]
+trait_03: [[giant]]
+trait_04: [[humanoid]]
+trait_05: [[lawful]]
+trait_06: [[oni]]
+trait_07: [[unholy]]
 modifier: 30
 perception:
   - name: "Perception"
@@ -78,7 +79,7 @@ attacks:
     desc: "`pf2:1` Fist +29 (agile, magical, reach 10 feet, unholy)\n__Damage__  3d8 + 16 bludgeoning"
 
   - name: "Spontaneous Arcane Spells"
-    desc: "DC 36, attack +28; __8th __ (3 slots) _[[Spells/Quandary|Maze]]_, _[[Spells/Polar Ray|Polar Ray]]_, _[[Spells/Scintillating Pattern|Scintillating Pattern]]_; __7th __ (3 slots) _[[Spells/Eclipse Burst|Eclipse Burst]]_, _[[Spells/Mask of Terror|Mask of Terror]]_, _[[Spells/Prismatic Spray|Prismatic Spray]]_, _[[Spells/Reverse Gravity|Reverse Gravity]]_; __6th __ (3 slots) _[[Spells/Chain Lightning|Chain Lightning]]_, _[[Spells/Disintegrate|Disintegrate]]_, _[[Spells/Lightning Bolt|Lightning Bolt]]_, _[[Spells/Vampiric Exsanguination|Vampiric Exsanguination]]_; __5th __ (3 slots) _[[Spells/Cone of Cold|Cone of Cold]]_, _[[Spells/Fireball|Fireball]]_, _[[Spells/Scouting Eye|Prying Eye]]_, _[[Spells/Wall of Stone|Wall of Stone]]_; __4th __ (3 slots) _[[Spells/Translocate|Dimension Door]]_, _[[Spells/Unfettered Movement|Freedom of Movement]]_, _[[Spells/Invisibility|Invisibility]]_, _[[Spells/Wall of Fire|Wall of Fire]]_; __3rd __ (3 slots) _[[Spells/Fear|Fear]]_, _[[Spells/Fireball|Fireball]]_, _[[Spells/Haste|Haste]]_, _[[Spells/Slow|Slow]]_; __2nd __ (3 slots) _[[Spells/Acid Arrow|Acid Arrow]]_, _[[Spells/Dispel Magic|Dispel Magic]]_, _[[Spells/See the Unseen|See Invisibility]]_, _[[Spells/Gecko Grip|Spider Climb]]_; __1st __ (3 slots) _[[Spells/Gentle Landing|Feather Fall]]_, _[[Spells/Grease|Grease]]_, _[[Spells/Force Barrage|Magic Missile]]_, _[[Spells/Sure Strike|True Strike]]_\n__Cantrips__  __(8th)__ _[[Spells/Acid Splash|Acid Splash]]_, _[[Spells/Daze|Daze]]_, _[[Spells/Detect Magic|Detect Magic]]_, _[[Spells/Electric Arc|Electric Arc]]_, _[[Spells/Ray of Frost|Ray of Frost]]_, _[[Spells/Shield|Shield]]_"
+    desc: "DC 36, attack +28; __8th __ (3 slots) _[[Spells/Quandary|Maze]]_, _[[Spells/Polar Ray|Polar Ray]]_, _[[Spells/Confusing Colors|Scintillating Pattern]]_; __7th __ (3 slots) _[[Spells/Eclipse Burst|Eclipse Burst]]_, _[[Spells/Mask of Terror|Mask of Terror]]_, _[[Spells/Prismatic Spray|Prismatic Spray]]_, _[[Spells/Reverse Gravity|Reverse Gravity]]_; __6th __ (3 slots) _[[Spells/Chain Lightning|Chain Lightning]]_, _[[Spells/Disintegrate|Disintegrate]]_, _[[Spells/Lightning Bolt|Lightning Bolt]]_, _[[Spells/Vampiric Exsanguination|Vampiric Exsanguination]]_; __5th __ (3 slots) _[[Spells/Cone of Cold|Cone of Cold]]_, _[[Spells/Fireball|Fireball]]_, _[[Spells/Scouting Eye|Prying Eye]]_, _[[Spells/Wall of Stone|Wall of Stone]]_; __4th __ (3 slots) _[[Spells/Translocate|Dimension Door]]_, _[[Spells/Unfettered Movement|Freedom of Movement]]_, _[[Spells/Invisibility|Invisibility]]_, _[[Spells/Wall of Fire|Wall of Fire]]_; __3rd __ (3 slots) _[[Spells/Fear|Fear]]_, _[[Spells/Fireball|Fireball]]_, _[[Spells/Haste|Haste]]_, _[[Spells/Slow|Slow]]_; __2nd __ (3 slots) _[[Spells/Acid Arrow|Acid Arrow]]_, _[[Spells/Dispel Magic|Dispel Magic]]_, _[[Spells/See the Unseen|See Invisibility]]_, _[[Spells/Gecko Grip|Spider Climb]]_; __1st __ (3 slots) _[[Spells/Gentle Landing|Feather Fall]]_, _[[Spells/Grease|Grease]]_, _[[Spells/Force Barrage|Magic Missile]]_, _[[Spells/Sure Strike|True Strike]]_\n__Cantrips__  __(8th)__ _[[Spells/Acid Splash|Acid Splash]]_, _[[Spells/Daze|Daze]]_, _[[Spells/Detect Magic|Detect Magic]]_, _[[Spells/Electric Arc|Electric Arc]]_, _[[Spells/Ray of Frost|Ray of Frost]]_, _[[Spells/Shield|Shield]]_"
 
   - name: "Focus Spells"
     desc: "3 Focus Points, DC 36, attack +28; __9th __  _[[Spells/Ancestral Memories|Ancestral Memories]]_, _[[Spells/Arcane Countermeasure|Arcane Countermeasure]]_, _[[Spells/Extend Spell|Extend Spell]]_"
@@ -87,8 +88,14 @@ attacks:
     desc: "DC 36, attack +28; __5th __  _[[Spells/Cone of Cold|Cone of Cold]]_; __4th __  _[[Spells/Charm|Charm]]_, _[[Spells/Vapor Form|Gaseous Form]]_, _[[Spells/Sleep|Sleep]]_; __3rd __  _[[Spells/Fear|Fear]]_; __2nd __  _[[Spells/Darkness|Darkness]]_, _[[Spells/Invisibility|Invisibility (at will, self only)]]_"
 
   - name: "[[Bestiary Ability Glossary/Change Shape|Change Shape]]"
-    desc: "`pf2:1` (concentrate,polymorph,primal) Koto Zekora takes on the appearance of an ogre. This doesn't change her Speed or Strike attack and damage.\n"
+    desc: "`pf2:1` (concentrate,polymorph,primal) Koto Zekora takes on the appearance of an ogre. This doesn't change her Speed or Strike attack and damage.\n\n* * *\n"
  
+```
+
+```encounter-table
+name: Koto Zekora
+creatures:
+  - 1: Koto Zekora
 ```
 
 

@@ -10,6 +10,7 @@ tags:
   - pf2e/creature/type/lawful
   - pf2e/creature/type/unholy
   - pf2e/creature/type/velstrac
+  - pf2eMonster
   - pf2e/creature/level/10
 statblock: inline
 name: "Sacristan"
@@ -28,11 +29,11 @@ level: "Creature 10"
 
 alignment: ""
 size: "Medium"
-trait_01: "evil"
-trait_02: "fiend"
-trait_03: "lawful"
-trait_04: "unholy"
-trait_05: "velstrac"
+trait_01: [[evil]]
+trait_02: [[fiend]]
+trait_03: [[lawful]]
+trait_04: [[unholy]]
+trait_05: [[velstrac]]
 modifier: 19
 perception:
   - name: "Perception"
@@ -57,7 +58,7 @@ abilities_top:
   - name: ""
 
   - name: "Painsight"
-    desc: " (divine) A velstrac automatically knows whether a creature it sees has any of the [[Conditions/Doomed 1|Doomed]], [[Conditions/Dying 1|Dying]], and [[Conditions/Wounded 1|Wounded]] conditions, as well as the value of those conditions"
+    desc: " (divine) A velstrac automatically knows whether a creature it sees has any of the [[Conditions/Doomed|Doomed]], [[Conditions/Dying|Dying]], and [[Conditions/Wounded|Wounded]] conditions, as well as the value of those conditions"
 
 abilities_mid:
   - name: ""
@@ -65,7 +66,7 @@ abilities_mid:
     desc: "`pf2:r`  "
 
   - name: "Staggering Servitude"
-    desc: " (aura,divine,fear,mental,visual) 30 feet. When a creature ends its turn in the aura, it sees a vision of the sacristan groveling in pitiable servitude. The creature must succeed at a DC 27 Will check save or become [[Conditions/Stunned 1|Stunned 1]]."
+    desc: " (aura,divine,fear,mental,visual) 30 feet. When a creature ends its turn in the aura, it sees a vision of the sacristan groveling in pitiable servitude. The creature must succeed at a DC 27 Will check save or become [[Conditions/Stunned|Stunned 1]]."
 
 attacks:
   - name: ""
@@ -77,11 +78,17 @@ attacks:
     desc: "DC 29, attack +19; __5th __  _[[Spells/Chilling Darkness|Chilling Darkness]]_; __3rd __  _[[Spells/Fear|Fear]]_"
 
   - name: "Focus Gaze"
-    desc: "`pf2:1` (concentrate,divine,fear,mental,visual) The sacristan stares at a creature they can see within 30 feet. The creature must immediately attempt a Will save against Staggering Servitude. In addition, if the creature was already [[Conditions/Stunned 1|Stunned]], on a failed save its revulsion toward the sacristan's presence causes it to be [[Conditions/Stupefied 1|Stupefied 2]] for 1 minute. After attempting this save, the creature is then temporarily immune until the start of the sacristan's next turn."
+    desc: "`pf2:1` (concentrate,divine,fear,mental,visual) The sacristan stares at a creature they can see within 30 feet. The creature must immediately attempt a Will save against Staggering Servitude. In addition, if the creature was already [[Conditions/Stunned|Stunned]], on a failed save its revulsion toward the sacristan's presence causes it to be [[Conditions/Stupefied|Stupefied 2]] for 1 minute. After attempting this save, the creature is then temporarily immune until the start of the sacristan's next turn."
 
   - name: "Shadow Scream"
-    desc: "`pf2:3` (aura,concentrate,darkness,divine,mental,sonic) **Frequency** once per hour\n**Effect** The sacristan opens their mouth to unloose the wailing howls and mind-twisting darkness of the Shadow Plane. This creates a 30-foot emanation of darkness and wailing sounds around the sacristan. Creatures with [[Bestiary Ability Glossary/Darkvision|Darkvision]] can't see through this darkness. The sacristan can Sustain Shadow Scream for up to 1 minute. Non-velstrac creatures in the area when the ability is used, as well as those who enter or start their turn in the area, must attempt a DC 28 Will check save.\n**Critical Success** The creature is unaffected and is then temporarily immune for 24 hours.\n**Success** The creature is [[Conditions/Deafened|Deafened]] for 1 round.\n**Failure** The creature is [[Conditions/Confused|Confused]] and deafened for 1 round.\n**Critical Failure** The creature takes 20 mental damage, and is confused and deafened for 1 round."
+    desc: "`pf2:3` (aura,concentrate,darkness,divine,mental,sonic) **Frequency** once per hour\n* * *\n\n**Effect** The sacristan opens their mouth to unloose the wailing howls and mind-twisting darkness of the Shadow Plane. This creates a @Template[emanation|distance:30] of darkness and wailing sounds around the sacristan. Creatures with [[Bestiary Ability Glossary/Darkvision|Darkvision]] can't see through this darkness. The sacristan can Sustain Shadow Scream for up to 1 minute. Non-velstrac creatures in the area when the ability is used, as well as those who enter or start their turn in the area, must attempt a DC 28 Will check save.\n* * *\n\n**Critical Success** The creature is unaffected and is then temporarily immune for 24 hours.\n\n**Success** The creature is [[Conditions/Deafened|Deafened]] for 1 round.\n\n**Failure** The creature is [[Conditions/Confused|Confused]] and deafened for 1 round.\n\n**Critical Failure** The creature takes 20 mental damage, and is confused and deafened for 1 round."
  
+```
+
+```encounter-table
+name: Sacristan
+creatures:
+  - 1: Sacristan
 ```
 
 

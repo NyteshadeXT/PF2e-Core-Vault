@@ -10,7 +10,7 @@ license: OGL
 ---
 # Ethereal
 ## Item 17
-### [uncommon](uncommon "Uncommon Rarity Trait")[[magical]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[3-Rules/Rule References/Magical]]
 
 
 **Price** 13500 gp; 

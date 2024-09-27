@@ -13,7 +13,7 @@ license: ORC
 ---
 # Winged Sandals
 ## Item 10
-### [[3-Rules/Rule References/Air]][[invested]][[magical]]
+### [[air]][[invested]][[magical]]
 
 
 **Price** 850 gp; 

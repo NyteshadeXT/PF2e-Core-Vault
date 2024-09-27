@@ -5,6 +5,7 @@ cssclasses: pf2e,pf2e-spell
 tags:
   - trait/artifact
   - trait/harrow-court
+  - trait/illusion
   - trait/invested
   - trait/magical
   - trait/unique
@@ -13,7 +14,7 @@ license: OGL
 ---
 # The Fiend
 ## Item 20
-### [unique](unique "Unique Rarity Trait")[[artifact]][[harrow-court]][[invested]][[magical]]
+### [unique](unique "Unique Rarity Trait")[[artifact]][[harrow-court]][[illusion]][[invested]][[magical]]
 
 
 **Price** 0 gp; 
@@ -34,7 +35,7 @@ _The Fiend_ represents the inevitability of great calamities and pervasive dange
 
 * * *
 
-**Effect** You wave the card to create a vision of destruction around you; you cast [[Spells/Phantasmal Calamity|Phantasmal Calamity]], except the area is a 20-foot emanation. The rank of the spell is one-half your level, rounded down (minimum 6th level), and the save DC is your class DC or spell DC (Will check). You are immune to the effects of your own phantasmal calamity.
+**Effect** You wave the card to create a vision of destruction around you; you cast [[Spells/Phantasmal Calamity|Phantasmal Calamity]], except the area is a @Template\[emanation|distance:20\]. The rank of the spell is one-half your level, rounded down (minimum 6th level), and the save DC is your class DC or spell DC (Will check). You are immune to the effects of your own phantasmal calamity.
 
 *Source: Pathfinder #190: The Choosing*
 *OGL*

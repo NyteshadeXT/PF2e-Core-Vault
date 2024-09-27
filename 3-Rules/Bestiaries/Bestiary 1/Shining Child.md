@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/astral
   - pf2e/creature/type/chaotic
   - pf2e/creature/type/evil
+  - pf2eMonster
   - pf2e/creature/level/12
 statblock: inline
 name: "Shining Child"
@@ -26,14 +27,14 @@ level: "Creature 12"
 
 alignment: ""
 size: "Medium"
-trait_01: "astral"
-trait_02: "chaotic"
-trait_03: "evil"
+trait_01: [[astral]]
+trait_02: [[chaotic]]
+trait_03: [[evil]]
 modifier: 23
 perception:
   - name: "Perception"
     desc: "+23; Darkvision"
-languages: "Aklo"
+languages: "Aklo; telepathy 120 feet"
 skills:
   - name: "Skills"
     desc: "Arcana: +18, Deception: +23, Diplomacy: +21, Intimidation: +21, Occultism: +18"
@@ -61,7 +62,7 @@ abilities_mid:
     desc: " (arcane,aura,incapacitation,light) 60 feet. The shining child sheds bright light. Any creature that starts its turn in the aura must succeed at a DC 29 Fortitude check save. If it fails, it is [[Conditions/Blinded|Blinded]] for 1 minute, and if it critically fails, it's permanently blinded. A creature that succeeds at its save is temporarily immune to this effect for 24 hours."
 
   - name: "Overwhelming Light"
-    desc: "`pf2:r` (light) **Trigger** The shining child enters an area of magical darkness or begins its turn in an area of magical darkness.\n**Effect** The shining child attempts to counteract the magical darkness (as a 7th-rank spell)."
+    desc: "`pf2:r` (light) **Trigger** The shining child enters an area of magical darkness or begins its turn in an area of magical darkness.\n* * *\n\n**Effect** The shining child attempts to counteract the magical darkness (as a 7th-rank spell)."
 
 attacks:
   - name: ""
@@ -75,6 +76,12 @@ attacks:
   - name: "Occult Innate Spells"
     desc: "DC 33, attack +25; __7th __  _[[Spells/Spell Turning|Spell Turning]]_, _[[Spells/Sunburst|Sunburst]]_; __6th __  _[[Spells/Dispel Magic|Dispel Magic]]_, _[[Spells/Vibrant Pattern|Vibrant Pattern]]_, _[[Spells/Wall of Force|Wall of Force]]_; __5th __  _[[Spells/Translocate|Dimension Door]]_, _[[Spells/False Vision|False Vision]]_, _[[Spells/Mirage|Hallucinatory Terrain]]_; __4th __  _[[Spells/Translocate|Dimension Door (At Will) (Self Only)]]_; __2nd __  _[[Spells/Illusory Object|Illusory Object (At Will)]]_\n__Cantrips__  __(6th)__ _[[Spells/Light|Light]]_"
  
+```
+
+```encounter-table
+name: Shining Child
+creatures:
+  - 1: Shining Child
 ```
 
 

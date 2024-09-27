@@ -7,8 +7,9 @@ tags:
   - trait/skill
   - trait/common
   - category/skill
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.uxwHHjWs3ehqtG4b"
-license: OGL
+license: ORC
 ---
 # Steel Skin
 ## Feat 4
@@ -20,7 +21,7 @@ license: OGL
 
 **Prerequisites** trained in Survival; Sentinel Dedication
 * * *
-You wear your armor like a second skin. You can rest normally while wearing medium armor. If you are a master in heavy armor, you can also rest normally while wearing heavy armor.
+You wear your armor like a second skin, taking comfort in the protection it offers. You don't become [[Conditions/Fatigued|Fatigued]] if you sleep while wearing armor.
 
-*Source: Pathfinder Advanced Player's Guide*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

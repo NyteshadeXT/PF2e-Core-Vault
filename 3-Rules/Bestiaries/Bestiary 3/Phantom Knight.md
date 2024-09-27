@@ -10,6 +10,7 @@ tags:
   - pf2e/creature/type/lawful
   - pf2e/creature/type/phantom
   - pf2e/creature/type/spirit
+  - pf2eMonster
   - pf2e/creature/level/4
 statblock: inline
 name: "Phantom Knight"
@@ -25,14 +26,14 @@ token: [[modules/pf2e-tokens-bestiaries/portraits/undead/ghostly/phantom-knight.
 source: "Pathfinder Bestiary 3"
 name: "Phantom Knight"
 level: "Creature 4"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Medium"
-trait_01: "ethereal"
-trait_02: "incorporeal"
-trait_03: "lawful"
-trait_04: "phantom"
-trait_05: "spirit"
+trait_01: [[ethereal]]
+trait_02: [[incorporeal]]
+trait_03: [[lawful]]
+trait_04: [[phantom]]
+trait_05: [[spirit]]
 modifier: 13
 perception:
   - name: "Perception"
@@ -57,12 +58,12 @@ abilities_top:
   - name: ""
 
   - name: "Walk the Ethereal Line"
-    desc: "`pf2:2`  The phantom walks the thin line between the Ethereal and Material Planes in order to exist on both planes simultaneously.\nThey can shift back to solely the Ethereal Plane by using this ability again."
+    desc: "`pf2:2`  The phantom walks the thin line between the Ethereal and Material Planes in order to exist on both planes simultaneously.\n\nThey can shift back to solely the Ethereal Plane by using this ability again."
 
 abilities_mid:
   - name: ""
   - name: "Susceptible to Death"
-    desc: "  Though phantoms aren't alive, neither are they undead, and they are uniquely vulnerable to the effects of death.\nA phantom whose Hit Points are reduced to 0 as a result of a death effect (such as from a spell like [[Spells/Execute|Execute]]) is immediately whisked away to the River of Souls, where their soul resumes the usual path to the afterlife."
+    desc: "  Though phantoms aren't alive, neither are they undead, and they are uniquely vulnerable to the effects of death.\n\nA phantom whose Hit Points are reduced to 0 as a result of a death effect (such as from a spell like [[Spells/Execute|Execute]]) is immediately whisked away to the River of Souls, where their soul resumes the usual path to the afterlife."
 
 attacks:
   - name: ""
@@ -73,6 +74,12 @@ attacks:
   - name: "Ranged"
     desc: "`pf2:1` Phantom Bow +14 (deadly d10, force, magical, range increment 120 feet, volley 30 ft.)\n__Damage__  1d8 + 5 force"
  
+```
+
+```encounter-table
+name: Phantom Knight
+creatures:
+  - 1: Phantom Knight
 ```
 
 

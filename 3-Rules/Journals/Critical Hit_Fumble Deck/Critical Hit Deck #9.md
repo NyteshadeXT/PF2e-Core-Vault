@@ -8,7 +8,7 @@ tags:
 ---
 # Momentum
 
-> You gain a [[Other Effects/Effect\_ +2 circumstance bonus to attack rolls|+2 circumstance bonus to attack rolls]] until the end of your next turn.
+> You gain a [[Other Effects/Effect_ +2 circumstance bonus to attack rolls|+2 circumstance bonus to attack rolls]] until the end of your next turn.
 
 `Bludgeoning`
 

@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/undead
   - pf2e/creature/type/unholy
+  - pf2eMonster
   - pf2e/creature/level/8
 statblock: inline
 name: "Narlo Nyrell"
@@ -23,13 +24,13 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #200: Seven Dooms for Sandpoint"
 name: "Narlo Nyrell"
 level: "Creature 8"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Medium"
-trait_01: "chaotic"
-trait_02: "evil"
-trait_03: "undead"
-trait_04: "unholy"
+trait_01: [[chaotic]]
+trait_02: [[evil]]
+trait_03: [[undead]]
+trait_04: [[unholy]]
 modifier: 16
 perception:
   - name: "Perception"
@@ -57,7 +58,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Final Blasphemy"
-    desc: " (divine,void) When the herexen is destroyed, it explodes in a wave of void energy with the effects of a 3-action, 4th-rank [[Spells/Harm|Harm]] spell (DC 26 Fortitude check).\nThe herexen is destroyed, so it doesn't gain any Hit Points from this use of _harm_, and it doesn't need to have any _harm_ spells remaining to use this ability."
+    desc: " (divine,void) When the herexen is destroyed, it explodes in a wave of void energy with the effects of a 3-action, 4th-rank [[Spells/Harm|Harm]] spell (DC 26 Fortitude check).\n\nThe herexen is destroyed, so it doesn't gain any Hit Points from this use of _harm_, and it doesn't need to have any _harm_ spells remaining to use this ability."
 
 attacks:
   - name: ""
@@ -72,8 +73,14 @@ attacks:
     desc: "2 Focus Points, DC 26, attack +18; __4th __  _[[Spells/Tempest Touch|Tempest Touch]]_, _[[Spells/Thunderburst|Thunderburst]]_"
 
   - name: "Swarming Curse"
-    desc: "  Hundreds of biting flies crawl over Narlo's bones, filling out his armor almost like his flesh once did. When these flies burn, they harm Narlo as well, imparting weakness to fire 5. Whenever Narlo casts a spell, these flies burst from his body to fill a 10-foot emanation around him in a buzzing, biting cloud until the start of his next turn. During this time, he loses his weakness to fire, and any creature that ends their turn within the emanation takes 4d6 piercing damage (DC 23 Reflex check save) from the biting flies."
+    desc: "  Hundreds of biting flies crawl over Narlo's bones, filling out his armor almost like his flesh once did. When these flies burn, they harm Narlo as well, imparting weakness to fire 5. Whenever Narlo casts a spell, these flies burst from his body to fill a @Template[emanation|distance:10] around him in a buzzing, biting cloud until the start of his next turn. During this time, he loses his weakness to fire, and any creature that ends their turn within the emanation takes 4d6 piercing damage (DC 23 Reflex check save) from the biting flies."
  
+```
+
+```encounter-table
+name: Narlo Nyrell
+creatures:
+  - 1: Narlo Nyrell
 ```
 
 

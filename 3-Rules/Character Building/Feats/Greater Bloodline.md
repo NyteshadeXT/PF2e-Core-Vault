@@ -6,8 +6,9 @@ tags:
   - trait/sorcerer
   - trait/common
   - category/class
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.DpRMdytpPiCypmkJ"
-license: OGL
+license: ORC
 ---
 # Greater Bloodline
 ## Feat 10
@@ -19,7 +20,7 @@ license: OGL
 
 **Prerequisites** bloodline spell
 * * *
-Further communion with the legacy of your bloodline has uncovered greater secrets. You gain the greater bloodline spell associated with your bloodline. Increase the number of Focus Points in your focus pool by 1.
+You uncover the greater secrets of your bloodline. You gain the greater bloodline spell associated with your bloodline.
 
-*Source: Pathfinder Core Rulebook*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

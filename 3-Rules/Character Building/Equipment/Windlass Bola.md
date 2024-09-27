@@ -36,7 +36,7 @@ Clockwork mechanisms tick away inside the weights of these _+1 striking returnin
 
 * * *
 
-**Effect** The cord of the bola snakes out as you throw it, allowing the weapon to wrap around a group of enemies. You use the bolas to attempt a ranged [[Actions/Trip|Trip]] against all creatures in a 5-foot burst within the weapon's first range increment. Roll a separate Athletics check for each target. Each attempt counts toward your multiple attack penalty, but don't increase your penalty until you have made all the attempts.
+**Effect** The cord of the bola snakes out as you throw it, allowing the weapon to wrap around a group of enemies. You use the bolas to attempt a ranged [[Actions/Trip|Trip]] against all creatures in a @Template\[burst|distance:5\] within the weapon's first range increment. Roll a separate Athletics check for each target. Each attempt counts toward your multiple attack penalty, but don't increase your penalty until you have made all the attempts.
 
 *Source: Pathfinder Treasure Vault*
 *OGL*

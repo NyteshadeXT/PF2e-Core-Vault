@@ -33,9 +33,9 @@ This engraved duskwood gorget seems to vibrate with ferocity, granting you a +2 
 
 * * *
 
-**Critical Success** The creature is [[Conditions/Frightened 1|Frightened 2]].
+**Critical Success** The creature is [[Conditions/Frightened|Frightened 2]].
 
-**Success** The creature is [[Conditions/Frightened 1|Frightened 1]].
+**Success** The creature is [[Conditions/Frightened|Frightened 1]].
 
 **Failure** The creature is unaffected.
 

@@ -9,8 +9,9 @@ tags:
   - trait/potion
   - trait/uncommon
   - category/potion
+  - remaster
 aliases: "Compendium.pf2e.equipment-srd.Item.QNub2kTE7LpdMPII"
-license: OGL
+license: ORC
 ---
 # Potion of Disguise (Lesser)
 ## Item 5
@@ -21,7 +22,7 @@ license: OGL
 **Bulk** L; **Size** med
 **Usage** held-in-one-hand
 
-**Activate** `pf2:1` Interact
+**Activate** `pf2:1` (manipulate)
 
 * * *
 
@@ -35,5 +36,5 @@ The effects of this potion use the same rules as the [[Actions/Impersonate|Imper
 
 **Craft Requirements** Initial raw materials must include a bit of blood, hair, or flesh of the creature the potion will allow the drinker to imitate.
 
-*Source: Pathfinder Advanced Player's Guide*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

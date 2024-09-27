@@ -6,6 +6,7 @@ cssClasses: pf2e
 aliases: "Compendium.pf2e.pathfinder-bestiary-2.Actor.QHNXT5bZDqKRzwEF" 
 tags:
   - pf2e/creature/type/animal
+  - pf2eMonster
   - pf2e/creature/level/0
 statblock: inline
 name: "Spear Frog"
@@ -24,14 +25,15 @@ level: "Creature 0"
 
 alignment: ""
 size: "tiny"
-trait_01: "animal"
+trait_01: [[animal]]
 modifier: 6
 perception:
   - name: "Perception"
     desc: "+6; Low-Light Vision"
+languages: ""
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +5, Athletics: +0 (+6 to Climb, High Jump, Long Jump, and Swim)"
+    desc: "Acrobatics: +5, Athletics: +0"
 abilityMods: [-2, 3, 1, -4, 2, 0]
 speed: 20 feet,  climb 20 feet,  swim 20 feet
 sourcebook: "_Pathfinder Bestiary 2_"
@@ -59,11 +61,17 @@ attacks:
     desc: "`pf2:1` Jaws +7 (agile, finesse)\n__Damage__  1d6 piercing plus spear-frog-venom"
 
   - name: "Spear Frog Venom"
-    desc: " (poison) **Saving Throw** DC 15 Fortitude check\n**Maximum Duration** 6 rounds\n**Stage 1** 1d4 poison damage (1 round)\n**Stage 2** 1d6 poison damage and [[Conditions/Enfeebled 1|Enfeebled 1]] (1 round)"
+    desc: " (poison) **Saving Throw** DC 15 Fortitude check\n\n**Maximum Duration** 6 rounds\n\n**Stage 1** 1d4 poison damage (1 round)\n\n**Stage 2** 1d6 poison damage and [[Conditions/Enfeebled|Enfeebled 1]] (1 round)"
 
   - name: "Sticky Feet"
     desc: "  Spear frogs are not off-guard when [[Actions/Balance|Balancing]] on a narrow surface, and they gain a +4 bonus to Reflex saves to avoid falling."
  
+```
+
+```encounter-table
+name: Spear Frog
+creatures:
+  - 1: Spear Frog
 ```
 
 

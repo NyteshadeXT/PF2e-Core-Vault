@@ -6,6 +6,7 @@ cssClasses: pf2e
 aliases: "Compendium.pf2e.pathfinder-monster-core.Actor.k89Kw65a4Ip2ZSGA" 
 tags:
   - pf2e/creature/type/beast
+  - pf2eMonster
   - pf2e/creature/level/6
   - remaster
 statblock: inline
@@ -18,13 +19,14 @@ license: ORC
 columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
+token: [[modules/pf2e-tokens-bestiaries/portraits/bestial/mythological/manticore.webp| ]]
 source: "Pathfinder Monster Core"
 name: "Manticore (Scorpion Tail)"
 level: "Creature 6"
 
 alignment: ""
 size: "Large"
-trait_01: "beast"
+trait_01: [[beast]]
 modifier: 14
 perception:
   - name: "Perception"
@@ -63,8 +65,14 @@ attacks:
     desc: "`pf2:1` Stinger +17 (reach 10 feet)\n__Damage__  1d8 + 8 piercing plus manticore-venom"
 
   - name: "Manticore Venom"
-    desc: " (poison) **Saving Throw** DC 22 Fortitude check\n* * *\n\n**Maximum Duration** 6 rounds\n\n**Stage 1** 1d10 poison damage and [[Conditions/Enfeebled 1|Enfeebled 1]] (1 round)\n\n**Stage 2** 2d10 poison damage and enfeebled 1 (1 round)\n\n**Stage 3** 2d10 poison damage and [[Conditions/Enfeebled 1|Enfeebled 2]] (1 round)"
+    desc: " (poison) **Saving Throw** DC 22 Fortitude check\n* * *\n\n**Maximum Duration** 6 rounds\n\n**Stage 1** 1d10 poison damage and [[Conditions/Enfeebled|Enfeebled 1]] (1 round)\n\n**Stage 2** 2d10 poison damage and enfeebled 1 (1 round)\n\n**Stage 3** 2d10 poison damage and [[Conditions/Enfeebled|Enfeebled 2]] (1 round)"
  
+```
+
+```encounter-table
+name: Manticore (Scorpion Tail)
+creatures:
+  - 1: Manticore (Scorpion Tail)
 ```
 
 

@@ -4,8 +4,9 @@ title: "Effect: Bestial Mutagen (Major)"
 cssclasses: pf2e,pf2e-spell
 tags:
   - trait/common
+  - remaster
 aliases: "Compendium.pf2e.equipment-effects.Item.1ouUo8lLK6H79Rqh"
-license: OGL
+license: ORC
 ---
 # Effect: Bestial Mutagen (Major)
 ## Level 17
@@ -18,18 +19,9 @@ license: OGL
 
 Granted by [[Equipment/Bestial Mutagen (Major)|Bestial Mutagen (Major)]]
 
-Implemented effects:
+You gain a +4 item bonus to Athletics checks and unarmed attack rolls. You gain a claw unarmed attack (4d8 slashing damage) with the agile trait and a jaws unarmed attack (4d10 piercing damage).
 
-*   +4 item bonus to Athletics checks
-*   +4 item bonus to unarmed attack rolls
-*   Gain a claw unarmed attack
-*   Gain a jaws unarmed attack
-*   \-1 penalty to AC
-*   \-2 to penalty Reflex saves
+You take a –2 penalty to Reflex saves, Acrobatics checks, and Stealth checks.
 
-Unimplemented effects:
-
-*   Gain weapon specialization, or greater weapon specialization, with these unarmed attacks
-
-*Source: Pathfinder Core Rulebook*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

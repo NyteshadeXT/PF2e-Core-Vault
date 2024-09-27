@@ -13,7 +13,7 @@ license: OGL
 ---
 # Flintlock Musket
 ## Item 0
-### [uncommon](uncommon "Uncommon Rarity Trait")[[concussive]][[fatal-d10]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[concussive]][[fatal-d10]]
 
 |  |  |
 | -- | -- |

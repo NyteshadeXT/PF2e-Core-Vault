@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/cold
   - pf2e/creature/type/dragon
   - pf2e/creature/type/evil
+  - pf2eMonster
   - pf2e/creature/level/17
 statblock: inline
 name: "Ice Linnorm"
@@ -24,13 +25,13 @@ token: [[modules/pf2e-tokens-bestiaries/portraits/draconic/linnorms/ice-linnorm.
 source: "Pathfinder Bestiary"
 name: "Ice Linnorm"
 level: "Creature 17"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "grg"
-trait_01: "chaotic"
-trait_02: "cold"
-trait_03: "dragon"
-trait_04: "evil"
+trait_01: [[chaotic]]
+trait_02: [[cold]]
+trait_03: [[dragon]]
+trait_04: [[evil]]
 modifier: 29
 perception:
   - name: "Perception"
@@ -57,10 +58,10 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "[[Bestiary Ability Glossary/Attack of Opportunity|Attack of Opportunity (Tail Only)]]"
-    desc: "`pf2:r`  Tail only\n"
+    desc: "`pf2:r`  Tail only\n\n* * *\n"
 
   - name: "Curse of Frost"
-    desc: " (cold,curse,primal) When a creature slays an ice linnorm, it must succeed at a DC 40 Will check save or permanently gain weakness to cold 15.\n[[Bestiary Effects/Effect_ Curse of Frost|Effect: Curse of Frost]]"
+    desc: " (cold,curse,primal) When a creature slays an ice linnorm, it must succeed at a DC 40 Will check save or permanently gain weakness to cold 15.\n\n[[Bestiary Effects/Effect_ Curse of Frost|Effect: Curse of Frost]]"
 
 attacks:
   - name: ""
@@ -78,14 +79,20 @@ attacks:
     desc: "DC 38, attack +30\n__Constant__  __(8th)__ _[[Spells/Unfettered Movement|Freedom of Movement]]_ __(7th)__ _[[Spells/Truesight|True Seeing]]_"
 
   - name: "Breath Weapon"
-    desc: "`pf2:2` (cold,primal) The ice linnorm spews out a blast of freezing, viscous ooze in a 60-foot cone that deals 15d6 cold damage to creatures within the area (DC 38 Reflex check save). The freezing ooze clings to those struck and hardens into thick sheets of ice. A creature that fails the saving throw is [[Conditions/Immobilized|Immobilized]] by the ice until it succeeds at a check to [[Actions/Escape|Escape]] or it or an ally [[Actions/Force Open|Forces Open]] the ice (DC 34 for either case). At the start of its turn, a creature still immobilized by the ice takes 4d6 cold damage. Another creature can free a frozen target by dealing a total of 20 fire damage to the frozen target. Left unattended, the ice crumbles away in 1 minute on its own. Creatures with the fire trait can't be frozen in place by this breath weapon. Flying creatures fall if frozen, and swimming creatures that are frozen rise toward the surface of the water at a speed of 60 feet per round.\nAn ice linnorm can't use Breath Weapon again for 1d4 rounds."
+    desc: "`pf2:2` (cold,primal) The ice linnorm spews out a blast of freezing, viscous ooze in a @Template[cone|distance:60] that deals 15d6 cold damage to creatures within the area (DC 38 Reflex check save). The freezing ooze clings to those struck and hardens into thick sheets of ice. A creature that fails the saving throw is [[Conditions/Immobilized|Immobilized]] by the ice until it succeeds at a check to [[Actions/Escape|Escape]] or it or an ally [[Actions/Force Open|Forces Open]] the ice (DC 34 for either case). At the start of its turn, a creature still immobilized by the ice takes 4d6 cold damage. Another creature can free a frozen target by dealing a total of 20 fire damage to the frozen target. Left unattended, the ice crumbles away in 1 minute on its own. Creatures with the fire trait can't be frozen in place by this breath weapon. Flying creatures fall if frozen, and swimming creatures that are frozen rise toward the surface of the water at a speed of 60 feet per round.\n\nAn ice linnorm can't use Breath Weapon again for 1d4 rounds."
 
   - name: "[[Bestiary Ability Glossary/Constrict|Constrict]]"
-    desc: "`pf2:1`  2d6 + 18 bludgeoning damage, DC 38 Fortitude check save\n"
+    desc: "`pf2:1`  2d6+18 bludgeoning damage, DC 38 Fortitude check save\n\n* * *\n"
 
   - name: "Ice Linnorm Venom"
-    desc: " (cold,injury,poison) **Saving Throw** DC 38 Fortitude check\n**Maximum Duration** 10 rounds\n**Stage 1** 5d6 cold damage and [[Conditions/Drained 1|Drained 1]]\n**Stage 2** 7d6 cold damage and [[Conditions/Drained 1|Drained 2]]"
+    desc: " (cold,injury,poison) **Saving Throw** DC 38 Fortitude check\n* * *\n\n**Maximum Duration** 10 rounds\n\n**Stage 1** 5d6 cold damage and [[Conditions/Drained|Drained 1]]\n\n**Stage 2** 7d6 cold damage and [[Conditions/Drained|Drained 2]]"
  
+```
+
+```encounter-table
+name: Ice Linnorm
+creatures:
+  - 1: Ice Linnorm
 ```
 
 

@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/animal
   - pf2e/creature/type/aquatic
   - pf2e/creature/type/mindless
+  - pf2eMonster
   - pf2e/creature/level/5
 statblock: inline
 name: "Giant Sea Squirt"
@@ -26,16 +27,17 @@ level: "Creature 5"
 
 alignment: ""
 size: "Medium"
-trait_01: "animal"
-trait_02: "aquatic"
-trait_03: "mindless"
+trait_01: [[animal]]
+trait_02: [[aquatic]]
+trait_03: [[mindless]]
 modifier: 9
 perception:
   - name: "Perception"
     desc: "+9; Wavesense (Imprecise) 60 Feet"
+languages: ""
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +11, Athletics: +12, Stealth: +13, "
+    desc: "Acrobatics: +11, Athletics: +12, Stealth: +13"
 abilityMods: [5, 2, 5, -5, 0, -4]
 speed: 25 feet,  swim 20 feet
 sourcebook: "_Battlezoo Bestiary_"
@@ -54,7 +56,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Reflexive Squirt"
-    desc: "`pf2:r`  **Requirements** The giant sea squirt is not Fatigued;\n**Trigger** The sea squirt is removed from water;\n**Effect** The sea squirt violently expels the venom-laced seawater inside of it, exposing each creature in a 10-foot emanation to sea squirt venom. The sea squirt is fatigued until it is submerged in water for at least 1 minute."
+    desc: "`pf2:r`  **Requirements** The giant sea squirt is not [[undefined]];\n\n**Trigger** The sea squirt is removed from water;\n\n**Effect** The sea squirt violently expels the venom-laced seawater inside of it, exposing each creature in a 10-foot emanation to sea squirt venom. The sea squirt is fatigued until it is submerged in water for at least 1 minute."
 
 attacks:
   - name: ""
@@ -63,17 +65,23 @@ attacks:
     desc: "`pf2:1` Siphon +15 (agile, reach 10 feet)\n__Damage__  2d6 + 8 bludgeoning plus grab,sea-squirt-venom"
 
   - name: "[[Bestiary Ability Glossary/Aquatic Ambush|Aquatic Ambush]]"
-    desc: "`pf2:1`  30 feet. The giant sea squirt must remain underwater during its movement.\n**Requirements** The monster is hiding in water and a creature that hasn't detected it is within the listed number of feet.\n**Effect** The monster moves up to its swim Speed + 10 feet toward the triggering creature, traveling on water and on land. Once the creature is in reach, the monster makes a Strike against it. The creature is Off-Guard against this Strike."
+    desc: "`pf2:1`  30 feet. The giant sea squirt must remain underwater during its movement.\n* * *\n\n**Requirements** The monster is hiding in water and a creature that hasn't detected it is within the listed number of feet.\n\n**Effect** The monster moves up to its swim Speed + 10 feet toward the triggering creature, traveling on water and on land. Once the creature is in reach, the monster makes a Strike against it. The creature is [[Conditions/Off-Guard|Off-Guard]] against this Strike."
 
   - name: "Sea Squirt Venom"
-    desc: " (incapacitation,poison) **Saving Throw** Fortitude;\n**Maximum Duration** 6 rounds;\n**Stage 1** 1d8 poison damage and Clumsy 1 (1 round);\n**Stage 2** 2d8 poison damage and Clumsy 2 (1 round);\n**Stage 3** 2d8 poison damage and Paralyzed (1 round)"
+    desc: " (incapacitation,poison) **Saving Throw** DC 20 Fortitude;\n\n**Maximum Duration** 6 rounds;\n\n**Stage 1** 1d8 poison damage and [[Conditions/Clumsy|Clumsy 1]] (1 round);\n\n**Stage 2** 2d8 poison damage and [[Conditions/Clumsy|Clumsy 2]] (1 round);\n\n**Stage 3** 2d8 poison damage and [[Conditions/Paralyzed|Paralyzed]] (1 round)"
 
   - name: "[[Bestiary Ability Glossary/Swallow Whole|Swallow Whole]]"
-    desc: "`pf2:1` (attack) Small, 2d4+6 bludgeoning plus 1d4 poison, Rupture 14\n"
+    desc: "`pf2:1` (attack) Small, 2d4+6 bludgeoning plus 1d4 poison, Rupture 14\n\n* * *\n"
 
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
     desc: "`pf2:1`  "
  
+```
+
+```encounter-table
+name: Giant Sea Squirt
+creatures:
+  - 1: Giant Sea Squirt
 ```
 
 

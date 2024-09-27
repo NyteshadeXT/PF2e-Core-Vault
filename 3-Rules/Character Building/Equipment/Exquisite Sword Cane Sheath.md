@@ -15,7 +15,7 @@ license: OGL
 ---
 # Exquisite Sword Cane Sheath
 ## Item 0
-### [[agile]][[finesse]][[parry]][[twin]]
+### [[3-Rules/Rule References/Agile]][[3-Rules/Rule References/Finesse]][[parry]][[twin]]
 
 |  |  |
 | -- | -- |

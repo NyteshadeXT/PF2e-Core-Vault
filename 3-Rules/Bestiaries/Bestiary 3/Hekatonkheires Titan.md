@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/chaotic
   - pf2e/creature/type/evil
   - pf2e/creature/type/titan
+  - pf2eMonster
   - pf2e/creature/level/24
 statblock: inline
 name: "Hekatonkheires Titan"
@@ -24,18 +25,18 @@ token: [[modules/pf2e-tokens-bestiaries/portraits/humanoid/giant/titan-hekatonkh
 source: "Pathfinder Bestiary 3"
 name: "Hekatonkheires Titan"
 level: "Creature 24"
-rare_03: "Rare"
+rare_03: [[Rare]]
 alignment: ""
 size: "grg"
-trait_01: "aberration"
-trait_02: "chaotic"
-trait_03: "evil"
-trait_04: "titan"
+trait_01: [[aberration]]
+trait_02: [[chaotic]]
+trait_03: [[evil]]
+trait_04: [[titan]]
 modifier: 43
 perception:
   - name: "Perception"
     desc: "+43; Darkvision, Truesight"
-languages: "Aklo, Chthonian, Common, Empyrean"
+languages: "Aklo, Chthonian, Common, Empyrean; telepathy 100 feet"
 skills:
   - name: "Skills"
     desc: "Acrobatics: +42, Athletics: +48, Intimidation: +45, Occultism: +41, Survival: +39"
@@ -57,7 +58,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "[[Bestiary Ability Glossary/Attack of Opportunity|Attack of Opportunity (Special)]]"
-    desc: "`pf2:r`  The hekatonkheires gains 99 extra reactions on their turn that they can only use to make Attacks of Opportunity.\n"
+    desc: "`pf2:r`  The hekatonkheires gains 99 extra reactions on their turn that they can only use to make Attacks of Opportunity.\n\n* * *\n"
 
   - name: "Impossible Stature"
     desc: " (aura,illusion,mental,occult) 120 feet. Titans warp perception and distance around them to seem even larger and more imposing. A creature that enters or begins its turn within the emanation must succeed at a DC 48 Will check save or its movement toward the titan is movement over difficult terrain (greater difficult terrain on a critical failure) for 1 round."
@@ -75,20 +76,26 @@ attacks:
     desc: "DC 48, attack +40; __9th __  _[[Spells/Seize Soul|Bind Soul]]_, _[[Spells/Translocate|Dimension Door]]_, _[[Spells/Interplanar Teleport|Plane Shift]]_, _[[Spells/Weird|Weird]]_\n__Constant__  __(10th)__ _[[Spells/Air Walk|Air Walk]]_, _[[Spells/Unfettered Movement|Freedom of Movement]]_, _[[Spells/Truesight|True Seeing]]_"
 
   - name: "Demolish Veil"
-    desc: "  **Frequency** once per month\n**Trigger** The titan casts [[Spells/Interplanar Teleport|Interplanar Teleport]]\n**Effect** The titan arrives in a storm of shattered planar barriers. This has the effects of a 10th-rank [[Spells/Storm of Vengeance|Storm of Vengeance]]."
+    desc: "  **Frequency** once per month\n\n**Trigger** The titan casts [[Spells/Interplanar Teleport|Interplanar Teleport]]\n* * *\n\n**Effect** The titan arrives in a storm of shattered planar barriers. This has the effects of a 10th-rank [[Spells/Storm of Vengeance|Storm of Vengeance]]."
 
   - name: "Hundred-Dimension Grasp"
-    desc: "`pf2:1`  The titan reaches between realities to drag foes closer. They attempt an Athletics check check and compare the result to the Fortitude DCs of all foes within 120 feet.\nOn a success, a foe is teleported to any square the titan chooses within 120 feet; on a critical success, it's also [[Conditions/Paralyzed|Paralyzed]] for 1 round. The titan can [[Conditions/Grabbed|Grab]] any foe brought within 30 feet as a free action."
+    desc: "`pf2:1`  The titan reaches between realities to drag foes closer. They attempt an Athletics check check and compare the result to the Fortitude DCs of all foes within 120 feet.\n\nOn a success, a foe is teleported to any square the titan chooses within 120 feet; on a critical success, it's also [[Conditions/Paralyzed|Paralyzed]] for 1 round. The titan can [[Conditions/Grabbed|Grab]] any foe brought within 30 feet as a free action."
 
   - name: "Hundred-Handed Whirlwind"
     desc: "`pf2:2`  The titan overwhelms opponents with blows both conventional and interplanar. They make one _void weapon_ Strike against each foe within reach. Even on a failed attack (but not a critical failure), the titan deals 24 force damage to the target. This counts as three attacks for the titan's multiple attack penalty."
 
   - name: "Send Beyond"
-    desc: "`pf2:1`  **Requirements** The titan has a creature [[Conditions/Grabbed|Grabbed]]\n**Effect** The titan thrusts the creature into a nightmare realm full of lightless hands and eyes. This has the effects of [[Spells/Quandary|Quandary]] (DC 48), but the creature can use Occultism to escape in addition to Perception or Survival. The titan can't use Send Beyond for 1d4 rounds."
+    desc: "`pf2:1`  **Requirements** The titan has a creature [[Conditions/Grabbed|Grabbed]]\n* * *\n\n**Effect** The titan thrusts the creature into a nightmare realm full of lightless hands and eyes. This has the effects of [[Spells/Quandary|Quandary]] (DC 48), but the creature can use Occultism to escape in addition to Perception or Survival. The titan can't use Send Beyond for 1d4 rounds."
 
   - name: "Shape Void"
-    desc: "  The titan molds a weapon from interstellar darkness. This is a _+3 major striking_ weapon in any form. It can't be disarmed and deals an additional 2d12 force damage.\nIf [[Actions/Release|Released]], a void weapon vanishes."
+    desc: "  The titan molds a weapon from interstellar darkness. This is a _+3 major striking_ weapon in any form. It can't be disarmed and deals an additional 2d12 force damage.\n\nIf [[Actions/Release|Released]], a void weapon vanishes."
  
+```
+
+```encounter-table
+name: Hekatonkheires Titan
+creatures:
+  - 1: Hekatonkheires Titan
 ```
 
 

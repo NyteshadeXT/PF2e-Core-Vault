@@ -6,6 +6,7 @@ cssClasses: pf2e
 aliases: "Compendium.pf2e.pfs-season-3-bestiary.Actor.QHDVWljImF5sRhX2" 
 tags:
   - pf2e/creature/type/fungus
+  - pf2eMonster
   - pf2e/creature/level/9
 statblock: inline
 name: "Drakauthix (PFS 3-15)"
@@ -23,11 +24,12 @@ level: "Creature 9"
 
 alignment: ""
 size: "huge"
-trait_01: "fungus"
+trait_01: [[fungus]]
 modifier: 17
 perception:
   - name: "Perception"
     desc: "+17; Darkvision"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Acrobatics: +15, Athletics: +20, Stealth: +17"
@@ -69,6 +71,12 @@ attacks:
   - name: "Whirlwind of Hooks"
     desc: "`pf2:2`  The drakauthix whirls, whipping creatures around it. The drakauthix makes a tentacle Strike against every creature within its reach."
  
+```
+
+```encounter-table
+name: Drakauthix (PFS 3-15)
+creatures:
+  - 1: Drakauthix (PFS 3-15)
 ```
 
 

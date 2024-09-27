@@ -61,5 +61,3 @@ You gain one ranger feat. For the purpose of meeting its prerequisites, your ran
 * * *
 
 Your proficiency rank in Perception increases to master.
-
-**Prerequisites** Dexterity 14

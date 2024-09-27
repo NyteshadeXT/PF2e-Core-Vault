@@ -10,6 +10,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/fiend
   - pf2e/creature/type/unholy
+  - pf2eMonster
   - pf2e/creature/level/10
 statblock: inline
 name: "Bebilith"
@@ -28,16 +29,16 @@ level: "Creature 10"
 
 alignment: ""
 size: "huge"
-trait_01: "beast"
-trait_02: "chaotic"
-trait_03: "evil"
-trait_04: "fiend"
-trait_05: "unholy"
+trait_01: [[beast]]
+trait_02: [[chaotic]]
+trait_03: [[evil]]
+trait_04: [[fiend]]
+trait_05: [[unholy]]
 modifier: 21
 perception:
   - name: "Perception"
     desc: "+21; Darkvision, Scent (Imprecise) 60 Feet"
-languages: "Chthonian"
+languages: "Chthonian; (can&#x27;t speak any language), telepathy 100 feet"
 skills:
   - name: "Skills"
     desc: "Acrobatics: +19, Athletics: +23, Intimidation: +21, Stealth: +19"
@@ -80,14 +81,20 @@ attacks:
     desc: "DC 29, attack +21; __7th __  _[[Spells/Interplanar Teleport|Plane Shift (Self Only)]]_"
 
   - name: "Abyssal Rot"
-    desc: " (disease) The drained condition from Abyssal rot is cumulative, to a maximum of drained 4.\n**Saving Throw** DC 29 Fortitude check\n**Maximum Duration** 6 rounds\n**Stage 1** 3d6 void damage (1 round)\n**Stage 2** 3d6 void damage and [[Conditions/Drained 1|Drained 1]] (1 round)\n**Stage 3** 3d6 void damage and [[Conditions/Drained 1|Drained 2]] (1 round)"
+    desc: " (disease) The drained condition from Abyssal rot is cumulative, to a maximum of drained 4.\n\n**Saving Throw** DC 29 Fortitude check\n* * *\n\n**Maximum Duration** 6 rounds\n\n**Stage 1** 3d6 void damage (1 round)\n\n**Stage 2** 3d6 void damage and [[Conditions/Drained|Drained 1]] (1 round)\n\n**Stage 3** 3d6 void damage and [[Conditions/Drained|Drained 2]] (1 round)"
 
   - name: "Dimensional Tether"
-    desc: "  A creature hit by the bebilith's web Strike is [[Conditions/Restrained|Restrained]] and tethered to the bebilith, preventing it from moving further away from the bebilith. The restrained creature is also under the effects of a [[Spells/Planar Tether|Planar Tether]] spell (DC 29) with a duration that lasts as long as the creature remains tethered. The bebilith can have only one creature tethered at a time.\nThe DC to [[Actions/Escape|Escape]] or [[Actions/Force Open|Force Open]] the tether is 29. The tether can be severed with a Strike (AC 20, Hardness 2, HP 20); this ends the dimensional anchor effect but does not free the restrained creature."
+    desc: "  A creature hit by the bebilith's web Strike is [[Conditions/Restrained|Restrained]] and tethered to the bebilith, preventing it from moving further away from the bebilith. The restrained creature is also under the effects of a [[Spells/Planar Tether|Planar Tether]] spell (DC 29) with a duration that lasts as long as the creature remains tethered. The bebilith can have only one creature tethered at a time.\n\nThe DC to [[Actions/Escape|Escape]] or [[Actions/Force Open|Force Open]] the tether is 29. The tether can be severed with a Strike (AC 20, Hardness 2, HP 20); this ends the dimensional anchor effect but does not free the restrained creature."
 
   - name: "Penetrating Strike"
     desc: "  Against demons, a bebilith's Strikes count as cold iron and holy."
  
+```
+
+```encounter-table
+name: Bebilith
+creatures:
+  - 1: Bebilith
 ```
 
 

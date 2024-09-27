@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/demon
   - pf2e/creature/type/fiend
   - pf2e/creature/type/unholy
+  - pf2eMonster
   - pf2e/creature/level/15
   - remaster
 statblock: inline
@@ -20,15 +21,16 @@ license: ORC
 columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
+token: [[modules/pf2e-tokens-monster-core/assets/portraits/demon-seraptis.webp| ]]
 source: "Pathfinder Monster Core"
 name: "Seraptis"
 level: "Creature 15"
 
 alignment: ""
 size: "Medium"
-trait_01: "demon"
-trait_02: "fiend"
-trait_03: "unholy"
+trait_01: [[demon]]
+trait_02: [[fiend]]
+trait_03: [[unholy]]
 modifier: 25
 perception:
   - name: "Perception"
@@ -36,7 +38,7 @@ perception:
 languages: "Chthonian, Draconic, Empyrean; Telepathy 100 feet, Truespeech"
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +30, Arcana: +31, Deception: +29, Religion: +27, Stealth: +28"
+    desc: "Acrobatics: +30, Athletics: +31, Deception: +29, Religion: +27, Stealth: +28"
 abilityMods: [8, 7, 6, 3, 4, 6]
 speed: 40 feet,  fly 40 feet
 sourcebook: "_Pathfinder Monster Core_"
@@ -70,7 +72,7 @@ attacks:
   - name: "Melee"
     desc: "`pf2:1` Claw +31 (agile, magical, unholy)\n__Damage__  2d4 + 16 slashing plus grab 2d6 mental plus grab"
 
-  - name: "Ranged"
+  - name: "Melee"
     desc: "`pf2:1` Caustic Blood +30 (acid, magical, unholy)\n__Damage__  7d6 acid"
 
   - name: "Divine Innate Spells"
@@ -83,7 +85,7 @@ attacks:
     desc: "`pf2:2`  The seraptis makes a Strike with up to four arms, each against a different target and using a claw or scimitar as appropriate. These attacks count toward the seraptis's multiple attack penalty, but the multiple attack penalty doesn't increase until after all the attacks. The seraptis can use Grab following this activity, separately attempting to [[Actions/Grapple|Grapple]] each creature hit by a claw."
 
   - name: "Gnawing Arms"
-    desc: "`pf2:1` (unholy) **Requirements** The seraptis has at least one creature [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]]\n* * *\n\n**Effect** s The seraptis's arm mouths gnaw on those creatures, dealing each of them 2d6 + 8 piercing damage with a DC 37 Fortitude check save. Creatures that fail the save also take 2d6 persistent bleed damage."
+    desc: "`pf2:1` (unholy) **Requirements** The seraptis has at least one creature [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]]\n* * *\n\n**Effect** The seraptis's arm mouths gnaw on those creatures, dealing each of them 2d6+8 piercing damage with a DC 37 Fortitude check save. Creatures that fail the save also take 2d6 persistent bleed damage."
 
   - name: "Isolating Words"
     desc: "`pf2:1` (curse,linguistic,mental) The seraptis telepathically explains a plausible secret to a creature within 30 feet. That creature must succeed at a DC 37 Will check save or be mentally cut off from those around them for 1 minute (or permanently on a critical failure). The affected creature treats no one as an ally and any speech they hear is warped, encouraging conflict, and negating any linguistic ability from creatures that aren't unholy.\n\nRegardless of the results of the saving throw, the creature is immune to Isolating Words for 24 hours."
@@ -91,6 +93,12 @@ attacks:
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
     desc: "`pf2:1`  "
  
+```
+
+```encounter-table
+name: Seraptis
+creatures:
+  - 1: Seraptis
 ```
 
 

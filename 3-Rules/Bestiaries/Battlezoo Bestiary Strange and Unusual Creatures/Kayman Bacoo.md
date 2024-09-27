@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/bacoo
   - pf2e/creature/type/evil
   - pf2e/creature/type/fey
+  - pf2eMonster
   - pf2e/creature/level/4
 statblock: inline
 name: "Kayman Bacoo"
@@ -26,9 +27,9 @@ level: "Creature 4"
 
 alignment: ""
 size: "Small"
-trait_01: "bacoo"
-trait_02: "evil"
-trait_03: "fey"
+trait_01: [[bacoo]]
+trait_02: [[evil]]
+trait_03: [[fey]]
 modifier: 14
 perception:
   - name: "Perception"
@@ -36,7 +37,7 @@ perception:
 languages: "Common, Fey"
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +10, Intimidation: +12, Nature: +12, Performance: +12, Stealth: +12, Thievery: +10, "
+    desc: "Acrobatics: +10, Intimidation: +12, Nature: +12, Performance: +12, Stealth: +12, Thievery: +10, Acrobatics: +10, Intimidation: +12, Nature: +12, Performance: +12, Stealth: +12, Thievery: +10"
 abilityMods: [2, 5, 2, 3, 3, 5]
 speed: 30 feet,  climb 30 feet
 sourcebook: "_Battlezoo Bestiary: Strange and Unusual_"
@@ -55,10 +56,10 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Rum Weakness"
-    desc: " (poison) Alcohol quickly subdues kayman bacoos. A kayman bacoo is immune to alcohol addiction but treats every Fortitude saving throw against alcohol as one degree of success worse than they rolled. While suffering from the effects of alcohol, a kayman bacoo gains the Slowed condition with a value equal to the alcohol's poison stage. If a kayman bacoo's slowed condition equals or exceeds 3, they fall Unconscious for 2d4 hours. A kayman bacoo is inclined to drink any alcohol they are offered."
+    desc: " (poison) Alcohol quickly subdues kayman bacoos. A kayman bacoo is immune to alcohol addiction but treats every Fortitude saving throw against alcohol as one degree of success worse than they rolled. While suffering from the effects of alcohol, a kayman bacoo gains the [[Conditions/Slowed|Slowed]] condition with a value equal to the alcohol's poison stage. If a kayman bacoo's slowed condition equals or exceeds 3, they fall [[undefined]] for 2d4 hours. A kayman bacoo is inclined to drink any alcohol they are offered."
 
   - name: "Toothy Grin"
-    desc: "`pf2:r` (emotion,fear,mental) **Trigger** The kayman bacoo critically succeeds on a saving throw against a foe, or a foe's attack roll critically fails against the kayman bacoo\n**Effect** A crocodile smile confounds and frightens those whose failure piques the kayman bacoo's humor. The triggering foe must attempt a DC 21 Will check save. Afterwards, the triggering foe is temporarily immune for 1 minute.\n**Critical Success** The triggering foe is unaffected.\n**Success** The triggering foe is Frightened 1.\n**Failure** The triggering foe is Frightened 2 and Stupefied 1 for 1d4 rounds.\n**Critical Failure** The triggering foe is frightened 2 and stupefied 1 for 1 minute."
+    desc: "`pf2:r` (emotion,fear,mental) **Trigger** The kayman bacoo critically succeeds on a saving throw against a foe, or a foe's attack roll critically fails against the kayman bacoo\n* * *\n\n**Effect** A crocodile smile confounds and frightens those whose failure piques the kayman bacoo's humor. The triggering foe must attempt a DC 21 Will check save. Afterwards, the triggering foe is temporarily immune for 1 minute.\n* * *\n\n**Critical Success** The triggering foe is unaffected.\n\n**Success** The triggering foe is [[undefined]].\n\n**Failure** The triggering foe is [[undefined]] and [[undefined]] for 1d4 rounds.\n\n**Critical Failure** The triggering foe is frightened 2 and stupefied 1 for 1 minute."
 
 attacks:
   - name: ""
@@ -69,6 +70,12 @@ attacks:
   - name: "Primal Innate Spells"
     desc: "DC 21, attack +13; __2nd __  _[[Spells/Revealing Light|Glitterdust]]_, _[[Spells/Vomit Swarm|Vomit Swarm]]_; __1st __  _[[Spells/Jump|Jump]]_, _[[Spells/Mud Pit|Mud Pit]]_, _[[Spells/Pest Form|Pest Form]]_, _[[Spells/Restyle|Restyle]]_\n__Cantrips__  __(2nd)__ _[[Compendium.pf2e.spells-srd.Item.kl2q6JvBZwed4B6v|Dancing Lights]]_, _[[Spells/Spout|Spout]]_"
  
+```
+
+```encounter-table
+name: Kayman Bacoo
+creatures:
+  - 1: Kayman Bacoo
 ```
 
 

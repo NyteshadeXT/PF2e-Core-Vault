@@ -32,7 +32,7 @@ This staff of magically hardened wood is topped with a silver sculpture depictin
 
 **Activate—Sunder** `pf2:2` (death, force, manipulate)
 
-**Effect** You destroy the staff, unleashing a blast of arcane power in a 30-foot cone, dealing 2d8 force damage per charge remaining in the staff with a DC 35 Reflex check save.
+**Effect** You destroy the staff, unleashing a blast of arcane power in a @Template\[cone|distance:30\], dealing 2d8 force damage per charge remaining in the staff with a DC 35 Reflex check save.
 
 * * *
 

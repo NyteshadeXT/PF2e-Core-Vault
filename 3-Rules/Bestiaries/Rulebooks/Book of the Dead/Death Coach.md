@@ -10,6 +10,7 @@ tags:
   - pf2e/creature/type/spirit
   - pf2e/creature/type/undead
   - pf2e/creature/type/unholy
+  - pf2eMonster
   - pf2e/creature/level/14
 statblock: inline
 name: "Death Coach"
@@ -24,22 +25,22 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Book of the Dead"
 name: "Death Coach"
 level: "Creature 14"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "huge"
-trait_01: "evil"
-trait_02: "incorporeal"
-trait_03: "spirit"
-trait_04: "undead"
-trait_05: "unholy"
+trait_01: [[evil]]
+trait_02: [[incorporeal]]
+trait_03: [[spirit]]
+trait_04: [[undead]]
+trait_05: [[unholy]]
 modifier: 26
 perception:
   - name: "Perception"
     desc: "+26; Darkvision, Lifesense 60 Feet"
-languages: "Common, Daemonic, Diabolic, Necril"
+languages: "Common, Daemonic, Diabolic, Necril; (can&#x27;t speak any language)"
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +28, Driving Lore: +25, Intimidation: +25, Society: +21, Survival: +22"
+    desc: "Acrobatics: +28, Intimidation: +25, Society: +21, Survival: +22, Driving Lore: +25"
 abilityMods: [-5, 8, 2, 3, 4, 5]
 speed: 60 feet,  fly 60 feet
 sourcebook: "_Pathfinder Book of the Dead_"
@@ -58,10 +59,10 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Aura of Doom"
-    desc: " (aura,emotion,fear,mental) 30 feet. A living creature that enters the area must succeed at a DC 31 Will check save or gain the [[Conditions/Doomed 1|Doomed 1]] condition. A critical failure increases this condition to [[Conditions/Doomed 1|Doomed 2]]. Regardless of the result of the saving throw, the creature is temporarily immune to this death coach's aura of doom for 1 minute."
+    desc: " (aura,emotion,fear,mental) 30 feet. A living creature that enters the area must succeed at a DC 31 Will check save or gain the [[Conditions/Doomed|Doomed 1]] condition. A critical failure increases this condition to [[Conditions/Doomed|Doomed 2]]. Regardless of the result of the saving throw, the creature is temporarily immune to this death coach's aura of doom for 1 minute."
 
   - name: "Collect Soul"
-    desc: "`pf2:r` (death) **Trigger** A dying creature within the death coach's Aura of Doom dies or its dying value increases\n**Effect** The death coach attempts to collect the triggering creature's soul. The triggering creature must succeed at a DC 34 Will check save or its soul becomes trapped within the death coach's interior. A creature whose soul has been collected can't be restored to life while the soul remains in the death coach by any means short of a 10th-rank spell, such as [[Spells/Miracle|Miracle]]. Eventually, the death coach grinds the soul down into raw spiritual essence, typically several hours later. At this point, restoring the soul to life is slightly easier, requiring a spell or ritual of 8th rank or higher. If a death coach with a collected soul is slain before the soul is completely dissolved, the creature's soul returns to its body, allowing it to be returned to life normally. A death coach can choose not to dissolve a collected soul, though it usually has no reason to keep the soul intact."
+    desc: "`pf2:r` (death) **Trigger** A dying creature within the death coach's Aura of Doom dies or its dying value increases\n* * *\n\n**Effect** The death coach attempts to collect the triggering creature's soul. The triggering creature must succeed at a DC 34 Will check save or its soul becomes trapped within the death coach's interior. A creature whose soul has been collected can't be restored to life while the soul remains in the death coach by any means short of a 10th-rank spell, such as [[Spells/Miracle|Miracle]]. Eventually, the death coach grinds the soul down into raw spiritual essence, typically several hours later. At this point, restoring the soul to life is slightly easier, requiring a spell or ritual of 8th rank or higher. If a death coach with a collected soul is slain before the soul is completely dissolved, the creature's soul returns to its body, allowing it to be returned to life normally. A death coach can choose not to dissolve a collected soul, though it usually has no reason to keep the soul intact."
 
 attacks:
   - name: ""
@@ -76,8 +77,14 @@ attacks:
     desc: "  When a death coach has Collected a Soul, its Speeds double."
 
   - name: "[[Bestiary Ability Glossary/Trample|Trample]]"
-    desc: "`pf2:3`  Large or smaller, incorporeal wheel, DC 34 Reflex check\n"
+    desc: "`pf2:3`  Large or smaller, incorporeal wheel, DC 34 Reflex check\n\n* * *\n"
  
+```
+
+```encounter-table
+name: Death Coach
+creatures:
+  - 1: Death Coach
 ```
 
 

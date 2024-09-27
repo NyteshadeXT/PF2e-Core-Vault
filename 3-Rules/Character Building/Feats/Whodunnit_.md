@@ -6,8 +6,9 @@ tags:
   - trait/investigator
   - trait/uncommon
   - category/class
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.yTUIiE9LXBZaA7aG"
-license: OGL
+license: ORC
 ---
 # Whodunnit?
 ## Feat 8
@@ -22,17 +23,13 @@ license: OGL
 
 * * *
 
-You carefully consider your case and narrow down some of the details. When you [[Actions/Pursue a Lead|Pursue a Lead]], you can spend 10 minutes instead of 1 minute to ask two questions of the GM as you complete the activity.
+You carefully consider your case and narrow down some of the details. When you Pursue a Lead and learn there's a larger mystery, you can ask two questions related to your investigation when you open it. The GM must answer truthfully with "yes" or "no," though if the answer would be misleading or have no practical application to your investigation, the GM can answer "immaterial." You can't use Whodunnit? more than once for the same lead, even across different days. Your questions must come from the following list, applying to the detail that spurred your investigation.
 
-The GM must answer truthfully with "yes" or "no," though if the answer would be misleading or have no practical application to your investigation the GM can answer "immaterial." You can't use Whodunnit? more than once for the same lead, even across different days.
-
-Your questions must come from the following list, applying to either the creature or the clue you found:
-
-*   Was the clue left by a \[creature trait\]? (Choose a creature trait such as humanoid, undead, or dwarf; this trait must be accurate as of the time the clue was left.)
+*   Was this clue left by a \[creature trait\]? (Choose a creature trait such as humanoid, undead, or dwarf; this trait must be accurate as of the time the clue was left.)
 *   Was this clue left within the last hour?
 *   Was this clue left within the last day?
-*   Was the creature that left the clue in a heightened emotional state when it left the clue?
-*   Did the creature attempt to conceal this clue?
+*   Was the creature that left this clue in a heightened emotional state when it left the clue?
+*   Did anyone attempt to conceal this clue?
 
-*Source: Pathfinder Advanced Player's Guide*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

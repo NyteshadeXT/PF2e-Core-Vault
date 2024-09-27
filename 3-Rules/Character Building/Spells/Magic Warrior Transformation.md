@@ -4,21 +4,35 @@ title: "Magic Warrior Transformation"
 noteType: pf2eSpell
 cssclasses: pf2e,pf2e-spell
 tags:
+  - pf2eSpell
   - spell/level/2
   - trait/concentrate
   - trait/focus
   - trait/manipulate
   - trait/polymorph
   - trait/uncommon
+
 aliases: "Compendium.pf2e.spells-srd.Item.tp4K7mYDL5MRHvJc" 
+license: OGL
 ---
-# Magic Warrior Transformation  `pf2:2`  
-## Focus 2
-### [uncommon](uncommon "Uncommon Rarity Trait")[[concentrate]][[focus]][[manipulate]][[polymorph]]
+```statblock
+name: "Magic Warrior Transformation  `pf2:2`"
+level: "Focus 2"
+rare_03: [[Uncommon]]
+trait_01: [[concentrate]]
+trait_02: [[focus]]
+trait_03: [[manipulate]]
+trait_04: [[polymorph]]
+layout: Basic Pathfinder 2e Layout
+columns: 1
+columnWidth: x
+abilities_top:
+  - name: ""
 
-**Duration** 1 minute
-* * * 
-You transform into the animal from your mask. You gain the effects of [[Spells/Animal Form|Animal Form]], heightened to magic warrior transformation's level, and you can transform into only the type of animal your mask represents.
-
-*Source: Pathfinder Lost Omens: World Guide*
-*OGL*
+  - name: "Duration"
+    desc: "1 minute"
+abilities_mid:
+  - name: ""
+    desc: "You transform into the animal from your mask. You gain the effects of [[Spells/Animal Form|Animal Form]], heightened to magic warrior transformation's level, and you can transform into only the type of animal your mask represents."
+sourcebook: "_Pathfinder Lost Omens: World Guide_"
+```

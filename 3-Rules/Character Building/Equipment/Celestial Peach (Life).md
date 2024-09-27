@@ -15,7 +15,7 @@ license: OGL
 ---
 # Celestial Peach (Life)
 ## Item 20
-### [rare](rare "Rare Rarity Trait")[[consumable]][[divine]][[healing]][[mechanical]][[vitality]]
+### [rare](rare.md "Rare Rarity Trait")[[consumable]][[3-Rules/Rule References/Divine]][[healing]][[mechanical]][[vitality]]
 
 **Category** other; 
 **Price** 73000 gp; 

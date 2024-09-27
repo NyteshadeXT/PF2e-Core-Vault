@@ -5,6 +5,7 @@ noteType: pf2eHazard
 tags:
   - mechanical
   - trap
+  - pf2eHazard
 
 source: Pathfinder Society Special #3-98: Expedition Into Pallid Peril
 aliases: "Compendium.pf2e.pfs-season-3-bestiary.Actor.SBMZYJ1wYptIuWRA" 
@@ -22,14 +23,14 @@ name: "Unstable Column (3-4)"
 level: "Hazard 2"
 
 
-trait_01: "mechanical"
-trait_02: "trap"
+trait_01: [[mechanical]]
+trait_02: [[trap]]
 modifier: 10
 sourcebook: "_Pathfinder Society Special #3-98: Expedition Into Pallid Peril_"
 ac: 18
 armorclass:
   - name: AC
-    desc: "18; __Fort__ +12, __Ref__ +5, __Will__ +0"
+    desc: "18; __Fort__ +12, __Ref__ +5, "
 hp: 30
 health:
   - name: ""
@@ -51,9 +52,15 @@ attacks:
   - name: ""
 
   - name: "Collapse"
-    desc: "`pf2:r` **Trigger** A creature steps on the tiles adjacent to the column\n**Effect** The column collapses. The triggering creature must attempt a DC 18 Reflex check save as debris falls on them, which deals 2d10 + 7 bludgeoning damage. The area adjacent to the collapsed column becomes difficult terrain."
+    desc: "`pf2:r` **Trigger** A creature steps on the tiles adjacent to the column\n* * *\n\n**Effect** The column collapses. The triggering creature must attempt a DC 18 Reflex check save as debris falls on them, which deals 2d10+7 bludgeoning damage. The area adjacent to the collapsed column becomes difficult terrain."
 
 
 
+```
+
+```encounter-table
+name: Unstable Column (3-4)
+creatures:
+  - 1: Unstable Column (3-4)
 ```
 

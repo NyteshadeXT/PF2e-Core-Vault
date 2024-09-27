@@ -10,6 +10,7 @@ tags:
   - pf2e/creature/type/fiend
   - pf2e/creature/type/lilu
   - pf2e/creature/type/unholy
+  - pf2eMonster
   - pf2e/creature/level/11
 statblock: inline
 name: "Hurlilu"
@@ -24,19 +25,19 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #190: The Choosing"
 name: "Hurlilu"
 level: "Creature 11"
-rare_03: "Rare"
+rare_03: [[Rare]]
 alignment: ""
 size: "Large"
-trait_01: "chaotic"
-trait_02: "evil"
-trait_03: "fiend"
-trait_04: "lilu"
-trait_05: "unholy"
+trait_01: [[chaotic]]
+trait_02: [[evil]]
+trait_03: [[fiend]]
+trait_04: [[lilu]]
+trait_05: [[unholy]]
 modifier: 21
 perception:
   - name: "Perception"
     desc: "+21; Darkvision, Lifesense (Imprecise) 120 Feet"
-languages: "Chthonian, Common, Sussuran"
+languages: "Chthonian, Common, Sussuran; telepathy 100 feet"
 skills:
   - name: "Skills"
     desc: "Acrobatics: +24, Athletics: +20, Intimidation: +22, Religion: +21, Stealth: +24"
@@ -58,7 +59,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Dominate the Air"
-    desc: "`pf2:r`  **Requirements** The hurlilu is flying\n**Trigger** A creature within 30 feet leaves the ground using a fly Speed\n**Effect** The hurlilu casts [[Spells/Earthbind|Earthbind]] on the triggering creature."
+    desc: "`pf2:r`  **Requirements** The hurlilu is flying\n\n**Trigger** A creature within 30 feet leaves the ground using a fly Speed\n* * *\n\n**Effect** The hurlilu casts [[Spells/Earthbind|Earthbind]] on the triggering creature."
 
 attacks:
   - name: ""
@@ -73,11 +74,17 @@ attacks:
     desc: "DC 30, attack +22; __6th __  _[[Spells/Dispel Magic|Dispel Magic]]_, _[[Spells/Earthbind|Earthbind (At Will)]]_, _[[Spells/Gust of Wind|Gust of Wind]]_; __5th __  _[[Spells/Lightning Bolt|Lightning Bolt]]_, _[[Spells/Wall of Wind|Wall of Wind]]_; __4th __  _[[Spells/Translocate|Dimension Door (At Will)]]_, _[[Spells/Fear|Fear (At Will)]]_\n__Cantrips__  __(6th)__ _[[Spells/Detect Magic|Detect Magic]]_, _[[Spells/Produce Flame|Produce Flame]]_"
 
   - name: "Dive Bomb"
-    desc: "`pf2:1`  **Frequency** once per round\n**Effect** The hurlilu Strides using its fly Speed and makes a Strike at the end of that movement."
+    desc: "`pf2:1`  **Frequency** once per round\n* * *\n\n**Effect** The hurlilu Strides using its fly Speed and makes a Strike at the end of that movement."
 
   - name: "Flesh Tearer"
     desc: "  If a hurlilu critically hits a foe with a melee Strike, the foe's flat check to recover from any resulting bleed damage is DC 19 instead of DC 15."
  
+```
+
+```encounter-table
+name: Hurlilu
+creatures:
+  - 1: Hurlilu
 ```
 
 

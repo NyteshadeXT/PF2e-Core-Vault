@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.pathfinder-bestiary.Actor.x23aXeWTo026pMui"
 tags:
   - pf2e/creature/type/earth
   - pf2e/creature/type/elemental
+  - pf2eMonster
   - pf2e/creature/level/1
 statblock: inline
 name: "Earth Mephit"
@@ -25,8 +26,8 @@ level: "Creature 1"
 
 alignment: ""
 size: "Small"
-trait_01: "earth"
-trait_02: "elemental"
+trait_01: [[earth]]
+trait_02: [[elemental]]
 modifier: 3
 perception:
   - name: "Perception"
@@ -62,8 +63,14 @@ attacks:
     desc: "DC 17, attack +9; __3rd __  _[[Spells/One with Stone|Meld into Stone]]_; __2nd __  _[[Spells/Enlarge|Enlarge (Self Only)]]_"
 
   - name: "Breath Weapon"
-    desc: "`pf2:2` (arcane,earth) The earth mephit breathes rocks in a 15-foot cone that deals 2d6 bludgeoning damage to each creature within the area (DC 17 Reflex check save).\nThe earth mephit can't use Breath Weapon again for 1d4 rounds."
+    desc: "`pf2:2` (arcane,earth) The earth mephit breathes rocks in a @Template[cone|distance:15] that deals 2d6 bludgeoning damage to each creature within the area (DC 17 Reflex check save).\n\nThe earth mephit can't use Breath Weapon again for 1d4 rounds."
  
+```
+
+```encounter-table
+name: Earth Mephit
+creatures:
+  - 1: Earth Mephit
 ```
 
 

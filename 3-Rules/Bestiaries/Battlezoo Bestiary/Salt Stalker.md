@@ -6,6 +6,7 @@ cssClasses: pf2e
 aliases: "Compendium.battlezoo-bestiary-pf2e.pf2e-battlezoo-bestiary.Actor.s6n94Uk1MR8FAFgs" 
 tags:
   - pf2e/creature/type/beast
+  - pf2eMonster
   - pf2e/creature/level/4
 statblock: inline
 name: "Salt Stalker"
@@ -24,14 +25,15 @@ level: "Creature 4"
 
 alignment: ""
 size: "Medium"
-trait_01: "beast"
+trait_01: [[beast]]
 modifier: 12
 perception:
   - name: "Perception"
     desc: "+12; "
+languages: ""
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +11, Athletics: +12, Stealth: +13, Survival: +10, "
+    desc: "Acrobatics: +11, Athletics: +12, Stealth: +13, Survival: +10"
 abilityMods: [4, 5, 4, -3, 2, 0]
 speed: 30 feet,  climb 25 feet
 sourcebook: "_Battlezoo Bestiary_"
@@ -53,7 +55,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Water Vulnerability"
-    desc: "  Water rapidly degrades the spines that cover a salt stalker. A salt stalker immersed in water, stuck in a rain storm, or otherwise soaked is Slowed 1.\nSpells or effects that temporarily drench a salt stalker, such as _Hydraulic Push_ or a bucket of water, cause the salt stalker to become slowed 1 for 1d4 rounds.\nAs long as it is slowed in this way, a salt stalker cannot make spines Strikes."
+    desc: "  Water rapidly degrades the spines that cover a salt stalker. A salt stalker immersed in water, stuck in a rain storm, or otherwise soaked is [[Conditions/Slowed|Slowed 1]].\n\nSpells or effects that temporarily drench a salt stalker, such as _[[Spells/Hydraulic Push|Hydraulic Push]]_ or a bucket of water, cause the salt stalker to become slowed 1 for 1d4 rounds.\n\nAs long as it is slowed in this way, a salt stalker cannot make spines Strikes."
 
 attacks:
   - name: ""
@@ -68,8 +70,14 @@ attacks:
     desc: "`pf2:1` Spines +15 (range increment 60 feet)\n__Damage__  2d4 + 4 piercing plus desiccation-venom"
 
   - name: "Desiccation Venom"
-    desc: " (injury,poison) A salt stalker's teeth and spines inflict a terrible, toxic bile that violently dehydrates the target, making them more susceptible to heat. The sickened condition and weakness to fire can't end or be reduced until the poison is cured;\n**Saving Throw** Fortitude;\n**Maximum Duration** 1 hour;\n**Stage 1** 2d4 + 4 poison damage plus weakness to fire 3 (1 minute);\n**Stage 2** 2d6 + 4 poison damage plus weakness to fire 6 (1 minute);\n**Stage 3** 2d8 + 4 poison damage plus Sickened 1 and weakness to fire 9 (10 minutes)"
+    desc: " (injury,poison) A salt stalker's teeth and spines inflict a terrible, toxic bile that violently dehydrates the target, making them more susceptible to heat. The sickened condition and weakness to fire can't end or be reduced until the poison is cured;\n* * *\n\n**Saving Throw** DC 20 Fortitude;\n\n**Maximum Duration** 1 hour;\n\n**Stage 1** 2d4+4 poison damage plus weakness to fire 3 (1 minute);\n\n**Stage 2** 2d6+4 poison damage plus weakness to fire 6 (1 minute);\n\n**Stage 3** 2d8+4 poison damage plus [[Conditions/Sickened|Sickened 1]] and weakness to fire 9 (10 minutes)"
  
+```
+
+```encounter-table
+name: Salt Stalker
+creatures:
+  - 1: Salt Stalker
 ```
 
 

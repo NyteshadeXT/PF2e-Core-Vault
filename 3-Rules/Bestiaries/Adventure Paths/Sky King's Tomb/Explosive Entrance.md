@@ -6,6 +6,7 @@ tags:
   - fire
   - mechanical
   - trap
+  - pf2eHazard
 
 source: Pathfinder #195: Heavy is the Crown
 aliases: "Compendium.pf2e.sky-kings-tomb-bestiary.Actor.k15dREoDc8cmpQYQ" 
@@ -23,9 +24,9 @@ name: "Explosive Entrance"
 level: "Hazard 9"
 
 
-trait_01: "fire"
-trait_02: "mechanical"
-trait_03: "trap"
+trait_01: [[fire]]
+trait_02: [[mechanical]]
+trait_03: [[trap]]
 modifier: 23
 sourcebook: "_Pathfinder #195: Heavy is the Crown_"
 perception:
@@ -44,9 +45,15 @@ attacks:
   - name: ""
 
   - name: "Collapse"
-    desc: "`pf2:r` **Trigger** A creature in contact with the ground travels down this hall\n**Effect** The bombs explodes, dealing 6d8 + 12 fire damage to the triggering creature and all creatures within 20 feet (DC 32 Reflex check save). Additionally, if the triggering creature fails their saving throw, they take 1d8 persistent fire damage."
+    desc: "`pf2:r` **Trigger** A creature in contact with the ground travels down this hall\n* * *\n\n**Effect** The bombs explodes, dealing 6d8+12 fire damage to the triggering creature and all creatures within 20 feet (DC 32 Reflex check save). Additionally, if the triggering creature fails their saving throw, they take 1d8 persistent fire damage."
 
 
 
+```
+
+```encounter-table
+name: Explosive Entrance
+creatures:
+  - 1: Explosive Entrance
 ```
 

@@ -4,6 +4,7 @@ title: "Spiral of Horrors"
 noteType: pf2eSpell
 cssclasses: pf2e,pf2e-spell
 tags:
+  - pf2eSpell
   - spell/level/4
   - trait/aura
   - trait/concentrate
@@ -14,19 +15,35 @@ tags:
   - trait/mental
   - trait/wizard
   - trait/uncommon
+
   - remaster
 aliases: "Compendium.pf2e.spells-srd.Item.KPGGkyBFbKse7KpK" 
+license: ORC
 ---
-# Spiral of Horrors  `pf2:2`  
-## Focus 4
-### [uncommon](uncommon "Uncommon Rarity Trait")[[aura]][[concentrate]][[emotion]][[fear]][[focus]][[manipulate]][[mental]][[wizard]]
+```statblock
+name: "Spiral of Horrors  `pf2:2`"
+level: "Focus 4"
+rare_03: [[Uncommon]]
+trait_01: [[aura]]
+trait_02: [[concentrate]]
+trait_03: [[emotion]]
+trait_04: [[fear]]
+trait_05: [[focus]]
+trait_06: [[manipulate]]
+trait_07: [[mental]]
+trait_08: [[wizard]]
+layout: Basic Pathfinder 2e Layout
+columns: 1
+columnWidth: x
+abilities_top:
+  - name: ""
 
-**Area** 30-foot emanation
-**Duration** 1 minute
-* * * 
-Shades and spirits howl and whirl around you in a display that strikes fear into the hearts of all who witness it. Enemies in the area are [[Conditions/Frightened 1|Frightened 1]] and can't reduce their frightened value below 1 for the spell's duration.
-
-[[Spell Effects/Aura_ Spiral of Horrors|Aura: Spiral of Horrors]]
-
-*Source: Pathfinder Player Core*
-*ORC*
+  - name: "Area"
+    desc: "30-foot emanation"
+  - name: "Duration"
+    desc: "1 minute"
+abilities_mid:
+  - name: ""
+    desc: "Shades and spirits howl and whirl around you in a display that strikes fear into the hearts of all who witness it. Enemies in the area are [[Conditions/Frightened|Frightened 1]] and can't reduce their frightened value below 1 for the spell's duration.\n\n[[Spell Effects/Aura_ Spiral of Horrors|Aura: Spiral of Horrors]]"
+sourcebook: "_Pathfinder Player Core_"
+```

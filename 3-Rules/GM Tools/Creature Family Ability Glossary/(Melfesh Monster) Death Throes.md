@@ -21,7 +21,7 @@ license: OGL
 
 * * *
 
-**Effect** The Melfesh Monster explodes in a 30-foot burst. Creatures in the area take 3d8 fire and 3d8 poison damage (DC 24 Reflex check save). This ability replaces Reactive Growth.
+**Effect** The Melfesh Monster explodes in a @Template\[burst|distance:30\]. Creatures in the area take 3d8 fire and 3d8 poison damage (DC 24 Reflex check save). This ability replaces Reactive Growth.
 
 *Source: Pathfinder Lost Omens: Monsters of Myth*
 *OGL*

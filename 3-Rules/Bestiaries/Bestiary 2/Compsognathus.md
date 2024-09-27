@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.pathfinder-bestiary-2.Actor.XZZdG5RosoYsF237"
 tags:
   - pf2e/creature/type/animal
   - pf2e/creature/type/dinosaur
+  - pf2eMonster
   - pf2e/creature/level/-1
 statblock: inline
 name: "Compsognathus"
@@ -25,12 +26,13 @@ level: "Creature -1"
 
 alignment: ""
 size: "tiny"
-trait_01: "animal"
-trait_02: "dinosaur"
+trait_01: [[animal]]
+trait_02: [[dinosaur]]
 modifier: 5
 perception:
   - name: "Perception"
     desc: "+5; Low-Light Vision, Scent (Imprecise) 30 Feet"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Acrobatics: +6, Stealth: +6"
@@ -58,8 +60,14 @@ attacks:
     desc: "`pf2:1` Jaws +7 (agile, finesse)\n__Damage__  1d6 piercing plus compsognathus-venom"
 
   - name: "Compsognathus Venom"
-    desc: " (poison) **Saving Throw** DC 16 Fortitude check\n**Maximum Duration** 4 rounds\n**Stage 1** 1d6 poison damage and [[Conditions/Enfeebled 1|Enfeebled 1]] (1 round)\n**Stage 2** 1d8 poison damage and Enfeebled 1 (1 round)"
+    desc: " (poison) **Saving Throw** DC 16 Fortitude check\n\n**Maximum Duration** 4 rounds\n\n**Stage 1** 1d6 poison damage and [[Conditions/Enfeebled|Enfeebled 1]] (1 round)\n\n**Stage 2** 1d8 poison damage and Enfeebled 1 (1 round)"
  
+```
+
+```encounter-table
+name: Compsognathus
+creatures:
+  - 1: Compsognathus
 ```
 
 

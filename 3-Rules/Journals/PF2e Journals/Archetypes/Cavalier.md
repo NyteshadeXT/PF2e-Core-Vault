@@ -8,13 +8,13 @@ tags:
 ---
 
 # Cavalier
-You are a skilled and dedicated warrior of the battlefield who specializes in fighting astride a powerful animal companion that serves as your mount. You and your mount are an unparalleled team, moving with shared intent to become a powerful force on the battlefield. You might wield a banner in the name of a greater organization, a liege, or an ideal you uphold, or you might fight solely to further enrich your own prestige, reputation, and coffers.
+You are a skilled and dedicated warrior on the battlefield who specializes in fighting astride a powerful animal companion that serves as your mount. You and your mount are an unparalleled team, moving with shared intent to become a powerful force in combat. You might wield a banner in the name of an order of which you're a member, a liege to whom you've sworn your service, or an ideal you uphold. Or you might fight solely to further enrich your own prestige, reputation, and coffers. Traditionally, cavaliers are envisioned riding atop majestic or fearsome horses, but in reality, all kinds of animals can serve this honorable role, from riding dogs to dinosaurs. What's important is not the type of mount but the connection between the cavalier and their companion. This bond is their true strength.
 
 **CAVALIER PLEDGES**
 
-Many cavaliers pledge themselves in service to a specific organization or individual, such as a noble family or sovereign ruler, a knightly order or another organization, or a particular ideal. A cavalier pledged to an order or ideal must uphold its edicts and is beholden to any anathema it has; for example, a cavalier pledged to the druid's animal order would be tied to that anathema, while a cavalier pledged to the church of Abadar would be held to the same standards as a cleric of that god. If you pledge yourself to an entity or cause without a stated anathema, you should work with your GM to determine the edicts and anathema associated with your pledge. Cavaliers who have pledged themselves can gain access to certain abilities related to that pledge, such as Cavalier's Banner. If you violate the anathema of your pledge, you lose access to those feats until you benefit from an atone ritual. Changing the subject of your pledge is equivalent to retraining a class feature.
+Many cavaliers pledge themselves in service to a specific organization or individual, such as a noble family or sovereign ruler, a knightly order or another organization, or particular ideal. A cavalier pledged to an order or ideal must uphold its edicts and is beholden to any anathema it has; for example, a cavalier pledged to the druid's animal order would be tied to that anathema, while a cavalier pledged to the church of Abadar would be held to the same standards as a cleric of that god. If you pledge yourself to an entity or cause without a stated anathema, you should work with your GM to determine the edicts and anathema associated with your pledge. Cavaliers who have pledged themselves can gain access to certain abilities related to that pledge, such as Cavalier's Banner. If you violate the anathema of your pledge, you lose access to those feats until you benefit from an _atone_ ritual. Changing the subject of your pledge is equivalent to retraining a class feature.
 
-[[Feats/Cavalier Dedication|Cavalier Dedication]] Feat 2
+## [[Feats/Cavalier Dedication|Cavalier Dedication]] Feat 2
 
 **Prerequisites** trained in Nature or Society
 
@@ -22,7 +22,9 @@ Many cavaliers pledge themselves in service to a specific organization or indivi
 
 You gain a young animal companion that serves as your mount. You can choose from animal companions with the mount special ability, as well as any additional options from your pledge, as determined by your GM. You must choose an animal companion that's at least one size larger than you, but if the animal usually starts as Small, you can begin with a Medium version of that animal (changing no statistics other than its size).
 
-**Special** You cannot select another dedication feat until you have gained two other feats from the cavalier archetype. This restriction is waived if you have pledged to the organization associated with the other dedication feat. For example, if you are pledged to a Hellknight order, you could take Hellknight dedication feats without needing to gain other feats from the cavalier archetype first.
+* * *
+
+**Special** If you have pledged yourself to a cause, you can take a second dedication feat closely tied to that cause even if you haven't taken two additional cavalier feats. For instance, if you pledged yourself to fight crime with a group of vigilantes, you could take the vigilante dedication without first completing the cavalier archetype. The GM determines what archetypes, if any, are valid choices.
 
 ## [[Feats/Cavalier's Banner|Cavalier's Banner]] Feat 4
 
@@ -50,7 +52,9 @@ You Command an Animal to order your mount to Stride twice. At any point during t
 
 * * *
 
-You've trained your mount to become a powerful force on the battlefield. The mount you gained through the Cavalier Dedication feat becomes a mature animal companion, granting it additional capabilities. During an encounter, even if you don't use the Command an Animal action, your animal companion can still use 1 action on your turn to Stride or Strike.
+You've trained your mount to become a powerful force on the battlefield. The mount you gained through the Cavalier Dedication feat becomes a mature animal companion, granting it additional capabilities.
+
+Your mount has greater independence. During an encounter, even if you don't use the Command an Animal action, your mount can still use 1 action that round on your turn to Stride or Strike. It can do this at any point during your turn, as long as you aren't currently taking an action. If it does, that's all the actions it gets that round—you can't Command it later.
 
 ## [[Feats/Quick Mount|Quick Mount]] Feat 4
 
@@ -96,17 +100,17 @@ Under your care and training, your mount has realized its innate potential. The 
 
 * * *
 
-You urge your mount forward, trampling enemies in your path. You command your mount to Stride up to its Speed (or to Burrow, Climb, Fly, or Swim, if it has the corresponding movement type), moving through the spaces of any foes in your path up to one size smaller than your mount. Your mount deals damage equal to the melee Strike using its legs to each creature whose space you move through, subject to a basic Reflex save against your mount's Athletics DC. On a critical failure, the creature also becomes off-guard until the end of your next turn. You can damage a given creature only once during this movement.
+You urge your mount to charge into the fray, trampling all enemies who stand in your path. You command your mount to Stride up to double its Speed (or to Burrow, Climb, Fly, or Swim, if it has the corresponding movement type), moving through the spaces of any foes in your path up to one size smaller than your mount. Your mount deals the damage of one of its melee Strikes to each creature whose space you move through, with a basic Reflex save against your mount's Athletics DC. On a critical failure, the creature also becomes Off-Guard until the end of your next turn. Roll the damage only once. You can damage a given creature only once during this movement.
 
 ## [[Feats/Unseat|Unseat]] Feat 10
 
 **Prerequisites** Cavalier Dedication
 
-**Requirements** You are riding a mount and wielding a jousting weapon.
+**Requirements** You are riding your mount and wielding a jousting weapon.
 
 * * *
 
-You attempt to knock an opponent off their mount. Make a melee Strike against a mounted opponent. If your attack hits, attempt an Athletics check against the opponent's Fortitude DC. If you succeed, the foe is knocked off its mount into a space of its choice adjacent to its mount. If you critically succeed, it lands prone.
+With a mighty blow from atop your companion, you attempt to knock an opponent off their mount. Make a melee Strike against a mounted creature. If your attack hits, attempt an Athletics check against the target's Fortitude DC. If you succeed, the target is knocked off its mount into a space of its choice adjacent to its mount. If you critically succeed, the target also lands Prone.
 
 ## [[Feats/Specialized Mount|Specialized Mount]] Feat 14
 
@@ -124,4 +128,4 @@ You've trained your mount to perform in unusual or even extreme circumstances, g
 
 * * *
 
-You and your mount move like one being, effortlessly reading each other's signals. Whenever you are riding your mount, you are quickened; you can use the extra action only to command your mount using the Command an Animal skill action.
+You and your mount move like one being, effortlessly reading each other's signals and synchronizing even in the thick of battle. Whenever you are riding your mount, you are quickened; you can use the extra action only to command your mount using the Command an Animal skill action.

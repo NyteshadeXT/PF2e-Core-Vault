@@ -3,6 +3,7 @@ obsidianUIMode: preview
 title: "Ring of Discretion"
 cssclasses: pf2e,pf2e-spell
 tags:
+  - trait/illusion
   - trait/invested
   - trait/magical
   - trait/visual
@@ -12,7 +13,7 @@ license: OGL
 ---
 # Ring of Discretion
 ## Item 1
-### [[invested]][[magical]][[visual]]
+### [[illusion]][[invested]][[magical]][[visual]]
 
 
 **Price** 15 gp; 

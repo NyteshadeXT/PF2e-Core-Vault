@@ -6,8 +6,9 @@ tags:
   - trait/archetype
   - trait/common
   - category/class
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.7NdMHszAiiveihoW"
-license: OGL
+license: ORC
 ---
 # Armor Specialist
 ## Feat 6
@@ -19,7 +20,7 @@ license: OGL
 
 **Prerequisites** Sentinel Dedication
 * * *
-You have trained hard to optimize your armor's protective qualities. You gain the armor specialization effects of medium and heavy armor.
+You have trained hard to optimize your armor's unique protective qualities to maximize the materials used in its creation. You gain the armor specialization effects for all armors you are proficient with.
 
-*Source: Pathfinder Advanced Player's Guide*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

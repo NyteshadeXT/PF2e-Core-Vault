@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.blood-lords-bestiary.Actor.mfBLoIaSYNbmmtht"
 tags:
   - pf2e/creature/type/chaotic
   - pf2e/creature/type/fey
+  - pf2eMonster
   - pf2e/creature/level/7
 statblock: inline
 name: "Drusilla"
@@ -21,11 +22,11 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #182: Graveclaw"
 name: "Drusilla"
 level: "Creature 7"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Medium"
-trait_01: "chaotic"
-trait_02: "fey"
+trait_01: [[chaotic]]
+trait_02: [[fey]]
 modifier: 17
 perception:
   - name: "Perception"
@@ -33,7 +34,7 @@ perception:
 languages: "Aklo, Common, Fey"
 skills:
   - name: "Skills"
-    desc: "Athletics: +17, Deception: +15 (+19 to Impersonate a human version of themselves), Diplomacy: +15, Intimidation: +15, Nature: +17, Stealth: +15"
+    desc: "Athletics: +17, Deception: +15, Diplomacy: +15, Intimidation: +15, Nature: +17, Stealth: +15"
 abilityMods: [6, 4, 1, 1, 4, 6]
 speed: 30 feet
 sourcebook: "_Pathfinder #182: Graveclaw_"
@@ -67,11 +68,17 @@ attacks:
     desc: "  Drusilla ignores non-magical difficult and greater difficult terrain within Axan Wood."
 
   - name: "Befuddling Lash"
-    desc: " (curse,mental) When Drusilla damages a creature with her tail, a wave of befuddlement clouds the target's thoughts. The creature must succeed at a DC 23 Will check save or become [[Conditions/Stupefied 1|Stupefied 1]] ([[Conditions/Stupefied 1|Stupefied 2]] on a critical failure) for 1 minute."
+    desc: " (curse,mental) When Drusilla damages a creature with her tail, a wave of befuddlement clouds the target's thoughts. The creature must succeed at a DC 23 Will check save or become [[Conditions/Stupefied|Stupefied 1]] ([[Conditions/Stupefied|Stupefied 2]] on a critical failure) for 1 minute."
 
   - name: "Manipulate Luck"
-    desc: "`pf2:1` (curse,primal) Drusilla touches another creature to manipulate the creature's luck. The creature must attempt a DC 25 Will check save. On a failure, Drusilla chooses good luck or bad luck. If she chooses good luck, the affected creature can roll twice on one d20 roll within the next day and use the higher result; this is a fortune effect. If Drusilla chooses bad luck, the creature must roll twice and use the lower result on its next d20 roll; this is a misfortune effect. Once Drusilla has affected a target with Manipulate Luck, that target is temporarily immune to Manipulate Luck from any huldra for 1 day.\n[[Campaign Effects/Effect_ Manipulate Luck - Drusilla (Good)|Effect: Manipulate Luck - Drusilla (Good)]]\n[[Bestiary Effects/Effect_ Manipulate Luck (Bad)|Effect: Manipulate Luck (Bad)]]"
+    desc: "`pf2:1` (curse,primal) Drusilla touches another creature to manipulate the creature's luck. The creature must attempt a DC 25 Will check save. On a failure, Drusilla chooses good luck or bad luck. If she chooses good luck, the affected creature can roll twice on one d20 roll within the next day and use the higher result; this is a fortune effect. If Drusilla chooses bad luck, the creature must roll twice and use the lower result on its next d20 roll; this is a misfortune effect. Once Drusilla has affected a target with Manipulate Luck, that target is temporarily immune to Manipulate Luck from any huldra for 1 day.\n\n[[Campaign Effects/Effect_ Manipulate Luck - Drusilla (Good)|Effect: Manipulate Luck - Drusilla (Good)]]\n\n[[Bestiary Effects/Effect_ Manipulate Luck (Bad)|Effect: Manipulate Luck (Bad)]]"
  
+```
+
+```encounter-table
+name: Drusilla
+creatures:
+  - 1: Drusilla
 ```
 
 

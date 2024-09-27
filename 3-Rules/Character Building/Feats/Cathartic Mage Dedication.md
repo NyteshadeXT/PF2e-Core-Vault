@@ -30,25 +30,23 @@ You gain the [[Actions/Catharsis|Catharsis]] reaction and the [[Actions/Settle E
 
 **Emotional States:**
 
-[[Class Features/Catharsis Emotion (Anger)|Catharsis Emotion (Anger)]]
+[[PF2e Journals/Archetypes/Anger|Anger]]
 
-[[Class Features/Catharsis Emotion (Awe)|Catharsis Emotion (Awe)]]
+[[PF2e Journals/Archetypes/Awe|Awe]]
 
-[[Class Features/Catharsis Emotion (Dedication)|Catharsis Emotion (Dedication)]]
+[[PF2e Journals/Archetypes/Dedication|Dedication]]
 
-[[Class Features/Catharsis Emotion (Fear)|Catharsis Emotion (Fear)]]
+[[PF2e Journals/Archetypes/Fear|Fear]]
 
-[[Class Features/Catharsis Emotion (Hatred)|Catharsis Emotion (Hatred)]]
+[[PF2e Journals/Archetypes/Hatred|Hatred]]
 
-[[Class Features/Catharsis Emotion (Joy)|Catharsis Emotion (Joy)]]
+[[PF2e Journals/Archetypes/Joy|Joy]]
 
-[[Class Features/Catharsis Emotion (Love)|Catharsis Emotion (Love)]]
+[[PF2e Journals/Archetypes/Love|Love]]
 
-[[Class Features/Catharsis Emotion (Misery)|Catharsis Emotion (Misery)]]
+[[PF2e Journals/Archetypes/Misery|Misery]]
 
-[[Class Features/Catharsis Emotion (Pride)|Catharsis Emotion (Pride)]]
-
-[[Class Features/Catharsis Emotion (Remorse)|Catharsis Emotion (Remorse)]]
+[[PF2e Journals/Archetypes/Remorse|Remorse]]
 
 * * *
 

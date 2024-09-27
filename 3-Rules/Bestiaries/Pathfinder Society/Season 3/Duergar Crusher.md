@@ -10,6 +10,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/humanoid
   - pf2e/creature/type/lawful
+  - pf2eMonster
   - pf2e/creature/level/5
 statblock: inline
 name: "Duergar Crusher"
@@ -27,11 +28,11 @@ level: "Creature 5"
 
 alignment: ""
 size: "Medium"
-trait_01: "duergar"
-trait_02: "dwarf"
-trait_03: "evil"
-trait_04: "humanoid"
-trait_05: "lawful"
+trait_01: [[duergar]]
+trait_02: [[dwarf]]
+trait_03: [[evil]]
+trait_04: [[humanoid]]
+trait_05: [[lawful]]
 modifier: 14
 perception:
   - name: "Perception"
@@ -71,11 +72,17 @@ attacks:
     desc: "DC 18, attack +10; __3rd __  _[[Spells/Enlarge|Enlarge (Self Only)]]_, _[[Spells/Invisibility|Invisibility (Self Only)]]_\n__Cantrips__  __(3rd)__ _[[Spells/Telekinetic Projectile|Telekinetic Projectile]]_"
 
   - name: "Kick 'Em While They're Down!"
-    desc: "`pf2:1`  **Requirements** An adjacent creature is prone\n**Effect** The duergar crusher stomps down on the prone creature, dealing 2d8 + 5 bludgeoning damage (DC 22 Reflex check save)."
+    desc: "`pf2:1`  **Requirements** An adjacent creature is prone\n* * *\n\n**Effect** The duergar crusher stomps down on the prone creature, dealing 2d8+5 bludgeoning damage (DC 22 Reflex check save)."
 
   - name: "[[Bestiary Ability Glossary/Knockdown|Knockdown]]"
     desc: "`pf2:1`  "
  
+```
+
+```encounter-table
+name: Duergar Crusher
+creatures:
+  - 1: Duergar Crusher
 ```
 
 

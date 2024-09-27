@@ -28,7 +28,7 @@ You gain the following statistics and abilities regardless of which battle form 
 *   AC = 18 + your level. Ignore your armor's check penalty and Speed reduction.
 *   15 temporary Hit Points.
 *   Low-light vision and imprecise scent 30 feet.
-*   One or more unarmed melee attacks specific to the battle form you choose, which are the only attacks you can Strike with. You're trained with them. Your attack modifier is +16, and your damage bonus is +9. These attacks are Strength based (for the purpose of the [[Conditions/Enfeebled 1|Enfeebled]] condition, for example). If your unarmed attack modifier is higher, you can use it instead.
+*   One or more unarmed melee attacks specific to the battle form you choose, which are the only attacks you can Strike with. You're trained with them. Your attack modifier is +16, and your damage bonus is +9. These attacks are Strength based (for the purpose of the [[Conditions/Enfeebled|Enfeebled]] condition, for example). If your unarmed attack modifier is higher, you can use it instead.
 *   Athletics modifier of +18, unless your own modifier is higher.
 
 You also gain specific abilities based on the form you choose:

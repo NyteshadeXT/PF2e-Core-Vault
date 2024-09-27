@@ -10,7 +10,7 @@ license: OGL
 ---
 # Assisting
 ## Item 5
-### [[magical]]
+### [[3-Rules/Rule References/Magical]]
 
 
 **Price** 125 gp; 

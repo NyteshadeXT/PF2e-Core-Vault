@@ -14,7 +14,7 @@ license: OGL
 ---
 # Corruption Cassock
 ## Item 11
-### [rare](rare "Rare Rarity Trait")[[cursed]][[divine]][[focused]][[intelligent]][[invested]]
+### [rare](rare.md "Rare Rarity Trait")[[cursed]][[3-Rules/Rule References/Divine]][[focused]][[intelligent]][[invested]]
 
 
 **Price** 1150 gp; 
@@ -37,7 +37,7 @@ Devotees of non-evil faiths fear and loathe _corruption cassocks_, each of which
 
 A _corruption cassock_ functions as a _cassock of devotion_ for any wearer it chooses. Once you invest the cassock, it fuses to you. The cassock has the alignment trait of its deity (LE, NE, or CE), and while you remain loyal to another deity, you believe it grants you a +2 item bonus to Religion checks and a +1 item bonus to the divine skill of the deity to whom you believe the cassock is dedicated. It does neither. The GM secretly adjusts your checks with those skills, causing you to fail at religious tasks more often. If you have multiple equal or lower item bonuses to the affected skills, the cassock takes precedence, negating those bonuses. If you convert to following the cassock's true evil deity, however, these bonuses function normally for you.
 
-If you attempt to Cast a Spell with an alignment trait that doesn't match the cassock's, it can force you to attempt a DC 28 Will check save. On a failure, you're [[Conditions/Stupefied 1|Stupefied 1]] for one minute ([[Conditions/Stupefied 1|Stupefied 2]] on a critical failure). A _corruption cassock_ uses this ability to convince you that your deity has forsaken you.
+If you attempt to Cast a Spell with an alignment trait that doesn't match the cassock's, it can force you to attempt a DC 28 Will check save. On a failure, you're [[Conditions/Stupefied|Stupefied 1]] for one minute ([[Conditions/Stupefied|Stupefied 2]] on a critical failure). A _corruption cassock_ uses this ability to convince you that your deity has forsaken you.
 
 **Activate** `pf2:1` envision
 

@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/fiend
   - pf2e/creature/type/mindless
   - pf2e/creature/type/unholy
+  - pf2eMonster
   - pf2e/creature/level/0
   - remaster
 statblock: inline
@@ -21,16 +22,17 @@ license: ORC
 columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
+token: [[modules/pf2e-tokens-bestiaries/portraits/fiendish/devil/lemure.webp| ]]
 source: "Pathfinder Monster Core"
 name: "Ort"
 level: "Creature 0"
 
 alignment: ""
 size: "Medium"
-trait_01: "devil"
-trait_02: "fiend"
-trait_03: "mindless"
-trait_04: "unholy"
+trait_01: [[devil]]
+trait_02: [[fiend]]
+trait_03: [[mindless]]
+trait_04: [[unholy]]
 modifier: 0
 perception:
   - name: "Perception"
@@ -65,6 +67,12 @@ attacks:
   - name: "Subservience"
     desc: "  Orts have little drive of their own, but other devils can take command of them. A non-ort devil can issue a command to all orts within 60 feet of it with a single action, which has the auditory and concentrate traits. The devil picks one of the following orders orts can understand, and the orts follow that order. The command and its effects end once the commander is out of the ort's sight, when a new command is issued by the same or another devil, or when the ort dies.\n\n*   **Kill** The ort attacks one target the commander singles out and gains a +1 circumstance bonus to attack rolls against the target.\n*   **Defend** The ort circles the commander and attacks any creature that comes near. It gains a +1 circumstance bonus to AC and saves.\n*   **Fetch** The ort gains a +10–foot circumstance bonus to its Speed and attempts to get an object or person the commander singles out. It attacks anyone and anything that gets in the way.\n*   **Work** The ort performs drudge work dictated by the commander."
  
+```
+
+```encounter-table
+name: Ort
+creatures:
+  - 1: Ort
 ```
 
 

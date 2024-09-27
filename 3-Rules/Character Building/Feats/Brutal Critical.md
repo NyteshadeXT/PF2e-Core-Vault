@@ -6,8 +6,9 @@ tags:
   - trait/barbarian
   - trait/common
   - category/class
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.oNHmfpe8ezZ3eKDD"
-license: OGL
+license: ORC
 ---
 # Brutal Critical
 ## Feat 18
@@ -20,5 +21,5 @@ license: OGL
 
 Your critical hits are particularly devastating. On a critical hit with a melee Strike, add one extra damage die. This is in addition to any extra dice you gain if the weapon is deadly or fatal. The target also takes persistent bleed damage equal to two damage dice.
 
-*Source: Pathfinder Core Rulebook*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

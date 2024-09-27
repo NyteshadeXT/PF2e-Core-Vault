@@ -5,6 +5,7 @@ noteType: pf2eHazard
 tags:
   - aberration
   - magical
+  - pf2eHazard
 
 source: Pathfinder Society Scenario #4-10: Arclord&#x27;s Abode
 aliases: "Compendium.pf2e.pfs-season-4-bestiary.Actor.R8ibeKqtuMFKoGcM" 
@@ -22,8 +23,8 @@ name: "Unbridled Necromantic Energy (1-2)"
 level: "Hazard 2"
 
 
-trait_01: "aberration"
-trait_02: "magical"
+trait_01: [[aberration]]
+trait_02: [[magical]]
 modifier: 7
 sourcebook: "_Pathfinder Society Scenario #4-10: Arclord's Abode_"
 perception:
@@ -42,10 +43,16 @@ attacks:
   - name: ""
 
   - name: "Necromantic Discharge"
-    desc: "`pf2:r` **Trigger** A creature steps into the room.\n**Effect** The necromantic energy pulsing throughout the room branches out like lightning, inundating any creatures in the room or the three squares of hallway outside it. Each creature in those areas must attempt a DC 18 Fortitude check save as they are suffused with dark energy, which deals 2d8 void damage, or 2d8 vitality damage to any creature with void healing.\n**Critical Success** The creature is unaffected.\n**Success** The creature takes half damage and is [[Conditions/Enfeebled 1|Enfeebled 1]] for 1 hour.\n**Failure** The creature takes full damage and is enfeebled 1 for 1 hour.\n**Critical Failure** The creature takes double damage and is enfeebled 1 for 1 day."
+    desc: "`pf2:r` **Trigger** A creature steps into the room.\n* * *\n\n**Effect** The necromantic energy pulsing throughout the room branches out like lightning, inundating any creatures in the room or the three squares of hallway outside it. Each creature in those areas must attempt a DC 18 Fortitude check save as they are suffused with dark energy, which deals 2d8 void damage, or 2d8 vitality damage to any creature with void healing.\n\n**Critical Success** The creature is unaffected.\n\n**Success** The creature takes half damage and is [[Conditions/Enfeebled|Enfeebled 1]] for 1 hour.\n\n**Failure** The creature takes full damage and is enfeebled 1 for 1 hour.\n\n**Critical Failure** The creature takes double damage and is enfeebled 1 for 1 day."
 
 
   - name: "Reset"
     desc: "10 minutes"
+```
+
+```encounter-table
+name: Unbridled Necromantic Energy (1-2)
+creatures:
+  - 1: Unbridled Necromantic Energy (1-2)
 ```
 

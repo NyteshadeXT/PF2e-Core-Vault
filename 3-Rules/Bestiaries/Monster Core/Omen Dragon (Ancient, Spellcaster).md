@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.pathfinder-monster-core.Actor.2QFhhm6cGqqaVlyK"
 tags:
   - pf2e/creature/type/dragon
   - pf2e/creature/type/occult
+  - pf2eMonster
   - pf2e/creature/level/16
   - remaster
 statblock: inline
@@ -19,14 +20,15 @@ license: ORC
 columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
+token: [[modules/pf2e-tokens-monster-core/assets/portraits/dragon-omen-ancient.webp| ]]
 source: "Pathfinder Monster Core"
 name: "Omen Dragon (Ancient, Spellcaster)"
 level: "Creature 16"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "huge"
-trait_01: "dragon"
-trait_02: "occult"
+trait_01: [[dragon]]
+trait_02: [[occult]]
 modifier: 29
 perception:
   - name: "Perception"
@@ -34,7 +36,7 @@ perception:
 languages: "Common, Draconic, Fey, Jotun, Aklo"
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +28, Athletics: +30, Diplomacy: +29, Fortune-Telling Lore: +33, Lore (any one subcategory): +31, Occultism: +33, Society: +31"
+    desc: "Acrobatics: +28, Athletics: +30, Diplomacy: +29, Occultism: +33, Society: +31, Fortune-Telling Lore: +33, Lore (any one subcategory): +31"
 abilityMods: [8, 6, 7, 9, 7, 5]
 speed: 60 feet,  fly 180 feet
 sourcebook: "_Pathfinder Monster Core_"
@@ -80,10 +82,10 @@ attacks:
     desc: "DC 39, attack +31; __8th __  _[[Spells/Retrocognition|Retrocognition]]_; __7th __  _[[Spells/Ill Omen|Ill Omen (At Will)]]_, _[[Spells/Mindlink|Mindlink (At Will)]]_, _[[Spells/True Target|True Target (x2)]]_\n__Cantrips__  __(8th)__ _[[Spells/Guidance|Guidance]]_"
 
   - name: "Destiny Breath"
-    desc: "`pf2:2` (mental,occult) The dragon breathes a translucent mist of potentialities that overwhelms creatures with visions of possible features, dealing 15d6 mental damage in a 40-foot cone (DC 39 Will check save). A creature that fails its save is [[Conditions/Slowed 1|Slowed 1]] for 1 round (or [[Conditions/Slowed 1|Slowed 2]] on a critical failure) as it struggles with the visions.\n\nThe dragon can't use Destiny Breath again for 1d4 rounds."
+    desc: "`pf2:2` (mental,occult) The dragon breathes a translucent mist of potentialities that overwhelms creatures with visions of possible features, dealing 15d6 mental damage in a @Template[cone|distance:40] (DC 39 Will check save). A creature that fails its save is [[Conditions/Slowed|Slowed 1]] for 1 round (or [[Conditions/Slowed|Slowed 2]] on a critical failure) as it struggles with the visions.\n\nThe dragon can't use Destiny Breath again for 1d4 rounds."
 
   - name: "Impending Fate"
-    desc: "  The dragon's attacks bring their foes closer to their eventual fates. When the dragon critically hits with a Strike or a creature critically fails against the dragon's Destiny Breath, the creature becomes [[Conditions/Doomed 1|Doomed 1]], or increases its doomed value by 1 if it was already doomed."
+    desc: "  The dragon's attacks bring their foes closer to their eventual fates. When the dragon critically hits with a Strike or a creature critically fails against the dragon's Destiny Breath, the creature becomes [[Conditions/Doomed|Doomed 1]], or increases its doomed value by 1 if it was already doomed."
 
   - name: "Prophetic Wings"
     desc: "  The dragon or any ally can glimpse into the future through the dragon's wings in a process that requires 10 minutes of concentration. This casts a 8th-rank [[Spells/Augury|Augury]] spell, except that the wings can predict results up to 1 year into the future and the dragon always speaks a few cryptic words related to the result of the prediction.\n\nThe dragon can use their wings in this way only once per day, and a given creature can seek a future in the wings only once per week."
@@ -91,6 +93,12 @@ attacks:
   - name: "Walk the Timelines"
     desc: "`pf2:2` (occult) **Frequency** once per hour\n* * *\n\n**Effect** The dragon splits themself into two versions with different fates. Each copy Strides or Flies from the dragon's current space, then takes a single action. If the actions are both attacks, they use the same multiple attack penalty and count as one attack toward the dragon's multiple attack penalty.\n\nAfter both actions, the dragon chooses one of the two locations as their actual destination and the other version of themself disappears."
  
+```
+
+```encounter-table
+name: Omen Dragon (Ancient, Spellcaster)
+creatures:
+  - 1: Omen Dragon (Ancient, Spellcaster)
 ```
 
 

@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.npc-gallery.Actor.aJR3f8YcAkmfx7im"
 tags:
   - pf2e/creature/type/human
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/-1
 statblock: inline
 name: "Apprentice"
@@ -24,8 +25,8 @@ level: "Creature -1"
 
 alignment: ""
 size: "Medium"
-trait_01: "human"
-trait_02: "humanoid"
+trait_01: [[human]]
+trait_02: [[humanoid]]
 modifier: 2
 perception:
   - name: "Perception"
@@ -62,8 +63,14 @@ attacks:
     desc: "`pf2:1` Dagger +4 (agile, thrown 10 ft., versatile s)\n__Damage__  1d4 + 1 piercing"
 
   - name: "Apprentice's Ambition"
-    desc: "  **Frequency** once per day\n**Requirements** A direct superior is supervising the apprentice\n**Effect** The apprentice gains a +2 circumstance bonus to attack rolls, damage rolls, saving throws, and skill checks until the end of their next turn."
+    desc: "  **Frequency** once per day\n\n**Requirements** A direct superior is supervising the apprentice\n* * *\n\n**Effect** The apprentice gains a +2 circumstance bonus to attack rolls, damage rolls, saving throws, and skill checks until the end of their next turn."
  
+```
+
+```encounter-table
+name: Apprentice
+creatures:
+  - 1: Apprentice
 ```
 
 

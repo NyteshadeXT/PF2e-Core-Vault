@@ -8,7 +8,7 @@ tags:
 ---
 
 # Scout
-You're an expert in espionage and reconnaissance, able to skulk silently through the wilderness to gather intelligence, sneak through enemy lines to report to your comrades, or suddenly and decisively strike your foes. Your skills ease the difficulty of travel for you and your companions and keep you all on guard when you're approaching danger.
+You're an expert in espionage and reconnaissance, able to skulk silently through the wilderness to gather intelligence, sneak through enemy lines and report back to your comrades, or suddenly and decisively take down your foes. Your skills ease the difficulty of travel for you and your companions and keep you all alert to approaching danger. It's not just enemies that you scout out; you also survey the land. You're able to discover the easiest routes as safely as possible and remain watchful while moving with speed and subtlety. The responsibility of the party's safe passage depends on you performing your scouting duties with constant and consistent effort. You take pride in your vigilance, and your allies trust your guidance to ensure the safety of everyone traveling.
 
 **Additional Feats** 12th [[Feats/Camouflage|Camouflage]]
 
@@ -18,7 +18,7 @@ You're an expert in espionage and reconnaissance, able to skulk silently through
 
 * * *
 
-You are a highly skilled scout, capable of providing your allies a timely warning of any danger. You gain the Scout's Warning ranger feat. When you're using the Scout exploration activity, you grant your allies a +2 circumstance bonus to their initiative rolls instead of a +1 circumstance bonus.
+You are a highly skilled scout, capable of guiding your allies, detecting imminent threats, and avoiding the attention of dangerous enemies. You can perform the Scout exploration activity at the same time as the Avoid Notice exploration activity. The bonus to initiative you grant when you Scout is +2 instead of +1.
 
 **Special** You can't select another dedication feat until you have gained two other feats from the Scout archetype.
 
@@ -28,7 +28,7 @@ You are a highly skilled scout, capable of providing your allies a timely warnin
 
 * * *
 
-You meander around unpredictably, and then ambush your opponents without warning. Choose one enemy. Stride, Feint against that opponent, and then make a Strike against that foe. For your Feint, you can attempt a Stealth check instead of the Deception check that's usually required, because you use the terrain around you to catch your foe off-guard.
+You meander around unpredictably, and then ambush your opponents without warning. Choose one enemy. Stride, Feint against that opponent, and then make a Strike against that foe. For your Feint, you can attempt a Stealth check instead of the Deception check that's usually required, using the terrain around you to surprise your foe.
 
 ## [[Feats/Terrain Scout|Terrain Scout]] Feat 4
 
@@ -36,7 +36,7 @@ You meander around unpredictably, and then ambush your opponents without warning
 
 * * *
 
-You gain the Terrain Stalker skill feat twice, choosing a different terrain each time. If you Avoid Notice while exploring and any allies use Follow the Expert to follow you as you do so, you can choose one of those allies to gain the benefit of any one Terrain Stalker feat you have.
+You have mastered movement in many different environments. You gain the Terrain Stalker skill feat twice, choosing a different terrain each time. If you Avoid Notice while exploring and any allies use Follow the Expert to follow you as you do so, you can choose one of those allies to gain the benefit of any one Terrain Stalker feat you have.
 
 ## [[Feats/Fleeting Shadow|Fleeting Shadow]] Feat 6
 
@@ -45,6 +45,10 @@ You gain the Terrain Stalker skill feat twice, choosing a different terrain each
 * * *
 
 You're able to quickly disappear and then move about stealthily. You Hide, then Sneak twice.
+
+## [[Feats/Rebel's Map|Rebel's Map]] Feat 6
+
+@Embed\[Compendium.pf2e.feats-srd.Item.0IVnIC6gQUdQyM8b inline hr=false\]
 
 ## [[Feats/Scout's Speed|Scout's Speed]] Feat 6
 

@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/fiend
   - pf2e/creature/type/unholy
+  - pf2eMonster
   - pf2e/creature/level/20
 statblock: inline
 name: "Olethrodaemon"
@@ -27,15 +28,15 @@ level: "Creature 20"
 
 alignment: ""
 size: "grg"
-trait_01: "daemon"
-trait_02: "evil"
-trait_03: "fiend"
-trait_04: "unholy"
+trait_01: [[daemon]]
+trait_02: [[evil]]
+trait_03: [[fiend]]
+trait_04: [[unholy]]
 modifier: 33
 perception:
   - name: "Perception"
     desc: "+33; Darkvision, Tremorsense (Imprecise) 120 Feet, Truesight"
-languages: "Common, Daemonic"
+languages: "Common, Daemonic; telepathy 100 feet"
 skills:
   - name: "Skills"
     desc: "Athletics: +40, Intimidation: +38, Religion: +34"
@@ -58,7 +59,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Aura of Doom"
-    desc: " (aura,death,divine) 60 feet. Any creature that begins its turn in the aura is [[Conditions/Doomed 1|Doomed 1]] for as long as it remains in the aura and for 1 hour thereafter."
+    desc: " (aura,death,divine) 60 feet. Any creature that begins its turn in the aura is [[Conditions/Doomed|Doomed 1]] for as long as it remains in the aura and for 1 hour thereafter."
 
 attacks:
   - name: ""
@@ -76,17 +77,23 @@ attacks:
     desc: "_[[Spells/Control Weather|Control Weather]]_"
 
   - name: "Apocalypse Breath"
-    desc: "`pf2:2` (divine,void) The daemon expels a shrieking black cloud of smoke from its mouth in a 120-foot line or a 60-foot cone (or both a line and a cone in the same direction if it spends 3 actions). Living creatures in the area take 24d6 void damage (DC 45 Reflex check save).\nThe olethrodaemon can't use Apocalypse Breath again for 1d4 rounds."
+    desc: "`pf2:2` (divine,void) The daemon expels a shrieking black cloud of smoke from its mouth in a @Template[line|distance:120] or a @Template[cone|distance:60] (or both a line and a cone in the same direction if it spends 3 actions). Living creatures in the area take 24d6 void damage (DC 45 Reflex check save).\n\nThe olethrodaemon can't use Apocalypse Breath again for 1d4 rounds."
 
   - name: "Soul Crush"
-    desc: "`pf2:2` (manipulate) **Requirements** The olethrodaemon has a soul gem\n**Effect** The olethrodaemon crushes the soul gem in one hand and regains the use of Apocalypse Breath or any one of its innate spells."
+    desc: "`pf2:2` (manipulate) **Requirements** The olethrodaemon has a soul gem\n* * *\n\n**Effect** The olethrodaemon crushes the soul gem in one hand and regains the use of Apocalypse Breath or any one of its innate spells."
 
   - name: "[[Bestiary Ability Glossary/Swallow Whole|Swallow Whole]]"
-    desc: "`pf2:1` (attack) Huge, 4d10 bludgeoning damage and [[Conditions/Drained 1|Drained 2]], Rupture 43\nAn olethrodaemon has numerous stomachs connected by labyrinthine digestive organs. Swallowed creatures cannot Escape, but can attempt to cut their way out with a 1d6 roll. On a roll of 1-3, the creature cuts into yet another stomach. On a roll of 4-6, the creature manages to cut its way out of the olethrodaemon.\n"
+    desc: "`pf2:1` (attack) Huge, 4d10 bludgeoning damage and [[Conditions/Drained|Drained 2]], Rupture 43\n\nAn olethrodaemon has numerous stomachs connected by labyrinthine digestive organs. Swallowed creatures cannot Escape, but can attempt to cut their way out with a 1d6 roll. On a roll of 1-3, the creature cuts into yet another stomach. On a roll of 4-6, the creature manages to cut its way out of the olethrodaemon.\n\n* * *\n"
 
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
     desc: "`pf2:1`  "
  
+```
+
+```encounter-table
+name: Olethrodaemon
+creatures:
+  - 1: Olethrodaemon
 ```
 
 

@@ -16,7 +16,7 @@ license: OGL
 
 
 
-**Moderate Curse:** Kurgess's displeasure breaks your competitive edge, causing you to fail at the cusp of success. If your check result exactly equals the DC, you fail instead of succeeding.
+Kurgess's displeasure breaks your competitive edge, causing you to fail at the cusp of success. If your check result exactly equals the DC, you fail instead of succeeding.
 
 *Source: Pathfinder Lost Omens: Gods & Magic*
 *OGL*

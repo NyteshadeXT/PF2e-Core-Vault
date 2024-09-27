@@ -10,6 +10,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/human
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/5
 statblock: inline
 name: "Voz Lirayne"
@@ -24,14 +25,14 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #145: Hellknight Hill"
 name: "Voz Lirayne"
 level: "Creature 5"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Medium"
-trait_01: "aiuvarin"
-trait_02: "elf"
-trait_03: "evil"
-trait_04: "human"
-trait_05: "humanoid"
+trait_01: [[aiuvarin]]
+trait_02: [[elf]]
+trait_03: [[evil]]
+trait_04: [[human]]
+trait_05: [[humanoid]]
 modifier: 7
 perception:
   - name: "Perception"
@@ -39,7 +40,7 @@ perception:
 languages: "Common, Elven, Goblin, Halfling, Necril, Orcish"
 skills:
   - name: "Skills"
-    desc: "Arcana: +13, Deception: +11, Library Lore: +11, Mercantile Lore: +11, Occultism: +11, Religion: +7, Society: +11, Stealth: +10"
+    desc: "Arcana: +13, Deception: +11, Occultism: +11, Religion: +7, Society: +11, Stealth: +10, Library Lore: +11, Mercantile Lore: +11"
 abilityMods: [1, 3, 3, 4, 0, 2]
 speed: 25 feet
 sourcebook: "_Pathfinder #145: Hellknight Hill_"
@@ -77,7 +78,7 @@ attacks:
     desc: "_[[Spells/Create Undead|Create Undead]]_"
 
   - name: "Drain Bonded Item"
-    desc: " (arcane) When Voz uses this ability, she also regains 1 Focus Point.\n**Frequency** once per day\nYou expend the power stored in your bonded item, as long as the item is on your person. During your turn, you gain the ability to cast one spell you prepared today and already cast, without spending a spell slot. You must still [[Actions/Cast a Spell|Cast the Spell]] and meet the spell's other requirements."
+    desc: " (arcane) When Voz uses this ability, she also regains 1 Focus Point.\n* * *\n\n**Frequency** once per day\n* * *\n\nYou expend the power stored in your bonded item, as long as the item is on your person. During your turn, you gain the ability to cast one spell you prepared today and already cast, without spending a spell slot. You must still [[Actions/Cast a Spell|Cast the Spell]] and meet the spell's other requirements."
 
   - name: "Eschew Materials"
     desc: "  You can use clever workarounds to replicate the arcane essence of certain materials. When Casting a Spell that requires material components, you can provide these material components without a spell component pouch by drawing intricate replacement sigils in the air. Unlike when providing somatic components, you still must have a hand completely free. This doesn't remove the need for any materials listed in the spell's cost entry."
@@ -85,6 +86,12 @@ attacks:
   - name: "Reach Spell"
     desc: "`pf2:1` (concentrate,spellshape) You can extend the range of your spells. If the next action you use is to [[Actions/Cast a Spell|Cast a Spell]] that has a range, increase that spell's range by 30 feet. As is standard for increasing spell ranges, if the spell normally has a range of touch, you extend its range to 30 feet."
  
+```
+
+```encounter-table
+name: Voz Lirayne
+creatures:
+  - 1: Voz Lirayne
 ```
 
 

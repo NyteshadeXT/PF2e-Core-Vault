@@ -20,7 +20,7 @@ license: OGL
 
 **Prerequisites** Powder Punch Stance
 * * *
-You slam your hands together to unleash a deafening blast. Creatures in a 15-foot cone cone take 3d6 sonic damage, with a Fortitude check against your class DC. Creatures that critically fail their save are also [[Conditions/Deafened|Deafened]] for 1 minute. You can't use this ability again for 1d4 rounds as your hands recover from the thunderous vibrations.
+You slam your hands together to unleash a deafening blast. Creatures in a @Template\[cone|distance:15\] cone take 3d6 sonic damage, with a Fortitude check against your class DC. Creatures that critically fail their save are also [[Conditions/Deafened|Deafened]] for 1 minute. You can't use this ability again for 1d4 rounds as your hands recover from the thunderous vibrations.
 
 At 8th level, and every 2 levels thereafter, the damage from Thunder Clap increases by 1d6.
 

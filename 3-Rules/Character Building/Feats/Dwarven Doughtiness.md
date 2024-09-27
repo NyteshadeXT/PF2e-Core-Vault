@@ -19,7 +19,7 @@ license: ORC
 
 
 
-You are naturally calm and collected in the face of imminent danger. At the end of your turn, reduce your [[Conditions/Frightened 1|Frightened]] condition by 2 instead of 1.
+You are naturally calm and collected in the face of imminent danger. At the end of your turn, reduce your [[Conditions/Frightened|Frightened]] condition by 2 instead of 1.
 
 *Source: Pathfinder Player Core*
 *ORC*

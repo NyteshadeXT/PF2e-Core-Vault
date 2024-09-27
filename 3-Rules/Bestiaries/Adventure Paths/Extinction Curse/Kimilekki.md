@@ -10,6 +10,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/fiend
   - pf2e/creature/type/unholy
+  - pf2eMonster
   - pf2e/creature/level/17
 statblock: inline
 name: "Kimilekki"
@@ -24,19 +25,19 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #156: The Apocalypse Prophet"
 name: "Kimilekki"
 level: "Creature 17"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "huge"
-trait_01: "chaotic"
-trait_02: "demon"
-trait_03: "evil"
-trait_04: "fiend"
-trait_05: "unholy"
+trait_01: [[chaotic]]
+trait_02: [[demon]]
+trait_03: [[evil]]
+trait_04: [[fiend]]
+trait_05: [[unholy]]
 modifier: 30
 perception:
   - name: "Perception"
     desc: "+30; Darkvision, Truesight"
-languages: "Chthonian, Common, Draconic, Empyrean"
+languages: "Chthonian, Common, Draconic, Empyrean; telepathy 100 feet, tongues"
 skills:
   - name: "Skills"
     desc: "Deception: +34, Diplomacy: +32, Intimidation: +32, Religion: +28, Society: +28, Stealth: +27"
@@ -58,7 +59,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Truth Vulnerability"
-    desc: "  A glabrezu's lies sustain them, and the truth can destroy them.\nWhenever a revelation effect counteracts or reveals the glabrezu's illusions or the glabrezu fails a save against an effect that would prevent them from lying (such as [[Spells/Ring of Truth|Ring of Truth]]), the demon takes 5d6 mental damage.\nThey take this damage only once per effect, even if the effect reveals multiple illusions or prevents multiple lies."
+    desc: "  A glabrezu's lies sustain them, and the truth can destroy them.\n\nWhenever a revelation effect counteracts or reveals the glabrezu's illusions or the glabrezu fails a save against an effect that would prevent them from lying (such as [[Spells/Ring of Truth|Ring of Truth]]), the demon takes 5d6 mental damage.\n\nThey take this damage only once per effect, even if the effect reveals multiple illusions or prevents multiple lies."
 
 attacks:
   - name: ""
@@ -79,13 +80,13 @@ attacks:
     desc: "_[[Spells/Demonic Pact|Abyssal Pact]]_"
 
   - name: "Captive Rake"
-    desc: "`pf2:1`  **Requirements** A creature is [[Conditions/Grabbed|Grabbed]] in the glabrezu's pincer\n**Effect** The glabrezu pulls the grabbed creature up to 5 feet closer, then makes two claw Strikes against it. Those Strikes count as one attack when determining the glabrezu's multiple attack penalty, and the penalty doesn't increase until after both Strikes."
+    desc: "`pf2:1`  **Requirements** A creature is [[Conditions/Grabbed|Grabbed]] in the glabrezu's pincer\n* * *\n\n**Effect** The glabrezu pulls the grabbed creature up to 5 feet closer, then makes two claw Strikes against it. Those Strikes count as one attack when determining the glabrezu's multiple attack penalty, and the penalty doesn't increase until after both Strikes."
 
   - name: "Steady Spellcasting"
     desc: "  When a reaction would disrupt the glabrezu's spell, the demon can attempt a DC 15 Flat check check, avoiding the disruption on a success."
 
   - name: "Sudden Betrayal"
-    desc: "  A glabrezu can always use Deception when rolling initiative as long as they're aware of at least one opponent before initiative is rolled.\nWhen using Deception for initiative, the demon gains a +2 circumstance bonus to Deception."
+    desc: "  A glabrezu can always use Deception when rolling initiative as long as they're aware of at least one opponent before initiative is rolled.\n\nWhen using Deception for initiative, the demon gains a +2 circumstance bonus to Deception."
 
   - name: "Treacherous Veil"
     desc: "  A glabrezu's [[Spells/Illusory Disguise|Illusory Disguise]] enables it to appear as a creature of any size."
@@ -96,6 +97,12 @@ attacks:
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
     desc: "`pf2:1`  "
  
+```
+
+```encounter-table
+name: Kimilekki
+creatures:
+  - 1: Kimilekki
 ```
 
 

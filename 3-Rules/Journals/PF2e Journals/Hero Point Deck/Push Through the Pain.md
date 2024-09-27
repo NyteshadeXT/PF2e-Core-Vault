@@ -10,4 +10,4 @@ Play before you attempt a Fortitude save.
 
 * * *
 
-You succeed at the saving throw without needing to roll. You gain the [[Conditions/Drained 1|Drained 1]] condition.
+You succeed at the saving throw without needing to roll. You gain the [[Conditions/Drained|Drained 1]] condition.

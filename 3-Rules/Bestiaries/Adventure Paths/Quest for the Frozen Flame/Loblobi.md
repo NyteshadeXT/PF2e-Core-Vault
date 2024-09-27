@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/chaotic
   - pf2e/creature/type/evil
   - pf2e/creature/type/fey
+  - pf2eMonster
   - pf2e/creature/level/1
 statblock: inline
 name: "Loblobi"
@@ -22,12 +23,12 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #175: Broken Tusk Moon"
 name: "Loblobi"
 level: "Creature 1"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Small"
-trait_01: "chaotic"
-trait_02: "evil"
-trait_03: "fey"
+trait_01: [[chaotic]]
+trait_02: [[evil]]
+trait_03: [[fey]]
 modifier: 6
 perception:
   - name: "Perception"
@@ -54,7 +55,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Unflappable Self-Importance"
-    desc: "  When a loblobi rolls a success on a Will save against an emotion effect or an effect that would make it controlled, it gets a critical success instead. When it rolls a critical failure against such an effect, it gets a failure instead.\nHowever, a loblobi is vulnerable to flattery. It takes a -4 circumstance penalty to its Will and Perception DCs against any fulsome Deception and Diplomacy checks to Lie, [[Actions/Make an Impression|Make an Impression]], or Request."
+    desc: "  When a loblobi rolls a success on a Will save against an emotion effect or an effect that would make it controlled, it gets a critical success instead. When it rolls a critical failure against such an effect, it gets a failure instead.\n\nHowever, a loblobi is vulnerable to flattery. It takes a -4 circumstance penalty to its Will and Perception DCs against any fulsome Deception and Diplomacy checks to Lie, [[Actions/Make an Impression|Make an Impression]], or Request."
 
 attacks:
   - name: ""
@@ -66,8 +67,14 @@ attacks:
     desc: "DC 16, attack +8; __2nd __  _[[Spells/Faerie Fire|Faerie Fire]]_, _[[Spells/Water Walk|Water Walk (At Will) (Loblobi Can Dismiss the Spell)]]_; __1st __  _[[Spells/Grease|Grease]]_, _[[Spells/Hydraulic Push|Hydraulic Push]]_\n__Cantrips__  __(1st)__ _[[Compendium.pf2e.spells-srd.Item.kl2q6JvBZwed4B6v|Dancing Lights]]_, _[[Spells/Prestidigitation|Prestidigitation (Only to Move, Clean, or Soil Small Amounts of Water)]]_"
 
   - name: "Arrogant Preen"
-    desc: "`pf2:1` (incapacitation,mental,primal) The loblobi tidies its feathered crest to look supernaturally regal. Each non-fey creature within 30 feet must attempt a DC 17 Will check save, then is temporarily immune to Arrogant Preen for 1 hour.\n**Critical Success** The target is unaffected.\n**Success** The target is distracted by the preening and can't take reactions until the start of its next turn.\n**Failure** The target is [[Conditions/Fascinated|Fascinated]] by the loblobi and can't take reactions for 1 minute.\n**Critical Failure** As failure. Additionally, while the creature is fascinated, any hostile actions from the loblobi don't break the fascination, but instead allow the target to attempt a new Will save to end the effect at the start of its next turn."
+    desc: "`pf2:1` (incapacitation,mental,primal) The loblobi tidies its feathered crest to look supernaturally regal. Each non-fey creature within 30 feet must attempt a DC 17 Will check save, then is temporarily immune to Arrogant Preen for 1 hour.\n* * *\n\n**Critical Success** The target is unaffected.\n\n**Success** The target is distracted by the preening and can't take reactions until the start of its next turn.\n\n**Failure** The target is [[Conditions/Fascinated|Fascinated]] by the loblobi and can't take reactions for 1 minute.\n\n**Critical Failure** As failure. Additionally, while the creature is fascinated, any hostile actions from the loblobi don't break the fascination, but instead allow the target to attempt a new Will save to end the effect at the start of its next turn."
  
+```
+
+```encounter-table
+name: Loblobi
+creatures:
+  - 1: Loblobi
 ```
 
 

@@ -7,8 +7,9 @@ tags:
   - trait/dedication
   - trait/common
   - category/class
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.r72qcTupGzyRDiGe"
-license: OGL
+license: ORC
 ---
 # Duelist Dedication
 ## Feat 2
@@ -20,9 +21,9 @@ license: OGL
 
 **Prerequisites** trained in light armor and simple weapons
 * * *
-You are always ready to draw your weapon and begin a duel, no matter the circumstances. You gain the [[Feats/Quick Draw|Quick Draw]] ranger feat, enabling you to both draw and attack with a weapon as 1 action. This serves as Quick Draw for the purpose of meeting prerequisites.
+You are always ready to draw your weapon and begin a duel, no matter the circumstances. You gain the [[Feats/Quick Draw|Quick Draw]] feat, enabling you to both draw and attack with a weapon as 1 action.
 
-**Special** You cannot select another dedication feat until you have gained two other feats from the [[PF2e Journals/Archetypes/Duelist|Duelist]] archetype.
+[[PF2e Journals/Archetypes/Duelist|Duelist]]
 
-*Source: Pathfinder Advanced Player's Guide*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

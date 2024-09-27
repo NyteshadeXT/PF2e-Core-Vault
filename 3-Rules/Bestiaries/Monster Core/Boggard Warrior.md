@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/amphibious
   - pf2e/creature/type/boggard
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/2
   - remaster
 statblock: inline
@@ -27,9 +28,9 @@ level: "Creature 2"
 
 alignment: ""
 size: "Medium"
-trait_01: "amphibious"
-trait_02: "boggard"
-trait_03: "humanoid"
+trait_01: [[amphibious]]
+trait_02: [[boggard]]
+trait_03: [[humanoid]]
 modifier: 8
 perception:
   - name: "Perception"
@@ -37,7 +38,7 @@ perception:
 languages: "Boggard"
 skills:
   - name: "Skills"
-    desc: "Athletics: +8, Intimidation: +5, Stealth: +6 (+8 in water)"
+    desc: "Athletics: +8, Intimidation: +5, Stealth: +6"
 abilityMods: [4, 0, 4, -1, 2, 1]
 speed: 20 feet,  swim 25 feet
 sourcebook: "_Pathfinder Monster Core_"
@@ -75,11 +76,17 @@ attacks:
     desc: "  A boggard warrior ignores difficult terrain caused by swamp terrain features."
 
   - name: "Terrifying Croak"
-    desc: "`pf2:1` (auditory,emotion,fear,mental) The boggard scout unleashes a terrifying croak. Any non-boggard within 30 feet becomes [[Conditions/Frightened 1|Frightened 1]] unless they succeed at a DC 18 Will check save; those who critically succeed are temporarily immune for 1 minute."
+    desc: "`pf2:1` (auditory,emotion,fear,mental) The boggard warrior unleashes a terrifying croak. Any non-boggard within 30 feet becomes [[Conditions/Frightened|Frightened 1]] unless they succeed at a DC 18 Will check save; those who critically succeed are temporarily immune for 1 minute."
 
   - name: "Tongue Grab"
-    desc: "  If the boggard scout hits a creature with their tongue, that creature becomes [[Conditions/Grabbed|Grabbed]] by the boggard. Unlike with a normal Grab, the creature isn't [[Conditions/Immobilized|Immobilized]], but it can't move beyond the reach of the boggard's tongue. A creature can sever the tongue by hitting AC 15 and dealing at least 3 slashing damage. Though this doesn't deal any damage to the boggard, it prevents them from using their tongue Strike until they regrow their tongue, which takes a week."
+    desc: "  If the boggard warrior hits a creature with their tongue, that creature becomes [[Conditions/Grabbed|Grabbed]] by the boggard. Unlike with a normal Grab, the creature isn't [[Conditions/Immobilized|Immobilized]], but it can't move beyond the reach of the boggard's tongue. A creature can sever the tongue by hitting AC 15 and dealing at least 3 slashing damage. Though this doesn't deal any damage to the boggard, it prevents them from using their tongue Strike until they regrow their tongue, which takes a week."
  
+```
+
+```encounter-table
+name: Boggard Warrior
+creatures:
+  - 1: Boggard Warrior
 ```
 
 

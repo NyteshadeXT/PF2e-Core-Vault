@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/chaotic
   - pf2e/creature/type/ganzi
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/19
 statblock: inline
 name: "Il&#x27;setsya Wyrmtouched"
@@ -22,12 +23,12 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #162: Ruins of the Radiant Siege"
 name: "Il'setsya Wyrmtouched"
 level: "Creature 19"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Medium"
-trait_01: "chaotic"
-trait_02: "ganzi"
-trait_03: "humanoid"
+trait_01: [[chaotic]]
+trait_02: [[ganzi]]
+trait_03: [[humanoid]]
 modifier: 25
 perception:
   - name: "Perception"
@@ -35,7 +36,7 @@ perception:
 languages: "Aklo, Chthonian, Common, Daemonic, Draconic, Empyrean, Protean"
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +28, Arcana: +34, Deception: +35, Diplomacy: +33, Maelstrom Lore: +34, Occultism: +32, Society: +32, Stealth: +30"
+    desc: "Acrobatics: +28, Arcana: +34, Deception: +35, Diplomacy: +33, Occultism: +32, Society: +32, Stealth: +30, Maelstrom Lore: +34"
 abilityMods: [0, 4, 2, 6, 1, 7]
 speed: 30 feet
 sourcebook: "_Pathfinder #162: Ruins of the Radiant Siege_"
@@ -53,12 +54,12 @@ abilities_top:
   - name: "Items"
     desc: "[[Equipment/Dagger|+2 Greater Striking Warpglass Dagger]], [[Equipment/Aeon Stone (Lavender and Green Ellipsoid)|Aeon Stone (Lavender and Green Ellipsoid)]], [[Equipment/Brooch of Shielding|Brooch of Shielding]], [[Equipment/Ring of Spell Turning|Ring of Spell Turning]], [[Equipment/Rod of Wonder|Rod of Wonder]], [[Equipment/Spellbook (Blank)|Spellbook]], Dragon-Shaped Hookah"
   - name: "Entropy Sense (Imprecise) 60 feet"
-    desc: " (divine,prediction) Il'setya can anticipate the most likely location of a creature through their supernatural insight into the forces of chaotic probabilities and chance. This grants Il'setya the ability to sense creatures within the listed range.\nThe Il'setya's entropy sense doesn't detect creatures under the effects of [[Spells/Veil of Privacy|Veil of Privacy]] or that are otherwise shielded from divinations and predictions."
+    desc: " (divine,prediction) Il'setya can anticipate the most likely location of a creature through their supernatural insight into the forces of chaotic probabilities and chance. This grants Il'setya the ability to sense creatures within the listed range.\n\nThe Il'setya's entropy sense doesn't detect creatures under the effects of [[Spells/Veil of Privacy|Veil of Privacy]] or that are otherwise shielded from divinations and predictions."
 
 abilities_mid:
   - name: ""
   - name: "Protean Anatomy 10"
-    desc: " (divine) Il'setya's vital organs shift and change shape and position constantly. Immediately after Il'setya takes acid, electricity, or sonic damage, she gains the listed amount of resistance to that damage type. This lasts for 1 hour or until the next time she takes damage of one of the other types (in which case its resistance changes to match that type), whichever comes first.\nIl'setya is immune to polymorph effects unless she is a willing target. If [[Conditions/Blinded|Blinded]] or [[Conditions/Deafened|Deafened]], Il'setya automatically recovers at the end of its next turn as new sensory organs grow to replace the compromised ones."
+    desc: " (divine) Il'setya's vital organs shift and change shape and position constantly. Immediately after Il'setya takes acid, electricity, or sonic damage, she gains the listed amount of resistance to that damage type. This lasts for 1 hour or until the next time she takes damage of one of the other types (in which case its resistance changes to match that type), whichever comes first.\n\nIl'setya is immune to polymorph effects unless she is a willing target. If [[Conditions/Blinded|Blinded]] or [[Conditions/Deafened|Deafened]], Il'setya automatically recovers at the end of its next turn as new sensory organs grow to replace the compromised ones."
 
 attacks:
   - name: ""
@@ -73,14 +74,20 @@ attacks:
     desc: "DC 39, attack +33\n__Constant__  __(4th)__ _[[Spells/Unfettered Movement|Freedom of Movement]]_"
 
   - name: "Dimensional Slide"
-    desc: "`pf2:1` (arcane,move) **Frequency** twice per day\n**Effect** Il'setsya steps through a transient hole in space, instantly teleporting to a space within 60 feet that she can see."
+    desc: "`pf2:1` (arcane,move) **Frequency** twice per day\n* * *\n\n**Effect** Il'setsya steps through a transient hole in space, instantly teleporting to a space within 60 feet that she can see."
 
   - name: "Prehensile Tail"
     desc: "  Il'setsya's prehensile tail can hold and manipulate objects of Light Bulk or less, though it cannot be used to attack. She can spend an Interact action to use her tail to fetch objects stowed on her person, such as potions."
 
   - name: "Warpwave Spell"
-    desc: "`pf2:1` (arcane,polymorph) Il'setsya infuses her next spell with roiling currents of chaos.\nIf Il'setsya Casts a Spell before her turn is over and the spell affects a creature, that creature is also subject to a [[Rollable Tables/Warpwaves|Warpwave]].\nIf she doesn't Cast a Spell before the beginning of her next turn, this action is wasted."
+    desc: "`pf2:1` (arcane,polymorph) Il'setsya infuses her next spell with roiling currents of chaos.\n\nIf Il'setsya Casts a Spell before her turn is over and the spell affects a creature, that creature is also subject to a [[Rollable Tables/Warpwaves|Warpwave]].\n\nIf she doesn't Cast a Spell before the beginning of her next turn, this action is wasted."
  
+```
+
+```encounter-table
+name: Il'setsya Wyrmtouched
+creatures:
+  - 1: Il'setsya Wyrmtouched
 ```
 
 

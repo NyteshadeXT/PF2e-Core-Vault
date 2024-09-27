@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/human
   - pf2e/creature/type/humanoid
   - pf2e/creature/type/lawful
+  - pf2eMonster
   - pf2e/creature/level/-1
 statblock: inline
 name: "Tax Collector"
@@ -25,9 +26,9 @@ level: "Creature -1"
 
 alignment: ""
 size: "Medium"
-trait_01: "human"
-trait_02: "humanoid"
-trait_03: "lawful"
+trait_01: [[human]]
+trait_02: [[humanoid]]
+trait_03: [[lawful]]
 modifier: 6
 perception:
   - name: "Perception"
@@ -35,7 +36,7 @@ perception:
 languages: "Common"
 skills:
   - name: "Skills"
-    desc: "Deception: +8, Diplomacy: +8, Intimidation: +8, Legal Lore: +11, Mercantile Lore: +13, Society: +11, Thievery: +6"
+    desc: "Deception: +8, Diplomacy: +8, Intimidation: +8, Society: +11, Thievery: +6, Legal Lore: +11, Mercantile Lore: +13"
 abilityMods: [0, 1, 0, 4, 2, 3]
 speed: 25 feet
 sourcebook: "_Pathfinder Gamemastery Guide_"
@@ -66,6 +67,12 @@ attacks:
   - name: "Glittering Distraction"
     desc: "`pf2:1` (emotion,mental) The tax collector Strides. At any point during this movement, they can Interact to hurl coins. If there are [[NPC Gallery/Commoner|Commoners]] about, this typically causes a scene. Crowds are usually difficult terrain and have other effects."
  
+```
+
+```encounter-table
+name: Tax Collector
+creatures:
+  - 1: Tax Collector
 ```
 
 

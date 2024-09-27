@@ -6,6 +6,7 @@ cssClasses: pf2e
 aliases: "Compendium.pf2e.pfs-season-1-bestiary.Actor.xu1dm0KnEHx5vySR" 
 tags:
   - pf2e/creature/type/animal
+  - pf2eMonster
   - pf2e/creature/level/1
 statblock: inline
 name: "Elite Glass River Midge"
@@ -23,11 +24,12 @@ level: "Creature 1"
 
 alignment: ""
 size: "tiny"
-trait_01: "animal"
+trait_01: [[animal]]
 modifier: 8
 perception:
   - name: "Perception"
     desc: "+8; Darkvision, Scent (Imprecise) 60 Feet"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Acrobatics: +8, Stealth: +12"
@@ -58,11 +60,17 @@ attacks:
     desc: "  When a Glass River midge hits a target larger than itself, its barbed legs attach it to that creature. This is similar to Grabbing the creature, but the midge moves with that creature rather than holding it in place. The midge is [[Conditions/Off-Guard|Off-Guard]] while attached. If the midge is killed or pushed away while attached to a creature it has drained blood from, that creature takes 1 bleed damage. [[Actions/Escape|Escaping]] the attach or removing the midge in other ways doesn't cause bleed damage."
 
   - name: "Blood Drain"
-    desc: "`pf2:1`  **Requirements** The Glass River midge is attached to a creature\n**Effect** The midge uses its proboscis to drain blood from the creature it's attached to. This deals 1d4+2 damage, and the midge gains temporary Hit Points equal to the damage dealt. A creature that has its blood drained by a midge is [[Conditions/Drained 1|Drained 1]] until it receives healing (of any kind or amount)."
+    desc: "`pf2:1`  **Requirements** The Glass River midge is attached to a creature\n* * *\n\n**Effect** The midge uses its proboscis to drain blood from the creature it's attached to. This deals 1d4+2 damage, and the midge gains temporary Hit Points equal to the damage dealt. A creature that has its blood drained by a midge is [[Conditions/Drained|Drained 1]] until it receives healing (of any kind or amount)."
 
   - name: "Camouflage"
     desc: "  The Glass River midge can [[Actions/Hide|Hide]] in natural environments even if it doesn't have cover."
  
+```
+
+```encounter-table
+name: Elite Glass River Midge
+creatures:
+  - 1: Elite Glass River Midge
 ```
 
 

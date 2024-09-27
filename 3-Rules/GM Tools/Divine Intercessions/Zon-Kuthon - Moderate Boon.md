@@ -17,7 +17,7 @@ license: OGL
 
 
 
-**Moderate Boon (Daily)** Each morning, during your daily preparations, scars gather into words on your flesh.
+Each morning, during your daily preparations, scars gather into words on your flesh.
 
 The scars function as a scroll of a divine spell of Zon-Kuthon's choosing.
 

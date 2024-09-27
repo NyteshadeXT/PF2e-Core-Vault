@@ -6,6 +6,7 @@ cssClasses: pf2e
 aliases: "Compendium.pf2e.pathfinder-monster-core.Actor.k4fqHhiax2GPrkbh" 
 tags:
   - pf2e/creature/type/aberration
+  - pf2eMonster
   - pf2e/creature/level/2
   - remaster
 statblock: inline
@@ -25,7 +26,7 @@ level: "Creature 2"
 
 alignment: ""
 size: "Medium"
-trait_01: "aberration"
+trait_01: [[aberration]]
 modifier: 10
 perception:
   - name: "Perception"
@@ -71,8 +72,14 @@ attacks:
     desc: "`pf2:1` Guisarme +10 (reach 10 feet, trip)\n__Damage__  1d10 + 4 slashing"
 
   - name: "Sinful Bite"
-    desc: " (arcane,emotion,mental) A creature hit by the jaws of a sinspawn must attempt a DC 18 Will check save as it is assailed by sinful thoughts.\n* * *\n\n**Critical Success** Unaffected\n\n**Success** [[Conditions/Sickened 1|Sickened 1]]\n\n**Failure** [[Conditions/Sickened 1|Sickened 2]]\n\n**Critical Failure** sickened 2 plus [[Conditions/Stupefied 1|Stupefied 2]] for 1 minute"
+    desc: " (arcane,emotion,mental) A creature hit by the jaws of a sinspawn must attempt a DC 18 Will check save as it is assailed by sinful thoughts.\n* * *\n\n**Critical Success** Unaffected\n\n**Success** [[Conditions/Sickened|Sickened 1]]\n\n**Failure** [[Conditions/Sickened|Sickened 2]]\n\n**Critical Failure** sickened 2 plus [[Conditions/Stupefied|Stupefied 2]] for 1 minute"
  
+```
+
+```encounter-table
+name: Lustspawn
+creatures:
+  - 1: Lustspawn
 ```
 
 

@@ -6,6 +6,7 @@ cssClasses: pf2e
 aliases: "Compendium.battlezoo-bestiary-pf2e.pf2e-battlezoo-bestiary.Actor.XlTeoM6eWw0vpbvm" 
 tags:
   - pf2e/creature/type/aberration
+  - pf2eMonster
   - pf2e/creature/level/8
 statblock: inline
 name: "Coquecigrue"
@@ -21,17 +22,18 @@ token: [[modules/battlezoo-bestiary-pf2e/art/coquecigrue.webp| ]]
 source: "Battlezoo Bestiary"
 name: "Coquecigrue"
 level: "Creature 8"
-rare_03: "Rare"
+rare_03: [[Rare]]
 alignment: ""
 size: "Small"
-trait_01: "aberration"
+trait_01: [[aberration]]
 modifier: 14
 perception:
   - name: "Perception"
     desc: "+14; Darkvision"
+languages: ""
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +17, Athletics: +18, "
+    desc: "Acrobatics: +17, Athletics: +18"
 abilityMods: [4, 5, 4, -4, 2, 6]
 speed: 30 feet
 sourcebook: "_Battlezoo Bestiary_"
@@ -50,7 +52,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Omnicolor Aura"
-    desc: " (aura,primal,visual) Aura 20 feet\nA coquecigrue is utterly befuddling to behold. A creature that begins its turn within the area must attempt a Will Save.\n**Critical Success** The creature is unaffected and is immune to Omnicolor Aura for 24 hours.\n**Success** The creature is unaffected.\n**Failure** The target is Stupefied 1 until the end of their next turn.\n**Critical Failure** The target is Stupefied 2 until the end of their next turn."
+    desc: " (aura,primal,visual) [[Bestiary Ability Glossary/Aura|Aura]] 20 feet\n\nA coquecigrue is utterly befuddling to behold. A creature that begins its turn within the area must attempt a DC 24 Will Save.\n* * *\n\n**Critical Success** The creature is unaffected and is immune to Omnicolor Aura for 24 hours.\n\n**Success** The creature is unaffected.\n\n**Failure** The target is [[Conditions/Stupefied|Stupefied 1]] until the end of their next turn.\n\n**Critical Failure** The target is [[Conditions/Stupefied|Stupefied 2]] until the end of their next turn."
 
 attacks:
   - name: ""
@@ -59,11 +61,17 @@ attacks:
     desc: "`pf2:1` Beak +18 (fatal d10)\n__Damage__  2d8 + 8 piercing"
 
   - name: "Mind-Bending Warble"
-    desc: "`pf2:2` (auditory,incapacitation,mental,primal) The coquecigrue emits a mind-splitting warble, shredding the sanity of any creatures in a 30-foot burst and causing them to lose their grasp on reality. Each creature in the area must make a Will saving throw.\nThe coquecigrue can't use Mind-Bending Warble again for 1d4 rounds.\n**Critical Success** The creature is unaffected and is immune to Mind-Bending Warble for 24 hours.\n**Success** The creature takes 3d8 mental damage.\n**Failure** The creature takes 6d8 mental damage and is Confused for 1 round.\n**Critical Failure** The creature takes 12d8 mental damage and is confused for 1 minute. A creature that critically fails its save while already confused is driven insane, becoming permanently confused. Only a 6th-level or higher _Restoration_ spell can remove this condition."
+    desc: "`pf2:2` (auditory,incapacitation,mental,primal) The coquecigrue emits a mind-splitting warble, shredding the sanity of any creatures in a 30-foot burst and causing them to lose their grasp on reality. Each creature in the area must make a DC 26 Will saving throw.\n\nThe coquecigrue can't use Mind-Bending Warble again for 1d4 rounds.\n* * *\n\n**Critical Success** The creature is unaffected and is immune to Mind-Bending Warble for 24 hours.\n\n**Success** The creature takes 3d8 mental damage.\n\n**Failure** The creature takes 6d8 mental damage and is [[Conditions/Confused|Confused]] for 1 round.\n\n**Critical Failure** The creature takes 12d8 mental damage and is confused for 1 minute. A creature that critically fails its save while already confused is driven insane, becoming permanently confused. Only a 6th-level or higher _[[Spells/Restoration|Restoration]]_ spell can remove this condition."
 
   - name: "Prismatic Spittle"
-    desc: "`pf2:1` (acid,attack,cold,electricity,fire,primal,sonic) The coquecigrue hawks a ball of prismatic spittle at a creature within 30 feet. The coquecigrue makes a ranged Strike with a +19 bonus; on a hit, the target takes 2d12+12 damage.\nRoll 1d6 to randomly determine the type of damage dealt:\n1.  Acid,\n2.  Cold,\n3.  Electricity,\n4.  Fire,\n5.  Sonic,\n6.  The coquecigrue coughs ineffectually, dealing no damage."
+    desc: "`pf2:1` (acid,attack,cold,electricity,fire,primal,sonic) The coquecigrue hawks a ball of prismatic spittle at a creature within 30 feet. The coquecigrue makes a ranged Strike with a +19 bonus; on a hit, the target takes 2d12+12 damage.\n\nRoll 1d6 to randomly determine the type of damage dealt:\n\n1.  Acid,\n2.  Cold,\n3.  Electricity,\n4.  Fire,\n5.  Sonic,\n6.  The coquecigrue coughs ineffectually, dealing no damage."
  
+```
+
+```encounter-table
+name: Coquecigrue
+creatures:
+  - 1: Coquecigrue
 ```
 
 

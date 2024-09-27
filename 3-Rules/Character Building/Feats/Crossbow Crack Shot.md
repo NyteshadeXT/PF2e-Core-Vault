@@ -18,7 +18,7 @@ license: OGL
 
 
 
-You have a deep understanding of the crossbow. When you're wielding a crossbow and Interact to reload it, including Interact actions as part of your slinger's reload and similar effects, you gain a +2 circumstance bonus to the damage roll on your next Strike with that crossbow. As normal, this isn't cumulative with the +1 circumstance bonus from singular expertise. If the crossbow is a simple crossbow, also increase the damage die size for that attack by one step. You must make the attack before the end of your turn or these benefits are lost.
+You're exceptionally skilled with the crossbow. The first time each round that you Interact to reload a crossbow you are wielding, including Interact actions as part of your slinger's reload and similar effects, you increase the range increment for your next Strike with that weapon by 10 feet and deal 1 additional precision damage per weapon damage die with that Strike. If your crossbow has the backstabber trait and you are attacking an [[Conditions/Off-Guard|Off-Guard]] target, backstabber deals 2 additional precision damage per weapon damage die instead of its normal effects.
 
 *Source: Pathfinder Guns & Gears*
 *OGL*

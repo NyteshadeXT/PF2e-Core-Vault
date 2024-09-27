@@ -16,7 +16,7 @@ license: ORC
 ---
 # Impersonate
 
-### [[concentrate]][[exploration]][[manipulate]][[secret]][[skill]]
+### [[3-Rules/Rule References/Concentrate]][[exploration]][[3-Rules/Rule References/Manipulate]][[secret]][[skill]]
 
 **Category** interaction; 
 

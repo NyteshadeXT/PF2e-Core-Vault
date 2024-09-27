@@ -11,7 +11,7 @@ license: ORC
 ---
 # Extending
 ## Item 9
-### [[magical]]
+### [[3-Rules/Rule References/Magical]]
 
 
 **Price** 700 gp; 

@@ -12,7 +12,7 @@ license: OGL
 ---
 # Bag of Devouring Type III
 ## Item 13
-### [rare](rare "Rare Rarity Trait")[[cursed]][[extradimensional]][[magical]]
+### [rare](rare.md "Rare Rarity Trait")[[cursed]][[extradimensional]][[3-Rules/Rule References/Magical]]
 
 
 **Price** 0 gp; 

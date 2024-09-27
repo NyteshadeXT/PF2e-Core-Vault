@@ -6,6 +6,7 @@ tags:
   - fire
   - magical
   - trap
+  - pf2eHazard
   - complex
 source: Pathfinder #167: Ready? Fight!
 aliases: "Compendium.pf2e.fists-of-the-ruby-phoenix-bestiary.Actor.BcRxQjtyMNgiEpvb" 
@@ -23,15 +24,15 @@ name: "Floating Flamethrower"
 level: "Hazard 16"
 
 trait_06: "Complex"
-trait_01: "fire"
-trait_02: "magical"
-trait_03: "trap"
+trait_01: [[fire]]
+trait_02: [[magical]]
+trait_03: [[trap]]
 modifier: 23
 sourcebook: "_Pathfinder #167: Ready? Fight!_"
 ac: 42
 armorclass:
   - name: AC
-    desc: "42; __Fort__ +30, __Ref__ +33, __Will__ +0"
+    desc: "42; __Fort__ +30, __Ref__ +33, "
 hp: 100
 health:
   - name: ""
@@ -53,13 +54,19 @@ attacks:
   - name: ""
 
   - name: "Blaze"
-    desc: "`pf2:r` (fire) **Trigger** Hao Jin signals the start of the bout\n**Effect** The trap roars with fire and rolls initiative."
+    desc: "`pf2:r` (fire) **Trigger** Hao Jin signals the start of the bout\n* * *\n\n**Effect** The trap roars with fire and rolls initiative."
 
   - name: "Speed Fly 50 feet"
     desc: "passive "
 
   - name: "Routine"
-    desc: "(3 actions) The trap loses 1 action per turn per successful check to disable. The floating flamethrower uses its first action to release a gout of flame in a 15-foot cone that deals 4d6 + 4 fire damage (DC 40 Reflex check save), its second action to fly in a U-shape in a random direction, and its third action to release another gout of flame."
+    desc: "(3 actions) The trap loses 1 action per turn per successful check to disable. The floating flamethrower uses its first action to release a gout of flame in a @Template[cone|distance:15] that deals 4d6+4 fire damage (DC 40 Reflex check save), its second action to fly in a U-shape in a random direction, and its third action to release another gout of flame."
 
+```
+
+```encounter-table
+name: Floating Flamethrower
+creatures:
+  - 1: Floating Flamethrower
 ```
 

@@ -11,6 +11,7 @@ tags:
   
 
 **Encounter Budget**
+ 
 | **Difficulty** | **XP Budget** | **Character Adjustment** |
 | --- | --- | --- |
 | **Trivial** | 40 or less | 10 or less |
@@ -22,6 +23,7 @@ tags:
   
 
 **XP Awards**
+ 
 | **Accomplishment** | **XP Award** |
 | --- | --- |
 | Minor | 10 XP |
@@ -32,6 +34,7 @@ tags:
   
 
 **Level Adjustments**
+ 
 | **Adversary or Hazard Level** | **XP for Simple Hazard** | **XP for Creature or Complex Hazard** |
 | --- | --- | --- |
 | **Party Level - 4** | 2 XP | 10 XP |

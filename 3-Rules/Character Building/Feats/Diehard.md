@@ -19,7 +19,7 @@ license: ORC
 
 
 
-It takes more to kill you than most. You die from the [[Conditions/Dying 1|Dying]] condition at dying 5, rather than dying 4.
+It takes more to kill you than most. You die from the [[Conditions/Dying|Dying]] condition at dying 5, rather than dying 4.
 
 *Source: Pathfinder Player Core*
 *ORC*

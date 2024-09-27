@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/human
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/2
 statblock: inline
 name: "Witch&#x27;s Gaze"
@@ -25,9 +26,9 @@ level: "Creature 2"
 
 alignment: ""
 size: "Medium"
-trait_01: "evil"
-trait_02: "human"
-trait_03: "humanoid"
+trait_01: [[evil]]
+trait_02: [[human]]
+trait_03: [[humanoid]]
 modifier: 11
 perception:
   - name: "Perception"
@@ -35,7 +36,7 @@ perception:
 languages: "Common, Mahwek"
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +7, Occultism: +7, Owl Coven Lore: +5, Thievery: +8"
+    desc: "Acrobatics: +7, Occultism: +7, Thievery: +8, Owl Coven Lore: +5"
 abilityMods: [3, 4, 3, 1, 2, 1]
 speed: 30 feet
 sourcebook: "_Pathfinder Society Scenario #4-12: Negotiations for the Star Gun_"
@@ -66,6 +67,12 @@ attacks:
   - name: "Bloodletting"
     desc: "  When the witch's gaze deals piercing or slashing damage to an [[Conditions/Off-Guard|Off-Guard]] target, they also deal 1 persistent bleed damage."
  
+```
+
+```encounter-table
+name: Witch's Gaze
+creatures:
+  - 1: Witch's Gaze
 ```
 
 

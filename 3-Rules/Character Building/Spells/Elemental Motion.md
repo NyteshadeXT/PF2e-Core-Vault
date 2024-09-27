@@ -4,32 +4,36 @@ title: "Elemental Motion"
 noteType: pf2eSpell
 cssclasses: pf2e,pf2e-spell
 tags:
+  - pf2eSpell
   - spell/level/3
   - trait/concentrate
   - trait/focus
   - trait/manipulate
   - trait/sorcerer
   - trait/uncommon
+
+  - remaster
 aliases: "Compendium.pf2e.spells-srd.Item.B8aCUMCHCIMUCEVK" 
+license: ORC
 ---
-# Elemental Motion  `pf2:2`  
-## Focus 3
-### [uncommon](uncommon "Uncommon Rarity Trait")[[concentrate]][[focus]][[manipulate]][[sorcerer]]
+```statblock
+name: "Elemental Motion  `pf2:2`"
+level: "Focus 3"
+rare_03: [[Uncommon]]
+trait_01: [[concentrate]]
+trait_02: [[focus]]
+trait_03: [[manipulate]]
+trait_04: [[sorcerer]]
+layout: Basic Pathfinder 2e Layout
+columns: 1
+columnWidth: x
+abilities_top:
+  - name: ""
 
-**Duration** 1 minute
-* * * 
-You call upon your element to propel you, improving your Speed depending on your element. This spell has your element's trait.
-
-*   [[Spell Effects/Spell Effect_ Elemental Motion (Air)|Air]] You gain a fly Speed equal to your Speed.
-*   [[Spell Effects/Spell Effect_ Elemental Motion (Earth)|Earth]] You gain a burrow Speed of 10 feet.
-*   [[Spell Effects/Spell Effect_ Elemental Motion (Fire)|Fire]] You gain a fly Speed equal to your Speed.
-*   [[Spell Effects/Spell Effect_ Elemental Motion (Water)|Water]] You gain a swim Speed equal to your Speed and can breathe underwater.
-
-* * *
-
-**Heightened (6th)** You also gain a +10-foot status bonus to your Speeds.
-
-**Heightened (9th)** The status bonus increases to +20 feet.
-
-*Source: Pathfinder Core Rulebook*
-*OGL*
+  - name: "Duration"
+    desc: "1 minute"
+abilities_mid:
+  - name: ""
+    desc: "You call upon your element to propel you, improving your Speed depending on your element. This spell has your element's trait.\n\n*   **Air** You gain a fly Speed equal to your Speed.\n*   **Earth** You gain a burrow Speed of 10 feet.\n*   **Fire** You gain a fly Speed equal to your Speed.\n*   **Metal** You gain a burrow Speed of 10 feet.\n*   **Water** You gain a swim Speed equal to your Speed and can breathe underwater.\n*   **Wood** You gain a climb Speed equal to your Speed.\n\n[[Spell Effects/Spell Effect_ Elemental Motion|Spell Effect: Elemental Motion]]\n* * *\n\n**Heightened (6th)** You also gain a +10-foot status bonus to your Speeds.\n\n**Heightened (9th)** The status bonus increases to +20 feet."
+sourcebook: "_Pathfinder Player Core 2_"
+```

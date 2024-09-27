@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/elemental
   - pf2e/creature/type/plant
   - pf2e/creature/type/wood
+  - pf2eMonster
   - pf2e/creature/level/6
   - remaster
 statblock: inline
@@ -26,16 +27,17 @@ level: "Creature 6"
 
 alignment: ""
 size: "Medium"
-trait_01: "elemental"
-trait_02: "plant"
-trait_03: "wood"
+trait_01: [[elemental]]
+trait_02: [[plant]]
+trait_03: [[wood]]
 modifier: 16
 perception:
   - name: "Perception"
     desc: "+16; "
+languages: ""
 skills:
   - name: "Skills"
-    desc: "Nature: +15, Stealth: +16 (+19 when posing as a mundane wooden statue)"
+    desc: "Athletics: +15, Nature: +15, Stealth: +16"
 abilityMods: [2, 4, 3, 0, 1, 2]
 speed: 25 feet
 sourcebook: "_Pathfinder Rage of Elements_"
@@ -71,6 +73,12 @@ attacks:
   - name: "[[Bestiary Ability Glossary/Knockdown|Knockdown]]"
     desc: "`pf2:1`  "
  
+```
+
+```encounter-table
+name: Carved Beast
+creatures:
+  - 1: Carved Beast
 ```
 
 

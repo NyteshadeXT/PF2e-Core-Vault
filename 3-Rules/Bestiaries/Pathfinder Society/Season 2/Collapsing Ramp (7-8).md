@@ -4,6 +4,7 @@ obsidianUIMode: preview
 noteType: pf2eHazard
 tags:
   - environmental
+  - pf2eHazard
 
 source: Pathfinder Society Scenario #2-22: Breaking the Storm: Excising Ruination
 aliases: "Compendium.pf2e.pfs-season-2-bestiary.Actor.LdZgV7b5BhCF0Ye6" 
@@ -21,7 +22,7 @@ name: "Collapsing Ramp (7-8)"
 level: "Hazard 6"
 
 
-trait_01: "environmental"
+trait_01: [[environmental]]
 modifier: 15
 sourcebook: "_Pathfinder Society Scenario #2-22: Breaking the Storm: Excising Ruination_"
 perception:
@@ -40,9 +41,15 @@ attacks:
   - name: ""
 
   - name: "Collapse"
-    desc: "`pf2:r` **Trigger** A creature walks onto the collapse site\n**Effect** The triggering creature falls off the Colossus and lands on the ground, taking 40 bludgeoning damage. They can use the [[Actions/Grab an Edge|Grab an Edge]] reaction to avoid falling (DC 22 Reflex check save)."
+    desc: "`pf2:r` **Trigger** A creature walks onto the collapse site\n* * *\n\n**Effect** The triggering creature falls off the Colossus and lands on the ground, taking 40 bludgeoning damage. They can use the [[Actions/Grab an Edge|Grab an Edge]] reaction to avoid falling (DC 22 Reflex check save)."
 
 
 
+```
+
+```encounter-table
+name: Collapsing Ramp (7-8)
+creatures:
+  - 1: Collapsing Ramp (7-8)
 ```
 

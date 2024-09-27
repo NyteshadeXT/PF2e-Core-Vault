@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/human
   - pf2e/creature/type/humanoid
   - pf2e/creature/type/lawful
+  - pf2eMonster
   - pf2e/creature/level/15
 statblock: inline
 name: "Bellator Mortus Soldier"
@@ -23,13 +24,13 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #186: Ghost King&#x27;s Rage"
 name: "Bellator Mortus Soldier"
 level: "Creature 15"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Medium"
-trait_01: "evil"
-trait_02: "human"
-trait_03: "humanoid"
-trait_04: "lawful"
+trait_01: [[evil]]
+trait_02: [[human]]
+trait_03: [[humanoid]]
+trait_04: [[lawful]]
 modifier: 26
 perception:
   - name: "Perception"
@@ -80,6 +81,12 @@ attacks:
   - name: "Coordinated Assault"
     desc: "`pf2:1`  The Bellator Mortus acts as part of a well-trained unit. Their Strikes deal an additional 4d6 damage to creatures within reach of at least one of the Bellator Mortus's allies."
  
+```
+
+```encounter-table
+name: Bellator Mortus Soldier
+creatures:
+  - 1: Bellator Mortus Soldier
 ```
 
 

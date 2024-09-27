@@ -7,8 +7,9 @@ tags:
   - trait/investigator
   - trait/common
   - category/class
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.pVDgiaqu1RbCOhuv"
-license: OGL
+license: ORC
 ---
 # Foresee Danger `pf2:r`
 ## Feat 12
@@ -29,5 +30,5 @@ The triggering attack roll targets your Perception DC instead of your AC. Though
 
 For example, an enemy with sneak attack would still deal extra damage to you for being [[Conditions/Off-Guard|Off-Guard]], even though you wouldn't take the -2 circumstance penalty when defending against the attack.
 
-*Source: Pathfinder Advanced Player's Guide*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

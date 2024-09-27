@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/human
   - pf2e/creature/type/humanoid
   - pf2e/creature/type/suli
+  - pf2eMonster
   - pf2e/creature/level/1
 statblock: inline
 name: "Suli Dune Dancer"
@@ -26,9 +27,9 @@ level: "Creature 1"
 
 alignment: ""
 size: "Medium"
-trait_01: "human"
-trait_02: "humanoid"
-trait_03: "suli"
+trait_01: [[human]]
+trait_02: [[humanoid]]
+trait_03: [[suli]]
 modifier: 5
 perception:
   - name: "Perception"
@@ -56,7 +57,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Elemental Bulwark"
-    desc: "`pf2:r` (air,earth,fire,water) **Trigger** An enemy is about to damage the dune dancer with cold, electricity, or fire, or with a spell that has the air, earth, fire, or water trait\n**Effect** The dune dancer gain resistance 2 against the triggering damage"
+    desc: "`pf2:r` (air,earth,fire,water) **Trigger** An enemy is about to damage the dune dancer with cold, electricity, or fire, or with a spell that has the air, earth, fire, or water trait\n* * *\n\n**Effect** The dune dancer gain resistance 2 against the triggering damage"
 
 attacks:
   - name: ""
@@ -68,8 +69,14 @@ attacks:
     desc: "DC 17, attack +9; __1st __ (2 slots) _[[Spells/Dizzying Colors|Color Spray]]_, _[[Spells/Soothe|Soothe]]_, _[[Spells/Sure Strike|True Strike]]_\n__Cantrips__  __(1st)__ _[[Spells/Detect Magic|Detect Magic]]_, _[[Spells/Guidance|Guidance]]_, _[[Spells/Courageous Anthem|Inspire Courage]]_, _[[Spells/Telekinetic Hand|Mage Hand]]_, _[[Spells/Shield|Shield]]_, _[[Spells/Telekinetic Projectile|Telekinetic Projectile]]_"
 
   - name: "Elemental Assault"
-    desc: "`pf2:2`  Elemental magic fills the dune dancer's body or weapon. The dune dancer chooses one element and makes a melee Strike. The Strike deals an additional 1d4 damage of the indicated type and has the trait corresponding to the element:\n*   **Air** electricity\n*   **Earth** bludgeoning\n*   **Fire** fire\n*   **Water** cold"
+    desc: "`pf2:2`  Elemental magic fills the dune dancer's body or weapon. The dune dancer chooses one element and makes a melee Strike. The Strike deals an additional 1d4 damage of the indicated type and has the trait corresponding to the element:\n\n*   **Air** electricity\n*   **Earth** bludgeoning\n*   **Fire** fire\n*   **Water** cold"
  
+```
+
+```encounter-table
+name: Suli Dune Dancer
+creatures:
+  - 1: Suli Dune Dancer
 ```
 
 

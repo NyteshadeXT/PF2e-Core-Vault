@@ -6,8 +6,9 @@ tags:
   - trait/archetype
   - trait/common
   - category/class
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.Ig431EeRy3FKMmMq"
-license: OGL
+license: ORC
 ---
 # Keen Recollection
 ## Feat 6
@@ -21,5 +22,5 @@ license: OGL
 * * *
 You can recall all sorts of information. You gain the [[Class Features/Keen Recollection|Keen Recollection]] class feature.
 
-*Source: Pathfinder Advanced Player's Guide*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

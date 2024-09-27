@@ -6,6 +6,7 @@ tags:
   - chaotic
   - magical
   - trap
+  - pf2eHazard
   - complex
 source: Pathfinder Society Scenario #3-18: Dacilane Academy&#x27;s Delightful Disaster
 aliases: "Compendium.pf2e.pfs-season-3-bestiary.Actor.ayfX6eOrfR8695ev" 
@@ -23,9 +24,9 @@ name: "Cooking Catastrophe"
 level: "Hazard 3"
 
 trait_06: "Complex"
-trait_01: "chaotic"
-trait_02: "magical"
-trait_03: "trap"
+trait_01: [[chaotic]]
+trait_02: [[magical]]
+trait_03: [[trap]]
 modifier: 10
 sourcebook: "_Pathfinder Society Scenario #3-18: Dacilane Academy's Delightful Disaster_"
 perception:
@@ -44,10 +45,10 @@ attacks:
   - name: ""
 
   - name: "Bubble Over"
-    desc: "`pf2:r` **Trigger** A creature enters the room\n**Effect** The hazard rolls initiative."
+    desc: "`pf2:r` **Trigger** A creature enters the room\n* * *\n\n**Effect** The hazard rolls initiative."
 
   - name: "Revolting Mixture"
-    desc: "`pf2:0` **Trigger** A creature fails an attempt to Disarm the trap\n**Effect** The incorrect execution of the recipe releases a nauseating odor. The triggering creature must succeed at a DC 20 Fortitude check save or be [[Conditions/Sickened 1|Sickened 1]]."
+    desc: "`pf2:0` **Trigger** A creature fails an attempt to Disarm the trap\n* * *\n\n**Effect** The incorrect execution of the recipe releases a nauseating odor. The triggering creature must succeed at a DC 20 Fortitude check save or be [[Conditions/Sickened|Sickened 1]]."
   - name: "Melee"
     desc: "Splatter +12 (range 30 feet) "
 
@@ -55,5 +56,11 @@ attacks:
     desc: "(3 actions) The trap uses each of its actions to make a splatter attack against a random creature in the kitchen. The trap never targets a student, as they are out of phase with it. For every successful disable attempt on the trap, it loses an action."
   - name: "Reset"
     desc: "The trap deactivates after 1 minute, destroying all of the food. If left untouched, it resets automatically in 24 hours."
+```
+
+```encounter-table
+name: Cooking Catastrophe
+creatures:
+  - 1: Cooking Catastrophe
 ```
 

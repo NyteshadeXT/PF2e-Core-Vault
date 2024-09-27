@@ -16,7 +16,9 @@ license: OGL
 
 
 
-**Major Boon:** Ghlaunder rewards his followers with the ability to safely spread illness—or on occasion, offers respite to desperate petitioners who please him. You do not take negative effects from any disease you are infected with unless or until Ghlaunder rescinds this benefit.
+Ghlaunder rewards his followers with the ability to safely spread illness—or on occasion, offers respite to desperate petitioners who please him.
+
+You do not take negative effects from any disease you are infected with unless or until Ghlaunder rescinds this benefit.
 
 *Source: Pathfinder Lost Omens: Gods & Magic*
 *OGL*

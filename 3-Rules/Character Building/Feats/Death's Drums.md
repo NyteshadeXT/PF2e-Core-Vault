@@ -20,7 +20,7 @@ license: OGL
 
 Your life has been spent challenging death itself, and proximity to that implacable foe only makes your heart beat harder.
 
-When you are taking persistent damage or your [[Conditions/Wounded 1|Wounded]] value is 1 or greater, you gain a +2 circumstance bonus to Fortitude saving throws.
+When you are taking persistent damage or your [[Conditions/Wounded|Wounded]] value is 1 or greater, you gain a +2 circumstance bonus to Fortitude saving throws.
 
 *Source: Pathfinder Advanced Player's Guide*
 *OGL*

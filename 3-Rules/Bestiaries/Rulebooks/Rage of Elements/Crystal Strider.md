@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.rage-of-elements-bestiary.Actor.5nf90vfzOVFbGEZZ"
 tags:
   - pf2e/creature/type/earth
   - pf2e/creature/type/elemental
+  - pf2eMonster
   - pf2e/creature/level/10
   - remaster
 statblock: inline
@@ -25,8 +26,8 @@ level: "Creature 10"
 
 alignment: ""
 size: "Medium"
-trait_01: "earth"
-trait_02: "elemental"
+trait_01: [[earth]]
+trait_02: [[elemental]]
 modifier: 20
 perception:
   - name: "Perception"
@@ -53,7 +54,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Crystal Refraction"
-    desc: "`pf2:0`  **Trigger** The crystal strider is targeted by a light effect\n**Effect** The strider redirects the triggering effect to a different creature of its choice within 30 feet or absorbs the effect harmlessly, reducing the number of rounds left to recharge Release Light by 1."
+    desc: "`pf2:0`  **Trigger** The crystal strider is targeted by a light effect\n* * *\n\n**Effect** The strider redirects the triggering effect to a different creature of its choice within 30 feet or absorbs the effect harmlessly, reducing the number of rounds left to recharge Release Light by 1."
 
 attacks:
   - name: ""
@@ -74,8 +75,14 @@ attacks:
     desc: "`pf2:1` (attack,light,primal) The strider emits the light that continually refracts within them to cast [[Spells/Chromatic Ray|Chromatic Ray]] as an innate primal spell heightened to 5th rank, with a +21 spell attack roll. The crystal strider can't Release Light again for 1d4 rounds."
 
   - name: "[[Bestiary Ability Glossary/Trample|Trample]]"
-    desc: "`pf2:3`  Large or smaller, leg, DC 29 Reflex check\n"
+    desc: "`pf2:3`  Large or smaller, leg, DC 29 Reflex check\n\n* * *\n"
  
+```
+
+```encounter-table
+name: Crystal Strider
+creatures:
+  - 1: Crystal Strider
 ```
 
 

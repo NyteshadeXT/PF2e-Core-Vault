@@ -6,8 +6,9 @@ tags:
   - trait/ratfolk
   - trait/common
   - category/ancestry
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.NaY9HXeQ0yhoIorO"
-license: OGL
+license: ORC
 ---
 # Skittering Sneak
 ## Feat 13
@@ -18,7 +19,7 @@ license: OGL
 
 
 
-You squish, slink, and skitter from cover to cover with great speed and stealth. You can move up to your full Speed when you Sneak.
+You squish, slink, and skitter from cover to cover with great speed and stealth. You can move up to your full Speed when you [[Actions/Sneak|Sneak]].
 
-*Source: Pathfinder Lost Omens: Ancestry Guide*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

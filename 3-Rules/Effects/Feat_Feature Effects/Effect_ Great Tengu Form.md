@@ -4,8 +4,9 @@ title: "Effect: Great Tengu Form"
 cssclasses: pf2e,pf2e-spell
 tags:
   - trait/common
+  - remaster
 aliases: "Compendium.pf2e.feat-effects.Item.BC92TyFzRCWq8fu0"
-license: OGL
+license: ORC
 ---
 # Effect: Great Tengu Form
 ## Level 17
@@ -16,9 +17,9 @@ license: OGL
 
 
 
-Once per day, as part of using Long-Nosed Form, you also gain the benefits of 4th-rank [[Spells/Enlarge|Enlarge]]and [[Spells/Fly|Fly]].
+Granted by [[Feats/Great Tengu Form|Great Tengu Form]]
 
-This lasts for 5 minutes or until you shift out of your Long-Nosed Form, whichever happens first.
+You also gain the benefits of 4th-rank [[Spells/Enlarge|Enlarge]] and [[Spells/Fly|Fly]] spells.
 
-*Source: Pathfinder Lost Omens: Ancestry Guide*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

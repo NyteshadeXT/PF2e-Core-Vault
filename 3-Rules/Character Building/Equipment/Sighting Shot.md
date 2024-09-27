@@ -13,7 +13,7 @@ license: OGL
 ---
 # Sighting Shot
 ## Item 8
-### [[consumable]][[3-Rules/Character Building/Spells/Light]][[magical]]
+### [[consumable]][[light]][[magical]]
 
 **Category** ammo; 
 **Price** 72 gp; 

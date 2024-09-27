@@ -13,7 +13,7 @@ license: OGL
 ---
 # Dragon Mouth Pistol
 ## Item 0
-### [uncommon](uncommon "Uncommon Rarity Trait")[[concussive]][[scatter-5]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[concussive]][[scatter-5]]
 
 |  |  |
 | -- | -- |

@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/grippli
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/8
 statblock: inline
 name: "Froglegs"
@@ -22,12 +23,12 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #170: Spoken on the Song Wind"
 name: "Froglegs"
 level: "Creature 8"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Small"
-trait_01: "evil"
-trait_02: "grippli"
-trait_03: "humanoid"
+trait_01: [[evil]]
+trait_02: [[grippli]]
+trait_03: [[humanoid]]
 modifier: 16
 perception:
   - name: "Perception"
@@ -35,7 +36,7 @@ perception:
 languages: "Common, Elven, Grippli, Iruxi"
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +16, Athletics: +15, Deception: +16, Intimidation: +16, Stealth: +16, Thievery: +18 (+20 to Pick a Lock), Underworld Lore: +15"
+    desc: "Acrobatics: +16, Athletics: +15, Deception: +16, Intimidation: +16, Stealth: +16, Thievery: +18, Underworld Lore: +15"
 abilityMods: [3, 4, 0, 1, 2, 4]
 speed: 30 feet,  climb 20 feet
 sourcebook: "_Pathfinder #170: Spoken on the Song Wind_"
@@ -73,11 +74,17 @@ attacks:
     desc: "  Froglegs deals an additional 2d6 precision damage with weapons from the knife group, and knives gain the deadly d10 weapon property while she wields them. (Already added to dagger attacks)"
 
   - name: "Roll and Snatch"
-    desc: "  **Trigger** Froglegs successfully [[Actions/Tumble Through|Tumbles Through]] an enemy's space\n**Effect** Froglegs attempts to [[Actions/Disarm|Disarm]] or [[Actions/Trip|Trip]] the enemy. She can use her tongue for this attempt and does not need to have a free hand."
+    desc: "  **Trigger** Froglegs successfully [[Actions/Tumble Through|Tumbles Through]] an enemy's space\n* * *\n\n**Effect** Froglegs attempts to [[Actions/Disarm|Disarm]] or [[Actions/Trip|Trip]] the enemy. She can use her tongue for this attempt and does not need to have a free hand."
 
   - name: "Twin Slash"
     desc: "`pf2:1` (flourish) Froglegs makes two dagger Strikes."
  
+```
+
+```encounter-table
+name: Froglegs
+creatures:
+  - 1: Froglegs
 ```
 
 

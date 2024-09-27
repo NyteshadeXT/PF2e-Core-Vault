@@ -13,7 +13,7 @@ license: ORC
 ---
 # Accolade Robe
 ## Item 10
-### [[arcane]][[focused]][[invested]]
+### [[3-Rules/Rule References/Arcane]][[focused]][[invested]]
 
 
 **Price** 1000 gp; 
@@ -26,7 +26,9 @@ The pockets of the robe tie to an extradimensional space that can hold 1 Bulk of
 
 * * *
 
-**Activate—Review** `pf2:1` (concentrate, manipulate) You retrieve an item of your choice from the robe's storage, then Recall Knowledge.
+**Activate—Review** `pf2:1` (concentrate, manipulate)
+
+**Effect** You retrieve an item of your choice from the robe's storage, then Recall Knowledge.
 
 * * *
 

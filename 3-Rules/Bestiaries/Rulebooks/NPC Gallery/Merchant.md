@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.npc-gallery.Actor.cAOWcPIjtZYXYZ3i"
 tags:
   - pf2e/creature/type/human
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/-1
 statblock: inline
 name: "Merchant"
@@ -24,8 +25,8 @@ level: "Creature -1"
 
 alignment: ""
 size: "Medium"
-trait_01: "human"
-trait_02: "humanoid"
+trait_01: [[human]]
+trait_02: [[humanoid]]
 modifier: 6
 perception:
   - name: "Perception"
@@ -33,7 +34,7 @@ perception:
 languages: "Common"
 skills:
   - name: "Skills"
-    desc: "Deception: +10, Diplomacy: +12, Mercantile Lore: +10, Performance: +8, Society: +8"
+    desc: "Deception: +10, Diplomacy: +12, Performance: +8, Society: +8, Mercantile Lore: +10"
 abilityMods: [2, 0, -1, 2, 2, 4]
 speed: 25 feet
 sourcebook: "_Pathfinder Gamemastery Guide_"
@@ -64,6 +65,12 @@ attacks:
   - name: "Ranged"
     desc: "`pf2:1` Crossbow +4 (range increment 120 feet, reload 1)\n__Damage__  1d8 piercing"
  
+```
+
+```encounter-table
+name: Merchant
+creatures:
+  - 1: Merchant
 ```
 
 

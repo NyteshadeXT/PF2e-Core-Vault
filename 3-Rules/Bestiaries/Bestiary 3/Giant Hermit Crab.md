@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.pathfinder-bestiary-3.Actor.istUwJdW3Mlln2hb"
 tags:
   - pf2e/creature/type/amphibious
   - pf2e/creature/type/animal
+  - pf2eMonster
   - pf2e/creature/level/5
 statblock: inline
 name: "Giant Hermit Crab"
@@ -25,12 +26,13 @@ level: "Creature 5"
 
 alignment: ""
 size: "Large"
-trait_01: "amphibious"
-trait_02: "animal"
+trait_01: [[amphibious]]
+trait_02: [[animal]]
 modifier: 13
 perception:
   - name: "Perception"
     desc: "+13; Darkvision, Tremorsense (Imprecise) 15 Feet"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Acrobatics: +9, Athletics: +15, Stealth: +9"
@@ -52,7 +54,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Protective Pinch"
-    desc: "`pf2:r`  **Trigger** A creature adjacent to the hermit crab attempts to Strike the hermit crab while it is Retracted.\n**Effect** The hermit crab makes a big claw Strike against the triggering creature."
+    desc: "`pf2:r`  **Trigger** A creature adjacent to the hermit crab attempts to Strike the hermit crab while it is Retracted.\n* * *\n\n**Effect** The hermit crab makes a big claw Strike against the triggering creature."
 
 attacks:
   - name: ""
@@ -64,14 +66,20 @@ attacks:
     desc: "`pf2:1` Claw +15 (agile)\n__Damage__  2d4 + 8 piercing"
 
   - name: "[[Bestiary Ability Glossary/Constrict|Constrict]]"
-    desc: "`pf2:1`  1d8 + 6 bludgeoning, DC 22 Fortitude check\n"
+    desc: "`pf2:1`  1d8+6 bludgeoning, DC 22 Fortitude check\n\n* * *\n"
 
   - name: "Retract"
-    desc: "`pf2:1`  The hermit crab curls fully into its shell to protect itself. This gives it a +4 circumstance bonus to AC, removes its weakness to bludgeoning damage, and grants it resistance 5 to piercing and slashing damage.\nThe only actions the hermit crab can use while in this state are Protective Pinch and Interact to come out of its shell."
+    desc: "`pf2:1`  The hermit crab curls fully into its shell to protect itself. This gives it a +4 circumstance bonus to AC, removes its weakness to bludgeoning damage, and grants it resistance 5 to piercing and slashing damage.\n\nThe only actions the hermit crab can use while in this state are Protective Pinch and Interact to come out of its shell."
 
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
     desc: "`pf2:1`  "
  
+```
+
+```encounter-table
+name: Giant Hermit Crab
+creatures:
+  - 1: Giant Hermit Crab
 ```
 
 

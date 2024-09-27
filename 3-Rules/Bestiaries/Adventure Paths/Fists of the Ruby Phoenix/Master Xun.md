@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/human
   - pf2e/creature/type/humanoid
   - pf2e/creature/type/lawful
+  - pf2eMonster
   - pf2e/creature/level/14
 statblock: inline
 name: "Master Xun"
@@ -23,13 +24,13 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #167: Ready? Fight!"
 name: "Master Xun"
 level: "Creature 14"
-rare_03: "Rare"
+rare_03: [[Rare]]
 alignment: ""
 size: "Medium"
-trait_01: "evil"
-trait_02: "human"
-trait_03: "humanoid"
-trait_04: "lawful"
+trait_01: [[evil]]
+trait_02: [[human]]
+trait_03: [[humanoid]]
+trait_04: [[lawful]]
 modifier: 25
 perception:
   - name: "Perception"
@@ -66,7 +67,7 @@ attacks:
     desc: "`pf2:1` Dagger +28 (agile, finesse, thrown 10 ft.)\n__Damage__  2d4 + 13 piercing 1d6 electricity"
 
   - name: "Lasting Debilitating Strike"
-    desc: "  **Trigger** The xun's Strike hits an [[Conditions/Off-Guard|Off-Guard]] creature and deals damage\n**Effect** The xun applies one of the following debilitations, which lasts until the end of the xun's next turn or for 1 week on a critical hit.\n**Debilitation** The target takes a -10-foot status penalty to its Speeds.\n**Debilitation** The target becomes [[Conditions/Enfeebled 1|Enfeebled 1]]."
+    desc: "  **Trigger** The xun's Strike hits an [[Conditions/Off-Guard|Off-Guard]] creature and deals damage\n* * *\n\n**Effect** The xun applies one of the following debilitations, which lasts until the end of the xun's next turn or for 1 week on a critical hit.\n\n**Debilitation** The target takes a -10-foot status penalty to its Speeds.\n\n**Debilitation** The target becomes [[Conditions/Enfeebled|Enfeebled 1]]."
 
   - name: "Looming Threat"
     desc: "`pf2:1`  The master xun [[Actions/Step|Steps]] or [[Actions/Feint|Feints]], then [[Actions/Demoralize|Demoralizes]]."
@@ -74,6 +75,12 @@ attacks:
   - name: "[[Bestiary Ability Glossary/Sneak Attack|Sneak Attack]]"
     desc: "  The master xun deals an extra 3d6 precision damage to [[Conditions/Off-Guard|Off-Guard]] opponents."
  
+```
+
+```encounter-table
+name: Master Xun
+creatures:
+  - 1: Master Xun
 ```
 
 

@@ -10,6 +10,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/humanoid
   - pf2e/creature/type/lawful
+  - pf2eMonster
   - pf2e/creature/level/1
 statblock: inline
 name: "Duergar Bombardier"
@@ -28,11 +29,11 @@ level: "Creature 1"
 
 alignment: ""
 size: "Medium"
-trait_01: "duergar"
-trait_02: "dwarf"
-trait_03: "evil"
-trait_04: "humanoid"
-trait_05: "lawful"
+trait_01: [[duergar]]
+trait_02: [[dwarf]]
+trait_03: [[evil]]
+trait_04: [[humanoid]]
+trait_05: [[lawful]]
 modifier: 4
 perception:
   - name: "Perception"
@@ -89,6 +90,12 @@ attacks:
   - name: "Quick Bomber"
     desc: "`pf2:1`  The duergar can use Interact to draw a bomb, then Strike with it."
  
+```
+
+```encounter-table
+name: Duergar Bombardier
+creatures:
+  - 1: Duergar Bombardier
 ```
 
 

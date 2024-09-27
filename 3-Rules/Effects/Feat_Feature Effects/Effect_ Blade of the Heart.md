@@ -1,0 +1,27 @@
+---
+obsidianUIMode: preview
+title: "Effect: Blade of the Heart"
+cssclasses: pf2e,pf2e-spell
+tags:
+  - trait/
+  - remaster
+aliases: "Compendium.pf2e.feat-effects.Item.5yfA4sAo0CjXIYDr"
+license: ORC
+---
+# Effect: Blade of the Heart
+## Level 1
+### 
+
+
+
+
+
+
+Granted [[Feats/Blade of the Heart|Blade of the Heart]]
+
+Your transformed weapon gains one of the following weapon property runes on your weapon: corrosive, flaming, frost, shock, thundering, or vitalizing.
+
+At 16th level, you draw the greater version of the rune instead.
+
+*Source: Pathfinder Lost Omens: Tian Xia Character Guide*
+*ORC*

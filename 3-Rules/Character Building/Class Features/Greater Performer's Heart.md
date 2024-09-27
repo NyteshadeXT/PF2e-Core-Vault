@@ -3,6 +3,7 @@ obsidianUIMode: preview
 title: "Greater Performer's Heart"
 cssclasses: pf2e,pf2e-spell
 tags:
+  - trait/bard
   - trait/common
   - category/classfeature
   - remaster
@@ -11,7 +12,7 @@ license: ORC
 ---
 # Greater Performer's Heart
 ## Feat 17
-### 
+### [[3-Rules/trait_reference/bard]]
 
 **Category** classfeature; 
 

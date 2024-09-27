@@ -4,6 +4,7 @@ obsidianUIMode: preview
 noteType: pf2eHazard
 tags:
   - haunt
+  - pf2eHazard
   - complex
 source: Pathfinder Adventure: Malevolence
 aliases: "Compendium.pf2e.malevolence-bestiary.Actor.Gywa8GSJtDCPSjbt" 
@@ -21,7 +22,7 @@ name: "Architect and Hunter"
 level: "Hazard 6"
 
 trait_06: "Complex"
-trait_01: "haunt"
+trait_01: [[haunt]]
 modifier: 15
 sourcebook: "_Pathfinder Adventure: Malevolence_"
 ac: 24
@@ -49,10 +50,10 @@ attacks:
   - name: ""
 
   - name: "Brain Pain"
-    desc: "`pf2:r` (mental) **Trigger** One round passes after a living creature opens the door to either of the children's rooms\n**Effect** Both doors to the rooms open violently as the PCs experience visions of the twins having the tops of their heads cut away by unseen blades, followed by the ghastly sight of brains being placed into the empty skulls within. All creatures in either C14a, C14b, or in the hallway outside the rooms must attempt a DC 24 Will check save. The haunt then rolls initiative.\n**Critical Success** The creature is unaffected.\n**Success** The creature is [[Conditions/Sickened 1|Sickened 1]] by the pain.\n**Failure** The creature takes 2d8 + 9 mental damage and increases their malevolence value by 1.\n**Critical Failure** The creature takes 4d8 + 9 mental damage, is [[Conditions/Stunned 1|Stunned 1]] by the pain, and increases their malevolence value by 2."
+    desc: "`pf2:r` (mental) **Trigger** One round passes after a living creature opens the door to either of the children's rooms\n* * *\n\n**Effect** Both doors to the rooms open violently as the PCs experience visions of the twins having the tops of their heads cut away by unseen blades, followed by the ghastly sight of brains being placed into the empty skulls within. All creatures in either C14a, C14b, or in the hallway outside the rooms must attempt a DC 24 Will check save. The haunt then rolls initiative.\n* * *\n\n**Critical Success** The creature is unaffected.\n\n**Success** The creature is [[Conditions/Sickened|Sickened 1]] by the pain.\n\n**Failure** The creature takes 2d8+9 mental damage and increases their malevolence value by 1.\n\n**Critical Failure** The creature takes 4d8+9 mental damage, is [[Conditions/Stunned|Stunned 1]] by the pain, and increases their malevolence value by 2."
 
   - name: "Shackled Memories"
-    desc: "action The target believes a miniature version of their childhood home has built up around them, locking them in place. The target must attempt a DC 24 Will check save.\n**Critical Success** The target is unaffected and is temporarily immune to Shackled Memories for 24 hours.\n**Success** The target is [[Conditions/Off-Guard|Off-Guard]] until the end of their next turn.\n**Failure** The target is off-guard and [[Conditions/Immobilized|Immobilized]] until the end of their next turn.\n**Critical Failure** The target is [[Conditions/Restrained|Restrained]] for 1 minute or until they Escape."
+    desc: "action The target believes a miniature version of their childhood home has built up around them, locking them in place. The target must attempt a DC 24 Will check save.\n* * *\n\n**Critical Success** The target is unaffected and is temporarily immune to Shackled Memories for 24 hours.\n\n**Success** The target is [[Conditions/Off-Guard|Off-Guard]] until the end of their next turn.\n\n**Failure** The target is off-guard and [[Conditions/Immobilized|Immobilized]] until the end of their next turn.\n\n**Critical Failure** The target is [[Conditions/Restrained|Restrained]] for 1 minute or until they Escape."
   - name: "Melee"
     desc: "Hunting Shot +17 () The target imagines they're bleeding to death."
 
@@ -60,5 +61,11 @@ attacks:
     desc: "(2 actions) The architect (Mira Xarwin) uses Shackled Memories to cause a strange, house-like cage of solid ectoplasm to spring up around a randomly determined target. This house bears an uncanny resemblance to the home the target grew up in. The hunter (Marney Xarwin) then attempts a hunting shot Strike at that target."
   - name: "Reset"
     desc: "The haunt resets automatically 1 hour after it's defeated or after no living creatures remain in the area to play with. Removing Marney's and Mira's brains from the brain collector statue in area E9 destroys the haunt."
+```
+
+```encounter-table
+name: Architect and Hunter
+creatures:
+  - 1: Architect and Hunter
 ```
 

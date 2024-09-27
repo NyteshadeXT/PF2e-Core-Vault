@@ -10,6 +10,7 @@ tags:
   - pf2e/creature/type/ghoul
   - pf2e/creature/type/undead
   - pf2e/creature/type/unholy
+  - pf2eMonster
   - pf2e/creature/level/5
 statblock: inline
 name: "Priest Of Kabriri"
@@ -27,11 +28,11 @@ level: "Creature 5"
 
 alignment: ""
 size: "Medium"
-trait_01: "chaotic"
-trait_02: "evil"
-trait_03: "ghoul"
-trait_04: "undead"
-trait_05: "unholy"
+trait_01: [[chaotic]]
+trait_02: [[evil]]
+trait_03: [[ghoul]]
+trait_04: [[undead]]
+trait_05: [[unholy]]
 modifier: 13
 perception:
   - name: "Perception"
@@ -59,7 +60,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Ecstatic Ululation"
-    desc: "`pf2:r` (divine,void) **Trigger** A ghoul ally within 30 feet Consumes Flesh to regain Hit Points\n**Effect** The priest of Kabriri unleashes a rapturous howl in praise of their god. All ghouls within 30 feet of the priest of Kabriri, including the priest but not the triggering ghoul, regain half as many Hit Points as the triggering ghoul. All living creatures within 30 feet take void damage equal to half the number of Hit Points the triggering ghoul gained, with a DC 20 Fortitude check. Only one Ecstatic Ululation can affect a use of Consume Flesh. Any beyond the first have no effect."
+    desc: "`pf2:r` (divine,void) **Trigger** A ghoul ally within 30 feet Consumes Flesh to regain Hit Points\n* * *\n\n**Effect** The priest of Kabriri unleashes a rapturous howl in praise of their god. All ghouls within 30 feet of the priest of Kabriri, including the priest but not the triggering ghoul, regain half as many Hit Points as the triggering ghoul. All living creatures within 30 feet take void damage equal to half the number of Hit Points the triggering ghoul gained, with a DC 20 Fortitude check. Only one Ecstatic Ululation can affect a use of Consume Flesh. Any beyond the first have no effect."
 
 attacks:
   - name: ""
@@ -80,7 +81,7 @@ attacks:
     desc: "2 Focus Points, DC 23, attack +13; __3rd __  _[[Spells/Overstuff|Overstuff]]_, _[[Spells/Touch of Undeath|Touch of Undeath]]_"
 
   - name: "[[Creature Family Ability Glossary/(Ghoul) Ghoul Fever|Ghoul Fever]]"
-    desc: " (disease) **Saving Throw** DC 20 Fortitude check\n**Stage 1** carrier with no ill effect (1 day)\n**Stage 2** 2d6 void damage and regains half as many Hit Points from all healing (1 day)\n**Stage 3** as stage 2 (1 day)\n**Stage 4** 2d6 void damage and gains no benefit from healing (1 day)\n**Stage 5** as stage 4 (1 day)\n**Stage 6** dead, and rises as a [[Bestiary 1/Ghoul|Ghoul]] the next midnight."
+    desc: " (disease) **Saving Throw** DC 20 Fortitude check\n* * *\n\n**Stage 1** carrier with no ill effect (1 day)\n\n**Stage 2** 2d6 void damage and regains half as many Hit Points from all healing (1 day)\n\n**Stage 3** as stage 2 (1 day)\n\n**Stage 4** 2d6 void damage and gains no benefit from healing (1 day)\n\n**Stage 5** as stage 4 (1 day)\n\n**Stage 6** dead, and rises as a [[Bestiary 1/Ghoul|Ghoul]] the next midnight."
 
   - name: "[[Creature Family Ability Glossary/(Ghoul) Paralysis|Paralysis]]"
     desc: " (incapacitation,occult) Any living, non-elf creature hit by a priest's jaws or claws Strike must succeed at a DC 20 Fortitude check save or become [[Conditions/Paralyzed|Paralyzed]]. It can attempt a new save at the end of each of its turns, and the DC cumulatively decreases by 1 on each such save."
@@ -88,6 +89,12 @@ attacks:
   - name: "[[Creature Family Ability Glossary/(Ghoul) Swift Leap|Swift Leap]]"
     desc: "`pf2:1` (move) The priest jumps up to half its Speed. This movement doesn't trigger reactions."
  
+```
+
+```encounter-table
+name: Priest Of Kabriri
+creatures:
+  - 1: Priest Of Kabriri
 ```
 
 

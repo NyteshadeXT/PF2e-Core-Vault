@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/chaotic
   - pf2e/creature/type/good
   - pf2e/creature/type/holy
+  - pf2eMonster
   - pf2e/creature/level/9
 statblock: inline
 name: "Garuda"
@@ -27,10 +28,10 @@ level: "Creature 9"
 
 alignment: ""
 size: "Medium"
-trait_01: "celestial"
-trait_02: "chaotic"
-trait_03: "good"
-trait_04: "holy"
+trait_01: [[celestial]]
+trait_02: [[chaotic]]
+trait_03: [[good]]
+trait_04: [[holy]]
 modifier: 20
 perception:
   - name: "Perception"
@@ -79,8 +80,14 @@ attacks:
     desc: "`pf2:2`  The garuda flies up to their Speed in a straight line, descending at least 10 feet, and then makes two talon Strikes."
 
   - name: "Wind Blast"
-    desc: "`pf2:2` (air) The garuda flaps their wings with intense force. This has the same effect as [[Spells/Gust of Wind|Gust of Wind]] (DC 27 Fortitude check) but in a 30-foot cone.\nIn an area with loose debris (at the GM's discretion), the gusts from the garuda's wings create a cloud that obscures vision, making any creature in the area [[Conditions/Concealed|Concealed]], and creatures outside the area are concealed to those within the area."
+    desc: "`pf2:2` (air) The garuda flaps their wings with intense force. This has the same effect as [[Spells/Gust of Wind|Gust of Wind]] (DC 27 Fortitude check) but in a @Template[cone|distance:30].\n\nIn an area with loose debris (at the GM's discretion), the gusts from the garuda's wings create a cloud that obscures vision, making any creature in the area [[Conditions/Concealed|Concealed]], and creatures outside the area are concealed to those within the area."
  
+```
+
+```encounter-table
+name: Garuda
+creatures:
+  - 1: Garuda
 ```
 
 

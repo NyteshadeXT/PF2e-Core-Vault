@@ -5,6 +5,7 @@ noteType: pf2eHazard
 tags:
   - mechanical
   - trap
+  - pf2eHazard
 
 source: Pathfinder #154: Siege of the Dinosaurs
 aliases: "Compendium.pf2e.extinction-curse-bestiary.Actor.RVPH12vtOWMuJx0L" 
@@ -22,14 +23,14 @@ name: "Spiked Barricade Trap"
 level: "Hazard 13"
 
 
-trait_01: "mechanical"
-trait_02: "trap"
+trait_01: [[mechanical]]
+trait_02: [[trap]]
 modifier: 22
 sourcebook: "_Pathfinder #154: Siege of the Dinosaurs_"
 ac: 34
 armorclass:
   - name: AC
-    desc: "34; __Fort__ +26, __Ref__ +18, __Will__ +0"
+    desc: "34; __Fort__ +26, __Ref__ +18, "
 hp: 88
 health:
   - name: ""
@@ -53,10 +54,16 @@ attacks:
     desc: "Spike +31 (reach 10 feet) No Multiple Attack Penalty"
 
   - name: "Spike Jab"
-    desc: "`pf2:r` (attack) **Trigger** A creature enters the area adjacent to a barrier\n**Effect** Wedges of sharpened stone extend from the barricade in all directions and attack all creatures within 10 feet."
+    desc: "`pf2:r` (attack) **Trigger** A creature enters the area adjacent to a barrier\n* * *\n\n**Effect** Wedges of sharpened stone extend from the barricade in all directions and attack all creatures within 10 feet."
 
 
   - name: "Reset"
     desc: "The trap must be manually reset by pushing the wedges back into place."
+```
+
+```encounter-table
+name: Spiked Barricade Trap
+creatures:
+  - 1: Spiked Barricade Trap
 ```
 

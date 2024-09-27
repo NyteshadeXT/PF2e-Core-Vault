@@ -6,6 +6,7 @@ cssClasses: pf2e
 aliases: "Compendium.pf2e.pfs-season-1-bestiary.Actor.QZVLjVPLl0PNo2K3" 
 tags:
   - pf2e/creature/type/construct
+  - pf2eMonster
   - pf2e/creature/level/5
 statblock: inline
 name: "Fleshforge Prototype (Leaping Charge)"
@@ -20,15 +21,15 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Society Scenario #1-01: The Absalom Initiation"
 name: "Fleshforge Prototype (Leaping Charge)"
 level: "Creature 5"
-rare_03: "Rare"
+rare_03: [[Rare]]
 alignment: ""
 size: "Medium"
-trait_01: "construct"
+trait_01: [[construct]]
 modifier: 9
 perception:
   - name: "Perception"
     desc: "+9; "
-languages: "Common"
+languages: "Common; (can&#x27;t speak any language)"
 skills:
   - name: "Skills"
     desc: "Acrobatics: +12, Athletics: +13, Survival: +9"
@@ -61,6 +62,12 @@ attacks:
   - name: "Leaping Charge"
     desc: "`pf2:1`  The fleshforge prototype Strides up to 10 feet, ignoring difficult terrain as it leaps over obstacles. It then makes a fist Strike, gaining a +1 circumstance bonus to its attack roll."
  
+```
+
+```encounter-table
+name: Fleshforge Prototype (Leaping Charge)
+creatures:
+  - 1: Fleshforge Prototype (Leaping Charge)
 ```
 
 

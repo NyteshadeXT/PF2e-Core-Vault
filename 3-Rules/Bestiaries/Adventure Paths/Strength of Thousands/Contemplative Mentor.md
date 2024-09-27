@@ -6,6 +6,7 @@ cssClasses: pf2e
 aliases: "Compendium.pf2e.strength-of-thousands-bestiary.Actor.0WFxanYfGdS7DSEK" 
 tags:
   - pf2e/creature/type/aberration
+  - pf2eMonster
   - pf2e/creature/level/18
 statblock: inline
 name: "Contemplative Mentor"
@@ -20,18 +21,18 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #173: Doorway to the Red Star"
 name: "Contemplative Mentor"
 level: "Creature 18"
-rare_03: "Rare"
+rare_03: [[Rare]]
 alignment: ""
 size: "Medium"
-trait_01: "aberration"
+trait_01: [[aberration]]
 modifier: 31
 perception:
   - name: "Perception"
     desc: "+31; Darkvision, Thoughtsense (Imprecise) 100 Feet"
-languages: "Akitonian"
+languages: "Akitonian; telepathy 100 feet; tongues"
 skills:
   - name: "Skills"
-    desc: "Arcana: +35, Deception: +32, Dimension of Time Lore: +35, Diplomacy: +32, Medicine: +31, Nature: +31, Occultism: +37, Society: +33"
+    desc: "Arcana: +35, Deception: +32, Diplomacy: +32, Medicine: +31, Nature: +31, Occultism: +37, Society: +33, Dimension of Time Lore: +35"
 abilityMods: [-2, 6, 0, 9, 5, 6]
 speed: 5 feet,  fly 30 feet
 sourcebook: "_Pathfinder #173: Doorway to the Red Star_"
@@ -47,7 +48,7 @@ health:
 abilities_top:
   - name: ""
 
-  - name: "Temporal Sense 100 feet"
+  - name: "Temporal Sense"
     desc: "  A contemplative meditant can always roll Dimension of Time Lore for initiative. When it does, it gains a +2 circumstance bonus to the roll as it acts on flashes of insight harvested from potential futures."
 
   - name: "Thoughtsense 100 feet"
@@ -71,11 +72,17 @@ attacks:
     desc: "_[[Spells/Rite of the Red Star|Rite of the Red Star]]_"
 
   - name: "Project Calm"
-    desc: "`pf2:3` (emotion,mental,occult) The contemplative mentor projects a field of perfect calm in a 60-foot emanation. All creatures within the area of effect must succeed at a DC 40 Will check save or be unable to take hostile actions for 1 round.\nAfter using this ability, the contemplative is [[Conditions/Drained 1|Drained 1]], or increases its drained value by 1 if it was already drained. A contemplative mentor can't use this ability if its drained value is 3 or more."
+    desc: "`pf2:3` (emotion,mental,occult) The contemplative mentor projects a field of perfect calm in a 60-foot emanation. All creatures within the area of effect must succeed at a DC 40 Will check save or be unable to take hostile actions for 1 round.\n\nAfter using this ability, the contemplative is [[Conditions/Drained|Drained 1]], or increases its drained value by 1 if it was already drained. A contemplative mentor can't use this ability if its drained value is 3 or more."
 
   - name: "Temporal Suppression"
-    desc: "`pf2:1` (mental,occult) **Frequency** once per round\n**Effect** The contemplative attempts to hinder a target creature's personal flow of time. The target must be within 60 feet, and once targeted must attempt a DC 40 Will check save, becoming [[Conditions/Slowed 1|Slowed 1]] on a failure or [[Conditions/Slowed 1|Slowed 2]] on a critical failure.\nEach time an affected creature ends its turn, its slowed value decreases by 1. A creature that critically succeeds on their save against Temporal Suppression is temporarily immune to it for 24 hours."
+    desc: "`pf2:1` (mental,occult) **Frequency** once per round\n* * *\n\n**Effect** The contemplative attempts to hinder a target creature's personal flow of time. The target must be within 60 feet, and once targeted must attempt a DC 40 Will check save, becoming [[Conditions/Slowed|Slowed 1]] on a failure or [[Conditions/Slowed|Slowed 2]] on a critical failure.\n\nEach time an affected creature ends its turn, its slowed value decreases by 1. A creature that critically succeeds on their save against Temporal Suppression is temporarily immune to it for 24 hours."
  
+```
+
+```encounter-table
+name: Contemplative Mentor
+creatures:
+  - 1: Contemplative Mentor
 ```
 
 

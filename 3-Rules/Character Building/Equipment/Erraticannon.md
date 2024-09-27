@@ -13,7 +13,7 @@ license: OGL
 ---
 # Erraticannon
 ## Item 9
-### [rare](rare "Rare Rarity Trait")[[magical]][[modular]]
+### [rare](rare.md "Rare Rarity Trait")[[3-Rules/Rule References/Magical]][[modular]]
 
 |  |  |
 | -- | -- |
@@ -48,7 +48,7 @@ This _+1 striking [[Equipment/Hand Cannon|Hand Cannon]]_ is festooned with so ma
 
 **Frequency** once per day
 
-**Effect** You set the _erraticannon_ to maximum power and unleash a blast that deals 1d6 acid, 1d6 cold, 1d6 electricity, 1d6 fire, 1d6 sonic, 1d6 bludgeoning, 1d6 piercing, and 1d6 slashing damage to all creatures in a 30-foot cone (DC 25 Reflex check save).
+**Effect** You set the _erraticannon_ to maximum power and unleash a blast that deals 1d6 acid, 1d6 cold, 1d6 electricity, 1d6 fire, 1d6 sonic, 1d6 bludgeoning, 1d6 piercing, and 1d6 slashing damage to all creatures in a @Template\[cone|distance:30\] (DC 25 Reflex check save).
 
 *Source: Pathfinder #180: The Smoking Gun*
 *OGL*

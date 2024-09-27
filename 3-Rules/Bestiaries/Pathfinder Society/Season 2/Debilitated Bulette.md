@@ -6,6 +6,7 @@ cssClasses: pf2e
 aliases: "Compendium.pf2e.pfs-season-2-bestiary.Actor.Qdx9UbT68Elqneti" 
 tags:
   - pf2e/creature/type/animal
+  - pf2eMonster
   - pf2e/creature/level/6
 statblock: inline
 name: "Debilitated Bulette"
@@ -20,14 +21,15 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Society Scenario #2-12: Snakes in the Grass"
 name: "Debilitated Bulette"
 level: "Creature 6"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "huge"
-trait_01: "animal"
+trait_01: [[animal]]
 modifier: 14
 perception:
   - name: "Perception"
     desc: "+14; Darkvision, Scent (Imprecise) 30 Feet"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Acrobatics: +13, Athletics: +15"
@@ -66,6 +68,12 @@ attacks:
   - name: "Powerful Jumper"
     desc: "  A bulette jumps 10 feet up on a successful [[Actions/High Jump|High Jump]] or 20 feet up on a critical success."
  
+```
+
+```encounter-table
+name: Debilitated Bulette
+creatures:
+  - 1: Debilitated Bulette
 ```
 
 

@@ -6,8 +6,9 @@ tags:
   - trait/duskwalker
   - trait/common
   - category/ancestry
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.DGtUIMliflzGXc6E"
-license: OGL
+license: ORC
 ---
 # Ghost Hunter
 ## Feat 1
@@ -18,9 +19,7 @@ license: OGL
 
 
 
-Your connection to the Boneyard ensures that your blows strike true against spectral beings.
+Your connection to the Boneyard ensures that your blows strike true against spectral beings. Your weapon and unarmed Strikes against incorporeal creatures become magical. If they are already magical, they instead gain the effects of a _ghost touch_ property rune.
 
-Your weapon and unarmed attack Strikes against incorporeal creatures become magical. If they are already magical, they instead gain the effects of a [[Equipment/Ghost Touch|Ghost Touch]] property rune.
-
-*Source: Pathfinder Advanced Player's Guide*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

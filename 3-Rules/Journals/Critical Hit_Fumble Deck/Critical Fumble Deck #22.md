@@ -8,7 +8,7 @@ tags:
 ---
 # Wide Open
 
-> You are [[Other Effects/Effect\_ Off-Guard until end of your next turn|Effect: Off-Guard until end of your next turn]] .
+> You are [[Other Effects/Effect_ Off-Guard until end of your next turn|Effect: Off-Guard until end of your next turn]].
 
 `Melee`
 

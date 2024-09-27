@@ -6,6 +6,7 @@ cssClasses: pf2e
 aliases: "Compendium.pf2e.pathfinder-monster-core.Actor.1x0BdpVQLX7o3rrA" 
 tags:
   - pf2e/creature/type/animal
+  - pf2eMonster
   - pf2e/creature/level/7
   - remaster
 statblock: inline
@@ -25,7 +26,7 @@ level: "Creature 7"
 
 alignment: ""
 size: "huge"
-trait_01: "animal"
+trait_01: [[animal]]
 modifier: 13
 perception:
   - name: "Perception"
@@ -69,6 +70,12 @@ attacks:
   - name: "Grabbing Trunk"
     desc: "  A Medium or smaller creature hit by the elephant's trunk is [[Conditions/Grabbed|Grabbed]]. If the elephant moves, it can bring the Grabbed creature along with it."
  
+```
+
+```encounter-table
+name: Elephant
+creatures:
+  - 1: Elephant
 ```
 
 

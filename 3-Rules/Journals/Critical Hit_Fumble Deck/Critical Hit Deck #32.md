@@ -26,6 +26,6 @@ tags:
 
 # Doomed!
 
-> The target is [[Conditions/Slowed 1|Slowed 1]] for 1 round, and is also [[Conditions/Doomed 1|Doomed 1]].
+> The target is [[Conditions/Slowed|Slowed 1]] for 1 round, and is also [[Conditions/Doomed|Doomed 1]].
 
 `Bomb or Spell`

@@ -6,12 +6,13 @@ tags:
   - trait/barbarian
   - trait/common
   - category/classfeature
+  - remaster
 aliases: "Compendium.pf2e.classfeatures.Item.k7M9jedvt31AJ5ZR"
-license: OGL
+license: ORC
 ---
 # Fury Instinct
 ## Feat 1
-### [[barbarian]]
+### [[3-Rules/trait_reference/barbarian]]
 
 **Category** classfeature; 
 
@@ -20,17 +21,11 @@ license: OGL
 
 Your rage comes from a deep and purely personal well within you. You use your rage as you choose.
 
-## Anathema and Instinct Ability
+**Instinct Ability—Unstoppable Frenzy** Increase the additional damage from Rage from 2 to 3. You gain a bonus 1st-level barbarian feat.
 
-You don't have an anathema or an instinct ability. Instead, you gain an additional 1st-level barbarian feat.
+**Specialization Ability (7th)** Increase the additional damage from Rage from 3 to 7. If you have greater weapon specialization, instead increase the additional damage from Rage to 13.
 
-## Specialization AbilityLevel 7
+**Raging Resistance (9th)** You resist physical weapon damage, but not physical damage from other sources (such as unarmed attacks).
 
-Increase the additional damage from Rage from 2 to 6. If you have greater weapon specialization, instead increase the additional damage from Rage to 12.
-
-## Raging ResistanceLevel 9
-
-You resist physical weapon damage, but not physical damage from other sources (such as unarmed attacks).
-
-*Source: Pathfinder Core Rulebook*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

@@ -17,7 +17,9 @@ license: OGL
 
 
 
-You can temporarily ascend to a greater form. You can cast 8th-rank [[Spells/Righteous Might|Righteous Might]] once per day as an occult innate spell. When you do, your form appears unremarkable, rather than clad in powerful armaments.
+You can temporarily ascend to a greater form.
+
+You can cast 8th-rank [[Spells/Sacred Form|Sacred Form]] once per day as an occult innate spell. When you do, your form appears unremarkable, rather than clad in powerful armaments.
 
 *Source: Pathfinder Lost Omens: Gods & Magic*
 *OGL*

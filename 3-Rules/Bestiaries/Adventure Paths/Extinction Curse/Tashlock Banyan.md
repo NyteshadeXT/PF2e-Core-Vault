@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.extinction-curse-bestiary.Actor.j31HXlZiUqQrAHSB"
 tags:
   - pf2e/creature/type/human
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/12
 statblock: inline
 name: "Tashlock Banyan"
@@ -21,11 +22,11 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #154: Siege of the Dinosaurs"
 name: "Tashlock Banyan"
 level: "Creature 12"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Medium"
-trait_01: "human"
-trait_02: "humanoid"
+trait_01: [[human]]
+trait_02: [[humanoid]]
 modifier: 20
 perception:
   - name: "Perception"
@@ -59,7 +60,7 @@ abilities_mid:
     desc: "  Tashlock isn't off-guard to creatures of 12th level or lower that are hidden, undetected, flanking, or using surprise attack."
 
   - name: "Nimble Dodge"
-    desc: "`pf2:r`  **Trigger** Tashlock is targeted with a melee or ranged attack by an attacker he can see\n**Effect** Tashlock gains a +2 circumstance bonus to AC against the triggering attack."
+    desc: "`pf2:r`  **Trigger** Tashlock is targeted with a melee or ranged attack by an attacker he can see\n* * *\n\n**Effect** Tashlock gains a +2 circumstance bonus to AC against the triggering attack."
 
 attacks:
   - name: ""
@@ -71,7 +72,7 @@ attacks:
     desc: "`pf2:1` Composite Shortbow +26 (deadly 2d10, magical, propulsive, range increment 60 feet, reload 0)\n__Damage__  2d6 + 11 piercing"
 
   - name: "Pierced Tendon"
-    desc: "  When Tashlock deals damage to a target on a critical hit, the target is [[Conditions/Slowed 1|Slowed 2]] until the end of Tashlock's next turn."
+    desc: "  When Tashlock deals damage to a target on a critical hit, the target is [[Conditions/Slowed|Slowed 2]] until the end of Tashlock's next turn."
 
   - name: "Quick Draw"
     desc: "`pf2:1`  Tashlock Interacts to draw a weapon, then Strikes with that weapon."
@@ -85,6 +86,12 @@ attacks:
   - name: "Surprise Attack"
     desc: "  On the first round of combat, creatures that haven't acted yet are [[Conditions/Off-Guard|Off-Guard]] to Tashlock."
  
+```
+
+```encounter-table
+name: Tashlock Banyan
+creatures:
+  - 1: Tashlock Banyan
 ```
 
 

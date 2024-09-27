@@ -10,6 +10,7 @@ tags:
   - pf2e/creature/type/good
   - pf2e/creature/type/holy
   - pf2e/creature/type/lawful
+  - pf2eMonster
   - pf2e/creature/level/1
 statblock: inline
 name: "Lantern Archon"
@@ -28,11 +29,11 @@ level: "Creature 1"
 
 alignment: ""
 size: "Small"
-trait_01: "archon"
-trait_02: "celestial"
-trait_03: "good"
-trait_04: "holy"
-trait_05: "lawful"
+trait_01: [[archon]]
+trait_02: [[celestial]]
+trait_03: [[good]]
+trait_04: [[holy]]
+trait_05: [[lawful]]
 modifier: 6
 perception:
   - name: "Perception"
@@ -59,7 +60,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Retributive Strike"
-    desc: "`pf2:r`  **Damage Reduction** 3\nA lantern archon can also make a Retributive Strike with its light ray.\n**Trigger** An enemy damages the monster's ally, and both are within 15 feet of the monster.\n**Effect** The ally gains resistance to all damage against the triggering damage equal to 2 + the monster's level. If the foe is within reach, the monster makes a melee Strike against it."
+    desc: "`pf2:r`  **Damage Reduction** 3\n\nA lantern archon can also make a Retributive Strike with its light ray.\n* * *\n\n**Trigger** An enemy damages the monster's ally, and both are within 15 feet of the monster.\n* * *\n\n**Effect** The ally gains resistance to all damage against the triggering damage equal to 2 + the monster's level. If the foe is within reach, the monster makes a melee Strike against it."
 
 attacks:
   - name: ""
@@ -71,11 +72,17 @@ attacks:
     desc: "DC 17, attack +9; __4th __  _[[Spells/Read Omens|Read Omens]]_; __1st __  _[[Spells/Detect Alignment|Detect Alignment (At Will) (Evil Only)]]_, _[[Spells/Heal|Heal]]_\n__Cantrips__  __(1st)__ _[[Spells/Light|Light]]_"
 
   - name: "Gestalt"
-    desc: "`pf2:3` (concentrate,divine,holy) Nine lantern archons can use this activity, all within 1 round of the first, to merge together to form a composite being for 7 rounds that appears as a glowing warrior of light.\nThe [[Bestiary 1/Lantern Archon (Gestalt)|Gestalt]] has the base statistics of a legion archon (AC, saving throws, attacks, skills, Speeds, and so on) but the spells and special abilities of a lantern archon. Additionally, it has a ranged light ray Strike (Light Ray +18, Damage 3d4 fire and 3d4 spirit), and the bonus from its Lantern of Hope increases to +3.\nWhen the gestalt separates, its remaining Hit Points are divided evenly among the lantern archons, and if the gestalt had fewer than 9 HP, some of the lantern archons die."
+    desc: "`pf2:3` (concentrate,divine,holy) Nine lantern archons can use this activity, all within 1 round of the first, to merge together to form a composite being for 7 rounds that appears as a glowing warrior of light.\n\nThe [[Bestiary 1/Lantern Archon (Gestalt)|Gestalt]] has the base statistics of a legion archon (AC, saving throws, attacks, skills, Speeds, and so on) but the spells and special abilities of a lantern archon. Additionally, it has a ranged light ray Strike (Light Ray +18, Damage 3d4 fire and 3d4 spirit), and the bonus from its Lantern of Hope increases to +3.\n\nWhen the gestalt separates, its remaining Hit Points are divided evenly among the lantern archons, and if the gestalt had fewer than 9 HP, some of the lantern archons die."
 
   - name: "Lantern of Hope"
-    desc: "`pf2:1` (concentrate,divine,mental) The lantern archon shines as a beacon of hope.\nGood allies within 30 feet gain a +1 status bonus to damage rolls and to saving throws against [[Spells/Wave of Despair|Wave of Despair]].\n[[Bestiary Effects/Effect_ Lantern of Hope|Effect: Lantern of Hope]]"
+    desc: "`pf2:1` (concentrate,divine,mental) The lantern archon shines as a beacon of hope.\n\nGood allies within 30 feet gain a +1 status bonus to damage rolls and to saving throws against [[Spells/Wave of Despair|Wave of Despair]].\n\n[[Bestiary Effects/Effect_ Lantern of Hope|Effect: Lantern of Hope]]"
  
+```
+
+```encounter-table
+name: Lantern Archon
+creatures:
+  - 1: Lantern Archon
 ```
 
 

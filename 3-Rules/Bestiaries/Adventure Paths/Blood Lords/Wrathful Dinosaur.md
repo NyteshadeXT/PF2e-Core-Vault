@@ -3,6 +3,7 @@ title: Wrathful Dinosaur
 obsidianUIMode: preview
 noteType: pf2eHazard
 tags:
+  - pf2eHazard
 
 source: Pathfinder #182: Graveclaw
 aliases: "Compendium.pf2e.blood-lords-bestiary.Actor.i722khDhe3zTB881" 
@@ -38,10 +39,16 @@ attacks:
   - name: ""
 
   - name: "Triceratops Trample"
-    desc: "`pf2:r` (primal) **Trigger** A living creature approaches within 10 feet of the figurine\n**Effect** A spectral triceratops appears around the figurine and charges toward the triggering creature, affecting a line 30 feet long. Creatures in this area take 4d10 + 22 bludgeoning damage (DC 26 Reflex check)."
+    desc: "`pf2:r` (primal) **Trigger** A living creature approaches within 10 feet of the figurine\n* * *\n\n**Effect** A spectral triceratops appears around the figurine and charges toward the triggering creature, affecting a line 30 feet long. Creatures in this area take 4d10+22 bludgeoning damage (DC 26 Reflex check)."
 
 
   - name: "Reset"
     desc: "1 day"
+```
+
+```encounter-table
+name: Wrathful Dinosaur
+creatures:
+  - 1: Wrathful Dinosaur
 ```
 

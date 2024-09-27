@@ -13,7 +13,7 @@ license: OGL
 ---
 # Crushing Coils
 ## Item 5
-### [rare](rare "Rare Rarity Trait")[[cursed]][[invested]][[magical]]
+### [rare](rare.md "Rare Rarity Trait")[[cursed]][[invested]][[3-Rules/Rule References/Magical]]
 
 **Category** light; **Group** leather
 **Price** 2 gp; 

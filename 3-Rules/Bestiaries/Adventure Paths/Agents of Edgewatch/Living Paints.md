@@ -3,6 +3,7 @@ title: Living Paints
 obsidianUIMode: preview
 noteType: pf2eHazard
 tags:
+  - pf2eHazard
 
 source: Pathfinder #162: Ruins of the Radiant Siege
 aliases: "Compendium.pf2e.agents-of-edgewatch-bestiary.Actor.7Q35HATCilOb1xXX" 
@@ -25,7 +26,7 @@ sourcebook: "_Pathfinder #162: Ruins of the Radiant Siege_"
 ac: 10
 armorclass:
   - name: AC
-    desc: "10; __Fort__ +0, __Ref__ +0, __Will__ +0"
+    desc: "10; "
 hp: 10
 health:
   - name: ""
@@ -47,9 +48,15 @@ attacks:
   - name: ""
 
   - name: "Capture Subject"
-    desc: "`pf2:r` (arcane) **Trigger** A creature steps into the same space as the paints\n**Effect** The brushes animate and attempt to paint all creatures within 30 feet. The creatures must succeed at a DC 41 Reflex check save to avoid the brushes and splashes from paint cans or be converted into living artwork for 1 hour.\nA creature that becomes living artwork is immediately bound to the nearest flat surface of its size or larger within 30 feet. The creature can move only along flat surfaces such as floors and walls. This allows it to end its movement wrapped around corners when on a continuous surface.\nWhile bound to a surface, the creature can attack from its space as normal, including against other creatures bound to the same surface.\nIf the surface it's on is destroyed (such as a portrait hit by a [[Spells/Fireball|Fireball]] spell or a wall being demolished), the creature takes 10d6 damage and is shunted to the nearest flat surface. If there is no flat surface within 5 feet, the creature is destroyed."
+    desc: "`pf2:r` (arcane) **Trigger** A creature steps into the same space as the paints\n* * *\n\n**Effect** The brushes animate and attempt to paint all creatures within 30 feet. The creatures must succeed at a DC 41 Reflex check save to avoid the brushes and splashes from paint cans or be converted into living artwork for 1 hour.\n\nA creature that becomes living artwork is immediately bound to the nearest flat surface of its size or larger within 30 feet. The creature can move only along flat surfaces such as floors and walls. This allows it to end its movement wrapped around corners when on a continuous surface.\n\nWhile bound to a surface, the creature can attack from its space as normal, including against other creatures bound to the same surface.\n\nIf the surface it's on is destroyed (such as a portrait hit by a [[Spells/Fireball|Fireball]] spell or a wall being demolished), the creature takes 10d6 damage and is shunted to the nearest flat surface. If there is no flat surface within 5 feet, the creature is destroyed."
 
 
 
+```
+
+```encounter-table
+name: Living Paints
+creatures:
+  - 1: Living Paints
 ```
 

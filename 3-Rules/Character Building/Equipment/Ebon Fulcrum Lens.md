@@ -11,14 +11,14 @@ license: OGL
 ---
 # Ebon Fulcrum Lens
 ## Item 12
-### [unique](unique "Unique Rarity Trait")[[invested]][[occult]]
+### [unique](unique.md "Unique Rarity Trait")[[invested]][[3-Rules/Rule References/Occult]]
 
 
 **Price** 2000 gp; 
 **Bulk** L; **Size** med
 **Usage** held-in-one-hand
 
-This strangest and most powerful of the _fulcrum lenses_ resembles a chip of smooth obsidian containing three dark glimmers of Nhimbaloth's essence. Incorporeal creatures can touch and carry the _Ebon Fulcrum Lens_. While you have the _Ebon Fulcrum Lens_ invested, and you're a corporeal creature, you become insubstantial, gain the incorporeal trait, and are [[Conditions/Drained 1|Drained 2]]. Your drained condition can't be reduced below 2 as long as you have the lens invested. You can activate the lens in the following ways. Both require expenditures of glimmers within the lens; once the lens is depleted of its three glimmers, it retains its ability to make corporeal creatures insubstantial but can't be used for its other abilities until its glimmers are restored (which generally requires a ritual or being steeped in an area of Nhimbaloth's power).
+This strangest and most powerful of the _fulcrum lenses_ resembles a chip of smooth obsidian containing three dark glimmers of Nhimbaloth's essence. Incorporeal creatures can touch and carry the _Ebon Fulcrum Lens_. While you have the _Ebon Fulcrum Lens_ invested, and you're a corporeal creature, you become insubstantial, gain the incorporeal trait, and are [[Conditions/Drained|Drained 2]]. Your drained condition can't be reduced below 2 as long as you have the lens invested. You can activate the lens in the following ways. Both require expenditures of glimmers within the lens; once the lens is depleted of its three glimmers, it retains its ability to make corporeal creatures insubstantial but can't be used for its other abilities until its glimmers are restored (which generally requires a ritual or being steeped in an area of Nhimbaloth's power).
 
 [[Equipment Effects/Effect_ Ebon Fulcrum Lens (Incorporeal)|Effect: Ebon Fulcrum Lens (Incorporeal)]]
 

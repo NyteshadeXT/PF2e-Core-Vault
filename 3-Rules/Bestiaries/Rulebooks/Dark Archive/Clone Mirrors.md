@@ -5,6 +5,7 @@ noteType: pf2eHazard
 tags:
   - magical
   - trap
+  - pf2eHazard
   - complex
 source: Pathfinder Dark Archive
 aliases: "Compendium.pf2e.pathfinder-dark-archive.Actor.Ldw3d0TYwtMywbM0" 
@@ -22,14 +23,14 @@ name: "Clone Mirrors"
 level: "Hazard 6"
 
 trait_06: "Complex"
-trait_01: "magical"
-trait_02: "trap"
+trait_01: [[magical]]
+trait_02: [[trap]]
 modifier: 11
 sourcebook: "_Pathfinder Dark Archive_"
 ac: 21
 armorclass:
   - name: AC
-    desc: "21; __Fort__ +17, __Ref__ +11, __Will__ +0"
+    desc: "21; __Fort__ +17, __Ref__ +11, "
 hp: 54
 health:
   - name: ""
@@ -51,11 +52,17 @@ attacks:
   - name: ""
 
   - name: "Spawn Reflection"
-    desc: "`pf2:r` (illusion) **Trigger** A creature is reflected in the mirror\n**Effect** The mirror creates a [[Dark Archive/Reflection|Reflection]] of the triggering creature, which Steps out of the mirror and into the hall. The trap then rolls initiative."
+    desc: "`pf2:r` (illusion) **Trigger** A creature is reflected in the mirror\n* * *\n\n**Effect** The mirror creates a [[Dark Archive/Reflection|Reflection]] of the triggering creature, which Steps out of the mirror and into the hall. The trap then rolls initiative."
 
   - name: "Routine"
     desc: "(2 actions) This trap loses 1 action for each mirror disabled. Each mirror uses 1 action to Spawn a Reflection of a creature reflected in the mirror. The hazard can have a maximum of four reflections spawned at once."
   - name: "Reset"
     desc: "1 day"
+```
+
+```encounter-table
+name: Clone Mirrors
+creatures:
+  - 1: Clone Mirrors
 ```
 

@@ -12,6 +12,7 @@ tags:
   - pf2e/creature/type/spirit
   - pf2e/creature/type/undead
   - pf2e/creature/type/unholy
+  - pf2eMonster
   - pf2e/creature/level/4
 statblock: inline
 name: "Ghost Of Diggen Thrune (1-2)"
@@ -29,13 +30,13 @@ level: "Creature 4"
 
 alignment: ""
 size: "Medium"
-trait_01: "chaotic"
-trait_02: "evil"
-trait_03: "ghost"
-trait_04: "incorporeal"
-trait_05: "spirit"
-trait_06: "undead"
-trait_07: "unholy"
+trait_01: [[chaotic]]
+trait_02: [[evil]]
+trait_03: [[ghost]]
+trait_04: [[incorporeal]]
+trait_05: [[spirit]]
+trait_06: [[undead]]
+trait_07: [[unholy]]
 modifier: 10
 perception:
   - name: "Perception"
@@ -43,7 +44,7 @@ perception:
 languages: "Common"
 skills:
   - name: "Skills"
-    desc: "Deception: +10, Dwelling Lore (applies to Diggen's Rest): +10, Stealth: +12"
+    desc: "Deception: +10, Stealth: +12, Dwelling Lore (applies to Diggen's Rest): +10"
 abilityMods: [-5, 3, 0, 0, 2, 2]
 speed:  fly 25 feet
 sourcebook: "_Pathfinder Society Scenario #1-11: Flames of Rebellion_"
@@ -68,7 +69,7 @@ abilities_mid:
     desc: "  Diggen Thrune can occupy a magical object. Diggen can't be targeted or harmed while occupying an object, but he can only exit the object with the assistance of a mortal in possession of the object."
 
   - name: "[[Creature Family Ability Glossary/(Ghost) Rejuvenation|Rejuvenation]]"
-    desc: " (divine) Setting Diggen free from his contractual obligations with Nashaxian allows him to move on to the afterlife.\nWhen a ghost is destroyed, it re-forms after 2d4 days within the location it's bound to, fully healed. A ghost can be permanently destroyed only if someone determines the reason for its existence and sets right whatever prevents the spirit from resting."
+    desc: " (divine) Setting Diggen free from his contractual obligations with Nashaxian allows him to move on to the afterlife.\n* * *\n\nWhen a ghost is destroyed, it re-forms after 2d4 days within the location it's bound to, fully healed. A ghost can be permanently destroyed only if someone determines the reason for its existence and sets right whatever prevents the spirit from resting."
 
 attacks:
   - name: ""
@@ -77,8 +78,14 @@ attacks:
     desc: "`pf2:1` Ghostly Hand +13 (agile, finesse, magical)\n__Damage__  2d6 + 2 void"
 
   - name: "[[Creature Family Ability Glossary/(Ghost) Frightful Moan|Frightful Moan]]"
-    desc: "`pf2:1` (auditory,divine,emotion,fear,mental) Diggen Thrune laments his fate, forcing each living creature within 30 feet to attempt a DC 21 Will check save. On a failure, a creature becomes [[Conditions/Frightened 1|Frightened 2]] (or [[Conditions/Frightened 1|Frightened 3]] on a critical failure). On a success, a creature is temporarily immune to this ghost's frightful moan for 1 minute."
+    desc: "`pf2:1` (auditory,divine,emotion,fear,mental) Diggen Thrune laments his fate, forcing each living creature within 30 feet to attempt a DC 21 Will check save. On a failure, a creature becomes [[Conditions/Frightened|Frightened 2]] (or [[Conditions/Frightened|Frightened 3]] on a critical failure). On a success, a creature is temporarily immune to this ghost's frightful moan for 1 minute."
  
+```
+
+```encounter-table
+name: Ghost Of Diggen Thrune (1-2)
+creatures:
+  - 1: Ghost Of Diggen Thrune (1-2)
 ```
 
 

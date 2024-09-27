@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/human
   - pf2e/creature/type/humanoid
   - pf2e/creature/type/lawful
+  - pf2eMonster
   - pf2e/creature/level/10
 statblock: inline
 name: "Andera Paldreen"
@@ -22,12 +23,12 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #152: Legacy of the Lost God"
 name: "Andera Paldreen"
 level: "Creature 10"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Medium"
-trait_01: "human"
-trait_02: "humanoid"
-trait_03: "lawful"
+trait_01: [[human]]
+trait_02: [[humanoid]]
+trait_03: [[lawful]]
 modifier: 21
 perception:
   - name: "Perception"
@@ -35,7 +36,7 @@ perception:
 languages: "Common, Elven, Halfling"
 skills:
   - name: "Skills"
-    desc: "Athletics: +19 (+22 to disarm), Criminal Lore: +19, Diplomacy: +22, Intimidation: +21, Society: +19, Survival: +17, Underworld Lore: +19"
+    desc: "Athletics: +19, Diplomacy: +22, Intimidation: +21, Society: +19, Survival: +17, Criminal Lore: +19, Underworld Lore: +19"
 abilityMods: [3, 0, 5, 3, 5, 5]
 speed: 20 feet
 sourcebook: "_Pathfinder #152: Legacy of the Lost God_"
@@ -67,8 +68,14 @@ attacks:
     desc: "`pf2:1` +1 Striking Falchion +22 (forceful, sweep)\n__Damage__  2d10 + 7 slashing"
 
   - name: "Call to Halt"
-    desc: "`pf2:2` (auditory,concentrate,emotion,mental) Andera makes an Intimidation check check and compares it to the Will DC of each creature she chooses within 30 feet. Regardless of her result, the targets are temporarily immune for 10 minutes.\n**Critical Success** The target is [[Conditions/Paralyzed|Paralyzed]] for 1 minute and becomes [[Conditions/Frightened 1|Frightened 2]].\n**Success** The target takes a -10-foot penalty to all its Speeds for 1 minute and becomes [[Conditions/Frightened 1|Frightened 1]].\n[[Bestiary Effects/Effect_ Call to Halt (Success)|Effect: Call to Halt (Success)]]"
+    desc: "`pf2:2` (auditory,concentrate,emotion,mental) Andera makes an Intimidation check check and compares it to the Will DC of each creature she chooses within 30 feet. Regardless of her result, the targets are temporarily immune for 10 minutes.\n* * *\n\n**Critical Success** The target is [[Conditions/Paralyzed|Paralyzed]] for 1 minute and becomes [[Conditions/Frightened|Frightened 2]].\n\n**Success** The target takes a -10-foot penalty to all its Speeds for 1 minute and becomes [[Conditions/Frightened|Frightened 1]].\n\n[[Bestiary Effects/Effect_ Call to Halt (Success)|Effect: Call to Halt (Success)]]"
  
+```
+
+```encounter-table
+name: Andera Paldreen
+creatures:
+  - 1: Andera Paldreen
 ```
 
 

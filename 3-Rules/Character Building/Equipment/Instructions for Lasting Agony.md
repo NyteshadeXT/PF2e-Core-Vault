@@ -28,7 +28,7 @@ This worn and stained manual emits a chill when opened.
 
 * * *
 
-**Effect** If your next action is to cast a harmful necromancy spell that you prepared from this grimoire and that allows a saving throw, you warp and twist void energy into the spell to cause intense pain. If the target fails its saving throw against the spell, it becomes [[Conditions/Sickened 1|Sickened 1]] by the pain.
+**Effect** If your next action is to cast a harmful necromancy spell that you prepared from this grimoire and that allows a saving throw, you warp and twist void energy into the spell to cause intense pain. If the target fails its saving throw against the spell, it becomes [[Conditions/Sickened|Sickened 1]] by the pain.
 
 *Source: Pathfinder Secrets of Magic*
 *OGL*

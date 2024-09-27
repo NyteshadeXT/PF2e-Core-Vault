@@ -4,23 +4,31 @@ title: "Perfect Strike"
 noteType: pf2eSpell
 cssclasses: pf2e,pf2e-spell
 tags:
+  - pf2eSpell
   - spell/level/2
   - trait/concentrate
   - trait/focus
   - trait/fortune
   - trait/uncommon
+
 aliases: "Compendium.pf2e.spells-srd.Item.GQopUYTuhmtb7WMG" 
+license: OGL
 ---
-# Perfect Strike  `pf2:r`  
-## Focus 2
-### [uncommon](uncommon "Uncommon Rarity Trait")[[concentrate]][[focus]][[fortune]]
+```statblock
+name: "Perfect Strike  `pf2:r`"
+level: "Focus 2"
+rare_03: [[Uncommon]]
+trait_01: [[concentrate]]
+trait_02: [[focus]]
+trait_03: [[fortune]]
+layout: Basic Pathfinder 2e Layout
+columns: 1
+columnWidth: x
+abilities_top:
+  - name: ""
 
-* * * 
-**Trigger** You miss a Strike with an unarmed attack.
-
-* * *
-
-You call upon insight from your training to recover accuracy. Reroll the missed attack roll and keep the new result.
-
-*Source: Pathfinder Lost Omens: World Guide*
-*OGL*
+abilities_mid:
+  - name: ""
+    desc: "**Trigger** You miss a Strike with an unarmed attack.\n* * *\n\nYou call upon insight from your training to recover accuracy. Reroll the missed attack roll and keep the new result."
+sourcebook: "_Pathfinder Lost Omens: World Guide_"
+```

@@ -8,7 +8,7 @@ tags:
 ---
 # Shattered Hand
 
-> Normal damage. Until healed, the target is [[Conditions/Clumsy 1|Clumsy 2]] and [[Conditions/Enfeebled 1|Enfeebled 2]], and it can't use one of its hands (chosen randomly by the GM).
+> Normal damage. Until healed, the target is [[Conditions/Clumsy|Clumsy 2]] and [[Conditions/Enfeebled|Enfeebled 2]], and it can't use one of its hands (chosen randomly by the GM).
 
 `Bludgeoning`
 

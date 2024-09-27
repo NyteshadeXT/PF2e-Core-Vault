@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.pathfinder-monster-core.Actor.SMLMW81mKN5VlcVV"
 tags:
   - pf2e/creature/type/humanoid
   - pf2e/creature/type/serpentfolk
+  - pf2eMonster
   - pf2e/creature/level/8
   - remaster
 statblock: inline
@@ -23,11 +24,11 @@ token: [[modules/pf2e-tokens-bestiaries/portraits/humanoid/darklands/bone-prophe
 source: "Pathfinder Monster Core"
 name: "Bone Prophet"
 level: "Creature 8"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Medium"
-trait_01: "humanoid"
-trait_02: "serpentfolk"
+trait_01: [[humanoid]]
+trait_02: [[serpentfolk]]
 modifier: 15
 perception:
   - name: "Perception"
@@ -76,11 +77,17 @@ attacks:
     desc: "_[[Spells/Create Undead|Create Undead]]_"
 
   - name: "Raise Serpent"
-    desc: "`pf2:3` (divine) **Frequency** once per day\n* * *\n\n**Effect** The bone prophet animates corpses of snakes, serpentfolk, or similar serpentine creatures within a 30-foot emanation. Any flesh on the bodies sloughs off, and they rise as skeletons. The bone prophet can raise one Large creature as a [[Monster Core/Skeletal Giant|Skeletal Giant]] or up to three Medium creatures as [[Monster Core/Skeletal Champion|Skeletal Champions]]; the equipment and attacks might be different depending on the corpses' possessions. These skeletons have the minion trait and are under the bone prophet's control; the bone prophet can give all these minions the same command with a single action that has the concentrate trait. Any skeletal minions that still remain after 10 minutes crumble to dust."
+    desc: "`pf2:3` (divine) **Frequency** once per day\n* * *\n\n**Effect** The bone prophet animates corpses of snakes, serpentfolk, or similar serpentine creatures within a @Template[emanation|distance:30]. Any flesh on the bodies sloughs off, and they rise as skeletons. The bone prophet can raise one Large creature as a [[Monster Core/Skeletal Giant|Skeletal Giant]] or up to three Medium creatures as [[Monster Core/Skeletal Champion|Skeletal Champions]]; the equipment and attacks might be different depending on the corpses' possessions. These skeletons have the minion trait and are under the bone prophet's control; the bone prophet can give all these minions the same command with a single action that has the concentrate trait. Any skeletal minions that still remain after 10 minutes crumble to dust."
 
   - name: "Serpentfolk Venom"
-    desc: " (poison) **Saving Throw** DC 26 Fortitude check\n* * *\n\n**Maximum Duration** 6 rounds\n\n**Stage 1** 1d4 poison damage and [[Conditions/Enfeebled 1|Enfeebled 1]] (1 round)\n\n**Stage 2** 2d4 poison damage and enfeebled 1 (1 round)"
+    desc: " (poison) **Saving Throw** DC 26 Fortitude check\n* * *\n\n**Maximum Duration** 6 rounds\n\n**Stage 1** 1d4 poison damage and [[Conditions/Enfeebled|Enfeebled 1]] (1 round)\n\n**Stage 2** 2d4 poison damage and enfeebled 1 (1 round)"
  
+```
+
+```encounter-table
+name: Bone Prophet
+creatures:
+  - 1: Bone Prophet
 ```
 
 

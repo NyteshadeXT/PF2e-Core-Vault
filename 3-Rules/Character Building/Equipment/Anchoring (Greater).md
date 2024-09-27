@@ -10,7 +10,7 @@ license: OGL
 ---
 # Anchoring (Greater)
 ## Item 18
-### [uncommon](uncommon "Uncommon Rarity Trait")[[magical]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[3-Rules/Rule References/Magical]]
 
 
 **Price** 22000 gp; 

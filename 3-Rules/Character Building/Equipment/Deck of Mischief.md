@@ -3,6 +3,7 @@ obsidianUIMode: preview
 title: "Deck of Mischief"
 cssclasses: pf2e,pf2e-spell
 tags:
+  - trait/illusion
   - trait/magical
   - trait/uncommon
 aliases: "Compendium.pf2e.equipment-srd.Item.7ZfWiHqDyb6NllN1"
@@ -10,7 +11,7 @@ license: OGL
 ---
 # Deck of Mischief
 ## Item 4
-### [uncommon](uncommon "Uncommon Rarity Trait")[[magical]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[illusion]][[3-Rules/Rule References/Magical]]
 
 
 **Price** 75 gp; 

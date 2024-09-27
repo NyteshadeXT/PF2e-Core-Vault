@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.rage-of-elements-bestiary.Actor.XyU6fPkQJjS1VFTb"
 tags:
   - pf2e/creature/type/elemental
   - pf2e/creature/type/metal
+  - pf2eMonster
   - pf2e/creature/level/7
   - remaster
 statblock: inline
@@ -25,8 +26,8 @@ level: "Creature 7"
 
 alignment: ""
 size: "Medium"
-trait_01: "elemental"
-trait_02: "metal"
+trait_01: [[elemental]]
+trait_02: [[metal]]
 modifier: 15
 perception:
   - name: "Perception"
@@ -65,11 +66,17 @@ attacks:
     desc: "  A skymetal striker's inubrix fangs Strike ignores damage resistance from metal armor's armor specialization effects and the circumstance bonus to AC from metal shields, and it doesn't trigger the Shield Block reaction from a metal shield."
 
   - name: "Temporal Stutter"
-    desc: "  A creature not already affected by temporal stutter that takes damage from a skymetal striker's orichalcum fangs Strike must attempt a DC 25 Fortitude check save.\n**Critical Success** The target is [[Conditions/Quickened|Quickened 2]] until the end of its next turn.\n**Success** The target is [[Conditions/Quickened|Quickened 1]] until the end of its next turn.\n**Failure** The target is [[Conditions/Slowed 1|Slowed 1]] until the end of its next turn.\n**Critical Failure** The target is [[Conditions/Slowed 1|Slowed 2]] until the end of its next turn."
+    desc: "  A creature not already affected by temporal stutter that takes damage from a skymetal striker's orichalcum fangs Strike must attempt a DC 25 Fortitude check save.\n* * *\n\n**Success** The target is [[Conditions/Quickened|Quickened]] until the end of its next turn.\n\n**Failure** The target is [[Conditions/Slowed|Slowed 1]] until the end of its next turn.\n\n**Critical Failure** The target is [[Conditions/Slowed|Slowed 2]] until the end of its next turn."
 
   - name: "Two-Headed Assault"
     desc: "`pf2:2`  The skymetal striker makes one inubrix fangs Strike and one orichalcum fangs Strike, each against a different creature. Its multiple attack penalty increases only after all the attacks are made."
  
+```
+
+```encounter-table
+name: Skymetal Striker
+creatures:
+  - 1: Skymetal Striker
 ```
 
 

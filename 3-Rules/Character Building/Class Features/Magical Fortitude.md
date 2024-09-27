@@ -3,6 +3,10 @@ obsidianUIMode: preview
 title: "Magical Fortitude"
 cssclasses: pf2e,pf2e-spell
 tags:
+  - trait/oracle
+  - trait/sorcerer
+  - trait/witch
+  - trait/wizard
   - trait/common
   - category/classfeature
   - remaster
@@ -11,7 +15,7 @@ license: ORC
 ---
 # Magical Fortitude
 ## Feat 5
-### 
+### [[oracle]][[3-Rules/trait_reference/sorcerer]][[witch]][[3-Rules/trait_reference/wizard]]
 
 **Category** classfeature; 
 

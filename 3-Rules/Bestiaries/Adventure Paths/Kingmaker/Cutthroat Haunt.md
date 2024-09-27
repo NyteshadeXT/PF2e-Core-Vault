@@ -4,6 +4,7 @@ obsidianUIMode: preview
 noteType: pf2eHazard
 tags:
   - haunt
+  - pf2eHazard
 
 source: Pathfinder Kingmaker
 aliases: "Compendium.pf2e.kingmaker-bestiary.Actor.GiRckUiMamrdgjXQ" 
@@ -21,7 +22,7 @@ name: "Cutthroat Haunt"
 level: "Hazard 14"
 
 
-trait_01: "haunt"
+trait_01: [[haunt]]
 modifier: 31
 sourcebook: "_Pathfinder Kingmaker_"
 perception:
@@ -40,10 +41,16 @@ attacks:
   - name: ""
 
   - name: "Slash Throat"
-    desc: "`pf2:r` (divine) **Trigger** A creature comes within 5 feet of the bloodstain\n**Effect** A spectral sickle manifests behind the triggering creature, then slices around to cut at that creature's throat. The target must attempt a DC 39 Fortitude check save.\n**Critical Success** The target is unaffected.\n**Success** The target takes 4d10 void damage.\n**Failure** The target takes 4d10 + 35 void damage and is [[Conditions/Drained 1|Drained 1]]. An eerie white scar manifests on the target's neck; this scar persists as long as the drained effect caused by this haunt lasts.\n**Critical Failure** As failure but 4d10 + 70 void damage and [[Conditions/Drained 1|Drained 2]]. The eerie white scar periodically appears to drip with blood, but this is purely an unsettling cosmetic side-effect; it does no additional damage to the victim."
+    desc: "`pf2:r` (divine) **Trigger** A creature comes within 5 feet of the bloodstain\n* * *\n\n**Effect** A spectral sickle manifests behind the triggering creature, then slices around to cut at that creature's throat. The target must attempt a DC 39 Fortitude check save.\n* * *\n\n**Critical Success** The target is unaffected.\n\n**Success** The target takes 4d10 void damage.\n\n**Failure** The target takes 4d10+35 void damage and is [[Conditions/Drained|Drained 1]]. An eerie white scar manifests on the target's neck; this scar persists as long as the drained effect caused by this haunt lasts.\n\n**Critical Failure** As failure but 4d10+70 void damage and [[Conditions/Drained|Drained 2]]. The eerie white scar periodically appears to drip with blood, but this is purely an unsettling cosmetic side-effect; it does no additional damage to the victim."
 
 
   - name: "Reset"
     desc: "1 hour"
+```
+
+```encounter-table
+name: Cutthroat Haunt
+creatures:
+  - 1: Cutthroat Haunt
 ```
 

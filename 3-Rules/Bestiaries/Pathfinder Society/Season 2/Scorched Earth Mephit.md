@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/earth
   - pf2e/creature/type/elemental
   - pf2e/creature/type/fire
+  - pf2eMonster
   - pf2e/creature/level/1
 statblock: inline
 name: "Scorched Earth Mephit"
@@ -22,12 +23,12 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Society Scenario #2-19: Enter the Pallid Peak"
 name: "Scorched Earth Mephit"
 level: "Creature 1"
-rare_03: "Rare"
+rare_03: [[Rare]]
 alignment: ""
 size: "Small"
-trait_01: "earth"
-trait_02: "elemental"
-trait_03: "fire"
+trait_01: [[earth]]
+trait_02: [[elemental]]
+trait_03: [[fire]]
 modifier: 3
 perception:
   - name: "Perception"
@@ -63,11 +64,17 @@ attacks:
     desc: "DC 17, attack +9; __2nd __ (1 slots) _[[Spells/Enlarge|Enlarge (Self Only)]]_"
 
   - name: "Breath Weapon"
-    desc: "`pf2:2` (arcane,earth) The scorched earth mephit breathes rocks in a 15-foot cone that deals 2d4 fire damage and 1d4 persistent fire damage to each creature within the area (DC 17 Reflex check save).\nThe scorched earth mephit can't use Breath Weapon again for 1d4 rounds."
+    desc: "`pf2:2` (arcane,earth) The scorched earth mephit breathes rocks in a @Template[cone|distance:15] that deals 2d4 fire damage and 1d4 persistent fire damage to each creature within the area (DC 17 Reflex check save).\n\nThe scorched earth mephit can't use Breath Weapon again for 1d4 rounds."
 
   - name: "Magma Swim"
     desc: "  A scorched earth mephit's swim Speed functions only when the elemental is Swimming through magma or molten lava."
  
+```
+
+```encounter-table
+name: Scorched Earth Mephit
+creatures:
+  - 1: Scorched Earth Mephit
 ```
 
 

@@ -28,13 +28,13 @@ Bones protrude through your skin and your flesh rots, combining with a stench of
 
 #### Moderate Curse
 
-Your dead flesh continues to rot, affecting your health. You become [[Conditions/Drained 1|Drained 1]], and this drained condition is cumulative with any other drained conditions you gain. This drained condition is removed only when you Refocus; effects that normally remove the drained condition reduce your drained condition to drained 1 instead.
+Your dead flesh continues to rot, affecting your health. You become [[Conditions/Drained|Drained 1]], and this drained condition is cumulative with any other drained conditions you gain. This drained condition is removed only when you Refocus; effects that normally remove the drained condition reduce your drained condition to drained 1 instead.
 
 In addition, you gain resistance to poison equal to half your level. You gain a +4 status bonus to saves against diseases, poisons, and death effects, and if you roll a success on such a save, you get a critical success instead.
 
 #### Major Curse (11th)
 
-You stand just steps from the grave. You become [[Conditions/Wounded 1|Wounded 1]]. This wounded condition is removed only when you Refocus; effects that normally remove the wounded condition reduce your wounded condition to wounded 1 instead.
+You stand just steps from the grave. You become [[Conditions/Wounded|Wounded 1]]. This wounded condition is removed only when you Refocus; effects that normally remove the wounded condition reduce your wounded condition to wounded 1 instead.
 
 When you would attempt a recovery check, you can choose to get an automatic success instead of rolling, and if you roll a critical failure on a save against a disease, poison, or death effect, you get a failure instead.
 

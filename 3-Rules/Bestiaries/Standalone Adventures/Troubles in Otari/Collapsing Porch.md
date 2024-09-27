@@ -5,6 +5,7 @@ noteType: pf2eHazard
 tags:
   - mechanical
   - trap
+  - pf2eHazard
 
 source: Pathfinder Adventure: Troubles in Otari
 aliases: "Compendium.pf2e.troubles-in-otari-bestiary.Actor.0Fvulq5Zv4BQPvYV" 
@@ -22,14 +23,14 @@ name: "Collapsing Porch"
 level: "Hazard 1"
 
 
-trait_01: "mechanical"
-trait_02: "trap"
+trait_01: [[mechanical]]
+trait_02: [[trap]]
 modifier: 9
 sourcebook: "_Pathfinder Adventure: Troubles in Otari_"
 ac: 10
 armorclass:
   - name: AC
-    desc: "10; __Fort__ +1, __Ref__ +1, __Will__ +0"
+    desc: "10; __Fort__ +1, __Ref__ +1, "
 hp: 12
 health:
   - name: ""
@@ -56,5 +57,11 @@ attacks:
 
   - name: "Reset"
     desc: "Once this section of the porch has collapsed, creatures can still fall through the hole until the porch is Repaired."
+```
+
+```encounter-table
+name: Collapsing Porch
+creatures:
+  - 1: Collapsing Porch
 ```
 

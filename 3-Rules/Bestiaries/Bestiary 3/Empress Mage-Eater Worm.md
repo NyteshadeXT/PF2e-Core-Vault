@@ -6,6 +6,7 @@ cssClasses: pf2e
 aliases: "Compendium.pf2e.pathfinder-bestiary-3.Actor.JGpz9B0QkkAcHT4e" 
 tags:
   - pf2e/creature/type/animal
+  - pf2eMonster
   - pf2e/creature/level/7
 statblock: inline
 name: "Empress Mage-Eater Worm"
@@ -24,11 +25,12 @@ level: "Creature 7"
 
 alignment: ""
 size: "huge"
-trait_01: "animal"
+trait_01: [[animal]]
 modifier: 13
 perception:
   - name: "Perception"
     desc: "+13; Tremorsense (Imprecise) 60 Feet"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Athletics: +17, Stealth: +14"
@@ -50,7 +52,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Viviparous Birth"
-    desc: "  When killed, an empress mage-eater worm violently expels the young it carries. These young erupt as a [[Bestiary 3/Mage-Eater Worm Swarm|Mage-Eater Worm Swarm]] in the empress bore worm's space.\nIn addition, every creature within 20 feet takes 5d10 acid damage (DC 25 Reflex check save) from the splatter of caustic viscera."
+    desc: "  When killed, an empress mage-eater worm violently expels the young it carries. These young erupt as a [[Bestiary 3/Mage-Eater Worm Swarm|Mage-Eater Worm Swarm]] in the empress bore worm's space.\n\nIn addition, every creature within 20 feet takes 5d10 acid damage (DC 25 Reflex check save) from the splatter of caustic viscera."
 
 attacks:
   - name: ""
@@ -62,11 +64,17 @@ attacks:
     desc: "  An empress mage-eater worm can leave a tunnel behind itself when it burrows, and it usually does."
 
   - name: "Corrosive Wake"
-    desc: "`pf2:1`  The empress mage-eater worm Strides, leaving behind dribbles of acid in every square that it passes through.\nA creature that enters or begins its turn in such a square takes 3d6 acid damage (DC 22 Fortitude check save). The acid becomes inert after 1 minute."
+    desc: "`pf2:1`  The empress mage-eater worm Strides, leaving behind dribbles of acid in every square that it passes through.\n\nA creature that enters or begins its turn in such a square takes 3d6 acid damage (DC 22 Fortitude check save). The acid becomes inert after 1 minute."
 
   - name: "Painful Bite"
-    desc: "  The bite of an empress mage-eater worm causes excruciating pain. The target must succeed at a DC 25 Fortitude check save or become [[Conditions/Sickened 1|Sickened 1]] from the pain ([[Conditions/Sickened 1|Sickened 2]] on a critical failure).\nAdditionally, the worm also attempts a counteract check against a single spell affecting the creature (counteract rank 3, counteract modifier +12)."
+    desc: "  The bite of an empress mage-eater worm causes excruciating pain. The target must succeed at a DC 25 Fortitude check save or become [[Conditions/Sickened|Sickened 1]] from the pain ([[Conditions/Sickened|Sickened 2]] on a critical failure).\n\nAdditionally, the worm also attempts a counteract check against a single spell affecting the creature (counteract rank 3, counteract modifier +12)."
  
+```
+
+```encounter-table
+name: Empress Mage-Eater Worm
+creatures:
+  - 1: Empress Mage-Eater Worm
 ```
 
 

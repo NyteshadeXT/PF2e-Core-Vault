@@ -6,6 +6,7 @@ tags:
   - alchemical
   - mechanical
   - trap
+  - pf2eHazard
   - complex
 source: Pathfinder #159: All or Nothing
 aliases: "Compendium.pf2e.agents-of-edgewatch-bestiary.Actor.aLhAofozzdTuqfcg" 
@@ -23,15 +24,15 @@ name: "Acidic Poison Cloud Trap"
 level: "Hazard 13"
 
 trait_06: "Complex"
-trait_01: "alchemical"
-trait_02: "mechanical"
-trait_03: "trap"
+trait_01: [[alchemical]]
+trait_02: [[mechanical]]
+trait_03: [[trap]]
 modifier: 30
 sourcebook: "_Pathfinder #159: All or Nothing_"
 ac: 34
 armorclass:
   - name: AC
-    desc: "34; __Fort__ +28, __Ref__ +20, __Will__ +0"
+    desc: "34; __Fort__ +28, __Ref__ +20, "
 hp: 40
 health:
   - name: ""
@@ -53,10 +54,16 @@ attacks:
   - name: ""
 
   - name: "Spew Cloud"
-    desc: "`pf2:r` **Trigger** Twelve seconds have passed since the door to the apartment was opened\n**Effect** The trap rolls initiative."
+    desc: "`pf2:r` **Trigger** Twelve seconds have passed since the door to the apartment was opened\n* * *\n\n**Effect** The trap rolls initiative."
 
   - name: "Routine"
     desc: "(1 action) When it's triggered, the trap has five active nozzles, but at the end of its turn each round, one random nozzle deactivates. On the trap's turn, the active nozzles emit a cloud of acidic poison gas that expands to fill the apartment. The cloud deals 1d6 acid damage and 1d6 poison damage per active nozzle to each creature and object in the room (DC 33 Fortitude check save). Unattended objects automatically fail saves to avoid the damage."
 
+```
+
+```encounter-table
+name: Acidic Poison Cloud Trap
+creatures:
+  - 1: Acidic Poison Cloud Trap
 ```
 

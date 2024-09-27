@@ -8,8 +8,9 @@ tags:
   - trait/swashbuckler
   - trait/common
   - category/class
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.BuaTJxALqxM5EZav"
-license: OGL
+license: ORC
 ---
 # Perfect Finisher `pf2:1`
 ## Feat 14
@@ -22,5 +23,5 @@ license: OGL
 
 You focus your panache into an impeccable assault. Make a Strike, rolling the attack roll twice and using the better result.
 
-*Source: Pathfinder Advanced Player's Guide*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

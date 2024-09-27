@@ -6,19 +6,20 @@ tags:
   - trait/alchemist
   - trait/common
   - category/classfeature
+  - remaster
 aliases: "Compendium.pf2e.classfeatures.Item.4ocPy4O0OCLY0XCM"
-license: OGL
+license: ORC
 ---
 # Alchemical Weapon Expertise
 ## Feat 7
-### [[alchemist]]
+### [[3-Rules/trait_reference/alchemist]]
 
 **Category** classfeature; 
 
 
 
 
-You've trained to more effectively wield the weapons you find in your lab. Your proficiency ranks for simple weapons, unarmed attacks, and alchemical bombs increase to expert.
+You've trained to more effectively wield the weapons you find in your lab. Your proficiency ranks for simple weapons, alchemical bombs, and unarmed attacks increase to expert.
 
-*Source: Pathfinder Core Rulebook*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

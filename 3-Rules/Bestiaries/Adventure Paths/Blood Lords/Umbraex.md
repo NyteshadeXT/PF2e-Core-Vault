@@ -12,6 +12,7 @@ tags:
   - pf2e/creature/type/shadow
   - pf2e/creature/type/undead
   - pf2e/creature/type/unholy
+  - pf2eMonster
   - pf2e/creature/level/21
 statblock: inline
 name: "Umbraex"
@@ -26,21 +27,21 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #185: A Taste of Ashes"
 name: "Umbraex"
 level: "Creature 21"
-rare_03: "Rare"
+rare_03: [[Rare]]
 alignment: ""
 size: "grg"
-trait_01: "chaotic"
-trait_02: "cold"
-trait_03: "darvakka"
-trait_04: "evil"
-trait_05: "shadow"
-trait_06: "undead"
-trait_07: "unholy"
+trait_01: [[chaotic]]
+trait_02: [[cold]]
+trait_03: [[darvakka]]
+trait_04: [[evil]]
+trait_05: [[shadow]]
+trait_06: [[undead]]
+trait_07: [[unholy]]
 modifier: 36
 perception:
   - name: "Perception"
     desc: "+36; Greater Darkvision, Lifesense 100 Feet"
-languages: "Chthonian, Common, Diabolic, Necril"
+languages: "Chthonian, Common, Diabolic, Necril; (can&#x27;t speak any language); telepathy 100 feet"
 skills:
   - name: "Skills"
     desc: "Arcana: +36, Athletics: +38, Intimidation: +40, Religion: +36, Shadow Plane Lore: +39, The Void Lore: +37"
@@ -65,10 +66,10 @@ abilities_mid:
     desc: " (divine) When an umbraex is destroyed, its body discorporates into fine ash before being restored, fully healed, 1d4 rounds later. An umbraex can't use this ability as long as its remains are within an area consecrated to a good deity or an area of bright light. The umbraex can't use Ashen Rise again for 1 day."
 
   - name: "Entropy's Shadow"
-    desc: " (aura,divine,void) 40 feet. Umbraex leak entropy and corruption from their very being. A living creature entering or starting its turn in the aura takes 8d6 void damage with a DC 42 Fortitude check. If it fails, it's also [[Conditions/Enfeebled 1|Enfeebled 1]] for 1 minute and pulled 10 feet toward the vanyver."
+    desc: " (aura,divine,void) 40 feet. Umbraex leak entropy and corruption from their very being. A living creature entering or starting its turn in the aura takes 8d6 void damage with a DC 42 Fortitude check. If it fails, it's also [[Conditions/Enfeebled|Enfeebled 1]] for 1 minute and pulled 10 feet toward the vanyver."
 
   - name: "Sunlight Powerlessness"
-    desc: "  An umbraex caught in sunlight is [[Conditions/Stunned 1|Stunned 2]] and [[Conditions/Clumsy 1|Clumsy 2]]."
+    desc: "  An umbraex caught in sunlight is [[Conditions/Stunned|Stunned 2]] and [[Conditions/Clumsy|Clumsy 2]]."
 
 attacks:
   - name: ""
@@ -83,11 +84,17 @@ attacks:
     desc: "`pf2:1` Icy Blast +37 (cold, magical, range increment 60 feet)\n__Damage__  8d6 cold 2d10 void"
 
   - name: "Divine Innate Spells"
-    desc: "DC 44, attack +36; __9th __  _[[Spells/Eclipse Burst|Eclipse Burst]]_, _[[Spells/Harm|Harm (x3)]]_; __7th __  _[[Spells/Interplanar Teleport|Plane Shift (to the Universe, Void, or Netherworld only)]]_, _[[Spells/Truesight|True Seeing]]_; __4th __  _[[Spells/Darkness|Darkness (At Will)]]_\n__Cantrips__  __(1st)__ _[[Spells/Detect Magic|Detect Magic]]_"
+    desc: "DC 44, attack +36; __9th __  _[[Spells/Eclipse Burst|Eclipse Burst]]_, _[[Spells/Harm|Harm (x3)]]_; __7th __  _[[Spells/Interplanar Teleport|Plane Shift (to the Universe, Void, or Netherworld only)]]_, _[[Spells/Truesight|True Seeing]]_; __4th __  _[[Spells/Darkness|Darkness (At Will)]]_\n__Cantrips__  __(10th)__ _[[Spells/Detect Magic|Detect Magic]]_"
 
   - name: "Life-Siphoning Screech"
-    desc: "`pf2:3` (occult) The umbraex Flies, shrieking as it passes its enemies. Creatures within 20 feet of the umbraex's flight path take 22d6 mental damage depending on their DC 45 Fortitude check save.\n**Critical Success** The creature is unaffected.\n**Success** The creature takes half damage and is [[Conditions/Drained 1|Drained 1]].\n**Failure** The creature takes full damage and is [[Conditions/Drained 1|Drained 2]].\n**Critical Failure** The creature takes double damage and is drained 2 and [[Conditions/Doomed 1|Doomed 1]]."
+    desc: "`pf2:3` (occult) The umbraex Flies, shrieking as it passes its enemies. Creatures within 20 feet of the umbraex's flight path take 22d6 mental damage depending on their DC 45 Fortitude check save.\n* * *\n\n**Critical Success** The creature is unaffected.\n\n**Success** The creature takes half damage and is [[Conditions/Drained|Drained 1]].\n\n**Failure** The creature takes full damage and is [[Conditions/Drained|Drained 2]].\n\n**Critical Failure** The creature takes double damage and is drained 2 and [[Conditions/Doomed|Doomed 1]]."
  
+```
+
+```encounter-table
+name: Umbraex
+creatures:
+  - 1: Umbraex
 ```
 
 

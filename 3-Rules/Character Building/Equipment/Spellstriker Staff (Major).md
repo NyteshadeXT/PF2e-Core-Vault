@@ -35,7 +35,7 @@ A _spellstriker staff_ is wrought iron with gleaming arcane sigils etched into i
 
 **Trigger** You use Spellstrike with a non-cantrip spell and miss with the Strike
 
-**Effect** An explosion of magical energy—stored up for the Spellstrike—explodes out. All creatures in a 5-foot emanation take 1d6 damage per rank of the spell, with a Reflex check save against your spell DC. This damage is the same type the spell would have dealt, and the activation gains that trait; if the spell would have dealt multiple types of damage, choose one of them. If the damage of the explosion is mental, the save is Will check instead of Reflex.
+**Effect** An explosion of magical energy—stored up for the Spellstrike—explodes out. All creatures in a @Template\[emanation|distance:5\] take 1d6 damage per rank of the spell, with a Reflex check save against your spell DC. This damage is the same type the spell would have dealt, and the activation gains that trait; if the spell would have dealt multiple types of damage, choose one of them. If the damage of the explosion is mental, the save is Will check instead of Reflex.
 
 * * *
 

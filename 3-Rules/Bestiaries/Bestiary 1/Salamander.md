@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/elemental
   - pf2e/creature/type/evil
   - pf2e/creature/type/fire
+  - pf2eMonster
   - pf2e/creature/level/7
 statblock: inline
 name: "Salamander"
@@ -27,10 +28,10 @@ level: "Creature 7"
 
 alignment: ""
 size: "Medium"
-trait_01: "chaotic"
-trait_02: "elemental"
-trait_03: "evil"
-trait_04: "fire"
+trait_01: [[chaotic]]
+trait_02: [[elemental]]
+trait_03: [[evil]]
+trait_04: [[fire]]
 modifier: 15
 perception:
   - name: "Perception"
@@ -38,7 +39,7 @@ perception:
 languages: "Common, Pyric"
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +12, Athletics: +17, Crafting: +15 (+17 for blacksmithing), Deception: +12, Intimidation: +14, Society: +13"
+    desc: "Acrobatics: +12, Athletics: +17, Crafting: +15, Deception: +12, Intimidation: +14, Society: +13"
 abilityMods: [4, 3, 4, 2, 2, 1]
 speed: 20 feet
 sourcebook: "_Pathfinder Bestiary_"
@@ -73,11 +74,17 @@ attacks:
     desc: "`pf2:1`  The salamander stokes its internal flames. Until the start of its next turn, it gains a +2 circumstance bonus to AC, and when an adjacent creature touches it or hits it with a physical attack, that creature takes 2d6 persistent fire damage unless it succeeds at a DC 25 Reflex check save."
 
   - name: "[[Bestiary Ability Glossary/Constrict|Constrict]]"
-    desc: "`pf2:1`  1d8+4 bludgeoning plus 1d6 fire, DC 25 Fortitude check\n"
+    desc: "`pf2:1`  1d8+4 bludgeoning plus 1d6 fire, DC 25 Fortitude check\n\n* * *\n"
 
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
     desc: "`pf2:1`  "
  
+```
+
+```encounter-table
+name: Salamander
+creatures:
+  - 1: Salamander
 ```
 
 

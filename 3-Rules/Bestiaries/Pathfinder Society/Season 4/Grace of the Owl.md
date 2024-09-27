@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/human
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/3
 statblock: inline
 name: "Grace of the Owl"
@@ -25,9 +26,9 @@ level: "Creature 3"
 
 alignment: ""
 size: "Medium"
-trait_01: "evil"
-trait_02: "human"
-trait_03: "humanoid"
+trait_01: [[evil]]
+trait_02: [[human]]
+trait_03: [[humanoid]]
 modifier: 9
 perception:
   - name: "Perception"
@@ -69,6 +70,12 @@ attacks:
   - name: "Occult Focus Spells"
     desc: "1 Focus Point, DC 17, attack +9; __2nd __  _[[Spells/Veil of Dreams|Veil of Dreams]]_\n__Cantrips__  __(2nd)__ _[[Spells/Shroud of Night|Shroud of Night]]_"
  
+```
+
+```encounter-table
+name: Grace of the Owl
+creatures:
+  - 1: Grace of the Owl
 ```
 
 

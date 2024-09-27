@@ -17,7 +17,7 @@ license: OGL
 
 
 
-**Minor Curse** Shoddy artisanship makes itself known. Whenever an item you're using takes damage, it is [[Conditions/Broken|Broken]].
+Shoddy artisanship makes itself known. Whenever an item you're using takes damage, it is [[Conditions/Broken|Broken]].
 
 *Source: Pathfinder Lost Omens: Gods & Magic*
 *OGL*

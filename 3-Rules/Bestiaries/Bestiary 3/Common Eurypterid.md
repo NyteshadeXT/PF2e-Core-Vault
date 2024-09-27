@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.pathfinder-bestiary-3.Actor.fViWNHKjjL7fYbjW"
 tags:
   - pf2e/creature/type/amphibious
   - pf2e/creature/type/animal
+  - pf2eMonster
   - pf2e/creature/level/-1
 statblock: inline
 name: "Common Eurypterid"
@@ -25,12 +26,13 @@ level: "Creature -1"
 
 alignment: ""
 size: "Medium"
-trait_01: "amphibious"
-trait_02: "animal"
+trait_01: [[amphibious]]
+trait_02: [[animal]]
 modifier: 2
 perception:
   - name: "Perception"
     desc: "+2; Low-Light Vision, Wavesense (Imprecise) 30 Feet"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Athletics: +4, Stealth: +4"
@@ -52,7 +54,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "[[Bestiary Ability Glossary/Attack of Opportunity|Attack of Opportunity (Stinger Only)]]"
-    desc: "`pf2:r`  Stinger only\n"
+    desc: "`pf2:r`  Stinger only\n\n* * *\n"
 
 attacks:
   - name: ""
@@ -64,11 +66,17 @@ attacks:
     desc: "`pf2:1` Stinger +6 ()\n__Damage__  1d4 + 2 piercing plus eurypterid-venom"
 
   - name: "Eurypterid Venom"
-    desc: " (poison) **Saving Throw** DC 14 Fortitude check\n**Maximum Duration** 4 rounds\n**Stage 1** 1d4 poison damage (1 round)\n**Stage 2** 1d6 poison damage (1 round)\n**Stage 3** 1d6 poison damage and [[Conditions/Enfeebled 1|Enfeebled 1]] (1 round)"
+    desc: " (poison) **Saving Throw** DC 14 Fortitude check\n* * *\n\n**Maximum Duration** 4 rounds\n\n**Stage 1** 1d4 poison damage (1 round)\n\n**Stage 2** 1d6 poison damage (1 round)\n\n**Stage 3** 1d6 poison damage and [[Conditions/Enfeebled|Enfeebled 1]] (1 round)"
 
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
     desc: "`pf2:1`  "
  
+```
+
+```encounter-table
+name: Common Eurypterid
+creatures:
+  - 1: Common Eurypterid
 ```
 
 

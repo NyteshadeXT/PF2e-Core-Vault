@@ -13,7 +13,7 @@ license: OGL
 ---
 # Kraken Figurehead
 ## Item 10
-### [[figurehead]][[magical]][[3-Rules/Rule References/Water]]
+### [[figurehead]][[magical]][[water]]
 
 
 **Price** 490 gp; 

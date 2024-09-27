@@ -7,8 +7,9 @@ tags:
   - trait/dedication
   - trait/common
   - category/class
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.MNArjo5Z5LUYITQm"
-license: OGL
+license: ORC
 ---
 # Celebrity Dedication
 ## Feat 2
@@ -23,7 +24,7 @@ The more people you have looking at you, the more content you are, and you take 
 
 You gain the [[Actions/Upstage|Upstage]] reaction. In addition, when you [[Actions/Earn Income|Earn Income]], if the level of the task is higher than your level, you gain a +1 circumstance bonus to your check to Earn Income.
 
-**Special** You can't select another dedication feat until you have gained two other feats from the [[PF2e Journals/Archetypes/Celebrity|Celebrity]] archetype.
+[[PF2e Journals/Archetypes/Celebrity|Celebrity]]
 
-*Source: Pathfinder Advanced Player's Guide*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

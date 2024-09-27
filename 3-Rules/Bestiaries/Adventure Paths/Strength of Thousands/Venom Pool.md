@@ -4,6 +4,7 @@ obsidianUIMode: preview
 noteType: pf2eHazard
 tags:
   - environmental
+  - pf2eHazard
   - complex
 source: Pathfinder #174: Shadows of the Ancients
 aliases: "Compendium.pf2e.strength-of-thousands-bestiary.Actor.JRn1QlBUtlU7xjYR" 
@@ -21,13 +22,13 @@ name: "Venom Pool"
 level: "Hazard 18"
 
 trait_06: "Complex"
-trait_01: "environmental"
+trait_01: [[environmental]]
 modifier: 30
 sourcebook: "_Pathfinder #174: Shadows of the Ancients_"
 ac: 10
 armorclass:
   - name: AC
-    desc: "10; __Fort__ +0, __Ref__ +0, __Will__ +0"
+    desc: "10; "
 hp: 0
 health:
   - name: ""
@@ -52,11 +53,17 @@ attacks:
     desc: "passive The area of the venom pool is difficult terrain, and each creature moving through it takes 10 acid for every square of its area that it moves into."
 
   - name: "Poison Puff"
-    desc: "`pf2:r` **Trigger** A creature moves through any square in the hazard's space\n**Effect** The pool produces a 9th-rank [[Spells/Toxic Cloud|Toxic Cloud]]; (DC 40 Fortitude check) at its center. It then rolls initiative."
+    desc: "`pf2:r` **Trigger** A creature moves through any square in the hazard's space\n* * *\n\n**Effect** The pool produces a 9th-rank [[Spells/Toxic Cloud|Toxic Cloud]]; (DC 40 Fortitude check) at its center. It then rolls initiative."
 
   - name: "Routine"
     desc: "(2 actions) The hazard uses its first action to spread 10 feet down the hallway in both directions. Once out of the hall, each side spreads in a random direction each round, but they don't go through doors. The hazard uses its second action to move the center of the [[Spells/Toxic Cloud|Toxic Cloud]] up to 20 feet in any direction to which any part of the pool has line of effect (normally, to encompass the greatest number of characters). If the _cloudkill_ isn't present, it instead uses its second action to produce a new _cloudkill_, as Poison Puff."
   - name: "Reset"
     desc: "The hazard ends after 1 minute, contracting to its original size and keeping still until disturbed again."
+```
+
+```encounter-table
+name: Venom Pool
+creatures:
+  - 1: Venom Pool
 ```
 

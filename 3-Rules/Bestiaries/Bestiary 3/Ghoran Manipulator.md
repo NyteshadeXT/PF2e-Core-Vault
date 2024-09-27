@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/ghoran
   - pf2e/creature/type/humanoid
   - pf2e/creature/type/plant
+  - pf2eMonster
   - pf2e/creature/level/3
 statblock: inline
 name: "Ghoran Manipulator"
@@ -23,12 +24,12 @@ token: [[modules/pf2e-tokens-bestiaries/portraits/humanoid/ghoran-manipulator.we
 source: "Pathfinder Bestiary 3"
 name: "Ghoran Manipulator"
 level: "Creature 3"
-rare_03: "Rare"
+rare_03: [[Rare]]
 alignment: ""
 size: "Medium"
-trait_01: "ghoran"
-trait_02: "humanoid"
-trait_03: "plant"
+trait_01: [[ghoran]]
+trait_02: [[humanoid]]
+trait_03: [[plant]]
 modifier: 9
 perception:
   - name: "Perception"
@@ -56,13 +57,13 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Anguished Cry"
-    desc: "`pf2:r` (emotion,mental) **Trigger** A humanoid enemy damages the ghoran manipulator with a melee attack\n**Effect** The ghoran manipulator rearranges its facial petals and wails, mimicking humanoid anguish to engender sympathy. The triggering creature must attempt a DC 20 Will check save.\n**Success** The target is unaffected and is temporarily immune for 1 hour.\n**Failure** The target takes a -2 circumstance penalty on attack rolls against the ghoran manipulator until the start of its next turn.\n**Critical Failure** As failure, and the target is [[Conditions/Stupefied 1|Stupefied 2]] until the start of its next turn."
+    desc: "`pf2:r` (emotion,mental) **Trigger** A humanoid enemy damages the ghoran manipulator with a melee attack\n* * *\n\n**Effect** The ghoran manipulator rearranges its facial petals and wails, mimicking humanoid anguish to engender sympathy. The triggering creature must attempt a DC 20 Will check save.\n* * *\n\n**Success** The target is unaffected and is temporarily immune for 1 hour.\n\n**Failure** The target takes a -2 circumstance penalty on attack rolls against the ghoran manipulator until the start of its next turn.\n\n**Critical Failure** As failure, and the target is [[Conditions/Stupefied|Stupefied 2]] until the start of its next turn."
 
   - name: "Appetizing Aroma"
-    desc: " (aura,olfactory) 10 feet. A creature entering or starting its turn in the aura must attempt a DC 17 Will check save. Creatures that don't eat are immune to Appetizing Aroma.\n**Success** The creature is unaffected and is temporarily immune for 1 hour.\n**Failure** The creature is distracted by a desire to consume the ghoran. For 1 round it becomes [[Conditions/Off-Guard|Off-Guard]] and [[Conditions/Fascinated|Fascinated]] by the ghoran manipulator."
+    desc: " (aura,olfactory) 10 feet. A creature entering or starting its turn in the aura must attempt a DC 17 Will check save. Creatures that don't eat are immune to Appetizing Aroma.\n\n**Success** The creature is unaffected and is temporarily immune for 1 hour.\n\n**Failure** The creature is distracted by a desire to consume the ghoran. For 1 round it becomes [[Conditions/Off-Guard|Off-Guard]] and [[Conditions/Fascinated|Fascinated]] by the ghoran manipulator."
 
   - name: "Delicious"
-    desc: "  Ghorans were originally created to be scrumptious food.\nA ghoran manipulator takes 5 additional damage from jaws Strikes, fangs Strikes, or other similar Strikes with a creature's mouth. When a ghoran manipulator is [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]] by a creature's jaws, fangs, or mouth, the DC to [[Actions/Escape|Escape]] is increased by 2."
+    desc: "  Ghorans were originally created to be scrumptious food.\n\nA ghoran manipulator takes 5 additional damage from jaws Strikes, fangs Strikes, or other similar Strikes with a creature's mouth. When a ghoran manipulator is [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]] by a creature's jaws, fangs, or mouth, the DC to [[Actions/Escape|Escape]] is increased by 2."
 
 attacks:
   - name: ""
@@ -82,6 +83,12 @@ attacks:
   - name: "Primal Innate Spells"
     desc: "DC 20, attack +12; __2nd __  _[[Spells/Detect Poison|Detect Poison]]_, _[[Spells/Cornucopia|Goodberry]]_; __1st __  _[[Spells/Cleanse Cuisine|Purify Food and Drink]]_"
  
+```
+
+```encounter-table
+name: Ghoran Manipulator
+creatures:
+  - 1: Ghoran Manipulator
 ```
 
 

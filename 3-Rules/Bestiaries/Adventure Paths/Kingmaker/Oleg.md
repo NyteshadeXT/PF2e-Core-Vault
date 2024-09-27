@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/good
   - pf2e/creature/type/human
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/1
 statblock: inline
 name: "Oleg"
@@ -23,13 +24,13 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Kingmaker"
 name: "Oleg"
 level: "Creature 1"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Medium"
-trait_01: "chaotic"
-trait_02: "good"
-trait_03: "human"
-trait_04: "humanoid"
+trait_01: [[chaotic]]
+trait_02: [[good]]
+trait_03: [[human]]
+trait_04: [[humanoid]]
 modifier: 6
 perception:
   - name: "Perception"
@@ -59,12 +60,18 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
+  - name: "Ranged"
     desc: "`pf2:1` Light Hammer +8 (agile, thrown 20 ft.)\n__Damage__  1d6 + 3 bludgeoning"
 
   - name: "Ranged"
     desc: "`pf2:1` Light Hammer +6 (agile, thrown 20 ft.)\n__Damage__  1d6 + 3 bludgeoning"
  
+```
+
+```encounter-table
+name: Oleg
+creatures:
+  - 1: Oleg
 ```
 
 

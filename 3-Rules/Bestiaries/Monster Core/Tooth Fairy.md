@@ -6,6 +6,7 @@ cssClasses: pf2e
 aliases: "Compendium.pf2e.pathfinder-monster-core.Actor.q95mjOkL678a1Wnt" 
 tags:
   - pf2e/creature/type/fey
+  - pf2eMonster
   - pf2e/creature/level/-1
   - remaster
 statblock: inline
@@ -25,7 +26,7 @@ level: "Creature -1"
 
 alignment: ""
 size: "tiny"
-trait_01: "fey"
+trait_01: [[fey]]
 modifier: 6
 perception:
   - name: "Perception"
@@ -53,7 +54,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Plaque Burst"
-    desc: "  When killed, a tooth fairy bursts into sticky, foul-smelling white dust. Each creature in a 5-foot emanation must succeed at a DC 16 Fortitude check save or become [[Conditions/Sickened 1|Sickened 1]] ([[Conditions/Sickened 1|Sickened 2]] on a critical failure)."
+    desc: "  When killed, a tooth fairy bursts into sticky, foul-smelling white dust. Each creature in a @Template[emanation|distance:5] must succeed at a DC 16 Fortitude check save or become [[Conditions/Sickened|Sickened 1]] ([[Conditions/Sickened|Sickened 2]] on a critical failure)."
 
 attacks:
   - name: ""
@@ -67,6 +68,12 @@ attacks:
   - name: "Tooth Tug"
     desc: "`pf2:1` (manipulate) **Requirements** The tooth fairy's last action was a successful pliers Strike against a creature with teeth\n* * *\n\n**Effect** The tooth fairy attempts a Thievery check check against the creature's Fortitude DC, dealing 2 bleed damage on any result but a critical failure. On a critical success, it also pulls out one of the target's teeth.\n\nIf the creature loses a tooth, it takes a –1 status penalty to Charisma-based skill checks and must succeed at a DC 5 Flat check to Cast a Spell unless that spell has the subtle trait. These effects last for 1 day, or until the stolen tooth is returned and the target regains at least 1 Hit Point."
  
+```
+
+```encounter-table
+name: Tooth Fairy
+creatures:
+  - 1: Tooth Fairy
 ```
 
 

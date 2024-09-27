@@ -10,6 +10,7 @@ tags:
   - pf2e/creature/type/incorporeal
   - pf2e/creature/type/spirit
   - pf2e/creature/type/undead
+  - pf2eMonster
   - pf2e/creature/level/11
 statblock: inline
 name: "Xae"
@@ -24,14 +25,14 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Kingmaker"
 name: "Xae"
 level: "Creature 11"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Small"
-trait_01: "chaotic"
-trait_02: "ghost"
-trait_03: "incorporeal"
-trait_04: "spirit"
-trait_05: "undead"
+trait_01: [[chaotic]]
+trait_02: [[ghost]]
+trait_03: [[incorporeal]]
+trait_04: [[spirit]]
+trait_05: [[undead]]
 modifier: 19
 perception:
   - name: "Perception"
@@ -39,7 +40,7 @@ perception:
 languages: "Common, Fey, Gnomish"
 skills:
   - name: "Skills"
-    desc: "Dwelling Lore: +22, Nature: +21, Occultism: +22, Stealth: +22"
+    desc: "Nature: +21, Occultism: +22, Stealth: +22, Dwelling Lore: +22"
 abilityMods: [-5, 3, 2, 5, 2, 4]
 speed:  fly 25 feet
 sourcebook: "_Pathfinder Kingmaker_"
@@ -70,11 +71,17 @@ attacks:
     desc: "`pf2:1` Ghostly Hand +21 (agile, finesse, magical)\n__Damage__  2d10 + 12 void"
 
   - name: "Shyka's Judgement"
-    desc: "`pf2:2` (mental,primal) Xae clasps her hands together and cries out in Sylvan for Shyka to judge those who dare intrude upon the shrine-\"Aid me, Shyka, so that your shrine will remain undefiled!\" The seven statues around the perimeter of the room suddenly animate and hurl spectral versions of their hourglass-headed maces into the room, filling area **A3** with a whirling vortex of pale blue-and-white energy. All living creatures in area **A3** must attempt a DC 30 Will check save. Xae cannot call upon Shyka's Judgment for 1d4 rounds.\n**Critical Success** The creature is unaffected.\n**Success** The creature takes 6d6 mental damage.\n**Failure** The creature takes 12d6 mental damage and is [[Conditions/Slowed 1|Slowed 1]] as their mind struggles with memories that seem to be from past lives that weigh the character's current actions in judgment.\n**Critical Failure** The creature takes 18d6 mental damage and is [[Conditions/Stunned 1|Stunned 1]] by their mental struggle with their judgmental past lives. The creature also takes 2d6 persistent mental damage that ends if they leave area **A3**."
+    desc: "`pf2:2` (mental,primal) Xae clasps her hands together and cries out in Sylvan for Shyka to judge those who dare intrude upon the shrine-\"Aid me, Shyka, so that your shrine will remain undefiled!\" The seven statues around the perimeter of the room suddenly animate and hurl spectral versions of their hourglass-headed maces into the room, filling area **A3** with a whirling vortex of pale blue-and-white energy. All living creatures in area **A3** must attempt a DC 30 Will check save. Xae cannot call upon Shyka's Judgment for 1d4 rounds.\n* * *\n\n**Critical Success** The creature is unaffected.\n\n**Success** The creature takes 6d6 mental damage.\n\n**Failure** The creature takes 12d6 mental damage and is [[Conditions/Slowed|Slowed 1]] as their mind struggles with memories that seem to be from past lives that weigh the character's current actions in judgment.\n\n**Critical Failure** The creature takes 18d6 mental damage and is [[Conditions/Stunned|Stunned 1]] by their mental struggle with their judgmental past lives. The creature also takes 2d6 persistent mental damage that ends if they leave area **A3**."
 
   - name: "Twist Time"
-    desc: "`pf2:2` (primal) Xae attempts a ghostly hand strike. If she hits, she inflicts damage as normal, but the target struck must also attempt a DC 30 Fortitude check save (the target takes a -2 penalty to this saving throw if the strike was a critical hit).\n**Critical Success** The creature is unaffected.\n**Success** The creature is [[Conditions/Slowed 1|Slowed 1]] for 1 round as the rest of reality seems to speed up.\n**Failure** The creature becomes decrepit from unnatural aging. It is [[Conditions/Slowed 1|Slowed 2]], and as long as it has the slowed condition, it is [[Conditions/Enfeebled 1|Enfeebled 2]] as well.\n**Critical Failure** As failure, but the creature feels death knocking on the door-it is [[Conditions/Doomed 1|Doomed 1]] as long as it remains slowed by Twist Time."
+    desc: "`pf2:2` (primal) Xae attempts a ghostly hand strike. If she hits, she inflicts damage as normal, but the target struck must also attempt a DC 30 Fortitude check save (the target takes a -2 penalty to this saving throw if the strike was a critical hit).\n* * *\n\n**Critical Success** The creature is unaffected.\n\n**Success** The creature is [[Conditions/Slowed|Slowed 1]] for 1 round as the rest of reality seems to speed up.\n\n**Failure** The creature becomes decrepit from unnatural aging. It is [[Conditions/Slowed|Slowed 2]], and as long as it has the slowed condition, it is [[Conditions/Enfeebled|Enfeebled 2]] as well.\n\n**Critical Failure** As failure, but the creature feels death knocking on the door-it is [[Conditions/Doomed|Doomed 1]] as long as it remains slowed by Twist Time."
  
+```
+
+```encounter-table
+name: Xae
+creatures:
+  - 1: Xae
 ```
 
 

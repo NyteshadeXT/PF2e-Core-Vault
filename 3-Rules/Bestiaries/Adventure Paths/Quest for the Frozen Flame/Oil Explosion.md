@@ -5,6 +5,7 @@ noteType: pf2eHazard
 tags:
   - environmental
   - fire
+  - pf2eHazard
 
 source: Pathfinder #176: Lost Mammoth Valley
 aliases: "Compendium.pf2e.quest-for-the-frozen-flame-bestiary.Actor.VQkyrePnLph9yvD8" 
@@ -22,14 +23,14 @@ name: "Oil Explosion"
 level: "Hazard 4"
 
 
-trait_01: "environmental"
-trait_02: "fire"
+trait_01: [[environmental]]
+trait_02: [[fire]]
 modifier: 12
 sourcebook: "_Pathfinder #176: Lost Mammoth Valley_"
 ac: 21
 armorclass:
   - name: AC
-    desc: "21; __Fort__ +14, __Ref__ +14, __Will__ +0"
+    desc: "21; __Fort__ +14, __Ref__ +14, "
 hp: 0
 health:
   - name: ""
@@ -51,9 +52,15 @@ attacks:
   - name: ""
 
   - name: "Explode"
-    desc: "`pf2:r` **Trigger** An open flame is brought into area **A4**\n**Effect** The oil on the walls explodes, dealing 4d8 + 10 fire damage to all creatures and objects in areas **A4** and **A3**(DC 21 Reflex check)."
+    desc: "`pf2:r` **Trigger** An open flame is brought into area **A4**\n* * *\n\n**Effect** The oil on the walls explodes, dealing 4d8+10 fire damage to all creatures and objects in areas **A4** and **A3**(DC 21 Reflex check)."
 
 
 
+```
+
+```encounter-table
+name: Oil Explosion
+creatures:
+  - 1: Oil Explosion
 ```
 

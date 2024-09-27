@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/humanoid
   - pf2e/creature/type/orc
+  - pf2eMonster
   - pf2e/creature/level/4
 statblock: inline
 name: "Scorched Earth Orc (Scout) (5-6)"
@@ -23,13 +24,13 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Society Scenario #2-10: In Burning Dawn"
 name: "Scorched Earth Orc (Scout) (5-6)"
 level: "Creature 4"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Medium"
-trait_01: "chaotic"
-trait_02: "evil"
-trait_03: "humanoid"
-trait_04: "orc"
+trait_01: [[chaotic]]
+trait_02: [[evil]]
+trait_03: [[humanoid]]
+trait_04: [[orc]]
 modifier: 12
 perception:
   - name: "Perception"
@@ -71,6 +72,12 @@ attacks:
   - name: "[[Actions/Hunt Prey|Hunt Prey]]"
     desc: "`pf2:1` (concentrate) The Scorched Earth scout designates a single creature they can see and hear, or one they're Tracking, as their prey. The Scorched Earth scout gains a +2 circumstance bonus to Perception checks to [[Actions/Seek|Seek]] the prey and to Survival checks to [[Actions/Track|Track]] the prey. The first time the Scorched Earth scout hits the designated prey in a round, they deal an additional 1d8 precision damage. The Scorched Earth scout also ignores the penalty for making ranged attacks within their second range increment. These effects last until the Scorched Earth scout uses Hunt Prey again."
  
+```
+
+```encounter-table
+name: Scorched Earth Orc (Scout) (5-6)
+creatures:
+  - 1: Scorched Earth Orc (Scout) (5-6)
 ```
 
 

@@ -17,7 +17,7 @@ license: OGL
 
 
 
-**Moderate Boon** Your blade burns the irredeemable. Your attacks deal an additional 1d6 fire damage that ignores fire resistance.
+Your blade burns the irredeemable. Your attacks deal an additional 1d6 fire damage that ignores fire resistance.
 
 *Source: Pathfinder Lost Omens: Gods & Magic*
 *OGL*

@@ -31,7 +31,7 @@ This poison is named for the strain of fungi from which it's distilled. Hallucin
 
 **Stage 1** 3d8 poison, [[Conditions/Off-Guard|Off-Guard]], and can't take reactions (1 round)
 
-**Stage 2** 4d8 poison, off-guard, can't take reactions, [[Conditions/Stunned 1|Stunned 1]] (1 round)
+**Stage 2** 4d8 poison, off-guard, can't take reactions, [[Conditions/Stunned|Stunned 1]] (1 round)
 
 **Stage 3** 5d8 poison, off-guard, can't take reactions, and stunned 1 (1 round)
 

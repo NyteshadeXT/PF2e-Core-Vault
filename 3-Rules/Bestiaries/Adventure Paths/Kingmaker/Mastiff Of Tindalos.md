@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/aberration
   - pf2e/creature/type/evil
   - pf2e/creature/type/time
+  - pf2eMonster
   - pf2e/creature/level/15
 statblock: inline
 name: "Mastiff Of Tindalos"
@@ -22,12 +23,12 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Kingmaker"
 name: "Mastiff Of Tindalos"
 level: "Creature 15"
-rare_03: "Rare"
+rare_03: [[Rare]]
 alignment: ""
 size: "Medium"
-trait_01: "aberration"
-trait_02: "evil"
-trait_03: "time"
+trait_01: [[aberration]]
+trait_02: [[evil]]
+trait_03: [[time]]
 modifier: 29
 perception:
   - name: "Perception"
@@ -35,7 +36,7 @@ perception:
 languages: "Aklo"
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +31, Athletics: +27, Occultism: +31, Stealth: +31, Survival: +27 (+29 to Track)"
+    desc: "Acrobatics: +31, Athletics: +27, Occultism: +31, Stealth: +31, Survival: +27"
 abilityMods: [6, 8, 4, 8, 6, 4]
 speed: 30 feet,  fly 30 feet
 sourcebook: "_Pathfinder Kingmaker_"
@@ -60,7 +61,7 @@ abilities_mid:
     desc: " (aura,occult,visual) 30 feet. The hound of Tindalos's eyes glow balefully, causing painful but bloodless wounds to rip open in the body of a creature that meets its awful gaze. When a creature ends its turn in the aura's emanation, it takes 8d6 slashing damage (DC 33 Fortitude check). A creature that critically succeeds at its save is temporarily immune for 24 hours."
 
   - name: "Vulnerable to Curved Space"
-    desc: "  When a hound of Tindalos is not adjacent to a structural angle of 90º (or more acute), its resistance to physical damage is suppressed and it becomes [[Conditions/Sickened 1|Sickened 1]]. It can't recover from this sickened condition, but the condition ends automatically once the hound is again adjacent to a suitable angle.\n[[Bestiary Effects/Effect_ Vulnerable to Curved Space|Effect: Vulnerable to Curved Space]]"
+    desc: "  When a hound of Tindalos is not adjacent to a structural angle of 90º (or more acute), its resistance to physical damage is suppressed and it becomes [[Conditions/Sickened|Sickened 1]]. It can't recover from this sickened condition, but the condition ends automatically once the hound is again adjacent to a suitable angle.\n\n[[Bestiary Effects/Effect_ Vulnerable to Curved Space|Effect: Vulnerable to Curved Space]]"
 
 attacks:
   - name: ""
@@ -75,8 +76,14 @@ attacks:
     desc: "DC 32, attack +29; __8th __  _[[Spells/Pinpoint|Discern Location]]_; __7th __  _[[Spells/Translocate|Dimension Door (At Will)]]_, _[[Spells/Planar Tether|Dimensional Anchor]]_, _[[Spells/Haste|Haste]]_; __6th __  _[[Spells/Invisibility|Invisibility (Self Only)]]_, _[[Spells/Locate|Locate]]_, _[[Spells/Slow|Slow]]_"
 
   - name: "Angled Entry"
-    desc: "`pf2:1`  The hound of Tindalos casts a 7th-rank [[Spells/Translocate|Translocate]] spell, but it must transport itself into a space adjacent to an angle of 90º (or more acute) in the structure or environment around it. For example, it could teleport to a space adjacent to a wall (using the angle between the wall and floor) or a corner in a room, or adjacent to a sizable tree growing straight up out of the ground, but not to a flat plain or a room with only curved corners and edges.\nOnce per day, the hound can use this ability to plane shift to or from the Dimension of Time, with the same restrictions on what angles it can appear next to."
+    desc: "`pf2:1`  The hound of Tindalos casts a 7th-rank [[Spells/Translocate|Translocate]] spell, but it must transport itself into a space adjacent to an angle of 90º (or more acute) in the structure or environment around it. For example, it could teleport to a space adjacent to a wall (using the angle between the wall and floor) or a corner in a room, or adjacent to a sizable tree growing straight up out of the ground, but not to a flat plain or a room with only curved corners and edges.\n\nOnce per day, the hound can use this ability to plane shift to or from the Dimension of Time, with the same restrictions on what angles it can appear next to."
  
+```
+
+```encounter-table
+name: Mastiff Of Tindalos
+creatures:
+  - 1: Mastiff Of Tindalos
 ```
 
 

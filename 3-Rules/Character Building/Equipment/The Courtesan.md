@@ -5,6 +5,7 @@ cssclasses: pf2e,pf2e-spell
 tags:
   - trait/artifact
   - trait/harrow-court
+  - trait/illusion
   - trait/invested
   - trait/magical
   - trait/unique
@@ -13,7 +14,7 @@ license: OGL
 ---
 # The Courtesan
 ## Item 20
-### [unique](unique "Unique Rarity Trait")[[artifact]][[harrow-court]][[invested]][[magical]]
+### [unique](unique "Unique Rarity Trait")[[artifact]][[harrow-court]][[illusion]][[invested]][[magical]]
 
 
 **Price** 0 gp; 

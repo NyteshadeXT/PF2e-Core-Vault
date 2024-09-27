@@ -7,12 +7,13 @@ tags:
   - trait/exploration
   - trait/skill
   - trait/common
+  - remaster
 aliases: "Compendium.pf2e.actionspf2e.Item.OizxuPb44g3eHPFh"
-license: OGL
+license: ORC
 ---
 # Borrow an Arcane Spell
 
-### [[concentrate]][[exploration]][[skill]]
+### [[3-Rules/Rule References/Concentrate]][[exploration]][[skill]]
 
 
 
@@ -27,5 +28,5 @@ If you're an arcane spellcaster who prepares from a spellbook, you can attempt t
 
 **Failure** You fail to prepare the spell, but the spell slot remains available for you to prepare a different spell. You can't try to prepare this spell until the next time you prepare spells.
 
-*Source: Pathfinder Core Rulebook*
-*OGL*
+*Source: Pathfinder Player Core*
+*ORC*

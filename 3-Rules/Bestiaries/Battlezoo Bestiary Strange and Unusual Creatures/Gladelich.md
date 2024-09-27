@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/plant
   - pf2e/creature/type/undead
   - pf2e/creature/type/unholy
+  - pf2eMonster
   - pf2e/creature/level/13
 statblock: inline
 name: "Gladelich"
@@ -24,21 +25,21 @@ token: [[modules/battlezoo-bestiary-su-pf2e/art/Portraits/gladelich.webp| ]]
 source: "Battlezoo Bestiary: Strange and Unusual"
 name: "Gladelich"
 level: "Creature 13"
-rare_03: "Rare"
+rare_03: [[Rare]]
 alignment: ""
 size: "Medium"
-trait_01: "evil"
-trait_02: "plant"
-trait_03: "undead"
-trait_04: "unholy"
+trait_01: [[evil]]
+trait_02: [[plant]]
+trait_03: [[undead]]
+trait_04: [[unholy]]
 modifier: 26
 perception:
   - name: "Perception"
     desc: "+26; Darkvision"
-languages: "Common, Elven, Fey, Necril"
+languages: "Common, Elven, Fey, Necril; speak with animals, speak with plants"
 skills:
   - name: "Skills"
-    desc: "Arcana: +22, Crafting: +24 (can craft magic items), Intimidation: +23, Medicine: +24, Nature: +30, Stealth: +22, Survival: +28, "
+    desc: "Arcana: +22, Crafting: +24, Intimidation: +23, Medicine: +24, Nature: +30, Stealth: +22, Survival: +28, Arcana: +22, Crafting: +24, Intimidation: +23, Medicine: +24, Nature: +30, Stealth: +22, Survival: +28"
 abilityMods: [2, 3, 2, 5, 7, 4]
 speed: 30 feet
 sourcebook: "_Battlezoo Bestiary: Strange and Unusual_"
@@ -61,13 +62,13 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "[[Bestiary Ability Glossary/Frightful Presence|Frightful Presence]]"
-    desc: " (aura,emotion,fear,mental) 60 feet DC 30 Will check\n"
+    desc: " (aura,emotion,fear,mental) 60 feet DC 30 Will check\n\n* * *\n"
 
 attacks:
   - name: ""
 
   - name: "Melee"
-    desc: "`pf2:1` Withering Branch +25 (finesse, magical)\n__Damage__  3d8 + 7 void plus siphon-life"
+    desc: "`pf2:1` Withering Branch +25 (finesse, magical)\n__Damage__ "
 
   - name: "Ranged"
     desc: "`pf2:1` Needle +25 (plant, primal, range increment 40 feet)\n__Damage__  3d12 piercing"
@@ -76,10 +77,10 @@ attacks:
     desc: "DC 37, attack +27; __7th __  _[[Spells/Corrosive Body|Corrosive Body]]_, _[[Spells/Execute|Finger of Death]]_; __6th __  _[[Spells/Nature's Reprisal|Nature's Reprisal]]_, _[[Spells/Necrotize|Necrotize]]_, _[[Spells/Truesight|True Seeing]]_; __5th __  _[[Spells/Toxic Cloud|Cloudkill]]_, _[[Spells/Nature's Pathway|Tree Stride]]_, _[[Spells/Wall of Stone|Wall of Stone]]_; __4th __  _[[Spells/Air Walk|Air Walk]]_, _[[Spells/Unfettered Movement|Freedom of Movement]]_, _[[Spells/Petal Storm|Petal Storm]]_; __3rd __  _[[Spells/Animal Vision|Animal Vision]]_, _[[Spells/Haste|Haste]]_, _[[Spells/Slow|Slow]]_, _[[Spells/Wall of Thorns|Wall of Thorns]]_; __2nd __  _[[Spells/Dispel Magic|Dispel Magic]]_, _[[Spells/Entangling Flora|Entangle]]_, _[[Spells/Shape Wood|Shape Wood]]_, _[[Spells/One with Plants|Tree Shape]]_; __1st __  _[[Spells/Fear|Fear]]_, _[[Spells/Fleet Step|Fleet Step]]_, _[[Spells/Gust of Wind|Gust of Wind]]_, _[[Spells/Tailwind|Longstrider]]_, _[[Spells/Vanishing Tracks|Pass Without Trace]]_\n__Cantrips__  __(7th)__ _[[Spells/Detect Magic|Detect Magic]]_, _[[Spells/Puff of Poison|Puff of Poison]]_, _[[Spells/Read Aura|Read Aura]]_, _[[Spells/Tangle Vine|Tanglefoot]]_\n__Constant__  __(4th)__ _[[Spells/Speak with Plants|Speak with Plants]]_ __(2nd)__ _[[Spells/Speak with Animals|Speak with Animals]]_"
 
   - name: "Siphon Life"
-    desc: "`pf2:r`  **Trigger** The gladelich deals damage with its withering branch Strike\n**Effect** The gladelich regains Hit Points equal to half the damage dealt."
+    desc: "`pf2:r`  **Trigger** The gladelich deals damage with its withering branch Strike\n* * *\n\n**Effect** The gladelich regains Hit Points equal to half the damage dealt."
 
   - name: "Dread Grove"
-    desc: "  Creatures entering a gladelich's soul grove other than the gladelich and its allies become Doomed 1. If a creature in the soul grove has dealt fire damage to any plants in the past 24 hours, they become Doomed 2 instead."
+    desc: "  Creatures entering a gladelich's soul grove other than the gladelich and its allies become [[undefined]]. If a creature in the soul grove has dealt fire damage to any plants in the past 24 hours, they become [[undefined]] instead."
 
   - name: "Steady Spellcasting"
     desc: "  If a reaction would disrupt the gladelich's spellcasting action, the gladelich attempts a DC 15 Flat check. On a success, the action isn't disrupted."
@@ -87,6 +88,12 @@ attacks:
   - name: "Woodland Stride"
     desc: "  The gladelich ignores difficult terrain and greater difficult terrain from non- magical foliage."
  
+```
+
+```encounter-table
+name: Gladelich
+creatures:
+  - 1: Gladelich
 ```
 
 

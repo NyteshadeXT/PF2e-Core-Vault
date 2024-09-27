@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/human
   - pf2e/creature/type/humanoid
   - pf2e/creature/type/lawful
+  - pf2eMonster
   - pf2e/creature/level/11
 statblock: inline
 name: "Hellknight Paravicar"
@@ -25,9 +26,9 @@ level: "Creature 11"
 
 alignment: ""
 size: "Medium"
-trait_01: "human"
-trait_02: "humanoid"
-trait_03: "lawful"
+trait_01: [[human]]
+trait_02: [[humanoid]]
+trait_03: [[lawful]]
 modifier: 20
 perception:
   - name: "Perception"
@@ -75,6 +76,12 @@ attacks:
   - name: "Universal Obedience"
     desc: "`pf2:1` (divine,manipulate) If the next action the Hellknight paravicar uses is to [[Actions/Cast a Spell|Cast a sorcerer Spell]] with the linguistic trait, the spell affects its target as if the target and the Hellknight paravicar shared a common language. The target must have a language."
  
+```
+
+```encounter-table
+name: Hellknight Paravicar
+creatures:
+  - 1: Hellknight Paravicar
 ```
 
 

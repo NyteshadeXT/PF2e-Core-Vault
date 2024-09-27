@@ -5,6 +5,7 @@ noteType: pf2eHazard
 tags:
   - magical
   - mechanical
+  - pf2eHazard
 
 source: Pathfinder Society Scenario #2-22: Breaking the Storm: Excising Ruination
 aliases: "Compendium.pf2e.pfs-season-2-bestiary.Actor.urrUBt8FFtuw3LNv" 
@@ -22,8 +23,8 @@ name: "Drandlesticks (9-10)"
 level: "Hazard 9"
 
 
-trait_01: "magical"
-trait_02: "mechanical"
+trait_01: [[magical]]
+trait_02: [[mechanical]]
 modifier: 23
 sourcebook: "_Pathfinder Society Scenario #2-22: Breaking the Storm: Excising Ruination_"
 perception:
@@ -42,9 +43,15 @@ attacks:
   - name: ""
 
   - name: "Stick"
-    desc: "`pf2:r` **Trigger** A creature walks on to the Drandlesticks\n**Effect** The triggering creature must succeed at a DC 30 Acrobatics check check or take 1d4+11 piercing damage, 2d6 precision damage, and 2d4 bleed. A creature taking persistent bleed damage from the Drandlesticks takes a -10-foot penalty to its Speed.\nAdditionally, a creature damaged by the Drandlesticks is targeted by a [[Spells/Command|Command]] spell (DC 28 Will check save) with orders to release everything it's holding; if the creature fails the save and drops what it's holding, there is a 50% chance that the high winds blow the object or objects off the edge of the Colossus."
+    desc: "`pf2:r` **Trigger** A creature walks on to the Drandlesticks\n* * *\n\n**Effect** The triggering creature must succeed at a DC 30 Acrobatics check check or take 1d4+11 piercing damage, 2d6 precision damage, and 2d4 bleed. A creature taking persistent bleed damage from the Drandlesticks takes a -10-foot penalty to its Speed.\n\nAdditionally, a creature damaged by the Drandlesticks is targeted by a [[Spells/Command|Command]] spell (DC 28 Will check save) with orders to release everything it's holding; if the creature fails the save and drops what it's holding, there is a 50% chance that the high winds blow the object or objects off the edge of the Colossus."
 
 
 
+```
+
+```encounter-table
+name: Drandlesticks (9-10)
+creatures:
+  - 1: Drandlesticks (9-10)
 ```
 

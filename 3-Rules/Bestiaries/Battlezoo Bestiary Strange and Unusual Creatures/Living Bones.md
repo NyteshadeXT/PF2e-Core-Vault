@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/skeleton
   - pf2e/creature/type/spirit
   - pf2e/creature/type/vitality
+  - pf2eMonster
   - pf2e/creature/level/3
 statblock: inline
 name: "Living Bones"
@@ -24,13 +25,13 @@ token: [[modules/battlezoo-bestiary-su-pf2e/art/Portraits/living-bones.webp| ]]
 source: "Battlezoo Bestiary: Strange and Unusual"
 name: "Living Bones"
 level: "Creature 3"
-rare_03: "Rare"
+rare_03: [[Rare]]
 alignment: ""
 size: "Medium"
-trait_01: "good"
-trait_02: "skeleton"
-trait_03: "spirit"
-trait_04: "vitality"
+trait_01: [[good]]
+trait_02: [[skeleton]]
+trait_03: [[spirit]]
+trait_04: [[vitality]]
 modifier: 9
 perception:
   - name: "Perception"
@@ -38,7 +39,7 @@ perception:
 languages: "Common, Necril"
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +9, Athletics: +9, Diplomacy: +8, Society: +5, "
+    desc: "Acrobatics: +9, Athletics: +9, Diplomacy: +8, Society: +5, Acrobatics: +9, Athletics: +9, Diplomacy: +8, Society: +5"
 abilityMods: [4, 4, 1, 0, 2, 1]
 speed: 25 feet
 sourcebook: "_Battlezoo Bestiary: Strange and Unusual_"
@@ -81,6 +82,12 @@ attacks:
   - name: "Merciful Strikes"
     desc: " (divine) Living bones' attacks are surrounded by a nimbus of positive energy. Their Strikes deal an extra 1 vitality damage, as the positive energy that animates them is not fully contained. As normal for positive damage, this harms only undead and other creatures with negative healing. Additionally, living bones can make nonlethal attacks without taking the usual –2 circumstance penalty."
  
+```
+
+```encounter-table
+name: Living Bones
+creatures:
+  - 1: Living Bones
 ```
 
 

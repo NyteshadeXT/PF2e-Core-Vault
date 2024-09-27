@@ -6,8 +6,9 @@ tags:
   - trait/champion
   - trait/common
   - category/class
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.axvGLVoAvuD9jU78"
-license: OGL
+license: ORC
 ---
 # Loyal Warhorse
 ## Feat 6
@@ -17,9 +18,9 @@ license: OGL
 
 
 
-**Prerequisites** divine ally (steed)
+**Prerequisites** Faithful Steed
 * * *
-You and your mount have grown closer, and your loyalty to each other is unbreakable. The mount you gained through the divine ally class feature is now a mature animal companion. In addition, your mount never attacks you, even if it is magically compelled to do so.
+The loyalty you and your mount share is unbreakable. The mount you gained with Faithful Steed is now a mature animal companion. In addition, your mount never attacks you, even if it is magically compelled to do so.
 
-*Source: Pathfinder Core Rulebook*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

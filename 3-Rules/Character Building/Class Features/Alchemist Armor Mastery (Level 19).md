@@ -11,7 +11,7 @@ license: OGL
 ---
 # Alchemist Armor Mastery (Level 19)
 ## Feat 19
-### [[alchemist]]
+### [[3-Rules/trait_reference/alchemist]]
 
 **Category** classfeature; 
 

@@ -5,6 +5,7 @@ noteType: pf2eHazard
 tags:
   - mechanical
   - trap
+  - pf2eHazard
 
 source: Pathfinder Society Special #3-98: Expedition Into Pallid Peril
 aliases: "Compendium.pf2e.pfs-season-3-bestiary.Actor.ExDYM8AqQVVDKEKM" 
@@ -22,8 +23,8 @@ name: "Anguished Tombstone Door"
 level: "Hazard 5"
 
 
-trait_01: "mechanical"
-trait_02: "trap"
+trait_01: [[mechanical]]
+trait_02: [[trap]]
 modifier: 13
 sourcebook: "_Pathfinder Society Special #3-98: Expedition Into Pallid Peril_"
 perception:
@@ -42,10 +43,16 @@ attacks:
   - name: ""
 
   - name: "Surge of Sorrow"
-    desc: "`pf2:r` **Trigger** A creature touches the door\n**Effect** The last of the door's magic arcs outward. All creatures within 10 feet of the door must succeed at a DC 23 Will check save or be [[Conditions/Enfeebled 1|Enfeebled 1]] for 1 hour."
+    desc: "`pf2:r` **Trigger** A creature touches the door\n* * *\n\n**Effect** The last of the door's magic arcs outward. All creatures within 10 feet of the door must succeed at a DC 23 Will check save or be [[Conditions/Enfeebled|Enfeebled 1]] for 1 hour."
 
 
   - name: "Reset"
     desc: "1 hour"
+```
+
+```encounter-table
+name: Anguished Tombstone Door
+creatures:
+  - 1: Anguished Tombstone Door
 ```
 

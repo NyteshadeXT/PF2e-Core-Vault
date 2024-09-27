@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.pathfinder-bestiary-2.Actor.ACIqdW6VsFA1TCpN"
 tags:
   - pf2e/creature/type/animal
   - pf2e/creature/type/aquatic
+  - pf2eMonster
   - pf2e/creature/level/1
 statblock: inline
 name: "Manta Ray"
@@ -25,12 +26,13 @@ level: "Creature 1"
 
 alignment: ""
 size: "Large"
-trait_01: "animal"
-trait_02: "aquatic"
+trait_01: [[animal]]
+trait_02: [[aquatic]]
 modifier: 6
 perception:
   - name: "Perception"
     desc: "+6; Low-Light Vision"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Athletics: +8"
@@ -66,6 +68,12 @@ attacks:
   - name: "Swift Swimmer"
     desc: "`pf2:2`  The manta ray Swims twice. It has a +10-foot circumstance bonus to its Speed during these actions."
  
+```
+
+```encounter-table
+name: Manta Ray
+creatures:
+  - 1: Manta Ray
 ```
 
 

@@ -14,7 +14,7 @@ license: OGL
 ---
 # Frost Brand
 ## Item 16
-### [[3-Rules/Rule References/Cold]][[magical]][[versatile-p]]
+### [[3-Rules/Rule References/Cold]][[3-Rules/Rule References/Magical]][[versatile-p]]
 
 |  |  |
 | -- | -- |
@@ -25,7 +25,7 @@ license: OGL
 
 
 
-The blade of this _+2 greater striking [[Equipment/Frost (Greater)|Frost (Greater)]] greatsword_ appears to be nothing but icy shards. The _frost brand_ automatically extinguishes non-magical fires in a 20-foot emanation. While wielding it, you gain fire resistance 5.
+The blade of this _+2 greater striking [[Equipment/Frost (Greater)|Frost (Greater)]] greatsword_ appears to be nothing but icy shards. The _frost brand_ automatically extinguishes non-magical fires in a @Template\[emanation|distance:20\]. While wielding it, you gain fire resistance 5.
 
 * * *
 

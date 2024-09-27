@@ -14,7 +14,7 @@ license: ORC
 ---
 # Fighter's Fork
 ## Item 3
-### [[magical]][[thrown-20]]
+### [[3-Rules/Rule References/Magical]][[thrown-20]]
 
 |  |  |
 | -- | -- |

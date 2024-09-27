@@ -12,7 +12,7 @@ license: ORC
 ---
 # Astral (Greater)
 ## Item 15
-### [[magical]][[spirit]]
+### [[3-Rules/Rule References/Magical]][[spirit]]
 
 
 **Price** 6000 gp; 

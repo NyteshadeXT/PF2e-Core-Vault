@@ -25,7 +25,7 @@ license: ORC
 
 **Druid** With a complex gesture, you call upon the primal power of your spell to overcome enemies' resistances.
 
-**Sorcerer** You alter your spells to overcome resistances.
+**Sorcerer** You alter your spells to tear through an enemy's defenses.
 
 **Wizard** Multiple circles of runes rotate around your hand as you overcharge your spell to tear through your enemy's defenses.
 

@@ -8,8 +8,9 @@ tags:
   - trait/rage
   - trait/common
   - category/class
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.FMjihpGLn9eQ14Gw"
-license: OGL
+license: ORC
 ---
 # Quaking Stomp `pf2:1`
 ## Feat 20
@@ -26,5 +27,5 @@ license: OGL
 
 You stomp the ground with such force that it creates a minor earthquake, with the effects of the [[Spells/Earthquake|Earthquake]] spell.
 
-*Source: Pathfinder Core Rulebook*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

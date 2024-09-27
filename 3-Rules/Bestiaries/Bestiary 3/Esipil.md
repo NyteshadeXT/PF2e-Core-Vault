@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/fiend
   - pf2e/creature/type/sahkil
   - pf2e/creature/type/unholy
+  - pf2eMonster
   - pf2e/creature/level/1
 statblock: inline
 name: "Esipil"
@@ -27,15 +28,15 @@ level: "Creature 1"
 
 alignment: ""
 size: "tiny"
-trait_01: "evil"
-trait_02: "fiend"
-trait_03: "sahkil"
-trait_04: "unholy"
+trait_01: [[evil]]
+trait_02: [[fiend]]
+trait_03: [[sahkil]]
+trait_04: [[unholy]]
 modifier: 7
 perception:
   - name: "Perception"
     desc: "+7; Darkvision"
-languages: "Chthonian, Diabolic, Empyrean, Requian"
+languages: "Chthonian, Diabolic, Empyrean, Requian; telepathy (touch)"
 skills:
   - name: "Skills"
     desc: "Acrobatics: +7, Intimidation: +7, Stealth: +7"
@@ -72,14 +73,20 @@ attacks:
     desc: "DC 15, attack +7; __3rd __  _[[Spells/Fear|Fear]]_; __2nd __  _[[Spells/Mirror Image|Mirror Image]]_; __1st __  _[[Spells/Fear|Fear (At Will)]]_\n__Cantrips__  __(1st)__ _[[Spells/Telekinetic Hand|Mage Hand]]_"
 
   - name: "[[Bestiary Ability Glossary/Change Shape|Change Shape]]"
-    desc: "`pf2:1` (concentrate,divine,polymorph) The esipil transforms into a Tiny cat, dog, or other unassuming domestic animal. This doesn't affect the esipil's statistics, but it could change the damage type of its Strikes.\n"
+    desc: "`pf2:1` (concentrate,divine,polymorph) The esipil transforms into a Tiny cat, dog, or other unassuming domestic animal. This doesn't affect the esipil's statistics, but it could change the damage type of its Strikes.\n\n* * *\n"
 
   - name: "Skip Between"
-    desc: "`pf2:1` (divine,teleportation) The esipil moves from the Material Plane to the Ethereal Plane or vice-versa, with the effects of [[Spells/Ethereal Jaunt|Ethereal Jaunt]] except that the effect has an unlimited duration and can be Dismissed.\nA summoned esipil can't use Skip Between."
+    desc: "`pf2:1` (divine,teleportation) The esipil moves from the Material Plane to the Ethereal Plane or vice-versa, with the effects of [[Spells/Ethereal Jaunt|Ethereal Jaunt]] except that the effect has an unlimited duration and can be Dismissed.\n\nA summoned esipil can't use Skip Between."
 
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
     desc: "`pf2:1`  "
  
+```
+
+```encounter-table
+name: Esipil
+creatures:
+  - 1: Esipil
 ```
 
 

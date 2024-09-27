@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/chaotic
   - pf2e/creature/type/evil
   - pf2e/creature/type/fey
+  - pf2eMonster
   - pf2e/creature/level/3
 statblock: inline
 name: "Quickling"
@@ -23,12 +24,12 @@ token: [[modules/pf2e-tokens-bestiaries/portraits/fey/quickling.webp| ]]
 source: "Pathfinder Bestiary 2"
 name: "Quickling"
 level: "Creature 3"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Small"
-trait_01: "chaotic"
-trait_02: "evil"
-trait_03: "fey"
+trait_01: [[chaotic]]
+trait_02: [[evil]]
+trait_03: [[fey]]
 modifier: 9
 perception:
   - name: "Perception"
@@ -56,10 +57,10 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Can't Catch Me"
-    desc: "`pf2:r`  **Trigger** The quickling is targeted by a Strike\n**Effect** The quickling darts aside, gaining a +2 circumstance bonus to AC, then Strides up to half their Speed after the Strike resolves."
+    desc: "`pf2:r`  **Trigger** The quickling is targeted by a Strike\n* * *\n\n**Effect** The quickling darts aside, gaining a +2 circumstance bonus to AC, then Strides up to half their Speed after the Strike resolves."
 
   - name: "Slow Susceptibility"
-    desc: "  The quickling takes a -2 status penalty to saving throws against effects that cause the [[Conditions/Slowed 1|Slowed]] condition. If the quickling ever becomes slowed, they lose their supernatural speed, can't Fade from View, and become [[Conditions/Sickened 1|Sickened 1]] for the duration of the slow. They also can't reduce this sickened condition for the duration of the slowed effect."
+    desc: "  The quickling takes a -2 status penalty to saving throws against effects that cause the [[Conditions/Slowed|Slowed]] condition. If the quickling ever becomes slowed, they lose their supernatural speed, can't Fade from View, and become [[Conditions/Sickened|Sickened 1]] for the duration of the slow. They also can't reduce this sickened condition for the duration of the slowed effect."
 
 attacks:
   - name: ""
@@ -71,7 +72,7 @@ attacks:
     desc: "DC 20, attack +12; __2nd __  _[[Spells/Shatter|Shatter]]_; __1st __  _[[Spells/Ventriloquism|Ventriloquism]]_\n__Cantrips__  __(2nd)__ _[[Compendium.pf2e.spells-srd.Item.kl2q6JvBZwed4B6v|Dancing Lights]]_, _[[Spells/Prestidigitation|Prestidigitation]]_"
 
   - name: "Fade from View"
-    desc: "  **Requirements** The quickling used no attack, manipulate, or move actions in the previous round\n**Effect** The quickling becomes [[Conditions/Invisible|Invisible]] until it uses an attack, manipulate, or move action.\nThe quickling can't use Fade from View again for 1d4 rounds."
+    desc: "  **Requirements** The quickling used no attack, manipulate, or move actions in the previous round\n* * *\n\n**Effect** The quickling becomes [[Conditions/Invisible|Invisible]] until it uses an attack, manipulate, or move action.\n\nThe quickling can't use Fade from View again for 1d4 rounds."
 
   - name: "[[Bestiary Ability Glossary/Sneak Attack|Sneak Attack]]"
     desc: "  The quickling's Strikes deal an extra 1d6 precision damage to [[Conditions/Off-Guard|Off-Guard]] creatures."
@@ -79,6 +80,12 @@ attacks:
   - name: "Supernatural Speed"
     desc: "  The quickling's speed, combined with nearly instantaneous acceleration and deceleration, enables them to move in astonishing ways. As long as they have a firm surface to travel across, they can Stride their full movement vertically or horizontally. They can even run across unstable surfaces, such as water, in the same way, although dangerous surfaces (acid, lava, etc.) harm them as normal. They must end their movement on a horizontal surface capable of bearing their weight or else they fall."
  
+```
+
+```encounter-table
+name: Quickling
+creatures:
+  - 1: Quickling
 ```
 
 

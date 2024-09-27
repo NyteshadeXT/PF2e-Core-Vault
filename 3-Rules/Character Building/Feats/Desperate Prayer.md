@@ -6,8 +6,9 @@ tags:
   - trait/champion
   - trait/common
   - category/class
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.WYaKRREZUSH0jel5"
-license: OGL
+license: ORC
 ---
 # Desperate Prayer `pf2:0`
 ## Feat 1
@@ -20,11 +21,11 @@ license: OGL
 
 **Frequency** once per day
 
-**Trigger** You begin your turn and have no Focus Points in your pool.
+**Trigger** You begin your turn and have no Focus Points.
 
 * * *
 
-You call out to your deity in a plea for their aid. You instantly recover 1 Focus Point.
+You call out to your deity in a plea for their aid. You gain 1 Focus Point, which you can spend only to cast a devotion spell. If you don't spend this Focus Point by the end of this turn, it is lost
 
-*Source: Pathfinder Advanced Player's Guide*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

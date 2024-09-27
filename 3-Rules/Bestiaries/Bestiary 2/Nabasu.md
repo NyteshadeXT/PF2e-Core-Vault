@@ -10,6 +10,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/fiend
   - pf2e/creature/type/unholy
+  - pf2eMonster
   - pf2e/creature/level/8
 statblock: inline
 name: "Nabasu"
@@ -28,16 +29,16 @@ level: "Creature 8"
 
 alignment: ""
 size: "Medium"
-trait_01: "chaotic"
-trait_02: "demon"
-trait_03: "evil"
-trait_04: "fiend"
-trait_05: "unholy"
+trait_01: [[chaotic]]
+trait_02: [[demon]]
+trait_03: [[evil]]
+trait_04: [[fiend]]
+trait_05: [[unholy]]
 modifier: 17
 perception:
   - name: "Perception"
     desc: "+17; Darkvision"
-languages: "Chthonian, Draconic, Empyrean"
+languages: "Chthonian, Draconic, Empyrean; telepathy 100 feet"
 skills:
   - name: "Skills"
     desc: "Acrobatics: +18, Arcana: +16, Religion: +16, Stealth: +18, Survival: +17"
@@ -59,7 +60,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Death-Stealing Gaze"
-    desc: " (aura,divine,visual) 30 feet. When a non-demon ends its turn in the aura, it must attempt a DC 23 Fortitude check save. If it fails, it becomes [[Conditions/Drained 1|Drained 1]]."
+    desc: " (aura,divine,visual) 30 feet. When a non-demon ends its turn in the aura, it must attempt a DC 23 Fortitude check save. If it fails, it becomes [[Conditions/Drained|Drained 1]]."
 
   - name: "Starvation Vulnerability"
     desc: " (mental) A nabasu denied food suffers painful backlash as their demonic nature feeds on their own corrupted spirituality. If a nabasu's Consume Death is disrupted (such as by a fighter using Disruptive Stance) or a creature resists the effect with a critical success, the nabasu takes 4d6 mental damage."
@@ -77,11 +78,17 @@ attacks:
     desc: "DC 26, attack +16; __5th __  _[[Spells/Translocate|Dimension Door]]_; __4th __  _[[Spells/Translocate|Dimension Door (At will)]]_, _[[Spells/Grim Tendrils|Grim Tendrils]]_, _[[Spells/Paralyze|Paralyze]]_, _[[Spells/Vampiric Feast|Vampiric Touch]]_"
 
   - name: "Consume Death"
-    desc: "`pf2:1` (concentrate,divine,visual) The nabasu focuses their death-stealing gaze upon a single target they can see within 30 feet. The target must immediately attempt a Fortitude save against death-stealing gaze.\n**Critical Success** The creature is unaffected and the nabasu suffers starvation vulnerability.\n**Success** The creature is unaffected.\n**Failure** The creature is affected by death-stealing gaze and becomes [[Conditions/Drained 1|Drained 1]]. If the creature was already drained 1 by the death-stealing gaze before attempting the save, a failed save increases the value of the drained condition by 1, to a maximum of drained 4. The nabasu gains 10 temporary Hit Points, and the drained creature is temporarily immune until the start of the nabasu's next turn.\n**Critical Failure** As failure, but the creature increases the amount of drain by 2."
+    desc: "`pf2:1` (concentrate,divine,visual) The nabasu focuses their death-stealing gaze upon a single target they can see within 30 feet. The target must immediately attempt a Fortitude save against death-stealing gaze.\n* * *\n\n**Critical Success** The creature is unaffected and the nabasu suffers starvation vulnerability.\n\n**Success** The creature is unaffected.\n\n**Failure** The creature is affected by death-stealing gaze and becomes [[Conditions/Drained|Drained 1]]. If the creature was already drained 1 by the death-stealing gaze before attempting the save, a failed save increases the value of the drained condition by 1, to a maximum of drained 4. The nabasu gains 10 temporary Hit Points, and the drained creature is temporarily immune until the start of the nabasu's next turn.\n\n**Critical Failure** As failure, but the creature increases the amount of drain by 2."
 
   - name: "Stolen Death"
     desc: "  A creature that dies while suffering drain from a nabasu's death-stealing gaze rises as a ghoul the next midnight."
  
+```
+
+```encounter-table
+name: Nabasu
+creatures:
+  - 1: Nabasu
 ```
 
 

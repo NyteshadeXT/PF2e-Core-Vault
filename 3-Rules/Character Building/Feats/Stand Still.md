@@ -6,8 +6,9 @@ tags:
   - trait/monk
   - trait/common
   - category/class
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.Mj1KTiAwwovm7K9f"
-license: OGL
+license: ORC
 ---
 # Stand Still `pf2:r`
 ## Feat 4
@@ -24,5 +25,5 @@ license: OGL
 
 You strike out when your foe tries to flee. Make a melee Strike against the triggering creature. If the attack is a critical hit and the trigger was a move action, you disrupt that action.
 
-*Source: Pathfinder Core Rulebook*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

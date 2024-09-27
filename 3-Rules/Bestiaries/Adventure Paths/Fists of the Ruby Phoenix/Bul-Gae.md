@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/cold
   - pf2e/creature/type/fire
   - pf2e/creature/type/lawful
+  - pf2eMonster
   - pf2e/creature/level/14
 statblock: inline
 name: "Bul-Gae"
@@ -23,13 +24,13 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #168: King of the Mountain"
 name: "Bul-Gae"
 level: "Creature 14"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Medium"
-trait_01: "beast"
-trait_02: "cold"
-trait_03: "fire"
-trait_04: "lawful"
+trait_01: [[beast]]
+trait_02: [[cold]]
+trait_03: [[fire]]
+trait_04: [[lawful]]
 modifier: 26
 perception:
   - name: "Perception"
@@ -54,7 +55,7 @@ abilities_top:
   - name: ""
 
   - name: "Shadow Leap"
-    desc: "`pf2:1` (occult,shadow,teleportation) Requirement The bul-gae is in dim light or darkness\n**Effect** The bul-gae dives into a shadow and reappears from a shadow within 40 feet."
+    desc: "`pf2:1` (occult,shadow,teleportation) Requirement The bul-gae is in dim light or darkness\n* * *\n\n**Effect** The bul-gae dives into a shadow and reappears from a shadow within 40 feet."
 
 abilities_mid:
   - name: ""
@@ -62,7 +63,7 @@ abilities_mid:
     desc: " (aura,darkness,occult) 100 feet. Light and shadows morph strangely around the bul-gae. A creature attempting to create a light effect within the aura must attempt a DC 5 Flat check check. On a failure, the attempt fails, the effect is lost, and the DC to counteract darkness effects within the aura is increased by 1."
 
   - name: "Solar Flare"
-    desc: "`pf2:r` (fire,occult) **Trigger** The bul-gae takes damage\n**Effect** The bul-gae releases a solar flare in a 30-foot emanation. Each creature in the area takes 6d8 fire damage (DC 34 Reflex check save). On a critical failure, a creature also takes 2d10 persistent fire damage. After using this ability, the bul-gae's flames cool and they can't use Solar Flare again until after they have used Lunar Burst."
+    desc: "`pf2:r` (fire,occult) **Trigger** The bul-gae takes damage\n* * *\n\n**Effect** The bul-gae releases a solar flare in a @Template[emanation|distance:30]. Each creature in the area takes 6d8 fire damage (DC 34 Reflex check save). On a critical failure, a creature also takes 2d10 persistent fire damage. After using this ability, the bul-gae's flames cool and they can't use Solar Flare again until after they have used Lunar Burst."
 
 attacks:
   - name: ""
@@ -71,7 +72,7 @@ attacks:
     desc: "`pf2:1` Jaws +27 (agile)\n__Damage__  2d8 + 12 piercing plus knockdown"
 
   - name: "[[Stolen Fate/Mighty Bul-Gae/Lunar Burst|Lunar Burst]]"
-    desc: "`pf2:2` (cold,occult) The bul-gae releases a blast of otherworldly frost that deals 6d8 cold damage to each creature in a 10-foot emanation (DC 34 Reflex check save). On a critical failure, a creature also becomes [[Conditions/Slowed 1|Slowed 2]]. After using this ability, the bul-gae's flames heat up and they can't use Lunar Burst again until after they have used Solar Flare."
+    desc: "`pf2:2` (cold,occult) The bul-gae releases a blast of otherworldly frost that deals 6d8 cold damage to each creature in a @Template[emanation|distance:10] (DC 34 Reflex check save). On a critical failure, a creature also becomes [[Conditions/Slowed|Slowed 2]]. After using this ability, the bul-gae's flames heat up and they can't use Lunar Burst again until after they have used Solar Flare."
 
   - name: "Thermal Mastery"
     desc: "  The bul-gae has total control over the powers of cold and fire. Each time it attacks with its jaws, it can choose to have the additional damage be either cold damage or fire damage."
@@ -79,6 +80,12 @@ attacks:
   - name: "[[Bestiary Ability Glossary/Knockdown|Knockdown]]"
     desc: "`pf2:1`  "
  
+```
+
+```encounter-table
+name: Bul-Gae
+creatures:
+  - 1: Bul-Gae
 ```
 
 

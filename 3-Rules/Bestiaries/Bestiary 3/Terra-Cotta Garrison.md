@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.pathfinder-bestiary-3.Actor.QLxcPfaHfc1vmF1Y"
 tags:
   - pf2e/creature/type/construct
   - pf2e/creature/type/troop
+  - pf2eMonster
   - pf2e/creature/level/13
 statblock: inline
 name: "Terra-Cotta Garrison"
@@ -25,13 +26,13 @@ level: "Creature 13"
 
 alignment: ""
 size: "grg"
-trait_01: "construct"
-trait_02: "troop"
+trait_01: [[construct]]
+trait_02: [[troop]]
 modifier: 22
 perception:
   - name: "Perception"
     desc: "+22; "
-languages: "Common"
+languages: "Common; (can&#x27;t speak any language)"
 skills:
   - name: "Skills"
     desc: "Athletics: +26, Intimidation: +23"
@@ -63,23 +64,29 @@ abilities_mid:
     desc: "`pf2:r`  "
 
   - name: "[[Bestiary Ability Glossary/Troop Defenses|Troop Defenses]]"
-    desc: "  **Thresholds** 160 (12 squares), 80 (8 squares)\n"
+    desc: "  **Thresholds** 160 (12 squares), 80 (8 squares)\n\n* * *\n"
 
 attacks:
   - name: ""
 
   - name: "Aim as One"
-    desc: "`pf2:2`  The troop launches a ranged attack in the form of a 10-foot burst within 100 feet that deals 3d8 + 11 piercing damage (DC 25 Reflex check save). When the garrison is reduced to 8 or fewer squares, this area decreases to a 5-foot burst."
+    desc: "`pf2:2`  The troop launches a ranged attack in the form of a @Template[burst|distance:10] within 100 feet that deals 3d8+11 piercing damage (DC 25 Reflex check save). When the garrison is reduced to 8 or fewer squares, this area decreases to a @Template[burst|distance:5]."
 
   - name: "Raise Shields"
     desc: "`pf2:1`  The troop raises steel shields, with the effects of [[Actions/Raise a Shield|Raise a Shield]]."
 
   - name: "Strike as One"
-    desc: "`pf2:1`  `pf2:1` to `pf2:3`\n**Frequency** once per round\n**Effect** The garrison makes a melee attack against each enemy within 5 feet (DC 30 Reflex check save). The damage depends on the number of actions.\n`pf2:1` 2d8 slashing damage.\n`pf2:2` 3d8 + 10 slashing damage.\n`pf2:3` 4d8 + 13 slashing damage."
+    desc: "`pf2:1`  `pf2:1` to `pf2:3`\n\n**Frequency** once per round\n* * *\n\n**Effect** The garrison makes a melee attack against each enemy within 5 feet (DC 30 Reflex check save). The damage depends on the number of actions.\n\n`pf2:1` 2d8 slashing damage.\n\n`pf2:2` 3d8+10 slashing damage.\n\n`pf2:3` 4d8+13 slashing damage."
 
   - name: "Troop Movement"
     desc: "  Whenever a troop Strides, it first Forms Up as a free action to condense into a 20-foot-by-20-foot area (minus any missing squares), then moves up to its Speed. This works just like a Gargantuan creature moving; for instance, if any square enters difficult terrain, the extra movement cost applies to the whole troop."
  
+```
+
+```encounter-table
+name: Terra-Cotta Garrison
+creatures:
+  - 1: Terra-Cotta Garrison
 ```
 
 

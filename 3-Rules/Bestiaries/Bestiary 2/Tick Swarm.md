@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.pathfinder-bestiary-2.Actor.jgMFqFDNUWsrnnBH"
 tags:
   - pf2e/creature/type/animal
   - pf2e/creature/type/swarm
+  - pf2eMonster
   - pf2e/creature/level/9
 statblock: inline
 name: "Tick Swarm"
@@ -25,12 +26,13 @@ level: "Creature 9"
 
 alignment: ""
 size: "Large"
-trait_01: "animal"
-trait_02: "swarm"
+trait_01: [[animal]]
+trait_02: [[swarm]]
 modifier: 18
 perception:
   - name: "Perception"
     desc: "+18; Darkvision"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Athletics: +16, Stealth: +19"
@@ -55,7 +57,7 @@ abilities_mid:
     desc: "  This monster doesn't have a single mind (typically because it's a swarm of smaller creatures), and is immune to mental effects that target only a specific number of creatures. It is still subject to mental effects that affect all creatures in an area."
 
   - name: "Cling"
-    desc: "`pf2:r`  **Trigger** A creature leaves the swarm's space\n**Effect** The swarm takes 1d6 damage as ticks cling to the creature and continue biting, dealing 3d6 bleed. Immersion in water reduces the DC of the flat check to end this persistent damage to 5, and any area damage dealt to the creature destroys these clinging ticks."
+    desc: "`pf2:r`  **Trigger** A creature leaves the swarm's space\n* * *\n\n**Effect** The swarm takes 1d6 damage as ticks cling to the creature and continue biting, dealing 3d6 bleed. Immersion in water reduces the DC of the flat check to end this persistent damage to 5, and any area damage dealt to the creature destroys these clinging ticks."
 
 attacks:
   - name: ""
@@ -64,8 +66,14 @@ attacks:
     desc: "`pf2:1`  Each enemy in the swarm's space takes 3d6 piercing damage (DC 28 Reflex check save) plus Cling and exposure to tick fever."
 
   - name: "Tick Fever"
-    desc: " (disease) **Saving Throw** DC 27 Fortitude check\n**Onset** 1 day\n**Stage 1** [[Conditions/Enfeebled 1|Enfeebled 1]] (1 day)\n**Stage 2** [[Conditions/Enfeebled 1|Enfeebled 2]] (1 day)."
+    desc: " (disease) **Saving Throw** DC 27 Fortitude check\n\n**Onset** 1 day\n\n**Stage 1** [[Conditions/Enfeebled|Enfeebled 1]] (1 day)\n\n**Stage 2** [[Conditions/Enfeebled|Enfeebled 2]] (1 day)."
  
+```
+
+```encounter-table
+name: Tick Swarm
+creatures:
+  - 1: Tick Swarm
 ```
 
 

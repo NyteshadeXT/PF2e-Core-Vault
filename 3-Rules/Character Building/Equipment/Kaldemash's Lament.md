@@ -55,7 +55,7 @@ While _Kaldemash's Lament_ is moving independently, you can command it to make a
 
 * * *
 
-**Effect** You unleash a barrage of attacks in an instant. You deal Strike damage to all creatures in a 30-foot cone (DC 45 Reflex check). This barrage counts as three attacks for your multiple attack penalty.
+**Effect** You unleash a barrage of attacks in an instant. You deal Strike damage to all creatures in a @Template\[cone|distance:30\] (DC 45 Reflex check). This barrage counts as three attacks for your multiple attack penalty.
 
 *Source: Pathfinder Treasure Vault*
 *OGL*

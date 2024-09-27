@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/changeling
   - pf2e/creature/type/human
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/3
   - remaster
 statblock: inline
@@ -27,9 +28,9 @@ level: "Creature 3"
 
 alignment: ""
 size: "Medium"
-trait_01: "changeling"
-trait_02: "human"
-trait_03: "humanoid"
+trait_01: [[changeling]]
+trait_02: [[human]]
+trait_03: [[humanoid]]
 modifier: 11
 perception:
   - name: "Perception"
@@ -74,6 +75,12 @@ attacks:
   - name: "Druid Order Spells"
     desc: "2 Focus Points, DC 21, attack +13; __2nd __  _[[Spells/Untamed Form|Untamed Form]]_, _[[Spells/Untamed Shift|Untamed Shift]]_"
  
+```
+
+```encounter-table
+name: Changeling Exile
+creatures:
+  - 1: Changeling Exile
 ```
 
 

@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/chaotic
   - pf2e/creature/type/fey
   - pf2e/creature/type/sprite
+  - pf2eMonster
   - pf2e/creature/level/1
 statblock: inline
 name: "Grig"
@@ -26,9 +27,9 @@ level: "Creature 1"
 
 alignment: ""
 size: "tiny"
-trait_01: "chaotic"
-trait_02: "fey"
-trait_03: "sprite"
+trait_01: [[chaotic]]
+trait_02: [[fey]]
+trait_03: [[sprite]]
 modifier: 7
 perception:
   - name: "Perception"
@@ -36,7 +37,7 @@ perception:
 languages: "Common, Fey"
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +7, Athletics: +2 (+6 to High Jump or Long Jump), Performance: +7, Stealth: +7"
+    desc: "Acrobatics: +7, Athletics: +2, Performance: +7, Stealth: +7"
 abilityMods: [-2, 4, 1, 0, 2, 4]
 speed: 25 feet,  fly 30 feet
 sourcebook: "_Pathfinder Bestiary_"
@@ -67,8 +68,14 @@ attacks:
     desc: "DC 18, attack +10; __2nd __  _[[Spells/Revealing Light|Glitterdust]]_, _[[Spells/Invisibility|Invisibility (Self Only)]]_; __1st __  _[[Spells/Illusory Disguise|Illusory Disguise]]_\n__Cantrips__  __(1st)__ _[[Spells/Ghost Sound|Ghost Sound]]_"
 
   - name: "Fiddle"
-    desc: "`pf2:1` (auditory,emotion,mental,primal) A grig can rub its legs together to create a catchy fiddling tune that compels others within 30 feet to dance about, with varying effects depending on a DC 18 Will check save. A listener is temporarily immune for 10 minutes on a success, but otherwise, if the grig continues to Fiddle each round, the creature receives no additional saves.\n**Success** No effect\n**Failure** [[Conditions/Off-Guard|Off-Guard]] and -10-foot status penalty to Speeds\n**Critical Failure** As failure, and also [[Conditions/Slowed 1|Slowed 1]]\n[[Bestiary Effects/Effect_ Fiddle|Effect: Fiddle]]"
+    desc: "`pf2:1` (auditory,emotion,mental,primal) A grig can rub its legs together to create a catchy fiddling tune that compels others within 30 feet to dance about, with varying effects depending on a DC 18 Will check save. A listener is temporarily immune for 10 minutes on a success, but otherwise, if the grig continues to Fiddle each round, the creature receives no additional saves.\n* * *\n\n**Success** No effect\n\n**Failure** [[Conditions/Off-Guard|Off-Guard]] and -10-foot status penalty to Speeds\n\n**Critical Failure** As failure, and also [[Conditions/Slowed|Slowed 1]]\n\n[[Bestiary Effects/Effect_ Fiddle|Effect: Fiddle]]"
  
+```
+
+```encounter-table
+name: Grig
+creatures:
+  - 1: Grig
 ```
 
 

@@ -11,6 +11,7 @@ tags:
   - pf2e/creature/type/humanoid
   - pf2e/creature/type/unholy
   - pf2e/creature/type/xulgath
+  - pf2eMonster
   - pf2e/creature/level/22
 statblock: inline
 name: "Sarvel Ever-Hunger"
@@ -25,15 +26,15 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #156: The Apocalypse Prophet"
 name: "Sarvel Ever-Hunger"
 level: "Creature 22"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Large"
-trait_01: "chaotic"
-trait_02: "evil"
-trait_03: "fiend"
-trait_04: "humanoid"
-trait_05: "unholy"
-trait_06: "xulgath"
+trait_01: [[chaotic]]
+trait_02: [[evil]]
+trait_03: [[fiend]]
+trait_04: [[humanoid]]
+trait_05: [[unholy]]
+trait_06: [[xulgath]]
 modifier: 39
 perception:
   - name: "Perception"
@@ -61,16 +62,16 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "[[Bestiary Ability Glossary/Attack of Opportunity|Attack of Opportunity (Tentacle Only)]]"
-    desc: "`pf2:r`  Tentacle only\n"
+    desc: "`pf2:r`  Tentacle only\n\n* * *\n"
 
   - name: "Echoes of Aeons"
-    desc: "  At the start of Sarvel's turn, if he is dead, unconscious, or otherwise unable to act, his efforts in the unfinished _extinction curse_ ritual pull on the power of an _aeon orb_.\nThe surge of power heals his body completely without causing the wounded condition, causes him to grow an additional tentacle, and attempts to counteract all detrimental effects on Sarvel as a 10th-rank effect with a +42 counteract modifier.\nAn aeon orb used by Sarvel or the heroes is depleted and can't be used to power this ability."
+    desc: "  At the start of Sarvel's turn, if he is dead, unconscious, or otherwise unable to act, his efforts in the unfinished _extinction curse_ ritual pull on the power of an _aeon orb_.\n\nThe surge of power heals his body completely without causing the wounded condition, causes him to grow an additional tentacle, and attempts to counteract all detrimental effects on Sarvel as a 10th-rank effect with a +42 counteract modifier.\n\nAn aeon orb used by Sarvel or the heroes is depleted and can't be used to power this ability."
 
   - name: "Enraging Stench"
-    desc: " (aura,emotion,mental,olfactory) 30 feet. A creature that enters or begins their turn in the emanation must attempt a DC 45 Fortitude check save. On a failure, the creature is [[Conditions/Sickened 1|Sickened 2]] and [[Conditions/Confused|Confused]] for 1 round; on a critical failure, it can't target Sarvel with any Strikes or other effects from its confused condition.\nWhile within the emanation, the creature takes a -2 penalty to saves to recover from the sickened condition.\nA creature that succeeds at its save is temporarily immune to all xulgaths' stenches for 1 minute. Sarvel can suppress or resume this aura as a free action."
+    desc: " (aura,emotion,mental,olfactory) 30 feet. A creature that enters or begins their turn in the emanation must attempt a DC 45 Fortitude check save. On a failure, the creature is [[Conditions/Sickened|Sickened 2]] and [[Conditions/Confused|Confused]] for 1 round; on a critical failure, it can't target Sarvel with any Strikes or other effects from its confused condition.\n\nWhile within the emanation, the creature takes a -2 penalty to saves to recover from the sickened condition.\n\nA creature that succeeds at its save is temporarily immune to all xulgaths' stenches for 1 minute. Sarvel can suppress or resume this aura as a free action."
 
   - name: "Touch of Zevgavizeb"
-    desc: "  Sarvel begins combat with two tentacles. Each tentacle has 66 HP and is immune to area damage.\nA creature can attempt to sever one of Sarvel's tentacles by specifically targeting it and dealing damage equal to the tentacle's Hit Points. A tentacle not completely severed returns to full HP at the end of any creature's turn.\nFor each tentacle he has, Sarvel gains an extra reaction at the start of his turn that can be used only for an Attack of Opportunity. If he has no tentacles, he can no longer make tentacle Strikes, Writhe Independently, or Constrict."
+    desc: "  Sarvel begins combat with two tentacles. Each tentacle has 66 HP and is immune to area damage.\n\nA creature can attempt to sever one of Sarvel's tentacles by specifically targeting it and dealing damage equal to the tentacle's Hit Points. A tentacle not completely severed returns to full HP at the end of any creature's turn.\n\nFor each tentacle he has, Sarvel gains an extra reaction at the start of his turn that can be used only for an Attack of Opportunity. If he has no tentacles, he can no longer make tentacle Strikes, Writhe Independently, or Constrict."
 
 attacks:
   - name: ""
@@ -91,14 +92,20 @@ attacks:
     desc: "_[[Spells/Demonic Pact|Abyssal Pact]]_, _[[Spells/Atone|Atone]]_, _[[Spells/Commune|Commune]]_"
 
   - name: "[[Bestiary Ability Glossary/Constrict|Constrict]]"
-    desc: "`pf2:1`  4d8 + 12 bludgeoning damage, DC 45 Fortitude check\n"
+    desc: "`pf2:1`  4d8+12 bludgeoning damage, DC 45 Fortitude check\n\n* * *\n"
 
   - name: "Writhe Independently"
-    desc: "`pf2:1`  **Frequency** once per round\n**Effect** Sarvel makes one tentacle Strike with each tentacle he currently has (to a maximum of six Strikes), but he can't target a single creature with more than one Strike. Each attack counts toward his multiple attack penalty, but the penalty doesn't increase until all the attacks have been made."
+    desc: "`pf2:1`  **Frequency** once per round\n* * *\n\n**Effect** Sarvel makes one tentacle Strike with each tentacle he currently has (to a maximum of six Strikes), but he can't target a single creature with more than one Strike. Each attack counts toward his multiple attack penalty, but the penalty doesn't increase until all the attacks have been made."
 
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
     desc: "`pf2:1`  "
  
+```
+
+```encounter-table
+name: Sarvel Ever-Hunger
+creatures:
+  - 1: Sarvel Ever-Hunger
 ```
 
 

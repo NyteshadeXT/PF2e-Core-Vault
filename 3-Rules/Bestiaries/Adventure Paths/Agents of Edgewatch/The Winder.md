@@ -5,6 +5,7 @@ noteType: pf2eHazard
 tags:
   - environmental
   - mechanical
+  - pf2eHazard
   - complex
 source: Pathfinder #161: Belly of the Black Whale
 aliases: "Compendium.pf2e.agents-of-edgewatch-bestiary.Actor.LACpbwnVT7m2ZqBi" 
@@ -22,14 +23,14 @@ name: "The Winder"
 level: "Hazard 19"
 
 trait_06: "Complex"
-trait_01: "environmental"
-trait_02: "mechanical"
+trait_01: [[environmental]]
+trait_02: [[mechanical]]
 modifier: 31
 sourcebook: "_Pathfinder #161: Belly of the Black Whale_"
 ac: 43
 armorclass:
   - name: AC
-    desc: "43; __Fort__ +32, __Ref__ +35, __Will__ +0"
+    desc: "43; __Fort__ +32, __Ref__ +35, "
 hp: 250
 health:
   - name: ""
@@ -51,7 +52,7 @@ attacks:
   - name: ""
 
   - name: "Wind Up"
-    desc: "`pf2:r` **Trigger** A creature other than the Rumormonger enters the room, or the Rumormonger commands the device to activate\n**Effect** The Winder rolls initiative."
+    desc: "`pf2:r` **Trigger** A creature other than the Rumormonger enters the room, or the Rumormonger commands the device to activate\n* * *\n\n**Effect** The Winder rolls initiative."
 
   - name: "Wind"
     desc: "action The Winder winds a clockwork creature in the room. If the creature is currently inactive, this activates the creature, allowing it to act normally for 1d4 rounds. If already active, this instead increases the number of rounds the clockwork creature remains active by 1d4."
@@ -60,5 +61,11 @@ attacks:
     desc: "(1, 2, or 4 actions, depending on the encounter's threat level) The Winder uses each of its actions to Wind clockwork assassins in the room, starting with inactive ones."
   - name: "Reset"
     desc: "The Winder resets as soon as no creatures remain in the room."
+```
+
+```encounter-table
+name: The Winder
+creatures:
+  - 1: The Winder
 ```
 

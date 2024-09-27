@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.kingmaker-bestiary.Actor.EM2mwJzZeu5rWIQS"
 tags:
   - pf2e/creature/type/human
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/6
 statblock: inline
 name: "Ekundayo (Level 6)"
@@ -21,11 +22,11 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Kingmaker"
 name: "Ekundayo (Level 6)"
 level: "Creature 6"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Medium"
-trait_01: "human"
-trait_02: "humanoid"
+trait_01: [[human]]
+trait_02: [[humanoid]]
 modifier: 12
 perception:
   - name: "Perception"
@@ -33,7 +34,7 @@ perception:
 languages: "Common"
 skills:
   - name: "Skills"
-    desc: "Giant Lore: +0, Guild Lore: +0, Hunting Lore: +0, "
+    desc: ""
 abilityMods: [2, 4, 3, 1, 2, 0]
 speed: 25 feet
 sourcebook: "_Pathfinder Kingmaker_"
@@ -56,8 +57,14 @@ attacks:
   - name: ""
 
   - name: "[[Actions/Hunt Prey|Hunt Prey]]"
-    desc: "`pf2:1` (concentrate,ranger) You designate a single creature as your prey and focus your attacks against that creature. You must be able to see or hear the prey, or you must be tracking the prey during exploration.\nYou gain a +2 circumstance bonus to Perception checks when you [[Actions/Seek|Seek]] your prey and a +2 circumstance bonus to Survival checks when you [[Actions/Track|Track]] your prey. You also ignore the penalty for making ranged attacks within your second range increment against the prey you're hunting.\nYou can have only one creature designated as your prey at a time. If you use Hunt Prey against a creature when you already have a creature designated, the prior creature loses the designation and the new prey gains the designation. Your designation lasts until your next daily preparations."
+    desc: "`pf2:1` (concentrate,ranger) You designate a single creature as your prey and focus your attacks against that creature. You must be able to see or hear the prey, or you must be tracking the prey during exploration.\n\nYou gain a +2 circumstance bonus to Perception checks when you [[Actions/Seek|Seek]] your prey and a +2 circumstance bonus to Survival checks when you [[Actions/Track|Track]] your prey. You also ignore the penalty for making ranged attacks within your second range increment against the prey you're hunting.\n\nYou can have only one creature designated as your prey at a time. If you use Hunt Prey against a creature when you already have a creature designated, the prior creature loses the designation and the new prey gains the designation. Your designation lasts until your next daily preparations."
  
+```
+
+```encounter-table
+name: Ekundayo (Level 6)
+creatures:
+  - 1: Ekundayo (Level 6)
 ```
 
 

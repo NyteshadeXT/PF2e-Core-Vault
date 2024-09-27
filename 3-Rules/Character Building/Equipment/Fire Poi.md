@@ -15,7 +15,7 @@ license: OGL
 ---
 # Fire Poi
 ## Item 0
-### [uncommon](uncommon "Uncommon Rarity Trait")[[agile]][[backswing]][[finesse]][[twin]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[3-Rules/Rule References/Agile]][[backswing]][[3-Rules/Rule References/Finesse]][[twin]]
 
 |  |  |
 | -- | -- |

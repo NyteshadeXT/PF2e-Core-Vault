@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.kingmaker-bestiary.Actor.0EO5vP2gCliAxLrF"
 tags:
   - pf2e/creature/type/goblin
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/5
 statblock: inline
 name: "Nok-Nok (Level 5)"
@@ -21,11 +22,11 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Kingmaker"
 name: "Nok-Nok (Level 5)"
 level: "Creature 5"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Small"
-trait_01: "goblin"
-trait_02: "humanoid"
+trait_01: [[goblin]]
+trait_02: [[humanoid]]
 modifier: 8
 perception:
   - name: "Perception"
@@ -33,7 +34,7 @@ perception:
 languages: "Common, Goblin"
 skills:
   - name: "Skills"
-    desc: "Underworld Lore: +0, "
+    desc: ""
 abilityMods: [2, 4, 4, 0, -1, 3]
 speed: 25 feet
 sourcebook: "_Pathfinder Kingmaker_"
@@ -55,6 +56,12 @@ abilities_mid:
 attacks:
   - name: ""
  
+```
+
+```encounter-table
+name: Nok-Nok (Level 5)
+creatures:
+  - 1: Nok-Nok (Level 5)
 ```
 
 

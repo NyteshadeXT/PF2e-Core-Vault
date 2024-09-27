@@ -6,6 +6,7 @@ cssClasses: pf2e
 aliases: "Compendium.pf2e.stolen-fate-bestiary.Actor.M8Ud2zb5KwfocEd2" 
 tags:
   - pf2e/creature/type/construct
+  - pf2eMonster
   - pf2e/creature/level/17
 statblock: inline
 name: "The Trader"
@@ -20,10 +21,10 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #192: Worst of All Possible Worlds"
 name: "The Trader"
 level: "Creature 17"
-rare_03: "Rare"
+rare_03: [[Rare]]
 alignment: ""
 size: "Medium"
-trait_01: "construct"
+trait_01: [[construct]]
 modifier: 29
 perception:
   - name: "Perception"
@@ -66,14 +67,20 @@ attacks:
     desc: " (concentrate,teleportation) The Trader travels into an extradimensional storeroom which houses a nearly unlimited stock of merchandise for sale. He spends 1 minute within the storeroom and emerges with a single item in hand. The storeroom typically has all common items of 15th level or lower available, which he can sell at a normal price. Given enough time—usually 1 week—he can find any common item of up to 20th level to add to his storeroom, or an uncommon item of up to 12th level, at the GM's discretion. The Trader is the only creature able to enter his storeroom; all attempts by other creatures to travel there automatically fail."
 
   - name: "[[Creature Family Ability Glossary/(Harrowkin) Harrowkin Suit|Harrowkin Suit (Books)]]"
-    desc: "  Each harrowkin is connected one specific harrow suit and has the following shared abilities.\n[[Creature Family Ability Glossary/(Harrowkin) Defensive Suit|(Harrowkin) Defensive Suit]]\n[[Creature Family Ability Glossary/(Harrowkin) Shuffle the Deck|(Harrowkin) Shuffle the Deck]]\n[[Creature Family Ability Glossary/(Harrowkin) Read the Cards|(Harrowkin) Read the Cards]]\n_Note: This ability enables additional automation for the listed abilities._"
+    desc: "  Each harrowkin is connected one specific harrow suit and has the following shared abilities.\n\n[[Creature Family Ability Glossary/(Harrowkin) Defensive Suit|(Harrowkin) Defensive Suit]]\n\n[[Creature Family Ability Glossary/(Harrowkin) Shuffle the Deck|(Harrowkin) Shuffle the Deck]]\n\n[[Creature Family Ability Glossary/(Harrowkin) Read the Cards|(Harrowkin) Read the Cards]]\n* * *\n\n_Note: This ability enables additional automation for the listed abilities._"
 
   - name: "[[Creature Family Ability Glossary/(Harrowkin) Read the Cards|Read the Cards]]"
-    desc: " (occult) **Trigger** The harrowkin is about to roll initiative\n**Effect** The harrowkin attempts to rewrite destiny. Roll 1d6 to determine a suit. The harrowkin gains the effects of the suit for 1 minute. If the suit matches the harrowkin's suit, the value is doubled.\n[[Bestiary Effects/Effect_ Read the Cards|Effect: Read the Cards]]\n**Hammers** The harrowkin gains a +2 status bonus to damage rolls.\n**Keys** The harrowkin gains a +1 status bonus to AC.\n**Shields** The harrowkin gains fast healing 5.\n**Books** The harrowkin gains a +1 status bonus to skill checks.\n**Stars** The harrowkin gains a +1 status bonus to saving throws.\n**Crown** The harrowkin can reroll 1 check within the next minute and take the higher result. This is a fortune effect.\n_Note: The effect will roll the d6 automatically on placement._"
+    desc: " (occult) **Trigger** The harrowkin is about to roll initiative\n* * *\n\n**Effect** The harrowkin attempts to rewrite destiny. Roll 1d6 to determine a suit. The harrowkin gains the effects of the suit for 1 minute. If the suit matches the harrowkin's suit, the value is doubled.\n\n[[Bestiary Effects/Effect_ Read the Cards|Effect: Read the Cards]]\n\n**Hammers** The harrowkin gains a +2 status bonus to damage rolls.\n\n**Keys** The harrowkin gains a +1 status bonus to AC.\n\n**Shields** The harrowkin gains fast healing 5.\n\n**Books** The harrowkin gains a +1 status bonus to skill checks.\n\n**Stars** The harrowkin gains a +1 status bonus to saving throws.\n\n**Crown** The harrowkin can reroll 1 check within the next minute and take the higher result. This is a fortune effect.\n* * *\n\n_Note: The effect will roll the d6 automatically on placement._"
 
   - name: "[[Creature Family Ability Glossary/(Harrowkin) Shuffle the Deck|Shuffle the Deck]]"
-    desc: "`pf2:2`  **Frequency** once per day\n**Requirements** The harrowkin has rolled initiative\n**Effect** At the end of the current round, all creatures currently in initiative reroll their initiative, using the same modifiers as their original initiative roll, and use the new initiative values for all following rounds.."
+    desc: "`pf2:2`  **Frequency** once per day\n\n**Requirements** The harrowkin has rolled initiative\n* * *\n\n**Effect** At the end of the current round, all creatures currently in initiative reroll their initiative, using the same modifiers as their original initiative roll, and use the new initiative values for all following rounds.."
  
+```
+
+```encounter-table
+name: The Trader
+creatures:
+  - 1: The Trader
 ```
 
 

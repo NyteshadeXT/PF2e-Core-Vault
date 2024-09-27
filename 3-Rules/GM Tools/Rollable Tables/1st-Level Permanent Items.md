@@ -8,11 +8,11 @@ tags:
 ---
 
 # 1st-Level Permanent Items
-Table of 1st-Level Permanent Items
+<p>Table of 1st-Level Permanent Items</p>
 
 | 1d21 | result |
 |------|--------|
-| 1-6 | Half Plate |
-| 7-12 | Splint Mail |
-| 13-18 | Everburning Torch |
-| 19-21 | Aeon Stone (Dull Grey) |
+| 1-6 | [[Equipment/Half Plate\|Half Plate]] |
+| 7-12 | [[Equipment/Splint Mail\|Splint Mail]] |
+| 13-18 | [[Equipment/Everlight Crystal\|Everlight Crystal]] |
+| 19-21 | [[Equipment/Aeon Stone (Consumed)\|Aeon Stone (Consumed)]] |

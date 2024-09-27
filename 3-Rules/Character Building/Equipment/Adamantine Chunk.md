@@ -11,7 +11,7 @@ license: ORC
 ---
 # Adamantine Chunk
 
-### [uncommon](uncommon "Uncommon Rarity Trait")[[precious]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[precious]]
 
 
 **Price** 500 gp; 

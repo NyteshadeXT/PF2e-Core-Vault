@@ -35,7 +35,7 @@ Peshspine grenades are explosive bombs packed with alchemically treated needles 
 
 Many types of peshpine grenade grant an item bonus to attack rolls.
 
-The bomb deals 1d6 piercing damage and 1 piercing splash damage, and the target is [[Conditions/Stupefied 1|Stupefied 1]].
+The bomb deals 1d6 piercing damage and 1 piercing splash damage, and the target is [[Conditions/Stupefied|Stupefied 1]].
 
 *Source: Pathfinder #149: Against the Scarlet Triad*
 *OGL*

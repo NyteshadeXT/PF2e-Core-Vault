@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/devil
   - pf2e/creature/type/fiend
   - pf2e/creature/type/unholy
+  - pf2eMonster
   - pf2e/creature/level/5
   - remaster
 statblock: inline
@@ -20,15 +21,16 @@ license: ORC
 columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
+token: [[modules/pf2e-tokens-bestiaries/portraits/fiendish/devil/barbazu.webp| ]]
 source: "Pathfinder Monster Core"
 name: "Vordine"
 level: "Creature 5"
 
 alignment: ""
 size: "Medium"
-trait_01: "devil"
-trait_02: "fiend"
-trait_03: "unholy"
+trait_01: [[devil]]
+trait_02: [[fiend]]
+trait_03: [[unholy]]
 modifier: 12
 perception:
   - name: "Perception"
@@ -85,6 +87,12 @@ attacks:
   - name: "Trident of Dis"
     desc: "`pf2:1`  The vordine makes a trident Strike, increasing their reach to 10 feet for that Strike. If there is an unholy ally between the vordine and their target, that creature's energy causes the Strike to deal an additional 1d6 spirit damage."
  
+```
+
+```encounter-table
+name: Vordine
+creatures:
+  - 1: Vordine
 ```
 
 

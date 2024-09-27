@@ -11,7 +11,7 @@ license: OGL
 ---
 # Bloodline: Psychopomp
 ## Feat 1
-### [[sorcerer]]
+### [[3-Rules/trait_reference/sorcerer]]
 
 **Category** classfeature; 
 

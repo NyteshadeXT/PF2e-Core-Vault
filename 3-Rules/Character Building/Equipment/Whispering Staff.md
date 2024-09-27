@@ -50,7 +50,7 @@ This gnarled wooden staff is carved with humanoid faces in various emotional sta
 
 **Frequency** once per day
 
-**Effect** You twirl the staff in three consecutive circles and call for the whispers to speak up. For the next minute, you and all allies within a 30-foot emanation around you can hear your staff's whispers clearly and distinctly, gaining benefit from their advice and mental protection. Whenever you and your affected allies attempt to Recall Knowledge or attempt a saving throw against a mental effect, you roll twice and take the better result. This is a fortune effect.
+**Effect** You twirl the staff in three consecutive circles and call for the whispers to speak up. For the next minute, you and all allies within a @Template\[emanation|distance:30\] around you can hear your staff's whispers clearly and distinctly, gaining benefit from their advice and mental protection. Whenever you and your affected allies attempt to Recall Knowledge or attempt a saving throw against a mental effect, you roll twice and take the better result. This is a fortune effect.
 
 [[Equipment Effects/Effect_ Whispering Staff (Ally)|Effect: Whispering Staff (Ally)]]
 

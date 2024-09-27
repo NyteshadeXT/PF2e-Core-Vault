@@ -10,6 +10,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/fey
   - pf2e/creature/type/fire
+  - pf2eMonster
   - pf2e/creature/level/13
 statblock: inline
 name: "Dalos"
@@ -24,14 +25,14 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #148: Fires of the Haunted City"
 name: "Dalos"
 level: "Creature 13"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "huge"
-trait_01: "chaotic"
-trait_02: "earth"
-trait_03: "evil"
-trait_04: "fey"
-trait_05: "fire"
+trait_01: [[chaotic]]
+trait_02: [[earth]]
+trait_03: [[evil]]
+trait_04: [[fey]]
+trait_05: [[fire]]
 modifier: 23
 perception:
   - name: "Perception"
@@ -58,7 +59,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Magma Splash"
-    desc: " (fire) Whenever the dalos takes damage from a melee Strike, magma splashes from its open wound and sticks to nearby creatures. Each creature in a 10-foot emanation must attempt a DC 31 Reflex check save. On a failure, the creature takes 3d6 persistent fire damage as the superheated rock sticks to them and cools. The DC to end this persistent damage decreases by 5 each turn after the first as the magma cools."
+    desc: " (fire) Whenever the dalos takes damage from a melee Strike, magma splashes from its open wound and sticks to nearby creatures. Each creature in a @Template[emanation|distance:10] must attempt a DC 31 Reflex check save. On a failure, the creature takes 3d6 persistent fire damage as the superheated rock sticks to them and cools. The DC to end this persistent damage decreases by 5 each turn after the first as the magma cools."
 
   - name: "Volcanic Heat"
     desc: " (aura,fire) 10 feet. 3d6 fire damage (DC 29 Reflex check save)."
@@ -76,17 +77,23 @@ attacks:
     desc: "DC 31, attack +21; __7th __  _[[Spells/Earthbind|Earthbind (x3)]]_, _[[Spells/Slow|Slow]]_, _[[Spells/Stinking Cloud|Stinking Cloud]]_"
 
   - name: "Belch Smoke"
-    desc: "`pf2:3`  The dalos blasts smoke from its head, creating a 20-foot burst of smoke that drifts to a location within 120 feet. This has the effects of [[Spells/Mist|Mist]]."
+    desc: "`pf2:3`  The dalos blasts smoke from its head, creating a @Template[burst|distance:20] of smoke that drifts to a location within 120 feet. This has the effects of [[Spells/Mist|Mist]]."
 
   - name: "Heat Rock"
-    desc: "`pf2:2` (fire) The dalos uses an Interact action to pluck a rock from its body or the nearby environment, then uses its internal fires to heat a rock it's holding until the rock is red hot. A heated rock that hits a target on a ranged Strike deals an additional 4d6 fire damage.\nOnce the dalos heats a rock, that rock retains its heat for 2 rounds before cooling."
+    desc: "`pf2:2` (fire) The dalos uses an Interact action to pluck a rock from its body or the nearby environment, then uses its internal fires to heat a rock it's holding until the rock is red hot. A heated rock that hits a target on a ranged Strike deals an additional 4d6 fire damage.\n\nOnce the dalos heats a rock, that rock retains its heat for 2 rounds before cooling."
 
   - name: "Lava Bomb"
-    desc: "`pf2:2` (earth,fire) The dalos causes a volcanic explosion to erupt from its head, lobbing a mass of molten rock up to 100 feet. This lava bomb deals 6d8 fire damage and 6d8 bludgeoning damage to each creature in a 20-foot radius of its impact point, with a DC 33 Reflex check save.\nThe dalos can't use Lava Bomb again for 1d4 rounds."
+    desc: "`pf2:2` (earth,fire) The dalos causes a volcanic explosion to erupt from its head, lobbing a mass of molten rock up to 100 feet. This lava bomb deals 6d8 fire damage and 6d8 bludgeoning damage to each creature in a 20-foot radius of its impact point, with a DC 33 Reflex check save.\n\nThe dalos can't use Lava Bomb again for 1d4 rounds."
 
   - name: "Throw Rock"
     desc: "`pf2:1`  The monster picks up a rock within reach or retrieves a stowed rock and throws it, making a ranged Strike."
  
+```
+
+```encounter-table
+name: Dalos
+creatures:
+  - 1: Dalos
 ```
 
 

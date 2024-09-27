@@ -7,6 +7,7 @@ aliases: "Compendium.battlezoo-bestiary-su-pf2e.pf2e-battlezoo-su-actors.Actor.o
 tags:
   - pf2e/creature/type/chaotic
   - pf2e/creature/type/fey
+  - pf2eMonster
   - pf2e/creature/level/2
 statblock: inline
 name: "Chosaintor"
@@ -22,11 +23,11 @@ token: [[modules/battlezoo-bestiary-su-pf2e/art/Portraits/chosaintor.webp| ]]
 source: "Battlezoo Bestiary: Strange and Unusual"
 name: "Chosaintor"
 level: "Creature 2"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "tiny"
-trait_01: "chaotic"
-trait_02: "fey"
+trait_01: [[chaotic]]
+trait_02: [[fey]]
 modifier: 10
 perception:
   - name: "Perception"
@@ -34,7 +35,7 @@ perception:
 languages: "Common, Fey"
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +8, Athletics: +7, Deception: +9, Diplomacy: +7, Intimidation: +7, Stealth: +8, "
+    desc: "Acrobatics: +8, Athletics: +7, Deception: +9, Diplomacy: +7, Intimidation: +7, Stealth: +8, Acrobatics: +8, Athletics: +7, Deception: +9, Diplomacy: +7, Intimidation: +7, Stealth: +8"
 abilityMods: [1, 3, 0, 2, 4, 3]
 speed: 30 feet
 sourcebook: "_Battlezoo Bestiary: Strange and Unusual_"
@@ -51,7 +52,7 @@ abilities_top:
   - name: ""
 
   - name: "Bond Companion"
-    desc: "`pf2:3` (mental,primal) **Frequency** once per day\n**Effect** The chosaintor forms a protective bond with a vulnerable child it can see within 60 feet; if the chosaintor attempts to use this ability and the target isn't a valid vulnerable child (GM's discretion), the chosaintor can use the ability again on the same day, ignoring the usual frequency limitations. While the bond exists, the chosaintor can communicate telepathically with their bonded companion with a range of 300 feet. The chosaintor can only have one bonded companion at a time, so using Bond Companion again ends the previous bond. The bond is also broken when the chosaintor's companion becomes an adult (this age varies based on culture and individual maturity, and is determined by the GM). Finally, the bond also ends if the chosaintor or the bonded companion dies."
+    desc: "`pf2:3` (mental,primal) **Frequency** once per day\n* * *\n\n**Effect** The chosaintor forms a protective bond with a vulnerable child it can see within 60 feet; if the chosaintor attempts to use this ability and the target isn't a valid vulnerable child (GM's discretion), the chosaintor can use the ability again on the same day, ignoring the usual frequency limitations. While the bond exists, the chosaintor can communicate telepathically with their bonded companion with a range of 300 feet. The chosaintor can only have one bonded companion at a time, so using Bond Companion again ends the previous bond. The bond is also broken when the chosaintor's companion becomes an adult (this age varies based on culture and individual maturity, and is determined by the GM). Finally, the bond also ends if the chosaintor or the bonded companion dies."
 
 abilities_mid:
   - name: ""
@@ -68,8 +69,14 @@ attacks:
     desc: "DC 18, attack +10; __1st __  _[[Spells/Charm|Charm]]_\n__Cantrips__  __(1st)__ _[[Spells/Prestidigitation|Prestidigitation]]_, _[[Spells/Tame|Tame]]_"
 
   - name: "Nightmarish Protector"
-    desc: "`pf2:2` (polymorph,primal) **Frequency** once per 10 minutes\n**Requirements** The chosaintor has Bonded a Companion, and the companion is actively threatened\n**Effect** The chosaintor grows into a more fearsome form in order to better protect their companion. The chosaintor grows from Tiny to Small, gains a 5 foot reach, 10 temporary Hit Points, and a +2 status bonus to their attack and damage rolls. The effects last for 1 minute.\n[[Effects/Effect_ Nightmarish Protector|Effect: Nightmarish Protector]]"
+    desc: "`pf2:2` (polymorph,primal) **Frequency** once per 10 minutes\n\n**Requirements** The chosaintor has Bonded a Companion, and the companion is actively threatened\n* * *\n\n**Effect** The chosaintor grows into a more fearsome form in order to better protect their companion. The chosaintor grows from Tiny to Small, gains a 5 foot reach, 10 temporary Hit Points, and a +2 status bonus to their attack and damage rolls. The effects last for 1 minute.\n\n[[Effects/Effect_ Nightmarish Protector|Effect: Nightmarish Protector]]"
  
+```
+
+```encounter-table
+name: Chosaintor
+creatures:
+  - 1: Chosaintor
 ```
 
 

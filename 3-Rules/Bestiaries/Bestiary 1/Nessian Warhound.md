@@ -11,6 +11,7 @@ tags:
   - pf2e/creature/type/fire
   - pf2e/creature/type/lawful
   - pf2e/creature/type/unholy
+  - pf2eMonster
   - pf2e/creature/level/9
 statblock: inline
 name: "Nessian Warhound"
@@ -29,20 +30,20 @@ level: "Creature 9"
 
 alignment: ""
 size: "Large"
-trait_01: "beast"
-trait_02: "evil"
-trait_03: "fiend"
-trait_04: "fire"
-trait_05: "lawful"
-trait_06: "unholy"
+trait_01: [[beast]]
+trait_02: [[evil]]
+trait_03: [[fiend]]
+trait_04: [[fire]]
+trait_05: [[lawful]]
+trait_06: [[unholy]]
 modifier: 19
 perception:
   - name: "Perception"
     desc: "+19; Darkvision, Scent (Imprecise) 120 Feet"
-languages: "Diabolic"
+languages: "Diabolic; (can&#x27;t speak any language)"
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +18, Athletics: +19, Stealth: +18, Survival: +20 (+22 to Track)"
+    desc: "Acrobatics: +18, Athletics: +19, Stealth: +18, Survival: +20"
 abilityMods: [6, 5, 5, -2, 4, -2]
 speed: 40 feet
 sourcebook: "_Pathfinder Bestiary_"
@@ -61,7 +62,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Hellish Revenge"
-    desc: "`pf2:r`  **Trigger** The Nessian warhound is critically hit by any Strike.\n**Effect** The Nessian warhound's Breath Weapon recharges. It can immediately use it as part of this reaction."
+    desc: "`pf2:r`  **Trigger** The Nessian warhound is critically hit by any Strike.\n* * *\n\n**Effect** The Nessian warhound's Breath Weapon recharges. It can immediately use it as part of this reaction."
 
 attacks:
   - name: ""
@@ -70,8 +71,14 @@ attacks:
     desc: "`pf2:1` Jaws +21 (magical, unholy)\n__Damage__  2d8 + 6 piercing 1d6 spirit 2d6 fire"
 
   - name: "Breath Weapon"
-    desc: "`pf2:1` (divine,fire) The warhound breathes flames that deal 10d6 fire damage to all creatures in a 15-foot cone (DC 28 Reflex check save).\nThe warhound can't use Breath Weapon again for 1d4 rounds. If the warhound would take fire damage or be targeted by a fire effect, its Breath Weapon recharges."
+    desc: "`pf2:1` (divine,fire) The warhound breathes flames that deal 10d6 fire damage to all creatures in a @Template[cone|distance:15] (DC 28 Reflex check save).\n\nThe warhound can't use Breath Weapon again for 1d4 rounds. If the warhound would take fire damage or be targeted by a fire effect, its Breath Weapon recharges."
  
+```
+
+```encounter-table
+name: Nessian Warhound
+creatures:
+  - 1: Nessian Warhound
 ```
 
 

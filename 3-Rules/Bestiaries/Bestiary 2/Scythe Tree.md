@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/chaotic
   - pf2e/creature/type/evil
   - pf2e/creature/type/plant
+  - pf2eMonster
   - pf2e/creature/level/6
 statblock: inline
 name: "Scythe Tree"
@@ -26,9 +27,9 @@ level: "Creature 6"
 
 alignment: ""
 size: "huge"
-trait_01: "chaotic"
-trait_02: "evil"
-trait_03: "plant"
+trait_01: [[chaotic]]
+trait_02: [[evil]]
+trait_03: [[plant]]
 modifier: 14
 perception:
   - name: "Perception"
@@ -36,7 +37,7 @@ perception:
 languages: "Aklo, Arboreal, Fey"
 skills:
   - name: "Skills"
-    desc: "Athletics: +15, Stealth: +12 (+14 in forests)"
+    desc: "Athletics: +15, Stealth: +12"
 abilityMods: [7, 2, 4, 0, 2, 0]
 speed: 15 feet
 sourcebook: "_Pathfinder Bestiary 2_"
@@ -58,7 +59,7 @@ abilities_mid:
     desc: "  A scythe tree takes 5 additional damage from axes."
 
   - name: "Ripping Disarm"
-    desc: "`pf2:r`  **Trigger** A creature rolls a critical failure on a melee weapon Strike against the scythe tree\n**Effect** The scythe tree attempts to [[Actions/Disarm|Disarm]] the creature."
+    desc: "`pf2:r`  **Trigger** A creature rolls a critical failure on a melee weapon Strike against the scythe tree\n* * *\n\n**Effect** The scythe tree attempts to [[Actions/Disarm|Disarm]] the creature."
 
 attacks:
   - name: ""
@@ -70,8 +71,14 @@ attacks:
     desc: "`pf2:1` (concentrate) Until the scythe tree acts, it appears to be a dead tree. It has an automatic result of 35 on Deception checks and DCs to pass as a dead tree."
 
   - name: "Woodland Ambush"
-    desc: "`pf2:1`  **Requirements** The scythe tree is using Dead Tree in forested terrain, and a creature that hasn't detected it is within 30 feet\n**Effect** The scythe tree Strides up to 25 feet toward the triggering creature. Once the creature is in reach, the scythe tree makes a scythe branch Strike against it. The creature is [[Conditions/Off-Guard|Off-Guard]] against this Strike."
+    desc: "`pf2:1`  **Requirements** The scythe tree is using Dead Tree in forested terrain, and a creature that hasn't detected it is within 30 feet\n* * *\n\n**Effect** The scythe tree Strides up to 25 feet toward the triggering creature. Once the creature is in reach, the scythe tree makes a scythe branch Strike against it. The creature is [[Conditions/Off-Guard|Off-Guard]] against this Strike."
  
+```
+
+```encounter-table
+name: Scythe Tree
+creatures:
+  - 1: Scythe Tree
 ```
 
 

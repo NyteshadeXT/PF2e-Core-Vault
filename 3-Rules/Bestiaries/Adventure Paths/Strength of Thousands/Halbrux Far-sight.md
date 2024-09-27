@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/giant
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/11
 statblock: inline
 name: "Halbrux Far-sight"
@@ -22,12 +23,12 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #171: Hurricane&#x27;s Howl"
 name: "Halbrux Far-sight"
 level: "Creature 11"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Large"
-trait_01: "evil"
-trait_02: "giant"
-trait_03: "humanoid"
+trait_01: [[evil]]
+trait_02: [[giant]]
+trait_03: [[humanoid]]
 modifier: 21
 perception:
   - name: "Perception"
@@ -35,7 +36,7 @@ perception:
 languages: "Common, Cyclops, Jotun"
 skills:
   - name: "Skills"
-    desc: "Athletics: +22, Crafting: +22, Fortune-Telling Lore: +22, Ghol-Gan Lore: +24, Intimidation: +22, Occultism: +22, Religion: +21, Survival: +19"
+    desc: "Athletics: +22, Crafting: +22, Intimidation: +22, Occultism: +22, Religion: +21, Survival: +19, Fortune-Telling Lore: +22, Ghol-Gan Lore: +24"
 abilityMods: [7, 0, 2, 7, 2, 5]
 speed: 30 feet
 sourcebook: "_Pathfinder #171: Hurricane&#x27;s Howl_"
@@ -55,7 +56,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Flash of History"
-    desc: "`pf2:0` (fortune,occult) **Frequency** three times per day\n**Trigger** Halbrux is about to attempt a skill check\n**Effect** Halbrux peers into lore of the past and increases the level of success by one step (for example, a success becomes a critical success)."
+    desc: "`pf2:0` (fortune,occult) **Frequency** three times per day\n\n**Trigger** Halbrux is about to attempt a skill check\n* * *\n\n**Effect** Halbrux peers into lore of the past and increases the level of success by one step (for example, a success becomes a critical success)."
 
   - name: "Resolve"
     desc: "  When Halbrux rolls a success on a Will save, she gets a critical success instead."
@@ -73,17 +74,23 @@ attacks:
     desc: "3 Focus Points, DC 30, attack +22; __6th __  _[[Spells/Brain Drain|Brain Drain]]_, _[[Spells/Scholarly Recollection|Scholarly Recollection]]_, _[[Spells/Vision of Weakness|Vision of Weakness]]_"
 
   - name: "Curse of Torrential Knowledge"
-    desc: "  When halbrux uses her revelation spells, her mind fills with a flood of disorienting information.\nThe first time Halbrux casts one of her revelation spells in a day, she takes a -4 penalty to initiative rolls until the next time she makes her daily preparations.\nThe second time Halbrux casts one of her revelation spells in a day, she is also [[Conditions/Off-Guard|Off-Guard]] until the next time she makes her daily preparations."
+    desc: "  When halbrux uses her revelation spells, her mind fills with a flood of disorienting information.\n\nThe first time Halbrux casts one of her revelation spells in a day, she takes a -4 penalty to initiative rolls until the next time she makes her daily preparations.\n\nThe second time Halbrux casts one of her revelation spells in a day, she is also [[Conditions/Off-Guard|Off-Guard]] until the next time she makes her daily preparations."
 
   - name: "Predictive Blows"
-    desc: " (concentrate,occult,visual) **Trigger** Halbrux's turn begins\n**Effect** Halbrux identifies the immediate movements of a creature she can see and attempts a Fortune-Telling Lore check against that creature's Reflex DC.\nOn a success, Halbrux's melee Strikes deal an additional 4d6 precision damage (6d6 precision damage on a critical success) to the creature until the end of Halbrux's turn."
+    desc: " (concentrate,occult,visual) **Trigger** Halbrux's turn begins\n* * *\n\n**Effect** Halbrux identifies the immediate movements of a creature she can see and attempts a Fortune-Telling Lore check against that creature's Reflex DC.\n\nOn a success, Halbrux's melee Strikes deal an additional 4d6 precision damage (6d6 precision damage on a critical success) to the creature until the end of Halbrux's turn."
 
   - name: "Quickened Casting"
-    desc: "  **Frequency** once per day\n**Effect** If Halbrux's next action is to cast a cantrip or a 4th-rank or lower spell, reduce the number of actions to cast it by 1 (minimum of 1 action)."
+    desc: "  **Frequency** once per day\n* * *\n\n**Effect** If Halbrux's next action is to cast a cantrip or a 4th-rank or lower spell, reduce the number of actions to cast it by 1 (minimum of 1 action)."
 
   - name: "Steady Spellcasting"
     desc: "  If a reaction would disrupt Halbrux's spellcasting action, she attempts a DC 15 Flat check check. On a success, the action isn't disrupted."
  
+```
+
+```encounter-table
+name: Halbrux Far-sight
+creatures:
+  - 1: Halbrux Far-sight
 ```
 
 

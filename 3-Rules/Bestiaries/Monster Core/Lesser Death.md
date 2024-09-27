@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.pathfinder-monster-core.Actor.WoICHri7raCYv1wU"
 tags:
   - pf2e/creature/type/undead
   - pf2e/creature/type/unholy
+  - pf2eMonster
   - pf2e/creature/level/16
   - remaster
 statblock: inline
@@ -23,11 +24,11 @@ token: [[modules/pf2e-tokens-bestiaries/portraits/undead/skeletal/lesser-death.w
 source: "Pathfinder Monster Core"
 name: "Lesser Death"
 level: "Creature 16"
-rare_03: "Rare"
+rare_03: [[Rare]]
 alignment: ""
 size: "Medium"
-trait_01: "undead"
-trait_02: "unholy"
+trait_01: [[undead]]
+trait_02: [[unholy]]
 modifier: 32
 perception:
   - name: "Perception"
@@ -81,6 +82,12 @@ attacks:
   - name: "Infuse Weapon"
     desc: " (divine) Any scythe gains the agile trait, can't be disarmed, and becomes a _+2 greater striking keen scythe_ while the lesser death wields it."
  
+```
+
+```encounter-table
+name: Lesser Death
+creatures:
+  - 1: Lesser Death
 ```
 
 

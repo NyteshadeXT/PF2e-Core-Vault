@@ -12,7 +12,7 @@ license: ORC
 ---
 # Choker of Elocution (Greater)
 ## Item 10
-### [[invested]][[magical]]
+### [[invested]][[3-Rules/Rule References/Magical]]
 
 
 **Price** 850 gp; 
@@ -25,7 +25,7 @@ You gain a +2 item bonus to Society checks and the ability to understand, speak,
 
 Your excellent elocution reduces the DC of the flat check to perform an auditory action while deafened from 5 to 3.
 
-**Craft Requirements** The choker bears characters from three languages and grants fluency in all three.
+**Craft Requirements** You know the languages the choker grants.
 
 *Source: Pathfinder GM Core*
 *ORC*

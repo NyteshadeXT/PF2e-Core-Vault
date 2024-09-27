@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/chaotic
   - pf2e/creature/type/fey
   - pf2e/creature/type/plant
+  - pf2eMonster
   - pf2e/creature/level/19
 statblock: inline
 name: "Ta&#x27;apundo"
@@ -22,12 +23,12 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #174: Shadows of the Ancients"
 name: "Ta'apundo"
 level: "Creature 19"
-rare_03: "Rare"
+rare_03: [[Rare]]
 alignment: ""
 size: "huge"
-trait_01: "chaotic"
-trait_02: "fey"
-trait_03: "plant"
+trait_01: [[chaotic]]
+trait_02: [[fey]]
+trait_03: [[plant]]
 modifier: 35
 perception:
   - name: "Perception"
@@ -57,7 +58,7 @@ abilities_mid:
     desc: "  Vegetation doesn't impair a ta'apundo's vision and doesn't provide a creature cover or concealment from a ta'apundo."
 
   - name: "Lignification"
-    desc: "`pf2:r` (primal) **Trigger** a non-cold iron metal object damages the ta'apundo\n**Effect** The ta'apundo emits a jolt of magic into the object, transforming it into wood with an unlimited duration. A thrown weapon, ammunition, or other unattended item automatically transforms; the wielder of an attended object can resist this effect with a successful DC 41 Fortitude check save. [[Spells/Dispel Magic|Dispel Magic]] can end the effect. While a weapon is wood, the ta'apundo's resistance applies. Once transformed, a formerly metal item's Hardness and HP change to those of wood. This typically inflicts a -2 circumstance penalty to attack rolls made with metal weapons and a -2 circumstance penalty to AC for those wearing metal armor; the GM might determine a different penalty for a specific weapon or armor."
+    desc: "`pf2:r` (primal) **Trigger** a non-cold iron metal object damages the ta'apundo\n* * *\n\n**Effect** The ta'apundo emits a jolt of magic into the object, transforming it into wood with an unlimited duration. A thrown weapon, ammunition, or other unattended item automatically transforms; the wielder of an attended object can resist this effect with a successful DC 41 Fortitude check save. [[Spells/Dispel Magic|Dispel Magic]] can end the effect. While a weapon is wood, the ta'apundo's resistance applies. Once transformed, a formerly metal item's Hardness and HP change to those of wood. This typically inflicts a -2 circumstance penalty to attack rolls made with metal weapons and a -2 circumstance penalty to AC for those wearing metal armor; the GM might determine a different penalty for a specific weapon or armor."
 
   - name: "Wood Resistance"
     desc: " (primal) A ta'apundo has resistance 20 against wooden objects and unarmed attacks from creatures made mostly of wood (such as arboreals)."
@@ -74,6 +75,12 @@ attacks:
   - name: "Woodland Stride"
     desc: "  The ta'apundo ignores difficult and greater difficult terrain from foliage."
  
+```
+
+```encounter-table
+name: Ta'apundo
+creatures:
+  - 1: Ta'apundo
 ```
 
 

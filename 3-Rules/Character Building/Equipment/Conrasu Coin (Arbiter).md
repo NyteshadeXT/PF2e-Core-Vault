@@ -13,7 +13,7 @@ license: OGL
 ---
 # Conrasu Coin (Arbiter)
 ## Item 3
-### [uncommon](uncommon "Uncommon Rarity Trait")[[consumable]][[magical]][[talisman]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[consumable]][[3-Rules/Rule References/Magical]][[talisman]]
 
 **Category** talisman; 
 **Price** 7 gp; 

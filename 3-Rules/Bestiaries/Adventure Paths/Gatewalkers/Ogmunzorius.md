@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/dream
   - pf2e/creature/type/evil
   - pf2e/creature/type/incorporeal
+  - pf2eMonster
   - pf2e/creature/level/11
 statblock: inline
 name: "Ogmunzorius"
@@ -22,17 +23,17 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #189: Dreamers of the Nameless Spires"
 name: "Ogmunzorius"
 level: "Creature 11"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Large"
-trait_01: "dream"
-trait_02: "evil"
-trait_03: "incorporeal"
+trait_01: [[dream]]
+trait_02: [[evil]]
+trait_03: [[incorporeal]]
 modifier: 21
 perception:
   - name: "Perception"
     desc: "+21; Darkvision"
-languages: "Aklo, Common, Varisian"
+languages: "Aklo, Common, Varisian; telepathy 100 feet"
 skills:
   - name: "Skills"
     desc: "Acrobatics: +22, Deception: +21, Intimidation: +21, Occultism: +23, Stealth: +22"
@@ -66,8 +67,14 @@ attacks:
     desc: "_[[Spells/Binding Circle|Planar Binding]]_"
 
   - name: "Frozen Nightmare"
-    desc: " (curse,emotion,fear,mental,occult) Ogmunzorius's touch fills the victim's mind with realistic hallucinations and visions of being stranded alone and naked in an endless expanse of ice. The only point of reference in this vision when it manifests are strange dark spires looming impossibly tall on the horizon.\n**Saving Throw** DC 30 Fortitude check\n**Stage 1** [[Conditions/Fatigued|Fatigued]] (1 day)\n**Stage 2** fatigued and [[Conditions/Enfeebled 1|Enfeebled 1]] (1 day)\n**Stage 3** The victim falls asleep and becomes covered in a rime of frost. They can't be awakened as long as they remain at this stage. A victim who perishes while at this stage frosts over completely, freezing solid into a block of ice. (1 day)"
+    desc: " (curse,emotion,fear,mental,occult) Ogmunzorius's touch fills the victim's mind with realistic hallucinations and visions of being stranded alone and naked in an endless expanse of ice. The only point of reference in this vision when it manifests are strange dark spires looming impossibly tall on the horizon.\n\n**Saving Throw** DC 30 Fortitude check\n\n**Stage 1** [[Conditions/Fatigued|Fatigued]] (1 day)\n\n**Stage 2** fatigued and [[Conditions/Enfeebled|Enfeebled 1]] (1 day)\n\n**Stage 3** The victim falls asleep and becomes covered in a rime of frost. They can't be awakened as long as they remain at this stage. A victim who perishes while at this stage frosts over completely, freezing solid into a block of ice. (1 day)"
  
+```
+
+```encounter-table
+name: Ogmunzorius
+creatures:
+  - 1: Ogmunzorius
 ```
 
 

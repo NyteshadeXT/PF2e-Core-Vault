@@ -5,6 +5,7 @@ noteType: pf2eHazard
 tags:
   - mechanical
   - trap
+  - pf2eHazard
 
 source: Pathfinder Adventure: Crown of the Kobold King
 aliases: "Compendium.pf2e.crown-of-the-kobold-king-bestiary.Actor.zumDa0X3EI1eTEYx" 
@@ -22,8 +23,8 @@ name: "Loose Slab"
 level: "Hazard 3"
 
 
-trait_01: "mechanical"
-trait_02: "trap"
+trait_01: [[mechanical]]
+trait_02: [[trap]]
 modifier: 13
 sourcebook: "_Pathfinder Adventure: Crown of the Kobold King_"
 perception:
@@ -42,9 +43,15 @@ attacks:
   - name: ""
 
   - name: "Falling Slab"
-    desc: "`pf2:r` **Trigger** A creature attempts to move the slab;\n**Effect** The slab rips free from its track and falls, slamming down in one direction while it kicks up twisted metal debris in the other. All creatures adjacent to the slab take 3d6 bludgeoning and 3d6 piercing damage (DC 20 Reflex check)."
+    desc: "`pf2:r` **Trigger** A creature attempts to move the slab;\n\n**Effect** The slab rips free from its track and falls, slamming down in one direction while it kicks up twisted metal debris in the other. All creatures adjacent to the slab take 3d6 bludgeoning and 3d6 piercing damage (DC 20 Reflex check)."
 
 
 
+```
+
+```encounter-table
+name: Loose Slab
+creatures:
+  - 1: Loose Slab
 ```
 

@@ -12,7 +12,7 @@ license: ORC
 ---
 # Fighter Expertise
 ## Feat 11
-### [[fighter]]
+### [[3-Rules/trait_reference/fighter]]
 
 **Category** classfeature; 
 

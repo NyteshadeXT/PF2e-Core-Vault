@@ -16,7 +16,7 @@ license: OGL
 ---
 # Timber Sentinel `pf2:2`
 ## Feat 1
-### [[impulse]][[kineticist]][[plant]][[primal]][[Wood]]
+### [[impulse]][[kineticist]][[plant]][[primal]][[wood]]
 
 **Category** class; 
 

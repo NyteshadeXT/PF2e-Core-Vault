@@ -12,7 +12,7 @@ license: ORC
 ---
 # Natural Reflexes
 ## Feat 7
-### [[ranger]]
+### [[3-Rules/trait_reference/ranger]]
 
 **Category** classfeature; 
 

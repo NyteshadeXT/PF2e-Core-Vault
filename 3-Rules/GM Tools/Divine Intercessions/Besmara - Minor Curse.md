@@ -16,7 +16,7 @@ license: OGL
 
 
 
-**Minor Curse:** You feel some of the effects of scurvy, making your wounds flow more easily. The DC of the flat check for you to remove persistent bleed damage is 20 instead of 15 (or 15 instead of 10 if using extremely efficient methods to assist your recovery), and you don't recover from persistent bleed damage automatically when you reach full Hit Points.
+You feel some of the effects of scurvy, making your wounds flow more easily. The DC of the flat check for you to remove persistent bleed damage is 20 instead of 15 (or 15 instead of 10 if using extremely efficient methods to assist your recovery), and you don't recover from persistent bleed damage automatically when you reach full Hit Points.
 
 *Source: Pathfinder Lost Omens: Gods & Magic*
 *OGL*

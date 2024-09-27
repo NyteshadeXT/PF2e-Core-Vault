@@ -6,8 +6,9 @@ tags:
   - trait/monk
   - trait/common
   - category/class
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.6J2ZSGNsXPKPcJGV"
-license: OGL
+license: ORC
 ---
 # Tiger Slash `pf2:2`
 ## Feat 6
@@ -27,5 +28,5 @@ You make a fierce swipe with both hands. Make a tiger claw Strike. It deals two 
 
 If the attack is a critical success and deals damage, add your Strength modifier to the persistent bleed damage from your tiger claw.
 
-*Source: Pathfinder Core Rulebook*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

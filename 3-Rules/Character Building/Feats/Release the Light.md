@@ -13,7 +13,7 @@ license: OGL
 ---
 # Release the Light `pf2:2`
 ## Feat 17
-### [rare](rare "Rare Rarity Trait")[[3-Rules/Character Building/Spells/Light]][[reincarnated]][[visual]]
+### [rare](rare "Rare Rarity Trait")[[light]][[reincarnated]][[visual]]
 
 **Category** ancestry; 
 

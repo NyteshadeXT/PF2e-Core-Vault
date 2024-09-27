@@ -10,6 +10,7 @@ tags:
   - pf2e/creature/type/undead
   - pf2e/creature/type/unholy
   - pf2e/creature/type/zombie
+  - pf2eMonster
   - pf2e/creature/level/5
 statblock: inline
 name: "Hollow Husk"
@@ -24,18 +25,19 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #183: Field of Maidens"
 name: "Hollow Husk"
 level: "Creature 5"
-rare_03: "Rare"
+rare_03: [[Rare]]
 alignment: ""
 size: "Medium"
-trait_01: "evil"
-trait_02: "mindless"
-trait_03: "undead"
-trait_04: "unholy"
-trait_05: "zombie"
+trait_01: [[evil]]
+trait_02: [[mindless]]
+trait_03: [[undead]]
+trait_04: [[unholy]]
+trait_05: [[zombie]]
 modifier: 9
 perception:
   - name: "Perception"
     desc: "+9; Darkvision"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Athletics: +14"
@@ -55,7 +57,7 @@ abilities_top:
   - name: ""
 
   - name: "Slow"
-    desc: "  A hollow husk is permanently [[Conditions/Slowed 1|Slowed 1]] and can't use reactions."
+    desc: "  A hollow husk is permanently [[Conditions/Slowed|Slowed 1]] and can't use reactions."
 
 abilities_mid:
   - name: ""
@@ -66,11 +68,17 @@ attacks:
     desc: "`pf2:1` Fist +15 ()\n__Damage__  2d8 + 7 bludgeoning plus grab"
 
   - name: "Memory Drain"
-    desc: "`pf2:1`  **Requirements** The hollow husk has a creature [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]]\n**Effect** Memories flow from the grabbed creature into the empty void that is the hollow husk's mind. The hollow husk deals the creature 3d6 mental damage, and the creature must attempt a DC 16 Will check save.\n**Critical Success** The creature is unaffected.\n**Success** The creature takes half damage.\n**Failure** The creature takes full damage and is [[Conditions/Stupefied 1|Stupefied 1]] for 1 minute.\n**Critical Failure** The creature takes full damage and is [[Conditions/Stupefied 1|Stupefied 2]] for 1 minute."
+    desc: "`pf2:1`  **Requirements** The hollow husk has a creature [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]]\n* * *\n\n**Effect** Memories flow from the grabbed creature into the empty void that is the hollow husk's mind. The hollow husk deals the creature 3d6 mental damage, and the creature must attempt a DC 16 Will check save.\n* * *\n\n**Critical Success** The creature is unaffected.\n\n**Success** The creature takes half damage.\n\n**Failure** The creature takes full damage and is [[Conditions/Stupefied|Stupefied 1]] for 1 minute.\n\n**Critical Failure** The creature takes full damage and is [[Conditions/Stupefied|Stupefied 2]] for 1 minute."
 
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
     desc: "`pf2:1`  "
  
+```
+
+```encounter-table
+name: Hollow Husk
+creatures:
+  - 1: Hollow Husk
 ```
 
 

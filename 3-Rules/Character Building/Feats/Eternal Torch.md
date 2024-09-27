@@ -17,7 +17,7 @@ license: OGL
 ---
 # Eternal Torch `pf2:1`
 ## Feat 1
-### [[fire]][[impulse]][[kineticist]][[3-Rules/Character Building/Spells/Light]][[manipulate]][[primal]]
+### [[fire]][[impulse]][[kineticist]][[light]][[manipulate]][[primal]]
 
 **Category** class; 
 
@@ -27,6 +27,8 @@ license: OGL
 You open a connection to your kinetic gate, large enough for a torch flame to flow. You create a magical, torch-like flame within 120 feet in any color you choose. It's as bright and hot as a torch. You can have it orbit a target willing creature or emit from a target object that's unattended or attended by a willing creature. If you create a flame on a weapon, you still need to use it as an improvised weapon to attack with the flame, just as with a torch.
 
 The flame has an unlimited duration. You can have a maximum number of Eternal Torches equal to your Constitution modifier, and you can Dismiss each torch individually.
+
+[[Feat_Feature Effects/Effect_ Eternal Torch|Effect: Eternal Torch]]
 
 * * *
 

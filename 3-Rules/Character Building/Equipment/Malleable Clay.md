@@ -29,5 +29,7 @@ license: OGL
 
 This small lump of clay is malleable and can be molded into innumerable shapes and forms. When affixed, the clay takes on the appearance of the affixed weapon. When activated, the affixed weapon gains the versatile bludgeoning, versatile piercing, and versatile slashing weapon traits for the triggering Strike and all other attacks for 1 minute. With each attack, the clay changes shape, taking on the appearance of a different weapon that deals damage of the chosen damage type.
 
+[[Equipment Effects/Effect_ Malleable Clay|Effect: Malleable Clay]]
+
 *Source: Pathfinder #176: Lost Mammoth Valley*
 *OGL*

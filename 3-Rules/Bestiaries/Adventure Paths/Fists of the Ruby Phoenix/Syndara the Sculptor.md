@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/lawful
   - pf2e/creature/type/monitor
+  - pf2eMonster
   - pf2e/creature/level/22
 statblock: inline
 name: "Syndara the Sculptor"
@@ -23,13 +24,13 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #168: King of the Mountain"
 name: "Syndara the Sculptor"
 level: "Creature 22"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Medium"
-trait_01: "aeon"
-trait_02: "evil"
-trait_03: "lawful"
-trait_04: "monitor"
+trait_01: [[aeon]]
+trait_02: [[evil]]
+trait_03: [[lawful]]
+trait_04: [[monitor]]
 modifier: 39
 perception:
   - name: "Perception"
@@ -37,7 +38,7 @@ perception:
 languages: "Senzar, Taldane, Tien, Utopian"
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +41, Arcana: +37, Athletics: +39, Deception: +34, Demiplane Lore: +45, Intimidation: +39, Occultism: +37"
+    desc: "Acrobatics: +41, Arcana: +37, Athletics: +39, Deception: +34, Intimidation: +39, Occultism: +37, Demiplane Lore: +45"
 abilityMods: [10, 11, 8, 8, 11, 7]
 speed: 40 feet
 sourcebook: "_Pathfinder #168: King of the Mountain_"
@@ -57,7 +58,7 @@ abilities_top:
     desc: "  Syndara can choose whether he is affected by his worldspheres."
 
   - name: "Portal Redirection"
-    desc: " (divine,teleportation) **Trigger** Syndara is targeted by a ranged Strike or spell attack roll\n**Effect** Syndara opens a portal in front of the incoming missile, then opens another portal nearby that fires the missile at another creature within 60 feet of him. He takes no damage from the triggering attack and makes a ranged Strike with a +43 attack bonus. The Strike deals damage according to the triggering ability."
+    desc: " (divine,teleportation) **Trigger** Syndara is targeted by a ranged Strike or spell attack roll\n* * *\n\n**Effect** Syndara opens a portal in front of the incoming missile, then opens another portal nearby that fires the missile at another creature within 60 feet of him. He takes no damage from the triggering attack and makes a ranged Strike with a +43 attack bonus. The Strike deals damage according to the triggering ability."
 
   - name: "Spatial Sense"
     desc: "  Syndara instinctively knows the position of all creatures and objects within the Glass Lighthouse as a precise sense. His senses do not extend into extraplanar spaces (such as a bag of holding), even if the entrance to these spaces is within the Lighthouse."
@@ -101,20 +102,26 @@ attacks:
     desc: "DC 0, attack +0\n__Constant__  __(4th)__ _[[Spells/Air Walk|Air Walk]]_"
 
   - name: "Gateway Onslaught"
-    desc: "`pf2:2` (teleportation) **Requirements** Syndara is in the Glass Lighthouse\n**Effect** Syndara folds the fabric of the Glass Lighthouse before opening several gateways from which dangerous elements spew forth. He teleports to his throne, regardless of distance, then makes three elemental gateway Strikes. Each Strike must target a different creature. He can't use Gateway Onslaught again for 1d4 rounds."
+    desc: "`pf2:2` (teleportation) **Requirements** Syndara is in the Glass Lighthouse\n* * *\n\n**Effect** Syndara folds the fabric of the Glass Lighthouse before opening several gateways from which dangerous elements spew forth. He teleports to his throne, regardless of distance, then makes three elemental gateway Strikes. Each Strike must target a different creature. He can't use Gateway Onslaught again for 1d4 rounds."
 
   - name: "Planar Restructuring"
-    desc: "`pf2:1` (concentrate) **Requirements** Syndara is in the Glass Lighthouse\n**Effect** Syndara exerts his will over the Glass Lighthouse to cause one of several effects. The effect is magical, but Syndara isn't using magic when he takes this action-just triggering a magical effect he already set up. The level for each of these effects is 10, and any save is DC 45. Syndara or Syndara's Reflection can't use Planar Restructuring for 1d4 rounds.\n\- Accelerate/Decelerate Syndara affects the flow of time around a target within 60 feet, affecting them with either haste or slow.\n\- Deny Syndara rejects the existence of a power other than his own, affecting an object with disjunction.\n\- Rewind Syndara rewinds time to undo harm. He or his reflection are affected by the two-action version of heal or by restoration.\n\- Rise Syndara creates a gravitational nexus of reverse gravity.\n\- Sequester Syndara folds space to affect a creature with resilient sphere."
+    desc: "`pf2:1` (concentrate) **Requirements** Syndara is in the Glass Lighthouse\n* * *\n\n**Effect** Syndara exerts his will over the Glass Lighthouse to cause one of several effects. The effect is magical, but Syndara isn't using magic when he takes this action-just triggering a magical effect he already set up. The level for each of these effects is 10, and any save is DC 45. Syndara or Syndara's Reflection can't use Planar Restructuring for 1d4 rounds.\n\n- Accelerate/Decelerate Syndara affects the flow of time around a target within 60 feet, affecting them with either haste or slow.\n\n- Deny Syndara rejects the existence of a power other than his own, affecting an object with disjunction.\n\n- Rewind Syndara rewinds time to undo harm. He or his reflection are affected by the two-action version of heal or by restoration.\n\n- Rise Syndara creates a gravitational nexus of reverse gravity.\n\n- Sequester Syndara folds space to affect a creature with resilient sphere."
 
   - name: "Temporal Flurry"
-    desc: "`pf2:2`  **Frequency** once per round\n**Effect** Syndara bends time to make multiple attacks. He makes three unarmed Strikes. If multiple attacks hit the same creature, combine their damage for the purpose of resistances and weaknesses."
+    desc: "`pf2:2`  **Frequency** once per round\n* * *\n\n**Effect** Syndara bends time to make multiple attacks. He makes three unarmed Strikes. If multiple attacks hit the same creature, combine their damage for the purpose of resistances and weaknesses."
 
   - name: "Vicious Impact"
-    desc: "  Syndara has had an eternity to reflect on his own weaknesses and the weakness of others. If he critically hits with a melee Strike, he can target the eyes, joints, or other weak points to add one of the following effects of his choice unless the target succeeds on a DC 46 Fortitude check save.\n\- The target becomes [[Conditions/Clumsy 1|Clumsy 1]] for 1 minute.\n\- The target becomes [[Conditions/Enfeebled 1|Enfeebled 1]] for 1 minute.\n\- The target takes 3d6 bleed.\n\- The target can't Step for 1 minute."
+    desc: "  Syndara has had an eternity to reflect on his own weaknesses and the weakness of others. If he critically hits with a melee Strike, he can target the eyes, joints, or other weak points to add one of the following effects of his choice unless the target succeeds on a DC 46 Fortitude check save.\n\n- The target becomes [[Conditions/Clumsy|Clumsy 1]] for 1 minute.\n\n- The target becomes [[Conditions/Enfeebled|Enfeebled 1]] for 1 minute.\n\n- The target takes 3d6 bleed.\n\n- The target can't Step for 1 minute."
 
   - name: "Walk the Spiral"
-    desc: "  **Requirements** Syndara is in the Glass Lighthouse\n**Trigger** Syndara Strikes a creature on his own turn\n**Effect** Syndara rotates the space of the Glass Lighthouse around himself to carry him to a distant location in an instant. He Strides twice. This movement doesn't trigger reactions. If his next action is to attack a different target than the triggering creature, he gains a +1 circumstance bonus to that attack; each time he Walks the Spiral in a turn, this bonus increases by 1, to a maximum of +3."
+    desc: "  **Requirements** Syndara is in the Glass Lighthouse\n\n**Trigger** Syndara Strikes a creature on his own turn\n* * *\n\n**Effect** Syndara rotates the space of the Glass Lighthouse around himself to carry him to a distant location in an instant. He Strides twice. This movement doesn't trigger reactions. If his next action is to attack a different target than the triggering creature, he gains a +1 circumstance bonus to that attack; each time he Walks the Spiral in a turn, this bonus increases by 1, to a maximum of +3."
  
+```
+
+```encounter-table
+name: Syndara the Sculptor
+creatures:
+  - 1: Syndara the Sculptor
 ```
 
 

@@ -4,6 +4,7 @@ obsidianUIMode: preview
 noteType: pf2eHazard
 tags:
   - environmental
+  - pf2eHazard
   - complex
 source: Pathfinder Adventure: A Fistful of Flowers
 aliases: "Compendium.pf2e.one-shot-bestiary.Actor.305dxeny5G1sVvwe" 
@@ -21,7 +22,7 @@ name: "Grazing Deer"
 level: "Hazard 3"
 
 trait_06: "Complex"
-trait_01: "environmental"
+trait_01: [[environmental]]
 modifier: 10
 sourcebook: "_Pathfinder Adventure: A Fistful of Flowers_"
 ac: 19
@@ -49,12 +50,18 @@ attacks:
   - name: ""
 
   - name: "Approach and Taste"
-    desc: "`pf2:r` **Trigger** The PCs emerge from the forest's edge\n**Effect** A deer approaches the party and attempts a nibble Strike against a randomly determined PC. THe grazing deer rolls initiative."
+    desc: "`pf2:r` **Trigger** The PCs emerge from the forest's edge\n* * *\n\n**Effect** A deer approaches the party and attempts a nibble Strike against a randomly determined PC. The grazing deer rolls initiative."
   - name: "Melee"
     desc: "Nibble +12 () "
 
   - name: "Routine"
-    desc: "(2 actions) The grazing deer takes one action to move about, and then one action to eagerly nibble at a randomly chosen NPC. A character who spends three actions on their turn to Stride can avoid being nibbled by the grazing deer during the hazard's next turn. If all of the PCs do so, attempt a DC 5 Flat check-on a success, the party escapes the deer and can proceed onward to Petalbrook, but they become delayed as a result of having to flee the pack of ravenous deer."
+    desc: "(2 actions) The grazing deer takes one action to move about, and then one action to eagerly nibble at a randomly chosen PC. A character who spends three actions on their turn to Stride can avoid being nibbled by the grazing deer during the hazard's next turn. If all of the PCs do so, attempt a DC 5 Flat check-on a success, the party escapes the deer and can proceed onward to Petalbrook, but they become delayed as a result of having to flee the pack of ravenous deer."
 
+```
+
+```encounter-table
+name: Grazing Deer
+creatures:
+  - 1: Grazing Deer
 ```
 

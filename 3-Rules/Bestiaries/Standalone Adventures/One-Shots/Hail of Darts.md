@@ -5,6 +5,7 @@ noteType: pf2eHazard
 tags:
   - mechanical
   - trap
+  - pf2eHazard
 
 source: Pathfinder One-Shot #4: Mark of the Mantis
 aliases: "Compendium.pf2e.one-shot-bestiary.Actor.8ct9FQL7WuiX4Dve" 
@@ -22,14 +23,14 @@ name: "Hail of Darts"
 level: "Hazard 6"
 
 
-trait_01: "mechanical"
-trait_02: "trap"
+trait_01: [[mechanical]]
+trait_02: [[trap]]
 modifier: 12
 sourcebook: "_Pathfinder One-Shot #4: Mark of the Mantis_"
 ac: 24
 armorclass:
   - name: AC
-    desc: "24; __Fort__ +17, __Ref__ +11, __Will__ +0"
+    desc: "24; __Fort__ +17, __Ref__ +11, "
 hp: 55
 health:
   - name: ""
@@ -51,14 +52,20 @@ attacks:
   - name: ""
 
   - name: "Darts"
-    desc: "`pf2:r` **Trigger** Pressure is applied to the floor tile\n**Effect** The trap shoots darts, making an attack against each creature in a 30-foot line centered on the floor tile."
+    desc: "`pf2:r` **Trigger** Pressure is applied to the floor tile\n* * *\n\n**Effect** The trap shoots darts, making an attack against each creature in a @Template[line|distance:30] centered on the floor tile."
   - name: "Melee"
     desc: "Dart +20 () "
 
   - name: "Old Giant Wasp Venom"
-    desc: "passive (poison) **Saving Throw** DC 22 Fortitude check\n**Maximum Duration** 6 rounds\n**Stage 1** 2d6 poison damage and [[Conditions/Clumsy 1|Clumsy 1]] (1 round)\n**Stage 2** 3d6 poison damage and [[Conditions/Clumsy 1|Clumsy 2]] (1 round)\n**Stage 3** 4d6 poison damage and clumsy 2 (1 round)."
+    desc: "passive (poison) **Saving Throw** DC 22 Fortitude check\n\n**Maximum Duration** 6 rounds\n* * *\n\n**Stage 1** 2d6 poison damage and [[Conditions/Clumsy|Clumsy 1]] (1 round)\n\n**Stage 2** 3d6 poison damage and [[Conditions/Clumsy|Clumsy 2]] (1 round)\n\n**Stage 3** 4d6 poison damage and clumsy 2 (1 round)."
 
 
 
+```
+
+```encounter-table
+name: Hail of Darts
+creatures:
+  - 1: Hail of Darts
 ```
 

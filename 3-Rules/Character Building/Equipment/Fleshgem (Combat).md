@@ -11,7 +11,7 @@ license: OGL
 ---
 # Fleshgem (Combat)
 ## Item 5
-### [uncommon](uncommon "Uncommon Rarity Trait")[[invested]][[primal]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[invested]][[primal]]
 
 
 **Price** 160 gp; 

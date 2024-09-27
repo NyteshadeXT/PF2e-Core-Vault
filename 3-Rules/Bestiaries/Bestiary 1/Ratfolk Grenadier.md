@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/humanoid
   - pf2e/creature/type/lawful
   - pf2e/creature/type/ratfolk
+  - pf2eMonster
   - pf2e/creature/level/4
 statblock: inline
 name: "Ratfolk Grenadier"
@@ -26,9 +27,9 @@ level: "Creature 4"
 
 alignment: ""
 size: "Small"
-trait_01: "humanoid"
-trait_02: "lawful"
-trait_03: "ratfolk"
+trait_01: [[humanoid]]
+trait_02: [[lawful]]
+trait_03: [[ratfolk]]
 modifier: 10
 perception:
   - name: "Perception"
@@ -83,11 +84,17 @@ attacks:
     desc: "`pf2:1`  The ratfolk grenadier draws an alchemical bomb with an Interact action and throws it as a ranged Strike."
 
   - name: "Quick Stow"
-    desc: "  **Frequency** once per round\n**Effect** The ratfolk grenadier stores one held item of light or negligible Bulk in its cheek pouches."
+    desc: "  **Frequency** once per round\n* * *\n\n**Effect** The ratfolk grenadier stores one held item of light or negligible Bulk in its cheek pouches."
 
   - name: "Swarming"
     desc: "  A ratfolk grenadier can end its movement in the same square as an ally that also has this ability. Only two such creatures can share the same space."
  
+```
+
+```encounter-table
+name: Ratfolk Grenadier
+creatures:
+  - 1: Ratfolk Grenadier
 ```
 
 

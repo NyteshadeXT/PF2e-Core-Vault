@@ -8,8 +8,9 @@ tags:
   - trait/primal
   - trait/common
   - category/class
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.ZPclfDmiHzEqblry"
-license: OGL
+license: ORC
 ---
 # Animal Skin
 ## Feat 6
@@ -21,9 +22,7 @@ license: OGL
 
 **Prerequisites** Animal Instinct
 * * *
-Your proficiency in unarmored defense increases to expert.
+Your proficiency in unarmored defense increases to expert. When you are raging and unarmored, your skin transforms into a thick hide. You gain a +2 item bonus to AC (+3 if you have the greater juggernaut class feature). The thickness of your hide gives you a Dexterity modifier cap to your AC of +3. This item bonus to AC is cumulative with armor potency runes on your explorer's clothing, mystic armor, and bands of force.
 
-While you are raging and unarmored, your skin transforms into a thick hide. You gain a +2 item bonus to AC (+3 if you have the greater juggernaut class feature). The thickness of your hide gives you a Dexterity modifier cap to your AC of +3. This item bonus to AC is cumulative with armor potency runes on your explorer's clothing, mage armor, and bracers of armor.
-
-*Source: Pathfinder Core Rulebook*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

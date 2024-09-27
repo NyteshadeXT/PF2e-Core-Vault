@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/chaotic
   - pf2e/creature/type/dragon
   - pf2e/creature/type/good
+  - pf2eMonster
   - pf2e/creature/level/1
 statblock: inline
 name: "House Drake"
@@ -26,9 +27,9 @@ level: "Creature 1"
 
 alignment: ""
 size: "tiny"
-trait_01: "chaotic"
-trait_02: "dragon"
-trait_03: "good"
+trait_01: [[chaotic]]
+trait_02: [[dragon]]
+trait_03: [[good]]
 modifier: 8
 perception:
   - name: "Perception"
@@ -55,7 +56,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Ferocious Will"
-    desc: "`pf2:r` (arcane,mental) **Trigger** The house drake succeeds at a saving throw against a magical mental effect\n**Effect** The house drake sends a blast of magical feedback at the effect's source, dealing 2d6 mental damage (DC 16 Will check save) to that creature. On a failed save, the creature is also [[Conditions/Slowed 1|Slowed 1]] for 1 round."
+    desc: "`pf2:r` (arcane,mental) **Trigger** The house drake succeeds at a saving throw against a magical mental effect\n* * *\n\n**Effect** The house drake sends a blast of magical feedback at the effect's source, dealing 2d6 mental damage (DC 16 Will check save) to that creature. On a failed save, the creature is also [[Conditions/Slowed|Slowed 1]] for 1 round."
 
 attacks:
   - name: ""
@@ -67,11 +68,17 @@ attacks:
     desc: "DC 17, attack +9; __2nd __  _[[Spells/Mist|Obscuring Mist]]_, _[[Spells/See the Unseen|See Invisibility]]_; __1st __  _[[Spells/Alarm|Alarm]]_, _[[Spells/Soothe|Soothe]]_"
 
   - name: "Breath Weapon"
-    desc: "`pf2:2` (arcane,mental) The house drake breathes a 10-foot cone of silver mist. Each creature within the mist must succeed at a DC 16 Will check save or become [[Conditions/Stupefied 1|Stupefied 2]] for 1 round.\nThe house drake can't use Breath Weapon again for 1d4 rounds."
+    desc: "`pf2:2` (arcane,mental) The house drake breathes a @Template[cone|distance:10] of silver mist. Each creature within the mist must succeed at a DC 16 Will check save or become [[Conditions/Stupefied|Stupefied 2]] for 1 round.\n\nThe house drake can't use Breath Weapon again for 1d4 rounds."
 
   - name: "Silver Strike"
     desc: "  House drakes sharpen their jaws on silver ornamentation until they incorporate bits of silver in their teeth. Their jaws Strike counts as silver."
  
+```
+
+```encounter-table
+name: House Drake
+creatures:
+  - 1: House Drake
 ```
 
 

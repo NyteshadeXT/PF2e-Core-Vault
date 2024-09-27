@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.pathfinder-bestiary-2.Actor.l4UOJbphMT7jZ0xB"
 tags:
   - pf2e/creature/type/animal
   - pf2e/creature/type/aquatic
+  - pf2eMonster
   - pf2e/creature/level/2
 statblock: inline
 name: "Giant Crab"
@@ -25,12 +26,13 @@ level: "Creature 2"
 
 alignment: ""
 size: "Medium"
-trait_01: "animal"
-trait_02: "aquatic"
+trait_01: [[animal]]
+trait_02: [[aquatic]]
 modifier: 8
 perception:
   - name: "Perception"
     desc: "+8; Darkvision"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Acrobatics: +7, Athletics: +8, Stealth: +7"
@@ -52,7 +54,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Scuttle"
-    desc: "`pf2:r`  **Trigger** A creature that the giant crab can see targets the crab with an attack\n**Effect** The giant crab scuttles to the side and gains a +2 circumstance bonus to AC against the triggering attack. After the attack resolves, the crab can Stride up to its speed in a straight line as part of the reaction."
+    desc: "`pf2:r`  **Trigger** A creature that the giant crab can see targets the crab with an attack\n* * *\n\n**Effect** The giant crab scuttles to the side and gains a +2 circumstance bonus to AC against the triggering attack. After the attack resolves, the crab can Stride up to its speed in a straight line as part of the reaction."
 
   - name: "Vulnerable to Prone"
     desc: "  If a creature critically succeeds on a check to [[Actions/Trip|Trip]] the giant crab, the crab is flipped over onto its back in addition to the usual effects. A giant crab that is flipped onto its back has a particularly hard time defending itself; instead of taking the normal -2 circumstance penalty to AC for being [[Conditions/Off-Guard|Off-Guard]], it takes a -4 circumstance penalty to AC."
@@ -64,11 +66,17 @@ attacks:
     desc: "`pf2:1` Claw +10 ()\n__Damage__  1d10 + 4 slashing plus grab"
 
   - name: "[[Bestiary Ability Glossary/Constrict|Constrict]]"
-    desc: "`pf2:1`  1d6 + 4 bludgeoning damage, DC 18 Fortitude check\n"
+    desc: "`pf2:1`  1d6+4 bludgeoning damage, DC 18 Fortitude check\n\n* * *\n"
 
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
     desc: "`pf2:1`  "
  
+```
+
+```encounter-table
+name: Giant Crab
+creatures:
+  - 1: Giant Crab
 ```
 
 

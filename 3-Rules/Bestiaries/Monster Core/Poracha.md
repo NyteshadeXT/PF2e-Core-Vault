@@ -6,6 +6,7 @@ cssClasses: pf2e
 aliases: "Compendium.pf2e.pathfinder-monster-core.Actor.WNUvjcKRAqdguWfN" 
 tags:
   - pf2e/creature/type/beast
+  - pf2eMonster
   - pf2e/creature/level/4
   - remaster
 statblock: inline
@@ -22,10 +23,10 @@ token: [[modules/pf2e-tokens-bestiaries/portraits/bestial/mythological/poracha.w
 source: "Pathfinder Monster Core"
 name: "Poracha"
 level: "Creature 4"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Medium"
-trait_01: "beast"
+trait_01: [[beast]]
 modifier: 10
 perception:
   - name: "Perception"
@@ -66,6 +67,12 @@ attacks:
   - name: "Object Meld"
     desc: "`pf2:2` (primal) The poracha touches an adjacent object of enough volume to contain it. It merges into the object indefinitely, and while it's inside, time moves exceptionally slowly for it and it has only limited perception of the outside world. The poracha can sense what's going on outside the object only using tremorsense.\n\nThe poracha can use only mental actions or Jaunt; if it Jaunts, it leaves the object and appears where it chooses. If a creature Strikes the object, the poracha is expelled unharmed."
  
+```
+
+```encounter-table
+name: Poracha
+creatures:
+  - 1: Poracha
 ```
 
 

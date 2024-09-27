@@ -12,7 +12,7 @@ license: ORC
 ---
 # Crafter's Eyepiece (Greater)
 ## Item 11
-### [[invested]][[magical]]
+### [[invested]][[3-Rules/Rule References/Magical]]
 
 
 **Price** 1200 gp; 

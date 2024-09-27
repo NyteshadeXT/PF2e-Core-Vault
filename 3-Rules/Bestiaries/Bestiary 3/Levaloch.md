@@ -11,6 +11,7 @@ tags:
   - pf2e/creature/type/fiend
   - pf2e/creature/type/lawful
   - pf2e/creature/type/unholy
+  - pf2eMonster
   - pf2e/creature/level/7
 statblock: inline
 name: "Levaloch"
@@ -29,17 +30,17 @@ level: "Creature 7"
 
 alignment: ""
 size: "Large"
-trait_01: "construct"
-trait_02: "devil"
-trait_03: "evil"
-trait_04: "fiend"
-trait_05: "lawful"
-trait_06: "unholy"
+trait_01: [[construct]]
+trait_02: [[devil]]
+trait_03: [[evil]]
+trait_04: [[fiend]]
+trait_05: [[lawful]]
+trait_06: [[unholy]]
 modifier: 16
 perception:
   - name: "Perception"
     desc: "+16; Greater Darkvision"
-languages: "Diabolic, Empyrean"
+languages: "Diabolic, Empyrean; telepathy 100 feet"
 skills:
   - name: "Skills"
     desc: "Acrobatics: +14, Athletics: +17, Intimidation: +14, Religion: +14"
@@ -59,12 +60,12 @@ abilities_top:
   - name: ""
 
   - name: "Hellstrider"
-    desc: "  A levaloch ignores the effects of non-magical difficult terrain. They take no damage from caltrops or from damaging terrain that deals physical, acid, or cold damage.\nA levaloch can move through liquids up to 5 feet deep at their full Speed."
+    desc: "  A levaloch ignores the effects of non-magical difficult terrain. They take no damage from caltrops or from damaging terrain that deals physical, acid, or cold damage.\n\nA levaloch can move through liquids up to 5 feet deep at their full Speed."
 
 abilities_mid:
   - name: ""
   - name: "Phalanx Fighter"
-    desc: "  All devils of equal or lower level adjacent to a levaloch gain a +1 circumstance bonus to their AC as the levaloch shields them from harm.\n[[Bestiary Effects/Effect_ Phalanx Fighter|Effect: Phalanx Fighter]]"
+    desc: "  All devils of equal or lower level adjacent to a levaloch gain a +1 circumstance bonus to their AC as the levaloch shields them from harm.\n\n[[Bestiary Effects/Effect_ Phalanx Fighter|Effect: Phalanx Fighter]]"
 
   - name: "Stable Stance"
     desc: "  A levaloch gains a +2 circumstance bonus to their Fortitude DC against being Shoved and to other saving throws to resist being moved against their will."
@@ -85,14 +86,20 @@ attacks:
     desc: "_[[Spells/Diabolic Pact|Infernal Pact]]_"
 
   - name: "Barbed Net"
-    desc: "  When a levaloch hits a creature with their barbed net, the net wraps around the target, which becomes [[Conditions/Clumsy 1|Clumsy 1]] and takes a -10-foot circumstance penalty to its Speeds. If the Strike was a critical success, the target is also [[Conditions/Immobilized|Immobilized]].\nWhen a creature [[Actions/Escape|Escapes]] (DC 22), or if the Strike misses, the net crumbles into rust.\nEach time a creature attempts to Escape, it takes 1d6 slashing damage from the net's barbs, regardless of whether the attempt succeeds.\n[[Bestiary Effects/Effect_ Barbed Net|Effect: Barbed Net]]"
+    desc: "  When a levaloch hits a creature with their barbed net, the net wraps around the target, which becomes [[Conditions/Clumsy|Clumsy 1]] and takes a -10-foot circumstance penalty to its Speeds. If the Strike was a critical success, the target is also [[Conditions/Immobilized|Immobilized]].\n\nWhen a creature [[Actions/Escape|Escapes]] (DC 22), or if the Strike misses, the net crumbles into rust.\n\nEach time a creature attempts to Escape, it takes 1d6 slashing damage from the net's barbs, regardless of whether the attempt succeeds.\n\n[[Bestiary Effects/Effect_ Barbed Net|Effect: Barbed Net]]"
 
   - name: "Forge Weapon"
-    desc: "`pf2:1` (manipulate) A levaloch reforges part of their barbed iron substance into a new _+1 [[Equipment/Striking|Striking]] trident_ or barbed net. Their previous trident crumbles to rust.\nWhen the levaloch is destroyed, any tridents or barbed nets they created crumble to rust."
+    desc: "`pf2:1` (manipulate) A levaloch reforges part of their barbed iron substance into a new _+1 [[Equipment/Striking|Striking]] trident_ or barbed net. Their previous trident crumbles to rust.\n\nWhen the levaloch is destroyed, any tridents or barbed nets they created crumble to rust."
 
   - name: "Merciless Thrust"
-    desc: "  When a levaloch hits a creature that has the [[Conditions/Clumsy 1|Clumsy]], [[Conditions/Enfeebled 1|Enfeebled]], [[Conditions/Immobilized|Immobilized]], or [[Conditions/Restrained|Restrained]] conditions with a melee trident Strike, the Strike deals an additional 2d6 damage."
+    desc: "  When a levaloch hits a creature that has the [[Conditions/Clumsy|Clumsy]], [[Conditions/Enfeebled|Enfeebled]], [[Conditions/Immobilized|Immobilized]], or [[Conditions/Restrained|Restrained]] conditions with a melee trident Strike, the Strike deals an additional 2d6 damage."
  
+```
+
+```encounter-table
+name: Levaloch
+creatures:
+  - 1: Levaloch
 ```
 
 

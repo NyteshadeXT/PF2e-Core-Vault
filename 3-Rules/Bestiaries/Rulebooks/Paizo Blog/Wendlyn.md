@@ -11,6 +11,7 @@ tags:
   - pf2e/creature/type/good
   - pf2e/creature/type/human
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/2
 statblock: inline
 name: "Wendlyn"
@@ -25,15 +26,15 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Blog"
 name: "Wendlyn"
 level: "Creature 2"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Medium"
-trait_01: "aiuvarin"
-trait_02: "chaotic"
-trait_03: "elf"
-trait_04: "good"
-trait_05: "human"
-trait_06: "humanoid"
+trait_01: [[aiuvarin]]
+trait_02: [[chaotic]]
+trait_03: [[elf]]
+trait_04: [[good]]
+trait_05: [[human]]
+trait_06: [[humanoid]]
 modifier: 10
 perception:
   - name: "Perception"
@@ -41,7 +42,7 @@ perception:
 languages: "Common, Elven"
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +10, Deception: +6, Otari Lore: +7, Society: +7, Stealth: +8, Thievery: +10"
+    desc: "Acrobatics: +10, Deception: +6, Society: +7, Stealth: +8, Thievery: +10, Otari Lore: +7"
 abilityMods: [2, 4, 0, 1, 3, 0]
 speed: 30 feet
 sourcebook: "_Pathfinder Blog_"
@@ -64,7 +65,7 @@ abilities_mid:
     desc: "  Wendlyn doesn't trigger reactions from movement when she Strides half her Speed or less."
 
   - name: "Nimble Dodge"
-    desc: "`pf2:r`  **Trigger** Wendlyn is targeted with an attack by an attacker she can see\n**Effect** Wendlyn gains a +2 circumstance bonus to AC against the triggering attack."
+    desc: "`pf2:r`  **Trigger** Wendlyn is targeted with an attack by an attacker she can see\n* * *\n\n**Effect** Wendlyn gains a +2 circumstance bonus to AC against the triggering attack."
 
 attacks:
   - name: ""
@@ -84,6 +85,12 @@ attacks:
   - name: "Surprise Attack"
     desc: "  On the first round of combat, if Wendlyn rolls Deception or Stealth for initiative, creatures that haven't acted yet are [[Conditions/Off-Guard|Off-Guard]] to her."
  
+```
+
+```encounter-table
+name: Wendlyn
+creatures:
+  - 1: Wendlyn
 ```
 
 

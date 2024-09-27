@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/undead
   - pf2e/creature/type/unholy
+  - pf2eMonster
   - pf2e/creature/level/8
 statblock: inline
 name: "Fallen Champion"
@@ -22,12 +23,12 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Book of the Dead"
 name: "Fallen Champion"
 level: "Creature 8"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Medium"
-trait_01: "evil"
-trait_02: "undead"
-trait_03: "unholy"
+trait_01: [[evil]]
+trait_02: [[undead]]
+trait_03: [[unholy]]
 modifier: 17
 perception:
   - name: "Perception"
@@ -35,7 +36,7 @@ perception:
 languages: "Common, Necril"
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +14, Athletics: +19, Intimidation: +19, Kazutal Lore: +16, Religion: +17"
+    desc: "Acrobatics: +14, Athletics: +19, Intimidation: +19, Religion: +17, Kazutal Lore: +16"
 abilityMods: [5, 2, 5, 2, 3, 5]
 speed: 25 feet
 sourcebook: "_Pathfinder Book of the Dead_"
@@ -55,7 +56,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Agent of Despair"
-    desc: " (aura,divine,emotion,fear,mental) 15 feet. A fallen champion emanates an aura of utter despair. Living creatures are [[Conditions/Frightened 1|Frightened 1]] while in a fallen champion's aura. They can't naturally recover from this fear while in the area but recover instantly once they leave the aura.\n[[Bestiary Effects/Effect_ Despair|Effect: Despair]]"
+    desc: " (aura,divine,emotion,fear,mental) 15 feet. A fallen champion emanates an aura of utter despair. Living creatures are [[Conditions/Frightened|Frightened 1]] while in a fallen champion's aura. They can't naturally recover from this fear while in the area but recover instantly once they leave the aura.\n\n[[Bestiary Effects/Effect_ Despair|Effect: Despair]]"
 
   - name: "[[Bestiary Ability Glossary/Attack of Opportunity|Attack of Opportunity]]"
     desc: "`pf2:r`  "
@@ -76,7 +77,7 @@ attacks:
     desc: "DC 25, attack +17; __4th __  _[[Spells/Harm|Harm (x2)]]_"
 
   - name: "Champion Devotion Spells"
-    desc: "2 Focus Points, DC 25, attack +17; __4th __  _[[Spells/Touch of Corruption|Touch of Corruption]]_, _[[Spells/Unimpeded Stride|Unimpeded Stride]]_"
+    desc: "2 Focus Points, DC 25, attack +17; __4th __  _[[Spells/Touch of the Void|Touch of Corruption]]_, _[[Spells/Unimpeded Stride|Unimpeded Stride]]_"
 
   - name: "Heretic's Armaments"
     desc: " (divine) While the fallen champion wields the favored weapon of its former deity, that weapon gains the effect of a _[[Equipment/Fearsome|Fearsome]]_ property rune."
@@ -85,8 +86,14 @@ attacks:
     desc: " (divine) While wielding the favored weapon of its former deity (such as a machete for an ex-Kazutal herexen), the herexen's Strikes deal an additional 2d6 spirit damage against creatures that can cast divine spells. This damages divine spellcasters who follow the herexen's former faith regardless of their alignment."
 
   - name: "Reap Faith"
-    desc: "`pf2:1` (divine) **Requirements** The fallen champion's last action was a Strike that dealt damage to a living creature\n**Effect** The fallen champion saps the hope and faith from that creature. It takes 3d6 void damage with a DC 25 Will check. Regardless of the result of the save, the creature becomes [[Conditions/Frightened 1|Frightened 1]] or increases the value of its frightened condition by 1."
+    desc: "`pf2:1` (divine) **Requirements** The fallen champion's last action was a Strike that dealt damage to a living creature\n* * *\n\n**Effect** The fallen champion saps the hope and faith from that creature. It takes 3d6 void damage with a DC 25 Will check. Regardless of the result of the save, the creature becomes [[Conditions/Frightened|Frightened 1]] or increases the value of its frightened condition by 1."
  
+```
+
+```encounter-table
+name: Fallen Champion
+creatures:
+  - 1: Fallen Champion
 ```
 
 

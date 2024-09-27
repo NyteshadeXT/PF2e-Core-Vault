@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/dragon
   - pf2e/creature/type/evil
   - pf2e/creature/type/water
+  - pf2eMonster
   - pf2e/creature/level/6
 statblock: inline
 name: "Sea Drake"
@@ -27,10 +28,10 @@ level: "Creature 6"
 
 alignment: ""
 size: "Large"
-trait_01: "amphibious"
-trait_02: "dragon"
-trait_03: "evil"
-trait_04: "water"
+trait_01: [[amphibious]]
+trait_02: [[dragon]]
+trait_03: [[evil]]
+trait_04: [[water]]
 modifier: 14
 perception:
   - name: "Perception"
@@ -57,7 +58,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Electrified Blood"
-    desc: "`pf2:r` (electricity) **Trigger** An adjacent creature deals piercing or slashing damage to the sea drake\n**Effect** An arc of electricity courses through the sea drake's blood. The triggering creature takes 1d6 electricity damage."
+    desc: "`pf2:r` (electricity) **Trigger** An adjacent creature deals piercing or slashing damage to the sea drake\n* * *\n\n**Effect** An arc of electricity courses through the sea drake's blood. The triggering creature takes 1d6 electricity damage."
 
 attacks:
   - name: ""
@@ -69,10 +70,10 @@ attacks:
     desc: "`pf2:1` Tail +17 (agile, reach 10 feet)\n__Damage__  2d6 + 9 bludgeoning"
 
   - name: "Ball Lightning Breath"
-    desc: "`pf2:2` (arcane,electricity) The sea drake spews a ball of electricity that strikes a primary target within 100 feet, dealing 7d6 electricity damage (DC 24 Reflex check save). The lightning then arcs to up to three secondary targets within 30 feet of the primary target, striking the closest available targets first. The secondary bolts each strike one secondary target and deal the same rolled damage value as the primary bolt (DC 22 Reflex check save).\nThe sea drake can't use Ball Lightning Breath again for 1d6 rounds."
+    desc: "`pf2:2` (arcane,electricity) The sea drake spews a ball of electricity that strikes a primary target within 100 feet, dealing 7d6 electricity damage (DC 24 Reflex check save). The lightning then arcs to up to three secondary targets within 30 feet of the primary target, striking the closest available targets first. The secondary bolts each strike one secondary target and deal the same rolled damage value as the primary bolt (DC 22 Reflex check save).\n\nThe sea drake can't use Ball Lightning Breath again for 1d6 rounds."
 
   - name: "Briny Wound"
-    desc: "  A sea drake's saliva carries a large quantity of salt, making its bite wounds even more painful. When a creature takes damage from a sea drake's jaws Strike, the creature must attempt a DC 24 Fortitude check save; the creature is then temporarily immune to briny wound for 1 minute.\n**Critical Success** The creature is unaffected.\n**Success** The creature is [[Conditions/Sickened 1|Sickened 1]].\n**Failure** The creature is [[Conditions/Sickened 1|Sickened 2]].\n**Critical Failure** The creature is Sickened 2 and [[Conditions/Slowed 1|Slowed 1]] as long as it's sickened."
+    desc: "  A sea drake's saliva carries a large quantity of salt, making its bite wounds even more painful. When a creature takes damage from a sea drake's jaws Strike, the creature must attempt a DC 24 Fortitude check save; the creature is then temporarily immune to briny wound for 1 minute.\n* * *\n\n**Critical Success** The creature is unaffected.\n\n**Success** The creature is [[Conditions/Sickened|Sickened 1]].\n\n**Failure** The creature is [[Conditions/Sickened|Sickened 2]].\n\n**Critical Failure** The creature is Sickened 2 and [[Conditions/Slowed|Slowed 1]] as long as it's sickened."
 
   - name: "Capsize"
     desc: "`pf2:1` (attack) The drake tries to capsize an adjacent aquatic vessel of its size or smaller. The drake must succeed at an Athletics check with a DC of 25 (reduced by 5 for each size smaller the vessel is than the drake) or the pilot's Sailing Lore DC, whichever is higher."
@@ -81,8 +82,14 @@ attacks:
     desc: "`pf2:2`  The sea drake makes one jaws Strike and two tail Strikes in any order."
 
   - name: "Speed Surge"
-    desc: "`pf2:1`  **Frequency** three times per day\n**Effect** The sea drake Strides, Flies, or Swims twice."
+    desc: "`pf2:1`  **Frequency** three times per day\n* * *\n\n**Effect** The sea drake Strides, Flies, or Swims twice."
  
+```
+
+```encounter-table
+name: Sea Drake
+creatures:
+  - 1: Sea Drake
 ```
 
 

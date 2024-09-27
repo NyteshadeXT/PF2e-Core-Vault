@@ -10,6 +10,7 @@ tags:
   - pf2e/creature/type/chaotic
   - pf2e/creature/type/good
   - pf2e/creature/type/holy
+  - pf2eMonster
   - pf2e/creature/level/13
 statblock: inline
 name: "Ghaele"
@@ -28,16 +29,16 @@ level: "Creature 13"
 
 alignment: ""
 size: "Medium"
-trait_01: "azata"
-trait_02: "celestial"
-trait_03: "chaotic"
-trait_04: "good"
-trait_05: "holy"
+trait_01: [[azata]]
+trait_02: [[celestial]]
+trait_03: [[chaotic]]
+trait_04: [[good]]
+trait_05: [[holy]]
 modifier: 25
 perception:
   - name: "Perception"
     desc: "+25; Darkvision"
-languages: "Diabolic, Draconic, Empyrean"
+languages: "Diabolic, Draconic, Empyrean; tongues"
 skills:
   - name: "Skills"
     desc: "Acrobatics: +27, Athletics: +26, Diplomacy: +26, Nature: +23, Religion: +23, Stealth: +21, Warfare Lore: +26"
@@ -60,7 +61,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Free Blade"
-    desc: "`pf2:0`  **Trigger** The ghaele ends its turn while unable to act or attempts a greatsword Strike that would take a circumstance or status penalty.\n**Effect** A ghaele's blade is implacable in the pursuit of freedom, and its energies can overpower any effect that would interfere with its swordplay. The ghaele attempts to counteract each effect that prevents it from making a greatsword Strike, gives it a penalty to its greatsword Strike, or prevents it from acting. The ghaele can use this ability even if it's otherwise unable to act."
+    desc: "`pf2:0`  **Trigger** The ghaele ends its turn while unable to act or attempts a greatsword Strike that would take a circumstance or status penalty.\n* * *\n\n**Effect** A ghaele's blade is implacable in the pursuit of freedom, and its energies can overpower any effect that would interfere with its swordplay. The ghaele attempts to counteract each effect that prevents it from making a greatsword Strike, gives it a penalty to its greatsword Strike, or prevents it from acting. The ghaele can use this ability even if it's otherwise unable to act."
 
   - name: "Light Form"
     desc: "  A ghaele's body is partially corporeal and partially composed of light, with a color corresponding to the elemental energy currently residing in its blade (see Choose Weakness). It can move through solid objects but can't end its action within a solid object."
@@ -72,7 +73,7 @@ attacks:
     desc: "`pf2:1` Holy Greatsword +28 (holy, magical, versatile p)\n__Damage__  2d12 + 13 slashing"
 
   - name: "Ranged"
-    desc: "`pf2:1` Light Ray +25 (holy, light, range 300 feet)\n__Damage__  1d12 spirit 1d12 spirit"
+    desc: "`pf2:1` Light Ray +25 (holy, light, range 300 feet)\n__Damage__  2d12 spirit"
 
   - name: "Divine Innate Spells"
     desc: "DC 33, attack +25; __7th __  _[[Spells/Chromatic Wall|Chromatic Wall]]_, _[[Spells/Dispel Magic|Dispel Magic]]_, _[[Spells/Heal|Heal]]_, _[[Spells/Prismatic Spray|Prismatic Spray]]_; __6th __  _[[Spells/Illusory Scene|Illusory Scene]]_; __5th __  _[[Spells/Banishment|Banishment]]_; __4th __  _[[Spells/Heal|Heal (x4)]]_, _[[Spells/Invisibility|Invisibility (At Will) (Self Only)]]_, _[[Spells/Restoration|Restoration]]_; __3rd __  _[[Spells/Mind Reading|Mind Reading]]_; __2nd __  _[[Spells/Everlight|Continual Flame (At Will)]]_, _[[Spells/Dispel Magic|Dispel Magic (At Will)]]_; __1st __  _[[Spells/Charm|Charm]]_, _[[Spells/Detect Alignment|Detect Alignment (At Will) (Evil Only)]]_, _[[Spells/Illusory Disguise|Illusory Disguise (At Will)]]_\n__Cantrips__  __(7th)__ _[[Compendium.pf2e.spells-srd.Item.kl2q6JvBZwed4B6v|Dancing Lights]]_, _[[Spells/Detect Magic|Detect Magic]]_, _[[Spells/Light|Light]]_\n__Constant__  __(7th)__ _[[Spells/See the Unseen|See Invisibility]]_ __(5th)__ _[[Spells/Truespeech|Tongues]]_"
@@ -89,6 +90,12 @@ attacks:
   - name: "Holy Blade"
     desc: " (divine) Any weapon becomes a _+2 [[Equipment/Holy|Holy]] [[Equipment/Striking|Striking]]_ weapon while the ghaele wields it."
  
+```
+
+```encounter-table
+name: Ghaele
+creatures:
+  - 1: Ghaele
 ```
 
 

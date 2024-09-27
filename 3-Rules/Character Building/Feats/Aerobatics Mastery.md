@@ -7,8 +7,9 @@ tags:
   - trait/skill
   - trait/common
   - category/skill
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.pKnX7MGZayqZui0Z"
-license: OGL
+license: ORC
 ---
 # Aerobatics Mastery
 ## Feat 7
@@ -26,5 +27,5 @@ You gain a +2 circumstance bonus to Acrobatics checks to [[Actions/Maneuver in F
 
 If you're legendary in Acrobatics, you can combine three such maneuvers into a single action; the DC of the Acrobatics check is equal to the DC of the most difficult maneuver + 10. Regardless of the combination, these maneuvers rarely allow you to move farther than your [[Actions/Fly|Fly]] Speed.
 
-*Source: Pathfinder Advanced Player's Guide*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

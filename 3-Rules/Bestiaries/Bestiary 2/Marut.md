@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/inevitable
   - pf2e/creature/type/lawful
   - pf2e/creature/type/monitor
+  - pf2eMonster
   - pf2e/creature/level/15
 statblock: inline
 name: "Marut"
@@ -27,18 +28,18 @@ level: "Creature 15"
 
 alignment: ""
 size: "Large"
-trait_01: "aeon"
-trait_02: "inevitable"
-trait_03: "lawful"
-trait_04: "monitor"
+trait_01: [[aeon]]
+trait_02: [[inevitable]]
+trait_03: [[lawful]]
+trait_04: [[monitor]]
 modifier: 26
 perception:
   - name: "Perception"
     desc: "+26; Darkvision, Truesight"
-languages: "Diabolic, Empyrean, Utopian"
+languages: "Diabolic, Empyrean, Utopian; truespeech"
 skills:
   - name: "Skills"
-    desc: "Athletics: +31, Axis Lore: +22, Diplomacy: +27, Intimidation: +29, Religion: +26, Survival: +28"
+    desc: "Athletics: +31, Diplomacy: +27, Intimidation: +29, Religion: +26, Survival: +28, Axis Lore: +22"
 abilityMods: [8, 4, 6, 1, 5, 6]
 speed: 25 feet
 sourcebook: "_Pathfinder Bestiary 2_"
@@ -78,8 +79,14 @@ attacks:
     desc: "  The marut is anathema to beings that unnaturally extend their existence, including undead. Its fists bypass such creatures' resistances to damage and apply the creatures' highest weakness to damage. If a marut kills a creature that rejuvenates, like a lich or ghost, it always knows that the creature isn't fully defeated."
 
   - name: "Fists of Thunder and Lightning"
-    desc: " (divine,incapacitation) Each time the marut makes a fist Strike, it chooses either lightning or thunder.\n*   If it chooses lightning, the attack deals an additional 2d12 electricity damage and the target must succeed at a DC 33 Fortitude check save or be [[Conditions/Blinded|Blinded]] for 1 minute.\n*   If it chooses thunder, the attack deals an additional 3d8 sonic damage and the target must succeed at a DC 36 Fortitude check save or be [[Conditions/Deafened|Deafened]] for 1 minute."
+    desc: " (divine,incapacitation) Each time the marut makes a fist Strike, it chooses either lightning or thunder.\n\n*   If it chooses lightning, the attack deals an additional 2d12 electricity damage and the target must succeed at a DC 33 Fortitude check save or be [[Conditions/Blinded|Blinded]] for 1 minute.\n*   If it chooses thunder, the attack deals an additional 3d8 sonic damage and the target must succeed at a DC 36 Fortitude check save or be [[Conditions/Deafened|Deafened]] for 1 minute."
  
+```
+
+```encounter-table
+name: Marut
+creatures:
+  - 1: Marut
 ```
 
 

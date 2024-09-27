@@ -11,7 +11,7 @@ license: OGL
 ---
 # Book of Lingering Blaze
 ## Item 10
-### [[grimoire]][[magical]]
+### [[grimoire]][[3-Rules/Rule References/Magical]]
 
 
 **Price** 900 gp; 

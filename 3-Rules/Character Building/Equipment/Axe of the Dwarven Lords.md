@@ -16,7 +16,7 @@ license: OGL
 ---
 # Axe of the Dwarven Lords
 ## Item 26
-### [unique](unique "Unique Rarity Trait")[[dwarf]][[magical]][[sweep]][[thrown-30]][[two-hand-d12]]
+### [unique](unique.md "Unique Rarity Trait")[[3-Rules/trait_reference/dwarf]][[3-Rules/Rule References/Magical]][[sweep]][[thrown-30]][[two-hand-d12]]
 
 |  |  |
 | -- | -- |
@@ -33,7 +33,7 @@ The axe has the thrown 30 feet weapon trait, in addition to the normal weapon tr
 
 While the axe is in your possession, you gain a +4 item bonus when Crafting armor, jewelry, metalworking, stonemasonry, snares, traps, and weapons.
 
-If you are a dwarf, you gain greater darkvision while holding the axe. If you are not a dwarf, you are [[Conditions/Stupefied 1|Stupefied 4]] while holding the axe, and if you are an orc, you are also [[Conditions/Drained 1|Drained 4]] and [[Conditions/Enfeebled 1|Enfeebled 4]] while holding it.
+If you are a dwarf, you gain greater darkvision while holding the axe. If you are not a dwarf, you are [[Conditions/Stupefied|Stupefied 4]] while holding the axe, and if you are an orc, you are also [[Conditions/Drained|Drained 4]] and [[Conditions/Enfeebled|Enfeebled 4]] while holding it.
 
 * * *
 

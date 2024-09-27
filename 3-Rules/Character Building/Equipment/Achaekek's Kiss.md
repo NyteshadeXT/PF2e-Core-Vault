@@ -14,7 +14,7 @@ license: OGL
 ---
 # Achaekek's Kiss
 ## Item 20
-### [rare](rare "Rare Rarity Trait")[[alchemical]][[consumable]][[injury]][[3-Rules/Rule References/Poison]]
+### [rare](rare.md "Rare Rarity Trait")[[alchemical]][[consumable]][[injury]][[3-Rules/Rule References/Poison]]
 
 **Category** poison; 
 **Price** 13000 gp; 
@@ -31,11 +31,11 @@ Kept as a closely guarded secret by the deadly members of the Red Mantis assassi
 
 **Maximum Duration** 6 rounds
 
-**Stage 1** 7d12 poison and [[Conditions/Doomed 1|Doomed 1]] (1 round)
+**Stage 1** 7d12 poison and [[Conditions/Doomed|Doomed 1]] (1 round)
 
-**Stage 2** 9d12 poison and [[Conditions/Doomed 1|Doomed 2]] (1 round)
+**Stage 2** 9d12 poison and [[Conditions/Doomed|Doomed 2]] (1 round)
 
-**Stage 3** 11d12 poison and [[Conditions/Doomed 1|Doomed 3]] (1 round)
+**Stage 3** 11d12 poison and [[Conditions/Doomed|Doomed 3]] (1 round)
 
 *Source: Pathfinder Treasure Vault*
 *OGL*

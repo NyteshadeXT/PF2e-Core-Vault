@@ -18,7 +18,7 @@ license: OGL
 
 
 
-You have full control over your shape and can transform into your inherent animal. You can use [[Actions/Change Shape (Beastkin)|Change Shape]] to enter an animal shape.
+You have full control over your shape and can transform into your inherent animal. You can use [[Actions/Change Shape|Change Shape]] to enter an animal shape.
 
 When you gain this feat, choose either [[Spells/Aerial Form|Aerial Form]], [[Spells/Animal Form|Animal Form]], [[Spells/Dinosaur Form|Dinosaur Form]], or [[Spells/Insect Form|Insect Form]]; after you choose a form, you can't change the form.
 

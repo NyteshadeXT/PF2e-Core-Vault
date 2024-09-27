@@ -14,7 +14,7 @@ license: OGL
 ---
 # Expulsion Snare
 ## Item 2
-### [rare](rare "Rare Rarity Trait")[[consumable]][[mechanical]][[snare]][[trap]]
+### [rare](rare.md "Rare Rarity Trait")[[consumable]][[mechanical]][[snare]][[trap]]
 
 **Category** snare; 
 **Price** 6 gp; 

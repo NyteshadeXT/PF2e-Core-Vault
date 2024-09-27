@@ -10,6 +10,7 @@ tags:
   - pf2e/creature/type/incorporeal
   - pf2e/creature/type/spirit
   - pf2e/creature/type/undead
+  - pf2eMonster
   - pf2e/creature/level/7
 statblock: inline
 name: "Yuni"
@@ -24,14 +25,14 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #197: Let the Leaves Fall"
 name: "Yuni"
 level: "Creature 7"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Medium"
-trait_01: "chaotic"
-trait_02: "ghost"
-trait_03: "incorporeal"
-trait_04: "spirit"
-trait_05: "undead"
+trait_01: [[chaotic]]
+trait_02: [[ghost]]
+trait_03: [[incorporeal]]
+trait_04: [[spirit]]
+trait_05: [[undead]]
 modifier: 15
 perception:
   - name: "Perception"
@@ -61,7 +62,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "[[Creature Family Ability Glossary/(Ghost) Rejuvenation|Rejuvenation]]"
-    desc: " (divine) Returning her sister's [[Equipment/Holy Prayer Beads|Holy Prayer Beads]] and revealing her fate allows Yuni to move on (although she'll return as a ghost next year if the PCs don't break the Willowshore mindscape before then).\nWhen a ghost is destroyed, it re-forms after 2d4 days within the location it's bound to, fully healed. A ghost can be permanently destroyed only if someone determines the reason for its existence and sets right whatever prevents the spirit from resting."
+    desc: " (divine) Returning her sister's [[Equipment/Holy Prayer Beads|Holy Prayer Beads]] and revealing her fate allows Yuni to move on (although she'll return as a ghost next year if the PCs don't break the Willowshore mindscape before then).\n* * *\n\nWhen a ghost is destroyed, it re-forms after 2d4 days within the location it's bound to, fully healed. A ghost can be permanently destroyed only if someone determines the reason for its existence and sets right whatever prevents the spirit from resting."
 
 attacks:
   - name: ""
@@ -70,11 +71,17 @@ attacks:
     desc: "`pf2:1` Ghostly Hand +15 (agile, finesse, magical)\n__Damage__  2d8 + 8 void"
 
   - name: "[[Creature Family Ability Glossary/(Ghost) Frightful Moan|Frightful Moan]]"
-    desc: "`pf2:2` (auditory,divine,emotion,fear,mental) The ghost laments its fate, forcing each living creature within 30 feet to attempt a DC 25 Will check save. On a failure, a creature becomes [[Conditions/Frightened 1|Frightened 2]] (or [[Conditions/Frightened 1|Frightened 3]] on a critical failure). On a success, a creature is temporarily immune to this ghost's frightful moan for 1 minute."
+    desc: "`pf2:2` (auditory,divine,emotion,fear,mental) The ghost laments its fate, forcing each living creature within 30 feet to attempt a DC 25 Will check save. On a failure, a creature becomes [[Conditions/Frightened|Frightened 2]] (or [[Conditions/Frightened|Frightened 3]] on a critical failure). On a success, a creature is temporarily immune to this ghost's frightful moan for 1 minute."
 
   - name: "Tiger Attack"
-    desc: "`pf2:2` (divine) Yuni cries out in pain as a ghostly tiger appears to rip and tear at her body, only for additional ghostly tigers to appear and do the same to all creatures in a 30-foot emanation. Creatures in this area take 4d6 slashing damage (DC 25 Reflex check save)."
+    desc: "`pf2:2` (divine) Yuni cries out in pain as a ghostly tiger appears to rip and tear at her body, only for additional ghostly tigers to appear and do the same to all creatures in a @Template[emanation|distance:30]. Creatures in this area take 4d6 slashing damage (DC 25 Reflex check save)."
  
+```
+
+```encounter-table
+name: Yuni
+creatures:
+  - 1: Yuni
 ```
 
 

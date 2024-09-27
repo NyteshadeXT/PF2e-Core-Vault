@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.season-of-ghosts-bestiary.Actor.5GZ9o5DlIQIZgLb8"
 tags:
   - pf2e/creature/type/lawful
   - pf2e/creature/type/monitor
+  - pf2eMonster
   - pf2e/creature/level/17
 statblock: inline
 name: "Shinigami"
@@ -21,19 +22,19 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #196: The Summer That Never Was"
 name: "Shinigami"
 level: "Creature 17"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Large"
-trait_01: "lawful"
-trait_02: "monitor"
+trait_01: [[lawful]]
+trait_02: [[monitor]]
 modifier: 31
 perception:
   - name: "Perception"
     desc: "+31; Darkvision, Truesight"
-languages: "Common, Diabolic, Draconic, Empyrean, Necril, Requian, Utopian"
+languages: "Common, Diabolic, Draconic, Empyrean, Necril, Requian, Utopian; truespeech"
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +31, Arcana: +30, Boneyard Lore: +32, Diplomacy: +32, Intimidation: +34, Occultism: +30, Religion: +33, Society: +30, Stealth: +31"
+    desc: "Acrobatics: +31, Arcana: +30, Diplomacy: +32, Intimidation: +34, Occultism: +30, Religion: +33, Society: +30, Stealth: +31, Boneyard Lore: +32"
 abilityMods: [8, 6, 7, 5, 6, 9]
 speed: 25 feet,  fly 30 feet
 sourcebook: "_Pathfinder #196: The Summer That Never Was_"
@@ -68,11 +69,17 @@ attacks:
     desc: "  Each shinigami carries a pouch containing four black sapphires for use with [[Spells/Seize Soul|Seize Soul]]. Each gem is capable of holding a soul of a maximum level equal to that of the shinigami. If the shinigami dies, the gems are destroyed as well, and any souls they contain are released harmlessly to travel to the Boneyard."
 
   - name: "Release Soul"
-    desc: "`pf2:2`  **Requirements** One of the gems in the shinigami's pouch contains a soul from bind soul\n**Effect** The shinigami crushes the gem, sending the soul to the Boneyard while releasing a wave of necromantic energy. All creatures within a 30-foot emanation take 18d6 damage (DC 38 Fortitude check save); the shinigami chooses whether this damage is vitality damage or void damage. A creature who takes damage from this effect and fails the saving throw is also [[Conditions/Sickened 1|Sickened 2]] and [[Conditions/Drained 1|Drained 1]] (or [[Conditions/Sickened 1|Sickened 4]] and [[Conditions/Drained 1|Drained 2]] on a critical failure)."
+    desc: "`pf2:2`  **Requirements** One of the gems in the shinigami's pouch contains a soul from bind soul\n* * *\n\n**Effect** The shinigami crushes the gem, sending the soul to the Boneyard while releasing a wave of necromantic energy. All creatures within a @Template[emanation|distance:30] take 18d6 damage (DC 38 Fortitude check save); the shinigami chooses whether this damage is vitality damage or void damage. A creature who takes damage from this effect and fails the saving throw is also [[Conditions/Sickened|Sickened 2]] and [[Conditions/Drained|Drained 1]] (or [[Conditions/Sickened|Sickened 4]] and [[Conditions/Drained|Drained 2]] on a critical failure)."
 
   - name: "Spirit Touch"
     desc: "  A shinigami's Strikes can affect incorporeal creatures with the effect of a _[[Equipment/Ghost Touch|Ghost Touch]]_ property rune."
  
+```
+
+```encounter-table
+name: Shinigami
+creatures:
+  - 1: Shinigami
 ```
 
 

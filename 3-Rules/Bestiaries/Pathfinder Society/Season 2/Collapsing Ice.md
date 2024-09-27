@@ -5,6 +5,7 @@ noteType: pf2eHazard
 tags:
   - environmental
   - trap
+  - pf2eHazard
 
 source: Pathfinder Bounty #1: The Whitefang Wyrm
 aliases: "Compendium.pf2e.pfs-season-2-bestiary.Actor.Xgt8hV1WTSxQLv7y" 
@@ -22,8 +23,8 @@ name: "Collapsing Ice"
 level: "Hazard 0"
 
 
-trait_01: "environmental"
-trait_02: "trap"
+trait_01: [[environmental]]
+trait_02: [[trap]]
 modifier: 5
 sourcebook: "_Pathfinder Bounty #1: The Whitefang Wyrm_"
 perception:
@@ -42,9 +43,15 @@ attacks:
   - name: ""
 
   - name: "Collapse"
-    desc: "`pf2:r` **Trigger** A creature follows the false trail onto thin ice\n**Effect** The ice collapses beneath the lead dog sled team. The dogs and sled can be rescued, but the PCs lose significant time."
+    desc: "`pf2:r` **Trigger** A creature follows the false trail onto thin ice\n* * *\n\n**Effect** The ice collapses beneath the lead dog sled team. The dogs and sled can be rescued, but the PCs lose significant time."
 
 
 
+```
+
+```encounter-table
+name: Collapsing Ice
+creatures:
+  - 1: Collapsing Ice
 ```
 

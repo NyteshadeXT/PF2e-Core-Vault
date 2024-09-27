@@ -12,7 +12,7 @@ license: OGL
 ---
 # Influence
 
-### [[concentrate]][[linguistic]]
+### [[3-Rules/Rule References/Concentrate]][[linguistic]]
 
 **Category** interaction; 
 

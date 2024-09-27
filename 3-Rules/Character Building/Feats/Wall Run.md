@@ -6,8 +6,9 @@ tags:
   - trait/monk
   - trait/common
   - category/class
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.7IsHNime3WneCan6"
-license: OGL
+license: ORC
 ---
 # Wall Run `pf2:1`
 ## Feat 8
@@ -24,5 +25,5 @@ During this movement, you can run up vertical surfaces, like walls, at your full
 
 If you have [[Feats/Water Step|Water Step]] or a similar ability, Wall Run lets you run along flimsy vertical surfaces, as well as vertical liquids, such as a waterfall.
 
-*Source: Pathfinder Core Rulebook*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

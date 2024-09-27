@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/amphibious
   - pf2e/creature/type/beast
   - pf2e/creature/type/evil
+  - pf2eMonster
   - pf2e/creature/level/13
 statblock: inline
 name: "Irahkatu"
@@ -22,12 +23,12 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Kingmaker"
 name: "Irahkatu"
 level: "Creature 13"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Large"
-trait_01: "amphibious"
-trait_02: "beast"
-trait_03: "evil"
+trait_01: [[amphibious]]
+trait_02: [[beast]]
+trait_03: [[evil]]
 modifier: 22
 perception:
   - name: "Perception"
@@ -35,7 +36,7 @@ perception:
 languages: "Aklo, Common"
 skills:
   - name: "Skills"
-    desc: "Athletics: +25, Deception: +23 (+27 when using Voice Imitation), Stealth: +25"
+    desc: "Athletics: +25, Deception: +23, Stealth: +25"
 abilityMods: [8, 6, 6, 0, 5, 4]
 speed: 25 feet,  swim 35 feet
 sourcebook: "_Pathfinder Kingmaker_"
@@ -69,11 +70,17 @@ attacks:
     desc: "`pf2:1` Tail Claw +27 (agile, reach 10 feet)\n__Damage__  3d6 + 14 slashing plus improved-grab"
 
   - name: "Disfigure"
-    desc: "`pf2:2`  **Requirements** Irahkatu has a Medium or smaller creature [[Conditions/Grabbed|Grabbed]] with his tail claw or has already damaged a creature with his claw or tail claw Strike this turn\n**Effect** Irahkatu attempts an Athletics check check against the creature's Fortitude DC.\n**Critical Success** Irahkatu tears at the target's eyes. The target takes 14d6 slashing damage and is [[Conditions/Blinded|Blinded]] for 24 hours. This blinded condition is removed earlier if the creature is fully healed of all damage.\n**Success** Irahkatu mangles some fingers. The target takes 7d6 slashing damage and is [[Conditions/Clumsy 1|Clumsy 1]] for 24 hours.\n**Failure** Irahkatu claws at the creature, dealing 3d6 slashing damage.\n**Critical Failure** The creature is unaffected."
+    desc: "`pf2:2`  **Requirements** Irahkatu has a Medium or smaller creature [[Conditions/Grabbed|Grabbed]] with his tail claw or has already damaged a creature with his claw or tail claw Strike this turn\n\n**Effect** Irahkatu attempts an Athletics check check against the creature's Fortitude DC.\n* * *\n\n**Critical Success** Irahkatu tears at the target's eyes. The target takes 14d6 slashing damage and is [[Conditions/Blinded|Blinded]] for 24 hours. This blinded condition is removed earlier if the creature is fully healed of all damage.\n\n**Success** Irahkatu mangles some fingers. The target takes 7d6 slashing damage and is [[Conditions/Clumsy|Clumsy 1]] for 24 hours.\n\n**Failure** Irahkatu claws at the creature, dealing 3d6 slashing damage.\n\n**Critical Failure** The creature is unaffected."
 
   - name: "Tail Drag"
-    desc: "`pf2:1`  **Requirements** Irahkatu has a Medium or smaller creature grabbed with its tail claw\n**Effect** Irahkatu attempts an Athletics check check against the creature's Fortitude DC.\n**Critical Success** If the creature is 10 feet away from Irahkatu, it is dragged into a square adjacent to Irahkatu. Irahkatu can make a jaws Strike against the creature.\n**Success** If the creature is 10 feet away from Irahkatu, it is dragged into a square adjacent to Irahkatu.\n**Failure** The creature is not dragged.\n**Critical Failure** The creature is not dragged and Irahkatu no longer has the creature grabbed."
+    desc: "`pf2:1`  **Requirements** Irahkatu has a Medium or smaller creature grabbed with its tail claw\n* * *\n\n**Effect** Irahkatu attempts an Athletics check check against the creature's Fortitude DC.\n* * *\n\n**Critical Success** If the creature is 10 feet away from Irahkatu, it is dragged into a square adjacent to Irahkatu. Irahkatu can make a jaws Strike against the creature.\n\n**Success** If the creature is 10 feet away from Irahkatu, it is dragged into a square adjacent to Irahkatu.\n\n**Failure** The creature is not dragged.\n\n**Critical Failure** The creature is not dragged and Irahkatu no longer has the creature grabbed."
  
+```
+
+```encounter-table
+name: Irahkatu
+creatures:
+  - 1: Irahkatu
 ```
 
 

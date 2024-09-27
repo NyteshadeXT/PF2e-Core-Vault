@@ -9,7 +9,7 @@ license: OGL
 ---
 # Bomb Launcher
 ## Item 1
-### [uncommon](uncommon "Uncommon Rarity Trait")
+### [uncommon](uncommon.md "Uncommon Rarity Trait")
 
 
 **Price** 20 gp; 

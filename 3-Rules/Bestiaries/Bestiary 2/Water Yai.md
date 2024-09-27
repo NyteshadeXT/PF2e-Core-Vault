@@ -13,6 +13,7 @@ tags:
   - pf2e/creature/type/oni
   - pf2e/creature/type/unholy
   - pf2e/creature/type/water
+  - pf2eMonster
   - pf2e/creature/level/17
 statblock: inline
 name: "Water Yai"
@@ -31,14 +32,14 @@ level: "Creature 17"
 
 alignment: ""
 size: "huge"
-trait_01: "chaotic"
-trait_02: "evil"
-trait_03: "fiend"
-trait_04: "giant"
-trait_05: "humanoid"
-trait_06: "oni"
-trait_07: "unholy"
-trait_08: "water"
+trait_01: [[chaotic]]
+trait_02: [[evil]]
+trait_03: [[fiend]]
+trait_04: [[giant]]
+trait_05: [[humanoid]]
+trait_06: [[oni]]
+trait_07: [[unholy]]
+trait_08: [[water]]
 modifier: 32
 perception:
   - name: "Perception"
@@ -69,7 +70,7 @@ abilities_mid:
     desc: "`pf2:r`  "
 
   - name: "Shocking Douse"
-    desc: "`pf2:r`  **Trigger** A creature within 100 feet casts a fire spell\n**Effect** The water yai flourishes their kimono and attempts a Performance check to counteract the spell before it comes into effect. If the yai counters the spell, the triggering creature takes 9d6 electricity damage from electrified water that sprays from the kimono (DC 35 Reflex check save)."
+    desc: "`pf2:r`  **Trigger** A creature within 100 feet casts a fire spell\n* * *\n\n**Effect** The water yai flourishes their kimono and attempts a Performance check to counteract the spell before it comes into effect. If the yai counters the spell, the triggering creature takes 9d6 electricity damage from electrified water that sprays from the kimono (DC 35 Reflex check save)."
 
 attacks:
   - name: ""
@@ -90,11 +91,17 @@ attacks:
     desc: "DC 38, attack +28; __9th __  _[[Spells/Chain Lightning|Chain Lightning]]_, _[[Spells/Desiccate|Horrid Wilting]]_; __8th __  _[[Spells/Hydraulic Torrent|Hydraulic Torrent]]_; __5th __  _[[Spells/Control Water|Control Water (At will)]]_; __4th __  _[[Spells/Charm|Charm (x3)]]_, _[[Spells/Darkness|Darkness]]_; __2nd __  _[[Spells/Invisibility|Invisibility (At will) (Self only)]]_\n__Constant__  __(9th)__ _[[Spells/Water Walk|Water Walk]]_"
 
   - name: "[[Bestiary Ability Glossary/Change Shape|Change Shape]]"
-    desc: "`pf2:1` (concentrate,polymorph,primal) The water yai takes on the appearance of a [[Bestiary 1/Storm Giant|Storm Giant]]. This doesn't change their Speed or Strike attack and damage. The yai can also turn into a puddle of water, with the effects of [[Spells/Vapor Form|Vapor Form]] except they retain their land Speed, double their swim Speed, and can't fly.\n"
+    desc: "`pf2:1` (concentrate,polymorph,primal) The water yai takes on the appearance of a [[Bestiary 1/Storm Giant|Storm Giant]]. This doesn't change their Speed or Strike attack and damage. The yai can also turn into a puddle of water, with the effects of [[Spells/Vapor Form|Vapor Form]] except they retain their land Speed, double their swim Speed, and can't fly.\n\n* * *\n"
 
   - name: "Enveloping Kimono"
-    desc: "`pf2:1` (electricity,manipulate,primal,water) **Requirements** The water yai's last action was a successful kimono Strike\n**Effect** The water yai extends a portion of their kimono to attempt to envelop a creature within 15 feet. The water yai must attempt a Performance check check against the creature's Reflex DC.\n**Critical Success** The creature takes 20d6 electricity damage and is [[Conditions/Grabbed|Grabbed]] until the end of its next turn.\n**Success** As critical success, but only 10d6 electricity damage.\n**Failure** The target takes 5d6 electricity damage but is not grabbed.\n**Critical Failure** The target is unaffected."
+    desc: "`pf2:1` (electricity,manipulate,primal,water) **Requirements** The water yai's last action was a successful kimono Strike\n* * *\n\n**Effect** The water yai extends a portion of their kimono to attempt to envelop a creature within 15 feet. The water yai must attempt a Performance check check against the creature's Reflex DC.\n* * *\n\n**Critical Success** The creature takes 20d6 electricity damage and is [[Conditions/Grabbed|Grabbed]] until the end of its next turn.\n\n**Success** As critical success, but only 10d6 electricity damage.\n\n**Failure** The target takes 5d6 electricity damage but is not grabbed.\n\n**Critical Failure** The target is unaffected."
  
+```
+
+```encounter-table
+name: Water Yai
+creatures:
+  - 1: Water Yai
 ```
 
 

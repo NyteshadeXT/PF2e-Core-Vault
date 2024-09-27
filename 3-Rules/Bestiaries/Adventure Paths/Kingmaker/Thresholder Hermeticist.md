@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/human
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/16
 statblock: inline
 name: "Thresholder Hermeticist"
@@ -23,13 +24,13 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Kingmaker"
 name: "Thresholder Hermeticist"
 level: "Creature 16"
-rare_03: "Rare"
+rare_03: [[Rare]]
 alignment: ""
 size: "Medium"
-trait_01: "chaotic"
-trait_02: "evil"
-trait_03: "human"
-trait_04: "humanoid"
+trait_01: [[chaotic]]
+trait_02: [[evil]]
+trait_03: [[human]]
+trait_04: [[humanoid]]
 modifier: 29
 perception:
   - name: "Perception"
@@ -66,7 +67,7 @@ abilities_mid:
     desc: "  When the Thresholder Hermeticist rolls a success on a Fortitude save, they get a critical success instead."
 
   - name: "Outside of Time"
-    desc: "  The Thresholder Hermeticist exists outside of time; they don't age, don't need food or drink to survive, and can't be [[Conditions/Quickened|Quickened]] or [[Conditions/Slowed 1|Slowed]] unless they choose to be."
+    desc: "  The Thresholder Hermeticist exists outside of time; they don't age, don't need food or drink to survive, and can't be [[Conditions/Quickened|Quickened]] or [[Conditions/Slowed|Slowed]] unless they choose to be."
 
 attacks:
   - name: ""
@@ -81,11 +82,17 @@ attacks:
     desc: "  When throwing an alchemical bomb with the splash trait, the Thresholder Hermeticist can deal splash damage to only their primary target instead of the usual splash area."
 
   - name: "Cruel Anatomist"
-    desc: "  The Thresholder Hermeticist deals an additional 2d8 bleed damage with melee Strikes. A creature who bleeds for 2 rounds from this becomes [[Conditions/Enfeebled 1|Enfeebled 1]] for as long as it continues bleeding."
+    desc: "  The Thresholder Hermeticist deals an additional 2d8 bleed damage with melee Strikes. A creature who bleeds for 2 rounds from this becomes [[Conditions/Enfeebled|Enfeebled 1]] for as long as it continues bleeding."
 
   - name: "Quick Bomber"
     desc: "`pf2:1`  The Thresholder Hermeticist Interacts to draw an alchemical bomb, then Strikes with it."
  
+```
+
+```encounter-table
+name: Thresholder Hermeticist
+creatures:
+  - 1: Thresholder Hermeticist
 ```
 
 

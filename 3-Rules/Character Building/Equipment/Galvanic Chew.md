@@ -32,7 +32,7 @@ A galvanic chew is a processed ball of dried electric eel, roasted until chewy a
 
 **Trigger** You're hit by a melee attack or touched by a creature
 
-**Effect** You channel electricity into the triggering creature, which must succeed at a DC 24 Fortitude check save or be [[Conditions/Stunned 1|Stunned 1]] (or [[Conditions/Stunned 1|Stunned 2]] on a critical failure). The chew becomes inert. You're then temporarily immune to galvanic chews for 24 hours or until the next time you make your daily preparations.
+**Effect** You channel electricity into the triggering creature, which must succeed at a DC 24 Fortitude check save or be [[Conditions/Stunned|Stunned 1]] (or [[Conditions/Stunned|Stunned 2]] on a critical failure). The chew becomes inert. You're then temporarily immune to galvanic chews for 24 hours or until the next time you make your daily preparations.
 
 *Source: Pathfinder Treasure Vault*
 *OGL*

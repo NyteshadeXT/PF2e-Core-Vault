@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/chaotic
   - pf2e/creature/type/human
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/6
 statblock: inline
 name: "Ntavi"
@@ -22,12 +23,12 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Kingmaker"
 name: "Ntavi"
 level: "Creature 6"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Medium"
-trait_01: "chaotic"
-trait_02: "human"
-trait_03: "humanoid"
+trait_01: [[chaotic]]
+trait_02: [[human]]
+trait_03: [[humanoid]]
 modifier: 13
 perception:
   - name: "Perception"
@@ -72,6 +73,12 @@ attacks:
   - name: "Maul Mastery"
     desc: "  Ntavi has access to the critical specialization effects for hammers."
  
+```
+
+```encounter-table
+name: Ntavi
+creatures:
+  - 1: Ntavi
 ```
 
 

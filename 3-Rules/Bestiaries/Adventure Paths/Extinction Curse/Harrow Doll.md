@@ -6,6 +6,7 @@ cssClasses: pf2e
 aliases: "Compendium.pf2e.extinction-curse-bestiary.Actor.IVpSJcoRLGgUfqW7" 
 tags:
   - pf2e/creature/type/construct
+  - pf2eMonster
   - pf2e/creature/level/8
 statblock: inline
 name: "Harrow Doll"
@@ -20,10 +21,10 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #154: Siege of the Dinosaurs"
 name: "Harrow Doll"
 level: "Creature 8"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Large"
-trait_01: "construct"
+trait_01: [[construct]]
 modifier: 14
 perception:
   - name: "Perception"
@@ -49,12 +50,12 @@ abilities_top:
   - name: "Items"
     desc: "[[Equipment/Harrow Deck (Simple)|Harrow Deck (Metal)]]"
   - name: "Uncanny Divination"
-    desc: "  A harrow doll can cast [[Spells/Augury|Augury]] as part of a harrow reading, which takes the usual 10 minutes.\nWhen casting [[Spells/Locate|Locate]], the harrow doll doesn't need to have previously observed a specific object to learn its direction, but instead can detail the direction only vaguely, using such phrases as \"beside a weeping mound\" or \"beneath the lost sky.\"\nWhen the harrow doll casts [[Spells/Mind Reading|Mind Reading]], there is no effect if the target critically succeeds its save.\nEach time a harrow doll makes a harrow reading, it also changes which saving throw is affected by its fortune's favor ability."
+    desc: "  A harrow doll can cast [[Spells/Augury|Augury]] as part of a harrow reading, which takes the usual 10 minutes.\n\nWhen casting [[Spells/Locate|Locate]], the harrow doll doesn't need to have previously observed a specific object to learn its direction, but instead can detail the direction only vaguely, using such phrases as \"beside a weeping mound\" or \"beneath the lost sky.\"\n\nWhen the harrow doll casts [[Spells/Mind Reading|Mind Reading]], there is no effect if the target critically succeeds its save.\n\nEach time a harrow doll makes a harrow reading, it also changes which saving throw is affected by its fortune's favor ability."
 
 abilities_mid:
   - name: ""
   - name: "Fortune's Favor"
-    desc: " (fortune) Whenever the harrow doll attempts a specific type of saving throw, it rolls twice and takes the higher result. The type of saving throw is determined by the suit that featured most prominently in the doll's most recent harrow reading: Fortitude (Hammers or Shields), Reflex (Keys or Books), or Will (Stars or Crowns). If the suit of its latest harrow reading is unknown, roll 1d6 at the beginning of combat to randomly determine it.\n[[Bestiary Effects/Effect_ Fortune's Favor|Effect: Fortune's Favor]]"
+    desc: " (fortune) Whenever the harrow doll attempts a specific type of saving throw, it rolls twice and takes the higher result. The type of saving throw is determined by the suit that featured most prominently in the doll's most recent harrow reading: Fortitude (Hammers or Shields), Reflex (Keys or Books), or Will (Stars or Crowns). If the suit of its latest harrow reading is unknown, roll 1d6 at the beginning of combat to randomly determine it.\n\n[[Bestiary Effects/Effect_ Fortune's Favor|Effect: Fortune's Favor]]"
 
 attacks:
   - name: ""
@@ -69,11 +70,17 @@ attacks:
     desc: "DC 27, attack +17; __3rd __ (2 slots) _[[Spells/Locate|Locate]]_, _[[Spells/Mind Reading|Mind Reading]]_; __2nd __ (1 slots) _[[Spells/Augury|Augury (At Will)]]_"
 
   - name: "Harrowing Misfortune"
-    desc: " (curse,misfortune) A creature struck by one of the harrow doll's cards must attempt a DC 25 Will check save or be cursed with misfortune, which forces the creature to roll twice and take the lower result on its next roll of a specific type, determined by the card's suit (roll 1d6 to randomly determine the suit). A creature can be cursed with only one effect from harrowing misfortune at a time, with a new curse overriding any previous curse. The curse ends after 1 minute or after the specified roll is made, whichever comes first. The suits and their effects are: Hammers (melee attack roll), Keys (Reflex save), Shields (Fortitude save), Books (skill check), Stars (Will save), and Crowns (spell attack roll).\n[[Bestiary Effects/Effect_ Harrowing Misfortune|Effect: Harrowing Misfortune]]"
+    desc: " (curse,misfortune) A creature struck by one of the harrow doll's cards must attempt a DC 25 Will check save or be cursed with misfortune, which forces the creature to roll twice and take the lower result on its next roll of a specific type, determined by the card's suit (roll 1d6 to randomly determine the suit). A creature can be cursed with only one effect from harrowing misfortune at a time, with a new curse overriding any previous curse. The curse ends after 1 minute or after the specified roll is made, whichever comes first. The suits and their effects are: Hammers (melee attack roll), Keys (Reflex save), Shields (Fortitude save), Books (skill check), Stars (Will save), and Crowns (spell attack roll).\n\n[[Bestiary Effects/Effect_ Harrowing Misfortune|Effect: Harrowing Misfortune]]"
 
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
     desc: "`pf2:1`  "
  
+```
+
+```encounter-table
+name: Harrow Doll
+creatures:
+  - 1: Harrow Doll
 ```
 
 

@@ -40,7 +40,7 @@ Agna, Bodill, Edrukk, Grunyar, Ingra, Kotri, Morgrym, Rogar, Torra, Yangrit
 
 ## Beliefs
 
-Dwarves tend to value honor and closely follow the traditions of their clans and kingdoms. They have a strong sense of friendship and justice, though they are often very particular about who they consider a friend. They work hard and play harder—especially when strong ale is involved. Torag, god of dwarvenkind, is dwarves’ primary deity, though worship of Torag’s family members is also common.
+Dwarves tend to value honor and closely follow the traditions of their clans and kingdoms. They have a strong sense of friendship and justice, though they are often very particular about who they consider a friend. They work hard and play harder—especially when strong ale is involved. Torag, god of dwarvenkind, is dwarves' primary deity, though worship of Torag's family members is also common.
 
 #### **Popular Edicts**
 

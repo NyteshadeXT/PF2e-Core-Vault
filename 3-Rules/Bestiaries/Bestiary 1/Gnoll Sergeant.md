@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/gnoll
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/4
 statblock: inline
 name: "Gnoll Sergeant"
@@ -27,10 +28,10 @@ level: "Creature 4"
 
 alignment: ""
 size: "Medium"
-trait_01: "chaotic"
-trait_02: "evil"
-trait_03: "gnoll"
-trait_04: "humanoid"
+trait_01: [[chaotic]]
+trait_02: [[evil]]
+trait_03: [[gnoll]]
+trait_04: [[humanoid]]
 modifier: 10
 perception:
   - name: "Perception"
@@ -81,6 +82,12 @@ attacks:
   - name: "Rugged Travel"
     desc: "  A gnoll ignores the first square of difficult terrain it moves into each time it Steps or Strides."
  
+```
+
+```encounter-table
+name: Gnoll Sergeant
+creatures:
+  - 1: Gnoll Sergeant
 ```
 
 

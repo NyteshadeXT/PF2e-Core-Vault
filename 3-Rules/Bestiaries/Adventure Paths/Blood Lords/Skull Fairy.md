@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/chaotic
   - pf2e/creature/type/evil
   - pf2e/creature/type/shadow
+  - pf2eMonster
   - pf2e/creature/level/3
 statblock: inline
 name: "Skull Fairy"
@@ -22,12 +23,12 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #181: Zombie Feast"
 name: "Skull Fairy"
 level: "Creature 3"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "tiny"
-trait_01: "chaotic"
-trait_02: "evil"
-trait_03: "shadow"
+trait_01: [[chaotic]]
+trait_02: [[evil]]
+trait_03: [[shadow]]
 modifier: 10
 perception:
   - name: "Perception"
@@ -57,7 +58,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Shadowy Pop"
-    desc: "  When killed, a skull fairy explodes into shadowy, noxious tissue like a burst bubble. Each creature within 5 feet must succeed at a DC 18 Fortitude check save or become [[Conditions/Sickened 1|Sickened 2]] ([[Conditions/Sickened 1|Sickened 3]] on a critical failure)."
+    desc: "  When killed, a skull fairy explodes into shadowy, noxious tissue like a burst bubble. Each creature within 5 feet must succeed at a DC 18 Fortitude check save or become [[Conditions/Sickened|Sickened 2]] ([[Conditions/Sickened|Sickened 3]] on a critical failure)."
 
 attacks:
   - name: ""
@@ -69,11 +70,17 @@ attacks:
     desc: "DC 17, attack +9; __2nd __  _[[Spells/Faerie Fire|Faerie Fire]]_; __1st __  _[[Spells/Fear|Fear]]_\n__Cantrips__  __(2nd)__ _[[Spells/Telekinetic Hand|Mage Hand]]_"
 
   - name: "Skull Twist"
-    desc: "`pf2:1` (manipulate) **Requirements** The skull fairy's last action was a successful fist Strike against a creature with a skull\n**Effect** The skull fairy wrenches the creature's neck, disorienting it. The creature must succeed at a DC 20 Fortitude check save or be [[Conditions/Stunned 1|Stunned 1]] ([[Conditions/Stunned 1|Stunned 3]] on a critical failure)."
+    desc: "`pf2:1` (manipulate) **Requirements** The skull fairy's last action was a successful fist Strike against a creature with a skull\n* * *\n\n**Effect** The skull fairy wrenches the creature's neck, disorienting it. The creature must succeed at a DC 20 Fortitude check save or be [[Conditions/Stunned|Stunned 1]] ([[Conditions/Stunned|Stunned 3]] on a critical failure)."
 
   - name: "Terminal Tug"
-    desc: "`pf2:2` (death,occult) The skull fairy attempts to rip the head off an adjacent [[Conditions/Dying 1|Dying]] creature. The target must attempt a DC 20 Fortitude check save. If it fails, it dies, and the skull fairy gains 10 temporary Hit Points for 1 hour."
+    desc: "`pf2:2` (death,occult) The skull fairy attempts to rip the head off an adjacent [[Conditions/Dying|Dying]] creature. The target must attempt a DC 20 Fortitude check save. If it fails, it dies, and the skull fairy gains 10 temporary Hit Points for 1 hour."
  
+```
+
+```encounter-table
+name: Skull Fairy
+creatures:
+  - 1: Skull Fairy
 ```
 
 

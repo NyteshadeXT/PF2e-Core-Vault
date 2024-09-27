@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.crown-of-the-kobold-king-bestiary.Actor.4kAU6bQdEZYCqE
 tags:
   - pf2e/creature/type/construct
   - pf2e/creature/type/mindless
+  - pf2eMonster
   - pf2e/creature/level/5
 statblock: inline
 name: "Dismemberment Table"
@@ -24,12 +25,13 @@ level: "Creature 5"
 
 alignment: ""
 size: "Medium"
-trait_01: "construct"
-trait_02: "mindless"
+trait_01: [[construct]]
+trait_02: [[mindless]]
 modifier: 11
 perception:
   - name: "Perception"
     desc: "+11; Darkvision"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Athletics: +13"
@@ -50,7 +52,7 @@ abilities_top:
 
 abilities_mid:
   - name: ""
-  - name: "[[Bestiary 1/Animated Armor/Construct Armor (Hardness 8)|Construct Armor (Hardness 8)]]"
+  - name: "[[Monster Core/Animated Armor/Construct Armor (Hardness 8)|Construct Armor (Hardness 8)]]"
     desc: "  Like normal objects, an animated armor has Hardness. This Hardness reduces any damage it takes by an amount equal to the Hardness. Once an animated armor is reduced to less than half its Hit Points, or immediately upon being damaged by a critical hit, its construct armor breaks and its Armor Class is reduced to 18."
 
   - name: "Haunted"
@@ -66,8 +68,14 @@ attacks:
     desc: "`pf2:1` Strap +14 ()\n__Damage__  2d4 + 7 bludgeoning plus grab"
 
   - name: "Disabling Strike"
-    desc: "`pf2:1`  The dismemberment table attempts a blade Strike on a single target that it has [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]]. If this Strike hits, the blade cuts deep into one of the target's limbs. The target must attempt a DC 22 Fortitude check save.\n**Critical Success** The creature suffers no additional effect.\n**Success** The creature takes 1d6 bleed damage.\n**Failure** The creature takes 2d6 bleed damage and is [[Conditions/Clumsy 1|Clumsy 1]]. This clumsy condition ends once the creature is restored to full Hit Points.\n**Critical Failure** As failure, but [[Conditions/Clumsy 1|Clumsy 2]]."
+    desc: "`pf2:1`  The dismemberment table attempts a blade Strike on a single target that it has [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]]. If this Strike hits, the blade cuts deep into one of the target's limbs. The target must attempt a DC 22 Fortitude check save.\n* * *\n\n**Critical Success** The creature suffers no additional effect.\n\n**Success** The creature takes 1d6 bleed damage.\n\n**Failure** The creature takes 2d6 bleed damage and is [[Conditions/Clumsy|Clumsy 1]]. This clumsy condition ends once the creature is restored to full Hit Points.\n\n**Critical Failure** As failure, but [[Conditions/Clumsy|Clumsy 2]]."
  
+```
+
+```encounter-table
+name: Dismemberment Table
+creatures:
+  - 1: Dismemberment Table
 ```
 
 

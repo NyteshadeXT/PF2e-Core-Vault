@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/aberration
   - pf2e/creature/type/dream
   - pf2e/creature/type/evil
+  - pf2eMonster
   - pf2e/creature/level/7
 statblock: inline
 name: "Dreamscraper"
@@ -22,20 +23,20 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #189: Dreamers of the Nameless Spires"
 name: "Dreamscraper"
 level: "Creature 7"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Large"
-trait_01: "aberration"
-trait_02: "dream"
-trait_03: "evil"
+trait_01: [[aberration]]
+trait_02: [[dream]]
+trait_03: [[evil]]
 modifier: 15
 perception:
   - name: "Perception"
     desc: "+15; Darkvision"
-languages: "Aklo"
+languages: "Aklo; telepathy 100 feet"
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +17, Athletics: +13, Deception: +13, Stealth: +17 (+19 against sleeping creatures), Thievery: +15"
+    desc: "Acrobatics: +17, Athletics: +13, Deception: +13, Stealth: +17, Thievery: +15"
 abilityMods: [2, 6, 4, 2, 4, 2]
 speed: 20 feet,  fly 40 feet
 sourcebook: "_Pathfinder #189: Dreamers of the Nameless Spires_"
@@ -57,7 +58,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "[[Bestiary Ability Glossary/Frightful Presence|Frightful Presence]]"
-    desc: " (aura,emotion,fear,mental) 90 feet. DC 22 Will check\n"
+    desc: " (aura,emotion,fear,mental) 90 feet. DC 22 Will check\n\n* * *\n"
 
 attacks:
   - name: ""
@@ -75,8 +76,14 @@ attacks:
     desc: "`pf2:1`  The dreamscraper shifts to either the Dimension of Dreams or the Material Plane. While in the Dimension of Dreams, it can see clearly onto the Material Plane with a range of 60 feet. On its first round in an encounter, the dreamscraper can use this ability once as a free action."
 
   - name: "Stolen Dreams"
-    desc: " (mental,occult) The dreamscraper catches hold of the target creature's dreams and tries to rip them away. The target must attempt a DC 22 Will check save.\n**Success** The creature is unaffected.\n**Failure** The dreamscraper manages to only scrape at the target creature's dreams. The target becomes [[Conditions/Fatigued|Fatigued]].\n**Critical Failure** The dreamscraper rips the target's dreams away and captures them. The target creature becomes fatigued. Furthermore, the target can never dream, can't be affected by spells that cause or affect dreams, can't detect or be detected by creatures with the dream trait, and can't enter the Dimension of Dreams. This effect ends if the target creature's dreams are restored through powerful magic."
+    desc: " (mental,occult) The dreamscraper catches hold of the target creature's dreams and tries to rip them away. The target must attempt a DC 22 Will check save.\n* * *\n\n**Success** The creature is unaffected.\n\n**Failure** The dreamscraper manages to only scrape at the target creature's dreams. The target becomes [[Conditions/Fatigued|Fatigued]].\n\n**Critical Failure** The dreamscraper rips the target's dreams away and captures them. The target creature becomes fatigued. Furthermore, the target can never dream, can't be affected by spells that cause or affect dreams, can't detect or be detected by creatures with the dream trait, and can't enter the Dimension of Dreams. This effect ends if the target creature's dreams are restored through powerful magic."
  
+```
+
+```encounter-table
+name: Dreamscraper
+creatures:
+  - 1: Dreamscraper
 ```
 
 

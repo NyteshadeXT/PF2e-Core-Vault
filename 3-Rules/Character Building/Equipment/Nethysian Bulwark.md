@@ -25,7 +25,7 @@ This round shield is often fashioned to resemble the religious symbol of its dua
 
 * * *
 
-**Effect** The shield explodes in a burst of bright light and shadowy tendrils, releasing a 15-foot cone of force that must include the attacker if possible. The cone deals 6d8 force damage to all creatures in the area (DC 34 Reflex check).
+**Effect** The shield explodes in a burst of bright light and shadowy tendrils, releasing a @Template\[cone|distance:15\] of force that must include the attacker if possible. The cone deals 6d8 force damage to all creatures in the area (DC 34 Reflex check).
 
 *Source: Pathfinder #149: Against the Scarlet Triad*
 *OGL*

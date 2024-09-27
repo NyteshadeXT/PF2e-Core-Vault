@@ -9,8 +9,9 @@ tags:
   - trait/visual
   - trait/common
   - category/class
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.vayNZR1bTzU1oUa3"
-license: OGL
+license: ORC
 ---
 # Share Rage `pf2:1`
 ## Feat 8
@@ -25,9 +26,9 @@ license: OGL
 
 * * *
 
-You stoke an ally's fury. While you are raging, one willing creature within 30 feet gains the effects of the [[Actions/Rage|Rage]] action, except it can still use concentrate actions.
+You stoke an ally's fury. While you are raging, one willing creature within 30 feet gains the effects of the Rage action, except it can still use concentrate actions. It doesn't get any added benefits from your instinct, feats, or the like.
 
 [[Feat_Feature Effects/Effect_ Share Rage|Effect: Share Rage]]
 
-*Source: Pathfinder Core Rulebook*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

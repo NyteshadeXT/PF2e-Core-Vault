@@ -8,8 +8,9 @@ tags:
   - trait/tengu
   - trait/common
   - category/ancestry
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.rFmJVDdB313EibTs"
-license: OGL
+license: ORC
 ---
 # Eat Fortune `pf2:r`
 ## Feat 5
@@ -26,9 +27,7 @@ license: OGL
 
 * * *
 
-As someone tries to twist fate, you consume the interference. The triggering effect is disrupted.
+As someone tries to twist fate, you consume the interference. The triggering effect is disrupted. If it's a misfortune effect, Eat Fortune gains the fortune trait; if it's a fortune effect, Eat Fortune gains the misfortune trait. This fortune or misfortune applies to the same roll the triggering effect would have, so you couldn't negate a fortune effect with Eat Fortune and then apply a misfortune effect to the same roll.
 
-If it's a misfortune effect, Eat Fortune gains the fortune trait; if it's a fortune effect, Eat Fortune gains the misfortune trait. This fortune or misfortune applies to the same roll the triggering effect would have, so you couldn't negate a fortune effect with Eat Fortune and then apply a misfortune effect to the same roll.
-
-*Source: Pathfinder Advanced Player's Guide*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

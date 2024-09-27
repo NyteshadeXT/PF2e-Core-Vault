@@ -14,7 +14,7 @@ license: OGL
 ---
 # Abysium Powder
 ## Item 9
-### [rare](rare "Rare Rarity Trait")[[alchemical]][[consumable]][[contact]][[3-Rules/Rule References/Poison]]
+### [rare](rare.md "Rare Rarity Trait")[[alchemical]][[consumable]][[contact]][[3-Rules/Rule References/Poison]]
 
 **Category** poison; 
 **Price** 150 gp; 
@@ -33,11 +33,11 @@ This faintly glowing powder rapidly induces the symptoms of abysium poisoning.
 
 **Maximum Duration** 6 minutes
 
-**Stage 1** 8d6 poison damage and [[Conditions/Sickened 1|Sickened 1]] (1 minute)
+**Stage 1** 8d6 poison damage and [[Conditions/Sickened|Sickened 1]] (1 minute)
 
-**Stage 2** 9d6 poison damage and [[Conditions/Sickened 1|Sickened 2]] (1 minute)
+**Stage 2** 9d6 poison damage and [[Conditions/Sickened|Sickened 2]] (1 minute)
 
-**Stage 3** 10d6 poison damage and [[Conditions/Sickened 1|Sickened 3]] (1 minute)
+**Stage 3** 10d6 poison damage and [[Conditions/Sickened|Sickened 3]] (1 minute)
 
 * * *
 

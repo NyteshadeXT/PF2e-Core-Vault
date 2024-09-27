@@ -12,7 +12,7 @@ license: ORC
 ---
 # Composition Spells
 ## Feat 1
-### [[bard]]
+### [[3-Rules/trait_reference/bard]]
 
 **Category** classfeature; 
 

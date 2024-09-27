@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/chaotic
   - pf2e/creature/type/dragon
   - pf2e/creature/type/evil
+  - pf2eMonster
   - pf2e/creature/level/15
 statblock: inline
 name: "Shoal Linnorm"
@@ -24,13 +25,13 @@ token: [[modules/pf2e-tokens-bestiaries/portraits/draconic/linnorms/shoal-linnor
 source: "Pathfinder Bestiary 2"
 name: "Shoal Linnorm"
 level: "Creature 15"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "grg"
-trait_01: "amphibious"
-trait_02: "chaotic"
-trait_03: "dragon"
-trait_04: "evil"
+trait_01: [[amphibious]]
+trait_02: [[chaotic]]
+trait_03: [[dragon]]
+trait_04: [[evil]]
 modifier: 27
 perception:
   - name: "Perception"
@@ -57,7 +58,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "[[Bestiary Ability Glossary/Attack of Opportunity|Attack of Opportunity (Tail Only)]]"
-    desc: "`pf2:r`  Tail only.\n"
+    desc: "`pf2:r`  Tail only.\n\n* * *\n"
 
   - name: "Curse of Drowning"
     desc: " (curse,primal,water) When a creature slays a shoal linnorm, it must succeed at a DC 38 Will check save or become cursed. As long as the curse of drowning persists, the character must spend 3 actions when drinking any liquid. Attempting to drink liquid faster causes the victim to begin drowning, immediately running out of air and falling unconscious."
@@ -78,11 +79,17 @@ attacks:
     desc: "DC 36, attack +26\n__Constant__  __(7th)__ _[[Spells/Unfettered Movement|Freedom of Movement]]_ __(6th)__ _[[Spells/Truesight|True Seeing]]_"
 
   - name: "Breath Weapon"
-    desc: "`pf2:2` (fire,primal,water) The shoal linnorm exhales scalding steam that deals 12d8 fire damage in a 60-foot cone (DC 36 Reflex check save). The steam lingers until the end of the linnorm's next turn; anyone who enters the area or begins their turn in the area takes 6d8 fire damage (DC 36 Reflex check save negates). During this time, the steam is so thick that it impedes movement as well as sight, turning the area into difficult terrain. All creatures in the steam become [[Conditions/Concealed|Concealed]], and all creatures outside the steam become concealed to creatures within it.\nThe shoal linnorm can't use Breath Weapon again for 1d4 rounds."
+    desc: "`pf2:2` (fire,primal,water) The shoal linnorm exhales scalding steam that deals 12d8 fire damage in a @Template[cone|distance:60] (DC 36 Reflex check save). The steam lingers until the end of the linnorm's next turn; anyone who enters the area or begins their turn in the area takes 6d8 fire damage (DC 36 Reflex check save negates). During this time, the steam is so thick that it impedes movement as well as sight, turning the area into difficult terrain. All creatures in the steam become [[Conditions/Concealed|Concealed]], and all creatures outside the steam become concealed to creatures within it.\n\nThe shoal linnorm can't use Breath Weapon again for 1d4 rounds."
 
   - name: "Shoal Linnorm Venom"
-    desc: " (fire,poison) **Saving Throw** DC 36 Fortitude check\n**Maximum Duration** 10 rounds\n**Stage 1** 4d6 fire damage and [[Conditions/Enfeebled 1|Enfeebled 1]] (1 round)\n**Stage 2** 6d6 fire damage and [[Conditions/Enfeebled 1|Enfeebled 2]] (1 round)."
+    desc: " (fire,poison) **Saving Throw** DC 36 Fortitude check\n\n**Maximum Duration** 10 rounds\n\n**Stage 1** 4d6 fire damage and [[Conditions/Enfeebled|Enfeebled 1]] (1 round)\n\n**Stage 2** 6d6 fire damage and [[Conditions/Enfeebled|Enfeebled 2]] (1 round)."
  
+```
+
+```encounter-table
+name: Shoal Linnorm
+creatures:
+  - 1: Shoal Linnorm
 ```
 
 

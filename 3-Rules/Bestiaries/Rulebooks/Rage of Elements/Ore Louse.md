@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/amphibious
   - pf2e/creature/type/beast
   - pf2e/creature/type/water
+  - pf2eMonster
   - pf2e/creature/level/5
   - remaster
 statblock: inline
@@ -26,13 +27,14 @@ level: "Creature 5"
 
 alignment: ""
 size: "Medium"
-trait_01: "amphibious"
-trait_02: "beast"
-trait_03: "water"
+trait_01: [[amphibious]]
+trait_02: [[beast]]
+trait_03: [[water]]
 modifier: 14
 perception:
   - name: "Perception"
     desc: "+14; Darkvision, Scent (Imprecise) 30 Feet, Wavesense (Imprecise) 120 Feet"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Athletics: +12"
@@ -69,7 +71,7 @@ attacks:
     desc: "`pf2:1` Oxidizing Spit +14 (range increment 20 feet)\n__Damage__  2d8 acid plus rust"
 
   - name: "Consume Living Metal"
-    desc: "`pf2:1` (manipulate) **Requirements** The ore louse is adjacent to a creature that died within the last hour and had the metal trait or was another ore louse\n**Effect** An ore louse can replenish its health by eating the remains of its kin or a once-living metal creature. The ore louse feasts upon the corpse, regaining 3d6 Hit Points. The ore louse can regain Hit Points from a given corpse only once."
+    desc: "`pf2:1` (manipulate) **Requirements** The ore louse is adjacent to a creature that died within the last hour and had the metal trait or was another ore louse\n* * *\n\n**Effect** An ore louse can replenish its health by eating the remains of its kin or a once-living metal creature. The ore louse feasts upon the corpse, regaining 3d6 Hit Points. The ore louse can regain Hit Points from a given corpse only once."
 
   - name: "Metal Snack"
     desc: "  An ore louse gains 5 temporary Hit Points each time its mandibles Strike either damages or breaks a metal item using its rust ability, or if it hits a creature that has the metal trait or is made of metal."
@@ -80,6 +82,12 @@ attacks:
   - name: "Water Stride"
     desc: "  The ore louse can stand and move on the surface of water or other liquids without falling through. The ore louse can go underwater if it wishes, but it must Swim to do so."
  
+```
+
+```encounter-table
+name: Ore Louse
+creatures:
+  - 1: Ore Louse
 ```
 
 

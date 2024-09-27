@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/chaotic
   - pf2e/creature/type/evil
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/6
 statblock: inline
 name: "Asanbosam"
@@ -25,9 +26,9 @@ level: "Creature 6"
 
 alignment: ""
 size: "Large"
-trait_01: "chaotic"
-trait_02: "evil"
-trait_03: "humanoid"
+trait_01: [[chaotic]]
+trait_02: [[evil]]
+trait_03: [[humanoid]]
 modifier: 17
 perception:
   - name: "Perception"
@@ -63,14 +64,20 @@ attacks:
     desc: "`pf2:1` Claw +17 (agile, reach 10 feet)\n__Damage__  2d6 + 5 slashing plus grab"
 
   - name: "Attack from Above"
-    desc: "`pf2:2`  **Requirements** The asanbosam is positioned above a creature\n**Effect** The asanbosam makes a claw Strike with its reach increased to 15 feet. On a hit, the Strike deals an additional 1d6 slashing damage and the asanbosam immediately Grabs the target and pulls it to a space adjacent to the asanbosam.\nThis counts as two attacks for the asanbosam's multiple attack penalty."
+    desc: "`pf2:2`  **Requirements** The asanbosam is positioned above a creature\n* * *\n\n**Effect** The asanbosam makes a claw Strike with its reach increased to 15 feet. On a hit, the Strike deals an additional 1d6 slashing damage and the asanbosam immediately Grabs the target and pulls it to a space adjacent to the asanbosam.\n\nThis counts as two attacks for the asanbosam's multiple attack penalty."
 
   - name: "Drink Blood"
-    desc: "`pf2:1`  **Requirements** A [[Conditions/Grabbed|Grabbed]], [[Conditions/Paralyzed|Paralyzed]], [[Conditions/Restrained|Restrained]], [[Conditions/Unconscious|Unconscious]], or willing creature is within reach of the asanbosam's jaws\n**Effect** The asanbosam sinks its teeth into the creature to drink its blood. If the victim is grabbed, this is automatic; otherwise, the asanbosam must succeed at an Athletics check check against the victim's Fortitude DC. The victim becomes [[Conditions/Drained 1|Drained 1]] and the asanbosam regains 10 HP, gaining any excess Hit Points beyond its maximum as temporary Hit Points. These temporary Hit Points remain for 1 minute.\nDrinking Blood from a creature that's already drained increases the victim's drained value by 1 to a maximum of drained 3, but doesn't restore any HP to the asanbosam.\nA victim's drained condition decreases by 1 each week. A blood transfusion, which requires a successful DC 20 Medicine check check and a blood donor or sufficient blood, reduces the drained value by 1 after 10 minutes."
+    desc: "`pf2:1`  **Requirements** A [[Conditions/Grabbed|Grabbed]], [[Conditions/Paralyzed|Paralyzed]], [[Conditions/Restrained|Restrained]], [[Conditions/Unconscious|Unconscious]], or willing creature is within reach of the asanbosam's jaws\n* * *\n\n**Effect** The asanbosam sinks its teeth into the creature to drink its blood. If the victim is grabbed, this is automatic; otherwise, the asanbosam must succeed at an Athletics check check against the victim's Fortitude DC. The victim becomes [[Conditions/Drained|Drained 1]] and the asanbosam regains 10 HP, gaining any excess Hit Points beyond its maximum as temporary Hit Points. These temporary Hit Points remain for 1 minute.\n\nDrinking Blood from a creature that's already drained increases the victim's drained value by 1 to a maximum of drained 3, but doesn't restore any HP to the asanbosam.\n\nA victim's drained condition decreases by 1 each week. A blood transfusion, which requires a successful DC 20 Medicine check check and a blood donor or sufficient blood, reduces the drained value by 1 after 10 minutes."
 
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
     desc: "`pf2:1`  "
  
+```
+
+```encounter-table
+name: Asanbosam
+creatures:
+  - 1: Asanbosam
 ```
 
 

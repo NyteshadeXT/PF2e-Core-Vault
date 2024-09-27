@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.pathfinder-bestiary-2.Actor.Z3J7uGaLmlFRfwPk"
 tags:
   - pf2e/creature/type/elemental
   - pf2e/creature/type/fire
+  - pf2eMonster
   - pf2e/creature/level/8
 statblock: inline
 name: "Magma Scorpion"
@@ -25,12 +26,13 @@ level: "Creature 8"
 
 alignment: ""
 size: "Large"
-trait_01: "elemental"
-trait_02: "fire"
+trait_01: [[elemental]]
+trait_02: [[fire]]
 modifier: 18
 perception:
   - name: "Perception"
     desc: "+18; Darkvision"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Athletics: +18"
@@ -67,11 +69,17 @@ attacks:
     desc: "`pf2:1` Magma Spit +17 (fire, range increment 40 feet)\n__Damage__  1d6 + 9 fire 1d6 fire"
 
   - name: "Magma Scorpion Venom"
-    desc: " (fire,injury,poison) **Saving Throw** DC 26 Fortitude check\n**Maximum Duration** 6 rounds\n**Stage 1** 2d6 fire damage and [[Conditions/Enfeebled 1|Enfeebled 1]] (1 round)\n**Stage 2** 3d6 fire damage and [[Conditions/Enfeebled 1|Enfeebled 2]]"
+    desc: " (fire,injury,poison) **Saving Throw** DC 26 Fortitude check\n\n**Maximum Duration** 6 rounds\n\n**Stage 1** 2d6 fire damage and [[Conditions/Enfeebled|Enfeebled 1]] (1 round)\n\n**Stage 2** 3d6 fire damage and [[Conditions/Enfeebled|Enfeebled 2]] (1 round)"
 
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
     desc: "`pf2:1`  "
  
+```
+
+```encounter-table
+name: Magma Scorpion
+creatures:
+  - 1: Magma Scorpion
 ```
 
 

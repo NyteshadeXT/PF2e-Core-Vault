@@ -18,7 +18,7 @@ license: OGL
 ---
 # Bottled Sunlight (Major)
 ## Item 18
-### [[alchemical]][[bomb]][[consumable]][[3-Rules/Rule References/Fire]][[3-Rules/Character Building/Spells/Light]][[splash]][[vitality]]
+### [[alchemical]][[bomb]][[consumable]][[3-Rules/Rule References/Fire]][[3-Rules/trait_reference/light]][[splash]][[vitality]]
 
 |  |  |
 | -- | -- |

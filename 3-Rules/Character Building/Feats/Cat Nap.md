@@ -8,8 +8,9 @@ tags:
   - trait/exploration
   - trait/common
   - category/ancestry
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.zvtYsz9jk8tPvlpS"
-license: OGL
+license: ORC
 ---
 # Cat Nap
 ## Feat 1
@@ -20,9 +21,13 @@ license: OGL
 
 
 
-You can briefly sleep to regain your energy quickly. Once per hour, by sleeping for 10 minutes, you can gain temporary Hit Points equal to your level that last for 10 minutes.
+**Frequency** once per hour
+
+* * *
+
+You can regain your energy quickly with a brief nap. You sleep for 10 minutes, after which you gain temporary Hit Points equal to your level that last for 1 hour.
 
 [[Feat_Feature Effects/Effect_ Cat Nap|Effect: Cat Nap]]
 
-*Source: Pathfinder Lost Omens: Ancestry Guide*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

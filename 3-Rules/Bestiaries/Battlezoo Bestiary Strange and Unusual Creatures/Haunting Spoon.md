@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/construct
   - pf2e/creature/type/mindless
   - pf2e/creature/type/spirit
+  - pf2eMonster
   - pf2e/creature/level/1
 statblock: inline
 name: "Haunting Spoon"
@@ -23,19 +24,20 @@ token: [[modules/battlezoo-bestiary-su-pf2e/art/Portraits/haunting-spoon.webp| ]
 source: "Battlezoo Bestiary: Strange and Unusual"
 name: "Haunting Spoon"
 level: "Creature 1"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "tiny"
-trait_01: "construct"
-trait_02: "mindless"
-trait_03: "spirit"
+trait_01: [[construct]]
+trait_02: [[mindless]]
+trait_03: [[spirit]]
 modifier: 5
 perception:
   - name: "Perception"
     desc: "+5; Darkvision, Lifesense (Imprecise) 60 Feet"
+languages: ""
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +8, "
+    desc: "Acrobatics: +8, Acrobatics: +8"
 abilityMods: [2, 3, 4, -5, 0, -5]
 speed:  fly 20 feet
 sourcebook: "_Battlezoo Bestiary: Strange and Unusual_"
@@ -57,7 +59,7 @@ abilities_mid:
     desc: "  Like normal objects, a haunting spoon also has Hardness. The haunting spoon's Hardness reduces any damage the haunting spoon takes by an amount equal to the Hardness. Once a haunting spoon is reduced to fewer than half its Hit Points, or immediately upon being damaged by a critical hit, its construct armor breaks, removing the Hardness and reducing its Armor Class to 12."
 
   - name: "Sounds of Distress"
-    desc: "`pf2:0` (auditory,illusion,occult) **Frequency** once per round\n**Trigger** A creature enters the range of the haunting spoon's lifesense\n**Effect** The haunting spoon creates an auditory illusion of a snippet of sound it has previously witnessed. The illusion manifests from a location within the range of the haunting spoon's lifesense. Due to the nature of haunting spoons and their origin, the auditory illusion usually takes the form of people shouting in fear or agony, a violent argument, a heated conversation, or the like. The sounds always seem to originate from another room than the one the spoon is in and have a maximum volume equal to four normal humans shouting. Creatures who succeed at a DC 20 Perception check check can tell that the sounds are an illusion."
+    desc: "`pf2:0` (auditory,illusion,occult) **Frequency** once per round\n\n**Trigger** A creature enters the range of the haunting spoon's lifesense\n* * *\n\n**Effect** The haunting spoon creates an auditory illusion of a snippet of sound it has previously witnessed. The illusion manifests from a location within the range of the haunting spoon's lifesense. Due to the nature of haunting spoons and their origin, the auditory illusion usually takes the form of people shouting in fear or agony, a violent argument, a heated conversation, or the like. The sounds always seem to originate from another room than the one the spoon is in and have a maximum volume equal to four normal humans shouting. Creatures who succeed at a DC 20 Perception check check can tell that the sounds are an illusion."
 
 attacks:
   - name: ""
@@ -66,8 +68,14 @@ attacks:
     desc: "`pf2:1` Scoop +8 (agile, finesse, magical, reach 0 feet)\n__Damage__  1d6 + 2 bludgeoning plus big-scoop"
 
   - name: "Big Scoop"
-    desc: " (emotion,illusion,mental,occult,visual) Any creature that suffers a critical hit from a haunting spoon's scoop Strike must attempt a DC 17 Will check save. On a failure, the creature is Dazzled for 2 rounds, as they experience a vivid hallucination of the haunting spoon attempting to scoop out their eyes from their head or similarly damage any visual organs."
+    desc: " (emotion,illusion,mental,occult,visual) Any creature that suffers a critical hit from a haunting spoon's scoop Strike must attempt a DC 17 Will check save. On a failure, the creature is [[undefined]] for 2 rounds, as they experience a vivid hallucination of the haunting spoon attempting to scoop out their eyes from their head or similarly damage any visual organs."
  
+```
+
+```encounter-table
+name: Haunting Spoon
+creatures:
+  - 1: Haunting Spoon
 ```
 
 

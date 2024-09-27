@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/gnome
   - pf2e/creature/type/good
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/-1
 statblock: inline
 name: "Thisnabel (1-2)"
@@ -23,13 +24,13 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Society Quest #14: The Swordlord&#x27;s Challenge"
 name: "Thisnabel (1-2)"
 level: "Creature -1"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Small"
-trait_01: "chaotic"
-trait_02: "gnome"
-trait_03: "good"
-trait_04: "humanoid"
+trait_01: [[chaotic]]
+trait_02: [[gnome]]
+trait_03: [[good]]
+trait_04: [[humanoid]]
 modifier: 5
 perception:
   - name: "Perception"
@@ -37,7 +38,7 @@ perception:
 languages: "Common, Fey"
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +4, Deception: +3, Dueling Lore: +3, Stealth: +4"
+    desc: "Acrobatics: +4, Deception: +3, Stealth: +4, Dueling Lore: +3"
 abilityMods: [1, 3, 2, 0, 2, 0]
 speed: 25 feet
 sourcebook: "_Pathfinder Society Quest #14: The Swordlord&#x27;s Challenge_"
@@ -68,6 +69,12 @@ attacks:
   - name: "[[Bestiary Ability Glossary/Sneak Attack|Sneak Attack]]"
     desc: "  Thisnabel deals an extra 1d4 precision damage to [[Conditions/Off-Guard|Off-Guard]] creatures."
  
+```
+
+```encounter-table
+name: Thisnabel (1-2)
+creatures:
+  - 1: Thisnabel (1-2)
 ```
 
 

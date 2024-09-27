@@ -19,8 +19,8 @@ If you want a character who is magical, mystical, and mysterious, you should pla
 
 ## Others Probably...
 
-*   Focus on your appearance, either admiring your grace or treating you as if you’re physically fragile.
-*   Worry that you privately look down on them, or feel like you’re condescending and aloof.
+*   Focus on your appearance, either admiring your grace or treating you as if you're physically fragile.
+*   Worry that you privately look down on them, or feel like you're condescending and aloof.
 
 ## Physical Description
 

@@ -17,7 +17,7 @@ license: OGL
 
 
 
-**Moderate Boon** Your eyes glow red like embers and your skin takes on a crimson tone. You gain darkvision and fire resistance 5.
+Your eyes glow red like embers and your skin takes on a crimson tone. You gain darkvision and fire resistance 5.
 
 *Source: Pathfinder Lost Omens: Gods & Magic*
 *OGL*

@@ -15,7 +15,7 @@ license: OGL
 ---
 # Arboreal's Revenge
 ## Item 6
-### [rare](rare "Rare Rarity Trait")[[concussive]][[cursed]][[magical]][[scatter-10]]
+### [rare](rare.md "Rare Rarity Trait")[[concussive]][[cursed]][[3-Rules/Rule References/Magical]][[scatter-10]]
 
 |  |  |
 | -- | -- |

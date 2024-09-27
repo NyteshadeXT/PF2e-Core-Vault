@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.pathfinder-bestiary-2.Actor.CrAsEzLl3F2vejd3"
 tags:
   - pf2e/creature/type/earth
   - pf2e/creature/type/elemental
+  - pf2eMonster
   - pf2e/creature/level/4
 statblock: inline
 name: "Earthen Destrier"
@@ -25,8 +26,8 @@ level: "Creature 4"
 
 alignment: ""
 size: "Large"
-trait_01: "earth"
-trait_02: "elemental"
+trait_01: [[earth]]
+trait_02: [[elemental]]
 modifier: 10
 perception:
   - name: "Perception"
@@ -68,11 +69,17 @@ attacks:
     desc: "  If the destrier moved at least 10 feet directly before its lance arm Strike, it gains a +2 circumstance bonus to its damage roll."
 
   - name: "Tilting Strike"
-    desc: "`pf2:r`  **Trigger** The earthen destrier tramples a creature\n**Effect** The earthen destrier makes a lance arm Strike against the creature it's trampling at a -5 penalty."
+    desc: "`pf2:r`  **Trigger** The earthen destrier tramples a creature\n* * *\n\n**Effect** The earthen destrier makes a lance arm Strike against the creature it's trampling at a -5 penalty."
 
   - name: "[[Bestiary Ability Glossary/Trample|Trample]]"
-    desc: "`pf2:3`  Medium or smaller, hoof, DC 20 Reflex check\n"
+    desc: "`pf2:3`  Medium or smaller, hoof, DC 20 Reflex check\n\n* * *\n"
  
+```
+
+```encounter-table
+name: Earthen Destrier
+creatures:
+  - 1: Earthen Destrier
 ```
 
 

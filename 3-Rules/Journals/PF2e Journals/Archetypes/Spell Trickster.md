@@ -104,7 +104,7 @@ When you cast mirror image, you can modify its duration to be sustained up to 1 
 
 ## [[Feats/Disk Rider|Disk Rider]] Feat 6
 
-**Prerequisites**[[Feats/Spell Trickster Dedication|Spell Trickster Dedication]], ability to cast [[Spells/Floating Disk|Floating Disk]]
+**Prerequisites**[[Feats/Spell Trickster Dedication|Spell Trickster Dedication]], ability to cast [[Spells/Carryall|Carryall]]
 
 * * *
 
@@ -140,7 +140,7 @@ When you cast obscuring mist, you can modify the spell to replace its standard e
 
 * * *
 
-When you cast sleep, you can modify the spell to add the following to its standard effects: Subjects of your spell experience troubled dreams. When a target that failed or critically failed its saving throw wakes up, it is [[Conditions/Frightened 1|Frightened 1]].
+When you cast sleep, you can modify the spell to add the following to its standard effects: Subjects of your spell experience troubled dreams. When a target that failed or critically failed its saving throw wakes up, it is [[Conditions/Frightened|Frightened 1]].
 
 ## [[Feats/Volatile Grease|Volatile Grease]] Feat 6
 

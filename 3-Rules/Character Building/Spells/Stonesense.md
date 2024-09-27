@@ -4,19 +4,36 @@ title: "Stonesense"
 noteType: pf2eSpell
 cssclasses: pf2e,pf2e-spell
 tags:
+  - pf2eSpell
   - spell/level/4
   - trait/concentrate
   - trait/manipulate
   - trait/rare
-aliases: "Compendium.pf2e.spells-srd.Item.UVLiBXLLAoWhUU4R" 
----
-# Stonesense  `pf2:3`  
-## Spell 4
-### [rare](rare "Rare Rarity Trait")[[concentrate]][[manipulate]]
-**Traditions** [[arcane]], [[divine]], [[primal]]
-**Duration** 1 minute
-* * * 
-You gain tremorsense as an imprecise sense to a range of 100 feet, but you can only sense vibrations through natural stone (not masonry, adobe, or any other manufactured edifice).
+  - tradition/arcane
+  - tradition/divine
+  - tradition/primal
 
-*Source: Pathfinder #194: Cult of the Cave Worm*
-*OGL*
+aliases: "Compendium.pf2e.spells-srd.Item.UVLiBXLLAoWhUU4R" 
+license: OGL
+---
+```statblock
+name: "Stonesense  `pf2:3`"
+level: "Spell 4"
+rare_03: [[Rare]]
+trait_01: [[concentrate]]
+trait_02: [[manipulate]]
+layout: Basic Pathfinder 2e Layout
+columns: 1
+columnWidth: x
+abilities_top:
+  - name: ""
+  - name: "Traditions"
+    desc: "arcane, divine, primal"
+
+  - name: "Duration"
+    desc: "1 minute"
+abilities_mid:
+  - name: ""
+    desc: "You gain tremorsense as an imprecise sense to a range of 100 feet, but you can only sense vibrations through natural stone (not masonry, adobe, or any other manufactured edifice)."
+sourcebook: "_Pathfinder #194: Cult of the Cave Worm_"
+```

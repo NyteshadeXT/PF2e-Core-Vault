@@ -6,6 +6,7 @@ cssClasses: pf2e
 aliases: "Compendium.pf2e.pathfinder-bestiary-3.Actor.O9TQjp3scKfW8SZK" 
 tags:
   - pf2e/creature/type/astral
+  - pf2eMonster
   - pf2e/creature/level/3
 statblock: inline
 name: "Shulsaga"
@@ -21,15 +22,15 @@ token: [[modules/pf2e-tokens-bestiaries/portraits/planar/astral/shulsaga.webp| ]
 source: "Pathfinder Bestiary 3"
 name: "Shulsaga"
 level: "Creature 3"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Medium"
-trait_01: "astral"
+trait_01: [[astral]]
 modifier: 10
 perception:
   - name: "Perception"
     desc: "+10; Low-Light Vision"
-languages: "Common"
+languages: "Common; telepathy 60 feet"
 skills:
   - name: "Skills"
     desc: "Acrobatics: +11, Occultism: +8, Stealth: +9, Survival: +8"
@@ -50,7 +51,7 @@ abilities_top:
   - name: "Items"
     desc: "[[Equipment/Composite Longbow|Composite Longbow]], [[Equipment/Halberd|Halberd]], [[Equipment/Steel Shield|Floating Disk (see Disk Rider)]], 20x [[Equipment/Arrows|Arrows]]"
   - name: "Rift Sense"
-    desc: "  A shulsaga can sense any planar rift within 1 mile, including natural portals, ongoing planar spells like [[Spells/Gate|Gate]], and other tears in reality.\nBy concentrating for 1 minute, a shulsaga can increase this sense's range to 25 miles."
+    desc: "  A shulsaga can sense any planar rift within 1 mile, including natural portals, ongoing planar spells like [[Spells/Gate|Gate]], and other tears in reality.\n\nBy concentrating for 1 minute, a shulsaga can increase this sense's range to 25 miles."
 
 abilities_mid:
   - name: ""
@@ -67,20 +68,26 @@ attacks:
     desc: "`pf2:1` Composite Longbow +11 (deadly d10, propulsive, range increment 100 feet, volley 30 ft.)\n__Damage__  1d8 + 3 piercing"
 
   - name: "Occult Innate Spells"
-    desc: "DC 18, attack +10; __1st __  _[[Spells/Floating Disk|Floating Disk (At Will)]]_\n__Cantrips__  __(2nd)__ _[[Compendium.pf2e.spells-srd.Item.kl2q6JvBZwed4B6v|Dancing Lights]]_, _[[Spells/Detect Magic|Detect Magic]]_, _[[Spells/Telekinetic Projectile|Telekinetic Projectile]]_"
+    desc: "DC 18, attack +10; __1st __  _[[Spells/Carryall|Floating Disk (At Will)]]_\n__Cantrips__  __(2nd)__ _[[Compendium.pf2e.spells-srd.Item.kl2q6JvBZwed4B6v|Dancing Lights]]_, _[[Spells/Detect Magic|Detect Magic]]_, _[[Spells/Telekinetic Projectile|Telekinetic Projectile]]_"
 
   - name: "Astral Recoil"
-    desc: "`pf2:1` (occult) **Frequency** once per minute\n**Trigger** The shulsaga's last action was a successful melee Strike against an astral form created by the [[Spells/Astral Projection|Astral Projection]] ritual or a similar effect\n**Effect** The shulsaga attempts to counteract the effect projecting the creature onto the Astral Plane, with the effects of a 5th-rank [[Spells/Dispel Magic|Dispel Magic]] spell (counteract modifier +18)."
+    desc: "`pf2:1` (occult) **Frequency** once per minute\n\n**Trigger** The shulsaga's last action was a successful melee Strike against an astral form created by the [[Spells/Astral Projection|Astral Projection]] ritual or a similar effect\n* * *\n\n**Effect** The shulsaga attempts to counteract the effect projecting the creature onto the Astral Plane, with the effects of a 5th-rank [[Spells/Dispel Magic|Dispel Magic]] spell (counteract modifier +18)."
 
   - name: "Astral Shock"
     desc: "  An astrally projected creature whose astral form is slain by a shulsaga takes a -2 circumstance penalty to the subsequent Fortitude saving throw to resist the strain."
 
   - name: "Disk Rider"
-    desc: "  A shulsaga can ride atop any [[Spells/Floating Disk|Floating Disk]] they create. While mounted on a _floating disk_, a shulsaga gains a +10-foot enhancement bonus to their fly Speed, and the shulsaga can use their feet to wield the disk as a heavy shield (Hardness 5, HP20, BT10).\nA broken disk grants no bonus to Speed, and the spell ends if the disk is destroyed."
+    desc: "  A shulsaga can ride atop any [[Spells/Carryall|Carryall]] they create. While mounted on a _floating disk_, a shulsaga gains a +10-foot enhancement bonus to their fly Speed, and the shulsaga can use their feet to wield the disk as a heavy shield (Hardness 5, HP20, BT10).\n\nA broken disk grants no bonus to Speed, and the spell ends if the disk is destroyed."
 
   - name: "Hop On"
-    desc: "  **Frequency** once per round\n**Requirements** The shulsaga is adjacent to a [[Spells/Floating Disk|Floating Disk]] they created\n**Effect** The shulsaga Steps into the disk's space and rides atop the disk. They can also use this action to dismount from their disk."
+    desc: "  **Frequency** once per round\n\n**Requirements** The shulsaga is adjacent to a [[Spells/Carryall|Carryall]] they created\n* * *\n\n**Effect** The shulsaga Steps into the disk's space and rides atop the disk. They can also use this action to dismount from their disk."
  
+```
+
+```encounter-table
+name: Shulsaga
+creatures:
+  - 1: Shulsaga
 ```
 
 

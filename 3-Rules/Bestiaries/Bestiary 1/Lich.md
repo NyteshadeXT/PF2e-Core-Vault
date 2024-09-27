@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/undead
   - pf2e/creature/type/unholy
+  - pf2eMonster
   - pf2e/creature/level/12
 statblock: inline
 name: "Lich"
@@ -23,12 +24,12 @@ token: [[modules/pf2e-tokens-bestiaries/portraits/undead/skeletal/lich.webp| ]]
 source: "Pathfinder Bestiary"
 name: "Lich"
 level: "Creature 12"
-rare_03: "Rare"
+rare_03: [[Rare]]
 alignment: ""
 size: "Medium"
-trait_01: "evil"
-trait_02: "undead"
-trait_03: "unholy"
+trait_01: [[evil]]
+trait_02: [[undead]]
+trait_03: [[unholy]]
 modifier: 20
 perception:
   - name: "Perception"
@@ -36,7 +37,7 @@ perception:
 languages: "Aklo, Chthonian, Common, Diabolic, Draconic, Elven, Necril, Sakvroth"
 skills:
   - name: "Skills"
-    desc: "Arcana: +28, Crafting: +24 (can craft magic items), Deception: +17, Diplomacy: +19, Religion: +22, Stealth: +20"
+    desc: "Arcana: +28, Crafting: +24, Deception: +17, Diplomacy: +19, Religion: +22, Stealth: +20"
 abilityMods: [0, 4, 0, 6, 4, 3]
 speed: 25 feet
 sourcebook: "_Pathfinder Bestiary_"
@@ -48,7 +49,7 @@ hp: 190
 health:
   - name: ""
   - name: HP
-    desc: "190, void healing, rejuvenation; __Immunities__  death effects,  disease,  paralyzed,  poison,  unconscious; __Resistances__ cold 10, physical 10 (except bludgeoning)"
+    desc: "190, void healing, rejuvenation; __Immunities__  death effects,  disease,  paralyzed,  poison,  unconscious; __Resistances__ cold 10, physical 10 (except magical bludgeoning)"
 abilities_top:
   - name: ""
   - name: "Items"
@@ -56,10 +57,10 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Counterspell"
-    desc: "`pf2:r`  **Trigger** A creature casts a spell the lich has prepared.\n**Effect** The lich expends a prepared spell to counter the triggering creature's casting of that same spell. The lich loses its spell slot as if it had cast the triggering spell. The lich then attempts to counteract the triggering spell."
+    desc: "`pf2:r`  **Trigger** A creature casts a spell the lich has prepared.\n* * *\n\n**Effect** The lich expends a prepared spell to counter the triggering creature's casting of that same spell. The lich loses its spell slot as if it had cast the triggering spell. The lich then attempts to counteract the triggering spell."
 
   - name: "[[Bestiary Ability Glossary/Frightful Presence|Frightful Presence]]"
-    desc: " (aura,emotion,fear,mental) 60 feet. DC 29 Will check\n"
+    desc: " (aura,emotion,fear,mental) 60 feet. DC 29 Will check\n\n* * *\n"
 
   - name: "[[Creature Family Ability Glossary/(Lich) Rejuvenation|Rejuvenation]]"
     desc: " (arcane) When a lich is destroyed, its soul immediately transfers to its _[[Equipment/Lich Soul Cage|Soul Cage]]_. A lich can be permanently destroyed only if its _soul cage_ is found and destroyed."
@@ -74,14 +75,20 @@ attacks:
     desc: "DC 36, attack +26; __6th __  _[[Spells/Chain Lightning|Chain Lightning]]_, _[[Spells/Dominate|Dominate]]_, _[[Spells/Vampiric Exsanguination|Vampiric Exsanguination]]_; __5th __  _[[Spells/Toxic Cloud|Cloudkill]]_, _[[Spells/Cone of Cold|Cone of Cold]]_, _[[Spells/Wall of Ice|Wall of Ice]]_; __4th __  _[[Spells/Translocate|Dimension Door]]_, _[[Spells/Fire Shield|Fire Shield]]_, _[[Spells/Fly|Fly]]_; __3rd __  _[[Spells/Blindness|Blindness]]_, _[[Spells/Locate|Locate]]_, _[[Spells/Vampiric Feast|Vampiric Touch]]_; __2nd __  _[[Spells/Dispel Magic|Dispel Magic]]_, _[[Spells/False Vitality|False Life]]_, _[[Spells/Mirror Image|Mirror Image]]_, _[[Spells/Resist Energy|Resist Energy]]_, _[[Spells/See the Unseen|See Invisibility]]_; __1st __  _[[Spells/Fleet Step|Fleet Step]]_, _[[Spells/Force Barrage|Magic Missile]]_, _[[Spells/Enfeeble|Ray of Enfeeblement]]_, _[[Spells/Sure Strike|True Strike]]_\n__Cantrips__  __(6th)__ _[[Spells/Detect Magic|Detect Magic]]_, _[[Spells/Telekinetic Hand|Mage Hand]]_, _[[Spells/Message|Message]]_, _[[Spells/Ray of Frost|Ray of Frost]]_, _[[Spells/Shield|Shield]]_"
 
   - name: "[[Creature Family Ability Glossary/(Lich) Drain Soul Cage|Drain Soul Cage]]"
-    desc: "  **Frequency** once per day\n**Effect** The lich taps into its _[[Equipment/Lich Soul Cage|Soul Cage's]]_ power to cast any arcane spell up to 6th level, even if the spell being cast is not one of the lich's prepared spells. The lich's _soul cage_ doesn't need to be present for the lich to use this ability."
+    desc: "  **Frequency** once per day\n* * *\n\n**Effect** The lich taps into its _[[Equipment/Lich Soul Cage|Soul Cage's]]_ power to cast any arcane spell up to 6th level, even if the spell being cast is not one of the lich's prepared spells. The lich's _soul cage_ doesn't need to be present for the lich to use this ability."
 
   - name: "[[Creature Family Ability Glossary/(Lich) Paralyzing Touch|Paralyzing Touch]]"
-    desc: " (arcane,curse,incapacitation) A creature damaged by the lich's hand Strike must succeed at a DC 32 Fortitude check save against the lich's spell DC-4.\nThe creature becomes [[Conditions/Paralyzed|Paralyzed]] for 1 round on a failure. On a critical failure, the creature is paralyzed permanently, falls [[Conditions/Prone|Prone]], and seems dead. A DC 25 Medicine check check reveals the victim is alive."
+    desc: " (arcane,curse,incapacitation) A creature damaged by the lich's hand Strike must succeed at a DC 32 Fortitude check save against the lich's spell DC-4.\n\nThe creature becomes [[Conditions/Paralyzed|Paralyzed]] for 1 round on a failure. On a critical failure, the creature is paralyzed permanently, falls [[Conditions/Prone|Prone]], and seems dead. A DC 25 Medicine check check reveals the victim is alive."
 
   - name: "Steady Spellcasting"
     desc: "  If a reaction would disrupt the lich's spellcasting action, the lich attempts a DC 15 Flat check check. On a success, the action isn't disrupted."
  
+```
+
+```encounter-table
+name: Lich
+creatures:
+  - 1: Lich
 ```
 
 

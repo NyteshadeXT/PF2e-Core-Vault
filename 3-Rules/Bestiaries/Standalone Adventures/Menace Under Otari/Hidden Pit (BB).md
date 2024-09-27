@@ -3,6 +3,7 @@ title: Hidden Pit (BB)
 obsidianUIMode: preview
 noteType: pf2eHazard
 tags:
+  - pf2eHazard
 
 source: Pathfinder Beginner Box
 aliases: "Compendium.pf2e.menace-under-otari-bestiary.Actor.BHq5wpQU8hQEke8D" 
@@ -25,7 +26,7 @@ sourcebook: "_Pathfinder Beginner Box_"
 ac: 10
 armorclass:
   - name: AC
-    desc: "10; __Fort__ +1, __Ref__ +1, __Will__ +0"
+    desc: "10; __Fort__ +1, __Ref__ +1, "
 hp: 12
 health:
   - name: ""
@@ -51,5 +52,11 @@ attacks:
 
 
 
+```
+
+```encounter-table
+name: Hidden Pit (BB)
+creatures:
+  - 1: Hidden Pit (BB)
 ```
 

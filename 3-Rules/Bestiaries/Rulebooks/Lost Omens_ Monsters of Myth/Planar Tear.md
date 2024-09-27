@@ -7,6 +7,7 @@ tags:
   - environmental
   - kaiju
   - teleportation
+  - pf2eHazard
   - complex
 source: Pathfinder Lost Omens: Monsters of Myth
 aliases: "Compendium.pf2e.lost-omens-monsters-of-myth-bestiary.Actor.XwBFT7VO9M7M6AgQ" 
@@ -24,16 +25,16 @@ name: "Planar Tear"
 level: "Hazard 20"
 
 trait_06: "Complex"
-trait_01: "divine"
-trait_02: "environmental"
-trait_03: "kaiju"
-trait_04: "teleportation"
+trait_01: [[divine]]
+trait_02: [[environmental]]
+trait_03: [[kaiju]]
+trait_04: [[teleportation]]
 modifier: 32
 sourcebook: "_Pathfinder Lost Omens: Monsters of Myth_"
 ac: 10
 armorclass:
   - name: AC
-    desc: "10; __Fort__ +0, __Ref__ +0, __Will__ +0"
+    desc: "10; "
 hp: 0
 health:
   - name: ""
@@ -55,11 +56,17 @@ attacks:
   - name: ""
 
   - name: "Tear Reality"
-    desc: "`pf2:r` **Trigger** Ebeshra recognizes a nearby threat as needing an indisputable resolution, or a deity tasks Ebeshra with creating a planar rift\n**Effect** Ebeshra twists its body, aligning its segmented sections into a fine blade, and cuts the fabric of the Material Plane. It creates an enormous rift in a point in the sky within 1 mile. The rift is 100 feet long and 50 feet wide. The hazard rolls initiative."
+    desc: "`pf2:r` **Trigger** Ebeshra recognizes a nearby threat as needing an indisputable resolution, or a deity tasks Ebeshra with creating a planar rift\n* * *\n\n**Effect** Ebeshra twists its body, aligning its segmented sections into a fine blade, and cuts the fabric of the Material Plane. It creates an enormous rift in a point in the sky within 1 mile. The rift is 100 feet long and 50 feet wide. The hazard rolls initiative."
 
   - name: "Routine"
-    desc: "The rift pulls creatures within 500 feet toward it. The rift can pull any creature, regardless of its size. Creatures in the area must attempt a DC 45 Fortitude check or DC 45 Reflex check save (the creature's choice) to resist the effects of this pull or attempt to grab something to avoid getting pulled.\n**Critical Success** The creature resists the pull and doesn't move toward the rift.\n**Success** The creature is moved 25 feet toward the rift.\n**Failure** The creature is moved 50 feet toward the rift.\n**Critical Failure** The creature is moved 100 feet toward the rift. The harsh pull causes the creature to take 10d6 bludgeoning damage.\nIf a creature is directly beneath the rift when the rift pulls it, the creature instead attempts a DC 50 Fortitude check or DC 50 Reflex check save (the creature's choice) to avoid being pulled into the rift. On a failure, the creature is pulled up into the rift and thrown to a random point on the plane on the other side."
+    desc: "The rift pulls creatures within 500 feet toward it. The rift can pull any creature, regardless of its size. Creatures in the area must attempt a DC 45 Fortitude check or DC 45 Reflex check save (the creature's choice) to resist the effects of this pull or attempt to grab something to avoid getting pulled.\n* * *\n\n**Critical Success** The creature resists the pull and doesn't move toward the rift.\n\n**Success** The creature is moved 25 feet toward the rift.\n\n**Failure** The creature is moved 50 feet toward the rift.\n\n**Critical Failure** The creature is moved 100 feet toward the rift. The harsh pull causes the creature to take 10d6 bludgeoning damage.\n\nIf a creature is directly beneath the rift when the rift pulls it, the creature instead attempts a DC 50 Fortitude check or DC 50 Reflex check save (the creature's choice) to avoid being pulled into the rift. On a failure, the creature is pulled up into the rift and thrown to a random point on the plane on the other side."
   - name: "Reset"
     desc: "Ebeshra vanishes 1 minute after opening the rift, which closes the rift. Ebeshra must wait 1 week before it can open another planar rift."
+```
+
+```encounter-table
+name: Planar Tear
+creatures:
+  - 1: Planar Tear
 ```
 

@@ -6,6 +6,7 @@ tags:
   - magical
   - mental
   - trap
+  - pf2eHazard
 
 source: Pathfinder #195: Heavy is the Crown
 aliases: "Compendium.pf2e.sky-kings-tomb-bestiary.Actor.jZ9NE9ryzyRO60kd" 
@@ -23,9 +24,9 @@ name: "Repelling Surge"
 level: "Hazard 9"
 
 
-trait_01: "magical"
-trait_02: "mental"
-trait_03: "trap"
+trait_01: [[magical]]
+trait_02: [[mental]]
+trait_03: [[trap]]
 modifier: 20
 sourcebook: "_Pathfinder #195: Heavy is the Crown_"
 perception:
@@ -44,10 +45,16 @@ attacks:
   - name: ""
 
   - name: "Repel"
-    desc: "`pf2:r` (arcane, force) **Trigger** A creature that isn't a Rivethun practitioner enters the room\n**Effect** The trap deals 5d4 + 12 force damage to the triggering creature (DC 32 Fortitude check save). On a failed save, they're additionally knocked back 10 feet."
+    desc: "`pf2:r` (arcane, force) **Trigger** A creature that isn't a Rivethun practitioner enters the room\n* * *\n\n**Effect** The trap deals 5d4+12 force damage to the triggering creature (DC 32 Fortitude check save). On a failed save, they're additionally knocked back 10 feet."
 
 
   - name: "Reset"
     desc: ""
+```
+
+```encounter-table
+name: Repelling Surge
+creatures:
+  - 1: Repelling Surge
 ```
 

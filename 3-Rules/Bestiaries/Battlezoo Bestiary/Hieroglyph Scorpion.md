@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/construct
   - pf2e/creature/type/incorporeal
   - pf2e/creature/type/mindless
+  - pf2eMonster
   - pf2e/creature/level/10
 statblock: inline
 name: "Hieroglyph Scorpion"
@@ -23,19 +24,20 @@ token: [[modules/battlezoo-bestiary-pf2e/art/hieroglyph_scorpion.webp| ]]
 source: "Battlezoo Bestiary"
 name: "Hieroglyph Scorpion"
 level: "Creature 10"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Small"
-trait_01: "construct"
-trait_02: "incorporeal"
-trait_03: "mindless"
+trait_01: [[construct]]
+trait_02: [[incorporeal]]
+trait_03: [[mindless]]
 modifier: 20
 perception:
   - name: "Perception"
     desc: "+20; Darkvision, Tremorsense (Imprecise) 120 Feet"
+languages: ""
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +21, Stealth: +21 (+25 While Flattened), "
+    desc: "Acrobatics: +21, Stealth: +21"
 abilityMods: [-5, 7, 3, -5, 2, 6]
 speed: 40 feet,  climb 40 feet
 sourcebook: "_Battlezoo Bestiary_"
@@ -72,7 +74,7 @@ attacks:
     desc: "`pf2:1` Pincer +23 (agile, finesse, magical, reach 10 feet)\n__Damage__  2d6 + 13 slashing"
 
   - name: "Inscription Venom"
-    desc: " (arcane,incapacitation) **Saving Throw** Fortitude;\n**Maximum Duration** 6 rounds;\n**Stage 1** Off-Guard (1 round);\n**Stage 2** off-guard and Slowed 1 (1 round);\n**Stage 3** off-guard and Slowed 2 (1 round);\n**Stage 4** The victim is permanently petrified, and its physical body (including all its possessions) are magically inscribed onto the nearest flat surface, such as a wall or floor tile.\nNo physical trace of the victim remains except its inscription. An inscribed creature can be recovered from the mural by targeting its inscription with Stone to Flesh or by destroying the mural on which it is inscribed. If the mural is destroyed, all inscribed creatures on the destroyed portion of the mural are freed, restored to flesh, and are cured of this poison."
+    desc: " (arcane,incapacitation) **Saving Throw** DC 28 Fortitude;\n* * *\n\n**Maximum Duration** 6 rounds;\n\n**Stage 1** [[Conditions/Off-Guard|Off-Guard]] (1 round);\n\n**Stage 2** off-guard and [[Conditions/Slowed|Slowed 1]] (1 round);\n\n**Stage 3** off-guard and [[Conditions/Slowed|Slowed 2]] (1 round);\n\n**Stage 4** The victim is permanently petrified, and its physical body (including all its possessions) are magically inscribed onto the nearest flat surface, such as a wall or floor tile.\n\nNo physical trace of the victim remains except its inscription. An inscribed creature can be recovered from the mural by targeting its inscription with [[Spells/Stone to Flesh|Stone to Flesh]] or by destroying the mural on which it is inscribed. If the mural is destroyed, all inscribed creatures on the destroyed portion of the mural are freed, restored to flesh, and are cured of this poison."
 
   - name: "Weightless Climber"
     desc: "  A hieroglyph scorpion can climb on any surface, even ceilings."
@@ -80,6 +82,12 @@ attacks:
   - name: "Flatten"
     desc: "`pf2:1` (arcane,concentrate,polymorph) The hieroglyph scorpion flattens itself against an adjacent wall, blending in seamlessly with the wall's paintings or inscriptions. While flattened, the scorpion has an automatic result of 35 on Deception checks and DCs to appear as just another part of the wall. If the hieroglyph scorpion attempts to do anything other than remain stationary or move along the wall's surface, it becomes unflattened and this effect ends."
  
+```
+
+```encounter-table
+name: Hieroglyph Scorpion
+creatures:
+  - 1: Hieroglyph Scorpion
 ```
 
 

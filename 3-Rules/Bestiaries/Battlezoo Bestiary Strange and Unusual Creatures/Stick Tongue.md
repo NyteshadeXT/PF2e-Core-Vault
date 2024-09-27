@@ -6,6 +6,7 @@ cssClasses: pf2e
 aliases: "Compendium.battlezoo-bestiary-su-pf2e.pf2e-battlezoo-su-actors.Actor.DL8laDw0AXO2bv6a" 
 tags:
   - pf2e/creature/type/animal
+  - pf2eMonster
   - pf2e/creature/level/5
 statblock: inline
 name: "Stick Tongue"
@@ -21,17 +22,18 @@ token: [[modules/battlezoo-bestiary-su-pf2e/art/Portraits/stick-tongue.webp| ]]
 source: "Battlezoo Bestiary: Strange and Unusual"
 name: "Stick Tongue"
 level: "Creature 5"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Large"
-trait_01: "animal"
+trait_01: [[animal]]
 modifier: 11
 perception:
   - name: "Perception"
     desc: "+11; Low-Light Vision, Scent (Imprecise) 30 Feet"
+languages: ""
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +14, Athletics: +12 (+16 to Grapple with tongue), Stealth: +14, Survival: +10, "
+    desc: "Acrobatics: +14, Athletics: +12, Stealth: +14, Survival: +10, Acrobatics: +14, Athletics: +12, Stealth: +14, Survival: +10"
 abilityMods: [5, 5, 2, -4, 2, -4]
 speed: 30 feet,  climb 30 feet
 sourcebook: "_Battlezoo Bestiary: Strange and Unusual_"
@@ -48,15 +50,15 @@ abilities_top:
   - name: ""
 
   - name: "Clever Positioning"
-    desc: "  A stick tongue leverages foliage to shield and obscure itself. It can always Take Cover while in a tree and gains the benefits of Take Cover in a tree regardless of positioning or line of sight. It prefers to have greater cover as often as possible, by choosing positions that would normally grant cover without the use of this ability. If a stick tongue uses Stealth for initiative while in a tree, it uses Take Cover as part of rolling initiative."
+    desc: "  A stick tongue leverages foliage to shield and obscure itself. It can always [[undefined]] while in a tree and gains the benefits of Take Cover in a tree regardless of positioning or line of sight. It prefers to have greater cover as often as possible, by choosing positions that would normally grant cover without the use of this ability. If a stick tongue uses Stealth for initiative while in a tree, it uses Take Cover as part of rolling initiative."
 
 abilities_mid:
   - name: ""
   - name: "Retract Tongue"
-    desc: "`pf2:r`  **Trigger** An enemy targets the stick tongue's tongue with an attack\n**Effect** The stick tongue retracts its tongue back into its mouth. It gains a +2 circumstance bonus to AC against the triggering attack. Any creature Grabbed or Restrained by the tongue is released immediately after the attack resolves."
+    desc: "`pf2:r`  **Trigger** An enemy targets the stick tongue's tongue with an attack\n* * *\n\n**Effect** The stick tongue retracts its tongue back into its mouth. It gains a +2 circumstance bonus to AC against the triggering attack. Any creature [[undefined]] or [[undefined]] by the tongue is released immediately after the attack resolves."
 
   - name: "Vulnerable Tongue"
-    desc: "  When a creature is Grabbed or Restrained by a stick tongue's tongue, creatures can attack the tongue directly to harm the stick tongue. The tongue has the same AC as the stick tongue normally does, but it can't benefit from any circumstance bonuses due to cover."
+    desc: "  When a creature is [[undefined]] or [[undefined]] by a stick tongue's tongue, creatures can attack the tongue directly to harm the stick tongue. The tongue has the same AC as the stick tongue normally does, but it can't benefit from any circumstance bonuses due to cover."
 
 attacks:
   - name: ""
@@ -71,11 +73,17 @@ attacks:
     desc: "`pf2:3`  The stick tongue abandons its perch for a safer tree. It Strides up to three times, ending its movement next to another three, then Takes Cover in that tree."
 
   - name: "Snatch"
-    desc: "`pf2:1`  **Requirements** The stick tongue is in a tree and has a creature Grabbed with its tongue\n**Effect** The stick tongue attempts an Athletics check to Grapple its prey with its tongue. If it rolls a success, it gets a critical success instead, and the stick tongue then pulls the creature up to 10 feet toward it."
+    desc: "`pf2:1`  **Requirements** The stick tongue is in a tree and has a creature [[undefined]] with its tongue\n* * *\n\n**Effect** The stick tongue attempts an Athletics check to [[undefined]] its prey with its tongue. If it rolls a success, it gets a critical success instead, and the stick tongue then pulls the creature up to 10 feet toward it."
 
   - name: "[[Bestiary Ability Glossary/Swallow Whole|Swallow Whole]]"
-    desc: "`pf2:1` (attack) Medium, [[/r 1d6\[bludgeoning\],(1d6+7)\[acid]]\], Rupture 12\n"
+    desc: "`pf2:1` (attack) Medium, [[/r 1d6[bludgeoning],(1d6+7)[acid]]], Rupture 12\n\n* * *\n"
  
+```
+
+```encounter-table
+name: Stick Tongue
+creatures:
+  - 1: Stick Tongue
 ```
 
 

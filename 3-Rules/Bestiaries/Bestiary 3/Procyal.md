@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/celestial
   - pf2e/creature/type/good
   - pf2e/creature/type/holy
+  - pf2eMonster
   - pf2e/creature/level/8
 statblock: inline
 name: "Procyal"
@@ -27,18 +28,18 @@ level: "Creature 8"
 
 alignment: ""
 size: "Medium"
-trait_01: "agathion"
-trait_02: "celestial"
-trait_03: "good"
-trait_04: "holy"
+trait_01: [[agathion]]
+trait_02: [[celestial]]
+trait_03: [[good]]
+trait_04: [[holy]]
 modifier: 18
 perception:
   - name: "Perception"
     desc: "+18; Darkvision"
-languages: "Common, Diabolic, Draconic, Empyrean, Halfling"
+languages: "Common, Diabolic, Draconic, Empyrean, Halfling; speak with animals, tongues"
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +14, Deception: +18, Diplomacy: +16, Medicine: +16, Nature: +16, Nirvana Lore: +15, Religion: +16, Society: +17 (+19 to Create Forgery), Stealth: +16, Survival: +16, Thievery: +14"
+    desc: "Acrobatics: +14, Deception: +18, Diplomacy: +16, Medicine: +16, Nature: +16, Religion: +16, Society: +17, Stealth: +16, Survival: +16, Thievery: +14, Nirvana Lore: +15"
 abilityMods: [4, 4, 6, 5, 6, 4]
 speed: 25 feet
 sourcebook: "_Pathfinder Bestiary 3_"
@@ -73,11 +74,17 @@ attacks:
     desc: "1 Focus Point, DC 26, attack +18; __4th __  _[[Spells/Lay on Hands|Lay on Hands]]_"
 
   - name: "[[Bestiary Ability Glossary/Change Shape|Change Shape]]"
-    desc: "`pf2:1` (concentrate,divine,polymorph) The procyal can transform only into a specific individual Small or Medium humanoid that they've met at least once. They can't transform into a generic member of a given ancestry.\n"
+    desc: "`pf2:1` (concentrate,divine,polymorph) The procyal can transform only into a specific individual Small or Medium humanoid that they've met at least once. They can't transform into a generic member of a given ancestry.\n\n* * *\n"
 
   - name: "Raccoon's Whimsy"
-    desc: "  Procyals' core value is whimsy, though unlike for chaotic tricksters, procyals' playful actions have a pattern and their pranks always come with a valuable lesson, even if it takes a long time to decipher the meaning.\nReceiving and growing from such a lesson requires at least 10 minutes of interaction with the Procyal but can take much longer.\nA character who learns from the procyal's lesson gains the benefits of the [[Actions/Aid|Aid]] reaction from the procyal once during the next month. Afterwards, they become immune to this effect from all procyals."
+    desc: "  Procyals' core value is whimsy, though unlike for chaotic tricksters, procyals' playful actions have a pattern and their pranks always come with a valuable lesson, even if it takes a long time to decipher the meaning.\n\nReceiving and growing from such a lesson requires at least 10 minutes of interaction with the Procyal but can take much longer.\n\nA character who learns from the procyal's lesson gains the benefits of the [[Actions/Aid|Aid]] reaction from the procyal once during the next month. Afterwards, they become immune to this effect from all procyals."
  
+```
+
+```encounter-table
+name: Procyal
+creatures:
+  - 1: Procyal
 ```
 
 

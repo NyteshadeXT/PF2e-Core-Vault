@@ -26,7 +26,7 @@ You gain the following statistics and abilities regardless of which battle form 
 *   AC = 18 + your level. Ignore your armor's check penalty and Speed reduction.
 *   5 temporary Hit Points.
 *   Low-light vision.
-*   One or more unarmed melee attacks specific to the battle form you choose, which are the only attacks you can Strike with. You're trained with them. Your attack modifier is +16, and your damage bonus is +5. These attacks are Dexterity based (for the purpose of the [[Conditions/Clumsy 1|Clumsy]] condition, for example). If your attack modifier for Dexterity-based unarmed attacks is higher, you can use it instead.
+*   One or more unarmed melee attacks specific to the battle form you choose, which are the only attacks you can Strike with. You're trained with them. Your attack modifier is +16, and your damage bonus is +5. These attacks are Dexterity based (for the purpose of the [[Conditions/Clumsy|Clumsy]] condition, for example). If your attack modifier for Dexterity-based unarmed attacks is higher, you can use it instead.
 *   Acrobatics modifier of +16, unless your own modifier is higher.
 
 You also gain specific abilities based on the form you choose:

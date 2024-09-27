@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/aberration
   - pf2e/creature/type/aquatic
   - pf2e/creature/type/chaotic
+  - pf2eMonster
   - pf2e/creature/level/9
 statblock: inline
 name: "Deepwater Dhuthorex"
@@ -22,16 +23,17 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #165: Eyes of Empty Death"
 name: "Deepwater Dhuthorex"
 level: "Creature 9"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Large"
-trait_01: "aberration"
-trait_02: "aquatic"
-trait_03: "chaotic"
+trait_01: [[aberration]]
+trait_02: [[aquatic]]
+trait_03: [[chaotic]]
 modifier: 18
 perception:
   - name: "Perception"
     desc: "+18; Darkvision, Wavesense (Imprecise) 60 Feet"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Athletics: +20, Stealth: +18, Survival: +19"
@@ -68,13 +70,13 @@ attacks:
     desc: "`pf2:1` Tentacle +19 (agile, reach 15 feet)\n__Damage__  2d6 + 11 slashing"
 
   - name: "[[Bestiary Ability Glossary/Aquatic Ambush|Aquatic Ambush]]"
-    desc: "`pf2:1`  50 feet\n"
+    desc: "`pf2:1`  50 feet\n\n* * *\n"
 
   - name: "Overpowering Jaws"
     desc: "  A deepwater dhuthorex deals 7 piercing damage to its target if its jaws Strike is a failure (but not a critical failure)."
 
   - name: "[[Bestiary Ability Glossary/Swallow Whole|Swallow Whole]]"
-    desc: "`pf2:1` (attack) Medium, 2d6+7 bludgeoning plus 2d6 acid damage, Rupture 20\n"
+    desc: "`pf2:1` (attack) Medium, 2d6+7 bludgeoning plus 2d6 acid damage, Rupture 20\n\n* * *\n"
 
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
     desc: "`pf2:1`  "
@@ -82,6 +84,12 @@ attacks:
   - name: "[[Bestiary Ability Glossary/Push|Push]]"
     desc: "`pf2:1`  "
  
+```
+
+```encounter-table
+name: Deepwater Dhuthorex
+creatures:
+  - 1: Deepwater Dhuthorex
 ```
 
 

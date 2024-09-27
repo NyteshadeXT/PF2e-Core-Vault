@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.pathfinder-bestiary-2.Actor.CvO6MAoxDFO0J5qm"
 tags:
   - pf2e/creature/type/humanoid
   - pf2e/creature/type/lawful
+  - pf2eMonster
   - pf2e/creature/level/6
 statblock: inline
 name: "Witchwyrd"
@@ -22,19 +23,19 @@ token: [[modules/pf2e-tokens-bestiaries/portraits/humanoid/witchwyrd.webp| ]]
 source: "Pathfinder Bestiary 2"
 name: "Witchwyrd"
 level: "Creature 6"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Medium"
-trait_01: "humanoid"
-trait_02: "lawful"
+trait_01: [[humanoid]]
+trait_02: [[lawful]]
 modifier: 12
 perception:
   - name: "Perception"
     desc: "+12; Darkvision"
-languages: "Common, Draconic"
+languages: "Common, Draconic; one or more planar languages, tongues"
 skills:
   - name: "Skills"
-    desc: "Arcana: +16, Deception: +15, Desert Lore: +14, Diplomacy: +15, Intimidation: +15, One or more Lore skills related to a specific plane: +14"
+    desc: "Arcana: +16, Deception: +15, Diplomacy: +15, Intimidation: +15, Desert Lore: +14, One or more Lore skills related to a specific plane: +14"
 abilityMods: [3, 3, 1, 4, 3, 5]
 speed: 25 feet
 sourcebook: "_Pathfinder Bestiary 2_"
@@ -54,7 +55,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Absorb Force"
-    desc: "`pf2:r` (arcane,force) **Frequency** once per round\n**Trigger** A [[Spells/Force Barrage|Force Barrage]] is fired at the witchwyrd, and the witchwyrd is aware of it and has a free hand\n**Effect** The witchwyrd \"catches\" the missile, absorbing it and causing that hand to glow while it holds this energy. A hand that's holding energy can't be used for any other purpose except to use Force Bolt. The energy lasts for 6 rounds or until it is released."
+    desc: "`pf2:r` (arcane,force) **Frequency** once per round\n\n**Trigger** A [[Spells/Force Barrage|Force Barrage]] is fired at the witchwyrd, and the witchwyrd is aware of it and has a free hand\n* * *\n\n**Effect** The witchwyrd \"catches\" the missile, absorbing it and causing that hand to glow while it holds this energy. A hand that's holding energy can't be used for any other purpose except to use Force Bolt. The energy lasts for 6 rounds or until it is released."
 
 attacks:
   - name: ""
@@ -66,14 +67,20 @@ attacks:
     desc: "`pf2:1` Fist +15 (agile, nonlethal)\n__Damage__  1d6 + 6 bludgeoning plus grab"
 
   - name: "Arcane Innate Spells"
-    desc: "DC 23, attack +13; __5th __  _[[Spells/Translocate|Dimension Door]]_; __4th __  _[[Spells/Resilient Sphere|Resilient Sphere]]_, _[[Spells/Resist Energy|Resist Energy (x2)]]_, _[[Spells/Suggestion|Suggestion]]_; __3rd __  _[[Spells/Dispel Magic|Dispel Magic]]_; __2nd __  _[[Spells/Mirror Image|Mirror Image]]_; __1st __  _[[Spells/Floating Disk|Floating Disk (At will)]]_, _[[Spells/Phantasmal Minion|Unseen Servant (At will)]]_\n__Constant__  __(5th)__ _[[Spells/Truespeech|Tongues]]_"
+    desc: "DC 23, attack +13; __5th __  _[[Spells/Translocate|Dimension Door]]_; __4th __  _[[Spells/Containment|Resilient Sphere]]_, _[[Spells/Resist Energy|Resist Energy (x2)]]_, _[[Spells/Suggestion|Suggestion]]_; __3rd __  _[[Spells/Dispel Magic|Dispel Magic]]_; __2nd __  _[[Spells/Mirror Image|Mirror Image]]_; __1st __  _[[Spells/Carryall|Floating Disk (At will)]]_, _[[Spells/Phantasmal Minion|Unseen Servant (At will)]]_\n__Constant__  __(5th)__ _[[Spells/Truespeech|Tongues]]_"
 
   - name: "Force Bolt"
-    desc: "`pf2:1` (arcane,force) 1 to 3 actions\nThe witchwyrd fires one [[Spells/Force Barrage|Force Barrage]] per action spent (dealing 1d4 + 1 force damage each). They can't spend more actions on this ability than they have free hands. If they use a hand that has Absorbed Force, that hand hurls two missiles instead of one, expending the held energy."
+    desc: "`pf2:1` (arcane,force) 1 to 3 actions\n\nThe witchwyrd fires one [[Spells/Force Barrage|Force Barrage]] per action spent (dealing 1d4+1 force damage each). They can't spend more actions on this ability than they have free hands. If they use a hand that has Absorbed Force, that hand hurls two missiles instead of one, expending the held energy."
 
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
     desc: "`pf2:1`  "
  
+```
+
+```encounter-table
+name: Witchwyrd
+creatures:
+  - 1: Witchwyrd
 ```
 
 

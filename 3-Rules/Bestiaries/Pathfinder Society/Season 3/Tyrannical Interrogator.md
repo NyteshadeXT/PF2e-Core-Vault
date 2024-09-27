@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/human
   - pf2e/creature/type/humanoid
   - pf2e/creature/type/lawful
+  - pf2eMonster
   - pf2e/creature/level/5
 statblock: inline
 name: "Tyrannical Interrogator"
@@ -23,13 +24,13 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Society Scenario #3-04: The Devil-Wrought Disappearance"
 name: "Tyrannical Interrogator"
 level: "Creature 5"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Medium"
-trait_01: "evil"
-trait_02: "human"
-trait_03: "humanoid"
-trait_04: "lawful"
+trait_01: [[evil]]
+trait_02: [[human]]
+trait_03: [[humanoid]]
+trait_04: [[lawful]]
 modifier: 10
 perception:
   - name: "Perception"
@@ -57,7 +58,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Iron Command"
-    desc: "`pf2:r` (divine) **Trigger** An enemy within 15 feet damages you\n**Effect** The interrogator puts an impertinent foe who dared harm them in their proper place. They command their enemy to kneel before them in obedience. If they dare to refuse, they must pay the price in pain and anguish. The foe must choose one of the following options.\n*   The enemy kneels, dropping [[Conditions/Prone|Prone]] as a free action.\n*   The enemy refuses, and the interrogator deals 2d6 mental damage to it.\nIn addition, the interrogator's Strikes against the triggering creature deal 1 extra damage until the end of your next turn. You choose whether the damage type is spirit or void each time you use this reaction."
+    desc: "`pf2:r` (divine) **Trigger** An enemy within 15 feet damages you\n* * *\n\n**Effect** The interrogator puts an impertinent foe who dared harm them in their proper place. They command their enemy to kneel before them in obedience. If they dare to refuse, they must pay the price in pain and anguish. The foe must choose one of the following options.\n\n*   The enemy kneels, dropping [[Conditions/Prone|Prone]] as a free action.\n*   The enemy refuses, and the interrogator deals 2d6 mental damage to it.\n\nIn addition, the interrogator's Strikes against the triggering creature deal 1 extra damage until the end of your next turn. You choose whether the damage type is spirit or void each time you use this reaction."
 
 attacks:
   - name: ""
@@ -69,11 +70,17 @@ attacks:
     desc: "`pf2:1` Javelin +12 (thrown 30 ft.)\n__Damage__  1d6 + 10 piercing"
 
   - name: "Champion Devotion Spells"
-    desc: "1 Focus Point, DC 20, attack +12; __3rd __  _[[Spells/Touch of Corruption|Touch of Corruption]]_"
+    desc: "1 Focus Point, DC 20, attack +12; __3rd __  _[[Spells/Touch of the Void|Touch of Corruption]]_"
 
   - name: "Intimidating Strike"
-    desc: "`pf2:2`  The interrogator makes a melee Strike. If they hit and deal damage, the target is [[Conditions/Frightened 1|Frightened 1]], or [[Conditions/Frightened 1|Frightened 2]] on a critical hit."
+    desc: "`pf2:2`  The interrogator makes a melee Strike. If they hit and deal damage, the target is [[Conditions/Frightened|Frightened 1]], or [[Conditions/Frightened|Frightened 2]] on a critical hit."
  
+```
+
+```encounter-table
+name: Tyrannical Interrogator
+creatures:
+  - 1: Tyrannical Interrogator
 ```
 
 

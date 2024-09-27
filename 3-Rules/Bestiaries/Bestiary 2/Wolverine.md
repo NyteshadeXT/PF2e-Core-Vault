@@ -6,6 +6,7 @@ cssClasses: pf2e
 aliases: "Compendium.pf2e.pathfinder-bestiary-2.Actor.6YOyTHRGqkYl2Prb" 
 tags:
   - pf2e/creature/type/animal
+  - pf2eMonster
   - pf2e/creature/level/2
 statblock: inline
 name: "Wolverine"
@@ -24,11 +25,12 @@ level: "Creature 2"
 
 alignment: ""
 size: "Medium"
-trait_01: "animal"
+trait_01: [[animal]]
 modifier: 8
 perception:
   - name: "Perception"
     desc: "+8; Low-Light Vision, Scent (Imprecise) 30 Feet"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Athletics: +7, Stealth: +7"
@@ -62,11 +64,17 @@ attacks:
     desc: "`pf2:1`  The wolverine Strides and makes a Strike at the end of that movement. If the wolverine begins this action [[Conditions/Hidden|Hidden]], it remains hidden until after the attack."
 
   - name: "[[Bestiary Ability Glossary/Rend|Rend]]"
-    desc: "`pf2:1`  Claw\n"
+    desc: "`pf2:1`  Claw\n\n* * *\n"
 
   - name: "Wolverine Rage"
     desc: "`pf2:1` (concentrate,emotion,mental) The wolverine enters a state of pure rage that lasts either for 1 minute, until there are no enemies it can perceive, or until it falls [[Conditions/Unconscious|Unconscious]], whichever comes first. While raging, the wolverine has AC 17, its jaws Strike deals 1d8+7 damage, and its claw Strike deals 1d6+7 damage. While raging, the wolverine can't use actions that have the concentrate trait, except for [[Actions/Seek|Seek]]. After it's stopped raging, a wolverine can't use Wolverine Rage again for 1 minute."
  
+```
+
+```encounter-table
+name: Wolverine
+creatures:
+  - 1: Wolverine
 ```
 
 

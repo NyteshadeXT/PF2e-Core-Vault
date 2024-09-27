@@ -12,24 +12,24 @@ Table of 13th-Level Permanent Items
 
 | 1d108 | result |
 |------|--------|
-| 1-6 | Celestial Armor |
-| 7-12 | Demon Armor |
-| 13-15 | Elven Chain (Standard-Grade) |
-| 16-21 | Mail of Luck |
-| 22-27 | Bag of Holding (Type IV) |
-| 28-33 | Wondrous Figurine (Marble Elephant) |
-| 34-36 | Dancing |
-| 37-39 | Keen |
-| 40-42 | Spell-Storing |
-| 43-48 | Sturdy Shield (Greater) |
-| 49-54 | Magic Wand (6th-Level Spell) |
-| 55-60 | Wand of Continuation (5th-Level Spell) |
-| 61-66 | Wand of Manifold Missiles (5th-Level Spell) |
-| 67-72 | Dwarven Thrower |
-| 73-78 | Flame Tongue |
-| 79-81 | Aeon Stone (Pale Lavender Ellipsoid) |
-| 82-87 | Boots of Speed |
-| 88-93 | Eye of Fortune |
-| 94-96 | Knapsack of Halflingkind (Greater) |
-| 97-102 | Necklace of Fireballs V |
-| 103-108 | Ring of the Ram (Greater) |
+| 1-6 | [[Equipment/Holy Chain\|Celestial Armor]] |
+| 7-12 | [[Equipment/Unholy Plate\|Demon Armor]] |
+| 13-15 | [[Equipment/Elven Chain (Standard-Grade)\|Elven Chain (Standard-Grade)]] |
+| 16-21 | [[Equipment/Mail of Luck\|Mail of Luck]] |
+| 22-27 | [[Equipment/Spacious Pouch (Type IV)\|Bag of Holding (Type IV)]] |
+| 28-33 | [[Equipment/Wondrous Figurine (Marble Elephant)\|Wondrous Figurine (Marble Elephant)]] |
+| 34-36 | [[Equipment/Animated\|Dancing]] |
+| 37-39 | [[Equipment/Keen\|Keen]] |
+| 40-42 | [[Equipment/Spell Reservoir\|Spell-Storing]] |
+| 43-48 | [[Equipment/Sturdy Shield (Greater)\|Sturdy Shield (Greater)]] |
+| 49-54 | [[Equipment/Magic Wand (6th-Rank Spell)\|Magic Wand (6th-Rank Spell)]] |
+| 55-60 | [[Equipment/Wand of Continuation (5th-Rank Spell)\|Wand of Continuation (5th-Rank Spell)]] |
+| 61-66 | [[Equipment/Wand of Shardstorm (5th-Rank Spell)\|Wand of Manifold Missiles (5th-Rank Spell)]] |
+| 67-72 | [[Equipment/Dwarven Thrower\|Dwarven Thrower]] |
+| 73-78 | [[Equipment/Searing Blade\|Flame Tongue]] |
+| 79-81 | [[Equipment/Aeon Stone (Pale Lavender Ellipsoid)\|Aeon Stone (Pale Lavender Ellipsoid)]] |
+| 82-87 | [[Equipment/Propulsive Boots\|Boots of Speed]] |
+| 88-93 | [[Equipment/Eye of Fortune\|Eye of Fortune]] |
+| 94-96 | [[Equipment/Knapsack of Halflingkind (Greater)\|Knapsack of Halflingkind (Greater)]] |
+| 97-102 | [[Equipment/Necklace of Fireballs V\|Necklace of Fireballs V]] |
+| 103-108 | [[Equipment/Ring of the Ram (Greater)\|Ring of the Ram (Greater)]] |

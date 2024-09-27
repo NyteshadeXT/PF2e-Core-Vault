@@ -13,7 +13,7 @@ license: OGL
 ---
 # Devil's Trident
 ## Item 9
-### [unique](unique "Unique Rarity Trait")[[magical]][[thrown-20]]
+### [unique](unique.md "Unique Rarity Trait")[[3-Rules/Rule References/Magical]][[thrown-20]]
 
 |  |  |
 | -- | -- |
@@ -48,7 +48,7 @@ This _+1 striking returning trident_ is made of an ancient black metal that glis
 
 **Frequency** once per day
 
-**Effect** You call upon the corrupted power of the trident to stay a foe. Attempt a Strike. On a hit, the trident casts 3rd-rank [[Spells/Paralyze|Paralyze]] on the target (DC 25). If the Strike was a critical hit, the target is [[Conditions/Stunned 1|Stunned 1]] even if it critically succeeds at the save.
+**Effect** You call upon the corrupted power of the trident to stay a foe. Attempt a Strike. On a hit, the trident casts 3rd-rank [[Spells/Paralyze|Paralyze]] on the target (DC 25). If the Strike was a critical hit, the target is [[Conditions/Stunned|Stunned 1]] even if it critically succeeds at the save.
 
 * * *
 
@@ -64,11 +64,11 @@ Many healers and alchemists suspect that sewer haze has a supernatural origin, b
 
 **Onset** 2 days
 
-**Stage 1** [[Conditions/Stupefied 1|Stupefied 2]] (1 day)
+**Stage 1** [[Conditions/Stupefied|Stupefied 2]] (1 day)
 
-**Stage 2** [[Conditions/Drained 1|Drained 2]] and stupefied 2 (1 day)
+**Stage 2** [[Conditions/Drained|Drained 2]] and stupefied 2 (1 day)
 
-**Stage 3** [[Conditions/Drained 1|Drained 3]] and [[Conditions/Stupefied 1|Stupefied 3]] (1 day)
+**Stage 3** [[Conditions/Drained|Drained 3]] and [[Conditions/Stupefied|Stupefied 3]] (1 day)
 
 *Source: Pathfinder Lost Omens: Monsters of Myth*
 *OGL*

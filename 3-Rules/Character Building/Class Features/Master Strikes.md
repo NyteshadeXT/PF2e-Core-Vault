@@ -6,19 +6,20 @@ tags:
   - trait/monk
   - trait/common
   - category/classfeature
+  - remaster
 aliases: "Compendium.pf2e.classfeatures.Item.0iidKkzC2yy13lIf"
-license: OGL
+license: ORC
 ---
 # Master Strikes
 ## Feat 13
-### [[monk]]
+### [[3-Rules/trait_reference/monk]]
 
 **Category** classfeature; 
 
 
 
 
-You have honed your skill in using your body as a weapon. Your proficiency ranks for unarmed attacks and simple weapons increase to master.
+You've honed your body into an even deadlier weapon. Your proficiency ranks for unarmed attacks and simple weapons increase to master.
 
-*Source: Pathfinder Core Rulebook*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

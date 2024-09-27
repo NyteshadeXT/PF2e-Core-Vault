@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.npc-gallery.Actor.B0pZAGooj735FGfw"
 tags:
   - pf2e/creature/type/human
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/5
 statblock: inline
 name: "Tomb Raider"
@@ -24,8 +25,8 @@ level: "Creature 5"
 
 alignment: ""
 size: "Medium"
-trait_01: "human"
-trait_02: "humanoid"
+trait_01: [[human]]
+trait_02: [[humanoid]]
 modifier: 13
 perception:
   - name: "Perception"
@@ -33,7 +34,7 @@ perception:
 languages: "Common"
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +13, Architecture Lore: +11, Athletics: +13, Deception: +7, Engineering Lore: +11, Society: +9, Stealth: +11, Thievery: +13"
+    desc: "Acrobatics: +13, Athletics: +13, Deception: +7, Society: +9, Stealth: +11, Thievery: +13, Architecture Lore: +11, Engineering Lore: +11"
 abilityMods: [4, 4, 1, 2, 2, 0]
 speed: 25 feet,  climb 15 feet
 sourcebook: "_Pathfinder Gamemastery Guide_"
@@ -65,8 +66,14 @@ attacks:
     desc: "`pf2:1` Hand Crossbow +15 (range increment 60 feet, reload 1)\n__Damage__  1d6 + 3 piercing"
 
   - name: "Trick Attack"
-    desc: "`pf2:1`  The tomb raider musters their guile to attempt a clever attack that catches their foe unprepared.\nThe tomb raider chooses one of their weapons. The next attack with that weapon deals an extra 2d6 precision damage.\nIn addition, the tomb raider can Interact to draw the weapon (or to reload it if they choose the [[Equipment/Hand Crossbow|Hand Crossbow]])."
+    desc: "`pf2:1`  The tomb raider musters their guile to attempt a clever attack that catches their foe unprepared.\n\nThe tomb raider chooses one of their weapons. The next attack with that weapon deals an extra 2d6 precision damage.\n\nIn addition, the tomb raider can Interact to draw the weapon (or to reload it if they choose the [[Equipment/Hand Crossbow|Hand Crossbow]])."
  
+```
+
+```encounter-table
+name: Tomb Raider
+creatures:
+  - 1: Tomb Raider
 ```
 
 

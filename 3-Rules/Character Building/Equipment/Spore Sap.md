@@ -36,7 +36,7 @@ This flexible +2 striking sap is crafted from the stalks of cave fungi and bound
 
 * * *
 
-**Effect** The _spore sap_ releases a puff of stupefying fungal spores. The target must succeed at a DC 28 Fortitude check or become stupefied 1 for 1 minute ([[Conditions/Stupefied 1|Stupefied 2]] on a critical failure).
+**Effect** The _spore sap_ releases a puff of stupefying fungal spores. The target must succeed at a DC 28 Fortitude check or become stupefied 1 for 1 minute ([[Conditions/Stupefied|Stupefied 2]] on a critical failure).
 
 *Source: Pathfinder #154: Siege of the Dinosaurs*
 *OGL*

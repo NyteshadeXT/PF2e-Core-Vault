@@ -5,6 +5,7 @@ cssclasses: pf2e,pf2e-spell
 tags:
   - trait/artifact
   - trait/cursed
+  - trait/illusion
   - trait/invested
   - trait/primal
   - trait/shadow
@@ -14,7 +15,7 @@ license: OGL
 ---
 # Shadewither Key
 ## Item 22
-### [unique](unique "Unique Rarity Trait")[[artifact]][[cursed]][[invested]][[primal]][[shadow]]
+### [unique](unique "Unique Rarity Trait")[[artifact]][[cursed]][[illusion]][[invested]][[primal]][[shadow]]
 
 
 **Price** 0 gp; 

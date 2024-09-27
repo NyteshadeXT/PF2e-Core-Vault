@@ -10,6 +10,7 @@ tags:
   - pf2e/creature/type/ghoul
   - pf2e/creature/type/undead
   - pf2e/creature/type/unholy
+  - pf2eMonster
   - pf2e/creature/level/5
 statblock: inline
 name: "Esobok Ghoul"
@@ -24,14 +25,14 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Adventure: Malevolence"
 name: "Esobok Ghoul"
 level: "Creature 5"
-rare_03: "Rare"
+rare_03: [[Rare]]
 alignment: ""
 size: "Medium"
-trait_01: "chaotic"
-trait_02: "evil"
-trait_03: "ghoul"
-trait_04: "undead"
-trait_05: "unholy"
+trait_01: [[chaotic]]
+trait_02: [[evil]]
+trait_03: [[ghoul]]
+trait_04: [[undead]]
+trait_05: [[unholy]]
 modifier: 14
 perception:
   - name: "Perception"
@@ -70,20 +71,26 @@ attacks:
     desc: "DC 22, attack +12; __2nd __ (3 slots) _[[Spells/Invisibility|Invisibility (Self Only)]]_"
 
   - name: "Consume Flesh"
-    desc: "`pf2:1` (manipulate) **Requirements** The esobok ghoul is adjacent to the corpse of a creature that died within the last hour.\n**Effect** The ghoul devours a chunk of the corpse and regains 3d6 Hit Points.\nIt can regain Hit Points from any given corpse only once."
+    desc: "`pf2:1` (manipulate) **Requirements** The esobok ghoul is adjacent to the corpse of a creature that died within the last hour.\n* * *\n\n**Effect** The ghoul devours a chunk of the corpse and regains 3d6 Hit Points.\n\nIt can regain Hit Points from any given corpse only once."
 
   - name: "Corrupted Touch"
-    desc: "  An esobok ghoul's Strikes deal 1d6 void damage to living creatures. A creature critically hit by an esobok ghoul's Strike must attempt a DC 18 Fortitude check save or become [[Conditions/Drained 1|Drained 1]] ([[Conditions/Drained 1|Drained 2]] on a critical failure) as rot spreads throughout their flesh."
+    desc: "  An esobok ghoul's Strikes deal 1d6 void damage to living creatures. A creature critically hit by an esobok ghoul's Strike must attempt a DC 18 Fortitude check save or become [[Conditions/Drained|Drained 1]] ([[Conditions/Drained|Drained 2]] on a critical failure) as rot spreads throughout their flesh."
 
   - name: "Ghoul Fever"
-    desc: " (disease) **Saving Throw** DC 22 Fortitude check\n**Stage 1** carrier with no ill effect (1 day)\n**Stage 2** 2d6 void damage and regains half as many Hit Points from all healing (1 day)\n**Stage 3** as stage 2 (1 day)\n**Stage 4** 2d6 void damage and gains no benefit from healing (1 day)\n**Stage 5** as stage 4 (1 day)\n**Stage 6** dead, and rises as a ghoul the next midnight."
+    desc: " (disease) **Saving Throw** DC 22 Fortitude check\n\n**Stage 1** carrier with no ill effect (1 day)\n\n**Stage 2** 2d6 void damage and regains half as many Hit Points from all healing (1 day)\n\n**Stage 3** as stage 2 (1 day)\n\n**Stage 4** 2d6 void damage and gains no benefit from healing (1 day)\n\n**Stage 5** as stage 4 (1 day)\n\n**Stage 6** dead, and rises as a ghoul the next midnight."
 
   - name: "Paralysis"
-    desc: " (incapacitation,occult) Any living, non-elf creature hit by a ghoul's attack must succeed at a DC 22 Fortitude check save or become [[Conditions/Paralyzed|Paralyzed]].\nIt can attempt a new save at the end of each of its turns, and the DC cumulatively decreases by 1 on each such save."
+    desc: " (incapacitation,occult) Any living, non-elf creature hit by a ghoul's attack must succeed at a DC 22 Fortitude check save or become [[Conditions/Paralyzed|Paralyzed]].\n\nIt can attempt a new save at the end of each of its turns, and the DC cumulatively decreases by 1 on each such save."
 
   - name: "Pounce"
     desc: "`pf2:1`  The esobok ghoul Strides and then makes a claw Strike. If it began this action hidden, it remains hidden until after the Strike."
  
+```
+
+```encounter-table
+name: Esobok Ghoul
+creatures:
+  - 1: Esobok Ghoul
 ```
 
 

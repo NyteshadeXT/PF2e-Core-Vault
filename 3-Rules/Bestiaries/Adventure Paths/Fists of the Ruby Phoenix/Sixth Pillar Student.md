@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/humanoid
   - pf2e/creature/type/lawful
   - pf2e/creature/type/nagaji
+  - pf2eMonster
   - pf2e/creature/level/14
 statblock: inline
 name: "Sixth Pillar Student"
@@ -23,13 +24,13 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #167: Ready? Fight!"
 name: "Sixth Pillar Student"
 level: "Creature 14"
-rare_03: "Rare"
+rare_03: [[Rare]]
 alignment: ""
 size: "Medium"
-trait_01: "human"
-trait_02: "humanoid"
-trait_03: "lawful"
-trait_04: "nagaji"
+trait_01: [[human]]
+trait_02: [[humanoid]]
+trait_03: [[lawful]]
+trait_04: [[nagaji]]
 modifier: 23
 perception:
   - name: "Perception"
@@ -71,6 +72,12 @@ attacks:
   - name: "Bludgeoning Energy"
     desc: "  The students' combine elemental energies with physical brawn, blasting opponents with huge gusts of compressed air instead of typical energies. Any of the students' spells that deal energy damage (such as fireball, burning hands, ray of frost, and so on) instead deal bludgeoning damage."
  
+```
+
+```encounter-table
+name: Sixth Pillar Student
+creatures:
+  - 1: Sixth Pillar Student
 ```
 
 

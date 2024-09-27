@@ -25,7 +25,7 @@ license: OGL
 
 * * *
 
-**Effect** Up to twice per adventure, you can spend an action to reduce the severity of your [[Conditions/Frightened 1|Frightened]] or [[Conditions/Stupefied 1|Stupefied]] condition by 1.
+**Effect** Up to twice per adventure, you can spend an action to reduce the severity of your [[Conditions/Frightened|Frightened]] or [[Conditions/Stupefied|Stupefied]] condition by 1.
 
 **Special** A PC can only slot one promotional boon at a time.
 

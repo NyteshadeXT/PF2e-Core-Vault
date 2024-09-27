@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/elemental
   - pf2e/creature/type/plant
   - pf2e/creature/type/wood
+  - pf2eMonster
   - pf2e/creature/level/4
   - remaster
 statblock: inline
@@ -26,9 +27,9 @@ level: "Creature 4"
 
 alignment: ""
 size: "Medium"
-trait_01: "elemental"
-trait_02: "plant"
-trait_03: "wood"
+trait_01: [[elemental]]
+trait_02: [[plant]]
+trait_03: [[wood]]
 modifier: 11
 perception:
   - name: "Perception"
@@ -36,7 +37,7 @@ perception:
 languages: "Arboreal, Muan"
 skills:
   - name: "Skills"
-    desc: "Athletics: +12 (+15 to Trip or Grapple)"
+    desc: "Athletics: +12"
 abilityMods: [2, 5, 2, 0, 1, 2]
 speed: 30 feet,  climb 40 feet
 sourcebook: "_Pathfinder Rage of Elements_"
@@ -64,14 +65,20 @@ attacks:
     desc: "`pf2:1` Whip +11 (finesse, reach 15 feet, trip)\n__Damage__  2d8 + 5 bludgeoning plus strangling-vines"
 
   - name: "[[Bestiary Ability Glossary/Constrict|Constrict]]"
-    desc: "`pf2:1`  2d4 + 5 bludgeoning, DC 21 Fortitude check\n"
+    desc: "`pf2:1`  2d4+5 bludgeoning, DC 21 Fortitude check\n\n* * *\n"
 
   - name: "Strangling Vines"
-    desc: "  When a whipping willow hits a creature with their whip Strike, they can choose to [[Bestiary Ability Glossary/Grab|Grab]] and begin strangling the creature. The target is suffocating and can’t speak as long as it’s strangled."
+    desc: "  When a whipping willow hits a creature with their whip Strike, they can choose to [[Bestiary Ability Glossary/Grab|Grab]] and begin strangling the creature. The target is suffocating and can't speak as long as it's strangled."
 
   - name: "Unseating Sweep"
-    desc: "`pf2:2`  The whipping willow attempts to [[Actions/Trip|Trip]] all creatures within a 15-foot cone, making a single Athletics check check against all targets' Reflex DCs."
+    desc: "`pf2:2`  The whipping willow attempts to [[Actions/Trip|Trip]] all creatures within a @Template[cone|distance:15], making a single Athletics check check against all targets' Reflex DCs."
  
+```
+
+```encounter-table
+name: Whipping Willow
+creatures:
+  - 1: Whipping Willow
 ```
 
 

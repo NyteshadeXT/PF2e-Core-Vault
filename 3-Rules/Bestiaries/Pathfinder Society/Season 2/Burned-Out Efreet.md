@@ -10,6 +10,7 @@ tags:
   - pf2e/creature/type/fire
   - pf2e/creature/type/genie
   - pf2e/creature/type/lawful
+  - pf2eMonster
   - pf2e/creature/level/3
 statblock: inline
 name: "Burned-Out Efreet"
@@ -24,14 +25,14 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Society Scenario #2-16: Freedom for Wishes"
 name: "Burned-Out Efreet"
 level: "Creature 3"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Large"
-trait_01: "elemental"
-trait_02: "evil"
-trait_03: "fire"
-trait_04: "genie"
-trait_05: "lawful"
+trait_01: [[elemental]]
+trait_02: [[evil]]
+trait_03: [[fire]]
+trait_04: [[genie]]
+trait_05: [[lawful]]
 modifier: 8
 perception:
   - name: "Perception"
@@ -74,8 +75,14 @@ attacks:
     desc: " (fire) When the burned-out efreeti Grabs a creature, that creature takes 1d6 fire damage, then takes 1d6 fire damage at the end of each of its turns as long as it remains [[Conditions/Grabbed|Grabbed]]."
 
   - name: "Combat Grab"
-    desc: "`pf2:1`  **Requirements** The burned-out efreeti has one hand free\n**Effect** The burned-out efreeti makes a melee Strike while keeping one hand free. If the Strike hits, the target is [[Conditions/Grabbed|Grabbed]] in the efreeti's free hand."
+    desc: "`pf2:1`  **Requirements** The burned-out efreeti has one hand free\n* * *\n\n**Effect** The burned-out efreeti makes a melee Strike while keeping one hand free. If the Strike hits, the target is [[Conditions/Grabbed|Grabbed]] in the efreeti's free hand."
  
+```
+
+```encounter-table
+name: Burned-Out Efreet
+creatures:
+  - 1: Burned-Out Efreet
 ```
 
 

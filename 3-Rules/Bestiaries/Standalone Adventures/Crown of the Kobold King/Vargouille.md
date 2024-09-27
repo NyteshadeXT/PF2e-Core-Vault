@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/fiend
   - pf2e/creature/type/unholy
+  - pf2eMonster
   - pf2e/creature/level/2
 statblock: inline
 name: "Vargouille"
@@ -23,13 +24,13 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Adventure: Crown of the Kobold King"
 name: "Vargouille"
 level: "Creature 2"
-rare_03: "Rare"
+rare_03: [[Rare]]
 alignment: ""
 size: "Small"
-trait_01: "aberration"
-trait_02: "evil"
-trait_03: "fiend"
-trait_04: "unholy"
+trait_01: [[aberration]]
+trait_02: [[evil]]
+trait_03: [[fiend]]
+trait_04: [[unholy]]
 modifier: 8
 perception:
   - name: "Perception"
@@ -65,11 +66,17 @@ attacks:
     desc: " (curse,occult) A creature who takes poison damage from a vargouille must succeed at a DC 18 Fortitude check save or be cursed. The cursed creature can't regain HP except via magic, and anyone Casting a Spell to heal the creature must succeed at a DC 18 counteract check or the healing has no effect. The vargouille's counteract rank is equal to its creature level. A creature can attempt a new DC 18 Fortitude check save once per day (typically when it makes its daily preparations) to end this curse. The curse ends automatically if the creature is healed to maximum HP."
 
   - name: "Vargouille's Kiss"
-    desc: "`pf2:3` (disease,occult) **Requirements** The vargouille is adjacent to a [[Conditions/Paralyzed|Paralyzed]], [[Conditions/Unconscious|Unconscious]], or willing humanoid creature\n**Effect** The vargouille nuzzles up against a helpless or willing humanoid creature in a parody of a lover's kiss-the creature must then attempt a saving throw or begin an unsettling transformation into a vargouille. The sickened, stupefied, and unconscious conditions from Vargouille's Kiss don't improve on their own until the disease is cured. This disease can't progress in stage as long as the victim is in sunlight or in the area of a 3rd-rank or higher light effect.\n**Saving Throw** DC 18 Fortitude check\n**Stage 1** no ill effect (2 hours)\n**Stage 2** victim's hair falls out, [[Conditions/Sickened 1|Sickened 1]] (2 hours)\n**Stage 3** victim's ears elongate into winglike shapes and their teeth grow tangled and sharp, [[Conditions/Stupefied 1|Stupefied 1]] (2 hours)\n**Stage 4** as Stage 3, but the victim falls unconscious (2 hours)\n**Stage 5** death, and the victim's head transforms into a new vargouille that detaches from the body and flies off to spread evil on its own."
+    desc: "`pf2:3` (disease,occult) **Requirements** The vargouille is adjacent to a [[Conditions/Paralyzed|Paralyzed]], [[Conditions/Unconscious|Unconscious]], or willing humanoid creature\n\n**Effect** The vargouille nuzzles up against a helpless or willing humanoid creature in a parody of a lover's kiss-the creature must then attempt a saving throw or begin an unsettling transformation into a vargouille. The sickened, stupefied, and unconscious conditions from Vargouille's Kiss don't improve on their own until the disease is cured. This disease can't progress in stage as long as the victim is in sunlight or in the area of a 3rd-rank or higher light effect.\n\n**Saving Throw** DC 18 Fortitude check\n\n**Stage 1** no ill effect (2 hours)\n\n**Stage 2** victim's hair falls out, [[Conditions/Sickened|Sickened 1]] (2 hours)\n\n**Stage 3** victim's ears elongate into winglike shapes and their teeth grow tangled and sharp, [[Conditions/Stupefied|Stupefied 1]] (2 hours)\n\n**Stage 4** as Stage 3, but the victim falls unconscious (2 hours)\n\n**Stage 5** death, and the victim's head transforms into a new vargouille that detaches from the body and flies off to spread evil on its own."
 
   - name: "Vargouille's Shriek"
-    desc: "`pf2:2` (auditory,incapacitation,occult,visual) The vargouille distends its jaw awfully and emits an unnerving shriek. All creatures within 60 feet who can see and hear the vargouille must attempt a DC 15 Fortitude check save.\n**Success** The creature is unaffected and is temporarily immune to Vargouille's Shriek for 24 hours.\n**Failure** The creature is [[Conditions/Paralyzed|Paralyzed]] until the end of its next turn.\n**Critical Failure** The creature is paralyzed. It can attempt a new save at the end of each of its turns, and the DC cumulatively decreases by 1 on each such save."
+    desc: "`pf2:2` (auditory,incapacitation,occult,visual) The vargouille distends its jaw awfully and emits an unnerving shriek. All creatures within 60 feet who can see and hear the vargouille must attempt a DC 15 Fortitude check save.\n\n**Success** The creature is unaffected and is temporarily immune to Vargouille's Shriek for 24 hours.\n\n**Failure** The creature is [[Conditions/Paralyzed|Paralyzed]] until the end of its next turn.\n\n**Critical Failure** The creature is paralyzed. It can attempt a new save at the end of each of its turns, and the DC cumulatively decreases by 1 on each such save."
  
+```
+
+```encounter-table
+name: Vargouille
+creatures:
+  - 1: Vargouille
 ```
 
 

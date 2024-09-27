@@ -6,6 +6,7 @@ cssClasses: pf2e
 aliases: "Compendium.pf2e.fall-of-plaguestone-bestiary.Actor.kZI5UjgXcJjrOIR8" 
 tags:
   - pf2e/creature/type/animal
+  - pf2eMonster
   - pf2e/creature/level/-1
 statblock: inline
 name: "Mangy Wolf"
@@ -23,11 +24,12 @@ level: "Creature -1"
 
 alignment: ""
 size: "Medium"
-trait_01: "animal"
+trait_01: [[animal]]
 modifier: 5
 perception:
   - name: "Perception"
     desc: "+5; Low-Light Vision, Scent (Imprecise) 30 Feet"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Acrobatics: +4, Stealth: +4"
@@ -55,8 +57,14 @@ attacks:
     desc: "`pf2:1` Jaws +6 (finesse)\n__Damage__  1d6 + 1 piercing plus fleas"
 
   - name: "Fleas"
-    desc: "  Anyone bitten by a mangy wolf is [[Conditions/Sickened 1|Sickened 1]] for 1 minute unless they succeed at a DC 14 Fortitude check save, but they can spend an Interact action to scratch away the fleas and remove the condition."
+    desc: "  Anyone bitten by a mangy wolf is [[Conditions/Sickened|Sickened 1]] for 1 minute unless they succeed at a DC 14 Fortitude check save, but they can spend an Interact action to scratch away the fleas and remove the condition."
  
+```
+
+```encounter-table
+name: Mangy Wolf
+creatures:
+  - 1: Mangy Wolf
 ```
 
 

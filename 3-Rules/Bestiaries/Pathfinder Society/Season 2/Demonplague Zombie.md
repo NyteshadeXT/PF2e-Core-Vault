@@ -11,6 +11,7 @@ tags:
   - pf2e/creature/type/undead
   - pf2e/creature/type/unholy
   - pf2e/creature/type/zombie
+  - pf2eMonster
   - pf2e/creature/level/3
 statblock: inline
 name: "Demonplague Zombie"
@@ -25,19 +26,20 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Society Scenario #2-15: A Dirge for Sarkoris"
 name: "Demonplague Zombie"
 level: "Creature 3"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Medium"
-trait_01: "chaotic"
-trait_02: "evil"
-trait_03: "mindless"
-trait_04: "undead"
-trait_05: "unholy"
-trait_06: "zombie"
+trait_01: [[chaotic]]
+trait_02: [[evil]]
+trait_03: [[mindless]]
+trait_04: [[undead]]
+trait_05: [[unholy]]
+trait_06: [[zombie]]
 modifier: 5
 perception:
   - name: "Perception"
     desc: "+5; Darkvision"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Athletics: +10"
@@ -57,7 +59,7 @@ abilities_top:
   - name: ""
 
   - name: "Slow"
-    desc: "  A zombie is permanently [[Conditions/Slowed 1|Slowed 1]] and can't use reactions."
+    desc: "  A zombie is permanently [[Conditions/Slowed|Slowed 1]] and can't use reactions."
 
 abilities_mid:
   - name: ""
@@ -71,11 +73,17 @@ attacks:
     desc: "`pf2:1` Fist +12 ()\n__Damage__  1d12 + 5 bludgeoning plus demonplague,grab"
 
   - name: "Demonplague"
-    desc: " (disease) An infected creature can't cure conditions given by demonplague until it has been cured of the disease\n**Saving Throw** DC 21 Fortitude check\n**Stage 1** [[Conditions/Stupefied 1|Stupefied 1]] (1 day)\n**Stage 2** [[Conditions/Stupefied 1|Stupefied 2]] (1 day)\n**Stage 3** [[Conditions/Fatigued|Fatigued]] and stupefied 2 (1 day)\n**Stage 4** Fatigued and [[Conditions/Stupefied 1|Stupefied 3]] (1 day)\n**Stage 5** dead, rising as a demonplague zombie immediately."
+    desc: " (disease) An infected creature can't cure conditions given by demonplague until it has been cured of the disease\n* * *\n\n**Saving Throw** DC 21 Fortitude check\n\n**Stage 1** [[Conditions/Stupefied|Stupefied 1]] (1 day)\n\n**Stage 2** [[Conditions/Stupefied|Stupefied 2]] (1 day)\n\n**Stage 3** [[Conditions/Fatigued|Fatigued]] and stupefied 2 (1 day)\n\n**Stage 4** Fatigued and [[Conditions/Stupefied|Stupefied 3]] (1 day)\n\n**Stage 5** dead, rising as a demonplague zombie immediately."
 
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
     desc: "`pf2:1`  "
  
+```
+
+```encounter-table
+name: Demonplague Zombie
+creatures:
+  - 1: Demonplague Zombie
 ```
 
 

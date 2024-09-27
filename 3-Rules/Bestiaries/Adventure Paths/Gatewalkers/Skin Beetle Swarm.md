@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.gatewalkers-bestiary.Actor.COyGm2KW6YKFE67u"
 tags:
   - pf2e/creature/type/animal
   - pf2e/creature/type/swarm
+  - pf2eMonster
   - pf2e/creature/level/8
 statblock: inline
 name: "Skin Beetle Swarm"
@@ -21,15 +22,16 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #188: They Watched the Stars"
 name: "Skin Beetle Swarm"
 level: "Creature 8"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Large"
-trait_01: "animal"
-trait_02: "swarm"
+trait_01: [[animal]]
+trait_02: [[swarm]]
 modifier: 16
 perception:
   - name: "Perception"
     desc: "+16; Low-Light Vision"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Acrobatics: +18, Stealth: +18"
@@ -54,8 +56,14 @@ attacks:
   - name: ""
 
   - name: "Swarming Bites"
-    desc: "`pf2:1`  Each enemy in the swarm's space takes 5d6 piercing (DC 23 Reflex check). A creature that fails the saving throw also takes 1d4 bleed and is [[Conditions/Clumsy 1|Clumsy 1]] as long as it's taking bleed damage."
+    desc: "`pf2:1`  Each enemy in the swarm's space takes 5d6 piercing (DC 23 Reflex check). A creature that fails the saving throw also takes 1d4 bleed and is [[Conditions/Clumsy|Clumsy 1]] as long as it's taking bleed damage."
  
+```
+
+```encounter-table
+name: Skin Beetle Swarm
+creatures:
+  - 1: Skin Beetle Swarm
 ```
 
 

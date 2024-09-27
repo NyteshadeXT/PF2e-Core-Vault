@@ -27,7 +27,7 @@ This suit of _+1 hide armor_ is sickly green and covered in thick warts and nodu
 
 * * *
 
-**Effect** Your body knits itself back together, healing you for 3d8 Hit Points.
+**Effect** Your body knits itself back together, healing you for 3d8 healing Hit Points.
 
 * * *
 

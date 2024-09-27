@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/lawful
   - pf2e/creature/type/undead
   - pf2e/creature/type/unholy
+  - pf2eMonster
   - pf2e/creature/level/19
 statblock: inline
 name: "Kelganth"
@@ -23,13 +24,13 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #185: A Taste of Ashes"
 name: "Kelganth"
 level: "Creature 19"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Large"
-trait_01: "evil"
-trait_02: "lawful"
-trait_03: "undead"
-trait_04: "unholy"
+trait_01: [[evil]]
+trait_02: [[lawful]]
+trait_03: [[undead]]
+trait_04: [[unholy]]
 modifier: 35
 perception:
   - name: "Perception"
@@ -49,7 +50,7 @@ hp: 330
 health:
   - name: ""
   - name: HP
-    desc: "330, void healing, rejuvenation; __Immunities__  death effects,  disease,  paralyzed,  poison,  unconscious; __Resistances__ cold 15, physical 15 (except bludgeoning)"
+    desc: "330, void healing, rejuvenation; __Immunities__  death effects,  disease,  paralyzed,  poison,  unconscious; __Resistances__ cold 15, physical 15 (except magical bludgeoning)"
 abilities_top:
   - name: ""
   - name: "Items"
@@ -60,10 +61,10 @@ abilities_mid:
     desc: "`pf2:r`  "
 
   - name: "Counterspell"
-    desc: "`pf2:r`  **Trigger** A creature casts a spell Kelganth has prepared\n**Effect** Kelganth expends a prepared spell to counter the triggering creature's casting of that same spell. Kelganth loses his spell slot as if he had cast the triggering spell."
+    desc: "`pf2:r`  **Trigger** A creature casts a spell Kelganth has prepared\n* * *\n\n**Effect** Kelganth expends a prepared spell to counter the triggering creature's casting of that same spell. Kelganth loses his spell slot as if he had cast the triggering spell."
 
   - name: "[[Bestiary Ability Glossary/Frightful Presence|Frightful Presence]]"
-    desc: " (aura,emotion,fear,mental) 60 feet. DC 43 Will check\n"
+    desc: " (aura,emotion,fear,mental) 60 feet. DC 43 Will check\n\n* * *\n"
 
   - name: "[[Creature Family Ability Glossary/(Lich) Rejuvenation|Rejuvenation]]"
     desc: " (arcane) When a lich is destroyed, its soul immediately transfers to its _[[Equipment/Lich Soul Cage|Soul Cage]]_. A lich can be permanently destroyed only if its _soul cage_ is found and destroyed."
@@ -90,16 +91,16 @@ attacks:
     desc: "_[[Spells/Create Undead|Create Undead]]_"
 
   - name: "[[Creature Family Ability Glossary/(Lich) Drain Soul Cage|Drain Soul Cage]]"
-    desc: "  **Frequency** once per day\n**Effect** Kelganth taps into his [[Equipment/Lich Soul Cage|Soul Cage's]] power to cast any arcane spell up to 9th rank, even if the spell being cast is not one of his prepared spells. Kelganth's soul cage doesn't need to be present for him to use this ability."
+    desc: "  **Frequency** once per day\n* * *\n\n**Effect** Kelganth taps into his [[Equipment/Lich Soul Cage|Soul Cage's]] power to cast any arcane spell up to 9th rank, even if the spell being cast is not one of his prepared spells. Kelganth's soul cage doesn't need to be present for him to use this ability."
 
   - name: "Font of Death"
-    desc: "`pf2:3` (divine,void) The tomb giant turns the spiritual tide on a creature that has just died, temporarily transforming it into a volatile vessel of void energy. The tomb giant touches a creature that died in the past 24 hours, infusing its flesh and bone with void energy. Once during the next hour, the tomb giant can spend a single action (from any distance) to release this void energy from the corpse in an explosion that deals 11d12 void damage in a 15-foot burst (DC 41 Fortitude check); if not released before the end of the hour, the energy dissipates harmlessly. The tomb giant can't use Font of Death while a previous corpse remains infused."
+    desc: "`pf2:3` (divine,void) The tomb giant turns the spiritual tide on a creature that has just died, temporarily transforming it into a volatile vessel of void energy. The tomb giant touches a creature that died in the past 24 hours, infusing its flesh and bone with void energy. Once during the next hour, the tomb giant can spend a single action (from any distance) to release this void energy from the corpse in an explosion that deals 11d12 void damage in a @Template[burst|distance:15] (DC 41 Fortitude check); if not released before the end of the hour, the energy dissipates harmlessly. The tomb giant can't use Font of Death while a previous corpse remains infused."
 
   - name: "[[Creature Family Ability Glossary/(Lich) Paralyzing Touch|Paralyzing Doom]]"
-    desc: " (arcane,curse,incapacitation) A creature damaged by Kelganth's hand Strike is [[Conditions/Doomed 1|Doomed 1]] and must succeed at a DC 41 Fortitude check save. The creature becomes [[Conditions/Paralyzed|Paralyzed]] for 1 round on a failure. On a critical failure, the creature is paralyzed permanently, falls [[Conditions/Prone|Prone]], and seems dead. A DC 25 Medicine check check reveals that the victim is alive."
+    desc: " (arcane,curse,incapacitation) A creature damaged by Kelganth's hand Strike is [[Conditions/Doomed|Doomed 1]] and must succeed at a DC 41 Fortitude check save. The creature becomes [[Conditions/Paralyzed|Paralyzed]] for 1 round on a failure. On a critical failure, the creature is paralyzed permanently, falls [[Conditions/Prone|Prone]], and seems dead. A DC 25 Medicine check check reveals that the victim is alive."
 
   - name: "Quickened Casting"
-    desc: "  **Frequency** once per day\n**Effect** If Kelganth's next action is to cast an cantrip or spell that is 8th level or less, reduce the number of actions to cast it by 1 (minimum 1 action)."
+    desc: "  **Frequency** once per day\n* * *\n\n**Effect** If Kelganth's next action is to cast an cantrip or spell that is 8th level or less, reduce the number of actions to cast it by 1 (minimum 1 action)."
 
   - name: "Steady Spellcasting"
     desc: "  If a reaction would disrupt Kelganth's spellcasting action, he attempts a DC 15 Flat check. On a success, the action isn't disrupted."
@@ -107,6 +108,12 @@ attacks:
   - name: "[[Bestiary Ability Glossary/Throw Rock|Throw Rock]]"
     desc: "`pf2:1`  "
  
+```
+
+```encounter-table
+name: Kelganth
+creatures:
+  - 1: Kelganth
 ```
 
 

@@ -12,7 +12,7 @@ license: OGL
 ---
 # Elemental Familiar (Earth)
 
-### [[Earth]]
+### [[earth]]
 
 **Category** familiar; 
 

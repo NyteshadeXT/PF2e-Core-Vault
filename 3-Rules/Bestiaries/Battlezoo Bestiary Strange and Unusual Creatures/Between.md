@@ -7,6 +7,7 @@ aliases: "Compendium.battlezoo-bestiary-su-pf2e.pf2e-battlezoo-su-actors.Actor.v
 tags:
   - pf2e/creature/type/aberration
   - pf2e/creature/type/incorporeal
+  - pf2eMonster
   - pf2e/creature/level/12
 statblock: inline
 name: "Between"
@@ -22,11 +23,11 @@ token: [[modules/battlezoo-bestiary-su-pf2e/art/Portraits/between.webp| ]]
 source: "Battlezoo Bestiary: Strange and Unusual"
 name: "Between"
 level: "Creature 12"
-rare_03: "Rare"
+rare_03: [[Rare]]
 alignment: ""
 size: "Medium"
-trait_01: "aberration"
-trait_02: "incorporeal"
+trait_01: [[aberration]]
+trait_02: [[incorporeal]]
 modifier: 22
 perception:
   - name: "Perception"
@@ -34,7 +35,7 @@ perception:
 languages: "Common"
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +27, Occultism: +22, Stealth: +27, "
+    desc: "Acrobatics: +27, Occultism: +22, Stealth: +27, Acrobatics: +27, Occultism: +22, Stealth: +27"
 abilityMods: [-5, 7, 0, 4, 5, 7]
 speed: 30 feet
 sourcebook: "_Battlezoo Bestiary: Strange and Unusual_"
@@ -51,7 +52,7 @@ abilities_top:
   - name: ""
 
   - name: "Two-Dimensional Anatomy"
-    desc: " (aura,mental,occult) 30 feet. The between's nature breaks the laws of physics, befuddling those who glimpse it and twisting reality. The area within the aura is difficult terrain and creatures within that can see the between must succeed on a DC 32 Will check save or become Stupefied 2 for 1 round (Stupefied 4 on a critical failure)."
+    desc: " (aura,mental,occult) 30 feet. The between's nature breaks the laws of physics, befuddling those who glimpse it and twisting reality. The area within the aura is difficult terrain and creatures within that can see the between must succeed on a DC 32 Will check save or become [[undefined]] for 1 round ([[undefined]] on a critical failure)."
 
 abilities_mid:
   - name: ""
@@ -65,11 +66,17 @@ attacks:
     desc: "`pf2:1` Dimensional Slice +24 (range increment 30 feet)\n__Damage__  3d6 + 11 force 1d6 fire"
 
   - name: "Dimension Rend"
-    desc: " (incapacitation,occult) A creature hit by a between's dimensional shear Strike must attempt a DC 29 Will check save as the between tries to rip away the creature's dimensions. The creature is then temporarily immune to dimension rend for 1 minute.\n**Success** The target is unaffected.\n**Failure** The target is Blinded for 1 round.\n**Critical Failure** The target is Drained 3, blinded for 1 minute, and becomes out of phase with reality for 1 minute. In this state, it can pass through solid objects as if it was incorporeal, it can't attempt Strength-based checks against physical creatures or objects, its Speed is halved and it takes a –1 status penalty to attack rolls."
+    desc: " (incapacitation,occult) A creature hit by a between's dimensional shear Strike must attempt a DC 29 Will check save as the between tries to rip away the creature's dimensions. The creature is then temporarily immune to dimension rend for 1 minute.\n\n**Success** The target is unaffected.\n\n**Failure** The target is [[undefined]] for 1 round.\n\n**Critical Failure** The target is [[undefined]], blinded for 1 minute, and becomes out of phase with reality for 1 minute. In this state, it can pass through solid objects as if it was incorporeal, it can't attempt Strength-based checks against physical creatures or objects, its Speed is halved and it takes a –1 status penalty to attack rolls."
 
   - name: "Energy Suffusion"
     desc: "`pf2:2`  The between Strides, ending its movement in another creature's space and dealing it 10d6 fire damage, with a DC 32 Will check save."
  
+```
+
+```encounter-table
+name: Between
+creatures:
+  - 1: Between
 ```
 
 

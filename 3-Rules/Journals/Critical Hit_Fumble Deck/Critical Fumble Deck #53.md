@@ -8,13 +8,13 @@ tags:
 ---
 # Punt
 
-> Your weapon files 1d4 \* 5 feet in a random direction 1d8 (determined by the GM).
+> Your weapon files 1d4\*5 feet in a random direction 1d8 (determined by the GM).
 
 `Melee`
 
 # So much Blood
 
-> You are [[Conditions/Sickened 1|Sickened 3]].
+> You are [[Conditions/Sickened|Sickened 3]].
 
 `Ranged`
 

@@ -5,6 +5,7 @@ noteType: pf2eHazard
 tags:
   - mechanical
   - trap
+  - pf2eHazard
 
 source: Pathfinder Society Quest #10: The Broken Scales
 aliases: "Compendium.pf2e.pfs-season-1-bestiary.Actor.Kz4YDRpaUaL3BQd7" 
@@ -22,14 +23,14 @@ name: "Spear Launcher (Q9:1-2)"
 level: "Hazard 2"
 
 
-trait_01: "mechanical"
-trait_02: "trap"
+trait_01: [[mechanical]]
+trait_02: [[trap]]
 modifier: 11
 sourcebook: "_Pathfinder Society Quest #10: The Broken Scales_"
 ac: 18
 armorclass:
   - name: AC
-    desc: "18; __Fort__ +11, __Ref__ +3, __Will__ +0"
+    desc: "18; __Fort__ +11, __Ref__ +3, "
 hp: 32
 health:
   - name: ""
@@ -51,11 +52,17 @@ attacks:
   - name: ""
 
   - name: "Spear"
-    desc: "`pf2:r` (attack) **Trigger** Pressure is applied to the floor tile.\n**Effect** The trap shoots a spear, making an attack against the creature or object on the floor tile."
+    desc: "`pf2:r` (attack) **Trigger** Pressure is applied to the floor tile.\n* * *\n\n**Effect** The trap shoots a spear, making an attack against the creature or object on the floor tile."
   - name: "Melee"
     desc: "Spear +14 () "
 
 
 
+```
+
+```encounter-table
+name: Spear Launcher (Q9:1-2)
+creatures:
+  - 1: Spear Launcher (Q9:1-2)
 ```
 

@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/fey
   - pf2e/creature/type/good
   - pf2e/creature/type/sprite
+  - pf2eMonster
   - pf2e/creature/level/3
 statblock: inline
 name: "Draxie"
@@ -27,15 +28,15 @@ level: "Creature 3"
 
 alignment: ""
 size: "tiny"
-trait_01: "chaotic"
-trait_02: "fey"
-trait_03: "good"
-trait_04: "sprite"
+trait_01: [[chaotic]]
+trait_02: [[fey]]
+trait_03: [[good]]
+trait_04: [[sprite]]
 modifier: 8
 perception:
   - name: "Perception"
     desc: "+8; Low-Light Vision"
-languages: "Common, Fey"
+languages: "Common, Fey; telepathy (touch)"
 skills:
   - name: "Skills"
     desc: "Acrobatics: +9, Deception: +10, Diplomacy: +8, Nature: +6, Stealth: +11"
@@ -69,8 +70,14 @@ attacks:
     desc: "DC 20, attack +12; __2nd __  _[[Spells/Faerie Fire|Faerie Fire]]_, _[[Spells/Invisibility|Invisibility]]_; __1st __  _[[Spells/Illusory Disguise|Illusory Disguise (x3)]]_\n__Cantrips__  __(2nd)__ _[[Compendium.pf2e.spells-srd.Item.kl2q6JvBZwed4B6v|Dancing Lights]]_, _[[Spells/Ghost Sound|Ghost Sound]]_, _[[Spells/Prestidigitation|Prestidigitation]]_"
 
   - name: "Breath Weapon"
-    desc: "`pf2:2` (emotion,incapacitation,mental,primal) The draxie breathes pixie dust in a 15-foot cone, with a random effect determined each time they use their Breath Weapon.\nEach creature in the area must succeed at a DC 17 Will check save or be affected. Roll 1d4 to determine the effect. The draxie can't use Breath Weapon again for 1d4 rounds.\n1.  The target takes the effects of the [[Spells/Charm|Charm]] spell.\n2.  The target loses its last 5 minutes of memory.\n3.  The target takes the effects of a [[Spells/Sleep|Sleep]] spell.\n4.  The target becomes [[Conditions/Stupefied 1|Stupefied 2]] and [[Conditions/Slowed 1|Slowed 1]] from euphoria."
+    desc: "`pf2:2` (emotion,incapacitation,mental,primal) The draxie breathes pixie dust in a @Template[cone|distance:15], with a random effect determined each time they use their Breath Weapon.\n\nEach creature in the area must succeed at a DC 17 Will check save or be affected. Roll 1d4 to determine the effect. The draxie can't use Breath Weapon again for 1d4 rounds.\n\n1.  The target takes the effects of the [[Spells/Charm|Charm]] spell.\n2.  The target loses its last 5 minutes of memory.\n3.  The target takes the effects of a [[Spells/Sleep|Sleep]] spell.\n4.  The target becomes [[Conditions/Stupefied|Stupefied 2]] and [[Conditions/Slowed|Slowed 1]] from euphoria."
  
+```
+
+```encounter-table
+name: Draxie
+creatures:
+  - 1: Draxie
 ```
 
 

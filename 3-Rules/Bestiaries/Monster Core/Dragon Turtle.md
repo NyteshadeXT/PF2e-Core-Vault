@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.pathfinder-monster-core.Actor.kLhBdqKOMHDGjdFz"
 tags:
   - pf2e/creature/type/amphibious
   - pf2e/creature/type/dragon
+  - pf2eMonster
   - pf2e/creature/level/9
   - remaster
 statblock: inline
@@ -26,8 +27,8 @@ level: "Creature 9"
 
 alignment: ""
 size: "huge"
-trait_01: "amphibious"
-trait_02: "dragon"
+trait_01: [[amphibious]]
+trait_02: [[dragon]]
 modifier: 18
 perception:
   - name: "Perception"
@@ -69,14 +70,20 @@ attacks:
     desc: "`pf2:1` (attack) The dragon turtle tries to capsize an adjacent aquatic vessel of their size or smaller. The dragon turtle must succeed at a DC 30 Athletics check check (reduce the DC by 5 for each size smaller than the dragon turtle) or the pilot's Sailing Lore DC, whichever is higher."
 
   - name: "Conjure Storm"
-    desc: "`pf2:1` (air,aura,primal,water) The dragon turtle summons a mighty storm to rage around themself. The area in a 30-foot emanation around the turtle becomes difficult terrain for all other flying and swimming creatures. The dragon turtle can end the storm by taking this action again."
+    desc: "`pf2:1` (air,aura,primal,water) The dragon turtle summons a mighty storm to rage around themself. The area in a @Template[emanation|distance:30] around the turtle becomes difficult terrain for all other flying and swimming creatures. The dragon turtle can end the storm by taking this action again."
 
   - name: "Draconic Frenzy"
     desc: "`pf2:2`  The dragon turtle makes two Claw Strikes and one Jaws Strike in any order."
 
   - name: "Tsunami"
-    desc: "`pf2:2` (primal,water) The dragon turtle unleashes their destructive prowess by creating a massive growing wave that deals 7d6 bludgeoning damage in a 60-foot cone (DC 27 Reflex check save). The wave's damage increases by 10 for creatures who are more than 30 feet away. A creature that fails its save is knocked [[Conditions/Prone|Prone]].\n\nThe dragon turtle can't use Tsunami again for 1d4 rounds."
+    desc: "`pf2:2` (primal,water) The dragon turtle unleashes their destructive prowess by creating a massive growing wave that deals 7d6 bludgeoning damage in a @Template[cone|distance:60] (DC 27 Reflex check save). The wave's damage increases by 10 for creatures who are more than 30 feet away. A creature that fails its save is knocked [[Conditions/Prone|Prone]].\n\nThe dragon turtle can't use Tsunami again for 1d4 rounds."
  
+```
+
+```encounter-table
+name: Dragon Turtle
+creatures:
+  - 1: Dragon Turtle
 ```
 
 

@@ -33,7 +33,7 @@ Alchemists have refined the devastatingly allergenic pollen of the widow orchid 
 
 **Stage 1** 6d6 poison damage and [[Conditions/Dazzled|Dazzled]] (1 round)
 
-**Stage 2** 7d6 poison damage, dazzled, and [[Conditions/Sickened 1|Sickened 1]] (1 round)
+**Stage 2** 7d6 poison damage, dazzled, and [[Conditions/Sickened|Sickened 1]] (1 round)
 
 **Stage 3** 8d6 poison damage and [[Conditions/Blinded|Blinded]] (1 round)
 

@@ -6,8 +6,9 @@ tags:
   - trait/dhampir
   - trait/common
   - category/ancestry
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.YDHr12qVA3XRjkLP"
-license: OGL
+license: ORC
 ---
 # Bloodletting Fangs
 ## Feat 9
@@ -19,7 +20,7 @@ license: OGL
 
 **Prerequisites** fangs unarmed attack
 * * *
-You emulate your vampiric parent's techniques for drawing blood from a victim. Your fangs Strikes deal an additional 1d4 bleed on a critical hit.
+You emulate your vampiric parent's techniques for drawing blood from a victim. Your fangs Strikes deal an additional 1d4 persistent bleed damage on a critical hit.
 
-*Source: Pathfinder Advanced Player's Guide*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

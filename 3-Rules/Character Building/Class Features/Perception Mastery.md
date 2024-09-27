@@ -3,6 +3,11 @@ obsidianUIMode: preview
 title: "Perception Mastery"
 cssclasses: pf2e,pf2e-spell
 tags:
+  - trait/barbarian
+  - trait/bard
+  - trait/ranger
+  - trait/rogue
+  - trait/swashbuckler
   - trait/common
   - category/classfeature
   - remaster
@@ -11,7 +16,7 @@ license: ORC
 ---
 # Perception Mastery
 ## Feat 7
-### 
+### [[3-Rules/trait_reference/barbarian]][[3-Rules/trait_reference/bard]][[3-Rules/trait_reference/ranger]][[3-Rules/trait_reference/rogue]][[swashbuckler]]
 
 **Category** classfeature; 
 

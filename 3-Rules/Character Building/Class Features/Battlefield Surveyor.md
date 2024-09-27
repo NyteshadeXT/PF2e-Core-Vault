@@ -12,7 +12,7 @@ license: ORC
 ---
 # Battlefield Surveyor
 ## Feat 7
-### [[fighter]]
+### [[3-Rules/trait_reference/fighter]]
 
 **Category** classfeature; 
 

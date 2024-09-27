@@ -4,6 +4,7 @@ obsidianUIMode: preview
 noteType: pf2eHazard
 tags:
   - environmental
+  - pf2eHazard
 
 source: Pathfinder #193: Mantle of Gold
 aliases: "Compendium.pf2e.sky-kings-tomb-bestiary.Actor.ECqZqo4je63DH9X0" 
@@ -21,7 +22,7 @@ name: "Coal Residue"
 level: "Hazard 2"
 
 
-trait_01: "environmental"
+trait_01: [[environmental]]
 modifier: 9
 sourcebook: "_Pathfinder #193: Mantle of Gold_"
 perception:
@@ -40,9 +41,15 @@ attacks:
   - name: ""
 
   - name: "Ignite"
-    desc: "`pf2:r` (fire) **Trigger** An effect in the area deals at least 8 electricity or 4 fire\n**Effect** The coal residue rapidly ignites, dealing 4d6 fire damage to all creatures in the area (DC 18 Reflex check save). The area burns for 1 minute, during which creatures in the area are [[Conditions/Concealed|Concealed]], other creatures are concealed to them, and creatures who end their turn in the area take 1d6 fire damage."
+    desc: "`pf2:r` (fire) **Trigger** An effect in the area deals at least 8 electricity or 4 fire\n* * *\n\n**Effect** The coal residue rapidly ignites, dealing 4d6 fire damage to all creatures in the area (DC 18 Reflex check save). The area burns for 1 minute, during which creatures in the area are [[Conditions/Concealed|Concealed]], other creatures are concealed to them, and creatures who end their turn in the area take 1d6 fire damage."
 
 
 
+```
+
+```encounter-table
+name: Coal Residue
+creatures:
+  - 1: Coal Residue
 ```
 

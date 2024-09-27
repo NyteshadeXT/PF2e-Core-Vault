@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/humanoid
   - pf2e/creature/type/lawful
   - pf2e/creature/type/skelm
+  - pf2eMonster
   - pf2e/creature/level/7
 statblock: inline
 name: "Fasiel Ibn Sazadin (5-6)"
@@ -23,13 +24,13 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Society Scenario #4-14: Shattering Golden Chains"
 name: "Fasiel Ibn Sazadin (5-6)"
 level: "Creature 7"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Medium"
-trait_01: "evil"
-trait_02: "humanoid"
-trait_03: "lawful"
-trait_04: "skelm"
+trait_01: [[evil]]
+trait_02: [[humanoid]]
+trait_03: [[lawful]]
+trait_04: [[skelm]]
 modifier: 14
 perception:
   - name: "Perception"
@@ -37,7 +38,7 @@ perception:
 languages: "Aklo, Common, Kelish, Taldane"
 skills:
   - name: "Skills"
-    desc: "Athletics: +15, Deception: +17, Genie Lore: +14, Intimidation: +15, Society: +14, Stealth: +15"
+    desc: "Athletics: +15, Deception: +17, Intimidation: +15, Society: +14, Stealth: +15, Genie Lore: +14"
 abilityMods: [5, 3, 4, 4, 2, 5]
 speed: 25 feet
 sourcebook: "_Pathfinder Society Scenario #4-14: Shattering Golden Chains_"
@@ -75,10 +76,10 @@ attacks:
     desc: "`pf2:1` Rock +16 (range increment 20 feet)\n__Damage__  2d6 + 10 bludgeoning"
 
   - name: "[[Bestiary Ability Glossary/Change Shape|Change Shape]]"
-    desc: "`pf2:1` (concentrate,occult,polymorph) Fasiel can take on the appearance of any Medium male humanoid. This doesn't change his Speed or his attack and damage bonuses with his Strikes but might change the damage type his Strikes deal.\n"
+    desc: "`pf2:1` (concentrate,occult,polymorph) Fasiel can take on the appearance of any Medium male humanoid. This doesn't change his Speed or his attack and damage bonuses with his Strikes but might change the damage type his Strikes deal.\n\n* * *\n"
 
   - name: "Frightening Rant"
-    desc: "`pf2:1` (auditory,concentrate,emotion,fear,linguistic,mental,occult) Fasiel rants angrily, filling nearby creatures with shame, fear, and anger. Each creature within 30 feet must succeed at a DC 25 Will check save or become [[Conditions/Frightened 1|Frightened 2]] ([[Conditions/Frightened 1|Frightened 3]] on a critical failure).\nWhile frightened by this rant, creatures take a -2 status penalty to Strength-based damage rolls against the skelm, but gain a +2 status bonus to those rolls against other creatures."
+    desc: "`pf2:1` (auditory,concentrate,emotion,fear,linguistic,mental,occult) Fasiel rants angrily, filling nearby creatures with shame, fear, and anger. Each creature within 30 feet must succeed at a DC 25 Will check save or become [[Conditions/Frightened|Frightened 2]] ([[Conditions/Frightened|Frightened 3]] on a critical failure).\n\nWhile frightened by this rant, creatures take a -2 status penalty to Strength-based damage rolls against the skelm, but gain a +2 status bonus to those rolls against other creatures."
 
   - name: "Punishing Strike"
     desc: "`pf2:1`  Fasiel unleashes his constant rage in a reckless attack that makes him [[Conditions/Off-Guard|Off-Guard]] until the start of his next turn. He Strikes; if he hits, he increases the number of damage dice by one and adds [[Bestiary Ability Glossary/Push|Push]] to the effect. This counts as two attacks for his multiple attack penalty."
@@ -89,6 +90,12 @@ attacks:
   - name: "[[Bestiary Ability Glossary/Knockdown|Knockdown]]"
     desc: "`pf2:1`  "
  
+```
+
+```encounter-table
+name: Fasiel Ibn Sazadin (5-6)
+creatures:
+  - 1: Fasiel Ibn Sazadin (5-6)
 ```
 
 

@@ -11,7 +11,7 @@ license: OGL
 ---
 # Cloak of Devouring Thorns
 ## Item 12
-### [rare](rare "Rare Rarity Trait")[[invested]][[primal]]
+### [rare](rare.md "Rare Rarity Trait")[[invested]][[primal]]
 
 
 **Price** 2000 gp; 

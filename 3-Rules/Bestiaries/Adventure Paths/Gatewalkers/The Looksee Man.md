@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/fetchling
   - pf2e/creature/type/humanoid
   - pf2e/creature/type/shadow
+  - pf2eMonster
   - pf2e/creature/level/4
 statblock: inline
 name: "The Looksee Man"
@@ -23,13 +24,13 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #187: The Seventh Arch"
 name: "The Looksee Man"
 level: "Creature 4"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Medium"
-trait_01: "evil"
-trait_02: "fetchling"
-trait_03: "humanoid"
-trait_04: "shadow"
+trait_01: [[evil]]
+trait_02: [[fetchling]]
+trait_03: [[humanoid]]
+trait_04: [[shadow]]
 modifier: 14
 perception:
   - name: "Perception"
@@ -78,11 +79,17 @@ attacks:
     desc: "1 Focus Point, DC 21, attack +14; __2nd __  _[[Spells/Physical Boost|Physical Boost]]_"
 
   - name: "Shadow Stride"
-    desc: "`pf2:1` (illusion,occult,shadow) **Requirements** The Looksee Man is in dim light\n**Effect** The Looksee Man Strides. He has a +10-foot status bonus to his Speed during this Stride. The DC from shadow blending increases to DC 11 Flat check during this Stride, and the Looksee Man remains [[Conditions/Concealed|Concealed]] by dim light until the end of the movement, even if he leaves dim light during the Stride."
+    desc: "`pf2:1` (illusion,occult,shadow) **Requirements** The Looksee Man is in dim light\n* * *\n\n**Effect** The Looksee Man Strides. He has a +10-foot status bonus to his Speed during this Stride. The DC from shadow blending increases to DC 11 Flat check during this Stride, and the Looksee Man remains [[Conditions/Concealed|Concealed]] by dim light until the end of the movement, even if he leaves dim light during the Stride."
 
   - name: "Stalk Goggles Specialist"
     desc: "  As long as he wears his greater stalk goggles, the Looksee Man can't be flanked by creatures of 4th level or lower."
  
+```
+
+```encounter-table
+name: The Looksee Man
+creatures:
+  - 1: The Looksee Man
 ```
 
 

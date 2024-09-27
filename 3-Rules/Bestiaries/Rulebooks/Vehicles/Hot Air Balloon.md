@@ -1,16 +1,17 @@
 ---
-title: "Hot Air Balloon"
+title: Hot Air Balloon
 obsidianUIMode: preview
-noteType: pf2eMonster
+noteType: pf2eVehicle
 cssClasses: pf2e
-aliases: "Compendium.pf2e.vehicles.Actor.iItKvPymPNMUaGY7" 
 tags:
-  - pf2e/creature/level/2
+  - pf2eVehicle
+
   - remaster
-statblock: inline
-name: "Hot Air Balloon"
+source: Pathfinder GM Core
+aliases: "Compendium.pf2e.vehicles.Actor.iItKvPymPNMUaGY7" 
 level: 2
 license: ORC
+statblock: inline
 ---
 
 ```statblock
@@ -19,39 +20,51 @@ forcecolumns: true
 layout: Basic Pathfinder 2e Layout
 source: "Pathfinder GM Core"
 name: "Hot Air Balloon"
-level: "Creature 2"
-rare_03: "Uncommon"
-alignment: ""
+level: "Vehicle 2"
+rare_03: [[Uncommon]]
+
 size: "huge"
 modifier: 
 perception:
-  - name: "Perception"
-    desc: "NaN; "
-skills:
-  - name: "Skills"
-    desc: ""
-abilityMods: [, , , , , ]
-speed: 
-sourcebook: "_Pathfinder GM Core_"
+  - name: ""
+  - name: "Price"
+    desc: "100 gp\n* * *"
+abilities_top:
+  - name: ""
+  - name: "Space"
+    desc: "15 feet long, 15 feet wide, 50 feet high"
+  - name: "Crew"
+    desc: "1 pilot; **Passengers** 5"
+  - name: "Piloting Check"
+    desc: "Piloting Lore (DC 16) or Nature (DC 18)"
 ac: 13
 armorclass:
   - name: AC
-    desc: "13; __Fort__ +8, __Ref__ NaN, __Will__ NaN"
+    desc: "13; __Fort__ +8"
 hp: 40
 health:
   - name: ""
-  - name: HP
-    desc: "40; __Immunities__  object immunities; __Weaknesses__ fire 10"
-abilities_top:
-  - name: ""
-
+  - name: "Hardness"
+    desc: "0; **HP** 40 (BT 20); __Immunities__  object immunities; __Weaknesses__ fire 10"
+speed: "fly 20 feet (wind)"
 abilities_mid:
   - name: ""
 attacks:
   - name: ""
- 
+  - name: "Collision"
+    desc: "2d8 (DC 16)"
+
+  - name: "Drifter"
+    desc: " The hot air balloon lacks steering and relies on favorable wind currents to carry it in the right direction. If the pilot fails to maintain control of the hot air balloon, the balloon drifts whichever way the wind carries it, moving up to four times its Speed each round as determined by the GM."
+
+
+
+sourcebook: "_Pathfinder GM Core_"
 ```
 
-
-
+```encounter-table
+name: Hot Air Balloon
+creatures:
+  - 1: Hot Air Balloon
+```
 

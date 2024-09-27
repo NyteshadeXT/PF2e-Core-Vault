@@ -26,7 +26,7 @@ The _Void Mirror_ was created on a distant planet by a now-extinct alien cult to
 
 The view presented by the _Void Mirror_ is any view of the night sky possible from its current physical location, regardless of time of day. Observations of the sky in this way add a +3 item bonus to Astronomy Lore or Perception checks made while using the mirror. The point of view can be shifted through hand gestures, causing the scene within the mirror to reorient in any direction desired.
 
-A character who peers into the starscape within the _Void Mirror_ must attempt a DC 41 Will check save. On a **failure**, the character feels something looking back at them from the dark places between the stars. On a **critical failure**, this sensation causes the character to become [[Conditions/Frightened 1|Frightened 1]]. The character is then temporarily immune to this effect for 24 hours.
+A character who peers into the starscape within the _Void Mirror_ must attempt a DC 41 Will check save. On a **failure**, the character feels something looking back at them from the dark places between the stars. On a **critical failure**, this sensation causes the character to become [[Conditions/Frightened|Frightened 1]]. The character is then temporarily immune to this effect for 24 hours.
 
 By placing the _Void Mirror_ in a specially-constructed frame, it can halt the ongoing transformation of a creature that has performed the apotheosis activation. Building such a frame is beyond the skill of low-level characters, as it requires an artisan with legendary proficiency in Crafting.
 
@@ -64,7 +64,7 @@ The _Void Mirror_ can be utilized in other ways, but before a character can acti
 
 **Failure** As critical success, but the creature is hostile upon arrival.
 
-**Critical Failure** As failure, but magical feedback from the failed activation causes the user to become [[Conditions/Stunned 1|Stunned 3]].
+**Critical Failure** As failure, but magical feedback from the failed activation causes the user to become [[Conditions/Stunned|Stunned 3]].
 
 * * *
 
@@ -84,7 +84,7 @@ The _Void Mirror_ can be utilized in other ways, but before a character can acti
 
 **Success** As critical success, but the aberration the user transforms into can be of a level no higher than half the user's current level.
 
-**Failure** The user's attempt to change is a painful mistake that deals 10d6 + 40 bludgeoning damage as their body twists, bends and breaks. Ultimately, they are not transformed.
+**Failure** The user's attempt to change is a painful mistake that deals 10d6+40 bludgeoning damage as their body twists, bends and breaks. Ultimately, they are not transformed.
 
 **Critical Failure** The user is slain, but their body shifts and transforms into a brand new creature as the bodiless alien intelligence Tchekuth incubates within the user's flesh, mind and soul. This transformation takes another 7 days to complete but can be halted indefinitely if the _Void Mirror_ is placed in a specially constructed frame aimed at the body's location (regardless of any solid object between the mirror and the body). Slowing or stopping this transformation via other means requires complex rituals or divine intervention, subject to the GM's whim. After 7 days, the body completes its transformation and Tchekuth rises once more as a physical threat.
 

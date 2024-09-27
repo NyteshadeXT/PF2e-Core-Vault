@@ -6,6 +6,7 @@ cssClasses: pf2e
 aliases: "Compendium.pf2e.pathfinder-monster-core.Actor.MkupNnMKqDBElhhp" 
 tags:
   - pf2e/creature/type/animal
+  - pf2eMonster
   - pf2e/creature/level/4
   - remaster
 statblock: inline
@@ -25,7 +26,7 @@ level: "Creature 4"
 
 alignment: ""
 size: "Large"
-trait_01: "animal"
+trait_01: [[animal]]
 modifier: 10
 perception:
   - name: "Perception"
@@ -63,6 +64,12 @@ attacks:
   - name: "[[Bestiary Ability Glossary/Trample|Trample]]"
     desc: "`pf2:3`  Medium or smaller, foot, DC 21 Reflex check\n\n* * *\n"
  
+```
+
+```encounter-table
+name: Giant Stag Beetle
+creatures:
+  - 1: Giant Stag Beetle
 ```
 
 

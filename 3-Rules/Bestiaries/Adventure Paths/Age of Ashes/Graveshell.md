@@ -6,6 +6,7 @@ cssClasses: pf2e
 aliases: "Compendium.pf2e.age-of-ashes-bestiary.Actor.xXtGS9uBa9z43X7y" 
 tags:
   - pf2e/creature/type/beast
+  - pf2eMonster
   - pf2e/creature/level/1
 statblock: inline
 name: "Graveshell"
@@ -20,10 +21,10 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #145: Hellknight Hill"
 name: "Graveshell"
 level: "Creature 1"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Large"
-trait_01: "beast"
+trait_01: [[beast]]
 modifier: 4
 perception:
   - name: "Perception"
@@ -54,7 +55,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Shell Block"
-    desc: "`pf2:r`  **Trigger** The graveshell takes damage from a physical attack while withdrawn into its shell\n**Effect** The graveshell reduces the damage from the attack by an amount equal to its shell's Hardness. A graveshell's shell has a Hardness of 6, 10 Hit Points, and a Broken Threshold of 5. If its shell is broken, the graveshell can't attack with shell spikes, nor can it use Shell Game. If the shell is destroyed, the graveshell's AC is reduced to 16. As long as a graveshell is alive, its shell naturally repairs itself after a week."
+    desc: "`pf2:r`  **Trigger** The graveshell takes damage from a physical attack while withdrawn into its shell\n* * *\n\n**Effect** The graveshell reduces the damage from the attack by an amount equal to its shell's Hardness. A graveshell's shell has a Hardness of 6, 10 Hit Points, and a Broken Threshold of 5. If its shell is broken, the graveshell can't attack with shell spikes, nor can it use Shell Game. If the shell is destroyed, the graveshell's AC is reduced to 16. As long as a graveshell is alive, its shell naturally repairs itself after a week."
 
 attacks:
   - name: ""
@@ -74,6 +75,12 @@ attacks:
   - name: "Shell Game"
     desc: "`pf2:1`  The graveshell withdraws into its shell, gaining a +2 circumstance bonus to AC and allowing it to use Shell Block. This lasts until the graveshell moves or attacks with any attack other than its shell spikes. The graveshell can't take this action or get any benefit from it if its shell is [[Conditions/Broken|Broken]]."
  
+```
+
+```encounter-table
+name: Graveshell
+creatures:
+  - 1: Graveshell
 ```
 
 

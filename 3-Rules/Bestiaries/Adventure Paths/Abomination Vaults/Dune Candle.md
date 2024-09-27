@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/air
   - pf2e/creature/type/chaotic
   - pf2e/creature/type/evil
+  - pf2eMonster
   - pf2e/creature/level/6
 statblock: inline
 name: "Dune Candle"
@@ -26,10 +27,10 @@ level: "Creature 6"
 
 alignment: ""
 size: "Small"
-trait_01: "aberration"
-trait_02: "air"
-trait_03: "chaotic"
-trait_04: "evil"
+trait_01: [[aberration]]
+trait_02: [[air]]
+trait_03: [[chaotic]]
+trait_04: [[evil]]
 modifier: 16
 perception:
   - name: "Perception"
@@ -68,11 +69,17 @@ attacks:
     desc: "`pf2:1` Flare +17 (fire, magical)\n__Damage__  2d4 + 4 fire plus light-the-living-wick"
 
   - name: "Heat Mirage"
-    desc: "`pf2:1` (concentrate) The dune candle extinguishes its glow, becoming [[Conditions/Invisible|Invisible]]. It can end this effect with another use of this action. Its body reflects creatures on fire (but not other fires) while it's invisible.\nAs a result, when any creature within 20 feet of the dune candle is taking [[Conditions/Persistent Damage|Persistent Fire Damage]], the dune candle is [[Conditions/Hidden|Hidden]] to observers rather than [[Conditions/Undetected|Undetected]]."
+    desc: "`pf2:1` (concentrate) The dune candle extinguishes its glow, becoming [[Conditions/Invisible|Invisible]]. It can end this effect with another use of this action. Its body reflects creatures on fire (but not other fires) while it's invisible.\n\nAs a result, when any creature within 20 feet of the dune candle is taking [[Conditions/Persistent Damage|Persistent Fire Damage]], the dune candle is [[Conditions/Hidden|Hidden]] to observers rather than [[Conditions/Undetected|Undetected]]."
 
   - name: "Light the Living Wick"
-    desc: " (arcane) A creature damaged by a dune candle's flare Strike must succeed at a DC 24 Fortitude check save or catch on fire, taking 1d4 persistent fire damage.\nIf the creature is already taking persistent fire damage, a failed save increases the persistent fire damage by 1d4."
+    desc: " (arcane) A creature damaged by a dune candle's flare Strike must succeed at a DC 24 Fortitude check save or catch on fire, taking 1d4 persistent fire damage.\n\nIf the creature is already taking persistent fire damage, a failed save increases the persistent fire damage by 1d4."
  
+```
+
+```encounter-table
+name: Dune Candle
+creatures:
+  - 1: Dune Candle
 ```
 
 

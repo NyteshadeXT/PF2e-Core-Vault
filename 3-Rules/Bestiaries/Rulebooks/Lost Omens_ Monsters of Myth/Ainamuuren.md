@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/chaotic
   - pf2e/creature/type/cold
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/14
 statblock: inline
 name: "Ainamuuren"
@@ -22,12 +23,12 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Lost Omens: Monsters of Myth"
 name: "Ainamuuren"
 level: "Creature 14"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Large"
-trait_01: "chaotic"
-trait_02: "cold"
-trait_03: "humanoid"
+trait_01: [[chaotic]]
+trait_02: [[cold]]
+trait_03: [[humanoid]]
 modifier: 25
 perception:
   - name: "Perception"
@@ -35,7 +36,7 @@ perception:
 languages: "Erutaki, Jotun"
 skills:
   - name: "Skills"
-    desc: "Athletics: +28, Medicine: +24, Nature: +26, Stealth: +24 (+25 in forests and snow)"
+    desc: "Athletics: +28, Medicine: +24, Nature: +26, Stealth: +24"
 abilityMods: [8, 4, 5, 2, 5, 0]
 speed: 35 feet
 sourcebook: "_Pathfinder Lost Omens: Monsters of Myth_"
@@ -55,7 +56,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Blizzard Evasion"
-    desc: "`pf2:r`  **Trigger** Ainamuuren takes at least 40 points of physical damage from a single attack, and he isn't currently discorporated\n**Effect** Ainamuuren discorporates into a whirling blizzard for 3 rounds. During this time, he gains resistance 10 to physical damage and weakness 10 to force damage. He gains a fly speed of 40 feet, but the only action he can take is to Fly. While discorporated, the first time each round that Ainamuuren enters another creature's space or a creature enters Ainamuuren's space, that creature takes 4d8 cold damage and must succeed at a DC 34 Fortitude check save or be [[Conditions/Stunned 1|Stunned 1]]. At the start of his turn, Ainamuuren can end this effect as a free action."
+    desc: "`pf2:r`  **Trigger** Ainamuuren takes at least 40 points of physical damage from a single attack, and he isn't currently discorporated\n* * *\n\n**Effect** Ainamuuren discorporates into a whirling blizzard for 3 rounds. During this time, he gains resistance 10 to physical damage and weakness 10 to force damage. He gains a fly speed of 40 feet, but the only action he can take is to Fly. While discorporated, the first time each round that Ainamuuren enters another creature's space or a creature enters Ainamuuren's space, that creature takes 4d8 cold damage and must succeed at a DC 34 Fortitude check save or be [[Conditions/Stunned|Stunned 1]]. At the start of his turn, Ainamuuren can end this effect as a free action."
 
   - name: "Frostbite Runes"
     desc: "  Ainamuuren is marked by the runes of the saumen kar, a gift tied to their ancient curse. Ainamuuren gains a +1 status bonus to saving throws against evil and necromancy spells and effects. He can sense the presence of evil undead as a pervasive taste of oily corruption in the air. This is a vague sense that allows him to know when such a creature is within 60 feet, though he can't precisely pinpoint their location with this sense. This sense also extends to living creatures who have the void healing ability, like dhampir."
@@ -76,11 +77,17 @@ attacks:
     desc: "DC 34, attack +26; __7th __  _[[Spells/Summon Animal|Summon Animal (Cave Bear or Woolly Rhinoceros Only)]]_; __5th __  _[[Spells/Wall of Ice|Wall of Ice (x3)]]_"
 
   - name: "Curse of the Saumen Kar"
-    desc: "`pf2:2` (cold,primal) **Frequency** once per day\n**Effect** Ainamuuren activates the runes covering his body to create an icy prison around a Huge or smaller creature he can see within 60 feet. The prison is a sphere made of unmelting ice, just large enough to fit his target. The target, and any creatures sharing its space, must attempt a DC 34 Reflex check save. A creature that fails becomes trapped inside the prison. If it succeeds, the creature is pushed outside the prison into a space of its choice. If the target shares its space with a gargantuan creature, the effect fails.\nThe dome has AC 10, Hardness 20, and 40 Hit Points; and is immune to cold, critical hits, and precision damage. The prison lasts until destroyed, until Ainamuuren uses this ability to create a new prison, or until he dies."
+    desc: "`pf2:2` (cold,primal) **Frequency** once per day\n* * *\n\n**Effect** Ainamuuren activates the runes covering his body to create an icy prison around a Huge or smaller creature he can see within 60 feet. The prison is a sphere made of unmelting ice, just large enough to fit his target. The target, and any creatures sharing its space, must attempt a DC 34 Reflex check save. A creature that fails becomes trapped inside the prison. If it succeeds, the creature is pushed outside the prison into a space of its choice. If the target shares its space with a gargantuan creature, the effect fails.\n\nThe dome has AC 10, Hardness 20, and 40 Hit Points; and is immune to cold, critical hits, and precision damage. The prison lasts until destroyed, until Ainamuuren uses this ability to create a new prison, or until he dies."
 
   - name: "[[Bestiary Ability Glossary/Knockdown|Knockdown]]"
     desc: "`pf2:1`  "
  
+```
+
+```encounter-table
+name: Ainamuuren
+creatures:
+  - 1: Ainamuuren
 ```
 
 

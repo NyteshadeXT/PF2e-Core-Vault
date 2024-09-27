@@ -18,7 +18,7 @@ license: OGL
 ---
 # Dragon Handwraps
 ## Item 20
-### [[agile]][[apex]][[finesse]][[invested]][[magical]][[nonlethal]][[unarmed]]
+### [[3-Rules/Rule References/Agile]][[apex]][[3-Rules/Rule References/Finesse]][[invested]][[3-Rules/Rule References/Magical]][[nonlethal]][[unarmed]]
 
 |  |  |
 | -- | -- |

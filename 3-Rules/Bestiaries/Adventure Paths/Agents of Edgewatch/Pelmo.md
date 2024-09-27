@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/goblin
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/-1
 statblock: inline
 name: "Pelmo"
@@ -26,10 +27,10 @@ level: "Creature -1"
 
 alignment: ""
 size: "Small"
-trait_01: "chaotic"
-trait_02: "evil"
-trait_03: "goblin"
-trait_04: "humanoid"
+trait_01: [[chaotic]]
+trait_02: [[evil]]
+trait_03: [[goblin]]
+trait_04: [[humanoid]]
 modifier: 2
 perception:
   - name: "Perception"
@@ -57,17 +58,23 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "[[Compendium.pf2e.bestiary-family-ability-glossary.db.EM6YZCt6vFCFhXmb|Goblin Scuttle]]"
-    desc: "`pf2:r`  **Trigger** A goblin ally ends a move action adjacent to Pelmo.\n**Effect** Pelmo [[Actions/Step|Steps]]."
+    desc: "`pf2:r`  **Trigger** A goblin ally ends a move action adjacent to Pelmo.\n* * *\n\n**Effect** Pelmo [[Actions/Step|Steps]]."
 
 attacks:
   - name: ""
 
-  - name: "Melee"
+  - name: "Ranged"
     desc: "`pf2:1` Club +8 (thrown 10 ft.)\n__Damage__  1d6 bludgeoning"
 
   - name: "Ranged"
     desc: "`pf2:1` Lesser Alchemist&#x27;s Fire +8 (alchemical, bomb, consumable, fire, splash, thrown 20 ft.)\n__Damage__  1d8 fire 1 fire 1 fire"
  
+```
+
+```encounter-table
+name: Pelmo
+creatures:
+  - 1: Pelmo
 ```
 
 

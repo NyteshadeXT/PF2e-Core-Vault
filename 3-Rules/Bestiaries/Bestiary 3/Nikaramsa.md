@@ -10,6 +10,7 @@ tags:
   - pf2e/creature/type/fiend
   - pf2e/creature/type/lawful
   - pf2e/creature/type/unholy
+  - pf2eMonster
   - pf2e/creature/level/14
 statblock: inline
 name: "Nikaramsa"
@@ -28,16 +29,16 @@ level: "Creature 14"
 
 alignment: ""
 size: "Large"
-trait_01: "asura"
-trait_02: "evil"
-trait_03: "fiend"
-trait_04: "lawful"
-trait_05: "unholy"
+trait_01: [[asura]]
+trait_02: [[evil]]
+trait_03: [[fiend]]
+trait_04: [[lawful]]
+trait_05: [[unholy]]
 modifier: 25
 perception:
   - name: "Perception"
     desc: "+25; Darkvision, See the Unseen"
-languages: "Common, Diabolic"
+languages: "Common, Diabolic; telepathy 100 feet"
 skills:
   - name: "Skills"
     desc: "Athletics: +24, Deception: +28, Religion: +25, Stealth: +25"
@@ -59,10 +60,10 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Pervert Miracle"
-    desc: "`pf2:r` (curse,divine) **Trigger** A foe within 60 feet casts [[Spells/Bless|Bless]] or a beneficial spell that the nikaramsa could cast to remove an affliction or condition (such as [[Spells/Cleanse Affliction|Cleanse Affliction]])\n**Effect** The nikaramsa attempts to counteract the enemy's spell (counteract modifier +24 and counteract rank 7). If the nikaramsa succeeds, the triggering creature is subjected to the effects of a [[Spells/Bane|Bane]] spell or the effect it was trying to remove."
+    desc: "`pf2:r` (curse,divine) **Trigger** A foe within 60 feet casts [[Spells/Bless|Bless]] or a beneficial spell that the nikaramsa could cast to remove an affliction or condition (such as [[Spells/Cleanse Affliction|Cleanse Affliction]])\n* * *\n\n**Effect** The nikaramsa attempts to counteract the enemy's spell (counteract modifier +24 and counteract rank 7). If the nikaramsa succeeds, the triggering creature is subjected to the effects of a [[Spells/Bane|Bane]] spell or the effect it was trying to remove."
 
   - name: "Towering Stance"
-    desc: " (divine,illusion) A nikaramsa is in fact a Medium creature, but appears as a Large creature due to the force of their personality. A creature interacting with the nikaramsa can attempt a DC 36 Will check save to see the nikaramsa as they truly are. If the creature succeeds, the reach of nikaramsa's attacks against that foe decrease to 5 feet (10 feet for their tongue).\nIf all creatures in the nikaramsa's vicinity successfully disbelieve this illusion, the nikaramsa becomes Medium and [[Conditions/Enfeebled 1|Enfeebled 2]] for as long as everyone sees their true form.\n[[Bestiary Effects/Effect_ Towering Stance (Disbelieved)|Effect: Towering Stance (Disbelieved)]]"
+    desc: " (divine,illusion) A nikaramsa is in fact a Medium creature, but appears as a Large creature due to the force of their personality. A creature interacting with the nikaramsa can attempt a DC 36 Will check save to see the nikaramsa as they truly are. If the creature succeeds, the reach of nikaramsa's attacks against that foe decrease to 5 feet (10 feet for their tongue).\n\nIf all creatures in the nikaramsa's vicinity successfully disbelieve this illusion, the nikaramsa becomes Medium and [[Conditions/Enfeebled|Enfeebled 2]] for as long as everyone sees their true form.\n\n[[Bestiary Effects/Effect_ Towering Stance (Disbelieved)|Effect: Towering Stance (Disbelieved)]]"
 
 attacks:
   - name: ""
@@ -80,8 +81,14 @@ attacks:
     desc: "DC 34, attack +26; __7th __  _[[Spells/Bane|Bane]]_, _[[Spells/Bless|Bless]]_, _[[Spells/Translocate|Dimension Door]]_, _[[Spells/Divine Decree|Divine Decree]]_, _[[Spells/Dream Message|Dream Message]]_, _[[Spells/Heal|Heal (x3)]]_, _[[Spells/Illusory Disguise|Illusory Disguise (At Will)]]_, _[[Spells/Invisibility|Invisibility (At Will) (Self Only)]]_, _[[Spells/Mind Reading|Mind Reading]]_, _[[Spells/Cleanse Affliction|Neutralize Poison]]_, _[[Compendium.pf2e.spells-srd.Item.OyFCwQuw8XRazsNr|Remove Curse]]_, _[[Compendium.pf2e.spells-srd.Item.RneiyehRO6f7LP44|Remove Disease]]_, _[[Spells/Sound Body|Restore Senses]]_, _[[Spells/Ventriloquism|Ventriloquism (At Will)]]_; __4th __  _[[Spells/Translocate|Dimension Door (At Will)]]_\n__Constant__  __(7th)__ _[[Spells/Detect Alignment|Detect Alignment]]_, _[[Spells/Disguise Magic|Magic Aura (Self Only)]]_, _[[Spells/Veil of Privacy|Nondetection (Self Only)]]_, _[[Spells/See the Unseen|See Invisibility]]_"
 
   - name: "Sap Mind"
-    desc: "`pf2:1` (divine,mental) The nikaramsa focuses their gaze on one creature within 60 feet. That target must attempt a DC 34 Will check save. Regardless of the outcome of the saving throw, the target then becomes temporarily immune for 1 day.\n**Critical Success** The nikaramsa is caught off guard by the strength of the target's resistance and becomes [[Conditions/Stupefied 1|Stupefied 2]] until the end of their next turn.\n**Success** The target resists the nikaramsa's influence.\n**Failure** The target's focus and willpower drain away; it becomes [[Conditions/Stupefied 1|Stupefied 2]] for 1 minute.\n**Critical Failure** As failure, but the target becomes [[Conditions/Stupefied 1|Stupefied 3]] for 1 hour."
+    desc: "`pf2:1` (divine,mental) The nikaramsa focuses their gaze on one creature within 60 feet. That target must attempt a DC 34 Will check save. Regardless of the outcome of the saving throw, the target then becomes temporarily immune for 1 day.\n* * *\n\n**Critical Success** The nikaramsa is caught off guard by the strength of the target's resistance and becomes [[Conditions/Stupefied|Stupefied 2]] until the end of their next turn.\n\n**Success** The target resists the nikaramsa's influence.\n\n**Failure** The target's focus and willpower drain away; it becomes [[Conditions/Stupefied|Stupefied 2]] for 1 minute.\n\n**Critical Failure** As failure, but the target becomes [[Conditions/Stupefied|Stupefied 3]] for 1 hour."
  
+```
+
+```encounter-table
+name: Nikaramsa
+creatures:
+  - 1: Nikaramsa
 ```
 
 

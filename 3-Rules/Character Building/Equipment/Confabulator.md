@@ -3,6 +3,7 @@ obsidianUIMode: preview
 title: "Confabulator"
 cssclasses: pf2e,pf2e-spell
 tags:
+  - trait/illusion
   - trait/magical
   - trait/uncommon
 aliases: "Compendium.pf2e.equipment-srd.Item.gSf5aYA9D8MSolc9"
@@ -10,7 +11,7 @@ license: OGL
 ---
 # Confabulator
 ## Item 3
-### [uncommon](uncommon "Uncommon Rarity Trait")[[magical]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[illusion]][[3-Rules/Rule References/Magical]]
 
 
 **Price** 55 gp; 

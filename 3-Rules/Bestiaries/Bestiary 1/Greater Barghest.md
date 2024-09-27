@@ -10,6 +10,7 @@ tags:
   - pf2e/creature/type/fiend
   - pf2e/creature/type/mutant
   - pf2e/creature/type/unholy
+  - pf2eMonster
   - pf2e/creature/level/7
 statblock: inline
 name: "Greater Barghest"
@@ -25,14 +26,14 @@ token: [[modules/pf2e-tokens-bestiaries/portraits/fiendish/beast/barghest-greate
 source: "Pathfinder Bestiary"
 name: "Greater Barghest"
 level: "Creature 7"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Large"
-trait_01: "chaotic"
-trait_02: "evil"
-trait_03: "fiend"
-trait_04: "mutant"
-trait_05: "unholy"
+trait_01: [[chaotic]]
+trait_02: [[evil]]
+trait_03: [[fiend]]
+trait_04: [[mutant]]
+trait_05: [[unholy]]
 modifier: 16
 perception:
   - name: "Perception"
@@ -74,11 +75,17 @@ attacks:
     desc: "DC 25, attack +17; __4th __  _[[Spells/Flicker|Blink (At Will)]]_, _[[Spells/Confusion|Confusion]]_, _[[Spells/Translocate|Dimension Door]]_, _[[Spells/Enlarge|Enlarge]]_; __3rd __  _[[Spells/Levitate|Levitate (At Will)]]_; __2nd __  _[[Spells/Invisibility|Invisibility (At Will)]]_; __1st __  _[[Spells/Charm|Charm]]_"
 
   - name: "[[Bestiary Ability Glossary/Change Shape|Change Shape]]"
-    desc: "`pf2:1` (concentrate,divine,polymorph) The barghest takes on the shape of a goblinoid (a goblin, hobgoblin, or bugbear) or a wolf, or it transforms back into its true form. When the barghest is a goblinoid, it loses its jaws and claw Strikes, it becomes Small if it is a goblin, and its Speed changes to 20 feet. When the barghest is a wolf, its Speed changes to 40 feet and its jaws gain [[Bestiary Ability Glossary/Knockdown|Knockdown]]. Each individual barghest has only one goblinoid form and one wolf form.\n[[Bestiary Effects/Effect_ Wolf Shape|Effect: Wolf Shape]]\n"
+    desc: "`pf2:1` (concentrate,divine,polymorph) The barghest takes on the shape of a goblinoid (a goblin, hobgoblin, or bugbear) or a wolf, or it transforms back into its true form. When the barghest is a goblinoid, it loses its jaws and claw Strikes, it becomes Small if it is a goblin, and its Speed changes to 20 feet. When the barghest is a wolf, its Speed changes to 40 feet and its jaws gain [[Bestiary Ability Glossary/Knockdown|Knockdown]]. Each individual barghest has only one goblinoid form and one wolf form.\n\n[[Bestiary Effects/Effect_ Wolf Shape|Effect: Wolf Shape]]\n\n* * *\n"
 
   - name: "Mutations"
-    desc: "  The process of consuming corpses to evolve into a greater barghest results in odd and unpredictable physiological changes. A greater barghest has one mutation, typically chosen from the following options.\n*   [[Creature Family Ability Glossary/(Greater Barghest) Mutation - Poison Fangs|Fangs]]\n*   [[Creature Family Ability Glossary/(Greater Barghest) Mutation - Toxic Breath|Toxic Breath]]\n*   [[Creature Family Ability Glossary/(Greater Barghest) Mutation - Vestigial Arm Strike|Vestigial Arm Strike]]\n*   [[Creature Family Ability Glossary/(Greater Barghest) Mutation - Wings|Wings]]"
+    desc: "  The process of consuming corpses to evolve into a greater barghest results in odd and unpredictable physiological changes. A greater barghest has one mutation, typically chosen from the following options.\n\n*   [[Creature Family Ability Glossary/(Greater Barghest) Mutation - Poison Fangs|Fangs]]\n*   [[Creature Family Ability Glossary/(Greater Barghest) Mutation - Toxic Breath|Toxic Breath]]\n*   [[Creature Family Ability Glossary/(Greater Barghest) Mutation - Vestigial Arm Strike|Vestigial Arm Strike]]\n*   [[Creature Family Ability Glossary/(Greater Barghest) Mutation - Wings|Wings]]"
  
+```
+
+```encounter-table
+name: Greater Barghest
+creatures:
+  - 1: Greater Barghest
 ```
 
 

@@ -11,7 +11,7 @@ license: OGL
 ---
 # Cloak of Repute (Greater)
 ## Item 9
-### [[invested]][[magical]]
+### [[invested]][[3-Rules/Rule References/Magical]]
 
 
 **Price** 1300 gp; 

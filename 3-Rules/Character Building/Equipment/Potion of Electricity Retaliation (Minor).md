@@ -8,8 +8,9 @@ tags:
   - trait/potion
   - trait/common
   - category/potion
+  - remaster
 aliases: "Compendium.pf2e.equipment-srd.Item.w0S1SIRsHgGdRh1d"
-license: OGL
+license: ORC
 ---
 # Potion of Electricity Retaliation (Minor)
 ## Item 1
@@ -20,11 +21,13 @@ license: OGL
 **Bulk** L; **Size** med
 **Usage** held-in-one-hand
 
-**Activate** `pf2:1` Interact
+**Activate** `pf2:1` (manipulate)
+
+* * *
 
 For 1 minute after drinking a potion of electricity retaliation, you glow with a faint aura of electrical energy, and a creature that touches you (such as by making an unarmed attack or using a spell with a range of touch against you) takes electricity damage.
 
 The aura deals 1 electricity damage.
 
-*Source: Pathfinder Core Rulebook*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

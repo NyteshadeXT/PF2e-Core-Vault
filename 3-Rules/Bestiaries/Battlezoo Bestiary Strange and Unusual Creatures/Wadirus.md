@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/chaotic
   - pf2e/creature/type/evil
   - pf2e/creature/type/fey
+  - pf2eMonster
   - pf2e/creature/level/5
 statblock: inline
 name: "Wadirus"
@@ -23,12 +24,12 @@ token: [[modules/battlezoo-bestiary-su-pf2e/art/Portraits/wadirus.webp| ]]
 source: "Battlezoo Bestiary: Strange and Unusual"
 name: "Wadirus"
 level: "Creature 5"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Medium"
-trait_01: "chaotic"
-trait_02: "evil"
-trait_03: "fey"
+trait_01: [[chaotic]]
+trait_02: [[evil]]
+trait_03: [[fey]]
 modifier: 15
 perception:
   - name: "Perception"
@@ -36,7 +37,7 @@ perception:
 languages: "Common, Fey"
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +13, Athletics: +13 (+16 to High Jump or Long Jump), Deception: +11, Intimidation: +11, Nature: +13, Stealth: +12 (+14 in jungles), Survival: +12 (+14 in jungles), "
+    desc: "Acrobatics: +13, Athletics: +13, Deception: +11, Intimidation: +11, Nature: +13, Stealth: +12, Survival: +12, Acrobatics: +13, Athletics: +13, Deception: +11, Intimidation: +11, Nature: +13, Stealth: +12, Survival: +12"
 abilityMods: [0, 0, 0, 0, 0, 0]
 speed: 25 feet,  climb 20 feet,  swim 20 feet
 sourcebook: "_Battlezoo Bestiary: Strange and Unusual_"
@@ -53,12 +54,12 @@ abilities_top:
   - name: ""
 
   - name: "Prodigious Leaper"
-    desc: "  A wadirus doesn't automatically fail High Jump or Long Jump attempts if it doesn't Stride first, allowing it to make long and high leaps without any kind of running start."
+    desc: "  A wadirus doesn't automatically fail [[undefined]] or [[undefined]] attempts if it doesn't Stride first, allowing it to make long and high leaps without any kind of running start."
 
 abilities_mid:
   - name: ""
   - name: "Swarm Rejuvenation"
-    desc: "  A wadirus's swarm is part of its true self. After defeating a wadirus, its swarm disperses, and 2d4 days later, one of the constituent creatures grows into a new wadirus if even a single one escapes. While the exact circumstances and surroundings determine how long the wadirus's foes have to dispatch the Fleeing creatures before they escape, usually its foes have only a single round. Typically, this requires the application of an area effect or splash weapon within 1 round to the space where the wadirus collapsed. After any amount of area or splash damage is dealt to that space, the character dealing the damage must attempt a DC 15 Flat check. Each subsequent area or splash damage effect performed on the area reduces the DC of this flat check by 2, to a minimum of DC 5. If any of these flat checks succeed, none of the creatures escapes, and the wadirus is destroyed permanently. At the GM's discretion, clever means of trapping or otherwise detaining the vermin may extend the time allowed to finish off the wadirus."
+    desc: "  A wadirus's swarm is part of its true self. After defeating a wadirus, its swarm disperses, and 2d4 days later, one of the constituent creatures grows into a new wadirus if even a single one escapes. While the exact circumstances and surroundings determine how long the wadirus's foes have to dispatch the [[undefined]] creatures before they escape, usually its foes have only a single round. Typically, this requires the application of an area effect or splash weapon within 1 round to the space where the wadirus collapsed. After any amount of area or splash damage is dealt to that space, the character dealing the damage must attempt a DC 15 Flat check. Each subsequent area or splash damage effect performed on the area reduces the DC of this flat check by 2, to a minimum of DC 5. If any of these flat checks succeed, none of the creatures escapes, and the wadirus is destroyed permanently. At the GM's discretion, clever means of trapping or otherwise detaining the vermin may extend the time allowed to finish off the wadirus."
 
   - name: "Poison Skin"
     desc: "  Any time a creature touches the wadirus or hits it with an unarmed melee attack, and any time an adjacent creature hits it with a weapon attack, the creature is exposed to its wadirus poison."
@@ -79,7 +80,7 @@ attacks:
     desc: "DC 19, attack +11; __3rd __  _[[Spells/Animal Vision|Animal Vision (At Will)]]_, _[[Spells/Wall of Thorns|Wall of Thorns]]_; __2nd __  _[[Spells/Entangling Flora|Entangle]]_, _[[Spells/Fungal Infestation|Fungal Infestation]]_\n__Cantrips__  __(3rd)__ _[[Spells/Tangle Vine|Tanglefoot]]_"
 
   - name: "Wadirus Poison"
-    desc: " (poison) **Saving Throw** DC 20 Fortitude check\n**Maximum Duration** 6 rounds\n**Stage 1** 1d6 poison damage (1 round)\n**Stage 2** 1d8 poison damage and Enfeebled 1 (1 round)\n**Stage 3** 1d8 poison damage and Sickened 1 (1 round)\n**Stage 4** 1d8 poison damage and Sickened 2 (1 round); The sickened condition caused by wadirus poison can't be reduced or removed until the target is no longer affected by wadirus poison."
+    desc: " (poison) **Saving Throw** DC 20 Fortitude check\n\n**Maximum Duration** 6 rounds\n\n**Stage 1** 1d6 poison damage (1 round)\n\n**Stage 2** 1d8 poison damage and [[undefined]] (1 round)\n\n**Stage 3** 1d8 poison damage and [[undefined]] (1 round)\n\n**Stage 4** 1d8 poison damage and [[undefined]] (1 round); The sickened condition caused by wadirus poison can't be reduced or removed until the target is no longer affected by wadirus poison."
 
   - name: "Jump Kick"
     desc: "`pf2:2`  The wadirus Strides then Leaps. If it lands adjacent to a creature it can make a foot Strike against that creature. If the Strike is successful the creature is pushed 5 feet (10 feet on a critical success)."
@@ -87,6 +88,12 @@ attacks:
   - name: "Frog Swarm"
     desc: "`pf2:2`  The wadirus fills a 5-foot burst within 25 feet with its frog swarm. The frogs do no damage, but all creatures within this area when the wadirus moves it or at the start of their turn are exposed to wadirus poison. Once per turn, the wadirus can move the burst up to 25 feet or dissipate it with a single action, which has the concentrate trait. If the wadirus's frog swarm is ever more than 100 feet from the wadirus, it automatically dissipates. Once the frog swarm dissipates, the wadirus must use this action to send the swarm forth again. If it uses Frog Swarm before the swarm has dissipated, doing so dissipates the existing swarm before sending it forth once again."
  
+```
+
+```encounter-table
+name: Wadirus
+creatures:
+  - 1: Wadirus
 ```
 
 

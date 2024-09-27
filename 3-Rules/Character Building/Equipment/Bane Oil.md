@@ -13,7 +13,7 @@ license: OGL
 ---
 # Bane Oil
 ## Item 3
-### [uncommon](uncommon "Uncommon Rarity Trait")[[consumable]][[magical]][[oil]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[consumable]][[3-Rules/Rule References/Magical]][[oil]]
 
 **Category** oil; 
 **Price** 12 gp; 

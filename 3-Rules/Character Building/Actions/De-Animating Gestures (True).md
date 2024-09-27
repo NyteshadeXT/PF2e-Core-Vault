@@ -12,7 +12,7 @@ license: OGL
 ---
 # De-Animating Gestures (True) `pf2:1`
 
-### [[concentrate]][[manipulate]]
+### [[3-Rules/Rule References/Concentrate]][[3-Rules/Rule References/Manipulate]]
 
 **Category** offensive; 
 

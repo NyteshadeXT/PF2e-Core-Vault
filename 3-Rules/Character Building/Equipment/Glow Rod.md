@@ -14,7 +14,7 @@ license: ORC
 ---
 # Glow Rod
 ## Item 1
-### [[alchemical]][[consumable]][[3-Rules/Character Building/Spells/Light]]
+### [[alchemical]][[consumable]][[light]]
 
 **Category** other; 
 **Price** 3 gp; 

@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.pathfinder-monster-core.Actor.9InGpxq5xbbHaL9f"
 tags:
   - pf2e/creature/type/mindless
   - pf2e/creature/type/ooze
+  - pf2eMonster
   - pf2e/creature/level/1
   - remaster
 statblock: inline
@@ -26,8 +27,8 @@ level: "Creature 1"
 
 alignment: ""
 size: "Medium"
-trait_01: "mindless"
-trait_02: "ooze"
+trait_01: [[mindless]]
+trait_02: [[ooze]]
 modifier: 3
 perception:
   - name: "Perception"
@@ -35,7 +36,7 @@ perception:
 languages: ""
 skills:
   - name: "Skills"
-    desc: "Stealth: +1 (+4 in sewers)"
+    desc: "Stealth: +1"
 abilityMods: [2, -5, 4, -5, 0, -5]
 speed: 10 feet
 sourcebook: "_Pathfinder Monster Core_"
@@ -63,8 +64,14 @@ attacks:
     desc: "`pf2:1` Pseudopod +9 ()\n__Damage__  1d6 + 1 bludgeoning 1d4 acid"
 
   - name: "Filth Wave"
-    desc: "`pf2:1`  **Frequency** once per minute\n* * *\n\n**Effect** The sewer ooze unleashes a wave of filth, covering all creatures in a 20-foot emanation. Each creature in the area must succeed at a DC 17 Reflex check save or take 1d4 acid damage and take a –10-foot penalty to its Speeds for 1 minute (on a critical failure, the creature also falls [[Conditions/Prone|Prone]]).\n\nA creature can spend an Interact action to clean someone off, decreasing the Speed penalty by 5 feet with each action.\n\n[[Bestiary Effects/Effect_ Filth Wave|Effect: Filth Wave]]"
+    desc: "`pf2:1`  **Frequency** once per minute\n* * *\n\n**Effect** The sewer ooze unleashes a wave of filth, covering all creatures in a @Template[emanation|distance:20]. Each creature in the area must succeed at a DC 17 Reflex check save or take 1d4 acid damage and take a –10-foot penalty to its Speeds for 1 minute (on a critical failure, the creature also falls [[Conditions/Prone|Prone]]).\n\nA creature can spend an Interact action to clean someone off, decreasing the Speed penalty by 5 feet with each action.\n\n[[Bestiary Effects/Effect_ Filth Wave|Effect: Filth Wave]]"
  
+```
+
+```encounter-table
+name: Sewer Ooze
+creatures:
+  - 1: Sewer Ooze
 ```
 
 

@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.pathfinder-monster-core.Actor.irl1wnfk4b83JWkY"
 tags:
   - pf2e/creature/type/dragon
   - pf2e/creature/type/earth
+  - pf2eMonster
   - pf2e/creature/level/8
   - remaster
 statblock: inline
@@ -26,8 +27,8 @@ level: "Creature 8"
 
 alignment: ""
 size: "Large"
-trait_01: "dragon"
-trait_02: "earth"
+trait_01: [[dragon]]
+trait_02: [[earth]]
 modifier: 15
 perception:
   - name: "Perception"
@@ -72,7 +73,7 @@ attacks:
     desc: "`pf2:2`  The desert drake makes two Fangs Strikes and one Tail Strike in any order."
 
   - name: "Sandstorm Breath"
-    desc: "`pf2:2` (earth,primal) The desert drake spits a ball of abrasive sand with a range of 60 feet that explodes into a cloud with a 15-foot burst. Creatures in the area take 9d6 slashing damage (DC 27 Reflex check save).\n\nThe desert drake can't use Sandstorm Breath again for 1d6 rounds, during which the sandstorm lingers in the area. This lingering sandstorm grants [[Conditions/Concealed|Concealment]] to everything within it and conceals everything outside from them."
+    desc: "`pf2:2` (earth,primal) The desert drake spits a ball of abrasive sand with a range of 60 feet that explodes into a cloud with a @Template[burst|distance:15]. Creatures in the area take 9d6 slashing damage (DC 27 Reflex check save).\n\nThe desert drake can't use Sandstorm Breath again for 1d6 rounds, during which the sandstorm lingers in the area. This lingering sandstorm grants [[Conditions/Concealed|Concealment]] to everything within it and conceals everything outside from them."
 
   - name: "Speed Surge"
     desc: "`pf2:1` (move) **Frequency** three times per day\n* * *\n\n**Effect** The desert drake Strides or Flies twice."
@@ -83,6 +84,12 @@ attacks:
   - name: "[[Bestiary Ability Glossary/Push|Push]]"
     desc: "`pf2:1`  "
  
+```
+
+```encounter-table
+name: Desert Drake
+creatures:
+  - 1: Desert Drake
 ```
 
 

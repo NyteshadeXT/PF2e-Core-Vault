@@ -6,8 +6,9 @@ tags:
   - trait/archetype
   - trait/common
   - category/class
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.rNPeOwFZE5Ma18JJ"
-license: OGL
+license: ORC
 ---
 # Social Purview
 ## Feat 4
@@ -23,5 +24,5 @@ You have built a reputation for yourself in your social identity. Choose one arc
 
 These feats become part of your social identity and gain the social trait-for instance, a fighter vigilante could take the wizard dedication feat and have a wizard social identity. Using these feats in your social identity doesn't risk exposing your vigilante identity, but using them in your vigilante identity could put you at risk for exposure.
 
-*Source: Pathfinder Advanced Player's Guide*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

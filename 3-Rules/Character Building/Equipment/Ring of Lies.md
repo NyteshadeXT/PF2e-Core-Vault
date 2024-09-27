@@ -21,7 +21,7 @@ license: ORC
 
 This plain silver ring has an almost oily sheen. While wearing the ring, you gain a +2 item bonus to Deception checks.
 
-**Activate—Sweeten Lies**`pf2:2` (manipulate)
+**Activate—Sweeten Lies** `pf2:2` (manipulate)
 
 **Frequency** once per day
 

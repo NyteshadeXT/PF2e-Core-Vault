@@ -4,6 +4,7 @@ title: "Eradicate Undeath"
 noteType: pf2eSpell
 cssclasses: pf2e,pf2e-spell
 tags:
+  - pf2eSpell
   - spell/level/4
   - trait/cleric
   - trait/concentrate
@@ -11,21 +12,32 @@ tags:
   - trait/manipulate
   - trait/vitality
   - trait/uncommon
+
   - remaster
 aliases: "Compendium.pf2e.spells-srd.Item.J5MNC4xq3CHH31qT" 
+license: ORC
 ---
-# Eradicate Undeath  `pf2:2`  
-## Focus 4
-### [uncommon](uncommon "Uncommon Rarity Trait")[[cleric]][[concentrate]][[focus]][[manipulate]][[vitality]]
+```statblock
+name: "Eradicate Undeath  `pf2:2`"
+level: "Focus 4"
+rare_03: [[Uncommon]]
+trait_01: [[cleric]]
+trait_02: [[concentrate]]
+trait_03: [[focus]]
+trait_04: [[manipulate]]
+trait_05: [[vitality]]
+layout: Basic Pathfinder 2e Layout
+columns: 1
+columnWidth: x
+abilities_top:
+  - name: ""
 
-**Area** 30-foot cone
-**Saving Throw** basic fortitude
-* * * 
-A massive deluge of life energy causes the undead to fall apart. Each undead creature in the area takes 4d12 vitality damage.
-
-* * *
-
-**Heightened (+1)** The damage increases by 1d12.
-
-*Source: Pathfinder Player Core*
-*ORC*
+  - name: "Area"
+    desc: "30-foot cone"
+  - name: "Defense"
+    desc: "basic fortitude"
+abilities_mid:
+  - name: ""
+    desc: "A massive deluge of life energy causes the undead to fall apart. Each undead creature in the area takes 4d12 vitality damage.\n* * *\n\n**Heightened (+1)** The damage increases by 1d12."
+sourcebook: "_Pathfinder Player Core_"
+```

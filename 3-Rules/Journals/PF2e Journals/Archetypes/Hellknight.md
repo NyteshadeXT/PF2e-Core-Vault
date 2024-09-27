@@ -12,7 +12,7 @@ Hellknights are among the fiercest warriors in the Inner Sea region, as they hav
 
 ## Hellknight Archetypes
 
-The following archetypes represent fully inducted members of a Hellknight order. You can select the dedication feats for these archetypes even if you haven't yet gained three feats from the [[undefined]] archetype. A character can't have both the Hellknight and [[undefined]] archetypes.
+The following archetypes represent fully inducted members of a Hellknight order. You can select the dedication feats for these archetypes even if you haven't yet gained three feats from the [[Compendium.pf2e.journals.JournalEntry.vx5FGEG34AxI2dow.JournalEntryPage.ARYrFIOsT3JxpjDY]] archetype. A character can't have both the Hellknight and [[Compendium.pf2e.journals.JournalEntry.vx5FGEG34AxI2dow.JournalEntryPage.RxDsPgPCCxEdjcVQ]] archetypes.
 
 ## [[Feats/Hellknight Dedication|Hellknight Dedication]] Feat 6
 

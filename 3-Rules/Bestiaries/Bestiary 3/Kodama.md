@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/holy
   - pf2e/creature/type/kami
   - pf2e/creature/type/spirit
+  - pf2eMonster
   - pf2e/creature/level/5
 statblock: inline
 name: "Kodama"
@@ -27,15 +28,15 @@ level: "Creature 5"
 
 alignment: ""
 size: "Small"
-trait_01: "good"
-trait_02: "holy"
-trait_03: "kami"
-trait_04: "spirit"
+trait_01: [[good]]
+trait_02: [[holy]]
+trait_03: [[kami]]
+trait_04: [[spirit]]
 modifier: 16
 perception:
   - name: "Perception"
     desc: "+16; Darkvision"
-languages: "Common"
+languages: "Common; speak with plants, telepathy 50 feet"
 skills:
   - name: "Skills"
     desc: "Acrobatics: +11, Athletics: +11, Nature: +14, Stealth: +13, Survival: +14"
@@ -56,12 +57,12 @@ abilities_top:
   - name: "Items"
     desc: "Spiritual Rope"
   - name: "Ward"
-    desc: " (divine) Every kami is bound to a ward: a specific animal, plant, object, or location. A kami can merge with or emerge from their ward as a single action, which has the concentrate trait. While merged, the kami can observe their surroundings with their usual senses as well as the senses of their ward, but can't move, communicate with, or control their ward. Additionally, a kami merged with their ward recovers Hit Points each minute as if they spent an entire day resting.\nA kodama's ward is a specific tree."
+    desc: " (divine) Every kami is bound to a ward: a specific animal, plant, object, or location. A kami can merge with or emerge from their ward as a single action, which has the concentrate trait. While merged, the kami can observe their surroundings with their usual senses as well as the senses of their ward, but can't move, communicate with, or control their ward. Additionally, a kami merged with their ward recovers Hit Points each minute as if they spent an entire day resting.\n\nA kodama's ward is a specific tree."
 
 abilities_mid:
   - name: ""
   - name: "Distracting Gaze"
-    desc: " (aura,divine,visual) 30 feet. When a creature ends its turn in the aura, it must attempt a DC 23 Will check save. The kodama can activate or deactivate this aura by using a single action, which has the concentrate trait.\n**Success** The creature is unaffected.\n**Failure** The creature is [[Conditions/Fascinated|Fascinated]]. This condition ends if the creature ends its turn outside the aura.\n**Critical Failure** As failure, plus the creature is [[Conditions/Slowed 1|Slowed 1]] as long as it remains fascinated."
+    desc: " (aura,divine,visual) 30 feet. When a creature ends its turn in the aura, it must attempt a DC 23 Will check save. The kodama can activate or deactivate this aura by using a single action, which has the concentrate trait.\n* * *\n\n**Success** The creature is unaffected.\n\n**Failure** The creature is [[Conditions/Fascinated|Fascinated]]. This condition ends if the creature ends its turn outside the aura.\n\n**Critical Failure** As failure, plus the creature is [[Conditions/Slowed|Slowed 1]] as long as it remains fascinated."
 
 attacks:
   - name: ""
@@ -73,8 +74,14 @@ attacks:
     desc: "DC 23, attack +15; __5th __  _[[Spells/Nature's Pathway|Tree Stride]]_; __2nd __  _[[Spells/One with Plants|Tree Shape]]_\n__Cantrips__  __(3rd)__ _[[Spells/Ghost Sound|Ghost Sound]]_\n__Constant__  __(4th)__ _[[Spells/Speak with Plants|Speak with Plants]]_"
 
   - name: "Spiritual Rope"
-    desc: " (divine) The kodama spends 1 minute to fashion an enchanted straw rope out of nearby materials. The rope can be wrapped around other kami creatures to protect them from fell forces.\nA kami who wears a _spiritual rope_ gains resistance 5 to unholy, a +1 status bonus to AC against evil creatures, and a +1 status bonus to saving throws against effects from evil creatures.\nA kodama always wears a _spiritual rope_, and they can have one other _spiritual rope_ in existence at a time. Creating a new rope beyond these two releases the magic of one other rope of the kodama's choosing. A _spiritual rope_ around a creature other than a kodama loses its magic after 24 hours or if it's taken outside of the kodama's forest."
+    desc: " (divine) The kodama spends 1 minute to fashion an enchanted straw rope out of nearby materials. The rope can be wrapped around other kami creatures to protect them from fell forces.\n\nA kami who wears a _spiritual rope_ gains resistance 5 to unholy, a +1 status bonus to AC against evil creatures, and a +1 status bonus to saving throws against effects from evil creatures.\n\nA kodama always wears a _spiritual rope_, and they can have one other _spiritual rope_ in existence at a time. Creating a new rope beyond these two releases the magic of one other rope of the kodama's choosing. A _spiritual rope_ around a creature other than a kodama loses its magic after 24 hours or if it's taken outside of the kodama's forest."
  
+```
+
+```encounter-table
+name: Kodama
+creatures:
+  - 1: Kodama
 ```
 
 

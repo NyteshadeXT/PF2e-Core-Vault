@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.kingmaker-bestiary.Actor.Awlsx9BtgkQ39x6N"
 tags:
   - pf2e/creature/type/human
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/7
 statblock: inline
 name: "Aldori Sister"
@@ -21,11 +22,11 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Kingmaker"
 name: "Aldori Sister"
 level: "Creature 7"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Medium"
-trait_01: "human"
-trait_02: "humanoid"
+trait_01: [[human]]
+trait_02: [[humanoid]]
 modifier: 17
 perception:
   - name: "Perception"
@@ -33,7 +34,7 @@ perception:
 languages: "Common"
 skills:
   - name: "Skills"
-    desc: "Forest Lore: +13, Medicine: +15, Nature: +17, Stealth: +17, Survival: +17"
+    desc: "Medicine: +15, Nature: +17, Stealth: +17, Survival: +17, Forest Lore: +13"
 abilityMods: [4, 4, 2, 1, 4, 0]
 speed: 25 feet
 sourcebook: "_Pathfinder Kingmaker_"
@@ -68,8 +69,14 @@ attacks:
     desc: "`pf2:1` Composite Longbow +18 (deadly d10, magical, propulsive, range increment 100 feet, reload 0, volley 30 ft.)\n__Damage__  1d8 + 8 piercing"
 
   - name: "Hunt Prey"
-    desc: "`pf2:1` (concentrate) The hunter designates a single creature they can see and hear, or one they're Tracking, as their prey. The hunter gains a +2 circumstance bonus to Perception checks to [[Actions/Seek|Seek]] the prey and to Survival checks to [[Actions/Track|Track]] the prey.\nThe first time the hunter hits the designated prey in a round, they deal an additional 1d8 precision damage. The hunter also ignores the penalty for making ranged attacks within their second range increment.\nThese effects last until the hunter uses Hunt Prey again."
+    desc: "`pf2:1` (concentrate) The hunter designates a single creature they can see and hear, or one they're Tracking, as their prey. The hunter gains a +2 circumstance bonus to Perception checks to [[Actions/Seek|Seek]] the prey and to Survival checks to [[Actions/Track|Track]] the prey.\n\nThe first time the hunter hits the designated prey in a round, they deal an additional 1d8 precision damage. The hunter also ignores the penalty for making ranged attacks within their second range increment.\n\nThese effects last until the hunter uses Hunt Prey again."
  
+```
+
+```encounter-table
+name: Aldori Sister
+creatures:
+  - 1: Aldori Sister
 ```
 
 

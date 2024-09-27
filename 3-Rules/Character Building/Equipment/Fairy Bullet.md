@@ -14,7 +14,7 @@ license: OGL
 ---
 # Fairy Bullet
 ## Item 7
-### [uncommon](uncommon "Uncommon Rarity Trait")[[alchemical]][[consumable]][[fey]][[magical]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[alchemical]][[consumable]][[fey]][[3-Rules/Rule References/Magical]]
 
 **Category** ammo; 
 **Price** 65 gp; 
@@ -25,7 +25,9 @@ license: OGL
 
 **Activate** `pf2:2` command, envision
 
-These bullets are seaweed-green, refract light like an emerald, and are covered in a thin film of gray-green powder. When fired, a fairy bullet creates an effect that functions as the [[Spells/Revealing Light|Revealing Light]] spell in a line between you and your target. This line can be no more than 60 feet long, so if the target is more than 60 feet away from you, the line simply ends after reaching its maximum distance. Since the _fairy bullet_ is fired before the _glitterdust_ can reveal the target, the effects don't affect the flat check for the attack roll with the _fairy bullet_.
+* * *
+
+These bullets glimmer with emerald green light that dances across the surface of the bullet like a mischievous sprite. On a successful Strike, a _fairy bullet_ casts [[Spells/Revealing Light|Revealing Light]] (DC 23) extending outward from a corner of the target's space. You choose which corner of the target's space you want the burst to extend out from at the time you declare the associated Strike. Since the _fairy bullet_ is fired before _revealing light_ can reveal the target, the effects don't affect the flat check for the attack roll with the _fairy bullet_ if the target is [[Conditions/Hidden|Hidden]] from you.
 
 *Source: Pathfinder Guns & Gears*
 *OGL*

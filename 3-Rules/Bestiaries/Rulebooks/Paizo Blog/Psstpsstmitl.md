@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.blog-bestiary.Actor.h3qZZZ5PCbY87HZ4"
 tags:
   - pf2e/creature/type/animal
   - pf2e/creature/type/chaotic
+  - pf2eMonster
   - pf2e/creature/level/21
 statblock: inline
 name: "Psstpsstmitl"
@@ -24,12 +25,13 @@ level: "Creature 21"
 
 alignment: ""
 size: "grg"
-trait_01: "animal"
-trait_02: "chaotic"
+trait_01: [[animal]]
+trait_02: [[chaotic]]
 modifier: 38
 perception:
   - name: "Perception"
     desc: "+38; "
+languages: ""
 skills:
   - name: "Skills"
     desc: "Acrobatics: +40, Athletics: +38, Stealth: +36"
@@ -69,11 +71,17 @@ attacks:
     desc: "  The psstpsstmitl deals 2d6 extra precision damage to [[Conditions/Off-Guard|Off-Guard]] creatures"
 
   - name: "Topple"
-    desc: "`pf2:2`  The psstpsstmitl swipes one giant paw across the battlefield in a 30-foot cone. All creatures in the cone must attempt a Reflex save.\n**Critical Success** The target is unaffected.\n**Success** The target is pushed 10 feet away from the psstpsstmitl and is knocked [[Conditions/Prone|Prone]]\n**Failure** The target is pushed 20 feet away from the psstpsstmitl and is knocked prone.\n**Critical Failure** As failure, and the target is [[Conditions/Stunned 1|Stunned 2]]"
+    desc: "`pf2:2`  The psstpsstmitl swipes one giant paw across the battlefield in a @Template[cone|distance:30]. All creatures in the cone must attempt a Reflex save.\n* * *\n\n**Critical Success** The target is unaffected.\n\n**Success** The target is pushed 10 feet away from the psstpsstmitl and is knocked [[Conditions/Prone|Prone]]\n\n**Failure** The target is pushed 20 feet away from the psstpsstmitl and is knocked prone.\n\n**Critical Failure** As failure, and the target is [[Conditions/Stunned|Stunned 2]]"
 
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
     desc: "`pf2:1`  "
  
+```
+
+```encounter-table
+name: Psstpsstmitl
+creatures:
+  - 1: Psstpsstmitl
 ```
 
 

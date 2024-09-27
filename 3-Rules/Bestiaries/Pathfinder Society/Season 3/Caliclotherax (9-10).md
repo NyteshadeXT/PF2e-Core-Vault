@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/earth
   - pf2e/creature/type/elemental
   - pf2e/creature/type/good
+  - pf2eMonster
   - pf2e/creature/level/11
 statblock: inline
 name: "Caliclotherax (9-10)"
@@ -23,13 +24,13 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Society Scenario #3-15: Cavern of Sundered Songs"
 name: "Caliclotherax (9-10)"
 level: "Creature 11"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "huge"
-trait_01: "dragon"
-trait_02: "earth"
-trait_03: "elemental"
-trait_04: "good"
+trait_01: [[dragon]]
+trait_02: [[earth]]
+trait_03: [[elemental]]
+trait_04: [[good]]
 modifier: 20
 perception:
   - name: "Perception"
@@ -56,10 +57,10 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "[[Bestiary Ability Glossary/Frightful Presence|Frightful Presence]]"
-    desc: " (aura,emotion,fear,mental) 90 feet. DC 30 Will check\n"
+    desc: " (aura,emotion,fear,mental) 90 feet. DC 30 Will check\n\n* * *\n"
 
   - name: "Twisting Tail"
-    desc: "`pf2:r` (move) **Trigger** A creature within reach of the dragon's tail uses a move action or leaves a square during a move action it's using\n**Effect** The dragon makes a tail Strike at the creature with a -2 penalty. If it hits, the dragon disrupts the creature's action."
+    desc: "`pf2:r` (move) **Trigger** A creature within reach of the dragon's tail uses a move action or leaves a square during a move action it's using\n* * *\n\n**Effect** The dragon makes a tail Strike at the creature with a -2 penalty. If it hits, the dragon disrupts the creature's action."
 
 attacks:
   - name: ""
@@ -77,10 +78,10 @@ attacks:
     desc: "DC 30, attack +22; __3rd __  _[[Spells/Dizzying Colors|Color Spray (x3)]]_, _[[Spells/Revealing Light|Glitterdust]]_, _[[Spells/Hypnotize|Hypnotic Pattern]]_\n__Cantrips__  __(6th)__ _[[Compendium.pf2e.spells-srd.Item.kl2q6JvBZwed4B6v|Dancing Lights]]_"
 
   - name: "Breath Weapon"
-    desc: "`pf2:2` (primal) The dragon breathes a flurry of piercing crystals that deal 12d6 piercing damage in a 40-foot cone (DC 30 Reflex check save).\nThey can't use Breath Weapon again for 1d4 rounds."
+    desc: "`pf2:2` (primal) The dragon breathes a flurry of piercing crystals that deal 12d6 piercing damage in a @Template[cone|distance:40] (DC 30 Reflex check save).\n\nThey can't use Breath Weapon again for 1d4 rounds."
 
   - name: "Crystallize Flesh"
-    desc: " (incapacitation,primal) **Trigger** The crystal dragon damages a creature made of flesh with a jaws Strike\n**Frequency** once per day\n**Effect** The dragon embeds transformative crystals in the creature's flesh. The creature must attempt a DC 30 Fortitude check save.\n**Critical Success** The target is unaffected.\n**Success** The target is [[Conditions/Slowed 1|Slowed 1]] for 1 round as portions of its flesh turn crystalline.\n**Failure** The target is [[Conditions/Slowed 1|Slowed 1]] and must attempt a Fortitude save at the end of each of its turns; this ongoing save has the incapacitation trait. On a failed save, the slowed condition value increases by 1 (or by 2 on a critical failure). A successful save reduces the slowed condition value by 1. A creature unable to act due to the slowed condition from Crystallize Flesh is [[Conditions/Petrified|Petrified]] permanently, transforming into a crystalline statue. The effect ends if the creature is petrified or the slowed condition is removed.\n**Critical Failure** As failure, but the target is initially [[Conditions/Slowed 1|Slowed 2]]."
+    desc: " (incapacitation,primal) **Trigger** The crystal dragon damages a creature made of flesh with a jaws Strike\n\n**Frequency** once per day\n* * *\n\n**Effect** The dragon embeds transformative crystals in the creature's flesh. The creature must attempt a DC 30 Fortitude check save.\n* * *\n\n**Critical Success** The target is unaffected.\n\n**Success** The target is [[Conditions/Slowed|Slowed 1]] for 1 round as portions of its flesh turn crystalline.\n\n**Failure** The target is [[Conditions/Slowed|Slowed 1]] and must attempt a Fortitude save at the end of each of its turns; this ongoing save has the incapacitation trait. On a failed save, the slowed condition value increases by 1 (or by 2 on a critical failure). A successful save reduces the slowed condition value by 1. A creature unable to act due to the slowed condition from Crystallize Flesh is [[Conditions/Petrified|Petrified]] permanently, transforming into a crystalline statue. The effect ends if the creature is petrified or the slowed condition is removed.\n\n**Critical Failure** As failure, but the target is initially [[Conditions/Slowed|Slowed 2]]."
 
   - name: "Draconic Frenzy"
     desc: "`pf2:2`  The dragon makes two claw Strikes and one tail Strike in any order."
@@ -88,6 +89,12 @@ attacks:
   - name: "Draconic Momentum"
     desc: "  The dragon recharges their Breath Weapon whenever they critically hit with a Strike."
  
+```
+
+```encounter-table
+name: Caliclotherax (9-10)
+creatures:
+  - 1: Caliclotherax (9-10)
 ```
 
 

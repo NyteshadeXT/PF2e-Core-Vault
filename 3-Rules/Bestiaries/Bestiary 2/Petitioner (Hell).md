@@ -10,6 +10,7 @@ tags:
   - pf2e/creature/type/lawful
   - pf2e/creature/type/petitioner
   - pf2e/creature/type/unholy
+  - pf2eMonster
   - pf2e/creature/level/1
 statblock: inline
 name: "Petitioner (Hell)"
@@ -28,11 +29,11 @@ level: "Creature 1"
 
 alignment: ""
 size: "Medium"
-trait_01: "evil"
-trait_02: "fiend"
-trait_03: "lawful"
-trait_04: "petitioner"
-trait_05: "unholy"
+trait_01: [[evil]]
+trait_02: [[fiend]]
+trait_03: [[lawful]]
+trait_04: [[petitioner]]
+trait_05: [[unholy]]
 modifier: 7
 perception:
   - name: "Perception"
@@ -65,8 +66,14 @@ attacks:
     desc: "`pf2:1` Jaws +7 (unholy)\n__Damage__  1d8 + 2 piercing"
 
   - name: "Planar Incarnation - Hell"
-    desc: " (fire) All petitioners are formed from and personify the nature of the plane on which they manifest, and their statistics are adjusted as summarized below. They also gain any trait associated with creatures from their plane.\n**Hell** The damned look like terribly scarred or mutilated versions of their mortal selves\n*   **Alignment** LE;\n*   **Language** Infernal;\n*   **Additional Ability** immune to fire;\n*   **Melee** jaws +7, **Damage** 1d8+2 piercing"
+    desc: " (fire) All petitioners are formed from and personify the nature of the plane on which they manifest, and their statistics are adjusted as summarized below. They also gain any trait associated with creatures from their plane.\n\n**Hell** The damned look like terribly scarred or mutilated versions of their mortal selves\n\n*   **Alignment** LE;\n*   **Language** Infernal;\n*   **Additional Ability** immune to fire;\n*   **Melee** jaws +7, **Damage** 1d8+2 piercing"
  
+```
+
+```encounter-table
+name: Petitioner (Hell)
+creatures:
+  - 1: Petitioner (Hell)
 ```
 
 

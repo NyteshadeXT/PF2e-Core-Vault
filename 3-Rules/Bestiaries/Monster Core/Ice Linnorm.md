@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.pathfinder-monster-core.Actor.Np5Z7RMQzvSNnH0h"
 tags:
   - pf2e/creature/type/cold
   - pf2e/creature/type/dragon
+  - pf2eMonster
   - pf2e/creature/level/17
   - remaster
 statblock: inline
@@ -23,11 +24,11 @@ token: [[modules/pf2e-tokens-bestiaries/portraits/draconic/linnorms/ice-linnorm.
 source: "Pathfinder Monster Core"
 name: "Ice Linnorm"
 level: "Creature 17"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "grg"
-trait_01: "cold"
-trait_02: "dragon"
+trait_01: [[cold]]
+trait_02: [[dragon]]
 modifier: 29
 perception:
   - name: "Perception"
@@ -75,14 +76,20 @@ attacks:
     desc: "DC 38, attack +30\n__Constant__  __(8th)__ _[[Spells/Unfettered Movement|Unfettered Movement]]_ __(7th)__ _[[Spells/Truesight|Truesight]]_"
 
   - name: "[[Bestiary Ability Glossary/Constrict|Constrict]]"
-    desc: "`pf2:1`  2d6 + 18 bludgeoning, DC 38 Fortitude check\n\n* * *\n"
+    desc: "`pf2:1`  2d6+18 bludgeoning, DC 38 Fortitude check\n\n* * *\n"
 
   - name: "Ice Linnorm Venom"
-    desc: " (cold,injury,poison) **Saving Throw** DC 38 Fortitude check\n* * *\n\n**Maximum Duration** 10 rounds\n\n**Stage 1** 5d6 cold damage and [[Conditions/Drained 1|Drained 1]] (1 round);\n\n**Stage 2** 7d6 cold damage and [[Conditions/Drained 1|Drained 2]] (1 round)"
+    desc: " (cold,injury,poison) **Saving Throw** DC 38 Fortitude check\n* * *\n\n**Maximum Duration** 10 rounds\n\n**Stage 1** 5d6 cold damage and [[Conditions/Drained|Drained 1]] (1 round);\n\n**Stage 2** 7d6 cold damage and [[Conditions/Drained|Drained 2]] (1 round)"
 
   - name: "Icemire Breath"
-    desc: "`pf2:2` (cold,primal) The ice linnorm spews out a blast of freezing, viscous ooze in a 60-foot cone that deals 15d6 cold damage to creatures within the area (DC 38 Reflex check save).\n\nThe freezing ooze clings to those struck and hardens into thick sheets of ice. A creature that fails the saving throw is [[Conditions/Immobilized|Immobilized]] by the ice until it succeeds at a check to [[/act escape dc=34]] or it or an ally [[/act force-open dc=34]]{Forces Open} the ice (DC 34 for either case). At the start of its turn, a creature still immobilized by the ice takes 4d6 cold damage. Another creature can free a frozen target by dealing a total of 20 fire damage to the frozen target. Left unattended, the ice crumbles away in 1 minute on its own.\n\nCreatures with the fire trait can't be frozen in place by Icemire Breath. Flying creatures fall if frozen, and swimming creatures that are frozen rise toward the surface of the water at a speed of 60 feet per round.\n\nThe linnorm can't use Icemire Breath again for 1d4 rounds."
+    desc: "`pf2:2` (cold,primal) The ice linnorm spews out a blast of freezing, viscous ooze in a @Template[cone|distance:60] that deals 15d6 cold damage to creatures within the area (DC 38 Reflex check save).\n\nThe freezing ooze clings to those struck and hardens into thick sheets of ice. A creature that fails the saving throw is [[Conditions/Immobilized|Immobilized]] by the ice until it succeeds at a check to [[/act escape dc=34]] or it or an ally [[/act force-open dc=34]]{Forces Open} the ice (DC 34 for either case). At the start of its turn, a creature still immobilized by the ice takes 4d6 cold damage. Another creature can free a frozen target by dealing a total of 20 fire damage to the frozen target. Left unattended, the ice crumbles away in 1 minute on its own.\n\nCreatures with the fire trait can't be frozen in place by Icemire Breath. Flying creatures fall if frozen, and swimming creatures that are frozen rise toward the surface of the water at a speed of 60 feet per round.\n\nThe linnorm can't use Icemire Breath again for 1d4 rounds."
  
+```
+
+```encounter-table
+name: Ice Linnorm
+creatures:
+  - 1: Ice Linnorm
 ```
 
 

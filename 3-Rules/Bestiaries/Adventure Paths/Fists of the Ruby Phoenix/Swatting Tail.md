@@ -4,6 +4,7 @@ obsidianUIMode: preview
 noteType: pf2eHazard
 tags:
   - kaiju
+  - pf2eHazard
 
 source: Pathfinder #167: Ready? Fight!
 aliases: "Compendium.pf2e.fists-of-the-ruby-phoenix-bestiary.Actor.8jNxwdzrSMFyoHJ5" 
@@ -21,13 +22,13 @@ name: "Swatting Tail"
 level: "Hazard 18"
 
 
-trait_01: "kaiju"
+trait_01: [[kaiju]]
 modifier: 0
 sourcebook: "_Pathfinder #167: Ready? Fight!_"
 ac: 10
 armorclass:
   - name: AC
-    desc: "10; __Fort__ +0, __Ref__ +0, __Will__ +0"
+    desc: "10; "
 hp: 10
 health:
   - name: ""
@@ -40,7 +41,7 @@ perception:
 abilities_top:
   - name: ""
   - name: "Description"
-    desc: "Mogaru's tail sweeps forth, causing an arc of devastation in a 60-foot cone."
+    desc: "Mogaru's tail sweeps forth, causing an arc of devastation in a @Template[cone|distance:60]."
 abilities_mid:
   - name: ""
   - name: "Disable"
@@ -49,10 +50,16 @@ attacks:
   - name: ""
 
   - name: "Tail Swat"
-    desc: "`pf2:r` **Trigger** A creature takes a hostile action against Mogaru, produces a visible area effect, or flies within 120 feet of Mogaru\n**Effect** Creatures in the area must succeed at a DC 40 Reflex check save or take 6d10 + 28 bludgeoning damage.\n**Critical Success** The creature is unaffected.\n**Success** The creature takes half damage and is pushed 20 feet away. If flying, it descends 20 feet.\n**Failure** The creature takes full damage, is pushed 40 feet, and descends 60 feet (if flying) or is knocked [[Conditions/Prone|Prone]].\n**Critical Failure** The creature takes double damage, is pushed 60 feet away, descends 120 feet (if flying) or is knocked prone, and is [[Conditions/Stunned 1|Stunned 2]]."
+    desc: "`pf2:r` **Trigger** A creature takes a hostile action against Mogaru, produces a visible area effect, or flies within 120 feet of Mogaru\n* * *\n\n**Effect** Creatures in the area must succeed at a DC 40 Reflex check save or take 6d10+28 bludgeoning damage.\n* * *\n\n**Critical Success** The creature is unaffected.\n\n**Success** The creature takes half damage and is pushed 20 feet away. If flying, it descends 20 feet.\n\n**Failure** The creature takes full damage, is pushed 40 feet, and descends 60 feet (if flying) or is knocked [[Conditions/Prone|Prone]].\n\n**Critical Failure** The creature takes double damage, is pushed 60 feet away, descends 120 feet (if flying) or is knocked prone, and is [[Conditions/Stunned|Stunned 2]]."
 
 
   - name: "Reset"
     desc: "Mogaru doesn't swat his tail again for 1d4 rounds."
+```
+
+```encounter-table
+name: Swatting Tail
+creatures:
+  - 1: Swatting Tail
 ```
 

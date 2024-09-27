@@ -3,6 +3,7 @@ obsidianUIMode: preview
 title: "Enigma Mirror (Major)"
 cssclasses: pf2e,pf2e-spell
 tags:
+  - trait/illusion
   - trait/magical
   - trait/spellheart
   - trait/common
@@ -11,7 +12,7 @@ license: OGL
 ---
 # Enigma Mirror (Major)
 ## Item 13
-### [[magical]][[spellheart]]
+### [[illusion]][[3-Rules/Rule References/Magical]][[spellheart]]
 
 
 **Price** 2750 gp; 

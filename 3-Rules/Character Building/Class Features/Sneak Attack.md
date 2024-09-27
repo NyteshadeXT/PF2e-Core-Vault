@@ -12,7 +12,7 @@ license: ORC
 ---
 # Sneak Attack
 ## Feat 1
-### [[rogue]]
+### [[3-Rules/trait_reference/rogue]]
 
 **Category** classfeature; 
 

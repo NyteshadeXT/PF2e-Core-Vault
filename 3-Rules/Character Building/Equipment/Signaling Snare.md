@@ -9,8 +9,9 @@ tags:
   - trait/trap
   - trait/common
   - category/snare
+  - remaster
 aliases: "Compendium.pf2e.equipment-srd.Item.XcD8p1o71tPohZWT"
-license: OGL
+license: ORC
 ---
 # Signaling Snare
 ## Item 1
@@ -23,5 +24,5 @@ license: OGL
 
 A subtle snare used in hunting or tracking, a signaling snare often consists of carefully prepared earth, piled sand or stones, specific arrangements of vegetation, and so forth. When a creature enters a square of a signaling snare, nothing happens to the creature, but instead it causes a small, unobtrusive disruption to the terrain that allows the snare's creator or another creature who knows what to look for to determine whether a creature of the appropriate size entered the square.
 
-*Source: Pathfinder Core Rulebook*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

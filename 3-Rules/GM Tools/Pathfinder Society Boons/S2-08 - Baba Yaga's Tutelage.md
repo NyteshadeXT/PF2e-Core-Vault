@@ -23,7 +23,7 @@ After journeying into Irrisen, you attracted the attention of Baba Yaga, who has
 
 **Option 2** The character can also elect not to take Baba Yaga as a patron, in which case they still gain access to the lesson of the frozen queen major lesson and the [[Spells/Glacial Heart|Glacial Heart]] hex.
 
-**Character chosen** -20\_\_\_\_\_\_\_\_\_
+**Character chosen** -20_________
 
 *Source: *
 *OGL*

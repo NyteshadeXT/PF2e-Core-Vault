@@ -10,6 +10,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/fiend
   - pf2e/creature/type/unholy
+  - pf2eMonster
   - pf2e/creature/level/1
 statblock: inline
 name: "Quasit"
@@ -28,16 +29,16 @@ level: "Creature 1"
 
 alignment: ""
 size: "tiny"
-trait_01: "chaotic"
-trait_02: "demon"
-trait_03: "evil"
-trait_04: "fiend"
-trait_05: "unholy"
+trait_01: [[chaotic]]
+trait_02: [[demon]]
+trait_03: [[evil]]
+trait_04: [[fiend]]
+trait_05: [[unholy]]
 modifier: 7
 perception:
   - name: "Perception"
     desc: "+7; Darkvision"
-languages: "Chthonian, Common"
+languages: "Chthonian, Common; telepathy (touch)"
 skills:
   - name: "Skills"
     desc: "Acrobatics: +7, Arcana: +4, Deception: +7, Intimidation: +5, Religion: +5, Stealth: +7"
@@ -74,17 +75,23 @@ attacks:
     desc: "DC 17, attack +9; __4th __  _[[Spells/Read Omens|Read Omens]]_; __2nd __  _[[Spells/Detect Alignment|Detect Alignment (At Will) (Good Only)]]_, _[[Spells/Invisibility|Invisibility (At Will) (Self Only)]]_; __1st __  _[[Spells/Fear|Fear]]_\n__Cantrips__  __(1st)__ _[[Spells/Detect Magic|Detect Magic]]_"
 
   - name: "Abyssal Healing"
-    desc: "`pf2:1` (concentrate,divine,healing) **Frequency** once per round\n**Effect** The quasit restores 1d6 HP to itself."
+    desc: "`pf2:1` (concentrate,divine,healing) **Frequency** once per round\n* * *\n\n**Effect** The quasit restores 1d6 HP to itself."
 
   - name: "[[Bestiary Ability Glossary/Change Shape|Change Shape]]"
-    desc: "`pf2:1` (concentrate,divine,polymorph) *   **Bat**\n    *   **Senses** Echolocation 40 feet\n    *   **Speed** 15 feet, fly 30 feet\n    *   **Melee** fangs +7, **Damage** 1d4-1 piercing damage\n    *   **Melee** wing +7 (agile), **Damage** 1d4-1 bludgeoning damage\n*   **Centipede**\n    *   **Speed** 10 feet, climb 10 feet\n    *   **Melee** mandibles +7 (poison), **Damage** 1 piercing damage + 1d4 poison damage\n*   **Toad**\n    *   **Senses** [[Bestiary Ability Glossary/Scent|Scent]] (Imprecise) 30 feet\n    *   **Speed** 5 feet\n    *   **Melee** jaws +7, **Damage** 1 bludgeoning damage\n*   **Wolf**\n    *   **Size** Medium\n    *   **Senses** [[Bestiary Ability Glossary/Scent|Scent]] (Imprecise) 30 feet\n    *   **Speed** 40 feet, climb 10 feet\n    *   **Melee** jaws +7, **Damage** 1d10-1 piercing damage plus [[Bestiary Ability Glossary/Knockdown|Knockdown]]\n"
+    desc: "`pf2:1` (concentrate,divine,polymorph) *   **Bat**\n    *   **Senses** Echolocation 40 feet\n    *   **Speed** 15 feet, fly 30 feet\n    *   **Melee** fangs +7, **Damage** 1d4-1 piercing damage\n    *   **Melee** wing +7 (agile), **Damage** 1d4-1 bludgeoning damage\n*   **Centipede**\n    *   **Speed** 10 feet, climb 10 feet\n    *   **Melee** mandibles +7 (poison), **Damage** 1 piercing damage + 1d4 poison damage\n*   **Toad**\n    *   **Senses** [[Bestiary Ability Glossary/Scent|Scent]] (Imprecise) 30 feet\n    *   **Speed** 5 feet\n    *   **Melee** jaws +7, **Damage** 1 bludgeoning damage\n*   **Wolf**\n    *   **Size** Medium\n    *   **Senses** [[Bestiary Ability Glossary/Scent|Scent]] (Imprecise) 30 feet\n    *   **Speed** 40 feet, climb 10 feet\n    *   **Melee** jaws +7, **Damage** 1d10-1 piercing damage plus [[Bestiary Ability Glossary/Knockdown|Knockdown]]\n\n* * *\n"
 
   - name: "Quasit Venom"
-    desc: " (poison) **Saving Throw** DC 17 Fortitude check\n**Maximum Duration** 6 rounds\n**Stage 1** 1d6 poison damage (1 round)\n**Stage 2** 1d6 poison damage (1 round)\n**Stage 3** 1d6 poison damage and [[Conditions/Slowed 1|Slowed 1]] (1 round)"
+    desc: " (poison) **Saving Throw** DC 17 Fortitude check\n* * *\n\n**Maximum Duration** 6 rounds\n\n**Stage 1** 1d6 poison damage (1 round)\n\n**Stage 2** 1d6 poison damage (1 round)\n\n**Stage 3** 1d6 poison damage and [[Conditions/Slowed|Slowed 1]] (1 round)"
 
   - name: "[[Bestiary Ability Glossary/Knockdown|Knockdown (Wolf Form)]]"
     desc: "`pf2:1`  "
  
+```
+
+```encounter-table
+name: Quasit
+creatures:
+  - 1: Quasit
 ```
 
 

@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/human
   - pf2e/creature/type/humanoid
   - pf2e/creature/type/lawful
+  - pf2eMonster
   - pf2e/creature/level/12
 statblock: inline
 name: "Black Whale Guard (F3)"
@@ -22,12 +23,12 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #161: Belly of the Black Whale"
 name: "Black Whale Guard (F3)"
 level: "Creature 12"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Medium"
-trait_01: "human"
-trait_02: "humanoid"
-trait_03: "lawful"
+trait_01: [[human]]
+trait_02: [[humanoid]]
+trait_03: [[lawful]]
 modifier: 23
 perception:
   - name: "Perception"
@@ -35,7 +36,7 @@ perception:
 languages: "Common"
 skills:
   - name: "Skills"
-    desc: "Athletics: +23, Games Lore: +17, Intimidation: +24"
+    desc: "Athletics: +23, Intimidation: +24, Games Lore: +17"
 abilityMods: [5, 3, 5, -1, 0, 4]
 speed: 20 feet
 sourcebook: "_Pathfinder #161: Belly of the Black Whale_"
@@ -55,15 +56,15 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "No Escape"
-    desc: "`pf2:r`  **Trigger** An enemy within reach of the Black Whale guard attempts to move away\n**Effect** The guard Strides up to their Speed, following the enemy and keeping the enemy in reach throughout its movement until the enemy stops moving or the guard moves their full Speed."
+    desc: "`pf2:r`  **Trigger** An enemy within reach of the Black Whale guard attempts to move away\n* * *\n\n**Effect** The guard Strides up to their Speed, following the enemy and keeping the enemy in reach throughout its movement until the enemy stops moving or the guard moves their full Speed."
 
 attacks:
   - name: ""
 
-  - name: "Melee"
+  - name: "Ranged"
     desc: "`pf2:1` Club +24 (thrown 10 ft.)\n__Damage__  1d6 + 11 bludgeoning"
 
-  - name: "Melee"
+  - name: "Ranged"
     desc: "`pf2:1` Nightmare Cudgel +25 (thrown 10 ft.)\n__Damage__  2d6 + 11 acid"
 
   - name: "Melee"
@@ -79,11 +80,17 @@ attacks:
     desc: "`pf2:2`  The guard makes three club Strikes against a single target, ignoring the multiple attack penalty until after all three attacks are completed."
 
   - name: "Nightmare Assault"
-    desc: "`pf2:2`  **Frequency** Once per day\nThe prison guard makes a club Strike. On a hit, the target must attempt a DC 36 Will check save.\n**Critical Success** The target is unaffected and becomes immune to this ability for 24 hours.\n**Success** The target is unaffected.\n**Failure** The target is plagued by nightmarish visiona and becomes fatigued.\n**Critical Failure** The target becomes [[Conditions/Fatigued|Fatigued]] and is [[Conditions/Drained 1|Drained 2]] until no longer fatigued"
+    desc: "`pf2:2`  **Frequency** Once per day\n* * *\n\nThe prison guard makes a club Strike. On a hit, the target must attempt a DC 36 Will check save.\n* * *\n\n**Critical Success** The target is unaffected and becomes immune to this ability for 24 hours.\n\n**Success** The target is unaffected.\n\n**Failure** The target is plagued by nightmarish visiona and becomes fatigued.\n\n**Critical Failure** The target becomes [[Conditions/Fatigued|Fatigued]] and is [[Conditions/Drained|Drained 2]] until no longer fatigued"
 
   - name: "Shatter Defenses"
-    desc: "`pf2:1` (press) **Requirements** A frightened creature is within melee reach of the Black Whale guard\n**Effect** The guard makes a melee Strike against the frightened creature. If they hit and deal damage, the target becomes off-guard as long as it's frightened. If the target is already off-guard, it can't reduce its frightened value below 1 until the start of the guard's next turn."
+    desc: "`pf2:1` (press) **Requirements** A frightened creature is within melee reach of the Black Whale guard\n* * *\n\n**Effect** The guard makes a melee Strike against the frightened creature. If they hit and deal damage, the target becomes off-guard as long as it's frightened. If the target is already off-guard, it can't reduce its frightened value below 1 until the start of the guard's next turn."
  
+```
+
+```encounter-table
+name: Black Whale Guard (F3)
+creatures:
+  - 1: Black Whale Guard (F3)
 ```
 
 

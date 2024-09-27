@@ -55,9 +55,9 @@ The weapon deals an additional 2d6 fire damage on a successful Strike, plus 3d10
 
 **Maximum Duration** 3 rounds
 
-**Stage 1** 3d6 fire damage and [[Conditions/Sickened 1|Sickened 1]]
+**Stage 1** 3d6 fire damage and [[Conditions/Sickened|Sickened 1]]
 
-**Stage 2** 6d6 fire damage and [[Conditions/Sickened 1|Sickened 2]].
+**Stage 2** 6d6 fire damage and [[Conditions/Sickened|Sickened 2]].
 
 *Source: Pathfinder Guns & Gears*
 *OGL*

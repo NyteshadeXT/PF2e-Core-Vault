@@ -4,6 +4,7 @@ obsidianUIMode: preview
 noteType: pf2eHazard
 tags:
   - haunt
+  - pf2eHazard
 
 source: Pathfinder Society Scenario #2-01: Citadel of Corruption
 aliases: "Compendium.pf2e.pfs-season-2-bestiary.Actor.E3KaNlIYwSD4fpfL" 
@@ -21,7 +22,7 @@ name: "Dragon's Death (1-2)"
 level: "Hazard 3"
 
 
-trait_01: "haunt"
+trait_01: [[haunt]]
 modifier: 11
 sourcebook: "_Pathfinder Society Scenario #2-01: Citadel of Corruption_"
 perception:
@@ -40,8 +41,14 @@ attacks:
   - name: ""
 
   - name: "Routine"
-    desc: "**Trigger** A creature comes within 15 feet of the dragon skull\n**Effect** All living creatures within 20 feet of the nest are peppered with bone shards and take 2d10 + 7 slashing damage (DC 20 Reflex check save)."
+    desc: "**Trigger** A creature comes within 15 feet of the dragon skull\n* * *\n\n**Effect** All living creatures within 20 feet of the nest are peppered with bone shards and take 2d10+7 slashing damage (DC 20 Reflex check save)."
   - name: "Reset"
     desc: "1 minute, as the bone fragments slowly move back into a neat pile with the skull on top."
+```
+
+```encounter-table
+name: Dragon's Death (1-2)
+creatures:
+  - 1: Dragon's Death (1-2)
 ```
 

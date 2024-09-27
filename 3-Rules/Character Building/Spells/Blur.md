@@ -4,24 +4,41 @@ title: "Blur"
 noteType: pf2eSpell
 cssclasses: pf2e,pf2e-spell
 tags:
+  - pf2eSpell
   - spell/level/2
   - trait/concentrate
   - trait/illusion
   - trait/manipulate
   - trait/visual
   - trait/common
+  - tradition/arcane
+  - tradition/occult
+
   - remaster
 aliases: "Compendium.pf2e.spells-srd.Item.3JG1t3T4mWn6vTke" 
+license: ORC
 ---
-# Blur  `pf2:2`  
-## Spell 2
-### [[concentrate]][[illusion]][[manipulate]][[visual]]
-**Traditions** [[arcane]], [[occult]]
-**Range** touch
-**Targets** 1 creature
-**Duration** 1 minute
-* * * 
-The target's form appears blurry. It becomes [[Conditions/Concealed|Concealed]]. As the nature of this effect still leaves the target's location obvious, the target can't use this concealment to Hide or Sneak.
+```statblock
+name: "Blur  `pf2:2`"
+level: "Spell 2"
 
-*Source: Pathfinder Player Core*
-*ORC*
+trait_01: [[concentrate]]
+trait_02: [[illusion]]
+trait_03: [[manipulate]]
+trait_04: [[visual]]
+layout: Basic Pathfinder 2e Layout
+columns: 1
+columnWidth: x
+abilities_top:
+  - name: ""
+  - name: "Traditions"
+    desc: "arcane, occult"
+  - name: "Range"
+    desc: "touch; **Targets** 1 creature"
+  - name: "Duration"
+    desc: "1 minute"
+abilities_mid:
+  - name: ""
+    desc: "The target's form appears blurry. It becomes [[Conditions/Concealed|Concealed]]. As the nature of this effect still leaves the target's location obvious, the target can't use this concealment to Hide or Sneak."
+sourcebook: "_Pathfinder Player Core_"
+```

@@ -12,7 +12,7 @@ license: OGL
 ---
 # Bewitching Bloom (Bellflower)
 ## Item 7
-### [[invested]][[magical]][[tattoo]]
+### [[invested]][[3-Rules/Rule References/Magical]][[tattoo]]
 
 
 **Price** 350 gp; 

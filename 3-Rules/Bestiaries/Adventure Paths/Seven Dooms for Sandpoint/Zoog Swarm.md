@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/chaotic
   - pf2e/creature/type/dream
   - pf2e/creature/type/swarm
+  - pf2eMonster
   - pf2e/creature/level/8
 statblock: inline
 name: "Zoog Swarm"
@@ -23,13 +24,13 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #200: Seven Dooms for Sandpoint"
 name: "Zoog Swarm"
 level: "Creature 8"
-rare_03: "Rare"
+rare_03: [[Rare]]
 alignment: ""
 size: "Large"
-trait_01: "beast"
-trait_02: "chaotic"
-trait_03: "dream"
-trait_04: "swarm"
+trait_01: [[beast]]
+trait_02: [[chaotic]]
+trait_03: [[dream]]
+trait_04: [[swarm]]
 modifier: 16
 perception:
   - name: "Perception"
@@ -54,7 +55,7 @@ abilities_top:
   - name: ""
 
   - name: "Spell Sight"
-    desc: "  A zoog's eyes shed bright light in a 15-foot emanation (and dim light in the next 15 feet). Any magic effect in this area glows faintly. A zoog can quell or renew this light as a free action on its turn."
+    desc: "  A zoog's eyes shed bright light in a @Template[emanation|distance:15] (and dim light in the next 15 feet). Any magic effect in this area glows faintly. A zoog can quell or renew this light as a free action on its turn."
 
 abilities_mid:
   - name: ""
@@ -70,6 +71,12 @@ attacks:
   - name: "Overwhelming Clutches"
     desc: "`pf2:3` (attack,move) The zoog swarm attempts to [[Actions/Grapple|Grapple]] a Medium or smaller creature in its space. If the swarm Grabs or Restrains the creature, the zoog swarm can then Stride twice, dragging the [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]] creature along with them as they move."
  
+```
+
+```encounter-table
+name: Zoog Swarm
+creatures:
+  - 1: Zoog Swarm
 ```
 
 

@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/hag
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/8
 statblock: inline
 name: "Transformed Narcela (7-8)"
@@ -23,13 +24,13 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Society Scenario #4-11: Prisoners of the Electric Castle"
 name: "Transformed Narcela (7-8)"
 level: "Creature 8"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Medium"
-trait_01: "chaotic"
-trait_02: "evil"
-trait_03: "hag"
-trait_04: "humanoid"
+trait_01: [[chaotic]]
+trait_02: [[evil]]
+trait_03: [[hag]]
+trait_04: [[humanoid]]
 modifier: 17
 perception:
   - name: "Perception"
@@ -65,14 +66,20 @@ attacks:
     desc: "`pf2:1` Horn +20 (magical)\n__Damage__  2d10 + 9 piercing"
 
   - name: "Heart Break"
-    desc: "`pf2:1` (occult) **Requirements** Narcela has used Hold the Heart and is holding her bloodstone\n**Effect** Narcela shatters the bloodstone, sending shards into her enemies' chests. Until the end of her next turn, each enemy within 60 feet of Narcela takes a -1 item penalty to Will saves. The benefits of Hold the Heart immediately end. Narcela can't use Hold the Heart again for 1d6 rounds, as her heart needs time to regenerate.\n[[Campaign Effects/Effect_ Heart Break|Effect: Heart Break]]"
+    desc: "`pf2:1` (occult) **Requirements** Narcela has used Hold the Heart and is holding her bloodstone\n\n**Effect** Narcela shatters the bloodstone, sending shards into her enemies' chests. Until the end of her next turn, each enemy within 60 feet of Narcela takes a -1 item penalty to Will saves. The benefits of Hold the Heart immediately end. Narcela can't use Hold the Heart again for 1d6 rounds, as her heart needs time to regenerate.\n\n[[Campaign Effects/Effect_ Heart Break|Effect: Heart Break]]"
 
   - name: "Hold the Heart"
-    desc: "`pf2:1` (concentrate,manipulate,occult) **Requirements** Narcela has a hand free\n**Effect** Narcela reaches into her chest and pulls out a crimson gem. This bloodstone is a lesser version of a night hag's heartstone; as long as she holds it, Narcela gains a +1 item bonus to Will saves."
+    desc: "`pf2:1` (concentrate,manipulate,occult) **Requirements** Narcela has a hand free\n\n**Effect** Narcela reaches into her chest and pulls out a crimson gem. This bloodstone is a lesser version of a night hag's heartstone; as long as she holds it, Narcela gains a +1 item bonus to Will saves."
 
   - name: "Scream of Spite"
-    desc: "`pf2:2` (auditory,emotion,mental,occult) Narcela lets out a scream laden with all her rage, spreading Aslynn's ritual transmogrifying magic to any creature that can hear her. All creatures within a 30-foot emanation must attempt a DC 26 Will check save; creatures with the hag trait are immune to this effect. Narcela can't use Scream of Spite again for 1d4 rounds.\n**Critical Success** The creature is unaffected.\n**Success** The creature is [[Conditions/Stunned 1|Stunned 1]] as it resists the effects.\n**Failure** The creature is [[Conditions/Confused|Confused]] for 1 round as it tries to keep its thoughts its own.\n**Critical Failure** The creature is confused for 1d4 rounds."
+    desc: "`pf2:2` (auditory,emotion,mental,occult) Narcela lets out a scream laden with all her rage, spreading Aslynn's ritual transmogrifying magic to any creature that can hear her. All creatures within a @Template[emanation|distance:30] must attempt a DC 26 Will check save; creatures with the hag trait are immune to this effect. Narcela can't use Scream of Spite again for 1d4 rounds.\n* * *\n\n**Critical Success** The creature is unaffected.\n\n**Success** The creature is [[Conditions/Stunned|Stunned 1]] as it resists the effects.\n\n**Failure** The creature is [[Conditions/Confused|Confused]] for 1 round as it tries to keep its thoughts its own.\n\n**Critical Failure** The creature is confused for 1d4 rounds."
  
+```
+
+```encounter-table
+name: Transformed Narcela (7-8)
+creatures:
+  - 1: Transformed Narcela (7-8)
 ```
 
 

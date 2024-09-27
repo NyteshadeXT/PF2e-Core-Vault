@@ -6,6 +6,7 @@ cssClasses: pf2e
 aliases: "Compendium.pf2e.gatewalkers-bestiary.Actor.JrMv2lQ1hRTpMumk" 
 tags:
   - pf2e/creature/type/beast
+  - pf2eMonster
   - pf2e/creature/level/7
 statblock: inline
 name: "Alkoasha"
@@ -20,17 +21,18 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #188: They Watched the Stars"
 name: "Alkoasha"
 level: "Creature 7"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "huge"
-trait_01: "beast"
+trait_01: [[beast]]
 modifier: 19
 perception:
   - name: "Perception"
     desc: "+19; Low-Light Vision, Scent (Imprecise) 30 Feet"
+languages: ""
 skills:
   - name: "Skills"
-    desc: "Athletics: +17, Stealth: +12 (+17 in water)"
+    desc: "Athletics: +19, Stealth: +14"
 abilityMods: [7, 4, 5, -3, 2, -1]
 speed: 25 feet,  burrow 25 feet
 sourcebook: "_Pathfinder #188: They Watched the Stars_"
@@ -49,10 +51,10 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Hydra Regeneration"
-    desc: "  The hydra has regeneration equal to 3 x the number of heads it has. If a hydra's body is missing any heads and the remaining stumps have not been cauterized, the hydra attempts a DC 25 Fortitude check save after it regains Hit Points from regeneration. On a success, one uncauterized stump regrows one head; on a critical success, two uncauterized stumps regrow. The hydra's regeneration only fully deactivates if all its heads are severed and all stumps are cauterized, at which point it dies.\nThis monster regains the listed number of Hit Points each round at the beginning of its turn. Its [[Conditions/Dying 1|Dying]] condition never increases beyond Dying 3 as long as its regeneration is active. However, if it takes damage of a type listed in the regeneration entry, its regeneration deactivates until the end of its next turn. Deactivate the regeneration before applying any damage of a listed type, since that damage might kill the monster by bringing it to Dying 4."
+    desc: "  The hydra has regeneration equal to 3 x the number of heads it has. If a hydra's body is missing any heads and the remaining stumps have not been cauterized, the hydra attempts a DC 25 Fortitude check save after it regains Hit Points from regeneration. On a success, one uncauterized stump regrows one head; on a critical success, two uncauterized stumps regrow. The hydra's regeneration only fully deactivates if all its heads are severed and all stumps are cauterized, at which point it dies.\n* * *\n\nThis monster regains the listed number of Hit Points each round at the beginning of its turn. Its [[Conditions/Dying|Dying]] condition never increases beyond Dying 3 as long as its regeneration is active. However, if it takes damage of a type listed in the regeneration entry, its regeneration deactivates until the end of its next turn. Deactivate the regeneration before applying any damage of a listed type, since that damage might kill the monster by bringing it to Dying 4."
 
   - name: "Alkoasha's Head Regrowth"
-    desc: "  Alkoasha has ten heads. A creature can attempt to sever one of the hydra's heads by specifically targeting it and dealing damage equal to the head's Hit Points. A head that is not completely severed returns to full Hit Points at the end of any creature's turn.\nAlkoasha can regrow a severed head using Hydra Regeneration. A creature can prevent this regrowth by dealing acid or fire damage to the stump, cauterizing it. Single-target acid or fire effects need to be targeted at a specific stump, but effects that deal splash damage or affect areas covering the hydra's whole space cauterize all stumps if they deal acid or fire damage. If the attack that severs a head deals any acid or fire damage, the stump is cauterized instantly. If all ten heads are cauterized, the hydra dies.\n**Hydra Head**\n*   **Hit Points** 15\n*   **Immunities** Area Damage\n*   **Weaknesses** Slashing 5\n[[Bestiary Effects/Effect_ Hydra Heads|Effect: Hydra Heads]]"
+    desc: "  Alkoasha has ten heads. A creature can attempt to sever one of the hydra's heads by specifically targeting it and dealing damage equal to the head's Hit Points. A head that is not completely severed returns to full Hit Points at the end of any creature's turn.\n\nAlkoasha can regrow a severed head using Hydra Regeneration. A creature can prevent this regrowth by dealing acid or fire damage to the stump, cauterizing it. Single-target acid or fire effects need to be targeted at a specific stump, but effects that deal splash damage or affect areas covering the hydra's whole space cauterize all stumps if they deal acid or fire damage. If the attack that severs a head deals any acid or fire damage, the stump is cauterized instantly. If all ten heads are cauterized, the hydra dies.\n* * *\n\n**Hydra Head**\n\n*   **Hit Points** 15\n*   **Immunities** Area Damage\n*   **Weaknesses** Slashing 5\n\n[[Bestiary Effects/Effect_ Hydra Heads|Effect: Hydra Heads]]"
 
   - name: "[[Bestiary Ability Glossary/Attack of Opportunity|Attack of Opportunity]]"
     desc: "`pf2:r`  "
@@ -72,6 +74,12 @@ attacks:
   - name: "Storm of Jaws"
     desc: "`pf2:2`  The hydra makes a number of Strikes up to its number of heads, each against a different target. These attacks count toward the hydra's multiple attack penalty, but the multiple attack penalty doesn't increase until after the hydra makes all its attacks."
  
+```
+
+```encounter-table
+name: Alkoasha
+creatures:
+  - 1: Alkoasha
 ```
 
 

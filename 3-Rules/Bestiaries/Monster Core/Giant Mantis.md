@@ -6,6 +6,7 @@ cssClasses: pf2e
 aliases: "Compendium.pf2e.pathfinder-monster-core.Actor.KCVKMVYRuq6huXGz" 
 tags:
   - pf2e/creature/type/animal
+  - pf2eMonster
   - pf2e/creature/level/3
   - remaster
 statblock: inline
@@ -25,7 +26,7 @@ level: "Creature 3"
 
 alignment: ""
 size: "Large"
-trait_01: "animal"
+trait_01: [[animal]]
 modifier: 9
 perception:
   - name: "Perception"
@@ -69,6 +70,12 @@ attacks:
   - name: "Sudden Strike"
     desc: "  On the first round of combat, creatures that haven't acted are [[Conditions/Off-Guard|Off-Guard]] to the giant mantis."
  
+```
+
+```encounter-table
+name: Giant Mantis
+creatures:
+  - 1: Giant Mantis
 ```
 
 

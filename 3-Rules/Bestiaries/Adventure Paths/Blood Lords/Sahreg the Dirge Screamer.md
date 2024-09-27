@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/human
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/2
 statblock: inline
 name: "Sahreg the Dirge Screamer"
@@ -22,12 +23,12 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #181: Zombie Feast"
 name: "Sahreg the Dirge Screamer"
 level: "Creature 2"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Medium"
-trait_01: "evil"
-trait_02: "human"
-trait_03: "humanoid"
+trait_01: [[evil]]
+trait_02: [[human]]
+trait_03: [[humanoid]]
 modifier: 6
 perception:
   - name: "Perception"
@@ -35,7 +36,7 @@ perception:
 languages: "Common"
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +7, Deception: +8, Diplomacy: +8, Graydirge Lore: +6, Occultism: +6, Performance: +8, Society: +6, Stealth: +7, Thievery: +7"
+    desc: "Acrobatics: +7, Deception: +8, Diplomacy: +8, Occultism: +6, Performance: +8, Society: +6, Stealth: +7, Thievery: +7, Graydirge Lore: +6"
 abilityMods: [0, 3, 0, 2, 1, 4]
 speed: 25 feet
 sourcebook: "_Pathfinder #181: Zombie Feast_"
@@ -66,6 +67,12 @@ attacks:
   - name: "Bard Composition Spells"
     desc: "1 Focus Point, DC 18, attack +10; __1st __  _[[Spells/Counter Performance|Counter Performance]]_\n__Cantrips__  __(1st)__ _[[Spells/Courageous Anthem|Inspire Courage]]_"
  
+```
+
+```encounter-table
+name: Sahreg the Dirge Screamer
+creatures:
+  - 1: Sahreg the Dirge Screamer
 ```
 
 

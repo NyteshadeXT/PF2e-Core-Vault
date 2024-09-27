@@ -5,6 +5,7 @@ noteType: pf2eHazard
 tags:
   - mechanical
   - trap
+  - pf2eHazard
 
 source: Pathfinder #200: Seven Dooms for Sandpoint
 aliases: "Compendium.pf2e.seven-dooms-for-sandpoint-bestiary.Actor.ENZmtEVu84WMsiyo" 
@@ -22,14 +23,14 @@ name: "Fungus-Covered Sinkhole"
 level: "Hazard 6"
 
 
-trait_01: "mechanical"
-trait_02: "trap"
+trait_01: [[mechanical]]
+trait_02: [[trap]]
 modifier: 15
 sourcebook: "_Pathfinder #200: Seven Dooms for Sandpoint_"
 ac: 10
 armorclass:
   - name: AC
-    desc: "10; __Fort__ +11, __Ref__ +11, __Will__ +0"
+    desc: "10; __Fort__ +11, __Ref__ +11, "
 hp: 50
 health:
   - name: ""
@@ -51,9 +52,15 @@ attacks:
   - name: ""
 
   - name: "Pitfall"
-    desc: "`pf2:r` **Trigger** A creature walks onto the sheet of fungus\n**Effect** The triggering creature falls 30 feet into area **H7**, taking 15 falling damage and an additional 6d6 piercing damage (DC 24 Reflex check save) from the many stalagmites they land on. That creature can use the [[Actions/Grab an Edge|Grab an Edge]] reaction to avoid falling (DC 24)."
+    desc: "`pf2:r` **Trigger** A creature walks onto the sheet of fungus\n* * *\n\n**Effect** The triggering creature falls 30 feet into area **H7**, taking 15 falling damage and an additional 6d6 piercing damage (DC 24 Reflex check save) from the many stalagmites they land on. That creature can use the [[Actions/Grab an Edge|Grab an Edge]] reaction to avoid falling (DC 24)."
 
 
 
+```
+
+```encounter-table
+name: Fungus-Covered Sinkhole
+creatures:
+  - 1: Fungus-Covered Sinkhole
 ```
 

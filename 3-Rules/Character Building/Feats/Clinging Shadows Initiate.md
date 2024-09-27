@@ -6,8 +6,9 @@ tags:
   - trait/monk
   - trait/common
   - category/class
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.QkKMile0qqmuVY67"
-license: OGL
+license: ORC
 ---
 # Clinging Shadows Initiate
 ## Feat 8
@@ -17,11 +18,9 @@ license: OGL
 
 
 
-**Prerequisites** ki spells
+**Prerequisites** Qi Spells
 * * *
-You learn a mystical stance that transforms your ki into sticky smoke that shrouds your limbs, clinging to everything you touch.
+You learn a mystical stance that transforms your qi into sticky smoke that shrouds your limbs. You gain the [[Spells/Clinging Shadows Stance|Clinging Shadows Stance]] qi spell. While entering the stance is a qi spell, the shadow grasp attacks it grants are not, so you can use them as often as you like while in the stance.
 
-You gain the [[Spells/Clinging Shadows Stance|Clinging Shadows Stance]] ki spell. Increase the number of Focus Points in your focus pool by 1. While entering the stance uses a ki spell, the shadow grasp attacks it grants are not, so you can use them as often as you like while in the stance.
-
-*Source: Pathfinder Advanced Player's Guide*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/dwarf
   - pf2e/creature/type/evil
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/15
 statblock: inline
 name: "Ilssrah Embermead"
@@ -22,12 +23,12 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #148: Fires of the Haunted City"
 name: "Ilssrah Embermead"
 level: "Creature 15"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Medium"
-trait_01: "dwarf"
-trait_02: "evil"
-trait_03: "humanoid"
+trait_01: [[dwarf]]
+trait_02: [[evil]]
+trait_03: [[humanoid]]
 modifier: 29
 perception:
   - name: "Perception"
@@ -76,11 +77,17 @@ attacks:
     desc: "3 Focus Points, DC 36, attack +32; __8th __  _[[Spells/Commanding Lash|Commanding Lash]]_, _[[Spells/Touch of Obedience|Touch of Obedience]]_"
 
   - name: "Efficient Capture"
-    desc: "`pf2:2` (attack,manipulate) **Requirements** Ilssrah has manacles in hand and is adjacent to a creature.\n**Effect** Ilssrah attempts to bind the creature's wrists or ankles with the manacles. If she succeeds at an attack roll with a +30 modifier against the target's AC, she applies the manacles."
+    desc: "`pf2:2` (attack,manipulate) **Requirements** Ilssrah has manacles in hand and is adjacent to a creature.\n* * *\n\n**Effect** Ilssrah attempts to bind the creature's wrists or ankles with the manacles. If she succeeds at an attack roll with a +30 modifier against the target's AC, she applies the manacles."
 
   - name: "Hammer the Chained"
-    desc: "`pf2:2`  Ilssrah attempts a melee Strike with _Fleshroaster_. If she hits, she also draws her light hammer, makes a melee Strike with it against the same target, and immediately returns it to her belt. She then resumes her grip on _Fleshroaster_. Both Strikes count toward Ilssrah's multiple attack penalty, but the penalty doesn't increase until both Strikes have been made. If the hammer Strike hits, it deals damage as normal and the target must attempt a DC 35 Fortitude check save.\n**Critical Success** The creature is unaffected.\n**Success** The creature is [[Conditions/Clumsy 1|Clumsy 1]] and [[Conditions/Stupefied 1|Stupefied 1]] for 1 round.\n**Failure** The creature is clumsy 1 and stupefied 1 for 1 minute.\n**Critical Failure** The creature is [[Conditions/Clumsy 1|Clumsy 2]] and [[Conditions/Stupefied 1|Stupefied 2]] for 1 minute."
+    desc: "`pf2:2`  Ilssrah attempts a melee Strike with _Fleshroaster_. If she hits, she also draws her light hammer, makes a melee Strike with it against the same target, and immediately returns it to her belt. She then resumes her grip on _Fleshroaster_. Both Strikes count toward Ilssrah's multiple attack penalty, but the penalty doesn't increase until both Strikes have been made. If the hammer Strike hits, it deals damage as normal and the target must attempt a DC 35 Fortitude check save.\n* * *\n\n**Critical Success** The creature is unaffected.\n\n**Success** The creature is [[Conditions/Clumsy|Clumsy 1]] and [[Conditions/Stupefied|Stupefied 1]] for 1 round.\n\n**Failure** The creature is clumsy 1 and stupefied 1 for 1 minute.\n\n**Critical Failure** The creature is [[Conditions/Clumsy|Clumsy 2]] and [[Conditions/Stupefied|Stupefied 2]] for 1 minute."
  
+```
+
+```encounter-table
+name: Ilssrah Embermead
+creatures:
+  - 1: Ilssrah Embermead
 ```
 
 

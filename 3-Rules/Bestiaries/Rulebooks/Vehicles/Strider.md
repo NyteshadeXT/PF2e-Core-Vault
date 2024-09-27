@@ -1,16 +1,17 @@
 ---
-title: "Strider"
+title: Strider
 obsidianUIMode: preview
-noteType: pf2eMonster
+noteType: pf2eVehicle
 cssClasses: pf2e
-aliases: "Compendium.pf2e.vehicles.Actor.JQAknpXhJo5bwgOM" 
 tags:
-  - pf2e/creature/level/7
+  - pf2eVehicle
+
   - remaster
-statblock: inline
-name: "Strider"
+source: Pathfinder GM Core
+aliases: "Compendium.pf2e.vehicles.Actor.JQAknpXhJo5bwgOM" 
 level: 7
 license: ORC
+statblock: inline
 ---
 
 ```statblock
@@ -19,39 +20,51 @@ forcecolumns: true
 layout: Basic Pathfinder 2e Layout
 source: "Pathfinder GM Core"
 name: "Strider"
-level: "Creature 7"
-rare_03: "Uncommon"
-alignment: ""
+level: "Vehicle 7"
+rare_03: [[Uncommon]]
+
 size: "Large"
 modifier: 
 perception:
-  - name: "Perception"
-    desc: "NaN; "
-skills:
-  - name: "Skills"
-    desc: ""
-abilityMods: [, , , , , ]
-speed: 
-sourcebook: "_Pathfinder GM Core_"
+  - name: ""
+  - name: "Price"
+    desc: "1200 gp\n* * *"
+abilities_top:
+  - name: ""
+  - name: "Space"
+    desc: "10 feet long, 10 feet wide, 25 feet high"
+  - name: "Crew"
+    desc: "1 pilot; **Passengers** 2"
+  - name: "Piloting Check"
+    desc: "Arcana (DC 25), Crafting (DC 25), Engineering Lore (DC 23), or Piloting Lore (DC 23)"
 ac: 24
 armorclass:
   - name: AC
-    desc: "24; __Fort__ +13, __Ref__ NaN, __Will__ NaN"
+    desc: "24; __Fort__ +13"
 hp: 120
 health:
   - name: ""
-  - name: HP
-    desc: "120; __Immunities__  object immunities"
-abilities_top:
-  - name: ""
-
+  - name: "Hardness"
+    desc: "10; **HP** 120 (BT 60); __Immunities__  object immunities"
+speed: "30 feet (alchemical, magical)"
 abilities_mid:
   - name: ""
 attacks:
   - name: ""
- 
+  - name: "Collision"
+    desc: "3d10 (DC 24)"
+
+  - name: "Long Reach"
+    desc: " The strider can bridge a gap as wide as 30 feet by Striding over it."
+
+
+
+sourcebook: "_Pathfinder GM Core_"
 ```
 
-
-
+```encounter-table
+name: Strider
+creatures:
+  - 1: Strider
+```
 

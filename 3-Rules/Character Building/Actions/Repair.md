@@ -14,7 +14,7 @@ license: ORC
 ---
 # Repair
 
-### [[exploration]][[manipulate]][[skill]]
+### [[exploration]][[3-Rules/Rule References/Manipulate]][[skill]]
 
 **Category** interaction; 
 

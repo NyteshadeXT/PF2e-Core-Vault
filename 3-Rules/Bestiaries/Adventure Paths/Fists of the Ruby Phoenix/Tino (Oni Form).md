@@ -12,6 +12,7 @@ tags:
   - pf2e/creature/type/lawful
   - pf2e/creature/type/oni
   - pf2e/creature/type/unholy
+  - pf2eMonster
   - pf2e/creature/level/18
 statblock: inline
 name: "Tino (Oni Form)"
@@ -26,24 +27,24 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #168: King of the Mountain"
 name: "Tino (Oni Form)"
 level: "Creature 18"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Large"
-trait_01: "evil"
-trait_02: "fiend"
-trait_03: "giant"
-trait_04: "humanoid"
-trait_05: "lawful"
-trait_06: "oni"
-trait_07: "unholy"
+trait_01: [[evil]]
+trait_02: [[fiend]]
+trait_03: [[giant]]
+trait_04: [[humanoid]]
+trait_05: [[lawful]]
+trait_06: [[oni]]
+trait_07: [[unholy]]
 modifier: 30
 perception:
   - name: "Perception"
     desc: "+30; Darkvision"
-languages: "Nagaji, Taldane, Tengu, Tien"
+languages: "Nagaji, Taldane, Tengu, Tien; (can&#x27;t speak any language)"
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +35, Athletics: +35, Deception: +24, Diplomacy: +31, Intimidation: +35, Irori Lore: +31, Medicine: +29, Occultism: +29, Religion: +31"
+    desc: "Acrobatics: +35, Athletics: +35, Deception: +24, Diplomacy: +31, Intimidation: +35, Medicine: +29, Occultism: +29, Religion: +31, Irori Lore: +31"
 abilityMods: [9, 6, 6, 5, 5, 4]
 speed: 35 feet
 sourcebook: "_Pathfinder #168: King of the Mountain_"
@@ -61,7 +62,7 @@ abilities_top:
   - name: "Items"
     desc: "[[Equipment/Greatclub|+3 Major Striking Kanabo]]"
   - name: "Toughest Teamwork: Catapult Ally"
-    desc: "  **Trigger** An ally using a move action moves within reach of Tino's kanabo\n**Effect** Tino scoops his ally with his kanabo and flings them 30 feet in any direction. They can continue any remainder of their movement from their landing location"
+    desc: "  **Trigger** An ally using a move action moves within reach of Tino's kanabo\n* * *\n\n**Effect** Tino scoops his ally with his kanabo and flings them 30 feet in any direction. They can continue any remainder of their movement from their landing location"
 
 abilities_mid:
   - name: ""
@@ -90,7 +91,7 @@ attacks:
     desc: "`pf2:2`  Tino loses himself further to the oni, pulling out even more strength. He makes a kanabo Strike that deals two additional weapon dice of damage."
 
   - name: "Earth-Shattering Strike"
-    desc: "`pf2:1`  **Requirements** Tino's previous action was to successfully Strike an enemy with a weapon that dealt bludgeoning damage\n**Effect** A shockwave blasts out from the force of Tino's strike. Tino attempts a single Athletics check again the Fortitude DC of all enemies within 15 feet. Regardless of the result of the check, all terrain within the area becomes difficult terrain as the ground is cracked into loose shards.\n**Critical Success** Tino pushes the creature 10 feet, knocks it [[Conditions/Prone|Prone]], and deals 6d6 bludgeoning damage to it.\n**Success** Tino pushes the creature 10 feet and knocks it prone.\n**Failure** Tino pushes the creature 10 feet."
+    desc: "`pf2:1`  **Requirements** Tino's previous action was to successfully Strike an enemy with a weapon that dealt bludgeoning damage\n* * *\n\n**Effect** A shockwave blasts out from the force of Tino's strike. Tino attempts a single Athletics check again the Fortitude DC of all enemies within 15 feet. Regardless of the result of the check, all terrain within the area becomes difficult terrain as the ground is cracked into loose shards.\n* * *\n\n**Critical Success** Tino pushes the creature 10 feet, knocks it [[Conditions/Prone|Prone]], and deals 6d6 bludgeoning damage to it.\n\n**Success** Tino pushes the creature 10 feet and knocks it prone.\n\n**Failure** Tino pushes the creature 10 feet."
 
   - name: "Flurry of Blows"
     desc: "`pf2:1` (flourish) Tino makes two Strikes with his fist or with a monk weapon. If both hit the same creature, combine their damage for the purpose of resistances and weaknesses."
@@ -98,6 +99,12 @@ attacks:
   - name: "Stalwart Guardian"
     desc: "  Tino gains a reaction at the start of each enemy's turn that he can use only during that enemy's turn."
  
+```
+
+```encounter-table
+name: Tino (Oni Form)
+creatures:
+  - 1: Tino (Oni Form)
 ```
 
 

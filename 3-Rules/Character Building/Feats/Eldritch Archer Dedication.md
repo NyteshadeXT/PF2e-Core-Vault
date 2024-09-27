@@ -8,8 +8,9 @@ tags:
   - trait/magical
   - trait/common
   - category/class
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.oyLkqhDGwGGj40ME"
-license: OGL
+license: ORC
 ---
 # Eldritch Archer Dedication
 ## Feat 6
@@ -19,17 +20,13 @@ license: OGL
 
 
 
-**Prerequisites** expert in at least one type of bow
+**Prerequisites** expert in at least one weapon from the bow or crossbow weapon group
 * * *
-You blend magic with your archery, leading to powerful results.
+You channel powerful magic with your archery, allowing you to deliver potent spells through the tip of an arrow rather than the more mundane flick of the wrist or whatever other gestures are usually used.
 
-If you don't already cast spells from spell slots, you learn to cast spontaneous spells and gain the [[Actions/Cast a Spell|Cast a Spell]] activity. You gain a spell repertoire with one cantrip of your choice, from a spell list of your choice. You choose this cantrip from the common spells on your chosen spell list or from other spells to which you have access on that list. This cantrip must require a spell attack roll. You're trained in spell attack rolls and spell DCs for that tradition. Your key spellcasting ability for these spells is Charisma.
+If you don't already cast spells from spell slots, you learn to cast spontaneous spells and gain the Cast a Spell activity. You gain a spell repertoire with one cantrip of your choice, from a tradition of your choice. You choose a common cantrip or other cantrip to which you have access. This cantrip must require a spell attack roll and come from your chosen tradition. You're trained in spell attack modifier and spell DC. Your key spellcasting attribute for these spells is Charisma. Regardless of whether you can already cast spells or gained the ability from this dedication, you gain the [[Actions/Eldritch Shot|Eldritch Shot]] activity.
 
-You also gain [[Actions/Eldritch Shot|Eldritch Shot]].
+[[PF2e Journals/Archetypes/Eldritch Archer|Eldritch Archer]]
 
-* * *
-
-**Special** You can't select another dedication feat until you have gained two other feats from the [[PF2e Journals/Archetypes/Eldritch Archer|Eldritch Archer]] archetype.
-
-*Source: Pathfinder Advanced Player's Guide*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

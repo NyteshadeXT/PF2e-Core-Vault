@@ -14,7 +14,7 @@ license: OGL
 ---
 # Whirlwind Vial
 ## Item 11
-### [[3-Rules/Rule References/Air]][[alchemical]][[consumable]][[expandable]]
+### [[air]][[alchemical]][[consumable]][[expandable]]
 
 **Category** other; 
 **Price** 250 gp; 
@@ -23,7 +23,7 @@ license: OGL
 
 **Activate** `pf2:2` Interact
 
-Opening this vial releases a mighty gust, forming into a fearsome Huge elemental hurricane. The elemental breathes a 30-foot cone of air. Each creature in the cone must succeed at a DC 28 Fortitude check save or be knocked away from the elemental. A creature knocked into a solid object stops moving and takes 4d6 bludgeoning.
+Opening this vial releases a mighty gust, forming into a fearsome Huge elemental hurricane. The elemental breathes a @Template\[cone|distance:30\] of air. Each creature in the cone must succeed at a DC 28 Fortitude check save or be knocked away from the elemental. A creature knocked into a solid object stops moving and takes 4d6 bludgeoning.
 
 * * *
 

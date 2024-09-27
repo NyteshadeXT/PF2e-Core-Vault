@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/humanoid
   - pf2e/creature/type/morlock
+  - pf2eMonster
   - pf2e/creature/level/1
 statblock: inline
 name: "Morlock Scavenger"
@@ -26,10 +27,10 @@ level: "Creature 1"
 
 alignment: ""
 size: "Small"
-trait_01: "chaotic"
-trait_02: "evil"
-trait_03: "humanoid"
-trait_04: "morlock"
+trait_01: [[chaotic]]
+trait_02: [[evil]]
+trait_03: [[humanoid]]
+trait_04: [[morlock]]
 modifier: 6
 perception:
   - name: "Perception"
@@ -37,7 +38,7 @@ perception:
 languages: "Sakvroth"
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +7, Athletics: +5 (+7 Climbing), Stealth: +7"
+    desc: "Acrobatics: +7, Athletics: +5, Stealth: +7"
 abilityMods: [2, 4, 1, -2, 3, 1]
 speed: 30 feet,  climb 20 feet
 sourcebook: "_Pathfinder #163: Ruins of Gauntlight_"
@@ -77,6 +78,12 @@ attacks:
   - name: "Swarming Stance"
     desc: "  A morlock can share the same space as another morlock, but no more than two morlocks can occupy the same space. When morlocks share the same space, they gain a +1 circumstance bonus to attack rolls."
  
+```
+
+```encounter-table
+name: Morlock Scavenger
+creatures:
+  - 1: Morlock Scavenger
 ```
 
 

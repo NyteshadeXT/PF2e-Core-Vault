@@ -12,7 +12,7 @@ license: OGL
 ---
 # Host Spirit
 
-### [[exploration]][[occult]]
+### [[exploration]][[3-Rules/Rule References/Occult]]
 
 **Category** interaction; 
 

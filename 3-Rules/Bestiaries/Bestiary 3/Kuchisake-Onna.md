@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/aberration
   - pf2e/creature/type/evil
   - pf2e/creature/type/lawful
+  - pf2eMonster
   - pf2e/creature/level/14
 statblock: inline
 name: "Kuchisake-Onna"
@@ -23,12 +24,12 @@ token: [[modules/pf2e-tokens-bestiaries/portraits/aberrant/humanoid/kuchisake-on
 source: "Pathfinder Bestiary 3"
 name: "Kuchisake-Onna"
 level: "Creature 14"
-rare_03: "Rare"
+rare_03: [[Rare]]
 alignment: ""
 size: "Medium"
-trait_01: "aberration"
-trait_02: "evil"
-trait_03: "lawful"
+trait_01: [[aberration]]
+trait_02: [[evil]]
+trait_03: [[lawful]]
 modifier: 28
 perception:
   - name: "Perception"
@@ -65,17 +66,23 @@ attacks:
     desc: "`pf2:1` Silver Scissors +30 (agile, backstabber, fatal d12, finesse)\n__Damage__  3d6 + 12 slashing"
 
   - name: "Am I Pretty?"
-    desc: "`pf2:1`  The kuchisake-onna asks a single adjacent target, \"Am I pretty?\" The target must attempt a DC 35 Will check save. If it fails, it is [[Conditions/Immobilized|Immobilized]] for 1 round, and if it critically fails, it is [[Conditions/Paralyzed|Paralyzed]] for 1 round, though still able to respond to the question; this is a mental effect.\nIf the target responds \"No\", the kuchisake-onna makes two silver scissors Strikes against the target. If the target responds \"Yes\", the kuchisake-onna makes no Strikes this turn and must use Even Now? as their next action (waiting until the first action of their next turn, if necessary). If the target otherwise responds in a confusing or noncommittal manner, the kuchisake-onna becomes [[Conditions/Off-Guard|Off-Guard]] to all creatures for 1 round but can otherwise act normally."
+    desc: "`pf2:1`  The kuchisake-onna asks a single adjacent target, \"Am I pretty?\" The target must attempt a DC 35 Will check save. If it fails, it is [[Conditions/Immobilized|Immobilized]] for 1 round, and if it critically fails, it is [[Conditions/Paralyzed|Paralyzed]] for 1 round, though still able to respond to the question; this is a mental effect.\n\nIf the target responds \"No\", the kuchisake-onna makes two silver scissors Strikes against the target. If the target responds \"Yes\", the kuchisake-onna makes no Strikes this turn and must use Even Now? as their next action (waiting until the first action of their next turn, if necessary). If the target otherwise responds in a confusing or noncommittal manner, the kuchisake-onna becomes [[Conditions/Off-Guard|Off-Guard]] to all creatures for 1 round but can otherwise act normally."
 
   - name: "Even Now?"
-    desc: "`pf2:1`  **Requirements** An adjacent creature previously targeted by Am I Pretty? answered \"Yes\"\n**Effect** The kuchisake-onna takes off their mask, revealing their slit face and asking, \"Even now?\" The target must attempt a DC 35 Will check save.\nIf it fails, it is [[Conditions/Immobilized|Immobilized]] for 1 round, and if it critically fails, it is [[Conditions/Paralyzed|Paralyzed]] for 1 round, though still able to respond to the question; this is a mental effect.\nWhether the target responds \"Yes\" or \"No\", the kuchisake-onna makes two silver scissors Strikes against the target."
+    desc: "`pf2:1`  **Requirements** An adjacent creature previously targeted by Am I Pretty? answered \"Yes\"\n* * *\n\n**Effect** The kuchisake-onna takes off their mask, revealing their slit face and asking, \"Even now?\" The target must attempt a DC 35 Will check save.\n\nIf it fails, it is [[Conditions/Immobilized|Immobilized]] for 1 round, and if it critically fails, it is [[Conditions/Paralyzed|Paralyzed]] for 1 round, though still able to respond to the question; this is a mental effect.\n\nWhether the target responds \"Yes\" or \"No\", the kuchisake-onna makes two silver scissors Strikes against the target."
 
   - name: "Lingering Enmity"
-    desc: "  The kuchisake-onna's silver scissors Strikes are manifestations of the toxic malice that created them and vanish when the kuchisake-onna is destroyed.\nWhen the kuchisake-onna has less than half their maximum Hit Points remaining, this concentrated enmity begins to leak out and make their attacks more vicious. Their silver scissors Strikes deal 6d6 persistent bleed damage.\n_Note: Due to a later published errata this persistent damage is doubled on a critical hit. Due to the high damage potential for this creature's level that interaction may not be intended._"
+    desc: "  The kuchisake-onna's silver scissors Strikes are manifestations of the toxic malice that created them and vanish when the kuchisake-onna is destroyed.\n\nWhen the kuchisake-onna has less than half their maximum Hit Points remaining, this concentrated enmity begins to leak out and make their attacks more vicious. Their silver scissors Strikes deal 6d6 persistent bleed damage.\n* * *\n\n_Note: Due to a later published errata this persistent damage is doubled on a critical hit. Due to the high damage potential for this creature's level that interaction may not be intended._"
 
   - name: "[[Bestiary Ability Glossary/Rend|Rend]]"
-    desc: "`pf2:1`  Silver Scissors\n"
+    desc: "`pf2:1`  Silver Scissors\n\n* * *\n"
  
+```
+
+```encounter-table
+name: Kuchisake-Onna
+creatures:
+  - 1: Kuchisake-Onna
 ```
 
 

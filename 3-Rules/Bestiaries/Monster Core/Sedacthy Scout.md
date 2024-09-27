@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/amphibious
   - pf2e/creature/type/humanoid
   - pf2e/creature/type/sedacthy
+  - pf2eMonster
   - pf2e/creature/level/2
   - remaster
 statblock: inline
@@ -20,15 +21,16 @@ license: ORC
 columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
+token: [[modules/pf2e-tokens-monster-core/assets/portraits/sedacthy-scout.webp| ]]
 source: "Pathfinder Monster Core"
 name: "Sedacthy Scout"
 level: "Creature 2"
 
 alignment: ""
 size: "Medium"
-trait_01: "amphibious"
-trait_02: "humanoid"
-trait_03: "sedacthy"
+trait_01: [[amphibious]]
+trait_02: [[humanoid]]
+trait_03: [[sedacthy]]
 modifier: 9
 perception:
   - name: "Perception"
@@ -79,6 +81,12 @@ attacks:
   - name: "Wriggling Rush"
     desc: "`pf2:1`  **Frequency** once per round;\n* * *\n\n**Effect** The scout takes a Stride action and a Swim action, in either order. They ignore difficult terrain from mud, quicksand, and similar terrain during this movement."
  
+```
+
+```encounter-table
+name: Sedacthy Scout
+creatures:
+  - 1: Sedacthy Scout
 ```
 
 

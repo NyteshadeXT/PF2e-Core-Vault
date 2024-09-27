@@ -27,7 +27,7 @@ Your body flickers momentarily into the Ethereal Plane. You become concealed for
 
 * * *
 
-**Awakening** When your body flickers, you momentarily assume a terrifying form. If a creature fails the flat check against concealment from your Eerie Flicker, it becomes [[Conditions/Frightened 1|Frightened 1]], and it doesn't reduce the frightened condition from this effect at the end of the same turn it gained the condition.
+**Awakening** When your body flickers, you momentarily assume a terrifying form. If a creature fails the flat check against concealment from your Eerie Flicker, it becomes [[Conditions/Frightened|Frightened 1]], and it doesn't reduce the frightened condition from this effect at the end of the same turn it gained the condition.
 
 * * *
 

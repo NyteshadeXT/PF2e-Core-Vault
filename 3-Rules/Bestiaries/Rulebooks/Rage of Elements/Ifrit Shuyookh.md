@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/elemental
   - pf2e/creature/type/fire
   - pf2e/creature/type/genie
+  - pf2eMonster
   - pf2e/creature/level/14
   - remaster
 statblock: inline
@@ -23,17 +24,17 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Rage of Elements"
 name: "Ifrit Shuyookh"
 level: "Creature 14"
-rare_03: "Rare"
+rare_03: [[Rare]]
 alignment: ""
 size: "Large"
-trait_01: "elemental"
-trait_02: "fire"
-trait_03: "genie"
+trait_01: [[elemental]]
+trait_02: [[fire]]
+trait_03: [[genie]]
 modifier: 25
 perception:
   - name: "Perception"
     desc: "+25; Darkvision"
-languages: "Common, Pyric"
+languages: "Common, Pyric; truespeech"
 skills:
   - name: "Skills"
     desc: "Arcana: +25, Athletics: +28, Crafting: +23, Deception: +25, Diplomacy: +24, Intimidation: +26, Society: +23"
@@ -56,7 +57,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Exploit Regret"
-    desc: "`pf2:r` (arcane,auditory,fortune,linguistic) **Trigger** A creature fails an attack against the shuyookh\n**Effect** The shuyookh asks the triggering creature if it wishes it had hit. If the creature indicates yes, the shuyookh takes damage as if the attack had hit and the expression of regret makes the shuyookh [[Conditions/Quickened|Quickened]] for 1d4 rounds; they can use their extra action to Fly, Stride, or Strike."
+    desc: "`pf2:r` (arcane,auditory,fortune,linguistic) **Trigger** A creature fails an attack against the shuyookh\n* * *\n\n**Effect** The shuyookh asks the triggering creature if it wishes it had hit. If the creature indicates yes, the shuyookh takes damage as if the attack had hit and the expression of regret makes the shuyookh [[Conditions/Quickened|Quickened]] for 1d4 rounds; they can use their extra action to Fly, Stride, or Strike."
 
   - name: "Heat of Blazing Wings"
     desc: " (arcane,aura,fire) 5 feet, 4d6 fire damage (DC 31 Reflex check)"
@@ -80,11 +81,17 @@ attacks:
     desc: "`pf2:1` (arcane,concentrate,polymorph) The shuyookh transforms into a Small or Medium fire elemental or reptile, such as a snake. This doesn't affect the shuyookh's statistics, but it could change the damage type of their Strikes."
 
   - name: "Combat Grab"
-    desc: "`pf2:1`  **Requirements** The ifrit shuyookh has a hand free\n**Effect** The shuyookh makes a melee Strike. If the Strike hits, the target is [[Conditions/Grabbed|Grabbed]] in the shuyookh's free hand."
+    desc: "`pf2:1`  **Requirements** The ifrit shuyookh has a hand free\n* * *\n\n**Effect** The shuyookh makes a melee Strike. If the Strike hits, the target is [[Conditions/Grabbed|Grabbed]] in the shuyookh's free hand."
 
   - name: "Pedantic Wish"
-    desc: " (downtime) **Frequency** three times per year\n**Effect** The shuyookh conducts a wish ritual for the benefit of a mortal, requiring no cost or secondary casters. The shuyookh's result is a success if they succeed at a DC 5 Flat check or a failure if not. The shuyookh subverts the wish-maker's true intentions, twisting the phrasing to maximize suffering."
+    desc: " (downtime) **Frequency** three times per year\n* * *\n\n**Effect** The shuyookh conducts a wish ritual for the benefit of a mortal, requiring no cost or secondary casters. The shuyookh's result is a success if they succeed at a DC 5 Flat check or a failure if not. The shuyookh subverts the wish-maker's true intentions, twisting the phrasing to maximize suffering."
  
+```
+
+```encounter-table
+name: Ifrit Shuyookh
+creatures:
+  - 1: Ifrit Shuyookh
 ```
 
 

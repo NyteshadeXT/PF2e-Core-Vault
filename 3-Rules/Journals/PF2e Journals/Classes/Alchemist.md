@@ -22,7 +22,7 @@ You increase your maximum number of HP by this number at 1st level and every lev
 
 ## During Combat Encounters...
 
-You lob bombs at your foes, harry your enemies, and support the rest of your party with potent elixirs. At higher levels, your mutagens warp your body into a resilient and powerful weapon.
+You lob bombs at your foes, harry your enemies, and support the rest of your party with potent elixirs. You might even use mutagens to warp your body into a resilient and powerful weapon.
 
 ## During Social Encounters...
 
@@ -30,7 +30,7 @@ You provide knowledge and experience about alchemical items and related secrets,
 
 ## While Exploring...
 
-You keep an eye out for trouble with your bombs at the ready, while giving advice on all things alchemical and mysterious.
+You keep an eye out for for additional ingredients that you can turn into alchemical reagents, while giving advice on all things alchemical and mysterious.
 
 ## In Downtime...
 
@@ -80,9 +80,9 @@ Trained in unarmed attacks
 
 ## Defenses
 
-Trained in medium armor
-
 Trained in light armor
+
+Trained in medium armor
 
 Trained in unarmored defense
 
@@ -98,82 +98,90 @@ You gain these features as an Alchemist. Abilities gained at higher levels list 
 
 | Your Level | Class Features |
 | --- | --- |
-| 1 | Ancestry and background, initial proficiencies, alchemy, formula book, research field, alchemist feat |
+| 1 | Ancestry and background, attribute boosts, initial proficiencies, alchemy, research field, alchemist feat |
 | 2 | Alchemist feat, skill feat |
 | 3 | General feat, skill increase |
 | 4 | Alchemist feat, skill feat |
 | 5 | Attribute boosts, ancestry feat, field discovery, powerful alchemy, skill increase |
 | 6 | Alchemist feat, skill feat |
-| 7 | Alchemical weapon expertise, general feat, iron will, perpetual infusions, skill increase |
+| 7 | Alchemical weapon expertise, general feat, skill increase, will expertise |
 | 8 | Alchemist feat, skill feat |
-| 9 | Alchemical expertise, alertness, ancestry feat, double brew, skill increase |
+| 9 | Alchemical expertise, ancestry feat, double brew, perception expertise, skill increase |
 | 10 | Attribute boosts, alchemist feat, skill feat |
-| 11 | General feat, juggernaut, perpetual potency, skill increase |
+| 11 | Advanced vials, chemical hardiness, general feat, skill increase |
 | 12 | Alchemist feat, skill feat |
-| 13 | Ancestry feat, greater field discovery, light armor expertise, skill increase, weapon specialization |
+| 13 | Ancestry feat, greater field discovery, medium armor expertise, skill increase, weapon specialization |
 | 14 | Alchemist feat, skill feat |
-| 15 | Attribute boosts, alchemical alacrity, evasion, general feat, skill increase |
+| 15 | Attribute boosts, alchemical weapon mastery, explosion dodger, general feat, skill increase |
 | 16 | Alchemist feat, skill feat |
-| 17 | Alchemical mastery, ancestry feat, perpetual perfection, skill increase |
+| 17 | Abundant vials, alchemical mastery, ancestry feat, skill increase |
 | 18 | Alchemist feat, skill feat |
-| 19 | General feat, light armor mastery, skill increase |
+| 19 | General feat, medium armor mastery, skill increase |
 | 20 | Attribute boosts, alchemist feat, skill feat |
-
-## Alchemist Feats
-
-At 1st level and every even-numbered level thereafter, you gain an alchemist class feat.
-
-## Alchemy
-
-You understand the complex interactions of natural and unnatural substances and can concoct alchemical items to meet your needs. You can do this using normal reagents and the Craft activity, or you can use special infused reagents that allow you to craft temporary items quickly and at no cost. Over time, you can create more and more alchemical items for free, and since each of them becomes more and more powerful, you advance in power dramatically, leaving behind those who don't understand your strange science.
-
-You gain the [[Feats/Alchemical Crafting|Alchemical Crafting]] feat, even if you don't meet that feat's prerequisites, and you gain the four common 1st-level alchemical formulas granted by that feat. You can use this feat to create alchemical items as long as you have the items' formulas in your formula book.
-
-### **Infused Reagents**
-
-You infuse reagents with your own alchemical essence, allowing you to create alchemical items at no cost. Each day during your daily preparations, you gain a number of batches of infused reagents equal to your level + your Intelligence modifier. You can use these reagents for either advanced alchemy or Quick Alchemy, described below. Together, these infused reagents have light Bulk.
-
-As soon as you make your next daily preparations, your infused reagents from the previous day's preparations are instantly destroyed, and nonpermanent effects of your previous day's infused items immediately end. While infused reagents are physical objects, they can't be duplicated, preserved, or created in any way other than your daily preparations. Any such artificial reagents lack the infusion and are useless for advanced alchemy or Quick Alchemy.
-
-### **Advanced Alchemy**
-
-During your daily preparations, after producing new infused reagents, you can spend batches of those infused reagents to create infused alchemical items. You don't need to attempt a Crafting check to do this, and you ignore both the number of days typically required to create the items and any alchemical reagent requirements. Your advanced alchemy level is equal to your level. For each batch of infused reagents you spend, choose an alchemical item of your advanced alchemy level or lower that's in your formula book, and make a batch of two of that item. These items have the infused trait and remain potent for 24 hours or until your next daily preparations, whichever comes first.
-
-### **Quick Alchemy**
-
-If you need a specific alchemical item on the fly, you can use your infused reagents to quickly create it with the Quick Alchemy action.
-
-### [[Feats/Quick Alchemy|Quick Alchemy]]`pf2:1`
-
-**Cost** 1 batch of infused reagents
-
-**Requirements** You have an [[Equipment/Alchemist's Toolkit|Alchemist's Toolkit]], the formula for the alchemical item you're creating, and a free hand.
-
-* * *
-
-You swiftly mix up a short-lived alchemical item to use at a moment's notice. You create a single alchemical item of your advanced alchemy level or lower that's in your formula book without having to spend the normal monetary cost in alchemical reagents or needing to attempt a Crafting check. This item has the infused trait, but it remains potent only until the start of your next turn.
-
-### **Formula Book**
-
-An alchemist keeps meticulous records of the formulas for every item they can create. You start with a standard formula book worth 10 sp or less for free. The formula book contains the formulas for two common 1st-level alchemical items of your choice, in addition to those you gained from Alchemical Crafting and your research field.
-
-Each time you gain a level, you can add the formulas for two common alchemical items to your formula book. These new formulas can be for any level of item you can create. You learn these formulas automatically, but it's also possible to find or buy additional formulas in settlements or from other alchemists, or to invent them with the [[Feats/Inventor|Inventor]] feat.
 
 ## Ancestry and Background
 
 In addition to the abilities provided by your class at 1st level, you have the benefits of your selected ancestry and background.
 
+## Attribute Boosts
+
+In addition to what you get from your class at 1st level, you have four free boosts to different attribute modifiers. At 5th level and every 5 levels thereafter, you get four free boosts to different attribute modifiers. If an attribute modifier is already +4 or higher, it takes two boosts to increase it; you get a partial boost and must boost that attribute again at a later level to increase it by 1.
+
 ## Initial Proficiencies
 
 At 1st level, you gain a number of proficiencies that represent your basic training. These proficiencies are noted at the start of this class.
 
+## Alchemy
+
+You understand the reactions between all manner of reagents and can concoct alchemical items to meet your needs. You can do this using normal reagents and the [[Actions/Craft|Craft]] activity, or you can use specially prepared chemicals that allow you to craft temporary items quickly and at no cost. Over time, you can create more and more alchemical items for free, and since each of them becomes more and more powerful, you advance in power dramatically, leaving behind those who don't understand your strange science. You gain the [[Feats/Alchemical Crafting|Alchemical Crafting]] feat, and you can automatically identify alchemical items that you have the formula for
+
+### **Formula Book**
+
+An alchemist keeps meticulous formulas for every item they can create. You start with a standard [[Equipment/Formula Book (Blank)|Formula Book]] for free. The formula book contains the formulas for two common 1st-level alchemical items of your choice, in addition to any formulas you gained from Alchemical Crafting and your research field.
+
+Each time you gain a level, you can add the formulas for two common alchemical items to your formula book. These new formulas can be for any level of item you can create. You learn these formulas automatically, but it's also possible to find or buy additional formulas in settlements or from other alchemists, or to select the [[Feats/Inventor|Inventor]] skill feat so you can invent them.
+
+As normal, having the base formula is sufficient when Crafting upgraded types of the item—you don't need to learn higher-level formulas. For instance, if you have the 1st-level formula for a minor [[Equipment/Elixir of Life (Minor)|Elixir of Life]], you can create a minor, lesser, moderate, greater, major, or true elixir of life as long as you meet the level and other prerequisites. Items with type entries that have widely varied functions require separate formulas, but most alchemical items have a structure similar to elixir of life.
+
+### **Advanced Alchemy**
+
+During your daily preparations, you spend some time to create alchemical items that can be used over the course of the day. You don't need to attempt a Crafting check to do this, you can use an [[Equipment/Alchemist's Toolkit|Alchemist's Toolkit]] instead of an [[Equipment/Alchemist's Lab|Alchemist's Lab]], and you ignore both the number of days typically required to create the items and any alchemical raw materials requirements. You can Craft a number of alchemical items up to 4 + your Intelligence modifier. Each item must be in your formula book, have an item level equal to or lower than your level, and have the consumable trait. These items have the infused trait and remain potent for 24 hours or until your next daily preparations, whichever comes first.
+
+### **Versatile Vials**
+
+You know how to prepare fast-acting chemicals into versatile vials, special items that can be used as bombs and be turned into other alchemical items by introducing special reagents. During your daily preparations, you can create a number of versatile vials up to 2 + your Intelligence modifier, which is also your maximum number of vials. If you're below your maximum number, you can gather reagents from the environment around you. For every 10 minutes you spend in exploration mode, you regain 2 vials; this doesn't prevent you from participating in other exploration activities.
+
+Versatile vials are infused items, and are destroyed if not used by the next time you make your daily preparations. A vial you create is always the highest type you could Craft. See the sidebar for statistics on using a versatile vial as a bomb. You can also use vials for Quick Alchemy (see below) and your research field can add to the ways you can use a vial.
+
+You can store all your versatile vials within your alchemist's toolkit, with no increase to its Bulk. Though versatile vials are physical objects, they can't be duplicated or preserved in any way.
+
+The versatile vials can be thrown like bombs, with the following statistics.
+
+  
+
+| **VERSATILE VIAL**<br/>* * *<br/>ACID<br/>ALCHEMICAL<br/>BOMB<br/>CONSUMABLE<br/>INFUSED<br/>SPLASH<br/>**Usage** held 1 hand; **Bulk** —<br/>**Activate** `pf2:1` Strike<br/>* * *<br/>This tiny glass flask contains volatile chemicals that can be used offensively in a pinch.<br/>* * *<br/>**Type** lesser; **Level** 1<br/>The bomb deals 1d6 acid damage and 1 acid splash damage.<br/>* * *<br/>**Type** moderate; **Level** 4<br/>You gain a +1 item bonus to attack rolls. The bomb deals 2d6 acid damage and 2 acid splash damage.<br/>* * *<br/>**Type** greater; **Level** 12<br/>You gain a +2 item bonus to attack rolls. The bomb deals 3d6 acid damage and 3 acid splash damage<br/>* * *<br/>**Type** major; **Level** 18<br/>You gain a +3 item bonus to attack rolls. The bomb deals 4d6 acid damage and 4 acid splash damage |
+| --- |
+
+### **Quick Alchemy**
+
+You gain the [[Actions/Quick Alchemy|Quick Alchemy]] action to make the items you need on the fly.
+
 ## Research Field
 
-Your inquiries into the alchemical nature of the universe have led you to focus on a particular field of research. You might have a degree from an scientific institute, correspond with other researchers in your field, or work as a genius loner. Choose a field of research.
+Your inquiries into the alchemical nature of the universe have led you to focus on a particular field of research. At 1st level, you choose your research field. This choice gives you more formulas, a special benefit, other abilities for your versatile vials, and other benefits as you level up.
 
-Your research field adds a number of formulas to your formulas book; these are your signature items. When using a batch of infused reagents to create your signature items using advanced alchemy, you can create three items instead of two. Each time you gain a level, you can swap one of your signature items with another formula in your formula book. This new signature item must be on your research field's list of possible signature items.
+*   [[Class Features/Bomber|Bomber]]
+    
+*   [[Class Features/Chirurgeon|Chirurgeon]]
+    
+*   [[Class Features/Mutagenist|Mutagenist]]
+    
+*   [[Class Features/Toxicologist|Toxicologist]]
+    
 
-Research fields can be found here ([[Class Features/Bomber|Bomber]], [[Class Features/Chirurgeon|Chirurgeon]], [[Class Features/Mutagenist|Mutagenist]] and [[Class Features/Toxicologist|Toxicologist]]).
+## Alchemist Feats
+
+At 1st level and every even-numbered level thereafter, you gain an alchemist class feat.
 
 ## Skill FeatsLevel 2
 
@@ -201,82 +209,68 @@ In addition to the ancestry feat you started with, you gain an ancestry feat at 
 
 ## Field DiscoveryLevel 5
 
-You learn a special discovery depending on your field.
-
-See specific research fields for more information.
+You learn discovery listed in your research field.
 
 ## Powerful AlchemyLevel 5
 
-Alchemical items you create on the fly are particularily potent. When you use Quick Alchemy to create an infused alchemical item that allows a saving throw, you can change its DC to your class DC.
+Alchemical items you create on the fly are particularily potent. When you create an infused alchemical item that allows a saving throw, you can change its DC to your class DC.
 
 ## Alchemical Weapon ExpertiseLevel 7
 
-You've trained to more effectively wield the weapons you find in your lab. Your proficiency ranks for simple weapons, unarmed attacks, and alchemical bombs increase to expert.
+You've trained to more effectively wield the weapons you find in your lab. Your proficiency ranks for simple weapons, alchemical bombs, and unarmed attacks increase to expert.
 
-## Iron WillLevel 7
+## Will ExpertiseLevel 7
 
-Your mental defenses are an iron fortress. Your proficiency rank for Will saves increases to expert.
-
-## Perpetual InfusionsLevel 7
-
-You have learned how to create perpetual alchemical infusions that can provide a near-infinite supply of certain simple items. You gain the ability to create two 1st-level alchemical items using Quick Alchemy without spending a batch of infused reagents. The items you can select depend on your research field and must be in your formula book.
-
-See specific research fields for more information.
+Your mental defenses grow stronger. Your proficiency rank for Will saves increases to expert.
 
 ## Alchemical ExpertiseLevel 9
 
-Constant practice has increased the effectiveness of your concoctions. Your proficiency rank for your alchemist class DC increases to expert.
-
-## AlertnessLevel 9
-
-You remain alert to threats around you. Your proficiency rank for Perception increases to expert.
+Constant practice has increased the effectiveness of your concoctions. Your proficiency rank for your alchemist class DC increases to expert. In addition, when you gather reagents during exploration mode, you can regain three vials instead of two.
 
 ## Double BrewLevel 9
 
-You know your formulas so well that you can concoct two items at once. When using the Quick Alchemy action, instead of spending one batch of infused reagents to create a single item, you can spend up to two batches of infused reagents to make up to two alchemical items as described in that action. These items do not have to be the same.
+You know your formulas so well that you can concoct two items at once. When using the Quick Alchemy action, you can create two items. These items don't have to be the same. If you create two consumables, you have to expend a versatile vial for each one.
 
-## JuggernautLevel 11
+## Perception ExpertiseLevel 9
 
-Your body has become accustomed to physical hazards and resistant to pathogens and ailments. Your proficiency rank for Fortitude saves increases to master. When you roll a success on a Fortitude save, you get a critical success instead.
+You remain alert to threats around you. Your proficiency rank for Perception increases to expert.
 
 ## Perpetual PotencyLevel 11
 
-Your perpetual infusions improve, allowing you to use Quick Alchemy to create more powerful items with no cost. The items you can select depend on your research field and must be in your formula book.
+Your experience helps you improve your field vials with a benefit particular to your research field
 
-See specific research fields for more information.
+## Chemical HardinessLevel 11
+
+Imbibing alchemical compounds has strengthened your organs. Your proficiency rank for Fortitude saves increases to master. When you roll a success on a Fortitude save, you get a critical success instead.
 
 ## Greater Field DiscoveryLevel 13
 
-You learn an incredible discovery that advances your understanding of your field.
+You learn an incredible discovery that advances your understanding of your field, as described in your research field
 
-See specific research fields for more information.
+## Medium Armor ExpertiseLevel 13
 
-## Light Armor ExpertiseLevel 13
-
-You've learned how to dodge while wearing light or no armor. Your proficiency ranks for light armor and unarmored defense increase to expert.
+You've learned to defend yourself better against attacks. Your proficiency ranks for light armor, medium armor, and unarmored defense increase to expert.
 
 ## Weapon SpecializationLevel 13
 
 You've learned how to inflict greater injuries with the weapons you know best. You deal 2 additional damage with weapons and unarmed attacks in which you are an expert. This damage increases to 3 if you're a master, and to 4 if you're legendary.
 
-## Alchemical AlacrityLevel 15
+## Alchemical Weapon MasteryLevel 15
 
-Your comfort in concocting items is such that you can create three at a time. When using the Quick Alchemy action, you can spend up to three batches of infused reagents to make up to three alchemical items as described in that action. These items do not have to be the same.
+You've mastered full capability with your weapons. Your proficiency ranks for simple weapons, alchemical bombs, and unarmed attacks increase to master.
 
-## EvasionLevel 15
+## Explosion DodgerLevel 15
 
-You've learned to move quickly to avoid explosions, dragon's breath, and worse. Your proficiency rank for Reflex saves increases to master. When you roll a success on a Reflex save, you get a critical success instead.
+Your experiments taught you to fling yourself out of the way of sudden explosions. Your proficiency rank for Reflex saves increases to master. When you roll a success on a Reflex save, you get a critical success instead.
+
+## Abundant VialsLevel 17
+
+You're permanently [[Conditions/Quickened|Quickened]], and can use the extra action only to use Quick Alchemy to create a quick vial. You can create only one vial with this action, even if you have double brew or a similar ability.
 
 ## Alchemical MasteryLevel 17
 
-Your alchemical concoctions are incredibly effective. Your proficiency rank for your alchemist class DC increases to master.
+Your concoctions are incredibly effective. Your proficiency rank for your alchemist class DC increases to master.
 
-## Perpetual PerfectionLevel 17
+## Medium Armor MasteryLevel 19
 
-You have perfected your perpetual infusions, allowing you to use Quick Alchemy to create even more powerful items at no cost. The items you can select depend on your research field and must be in your formula book.
-
-See specific research fields for more information.
-
-## Light Armor MasteryLevel 19
-
-Your skill with light armor improves, increasing your ability to dodge blows. Your proficiency ranks for light armor and unarmored defense increase to master.
+Your skill with light and medium armor improves, increasing your ability to avoid blows. Your proficiency ranks for light and medium armor, as well as for unarmed defense, increase to master.

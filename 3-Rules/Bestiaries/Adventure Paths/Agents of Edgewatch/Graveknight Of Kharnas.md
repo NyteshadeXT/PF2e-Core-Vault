@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/undead
   - pf2e/creature/type/unholy
+  - pf2eMonster
   - pf2e/creature/level/17
 statblock: inline
 name: "Graveknight Of Kharnas"
@@ -22,12 +23,12 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #162: Ruins of the Radiant Siege"
 name: "Graveknight Of Kharnas"
 level: "Creature 17"
-rare_03: "Rare"
+rare_03: [[Rare]]
 alignment: ""
 size: "Medium"
-trait_01: "evil"
-trait_02: "undead"
-trait_03: "unholy"
+trait_01: [[evil]]
+trait_02: [[undead]]
+trait_03: [[unholy]]
 modifier: 30
 perception:
   - name: "Perception"
@@ -58,7 +59,7 @@ abilities_mid:
     desc: "`pf2:r`  "
 
   - name: "Rejuvenation"
-    desc: " (divine) When a graveknight is destroyed, its armor rebuilds its body over the course of 1d10 days-or more quickly if the armor is worn by a living host. If the body is destroyed before then, the process restarts.\nA graveknight can only be permanently destroyed by obliterating its armor (such as with [[Spells/Disintegrate|Disintegrate]]), transporting it to the Forge of Creation, or throwing it into the heart of a volcano."
+    desc: " (divine) When a graveknight is destroyed, its armor rebuilds its body over the course of 1d10 days-or more quickly if the armor is worn by a living host. If the body is destroyed before then, the process restarts.\n\nA graveknight can only be permanently destroyed by obliterating its armor (such as with [[Spells/Disintegrate|Disintegrate]]), transporting it to the Forge of Creation, or throwing it into the heart of a volcano."
 
   - name: "Sacrilegious Aura"
     desc: " (aura,divine) 30 feet. When a creature in the aura uses a vitality spell or ability, the graveknight automatically attempts to counteract it, with a +27 counteract modifier."
@@ -73,17 +74,23 @@ attacks:
     desc: "`pf2:1` Greater Flaming Javelin +29 (magical, thrown 30 ft.)\n__Damage__  3d6 + 19 piercing 1d6 fire"
 
   - name: "Devastating Blast"
-    desc: "`pf2:2` (arcane,fire) The graveknight unleashes a 30-foot cone of energy.\nCreatures in the area take 10d12 fire damage (DC 37 Reflex check save).\nThe graveknight can't use this ability again for 1d4 rounds."
+    desc: "`pf2:2` (arcane,fire) The graveknight unleashes a @Template[cone|distance:30] of energy.\n\nCreatures in the area take 10d12 fire damage (DC 37 Reflex check save).\n\nThe graveknight can't use this ability again for 1d4 rounds."
 
   - name: "Graveknight's Curse"
-    desc: "  This curse affects anyone who wears a graveknight's armor for at least 1 hour\n**Saving Throw** DC 43 Will check save\n**Onset** 1 hour\n**Stage 1** [[Conditions/Doomed 1|Doomed 1]] and can't remove the armor (1 day)\n**Stage 2** [[Conditions/Doomed 1|Doomed 2]], hampered 10, and can't remove the armor (1 day)\n**Stage 3** dies and transforms into the armor's graveknight"
+    desc: "  This curse affects anyone who wears a graveknight's armor for at least 1 hour\n\n**Saving Throw** DC 43 Will check save\n\n**Onset** 1 hour\n* * *\n\n**Stage 1** [[Conditions/Doomed|Doomed 1]] and can't remove the armor (1 day)\n\n**Stage 2** [[Conditions/Doomed|Doomed 2]], hampered 10, and can't remove the armor (1 day)\n\n**Stage 3** dies and transforms into the armor's graveknight"
 
   - name: "Kharnas's Blessing"
-    desc: "`pf2:2`  The graveknight carves the sigil of Kharnas onto an adjacent [[Conditions/Immobilized|Immobilized]] or [[Conditions/Unconscious|Unconscious]] creature.\nAs long as the creature bears the sigil of Kharnas, it takes a -2 status penalty to saving throws against the abilities of any creature that previously served Kharnas, but it can also freely pass through any hazards that can be bypassed by those bearing the sigil of Kharnas, such as Kharnas's glyphs.\n[[Bestiary Effects/Effect_ Kharna's Blessing|Effect: Kharna's Blessing]]"
+    desc: "`pf2:2`  The graveknight carves the sigil of Kharnas onto an adjacent [[Conditions/Immobilized|Immobilized]] or [[Conditions/Unconscious|Unconscious]] creature.\n\nAs long as the creature bears the sigil of Kharnas, it takes a -2 status penalty to saving throws against the abilities of any creature that previously served Kharnas, but it can also freely pass through any hazards that can be bypassed by those bearing the sigil of Kharnas, such as Kharnas's glyphs.\n\n[[Bestiary Effects/Effect_ Kharna's Blessing|Effect: Kharna's Blessing]]"
 
   - name: "Weapon Master"
     desc: "  The graveknight has access to the critical specialization effects of any weapons it wields."
  
+```
+
+```encounter-table
+name: Graveknight Of Kharnas
+creatures:
+  - 1: Graveknight Of Kharnas
 ```
 
 

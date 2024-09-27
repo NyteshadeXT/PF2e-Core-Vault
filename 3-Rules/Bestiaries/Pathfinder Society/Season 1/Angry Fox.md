@@ -6,6 +6,7 @@ cssClasses: pf2e
 aliases: "Compendium.pf2e.pfs-season-1-bestiary.Actor.9f5t3nOOqhNykqhj" 
 tags:
   - pf2e/creature/type/animal
+  - pf2eMonster
   - pf2e/creature/level/-1
 statblock: inline
 name: "Angry Fox"
@@ -23,11 +24,12 @@ level: "Creature -1"
 
 alignment: ""
 size: "tiny"
-trait_01: "animal"
+trait_01: [[animal]]
 modifier: 7
 perception:
   - name: "Perception"
     desc: "+7; Low-Light Vision, Scent (Imprecise) 30 Feet"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Acrobatics: +4, Athletics: +2, Stealth: +4"
@@ -60,6 +62,12 @@ attacks:
   - name: "Pounce"
     desc: "`pf2:1`  The fox Strides and makes a Strike at the end of that movement. If the fox begins this action hidden, it remains hidden until after this ability's Strike."
  
+```
+
+```encounter-table
+name: Angry Fox
+creatures:
+  - 1: Angry Fox
 ```
 
 

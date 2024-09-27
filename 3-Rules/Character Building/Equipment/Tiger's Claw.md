@@ -7,6 +7,7 @@ tags:
   - trait/concealable
   - trait/concussive
   - trait/fatal-d10
+  - trait/illusion
   - trait/primal
   - trait/rare
   - category/martial
@@ -15,7 +16,7 @@ license: OGL
 ---
 # Tiger's Claw
 ## Item 11
-### [rare](rare "Rare Rarity Trait")[[concealable]][[concussive]][[fatal-d10]][[primal]]
+### [rare](rare "Rare Rarity Trait")[[concealable]][[concussive]][[fatal-d10]][[illusion]][[primal]]
 
 |  |  |
 | -- | -- |

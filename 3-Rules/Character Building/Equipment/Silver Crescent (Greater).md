@@ -14,7 +14,7 @@ license: OGL
 ---
 # Silver Crescent (Greater)
 ## Item 16
-### [[alchemical]][[consumable]][[3-Rules/Character Building/Spells/Light]][[lozenge]]
+### [[alchemical]][[consumable]][[light]][[lozenge]]
 
 **Category** other; 
 **Price** 1400 gp; 

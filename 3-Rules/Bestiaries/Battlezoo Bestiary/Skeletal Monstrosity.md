@@ -10,6 +10,7 @@ tags:
   - pf2e/creature/type/skeleton
   - pf2e/creature/type/undead
   - pf2e/creature/type/unholy
+  - pf2eMonster
   - pf2e/creature/level/10
 statblock: inline
 name: "Skeletal Monstrosity"
@@ -28,18 +29,19 @@ level: "Creature 10"
 
 alignment: ""
 size: "grg"
-trait_01: "evil"
-trait_02: "mindless"
-trait_03: "skeleton"
-trait_04: "undead"
-trait_05: "unholy"
+trait_01: [[evil]]
+trait_02: [[mindless]]
+trait_03: [[skeleton]]
+trait_04: [[undead]]
+trait_05: [[unholy]]
 modifier: 16
 perception:
   - name: "Perception"
     desc: "+16; Darkvision"
+languages: ""
 skills:
   - name: "Skills"
-    desc: "Athletics: +23, Intimidation: +18, "
+    desc: "Athletics: +23, Intimidation: +18"
 abilityMods: [7, 3, 0, -5, 0, 0]
 speed: 30 feet
 sourcebook: "_Battlezoo Bestiary_"
@@ -56,7 +58,7 @@ abilities_top:
   - name: ""
 
   - name: "Destructive Collapse"
-    desc: " (divine) When the skeletal monstrosity is destroyed, its bones collapse in a massive heap as the necromantic energy holding the skeleton together suddenly evaporates. Creatures adjacent to the skeletal monstrosity take 10d6 slashing damage (basic Reflex save)."
+    desc: " (divine) When the skeletal monstrosity is destroyed, its bones collapse in a massive heap as the necromantic energy holding the skeleton together suddenly evaporates. Creatures adjacent to the skeletal monstrosity take 10d6 slashing damage (DC 28 basic Reflex save)."
 
 abilities_mid:
   - name: ""
@@ -79,20 +81,26 @@ attacks:
     desc: "`pf2:1`  "
 
   - name: "Eat Marrow"
-    desc: "`pf2:1`  **Frequency** once per round;\n**Requirements** The skeletal monstrosity has a creature grabbed in its jaws;\n**Effect** The skeletal monstrosity chews on the grabbed creature and sups its leaking marrow, dealing 3d12 + 11 bludgeoning damage (basic Fortitude save). The skeletal monstrosity regains Hit Points equal to the damage dealt."
+    desc: "`pf2:1`  **Frequency** once per round;\n\n**Requirements** The skeletal monstrosity has a creature grabbed in its jaws;\n\n**Effect** The skeletal monstrosity chews on the grabbed creature and sups its leaking marrow, dealing 3d12 + 11 bludgeoning damage (DC 29 basic Fortitude save). The skeletal monstrosity regains Hit Points equal to the damage dealt."
 
   - name: "Screech"
-    desc: "`pf2:2` (auditory,divine,fear,mental) The skeletal monstrosity unleashes a bloodcurdling roar that can be heard up to 1 mile away. Creatures within 500 feet that hear the roar must succeed at a Will save or be Frightened 2. On a critical failure, the creature is Frightened 3 and is also Fleeing for 1d4 rounds or until it's no longer frightened, whichever comes first.\nRegardless of their save, creatures are immune to the skeletal monstrosity's Screech for 24 hours."
+    desc: "`pf2:2` (auditory,divine,fear,mental) The skeletal monstrosity unleashes a bloodcurdling roar that can be heard up to 1 mile away. Creatures within 500 feet that hear the roar must succeed at a DC 28 Will save or be [[Conditions/Frightened|Frightened 2]]. On a critical failure, the creature is [[Conditions/Frightened|Frightened 3]] and is also [[Conditions/Fleeing|Fleeing]] for 1d4 rounds or until it's no longer frightened, whichever comes first.\n\nRegardless of their save, creatures are immune to the skeletal monstrosity's Screech for 24 hours."
 
   - name: "Splinter Burst"
-    desc: "`pf2:2` (divine) The skeletal monstrosity exhales a spray of sharp bones, dealing 7d10 slashing damage in a 15-foot cone (basic Reflex save).\nThe skeletal monstrosity can't use Splinter Burst again for 1d4 rounds."
+    desc: "`pf2:2` (divine) The skeletal monstrosity exhales a spray of sharp bones, dealing 7d10 slashing damage in a 15-foot cone (DC 28 basic Reflex save).\n\nThe skeletal monstrosity can't use Splinter Burst again for 1d4 rounds."
 
   - name: "Sweeping Slash"
     desc: "`pf2:2`  The skeletal monstrosity Strides and makes two wing scythe Strikes, each at any point during its Stride. Its multiple attack penalty does not increase until after it makes both attacks."
 
   - name: "[[Bestiary Ability Glossary/Trample|Trample]]"
-    desc: "`pf2:3`  Large or smaller, Foot, basic reflex save\n"
+    desc: "`pf2:3`  Large or smaller, Foot, DC 29 basic reflex save\n\n* * *\n"
  
+```
+
+```encounter-table
+name: Skeletal Monstrosity
+creatures:
+  - 1: Skeletal Monstrosity
 ```
 
 

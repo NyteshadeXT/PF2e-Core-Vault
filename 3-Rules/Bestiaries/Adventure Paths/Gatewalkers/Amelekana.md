@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.gatewalkers-bestiary.Actor.7VoxPNp1BMlhGrss"
 tags:
   - pf2e/creature/type/amphibious
   - pf2e/creature/type/beast
+  - pf2eMonster
   - pf2e/creature/level/4
 statblock: inline
 name: "Amelekana"
@@ -21,15 +22,16 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #187: The Seventh Arch"
 name: "Amelekana"
 level: "Creature 4"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Large"
-trait_01: "amphibious"
-trait_02: "beast"
+trait_01: [[amphibious]]
+trait_02: [[beast]]
 modifier: 14
 perception:
   - name: "Perception"
     desc: "+14; Lifesense 100 Feet"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Acrobatics: +10, Athletics: +10, Stealth: +12, Survival: +12"
@@ -63,11 +65,17 @@ attacks:
     desc: "`pf2:1` Lob Amoeba +14 (range 40 feet)\n__Damage__  2d4 + 8 bludgeoning plus lob-amoeba"
 
   - name: "Lob Amoeba"
-    desc: "`pf2:1`  The amelekana flings a [[Gatewalkers/Symbiotic Amoeba|Symbiotic Amoeba]] at a target within 40 feet—this is a ranged attack that doesn't count toward the amelekana's multiple attack penalty, and its multiple attack penalty doesn't apply to this attack.\n**Success** The target takes 2d4 + 8 bludgeoning and the symbiotic amoeba lands in a square adjacent to the target.\n**Failure** The target takes no damage, but the symbiotic amoeba still spawns in a square adjacent to the target.\n**Critical Failure** The target takes no damage and the lobbed amoeba dies on impact."
+    desc: "`pf2:1`  The amelekana flings a [[Gatewalkers/Symbiotic Amoeba|Symbiotic Amoeba]] at a target within 40 feet—this is a ranged attack that doesn't count toward the amelekana's multiple attack penalty, and its multiple attack penalty doesn't apply to this attack.\n\n**Success** The target takes 2d4+8 bludgeoning and the symbiotic amoeba lands in a square adjacent to the target.\n\n**Failure** The target takes no damage, but the symbiotic amoeba still spawns in a square adjacent to the target.\n\n**Critical Failure** The target takes no damage and the lobbed amoeba dies on impact."
 
   - name: "Symbiotic Amoeba"
-    desc: "  An amoeba produced by the amelekana is a Tiny, mindless, semi-independent creature controlled by the amelekana. It has the minion trait, AC 15, 1 Hit Point, and the same skills and saving throws as the amelekana. Each round, the amelekana can Command a Minion to make an amoeba Step or Swim 20 feet and make a pseudopod Strike (Melee pseudopod +13, Damage 2d4 acid). If an amelekana is killed, its symbiotic amoebas are also killed by the host creature's psychic backlash. An amelekana can have up to three extant symbiotic amoebas at a time.\n[[Gatewalkers/Symbiotic Amoeba|Symbiotic Amoeba]]"
+    desc: "  An amoeba produced by the amelekana is a Tiny, mindless, semi-independent creature controlled by the amelekana. It has the minion trait, AC 15, 1 Hit Point, and the same skills and saving throws as the amelekana. Each round, the amelekana can Command a Minion to make an amoeba Step or Swim 20 feet and make a pseudopod Strike (Melee pseudopod +13, Damage 2d4 acid). If an amelekana is killed, its symbiotic amoebas are also killed by the host creature's psychic backlash. An amelekana can have up to three extant symbiotic amoebas at a time.\n\n[[Gatewalkers/Symbiotic Amoeba|Symbiotic Amoeba]]"
  
+```
+
+```encounter-table
+name: Amelekana
+creatures:
+  - 1: Amelekana
 ```
 
 

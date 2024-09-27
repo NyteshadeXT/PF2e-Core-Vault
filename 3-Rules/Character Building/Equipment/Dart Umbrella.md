@@ -14,7 +14,7 @@ license: OGL
 ---
 # Dart Umbrella
 ## Item 0
-### [uncommon](uncommon "Uncommon Rarity Trait")[[agile]][[concealable]][[nonlethal]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[3-Rules/Rule References/Agile]][[concealable]][[nonlethal]]
 
 |  |  |
 | -- | -- |

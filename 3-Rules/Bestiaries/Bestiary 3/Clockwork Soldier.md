@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/clockwork
   - pf2e/creature/type/construct
   - pf2e/creature/type/mindless
+  - pf2eMonster
   - pf2e/creature/level/6
 statblock: inline
 name: "Clockwork Soldier"
@@ -23,19 +24,20 @@ token: [[modules/pf2e-tokens-bestiaries/portraits/constructed/mechanical/clockwo
 source: "Pathfinder Bestiary 3"
 name: "Clockwork Soldier"
 level: "Creature 6"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Medium"
-trait_01: "clockwork"
-trait_02: "construct"
-trait_03: "mindless"
+trait_01: [[clockwork]]
+trait_02: [[construct]]
+trait_03: [[mindless]]
 modifier: 16
 perception:
   - name: "Perception"
     desc: "+16; Darkvision"
+languages: ""
 skills:
   - name: "Skills"
-    desc: "Athletics: +15 (+17 to Disarm, Grappe, or avoid being Disarmed)"
+    desc: "Athletics: +15"
 abilityMods: [6, 2, 4, -5, 4, -5]
 speed: 25 feet
 sourcebook: "_Pathfinder Bestiary 3_"
@@ -53,7 +55,7 @@ abilities_top:
   - name: "Items"
     desc: "[[Equipment/Halberd|+1 Halberd]]"
   - name: "Wind-Up"
-    desc: "  24 hours, DC 22 Thievery check, standby\nFor a clockwork to act, it must be wound with a unique key by another creature. This takes 1 minute. Once wound, it remains operational for the listed amount of time, usually 24 hours, after which time it becomes unaware of its surroundings and can't act until it's wound again. Some clockworks' abilities require them to spend some of their remaining operational time. They can't spend more than they have and shut down immediately once they have 0 time remaining. If it's unclear when a clockwork was last wound, most clockwork keepers wind all their clockworks at a set time, typically 8 a.m.\nA clockwork that lists standby in its wind-up entry can enter standby mode as a 3-action activity. Its operational time doesn't decrease in standby, but it can sense its surroundings (with a -2 penalty to Perception). It can't act, with one exception: when it perceives a creature, it can exit standby as a reaction (rolling initiative if appropriate).\nA creature can attempt to [[Actions/Disable a Device|Disable a Device]] to wind a clockwork down (with a DC listed in the wind-up entry). For each success, the clockwork loses 1 hour of operational time. This can be done even if the clockwork is in standby mode."
+    desc: "  24 hours, DC 22 Thievery check, standby\n* * *\n\nFor a clockwork to act, it must be wound with a unique key by another creature. This takes 1 minute. Once wound, it remains operational for the listed amount of time, usually 24 hours, after which time it becomes unaware of its surroundings and can't act until it's wound again. Some clockworks' abilities require them to spend some of their remaining operational time. They can't spend more than they have and shut down immediately once they have 0 time remaining. If it's unclear when a clockwork was last wound, most clockwork keepers wind all their clockworks at a set time, typically 8 a.m.\n\nA clockwork that lists standby in its wind-up entry can enter standby mode as a 3-action activity. Its operational time doesn't decrease in standby, but it can sense its surroundings (with a -2 penalty to Perception). It can't act, with one exception: when it perceives a creature, it can exit standby as a reaction (rolling initiative if appropriate).\n\nA creature can attempt to [[Actions/Disable a Device|Disable a Device]] to wind a clockwork down (with a DC listed in the wind-up entry). For each success, the clockwork loses 1 hour of operational time. This can be done even if the clockwork is in standby mode."
 
 abilities_mid:
   - name: ""
@@ -70,11 +72,17 @@ attacks:
     desc: "`pf2:1` Fist +16 (agile, unarmed)\n__Damage__  1d8 + 9 bludgeoning plus grab"
 
   - name: "Activate Defenses"
-    desc: "`pf2:1`  One of the soldier's external plates extends on a mechanical actuator to defend the soldier or an adjacent creature of the soldier's choice.\nThe creature gains a +2 circumstance bonus to AC until the start of the soldier's next turn, or until it is no longer adjacent to the soldier, whichever comes first. The soldier can have no more than one plate extended at a time.\n[[Bestiary Effects/Effect_ Activate Defenses|Effect: Activate Defenses]]"
+    desc: "`pf2:1`  One of the soldier's external plates extends on a mechanical actuator to defend the soldier or an adjacent creature of the soldier's choice.\n\nThe creature gains a +2 circumstance bonus to AC until the start of the soldier's next turn, or until it is no longer adjacent to the soldier, whichever comes first. The soldier can have no more than one plate extended at a time.\n\n[[Bestiary Effects/Effect_ Activate Defenses|Effect: Activate Defenses]]"
 
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
     desc: "`pf2:1`  "
  
+```
+
+```encounter-table
+name: Clockwork Soldier
+creatures:
+  - 1: Clockwork Soldier
 ```
 
 

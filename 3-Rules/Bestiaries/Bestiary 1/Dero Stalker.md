@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/dero
   - pf2e/creature/type/evil
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/2
 statblock: inline
 name: "Dero Stalker"
@@ -27,10 +28,10 @@ level: "Creature 2"
 
 alignment: ""
 size: "Small"
-trait_01: "chaotic"
-trait_02: "dero"
-trait_03: "evil"
-trait_04: "humanoid"
+trait_01: [[chaotic]]
+trait_02: [[dero]]
+trait_03: [[evil]]
+trait_04: [[humanoid]]
 modifier: 5
 perception:
   - name: "Perception"
@@ -58,7 +59,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Nimble Dodge"
-    desc: "`pf2:r`  **Requirements** The dero stalker is not [[Conditions/Encumbered|Encumbered]].\n**Trigger** A creature targets the dero with an attack and the dero can see the attacker.\n**Effect** The dero dodges out of the way, gaining a +2 circumstance bonus to AC against the triggering attack."
+    desc: "`pf2:r`  **Requirements** The dero stalker is not [[Conditions/Encumbered|Encumbered]].\n\n**Trigger** A creature targets the dero with an attack and the dero can see the attacker.\n* * *\n\n**Effect** The dero dodges out of the way, gaining a +2 circumstance bonus to AC against the triggering attack."
 
   - name: "Vulnerable to Sunlight"
     desc: "  A dero stalker takes 4 damage for every hour they're exposed to sunlight."
@@ -81,6 +82,12 @@ attacks:
   - name: "[[Bestiary Ability Glossary/Sneak Attack|Sneak Attack]]"
     desc: "  A dero stalker deals 1d6 extra precision damage to [[Conditions/Off-Guard|Off-Guard]] creatures."
  
+```
+
+```encounter-table
+name: Dero Stalker
+creatures:
+  - 1: Dero Stalker
 ```
 
 

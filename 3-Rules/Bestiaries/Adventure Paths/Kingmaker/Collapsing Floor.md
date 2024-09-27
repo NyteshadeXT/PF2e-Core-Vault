@@ -5,6 +5,7 @@ noteType: pf2eHazard
 tags:
   - mechanical
   - trap
+  - pf2eHazard
 
 source: Pathfinder Kingmaker
 aliases: "Compendium.pf2e.kingmaker-bestiary.Actor.vONZlReozVCabXhq" 
@@ -22,8 +23,8 @@ name: "Collapsing Floor"
 level: "Hazard 20"
 
 
-trait_01: "mechanical"
-trait_02: "trap"
+trait_01: [[mechanical]]
+trait_02: [[trap]]
 modifier: 38
 sourcebook: "_Pathfinder Kingmaker_"
 perception:
@@ -42,9 +43,15 @@ attacks:
   - name: ""
 
   - name: "Collapse"
-    desc: "`pf2:r` **Trigger** A Small or larger creature walks into either 5-foot-square at the westernmost end of the building\n**Effect** The triggering creature falls and takes 50 bludgeoning damage, then an additional 10d6 bludgeoning damage as they and the building's falling timbers \"land\" in a devastating crash at area **A1**. The creature can use the [[Actions/Grab an Edge|Grab an Edge]] reaction to avoid falling."
+    desc: "`pf2:r` **Trigger** A Small or larger creature walks into either 5-foot-square at the westernmost end of the building\n* * *\n\n**Effect** The triggering creature falls and takes 50 bludgeoning damage, then an additional 10d6 bludgeoning damage as they and the building's falling timbers \"land\" in a devastating crash at area **A1**. The creature can use the [[Actions/Grab an Edge|Grab an Edge]] reaction to avoid falling."
 
 
 
+```
+
+```encounter-table
+name: Collapsing Floor
+creatures:
+  - 1: Collapsing Floor
 ```
 

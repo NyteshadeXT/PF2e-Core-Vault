@@ -3,33 +3,24 @@ obsidianUIMode: preview
 title: "Combine Elixirs"
 cssclasses: pf2e,pf2e-spell
 tags:
-  - trait/additive2
+  - trait/additive
   - trait/alchemist
   - trait/common
   - category/class
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.jSkJIWPfSZZzvYzq"
-license: OGL
+license: ORC
 ---
-# Combine Elixirs `pf2:0`
+# Combine Elixirs
 ## Feat 6
-### [[additive2]][[alchemist]]
+### [[additive]][[alchemist]]
 
 **Category** class; 
 
 
 
 
-**Frequency** once per round
+You can add the full ingredients of a second elixir to an elixir you make to create a hybrid concoction. You must expend an additional versatile vial to make this combined elixir, and the ingredients must be for an elixir you could create with [[Actions/Quick Alchemy|Quick Alchemy]]. When this combination elixir is consumed, both the constituent elixirs take effect. For example, you can combine two [[Equipment/Elixir of Life (Lesser)|Lesser Elixirs of Life]] to create a combined elixir that heals twice the normal amount, or you can combine a [[Equipment/Darkvision Elixir (Lesser)|Lesser Darkvision Elixir]] with a [[Equipment/Eagle Eye Elixir (Lesser)|Lesser Eagle-Eye Elixir]] to both gain darkvision and find secret doors.
 
-**Trigger** You use [[Class Features/Quick Alchemy|Quick Alchemy]] to craft an alchemical item that has the elixir trait and is at least 2 levels lower than your advanced alchemy level.
-
-* * *
-
-You've discovered how to mix two elixirs into a single hybrid concoction.
-
-You can spend 2 additional batches of [[Class Features/Infused Reagents|Infused Reagents]] to add a second elixir to the one you're crafting. The second elixir must also be at least 2 levels lower than your advanced alchemy level, and the combination elixir is an alchemical item two levels higher than the higher of the two elixirs' levels. When this combination elixir is consumed, both the constituent elixirs take effect.
-
-For example, you can combine two elixirs of life to create a combined elixir that heals twice the normal amount, or you can combine a lesser darkvision elixir with a lesser eagle-eye elixir to both gain darkvision and find secret doors.
-
-*Source: Pathfinder Core Rulebook*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

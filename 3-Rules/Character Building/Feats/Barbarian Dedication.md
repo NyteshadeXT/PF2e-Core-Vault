@@ -8,8 +8,9 @@ tags:
   - trait/multiclass
   - trait/common
   - category/class
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.WVU0c8rgcpGSRqSi"
-license: OGL
+license: ORC
 ---
 # Barbarian Dedication
 ## Feat 2
@@ -21,11 +22,13 @@ license: OGL
 
 **Prerequisites** Strength +2; Constitution +2
 * * *
-You become trained in Athletics; if you were already trained in Athletics, you instead become trained in a skill of your choice. You become trained in barbarian class DC. You can use the [[Actions/Rage|Rage]] action. Choose an [[Class Features/Instinct|Instinct]] as you would if you were a barbarian. You have that instinct for all purposes and become bound by its anathema, but you don't gain any of the other abilities it grants.
+You become trained in Athletics; if you were already trained in Athletics, you instead become trained in a skill of your choice. You become trained in barbarian class DC.
 
-* * *
+You can use the Rage action. While raging, you take a –1 penalty to AC.
 
-**Special** You cannot select another dedication feat until you have gained two other feats from the [[PF2e Journals/Archetypes/Barbarian|Barbarian]] archetype.
+Choose an instinct as you would if you were a barbarian. You have that instinct for all purposes, but you don't gain any of the other abilities it grants. If that instinct has anathema, you're bound by them.
 
-*Source: Pathfinder Core Rulebook*
-*OGL*
+[[PF2e Journals/Archetypes/Barbarian|Barbarian]]
+
+*Source: Pathfinder Player Core 2*
+*ORC*

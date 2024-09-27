@@ -7,8 +7,9 @@ tags:
   - trait/dedication
   - trait/common
   - category/class
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.MndcBMz6I7e6SRqx"
-license: OGL
+license: ORC
 ---
 # Weapon Improviser Dedication
 ## Feat 2
@@ -20,9 +21,9 @@ license: OGL
 
 **Prerequisites** trained in all martial weapons
 * * *
-You don't take the normal -2 penalty to attack rolls with improvised weapons. Additionally, whenever you gain a class feature that grants you expert or greater proficiency with any weapon, you also gain that proficiency with improvised weapons.
+You don't take the normal –2 penalty to attack rolls with improvised weapons. Improvised weapons you use have a minimum weapon damage die of 1d6, or 1d4 if the improvised weapon is agile.
 
-**Special** You can't select another dedication feat until you have gained two other feats from the [[PF2e Journals/Archetypes/Weapon Improviser|Weapon Improviser]] archetype.
+[[PF2e Journals/Archetypes/Weapon Improviser|Weapon Improviser]]
 
-*Source: Pathfinder Advanced Player's Guide*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

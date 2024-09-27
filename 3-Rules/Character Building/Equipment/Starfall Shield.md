@@ -25,7 +25,7 @@ This high-grade adamantine heavy rondache (Hardness 17, HP 100, BT 50) bears a _
 
 * * *
 
-**Effect** You Stride up to three times. This movement doesn't trigger reactions and ignores difficult terrain. At the end of your movement, you deal 6d10 bludgeoning in a 10-foot emanation and 14d6 fire in a 40-foot emanation (DC 40 Reflex check, with the results applying to both the bludgeoning and fire damage). The space where you end your movement and all adjacent spaces become difficult terrain for 1 minute, and the shield glows red-hot for 10 minutes, during which it gains the effect of the greater flaming property rune.
+**Effect** You Stride up to three times. This movement doesn't trigger reactions and ignores difficult terrain. At the end of your movement, you deal 6d10 bludgeoning in a @Template\[emanation|distance:10\] and 14d6 fire in a @Template\[emanation|distance:40\] (DC 40 Reflex check, with the results applying to both the bludgeoning and fire damage). The space where you end your movement and all adjacent spaces become difficult terrain for 1 minute, and the shield glows red-hot for 10 minutes, during which it gains the effect of the greater flaming property rune.
 
 *Source: Pathfinder Treasure Vault*
 *OGL*

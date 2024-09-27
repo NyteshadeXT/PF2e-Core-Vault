@@ -6,6 +6,7 @@ cssClasses: pf2e
 aliases: "Compendium.pf2e.pathfinder-bestiary-3.Actor.yCyZlDAaJ6cDYtB7" 
 tags:
   - pf2e/creature/type/animal
+  - pf2eMonster
   - pf2e/creature/level/3
 statblock: inline
 name: "Wolliped"
@@ -24,11 +25,12 @@ level: "Creature 3"
 
 alignment: ""
 size: "Large"
-trait_01: "animal"
+trait_01: [[animal]]
 modifier: 9
 perception:
   - name: "Perception"
     desc: "+9; Low-Light Vision, Scent (Imprecise) 30 Feet"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Acrobatics: +10, Athletics: +10, Survival: +9"
@@ -65,11 +67,17 @@ attacks:
     desc: "  A wolliped isn't impeded by difficult terrain caused by snow or ice, nor does it need to attempt Acrobatics checks to keep from falling on slippery ice."
 
   - name: "Regurgitated Wrath"
-    desc: "`pf2:1`  **Frequency** once per hour\n**Effect** The wolliped regurgitates the contents of its stomach and spits them at the target, dealing 2d6 bludgeoning damage and 2d6 acid damage. The target attempts a DC 20 Reflex check save, and on a failure also becomes [[Conditions/Sickened 1|Sickened 1]] ([[Conditions/Sickened 1|Sickened 2]] on a critical failure)."
+    desc: "`pf2:1`  **Frequency** once per hour\n* * *\n\n**Effect** The wolliped regurgitates the contents of its stomach and spits them at the target, dealing 2d6 bludgeoning damage and 2d6 acid damage. The target attempts a DC 20 Reflex check save, and on a failure also becomes [[Conditions/Sickened|Sickened 1]] ([[Conditions/Sickened|Sickened 2]] on a critical failure)."
 
   - name: "[[Bestiary Ability Glossary/Trample|Trample]]"
-    desc: "`pf2:3`  Medium or smaller, hoof, DC 20 Reflex check\n"
+    desc: "`pf2:3`  Medium or smaller, hoof, DC 20 Reflex check\n\n* * *\n"
  
+```
+
+```encounter-table
+name: Wolliped
+creatures:
+  - 1: Wolliped
 ```
 
 

@@ -11,7 +11,7 @@ license: OGL
 ---
 # Light Writer
 ## Item 6
-### [rare](rare "Rare Rarity Trait")[[clockwork]][[3-Rules/Character Building/Spells/Light]]
+### [rare](rare "Rare Rarity Trait")[[clockwork]][[light]]
 
 
 **Price** 200 gp; 

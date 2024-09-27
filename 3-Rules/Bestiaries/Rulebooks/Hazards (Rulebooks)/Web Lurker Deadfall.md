@@ -4,6 +4,7 @@ obsidianUIMode: preview
 noteType: pf2eHazard
 tags:
   - mechanical
+  - pf2eHazard
 
 source: Pathfinder Bestiary
 aliases: "Compendium.pf2e.hazards.Actor.0dg9YrjsDi6Ap3jF" 
@@ -21,13 +22,13 @@ name: "Web Lurker Deadfall"
 level: "Hazard 3"
 
 
-trait_01: "mechanical"
+trait_01: [[mechanical]]
 modifier: 13
 sourcebook: "_Pathfinder Bestiary_"
 ac: 19
 armorclass:
   - name: AC
-    desc: "19; __Fort__ +9, __Ref__ +9, __Will__ +0"
+    desc: "19; __Fort__ +9, __Ref__ +9, "
 hp: 10
 health:
   - name: ""
@@ -36,7 +37,7 @@ health:
 perception:
   - name: ""
   - name: "Stealth DC 23" 
-    desc: "DC 23"
+    desc: "DC 23 Stealth check"
 abilities_top:
   - name: ""
   - name: "Description"
@@ -49,9 +50,15 @@ attacks:
   - name: ""
 
   - name: "Deadfall"
-    desc: "`pf2:r` **Trigger** A creature steps into the square with the web tripwire.\n**Effect** All creatures in the trap's 10-foot square take 2d6 bludgeoning damage (DC 20 Reflex check save)."
+    desc: "`pf2:r` **Trigger** A creature steps into the square with the web tripwire.\n* * *\n\n**Effect** All creatures in the trap's 10-foot square take 2d6 bludgeoning damage (DC 20 Reflex check save)."
 
 
 
+```
+
+```encounter-table
+name: Web Lurker Deadfall
+creatures:
+  - 1: Web Lurker Deadfall
 ```
 

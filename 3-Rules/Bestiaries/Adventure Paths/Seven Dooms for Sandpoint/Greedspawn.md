@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.seven-dooms-for-sandpoint-bestiary.Actor.xoh5JAue3PtjH
 tags:
   - pf2e/creature/type/aberration
   - pf2e/creature/type/evil
+  - pf2eMonster
   - pf2e/creature/level/2
 statblock: inline
 name: "Greedspawn"
@@ -24,8 +25,8 @@ level: "Creature 2"
 
 alignment: ""
 size: "Medium"
-trait_01: "aberration"
-trait_02: "evil"
+trait_01: [[aberration]]
+trait_02: [[evil]]
 modifier: 10
 perception:
   - name: "Perception"
@@ -67,8 +68,14 @@ attacks:
     desc: "`pf2:1` Claw +10 ()\n__Damage__  1d6 + 4 slashing"
 
   - name: "Sinful Bite"
-    desc: " (arcane,emotion,mental) A creature hit by the jaws of a sinspawn must attempt a DC 18 Will check save as it is assailed by sinful thoughts.\n**Critical Success** Unaffected\n**Success** [[Conditions/Sickened 1|Sickened 1]]\n**Failure** [[Conditions/Sickened 1|Sickened 2]]\n**Critical Failure** sickened 2 plus [[Conditions/Clumsy 1|Clumsy 2]] for 1 minute"
+    desc: " (arcane,emotion,mental) A creature hit by the jaws of a sinspawn must attempt a DC 18 Will check save as it is assailed by sinful thoughts.\n* * *\n\n**Critical Success** Unaffected\n\n**Success** [[Conditions/Sickened|Sickened 1]]\n\n**Failure** [[Conditions/Sickened|Sickened 2]]\n\n**Critical Failure** sickened 2 plus [[Conditions/Clumsy|Clumsy 2]] for 1 minute"
  
+```
+
+```encounter-table
+name: Greedspawn
+creatures:
+  - 1: Greedspawn
 ```
 
 

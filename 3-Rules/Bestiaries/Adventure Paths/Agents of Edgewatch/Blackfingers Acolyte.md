@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/human
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/6
 statblock: inline
 name: "Blackfingers Acolyte"
@@ -22,12 +23,12 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #160: Assault on Hunting Lodge Seven"
 name: "Blackfingers Acolyte"
 level: "Creature 6"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Medium"
-trait_01: "evil"
-trait_02: "human"
-trait_03: "humanoid"
+trait_01: [[evil]]
+trait_02: [[human]]
+trait_03: [[humanoid]]
 modifier: 16
 perception:
   - name: "Perception"
@@ -35,7 +36,7 @@ perception:
 languages: "Common"
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +14, Diplomacy: +12, Intimidation: +14, Norgorber Lore: +10, Religion: +16, Stealth: +16, Thievery: +16"
+    desc: "Acrobatics: +14, Diplomacy: +12, Intimidation: +14, Religion: +16, Stealth: +16, Thievery: +16, Norgorber Lore: +10"
 abilityMods: [1, 4, 1, 0, 4, 2]
 speed: 25 feet
 sourcebook: "_Pathfinder #160: Assault on Hunting Lodge Seven_"
@@ -75,6 +76,12 @@ attacks:
   - name: "[[Bestiary Ability Glossary/Sneak Attack|Sneak Attack]]"
     desc: "  The acolyte deals an additional 2d6 precision damage to [[Conditions/Off-Guard|Off-Guard]] creatures."
  
+```
+
+```encounter-table
+name: Blackfingers Acolyte
+creatures:
+  - 1: Blackfingers Acolyte
 ```
 
 

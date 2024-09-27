@@ -11,3 +11,5 @@ Play during your turn.
 * * *
 
 Make a Strike, ignoring the multiple attack penalty. If you roll a critical success, you get a normal success instead. If the attack fails, you release your weapon, or drop [[Conditions/Prone|Prone]] if you were using an unarmed attack or otherwise can't release your weapon.
+
+[[Other Effects/Effect_ Desperate Swing|Effect: Desperate Swing]]

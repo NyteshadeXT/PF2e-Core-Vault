@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/undead
   - pf2e/creature/type/unholy
+  - pf2eMonster
   - pf2e/creature/level/4
 statblock: inline
 name: "Bloodsiphon"
@@ -23,18 +24,18 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #163: Ruins of Gauntlight"
 name: "Bloodsiphon"
 level: "Creature 4"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Medium"
-trait_01: "amphibious"
-trait_02: "evil"
-trait_03: "undead"
-trait_04: "unholy"
+trait_01: [[amphibious]]
+trait_02: [[evil]]
+trait_03: [[undead]]
+trait_04: [[unholy]]
 modifier: 10
 perception:
   - name: "Perception"
     desc: "+10; Tremorsense (Imprecise) 30 Feet"
-languages: "Aklo"
+languages: "Aklo; cannot speak any language"
 skills:
   - name: "Skills"
     desc: "Athletics: +12"
@@ -56,7 +57,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Death Burst"
-    desc: " (aura,occult) 20 feet. When the bloodsiphon dies, its body explodes in a cloudy red burst of necrotic dried blood in a 20-foot area.\nCreatures in range must attempt a DC 21 Reflex check save.\n**Critical Success** The creature is unaffected.\n**Success** The creature takes 2d6 void damage.\n**Failure** The creature takes 4d6 void damage.\n**Critical Failure** The creature takes 6d6 void damage and is [[Conditions/Enfeebled 1|Enfeebled 2]] for 1 hour."
+    desc: " (aura,occult) 20 feet. When the bloodsiphon dies, its body explodes in a cloudy red burst of necrotic dried blood in a 20-foot area.\n\nCreatures in range must attempt a DC 21 Reflex check save.\n* * *\n\n**Critical Success** The creature is unaffected.\n\n**Success** The creature takes 2d6 void damage.\n\n**Failure** The creature takes 4d6 void damage.\n\n**Critical Failure** The creature takes 6d6 void damage and is [[Conditions/Enfeebled|Enfeebled 2]] for 1 hour."
 
 attacks:
   - name: ""
@@ -68,11 +69,17 @@ attacks:
     desc: "`pf2:1` Spittle +11 (range 30 feet)\n__Damage__  3d6 void"
 
   - name: "Blood Drain"
-    desc: "`pf2:1`  **Requirements** The bloodsiphon has a creature [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]]\n**Effect** The bloodsiphon drains blood from the creature it has grabbed. This deals 4d4 damage and the bloodsiphon grows temporarily moist and slimy as it regains 8 Hit Points, gaining any excess as temporary Hit Points that last for 1 minute.\nA creature that has its blood drained by the bloodsiphon is [[Conditions/Drained 1|Drained 1]] until it receives any type of healing."
+    desc: "`pf2:1`  **Requirements** The bloodsiphon has a creature [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]]\n* * *\n\n**Effect** The bloodsiphon drains blood from the creature it has grabbed. This deals 4d4 damage and the bloodsiphon grows temporarily moist and slimy as it regains 8 Hit Points, gaining any excess as temporary Hit Points that last for 1 minute.\n\nA creature that has its blood drained by the bloodsiphon is [[Conditions/Drained|Drained 1]] until it receives any type of healing."
 
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
     desc: "`pf2:1`  "
  
+```
+
+```encounter-table
+name: Bloodsiphon
+creatures:
+  - 1: Bloodsiphon
 ```
 
 

@@ -9,7 +9,7 @@ license: OGL
 ---
 # Deployable Cover (Ballistic Cover)
 ## Item 2
-### [uncommon](uncommon "Uncommon Rarity Trait")
+### [uncommon](uncommon.md "Uncommon Rarity Trait")
 
 
 **Price** 35 gp; 

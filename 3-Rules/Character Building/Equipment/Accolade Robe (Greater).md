@@ -13,7 +13,7 @@ license: ORC
 ---
 # Accolade Robe (Greater)
 ## Item 17
-### [[arcane]][[focused]][[invested]]
+### [[3-Rules/Rule References/Arcane]][[focused]][[invested]]
 
 
 **Price** 13500 gp; 
@@ -26,11 +26,11 @@ The pockets of the robe tie to an extradimensional space that can hold 1 Bulk of
 
 * * *
 
-**Activate—Review** `pf2:0` (concentrate, manipulate)
+**Activate—Review** `pf2:1` (concentrate, manipulate)
 
-**Frequency** once per minute
+**Effect** You retrieve an item of your choice from the robe's storage, then Recall Knowledge.
 
-You retrieve an item of your choice from the robe's storage, then Recall Knowledge.
+You can activate the robe's Review once per minute as a free action.
 
 * * *
 

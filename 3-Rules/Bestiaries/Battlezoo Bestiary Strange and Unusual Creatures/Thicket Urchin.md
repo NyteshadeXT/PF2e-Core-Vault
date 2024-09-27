@@ -7,6 +7,7 @@ aliases: "Compendium.battlezoo-bestiary-su-pf2e.pf2e-battlezoo-su-actors.Actor.C
 tags:
   - pf2e/creature/type/fungus
   - pf2e/creature/type/mindless
+  - pf2eMonster
   - pf2e/creature/level/15
 statblock: inline
 name: "Thicket Urchin"
@@ -25,15 +26,16 @@ level: "Creature 15"
 
 alignment: ""
 size: "grg"
-trait_01: "fungus"
-trait_02: "mindless"
+trait_01: [[fungus]]
+trait_02: [[mindless]]
 modifier: 23
 perception:
   - name: "Perception"
     desc: "+23; Darkvision, Tremorsense (Imprecise) 120 Feet"
+languages: ""
 skills:
   - name: "Skills"
-    desc: "Athletics: +30, "
+    desc: "Athletics: +30, Athletics: +30"
 abilityMods: [9, -4, 8, -5, 4, -3]
 speed: 15 feet
 sourcebook: "_Battlezoo Bestiary: Strange and Unusual_"
@@ -52,7 +54,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Prone Vulnerability"
-    desc: "  A thicket urchin suffers a –4 circumstance penalty to AC whenever it's flat- footed due to being Prone instead of the usual –2 circumstance penalty. The only action it can use while prone is to Stand, and it must attempt a DC 6 Flat check to do so or its action is lost."
+    desc: "  A thicket urchin suffers a –4 circumstance penalty to AC whenever it's flat- footed due to being [[undefined]] instead of the usual –2 circumstance penalty. The only action it can use while prone is to Stand, and it must attempt a DC 6 Flat check to do so or its action is lost."
 
 attacks:
   - name: ""
@@ -67,13 +69,13 @@ attacks:
     desc: "`pf2:1` Harpoon +28 (brutal, range increment 60 feet)\n__Damage__  3d10 + 14 piercing plus impale,thicket-urchin-venom"
 
   - name: "Thicket Urchin Venom"
-    desc: " (poison) **Saving Throw** DC 33 Fortitude check\n**Maximum Duration** 6 rounds\n**Stage 1** 2d6 poison damage, Clumsy 1, and Stupefied 1 (1 round)\n**Stage 2** 3d6 poison damage, Clumsy 2, and Stupefied 2 (1 round)\n**Stage 3** 4d6 poison damage, Clumsy 3, and Stupefied 3 (1 round)"
+    desc: " (poison) **Saving Throw** DC 33 Fortitude check\n\n**Maximum Duration** 6 rounds\n\n**Stage 1** 2d6 poison damage, [[undefined]], and [[undefined]] (1 round)\n\n**Stage 2** 3d6 poison damage, [[undefined]], and [[undefined]] (1 round)\n\n**Stage 3** 4d6 poison damage, [[undefined]], and [[undefined]] (1 round)"
 
   - name: "Impale"
-    desc: "  A creature hit by a thicket urchin's harpoon Strike becomes impaled on its barbed harpoon. Such a creature is Grabbed (Escape DC 37, or 39 if the harpoon was critical hit), and exposed to thicket urchin venom at the end of each of its turns as long as it remains grabbed."
+    desc: "  A creature hit by a thicket urchin's harpoon Strike becomes impaled on its barbed harpoon. Such a creature is [[undefined]] ([[undefined]] DC 37, or 39 if the harpoon was critical hit), and exposed to thicket urchin venom at the end of each of its turns as long as it remains grabbed."
 
   - name: "Drag"
-    desc: "`pf2:1`  **Requirements** The thicket urchin has a creature impaled\n**Effect** The thicket urchin reels in its harpoon, pulling an impaled creature toward it. The thicket urchin attempts an Athletics check against an impaled target's Fortitude DC.\n**Critical Success** The thicket urchin pulls the target 30 feet closer.\n**Success** The thicket urchin pulls the target 10 feet closer.\n**Critical Failure** The target is no longer impaled."
+    desc: "`pf2:1`  **Requirements** The thicket urchin has a creature impaled\n* * *\n\n**Effect** The thicket urchin reels in its harpoon, pulling an impaled creature toward it. The thicket urchin attempts an Athletics check against an impaled target's Fortitude DC.\n* * *\n\n**Critical Success** The thicket urchin pulls the target 30 feet closer.\n\n**Success** The thicket urchin pulls the target 10 feet closer.\n\n**Critical Failure** The target is no longer impaled."
 
   - name: "Hillock"
     desc: "`pf2:1` (concentrate) The thicket urchin settles down and disguises itself as a hill. Until the next time it acts, the thicket urchin appears to be a normal hill covered in short evergreen bushes. It has an automatic result of 47 on Deception checks and DCs to pass as a normal part of the landscape."
@@ -82,8 +84,14 @@ attacks:
     desc: "`pf2:2`  The thicket urchin sheds needles in a 30-foot emanation, causing 8d6 piercing damage (DC 36 Reflex check save). A creature that fails its save is exposed to thicket urchin venom."
 
   - name: "[[Bestiary Ability Glossary/Trample|Trample]]"
-    desc: "`pf2:3`  Large or smaller, body, DC 36 Reflex check\n"
+    desc: "`pf2:3`  Large or smaller, body, DC 36 Reflex check\n\n* * *\n"
  
+```
+
+```encounter-table
+name: Thicket Urchin
+creatures:
+  - 1: Thicket Urchin
 ```
 
 

@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/dragon
   - pf2e/creature/type/earth
   - pf2e/creature/type/evil
+  - pf2eMonster
   - pf2e/creature/level/2
 statblock: inline
 name: "Prairie Drake"
@@ -22,12 +23,12 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #178: Punks in a Powder Keg"
 name: "Prairie Drake"
 level: "Creature 2"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Small"
-trait_01: "dragon"
-trait_02: "earth"
-trait_03: "evil"
+trait_01: [[dragon]]
+trait_02: [[earth]]
+trait_03: [[evil]]
 modifier: 6
 perception:
   - name: "Perception"
@@ -63,17 +64,23 @@ attacks:
     desc: "`pf2:1` Wing +9 (agile, finesse)\n__Damage__  1d6 + 3 slashing"
 
   - name: "Dirt Breath"
-    desc: "`pf2:2` (arcane,earth) The prairie drake spits a ball of dirt that explodes into a shower of rocks and mud. The attack has a range of 30 feet and explodes in a 5-foot burst. Creatures within the burst take 3d6 bludgeoning damage (DC 16 Reflex check). Plant creatures in the area take no damage on a successful save; regardless, once per day, plant creatures can spend 10 minutes in the area to absorb the nutrients and heal 1d8 Hit Points. The prairie drake can't use Dirt Breath again for 1d6 rounds."
+    desc: "`pf2:2` (arcane,earth) The prairie drake spits a ball of dirt that explodes into a shower of rocks and mud. The attack has a range of 30 feet and explodes in a @Template[burst|distance:5]. Creatures within the burst take 3d6 bludgeoning damage (DC 16 Reflex check). Plant creatures in the area take no damage on a successful save; regardless, once per day, plant creatures can spend 10 minutes in the area to absorb the nutrients and heal 1d8 Hit Points. The prairie drake can't use Dirt Breath again for 1d6 rounds."
 
   - name: "Draconic Frenzy"
     desc: "`pf2:2`  The prairie drake makes one jaws Strike and two wing Strikes in any order."
 
   - name: "Speed Surge"
-    desc: "`pf2:1`  **Frequency** three times per day\n**Effect** The prairie drake Strides or Burrows twice."
+    desc: "`pf2:1`  **Frequency** three times per day\n* * *\n\n**Effect** The prairie drake Strides or Burrows twice."
 
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
     desc: "`pf2:1`  "
  
+```
+
+```encounter-table
+name: Prairie Drake
+creatures:
+  - 1: Prairie Drake
 ```
 
 

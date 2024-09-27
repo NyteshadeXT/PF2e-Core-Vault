@@ -6,6 +6,7 @@ cssClasses: pf2e
 aliases: "Compendium.pf2e.pathfinder-monster-core.Actor.NxLQHUMs57TktiZa" 
 tags:
   - pf2e/creature/type/fey
+  - pf2eMonster
   - pf2e/creature/level/16
   - remaster
 statblock: inline
@@ -22,10 +23,10 @@ token: [[modules/pf2e-tokens-bestiaries/portraits/fey/vilderavn.webp| ]]
 source: "Pathfinder Monster Core"
 name: "Vilderavn"
 level: "Creature 16"
-rare_03: "Rare"
+rare_03: [[Rare]]
 alignment: ""
 size: "Medium"
-trait_01: "fey"
+trait_01: [[fey]]
 modifier: 28
 perception:
   - name: "Perception"
@@ -33,7 +34,7 @@ perception:
 languages: "Aklo, Common, Diabolic, Fey; Truespeech"
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +30, Athletics: +32, Deception: +29, Heraldry Lore: +26, Society: +24, Stealth: +32, Warfare Lore: +26"
+    desc: "Acrobatics: +30, Athletics: +32, Deception: +29, Society: +24, Stealth: +32, Heraldry Lore: +26, Warfare Lore: +26"
 abilityMods: [8, 6, 5, 4, 4, 7]
 speed: 40 feet,  fly 120 feet
 sourcebook: "_Pathfinder Monster Core_"
@@ -81,6 +82,12 @@ attacks:
   - name: "Souleater"
     desc: " (occult) If the vilderavn kills a humanoid with a critical hit using their jaws Strike, they rip out and devour the target's heart and soul as part of the attack.\n\nWhile the target is dead, the vilderavn can Change Shape into the target's form, gaining a +4 status bonus to Deception checks to impersonate the target.\n\nIf magic would resurrect the creature, the caster must succeed at a DC 34 counteract check to extract the target's soul from the vilderavn; otherwise, the spell fails."
  
+```
+
+```encounter-table
+name: Vilderavn
+creatures:
+  - 1: Vilderavn
 ```
 
 

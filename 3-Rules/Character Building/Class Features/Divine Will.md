@@ -6,12 +6,13 @@ tags:
   - trait/champion
   - trait/common
   - category/classfeature
+  - remaster
 aliases: "Compendium.pf2e.classfeatures.Item.xygfZopqXBJ6dKBA"
-license: OGL
+license: ORC
 ---
 # Divine Will
 ## Feat 11
-### [[champion]]
+### [[3-Rules/trait_reference/champion]]
 
 **Category** classfeature; 
 
@@ -20,5 +21,5 @@ license: OGL
 
 Your faith grants mastery of your will. Your proficiency rank for Will saves increases to master. When you roll a success on a Will save, you get a critical success instead.
 
-*Source: Pathfinder Core Rulebook*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.pfs-season-1-bestiary.Actor.ptDF1ghCxNHGhH0h"
 tags:
   - pf2e/creature/type/earth
   - pf2e/creature/type/elemental
+  - pf2eMonster
   - pf2e/creature/level/4
 statblock: inline
 name: "Greater Steel Mephit"
@@ -24,8 +25,8 @@ level: "Creature 4"
 
 alignment: ""
 size: "Small"
-trait_01: "earth"
-trait_02: "elemental"
+trait_01: [[earth]]
+trait_02: [[elemental]]
 modifier: 12
 perception:
   - name: "Perception"
@@ -61,8 +62,14 @@ attacks:
     desc: "DC 20, attack +12; __3rd __ (1 slots) _[[Spells/One with Stone|Meld into Stone]]_; __2nd __ (1 slots) _[[Spells/Enlarge|Enlarge (Self Only)]]_"
 
   - name: "Breath Weapon"
-    desc: "`pf2:2` (arcane,earth) The greater steel mephit breathes shards of iron in a 15-foot cone that deals 3d6 slashing damage to each creature within the area (DC 19 Reflex check save). Creatures who fail their save against this effect also take 1d6 bleed. The greater steel mephit can't use its breath weapon again for 1d4 rounds."
+    desc: "`pf2:2` (arcane,earth) The greater steel mephit breathes shards of iron in a @Template[cone|distance:15] that deals 3d6 slashing damage to each creature within the area (DC 19 Reflex check save). Creatures who fail their save against this effect also take 1d6 bleed. The greater steel mephit can't use its breath weapon again for 1d4 rounds."
  
+```
+
+```encounter-table
+name: Greater Steel Mephit
+creatures:
+  - 1: Greater Steel Mephit
 ```
 
 

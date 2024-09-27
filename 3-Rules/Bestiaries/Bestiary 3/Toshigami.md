@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/good
   - pf2e/creature/type/kami
   - pf2e/creature/type/spirit
+  - pf2eMonster
   - pf2e/creature/level/15
 statblock: inline
 name: "Toshigami"
@@ -23,17 +24,17 @@ token: [[modules/pf2e-tokens-bestiaries/portraits/divine/kami/toshigami.webp| ]]
 source: "Pathfinder Bestiary 3"
 name: "Toshigami"
 level: "Creature 15"
-rare_03: "Rare"
+rare_03: [[Rare]]
 alignment: ""
 size: "Medium"
-trait_01: "good"
-trait_02: "kami"
-trait_03: "spirit"
+trait_01: [[good]]
+trait_02: [[kami]]
+trait_03: [[spirit]]
 modifier: 30
 perception:
   - name: "Perception"
     desc: "+30; Darkvision"
-languages: "Common"
+languages: "Common; speak with plants, telepathy 150 feet"
 skills:
   - name: "Skills"
     desc: "Acrobatics: +30, Diplomacy: +31, Medicine: +28, Nature: +30, Stealth: +28, Survival: +30"
@@ -54,7 +55,7 @@ abilities_top:
   - name: "Items"
     desc: "[[Equipment/Staff|+2 Striking Staff]]"
   - name: "Ward"
-    desc: " (divine) Every kami is bound to a ward: a specific animal, plant, object, or location. A kami can merge with or emerge from their ward as a single action, which has the concentrate trait. While merged, the kami can observe their surroundings with their usual senses as well as the senses of their ward, but can't move, communicate with, or control their ward. Additionally, a kami merged with their ward recovers Hit Points each minute as if they spent an entire day resting.\nA toshigami's ward is typically a cherry tree."
+    desc: " (divine) Every kami is bound to a ward: a specific animal, plant, object, or location. A kami can merge with or emerge from their ward as a single action, which has the concentrate trait. While merged, the kami can observe their surroundings with their usual senses as well as the senses of their ward, but can't move, communicate with, or control their ward. Additionally, a kami merged with their ward recovers Hit Points each minute as if they spent an entire day resting.\n\nA toshigami's ward is typically a cherry tree."
 
 abilities_mid:
   - name: ""
@@ -77,8 +78,14 @@ attacks:
     desc: "`pf2:2`  In a rapid series of movements, the toshigami unleashes a deadly assault. The toshigami makes three staff Strikes. The toshigami's multiple attack penalty doesn't increase until after they've made all three Strikes."
 
   - name: "Touch of Ages"
-    desc: " (curse,divine) A toshigami's attacks bestow a curse that alters the very flow of time in those they attack. When a toshigami hits a creature with a melee Strike, the creature must attempt a DC 38 Fortitude check save as its perspective shifts rapidly between that of advanced age and an infantile state. Regardless of the outcome, the creature is temporarily immune for 1 minute.\n**Critical Success** The creature is unaffected.\n**Success** The creature becomes [[Conditions/Clumsy 1|Clumsy 1]], [[Conditions/Enfeebled 1|Enfeebled 1]], and [[Conditions/Stupefied 1|Stupefied 1]] for 1 round.\n**Failure** The creature becomes [[Conditions/Clumsy 1|Clumsy 2]], [[Conditions/Enfeebled 1|Enfeebled 2]], and [[Conditions/Stupefied 1|Stupefied 2]] for 1 minute.\n**Critical Failure** As failure, but the conditions are permanent."
+    desc: " (curse,divine) A toshigami's attacks bestow a curse that alters the very flow of time in those they attack. When a toshigami hits a creature with a melee Strike, the creature must attempt a DC 38 Fortitude check save as its perspective shifts rapidly between that of advanced age and an infantile state. Regardless of the outcome, the creature is temporarily immune for 1 minute.\n* * *\n\n**Critical Success** The creature is unaffected.\n\n**Success** The creature becomes [[Conditions/Clumsy|Clumsy 1]], [[Conditions/Enfeebled|Enfeebled 1]], and [[Conditions/Stupefied|Stupefied 1]] for 1 round.\n\n**Failure** The creature becomes [[Conditions/Clumsy|Clumsy 2]], [[Conditions/Enfeebled|Enfeebled 2]], and [[Conditions/Stupefied|Stupefied 2]] for 1 minute.\n\n**Critical Failure** As failure, but the conditions are permanent."
  
+```
+
+```encounter-table
+name: Toshigami
+creatures:
+  - 1: Toshigami
 ```
 
 

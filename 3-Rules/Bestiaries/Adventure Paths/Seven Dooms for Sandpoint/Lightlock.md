@@ -5,6 +5,7 @@ noteType: pf2eHazard
 tags:
   - magical
   - trap
+  - pf2eHazard
 
 source: Pathfinder #200: Seven Dooms for Sandpoint
 aliases: "Compendium.pf2e.seven-dooms-for-sandpoint-bestiary.Actor.EVoXQv1tfMYQE72Y" 
@@ -22,8 +23,8 @@ name: "Lightlock"
 level: "Hazard 7"
 
 
-trait_01: "magical"
-trait_02: "trap"
+trait_01: [[magical]]
+trait_02: [[trap]]
 modifier: 15
 sourcebook: "_Pathfinder #200: Seven Dooms for Sandpoint_"
 perception:
@@ -42,10 +43,16 @@ attacks:
   - name: ""
 
   - name: "Freeze the Awful Light"
-    desc: "`pf2:r` (cold, darkness) **Trigger** A creature carrying a light source ends their turn in area **F8**\n**Effect** The walls fire beams of chilling dark fog at the triggering creature, who takes 10d6 cold damage (DC 25 Fortitude check save). The beams also attempt to counteract any light source the triggering creature carries. Non-magical light sources of 7th level or less are automatically extinguished. Against other light sources, the lightlock casts a 4th-rank [[Spells/Dispel Magic|Dispel Magic]] spell with a counteract modifier of +14 to attempt to counteract the light."
+    desc: "`pf2:r` (cold, darkness) **Trigger** A creature carrying a light source ends their turn in area **F8**\n* * *\n\n**Effect** The walls fire beams of chilling dark fog at the triggering creature, who takes 10d6 cold damage (DC 25 Fortitude check save). The beams also attempt to counteract any light source the triggering creature carries. Non-magical light sources of 7th level or less are automatically extinguished. Against other light sources, the lightlock casts a 4th-rank [[Spells/Dispel Magic|Dispel Magic]] spell with a counteract modifier of +14 to attempt to counteract the light."
 
 
   - name: "Reset"
     desc: "The lightlock takes 1 minute to restore its energy, after which it can be triggered again."
+```
+
+```encounter-table
+name: Lightlock
+creatures:
+  - 1: Lightlock
 ```
 

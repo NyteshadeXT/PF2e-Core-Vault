@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/clockwork
   - pf2e/creature/type/construct
   - pf2e/creature/type/mindless
+  - pf2eMonster
   - pf2e/creature/level/16
 statblock: inline
 name: "Clockwork Dragon"
@@ -23,16 +24,17 @@ token: [[modules/pf2e-tokens-bestiaries/portraits/constructed/mechanical/clockwo
 source: "Pathfinder Bestiary 3"
 name: "Clockwork Dragon"
 level: "Creature 16"
-rare_03: "Rare"
+rare_03: [[Rare]]
 alignment: ""
 size: "huge"
-trait_01: "clockwork"
-trait_02: "construct"
-trait_03: "mindless"
+trait_01: [[clockwork]]
+trait_02: [[construct]]
+trait_03: [[mindless]]
 modifier: 28
 perception:
   - name: "Perception"
     desc: "+28; Darkvision"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Acrobatics: +29, Athletics: +33"
@@ -52,12 +54,12 @@ abilities_top:
   - name: ""
 
   - name: "Wind-Up"
-    desc: "  1 week, DC 35 Thievery check, standby\nFor a clockwork to act, it must be wound with a unique key by another creature. This takes 1 minute. Once wound, it remains operational for the listed amount of time, usually 24 hours, after which time it becomes unaware of its surroundings and can't act until it's wound again. Some clockworks' abilities require them to spend some of their remaining operational time. They can't spend more than they have and shut down immediately once they have 0 time remaining. If it's unclear when a clockwork was last wound, most clockwork keepers wind all their clockworks at a set time, typically 8 a.m.\nA clockwork that lists standby in its wind-up entry can enter standby mode as a 3-action activity. Its operational time doesn't decrease in standby, but it can sense its surroundings (with a -2 penalty to Perception). It can't act, with one exception: when it perceives a creature, it can exit standby as a reaction (rolling initiative if appropriate).\nA creature can attempt to [[Actions/Disable a Device|Disable a Device]] to wind a clockwork down (with a DC listed in the wind-up entry). For each success, the clockwork loses 1 hour of operational time. This can be done even if the clockwork is in standby mode."
+    desc: "  1 week, DC 35 Thievery check, standby\n* * *\n\nFor a clockwork to act, it must be wound with a unique key by another creature. This takes 1 minute. Once wound, it remains operational for the listed amount of time, usually 24 hours, after which time it becomes unaware of its surroundings and can't act until it's wound again. Some clockworks' abilities require them to spend some of their remaining operational time. They can't spend more than they have and shut down immediately once they have 0 time remaining. If it's unclear when a clockwork was last wound, most clockwork keepers wind all their clockworks at a set time, typically 8 a.m.\n\nA clockwork that lists standby in its wind-up entry can enter standby mode as a 3-action activity. Its operational time doesn't decrease in standby, but it can sense its surroundings (with a -2 penalty to Perception). It can't act, with one exception: when it perceives a creature, it can exit standby as a reaction (rolling initiative if appropriate).\n\nA creature can attempt to [[Actions/Disable a Device|Disable a Device]] to wind a clockwork down (with a DC listed in the wind-up entry). For each success, the clockwork loses 1 hour of operational time. This can be done even if the clockwork is in standby mode."
 
 abilities_mid:
   - name: ""
   - name: "Self-Destruct"
-    desc: "`pf2:r`  A clockwork dragon must use this reaction unless specifically programmed otherwise by its creator.\n**Trigger** The clockwork dragon is reduced to 0 Hit Points.\n**Effect** The dragon screeches to a stop and emits a steady, loud ticking sound. At the beginning of what would have been its next turn, the dragon explodes, dealing 12d10 piercing damage in a 40-foot emanation (DC 37 Reflex check save).\nAn adjacent creature can cancel the self-destruct sequence by succeeding at a DC 37 Thievery check check to [[Actions/Disable a Device|Disable a Device]]."
+    desc: "`pf2:r`  A clockwork dragon must use this reaction unless specifically programmed otherwise by its creator.\n\n**Trigger** The clockwork dragon is reduced to 0 Hit Points.\n* * *\n\n**Effect** The dragon screeches to a stop and emits a steady, loud ticking sound. At the beginning of what would have been its next turn, the dragon explodes, dealing 12d10 piercing damage in a @Template[emanation|distance:40] (DC 37 Reflex check save).\n\nAn adjacent creature can cancel the self-destruct sequence by succeeding at a DC 37 Thievery check check to [[Actions/Disable a Device|Disable a Device]]."
 
 attacks:
   - name: ""
@@ -75,14 +77,20 @@ attacks:
     desc: "`pf2:1` Wing +31 (agile, reach 15 feet)\n__Damage__  2d10 + 15 piercing"
 
   - name: "Breath Weapon"
-    desc: "`pf2:2` (arcane,fire) The clockwork dragon breathes a spray of flaming oil that deals 16d6 fire damage in a 40-foot cone (DC 37 Reflex check save).\nCreatures that fail their saves are covered in burning oil and take 2d6 persistent fire.\nThe clockwork dragon can't use Breath Weapon again for 2 rounds."
+    desc: "`pf2:2` (arcane,fire) The clockwork dragon breathes a spray of flaming oil that deals 16d6 fire damage in a @Template[cone|distance:40] (DC 37 Reflex check save).\n\nCreatures that fail their saves are covered in burning oil and take 2d6 persistent fire.\n\nThe clockwork dragon can't use Breath Weapon again for 2 rounds."
 
   - name: "Draconic Frenzy"
     desc: "`pf2:2`  The clockwork dragon makes two claw Strikes and one wing Strike in any order."
 
   - name: "Spearing Tail"
-    desc: "`pf2:2`  The clockwork dragon attacks with the sharp point of its tail.\nIt makes a tail Strike against each creature in a 20-foot line, rolling the attack roll once and applying the result to each target. Any creature hit takes 4d6 bleed (2 \* 4d6 persistent bleed on a critical hit). This counts as two attacks for the dragon's multiple attack penalty."
+    desc: "`pf2:2`  The clockwork dragon attacks with the sharp point of its tail.\n\nIt makes a tail Strike against each creature in a @Template[line|distance:20], rolling the attack roll once and applying the result to each target. Any creature hit takes 4d6 bleed (8d6 persistent bleed on a critical hit). This counts as two attacks for the dragon's multiple attack penalty."
  
+```
+
+```encounter-table
+name: Clockwork Dragon
+creatures:
+  - 1: Clockwork Dragon
 ```
 
 

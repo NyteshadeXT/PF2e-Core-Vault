@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.pfs-season-2-bestiary.Actor.BPchAmEdLQtWhe9r"
 tags:
   - pf2e/creature/type/construct
   - pf2e/creature/type/mindless
+  - pf2eMonster
   - pf2e/creature/level/3
 statblock: inline
 name: "Animated Guardian Warrior"
@@ -21,15 +22,16 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Society Scenario #2-19: Enter the Pallid Peak"
 name: "Animated Guardian Warrior"
 level: "Creature 3"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Medium"
-trait_01: "construct"
-trait_02: "mindless"
+trait_01: [[construct]]
+trait_02: [[mindless]]
 modifier: 9
 perception:
   - name: "Perception"
     desc: "+9; Darkvision"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Athletics: +11"
@@ -51,7 +53,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Guardian Construct Armor (Hardness 6)"
-    desc: "  Like normal objects, the animated guardian has Hardness. This Hardness reduces any damage it takes by an amount equal to the Hardness.\nOnce the animated guardian is reduced to less than half its Hit Points, or immediately upon being damaged by a critical hit, its construct armor breaks and its Armor Class is reduced to 15. It also loses its hardness."
+    desc: "  Like normal objects, the animated guardian has Hardness. This Hardness reduces any damage it takes by an amount equal to the Hardness.\n\nOnce the animated guardian is reduced to less than half its Hit Points, or immediately upon being damaged by a critical hit, its construct armor breaks and its Armor Class is reduced to 15. It also loses its hardness."
 
 attacks:
   - name: ""
@@ -62,6 +64,12 @@ attacks:
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
     desc: "`pf2:1`  "
  
+```
+
+```encounter-table
+name: Animated Guardian Warrior
+creatures:
+  - 1: Animated Guardian Warrior
 ```
 
 

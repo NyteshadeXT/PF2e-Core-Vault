@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/mummy
   - pf2e/creature/type/undead
   - pf2e/creature/type/unholy
+  - pf2eMonster
   - pf2e/creature/level/0
 statblock: inline
 name: "Mummified Cat"
@@ -26,14 +27,15 @@ level: "Creature 0"
 
 alignment: ""
 size: "tiny"
-trait_01: "evil"
-trait_02: "mummy"
-trait_03: "undead"
-trait_04: "unholy"
+trait_01: [[evil]]
+trait_02: [[mummy]]
+trait_03: [[undead]]
+trait_04: [[unholy]]
 modifier: 7
 perception:
   - name: "Perception"
     desc: "+7; Darkvision, Scent (Imprecise) 30 Feet"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Acrobatics: +4, Athletics: +5, Stealth: +9"
@@ -75,6 +77,12 @@ attacks:
   - name: "[[Bestiary Ability Glossary/Sneak Attack|Sneak Attack]]"
     desc: "  The mummified cat deals an additional 1d4 precision damage to [[Conditions/Off-Guard|Off-Guard]] creatures."
  
+```
+
+```encounter-table
+name: Mummified Cat
+creatures:
+  - 1: Mummified Cat
 ```
 
 

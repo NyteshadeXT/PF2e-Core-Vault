@@ -12,7 +12,7 @@ license: OGL
 ---
 # Bloodline Robe
 ## Item 12
-### [[focused]][[invested]][[magical]]
+### [[focused]][[invested]][[3-Rules/Rule References/Magical]]
 
 
 **Price** 2000 gp; 

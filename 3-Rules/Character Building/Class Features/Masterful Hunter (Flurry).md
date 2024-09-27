@@ -12,7 +12,7 @@ license: ORC
 ---
 # Masterful Hunter (Flurry)
 ## Feat 17
-### [[ranger]]
+### [[3-Rules/trait_reference/ranger]]
 
 **Category** classfeature; 
 

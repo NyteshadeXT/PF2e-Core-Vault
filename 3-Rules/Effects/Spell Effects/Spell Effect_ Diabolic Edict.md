@@ -4,8 +4,9 @@ title: "Spell Effect: Diabolic Edict"
 cssclasses: pf2e,pf2e-spell
 tags:
   - trait/common
+  - remaster
 aliases: "Compendium.pf2e.spell-effects.Item.1kelGCsoXyGRqMd9"
-license: OGL
+license: ORC
 ---
 # Spell Effect: Diabolic Edict
 ## Level 1
@@ -18,5 +19,5 @@ license: OGL
 
 Granted by [[Spells/Diabolic Edict|Diabolic Edict]]
 
-*Source: Pathfinder Core Rulebook*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

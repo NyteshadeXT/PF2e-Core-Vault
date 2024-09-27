@@ -26,7 +26,7 @@ You pack your weapon with additional shot and powder, creating a risky but devas
 
 **Failure** The firearm misfires, but it doesn't cause the other critical failure effects listed below.
 
-**Critical Failure** The firearm misfires and also explodes. It becomes broken, and it deals its normal weapon damage to all creatures in a 20-foot burst centered on the firearm, with a basic Reflex save against your class DC. This damage includes any from the weapon's fundamental and property runes.
+**Critical Failure** The firearm misfires and also explodes. It becomes broken, and it deals its normal weapon damage to all creatures in a @Template\[burst|distance:20\] centered on the firearm, with a basic Reflex save against your class DC. This damage includes any from the weapon's fundamental and property runes.
 
 *Source: Pathfinder Guns & Gears*
 *OGL*

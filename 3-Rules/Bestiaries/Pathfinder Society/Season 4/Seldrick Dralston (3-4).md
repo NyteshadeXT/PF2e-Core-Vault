@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/undead
   - pf2e/creature/type/unholy
+  - pf2eMonster
   - pf2e/creature/level/4
 statblock: inline
 name: "Seldrick Dralston (3-4)"
@@ -22,12 +23,12 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Society Scenario #4-02: Return to the Grave"
 name: "Seldrick Dralston (3-4)"
 level: "Creature 4"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Medium"
-trait_01: "evil"
-trait_02: "undead"
-trait_03: "unholy"
+trait_01: [[evil]]
+trait_02: [[undead]]
+trait_03: [[unholy]]
 modifier: 11
 perception:
   - name: "Perception"
@@ -55,7 +56,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Denounce Heretic"
-    desc: "`pf2:r` (divine) **Trigger** A creature within 60 feet who Seldrick Dralston can see and who doesn't follow the Whispering Way casts a divine spell\n**Effect** Seldrick attempts to counteract the triggering spell using their spell attack modifier and a counteract rank of 2. If Seldrick fails to counteract the spell, the caster is temporarily immune to further uses of Denounce Heretic for 24 hours."
+    desc: "`pf2:r` (divine) **Trigger** A creature within 60 feet who Seldrick Dralston can see and who doesn't follow the Whispering Way casts a divine spell\n* * *\n\n**Effect** Seldrick attempts to counteract the triggering spell using their spell attack modifier and a counteract rank of 2. If Seldrick fails to counteract the spell, the caster is temporarily immune to further uses of Denounce Heretic for 24 hours."
 
   - name: "Field of Undeath"
     desc: " (aura,divine) 20 feet. Allies within the aura who have void healing gain fast healing 3. When a creature within the aura would receive vitality healing, it must succeed at a DC 5 Flat check or receive no healing from the effect."
@@ -63,7 +64,7 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
+  - name: "Ranged"
     desc: "`pf2:1` Dagger +12 (agile, finesse, magical, thrown 10 ft., versatile s)\n__Damage__  2d4 + 5 piercing"
 
   - name: "Divine Prepared Spells"
@@ -72,6 +73,12 @@ attacks:
   - name: "Cleric Domain Spells"
     desc: "1 Focus Point, DC 20, attack +12; __2nd __  _[[Spells/Touch of Undeath|Touch of Undeath]]_"
  
+```
+
+```encounter-table
+name: Seldrick Dralston (3-4)
+creatures:
+  - 1: Seldrick Dralston (3-4)
 ```
 
 

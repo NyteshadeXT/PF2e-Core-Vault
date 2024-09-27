@@ -6,8 +6,9 @@ tags:
   - trait/champion
   - trait/common
   - category/class
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.FXKIALDXAzEBfj5A"
-license: OGL
+license: ORC
 ---
 # Deity's Domain
 ## Feat 1
@@ -20,5 +21,5 @@ license: OGL
 
 You embody an aspect of your deity. Choose one of your deity's domains. You gain the domain's initial domain spell as a devotion spell.
 
-*Source: Pathfinder Core Rulebook*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

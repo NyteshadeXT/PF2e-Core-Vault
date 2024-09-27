@@ -11,7 +11,7 @@ license: OGL
 ---
 # Encompassing Lockpick
 ## Item 8
-### [uncommon](uncommon "Uncommon Rarity Trait")[[extradimensional]][[magical]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[extradimensional]][[3-Rules/Rule References/Magical]]
 
 
 **Price** 450 gp; 

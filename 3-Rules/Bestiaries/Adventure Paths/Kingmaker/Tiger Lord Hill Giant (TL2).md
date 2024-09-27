@@ -10,6 +10,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/giant
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/12
 statblock: inline
 name: "Tiger Lord Hill Giant (TL2)"
@@ -24,14 +25,14 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Kingmaker"
 name: "Tiger Lord Hill Giant (TL2)"
 level: "Creature 12"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Large"
-trait_01: "chaotic"
-trait_02: "earth"
-trait_03: "evil"
-trait_04: "giant"
-trait_05: "humanoid"
+trait_01: [[chaotic]]
+trait_02: [[earth]]
+trait_03: [[evil]]
+trait_04: [[giant]]
+trait_05: [[humanoid]]
 modifier: 20
 perception:
   - name: "Perception"
@@ -74,14 +75,20 @@ attacks:
     desc: "`pf2:1` Rock +23 (brutal, range increment 120 feet)\n__Damage__  2d8 + 13 bludgeoning plus rock"
 
   - name: "Knockback"
-    desc: "`pf2:1`  **Requirements** The hill giant's last action was a successful melee Strike\n**Effect** The hill giant's swing drives their enemy back. They push the foe back 5 feet, with the effects of a successful [[Actions/Shove|Shove]]. The hill giant can follow the foe as normal on a successful Shove."
+    desc: "`pf2:1`  **Requirements** The hill giant's last action was a successful melee Strike\n\n**Effect** The hill giant's swing drives their enemy back. They push the foe back 5 feet, with the effects of a successful [[Actions/Shove|Shove]]. The hill giant can follow the foe as normal on a successful Shove."
 
   - name: "[[Bestiary Ability Glossary/Throw Rock|Throw Rock]]"
     desc: "`pf2:1`  "
 
   - name: "Wide Swing"
-    desc: "`pf2:1`  The hill giant makes a single greatclub Strike and compares the attack roll result to the ACs of up to two foes within its reach.\nThis counts as two attacks for the hill giant's multiple attack penalty."
+    desc: "`pf2:1`  The hill giant makes a single greatclub Strike and compares the attack roll result to the ACs of up to two foes within its reach.\n\nThis counts as two attacks for the hill giant's multiple attack penalty."
  
+```
+
+```encounter-table
+name: Tiger Lord Hill Giant (TL2)
+creatures:
+  - 1: Tiger Lord Hill Giant (TL2)
 ```
 
 

@@ -4,6 +4,7 @@ title: "Long Air Repeater"
 cssclasses: pf2e,pf2e-spell
 tags:
   - pf2e/weapon
+  - trait/kickback
   - trait/repeating
   - trait/uncommon
   - category/simple
@@ -12,7 +13,7 @@ license: OGL
 ---
 # Long Air Repeater
 ## Item 0
-### [uncommon](uncommon "Uncommon Rarity Trait")[[repeating]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[kickback]][[repeating]]
 
 |  |  |
 | -- | -- |

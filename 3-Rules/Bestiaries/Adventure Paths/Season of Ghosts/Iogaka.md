@@ -11,6 +11,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/hag
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/5
 statblock: inline
 name: "Iogaka"
@@ -25,20 +26,20 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #197: Let the Leaves Fall"
 name: "Iogaka"
 level: "Creature 5"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Medium"
-trait_01: "air"
-trait_02: "chaotic"
-trait_03: "electricity"
-trait_04: "evil"
-trait_05: "hag"
-trait_06: "humanoid"
+trait_01: [[air]]
+trait_02: [[chaotic]]
+trait_03: [[electricity]]
+trait_04: [[evil]]
+trait_05: [[hag]]
+trait_06: [[humanoid]]
 modifier: 12
 perception:
   - name: "Perception"
     desc: "+12; Darkvision"
-languages: "Aklo, Common, Jotun, Sussuran"
+languages: "Aklo, Common, Jotun, Sussuran; voice of the storm"
 skills:
   - name: "Skills"
     desc: "Acrobatics: +11, Deception: +11, Intimidation: +13, Occultism: +11, Stealth: +9, Weather Lore: +13"
@@ -58,7 +59,7 @@ abilities_top:
   - name: ""
 
   - name: "[[Bestiary Ability Glossary/Coven|Coven]]"
-    desc: " (mental,occult) A storm hag adds [[Spells/Hydraulic Torrent|Hydraulic Torrent]], [[Spells/Lightning Storm|Lightning Storm]], and [[Spells/Mariner's Curse|Mariner's Curse]] to her coven's spells.\n"
+    desc: " (mental,occult) A storm hag adds [[Spells/Hydraulic Torrent|Hydraulic Torrent]], [[Spells/Lightning Storm|Lightning Storm]], and [[Spells/Mariner's Curse|Mariner's Curse]] to her coven's spells.\n\n* * *\n"
 
   - name: "Stormsight"
     desc: "  Wind, precipitation, and clouds don't impair a storm hag's vision; she ignores the [[Conditions/Concealed|Concealed]] condition from storms, mist, precipitation, and the like."
@@ -69,7 +70,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Sickened by Incense"
-    desc: "  If Iogaka begins her turn adjacent to lit incense, she becomes [[Conditions/Sickened 1|Sickened 1]] and must attempt a DC 27 Fortitude check save; on a failure, she instead becomes [[Conditions/Sickened 1|Sickened 3]] by the incense. If she ends her turn adjacent to lit incense, she becomes [[Conditions/Slowed 1|Slowed 1]] until the end of her next turn by the nausea it causes her."
+    desc: "  If Iogaka begins her turn adjacent to lit incense, she becomes [[Conditions/Sickened|Sickened 1]] and must attempt a DC 27 Fortitude check save; on a failure, she instead becomes [[Conditions/Sickened|Sickened 3]] by the incense. If she ends her turn adjacent to lit incense, she becomes [[Conditions/Slowed|Slowed 1]] until the end of her next turn by the nausea it causes her."
 
 attacks:
   - name: ""
@@ -93,11 +94,17 @@ attacks:
     desc: "_[[Spells/Control Weather|Control Weather]]_"
 
   - name: "Stormcalling"
-    desc: "  A storm hag can perform a special [[Spells/Control Weather|Control Weather]] ritual, which requires no secondary casters, to change the weather within 5 miles of her location for 4d12 hours. The primary check is a DC 23 Occultism check check, and she can't get an outcome worse than a failure.\nThe storm hag can create only hurricanes, thunderstorms, and tornadoes, but she can do so regardless of the current season. She can also quell natural weather events but never willingly does so."
+    desc: "  A storm hag can perform a special [[Spells/Control Weather|Control Weather]] ritual, which requires no secondary casters, to change the weather within 5 miles of her location for 4d12 hours. The primary check is a DC 23 Occultism check check, and she can't get an outcome worse than a failure.\n\nThe storm hag can create only hurricanes, thunderstorms, and tornadoes, but she can do so regardless of the current season. She can also quell natural weather events but never willingly does so."
 
   - name: "Wind Mastery"
     desc: "  A storm hag is unaffected by strong winds, natural or magical. Windy conditions are not difficult terrain for her."
  
+```
+
+```encounter-table
+name: Iogaka
+creatures:
+  - 1: Iogaka
 ```
 
 

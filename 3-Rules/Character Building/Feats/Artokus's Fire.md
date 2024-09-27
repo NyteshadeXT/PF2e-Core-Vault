@@ -21,7 +21,7 @@ license: OGL
 
 **Frequency** once per round
 
-**Trigger** You use [[Feats/Quick Alchemy|Quick Alchemy]] to craft an [[Equipment/Alchemist's Fire (Lesser)|Alchemist's Fire]], and that bomb's level is at least 2 levels lower than your [[Class Features/Advanced Alchemy|Advanced Alchemy]] level.
+**Trigger** You use [[Feats/Advanced Alchemy|Advanced Alchemy]] to craft an [[Equipment/Alchemist's Fire (Lesser)|Alchemist's Fire]], and that bomb's level is at least 2 levels lower than your [[Class Features/Advanced Alchemy|Advanced Alchemy]] level.
 
 * * *
 

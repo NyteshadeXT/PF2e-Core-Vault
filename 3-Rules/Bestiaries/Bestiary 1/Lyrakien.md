@@ -10,6 +10,7 @@ tags:
   - pf2e/creature/type/chaotic
   - pf2e/creature/type/good
   - pf2e/creature/type/holy
+  - pf2eMonster
   - pf2e/creature/level/1
 statblock: inline
 name: "Lyrakien"
@@ -28,11 +29,11 @@ level: "Creature 1"
 
 alignment: ""
 size: "tiny"
-trait_01: "azata"
-trait_02: "celestial"
-trait_03: "chaotic"
-trait_04: "good"
-trait_05: "holy"
+trait_01: [[azata]]
+trait_02: [[celestial]]
+trait_03: [[chaotic]]
+trait_04: [[good]]
+trait_05: [[holy]]
 modifier: 8
 perception:
   - name: "Perception"
@@ -65,14 +66,20 @@ attacks:
     desc: "`pf2:1` Fist +9 (agile, finesse, holy, magical)\n__Damage__  1d4 - 2 bludgeoning 1 spirit"
 
   - name: "Ranged"
-    desc: "`pf2:1` Starlight Ray +9 (holy, light, range 10 feet)\n__Damage__  1d4 spirit 1d4 spirit"
+    desc: "`pf2:1` Starlight Ray +9 (holy, light, range 10 feet)\n__Damage__  2d4 spirit"
 
   - name: "Divine Innate Spells"
     desc: "DC 17, attack +9; __4th __  _[[Spells/Read Omens|Read Omens]]_; __1st __  _[[Spells/Detect Alignment|Detect Alignment (At Will) (Evil Only)]]_, _[[Spells/Heal|Heal]]_, _[[Spells/Illusory Object|Illusory Object]]_\n__Cantrips__  __(1st)__ _[[Compendium.pf2e.spells-srd.Item.kl2q6JvBZwed4B6v|Dancing Lights]]_, _[[Spells/Daze|Daze]]_, _[[Spells/Detect Magic|Detect Magic]]_\n__Constant__  __(4th)__ _[[Spells/Unfettered Movement|Freedom of Movement]]_"
 
   - name: "Starlight Blast"
-    desc: "`pf2:2` (holy,light) The lyrakien unleashes a blast of holy starlight in a 5-foot burst centered on itself. Creatures in the area take 1d6 spirit damage and 1d6 spirit damage (DC 17 Reflex check save).\nThe lyrakien can't use Starlight Blast or its starlight ray ranged attack for 1d4 rounds."
+    desc: "`pf2:2` (holy,light) The lyrakien unleashes a blast of holy starlight in a @Template[burst|distance:5] centered on itself. Creatures in the area take 1d6 spirit damage and 1d6 spirit damage (DC 17 Reflex check save).\n\nThe lyrakien can't use Starlight Blast or its starlight ray ranged attack for 1d4 rounds."
  
+```
+
+```encounter-table
+name: Lyrakien
+creatures:
+  - 1: Lyrakien
 ```
 
 

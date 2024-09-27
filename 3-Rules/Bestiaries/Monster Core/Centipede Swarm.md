@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.pathfinder-monster-core.Actor.sldauWtSyK4JEiRl"
 tags:
   - pf2e/creature/type/animal
   - pf2e/creature/type/swarm
+  - pf2eMonster
   - pf2e/creature/level/3
   - remaster
 statblock: inline
@@ -26,8 +27,8 @@ level: "Creature 3"
 
 alignment: ""
 size: "Large"
-trait_01: "animal"
-trait_02: "swarm"
+trait_01: [[animal]]
+trait_02: [[swarm]]
 modifier: 9
 perception:
   - name: "Perception"
@@ -57,11 +58,17 @@ attacks:
   - name: ""
 
   - name: "Centipede Swarm Venom"
-    desc: " (poison) **Saving Throw** DC 20 Fortitude check\n* * *\n\n**Maximum Duration** 6 rounds\n\n**Stage 1** 1d6 poison damage and [[Conditions/Off-Guard|Off-Guard]] (1 round)\n\n**Stage 2** 1d8 poison damage, [[Conditions/Clumsy 1|Clumsy 1]], and off-guard (1 round)"
+    desc: " (poison) **Saving Throw** DC 20 Fortitude check\n* * *\n\n**Maximum Duration** 6 rounds\n\n**Stage 1** 1d6 poison damage and [[Conditions/Off-Guard|Off-Guard]] (1 round)\n\n**Stage 2** 1d8 poison damage, [[Conditions/Clumsy|Clumsy 1]], and off-guard (1 round)"
 
   - name: "Swarming Bites"
     desc: "`pf2:1`  Each enemy in the swarm's space takes 1d8 piercing damage (DC 20 Reflex check save) plus centipede swarm venom."
  
+```
+
+```encounter-table
+name: Centipede Swarm
+creatures:
+  - 1: Centipede Swarm
 ```
 
 

@@ -4,31 +4,39 @@ title: "Heroism"
 noteType: pf2eSpell
 cssclasses: pf2e,pf2e-spell
 tags:
+  - pf2eSpell
   - spell/level/3
   - trait/concentrate
   - trait/manipulate
   - trait/mental
   - trait/common
+  - tradition/divine
+  - tradition/occult
+
   - remaster
 aliases: "Compendium.pf2e.spells-srd.Item.KqvqNAfGIE5a9wSv" 
+license: ORC
 ---
-# Heroism  `pf2:2`  
-## Spell 3
-### [[concentrate]][[manipulate]][[mental]]
-**Traditions** [[divine]], [[occult]]
-**Range** touch
-**Targets** 1 creature
-**Duration** 10 minutes
-* * * 
-You unlock the target’s inner heroism, granting it a +1 status bonus to attack rolls, Perception checks, saving throws, and skill checks.
+```statblock
+name: "Heroism  `pf2:2`"
+level: "Spell 3"
 
-* * *
-
-**Heightened (6th)** The status bonus increases to +2.
-
-**Heightened (9th)** The status bonus increases to +3.
-
-[[Spell Effects/Spell Effect_ Heroism|Spell Effect: Heroism]]
-
-*Source: Pathfinder Player Core*
-*ORC*
+trait_01: [[concentrate]]
+trait_02: [[manipulate]]
+trait_03: [[mental]]
+layout: Basic Pathfinder 2e Layout
+columns: 1
+columnWidth: x
+abilities_top:
+  - name: ""
+  - name: "Traditions"
+    desc: "divine, occult"
+  - name: "Range"
+    desc: "touch; **Targets** 1 creature"
+  - name: "Duration"
+    desc: "10 minutes"
+abilities_mid:
+  - name: ""
+    desc: "You unlock the target's inner heroism, granting it a +1 status bonus to attack rolls, Perception checks, saving throws, and skill checks.\n* * *\n\n**Heightened (6th)** The status bonus increases to +2.\n\n**Heightened (9th)** The status bonus increases to +3.\n\n[[Spell Effects/Spell Effect_ Heroism|Spell Effect: Heroism]]"
+sourcebook: "_Pathfinder Player Core_"
+```

@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/chaotic
   - pf2e/creature/type/evil
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/11
 statblock: inline
 name: "Mistress Dusklight"
@@ -23,13 +24,13 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #152: Legacy of the Lost God"
 name: "Mistress Dusklight"
 level: "Creature 11"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Medium"
-trait_01: "catfolk"
-trait_02: "chaotic"
-trait_03: "evil"
-trait_04: "humanoid"
+trait_01: [[catfolk]]
+trait_02: [[chaotic]]
+trait_03: [[evil]]
+trait_04: [[humanoid]]
 modifier: 19
 perception:
   - name: "Perception"
@@ -37,7 +38,7 @@ perception:
 languages: "Amurrun, Common, Draconic, Empyrean"
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +21, Arcana: +19, Circus Lore: +19, Deception: +24, Diplomacy: +22, Intimidation: +24, Occultism: +19, Performance: +26, Society: +19, Stealth: +21, Thievery: +21"
+    desc: "Acrobatics: +21, Arcana: +19, Deception: +24, Diplomacy: +22, Intimidation: +24, Occultism: +19, Performance: +26, Society: +19, Stealth: +21, Thievery: +21, Circus Lore: +19"
 abilityMods: [0, 5, 1, 3, 2, 7]
 speed: 30 feet
 sourcebook: "_Pathfinder #152: Legacy of the Lost God_"
@@ -57,7 +58,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Cat's Luck"
-    desc: "`pf2:r`  **Frequency** once per day\n**Trigger** Mistress Dusklight fails or critically fails a Reflex saving throw\n**Effect** Mistress Dusklight rerolls the saving throw and takes the better result."
+    desc: "`pf2:r`  **Frequency** once per day\n\n**Trigger** Mistress Dusklight fails or critically fails a Reflex saving throw\n* * *\n\n**Effect** Mistress Dusklight rerolls the saving throw and takes the better result."
 
 attacks:
   - name: ""
@@ -65,7 +66,7 @@ attacks:
   - name: "Melee"
     desc: "`pf2:1` Whip Of Compliance +23 (finesse, reach 10 feet, trip)\n__Damage__  2d4 + 12 slashing"
 
-  - name: "Melee"
+  - name: "Ranged"
     desc: "`pf2:1` Dagger +22 (agile, thrown 10 ft., versatile s)\n__Damage__  1d4 + 5 piercing"
 
   - name: "Occult Spontaneous Spells"
@@ -75,14 +76,20 @@ attacks:
     desc: "3 Focus Points, DC 30, attack +20; __6th __ (2 slots) _[[Spells/Counter Performance|Counter Performance]]_\n__Cantrips__  __(6th)__ _[[Spells/House of Imaginary Walls|House of Imaginary Walls]]_, _[[Spells/Courageous Anthem|Inspire Courage]]_"
 
   - name: "Beguile the Addled"
-    desc: "`pf2:1` (emotion,occult,visual) Mistress Dusklight shoots a captivating look at one creature within 60 feet, who must be [[Conditions/Stupefied 1|Stupefied]]. Until the end of its next turn, the creature is fascinated by Mistress Dusklight and can't use hostile actions toward her. The victim is then temporarily immune for 10 minutes."
+    desc: "`pf2:1` (emotion,occult,visual) Mistress Dusklight shoots a captivating look at one creature within 60 feet, who must be [[Conditions/Stupefied|Stupefied]]. Until the end of its next turn, the creature is fascinated by Mistress Dusklight and can't use hostile actions toward her. The victim is then temporarily immune for 10 minutes."
 
   - name: "Black Cat Curse"
-    desc: "`pf2:1` (auditory,curse,mental,misfortune,occult) **Frequency** once per round\n**Requirements** Mistress Dusklight must have fewer than 98 Hit Points\n**Effect** Mistress Dusklight spews a hatefully uttered curse at one creature within 30 feet that she can see. If the target fails a DC 32 Will check save, whenever it attempts an attack roll or saving throw, it must roll twice and use the lower result. The target is then temporarily immune for 24 hours. The curse persists until it is removed or the target succeeds a later saving throw against it. The victim can attempt a new DC 32 Will check save once per hour to end the curse.\n[[Bestiary Effects/Effect_ Black Cat Curse|Effect: Black Cat Curse]]"
+    desc: "`pf2:1` (auditory,curse,mental,misfortune,occult) **Frequency** once per round\n\n**Requirements** Mistress Dusklight must have fewer than 98 Hit Points\n* * *\n\n**Effect** Mistress Dusklight spews a hatefully uttered curse at one creature within 30 feet that she can see. If the target fails a DC 32 Will check save, whenever it attempts an attack roll or saving throw, it must roll twice and use the lower result. The target is then temporarily immune for 24 hours. The curse persists until it is removed or the target succeeds a later saving throw against it. The victim can attempt a new DC 32 Will check save once per hour to end the curse.\n\n[[Bestiary Effects/Effect_ Black Cat Curse|Effect: Black Cat Curse]]"
 
   - name: "Steady Spellcasting"
     desc: "  If a reaction would disrupt Mistress Dusklight's spellcasting, she attempts a DC 15 Flat check check. On a success, the action isn't disrupted."
  
+```
+
+```encounter-table
+name: Mistress Dusklight
+creatures:
+  - 1: Mistress Dusklight
 ```
 
 

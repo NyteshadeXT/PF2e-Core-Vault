@@ -6,6 +6,7 @@ cssClasses: pf2e
 aliases: "Compendium.pf2e.pathfinder-bestiary.Actor.l05LjJTXvFS4tYTE" 
 tags:
   - pf2e/creature/type/beast
+  - pf2eMonster
   - pf2e/creature/level/3
 statblock: inline
 name: "Centaur"
@@ -24,7 +25,7 @@ level: "Creature 3"
 
 alignment: ""
 size: "Large"
-trait_01: "beast"
+trait_01: [[beast]]
 modifier: 9
 perception:
   - name: "Perception"
@@ -70,8 +71,14 @@ attacks:
     desc: "`pf2:1` Spear +9 (thrown 20 ft.)\n__Damage__  1d6 + 4 piercing"
 
   - name: "[[Bestiary Ability Glossary/Trample|Trample]]"
-    desc: "`pf2:3`  Medium or smaller, hoof, DC 18 Reflex check save\n"
+    desc: "`pf2:3`  Medium or smaller, hoof, DC 18 Reflex check save\n\n* * *\n"
  
+```
+
+```encounter-table
+name: Centaur
+creatures:
+  - 1: Centaur
 ```
 
 

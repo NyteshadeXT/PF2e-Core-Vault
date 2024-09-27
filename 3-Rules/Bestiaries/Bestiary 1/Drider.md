@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/aberration
   - pf2e/creature/type/chaotic
   - pf2e/creature/type/evil
+  - pf2eMonster
   - pf2e/creature/level/6
 statblock: inline
 name: "Drider"
@@ -26,9 +27,9 @@ level: "Creature 6"
 
 alignment: ""
 size: "Large"
-trait_01: "aberration"
-trait_02: "chaotic"
-trait_03: "evil"
+trait_01: [[aberration]]
+trait_02: [[chaotic]]
+trait_03: [[evil]]
 modifier: 13
 perception:
   - name: "Perception"
@@ -77,11 +78,17 @@ attacks:
     desc: "DC 20, attack +12; __4th __  _[[Spells/Clairvoyance|Clairvoyance]]_, _[[Spells/Suggestion|Suggestion]]_; __3rd __  _[[Spells/Clairaudience|Clairaudience]]_, _[[Spells/Dispel Magic|Dispel Magic]]_, _[[Spells/Levitate|Levitate]]_; __2nd __  _[[Spells/Darkness|Darkness (At Will)]]_, _[[Spells/Faerie Fire|Faerie Fire (At Will)]]_\n__Cantrips__  __(3rd)__ _[[Compendium.pf2e.spells-srd.Item.kl2q6JvBZwed4B6v|Dancing Lights]]_, _[[Spells/Detect Magic|Detect Magic]]_"
 
   - name: "Drider Venom"
-    desc: " (poison) **Saving Throw** DC 23 Fortitude check\n**Maximum Duration** 6 rounds\n**Stage 1** 1d8 poison damage and [[Conditions/Enfeebled 1|Enfeebled 1]]"
+    desc: " (poison) **Saving Throw** DC 23 Fortitude check\n* * *\n\n**Maximum Duration** 6 rounds\n\n**Stage 1** 1d8 poison damage and [[Conditions/Enfeebled|Enfeebled 1]]"
 
   - name: "Web Trap"
     desc: "  A creature hit by a drider's web attack is [[Conditions/Immobilized|Immobilized]] and stuck to the nearest surface (Escape DC 21)."
  
+```
+
+```encounter-table
+name: Drider
+creatures:
+  - 1: Drider
 ```
 
 

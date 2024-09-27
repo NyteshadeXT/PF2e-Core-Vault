@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/human
   - pf2e/creature/type/humanoid
   - pf2e/creature/type/lawful
+  - pf2eMonster
   - pf2e/creature/level/3
 statblock: inline
 name: "Harbormaster"
@@ -25,9 +26,9 @@ level: "Creature 3"
 
 alignment: ""
 size: "Medium"
-trait_01: "human"
-trait_02: "humanoid"
-trait_03: "lawful"
+trait_01: [[human]]
+trait_02: [[humanoid]]
+trait_03: [[lawful]]
 modifier: 6
 perception:
   - name: "Perception"
@@ -35,7 +36,7 @@ perception:
 languages: "Common"
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +9, Athletics: +9, Diplomacy: +5, Fishing Lore: +8, Intimidation: +5, Sailing Lore: +10"
+    desc: "Acrobatics: +9, Athletics: +9, Diplomacy: +5, Intimidation: +5, Fishing Lore: +8, Sailing Lore: +10"
 abilityMods: [4, 2, 2, 2, 1, 0]
 speed: 25 feet
 sourcebook: "_Pathfinder Gamemastery Guide_"
@@ -53,7 +54,7 @@ abilities_top:
   - name: "Items"
     desc: "2x [[Equipment/Hatchet|Hatchet]], [[Equipment/Fishing Tackle|Fishing Tackle]], [[Equipment/Manacles (Average)|Manacles (Average)]], [[Equipment/Spyglass|Spyglass]], [[Equipment/Illustrated book|Ledger]]"
   - name: "Steady Balance"
-    desc: "  Whenever the harbormaster rolls a success on a check to [[Actions/Balance|Balance]], they get a critical success instead. They're not [[Conditions/Off-Guard|Off-Guard]] while [[Actions/Balance|Balancing]] on narrow surfaces and uneven ground.\nThey can attempt an Acrobatics check instead of a Reflex save to [[Actions/Grab an Edge|Grab an Edge]]."
+    desc: "  Whenever the harbormaster rolls a success on a check to [[Actions/Balance|Balance]], they get a critical success instead. They're not [[Conditions/Off-Guard|Off-Guard]] while [[Actions/Balance|Balancing]] on narrow surfaces and uneven ground.\n\nThey can attempt an Acrobatics check instead of a Reflex save to [[Actions/Grab an Edge|Grab an Edge]]."
 
 abilities_mid:
   - name: ""
@@ -69,6 +70,12 @@ attacks:
   - name: "Experienced Hand"
     desc: "  The harbormaster has endured their share of adverse conditions at sea. Any creature that's in adverse weather or aboard a vessel on rough water is [[Conditions/Off-Guard|Off-Guard]] to the harbormaster."
  
+```
+
+```encounter-table
+name: Harbormaster
+creatures:
+  - 1: Harbormaster
 ```
 
 

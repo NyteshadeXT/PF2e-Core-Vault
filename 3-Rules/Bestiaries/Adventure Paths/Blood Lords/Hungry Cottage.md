@@ -4,6 +4,7 @@ obsidianUIMode: preview
 noteType: pf2eHazard
 tags:
   - environmental
+  - pf2eHazard
   - complex
 source: Pathfinder #182: Graveclaw
 aliases: "Compendium.pf2e.blood-lords-bestiary.Actor.2uBSQl6CHkbAdzWo" 
@@ -21,7 +22,7 @@ name: "Hungry Cottage"
 level: "Hazard 6"
 
 trait_06: "Complex"
-trait_01: "environmental"
+trait_01: [[environmental]]
 modifier: 15
 sourcebook: "_Pathfinder #182: Graveclaw_"
 perception:
@@ -40,13 +41,13 @@ attacks:
   - name: ""
 
   - name: "The Cottage Hungers"
-    desc: "`pf2:r` **Trigger** Iron Taviah is defeated in the cottage basement\n**Effect** The basement floor absorbs Iron Taviah, and the cottage transforms into a hungry, semi-animate creature. The cottage rolls initiative."
+    desc: "`pf2:r` **Trigger** Iron Taviah is defeated in the cottage basement\n* * *\n\n**Effect** The basement floor absorbs Iron Taviah, and the cottage transforms into a hungry, semi-animate creature. The cottage rolls initiative."
 
   - name: "Acidic Assault"
-    desc: "action (acid) The walls and floor of the stomach steam with digestive juices; all creatures in contact with these surfaces take 2d8 + 4 acid damage (DC 24 Fortitude check)."
+    desc: "action (acid) The walls and floor of the stomach steam with digestive juices; all creatures in contact with these surfaces take 2d8+4 acid damage (DC 24 Fortitude check)."
 
   - name: "Gnashing Portal"
-    desc: "action Creatures on the cottage's main floor are ground down as massive teeth appear from the floor and ceiling, gnash, and recede into the architecture, dealing 2d8 + 4 bludgeoning damage. Creatures in this area must attempt a DC 24 Reflex check save.\n**Critical Success** The creature takes no damage and, if within 10 feet of an exit on the ground floor, can choose to exit the cottage.\n**Success** The creature takes half damage and, if within 10 feet of an exit on the ground floor, can attempt to escape the cottage as the teeth retract by attempting a DC 24 Reflex check save. On a success, the creature exits the cottage; on a critical failure, the creature falls [[Conditions/Prone|Prone]].\n**Failure** The creature takes full damage and is knocked prone.\n**Critical Failure** The creature takes double damage, is knocked prone, and is [[Conditions/Stunned 1|Stunned 1]]."
+    desc: "action Creatures on the cottage's main floor are ground down as massive teeth appear from the floor and ceiling, gnash, and recede into the architecture, dealing 2d8+4 bludgeoning damage. Creatures in this area must attempt a DC 24 Reflex check save.\n* * *\n\n**Critical Success** The creature takes no damage and, if within 10 feet of an exit on the ground floor, can choose to exit the cottage.\n\n**Success** The creature takes half damage and, if within 10 feet of an exit on the ground floor, can attempt to escape the cottage as the teeth retract by attempting a DC 24 Reflex check save. On a success, the creature exits the cottage; on a critical failure, the creature falls [[Conditions/Prone|Prone]].\n\n**Failure** The creature takes full damage and is knocked prone.\n\n**Critical Failure** The creature takes double damage, is knocked prone, and is [[Conditions/Stunned|Stunned 1]]."
 
   - name: "Swallowing Staircase"
     desc: "action Muscular swallowing contractions force creatures down the stairs and into the stomach. Creatures on the stairs must attempt a DC 24 Reflex check save or be pushed 15 feet down the stairs (and across the basement floor with any excess forced movement if they're pushed to the bottom of the stairs). Creatures who critically fail this Reflex save fall [[Conditions/Prone|Prone]] at the end of this forced movement."
@@ -55,5 +56,11 @@ attacks:
     desc: "The cursed cottage uses 3 actions: Acidic Assault in the stomach, Swallowing Staircase in the throat, and Gnashing Portal in the mouth (in that order). Checks to disable the areas might prevent these actions for a brief time."
   - name: "Reset"
     desc: "Once no creatures remain in the cottage, the hazard resets and returns to a normal cottage. The stairs and the basement are gone, however, as is Iron Taviah's body."
+```
+
+```encounter-table
+name: Hungry Cottage
+creatures:
+  - 1: Hungry Cottage
 ```
 

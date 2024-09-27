@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[Feats/Esoteric Oath|Esoteric Oath (Liberator)]]
+Granted by Esoteric Oath (Liberator)
 
 If you use Liberating Step triggered by an evil aberration, your ally gains a +4 circumstance bonus to checks granted by your Liberating Step, and the ally can Step twice afterward.
 

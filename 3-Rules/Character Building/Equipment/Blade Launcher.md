@@ -9,7 +9,7 @@ license: OGL
 ---
 # Blade Launcher
 ## Item 1
-### [uncommon](uncommon "Uncommon Rarity Trait")
+### [uncommon](uncommon.md "Uncommon Rarity Trait")
 
 
 **Price** 18 gp; 

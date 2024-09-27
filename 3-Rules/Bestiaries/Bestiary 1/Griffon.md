@@ -6,6 +6,7 @@ cssClasses: pf2e
 aliases: "Compendium.pf2e.pathfinder-bestiary.Actor.Oc5NXZmMkSDCRNlQ" 
 tags:
   - pf2e/creature/type/animal
+  - pf2eMonster
   - pf2e/creature/level/4
 statblock: inline
 name: "Griffon"
@@ -24,11 +25,12 @@ level: "Creature 4"
 
 alignment: ""
 size: "Large"
-trait_01: "animal"
+trait_01: [[animal]]
 modifier: 11
 perception:
   - name: "Perception"
     desc: "+11; Darkvision, Scent (Imprecise) 60 Feet"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Acrobatics: +11, Athletics: +12, Survival: +9"
@@ -67,6 +69,12 @@ attacks:
   - name: "Pounce"
     desc: "`pf2:1`  The griffon Strides and makes a talon Strike at the end of that movement. If the griffon began this action [[Conditions/Hidden|Hidden]], it remains hidden until after the attack."
  
+```
+
+```encounter-table
+name: Griffon
+creatures:
+  - 1: Griffon
 ```
 
 

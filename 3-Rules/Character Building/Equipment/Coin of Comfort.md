@@ -10,7 +10,7 @@ license: OGL
 ---
 # Coin of Comfort
 ## Item 3
-### [uncommon](uncommon "Uncommon Rarity Trait")[[magical]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[3-Rules/Rule References/Magical]]
 
 
 **Price** 45 gp; 
@@ -27,7 +27,7 @@ This thick silver coin is deeply worn on one side, creating a shallow dip.
 
 * * *
 
-**Effect** You rub your thumb along the grooved side and become filled with a sense of comfort and safety. You reduce your [[Conditions/Frightened 1|Frightened]] condition by 1.
+**Effect** You rub your thumb along the grooved side and become filled with a sense of comfort and safety. You reduce your [[Conditions/Frightened|Frightened]] condition by 1.
 
 *Source: Pathfinder Lost Omens: The Grand Bazaar*
 *OGL*

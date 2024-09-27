@@ -9,8 +9,9 @@ tags:
   - trait/visual
   - trait/common
   - category/class
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.gOHBzx5Rqa6TZcrm"
-license: OGL
+license: ORC
 ---
 # Mesmerizing Gaze `pf2:2`
 ## Feat 6
@@ -22,11 +23,7 @@ license: OGL
 
 **Prerequisites** Celebrity Dedication
 * * *
-When you meet someone's gaze, they are unable to look away.
+When you meet someone's gaze, they're unable to look away from you. Choose one target creature you can see and that can see you. That creature must succeed at a Will check save or be [[Conditions/Fascinated|Fascinated]] with you until the end of your next turn; the DC is the higher of your class DC or spell DC. If the creature succeeds at its save or its fascination ends due to a hostile action, it becomes temporarily immune to your Mesmerizing Gaze for 1 day.
 
-Choose one target creature. That creature must succeed at a Will save or be [[Conditions/Fascinated|Fascinated]] until the end of your next turn; the DC for this save is equal to your class DC or spell DC, whichever is higher. If the creature succeeds at its save or its fascination ends due to a hostile action, it becomes temporarily immune to your Mesmerizing Gaze for 1 day.
-
-When you select this feat, it gains either the arcane or occult trait; once you make this choice, you can't change it.
-
-*Source: Pathfinder Advanced Player's Guide*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

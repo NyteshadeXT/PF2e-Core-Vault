@@ -11,7 +11,7 @@ license: OGL
 ---
 # Affix a Fulu `pf2:1`
 
-### [[manipulate]]
+### [[3-Rules/Rule References/Manipulate]]
 
 **Category** interaction; 
 

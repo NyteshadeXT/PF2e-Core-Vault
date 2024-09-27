@@ -11,6 +11,7 @@ tags:
   - pf2e/creature/type/goblin
   - pf2e/creature/type/humanoid
   - pf2e/creature/type/unholy
+  - pf2eMonster
   - pf2e/creature/level/1
 statblock: inline
 name: "Bugbear Terror"
@@ -25,15 +26,15 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Society Intro: Year of Boundless Wonder"
 name: "Bugbear Terror"
 level: "Creature 1"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Medium"
-trait_01: "dream"
-trait_02: "evil"
-trait_03: "fiend"
-trait_04: "goblin"
-trait_05: "humanoid"
-trait_06: "unholy"
+trait_01: [[dream]]
+trait_02: [[evil]]
+trait_03: [[fiend]]
+trait_04: [[goblin]]
+trait_05: [[humanoid]]
+trait_06: [[unholy]]
 modifier: 6
 perception:
   - name: "Perception"
@@ -73,11 +74,17 @@ attacks:
     desc: "`pf2:1` Spear +8 (thrown 20 ft., unholy)\n__Damage__  1d6 + 3 piercing"
 
   - name: "Startling Grasp"
-    desc: "`pf2:1`  The bugbear Strides up to 10 feet and attempts to [[Action Macros/Grapple_ Athletics|Grapple: Athletics]] a creature they're [[Conditions/Undetected|Undetected]] by. If they succeed, the creature is [[Conditions/Frightened 1|Frightened 1]], or [[Conditions/Frightened 1|Frightened 2]] if the bugbear critically succeeds at their Athletics check to Grapple."
+    desc: "`pf2:1`  The bugbear Strides up to 10 feet and attempts to [[Action Macros/Grapple_ Athletics|Grapple: Athletics]] a creature they're [[Conditions/Undetected|Undetected]] by. If they succeed, the creature is [[Conditions/Frightened|Frightened 1]], or [[Conditions/Frightened|Frightened 2]] if the bugbear critically succeeds at their Athletics check to Grapple."
 
   - name: "Wicked Mauler"
-    desc: "  The bugbear gains a +2 circumstance bonus to damage rolls against [[Conditions/Frightened 1|Frightened]] creatures."
+    desc: "  The bugbear gains a +2 circumstance bonus to damage rolls against [[Conditions/Frightened|Frightened]] creatures."
  
+```
+
+```encounter-table
+name: Bugbear Terror
+creatures:
+  - 1: Bugbear Terror
 ```
 
 

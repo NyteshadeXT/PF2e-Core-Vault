@@ -16,7 +16,7 @@ license: OGL
 ---
 # Grim Swagger `pf2:2`
 
-### [[auditory]][[emotion]][[fear]][[gunslinger]][[linguistic]][[mental]]
+### [[3-Rules/Rule References/auditory]][[3-Rules/Rule References/Emotion]][[3-Rules/trait_reference/fear]][[gunslinger]][[linguistic]][[3-Rules/Rule References/Mental]]
 
 **Category** offensive; 
 
@@ -31,9 +31,9 @@ You attempt to clear the room by promising a grim fate to anyone who doesn't do 
 
 * * *
 
-**Critical Success** The creature becomes [[Conditions/Frightened 1|Frightened 3]]. If it's lower level than you, it's also [[Conditions/Fleeing|Fleeing]] for 1 round.
+**Critical Success** The creature becomes [[Conditions/Frightened|Frightened 3]]. If it's lower level than you, it's also [[Conditions/Fleeing|Fleeing]] for 1 round.
 
-**Success** The creature becomes [[Conditions/Frightened 1|Frightened 2]].
+**Success** The creature becomes [[Conditions/Frightened|Frightened 2]].
 
 *Source: Pathfinder Guns & Gears*
 *OGL*

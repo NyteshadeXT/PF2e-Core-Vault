@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.pathfinder-monster-core.Actor.HLM55InRGOAUkqoH"
 tags:
   - pf2e/creature/type/aeon
   - pf2e/creature/type/monitor
+  - pf2eMonster
   - pf2e/creature/level/20
   - remaster
 statblock: inline
@@ -26,8 +27,8 @@ level: "Creature 20"
 
 alignment: ""
 size: "Large"
-trait_01: "aeon"
-trait_02: "monitor"
+trait_01: [[aeon]]
+trait_02: [[monitor]]
 modifier: 37
 perception:
   - name: "Perception"
@@ -72,11 +73,17 @@ attacks:
     desc: "DC 47, attack +39; __10th __  _[[Spells/Manifestation|Manifestation]]_; __9th __  _[[Spells/Banishment|Banishment]]_, _[[Spells/Blessed Boundary|Blessed Boundary]]_, _[[Spells/Detonate Magic|Detonate Magic]]_, _[[Spells/Overwhelming Presence|Overwhelming Presence]]_; __8th __  _[[Spells/Disintegrate|Disintegrate (x2)]]_, _[[Spells/Unrelenting Observation|Unrelenting Observation]]_; __7th __  _[[Spells/Interplanar Teleport|Interplanar Teleport]]_, _[[Spells/Retrocognition|Retrocognition]]_; __5th __  _[[Spells/Creation|Creation (At Will)]]_; __4th __  _[[Spells/Create Food|Create Food (At Will)]]_, _[[Spells/Shape Stone|Shape Stone (At Will)]]_; __3rd __  _[[Spells/Hypercognition|Hypercognition (At Will)]]_; __2nd __  _[[Spells/Shape Wood|Shape Wood (At Will)]]_; __1st __  _[[Spells/Create Water|Create Water (At Will)]]_\n__Cantrips__  __(10th)__ _[[Spells/Vitality Lash|Vitality Lash]]_, _[[Spells/Void Warp|Void Warp]]_\n__Constant__  __(8th)__ _[[Spells/Truesight|Truesight]]_ __(4th)__ _[[Spells/Unfettered Movement|Unfettered Movement]]_"
 
   - name: "Generate Sphere"
-    desc: "`pf2:2` (concentrate,divine) The pleroma manifests a 2-foot-diameter sphere of energy—either a white sphere of creation that hovers above their left hand or a black sphere of oblivion above their right. This action has the vitality trait for a sphere of creation or the void trait for a sphere of oblivion. A sphere vanishes after 1 minute, when it is more than 300 feet from the pleroma, or when the pleroma Generates a Sphere of that type again. A sphere of oblivion winks out of existence when it vanishes, but a sphere of creation explodes in blinding light—each creature in a 30-foot emanation must succeed at a DC 43 Fortitude check save or be permanently [[Conditions/Blinded|Blinded]]. This is a light effect."
+    desc: "`pf2:2` (concentrate,divine) The pleroma manifests a 2-foot-diameter sphere of energy—either a white sphere of creation that hovers above their left hand or a black sphere of oblivion above their right. This action has the vitality trait for a sphere of creation or the void trait for a sphere of oblivion. A sphere vanishes after 1 minute, when it is more than 300 feet from the pleroma, or when the pleroma Generates a Sphere of that type again. A sphere of oblivion winks out of existence when it vanishes, but a sphere of creation explodes in blinding light—each creature in a @Template[emanation|distance:30] must succeed at a DC 43 Fortitude check save or be permanently [[Conditions/Blinded|Blinded]]. This is a light effect."
 
   - name: "Propel Sphere"
     desc: "`pf2:1` (concentrate,divine) **Requirements** The pleroma has a sphere of creation or sphere of oblivion active\n* * *\n\n**Effect** The pleroma makes one of its spheres fly 10 feet in any direction, ignoring difficult terrain and greater difficult terrain. A sphere of creation creates new matter in its path, which the pleroma can have manifest as normal terrain, difficult terrain, greater difficult terrain, or a cube of solid mater (such as clay, wood, or stone). A sphere of oblivion destroys unattended objects it touches, though larger objects are destroyed at a rate of one 10-foot cube per round of contact. The sphere can enter the space of a creature; when it does, the creature takes 20d6 damage with a DC 43 Fortitude check save.\n\nThis is an incapacitation effect.\n\n**Success** The creature takes no damage and is pushed out of the sphere to the nearest open space of the GM's choice.\n\n**Failure** The creature takes full damage; this is vitality damage for a sphere of creation or void damage for a sphere of oblivion, but it can damage any type of creature regardless of its normal immunities. The creature is then pushed out of the sphere as on a success. A creature reduced to 0 HP is slain instead of being pushed out, either merged with new matter for a sphere of creation or completely destroyed for a void of oblivion; the creature can be restored only via a [[Spells/Wish|Wish]] ritual or similarly powerful effect. This is a death effect.\n\n**Critical Failure** As failure, but the creature takes double damage."
  
+```
+
+```encounter-table
+name: Pleroma
+creatures:
+  - 1: Pleroma
 ```
 
 

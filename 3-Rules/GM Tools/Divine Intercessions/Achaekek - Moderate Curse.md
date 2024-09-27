@@ -4,8 +4,9 @@ title: "Achaekek - Moderate Curse"
 cssclasses: pf2e,pf2e-action
 tags:
   - trait/common
+  - remaster
 aliases: "Compendium.pf2e.boons-and-curses.Item.wXAVESzPURB1iBWW"
-license: OGL
+license: ORC
 ---
 # Achaekek - Moderate Curse
 
@@ -16,7 +17,7 @@ license: OGL
 
 
 
-**Moderate Curse:** Hubris brings death. Your name and location are mentally projected into the mind of a Red Mantis assassin, who is tasked with eliminating you.
+Hubris brings death. Your name and location are projected into the mind of a Red Mantis assassin, who is tasked with eliminating you.
 
-*Source: Pathfinder Lost Omens: Gods & Magic*
-*OGL*
+*Source: Pathfinder Adventure: Prey for Death*
+*ORC*

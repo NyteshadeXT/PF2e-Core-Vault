@@ -7,6 +7,7 @@ aliases: "Compendium.battlezoo-bestiary-su-pf2e.pf2e-battlezoo-su-actors.Actor.J
 tags:
   - pf2e/creature/type/chaotic
   - pf2e/creature/type/plant
+  - pf2eMonster
   - pf2e/creature/level/11
 statblock: inline
 name: "Convolute Keyweed"
@@ -22,19 +23,19 @@ token: [[modules/battlezoo-bestiary-su-pf2e/art/Portraits/convolute-keyweed.webp
 source: "Battlezoo Bestiary: Strange and Unusual"
 name: "Convolute Keyweed"
 level: "Creature 11"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "tiny"
-trait_01: "chaotic"
-trait_02: "plant"
+trait_01: [[chaotic]]
+trait_02: [[plant]]
 modifier: 24
 perception:
   - name: "Perception"
     desc: "+24; Darkvision"
-languages: "Common, Fey"
+languages: "Common, Fey; can&#x27;t speak any language; communicates via sign language"
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +23, Athletics: +21, Crafting: +21, Society: +21, Stealth: +26, Thievery: +26, "
+    desc: "Acrobatics: +23, Athletics: +21, Crafting: +21, Society: +21, Stealth: +26, Thievery: +26, Acrobatics: +23, Athletics: +21, Crafting: +21, Society: +21, Stealth: +26, Thievery: +26"
 abilityMods: [5, 7, 3, 3, 5, 5]
 speed: 40 feet,  climb 40 feet
 sourcebook: "_Battlezoo Bestiary: Strange and Unusual_"
@@ -62,32 +63,38 @@ attacks:
     desc: "`pf2:1` Whirling Vine +24 (range increment 30 feet)\n__Damage__  2d8 + 11 slashing"
 
   - name: "Encroachment"
-    desc: "  Convolute keyweeds can pass through openings as small as one inch without needing to Squeeze. Thanks to their many vines, they don't need free hands to Climb or Grab an Edge."
+    desc: "  Convolute keyweeds can pass through openings as small as one inch without needing to Squeeze. Thanks to their many vines, they don't need free hands to Climb or [[undefined]]."
 
   - name: "Tripping Vine"
-    desc: "`pf2:r`  **Trigger** A creature within the convolute keyweed's reach uses a move action or leaves a square during a move action it's using\n**Effect** The convolute keyweed extends a vine and attempts to Trip the triggering creature."
+    desc: "`pf2:r`  **Trigger** A creature within the convolute keyweed's reach uses a move action or leaves a square during a move action it's using\n* * *\n\n**Effect** The convolute keyweed extends a vine and attempts to [[undefined]] the triggering creature."
 
   - name: "Freeze"
     desc: "`pf2:2` (concentrate) The convolute keyweed stops moving and attempts to appear as nothing more than a mundane tiny shrubbery. Until the next time it acts, the convolute keyweed gets an automatic result of 45 on Deception and Stealth checks and DCs to appear to be an ordinary shrubbery."
 
   - name: "Intrusion"
-    desc: "`pf2:1`  The convolute keyweed Sneaks, Strides, or Climbs up to two times. Once their movement is complete, the convolute keyweed then Disables a Device or Picks a Lock, using its own body as a suitable tool to perform the task. Disabling the Device or Picking the Lock does not automatically cause the convolute keyweed to become observed if it was previously Hidden or Undetected, as long as the convolute keyweed successfully Sneaks for its first actions of the Intrusion. The convolute keyweed has master proficiency in Thievery for the purpose of determining what hazards it is capable of disabling, and it has master proficiency in Perception for the purpose of determining what hazards it is capable of detecting."
+    desc: "`pf2:1`  The convolute keyweed [[Actions/Sneak|Sneaks]], Strides, or Climbs up to two times. Once their movement is complete, the convolute keyweed then Disables a Device or Picks a Lock, using its own body as a suitable tool to perform the task. Disabling the Device or Picking the Lock does not automatically cause the convolute keyweed to become observed if it was previously [[undefined]] or [[Conditions/Undetected|Undetected]], as long as the convolute keyweed successfully Sneaks for its first actions of the Intrusion. The convolute keyweed has master proficiency in Thievery for the purpose of determining what hazards it is capable of disabling, and it has master proficiency in Perception for the purpose of determining what hazards it is capable of detecting."
 
   - name: "Joint-Locking Strike"
-    desc: "`pf2:1` (manipulate) **Frequency** once per round\n**Requirements** The target is Off-Guard against the convolute keyweed\n**Effect** The convolute keyweed contorts its vines to lock down its foe's joints. The convolute keyweed makes a razor vine Strike and binds the target's joints with vines and intricate motions. If the Strike hits, the target is Clumsy 2 and Enfeebled 2 (or Clumsy 3 and Enfeebled 3 on a critical hit), and takes a –10-foot status penalty to its Speeds. The target can end this effect with a successful DC 30 check to Escape; otherwise, the effect lasts for a maximum of 1 minute.\n[[Effects/Effect_ Joint-Locking Strike|Effect: Joint-Locking Strike]]"
+    desc: "`pf2:1` (manipulate) **Frequency** once per round\n\n**Requirements** The target is [[undefined]] against the convolute keyweed\n* * *\n\n**Effect** The convolute keyweed contorts its vines to lock down its foe's joints. The convolute keyweed makes a razor vine Strike and binds the target's joints with vines and intricate motions. If the Strike hits, the target is [[undefined]] and [[undefined]] (or [[undefined]] and [[undefined]] on a critical hit), and takes a –10-foot status penalty to its Speeds. The target can end this effect with a successful DC 30 check to [[undefined]]; otherwise, the effect lasts for a maximum of 1 minute.\n\n[[Effects/Effect_ Joint-Locking Strike|Effect: Joint-Locking Strike]]"
 
   - name: "Mobility"
     desc: "  When the convolute keyweed takes a Stride or Climb action to move half their Speed or less, that movement doesn't trigger reactions."
 
   - name: "Snagging Strike"
-    desc: "`pf2:1`  The convolute keyweed lashes out, attempting to snag its foe with its razor sharp vines. The convolute keyweed makes a razor vine Strike. If this Strike hits and deals damage, the target is Off-Guard until the start of the convolute keyweed's next turn or until it's no longer within the reach of its razor vine, whichever comes first."
+    desc: "`pf2:1`  The convolute keyweed lashes out, attempting to snag its foe with its razor sharp vines. The convolute keyweed makes a razor vine Strike. If this Strike hits and deals damage, the target is [[undefined]] until the start of the convolute keyweed's next turn or until it's no longer within the reach of its razor vine, whichever comes first."
 
   - name: "[[Bestiary Ability Glossary/Sneak Attack|Sneak Attack]]"
     desc: "  The convolute keyweed's Strikes deals 2d6 extra precision damage to off-guard creatures."
 
   - name: "Unlock Ailment"
-    desc: "`pf2:2` (manipulate,primal) The convolute keyweed contorts a willing creature's body in a strange and metaphysical way, allowing it to attempt to counteract a disease or poison afflicting the creature using its Thievery modifier against the disease or poison's DC, in order to end the affliction, with a counteract level of 6. Regardless of success, the target is Sickened 2 by the way the convolute keyweed contorts their body in ways their body was never meant to move, and the creature is then temporarily immune to Unlock Ailment for 24 hours."
+    desc: "`pf2:2` (manipulate,primal) The convolute keyweed contorts a willing creature's body in a strange and metaphysical way, allowing it to attempt to counteract a disease or poison afflicting the creature using its Thievery modifier against the disease or poison's DC, in order to end the affliction, with a counteract level of 6. Regardless of success, the target is [[undefined]] by the way the convolute keyweed contorts their body in ways their body was never meant to move, and the creature is then temporarily immune to Unlock Ailment for 24 hours."
  
+```
+
+```encounter-table
+name: Convolute Keyweed
+creatures:
+  - 1: Convolute Keyweed
 ```
 
 

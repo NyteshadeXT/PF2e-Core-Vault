@@ -8,8 +8,9 @@ tags:
   - trait/multiclass
   - trait/common
   - category/class
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.0YjetnLVIUz9zQt5"
-license: OGL
+license: ORC
 ---
 # Champion Dedication
 ## Feat 2
@@ -21,13 +22,13 @@ license: OGL
 
 **Prerequisites** Strength +2; Charisma +2
 * * *
-Choose a deity and cause as you would if you were a champion. You become trained in light, medium, and heavy armor. You become trained in Religion and your deity's associated skill; for each of these skills in which you were already trained, you instead become trained in a skill of your choice. You become trained in champion class DC.
+Choose a deity. You are bound by your deity's anathema and can receive that deity's divine sanctification. Choose a cause as you would if you were a champion, with the same options a champion must abide by. You gain its edicts and anathema but don't gain the other abilities.
 
-You are bound by your deity's anathema and must follow the champion's code and alignment requirements for your cause. You don't gain any other abilities from your choice of deity or cause.
+You become trained in Religion and your deity's associated skill; for each of these skills in which you were already trained, you instead become trained in a skill of your choice. You become trained in champion class DC. If you later gain a devotion spell, you become trained in spell attack modifier and spell DC.
 
-* * *
+You become trained in light armor and medium armor. If you already were trained in light armor and medium armor, you gain training in heavy armor as well. Whenever you gain a class feature that grants you expert or greater proficiency in any type of armor (but not unarmored defense), you also gain that proficiency in the armor types granted to you by this feat. If you have a class feature that grants you expert proficiency in unarmored defense and you're 13th level or higher, you also become an expert in the armor types granted to you by this feat.
 
-**Special** You cannot select another dedication feat until you have gained two other feats from the [[PF2e Journals/Archetypes/Champion|Champion]] archetype.
+[[PF2e Journals/Archetypes/Champion|Champion]]
 
-*Source: Pathfinder Core Rulebook*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

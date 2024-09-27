@@ -4,8 +4,9 @@ title: "Effect: Clue In (Expertise)"
 cssclasses: pf2e,pf2e-spell
 tags:
   - trait/common
+  - remaster
 aliases: "Compendium.pf2e.feat-effects.Item.uA1Ofqoyi0UiZIPk"
-license: OGL
+license: ORC
 ---
 # Effect: Clue In (Expertise)
 ## Level 9
@@ -20,5 +21,5 @@ Granted by [[Actions/Clue In|Clue In]] if the investigator has [[Class Features/
 
 Whenever you attempt a Perception or skill check to investigate a designated subject, you gain a +2 circumstance bonus to the check.
 
-*Source: Pathfinder Advanced Player's Guide*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

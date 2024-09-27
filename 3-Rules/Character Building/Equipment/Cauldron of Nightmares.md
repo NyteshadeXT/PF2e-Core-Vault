@@ -11,7 +11,7 @@ license: OGL
 ---
 # Cauldron of Nightmares
 ## Item 17
-### [rare](rare "Rare Rarity Trait")[[invested]][[magical]]
+### [rare](rare.md "Rare Rarity Trait")[[invested]][[3-Rules/Rule References/Magical]]
 
 
 **Price** 13000 gp; 
@@ -20,7 +20,7 @@ license: OGL
 
 Engraved with carvings of tortured souls, this green cauldron has two abilities that allow it to capture nightmares and then unleash them on the world.
 
-The cauldron has an affinity for preying on the minds of captives and prisoners, who take a -2 circumstance penalty to saving throws against it. Good creatures are [[Conditions/Enfeebled 1|Enfeebled 2]] while carrying, wielding, or wearing this item crafted by the sea-witches.
+The cauldron has an affinity for preying on the minds of captives and prisoners, who take a -2 circumstance penalty to saving throws against it. Good creatures are [[Conditions/Enfeebled|Enfeebled 2]] while carrying, wielding, or wearing this item crafted by the sea-witches.
 
 * * *
 

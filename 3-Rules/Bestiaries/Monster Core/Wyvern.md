@@ -6,6 +6,7 @@ cssClasses: pf2e
 aliases: "Compendium.pf2e.pathfinder-monster-core.Actor.5iqkL9Me5164H7NY" 
 tags:
   - pf2e/creature/type/dragon
+  - pf2eMonster
   - pf2e/creature/level/6
   - remaster
 statblock: inline
@@ -25,7 +26,7 @@ level: "Creature 6"
 
 alignment: ""
 size: "Large"
-trait_01: "dragon"
+trait_01: [[dragon]]
 modifier: 13
 perception:
   - name: "Perception"
@@ -81,6 +82,12 @@ attacks:
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
     desc: "`pf2:1`  "
  
+```
+
+```encounter-table
+name: Wyvern
+creatures:
+  - 1: Wyvern
 ```
 
 

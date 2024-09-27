@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/construct
   - pf2e/creature/type/evil
   - pf2e/creature/type/soulbound
+  - pf2eMonster
   - pf2e/creature/level/8
 statblock: inline
 name: "Living Blade"
@@ -26,16 +27,17 @@ level: "Creature 8"
 
 alignment: ""
 size: "Medium"
-trait_01: "construct"
-trait_02: "evil"
-trait_03: "soulbound"
+trait_01: [[construct]]
+trait_02: [[evil]]
+trait_03: [[soulbound]]
 modifier: 18
 perception:
   - name: "Perception"
     desc: "+18; Darkvision"
+languages: "telepathy 100 feet; tongues"
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +18, Athletics: +17, Deception: +17, "
+    desc: "Acrobatics: +18, Athletics: +17, Deception: +17"
 abilityMods: [5, 6, 2, 0, 4, 5]
 speed: 25 feet
 sourcebook: "_Battlezoo Bestiary_"
@@ -66,18 +68,21 @@ attacks:
   - name: "Occult Innate Spells"
     desc: "DC 27, attack +17; __3rd __  _[[Spells/Haste|Haste]]_; __2nd __  _[[Spells/Soothe|Soothe]]_; __1st __  _[[Spells/Sure Strike|True Strike]]_\n__Constant__  __(5th)__ _[[Spells/Truespeech|Tongues]]_"
 
-  - name: "Ritual"
-    desc: "DC 27, attack +17"
-
   - name: "Rituals"
     desc: "_[[Spells/Geas|Geas (See Curse of the Living Blade)]]_"
 
   - name: "Curse of the Living Blade"
-    desc: " (curse,mental,occult) Any creature that attempts to wield the living blade is affected by its curse;\n**Saving Throw** Will;\n**Effect** The living blade attempts to curse its wielder, compelling the creature to further the living blade's personal agenda. The living blade instantly casts a geas ritual on the triggering creature; the living blade always succeeds at casting this ritual. If the target critically succeeds its saving throw, it is immune to this curse for 24 hours. On a failure, the creature succumbs to the geas. While cursed, the creature must advance the living blade's agenda, which might be something discrete like \"avenge my master's death\" or something broader like \"achieve glory in my name.\" The cursed creature cannot willingly drop or give away the living blade. The geas lasts for 1 week, after which the wielder can make a new Will save."
+    desc: " (curse,mental,occult) Any creature that attempts to wield the living blade is affected by its curse;\n\n**Saving Throw** DC 27 Will;\n\n**Effect** The living blade attempts to curse its wielder, compelling the creature to further the living blade's personal agenda. The living blade instantly casts a geas ritual on the triggering creature; the living blade always succeeds at casting this ritual. If the target critically succeeds its saving throw, it is immune to this curse for 24 hours. On a failure, the creature succumbs to the geas. While cursed, the creature must advance the living blade's agenda, which might be something discrete like \"avenge my master's death\" or something broader like \"achieve glory in my name.\" The cursed creature cannot willingly drop or give away the living blade. The geas lasts for 1 week, after which the wielder can make a new Will save."
 
   - name: "Summon Phantom Warrior"
-    desc: "`pf2:3` (concentrate,occult) **Frequency** once per hour;\n**Requirements** The living blade isn't being wielded or carried by an intelligent creature;\n**Effect** The living blade manifests a phantom warrior that resembles a ghostly version of its original master, allowing the blade to move and act of its own accord. The phantom is made of nondescript soul-stuff from the Ethereal Plane and has no individual personality or identity, though it can interact with the physical world. A creature can identify the phantom warrior for what it is with a successful Perception check. The living blade can dismiss the phantom warrior as a free action. This stat block represents the living blade while it has its phantom warrior active.\nWhen reduced to 0 Hit Points or counteracted with _Dispel Magic_ (counteract DC 27), the living blade assumes its weapon form (see Weapon Form) until the next time it uses Summon Phantom Warrior."
+    desc: "`pf2:3` (concentrate,occult) **Frequency** once per hour;\n\n**Requirements** The living blade isn't being wielded or carried by an intelligent creature;\n\n**Effect** The living blade manifests a phantom warrior that resembles a ghostly version of its original master, allowing the blade to move and act of its own accord. The phantom is made of nondescript soul-stuff from the Ethereal Plane and has no individual personality or identity, though it can interact with the physical world. A creature can identify the phantom warrior for what it is with a successful DC 27 Perception check. The living blade can dismiss the phantom warrior as a free action. This stat block represents the living blade while it has its phantom warrior active.\n\nWhen reduced to 0 Hit Points or counteracted with _[[Spells/Dispel Magic|Dispel Magic]]_ (counteract DC 27), the living blade assumes its weapon form (see Weapon Form) until the next time it uses Summon Phantom Warrior."
  
+```
+
+```encounter-table
+name: Living Blade
+creatures:
+  - 1: Living Blade
 ```
 
 
@@ -88,7 +93,7 @@ The exact force that animates a living blade differs in every case, though often
 
 ## Other Living Blades
 
-Living blades come in many varieties, not all of which are even blades. Generally, a living blade is a magic melee weapon whose level is equal to its creature level + 2. Its runes can be replaced, but any attempt to remove a rune without replacing it fails. The only way to permanently turn a living blade into a non-cursed weapon is by counteracting it with the _Disjunction_ spell.
+Living blades come in many varieties, not all of which are even blades. Generally, a living blade is a magic melee weapon whose level is equal to its creature level + 2. Its runes can be replaced, but any attempt to remove a rune without replacing it fails. The only way to permanently turn a living blade into a non-cursed weapon is by counteracting it with the _[[Spells/Disjunction|Disjunction]]_ spell.
 
 ## Monster Part Subsystem
 

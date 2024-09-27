@@ -7,8 +7,9 @@ tags:
   - trait/dedication
   - trait/common
   - category/class
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.4zaU3GlTGMNqLFS8"
-license: OGL
+license: ORC
 ---
 # Familiar Master Dedication
 ## Feat 2
@@ -23,7 +24,7 @@ You have forged a mystical bond with a creature. This might have involved comple
 
 Whatever the details, you are now comrades until the end. You gain a familiar. If you already have a familiar, you gain the [[Feats/Enhanced Familiar|Enhanced Familiar]] feat.
 
-**Special** You can't select another dedication feat until you have gained two other feats from the [[PF2e Journals/Archetypes/Familiar Master|Familiar Master]] archetype.
+[[PF2e Journals/Archetypes/Familiar Master|Familiar Master]]
 
-*Source: Pathfinder Advanced Player's Guide*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

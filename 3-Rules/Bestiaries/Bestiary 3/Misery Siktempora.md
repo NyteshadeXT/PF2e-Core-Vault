@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/siktempora
   - pf2e/creature/type/time
+  - pf2eMonster
   - pf2e/creature/level/12
 statblock: inline
 name: "Misery Siktempora"
@@ -24,21 +25,21 @@ token: [[modules/pf2e-tokens-bestiaries/portraits/planar/time/misery-siktempora.
 source: "Pathfinder Bestiary 3"
 name: "Misery Siktempora"
 level: "Creature 12"
-rare_03: "Rare"
+rare_03: [[Rare]]
 alignment: ""
 size: "Large"
-trait_01: "chaotic"
-trait_02: "evil"
-trait_03: "siktempora"
-trait_04: "time"
+trait_01: [[chaotic]]
+trait_02: [[evil]]
+trait_03: [[siktempora]]
+trait_04: [[time]]
 modifier: 25
 perception:
   - name: "Perception"
     desc: "+25; Darkvision"
-languages: "Aklo"
+languages: "Aklo; (can&#x27;t speak any language), telepathy 300 feet"
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +23, Dimension of Time Lore: +26, Intimidation: +23, Occultism: +22, Stealth: +23"
+    desc: "Acrobatics: +23, Intimidation: +23, Occultism: +22, Stealth: +23, Dimension of Time Lore: +26"
 abilityMods: [7, 5, 4, 4, 7, 5]
 speed: 35 feet
 sourcebook: "_Pathfinder Bestiary 3_"
@@ -60,10 +61,10 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Slash the Suffering"
-    desc: "  Creatures with the [[Conditions/Confused|Confused]] or [[Conditions/Stupefied 1|Stupefied]] condition are [[Conditions/Off-Guard|Off-Guard]] to the misery siktempora."
+    desc: "  Creatures with the [[Conditions/Confused|Confused]] or [[Conditions/Stupefied|Stupefied]] condition are [[Conditions/Off-Guard|Off-Guard]] to the misery siktempora."
 
   - name: "Uncanny Pounce"
-    desc: "`pf2:0`  **Trigger** The misery siktempora rolls Dimension of Time Lore for initiative\n**Effect** The misery siktempora Strides once and makes a claw Strike, in either order."
+    desc: "`pf2:0`  **Trigger** The misery siktempora rolls Dimension of Time Lore for initiative\n* * *\n\n**Effect** The misery siktempora Strides once and makes a claw Strike, in either order."
 
 attacks:
   - name: ""
@@ -75,11 +76,17 @@ attacks:
     desc: "DC 29, attack +21; __6th __  _[[Spells/Flicker|Blink]]_; __4th __  _[[Spells/Translocate|Dimension Door (At Will)]]_; __3rd __  _[[Spells/Invisibility|Invisibility (x3)]]_\n__Constant__  __(6th)__ _[[Spells/Air Walk|Air Walk]]_"
 
   - name: "Inflict Misery"
-    desc: "`pf2:1` (emotion,mental,occult) **Requirements** The misery siktempora's last action was a claw Strike that damaged the target\n**Effect** The misery siktempora fills the target's thoughts with abject despair. The target must attempt a DC 32 Will check save. Regardless of outcome, the target is then immune to Inflict Misery for 1 minute.\n**Success** The target is unaffected.\n**Failure** The target is [[Conditions/Clumsy 1|Clumsy 2]], [[Conditions/Enfeebled 1|Enfeebled 2]] and [[Conditions/Stupefied 1|Stupefied 2]] for 1 round.\n**Critical Failure** As failure, but for 1 minute."
+    desc: "`pf2:1` (emotion,mental,occult) **Requirements** The misery siktempora's last action was a claw Strike that damaged the target\n* * *\n\n**Effect** The misery siktempora fills the target's thoughts with abject despair. The target must attempt a DC 32 Will check save. Regardless of outcome, the target is then immune to Inflict Misery for 1 minute.\n* * *\n\n**Success** The target is unaffected.\n\n**Failure** The target is [[Conditions/Clumsy|Clumsy 2]], [[Conditions/Enfeebled|Enfeebled 2]] and [[Conditions/Stupefied|Stupefied 2]] for 1 round.\n\n**Critical Failure** As failure, but for 1 minute."
 
   - name: "Telepathic Wail"
-    desc: "`pf2:2` (emotion,mental,occult) The misery siktempora assails the mind of one creature within 100 feet with a wail of anguish and torment that deals 8d6 mental damage (DC 32 Will check save).\nOn a failed save, the target is also [[Conditions/Confused|Confused]] for the first action of its next turn (or for 1 round on a critical failure)."
+    desc: "`pf2:2` (emotion,mental,occult) The misery siktempora assails the mind of one creature within 100 feet with a wail of anguish and torment that deals 8d6 mental damage (DC 32 Will check save).\n\nOn a failed save, the target is also [[Conditions/Confused|Confused]] for the first action of its next turn (or for 1 round on a critical failure)."
  
+```
+
+```encounter-table
+name: Misery Siktempora
+creatures:
+  - 1: Misery Siktempora
 ```
 
 

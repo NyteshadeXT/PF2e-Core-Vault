@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/undead
   - pf2e/creature/type/unholy
+  - pf2eMonster
   - pf2e/creature/level/0
 statblock: inline
 name: "Temporal Echoes (1-2)"
@@ -23,17 +24,18 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Society Special #3-99: Fate in the Future"
 name: "Temporal Echoes (1-2)"
 level: "Creature 0"
-rare_03: "Rare"
+rare_03: [[Rare]]
 alignment: ""
 size: "Medium"
-trait_01: "chaotic"
-trait_02: "evil"
-trait_03: "undead"
-trait_04: "unholy"
+trait_01: [[chaotic]]
+trait_02: [[evil]]
+trait_03: [[undead]]
+trait_04: [[unholy]]
 modifier: 4
 perception:
   - name: "Perception"
     desc: "+4; Darkvision"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Acrobatics: +4, Athletics: +5, Stealth: +4"
@@ -64,8 +66,14 @@ attacks:
     desc: "`pf2:1` (occult) The temporal echo shifts rapidly between multiple timelines, becoming [[Conditions/Concealed|Concealed]]. As the nature of this effect leaves the echo's location obvious, it can't use this concealment to Hide or Sneak. This effect lasts for 1 minute, or until the echo is dealt any damage."
 
   - name: "Temporal Shudder"
-    desc: "`pf2:2` (occult) The temporal echo screams, causing time to shudder and bend around it. All creatures in a 10-foot emanation take 1d10 mental damage (DC 13 Will check save). The echo can't use Temporal Shudder again for 1d4 rounds."
+    desc: "`pf2:2` (occult) The temporal echo screams, causing time to shudder and bend around it. All creatures in a @Template[emanation|distance:10] take 1d10 mental damage (DC 13 Will check save). The echo can't use Temporal Shudder again for 1d4 rounds."
  
+```
+
+```encounter-table
+name: Temporal Echoes (1-2)
+creatures:
+  - 1: Temporal Echoes (1-2)
 ```
 
 

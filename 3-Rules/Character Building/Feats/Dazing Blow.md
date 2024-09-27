@@ -30,11 +30,11 @@ You pummel a held foe, hoping to stagger them. Make a melee Strike against a cre
 
 **Critical Success** The creature is unaffected.
 
-**Success** The creature is [[Conditions/Stunned 1|Stunned 1]].
+**Success** The creature is [[Conditions/Stunned|Stunned 1]].
 
-**Failure** The creature is [[Conditions/Stunned 1|Stunned 2]].
+**Failure** The creature is [[Conditions/Stunned|Stunned 2]].
 
-**Critical Failure** The creature is [[Conditions/Stunned 1|Stunned 3]].
+**Critical Failure** The creature is [[Conditions/Stunned|Stunned 3]].
 
 *Source: Pathfinder Player Core*
 *ORC*

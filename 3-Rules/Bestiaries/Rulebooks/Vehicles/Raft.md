@@ -1,16 +1,17 @@
 ---
-title: "Raft"
+title: Raft
 obsidianUIMode: preview
-noteType: pf2eMonster
+noteType: pf2eVehicle
 cssClasses: pf2e
-aliases: "Compendium.pf2e.vehicles.Actor.Cx53sUC5FZ3GZT0O" 
 tags:
-  - pf2e/creature/level/-1
+  - pf2eVehicle
+
   - remaster
-statblock: inline
-name: "Raft"
+source: Pathfinder GM Core
+aliases: "Compendium.pf2e.vehicles.Actor.Cx53sUC5FZ3GZT0O" 
 level: -1
 license: ORC
+statblock: inline
 ---
 
 ```statblock
@@ -19,39 +20,51 @@ forcecolumns: true
 layout: Basic Pathfinder 2e Layout
 source: "Pathfinder GM Core"
 name: "Raft"
-level: "Creature -1"
+level: "Vehicle -1"
 
-alignment: ""
+
 size: "Large"
 modifier: 
 perception:
-  - name: "Perception"
-    desc: "NaN; "
-skills:
-  - name: "Skills"
-    desc: ""
-abilityMods: [, , , , , ]
-speed: 
-sourcebook: "_Pathfinder GM Core_"
+  - name: ""
+  - name: "Price"
+    desc: "3 gp\n* * *"
+abilities_top:
+  - name: ""
+  - name: "Space"
+    desc: "10 feet long, 10 feet wide, 2 feet high"
+  - name: "Crew"
+    desc: "1 pilot; **Passengers** 4"
+  - name: "Piloting Check"
+    desc: "Athletics (DC 14) or Sailing Lore (DC 12)"
 ac: 10
 armorclass:
   - name: AC
-    desc: "10; __Fort__ +5, __Ref__ NaN, __Will__ NaN"
+    desc: "10; __Fort__ +5"
 hp: 16
 health:
   - name: ""
-  - name: HP
-    desc: "16; __Immunities__  object immunities"
-abilities_top:
-  - name: ""
-
+  - name: "Hardness"
+    desc: "1; **HP** 16 (BT 8); __Immunities__  object immunities"
+speed: "swim 10 feet (rowed)"
 abilities_mid:
   - name: ""
 attacks:
   - name: ""
- 
+  - name: "Collision"
+    desc: "1d4 (DC 14)"
+
+  - name: "Portaged"
+    desc: " The raft can be carried overland by 2 Medium creatures or 1 Large creature. Those creatures are encumbered."
+
+
+
+sourcebook: "_Pathfinder GM Core_"
 ```
 
-
-
+```encounter-table
+name: Raft
+creatures:
+  - 1: Raft
+```
 

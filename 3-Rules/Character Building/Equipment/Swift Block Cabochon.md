@@ -27,7 +27,7 @@ license: ORC
 
 * * *
 
-This clear quartz cabochon attaches to the center of your shield. When you activate the cabochon, use the Shield Block reaction even if you don't have the shield raised and even if you don't normally have that reaction. Increase the shield's Hardness by 5 against the triggering attack. The shield remains raised after the block.
+This clear quartz cabochon attaches to the center of your shield. When you activate the cabochon, use the [[Feats/Shield Block|Shield Block]] reaction even if you don't have the shield raised and even if you don't normally have that reaction. Increase the shield's Hardness by 5 against the triggering attack. The shield remains raised after the block.
 
 [[Equipment Effects/Effect_ Swift Block Cabochon|Effect: Swift Block Cabochon]]
 

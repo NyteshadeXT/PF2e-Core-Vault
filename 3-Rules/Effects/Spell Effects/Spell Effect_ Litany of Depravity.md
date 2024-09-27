@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[Spells/Litany of Depravity|Litany of Depravity]].
+Granted by _litany of depravity_
 
 You gain weakness 7 to unholy.
 

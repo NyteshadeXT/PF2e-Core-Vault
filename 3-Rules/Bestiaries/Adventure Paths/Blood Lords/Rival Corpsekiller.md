@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/human
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/16
 statblock: inline
 name: "Rival Corpsekiller"
@@ -23,13 +24,13 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #186: Ghost King&#x27;s Rage"
 name: "Rival Corpsekiller"
 level: "Creature 16"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Medium"
-trait_01: "chaotic"
-trait_02: "evil"
-trait_03: "human"
-trait_04: "humanoid"
+trait_01: [[chaotic]]
+trait_02: [[evil]]
+trait_03: [[human]]
+trait_04: [[humanoid]]
 modifier: 28
 perception:
   - name: "Perception"
@@ -71,6 +72,12 @@ attacks:
   - name: "Corpsekiller"
     desc: "  A corpsekiller's Strikes affect incorporeal creatures as though etched with a _[[Equipment/Ghost Touch|Ghost Touch]]_ property rune and deal an additional 2d8 slashing damage to undead creatures."
  
+```
+
+```encounter-table
+name: Rival Corpsekiller
+creatures:
+  - 1: Rival Corpsekiller
 ```
 
 

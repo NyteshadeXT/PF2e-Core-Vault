@@ -38,7 +38,7 @@ Woolly Rhinoceros: Use rhinoceros statistics for a rhinoceros or woolly rhinocer
 
 **MAMMOTH LORD ANIMAL COMPANIONS**
 
-If you're playing a mammoth lord, you determine the statistics and abilities of your animal companions according to the basic rules for animal companions. As a mammoth lord, it's possible for you to have more than one animal companion at one time—up to four companions—but only one of those companions, your “active companion,” follows you during exploration and in encounters; the rest are nearby, usually foraging or hunting for food. As soon as you gain a second animal companion from the mammoth lord archetype, you also gain [[Actions/Call Companion|Call Companion]] to switch your active companion. These rules apply to all your companions, regardless of whether you got the animal companion from the mammoth lord archetype or from another source.
+If you're playing a mammoth lord, you determine the statistics and abilities of your animal companions according to the basic rules for animal companions. As a mammoth lord, it's possible for you to have more than one animal companion at one time—up to four companions—but only one of those companions, your "active companion," follows you during exploration and in encounters; the rest are nearby, usually foraging or hunting for food. As soon as you gain a second animal companion from the mammoth lord archetype, you also gain [[Actions/Call Companion|Call Companion]] to switch your active companion. These rules apply to all your companions, regardless of whether you got the animal companion from the mammoth lord archetype or from another source.
 
 ## [[Feats/Mammoth Lord Dedication|Mammoth Lord Dedication]] Feat 2
 
@@ -102,7 +102,7 @@ Under your care and training, your megafauna companion has realized its innate p
 
 * * *
 
-You've trained your megafauna companion to stagger its enemies, impeding their ability to fight back. You [[Actions/Command an Animal|Command an Animal]] to order your megafauna companion to spend both its actions making a single, powerful Strike. The attack deals an extra die of weapon damage, and if the attack hits and deals damage, the target is [[Conditions/Slowed 1|Slowed 1]] until the end of its next turn.
+You've trained your megafauna companion to stagger its enemies, impeding their ability to fight back. You [[Actions/Command an Animal|Command an Animal]] to order your megafauna companion to spend both its actions making a single, powerful Strike. The attack deals an extra die of weapon damage, and if the attack hits and deals damage, the target is [[Conditions/Slowed|Slowed 1]] until the end of its next turn.
 
 ## [[Feats/Unbreakable Bond|Unbreakable Bond]] Feat 10
 

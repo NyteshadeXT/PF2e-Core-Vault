@@ -6,8 +6,9 @@ tags:
   - trait/alchemist
   - trait/common
   - category/class
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.xbg1scOIT7RI9Fij"
-license: OGL
+license: ORC
 ---
 # Quick Bomber `pf2:1`
 ## Feat 1
@@ -18,7 +19,7 @@ license: OGL
 
 
 
-You keep your bombs in easy-to-reach pouches from which you draw without thinking. You [[Actions/Interact|Interact]] to draw a bomb, then Strike with it.
+You keep your bombs and bomb-related reagents in easy-toreach pouches from which you draw without thinking. You Interact to draw a bomb, draw a versatile vial, or use [[Actions/Quick Alchemy|Quick Alchemy]] to create a bomb, then [[Actions/Strike|Strike]] with the bomb. If you have the ability to create more than one bomb at a time with Quick Alchemy (such as from the double brew class feature), you can Strike with only one of the bombs you create with this action.
 
-*Source: Pathfinder Core Rulebook*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

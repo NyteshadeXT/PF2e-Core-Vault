@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.pathfinder-monster-core.Actor.tpNP1UooPPHMyZye"
 tags:
   - pf2e/creature/type/animal
   - pf2e/creature/type/dinosaur
+  - pf2eMonster
   - pf2e/creature/level/10
   - remaster
 statblock: inline
@@ -26,8 +27,8 @@ level: "Creature 10"
 
 alignment: ""
 size: "grg"
-trait_01: "animal"
-trait_02: "dinosaur"
+trait_01: [[animal]]
+trait_02: [[dinosaur]]
 modifier: 19
 perception:
   - name: "Perception"
@@ -69,7 +70,7 @@ attacks:
     desc: "`pf2:r`  **Trigger** The tyrannosaurus critically hits a Large or smaller foe with its foot\n* * *\n\n**Effect** The creature struck by the foot is knocked [[Conditions/Prone|Prone]] and held in place. As long as the tyrannosaurus doesn't move from its position, the pinned creature is [[Conditions/Grabbed|Grabbed]].\n\nA tyrannosaurus gains a +2 circumstance bonus to attack a creature it has pinned in this manner but can only Swallow Whole if that creature is grabbed with its jaws."
 
   - name: "[[Bestiary Ability Glossary/Swallow Whole|Swallow Whole]]"
-    desc: "`pf2:1` (attack) Medium, 3d6 + 8 bludgeoning damage, Rupture 26\n\n* * *\n"
+    desc: "`pf2:1` (attack) Medium, 3d6+8 bludgeoning damage, Rupture 26\n\n* * *\n"
 
   - name: "[[Bestiary Ability Glossary/Trample|Trample]]"
     desc: "`pf2:3`  Huge or smaller, foot, DC 29 Reflex check\n\n* * *\n"
@@ -77,6 +78,12 @@ attacks:
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
     desc: "`pf2:1`  "
  
+```
+
+```encounter-table
+name: Tyrannosaurus
+creatures:
+  - 1: Tyrannosaurus
 ```
 
 

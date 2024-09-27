@@ -10,6 +10,7 @@ tags:
   - pf2e/creature/type/undead
   - pf2e/creature/type/unholy
   - pf2e/creature/type/zombie
+  - pf2eMonster
   - pf2e/creature/level/-1
 statblock: inline
 name: "Zombie Shambler"
@@ -28,15 +29,16 @@ level: "Creature -1"
 
 alignment: ""
 size: "Medium"
-trait_01: "evil"
-trait_02: "mindless"
-trait_03: "undead"
-trait_04: "unholy"
-trait_05: "zombie"
+trait_01: [[evil]]
+trait_02: [[mindless]]
+trait_03: [[undead]]
+trait_04: [[unholy]]
+trait_05: [[zombie]]
 modifier: 0
 perception:
   - name: "Perception"
     desc: "+0; Darkvision"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Athletics: +5"
@@ -56,7 +58,7 @@ abilities_top:
   - name: ""
 
   - name: "Slow"
-    desc: "  A zombie is permanently [[Conditions/Slowed 1|Slowed 1]] and can't use reactions."
+    desc: "  A zombie is permanently [[Conditions/Slowed|Slowed 1]] and can't use reactions."
 
 abilities_mid:
   - name: ""
@@ -72,6 +74,12 @@ attacks:
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
     desc: "`pf2:1`  "
  
+```
+
+```encounter-table
+name: Zombie Shambler
+creatures:
+  - 1: Zombie Shambler
 ```
 
 

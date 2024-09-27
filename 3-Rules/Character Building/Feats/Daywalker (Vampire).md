@@ -20,7 +20,7 @@ license: OGL
 
 **Prerequisites** Vampire Dedication
 * * *
-Through a profane pledge or a bloodline quirk, you can tolerate the sun's light. You gain the [[Ancestry Features/Advanced Undead Benefits|Advanced Undead Benefits]] and can't be destroyed by sunlight. This doesn't prevent you from becoming [[Conditions/Slowed 1|Slowed]] by exposure to the sun.
+Through a profane pledge or a bloodline quirk, you can tolerate the sun's light. You gain the [[Ancestry Features/Advanced Undead Benefits|Advanced Undead Benefits]] and can't be destroyed by sunlight. This doesn't prevent you from becoming [[Conditions/Slowed|Slowed]] by exposure to the sun.
 
 *Source: Pathfinder Book of the Dead*
 *OGL*

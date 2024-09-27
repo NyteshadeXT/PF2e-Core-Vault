@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.menace-under-otari-bestiary.Actor.jnmUcTs4hn1c5bz9"
 tags:
   - pf2e/creature/type/fey
   - pf2e/creature/type/gremlin
+  - pf2eMonster
   - pf2e/creature/level/0
   - remaster
 statblock: inline
@@ -25,12 +26,13 @@ level: "Creature 0"
 
 alignment: ""
 size: "tiny"
-trait_01: "fey"
-trait_02: "gremlin"
+trait_01: [[fey]]
+trait_02: [[gremlin]]
 modifier: 6
 perception:
   - name: "Perception"
     desc: "+6; Darkvision"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Crafting: +2, Deception: +2, Nature: +4, Stealth: +5, Thievery: +5"
@@ -56,7 +58,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Unluck Aura"
-    desc: " (mental,primal) Creatures other than animals, gremlins, and kholo within 20 feet become extremely unlucky. They must attempt a DC 16 Will check save, rolling this Will save twice and using the worse result.\nOn a successful save, the creature can't be affected by pugwampi unluck auras for 24 hours. On a failure, the creature must roll twice and use the worse result on all checks as long as it's within 20 feet of the pugwampi.\nMultiple pugwampis don't create any increased effect."
+    desc: " (mental,primal) Creatures other than animals, gremlins, and kholo within 20 feet become extremely unlucky. They must attempt a DC 16 Will check save, rolling this Will save twice and using the worse result.\n\nOn a successful save, the creature can't be affected by pugwampi unluck auras for 24 hours. On a failure, the creature must roll twice and use the worse result on all checks as long as it's within 20 feet of the pugwampi.\n\nMultiple pugwampis don't create any increased effect."
 
 attacks:
   - name: ""
@@ -67,6 +69,12 @@ attacks:
   - name: "Ranged"
     desc: "`pf2:1` Shortbow +8 (deadly d10, magical, range increment 60 feet, reload 0)\n__Damage__  1d6 - 1 piercing"
  
+```
+
+```encounter-table
+name: Pugwampi (BB)
+creatures:
+  - 1: Pugwampi (BB)
 ```
 
 

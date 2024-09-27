@@ -12,7 +12,7 @@ license: OGL
 ---
 # Alchemical Crossbow
 ## Item 0
-### [uncommon](uncommon "Uncommon Rarity Trait")[[alchemical]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[alchemical]]
 
 |  |  |
 | -- | -- |

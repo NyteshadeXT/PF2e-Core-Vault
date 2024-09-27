@@ -14,7 +14,7 @@ While the motivations of exorcists run the gamut, most are compassionate individ
 
 Exorcists are most commonly found among the faithful of [[Deities/Ashava|Ashava]] the True Spark (the empyreal lord of dancers), but among the major deities of the Inner Sea region, [[Deities/Sarenrae|Sarenrae]], [[Deities/Pharasma|Pharasma]], and even [[Deities/Shelyn|Shelyn]] count a fair number of exorcists among their faithful. Exorcists can come from any walk of life, but many are redeemer champions, clerics, or monks. Apart from the role of the spirit dwelling, exorcism practices can vary. For example, a bard or rogue might attract spirits with trickery, charm, or empty promises. In contrast, a cleric of Pharasma could take a more severe route, demanding the spirits return to the natural order of things.
 
-**Additional Feats** 8th [[Feats/Spiritual Sense|Spiritual Sense]]; 10th [[Feats/Blind-Fight|Blind-Fight]]; 14th [[Feats/Sense Evil|Sense Evil]]; 16th [[Feats/Sense The Unseen|Sense The Unseen]]
+**Additional Feats** 8th [[Feats/Spiritual Sense|Spiritual Sense]]; 10th [[Feats/Blind-Fight|Blind-Fight]]; 14th Sense Evil; 16th [[Feats/Sense the Unseen|Sense the Unseen]]
 
 SPIRIT DWELLINGS AND REMNANTS
 
@@ -72,7 +72,7 @@ You purify a spirit by absolving it of its sins and regrets. This cathartic expe
 
 * * *
 
-You purify a spirit by coaxing it to release its anguish in a final cathartic howl. This deals sonic damage to all creatures in a 30-foot cone, with a basic Will save against your class DC or spell DC, whichever is higher. If you expend a spirit wisp, this deals 1d4 sonic damage per level you have. If you expend a spirit remnant, this deals 1d6 sonic damage per level of the incorporeal undead or haunt from which you gained the remnant.
+You purify a spirit by coaxing it to release its anguish in a final cathartic howl. This deals sonic damage to all creatures in a @Template\[cone|distance:30\], with a basic Will save against your class DC or spell DC, whichever is higher. If you expend a spirit wisp, this deals 1d4 sonic damage per level you have. If you expend a spirit remnant, this deals 1d6 sonic damage per level of the incorporeal undead or haunt from which you gained the remnant.
 
 ## [[Feats/Enticing Dwelling|Enticing Dwelling]] Feat 12
 

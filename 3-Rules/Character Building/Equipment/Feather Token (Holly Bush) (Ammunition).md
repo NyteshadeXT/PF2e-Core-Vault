@@ -12,7 +12,7 @@ license: OGL
 ---
 # Feather Token (Holly Bush) (Ammunition)
 ## Item 4
-### [[consumable]][[magical]]
+### [[consumable]][[3-Rules/Rule References/Magical]]
 
 **Category** ammo; 
 **Price** 12 gp; 

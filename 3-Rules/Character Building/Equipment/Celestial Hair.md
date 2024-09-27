@@ -13,7 +13,7 @@ license: OGL
 ---
 # Celestial Hair
 ## Item 20
-### [rare](rare "Rare Rarity Trait")[[consumable]][[magical]][[talisman]]
+### [rare](rare.md "Rare Rarity Trait")[[consumable]][[3-Rules/Rule References/Magical]][[talisman]]
 
 **Category** talisman; 
 **Price** 12500 gp; 
@@ -28,7 +28,7 @@ license: OGL
 
 This strand of hair shimmers like the strands of fate. When you activate the string, it resonates with a single, perfect note.
 
-The triggering saving throw becomes a failure or the triggering attack roll becomes a regular hit, not critical one. If the source of the attack or effect is an evil creature, that creature must succeed at a DC 41 Will check saving throw or be [[Conditions/Enfeebled 1|Enfeebled 2]] and [[Conditions/Stupefied 1|Stupefied 2]] until the end of its next turn.
+The triggering saving throw becomes a failure or the triggering attack roll becomes a regular hit, not critical one. If the source of the attack or effect is an evil creature, that creature must succeed at a DC 41 Will check saving throw or be [[Conditions/Enfeebled|Enfeebled 2]] and [[Conditions/Stupefied|Stupefied 2]] until the end of its next turn.
 
 *Source: Pathfinder #156: The Apocalypse Prophet*
 *OGL*

@@ -6,8 +6,9 @@ tags:
   - trait/monk
   - trait/common
   - category/class
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.FWIQ3m5KZDWzDg47"
-license: OGL
+license: ORC
 ---
 # Wind Jump
 ## Feat 10
@@ -17,9 +18,9 @@ license: OGL
 
 
 
-**Prerequisites** ki spells
+**Prerequisites** Qi Spells
 * * *
-You gather the wind beneath you, allowing you to soar as you jump. You gain the [[Spells/Wind Jump|Wind Jump]] ki spell. Increase the number of Focus Points in your focus pool by 1.
+You gather the wind beneath you, allowing you to soar as you jump. You gain the [[Spells/Wind Jump|Wind Jump]] qi spell.
 
-*Source: Pathfinder Core Rulebook*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

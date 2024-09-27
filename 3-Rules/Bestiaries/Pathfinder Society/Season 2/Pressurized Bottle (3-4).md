@@ -5,6 +5,7 @@ noteType: pf2eHazard
 tags:
   - mechanical
   - trap
+  - pf2eHazard
 
 source: Pathfinder Society Scenario #2-03: Catastrophe&#x27;s Spark
 aliases: "Compendium.pf2e.pfs-season-2-bestiary.Actor.VWjNkgTXFPqO0Qc5" 
@@ -22,14 +23,14 @@ name: "Pressurized Bottle (3-4)"
 level: "Hazard 3"
 
 
-trait_01: "mechanical"
-trait_02: "trap"
+trait_01: [[mechanical]]
+trait_02: [[trap]]
 modifier: 10
 sourcebook: "_Pathfinder Society Scenario #2-03: Catastrophe's Spark_"
 ac: 18
 armorclass:
   - name: AC
-    desc: "18; __Fort__ +10, __Ref__ +6, __Will__ +0"
+    desc: "18; __Fort__ +10, __Ref__ +6, "
 hp: 1
 health:
   - name: ""
@@ -51,12 +52,18 @@ attacks:
   - name: ""
 
   - name: "Brittle Shatter"
-    desc: "`pf2:r` (attack) **Trigger** A creature tries to pick up or move the potion\n**Effect** The bottle shatters into pieces that fill a 5-foot burst. The burst deals 4 piercing damage (DC 22 Reflex check save). A creature who takes any damage is exposed to fermented potion."
+    desc: "`pf2:r` (attack) **Trigger** A creature tries to pick up or move the potion\n* * *\n\n**Effect** The bottle shatters into pieces that fill a @Template[burst|distance:5]. The burst deals 4 piercing damage (DC 22 Reflex check save). A creature who takes any damage is exposed to fermented potion."
 
   - name: "Fermented Poison"
-    desc: "passive (poison) **Saving Throw** DC 22 Fortitude check\n**Maximum Duration** 4 hours\n**Stage 1** 1d6 poison damage and [[Conditions/Clumsy 1|Clumsy 1]] (1 hour)\n**Stage 2** 1d8 poison damage and [[Conditions/Clumsy 1|Clumsy 2]] (1 hour)\n**Stage 3** 2d8 poison damage and clumsy 2 (1 hour)"
+    desc: "passive (poison) **Saving Throw** DC 22 Fortitude check\n\n**Maximum Duration** 4 hours\n\n**Stage 1** 1d6 poison damage and [[Conditions/Clumsy|Clumsy 1]] (1 hour)\n\n**Stage 2** 1d8 poison damage and [[Conditions/Clumsy|Clumsy 2]] (1 hour)\n\n**Stage 3** 2d8 poison damage and clumsy 2 (1 hour)"
 
 
 
+```
+
+```encounter-table
+name: Pressurized Bottle (3-4)
+creatures:
+  - 1: Pressurized Bottle (3-4)
 ```
 

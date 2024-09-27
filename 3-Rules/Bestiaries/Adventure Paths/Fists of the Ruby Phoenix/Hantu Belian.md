@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/hantu
   - pf2e/creature/type/incorporeal
   - pf2e/creature/type/spirit
+  - pf2eMonster
   - pf2e/creature/level/11
 statblock: inline
 name: "Hantu Belian"
@@ -23,13 +24,13 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #166: Despair on Danger Island"
 name: "Hantu Belian"
 level: "Creature 11"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Small"
-trait_01: "beast"
-trait_02: "hantu"
-trait_03: "incorporeal"
-trait_04: "spirit"
+trait_01: [[beast]]
+trait_02: [[hantu]]
+trait_03: [[incorporeal]]
+trait_04: [[spirit]]
 modifier: 24
 perception:
   - name: "Perception"
@@ -73,6 +74,12 @@ attacks:
   - name: "Greater Possession"
     desc: "  A hantu belian can use its possession innate spell to possess a creature for up to 1 hour rather than 1 minute. While possessing a creature, the hantu uses its own Acrobatics, Athletics, and Stealth modifiers unless those of the possessed creature are higher."
  
+```
+
+```encounter-table
+name: Hantu Belian
+creatures:
+  - 1: Hantu Belian
 ```
 
 

@@ -13,7 +13,7 @@ license: OGL
 ---
 # Barricade Stone (Sphere)
 ## Item 6
-### [uncommon](uncommon "Uncommon Rarity Trait")[[consumable]][[magical]][[structure]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[consumable]][[3-Rules/Rule References/Magical]][[structure]]
 
 **Category** other; 
 **Price** 40 gp; 

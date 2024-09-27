@@ -6,6 +6,7 @@ cssClasses: pf2e
 aliases: "Compendium.pf2e.pathfinder-monster-core.Actor.iIJPJcDT8wlJ8z5M" 
 tags:
   - pf2e/creature/type/animal
+  - pf2eMonster
   - pf2e/creature/level/-1
   - remaster
 statblock: inline
@@ -25,7 +26,7 @@ level: "Creature -1"
 
 alignment: ""
 size: "Small"
-trait_01: "animal"
+trait_01: [[animal]]
 modifier: 5
 perception:
   - name: "Perception"
@@ -33,7 +34,7 @@ perception:
 languages: ""
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +5, Athletics: +2 (+4 to Climb or Swim), Stealth: +5"
+    desc: "Acrobatics: +5, Athletics: +2, Stealth: +5"
 abilityMods: [1, 3, 2, -4, 1, -3]
 speed: 30 feet,  climb 10 feet
 sourcebook: "_Pathfinder Monster Core_"
@@ -58,8 +59,14 @@ attacks:
     desc: "`pf2:1` Jaws +7 (agile, finesse)\n__Damage__  1d6 + 1 piercing plus filth-fever"
 
   - name: "Putrid Plague"
-    desc: " (disease) The [[Conditions/Sickened 1|Sickened]] and [[Conditions/Unconscious|Unconscious]] conditions from putrid plague don't improve on their own until the disease is cured.\n\n**Saving Throw** DC 14 Fortitude check\n* * *\n\n**Stage 1** carrier with no ill effect (1d4 hours)\n\n**Stage 2** [[Conditions/Sickened 1|Sickened 1]] (1 day)\n\n**Stage 3** Sickened 1 and [[Conditions/Slowed 1|Slowed 1]] (1 day)\n\n**Stage 4** [[Conditions/Unconscious|Unconscious]] (1 day)\n\n**Stage 5** dead"
+    desc: " (disease) The [[Conditions/Sickened|Sickened]] and [[Conditions/Unconscious|Unconscious]] conditions from putrid plague don't improve on their own until the disease is cured.\n\n**Saving Throw** DC 14 Fortitude check\n* * *\n\n**Stage 1** carrier with no ill effect (1d4 hours)\n\n**Stage 2** [[Conditions/Sickened|Sickened 1]] (1 day)\n\n**Stage 3** Sickened 1 and [[Conditions/Slowed|Slowed 1]] (1 day)\n\n**Stage 4** [[Conditions/Unconscious|Unconscious]] (1 day)\n\n**Stage 5** dead"
  
+```
+
+```encounter-table
+name: Giant Rat
+creatures:
+  - 1: Giant Rat
 ```
 
 

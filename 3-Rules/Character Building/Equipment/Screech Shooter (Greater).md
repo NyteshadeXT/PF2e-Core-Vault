@@ -35,17 +35,17 @@ Built from the larynx of an owlbear, terror shrike, or similar animal that posse
 
 * * *
 
-**Effect** The _screech shooter_ unleashes a frightening wail. All creatures in a 40-foot emanation from you must attempt a DC 30 Will check save.
+**Effect** The _screech shooter_ unleashes a frightening wail. All creatures in a @Template\[emanation|distance:40\] from you must attempt a DC 30 Will check save.
 
 * * *
 
 **Critical Success** The creature is unaffected.
 
-**Success** The creature is [[Conditions/Frightened 1|Frightened 1]].
+**Success** The creature is [[Conditions/Frightened|Frightened 1]].
 
-**Failure** The creature is [[Conditions/Frightened 1|Frightened 2]].
+**Failure** The creature is [[Conditions/Frightened|Frightened 2]].
 
-**Critical Failure** The creature is [[Conditions/Frightened 1|Frightened 3]] and [[Conditions/Fleeing|Fleeing]] for 1 round.
+**Critical Failure** The creature is [[Conditions/Frightened|Frightened 3]] and [[Conditions/Fleeing|Fleeing]] for 1 round.
 
 * * *
 

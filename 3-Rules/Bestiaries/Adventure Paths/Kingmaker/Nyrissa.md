@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/fey
   - pf2e/creature/type/nymph
+  - pf2eMonster
   - pf2e/creature/level/23
 statblock: inline
 name: "Nyrissa"
@@ -23,21 +24,21 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Kingmaker"
 name: "Nyrissa"
 level: "Creature 23"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Medium"
-trait_01: "chaotic"
-trait_02: "evil"
-trait_03: "fey"
-trait_04: "nymph"
+trait_01: [[chaotic]]
+trait_02: [[evil]]
+trait_03: [[fey]]
+trait_04: [[nymph]]
 modifier: 41
 perception:
   - name: "Perception"
     desc: "+41; Darkvision"
-languages: "Aklo, Common, Draconic, Elven, Fey, Gnomish, Hallit, Jotun, Skald"
+languages: "Aklo, Common, Draconic, Elven, Fey, Gnomish, Hallit, Jotun, Skald; speak with animals; speak with plants"
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +43, Arcana: +43, Athletics: +37, Deception: +44, Diplomacy: +44, First World Lore: +43, Intimidation: +44, Nature: +45, Religion: +41, Stealth: +36"
+    desc: "Acrobatics: +43, Arcana: +43, Athletics: +37, Deception: +44, Diplomacy: +44, Intimidation: +44, Nature: +45, Religion: +41, Stealth: +36, First World Lore: +43"
 abilityMods: [4, 8, 8, 6, 8, 11]
 speed: 30 feet,  climb 20 feet,  fly 30 feet
 sourcebook: "_Pathfinder Kingmaker_"
@@ -63,7 +64,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Blinding Beauty"
-    desc: " (aura,emotion,mental,primal,visual) 30 feet. Creatures that start their turn in the aura must succeed at a DC 43 Will check save or be permanently [[Conditions/Blinded|Blinded]] (plus [[Conditions/Stunned 1|Stunned 3]] on a critical failure)."
+    desc: " (aura,emotion,mental,primal,visual) 30 feet. Creatures that start their turn in the aura must succeed at a DC 43 Will check save or be permanently [[Conditions/Blinded|Blinded]] (plus [[Conditions/Stunned|Stunned 3]] on a critical failure)."
 
   - name: "Evasion"
     desc: "  When Nyrissa rolls a success on a Reflex save, she gets a critical success instead."
@@ -81,22 +82,22 @@ attacks:
     desc: "`pf2:1` Hurled Thorn +41 (range increment 60 feet)\n__Damage__  2d6 + 14 piercing 2d10 poison"
 
   - name: "Arcane Spontaneous Spells"
-    desc: "DC 46, attack +42; __10th __ (1 slots) _[[Spells/Wish|Wish]]_; __9th __ (3 slots) _[[Spells/Contingency|Contingency]]_, _[[Spells/Disintegrate|Disintegrate]]_, _[[Spells/Disjunction|Disjunction]]_, _[[Spells/Dominate|Dominate]]_, _[[Spells/Teleport|Teleport]]_; __8th __ (4 slots) _[[Spells/Chain Lightning|Chain Lightning]]_, _[[Spells/Pinpoint|Discern Location]]_, _[[Spells/Quandary|Maze]]_, _[[Spells/Uncontrollable Dance|Uncontrollable Dance]]_; __7th __ (4 slots) _[[Spells/Dispel Magic|Dispel Magic]]_, _[[Spells/Interplanar Teleport|Plane Shift]]_, _[[Spells/Prismatic Spray|Prismatic Spray]]_, _[[Spells/Project Image|Project Image]]_; __6th __ (4 slots) _[[Spells/Cursed Metamorphosis|Baleful Polymorph]]_, _[[Spells/Petrify|Flesh to Stone]]_, _[[Spells/Mislead|Mislead]]_, _[[Spells/Truesight|True Seeing]]_; __5th __ (4 slots) _[[Spells/False Vision|False Vision]]_, _[[Spells/Mind Probe|Mind Probe]]_, _[[Spells/Sending|Sending]]_, _[[Spells/Truespeech|Tongues]]_; __4th __ (4 slots) _[[Spells/Unfettered Movement|Freedom of Movement]]_, _[[Spells/Outcast's Curse|Outcast's Curse]]_, _[[Spells/Peaceful Bubble|Private Sanctum]]_, _[[Spells/Shape Stone|Shape Stone]]_; __3rd __ (4 slots) _[[Spells/Hypnotize|Hypnotic Pattern]]_, _[[Spells/One with Stone|Meld into Stone]]_, _[[Spells/Mind Reading|Mind Reading]]_, _[[Spells/Shrink Item|Shrink Item]]_; __2nd __ (4 slots) _[[Spells/Revealing Light|Glitterdust]]_, _[[Spells/Mirror Image|Mirror Image]]_, _[[Spells/Telekinetic Maneuver|Telekinetic Maneuver]]_, _[[Spells/Stupefy|Touch of Idiocy]]_; __1st __ (4 slots) _[[Spells/Dizzying Colors|Color Spray]]_, _[[Spells/Fear|Fear]]_, _[[Spells/Enfeeble|Ray of Enfeeblement]]_, _[[Spells/Sure Strike|True Strike]]_\n__Cantrips__  __(1st)__ _[[Spells/Detect Magic|Detect Magic]]_, _[[Spells/Electric Arc|Electric Arc]]_, _[[Spells/Telekinetic Hand|Mage Hand]]_, _[[Spells/Message|Message]]_, _[[Spells/Shield|Shield]]_"
+    desc: "DC 46, attack +42; __10th __ (1 slots) _[[Spells/Wish|Wish]]_; __9th __ (3 slots) _[[Spells/Contingency|Contingency]]_, _[[Spells/Disintegrate|Disintegrate]]_, _[[Spells/Disjunction|Disjunction]]_, _[[Spells/Dominate|Dominate]]_, _[[Spells/Teleport|Teleport]]_; __8th __ (4 slots) _[[Spells/Chain Lightning|Chain Lightning]]_, _[[Spells/Pinpoint|Discern Location]]_, _[[Spells/Quandary|Maze]]_, _[[Spells/Uncontrollable Dance|Uncontrollable Dance]]_; __7th __ (4 slots) _[[Spells/Dispel Magic|Dispel Magic]]_, _[[Spells/Interplanar Teleport|Plane Shift]]_, _[[Spells/Prismatic Spray|Prismatic Spray]]_, _[[Spells/Project Image|Project Image]]_; __6th __ (4 slots) _[[Spells/Cursed Metamorphosis|Baleful Polymorph]]_, _[[Spells/Petrify|Flesh to Stone]]_, _[[Spells/Mislead|Mislead]]_, _[[Spells/Truesight|True Seeing]]_; __5th __ (4 slots) _[[Spells/False Vision|False Vision]]_, _[[Spells/Mind Probe|Mind Probe]]_, _[[Spells/Sending|Sending]]_, _[[Spells/Truespeech|Tongues]]_; __4th __ (4 slots) _[[Spells/Unfettered Movement|Freedom of Movement]]_, _[[Spells/Outcast's Curse|Outcast's Curse]]_, _[[Spells/Peaceful Bubble|Private Sanctum]]_, _[[Spells/Shape Stone|Shape Stone]]_; __3rd __ (4 slots) _[[Spells/Hypnotize|Hypnotic Pattern]]_, _[[Spells/One with Stone|Meld into Stone]]_, _[[Spells/Mind Reading|Mind Reading]]_, _[[Spells/Shrink Item|Shrink Item]]_; __2nd __ (4 slots) _[[Spells/Revealing Light|Glitterdust]]_, _[[Spells/Mirror Image|Mirror Image]]_, _[[Spells/Telekinetic Maneuver|Telekinetic Maneuver]]_, _[[Spells/Stupefy|Touch of Idiocy]]_; __1st __ (4 slots) _[[Spells/Dizzying Colors|Color Spray]]_, _[[Spells/Fear|Fear]]_, _[[Spells/Enfeeble|Ray of Enfeeblement]]_, _[[Spells/Sure Strike|True Strike]]_\n__Cantrips__  __(10th)__ _[[Spells/Detect Magic|Detect Magic]]_, _[[Spells/Electric Arc|Electric Arc]]_, _[[Spells/Telekinetic Hand|Mage Hand]]_, _[[Spells/Message|Message]]_, _[[Spells/Shield|Shield]]_"
 
   - name: "Primal Innate Spells"
     desc: "DC 46, attack +42; __9th __  _[[Spells/Nature's Enmity|Nature's Enmity]]_, _[[Spells/Regenerate|Regenerate]]_, _[[Spells/Nature's Pathway|Tree Stride]]_; __8th __  _[[Spells/Heal|Heal (x3)]]_, _[[Spells/Desiccate|Horrid Wilting]]_, _[[Spells/Wall of Thorns|Wall of Thorns]]_; __7th __  _[[Spells/Charm|Charm (x3)]]_; __6th __  _[[Spells/Sound Body|Restore Senses (At Will)]]_, _[[Spells/One with Plants|Tree Shape]]_\n__Constant__  __(10th)__ _[[Spells/Speak with Animals|Speak with Animals]]_, _[[Spells/Speak with Plants|Speak with Plants]]_"
 
   - name: "Arcane Focus Spells"
-    desc: "3 Focus Points, DC 46, attack +42; __5th __  _[[Spells/Fey Glamour|Fey Glamour]]_; __3rd __  _[[Spells/Fey Disappearance|Fey Disappearance]]_; __1st __  _[[Spells/Faerie Dust|Faerie Dust]]_"
+    desc: "3 Focus Points, DC 46, attack +42; __10th __  _[[Spells/Faerie Dust|Faerie Dust]]_, _[[Spells/Fey Disappearance|Fey Disappearance]]_, _[[Spells/Fey Glamour|Fey Glamour]]_"
 
   - name: "Rituals"
     desc: "_[[Spells/Awaken Animal|Awaken Animal]]_, _[[Compendium.pf2e.spells-srd.Item.l4LFwY7iuzX6sDXr|Commune with Nature]]_, _[[Spells/Control Weather|Control Weather]]_, _[[Spells/Create Demiplane|Create Demiplane]]_, _[[Spells/Geas|Geas]]_, _[[Spells/Inveigle|Inveigle]]_, _[[Spells/Primal Call|Primal Call]]_"
 
   - name: "[[Creature Family Ability Glossary/(Nymph Queen) Change Shape|Change Shape]]"
-    desc: "`pf2:1` (polymorph,primal) Nymph queens can transform between their original form, which looks much like a typical nymph of their kind, and any Small or Medium humanoid form, typically choosing a more humanoid-looking version of their natural form.\n"
+    desc: "`pf2:1` (polymorph,primal) Nymph queens can transform between their original form, which looks much like a typical nymph of their kind, and any Small or Medium humanoid form, typically choosing a more humanoid-looking version of their natural form.\n\n* * *\n"
 
   - name: "Contingency"
-    desc: "`pf2:r`  **Trigger** Nyrissa is damaged by a melee strike\n**Effect** [[Spells/Mislead|Mislead]] activates on Nyrissa."
+    desc: "`pf2:r`  **Trigger** Nyrissa is damaged by a melee strike\n\n**Effect** [[Spells/Mislead|Mislead]] activates on Nyrissa."
 
   - name: "[[Creature Family Ability Glossary/(Nymph Queen) Focus Beauty|Focus Beauty]]"
     desc: "`pf2:1` (emotion,mental,primal,visual) Nyrissa focuses her beauty upon a target within her blinding beauty aura. The creature takes 6d12 mental damage (DC 46 Will check) and is [[Conditions/Blinded|Blinded]] until the end of their next turn (12d12 mental damage and permanent blindness on a critical failure). Nyrissa can Focus Beauty on a given creature only once per turn."
@@ -105,11 +106,17 @@ attacks:
     desc: "`pf2:3` (emotion,mental,primal) Nyrissa can inspire an intelligent, willing creature by scratching that creature with a thorn from her body. This reduces that creature's Hit Points by 1 permanently, but grants the creature several abilities: [[Bestiary Ability Glossary/Darkvision|Darkvision]], the ability to see [[Conditions/Invisible|Invisible]] creatures, and an ability boost to an ability of Nyrissa's choice. A bard granted this inspiration gains a +2 status bonus to Performance when determining the effect of compositions. Only one creature at a time can benefit from this inspiration. For the bulk of this Adventure Path, King Irovetti carries this inspiration, but once he is slain or defeated, who Nyrissa grants the bonus to instead (if anyone) is left to the GM to determine."
 
   - name: "Quickened Casting"
-    desc: "  **Frequency** three times per day;\n**Requirement** Nyrissa hasn't used Quickened Casting since the start of her previous turn\n**Effect** If Nyrissa's next action is to cast an arcane spontaneous spell that is 8th level or lower, reduce the number of actions to cast it by 1 (minimum 1 action)."
+    desc: "  **Frequency** three times per day;\n\n**Requirement** Nyrissa hasn't used Quickened Casting since the start of her previous turn\n\n**Effect** If Nyrissa's next action is to cast an arcane spontaneous spell that is 8th level or lower, reduce the number of actions to cast it by 1 (minimum 1 action)."
 
   - name: "Switch Fables"
-    desc: "`pf2:1` (move,primal,teleportation) **Requirement** Nyrissa is located in the twenty-foot diameter central area of one of the four Fables (areas M7a- M7d of the House at the Edge of Time)\n**Frequency** once per minute\n**Effect** Nyrissa Strides a minimum distance of ten feet, after which the reality of the demiplane folds around her in a tangle of vines and flowers. She then teleports from her current Fable to one of the other three of her choice, appearing in a square of her choosing within the central twenty feet of the chosen Fable."
+    desc: "`pf2:1` (move,primal,teleportation) **Requirement** Nyrissa is located in the twenty-foot diameter central area of one of the four Fables (areas M7a- M7d of the House at the Edge of Time)\n\n**Frequency** once per minute\n\n**Effect** Nyrissa Strides a minimum distance of ten feet, after which the reality of the demiplane folds around her in a tangle of vines and flowers. She then teleports from her current Fable to one of the other three of her choice, appearing in a square of her choosing within the central twenty feet of the chosen Fable."
  
+```
+
+```encounter-table
+name: Nyrissa
+creatures:
+  - 1: Nyrissa
 ```
 
 

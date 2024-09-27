@@ -12,7 +12,7 @@ license: ORC
 ---
 # Explorer's Yurt
 ## Item 10
-### [[magical]][[structure]]
+### [[3-Rules/Rule References/Magical]][[structure]]
 
 
 **Price** 880 gp; 

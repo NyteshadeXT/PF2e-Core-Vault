@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/good
   - pf2e/creature/type/human
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/4
 statblock: inline
 name: "Ralthiss (3-4)"
@@ -22,12 +23,12 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Society Scenario #1-03: Escaping the Grave"
 name: "Ralthiss (3-4)"
 level: "Creature 4"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Medium"
-trait_01: "good"
-trait_02: "human"
-trait_03: "humanoid"
+trait_01: [[good]]
+trait_02: [[human]]
+trait_03: [[humanoid]]
 modifier: 12
 perception:
   - name: "Perception"
@@ -73,11 +74,17 @@ attacks:
     desc: "_[[Spells/Create Undead|Create Undead]]_"
 
   - name: "Necrotic Infusion"
-    desc: "`pf2:1`  If the next action Ralthiss takes is to cast harm to restore Hit Points to a single undead creature, the target then deals an additional 1d6 void damage with its melee weapons and unarmed attacks until the end of its next turn.\n[[Feat_Feature Effects/Effect_ Divine Infusion (Harm)|Effect: Divine Infusion (Harm)]]"
+    desc: "`pf2:1`  If the next action Ralthiss takes is to cast harm to restore Hit Points to a single undead creature, the target then deals an additional 1d6 void damage with its melee weapons and unarmed attacks until the end of its next turn.\n\n[[Feat_Feature Effects/Effect_ Divine Infusion|Effect: Divine Infusion]]"
 
   - name: "Sap Life"
     desc: "  When Ralthiss casts a [[Spells/Harm|Harm]] spell and damages at least one living creature, he regains Hit Points equal to the spell rank of his _harm_ spell."
  
+```
+
+```encounter-table
+name: Ralthiss (3-4)
+creatures:
+  - 1: Ralthiss (3-4)
 ```
 
 

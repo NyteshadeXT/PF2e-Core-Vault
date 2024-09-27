@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/human
   - pf2e/creature/type/humanoid
   - pf2e/creature/type/lawful
+  - pf2eMonster
   - pf2e/creature/level/3
 statblock: inline
 name: "Uncle Jeb (3-4)"
@@ -23,13 +24,13 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Society Scenario #3-05: Inheritor&#x27;s Rite"
 name: "Uncle Jeb (3-4)"
 level: "Creature 3"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Medium"
-trait_01: "evil"
-trait_02: "human"
-trait_03: "humanoid"
-trait_04: "lawful"
+trait_01: [[evil]]
+trait_02: [[human]]
+trait_03: [[humanoid]]
+trait_04: [[lawful]]
 modifier: 7
 perception:
   - name: "Perception"
@@ -74,6 +75,12 @@ attacks:
   - name: "Sap Life"
     desc: "  When Uncle Jeb casts a [[Spells/Harm|Harm]] spell and damages at least one living creature, he regains Hit Points equal to the spell rank of his _harm_ spell."
  
+```
+
+```encounter-table
+name: Uncle Jeb (3-4)
+creatures:
+  - 1: Uncle Jeb (3-4)
 ```
 
 

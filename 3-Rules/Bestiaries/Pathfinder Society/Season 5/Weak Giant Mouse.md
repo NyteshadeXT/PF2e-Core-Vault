@@ -6,6 +6,7 @@ cssClasses: pf2e
 aliases: "Compendium.pf2e.pfs-season-5-bestiary.Actor.6Y4PxbzhsTlctbhB" 
 tags:
   - pf2e/creature/type/animal
+  - pf2eMonster
   - pf2e/creature/level/-1
 statblock: inline
 name: "Weak Giant Mouse"
@@ -23,11 +24,12 @@ level: "Creature -1"
 
 alignment: ""
 size: "Medium"
-trait_01: "animal"
+trait_01: [[animal]]
 modifier: 6
 perception:
   - name: "Perception"
     desc: "+6; "
+languages: ""
 skills:
   - name: "Skills"
     desc: "Acrobatics: +3, Athletics: +1, Stealth: +4"
@@ -49,7 +51,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Skittish"
-    desc: "`pf2:r`  **Trigger** The giant mouse is hit with a melee attack\n**Effect** The giant mouse takes a step after the effects of the triggering attack are resolved."
+    desc: "`pf2:r`  **Trigger** The giant mouse is hit with a melee attack\n* * *\n\n**Effect** The giant mouse takes a step after the effects of the triggering attack are resolved."
 
 attacks:
   - name: ""
@@ -57,6 +59,12 @@ attacks:
   - name: "Melee"
     desc: "`pf2:1` Bite +4 (finesse)\n__Damage__  1d4 piercing"
  
+```
+
+```encounter-table
+name: Weak Giant Mouse
+creatures:
+  - 1: Weak Giant Mouse
 ```
 
 

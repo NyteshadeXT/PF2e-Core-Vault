@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.kingmaker-bestiary.Actor.O5EEnXdrKPcODuwh"
 tags:
   - pf2e/creature/type/human
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/9
 statblock: inline
 name: "Sir Fredero Sinnet"
@@ -21,11 +22,11 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Kingmaker"
 name: "Sir Fredero Sinnet"
 level: "Creature 9"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Medium"
-trait_01: "human"
-trait_02: "humanoid"
+trait_01: [[human]]
+trait_02: [[humanoid]]
 modifier: 15
 perception:
   - name: "Perception"
@@ -62,7 +63,7 @@ abilities_mid:
     desc: "`pf2:r`  "
 
   - name: "Stubborn Conviction"
-    desc: "`pf2:0`  **Frequency** once per round\n**Trigger** Sir Fredero fails (but doesn't critically fail) a saving throw against a control or emotion effect\n**Effect** Sir Fredero rerolls the failed saving throw. He must take the result of this second roll, even if it is worse than the initial failure."
+    desc: "`pf2:0`  **Frequency** once per round\n\n**Trigger** Sir Fredero fails (but doesn't critically fail) a saving throw against a control or emotion effect\n\n**Effect** Sir Fredero rerolls the failed saving throw. He must take the result of this second roll, even if it is worse than the initial failure."
 
 attacks:
   - name: ""
@@ -73,6 +74,12 @@ attacks:
   - name: "Ranged"
     desc: "`pf2:1` Composite Shortbow +18 (deadly d10, magical, propulsive, range increment 60 feet, reload 0)\n__Damage__  2d6 + 10 piercing"
  
+```
+
+```encounter-table
+name: Sir Fredero Sinnet
+creatures:
+  - 1: Sir Fredero Sinnet
 ```
 
 

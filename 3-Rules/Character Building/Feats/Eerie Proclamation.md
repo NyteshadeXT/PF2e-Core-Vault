@@ -47,9 +47,9 @@ You know there are places in the world that are just wrong-places where the bird
   
 | d4 | Failure | Critical Failure |
 | --- | --- | --- |
-| 1 | [[Conditions/Clumsy 1\|Clumsy 2]] | [[Conditions/Clumsy 1\|Clumsy 3]] |
-| 2 | [[Conditions/Enfeebled 1\|Enfeebled 2]] | [[Conditions/Enfeebled 1\|Enfeebled 3]] |
-| 3 | [[Conditions/Stupefied 1\|Stupefied 2]] | [[Conditions/Stupefied 1\|Stupefied 3]] |
+| 1 | [[Conditions/Clumsy\|Clumsy 2]] | [[Conditions/Clumsy\|Clumsy 3]] |
+| 2 | [[Conditions/Enfeebled\|Enfeebled 2]] | [[Conditions/Enfeebled\|Enfeebled 3]] |
+| 3 | [[Conditions/Stupefied\|Stupefied 2]] | [[Conditions/Stupefied\|Stupefied 3]] |
 | 4 | [[Conditions/Dazzled\|Dazzled]] | [[Conditions/Blinded\|Blinded]] for 1 round, then [[Conditions/Dazzled\|Dazzled]] |
 
 *Source: Pathfinder Dark Archive*

@@ -6,8 +6,9 @@ tags:
   - trait/archetype
   - trait/common
   - category/class
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.7XcQ8Ygz5cubGxdC"
-license: OGL
+license: ORC
 ---
 # Investigator's Stratagem
 ## Feat 4
@@ -23,5 +24,5 @@ You play out battles in your head, allowing you to Strike when the time is right
 
 You also can't use your Intelligence modifier on other rolls from abilities that expand Devise a Stratagem, such as the [[Feats/Athletic Strategist|Athletic Strategist]] feat.
 
-*Source: Pathfinder Advanced Player's Guide*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.npc-gallery.Actor.crTWewxna93vEt6B"
 tags:
   - pf2e/creature/type/human
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/1
 statblock: inline
 name: "Acolyte of Nethys"
@@ -24,8 +25,8 @@ level: "Creature 1"
 
 alignment: ""
 size: "Medium"
-trait_01: "human"
-trait_02: "humanoid"
+trait_01: [[human]]
+trait_02: [[humanoid]]
 modifier: 7
 perception:
   - name: "Perception"
@@ -67,6 +68,12 @@ attacks:
   - name: "Cleric Domain Spells"
     desc: "1 Focus Point, DC 17, attack +9; __1st __  _[[Spells/Cry of Destruction|Cry of Destruction]]_"
  
+```
+
+```encounter-table
+name: Acolyte of Nethys
+creatures:
+  - 1: Acolyte of Nethys
 ```
 
 

@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.pathfinder-bestiary.Actor.TZcDdN5o7s4alZNE"
 tags:
   - pf2e/creature/type/mindless
   - pf2e/creature/type/ooze
+  - pf2eMonster
   - pf2e/creature/level/3
 statblock: inline
 name: "Gelatinous Cube"
@@ -25,15 +26,16 @@ level: "Creature 3"
 
 alignment: ""
 size: "Large"
-trait_01: "mindless"
-trait_02: "ooze"
+trait_01: [[mindless]]
+trait_02: [[ooze]]
 modifier: 5
 perception:
   - name: "Perception"
     desc: "+5; Motion Sense (Precise) 60 Feet"
+languages: ""
 skills:
   - name: "Skills"
-    desc: "Athletics: +11 (+13 to Shove)"
+    desc: "Athletics: +11"
 abilityMods: [4, -5, 5, -5, 0, -5]
 speed: 15 feet
 sourcebook: "_Pathfinder Bestiary_"
@@ -53,7 +55,7 @@ abilities_top:
     desc: "  A gelatinous cube can sense nearby motion through vibration and air movement."
 
   - name: "Transparent"
-    desc: "  A gelatinous cube is so clear that it's difficult to spot. A successful DC 23 Perception check check is required to notice a stationary cube, and a creature must be [[Actions/Search|Searching]] to attempt this check.\nA creature that walks into the cube is automatically Engulfed (this usually causes the GM to call for initiative)."
+    desc: "  A gelatinous cube is so clear that it's difficult to spot. A successful DC 23 Perception check check is required to notice a stationary cube, and a creature must be [[Actions/Search|Searching]] to attempt this check.\n\nA creature that walks into the cube is automatically Engulfed (this usually causes the GM to call for initiative)."
 
 abilities_mid:
   - name: ""
@@ -64,7 +66,7 @@ attacks:
     desc: "`pf2:1` Cube Face +11 ()\n__Damage__  1d6 acid plus paralysis"
 
   - name: "[[Bestiary Ability Glossary/Engulf|Engulf]]"
-    desc: "`pf2:2`  DC 19 Reflex check, 2d6 acid, Escape DC 19, Rupture 7\nA creature Engulfed by the gelatinous cube must also attempt a saving throw against paralysis.\n"
+    desc: "`pf2:2`  DC 19 Reflex check, 2d6 acid, Escape DC 19, Rupture 7\n\nA creature Engulfed by the gelatinous cube must also attempt a saving throw against paralysis.\n\n* * *\n"
 
   - name: "Paralysis"
     desc: " (incapacitation) A creature Engulfed by the cube or hit by its attack is [[Conditions/Paralyzed|Paralyzed]] unless it succeeds at a DC 20 Fortitude check save. A victim can attempt a new save to recover at the end of each of its turn."
@@ -72,6 +74,12 @@ attacks:
   - name: "Weak Acid"
     desc: "  A gelatinous cube's acid damages only organic material-not metal, stone, or other inorganic substances."
  
+```
+
+```encounter-table
+name: Gelatinous Cube
+creatures:
+  - 1: Gelatinous Cube
 ```
 
 

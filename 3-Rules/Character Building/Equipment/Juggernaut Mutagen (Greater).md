@@ -10,8 +10,9 @@ tags:
   - trait/polymorph
   - trait/common
   - category/mutagen
+  - remaster
 aliases: "Compendium.pf2e.equipment-srd.Item.TMtQnY6yvIRCpK9v"
-license: OGL
+license: ORC
 ---
 # Juggernaut Mutagen (Greater)
 ## Item 11
@@ -22,11 +23,11 @@ license: OGL
 **Bulk** L; **Size** med
 **Usage** held-in-one-hand
 
-**Activate** `pf2:1` Interact
+**Activate** `pf2:1` (manipulate)
 
 * * *
 
-After you drink this mutagen, your body becomes thick and sturdy. You exhibit a healthy glow, though you tend to be ponderous and unobservant.
+Your body becomes sturdy and ponderous.
 
 **Benefit** You gain a +3 item bonus to Fortitude saves and 30 temporary Hit Points. Whenever you are at maximum Hit Points for at least 1 full minute, you regain the temporary Hit Points. When you roll a success on a Fortitude save, you get a critical success instead.
 
@@ -36,5 +37,5 @@ After you drink this mutagen, your body becomes thick and sturdy. You exhibit a 
 
 [[Equipment Effects/Effect_ Juggernaut Mutagen (Greater)|Effect: Juggernaut Mutagen (Greater)]]
 
-*Source: Pathfinder Core Rulebook*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

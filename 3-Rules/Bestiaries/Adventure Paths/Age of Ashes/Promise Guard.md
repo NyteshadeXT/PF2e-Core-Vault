@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/human
   - pf2e/creature/type/humanoid
   - pf2e/creature/type/lawful
+  - pf2eMonster
   - pf2e/creature/level/17
 statblock: inline
 name: "Promise Guard"
@@ -22,12 +23,12 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #150: Broken Promises"
 name: "Promise Guard"
 level: "Creature 17"
-rare_03: "Rare"
+rare_03: [[Rare]]
 alignment: ""
 size: "Medium"
-trait_01: "human"
-trait_02: "humanoid"
-trait_03: "lawful"
+trait_01: [[human]]
+trait_02: [[humanoid]]
+trait_03: [[lawful]]
 modifier: 29
 perception:
   - name: "Perception"
@@ -35,7 +36,7 @@ perception:
 languages: "Common, Draconic"
 skills:
   - name: "Skills"
-    desc: "Athletics: +33, Diplomacy: +30, Hermea Lore: +33, Intimidation: +33, Society: +30, Survival: +28"
+    desc: "Athletics: +33, Diplomacy: +30, Intimidation: +33, Society: +30, Survival: +28, Hermea Lore: +33"
 abilityMods: [8, 2, 9, 2, 3, 2]
 speed: 30 feet
 sourcebook: "_Pathfinder #150: Broken Promises_"
@@ -55,7 +56,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "[[Bestiary Ability Glossary/Attack of Opportunity|Attack of Opportunity (Special)]]"
-    desc: "`pf2:r`  A Promise Guard can use Attack of Opportunity when a creature within her reach uses a concentrate action, in addition to its normal trigger. They can disrupt triggering concentrate actions, and they disrupt actions on any hit, not just a critical hit.\n"
+    desc: "`pf2:r`  A Promise Guard can use Attack of Opportunity when a creature within her reach uses a concentrate action, in addition to its normal trigger. They can disrupt triggering concentrate actions, and they disrupt actions on any hit, not just a critical hit.\n\n* * *\n"
 
   - name: "Promise Guard Stance"
     desc: "  A promise guard always has her shield raised as if they had used the Raise a Shield action, as long as they meet that action's requirements."
@@ -81,6 +82,12 @@ attacks:
   - name: "Sudden Charge"
     desc: "`pf2:2`  The Promise guard Strides up to double their Speed. If the guard ends their movement within melee reach of at least one enemy, they can make a melee Strike against that enemy."
  
+```
+
+```encounter-table
+name: Promise Guard
+creatures:
+  - 1: Promise Guard
 ```
 
 

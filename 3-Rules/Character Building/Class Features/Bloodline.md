@@ -6,12 +6,13 @@ tags:
   - trait/sorcerer
   - trait/common
   - category/classfeature
+  - remaster
 aliases: "Compendium.pf2e.classfeatures.Item.2goYo6VNbwC6aKF1"
-license: OGL
+license: ORC
 ---
 # Bloodline
 ## Feat 1
-### [[sorcerer]]
+### [[3-Rules/trait_reference/sorcerer]]
 
 **Category** classfeature; 
 
@@ -38,5 +39,5 @@ Choose a bloodline that gives you your spellcasting talent. This choice determin
 *   **[[Class Features/Bloodline_ Undead|Undead]]** The touch of death gives you divine spells.
 *   **[[Class Features/Bloodline_ Wyrmblessed|Wyrmblessed]]** A draconic blessing grants you divine spells.
 
-*Source: Pathfinder Core Rulebook*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

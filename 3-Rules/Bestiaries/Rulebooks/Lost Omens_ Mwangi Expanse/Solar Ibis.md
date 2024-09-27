@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.lost-omens-mwangi-expanse-bestiary.Actor.RVVSRRYAhQ3dV
 tags:
   - pf2e/creature/type/beast
   - pf2e/creature/type/good
+  - pf2eMonster
   - pf2e/creature/level/7
 statblock: inline
 name: "Solar Ibis"
@@ -24,13 +25,13 @@ level: "Creature 7"
 
 alignment: ""
 size: "Medium"
-trait_01: "beast"
-trait_02: "good"
+trait_01: [[beast]]
+trait_02: [[good]]
 modifier: 17
 perception:
   - name: "Perception"
     desc: "+17; Darkvision, Low-Light Vision"
-languages: "Fey, Mwangi"
+languages: "Fey, Mwangi; (can&#x27;t speak any language)"
 skills:
   - name: "Skills"
     desc: "Acrobatics: +18, Athletics: +14"
@@ -52,7 +53,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Blinding Halo"
-    desc: " (arcane,aura,light) 30 feet. The solar ibis's halo sheds bright light. Creatures that start their turn in the aura must succeed at a DC 22 Fortitude check save or be [[Conditions/Dazzled|Dazzled]] for 1 minute. A creature that critically fails its save is instead [[Conditions/Blinded|Blinded]] for 1 minute.\nCreatures who successfully save are temporarily immune to this effect for 24 hours.\nThe solar ibis can extinguish or resume the halo's light as a single action, which has the concentrate trait."
+    desc: " (arcane,aura,light) 30 feet. The solar ibis's halo sheds bright light. Creatures that start their turn in the aura must succeed at a DC 22 Fortitude check save or be [[Conditions/Dazzled|Dazzled]] for 1 minute. A creature that critically fails its save is instead [[Conditions/Blinded|Blinded]] for 1 minute.\n\nCreatures who successfully save are temporarily immune to this effect for 24 hours.\n\nThe solar ibis can extinguish or resume the halo's light as a single action, which has the concentrate trait."
 
   - name: "Evasion"
     desc: "  When a solar ibis succeeds at a Reflex save, it gets a critical success instead."
@@ -70,11 +71,17 @@ attacks:
     desc: "`pf2:2`  The solar ibis Flies up to double its fly Speed in a straight line, descends at least 10 feet, and then makes a talon Strike."
 
   - name: "Light Shatter"
-    desc: "`pf2:2` (arcane,fire,light) The solar ibis detonates its halo, sending shards of burning light in all directions that deal 6d8 fire damage to all creatures in a 20-foot emanation (DC 22 Reflex check save). The shards deal an extra 6d8 spirit damage against fiends and undead.\nThe solar ibis can't use Light Shatter again for 1d4 rounds, and its Blinding Halo is extinguished during this time. The halo is restored automatically once the 1d4 rounds have passed."
+    desc: "`pf2:2` (arcane,fire,light) The solar ibis detonates its halo, sending shards of burning light in all directions that deal 6d8 fire damage to all creatures in a @Template[emanation|distance:20] (DC 22 Reflex check save). The shards deal an extra 6d8 spirit damage against fiends and undead.\n\nThe solar ibis can't use Light Shatter again for 1d4 rounds, and its Blinding Halo is extinguished during this time. The halo is restored automatically once the 1d4 rounds have passed."
 
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
     desc: "`pf2:1`  "
  
+```
+
+```encounter-table
+name: Solar Ibis
+creatures:
+  - 1: Solar Ibis
 ```
 
 

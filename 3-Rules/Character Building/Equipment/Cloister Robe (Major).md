@@ -13,7 +13,7 @@ license: OGL
 ---
 # Cloister Robe (Major)
 ## Item 19
-### [[divine]][[focused]][[invested]]
+### [[3-Rules/Rule References/Divine]][[focused]][[invested]]
 
 **Category** unarmored; **Group** cloth
 **Price** 32000 gp; 

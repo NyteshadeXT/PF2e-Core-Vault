@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/dwarf
   - pf2e/creature/type/evil
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/7
 statblock: inline
 name: "Four-Tooth"
@@ -22,12 +23,12 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #194: Cult of the Cave Worm"
 name: "Four-Tooth"
 level: "Creature 7"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Medium"
-trait_01: "dwarf"
-trait_02: "evil"
-trait_03: "humanoid"
+trait_01: [[dwarf]]
+trait_02: [[evil]]
+trait_03: [[humanoid]]
 modifier: 15
 perception:
   - name: "Perception"
@@ -35,7 +36,7 @@ perception:
 languages: "Common, Dwarven, Sakvroth"
 skills:
   - name: "Skills"
-    desc: "Accounting Lore: +17, Athletics: +14, Deception: +15, Intimidation: +17, Society: +12"
+    desc: "Athletics: +14, Deception: +15, Intimidation: +17, Society: +12, Accounting Lore: +17"
 abilityMods: [5, 1, 4, 1, 3, 4]
 speed: 20 feet
 sourcebook: "_Pathfinder #194: Cult of the Cave Worm_"
@@ -70,7 +71,7 @@ attacks:
     desc: "DC 21, attack +0; __4th __  _[[Spells/Blood Vendetta|Blood Vendetta]]_; __2nd __  _[[Spells/Paranoia|Paranoia]]_\n__Cantrips__  __(4th)__ _[[Spells/Sigil|Sigil]]_"
 
   - name: "Jaws"
-    desc: "`pf2:1`  **Requirements** Four-Tooth has a creature [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]]\n**Effect** Four-Tooth makes a jaws unarmed Strike against the grabbed or restrained target with an attack modifier of +19 that deals 1d8+5 piercing damage, deals 3d6 poison damage, and exposes the target to the sewer haze disease.\n## Sewer Haze\nMany healers and alchemists suspect that sewer haze has a supernatural origin, given its association with particularly strong otyughs.\n**Saving Throw** DC 23 Fortitude check\n**Onset** 2 days\n**Stage 1** [[Conditions/Stupefied 1|Stupefied 2]] (1 day)\n**Stage 2** [[Conditions/Drained 1|Drained 2]] and stupefied 2 (1 day)\n**Stage 3** [[Conditions/Drained 1|Drained 3]] and [[Conditions/Stupefied 1|Stupefied 3]] (1 day)"
+    desc: "`pf2:1`  **Requirements** Four-Tooth has a creature [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]]\n* * *\n\n**Effect** Four-Tooth makes a jaws unarmed Strike against the grabbed or restrained target with an attack modifier of +19 that deals 1d8+5 piercing damage, deals 3d6 poison damage, and exposes the target to the sewer haze disease.\n\n## Sewer Haze\n\nMany healers and alchemists suspect that sewer haze has a supernatural origin, given its association with particularly strong otyughs.\n\n**Saving Throw** DC 23 Fortitude check\n\n**Onset** 2 days\n\n**Stage 1** [[Conditions/Stupefied|Stupefied 2]] (1 day)\n\n**Stage 2** [[Conditions/Drained|Drained 2]] and stupefied 2 (1 day)\n\n**Stage 3** [[Conditions/Drained|Drained 3]] and [[Conditions/Stupefied|Stupefied 3]] (1 day)"
 
   - name: "Slashing Snare"
     desc: "`pf2:2`  Four-Tooth can Step and then make a spiked chain Strike. If it hits and deals damage, he can attempt an Athletics check to [[Actions/Grapple|Grapple]] the target. Both attacks count toward his multiple attack penalty, but the penalty doesn't increase until after he's made both attacks."
@@ -78,6 +79,12 @@ attacks:
   - name: "Snagging Chain"
     desc: "  Four-Tooth can use a spiked chain to [[Actions/Grapple|Grapple]] with the Athletics skill even if he doesn't have a free hand, and he adds the weapon's item bonus to attack rolls to the Athletics check."
  
+```
+
+```encounter-table
+name: Four-Tooth
+creatures:
+  - 1: Four-Tooth
 ```
 
 

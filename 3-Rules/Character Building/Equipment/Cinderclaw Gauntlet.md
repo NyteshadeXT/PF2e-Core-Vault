@@ -15,7 +15,7 @@ license: OGL
 ---
 # Cinderclaw Gauntlet
 ## Item 5
-### [uncommon](uncommon "Uncommon Rarity Trait")[[agile]][[free-hand]][[magical]][[versatile-s]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[3-Rules/Rule References/Agile]][[free-hand]][[3-Rules/Rule References/Magical]][[versatile-s]]
 
 |  |  |
 | -- | -- |
@@ -36,7 +36,7 @@ On a critical hit, the _Cinderclaw gauntlet_ deals an additional 1d6 fire damage
 
 * * *
 
-**Effect** The creature you hit must succeed at a DC 19 Fortitude check save or be [[Conditions/Sickened 1|Sickened 1]] by the gauntlet's acrid smoke. Creatures that don't need to breathe are immune.
+**Effect** The creature you hit must succeed at a DC 19 Fortitude check save or be [[Conditions/Sickened|Sickened 1]] by the gauntlet's acrid smoke. Creatures that don't need to breathe are immune.
 
 *Source: Pathfinder #145: Hellknight Hill*
 *OGL*

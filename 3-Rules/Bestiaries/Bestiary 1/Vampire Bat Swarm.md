@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.pathfinder-bestiary.Actor.VAWmwDA08ZLQd8lW"
 tags:
   - pf2e/creature/type/animal
   - pf2e/creature/type/swarm
+  - pf2eMonster
   - pf2e/creature/level/1
 statblock: inline
 name: "Vampire Bat Swarm"
@@ -25,15 +26,16 @@ level: "Creature 1"
 
 alignment: ""
 size: "Large"
-trait_01: "animal"
-trait_02: "swarm"
+trait_01: [[animal]]
+trait_02: [[swarm]]
 modifier: 10
 perception:
   - name: "Perception"
     desc: "+10; Echolocation 20 Feet, Low-Light Vision"
+languages: ""
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +7, Athletics: +4 (+7 to Climb), Stealth: +7"
+    desc: "Acrobatics: +7, Athletics: +4, Stealth: +7"
 abilityMods: [1, 4, 1, -4, 3, -3]
 speed: 5 feet,  fly 30 feet
 sourcebook: "_Pathfinder Bestiary_"
@@ -60,6 +62,12 @@ attacks:
   - name: "Blood Feast"
     desc: "`pf2:1`  Each enemy in the bat swarm's space takes 1d4 piercing damage (DC 16 Reflex check save). Creatures that fail this save also take 1 bleed damage."
  
+```
+
+```encounter-table
+name: Vampire Bat Swarm
+creatures:
+  - 1: Vampire Bat Swarm
 ```
 
 

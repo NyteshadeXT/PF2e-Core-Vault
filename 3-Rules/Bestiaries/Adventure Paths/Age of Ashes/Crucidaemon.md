@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/fiend
   - pf2e/creature/type/unholy
+  - pf2eMonster
   - pf2e/creature/level/15
 statblock: inline
 name: "Crucidaemon"
@@ -26,15 +27,15 @@ level: "Creature 15"
 
 alignment: ""
 size: "Medium"
-trait_01: "daemon"
-trait_02: "evil"
-trait_03: "fiend"
-trait_04: "unholy"
+trait_01: [[daemon]]
+trait_02: [[evil]]
+trait_03: [[fiend]]
+trait_04: [[unholy]]
 modifier: 26
 perception:
   - name: "Perception"
     desc: "+26; Darkvision, Lifesense 30 Feet"
-languages: "Chthonian, Diabolic, Draconic"
+languages: "Chthonian, Diabolic, Draconic; telepathy 100 feet"
 skills:
   - name: "Skills"
     desc: "Acrobatics: +30, Arcana: +26, Crafting: +30, Deception: +26, Intimidation: +28, Stealth: +30, Thievery: +26"
@@ -76,6 +77,12 @@ attacks:
   - name: "Manifest Dagger"
     desc: "`pf2:1`  The crucidaemon summons a new chained dagger to replace a destroyed one. A crucidaemon's daggers can't be disarmed, and they become non-magical when severed from the daemon or upon the daemon's death."
  
+```
+
+```encounter-table
+name: Crucidaemon
+creatures:
+  - 1: Crucidaemon
 ```
 
 

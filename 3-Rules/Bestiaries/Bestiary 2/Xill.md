@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/ethereal
   - pf2e/creature/type/evil
   - pf2e/creature/type/lawful
+  - pf2eMonster
   - pf2e/creature/level/6
 statblock: inline
 name: "Xill"
@@ -24,13 +25,13 @@ token: [[modules/pf2e-tokens-bestiaries/portraits/aberrant/humanoid/xill.webp| ]
 source: "Pathfinder Bestiary 2"
 name: "Xill"
 level: "Creature 6"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Medium"
-trait_01: "aberration"
-trait_02: "ethereal"
-trait_03: "evil"
-trait_04: "lawful"
+trait_01: [[aberration]]
+trait_02: [[ethereal]]
+trait_03: [[evil]]
+trait_04: [[lawful]]
 modifier: 15
 perception:
   - name: "Perception"
@@ -82,14 +83,20 @@ attacks:
     desc: "`pf2:1` (flourish) The xill makes two scimitar Strikes against a single target. If both hit, combine their damage for the purpose of the target's resistances and weaknesses. The xill applies its multiple attack penalty to each strike normally."
 
   - name: "Implant"
-    desc: "`pf2:2` (manipulate) **Requirements** The xill is adjacent to a [[Conditions/Unconscious|Unconscious]], willing, or [[Conditions/Paralyzed|Paralyzed]] creature\n**Effect** The xill implants xill eggs in the creature's flesh."
+    desc: "`pf2:2` (manipulate) **Requirements** The xill is adjacent to a [[Conditions/Unconscious|Unconscious]], willing, or [[Conditions/Paralyzed|Paralyzed]] creature\n* * *\n\n**Effect** The xill implants xill eggs in the creature's flesh."
 
   - name: "Xill Eggs"
-    desc: " (disease) The [[Conditions/Sickened 1|Sickened]] condition from xill eggs doesn't improve on its own until the disease is cured or runs its course. It can be cured with a 10-minute operation that requires a successful DC 26 Medicine check check and deals 4d6 slashing damage to the host\n**Saving Throw** DC 24 Fortitude check\n**Maximum Duration** 24 hours\n**Stage 1** infested with no ill effect (8 hours)\n**Stage 2** [[Conditions/Sickened 1|Sickened 1]] (8 hours)\n**Stage 3** [[Conditions/Sickened 1|Sickened 2]] (4 hours)\n**Stage 4** [[Conditions/Sickened 1|Sickened 2]] and 2d6 bleed as larval xills burrow out of the body and immediately fade away into the Ethereal Plane (1 hour)"
+    desc: " (disease) The [[Conditions/Sickened|Sickened]] condition from xill eggs doesn't improve on its own until the disease is cured or runs its course. It can be cured with a 10-minute operation that requires a successful DC 26 Medicine check check and deals 4d6 slashing damage to the host\n\n**Saving Throw** DC 24 Fortitude check\n\n**Maximum Duration** 24 hours\n\n**Stage 1** infested with no ill effect (8 hours)\n\n**Stage 2** [[Conditions/Sickened|Sickened 1]] (8 hours)\n\n**Stage 3** [[Conditions/Sickened|Sickened 2]] (4 hours)\n\n**Stage 4** [[Conditions/Sickened|Sickened 2]] and 2d6 bleed as larval xills burrow out of the body and immediately fade away into the Ethereal Plane (1 hour)"
 
   - name: "Xill Paralysis"
-    desc: " (incapacitation,occult) A creature hit by the xill's bite Strike must attempt a DC 24 Fortitude check save.\n**Critical Success** The creature is unaffected and is immune to xill paralysis for 1 minute.\n**Success** The creature is [[Conditions/Slowed 1|Slowed 1]] for 1 round.\n**Failure** The creature is [[Conditions/Paralyzed|Paralyzed]] for 1 round.\n**Critical Failure** The creature is paralyzed. It can attempt a new save at the end of each of its turns to recover, and the save DC decreases by 1 each round."
+    desc: " (incapacitation,occult) A creature hit by the xill's bite Strike must attempt a DC 24 Fortitude check save.\n* * *\n\n**Critical Success** The creature is unaffected and is immune to xill paralysis for 1 minute.\n\n**Success** The creature is [[Conditions/Slowed|Slowed 1]] for 1 round.\n\n**Failure** The creature is [[Conditions/Paralyzed|Paralyzed]] for 1 round.\n\n**Critical Failure** The creature is paralyzed. It can attempt a new save at the end of each of its turns to recover, and the save DC decreases by 1 each round."
  
+```
+
+```encounter-table
+name: Xill
+creatures:
+  - 1: Xill
 ```
 
 

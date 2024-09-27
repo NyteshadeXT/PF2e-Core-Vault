@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.stolen-fate-bestiary.Actor.ax9j12x0JqBBPE5M"
 tags:
   - pf2e/creature/type/aberration
   - pf2e/creature/type/evil
+  - pf2eMonster
   - pf2e/creature/level/8
 statblock: inline
 name: "Bhanyada Scavenger"
@@ -21,16 +22,16 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #190: The Choosing"
 name: "Bhanyada Scavenger"
 level: "Creature 8"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Small"
-trait_01: "aberration"
-trait_02: "evil"
+trait_01: [[aberration]]
+trait_02: [[evil]]
 modifier: 17
 perception:
   - name: "Perception"
     desc: "+17; Darkvision"
-languages: "Aklo"
+languages: "Aklo; can&#x27;t speak any language"
 skills:
   - name: "Skills"
     desc: "Athletics: +17, Stealth: +18, Survival: +17"
@@ -52,10 +53,10 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Extraneous Flesh"
-    desc: "`pf2:0`  **Frequency** three times per day\n**Trigger** A Strike scores a critical hit on the bhanyada scavenger\n**Effect** A critical hit might simply sever a component chunk that the bhanyada can lose without much harm. The bhanyada scavenger attempts a DC 11 Flat check. On a success, it doesn't take any extra damage from the critical hit (although it takes other effects normally, such as critical specialization effects)."
+    desc: "`pf2:0`  **Frequency** three times per day\n\n**Trigger** A Strike scores a critical hit on the bhanyada scavenger\n* * *\n\n**Effect** A critical hit might simply sever a component chunk that the bhanyada can lose without much harm. The bhanyada scavenger attempts a DC 11 Flat check. On a success, it doesn't take any extra damage from the critical hit (although it takes other effects normally, such as critical specialization effects)."
 
   - name: "Odor of Rot"
-    desc: " (aura,olfactory) 10 feet. Creatures other than aberrations that enter or start their turn in the bhanyada's aura must succeed at a DC 23 Fortitude check save or become [[Conditions/Sickened 1|Sickened 1]] ([[Conditions/Sickened 1|Sickened 2]] on a critical failure). A creature that succeeds at its save is temporarily immune for 1 minute."
+    desc: " (aura,olfactory) 10 feet. Creatures other than aberrations that enter or start their turn in the bhanyada's aura must succeed at a DC 23 Fortitude check save or become [[Conditions/Sickened|Sickened 1]] ([[Conditions/Sickened|Sickened 2]] on a critical failure). A creature that succeeds at its save is temporarily immune for 1 minute."
 
 attacks:
   - name: ""
@@ -67,11 +68,17 @@ attacks:
     desc: "`pf2:1`  The bhanyada changes between a bipedal and quadrupedal stance. In its bipedal stance, the bhanyada can't use Sudden Charge. In its quadrupedal stance, it loses its climb Speed."
 
   - name: "Gnashing Bite"
-    desc: "`pf2:2`  The bhanyada's teeth shift in its mouth as it bites. The bhanyada makes a jaws Strike. On a hit, the target takes an additional 2d10 bludgeoning damage, and the target is [[Conditions/Slowed 1|Slowed 1]] for 1 round if the Strike dealt bludgeoning damage, or takes 1d8 persistent bleed damage if the Strike dealt piercing damage."
+    desc: "`pf2:2`  The bhanyada's teeth shift in its mouth as it bites. The bhanyada makes a jaws Strike. On a hit, the target takes an additional 2d10 bludgeoning damage, and the target is [[Conditions/Slowed|Slowed 1]] for 1 round if the Strike dealt bludgeoning damage, or takes 1d8 persistent bleed damage if the Strike dealt piercing damage."
 
   - name: "Sudden Charge"
     desc: "`pf2:2`  The bhanyada Strides twice and makes a jaws Strike at the end of its movement."
  
+```
+
+```encounter-table
+name: Bhanyada Scavenger
+creatures:
+  - 1: Bhanyada Scavenger
 ```
 
 

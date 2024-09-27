@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/fiend
   - pf2e/creature/type/unholy
+  - pf2eMonster
   - pf2e/creature/level/9
 statblock: inline
 name: "Leukodaemon"
@@ -27,15 +28,15 @@ level: "Creature 9"
 
 alignment: ""
 size: "Large"
-trait_01: "daemon"
-trait_02: "evil"
-trait_03: "fiend"
-trait_04: "unholy"
+trait_01: [[daemon]]
+trait_02: [[evil]]
+trait_03: [[fiend]]
+trait_04: [[unholy]]
 modifier: 20
 perception:
   - name: "Perception"
     desc: "+20; Darkvision"
-languages: "Common, Daemonic"
+languages: "Common, Daemonic; telepathy 100 feet"
 skills:
   - name: "Skills"
     desc: "Acrobatics: +18, Intimidation: +18, Medicine: +20, Religion: +20, Stealth: +18, Survival: +16"
@@ -61,7 +62,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Infectious Aura"
-    desc: " (aura,disease) 30 feet. Leukodaemons radiate infection. All creatures within 30 feet of a leukodaemon take a -2 status penalty to saves against disease effects. If a creature within range contracts or progresses a disease, all adjacent creatures are exposed to the same disease, at the same DC.\n[[Bestiary Effects/Effect_ Infectious Aura|Effect: Infectious Aura]]"
+    desc: " (aura,disease) 30 feet. Leukodaemons radiate infection. All creatures within 30 feet of a leukodaemon take a -2 status penalty to saves against disease effects. If a creature within range contracts or progresses a disease, all adjacent creatures are exposed to the same disease, at the same DC.\n\n[[Bestiary Effects/Effect_ Infectious Aura|Effect: Infectious Aura]]"
 
 attacks:
   - name: ""
@@ -79,14 +80,20 @@ attacks:
     desc: "DC 26, attack +18; __5th __  _[[Spells/Translocate|Dimension Door]]_; __4th __  _[[Spells/Translocate|Dimension Door (At Will)]]_, _[[Spells/Dispel Magic|Dispel Magic (x2)]]_; __1st __  _[[Spells/Detect Alignment|Detect Alignment (At Will) (Good Only)]]_"
 
   - name: "Breath Weapon"
-    desc: "`pf2:2` (divine) The leukodaemon exhales a cloud of corpse-bloated, biting black flies in a 20-foot cone. Creatures within the cone take 4d8 piercing damage (DC 28 Reflex check save).\n**Critical Success** uneffected\n**Success** half damage\n**Failure** full damage and [[Conditions/Sickened 1|Sickened 1]]\n**Critical Failure** double damage and [[Conditions/Sickened 1|Sickened 2]]"
+    desc: "`pf2:2` (divine) The leukodaemon exhales a cloud of corpse-bloated, biting black flies in a @Template[cone|distance:20]. Creatures within the cone take 4d8 piercing damage (DC 28 Reflex check save). A creature that fails the save becomes [[Conditions/Sickened|Sickened 1]] (or [[Conditions/Sickened|Sickened 2]] on a critical failure)."
 
   - name: "Daemonic Pestilence"
-    desc: " (disease) The leukodaemon can telepathically communicate with the afflicted creature at any distance on the same plane.\n**Saving Throw** DC 28 Fortitude check\n**Stage 1** carrier (1 day)\n**Stage 2** [[Conditions/Drained 1|Drained 1]] (1 day)\n**Stage 3** [[Conditions/Drained 1|Drained 2]] (1 day)\n**Stage 4** [[Conditions/Drained 1|Drained 2]] (1 day)\n**Stage 5** [[Conditions/Drained 1|Drained 3]] (1 week)\n**Stage 6** dead"
+    desc: " (disease) The leukodaemon can telepathically communicate with the afflicted creature at any distance on the same plane.\n\n**Saving Throw** DC 28 Fortitude check\n\n**Stage 1** carrier (1 day)\n\n**Stage 2** [[Conditions/Drained|Drained 1]] (1 day)\n\n**Stage 3** [[Conditions/Drained|Drained 2]] (1 day)\n\n**Stage 4** [[Conditions/Drained|Drained 2]] (1 day)\n\n**Stage 5** [[Conditions/Drained|Drained 3]] (1 week)\n\n**Stage 6** dead"
 
   - name: "Quicken Pestilence"
     desc: "`pf2:1` (divine,manipulate) The leukodaemon coaxes a disease into full bloom. It chooses a target in its aura of pestilence that's currently affected by a disease. That creature must attempt a Fortitude save against the disease as if the interval for the disease's current stage had passed."
  
+```
+
+```encounter-table
+name: Leukodaemon
+creatures:
+  - 1: Leukodaemon
 ```
 
 

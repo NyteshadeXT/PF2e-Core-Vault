@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/human
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/19
 statblock: inline
 name: "Foras"
@@ -23,13 +24,13 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Kingmaker"
 name: "Foras"
 level: "Creature 19"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Medium"
-trait_01: "chaotic"
-trait_02: "evil"
-trait_03: "human"
-trait_04: "humanoid"
+trait_01: [[chaotic]]
+trait_02: [[evil]]
+trait_03: [[human]]
+trait_04: [[humanoid]]
 modifier: 33
 perception:
   - name: "Perception"
@@ -60,13 +61,13 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Outside of Time"
-    desc: "  Foras exists outside of time; he doesn't age, doesn't need food or drink to survive, and can't be [[Conditions/Quickened|Quickened]] or [[Conditions/Slowed 1|Slowed]] unless he chooses to be."
+    desc: "  Foras exists outside of time; he doesn't age, doesn't need food or drink to survive, and can't be [[Conditions/Quickened|Quickened]] or [[Conditions/Slowed|Slowed]] unless he chooses to be."
 
   - name: "Resolve"
     desc: "  When Foras rolls a success on a Will save, he gets a critical success instead."
 
   - name: "Time Siphon"
-    desc: " (aura,occult) 60 feet. A living creature that enters the aura or ends its turn within it has some of its temporal essence drained away to Yog-Sothoth. It must succeed at a DC 38 Will check save or become [[Conditions/Slowed 1|Slowed 1]] for 1 round ([[Conditions/Slowed 1|Slowed 2]] on a critical failure). Worshipers of Yog-Sothoth are immune to Time Siphon."
+    desc: " (aura,occult) 60 feet. A living creature that enters the aura or ends its turn within it has some of its temporal essence drained away to Yog-Sothoth. It must succeed at a DC 38 Will check save or become [[Conditions/Slowed|Slowed 1]] for 1 round ([[Conditions/Slowed|Slowed 2]] on a critical failure). Worshipers of Yog-Sothoth are immune to Time Siphon."
 
 attacks:
   - name: ""
@@ -75,7 +76,7 @@ attacks:
     desc: "`pf2:1` Staff +31 (magical, staff, two-hand d8)\n__Damage__  3d4 + 10 bludgeoning"
 
   - name: "Occult Spontaneous Spells"
-    desc: "DC 41, attack +36; __10th __ (1 slots) _[[Spells/Freeze Time|Time Stop]]_; __9th __ (4 slots) _[[Spells/Force Barrage|Magic Missile]]_, _[[Spells/Overwhelming Presence|Overwhelming Presence]]_, _[[Spells/Telepathic Demand|Telepathic Demand]]_, _[[Spells/Unfathomable Song|Unfathomable Song]]_; __8th __ (4 slots) _[[Spells/Mask of Terror|Mask of Terror]]_, _[[Spells/Quandary|Maze]]_, _[[Spells/Scintillating Pattern|Scintillating Pattern]]_, _[[Spells/Uncontrollable Dance|Uncontrollable Dance]]_; __7th __ (4 slots) _[[Spells/Force Barrage|Magic Missile]]_, _[[Spells/Spirit Blast|Spirit Blast]]_, _[[Spells/Visions of Danger|Visions of Danger]]_, _[[Spells/Warp Mind|Warp Mind]]_; __6th __ (4 slots) _[[Spells/Confusion|Confusion]]_, _[[Spells/Never Mind|Feeblemind]]_, _[[Spells/Slow|Slow]]_, _[[Spells/Truesight|True Seeing]]_; __5th __ (4 slots) _[[Spells/Black Tentacles|Black Tentacles]]_, _[[Spells/Wave of Despair|Crushing Despair]]_, _[[Spells/Synesthesia|Synesthesia]]_, _[[Spells/Truespeech|Tongues]]_; __4th __ (4 slots) _[[Spells/Confusion|Confusion]]_, _[[Spells/Fly|Fly]]_, _[[Spells/Read Omens|Read Omens]]_, _[[Spells/Telepathy|Telepathy]]_; __3rd __ (4 slots) _[[Spells/Enthrall|Enthrall]]_, _[[Spells/Hypercognition|Hypercognition]]_, _[[Spells/Slow|Slow]]_, _[[Spells/Vampiric Feast|Vampiric Touch]]_; __2nd __ (4 slots) _[[Spells/Death Knell|Death Knell]]_, _[[Spells/Laughing Fit|Hideous Laughter]]_, _[[Spells/See the Unseen|See Invisibility]]_, _[[Spells/Stupefy|Touch of Idiocy]]_; __1st __ (4 slots) _[[Spells/Dizzying Colors|Color Spray]]_, _[[Spells/Mending|Mending]]_, _[[Spells/Enfeeble|Ray of Enfeeblement]]_, _[[Spells/Spider Sting|Spider Sting]]_\n__Cantrips__  __(10th)__ _[[Spells/Void Warp|Chill Touch]]_, _[[Compendium.pf2e.spells-srd.Item.kl2q6JvBZwed4B6v|Dancing Lights]]_, _[[Spells/Daze|Daze]]_, _[[Spells/Prestidigitation|Prestidigitation]]_, _[[Spells/Read Aura|Read Aura]]_"
+    desc: "DC 41, attack +36; __10th __ (1 slots) _[[Spells/Freeze Time|Time Stop]]_; __9th __ (4 slots) _[[Spells/Force Barrage|Magic Missile]]_, _[[Spells/Overwhelming Presence|Overwhelming Presence]]_, _[[Spells/Telepathic Demand|Telepathic Demand]]_, _[[Spells/Unfathomable Song|Unfathomable Song]]_; __8th __ (4 slots) _[[Spells/Mask of Terror|Mask of Terror]]_, _[[Spells/Quandary|Maze]]_, _[[Spells/Confusing Colors|Scintillating Pattern]]_, _[[Spells/Uncontrollable Dance|Uncontrollable Dance]]_; __7th __ (4 slots) _[[Spells/Force Barrage|Magic Missile]]_, _[[Spells/Spirit Blast|Spirit Blast]]_, _[[Spells/Visions of Danger|Visions of Danger]]_, _[[Spells/Warp Mind|Warp Mind]]_; __6th __ (4 slots) _[[Spells/Confusion|Confusion]]_, _[[Spells/Never Mind|Feeblemind]]_, _[[Spells/Slow|Slow]]_, _[[Spells/Truesight|True Seeing]]_; __5th __ (4 slots) _[[Spells/Black Tentacles|Black Tentacles]]_, _[[Spells/Wave of Despair|Crushing Despair]]_, _[[Spells/Synesthesia|Synesthesia]]_, _[[Spells/Truespeech|Tongues]]_; __4th __ (4 slots) _[[Spells/Confusion|Confusion]]_, _[[Spells/Fly|Fly]]_, _[[Spells/Read Omens|Read Omens]]_, _[[Spells/Telepathy|Telepathy]]_; __3rd __ (4 slots) _[[Spells/Enthrall|Enthrall]]_, _[[Spells/Hypercognition|Hypercognition]]_, _[[Spells/Slow|Slow]]_, _[[Spells/Vampiric Feast|Vampiric Touch]]_; __2nd __ (4 slots) _[[Spells/Death Knell|Death Knell]]_, _[[Spells/Laughing Fit|Hideous Laughter]]_, _[[Spells/See the Unseen|See Invisibility]]_, _[[Spells/Stupefy|Touch of Idiocy]]_; __1st __ (4 slots) _[[Spells/Dizzying Colors|Color Spray]]_, _[[Spells/Mending|Mending]]_, _[[Spells/Enfeeble|Ray of Enfeeblement]]_, _[[Spells/Spider Sting|Spider Sting]]_\n__Cantrips__  __(10th)__ _[[Spells/Void Warp|Chill Touch]]_, _[[Compendium.pf2e.spells-srd.Item.kl2q6JvBZwed4B6v|Dancing Lights]]_, _[[Spells/Daze|Daze]]_, _[[Spells/Prestidigitation|Prestidigitation]]_, _[[Spells/Read Aura|Read Aura]]_"
 
   - name: "Sorcerer Bloodline Spells"
     desc: "3 Focus Points, DC 41, attack +36; __10th __  _[[Spells/Aberrant Whispers|Aberrant Whispers]]_, _[[Spells/Tentacular Limbs|Tentacular Limbs]]_, _[[Spells/Unusual Anatomy|Unusual Anatomy]]_"
@@ -86,6 +87,12 @@ attacks:
   - name: "Steady Spellcasting"
     desc: "  If a reaction would disrupt Foras's spellcasting action, he attempts a DC 15 Flat check.; on a success, the action isn't disrupted."
  
+```
+
+```encounter-table
+name: Foras
+creatures:
+  - 1: Foras
 ```
 
 

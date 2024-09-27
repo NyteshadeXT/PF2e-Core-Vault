@@ -10,6 +10,7 @@ tags:
   - pf2e/creature/type/lawful
   - pf2e/creature/type/unholy
   - pf2e/creature/type/velstrac
+  - pf2eMonster
   - pf2e/creature/level/15
 statblock: inline
 name: "Voricose"
@@ -24,14 +25,14 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #191: The Destiny War"
 name: "Voricose"
 level: "Creature 15"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Large"
-trait_01: "evil"
-trait_02: "fiend"
-trait_03: "lawful"
-trait_04: "unholy"
-trait_05: "velstrac"
+trait_01: [[evil]]
+trait_02: [[fiend]]
+trait_03: [[lawful]]
+trait_04: [[unholy]]
+trait_05: [[velstrac]]
 modifier: 28
 perception:
   - name: "Perception"
@@ -39,7 +40,7 @@ perception:
 languages: "Common, Diabolic, Jotun, Shadowtongue"
 skills:
   - name: "Skills"
-    desc: "Athletics: +31, Brewing Lore: +24, Crafting: +24 (+28 scuplting flesh), Intimidation: +28, Medicine: +30, Religion: +24, Torture Lore: +26"
+    desc: "Athletics: +31, Crafting: +24, Intimidation: +28, Medicine: +30, Religion: +24, Brewing Lore: +24, Torture Lore: +26"
 abilityMods: [7, 4, 6, 3, 7, 6]
 speed: 40 feet
 sourcebook: "_Pathfinder #191: The Destiny War_"
@@ -57,7 +58,7 @@ abilities_top:
   - name: "Items"
     desc: "[[Equipment/Whip|+3 Greater Striking Greater Frost Whip]]"
   - name: "Painsight"
-    desc: " (divine) A velstrac automatically knows whether a creature it sees has any of the [[Conditions/Doomed 1|Doomed]], [[Conditions/Dying 1|Dying]], and [[Conditions/Wounded 1|Wounded]] conditions, as well as the value of those conditions."
+    desc: " (divine) A velstrac automatically knows whether a creature it sees has any of the [[Conditions/Doomed|Doomed]], [[Conditions/Dying|Dying]], and [[Conditions/Wounded|Wounded]] conditions, as well as the value of those conditions."
 
 abilities_mid:
   - name: ""
@@ -65,7 +66,7 @@ abilities_mid:
     desc: "`pf2:r`  "
 
   - name: "Glimpse of Stolen Flesh"
-    desc: " (aura,divine,fear,mental,visual) 30 feet. When a creature ends its turn in the aura, it sees pieces of its own body amid the interlocutor's form. The creature must succeed at a DC 33 Will check save or become [[Conditions/Stunned 1|Stunned 1]]."
+    desc: " (aura,divine,fear,mental,visual) 30 feet. When a creature ends its turn in the aura, it sees pieces of its own body amid the interlocutor's form. The creature must succeed at a DC 33 Will check save or become [[Conditions/Stunned|Stunned 1]]."
 
 attacks:
   - name: ""
@@ -80,11 +81,17 @@ attacks:
     desc: "DC 36, attack +23; __8th __  _[[Spells/Heal|Heal (x2)]]_; __7th __ (1 slots) _[[Spells/Regenerate|Regenerate]]_; __6th __  _[[Spells/Restoration|Restoration (x2)]]_; __5th __ (1 slots) _[[Spells/Breath of Life|Breath of Life]]_\n__Cantrips__  __(8th)__ _[[Spells/Stabilize|Stabilize]]_"
 
   - name: "Focus Gaze"
-    desc: "`pf2:1` (concentrate,divine,fear,mental,visual) The interlocutor stares at a creature they can see within 30 feet. The creature must immediately attempt a Will save against glimpse of stolen flesh. In addition, if the creature was already [[Conditions/Stunned 1|Stunned]], on a failed save, it feels its internal organs twist and writhe, and is [[Conditions/Clumsy 1|Clumsy 2]] for 1 minute.\nAfter attempting this save, the creature is then temporarily immune until the start of the interlocutor's next turn."
+    desc: "`pf2:1` (concentrate,divine,fear,mental,visual) The interlocutor stares at a creature they can see within 30 feet. The creature must immediately attempt a Will save against glimpse of stolen flesh. In addition, if the creature was already [[Conditions/Stunned|Stunned]], on a failed save, it feels its internal organs twist and writhe, and is [[Conditions/Clumsy|Clumsy 2]] for 1 minute.\n\nAfter attempting this save, the creature is then temporarily immune until the start of the interlocutor's next turn."
 
   - name: "Surgical Rend"
-    desc: "`pf2:1`  This functions as the [[Bestiary Ability Glossary/Rend|Rend]] ability, dealing claw damage. In addition, if the target is a living creature with organs and muscle, the interlocutor opens a precise wound. Until the creature is restored to its maximum Hit Points, thus closing the wound, Strikes against the creature deal 1d6 extra precision damage.\n[[Bestiary Effects/Effect_ Surgical Rend|Effect: Surgical Rend]]"
+    desc: "`pf2:1`  This functions as the [[Bestiary Ability Glossary/Rend|Rend]] ability, dealing claw damage. In addition, if the target is a living creature with organs and muscle, the interlocutor opens a precise wound. Until the creature is restored to its maximum Hit Points, thus closing the wound, Strikes against the creature deal 1d6 extra precision damage.\n\n[[Bestiary Effects/Effect_ Surgical Rend|Effect: Surgical Rend]]"
  
+```
+
+```encounter-table
+name: Voricose
+creatures:
+  - 1: Voricose
 ```
 
 

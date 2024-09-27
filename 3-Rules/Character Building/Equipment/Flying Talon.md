@@ -12,12 +12,13 @@ tags:
   - trait/trip
   - trait/uncommon
   - category/advanced
+  - remaster
 aliases: "Compendium.pf2e.equipment-srd.Item.ucz1WdBA0Ma34OsS"
-license: OGL
+license: ORC
 ---
 # Flying Talon
 ## Item 1
-### [uncommon](uncommon "Uncommon Rarity Trait")[[agile]][[finesse]][[kobold]][[tethered]][[thrown-10]][[trip]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[3-Rules/Rule References/Agile]][[3-Rules/Rule References/Finesse]][[kobold]][[tethered]][[thrown-10]][[3-Rules/trait_reference/trip]]
 
 |  |  |
 | -- | -- |
@@ -28,7 +29,7 @@ license: OGL
 
 
 
-This weapon consists of a three-pronged barbed hook attached to a length of chain. It can be used as a melee weapon to stab at foes or hurled as a ranged weapon. Some kobolds are particularly fond of using flying talons, especially as a sort of badge of office above those who serve them.
+This weapon consists of a three-pronged barbed hook attached to a length of chain. It can be used in melee to stab foes or hurled at a range. Some kobolds are particularly fond of using flying talons, especially as a sort of badge of office above those who serve them.
 
-*Source: Pathfinder Adventure: Crown of the Kobold King*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

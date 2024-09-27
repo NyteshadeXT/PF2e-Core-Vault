@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/goblin
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/2
 statblock: inline
 name: "Bugbear Thug"
@@ -26,9 +27,9 @@ level: "Creature 2"
 
 alignment: ""
 size: "Medium"
-trait_01: "evil"
-trait_02: "goblin"
-trait_03: "humanoid"
+trait_01: [[evil]]
+trait_02: [[goblin]]
+trait_03: [[humanoid]]
 modifier: 7
 perception:
   - name: "Perception"
@@ -73,6 +74,12 @@ attacks:
   - name: "Mauler"
     desc: "  The bugbear thug gains a +3 circumstance bonus to damage rolls against creatures they have [[Conditions/Grabbed|Grabbed]]."
  
+```
+
+```encounter-table
+name: Bugbear Thug
+creatures:
+  - 1: Bugbear Thug
 ```
 
 

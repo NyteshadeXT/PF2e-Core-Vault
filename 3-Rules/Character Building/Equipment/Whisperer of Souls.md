@@ -33,11 +33,11 @@ This _+4 major striking greater brilliant keen glaive_ binds the souls of powerf
 
 **Critical Success** No additional effect.
 
-**Success** The glaive siphons the creature's essence, rendering it [[Conditions/Drained 1|Drained 1]]. If the creature dies from the Strike or while drained in this way, the creature's soul is bound in the glaive.
+**Success** The glaive siphons the creature's essence, rendering it [[Conditions/Drained|Drained 1]]. If the creature dies from the Strike or while drained in this way, the creature's soul is bound in the glaive.
 
-**Failure** As success, but the creature is [[Conditions/Drained 1|Drained 2]].
+**Failure** As success, but the creature is [[Conditions/Drained|Drained 2]].
 
-**Critical Failure** As success, but the creature is [[Conditions/Drained 1|Drained 4]].
+**Critical Failure** As success, but the creature is [[Conditions/Drained|Drained 4]].
 
 The glaive also has the following activations.
 
@@ -67,7 +67,7 @@ The glaive also has the following activations.
 
 **Success** When you return, you can retrain one of your skills into a Lore skill about evil creatures or places, as if you had spent 1 week retraining.
 
-**Failure** As success, but you are [[Conditions/Stupefied 1|Stupefied 2]] for 1 week.
+**Failure** As success, but you are [[Conditions/Stupefied|Stupefied 2]] for 1 week.
 
 **Critical Failure** As success, but your alignment moves one step toward evil and you must retrain one of your skills into a Lore about evil creatures or places. You become obsessed with increasing your forbidden knowledge, turning to wicked forces that offer such secrets and compromising your morals further if you must.
 

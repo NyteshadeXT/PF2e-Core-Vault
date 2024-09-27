@@ -1,16 +1,17 @@
 ---
-title: "Cutter"
+title: Cutter
 obsidianUIMode: preview
-noteType: pf2eMonster
+noteType: pf2eVehicle
 cssClasses: pf2e
-aliases: "Compendium.pf2e.vehicles.Actor.Qlvei5jjRXdsXUPo" 
 tags:
-  - pf2e/creature/level/6
+  - pf2eVehicle
+
   - remaster
-statblock: inline
-name: "Cutter"
+source: Pathfinder GM Core
+aliases: "Compendium.pf2e.vehicles.Actor.Qlvei5jjRXdsXUPo" 
 level: 6
 license: ORC
+statblock: inline
 ---
 
 ```statblock
@@ -19,39 +20,51 @@ forcecolumns: true
 layout: Basic Pathfinder 2e Layout
 source: "Pathfinder GM Core"
 name: "Cutter"
-level: "Creature 6"
+level: "Vehicle 6"
 
-alignment: ""
+
 size: "huge"
 modifier: 
 perception:
-  - name: "Perception"
-    desc: "NaN; "
-skills:
-  - name: "Skills"
-    desc: ""
-abilityMods: [, , , , , ]
-speed: 
-sourcebook: "_Pathfinder GM Core_"
+  - name: ""
+  - name: "Price"
+    desc: "750 gp\n* * *"
+abilities_top:
+  - name: ""
+  - name: "Space"
+    desc: "30 feet long, 15 feet wide, 20 feet high"
+  - name: "Crew"
+    desc: "1 pilot, 3 crew; **Passengers** 6"
+  - name: "Piloting Check"
+    desc: "Nature (DC 24), Sailing Lore (DC 22)"
 ac: 19
 armorclass:
   - name: AC
-    desc: "19; __Fort__ +14, __Ref__ NaN, __Will__ NaN"
+    desc: "19; __Fort__ +14"
 hp: 100
 health:
   - name: ""
-  - name: HP
-    desc: "100; __Immunities__  object immunities; __Weaknesses__ fire 10"
-abilities_top:
-  - name: ""
-
+  - name: "Hardness"
+    desc: "10; **HP** 100 (BT 50); __Immunities__  object immunities; __Weaknesses__ fire 10 until broken"
+speed: "swim 30 feet (wind)"
 abilities_mid:
   - name: ""
 attacks:
   - name: ""
- 
+  - name: "Collision"
+    desc: "4d10 (DC 22)"
+
+  - name: "Sluggish"
+    desc: " This vehicle must move twice its length for each 90-degree turn it makes."
+
+
+
+sourcebook: "_Pathfinder GM Core_"
 ```
 
-
-
+```encounter-table
+name: Cutter
+creatures:
+  - 1: Cutter
+```
 

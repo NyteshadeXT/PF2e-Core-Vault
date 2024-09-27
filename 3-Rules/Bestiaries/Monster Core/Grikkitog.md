@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.pathfinder-monster-core.Actor.702acAJ1OPRBjcni"
 tags:
   - pf2e/creature/type/aberration
   - pf2e/creature/type/earth
+  - pf2eMonster
   - pf2e/creature/level/14
   - remaster
 statblock: inline
@@ -26,8 +27,8 @@ level: "Creature 14"
 
 alignment: ""
 size: "huge"
-trait_01: "aberration"
-trait_02: "earth"
+trait_01: [[aberration]]
+trait_02: [[earth]]
 modifier: 29
 perception:
   - name: "Perception"
@@ -35,7 +36,7 @@ perception:
 languages: "Petran"
 skills:
   - name: "Skills"
-    desc: "Athletics: +28, Deception: +27 (+31 to imitate stone), Survival: +25"
+    desc: "Athletics: +28, Deception: +27, Survival: +25"
 abilityMods: [8, 4, 5, 2, 5, 5]
 speed: 20 feet,  burrow 20 feet
 sourcebook: "_Pathfinder Monster Core_"
@@ -74,6 +75,12 @@ attacks:
   - name: "Earth Glide"
     desc: "  The grikkitog can Burrow through dirt and stone at its full burrow Speed, leaving no tunnels or signs of its passing."
  
+```
+
+```encounter-table
+name: Grikkitog
+creatures:
+  - 1: Grikkitog
 ```
 
 

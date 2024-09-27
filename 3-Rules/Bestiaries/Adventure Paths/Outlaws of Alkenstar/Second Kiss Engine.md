@@ -5,6 +5,7 @@ noteType: pf2eHazard
 tags:
   - mechanical
   - trap
+  - pf2eHazard
 
 source: Pathfinder #179: Cradle of Quartz
 aliases: "Compendium.pf2e.outlaws-of-alkenstar-bestiary.Actor.osS74hnE5VCSiJLs" 
@@ -22,14 +23,14 @@ name: "Second Kiss Engine"
 level: "Hazard 6"
 
 
-trait_01: "mechanical"
-trait_02: "trap"
+trait_01: [[mechanical]]
+trait_02: [[trap]]
 modifier: -10
 sourcebook: "_Pathfinder #179: Cradle of Quartz_"
 ac: 27
 armorclass:
   - name: AC
-    desc: "27; __Fort__ +15, __Ref__ +18, __Will__ +0"
+    desc: "27; __Fort__ +15, __Ref__ +18, "
 hp: 50
 health:
   - name: ""
@@ -51,9 +52,15 @@ attacks:
   - name: ""
 
   - name: "Spinning Gears"
-    desc: "`pf2:r` **Trigger** A creature Strides in the engine nacelle\n**Effect** The creature's clothing or limbs get caught in the spinning gears and axles of the engine. The creature must attempt a DC 24 Reflex check save.\n**Critical Success** The creature is unaffected.\n**Success** The creature takes 2d8 + 9 bludgeoning damage.\n**Failure** The creature takes 4d8 + 18 bludgeoning damage.\n**Critical Failure** The creature's clothing is pulled into the clockworks. The creature takes 4d8 + 18 bludgeoning damage and is [[Conditions/Restrained|Restrained]]. Until the creature [[Actions/Escape|Escapes]] (DC 24), it takes 2d8 + 9 bludgeoning damage each round as it's pulled into the spinning rotors. A creature wearing clothing can automatically Escape by doffing its caught clothing; this destroys the doffed clothing."
+    desc: "`pf2:r` **Trigger** A creature Strides in the engine nacelle\n* * *\n\n**Effect** The creature's clothing or limbs get caught in the spinning gears and axles of the engine. The creature must attempt a DC 24 Reflex check save.\n* * *\n\n**Critical Success** The creature is unaffected.\n\n**Success** The creature takes 2d8+9 bludgeoning damage.\n\n**Failure** The creature takes 4d8+18 bludgeoning damage.\n\n**Critical Failure** The creature's clothing is pulled into the clockworks. The creature takes 4d8+18 bludgeoning damage and is [[Conditions/Restrained|Restrained]]. Until the creature [[Actions/Escape|Escapes]] (DC 24), it takes 2d8+9 bludgeoning damage each round as it's pulled into the spinning rotors. A creature wearing clothing can automatically Escape by doffing its caught clothing; this destroys the doffed clothing."
 
 
 
+```
+
+```encounter-table
+name: Second Kiss Engine
+creatures:
+  - 1: Second Kiss Engine
 ```
 

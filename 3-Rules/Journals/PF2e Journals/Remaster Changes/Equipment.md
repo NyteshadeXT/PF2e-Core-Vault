@@ -27,10 +27,14 @@ Some materials have been renamed.
 | Barkskin Potion | [[Equipment/Oak Potion\|Oak Potion]] |
 | Boots of Speed | [[Equipment/Propulsive Boots\|Propulsive Boots]] |
 | Bracers of Armor | [[Equipment/Bands of Force\|Bands of Force]] |
+| Breastplate of Command | [[Equipment/Warleader's Bulwark\|Warleader's Bulwark]] |
 | Broom of Flying | [[Equipment/Flying Broomstick\|Flying Broomstick]] |
 | Cape of the Mounteback | [[Equipment/Charlatan's Cape\|Charlatan's Cape]] |
+| Celestial Armor | [[Equipment/Holy Chain\|Holy Chain]] |
 | Class Kits | Removed: now guidlines for collections of items to acquire along with an [[Equipment/Adventurer's Pack\|Adventurer's Pack]]. |
 | Dagger of Venom | [[Equipment/Serpent Dagger\|Serpent Dagger]] |
+| Dancing Rune | [[Equipment/Animated\|Animated]] |
+| Demon Armor | [[Equipment/Unholy Plate\|Unholy Plate]] |
 | Disrupting Rune | [[Equipment/Vitalizing\|Vitalizing Rune]] |
 | Dragon's Breath potion (various) | Energy Breath Potion (various) |
 | Druid's Vestments | [[Equipment/Living Mantle\|Living Mantle]] |
@@ -42,13 +46,29 @@ Some materials have been renamed.
 | Goggles of Night | [[Equipment/Obsidian Goggles\|Obsidian Goggles]] |
 | Greater Disrupting Rune | [[Equipment/Vitalizing (Greater)\|Greater Vitalizing Rune]] |
 | Hat of Disguise | [[Equipment/Masquerade Scarf\|Masquerade Scarf]] |
+| Hat of the Magi | [[Equipment/Mage's Hat\|Mage's Hat]] |
+| Holy Avenger | [[Equipment/Chalice of Justice\|Chalice of Justice]] |
 | Horn of Fog | [[Equipment/Cloud Pouch\|Cloud Pouch]] |
 | Horseshoes of Speed | [[Equipment/Alacritous Horseshoes\|Alacritous Horseshoes]] |
 | Javelin of Lightning | [[Equipment/Trident of Lightning\|Trident of Lightning]] |
+| Lich Dust | [[Equipment/Enervating Powder\|Enervating Powder]] |
+| Mask of the Banshee | [[Equipment/Guise of the Smirking Devil\|Guise of the Smirking Devil]] |
+| Malyass Root Paste | [[Equipment/Tangle Root Toxin\|Tangle Root Toxin]] |
+| Oil of Object Animation | [[Equipment/Oil of Dynamism\|Oil of Dynamism]] |
 | Potion of Expeditious Retreat | [[Equipment/Potion of Emergency Escape\|Potion of Emergency Escape]] |
+| Purple Worm Venom | [[Equipment/Cave Worm Venom\|Cave Worm Venom]] |
+| Rhino Hide | [[Equipment/Onslaught Hide\|Onslaught Hide]] |
 | Ring of Energy Resistance | [[Equipment/Charm of Resistance\|Charm of Resistance]] |
+| Rungu | [[Equipment/Cruuk\|Cruuk]] |
+| Salamander Elixir | [[Equipment/Cooling Elixir (Lesser)\|Cooling Elixir (Lesser)]] |
+| Salve of Slipperiness | [[Equipment/Tricky Liniment\|Tricky Liniment]] |
+| Shadow Essence | [[Equipment/Nethershade\|Nethershade]] |
 | Silversheen | [[Equipment/Silver Salve\|Silver Salve]] |
+| Sinew-Shock Serum | [[Equipment/Surging Serum (Lesser)\|Surging Serum (Lesser)]] |
 | Smokestick | [[Equipment/Smoke Ball (Lesser)\|Smoke Ball (Lesser)]] |
+| Sovereign Glue | [[Equipment/Everlasting Adhesive\|Everlasting Adhesive]] |
+| Speed Rune | [[Equipment/Quickstrike\|Quickstrike]] |
+| Spell-Storing Rune | [[Equipment/Spell Reservoir\|Spell Reservoir]] |
 | Staff of Abjuration | [[Equipment/Staff of Protection\|Staff of Protection]] |
 | Staff of Conjuration | [[Equipment/Staff of Summoning\|Staff of Summoning]] |
 | Staff of Divination | [[Equipment/Staff of the Unblinking Eye\|Staff of the Unblinking Eye]] |
@@ -59,7 +79,12 @@ Some materials have been renamed.
 | Staff of Transmutation | [[Equipment/Fluid Form Staff\|Fluid Form Staff]] |
 | Sunrod | [[Equipment/Glow Rod\|Glow Rod]] |
 | Tanglefoot Bag | [[Equipment/Glue Bomb (Lesser)\|Glue Bomb]] |
+| Thunderstone | [[Equipment/Blasting Stone (Lesser)\|Blasting Stone]] |
 | Tindertwig | [[Equipment/Matchstick\|Matchstick]] |
+| Universal Solvent | [[Equipment/Absolute Solvent (Lesser)\|Absolute Solvent]] |
 | Owlbear Claw | [[Equipment/Predator's Claw\|Predator's Claw]] |
+| Potion of Tongues | [[Equipment/Potion of Truespeech\|Potion of Truespeech]] |
 | Wand of Manifold Missiles | [[Equipment/Wand of Shardstorm (1st-Rank Spell)\|Wand of Shardstorm]] |
+| Wand of Slaying | [[Equipment/Wand of Slaughter (7th-Rank Spell)\|Wand of Slaughter]] |
 | Winged Boots | [[Equipment/Winged Sandals\|Winged Sandals]] |
+| Winter Wolf Elixir | [[Equipment/Witchwarg Elixir (Lesser)\|Witchwarg Elixir]] |

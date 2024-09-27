@@ -6,6 +6,7 @@ cssClasses: pf2e
 aliases: "Compendium.pf2e.pathfinder-bestiary.Actor.eHLDsL1LG3jQ1H6Y" 
 tags:
   - pf2e/creature/type/animal
+  - pf2eMonster
   - pf2e/creature/level/2
 statblock: inline
 name: "Slurk"
@@ -24,15 +25,15 @@ level: "Creature 2"
 
 alignment: ""
 size: "Medium"
-trait_01: "animal"
+trait_01: [[animal]]
 modifier: 6
 perception:
   - name: "Perception"
     desc: "+6; Darkvision"
-languages: "Draconic"
+languages: "Draconic; (can&#x27;t speak any language)"
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +6 (+8 to Escape), Athletics: +8, Stealth: +5"
+    desc: "Acrobatics: +6, Athletics: +8, Stealth: +5"
 abilityMods: [4, 2, 4, -4, 0, 0]
 speed: 30 feet,  climb 30 feet
 sourcebook: "_Pathfinder Bestiary_"
@@ -60,11 +61,17 @@ attacks:
     desc: "`pf2:1` Slime Squirt +9 (range increment 30 feet)\n__Damage__ "
 
   - name: "Belly Grease"
-    desc: "`pf2:3`  The slurk extrudes a slippery grease from its ventral glands to coat the floor under it and in a 5-foot emanation, turning the affected area into uneven ground for 10 minutes, after which it dries to a putrid crust. The DC to [[Actions/Balance|Balance]] across the slime is DC 18 Acrobatics check."
+    desc: "`pf2:3`  The slurk extrudes a slippery grease from its ventral glands to coat the floor under it and in a @Template[emanation|distance:5], turning the affected area into uneven ground for 10 minutes, after which it dries to a putrid crust. The DC to [[Actions/Balance|Balance]] across the slime is DC 18 Acrobatics check."
 
   - name: "Entangling Slime"
-    desc: "  A creature struck by a slurk's slime squirt becomes [[Conditions/Clumsy 1|Clumsy 1]] and takes a -5-foot penalty to Speed for 1 hour or until the slime is removed.\nThe slime can be removed with a total of three Interact actions by the entangled creature or creatures adjacent to the creature. These actions don't need to be consecutive or made by the same creature.\n[[Bestiary Effects/Effect_ Entangling Slime|Effect: Entangling Slime]]"
+    desc: "  A creature struck by a slurk's slime squirt becomes [[Conditions/Clumsy|Clumsy 1]] and takes a -5-foot penalty to Speed for 1 hour or until the slime is removed.\n\nThe slime can be removed with a total of three Interact actions by the entangled creature or creatures adjacent to the creature. These actions don't need to be consecutive or made by the same creature.\n\n[[Bestiary Effects/Effect_ Entangling Slime|Effect: Entangling Slime]]"
  
+```
+
+```encounter-table
+name: Slurk
+creatures:
+  - 1: Slurk
 ```
 
 

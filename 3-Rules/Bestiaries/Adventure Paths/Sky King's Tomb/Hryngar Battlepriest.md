@@ -10,6 +10,7 @@ tags:
   - pf2e/creature/type/hryngar
   - pf2e/creature/type/humanoid
   - pf2e/creature/type/lawful
+  - pf2eMonster
   - pf2e/creature/level/9
 statblock: inline
 name: "Hryngar Battlepriest"
@@ -27,11 +28,11 @@ level: "Creature 9"
 
 alignment: ""
 size: "Medium"
-trait_01: "dwarf"
-trait_02: "evil"
-trait_03: "hryngar"
-trait_04: "humanoid"
-trait_05: "lawful"
+trait_01: [[dwarf]]
+trait_02: [[evil]]
+trait_03: [[hryngar]]
+trait_04: [[humanoid]]
+trait_05: [[lawful]]
 modifier: 19
 perception:
   - name: "Perception"
@@ -59,12 +60,12 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Sheltered Command"
-    desc: "`pf2:r` (auditory,linguistic,mental) **Trigger** The battlepriest is targeted with an attack while adjacent to or sharing a space with a hryngar\n**Effect** The battlepriest commands the hryngar to intercept the attack. The hryngar becomes the target of the attack."
+    desc: "`pf2:r` (auditory,linguistic,mental) **Trigger** The battlepriest is targeted with an attack while adjacent to or sharing a space with a hryngar\n* * *\n\n**Effect** The battlepriest commands the hryngar to intercept the attack. The hryngar becomes the target of the attack."
 
 attacks:
   - name: ""
 
-  - name: "Melee"
+  - name: "Ranged"
     desc: "`pf2:1` Light Hammer +20 (agile, magical, thrown 20 ft.)\n__Damage__  2d6 + 8 bludgeoning"
 
   - name: "Ranged"
@@ -80,8 +81,14 @@ attacks:
     desc: "  The hryngar battlepriest and their mount can share the same space as creatures with both the hryngar and troop traits. Such creatures ignore the Trample ability of any creature the battlepriest is riding."
 
   - name: "Toil and Trample"
-    desc: "`pf2:1`  **Requirements** The battlepriest is mounted on a creature with a Trample ability\n**Effect** The battlepriest commands their mount. Until the beginning of the battlepriest's next turn, the saving throw DC of the mount's Trample increases to DC 26 Reflex check, and the Trample deals an additional 3d6 spirit damage."
+    desc: "`pf2:1`  **Requirements** The battlepriest is mounted on a creature with a Trample ability\n* * *\n\n**Effect** The battlepriest commands their mount. Until the beginning of the battlepriest's next turn, the saving throw DC of the mount's Trample increases to DC 26 Reflex check, and the Trample deals an additional 3d6 spirit damage."
  
+```
+
+```encounter-table
+name: Hryngar Battlepriest
+creatures:
+  - 1: Hryngar Battlepriest
 ```
 
 

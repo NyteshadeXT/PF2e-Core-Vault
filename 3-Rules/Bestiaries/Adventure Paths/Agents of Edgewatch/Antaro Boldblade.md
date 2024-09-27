@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/good
   - pf2e/creature/type/human
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/-1
 statblock: inline
 name: "Antaro Boldblade"
@@ -26,10 +27,10 @@ level: "Creature -1"
 
 alignment: ""
 size: "Medium"
-trait_01: "chaotic"
-trait_02: "good"
-trait_03: "human"
-trait_04: "humanoid"
+trait_01: [[chaotic]]
+trait_02: [[good]]
+trait_03: [[human]]
+trait_04: [[humanoid]]
 modifier: 4
 perception:
   - name: "Perception"
@@ -65,6 +66,12 @@ attacks:
   - name: "Prepared Divine Spells"
     desc: "DC 16, attack +8; __1st __  _[[Spells/Heal|Heal]]_\n__Cantrips__  __(1st)__ _[[Spells/Light|Light]]_, _[[Spells/Stabilize|Stabilize]]_"
  
+```
+
+```encounter-table
+name: Antaro Boldblade
+creatures:
+  - 1: Antaro Boldblade
 ```
 
 

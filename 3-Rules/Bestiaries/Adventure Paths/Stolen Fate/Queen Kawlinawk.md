@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.stolen-fate-bestiary.Actor.88n1uQqK5XbIGnUF"
 tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/13
 statblock: inline
 name: "Queen Kawlinawk"
@@ -21,11 +22,11 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #190: The Choosing"
 name: "Queen Kawlinawk"
 level: "Creature 13"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Medium"
-trait_01: "evil"
-trait_02: "humanoid"
+trait_01: [[evil]]
+trait_02: [[humanoid]]
 modifier: 23
 perception:
   - name: "Perception"
@@ -68,14 +69,20 @@ attacks:
     desc: "`pf2:1` Composite Shortbow +25 (deadly d10, magical, propulsive, range increment 60 feet, reload 0)\n__Damage__  2d6 + 12 piercing"
 
   - name: "Captivating Song"
-    desc: "`pf2:1` (auditory,concentrate,incapacitation,mental,primal) The harpy cries out an eerie, compelling melody. Each non-harpy creature within a 300-foot aura must attempt a DC 33 Will check save to avoid becoming captivated by the harpy's song. The effect lasts for 1 round, but if the harpy uses this ability again on subsequent rounds, it extends the duration by 1 round for all affected creatures. Once a creature succeeds at any save against Captivating Song, that creature is temporarily immune to Captivating Songs for 24 hours.\n**Success** The creature is unaffected.\n**Failure** The creature is [[Conditions/Fascinated|Fascinated]], and it must spend each of its actions to move closer to the harpy as expediently as possible, while avoiding obvious dangers. If a captivated creature is adjacent to the harpy, it stays still and doesn't act. If attacked by the harpy, the creature is freed from captivation at the end of the harpy's turn.\n**Critical Failure** As failure, but if attacked by the harpy, the creature can attempt a new save at the start of its next turn, rather than being freed at the end of the harpy's turn."
+    desc: "`pf2:1` (auditory,concentrate,incapacitation,mental,primal) The harpy cries out an eerie, compelling melody. Each non-harpy creature within a 300-foot aura must attempt a DC 33 Will check save to avoid becoming captivated by the harpy's song. The effect lasts for 1 round, but if the harpy uses this ability again on subsequent rounds, it extends the duration by 1 round for all affected creatures. Once a creature succeeds at any save against Captivating Song, that creature is temporarily immune to Captivating Songs for 24 hours.\n* * *\n\n**Success** The creature is unaffected.\n\n**Failure** The creature is [[Conditions/Fascinated|Fascinated]], and it must spend each of its actions to move closer to the harpy as expediently as possible, while avoiding obvious dangers. If a captivated creature is adjacent to the harpy, it stays still and doesn't act. If attacked by the harpy, the creature is freed from captivation at the end of the harpy's turn.\n\n**Critical Failure** As failure, but if attacked by the harpy, the creature can attempt a new save at the start of its next turn, rather than being freed at the end of the harpy's turn."
 
   - name: "Dread Cry"
-    desc: "`pf2:2` (auditory,concentrate,primal,sonic) Queen Kawlinawk utters a screech in a 60-foot cone that harms her enemies but heartens her allies. The screech deals 14d6 sonic damage to non-harpy creatures in the area (DC 33 Fortitude check). Harpies in the area can instead use a reaction to Fly, Step, or Stride; one harpy in the area, of Queen Kawlinawk's choice, can instead use a reaction to Strike. Queen Kawlinawk can't use Dread Cry for 1d4 rounds."
+    desc: "`pf2:2` (auditory,concentrate,primal,sonic) Queen Kawlinawk utters a screech in a @Template[cone|distance:60] that harms her enemies but heartens her allies. The screech deals 14d6 sonic damage to non-harpy creatures in the area (DC 33 Fortitude check). Harpies in the area can instead use a reaction to Fly, Step, or Stride; one harpy in the area, of Queen Kawlinawk's choice, can instead use a reaction to Strike. Queen Kawlinawk can't use Dread Cry for 1d4 rounds."
 
   - name: "War Formation"
     desc: "  Queen Kawlinawk deals an extra 2d6 damage with her melee Strikes to any creature that's within reach of at least one of her allies."
  
+```
+
+```encounter-table
+name: Queen Kawlinawk
+creatures:
+  - 1: Queen Kawlinawk
 ```
 
 

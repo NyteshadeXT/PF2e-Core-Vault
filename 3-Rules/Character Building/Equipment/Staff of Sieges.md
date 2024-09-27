@@ -37,7 +37,7 @@ This adamantine staff is fitted with dawnsilver plates resembling battlements on
 *   **5th** [[Spells/Toxic Cloud|Toxic Cloud]], [[Spells/Wall of Stone|Wall of Stone]]
 *   **6th** [[Spells/Fireball|Fireball]], [[Spells/Wall of Force|Wall of Force]]
 *   **7th** [[Spells/Planar Palace|Planar Palace]], [[Spells/Prismatic Spray|Prismatic Spray]]
-*   **8th** [[Spells/Earthquake|Earthquake]], [[Spells/Scintillating Pattern|Scintillating Pattern]]
+*   **8th** [[Spells/Earthquake|Earthquake]], [[Spells/Confusing Colors|Scintillating Pattern]]
 *   **9th** [[Spells/Falling Stars|Falling Stars]]
 
 *Source: Pathfinder #156: The Apocalypse Prophet*

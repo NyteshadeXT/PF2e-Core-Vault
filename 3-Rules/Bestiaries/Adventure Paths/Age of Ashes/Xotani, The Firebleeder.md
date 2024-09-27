@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/chaotic
   - pf2e/creature/type/evil
   - pf2e/creature/type/fire
+  - pf2eMonster
   - pf2e/creature/level/20
 statblock: inline
 name: "Xotani, The Firebleeder"
@@ -23,18 +24,18 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #150: Broken Promises"
 name: "Xotani, The Firebleeder"
 level: "Creature 20"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "grg"
-trait_01: "beast"
-trait_02: "chaotic"
-trait_03: "evil"
-trait_04: "fire"
+trait_01: [[beast]]
+trait_02: [[chaotic]]
+trait_03: [[evil]]
+trait_04: [[fire]]
 modifier: 39
 perception:
   - name: "Perception"
     desc: "+39; Darkvision"
-languages: "Aklo"
+languages: "Aklo; can&#x27;t speak any language"
 skills:
   - name: "Skills"
     desc: "Athletics: +41"
@@ -59,10 +60,10 @@ abilities_mid:
     desc: "`pf2:r`  "
 
   - name: "Firebleed"
-    desc: "`pf2:r` (fire) **Trigger** Xotani is damaged\n**Effect** Xotani's wound erupts with magma in a 30-foot cone, dealing 6d8 fire damage and 6d8 persistent fire damage (DC 42 Reflex check save)."
+    desc: "`pf2:r` (fire) **Trigger** Xotani is damaged\n* * *\n\n**Effect** Xotani's wound erupts with magma in a @Template[cone|distance:30], dealing 6d8 fire damage and 6d8 persistent fire damage (DC 42 Reflex check save)."
 
   - name: "[[Bestiary Ability Glossary/Frightful Presence|Frightful Presence]]"
-    desc: " (aura,emotion,fear,mental) 300 feet. DC 39 Will check\n"
+    desc: " (aura,emotion,fear,mental) 300 feet. DC 39 Will check\n\n* * *\n"
 
   - name: "Light Blindness"
     desc: "  Xotani's light blindness is caused by only sunlight."
@@ -86,14 +87,20 @@ attacks:
     desc: "`pf2:2`  Xotani makes three lava bomb Strikes. These Strikes can be made against the same creature or different creatures, as long as all targets are within 40 feet of each other."
 
   - name: "Breath Weapon"
-    desc: "`pf2:2` (arcane,fire) Xotani breathes a blast of flame that deals 18d6 fire damage plus 4d6 persistent fire damage to all creatures in a 70-foot cone (DC 42 Reflex check save).\nIt can't use Breath Weapon again for 1d4 rounds."
+    desc: "`pf2:2` (arcane,fire) Xotani breathes a blast of flame that deals 18d6 fire damage plus 4d6 persistent fire damage to all creatures in a @Template[cone|distance:70] (DC 42 Reflex check save).\n\nIt can't use Breath Weapon again for 1d4 rounds."
 
   - name: "[[Bestiary Ability Glossary/Swallow Whole|Swallow Whole]]"
-    desc: "`pf2:1` (attack) Huge, 8d6 + 8 bludgeoning + 12d6 fire, Rupture 35\n"
+    desc: "`pf2:1` (attack) Huge, 8d6+8 bludgeoning + 12d6 fire, Rupture 35\n\n* * *\n"
 
   - name: "[[Bestiary Ability Glossary/Trample|Trample]]"
-    desc: "`pf2:3`  Huge or smaller, claw, DC 42 Reflex check save. When Xotani Tramples, it can Stride up to triple its Speed.\n"
+    desc: "`pf2:3`  Huge or smaller, claw, DC 42 Reflex check save. When Xotani Tramples, it can Stride up to triple its Speed.\n\n* * *\n"
  
+```
+
+```encounter-table
+name: Xotani, The Firebleeder
+creatures:
+  - 1: Xotani, The Firebleeder
 ```
 
 

@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/rakshasa
   - pf2e/creature/type/spirit
   - pf2e/creature/type/unholy
+  - pf2eMonster
   - pf2e/creature/level/1
   - remaster
 statblock: inline
@@ -27,9 +28,9 @@ level: "Creature 1"
 
 alignment: ""
 size: "tiny"
-trait_01: "rakshasa"
-trait_02: "spirit"
-trait_03: "unholy"
+trait_01: [[rakshasa]]
+trait_02: [[spirit]]
+trait_03: [[unholy]]
 modifier: 6
 perception:
   - name: "Perception"
@@ -77,8 +78,14 @@ attacks:
     desc: "  The raktavarna spends 10 minutes on an invocation alongside another creature. That creature becomes the raktavarna's master until the raktavarna dies or Dismisses the effect. The master gains the Master's Eyes activity as long as the bond lasts.\n\n[[Bestiary Ability Glossary/Master's Eye|Master's Eye]]"
 
   - name: "Raktavarna Venom"
-    desc: " (poison) **Saving Throw** DC 16 Fortitude check\n* * *\n\n**Maximum Duration** 6 rounds\n\n**Stage 1** 1d4 poison damage and [[Conditions/Stupefied 1|Stupefied 1]] (1 round)\n\n**Stage 2** 1d4 poison damage and [[Conditions/Stupefied 1|Stupefied 2]] (1 round)"
+    desc: " (poison) **Saving Throw** DC 16 Fortitude check\n* * *\n\n**Maximum Duration** 6 rounds\n\n**Stage 1** 1d4 poison damage and [[Conditions/Stupefied|Stupefied 1]] (1 round)\n\n**Stage 2** 1d4 poison damage and [[Conditions/Stupefied|Stupefied 2]] (1 round)"
  
+```
+
+```encounter-table
+name: Raktavarna
+creatures:
+  - 1: Raktavarna
 ```
 
 

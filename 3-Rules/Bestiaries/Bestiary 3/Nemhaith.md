@@ -10,6 +10,7 @@ tags:
   - pf2e/creature/type/spirit
   - pf2e/creature/type/undead
   - pf2e/creature/type/unholy
+  - pf2eMonster
   - pf2e/creature/level/15
 statblock: inline
 name: "Nemhaith"
@@ -25,22 +26,22 @@ token: [[modules/pf2e-tokens-bestiaries/portraits/undead/ghostly/nemhaith.webp| 
 source: "Pathfinder Bestiary 3"
 name: "Nemhaith"
 level: "Creature 15"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Medium"
-trait_01: "evil"
-trait_02: "incorporeal"
-trait_03: "spirit"
-trait_04: "undead"
-trait_05: "unholy"
+trait_01: [[evil]]
+trait_02: [[incorporeal]]
+trait_03: [[spirit]]
+trait_04: [[undead]]
+trait_05: [[unholy]]
 modifier: 31
 perception:
   - name: "Perception"
     desc: "+31; Darkvision"
-languages: "Common"
+languages: "Common; telepathy 100 feet"
 skills:
   - name: "Skills"
-    desc: "Deception: +27, Diplomacy: +27, Dwelling Lore: +25, Intimidation: +29, Religion: +31, Stealth: +29"
+    desc: "Deception: +27, Diplomacy: +27, Intimidation: +29, Religion: +31, Stealth: +29, Dwelling Lore: +25"
 abilityMods: [-5, 6, 0, 4, 8, 6]
 speed:  fly 40 feet
 sourcebook: "_Pathfinder Bestiary 3_"
@@ -57,7 +58,7 @@ abilities_top:
   - name: ""
 
   - name: "[[Creature Family Ability Glossary/(Ghost) Site Bound|Site Bound]]"
-    desc: "  The nemhaith is bound to a place or large stationary object and can't venture more than 500 feet from this focus.\nA typical ghost can stray only a short distance from where it was killed or the place it haunts. A typical limit is 120 feet. Some ghosts are instead bound to a room, building, item, or creature that was special to it rather than a location."
+    desc: "  The nemhaith is bound to a place or large stationary object and can't venture more than 500 feet from this focus.\n* * *\n\nA typical ghost can stray only a short distance from where it was killed or the place it haunts. A typical limit is 120 feet. Some ghosts are instead bound to a room, building, item, or creature that was special to it rather than a location."
 
 abilities_mid:
   - name: ""
@@ -65,7 +66,7 @@ abilities_mid:
     desc: " (aura,divine,void) 10 feet. 4d6 void damage DC 36 Fortitude check save"
 
   - name: "[[Creature Family Ability Glossary/(Ghost) Rejuvenation|Rejuvenation]]"
-    desc: " (divine) Destroying the ritual object or place used in the nemhaith's creation destroys the nemhaith, freeing its bound spirits to move on to the afterlife.\nWhen a ghost is destroyed, it re-forms after 2d4 days within the location it's bound to, fully healed. A ghost can be permanently destroyed only if someone determines the reason for its existence and sets right whatever prevents the spirit from resting."
+    desc: " (divine) Destroying the ritual object or place used in the nemhaith's creation destroys the nemhaith, freeing its bound spirits to move on to the afterlife.\n* * *\n\nWhen a ghost is destroyed, it re-forms after 2d4 days within the location it's bound to, fully healed. A ghost can be permanently destroyed only if someone determines the reason for its existence and sets right whatever prevents the spirit from resting."
 
 attacks:
   - name: ""
@@ -80,14 +81,20 @@ attacks:
     desc: "DC 36, attack +28; __8th __  _[[Spells/Execute|Finger of Death (x3)]]_, _[[Spells/Harm|Harm (x3)]]_, _[[Spells/Wall of Force|Wall of Force]]_"
 
   - name: "Drain Life"
-    desc: " (divine) When the nemhaith damages a living creature with its spirit tendril Strike, the creature must succeed at a DC 36 Fortitude check save or become [[Conditions/Drained 1|Drained 2]].\nFurther damage dealt by the nemhaith increases the condition value by 1 on a failed save, to a maximum of drained 4."
+    desc: " (divine) When the nemhaith damages a living creature with its spirit tendril Strike, the creature must succeed at a DC 36 Fortitude check save or become [[Conditions/Drained|Drained 2]].\n\nFurther damage dealt by the nemhaith increases the condition value by 1 on a failed save, to a maximum of drained 4."
 
   - name: "Rage of Spirits"
-    desc: "`pf2:2`  The nemhaith's bound spirits rage and smash everything in a 30-foot emanation. Creatures in this area take 4d6 sonic damage and 4d6 void damage (DC 36 Fortitude check save)."
+    desc: "`pf2:2`  The nemhaith's bound spirits rage and smash everything in a @Template[emanation|distance:30]. Creatures in this area take 4d6 sonic damage and 4d6 void damage (DC 36 Fortitude check save)."
 
   - name: "Throw Spirits"
-    desc: "`pf2:1`  The nemhaith directs its bound spirits as a group to move up to 1 mile away (they have a fly Speed of 60 feet). The nemhaith can see and hear through the thrown spirits, but it loses its aura and can't use its spirit dart ranged Strike or Rage of Spirits.\nThe nemhaith regains these abilities when the spirits return to the nemhaith's space."
+    desc: "`pf2:1`  The nemhaith directs its bound spirits as a group to move up to 1 mile away (they have a fly Speed of 60 feet). The nemhaith can see and hear through the thrown spirits, but it loses its aura and can't use its spirit dart ranged Strike or Rage of Spirits.\n\nThe nemhaith regains these abilities when the spirits return to the nemhaith's space."
  
+```
+
+```encounter-table
+name: Nemhaith
+creatures:
+  - 1: Nemhaith
 ```
 
 

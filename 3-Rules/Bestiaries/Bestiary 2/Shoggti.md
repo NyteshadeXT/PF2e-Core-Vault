@@ -11,6 +11,7 @@ tags:
   - pf2e/creature/type/fiend
   - pf2e/creature/type/qlippoth
   - pf2e/creature/type/unholy
+  - pf2eMonster
   - pf2e/creature/level/7
 statblock: inline
 name: "Shoggti"
@@ -26,20 +27,20 @@ token: [[modules/pf2e-tokens-bestiaries/portraits/fiendish/shoggti.webp| ]]
 source: "Pathfinder Bestiary 2"
 name: "Shoggti"
 level: "Creature 7"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Large"
-trait_01: "amphibious"
-trait_02: "chaotic"
-trait_03: "evil"
-trait_04: "fiend"
-trait_05: "qlippoth"
-trait_06: "unholy"
+trait_01: [[amphibious]]
+trait_02: [[chaotic]]
+trait_03: [[evil]]
+trait_04: [[fiend]]
+trait_05: [[qlippoth]]
+trait_06: [[unholy]]
 modifier: 13
 perception:
   - name: "Perception"
     desc: "+13; Darkvision"
-languages: "Chthonian"
+languages: "Chthonian; telepathy 100 feet"
 skills:
   - name: "Skills"
     desc: "Acrobatics: +17, Intimidation: +17, Occultism: +15, Stealth: +15"
@@ -73,17 +74,23 @@ attacks:
     desc: "DC 23, attack +13; __4th __  _[[Spells/Charm|Charm (x4)]]_, _[[Spells/Translocate|Dimension Door]]_; __2nd __  _[[Spells/Paranoia|Paranoia]]_\n__Cantrips__  __(4th)__ _[[Spells/Daze|Daze]]_, _[[Spells/Detect Magic|Detect Magic]]_"
 
   - name: "Braincloud"
-    desc: "`pf2:1` (attack,mental,occult) The shoggti caresses a creature with a tentacle and supernaturally erodes the creature's capability for thought as it does so. The target must succeed at a DC 25 Will check save or become [[Conditions/Stupefied 1|Stupefied 2]], with an unlimited duration. The target can attempt the save to remove the stupefied condition again once per day when it makes its daily preparations."
+    desc: "`pf2:1` (attack,mental,occult) The shoggti caresses a creature with a tentacle and supernaturally erodes the creature's capability for thought as it does so. The target must succeed at a DC 25 Will check save or become [[Conditions/Stupefied|Stupefied 2]], with an unlimited duration. The target can attempt the save to remove the stupefied condition again once per day when it makes its daily preparations."
 
   - name: "[[Bestiary Ability Glossary/Constrict|Constrict]]"
-    desc: "`pf2:1`  1d10 + 8 bludgeoning damage, DC 25 Fortitude check\n"
+    desc: "`pf2:1`  1d10+8 bludgeoning damage, DC 25 Fortitude check\n\n* * *\n"
 
   - name: "Fascinating Display"
-    desc: "`pf2:2` (concentrate,emotion,fear,mental,occult,visual) The shoggti writhes its tentacles and shifts its coloration to put on an unnaturally fascinating hypnotic display. Creatures in a 30-foot emanation must attempt a DC 25 Will check save, after which they are temporarily immune to further Fascinating Displays for 1 minute.\n**Critical Success** The creature is unaffected.\n**Success** The creature is [[Conditions/Sickened 1|Sickened 1]].\n**Failure** The creature is [[Conditions/Fascinated|Fascinated]] for 1 minute. Once the fascination effect ends, the creature is [[Conditions/Sickened 1|Sickened 1]].\n**Critical Failure** The creature is fascinated for 1 minute, can't use reactions while fascinated, and is [[Conditions/Sickened 1|Sickened 2]] once the fascination ends."
+    desc: "`pf2:2` (concentrate,emotion,fear,mental,occult,visual) The shoggti writhes its tentacles and shifts its coloration to put on an unnaturally fascinating hypnotic display. Creatures in a @Template[emanation|distance:30] must attempt a DC 25 Will check save, after which they are temporarily immune to further Fascinating Displays for 1 minute.\n* * *\n\n**Critical Success** The creature is unaffected.\n\n**Success** The creature is [[Conditions/Sickened|Sickened 1]].\n\n**Failure** The creature is [[Conditions/Fascinated|Fascinated]] for 1 minute. Once the fascination effect ends, the creature is [[Conditions/Sickened|Sickened 1]].\n\n**Critical Failure** The creature is fascinated for 1 minute, can't use reactions while fascinated, and is [[Conditions/Sickened|Sickened 2]] once the fascination ends."
 
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
     desc: "`pf2:1`  "
  
+```
+
+```encounter-table
+name: Shoggti
+creatures:
+  - 1: Shoggti
 ```
 
 

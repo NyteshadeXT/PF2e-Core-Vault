@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/beast
   - pf2e/creature/type/chaotic
   - pf2e/creature/type/evil
+  - pf2eMonster
   - pf2e/creature/level/7
 statblock: inline
 name: "Phase Tiger"
@@ -23,12 +24,12 @@ token: [[modules/battlezoo-bestiary-pf2e/art/phase_tiger.webp| ]]
 source: "Battlezoo Bestiary"
 name: "Phase Tiger"
 level: "Creature 7"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Large"
-trait_01: "beast"
-trait_02: "chaotic"
-trait_03: "evil"
+trait_01: [[beast]]
+trait_02: [[chaotic]]
+trait_03: [[evil]]
 modifier: 17
 perception:
   - name: "Perception"
@@ -36,7 +37,7 @@ perception:
 languages: "Aklo"
 skills:
   - name: "Skills"
-    desc: "Athletics: +18, Stealth: +17, Acrobatics: +17"
+    desc: "Acrobatics: +17, Athletics: +18, Stealth: +17"
 abilityMods: [5, 6, 4, 0, 4, 3]
 speed: 40 feet
 sourcebook: "_Battlezoo Bestiary_"
@@ -67,23 +68,29 @@ attacks:
     desc: "DC 22, attack +14; __4th __  _[[Spells/Translocate|Dimension Door]]_"
 
   - name: "[[Bestiary Ability Glossary/Sneak Attack|Sneak Attack]]"
-    desc: "  The phase tiger deals 1d6 extra precision damage to Off-Guard creatures.\n"
+    desc: "  The phase tiger deals 1d6 extra precision damage to [[Conditions/Off-Guard|Off-Guard]] creatures.\n\n* * *\n"
 
   - name: "Drag Beyond the Veil"
-    desc: "`pf2:2` (occult,teleportation) **Requirements** The phase tiger has a creature Grabbed on the Material Plane;\n**Effect** The phase tiger attempts to shift to the Ethereal Plane, dragging the pulled creature along with it. The grabbed creature must attempt a Fortitude save.\n**Critical Success** The target is unaffected, the grab ends, and the phase tiger remains in the Material Plane.\n**Success** The target is unaffected but remains grabbed, and the phase tiger remains in the Material Plane.\n**Failure** The target is pulled along with the phase tiger to the Ethereal Plane and remains grabbed. Once the grabbed condition ends, the target is immediately returned to the Material Plane.\n**Critical Failure** As failure, except the target returns to the Material Plane 1 minute after the grabbed condition ends."
+    desc: "`pf2:2` (occult,teleportation) **Requirements** The phase tiger has a creature [[Conditions/Grabbed|Grabbed]] on the Material Plane;\n* * *\n\n**Effect** The phase tiger attempts to shift to the Ethereal Plane, dragging the pulled creature along with it. The grabbed creature must attempt a DC 24 Fortitude save.\n* * *\n\n**Critical Success** The target is unaffected, the grab ends, and the phase tiger remains in the Material Plane.\n\n**Success** The target is unaffected but remains grabbed, and the phase tiger remains in the Material Plane.\n\n**Failure** The target is pulled along with the phase tiger to the Ethereal Plane and remains grabbed. Once the grabbed condition ends, the target is immediately returned to the Material Plane.\n\n**Critical Failure** As failure, except the target returns to the Material Plane 1 minute after the grabbed condition ends."
 
   - name: "Ethereal Pounce"
-    desc: "`pf2:2`  **Requirements** The phase tiger is on the Ethereal Plane;\n**Effect** The phase tiger shifts to the Material Plane and immediately Strikes a creature within reach. If the phase tiger began this action Hidden, it remains hidden until after this ability's Strike."
+    desc: "`pf2:2`  **Requirements** The phase tiger is on the Ethereal Plane;\n\n**Effect** The phase tiger shifts to the Material Plane and immediately Strikes a creature within reach. If the phase tiger began this action [[Conditions/Hidden|Hidden]], it remains hidden until after this ability's Strike."
 
   - name: "Ethereal Step (Free on Turn 1)"
     desc: "`pf2:1`  The phase tiger shifts to either the Ethereal Plane or the Material Plane. The phase tiger can remain on the Ethereal Plane indefinitely without ill effect. While there, it can see clearly onto the Material Plane with a range of 60 feet. On its first round in an encounter, the phase tiger can use this ability once as a free action."
 
   - name: "[[Bestiary Ability Glossary/Rend|Rend]]"
-    desc: "`pf2:1`  Claw\n"
+    desc: "`pf2:1`  Claw\n\n* * *\n"
 
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
-    desc: "`pf2:1`  **Requirements** The monster's last action was a success with a Strike that lists Grab in its damage entry, or it has a creature grabbed using this action.\n**Effect** The monster automatically Grabs the target until the end of the monster's next turn. The creature is Grabbed by whichever body part the monster attacked with, and that body part can't be used to Strike creatures until the grab is ended. Using Grab extends the duration of the monster's Grab until the end of its next turn for all creatures grabbed by it. A grabbed creature can use the Escape action to get out of the grab, and the Grab ends for a grabbed creatures if the monster moves away from it."
+    desc: "`pf2:1`  **Requirements** The monster's last action was a success with a Strike that lists Grab in its damage entry, or it has a creature grabbed using this action.\n\n**Effect** The monster automatically Grabs the target until the end of the monster's next turn. The creature is [[Conditions/Grabbed|Grabbed]] by whichever body part the monster attacked with, and that body part can't be used to Strike creatures until the grab is ended. Using Grab extends the duration of the monster's Grab until the end of its next turn for all creatures grabbed by it. A grabbed creature can use the [[Actions/Escape|Escape]] action to get out of the grab, and the Grab ends for a grabbed creatures if the monster moves away from it."
  
+```
+
+```encounter-table
+name: Phase Tiger
+creatures:
+  - 1: Phase Tiger
 ```
 
 

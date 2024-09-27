@@ -10,7 +10,7 @@ license: OGL
 ---
 # Bort's Blessing
 ## Item 5
-### [rare](rare "Rare Rarity Trait")[[invested]]
+### [rare](rare.md "Rare Rarity Trait")[[invested]]
 
 
 **Price** 160 gp; 

@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/aquatic
   - pf2e/creature/type/elemental
   - pf2e/creature/type/water
+  - pf2eMonster
   - pf2e/creature/level/5
   - remaster
 statblock: inline
@@ -27,9 +28,9 @@ level: "Creature 5"
 
 alignment: ""
 size: "Large"
-trait_01: "aquatic"
-trait_02: "elemental"
-trait_03: "water"
+trait_01: [[aquatic]]
+trait_02: [[elemental]]
+trait_03: [[water]]
 modifier: 10
 perception:
   - name: "Perception"
@@ -54,7 +55,7 @@ abilities_top:
   - name: ""
 
   - name: "Waterbound"
-    desc: "  When not touching water, the living waterfall is [[Conditions/Slowed 1|Slowed 1]] and can't use reactions."
+    desc: "  When not touching water, the living waterfall is [[Conditions/Slowed|Slowed 1]] and can't use reactions."
 
 abilities_mid:
   - name: ""
@@ -68,11 +69,17 @@ attacks:
     desc: "`pf2:1` Wave +15 (reach 10 feet)\n__Damage__  2d8 + 7 bludgeoning plus push-or-pull"
 
   - name: "Drench"
-    desc: "`pf2:1` (primal,water) The elemental puts out all fires in a 5-foot emanation.\n\nIt extinguishes all non-magical fires automatically and attempts to counteract magical fires (+14 counteract modifier)."
+    desc: "`pf2:1` (primal,water) The elemental puts out all fires in a @Template[emanation|distance:5].\n\nIt extinguishes all non-magical fires automatically and attempts to counteract magical fires (+14 counteract modifier)."
 
   - name: "[[Bestiary Ability Glossary/Push|Push or Pull 5 feet]]"
     desc: "`pf2:1`  The living waterfall can choose whether to push or pull the creature on a succesful hit.\n* * *\n\n**Push** `pf2:1`\n* * *\n\n**Pull** `pf2:1`"
  
+```
+
+```encounter-table
+name: Living Waterfall
+creatures:
+  - 1: Living Waterfall
 ```
 
 

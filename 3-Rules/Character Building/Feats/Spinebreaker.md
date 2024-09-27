@@ -6,8 +6,9 @@ tags:
   - trait/archetype
   - trait/common
   - category/class
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.gxzTEt37M0z1WY1M"
-license: OGL
+license: ORC
 ---
 # Spinebreaker `pf2:1`
 ## Feat 10
@@ -27,9 +28,9 @@ You squeeze your opponent in a vicious bear hug, putting intense pressure on the
 
 * * *
 
-**Critical Success** The target is [[Conditions/Clumsy 1|Clumsy 2]] until the end of its next turn and [[Conditions/Clumsy 1|Clumsy 1]] for 1 minute.
+**Critical Success** The target is [[Conditions/Clumsy|Clumsy 2]] until the end of its next turn and [[Conditions/Clumsy|Clumsy 1]] for 1 minute.
 
 **Success** The target is clumsy 1 until the end of its next turn.
 
-*Source: Pathfinder Lost Omens: The Grand Bazaar*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

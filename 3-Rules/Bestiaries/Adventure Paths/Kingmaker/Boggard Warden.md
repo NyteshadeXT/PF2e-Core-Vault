@@ -10,6 +10,7 @@ tags:
   - pf2e/creature/type/chaotic
   - pf2e/creature/type/evil
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/9
 statblock: inline
 name: "Boggard Warden"
@@ -24,14 +25,14 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Kingmaker"
 name: "Boggard Warden"
 level: "Creature 9"
-rare_03: "Rare"
+rare_03: [[Rare]]
 alignment: ""
 size: "Medium"
-trait_01: "amphibious"
-trait_02: "boggard"
-trait_03: "chaotic"
-trait_04: "evil"
-trait_05: "humanoid"
+trait_01: [[amphibious]]
+trait_02: [[boggard]]
+trait_03: [[chaotic]]
+trait_04: [[evil]]
+trait_05: [[humanoid]]
 modifier: 19
 perception:
   - name: "Perception"
@@ -39,7 +40,7 @@ perception:
 languages: "Boggard, Chthonian, Common"
 skills:
   - name: "Skills"
-    desc: "Athletics: +19, Intimidation: +18, Stealth: +19 (+23 in water), Survival: +17"
+    desc: "Athletics: +19, Intimidation: +18, Stealth: +19, Survival: +17"
 abilityMods: [6, 4, 3, 0, 4, 3]
 speed: 20 feet,  swim 25 feet
 sourcebook: "_Pathfinder Kingmaker_"
@@ -64,7 +65,7 @@ attacks:
   - name: "Melee"
     desc: "`pf2:1` Tongue +21 (reach 10 feet)\n__Damage__ "
 
-  - name: "Melee"
+  - name: "Ranged"
     desc: "`pf2:1` Trident +22 (magical, thrown 10 ft.)\n__Damage__  2d8 + 9 piercing"
 
   - name: "Ranged"
@@ -83,11 +84,17 @@ attacks:
     desc: "  A boggard cultist ignores difficult terrain caused by swamp terrain features."
 
   - name: "Terrifying Croak"
-    desc: "`pf2:1` (auditory,emotion,fear,mental) The boggard warden unleashes a terrifying croak. Any non-boggard within 30 feet becomes [[Conditions/Frightened 1|Frightened 1]] unless they succeed at a DC 28 Will check save.\nThose who critically succeed are temporarily immune for 1 minute."
+    desc: "`pf2:1` (auditory,emotion,fear,mental) The boggard warden unleashes a terrifying croak. Any non-boggard within 30 feet becomes [[Conditions/Frightened|Frightened 1]] unless they succeed at a DC 28 Will check save.\n\nThose who critically succeed are temporarily immune for 1 minute."
 
   - name: "Tongue Grab"
     desc: "  If the boggard warden hits a creature with its tongue, that creature becomes [[Conditions/Grabbed|Grabbed]] by the boggard. Unlike with a normal Grab, the creature isn't [[Conditions/Immobilized|Immobilized]], but it can't move beyond the reach of the boggard's tongue. A creature can sever the tongue by hitting AC 24 and dealing at least 10 slashing damage. Though this doesn't deal any damage to the boggard, it prevents it from using its tongue Strike until it regrows its tongue, which takes a week."
  
+```
+
+```encounter-table
+name: Boggard Warden
+creatures:
+  - 1: Boggard Warden
 ```
 
 

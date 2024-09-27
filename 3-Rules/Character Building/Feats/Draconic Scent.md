@@ -3,25 +3,23 @@ obsidianUIMode: preview
 title: "Draconic Scent"
 cssclasses: pf2e,pf2e-spell
 tags:
-  - trait/archetype
+  - trait/dragonblood
   - trait/common
-  - category/class
+  - category/ancestry
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.2UKf5IiUbpUbOC9a"
-license: OGL
+license: ORC
 ---
 # Draconic Scent
-## Feat 4
-### [[archetype]]
+## Feat 5
+### [[dragonblood]]
 
-**Category** class; 
+**Category** ancestry; 
 
 
 
-**Prerequisites** Dragon Disciple Dedication
-* * *
-Your sense of smell is uncanny, much like a dragon's. You gain imprecise scent with a range of 30 feet.
 
-The GM might double the range if you're downwind from the creature or halve the range if you're upwind, at their discretion.
+Your sense of smell has heightened to be as keen as that of a dragon. You gain imprecise scent with a range of 30 feet. At their discretion, the GM might double this range if you're downwind from the creature or halve this range if you're upwind.
 
-*Source: Pathfinder Advanced Player's Guide*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

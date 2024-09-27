@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.pfs-season-2-bestiary.Actor.QQ93gOZxsfTdTSn2"
 tags:
   - pf2e/creature/type/beast
   - pf2e/creature/type/electricity
+  - pf2eMonster
   - pf2e/creature/level/4
 statblock: inline
 name: "Storm Bear (3-4)"
@@ -21,15 +22,16 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Society Scenario #2-05: Balancing the Scales"
 name: "Storm Bear (3-4)"
 level: "Creature 4"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Medium"
-trait_01: "beast"
-trait_02: "electricity"
+trait_01: [[beast]]
+trait_02: [[electricity]]
 modifier: 11
 perception:
   - name: "Perception"
     desc: "+11; Low-Light Vision, Scent (Imprecise) 30 Feet"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Athletics: +12"
@@ -51,7 +53,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Consume Lightning"
-    desc: "`pf2:r`  **Trigger** The storm bear is targeted by, or in the area of, an effect that deals electricity damage\n**Effect** The storm bear devours some of the electricity to fuel a quick burst of speed, becoming [[Conditions/Quickened|Quickened]] for 1 round. While quickened, the storm bear's motions produce visible sparks of electricity."
+    desc: "`pf2:r`  **Trigger** The storm bear is targeted by, or in the area of, an effect that deals electricity damage\n* * *\n\n**Effect** The storm bear devours some of the electricity to fuel a quick burst of speed, becoming [[Conditions/Quickened|Quickened]] for 1 round. While quickened, the storm bear's motions produce visible sparks of electricity."
 
 attacks:
   - name: ""
@@ -63,11 +65,17 @@ attacks:
     desc: "`pf2:1` Claw +14 (agile)\n__Damage__  2d6 + 4 slashing plus knockdown"
 
   - name: "Thunderous Roar"
-    desc: "`pf2:2` (auditory,primal,sonic) The storm bear unleashes a deafening roar. Any non-storm bear creature within 10 feet takes 2d10 sonic damage (DC 19 Fortitude check save); creatures that critically fail this save are deafened for 1d6 rounds.\nThe storm bear can't use Thunderous Roar again for 1d4 rounds."
+    desc: "`pf2:2` (auditory,primal,sonic) The storm bear unleashes a deafening roar. Any non-storm bear creature within 10 feet takes 2d10 sonic damage (DC 19 Fortitude check save); creatures that critically fail this save are deafened for 1d6 rounds.\n\nThe storm bear can't use Thunderous Roar again for 1d4 rounds."
 
   - name: "[[Bestiary Ability Glossary/Knockdown|Knockdown]]"
     desc: "`pf2:1`  "
  
+```
+
+```encounter-table
+name: Storm Bear (3-4)
+creatures:
+  - 1: Storm Bear (3-4)
 ```
 
 

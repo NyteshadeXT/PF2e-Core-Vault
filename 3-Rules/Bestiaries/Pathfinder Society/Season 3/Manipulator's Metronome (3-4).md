@@ -5,6 +5,7 @@ noteType: pf2eHazard
 tags:
   - magical
   - trap
+  - pf2eHazard
 
 source: Pathfinder Society Scenario #3-05: Inheritor&#x27;s Rite
 aliases: "Compendium.pf2e.pfs-season-3-bestiary.Actor.PcKhzFKtzNvtBfdI" 
@@ -22,14 +23,14 @@ name: "Manipulator's Metronome (3-4)"
 level: "Hazard 4"
 
 
-trait_01: "magical"
-trait_02: "trap"
+trait_01: [[magical]]
+trait_02: [[trap]]
 modifier: -5
 sourcebook: "_Pathfinder Society Scenario #3-05: Inheritor's Rite_"
 ac: 20
 armorclass:
   - name: AC
-    desc: "20; __Fort__ +14, __Ref__ +8, __Will__ +0"
+    desc: "20; __Fort__ +14, __Ref__ +8, "
 hp: 60
 health:
   - name: ""
@@ -51,9 +52,15 @@ attacks:
   - name: ""
 
   - name: "Enchanting Beat"
-    desc: "`pf2:r` (auditory, occult) **Trigger** A creature starts the metronome\n**Effect** During the next 10 minutes, any creature who approaches within 30 feet of the metronome, other than the one who activated it, must attempt a DC 18 Will check save, with the following effects.\n**Critical Success** The creature is unaffected by the metronome and acts normally.\n**Success** The creature is [[Conditions/Fascinated|Fascinated]] for as long as it can hear the metronome and remains within 30 feet of it.\n**Failure** The creature is [[Conditions/Slowed 1|Slowed 1]] and is fascinated for as long as it can hear the metronome and remains within 30 feet of it. While fascinated in this way, the creature can't willingly move more than 30 feet away from the metronome until it stops ticking. The creature is then [[Conditions/Fatigued|Fatigued]] for 1 hour.\n**Critical Failure** The creature is slowed 1 and is fascinated for as long as it can hear the metronome and remains within 30 feet of it. While fascinated in this way, the creature can't willingly move more than 30 feet away from the metronome until it stops ticking. The creature is then fatigued for 2 hours."
+    desc: "`pf2:r` (auditory, occult) **Trigger** A creature starts the metronome\n* * *\n\n**Effect** During the next 10 minutes, any creature who approaches within 30 feet of the metronome, other than the one who activated it, must attempt a DC 18 Will check save, with the following effects.\n* * *\n\n**Critical Success** The creature is unaffected by the metronome and acts normally.\n\n**Success** The creature is [[Conditions/Fascinated|Fascinated]] for as long as it can hear the metronome and remains within 30 feet of it.\n\n**Failure** The creature is [[Conditions/Slowed|Slowed 1]] and is fascinated for as long as it can hear the metronome and remains within 30 feet of it. While fascinated in this way, the creature can't willingly move more than 30 feet away from the metronome until it stops ticking. The creature is then [[Conditions/Fatigued|Fatigued]] for 1 hour.\n\n**Critical Failure** The creature is slowed 1 and is fascinated for as long as it can hear the metronome and remains within 30 feet of it. While fascinated in this way, the creature can't willingly move more than 30 feet away from the metronome until it stops ticking. The creature is then fatigued for 2 hours."
 
 
 
+```
+
+```encounter-table
+name: Manipulator's Metronome (3-4)
+creatures:
+  - 1: Manipulator's Metronome (3-4)
 ```
 

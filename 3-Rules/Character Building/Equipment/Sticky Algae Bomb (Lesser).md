@@ -17,7 +17,7 @@ license: OGL
 ---
 # Sticky Algae Bomb (Lesser)
 ## Item 1
-### [[alchemical]][[bomb]][[consumable]][[splash]][[3-Rules/Rule References/Water]]
+### [[alchemical]][[bomb]][[consumable]][[splash]][[water]]
 
 |  |  |
 | -- | -- |

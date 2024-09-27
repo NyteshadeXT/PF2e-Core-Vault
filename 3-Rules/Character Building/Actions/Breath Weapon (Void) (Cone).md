@@ -13,7 +13,7 @@ license: OGL
 ---
 # Breath Weapon (Void) (Cone) `pf2:2`
 
-### [[arcane]][[eidolon]][[void]]
+### [[3-Rules/Rule References/Arcane]][[eidolon]][[void]]
 
 **Category** offensive; 
 

@@ -17,7 +17,7 @@ license: OGL
 
 
 
-**Moderate Boon(Daily)** You spread Lamashtu's nightmares everywhere you go. You can cast [[Spells/Confusion|Confusion]] once per day as an divine innate spell.
+You spread Lamashtu's nightmares everywhere you go. You can cast [[Spells/Confusion|Confusion]] once per day as an divine innate spell.
 
 *Source: Pathfinder Lost Omens: Gods & Magic*
 *OGL*

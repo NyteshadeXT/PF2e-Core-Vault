@@ -11,6 +11,7 @@ tags:
   - pf2e/creature/type/sprite
   - pf2e/creature/type/undead
   - pf2e/creature/type/unholy
+  - pf2eMonster
   - pf2e/creature/level/2
 statblock: inline
 name: "Elite Arisen Shadow Pixie"
@@ -25,15 +26,15 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Society Quest #15: In the Footsteps of Horror"
 name: "Elite Arisen Shadow Pixie"
 level: "Creature 2"
-rare_03: "Rare"
+rare_03: [[Rare]]
 alignment: ""
 size: "Small"
-trait_01: "chaotic"
-trait_02: "fey"
-trait_03: "shadow"
-trait_04: "sprite"
-trait_05: "undead"
-trait_06: "unholy"
+trait_01: [[chaotic]]
+trait_02: [[fey]]
+trait_03: [[shadow]]
+trait_04: [[sprite]]
+trait_05: [[undead]]
+trait_06: [[unholy]]
 modifier: 9
 perception:
   - name: "Perception"
@@ -75,6 +76,12 @@ attacks:
   - name: "Shadowed Illumination"
     desc: " (darkness,light,primal) Shadow pixies exude shadow, counteracting all other light and darkness effects their level or lower to leave dim light out to 10 feet (counteract rank 2, counteract bonus +9). The shadow pixie can suppress this effect with a single action, which has the concentrate trait. While the effect is suppressed, the shadow pixie's Strikes don't deal cold damage and they can't use their shadow spark Strike."
  
+```
+
+```encounter-table
+name: Elite Arisen Shadow Pixie
+creatures:
+  - 1: Elite Arisen Shadow Pixie
 ```
 
 

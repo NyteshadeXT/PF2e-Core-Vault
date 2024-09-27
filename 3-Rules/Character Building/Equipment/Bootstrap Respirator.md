@@ -10,7 +10,7 @@ license: OGL
 ---
 # Bootstrap Respirator
 ## Item 8
-### [uncommon](uncommon "Uncommon Rarity Trait")[[mechanical]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[mechanical]]
 
 
 **Price** 450 gp; 

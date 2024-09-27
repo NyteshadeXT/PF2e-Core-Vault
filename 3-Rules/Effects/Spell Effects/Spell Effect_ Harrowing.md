@@ -22,5 +22,5 @@ license: OGL
 
 **Failure** As success, but the wild card instead grants a –4 status penalty to the reroll.
 
-*Source: Pathfinder: Stolen Fate Player's Guide*
+*Source: Pathfinder Stolen Fate Player's Guide*
 *OGL*

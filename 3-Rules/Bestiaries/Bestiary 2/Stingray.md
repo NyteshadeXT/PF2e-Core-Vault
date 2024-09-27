@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.pathfinder-bestiary-2.Actor.HXWT5QxmOCn0poMt"
 tags:
   - pf2e/creature/type/animal
   - pf2e/creature/type/aquatic
+  - pf2eMonster
   - pf2e/creature/level/0
 statblock: inline
 name: "Stingray"
@@ -25,12 +26,13 @@ level: "Creature 0"
 
 alignment: ""
 size: "Medium"
-trait_01: "animal"
-trait_02: "aquatic"
+trait_01: [[animal]]
+trait_02: [[aquatic]]
 modifier: 6
 perception:
   - name: "Perception"
     desc: "+6; Low-Light Vision"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Athletics: +5, Stealth: +7"
@@ -61,8 +63,14 @@ attacks:
     desc: "`pf2:1` Sting +7 (agile, finesse)\n__Damage__  1d6 + 1 piercing plus stingray-venom"
 
   - name: "Stingray Venom"
-    desc: " (poison) **Saving Throw** DC 16 Fortitude check\n**Maximum Duration** 4 rounds\n**Stage 1** 1d4 poison damage (1 round)\n**Stage 2** 1d6 poison damage and [[Conditions/Clumsy 1|Clumsy 1]] (1 round)"
+    desc: " (poison) **Saving Throw** DC 16 Fortitude check\n\n**Maximum Duration** 4 rounds\n\n**Stage 1** 1d4 poison damage (1 round)\n\n**Stage 2** 1d6 poison damage and [[Conditions/Clumsy|Clumsy 1]] (1 round)"
  
+```
+
+```encounter-table
+name: Stingray
+creatures:
+  - 1: Stingray
 ```
 
 

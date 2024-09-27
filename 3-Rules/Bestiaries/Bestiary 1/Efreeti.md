@@ -10,6 +10,7 @@ tags:
   - pf2e/creature/type/fire
   - pf2e/creature/type/genie
   - pf2e/creature/type/lawful
+  - pf2eMonster
   - pf2e/creature/level/9
 statblock: inline
 name: "Efreeti"
@@ -25,14 +26,14 @@ token: [[modules/pf2e-tokens-bestiaries/portraits/elemental/genie/efreeti.webp| 
 source: "Pathfinder Bestiary"
 name: "Efreeti"
 level: "Creature 9"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Large"
-trait_01: "elemental"
-trait_02: "evil"
-trait_03: "fire"
-trait_04: "genie"
-trait_05: "lawful"
+trait_01: [[elemental]]
+trait_02: [[evil]]
+trait_03: [[fire]]
+trait_04: [[genie]]
+trait_05: [[lawful]]
 modifier: 17
 perception:
   - name: "Perception"
@@ -75,11 +76,17 @@ attacks:
     desc: " (fire) When the efreeti grabs a creature, that creature takes 2d6 fire damage, and takes 2d6 fire damage at the end of each of its turns as long as it remains [[Conditions/Grabbed|Grabbed]]."
 
   - name: "Change Size"
-    desc: "`pf2:2` (arcane,concentrate,polymorph) **Frequency** Once per day.\n**Effect** The efreeti changes a creature's size. This works as a 4th-rank [[Spells/Enlarge|Enlarge]] or [[Spells/Shrink|Shrink]] spell but can target an unwilling creature (DC 29 Fortitude check save negates)."
+    desc: "`pf2:2` (arcane,concentrate,polymorph) **Frequency** Once per day.\n* * *\n\n**Effect** The efreeti changes a creature's size. This works as a 4th-rank [[Spells/Enlarge|Enlarge]] or [[Spells/Shrink|Shrink]] spell but can target an unwilling creature (DC 29 Fortitude check save negates)."
 
   - name: "Combat Grab"
-    desc: "`pf2:1`  **Requirements** The efreeti has one hand free.\n**Effect** The efreeti makes a melee Strike while keeping one hand free. If the Strike hits, the target is [[Conditions/Grabbed|Grabbed]] in the efreeti's free hand."
+    desc: "`pf2:1`  **Requirements** The efreeti has one hand free.\n* * *\n\n**Effect** The efreeti makes a melee Strike while keeping one hand free. If the Strike hits, the target is [[Conditions/Grabbed|Grabbed]] in the efreeti's free hand."
  
+```
+
+```encounter-table
+name: Efreeti
+creatures:
+  - 1: Efreeti
 ```
 
 

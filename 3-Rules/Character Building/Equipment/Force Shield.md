@@ -3,6 +3,7 @@ obsidianUIMode: preview
 title: "Force Shield"
 cssclasses: pf2e,pf2e-spell
 tags:
+  - trait/force
   - trait/magical
   - trait/uncommon
   - remaster
@@ -11,7 +12,7 @@ license: ORC
 ---
 # Force Shield
 ## Item 9
-### [uncommon](uncommon "Uncommon Rarity Trait")[[magical]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[3-Rules/trait_reference/force]][[3-Rules/Rule References/Magical]]
 
 
 **Price** 650 gp; 

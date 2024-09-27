@@ -6,6 +6,7 @@ cssClasses: pf2e
 aliases: "Compendium.pf2e.pathfinder-bestiary.Actor.KsWAIXTTh3mfNWOY" 
 tags:
   - pf2e/creature/type/animal
+  - pf2eMonster
   - pf2e/creature/level/2
 statblock: inline
 name: "Giant Viper"
@@ -24,11 +25,12 @@ level: "Creature 2"
 
 alignment: ""
 size: "Medium"
-trait_01: "animal"
+trait_01: [[animal]]
 modifier: 7
 perception:
   - name: "Perception"
     desc: "+7; Low-Light Vision, Scent (Imprecise) 30 Feet"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Acrobatics: +9, Athletics: +8, Stealth: +8, Survival: +6"
@@ -50,7 +52,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "[[Bestiary Ability Glossary/Attack of Opportunity|Coiled Opportunity (Special)]]"
-    desc: "`pf2:r`  The snake can use this reaction only if it's Coiled.\n"
+    desc: "`pf2:r`  The snake can use this reaction only if it's Coiled.\n\n* * *\n"
 
 attacks:
   - name: ""
@@ -62,8 +64,14 @@ attacks:
     desc: "`pf2:1`  The giant viper uses an action to coil itself, increasing its reach with its fangs from 5 to 10 feet. After the giant viper Strikes with its fangs, it becomes uncoiled."
 
   - name: "Giant Viper Venom"
-    desc: " (poison) **Saving Throw** DC 17 Fortitude check\n**Maximum Duration** 6 rounds\n**Stage 1** 1d6 poison damage (1 round)\n**Stage 2** 1d6 poison damage and [[Conditions/Drained 1|Drained 1]]"
+    desc: " (poison) **Saving Throw** DC 17 Fortitude check\n* * *\n\n**Maximum Duration** 6 rounds\n\n**Stage 1** 1d6 poison damage (1 round)\n\n**Stage 2** 1d6 poison damage and [[Conditions/Drained|Drained 1]]"
  
+```
+
+```encounter-table
+name: Giant Viper
+creatures:
+  - 1: Giant Viper
 ```
 
 

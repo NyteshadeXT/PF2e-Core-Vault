@@ -5,6 +5,7 @@ noteType: pf2eHazard
 tags:
   - environmental
   - magical
+  - pf2eHazard
 
 source: Pathfinder #165: Eyes of Empty Death
 aliases: "Compendium.pf2e.abomination-vaults-bestiary.Actor.s8Ofcsub5QJJmgA5" 
@@ -22,8 +23,8 @@ name: "Daemonic Fog"
 level: "Hazard 9"
 
 
-trait_01: "environmental"
-trait_02: "magical"
+trait_01: [[environmental]]
+trait_02: [[magical]]
 modifier: 20
 sourcebook: "_Pathfinder #165: Eyes of Empty Death_"
 perception:
@@ -42,10 +43,16 @@ attacks:
   - name: ""
 
   - name: "Gnawing Fog"
-    desc: "`pf2:r` (divine) **Trigger** A creature crosses the cavern's midpoint (the dotted line on the map)\n**Effect** The hazard deals 9d6 piercing damage (DC 32 Reflex check save) to the triggering creature and all other non-fiend creatures within 20 feet. A creature that critically fails the saving throw is confused for 1d4 rounds."
+    desc: "`pf2:r` (divine) **Trigger** A creature crosses the cavern's midpoint (the dotted line on the map)\n* * *\n\n**Effect** The hazard deals 9d6 piercing damage (DC 32 Reflex check save) to the triggering creature and all other non-fiend creatures within 20 feet. A creature that critically fails the saving throw is confused for 1d4 rounds."
 
 
   - name: "Reset"
     desc: "The hazard resets over the course of an hour as the daemonic stain reenergizes the fog."
+```
+
+```encounter-table
+name: Daemonic Fog
+creatures:
+  - 1: Daemonic Fog
 ```
 

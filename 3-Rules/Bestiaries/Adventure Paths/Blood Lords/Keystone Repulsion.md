@@ -5,6 +5,7 @@ noteType: pf2eHazard
 tags:
   - magical
   - trap
+  - pf2eHazard
   - complex
 source: Pathfinder #186: Ghost King&#x27;s Rage
 aliases: "Compendium.pf2e.blood-lords-bestiary.Actor.geyq1PRVsbVAFuCx" 
@@ -22,8 +23,8 @@ name: "Keystone Repulsion"
 level: "Hazard 20"
 
 trait_06: "Complex"
-trait_01: "magical"
-trait_02: "trap"
+trait_01: [[magical]]
+trait_02: [[trap]]
 modifier: 51
 sourcebook: "_Pathfinder #186: Ghost King's Rage_"
 perception:
@@ -42,10 +43,16 @@ attacks:
   - name: ""
 
   - name: "Repel"
-    desc: "`pf2:r` (force, occult) **Trigger** A creature damages or tampers with a keystone\n**Effect** The triggering creature is moved back 10 feet by a wave of force. A successful DC 42 Fortitude check save reduces the distance moved to 5 feet. The trap then rolls initiative."
+    desc: "`pf2:r` (force, occult) **Trigger** A creature damages or tampers with a keystone\n* * *\n\n**Effect** The triggering creature is moved back 10 feet by a wave of force. A successful DC 42 Fortitude check save reduces the distance moved to 5 feet. The trap then rolls initiative."
 
   - name: "Routine"
-    desc: "(4 actions) The trap loses 1 action each turn for each removed or isolated keystone. Each keystone spends 1 action to release a wave of force, dealing 4d10 + 22 force damage in a 15-foot cone (DC 42 Reflex check) and pushing each creature back 5 feet. On a failed save, the distance a creature is pushed increases to 10 feet."
+    desc: "(4 actions) The trap loses 1 action each turn for each removed or isolated keystone. Each keystone spends 1 action to release a wave of force, dealing 4d10+22 force damage in a @Template[cone|distance:15] (DC 42 Reflex check) and pushing each creature back 5 feet. On a failed save, the distance a creature is pushed increases to 10 feet."
 
+```
+
+```encounter-table
+name: Keystone Repulsion
+creatures:
+  - 1: Keystone Repulsion
 ```
 

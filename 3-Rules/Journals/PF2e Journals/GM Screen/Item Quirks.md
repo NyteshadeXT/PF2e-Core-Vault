@@ -10,7 +10,7 @@ tags:
 # Item Quirks
   
 
-| **d100** | **Quirk** | **Description** |
+| **1d100** | **Quirk** | **Description** |
 | --- | --- | --- |
 | 01 | Melodic | Faint music plays when in use. |
 | 02 | Skin-altering | The user's skin color changes to a bright color such as blue or green. |

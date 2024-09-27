@@ -6,8 +6,9 @@ tags:
   - trait/archetype
   - trait/common
   - category/class
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.eHkMcQQ4ejRAFJAt"
-license: OGL
+license: ORC
 ---
 # Poison Coat `pf2:r`
 ## Feat 6
@@ -19,17 +20,7 @@ license: OGL
 
 **Prerequisites** Poisoner Dedication
 * * *
-**Trigger** A creature adjacent to you hits you with a melee unarmed Strike.
+In nature, certain animals are covered in venomous spines, and just brushing against them can prove deadly. You expend a contact or injury poison and spend 10 minutes brushing that poison onto your clothing or weaving sharp, poisoned needles into the garment's fabric. You can have only one poison suffused into your clothing at a time. You can use the [[Actions/Once Bitten|Once Bitten]] reaction while you have a poison suffused in this way.
 
-**Requirements** You have prepared your clothing to poison attackers (see below).
-
-* * *
-
-In nature, certain animals are covered in venomous spines, such that even touching them is deadly.
-
-To use this reaction, you must have brushed poison onto your clothing or woven sharp poisoned needles into the garment's fabric. This takes 10 minutes and uses one dose of contact or injury poison. You can have only one such poison suffused into your clothing at a time.
-
-When you use this reaction, the triggering creature is exposed to the suffused poison.
-
-*Source: Pathfinder Advanced Player's Guide*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

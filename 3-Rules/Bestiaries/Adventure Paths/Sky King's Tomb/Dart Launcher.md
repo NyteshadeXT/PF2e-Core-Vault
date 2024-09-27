@@ -5,6 +5,7 @@ noteType: pf2eHazard
 tags:
   - mechanical
   - trap
+  - pf2eHazard
 
 source: Pathfinder #193: Mantle of Gold
 aliases: "Compendium.pf2e.sky-kings-tomb-bestiary.Actor.piG1RSGHklQy2H57" 
@@ -22,14 +23,14 @@ name: "Dart Launcher"
 level: "Hazard 1"
 
 
-trait_01: "mechanical"
-trait_02: "trap"
+trait_01: [[mechanical]]
+trait_02: [[trap]]
 modifier: 10
 sourcebook: "_Pathfinder #193: Mantle of Gold_"
 ac: 16
 armorclass:
   - name: AC
-    desc: "16; __Fort__ +8, __Ref__ +4, __Will__ NaN"
+    desc: "16; __Fort__ +8, __Ref__ +4, "
 hp: 24
 health:
   - name: ""
@@ -51,11 +52,17 @@ attacks:
   - name: ""
 
   - name: "Dart Volley"
-    desc: "`pf2:r` **Trigger** Pressure is applied to the floor tile\n**Effect** The trap shoots 4 darts as a single attack."
+    desc: "`pf2:r` **Trigger** Pressure is applied to the floor tile\n* * *\n\n**Effect** The trap shoots 4 darts as a single attack."
   - name: "Melee"
     desc: "Darts +12 () Plus 1d10 poison damage (DC 16 Fortitude check negates the poison damage)"
 
 
 
+```
+
+```encounter-table
+name: Dart Launcher
+creatures:
+  - 1: Dart Launcher
 ```
 

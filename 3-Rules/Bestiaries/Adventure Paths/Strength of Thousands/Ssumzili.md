@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/chaotic
   - pf2e/creature/type/evil
   - pf2e/creature/type/fey
+  - pf2eMonster
   - pf2e/creature/level/12
 statblock: inline
 name: "Ssumzili"
@@ -22,12 +23,12 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #171: Hurricane&#x27;s Howl"
 name: "Ssumzili"
 level: "Creature 12"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Medium"
-trait_01: "chaotic"
-trait_02: "evil"
-trait_03: "fey"
+trait_01: [[chaotic]]
+trait_02: [[evil]]
+trait_03: [[fey]]
 modifier: 25
 perception:
   - name: "Perception"
@@ -78,8 +79,14 @@ attacks:
     desc: "  A ssumzili deals an additional 2d6 precision damage precision damage to [[Conditions/Off-Guard|Off-Guard]] creatures."
 
   - name: "Soaking Strike"
-    desc: "`pf2:2`  The ssumzili makes a melee Strike. If the Strike damages the target, the target must also attempt a DC 32 Fortitude check save.\n**Critical Success** The creature is unaffected.\n**Success** The creature becomes soaked, causing them to treat the environmental temperature as one step colder (mild to severe, severe to extreme, and so on) until they dry off.\n**Failure** As success, and the creature is [[Conditions/Fatigued|Fatigued]] for 1 minute.\n**Critical Failure** As failure but the fatigue lasts until the target gets a full night's rest."
+    desc: "`pf2:2`  The ssumzili makes a melee Strike. If the Strike damages the target, the target must also attempt a DC 32 Fortitude check save.\n* * *\n\n**Critical Success** The creature is unaffected.\n\n**Success** The creature becomes soaked, causing them to treat the environmental temperature as one step colder (mild to severe, severe to extreme, and so on) until they dry off.\n\n**Failure** As success, and the creature is [[Conditions/Fatigued|Fatigued]] for 1 minute.\n\n**Critical Failure** As failure but the fatigue lasts until the target gets a full night's rest."
  
+```
+
+```encounter-table
+name: Ssumzili
+creatures:
+  - 1: Ssumzili
 ```
 
 

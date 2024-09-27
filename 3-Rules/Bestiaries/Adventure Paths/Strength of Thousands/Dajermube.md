@@ -10,6 +10,7 @@ tags:
   - pf2e/creature/type/spirit
   - pf2e/creature/type/undead
   - pf2e/creature/type/unholy
+  - pf2eMonster
   - pf2e/creature/level/16
 statblock: inline
 name: "Dajermube"
@@ -24,22 +25,22 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #172: Secrets of the Temple-City"
 name: "Dajermube"
 level: "Creature 16"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Medium"
-trait_01: "evil"
-trait_02: "incorporeal"
-trait_03: "spirit"
-trait_04: "undead"
-trait_05: "unholy"
+trait_01: [[evil]]
+trait_02: [[incorporeal]]
+trait_03: [[spirit]]
+trait_04: [[undead]]
+trait_05: [[unholy]]
 modifier: 33
 perception:
   - name: "Perception"
     desc: "+33; Darkvision"
-languages: "Common"
+languages: "Common; telepathy 100 feet"
 skills:
   - name: "Skills"
-    desc: "Deception: +29, Diplomacy: +29, Dwelling Lore: +25, Intimidation: +31, Religion: +33, Stealth: +31"
+    desc: "Deception: +29, Diplomacy: +29, Intimidation: +31, Religion: +33, Stealth: +31, Dwelling Lore: +25"
 abilityMods: [-5, 6, 0, 4, 8, 6]
 speed:  fly 40 feet
 sourcebook: "_Pathfinder #172: Secrets of the Temple-City_"
@@ -79,14 +80,20 @@ attacks:
     desc: "DC 38, attack +30; __8th __ (7 slots) _[[Spells/Execute|Finger of Death (x3)]]_, _[[Spells/Harm|Harm (x3)]]_, _[[Spells/Wall of Radiance|Wall of Radiance]]_, _[[Spells/Wall of Shadow|Wall of Shadow]]_"
 
   - name: "Drain Life"
-    desc: " (divine) When the nemhaith damages a living creature with its spirit tendril Strike, the creature must succeed at a DC 36 Fortitude check save or become [[Conditions/Drained 1|Drained 2]].\nFurther damage dealt by the nemhaith increases the condition value by 1 on a failed save, to a maximum of drained 4."
+    desc: " (divine) When the nemhaith damages a living creature with its spirit tendril Strike, the creature must succeed at a DC 36 Fortitude check save or become [[Conditions/Drained|Drained 2]].\n\nFurther damage dealt by the nemhaith increases the condition value by 1 on a failed save, to a maximum of drained 4."
 
   - name: "Rage of Spirits"
-    desc: "`pf2:2`  The nemhaith's bound spirits rage and smash everything in a 30-foot emanation. Creatures in this area take 4d6 sonic damage and 4d6 void damage (DC 36 Fortitude check save)."
+    desc: "`pf2:2`  The nemhaith's bound spirits rage and smash everything in a @Template[emanation|distance:30]. Creatures in this area take 4d6 sonic damage and 4d6 void damage (DC 36 Fortitude check save)."
 
   - name: "Throw Spirits"
     desc: "`pf2:1`  The nemhaith directs its bound spirits as a group to move up to 1 mile away (they have a fly Speed of 60 feet). The nemhaith can see and hear through the thrown spirits, but it loses its aura and can't use its spirit dart ranged Strike or Rage of Spirits. The nemhaith regains these abilities when the spirits return to the nemhaith's space."
  
+```
+
+```encounter-table
+name: Dajermube
+creatures:
+  - 1: Dajermube
 ```
 
 

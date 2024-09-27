@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/incorporeal
   - pf2e/creature/type/undead
   - pf2e/creature/type/unholy
+  - pf2eMonster
   - pf2e/creature/level/11
 statblock: inline
 name: "Bhuta"
@@ -26,15 +27,15 @@ level: "Creature 11"
 
 alignment: ""
 size: "Medium"
-trait_01: "evil"
-trait_02: "incorporeal"
-trait_03: "undead"
-trait_04: "unholy"
+trait_01: [[evil]]
+trait_02: [[incorporeal]]
+trait_03: [[undead]]
+trait_04: [[unholy]]
 modifier: 22
 perception:
   - name: "Perception"
     desc: "+22; Darkvision"
-languages: "Common, Necril"
+languages: "Common, Necril; speak with animals"
 skills:
   - name: "Skills"
     desc: "Arcana: +20, Deception: +22, Nature: +24, Survival: +22"
@@ -74,7 +75,7 @@ attacks:
     desc: "DC 30, attack +22; __9th __  _[[Spells/Nature's Enmity|Nature's Enmity (Only While Within the Area to Which the Bhuta is Bound)]]_; __6th __  _[[Spells/Summon Animal|Summon Animal]]_; __5th __  _[[Spells/Command|Command (Animals Only)]]_, _[[Spells/Vampiric Feast|Vampiric Touch]]_; __4th __  _[[Spells/Charm|Charm (Animals Only)]]_; __3rd __  _[[Spells/Animal Vision|Animal Vision]]_\n__Cantrips__  __(6th)__ _[[Spells/Daze|Daze]]_, _[[Spells/Tangle Vine|Tanglefoot]]_\n__Constant__  __(2nd)__ _[[Spells/Speak with Animals|Speak with Animals]]_"
 
   - name: "[[Bestiary Ability Glossary/Change Shape|Change Shape]]"
-    desc: "`pf2:1` (concentrate,occult,polymorph) The bhuta takes the form of a Large, Medium, or Small animal common to their bound area. This doesn't change the bhuta's Speed or attack and damage modifiers with their Strikes but might change the damage type their Strikes deal. No matter what form the bhuta takes, their feet remain backward and they cast no shadow. A bhuta in animal form is still incorporeal, though that isn't obvious just by looking at it.\n"
+    desc: "`pf2:1` (concentrate,occult,polymorph) The bhuta takes the form of a Large, Medium, or Small animal common to their bound area. This doesn't change the bhuta's Speed or attack and damage modifiers with their Strikes but might change the damage type their Strikes deal. No matter what form the bhuta takes, their feet remain backward and they cast no shadow. A bhuta in animal form is still incorporeal, though that isn't obvious just by looking at it.\n\n* * *\n"
 
   - name: "Possess Animal"
     desc: "`pf2:2`  The bhuta attempts to possess an adjacent animal. They cast 9th-rank heightened [[Spells/Possession|Possession]] with the following changes: since the bhuta has no physical body, they're unaffected by that restriction. On a critical failure, the duration extends to 1 full day. While possessed by a bhuta, the animal casts no shadow."
@@ -82,6 +83,12 @@ attacks:
   - name: "Primal Corruption"
     desc: "  A bhuta corrupts wildlife near their bound area, worming their way into animals' minds. Animals who live within the bound area take a -4 circumstance penalty to saves against the bhuta's Possess Animal ability, the bhuta's [[Spells/Charm|Charm]] innate spell, and the bhuta's [[Spells/Command|Command]] innate spell."
  
+```
+
+```encounter-table
+name: Bhuta
+creatures:
+  - 1: Bhuta
 ```
 
 

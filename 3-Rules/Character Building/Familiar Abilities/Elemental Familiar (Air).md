@@ -12,7 +12,7 @@ license: OGL
 ---
 # Elemental Familiar (Air)
 
-### [[3-Rules/Rule References/Air]]
+### [[air]]
 
 **Category** familiar; 
 

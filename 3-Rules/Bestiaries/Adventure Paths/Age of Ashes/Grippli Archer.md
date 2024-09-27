@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.age-of-ashes-bestiary.Actor.5DwiLZJf6KxpIjDq"
 tags:
   - pf2e/creature/type/grippli
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/3
 statblock: inline
 name: "Grippli Archer"
@@ -24,8 +25,8 @@ level: "Creature 3"
 
 alignment: ""
 size: "Small"
-trait_01: "grippli"
-trait_02: "humanoid"
+trait_01: [[grippli]]
+trait_02: [[humanoid]]
 modifier: 10
 perception:
   - name: "Perception"
@@ -33,7 +34,7 @@ perception:
 languages: "Common, Grippli"
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +9, Athletics: +6, Nature: +8, Stealth: +11 (+13 in Forests), Survival: +8"
+    desc: "Acrobatics: +9, Athletics: +6, Nature: +8, Stealth: +11, Survival: +8"
 abilityMods: [1, 4, 2, 0, 3, -1]
 speed: 25 feet,  climb 20 feet
 sourcebook: "_Pathfinder #146: Cult of Cinders_"
@@ -67,6 +68,12 @@ attacks:
   - name: "Jungle Stride"
     desc: "  A grippli ignores difficult terrain in forests and jungles."
  
+```
+
+```encounter-table
+name: Grippli Archer
+creatures:
+  - 1: Grippli Archer
 ```
 
 

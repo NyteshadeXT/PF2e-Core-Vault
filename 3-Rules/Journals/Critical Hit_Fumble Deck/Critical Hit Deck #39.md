@@ -8,7 +8,7 @@ tags:
 ---
 # Soul-Crushing Blow
 
-> **Crit Effect:** The target is [[Conditions/Doomed 1|Doomed 1]] and is [[Conditions/Stupefied 1|Stupefied 1]] for as long as it is doomed.
+> **Crit Effect:** The target is [[Conditions/Doomed|Doomed 1]] and is [[Conditions/Stupefied|Stupefied 1]] for as long as it is doomed.
 
 `Bludgeoning`
 

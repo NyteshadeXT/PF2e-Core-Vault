@@ -36,9 +36,9 @@ The toxic deathcap mushroom can be dried, ground, and treated to form a flavorle
 
 **Stage 1** 7d8 poison damage (1 minute)
 
-**Stage 2** 9d6 poison damage and [[Conditions/Sickened 1|Sickened 2]] (1 minute)
+**Stage 2** 9d6 poison damage and [[Conditions/Sickened|Sickened 2]] (1 minute)
 
-**Stage 3** 8d10 poison damage and [[Conditions/Sickened 1|Sickened 3]] (1 minute)
+**Stage 3** 8d10 poison damage and [[Conditions/Sickened|Sickened 3]] (1 minute)
 
 *Source: Pathfinder GM Core*
 *ORC*

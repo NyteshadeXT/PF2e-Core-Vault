@@ -11,6 +11,7 @@ tags:
   - pf2e/creature/type/spirit
   - pf2e/creature/type/undead
   - pf2e/creature/type/unholy
+  - pf2eMonster
   - pf2e/creature/level/6
 statblock: inline
 name: "Ghostwriter"
@@ -29,20 +30,20 @@ level: "Creature 6"
 
 alignment: ""
 size: "Medium"
-trait_01: "chaotic"
-trait_02: "evil"
-trait_03: "incorporeal"
-trait_04: "spirit"
-trait_05: "undead"
-trait_06: "unholy"
+trait_01: [[chaotic]]
+trait_02: [[evil]]
+trait_03: [[incorporeal]]
+trait_04: [[spirit]]
+trait_05: [[undead]]
+trait_06: [[unholy]]
 modifier: 14
 perception:
   - name: "Perception"
     desc: "+14; Darkvision"
-languages: "Common"
+languages: "Common; any 4 other languages"
 skills:
   - name: "Skills"
-    desc: "Arcana: +15, Deception: +14, Intimidation: +14, Stealth: +15, Academia Lore: +15, "
+    desc: "Arcana: +15, Deception: +14, Intimidation: +14, Stealth: +15, Academia Lore: +15"
 abilityMods: [-5, 4, 0, 5, 2, 4]
 speed:  fly 25 feet
 sourcebook: "_Battlezoo Bestiary_"
@@ -73,14 +74,20 @@ attacks:
     desc: "DC 24, attack +16; __3rd __  _[[Spells/Rune Trap|Glyph of Warding]]_, _[[Spells/Stinking Cloud|Stinking Cloud]]_; __2nd __  _[[Spells/Translate|Comprehend Language]]_, _[[Spells/Dispel Magic|Dispel Magic]]_, _[[Spells/Telekinetic Maneuver|Telekinetic Maneuver]]_; __1st __  _[[Spells/Force Barrage|Magic Missile]]_, _[[Spells/Mending|Mending]]_, _[[Spells/Enfeeble|Ray of Enfeeblement]]_, _[[Spells/Sleep|Sleep]]_\n__Cantrips__  __(3rd)__ _[[Spells/Telekinetic Hand|Mage Hand]]_, _[[Spells/Message|Message]]_, _[[Spells/Prestidigitation|Prestidigitation]]_, _[[Spells/Read Aura|Read Aura]]_, _[[Spells/Sigil|Sigil]]_, _[[Spells/Telekinetic Projectile|Telekinetic Projectile]]_"
 
   - name: "Ghostly Revisions"
-    desc: "  Any time a ghostwriter inhabits a spellbook with Inhabit Text, it automatically edits the text, making it difficult for the next reader to parse the words. The next time a spellcaster attempts to prepare spells from the spellbook, that spellcaster must attempt a Arcana check.\nRegardless of the result, the edits disappear afterward and don't affect subsequent preparations.\n**Critical Success** The spellcaster deduces that the edits are, in fact, quite brilliant. The spellcaster can prepare one additional spell of the highest level for which they have spell slots. The GM determines this spell randomly.\n**Success** The spellcaster is unaffected and can prepare spells normally.\n**Failure** One random spell is made illegible in the spellbook. The spellcaster can't prepare that spell today.\n**Critical Failure** As failure, but one random spell per spell level is made illegible."
+    desc: "  Any time a ghostwriter inhabits a spellbook with Inhabit Text, it automatically edits the text, making it difficult for the next reader to parse the words. The next time a spellcaster attempts to prepare spells from the spellbook, that spellcaster must attempt a DC 24 Arcana check.\n\nRegardless of the result, the edits disappear afterward and don't affect subsequent preparations.\n* * *\n\n**Critical Success** The spellcaster deduces that the edits are, in fact, quite brilliant. The spellcaster can prepare one additional spell of the highest level for which they have spell slots. The GM determines this spell randomly.\n\n**Success** The spellcaster is unaffected and can prepare spells normally.\n\n**Failure** One random spell is made illegible in the spellbook. The spellcaster can't prepare that spell today.\n\n**Critical Failure** As failure, but one random spell per spell level is made illegible."
 
   - name: "Inhabit Text"
-    desc: "`pf2:2`  The ghostwriter possesses a book, scroll, roll of parchment, or similar-sized text within 20 feet. This has the same effect as the _Possession_ spell, except that the ghostwriter can target only works of text and the ghostwriter leaves no physical body behind while it possesses a text.\nIf a creature is holding the text the ghostwriter is attempting to inhabit, that creature can attempt a Will save to prevent the possession. The possessed text has the same statistics and abilities as the ghostwriter. If the ghostwriter is destroyed while possessing a text, the text is destroyed as well.\nWhen the possession ends, the ghostwriter reappears in the text's square and cannot Inhabit Text again for 1d4 rounds."
+    desc: "`pf2:2`  The ghostwriter possesses a book, scroll, roll of parchment, or similar-sized text within 20 feet. This has the same effect as the _[[Spells/Possession|Possession]]_ spell, except that the ghostwriter can target only works of text and the ghostwriter leaves no physical body behind while it possesses a text.\n\nIf a creature is holding the text the ghostwriter is attempting to inhabit, that creature can attempt a DC 24 Will save to prevent the possession. The possessed text has the same statistics and abilities as the ghostwriter. If the ghostwriter is destroyed while possessing a text, the text is destroyed as well.\n\nWhen the possession ends, the ghostwriter reappears in the text's square and cannot Inhabit Text again for 1d4 rounds."
 
   - name: "Quick Study"
-    desc: "`pf2:1`  **Requirements** The ghostwriter is possessing a spellbook using Inhabit Text;\n**Effect** The ghostwriter changes one of its arcane prepared spells to a spell of the same spell level contained within the spellbook."
+    desc: "`pf2:1`  **Requirements** The ghostwriter is possessing a spellbook using Inhabit Text;\n\n**Effect** The ghostwriter changes one of its arcane prepared spells to a spell of the same spell level contained within the spellbook."
  
+```
+
+```encounter-table
+name: Ghostwriter
+creatures:
+  - 1: Ghostwriter
 ```
 
 

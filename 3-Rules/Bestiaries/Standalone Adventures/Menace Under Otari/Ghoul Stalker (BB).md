@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/ghoul
   - pf2e/creature/type/undead
   - pf2e/creature/type/unholy
+  - pf2eMonster
   - pf2e/creature/level/1
   - remaster
 statblock: inline
@@ -26,13 +27,14 @@ level: "Creature 1"
 
 alignment: ""
 size: "Medium"
-trait_01: "ghoul"
-trait_02: "undead"
-trait_03: "unholy"
+trait_01: [[ghoul]]
+trait_02: [[undead]]
+trait_03: [[unholy]]
 modifier: 7
 perception:
   - name: "Perception"
     desc: "+7; Darkvision"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Acrobatics: +7, Athletics: +8, Stealth: +7, Survival: +5"
@@ -54,7 +56,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Stench"
-    desc: "  A creature that comes within 10 feet of the ghoul and can smell the ghoul must attempt a DC 14 Fortitude check save. On a failure, the creature takes a -1 status penalty to all checks and DCs until it uses an action to retch ([[Conditions/Sickened 1|Sickened 1]]). A creature that succeeds at its save isn't affected by any ghoul's stench for 1 minute."
+    desc: "  A creature that comes within 10 feet of the ghoul and can smell the ghoul must attempt a DC 14 Fortitude check save. On a failure, the creature takes a -1 status penalty to all checks and DCs until it uses an action to retch ([[Conditions/Sickened|Sickened 1]]). A creature that succeeds at its save isn't affected by any ghoul's stench for 1 minute."
 
 attacks:
   - name: ""
@@ -66,7 +68,7 @@ attacks:
     desc: "`pf2:1` Claw +9 (agile, finesse)\n__Damage__  1d6 + 1 slashing"
 
   - name: "[[Creature Family Ability Glossary/(Ghoul) Consume Flesh|Consume Flesh]]"
-    desc: "`pf2:1` (manipulate) The ghoul devours a chunk of a creature that died within the last hour and regains 1d6 Hit Points.\nThe ghoul can regain Hit Points from a given body only once."
+    desc: "`pf2:1` (manipulate) The ghoul devours a chunk of a creature that died within the last hour and regains 1d6 Hit Points.\n\nThe ghoul can regain Hit Points from a given body only once."
 
   - name: "Sneak Attack"
     desc: "  The ghoul stalker deals an extra 1d4 damage to creatures that have the [[Conditions/Off-Guard|Off-Guard]] condition."
@@ -74,6 +76,12 @@ attacks:
   - name: "[[Creature Family Ability Glossary/(Ghoul) Swift Leap|Swift Leap]]"
     desc: "`pf2:1` (move) The ghoul jumps up to half its Speed. This movement doesn't trigger reactions."
  
+```
+
+```encounter-table
+name: Ghoul Stalker (BB)
+creatures:
+  - 1: Ghoul Stalker (BB)
 ```
 
 

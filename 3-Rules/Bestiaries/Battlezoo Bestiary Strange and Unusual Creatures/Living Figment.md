@@ -7,6 +7,7 @@ aliases: "Compendium.battlezoo-bestiary-su-pf2e.pf2e-battlezoo-su-actors.Actor.R
 tags:
   - pf2e/creature/type/illusion
   - pf2e/creature/type/incorporeal
+  - pf2eMonster
   - pf2e/creature/level/6
 statblock: inline
 name: "Living Figment"
@@ -22,19 +23,19 @@ token: [[modules/battlezoo-bestiary-su-pf2e/art/Portraits/living-figment.webp| ]
 source: "Battlezoo Bestiary: Strange and Unusual"
 name: "Living Figment"
 level: "Creature 6"
-rare_03: "Rare"
+rare_03: [[Rare]]
 alignment: ""
 size: "Large"
-trait_01: "illusion"
-trait_02: "incorporeal"
+trait_01: [[illusion]]
+trait_02: [[incorporeal]]
 modifier: 14
 perception:
   - name: "Perception"
     desc: "+14; "
-languages: "Common"
+languages: "Common; plus any languages known by its creator"
 skills:
   - name: "Skills"
-    desc: "Deception: +17, Intimidation: +15, Performance: +13, Stealth: +17, "
+    desc: "Deception: +17, Intimidation: +15, Performance: +13, Stealth: +17, Deception: +17, Intimidation: +15, Performance: +13, Stealth: +17"
 abilityMods: [-5, 5, 2, 3, 4, 5]
 speed:  fly 40 feet
 sourcebook: "_Battlezoo Bestiary: Strange and Unusual_"
@@ -65,11 +66,17 @@ attacks:
     desc: "  A living figment's attacks deal damage because the target believes they are real. The first time each round a creature is hit by a living figment's Strike, they can attempt a DC 25 Will check save to disbelieve the illusory attack. On a failure, they take damage as normal. On a success, the creature disbelieves the illusion, causing the living figment's subsequent illusory weapon Strikes to gain the nonlethal trait against that creature and deal half damage to that creature."
 
   - name: "Fanciful Forms"
-    desc: "`pf2:1` (auditory,illusion,olfactory,visual) A living figment is unbound to any form; they can appear as anything that can fit inside a 10 foot by 10 foot square. A living figment that isn't adjacent to a hostile creature can choose to perfectly mimic the terrain in which it finds itself, allowing it to hide even while it's directly observed. The living figment makes a Stealth check as part of using Fanciful Forms, becoming Hidden on a success. In addition, it can choose to conceal traps or other hazards in the area by changing into a form that obscures them or covers them up, using the figment's Stealth or Stealth DC instead of the hazard's, if it is higher."
+    desc: "`pf2:1` (auditory,illusion,olfactory,visual) A living figment is unbound to any form; they can appear as anything that can fit inside a 10 foot by 10 foot square. A living figment that isn't adjacent to a hostile creature can choose to perfectly mimic the terrain in which it finds itself, allowing it to hide even while it's directly observed. The living figment makes a Stealth check as part of using Fanciful Forms, becoming [[undefined]] on a success. In addition, it can choose to conceal traps or other hazards in the area by changing into a form that obscures them or covers them up, using the figment's Stealth or Stealth DC instead of the hazard's, if it is higher."
 
   - name: "Sensory Overload"
-    desc: "`pf2:2` (illusion,mental,occult) The living figment takes the form of a bewildering cacophony of nonsensical sounds, sights, and even smells to disorient its enemies. Each creature within a 20-foot emanation must attempt a DC 22 Fortitude check save. This ability can only affect creatures with precise auditory, olfactory, or visual senses, but not living figments.\n**Critical Success** The creature is unaffected and is temporarily immune for 1 minute.\n**Success** The creature is Dazzled for 1 round. It can spend an Interact action to end the effect.\n**Failure** The creature is dazzled for 1 minute. It can spend an Interact action to reduce the duration by 1d4 rounds.\n**Critical Failure** The creature is Blinded for 1 minute. It can spend one Interact action to reduce the effect to dazzled."
+    desc: "`pf2:2` (illusion,mental,occult) The living figment takes the form of a bewildering cacophony of nonsensical sounds, sights, and even smells to disorient its enemies. Each creature within a 20-foot emanation must attempt a DC 22 Fortitude check save. This ability can only affect creatures with precise auditory, olfactory, or visual senses, but not living figments.\n* * *\n\n**Critical Success** The creature is unaffected and is temporarily immune for 1 minute.\n\n**Success** The creature is [[undefined]] for 1 round. It can spend an Interact action to end the effect.\n\n**Failure** The creature is dazzled for 1 minute. It can spend an Interact action to reduce the duration by 1d4 rounds.\n\n**Critical Failure** The creature is [[undefined]] for 1 minute. It can spend one Interact action to reduce the effect to dazzled."
  
+```
+
+```encounter-table
+name: Living Figment
+creatures:
+  - 1: Living Figment
 ```
 
 

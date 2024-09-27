@@ -29,9 +29,9 @@ Your religious symbol glows with sacred energy, turning the attacker's strength 
 
 * * *
 
-**Critical Success** The creature is [[Conditions/Enfeebled 1|Enfeebled 2]] until it spends at least 1 action moving away from you.
+**Critical Success** The creature is [[Conditions/Enfeebled|Enfeebled 2]] until it spends at least 1 action moving away from you.
 
-**Success** As critical success, but [[Conditions/Enfeebled 1|Enfeebled 1]].
+**Success** As critical success, but [[Conditions/Enfeebled|Enfeebled 1]].
 
 *Source: Pathfinder Player Core*
 *ORC*

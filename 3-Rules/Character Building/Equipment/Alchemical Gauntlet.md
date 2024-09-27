@@ -14,7 +14,7 @@ license: OGL
 ---
 # Alchemical Gauntlet
 ## Item 1
-### [[agile]][[alchemical]][[free-hand]]
+### [[3-Rules/Rule References/Agile]][[alchemical]][[free-hand]]
 
 |  |  |
 | -- | -- |

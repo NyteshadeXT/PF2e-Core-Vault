@@ -3,13 +3,13 @@ obsidianUIMode: preview
 title: "Cartographer's Kit"
 cssclasses: pf2e,pf2e-action
 tags:
-  - trait/uncommon
+  - trait/
 aliases: "Compendium.pf2e.equipment-srd.Item.YQLWR9cCXQY5xaaG"
 license: OGL
 ---
 # Cartographer's Kit
 
-### [uncommon](uncommon "Uncommon Rarity Trait")
+### 
 
 
 **Price** 42 gp; 

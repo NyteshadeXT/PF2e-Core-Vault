@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.pathfinder-monster-core.Actor.aeOzCBpwnUVcpqxI"
 tags:
   - pf2e/creature/type/fey
   - pf2e/creature/type/gremlin
+  - pf2eMonster
   - pf2e/creature/level/0
   - remaster
 statblock: inline
@@ -26,8 +27,8 @@ level: "Creature 0"
 
 alignment: ""
 size: "tiny"
-trait_01: "fey"
-trait_02: "gremlin"
+trait_01: [[fey]]
+trait_02: [[gremlin]]
 modifier: 6
 perception:
   - name: "Perception"
@@ -69,6 +70,12 @@ attacks:
   - name: "Primal Innate Spells"
     desc: "DC 16, attack +8; __2nd __  _[[Spells/Speak with Animals|Speak with Animals (At Will)]]_\n__Cantrips__  __(1st)__ _[[Spells/Prestidigitation|Prestidigitation]]_"
  
+```
+
+```encounter-table
+name: Pugwampi
+creatures:
+  - 1: Pugwampi
 ```
 
 

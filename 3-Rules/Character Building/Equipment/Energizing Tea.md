@@ -14,7 +14,7 @@ license: OGL
 ---
 # Energizing Tea
 ## Item 4
-### [uncommon](uncommon "Uncommon Rarity Trait")[[consumable]][[magical]][[potion]][[tea]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[consumable]][[3-Rules/Rule References/Magical]][[potion]][[tea]]
 
 **Category** potion; 
 **Price** 20 gp; 

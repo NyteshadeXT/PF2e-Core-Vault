@@ -13,7 +13,7 @@ license: OGL
 ---
 # Drink from the Chalice `pf2:1`
 
-### [[magical]][[manipulate]][[thaumaturge]]
+### [[3-Rules/Rule References/Magical]][[3-Rules/Rule References/Manipulate]][[thaumaturge]]
 
 **Category** defensive; 
 

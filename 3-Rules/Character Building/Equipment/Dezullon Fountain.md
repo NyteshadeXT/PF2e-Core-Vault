@@ -16,7 +16,7 @@ license: OGL
 ---
 # Dezullon Fountain
 ## Item 11
-### [uncommon](uncommon "Uncommon Rarity Trait")[[3-Rules/Rule References/Acid]][[agile]][[magical]][[plant]][[repeating]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[3-Rules/Rule References/Acid]][[3-Rules/Rule References/Agile]][[3-Rules/Rule References/Magical]][[3-Rules/trait_reference/plant]][[repeating]]
 
 |  |  |
 | -- | -- |
@@ -46,9 +46,9 @@ A _dezullon fountain_ is a distinct type of _+2 striking air repeater_ made from
 
 **Stage 1** [[Conditions/Off-Guard|Off-Guard]] (1 round)
 
-**Stage 2** off-guard and [[Conditions/Clumsy 1|Clumsy 1]] (1 round)
+**Stage 2** off-guard and [[Conditions/Clumsy|Clumsy 1]] (1 round)
 
-**Stage 3** [[Conditions/Confused|Confused]], off-guard, and [[Conditions/Clumsy 1|Clumsy 2]] (1 round)
+**Stage 3** [[Conditions/Confused|Confused]], off-guard, and [[Conditions/Clumsy|Clumsy 2]] (1 round)
 
 * * *
 

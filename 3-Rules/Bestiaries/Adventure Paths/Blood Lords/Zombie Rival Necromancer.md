@@ -13,6 +13,7 @@ tags:
   - pf2e/creature/type/undead
   - pf2e/creature/type/unholy
   - pf2e/creature/type/zombie
+  - pf2eMonster
   - pf2e/creature/level/16
 statblock: inline
 name: "Zombie Rival Necromancer"
@@ -27,17 +28,17 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #186: Ghost King&#x27;s Rage"
 name: "Zombie Rival Necromancer"
 level: "Creature 16"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Medium"
-trait_01: "chaotic"
-trait_02: "evil"
-trait_03: "human"
-trait_04: "humanoid"
-trait_05: "mindless"
-trait_06: "undead"
-trait_07: "unholy"
-trait_08: "zombie"
+trait_01: [[chaotic]]
+trait_02: [[evil]]
+trait_03: [[human]]
+trait_04: [[humanoid]]
+trait_05: [[mindless]]
+trait_06: [[undead]]
+trait_07: [[unholy]]
+trait_08: [[zombie]]
 modifier: 28
 perception:
   - name: "Perception"
@@ -65,7 +66,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Slow"
-    desc: "  A zombie is permanently [[Conditions/Slowed 1|Slowed 1]] and can't use reactions."
+    desc: "  A zombie is permanently [[Conditions/Slowed|Slowed 1]] and can't use reactions."
 
 attacks:
   - name: ""
@@ -83,11 +84,17 @@ attacks:
     desc: "2 Focus Points, DC 41, attack +33; __8th __  _[[Spells/Call of the Grave|Call of the Grave]]_, _[[Spells/Life Siphon|Life Siphon]]_"
 
   - name: "Bolster Dead"
-    desc: "  **Frequency** once per turn\n**Requirements** Your most recent action was to cast a non-cantrip necromancy spell\n**Effect** You harness the residual energy from the spell you last cast into the body of an undead creature within 30 feet. That creature's resistances increase by an amount equal to the rank of the spell cast until the beginning of the next turn."
+    desc: "  **Frequency** once per turn\n\n**Requirements** Your most recent action was to cast a non-cantrip necromancy spell\n* * *\n\n**Effect** You harness the residual energy from the spell you last cast into the body of an undead creature within 30 feet. That creature's resistances increase by an amount equal to the rank of the spell cast until the beginning of the next turn."
 
   - name: "Drain Bonded Item"
-    desc: " (arcane) **Frequency** once per day\n**Requirements** The necromancer hasn't acted yet on this turn\n**Effect** The necromancer expends the power stored in their dagger. This gives them the ability to cast one prepared spell they prepared today and already cast, without spending a spell slot."
+    desc: " (arcane) **Frequency** once per day\n\n**Requirements** The necromancer hasn't acted yet on this turn\n* * *\n\n**Effect** The necromancer expends the power stored in their dagger. This gives them the ability to cast one prepared spell they prepared today and already cast, without spending a spell slot."
  
+```
+
+```encounter-table
+name: Zombie Rival Necromancer
+creatures:
+  - 1: Zombie Rival Necromancer
 ```
 
 

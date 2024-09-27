@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/humanoid
   - pf2e/creature/type/kobold
   - pf2e/creature/type/lawful
+  - pf2eMonster
   - pf2e/creature/level/2
 statblock: inline
 name: "Dark Talon Kobold"
@@ -23,13 +24,13 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Adventure: Crown of the Kobold King"
 name: "Dark Talon Kobold"
 level: "Creature 2"
-rare_03: "Rare"
+rare_03: [[Rare]]
 alignment: ""
 size: "Small"
-trait_01: "evil"
-trait_02: "humanoid"
-trait_03: "kobold"
-trait_04: "lawful"
+trait_01: [[evil]]
+trait_02: [[humanoid]]
+trait_03: [[kobold]]
+trait_04: [[lawful]]
 modifier: 8
 perception:
   - name: "Perception"
@@ -37,7 +38,7 @@ perception:
 languages: "Common, Draconic"
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +8, Athletics: +7, Crafting: +6 (+8 traps), Stealth: +8, Survival: +8"
+    desc: "Acrobatics: +8, Athletics: +7, Crafting: +6, Stealth: +8, Survival: +8"
 abilityMods: [1, 4, 3, 0, 2, 0]
 speed: 25 feet
 sourcebook: "_Pathfinder Adventure: Crown of the Kobold King_"
@@ -66,11 +67,17 @@ attacks:
     desc: "`pf2:1` Flying Talon +10 (agile, ranged trip, tethered, thrown 10 ft., trip)\n__Damage__  1d4 + 3 piercing"
 
   - name: "No Retreat"
-    desc: "`pf2:1` (primal) **Frequency** once per day; Requirement The Dark Talon kobold is adjacent to at least one enemy, and the Dark Talon has fewer than 12 Hit Points;\n**Effect** The Dark Talon shrieks in fury and regains 2d6 Hit Points."
+    desc: "`pf2:1` (primal) **Frequency** once per day; Requirement The Dark Talon kobold is adjacent to at least one enemy, and the Dark Talon has fewer than 12 Hit Points;\n\n**Effect** The Dark Talon shrieks in fury and regains 2d6 Hit Points."
 
   - name: "[[Bestiary Ability Glossary/Sneak Attack|Sneak Attack]]"
     desc: "  A Dark Talon kobold deals an additional 1d6 precision damage to [[Conditions/Off-Guard|Off-Guard]] creatures."
  
+```
+
+```encounter-table
+name: Dark Talon Kobold
+creatures:
+  - 1: Dark Talon Kobold
 ```
 
 

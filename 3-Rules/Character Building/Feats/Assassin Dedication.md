@@ -7,8 +7,9 @@ tags:
   - trait/dedication
   - trait/common
   - category/class
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.iBmqKjsq4iTtoqvl"
-license: OGL
+license: ORC
 ---
 # Assassin Dedication
 ## Feat 2
@@ -18,11 +19,11 @@ license: OGL
 
 
 
-**Prerequisites** Alchemical Crafting; trained in Crafting; trained in Deception; trained in Stealth
+**Prerequisites** trained in Deception; trained in Stealth
 * * *
 You've trained to assassinate your foes, and you do so with tenacity and precision. You gain the [[Actions/Mark for Death|Mark for Death]] activity.
 
-**Special** You can't select another dedication feat until you've gained two other feats from the [[PF2e Journals/Archetypes/Assassin|Assassin]] archetype.
+[[PF2e Journals/Archetypes/Assassin|Assassin]]
 
-*Source: Pathfinder Advanced Player's Guide*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

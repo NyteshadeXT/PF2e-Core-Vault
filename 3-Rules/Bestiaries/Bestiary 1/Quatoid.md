@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/elemental
   - pf2e/creature/type/lawful
   - pf2e/creature/type/water
+  - pf2eMonster
   - pf2e/creature/level/7
 statblock: inline
 name: "Quatoid"
@@ -27,10 +28,10 @@ level: "Creature 7"
 
 alignment: ""
 size: "Small"
-trait_01: "aquatic"
-trait_02: "elemental"
-trait_03: "lawful"
-trait_04: "water"
+trait_01: [[aquatic]]
+trait_02: [[elemental]]
+trait_03: [[lawful]]
+trait_04: [[water]]
 modifier: 18
 perception:
   - name: "Perception"
@@ -38,7 +39,7 @@ perception:
 languages: "Common, Thalassic"
 skills:
   - name: "Skills"
-    desc: "Athletics: +15, Diplomacy: +12, Elemental Lore: +17, Occultism: +17, Society: +17, Stealth: +13"
+    desc: "Athletics: +15, Diplomacy: +12, Occultism: +17, Society: +17, Stealth: +13, Elemental Lore: +17"
 abilityMods: [4, 2, 0, 4, 3, 1]
 speed: 25 feet,  swim 25 feet
 sourcebook: "_Pathfinder Bestiary_"
@@ -57,7 +58,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Calming Bioluminescence"
-    desc: " (aura,emotion,mental,visual) 30 feet. The aura sheds dim light. Creatures in the emanation gain a +2 circumstance bonus to saving throws against emotion effects. The quatoid can activate or deactivate its calming bioluminescence as a single action, which has the concentrate trait.\n[[Bestiary Effects/Effect_ Calming Bioluminescence|Effect: Calming Bioluminescence]]"
+    desc: " (aura,emotion,mental,visual) 30 feet. The aura sheds dim light. Creatures in the emanation gain a +2 circumstance bonus to saving throws against emotion effects. The quatoid can activate or deactivate its calming bioluminescence as a single action, which has the concentrate trait.\n\n[[Bestiary Effects/Effect_ Calming Bioluminescence|Effect: Calming Bioluminescence]]"
 
 attacks:
   - name: ""
@@ -69,11 +70,17 @@ attacks:
     desc: "DC 27, attack +17; __2nd __  _[[Spells/Hydraulic Push|Hydraulic Push (At Will)]]_"
 
   - name: "[[Bestiary Ability Glossary/Constrict|Constrict]]"
-    desc: "`pf2:1`  1d12 + 6 bludgeoning, DC 25 Fortitude check\n"
+    desc: "`pf2:1`  1d12+6 bludgeoning, DC 25 Fortitude check\n\n* * *\n"
 
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
     desc: "`pf2:1`  "
  
+```
+
+```encounter-table
+name: Quatoid
+creatures:
+  - 1: Quatoid
 ```
 
 

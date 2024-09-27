@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.npc-gallery.Actor.sKSfQmJMEsj8QN12"
 tags:
   - pf2e/creature/type/human
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/-1
 statblock: inline
 name: "Adept"
@@ -24,8 +25,8 @@ level: "Creature -1"
 
 alignment: ""
 size: "Medium"
-trait_01: "human"
-trait_02: "humanoid"
+trait_01: [[human]]
+trait_02: [[humanoid]]
 modifier: 4
 perception:
   - name: "Perception"
@@ -33,7 +34,7 @@ perception:
 languages: "Common"
 skills:
   - name: "Skills"
-    desc: "Arcana: +5, Diplomacy: +3, Occultism: +7, Scribing Lore: +5, Society: +5"
+    desc: "Arcana: +5, Diplomacy: +3, Occultism: +7, Society: +5, Scribing Lore: +5"
 abilityMods: [0, 2, 0, 3, 2, 1]
 speed: 25 feet
 sourcebook: "_Pathfinder Gamemastery Guide_"
@@ -67,6 +68,12 @@ attacks:
   - name: "Occult Spells Known"
     desc: "DC 14, attack +6\n__Cantrips__  __(1st)__ _[[Spells/Daze|Daze]]_, _[[Spells/Detect Magic|Detect Magic]]_, _[[Spells/Telekinetic Hand|Mage Hand]]_"
  
+```
+
+```encounter-table
+name: Adept
+creatures:
+  - 1: Adept
 ```
 
 

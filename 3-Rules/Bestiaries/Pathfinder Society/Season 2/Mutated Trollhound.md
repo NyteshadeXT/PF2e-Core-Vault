@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.pfs-season-2-bestiary.Actor.ad58hkodIp5UjPa3"
 tags:
   - pf2e/creature/type/beast
   - pf2e/creature/type/troll
+  - pf2eMonster
   - pf2e/creature/level/5
 statblock: inline
 name: "Mutated Trollhound"
@@ -21,15 +22,16 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Society Scenario #2-03: Catastrophe&#x27;s Spark"
 name: "Mutated Trollhound"
 level: "Creature 5"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Medium"
-trait_01: "beast"
-trait_02: "troll"
+trait_01: [[beast]]
+trait_02: [[troll]]
 modifier: 9
 perception:
   - name: "Perception"
     desc: "+9; Darkvision, Scent (Imprecise) 30 Feet"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Acrobatics: +13, Athletics: +14, Stealth: +11, Survival: +9"
@@ -57,7 +59,7 @@ attacks:
     desc: "`pf2:1` Jaws +11 ()\n__Damage__  1d12 + 4 piercing plus bloodfire-fever,knockdown"
 
   - name: "Bloodfire Fever"
-    desc: " (disease) **Saving Throw** Fortitude\n**Stage 1** carrier with no ill effect (1 day)\n**Stage 2** [[Conditions/Enfeebled 1|Enfeebled 1]] (1 day)\n**Stage 3** Enfeebled 1 and [[Conditions/Clumsy 1|Clumsy 1]] (1 day)\n**Stage 4** [[Conditions/Enfeebled 1|Enfeebled 2]] and [[Conditions/Clumsy 1|Clumsy 2]] (1 day)\n**Stage 5** Enfeebled 2, Clumsy 2, and [[Conditions/Fatigued|Fatigued]] (1 day)"
+    desc: " (disease) **Saving Throw** Fortitude\n\n**Stage 1** carrier with no ill effect (1 day)\n\n**Stage 2** [[Conditions/Enfeebled|Enfeebled 1]] (1 day)\n\n**Stage 3** Enfeebled 1 and [[Conditions/Clumsy|Clumsy 1]] (1 day)\n\n**Stage 4** [[Conditions/Enfeebled|Enfeebled 2]] and [[Conditions/Clumsy|Clumsy 2]] (1 day)\n\n**Stage 5** Enfeebled 2, Clumsy 2, and [[Conditions/Fatigued|Fatigued]] (1 day)"
 
   - name: "Pack Attack"
     desc: "  The trollhound deals an extra 1d6 damage to any creature within reach of at least two of the trollhound's allies."
@@ -65,6 +67,12 @@ attacks:
   - name: "[[Bestiary Ability Glossary/Knockdown|Knockdown]]"
     desc: "`pf2:1`  "
  
+```
+
+```encounter-table
+name: Mutated Trollhound
+creatures:
+  - 1: Mutated Trollhound
 ```
 
 

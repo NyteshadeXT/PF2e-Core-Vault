@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/earth
   - pf2e/creature/type/fey
   - pf2e/creature/type/nymph
+  - pf2eMonster
   - pf2e/creature/level/5
 statblock: inline
 name: "Vekensvok&#x27;s Lampad"
@@ -26,10 +27,10 @@ level: "Creature 5"
 
 alignment: ""
 size: "Medium"
-trait_01: "chaotic"
-trait_02: "earth"
-trait_03: "fey"
-trait_04: "nymph"
+trait_01: [[chaotic]]
+trait_02: [[earth]]
+trait_03: [[fey]]
+trait_04: [[nymph]]
 modifier: 12
 perception:
   - name: "Perception"
@@ -56,7 +57,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Cavern Dependent"
-    desc: "  A lampad is mystically bonded to a single cavern or other self-contained underground area and must remain within 300 feet of it.\nIf they move beyond that range, they become [[Conditions/Sickened 1|Sickened 1]] and are unable to recover. They must attempt a DC 19 Fortitude check save every hour or increase the sickened value by 1 (to a maximum of sickened 4).\nAfter 24 hours, they become [[Conditions/Drained 1|Drained 1]], with this value increasing by 1 every additional 24 hours. A lampad can perform a 24-hour ritual to bond to a new cavern."
+    desc: "  A lampad is mystically bonded to a single cavern or other self-contained underground area and must remain within 300 feet of it.\n\nIf they move beyond that range, they become [[Conditions/Sickened|Sickened 1]] and are unable to recover. They must attempt a DC 19 Fortitude check save every hour or increase the sickened value by 1 (to a maximum of sickened 4).\n\nAfter 24 hours, they become [[Conditions/Drained|Drained 1]], with this value increasing by 1 every additional 24 hours. A lampad can perform a 24-hour ritual to bond to a new cavern."
 
 attacks:
   - name: ""
@@ -71,8 +72,14 @@ attacks:
     desc: "DC 22, attack +14; __4th __  _[[Spells/Shape Stone|Shape Stone]]_; __3rd __  _[[Spells/One with Stone|Meld into Stone (At Will)]]_, _[[Spells/Pummeling Rubble|Pummeling Rubble]]_; __2nd __  _[[Spells/Faerie Fire|Faerie Fire]]_, _[[Spells/Heal|Heal]]_\n__Cantrips__  __(4th)__ _[[Compendium.pf2e.spells-srd.Item.kl2q6JvBZwed4B6v|Dancing Lights]]_"
 
   - name: "Weep"
-    desc: "`pf2:1` (auditory,emotion,mental,primal) **Frequency** once per round\n**Effect** The lampad begins a heart-wrenching fit of weeping, inspiring sympathetic sobbing in nearby creatures. Each non-lampad creature within 30 feet who hears the lampad's weeping must succeed at a DC 20 Will check save or be unable to use reactions for 1 round and [[Conditions/Slowed 1|Slowed 1]] on its next turn as it sobs uncontrollably."
+    desc: "`pf2:1` (auditory,emotion,mental,primal) **Frequency** once per round\n* * *\n\n**Effect** The lampad begins a heart-wrenching fit of weeping, inspiring sympathetic sobbing in nearby creatures. Each non-lampad creature within 30 feet who hears the lampad's weeping must succeed at a DC 20 Will check save or be unable to use reactions for 1 round and [[Conditions/Slowed|Slowed 1]] on its next turn as it sobs uncontrollably."
  
+```
+
+```encounter-table
+name: Vekensvok's Lampad
+creatures:
+  - 1: Vekensvok's Lampad
 ```
 
 

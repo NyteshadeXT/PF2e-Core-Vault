@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.pathfinder-bestiary-3.Actor.Wu6vmegKwR4bgLse"
 tags:
   - pf2e/creature/type/aberration
   - pf2e/creature/type/dream
+  - pf2eMonster
   - pf2e/creature/level/14
 statblock: inline
 name: "Dramofir"
@@ -22,18 +23,19 @@ token: [[modules/pf2e-tokens-bestiaries/portraits/planar/dream/dramofir.webp| ]]
 source: "Pathfinder Bestiary 3"
 name: "Dramofir"
 level: "Creature 14"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Large"
-trait_01: "aberration"
-trait_02: "dream"
+trait_01: [[aberration]]
+trait_02: [[dream]]
 modifier: 28
 perception:
   - name: "Perception"
     desc: "+28; Greater Darkvision"
+languages: "telepathy 100 feet, tongues"
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +26, Diplomacy: +27, Dreamlands Lore: +23, Occultism: +21, Stealth: +28"
+    desc: "Acrobatics: +26, Diplomacy: +27, Occultism: +21, Stealth: +28, Dreamlands Lore: +23"
 abilityMods: [3, 6, 4, 1, 8, 7]
 speed: 25 feet,  fly 25 feet
 sourcebook: "_Pathfinder Bestiary 3_"
@@ -67,11 +69,17 @@ attacks:
     desc: "DC 36, attack +28; __8th __  _[[Spells/Dream Council|Dream Council]]_; __7th __  _[[Spells/Darkness|Darkness]]_, _[[Spells/Mask of Terror|Mask of Terror]]_, _[[Spells/Nightmare|Nightmare]]_, _[[Spells/Sleep|Sleep]]_, _[[Spells/Soothe|Soothe (x2)]]_; __4th __  _[[Spells/Translocate|Dimension Door (At Will)]]_\n__Constant__  __(5th)__ _[[Spells/Truespeech|Tongues]]_"
 
   - name: "Bittersweet Dreams"
-    desc: "`pf2:2` (emotion,mental,occult,visual) The dramofir swishes their robes in a mesmerizing display that brings the dreams in the robes to life before the viewer's very eyes. Each creature within 30 feet must attempt a DC 34 Will check save or be filled with ennui.\n**Critical Success** The creature is unaffected and temporarily immune for 24 hours.\n**Success** For 1 round, the creature takes a -1 status penalty to attack rolls, saving throws, and skill checks, and all other emotion effects on it are suppressed.\n**Failure** As success, but the creature is also [[Conditions/Slowed 1|Slowed 1]] and the duration is 1d4 rounds.\n**Critical Failure** As success, but the creature is also slowed 1, the status penalty is -2, and the duration is 1 minute.\n[[Bestiary Effects/Effect_ Bittersweet Dreams|Effect: Bittersweet Dreams]]"
+    desc: "`pf2:2` (emotion,mental,occult,visual) The dramofir swishes their robes in a mesmerizing display that brings the dreams in the robes to life before the viewer's very eyes. Each creature within 30 feet must attempt a DC 34 Will check save or be filled with ennui.\n* * *\n\n**Critical Success** The creature is unaffected and temporarily immune for 24 hours.\n\n**Success** For 1 round, the creature takes a -1 status penalty to attack rolls, saving throws, and skill checks, and all other emotion effects on it are suppressed.\n\n**Failure** As success, but the creature is also [[Conditions/Slowed|Slowed 1]] and the duration is 1d4 rounds.\n\n**Critical Failure** As success, but the creature is also slowed 1, the status penalty is -2, and the duration is 1 minute.\n\n[[Bestiary Effects/Effect_ Bittersweet Dreams|Effect: Bittersweet Dreams]]"
 
   - name: "Pluck Dream"
-    desc: "`pf2:3` (mental,occult) **Requirements** The dramofir is adjacent to an [[Conditions/Unconscious|Unconscious]] or sleeping creature\n**Effect** The dramofir licks the creature's forehead, places their hand in the same spot, and siphons the creature's dreams to incorporate into their robes.\nIf the target is affected by any mental effect altering their dreams, such as an [[Bestiary 2/Animate Dream|Animate Dream's]] curse of endless nightmares or a [[Spells/Nightmare|Nightmare]] spell, the dramofir attempts to counteract that effect (counteract modifier +26). Otherwise, the dramofir plucks a benign dream from the creature, and the target must attempt a DC 36 Will check save.\n**Success** The creature is unaffected.\n**Failure** The creature is [[Conditions/Stupefied 1|Stupefied 1]] until the next time it gets a full night's rest.\n**Critical Failure** As failure, but [[Conditions/Stupefied 1|Stupefied 2]], and the dramofir casts a 6th-rank [[Spells/Rewrite Memory|Rewrite Memory]] spell on the target."
+    desc: "`pf2:3` (mental,occult) **Requirements** The dramofir is adjacent to an [[Conditions/Unconscious|Unconscious]] or sleeping creature\n* * *\n\n**Effect** The dramofir licks the creature's forehead, places their hand in the same spot, and siphons the creature's dreams to incorporate into their robes.\n\nIf the target is affected by any mental effect altering their dreams, such as an [[Bestiary 2/Animate Dream|Animate Dream's]] curse of endless nightmares or a [[Spells/Nightmare|Nightmare]] spell, the dramofir attempts to counteract that effect (counteract modifier +26). Otherwise, the dramofir plucks a benign dream from the creature, and the target must attempt a DC 36 Will check save.\n* * *\n\n**Success** The creature is unaffected.\n\n**Failure** The creature is [[Conditions/Stupefied|Stupefied 1]] until the next time it gets a full night's rest.\n\n**Critical Failure** As failure, but [[Conditions/Stupefied|Stupefied 2]], and the dramofir casts a 6th-rank [[Spells/Rewrite Memory|Rewrite Memory]] spell on the target."
  
+```
+
+```encounter-table
+name: Dramofir
+creatures:
+  - 1: Dramofir
 ```
 
 

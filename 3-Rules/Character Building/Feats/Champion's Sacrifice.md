@@ -6,8 +6,9 @@ tags:
   - trait/champion
   - trait/common
   - category/class
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.U4AoJMBhJaFq5O1S"
-license: OGL
+license: ORC
 ---
 # Champion's Sacrifice
 ## Feat 12
@@ -17,9 +18,9 @@ license: OGL
 
 
 
-**Prerequisites** tenets of good
+**Prerequisites** you aren't unholy
 * * *
-You can suffer so that others might live. You can cast the [[Spells/Champion's Sacrifice|Champion's Sacrifice]] devotion spell. Increase the number of Focus Points in your focus pool by 1.
+You can suffer so that others might live. You can cast the [[Spells/Champion's Sacrifice|Champion's Sacrifice]] devotion spell.
 
-*Source: Pathfinder Core Rulebook*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

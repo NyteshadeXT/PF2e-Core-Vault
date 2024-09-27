@@ -6,6 +6,7 @@ cssClasses: pf2e
 aliases: "Compendium.pf2e.fists-of-the-ruby-phoenix-bestiary.Actor.tBQgipDUVhamBNrZ" 
 tags:
   - pf2e/creature/type/animal
+  - pf2eMonster
   - pf2e/creature/level/10
 statblock: inline
 name: "Dromornis"
@@ -20,14 +21,15 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #166: Despair on Danger Island"
 name: "Dromornis"
 level: "Creature 10"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Large"
-trait_01: "animal"
+trait_01: [[animal]]
 modifier: 19
 perception:
   - name: "Perception"
     desc: "+19; Low-Light Vision, Scent (Imprecise) 30 Feet"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Acrobatics: +18, Athletics: +22, Deception: +14, Stealth: +20"
@@ -47,7 +49,7 @@ abilities_top:
   - name: ""
 
   - name: "Pack Ambush"
-    desc: "  **Trigger** Another dromornis within 10 feet Strides.\n**Effect** The dromornis Strides up to half its Speed."
+    desc: "  **Trigger** Another dromornis within 10 feet Strides.\n* * *\n\n**Effect** The dromornis Strides up to half its Speed."
 
 abilities_mid:
   - name: ""
@@ -67,8 +69,14 @@ attacks:
     desc: "`pf2:2`  The dromornis suddenly Strides and makes a Strike at the end of its movement. During the Stride, it gains a +10-foot circumstance bonus to its Speed."
 
   - name: "[[Bestiary Ability Glossary/Trample|Trample]]"
-    desc: "`pf2:3`  Medium or smaller, talon, DC 26 Reflex check save\n"
+    desc: "`pf2:3`  Medium or smaller, talon, DC 26 Reflex check save\n\n* * *\n"
  
+```
+
+```encounter-table
+name: Dromornis
+creatures:
+  - 1: Dromornis
 ```
 
 

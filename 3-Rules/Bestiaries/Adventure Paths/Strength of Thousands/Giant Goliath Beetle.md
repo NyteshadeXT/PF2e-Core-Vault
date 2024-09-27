@@ -6,6 +6,7 @@ cssClasses: pf2e
 aliases: "Compendium.pf2e.strength-of-thousands-bestiary.Actor.TQyF26t10xdoqPWp" 
 tags:
   - pf2e/creature/type/animal
+  - pf2eMonster
   - pf2e/creature/level/3
 statblock: inline
 name: "Giant Goliath Beetle"
@@ -23,11 +24,12 @@ level: "Creature 3"
 
 alignment: ""
 size: "Large"
-trait_01: "animal"
+trait_01: [[animal]]
 modifier: 10
 perception:
   - name: "Perception"
     desc: "+10; Darkvision"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Acrobatics: +7, Athletics: +11"
@@ -58,8 +60,14 @@ attacks:
     desc: "`pf2:1` Foot +9 ()\n__Damage__  1d10 + 3 bludgeoning"
 
   - name: "[[Bestiary Ability Glossary/Trample|Trample]]"
-    desc: "`pf2:3`  Medium or smaller, foot, DC 19 Reflex check\n"
+    desc: "`pf2:3`  Medium or smaller, foot, DC 19 Reflex check\n\n* * *\n"
  
+```
+
+```encounter-table
+name: Giant Goliath Beetle
+creatures:
+  - 1: Giant Goliath Beetle
 ```
 
 

@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.pathfinder-monster-core.Actor.5KstOkXabrOlZaKR"
 tags:
   - pf2e/creature/type/monitor
   - pf2e/creature/type/psychopomp
+  - pf2eMonster
   - pf2e/creature/level/1
   - remaster
 statblock: inline
@@ -26,8 +27,8 @@ level: "Creature 1"
 
 alignment: ""
 size: "tiny"
-trait_01: "monitor"
-trait_02: "psychopomp"
+trait_01: [[monitor]]
+trait_02: [[psychopomp]]
 modifier: 6
 perception:
   - name: "Perception"
@@ -35,7 +36,7 @@ perception:
 languages: "Chthonian, Diabolic, Empyrean, Requian"
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +6, Boneyard Lore: +8, Library Lore: +8, Performance: +6, Religion: +6, Society: +2, Stealth: +6"
+    desc: "Acrobatics: +6, Performance: +6, Religion: +6, Society: +2, Stealth: +6, Boneyard Lore: +8, Library Lore: +8"
 abilityMods: [-1, 3, 1, 1, 1, 3]
 speed: 15 feet,  fly 40 feet
 sourcebook: "_Pathfinder Monster Core_"
@@ -66,11 +67,17 @@ attacks:
     desc: "`pf2:1` (concentrate,divine,polymorph) The nosoi takes the appearance of a raven or songbird. This doesn't change its Speed or its attack and damage modifiers with its Strikes.\n\n* * *\n"
 
   - name: "Haunting Melody"
-    desc: "`pf2:1` (auditory,concentrate,divine,incapacitation,mental) The nosoi croons an entrancing song. Each living or undead creature within a 60-foot emanation must attempt a DC 18 Will check save. The effect lasts until the end of the nosoi's next turn, but the nosoi can Sustain it. A creature that succeeds at its save is temporarily immune for 24 hours. Despite being a mental effect, this ability affects mindless undead.\n\nPsychopomps are immune to this ability.\n* * *\n\n**Failure** The creature is [[Conditions/Fascinated|Fascinated]] with the nosoi.\n\n**Critical Failure** The creature is fascinated with the nosoi and must spend each of its actions on its turn to move closer to the nosoi as expediently as possible while avoiding obvious dangers. If a fascinated creature is adjacent to the nosoi, it stays still and doesn't act. If the creature is attacked, the fascination ends."
+    desc: "`pf2:1` (auditory,concentrate,divine,incapacitation,mental) The nosoi croons an entrancing song. Each living or undead creature within a @Template[emanation|distance:60] must attempt a DC 18 Will check save. The effect lasts until the end of the nosoi's next turn, but the nosoi can Sustain it. A creature that succeeds at its save is temporarily immune for 24 hours. Despite being a mental effect, this ability affects mindless undead.\n\nPsychopomps are immune to this ability.\n* * *\n\n**Failure** The creature is [[Conditions/Fascinated|Fascinated]] with the nosoi.\n\n**Critical Failure** The creature is fascinated with the nosoi and must spend each of its actions on its turn to move closer to the nosoi as expediently as possible while avoiding obvious dangers. If a fascinated creature is adjacent to the nosoi, it stays still and doesn't act. If the creature is attacked, the fascination ends."
 
   - name: "Shepherd's Touch"
     desc: "  A nosoi's Strikes have the benefit of a _[[Equipment/Ghost Touch|Ghost Touch]]_ property rune and deal an additional 1d6 void damage to living creatures or 1d6 vitality damage to undead."
  
+```
+
+```encounter-table
+name: Nosoi
+creatures:
+  - 1: Nosoi
 ```
 
 

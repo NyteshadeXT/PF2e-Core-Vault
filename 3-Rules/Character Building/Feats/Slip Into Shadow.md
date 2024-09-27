@@ -19,7 +19,7 @@ license: OGL
 
 **Prerequisites** ability to cast at least one spell with the darkness trait
 * * *
-Your shadow magic bleeds into the space around you. Whenever you cast a spell with the darkness trait, a lingering aura of shadows reduces bright light within a 5-foot emanation around you to dim light until the end of your turn. Like in natural dim light, you can use these shadows to Hide, but the aura still makes your overall position obvious, so you can't become [[Conditions/Undetected|Undetected]] through the use of these shadows alone.
+Your shadow magic bleeds into the space around you. Whenever you cast a spell with the darkness trait, a lingering aura of shadows reduces bright light within a @Template\[emanation|distance:5\] around you to dim light until the end of your turn. Like in natural dim light, you can use these shadows to Hide, but the aura still makes your overall position obvious, so you can't become [[Conditions/Undetected|Undetected]] through the use of these shadows alone.
 
 *Source: Pathfinder Lost Omens: Ancestry Guide*
 *OGL*

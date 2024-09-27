@@ -22,7 +22,7 @@ license: OGL
 
 * * *
 
-**Effect** The ghast devours a chunk of the corpse and regains 2d6 Hit Points plus 1d6 for every 2 levels it has.
+**Effect** The ghast devours a chunk of the corpse and regains 2d6 healing Hit Points plus 1d6 for every 2 levels it has.
 
 It can regain Hit Points from any given corpse only once.
 

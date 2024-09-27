@@ -10,6 +10,7 @@ tags:
   - pf2e/creature/type/giant
   - pf2e/creature/type/humanoid
   - pf2e/creature/type/lawful
+  - pf2eMonster
   - pf2e/creature/level/10
 statblock: inline
 name: "Fire Giant"
@@ -28,11 +29,11 @@ level: "Creature 10"
 
 alignment: ""
 size: "Large"
-trait_01: "evil"
-trait_02: "fire"
-trait_03: "giant"
-trait_04: "humanoid"
-trait_05: "lawful"
+trait_01: [[evil]]
+trait_02: [[fire]]
+trait_03: [[giant]]
+trait_04: [[humanoid]]
+trait_05: [[lawful]]
 modifier: 18
 perception:
   - name: "Perception"
@@ -81,8 +82,14 @@ attacks:
     desc: "`pf2:2` (fire,primal) The fire giant imbues its blade with flames and makes a greatsword Strike with a -2 circumstance penalty against each creature in a 15-foot line. It makes only one attack roll and compares the result to each creature's AC. This Strike deals an additional 1d6 fire damage and counts as one attack for the fire giant's multiple attack penalty."
 
   - name: "[[Bestiary Ability Glossary/Throw Rock|Throw Rock]]"
-    desc: "`pf2:1` (fire) A rock thrown by a fire giant deals an additional 1d6 fire damage on a hit.\n"
+    desc: "`pf2:1` (fire) A rock thrown by a fire giant deals an additional 1d6 fire damage on a hit.\n\n* * *\n"
  
+```
+
+```encounter-table
+name: Fire Giant
+creatures:
+  - 1: Fire Giant
 ```
 
 

@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.abomination-vaults-bestiary.Actor.Nkz8Z5TrEqRePGlk"
 tags:
   - pf2e/creature/type/aberration
   - pf2e/creature/type/evil
+  - pf2eMonster
   - pf2e/creature/level/4
 statblock: inline
 name: "Scalathrax"
@@ -21,11 +22,11 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #163: Ruins of Gauntlight"
 name: "Scalathrax"
 level: "Creature 4"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Medium"
-trait_01: "aberration"
-trait_02: "evil"
+trait_01: [[aberration]]
+trait_02: [[evil]]
 modifier: 11
 perception:
   - name: "Perception"
@@ -52,7 +53,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Oily Scales"
-    desc: "  A scalathrax constantly sweats a glistening oil that makes it exceptionally slick. It treats the results of Acrobatics checks to [[Actions/Squeeze|Squeeze]] or of any skill check to [[Actions/Escape|Escape]] as one degree of success greater than the rolled result.\nA scalathrax loses this benefit for 1 minute after it takes any amount of fire damage."
+    desc: "  A scalathrax constantly sweats a glistening oil that makes it exceptionally slick. It treats the results of Acrobatics checks to [[Actions/Squeeze|Squeeze]] or of any skill check to [[Actions/Escape|Escape]] as one degree of success greater than the rolled result.\n\nA scalathrax loses this benefit for 1 minute after it takes any amount of fire damage."
 
 attacks:
   - name: ""
@@ -64,11 +65,17 @@ attacks:
     desc: "`pf2:1` Leg Quill +13 (range increment 20 feet)\n__Damage__  2d4 + 5 piercing"
 
   - name: "Scalathrax Venom"
-    desc: " (poison) **Saving Throw** DC 21 Fortitude check\n**Maximum Duration** 6 rounds\n**Stage 1** [[Conditions/Clumsy 1|Clumsy 1]] (1 round)\n**Stage 2** clumsy 1 and [[Conditions/Slowed 1|Slowed 1]] (1 round)\n**Stage 3** clumsy 1 and [[Conditions/Slowed 1|Slowed 2]] (1 round)"
+    desc: " (poison) **Saving Throw** DC 21 Fortitude check\n* * *\n\n**Maximum Duration** 6 rounds\n\n**Stage 1** [[Conditions/Clumsy|Clumsy 1]] (1 round)\n\n**Stage 2** clumsy 1 and [[Conditions/Slowed|Slowed 1]] (1 round)\n\n**Stage 3** clumsy 1 and [[Conditions/Slowed|Slowed 2]] (1 round)"
 
   - name: "Spray Toxic Oil"
-    desc: "`pf2:2` (primal) The scalathrax disgorges a gout of toxic oil from its mouth in a 15-foot cone. Creatures in the area must attempt a DC 21 Reflex check save.\nThe scalathrax can't use Toxic Oil Spray again for 1d4 rounds.\n**Critical Success** The creature is unaffected.\n**Success** The creature takes 1d8 poison damage.\n**Failure** The creature takes 2d8 poison damage. For 1 minute, the creature gains weakness to fire 5, and whenever the creature critically fails with an attack roll with a wielded weapon, it drops the weapon.\n**Critical Failure** As failure, but 4d8 poison damage.\n[[Bestiary Effects/Effect_ Spray Toxic Oil|Effect: Spray Toxic Oil]]"
+    desc: "`pf2:2` (primal) The scalathrax disgorges a gout of toxic oil from its mouth in a @Template[cone|distance:15]. Creatures in the area must attempt a DC 21 Reflex check save.\n\nThe scalathrax can't use Toxic Oil Spray again for 1d4 rounds.\n* * *\n\n**Critical Success** The creature is unaffected.\n\n**Success** The creature takes 1d8 poison damage.\n\n**Failure** The creature takes 2d8 poison damage. For 1 minute, the creature gains weakness to fire 5, and whenever the creature critically fails with an attack roll with a wielded weapon, it drops the weapon.\n\n**Critical Failure** As failure, but 4d8 poison damage.\n\n[[Bestiary Effects/Effect_ Spray Toxic Oil|Effect: Spray Toxic Oil]]"
  
+```
+
+```encounter-table
+name: Scalathrax
+creatures:
+  - 1: Scalathrax
 ```
 
 

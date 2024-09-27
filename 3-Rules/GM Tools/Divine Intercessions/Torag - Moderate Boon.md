@@ -17,7 +17,7 @@ license: OGL
 
 
 
-**Moderate Boon** You are counted as family among Torag and his followers.
+You are counted as family among Torag and his followers.
 
 You gain the effects of a single dwarf ancestry feat of Torag's choice, even if you are not a dwarf, as long as you maintain Torag's blessing.
 

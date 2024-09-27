@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.pfs-season-1-bestiary.Actor.FN8SN6gIqQa9d8Ex"
 tags:
   - pf2e/creature/type/animal
   - pf2e/creature/type/swarm
+  - pf2eMonster
   - pf2e/creature/level/4
 statblock: inline
 name: "Enraged Raven Swarm"
@@ -24,12 +25,13 @@ level: "Creature 4"
 
 alignment: ""
 size: "Large"
-trait_01: "animal"
-trait_02: "swarm"
+trait_01: [[animal]]
+trait_02: [[swarm]]
 modifier: 10
 perception:
   - name: "Perception"
     desc: "+10; Low-Light Vision"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Acrobatics: +12, Athletics: +5, Stealth: +8"
@@ -54,8 +56,14 @@ attacks:
   - name: ""
 
   - name: "Swarming Claws"
-    desc: "`pf2:1`  Each enemy in the raven swarm's space takes 2d8 piercing damage (DC 21 Reflex check save). Creatures that fail this save also take 3 bleed damage\ndamage."
+    desc: "`pf2:1`  Each enemy in the raven swarm's space takes 2d8 piercing damage (DC 21 Reflex check save). Creatures that fail this save also take 3 bleed damage\n\ndamage."
  
+```
+
+```encounter-table
+name: Enraged Raven Swarm
+creatures:
+  - 1: Enraged Raven Swarm
 ```
 
 

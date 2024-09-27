@@ -4,6 +4,7 @@ title: "Accompaniment Cloak"
 cssclasses: pf2e,pf2e-spell
 tags:
   - trait/focused
+  - trait/illusion
   - trait/invested
   - trait/occult
   - trait/common
@@ -12,7 +13,7 @@ license: OGL
 ---
 # Accompaniment Cloak
 ## Item 11
-### [[focused]][[invested]][[occult]]
+### [[focused]][[illusion]][[invested]][[3-Rules/Rule References/Occult]]
 
 
 **Price** 1300 gp; 

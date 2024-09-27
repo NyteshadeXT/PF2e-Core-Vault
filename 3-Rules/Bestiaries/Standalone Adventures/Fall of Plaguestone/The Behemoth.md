@@ -6,6 +6,7 @@ cssClasses: pf2e
 aliases: "Compendium.pf2e.fall-of-plaguestone-bestiary.Actor.IU4Gx9vHKMT2KYDq" 
 tags:
   - pf2e/creature/type/construct
+  - pf2eMonster
   - pf2e/creature/level/3
 statblock: inline
 name: "The Behemoth"
@@ -20,15 +21,15 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Adventure: The Fall of Plaguestone"
 name: "The Behemoth"
 level: "Creature 3"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Large"
-trait_01: "construct"
+trait_01: [[construct]]
 modifier: 7
 perception:
   - name: "Perception"
     desc: "+7; Darkvision"
-languages: "Common"
+languages: "Common; (can&#x27;t speak), empathy link"
 skills:
   - name: "Skills"
     desc: "Athletics: +12, Intimidation: +7"
@@ -67,6 +68,12 @@ attacks:
   - name: "Stomp"
     desc: "`pf2:2`  The behemoth can stomp on the ground, causing all creatures within 10 feet to fall [[Conditions/Prone|Prone]] (DC 19 Reflex check save negates)."
  
+```
+
+```encounter-table
+name: The Behemoth
+creatures:
+  - 1: The Behemoth
 ```
 
 

@@ -16,7 +16,7 @@ license: OGL
 ---
 # Bladed Scarf
 ## Item 0
-### [uncommon](uncommon "Uncommon Rarity Trait")[[disarm]][[finesse]][[reach]][[sweep]][[trip]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[3-Rules/trait_reference/disarm]][[3-Rules/Rule References/Finesse]][[3-Rules/Rule References/Reach]][[sweep]][[3-Rules/trait_reference/trip]]
 
 |  |  |
 | -- | -- |

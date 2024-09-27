@@ -6,8 +6,9 @@ tags:
   - trait/gnoll
   - trait/common
   - category/ancestryfeature
+  - remaster
 aliases: "Compendium.pf2e.ancestryfeatures.Item.jatezR4bENwhC6GL"
-license: OGL
+license: ORC
 ---
 # Bite
 
@@ -20,5 +21,5 @@ license: OGL
 
 Your sharp teeth and powerful jaws are fearsome weapons. You have a jaws unarmed attack that deals 1d6 piercing damage. Your jaws are in the brawling group.
 
-*Source: Pathfinder Lost Omens: The Mwangi Expanse*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

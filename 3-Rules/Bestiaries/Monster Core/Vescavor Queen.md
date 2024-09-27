@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.pathfinder-monster-core.Actor.mOr6eIUhNuggjCKH"
 tags:
   - pf2e/creature/type/fiend
   - pf2e/creature/type/unholy
+  - pf2eMonster
   - pf2e/creature/level/9
   - remaster
 statblock: inline
@@ -19,14 +20,15 @@ license: ORC
 columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
+token: [[modules/pf2e-tokens-monster-core/assets/portraits/vescavor-queen.webp| ]]
 source: "Pathfinder Monster Core"
 name: "Vescavor Queen"
 level: "Creature 9"
 
 alignment: ""
 size: "Large"
-trait_01: "fiend"
-trait_02: "unholy"
+trait_01: [[fiend]]
+trait_02: [[unholy]]
 modifier: 11
 perception:
   - name: "Perception"
@@ -82,6 +84,12 @@ attacks:
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
     desc: "`pf2:1`  "
  
+```
+
+```encounter-table
+name: Vescavor Queen
+creatures:
+  - 1: Vescavor Queen
 ```
 
 

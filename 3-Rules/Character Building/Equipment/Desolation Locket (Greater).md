@@ -11,7 +11,7 @@ license: OGL
 ---
 # Desolation Locket (Greater)
 ## Item 13
-### [[magical]][[spellheart]]
+### [[3-Rules/Rule References/Magical]][[spellheart]]
 
 
 **Price** 2800 gp; 
@@ -21,7 +21,7 @@ license: OGL
 The surface of this golden, heart-shaped locket is nearly worn through with cracks. If opened, it reveals a portrait of someone the bearer loved dearly and has lost. The spell DC of any spell cast by activating this item is 30.
 
 *   **Armor** The _desolation locket_ numbs you to further despair, and you gain a +3 item bonus to saving throws against emotion effects.
-*   **Weapon**(emotion, mental) After you cast an enchantment spell by activating the _locket_, you emanate an aura of hopelessness in a 5-foot emanation until the start of your next turn. A creature that ends its turn in the aura must succeed at a Will saving throw against the locket's spell DC or become [[Conditions/Slowed 1|Slowed 1]] ([[Conditions/Slowed 1|Slowed 2]] on a critical failure) until the end of its next turn.
+*   **Weapon**(emotion, mental) After you cast an enchantment spell by activating the _locket_, you emanate an aura of hopelessness in a @Template\[emanation|distance:5\] until the start of your next turn. A creature that ends its turn in the aura must succeed at a Will saving throw against the locket's spell DC or become [[Conditions/Slowed|Slowed 1]] ([[Conditions/Slowed|Slowed 2]] on a critical failure) until the end of its next turn.
 
 [[Equipment Effects/Effect_ Desolation Locket - Armor (Greater)|Effect: Desolation Locket - Armor (Greater)]]
 

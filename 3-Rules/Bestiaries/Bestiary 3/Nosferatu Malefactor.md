@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/undead
   - pf2e/creature/type/unholy
   - pf2e/creature/type/vampire
+  - pf2eMonster
   - pf2e/creature/level/10
 statblock: inline
 name: "Nosferatu Malefactor"
@@ -24,18 +25,18 @@ token: [[modules/pf2e-tokens-bestiaries/portraits/undead/vampiric/nosferatu-male
 source: "Pathfinder Bestiary 3"
 name: "Nosferatu Malefactor"
 level: "Creature 10"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Medium"
-trait_01: "evil"
-trait_02: "undead"
-trait_03: "unholy"
-trait_04: "vampire"
+trait_01: [[evil]]
+trait_02: [[undead]]
+trait_03: [[unholy]]
+trait_04: [[vampire]]
 modifier: 19
 perception:
   - name: "Perception"
     desc: "+19; Darkvision"
-languages: "Aklo, Common, Necril"
+languages: "Aklo, Common, Necril; telepathy 60 feet"
 skills:
   - name: "Skills"
     desc: "Acrobatics: +21, Arcana: +21, Athletics: +19, Deception: +17, Intimidation: +19, Stealth: +23"
@@ -57,7 +58,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "[[Creature Family Ability Glossary/(Vampire, Nosferatu) Nosferatu Vulnerabilities|Nosferatu Vulnerabilities]]"
-    desc: "  *   **Revulsion** A nosferatu can't voluntarily come within 10 feet of brandished garlic or a brandished religious symbol of a non-evil deity. To brandish garlic or a religious symbol, a creature must Interact to do so for 1 round (similar to Raising a Shield). If the nosferatu involuntarily comes within 10 feet of an object of their revulsion, they gain the [[Conditions/Fleeing|Fleeing]] condition, running from the object of their revulsion until they end an action beyond 10 feet. After 1 round of being exposed to the subject of their revulsion, a nosferatu can attempt a DC 25 Will check save as a single action, which has the concentrate trait. On a success, they overcome their revulsions for 1d6 rounds (or 1 hour on a critical success).\n*   **Stake** A magical wooden stake (such as one affected by a weapon potency rune, magic weapon, or similar magic) driven through the nosferatu's heart drops the nosferatu to 0 HP and prevents them from healing above 0 HP, even in their coffin. Staking a nosferatu requires 3 actions and works only if the nosferatu is [[Conditions/Unconscious|Unconscious]]. If the stake is removed, the nosferatu can heal above 0 HP again, and if they're in their coffin, the 1-hour rest period begins once the stake is removed. If the nosferatu's head is severed and anointed with _[[Equipment/Holy Water|Holy Water]]_ while the stake is in place, the nosferatu is destroyed.\n*   **Sunlight** If exposed to direct sunlight, a nosferatu immediately becomes [[Conditions/Slowed 1|Slowed 1]]. The slowed value increases by 1 each time the nosferatu ends their turn in sunlight, and the condition ends when they're no longer in sunlight. If the nosferatu loses all their actions in this way, they're destroyed."
+    desc: "  *   **Revulsion** A nosferatu can't voluntarily come within 10 feet of brandished garlic or a brandished religious symbol of a non-evil deity. To brandish garlic or a religious symbol, a creature must Interact to do so for 1 round (similar to Raising a Shield). If the nosferatu involuntarily comes within 10 feet of an object of their revulsion, they gain the [[Conditions/Fleeing|Fleeing]] condition, running from the object of their revulsion until they end an action beyond 10 feet. After 1 round of being exposed to the subject of their revulsion, a nosferatu can attempt a DC 25 Will check save as a single action, which has the concentrate trait. On a success, they overcome their revulsions for 1d6 rounds (or 1 hour on a critical success).\n*   **Stake** A magical wooden stake (such as one affected by a weapon potency rune, magic weapon, or similar magic) driven through the nosferatu's heart drops the nosferatu to 0 HP and prevents them from healing above 0 HP, even in their coffin. Staking a nosferatu requires 3 actions and works only if the nosferatu is [[Conditions/Unconscious|Unconscious]]. If the stake is removed, the nosferatu can heal above 0 HP again, and if they're in their coffin, the 1-hour rest period begins once the stake is removed. If the nosferatu's head is severed and anointed with _[[Equipment/Holy Water|Holy Water]]_ while the stake is in place, the nosferatu is destroyed.\n*   **Sunlight** If exposed to direct sunlight, a nosferatu immediately becomes [[Conditions/Slowed|Slowed 1]]. The slowed value increases by 1 each time the nosferatu ends their turn in sunlight, and the condition ends when they're no longer in sunlight. If the nosferatu loses all their actions in this way, they're destroyed."
 
   - name: "[[Creature Family Ability Glossary/(Vampire, Nosferatu) Plagued Coffin Restoration|Plagued Coffin Restoration]]"
     desc: " (divine,void) Unlike other undead, a nosferatu isn't destroyed at 0 HP. Instead, they disperse into an immense number of individual rats heading in every direction in an attempt to return to their coffin. If even a single rat reaches the coffin, the nosferatu can recover. A nosferatu regains their strength through resting in earth taken from the grave of a creature who died of plague. If their body rests in their earth-filled coffin for 1 hour, the nosferatu gains 1 HP, after which their fast healing begins to function normally. If the coffin doesn't contain this plagued grave dirt, they instead need to rest in their coffin for 1 day before they gain 1 HP and regain their fast healing."
@@ -75,20 +76,26 @@ attacks:
     desc: "DC 29, attack +21; __6th __  _[[Spells/Dominate|Dominate (At Will) (See Dominate)]]_; __5th __  _[[Spells/Telekinetic Haul|Telekinetic Haul (x3)]]_"
 
   - name: "[[Creature Family Ability Glossary/(Vampire, Nosferatu) Change Shape|Change Shape]]"
-    desc: "`pf2:1` (concentrate,divine,polymorph) The nosferatu transforms into a swarm of pale-gray rats. They gain a land Speed of 30 feet and a climb Speed of 10 feet, and they become Large. Each enemy in the swarm's space takes 2d10 piercing damage and must attempt a DC 29 Reflex check save with a high DC for the creature's level. A creature that fails its save is exposed to plague of ancients.\n"
+    desc: "`pf2:1` (concentrate,divine,polymorph) The nosferatu transforms into a swarm of pale-gray rats. They gain a land Speed of 30 feet and a climb Speed of 10 feet, and they become Large. Each enemy in the swarm's space takes 2d10 piercing damage and must attempt a DC 29 Reflex check save with a high DC for the creature's level. A creature that fails its save is exposed to plague of ancients.\n\n* * *\n"
 
   - name: "[[Creature Family Ability Glossary/(Vampire, Nosferatu) Command Thrall|Command Thrall]]"
-    desc: " (auditory,divine,mental) **Requirements** One of the nosferatu's thralls is present and can hear the nosferatu\n**Effect** The nosferatu gives a single command to one of their thralls, which the thrall follows to the best of its ability during its next turn."
+    desc: " (auditory,divine,mental) **Requirements** One of the nosferatu's thralls is present and can hear the nosferatu\n* * *\n\n**Effect** The nosferatu gives a single command to one of their thralls, which the thrall follows to the best of its ability during its next turn."
 
   - name: "[[Creature Family Ability Glossary/(Vampire, Nosferatu) Dominate|Dominate]]"
     desc: "`pf2:2` (divine,incapacitation,mental,visual) The nosferatu can cast [[Spells/Dominate|Dominate]] at will as a divine innate spell. Casting it requires staring into the target's eyes, giving the spell the visual trait (DC 29 Will check). The save DC uses a high DC for the nosferatu's level, and a creature that succeeds is temporarily immune to that nosferatu's Dominate for 24 hours. Fully destroying the nosferatu ends the domination, but merely reducing the nosferatu to 0 HP is insufficient to break the spell."
 
   - name: "[[Creature Family Ability Glossary/(Vampire, Nosferatu) Drink Blood|Drink Blood]]"
-    desc: "`pf2:1` (divine) **Requirements** The nosferatu's last action was a successful fangs Strike\n**Effect** The nosferatu sinks their fangs into the targeted creature to drink its blood. This requires an Athletics check check against the creature's Fortitude DC. On a success, the creature becomes [[Conditions/Drained 1|Drained 1]], and the nosferatu regains 13 HP, gaining any excess HP as temporary Hit Points. Drinking Blood from a creature that's already drained doesn't restore any HP to the nosferatu, but increases the creature's drained condition value by 1. A nosferatu can also consume blood that's been emptied into a vessel for sustenance, but they gain no HP from doing so.\nThe target creature's drained condition value decreases by 1 per week. A blood transfusion, which requires a successful DC 20 Medicine check check and sufficient blood or a blood donor, reduces the drained value by 1 after 10 minutes."
+    desc: "`pf2:1` (divine) **Requirements** The nosferatu's last action was a successful fangs Strike\n* * *\n\n**Effect** The nosferatu sinks their fangs into the targeted creature to drink its blood. This requires an Athletics check check against the creature's Fortitude DC. On a success, the creature becomes [[Conditions/Drained|Drained 1]], and the nosferatu regains 13 HP, gaining any excess HP as temporary Hit Points. Drinking Blood from a creature that's already drained doesn't restore any HP to the nosferatu, but increases the creature's drained condition value by 1. A nosferatu can also consume blood that's been emptied into a vessel for sustenance, but they gain no HP from doing so.\n\nThe target creature's drained condition value decreases by 1 per week. A blood transfusion, which requires a successful DC 20 Medicine check check and sufficient blood or a blood donor, reduces the drained value by 1 after 10 minutes."
 
   - name: "[[Creature Family Ability Glossary/(Vampire, Nosferatu) Plague of Ancients|Plague of Ancients]]"
-    desc: " (disease,virulent) **Saving Throw** DC 29 Fortitude check (use a high DC for the nosferatu's level)\n**Onset** 1 day\n**Stage 1** [[Conditions/Drained 1|Drained 1]] (1 day)\n**Stage 2** [[Conditions/Drained 1|Drained 2]] and [[Conditions/Enfeebled 1|Enfeebled 2]] (1 day)\n**Stage 3** [[Conditions/Doomed 1|Doomed 1]], [[Conditions/Drained 1|Drained 3]], and [[Conditions/Enfeebled 1|Enfeebled 3]] (1 day)\n**Stage 4** [[Conditions/Doomed 1|Doomed 2]], drained 3, and enfeebled 3 (1 day)\n**Stage 5** [[Conditions/Unconscious|Unconscious]] (1 day)\n**Stage 6** death"
+    desc: " (disease,virulent) **Saving Throw** DC 29 Fortitude check (use a high DC for the nosferatu's level)\n* * *\n\n**Onset** 1 day\n\n**Stage 1** [[Conditions/Drained|Drained 1]] (1 day)\n\n**Stage 2** [[Conditions/Drained|Drained 2]] and [[Conditions/Enfeebled|Enfeebled 2]] (1 day)\n\n**Stage 3** [[Conditions/Doomed|Doomed 1]], [[Conditions/Drained|Drained 3]], and [[Conditions/Enfeebled|Enfeebled 3]] (1 day)\n\n**Stage 4** [[Conditions/Doomed|Doomed 2]], drained 3, and enfeebled 3 (1 day)\n\n**Stage 5** [[Conditions/Unconscious|Unconscious]] (1 day)\n\n**Stage 6** death"
  
+```
+
+```encounter-table
+name: Nosferatu Malefactor
+creatures:
+  - 1: Nosferatu Malefactor
 ```
 
 

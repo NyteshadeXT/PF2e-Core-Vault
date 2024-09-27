@@ -6,8 +6,9 @@ tags:
   - trait/oracle
   - trait/common
   - category/class
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.PExiZZTSP4p7TZaW"
-license: OGL
+license: ORC
 ---
 # Oracular Providence
 ## Feat 20
@@ -21,5 +22,5 @@ license: OGL
 * * *
 Your mystery grants you access to deep reserves of truly miraculous divine power. You gain an additional 10th-rank spell slot.
 
-*Source: Pathfinder Advanced Player's Guide*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

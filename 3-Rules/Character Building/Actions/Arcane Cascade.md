@@ -13,7 +13,7 @@ license: OGL
 ---
 # Arcane Cascade `pf2:1`
 
-### [[concentrate]][[magus]][[stance]]
+### [[3-Rules/Rule References/Concentrate]][[magus]][[stance]]
 
 **Category** offensive; 
 

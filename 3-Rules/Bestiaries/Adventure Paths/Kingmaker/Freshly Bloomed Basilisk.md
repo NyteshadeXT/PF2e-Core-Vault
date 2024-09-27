@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/beast
   - pf2e/creature/type/chaotic
   - pf2e/creature/type/evil
+  - pf2eMonster
   - pf2e/creature/level/9
 statblock: inline
 name: "Freshly Bloomed Basilisk"
@@ -25,13 +26,14 @@ level: "Creature 9"
 
 alignment: ""
 size: "Medium"
-trait_01: "beast"
-trait_02: "chaotic"
-trait_03: "evil"
+trait_01: [[beast]]
+trait_02: [[chaotic]]
+trait_03: [[evil]]
 modifier: 18
 perception:
   - name: "Perception"
     desc: "+18; Darkvision"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Athletics: +19, Stealth: +18"
@@ -53,7 +55,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Petrifying Glance"
-    desc: "`pf2:r` (arcane,aura,visual) 30 feet. **Trigger** A creature within 30 feet that the basilisk can see starts its turn.\n**Effect** The target must attempt a DC 25 Fortitude check save. If it fails, it's [[Conditions/Slowed 1|Slowed 1]] for 1 minute as its body slowly stiffens."
+    desc: "`pf2:r` (arcane,aura,visual) 30 feet. **Trigger** A creature within 30 feet that the basilisk can see starts its turn.\n* * *\n\n**Effect** The target must attempt a DC 25 Fortitude check save. If it fails, it's [[Conditions/Slowed|Slowed 1]] for 1 minute as its body slowly stiffens."
 
 attacks:
   - name: ""
@@ -62,8 +64,14 @@ attacks:
     desc: "`pf2:1` Jaws +21 ()\n__Damage__  2d12 + 9 piercing"
 
   - name: "Petrifying Gaze"
-    desc: "`pf2:2` (arcane,concentrate,incapacitation,visual) The basilisk stares at a creature it can see within 30 feet. That creature must attempt a DC 27 Fortitude check save. If it fails and has not already been slowed by Petrifying Glance or this ability, it becomes [[Conditions/Slowed 1|Slowed 1]]. If the creature was already slowed by this ability or Petrifying Glance, a failed save causes the creature to be [[Conditions/Petrified|Petrified]] permanently.\nA creature petrified in this manner that is coated (not just splashed) with fresh basilisk blood (taken from a basilisk that has been dead no longer than 1 hour) is instantly restored to flesh.\nA single basilisk contains enough blood to coat 1d3 Medium creatures in this manner."
+    desc: "`pf2:2` (arcane,concentrate,incapacitation,visual) The basilisk stares at a creature it can see within 30 feet. That creature must attempt a DC 27 Fortitude check save. If it fails and has not already been slowed by Petrifying Glance or this ability, it becomes [[Conditions/Slowed|Slowed 1]]. If the creature was already slowed by this ability or Petrifying Glance, a failed save causes the creature to be [[Conditions/Petrified|Petrified]] permanently.\n\nA creature petrified in this manner that is coated (not just splashed) with fresh basilisk blood (taken from a basilisk that has been dead no longer than 1 hour) is instantly restored to flesh.\n\nA single basilisk contains enough blood to coat 1d3 Medium creatures in this manner."
  
+```
+
+```encounter-table
+name: Freshly Bloomed Basilisk
+creatures:
+  - 1: Freshly Bloomed Basilisk
 ```
 
 

@@ -8,7 +8,7 @@ tags:
 ---
 
 # Herbalist
-The plants around you can provide more remedies than the finest hospital or temple, and you are skilled in their use.
+The plants around you can provide more remedies than the finest hospital or temple, and you are skilled in their use. Nature always provides to those who know how to look, and you have always had a talent for seeing these gifts before you. You can put it to good use, healing those around you with nothing more than what the world provides.
 
 ## [[Feats/Herbalist Dedication|Herbalist Dedication]] Feat 2
 
@@ -16,9 +16,7 @@ The plants around you can provide more remedies than the finest hospital or temp
 
 * * *
 
-You can create remedies and other herbal products. You gain the basic alchemy benefits, though they apply only for herbal items: alchemical items with the healing trait, plus antidote and antiplague. You gain batches of infused reagents per day equal to your level or half your level if you didn't make your daily preparations in the wilderness. Your advanced alchemy level for creating these is 1 and doesn't increase on its own.
-
-You become an expert in Nature and can use Nature instead of Crafting to Craft herbal items. You don't need to be trained in Crafting or have the Alchemical Crafting feat to do so, and you can use healer's tools instead of alchemist's tools.
+You can create natural remedies. You gain the advanced alchemy benefits. You can use advanced alchemy to create 4 alchemical consumables with the healing trait, though the number is reduced by 2 if you didn't make your daily preparations in the wilderness. These consumables are called your herbal items. You remember herbal item formulas and don't need a formula book for them.
 
 **Special** You can't select another dedication feat until you have gained two other feats from the Herbalist archetype.
 
@@ -38,13 +36,25 @@ When using Natural Medicine to Treat Wounds, you can spend a batch of herbs to g
 
 When you create an herbal elixir, you can prepare it as a poultice instead. A poultice gains the oil trait (but remains alchemical, not magical) and loses the elixir and ingested traits. You can apply a poultice by Interacting with one hand. When you apply a poultice, in addition to the item's normal effects, the recipient can attempt an immediate flat check to recover from a single source of persistent acid, bleed, or fire damage, with the DC reduction from appropriate assistance.
 
+## [[Feats/Advanced Herbalism|Advanced Herbalism]] Feat 6
+
+**Prerequisites** Herbalist Dedication
+
+* * *
+
+Your herbalist talents continue to grow with use and you have become potent at making even more remedies from less. You can create up to 6 herbal items per day with advanced alchemy.
+
+* * *
+
+**Special** At 10th level or higher, you can select this feat a second time to increase the number to 8.
+
 ## [[Feats/Endemic Herbs|Endemic Herbs]] Feat 6
 
 **Prerequisites** Herbalist Dedication, trained in Survival
 
 * * *
 
-During your daily preparations, you find medicinal plants endemic to your location. Until your next preparations, you can spend an additional batch of herbs to add a benefit to an item you create with your herbalism. The benefit of the special herbs affects the creature that the item is applied to; if the benefit is not immediate, it lasts for 1 minute unless otherwise stated. This adjustment counts as an additive, so you can't include another additive without spoiling the item.
+The herbal items you create use medicinal plants endemic to your location. When a creature consumes one of your herbal items, that creature gains the benefit matching the location where you created that item. If the benefit is not immediate, it lasts for 1 minute unless otherwise stated.
 
 *   Aquatic Gain a +1 circumstance bonus to Fortitude saves.
 *   Arctic For 1 hour, treat environmental cold effects as if they were one step less severe.
@@ -54,11 +64,3 @@ During your daily preparations, you find medicinal plants endemic to your locati
 *   Plains Gain a +1 circumstance bonus to Will saves.
 *   Swamp Remove one source of persistent bleed damage.
 *   Underground Gain a +1 circumstance bonus to Perception.
-
-## [[Feats/Expert Herbalism|Expert Herbalism]] Feat 6
-
-**Prerequisites** Herbalist Dedication, expert in Nature
-
-* * *
-
-Your advanced alchemy level for herbalism increases to your level - 3. You gain the formulas for elixirs of life as soon as your advanced alchemy level is high enough to create them: lesser at 8th level, moderate at 12th level, greater at 16th level, and major at 18th level.

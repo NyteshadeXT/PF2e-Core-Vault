@@ -10,7 +10,7 @@ license: OGL
 ---
 # Clockwork Diving Suit
 ## Item 6
-### [uncommon](uncommon "Uncommon Rarity Trait")
+### [uncommon](uncommon.md "Uncommon Rarity Trait")
 
 **Category** light; 
 **Price** 200 gp; 

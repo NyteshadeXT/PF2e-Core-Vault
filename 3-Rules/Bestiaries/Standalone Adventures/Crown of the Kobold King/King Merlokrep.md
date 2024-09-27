@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/humanoid
   - pf2e/creature/type/kobold
   - pf2e/creature/type/lawful
+  - pf2eMonster
   - pf2e/creature/level/8
 statblock: inline
 name: "King Merlokrep"
@@ -23,13 +24,13 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Adventure: Crown of the Kobold King"
 name: "King Merlokrep"
 level: "Creature 8"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Small"
-trait_01: "evil"
-trait_02: "humanoid"
-trait_03: "kobold"
-trait_04: "lawful"
+trait_01: [[evil]]
+trait_02: [[humanoid]]
+trait_03: [[kobold]]
+trait_04: [[lawful]]
 modifier: 16
 perception:
   - name: "Perception"
@@ -37,7 +38,7 @@ perception:
 languages: "Common, Draconic"
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +18, Arcana: +16, Athletics: +16, Crafting: +14 (+16 traps), Intimidation: +20, Mining Lore: +14, Stealth: +18"
+    desc: "Acrobatics: +18, Arcana: +16, Athletics: +16, Crafting: +14, Intimidation: +20, Stealth: +18, Mining Lore: +14"
 abilityMods: [4, 6, 4, 2, 4, 6]
 speed: 25 feet
 sourcebook: "_Pathfinder Adventure: Crown of the Kobold King_"
@@ -55,7 +56,7 @@ abilities_top:
   - name: "Items"
     desc: "[[Equipment/Man-Feller|Man-Feller]], [[Equipment/Crown of the Kobold King|Crown of the Kobold King]], Gold Horn Bangles, 2x Gold Lip Ring, Red and Gold Satin Cloak"
   - name: "Imperious Retreat"
-    desc: "`pf2:2` (manipulate,move) **Requirements** King Merlokrep is adjacent to at least one enemy\n**Effect** King Merlokrep whips his fabulous satin cloak into the face of an adjacent creature and attempts an Intimidation check check against that creature's Will DC. On a success, the creature is humiliated and distracted by the act and is [[Conditions/Off-Guard|Off-Guard]] until the end of King Merlokrep's next turn. King Merlokrep then Strides up to his Speed and gains a +2 circumstance bonus to AC against reactions triggered by this movement. He must end this movement in a space that isn't adjacent to any enemy."
+    desc: "`pf2:2` (manipulate,move) **Requirements** King Merlokrep is adjacent to at least one enemy\n* * *\n\n**Effect** King Merlokrep whips his fabulous satin cloak into the face of an adjacent creature and attempts an Intimidation check check against that creature's Will DC. On a success, the creature is humiliated and distracted by the act and is [[Conditions/Off-Guard|Off-Guard]] until the end of King Merlokrep's next turn. King Merlokrep then Strides up to his Speed and gains a +2 circumstance bonus to AC against reactions triggered by this movement. He must end this movement in a space that isn't adjacent to any enemy."
 
   - name: "Signature Spells"
     desc: "  King Merlokrep can cast any of his signature spells (Fireball, Dispel Magic, and Magic Missile) as heightened versions freely."
@@ -77,6 +78,12 @@ attacks:
   - name: "[[Bestiary Ability Glossary/Sneak Attack|Sneak Attack]]"
     desc: "  King Merlokrep deals an additional 1d6 precision damage to [[Conditions/Off-Guard|Off-Guard]] creatures."
  
+```
+
+```encounter-table
+name: King Merlokrep
+creatures:
+  - 1: King Merlokrep
 ```
 
 

@@ -15,7 +15,7 @@ license: OGL
 ---
 # Death Knell Powder
 ## Item 14
-### [uncommon](uncommon "Uncommon Rarity Trait")[[alchemical]][[consumable]][[divine]][[injury]][[3-Rules/Rule References/Poison]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[alchemical]][[consumable]][[3-Rules/Rule References/Divine]][[injury]][[3-Rules/Rule References/Poison]]
 
 **Category** poison; 
 **Price** 625 gp; 

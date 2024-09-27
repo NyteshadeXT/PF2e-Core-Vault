@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.pathfinder-bestiary-2.Actor.Rt3lbxJ4jcwGnpF3"
 tags:
   - pf2e/creature/type/earth
   - pf2e/creature/type/petitioner
+  - pf2eMonster
   - pf2e/creature/level/1
 statblock: inline
 name: "Petitioner (Plane of Earth)"
@@ -25,8 +26,8 @@ level: "Creature 1"
 
 alignment: ""
 size: "Medium"
-trait_01: "earth"
-trait_02: "petitioner"
+trait_01: [[earth]]
+trait_02: [[petitioner]]
 modifier: 7
 perception:
   - name: "Perception"
@@ -59,8 +60,14 @@ attacks:
     desc: "`pf2:1` Fist +7 (earth)\n__Damage__  1d8 + 2 bludgeoning"
 
   - name: "Planar Incarnation - Plane of Earth"
-    desc: " (earth) All petitioners are formed from and personify the nature of the plane on which they manifest, and their statistics are adjusted as summarized below. They also gain any trait associated with creatures from their plane.\n**Plane of Earth** Earth pneuma appear as versions of their mortal selves built of earth or stone\n*   **Alignment** any;\n*   **Language** Terran;\n*   **Additional Ability** burrow Speed 20 feet;\n*   **Melee** fist +7 (earth), **Damage** 1d8+2 bludgeoning"
+    desc: " (earth) All petitioners are formed from and personify the nature of the plane on which they manifest, and their statistics are adjusted as summarized below. They also gain any trait associated with creatures from their plane.\n\n**Plane of Earth** Earth pneuma appear as versions of their mortal selves built of earth or stone\n\n*   **Alignment** any;\n*   **Language** Terran;\n*   **Additional Ability** burrow Speed 20 feet;\n*   **Melee** fist +7 (earth), **Damage** 1d8+2 bludgeoning"
  
+```
+
+```encounter-table
+name: Petitioner (Plane of Earth)
+creatures:
+  - 1: Petitioner (Plane of Earth)
 ```
 
 

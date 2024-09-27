@@ -13,7 +13,7 @@ license: OGL
 ---
 # Dark Pepper Powder
 ## Item 2
-### [uncommon](uncommon "Uncommon Rarity Trait")[[alchemical]][[consumable]][[inhaled]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[alchemical]][[consumable]][[inhaled]]
 
 **Category** other; 
 **Price** 0 gp; 

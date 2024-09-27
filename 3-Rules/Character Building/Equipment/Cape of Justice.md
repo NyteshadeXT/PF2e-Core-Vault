@@ -11,7 +11,7 @@ license: OGL
 ---
 # Cape of Justice
 ## Item 4
-### [rare](rare "Rare Rarity Trait")[[invested]][[magical]]
+### [rare](rare.md "Rare Rarity Trait")[[invested]][[3-Rules/Rule References/Magical]]
 
 
 **Price** 100 gp; 
@@ -30,7 +30,7 @@ When you invest a cape of justice, you must designate a single creature as your 
 
 **Frequency** once per hour
 
-**Effect** By using a free hand to grab the edge of your cape and give it a quick flourish, you cause a red, shuriken-shaped bolt of force to fire at a target within 60 feet that you can see. The shuriken hits automatically and deals 1d4 + 1 force damage, or 2d4 + 2 force damage if the target is your designated offender. If the target is within 30 feet, you can attempt to Demoralize the target as a free action after the shuriken strikes them.
+**Effect** By using a free hand to grab the edge of your cape and give it a quick flourish, you cause a red, shuriken-shaped bolt of force to fire at a target within 60 feet that you can see. The shuriken hits automatically and deals 1d4+1 force damage, or 2d4+2 force damage if the target is your designated offender. If the target is within 30 feet, you can attempt to Demoralize the target as a free action after the shuriken strikes them.
 
 * * *
 

@@ -6,8 +6,9 @@ tags:
   - trait/archetype
   - trait/common
   - category/class
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.sflJhnFzYfqZ2tDy"
-license: OGL
+license: ORC
 ---
 # Defend Mount `pf2:r`
 ## Feat 6
@@ -19,13 +20,11 @@ license: OGL
 
 **Prerequisites** Cavalier Dedication
 * * *
-**Trigger** An enemy makes an attack roll against your mount while you're riding it.
+**Trigger** An enemy makes a Strike or spell attack against your mount while you're riding it.
 
 * * *
 
-You interpose yourself between an attacker and your mount, defending your mount from harm.
+You interpose yourself between an attacker and your mount, defending your mount from harm. Use your own defense against the triggering attack instead your mount's defense. If the triggering attack hits, you take the effects of the attack instead of your mount.
 
-Use your own AC against the triggering attack instead your mount's AC. If the triggering attack hits, you take the effects of the attack instead of your mount.
-
-*Source: Pathfinder Advanced Player's Guide*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

@@ -5,6 +5,7 @@ noteType: pf2eHazard
 tags:
   - magical
   - trap
+  - pf2eHazard
   - complex
 source: Pathfinder Society Scenario #2-00: The King in Thorns
 aliases: "Compendium.pf2e.pfs-season-2-bestiary.Actor.nA6U7TiEPyEbcio6" 
@@ -22,14 +23,14 @@ name: "Mushroom Ring (3-4)"
 level: "Hazard 4"
 
 trait_06: "Complex"
-trait_01: "magical"
-trait_02: "trap"
+trait_01: [[magical]]
+trait_02: [[trap]]
 modifier: 12
 sourcebook: "_Pathfinder Society Scenario #2-00: The King in Thorns_"
 ac: 21
 armorclass:
   - name: AC
-    desc: "21; __Fort__ +14, __Ref__ +8, __Will__ +0"
+    desc: "21; __Fort__ +14, __Ref__ +8, "
 hp: 62
 health:
   - name: ""
@@ -51,10 +52,16 @@ attacks:
   - name: ""
 
   - name: "Portal"
-    desc: "`pf2:r` (magical) **Trigger** The PCs approach the _mushroom ring_\n**Effect** A [[Bestiary 2/Nuglub|Nuglub]] emerges from the portal to defend it, and the hazard then rolls initiative."
+    desc: "`pf2:r` (magical) **Trigger** The PCs approach the _mushroom ring_\n* * *\n\n**Effect** A [[Bestiary 2/Nuglub|Nuglub]] emerges from the portal to defend it, and the hazard then rolls initiative."
 
   - name: "Routine"
     desc: "(1 action) A [[Bestiary 2/Nuglub|Nuglub]] emerges from the _mushroom ring_ and defends it. All nuglubs use the _mushroom ring's_ initiative."
 
+```
+
+```encounter-table
+name: Mushroom Ring (3-4)
+creatures:
+  - 1: Mushroom Ring (3-4)
 ```
 

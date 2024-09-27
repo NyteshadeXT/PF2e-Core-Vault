@@ -10,6 +10,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/human
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/6
 statblock: inline
 name: "Hendrid Pratchett"
@@ -24,14 +25,14 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #157: Devil at the Dreaming Palace"
 name: "Hendrid Pratchett"
 level: "Creature 6"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Medium"
-trait_01: "chaotic"
-trait_02: "elf"
-trait_03: "evil"
-trait_04: "human"
-trait_05: "humanoid"
+trait_01: [[chaotic]]
+trait_02: [[elf]]
+trait_03: [[evil]]
+trait_04: [[human]]
+trait_05: [[humanoid]]
 modifier: 17
 perception:
   - name: "Perception"
@@ -76,6 +77,12 @@ attacks:
   - name: "Sword Cane Duelist"
     desc: "  Each round, Pratchett can Strike once with each component of a sword cane without incurring the usual multiple attack penalty. Subsequent attacks incur the multiple attack penalty as usual."
  
+```
+
+```encounter-table
+name: Hendrid Pratchett
+creatures:
+  - 1: Hendrid Pratchett
 ```
 
 

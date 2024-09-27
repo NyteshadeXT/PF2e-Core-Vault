@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.strength-of-thousands-bestiary.Actor.MtaFBwBwpvoTC1PH"
 tags:
   - pf2e/creature/type/formian
   - pf2e/creature/type/lawful
+  - pf2eMonster
   - pf2e/creature/level/1
 statblock: inline
 name: "Formian Worker"
@@ -24,13 +25,13 @@ level: "Creature 1"
 
 alignment: ""
 size: "Medium"
-trait_01: "formian"
-trait_02: "lawful"
+trait_01: [[formian]]
+trait_02: [[lawful]]
 modifier: 6
 perception:
   - name: "Perception"
     desc: "+6; Darkvision, Scent (Imprecise) 30 Feet"
-languages: "Akitonian, Formian"
+languages: "Akitonian, Formian; telepathy 30 feet"
 skills:
   - name: "Skills"
     desc: "Athletics: +7, Survival: +6"
@@ -66,6 +67,12 @@ attacks:
   - name: "Heavy Lifter"
     desc: "  Formian workers excel at heavy labor. A formian worker can carry 5 additional bulk beyond the normal limits for their Strength before becoming encumbered or overburdened."
  
+```
+
+```encounter-table
+name: Formian Worker
+creatures:
+  - 1: Formian Worker
 ```
 
 

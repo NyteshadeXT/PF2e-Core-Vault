@@ -35,7 +35,8 @@ The word family means something different to everyone. You might have a biologic
   
 
 **TABLE: FAMILY SIZE**
-| **d100** | **Small Family** | **Medium Family** | **Large Family** |
+ 
+| **1d100** | **Small Family** | **Medium Family** | **Large Family** |
 | --- | --- | --- | --- |
 | 1-4 | 0 | 0 | 0 |
 | 5-8 | 0 | 0 | 1 |
@@ -67,7 +68,8 @@ Where you grew up is highly formative. Roll on the following table to determine 
   
 
 **TABLE: HOMELAND**
-| **d20** | **Result** |
+ 
+| **1d20** | **Result** |
 | --- | --- |
 | 1 or less | **Underground** You grew up in a partly or wholly underground region, such as a human mining town, a goblin warren, or a dwarf-held cavern. Add Engineering Lore, Labor Lore, and Mining Lore to your background options. |
 | 2-3 | **Frontier** You grew up at the edge of a settled region. This might have been isolated hills if you are a dwarf, a ranch or farm if you are a human, or another similar frontier. Add Farming Lore, Fishing Lore, Hunting Lore, Scouting Lore, and Lore pertaining to a type of creature that threatened your homeland regularly (such as Giant Lore) to your background options. |
@@ -91,6 +93,7 @@ During your childhood, you were influenced by a significant event that helped sh
   
 
 **TABLE: MAJOR CHILDHOOD EVENT**
+ 
 | **1d20** | **Result** |
 | --- | --- |
 | 1 | **Abandoned in a Distant Land** Due to some mischance (such as wandering off while on a trip or being press-ganged onto a seagoing ship), you had to survive in a distant land for a while. Add the [[Feats/Multilingual\|Multilingual]] skill feat to your background options. |
@@ -121,6 +124,7 @@ You may have had several people who played key roles in developing their skills 
   
 
 **TABLE: INFLUENTAL ASSOCIATE**
+ 
 | **1d20** | **Result** |
 | --- | --- |
 | 1 | **The Academic** One of your associates had a thirst for knowledge that could never be satisfied with simple answers. Through this association, you developed a keen appreciation for numbers, geometry, logic, hard study, and problem-solving. Add an Intelligence attribute boost to your background options. |
@@ -153,6 +157,7 @@ Other players can reject a relationship connection they don't feel fits with the
   
 
 **TABLE: INSPIRING RELATIONSHIP**
+ 
 | **1d12** | **Result** |
 | --- | --- |
 | 1 | **Animal Helpers** When you and this character were younger, you worked together to nurse sick animals back to health. Add the [[Feats/Train Animal\|Train Animal]] skill feat to your background options. |
@@ -171,6 +176,7 @@ Other players can reject a relationship connection they don't feel fits with the
   
 
 **TABLE: CHALLENGING RELATIONSHIP**
+ 
 | **1d12** | **Result** |
 | --- | --- |
 | 1 | **Accidental Fall** This character once inadvertently shoved you off a ledge or balcony. You're mostly certain it was a mistake, but the fall was terrifying, and you've resolved to never be caught unaware like that again. Add the [[Feats/Cat Fall\|Cat Fall]] skill feat to your background options. |

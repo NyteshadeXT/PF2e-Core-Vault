@@ -17,9 +17,9 @@ license: OGL
 
 
 
-**Moderate Curse** Your destructive rage seeks to remain unbound.
+Your destructive rage seeks to remain unbound.
 
-Any armor you wear automatically becomes [[Conditions/Broken|Broken]]. Other items in your possession occasionally become [[Conditions/Broken|Broken]] over time.
+Any armor you wear automatically becomes [[Conditions/Broken|Broken]]. Other items in your possession occasionally become broken over time.
 
 *Source: Pathfinder Lost Omens: Gods & Magic*
 *OGL*

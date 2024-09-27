@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/chaotic
   - pf2e/creature/type/human
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/3
 statblock: inline
 name: "Corax"
@@ -22,12 +23,12 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Kingmaker"
 name: "Corax"
 level: "Creature 3"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Medium"
-trait_01: "chaotic"
-trait_02: "human"
-trait_03: "humanoid"
+trait_01: [[chaotic]]
+trait_02: [[human]]
+trait_03: [[humanoid]]
 modifier: 8
 perception:
   - name: "Perception"
@@ -35,7 +36,7 @@ perception:
 languages: "Common"
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +8, Athletics: +9, Lumber Lore: +9, Nature: +7, Survival: +8"
+    desc: "Acrobatics: +8, Athletics: +9, Nature: +7, Survival: +8, Lumber Lore: +9"
 abilityMods: [4, 1, 3, 0, 1, 1]
 speed: 25 feet
 sourcebook: "_Pathfinder Kingmaker_"
@@ -64,8 +65,14 @@ attacks:
     desc: "`pf2:1` Composite Shortbow +8 (deadly d10, propulsive, range increment 60 feet, reload 0)\n__Damage__  1d6 + 3 piercing"
 
   - name: "Felling Blow"
-    desc: "`pf2:2`  Corax lunges toward a foe and makes a Strike with his greataxe, increasing his reach by 5 feet for that Strike. If he hits, the target must succeed at a DC 19 Fortitude check save to avoid being knocked [[Conditions/Prone|Prone]] (and [[Conditions/Stunned 1|Stunned 1]] on a critical failure)."
+    desc: "`pf2:2`  Corax lunges toward a foe and makes a Strike with his greataxe, increasing his reach by 5 feet for that Strike. If he hits, the target must succeed at a DC 19 Fortitude check save to avoid being knocked [[Conditions/Prone|Prone]] (and [[Conditions/Stunned|Stunned 1]] on a critical failure)."
  
+```
+
+```encounter-table
+name: Corax
+creatures:
+  - 1: Corax
 ```
 
 

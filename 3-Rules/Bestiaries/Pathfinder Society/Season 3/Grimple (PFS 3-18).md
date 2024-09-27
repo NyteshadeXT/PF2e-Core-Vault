@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/fey
   - pf2e/creature/type/gremlin
+  - pf2eMonster
   - pf2e/creature/level/-1
 statblock: inline
 name: "Grimple (PFS 3-18)"
@@ -26,10 +27,10 @@ level: "Creature -1"
 
 alignment: ""
 size: "tiny"
-trait_01: "chaotic"
-trait_02: "evil"
-trait_03: "fey"
-trait_04: "gremlin"
+trait_01: [[chaotic]]
+trait_02: [[evil]]
+trait_03: [[fey]]
+trait_04: [[gremlin]]
 modifier: 6
 perception:
   - name: "Perception"
@@ -37,7 +38,7 @@ perception:
 languages: "Sakvroth"
 skills:
   - name: "Skills"
-    desc: "Crafting: +5 (+7 traps), Deception: +2, Nature: +4, Stealth: +5, Thievery: +5"
+    desc: "Crafting: +5, Deception: +2, Nature: +4, Stealth: +5, Thievery: +5"
 abilityMods: [1, 3, 3, 1, 2, -2]
 speed: 10 feet,  climb 20 feet,  fly 20 feet
 sourcebook: "_Pathfinder Society Scenario #3-18: Dacilane Academy&#x27;s Delightful Disaster_"
@@ -57,7 +58,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Gremlin Lice"
-    desc: "  Whenever a living creature touches or is touched by a grimple (including via a successful unarmed melee Strike), it must succeed at a DC 13 Reflex check save or become infested by gremlin lice.\nWhile infested, the targeted creature is distracted by the itching sensation and is [[Conditions/Stupefied 1|Stupefied 1]], though it can use an [[Actions/Interact|Interact]] action to scratch at the itching lice to suppress the stupefied condition from the lice for 1d4 rounds.\nThe infestation ends after 24 hours or until the creature is submerged in water or exposed to a severe cold environment, whichever comes first."
+    desc: "  Whenever a living creature touches or is touched by a grimple (including via a successful unarmed melee Strike), it must succeed at a DC 13 Reflex check save or become infested by gremlin lice.\n\nWhile infested, the targeted creature is distracted by the itching sensation and is [[Conditions/Stupefied|Stupefied 1]], though it can use an [[Actions/Interact|Interact]] action to scratch at the itching lice to suppress the stupefied condition from the lice for 1d4 rounds.\n\nThe infestation ends after 24 hours or until the creature is submerged in water or exposed to a severe cold environment, whichever comes first."
 
 attacks:
   - name: ""
@@ -72,8 +73,14 @@ attacks:
     desc: "DC 16, attack +8; __1st __ (1 slots) _[[Spells/Grease|Grease]]_\n__Cantrips__  __(1st)__ _[[Spells/Telekinetic Hand|Mage Hand]]_, _[[Spells/Prestidigitation|Prestidigitation]]_"
 
   - name: "Putrid Vomit"
-    desc: "`pf2:1`  The grimple spews a 30-foot line of vomit. Each creature in the line must succeed at a DC 16 Fortitude check save or become [[Conditions/Sickened 1|Sickened 1]] ([[Conditions/Sickened 1|Sickened 2]] on a critical failure).\nThe grimple can't use Putrid Vomit again for 1d4 rounds."
+    desc: "`pf2:1`  The grimple spews a @Template[line|distance:30] of vomit. Each creature in the line must succeed at a DC 16 Fortitude check save or become [[Conditions/Sickened|Sickened 1]] ([[Conditions/Sickened|Sickened 2]] on a critical failure).\n\nThe grimple can't use Putrid Vomit again for 1d4 rounds."
  
+```
+
+```encounter-table
+name: Grimple (PFS 3-18)
+creatures:
+  - 1: Grimple (PFS 3-18)
 ```
 
 

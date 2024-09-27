@@ -10,7 +10,7 @@ license: OGL
 ---
 # Admirer's Bouquet
 ## Item 7
-### [rare](rare "Rare Rarity Trait")[[magical]]
+### [rare](rare.md "Rare Rarity Trait")[[3-Rules/Rule References/Magical]]
 
 
 **Price** 350 gp; 
@@ -25,7 +25,7 @@ An admirer's bouquet appears to be a colorful silken handkerchief that exudes a 
 
 * * *
 
-**Effect** By taking a deep sniff of the pleasant-smelling flowers, you can speed your recovery from nausea and reduce your [[Conditions/Sickened 1|Sickened]] value by 1.
+**Effect** By taking a deep sniff of the pleasant-smelling flowers, you can speed your recovery from nausea and reduce your [[Conditions/Sickened|Sickened]] value by 1.
 
 * * *
 

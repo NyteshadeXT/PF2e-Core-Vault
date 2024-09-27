@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/human
   - pf2e/creature/type/humanoid
   - pf2e/creature/type/lawful
+  - pf2eMonster
   - pf2e/creature/level/10
 statblock: inline
 name: "Jackal Guard"
@@ -23,13 +24,13 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #172: Secrets of the Temple-City"
 name: "Jackal Guard"
 level: "Creature 10"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Medium"
-trait_01: "evil"
-trait_02: "human"
-trait_03: "humanoid"
-trait_04: "lawful"
+trait_01: [[evil]]
+trait_02: [[human]]
+trait_03: [[humanoid]]
+trait_04: [[lawful]]
 modifier: 19
 perception:
   - name: "Perception"
@@ -75,17 +76,23 @@ attacks:
     desc: "`pf2:1` Spear +22 (magical, thrown 20 ft.)\n__Damage__  2d8 + 13 piercing"
 
   - name: "Impaling Strike"
-    desc: "`pf2:2`  **Frequency** once per round\n**Effect** The Jackal Guard lunges forward with their spear and delivers a piercing blow. The Jackal Guard Steps and then makes a melee spear Strike. On a hit, the target also takes 1d6 bleed."
+    desc: "`pf2:2`  **Frequency** once per round\n* * *\n\n**Effect** The Jackal Guard lunges forward with their spear and delivers a piercing blow. The Jackal Guard Steps and then makes a melee spear Strike. On a hit, the target also takes 1d6 bleed."
 
   - name: "Knocking Sweep"
-    desc: "`pf2:2`  **Frequency** once per round\n**Effect** The Jackal Guard swings their weapon with a sweeping spin. They attempt separate Athletics checks to Trip any number of creatures within their reach. Each attempt counts toward the Jackal Guard's multiple attack penalty, but the multiple attack penalty doesn't increase until after they make all the attacks."
+    desc: "`pf2:2`  **Frequency** once per round\n* * *\n\n**Effect** The Jackal Guard swings their weapon with a sweeping spin. They attempt separate Athletics checks to Trip any number of creatures within their reach. Each attempt counts toward the Jackal Guard's multiple attack penalty, but the multiple attack penalty doesn't increase until after they make all the attacks."
 
   - name: "Spear Vault"
-    desc: "`pf2:2`  **Frequency** once per round\n**Effect** The Jackal Guard uses their spear to jump over or around a creature and create an opening. The Jackal Guard Strides up to half their Speed. This movement doesn't trigger reactions. During this movement, they can move through the space of one creature, and when the Jackal Guard moves through a creature's space in this way, that creature becomes [[Conditions/Off-Guard|Off-Guard]] until the end of the Jackal Guard's turn. If the Jackal Guard ends their movement within melee reach of at least one enemy, they can make a melee Strike against that enemy."
+    desc: "`pf2:2`  **Frequency** once per round\n* * *\n\n**Effect** The Jackal Guard uses their spear to jump over or around a creature and create an opening. The Jackal Guard Strides up to half their Speed. This movement doesn't trigger reactions. During this movement, they can move through the space of one creature, and when the Jackal Guard moves through a creature's space in this way, that creature becomes [[Conditions/Off-Guard|Off-Guard]] until the end of the Jackal Guard's turn. If the Jackal Guard ends their movement within melee reach of at least one enemy, they can make a melee Strike against that enemy."
 
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
     desc: "`pf2:1`  "
  
+```
+
+```encounter-table
+name: Jackal Guard
+creatures:
+  - 1: Jackal Guard
 ```
 
 

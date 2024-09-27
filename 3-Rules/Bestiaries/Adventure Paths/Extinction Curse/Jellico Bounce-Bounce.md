@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/human
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/2
 statblock: inline
 name: "Jellico Bounce-Bounce"
@@ -23,17 +24,18 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #151: The Show Must Go On"
 name: "Jellico Bounce-Bounce"
 level: "Creature 2"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Medium"
-trait_01: "chaotic"
-trait_02: "evil"
-trait_03: "human"
-trait_04: "humanoid"
+trait_01: [[chaotic]]
+trait_02: [[evil]]
+trait_03: [[human]]
+trait_04: [[humanoid]]
 modifier: 7
 perception:
   - name: "Perception"
     desc: "+7; "
+languages: ""
 skills:
   - name: "Skills"
     desc: "Acrobatics: +7, Performance: +7, Stealth: +7, Thievery: +9"
@@ -56,7 +58,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Bob and Weave"
-    desc: "`pf2:r`  **Trigger** Jellico is the target of a Strike by an attacker he can see\n**Effect** Jellico gains a +2 circumstance bonus to AC against the triggering Strike."
+    desc: "`pf2:r`  **Trigger** Jellico is the target of a Strike by an attacker he can see\n* * *\n\n**Effect** Jellico gains a +2 circumstance bonus to AC against the triggering Strike."
 
 attacks:
   - name: ""
@@ -82,6 +84,12 @@ attacks:
   - name: "Juggler"
     desc: "  If Jellico's bowling pin ranged Strike hits, the bowling pin bounces off the target back toward Jellico. Jellico can catch it again if he has a free hand."
  
+```
+
+```encounter-table
+name: Jellico Bounce-Bounce
+creatures:
+  - 1: Jellico Bounce-Bounce
 ```
 
 

@@ -6,8 +6,4 @@ foundryId: Compendium.pf2e.journals.JournalEntry.BSp4LUSaOmUyjBko.JournalEntryPa
 tags:
   - JournalEntryPage
 ---
-Play during your turn.
-
-* * *
-
-Select yourself or an ally within reach. The target regains 1d8+8 Hit Points. If you are 7th level or higher, the target regains 2d8+16 Hit Points. If you are 12th level or higher, the target regains 3d8+24 Hit Points.
+<p>Play during your turn.</p><hr /><p>Select yourself or an ally within reach. The target regains @Damage[(1d8+8)[healing]] Hit Points. If you are 7th level or higher, the target regains @Damage[ (2d8+16)[healing]] Hit Points. If you are 12th level or higher, the target regains @Damage[(3d8+24)[healing]] Hit Points.</p>

@@ -11,7 +11,7 @@ license: OGL
 ---
 # Armory Bracelet (Major)
 ## Item 15
-### [[invested]][[magical]]
+### [[invested]][[3-Rules/Rule References/Magical]]
 
 
 **Price** 6000 gp; 

@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/humanoid
   - pf2e/creature/type/xulgath
+  - pf2eMonster
   - pf2e/creature/level/4
 statblock: inline
 name: "Gulzash"
@@ -23,13 +24,13 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #164: Hands of the Devil"
 name: "Gulzash"
 level: "Creature 4"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Medium"
-trait_01: "chaotic"
-trait_02: "evil"
-trait_03: "humanoid"
-trait_04: "xulgath"
+trait_01: [[chaotic]]
+trait_02: [[evil]]
+trait_03: [[humanoid]]
+trait_04: [[xulgath]]
 modifier: 10
 perception:
   - name: "Perception"
@@ -57,7 +58,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Stench"
-    desc: " (aura,olfactory) 30 feet. A creature that enters the area must attempt a DC 20 Fortitude check save. On a failure, the creature is [[Conditions/Sickened 1|Sickened 1]], and on a critical failure, the creature also takes a -5-foot status penalty to its Speeds for 1 round. While within the aura, the creature takes a -2 circumstance penalty to saves to recover from the sickened condition. A creature that succeeds at its save is temporarily immune to all xulgaths' stenches for 1 minute.\n[[Bestiary Effects/Effect_ Xulgath Stench|Effect: Xulgath Stench]]"
+    desc: " (aura,olfactory) 30 feet. A creature that enters the area must attempt a DC 20 Fortitude check save. On a failure, the creature is [[Conditions/Sickened|Sickened 1]], and on a critical failure, the creature also takes a -5-foot status penalty to its Speeds for 1 round. While within the aura, the creature takes a -2 circumstance penalty to saves to recover from the sickened condition. A creature that succeeds at its save is temporarily immune to all xulgaths' stenches for 1 minute.\n\n[[Bestiary Effects/Effect_ Xulgath Stench|Effect: Xulgath Stench]]"
 
   - name: "Stench Suppression"
     desc: "`pf2:0`  Gulzash can suppress or resume his stench as a free action."
@@ -83,6 +84,12 @@ attacks:
   - name: "Mosh"
     desc: "`pf2:1`  Gulzash Leaps to a square adjacent to a creature, then [[Actions/Shove|Shoves]] that creature. If Gulzash rolls a success on the Shove, he gets a critical success instead."
  
+```
+
+```encounter-table
+name: Gulzash
+creatures:
+  - 1: Gulzash
 ```
 
 

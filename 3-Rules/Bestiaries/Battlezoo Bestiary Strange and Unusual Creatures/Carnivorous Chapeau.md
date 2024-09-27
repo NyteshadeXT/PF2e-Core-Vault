@@ -7,6 +7,7 @@ aliases: "Compendium.battlezoo-bestiary-su-pf2e.pf2e-battlezoo-su-actors.Actor.s
 tags:
   - pf2e/creature/type/construct
   - pf2e/creature/type/mindless
+  - pf2eMonster
   - pf2e/creature/level/-1
 statblock: inline
 name: "Carnivorous Chapeau"
@@ -22,18 +23,19 @@ token: [[modules/battlezoo-bestiary-su-pf2e/art/Portraits/carnivorous-chapeau.we
 source: "Battlezoo Bestiary: Strange and Unusual"
 name: "Carnivorous Chapeau"
 level: "Creature -1"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "tiny"
-trait_01: "construct"
-trait_02: "mindless"
+trait_01: [[construct]]
+trait_02: [[mindless]]
 modifier: 4
 perception:
   - name: "Perception"
     desc: "+4; Darkvision"
+languages: ""
 skills:
   - name: "Skills"
-    desc: "Athletics: +5, Deception: +3, Stealth: +7, "
+    desc: "Athletics: +5, Deception: +3, Stealth: +7, Athletics: +5, Deception: +3, Stealth: +7"
 abilityMods: [2, 3, 2, -5, 0, -1]
 speed: 10 feet
 sourcebook: "_Battlezoo Bestiary: Strange and Unusual_"
@@ -50,7 +52,7 @@ abilities_top:
   - name: ""
 
   - name: "Snug Fit"
-    desc: "  If a creature fails to realize a carnivorous chapeau's true nature, or realizes the carnivorous chapeau's nature and is simply exceptionally foolish, and the creature willingly chooses to put the carnivorous chapeau on their head, the carnivorous chapeau Attaches itself to that creature automatically. If the carnivorous chapeau is placed on the head of a creature that is already Restrained or Unconscious, the carnivorous chapeau likewise Attaches to that creature automatically."
+    desc: "  If a creature fails to realize a carnivorous chapeau's true nature, or realizes the carnivorous chapeau's nature and is simply exceptionally foolish, and the creature willingly chooses to put the carnivorous chapeau on their head, the carnivorous chapeau Attaches itself to that creature automatically. If the carnivorous chapeau is placed on the head of a creature that is already [[undefined]] or [[undefined]], the carnivorous chapeau likewise Attaches to that creature automatically."
 
 abilities_mid:
   - name: ""
@@ -61,11 +63,17 @@ attacks:
     desc: "`pf2:1` Carnivorous Brim +6 (agile, finesse, reach 0 feet)\n__Damage__  1d4 bludgeoning plus attach"
 
   - name: "Attach"
-    desc: "`pf2:1`  **Requirements** The carnivorous chapeau's last action was a successful Strike against a target larger than itself\n**Effect** The carnivorous chapeau attaches itself to its victim's head. This is similar to grabbing the creature, but the carnivorous chapeau moves with that creature rather than holding it in place. The carnivorous chapeau is flat- footed while attached."
+    desc: "`pf2:1`  **Requirements** The carnivorous chapeau's last action was a successful Strike against a target larger than itself\n* * *\n\n**Effect** The carnivorous chapeau attaches itself to its victim's head. This is similar to grabbing the creature, but the carnivorous chapeau moves with that creature rather than holding it in place. The carnivorous chapeau is flat- footed while attached."
 
   - name: "[[Bestiary Ability Glossary/Constrict|Constrict]]"
-    desc: "`pf2:1`  **Requirements** The carnivorous chapeau is attached to a creature\n**Effect** The carnivorous chapeau contracts its form around the head of the creature to which it's attached, dealing 1d4 bludgeoning damage to that creature with a DC 15 Fortitude check save."
+    desc: "`pf2:1`  **Requirements** The carnivorous chapeau is attached to a creature\n* * *\n\n**Effect** The carnivorous chapeau contracts its form around the head of the creature to which it's attached, dealing 1d4 bludgeoning damage to that creature with a DC 15 Fortitude check save."
  
+```
+
+```encounter-table
+name: Carnivorous Chapeau
+creatures:
+  - 1: Carnivorous Chapeau
 ```
 
 

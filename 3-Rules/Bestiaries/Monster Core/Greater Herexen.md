@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.pathfinder-monster-core.Actor.ZlAzJNsHYz1ZtMVK"
 tags:
   - pf2e/creature/type/undead
   - pf2e/creature/type/unholy
+  - pf2eMonster
   - pf2e/creature/level/8
   - remaster
 statblock: inline
@@ -19,14 +20,15 @@ license: ORC
 columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
+token: [[modules/pf2e-tokens-bestiaries/portraits/undead/herexen.webp| ]]
 source: "Pathfinder Monster Core"
 name: "Greater Herexen"
 level: "Creature 8"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Medium"
-trait_01: "undead"
-trait_02: "unholy"
+trait_01: [[undead]]
+trait_02: [[unholy]]
 modifier: 16
 perception:
   - name: "Perception"
@@ -71,6 +73,12 @@ attacks:
   - name: "Heretic's Smite"
     desc: " (divine) While wielding the favored weapon of its former deity (such as a dagger for an ex-Pharasmin herexen), the greater herexen's Strikes deal an additional 2d6 spirit damage to creatures with the holy trait."
  
+```
+
+```encounter-table
+name: Greater Herexen
+creatures:
+  - 1: Greater Herexen
 ```
 
 

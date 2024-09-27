@@ -4,23 +4,38 @@ title: "Countless Eyes"
 noteType: pf2eSpell
 cssclasses: pf2e,pf2e-spell
 tags:
+  - pf2eSpell
   - spell/level/4
   - trait/concentrate
   - trait/manipulate
   - trait/common
+  - tradition/arcane
+  - tradition/occult
+  - tradition/primal
+
+  - remaster
 aliases: "Compendium.pf2e.spells-srd.Item.ykyKclKTCMp2SFXa" 
+license: ORC
 ---
-# Countless Eyes  `pf2:2`  
-## Spell 4
-### [[concentrate]][[manipulate]]
-**Traditions** [[arcane]], [[occult]], [[primal]]
-**Range** touch
-**Targets** 1 creature
-**Duration** 1 minute
-* * * 
-Eyes form across the touched creature's body, allowing it to see in all directions at once. The subject can't be flanked for the spell's duration. In addition, when the subject [[Actions/Seek|Seeks]], it can Seek in a 30-foot burst centered on itself or up to four 15-foot bursts within line of sight.
+```statblock
+name: "Countless Eyes  `pf2:2`"
+level: "Spell 4"
 
-[[Spell Effects/Spell Effect_ Countless Eyes|Spell Effect: Countless Eyes]]
-
-*Source: Pathfinder Advanced Player's Guide*
-*OGL*
+trait_01: [[concentrate]]
+trait_02: [[manipulate]]
+layout: Basic Pathfinder 2e Layout
+columns: 1
+columnWidth: x
+abilities_top:
+  - name: ""
+  - name: "Traditions"
+    desc: "arcane, occult, primal"
+  - name: "Range"
+    desc: "touch; **Targets** 1 creature"
+  - name: "Duration"
+    desc: "1 minute"
+abilities_mid:
+  - name: ""
+    desc: "Eyes form across the touched creature's body, allowing it to see in all directions at once. The subject can't be flanked for the spell's duration. In addition, when the subject succeeds when Seeking, it critically succeeds instead.\n\n[[Spell Effects/Spell Effect_ Countless Eyes|Spell Effect: Countless Eyes]]"
+sourcebook: "_Pathfinder Player Core 2_"
+```

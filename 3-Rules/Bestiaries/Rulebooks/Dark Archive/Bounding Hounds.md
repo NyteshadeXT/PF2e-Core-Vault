@@ -4,6 +4,7 @@ obsidianUIMode: preview
 noteType: pf2eHazard
 tags:
   - haunt
+  - pf2eHazard
   - complex
 source: Pathfinder Dark Archive
 aliases: "Compendium.pf2e.pathfinder-dark-archive.Actor.ObeSl1UJMrCxsVJ6" 
@@ -21,7 +22,7 @@ name: "Bounding Hounds"
 level: "Hazard 13"
 
 trait_06: "Complex"
-trait_01: "haunt"
+trait_01: [[haunt]]
 modifier: 27
 sourcebook: "_Pathfinder Dark Archive_"
 ac: 34
@@ -49,11 +50,17 @@ attacks:
   - name: ""
 
   - name: "Bay"
-    desc: "`pf2:r` (sonic) **Trigger** A creature enters the area\n**Effect** The hounds manifest and bay loudly, dealing 3d10 + 16 sonic damage to all creatures within 30 feet of the hounds (DC 33 Fortitude check). On a failed check, a creature is additionally [[Conditions/Frightened 1|Frightened 2]]. The trap then rolls initiative."
+    desc: "`pf2:r` (sonic) **Trigger** A creature enters the area\n* * *\n\n**Effect** The hounds manifest and bay loudly, dealing 3d10 + 16 sonic damage to all creatures within 30 feet of the hounds (DC 33 Fortitude check). On a failed check, a creature is additionally [[Conditions/Frightened|Frightened 2]]. The trap then rolls initiative."
 
   - name: "Routine"
     desc: "(9 actions) The trap loses 3 actions each round for each hound disabled. Each hound uses three actions to Stride 40 feet after creatures in the room, passing through corporeal creatures during this movement if possible. Each creature the hound moves through during its movement takes 2d8 + 7 void damage (DC 37 Reflex check negates). A creature can only be damaged by each hound once each round, no matter how many times the hound moves through their space."
   - name: "Reset"
     desc: "1 hour"
+```
+
+```encounter-table
+name: Bounding Hounds
+creatures:
+  - 1: Bounding Hounds
 ```
 

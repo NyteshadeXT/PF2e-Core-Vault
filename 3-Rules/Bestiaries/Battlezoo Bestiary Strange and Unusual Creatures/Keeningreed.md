@@ -7,6 +7,7 @@ aliases: "Compendium.battlezoo-bestiary-su-pf2e.pf2e-battlezoo-su-actors.Actor.u
 tags:
   - pf2e/creature/type/chaotic
   - pf2e/creature/type/plant
+  - pf2eMonster
   - pf2e/creature/level/7
 statblock: inline
 name: "Keeningreed"
@@ -25,8 +26,8 @@ level: "Creature 7"
 
 alignment: ""
 size: "Small"
-trait_01: "chaotic"
-trait_02: "plant"
+trait_01: [[chaotic]]
+trait_02: [[plant]]
 modifier: 15
 perception:
   - name: "Perception"
@@ -34,7 +35,7 @@ perception:
 languages: "Common, Fey, Necril"
 skills:
   - name: "Skills"
-    desc: "Deception: +15, Diplomacy: +15, Intimidation: +15, Nature: +15, Occultism: +15, Performance: +20, Religion: +15, Stealth: +16, Survival: +13, "
+    desc: "Deception: +15, Diplomacy: +15, Intimidation: +15, Nature: +15, Occultism: +15, Performance: +20, Religion: +15, Stealth: +16, Survival: +13, Deception: +15, Diplomacy: +15, Intimidation: +15, Nature: +15, Occultism: +15, Performance: +20, Religion: +15, Stealth: +16, Survival: +13"
 abilityMods: [1, 3, 2, 4, 4, 6]
 speed: 25 feet,  swim 20 feet
 sourcebook: "_Battlezoo Bestiary: Strange and Unusual_"
@@ -62,7 +63,7 @@ attacks:
     desc: "`pf2:1` Razor Reed +13 (agile, finesse)\n__Damage__  2d10 + 3 slashing 2d6 bleed"
 
   - name: "Ranged"
-    desc: "`pf2:1` Threnody +15 (auditory, range 30 feet)\n__Damage__  2d6 + 6 sonic 2d6 vitality"
+    desc: "`pf2:1` Threnody +15 (auditory, range 30 feet)\n__Damage__ "
 
   - name: "Primal Innate Spells"
     desc: "DC 25, attack +17; __4th __  _[[Spells/Counter Performance|Counter Performance]]_, _[[Spells/Enervation|Enervation]]_, _[[Spells/Noise Blast|Sound Burst]]_; __3rd __  _[[Spells/Soothe|Soothe (x3)]]_\n__Cantrips__  __(4th)__ _[[Spells/Dirge of Doom|Dirge of Doom]]_, _[[Spells/Ghost Sound|Ghost Sound]]_"
@@ -73,6 +74,12 @@ attacks:
   - name: "Last Respects"
     desc: "`pf2:2` (auditory,concentrate,primal) The keeningreed sings a dirge to attempt to Disable a haunt using its Performance skill. If the haunt can't normally be disabled with the Performance skill, use the Disable DC for one of the allowed skills requiring a proficiency rank of master or lower (usually Religion)."
  
+```
+
+```encounter-table
+name: Keeningreed
+creatures:
+  - 1: Keeningreed
 ```
 
 

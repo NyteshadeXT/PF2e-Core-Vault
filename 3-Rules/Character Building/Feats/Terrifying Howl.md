@@ -8,8 +8,9 @@ tags:
   - trait/rage
   - trait/common
   - category/class
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.HjinlKihkadhkQ4Z"
-license: OGL
+license: ORC
 ---
 # Terrifying Howl `pf2:1`
 ## Feat 10
@@ -19,9 +20,8 @@ license: OGL
 
 
 
-**Prerequisites** Intimidating Glare
-* * *
-You unleash a terrifying howl. Attempt Intimidation checks to [[Actions/Demoralize|Demoralize]] each enemy within 30 feet. Regardless of the results of your checks, each enemy is then temporarily immune to Terrifying Howl for 1 minute.
 
-*Source: Pathfinder Core Rulebook*
-*OGL*
+You unleash a terrifying howl. Attempt Intimidation checks to [[Actions/Demoralize|Demoralize]] each enemy within 30 feet: you don't take a penalty if the creature doesn't understand your language. Regardless of the results of your checks, each target is then temporarily immune to Terrifying Howl for 1 minute.
+
+*Source: Pathfinder Player Core 2*
+*ORC*

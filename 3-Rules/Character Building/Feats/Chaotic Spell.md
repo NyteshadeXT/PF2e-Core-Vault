@@ -26,7 +26,7 @@ license: OGL
 
 This is the secret of chaotic magic - your foe can hardly predict and counter your moves if you yourself have no idea what will happen. If the next action you use is to Cast a Spell that deals acid, cold, electricity, fire, or sonic damage, roll a d6. The spell's damage type changes to the type below associated with the result of the roll, and each creature who is damaged by the spell takes the listed additional effect.
 
-**1 (Acid):** [[Conditions/Sickened 1|Sickened 1]]
+**1 (Acid):** [[Conditions/Sickened|Sickened 1]]
 
 **2 (Cold):** -10 ft. penalty to all Speeds until the end of your next turn
 
@@ -38,5 +38,5 @@ This is the secret of chaotic magic - your foe can hardly predict and counter yo
 
 **6 (Sonic):**[[Conditions/Deafened|Deafened]] for 2 rounds
 
-*Source: Pathfinder: Wake the Dead #3*
+*Source: Pathfinder Wake the Dead #3*
 *OGL*

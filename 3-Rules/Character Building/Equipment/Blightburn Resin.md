@@ -28,8 +28,6 @@ This tacky, hardened sap is harvested from trees infected by fungal blights and 
 
 **Activate** `pf2:1` (manipulate)
 
-**Maximum Duration** 6 rounds
-
 **Saving Throw** DC 30 Fortitude check
 
 **Onset** 1 minute

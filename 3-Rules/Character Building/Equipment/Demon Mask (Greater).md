@@ -12,7 +12,7 @@ license: ORC
 ---
 # Demon Mask (Greater)
 ## Item 10
-### [[invested]][[magical]]
+### [[invested]][[3-Rules/Rule References/Magical]]
 
 
 **Price** 900 gp; 

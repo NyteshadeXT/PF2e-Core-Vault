@@ -6,11 +6,12 @@ tags:
   - trait/sorcerer
   - trait/common
   - category/class
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.lG4dYrnkE42IgnGG"
-license: OGL
+license: ORC
 ---
 # Energy Ward `pf2:0`
-## Feat 10
+## Feat 6
 ### [[sorcerer]]
 
 **Category** class; 
@@ -24,7 +25,7 @@ license: OGL
 
 * * *
 
-You trap energy from the last spell you cast within your body, coating your flesh in a protective ward. Until the start of your next turn, you gain resistance 5 to one type of energy damage dealt by the spell you just cast.
+You convert energy from the last spell you cast into a protective ward. Until the start of your next turn, you gain resistance to one type of energy (acid, cold, electricity, fire, force, sonic, vitality, or void) equal to 4 + the rank of the spell.
 
-*Source: Pathfinder Advanced Player's Guide*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

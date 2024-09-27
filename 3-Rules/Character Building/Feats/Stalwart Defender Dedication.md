@@ -28,7 +28,7 @@ You have completed your initial training in the ways of a stalwart defender. You
 
 * * *
 
-**Special** You cannot select another dedication feat until you take two other feats from the stalwart defender archetype.
+**Special** You cannot select another dedication feat until you take two other feats from the [[PF2e Journals/Archetypes/Stalwart Defender|Stalwart Defender]] archetype.
 
 *Source: Pathfinder Lost Omens: Highhelm*
 *OGL*

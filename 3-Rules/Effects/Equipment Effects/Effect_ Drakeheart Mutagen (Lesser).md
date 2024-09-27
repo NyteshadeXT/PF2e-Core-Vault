@@ -4,8 +4,9 @@ title: "Effect: Drakeheart Mutagen (Lesser)"
 cssclasses: pf2e,pf2e-spell
 tags:
   - trait/common
+  - remaster
 aliases: "Compendium.pf2e.equipment-effects.Item.GBBjw61g4ekJymT0"
-license: OGL
+license: ORC
 ---
 # Effect: Drakeheart Mutagen (Lesser)
 ## Level 1
@@ -28,5 +29,5 @@ Granted by [[Equipment/Drakeheart Mutagen (Lesser)|Drakeheart Mutagen (Lesser)]]
 *   \-1 penalty to all Recall Knowledge checks
 *   Gain the Final Surge action
 
-*Source: Pathfinder Advanced Player's Guide*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

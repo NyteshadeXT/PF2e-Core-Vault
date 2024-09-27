@@ -7,8 +7,9 @@ tags:
   - trait/stance
   - trait/common
   - category/class
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.6cQSPqXoAO6oJl0i"
-license: OGL
+license: ORC
 ---
 # Shooting Stars Stance `pf2:1`
 ## Feat 2
@@ -24,5 +25,5 @@ You enter a stance that lets you throw shuriken with lightning speed.
 
 While in this stance, you can use your monk feats or monk abilities that normally require unarmed attacks with shuriken instead.
 
-*Source: Pathfinder Advanced Player's Guide*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

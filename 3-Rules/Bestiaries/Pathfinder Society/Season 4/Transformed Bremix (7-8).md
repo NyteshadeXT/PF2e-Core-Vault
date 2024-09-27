@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/humanoid
   - pf2e/creature/type/lawful
   - pf2e/creature/type/skelm
+  - pf2eMonster
   - pf2e/creature/level/8
 statblock: inline
 name: "Transformed Bremix (7-8)"
@@ -23,18 +24,18 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Society Scenario #4-11: Prisoners of the Electric Castle"
 name: "Transformed Bremix (7-8)"
 level: "Creature 8"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Medium"
-trait_01: "evil"
-trait_02: "humanoid"
-trait_03: "lawful"
-trait_04: "skelm"
+trait_01: [[evil]]
+trait_02: [[humanoid]]
+trait_03: [[lawful]]
+trait_04: [[skelm]]
 modifier: 15
 perception:
   - name: "Perception"
     desc: "+15; Scent (Imprecise) 30 Feet"
-languages: "Aklo, Common"
+languages: "Aklo, Common; tongues"
 skills:
   - name: "Skills"
     desc: "Athletics: +18, Deception: +21, Diplomacy: +17, Intimidation: +17, Occultism: +16, Society: +16, Stealth: +16, Thievery: +16"
@@ -57,7 +58,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Corrupt Speech"
-    desc: "`pf2:r` (auditory,illusion,linguistic,occult) **Trigger** The skelm hears a creature speak within 30 feet\n**Effect** The skelm sows paranoia by putting treacherous words on another's lips. The skelm whispers up to 12 words and attempts a Deception check check against the Perception DC of a creature other than the triggering creature within 30 feet.\n**Critical Success** The target hears the skelm's words as if they were spoken by the triggering creature. This can alter linguistic effects. The skelm also casts [[Spells/Paranoia|Paranoia]] or [[Spells/Suggestion|Suggestion]] on the target, if he likes.\n**Success** As critical success, except the skelm can't cast _paranoia_ or _suggestion_.\n**Failure** The target doesn't hear the skelm's words, and they have no effect.\n**Critical Failure** The target hears the skelm speak the words."
+    desc: "`pf2:r` (auditory,illusion,linguistic,occult) **Trigger** The skelm hears a creature speak within 30 feet\n* * *\n\n**Effect** The skelm sows paranoia by putting treacherous words on another's lips. The skelm whispers up to 12 words and attempts a Deception check check against the Perception DC of a creature other than the triggering creature within 30 feet.\n* * *\n\n**Critical Success** The target hears the skelm's words as if they were spoken by the triggering creature. This can alter linguistic effects. The skelm also casts [[Spells/Paranoia|Paranoia]] or [[Spells/Suggestion|Suggestion]] on the target, if he likes.\n\n**Success** As critical success, except the skelm can't cast _paranoia_ or _suggestion_.\n\n**Failure** The target doesn't hear the skelm's words, and they have no effect.\n\n**Critical Failure** The target hears the skelm speak the words."
 
 attacks:
   - name: ""
@@ -75,10 +76,10 @@ attacks:
     desc: "_[[Spells/Inveigle|Inveigle]]_"
 
   - name: "[[Bestiary Ability Glossary/Change Shape|Change Shape]]"
-    desc: "`pf2:1` (concentrate,occult,polymorph) The palace skelm can take on the appearance of any Medium male humanoid. This doesn't change his Speed or his attack and damage bonuses with his Strikes but might change the damage type his Strikes deal.\n"
+    desc: "`pf2:1` (concentrate,occult,polymorph) The palace skelm can take on the appearance of any Medium male humanoid. This doesn't change his Speed or his attack and damage bonuses with his Strikes but might change the damage type his Strikes deal.\n\n* * *\n"
 
   - name: "Incite Violence"
-    desc: "`pf2:2` (emotion,mental,occult) **Frequency** once per day\n**Effect** The skelm gives an impassioned speech calling for his followers to act upon their convictions. Each creature within 30 feet must attempt a DC 24 Will check save.\n**Critical Success** The creature can immediately Strike an adjacent creature of its choosing.\n**Success** The creature is unaffected.\n**Failure** The creature immediately Strikes an adjacent creature; if multiple creatures are adjacent, the skelm chooses the target. If no creatures are adjacent, the creature is [[Conditions/Off-Guard|Off-Guard]] and [[Conditions/Fascinated|Fascinated]] with the skelm until the start of its next turn."
+    desc: "`pf2:2` (emotion,mental,occult) **Frequency** once per day\n* * *\n\n**Effect** The skelm gives an impassioned speech calling for his followers to act upon their convictions. Each creature within 30 feet must attempt a DC 24 Will check save.\n* * *\n\n**Critical Success** The creature can immediately Strike an adjacent creature of its choosing.\n\n**Success** The creature is unaffected.\n\n**Failure** The creature immediately Strikes an adjacent creature; if multiple creatures are adjacent, the skelm chooses the target. If no creatures are adjacent, the creature is [[Conditions/Off-Guard|Off-Guard]] and [[Conditions/Fascinated|Fascinated]] with the skelm until the start of its next turn."
 
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
     desc: "`pf2:1`  "
@@ -86,6 +87,12 @@ attacks:
   - name: "[[Bestiary Ability Glossary/Knockdown|Knockdown]]"
     desc: "`pf2:1`  "
  
+```
+
+```encounter-table
+name: Transformed Bremix (7-8)
+creatures:
+  - 1: Transformed Bremix (7-8)
 ```
 
 

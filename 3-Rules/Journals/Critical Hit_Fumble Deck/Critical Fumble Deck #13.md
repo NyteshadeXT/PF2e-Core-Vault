@@ -20,7 +20,7 @@ tags:
 
 # Torn Muscle
 
-> Until healed, you are [[Conditions/Enfeebled 1|Enfeebled 1]].
+> Until healed, you are [[Conditions/Enfeebled|Enfeebled 1]].
 
 `Unarmed`
 

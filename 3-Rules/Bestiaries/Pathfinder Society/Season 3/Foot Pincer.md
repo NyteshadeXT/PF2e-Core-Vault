@@ -5,6 +5,7 @@ noteType: pf2eHazard
 tags:
   - mechanical
   - trap
+  - pf2eHazard
 
 source: Pathfinder Bounty #18: From Family Lost
 aliases: "Compendium.pf2e.pfs-season-3-bestiary.Actor.kBYuJs4je7XBPisk" 
@@ -22,14 +23,14 @@ name: "Foot Pincer"
 level: "Hazard 1"
 
 
-trait_01: "mechanical"
-trait_02: "trap"
+trait_01: [[mechanical]]
+trait_02: [[trap]]
 modifier: 0
 sourcebook: "_Pathfinder Bounty #18: From Family Lost_"
 ac: 16
 armorclass:
   - name: AC
-    desc: "16; __Fort__ +10, __Ref__ +4, __Will__ +0"
+    desc: "16; __Fort__ +10, __Ref__ +4, "
 hp: 20
 health:
   - name: ""
@@ -51,10 +52,16 @@ attacks:
   - name: ""
 
   - name: "Slam Shut"
-    desc: "`pf2:r` **Trigger** A creature steps onto a foot pincer\n**Effect** The trap slams shut on the triggering creature's foot. The creature must succeed at a DC 18 Reflex check save or take 1d6 + 5 slashing damage and 1d4 bleed."
+    desc: "`pf2:r` **Trigger** A creature steps onto a foot pincer\n* * *\n\n**Effect** The trap slams shut on the triggering creature's foot. The creature must succeed at a DC 18 Reflex check save or take 1d6+5 slashing damage and 1d4 bleed."
 
 
   - name: "Reset"
     desc: "The foot pincer must be reset manually before it can activate again."
+```
+
+```encounter-table
+name: Foot Pincer
+creatures:
+  - 1: Foot Pincer
 ```
 

@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/gnome
   - pf2e/creature/type/good
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/4
 statblock: inline
 name: "Charming Scoundrel"
@@ -26,10 +27,10 @@ level: "Creature 4"
 
 alignment: ""
 size: "Small"
-trait_01: "chaotic"
-trait_02: "gnome"
-trait_03: "good"
-trait_04: "humanoid"
+trait_01: [[chaotic]]
+trait_02: [[gnome]]
+trait_03: [[good]]
+trait_04: [[humanoid]]
 modifier: 8
 perception:
   - name: "Perception"
@@ -37,7 +38,7 @@ perception:
 languages: "Common, Fey, Gnomish"
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +12, Athletics: +7, Deception: +11, Diplomacy: +9, Intimidation: +9, Medicine: +9, Performance: +9, Society: +7, Stealth: +10, Theatre Lore: +7, Thievery: +10"
+    desc: "Acrobatics: +12, Athletics: +7, Deception: +11, Diplomacy: +9, Intimidation: +9, Medicine: +9, Performance: +9, Society: +7, Stealth: +10, Thievery: +10, Theatre Lore: +7"
 abilityMods: [1, 4, 2, 1, 0, 3]
 speed: 25 feet
 sourcebook: "_Pathfinder Lost Omens: Character Guide_"
@@ -77,6 +78,12 @@ attacks:
   - name: "[[Bestiary Ability Glossary/Sneak Attack|Sneak Attack]]"
     desc: "  The charming scoundrel deals an extra 2d6 precision damage to [[Conditions/Off-Guard|Off-Guard]] creatures."
  
+```
+
+```encounter-table
+name: Charming Scoundrel
+creatures:
+  - 1: Charming Scoundrel
 ```
 
 

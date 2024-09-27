@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.pathfinder-bestiary-3.Actor.9rugdliEg2udjROC"
 tags:
   - pf2e/creature/type/animal
   - pf2e/creature/type/aquatic
+  - pf2eMonster
   - pf2e/creature/level/-1
 statblock: inline
 name: "Pufferfish"
@@ -25,12 +26,13 @@ level: "Creature -1"
 
 alignment: ""
 size: "tiny"
-trait_01: "animal"
-trait_02: "aquatic"
+trait_01: [[animal]]
+trait_02: [[aquatic]]
 modifier: 4
 perception:
   - name: "Perception"
     desc: "+4; Low-Light Vision"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Acrobatics: +2, Athletics: +4"
@@ -64,8 +66,14 @@ attacks:
     desc: "`pf2:2`  The pufferfish Swims up to its Speed and then inflates. Each creature within 5 feet of its space at the end of its movement must succeed at a DC 13 Reflex check save or take 1 piercing damage and be exposed to pufferfish venom."
 
   - name: "Pufferfish Venom"
-    desc: " (incapacitation,poison) **Saving Throw** DC 16 Fortitude check\n**Maximum Duration** 24 hours\n**Stage 1** 1d4 poison damage (1 round)\n**Stage 2** 1d4 poison damage and [[Conditions/Off-Guard|Off-Guard]] (1 round)\n**Stage 3** 1d4 poison damage and [[Conditions/Paralyzed|Paralyzed]] (1 round)\n**Stage 4** 1d4 poison damage and paralyzed for 2d10 hours (1 round)"
+    desc: " (incapacitation,poison) **Saving Throw** DC 16 Fortitude check\n* * *\n\n**Maximum Duration** 24 hours\n\n**Stage 1** 1d4 poison damage (1 round)\n\n**Stage 2** 1d4 poison damage and [[Conditions/Off-Guard|Off-Guard]] (1 round)\n\n**Stage 3** 1d4 poison damage and [[Conditions/Paralyzed|Paralyzed]] (1 round)\n\n**Stage 4** 1d4 poison damage and paralyzed for 2d10 hours (1 round)"
  
+```
+
+```encounter-table
+name: Pufferfish
+creatures:
+  - 1: Pufferfish
 ```
 
 

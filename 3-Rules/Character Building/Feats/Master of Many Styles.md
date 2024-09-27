@@ -19,7 +19,7 @@ license: ORC
 
 
 
-**Prerequisites** Stance Savant
+**Prerequisites** Opening Stance (Fighter); Reflexive Stance (Monk)
 * * *
 **Trigger** Your turn begins.
 

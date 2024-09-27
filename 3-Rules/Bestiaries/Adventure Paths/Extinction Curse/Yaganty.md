@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.extinction-curse-bestiary.Actor.jxGA1C8xX0WkJGI4"
 tags:
   - pf2e/creature/type/fey
   - pf2e/creature/type/lawful
+  - pf2eMonster
   - pf2e/creature/level/10
 statblock: inline
 name: "Yaganty"
@@ -21,11 +22,11 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #153: Life&#x27;s Long Shadows"
 name: "Yaganty"
 level: "Creature 10"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Large"
-trait_01: "fey"
-trait_02: "lawful"
+trait_01: [[fey]]
+trait_02: [[lawful]]
 modifier: 20
 perception:
   - name: "Perception"
@@ -73,11 +74,17 @@ attacks:
     desc: "DC 29, attack +23; __5th __ (1 slots) _[[Spells/Translocate|Dimension Door]]_; __4th __ (1 slots) _[[Spells/Darkness|Darkness]]_; __3rd __ (2 slots) _[[Spells/Breathe Fire|Burning Hands (x2)]]_\n__Cantrips__  __(5th)__ _[[Spells/Produce Flame|Produce Flame]]_"
 
   - name: "Fling Wax"
-    desc: "`pf2:2` (fire) The yaganty whips a stream of scalding wax in a 30-foot line. Each glob deals 1d6 persistent fire damage. An affected creature or adjacent ally can remove one glob of wax by spending an Interact action to scrape it off. The yaganty can't use Fling Wax again for 1d4 rounds. Creatures in the area must attempt a DC 27 Reflex check save.\n**Critical Success** The creature is unaffected.\n**Success** The creature is splattered with 1d2+1 globs of wax.\n**Failure** The creature is splattered with 1d4+2 globs of wax.\n**Critical Failure** As failure, and the creature is [[Conditions/Blinded|Blinded]] until it removes the globs of wax."
+    desc: "`pf2:2` (fire) The yaganty whips a stream of scalding wax in a @Template[line|distance:30]. Each glob deals 1d6 persistent fire damage. An affected creature or adjacent ally can remove one glob of wax by spending an Interact action to scrape it off. The yaganty can't use Fling Wax again for 1d4 rounds. Creatures in the area must attempt a DC 27 Reflex check save.\n* * *\n\n**Critical Success** The creature is unaffected.\n\n**Success** The creature is splattered with 1d2+1 globs of wax.\n\n**Failure** The creature is splattered with 1d4+2 globs of wax.\n\n**Critical Failure** As failure, and the creature is [[Conditions/Blinded|Blinded]] until it removes the globs of wax."
 
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
     desc: "`pf2:1`  "
  
+```
+
+```encounter-table
+name: Yaganty
+creatures:
+  - 1: Yaganty
 ```
 
 

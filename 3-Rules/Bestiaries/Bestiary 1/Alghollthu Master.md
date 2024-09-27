@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/aquatic
   - pf2e/creature/type/evil
   - pf2e/creature/type/lawful
+  - pf2eMonster
   - pf2e/creature/level/7
 statblock: inline
 name: "Alghollthu Master"
@@ -24,13 +25,13 @@ token: [[modules/pf2e-tokens-bestiaries/portraits/aberrant/eldritch/alghollthu-m
 source: "Pathfinder Bestiary"
 name: "Alghollthu Master"
 level: "Creature 7"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "huge"
-trait_01: "aberration"
-trait_02: "aquatic"
-trait_03: "evil"
-trait_04: "lawful"
+trait_01: [[aberration]]
+trait_02: [[aquatic]]
+trait_03: [[evil]]
+trait_04: [[lawful]]
 modifier: 17
 perception:
   - name: "Perception"
@@ -38,7 +39,7 @@ perception:
 languages: "Aklo, Alghollthu, Common, Sakvroth, Thalassic"
 skills:
   - name: "Skills"
-    desc: "Athletics: +16, Deception: +15, Intimidation: +15, Lore (any one subcategory): +14, Occultism: +16"
+    desc: "Athletics: +16, Deception: +15, Intimidation: +15, Occultism: +16, Lore (any one subcategory): +14"
 abilityMods: [5, 1, 6, 3, 5, 4]
 speed: 10 feet,  swim 60 feet
 sourcebook: "_Pathfinder Bestiary_"
@@ -69,8 +70,14 @@ attacks:
     desc: "DC 25, attack +17; __7th __  _[[Spells/Project Image|Project Image (At Will)]]_, _[[Compendium.pf2e.spells-srd.Item.hkfH9Z53hPzcOwNB|Veil (At Will)]]_; __6th __  _[[Spells/Dominate|Dominate (x3)]]_, _[[Spells/Illusory Scene|Illusory Scene (At Will)]]_; __5th __  _[[Spells/Illusory Object|Illusory Object (At Will)]]_; __4th __  _[[Spells/Mirage|Hallucinatory Terrain (At Will)]]_; __3rd __  _[[Spells/Hypnotize|Hypnotic Pattern (At Will)]]_"
 
   - name: "Slime"
-    desc: " (curse,occult,virulent) **Saving Throw** DC 25 Fortitude check\n**Stage 1** no ill effect (1 round)\n**Stage 2** the victim's skin softens, inflicting [[Conditions/Drained 1|Drained 1]] (1 round)\n**Stage 3** the victim's skin transforms into a clear, slimy membrane, inflicting [[Conditions/Drained 1|Drained 2]] until the curse ends; every hour this membrane remains dry, the creature's drained condition increases by 1 (permanent).\nA [[Spells/Cleanse Affliction|Cleanse Affliction]] spell can counteract this curse, but immunity to disease offers no protection against it"
+    desc: " (curse,occult,virulent) **Saving Throw** DC 25 Fortitude check\n* * *\n\n**Stage 1** no ill effect (1 round)\n\n**Stage 2** the victim's skin softens, inflicting [[Conditions/Drained|Drained 1]] (1 round)\n\n**Stage 3** the victim's skin transforms into a clear, slimy membrane, inflicting [[Conditions/Drained|Drained 2]] until the curse ends; every hour this membrane remains dry, the creature's drained condition increases by 1 (permanent).\n\nA [[Spells/Cleanse Affliction|Cleanse Affliction]] spell can counteract this curse, but immunity to disease offers no protection against it"
  
+```
+
+```encounter-table
+name: Alghollthu Master
+creatures:
+  - 1: Alghollthu Master
 ```
 
 

@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/human
   - pf2e/creature/type/humanoid
   - pf2e/creature/type/lawful
+  - pf2eMonster
   - pf2e/creature/level/15
 statblock: inline
 name: "Arms of Balance (Jivati Rovat)"
@@ -22,12 +23,12 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #167: Ready? Fight!"
 name: "Arms of Balance (Jivati Rovat)"
 level: "Creature 15"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Medium"
-trait_01: "human"
-trait_02: "humanoid"
-trait_03: "lawful"
+trait_01: [[human]]
+trait_02: [[humanoid]]
+trait_03: [[lawful]]
 modifier: 27
 perception:
   - name: "Perception"
@@ -73,8 +74,14 @@ attacks:
     desc: "`pf2:1` (flourish) The monk makes two Strikes with his fist or with a monk weapon. If both hit the same creature, combine their damage for the purpose of resistances and weaknesses."
 
   - name: "Magma's Grasp"
-    desc: "`pf2:2` (fire) The monk lets loose a powerful breath of air, whose effect depends on the type of energy to which the monk is attuned. The monk can't use this ability again for 1d4 rounds.\nJivati's breath ignites a fire in the spirit of each creature within 10 feet of Jivati, dealing 8d6 fire damage. Each creature in the area must attempt a DC 33 Will check save.\n**Critical Success** The creature is unaffected.\n**Success** The creature takes half damage.\n**Failure** The creature takes full damage and 1d6 persistent fire damage and loses 1 Focus Point. If it has no Focus Points, the creature instead loses a random prepared spell or spell slot from the highest level it has left (maximum 6th level).\n**Critical Failure** As failure, but the creature takes double damage and 2d6 persistent fire damage."
+    desc: "`pf2:2` (fire) The monk lets loose a powerful breath of air, whose effect depends on the type of energy to which the monk is attuned. The monk can't use this ability again for 1d4 rounds.\n\nJivati's breath ignites a fire in the spirit of each creature within 10 feet of Jivati, dealing 8d6 fire damage. Each creature in the area must attempt a DC 33 Will check save.\n* * *\n\n**Critical Success** The creature is unaffected.\n\n**Success** The creature takes half damage.\n\n**Failure** The creature takes full damage and 1d6 persistent fire damage and loses 1 Focus Point. If it has no Focus Points, the creature instead loses a random prepared spell or spell slot from the highest level it has left (maximum 6th level).\n\n**Critical Failure** As failure, but the creature takes double damage and 2d6 persistent fire damage."
  
+```
+
+```encounter-table
+name: Arms of Balance (Jivati Rovat)
+creatures:
+  - 1: Arms of Balance (Jivati Rovat)
 ```
 
 

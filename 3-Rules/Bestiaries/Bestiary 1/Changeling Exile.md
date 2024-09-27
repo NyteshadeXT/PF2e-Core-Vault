@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/chaotic
   - pf2e/creature/type/human
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/3
 statblock: inline
 name: "Changeling Exile"
@@ -27,10 +28,10 @@ level: "Creature 3"
 
 alignment: ""
 size: "Medium"
-trait_01: "changeling"
-trait_02: "chaotic"
-trait_03: "human"
-trait_04: "humanoid"
+trait_01: [[changeling]]
+trait_02: [[chaotic]]
+trait_03: [[human]]
+trait_04: [[humanoid]]
 modifier: 11
 perception:
   - name: "Perception"
@@ -72,6 +73,12 @@ attacks:
   - name: "Druid Order Spells"
     desc: "1 Focus Point, DC 21, attack +13; __2nd __  _[[Spells/Untamed Shift|Wild Morph]]_, _[[Spells/Untamed Form|Wild Shape]]_"
  
+```
+
+```encounter-table
+name: Changeling Exile
+creatures:
+  - 1: Changeling Exile
 ```
 
 

@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.pathfinder-bestiary-3.Actor.0JmtZzvzZU3HtYVp"
 tags:
   - pf2e/creature/type/animal
   - pf2e/creature/type/swarm
+  - pf2eMonster
   - pf2e/creature/level/1
 statblock: inline
 name: "Squirrel Swarm"
@@ -25,12 +26,13 @@ level: "Creature 1"
 
 alignment: ""
 size: "Large"
-trait_01: "animal"
-trait_02: "swarm"
+trait_01: [[animal]]
+trait_02: [[swarm]]
 modifier: 6
 perception:
   - name: "Perception"
     desc: "+6; Low-Light Vision, Scent (Imprecise) 30 Feet"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Acrobatics: +7, Stealth: +7, Survival: +4"
@@ -58,8 +60,14 @@ attacks:
     desc: "`pf2:1`  Each enemy in the squirrel swarm's space takes 1d6 piercing damage (DC 15 Reflex check save)."
 
   - name: "Scrabbling Swarm"
-    desc: "`pf2:1`  The squirrels clamber over the creatures in their space. Each such creature must succeed at a DC 17 Reflex check save or become [[Conditions/Clumsy 1|Clumsy 1]] as long as it remains in the swarm's space."
+    desc: "`pf2:1`  The squirrels clamber over the creatures in their space. Each such creature must succeed at a DC 17 Reflex check save or become [[Conditions/Clumsy|Clumsy 1]] as long as it remains in the swarm's space."
  
+```
+
+```encounter-table
+name: Squirrel Swarm
+creatures:
+  - 1: Squirrel Swarm
 ```
 
 

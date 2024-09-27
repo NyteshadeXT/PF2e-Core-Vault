@@ -17,7 +17,7 @@ license: OGL
 
 
 
-**Major Curse** Zon-Kuthon steals away your joy, leaving you with only pain.
+Zon-Kuthon steals away your joy, leaving you with only pain.
 
 You lose that which you cherish the most forever, and lose the ability to feel joy. You can't gain benefits from emotion effects based on positive emotions.
 

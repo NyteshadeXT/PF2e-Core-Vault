@@ -5,6 +5,7 @@ noteType: pf2eHazard
 tags:
   - magical
   - trap
+  - pf2eHazard
 
 source: Pathfinder #163: Ruins of Gauntlight
 aliases: "Compendium.pf2e.abomination-vaults-bestiary.Actor.qjuLgWr2VhPcuylI" 
@@ -22,14 +23,14 @@ name: "Doom of Tomorrow"
 level: "Hazard 3"
 
 
-trait_01: "magical"
-trait_02: "trap"
+trait_01: [[magical]]
+trait_02: [[trap]]
 modifier: 10
 sourcebook: "_Pathfinder #163: Ruins of Gauntlight_"
 ac: 21
 armorclass:
   - name: AC
-    desc: "21; __Fort__ +15, __Ref__ +8, __Will__ +0"
+    desc: "21; __Fort__ +15, __Ref__ +8, "
 hp: 56
 health:
   - name: ""
@@ -51,7 +52,7 @@ attacks:
   - name: ""
 
   - name: "Apocalypse Beam"
-    desc: "`pf2:r` **Trigger** A creature steps within 10 feet of the back of a diorama alcove\n**Effect** The trap fires an apocalypse beam at that creature."
+    desc: "`pf2:r` **Trigger** A creature steps within 10 feet of the back of a diorama alcove\n* * *\n\n**Effect** The trap fires an apocalypse beam at that creature."
   - name: "Melee"
     desc: "Apocalypse Beam (From Tsunami) +16 () "
   - name: "Melee"
@@ -66,5 +67,11 @@ attacks:
 
   - name: "Reset"
     desc: "Each trap resets automatically after 1 hour."
+```
+
+```encounter-table
+name: Doom of Tomorrow
+creatures:
+  - 1: Doom of Tomorrow
 ```
 

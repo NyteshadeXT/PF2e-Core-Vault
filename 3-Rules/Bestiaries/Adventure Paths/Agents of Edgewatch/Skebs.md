@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/chaotic
   - pf2e/creature/type/halfling
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/-1
 statblock: inline
 name: "Skebs"
@@ -25,9 +26,9 @@ level: "Creature -1"
 
 alignment: ""
 size: "Small"
-trait_01: "chaotic"
-trait_02: "halfling"
-trait_03: "humanoid"
+trait_01: [[chaotic]]
+trait_02: [[halfling]]
+trait_03: [[humanoid]]
 modifier: 4
 perception:
   - name: "Perception"
@@ -60,7 +61,7 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
+  - name: "Ranged"
     desc: "`pf2:1` Dagger +8 (agile, finesse, thrown 10 ft., versatile s)\n__Damage__  1d4 piercing"
 
   - name: "Ranged"
@@ -69,6 +70,12 @@ attacks:
   - name: "[[Bestiary Ability Glossary/Sneak Attack|Sneak Attack]]"
     desc: "  Skebs deals 1d6 extra precision damage to [[Conditions/Off-Guard|Off-Guard]] creatures."
  
+```
+
+```encounter-table
+name: Skebs
+creatures:
+  - 1: Skebs
 ```
 
 

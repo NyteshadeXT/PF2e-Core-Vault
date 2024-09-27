@@ -5,6 +5,7 @@ noteType: pf2eHazard
 tags:
   - magical
   - trap
+  - pf2eHazard
 
 source: Pathfinder #156: The Apocalypse Prophet
 aliases: "Compendium.pf2e.extinction-curse-bestiary.Actor.zPXXUNE3m9VdrF9z" 
@@ -22,8 +23,8 @@ name: "Thief's Trap"
 level: "Hazard 20"
 
 
-trait_01: "magical"
-trait_02: "trap"
+trait_01: [[magical]]
+trait_02: [[trap]]
 modifier: 40
 sourcebook: "_Pathfinder #156: The Apocalypse Prophet_"
 perception:
@@ -42,10 +43,16 @@ attacks:
   - name: ""
 
   - name: "Explosion"
-    desc: "`pf2:r` **Trigger** A creature crosses a rune\n**Effect** The runes unleash a gout of fire roaring up the chute. Anyone in the chute and within 5 feet of its openings is dealt 8d10 + 44 fire damage (DC 42 Reflex check save).\nImmediately thereafter, the runes emanate a 4th-rank [[Spells/Silence|Silence]] effect for 1 minute, so anyone injured in the chute can't call out for help."
+    desc: "`pf2:r` **Trigger** A creature crosses a rune\n* * *\n\n**Effect** The runes unleash a gout of fire roaring up the chute. Anyone in the chute and within 5 feet of its openings is dealt 8d10+44 fire damage (DC 42 Reflex check save).\n\nImmediately thereafter, the runes emanate a 4th-rank [[Spells/Silence|Silence]] effect for 1 minute, so anyone injured in the chute can't call out for help."
 
 
   - name: "Reset"
     desc: "The trap resets in 1 minute."
+```
+
+```encounter-table
+name: Thief's Trap
+creatures:
+  - 1: Thief's Trap
 ```
 

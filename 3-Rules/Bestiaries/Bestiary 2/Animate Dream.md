@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/dream
   - pf2e/creature/type/evil
   - pf2e/creature/type/incorporeal
+  - pf2eMonster
   - pf2e/creature/level/8
 statblock: inline
 name: "Animate Dream"
@@ -23,16 +24,17 @@ token: [[modules/pf2e-tokens-bestiaries/portraits/planar/dream/animate-dream.web
 source: "Pathfinder Bestiary 2"
 name: "Animate Dream"
 level: "Creature 8"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Medium"
-trait_01: "dream"
-trait_02: "evil"
-trait_03: "incorporeal"
+trait_01: [[dream]]
+trait_02: [[evil]]
+trait_03: [[incorporeal]]
 modifier: 14
 perception:
   - name: "Perception"
     desc: "+14; Darkvision"
+languages: "telepathy 100 feet"
 skills:
   - name: "Skills"
     desc: "Acrobatics: +14, Deception: +18, Intimidation: +18, Occultism: +12, Stealth: +18"
@@ -63,8 +65,14 @@ attacks:
     desc: "DC 26, attack +16; __4th __  _[[Spells/Confusion|Confusion]]_, _[[Spells/Translocate|Dimension Door (At will)]]_, _[[Spells/Nightmare|Nightmare]]_, _[[Spells/Phantasmal Killer|Phantasmal Killer]]_, _[[Spells/Sleep|Sleep]]_; __3rd __  _[[Spells/Fear|Fear]]_"
 
   - name: "Endless Nightmare"
-    desc: " (curse,emotion,fear,mental,occult) An animate dream's touch fills the victim's mind with terrifying visions\n**Saving Throw** DC 26 Fortitude check\n**Stage 1** [[Conditions/Fatigued|Fatigued]] (1 day)\n**Stage 2** fatigued and [[Conditions/Stupefied 1|Stupefied 1]] (1 day)\n**Stage 3** The victim falls [[Conditions/Unconscious|Unconscious]] and can't be awakened as long as they remain at this stage (1 day)."
+    desc: " (curse,emotion,fear,mental,occult) An animate dream's touch fills the victim's mind with terrifying visions\n\n**Saving Throw** DC 26 Fortitude check\n\n**Stage 1** [[Conditions/Fatigued|Fatigued]] (1 day)\n\n**Stage 2** fatigued and [[Conditions/Stupefied|Stupefied 1]] (1 day)\n\n**Stage 3** The victim falls [[Conditions/Unconscious|Unconscious]] and can't be awakened as long as they remain at this stage (1 day)."
  
+```
+
+```encounter-table
+name: Animate Dream
+creatures:
+  - 1: Animate Dream
 ```
 
 

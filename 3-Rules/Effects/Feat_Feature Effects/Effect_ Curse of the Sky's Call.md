@@ -24,17 +24,17 @@ You have your head in the clouds-and not just figuratively. Your body is drawn t
 
 #### Minor Curse
 
-Your unnatural lightness makes it hard to keep your footing and interact with other physical objects. You are [[Conditions/Enfeebled 1|Enfeebled 1]] and take a -2 penalty to saves and DCs against [[Actions/Grapple|Grapple]], [[Actions/Shove|Shove]], and other forms of forced movement.
+Your unnatural lightness makes it hard to keep your footing and interact with other physical objects. You are [[Conditions/Enfeebled|Enfeebled 1]] and take a -2 penalty to saves and DCs against [[Actions/Grapple|Grapple]], [[Actions/Shove|Shove]], and other forms of forced movement.
 
 #### Moderate Curse
 
-Your body is drawn further skyward. You are [[Conditions/Enfeebled 1|Enfeebled 2]], and the penalty from your minor curse increases to -3.
+Your body is drawn further skyward. You are [[Conditions/Enfeebled|Enfeebled 2]], and the penalty from your minor curse increases to -3.
 
 You are treated as one size smaller for wind effects. You gain a +2 status bonus against [[Actions/Trip|Trip]] attempts, you only take half as much damage from falls, and you gain the effects of the [[Feats/Powerful Leap|Powerful Leap]] and [[Feats/Quick Jump|Quick Jump]] skill feats. You weigh only half as much, and your Bulk, should someone need to carry you, is also half as much.
 
 #### Major Curse (11th)
 
-As your body rises, you float just above the ground beneath you. You become [[Conditions/Enfeebled 1|Enfeebled 4]], and the penalty from your minor curse increases to -4.
+As your body rises, you float just above the ground beneath you. You become [[Conditions/Enfeebled|Enfeebled 4]], and the penalty from your minor curse increases to -4.
 
 You can walk on liquids as if they were solid; you gain the effects of the [[Feats/Cloud Jump|Cloud Jump]] skill feat; and you don't leave tracks, trigger weight-sensitive pressure plates, or otherwise connect with the ground below you.
 

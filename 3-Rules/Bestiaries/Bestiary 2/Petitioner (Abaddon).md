@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/fiend
   - pf2e/creature/type/petitioner
   - pf2e/creature/type/unholy
+  - pf2eMonster
   - pf2e/creature/level/1
 statblock: inline
 name: "Petitioner (Abaddon)"
@@ -27,10 +28,10 @@ level: "Creature 1"
 
 alignment: ""
 size: "Medium"
-trait_01: "evil"
-trait_02: "fiend"
-trait_03: "petitioner"
-trait_04: "unholy"
+trait_01: [[evil]]
+trait_02: [[fiend]]
+trait_03: [[petitioner]]
+trait_04: [[unholy]]
 modifier: 7
 perception:
   - name: "Perception"
@@ -63,8 +64,14 @@ attacks:
     desc: "`pf2:1` Fist +7 (unholy)\n__Damage__  1d8 + 2 bludgeoning"
 
   - name: "Planar Incarnation - Abaddon"
-    desc: "  All petitioners are formed from and personify the nature of the plane on which they manifest, and their statistics are adjusted as summarized below. They also gain any trait associated with creatures from their plane.\n**Abaddon** The hunted appear as Medium sized versions of themselves from their prior lives, and they exist to be pursued and consumed by daemons\n*   **Alignment** NE;\n*   **Language** Daemonic;\n*   **Additional Ability** fast healing 5;\n*   **Melee** fist +7, **Damage** 1d8+2 bludgeoning"
+    desc: "  All petitioners are formed from and personify the nature of the plane on which they manifest, and their statistics are adjusted as summarized below. They also gain any trait associated with creatures from their plane.\n\n**Abaddon** The hunted appear as Medium sized versions of themselves from their prior lives, and they exist to be pursued and consumed by daemons\n\n*   **Alignment** NE;\n*   **Language** Daemonic;\n*   **Additional Ability** fast healing 5;\n*   **Melee** fist +7, **Damage** 1d8+2 bludgeoning"
  
+```
+
+```encounter-table
+name: Petitioner (Abaddon)
+creatures:
+  - 1: Petitioner (Abaddon)
 ```
 
 

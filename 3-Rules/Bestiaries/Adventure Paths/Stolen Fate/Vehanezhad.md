@@ -10,6 +10,7 @@ tags:
   - pf2e/creature/type/elemental
   - pf2e/creature/type/evil
   - pf2e/creature/type/lawful
+  - pf2eMonster
   - pf2e/creature/level/18
 statblock: inline
 name: "Vehanezhad"
@@ -24,14 +25,14 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #191: The Destiny War"
 name: "Vehanezhad"
 level: "Creature 18"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "grg"
-trait_01: "dragon"
-trait_02: "earth"
-trait_03: "elemental"
-trait_04: "evil"
-trait_05: "lawful"
+trait_01: [[dragon]]
+trait_02: [[earth]]
+trait_03: [[elemental]]
+trait_04: [[evil]]
+trait_05: [[lawful]]
 modifier: 32
 perception:
   - name: "Perception"
@@ -61,16 +62,16 @@ abilities_mid:
     desc: "  The dragon gains 2 reactions at the start of each of their turns."
 
   - name: "[[Bestiary Ability Glossary/Frightful Presence|Frightful Presence]]"
-    desc: " (aura,emotion,fear,mental) 90 feet. DC 37 Will check\n"
+    desc: " (aura,emotion,fear,mental) 90 feet. DC 37 Will check\n\n* * *\n"
 
   - name: "Reflect Spell"
-    desc: "`pf2:r`  **Trigger** Vehanezhad is targeted by a ranged spell attack roll\n**Effect** Vehanezhad adjusts a wing and gains a +4 circumstance bonus to AC against the triggering attack. If the attack misses, the spell reflects at the caster, who must roll a second ranged spell attack roll against their own AC to determine if the spell hits them instead."
+    desc: "`pf2:r`  **Trigger** Vehanezhad is targeted by a ranged spell attack roll\n* * *\n\n**Effect** Vehanezhad adjusts a wing and gains a +4 circumstance bonus to AC against the triggering attack. If the attack misses, the spell reflects at the caster, who must roll a second ranged spell attack roll against their own AC to determine if the spell hits them instead."
 
   - name: "Scintillating Aura"
-    desc: " (aura,concentrate,incapacitation,primal,visual) 30 feet. A swirling vortex of reflected color and light shimmers around the crystal dragon. Creatures in this aura's emanation are [[Conditions/Dazzled|Dazzled]]. Each creature that ends its turn in the emanation must succeed at a DC 37 Will check saving throw or be [[Conditions/Stunned 1|Stunned 1]] (or [[Conditions/Stunned 1|Stunned 3]] on a critical failure). Once a creature succeeds at this save, it is temporarily immune to the stunning effect for 1 minute. The crystal dragon can turn this aura on or off using a single action, which has the concentrate trait, and it can choose not to affect allies."
+    desc: " (aura,concentrate,incapacitation,primal,visual) 30 feet. A swirling vortex of reflected color and light shimmers around the crystal dragon. Creatures in this aura's emanation are [[Conditions/Dazzled|Dazzled]]. Each creature that ends its turn in the emanation must succeed at a DC 37 Will check saving throw or be [[Conditions/Stunned|Stunned 1]] (or [[Conditions/Stunned|Stunned 3]] on a critical failure). Once a creature succeeds at this save, it is temporarily immune to the stunning effect for 1 minute. The crystal dragon can turn this aura on or off using a single action, which has the concentrate trait, and it can choose not to affect allies."
 
   - name: "Twisting Tail"
-    desc: "`pf2:r` (move) **Trigger** A creature within reach of the dragon's tail uses a move action or leaves a square during a move action it's using\n**Effect** The dragon makes a tail Strike at the creature with a -2 penalty. If it hits, the dragon disrupts the creature's action."
+    desc: "`pf2:r` (move) **Trigger** A creature within reach of the dragon's tail uses a move action or leaves a square during a move action it's using\n* * *\n\n**Effect** The dragon makes a tail Strike at the creature with a -2 penalty. If it hits, the dragon disrupts the creature's action."
 
 attacks:
   - name: ""
@@ -88,13 +89,13 @@ attacks:
     desc: "DC 43, attack +35; __9th __  _[[Spells/Illusory Creature|Illusory Creature (At Will)]]_, _[[Spells/Illusory Object|Illusory Object (At Will)]]_; __8th __  _[[Spells/Mirage|Hallucinatory Terrain (At Will)]]_, _[[Spells/Ventriloquism|Ventriloquism (At Will)]]_; __7th __  _[[Spells/Project Image|Project Image]]_; __1st __  _[[Spells/Create Water|Create Water]]_\n__Cantrips__  __(9th)__ _[[Spells/Ghost Sound|Ghost Sound]]_"
 
   - name: "Breath Weapon"
-    desc: "`pf2:2` (primal) Vehanezhad breathes a flurry of piercing crystals that deals 19d6 piercing damage in a 60-foot cone (DC 40 Reflex check save). A creature who takes damage from this breath weapon is exposed to crystal corruption. Vehanezhad can't use Breath Weapon again for 1d4 rounds."
+    desc: "`pf2:2` (primal) Vehanezhad breathes a flurry of piercing crystals that deals 19d6 piercing damage in a @Template[cone|distance:60] (DC 40 Reflex check save). A creature who takes damage from this breath weapon is exposed to crystal corruption. Vehanezhad can't use Breath Weapon again for 1d4 rounds."
 
   - name: "Crystal Corruption"
-    desc: " (arcane,curse,incapacitation) Creatures afflicted by this curse slowly turn to solid crystal. This affliction's sickened, slowed, and paralyzed conditions can't be removed until the affliction itself is removed. Creatures with both the earth and elemental traits instead become carriers and suffer no ill effects aside from gaining the weakness to sonic.\n**Saving Throw** DC 40 Fortitude check\n**Stage 1** sickened 1 (1 hour)\n**Stage 2** weakness 5 to sonic and [[Conditions/Sickened 1|Sickened 1]] (1 day)\n**Stage 3** weakness 5 to sonic and [[Conditions/Slowed 1|Slowed 1]] (1 day)\n**Stage 4** weakness 10 to sonic and [[Conditions/Paralyzed|Paralyzed]] (1 day)\n**Stage 5** weakness 10 to sonic, and the creature is permanently [[Conditions/Petrified|Petrified]]."
+    desc: " (arcane,curse,incapacitation) Creatures afflicted by this curse slowly turn to solid crystal. This affliction's sickened, slowed, and paralyzed conditions can't be removed until the affliction itself is removed. Creatures with both the earth and elemental traits instead become carriers and suffer no ill effects aside from gaining the weakness to sonic.\n\n**Saving Throw** DC 40 Fortitude check\n\n**Stage 1** sickened 1 (1 hour)\n\n**Stage 2** weakness 5 to sonic and [[Conditions/Sickened|Sickened 1]] (1 day)\n\n**Stage 3** weakness 5 to sonic and [[Conditions/Slowed|Slowed 1]] (1 day)\n\n**Stage 4** weakness 10 to sonic and [[Conditions/Paralyzed|Paralyzed]] (1 day)\n\n**Stage 5** weakness 10 to sonic, and the creature is permanently [[Conditions/Petrified|Petrified]]."
 
   - name: "Crystallize Flesh"
-    desc: " (incapacitation,primal) **Trigger** The crystal dragon damages a creature made of flesh with a jaws Strike\n**Frequency** three times per day\n**Effect** The dragon embeds transformative crystals in the creature's flesh. The creature must attempt a DC 40 Fortitude check save.\n**Critical Success** The target is unaffected.\n**Success** The target is [[Conditions/Slowed 1|Slowed 1]] for 1 round as portions of its flesh turn crystalline.\n**Failure** The target is [[Conditions/Slowed 1|Slowed 1]] and must attempt a Fortitude save at the end of each of its turns; this ongoing save has the incapacitation trait. On a failed save, the slowed condition value increases by 1 (or by 2 on a critical failure). A successful save reduces the slowed condition value by 1. A creature unable to act due to the slowed condition from Crystallize Flesh is [[Conditions/Petrified|Petrified]] permanently, transforming into a crystalline statue. The effect ends if the creature is petrified or the slowed condition is removed.\n**Critical Failure** As failure, but the target is initially [[Conditions/Slowed 1|Slowed 2]]."
+    desc: " (incapacitation,primal) **Trigger** The crystal dragon damages a creature made of flesh with a jaws Strike\n\n**Frequency** three times per day\n* * *\n\n**Effect** The dragon embeds transformative crystals in the creature's flesh. The creature must attempt a DC 40 Fortitude check save.\n* * *\n\n**Critical Success** The target is unaffected.\n\n**Success** The target is [[Conditions/Slowed|Slowed 1]] for 1 round as portions of its flesh turn crystalline.\n\n**Failure** The target is [[Conditions/Slowed|Slowed 1]] and must attempt a Fortitude save at the end of each of its turns; this ongoing save has the incapacitation trait. On a failed save, the slowed condition value increases by 1 (or by 2 on a critical failure). A successful save reduces the slowed condition value by 1. A creature unable to act due to the slowed condition from Crystallize Flesh is [[Conditions/Petrified|Petrified]] permanently, transforming into a crystalline statue. The effect ends if the creature is petrified or the slowed condition is removed.\n\n**Critical Failure** As failure, but the target is initially [[Conditions/Slowed|Slowed 2]]."
 
   - name: "Draconic Frenzy"
     desc: "`pf2:2`  Vehanezhad makes two claw Strikes and one tail Strike in any order."
@@ -102,6 +103,12 @@ attacks:
   - name: "Draconic Momentum"
     desc: "  The dragon recharges their Breath Weapon whenever they critically hit with a Strike."
  
+```
+
+```encounter-table
+name: Vehanezhad
+creatures:
+  - 1: Vehanezhad
 ```
 
 

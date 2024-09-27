@@ -20,9 +20,7 @@ license: OGL
 
 **Trigger** You would take acid, cold, electricity, fire, or sonic damage from a spell.
 
-**Requirements** You have an unexpended spell slot of a rank
-
-equal to or higher than the triggering spell.
+**Requirements** You have an unexpended spell slot of a rank equal to or higher than the triggering spell.
 
 * * *
 

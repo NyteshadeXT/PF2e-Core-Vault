@@ -6,6 +6,7 @@ cssClasses: pf2e
 aliases: "Compendium.pf2e.pathfinder-bestiary-3.Actor.S6V3z6bE6G9J68tE" 
 tags:
   - pf2e/creature/type/animal
+  - pf2eMonster
   - pf2e/creature/level/0
 statblock: inline
 name: "Ringhorn Ram"
@@ -24,11 +25,12 @@ level: "Creature 0"
 
 alignment: ""
 size: "Medium"
-trait_01: "animal"
+trait_01: [[animal]]
 modifier: 6
 perception:
   - name: "Perception"
     desc: "+6; Low-Light Vision"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Acrobatics: +4, Athletics: +5, Stealth: +4, Survival: +6"
@@ -64,6 +66,12 @@ attacks:
   - name: "Ram Charge"
     desc: "`pf2:2`  The ram Strides twice in a straight line and then makes a horn Strike with a +1 circumstance bonus to its attack roll."
  
+```
+
+```encounter-table
+name: Ringhorn Ram
+creatures:
+  - 1: Ringhorn Ram
 ```
 
 

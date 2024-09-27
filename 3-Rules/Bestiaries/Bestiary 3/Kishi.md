@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.pathfinder-bestiary-3.Actor.dtkq45qf18bENXBd"
 tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/fey
+  - pf2eMonster
   - pf2e/creature/level/8
 statblock: inline
 name: "Kishi"
@@ -25,8 +26,8 @@ level: "Creature 8"
 
 alignment: ""
 size: "Medium"
-trait_01: "evil"
-trait_02: "fey"
+trait_01: [[evil]]
+trait_02: [[fey]]
 modifier: 14
 perception:
   - name: "Perception"
@@ -65,7 +66,7 @@ attacks:
     desc: "DC 27, attack +19; __1st __  _[[Spells/Charm|Charm (At Will)]]_"
 
   - name: "[[Bestiary Ability Glossary/Constrict|Constrict]]"
-    desc: "`pf2:1`  1d10 + 9 piercing, DC 26 Fortitude check ([[Conditions/Grabbed|Grabbed]] by jaws only)\n"
+    desc: "`pf2:1`  1d10+9 piercing, DC 26 Fortitude check ([[Conditions/Grabbed|Grabbed]] by jaws only)\n\n* * *\n"
 
   - name: "Head Spin"
     desc: "  The kishi switches between showing their attractive human face and their snarling hyena face. A kishi can use their innate spell and their Deception and Diplomacy skills only when their human face is showing, and they can use their jaws Strike only when their hyena face is showing."
@@ -79,6 +80,12 @@ attacks:
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
     desc: "`pf2:1`  "
  
+```
+
+```encounter-table
+name: Kishi
+creatures:
+  - 1: Kishi
 ```
 
 

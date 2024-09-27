@@ -16,7 +16,7 @@ license: OGL
 ---
 # Detonating Gears Snare
 ## Item 3
-### [[auditory]][[clockwork]][[consumable]][[mechanical]][[snare]][[trap]]
+### [[3-Rules/Rule References/auditory]][[clockwork]][[consumable]][[mechanical]][[snare]][[trap]]
 
 **Category** snare; 
 **Price** 12 gp; 

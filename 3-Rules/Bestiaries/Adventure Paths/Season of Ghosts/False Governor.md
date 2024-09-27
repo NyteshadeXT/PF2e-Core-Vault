@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/fiend
   - pf2e/creature/type/nindoru
+  - pf2eMonster
   - pf2e/creature/level/12
 statblock: inline
 name: "False Governor"
@@ -23,13 +24,13 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #199: To Bloom Below the Web"
 name: "False Governor"
 level: "Creature 12"
-rare_03: "Rare"
+rare_03: [[Rare]]
 alignment: ""
 size: "Medium"
-trait_01: "chaotic"
-trait_02: "evil"
-trait_03: "fiend"
-trait_04: "nindoru"
+trait_01: [[chaotic]]
+trait_02: [[evil]]
+trait_03: [[fiend]]
+trait_04: [[nindoru]]
 modifier: 22
 perception:
   - name: "Perception"
@@ -37,7 +38,7 @@ perception:
 languages: "Aklo, Common, Necril"
 skills:
   - name: "Skills"
-    desc: "Deception: +25 (+29 Impersonating Governor Heh Shan-Bao), Diplomacy: +23, Occultism: +22, Society: +22, Stealth: +24"
+    desc: "Deception: +25, Diplomacy: +23, Occultism: +22, Society: +22, Stealth: +24"
 abilityMods: [7, 6, 4, 4, 4, 7]
 speed: 25 feet
 sourcebook: "_Pathfinder #199: To Bloom Below the Web_"
@@ -68,11 +69,17 @@ attacks:
     desc: "DC 32, attack +24; __6th __  _[[Spells/Illusory Creature|Illusory Creature]]_, _[[Spells/Phantasmal Calamity|Phantasmal Calamity]]_; __5th __  _[[Spells/Phantom Pain|Phantom Pain]]_, _[[Spells/Wave of Despair|Wave of Despair]]_; __4th __  _[[Spells/Honeyed Words|Honeyed Words]]_, _[[Spells/Talking Corpse|Talking Corpse]]_; __2nd __  _[[Spells/Item Facade|Item Facade]]_\n__Cantrips__  __(6th)__ _[[Spells/Daze|Daze]]_, _[[Spells/Ghost Sound|Ghost Sound]]_, _[[Spells/Message|Message]]_"
 
   - name: "Manifest Body"
-    desc: " (concentrate,occult) **Frequency** once per day\n**Effect** The false governor has manifested a hollow humanoid body around their slender skeletal frame that looks identical to that of Governor Heh Shan-Bao. While wearing this manifested body, the false governor loses their claw Strike, and their voice sounds like that of Heh Shan-Bao's. The false governor's manifested body decays swiftly if they don't take 10 minutes once per day to maintain the manifestation of the false flesh. The body has 10 Hit Points and the same defenses as the false governor. When the body is destroyed, the false governor emerges unharmed, and the fleshy shell left behind scatters into a cloud of red butterflies that swiftly fade into red mist. This emergence is so grisly and unsettling that all creatures within 30 feet who witness it must attempt a DC 29 Fortitude check save or become [[Conditions/Sickened 1|Sickened 2]] ([[Conditions/Sickened 1|Sickened 3]] on a critical failure); this has the mental and visual traits."
+    desc: " (concentrate,occult) **Frequency** once per day\n* * *\n\n**Effect** The false governor has manifested a hollow humanoid body around their slender skeletal frame that looks identical to that of Governor Heh Shan-Bao. While wearing this manifested body, the false governor loses their claw Strike, and their voice sounds like that of Heh Shan-Bao's. The false governor's manifested body decays swiftly if they don't take 10 minutes once per day to maintain the manifestation of the false flesh. The body has 10 Hit Points and the same defenses as the false governor. When the body is destroyed, the false governor emerges unharmed, and the fleshy shell left behind scatters into a cloud of red butterflies that swiftly fade into red mist. This emergence is so grisly and unsettling that all creatures within 30 feet who witness it must attempt a DC 29 Fortitude check save or become [[Conditions/Sickened|Sickened 2]] ([[Conditions/Sickened|Sickened 3]] on a critical failure); this has the mental and visual traits."
 
   - name: "Stunning Despair"
-    desc: "`pf2:2` (auditory,incapacitation,mental,occult) The false governor unleashes several overwhelming sobs of despair. Creatures within 30 feet must attempt a DC 29 Will check save to avoid becoming [[Conditions/Stunned 1|Stunned 1]] ([[Conditions/Stunned 1|Stunned 3]] on a critical failure). The false governor can't use Stunning Despair again for 1d4 rounds."
+    desc: "`pf2:2` (auditory,incapacitation,mental,occult) The false governor unleashes several overwhelming sobs of despair. Creatures within 30 feet must attempt a DC 29 Will check save to avoid becoming [[Conditions/Stunned|Stunned 1]] ([[Conditions/Stunned|Stunned 3]] on a critical failure). The false governor can't use Stunning Despair again for 1d4 rounds."
  
+```
+
+```encounter-table
+name: False Governor
+creatures:
+  - 1: False Governor
 ```
 
 

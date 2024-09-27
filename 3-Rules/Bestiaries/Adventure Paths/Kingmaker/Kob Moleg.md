@@ -10,6 +10,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/giant
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/16
 statblock: inline
 name: "Kob Moleg"
@@ -24,14 +25,14 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Kingmaker"
 name: "Kob Moleg"
 level: "Creature 16"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Large"
-trait_01: "chaotic"
-trait_02: "earth"
-trait_03: "evil"
-trait_04: "giant"
-trait_05: "humanoid"
+trait_01: [[chaotic]]
+trait_02: [[earth]]
+trait_03: [[evil]]
+trait_04: [[giant]]
+trait_05: [[humanoid]]
 modifier: 27
 perception:
   - name: "Perception"
@@ -77,17 +78,23 @@ attacks:
     desc: "`pf2:1` Rock +29 (brutal, range increment 120 feet)\n__Damage__  1d8 + 17 bludgeoning plus rock"
 
   - name: "Kob's Ruinous Strike"
-    desc: "`pf2:2`  Kob Moleg makes a melee Strike. If he hits and deals damage, the target is [[Conditions/Frightened 1|Frightened 1]], or [[Conditions/Frightened 1|Frightened 2]] on a critical hit."
+    desc: "`pf2:2`  Kob Moleg makes a melee Strike. If he hits and deals damage, the target is [[Conditions/Frightened|Frightened 1]], or [[Conditions/Frightened|Frightened 2]] on a critical hit."
 
   - name: "[[Bestiary Ability Glossary/Throw Rock|Throw Rock]]"
     desc: "`pf2:1`  "
 
   - name: "Wide Swing"
-    desc: "`pf2:1`  The hill giant makes a single greatclub Strike and compares the attack roll result to the ACs of up to two foes within its reach.\nThis counts as two attacks for the hill giant's multiple attack penalty."
+    desc: "`pf2:1`  The hill giant makes a single greatclub Strike and compares the attack roll result to the ACs of up to two foes within its reach.\n\nThis counts as two attacks for the hill giant's multiple attack penalty."
 
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
     desc: "`pf2:1`  "
  
+```
+
+```encounter-table
+name: Kob Moleg
+creatures:
+  - 1: Kob Moleg
 ```
 
 

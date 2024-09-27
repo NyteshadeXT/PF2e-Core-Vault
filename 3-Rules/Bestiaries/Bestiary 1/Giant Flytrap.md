@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.pathfinder-bestiary.Actor.5pk6bfodgnllSIOy"
 tags:
   - pf2e/creature/type/mindless
   - pf2e/creature/type/plant
+  - pf2eMonster
   - pf2e/creature/level/10
 statblock: inline
 name: "Giant Flytrap"
@@ -25,15 +26,16 @@ level: "Creature 10"
 
 alignment: ""
 size: "huge"
-trait_01: "mindless"
-trait_02: "plant"
+trait_01: [[mindless]]
+trait_02: [[plant]]
 modifier: 17
 perception:
   - name: "Perception"
     desc: "+17; Tremorsense (Imprecise) 60 Feet"
+languages: ""
 skills:
   - name: "Skills"
-    desc: "Athletics: +23, Stealth: +21 (+24 in undergrowth)"
+    desc: "Athletics: +23, Stealth: +21"
 abilityMods: [7, 5, 5, -5, 3, -2]
 speed: 25 feet
 sourcebook: "_Pathfinder Bestiary_"
@@ -52,7 +54,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Quick Capture"
-    desc: "`pf2:r`  **Trigger** A creature hits or touches the flytrap.\n**Effect** The flytrap makes a leaf Strike against the triggering creature. If it hits, the creature is [[Conditions/Grabbed|Grabbed]] in that leaf."
+    desc: "`pf2:r`  **Trigger** A creature hits or touches the flytrap.\n* * *\n\n**Effect** The flytrap makes a leaf Strike against the triggering creature. If it hits, the creature is [[Conditions/Grabbed|Grabbed]] in that leaf."
 
 attacks:
   - name: ""
@@ -67,8 +69,14 @@ attacks:
     desc: "`pf2:2`  The flytrap makes four leaf Strikes at a -2 penalty, each against a different target. These attacks count toward the flytrap's multiple attack penalty, but the multiple attack penalty doesn't increase until after it makes all its attacks."
 
   - name: "[[Bestiary Ability Glossary/Swallow Whole|Swallow Whole]]"
-    desc: "`pf2:1` (attack) Large, 2d8+3 bludgeoning damage plus 2d6 acid damage, Rupture 17\n"
+    desc: "`pf2:1` (attack) Large, 2d8+3 bludgeoning damage plus 2d6 acid damage, Rupture 17\n\n* * *\n"
  
+```
+
+```encounter-table
+name: Giant Flytrap
+creatures:
+  - 1: Giant Flytrap
 ```
 
 

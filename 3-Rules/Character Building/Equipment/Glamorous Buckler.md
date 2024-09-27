@@ -5,8 +5,9 @@ cssclasses: pf2e,pf2e-spell
 tags:
   - trait/magical
   - trait/common
+  - remaster
 aliases: "Compendium.pf2e.equipment-srd.Item.IxuDS3POB6EH8TVN"
-license: OGL
+license: ORC
 ---
 # Glamorous Buckler
 ## Item 2
@@ -21,7 +22,7 @@ A glamorous buckler (Hardness 3, HP 6, BT 3) is lavishly decorated with gilding 
 
 * * *
 
-**Activate** `pf2:0` envision
+**Activate—Dazzling Feint** `pf2:0` (concentrate)
 
 **Frequency** once per day
 
@@ -41,5 +42,5 @@ A glamorous buckler (Hardness 3, HP 6, BT 3) is lavishly decorated with gilding 
 | --- | --- | --- |
 | 3 | 6 | 3 |
 
-*Source: Pathfinder Advanced Player's Guide*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

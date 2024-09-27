@@ -6,6 +6,7 @@ cssClasses: pf2e
 aliases: "Compendium.pf2e.pathfinder-bestiary-3.Actor.AlLBsYO3ax9OQzAK" 
 tags:
   - pf2e/creature/type/construct
+  - pf2eMonster
   - pf2e/creature/level/7
 statblock: inline
 name: "Tupilaq"
@@ -24,11 +25,12 @@ level: "Creature 7"
 
 alignment: ""
 size: "Small"
-trait_01: "construct"
+trait_01: [[construct]]
 modifier: 16
 perception:
   - name: "Perception"
     desc: "+16; Darkvision"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Athletics: +15"
@@ -50,7 +52,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Construct Armor (Hardness 8)"
-    desc: "  Like normal objects, a tupilaq has Hardness. This Hardness reduces any damage it takes by an amount equal to the Hardness.\nOnce a tupilaq is reduced to less than half its Hit Points, or immediately upon being damaged by a critical hit, its construct armor breaks, it loses its Hardness, and its Armor Class is reduced to 22."
+    desc: "  Like normal objects, a tupilaq has Hardness. This Hardness reduces any damage it takes by an amount equal to the Hardness.\n\nOnce a tupilaq is reduced to less than half its Hit Points, or immediately upon being damaged by a critical hit, its construct armor breaks, it loses its Hardness, and its Armor Class is reduced to 22."
 
 attacks:
   - name: ""
@@ -67,6 +69,12 @@ attacks:
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
     desc: "`pf2:1`  "
  
+```
+
+```encounter-table
+name: Tupilaq
+creatures:
+  - 1: Tupilaq
 ```
 
 

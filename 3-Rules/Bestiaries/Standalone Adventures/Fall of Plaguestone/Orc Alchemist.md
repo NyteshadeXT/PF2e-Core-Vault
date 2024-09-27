@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/humanoid
   - pf2e/creature/type/orc
+  - pf2eMonster
   - pf2e/creature/level/2
 statblock: inline
 name: "Orc Alchemist"
@@ -26,10 +27,10 @@ level: "Creature 2"
 
 alignment: ""
 size: "Medium"
-trait_01: "chaotic"
-trait_02: "evil"
-trait_03: "humanoid"
-trait_04: "orc"
+trait_01: [[chaotic]]
+trait_02: [[evil]]
+trait_03: [[humanoid]]
+trait_04: [[orc]]
 modifier: 6
 perception:
   - name: "Perception"
@@ -77,6 +78,12 @@ attacks:
   - name: "Ranged"
     desc: "`pf2:1` Bottled Lightning +9 (range increment 20 feet, splash)\n__Damage__  1d6 electricity 1 electricity"
  
+```
+
+```encounter-table
+name: Orc Alchemist
+creatures:
+  - 1: Orc Alchemist
 ```
 
 

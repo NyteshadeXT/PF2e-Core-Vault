@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/undead
   - pf2e/creature/type/unholy
+  - pf2eMonster
   - pf2e/creature/level/16
 statblock: inline
 name: "Trexima Butoi"
@@ -22,12 +23,12 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #191: The Destiny War"
 name: "Trexima Butoi"
 level: "Creature 16"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Medium"
-trait_01: "evil"
-trait_02: "undead"
-trait_03: "unholy"
+trait_01: [[evil]]
+trait_02: [[undead]]
+trait_03: [[unholy]]
 modifier: 26
 perception:
   - name: "Perception"
@@ -35,7 +36,7 @@ perception:
 languages: "Aklo, Common, Daemonic, Draconic, Mwangi, Necril, Osiriani, Sakvroth"
 skills:
   - name: "Skills"
-    desc: "Arcana: +31, Crafting: +29 (can craft magic items), Deception: +29, Intimidation: +27, Nature: +27, Stealth: +27"
+    desc: "Arcana: +31, Crafting: +29, Deception: +29, Intimidation: +27, Nature: +27, Stealth: +27"
 abilityMods: [0, 5, 4, 7, 5, 5]
 speed: 25 feet
 sourcebook: "_Pathfinder #191: The Destiny War_"
@@ -47,7 +48,7 @@ hp: 290
 health:
   - name: ""
   - name: HP
-    desc: "290, void healing, rejuvenation; __Immunities__  death effects,  disease,  paralyzed,  poison,  unconscious; __Resistances__ cold 15, physical 15 (except bludgeoning)"
+    desc: "290, void healing, rejuvenation; __Immunities__  death effects,  disease,  paralyzed,  poison,  unconscious; __Resistances__ cold 15, physical 15 (except magical bludgeoning)"
 abilities_top:
   - name: ""
   - name: "Items"
@@ -55,7 +56,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "[[Bestiary Ability Glossary/Frightful Presence|Frightful Presence]]"
-    desc: " (aura,emotion,fear,mental) 60 feet. DC 29 Will check\n"
+    desc: " (aura,emotion,fear,mental) 60 feet. DC 29 Will check\n\n* * *\n"
 
   - name: "[[Creature Family Ability Glossary/(Lich) Rejuvenation|Rejuvenation]]"
     desc: " (arcane) When a lich is destroyed, its soul immediately transfers to its _[[Equipment/Lich Soul Cage|Soul Cage]]_. A lich can be permanently destroyed only if its _soul cage_ is found and destroyed."
@@ -76,17 +77,23 @@ attacks:
     desc: "_[[Spells/Create Undead|Create Undead]]_"
 
   - name: "[[Creature Family Ability Glossary/(Lich) Drain Soul Cage|Drain Soul Cage]]"
-    desc: "  **Frequency** once per day\n**Effect** The lich taps into its _[[Equipment/Lich Soul Cage|Soul Cage's]]_ power to cast any arcane spell up to 6th level, even if the spell being cast is not one of the lich's prepared spells. The lich's _soul cage_ doesn't need to be present for the lich to use this ability."
+    desc: "  **Frequency** once per day\n* * *\n\n**Effect** The lich taps into its _[[Equipment/Lich Soul Cage|Soul Cage's]]_ power to cast any arcane spell up to 6th level, even if the spell being cast is not one of the lich's prepared spells. The lich's _soul cage_ doesn't need to be present for the lich to use this ability."
 
   - name: "[[Creature Family Ability Glossary/(Lich) Paralyzing Touch|Paralyzing Touch]]"
-    desc: " (arcane,curse,incapacitation) A creature damaged by the lich's hand Strike must succeed at a DC 32 Fortitude check save against the lich's spell DC-4.\nThe creature becomes [[Conditions/Paralyzed|Paralyzed]] for 1 round on a failure. On a critical failure, the creature is paralyzed permanently, falls [[Conditions/Prone|Prone]], and seems dead. A DC 25 Medicine check check reveals the victim is alive."
+    desc: " (arcane,curse,incapacitation) A creature damaged by the lich's hand Strike must succeed at a DC 32 Fortitude check save against the lich's spell DC-4.\n\nThe creature becomes [[Conditions/Paralyzed|Paralyzed]] for 1 round on a failure. On a critical failure, the creature is paralyzed permanently, falls [[Conditions/Prone|Prone]], and seems dead. A DC 25 Medicine check check reveals the victim is alive."
 
   - name: "Siphon Life"
-    desc: "`pf2:r`  **Trigger** Trexima deals damage with his hand Strike\n**Effect** Trexima regains Hit Points equal to half the damage dealt."
+    desc: "`pf2:r`  **Trigger** Trexima deals damage with his hand Strike\n* * *\n\n**Effect** Trexima regains Hit Points equal to half the damage dealt."
 
   - name: "Steady Spellcasting"
     desc: "  If a reaction would disrupt the lich's spellcasting action, the lich attempts a DC 15 Flat check check. On a success, the action isn't disrupted."
  
+```
+
+```encounter-table
+name: Trexima Butoi
+creatures:
+  - 1: Trexima Butoi
 ```
 
 

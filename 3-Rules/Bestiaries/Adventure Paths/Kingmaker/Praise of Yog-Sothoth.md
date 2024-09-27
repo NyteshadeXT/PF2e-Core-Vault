@@ -5,6 +5,7 @@ noteType: pf2eHazard
 tags:
   - magical
   - trap
+  - pf2eHazard
   - complex
 source: Pathfinder Kingmaker
 aliases: "Compendium.pf2e.kingmaker-bestiary.Actor.oqlZNnsV8XMGn7JN" 
@@ -22,8 +23,8 @@ name: "Praise of Yog-Sothoth"
 level: "Hazard 19"
 
 trait_06: "Complex"
-trait_01: "magical"
-trait_02: "trap"
+trait_01: [[magical]]
+trait_02: [[trap]]
 modifier: 37
 sourcebook: "_Pathfinder Kingmaker_"
 perception:
@@ -42,11 +43,17 @@ attacks:
   - name: ""
 
   - name: "Reactive Charge"
-    desc: "`pf2:r` **Trigger** A creature spends more than 1 round in the room without speaking aloud the phrases appearing in the alcove.\n**Effect** The creature takes 12d6 cold damage (DC 41 Fortitude check, plus [[Conditions/Immobilized|Immobilized]] for 1 minute on a critical failure). The trap then rolls initiative."
+    desc: "`pf2:r` **Trigger** A creature spends more than 1 round in the room without speaking aloud the phrases appearing in the alcove.\n* * *\n\n**Effect** The creature takes 12d6 cold damage (DC 41 Fortitude check, plus [[Conditions/Immobilized|Immobilized]] for 1 minute on a critical failure). The trap then rolls initiative."
 
   - name: "Routine"
     desc: "(1 action) The trap fills the entirety of area **B4** with additional blasts of cold. All creatures in area **B4** take 12d6 cold damage (DC 41 Fortitude check, plus [[Conditions/Immobilized|Immobilized]] for 1 minute on a critical failure)."
   - name: "Reset"
     desc: "The trap deactivates 1 round after it has no target creatures and resets after 1 minute."
+```
+
+```encounter-table
+name: Praise of Yog-Sothoth
+creatures:
+  - 1: Praise of Yog-Sothoth
 ```
 

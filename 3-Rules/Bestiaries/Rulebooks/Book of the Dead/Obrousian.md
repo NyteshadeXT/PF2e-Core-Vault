@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/undead
   - pf2e/creature/type/unholy
+  - pf2eMonster
   - pf2e/creature/level/14
 statblock: inline
 name: "Obrousian"
@@ -23,13 +24,13 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Book of the Dead"
 name: "Obrousian"
 level: "Creature 14"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Medium"
-trait_01: "amphibious"
-trait_02: "evil"
-trait_03: "undead"
-trait_04: "unholy"
+trait_01: [[amphibious]]
+trait_02: [[evil]]
+trait_03: [[undead]]
+trait_04: [[unholy]]
 modifier: 26
 perception:
   - name: "Perception"
@@ -68,7 +69,7 @@ attacks:
     desc: "DC 34, attack +26; __7th __  _[[Spells/Warp Mind|Warp Mind (x3)]]_; __3rd __  _[[Spells/Enthrall|Enthrall (At Will)]]_"
 
   - name: "[[Bestiary Ability Glossary/Change Shape|Change Shape]]"
-    desc: "`pf2:1` (concentrate,divine,polymorph) The obrousian can take on the appearance of any kind of Small or Medium humanoid creature. This transformation increases their Speed to 25 feet and might remove their swim Speed depending on the form. It doesn't change their attack and damage modifiers with their Strikes, but it might change the damage type their Strikes deal (typically to bludgeoning damage).\n"
+    desc: "`pf2:1` (concentrate,divine,polymorph) The obrousian can take on the appearance of any kind of Small or Medium humanoid creature. This transformation increases their Speed to 25 feet and might remove their swim Speed depending on the form. It doesn't change their attack and damage modifiers with their Strikes, but it might change the damage type their Strikes deal (typically to bludgeoning damage).\n\n* * *\n"
 
   - name: "Drowning Grasp"
     desc: "  When a creature is [[Conditions/Grabbed|Grabbed]] by the obrousian, the creature's lungs magically fill with water. A creature that can't breathe water is suffocating while it is grabbed."
@@ -76,6 +77,12 @@ attacks:
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
     desc: "`pf2:1`  "
  
+```
+
+```encounter-table
+name: Obrousian
+creatures:
+  - 1: Obrousian
 ```
 
 

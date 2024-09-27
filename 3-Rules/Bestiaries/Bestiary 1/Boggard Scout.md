@@ -10,6 +10,7 @@ tags:
   - pf2e/creature/type/chaotic
   - pf2e/creature/type/evil
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/1
 statblock: inline
 name: "Boggard Scout"
@@ -28,11 +29,11 @@ level: "Creature 1"
 
 alignment: ""
 size: "Medium"
-trait_01: "amphibious"
-trait_02: "boggard"
-trait_03: "chaotic"
-trait_04: "evil"
-trait_05: "humanoid"
+trait_01: [[amphibious]]
+trait_02: [[boggard]]
+trait_03: [[chaotic]]
+trait_04: [[evil]]
+trait_05: [[humanoid]]
 modifier: 7
 perception:
   - name: "Perception"
@@ -40,7 +41,7 @@ perception:
 languages: "Boggard, Common"
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +5, Athletics: +8, Stealth: +7 (+9 in water)"
+    desc: "Acrobatics: +5, Athletics: +8, Stealth: +7"
 abilityMods: [3, 2, 4, -1, 2, 0]
 speed: 20 feet,  swim 25 feet
 sourcebook: "_Pathfinder Bestiary_"
@@ -75,11 +76,17 @@ attacks:
     desc: "  A boggard scout ignores difficult terrain caused by swamp terrain features."
 
   - name: "Terrifying Croak"
-    desc: "`pf2:1` (auditory,emotion,fear,mental) The boggard scout unleashes a terrifying croak. Any non-boggard within 30 feet becomes [[Conditions/Frightened 1|Frightened 1]] unless they succeed at a DC 17 Will check save.\nThose who critically succeed are temporarily immune for 1 minute."
+    desc: "`pf2:1` (auditory,emotion,fear,mental) The boggard scout unleashes a terrifying croak. Any non-boggard within 30 feet becomes [[Conditions/Frightened|Frightened 1]] unless they succeed at a DC 17 Will check save.\n\nThose who critically succeed are temporarily immune for 1 minute."
 
   - name: "Tongue Grab"
-    desc: "  If the boggard scout hits a creature with its tongue, that creature becomes [[Conditions/Grabbed|Grabbed]] by the boggard. Unlike with a normal grab, the creature isn't [[Conditions/Immobilized|Immobilized]], but it can't move beyond the reach of the boggard's tongue.\nA creature can sever the tongue by hitting AC 13 and dealing at least 2 slashing damage. Though this doesn't deal any damage to the boggard, it prevents it from using its tongue Strike until it regrows its tongue, which takes a week."
+    desc: "  If the boggard scout hits a creature with its tongue, that creature becomes [[Conditions/Grabbed|Grabbed]] by the boggard. Unlike with a normal grab, the creature isn't [[Conditions/Immobilized|Immobilized]], but it can't move beyond the reach of the boggard's tongue.\n\nA creature can sever the tongue by hitting AC 13 and dealing at least 2 slashing damage. Though this doesn't deal any damage to the boggard, it prevents it from using its tongue Strike until it regrows its tongue, which takes a week."
  
+```
+
+```encounter-table
+name: Boggard Scout
+creatures:
+  - 1: Boggard Scout
 ```
 
 

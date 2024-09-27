@@ -4,6 +4,7 @@ obsidianUIMode: preview
 noteType: pf2eHazard
 tags:
   - magical
+  - pf2eHazard
   - complex
 source: Pathfinder #170: Spoken on the Song Wind
 aliases: "Compendium.pf2e.strength-of-thousands-bestiary.Actor.d1zIcvHE3z7k0Rzs" 
@@ -21,7 +22,7 @@ name: "Electrified Water Ward"
 level: "Hazard 8"
 
 trait_06: "Complex"
-trait_01: "magical"
+trait_01: [[magical]]
 modifier: 18
 sourcebook: "_Pathfinder #170: Spoken on the Song Wind_"
 perception:
@@ -40,11 +41,17 @@ attacks:
   - name: ""
 
   - name: "Electrocution"
-    desc: "`pf2:r` (arcane, electricity) **Trigger** A creature passes over the invisible underwater rune between the north and south doors\n**Effect** The trap deals 4d10 electricity damage (DC 26 Reflex check save) to creatures touching the water, and then rolls initiative."
+    desc: "`pf2:r` (arcane, electricity) **Trigger** A creature passes over the invisible underwater rune between the north and south doors\n* * *\n\n**Effect** The trap deals 4d10 electricity damage (DC 26 Reflex check save) to creatures touching the water, and then rolls initiative."
 
   - name: "Routine"
-    desc: "(1 action) The trap deals 4d10 electricity damage (DC 26 Reflex check save) to all creatures in the room. A creature that fails the save is [[Conditions/Slowed 1|Slowed 1]] ([[Conditions/Slowed 1|Slowed 2]] on a critical failure). A creature that isn't touching the water treats the result of its saving throw as one degree of success better."
+    desc: "(1 action) The trap deals 4d10 electricity damage (DC 26 Reflex check save) to all creatures in the room. A creature that fails the save is [[Conditions/Slowed|Slowed 1]] ([[Conditions/Slowed|Slowed 2]] on a critical failure). A creature that isn't touching the water treats the result of its saving throw as one degree of success better."
   - name: "Reset"
     desc: "The pulses stop as soon as no creatures are in the hallway, and then reset after 1 hour."
+```
+
+```encounter-table
+name: Electrified Water Ward
+creatures:
+  - 1: Electrified Water Ward
 ```
 

@@ -15,7 +15,7 @@ license: OGL
 ---
 # Fighting Stick
 ## Item 0
-### [uncommon](uncommon "Uncommon Rarity Trait")[[backswing]][[halfling]][[nonlethal]][[shove]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[backswing]][[3-Rules/trait_reference/halfling]][[nonlethal]][[3-Rules/trait_reference/shove]]
 
 |  |  |
 | -- | -- |

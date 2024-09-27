@@ -12,7 +12,7 @@ license: OGL
 ---
 # Ethersight Ring
 ## Item 7
-### [uncommon](uncommon "Uncommon Rarity Trait")[[invested]][[magical]][[revelation]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[invested]][[3-Rules/Rule References/Magical]][[revelation]]
 
 
 **Price** 325 gp; 

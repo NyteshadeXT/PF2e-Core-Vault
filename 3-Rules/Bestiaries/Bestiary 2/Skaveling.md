@@ -6,6 +6,7 @@ cssClasses: pf2e
 aliases: "Compendium.pf2e.pathfinder-bestiary-2.Actor.LQL8HU6tISXZwlOw" 
 tags:
   - pf2e/creature/type/undead
+  - pf2eMonster
   - pf2e/creature/level/5
 statblock: inline
 name: "Skaveling"
@@ -24,11 +25,12 @@ level: "Creature 5"
 
 alignment: ""
 size: "Large"
-trait_01: "undead"
+trait_01: [[undead]]
 modifier: 15
 perception:
   - name: "Perception"
     desc: "+15; Darkvision, Echolocation 40 Feet"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Acrobatics: +13, Athletics: +13, Intimidation: +11"
@@ -62,14 +64,20 @@ attacks:
     desc: "`pf2:1` Wing +15 (agile)\n__Damage__  2d4 + 8 bludgeoning plus paralysis"
 
   - name: "Bone-Chilling Screech"
-    desc: "`pf2:2` (auditory,emotion,fear,mental,occult) The skaveling unleashes a horrifying screech that chills the very bones of those close enough to feel it. The screech can be heard for miles, but each creature in a 20-foot emanation must also attempt a DC 22 Will check save.\nThe skaveling can't use Bone-Chilling Screech again for 1d4 rounds.\n**Critical Success** The creature is unaffected and is temporarily immune to Bone- Chilling Screech for 24 hours.\n**Success** The creature is [[Conditions/Frightened 1|Frightened 1]].\n**Failure** The creature is [[Conditions/Frightened 1|Frightened 2]].\n**Critical Failure** The creature is [[Conditions/Frightened 1|Frightened 2]] and [[Conditions/Stunned 1|Stunned 1]] by fear."
+    desc: "`pf2:2` (auditory,emotion,fear,mental,occult) The skaveling unleashes a horrifying screech that chills the very bones of those close enough to feel it. The screech can be heard for miles, but each creature in a @Template[emanation|distance:20] must also attempt a DC 22 Will check save.\n\nThe skaveling can't use Bone-Chilling Screech again for 1d4 rounds.\n* * *\n\n**Critical Success** The creature is unaffected and is temporarily immune to Bone- Chilling Screech for 24 hours.\n\n**Success** The creature is [[Conditions/Frightened|Frightened 1]].\n\n**Failure** The creature is [[Conditions/Frightened|Frightened 2]].\n\n**Critical Failure** The creature is [[Conditions/Frightened|Frightened 2]] and [[Conditions/Stunned|Stunned 1]] by fear."
 
   - name: "Ghoul Fever"
-    desc: " (disease) **Saving Throw** DC 22 Fortitude check\n**Stage 1** carrier with no ill effect (1 day)\n**Stage 2** 2d6 void damage and regains half as many Hit Points from all healing (1 day)\n**Stage 3** as stage 2 (1 day)\n**Stage 4** 2d6 void damage and gains no benefit from healing (1 day)\n**Stage 5** as stage 4 (1 day)\n**Stage 6** dead, and rises as a ghoul the next midnight"
+    desc: " (disease) **Saving Throw** DC 22 Fortitude check\n\n**Stage 1** carrier with no ill effect (1 day)\n\n**Stage 2** 2d6 void damage and regains half as many Hit Points from all healing (1 day)\n\n**Stage 3** as stage 2 (1 day)\n\n**Stage 4** 2d6 void damage and gains no benefit from healing (1 day)\n\n**Stage 5** as stage 4 (1 day)\n\n**Stage 6** dead, and rises as a ghoul the next midnight"
 
   - name: "Paralysis"
-    desc: " (incapacitation,occult) Any creature hit by the skaveling's Strikes must attempt a DC 22 Fortitude check save.\n**Critical Success** The creature is unaffected.\n**Success** The creature is [[Conditions/Slowed 1|Slowed 1]].\n**Failure** The creature is [[Conditions/Paralyzed|Paralyzed]]. It can attempt a new save at the end of each of its turns, and the DC cumulatively decreases by 1 on each save."
+    desc: " (incapacitation,occult) Any creature hit by the skaveling's Strikes must attempt a DC 22 Fortitude check save.\n* * *\n\n**Critical Success** The creature is unaffected.\n\n**Success** The creature is [[Conditions/Slowed|Slowed 1]].\n\n**Failure** The creature is [[Conditions/Paralyzed|Paralyzed]]. It can attempt a new save at the end of each of its turns, and the DC cumulatively decreases by 1 on each save."
  
+```
+
+```encounter-table
+name: Skaveling
+creatures:
+  - 1: Skaveling
 ```
 
 

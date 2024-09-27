@@ -22,11 +22,11 @@ license: ORC
 | **Category** martial melee weapon | **Group** club |
 | **Price** 3 gp |  |
 | **Bulk** 3 | **Size** med |
-| **Damage** 1d10 bludgeoning  | **Usage** held-in-one-hand |
+| **Damage** 1d10 bludgeoning  | **Usage** held-in-two-hands |
 
 
 
-
+The tetsubo is a war club constructed out of heavy wood shod with iron studs, designed for smashing through armor and defenses. A tetsubo made entirely out of metal might also be referred to as a kanabo.
 
 *Source: Pathfinder Lost Omens: Tian Xia Character Guide*
 *ORC*

@@ -16,7 +16,7 @@ license: OGL
 ---
 # Assume Earth's Mantle `pf2:1`
 ## Feat 14
-### [[Earth]][[impulse]][[kineticist]][[primal]][[stance]]
+### [[earth]][[impulse]][[kineticist]][[primal]][[stance]]
 
 **Category** class; 
 

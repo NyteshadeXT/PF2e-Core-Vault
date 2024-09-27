@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/human
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/7
 statblock: inline
 name: "Cole Farsen, Gang Leader"
@@ -23,13 +24,13 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Society Scenario #3-11: No Time for Treason"
 name: "Cole Farsen, Gang Leader"
 level: "Creature 7"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Medium"
-trait_01: "chaotic"
-trait_02: "evil"
-trait_03: "human"
-trait_04: "humanoid"
+trait_01: [[chaotic]]
+trait_02: [[evil]]
+trait_03: [[human]]
+trait_04: [[humanoid]]
 modifier: 14
 perception:
   - name: "Perception"
@@ -63,7 +64,7 @@ abilities_mid:
     desc: "  When Cole rolls a success on a Reflex save, he gets a critical success instead."
 
   - name: "Nimble Dodge"
-    desc: "`pf2:r`  **Trigger** Cole is targeted with an attack by an attacker he can see\n**Effect** Cole gains a +2 circumstance bonus to AC against the triggering attack."
+    desc: "`pf2:r`  **Trigger** Cole is targeted with an attack by an attacker he can see\n* * *\n\n**Effect** Cole gains a +2 circumstance bonus to AC against the triggering attack."
 
   - name: "Surprise Attack"
     desc: "  On the first round of combat, if Cole rolls Deception or Stealth for initiative, creatures who haven't acted are [[Conditions/Off-Guard|Off-Guard]] to him."
@@ -78,7 +79,7 @@ attacks:
     desc: "`pf2:1` Sling +18 (propulsive, range increment 50 feet, reload 1)\n__Damage__  1d6 + 8 bludgeoning"
 
   - name: "Brutal Rally"
-    desc: "`pf2:r` (auditory,emotion,linguistic,mental) **Trigger** Cole rolls a critical hit against a creature\n**Effect** All allies that can see Cole gain a +1 circumstance bonus to attack rolls until the start of Cole's next turn.\n[[Bestiary Effects/Effect_ Brutal Rally|Effect: Brutal Rally]]"
+    desc: "`pf2:r` (auditory,emotion,linguistic,mental) **Trigger** Cole rolls a critical hit against a creature\n* * *\n\n**Effect** All allies that can see Cole gain a +1 circumstance bonus to attack rolls until the start of Cole's next turn.\n\n[[Bestiary Effects/Effect_ Brutal Rally|Effect: Brutal Rally]]"
 
   - name: "Gang Up"
     desc: "  Any enemy is [[Conditions/Off-Guard|Off-Guard]] against Cole's melee attacks due to flanking as long as the enemy is within melee reach of both Cole and one of his allies."
@@ -89,6 +90,12 @@ attacks:
   - name: "[[Bestiary Ability Glossary/Sneak Attack|Sneak Attack]]"
     desc: "  Cole deals an extra 2d6 precision damage to [[Conditions/Off-Guard|Off-Guard]] creatures."
  
+```
+
+```encounter-table
+name: Cole Farsen, Gang Leader
+creatures:
+  - 1: Cole Farsen, Gang Leader
 ```
 
 

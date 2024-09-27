@@ -6,8 +6,9 @@ tags:
   - trait/flourish
   - trait/common
   - category/offensive
+  - remaster
 aliases: "Compendium.pf2e.actionspf2e.Item.vZltxwRNvF5khf9a"
-license: OGL
+license: ORC
 ---
 # Boarding Assault `pf2:2`
 
@@ -18,9 +19,9 @@ license: OGL
 
 
 
-Either Stride twice or attempt an Acrobatics check (DC determined by the GM, but usually DC 20) to swing on a rope up to twice your Speed.
+Either Stride twice or attempt an Acrobatics check check (DC determined by the GM, but usually DC 20) to swing up to twice your Speed on a rope or similar object, then Strike.
 
-If you boarded or disembarked from a boat or similar vehicle during this movement, you can make a melee Strike that deals one additional weapon damage die.
+If you boarded or disembarked from a boat or similar vehicle during this movement, the Strike deals one additional weapon damage die.
 
-*Source: Pathfinder Advanced Player's Guide*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

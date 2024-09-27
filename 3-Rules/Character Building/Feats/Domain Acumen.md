@@ -6,8 +6,9 @@ tags:
   - trait/oracle
   - trait/common
   - category/class
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.qmFWCHOuubEl7VpX"
-license: OGL
+license: ORC
 ---
 # Domain Acumen
 ## Feat 2
@@ -18,9 +19,11 @@ license: OGL
 
 
 
-Every oracle's mystery touches on a divine domain of the deities that fuel it; you can access that power.
+Every oracle's mystery touches on a divine domain of the deities that fuel it; you can access that power. Choose one of the domains associated with your mystery for which you don't already have an initial domain spell. You gain an initial domain spell from that domain, which you cast as a revelation spell.
 
-Choose one of the domains associated with your mystery for which you don't already have an initial domain spell. You gain an initial domain spell from that domain, which you cast as a revelation spell. It gains the cursebound trait. Increase the number of Focus Points in your focus pool by 1.
+* * *
 
-*Source: Pathfinder Advanced Player's Guide*
-*OGL*
+**Special** You can select this feat multiple times, selecting a different domain each time and gaining its domain spell as a revelation spell.
+
+*Source: Pathfinder Player Core 2*
+*ORC*

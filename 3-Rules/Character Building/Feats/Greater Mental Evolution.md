@@ -6,8 +6,9 @@ tags:
   - trait/sorcerer
   - trait/common
   - category/class
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.8HYfYT4fHtxXP199"
-license: OGL
+license: ORC
 ---
 # Greater Mental Evolution
 ## Feat 16
@@ -21,5 +22,5 @@ license: OGL
 * * *
 Your bloodline's deep connection to mental essence greatly enhances your spell repertoire. Add one spell to your spell repertoire for each spell rank you can cast.
 
-*Source: Pathfinder Core Rulebook*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/undead
   - pf2e/creature/type/unholy
+  - pf2eMonster
   - pf2e/creature/level/4
 statblock: inline
 name: "Lovelorn"
@@ -24,18 +25,18 @@ token: [[modules/pf2e-tokens-bestiaries/portraits/undead/lovelorn.webp| ]]
 source: "Pathfinder Bestiary 3"
 name: "Lovelorn"
 level: "Creature 4"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "tiny"
-trait_01: "chaotic"
-trait_02: "evil"
-trait_03: "undead"
-trait_04: "unholy"
+trait_01: [[chaotic]]
+trait_02: [[evil]]
+trait_03: [[undead]]
+trait_04: [[unholy]]
 modifier: 10
 perception:
   - name: "Perception"
     desc: "+10; Darkvision, Lifesense 30 Feet"
-languages: "Common"
+languages: "Common; (can&#x27;t speak any language)"
 skills:
   - name: "Skills"
     desc: "Athletics: +12, Occultism: +8, Stealth: +13"
@@ -57,10 +58,10 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Gloom Aura"
-    desc: " (aura,emotion,illusion,mental,occult) 60 feet. A lovelorn's presence instills unease and turns the air cold, dark, and stale. Creatures within the aura take a -1 circumstance penalty to saving throws made to resist emotion effects.\nIf the lovelorn makes a place home for a week or more, that location can become suffused with this magic even outside the lovelorn's aura, lasting until the lovelorn leaves or is destroyed.\n[[Bestiary Effects/Effect_ Gloom Aura|Effect: Gloom Aura]]"
+    desc: " (aura,emotion,illusion,mental,occult) 60 feet. A lovelorn's presence instills unease and turns the air cold, dark, and stale. Creatures within the aura take a -1 circumstance penalty to saving throws made to resist emotion effects.\n\nIf the lovelorn makes a place home for a week or more, that location can become suffused with this magic even outside the lovelorn's aura, lasting until the lovelorn leaves or is destroyed.\n\n[[Bestiary Effects/Effect_ Gloom Aura|Effect: Gloom Aura]]"
 
   - name: "Skitter Away"
-    desc: "`pf2:r`  **Trigger** A creature ends its movement in a space adjacent to the lovelorn\n**Effect** The lovelorn Strides or Climbs 10 feet away from the triggering creature. This movement does not trigger reactions."
+    desc: "`pf2:r`  **Trigger** A creature ends its movement in a space adjacent to the lovelorn\n* * *\n\n**Effect** The lovelorn Strides or Climbs 10 feet away from the triggering creature. This movement does not trigger reactions."
 
 attacks:
   - name: ""
@@ -78,11 +79,17 @@ attacks:
     desc: "_[[Spells/Create Undead|Create Undead (Doesn't Require Secondary Casters)]]_"
 
   - name: "Cynic's Curse"
-    desc: " (curse,emotion,mental,occult) A creature hit by a lovelorn's fangs Strike must attempt a DC 19 Will check save as it grows morose and listless. If the creature would be affected by a [[Spells/Calm|Calm]] spell, that spell attempts to counteract this curse instead of having its normal effect.\n**Critical Success** The target is unaffected.\n**Success** For 1 minute, the target can't benefit from helpful emotion effects, but can still be affected by harmful emotion effects.\n**Failure** As success, plus the target is [[Conditions/Fatigued|Fatigued]] for the same duration.\n**Critical Failure** As failure, but the curse's effects are permanent."
+    desc: " (curse,emotion,mental,occult) A creature hit by a lovelorn's fangs Strike must attempt a DC 19 Will check save as it grows morose and listless. If the creature would be affected by a [[Spells/Calm|Calm]] spell, that spell attempts to counteract this curse instead of having its normal effect.\n* * *\n\n**Critical Success** The target is unaffected.\n\n**Success** For 1 minute, the target can't benefit from helpful emotion effects, but can still be affected by harmful emotion effects.\n\n**Failure** As success, plus the target is [[Conditions/Fatigued|Fatigued]] for the same duration.\n\n**Critical Failure** As failure, but the curse's effects are permanent."
 
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
     desc: "`pf2:1`  "
  
+```
+
+```encounter-table
+name: Lovelorn
+creatures:
+  - 1: Lovelorn
 ```
 
 

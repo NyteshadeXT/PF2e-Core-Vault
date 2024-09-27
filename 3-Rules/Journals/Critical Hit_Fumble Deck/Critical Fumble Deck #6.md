@@ -14,13 +14,13 @@ tags:
 
 # Overcompensate
 
-> Cover provides a [[Other Effects/Effect\_ +4 circumstance bonus to AC against your ranged attacks|+4 circumstance bonus to AC against your ranged attacks]] against your ranged attacks for 1 minute.
+> Cover provides a [[Other Effects/Effect_ +4 circumstance bonus to AC against your ranged attacks|+4 circumstance bonus to AC against your ranged attacks]] against your ranged attacks for 1 minute.
 
 `Ranged`
 
 # That tastes Awful!
 
-> If this was a jaws attack (or similar), you are [[Conditions/Sickened 1|Sickened 3]].
+> If this was a jaws attack (or similar), you are [[Conditions/Sickened|Sickened 3]].
 
 `Unarmed`
 

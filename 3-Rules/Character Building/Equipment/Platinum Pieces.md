@@ -4,8 +4,9 @@ title: "Platinum Pieces"
 cssclasses: pf2e,pf2e-action
 tags:
   - trait/common
+  - remaster
 aliases: "Compendium.pf2e.equipment-srd.Item.JuNPeK5Qm1w6wpb4"
-license: OGL
+license: ORC
 ---
 # Platinum Pieces
 
@@ -18,5 +19,5 @@ license: OGL
 
 
 
-*Source: Pathfinder Core Rulebook*
-*OGL*
+*Source: Pathfinder Player Core*
+*ORC*

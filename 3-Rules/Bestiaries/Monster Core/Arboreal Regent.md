@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.pathfinder-monster-core.Actor.z2l8K7woKYPkm0qz"
 tags:
   - pf2e/creature/type/plant
   - pf2e/creature/type/wood
+  - pf2eMonster
   - pf2e/creature/level/8
   - remaster
 statblock: inline
@@ -26,8 +27,8 @@ level: "Creature 8"
 
 alignment: ""
 size: "huge"
-trait_01: "plant"
-trait_02: "wood"
+trait_01: [[plant]]
+trait_02: [[wood]]
 modifier: 18
 perception:
   - name: "Perception"
@@ -35,7 +36,7 @@ perception:
 languages: "Arboreal, Common, Fey; Speak with Plants"
 skills:
   - name: "Skills"
-    desc: "Athletics: +19, Diplomacy: +16, Intimidation: +16, Nature: +18, Stealth: +11 (+21 in forests)"
+    desc: "Athletics: +19, Diplomacy: +16, Intimidation: +16, Nature: +18, Stealth: +11"
 abilityMods: [7, -1, 6, 1, 4, 2]
 speed: 25 feet
 sourcebook: "_Pathfinder Monster Core_"
@@ -77,6 +78,12 @@ attacks:
   - name: "[[Bestiary Ability Glossary/Throw Rock|Throw Rock]]"
     desc: "`pf2:1`  "
  
+```
+
+```encounter-table
+name: Arboreal Regent
+creatures:
+  - 1: Arboreal Regent
 ```
 
 

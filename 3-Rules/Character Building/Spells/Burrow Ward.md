@@ -4,27 +4,42 @@ title: "Burrow Ward"
 noteType: pf2eSpell
 cssclasses: pf2e,pf2e-spell
 tags:
+  - pf2eSpell
   - spell/level/2
   - trait/concentrate
   - trait/earth
   - trait/manipulate
   - trait/common
+  - tradition/arcane
+  - tradition/primal
+
   - remaster
 aliases: "Compendium.pf2e.spells-srd.Item.bgX4Zfhavahu8lyN" 
+license: OGL
 ---
-# Burrow Ward  `pf2:2`  
-## Spell 2
-### [[concentrate]][[Earth]][[manipulate]]
-**Traditions** [[arcane]], [[primal]]
-**Area** 15-foot emanation
-**Saving Throw**  fortitude
-**Duration** 1 minute
-* * * 
-You solidify the earth around you, hindering burrowing creatures. Creatures that can't burrow through stone can't burrow through the area. Such creatures already underground within the area must succeed at a Fortitude save or be ejected from the area toward the surface. Those who succeed are forced out of the area but can remain underground. Creatures that can burrow through stone treat the area as difficult terrain.
+```statblock
+name: "Burrow Ward  `pf2:2`"
+level: "Spell 2"
 
-* * *
+trait_01: [[concentrate]]
+trait_02: [[earth]]
+trait_03: [[manipulate]]
+layout: Basic Pathfinder 2e Layout
+columns: 1
+columnWidth: x
+abilities_top:
+  - name: ""
+  - name: "Traditions"
+    desc: "arcane, primal"
 
-**Heightened (5th)** You create a 30-foot emanation.
-
-*Source: Pathfinder Rage of Elements*
-*OGL*
+  - name: "Area"
+    desc: "15-foot emanation"
+  - name: "Defense"
+    desc: " fortitude"
+  - name: "Duration"
+    desc: "1 minute"
+abilities_mid:
+  - name: ""
+    desc: "You solidify the earth around you, hindering burrowing creatures. Creatures that can't burrow through stone can't burrow through the area. Such creatures already underground within the area must succeed at a Fortitude save or be ejected from the area toward the surface. Those who succeed are forced out of the area but can remain underground. Creatures that can burrow through stone treat the area as difficult terrain.\n* * *\n\n**Heightened (5th)** You create a @Template[emanation|distance:30]."
+sourcebook: "_Pathfinder Rage of Elements_"
+```

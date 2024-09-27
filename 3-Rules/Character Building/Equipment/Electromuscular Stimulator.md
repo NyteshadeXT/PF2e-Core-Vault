@@ -12,7 +12,7 @@ license: OGL
 ---
 # Electromuscular Stimulator
 ## Item 5
-### [rare](rare "Rare Rarity Trait")[[consumable]][[gadget]]
+### [rare](rare.md "Rare Rarity Trait")[[consumable]][[gadget]]
 
 **Category** gadget; 
 **Price** 30 gp; 

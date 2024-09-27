@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.pathfinder-bestiary-3.Actor.hh7OuFB5BQIrfeRT"
 tags:
   - pf2e/creature/type/good
   - pf2e/creature/type/kami
+  - pf2eMonster
   - pf2e/creature/level/4
 statblock: inline
 name: "Kasa-Obake"
@@ -25,8 +26,8 @@ level: "Creature 4"
 
 alignment: ""
 size: "Medium"
-trait_01: "good"
-trait_02: "kami"
+trait_01: [[good]]
+trait_02: [[kami]]
 modifier: 13
 perception:
   - name: "Perception"
@@ -53,7 +54,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Fade Away"
-    desc: "`pf2:r`  **Trigger** A creature damages the kasa-obake, and the kasa-obake is in dim light or darkness\n**Effect** The kasa-obake fades from view and becomes [[Conditions/Concealed|Concealed]] to the triggering creature until the end of that creature's turn; if the kasa-obake was already concealed to the triggering creature due to the light level, they become [[Conditions/Hidden|Hidden]] instead."
+    desc: "`pf2:r`  **Trigger** A creature damages the kasa-obake, and the kasa-obake is in dim light or darkness\n* * *\n\n**Effect** The kasa-obake fades from view and becomes [[Conditions/Concealed|Concealed]] to the triggering creature until the end of that creature's turn; if the kasa-obake was already concealed to the triggering creature due to the light level, they become [[Conditions/Hidden|Hidden]] instead."
 
 attacks:
   - name: ""
@@ -62,8 +63,14 @@ attacks:
     desc: "`pf2:1` Foot +14 (agile, finesse)\n__Damage__  2d6 + 5 bludgeoning"
 
   - name: "Jump Scare"
-    desc: " (emotion,fear,incapacitation,mental) If a kasa-obake successfully [[Actions/Demoralize|Demoralizes]] a creature and they were [[Conditions/Hidden|Hidden]] to the creature before the attempt to Demoralize, the creature must succeed at a DC 21 Will check save or be [[Conditions/Stunned 1|Stunned]] for 1 round."
+    desc: " (emotion,fear,incapacitation,mental) If a kasa-obake successfully [[Actions/Demoralize|Demoralizes]] a creature and they were [[Conditions/Hidden|Hidden]] to the creature before the attempt to Demoralize, the creature must succeed at a DC 21 Will check save or be [[Conditions/Stunned|Stunned]] for 1 round."
  
+```
+
+```encounter-table
+name: Kasa-Obake
+creatures:
+  - 1: Kasa-Obake
 ```
 
 

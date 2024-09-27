@@ -11,6 +11,7 @@ tags:
   - pf2e/creature/type/lawful
   - pf2e/creature/type/spirit
   - pf2e/creature/type/undead
+  - pf2eMonster
   - pf2e/creature/level/7
 statblock: inline
 name: "Zhi Hui"
@@ -25,15 +26,15 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #197: Let the Leaves Fall"
 name: "Zhi Hui"
 level: "Creature 7"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Medium"
-trait_01: "ghost"
-trait_02: "good"
-trait_03: "incorporeal"
-trait_04: "lawful"
-trait_05: "spirit"
-trait_06: "undead"
+trait_01: [[ghost]]
+trait_02: [[good]]
+trait_03: [[incorporeal]]
+trait_04: [[lawful]]
+trait_05: [[spirit]]
+trait_06: [[undead]]
 modifier: 18
 perception:
   - name: "Perception"
@@ -60,7 +61,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "[[Creature Family Ability Glossary/(Ghost) Rejuvenation|Rejuvenation]]"
-    desc: " (divine) Purifying the four statues and defeating Xin Yue in Kugaptee's Grave below the Tan Sugi monastery allows Zhi Hui's ghost to fade.\nWhen a ghost is destroyed, it re-forms after 2d4 days within the location it's bound to, fully healed. A ghost can be permanently destroyed only if someone determines the reason for its existence and sets right whatever prevents the spirit from resting."
+    desc: " (divine) Purifying the four statues and defeating Xin Yue in Kugaptee's Grave below the Tan Sugi monastery allows Zhi Hui's ghost to fade.\n* * *\n\nWhen a ghost is destroyed, it re-forms after 2d4 days within the location it's bound to, fully healed. A ghost can be permanently destroyed only if someone determines the reason for its existence and sets right whatever prevents the spirit from resting."
 
 attacks:
   - name: ""
@@ -74,6 +75,12 @@ attacks:
   - name: "Incarnate Skill"
     desc: "`pf2:3` (divine) Zhi Hui peers into a willing creature's soul and searches through their past lives. That creature permanently trades proficiency rank from one skill they're currently expert in with a skill in which they're untrained, both of their choice. Zhi Hui can only perform this activity once per character."
  
+```
+
+```encounter-table
+name: Zhi Hui
+creatures:
+  - 1: Zhi Hui
 ```
 
 

@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/chaotic
   - pf2e/creature/type/dragon
   - pf2e/creature/type/evil
+  - pf2eMonster
   - pf2e/creature/level/18
 statblock: inline
 name: "Cairn Linnorm"
@@ -23,12 +24,12 @@ token: [[modules/pf2e-tokens-bestiaries/portraits/draconic/linnorms/cairn-linnor
 source: "Pathfinder Bestiary 2"
 name: "Cairn Linnorm"
 level: "Creature 18"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "grg"
-trait_01: "chaotic"
-trait_02: "dragon"
-trait_03: "evil"
+trait_01: [[chaotic]]
+trait_02: [[dragon]]
+trait_03: [[evil]]
 modifier: 30
 perception:
   - name: "Perception"
@@ -55,10 +56,10 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "[[Bestiary Ability Glossary/Attack of Opportunity|Attack of Opportunity (Tail Only)]]"
-    desc: "`pf2:r`  Tail only\n"
+    desc: "`pf2:r`  Tail only\n\n* * *\n"
 
   - name: "Curse of the Crooked Cane"
-    desc: " (curse,primal) When a creature slays a cairn linnorm, it must succeed at a DC 44 Will check save or become permanently [[Conditions/Enfeebled 1|Enfeebled 2]]. In addition, the victim ages at an accelerated rate, aging 1 year every day, eventually causing it to die of old age if the curse is left untended."
+    desc: " (curse,primal) When a creature slays a cairn linnorm, it must succeed at a DC 44 Will check save or become permanently [[Conditions/Enfeebled|Enfeebled 2]]. In addition, the victim ages at an accelerated rate, aging 1 year every day, eventually causing it to die of old age if the curse is left untended."
 
 attacks:
   - name: ""
@@ -76,11 +77,17 @@ attacks:
     desc: "DC 40, attack +30\n__Constant__  __(8th)__ _[[Spells/Unfettered Movement|Freedom of Movement]]_ __(7th)__ _[[Spells/Truesight|True Seeing]]_"
 
   - name: "Breath Weapon"
-    desc: "`pf2:2` (acid,primal) The cairn linnorm expels a 60-foot cone of void energy-infused acid, dealing 19d6 acid damage to creatures in the area (DC 40 Reflex check save). The acid also saps the life out of affected creatures. At the beginning of the linnorm's next turn, each creature that failed the Reflex save must succeed at a DC 40 Fortitude check save or become [[Conditions/Drained 1|Drained 1]] ([[Conditions/Drained 1|Drained 2]] on a critical failure).\nThe cairn linnorm can't use Breath Weapon again for 1d4 rounds."
+    desc: "`pf2:2` (acid,primal) The cairn linnorm expels a @Template[cone|distance:60] of void energy-infused acid, dealing 19d6 acid damage to creatures in the area (DC 40 Reflex check save). The acid also saps the life out of affected creatures. At the beginning of the linnorm's next turn, each creature that failed the Reflex save must succeed at a DC 40 Fortitude check save or become [[Conditions/Drained|Drained 1]] ([[Conditions/Drained|Drained 2]] on a critical failure).\n\nThe cairn linnorm can't use Breath Weapon again for 1d4 rounds."
 
   - name: "Cairn Linnorm Venom"
-    desc: " (acid,poison) **Saving Throw** DC 41 Fortitude check\n**Maximum Duration** 10 rounds\n**Stage 1** 6d6 acid damage and [[Conditions/Drained 1|Drained 1]] (1 round)\n**Stage 2** 8d6 acid damage and [[Conditions/Drained 1|Drained 2]] (1 round)"
+    desc: " (acid,poison) **Saving Throw** DC 41 Fortitude check\n\n**Maximum Duration** 10 rounds\n\n**Stage 1** 6d6 acid damage and [[Conditions/Drained|Drained 1]] (1 round)\n\n**Stage 2** 8d6 acid damage and [[Conditions/Drained|Drained 2]] (1 round)"
  
+```
+
+```encounter-table
+name: Cairn Linnorm
+creatures:
+  - 1: Cairn Linnorm
 ```
 
 

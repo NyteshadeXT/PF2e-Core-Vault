@@ -10,6 +10,7 @@ tags:
   - pf2e/creature/type/skeleton
   - pf2e/creature/type/undead
   - pf2e/creature/type/unholy
+  - pf2eMonster
   - pf2e/creature/level/1
 statblock: inline
 name: "Lesser Skeletal Cyclops"
@@ -24,18 +25,19 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Society Scenario #2-03: Catastrophe&#x27;s Spark"
 name: "Lesser Skeletal Cyclops"
 level: "Creature 1"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Large"
-trait_01: "evil"
-trait_02: "mindless"
-trait_03: "skeleton"
-trait_04: "undead"
-trait_05: "unholy"
+trait_01: [[evil]]
+trait_02: [[mindless]]
+trait_03: [[skeleton]]
+trait_04: [[undead]]
+trait_05: [[unholy]]
 modifier: 4
 perception:
   - name: "Perception"
     desc: "+4; Darkvision"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Athletics: +9, Intimidation: +6"
@@ -75,6 +77,12 @@ attacks:
   - name: "Terrifying Charge"
     desc: "`pf2:2`  The skeleton Strides and makes a claw Strike with a +2 circumstance bonus to damage circumstance bonus to damage. If the strike hits, the skeleton attempts to [[Action Macros/Demoralize_ Intimidation|Demoralize: Intimidation]] the target."
  
+```
+
+```encounter-table
+name: Lesser Skeletal Cyclops
+creatures:
+  - 1: Lesser Skeletal Cyclops
 ```
 
 

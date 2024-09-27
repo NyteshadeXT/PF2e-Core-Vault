@@ -4,6 +4,7 @@ obsidianUIMode: preview
 noteType: pf2eHazard
 tags:
   - haunt
+  - pf2eHazard
 
 source: Pathfinder Gamemastery Guide
 aliases: "Compendium.pf2e.hazards.Actor.inUlZWE1isqnTRc5" 
@@ -21,13 +22,13 @@ name: "Jealous Abjurer"
 level: "Hazard 11"
 
 
-trait_01: "haunt"
+trait_01: [[haunt]]
 modifier: 23
 sourcebook: "_Pathfinder Gamemastery Guide_"
 ac: 10
 armorclass:
   - name: AC
-    desc: "10; __Fort__ +0, __Ref__ +0, __Will__ +0"
+    desc: "10; "
 hp: 0
 health:
   - name: ""
@@ -49,10 +50,16 @@ attacks:
   - name: ""
 
   - name: "Rend Magic"
-    desc: "`pf2:r` (arcane) **Trigger** A creature that is currently affected by a beneficial spell approaches within 30 feet of the abjurer.\n**Effect** Envying the fame and magical prowess of others, the jealous abjurer attempts to engineer a catastrophic failure in the highest-level beneficial spell currently affecting its target. It attempts a counteract check with a +26 modifier. If the counteract check succeeds, the spell is dispelled, and the creature it had been affecting takes 4d12 + 30 force damage as the spell violently implodes (DC 32 Reflex check save)."
+    desc: "`pf2:r` (arcane) **Trigger** A creature that is currently affected by a beneficial spell approaches within 30 feet of the abjurer.\n* * *\n\n**Effect** Envying the fame and magical prowess of others, the jealous abjurer attempts to engineer a catastrophic failure in the highest-level beneficial spell currently affecting its target. It attempts a counteract check with a +26 modifier. If the counteract check succeeds, the spell is dispelled, and the creature it had been affecting takes 4d12+30 force damage as the spell violently implodes (DC 32 Reflex check save)."
 
 
   - name: "Reset"
     desc: "1 hour"
+```
+
+```encounter-table
+name: Jealous Abjurer
+creatures:
+  - 1: Jealous Abjurer
 ```
 

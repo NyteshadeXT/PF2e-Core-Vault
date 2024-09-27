@@ -53,7 +53,7 @@ On a successful hit, you deal damage (3d6 piercing, due to the atlatl's _greater
 
 **Frequency** three times per day
 
-**Effect** You shave a curl of wood from _Hunter's Dawn_ and create a roaring fire within 15 feet. You can choose one of the following shapes for the fire to take: a 10-foot square, a 20-foot line, or a 15-foot cone. Each creature in the affected squares take 6d6 fire damage (DC 46 Reflex check).
+**Effect** You shave a curl of wood from _Hunter's Dawn_ and create a roaring fire within 15 feet. You can choose one of the following shapes for the fire to take: a 10-foot square, a @Template\[line|distance:20\], or a @Template\[cone|distance:15\]. Each creature in the affected squares take 6d6 fire damage (DC 46 Reflex check).
 
 * * *
 

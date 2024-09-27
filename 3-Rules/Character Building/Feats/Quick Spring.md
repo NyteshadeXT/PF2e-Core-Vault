@@ -20,7 +20,7 @@ license: OGL
 
 **Prerequisites** Acrobat Dedication; master in Acrobatics
 * * *
-Ishii Bunji is a skilled tumbler, and learning his technique allows you to propel yourself across the battlefield faster than your enemies can react. When you [[Actions/Tumble Through|Tumble Through]], you Stride up to twice your Speed.
+Ishii Bunji is a skilled tumbler, and learning his technique allows you to push yourself off a foe and propel yourself across the battlefield faster. If you succeed at an Acrobatics check to [[Actions/Tumble Through|Tumble Through]] an enemy's space, you can Stride again as a free action after you complete your current movement.
 
 *Source: Pathfinder Lost Omens: Firebrands*
 *OGL*

@@ -7,6 +7,7 @@ aliases: "Compendium.battlezoo-bestiary-su-pf2e.pf2e-battlezoo-su-actors.Actor.I
 tags:
   - pf2e/creature/type/animal
   - pf2e/creature/type/werecreature
+  - pf2eMonster
   - pf2e/creature/level/5
 statblock: inline
 name: "Twistwere Wolf"
@@ -22,18 +23,19 @@ token: [[modules/battlezoo-bestiary-su-pf2e/art/Portraits/twistwere-wolf.webp| ]
 source: "Battlezoo Bestiary: Strange and Unusual"
 name: "Twistwere Wolf"
 level: "Creature 5"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Large"
-trait_01: "animal"
-trait_02: "werecreature"
+trait_01: [[animal]]
+trait_02: [[werecreature]]
 modifier: 13
 perception:
   - name: "Perception"
     desc: "+13; Low-Light Vision, Scent (Imprecise) 30 Feet"
+languages: ""
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +12, Athletics: +13, Deception: +8, Intimidation: +12, Stealth: +10, Survival: +10, "
+    desc: "Acrobatics: +12, Athletics: +13, Deception: +8, Intimidation: +12, Stealth: +10, Survival: +10, Acrobatics: +12, Athletics: +13, Deception: +8, Intimidation: +12, Stealth: +10, Survival: +10"
 abilityMods: [5, 3, 4, -4, 2, 1]
 speed: 30 feet
 sourcebook: "_Battlezoo Bestiary: Strange and Unusual_"
@@ -52,7 +54,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Twisted Vitality"
-    desc: "`pf2:r`  **Requirements** The twistwere wolf is in animal form\n**Trigger** The twistwere wolf takes more than 10 points of damage\n**Effect** The twistwere wolf immediately shifts into its hybrid form and must succeed at a DC 20 Will check save or else enter an out of control frenzy with the effects of moonlight frenzy for 1 minute or until being rendered Unconscious."
+    desc: "`pf2:r`  **Requirements** The twistwere wolf is in animal form\n\n**Trigger** The twistwere wolf takes more than 10 points of damage\n* * *\n\n**Effect** The twistwere wolf immediately shifts into its hybrid form and must succeed at a DC 20 Will check save or else enter an out of control frenzy with the effects of moonlight frenzy for 1 minute or until being rendered [[undefined]]."
 
 attacks:
   - name: ""
@@ -67,14 +69,20 @@ attacks:
     desc: "`pf2:1` (concentrate,polymorph,primal) The twistwere wolf changes into their hybrid or animal shape. Each shape has a specific, persistent appearance. Its natural form looks like a normal wolf, whereas its hybrid form looks like a twisted version of a wolf."
 
   - name: "Curse of the Twistwere"
-    desc: " (curse,primal) This curse affects only animals\n**Saving Throw** DC 18 Fortitude check. On each full moon, the cursed creature must succeed at another Fortitude save or turn into the same kind of werecreature until dawn. The creature is under the GM's control and goes on a rampage for half the night before falling Unconscious until dawn."
+    desc: " (curse,primal) This curse affects only animals\n\n**Saving Throw** DC 18 Fortitude check. On each full moon, the cursed creature must succeed at another Fortitude save or turn into the same kind of werecreature until dawn. The creature is under the GM's control and goes on a rampage for half the night before falling [[undefined]] until dawn."
 
   - name: "Moonlight Frenzy"
-    desc: " (polymorph,primal) When the light of a full moon shines upon them, the twistwere wolf must enter hybrid form, can't Change Shape thereafter, becomes one size larger, increases their reach by 5 feet, and increases the damage of their jaws Strike by 2. When the moon sets or the sun rises, the werecreature returns to animal form and is Fatigued for 2d4 hours.\nEffect: Moon Frenzy"
+    desc: " (polymorph,primal) When the light of a full moon shines upon them, the twistwere wolf must enter hybrid form, can't Change Shape thereafter, becomes one size larger, increases their reach by 5 feet, and increases the damage of their jaws Strike by 2. When the moon sets or the sun rises, the werecreature returns to animal form and is [[undefined]] for 2d4 hours.\n\n[[Bestiary Effects/Effect_ Moon Frenzy|Effect: Moon Frenzy]]"
 
   - name: "Primal Shock"
-    desc: "  **Requirements** The twistwere wolf used Change Shape or Twisted Vitality this round\n**Effect** The twistwere wolf makes a Strike. If it hits, it attempts to Demoralize the creature it struck, ignoring the penalty for not sharing a language."
+    desc: "  **Requirements** The twistwere wolf used Change Shape or Twisted Vitality this round\n* * *\n\n**Effect** The twistwere wolf makes a Strike. If it hits, it attempts to [[undefined]] the creature it struck, ignoring the penalty for not sharing a language."
  
+```
+
+```encounter-table
+name: Twistwere Wolf
+creatures:
+  - 1: Twistwere Wolf
 ```
 
 

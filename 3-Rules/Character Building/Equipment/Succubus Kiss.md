@@ -38,7 +38,7 @@ The save for addiction to succubus kiss is DC 28 Fortitude check, and the addict
 
 [[Equipment Effects/Effect_ Succubus Kiss (Stage 1)|Effect: Succubus Kiss (Stage 1)]]
 
-**Stage 2** as stage 1 plus [[Conditions/Drained 1|Drained 1]] (1 hour)
+**Stage 2** as stage 1 plus [[Conditions/Drained|Drained 1]] (1 hour)
 
 [[Equipment Effects/Effect_ Succubus Kiss (Stage 2)|Effect: Succubus Kiss (Stage 2)]]
 

@@ -20,7 +20,7 @@ Outwardly dashing outlaws or silent, deadly bravos, these masters of combat and 
 
 * * *
 
-You put on the persona of a rough and tumble outlaw, but your real goals are to report threats to Alkenstar back to the grand duchess. You become an expert in Deception and trained in your choice of Underworld Lore or Legal Lore; if you were already trained, you become an expert instead. You gain the [[Feats/Lie to Me|Lie To Me]] skill feat.
+You put on the persona of a rough and tumble outlaw, but your real goals are to report threats to Alkenstar back to the grand duchess. You become an expert in Deception and trained in your choice of Underworld Lore or Legal Lore; if you were already trained, you become an expert instead. You gain the [[Feats/Lie to Me|Lie to Me]] skill feat.
 
 * * *
 
@@ -38,7 +38,7 @@ Your unpredictable gunfire often catches enemies off guard or hits unprotected a
 
 **Failure** The firearm misfires, but it doesn't cause the other critical failure effects listed below.
 
-**Critical Failure** The firearm misfires and also explodes. It becomes broken, and it deals its normal weapon damage to all creatures in a 20-foot burst centered on the firearm, with a Reflex check against your class DC. This damage includes any from the weapon's fundamental and property runes.
+**Critical Failure** The firearm misfires and also explodes. It becomes broken, and it deals its normal weapon damage to all creatures in a @Template\[burst|distance:20\] centered on the firearm, with a Reflex check against your class DC. This damage includes any from the weapon's fundamental and property runes.
 
 ## [[Feats/Prepare Papers|Prepare Papers]] Feat 7
 
@@ -54,4 +54,4 @@ You're practiced at creating forgeries that establish your outlaw credentials or
 
 * * *
 
-You make a fearsome show of your authority. Roll Intimidation checks to [[Actions/Demoralize|Demoralize]] each creature in a 30-foot cone. When you do so, Demoralize gains the visual trait, and creatures are affected if they can see you. If a target creature hasn't broken a law in the past week (as determined by the GM), the result of your check against that creature is one degree of success worse than the result you rolled.
+You make a fearsome show of your authority. Roll Intimidation checks to [[Actions/Demoralize|Demoralize]] each creature in a @Template\[cone|distance:30\]. When you do so, Demoralize gains the visual trait, and creatures are affected if they can see you. If a target creature hasn't broken a law in the past week (as determined by the GM), the result of your check against that creature is one degree of success worse than the result you rolled.

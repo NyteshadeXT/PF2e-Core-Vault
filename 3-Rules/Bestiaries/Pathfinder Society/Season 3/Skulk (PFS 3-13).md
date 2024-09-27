@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/humanoid
   - pf2e/creature/type/skulk
+  - pf2eMonster
   - pf2e/creature/level/1
 statblock: inline
 name: "Skulk (PFS 3-13)"
@@ -26,10 +27,10 @@ level: "Creature 1"
 
 alignment: ""
 size: "Medium"
-trait_01: "chaotic"
-trait_02: "evil"
-trait_03: "humanoid"
-trait_04: "skulk"
+trait_01: [[chaotic]]
+trait_02: [[evil]]
+trait_03: [[humanoid]]
+trait_04: [[skulk]]
 modifier: 5
 perception:
   - name: "Perception"
@@ -74,6 +75,12 @@ attacks:
   - name: "[[Bestiary Ability Glossary/Sneak Attack|Sneak Attack]]"
     desc: "  A skulk's Strikes deal an extra 1d6 precision damage to [[Conditions/Off-Guard|Off-Guard]] creatures."
  
+```
+
+```encounter-table
+name: Skulk (PFS 3-13)
+creatures:
+  - 1: Skulk (PFS 3-13)
 ```
 
 

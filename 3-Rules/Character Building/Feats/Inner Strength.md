@@ -8,8 +8,9 @@ tags:
   - trait/rage
   - trait/common
   - category/class
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.OY1Ewg0dbCp52Hl5"
-license: OGL
+license: ORC
 ---
 # Inner Strength `pf2:1`
 ## Feat 6
@@ -19,10 +20,11 @@ license: OGL
 
 
 
+**Prerequisites** spirit instinct
+* * *
+Your strength is part of your rage. As long as your anger remains, you can gather your strength and rage to overcome any sort of enfeeblement.
 
-Your strength is part of your rage, so as long as your anger remains, you can gather your strength and rage to overcome any sort of enfeeblement.
+You reduce your [[Conditions/Enfeebled|Enfeebled]] condition's value by 1.
 
-You reduce your [[Conditions/Enfeebled 1|Enfeebled]] condition's value by 1.
-
-*Source: Pathfinder Advanced Player's Guide*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

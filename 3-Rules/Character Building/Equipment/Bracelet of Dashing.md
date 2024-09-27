@@ -12,7 +12,7 @@ license: ORC
 ---
 # Bracelet of Dashing
 ## Item 3
-### [[invested]][[magical]]
+### [[invested]][[3-Rules/Rule References/Magical]]
 
 
 **Price** 58 gp; 

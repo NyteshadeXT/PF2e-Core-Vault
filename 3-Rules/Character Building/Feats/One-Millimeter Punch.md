@@ -6,8 +6,9 @@ tags:
   - trait/monk
   - trait/common
   - category/class
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.4caP26xpkQajkaDp"
-license: OGL
+license: ORC
 ---
 # One-Millimeter Punch
 ## Feat 16
@@ -19,7 +20,7 @@ license: OGL
 
 **Prerequisites** One-Inch Punch
 * * *
-Your punches have incredible force and control. When you damage a target using One-Inch Punch, you can focus your ki to send the foe flying. If you do, the target must attempt a Fortitude check save against your class DC.
+Your punches have incredible force and control. When you damage a target using One-Inch Punch, you can focus your qi to send the foe flying. If you do, the target must attempt a Fortitude check save against your class DC.
 
 * * *
 
@@ -31,5 +32,5 @@ Your punches have incredible force and control. When you damage a target using O
 
 **Critical Failure** The target is pushed back 10 feet for each action you spent on One-Inch Punch.
 
-*Source: Pathfinder Advanced Player's Guide*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

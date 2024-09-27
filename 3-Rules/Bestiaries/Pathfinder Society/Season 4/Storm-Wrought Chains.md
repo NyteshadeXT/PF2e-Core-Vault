@@ -5,6 +5,7 @@ noteType: pf2eHazard
 tags:
   - magical
   - trap
+  - pf2eHazard
 
 source: Pathfinder Society Scenario #4-14: Shattering Golden Chains
 aliases: "Compendium.pf2e.pfs-season-4-bestiary.Actor.HXq9Vqshk7DzFQ0C" 
@@ -22,14 +23,14 @@ name: "Storm-Wrought Chains"
 level: "Hazard 5"
 
 
-trait_01: "magical"
-trait_02: "trap"
+trait_01: [[magical]]
+trait_02: [[trap]]
 modifier: 10
 sourcebook: "_Pathfinder Society Scenario #4-14: Shattering Golden Chains_"
 ac: 20
 armorclass:
   - name: AC
-    desc: "20; __Fort__ +15, __Ref__ +14, __Will__ +0"
+    desc: "20; __Fort__ +15, __Ref__ +14, "
 hp: 54
 health:
   - name: ""
@@ -51,10 +52,16 @@ attacks:
   - name: ""
 
   - name: "Storm's Rage"
-    desc: "`pf2:r` (air, electricity, primal) **Trigger** A creature attempts to break or escape the chains\n**Effect** The chains release a devastating blast of lightning that deals 4d8 + 14 electricity damage to all creatures in the room. Affected creatures must each attempt a DC 24 Fortitude check save.\n**Critical Success** The creature is unaffected.\n**Success** The creature takes half damage and becomes [[Conditions/Deafened|Deafened]] for 1 minute.\n**Failure** The creature takes full damage and becomes deafened for 1 hour.\n**Critical Failure** The creature takes double damage. It also becomes deafened for 8 hours."
+    desc: "`pf2:r` (air, electricity, primal) **Trigger** A creature attempts to break or escape the chains\n* * *\n\n**Effect** The chains release a devastating blast of lightning that deals 4d8+14 electricity damage to all creatures in the room. Affected creatures must each attempt a DC 24 Fortitude check save.\n\n**Critical Success** The creature is unaffected.\n\n**Success** The creature takes half damage and becomes [[Conditions/Deafened|Deafened]] for 1 minute.\n\n**Failure** The creature takes full damage and becomes deafened for 1 hour.\n\n**Critical Failure** The creature takes double damage. It also becomes deafened for 8 hours."
 
 
   - name: "Reset"
     desc: "The trap resets after 1 hour."
+```
+
+```encounter-table
+name: Storm-Wrought Chains
+creatures:
+  - 1: Storm-Wrought Chains
 ```
 

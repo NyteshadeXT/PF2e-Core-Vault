@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.pathfinder-bestiary-3.Actor.krbmyD1SuPQb4QfF"
 tags:
   - pf2e/creature/type/aberration
   - pf2e/creature/type/evil
+  - pf2eMonster
   - pf2e/creature/level/9
 statblock: inline
 name: "Blood Painter"
@@ -25,8 +26,8 @@ level: "Creature 9"
 
 alignment: ""
 size: "Large"
-trait_01: "aberration"
-trait_02: "evil"
+trait_01: [[aberration]]
+trait_02: [[evil]]
 modifier: 19
 perception:
   - name: "Perception"
@@ -34,7 +35,7 @@ perception:
 languages: "Aklo, Common"
 skills:
   - name: "Skills"
-    desc: "Art Lore: +21, Athletics: +20, Crafting: +17 (+21 for paintings), Medicine: +19, Stealth: +17"
+    desc: "Athletics: +20, Crafting: +17, Medicine: +19, Stealth: +17, Art Lore: +21"
 abilityMods: [5, 4, 3, 6, 4, 3]
 speed: 30 feet,  climb 15 feet
 sourcebook: "_Pathfinder Bestiary 3_"
@@ -65,11 +66,17 @@ attacks:
     desc: "`pf2:1` Claw +20 (agile, reach 10 feet)\n__Damage__  3d8 + 8 slashing 1d8 bleed"
 
   - name: "Dab"
-    desc: "`pf2:1` (manipulate,mental,occult) **Requirements** The blood painter is within reach of an enemy taking [[Conditions/Persistent Damage|Persistent Bleed Damage]].\n**Effect** The blood painter touches the creature and applies blood to one of their four claws; the blood remains fresh for 1 minute. The target must succeed at a DC 28 Will check save or become [[Conditions/Fascinated|Fascinated]] with the blood painter."
+    desc: "`pf2:1` (manipulate,mental,occult) **Requirements** The blood painter is within reach of an enemy taking [[Conditions/Persistent Damage|Persistent Bleed Damage]].\n* * *\n\n**Effect** The blood painter touches the creature and applies blood to one of their four claws; the blood remains fresh for 1 minute. The target must succeed at a DC 28 Will check save or become [[Conditions/Fascinated|Fascinated]] with the blood painter."
 
   - name: "Paint"
-    desc: "`pf2:1` (concentrate,illusion,manipulate,occult) **Requirements** The blood painter has fresh blood applied to a claw using Dab.\n**Effect** The blood painter expends the blood on one claw to paint an illusion with the effects of one of the following spells: [[Spells/Illusory Creature|Illusory Creature]], [[Spells/Illusory Disguise|Illusory Disguise]], [[Spells/Illusory Object|Illusory Object]], or [[Spells/Mirror Image|Mirror Image]].\nThe Paint action gains the traits of the spell it's reproducing, and the blood painter can Sustain a Spell on these effects. They use a spell attack modifier of +20 and DC 28 for these effects, which are heightened to 5th level.\nIf they have fresh blood applied to two or more claws, the blood painter can expend the blood on all of them to instead produce the effects of [[Spells/Cloak of Colors|Cloak of Colors]] or [[Spells/Vibrant Pattern|Vibrant Pattern]].\nAny effects produced by this ability have a +2 status bonus to attack rolls, damage rolls, saving throws, skill checks, and AC against the creature whose blood was used to Paint and that creature takes a -2 status penalty to Perception checks and saves against it."
+    desc: "`pf2:1` (concentrate,illusion,manipulate,occult) **Requirements** The blood painter has fresh blood applied to a claw using Dab.\n* * *\n\n**Effect** The blood painter expends the blood on one claw to paint an illusion with the effects of one of the following spells: [[Spells/Illusory Creature|Illusory Creature]], [[Spells/Illusory Disguise|Illusory Disguise]], [[Spells/Illusory Object|Illusory Object]], or [[Spells/Mirror Image|Mirror Image]].\n\nThe Paint action gains the traits of the spell it's reproducing, and the blood painter can Sustain a Spell on these effects. They use a spell attack modifier of +20 and DC 28 for these effects, which are heightened to 5th level.\n\nIf they have fresh blood applied to two or more claws, the blood painter can expend the blood on all of them to instead produce the effects of [[Spells/Cloak of Colors|Cloak of Colors]] or [[Spells/Vibrant Pattern|Vibrant Pattern]].\n\nAny effects produced by this ability have a +2 status bonus to attack rolls, damage rolls, saving throws, skill checks, and AC against the creature whose blood was used to Paint and that creature takes a -2 status penalty to Perception checks and saves against it."
  
+```
+
+```encounter-table
+name: Blood Painter
+creatures:
+  - 1: Blood Painter
 ```
 
 

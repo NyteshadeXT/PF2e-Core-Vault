@@ -6,6 +6,7 @@ cssClasses: pf2e
 aliases: "Compendium.pf2e.pathfinder-monster-core.Actor.a4LgD3NrgkiINvru" 
 tags:
   - pf2e/creature/type/animal
+  - pf2eMonster
   - pf2e/creature/level/7
   - remaster
 statblock: inline
@@ -25,7 +26,7 @@ level: "Creature 7"
 
 alignment: ""
 size: "huge"
-trait_01: "animal"
+trait_01: [[animal]]
 modifier: 15
 perception:
   - name: "Perception"
@@ -69,6 +70,12 @@ attacks:
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
     desc: "`pf2:1`  "
  
+```
+
+```encounter-table
+name: Quetzalcoatlus
+creatures:
+  - 1: Quetzalcoatlus
 ```
 
 

@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.pathfinder-bestiary.Actor.mqz4MfBwFxlBQeHs"
 tags:
   - pf2e/creature/type/air
   - pf2e/creature/type/elemental
+  - pf2eMonster
   - pf2e/creature/level/7
 statblock: inline
 name: "Invisible Stalker"
@@ -25,8 +26,8 @@ level: "Creature 7"
 
 alignment: ""
 size: "Medium"
-trait_01: "air"
-trait_02: "elemental"
+trait_01: [[air]]
+trait_02: [[elemental]]
 modifier: 16
 perception:
   - name: "Perception"
@@ -34,7 +35,7 @@ perception:
 languages: "Sussuran"
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +16, Stealth: +18, Survival: +15 (+19 to Track)"
+    desc: "Acrobatics: +16, Stealth: +18, Survival: +15"
 abilityMods: [3, 6, 3, -2, 2, 0]
 speed: 25 feet,  fly 25 feet
 sourcebook: "_Pathfinder Bestiary_"
@@ -67,6 +68,12 @@ attacks:
   - name: "[[Bestiary Ability Glossary/Sneak Attack|Sneak Attack]]"
     desc: "  The invisible stalker deals 2d6 extra precision damage to [[Conditions/Off-Guard|Off-Guard]] creatures."
  
+```
+
+```encounter-table
+name: Invisible Stalker
+creatures:
+  - 1: Invisible Stalker
 ```
 
 

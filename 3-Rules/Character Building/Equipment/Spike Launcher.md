@@ -39,7 +39,7 @@ Built from the spiked tail of a manticore, a _spike launcher_ is designed to lau
 
 * * *
 
-**Effect** The _spike launcher_ fires a volley of smaller spikes in a 10-foot burst centered anywhere within its range. Make a Strike with the _spike launcher_ against each creature in the area. On a success, the spike causes the creature to take a -5-foot status penalty to their Speed. On a critical success, the creature becomes [[Conditions/Immobilized|Immobilized]] instead. In either case, the creature, or an adjacent creature, can use an Interact action to remove the spike and end the penalty or immobilized condition.
+**Effect** The _spike launcher_ fires a volley of smaller spikes in a @Template\[burst|distance:10\] centered anywhere within its range. Make a Strike with the _spike launcher_ against each creature in the area. Your multiple attack penalty does not increase until you've completed all granted Strikes. On a success, the spike causes the creature to take a -5-foot status penalty to their Speed. On a critical success, the creature becomes [[Conditions/Immobilized|Immobilized]] instead. In either case, the creature, or an adjacent creature, can use an Interact action to remove the spike and end the penalty or immobilized condition.
 
 * * *
 

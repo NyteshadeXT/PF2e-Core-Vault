@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/human
   - pf2e/creature/type/humanoid
   - pf2e/creature/type/lawful
+  - pf2eMonster
   - pf2e/creature/level/12
 statblock: inline
 name: "Imeckus Stroon"
@@ -23,13 +24,13 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Kingmaker"
 name: "Imeckus Stroon"
 level: "Creature 12"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Medium"
-trait_01: "evil"
-trait_02: "human"
-trait_03: "humanoid"
-trait_04: "lawful"
+trait_01: [[evil]]
+trait_02: [[human]]
+trait_03: [[humanoid]]
+trait_04: [[lawful]]
 modifier: 25
 perception:
   - name: "Perception"
@@ -37,7 +38,7 @@ perception:
 languages: "Common, Hallit, Jotun, Skald, Sussuran"
 skills:
   - name: "Skills"
-    desc: "Academia Lore: +25, Arcana: +25, Crafting: +23, Diplomacy: +22, Nature: +21, Occultism: +25, Society: +23"
+    desc: "Arcana: +25, Crafting: +23, Diplomacy: +22, Nature: +21, Occultism: +25, Society: +23, Academia Lore: +25"
 abilityMods: [0, 4, 2, 5, 3, 2]
 speed: 25 feet
 sourcebook: "_Pathfinder Kingmaker_"
@@ -55,7 +56,7 @@ abilities_top:
   - name: "Items"
     desc: "[[Equipment/Dagger|Dagger]], [[Equipment/Staff of Fire (Major)|+1 Striking Staff of Fire (Major)]], [[Equipment/Spellbook (Blank)|The Inward Flowing Source (Spellbook)]]"
   - name: "Enhanced Familiar"
-    desc: "  Imeckus Stroon's familiar Lintwerth is a loyal companion and is a bit more powerful than the standard familiar in that he does not possess the minion trait; Imeckus can direct Lintwerth's actions verbally as a free action. If Lintwerth is slain, Imeckus becomes [[Conditions/Drained 1|Drained 1]] for 24 hours."
+    desc: "  Imeckus Stroon's familiar Lintwerth is a loyal companion and is a bit more powerful than the standard familiar in that he does not possess the minion trait; Imeckus can direct Lintwerth's actions verbally as a free action. If Lintwerth is slain, Imeckus becomes [[Conditions/Drained|Drained 1]] for 24 hours."
 
   - name: "Recall Lintwerth"
     desc: "`pf2:1` (arcane,teleportation) Imeckus calls out Lintwerth's name and snaps his fingers, causing his dust mephit familiar (and up to 1 Bulk of objects carried by Lintwerth) to instantly transport to an adjacent square of Imeckus' choice, providing Lintwerth is within a mile."
@@ -84,11 +85,17 @@ attacks:
     desc: "DC 33, attack +23; __5th __  _[[Spells/Fireball|Fireball]]_, _[[Spells/Wall of Fire|Wall of Fire]]_; __4th __  _[[Spells/Fire Shield|Fire Shield]]_, _[[Spells/Fireball|Fireball]]_, _[[Spells/Wall of Fire|Wall of Fire]]_; __3rd __  _[[Spells/Fireball|Fireball]]_, _[[Spells/Floating Flame|Flaming Sphere]]_; __2nd __  _[[Spells/Breathe Fire|Burning Hands]]_, _[[Spells/Floating Flame|Flaming Sphere]]_; __1st __ (7 slots) _[[Spells/Breathe Fire|Burning Hands]]_\n__Cantrips__  __(6th)__ _[[Spells/Produce Flame|Produce Flame]]_"
 
   - name: "Drain Lintwerth"
-    desc: " (arcane) **Frequency** once per day;\n**Requirements** Imeckus hasn't yet acted on his turn and Lintwerth is in an adjacent square\n**Effect** Imeckus draws power from his bond with his familiar. During his turn, he gains the ability to cast one spell he prepared today and already cast, without spending a spell slot. He must still Cast the Spell and meet the spell's other requirements."
+    desc: " (arcane) **Frequency** once per day;\n\n**Requirements** Imeckus hasn't yet acted on his turn and Lintwerth is in an adjacent square\n* * *\n\n**Effect** Imeckus draws power from his bond with his familiar. During his turn, he gains the ability to cast one spell he prepared today and already cast, without spending a spell slot. He must still Cast the Spell and meet the spell's other requirements."
 
   - name: "Quickened Casting"
-    desc: " (concentrate,spellshape) **Frequency** once per day\n**Effect** If Imeckus's next action is to cast a cantrip or spell that is 4th level or lower, reduce the number of actions to cast it by 1 (minimum 1 action)."
+    desc: " (concentrate,spellshape) **Frequency** once per day\n* * *\n\n**Effect** If Imeckus's next action is to cast a cantrip or spell that is 4th level or lower, reduce the number of actions to cast it by 1 (minimum 1 action)."
  
+```
+
+```encounter-table
+name: Imeckus Stroon
+creatures:
+  - 1: Imeckus Stroon
 ```
 
 

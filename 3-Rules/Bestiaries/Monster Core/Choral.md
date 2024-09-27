@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/angel
   - pf2e/creature/type/celestial
   - pf2e/creature/type/holy
+  - pf2eMonster
   - pf2e/creature/level/6
   - remaster
 statblock: inline
@@ -27,9 +28,9 @@ level: "Creature 6"
 
 alignment: ""
 size: "Small"
-trait_01: "angel"
-trait_02: "celestial"
-trait_03: "holy"
+trait_01: [[angel]]
+trait_02: [[celestial]]
+trait_03: [[holy]]
 modifier: 14
 perception:
   - name: "Perception"
@@ -79,6 +80,12 @@ attacks:
   - name: "Harmonize"
     desc: "`pf2:1` (concentrate,divine,sonic) The choral angel lends their harmony to a choral angel ally within their harmonizing aura.\n\nThe ally can, on their next turn, expend their 3rd-rank [[Spells/Noise Blast|Noise Blast]] to instead cast [[Spells/Calm|Calm]], [[Spells/Heroism|Heroism]], or 4th-rank _noise blast_.\n\nIf the ally is benefiting from 5 or more chorals' Harmonize actions, they can instead choose [[Spells/Divine Decree|Divine Decree]]."
  
+```
+
+```encounter-table
+name: Choral
+creatures:
+  - 1: Choral
 ```
 
 

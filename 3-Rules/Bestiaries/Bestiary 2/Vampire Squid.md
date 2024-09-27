@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.pathfinder-bestiary-2.Actor.3MDlKPlPhHBo1DId"
 tags:
   - pf2e/creature/type/animal
   - pf2e/creature/type/aquatic
+  - pf2eMonster
   - pf2e/creature/level/0
 statblock: inline
 name: "Vampire Squid"
@@ -25,12 +26,13 @@ level: "Creature 0"
 
 alignment: ""
 size: "Small"
-trait_01: "animal"
-trait_02: "aquatic"
+trait_01: [[animal]]
+trait_02: [[aquatic]]
 modifier: 7
 perception:
   - name: "Perception"
     desc: "+7; Darkvision"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Athletics: +4, Stealth: +7"
@@ -61,8 +63,14 @@ attacks:
     desc: "`pf2:1` Tentacles +7 (agile, finesse)\n__Damage__  1d6 bludgeoning"
 
   - name: "Glowing Mucus"
-    desc: "`pf2:1`  **Frequency** once per day\n**Requirements** The vampire squid is in water\n**Effect** The vampire squid ejects a cloud of bioluminescent mucus in a 15-foot cone. Non-squid creatures within the cloud must attempt a DC 16 Fortitude check save or become [[Conditions/Sickened 1|Sickened 1]]. The glowing mucus remains in the area for 1 minute, and any creature that ends its turn in the area must succeed at a DC 13 Fortitude check save or become [[Conditions/Sickened 1|Sickened 1]]."
+    desc: "`pf2:1`  **Frequency** once per day\n\n**Requirements** The vampire squid is in water\n* * *\n\n**Effect** The vampire squid ejects a cloud of bioluminescent mucus in a @Template[cone|distance:15]. Non-squid creatures within the cloud must attempt a DC 16 Fortitude check save or become [[Conditions/Sickened|Sickened 1]]. The glowing mucus remains in the area for 1 minute, and any creature that ends its turn in the area must succeed at a DC 13 Fortitude check save or become [[Conditions/Sickened|Sickened 1]]."
  
+```
+
+```encounter-table
+name: Vampire Squid
+creatures:
+  - 1: Vampire Squid
 ```
 
 

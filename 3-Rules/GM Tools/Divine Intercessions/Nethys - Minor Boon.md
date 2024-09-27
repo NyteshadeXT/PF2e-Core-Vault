@@ -17,7 +17,7 @@ license: OGL
 
 
 
-**Minor Boon (Single Use)** Nethys casts a powerful spell to help you in a pinch.
+Nethys casts a powerful spell to help you in a pinch.
 
 Once, Nethys casts a spell 1 rank higher than the highest-rank spell you can cast. If you can't cast spells, Nethys casts a 1st-rank spell to help you.
 

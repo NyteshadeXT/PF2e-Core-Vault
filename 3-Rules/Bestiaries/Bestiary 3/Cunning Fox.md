@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/beast
   - pf2e/creature/type/incorporeal
   - pf2e/creature/type/spirit
+  - pf2eMonster
   - pf2e/creature/level/1
 statblock: inline
 name: "Cunning Fox"
@@ -26,14 +27,14 @@ level: "Creature 1"
 
 alignment: ""
 size: "Small"
-trait_01: "beast"
-trait_02: "incorporeal"
-trait_03: "spirit"
+trait_01: [[beast]]
+trait_02: [[incorporeal]]
+trait_03: [[spirit]]
 modifier: 9
 perception:
   - name: "Perception"
     desc: "+9; Darkvision"
-languages: "Common, Fey"
+languages: "Common, Fey; tongues"
 skills:
   - name: "Skills"
     desc: "Acrobatics: +6, Deception: +6, Stealth: +8, Survival: +5"
@@ -53,7 +54,7 @@ abilities_top:
   - name: ""
 
   - name: "Bond with Mortal"
-    desc: "`pf2:2` (mental,primal) **Frequency** once per day\n**Effect** The spirit guide forms a bond with a mortal creature. While the bond exists, the spirit guide increases their current and maximum Hit Points by 10, gains a +2 status bonus to their attack and damage rolls, and can communicate telepathically with the bonded mortal as long as the two beings are on the same plane.\nThe spirit guide can only be bonded with one mortal at a time, and they can take this action again to end the bond or to form a new bond (which also ends the old bond). The bond also ends if the spirit guide or the mortal dies.\nThis bond strengthens the spirit guide's connection to the Material Plane. While bonded, the spirit guide loses the incorporeal and spirit traits, loses their immunities and resistances, and changes their Strikes to deal the appropriate physical damage (typically piercing or slashing) instead of force damage."
+    desc: "`pf2:2` (mental,primal) **Frequency** once per day\n* * *\n\n**Effect** The spirit guide forms a bond with a mortal creature. While the bond exists, the spirit guide increases their current and maximum Hit Points by 10, gains a +2 status bonus to their attack and damage rolls, and can communicate telepathically with the bonded mortal as long as the two beings are on the same plane.\n\nThe spirit guide can only be bonded with one mortal at a time, and they can take this action again to end the bond or to form a new bond (which also ends the old bond). The bond also ends if the spirit guide or the mortal dies.\n\nThis bond strengthens the spirit guide's connection to the Material Plane. While bonded, the spirit guide loses the incorporeal and spirit traits, loses their immunities and resistances, and changes their Strikes to deal the appropriate physical damage (typically piercing or slashing) instead of force damage."
 
 abilities_mid:
   - name: ""
@@ -70,8 +71,14 @@ attacks:
     desc: "DC 17, attack +9; __3rd __  _[[Spells/Wanderer's Guide|Wanderer's Guide]]_; __1st __  _[[Spells/Detect Poison|Detect Poison]]_, _[[Spells/Cleanse Cuisine|Purify Food and Drink]]_\n__Cantrips__  __(1st)__ _[[Spells/Guidance|Guidance]]_, _[[Spells/Read Aura|Read Aura]]_, _[[Spells/Stabilize|Stabilize]]_\n__Constant__  __(5th)__ _[[Spells/Truespeech|Tongues]]_"
 
   - name: "Bonded Strike"
-    desc: "`pf2:2`  **Requirements** The spirit guide is currently Bonded with a Mortal\n**Effect** The spirit guide makes a jaws Strike. If this attack hits, the bonded mortal can spend their reaction to Strike the same target."
+    desc: "`pf2:2`  **Requirements** The spirit guide is currently Bonded with a Mortal\n* * *\n\n**Effect** The spirit guide makes a jaws Strike. If this attack hits, the bonded mortal can spend their reaction to Strike the same target."
  
+```
+
+```encounter-table
+name: Cunning Fox
+creatures:
+  - 1: Cunning Fox
 ```
 
 

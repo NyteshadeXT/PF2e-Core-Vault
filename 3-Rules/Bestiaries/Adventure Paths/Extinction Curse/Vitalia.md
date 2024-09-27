@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/aberration
   - pf2e/creature/type/aquatic
   - pf2e/creature/type/mindless
+  - pf2eMonster
   - pf2e/creature/level/18
 statblock: inline
 name: "Vitalia"
@@ -22,16 +23,17 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #155: Lord of the Black Sands"
 name: "Vitalia"
 level: "Creature 18"
-rare_03: "Rare"
+rare_03: [[Rare]]
 alignment: ""
 size: "Large"
-trait_01: "aberration"
-trait_02: "aquatic"
-trait_03: "mindless"
+trait_01: [[aberration]]
+trait_02: [[aquatic]]
+trait_03: [[mindless]]
 modifier: 30
 perception:
   - name: "Perception"
     desc: "+30; Tremorsense (Imprecise) 60 Feet"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Athletics: +33"
@@ -56,7 +58,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Blood Eruption"
-    desc: "`pf2:r`  **Trigger** A creature lands a critical hit with a melee Strike against the vitalia\n**Effect** The vitalia sprays blood at the triggering creature. The creature must succeed at a DC 39 Reflex check save or become [[Conditions/Dazzled|Dazzled]] for 1 round (or [[Conditions/Blinded|Blinded]] for 1 round on a critical failure)."
+    desc: "`pf2:r`  **Trigger** A creature lands a critical hit with a melee Strike against the vitalia\n* * *\n\n**Effect** The vitalia sprays blood at the triggering creature. The creature must succeed at a DC 39 Reflex check save or become [[Conditions/Dazzled|Dazzled]] for 1 round (or [[Conditions/Blinded|Blinded]] for 1 round on a critical failure)."
 
 attacks:
   - name: ""
@@ -71,17 +73,23 @@ attacks:
     desc: "DC 36, attack +28; __8th __  _[[Spells/Vampiric Exsanguination|Vampiric Exsanguination]]_; __6th __  _[[Spells/Status|Status (At Will)]]_, _[[Spells/Vampiric Feast|Vampiric Touch]]_"
 
   - name: "[[Bestiary Ability Glossary/Constrict|Constrict]]"
-    desc: "`pf2:1`  4d8 + 10 bludgeoning damage, DC 37 Fortitude check\n"
+    desc: "`pf2:1`  4d8+10 bludgeoning damage, DC 37 Fortitude check\n\n* * *\n"
 
   - name: "Forced Transfusion"
-    desc: "`pf2:1`  **Requirements** The vitalia is [[Conditions/Grabbed|Grabbing]] a creature\n**Effect** The vitalia inserts some of its veins into the grabbed creature and pumps violently, rapidly exchanging the victim's blood with its own. Any diseases or poisons affecting the vitalia can be transmitted to the target creature, which must make a saving throw as though it had just been targeted with the original affliction. The inverse is true as well; the vitalia must successfully save against any diseases or poisons affecting the target or contract the affliction."
+    desc: "`pf2:1`  **Requirements** The vitalia is [[Conditions/Grabbed|Grabbing]] a creature\n* * *\n\n**Effect** The vitalia inserts some of its veins into the grabbed creature and pumps violently, rapidly exchanging the victim's blood with its own. Any diseases or poisons affecting the vitalia can be transmitted to the target creature, which must make a saving throw as though it had just been targeted with the original affliction. The inverse is true as well; the vitalia must successfully save against any diseases or poisons affecting the target or contract the affliction."
 
   - name: "Sanguine Rain"
-    desc: "`pf2:2` (occult) **Frequency** once per day\n**Effect** The vitalia pumps copious amounts of blood into the air, creating a cascading rain of vital fluids in a 15-foot emanation.\nAll creatures in the area are [[Conditions/Concealed|Concealed]] from one another. A creature that benefits from consuming blood (such as bloodseekers or vampires) gains fast healing 10 while in the area. While in the area, a creature taking persistent bleed damage cannot end that condition, even if it spends actions to attempt a flat check to do so.\nThe rain lasts for 1 minute.\n[[Bestiary Effects/Effect_ Sanguine Rain|Effect: Sanguine Rain]]"
+    desc: "`pf2:2` (occult) **Frequency** once per day\n* * *\n\n**Effect** The vitalia pumps copious amounts of blood into the air, creating a cascading rain of vital fluids in a @Template[emanation|distance:15].\n\nAll creatures in the area are [[Conditions/Concealed|Concealed]] from one another. A creature that benefits from consuming blood (such as bloodseekers or vampires) gains fast healing 10 while in the area. While in the area, a creature taking persistent bleed damage cannot end that condition, even if it spends actions to attempt a flat check to do so.\n\nThe rain lasts for 1 minute.\n\n[[Bestiary Effects/Effect_ Sanguine Rain|Effect: Sanguine Rain]]"
 
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
     desc: "`pf2:1`  "
  
+```
+
+```encounter-table
+name: Vitalia
+creatures:
+  - 1: Vitalia
 ```
 
 

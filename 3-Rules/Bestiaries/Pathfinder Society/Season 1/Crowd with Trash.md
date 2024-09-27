@@ -4,6 +4,7 @@ obsidianUIMode: preview
 noteType: pf2eHazard
 tags:
   - environmental
+  - pf2eHazard
   - complex
 source: Pathfinder Society Scenario #1-01: The Absalom Initiation
 aliases: "Compendium.pf2e.pfs-season-1-bestiary.Actor.FWNxPgsg0cfvrnY0" 
@@ -21,7 +22,7 @@ name: "Crowd with Trash"
 level: "Hazard 2"
 
 trait_06: "Complex"
-trait_01: "environmental"
+trait_01: [[environmental]]
 modifier: 0
 sourcebook: "_Pathfinder Society Scenario #1-01: The Absalom Initiation_"
 ac: 16
@@ -51,11 +52,17 @@ attacks:
   - name: "Speed 25 feet"
     desc: "passive "
   - name: "Melee"
-    desc: "Trash +14 (range 20 feet) [[Conditions/Sickened 1|Sickened 1]] (DC 18 Fortitude check save negates sickened)."
+    desc: "Trash +14 (range 20 feet) [[Conditions/Sickened|Sickened 1]] (DC 18 Fortitude check save negates sickened)."
 
   - name: "Routine"
     desc: "(3 actions) The crowd uses its first action to Stride away from any opponent adjacent to them (or to get within 30 feet), then uses each remaining action to make a trash Strike at a different target."
   - name: "Reset"
     desc: "After more people in the crowd have become shaken or taken damage than there are crowd leaders left standing, the crowd disperses. For abilities affecting an area, count each affected square as one member of the crowd."
+```
+
+```encounter-table
+name: Crowd with Trash
+creatures:
+  - 1: Crowd with Trash
 ```
 

@@ -6,8 +6,9 @@ tags:
   - trait/kobold
   - trait/common
   - category/ancestry
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.IElFaS5i10MFYIvq"
-license: OGL
+license: ORC
 ---
 # Kobold Lore
 ## Feat 1
@@ -18,7 +19,9 @@ license: OGL
 
 
 
-You attentively learned key kobold survival strategies and mythology from your elders. You gain the trained proficiency rank in Stealth and Thievery. If you would automatically become trained in one of those skills (from your background or class, for example), you instead become trained in a skill of your choice. You also become trained in Kobold Lore.
+You attentively learned key kobold survival strategies from your elders. You gain the trained proficiency rank in Stealth and Thievery. If you would automatically become trained in one of those skills (from your background or class, for example), you instead become trained in a skill of your choice.
 
-*Source: Pathfinder Advanced Player's Guide*
-*OGL*
+You also gain the [[Feats/Additional Lore|Additional Lore]] general feat for Kobold Lore.
+
+*Source: Pathfinder Player Core 2*
+*ORC*

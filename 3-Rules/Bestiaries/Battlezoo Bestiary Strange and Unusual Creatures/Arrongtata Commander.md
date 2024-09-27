@@ -7,6 +7,7 @@ aliases: "Compendium.battlezoo-bestiary-su-pf2e.pf2e-battlezoo-su-actors.Actor.h
 tags:
   - pf2e/creature/type/fey
   - pf2e/creature/type/spirit
+  - pf2eMonster
   - pf2e/creature/level/4
 statblock: inline
 name: "Arrongtata Commander"
@@ -25,16 +26,16 @@ level: "Creature 4"
 
 alignment: ""
 size: "Small"
-trait_01: "fey"
-trait_02: "spirit"
+trait_01: [[fey]]
+trait_02: [[spirit]]
 modifier: 11
 perception:
   - name: "Perception"
     desc: "+11; Darkvision"
-languages: "Fey"
+languages: "Fey; speak with plants; telepathy 50 feet"
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +11, Athletics: +13, Nature: +12, Warefare Lore: +12, "
+    desc: "Acrobatics: +11, Athletics: +13, Nature: +12, Acrobatics: +11, Athletics: +13, Nature: +12, Warefare Lore: +12"
 abilityMods: [5, 3, 3, 1, 3, 1]
 speed: 20 feet
 sourcebook: "_Battlezoo Bestiary: Strange and Unusual_"
@@ -52,18 +53,18 @@ abilities_top:
   - name: "Items"
     desc: "5x [[Equipment/Spear|Spear]], [[Equipment/Wooden Shield|Arrongtata Face]]"
   - name: "Detached Face"
-    desc: "  The arrongtata commander's face is detached from its body, and there is a telepathic connection between the two. The face has two unblinking eyes that provide vision, hearing, scent, and the ability to perform a Stunning Glare. All other functions and abilities are performed by the arrongtata commander's body. When the arrongtata commander's body has its face in its possession, it perceives normally. The arrongtata commander's face can still see, hear, and smell even if it's away from its body, but it can only see whatever is visible from its current position, possibly making it unable to see, hear, or smell what's going on around it (using effects similar to the Blinded and Deafened conditions to handle this). Even if its head can see its body from afar, the confusion from the distant viewpoint causes the arrongtata commander to be Off-Guard while it isn't holding its head."
+    desc: "  The arrongtata commander's face is detached from its body, and there is a telepathic connection between the two. The face has two unblinking eyes that provide vision, hearing, scent, and the ability to perform a Stunning Glare. All other functions and abilities are performed by the arrongtata commander's body. When the arrongtata commander's body has its face in its possession, it perceives normally. The arrongtata commander's face can still see, hear, and smell even if it's away from its body, but it can only see whatever is visible from its current position, possibly making it unable to see, hear, or smell what's going on around it (using effects similar to the [[undefined]] and [[undefined]] conditions to handle this). Even if its head can see its body from afar, the confusion from the distant viewpoint causes the arrongtata commander to be [[undefined]] while it isn't holding its head."
 
   - name: "Shield Face"
-    desc: "  The face of an arrongtata commander is incredibly sturdy, and acts as both a shield and weapon, though only for that arrongtata commander. When the arrongtata commander holds its arrongtata face in at least one hand, it can use the face to Raise a Shield, Shield Block, or Strike (Hardness 8, HP 48, BT 24). Because of their mystical connection to their head, when an arrongtata commander Raises a Shield with their head, they gain a +4 circumstance bonus to AC, and if their face breaks, it remains partially functional. While broken, it can no longer be used to Strike but can still act as a shield with a circumstance bonus of +2 AC when raised. If an arrongtata commander's face is fully destroyed, the arrongtata becomes Blinded and Deafened and can't use Stunning Glare."
+    desc: "  The face of an arrongtata commander is incredibly sturdy, and acts as both a shield and weapon, though only for that arrongtata commander. When the arrongtata commander holds its arrongtata face in at least one hand, it can use the face to Raise a Shield, Shield Block, or Strike (Hardness 8, HP 48, BT 24). Because of their mystical connection to their head, when an arrongtata commander Raises a Shield with their head, they gain a +4 circumstance bonus to AC, and if their face breaks, it remains partially functional. While broken, it can no longer be used to Strike but can still act as a shield with a circumstance bonus of +2 AC when raised. If an arrongtata commander's face is fully destroyed, the arrongtata becomes [[undefined]] and [[undefined]] and can't use Stunning Glare."
 
   - name: "Summon Face"
-    desc: "`pf2:2` (primal) **Requirements** The arrongtata commander has a free hand\n**Effect** The arrongtata commander immediately teleports its face from anywhere into its hand."
+    desc: "`pf2:2` (primal) **Requirements** The arrongtata commander has a free hand\n* * *\n\n**Effect** The arrongtata commander immediately teleports its face from anywhere into its hand."
 
 abilities_mid:
   - name: ""
   - name: "[[Actions/Raise a Shield|Raise a Shield]]"
-    desc: "`pf2:1` (general) **Requirements** You are wielding a shield\nYou position your shield to protect yourself. When you have Raised a Shield, you gain its listed circumstance bonus to AC. Your shield remains raised until the start of your next turn.\n[[Equipment Effects/Effect_ Raise a Shield|Raise a Shield]]"
+    desc: "`pf2:1` (general) **Requirements** You are wielding a shield\n* * *\n\nYou position your shield to protect yourself. When you have Raised a Shield, you gain its listed circumstance bonus to AC. Your shield remains raised until the start of your next turn.\n\n[[Equipment Effects/Effect_ Raise a Shield]]"
 
   - name: "[[Bestiary Ability Glossary/Shield Block|Shield Block]]"
     desc: "`pf2:r`  "
@@ -84,11 +85,17 @@ attacks:
     desc: "DC 21, attack +13\n__Constant__  __(4th)__ _[[Spells/Speak with Plants|Speak with Plants]]_"
 
   - name: "Stunning Glare"
-    desc: "`pf2:1` (mental,primal,visual) **Frequency** once per round\n**Effect** The arrongtata commander's eyes flash to stun the spirit of a target within 30 feet. The target attempts a DC 21 Will check saving throw.\n**Critical Success** The target is unaffected and becomes temporarily immune to Stunning Glare for 1 minute.\n**Success** The target is unaffected.\n**Failure** The target becomes Stunned 1.\n**Critical Failure** The target becomes Stunned 2."
+    desc: "`pf2:1` (mental,primal,visual) **Frequency** once per round\n* * *\n\n**Effect** The arrongtata commander's eyes flash to stun the spirit of a target within 30 feet. The target attempts a DC 21 Will check saving throw.\n* * *\n\n**Critical Success** The target is unaffected and becomes temporarily immune to Stunning Glare for 1 minute.\n\n**Success** The target is unaffected.\n\n**Failure** The target becomes [[undefined]].\n\n**Critical Failure** The target becomes [[undefined]]."
 
   - name: "Command Troops"
     desc: "`pf2:1`  The arrongtata commander telepathically commands its troops within 50 feet to adjust their positioning. Any lower level ally that's both a fey and a spirit can use a reaction to Step."
  
+```
+
+```encounter-table
+name: Arrongtata Commander
+creatures:
+  - 1: Arrongtata Commander
 ```
 
 

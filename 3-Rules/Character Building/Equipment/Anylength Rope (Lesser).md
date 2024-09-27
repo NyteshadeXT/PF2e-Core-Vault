@@ -10,7 +10,7 @@ license: OGL
 ---
 # Anylength Rope (Lesser)
 ## Item 3
-### [[magical]]
+### [[3-Rules/Rule References/Magical]]
 
 
 **Price** 45 gp; 

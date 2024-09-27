@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.pfs-season-4-bestiary.Actor.mjE5Fgn1nmJIPOP7"
 tags:
   - pf2e/creature/type/automaton
   - pf2e/creature/type/construct
+  - pf2eMonster
   - pf2e/creature/level/1
 statblock: inline
 name: "Damaged Automaton"
@@ -21,16 +22,16 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Society Scenario #4-04: To Seek the Heart of Calamity"
 name: "Damaged Automaton"
 level: "Creature 1"
-rare_03: "Rare"
+rare_03: [[Rare]]
 alignment: ""
 size: "Medium"
-trait_01: "automaton"
-trait_02: "construct"
+trait_01: [[automaton]]
+trait_02: [[construct]]
 modifier: 6
 perception:
   - name: "Perception"
     desc: "+6; Darkvision"
-languages: "Common, Osiriani"
+languages: "Common, Osiriani; telepathy 30 feet"
 skills:
   - name: "Skills"
     desc: "Arcana: +6, Athletics: +7, Intimidation: +6"
@@ -64,8 +65,14 @@ attacks:
     desc: "`pf2:1` Barbed Net +6 (range increment 20 feet)\n__Damage__ "
 
   - name: "Barbed Net"
-    desc: "  When a crumbling automaton hits a creature with their barbed net, the net wraps around the target, which becomes [[Conditions/Clumsy 1|Clumsy 1]] and takes a -10-foot circumstance penalty to its Speeds. If the Strike was a critical success, the target is also [[Conditions/Immobilized|Immobilized]]. When a creature Escapes (DC 17), or if the Strike misses, the net crumbles into nothing. Each time a creature attempts to [[Actions/Escape|Escape]], it takes 1d6 slashing damage from the net's barbs, regardless of whether the attempt succeeds."
+    desc: "  When a crumbling automaton hits a creature with their barbed net, the net wraps around the target, which becomes [[Conditions/Clumsy|Clumsy 1]] and takes a -10-foot circumstance penalty to its Speeds. If the Strike was a critical success, the target is also [[Conditions/Immobilized|Immobilized]]. When a creature Escapes (DC 17), or if the Strike misses, the net crumbles into nothing. Each time a creature attempts to [[Actions/Escape|Escape]], it takes 1d6 slashing damage from the net's barbs, regardless of whether the attempt succeeds."
  
+```
+
+```encounter-table
+name: Damaged Automaton
+creatures:
+  - 1: Damaged Automaton
 ```
 
 

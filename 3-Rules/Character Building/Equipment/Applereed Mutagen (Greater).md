@@ -15,7 +15,7 @@ license: OGL
 ---
 # Applereed Mutagen (Greater)
 ## Item 18
-### [rare](rare "Rare Rarity Trait")[[alchemical]][[consumable]][[elixir]][[mutagen]][[polymorph]]
+### [rare](rare.md "Rare Rarity Trait")[[alchemical]][[consumable]][[elixir]][[mutagen]][[polymorph]]
 
 **Category** mutagen; 
 **Price** 5000 gp; 

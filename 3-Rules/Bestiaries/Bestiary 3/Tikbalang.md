@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.pathfinder-bestiary-3.Actor.HObVT8aJnsx5nnqu"
 tags:
   - pf2e/creature/type/beast
   - pf2e/creature/type/chaotic
+  - pf2eMonster
   - pf2e/creature/level/9
 statblock: inline
 name: "Tikbalang"
@@ -22,11 +23,11 @@ token: [[modules/pf2e-tokens-bestiaries/portraits/bestial/mythological/tikbalang
 source: "Pathfinder Bestiary 3"
 name: "Tikbalang"
 level: "Creature 9"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Large"
-trait_01: "beast"
-trait_02: "chaotic"
+trait_01: [[beast]]
+trait_02: [[chaotic]]
 modifier: 16
 perception:
   - name: "Perception"
@@ -34,7 +35,7 @@ perception:
 languages: "Common, Fey"
 skills:
   - name: "Skills"
-    desc: "Athletics: +20 (+22 to Grapple), Deception: +21, Nature: +14, Stealth: +17, Survival: +16"
+    desc: "Athletics: +20, Deception: +21, Nature: +14, Stealth: +17, Survival: +16"
 abilityMods: [5, 4, 4, -1, 3, 6]
 speed: 30 feet
 sourcebook: "_Pathfinder Bestiary 3_"
@@ -68,7 +69,7 @@ attacks:
     desc: "DC 29, attack +21; __8th __  _[[Spells/Quandary|Maze (Once per Week)]]_; __4th __  _[[Spells/Mirage|Hallucinatory Terrain]]_, _[[Spells/Hypnotize|Hypnotic Pattern]]_"
 
   - name: "[[Bestiary Ability Glossary/Change Shape|Change Shape]]"
-    desc: "`pf2:1` (concentrate,occult,polymorph) The tikbalang takes on the appearance of any Medium or Large humanoid. This doesn't change the tikbalang's Speed or their attack and damage modifiers with their Strikes.\n"
+    desc: "`pf2:1` (concentrate,occult,polymorph) The tikbalang takes on the appearance of any Medium or Large humanoid. This doesn't change the tikbalang's Speed or their attack and damage modifiers with their Strikes.\n\n* * *\n"
 
   - name: "Flailing Thrash"
     desc: "`pf2:2`  The tikbalang makes two fist Strikes, with each Strike dealing an extra 1d6 damage against creatures grabbing or [[Conditions/Grabbed|Grabbed]] by the tikbalang. The multiple attack penalty doesn't increase until after both attacks."
@@ -76,6 +77,12 @@ attacks:
   - name: "Unnatural Leap"
     desc: "`pf2:1`  The tikbalang jumps up to their Speed horizontally, or half that vertically."
  
+```
+
+```encounter-table
+name: Tikbalang
+creatures:
+  - 1: Tikbalang
 ```
 
 

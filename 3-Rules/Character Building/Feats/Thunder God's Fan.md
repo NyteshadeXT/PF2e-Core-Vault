@@ -6,8 +6,9 @@ tags:
   - trait/tengu
   - trait/common
   - category/ancestry
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.1jZ7f4TJqiFH8Ied"
-license: OGL
+license: ORC
 ---
 # Thunder God's Fan
 ## Feat 13
@@ -19,7 +20,7 @@ license: OGL
 
 **Prerequisites** Wind God's Fan
 * * *
-A wave of your fan unleashes the fury of the storm. You can Activate your _tengu feather fan_ one additional time per day. Add the 5th-rank [[Spells/Lightning Bolt|Lightning Bolt]] spell to the spells contained within your fan. Reflex saving throw
+Your fan unleashes the fury of the storm. You can use the Wave Fan activation one additional time per day. Add a 5th-rank [[Spells/Lightning Bolt|Lightning Bolt]] spell to the spells contained within your fan.
 
-*Source: Pathfinder Lost Omens: Ancestry Guide*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

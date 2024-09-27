@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.pathfinder-bestiary.Actor.k9fM0vufbdsDPQul"
 tags:
   - pf2e/creature/type/elemental
   - pf2e/creature/type/fire
+  - pf2eMonster
   - pf2e/creature/level/1
 statblock: inline
 name: "Fire Mephit"
@@ -25,8 +26,8 @@ level: "Creature 1"
 
 alignment: ""
 size: "Small"
-trait_01: "elemental"
-trait_02: "fire"
+trait_01: [[elemental]]
+trait_02: [[fire]]
 modifier: 3
 perception:
   - name: "Perception"
@@ -65,8 +66,14 @@ attacks:
     desc: "DC 15, attack +7\n__Cantrips__  __(1st)__ _[[Spells/Daze|Daze]]_, _[[Spells/Light|Light]]_"
 
   - name: "Breath Weapon"
-    desc: "`pf2:2` (arcane,fire) The fire mephit breathes flames in a 15-foot cone that deals 2d4 fire damage and 1d4 persistent fire damage to each creature within the area (DC 17 Reflex check save).\nThe fire mephit can't use Breath Weapon again for 1d4 rounds."
+    desc: "`pf2:2` (arcane,fire) The fire mephit breathes flames in a @Template[cone|distance:15] that deals 2d4 fire damage and 1d4 persistent fire damage to each creature within the area (DC 17 Reflex check save).\n\nThe fire mephit can't use Breath Weapon again for 1d4 rounds."
  
+```
+
+```encounter-table
+name: Fire Mephit
+creatures:
+  - 1: Fire Mephit
 ```
 
 

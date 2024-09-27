@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.npc-gallery.Actor.Jg9OEmo68KC91PgC"
 tags:
   - pf2e/creature/type/human
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/-1
 statblock: inline
 name: "Teacher"
@@ -24,8 +25,8 @@ level: "Creature -1"
 
 alignment: ""
 size: "Medium"
-trait_01: "human"
-trait_02: "humanoid"
+trait_01: [[human]]
+trait_02: [[humanoid]]
 modifier: 4
 perception:
   - name: "Perception"
@@ -33,7 +34,7 @@ perception:
 languages: "Common"
 skills:
   - name: "Skills"
-    desc: "Academia Lore: +14, Diplomacy: +7, Intimidation: +5, One Additional Lore: +14"
+    desc: "Diplomacy: +7, Intimidation: +5, Academia Lore: +14, One Additional Lore: +14"
 abilityMods: [0, 0, -1, 4, 2, 3]
 speed: 25 feet
 sourcebook: "_Pathfinder Gamemastery Guide_"
@@ -56,7 +57,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Inspirational Presence"
-    desc: " (aura,emotion,mental) 50 feet. Any of the teacher's students in the aura gains a +1 circumstance bonus to [[Actions/Recall Knowledge|Recall Knowledge]].\n[[Bestiary Effects/Effect_ Inspirational Presence|Effect: Inspirational Presence]]"
+    desc: " (aura,emotion,mental) 50 feet. Any of the teacher's students in the aura gains a +1 circumstance bonus to [[Actions/Recall Knowledge|Recall Knowledge]].\n\n[[Bestiary Effects/Effect_ Inspirational Presence|Effect: Inspirational Presence]]"
 
 attacks:
   - name: ""
@@ -64,6 +65,12 @@ attacks:
   - name: "Melee"
     desc: "`pf2:1` Cane +4 (two-hand d8)\n__Damage__  1d4 bludgeoning"
  
+```
+
+```encounter-table
+name: Teacher
+creatures:
+  - 1: Teacher
 ```
 
 

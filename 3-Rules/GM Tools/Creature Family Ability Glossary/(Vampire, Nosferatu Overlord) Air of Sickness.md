@@ -18,7 +18,7 @@ license: OGL
 
 
 
-30 feet. A creature entering or starting its turn in the aura must attempt a Fortitude check save with a moderate DC for the nosferatu's level. On a failure, the creature is [[Conditions/Sickened 1|Sickened 1]] and takes a -2 status penalty to saves made to resist diseases and remove the sickened condition for 1 hour.
+30 feet. A creature entering or starting its turn in the aura must attempt a Fortitude check save with a moderate DC for the nosferatu's level. On a failure, the creature is [[Conditions/Sickened|Sickened 1]] and takes a -2 status penalty to saves made to resist diseases and remove the sickened condition for 1 hour.
 
 [[Bestiary Effects/Effect_ Air of Sickness|Effect: Air of Sickness]]
 

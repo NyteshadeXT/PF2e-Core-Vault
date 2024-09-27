@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/humanoid
   - pf2e/creature/type/xulgath
+  - pf2eMonster
   - pf2e/creature/level/7
 statblock: inline
 name: "Xulgath Mage"
@@ -26,10 +27,10 @@ level: "Creature 7"
 
 alignment: ""
 size: "Medium"
-trait_01: "chaotic"
-trait_02: "evil"
-trait_03: "humanoid"
-trait_04: "xulgath"
+trait_01: [[chaotic]]
+trait_02: [[evil]]
+trait_03: [[humanoid]]
+trait_04: [[xulgath]]
 modifier: 12
 perception:
   - name: "Perception"
@@ -57,10 +58,10 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Counterspell"
-    desc: "`pf2:r`  **Trigger** A creature Casts a Spell the xulgath mage has in its repertoire\n**Effect** The xulgath mage expends one of its spell slots to counter the triggering creature's casting of the spell in its repertoire. The xulgath mage loses the spell slot as if it had cast the triggering spell and attempts to counteract the triggering spell."
+    desc: "`pf2:r`  **Trigger** A creature Casts a Spell the xulgath mage has in its repertoire\n* * *\n\n**Effect** The xulgath mage expends one of its spell slots to counter the triggering creature's casting of the spell in its repertoire. The xulgath mage loses the spell slot as if it had cast the triggering spell and attempts to counteract the triggering spell."
 
   - name: "Stench"
-    desc: " (aura,olfactory) 30 feet. A creature entering the aura must attempt a DC 25 Fortitude check save. On a failure, the creature is [[Conditions/Sickened 1|Sickened 1]], and on a critical failure, the creature also takes a -5-foot status penalty to its Speeds for 1 round. While within the aura, the creature takes a -2 circumstance penalty to saves to recover from the sickened condition. A creature that succeeds at its save is temporarily immune to all xulgaths' stench for 1 minute.\n[[Bestiary Effects/Effect_ Xulgath Stench|Effect: Xulgath Stench]]"
+    desc: " (aura,olfactory) 30 feet. A creature entering the aura must attempt a DC 25 Fortitude check save. On a failure, the creature is [[Conditions/Sickened|Sickened 1]], and on a critical failure, the creature also takes a -5-foot status penalty to its Speeds for 1 round. While within the aura, the creature takes a -2 circumstance penalty to saves to recover from the sickened condition. A creature that succeeds at its save is temporarily immune to all xulgaths' stench for 1 minute.\n\n[[Bestiary Effects/Effect_ Xulgath Stench|Effect: Xulgath Stench]]"
 
 attacks:
   - name: ""
@@ -80,6 +81,12 @@ attacks:
   - name: "Bloodline Spells"
     desc: "3 Focus Points, DC 26, attack +16; __4th __ (2 slots) _[[Spells/Ancestral Memories|Ancestral Memories]]_, _[[Spells/Extend Spell|Extend Spell]]_"
  
+```
+
+```encounter-table
+name: Xulgath Mage
+creatures:
+  - 1: Xulgath Mage
 ```
 
 

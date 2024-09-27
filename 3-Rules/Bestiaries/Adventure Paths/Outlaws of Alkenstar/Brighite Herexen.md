@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/undead
   - pf2e/creature/type/unholy
+  - pf2eMonster
   - pf2e/creature/level/3
 statblock: inline
 name: "Brighite Herexen"
@@ -22,12 +23,12 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #179: Cradle of Quartz"
 name: "Brighite Herexen"
 level: "Creature 3"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Medium"
-trait_01: "evil"
-trait_02: "undead"
-trait_03: "unholy"
+trait_01: [[evil]]
+trait_02: [[undead]]
+trait_03: [[unholy]]
 modifier: 10
 perception:
   - name: "Perception"
@@ -35,7 +36,7 @@ perception:
 languages: "Common, Necril"
 skills:
   - name: "Skills"
-    desc: "Athletics: +6, Deception: +7, Religion: +10, Stealth: +6"
+    desc: "Athletics: +8, Deception: +9, Religion: +12, Stealth: +8"
 abilityMods: [2, 2, 1, 0, 4, 3]
 speed: 25 feet
 sourcebook: "_Pathfinder #179: Cradle of Quartz_"
@@ -55,7 +56,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Final Blasphemy"
-    desc: " (divine,void) When the herexen is destroyed, it explodes in a wave of void energy with the effects of a 3-action [[Spells/Harm|Harm]] spell (DC 20 Fortitude check).\nThe herexen is destroyed, so it doesn't gain any Hit Points from this use of _harm_, and it doesn't need to have any _harm_ spells remaining to use this ability."
+    desc: " (divine,void) When the herexen is destroyed, it explodes in a wave of void energy with the effects of a 3-action [[Spells/Harm|Harm]] spell (DC 20 Fortitude check).\n\nThe herexen is destroyed, so it doesn't gain any Hit Points from this use of _harm_, and it doesn't need to have any _harm_ spells remaining to use this ability."
 
 attacks:
   - name: ""
@@ -75,6 +76,12 @@ attacks:
   - name: "Heretic's Smite"
     desc: " (divine) While wielding the favored weapon of its former deity (such as a light hammer for an ex-Brigh herexen), the herexen's Strikes deal an additional 1d6 spirit damage against creatures that can cast divine spells."
  
+```
+
+```encounter-table
+name: Brighite Herexen
+creatures:
+  - 1: Brighite Herexen
 ```
 
 

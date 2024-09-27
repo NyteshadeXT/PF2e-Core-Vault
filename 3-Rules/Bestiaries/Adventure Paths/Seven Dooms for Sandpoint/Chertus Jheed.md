@@ -10,6 +10,7 @@ tags:
   - pf2e/creature/type/fungus
   - pf2e/creature/type/human
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/7
 statblock: inline
 name: "Chertus Jheed"
@@ -24,14 +25,14 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #200: Seven Dooms for Sandpoint"
 name: "Chertus Jheed"
 level: "Creature 7"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Medium"
-trait_01: "chaotic"
-trait_02: "evil"
-trait_03: "fungus"
-trait_04: "human"
-trait_05: "humanoid"
+trait_01: [[chaotic]]
+trait_02: [[evil]]
+trait_03: [[fungus]]
+trait_04: [[human]]
+trait_05: [[humanoid]]
 modifier: 14
 perception:
   - name: "Perception"
@@ -39,7 +40,7 @@ perception:
 languages: "Common, Varisian"
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +14, Athletics: +17 (+16 to High Jump and Long Jump), Deception: +9, Intimidation: +11, Thievery: +14"
+    desc: "Acrobatics: +14, Athletics: +17, Deception: +9, Intimidation: +11, Thievery: +14"
 abilityMods: [4, 3, 3, 0, 3, 0]
 speed: 30 feet
 sourcebook: "_Pathfinder #200: Seven Dooms for Sandpoint_"
@@ -68,7 +69,7 @@ attacks:
     desc: "`pf2:1` Fist +18 (agile, finesse, magical, unarmed)\n__Damage__  2d6 + 4 bludgeoning"
 
   - name: "Brutal Brawler"
-    desc: "  Chertus can choose to inflict lethal damage with his fists, and increases the size of his damage die with fist attacks to 1d6. If he does so, on a critical hit, the target struck must succeed at a DC 25 Fortitude check save or become [[Conditions/Stunned 1|Stunned 1]] by the staggering blow."
+    desc: "  Chertus can choose to inflict lethal damage with his fists, and increases the size of his damage die with fist attacks to 1d6. If he does so, on a critical hit, the target struck must succeed at a DC 25 Fortitude check save or become [[Conditions/Stunned|Stunned 1]] by the staggering blow."
 
   - name: "Exacting Strike"
     desc: "`pf2:1` (press) Chertus makes a Strike. If he rolls a failure on this Strike, the attack doesn't count toward his multiple attack penalty."
@@ -82,6 +83,12 @@ attacks:
   - name: "Snatch Weapon"
     desc: "`pf2:2`  Chertus attempts to [[Actions/Disarm|Disarm]] a creature. If he knocks a weapon out of the opponent's grasp, Chertus wields the weapon and attempts a Strike against the opponent with the weapon. This counts as two attacks for his multiple attack penalty."
  
+```
+
+```encounter-table
+name: Chertus Jheed
+creatures:
+  - 1: Chertus Jheed
 ```
 
 

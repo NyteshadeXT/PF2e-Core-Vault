@@ -6,6 +6,7 @@ cssClasses: pf2e
 aliases: "Compendium.pf2e.pathfinder-monster-core.Actor.yj2nhIS8ZsAJh2l5" 
 tags:
   - pf2e/creature/type/aberration
+  - pf2eMonster
   - pf2e/creature/level/6
   - remaster
 statblock: inline
@@ -22,10 +23,10 @@ token: [[modules/pf2e-tokens-bestiaries/portraits/aberrant/eldritch/rhu-chalik.w
 source: "Pathfinder Monster Core"
 name: "Rhu-Chalik"
 level: "Creature 6"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Small"
-trait_01: "aberration"
+trait_01: [[aberration]]
 modifier: 17
 perception:
   - name: "Perception"
@@ -67,14 +68,20 @@ attacks:
     desc: "DC 24, attack +16; __5th __  _[[Spells/Mind Probe|Mind Probe]]_; __4th __  _[[Spells/Rewrite Memory|Rewrite Memory]]_; __3rd __  _[[Spells/Mind Reading|Mind Reading (At Will)]]_; __2nd __  _[[Spells/Invisibility|Invisibility (At Will, Self Only)]]_"
 
   - name: "Excruciating Enzyme"
-    desc: " (occult,poison) A rhu-chalik's tendrils secrete an enzyme that causes intense pain. A living creature hit by a tendril Strike must succeed at a DC 24 Fortitude check save or become [[Conditions/Sickened 1|Sickened 1]] from the pain."
+    desc: " (occult,poison) A rhu-chalik's tendrils secrete an enzyme that causes intense pain. A living creature hit by a tendril Strike must succeed at a DC 24 Fortitude check save or become [[Conditions/Sickened|Sickened 1]] from the pain."
 
   - name: "Label Memories"
-    desc: "`pf2:2` (mental,occult) The rhu-chalik invades the mind of a target within 100 feet, sorting the memories into alien structures for transmission. The target must attempt a DC 24 Will check save.\n* * *\n\n**Critical Success** The target creature is unaffected and temporarily immune to Label Memories for 1 minute.\n\n**Success** The target is unaffected.\n\n**Failure** The target becomes [[Conditions/Stupefied 1|Stupefied 2]] for 1 minute as its mind is reorganized to fit the rhu-chalik's needs. If it's already stupefied by this effect, the target instead becomes [[Conditions/Confused|Confused]] for 1 minute or until it recovers due to taking damage.\n\n**Critical Failure** As failure, but if the target is already stupefied by Label Memories, they become [[Conditions/Paralyzed|Paralyzed]] for 1 minute instead of confused."
+    desc: "`pf2:2` (mental,occult) The rhu-chalik invades the mind of a target within 100 feet, sorting the memories into alien structures for transmission. The target must attempt a DC 24 Will check save.\n* * *\n\n**Critical Success** The target creature is unaffected and temporarily immune to Label Memories for 1 minute.\n\n**Success** The target is unaffected.\n\n**Failure** The target becomes [[Conditions/Stupefied|Stupefied 2]] for 1 minute as its mind is reorganized to fit the rhu-chalik's needs. If it's already stupefied by this effect, the target instead becomes [[Conditions/Confused|Confused]] for 1 minute or until it recovers due to taking damage.\n\n**Critical Failure** As failure, but if the target is already stupefied by Label Memories, they become [[Conditions/Paralyzed|Paralyzed]] for 1 minute instead of confused."
 
   - name: "Transmit Memories"
-    desc: "`pf2:3` (concentrate,mental,occult) **Requirements** The rhu-chalik is adjacent to a creature [[Conditions/Paralyzed|Paralyzed]] due to Label Memories\n* * *\n\n**Effect** The rhu-chalik copies the creature's consciousness and mentally sends this copied consciousness through the void of space to their waiting masters. The target creature is deeply disoriented by this procedure, becoming [[Conditions/Stupefied 1|Stupefied 2]] for 1 day afterward."
+    desc: "`pf2:3` (concentrate,mental,occult) **Requirements** The rhu-chalik is adjacent to a creature [[Conditions/Paralyzed|Paralyzed]] due to Label Memories\n* * *\n\n**Effect** The rhu-chalik copies the creature's consciousness and mentally sends this copied consciousness through the void of space to their waiting masters. The target creature is deeply disoriented by this procedure, becoming [[Conditions/Stupefied|Stupefied 2]] for 1 day afterward."
  
+```
+
+```encounter-table
+name: Rhu-Chalik
+creatures:
+  - 1: Rhu-Chalik
 ```
 
 

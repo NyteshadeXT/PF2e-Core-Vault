@@ -7,6 +7,7 @@ tags:
   - trait/combination
   - trait/concussive
   - trait/fatal-d8
+  - trait/monk
   - trait/uncommon
   - category/martial
 aliases: "Compendium.pf2e.equipment-srd.Item.8eGV6fXbmt2v74uB"
@@ -14,7 +15,7 @@ license: OGL
 ---
 # Black Powder Knuckle Dusters
 ## Item 0
-### [uncommon](uncommon "Uncommon Rarity Trait")[[combination]][[concussive]][[fatal-d8]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[combination]][[concussive]][[fatal-d8]][[3-Rules/trait_reference/monk]]
 
 |  |  |
 | -- | -- |

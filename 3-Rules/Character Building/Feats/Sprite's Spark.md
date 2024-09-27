@@ -34,5 +34,13 @@ You can fling a portion of your magic at foes. You gain a ranged unarmed attack 
 
 **Pixie** pixie dust (mental)
 
+**Dijiang** primordial pulse (spirit)
+
+**Gandharva** celestial song (sonic)
+
+**Kanchil** puzzling bolt (mental)
+
+**Leungli** surging splash (bludgeoning)
+
 *Source: Pathfinder Lost Omens: Ancestry Guide*
 *OGL*

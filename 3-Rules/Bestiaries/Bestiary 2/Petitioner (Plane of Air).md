@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.pathfinder-bestiary-2.Actor.6FltuGxvUoNH9b17"
 tags:
   - pf2e/creature/type/air
   - pf2e/creature/type/petitioner
+  - pf2eMonster
   - pf2e/creature/level/1
 statblock: inline
 name: "Petitioner (Plane of Air)"
@@ -25,8 +26,8 @@ level: "Creature 1"
 
 alignment: ""
 size: "Medium"
-trait_01: "air"
-trait_02: "petitioner"
+trait_01: [[air]]
+trait_02: [[petitioner]]
 modifier: 7
 perception:
   - name: "Perception"
@@ -59,8 +60,14 @@ attacks:
     desc: "`pf2:1` Gust +7 (air)\n__Damage__  1d8 + 2 bludgeoning"
 
   - name: "Planar Incarnation - Plane of Air"
-    desc: " (air) All petitioners are formed from and personify the nature of the plane on which they manifest, and their statistics are adjusted as summarized below. They also gain any trait associated with creatures from their plane.\n**Plane of Air** Air pneuma appear as versions of their mortal selves composed of air\n*   **Alignment** any;\n*   **Language** Auran;\n*   **Additional Ability** fly Speed 20 feet;\n*   **Melee** gust +7 (air), **Damage** 1d8+2 bludgeoning"
+    desc: " (air) All petitioners are formed from and personify the nature of the plane on which they manifest, and their statistics are adjusted as summarized below. They also gain any trait associated with creatures from their plane.\n\n**Plane of Air** Air pneuma appear as versions of their mortal selves composed of air\n\n*   **Alignment** any;\n*   **Language** Auran;\n*   **Additional Ability** fly Speed 20 feet;\n*   **Melee** gust +7 (air), **Damage** 1d8+2 bludgeoning"
  
+```
+
+```encounter-table
+name: Petitioner (Plane of Air)
+creatures:
+  - 1: Petitioner (Plane of Air)
 ```
 
 

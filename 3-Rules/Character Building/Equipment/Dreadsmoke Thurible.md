@@ -10,7 +10,7 @@ license: OGL
 ---
 # Dreadsmoke Thurible
 ## Item 9
-### [uncommon](uncommon "Uncommon Rarity Trait")[[magical]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[3-Rules/Rule References/Magical]]
 
 
 **Price** 600 gp; 
@@ -23,7 +23,7 @@ This black-and-gray thurible is decorated with a skeleton motif; the jaw of one 
 
 * * *
 
-**Effect** You swing the thurible around you, spreading inky black smoke in a 20-foot emanation that has the effect of [[Spells/Mist|Mist]]. Undead creatures can see through the smoke as if it didn't exist. Void energy also disrupts the magic of the smoke; anyone who uses a void effect, along with creatures affected by a void effect, can see through the smoke for 1 round.
+**Effect** You swing the thurible around you, spreading inky black smoke in a @Template\[emanation|distance:20\] that has the effect of [[Spells/Mist|Mist]]. Undead creatures can see through the smoke as if it didn't exist. Void energy also disrupts the magic of the smoke; anyone who uses a void effect, along with creatures affected by a void effect, can see through the smoke for 1 round.
 
 *Source: Pathfinder Lost Omens: Gods & Magic*
 *OGL*

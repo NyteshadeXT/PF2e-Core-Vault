@@ -10,6 +10,7 @@ tags:
   - pf2e/creature/type/good
   - pf2e/creature/type/humanoid
   - pf2e/creature/type/sylph
+  - pf2eMonster
   - pf2e/creature/level/-1
 statblock: inline
 name: "Little Brother Zibini"
@@ -24,14 +25,14 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Society Scenario #5-10: The Crocodile&#x27;s Smile"
 name: "Little Brother Zibini"
 level: "Creature -1"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Small"
-trait_01: "chaotic"
-trait_02: "goblin"
-trait_03: "good"
-trait_04: "humanoid"
-trait_05: "sylph"
+trait_01: [[chaotic]]
+trait_02: [[goblin]]
+trait_03: [[good]]
+trait_04: [[humanoid]]
+trait_05: [[sylph]]
 modifier: 2
 perception:
   - name: "Perception"
@@ -58,7 +59,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Deflecting Gale"
-    desc: "`pf2:r` (air,primal) **Trigger** Zibini is the target of a physical ranged attack\n**Requirements** Zibini is aware of the attack\n**Effect** A swift gale whips up between Zibini and the source of the ranged attack, giving Zibini a +2 status bonus to AC against the triggering attack. If the attack misses, the wind deflected it. The wind can't deflect unusually large or heavy ranged projectiles (such as boulders or ballista bolts)."
+    desc: "`pf2:r` (air,primal) **Trigger** Zibini is the target of a physical ranged attack\n\n**Requirements** Zibini is aware of the attack\n* * *\n\n**Effect** A swift gale whips up between Zibini and the source of the ranged attack, giving Zibini a +2 status bonus to AC against the triggering attack. If the attack misses, the wind deflected it. The wind can't deflect unusually large or heavy ranged projectiles (such as boulders or ballista bolts)."
 
 attacks:
   - name: ""
@@ -69,6 +70,12 @@ attacks:
   - name: "Ranged"
     desc: "`pf2:1` Chakri +8 (agile, deadly d8, reload 0, thrown 30 ft.)\n__Damage__  1d4 slashing"
  
+```
+
+```encounter-table
+name: Little Brother Zibini
+creatures:
+  - 1: Little Brother Zibini
 ```
 
 

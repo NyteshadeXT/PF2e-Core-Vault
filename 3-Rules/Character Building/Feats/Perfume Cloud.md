@@ -23,7 +23,7 @@ license: OGL
 
 * * *
 
-You issue a cloud of your fragrance like a full-body sneeze—but one that might save your life as the powerful perfume makes your attackers' eyes sting and water. Plants and fungi are immune to this effect, but all other creatures in a 10-foot emanation must attempt a Fortitude check save against your class DC or spell DC (whichever is higher) with the following results.
+You issue a cloud of your fragrance like a full-body sneeze—but one that might save your life as the powerful perfume makes your attackers' eyes sting and water. Plants and fungi are immune to this effect, but all other creatures in a @Template\[emanation|distance:10\] must attempt a Fortitude check save against your class DC or spell DC (whichever is higher) with the following results.
 
 * * *
 

@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/charau-ka
   - pf2e/creature/type/evil
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/6
 statblock: inline
 name: "Charau-ka Butcher"
@@ -26,14 +27,14 @@ level: "Creature 6"
 
 alignment: ""
 size: "Small"
-trait_01: "chaotic"
-trait_02: "charau-ka"
-trait_03: "evil"
-trait_04: "humanoid"
-modifier: 11
+trait_01: [[chaotic]]
+trait_02: [[charau-ka]]
+trait_03: [[evil]]
+trait_04: [[humanoid]]
+modifier: 13
 perception:
   - name: "Perception"
-    desc: "+11; Darkvision, Scent (Imprecise) 30 Feet"
+    desc: "+13; Darkvision, Scent (Imprecise) 30 Feet"
 languages: "Draconic, Mwangi"
 skills:
   - name: "Skills"
@@ -41,10 +42,10 @@ skills:
 abilityMods: [5, 3, 3, 0, 1, 2]
 speed: 25 feet,  climb 25 feet
 sourcebook: "_Pathfinder Lost Omens: The Mwangi Expanse_"
-ac: 23
+ac: 21
 armorclass:
   - name: AC
-    desc: "23; __Fort__ +17, __Ref__ +12, __Will__ +13"
+    desc: "21; __Fort__ +16, __Ref__ +12, __Will__ +13"
 hp: 95
 health:
   - name: ""
@@ -72,20 +73,26 @@ attacks:
     desc: "`pf2:1` Thrown Debris +15 (thrown 20 ft., deadly d6)\n__Damage__  2d6 + 8 bludgeoning"
 
   - name: "Blood Fury"
-    desc: "`pf2:r` (manipulate) **Trigger** The charau-ka butcher deals bleed damage to a creature.\n**Effect** The charau-ka licks blood from its weapon, becoming furious. It regains 5 HP and gains a +1 status bonus to attack rolls until the end of its turn.\n[[Bestiary Effects/Effect_ Blood Fury|Effect: Blood Fury]]"
+    desc: "`pf2:r` (manipulate) **Trigger** The charau-ka butcher deals bleed damage to a creature.\n* * *\n\n**Effect** The charau-ka licks blood from its weapon, becoming furious. It regains 5 HP and gains a +1 status bonus to attack rolls until the end of its turn.\n\n[[Bestiary Effects/Effect_ Blood Fury|Effect: Blood Fury]]"
 
   - name: "Mauler"
     desc: "  While the charau-ka butcher is raging, its melee Strikes deal 1d4 bleed."
 
   - name: "Rage"
-    desc: "`pf2:1`  **Requirements** The Charau-ka Butcher isn't [[Conditions/Fatigued|Fatigued]] or raging\nThe Charau-ka Butcher taps into its inner fury and begins raging. The Charau-ka Butcher gains a number of temporary Hit Points equal to it's level plus it's Constitution modifier. This frenzy lasts for 1 minute, until there are no enemies they can perceive, or until they fall unconscious, whichever comes first. They can't voluntarily stop raging. While they are raging:\n*   They deal 2 additional damage on melee Strikes. This additional damage is halved if their weapon or unarmed attack is agile.\n*   They take a -1 penalty to AC.\n*   They can't use actions with the concentrate trait unless they also have the rage trait. They can Seek while raging.\nAfter they stop raging, they lose any remaining temporary Hit Points from Rage, and they can't Rage again for 1 minute.\n[[Feat_Feature Effects/Effect_ Rage|Effect: Rage]]"
+    desc: "`pf2:1`  **Requirements** The Charau-ka Butcher isn't [[Conditions/Fatigued|Fatigued]] or raging\n\nThe Charau-ka Butcher taps into its inner fury and begins raging. The Charau-ka Butcher gains a number of temporary Hit Points equal to it's level plus it's Constitution modifier. This frenzy lasts for 1 minute, until there are no enemies they can perceive, or until they fall unconscious, whichever comes first. They can't voluntarily stop raging. While they are raging:\n\n*   They deal 2 additional damage on melee Strikes. This additional damage is halved if their weapon or unarmed attack is agile.\n*   They take a -1 penalty to AC.\n*   They can't use actions with the concentrate trait unless they also have the rage trait. They can Seek while raging.\n\nAfter they stop raging, they lose any remaining temporary Hit Points from Rage, and they can't Rage again for 1 minute.\n\n[[Feat_Feature Effects/Effect_ Rage|Effect: Rage]]"
 
   - name: "Shrieking Frenzy"
-    desc: " (primal) **Trigger** The charau-ka's turn begins.\n**Frequency** once per hour\n**Effect** The charau-ka is [[Conditions/Quickened|Quickened]] until the end of its turn, and can use the extra action to Stride or Strike.\nWhile in the frenzy, the charau-ka can't speak and automatically critically fails Stealth checks, due to its loud wailing."
+    desc: " (primal) **Trigger** The charau-ka's turn begins.\n\n**Frequency** once per hour\n* * *\n\n**Effect** The charau-ka is [[Conditions/Quickened|Quickened]] until the end of its turn, and can use the extra action to Stride or Strike.\n\nWhile in the frenzy, the charau-ka can't speak and automatically critically fails Stealth checks, due to its loud wailing."
 
   - name: "Thrown Weapon Mastery"
-    desc: " (nonlethal) Any weapon a charau-ka throws gains the deadly d6 weapon trait.\nFurthermore, when a charau-ka throws an improvised weapon, it does not take the -2 penalty for doing so, nor does it take a penalty for using a thrown improvised weapon with the nonlethal trait to make a lethal attack."
+    desc: " (nonlethal) Any weapon a charau-ka throws gains the deadly d6 weapon trait.\n\nFurthermore, when a charau-ka throws an improvised weapon, it does not take the -2 penalty for doing so, nor does it take a penalty for using a thrown improvised weapon with the nonlethal trait to make a lethal attack."
  
+```
+
+```encounter-table
+name: Charau-ka Butcher
+creatures:
+  - 1: Charau-ka Butcher
 ```
 
 

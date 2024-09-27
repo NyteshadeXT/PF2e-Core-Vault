@@ -4,34 +4,41 @@ title: "Laughing Fit"
 noteType: pf2eSpell
 cssclasses: pf2e,pf2e-spell
 tags:
+  - pf2eSpell
   - spell/level/2
   - trait/concentrate
   - trait/emotion
   - trait/manipulate
   - trait/mental
   - trait/common
+  - tradition/arcane
+  - tradition/occult
+
   - remaster
 aliases: "Compendium.pf2e.spells-srd.Item.tlSE7Ly8vi1Dgddv" 
+license: ORC
 ---
-# Laughing Fit  `pf2:2`  
-## Spell 2
-### [[concentrate]][[emotion]][[manipulate]][[mental]]
-**Traditions** [[arcane]], [[occult]]
-**Range** 30 feet
-**Targets** 1 living creature
-**Saving Throw**  will
-* * * 
-The target is overtaken with uncontrollable laughter. It must attempt a Will save.
+```statblock
+name: "Laughing Fit  `pf2:2`"
+level: "Spell 2"
 
-* * *
-
-**Critical Success** The target is unaffected.
-
-**Success** The target is plagued with uncontrollable laughter. It can't use reactions.
-
-**Failure** The target is [[Conditions/Slowed 1|Slowed 1]] and can't use reactions.
-
-**Critical Failure** The target falls [[Conditions/Prone|Prone]] and can't use actions or reactions for 1 round. It then takes the effects of a failure.
-
-*Source: Pathfinder Player Core*
-*ORC*
+trait_01: [[concentrate]]
+trait_02: [[emotion]]
+trait_03: [[manipulate]]
+trait_04: [[mental]]
+layout: Basic Pathfinder 2e Layout
+columns: 1
+columnWidth: x
+abilities_top:
+  - name: ""
+  - name: "Traditions"
+    desc: "arcane, occult"
+  - name: "Range"
+    desc: "30 feet; **Targets** 1 living creature"
+  - name: "Defense"
+    desc: " will"
+abilities_mid:
+  - name: ""
+    desc: "The target is overtaken with uncontrollable laughter. It must attempt a Will save.\n* * *\n\n**Critical Success** The target is unaffected.\n\n**Success** The target is plagued with uncontrollable laughter. It can't use reactions.\n\n**Failure** The target is [[Conditions/Slowed|Slowed 1]] and can't use reactions.\n\n**Critical Failure** The target falls [[Conditions/Prone|Prone]] and can't use actions or reactions for 1 round. It then takes the effects of a failure."
+sourcebook: "_Pathfinder Player Core_"
+```

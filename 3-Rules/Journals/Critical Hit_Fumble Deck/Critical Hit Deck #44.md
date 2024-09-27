@@ -8,7 +8,7 @@ tags:
 ---
 # Knockback
 
-> **Crit Effect:** The target is pushed 1d4 \* 5 feet away.
+> **Crit Effect:** The target is pushed 1d4\*5 feet away.
 
 `Bludgeoning`
 

@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/aquatic
   - pf2e/creature/type/chaotic
   - pf2e/creature/type/plant
+  - pf2eMonster
   - pf2e/creature/level/1
 statblock: inline
 name: "Kelpsteed"
@@ -26,17 +27,17 @@ level: "Creature 1"
 
 alignment: ""
 size: "Small"
-trait_01: "aquatic"
-trait_02: "chaotic"
-trait_03: "plant"
+trait_01: [[aquatic]]
+trait_02: [[chaotic]]
+trait_03: [[plant]]
 modifier: 7
 perception:
   - name: "Perception"
     desc: "+7; Low-Light Vision"
-languages: "Fey, Thalassic"
+languages: "Fey, Thalassic; can&#x27;t speak any language; communicates via sign language"
 skills:
   - name: "Skills"
-    desc: "Athletics: +7, Nature: +6, Survival: +6, Ocean Lore: +6, "
+    desc: "Athletics: +7, Nature: +6, Survival: +6, Athletics: +7, Nature: +6, Survival: +6, Ocean Lore: +6"
 abilityMods: [4, 0, 3, 1, 3, 3]
 speed:  swim 15 feet
 sourcebook: "_Battlezoo Bestiary: Strange and Unusual_"
@@ -67,11 +68,17 @@ attacks:
     desc: "`pf2:1`  "
 
   - name: "Kelpsteed Venom"
-    desc: " (poison) **Saving Throw** DC 16 Fortitude check\n**Maximum Duration** 4 rounds\n**Stage 1** 1d6 poison damage (1 round)\n**Stage 2** 1d6 poison damage and Enfeebled 1 (1 round)."
+    desc: " (poison) **Saving Throw** DC 16 Fortitude check\n\n**Maximum Duration** 4 rounds\n\n**Stage 1** 1d6 poison damage (1 round)\n\n**Stage 2** 1d6 poison damage and [[undefined]] (1 round)."
 
   - name: "Hoist"
-    desc: "`pf2:1` (manipulate) The kelpsteed Swims into the square of an adjacent willing Medium or smaller creature, and then wraps itself around them in a way reminiscent of a finned cloak. While the kelpsteed is hoisted in this way, the creature to which they're hoisted gains a Swim speed of 30 feet; this doesn't otherwise hinder the creature. When the creature the kelpsteed is hoisted to moves, the kelpsteed is moved with it; this is forced movement. While hoisted the kelpsteed can't move or use their Grab action, and the kelpsteed is Slowed 1. The kelpsteed can use this action again to detach themselves."
+    desc: "`pf2:1` (manipulate) The kelpsteed Swims into the square of an adjacent willing Medium or smaller creature, and then wraps itself around them in a way reminiscent of a finned cloak. While the kelpsteed is hoisted in this way, the creature to which they're hoisted gains a Swim speed of 30 feet; this doesn't otherwise hinder the creature. When the creature the kelpsteed is hoisted to moves, the kelpsteed is moved with it; this is forced movement. While hoisted the kelpsteed can't move or use their Grab action, and the kelpsteed is [[undefined]]. The kelpsteed can use this action again to detach themselves."
  
+```
+
+```encounter-table
+name: Kelpsteed
+creatures:
+  - 1: Kelpsteed
 ```
 
 

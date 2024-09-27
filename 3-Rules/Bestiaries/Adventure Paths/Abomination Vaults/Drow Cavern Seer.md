@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/drow
   - pf2e/creature/type/elf
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/9
 statblock: inline
 name: "Drow Cavern Seer"
@@ -23,13 +24,13 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #165: Eyes of Empty Death"
 name: "Drow Cavern Seer"
 level: "Creature 9"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Medium"
-trait_01: "chaotic"
-trait_02: "drow"
-trait_03: "elf"
-trait_04: "humanoid"
+trait_01: [[chaotic]]
+trait_02: [[drow]]
+trait_03: [[elf]]
+trait_04: [[humanoid]]
 modifier: 18
 perception:
   - name: "Perception"
@@ -37,7 +38,7 @@ perception:
 languages: "Common, Elven, Sakvroth"
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +17, Nature: +18, Occultism: +18 (+20 underground), Stealth: +19, Survival: +18"
+    desc: "Acrobatics: +17, Nature: +18, Occultism: +18, Stealth: +19, Survival: +18"
 abilityMods: [2, 4, 0, 1, 3, 4]
 speed: 30 feet
 sourcebook: "_Pathfinder #165: Eyes of Empty Death_"
@@ -53,11 +54,11 @@ health:
 abilities_top:
   - name: ""
   - name: "Items"
-    desc: "[[Equipment/Staff|Staff]], [[Equipment/Wand of Shardstorm (1st-Rank Spell)|Wand of Manifold Missiles (1st-Level Spell)]]"
+    desc: "[[Equipment/Staff|Staff]], [[Equipment/Wand of Shardstorm (1st-Rank Spell)|Wand of Manifold Missiles (1st-Rank Spell)]]"
 abilities_mid:
   - name: ""
   - name: "Stone Defense"
-    desc: "`pf2:r`  **Trigger** An enemy is about to damage the cavern seer with bludgeoning damage or with a spell that has the earth trait\n**Effect** The cavern seer gains resistance 10 against the triggering damage."
+    desc: "`pf2:r`  **Trigger** An enemy is about to damage the cavern seer with bludgeoning damage or with a spell that has the earth trait\n* * *\n\n**Effect** The cavern seer gains resistance 10 against the triggering damage."
 
 attacks:
   - name: ""
@@ -75,11 +76,17 @@ attacks:
     desc: "_[[Spells/Commune|Commune]]_, _[[Spells/Geas|Geas]]_"
 
   - name: "Cavern Distortion"
-    desc: "`pf2:2` (occult) **Frequency** once per day\n**Requirements** The cavern seer is underground\n**Effect** Pebbles and dust rise from the stone to impede vision. The cavern seer and their allies within 60 feet become concealed for 1 minute.\nThis concealment can't be used to Hide or Sneak."
+    desc: "`pf2:2` (occult) **Frequency** once per day\n\n**Requirements** The cavern seer is underground\n* * *\n\n**Effect** Pebbles and dust rise from the stone to impede vision. The cavern seer and their allies within 60 feet become concealed for 1 minute.\n\nThis concealment can't be used to Hide or Sneak."
 
   - name: "Underground Stride"
     desc: "  The cavern seer ignores difficult terrain while underground."
  
+```
+
+```encounter-table
+name: Drow Cavern Seer
+creatures:
+  - 1: Drow Cavern Seer
 ```
 
 

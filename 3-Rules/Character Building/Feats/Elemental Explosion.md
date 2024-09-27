@@ -27,7 +27,7 @@ license: OGL
 
 * * *
 
-You unleash the energy roiling within you, exploding elemental matter in a 15-foot emanation. Each creature in the area takes 1d8 damage per level you possess, with the same type you chose for elemental rage. Each creature in the area must attempt a Reflex check. Elemental Explosion gains the trait of your element.
+You unleash the energy roiling within you, exploding elemental matter in a @Template\[emanation|distance:15\]. Each creature in the area takes 1d8 damage per level you possess, with the same type you chose for elemental rage. Each creature in the area must attempt a Reflex check. Elemental Explosion gains the trait of your element.
 
 *Source: Pathfinder Rage of Elements*
 *OGL*

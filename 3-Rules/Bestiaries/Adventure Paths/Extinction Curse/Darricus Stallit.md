@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/human
   - pf2e/creature/type/humanoid
   - pf2e/creature/type/lawful
+  - pf2eMonster
   - pf2e/creature/level/8
 statblock: inline
 name: "Darricus Stallit"
@@ -23,13 +24,13 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #152: Legacy of the Lost God"
 name: "Darricus Stallit"
 level: "Creature 8"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Medium"
-trait_01: "evil"
-trait_02: "human"
-trait_03: "humanoid"
-trait_04: "lawful"
+trait_01: [[evil]]
+trait_02: [[human]]
+trait_03: [[humanoid]]
+trait_04: [[lawful]]
 modifier: 17
 perception:
   - name: "Perception"
@@ -37,7 +38,7 @@ perception:
 languages: "Common"
 skills:
   - name: "Skills"
-    desc: "Athletics: +17, Criminal Lore: +13, Deception: +14, Diplomacy: +16, Intimidation: +16, Society: +14"
+    desc: "Athletics: +17, Deception: +14, Diplomacy: +16, Intimidation: +16, Society: +14, Criminal Lore: +13"
 abilityMods: [5, 1, 0, 1, 3, 4]
 speed: 25 feet
 sourcebook: "_Pathfinder #152: Legacy of the Lost God_"
@@ -77,6 +78,12 @@ attacks:
   - name: "Swipe"
     desc: "`pf2:2`  Darricus makes a melee Strike and compares the attack roll result to the AC of up to two foes, each of whom must be within his melee reach and adjacent to each other. He rolls damage only once and applies it to each creature he hit. This Strike counts as two attacks for calculating his multiple attack penalty."
  
+```
+
+```encounter-table
+name: Darricus Stallit
+creatures:
+  - 1: Darricus Stallit
 ```
 
 

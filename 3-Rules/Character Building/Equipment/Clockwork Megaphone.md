@@ -10,7 +10,7 @@ license: OGL
 ---
 # Clockwork Megaphone
 ## Item 1
-### [uncommon](uncommon "Uncommon Rarity Trait")[[clockwork]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[clockwork]]
 
 
 **Price** 15 gp; 

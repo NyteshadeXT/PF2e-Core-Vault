@@ -10,6 +10,7 @@ tags:
   - pf2e/creature/type/hag
   - pf2e/creature/type/humanoid
   - pf2e/creature/type/unholy
+  - pf2eMonster
   - pf2e/creature/level/16
 statblock: inline
 name: "Myrna Rath"
@@ -24,14 +25,14 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #161: Belly of the Black Whale"
 name: "Myrna Rath"
 level: "Creature 16"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Medium"
-trait_01: "evil"
-trait_02: "fiend"
-trait_03: "hag"
-trait_04: "humanoid"
-trait_05: "unholy"
+trait_01: [[evil]]
+trait_02: [[fiend]]
+trait_03: [[hag]]
+trait_04: [[humanoid]]
+trait_05: [[unholy]]
 modifier: 30
 perception:
   - name: "Perception"
@@ -77,10 +78,10 @@ attacks:
     desc: "DC 41, attack +31; __9th __  _[[Spells/Seize Soul|Bind Soul (At Will)]]_; __8th __  _[[Spells/Chain Lightning|Chain Lightning (Coven)]]_, _[[Spells/Dream Council|Dream Council]]_, _[[Spells/Lightning Bolt|Lightning Bolt (Coven)]]_, _[[Spells/Interplanar Teleport|Plane Shift (Coven)]]_, _[[Spells/Punishing Winds|Punishing Winds (Coven)]]_; __7th __  _[[Spells/Ethereal Jaunt|Ethereal Jaunt (At Will)]]_, _[[Spells/Nightmare|Nightmare]]_, _[[Spells/Shadow Blast|Shadow Blast (x2)]]_; __6th __  _[[Spells/Dream Message|Dream Message (At Will)]]_, _[[Spells/Force Barrage|Magic Missile (At Will)]]_; __5th __  _[[Spells/Invisibility|Invisibility (At Will)]]_; __4th __  _[[Spells/Enfeeble|Ray of Enfeeblement (At Will)]]_, _[[Spells/Sleep|Sleep (At Will)]]_; __1st __  _[[Spells/Detect Alignment|Detect Alignment (All Alignments; constant)]]_\n__Cantrips__  __(8th)__ _[[Spells/Detect Magic|Detect Magic]]_"
 
   - name: "Abyssal Plague"
-    desc: " (disease) A creature can't recover from drained until Abyssal plague is cured\n**Saving Throw** DC 41 Fortitude check\n**Stage 1** drained 1 (1 day)\n**Stage 2** drained 3 (1 day)"
+    desc: " (disease) A creature can't recover from drained until Abyssal plague is cured\n\n**Saving Throw** DC 41 Fortitude check\n\n**Stage 1** drained 1 (1 day)\n\n**Stage 2** drained 3 (1 day)"
 
   - name: "Change Shape"
-    desc: "`pf2:1`  The night hag can take on the appearance of any Medium female humanoid. This doesn't change her Speed or her attack and damage bonuses with her Strikes, but might change the damage type her Strikes deal (typically to bludgeoning).\nThe monster changes its shape indefinitely. It can use this action again to return to its natural shape or adopt a new shape. Unless otherwise noted, a monster cannot use Change Shape to appear as a specific individual. Using Change Shape counts as creating a disguise for the [[Actions/Impersonate|Impersonate]] use of Deception. The monster's transformation automatically defeats Perception DCs to determine whether the creature is a member of the ancestry or creature type into which it transformed, and it gains a +4 status bonus to its Deception DC to prevent others from seeing through its disguise. Change Shape abilities specify what shapes the monster can adopt. The monster doesn't gain any special abilities of the new shape, only its physical form. For example, in each shape, it replaces its normal Speeds and Strikes, and might potentially change its senses or size. Any changes are listed in its stat block."
+    desc: "`pf2:1`  The night hag can take on the appearance of any Medium female humanoid. This doesn't change her Speed or her attack and damage bonuses with her Strikes, but might change the damage type her Strikes deal (typically to bludgeoning).\n* * *\n\nThe monster changes its shape indefinitely. It can use this action again to return to its natural shape or adopt a new shape. Unless otherwise noted, a monster cannot use Change Shape to appear as a specific individual. Using Change Shape counts as creating a disguise for the [[Actions/Impersonate|Impersonate]] use of Deception. The monster's transformation automatically defeats Perception DCs to determine whether the creature is a member of the ancestry or creature type into which it transformed, and it gains a +4 status bonus to its Deception DC to prevent others from seeing through its disguise. Change Shape abilities specify what shapes the monster can adopt. The monster doesn't gain any special abilities of the new shape, only its physical form. For example, in each shape, it replaces its normal Speeds and Strikes, and might potentially change its senses or size. Any changes are listed in its stat block."
 
   - name: "Dream Haunting"
     desc: "`pf2:1`  If a night hag is ethereal and hovering over a sleeping chaotic or evil creature, she can ride the victim's back until dawn. The creature endures tormenting dreams as the hag casts [[Spells/Nightmare|Nightmare]] on it, and is exposed to abyssal plague. Any drained caused by dream haunting is cumulative. Only an ethereal being can confront the night hag and stop her dream haunting."
@@ -88,6 +89,12 @@ attacks:
   - name: "Spell Ambush"
     desc: "  A creature [[Conditions/Off-Guard|Off-Guard]] to the night hag takes a -2 circumstance penalty to checks and DCs to defend against her spells."
  
+```
+
+```encounter-table
+name: Myrna Rath
+creatures:
+  - 1: Myrna Rath
 ```
 
 

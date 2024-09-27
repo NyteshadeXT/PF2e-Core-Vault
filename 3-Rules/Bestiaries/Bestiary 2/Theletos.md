@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/aeon
   - pf2e/creature/type/lawful
   - pf2e/creature/type/monitor
+  - pf2eMonster
   - pf2e/creature/level/7
 statblock: inline
 name: "Theletos"
@@ -26,13 +27,14 @@ level: "Creature 7"
 
 alignment: ""
 size: "Medium"
-trait_01: "aeon"
-trait_02: "lawful"
-trait_03: "monitor"
+trait_01: [[aeon]]
+trait_02: [[lawful]]
+trait_03: [[monitor]]
 modifier: 18
 perception:
   - name: "Perception"
     desc: "+18; Darkvision"
+languages: "envisioning"
 skills:
   - name: "Skills"
     desc: "Arcana: +16, Intimidation: +16, Religion: +18, Stealth: +15"
@@ -72,11 +74,17 @@ attacks:
     desc: "_[[Spells/Geas|Geas]]_"
 
   - name: "Fate Drain"
-    desc: " (curse,divine,fortune,mental) A creature damaged by the theletos's tentacle must succeed at a DC 22 Will check save or become [[Conditions/Stupefied 1|Stupefied 1]].\nAs long as the creature is stupefied, it can no longer benefit from fortune effects. If the target fails additional saves against this ability, the condition value increases by 1 (to a maximum of stupefied 4). This condition value decreases by 1 every 24 hours."
+    desc: " (curse,divine,fortune,mental) A creature damaged by the theletos's tentacle must succeed at a DC 22 Will check save or become [[Conditions/Stupefied|Stupefied 1]].\n\nAs long as the creature is stupefied, it can no longer benefit from fortune effects. If the target fails additional saves against this ability, the condition value increases by 1 (to a maximum of stupefied 4). This condition value decreases by 1 every 24 hours."
 
   - name: "Wrath of Fate"
-    desc: "`pf2:2` (curse,divine,mental,misfortune) The theletos releases a 60-foot cone of energy from its center. Creatures in the cone become overwhelmed with the knowledge of various fates that destiny has in store for them and lack of clear pathways to these potential futures. They must succeed at a DC 26 Will check save or be [[Conditions/Slowed 1|Slowed 1]] indefinitely.\nAn affected creature can choose to roll twice when it attempts an attack, saving throw, or skill check and take the lower result. Regardless of the outcome, that creature is no longer slowed after that roll.\n[[Bestiary Effects/Effect_ Wrath of Fate|Effect: Wrath of Fate]]\nThe theletos can't use Wrath of Fate again for 1d4 rounds."
+    desc: "`pf2:2` (curse,divine,mental,misfortune) The theletos releases a @Template[cone|distance:60] of energy from its center. Creatures in the cone become overwhelmed with the knowledge of various fates that destiny has in store for them and lack of clear pathways to these potential futures. They must succeed at a DC 26 Will check save or be [[Conditions/Slowed|Slowed 1]] indefinitely.\n\nAn affected creature can choose to roll twice when it attempts an attack, saving throw, or skill check and take the lower result. Regardless of the outcome, that creature is no longer slowed after that roll.\n\n[[Bestiary Effects/Effect_ Wrath of Fate|Effect: Wrath of Fate]]\n\nThe theletos can't use Wrath of Fate again for 1d4 rounds."
  
+```
+
+```encounter-table
+name: Theletos
+creatures:
+  - 1: Theletos
 ```
 
 

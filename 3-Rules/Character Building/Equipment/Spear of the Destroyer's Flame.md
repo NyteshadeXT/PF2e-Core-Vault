@@ -49,7 +49,7 @@ If the Commander of Flame doesn't hold the _Spear of the Destroyer's Flame_ for 
 
 **Effect** You use the spear's power to muster the Army of Fire. You can choose to either call the Army of Fire to your location or move yourself to the army's location. When calling the army, you select an area you can see within 500 feet. The army is instantly teleported to the location you select, spreading out as necessary to arrive safely. When moving yourself, you instantly teleport yourself to a location within 500 feet of the army. The army is composed of souls given form as burning humanoids, elementals, spirits, and undead.
 
-**Destruction** If the entire Army of Fire is destroyed and the Commander of Flame is slain with the _Spear of the Destroyer's Flame_, the spear shatters into a massive explosion of flame, dealing 20d10 fire damage in a 30-foot burst (DC 43 Reflex check save). In addition, the Commander's soul burns away to nothing, destroying the Commander forever and releasing the bound souls of the Army of Fire to the River of Souls.
+**Destruction** If the entire Army of Fire is destroyed and the Commander of Flame is slain with the _Spear of the Destroyer's Flame_, the spear shatters into a massive explosion of flame, dealing 20d10 fire damage in a @Template\[burst|distance:30\] (DC 43 Reflex check save). In addition, the Commander's soul burns away to nothing, destroying the Commander forever and releasing the bound souls of the Army of Fire to the River of Souls.
 
 *Source: Pathfinder Lost Omens: Monsters of Myth*
 *OGL*

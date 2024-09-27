@@ -3,6 +3,7 @@ obsidianUIMode: preview
 title: "Locket of Sealed Nightmares"
 cssclasses: pf2e,pf2e-spell
 tags:
+  - trait/illusion
   - trait/invested
   - trait/magical
   - trait/rare
@@ -11,7 +12,7 @@ license: OGL
 ---
 # Locket of Sealed Nightmares
 ## Item 19
-### [rare](rare "Rare Rarity Trait")[[invested]][[magical]]
+### [rare](rare "Rare Rarity Trait")[[illusion]][[invested]][[magical]]
 
 
 **Price** 36000 gp; 

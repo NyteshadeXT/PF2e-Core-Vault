@@ -12,7 +12,7 @@ license: OGL
 ---
 # Feather Token (Chest) (Ammunition)
 ## Item 5
-### [[consumable]][[magical]]
+### [[consumable]][[3-Rules/Rule References/Magical]]
 
 **Category** ammo; 
 **Price** 20 gp; 

@@ -10,6 +10,7 @@ tags:
   - pf2e/creature/type/undead
   - pf2e/creature/type/unholy
   - pf2e/creature/type/water
+  - pf2eMonster
   - pf2e/creature/level/2
 statblock: inline
 name: "Draugr"
@@ -28,16 +29,16 @@ level: "Creature 2"
 
 alignment: ""
 size: "Medium"
-trait_01: "chaotic"
-trait_02: "evil"
-trait_03: "undead"
-trait_04: "unholy"
-trait_05: "water"
+trait_01: [[chaotic]]
+trait_02: [[evil]]
+trait_03: [[undead]]
+trait_04: [[unholy]]
+trait_05: [[water]]
 modifier: 7
 perception:
   - name: "Perception"
     desc: "+7; Darkvision"
-languages: "Common"
+languages: "Common; (can&#x27;t speak any language)"
 skills:
   - name: "Skills"
     desc: "Athletics: +10, Stealth: +8"
@@ -72,11 +73,17 @@ attacks:
     desc: "`pf2:1` Fist +10 (agile)\n__Damage__  1d4 + 4 slashing plus grotesque-gift"
 
   - name: "Grotesque Gift"
-    desc: " (olfactory) A draugr's attacks spatter their targets with rancid flesh and rotting seaweed. A creature damaged by a draugr's Strike must succeed at a DC 15 Fortitude check save or become [[Conditions/Sickened 1|Sickened 1]] ([[Conditions/Sickened 1|Sickened 2]] on a critical failure)."
+    desc: " (olfactory) A draugr's attacks spatter their targets with rancid flesh and rotting seaweed. A creature damaged by a draugr's Strike must succeed at a DC 15 Fortitude check save or become [[Conditions/Sickened|Sickened 1]] ([[Conditions/Sickened|Sickened 2]] on a critical failure)."
 
   - name: "Swipe"
     desc: "`pf2:2`  The draugr makes a melee Strike and compares the attack roll result to the AC of up to two foes, each of whom must be within its melee reach and adjacent to each other. Roll damage only once and apply it to each creature hit. A Swipe counts as two attacks for the draugr's multiple attack penalty."
  
+```
+
+```encounter-table
+name: Draugr
+creatures:
+  - 1: Draugr
 ```
 
 

@@ -12,7 +12,7 @@ license: OGL
 ---
 # Implement's Interruption `pf2:r`
 
-### [[magical]][[thaumaturge]]
+### [[3-Rules/Rule References/Magical]][[thaumaturge]]
 
 **Category** offensive; 
 

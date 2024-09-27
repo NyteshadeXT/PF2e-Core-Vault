@@ -15,7 +15,7 @@ license: OGL
 ---
 # Big Boom Gun
 ## Item 1
-### [uncommon](uncommon "Uncommon Rarity Trait")[[cobbled]][[fatal-d12]][[goblin]][[modular]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[cobbled]][[fatal-d12]][[3-Rules/trait_reference/goblin]][[modular]]
 
 |  |  |
 | -- | -- |
@@ -29,7 +29,7 @@ license: OGL
 
 Developed by a goblin weaponsmith who missed the 'hand' part of 'hand cannon', this comically-oversized gun has a heavily reinforced barrel and is loaded with a worrisome quantity of gunpowder.
 
-This hand cannon is a martial weapon, instead of a simple weapon. It has the fatal d12 trait and a range of 20 feet. It also has the following modified critical failure condition:
+This hand cannon is a martial weapon, instead of a simple weapon. It has the fatal d12 trait and a range increment of 20 feet. It also has the following modified critical failure condition:
 
 * * *
 

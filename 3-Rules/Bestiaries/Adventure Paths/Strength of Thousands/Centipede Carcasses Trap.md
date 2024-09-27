@@ -5,6 +5,7 @@ noteType: pf2eHazard
 tags:
   - mechanical
   - trap
+  - pf2eHazard
   - complex
 source: Pathfinder #169: Kindled Magic
 aliases: "Compendium.pf2e.strength-of-thousands-bestiary.Actor.PHpFRuT0JuxL8xbj" 
@@ -22,14 +23,14 @@ name: "Centipede Carcasses Trap"
 level: "Hazard 5"
 
 trait_06: "Complex"
-trait_01: "mechanical"
-trait_02: "trap"
+trait_01: [[mechanical]]
+trait_02: [[trap]]
 modifier: 11
 sourcebook: "_Pathfinder #169: Kindled Magic_"
 ac: 22
 armorclass:
   - name: AC
-    desc: "22; __Fort__ +15, __Ref__ +9, __Will__ +0"
+    desc: "22; __Fort__ +15, __Ref__ +9, "
 hp: 20
 health:
   - name: ""
@@ -51,10 +52,16 @@ attacks:
   - name: ""
 
   - name: "Volley of Legs"
-    desc: "`pf2:r` **Trigger** A carcass is touched or jostled\n**Effect** Each creature within 30 feet of any centipede carcass takes 4d4 piercing damage (DC 22 Reflex check save), and the area becomes difficult terrain due to the many sharpened legs on the ground. Each creature that Strides more than 10 feet through the area must succeed at a DC 20 Acrobatics check check or take 1d4 piercing damage.\nThe trap then rolls initiative."
+    desc: "`pf2:r` **Trigger** A carcass is touched or jostled\n* * *\n\n**Effect** Each creature within 30 feet of any centipede carcass takes 4d4 piercing damage (DC 22 Reflex check save), and the area becomes difficult terrain due to the many sharpened legs on the ground. Each creature that Strides more than 10 feet through the area must succeed at a DC 20 Acrobatics check check or take 1d4 piercing damage.\n\nThe trap then rolls initiative."
 
   - name: "Routine"
     desc: "(1 action) Each creature within 30 feet of a centipede carcass that hasn't been disabled takes 6d4 piercing damage (DC 22 Reflex check save)."
 
+```
+
+```encounter-table
+name: Centipede Carcasses Trap
+creatures:
+  - 1: Centipede Carcasses Trap
 ```
 

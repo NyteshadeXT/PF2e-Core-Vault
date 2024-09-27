@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/cold
   - pf2e/creature/type/dragon
   - pf2e/creature/type/evil
+  - pf2eMonster
   - pf2e/creature/level/5
 statblock: inline
 name: "Venexus&#x27;s Wyrmling"
@@ -23,13 +24,13 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #176: Lost Mammoth Valley"
 name: "Venexus's Wyrmling"
 level: "Creature 5"
-rare_03: "Rare"
+rare_03: [[Rare]]
 alignment: ""
 size: "Medium"
-trait_01: "chaotic"
-trait_02: "cold"
-trait_03: "dragon"
-trait_04: "evil"
+trait_01: [[chaotic]]
+trait_02: [[cold]]
+trait_03: [[dragon]]
+trait_04: [[evil]]
 modifier: 12
 perception:
   - name: "Perception"
@@ -56,10 +57,10 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Freezing Blood"
-    desc: "`pf2:r` (arcane,cold) **Trigger** An adjacent creature deals piercing or slashing damage to the wyrmling\n**Effect** The wyrmling's blood splatters onto the triggering creature, dealing 1d4 cold damage. A creature that takes cold damage in this way is [[Conditions/Slowed 1|Slowed 1]] for 1 round."
+    desc: "`pf2:r` (arcane,cold) **Trigger** An adjacent creature deals piercing or slashing damage to the wyrmling\n* * *\n\n**Effect** The wyrmling's blood splatters onto the triggering creature, dealing 1d4 cold damage. A creature that takes cold damage in this way is [[Conditions/Slowed|Slowed 1]] for 1 round."
 
   - name: "[[Bestiary Ability Glossary/Frightful Presence|Frightful Presence]]"
-    desc: " (aura,emotion,fear,mental) 90 feet. DC 19 Will check\n"
+    desc: " (aura,emotion,fear,mental) 90 feet. DC 19 Will check\n\n* * *\n"
 
   - name: "Snow Vision"
     desc: "  Snow doesn't impair a white dragon's vision; the wyrmling ignores concealment from snowfall."
@@ -77,7 +78,7 @@ attacks:
     desc: "`pf2:1` Tail +13 (magical, reach 10 feet)\n__Damage__  2d8 + 5 bludgeoning"
 
   - name: "Breath Weapon"
-    desc: "`pf2:2` (arcane,cold) The wyrmling breathes a cloud of frost that deals 6d6 cold damage in a 30-foot cone (DC 22 Reflex check). They can't use Breath Weapon again for 1d4 rounds."
+    desc: "`pf2:2` (arcane,cold) The wyrmling breathes a cloud of frost that deals 6d6 cold damage in a @Template[cone|distance:30] (DC 22 Reflex check). They can't use Breath Weapon again for 1d4 rounds."
 
   - name: "Draconic Frenzy"
     desc: "`pf2:2`  The wyrmling makes two claw Strikes and one tail Strike in any order."
@@ -88,6 +89,12 @@ attacks:
   - name: "Ice Climb"
     desc: "  A white dragon can climb on ice as though they had the listed climb Speed. They ignore difficult terrain and greater difficult terrain from ice and snow and don't risk falling when crossing ice."
  
+```
+
+```encounter-table
+name: Venexus's Wyrmling
+creatures:
+  - 1: Venexus's Wyrmling
 ```
 
 

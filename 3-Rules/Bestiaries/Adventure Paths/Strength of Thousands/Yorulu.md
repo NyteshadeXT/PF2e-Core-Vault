@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/grippli
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/4
 statblock: inline
 name: "Yorulu"
@@ -25,9 +26,9 @@ level: "Creature 4"
 
 alignment: ""
 size: "Small"
-trait_01: "evil"
-trait_02: "grippli"
-trait_03: "humanoid"
+trait_01: [[evil]]
+trait_02: [[grippli]]
+trait_03: [[humanoid]]
 modifier: 10
 perception:
   - name: "Perception"
@@ -58,7 +59,7 @@ abilities_mid:
     desc: "  Yorulu isn't off-guard to creatures of 4th level or lower that are [[Conditions/Hidden|Hidden]], [[Conditions/Undetected|Undetected]], flanking, or using [[Class Features/Surprise Attack|Surprise Attack]]."
 
   - name: "Nimble Dodge"
-    desc: "`pf2:r`  **Trigger** Yorulu is targeted with a melee or ranged attack by an attacker it can see.\n**Effect** The burglar gains a +2 circumstance bonus to AC against the triggering attack."
+    desc: "`pf2:r`  **Trigger** Yorulu is targeted with a melee or ranged attack by an attacker it can see.\n* * *\n\n**Effect** The burglar gains a +2 circumstance bonus to AC against the triggering attack."
 
   - name: "Perception Bonus Against Traps"
     desc: "  Perception +10 (+11 to find traps)"
@@ -84,6 +85,12 @@ attacks:
   - name: "Surprise Attack"
     desc: "  On the first round of combat, if Yorulu rolls Deception or Stealth for initiative, creatures that haven't acted are [[Conditions/Off-Guard|Off-Guard]] to them."
  
+```
+
+```encounter-table
+name: Yorulu
+creatures:
+  - 1: Yorulu
 ```
 
 

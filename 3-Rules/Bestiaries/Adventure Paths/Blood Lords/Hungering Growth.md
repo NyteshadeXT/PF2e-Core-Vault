@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/aberration
   - pf2e/creature/type/chaotic
   - pf2e/creature/type/evil
+  - pf2eMonster
   - pf2e/creature/level/7
 statblock: inline
 name: "Hungering Growth"
@@ -22,16 +23,17 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #183: Field of Maidens"
 name: "Hungering Growth"
 level: "Creature 7"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Small"
-trait_01: "aberration"
-trait_02: "chaotic"
-trait_03: "evil"
+trait_01: [[aberration]]
+trait_02: [[chaotic]]
+trait_03: [[evil]]
 modifier: 15
 perception:
   - name: "Perception"
     desc: "+15; Darkvision"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Athletics: +17, Stealth: +15, Survival: +14"
@@ -62,11 +64,17 @@ attacks:
     desc: "`pf2:1` Slam +18 ()\n__Damage__  2d10 + 9 bludgeoning plus grab"
 
   - name: "[[Bestiary Ability Glossary/Constrict|Constrict]]"
-    desc: "`pf2:1`  1d10 + 5 bludgeoning, DC 25 Fortitude check\nOn a failed save, the target is also [[Conditions/Drained 1|Drained 1]] ([[Conditions/Drained 1|Drained 2]] on a critical failure)."
+    desc: "`pf2:1`  1d10+5 bludgeoning, DC 25 Fortitude check\n* * *\n\nOn a failed save, the target is also [[Conditions/Drained|Drained 1]] ([[Conditions/Drained|Drained 2]] on a critical failure)."
 
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
     desc: "`pf2:1`  "
  
+```
+
+```encounter-table
+name: Hungering Growth
+creatures:
+  - 1: Hungering Growth
 ```
 
 

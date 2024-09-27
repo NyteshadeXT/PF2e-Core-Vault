@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/aquatic
   - pf2e/creature/type/elemental
   - pf2e/creature/type/water
+  - pf2eMonster
   - pf2e/creature/level/1
 statblock: inline
 name: "Baby Brine Shark"
@@ -22,16 +23,17 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Society Scenario #5-01: Intro: Year of Unfettered Exploration"
 name: "Baby Brine Shark"
 level: "Creature 1"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Small"
-trait_01: "aquatic"
-trait_02: "elemental"
-trait_03: "water"
+trait_01: [[aquatic]]
+trait_02: [[elemental]]
+trait_03: [[water]]
 modifier: 6
 perception:
   - name: "Perception"
     desc: "+6; Darkvision"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Athletics: +7, Stealth: +9, Survival: +6"
@@ -59,8 +61,14 @@ attacks:
     desc: "`pf2:1` Jaws +7 (agile)\n__Damage__  1d6 + 2 piercing"
 
   - name: "Disorienting Dance"
-    desc: "`pf2:1` (mental,visual) The baby brine shark spins quickly in place, disorienting observers. All creatures within 15 feet must attempt at DC 17 Will check save, with the following effects. The baby brine shark can't use disorienting dance again for 1d4 rounds.\n**Success** The creature is unaffected.\n**Failure** The creature is [[Conditions/Off-Guard|Off-Guard]] for 1 round.\n**Critical Failure** The creature is [[Conditions/Slowed 1|Slowed 1]] for 1 round."
+    desc: "`pf2:1` (mental,visual) The baby brine shark spins quickly in place, disorienting observers. All creatures within 15 feet must attempt at DC 17 Will check save, with the following effects. The baby brine shark can't use disorienting dance again for 1d4 rounds.\n* * *\n\n**Success** The creature is unaffected.\n\n**Failure** The creature is [[Conditions/Off-Guard|Off-Guard]] for 1 round.\n\n**Critical Failure** The creature is [[Conditions/Slowed|Slowed 1]] for 1 round."
  
+```
+
+```encounter-table
+name: Baby Brine Shark
+creatures:
+  - 1: Baby Brine Shark
 ```
 
 

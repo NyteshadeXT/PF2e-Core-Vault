@@ -5,6 +5,7 @@ noteType: pf2eHazard
 tags:
   - environmental
   - magical
+  - pf2eHazard
   - complex
 source: Pathfinder #148: Fires of the Haunted City
 aliases: "Compendium.pf2e.age-of-ashes-bestiary.Actor.HI2xA7LCpNPkpV03" 
@@ -22,14 +23,14 @@ name: "Wailing Crystals"
 level: "Hazard 13"
 
 trait_06: "Complex"
-trait_01: "environmental"
-trait_02: "magical"
+trait_01: [[environmental]]
+trait_02: [[magical]]
 modifier: 27
 sourcebook: "_Pathfinder #148: Fires of the Haunted City_"
 ac: 34
 armorclass:
   - name: AC
-    desc: "34; __Fort__ +26, __Ref__ +18, __Will__ +0"
+    desc: "34; __Fort__ +26, __Ref__ +18, "
 hp: 72
 health:
   - name: ""
@@ -54,7 +55,7 @@ attacks:
     desc: "passive "
 
   - name: "Echoing Cry"
-    desc: "`pf2:r` (occult) **Trigger** A living creature approaches within 20 feet of a wailing crystal.\n**Effect** A despairing chorus of cries echoes off the crystals, working its way into the minds of all living creatures in Jewelgate Way Station, affecting them with [[Spells/Wave of Despair|Wave of Despair]] (7th level, DC 33 Will check save).\nThe hazard rolls initiative."
+    desc: "`pf2:r` (occult) **Trigger** A living creature approaches within 20 feet of a wailing crystal.\n* * *\n\n**Effect** A despairing chorus of cries echoes off the crystals, working its way into the minds of all living creatures in Jewelgate Way Station, affecting them with [[Spells/Wave of Despair|Wave of Despair]] (7th level, DC 33 Will check save).\n\nThe hazard rolls initiative."
 
   - name: "Anguished Shriek"
     desc: "action (emotion, mental, occult, sonic) A shrieking, distorted face composed of writhing necromantic energy lances out of the crystals to target a random living creature within 20 feet. The target takes 4d6 mental damage and 4d6 sonic damage (DC 33 Will check save)."
@@ -63,5 +64,11 @@ attacks:
     desc: "(3 actions) The hazard uses each action for an Anguished Shriek. The wailing crystals lose 1 action for each 5-foot patch of crystals that is broken or destroyed."
   - name: "Reset"
     desc: "The wailing crystals deactivate and reset once no living creatures are within 20 feet."
+```
+
+```encounter-table
+name: Wailing Crystals
+creatures:
+  - 1: Wailing Crystals
 ```
 

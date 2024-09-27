@@ -13,7 +13,7 @@ license: OGL
 ---
 # Eye of Enlightenment
 ## Item 5
-### [[consumable]][[magical]][[talisman]]
+### [[consumable]][[3-Rules/Rule References/Magical]][[talisman]]
 
 **Category** talisman; 
 **Price** 25 gp; 

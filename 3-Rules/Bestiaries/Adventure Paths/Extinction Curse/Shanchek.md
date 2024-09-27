@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/humanoid
   - pf2e/creature/type/xulgath
+  - pf2eMonster
   - pf2e/creature/level/15
 statblock: inline
 name: "Shanchek"
@@ -23,18 +24,18 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #156: The Apocalypse Prophet"
 name: "Shanchek"
 level: "Creature 15"
-rare_03: "Rare"
+rare_03: [[Rare]]
 alignment: ""
 size: "Medium"
-trait_01: "chaotic"
-trait_02: "evil"
-trait_03: "humanoid"
-trait_04: "xulgath"
+trait_01: [[chaotic]]
+trait_02: [[evil]]
+trait_03: [[humanoid]]
+trait_04: [[xulgath]]
 modifier: 30
 perception:
   - name: "Perception"
     desc: "+30; Darkvision, Thoughtsense (Imprecise) 60 Feet"
-languages: "Draconic, Sakvroth"
+languages: "Draconic, Sakvroth; telepathy 100 feet"
 skills:
   - name: "Skills"
     desc: "Acrobatics: +25, Arcana: +27, Deception: +29, Diplomacy: +27, Intimidation: +29, Occultism: +31, Society: +27, Xulgath Lore: +31"
@@ -57,7 +58,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Psychogenic Secretions"
-    desc: " (aura,mental) 30 feet. A creature that enters the emanation must attempt a DC 36 Will check save.\nOn a failure, the creature is [[Conditions/Stupefied 1|Stupefied 1]] for 1 minute ([[Conditions/Stupefied 1|Stupefied 2]] and also [[Conditions/Paralyzed|Paralyzed]] for 1 round on a critical failure).\nA creature that succeeds at its save is temporarily immune to psychogenic secretions for 1 minute."
+    desc: " (aura,mental) 30 feet. A creature that enters the emanation must attempt a DC 36 Will check save.\n\nOn a failure, the creature is [[Conditions/Stupefied|Stupefied 1]] for 1 minute ([[Conditions/Stupefied|Stupefied 2]] and also [[Conditions/Paralyzed|Paralyzed]] for 1 round on a critical failure).\n\nA creature that succeeds at its save is temporarily immune to psychogenic secretions for 1 minute."
 
 attacks:
   - name: ""
@@ -87,8 +88,14 @@ attacks:
     desc: "_[[Spells/Inveigle|Inveigle]]_"
 
   - name: "Consume Knowledge"
-    desc: "`pf2:2` (mental,occult) The thoughtmaw invades the mind of a creature within 100 feet and attempts to swallow its capacity for higher thought. The creature must attempt a DC 36 Will check save.\nUsing Consume Knowledge immediately ends any of the ability's previous effects on a different creature.\n**Critical Success** The creature is unaffected.\n**Success** The creature is [[Conditions/Slowed 1|Slowed 1]] for 1 round.\n**Failure** The creature is slowed 1 and can take no actions other than basic actions for 1 minute.\n**Critical Failure** As failure, and the thoughtmaw is [[Conditions/Quickened|Quickened 1]] for 1 minute. It can use this extra action to Stride, Strike, or Cast a Spell if the target had prepared spells or a spell repertoire."
+    desc: "`pf2:2` (mental,occult) The thoughtmaw invades the mind of a creature within 100 feet and attempts to swallow its capacity for higher thought. The creature must attempt a DC 36 Will check save.\n\nUsing Consume Knowledge immediately ends any of the ability's previous effects on a different creature.\n* * *\n\n**Critical Success** The creature is unaffected.\n\n**Success** The creature is [[Conditions/Slowed|Slowed 1]] for 1 round.\n\n**Failure** The creature is slowed 1 and can take no actions other than basic actions for 1 minute.\n\n**Critical Failure** As failure, and the thoughtmaw is [[Conditions/Quickened|Quickened 1]] for 1 minute. It can use this extra action to Stride, Strike, or Cast a Spell if the target had prepared spells or a spell repertoire."
  
+```
+
+```encounter-table
+name: Shanchek
+creatures:
+  - 1: Shanchek
 ```
 
 

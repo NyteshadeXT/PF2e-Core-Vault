@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/construct
   - pf2e/creature/type/evil
   - pf2e/creature/type/lawful
+  - pf2eMonster
   - pf2e/creature/level/6
 statblock: inline
 name: "Scarecophagus"
@@ -22,12 +23,12 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #179: Cradle of Quartz"
 name: "Scarecophagus"
 level: "Creature 6"
-rare_03: "Rare"
+rare_03: [[Rare]]
 alignment: ""
 size: "Large"
-trait_01: "construct"
-trait_02: "evil"
-trait_03: "lawful"
+trait_01: [[construct]]
+trait_02: [[evil]]
+trait_03: [[lawful]]
 modifier: 14
 perception:
   - name: "Perception"
@@ -57,7 +58,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Despair"
-    desc: " (aura,divine,emotion,fear,incapacitation,mental) 30 feet. Living creatures are [[Conditions/Frightened 1|Frightened 1]] while in a scarecophagus' despair aura. They can't naturally recover from this fear while in the emanation but recover instantly once they leave it. When a creature first enters the emanation, it must succeed at a DC 22 Will check save (after taking the penalty from being frightened 1) or be [[Conditions/Paralyzed|Paralyzed]] for 1 round. The creature is then temporarily immune to this paralysis for 24 hours.\n[[Bestiary Effects/Effect_ Despair|Effect: Despair]]"
+    desc: " (aura,divine,emotion,fear,incapacitation,mental) 30 feet. Living creatures are [[Conditions/Frightened|Frightened 1]] while in a scarecophagus' despair aura. They can't naturally recover from this fear while in the emanation but recover instantly once they leave it. When a creature first enters the emanation, it must succeed at a DC 22 Will check save (after taking the penalty from being frightened 1) or be [[Conditions/Paralyzed|Paralyzed]] for 1 round. The creature is then temporarily immune to this paralysis for 24 hours.\n\n[[Bestiary Effects/Effect_ Despair|Effect: Despair]]"
 
   - name: "Disgorge Mummy"
     desc: "  If a scarecophagus is reduced to 0 Hit Points by any damage other than vitality energy, it cracks open as it's destroyed, allowing the undead mummy trapped for eons within its core to rise. This is a weak [[Bestiary 1/Mummy Guardian|Mummy Guardian]]; if the mummy guardian survives on its own for a month, it loses the weak adjustment. If the scarecophagus is reduced to 0 Hit Points by vitality energy, it cracks open as it's destroyed and the mummy within turns to dust, destroyed as well."
@@ -78,8 +79,14 @@ attacks:
     desc: "`pf2:1` (concentrate) Until the next time it acts, the scarecophagus appears to be a normal stone sarcophagus. It has an automatic result of 34 on Deception checks and DCs to pass as a sarcophagus."
 
   - name: "Shifting Scuttle"
-    desc: "  **Frequency** once per turn\n**Effect** The scarecophagus Steps up to 10 feet."
+    desc: "  **Frequency** once per turn\n* * *\n\n**Effect** The scarecophagus Steps up to 10 feet."
  
+```
+
+```encounter-table
+name: Scarecophagus
+creatures:
+  - 1: Scarecophagus
 ```
 
 

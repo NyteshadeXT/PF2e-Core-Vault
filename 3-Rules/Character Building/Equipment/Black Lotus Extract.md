@@ -35,11 +35,11 @@ Black lotus extract causes severe internal bleeding.
 
 **Maximum Duration** 6 rounds
 
-**Stage 1** 13d6 poison damage and [[Conditions/Drained 1|Drained 1]] (1 round)
+**Stage 1** 13d6 poison damage and [[Conditions/Drained|Drained 1]] (1 round)
 
-**Stage 2** 15d6 poison damage and [[Conditions/Drained 1|Drained 1]] (1 round)
+**Stage 2** 15d6 poison damage and [[Conditions/Drained|Drained 1]] (1 round)
 
-**Stage 3** 17d6 poison damage and [[Conditions/Drained 1|Drained 2]] (1 round)
+**Stage 3** 17d6 poison damage and [[Conditions/Drained|Drained 2]] (1 round)
 
 *Source: Pathfinder GM Core*
 *ORC*

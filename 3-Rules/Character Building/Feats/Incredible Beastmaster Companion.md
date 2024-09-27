@@ -6,8 +6,9 @@ tags:
   - trait/archetype
   - trait/common
   - category/class
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.aEws1NR19Lbu1Kio"
-license: OGL
+license: ORC
 ---
 # Incredible Beastmaster Companion
 ## Feat 8
@@ -19,7 +20,7 @@ license: OGL
 
 **Prerequisites** Mature Beastmaster Companion
 * * *
-Your mature animal companions continue to grow and develop. They each become nimble or savage animal companions (your choice, choose for each companion, including those that become mature after you take this feat), gaining additional capabilities determined by the type of companion.
+Your mature animal companions continue to grow and develop. Each of them becomes a nimble or savage animal companion, gaining additional capabilities determined by the type of companion. You choose nimble or savage individually for each companion, including any companion that becomes mature after you take this feat.
 
-*Source: Pathfinder Advanced Player's Guide*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

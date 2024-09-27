@@ -7,7 +7,7 @@ tags:
   - trait/combination
   - trait/concussive
   - trait/elf
-  - trait/fatal-d8
+  - trait/fatal-d10
   - trait/parry
   - trait/uncommon
   - category/martial
@@ -16,7 +16,7 @@ license: OGL
 ---
 # Three Peaked Tree
 ## Item 1
-### [uncommon](uncommon "Uncommon Rarity Trait")[[combination]][[concussive]][[elf]][[fatal-d8]][[parry]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[combination]][[concussive]][[elf]][[fatal-d10]][[parry]]
 
 |  |  |
 | -- | -- |
@@ -24,7 +24,7 @@ license: OGL
 | **Price** 12 gp |  |
 | **Bulk** 2 | **Size** med |
 |**Range** 60 ft.| **Reload** 1|
-| **Damage** 1d4 piercing  | **Usage** held-in-two-hands |
+| **Damage** 1d6 piercing  | **Usage** held-in-two-hands |
 
 
 

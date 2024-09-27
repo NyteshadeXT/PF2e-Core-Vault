@@ -10,6 +10,7 @@ tags:
   - pf2e/creature/type/lawful
   - pf2e/creature/type/rakshasa
   - pf2e/creature/type/unholy
+  - pf2eMonster
   - pf2e/creature/level/5
 statblock: inline
 name: "Dandasuka"
@@ -28,11 +29,11 @@ level: "Creature 5"
 
 alignment: ""
 size: "Small"
-trait_01: "evil"
-trait_02: "fiend"
-trait_03: "lawful"
-trait_04: "rakshasa"
-trait_05: "unholy"
+trait_01: [[evil]]
+trait_02: [[fiend]]
+trait_03: [[lawful]]
+trait_04: [[rakshasa]]
+trait_05: [[unholy]]
 modifier: 12
 perception:
   - name: "Perception"
@@ -74,11 +75,17 @@ attacks:
     desc: "DC 19, attack +11; __4th __  _[[Spells/Clairvoyance|Clairvoyance]]_; __3rd __  _[[Spells/Clairaudience|Clairaudience]]_, _[[Spells/Mind Reading|Mind Reading (At Will)]]_"
 
   - name: "[[Bestiary Ability Glossary/Change Shape|Change Shape]]"
-    desc: "`pf2:1` (concentrate,occult,polymorph) The dandasuka takes on the appearance of any Small humanoid. This doesn't change the dandasuka's Speed or its attack and damage modifiers with its Strikes, but it might change the damage type its Strikes deal (typically to bludgeoning). It typically loses its fangs Strike unless the humanoid form has fangs or a similar unarmed attack.\n"
+    desc: "`pf2:1` (concentrate,occult,polymorph) The dandasuka takes on the appearance of any Small humanoid. This doesn't change the dandasuka's Speed or its attack and damage modifiers with its Strikes, but it might change the damage type its Strikes deal (typically to bludgeoning). It typically loses its fangs Strike unless the humanoid form has fangs or a similar unarmed attack.\n\n* * *\n"
 
   - name: "[[Bestiary Ability Glossary/Sneak Attack|Sneak Attack]]"
     desc: "  The dandasuka deals an extra 1d6 precision damage to [[Conditions/Off-Guard|Off-Guard]] creatures."
  
+```
+
+```encounter-table
+name: Dandasuka
+creatures:
+  - 1: Dandasuka
 ```
 
 

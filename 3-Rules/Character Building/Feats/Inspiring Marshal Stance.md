@@ -7,8 +7,9 @@ tags:
   - trait/stance
   - trait/common
   - category/class
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.bvOsJNeI0ewvQsFa"
-license: OGL
+license: ORC
 ---
 # Inspiring Marshal Stance `pf2:1`
 ## Feat 4
@@ -20,21 +21,17 @@ license: OGL
 
 **Prerequisites** Marshal Dedication; trained in Diplomacy
 * * *
-You become a brilliant example of dedication and poise in battle, encouraging your allies to follow suit.
-
-When you spend this action, attempt a Diplomacy check check. The DC is usually a standard-difficulty DC of your level, but the GM can assign a different DC based on the circumstances. The effect depends on the result of your check.
+You become a brilliant example of dedication and poise in battle, encouraging your allies to follow suit. When you spend this action, attempt a Diplomacy check check. The DC is usually an easy DC of your level, but the GM can assign a different DC based on the circumstances. The effect depends on the result of your check.
 
 [[Feat_Feature Effects/Stance_ Inspiring Marshal Stance|Stance: Inspiring Marshal Stance]]
 
 * * *
 
-**Critical Success** Your marshal's aura increases to a 20-foot emanation and grants you and allies a +1 status bonus to attack rolls and saves against mental effects.
-
-**Success** As critical success, but your aura's size doesn't increase.
+**Success** Your marshal's aura grants you and allies a +1 status bonus to attack rolls and saves against mental effects.
 
 **Failure** You fail to enter the stance.
 
 **Critical Failure** You fail to enter the stance and can't take this action again for 1 minute.
 
-*Source: Pathfinder Advanced Player's Guide*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

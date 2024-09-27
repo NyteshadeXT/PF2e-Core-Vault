@@ -12,7 +12,7 @@ license: ORC
 ---
 # Eyes of the Cat
 ## Item 9
-### [[invested]][[magical]]
+### [[invested]][[3-Rules/Rule References/Magical]]
 
 
 **Price** 700 gp; 

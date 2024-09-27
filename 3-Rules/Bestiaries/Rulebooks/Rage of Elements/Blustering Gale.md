@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/air
   - pf2e/creature/type/elemental
   - pf2e/creature/type/troop
+  - pf2eMonster
   - pf2e/creature/level/11
   - remaster
 statblock: inline
@@ -26,9 +27,9 @@ level: "Creature 11"
 
 alignment: ""
 size: "grg"
-trait_01: "air"
-trait_02: "elemental"
-trait_03: "troop"
+trait_01: [[air]]
+trait_02: [[elemental]]
+trait_03: [[troop]]
 modifier: 20
 perception:
   - name: "Perception"
@@ -58,20 +59,26 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Bullying Bluster"
-    desc: " (auditory,aura,emotion,linguistic,mental) 30 feet. The blustering gale constantly unleashes a tirade of insults and aggressive taunts. Each enemy who enters or starts their turn in the aura must succeed at a DC 30 Will check save or become [[Conditions/Stupefied 1|Stupefied 1]] for as long as they remain within the aura ([[Conditions/Stupefied 1|Stupefied 2]] on a critical failure). The troop's members are collectively able to mimic a few curse words or insults in every language, allowing their Bullying Bluster to affect any creature who understands a language. A creature who succeeds at its save is temporarily immune for 1 hour. The blustering gale can activate or deactivate the aura with a free action, which has the concentrate trait."
+    desc: " (auditory,aura,emotion,linguistic,mental) 30 feet. The blustering gale constantly unleashes a tirade of insults and aggressive taunts. Each enemy who enters or starts their turn in the aura must succeed at a DC 30 Will check save or become [[Conditions/Stupefied|Stupefied 1]] for as long as they remain within the aura ([[Conditions/Stupefied|Stupefied 2]] on a critical failure). The troop's members are collectively able to mimic a few curse words or insults in every language, allowing their Bullying Bluster to affect any creature who understands a language. A creature who succeeds at its save is temporarily immune for 1 hour. The blustering gale can activate or deactivate the aura with a free action, which has the concentrate trait."
 
 attacks:
   - name: ""
 
   - name: "Pummeling Winds"
-    desc: "`pf2:1`  **Frequency** once per round\n**Effect** The blustering gale bashes, batters, and pummels each adjacent enemy (DC 27 Reflex check save). The damage depends on the number of actions.\n`pf2:1` 1d8 + 2 bludgeoning damage\n`pf2:2` 2d8 + 12 bludgeoning damage\n`pf2:3` 3d8 + 15 bludgeoning damage"
+    desc: "`pf2:1`  **Frequency** once per round\n* * *\n\n**Effect** The blustering gale bashes, batters, and pummels each adjacent enemy (DC 27 Reflex check save). The damage depends on the number of actions.\n\n`pf2:1` 1d8+2 bludgeoning damage\n\n`pf2:2` 2d8+12 bludgeoning damage\n\n`pf2:3` 3d8+15 bludgeoning damage"
 
   - name: "Troop Movement"
     desc: "  Whenever a troop Flies or Strides, it first Forms Up as a free action to condense into a 20-foot-by-20-foot area (minus any missing squares), then moves up to its Speed. This works just like a Gargantuan creature moving; for instance, if any square of the troop enters difficult terrain, the extra movement cost applies to the whole troop."
 
   - name: "Windstorm"
-    desc: "`pf2:2` (air) The blustering gale exhales as a unit, creating a powerful windstorm. This windstorm is a 10-foot burst within 100 feet that deals 3d8 + 10 bludgeoning damage (DC 30 Reflex check save). Creatures that fail their saving throw are pushed 10 feet in any direction (plus knocked [[Conditions/Prone|Prone]] on a critical failure). When the troop is reduced to 8 or fewer squares, this area decreases to a 5-foot burst and the distance pushed decreases to 5 feet."
+    desc: "`pf2:2` (air) The blustering gale exhales as a unit, creating a powerful windstorm. This windstorm is a @Template[burst|distance:10] within 100 feet that deals 3d8+10 bludgeoning damage (DC 30 Reflex check save). Creatures that fail their saving throw are pushed 10 feet in any direction (plus knocked [[Conditions/Prone|Prone]] on a critical failure). When the troop is reduced to 8 or fewer squares, this area decreases to a @Template[burst|distance:5] and the distance pushed decreases to 5 feet."
  
+```
+
+```encounter-table
+name: Blustering Gale
+creatures:
+  - 1: Blustering Gale
 ```
 
 

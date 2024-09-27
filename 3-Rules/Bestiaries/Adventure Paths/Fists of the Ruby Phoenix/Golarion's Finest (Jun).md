@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.fists-of-the-ruby-phoenix-bestiary.Actor.N9Qp7x6n6igha
 tags:
   - pf2e/creature/type/human
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/12
 statblock: inline
 name: "Golarion&#x27;s Finest (Jun)"
@@ -21,11 +22,11 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #166: Despair on Danger Island"
 name: "Golarion's Finest (Jun)"
 level: "Creature 12"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Medium"
-trait_01: "human"
-trait_02: "humanoid"
+trait_01: [[human]]
+trait_02: [[humanoid]]
 modifier: 21
 perception:
   - name: "Perception"
@@ -33,7 +34,7 @@ perception:
 languages: "Taldane, Tien"
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +26, Athletics: +26, Occultism: +23"
+    desc: "Acrobatics: +24, Athletics: +24, Occultism: +21"
 abilityMods: [5, 4, 3, 2, 3, 0]
 speed: 30 feet
 sourcebook: "_Pathfinder #166: Despair on Danger Island_"
@@ -65,7 +66,7 @@ attacks:
     desc: "`pf2:1` Dart +24 (agile, magical, thrown 20 ft.)\n__Damage__  2d6 + 7 bludgeoning"
 
   - name: "Focus Spells"
-    desc: "3 Focus Points, DC 32, attack +24; __6th __  _[[Spells/Abundant Step|Abundant Step]]_, _[[Spells/Ki Blast|Ki Blast]]_, _[[Spells/Ki Rush|Ki Rush]]_, _[[Spells/Ki Strike|Ki Strike]]_, _[[Spells/Wholeness of Body|Wholeness of Body]]_, _[[Spells/Wind Jump|Wind Jump]]_"
+    desc: "3 Focus Points, DC 32, attack +24; __6th __  _[[Spells/Shrink the Span|Abundant Step]]_, _[[Spells/Qi Blast|Ki Blast]]_, _[[Spells/Qi Rush|Ki Rush]]_, _[[Spells/Inner Upheaval|Ki Strike]]_, _[[Spells/Harmonize Self|Wholeness of Body]]_, _[[Spells/Wind Jump|Wind Jump]]_"
 
   - name: "Flurry of Blows"
     desc: "`pf2:1` (flourish) Jun makes two Strikes with his fist or with a monk weapon. If both hit the same creature, combine their damage for the purpose of resistances and weaknesses."
@@ -85,6 +86,12 @@ attacks:
   - name: "[[Bestiary Ability Glossary/Knockdown|Knockdown]]"
     desc: "`pf2:1`  "
  
+```
+
+```encounter-table
+name: Golarion's Finest (Jun)
+creatures:
+  - 1: Golarion's Finest (Jun)
 ```
 
 

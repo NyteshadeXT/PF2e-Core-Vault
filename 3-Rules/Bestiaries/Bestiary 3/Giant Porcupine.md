@@ -6,6 +6,7 @@ cssClasses: pf2e
 aliases: "Compendium.pf2e.pathfinder-bestiary-3.Actor.IijUBFE1vhvgowhD" 
 tags:
   - pf2e/creature/type/animal
+  - pf2eMonster
   - pf2e/creature/level/2
 statblock: inline
 name: "Giant Porcupine"
@@ -24,14 +25,15 @@ level: "Creature 2"
 
 alignment: ""
 size: "Medium"
-trait_01: "animal"
+trait_01: [[animal]]
 modifier: 8
 perception:
   - name: "Perception"
     desc: "+8; Low-Light Vision, Scent (Imprecise) 30 Feet"
+languages: ""
 skills:
   - name: "Skills"
-    desc: "Athletics: +8 (+10 to Climb)"
+    desc: "Athletics: +8"
 abilityMods: [4, 2, 4, -4, 2, 0]
 speed: 25 feet
 sourcebook: "_Pathfinder Bestiary 3_"
@@ -50,7 +52,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Passive Points"
-    desc: "  A creature that hits a porcupine with an unarmed Strike or a non-reach melee Strike takes 1d8 piercing damage (DC 15 Reflex check save). On a critical failure, the creature also takes 1d4 persistent piercing damage as the quills hook into its flesh.\n_Note: A DC was not provided for this ability by Paizo. The DC present here is a moderate DC for the creature level according to the Gamemastery Guide creature building Tables_"
+    desc: "  A creature that hits a porcupine with an unarmed Strike or a non-reach melee Strike takes 1d8 piercing damage (DC 15 Reflex check save). On a critical failure, the creature also takes 1d4 persistent piercing damage as the quills hook into its flesh.\n* * *\n\n_Note: A DC was not provided for this ability by Paizo. The DC present here is a moderate DC for the creature level according to the Gamemastery Guide creature building Tables_"
 
 attacks:
   - name: ""
@@ -67,6 +69,12 @@ attacks:
   - name: "Rearward Rush"
     desc: "`pf2:2`  **Effect** The porcupine scuttles backward, quills extended. It Strides twice, then makes a quill Strike. The target is [[Conditions/Off-Guard|Off-Guard]] against this Strike unless it has seen a Rearward Rush before."
  
+```
+
+```encounter-table
+name: Giant Porcupine
+creatures:
+  - 1: Giant Porcupine
 ```
 
 

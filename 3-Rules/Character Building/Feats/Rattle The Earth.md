@@ -16,14 +16,14 @@ license: OGL
 ---
 # Rattle The Earth `pf2:2`
 ## Feat 12
-### [[Earth]][[impulse]][[kineticist]][[overflow]][[primal]]
+### [[earth]][[impulse]][[kineticist]][[overflow]][[primal]]
 
 **Category** class; 
 
 
 
 
-Striking the ground with the gravity of the deepest rocks, you cause an earthquake. This has the effects of [[Spells/Earthquake|Earthquake]] but comes from you, with an area of a 60-foot cone or an emanation with the same size as your kinetic aura. You and your space are unaffected by the quake. The fissures are only 10 feet deep, and the DC of the flat check for a collapse is 4 higher.
+Striking the ground with the gravity of the deepest rocks, you cause an earthquake. This has the effects of [[Spells/Earthquake|Earthquake]] but comes from you, with an area of a @Template\[cone|distance:60\] or an emanation with the same size as your kinetic aura. You and your space are unaffected by the quake. The fissures are only 10 feet deep, and the DC of the flat check for a collapse is 4 higher.
 
 * * *
 

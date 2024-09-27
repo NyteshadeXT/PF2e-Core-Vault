@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.blood-lords-bestiary.Actor.EqO67DHLlB88vSJZ"
 tags:
   - pf2e/creature/type/incorporeal
   - pf2e/creature/type/undead
+  - pf2eMonster
   - pf2e/creature/level/16
 statblock: inline
 name: "Theater Phantasm"
@@ -21,16 +22,16 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #185: A Taste of Ashes"
 name: "Theater Phantasm"
 level: "Creature 16"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Large"
-trait_01: "incorporeal"
-trait_02: "undead"
+trait_01: [[incorporeal]]
+trait_02: [[undead]]
 modifier: 32
 perception:
   - name: "Perception"
     desc: "+32; Lifesense 100 Feet, Tremorsense (Imprecise) 100 Feet"
-languages: "Common, Necril"
+languages: "Common, Necril; up to four others"
 skills:
   - name: "Skills"
     desc: "Intimidation: +30, Performance: +35, Society: +30, Theater Lore: +36"
@@ -73,8 +74,14 @@ attacks:
     desc: "`pf2:1` Impromptu Props +28 (magical, range increment 30 feet)\n__Damage__  3d12 + 18 bludgeoning"
 
   - name: "Spotlight"
-    desc: " (emotion,light,occult) **Frequency** once per round\n**Effect** The theater phantasm draws attention to a creature it admires. The phantasm designates a target other than itself within 50 feet with a subtle spotlight, giving the target a +2 status bonus to Performance checks and resistance 10 to mental damage for 1 minute. If it uses this ability again on a new target, the former creature loses its spotlight.\n[[Bestiary Effects/Effect_ Spotlight|Effect: Spotlight]]"
+    desc: " (emotion,light,occult) **Frequency** once per round\n* * *\n\n**Effect** The theater phantasm draws attention to a creature it admires. The phantasm designates a target other than itself within 50 feet with a subtle spotlight, giving the target a +2 status bonus to Performance checks and resistance 10 to mental damage for 1 minute. If it uses this ability again on a new target, the former creature loses its spotlight.\n\n[[Bestiary Effects/Effect_ Spotlight|Effect: Spotlight]]"
  
+```
+
+```encounter-table
+name: Theater Phantasm
+creatures:
+  - 1: Theater Phantasm
 ```
 
 

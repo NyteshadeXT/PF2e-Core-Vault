@@ -4,6 +4,7 @@ obsidianUIMode: preview
 noteType: pf2eHazard
 tags:
   - magical
+  - pf2eHazard
   - complex
 source: Pathfinder Society Scenario #4-17: Trapping the Hag&#x27;s Claw
 aliases: "Compendium.pf2e.pfs-season-4-bestiary.Actor.kzI1W2HlTbA1wRIV" 
@@ -21,13 +22,13 @@ name: "Darkened Shadow Cannon (4-17)"
 level: "Hazard 5"
 
 trait_06: "Complex"
-trait_01: "magical"
+trait_01: [[magical]]
 modifier: 13
 sourcebook: "_Pathfinder Society Scenario #4-17: Trapping the Hag's Claw_"
 ac: 23
 armorclass:
   - name: AC
-    desc: "23; __Fort__ +17, __Ref__ +10, __Will__ NaN"
+    desc: "23; __Fort__ +17, __Ref__ +10, "
 hp: 50
 health:
   - name: ""
@@ -49,12 +50,18 @@ attacks:
   - name: ""
 
   - name: "Load the Cannons"
-    desc: "`pf2:r` **Trigger** The ship flies within 30 feet of a PC\n**Effect** The cannon reloads and rolls initiative."
+    desc: "`pf2:r` **Trigger** The ship flies within 30 feet of a PC\n* * *\n\n**Effect** The cannon reloads and rolls initiative."
   - name: "Melee"
-    desc: "Cannon Blast +15 (range increment 40 feet, reload 2) 2d8 + 5 bludgeoning damage to creatures in a 5-foot burst (DC 21 Reflex check save)"
+    desc: "Cannon Blast +15 (range increment 40 feet, reload 2) 2d8+5 bludgeoning damage to creatures in a @Template[burst|distance:5] (DC 21 Reflex check save)"
 
   - name: "Routine"
     desc: "(three actions) The cannon fires a blast that contains as many PCs as possible, choosing randomly in the event of a tie, then reloads."
 
+```
+
+```encounter-table
+name: Darkened Shadow Cannon (4-17)
+creatures:
+  - 1: Darkened Shadow Cannon (4-17)
 ```
 

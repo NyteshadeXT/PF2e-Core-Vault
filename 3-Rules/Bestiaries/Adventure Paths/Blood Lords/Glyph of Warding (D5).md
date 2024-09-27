@@ -5,6 +5,7 @@ noteType: pf2eHazard
 tags:
   - magical
   - trap
+  - pf2eHazard
 
 source: Pathfinder #184: The Ghouls Hunger
 aliases: "Compendium.pf2e.blood-lords-bestiary.Actor.NogvW222v6TGMz5w" 
@@ -22,8 +23,8 @@ name: "Glyph of Warding (D5)"
 level: "Hazard 14"
 
 
-trait_01: "magical"
-trait_02: "trap"
+trait_01: [[magical]]
+trait_02: [[trap]]
 modifier: 24
 sourcebook: "_Pathfinder #184: The Ghouls Hunger_"
 perception:
@@ -42,9 +43,15 @@ attacks:
   - name: ""
 
   - name: "Discharge Glyph"
-    desc: "`pf2:r` (divine) **Trigger** A creature opens the door to area **D6**\n**Effect** The creature is targeted by a [[Spells/Spirit Blast|Spirit Blast]] spell (DC 34 Fortitude check, 16d6 force damage)."
+    desc: "`pf2:r` (divine) **Trigger** A creature opens the door to area **D6**\n* * *\n\n**Effect** The creature is targeted by a [[Spells/Spirit Blast|Spirit Blast]] spell (DC 34 Fortitude check, 16d6 force damage)."
 
 
 
+```
+
+```encounter-table
+name: Glyph of Warding (D5)
+creatures:
+  - 1: Glyph of Warding (D5)
 ```
 

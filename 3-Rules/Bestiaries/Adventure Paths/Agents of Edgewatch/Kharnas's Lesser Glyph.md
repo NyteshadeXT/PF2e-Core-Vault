@@ -5,6 +5,7 @@ noteType: pf2eHazard
 tags:
   - magical
   - trap
+  - pf2eHazard
 
 source: Pathfinder #162: Ruins of the Radiant Siege
 aliases: "Compendium.pf2e.agents-of-edgewatch-bestiary.Actor.qy53ECS2agScE7G3" 
@@ -22,8 +23,8 @@ name: "Kharnas's Lesser Glyph"
 level: "Hazard 17"
 
 
-trait_01: "magical"
-trait_02: "trap"
+trait_01: [[magical]]
+trait_02: [[trap]]
 modifier: 33
 sourcebook: "_Pathfinder #162: Ruins of the Radiant Siege_"
 perception:
@@ -42,10 +43,16 @@ attacks:
   - name: ""
 
   - name: "Dominate"
-    desc: "`pf2:r` (arcane) **Trigger** A creature who doesn't bear the sigil of Kharnas attempts to open the door\n**Effect** A surge of the Radiant Spark's latent power courses through the glyph and washes over the triggering creature. If the creature is undead, it takes 10d10 vitality damage. If it's living, it instead regains 10d10 Hit Points. It then must succeed at a DC 40 Will check save or be affected by a 6th-rank [[Spells/Dominate|Dominate]] spell.\nThe spell commands the affected creature to attack the nearest creature who doesn't bear the sigil of Kharnas."
+    desc: "`pf2:r` (arcane) **Trigger** A creature who doesn't bear the sigil of Kharnas attempts to open the door\n* * *\n\n**Effect** A surge of the Radiant Spark's latent power courses through the glyph and washes over the triggering creature. If the creature is undead, it takes 10d10 vitality damage. If it's living, it instead regains 10d10 Hit Points. It then must succeed at a DC 40 Will check save or be affected by a 6th-rank [[Spells/Dominate|Dominate]] spell.\n\nThe spell commands the affected creature to attack the nearest creature who doesn't bear the sigil of Kharnas."
 
 
   - name: "Reset"
     desc: "The glyph can affect two creatures before it deactivates for 5 minutes and automatically resets."
+```
+
+```encounter-table
+name: Kharnas's Lesser Glyph
+creatures:
+  - 1: Kharnas's Lesser Glyph
 ```
 

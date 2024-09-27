@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.pfs-season-1-bestiary.Actor.MOX8VzhEBVMkOpzr"
 tags:
   - pf2e/creature/type/human
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/1
 statblock: inline
 name: "Crowd Agitator"
@@ -24,8 +25,8 @@ level: "Creature 1"
 
 alignment: ""
 size: "Medium"
-trait_01: "human"
-trait_02: "humanoid"
+trait_01: [[human]]
+trait_02: [[humanoid]]
 modifier: 6
 perception:
   - name: "Perception"
@@ -64,6 +65,12 @@ attacks:
   - name: "Crowd Aid"
     desc: "  The crowd agitator ignores difficult terrain caused by friendly crowds. Creatures within or adjacent to friendly crowds are [[Conditions/Off-Guard|Off-Guard]] against the crowd agitator's attacks."
  
+```
+
+```encounter-table
+name: Crowd Agitator
+creatures:
+  - 1: Crowd Agitator
 ```
 
 

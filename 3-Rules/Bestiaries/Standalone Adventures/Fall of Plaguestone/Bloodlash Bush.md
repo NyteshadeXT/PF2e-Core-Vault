@@ -6,6 +6,7 @@ cssClasses: pf2e
 aliases: "Compendium.pf2e.fall-of-plaguestone-bestiary.Actor.C7Wb70xpG2PvTslg" 
 tags:
   - pf2e/creature/type/plant
+  - pf2eMonster
   - pf2e/creature/level/2
 statblock: inline
 name: "Bloodlash Bush"
@@ -23,11 +24,12 @@ level: "Creature 2"
 
 alignment: ""
 size: "Small"
-trait_01: "plant"
+trait_01: [[plant]]
 modifier: 6
 perception:
   - name: "Perception"
     desc: "+6; Tremorsense (Imprecise) 30 Feet"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Athletics: +8, Stealth: +6"
@@ -55,14 +57,20 @@ attacks:
     desc: "`pf2:1` Vine +11 (agile, reach 10 feet)\n__Damage__  1d8 + 4 slashing plus weeping-wounds"
 
   - name: "Blood Siphon"
-    desc: "`pf2:2`  The tendrils of the bush reach out to siphon the blood from a victim up to 20 feet away with persistent bleed damage, causing the victim to immediately take that amount of bleed damage (DC 17 Reflex check).\nThe bush regains an amount of Hit Points equal to double the damage dealt."
+    desc: "`pf2:2`  The tendrils of the bush reach out to siphon the blood from a victim up to 20 feet away with persistent bleed damage, causing the victim to immediately take that amount of bleed damage (DC 17 Reflex check).\n\nThe bush regains an amount of Hit Points equal to double the damage dealt."
 
   - name: "Spinning Strike"
     desc: "`pf2:3`  The bush spins in a circle, lashing out in all directions at once. It makes one attack roll and compares the result to the AC of each creature within its melee reach, rolling damage only once and applying it to each creature hit."
 
   - name: "Weeping Wounds"
-    desc: "  A bloodlash bush's vines cause terrible lacerations that continue to bleed. A creature hit with a vine attack takes 1 bleed damage (2 bleed damage on a critical hit).\nUnlike other forms of persistent damage, this damage is cumulative, to a maximum of 5 persistent bleed damage but it can be stopped like any other persistent bleed damage."
+    desc: "  A bloodlash bush's vines cause terrible lacerations that continue to bleed. A creature hit with a vine attack takes 1 bleed damage (2 bleed damage on a critical hit).\n\nUnlike other forms of persistent damage, this damage is cumulative, to a maximum of 5 persistent bleed damage but it can be stopped like any other persistent bleed damage."
  
+```
+
+```encounter-table
+name: Bloodlash Bush
+creatures:
+  - 1: Bloodlash Bush
 ```
 
 

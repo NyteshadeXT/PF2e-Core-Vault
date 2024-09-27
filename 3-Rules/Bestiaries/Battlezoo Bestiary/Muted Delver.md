@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/amphibious
   - pf2e/creature/type/chaotic
   - pf2e/creature/type/evil
+  - pf2eMonster
   - pf2e/creature/level/11
 statblock: inline
 name: "Muted Delver"
@@ -27,18 +28,18 @@ level: "Creature 11"
 
 alignment: ""
 size: "huge"
-trait_01: "aberration"
-trait_02: "amphibious"
-trait_03: "chaotic"
-trait_04: "evil"
+trait_01: [[aberration]]
+trait_02: [[amphibious]]
+trait_03: [[chaotic]]
+trait_04: [[evil]]
 modifier: 25
 perception:
   - name: "Perception"
     desc: "+25; Greater Darkvision, Truesight"
-languages: "Aklo, Common, Thalassic"
+languages: "Aklo, Common, Thalassic; (can’t speak any language); telepathy 100 feet"
 skills:
   - name: "Skills"
-    desc: "Arcana: +20, Athletics: +24, Intimidation: +23, Occultism: +22, Stealth: +20, "
+    desc: "Arcana: +20, Athletics: +24, Intimidation: +23, Occultism: +22, Stealth: +20"
 abilityMods: [7, 3, 5, 3, 6, 6]
 speed: 30 feet,  swim 60 feet
 sourcebook: "_Battlezoo Bestiary_"
@@ -60,10 +61,10 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Aura of Quiet"
-    desc: " (aura,illusion,occult) Aura 60 feet.\nA muted delver's aura softens sounds in the affected area. A creature that uses an ability or casts a spell with the auditory or sonic trait or a verbal component must succeed at a Flat Check; on a failure, the effect is counteracted."
+    desc: " (aura,illusion,occult) [[Bestiary Ability Glossary/Aura|Aura]] 60 feet.\n\nA muted delver's aura softens sounds in the affected area. A creature that uses an ability or casts a spell with the auditory or sonic trait or a verbal component must succeed at a DC 10 Flat Check; on a failure, the effect is counteracted."
 
   - name: "Visual Overload"
-    desc: "  A muted delver's extremely sensitive eyes are susceptible to visual overload. Whenever a muted delver sees a spell used within 30 feet with the visual trait, the muted delver becomes Off-Guard and Fascinated for 1 round.\nThe target of the muted delver's fascination is the origin of the effect, not the effect itself; for example, the delver would be fascinated by a wizard who casts _Illusory Creature_, not the illusion itself."
+    desc: "  A muted delver's extremely sensitive eyes are susceptible to visual overload. Whenever a muted delver sees a spell used within 30 feet with the visual trait, the muted delver becomes [[Conditions/Off-Guard|Off-Guard]] and [[undefined]] for 1 round.\n\nThe target of the muted delver's fascination is the origin of the effect, not the effect itself; for example, the delver would be fascinated by a wizard who casts _[[Spells/Illusory Creature|Illusory Creature]]_, not the illusion itself."
 
 attacks:
   - name: ""
@@ -78,8 +79,14 @@ attacks:
     desc: "DC 29, attack +21; __6th __  _[[Spells/Slow|Slow]]_, _[[Spells/Vampiric Exsanguination|Vampiric Exsanguination]]_; __5th __  _[[Spells/Black Tentacles|Black Tentacles]]_, _[[Spells/False Vitality|False Life]]_\n__Cantrips__  __(6th)__ _[[Spells/Detect Magic|Detect Magic]]_, _[[Spells/Shield|Shield]]_\n__Constant__  __(6th)__ _[[Spells/Levitate|Levitate (Self Only)]]_, _[[Spells/Truesight|True Seeing]]_"
 
   - name: "Wrecking Ball"
-    desc: "`pf2:2`  **Requirements** The muted delver has a creature Grabbed in its claw;\n**Effect** The muted delver swings the grabbed creature around, slamming it like a cudgel into up to two creatures within 15 feet. Each foe, including the grabbed creature, takes 5d8 bludgeoning damage (basic Fortitude save). On a failed save, a creature is knocked Prone; on a critically failed save, the creature is also Stunned 2."
+    desc: "`pf2:2`  **Requirements** The muted delver has a creature [[Conditions/Grabbed|Grabbed]] in its claw;\n\n**Effect** The muted delver swings the grabbed creature around, slamming it like a cudgel into up to two creatures within 15 feet. Each foe, including the grabbed creature, takes 5d8 bludgeoning damage (DC 30 basic Fortitude save). On a failed save, a creature is knocked [[Conditions/Prone|Prone]]; on a critically failed save, the creature is also [[Conditions/Stunned|Stunned 2]]."
  
+```
+
+```encounter-table
+name: Muted Delver
+creatures:
+  - 1: Muted Delver
 ```
 
 

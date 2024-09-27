@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.seven-dooms-for-sandpoint-bestiary.Actor.4p34LdwvJY2m3
 tags:
   - pf2e/creature/type/aberration
   - pf2e/creature/type/chaotic
+  - pf2eMonster
   - pf2e/creature/level/9
 statblock: inline
 name: "Ziondriel"
@@ -21,11 +22,11 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #200: Seven Dooms for Sandpoint"
 name: "Ziondriel"
 level: "Creature 9"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Large"
-trait_01: "aberration"
-trait_02: "chaotic"
+trait_01: [[aberration]]
+trait_02: [[chaotic]]
 modifier: 19
 perception:
   - name: "Perception"
@@ -71,11 +72,17 @@ attacks:
     desc: "DC 28, attack +20; __5th __  _[[Spells/Dispel Magic|Dispel Magic]]_; __4th __  _[[Spells/Clairvoyance|Clairvoyance]]_, _[[Spells/Suggestion|Suggestion]]_; __3rd __  _[[Spells/Clairaudience|Clairaudience]]_, _[[Spells/Levitate|Levitate]]_; __2nd __  _[[Spells/Darkness|Darkness (At Will)]]_, _[[Spells/Faerie Fire|Faerie Fire (At Will)]]_\n__Cantrips__  __(5th)__ _[[Spells/Detect Magic|Detect Magic]]_, _[[Spells/Light|Light]]_"
 
   - name: "Drider Venom"
-    desc: " (poison) **Saving Throw** DC 28 Fortitude check\n**Maximum Duration** 6 rounds\n**Stage 1** 1d8 poison damage and [[Conditions/Enfeebled 1|Enfeebled 1]]"
+    desc: " (poison) **Saving Throw** DC 28 Fortitude check\n* * *\n\n**Maximum Duration** 6 rounds\n\n**Stage 1** 1d8 poison damage and [[Conditions/Enfeebled|Enfeebled 1]]"
 
   - name: "Web Trap"
     desc: "  A creature hit by a drider's web attack is [[Conditions/Immobilized|Immobilized]] and stuck to the nearest surface ([[Actions/Escape|Escape]] DC 28)."
  
+```
+
+```encounter-table
+name: Ziondriel
+creatures:
+  - 1: Ziondriel
 ```
 
 

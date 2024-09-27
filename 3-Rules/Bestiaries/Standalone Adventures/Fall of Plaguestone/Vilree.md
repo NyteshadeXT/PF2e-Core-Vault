@@ -10,6 +10,7 @@ tags:
   - pf2e/creature/type/human
   - pf2e/creature/type/humanoid
   - pf2e/creature/type/lawful
+  - pf2eMonster
   - pf2e/creature/level/5
 statblock: inline
 name: "Vilree"
@@ -24,14 +25,14 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Adventure: The Fall of Plaguestone"
 name: "Vilree"
 level: "Creature 5"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Medium"
-trait_01: "elf"
-trait_02: "evil"
-trait_03: "human"
-trait_04: "humanoid"
-trait_05: "lawful"
+trait_01: [[elf]]
+trait_02: [[evil]]
+trait_03: [[human]]
+trait_04: [[humanoid]]
+trait_05: [[lawful]]
 modifier: 10
 perception:
   - name: "Perception"
@@ -67,14 +68,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
+  - name: "Ranged"
     desc: "`pf2:1` Dagger +14 (agile, finesse, thrown 10 ft., versatile s)\n__Damage__  2d4 + 1 piercing"
 
   - name: "Melee"
     desc: "`pf2:1` Fist +13 (agile, finesse, nonlethal, unarmed)\n__Damage__  1d4 + 1 bludgeoning"
-
-  - name: "Ranged"
-    desc: "`pf2:1` Alchemical Crossbow +13 (range increment 30 feet, reload 1)\n__Damage__  1d8 piercing"
 
   - name: "Ranged"
     desc: "`pf2:1` Acid Flask +13 (thrown 30 ft.)\n__Damage__  1 acid 2d6 acid 2 acid"
@@ -88,12 +86,21 @@ attacks:
   - name: "Ranged"
     desc: "`pf2:1` Tanglefoot Bag +13 (thrown 30 ft.)\n__Damage__ "
 
+  - name: "Ranged"
+    desc: "`pf2:1` Alchemical Crossbow +13 (range increment 30 feet, reload 1)\n__Damage__  1d8 piercing"
+
   - name: "Alchemical Crossbow"
-    desc: "  Vilree's crossbow can deliver bolts that are alchemically infused. As an action, she can slot an alchemical bomb into the crossbow, and the next 3 attacks she makes with it deal 1d6 damage of the type dealt by the bomb. These attacks never deal splash damage.\n[[Bestiary Effects/Effect_ Alchemical Crossbow|Effect: Alchemical Crossbow]]"
+    desc: "  Vilree's crossbow can deliver bolts that are alchemically infused. As an action, she can slot an alchemical bomb into the crossbow, and the next 3 attacks she makes with it deal 1d6 damage of the type dealt by the bomb. These attacks never deal splash damage.\n\n[[Bestiary Effects/Effect_ Alchemical Crossbow|Effect: Alchemical Crossbow]]"
 
   - name: "Quick Bomber"
     desc: "`pf2:1`  Vilree can interact to draw a bomb and then make a Strike with it."
  
+```
+
+```encounter-table
+name: Vilree
+creatures:
+  - 1: Vilree
 ```
 
 

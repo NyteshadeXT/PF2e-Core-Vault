@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/fey
   - pf2e/creature/type/gremlin
+  - pf2eMonster
   - pf2e/creature/level/4
 statblock: inline
 name: "Urbel"
@@ -23,13 +24,13 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #169: Kindled Magic"
 name: "Urbel"
 level: "Creature 4"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Small"
-trait_01: "chaotic"
-trait_02: "evil"
-trait_03: "fey"
-trait_04: "gremlin"
+trait_01: [[chaotic]]
+trait_02: [[evil]]
+trait_03: [[fey]]
+trait_04: [[gremlin]]
 modifier: 8
 perception:
   - name: "Perception"
@@ -37,7 +38,7 @@ perception:
 languages: "Sakvroth"
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +10, Athletics: +9 (+11 to shove), Crafting: +7 (+9 to craft traps), Intimidation: +12, Stealth: +10"
+    desc: "Acrobatics: +10, Athletics: +9, Crafting: +7, Intimidation: +12, Stealth: +10"
 abilityMods: [3, 4, 3, -1, 0, 2]
 speed: 30 feet,  climb 20 feet
 sourcebook: "_Pathfinder #169: Kindled Magic_"
@@ -57,7 +58,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Kneecapper"
-    desc: "`pf2:r` (move) **Trigger** A Medium creature within Urbel's reach leaves a square during its move action\n**Effect** Urbel lashes out at the triggering creature's knees and tries to knock them [[Conditions/Prone|Prone]]. He attempts an Acrobatics check check against the creature's Reflex DC. On a success, the target falls and lands Prone."
+    desc: "`pf2:r` (move) **Trigger** A Medium creature within Urbel's reach leaves a square during its move action\n* * *\n\n**Effect** Urbel lashes out at the triggering creature's knees and tries to knock them [[Conditions/Prone|Prone]]. He attempts an Acrobatics check check against the creature's Reflex DC. On a success, the target falls and lands Prone."
 
 attacks:
   - name: ""
@@ -83,6 +84,12 @@ attacks:
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
     desc: "`pf2:1`  "
  
+```
+
+```encounter-table
+name: Urbel
+creatures:
+  - 1: Urbel
 ```
 
 

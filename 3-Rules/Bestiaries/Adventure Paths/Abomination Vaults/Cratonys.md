@@ -10,6 +10,7 @@ tags:
   - pf2e/creature/type/lawful
   - pf2e/creature/type/unholy
   - pf2e/creature/type/velstrac
+  - pf2eMonster
   - pf2e/creature/level/6
 statblock: inline
 name: "Cratonys"
@@ -27,11 +28,11 @@ level: "Creature 6"
 
 alignment: ""
 size: "Medium"
-trait_01: "evil"
-trait_02: "fiend"
-trait_03: "lawful"
-trait_04: "unholy"
-trait_05: "velstrac"
+trait_01: [[evil]]
+trait_02: [[fiend]]
+trait_03: [[lawful]]
+trait_04: [[unholy]]
+trait_05: [[velstrac]]
 modifier: 13
 perception:
   - name: "Perception"
@@ -56,7 +57,7 @@ abilities_top:
   - name: ""
 
   - name: "Painsight"
-    desc: " (divine) A velstrac automatically knows whether a creature it sees has any of the [[Conditions/Doomed 1|Doomed]], [[Conditions/Dying 1|Dying]], and [[Conditions/Wounded 1|Wounded]] conditions, as well as the value of those conditions"
+    desc: " (divine) A velstrac automatically knows whether a creature it sees has any of the [[Conditions/Doomed|Doomed]], [[Conditions/Dying|Dying]], and [[Conditions/Wounded|Wounded]] conditions, as well as the value of those conditions"
 
 abilities_mid:
   - name: ""
@@ -64,7 +65,7 @@ abilities_mid:
     desc: "`pf2:r`  "
 
   - name: "Unnerving Gaze"
-    desc: " (aura,divine,fear,mental,visual) 30 feet. When a creature ends its turn in the aura, it sees the face of a departed loved one in place of the evangelist's face. The creature must succeed at a DC 21 Will check save or become [[Conditions/Frightened 1|Frightened 2]] ([[Conditions/Frightened 1|Frightened 3]] on a critical failure)."
+    desc: " (aura,divine,fear,mental,visual) 30 feet. When a creature ends its turn in the aura, it sees the face of a departed loved one in place of the evangelist's face. The creature must succeed at a DC 21 Will check save or become [[Conditions/Frightened|Frightened 2]] ([[Conditions/Frightened|Frightened 3]] on a critical failure)."
 
 attacks:
   - name: ""
@@ -76,14 +77,20 @@ attacks:
     desc: " (divine) Chains in the evangelist's vicinity sprout barbs and writhe menacingly. The evangelist can make chain Strikes against any creature that is adjacent to an unattended chain within 20 feet, in addition to those within the reach of the evangelist's chain Strike."
 
   - name: "Focus Gaze"
-    desc: "`pf2:1` (concentrate,divine,fear,mental,visual) The evangelist stares at a creature they can see within 30 feet. The target must immediately attempt a DC 21 Will check save against Unnerving gaze. In addition, if the creature was already [[Conditions/Frightened 1|Frightened]], on a failed save, the evangelist is [[Conditions/Concealed|Concealed]] from the creature for as long as the creature remains frightened.\nAfter attempting this save, the creature is then temporarily immune until the start of the evangelist's next turn."
+    desc: "`pf2:1` (concentrate,divine,fear,mental,visual) The evangelist stares at a creature they can see within 30 feet. The target must immediately attempt a DC 21 Will check save against Unnerving gaze. In addition, if the creature was already [[Conditions/Frightened|Frightened]], on a failed save, the evangelist is [[Conditions/Concealed|Concealed]] from the creature for as long as the creature remains frightened.\n\nAfter attempting this save, the creature is then temporarily immune until the start of the evangelist's next turn."
 
   - name: "Impaling Chain"
-    desc: "  When the evangelist critically hits with a chain Strike, the target is impaled and anchored in place, becoming [[Conditions/Grabbed|Grabbed]] by the chain. The creature is unable to recover from persistent bleed damage until it gets free ([[Actions/Escape|Escape]] DC 25).\n[[Bestiary Effects/Effect_ Impaling Chain|Effect: Impaling Chain]]"
+    desc: "  When the evangelist critically hits with a chain Strike, the target is impaled and anchored in place, becoming [[Conditions/Grabbed|Grabbed]] by the chain. The creature is unable to recover from persistent bleed damage until it gets free ([[Actions/Escape|Escape]] DC 25).\n\n[[Bestiary Effects/Effect_ Impaling Chain|Effect: Impaling Chain]]"
 
   - name: "Rusty Chains"
-    desc: "  When Cratonys damages a creature with her chains, including persistent bleed damage from being impaled by a chain, the creature must succeed at a DC 21 Fortitude check saving throw or contract a severe form of tetanus called velstrac tetanus.\nVelstracs sometimes intentionally infect their chains with dangerous diseases, such as this aggressive form of tetanus. Tetanus can produce stiffness, muscle spasms strong enough to break bones, and ultimately death.\n**Saving Throw** DC 21 Fortitude check\n**Onset** 1d4 days\n**Stage 1** [[Conditions/Clumsy 1|Clumsy 1]] (1 week)\n**Stage 2** [[Conditions/Clumsy 1|Clumsy 2]] and can't speak (1 day)\n**Stage 3** [[Conditions/Paralyzed|Paralyzed]] (1 day)\n**Stage 4** death"
+    desc: "  When Cratonys damages a creature with her chains, including persistent bleed damage from being impaled by a chain, the creature must succeed at a DC 21 Fortitude check saving throw or contract a severe form of tetanus called velstrac tetanus.\n* * *\n\nVelstracs sometimes intentionally infect their chains with dangerous diseases, such as this aggressive form of tetanus. Tetanus can produce stiffness, muscle spasms strong enough to break bones, and ultimately death.\n\n**Saving Throw** DC 21 Fortitude check\n* * *\n\n**Onset** 1d4 days\n\n**Stage 1** [[Conditions/Clumsy|Clumsy 1]] (1 week)\n\n**Stage 2** [[Conditions/Clumsy|Clumsy 2]] and can't speak (1 day)\n\n**Stage 3** [[Conditions/Paralyzed|Paralyzed]] (1 day)\n\n**Stage 4** death"
  
+```
+
+```encounter-table
+name: Cratonys
+creatures:
+  - 1: Cratonys
 ```
 
 

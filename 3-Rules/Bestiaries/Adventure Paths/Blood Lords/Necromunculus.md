@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/undead
   - pf2e/creature/type/unholy
+  - pf2eMonster
   - pf2e/creature/level/0
 statblock: inline
 name: "Necromunculus"
@@ -22,17 +23,17 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #181: Zombie Feast"
 name: "Necromunculus"
 level: "Creature 0"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "tiny"
-trait_01: "evil"
-trait_02: "undead"
-trait_03: "unholy"
+trait_01: [[evil]]
+trait_02: [[undead]]
+trait_03: [[unholy]]
 modifier: 5
 perception:
   - name: "Perception"
     desc: "+5; Darkvision"
-languages: "Necril"
+languages: "Necril; (can&#x27;t speak any language); undead master link"
 skills:
   - name: "Skills"
     desc: "Acrobatics: +4, Stealth: +6"
@@ -63,8 +64,14 @@ attacks:
     desc: "`pf2:1` Claw +7 (agile, finesse, magical)\n__Damage__  1d4 slashing plus stupefying-touch"
 
   - name: "Stupefying Touch"
-    desc: "  A creature damaged by a necromunculus's claw Strike must succeed at a DC 15 Will check saving throw or become [[Conditions/Stupefied 1|Stupefied 1]] for 1 round."
+    desc: "  A creature damaged by a necromunculus's claw Strike must succeed at a DC 15 Will check saving throw or become [[Conditions/Stupefied|Stupefied 1]] for 1 round."
  
+```
+
+```encounter-table
+name: Necromunculus
+creatures:
+  - 1: Necromunculus
 ```
 
 

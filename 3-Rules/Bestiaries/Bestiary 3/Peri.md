@@ -10,6 +10,7 @@ tags:
   - pf2e/creature/type/fire
   - pf2e/creature/type/good
   - pf2e/creature/type/holy
+  - pf2eMonster
   - pf2e/creature/level/14
 statblock: inline
 name: "Peri"
@@ -28,19 +29,19 @@ level: "Creature 14"
 
 alignment: ""
 size: "Medium"
-trait_01: "celestial"
-trait_02: "chaotic"
-trait_03: "fire"
-trait_04: "good"
-trait_05: "holy"
+trait_01: [[celestial]]
+trait_02: [[chaotic]]
+trait_03: [[fire]]
+trait_04: [[good]]
+trait_05: [[holy]]
 modifier: 26
 perception:
   - name: "Perception"
     desc: "+26; Darkvision"
-languages: "Common, Draconic, Elven, Empyrean, Fey, Pyric"
+languages: "Common, Draconic, Elven, Empyrean, Fey, Pyric; telepathy 100 feet"
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +27, Arcana: +23, Athletics: +25, Diplomacy: +28, Lore (Any one Celestial Plane): +25, Performance: +28, Religion: +24"
+    desc: "Acrobatics: +27, Arcana: +23, Athletics: +25, Diplomacy: +28, Performance: +28, Religion: +24, Lore (Any one Celestial Plane): +25"
 abilityMods: [7, 7, 4, 5, 4, 8]
 speed: 
 sourcebook: "_Pathfinder Bestiary 3_"
@@ -80,7 +81,7 @@ attacks:
     desc: "DC 34, attack +26; __7th __  _[[Spells/Humanoid Form|Humanoid Form (At Will)]]_, _[[Spells/Wall of Fire|Wall of Fire (x3)]]_\n__Cantrips__  __(7th)__ _[[Spells/Produce Flame|Produce Flame]]_\n__Constant__  __(4th)__ _[[Spells/Fire Shield|Fire Shield]]_"
 
   - name: "Flame Jump"
-    desc: "`pf2:2` (divine,teleportation) **Frequency** once per hour\n**Effect** The peri Strides into an open flame of their size or larger and instantly transports themself to any other flame of sufficient size within 100 miles.\nOnce they enter the first flame, the peri instantly learns the locations of all other flames within range."
+    desc: "`pf2:2` (divine,teleportation) **Frequency** once per hour\n* * *\n\n**Effect** The peri Strides into an open flame of their size or larger and instantly transports themself to any other flame of sufficient size within 100 miles.\n\nOnce they enter the first flame, the peri instantly learns the locations of all other flames within range."
 
   - name: "Flameheart Weapon"
     desc: "  The peri can call forth a powerful weapon from their heart of flame. In their hands, this is a _+2 [[Equipment/Flaming (Greater)|Greater Flaming]] greater striking weapon_ that deals 2d6 fire damage instead of 1d6."
@@ -89,8 +90,14 @@ attacks:
     desc: "`pf2:2`  The peri makes one scimitar Strike and two burning wings Strikes, in any order."
 
   - name: "Wildfire Storm"
-    desc: "`pf2:1` (divine,fire) The peri spreads their wings and spins, forming a whirlwind of flame that deals 15d6 fire damage in a 20-foot emanation (DC 34 Reflex check save).\nThey can't use Wildfire Storm again for 1d4 rounds."
+    desc: "`pf2:1` (divine,fire) The peri spreads their wings and spins, forming a whirlwind of flame that deals 15d6 fire damage in a @Template[emanation|distance:20] (DC 34 Reflex check save).\n\nThey can't use Wildfire Storm again for 1d4 rounds."
  
+```
+
+```encounter-table
+name: Peri
+creatures:
+  - 1: Peri
 ```
 
 

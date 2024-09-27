@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/human
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/5
 statblock: inline
 name: "Malgorzata Niska"
@@ -23,13 +24,13 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Kingmaker"
 name: "Malgorzata Niska"
 level: "Creature 5"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Medium"
-trait_01: "chaotic"
-trait_02: "evil"
-trait_03: "human"
-trait_04: "humanoid"
+trait_01: [[chaotic]]
+trait_02: [[evil]]
+trait_03: [[human]]
+trait_04: [[humanoid]]
 modifier: 13
 perception:
   - name: "Perception"
@@ -75,8 +76,14 @@ attacks:
     desc: "_[[Spells/Consecrate|Consecrate]]_"
 
   - name: "Spiteful Command"
-    desc: "`pf2:r` (auditory) **Trigger** Malgorzata is targeted with an attack or single-target spell.\n**Effect** Malgorzata commands a Gyronna cultist within reach of the triggering creature to attack the creature, allowing it to make a melee Strike after the triggering action resolves its effects."
+    desc: "`pf2:r` (auditory) **Trigger** Malgorzata is targeted with an attack or single-target spell.\n* * *\n\n**Effect** Malgorzata commands a Gyronna cultist within reach of the triggering creature to attack the creature, allowing it to make a melee Strike after the triggering action resolves its effects."
  
+```
+
+```encounter-table
+name: Malgorzata Niska
+creatures:
+  - 1: Malgorzata Niska
 ```
 
 

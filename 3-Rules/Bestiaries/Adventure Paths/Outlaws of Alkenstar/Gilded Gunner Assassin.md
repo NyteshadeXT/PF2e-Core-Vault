@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.outlaws-of-alkenstar-bestiary.Actor.2IjwfgmGutHhpg7B"
 tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/5
 statblock: inline
 name: "Gilded Gunner Assassin"
@@ -21,15 +22,16 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #179: Cradle of Quartz"
 name: "Gilded Gunner Assassin"
 level: "Creature 5"
-rare_03: "Rare"
+rare_03: [[Rare]]
 alignment: ""
 size: "Medium"
-trait_01: "evil"
-trait_02: "humanoid"
+trait_01: [[evil]]
+trait_02: [[humanoid]]
 modifier: 15
 perception:
   - name: "Perception"
     desc: "+15; "
+languages: ""
 skills:
   - name: "Skills"
     desc: "Acrobatics: +13, Athletics: +12, Deception: +12, Intimidation: +10, Stealth: +13"
@@ -48,11 +50,11 @@ health:
 abilities_top:
   - name: ""
   - name: "Items"
-    desc: "[[Equipment/Dueling Pistol|Dueling Pistol]], [[Equipment/Knuckle Duster|Knuckle Duster]], 2x [[Equipment/Thunderstone (Moderate)|Thunderstone (Moderate)]], [[Equipment/Concealed Holster|Concealed Holster]], 10x [[Equipment/Rounds (Dueling Pistol)|Rounds (Dueling Pistol)]], [[Equipment/Golden Silencer (Standard)|Golden Silencer (Standard)]]"
+    desc: "[[Equipment/Dueling Pistol|Dueling Pistol]], [[Equipment/Knuckle Duster|Knuckle Duster]], 2x [[Equipment/Blasting Stone (Moderate)|Thunderstone (Moderate)]], [[Equipment/Concealed Holster|Concealed Holster]], 10x [[Equipment/Rounds (Dueling Pistol)|Rounds (Dueling Pistol)]], [[Equipment/Golden Silencer (Standard)|Golden Silencer (Standard)]]"
 abilities_mid:
   - name: ""
   - name: "Shot of Opportunity"
-    desc: "`pf2:r`  **Requirements** The Gilded Gunner has a loaded firearm in hand\n**Trigger** A creature within 30 feet uses a manipulate action, uses a move action, or makes a ranged attack\n**Effect** The Gilded Gunner makes a ranged Strike against the triggering creature. If the attack is a critical hit and the trigger was a manipulate action, the Gilded Gunner disrupts that action. This Strike doesn't count toward the Gilded Gunner's multiple attack penalty, and its multiple attack penalty doesn't apply to this Strike."
+    desc: "`pf2:r`  **Requirements** The Gilded Gunner has a loaded firearm in hand\n\n**Trigger** A creature within 30 feet uses a manipulate action, uses a move action, or makes a ranged attack\n* * *\n\n**Effect** The Gilded Gunner makes a ranged Strike against the triggering creature. If the attack is a critical hit and the trigger was a manipulate action, the Gilded Gunner disrupts that action. This Strike doesn't count toward the Gilded Gunner's multiple attack penalty, and its multiple attack penalty doesn't apply to this Strike."
 
 attacks:
   - name: ""
@@ -69,6 +71,12 @@ attacks:
   - name: "[[Bestiary Ability Glossary/Sneak Attack|Sneak Attack]]"
     desc: "  The Gilded Gunner assassin deals an additional 2d6 precision damage to [[Conditions/Off-Guard|Off-Guard]] creatures."
  
+```
+
+```encounter-table
+name: Gilded Gunner Assassin
+creatures:
+  - 1: Gilded Gunner Assassin
 ```
 
 

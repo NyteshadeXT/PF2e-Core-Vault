@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/human
   - pf2e/creature/type/humanoid
   - pf2e/creature/type/lawful
+  - pf2eMonster
   - pf2e/creature/level/15
 statblock: inline
 name: "Scarlet Triad Enforcer"
@@ -23,13 +24,13 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #149: Against the Scarlet Triad"
 name: "Scarlet Triad Enforcer"
 level: "Creature 15"
-rare_03: "Rare"
+rare_03: [[Rare]]
 alignment: ""
 size: "Medium"
-trait_01: "evil"
-trait_02: "human"
-trait_03: "humanoid"
-trait_04: "lawful"
+trait_01: [[evil]]
+trait_02: [[human]]
+trait_03: [[humanoid]]
+trait_04: [[lawful]]
 modifier: 25
 perception:
   - name: "Perception"
@@ -57,7 +58,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Stunning Retort"
-    desc: "`pf2:r`  **Trigger** An enemy critically fails a Strike against the enforcer\n**Effect** The enforcer Strikes with their sap against that enemy if they're within reach; otherwise, the enforcer attempts an Intimidation check to Demoralize that enemy."
+    desc: "`pf2:r`  **Trigger** An enemy critically fails a Strike against the enforcer\n* * *\n\n**Effect** The enforcer Strikes with their sap against that enemy if they're within reach; otherwise, the enforcer attempts an Intimidation check to Demoralize that enemy."
 
 attacks:
   - name: ""
@@ -72,11 +73,17 @@ attacks:
     desc: "`pf2:1` Composite Shortbow +31 (deadly d10, magical, propulsive, range increment 60 feet, reload 0)\n__Damage__  2d6 + 12 piercing"
 
   - name: "Dual Abuse"
-    desc: "`pf2:2`  The enforcer uses the pain of one attack as an opening to deal a devastating second blow. The enforcer makes two attacks against the same target: a scimitar Strike and sap Strike (in any order) or two composite shortbow Strikes. If both attacks hit, the second attack deals an additional 3d6 damage, and the enforcer gives the target one of the following conditions until the end of the enforcer's next turn: [[Conditions/Dazzled|Dazzled]], [[Conditions/Enfeebled 1|Enfeebled 2]], [[Conditions/Off-Guard|Off-Guard]], or [[Conditions/Slowed 1|Slowed 1]].\nThis counts as two attacks when calculating the enforcer's multiple attack penalty, but the penalty doesn't increase until after both attacks."
+    desc: "`pf2:2`  The enforcer uses the pain of one attack as an opening to deal a devastating second blow. The enforcer makes two attacks against the same target: a scimitar Strike and sap Strike (in any order) or two composite shortbow Strikes. If both attacks hit, the second attack deals an additional 3d6 damage, and the enforcer gives the target one of the following conditions until the end of the enforcer's next turn: [[Conditions/Dazzled|Dazzled]], [[Conditions/Enfeebled|Enfeebled 2]], [[Conditions/Off-Guard|Off-Guard]], or [[Conditions/Slowed|Slowed 1]].\n\nThis counts as two attacks when calculating the enforcer's multiple attack penalty, but the penalty doesn't increase until after both attacks."
 
   - name: "Efficient Capture"
-    desc: "`pf2:3` (attack,manipulate) **Requirements** The enforcer has manacles in hand and is adjacent to a creature\n**Effect** The enforcer attempts to bind the creature's wrists or ankles with the manacles. If the enforcer succeeds at an attack roll with a +30 modifier against the target's AC, they apply the manacles."
+    desc: "`pf2:3` (attack,manipulate) **Requirements** The enforcer has manacles in hand and is adjacent to a creature\n* * *\n\n**Effect** The enforcer attempts to bind the creature's wrists or ankles with the manacles. If the enforcer succeeds at an attack roll with a +30 modifier against the target's AC, they apply the manacles."
  
+```
+
+```encounter-table
+name: Scarlet Triad Enforcer
+creatures:
+  - 1: Scarlet Triad Enforcer
 ```
 
 

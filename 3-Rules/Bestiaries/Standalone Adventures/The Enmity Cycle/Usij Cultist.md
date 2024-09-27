@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/human
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/3
 statblock: inline
 name: "Usij Cultist"
@@ -22,12 +23,12 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Adventure: The Enmity Cycle"
 name: "Usij Cultist"
 level: "Creature 3"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Medium"
-trait_01: "evil"
-trait_02: "human"
-trait_03: "humanoid"
+trait_01: [[evil]]
+trait_02: [[human]]
+trait_03: [[humanoid]]
 modifier: 9
 perception:
   - name: "Perception"
@@ -64,8 +65,14 @@ attacks:
     desc: "`pf2:1` Whip +11 (disarm, finesse, nonlethal, reach 10 feet, trip)\n__Damage__  1d4 + 6 slashing"
 
   - name: "Tripping Whip"
-    desc: "`pf2:r`  **Requirements** The Usij cultist must have a whip in their hands\n**Trigger** A creature moves out of a threatened square\n**Effect** The Usij cultist makes a [[Actions/Trip|Trip]] attempt against the triggering creature with their whip."
+    desc: "`pf2:r`  **Requirements** The Usij cultist must have a whip in their hands\n\n**Trigger** A creature moves out of a threatened square\n* * *\n\n**Effect** The Usij cultist makes a [[Actions/Trip|Trip]] attempt against the triggering creature with their whip."
  
+```
+
+```encounter-table
+name: Usij Cultist
+creatures:
+  - 1: Usij Cultist
 ```
 
 

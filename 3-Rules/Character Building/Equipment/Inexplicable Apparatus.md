@@ -25,9 +25,7 @@ When using this apparatus, you gain a +3 item bonus to Crafting checks to Craft,
 
 If you succeed at your Crafting check and spend more downtime to continue work on the item after the minimum number of days, each day you spend reduces the remaining raw material cost by an amount based on your level + 1 and your proficiency rank in Crafting; on a critical success, each day reduces the remaining raw material cost by an amount based on your level + 2 and your proficiency rank. If you are 20th level, on a critical success your progress is 50 gp, 100 gp, 200 gp, or 350 gp for trained, expert, master, or legendary proficiency, respectively.
 
-* * *
-
-**Activate—Inexplicable** Patch `pf2:2` (concentrate, manipulate)
+**Activate—Inexplicable Patch** `pf2:2` (concentrate, manipulate)
 
 **Frequency** once per day
 

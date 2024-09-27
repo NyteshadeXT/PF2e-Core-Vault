@@ -6,6 +6,7 @@ cssClasses: pf2e
 aliases: "Compendium.pf2e.stolen-fate-bestiary.Actor.7SoxdXIjPQzUahDz" 
 tags:
   - pf2e/creature/type/construct
+  - pf2eMonster
   - pf2e/creature/level/4
 statblock: inline
 name: "Simple Harrowkin"
@@ -20,10 +21,10 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #192: Worst of All Possible Worlds"
 name: "Simple Harrowkin"
 level: "Creature 4"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Small"
-trait_01: "construct"
+trait_01: [[construct]]
 modifier: 10
 perception:
   - name: "Perception"
@@ -49,7 +50,7 @@ abilities_top:
   - name: "Items"
     desc: "[[Equipment/Shortsword|Shortsword]], [[Equipment/Harrow Deck (Simple)|Harrow Deck (Simple)]]"
   - name: "Harrowkin Suit"
-    desc: "  Any\n_Note: To select a suit add the following ability and follow the prompt [[Creature Family Ability Glossary/(Harrowkin) Harrowkin Suit|(Harrowkin) Harrow Suit]]_"
+    desc: "  Any\n* * *\n\n_Note: To select a suit add the following ability and follow the prompt [[Creature Family Ability Glossary/(Harrowkin) Harrowkin Suit|(Harrowkin) Harrow Suit]]_"
 
 abilities_mid:
   - name: ""
@@ -66,7 +67,7 @@ attacks:
     desc: "`pf2:1` Harrow Card +12 (agile, magical, range increment 20 feet, thrown)\n__Damage__  1d4 + 3 piercing"
 
   - name: "[[Item.bpoyTnJ7zn3kG6Y9|Shuffle the Deck]]"
-    desc: "`pf2:2`  **Frequency** once per day\n**Requirements** The harrowkin has rolled initiative\n**Effect** At the end of the current round, all creatures currently in initiative reroll their initiative, using the same modifiers as their original initiative roll, and use the new initiative values for all following rounds.."
+    desc: "`pf2:2`  **Frequency** once per day\n\n**Requirements** The harrowkin has rolled initiative\n* * *\n\n**Effect** At the end of the current round, all creatures currently in initiative reroll their initiative, using the same modifiers as their original initiative roll, and use the new initiative values for all following rounds.."
 
   - name: "[[Bestiary Ability Glossary/Sneak Attack|Sneak Attack]]"
     desc: "  The harrowkin deals 1d6 extra precision damage to [[Conditions/Off-Guard|Off-Guard]] creatures."
@@ -74,6 +75,12 @@ attacks:
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
     desc: "`pf2:1`  "
  
+```
+
+```encounter-table
+name: Simple Harrowkin
+creatures:
+  - 1: Simple Harrowkin
 ```
 
 

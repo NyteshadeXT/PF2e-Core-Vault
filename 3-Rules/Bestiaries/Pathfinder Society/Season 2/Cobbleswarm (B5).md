@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/aberration
   - pf2e/creature/type/earth
   - pf2e/creature/type/swarm
+  - pf2eMonster
   - pf2e/creature/level/2
 statblock: inline
 name: "Cobbleswarm (B5)"
@@ -25,13 +26,14 @@ level: "Creature 2"
 
 alignment: ""
 size: "Medium"
-trait_01: "aberration"
-trait_02: "earth"
-trait_03: "swarm"
+trait_01: [[aberration]]
+trait_02: [[earth]]
+trait_03: [[swarm]]
 modifier: 9
 perception:
   - name: "Perception"
     desc: "+9; Tremorsense (Precise) 40 Feet"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Athletics: +8, Stealth: +10"
@@ -62,11 +64,17 @@ attacks:
   - name: ""
 
   - name: "Grasping Bites"
-    desc: "`pf2:2` (attack) The cobbleswarm attempts an Athletics check check and compares the result to the Fortitude DC of each creature in its space. This counts as two attacks for the cobbleswarm's multiple attack penalty.\n**Critical Success** The creature falls prone, takes 1d6 bludgeoning damage, and is [[Conditions/Grabbed|Grabbed]] by the cobbleswarm until the end of the cobbleswarm's next turn.\n**Success** The creature falls prone."
+    desc: "`pf2:2` (attack) The cobbleswarm attempts an Athletics check check and compares the result to the Fortitude DC of each creature in its space. This counts as two attacks for the cobbleswarm's multiple attack penalty.\n* * *\n\n**Critical Success** The creature falls prone, takes 1d6 bludgeoning damage, and is [[Conditions/Grabbed|Grabbed]] by the cobbleswarm until the end of the cobbleswarm's next turn.\n\n**Success** The creature falls prone."
 
   - name: "Pummeling Assault"
     desc: "`pf2:1`  Each foe in the cobbleswarm's space takes 2d4 bludgeoning damage (DC 17 Reflex check save)."
  
+```
+
+```encounter-table
+name: Cobbleswarm (B5)
+creatures:
+  - 1: Cobbleswarm (B5)
 ```
 
 

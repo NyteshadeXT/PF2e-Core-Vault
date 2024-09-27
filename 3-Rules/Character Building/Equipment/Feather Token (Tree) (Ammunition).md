@@ -12,7 +12,7 @@ license: OGL
 ---
 # Feather Token (Tree) (Ammunition)
 ## Item 8
-### [[consumable]][[magical]]
+### [[consumable]][[3-Rules/Rule References/Magical]]
 
 **Category** ammo; 
 **Price** 76 gp; 

@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.pathfinder-bestiary.Actor.KDRlxdIUADWHI6Vr"
 tags:
   - pf2e/creature/type/air
   - pf2e/creature/type/elemental
+  - pf2eMonster
   - pf2e/creature/level/1
 statblock: inline
 name: "Air Mephit"
@@ -25,8 +26,8 @@ level: "Creature 1"
 
 alignment: ""
 size: "Small"
-trait_01: "air"
-trait_02: "elemental"
+trait_01: [[air]]
+trait_02: [[elemental]]
 modifier: 3
 perception:
   - name: "Perception"
@@ -62,8 +63,14 @@ attacks:
     desc: "DC 17, attack +9; __2nd __  _[[Spells/Blur|Blur]]_; __1st __  _[[Spells/Gust of Wind|Gust of Wind]]_"
 
   - name: "Breath Weapon"
-    desc: "`pf2:2` (air,arcane) The air mephit breathes sand and grit in a 15-foot cone that deals 2d6 slashing damage to each creature within the area (DC 17 Reflex check save).\nThe air mephit can't use Breath Weapon again for 1d4 rounds."
+    desc: "`pf2:2` (air,arcane) The air mephit breathes sand and grit in a @Template[cone|distance:15] that deals 2d6 slashing damage to each creature within the area (DC 17 Reflex check save).\n\nThe air mephit can't use Breath Weapon again for 1d4 rounds."
  
+```
+
+```encounter-table
+name: Air Mephit
+creatures:
+  - 1: Air Mephit
 ```
 
 

@@ -6,6 +6,7 @@ tags:
   - magical
   - mechanical
   - trap
+  - pf2eHazard
   - complex
 source: Pathfinder #164: Hands of the Devil
 aliases: "Compendium.pf2e.abomination-vaults-bestiary.Actor.VsRKgjKolLsJMd0I" 
@@ -23,15 +24,15 @@ name: "Shuffling Scythe Blades"
 level: "Hazard 8"
 
 trait_06: "Complex"
-trait_01: "magical"
-trait_02: "mechanical"
-trait_03: "trap"
+trait_01: [[magical]]
+trait_02: [[mechanical]]
+trait_03: [[trap]]
 modifier: 18
 sourcebook: "_Pathfinder #164: Hands of the Devil_"
 ac: 27
 armorclass:
   - name: AC
-    desc: "27; __Fort__ +19, __Ref__ +13, __Will__ +0"
+    desc: "27; __Fort__ +19, __Ref__ +13, "
 hp: 30
 health:
   - name: ""
@@ -53,10 +54,10 @@ attacks:
   - name: ""
 
   - name: "Dicing Scythes"
-    desc: "`pf2:r` **Trigger** A creature steps in the 15-footby-25-foot area where the branching hallways connect\n**Effect** The trap uses Scythe Shuffle; each blade makes a scythe Strike against each creature in its region, then it uses Scythe Shuffle again. The trap then rolls for initiative."
+    desc: "`pf2:r` **Trigger** A creature steps in the 15-footby-25-foot area where the branching hallways connect\n* * *\n\n**Effect** The trap uses Scythe Shuffle; each blade makes a scythe Strike against each creature in its region, then it uses Scythe Shuffle again. The trap then rolls for initiative."
 
   - name: "Scythe Shuffle"
-    desc: "action The blades travel erratically throughout the hallway's branches, out of sight under the floors or behind the walls. For each blade, roll 1d4 to determine the region in which it next makes scythe Strikes. A creature can [[Actions/Seek|Seek]] (DC 22 Perception check) to learn clues about blades in the region they're currently occupying. On a success, the creature knows how many blades are currently in its region.\n1\. Main intersection (the 15-foot-by-25-foot area where the hallways connect, as marked on area **B20**)\n2\. North branch (from the main intersection to the secret door to area **B14**)\n3\. Central hall (from the main intersection to the secret door to area **B24**)\n4\. South branch (from the main intersection to the wall shared with area **B25**)"
+    desc: "action The blades travel erratically throughout the hallway's branches, out of sight under the floors or behind the walls. For each blade, roll 1d4 to determine the region in which it next makes scythe Strikes. A creature can [[Actions/Seek|Seek]] (DC 22 Perception check) to learn clues about blades in the region they're currently occupying. On a success, the creature knows how many blades are currently in its region.\n\n1. Main intersection (the 15-foot-by-25-foot area where the hallways connect, as marked on area **B20**)\n\n2. North branch (from the main intersection to the secret door to area **B14**)\n\n3. Central hall (from the main intersection to the secret door to area **B24**)\n\n4. South branch (from the main intersection to the wall shared with area **B25**)"
   - name: "Melee"
     desc: "Scythe +20 (deadly d12) No MAP applies to strikes made by scythe attacks"
 
@@ -67,5 +68,11 @@ attacks:
     desc: "(7 actions) The trap spends 1 action for each of its blades; a blade makes a scythe Strike against each creature in its region. With its final action, the trap uses Scythe Shuffle. Reduce the number of actions the trap can take by 1 for each destroyed blade."
   - name: "Reset"
     desc: "The trap resets when no creatures remain in area **B20**. Damaged or destroyed blades aren't repaired when the trap resets."
+```
+
+```encounter-table
+name: Shuffling Scythe Blades
+creatures:
+  - 1: Shuffling Scythe Blades
 ```
 

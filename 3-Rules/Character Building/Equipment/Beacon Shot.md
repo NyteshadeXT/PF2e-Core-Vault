@@ -13,7 +13,7 @@ license: ORC
 ---
 # Beacon Shot
 ## Item 3
-### [[consumable]][[magical]]
+### [[consumable]][[3-Rules/Rule References/Magical]]
 
 **Category** ammo; 
 **Price** 10 gp; 

@@ -26,5 +26,5 @@ license: OGL
 
 **Effect** Draw a harrow card, and you automatically lose the dying condition, though you remain [[Conditions/Unconscious|Unconscious]] at 0 Hit Points. If the card you drew was from the suit of Shields, you awaken and have an amount of Hit Points restored to you equal to 1d6 + your level.
 
-*Source: Pathfinder: Stolen Fate Player's Guide*
+*Source: Pathfinder Stolen Fate Player's Guide*
 *OGL*

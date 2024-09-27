@@ -11,6 +11,7 @@ tags:
   - pf2e/creature/type/spirit
   - pf2e/creature/type/undead
   - pf2e/creature/type/unholy
+  - pf2eMonster
   - pf2e/creature/level/5
 statblock: inline
 name: "Muse Phantom"
@@ -25,15 +26,15 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #152: Legacy of the Lost God"
 name: "Muse Phantom"
 level: "Creature 5"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Medium"
-trait_01: "chaotic"
-trait_02: "evil"
-trait_03: "incorporeal"
-trait_04: "spirit"
-trait_05: "undead"
-trait_06: "unholy"
+trait_01: [[chaotic]]
+trait_02: [[evil]]
+trait_03: [[incorporeal]]
+trait_04: [[spirit]]
+trait_05: [[undead]]
+trait_06: [[unholy]]
 modifier: 10
 perception:
   - name: "Perception"
@@ -60,7 +61,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Thespian Aura"
-    desc: " (aura,emotion,mental,occult) 30 feet. The muse phantom inspires a supernatural emotional response-either comedy or drama. Each creature that begins its turn in the aura must attempt a DC 20 Will check save; on a failure, the creature is affected as long as it remains within the aura. If the muse phantom is emitting a comedic aura, affected creatures become [[Conditions/Clumsy 1|Clumsy 1]]; if it is emitting a dramatic aura, affected creatures instead become [[Conditions/Stupefied 1|Stupefied 1]].\nThe muse phantom can change its aura from comedic to dramatic or vice-versa, or cease or activate this aura, by spending a single action, which has the concentrate trait. A creature possessed by a muse phantom is immune to this aura."
+    desc: " (aura,emotion,mental,occult) 30 feet. The muse phantom inspires a supernatural emotional response-either comedy or drama. Each creature that begins its turn in the aura must attempt a DC 20 Will check save; on a failure, the creature is affected as long as it remains within the aura. If the muse phantom is emitting a comedic aura, affected creatures become [[Conditions/Clumsy|Clumsy 1]]; if it is emitting a dramatic aura, affected creatures instead become [[Conditions/Stupefied|Stupefied 1]].\n\nThe muse phantom can change its aura from comedic to dramatic or vice-versa, or cease or activate this aura, by spending a single action, which has the concentrate trait. A creature possessed by a muse phantom is immune to this aura."
 
 attacks:
   - name: ""
@@ -75,11 +76,17 @@ attacks:
     desc: "DC 22, attack +14; __2nd __ (1 slots) _[[Spells/Laughing Fit|Hideous Laughter]]_, _[[Spells/Invisibility|Invisibility (At-Will) (Self Only)]]_; __1st __ (3 slots) _[[Spells/Charm|Charm]]_, _[[Spells/Fear|Fear]]_, _[[Spells/Mindlink|Mindlink]]_\n__Cantrips__  __(2nd)__ _[[Spells/Ghost Sound|Ghost Sound]]_, _[[Spells/Telekinetic Projectile|Telekinetic Projectile]]_"
 
   - name: "Grand Finale"
-    desc: "`pf2:3` (mental,occult) **Requirements** The muse phantom's thespian aura is active\n**Effect** The muse ceases its thespian aura and deals 4d8 mental damage to creatures in a 30-foot burst, including the creature it is possessing, if any (DC 22 Will check save). Creatures that fail their Will saves are [[Conditions/Fascinated|Fascinated]] by the muse phantom for 1 minute.\nThe muse phantom can't use Grand Finale again for 1d4 rounds."
+    desc: "`pf2:3` (mental,occult) **Requirements** The muse phantom's thespian aura is active\n* * *\n\n**Effect** The muse ceases its thespian aura and deals 4d8 mental damage to creatures in a @Template[burst|distance:30], including the creature it is possessing, if any (DC 22 Will check save). Creatures that fail their Will saves are [[Conditions/Fascinated|Fascinated]] by the muse phantom for 1 minute.\n\nThe muse phantom can't use Grand Finale again for 1d4 rounds."
 
   - name: "Muse Possession"
     desc: "`pf2:2`  The phantom muse attempts to possess an adjacent corporeal creature. This has the same effect as the [[Spells/Possession|Possession]] spell (DC 20 Will check), except the duration is 1d4 hours, and since the phantom muse doesn't have a physical body, it is unaffected by that restriction of the spell. If the target is at least trained in Performance, the DC of this ability is DC 24 Will check."
  
+```
+
+```encounter-table
+name: Muse Phantom
+creatures:
+  - 1: Muse Phantom
 ```
 
 

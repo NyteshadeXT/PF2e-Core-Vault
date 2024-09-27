@@ -6,8 +6,9 @@ tags:
   - trait/alchemist
   - trait/common
   - category/class
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.m2pHkmyGvkwqfSSN"
-license: OGL
+license: ORC
 ---
 # Miracle Worker
 ## Feat 18
@@ -22,7 +23,7 @@ license: OGL
 
 * * *
 
-Your alchemical mastery can resuscitate the recently slain. You can administer a [[Equipment/Elixir of Life (True)|True Elixir of Life]] to a creature who has been dead for no more than 2 rounds. When you do, that creature is immediately returned to life with 1 Hit Point and becomes wounded 1.
+Your alchemical mastery can resuscitate the recently slain. You can administer a major or true elixir of life to a creature who has been dead for no more than 2 rounds. When you do, that creature is immediately returned to life with 1 Hit Point and becomes [[Conditions/Wounded|Wounded 1]].
 
-*Source: Pathfinder Core Rulebook*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

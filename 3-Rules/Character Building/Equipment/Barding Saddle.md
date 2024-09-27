@@ -7,17 +7,18 @@ tags:
   - trait/invested
   - trait/magical
   - trait/uncommon
+  - category/heavy-barding
 aliases: "Compendium.pf2e.equipment-srd.Item.oqqHMA3eHBwJ2BlB"
 license: OGL
 ---
 # Barding Saddle
 ## Item 7
-### [uncommon](uncommon "Uncommon Rarity Trait")[[companion]][[invested]][[magical]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[companion]][[invested]][[3-Rules/Rule References/Magical]]
 
-
+**Category** heavy-barding; 
 **Price** 330 gp; 
 **Bulk** 4; **Size** med
-**Usage** wornsaddle
+**Usage** wornarmor
 
 This saddle is covered with well-polished metal plates on the outside and adjusts itself to fit any mount.
 

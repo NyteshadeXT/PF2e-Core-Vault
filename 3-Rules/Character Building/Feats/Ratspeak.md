@@ -6,8 +6,9 @@ tags:
   - trait/ratfolk
   - trait/common
   - category/ancestry
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.VDiMapgJoFI3CCol"
-license: OGL
+license: ORC
 ---
 # Ratspeak
 ## Feat 1
@@ -18,9 +19,7 @@ license: OGL
 
 
 
-To you, the squeaking of rats and other rodents makes a strange kind of sense.
-
 You can ask questions of, receive answers from, and use the Diplomacy skill with rodents, including beavers, mice, porcupines, rats, and squirrels, but not with other mammals, such as dogs or bats. The GM determines which animals count as rodents.
 
-*Source: Pathfinder Advanced Player's Guide*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

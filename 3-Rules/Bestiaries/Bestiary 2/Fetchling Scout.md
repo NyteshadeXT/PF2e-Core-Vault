@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/fetchling
   - pf2e/creature/type/humanoid
   - pf2e/creature/type/shadow
+  - pf2eMonster
   - pf2e/creature/level/1
 statblock: inline
 name: "Fetchling Scout"
@@ -26,9 +27,9 @@ level: "Creature 1"
 
 alignment: ""
 size: "Medium"
-trait_01: "fetchling"
-trait_02: "humanoid"
-trait_03: "shadow"
+trait_01: [[fetchling]]
+trait_02: [[humanoid]]
+trait_03: [[shadow]]
 modifier: 5
 perception:
   - name: "Perception"
@@ -71,11 +72,17 @@ attacks:
     desc: "DC 15, attack +5; __1st __  _[[Spells/Illusory Disguise|Illusory Disguise]]_"
 
   - name: "Shadow Stride"
-    desc: "`pf2:1` (illusion,occult,shadow) **Requirements** The fetchling is in dim light\n**Effect** The fetchling Strides. They have a +10-foot status bonus to their Speed during this Stride. The DC from shadow blending increases to 11 during this Stride, and the fetchling remains [[Conditions/Concealed|Concealed]] by dim light until the end of the movement, even if they leave dim light during the Stride."
+    desc: "`pf2:1` (illusion,occult,shadow) **Requirements** The fetchling is in dim light\n* * *\n\n**Effect** The fetchling Strides. They have a +10-foot status bonus to their Speed during this Stride. The DC from shadow blending increases to 11 during this Stride, and the fetchling remains [[Conditions/Concealed|Concealed]] by dim light until the end of the movement, even if they leave dim light during the Stride."
 
   - name: "[[Bestiary Ability Glossary/Sneak Attack|Sneak Attack]]"
     desc: "  The fetchling scout's Strikes deal an additional 1d6 precision damage to [[Conditions/Off-Guard|Off-Guard]] creatures."
  
+```
+
+```encounter-table
+name: Fetchling Scout
+creatures:
+  - 1: Fetchling Scout
 ```
 
 

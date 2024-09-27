@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/fey
   - pf2e/creature/type/gremlin
+  - pf2eMonster
   - pf2e/creature/level/-1
 statblock: inline
 name: "Very Drunken Jinkin"
@@ -23,13 +24,13 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #196: The Summer That Never Was"
 name: "Very Drunken Jinkin"
 level: "Creature -1"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "tiny"
-trait_01: "chaotic"
-trait_02: "evil"
-trait_03: "fey"
-trait_04: "gremlin"
+trait_01: [[chaotic]]
+trait_02: [[evil]]
+trait_03: [[fey]]
+trait_04: [[gremlin]]
 modifier: 0
 perception:
   - name: "Perception"
@@ -37,7 +38,7 @@ perception:
 languages: "Common"
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +2, Crafting: +0 (+2 traps), Deception: +2, Nature: +2, Stealth: +2, Thievery: +2"
+    desc: "Acrobatics: +2, Crafting: +0, Deception: +2, Nature: +2, Stealth: +2, Thievery: +2"
 abilityMods: [-2, 0, 0, -2, 0, 0]
 speed: 20 feet
 sourcebook: "_Pathfinder #196: The Summer That Never Was_"
@@ -71,6 +72,12 @@ attacks:
   - name: "Primal Innate Spells"
     desc: "DC 13, attack +5\n__Cantrips__  __(1st)__ _[[Spells/Prestidigitation|Prestidigitation]]_"
  
+```
+
+```encounter-table
+name: Very Drunken Jinkin
+creatures:
+  - 1: Very Drunken Jinkin
 ```
 
 

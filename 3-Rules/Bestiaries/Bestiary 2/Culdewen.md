@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/chaotic
   - pf2e/creature/type/evil
   - pf2e/creature/type/fey
+  - pf2eMonster
   - pf2e/creature/level/7
 statblock: inline
 name: "Culdewen"
@@ -24,13 +25,13 @@ token: [[modules/pf2e-tokens-bestiaries/portraits/fey/culdewen.webp| ]]
 source: "Pathfinder Bestiary 2"
 name: "Culdewen"
 level: "Creature 7"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Small"
-trait_01: "amphibious"
-trait_02: "chaotic"
-trait_03: "evil"
-trait_04: "fey"
+trait_01: [[amphibious]]
+trait_02: [[chaotic]]
+trait_03: [[evil]]
+trait_04: [[fey]]
 modifier: 15
 perception:
   - name: "Perception"
@@ -38,7 +39,7 @@ perception:
 languages: "Common, Fey, Thalassic"
 skills:
   - name: "Skills"
-    desc: "Athletics: +16, Deception: +16, Intimidation: +14, Nature: +12, Sailing Lore: +14, Stealth: +15, Survival: +16"
+    desc: "Athletics: +16, Deception: +16, Intimidation: +14, Nature: +12, Stealth: +15, Survival: +16, Sailing Lore: +14"
 abilityMods: [4, 5, 1, -1, 2, 4]
 speed: 40 feet,  swim 40 feet
 sourcebook: "_Pathfinder Bestiary 2_"
@@ -76,7 +77,7 @@ attacks:
     desc: "  A creature struck by the culdewen's fish hook is skewered, taking 1d4 bleed as long as the hook remains stuck in it. The fish hook can be removed if a creature [[Actions/Escape|Escapes]] (DC 25 Athletics check), pulling it free."
 
   - name: "Land the Fish"
-    desc: "`pf2:1`  **Requirements** A creature is hooked by the culdewen's fish hook and adjacent to the culdewen\n**Effect** The culdewen hoists the creature over their shoulder, as though it weighs no more than a fish. Unless the creature is unable to act, the culdewen must attempt an Athletics check check against the creature's Fortitude DC. On a success, the creature is [[Conditions/Restrained|Restrained]] by the culdewen. [[Actions/Escape|Escaping]] from the restrained condition (DC 25) also allows a creature to remove the hook.\nWhile hoisting a creature, the culdewen gains a +20-foot status bonus to their Speeds and is compelled to escape with it (see culdewen's curse above)."
+    desc: "`pf2:1`  **Requirements** A creature is hooked by the culdewen's fish hook and adjacent to the culdewen\n* * *\n\n**Effect** The culdewen hoists the creature over their shoulder, as though it weighs no more than a fish. Unless the creature is unable to act, the culdewen must attempt an Athletics check check against the creature's Fortitude DC. On a success, the creature is [[Conditions/Restrained|Restrained]] by the culdewen. [[Actions/Escape|Escaping]] from the restrained condition (DC 25) also allows a creature to remove the hook.\n\nWhile hoisting a creature, the culdewen gains a +20-foot status bonus to their Speeds and is compelled to escape with it (see culdewen's curse above)."
 
   - name: "Reel In"
     desc: "`pf2:1` (manipulate) The culdewen pulls the rope attached to their hook. If they have no creature hooked, the fish hook returns to the culdewen's hand. If a creature is hooked, the culdewen attempts an Athletics check check against the creature's Fortitude DC, pulling it up to 30 feet closer on a success (60 feet on a critical success)."
@@ -84,6 +85,12 @@ attacks:
   - name: "Swear"
     desc: "`pf2:1` (auditory,curse,primal) The culdewen unleashes a string of invectives. Each creature that hears them must attempt a DC 25 Will check save, with the effects of [[Spells/Mariner's Curse|Mariner's Curse]] and is then temporarily immune for 24 hours. Even on a failed save, the curse ends automatically after 1 day."
  
+```
+
+```encounter-table
+name: Culdewen
+creatures:
+  - 1: Culdewen
 ```
 
 

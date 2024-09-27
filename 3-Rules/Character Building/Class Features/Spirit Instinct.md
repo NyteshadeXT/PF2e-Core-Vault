@@ -6,12 +6,13 @@ tags:
   - trait/barbarian
   - trait/common
   - category/classfeature
+  - remaster
 aliases: "Compendium.pf2e.classfeatures.Item.TQqv9Q5mB4PW6LH9"
-license: OGL
+license: ORC
 ---
 # Spirit Instinct
 ## Feat 1
-### [[barbarian]]
+### [[3-Rules/trait_reference/barbarian]]
 
 **Category** classfeature; 
 
@@ -20,21 +21,11 @@ license: OGL
 
 Whether you are emotionally sensitive to the spirits around you; worship ancestors or apparitions; or are haunted by the specter of an ancestor, relative, friend, or foe, your rage takes the form of a spiritual possession.
 
-## Anathema
+**Instinct Ability—Spirit Rage** While raging, you can increase the additional damage from Rage from 2 to 3 and change its damage type to spirit, instead of the damage type for your weapon or unarmed attack (choose each time you Rage). If you choose to deal spirit damage, your weapon or unarmed attack gains the effects of the [[Equipment/Ghost Touch|Ghost Touch]] property rune, which makes it more effective against incorporeal creatures, and your [[Actions/Rage|Rage ]]action gains the divine and spirit traits.
 
-Disrespecting corpses or spirits is anathema to your instinct; defending yourself against undead creatures is not.
+**Specialization Ability (7th)** When using spirit rage, increase the damage from Rage from 3 to 7. If you have greater weapon specialization, instead increase the damage when using spirit rage to 13.
 
-## Spirit Rage (Instinct Ability)
+**Raging Resistance (9th)** You resist void damage, as well as damage dealt by the attacks and abilities of undead creatures, regardless of the damage type.
 
-When raging, you can increase the additional damage from Rage from 2 to 3 and change its damage type to vitality or void, instead of the damage type for your weapon or unarmed attack (choose each time you Rage). If you choose to deal vitality or void damage, your weapon or unarmed attack gains the effects of the ghost touch property rune, which makes it more effective against incorporeal creatures, and your Rage action gains the divine and necromancy traits, plus vitality or void, as appropriate.
-
-## Specialization AbilityLevel 7
-
-When using spirit rage, increase the damage from Rage from 3 to 7. If you have greater weapon specialization, instead increase the damage when using spirit rage to 13.
-
-## Raging ResistanceLevel 9
-
-You resist void damage, as well as damage dealt by the attacks and abilities of undead creatures, regardless of the damage type.
-
-*Source: Pathfinder Core Rulebook*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

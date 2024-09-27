@@ -13,7 +13,7 @@ license: OGL
 ---
 # Breath Weapon (Fire) (Line) `pf2:2`
 
-### [[arcane]][[eidolon]][[3-Rules/Rule References/Fire]]
+### [[3-Rules/Rule References/Arcane]][[eidolon]][[3-Rules/Rule References/Fire]]
 
 **Category** offensive; 
 

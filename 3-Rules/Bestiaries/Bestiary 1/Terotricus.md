@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/fungus
   - pf2e/creature/type/unholy
+  - pf2eMonster
   - pf2e/creature/level/19
 statblock: inline
 name: "Terotricus"
@@ -24,13 +25,13 @@ token: [[modules/pf2e-tokens-bestiaries/portraits/plant/fungal/terotricus.webp| 
 source: "Pathfinder Bestiary"
 name: "Terotricus"
 level: "Creature 19"
-rare_03: "Rare"
+rare_03: [[Rare]]
 alignment: ""
 size: "grg"
-trait_01: "chaotic"
-trait_02: "evil"
-trait_03: "fungus"
-trait_04: "unholy"
+trait_01: [[chaotic]]
+trait_02: [[evil]]
+trait_03: [[fungus]]
+trait_04: [[unholy]]
 modifier: 31
 perception:
   - name: "Perception"
@@ -63,20 +64,26 @@ attacks:
   - name: ""
 
   - name: "Melee"
-    desc: "`pf2:1` Tentacle +37 (magical, reach 20 feet, unholy)\n__Damage__  4d10 + 16 bludgeoning plus improved-grab,improved-push 2d6 spirit plus improved-grab,improved-push 2d6 spirit plus improved-grab,improved-push"
+    desc: "`pf2:1` Tentacle +37 (magical, reach 20 feet, unholy)\n__Damage__  4d10 + 16 bludgeoning plus improved-grab,improved-push 4d6 spirit plus improved-grab,improved-push"
 
   - name: "Ranged"
-    desc: "`pf2:1` Spores +37 (magical, range increment 80 feet, unholy)\n__Damage__  4d8 + 6 poison plus spore-blight,sticky-spores 2d6 spirit plus spore-blight,sticky-spores 2d6 spirit plus spore-blight,sticky-spores"
+    desc: "`pf2:1` Spores +37 (magical, range increment 80 feet, unholy)\n__Damage__  4d8 + 6 poison plus spore-blight,sticky-spores 4d6 spirit plus spore-blight,sticky-spores"
 
   - name: "Infest Environs"
-    desc: "`pf2:2` (healing,primal) **Frequency** once per day\n**Requirements** The terotricus is in a swamp or forested area.\n**Effect** The terotricus drains nutrients from nearby trees and undergrowth while simultaneously infesting them with fungal growth. All non-magical plant life (though not plant creatures) within a 60-foot emanation withers and sprouts foul mold and slimy mushrooms, removing any cover and concealment provided by trees and undergrowth. The terotricus is healed 200 Hit Points."
+    desc: "`pf2:2` (healing,primal) **Frequency** once per day\n\n**Requirements** The terotricus is in a swamp or forested area.\n* * *\n\n**Effect** The terotricus drains nutrients from nearby trees and undergrowth while simultaneously infesting them with fungal growth. All non-magical plant life (though not plant creatures) within a @Template[emanation|distance:60] withers and sprouts foul mold and slimy mushrooms, removing any cover and concealment provided by trees and undergrowth. The terotricus is healed 200 Hit Points."
 
   - name: "Spore Blight"
-    desc: " (disease) Plants and fungi are immune.\n**Saving Throw** DC 40 Fortitude check\n**Stage 1** [[Conditions/Enfeebled 1|Enfeebled 2]] (1 day)\n**Stage 2** [[Conditions/Enfeebled 1|Enfeebled4]] and [[Conditions/Slowed 1|Slowed 1]] (1 day)\n**Stage 3** [[Conditions/Controlled|Controlled]] by the terotricus (as [[Spells/Dominate|Dominate]]; 5d8 days)\n**Stage 4** dead"
+    desc: " (disease) Plants and fungi are immune.\n\n**Saving Throw** DC 40 Fortitude check\n* * *\n\n**Stage 1** [[Conditions/Enfeebled|Enfeebled 2]] (1 day)\n\n**Stage 2** [[Conditions/Enfeebled|Enfeebled 4]] and [[Conditions/Slowed|Slowed 1]] (1 day)\n\n**Stage 3** [[Conditions/Controlled|Controlled]] by the terotricus (as [[Spells/Dominate|Dominate]]; 5d8 days)\n\n**Stage 4** dead"
 
   - name: "Sticky Spores"
-    desc: "  A creature hit by a terotricus's spores must succeed at a DC 40 Reflex check save or take a -10-foot status penalty to all its Speeds for 1 minute. On a critical failure, the creature is [[Conditions/Immobilized|Immobilized]] until it Escapes (DC 40).\n[[Bestiary Effects/Effect_ Sticky Spores|Effect: Sticky Spores]]"
+    desc: "  A creature hit by a terotricus's spores must succeed at a DC 40 Reflex check save or take a -10-foot status penalty to all its Speeds for 1 minute. On a critical failure, the creature is [[Conditions/Immobilized|Immobilized]] until it Escapes (DC 40).\n\n[[Bestiary Effects/Effect_ Sticky Spores|Effect: Sticky Spores]]"
  
+```
+
+```encounter-table
+name: Terotricus
+creatures:
+  - 1: Terotricus
 ```
 
 

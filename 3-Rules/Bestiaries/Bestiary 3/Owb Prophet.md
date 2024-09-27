@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.pathfinder-bestiary-3.Actor.ZOrG61DZ9aiv8poK"
 tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/shadow
+  - pf2eMonster
   - pf2e/creature/level/13
 statblock: inline
 name: "Owb Prophet"
@@ -22,16 +23,16 @@ token: [[modules/pf2e-tokens-bestiaries/portraits/planar/shadow/owb-prophet.webp
 source: "Pathfinder Bestiary 3"
 name: "Owb Prophet"
 level: "Creature 13"
-rare_03: "Rare"
+rare_03: [[Rare]]
 alignment: ""
 size: "Large"
-trait_01: "evil"
-trait_02: "shadow"
+trait_01: [[evil]]
+trait_02: [[shadow]]
 modifier: 24
 perception:
   - name: "Perception"
     desc: "+24; Greater Darkvision"
-languages: "Aklo, Caligni, Common, Sakvroth"
+languages: "Aklo, Caligni, Common, Sakvroth; (can&#x27;t speak any language), telepathy 100 feet"
 skills:
   - name: "Skills"
     desc: "Acrobatics: +25, Deception: +26, Diplomacy: +24, Occultism: +23, Religion: +25, Stealth: +25"
@@ -51,7 +52,7 @@ abilities_top:
   - name: ""
 
   - name: "Forsaken Patron"
-    desc: "  Each owb prophet serves as a conduit to one of the shadowy demigods known as the Forsaken. Forsaken patrons are detailed below, and each grants the owb prophet additional abilities.\nEach owb prophet gains its power through a connection with a Forsaken patron. The patron grants the owb additional spells and has its own religious symbol and favored weapons. Each entry notes any ability or occult innate spell the Forsaken grants to its prophets, plus its favored weapon.\n**Enkaar, the Malformed Prisoner** This mutilated horror is the Forsaken patron of fetters, lethargy, and physical corruption.\n*   **Spell** [[Spells/Phantom Pain|Phantom Pain]] (4th, at will);\n*   **Favored Weapon** spiked chain\n**Eyes That Watch** This strange trio of feline eyes is the Forsaken patron of inferiority, cats, and strangers.\n*   **Ability** [[Bestiary Ability Glossary/Lifesense|Lifesense]] 120 feet\n*   **Favored Weapon** dagger\n**Grasping Iovett** A beautiful form of indescribable variety, Iovett is the Forsaken patron of accidents, parasites, and reckless lust.\n*   **Spell** [[Spells/Charm|Charm]](4th, at will);\n*   **Favored Weapon** shortsword\n**Husk** This androgynous creature is the Forsaken patron of emptiness, loneliness, and narcissism.\n*   **Spell** [[Spells/Silence|Silence]](4th, at will);\n*   **Favored Weapon** shortsword\n**Lady Razor** This stern magistrate forbids showing kindness or mercy to family members. Lady Razor is the Forsaken patron of family strife, suspicion, and vengeance.\n*   **Spell** [[Spells/Weapon Storm|Weapon Storm]] (4th, at will);\n*   **Favored Weapon** dagger\n**Reshmit of the Heavy Voice** Taking the form of a massive shadow, Reshmit is the Forsaken patron of broken things, forgetting, and unexpected violence.\n*   **Spell** [[Spells/Rewrite Memory|Rewrite Memory]] (4th, at will);\n*   **Favored Weapon** morningstar\n**Thalaphyrr Martyr-Minder** The Forsaken patron of failed heroics, imprisonment, and squandered time.\n*   **Spell** [[Spells/Slow|Slow]] (4th, at will);\n*   **Favored Weapon** spear"
+    desc: "  Each owb prophet serves as a conduit to one of the shadowy demigods known as the Forsaken. Forsaken patrons are detailed below, and each grants the owb prophet additional abilities.\n* * *\n\nEach owb prophet gains its power through a connection with a Forsaken patron. The patron grants the owb additional spells and has its own religious symbol and favored weapons. Each entry notes any ability or occult innate spell the Forsaken grants to its prophets, plus its favored weapon.\n\n**Enkaar, the Malformed Prisoner** This mutilated horror is the Forsaken patron of fetters, lethargy, and physical corruption.\n\n*   **Spell** [[Spells/Phantom Pain|Phantom Pain]] (4th, at will);\n*   **Favored Weapon** spiked chain\n\n**Eyes That Watch** This strange trio of feline eyes is the Forsaken patron of inferiority, cats, and strangers.\n\n*   **Ability** [[Bestiary Ability Glossary/Lifesense|Lifesense]] 120 feet\n*   **Favored Weapon** dagger\n\n**Grasping Iovett** A beautiful form of indescribable variety, Iovett is the Forsaken patron of accidents, parasites, and reckless lust.\n\n*   **Spell** [[Spells/Charm|Charm]] (4th, at will);\n*   **Favored Weapon** shortsword\n\n**Husk** This androgynous creature is the Forsaken patron of emptiness, loneliness, and narcissism.\n\n*   **Spell** [[Spells/Silence|Silence]] (4th, at will);\n*   **Favored Weapon** shortsword\n\n**Lady Razor** This stern magistrate forbids showing kindness or mercy to family members. Lady Razor is the Forsaken patron of family strife, suspicion, and vengeance.\n\n*   **Spell** [[Spells/Weapon Storm|Weapon Storm]] (4th, at will);\n*   **Favored Weapon** dagger\n\n**Reshmit of the Heavy Voice** Taking the form of a massive shadow, Reshmit is the Forsaken patron of broken things, forgetting, and unexpected violence.\n\n*   **Spell** [[Spells/Rewrite Memory|Rewrite Memory]] (4th, at will);\n*   **Favored Weapon** morningstar\n\n**Thalaphyrr Martyr-Minder** The Forsaken patron of failed heroics, imprisonment, and squandered time.\n\n*   **Spell** [[Spells/Slow|Slow]] (4th, at will);\n*   **Favored Weapon** spear"
 
 abilities_mid:
   - name: ""
@@ -74,11 +75,17 @@ attacks:
     desc: "  A creature hit by the prophet's burning cold Strike becomes [[Conditions/Immobilized|Immobilized]] in a cluster of binding ice crystals ([[Actions/Escape|Escape]] DC 31)."
 
   - name: "Curse of Darkness"
-    desc: "`pf2:1`  The owb inflicts a curse on one creature taking persistent cold damage from their burning cold Strike, stealing the victim's vibrancy. The creature must attempt a DC 32 Fortitude check save.\nOn a failure, the creature gains [[Bestiary Ability Glossary/Light Blindness|Light Blindness]] and its coloration turns to washed out shades of gray, along with all equipment it carries, wields, or wears. These effects have an unlimited duration. Regardless of the result of its save, the creature is temporarily immune for 1 minute.\nIf the owb uses this ability on a caligni, the curse can't be removed short of [[Spells/Wish|Wish]] or similar powerful magic."
+    desc: "`pf2:1`  The owb inflicts a curse on one creature taking persistent cold damage from their burning cold Strike, stealing the victim's vibrancy. The creature must attempt a DC 32 Fortitude check save.\n\nOn a failure, the creature gains [[Bestiary Ability Glossary/Light Blindness|Light Blindness]] and its coloration turns to washed out shades of gray, along with all equipment it carries, wields, or wears. These effects have an unlimited duration. Regardless of the result of its save, the creature is temporarily immune for 1 minute.\n\nIf the owb uses this ability on a caligni, the curse can't be removed short of [[Spells/Wish|Wish]] or similar powerful magic."
 
   - name: "Shadow's Swiftness"
     desc: "  An owb prophet can Cast [[Spells/Umbral Journey|Umbral Journey]] as a 3-action activity instead of 1 minute. If they do so, they target only themself."
  
+```
+
+```encounter-table
+name: Owb Prophet
+creatures:
+  - 1: Owb Prophet
 ```
 
 

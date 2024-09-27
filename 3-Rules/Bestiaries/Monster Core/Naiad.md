@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/fey
   - pf2e/creature/type/nymph
   - pf2e/creature/type/water
+  - pf2eMonster
   - pf2e/creature/level/1
   - remaster
 statblock: inline
@@ -28,10 +29,10 @@ level: "Creature 1"
 
 alignment: ""
 size: "Medium"
-trait_01: "amphibious"
-trait_02: "fey"
-trait_03: "nymph"
-trait_04: "water"
+trait_01: [[amphibious]]
+trait_02: [[fey]]
+trait_03: [[nymph]]
+trait_04: [[water]]
 modifier: 6
 perception:
   - name: "Perception"
@@ -78,6 +79,12 @@ attacks:
   - name: "Water Healing"
     desc: " (healing,primal,vitality) For every 10 minutes a naiad spends soaking in her bonded body of water, she regains 7 Hit Points."
  
+```
+
+```encounter-table
+name: Naiad
+creatures:
+  - 1: Naiad
 ```
 
 

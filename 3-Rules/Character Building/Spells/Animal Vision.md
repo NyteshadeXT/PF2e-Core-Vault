@@ -4,23 +4,44 @@ title: "Animal Vision"
 noteType: pf2eSpell
 cssclasses: pf2e,pf2e-spell
 tags:
+  - pf2eSpell
   - spell/level/3
   - trait/concentrate
   - trait/exploration
   - trait/manipulate
   - trait/mental
   - trait/common
-aliases: "Compendium.pf2e.spells-srd.Item.1HfusQ8NDWutGvMx" 
----
-# Animal Vision   
-## Spell 3
-### [[concentrate]][[exploration]][[manipulate]][[mental]]
-**Traditions** [[primal]]
-**Cast** 1 minute**Range** 120 feet
-**Targets** 1 animal
-**Duration** 1 hour
-* * * 
-You tap into the target's senses, allowing you to see, hear, and otherwise sense whatever it senses for the spell's duration. If the target wishes to prevent you from doing so, it can attempt a Will save, negating the spell on a success, but most animals don't bother to do so. While tapping into the target's senses, you can't use your own body's senses, but you can change back and forth from your body's senses to the target's senses using a single action, which has the concentrate trait.
+  - tradition/primal
 
-*Source: Pathfinder Core Rulebook*
-*OGL*
+  - remaster
+aliases: "Compendium.pf2e.spells-srd.Item.1HfusQ8NDWutGvMx" 
+license: ORC
+---
+```statblock
+name: "Animal Vision "
+level: "Spell 3"
+
+trait_01: [[concentrate]]
+trait_02: [[exploration]]
+trait_03: [[manipulate]]
+trait_04: [[mental]]
+layout: Basic Pathfinder 2e Layout
+columns: 1
+columnWidth: x
+abilities_top:
+  - name: ""
+  - name: "Traditions"
+    desc: "primal"
+  - name: "Cast"
+    desc: "1 minute"
+  - name: "Range"
+    desc: "120 feet; **Targets** 1 animal"
+  - name: "Defense"
+    desc: " will"
+  - name: "Duration"
+    desc: "1 hour"
+abilities_mid:
+  - name: ""
+    desc: "You tap into the target's senses, allowing you to sense whatever it senses for the spell's duration. If the target wishes to prevent you from doing so, it can attempt a Will save, negating the spell on a success, but most animals don't bother to do so. While tapping into the target's senses, you can't use your own body's senses, but you can change back and forth from your body's senses to the target's senses using a Sustain action."
+sourcebook: "_Pathfinder Player Core 2_"
+```

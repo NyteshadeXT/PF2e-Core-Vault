@@ -35,7 +35,7 @@ This _+2 striking longbow_ is carefully handcrafted from a length of flexible gr
 
 **Frequency** once per day
 
-**Effect** You shoot an arrow thrumming with the song of the bow. Make a Strike with the bow that deals damage as normal. As long as the Strike isn't a critical failure, the arrow explodes in a 20-foot emanation around your target, dealing 5d10 sonic damage to creatures in the area, including the target, with a DC 28 Fortitude check. Any creature that critically fails is [[Conditions/Deafened|Deafened]] for 1 minute. If any creature in the area is [[Conditions/Undetected|Undetected]] or [[Conditions/Unnoticed|Unnoticed]] by you, you learn its location, making it [[Conditions/Hidden|Hidden]] to you instead.
+**Effect** You shoot an arrow thrumming with the song of the bow. Make a Strike with the bow that deals damage as normal. As long as the Strike isn't a critical failure, the arrow explodes in a @Template\[emanation|distance:20\] around your target, dealing 5d10 sonic damage to creatures in the area, including the target, with a DC 28 Fortitude check. Any creature that critically fails is [[Conditions/Deafened|Deafened]] for 1 minute. If any creature in the area is [[Conditions/Undetected|Undetected]] or [[Conditions/Unnoticed|Unnoticed]] by you, you learn its location, making it [[Conditions/Hidden|Hidden]] to you instead.
 
 *Source: Pathfinder GM Core*
 *ORC*

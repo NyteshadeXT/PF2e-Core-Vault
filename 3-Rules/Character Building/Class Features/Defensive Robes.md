@@ -15,7 +15,7 @@ license: ORC
 ---
 # Defensive Robes
 ## Feat 13
-### [[sorcerer]][[summoner]][[witch]][[wizard]]
+### [[3-Rules/trait_reference/sorcerer]][[summoner]][[witch]][[3-Rules/trait_reference/wizard]]
 
 **Category** classfeature; 
 

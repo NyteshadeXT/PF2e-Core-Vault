@@ -6,6 +6,7 @@ cssClasses: pf2e
 aliases: "Compendium.pf2e.quest-for-the-frozen-flame-bestiary.Actor.UFKiRCIj9ETec46r" 
 tags:
   - pf2e/creature/type/animal
+  - pf2eMonster
   - pf2e/creature/level/-1
 statblock: inline
 name: "Beaver"
@@ -23,11 +24,12 @@ level: "Creature -1"
 
 alignment: ""
 size: "Small"
-trait_01: "animal"
+trait_01: [[animal]]
 modifier: 6
 perception:
   - name: "Perception"
     desc: "+6; Low-Light Vision, Scent (Imprecise) 30 Feet"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Athletics: +3, Crafting: +2, Survival: +4"
@@ -66,6 +68,12 @@ attacks:
   - name: "Prop"
     desc: "`pf2:1`  The beaver stabilizes itself with its tail, gaining a +1 circumstance bonus to its Fortitude and Reflex DCs against Shove and Trip attempts until it next takes an action with the move trait."
  
+```
+
+```encounter-table
+name: Beaver
+creatures:
+  - 1: Beaver
 ```
 
 

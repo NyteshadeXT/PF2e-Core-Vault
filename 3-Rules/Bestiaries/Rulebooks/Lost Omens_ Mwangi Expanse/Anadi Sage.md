@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/chaotic
   - pf2e/creature/type/good
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/4
 statblock: inline
 name: "Anadi Sage"
@@ -23,13 +24,13 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Lost Omens: The Mwangi Expanse"
 name: "Anadi Sage"
 level: "Creature 4"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Medium"
-trait_01: "anadi"
-trait_02: "chaotic"
-trait_03: "good"
-trait_04: "humanoid"
+trait_01: [[anadi]]
+trait_02: [[chaotic]]
+trait_03: [[good]]
+trait_04: [[humanoid]]
 modifier: 12
 perception:
   - name: "Perception"
@@ -37,7 +38,7 @@ perception:
 languages: "Anadi, Mwangi"
 skills:
   - name: "Skills"
-    desc: "Athletics: +12 (+14 to Climb in hybrid or spider form), Crafting: +10 (+14 to weaving), Deception: +8, Diplomacy: +10, Nature: +12, Survival: +10"
+    desc: "Athletics: +12, Crafting: +10, Deception: +8, Diplomacy: +10, Nature: +12, Survival: +10"
 abilityMods: [0, 2, 0, 1, 4, 2]
 speed: 25 feet,  climb 25 feet
 sourcebook: "_Pathfinder Lost Omens: The Mwangi Expanse_"
@@ -69,14 +70,20 @@ attacks:
     desc: "DC 21, attack +13; __2nd __  _[[Spells/Blur|Blur]]_, _[[Spells/Illusory Creature|Illusory Creature]]_; __1st __  _[[Spells/Dizzying Colors|Color Spray]]_, _[[Spells/Illusory Disguise|Illusory Disguise]]_, _[[Spells/Illusory Object|Illusory Object]]_\n__Cantrips__  __(2nd)__ _[[Spells/Detect Magic|Detect Magic]]_, _[[Spells/Ghost Sound|Ghost Sound]]_, _[[Spells/Telekinetic Hand|Mage Hand]]_, _[[Spells/Message|Message]]_"
 
   - name: "Anadi Venom"
-    desc: " (poison) **Saving Throw** DC 19 Fortitude check\n**Maximum Duration** 4 rounds\n**Stage 1** 1d6 poison damage and [[Conditions/Off-Guard|Off-Guard]] (1 round)\n**Stage 2** 1d6 poison damage, off-guard, and [[Conditions/Clumsy 1|Clumsy 1]] (1 round)"
+    desc: " (poison) **Saving Throw** DC 19 Fortitude check\n\n**Maximum Duration** 4 rounds\n\n**Stage 1** 1d6 poison damage and [[Conditions/Off-Guard|Off-Guard]] (1 round)\n\n**Stage 2** 1d6 poison damage, off-guard, and [[Conditions/Clumsy|Clumsy 1]] (1 round)"
 
   - name: "[[Bestiary Ability Glossary/Change Shape|Change Shape]]"
-    desc: "`pf2:1` (arcane,concentrate,polymorph) The anadi changes into their hybrid form, spider form, or human form. The above statistics assume the anadi is in their hybrid form. While in their human form, the anadi sage can't use their fangs attack and loses their climb Speed. When in spider form, they can't use weapons.\n"
+    desc: "`pf2:1` (arcane,concentrate,polymorph) The anadi changes into their hybrid form, spider form, or human form. The above statistics assume the anadi is in their hybrid form. While in their human form, the anadi sage can't use their fangs attack and loses their climb Speed. When in spider form, they can't use weapons.\n\n* * *\n"
 
   - name: "Spin Silk"
     desc: " (concentrate,exploration,manipulate) By spending several minutes, an anadi can produce silk to craft items made of cloth. A single anadi can produce enough silk in a day to craft a single garment."
  
+```
+
+```encounter-table
+name: Anadi Sage
+creatures:
+  - 1: Anadi Sage
 ```
 
 

@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/good
   - pf2e/creature/type/humanoid
   - pf2e/creature/type/tengu
+  - pf2eMonster
   - pf2e/creature/level/9
 statblock: inline
 name: "Takatorra (Level 9)"
@@ -23,13 +24,13 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #166: Despair on Danger Island"
 name: "Takatorra (Level 9)"
 level: "Creature 9"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Medium"
-trait_01: "chaotic"
-trait_02: "good"
-trait_03: "humanoid"
-trait_04: "tengu"
+trait_01: [[chaotic]]
+trait_02: [[good]]
+trait_03: [[humanoid]]
+trait_04: [[tengu]]
 modifier: 20
 perception:
   - name: "Perception"
@@ -55,7 +56,7 @@ abilities_top:
   - name: "Items"
     desc: "2x [[Equipment/Tengu Gale Blade|+1 Striking Tengu Gale Blade]], [[Equipment/Hide Armor|+1 Hide Armor]]"
   - name: "Soaring Flight"
-    desc: "`pf2:2` (morph,primal) **Frequency** once per day\n**Effect** Takatorra expands their wings, gaining a 25-foot fly Speed for 5 minutes."
+    desc: "`pf2:2` (morph,primal) **Frequency** once per day\n* * *\n\n**Effect** Takatorra expands their wings, gaining a 25-foot fly Speed for 5 minutes."
 
 abilities_mid:
   - name: ""
@@ -77,6 +78,12 @@ attacks:
   - name: "Disarming Whirl"
     desc: "`pf2:2` (flourish) Takatorra spins, striking at their foes' weapons. Takatorra attempts an Athletics check to [[Actions/Disarm|Disarm]] against each enemy within melee reach. Each attempt counts toward Takatorra's multiple attack penalty, but the penalty doesn't increase until they have made all the attempts."
  
+```
+
+```encounter-table
+name: Takatorra (Level 9)
+creatures:
+  - 1: Takatorra (Level 9)
 ```
 
 

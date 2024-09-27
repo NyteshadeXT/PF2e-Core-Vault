@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/undead
   - pf2e/creature/type/unholy
+  - pf2eMonster
   - pf2e/creature/level/7
 statblock: inline
 name: "Deathless Hierophant Of Urgathoa"
@@ -22,12 +23,12 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Book of the Dead"
 name: "Deathless Hierophant Of Urgathoa"
 level: "Creature 7"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Medium"
-trait_01: "evil"
-trait_02: "undead"
-trait_03: "unholy"
+trait_01: [[evil]]
+trait_02: [[undead]]
+trait_03: [[unholy]]
 modifier: 15
 perception:
   - name: "Perception"
@@ -55,7 +56,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Chastise Heretic"
-    desc: "`pf2:r` (divine) **Trigger** A creature within 60 feet who the deathless hierophant can see and who doesn't worship Urgathoa casts a divine spell\n**Effect** The deathless hierophant attempts to counteract the triggering spell using their spell attack modifier and a counteract rank of 4. If the spell is counteracted, the caster takes 1d10 persistent void damage. If the deathless hierophant fails to counteract the spell, the caster is temporarily immune to further uses of this ability for 24 hours."
+    desc: "`pf2:r` (divine) **Trigger** A creature within 60 feet who the deathless hierophant can see and who doesn't worship Urgathoa casts a divine spell\n* * *\n\n**Effect** The deathless hierophant attempts to counteract the triggering spell using their spell attack modifier and a counteract rank of 4. If the spell is counteracted, the caster takes 1d10 persistent void damage. If the deathless hierophant fails to counteract the spell, the caster is temporarily immune to further uses of this ability for 24 hours."
 
   - name: "Field of Undeath"
     desc: " (aura,divine) 40 feet. Allies within the aura who have void healing gain fast healing 4. When a creature within the aura would receive vitality healing, it must succeed at a DC 5 Flat check or receive no healing from the effect."
@@ -72,6 +73,12 @@ attacks:
   - name: "Cleric Domain Spells"
     desc: "2 Focus Points, DC 25, attack +17; __4th __  _[[Spells/Malignant Sustenance|Malignant Sustenance]]_, _[[Spells/Touch of Undeath|Touch of Undeath]]_"
  
+```
+
+```encounter-table
+name: Deathless Hierophant Of Urgathoa
+creatures:
+  - 1: Deathless Hierophant Of Urgathoa
 ```
 
 

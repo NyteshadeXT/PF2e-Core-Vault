@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/chaotic
   - pf2e/creature/type/human
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/6
 statblock: inline
 name: "Satinder Morne"
@@ -22,12 +23,12 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Kingmaker"
 name: "Satinder Morne"
 level: "Creature 6"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Medium"
-trait_01: "chaotic"
-trait_02: "human"
-trait_03: "humanoid"
+trait_01: [[chaotic]]
+trait_02: [[human]]
+trait_03: [[humanoid]]
 modifier: 15
 perception:
   - name: "Perception"
@@ -35,7 +36,7 @@ perception:
 languages: "Common, Elven"
 skills:
   - name: "Skills"
-    desc: "Deception: +14, Diplomacy: +12, Gambling Lore: +12, Intimidation: +12, Religion: +13, Society: +12, Stealth: +12"
+    desc: "Deception: +14, Diplomacy: +12, Intimidation: +12, Religion: +13, Society: +12, Stealth: +12, Gambling Lore: +12"
 abilityMods: [0, 3, 1, 1, 4, 3]
 speed: 25 feet
 sourcebook: "_Pathfinder Kingmaker_"
@@ -55,7 +56,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Vengeful Sting"
-    desc: "`pf2:r`  **Trigger** A creature damages Satinder Morne with a melee Strike\n**Effect** Satinder Morne makes a melee Strike against the triggering creature. She suffers a -2 penalty on the attack roll but gains a +2 bonus on the damage roll if the Strike hits."
+    desc: "`pf2:r`  **Trigger** A creature damages Satinder Morne with a melee Strike\n\n**Effect** Satinder Morne makes a melee Strike against the triggering creature. She suffers a -2 penalty on the attack roll but gains a +2 bonus on the damage roll if the Strike hits."
 
 attacks:
   - name: ""
@@ -75,6 +76,12 @@ attacks:
   - name: "[[Bestiary Ability Glossary/Sneak Attack|Sneak Attack]]"
     desc: "  Satinder Morne deals 1d6 extra precision damage to [[Conditions/Off-Guard|Off-Guard]] creatures."
  
+```
+
+```encounter-table
+name: Satinder Morne
+creatures:
+  - 1: Satinder Morne
 ```
 
 

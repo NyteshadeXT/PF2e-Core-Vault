@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.extinction-curse-bestiary.Actor.QZHvPM0Yatn8oxsj"
 tags:
   - pf2e/creature/type/chaotic
   - pf2e/creature/type/fey
+  - pf2eMonster
   - pf2e/creature/level/12
 statblock: inline
 name: "Bugul Noz"
@@ -21,11 +22,11 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #153: Life&#x27;s Long Shadows"
 name: "Bugul Noz"
 level: "Creature 12"
-rare_03: "Rare"
+rare_03: [[Rare]]
 alignment: ""
 size: "Medium"
-trait_01: "chaotic"
-trait_02: "fey"
+trait_01: [[chaotic]]
+trait_02: [[fey]]
 modifier: 23
 perception:
   - name: "Perception"
@@ -33,7 +34,7 @@ perception:
 languages: "Common, Fey"
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +21, Athletics: +19, Forest Lore: +22, Nature: +25, Survival: +25"
+    desc: "Acrobatics: +21, Athletics: +19, Nature: +25, Survival: +25, Forest Lore: +22"
 abilityMods: [3, 5, 4, 4, 5, 7]
 speed: 25 feet
 sourcebook: "_Pathfinder #153: Life&#x27;s Long Shadows_"
@@ -52,10 +53,10 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "[[Bestiary Ability Glossary/Frightful Presence|Frightful Presence]]"
-    desc: " (aura,emotion,fear,mental) 60 feet. DC 29 Will check\nAnimals take a -2 circumstance penalty to the Will save.\n"
+    desc: " (aura,emotion,fear,mental) 60 feet. DC 29 Will check\n\nAnimals take a -2 circumstance penalty to the Will save.\n\n* * *\n"
 
   - name: "Horrid Visage"
-    desc: " (visual) Creatures that see the bugul noz must succeed at a DC 31 Fortitude check saving throw. On a failure, creatures are [[Conditions/Doomed 1|Doomed 1]] (or [[Conditions/Doomed 1|Doomed 2]] on a critical failure)."
+    desc: " (visual) Creatures that see the bugul noz must succeed at a DC 31 Fortitude check saving throw. On a failure, creatures are [[Conditions/Doomed|Doomed 1]] (or [[Conditions/Doomed|Doomed 2]] on a critical failure)."
 
   - name: "Mirror Vulnerability"
     desc: "  Upon seeing its own reflection in a mirror or other reflective surface, the bugul noz must succeed at a DC 34 Will check save or become [[Conditions/Confused|Confused]] and [[Conditions/Immobilized|Immobilized]] for 1d4-1 rounds (minimum 1 round). While confused and immobilized, the bugul noz cries and wallows in misery, making it immune to visual and auditory effects for the duration."
@@ -79,8 +80,14 @@ attacks:
     desc: "  The bugul noz ignores difficult terrain in forests."
 
   - name: "Haunting Wail"
-    desc: "`pf2:2` (illusion) The bugul noz lets out a hair-raising keen. Other creatures within 30 feet must attempt a DC 31 Fortitude check save.\nThe bugul noz can't use this ability again for 1d4 rounds.\n**Critical Success** The target is unaffected.\n**Success** The target takes 2d10 sonic damage.\n**Failure** The target takes 4d10 sonic damage and gains sonic weakness 10 for 1 minute.\n**Critical Failure** As failure, and the target becomes [[Conditions/Fleeing|Fleeing]] for 1 round."
+    desc: "`pf2:2` (illusion) The bugul noz lets out a hair-raising keen. Other creatures within 30 feet must attempt a DC 31 Fortitude check save.\n\nThe bugul noz can't use this ability again for 1d4 rounds.\n* * *\n\n**Critical Success** The target is unaffected.\n\n**Success** The target takes 2d10 sonic damage.\n\n**Failure** The target takes 4d10 sonic damage and gains sonic weakness 10 for 1 minute.\n\n**Critical Failure** As failure, and the target becomes [[Conditions/Fleeing|Fleeing]] for 1 round."
  
+```
+
+```encounter-table
+name: Bugul Noz
+creatures:
+  - 1: Bugul Noz
 ```
 
 

@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/human
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/2
 statblock: inline
 name: "Horba"
@@ -26,10 +27,10 @@ level: "Creature 2"
 
 alignment: ""
 size: "Medium"
-trait_01: "chaotic"
-trait_02: "evil"
-trait_03: "human"
-trait_04: "humanoid"
+trait_01: [[chaotic]]
+trait_02: [[evil]]
+trait_03: [[human]]
+trait_04: [[humanoid]]
 modifier: 8
 perception:
   - name: "Perception"
@@ -57,7 +58,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "No Escape"
-    desc: "`pf2:r` (rage) **Trigger** A foe within Horba's reach attempts to move away from her\n**Effect** Horba keeps pace with the triggering foe. Horba Strides up to her Speed, following that foe and keeping it in reach throughout its movement until it stops moving or Horba has moved their full Speed."
+    desc: "`pf2:r` (rage) **Trigger** A foe within Horba's reach attempts to move away from her\n* * *\n\n**Effect** Horba keeps pace with the triggering foe. Horba Strides up to her Speed, following that foe and keeping it in reach throughout its movement until it stops moving or Horba has moved their full Speed."
 
   - name: "[[Bestiary Ability Glossary/Shield Block|Shield Block]]"
     desc: "`pf2:r`  "
@@ -65,18 +66,24 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
+  - name: "Ranged"
     desc: "`pf2:1` Trident +11 (thrown 20 ft., fatal d10)\n__Damage__  1d8 + 2 piercing"
 
-  - name: "Melee"
+  - name: "Ranged"
     desc: "`pf2:1` Cleaver +9 (sweep, thrown 10 ft.)\n__Damage__  1d6 + 2 slashing"
 
   - name: "Demonic Strength"
     desc: "  Horba deals an extra 1d8 damage with her tridents, and any trident gains the fatal d10 trait while she is using it (both the extra weapon damage die and the fatal trait have already been included in the trident Strike)."
 
   - name: "Tainted Rage"
-    desc: "`pf2:1` (concentrate,emotion,mental) Horba begins to rage and gains 5 temporary Hit Points. The rage lasts for 1 minute or until she falls unconscious, whichever happens first. While raging, Horba deals 2 additional damage with melee weapons, has a -1 penalty to AC, and cannot use actions that have the concentrate trait unless those actions also have the rage trait. Horba can still [[Actions/Seek|Seek]] while raging.\n[[Feat_Feature Effects/Effect_ Rage|Effect: Rage]]"
+    desc: "`pf2:1` (concentrate,emotion,mental) Horba begins to rage and gains 5 temporary Hit Points. The rage lasts for 1 minute or until she falls unconscious, whichever happens first. While raging, Horba deals 2 additional damage with melee weapons, has a -1 penalty to AC, and cannot use actions that have the concentrate trait unless those actions also have the rage trait. Horba can still [[Actions/Seek|Seek]] while raging.\n\n[[Feat_Feature Effects/Effect_ Rage|Effect: Rage]]"
  
+```
+
+```encounter-table
+name: Horba
+creatures:
+  - 1: Horba
 ```
 
 

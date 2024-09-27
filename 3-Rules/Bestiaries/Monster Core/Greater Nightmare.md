@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/beast
   - pf2e/creature/type/fiend
   - pf2e/creature/type/unholy
+  - pf2eMonster
   - pf2e/creature/level/11
   - remaster
 statblock: inline
@@ -27,9 +28,9 @@ level: "Creature 11"
 
 alignment: ""
 size: "huge"
-trait_01: "beast"
-trait_02: "fiend"
-trait_03: "unholy"
+trait_01: [[beast]]
+trait_02: [[fiend]]
+trait_03: [[unholy]]
 modifier: 22
 perception:
   - name: "Perception"
@@ -56,7 +57,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Smoke"
-    desc: " (aura) 20 feet.\n\nThe nightmare continually exhales black smoke. Creatures within the aura are [[Conditions/Concealed|Concealed]] to those outside it, and creatures outside the aura are concealed to creatures within it. Nightmares and their riders can see through this smoke.\n\nA creature that begins its turn in the area must succeed at a DC 28 Fortitude check save or be [[Conditions/Sickened 1|Sickened 2]]. It's then temporarily immune to being sickened by the smoke for 1 minute. This is an inhaled poison, and the nightmare and its rider are immune to it."
+    desc: " (aura) 20 feet.\n\nThe nightmare continually exhales black smoke. Creatures within the aura are [[Conditions/Concealed|Concealed]] to those outside it, and creatures outside the aura are concealed to creatures within it. Nightmares and their riders can see through this smoke.\n\nA creature that begins its turn in the area must succeed at a DC 28 Fortitude check save or be [[Conditions/Sickened|Sickened 2]]. It's then temporarily immune to being sickened by the smoke for 1 minute. This is an inhaled poison, and the nightmare and its rider are immune to it."
 
 attacks:
   - name: ""
@@ -76,6 +77,12 @@ attacks:
   - name: "[[Bestiary Ability Glossary/Trample|Trample]]"
     desc: "`pf2:3`  Large or smaller, hoof, DC 30 Reflex check\n\n* * *\n"
  
+```
+
+```encounter-table
+name: Greater Nightmare
+creatures:
+  - 1: Greater Nightmare
 ```
 
 

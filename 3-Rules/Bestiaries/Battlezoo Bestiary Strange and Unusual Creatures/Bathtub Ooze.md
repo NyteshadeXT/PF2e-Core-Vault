@@ -7,6 +7,7 @@ aliases: "Compendium.battlezoo-bestiary-su-pf2e.pf2e-battlezoo-su-actors.Actor.v
 tags:
   - pf2e/creature/type/mindless
   - pf2e/creature/type/ooze
+  - pf2eMonster
   - pf2e/creature/level/3
 statblock: inline
 name: "Bathtub Ooze"
@@ -22,18 +23,19 @@ token: [[modules/battlezoo-bestiary-su-pf2e/art/Portraits/bathtub-ooze.webp| ]]
 source: "Battlezoo Bestiary: Strange and Unusual"
 name: "Bathtub Ooze"
 level: "Creature 3"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Medium"
-trait_01: "mindless"
-trait_02: "ooze"
+trait_01: [[mindless]]
+trait_02: [[ooze]]
 modifier: 6
 perception:
   - name: "Perception"
-    desc: "+6; Motion Sense (Precise) 60 Feet"
+    desc: "+6; Motion Sense (Imprecise) 60 Feet"
+languages: ""
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +6 (+10 to Squeeze), Athletics: +9, Stealth: +6 (+10 to Hide inside a bathtub), "
+    desc: "Acrobatics: +6, Athletics: +9, Stealth: +6, Acrobatics: +6, Athletics: +9, Stealth: +6"
 abilityMods: [4, -3, 3, -5, 0, -5]
 speed: 15 feet,  swim 25 feet
 sourcebook: "_Battlezoo Bestiary: Strange and Unusual_"
@@ -73,8 +75,14 @@ attacks:
     desc: "`pf2:2` (occult,void) The bathtub ooze draws forth moisture from nearby creatures, causing the creatures' skin to dry and crack and replenishing itself. Each living creature within 15 feet takes 3d6 void damage (DC 18 Fortitude check save). The bathtub ooze regains an amount of Hit Points equal to half the damage dealt to the single creature that took the most damage. Creatures with the water or amphibious trait use the outcome for one degree of success worse than their result. Creatures whose bodies contain no significant moisture (such as fire elementals) are immune to Strip Moisture. The bathtub ooze can't Strip Moisture again for 1d4 rounds."
 
   - name: "Slippery Trail"
-    desc: "  A bathtub ooze coats any square it moves through with a slick liquid, creating uneven ground. Creatures using an action to move onto the uneven ground must attempt either a Reflex save or an Acrobatics check to Balance, with a DC of 17. A creature that Steps or Crawls doesn't have to attempt a check or save. The slick surface typically dries after 10 minutes, or immediately when subjected to a fire effect. A bathtub ooze's movements aren't hindered by Slippery Trail."
+    desc: "  A bathtub ooze coats any square it moves through with a slick liquid, creating uneven ground. Creatures using an action to move onto the uneven ground must attempt either a Reflex save or an Acrobatics check to [[undefined]], with a DC of 17. A creature that Steps or Crawls doesn't have to attempt a check or save. The slick surface typically dries after 10 minutes, or immediately when subjected to a fire effect. A bathtub ooze's movements aren't hindered by Slippery Trail."
  
+```
+
+```encounter-table
+name: Bathtub Ooze
+creatures:
+  - 1: Bathtub Ooze
 ```
 
 

@@ -12,7 +12,7 @@ license: OGL
 ---
 # Spin Tale `pf2:1`
 
-### [[auditory]][[linguistic]]
+### [[3-Rules/Rule References/auditory]][[linguistic]]
 
 **Category** interaction; 
 

@@ -8,7 +8,7 @@ tags:
 ---
 # Bad Grip
 
-> You take a [[Other Effects/Effect\_ -2 circumstance penalty to attack rolls with this weapon|-2 circumstance penalty to attack rolls with this weapon]] until the end of your next turn.
+> You take a [[Other Effects/Effect_ -2 circumstance penalty to attack rolls with this weapon|-2 circumstance penalty to attack rolls with this weapon]] until the end of your next turn.
 
 `Melee`
 
@@ -26,6 +26,6 @@ tags:
 
 # Blastoff
 
-> You must succeed at a will check saving throw or be thrown 1d6 \* 5 feet into the air (or in a random direction determined by the GM if you are flying).
+> You must succeed at a will check saving throw or be thrown 1d6\*5 feet into the air (or in a random direction determined by the GM if you are flying).
 
 `Spell`

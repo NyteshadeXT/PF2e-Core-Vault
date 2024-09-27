@@ -6,8 +6,9 @@ tags:
   - trait/tengu
   - trait/common
   - category/ancestry
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.TmaxLWraJrvSQOkY"
-license: OGL
+license: ORC
 ---
 # Mariner's Fire
 ## Feat 1
@@ -18,7 +19,7 @@ license: OGL
 
 
 
-You conjure uncanny orbs of spiritual flame that float above or below the water's surface. You can cast the [[Spells/Produce Flame|Produce Flame]] cantrip as a primal innate spell at will, heightened to a spell rank equal to half your level rounded up. You can cast this cantrip underwater.
+You conjure uncanny orbs of spiritual flame that float above or below the water's surface. You can cast the [[Spells/Ignition|Ignition]] cantrip as a primal innate spell at will, heightened to a spell rank equal to half your level rounded up. Your ignition spell takes the form of orbs of fire, and you can cast it underwater.
 
-*Source: Pathfinder Lost Omens: Ancestry Guide*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

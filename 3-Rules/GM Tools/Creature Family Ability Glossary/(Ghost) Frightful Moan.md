@@ -23,7 +23,7 @@ license: ORC
 
 
 
-The ghost laments its fate, forcing each living creature within 30 feet to attempt a Will check save. On a failure, a creature becomes [[Conditions/Frightened 1|Frightened 2]] (or [[Conditions/Frightened 1|Frightened 3]] on a critical failure). On a success, a creature is temporarily immune to this ghost's frightful moan for 1 minute.
+The ghost laments its fate, forcing each living creature within 30 feet to attempt a Will check save. On a failure, a creature becomes [[Conditions/Frightened|Frightened 2]] (or [[Conditions/Frightened|Frightened 3]] on a critical failure). On a success, a creature is temporarily immune to this ghost's frightful moan for 1 minute.
 
 For DCs, use the high spell DC of the ghost's level.
 

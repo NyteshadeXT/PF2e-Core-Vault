@@ -6,8 +6,9 @@ tags:
   - trait/monk
   - trait/common
   - category/class
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.wz2edbLFnDKDNWWZ"
-license: OGL
+license: ORC
 ---
 # Flurry of Maneuvers
 ## Feat 4
@@ -19,7 +20,7 @@ license: OGL
 
 **Prerequisites** expert in Athletics
 * * *
-You flurry is a combination of maneuvers. You can replace one or both of your attacks during a Flurry of Blows with [[Actions/Grapple|Grapples]], [[Actions/Shove|Shoves]], or [[Actions/Trip|Trips]].
+You flurry is a combination of maneuvers. You can replace one or both of your attacks during a Flurry of Blows with [[Actions/Grapple|Grapples]], [[Actions/Reposition|Repositions]], [[Actions/Shove|Shoves]], or [[Actions/Trip|Trips]].
 
-*Source: Pathfinder Core Rulebook*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

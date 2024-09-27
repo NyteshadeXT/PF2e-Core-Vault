@@ -12,7 +12,7 @@ license: OGL
 ---
 # Bravery Baldric (Restoration, Greater)
 ## Item 11
-### [[healing]][[invested]][[magical]]
+### [[healing]][[invested]][[3-Rules/Rule References/Magical]]
 
 
 **Price** 1300 gp; 

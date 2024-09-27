@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/chaotic
   - pf2e/creature/type/evil
   - pf2e/creature/type/plant
+  - pf2eMonster
   - pf2e/creature/level/4
 statblock: inline
 name: "Mandragora"
@@ -26,9 +27,9 @@ level: "Creature 4"
 
 alignment: ""
 size: "Small"
-trait_01: "chaotic"
-trait_02: "evil"
-trait_03: "plant"
+trait_01: [[chaotic]]
+trait_02: [[evil]]
+trait_03: [[plant]]
 modifier: 11
 perception:
   - name: "Perception"
@@ -36,7 +37,7 @@ perception:
 languages: "Chthonian, Common"
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +10, Athletics: +10, Stealth: +12 (+20 in vegetation)"
+    desc: "Acrobatics: +10, Athletics: +10, Stealth: +12"
 abilityMods: [2, 5, 3, -1, 2, 0]
 speed: 30 feet,  burrow 10 feet,  climb 30 feet
 sourcebook: "_Pathfinder Bestiary 2_"
@@ -58,7 +59,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Vulnerability to Supernatural Darkness"
-    desc: "  Whenever a mandragora begins its turn in an area of magical darkness, it is [[Conditions/Slowed 1|Slowed 1]] on that turn."
+    desc: "  Whenever a mandragora begins its turn in an area of magical darkness, it is [[Conditions/Slowed|Slowed 1]] on that turn."
 
 attacks:
   - name: ""
@@ -70,17 +71,23 @@ attacks:
     desc: "`pf2:1` Thorny Vine +14 (agile, finesse, reach 10 feet)\n__Damage__  2d4 + 4 slashing plus mandragora-venom"
 
   - name: "Blood Drain"
-    desc: "`pf2:1` (fey) **Requirements** The mandragora has a creature [[Conditions/Grabbed|Grabbed]]\n**Effect** The mandragora drains blood from the creature it has grabbed, dealing 2d6 damage. If the creature is a demon, fey, or sorcerer, the mandragora gains temporary Hit Points equal to the damage dealt.\nA creature that has its blood drained by a mandragora is [[Conditions/Drained 1|Drained 1]] until it receives healing of any kind or amount."
+    desc: "`pf2:1` (fey) **Requirements** The mandragora has a creature [[Conditions/Grabbed|Grabbed]]\n* * *\n\n**Effect** The mandragora drains blood from the creature it has grabbed, dealing 2d6 damage. If the creature is a demon, fey, or sorcerer, the mandragora gains temporary Hit Points equal to the damage dealt.\n\nA creature that has its blood drained by a mandragora is [[Conditions/Drained|Drained 1]] until it receives healing of any kind or amount."
 
   - name: "Mandragora Venom"
-    desc: " (poison) **Saving Throw** DC 21 Fortitude check\n**Maximum Duration** 6 rounds\n**Stage 1** 1d6 poison damage and [[Conditions/Stupefied 1|Stupefied 1]] (1 round)\n**Stage 2** 1d6 poison damage, [[Conditions/Confused|Confused]], and [[Conditions/Stupefied 1|Stupefied 1]] (1 round)\n**Stage 3** 2d6 poison damage, [[Conditions/Confused|Confused]], and [[Conditions/Stupefied 1|Stupefied 1]] (1 round)"
+    desc: " (poison) **Saving Throw** DC 21 Fortitude check\n\n**Maximum Duration** 6 rounds\n\n**Stage 1** 1d6 poison damage and [[Conditions/Stupefied|Stupefied 1]] (1 round)\n\n**Stage 2** 1d6 poison damage, [[Conditions/Confused|Confused]], and [[Conditions/Stupefied|Stupefied 1]] (1 round)\n\n**Stage 3** 2d6 poison damage, [[Conditions/Confused|Confused]], and [[Conditions/Stupefied|Stupefied 1]] (1 round)"
 
   - name: "Piercing Shriek"
-    desc: "`pf2:1` (auditory,mental,primal) **Frequency** once per day\n**Effect** The mandragora emits an unsettling shriek. Each non-mandragora creature within 30 feet must attempt a DC 25 Will check save.\n**Critical Success** The creature is unaffected.\n**Success** The creature is [[Conditions/Sickened 1|Sickened 1]].\n**Failure** The creature is [[Conditions/Sickened 1|Sickened 2]].\n**Critical Failure** The creature is [[Conditions/Sickened 1|Sickened 2]] and [[Conditions/Slowed 1|Slowed 1]]. As long as the creature remains sickened, this slowed condition value can't be reduced below 1."
+    desc: "`pf2:1` (auditory,mental,primal) **Frequency** once per day\n* * *\n\n**Effect** The mandragora emits an unsettling shriek. Each non-mandragora creature within 30 feet must attempt a DC 25 Will check save.\n* * *\n\n**Critical Success** The creature is unaffected.\n\n**Success** The creature is [[Conditions/Sickened|Sickened 1]].\n\n**Failure** The creature is [[Conditions/Sickened|Sickened 2]].\n\n**Critical Failure** The creature is [[Conditions/Sickened|Sickened 2]] and [[Conditions/Slowed|Slowed 1]]. As long as the creature remains sickened, this slowed condition value can't be reduced below 1."
 
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
     desc: "`pf2:1`  "
  
+```
+
+```encounter-table
+name: Mandragora
+creatures:
+  - 1: Mandragora
 ```
 
 

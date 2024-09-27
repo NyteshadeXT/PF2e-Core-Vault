@@ -6,6 +6,7 @@ cssClasses: pf2e
 aliases: "Compendium.pf2e.strength-of-thousands-bestiary.Actor.tvDUeXGTZWKUHr3V" 
 tags:
   - pf2e/creature/type/plant
+  - pf2eMonster
   - pf2e/creature/level/15
 statblock: inline
 name: "Kilia Mwibo"
@@ -20,15 +21,15 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #172: Secrets of the Temple-City"
 name: "Kilia Mwibo"
 level: "Creature 15"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "huge"
-trait_01: "plant"
+trait_01: [[plant]]
 modifier: 26
 perception:
   - name: "Perception"
     desc: "+26; "
-languages: "Fey"
+languages: "Fey; (can&#x27;t speak any language)"
 skills:
   - name: "Skills"
     desc: "Athletics: +30, Deception: +25, Stealth: +28"
@@ -53,7 +54,7 @@ abilities_mid:
     desc: "`pf2:r`  "
 
   - name: "Despairing Presence"
-    desc: " (aura,emotion,fear,incapacitation,mental,primal) 60 feet. A creature that enters the emanation or starts its turn within it tumbles down a deep well of dread and must attempt a DC 33 Will check save.\n**Critical Success** The target is unaffected.\n**Success** The target becomes [[Conditions/Frightened 1|Frightened 1]].\n**Failure** The target becomes [[Conditions/Frightened 1|Frightened 2]].\n**Critical Failure** The target becomes [[Conditions/Frightened 1|Frightened 3]] and [[Conditions/Immobilized|Immobilized]] until it's no longer frightened."
+    desc: " (aura,emotion,fear,incapacitation,mental,primal) 60 feet. A creature that enters the emanation or starts its turn within it tumbles down a deep well of dread and must attempt a DC 33 Will check save.\n\n**Critical Success** The target is unaffected.\n\n**Success** The target becomes [[Conditions/Frightened|Frightened 1]].\n\n**Failure** The target becomes [[Conditions/Frightened|Frightened 2]].\n\n**Critical Failure** The target becomes [[Conditions/Frightened|Frightened 3]] and [[Conditions/Immobilized|Immobilized]] until it's no longer frightened."
 
   - name: "Emotion Sense 60 feet"
     desc: "  A kilia mwibo can sense nearby negative emotions. This is a precise sense against creatures who are under powerful emotion effects like rage, those who are frightened, or, at the GM's discretion, those who are in the grips of hatred, sadness, or other overwhelming negative emotions. Against all other creatures that possess emotions, this is an imprecise sense. A creature that has no emotions is effectively [[Conditions/Invisible|Invisible]] to a kilia mwibo. A creature that knows about emotion sense can take precautions to Hide and Sneak from a kilia mwibo, in this case by suppressing feelings of negativity."
@@ -71,11 +72,17 @@ attacks:
     desc: "`pf2:1` Thorn +28 (deadly d12, range increment 60 feet)\n__Damage__  3d6 + 15 piercing"
 
   - name: "[[Bestiary Ability Glossary/Constrict|Constrict]]"
-    desc: "`pf2:1`  2d12 + 15 bludgeoning, DC 36 Fortitude check\n"
+    desc: "`pf2:1`  2d12+15 bludgeoning, DC 36 Fortitude check\n\n* * *\n"
 
   - name: "Consume Emotion"
-    desc: "`pf2:2` (divine,mental) The kilia mwibo feeds on the negative emotions of a creature within 60 feet; this must be a creature that it can precisely sense with its emotion sense. The target must succeed at a DC 36 Will check save or increase its [[Conditions/Drained 1|Drained]] condition value by 1 (by 2 on a critical failure), to a maximum of drained 4."
+    desc: "`pf2:2` (divine,mental) The kilia mwibo feeds on the negative emotions of a creature within 60 feet; this must be a creature that it can precisely sense with its emotion sense. The target must succeed at a DC 36 Will check save or increase its [[Conditions/Drained|Drained]] condition value by 1 (by 2 on a critical failure), to a maximum of drained 4."
  
+```
+
+```encounter-table
+name: Kilia Mwibo
+creatures:
+  - 1: Kilia Mwibo
 ```
 
 

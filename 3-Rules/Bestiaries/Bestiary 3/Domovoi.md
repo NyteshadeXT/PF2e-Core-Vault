@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/chaotic
   - pf2e/creature/type/fey
   - pf2e/creature/type/good
+  - pf2eMonster
   - pf2e/creature/level/2
 statblock: inline
 name: "Domovoi"
@@ -26,9 +27,9 @@ level: "Creature 2"
 
 alignment: ""
 size: "tiny"
-trait_01: "chaotic"
-trait_02: "fey"
-trait_03: "good"
+trait_01: [[chaotic]]
+trait_02: [[fey]]
+trait_03: [[good]]
 modifier: 11
 perception:
   - name: "Perception"
@@ -36,7 +37,7 @@ perception:
 languages: "Common, Fey"
 skills:
   - name: "Skills"
-    desc: "Crafting: +9, Household Lore: +11, Stealth: +7 (+9 within their bound home)"
+    desc: "Crafting: +9, Stealth: +7, Household Lore: +11"
 abilityMods: [1, 3, 1, 3, 5, 1]
 speed: 20 feet
 sourcebook: "_Pathfinder Bestiary 3_"
@@ -53,7 +54,7 @@ abilities_top:
   - name: ""
 
   - name: "Master of the Home"
-    desc: "  A home with a friendly domovoi is blessed, as the domovoi cooks, cleans, fetches water, and does a hundred other small tasks.\nA home so blessed never suffers from random accidents such as fires, and any checks to [[Actions/Craft|Craft]], [[Actions/Earn Income|Earn Income]], [[Actions/Repair|Repair]], or [[Actions/Subsist|Subsist]] in the home receive a +2 circumstance bonus. If the domovoi is unfriendly, such checks take a -2 circumstance penalty instead, as the domovoi hides things, makes noise when people try to sleep, tangles weaving, and otherwise makes life a misery.\nA domovoi must spend a week in a place before these benefits occur."
+    desc: "  A home with a friendly domovoi is blessed, as the domovoi cooks, cleans, fetches water, and does a hundred other small tasks.\n\nA home so blessed never suffers from random accidents such as fires, and any checks to [[Actions/Craft|Craft]], [[Actions/Earn Income|Earn Income]], [[Actions/Repair|Repair]], or [[Actions/Subsist|Subsist]] in the home receive a +2 circumstance bonus. If the domovoi is unfriendly, such checks take a -2 circumstance penalty instead, as the domovoi hides things, makes noise when people try to sleep, tangles weaving, and otherwise makes life a misery.\n\nA domovoi must spend a week in a place before these benefits occur."
 
 abilities_mid:
   - name: ""
@@ -79,8 +80,14 @@ attacks:
     desc: "DC 18, attack +10; __1st __  _[[Spells/Mending|Mending (At Will)]]_\n__Cantrips__  __(1st)__ _[[Spells/Telekinetic Hand|Mage Hand]]_, _[[Spells/Prestidigitation|Prestidigitation]]_, _[[Spells/Telekinetic Projectile|Telekinetic Projectile]]_"
 
   - name: "Home Guardian"
-    desc: "  By commanding their home to attack, the domovoi can [[Actions/Grapple|Grapple]], [[Actions/Shove|Shove]], [[Actions/Trip|Trip]], and [[Actions/Disarm|Disarm]] with their enraged home Strike.\nThe domovoi uses their Household Lore instead of Athletics skill for these checks."
+    desc: "  By commanding their home to attack, the domovoi can [[Actions/Grapple|Grapple]], [[Actions/Shove|Shove]], [[Actions/Trip|Trip]], and [[Actions/Disarm|Disarm]] with their enraged home Strike.\n\nThe domovoi uses their Household Lore instead of Athletics skill for these checks."
  
+```
+
+```encounter-table
+name: Domovoi
+creatures:
+  - 1: Domovoi
 ```
 
 

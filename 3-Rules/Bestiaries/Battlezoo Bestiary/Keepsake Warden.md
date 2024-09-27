@@ -7,6 +7,7 @@ aliases: "Compendium.battlezoo-bestiary-pf2e.pf2e-battlezoo-bestiary.Actor.hDtn8
 tags:
   - pf2e/creature/type/giant
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/9
 statblock: inline
 name: "Keepsake Warden"
@@ -22,11 +23,11 @@ token: [[modules/battlezoo-bestiary-pf2e/art/keepsake_warden.webp| ]]
 source: "Battlezoo Bestiary"
 name: "Keepsake Warden"
 level: "Creature 9"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Large"
-trait_01: "giant"
-trait_02: "humanoid"
+trait_01: [[giant]]
+trait_02: [[humanoid]]
 modifier: 18
 perception:
   - name: "Perception"
@@ -34,7 +35,7 @@ perception:
 languages: "Common, Jotun, Necril"
 skills:
   - name: "Skills"
-    desc: "Athletics: +21, Crafting: +19, Intimidation: +19, Religion: +20, Stealth: +16, Graveyard Lore: +19, "
+    desc: "Athletics: +21, Crafting: +19, Intimidation: +19, Religion: +20, Stealth: +16, Graveyard Lore: +19"
 abilityMods: [6, 3, 6, 2, 5, 4]
 speed: 30 feet
 sourcebook: "_Battlezoo Bestiary_"
@@ -60,10 +61,10 @@ abilities_mid:
     desc: "`pf2:r`  "
 
   - name: "Tethered Immortality"
-    desc: " (occult) As long as the keepsake warden is within 120 feet of at least one of its keepsake items, the warden gains Fast Healing 10 and is immune to death effects.\nSpells or effects that highlight or illuminate the keepsake warden, such as _Faerie Fire_, cause keepsake items within 120 feet to glow with a pale green light."
+    desc: " (occult) As long as the keepsake warden is within 120 feet of at least one of its keepsake items, the warden gains [[Bestiary Ability Glossary/Fast Healing|Fast Healing 10]] and is immune to death effects.\n\nSpells or effects that highlight or illuminate the keepsake warden, such as _[[Spells/Faerie Fire|Faerie Fire]]_, cause keepsake items within 120 feet to glow with a pale green light."
 
   - name: "Token Casting"
-    desc: "`pf2:r` (occult) **Trigger** A keepsake item within 120 feet gains the broken condition;\n**Effect** The keepsake warden becomes aware that the item was broken and casts its choice of _Mirror Image_, _Resist Energy_, or _See Invisibility_ as a 2nd-level innate occult spell."
+    desc: "`pf2:r` (occult) **Trigger** A keepsake item within 120 feet gains the broken condition;\n* * *\n\n**Effect** The keepsake warden becomes aware that the item was broken and casts its choice of _[[Spells/Mirror Image|Mirror Image]]_, _[[Spells/Resist Energy|Resist Energy]]_, or _[[Spells/See the Unseen|See Invisibility]]_ as a 2nd-level innate occult spell."
 
 attacks:
   - name: ""
@@ -83,6 +84,12 @@ attacks:
   - name: "[[Bestiary Ability Glossary/Throw Rock|Throw Rock]]"
     desc: "`pf2:1`  "
  
+```
+
+```encounter-table
+name: Keepsake Warden
+creatures:
+  - 1: Keepsake Warden
 ```
 
 

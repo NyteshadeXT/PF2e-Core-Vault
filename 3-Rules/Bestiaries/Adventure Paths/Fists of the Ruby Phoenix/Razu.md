@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/humanoid
   - pf2e/creature/type/tengu
+  - pf2eMonster
   - pf2e/creature/level/18
 statblock: inline
 name: "Razu"
@@ -22,12 +23,12 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #167: Ready? Fight!"
 name: "Razu"
 level: "Creature 18"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Medium"
-trait_01: "evil"
-trait_02: "humanoid"
-trait_03: "tengu"
+trait_01: [[evil]]
+trait_02: [[humanoid]]
+trait_03: [[tengu]]
 modifier: 30
 perception:
   - name: "Perception"
@@ -35,7 +36,7 @@ perception:
 languages: "Taldane, Tengu, Tien"
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +32, Deception: +35, Diplomacy: +33, Goka Lore: +25, Intimidation: +33, Performance: +35, Theater Lore: +27, Warfare Lore: +27"
+    desc: "Acrobatics: +32, Deception: +35, Diplomacy: +33, Intimidation: +33, Performance: +35, Goka Lore: +25, Theater Lore: +27, Warfare Lore: +27"
 abilityMods: [0, 6, 3, 1, 4, 6]
 speed: 25 feet,  fly 80 feet
 sourcebook: "_Pathfinder #167: Ready? Fight!_"
@@ -51,7 +52,7 @@ health:
 abilities_top:
   - name: ""
   - name: "Items"
-    desc: "+3 Greater Striking Erhu Bow, [[Equipment/Studded Leather Armor|+3 Greater Resilient Studded Leather Armor]], [[Equipment/Maestro's Instrument (Greater)|Greater Maestro's Instrument (Erhu)]], [[Equipment/Potion of True Speech|Potion of Tongues]], [[Equipment/Truesight Potion|Truesight Potion]]"
+    desc: "+3 Greater Striking Erhu Bow, [[Equipment/Studded Leather Armor|+3 Greater Resilient Studded Leather Armor]], [[Equipment/Maestro's Instrument (Greater)|Greater Maestro's Instrument (Erhu)]], [[Equipment/Potion of Truespeech|Potion of Tongues]], [[Equipment/Truesight Potion|Truesight Potion]]"
   - name: "Bow Basher"
     desc: "  Razu wields his instrument's unique rune- enchanted bow as a deadly weapon. His decades of training with the item allow him to augment it with his own battle cries so that it also deals sonic damage. By attaching the bow's case to its end, he can change the weapon's damage to piercing and use the bow much like a short spear. Any other creature who wields the erhu bow does not deal sonic damage with it, but the weapon otherwise possesses the traits listed above. If sold without its runes, the bow is worth 50 gp."
 
@@ -63,7 +64,7 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
+  - name: "Ranged"
     desc: "`pf2:1` Erhu Bow +30 (agile, finesse, magical, thrown 20 ft., versatile p)\n__Damage__  3d6 + 10 slashing 3d6 sonic"
 
   - name: "Bard Composition Spells"
@@ -72,6 +73,12 @@ attacks:
   - name: "Spontaneous Occult Spells"
     desc: "DC 42, attack +32; __9th __ (2 slots) _[[Spells/Unfathomable Song|Unfathomable Song]]_, _[[Spells/Wails of the Damned|Wail of the Banshee]]_; __8th __ (3 slots) _[[Spells/Disappearance|Disappearance]]_, _[[Spells/Spirit Song|Spirit Song]]_, _[[Spells/Uncontrollable Dance|Uncontrollable Dance]]_; __7th __ (3 slots) _[[Spells/Shadow Blast|Shadow Blast]]_, _[[Spells/Shadow Siphon|Shadow Siphon]]_, _[[Spells/Soothe|Soothe]]_; __6th __ (3 slots) _[[Spells/Collective Transposition|Collective Transposition]]_, _[[Spells/Mislead|Mislead]]_, _[[Spells/Wall of Force|Wall of Force]]_; __5th __ (3 slots) _[[Spells/Wave of Despair|Crushing Despair]]_, _[[Spells/Hallucination|Hallucination]]_, _[[Spells/Telepathic Bond|Telepathic Bond]]_; __4th __ (3 slots) _[[Spells/Flicker|Blink]]_, _[[Spells/Translocate|Dimension Door]]_, _[[Compendium.pf2e.spells-srd.Item.hkfH9Z53hPzcOwNB|Veil]]_; __3rd __ (3 slots) _[[Spells/Haste|Haste]]_, _[[Spells/Mind Reading|Mind Reading]]_, _[[Spells/Slow|Slow]]_; __2nd __ (3 slots) _[[Spells/See the Unseen|See Invisibility]]_, _[[Spells/Shatter|Shatter]]_, _[[Spells/Silence|Silence]]_; __1st __ (3 slots) _[[Spells/Charm|Charm]]_, _[[Spells/Sanctuary|Sanctuary]]_, _[[Spells/Ventriloquism|Ventriloquism]]_\n__Cantrips__  __(9th)__ _[[Compendium.pf2e.spells-srd.Item.kl2q6JvBZwed4B6v|Dancing Lights]]_, _[[Spells/Detect Magic|Detect Magic]]_, _[[Spells/Ghost Sound|Ghost Sound]]_, _[[Spells/Read Aura|Read Aura]]_, _[[Spells/Telekinetic Projectile|Telekinetic Projectile]]_"
  
+```
+
+```encounter-table
+name: Razu
+creatures:
+  - 1: Razu
 ```
 
 

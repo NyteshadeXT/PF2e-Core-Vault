@@ -18,5 +18,5 @@ license: OGL
 
 You gain a status bonus to your initiative roll equal to the number of seasons since you've started Season of Ghosts (+1 during the first adventure, up to a maximum of +4 during the fourth and final adventure).
 
-*Source: Pathfinder: Season of Ghosts Player's Guide*
+*Source: Pathfinder Season of Ghosts Player's Guide*
 *OGL*

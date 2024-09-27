@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/goblin
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/-1
 statblock: inline
 name: "Goblin Warrior (PFS 1-01)"
@@ -26,10 +27,10 @@ level: "Creature -1"
 
 alignment: ""
 size: "Small"
-trait_01: "chaotic"
-trait_02: "evil"
-trait_03: "goblin"
-trait_04: "humanoid"
+trait_01: [[chaotic]]
+trait_02: [[evil]]
+trait_03: [[goblin]]
+trait_04: [[humanoid]]
 modifier: 2
 perception:
   - name: "Perception"
@@ -57,7 +58,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Goblin Scuttle"
-    desc: "`pf2:r`  **Trigger** A goblin ally ends a move action adjacent to the goblin.\n**Effect** The goblin [[Actions/Step|Steps]]."
+    desc: "`pf2:r`  **Trigger** A goblin ally ends a move action adjacent to the goblin.\n* * *\n\n**Effect** The goblin [[Actions/Step|Steps]]."
 
 attacks:
   - name: ""
@@ -68,6 +69,12 @@ attacks:
   - name: "Ranged"
     desc: "`pf2:1` Shortbow +8 (deadly d10, range increment 60 feet, reload 0)\n__Damage__  1d6 piercing"
  
+```
+
+```encounter-table
+name: Goblin Warrior (PFS 1-01)
+creatures:
+  - 1: Goblin Warrior (PFS 1-01)
 ```
 
 

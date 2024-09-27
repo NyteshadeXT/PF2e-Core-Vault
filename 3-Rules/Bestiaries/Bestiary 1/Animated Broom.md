@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.pathfinder-bestiary.Actor.ETwmjdnmSkqGdD5r"
 tags:
   - pf2e/creature/type/construct
   - pf2e/creature/type/mindless
+  - pf2eMonster
   - pf2e/creature/level/-1
 statblock: inline
 name: "Animated Broom"
@@ -25,12 +26,13 @@ level: "Creature -1"
 
 alignment: ""
 size: "Small"
-trait_01: "construct"
-trait_02: "mindless"
+trait_01: [[construct]]
+trait_02: [[mindless]]
 modifier: 3
 perception:
   - name: "Perception"
     desc: "+3; Darkvision"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Athletics: +5"
@@ -61,8 +63,14 @@ attacks:
     desc: "`pf2:1` Bristles +6 (agile, finesse, magical)\n__Damage__  1d4 bludgeoning plus dust"
 
   - name: "Dust"
-    desc: "  A creature hit by an animated broom's bristles must succeed at a DC 15 Fortitude check save or spend its next action coughing. Even if hit by multiple dust attacks, the creature has to spend only 1 action coughing to clear the dust out.\nA creature that doesn't breathe is immune to this effect."
+    desc: "  A creature hit by an animated broom's bristles must succeed at a DC 15 Fortitude check save or spend its next action coughing. Even if hit by multiple dust attacks, the creature has to spend only 1 action coughing to clear the dust out.\n\nA creature that doesn't breathe is immune to this effect."
  
+```
+
+```encounter-table
+name: Animated Broom
+creatures:
+  - 1: Animated Broom
 ```
 
 

@@ -16,7 +16,7 @@ Wrestlers have storied traditions in the Hold of Belkzen, where orcs use special
 
 Outside of the Inner Sea, wrestlers are common in Iblydos and Arcadia. Iblydan wrestlers focus on grappling techniques to make sure they're never left without a means to fight on the battlefield, even if their weapons are destroyed. Arcadian wrestlers engage in matches designed to retell stories of ancient gods. These matches feature impressive acrobatic feats as well as highly technical grappling maneuvers.
 
-**Additional Feats** 4th [[Feats/Combat Grab|Combat Grab]], [[Feats/Crushing Grab|Crushing Grab]], [[Feats/Snagging Strike|Snagging Strike]]; 8th [[Feats/Whirling Throw|Whirling Throw]]
+**Additional Feats** 4th [[Feats/Combat Grab|Combat Grab]], [[Feats/Crushing Grab|Crushing Grab]], [[Feats/Snagging Strike|Snagging Strike]]; 8th [[Feats/Whirling Throw|Whirling Throw]]; 20th [[Feats/Godbreaker|Godbreaker]]
 
 ## [[Feats/Wrestler Dedication|Wrestler Dedication]] Feat 2
 
@@ -102,7 +102,7 @@ Your iron grip slowly saps your opponent's strength. Attempt an Athletics check 
 
 * * *
 
-**Critical Success** The target is [[Conditions/Enfeebled 1|Enfeebled 2]] until the end of its next turn and [[Conditions/Enfeebled 1|Enfeebled 1]] for 1 minute.
+**Critical Success** The target is [[Conditions/Enfeebled|Enfeebled 2]] until the end of its next turn and [[Conditions/Enfeebled|Enfeebled 1]] for 1 minute.
 
 **Success** The target is enfeebled 1 until the end of its next turn.
 
@@ -134,7 +134,7 @@ You squeeze your opponent in a vicious bear hug, putting intense pressure on the
 
 * * *
 
-**Critical Success** The target is [[Conditions/Clumsy 1|Clumsy 2]] until the end of its next turn and [[Conditions/Clumsy 1|Clumsy 1]] for 1 minute.
+**Critical Success** The target is [[Conditions/Clumsy|Clumsy 2]] until the end of its next turn and [[Conditions/Clumsy|Clumsy 1]] for 1 minute.
 
 **Success** The target is clumsy 1 until the end of its next turn.
 

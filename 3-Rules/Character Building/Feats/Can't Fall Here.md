@@ -8,8 +8,9 @@ tags:
   - trait/manipulate
   - trait/common
   - category/ancestry
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.XJfUj2o4HdL5waZL"
-license: OGL
+license: ORC
 ---
 # Can't Fall Here `pf2:r`
 ## Feat 13
@@ -26,7 +27,9 @@ license: OGL
 
 * * *
 
-You physically help an ally remain standing and encourage them to push through their pain against dire odds. Your ally doesn't fall unconscious and remains at 1 Hit Point. The ally also gains a number of temporary Hit Points equal to your level that last for 1 minute. Fighting onward with such an injury isn't without consequence; your ally's [[Conditions/Wounded 1|Wounded]] condition increases by 1.
+You physically help an ally remain standing and encourage them to push through their pain against dire odds. Your ally doesn't fall [[Conditions/Unconscious|Unconscious]] and remains at 1 Hit Point. The ally also gains a number of temporary Hit Points equal to your level that last for 1 minute. Fighting onward with such an injury isn't without consequence; your ally's [[Conditions/Wounded|Wounded]] condition increases by 1.
 
-*Source: Pathfinder Lost Omens: Ancestry Guide*
-*OGL*
+[[Feat_Feature Effects/Effect_ Can't Fall Here|Effect: Can't Fall Here]]
+
+*Source: Pathfinder Player Core 2*
+*ORC*

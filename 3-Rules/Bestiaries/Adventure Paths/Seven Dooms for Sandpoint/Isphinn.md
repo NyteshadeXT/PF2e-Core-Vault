@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/elemental
   - pf2e/creature/type/genie
   - pf2e/creature/type/lawful
+  - pf2eMonster
   - pf2e/creature/level/8
 statblock: inline
 name: "Isphinn"
@@ -23,13 +24,13 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #200: Seven Dooms for Sandpoint"
 name: "Isphinn"
 level: "Creature 8"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Large"
-trait_01: "earth"
-trait_02: "elemental"
-trait_03: "genie"
-trait_04: "lawful"
+trait_01: [[earth]]
+trait_02: [[elemental]]
+trait_03: [[genie]]
+trait_04: [[lawful]]
 modifier: 17
 perception:
   - name: "Perception"
@@ -37,7 +38,7 @@ perception:
 languages: "Common, Petran"
 skills:
   - name: "Skills"
-    desc: "Athletics: +19, Crafting: +14, Deception: +16, Nature: +15, Society: +14"
+    desc: "Athletics: +21, Crafting: +16, Deception: +18, Nature: +17, Society: +16"
 abilityMods: [6, 1, 4, 3, 2, 3]
 speed: 20 feet,  burrow 45 feet,  climb 20 feet
 sourcebook: "_Pathfinder #200: Seven Dooms for Sandpoint_"
@@ -77,6 +78,12 @@ attacks:
   - name: "[[Bestiary Ability Glossary/Push|Push 10 feet]]"
     desc: "`pf2:1`  "
  
+```
+
+```encounter-table
+name: Isphinn
+creatures:
+  - 1: Isphinn
 ```
 
 

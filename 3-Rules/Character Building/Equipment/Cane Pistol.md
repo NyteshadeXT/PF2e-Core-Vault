@@ -5,6 +5,7 @@ cssclasses: pf2e,pf2e-spell
 tags:
   - pf2e/weapon
   - trait/combination
+  - trait/concealable
   - trait/concussive
   - trait/fatal-d8
   - trait/uncommon
@@ -14,7 +15,7 @@ license: OGL
 ---
 # Cane Pistol
 ## Item 0
-### [uncommon](uncommon "Uncommon Rarity Trait")[[combination]][[concussive]][[fatal-d8]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[combination]][[concealable]][[concussive]][[fatal-d8]]
 
 |  |  |
 | -- | -- |

@@ -11,6 +11,7 @@ tags:
   - pf2e/creature/type/spirit
   - pf2e/creature/type/undead
   - pf2e/creature/type/unholy
+  - pf2eMonster
   - pf2e/creature/level/3
 statblock: inline
 name: "Binumir"
@@ -28,12 +29,12 @@ level: "Creature 3"
 
 alignment: ""
 size: "Medium"
-trait_01: "evil"
-trait_02: "incorporeal"
-trait_03: "lawful"
-trait_04: "spirit"
-trait_05: "undead"
-trait_06: "unholy"
+trait_01: [[evil]]
+trait_02: [[incorporeal]]
+trait_03: [[lawful]]
+trait_04: [[spirit]]
+trait_05: [[undead]]
+trait_06: [[unholy]]
 modifier: 10
 perception:
   - name: "Perception"
@@ -60,7 +61,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Delay Condition"
-    desc: "  The binumir's dual spirit takes longer to be affected by detrimental effects. When the binumir is the target of an effect that imparts the [[Conditions/Confused|Confused]], [[Conditions/Controlled|Controlled]], [[Conditions/Fascinated|Fascinated]], [[Conditions/Frightened 1|Frightened]], [[Conditions/Sickened 1|Sickened]], [[Conditions/Slowed 1|Slowed]], or [[Conditions/Stunned 1|Stunned]] condition, the condition is automatically suppressed until the end of the binumir's next turn."
+    desc: "  The binumir's dual spirit takes longer to be affected by detrimental effects. When the binumir is the target of an effect that imparts the [[Conditions/Confused|Confused]], [[Conditions/Controlled|Controlled]], [[Conditions/Fascinated|Fascinated]], [[Conditions/Frightened|Frightened]], [[Conditions/Sickened|Sickened]], [[Conditions/Slowed|Slowed]], or [[Conditions/Stunned|Stunned]] condition, the condition is automatically suppressed until the end of the binumir's next turn."
 
 attacks:
   - name: ""
@@ -69,11 +70,17 @@ attacks:
     desc: "`pf2:1` Ghostly Hand +12 (agile, finesse, magical)\n__Damage__  1d8 + 4 void"
 
   - name: "Agonizing Wail"
-    desc: "`pf2:2` (auditory,concentrate) The binumir unleashes a distressing cry that fills others with wrenching sadness. Creatures within 30 feet must attempt a DC 17 Will check save.\n**Critical Success** The target is unaffected and is temporarily immune to Agonizing Wail for 1 minute.\n**Success** The target can't use reactions for 1 round.\n**Failure** The target is [[Conditions/Slowed 1|Slowed 1]] and can't use reactions for 1 minute as it sobs uncontrollably. It can attempt a new Will save to end the effect at the end of each of its turns.\n**Critical Failure** As failure, but the target can't make saves to end the effect."
+    desc: "`pf2:2` (auditory,concentrate) The binumir unleashes a distressing cry that fills others with wrenching sadness. Creatures within 30 feet must attempt a DC 17 Will check save.\n* * *\n\n**Critical Success** The target is unaffected and is temporarily immune to Agonizing Wail for 1 minute.\n\n**Success** The target can't use reactions for 1 round.\n\n**Failure** The target is [[Conditions/Slowed|Slowed 1]] and can't use reactions for 1 minute as it sobs uncontrollably. It can attempt a new Will save to end the effect at the end of each of its turns.\n\n**Critical Failure** As failure, but the target can't make saves to end the effect."
 
   - name: "Dual Assault"
-    desc: "`pf2:3`  The binumir makes four Strikes; no more than two can be against the same target.\nThese attacks count toward the binumir's multiple attack penalty, but the penalty doesn't increase until after all the attacks have been made."
+    desc: "`pf2:3`  The binumir makes four Strikes; no more than two can be against the same target.\n\nThese attacks count toward the binumir's multiple attack penalty, but the penalty doesn't increase until after all the attacks have been made."
  
+```
+
+```encounter-table
+name: Binumir
+creatures:
+  - 1: Binumir
 ```
 
 

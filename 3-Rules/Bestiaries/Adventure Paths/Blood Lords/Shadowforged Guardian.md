@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.blood-lords-bestiary.Actor.UT5B2LCirpTgaEEx"
 tags:
   - pf2e/creature/type/construct
   - pf2e/creature/type/mindless
+  - pf2eMonster
   - pf2e/creature/level/10
 statblock: inline
 name: "Shadowforged Guardian"
@@ -21,15 +22,16 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #183: Field of Maidens"
 name: "Shadowforged Guardian"
 level: "Creature 10"
-rare_03: "Rare"
+rare_03: [[Rare]]
 alignment: ""
 size: "Medium"
-trait_01: "construct"
-trait_02: "mindless"
+trait_01: [[construct]]
+trait_02: [[mindless]]
 modifier: 18
 perception:
   - name: "Perception"
     desc: "+18; Greater Darkvision"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Athletics: +23"
@@ -54,7 +56,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Induction Word"
-    desc: "  Each shadowforged guardian is activated during creation by a special word or short phrase spoken by its creator, and hearing this induction word resets its functions. If the guardian hears a creature within 30 feet utter its induction word, the guardian must succeed at a DC 26 Will check save or become [[Conditions/Stunned 1|Stunned 1]] ([[Conditions/Stunned 1|Stunned 3]] on a critical failure). Regardless of the result of this save, it's immune to utterances of its induction word until the end of its next turn."
+    desc: "  Each shadowforged guardian is activated during creation by a special word or short phrase spoken by its creator, and hearing this induction word resets its functions. If the guardian hears a creature within 30 feet utter its induction word, the guardian must succeed at a DC 26 Will check save or become [[Conditions/Stunned|Stunned 1]] ([[Conditions/Stunned|Stunned 3]] on a critical failure). Regardless of the result of this save, it's immune to utterances of its induction word until the end of its next turn."
 
   - name: "Twilight Aura"
     desc: " (aura,illusion,occult,shadow) 30 feet. The shadowforged guardian's presence dims light and brightens shadows to a strange, twilit half-light. Light can't emanate brighter than dim light in this area while darkness is simultaneously illuminated to dim light. The shadowy aura automatically attempts to counteract any 5th-rank or lower magical light or darkness effect brought into this aura or created in this area (counteract check +21, 5th level). As long as the guardian is in dim light, it gains a fly Speed of 30 feet."
@@ -66,11 +68,17 @@ attacks:
     desc: "`pf2:1` Claw +23 (agile, reach)\n__Damage__  2d8 + 11 slashing plus push 1d6 cold plus push"
 
   - name: "Shadow Breath"
-    desc: "`pf2:2` (occult,shadow) The shadowforged guardian expels a 30-foot cone of twisting shadows from its mouth. All creatures in the area must attempt a DC 29 Fortitude check save. The guardian can't use Shadow Breath for 1d4 rounds.\n**Critical Success** The creature is unaffected.\n**Success** The creature is [[Conditions/Enfeebled 1|Enfeebled 1]] until the end of its next turn.\n**Failure** The creature is enfeebled 1 for 1 hour and [[Conditions/Slowed 1|Slowed 1]] for 1 minute.\n**Critical Failure** The creature is [[Conditions/Enfeebled 1|Enfeebled 2]] for 24 hours and [[Conditions/Slowed 1|Slowed 2]] for 1 minute."
+    desc: "`pf2:2` (occult,shadow) The shadowforged guardian expels a @Template[cone|distance:30] of twisting shadows from its mouth. All creatures in the area must attempt a DC 29 Fortitude check save. The guardian can't use Shadow Breath for 1d4 rounds.\n* * *\n\n**Critical Success** The creature is unaffected.\n\n**Success** The creature is [[Conditions/Enfeebled|Enfeebled 1]] until the end of its next turn.\n\n**Failure** The creature is enfeebled 1 for 1 hour and [[Conditions/Slowed|Slowed 1]] for 1 minute.\n\n**Critical Failure** The creature is [[Conditions/Enfeebled|Enfeebled 2]] for 24 hours and [[Conditions/Slowed|Slowed 2]] for 1 minute."
 
   - name: "[[Bestiary Ability Glossary/Push|Push]]"
     desc: "`pf2:1`  "
  
+```
+
+```encounter-table
+name: Shadowforged Guardian
+creatures:
+  - 1: Shadowforged Guardian
 ```
 
 

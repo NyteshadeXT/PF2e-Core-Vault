@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.pfs-season-3-bestiary.Actor.IHuTNi8FQt54OpPj"
 tags:
   - pf2e/creature/type/construct
   - pf2e/creature/type/mindless
+  - pf2eMonster
   - pf2e/creature/level/3
 statblock: inline
 name: "Rampaging Roast (Medium Rare)"
@@ -21,15 +22,16 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Society Scenario #3-12: Fury&#x27;s Toll"
 name: "Rampaging Roast (Medium Rare)"
 level: "Creature 3"
-rare_03: "Rare"
+rare_03: [[Rare]]
 alignment: ""
 size: "Medium"
-trait_01: "construct"
-trait_02: "mindless"
+trait_01: [[construct]]
+trait_02: [[mindless]]
 modifier: 7
 perception:
   - name: "Perception"
     desc: "+7; Darkvision"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Athletics: +10"
@@ -65,6 +67,12 @@ attacks:
   - name: "[[Bestiary Ability Glossary/Knockdown|Knockdown]]"
     desc: "`pf2:1`  "
  
+```
+
+```encounter-table
+name: Rampaging Roast (Medium Rare)
+creatures:
+  - 1: Rampaging Roast (Medium Rare)
 ```
 
 

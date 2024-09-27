@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/undead
   - pf2e/creature/type/unholy
+  - pf2eMonster
   - pf2e/creature/level/6
 statblock: inline
 name: "Little Man In The Woods"
@@ -23,21 +24,21 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Book of the Dead"
 name: "Little Man In The Woods"
 level: "Creature 6"
-rare_03: "Rare"
+rare_03: [[Rare]]
 alignment: ""
 size: "Small"
-trait_01: "chaotic"
-trait_02: "evil"
-trait_03: "undead"
-trait_04: "unholy"
+trait_01: [[chaotic]]
+trait_02: [[evil]]
+trait_03: [[undead]]
+trait_04: [[unholy]]
 modifier: 12
 perception:
   - name: "Perception"
     desc: "+12; Darkvision"
-languages: "Common, Necril"
+languages: "Common, Necril; one additional language"
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +14, Athletics: +14 (+16 to Grapple), Deception: +14, Stealth: +16"
+    desc: "Acrobatics: +14, Athletics: +14, Deception: +14, Stealth: +16"
 abilityMods: [4, 5, 3, 1, 2, 4]
 speed: 25 feet
 sourcebook: "_Pathfinder Book of the Dead_"
@@ -69,14 +70,20 @@ attacks:
     desc: "`pf2:1` Shortbow +18 (deadly d10, magical, range increment 60 feet)\n__Damage__  1d6 + 3 piercing"
 
   - name: "Adopt Guise"
-    desc: "`pf2:2` (illusion,mental,occult) Playing on the expectations of surrounding creatures, the little man in the woods adopts the guise of a Small or Medium living person that matches the voice he imitates. This guise is subjective and entirely in the mind of each creature around him.\nA creature that doesn't believe the little man in the woods' voice imitation sees the little man in the woods as he truly is and isn't fooled by Adopt Guise."
+    desc: "`pf2:2` (illusion,mental,occult) Playing on the expectations of surrounding creatures, the little man in the woods adopts the guise of a Small or Medium living person that matches the voice he imitates. This guise is subjective and entirely in the mind of each creature around him.\n\nA creature that doesn't believe the little man in the woods' voice imitation sees the little man in the woods as he truly is and isn't fooled by Adopt Guise."
 
   - name: "Strangle"
-    desc: "`pf2:1`  **Requirements** The little man in the woods has a creature [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]]\n**Effect** The little man in the woods tightens his grip around the creature's neck, extending the Grab, dealing 2d6 + 3 bludgeoning damage with a DC 24 Fortitude check, and strangling the creature for as long as it remains grabbed or restrained. A strangled creature can't speak, which prevents it from casting spells with a verbal component or activating items with a command component. The strangled creature must hold its breath or start suffocating."
+    desc: "`pf2:1`  **Requirements** The little man in the woods has a creature [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]]\n* * *\n\n**Effect** The little man in the woods tightens his grip around the creature's neck, extending the Grab, dealing 2d6+3 bludgeoning damage with a DC 24 Fortitude check, and strangling the creature for as long as it remains grabbed or restrained. A strangled creature can't speak, which prevents it from casting spells with a verbal component or activating items with a command component. The strangled creature must hold its breath or start suffocating."
 
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
     desc: "`pf2:1`  "
  
+```
+
+```encounter-table
+name: Little Man In The Woods
+creatures:
+  - 1: Little Man In The Woods
 ```
 
 

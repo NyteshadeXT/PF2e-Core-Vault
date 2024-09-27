@@ -12,7 +12,7 @@ license: OGL
 ---
 # Boulderhead Bock
 ## Item 2
-### [uncommon](uncommon "Uncommon Rarity Trait")[[alchemical]][[elixir]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[alchemical]][[elixir]]
 
 **Category** elixir; 
 **Price** 5 gp; 

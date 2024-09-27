@@ -5,6 +5,7 @@ noteType: pf2eHazard
 tags:
   - mechanical
   - trap
+  - pf2eHazard
 
 source: Pathfinder #157: Devil at the Dreaming Palace
 aliases: "Compendium.pf2e.agents-of-edgewatch-bestiary.Actor.ce2SoJ7nRNZ1AoK6" 
@@ -22,14 +23,14 @@ name: "Hidden Chute"
 level: "Hazard 3"
 
 
-trait_01: "mechanical"
-trait_02: "trap"
+trait_01: [[mechanical]]
+trait_02: [[trap]]
 modifier: 13
 sourcebook: "_Pathfinder #157: Devil at the Dreaming Palace_"
 ac: 12
 armorclass:
   - name: AC
-    desc: "12; __Fort__ +10, __Ref__ +6, __Will__ +0"
+    desc: "12; __Fort__ +10, __Ref__ +6, "
 hp: 30
 health:
   - name: ""
@@ -51,9 +52,15 @@ attacks:
   - name: ""
 
   - name: "Pitfall"
-    desc: "`pf2:r` **Trigger** A creature walks onto the trapdoor\n**Effect** The triggering creature falls 30 feet down the shaft to area **E33,** taking 15 bludgeoning damage and landing [[Conditions/Prone|Prone]] in the ochre jelly's pit. The creature can [[Actions/Grab an Edge|Grab an Edge]] to avoid falling.\nThe DC to [[Actions/Climb|Climb]] the walls or Grab an Edge is 22."
+    desc: "`pf2:r` **Trigger** A creature walks onto the trapdoor\n* * *\n\n**Effect** The triggering creature falls 30 feet down the shaft to area **E33,** taking 15 bludgeoning damage and landing [[Conditions/Prone|Prone]] in the ochre jelly's pit. The creature can [[Actions/Grab an Edge|Grab an Edge]] to avoid falling.\n\nThe DC to [[Actions/Climb|Climb]] the walls or Grab an Edge is 22."
 
 
 
+```
+
+```encounter-table
+name: Hidden Chute
+creatures:
+  - 1: Hidden Chute
 ```
 

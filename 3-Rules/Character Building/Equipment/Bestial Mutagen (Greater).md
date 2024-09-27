@@ -10,8 +10,9 @@ tags:
   - trait/polymorph
   - trait/common
   - category/mutagen
+  - remaster
 aliases: "Compendium.pf2e.equipment-srd.Item.gDheph8YteBtnyKp"
-license: OGL
+license: ORC
 ---
 # Bestial Mutagen (Greater)
 ## Item 11
@@ -22,19 +23,19 @@ license: OGL
 **Bulk** L; **Size** med
 **Usage** held-in-one-hand
 
-**Activate** `pf2:1` Interact
+**Activate** `pf2:1` (manipulate)
 
 * * *
 
-Your features transform into something bestial and you take on muscle mass, but your lumbering form is clumsy.
+Your features transform into something bestial and lumbering.
 
-**Benefit** You gain a +3 item bonus to Athletics checks and unarmed attack rolls. You gain a claw unarmed attack (1d8 slashing damage) with the agile trait and a jaws unarmed attack (1d10 piercing damage).
+**Benefit** You gain a +3 item bonus to Athletics checks and unarmed attack rolls. You gain a claw unarmed attack (3d8 slashing damage) with the agile trait and a jaws unarmed attack (3d10 piercing damage). [[Equipment/Striking|Striking]] runes don't modify the damage caused by these attacks.
 
-**Drawback** You take a -1 penalty to AC and a -2 penalty to Reflex saves.
+**Drawback** You take a -2 penalty to Reflex saves, Acrobatics checks, and Stealth Checks.
 
 **Duration** 1 hour.
 
 [[Equipment Effects/Effect_ Bestial Mutagen (Greater)|Effect: Bestial Mutagen (Greater)]]
 
-*Source: Pathfinder Core Rulebook*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

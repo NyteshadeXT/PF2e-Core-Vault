@@ -16,7 +16,7 @@ license: OGL
 
 
 
-**Major Curse:** The code of your soul is constantly being rewritten, and not for the better. You are never temporarily immune against a harmful effect.
+The code of your soul is constantly being rewritten, and not for the better. You are never temporarily immune against a harmful effect.
 
 *Source: Pathfinder Lost Omens: Gods & Magic*
 *OGL*

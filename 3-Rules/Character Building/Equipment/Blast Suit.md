@@ -13,7 +13,7 @@ license: OGL
 ---
 # Blast Suit
 ## Item 9
-### [uncommon](uncommon "Uncommon Rarity Trait")[[bulwark]][[invested]][[magical]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[bulwark]][[invested]][[3-Rules/Rule References/Magical]]
 
 **Category** heavy; **Group** plate
 **Price** 650 gp; 

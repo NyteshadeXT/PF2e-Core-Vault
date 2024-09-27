@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/monitor
   - pf2e/creature/type/psychopomp
+  - pf2eMonster
   - pf2e/creature/level/2
 statblock: inline
 name: "Corrupted Nosoi"
@@ -22,12 +23,12 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Adventure: Malevolence"
 name: "Corrupted Nosoi"
 level: "Creature 2"
-rare_03: "Rare"
+rare_03: [[Rare]]
 alignment: ""
 size: "tiny"
-trait_01: "evil"
-trait_02: "monitor"
-trait_03: "psychopomp"
+trait_01: [[evil]]
+trait_02: [[monitor]]
+trait_03: [[psychopomp]]
 modifier: 8
 perception:
   - name: "Perception"
@@ -60,11 +61,17 @@ attacks:
     desc: "`pf2:1` Beak +8 (finesse, magical)\n__Damage__  1d4 + 1 piercing plus corrupted-touch"
 
   - name: "Corrupted Touch"
-    desc: "  A corrupted nosoi's Strikes deal 1d6 void damage to living creatures. A creature critically hit by a corrupted nosoi's Strike must attempt a DC 18 Fortitude check save or become [[Conditions/Drained 1|Drained 1]] ([[Conditions/Drained 1|Drained 2]] on a critical failure) as rot spreads through their flesh."
+    desc: "  A corrupted nosoi's Strikes deal 1d6 void damage to living creatures. A creature critically hit by a corrupted nosoi's Strike must attempt a DC 18 Fortitude check save or become [[Conditions/Drained|Drained 1]] ([[Conditions/Drained|Drained 2]] on a critical failure) as rot spreads through their flesh."
 
   - name: "Haunting Melody"
-    desc: "`pf2:1` (auditory,concentrate,divine,incapacitation,mental) The nosoi croons \"_the Lord slumbers below, you're nothing but his dreams, and when the lord awakes, you'll know the end of things!_\". Each living or undead creature within a 60-foot emanation must attempt a DC 18 Will check save. The effect lasts for 1 round, but a nosoi can use this ability again on subsequent rounds to extend the duration by 1 round for all affected creatures. A creature that succeeds at any save is temporarily immune for 24 hours. Despite being a mental effect, this ability affects mindless undead. Psychopomps are immune to this ability.\n**Failure** The creature is [[Conditions/Fascinated|Fascinated]].\n**Critical Failure** As failure, and the creature must spend each of its actions on its turn to move closer to the nosoi as expediently as possible while avoiding obvious dangers. If a [[Conditions/Fascinated|Fascinated]] creature is adjacent to the nosoi, it stays still and doesn't act. If the creature is attacked, the fascination ends."
+    desc: "`pf2:1` (auditory,concentrate,divine,incapacitation,mental) The nosoi croons \"_the Lord slumbers below, you're nothing but his dreams, and when the lord awakes, you'll know the end of things!_\". Each living or undead creature within a @Template[emanation|distance:60] must attempt a DC 18 Will check save. The effect lasts for 1 round, but a nosoi can use this ability again on subsequent rounds to extend the duration by 1 round for all affected creatures. A creature that succeeds at any save is temporarily immune for 24 hours. Despite being a mental effect, this ability affects mindless undead. Psychopomps are immune to this ability.\n* * *\n\n**Failure** The creature is [[Conditions/Fascinated|Fascinated]].\n\n**Critical Failure** As failure, and the creature must spend each of its actions on its turn to move closer to the nosoi as expediently as possible while avoiding obvious dangers. If a [[Conditions/Fascinated|Fascinated]] creature is adjacent to the nosoi, it stays still and doesn't act. If the creature is attacked, the fascination ends."
  
+```
+
+```encounter-table
+name: Corrupted Nosoi
+creatures:
+  - 1: Corrupted Nosoi
 ```
 
 

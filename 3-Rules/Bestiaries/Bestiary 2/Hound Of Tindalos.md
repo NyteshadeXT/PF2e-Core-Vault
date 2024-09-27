@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/aberration
   - pf2e/creature/type/evil
   - pf2e/creature/type/time
+  - pf2eMonster
   - pf2e/creature/level/7
 statblock: inline
 name: "Hound Of Tindalos"
@@ -23,12 +24,12 @@ token: [[modules/pf2e-tokens-bestiaries/portraits/planar/time/hound-of-tindalos.
 source: "Pathfinder Bestiary 2"
 name: "Hound Of Tindalos"
 level: "Creature 7"
-rare_03: "Rare"
+rare_03: [[Rare]]
 alignment: ""
 size: "Medium"
-trait_01: "aberration"
-trait_02: "evil"
-trait_03: "time"
+trait_01: [[aberration]]
+trait_02: [[evil]]
+trait_03: [[time]]
 modifier: 17
 perception:
   - name: "Perception"
@@ -36,7 +37,7 @@ perception:
 languages: "Aklo"
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +17, Athletics: +15, Occultism: +17, Stealth: +17, Survival: +13 (+17 to Track)"
+    desc: "Acrobatics: +17, Athletics: +15, Occultism: +17, Stealth: +17, Survival: +13"
 abilityMods: [4, 6, 2, 6, 4, 2]
 speed: 30 feet,  fly 30 feet
 sourcebook: "_Pathfinder Bestiary 2_"
@@ -58,10 +59,10 @@ abilities_mid:
     desc: " (mental) Whenever a creature targets the hound with a mental effect, that creature takes 4d6 mental damage (DC 25 Will check save). On a critical failure, it also becomes [[Conditions/Confused|Confused]] for 1d4 rounds."
 
   - name: "Ripping Gaze"
-    desc: " (aura,occult,visual) 30 feet. The hound of Tindalos's eyes glow balefully, causing painful but bloodless wounds to rip open in the body of a creature that meets its awful gaze. When a creature ends its turn in the aura's emanation, it takes 4d6 slashing damage (DC 25 Fortitude check save).\nA creature that critically succeeds at its save is temporarily immune for 24 hours."
+    desc: " (aura,occult,visual) 30 feet. The hound of Tindalos's eyes glow balefully, causing painful but bloodless wounds to rip open in the body of a creature that meets its awful gaze. When a creature ends its turn in the aura's emanation, it takes 4d6 slashing damage (DC 25 Fortitude check save).\n\nA creature that critically succeeds at its save is temporarily immune for 24 hours."
 
   - name: "Vulnerable to Curved Space"
-    desc: "  When a hound of Tindalos is not adjacent to a structural angle of 90º (or more acute), its resistance to physical damage is suppressed and it becomes [[Conditions/Sickened 1|Sickened 1]]. It can't recover from this sickened condition, but the condition ends automatically once the hound is again adjacent to a suitable angle.\n[[Bestiary Effects/Effect_ Vulnerable to Curved Space|Effect: Vulnerable to Curved Space]]"
+    desc: "  When a hound of Tindalos is not adjacent to a structural angle of 90º (or more acute), its resistance to physical damage is suppressed and it becomes [[Conditions/Sickened|Sickened 1]]. It can't recover from this sickened condition, but the condition ends automatically once the hound is again adjacent to a suitable angle.\n\n[[Bestiary Effects/Effect_ Vulnerable to Curved Space|Effect: Vulnerable to Curved Space]]"
 
 attacks:
   - name: ""
@@ -76,8 +77,14 @@ attacks:
     desc: "DC 21, attack +11; __8th __  _[[Spells/Pinpoint|Discern Location]]_; __4th __  _[[Spells/Planar Tether|Dimensional Anchor]]_; __3rd __  _[[Spells/Haste|Haste]]_, _[[Spells/Slow|Slow]]_; __2nd __  _[[Spells/Invisibility|Invisibility (Self only)]]_"
 
   - name: "Angled Entry"
-    desc: "`pf2:1`  The hound of Tindalos casts a 4th-rank [[Spells/Translocate|Translocate]] spell, but it must transport itself into a space adjacent to an angle of 90º (or more acute) in the structure or environment around it. For example, it could teleport to a space adjacent to a wall (using the angle between the wall and floor) or a corner in a room, or adjacent to a sizable tree growing straight up out of the ground, but not to a flat plain or a room with only curved corners and edges.\nOnce per day, the hound can use this ability to plane shift to or from the Dimension of Time, with the same restrictions on what angles it can appear next to."
+    desc: "`pf2:1`  The hound of Tindalos casts a 4th-rank [[Spells/Translocate|Translocate]] spell, but it must transport itself into a space adjacent to an angle of 90º (or more acute) in the structure or environment around it. For example, it could teleport to a space adjacent to a wall (using the angle between the wall and floor) or a corner in a room, or adjacent to a sizable tree growing straight up out of the ground, but not to a flat plain or a room with only curved corners and edges.\n\nOnce per day, the hound can use this ability to plane shift to or from the Dimension of Time, with the same restrictions on what angles it can appear next to."
  
+```
+
+```encounter-table
+name: Hound Of Tindalos
+creatures:
+  - 1: Hound Of Tindalos
 ```
 
 

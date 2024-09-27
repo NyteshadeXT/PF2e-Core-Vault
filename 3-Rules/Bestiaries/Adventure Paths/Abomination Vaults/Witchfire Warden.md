@@ -11,6 +11,7 @@ tags:
   - pf2e/creature/type/spirit
   - pf2e/creature/type/undead
   - pf2e/creature/type/unholy
+  - pf2eMonster
   - pf2e/creature/level/9
 statblock: inline
 name: "Witchfire Warden"
@@ -25,15 +26,15 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #164: Hands of the Devil"
 name: "Witchfire Warden"
 level: "Creature 9"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Medium"
-trait_01: "chaotic"
-trait_02: "evil"
-trait_03: "incorporeal"
-trait_04: "spirit"
-trait_05: "undead"
-trait_06: "unholy"
+trait_01: [[chaotic]]
+trait_02: [[evil]]
+trait_03: [[incorporeal]]
+trait_04: [[spirit]]
+trait_05: [[undead]]
+trait_06: [[unholy]]
 modifier: 18
 perception:
   - name: "Perception"
@@ -58,12 +59,12 @@ abilities_top:
   - name: ""
 
   - name: "[[Bestiary Ability Glossary/Coven|Coven]]"
-    desc: " (mental,occult) The witchfire adds [[Spells/Nightmare|Nightmare]], [[Spells/Phantasmal Killer|Phantasmal Killer]], [[Spells/Phantasmal Calamity|Phantasmal Calamity]], and [[Spells/Summon Entity|Summon Entity]] to their coven's spells.\nA coven can contain one or more witchfires, but it must also include at least one living creature capable of forming a coven; three witchfires cannot form a coven.\n"
+    desc: " (mental,occult) The witchfire adds [[Spells/Nightmare|Nightmare]], [[Spells/Phantasmal Killer|Phantasmal Killer]], [[Spells/Phantasmal Calamity|Phantasmal Calamity]], and [[Spells/Summon Entity|Summon Entity]] to their coven's spells.\n\nA coven can contain one or more witchfires, but it must also include at least one living creature capable of forming a coven; three witchfires cannot form a coven.\n\n* * *\n"
 
 abilities_mid:
   - name: ""
   - name: "Opportune Witchflame"
-    desc: "`pf2:r`  **Trigger** A creature makes a melee Strike against or touches the witchfire\n**Effect** The witchfire makes a witchflame caress Strike against the triggering creature."
+    desc: "`pf2:r`  **Trigger** A creature makes a melee Strike against or touches the witchfire\n* * *\n\n**Effect** The witchfire makes a witchflame caress Strike against the triggering creature."
 
   - name: "Rejuvenation"
     desc: " (divine) When the witchfire warden is destroyed, and as long as any creatures remain in stasis in this room, she reforms in 1d4 days at the soot-blackened pillar, fully healed."
@@ -87,11 +88,17 @@ attacks:
     desc: "_[[Spells/Control Weather|Control Weather]]_"
 
   - name: "Witchflame"
-    desc: " (curse,fire,occult) Any creature that takes void damage from a witchfire's Strike must attempt a DC 26 Will check save.\n**Critical Success** The creature is unaffected and is temporarily immune to witchflame for 1 hour.\n**Success** The creature appears to catch fire with sickly green flames. These flames deal no damage on their own, but as long as the flames burn, the creature can't be [[Conditions/Concealed|Concealed]] ([[Conditions/Invisible|Invisible]] creatures are [[Conditions/Concealed|Concealed]] rather than being [[Conditions/Undetected|Undetected]]) and gains weakness 5 to fire for 1 round.\n**Failure** As success, but the effect is permanent until removed.\n**Critical Failure** As failure, but the creature gains weakness 10 to fire.\n[[Bestiary Effects/Effect_ Witchflame (Success)|Effect: Witchflame (Success)]]\n[[Bestiary Effects/Effect_ Witchflame (Failure)|Effect: Witchflame (Failure)]]\n[[Bestiary Effects/Effect_ Witchflame (Critical Failure)|Effect: Witchflame (Critical Failure)]]"
+    desc: " (curse,fire,occult) Any creature that takes void damage from a witchfire's Strike must attempt a DC 26 Will check save.\n* * *\n\n**Critical Success** The creature is unaffected and is temporarily immune to witchflame for 1 hour.\n\n**Success** The creature appears to catch fire with sickly green flames. These flames deal no damage on their own, but as long as the flames burn, the creature can't be [[Conditions/Concealed|Concealed]] ([[Conditions/Invisible|Invisible]] creatures are [[Conditions/Concealed|Concealed]] rather than being [[Conditions/Undetected|Undetected]]) and gains weakness 5 to fire for 1 round.\n\n**Failure** As success, but the effect is permanent until removed.\n\n**Critical Failure** As failure, but the creature gains weakness 10 to fire.\n\n[[Bestiary Effects/Effect_ Witchflame (Success)|Effect: Witchflame (Success)]]\n\n[[Bestiary Effects/Effect_ Witchflame (Failure)|Effect: Witchflame (Failure)]]\n\n[[Bestiary Effects/Effect_ Witchflame (Critical Failure)|Effect: Witchflame (Critical Failure)]]"
 
   - name: "Witchflame Kindling"
-    desc: "`pf2:2` (fire,occult) **Requirements** A creature within 30 feet of the witchfire burns with witchflame\n**Effect** The witchfire's eyes and mouth glow brightly, and the witchflame on the target creature momentarily burns much hotter, dealing 5d6 fire damage and 5d6 void damage to that creature (DC 28 Fortitude check save).\nThe witchfire can't use Witchflame Kindling for 1d4 rounds."
+    desc: "`pf2:2` (fire,occult) **Requirements** A creature within 30 feet of the witchfire burns with witchflame\n* * *\n\n**Effect** The witchfire's eyes and mouth glow brightly, and the witchflame on the target creature momentarily burns much hotter, dealing 5d6 fire damage and 5d6 void damage to that creature (DC 28 Fortitude check save).\n\nThe witchfire can't use Witchflame Kindling for 1d4 rounds."
  
+```
+
+```encounter-table
+name: Witchfire Warden
+creatures:
+  - 1: Witchfire Warden
 ```
 
 

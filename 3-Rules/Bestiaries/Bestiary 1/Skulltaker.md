@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/undead
   - pf2e/creature/type/unholy
+  - pf2eMonster
   - pf2e/creature/level/18
 statblock: inline
 name: "Skulltaker"
@@ -23,20 +24,20 @@ token: [[modules/pf2e-tokens-bestiaries/portraits/undead/skulltaker.webp| ]]
 source: "Pathfinder Bestiary"
 name: "Skulltaker"
 level: "Creature 18"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "huge"
-trait_01: "evil"
-trait_02: "undead"
-trait_03: "unholy"
+trait_01: [[evil]]
+trait_02: [[undead]]
+trait_03: [[unholy]]
 modifier: 33
 perception:
   - name: "Perception"
     desc: "+33; Darkvision"
-languages: "Necril"
+languages: "Necril; skeletal lore languages"
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +34, Intimidation: +35, Religion: +30, Skeletal Lore: +30, Stealth: +32"
+    desc: "Acrobatics: +34, Intimidation: +35, Religion: +30, Stealth: +32, Skeletal Lore: +30"
 abilityMods: [8, 6, 6, 2, 8, 7]
 speed: 30 feet,  fly 60 feet
 sourcebook: "_Pathfinder Bestiary_"
@@ -82,11 +83,17 @@ attacks:
     desc: " (divine) Whenever a creature dies within 60 feet of a skulltaker, the skulltaker draws a portion of the creature's bones into its shard storm. The creature must succeed at a DC 40 Will check save or rise as a [[Bestiary 1/Skeletal Champion|Skeletal Champion]] in 1d4 rounds. These skeletal champions are controlled by the skulltaker."
 
   - name: "Energy Drain"
-    desc: " (divine) When a skulltaker hits with a melee Strike, the target must succeed at a DC 40 Fortitude check save or become [[Conditions/Drained 1|Drained 2]] and [[Conditions/Doomed 1|Doomed 1]]."
+    desc: " (divine) When a skulltaker hits with a melee Strike, the target must succeed at a DC 40 Fortitude check save or become [[Conditions/Drained|Drained 2]] and [[Conditions/Doomed|Doomed 1]]."
 
   - name: "Splintered Ground"
-    desc: "`pf2:1`  The skulltaker causes splintered bones to erupt from all solid surfaces in a 100-foot emanation, except for surfaces of worked stone. A creature moving through the bones takes 10 piercing damage and 10 void damage for every 5 feet of movement. The first time each round a creature takes piercing damage from these splintered bones, it must succeed at a DC 40 Reflex check save or take a -10-foot circumstance penalty to all Speeds for 10 minutes, or a -15-foot circumstance penalty for 24 hours on a critical failure. The bones remain in place until the skulltaker uses this action again or the bones are manually removed, which takes 10 minutes for each 5-foot square.\n[[Bestiary Effects/Effect_ Splintered Ground|Effect: Splintered Ground]]\n[[Bestiary Effects/Effect_ Splintered Ground (Critical Failure)|Effect: Splintered Ground (Critical Failure)]]"
+    desc: "`pf2:1`  The skulltaker causes splintered bones to erupt from all solid surfaces in a @Template[emanation|distance:100], except for surfaces of worked stone. A creature moving through the bones takes 10 piercing damage and 10 void damage for every 5 feet of movement. The first time each round a creature takes piercing damage from these splintered bones, it must succeed at a DC 40 Reflex check save or take a -10-foot circumstance penalty to all Speeds for 10 minutes, or a -15-foot circumstance penalty for 24 hours on a critical failure. The bones remain in place until the skulltaker uses this action again or the bones are manually removed, which takes 10 minutes for each 5-foot square.\n\n[[Bestiary Effects/Effect_ Splintered Ground|Effect: Splintered Ground]]\n\n[[Bestiary Effects/Effect_ Splintered Ground (Critical Failure)|Effect: Splintered Ground (Critical Failure)]]"
  
+```
+
+```encounter-table
+name: Skulltaker
+creatures:
+  - 1: Skulltaker
 ```
 
 

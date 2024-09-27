@@ -23,7 +23,7 @@ license: OGL
 
 * * *
 
-The erratic teleportation magic you experienced in the Kortos Mounts has taught you a few tricks. You attempt an Athletics check to [[Actions/Shove|Shove]] the fiend that triggered your champion's reaction; on a success, the target can't teleport or summon creatures for 1 minute. On a critical success, the target is also [[Conditions/Stunned 1|Stunned 1]] and can't teleport or summon creatures for 1 hour, and if you are on your home plane and the target is a fiend of level 18 or lower from another plane, it is also banished to its home plane. Your multiple attack penalty doesn't apply to this attack.
+The erratic teleportation magic you experienced in the Kortos Mounts has taught you a few tricks. You attempt an Athletics check to [[Actions/Shove|Shove]] the fiend that triggered your champion's reaction; on a success, the target can't teleport or summon creatures for 1 minute. On a critical success, the target is also [[Conditions/Stunned|Stunned 1]] and can't teleport or summon creatures for 1 hour, and if you are on your home plane and the target is a fiend of level 18 or lower from another plane, it is also banished to its home plane. Your multiple attack penalty doesn't apply to this attack.
 
 *Source: Pathfinder #156: The Apocalypse Prophet*
 *OGL*

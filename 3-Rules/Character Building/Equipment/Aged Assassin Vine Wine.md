@@ -26,7 +26,7 @@ Crafting wine from assassin vine berries is a dangerous process, but the resulti
 
 [[Equipment Effects/Effect_ Assassin Vine Wine|Effect: Assassin Vine Wine]]
 
-Assassin vine wine that has been aged for several years—or artificially aged with alchemy—develops both a greater complexity of flavor and a stronger connection to an assassin vine's bond with nature. When you drink the wine, vegetation in a 20-foot emanation around you begins to writhe, becoming difficult terrain until the start of your next turn.
+Assassin vine wine that has been aged for several years—or artificially aged with alchemy—develops both a greater complexity of flavor and a stronger connection to an assassin vine's bond with nature. When you drink the wine, vegetation in a @Template\[emanation|distance:20\] around you begins to writhe, becoming difficult terrain until the start of your next turn.
 
 *Source: Pathfinder Treasure Vault*
 *OGL*

@@ -7,6 +7,7 @@ aliases: "Compendium.battlezoo-bestiary-su-pf2e.pf2e-battlezoo-su-actors.Actor.I
 tags:
   - pf2e/creature/type/aberration
   - pf2e/creature/type/mindless
+  - pf2eMonster
   - pf2e/creature/level/5
 statblock: inline
 name: "Precognate"
@@ -22,18 +23,19 @@ token: [[modules/battlezoo-bestiary-su-pf2e/art/Portraits/precognate.webp| ]]
 source: "Battlezoo Bestiary: Strange and Unusual"
 name: "Precognate"
 level: "Creature 5"
-rare_03: "Rare"
+rare_03: [[Rare]]
 alignment: ""
 size: "Medium"
-trait_01: "aberration"
-trait_02: "mindless"
+trait_01: [[aberration]]
+trait_02: [[mindless]]
 modifier: 17
 perception:
   - name: "Perception"
     desc: "+17; "
+languages: ""
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +12, Athletics: +16, Stealth: +12, Survival: +12, "
+    desc: "Acrobatics: +12, Athletics: +16, Stealth: +12, Survival: +12, Acrobatics: +12, Athletics: +16, Stealth: +12, Survival: +12"
 abilityMods: [4, 5, 2, -5, 2, -5]
 speed: 40 feet
 sourcebook: "_Battlezoo Bestiary: Strange and Unusual_"
@@ -50,12 +52,12 @@ abilities_top:
   - name: ""
 
   - name: "Instinct Driven"
-    desc: " (occult) For mindless creatures, precognates are highly adaptive and use unusually complex tactics. However they still have a predictable routine: unless their prey already has a negative condition (such as Prone or Grabbed), precognates' first hostile action each turn is to use Athletics to Grapple or Trip in order to hamper their prey. Multiple precognates hunting together always select different targets if possible. If its divinations become inactive, such as in an antimagic field, a precognate wanders aimlessly and takes no other actions until its divinations return, and with them, its instincts."
+    desc: " (occult) For mindless creatures, precognates are highly adaptive and use unusually complex tactics. However they still have a predictable routine: unless their prey already has a negative condition (such as [[undefined]] or [[undefined]]), precognates' first hostile action each turn is to use Athletics to [[undefined]] or [[undefined]] in order to hamper their prey. Multiple precognates hunting together always select different targets if possible. If its divinations become inactive, such as in an antimagic field, a precognate wanders aimlessly and takes no other actions until its divinations return, and with them, its instincts."
 
 abilities_mid:
   - name: ""
   - name: "Predictive Measure"
-    desc: "`pf2:r` (occult) **Trigger** A creature attempts to target the precognate, or attempts to include the precognate in an area of effect\n**Effect** The precognate Steps or Strides. The triggering creature can select another action if the precognate is no longer a valid target, or if the precognate moves out of the area."
+    desc: "`pf2:r` (occult) **Trigger** A creature attempts to target the precognate, or attempts to include the precognate in an area of effect\n* * *\n\n**Effect** The precognate Steps or Strides. The triggering creature can select another action if the precognate is no longer a valid target, or if the precognate moves out of the area."
 
 attacks:
   - name: ""
@@ -64,11 +66,17 @@ attacks:
     desc: "`pf2:1` Claw +15 (agile, finesse)\n__Damage__  2d6 + 6 slashing"
 
   - name: "Efficient Takedown"
-    desc: "`pf2:2` (occult) The precognate's divinations determine an optimal plan to disable prey. It takes up to three Athletics actions, choosing between Disarm, Grapple, Trip, or Shove. The precognate can't use the same Athletics action against the same target more than once during an Efficient Takedown. For example, it can't Trip the same target twice or three times. A precognate's claws can hold up to 3 creatures in a grapple at once, but it can restrain only one of them. The precognate's multiple attack penalty doesn't increase until after all the checks have been attempted."
+    desc: "`pf2:2` (occult) The precognate's divinations determine an optimal plan to disable prey. It takes up to three Athletics actions, choosing between [[undefined]], [[undefined]], [[undefined]], or [[undefined]]. The precognate can't use the same Athletics action against the same target more than once during an Efficient Takedown. For example, it can't Trip the same target twice or three times. A precognate's claws can hold up to 3 creatures in a grapple at once, but it can restrain only one of them. The precognate's multiple attack penalty doesn't increase until after all the checks have been attempted."
 
   - name: "Optimal Avoidance"
     desc: "`pf2:1` (occult) The precognate Steps and then Strides up to half its Speed."
  
+```
+
+```encounter-table
+name: Precognate
+creatures:
+  - 1: Precognate
 ```
 
 

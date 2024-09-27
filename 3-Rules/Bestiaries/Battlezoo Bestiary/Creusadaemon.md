@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/fiend
   - pf2e/creature/type/unholy
+  - pf2eMonster
   - pf2e/creature/level/7
 statblock: inline
 name: "Creusadaemon"
@@ -27,18 +28,18 @@ level: "Creature 7"
 
 alignment: ""
 size: "Medium"
-trait_01: "daemon"
-trait_02: "evil"
-trait_03: "fiend"
-trait_04: "unholy"
+trait_01: [[daemon]]
+trait_02: [[evil]]
+trait_03: [[fiend]]
+trait_04: [[unholy]]
 modifier: 15
 perception:
   - name: "Perception"
     desc: "+15; Darkvision"
-languages: "Common, Daemonic"
+languages: "Common, Daemonic; telepathy 100 feet"
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +19, Athletics: +14 (+22 to Leap), Intimidation: +15, Medicine: +15, Religion: +15, Stealth: +13, "
+    desc: "Acrobatics: +19, Athletics: +14, Intimidation: +15, Medicine: +15, Religion: +15, Stealth: +13"
 abilityMods: [5, 6, 5, 4, 2, 4]
 speed: 30 feet
 sourcebook: "_Battlezoo Bestiary_"
@@ -82,11 +83,17 @@ attacks:
     desc: "`pf2:1` (attack) The creusadaemon reloads its crossbow and makes a crossbow Strike."
 
   - name: "Daemon Fever"
-    desc: " (disease) The creusadaemon can telepathically communicate with the afflicted creature at any distance on the same plane;\n**Saving Throw** Fortitude;\n**Stage 1** carrier (1 day);\n**Stage 2** Enfeebled 1 (1 day);\n**Stage 3** Enfeebled 2 (1 day);\n**Stage 4** enfeebled 2 (1 day);\n**Stage 5** Enfeebled 3 (1 week);\n**Stage 6** dead"
+    desc: " (disease) The creusadaemon can telepathically communicate with the afflicted creature at any distance on the same plane;\n\n**Saving Throw** DC 24 Fortitude;\n\n**Stage 1** carrier (1 day);\n\n**Stage 2** [[Conditions/Enfeebled|Enfeebled 1]] (1 day);\n\n**Stage 3** [[Conditions/Enfeebled|Enfeebled 2]] (1 day);\n\n**Stage 4** enfeebled 2 (1 day);\n\n**Stage 5** [[Conditions/Enfeebled|Enfeebled 3]] (1 week);\n\n**Stage 6** dead"
 
   - name: "Inflame Fever"
-    desc: "`pf2:1` (concentrate,divine) **Frequency** once per round;\n**Effect** The creusadaemon stokes a fever in the mind of a creature within 30 feet. The target must succeed at a Fortitude save or immediately contract Daemon Fever. Regardless of the result of its save, the creature gains a +2 status bonus on its next saving throw against a disease effect.\nEffect: Inflame Fever"
+    desc: "`pf2:1` (concentrate,divine) **Frequency** once per round;\n\n**Effect** The creusadaemon stokes a fever in the mind of a creature within 30 feet. The target must succeed at a DC 24 Fortitude save or immediately contract Daemon Fever. Regardless of the result of its save, the creature gains a +2 status bonus on its next saving throw against a disease effect.\n* * *\n\n[[Effects/Effect_ Inflame Fever|Effect: Inflame Fever]]"
  
+```
+
+```encounter-table
+name: Creusadaemon
+creatures:
+  - 1: Creusadaemon
 ```
 
 

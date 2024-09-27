@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/undead
   - pf2e/creature/type/unholy
+  - pf2eMonster
   - pf2e/creature/level/18
 statblock: inline
 name: "Bone Ship"
@@ -24,18 +25,18 @@ token: [[modules/pf2e-tokens-bestiaries/portraits/undead/bone-ship.webp| ]]
 source: "Pathfinder Bestiary 3"
 name: "Bone Ship"
 level: "Creature 18"
-rare_03: "Rare"
+rare_03: [[Rare]]
 alignment: ""
 size: "grg"
-trait_01: "chaotic"
-trait_02: "evil"
-trait_03: "undead"
-trait_04: "unholy"
+trait_01: [[chaotic]]
+trait_02: [[evil]]
+trait_03: [[undead]]
+trait_04: [[unholy]]
 modifier: 32
 perception:
   - name: "Perception"
     desc: "+32; Darkvision"
-languages: "Common, Necril"
+languages: "Common, Necril; (can&#x27;t speak any language)"
 skills:
   - name: "Skills"
     desc: "Athletics: +33, Intimidation: +31, Sailing Lore: +37"
@@ -55,7 +56,7 @@ abilities_top:
   - name: ""
 
   - name: "Skeleton Crew"
-    desc: " (divine) The bone ship is compelled not by a single mind, but by the collective consciousness of dead sailors' souls.\nThe ship is immune to mental effects that target only a specific number of creatures. It's still subject to mental effects that affect all creatures in an area.\nAny creature that tries to communicate with the ship via telepathy or read its thoughts hears the dying screams and gasps of the crew, and is targeted with a 9th-rank [[Spells/Warp Mind|Warp Mind]] spell (DC 41 Will check).\nThe ship animates skeletal crew members out of its own bones, arming them with rusty old cutlasses or other armaments so they can attack anyone who comes next to the ship. These entities have appearances matching those the bound souls had in life but aren't truly individuals; anything that targets them in fact targets the bone ship they're a part of.\nHundreds of black soul gems decorate the ship's exterior, each holding one soul. These gems can hold souls of creatures whose level was 16th or lower, and they have no value. If the ship is destroyed, all these gems shatter, freeing the souls within."
+    desc: " (divine) The bone ship is compelled not by a single mind, but by the collective consciousness of dead sailors' souls.\n\nThe ship is immune to mental effects that target only a specific number of creatures. It's still subject to mental effects that affect all creatures in an area.\n\nAny creature that tries to communicate with the ship via telepathy or read its thoughts hears the dying screams and gasps of the crew, and is targeted with a 9th-rank [[Spells/Warp Mind|Warp Mind]] spell (DC 41 Will check).\n\nThe ship animates skeletal crew members out of its own bones, arming them with rusty old cutlasses or other armaments so they can attack anyone who comes next to the ship. These entities have appearances matching those the bound souls had in life but aren't truly individuals; anything that targets them in fact targets the bone ship they're a part of.\n\nHundreds of black soul gems decorate the ship's exterior, each holding one soul. These gems can hold souls of creatures whose level was 16th or lower, and they have no value. If the ship is destroyed, all these gems shatter, freeing the souls within."
 
   - name: "Trawl for Bones"
     desc: " (downtime) The bone ship spends 1 day scavenging bones from the sea and restores itself to full Hit Points."
@@ -63,7 +64,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Blood Wake"
-    desc: " (aura,divine,fear,mental) 30 feet. The churning water around the bone ship tinges red with seeping blood. A living creature that enters water in the aura sees visions of itself drowning in the blood and must attempt a DC 37 Will check save. After attempting this saving throw, the creature is temporarily immune for 1 hour.\nOn a failure, the creature becomes [[Conditions/Frightened 1|Frightened 2]] ([[Conditions/Frightened 1|Frightened 4]] on a critical failure) and [[Conditions/Stunned 1|Stunned 1]], and it takes a -4 status penalty to Athletics checks to Swim.\n[[Bestiary Effects/Effect_ Blood Wake|Effect: Blood Wake]]"
+    desc: " (aura,divine,fear,mental) 30 feet. The churning water around the bone ship tinges red with seeping blood. A living creature that enters water in the aura sees visions of itself drowning in the blood and must attempt a DC 37 Will check save. After attempting this saving throw, the creature is temporarily immune for 1 hour.\n\nOn a failure, the creature becomes [[Conditions/Frightened|Frightened 2]] ([[Conditions/Frightened|Frightened 4]] on a critical failure) and [[Conditions/Stunned|Stunned 1]], and it takes a -4 status penalty to Athletics checks to Swim.\n\n[[Bestiary Effects/Effect_ Blood Wake|Effect: Blood Wake]]"
 
 attacks:
   - name: ""
@@ -81,17 +82,23 @@ attacks:
     desc: "`pf2:2`  The bone ship makes four bone cannon Strikes, each targeting a different creature."
 
   - name: "Chain Shot"
-    desc: "`pf2:1`  The bone ship makes a special bone cannon Strike, firing a chain made of bones. A creature hit by this Strike is [[Conditions/Grabbed|Grabbed]] by the chain ([[Actions/Escape|Escape]] DC 41).\nThe bone ship can use Interact actions to reel in a grabbed creature 50 feet per action spent, and when the ship moves, it pulls the grabbed creature along with it."
+    desc: "`pf2:1`  The bone ship makes a special bone cannon Strike, firing a chain made of bones. A creature hit by this Strike is [[Conditions/Grabbed|Grabbed]] by the chain ([[Actions/Escape|Escape]] DC 41).\n\nThe bone ship can use Interact actions to reel in a grabbed creature 50 feet per action spent, and when the ship moves, it pulls the grabbed creature along with it."
 
   - name: "Crew's Call"
-    desc: "`pf2:2` (divine) The crew let out an anguished cry in unison. This is a [[Spells/Wails of the Damned|Wails of the Damned]] spell with 100-foot emanation (DC 39 Fortitude check). In addition, any creature within 5 feet of the ship is [[Conditions/Grabbed|Grabbed]] by the crew.\nThe ship can't use Crew's Call again for 1d4+1 rounds."
+    desc: "`pf2:2` (divine) The crew let out an anguished cry in unison. This is a [[Spells/Wails of the Damned|Wails of the Damned]] spell with @Template[emanation|distance:100] (DC 39 Fortitude check). In addition, any creature within 5 feet of the ship is [[Conditions/Grabbed|Grabbed]] by the crew.\n\nThe ship can't use Crew's Call again for 1d4+1 rounds."
 
   - name: "[[Bestiary Ability Glossary/Trample|Keelhaul]]"
-    desc: "`pf2:3`  As Trample (Huge or smaller, hull, DC 43 Reflex check), but the bone ship Swims up to double its swim Speed instead of Striding, and each creature that fails its save is also dragged under the ship.\nThe GM places each creature dragged along in an underwater space adjacent to the bone ship at the end of the ship's movement.\n"
+    desc: "`pf2:3`  As Trample (Huge or smaller, hull, DC 43 Reflex check), but the bone ship Swims up to double its swim Speed instead of Striding, and each creature that fails its save is also dragged under the ship.\n\nThe GM places each creature dragged along in an underwater space adjacent to the bone ship at the end of the ship's movement.\n\n* * *\n"
 
   - name: "Pressgang Soul"
-    desc: "`pf2:1` (divine) The bone ship casts [[Spells/Seize Soul|Seize Soul]]. The target must have died due to the bone ship's assault or from drowning. The creature's soul becomes part of the ghostly crew.\nA new soul gem grows on the ship, and the bone ship is [[Conditions/Quickened|Quickened]] for 1 minute. It can use the extra action only to Strike or Swim."
+    desc: "`pf2:1` (divine) The bone ship casts [[Spells/Seize Soul|Seize Soul]]. The target must have died due to the bone ship's assault or from drowning. The creature's soul becomes part of the ghostly crew.\n\nA new soul gem grows on the ship, and the bone ship is [[Conditions/Quickened|Quickened]] for 1 minute. It can use the extra action only to Strike or Swim."
  
+```
+
+```encounter-table
+name: Bone Ship
+creatures:
+  - 1: Bone Ship
 ```
 
 

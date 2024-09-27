@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/good
   - pf2e/creature/type/human
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/-1
 statblock: inline
 name: "Drunken Farmer"
@@ -25,9 +26,9 @@ level: "Creature -1"
 
 alignment: ""
 size: "Medium"
-trait_01: "good"
-trait_02: "human"
-trait_03: "humanoid"
+trait_01: [[good]]
+trait_02: [[human]]
+trait_03: [[humanoid]]
 modifier: 2
 perception:
   - name: "Perception"
@@ -66,6 +67,12 @@ attacks:
   - name: "Ranged"
     desc: "`pf2:1` Mug +1 (range increment 10 feet)\n__Damage__  1d3 + 3 bludgeoning"
  
+```
+
+```encounter-table
+name: Drunken Farmer
+creatures:
+  - 1: Drunken Farmer
 ```
 
 

@@ -9,7 +9,7 @@ license: OGL
 ---
 # Depth Gauge
 
-### [uncommon](uncommon "Uncommon Rarity Trait")
+### [uncommon](uncommon.md "Uncommon Rarity Trait")
 
 
 **Price** 1 gp; 

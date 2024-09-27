@@ -6,19 +6,20 @@ tags:
   - trait/monk
   - trait/common
   - category/classfeature
+  - remaster
 aliases: "Compendium.pf2e.classfeatures.Item.95LI24ZSx0d4qfKX"
-license: OGL
+license: ORC
 ---
 # Graceful Mastery
 ## Feat 13
-### [[monk]]
+### [[3-Rules/trait_reference/monk]]
 
 **Category** classfeature; 
 
 
 
 
-You move with perpetual grace in battle, eluding and turning aside blows. Your proficiency rank for unarmored defense increases to master.
+You move with perpetual grace, turning aside blows. Your proficiency rank for unarmored defense increases to master.
 
-*Source: Pathfinder Core Rulebook*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

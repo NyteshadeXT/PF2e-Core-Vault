@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.pfs-season-4-bestiary.Actor.PKLIiMW0UMWYT6os"
 tags:
   - pf2e/creature/type/human
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/3
 statblock: inline
 name: "Ulfen Soldier"
@@ -21,11 +22,11 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Society Scenario #4-03: Linnorm&#x27;s Legacy"
 name: "Ulfen Soldier"
 level: "Creature 3"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Medium"
-trait_01: "human"
-trait_02: "humanoid"
+trait_01: [[human]]
+trait_02: [[humanoid]]
 modifier: 8
 perception:
   - name: "Perception"
@@ -33,7 +34,7 @@ perception:
 languages: "Common, Skald"
 skills:
   - name: "Skills"
-    desc: "Athletics: +11, Intimidation: +8, Sailing Lore: +7, Society: +5, Survival: +8, Warfare Lore: +7"
+    desc: "Athletics: +11, Intimidation: +8, Society: +5, Survival: +8, Sailing Lore: +7, Warfare Lore: +7"
 abilityMods: [4, 1, 3, 0, 1, 1]
 speed: 25 feet
 sourcebook: "_Pathfinder Society Scenario #4-03: Linnorm&#x27;s Legacy_"
@@ -56,7 +57,7 @@ abilities_mid:
     desc: "`pf2:r`  "
 
   - name: "Bravery"
-    desc: "  When an Ulfen soldier rolls a success on a Will save against a fear effect, they get a critical success instead. In addition, any time they gain the [[Conditions/Frightened 1|Frightened]] condition, reduce its value by 1."
+    desc: "  When an Ulfen soldier rolls a success on a Will save against a fear effect, they get a critical success instead. In addition, any time they gain the [[Conditions/Frightened|Frightened]] condition, reduce its value by 1."
 
   - name: "[[Bestiary Ability Glossary/Shield Block|Shield Block]]"
     desc: "`pf2:r`  "
@@ -64,24 +65,30 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
+  - name: "Ranged"
     desc: "`pf2:1` Hatchet +12 (agile, sweep, thrown 10 ft.)\n__Damage__  1d6 + 6 slashing"
 
   - name: "Melee"
     desc: "`pf2:1` Longsword +12 (versatile p)\n__Damage__  1d8 + 6 slashing"
 
-  - name: "Ranged"
+  - name: "Melee"
     desc: "`pf2:1` Javelin +12 (thrown)\n__Damage__  1d6 + 6 piercing"
 
-  - name: "Ranged"
+  - name: "Melee"
     desc: "`pf2:1` Shortbow +12 (deadly d10)\n__Damage__  1d6 + 2 piercing"
 
   - name: "Intimidating Strike"
-    desc: "`pf2:2` (emotion,fear,mental) The Ulfen soldier makes a melee Strike. If they hit and deal damage, the target is [[Conditions/Frightened 1|Frightened 1]], or [[Conditions/Frightened 1|Frightened 2]] on a critical hit."
+    desc: "`pf2:2` (emotion,fear,mental) The Ulfen soldier makes a melee Strike. If they hit and deal damage, the target is [[Conditions/Frightened|Frightened 1]], or [[Conditions/Frightened|Frightened 2]] on a critical hit."
 
   - name: "Overwhelm"
     desc: "  Ulfen soldiers are trained to work well as a unit. The Ulfen soldier's Strikes deal an extra 1d6 damage to creatures within reach of at least two of the Ulfen soldier's allies."
  
+```
+
+```encounter-table
+name: Ulfen Soldier
+creatures:
+  - 1: Ulfen Soldier
 ```
 
 

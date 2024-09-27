@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/human
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/5
 statblock: inline
 name: "Krosovahn Mendesil"
@@ -23,13 +24,13 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Society Scenario #5-03: Heidmarch Heist"
 name: "Krosovahn Mendesil"
 level: "Creature 5"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Medium"
-trait_01: "chaotic"
-trait_02: "evil"
-trait_03: "human"
-trait_04: "humanoid"
+trait_01: [[chaotic]]
+trait_02: [[evil]]
+trait_03: [[human]]
+trait_04: [[humanoid]]
 modifier: 15
 perception:
   - name: "Perception"
@@ -63,7 +64,7 @@ abilities_mid:
     desc: "  On the first round of combat, if Krosovahn Mendesil rolls Deception or Stealth for initiative, creatures who haven't acted are [[Conditions/Off-Guard|Off-Guard]] to Krosovahn Mendesil."
 
   - name: "You're Next"
-    desc: "`pf2:r` (emotion,fear,mental) **Trigger** Krosovahn Mendesil reduces an enemy to 0 Hit Points\n**Effect** After downing the foe, Krosovahn Mendesil menacingly reminds another foe that he's coming after them next. Krosovahn Mendesil attempts an Intimidation check with a +2 circumstance bonus to [[Actions/Demoralize|Demoralize]] a single creature that he can see and that can see him."
+    desc: "`pf2:r` (emotion,fear,mental) **Trigger** Krosovahn Mendesil reduces an enemy to 0 Hit Points\n* * *\n\n**Effect** After downing the foe, Krosovahn Mendesil menacingly reminds another foe that he's coming after them next. Krosovahn Mendesil attempts an Intimidation check with a +2 circumstance bonus to [[Actions/Demoralize|Demoralize]] a single creature that he can see and that can see him."
 
 attacks:
   - name: ""
@@ -81,7 +82,7 @@ attacks:
     desc: "`pf2:1` Shortbow +15 (deadly d10, range increment 60 feet, reload 0)\n__Damage__  2d6 + 6 piercing"
 
   - name: "Brutal Rally"
-    desc: "`pf2:r` (auditory,emotion,linguistic,mental) **Trigger** Krosovahn Mendesil rolls a critical hit against a creature\n**Effect** All allies that can see Krosovahn Mendesil gain a +1 circumstance bonus to attack rolls until the start of Krosovahn Mendesil's next turn.\n[[Bestiary Effects/Effect_ Brutal Rally|Effect: Brutal Rally]]"
+    desc: "`pf2:r` (auditory,emotion,linguistic,mental) **Trigger** Krosovahn Mendesil rolls a critical hit against a creature\n* * *\n\n**Effect** All allies that can see Krosovahn Mendesil gain a +1 circumstance bonus to attack rolls until the start of Krosovahn Mendesil's next turn.\n\n[[Bestiary Effects/Effect_ Brutal Rally|Effect: Brutal Rally]]"
 
   - name: "Quick Draw"
     desc: "`pf2:1`  Krosovahn Mendesil Interacts to draw a weapon, then Strikes with that weapon."
@@ -89,6 +90,12 @@ attacks:
   - name: "[[Bestiary Ability Glossary/Sneak Attack|Sneak Attack]]"
     desc: "  Krosovahn Mendesil deals an extra 2d6 precision damage to [[Conditions/Off-Guard|Off-Guard]] creatures"
  
+```
+
+```encounter-table
+name: Krosovahn Mendesil
+creatures:
+  - 1: Krosovahn Mendesil
 ```
 
 

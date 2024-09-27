@@ -14,7 +14,7 @@ license: OGL
 ---
 # Change Shape (Anadi) `pf2:1`
 
-### [[anadi]][[arcane]][[concentrate]][[polymorph]]
+### [[anadi]][[3-Rules/Rule References/Arcane]][[3-Rules/Rule References/Concentrate]][[polymorph]]
 
 **Category** interaction; 
 

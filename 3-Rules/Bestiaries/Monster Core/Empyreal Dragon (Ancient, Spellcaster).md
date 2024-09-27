@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/divine
   - pf2e/creature/type/dragon
   - pf2e/creature/type/holy
+  - pf2eMonster
   - pf2e/creature/level/19
   - remaster
 statblock: inline
@@ -20,15 +21,16 @@ license: ORC
 columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
+token: [[modules/pf2e-tokens-monster-core/assets/portraits/dragon-empyreal-adult.webp| ]]
 source: "Pathfinder Monster Core"
 name: "Empyreal Dragon (Ancient, Spellcaster)"
 level: "Creature 19"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "grg"
-trait_01: "divine"
-trait_02: "dragon"
-trait_03: "holy"
+trait_01: [[divine]]
+trait_02: [[dragon]]
+trait_03: [[holy]]
 modifier: 35
 perception:
   - name: "Perception"
@@ -36,7 +38,7 @@ perception:
 languages: "Chthonian, Common, Diabolic, Draconic, Empyrean, Fey, Necril; Truespeech"
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +31, Athletics: +35, Diplomacy: +31, Heaven Lore: +32, Intimidation: +31, Medicine: +35, Religion: +32, Society: +30"
+    desc: "Acrobatics: +31, Athletics: +35, Diplomacy: +31, Intimidation: +31, Medicine: +35, Religion: +32, Society: +30, Heaven Lore: +32"
 abilityMods: [8, 4, 6, 4, 7, 5]
 speed: 80 feet,  fly 200 feet
 sourcebook: "_Pathfinder Monster Core_"
@@ -85,11 +87,17 @@ attacks:
     desc: "`pf2:1` (concentrate,divine,manipulate) The dragon tosses their halo to a square within 90 feet. While the halo is deployed in this way, the dragon loses their inspiring presence aura, and the aura instead emanates from the halo with the same emanation radius. The dragon can Sustain to recall the halo from any distance. The halo is made of pure light—it doesn't occupy space and can't be targeted or destroyed in any way."
 
   - name: "Halo Pulse"
-    desc: "`pf2:2` (concentrate,divine) The dragon chooses one effect to impose on creatures in their inspiring presence aura.\n\nThe dragon can't use Halo Pulse again for 1d4 rounds.\n\n*   **Repulsion** Each creature must succeed at a DC 41 Fortitude check save or be pushed until it's no longer in the aura.\n*   **Restoration** (healing, vitality) Each creature recovers 9d8 Hit Points.\n*   **Restriction** (incapacitation, mental) Creatures must succeed at a DC 41 Will check save or be [[Conditions/Slowed 1|Slowed 1]] ([[Conditions/Slowed 1|Slowed 2]] on a critical failure) while they remain within the aura. Regardless of the result, a creature is then temporarily immune to restriction for 1 minute."
+    desc: "`pf2:2` (concentrate,divine) The dragon chooses one effect to impose on creatures in their inspiring presence aura.\n\nThe dragon can't use Halo Pulse again for 1d4 rounds.\n\n*   **Repulsion** Each creature must succeed at a DC 41 Fortitude check save or be pushed until it's no longer in the aura.\n*   **Restoration** (healing, vitality) Each creature recovers 9d8 Hit Points.\n*   **Restriction** (incapacitation, mental) Creatures must succeed at a DC 41 Will check save or be [[Conditions/Slowed|Slowed 1]] ([[Conditions/Slowed|Slowed 2]] on a critical failure) while they remain within the aura. Regardless of the result, a creature is then temporarily immune to restriction for 1 minute."
 
   - name: "Spirit Breath"
-    desc: "`pf2:2` (divine,holy,spirit) The dragon unleashes a blast of holy fire that deals 16d8 spirit damage in a 50-foot cone (DC 41 Reflex check save).\n\nThe dragon can't use Spirit Breath again for 1d4 rounds."
+    desc: "`pf2:2` (divine,holy,spirit) The dragon unleashes a blast of holy fire that deals 16d8 spirit damage in a @Template[cone|distance:50] (DC 41 Reflex check save).\n\nThe dragon can't use Spirit Breath again for 1d4 rounds."
  
+```
+
+```encounter-table
+name: Empyreal Dragon (Ancient, Spellcaster)
+creatures:
+  - 1: Empyreal Dragon (Ancient, Spellcaster)
 ```
 
 

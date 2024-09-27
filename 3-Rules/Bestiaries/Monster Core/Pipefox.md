@@ -6,6 +6,7 @@ cssClasses: pf2e
 aliases: "Compendium.pf2e.pathfinder-monster-core.Actor.aZNYR8Zn18ljILfO" 
 tags:
   - pf2e/creature/type/beast
+  - pf2eMonster
   - pf2e/creature/level/2
   - remaster
 statblock: inline
@@ -18,13 +19,14 @@ license: ORC
 columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
+token: [[modules/pf2e-tokens-monster-core/assets/portraits/pipefox.webp| ]]
 source: "Pathfinder Monster Core"
 name: "Pipefox"
 level: "Creature 2"
 
 alignment: ""
 size: "tiny"
-trait_01: "beast"
+trait_01: [[beast]]
 modifier: 11
 perception:
   - name: "Perception"
@@ -65,6 +67,12 @@ attacks:
   - name: "Rapid Erudition"
     desc: "`pf2:1` (concentrate) **Requirements** The pipefox saw a cantrip cast within the last minute;\n* * *\n\n**Effect** The pipefox can cast the cantrip it saw as an innate arcane spell for 1 minute."
  
+```
+
+```encounter-table
+name: Pipefox
+creatures:
+  - 1: Pipefox
 ```
 
 

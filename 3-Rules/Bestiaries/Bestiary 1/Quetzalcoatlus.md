@@ -6,6 +6,7 @@ cssClasses: pf2e
 aliases: "Compendium.pf2e.pathfinder-bestiary.Actor.8JvzSTwQWtOsxRfL" 
 tags:
   - pf2e/creature/type/animal
+  - pf2eMonster
   - pf2e/creature/level/7
 statblock: inline
 name: "Quetzalcoatlus"
@@ -24,11 +25,12 @@ level: "Creature 7"
 
 alignment: ""
 size: "huge"
-trait_01: "animal"
+trait_01: [[animal]]
 modifier: 15
 perception:
   - name: "Perception"
     desc: "+15; Low-Light Vision, Scent (Imprecise) 30 Feet"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Acrobatics: +14, Athletics: +17"
@@ -67,6 +69,12 @@ attacks:
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
     desc: "`pf2:1`  "
  
+```
+
+```encounter-table
+name: Quetzalcoatlus
+creatures:
+  - 1: Quetzalcoatlus
 ```
 
 

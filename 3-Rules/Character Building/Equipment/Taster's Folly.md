@@ -33,7 +33,7 @@ Devised to bypass detection, a dose of taster's folly consists of two compounds 
 
 **Stage 1** 2d4 poison (1 minute)
 
-**Stage 2** 3d4 poison and [[Conditions/Sickened 1|Sickened 1]] (1 minute)
+**Stage 2** 3d4 poison and [[Conditions/Sickened|Sickened 1]] (1 minute)
 
 **Stage 3** 4d4 poison and sickened 1 (1 minute)
 

@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/human
   - pf2e/creature/type/humanoid
   - pf2e/creature/type/lawful
+  - pf2eMonster
   - pf2e/creature/level/15
 statblock: inline
 name: "Mpondo"
@@ -22,12 +23,12 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #173: Doorway to the Red Star"
 name: "Mpondo"
 level: "Creature 15"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Medium"
-trait_01: "human"
-trait_02: "humanoid"
-trait_03: "lawful"
+trait_01: [[human]]
+trait_02: [[humanoid]]
+trait_03: [[lawful]]
 modifier: 26
 perception:
   - name: "Perception"
@@ -79,11 +80,17 @@ attacks:
     desc: "_[[Spells/Rite of the Red Star|Rite of the Red Star]]_"
 
   - name: "Iobane Vision"
-    desc: " (fortune) Warder-Chief Mpondo can see [[Conditions/Invisible|Invisible]] creatures and objects as though they are [[Conditions/Concealed|Concealed]].\nWhen he [[Actions/Seek|Seeks]] or [[Actions/Sense Motive|Senses Motive]], he can roll twice and take the higher result."
+    desc: " (fortune) Warder-Chief Mpondo can see [[Conditions/Invisible|Invisible]] creatures and objects as though they are [[Conditions/Concealed|Concealed]].\n\nWhen he [[Actions/Seek|Seeks]] or [[Actions/Sense Motive|Senses Motive]], he can roll twice and take the higher result."
 
   - name: "Spellstrike"
-    desc: "`pf2:2`  **Frequency** Until recharged\n**Effect** Warder-Chief Mpondo Casts a Spell that takes 1 or 2 actions to cast and requires a spell attack roll. The effects of the spell do not occur immediately but are imbued into the attack instead. Mpondo makes a melee Strike. The spell is coupled with the attack, using the attack roll result to determine the effects of both the Strike and the spell.\nThis counts as two attacks for Mpondo's multiple attack penalty, but don't apply the penalty until after he has completed the Spellstrike.\nAfter Mpondo uses Spellstrike, he can't do so again until he recharges his Spellstrike as a single action, which has the concentrate trait. Mpondo also recharges his Spellstrike when he casts a conflux spell."
+    desc: "`pf2:2`  **Frequency** Until recharged\n* * *\n\n**Effect** Warder-Chief Mpondo Casts a Spell that takes 1 or 2 actions to cast and requires a spell attack roll. The effects of the spell do not occur immediately but are imbued into the attack instead. Mpondo makes a melee Strike. The spell is coupled with the attack, using the attack roll result to determine the effects of both the Strike and the spell.\n\nThis counts as two attacks for Mpondo's multiple attack penalty, but don't apply the penalty until after he has completed the Spellstrike.\n\nAfter Mpondo uses Spellstrike, he can't do so again until he recharges his Spellstrike as a single action, which has the concentrate trait. Mpondo also recharges his Spellstrike when he casts a conflux spell."
  
+```
+
+```encounter-table
+name: Mpondo
+creatures:
+  - 1: Mpondo
 ```
 
 

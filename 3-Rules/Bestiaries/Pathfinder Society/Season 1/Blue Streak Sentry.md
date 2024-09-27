@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/human
   - pf2e/creature/type/humanoid
   - pf2e/creature/type/lawful
+  - pf2eMonster
   - pf2e/creature/level/2
 statblock: inline
 name: "Blue Streak Sentry"
@@ -22,12 +23,12 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Society Scenario #1-24: Lightning Strikes, Stars Fall"
 name: "Blue Streak Sentry"
 level: "Creature 2"
-rare_03: "Rare"
+rare_03: [[Rare]]
 alignment: ""
 size: "Medium"
-trait_01: "human"
-trait_02: "humanoid"
-trait_03: "lawful"
+trait_01: [[human]]
+trait_02: [[humanoid]]
+trait_03: [[lawful]]
 modifier: 11
 perception:
   - name: "Perception"
@@ -66,6 +67,12 @@ attacks:
   - name: "Sentry's Aim"
     desc: "`pf2:1` (concentrate) The Blue Streak sentry aims carefully and fires. They make a ranged weapon Strike with a +1 circumstance bonus. The Strike ignores the [[Conditions/Concealed|Concealed]] condition, lesser cover, and standard cover, and reduces greater cover to standard cover."
  
+```
+
+```encounter-table
+name: Blue Streak Sentry
+creatures:
+  - 1: Blue Streak Sentry
 ```
 
 

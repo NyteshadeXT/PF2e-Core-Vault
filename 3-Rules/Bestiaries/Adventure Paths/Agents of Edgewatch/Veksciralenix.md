@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.agents-of-edgewatch-bestiary.Actor.Fmsw7P5CF3uHtD5W"
 tags:
   - pf2e/creature/type/dragon
   - pf2e/creature/type/time
+  - pf2eMonster
   - pf2e/creature/level/20
 statblock: inline
 name: "Veksciralenix"
@@ -21,11 +22,11 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #162: Ruins of the Radiant Siege"
 name: "Veksciralenix"
 level: "Creature 20"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "grg"
-trait_01: "dragon"
-trait_02: "time"
+trait_01: [[dragon]]
+trait_02: [[time]]
 modifier: 36
 perception:
   - name: "Perception"
@@ -52,13 +53,13 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Alien Presence"
-    desc: " (aura,emotion,mental) 90 feet. A creature that first enters the area must attempt a DC 42 Will check save.\nRegardless of the result of the saving throw, the creature is temporarily immune to the Veksciralenix's Alien Presence for 1 minute.\n**Critical Success** The creature is unaffected.\n**Success** The creature is [[Conditions/Slowed 1|Slowed 1]] for 1 round.\n**Failure** The creature is [[Conditions/Slowed 1|Slowed 1]] for 1d4 rounds.\n**Critical Failure** The creature is [[Conditions/Slowed 1|Slowed 1]] for 1 minute."
+    desc: " (aura,emotion,mental) 90 feet. A creature that first enters the area must attempt a DC 42 Will check save.\n\nRegardless of the result of the saving throw, the creature is temporarily immune to the Veksciralenix's Alien Presence for 1 minute.\n* * *\n\n**Critical Success** The creature is unaffected.\n\n**Success** The creature is [[Conditions/Slowed|Slowed 1]] for 1 round.\n\n**Failure** The creature is [[Conditions/Slowed|Slowed 1]] for 1d4 rounds.\n\n**Critical Failure** The creature is [[Conditions/Slowed|Slowed 1]] for 1 minute."
 
   - name: "[[Bestiary Ability Glossary/Attack of Opportunity|Attack of Opportunity (Jaws Only)]]"
-    desc: "`pf2:r`  Jaws only\n"
+    desc: "`pf2:r`  Jaws only\n\n* * *\n"
 
   - name: "Second Chance"
-    desc: "`pf2:r`  **Frequency** three times per day\n**Trigger** Veksciralenix or a creature that Veksciralenix can see attempts a check and learns the results\n**Effect** The triggering creature rerolls the triggering check and takes the second result."
+    desc: "`pf2:r`  **Frequency** three times per day\n\n**Trigger** Veksciralenix or a creature that Veksciralenix can see attempts a check and learns the results\n* * *\n\n**Effect** The triggering creature rerolls the triggering check and takes the second result."
 
 attacks:
   - name: ""
@@ -82,7 +83,7 @@ attacks:
     desc: "_[[Spells/Collective Memories|Legend Lore]]_"
 
   - name: "Breath Weapon"
-    desc: "`pf2:2` (arcane,electricity) The time dragon breathes in one of two ways.\nThe dragon can't use Breath Weapon again for 1d4 rounds.\n**Storm** The dragon breathes a burst of lightning in a 50-foot cone that deals 20d6 electricity damage (DC 42 Reflex check save).\n**Time Displacement** (arcane, transmutation) The dragon breathes a time storm. Each creature within a 50-foot cone must attempt a DC 42 Fortitude check save.\n**Critical Success** The creature is unaffected.\n**Success** The creature is [[Conditions/Stunned 1|Stunned 1]].\n**Failure** The creature is [[Conditions/Stunned 1|Stunned 4]].\n**Critical Failure** The creature is [[Conditions/Stunned 1|Stunned 6]]."
+    desc: "`pf2:2` (arcane,electricity) The time dragon breathes in one of two ways.\n\nThe dragon can't use Breath Weapon again for 1d4 rounds.\n* * *\n\n**Storm** The dragon breathes a burst of lightning in a @Template[cone|distance:50] that deals 20d6 electricity damage (DC 42 Reflex check save).\n* * *\n\n**Time Displacement** (arcane, transmutation) The dragon breathes a time storm. Each creature within a @Template[cone|distance:50] must attempt a DC 42 Fortitude check save.\n* * *\n\n**Critical Success** The creature is unaffected.\n\n**Success** The creature is [[Conditions/Stunned|Stunned 1]].\n\n**Failure** The creature is [[Conditions/Stunned|Stunned 4]].\n\n**Critical Failure** The creature is [[Conditions/Stunned|Stunned 6]]."
 
   - name: "Draconic Frenzy"
     desc: "`pf2:2`  Veksciralenix makes two claw Strikes and one wing Strike in any order."
@@ -90,6 +91,12 @@ attacks:
   - name: "Draconic Momentum"
     desc: "  Veksciralenix recharges their Breath Weapon whenever they score a critical hit with a Strike."
  
+```
+
+```encounter-table
+name: Veksciralenix
+creatures:
+  - 1: Veksciralenix
 ```
 
 

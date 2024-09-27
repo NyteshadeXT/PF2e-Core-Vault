@@ -12,7 +12,7 @@ license: ORC
 ---
 # Channel Protection Amulet
 ## Item 3
-### [uncommon](uncommon "Uncommon Rarity Trait")[[invested]][[magical]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[invested]][[3-Rules/Rule References/Magical]]
 
 
 **Price** 56 gp; 

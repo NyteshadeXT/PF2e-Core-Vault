@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/aquatic
   - pf2e/creature/type/elemental
   - pf2e/creature/type/water
+  - pf2eMonster
   - pf2e/creature/level/16
 statblock: inline
 name: "Water Elemental Vessel"
@@ -22,12 +23,12 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #161: Belly of the Black Whale"
 name: "Water Elemental Vessel"
 level: "Creature 16"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Large"
-trait_01: "aquatic"
-trait_02: "elemental"
-trait_03: "water"
+trait_01: [[aquatic]]
+trait_02: [[elemental]]
+trait_03: [[water]]
 modifier: 28
 perception:
   - name: "Perception"
@@ -72,7 +73,7 @@ attacks:
     desc: "DC 38, attack +30; __8th __  _[[Spells/Polar Ray|Polar Ray]]_; __7th __  _[[Spells/Prismatic Spray|Prismatic Spray]]_, _[[Spells/Volcanic Eruption|Volcanic Eruption]]_; __6th __  _[[Spells/Fireball|Fireball]]_, _[[Spells/Purple Worm Sting|Purple Worm Sting]]_; __5th __  _[[Spells/Mariner's Curse|Mariner's Curse]]_, _[[Spells/Wall of Ice|Wall of Ice]]_; __4th __  _[[Spells/Translocate|Dimension Door]]_, _[[Spells/Wall of Fire|Wall of Fire]]_; __3rd __  _[[Spells/Earthbind|Earthbind]]_, _[[Spells/Paralyze|Paralyze]]_, _[[Spells/Vampiric Feast|Vampiric Touch]]_; __2nd __  _[[Spells/Dispel Magic|Dispel Magic]]_, _[[Spells/Mist|Obscuring Mist]]_, _[[Spells/Stupefy|Touch of Idiocy]]_; __1st __  _[[Spells/Hydraulic Push|Hydraulic Push]]_, _[[Spells/Shocking Grasp|Shocking Grasp]]_, _[[Spells/Spider Sting|Spider Sting]]_"
 
   - name: "[[Bestiary Ability Glossary/Engulf|Engulf]]"
-    desc: "`pf2:2`  DC 35 Reflex check save, no damage, [[Actions/Escape|Escape]] DC 35, Rupture 28\n"
+    desc: "`pf2:2`  DC 35 Reflex check save, no damage, [[Actions/Escape|Escape]] DC 35, Rupture 28\n\n* * *\n"
 
   - name: "Internal Spell Strike"
     desc: "`pf2:1`  The elemental vessel targets an engulfed creature with one of its spells. The spell must have a range of touch."
@@ -80,6 +81,12 @@ attacks:
   - name: "[[Bestiary Ability Glossary/Push|Push 10 feet]]"
     desc: "`pf2:1`  "
  
+```
+
+```encounter-table
+name: Water Elemental Vessel
+creatures:
+  - 1: Water Elemental Vessel
 ```
 
 

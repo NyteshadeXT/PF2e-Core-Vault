@@ -12,7 +12,7 @@ license: ORC
 ---
 # Druid Weapon Expertise
 ## Feat 11
-### [[druid]]
+### [[3-Rules/trait_reference/druid]]
 
 **Category** classfeature; 
 

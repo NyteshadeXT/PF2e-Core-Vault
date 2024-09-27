@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.pathfinder-bestiary.Actor.IpzDMSmJ42alvf9F"
 tags:
   - pf2e/creature/type/animal
   - pf2e/creature/type/swarm
+  - pf2eMonster
   - pf2e/creature/level/4
 statblock: inline
 name: "Scorpion Swarm"
@@ -25,12 +26,13 @@ level: "Creature 4"
 
 alignment: ""
 size: "Large"
-trait_01: "animal"
-trait_02: "swarm"
+trait_01: [[animal]]
+trait_02: [[swarm]]
 modifier: 11
 perception:
   - name: "Perception"
     desc: "+11; Darkvision"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Acrobatics: +11, Athletics: +6, Stealth: +11"
@@ -55,11 +57,17 @@ attacks:
   - name: ""
 
   - name: "Scorpion Venom"
-    desc: " (poison) **Saving Throw** DC 18 Fortitude check\n**Maximum Duration** 6 rounds\n**Stage 1** 1d6 poison damage (1 round)\n**Stage 2** 1d6 poison damage and [[Conditions/Enfeebled 1|Enfeebled 1]] (1 round)"
+    desc: " (poison) **Saving Throw** DC 18 Fortitude check\n* * *\n\n**Maximum Duration** 6 rounds\n\n**Stage 1** 1d6 poison damage (1 round)\n\n**Stage 2** 1d6 poison damage and [[Conditions/Enfeebled|Enfeebled 1]] (1 round)"
 
   - name: "Swarming Stings"
     desc: "`pf2:1`  Each enemy in the swarm's space takes 2d8 piercing damage (DC 21 Reflex check save) and is exposed to scorpion venom."
  
+```
+
+```encounter-table
+name: Scorpion Swarm
+creatures:
+  - 1: Scorpion Swarm
 ```
 
 

@@ -16,7 +16,7 @@ license: OGL
 
 
 
-**Minor Curse:** Your hands shake when attempting delicate work. All your failures to [[Actions/Craft|Craft]] or [[Actions/Repair|Repair]] items are instead critical failures.
+Your hands shake when attempting delicate work. All your failures to [[Actions/Craft|Craft]] or [[Actions/Repair|Repair]] items are instead critical failures.
 
 *Source: Pathfinder Lost Omens: Gods & Magic*
 *OGL*

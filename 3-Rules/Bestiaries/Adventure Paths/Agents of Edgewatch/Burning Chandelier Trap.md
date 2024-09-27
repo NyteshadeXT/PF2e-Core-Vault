@@ -5,6 +5,7 @@ noteType: pf2eHazard
 tags:
   - magical
   - mechanical
+  - pf2eHazard
   - complex
 source: Pathfinder #160: Assault on Hunting Lodge Seven
 aliases: "Compendium.pf2e.agents-of-edgewatch-bestiary.Actor.FmiOJ9HEdCBDB89z" 
@@ -22,14 +23,14 @@ name: "Burning Chandelier Trap"
 level: "Hazard 15"
 
 trait_06: "Complex"
-trait_01: "magical"
-trait_02: "mechanical"
+trait_01: [[magical]]
+trait_02: [[mechanical]]
 modifier: 26
 sourcebook: "_Pathfinder #160: Assault on Hunting Lodge Seven_"
 ac: 36
 armorclass:
   - name: AC
-    desc: "36; __Fort__ +27, __Ref__ +22, __Will__ +0"
+    desc: "36; __Fort__ +27, __Ref__ +22, "
 hp: 120
 health:
   - name: ""
@@ -51,7 +52,7 @@ attacks:
   - name: ""
 
   - name: "Extending Chandeliers"
-    desc: "`pf2:r` (occult) **Trigger** A creature touches the cage door, the closet door, or any wooden stand\n**Effect** Both double doors leading out of the room shut and lock; while the trap is active, the key doesn't work to open these doors (although their locks can be picked normally). The chandeliers drop several feet on elongated chains, allowing them to swing around the room. The closest chandelier to the triggering creature makes a swinging chandelier Strike against it. The trap then rolls initiative."
+    desc: "`pf2:r` (occult) **Trigger** A creature touches the cage door, the closet door, or any wooden stand\n* * *\n\n**Effect** Both double doors leading out of the room shut and lock; while the trap is active, the key doesn't work to open these doors (although their locks can be picked normally). The chandeliers drop several feet on elongated chains, allowing them to swing around the room. The closest chandelier to the triggering creature makes a swinging chandelier Strike against it. The trap then rolls initiative."
   - name: "Melee"
     desc: "Swinging Chandelier +35 () "
   - name: "Melee"
@@ -61,5 +62,11 @@ attacks:
     desc: "(4 actions) For every chandelier disabled, the trap's actions are reduced by 1. For each of the trap's actions, a different chandelier attacks a random creature in the room. A chandelier uses its swinging chandelier attack if it can, but it can't make melee attacks against creatures in the cage, the closet, or the gap between the two double doors leading into the vault. Against a creature it can't reach with a melee attack, it uses a flame dart attack instead. The trap doesn't take multiple attack penalties."
   - name: "Reset"
     desc: "The trap deactivates and resets 1 minute after there are no living creatures remaining in the room."
+```
+
+```encounter-table
+name: Burning Chandelier Trap
+creatures:
+  - 1: Burning Chandelier Trap
 ```
 

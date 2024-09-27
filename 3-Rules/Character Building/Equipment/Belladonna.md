@@ -9,8 +9,9 @@ tags:
   - trait/poison
   - trait/common
   - category/poison
+  - remaster
 aliases: "Compendium.pf2e.equipment-srd.Item.FL8QU8TcNauBMMhD"
-license: OGL
+license: ORC
 ---
 # Belladonna
 ## Item 2
@@ -21,11 +22,11 @@ license: OGL
 **Bulk** L; **Size** med
 **Usage** held-in-one-hand
 
-Sometimes called "deadly nightshade", belladonna is a widely available toxin produced from a plant similar to a tomato.
+**Activate** `pf2:1` (manipulate)
 
 * * *
 
-**Activate** `pf2:2` Interact (Ingested)
+Sometimes called "deadly nightshade," belladonna is a widely available toxin produced from a plant similar to a tomato.
 
 **Saving Throw** DC 19 Fortitude check
 
@@ -35,9 +36,9 @@ Sometimes called "deadly nightshade", belladonna is a widely available toxin pro
 
 **Stage 1** [[Conditions/Dazzled|Dazzled]] (10 minutes)
 
-**Stage 2** 1d6 poison damage and [[Conditions/Sickened 1|Sickened 1]] (10 minutes)
+**Stage 2** 1d6 poison damage and [[Conditions/Sickened|Sickened 1]] (10 minutes)
 
 **Stage 3** 1d6 poison damage, [[Conditions/Confused|Confused]], and sickened 1 (1 minute)
 
-*Source: Pathfinder Core Rulebook*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

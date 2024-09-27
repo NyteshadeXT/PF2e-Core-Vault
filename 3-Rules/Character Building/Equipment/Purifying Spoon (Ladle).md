@@ -12,7 +12,7 @@ license: OGL
 ---
 # Purifying Spoon (Ladle)
 ## Item 2
-### [[magical]][[Wood]]
+### [[magical]][[wood]]
 
 
 **Price** 32 gp; 

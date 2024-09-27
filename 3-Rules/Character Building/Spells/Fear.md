@@ -4,6 +4,7 @@ title: "Fear"
 noteType: pf2eSpell
 cssclasses: pf2e,pf2e-spell
 tags:
+  - pf2eSpell
   - spell/level/1
   - trait/concentrate
   - trait/emotion
@@ -11,33 +12,39 @@ tags:
   - trait/manipulate
   - trait/mental
   - trait/common
+  - tradition/arcane
+  - tradition/divine
+  - tradition/occult
+  - tradition/primal
+
   - remaster
 aliases: "Compendium.pf2e.spells-srd.Item.4koZzrnMXhhosn0D" 
+license: ORC
 ---
-# Fear  `pf2:2`  
-## Spell 1
-### [[concentrate]][[emotion]][[fear]][[manipulate]][[mental]]
-**Traditions** [[arcane]], [[divine]], [[occult]], [[primal]]
-**Range** 30 feet
-**Targets** 1 creature
-**Saving Throw**  will
-**Duration** varies
-* * * 
-You plant fear in the target; it must attempt a Will save.
+```statblock
+name: "Fear  `pf2:2`"
+level: "Spell 1"
 
-* * *
-
-**Critical Success** The target is unaffected.
-
-**Success** The target is [[Conditions/Frightened 1|Frightened 1]].
-
-**Failure** The target is [[Conditions/Frightened 1|Frightened 2]].
-
-**Critical Failure** The target is [[Conditions/Frightened 1|Frightened 3]] and [[Conditions/Fleeing|Fleeing]] for 1 round.
-
-* * *
-
-**Heightened (3rd)** You can target up to five creatures.
-
-*Source: Pathfinder Player Core*
-*ORC*
+trait_01: [[concentrate]]
+trait_02: [[emotion]]
+trait_03: [[fear]]
+trait_04: [[manipulate]]
+trait_05: [[mental]]
+layout: Basic Pathfinder 2e Layout
+columns: 1
+columnWidth: x
+abilities_top:
+  - name: ""
+  - name: "Traditions"
+    desc: "arcane, divine, occult, primal"
+  - name: "Range"
+    desc: "30 feet; **Targets** 1 creature"
+  - name: "Defense"
+    desc: " will"
+  - name: "Duration"
+    desc: "varies"
+abilities_mid:
+  - name: ""
+    desc: "You plant fear in the target; it must attempt a Will save.\n* * *\n\n**Critical Success** The target is unaffected.\n\n**Success** The target is [[Conditions/Frightened|Frightened 1]].\n\n**Failure** The target is [[Conditions/Frightened|Frightened 2]].\n\n**Critical Failure** The target is [[Conditions/Frightened|Frightened 3]] and [[Conditions/Fleeing|Fleeing]] for 1 round.\n* * *\n\n**Heightened (3rd)** You can target up to five creatures."
+sourcebook: "_Pathfinder Player Core_"
+```

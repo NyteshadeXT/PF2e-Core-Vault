@@ -66,7 +66,7 @@ Cantrips
 
 *   [[Spells/Clairvoyance|Clairvoyance]]
 *   [[Spells/Daydreamer's Curse|Daydreamer's Curse]]
-*   [[Spells/Resilient Sphere|Resilient Sphere]]
+*   [[Spells/Containment|Containment]]
 
 *Source: Pathfinder #164: Hands of the Devil*
 *OGL*

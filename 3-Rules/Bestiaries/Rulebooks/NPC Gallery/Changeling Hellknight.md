@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/human
   - pf2e/creature/type/humanoid
   - pf2e/creature/type/lawful
+  - pf2eMonster
   - pf2e/creature/level/4
 statblock: inline
 name: "Changeling Hellknight"
@@ -26,10 +27,10 @@ level: "Creature 4"
 
 alignment: ""
 size: "Medium"
-trait_01: "changeling"
-trait_02: "human"
-trait_03: "humanoid"
-trait_04: "lawful"
+trait_01: [[changeling]]
+trait_02: [[human]]
+trait_03: [[humanoid]]
+trait_04: [[lawful]]
 modifier: 13
 perception:
   - name: "Perception"
@@ -71,6 +72,12 @@ attacks:
   - name: "Primal Focus Spells"
     desc: "1 Focus Point, DC 22, attack +12; __2nd __  _[[Spells/Elemental Toss|Elemental Toss]]_"
  
+```
+
+```encounter-table
+name: Changeling Hellknight
+creatures:
+  - 1: Changeling Hellknight
 ```
 
 

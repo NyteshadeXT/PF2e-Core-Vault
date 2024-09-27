@@ -14,7 +14,7 @@ license: OGL
 ---
 # Frenzy Oil
 ## Item 16
-### [uncommon](uncommon "Uncommon Rarity Trait")[[alchemical]][[consumable]][[contact]][[3-Rules/Rule References/Poison]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[alchemical]][[consumable]][[contact]][[3-Rules/Rule References/Poison]]
 
 **Category** poison; 
 **Price** 1500 gp; 

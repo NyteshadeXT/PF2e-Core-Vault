@@ -13,6 +13,7 @@ tags:
   - pf2e/creature/type/metal
   - pf2e/creature/type/water
   - pf2e/creature/type/wood
+  - pf2eMonster
   - pf2e/creature/level/4
   - remaster
 statblock: inline
@@ -32,14 +33,14 @@ level: "Creature 4"
 
 alignment: ""
 size: "Medium"
-trait_01: "air"
-trait_02: "earth"
-trait_03: "elemental"
-trait_04: "fire"
-trait_05: "genie"
-trait_06: "metal"
-trait_07: "water"
-trait_08: "wood"
+trait_01: [[air]]
+trait_02: [[earth]]
+trait_03: [[elemental]]
+trait_04: [[fire]]
+trait_05: [[genie]]
+trait_06: [[metal]]
+trait_07: [[water]]
+trait_08: [[wood]]
 modifier: 11
 perception:
   - name: "Perception"
@@ -67,7 +68,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Commanding Presence"
-    desc: " (aura,emotion,fear,mental) 20 feet.\n\nA creature that enters the aura must succeed at a DC 19 Will check save or be [[Conditions/Frightened 1|Frightened 1]] ([[Conditions/Frightened 1|Frightened 2]] on a critical failure) and is then temporarily immune for 1 minute.\n\nA genie (with the exception of another jann) takes a –4 circumstance penalty to its save."
+    desc: " (aura,emotion,fear,mental) 20 feet.\n\nA creature that enters the aura must succeed at a DC 19 Will check save or be [[Conditions/Frightened|Frightened 1]] ([[Conditions/Frightened|Frightened 2]] on a critical failure) and is then temporarily immune for 1 minute.\n\nA genie (with the exception of another jann) takes a –4 circumstance penalty to its save."
 
   - name: "Elemental Resistance"
     desc: "  The jann's elemental resistance applies to cold, electricity, and fire damage, as well as all damage from elemental sources (including environmental damage from the elemental planes and damage from anything with the air, earth, fire, metal, water, or wood trait)."
@@ -93,9 +94,15 @@ attacks:
   - name: "[[Bestiary Ability Glossary/Change Shape|Change Shape]]"
     desc: "`pf2:1` (arcane,concentrate,polymorph) The jann transforms into any Small or Medium animal. This doesn't affect their statistics, but it could change the damage type of their Strikes.\n\n* * *\n"
 
-  - name: "Wanderer’s Wish"
+  - name: "Wanderer's Wish"
     desc: "`pf2:3`  **Frequency** three times per year\n* * *\n\n**Effect** The jann instantly grants the benefits of a critical success with the [[Spells/Wish|Wish]] ritual to a mortal creature. This has no cost. That creature specifies what they wish for, but the interpretation is up to the jann. A jann typically attempts to grant wishes in a way that encourages growth and exploration.\n\nA summoned jann can't use this ability."
  
+```
+
+```encounter-table
+name: Jann
+creatures:
+  - 1: Jann
 ```
 
 

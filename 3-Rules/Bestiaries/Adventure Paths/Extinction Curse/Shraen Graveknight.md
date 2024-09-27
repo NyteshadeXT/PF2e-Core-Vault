@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/undead
   - pf2e/creature/type/unholy
+  - pf2eMonster
   - pf2e/creature/level/15
 statblock: inline
 name: "Shraen Graveknight"
@@ -26,10 +27,10 @@ level: "Creature 15"
 
 alignment: ""
 size: "Medium"
-trait_01: "chaotic"
-trait_02: "evil"
-trait_03: "undead"
-trait_04: "unholy"
+trait_01: [[chaotic]]
+trait_02: [[evil]]
+trait_03: [[undead]]
+trait_04: [[unholy]]
 modifier: 26
 perception:
   - name: "Perception"
@@ -53,20 +54,20 @@ health:
 abilities_top:
   - name: ""
   - name: "Items"
-    desc: "[[Equipment/Hand Crossbow|Hand Crossbow]], [[Equipment/Main-Gauche|Main-Gauche]], [[Equipment/Rapier|Rapier]], [[Equipment/Elven Chain (Standard-Grade)|Elven Chain (Standard-Grade)]], 10x [[Equipment/Bolts|Bolts]], 2x [[Equipment/Purple Worm Venom|Purple Worm Venom]]"
+    desc: "[[Equipment/Hand Crossbow|Hand Crossbow]], [[Equipment/Main-Gauche|Main-Gauche]], [[Equipment/Rapier|Rapier]], [[Equipment/Elven Chain (Standard-Grade)|Elven Chain (Standard-Grade)]], 10x [[Equipment/Bolts|Bolts]], 2x [[Equipment/Cave Worm Venom|Purple Worm Venom]]"
 abilities_mid:
   - name: ""
   - name: "[[Bestiary Ability Glossary/Attack of Opportunity|Attack of Opportunity]]"
     desc: "`pf2:r`  "
 
   - name: "[[Creature Family Ability Glossary/(Graveknight) Rejuvenation|Rejuvenation]]"
-    desc: " (divine) When a graveknight is destroyed, its armor rebuilds its body over the course of 1d10 days-or more quickly if the armor is worn by a living host. If the body is destroyed before then, the process restarts.\nA graveknight can only be permanently destroyed by obliterating its armor (such as with [[Spells/Disintegrate|Disintegrate]]), transporting it to the Forge of Creation, or throwing it into the heart of a volcano."
+    desc: " (divine) When a graveknight is destroyed, its armor rebuilds its body over the course of 1d10 days-or more quickly if the armor is worn by a living host. If the body is destroyed before then, the process restarts.\n\nA graveknight can only be permanently destroyed by obliterating its armor (such as with [[Spells/Disintegrate|Disintegrate]]), transporting it to the Forge of Creation, or throwing it into the heart of a volcano."
 
   - name: "[[Creature Family Ability Glossary/(Graveknight) Sacrilegious Aura|Sacrilegious Aura]]"
     desc: " (aura,divine) 30 feet. When a creature in the aura uses a vitality spell or ability, the graveknight automatically attempts to counteract it, with a counteract modifier of +24."
 
   - name: "Status Bonus to Saves"
-    desc: "  +1 status bonus to all saves vs. magic effects.\n+2 status bonus to all saves vs. mental effects."
+    desc: "  +1 status bonus to all saves vs. magic effects.\n\n+2 status bonus to all saves vs. mental effects."
 
 attacks:
   - name: ""
@@ -87,10 +88,10 @@ attacks:
     desc: "DC 36, attack +28; __4th __  _[[Spells/Darkness|Darkness (At Will)]]_; __2nd __  _[[Spells/Faerie Fire|Faerie Fire (At Will)]]_\n__Cantrips__  __(6th)__ _[[Compendium.pf2e.spells-srd.Item.kl2q6JvBZwed4B6v|Dancing Lights]]_"
 
   - name: "[[Creature Family Ability Glossary/(Graveknight) Devastating Blast|Devastating Blast]]"
-    desc: "`pf2:2` (arcane,cold) The graveknight unleashes a 30-foot cone of energy. Creatures in the area take 8d12 cold damage (DC 36 Reflex check save).\nThe graveknight can use this ability once every 1d4 rounds."
+    desc: "`pf2:2` (arcane,cold) The graveknight unleashes a @Template[cone|distance:30] of energy. Creatures in the area take 8d12 cold damage (DC 36 Reflex check save).\n\nThe graveknight can use this ability once every 1d4 rounds."
 
   - name: "[[Creature Family Ability Glossary/(Graveknight) Graveknight's Curse|Graveknight's Curse]]"
-    desc: " (arcane,curse) This curse affects anyone who wears a graveknight's armor for at least 1 hour.\n**Saving Throw** DC 36 Will check save\n**Onset** 1 hour\n**Stage 1** [[Conditions/Doomed 1|Doomed 1]] and cannot remove the armor (1 day)\n**Stage 2** [[Conditions/Doomed 1|Doomed 2]], the creature's Speed is reduced by 10, and cannot remove the armor (1 day)\n**Stage 3** dies and transforms into the armor's graveknight.\n[[Bestiary Effects/Effect_ Graveknight's Curse|Effect: Graveknight's Curse]]"
+    desc: " (arcane,curse) This curse affects anyone who wears a graveknight's armor for at least 1 hour.\n\n**Saving Throw** DC 36 Will check save\n* * *\n\n**Onset** 1 hour\n\n**Stage 1** [[Conditions/Doomed|Doomed 1]] and cannot remove the armor (1 day)\n\n**Stage 2** [[Conditions/Doomed|Doomed 2]], the creature's Speed is reduced by 10, and cannot remove the armor (1 day)\n\n**Stage 3** dies and transforms into the armor's graveknight.\n\n[[Bestiary Effects/Effect_ Graveknight's Curse|Effect: Graveknight's Curse]]"
 
   - name: "Heart-Seeking Strike"
     desc: "`pf2:3`  The Shraen graveknight Steps once then Strikes with its rapier. A creature damaged by the attack must attempt a DC 36 Fortitude check save. On a failure, the creature takes 4d6 bleed. On a critical failure, the attack pierces the creature's heart, and the creature dies."
@@ -99,11 +100,17 @@ attacks:
     desc: "`pf2:1`  The Shraen graveknight draws a weapon, then Strikes with it."
 
   - name: "[[Creature Family Ability Glossary/(Graveknight) Ruinous Weapons|Ruinous Weapons]]"
-    desc: "  At the time of its creation, a graveknight chooses one of the following energy types that was relevant to its life or death: acid, cold, electricity, or fire.\nAny weapon the graveknight wields gains the effects of the _caustic_, _frost_, _shock_, or _flaming_ weapon rune, respectively, in addition to a _+1 striking weapon_ rune.\nIf the graveknight is 14th level or higher, its weapons instead gain the effects of the greater versions of both of these runes."
+    desc: "  At the time of its creation, a graveknight chooses one of the following energy types that was relevant to its life or death: acid, cold, electricity, or fire.\n\nAny weapon the graveknight wields gains the effects of the _caustic_, _frost_, _shock_, or _flaming_ weapon rune, respectively, in addition to a _+1 striking weapon_ rune.\n\nIf the graveknight is 14th level or higher, its weapons instead gain the effects of the greater versions of both of these runes."
 
   - name: "[[Creature Family Ability Glossary/(Graveknight) Weapon Master|Weapon Master]]"
     desc: "  The graveknight has access to the critical specialization effects of any weapons it wields."
  
+```
+
+```encounter-table
+name: Shraen Graveknight
+creatures:
+  - 1: Shraen Graveknight
 ```
 
 

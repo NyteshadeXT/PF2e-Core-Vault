@@ -13,14 +13,14 @@ license: OGL
 ---
 # Elemental Fragment (Major)
 ## Item 14
-### [uncommon](uncommon "Uncommon Rarity Trait")[[consumable]][[magical]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[consumable]][[3-Rules/Rule References/Magical]]
 
 **Category** other; 
 **Price** 500 gp; 
 **Bulk** 0; **Size** med
 **Usage** other
 
-**Activate `pf2:2` (concentrate, manipulate)**
+**Activate** `pf2:2` (concentrate, manipulate)
 
 * * *
 

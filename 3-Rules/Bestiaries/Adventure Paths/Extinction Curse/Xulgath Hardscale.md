@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/humanoid
   - pf2e/creature/type/xulgath
+  - pf2eMonster
   - pf2e/creature/level/12
 statblock: inline
 name: "Xulgath Hardscale"
@@ -26,10 +27,10 @@ level: "Creature 12"
 
 alignment: ""
 size: "Medium"
-trait_01: "chaotic"
-trait_02: "evil"
-trait_03: "humanoid"
-trait_04: "xulgath"
+trait_01: [[chaotic]]
+trait_02: [[evil]]
+trait_03: [[humanoid]]
+trait_04: [[xulgath]]
 modifier: 21
 perception:
   - name: "Perception"
@@ -57,7 +58,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Aggressive Block"
-    desc: "`pf2:0`  **Trigger** The hardscale uses the [[Bestiary Ability Glossary/Shield Block|Shield Block]] reaction, and the opponent that triggered Shield Block is adjacent to the hardscale and is not more than one size larger than it\n**Effect** The hardscale makes an Athletics check to [[Actions/Shove|Shove]] the opponent. This shove doesn't increase the hardscale's multiple attack penalty. If they roll a critical failure, they get a failure instead. If they roll a success, they get a critical success instead."
+    desc: "`pf2:0`  **Trigger** The hardscale uses the [[Bestiary Ability Glossary/Shield Block|Shield Block]] reaction, and the opponent that triggered Shield Block is adjacent to the hardscale and is not more than one size larger than it\n* * *\n\n**Effect** The hardscale makes an Athletics check to [[Actions/Shove|Shove]] the opponent. This shove doesn't increase the hardscale's multiple attack penalty. If they roll a critical failure, they get a failure instead. If they roll a success, they get a critical success instead."
 
   - name: "[[Bestiary Ability Glossary/Attack of Opportunity|Attack of Opportunity]]"
     desc: "`pf2:r`  "
@@ -66,10 +67,10 @@ abilities_mid:
     desc: "  A hardscale always has their shield raised as if they had used the [[Actions/Raise a Shield|Raise a Shield]] action, as long as they meet that action's requirements."
 
   - name: "Powerful Stench"
-    desc: " (aura,olfactory) 30 feet. A creature that enters the area must attempt a DC 32 Fortitude check save. On a failure, the creature is [[Conditions/Sickened 1|Sickened 2]], and on a critical failure, the creature is also [[Conditions/Slowed 1|Slowed 1]] for as long as it is sickened. While within the aura, the creature takes a -2 circumstance penalty to saves to recover from the sickened condition. A creature that succeeds at its save is temporarily immune to all xulgaths' stenches for 1 minute."
+    desc: " (aura,olfactory) 30 feet. A creature that enters the area must attempt a DC 32 Fortitude check save. On a failure, the creature is [[Conditions/Sickened|Sickened 2]], and on a critical failure, the creature is also [[Conditions/Slowed|Slowed 1]] for as long as it is sickened. While within the aura, the creature takes a -2 circumstance penalty to saves to recover from the sickened condition. A creature that succeeds at its save is temporarily immune to all xulgaths' stenches for 1 minute."
 
   - name: "[[Bestiary Ability Glossary/Shield Block|Shield Block]]"
-    desc: "`pf2:r`  At the beginning of each of their turns, the hardscale receives an additional reaction that they can use only for Shield Block.\n"
+    desc: "`pf2:r`  At the beginning of each of their turns, the hardscale receives an additional reaction that they can use only for Shield Block.\n\n* * *\n"
 
   - name: "Shield Warden"
     desc: "  If the hardscale has their shield raised, they can [[Bestiary Ability Glossary/Shield Block|Shield Block]] when an attack is made against an adjacent ally. If they do, the shield prevents that ally from taking damage instead of the hardscale."
@@ -92,6 +93,12 @@ attacks:
   - name: "Hammer Mastery"
     desc: "  The hardscale deals an extra 1d8 damage with weapons with the shove trait, and weapons with the shove trait gain the deadly 2d8 trait when the hardscale uses them (both the extra weapon damage die and the deadly trait have already been included in the hardscale's warhammer Strike above)."
  
+```
+
+```encounter-table
+name: Xulgath Hardscale
+creatures:
+  - 1: Xulgath Hardscale
 ```
 
 

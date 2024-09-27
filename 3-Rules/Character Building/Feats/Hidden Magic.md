@@ -7,8 +7,9 @@ tags:
   - trait/skill
   - trait/common
   - category/skill
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.K3Au5071pfvNwGob"
-license: OGL
+license: ORC
 ---
 # Hidden Magic
 ## Feat 4
@@ -24,5 +25,5 @@ You've learned to hide the magical auras of your gear. During your daily prepara
 
 A spellcaster using [[Spells/Detect Magic|Detect Magic]] or [[Spells/Read Aura|Read Aura]] must succeed at a Perception check against your Deception DC to see through your obfuscations.
 
-*Source: Pathfinder Advanced Player's Guide*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

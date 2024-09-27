@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.extinction-curse-bestiary.Actor.Sxip3Rmi0PFpzHNw"
 tags:
   - pf2e/creature/type/beast
   - pf2e/creature/type/lawful
+  - pf2eMonster
   - pf2e/creature/level/15
 statblock: inline
 name: "Convergent Giant Eagle"
@@ -21,16 +22,16 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #156: The Apocalypse Prophet"
 name: "Convergent Giant Eagle"
 level: "Creature 15"
-rare_03: "Rare"
+rare_03: [[Rare]]
 alignment: ""
 size: "Large"
-trait_01: "beast"
-trait_02: "lawful"
+trait_01: [[beast]]
+trait_02: [[lawful]]
 modifier: 29
 perception:
   - name: "Perception"
     desc: "+29; Low-Light Vision"
-languages: "Elven, Fey, Sussuran, Utopian"
+languages: "Elven, Fey, Sussuran, Utopian; can&#x27;t speak any language, convergent link"
 skills:
   - name: "Skills"
     desc: "Acrobatics: +29, Athletics: +25, Stealth: +28"
@@ -50,12 +51,12 @@ abilities_top:
   - name: ""
 
   - name: "Convergent Link"
-    desc: "  Creatures with this ability can communicate with each other by manifesting an aura of wispy Utopian runes.\nThis has the effects of [[Bestiary Ability Glossary/Telepathy|Telepathy]] with a range of 300 feet, but requires line of sight."
+    desc: "  Creatures with this ability can communicate with each other by manifesting an aura of wispy Utopian runes.\n\nThis has the effects of [[Bestiary Ability Glossary/Telepathy|Telepathy]] with a range of 300 feet, but requires line of sight."
 
 abilities_mid:
   - name: ""
   - name: "Disrupted Link"
-    desc: "  While a convergent giant eagle is [[Conditions/Confused|Confused]], [[Conditions/Fascinated|Fascinated]], or [[Conditions/Frightened 1|Frightened]], it loses its convergent link and convergent tactics abilities."
+    desc: "  While a convergent giant eagle is [[Conditions/Confused|Confused]], [[Conditions/Fascinated|Fascinated]], or [[Conditions/Frightened|Frightened]], it loses its convergent link and convergent tactics abilities."
 
   - name: "Evasion"
     desc: "  When a giant eagle succeeds at a Reflex save, it critically succeeds instead."
@@ -81,6 +82,12 @@ attacks:
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
     desc: "`pf2:1`  "
  
+```
+
+```encounter-table
+name: Convergent Giant Eagle
+creatures:
+  - 1: Convergent Giant Eagle
 ```
 
 

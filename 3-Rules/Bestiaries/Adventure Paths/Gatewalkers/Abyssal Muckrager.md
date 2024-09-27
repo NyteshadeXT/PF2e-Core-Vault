@@ -10,6 +10,7 @@ tags:
   - pf2e/creature/type/elemental
   - pf2e/creature/type/evil
   - pf2e/creature/type/unholy
+  - pf2eMonster
   - pf2e/creature/level/4
 statblock: inline
 name: "Abyssal Muckrager"
@@ -27,11 +28,11 @@ level: "Creature 4"
 
 alignment: ""
 size: "Large"
-trait_01: "chaotic"
-trait_02: "earth"
-trait_03: "elemental"
-trait_04: "evil"
-trait_05: "unholy"
+trait_01: [[chaotic]]
+trait_02: [[earth]]
+trait_03: [[elemental]]
+trait_04: [[evil]]
+trait_05: [[unholy]]
 modifier: 10
 perception:
   - name: "Perception"
@@ -73,11 +74,17 @@ attacks:
     desc: "  If the destrier moved at least 10 feet directly before its lance arm Strike, it gains a +2 circumstance bonus to its damage roll."
 
   - name: "Tilting Strike"
-    desc: "`pf2:r`  **Trigger** The earthen destrier tramples a creature\n**Effect** The earthen destrier makes a lance arm Strike against the creature it's trampling at a -5 penalty."
+    desc: "`pf2:r`  **Trigger** The earthen destrier tramples a creature\n* * *\n\n**Effect** The earthen destrier makes a lance arm Strike against the creature it's trampling at a -5 penalty."
 
   - name: "[[Bestiary Ability Glossary/Trample|Trample]]"
-    desc: "`pf2:3`  Medium or smaller, hoof, DC 20 Reflex check\n"
+    desc: "`pf2:3`  Medium or smaller, hoof, DC 20 Reflex check\n\n* * *\n"
  
+```
+
+```encounter-table
+name: Abyssal Muckrager
+creatures:
+  - 1: Abyssal Muckrager
 ```
 
 

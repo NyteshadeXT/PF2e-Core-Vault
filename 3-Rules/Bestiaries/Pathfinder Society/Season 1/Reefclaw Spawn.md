@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/aberration
   - pf2e/creature/type/amphibious
   - pf2e/creature/type/aquatic
+  - pf2eMonster
   - pf2e/creature/level/0
 statblock: inline
 name: "Reefclaw Spawn"
@@ -25,17 +26,17 @@ level: "Creature 0"
 
 alignment: ""
 size: "Small"
-trait_01: "aberration"
-trait_02: "amphibious"
-trait_03: "aquatic"
+trait_01: [[aberration]]
+trait_02: [[amphibious]]
+trait_03: [[aquatic]]
 modifier: 8
 perception:
   - name: "Perception"
     desc: "+8; Darkvision"
-languages: "Common"
+languages: "Common; can&#x27;t speak any language"
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +5, Athletics: +2 (+6 to Swim), Diplomacy: +4, Intimidation: +4, Nature: +5, Survival: +5"
+    desc: "Acrobatics: +5, Athletics: +2, Diplomacy: +4, Intimidation: +4, Nature: +5, Survival: +5"
 abilityMods: [1, 4, 2, -3, 1, 1]
 speed: 10 feet,  swim 30 feet
 sourcebook: "_Pathfinder Society Scenario #1-04: Bandits of Immenwood_"
@@ -52,12 +53,12 @@ abilities_top:
   - name: ""
 
   - name: "Special (Note)"
-    desc: "  The reefclaws follow the call of the scale, but its siren song affects aquatic aberrations differently than normal animals. While in pursuit of the scale, the reefclaws gain the amphibious trait, gain a +5-foot item bonus to their Speed, and are [[Conditions/Sickened 1|Sickened 2]] (all adjustments already included in their stat block). The reefclaws cannot remove these conditions while within a half mile of the scale."
+    desc: "  The reefclaws follow the call of the scale, but its siren song affects aquatic aberrations differently than normal animals. While in pursuit of the scale, the reefclaws gain the amphibious trait, gain a +5-foot item bonus to their Speed, and are [[Conditions/Sickened|Sickened 2]] (all adjustments already included in their stat block). The reefclaws cannot remove these conditions while within a half mile of the scale."
 
 abilities_mid:
   - name: ""
   - name: "Death Frenzy"
-    desc: "`pf2:r`  **Trigger** The reefclaw is reduced to 0 Hit Points.\n**Effect** The reefclaw makes a claw Strike before dying."
+    desc: "`pf2:r`  **Trigger** The reefclaw is reduced to 0 Hit Points.\n* * *\n\n**Effect** The reefclaw makes a claw Strike before dying."
 
 attacks:
   - name: ""
@@ -66,11 +67,17 @@ attacks:
     desc: "`pf2:1` Claw +7 (finesse)\n__Damage__  1d6 - 1 slashing plus grab,reefclaw-venom"
 
   - name: "Reefclaw Venom"
-    desc: " (poison) **Saving Throw** DC 15 Fortitude check\n**Maximum Duration** 4 rounds\n**Stage 1** 1d6 poison damage and [[Conditions/Enfeebled 1|Enfeebled 1]](1 round),\n**Stage 2** 1d6 poison damage and [[Conditions/Enfeebled 1|Enfeebled 2]](1 round)."
+    desc: " (poison) **Saving Throw** DC 15 Fortitude check\n\n**Maximum Duration** 4 rounds\n\n**Stage 1** 1d6 poison damage and [[Conditions/Enfeebled|Enfeebled 1]](1 round),\n\n**Stage 2** 1d6 poison damage and [[Conditions/Enfeebled|Enfeebled 2]](1 round)."
 
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
     desc: "`pf2:1`  "
  
+```
+
+```encounter-table
+name: Reefclaw Spawn
+creatures:
+  - 1: Reefclaw Spawn
 ```
 
 

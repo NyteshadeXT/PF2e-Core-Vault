@@ -13,7 +13,7 @@ license: ORC
 ---
 # Bag of Weasels
 ## Item 4
-### [rare](rare "Rare Rarity Trait")[[cursed]][[extradimensional]][[magical]]
+### [rare](rare.md "Rare Rarity Trait")[[cursed]][[extradimensional]][[3-Rules/Rule References/Magical]]
 
 
 **Price** 0 gp; 

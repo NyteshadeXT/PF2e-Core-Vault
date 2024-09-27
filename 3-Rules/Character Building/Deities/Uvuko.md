@@ -35,9 +35,9 @@ When casting the [[Spells/Avatar|Avatar]] spell, a worshipper of Uvoko gains the
 
 **Uvoko** Speed 30 feet, Fly speed 70 feet, immune to [[Conditions/Immobilized|Immobilized]]
 
-Melee `pf2:1` maul (shove, reach 15 feet), Damage 6d12 + 6 bludgeoning damage
+Melee `pf2:1` maul (shove, reach 15 feet), Damage 6d12+6 bludgeoning damage
 
-Ranged `pf2:1` breath of lightning (range increment 120 feet), Damage 6d6 + 3 electricity damage
+Ranged `pf2:1` breath of lightning (range increment 120 feet), Damage 6d6+3 electricity damage
 
 *Source: Pathfinder Lost Omens: The Mwangi Expanse*
 *OGL*

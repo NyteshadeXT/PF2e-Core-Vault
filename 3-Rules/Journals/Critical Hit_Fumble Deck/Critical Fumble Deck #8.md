@@ -8,7 +8,7 @@ tags:
 ---
 # Who was That?
 
-> You are [[Conditions/Slowed 1|Slowed 1]] until the end of your next turn.
+> You are [[Conditions/Slowed|Slowed 1]] until the end of your next turn.
 
 `Melee`
 
@@ -20,7 +20,7 @@ tags:
 
 # Broken Tooth
 
-> Until healed, you take a [[Other Effects/Effect\_ -2 circumstance penalty to attack rolls until healed|-2 circumstance penalty to attack rolls]].
+> Until healed, you take a [[Other Effects/Effect_ -2 circumstance penalty to attack rolls until healed|-2 circumstance penalty to attack rolls]].
 
 `Unarmed`
 

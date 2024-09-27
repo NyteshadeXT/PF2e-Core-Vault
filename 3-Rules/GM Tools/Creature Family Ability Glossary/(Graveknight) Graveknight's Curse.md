@@ -26,9 +26,9 @@ This curse affects anyone who wears a graveknight's armor for at least 1 hour
 
 **Onset** 1 hour
 
-**Stage 1** [[Conditions/Doomed 1|Doomed 1]] and can't remove armor (1 day)
+**Stage 1** [[Conditions/Doomed|Doomed 1]] and can't remove armor (1 day)
 
-**Stage 2** [[Conditions/Doomed 1|Doomed 2]], –10-foot status penalty to Speeds, and can't remove armor (1 day)
+**Stage 2** [[Conditions/Doomed|Doomed 2]], –10-foot status penalty to Speeds, and can't remove armor (1 day)
 
 **Stage 3** dies and transforms into the armor's graveknight.
 

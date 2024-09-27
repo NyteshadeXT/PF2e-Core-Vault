@@ -20,7 +20,7 @@ tags:
 
 # Muscle Wound
 
-> **Crit Effect:** The target is [[Conditions/Enfeebled 1|Enfeebled 2]] until healed.
+> **Crit Effect:** The target is [[Conditions/Enfeebled|Enfeebled 2]] until healed.
 
 `Slashing`
 

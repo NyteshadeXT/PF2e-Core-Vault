@@ -6,6 +6,7 @@ cssClasses: pf2e
 aliases: "Compendium.pf2e.rusthenge-bestiary.Actor.FUxaVKVEV8eOuTVB" 
 tags:
   - pf2e/creature/type/ooze
+  - pf2eMonster
   - pf2e/creature/level/3
 statblock: inline
 name: "Primordial Envy"
@@ -20,14 +21,15 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Adventure: Rusthenge"
 name: "Primordial Envy"
 level: "Creature 3"
-rare_03: "Rare"
+rare_03: [[Rare]]
 alignment: ""
 size: "Large"
-trait_01: "ooze"
+trait_01: [[ooze]]
 modifier: 6
 perception:
   - name: "Perception"
     desc: "+6; Darkvision"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Athletics: +9"
@@ -58,14 +60,20 @@ attacks:
     desc: "`pf2:1` Pseudopod +9 (magical, reach 10 feet)\n__Damage__  1d10 + 4 bludgeoning plus grab 1d6 mental plus grab"
 
   - name: "Confiscate Spell"
-    desc: "`pf2:r` (arcane) **Trigger** A creature within 30 feet that the primordial envy can sense Casts a Spell\n**Effect** The primordial envy's surface shimmers with a kaleidoscope of color that shines out to illuminate the triggering creature. The primordial envy attempts to counter the spell, with a counteract modifier of +12. On a success, the spell is countered and the primordial envy gains 2d6 temporary Hit Points."
+    desc: "`pf2:r` (arcane) **Trigger** A creature within 30 feet that the primordial envy can sense Casts a Spell\n* * *\n\n**Effect** The primordial envy's surface shimmers with a kaleidoscope of color that shines out to illuminate the triggering creature. The primordial envy attempts to counter the spell, with a counteract modifier of +12. On a success, the spell is countered and the primordial envy gains 2d6 temporary Hit Points."
 
   - name: "Spell Drain"
-    desc: "`pf2:1` (arcane) The primordial envy attempts to drain magic from a spellcasting creature that it has [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]]. The spellcasting creature must attempt a DC 20 Will check save.\n**Critical Success** The creature is unaffected and is temporarily immune to Spell Drain for 24 hours.\n**Success** The creature takes 1d6 mental damage.\n**Failure** The creature takes 2d6 mental damage and becomes [[Conditions/Stupefied 1|Stupefied 1]] for 1 hour.\n**Critical Failure** As failure, but one of the creature's uncast spells or unused spell slots is lost, as if they had cast it. The spell or slot lost is one of the highest-rank spells the creature can cast, determined randomly if multiple prepared spells are available. If a cantrip is drained, the spellcaster loses access to that cantrip for 10 minutes. The primordial envy becomes [[Conditions/Quickened|Quickened]] 1 for 1 round, and can use the extra action to Stride or Strike."
+    desc: "`pf2:1` (arcane) The primordial envy attempts to drain magic from a spellcasting creature that it has [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]]. The spellcasting creature must attempt a DC 20 Will check save.\n* * *\n\n**Critical Success** The creature is unaffected and is temporarily immune to Spell Drain for 24 hours.\n\n**Success** The creature takes 1d6 mental damage.\n\n**Failure** The creature takes 2d6 mental damage and becomes [[Conditions/Stupefied|Stupefied 1]] for 1 hour.\n\n**Critical Failure** As failure, but one of the creature's uncast spells or unused spell slots is lost, as if they had cast it. The spell or slot lost is one of the highest-rank spells the creature can cast, determined randomly if multiple prepared spells are available. If a cantrip is drained, the spellcaster loses access to that cantrip for 10 minutes. The primordial envy becomes [[Conditions/Quickened|Quickened]] 1 for 1 round, and can use the extra action to Stride or Strike."
 
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
     desc: "`pf2:1`  "
  
+```
+
+```encounter-table
+name: Primordial Envy
+creatures:
+  - 1: Primordial Envy
 ```
 
 

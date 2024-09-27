@@ -5,6 +5,7 @@ noteType: pf2eHazard
 tags:
   - magical
   - trap
+  - pf2eHazard
   - complex
 source: Pathfinder Adventure: The Slithering
 aliases: "Compendium.pf2e.the-slithering-bestiary.Actor.IUAbDA2cbIB4ONlD" 
@@ -22,8 +23,8 @@ name: "Stalker Summoning Rune"
 level: "Hazard 7"
 
 trait_06: "Complex"
-trait_01: "magical"
-trait_02: "trap"
+trait_01: [[magical]]
+trait_02: [[trap]]
 modifier: 15
 sourcebook: "_Pathfinder Adventure: The Slithering_"
 perception:
@@ -42,10 +43,16 @@ attacks:
   - name: ""
 
   - name: "Summon Monster"
-    desc: "`pf2:r` (arcane, summon) **Trigger** A creature that isn't openly bearing an Aspis Consortium badge crosses the center of the yard\n**Effect** The trap summons an [[Bestiary 1/Invisible Stalker|Invisible Stalker]]. The invisible stalker rolls initiative and remains for 2d6 rounds, after which the spell ends and the invisible stalker disappears. The invisible stalker also disappears if someone disables the trap before the duration expires.\nThe invisible stalker can use 3 actions each round and can use reactions, unlike most summoned creatures."
+    desc: "`pf2:r` (arcane, summon) **Trigger** A creature that isn't openly bearing an Aspis Consortium badge crosses the center of the yard\n* * *\n\n**Effect** The trap summons an [[Bestiary 1/Invisible Stalker|Invisible Stalker]]. The invisible stalker rolls initiative and remains for 2d6 rounds, after which the spell ends and the invisible stalker disappears. The invisible stalker also disappears if someone disables the trap before the duration expires.\n\nThe invisible stalker can use 3 actions each round and can use reactions, unlike most summoned creatures."
 
 
   - name: "Reset"
     desc: "The trap resets after 24 hours."
+```
+
+```encounter-table
+name: Stalker Summoning Rune
+creatures:
+  - 1: Stalker Summoning Rune
 ```
 

@@ -6,6 +6,7 @@ cssClasses: pf2e
 aliases: "Compendium.pf2e.strength-of-thousands-bestiary.Actor.ST4oQnNs5ePZIrZc" 
 tags:
   - pf2e/creature/type/aberration
+  - pf2eMonster
   - pf2e/creature/level/2
 statblock: inline
 name: "Contemplative"
@@ -20,15 +21,15 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #173: Doorway to the Red Star"
 name: "Contemplative"
 level: "Creature 2"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Medium"
-trait_01: "aberration"
+trait_01: [[aberration]]
 modifier: 8
 perception:
   - name: "Perception"
     desc: "+8; Darkvision, Thoughtsense (Imprecise) 30 Feet"
-languages: "Akitonian"
+languages: "Akitonian; telepathy 30"
 skills:
   - name: "Skills"
     desc: "Arcana: +8, Medicine: +6, Nature: +8, Occultism: +10, Society: +8"
@@ -64,6 +65,12 @@ attacks:
   - name: "Occult Innate Spells"
     desc: "DC 18, attack +10; __1st __  _[[Spells/Force Barrage|Magic Missile (x3)]]_\n__Cantrips__  __(1st)__ _[[Spells/Daze|Daze]]_, _[[Spells/Ghost Sound|Ghost Sound]]_, _[[Spells/Telekinetic Hand|Mage Hand]]_, _[[Spells/Read Aura|Read Aura]]_, _[[Spells/Telekinetic Projectile|Telekinetic Projectile]]_"
  
+```
+
+```encounter-table
+name: Contemplative
+creatures:
+  - 1: Contemplative
 ```
 
 

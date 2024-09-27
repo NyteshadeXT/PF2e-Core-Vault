@@ -10,6 +10,7 @@ tags:
   - pf2e/creature/type/skeleton
   - pf2e/creature/type/undead
   - pf2e/creature/type/unholy
+  - pf2eMonster
   - pf2e/creature/level/7
 statblock: inline
 name: "Skeletal Hulk"
@@ -28,15 +29,16 @@ level: "Creature 7"
 
 alignment: ""
 size: "huge"
-trait_01: "evil"
-trait_02: "mindless"
-trait_03: "skeleton"
-trait_04: "undead"
-trait_05: "unholy"
+trait_01: [[evil]]
+trait_02: [[mindless]]
+trait_03: [[skeleton]]
+trait_04: [[undead]]
+trait_05: [[unholy]]
 modifier: 16
 perception:
   - name: "Perception"
     desc: "+16; Darkvision"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Athletics: +20, Intimidation: +15"
@@ -69,6 +71,12 @@ attacks:
   - name: "Massive Rush"
     desc: "`pf2:2`  The hulk Strides and makes a claw Strike with a +4 circumstance bonus to damage. If the strike hits, the hulk automatically [[Actions/Shove|Shoves]] the target 10 feet."
  
+```
+
+```encounter-table
+name: Skeletal Hulk
+creatures:
+  - 1: Skeletal Hulk
 ```
 
 

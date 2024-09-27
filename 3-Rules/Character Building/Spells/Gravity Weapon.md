@@ -4,22 +4,32 @@ title: "Gravity Weapon"
 noteType: pf2eSpell
 cssclasses: pf2e,pf2e-spell
 tags:
+  - pf2eSpell
   - spell/level/1
   - trait/focus
   - trait/ranger
   - trait/uncommon
+
   - remaster
 aliases: "Compendium.pf2e.spells-srd.Item.IWUe32Y5k2QFd7YQ" 
+license: ORC
 ---
-# Gravity Weapon  `pf2:1`  
-## Focus 1
-### [uncommon](uncommon "Uncommon Rarity Trait")[[focus]][[ranger]]
+```statblock
+name: "Gravity Weapon  `pf2:1`"
+level: "Focus 1"
+rare_03: [[Uncommon]]
+trait_01: [[focus]]
+trait_02: [[ranger]]
+layout: Basic Pathfinder 2e Layout
+columns: 1
+columnWidth: x
+abilities_top:
+  - name: ""
 
-**Duration** 1 minute
-* * * 
-You build up gravitational force and funnel it into your blows, leading to more powerful attacks with blade and bow alike. On your first weapon Strike each round, you gain a status bonus to damage equal to twice the number of weapon damage dice.
-
-[[Spell Effects/Spell Effect_ Gravity Weapon|Spell Effect: Gravity Weapon]]
-
-*Source: Pathfinder Player Core*
-*ORC*
+  - name: "Duration"
+    desc: "1 minute"
+abilities_mid:
+  - name: ""
+    desc: "You build up gravitational force and funnel it into your blows, leading to more powerful attacks with blade and bow alike. On your first weapon Strike each round, you gain a status bonus to damage equal to twice the number of weapon damage dice.\n\n[[Spell Effects/Spell Effect_ Gravity Weapon|Spell Effect: Gravity Weapon]]"
+sourcebook: "_Pathfinder Player Core_"
+```

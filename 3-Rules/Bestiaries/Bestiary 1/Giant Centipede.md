@@ -6,6 +6,7 @@ cssClasses: pf2e
 aliases: "Compendium.pf2e.pathfinder-bestiary.Actor.BKPRkJgq7ehsW7uX" 
 tags:
   - pf2e/creature/type/animal
+  - pf2eMonster
   - pf2e/creature/level/-1
 statblock: inline
 name: "Giant Centipede"
@@ -24,11 +25,12 @@ level: "Creature -1"
 
 alignment: ""
 size: "Medium"
-trait_01: "animal"
+trait_01: [[animal]]
 modifier: 6
 perception:
   - name: "Perception"
     desc: "+6; Darkvision"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Acrobatics: +6, Athletics: +2, Stealth: +6"
@@ -56,8 +58,14 @@ attacks:
     desc: "`pf2:1` Mandibles +6 (finesse)\n__Damage__  1d4 - 1 piercing plus giant-centipede-venom"
 
   - name: "Giant Centipede Venom"
-    desc: " (poison) **Saving Throw** DC 14 Fortitude check\n**Maximum Duration** 6 rounds\n**Stage 1** 1d6 poison damage (1 round)\n**Stage 2** 1d8 poison damage and [[Conditions/Off-Guard|Off-Guard]] (1 round)\n**Stage 3** 1d12 poison damage, [[Conditions/Clumsy 1|Clumsy 1]], and off-guard (1 round)"
+    desc: " (poison) **Saving Throw** DC 14 Fortitude check\n* * *\n\n**Maximum Duration** 6 rounds\n\n**Stage 1** 1d6 poison damage (1 round)\n\n**Stage 2** 1d8 poison damage and [[Conditions/Off-Guard|Off-Guard]] (1 round)\n\n**Stage 3** 1d12 poison damage, [[Conditions/Clumsy|Clumsy 1]], and off-guard (1 round)"
  
+```
+
+```encounter-table
+name: Giant Centipede
+creatures:
+  - 1: Giant Centipede
 ```
 
 

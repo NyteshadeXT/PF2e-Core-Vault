@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/hag
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/20
 statblock: inline
 name: "The Knurly Witch"
@@ -23,13 +24,13 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Kingmaker"
 name: "The Knurly Witch"
 level: "Creature 20"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Large"
-trait_01: "chaotic"
-trait_02: "evil"
-trait_03: "hag"
-trait_04: "humanoid"
+trait_01: [[chaotic]]
+trait_02: [[evil]]
+trait_03: [[hag]]
+trait_04: [[humanoid]]
 modifier: 38
 perception:
   - name: "Perception"
@@ -37,7 +38,7 @@ perception:
 languages: "Aklo, Common, Fey, Jotun"
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +35, Athletics: +34 (+16 to Grapple), Deception: +37, Intimidation: +34, Nature: +36, Occultism: +35, Religion: +38"
+    desc: "Acrobatics: +35, Athletics: +34, Deception: +37, Intimidation: +34, Nature: +36, Occultism: +35, Religion: +38"
 abilityMods: [6, 4, 4, 1, 4, 3]
 speed: 40 feet
 sourcebook: "_Pathfinder Kingmaker_"
@@ -53,7 +54,7 @@ health:
 abilities_top:
   - name: ""
   - name: "Items"
-    desc: "[[Equipment/Religious Symbol (Silver)|Religious Symbol of Gyronna]], [[Equipment/Wand of Slaying (7th-Level Spell)|Wand of Slaying (7th-Level Spell)]]"
+    desc: "[[Equipment/Religious Symbol (Silver)|Religious Symbol of Gyronna]], [[Equipment/Wand of Slaughter (7th-Rank Spell)|Wand of Slaying (7th-Rank Spell)]]"
 abilities_mid:
   - name: ""
   - name: "Resolve"
@@ -72,23 +73,29 @@ attacks:
     desc: "2 Focus Points, DC 44, attack +38; __10th __  _[[Spells/Retributive Pain|Retributive Pain]]_, _[[Spells/Savor the Sting|Savor the Sting]]_"
 
   - name: "Rituals"
-    desc: "_[[Spells/Blight|Blight]]_, _[[Spells/Word of Recall|Word of Recall]]_"
+    desc: "_[[Spells/Blight|Blight]]_, _[[Spells/Gathering Call|Word of Recall]]_"
 
   - name: "Bonds of Iron"
-    desc: "`pf2:2` (attack,occult) Once per day, an annis hag can cause a cage built of cold iron fingernails to spring out of nothingness at a range of up to 30 feet, attempting an Athletics check check to [[Actions/Grapple|Grapple]] against the target's Fortitude DC; if the target has a weakness to cold iron, the annis hag gains a +2 circumstance bonus to this check.\nUnlike a normal Grapple, the annis hag doesn't need to be within reach and can move as she pleases, and a successful attempt lasts until the creature escapes (DC 42), causing the cage to crumble into rust.\nAny creature can attempt to destroy the cage by attacking it. It has an AC of 40, Hardness 20, and 80 Hit Points."
+    desc: "`pf2:2` (attack,occult) Once per day, an annis hag can cause a cage built of cold iron fingernails to spring out of nothingness at a range of up to 30 feet, attempting an Athletics check check to [[Actions/Grapple|Grapple]] against the target's Fortitude DC; if the target has a weakness to cold iron, the annis hag gains a +2 circumstance bonus to this check.\n\nUnlike a normal Grapple, the annis hag doesn't need to be within reach and can move as she pleases, and a successful attempt lasts until the creature escapes (DC 42), causing the cage to crumble into rust.\n\nAny creature can attempt to destroy the cage by attacking it. It has an AC of 40, Hardness 20, and 80 Hit Points."
 
   - name: "[[Bestiary Ability Glossary/Change Shape|Change Shape]]"
-    desc: "`pf2:1` (concentrate,occult,polymorph) The hag can take on the appearance of any Medium female humanoid. This doesn't change her Speed or her attack and damage bonuses with her Strikes but might change the damage type her Strikes deal (typically to bludgeoning).\n"
+    desc: "`pf2:1` (concentrate,occult,polymorph) The hag can take on the appearance of any Medium female humanoid. This doesn't change her Speed or her attack and damage bonuses with her Strikes but might change the damage type her Strikes deal (typically to bludgeoning).\n\n* * *\n"
 
   - name: "[[Bestiary Ability Glossary/Rend|Rend]]"
-    desc: "`pf2:1`  Claw\n"
+    desc: "`pf2:1`  Claw\n\n* * *\n"
 
   - name: "Word of Recall"
-    desc: "  The Knurly Witch has used [[Spells/Word of Recall|Word of Recall]] to bind herself to the House at the Edge of Time (area **K16**)."
+    desc: "  The Knurly Witch has used [[Spells/Gathering Call|Gathering Call]] to bind herself to the House at the Edge of Time (area **K16**)."
 
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
     desc: "`pf2:1`  "
  
+```
+
+```encounter-table
+name: The Knurly Witch
+creatures:
+  - 1: The Knurly Witch
 ```
 
 

@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/beast
   - pf2e/creature/type/chaotic
   - pf2e/creature/type/evil
+  - pf2eMonster
   - pf2e/creature/level/8
 statblock: inline
 name: "Shantak"
@@ -23,12 +24,12 @@ token: [[modules/pf2e-tokens-bestiaries/portraits/bestial/mythological/shantak.w
 source: "Pathfinder Bestiary 3"
 name: "Shantak"
 level: "Creature 8"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "huge"
-trait_01: "beast"
-trait_02: "chaotic"
-trait_03: "evil"
+trait_01: [[beast]]
+trait_02: [[chaotic]]
+trait_03: [[evil]]
 modifier: 18
 perception:
   - name: "Perception"
@@ -58,7 +59,7 @@ abilities_mid:
     desc: "  The shantak doesn't breathe and is immune to effects that require breathing (such as an inhaled poison)."
 
   - name: "Slippery"
-    desc: "  The shantak's scales are covered in slippery slime, so the shantak gains a +3 circumstance bonus to [[Actions/Escape|Escape]].\nA creature mounted on a shantak takes double the normal circumstance penalty to Reflex saves (-4 instead of -2 in most cases) while mounted."
+    desc: "  The shantak's scales are covered in slippery slime, so the shantak gains a +3 circumstance bonus to [[Actions/Escape|Escape]].\n\nA creature mounted on a shantak takes double the normal circumstance penalty to Reflex saves (-4 instead of -2 in most cases) while mounted."
 
 attacks:
   - name: ""
@@ -73,8 +74,14 @@ attacks:
     desc: "`pf2:2`  The shantak Flies up to their fly speed and makes two claw Strikes at any point during that movement. Each Strike must target a different creature. The attacks take the normal multiple attack penalty."
 
   - name: "Share Defenses"
-    desc: " (occult) **Requirements** A creature is riding the shantak\n**Effect** The shantak extends their no breath ability and cold resistance to a single creature riding them. They can withdraw this protection as a free action.\n[[Bestiary Effects/Effect_ Share Defenses|Effect: Share Defenses]]"
+    desc: " (occult) **Requirements** A creature is riding the shantak\n* * *\n\n**Effect** The shantak extends their no breath ability and cold resistance to a single creature riding them. They can withdraw this protection as a free action.\n\n[[Bestiary Effects/Effect_ Share Defenses|Effect: Share Defenses]]"
  
+```
+
+```encounter-table
+name: Shantak
+creatures:
+  - 1: Shantak
 ```
 
 

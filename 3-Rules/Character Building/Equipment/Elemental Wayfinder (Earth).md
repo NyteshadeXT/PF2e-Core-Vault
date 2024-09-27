@@ -11,7 +11,7 @@ license: OGL
 ---
 # Elemental Wayfinder (Earth)
 ## Item 9
-### [uncommon](uncommon "Uncommon Rarity Trait")[[invested]][[magical]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[invested]][[3-Rules/Rule References/Magical]]
 
 
 **Price** 600 gp; 

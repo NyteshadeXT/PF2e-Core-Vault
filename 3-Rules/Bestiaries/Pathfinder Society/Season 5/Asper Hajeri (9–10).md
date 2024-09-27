@@ -1,0 +1,95 @@
+---
+title: "Asper Hajeri (9–10)"
+obsidianUIMode: preview
+noteType: pf2eMonster
+cssClasses: pf2e
+aliases: "Compendium.pf2e.pfs-season-5-bestiary.Actor.6SDKAujYM3nP4iDC" 
+tags:
+  - pf2e/creature/type/evil
+  - pf2e/creature/type/fiend
+  - pf2e/creature/type/lawful
+  - pf2e/creature/type/rakshasa
+  - pf2eMonster
+  - pf2e/creature/level/12
+statblock: inline
+name: "Asper Hajeri (9–10)"
+level: 12
+license: OGL
+---
+
+```statblock
+columns: 2
+forcecolumns: true
+layout: Basic Pathfinder 2e Layout
+source: "Pathfinder Society Scenario #5-20: The Rakshasa&#x27;s Court"
+name: "Asper Hajeri (9–10)"
+level: "Creature 12"
+rare_03: [[Unique]]
+alignment: ""
+size: "Medium"
+trait_01: [[evil]]
+trait_02: [[fiend]]
+trait_03: [[lawful]]
+trait_04: [[rakshasa]]
+modifier: 24
+perception:
+  - name: "Perception"
+    desc: "+24; Darkvision"
+languages: "Common, Diabolic, Sakvroth"
+skills:
+  - name: "Skills"
+    desc: "Intimidation: +22, Nature: +24, Occultism: +20, Religion: +21, Society: +21, Survival: +23"
+abilityMods: [2, 4, 6, 3, 6, 4]
+speed: 35 feet
+sourcebook: "_Pathfinder Society Scenario #5-20: The Rakshasa&#x27;s Court_"
+ac: 32
+armorclass:
+  - name: AC
+    desc: "32; __Fort__ +24, __Ref__ +22, __Will__ +24"
+hp: 230
+health:
+  - name: ""
+  - name: HP
+    desc: "230; __Weaknesses__ holy 10; __Resistances__ physical 10 (except piercing)"
+abilities_top:
+  - name: ""
+  - name: "Items"
+    desc: "[[Equipment/Wish Knife|+1 Striking Wish Knife]], [[Equipment/Smoke Veil|Smoke Veil]]"
+abilities_mid:
+  - name: ""
+attacks:
+  - name: ""
+
+  - name: "Melee"
+    desc: "`pf2:1` Wish Knife +26 (agile, disarm, finesse, versatile s)\n__Damage__  3d6 + 10 piercing"
+
+  - name: "Melee"
+    desc: "`pf2:1` Claw +25 (agile, finesse, magical)\n__Damage__  3d8 + 10 slashing"
+
+  - name: "Melee"
+    desc: "`pf2:1` Fangs +23 (agile, magical)\n__Damage__  3d10 + 11 piercing"
+
+  - name: "Primal Spontaneous Spells"
+    desc: "DC 34, attack +26; __5th __ (3 slots) _[[Spells/Cone of Cold|Cone of Cold]]_, _[[Spells/Wall of Ice|Wall of Ice]]_; __4th __ (4 slots) _[[Spells/Grasp of the Deep|Grasp of the Deep]]_, _[[Spells/Solid Fog|Solid Fog]]_, _[[Spells/Wall of Fire|Wall of Fire]]_; __3rd __ (4 slots) _[[Spells/Crashing Wave|Crashing Wave]]_, _[[Spells/Fireball|Fireball]]_, _[[Spells/Wall of Wind|Wall of Wind]]_; __1st __ (4 slots) _[[Spells/Breathe Fire|Breathe Fire]]_, _[[Spells/Dehydrate|Dehydrate]]_, _[[Spells/Gust of Wind|Gust of Wind]]_\n__Cantrips__  __(6th)__ _[[Spells/Detect Magic|Detect Magic]]_, _[[Spells/Draw Moisture|Draw Moisture]]_, _[[Spells/Produce Flame|Produce Flame]]_, _[[Spells/Slashing Gust|Slashing Gust]]_, _[[Spells/Spout|Spout]]_"
+
+  - name: "Primal Innate Spells"
+    desc: "DC 34, attack +26; __3rd __  _[[Spells/Dive and Breach|Dive and Breach (At Will)]]_"
+
+  - name: "Elemental Aura"
+    desc: "`pf2:1` (primal,stance) Asper surrounds herself with the power of one of the elements under her control (air, fire, or water). If air, she gains resistance 10 to electricity damage and doubles her speed. If fire, she gains resistance 10 to fire damage. Any creature within 30 feet of her who receives fire damage receives an extra 2d10 persistent fire damage. If water, she gains resistance 10 to cold damage and fast healing 20. This aura persists until she is knocked [[Conditions/Unconscious|Unconscious]], she dismisses the aura, or she releases it via Elemental Burst."
+
+  - name: "Elemental Burst"
+    desc: "`pf2:1`  **Frequency** once per round\n* * *\n\n**Effect** Asper releases the elemental aura she currently holds, dealing 2d8 electricity (if air), 2d8 fire, or 2d8 cold (if water) damage. She cannot use elemental aura again for that element for 2 rounds."
+ 
+```
+
+```encounter-table
+name: Asper Hajeri (9–10)
+creatures:
+  - 1: Asper Hajeri (9–10)
+```
+
+
+Female rakshasa lieutenant
+
+

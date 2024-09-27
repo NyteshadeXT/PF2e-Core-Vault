@@ -4,6 +4,7 @@ obsidianUIMode: preview
 noteType: pf2eHazard
 tags:
   - environmental
+  - pf2eHazard
 
 source: Pathfinder Kingmaker
 aliases: "Compendium.pf2e.kingmaker-bestiary.Actor.hGQ4uxhxwtrnGfj0" 
@@ -21,7 +22,7 @@ name: "Rickety Bridge"
 level: "Hazard 4"
 
 
-trait_01: "environmental"
+trait_01: [[environmental]]
 modifier: 12
 sourcebook: "_Pathfinder Kingmaker_"
 perception:
@@ -40,9 +41,15 @@ attacks:
   - name: ""
 
   - name: "Collapse"
-    desc: "`pf2:r` **Trigger** Two or more Medium creatures or a Large or larger creature crosses the bridge\n**Effect** The bridge collapses. The triggering creature(s) fall into the river below, taking no damage from the fall itself due to the deep water, but taking 2d8 + 5 bludgeoning damage (DC 21 Reflex check) from falling debris. For 1 round after the collapse, the waters below the bridge churn violently, requiring a DC 20 Athletics check check to Swim."
+    desc: "`pf2:r` **Trigger** Two or more Medium creatures or a Large or larger creature crosses the bridge\n\n**Effect** The bridge collapses. The triggering creature(s) fall into the river below, taking no damage from the fall itself due to the deep water, but taking 2d8 + 5 bludgeoning damage (DC 21 Reflex check) from falling debris. For 1 round after the collapse, the waters below the bridge churn violently, requiring a DC 20 Athletics check check to Swim."
 
 
 
+```
+
+```encounter-table
+name: Rickety Bridge
+creatures:
+  - 1: Rickety Bridge
 ```
 

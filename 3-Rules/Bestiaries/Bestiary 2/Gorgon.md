@@ -6,6 +6,7 @@ cssClasses: pf2e
 aliases: "Compendium.pf2e.pathfinder-bestiary-2.Actor.cmuCFkXdn1JuVTK4" 
 tags:
   - pf2e/creature/type/beast
+  - pf2eMonster
   - pf2e/creature/level/8
 statblock: inline
 name: "Gorgon"
@@ -21,14 +22,15 @@ token: [[modules/pf2e-tokens-bestiaries/portraits/bestial/mythological/gorgon.we
 source: "Pathfinder Bestiary 2"
 name: "Gorgon"
 level: "Creature 8"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Large"
-trait_01: "beast"
+trait_01: [[beast]]
 modifier: 19
 perception:
   - name: "Perception"
     desc: "+19; Darkvision, Scent (Imprecise) 30 Feet"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Athletics: +19"
@@ -59,14 +61,20 @@ attacks:
     desc: "`pf2:1` Hoof +18 ()\n__Damage__  2d6 + 10 bludgeoning"
 
   - name: "Breath Weapon"
-    desc: "`pf2:2` (earth,incapacitation,primal) The gorgon breathes a 60-foot cone of green gas. Each creature in the area must attempt a DC 25 Fortitude check save.\nThe gorgon can't use Breath Weapon again for 1d4 rounds.\n**Critical Success** The creature is unaffected.\n**Success** The creature's body hardens and stiffens, causing it to become [[Conditions/Slowed 1|Slowed 1]] for 1 round.\n**Failure** The creature becomes [[Conditions/Petrified|Petrified]] for 1 minute. It can attempt a new save at the end of each of its turns.\n**Critical Failure** The creature becomes petrified permanently."
+    desc: "`pf2:2` (earth,incapacitation,primal) The gorgon breathes a @Template[cone|distance:60] of green gas. Each creature in the area must attempt a DC 25 Fortitude check save.\n\nThe gorgon can't use Breath Weapon again for 1d4 rounds.\n* * *\n\n**Critical Success** The creature is unaffected.\n\n**Success** The creature's body hardens and stiffens, causing it to become [[Conditions/Slowed|Slowed 1]] for 1 round.\n\n**Failure** The creature becomes [[Conditions/Petrified|Petrified]] for 1 minute. It can attempt a new save at the end of each of its turns.\n\n**Critical Failure** The creature becomes petrified permanently."
 
   - name: "Powerful Charge"
     desc: "`pf2:2`  The gorgon Strides twice, then makes a horn Strike. If it moved at least 20 feet from its starting position, the Strike's damage is increased to 3d12+12."
 
   - name: "[[Bestiary Ability Glossary/Trample|Trample]]"
-    desc: "`pf2:3`  Medium or smaller, hoof, DC 26 Reflex check\n"
+    desc: "`pf2:3`  Medium or smaller, hoof, DC 26 Reflex check\n\n* * *\n"
  
+```
+
+```encounter-table
+name: Gorgon
+creatures:
+  - 1: Gorgon
 ```
 
 

@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/human
   - pf2e/creature/type/humanoid
   - pf2e/creature/type/lawful
+  - pf2eMonster
   - pf2e/creature/level/15
 statblock: inline
 name: "Artus Rodrivan"
@@ -23,13 +24,13 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #167: Ready? Fight!"
 name: "Artus Rodrivan"
 level: "Creature 15"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Medium"
-trait_01: "elf"
-trait_02: "human"
-trait_03: "humanoid"
-trait_04: "lawful"
+trait_01: [[elf]]
+trait_02: [[human]]
+trait_03: [[humanoid]]
+trait_04: [[lawful]]
 modifier: 27
 perception:
   - name: "Perception"
@@ -57,7 +58,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "[[Bestiary Ability Glossary/Attack of Opportunity|Attack of Opportunity (Special)]]"
-    desc: "`pf2:r`  Artus can use his soul arrow for attacks of opportunity against creatures within 10 feet.\n"
+    desc: "`pf2:r`  Artus can use his soul arrow for attacks of opportunity against creatures within 10 feet.\n\n* * *\n"
 
 attacks:
   - name: ""
@@ -69,11 +70,17 @@ attacks:
     desc: "`pf2:1` Composite Longbow +30 (deadly d10, magical, propulsive, range increment 100 feet, volley 30 ft.)\n__Damage__  3d8 + 12 piercing"
 
   - name: "Soul Arrow"
-    desc: "  When Artus Strikes with his longbow, he can shoot an arrow made from his soul. This arrow appears to be made of pure light and casts bright light in a 20-foot burst (and dim light for another 20 feet). When Artus rolls a critical hit on a longbow Strike with a soul arrow, the target is [[Conditions/Dazzled|Dazzled]] until the end of Artus's next turn."
+    desc: "  When Artus Strikes with his longbow, he can shoot an arrow made from his soul. This arrow appears to be made of pure light and casts bright light in a @Template[burst|distance:20] (and dim light for another 20 feet). When Artus rolls a critical hit on a longbow Strike with a soul arrow, the target is [[Conditions/Dazzled|Dazzled]] until the end of Artus's next turn."
 
   - name: "Veering Miss"
-    desc: "`pf2:r`  **Trigger** Artus misses but doesn't critically miss with a soul arrow longbow Strike\n**Effect** The arrow veers back and attempts to hit the target again. Artus attempts a new ranged Strike using the same multiple attack penalty as the missed Strike. This veering attack doesn't count toward Artus's multiple attack penalty. This new attack roll ignores cover and greater cover."
+    desc: "`pf2:r`  **Trigger** Artus misses but doesn't critically miss with a soul arrow longbow Strike\n* * *\n\n**Effect** The arrow veers back and attempts to hit the target again. Artus attempts a new ranged Strike using the same multiple attack penalty as the missed Strike. This veering attack doesn't count toward Artus's multiple attack penalty. This new attack roll ignores cover and greater cover."
  
+```
+
+```encounter-table
+name: Artus Rodrivan
+creatures:
+  - 1: Artus Rodrivan
 ```
 
 

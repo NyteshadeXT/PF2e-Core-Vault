@@ -5,6 +5,7 @@ noteType: pf2eHazard
 tags:
   - magical
   - trap
+  - pf2eHazard
   - complex
 source: Pathfinder Kingmaker
 aliases: "Compendium.pf2e.kingmaker-bestiary.Actor.ce5vC049lfuXnPSy" 
@@ -22,14 +23,14 @@ name: "Orb Blast Trap"
 level: "Hazard 18"
 
 trait_06: "Complex"
-trait_01: "magical"
-trait_02: "trap"
+trait_01: [[magical]]
+trait_02: [[trap]]
 modifier: 35
 sourcebook: "_Pathfinder Kingmaker_"
 ac: 42
 armorclass:
   - name: AC
-    desc: "42; __Fort__ +27, __Ref__ +33, __Will__ +0"
+    desc: "42; __Fort__ +27, __Ref__ +33, "
 hp: 40
 health:
   - name: ""
@@ -51,7 +52,7 @@ attacks:
   - name: ""
 
   - name: "Slam Doors"
-    desc: "`pf2:r` (arcane) **Trigger** A second creature crosses a magical sensor at the midpoint of the hall.\n**Effect** The doors at either end of the hall slam shut and lock in place while the trap is active (the doors open automatically if the trap is disabled or destroyed). The doors (Hardness 14, HP 56 \[28 BT\]) can be Forced Open with a DC 40 Athletics check check, or via a DC 35 Thievery check check to Pick the Lock. The trap rolls initiative."
+    desc: "`pf2:r` (arcane) **Trigger** A second creature crosses a magical sensor at the midpoint of the hall.\n* * *\n\n**Effect** The doors at either end of the hall slam shut and lock in place while the trap is active (the doors open automatically if the trap is disabled or destroyed). The doors (Hardness 14, HP 56 [28 BT]) can be Forced Open with a DC 40 Athletics check check, or via a DC 35 Thievery check check to Pick the Lock. The trap rolls initiative."
   - name: "Melee"
     desc: "Force Bolt +35 () (can target any creature in area **A8**)"
 
@@ -59,5 +60,11 @@ attacks:
     desc: "(5 actions) Five energized orbs each take one action to make a force bolt attack against a different target in the hallway (a single target cannot be fired at more than once per round by the trap). The trap doesn't take multiple attack penalties. Each orb that is disabled or destroyed reduces the trap's actions by 1."
   - name: "Reset"
     desc: "The trap deactivates 1 round after it has no creatures to target and resets automatically after 1 minute."
+```
+
+```encounter-table
+name: Orb Blast Trap
+creatures:
+  - 1: Orb Blast Trap
 ```
 

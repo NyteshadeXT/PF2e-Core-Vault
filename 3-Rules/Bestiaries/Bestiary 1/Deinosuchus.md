@@ -6,6 +6,7 @@ cssClasses: pf2e
 aliases: "Compendium.pf2e.pathfinder-bestiary.Actor.ScOT6QOlXIsevhNq" 
 tags:
   - pf2e/creature/type/animal
+  - pf2eMonster
   - pf2e/creature/level/9
 statblock: inline
 name: "Deinosuchus"
@@ -24,14 +25,15 @@ level: "Creature 9"
 
 alignment: ""
 size: "huge"
-trait_01: "animal"
+trait_01: [[animal]]
 modifier: 17
 perception:
   - name: "Perception"
     desc: "+17; Low-Light Vision"
+languages: ""
 skills:
   - name: "Skills"
-    desc: "Athletics: +20, Stealth: +16 (+20 in water)"
+    desc: "Athletics: +20, Stealth: +16"
 abilityMods: [7, 3, 5, -5, 2, -4]
 speed: 30 feet,  swim 40 feet
 sourcebook: "_Pathfinder Bestiary_"
@@ -62,14 +64,20 @@ attacks:
     desc: "`pf2:1` Tail +20 (agile, reach 15 feet)\n__Damage__  1d10 + 11 bludgeoning"
 
   - name: "[[Bestiary Ability Glossary/Aquatic Ambush|Aquatic Ambush]]"
-    desc: "`pf2:1`  50 feet\n"
+    desc: "`pf2:1`  50 feet\n\n* * *\n"
 
   - name: "[[Bestiary Ability Glossary/Swallow Whole|Swallow Whole]]"
-    desc: "`pf2:1` (attack) Large, 2d8 + 7 bludgeoning, Rupture 18\n"
+    desc: "`pf2:1` (attack) Large, 2d8+7 bludgeoning, Rupture 18\n\n* * *\n"
 
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
     desc: "`pf2:1`  "
  
+```
+
+```encounter-table
+name: Deinosuchus
+creatures:
+  - 1: Deinosuchus
 ```
 
 

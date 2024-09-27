@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.pathfinder-monster-core.Actor.7w1w7VTnIWMBdFux"
 tags:
   - pf2e/creature/type/humanoid
   - pf2e/creature/type/xulgath
+  - pf2eMonster
   - pf2e/creature/level/3
   - remaster
 statblock: inline
@@ -26,8 +27,8 @@ level: "Creature 3"
 
 alignment: ""
 size: "Medium"
-trait_01: "humanoid"
-trait_02: "xulgath"
+trait_01: [[humanoid]]
+trait_02: [[xulgath]]
 modifier: 9
 perception:
   - name: "Perception"
@@ -73,8 +74,14 @@ attacks:
     desc: "`pf2:1` Javelin +8 (thrown 30 ft.)\n__Damage__  1d6 + 4 piercing"
 
   - name: "Weakening Strike"
-    desc: "`pf2:1`  A creature hit by a xulgath leader's jaws or claw Strike is [[Conditions/Enfeebled 1|Enfeebled 1]] (or [[Conditions/Enfeebled 1|Enfeebled 2]] on a critical hit) for 1 round."
+    desc: "`pf2:1`  A creature hit by a xulgath leader's jaws or claw Strike is [[Conditions/Enfeebled|Enfeebled 1]] (or [[Conditions/Enfeebled|Enfeebled 2]] on a critical hit) for 1 round."
  
+```
+
+```encounter-table
+name: Xulgath Leader
+creatures:
+  - 1: Xulgath Leader
 ```
 
 

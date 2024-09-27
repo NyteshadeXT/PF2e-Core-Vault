@@ -6,8 +6,9 @@ tags:
   - trait/monk
   - trait/common
   - category/class
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.zTulA4sVXwLRm28Z"
-license: OGL
+license: ORC
 ---
 # Diamond Fists
 ## Feat 18
@@ -18,7 +19,7 @@ license: OGL
 
 
 
-Your body hardens as you combine your attacks, making your finishing blows more damaging. Your unarmed attacks gain the forceful trait. Any that already had this trait instead increase their weapon damage dice by one step.
+Your body hardens as you combine your attacks, making your finishing blows more damaging. Your unarmed attacks gain the forceful and deadly d10 traits. Any that already had one or both of these traits increase their weapon damage dice by one step.
 
-*Source: Pathfinder Core Rulebook*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

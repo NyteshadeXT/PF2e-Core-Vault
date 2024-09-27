@@ -11,7 +11,7 @@ license: OGL
 ---
 # Weapon Fury
 ## Feat 13
-### [[barbarian]]
+### [[3-Rules/trait_reference/barbarian]]
 
 **Category** classfeature; 
 

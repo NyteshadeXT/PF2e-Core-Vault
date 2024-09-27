@@ -14,7 +14,7 @@ license: OGL
 ---
 # Briar
 ## Item 20
-### [unique](unique "Unique Rarity Trait")[[artifact]][[magical]][[two-hand-d12]]
+### [unique](unique.md "Unique Rarity Trait")[[artifact]][[3-Rules/Rule References/Magical]][[two-hand-d12]]
 
 |  |  |
 | -- | -- |
@@ -89,7 +89,7 @@ Once _Briar_ gains the capability to speak, it can relate to its partner the sad
 
 **Effect** _Briar_ casts a 6th-rank [[Spells/Oaken Resilience|Oaken Resilience]] on its partner.
 
-**Activate** `pf2:`pf2:r``
+**Activate** `pf2:r`
 
 **Frequency** once per day
 
@@ -141,7 +141,7 @@ First World Lore +36, Nature +34 Int +6, Wis +6, Cha +9 +36
 
 **Trigger** _Briar's_ partner Strikes Nyrissa with _Briar_ for the first time in a round
 
-**Effect** Nyrissa must make a successful DC 50 Fortitude check save to resist being [[Conditions/Stunned 1|Stunned 1]] ([[Conditions/Stunned 1|Stunned 3]] on a critical failure). _Briar's_ partner gains a +4 item bonus to all saving throws against Nyrissa's spells for 1 minute.
+**Effect** Nyrissa must make a successful DC 50 Fortitude check save to resist being [[Conditions/Stunned|Stunned 1]] ([[Conditions/Stunned|Stunned 3]] on a critical failure). _Briar's_ partner gains a +4 item bonus to all saving throws against Nyrissa's spells for 1 minute.
 
 * * *
 

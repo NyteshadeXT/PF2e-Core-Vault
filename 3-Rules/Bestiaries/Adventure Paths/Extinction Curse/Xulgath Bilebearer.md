@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/humanoid
   - pf2e/creature/type/xulgath
+  - pf2eMonster
   - pf2e/creature/level/2
 statblock: inline
 name: "Xulgath Bilebearer"
@@ -26,10 +27,10 @@ level: "Creature 2"
 
 alignment: ""
 size: "Medium"
-trait_01: "chaotic"
-trait_02: "evil"
-trait_03: "humanoid"
-trait_04: "xulgath"
+trait_01: [[chaotic]]
+trait_02: [[evil]]
+trait_03: [[humanoid]]
+trait_04: [[xulgath]]
 modifier: 6
 perception:
   - name: "Perception"
@@ -57,7 +58,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Stench"
-    desc: " (aura,olfactory) 30 feet. A creature entering the aura must attempt a DC 16 Fortitude check save. On a failure, the creature is [[Conditions/Sickened 1|Sickened 1]], and on a critical failure, the creature also takes a -5-foot status penalty to its Speeds for 1 round. While within the aura, the creature takes a -2 circumstance penalty to saves to recover from the sickened condition. A creature that succeeds at its save is temporarily immune to all xulgaths' stench for 1 minute.\nA xulgath bilebearer can activate or deactivate its stench aura as a free action.\n[[Bestiary Effects/Effect_ Xulgath Stench|Effect: Xulgath Stench]]"
+    desc: " (aura,olfactory) 30 feet. A creature entering the aura must attempt a DC 16 Fortitude check save. On a failure, the creature is [[Conditions/Sickened|Sickened 1]], and on a critical failure, the creature also takes a -5-foot status penalty to its Speeds for 1 round. While within the aura, the creature takes a -2 circumstance penalty to saves to recover from the sickened condition. A creature that succeeds at its save is temporarily immune to all xulgaths' stench for 1 minute.\n\nA xulgath bilebearer can activate or deactivate its stench aura as a free action.\n\n[[Bestiary Effects/Effect_ Xulgath Stench|Effect: Xulgath Stench]]"
 
 attacks:
   - name: ""
@@ -75,14 +76,20 @@ attacks:
     desc: "`pf2:1` Dagger +12 (agile, finesse, thrown 10 ft., versatile s)\n__Damage__  1d4 + 4 piercing plus xulgath-bile"
 
   - name: "Putrid Blast"
-    desc: "`pf2:2` (olfactory,poison) **Frequency** once per minute\n**Effect** All adjacent creatures must attempt a DC 18 Fortitude check save. On a failure, the creature is [[Conditions/Slowed 1|Slowed 1]] ([[Conditions/Slowed 1|Slowed 2]] on a critical failure) until the end of its next turn and takes a -2 circumstance penalty to Fortitude saves against xulgath bile for 1 minute.\n[[Bestiary Effects/Effect_ Putrid Blast|Effect: Putrid Blast]]"
+    desc: "`pf2:2` (olfactory,poison) **Frequency** once per minute\n* * *\n\n**Effect** All adjacent creatures must attempt a DC 18 Fortitude check save. On a failure, the creature is [[Conditions/Slowed|Slowed 1]] ([[Conditions/Slowed|Slowed 2]] on a critical failure) until the end of its next turn and takes a -2 circumstance penalty to Fortitude saves against xulgath bile for 1 minute.\n\n[[Bestiary Effects/Effect_ Putrid Blast|Effect: Putrid Blast]]"
 
   - name: "Xulgath Bile"
-    desc: " (poison) **Saving Throw** DC 16 Fortitude check\n**Maximum Duration** 1 hour\n**Stage 1** [[Conditions/Fatigued|Fatigued]] (1 minute).\n**Stage 2** [[Conditions/Fatigued|Fatigued]] and [[Conditions/Unconscious|Unconscious]] (1 minute)."
+    desc: " (poison) **Saving Throw** DC 16 Fortitude check\n\n**Maximum Duration** 1 hour\n\n**Stage 1** [[Conditions/Fatigued|Fatigued]] (1 minute).\n\n**Stage 2** [[Conditions/Fatigued|Fatigued]] and [[Conditions/Unconscious|Unconscious]] (1 minute)."
 
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
     desc: "`pf2:1`  "
  
+```
+
+```encounter-table
+name: Xulgath Bilebearer
+creatures:
+  - 1: Xulgath Bilebearer
 ```
 
 

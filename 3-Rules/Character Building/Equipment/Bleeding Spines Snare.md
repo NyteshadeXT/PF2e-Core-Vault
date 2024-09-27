@@ -9,8 +9,9 @@ tags:
   - trait/trap
   - trait/common
   - category/snare
+  - remaster
 aliases: "Compendium.pf2e.equipment-srd.Item.9Kk6P7idLGRhZJ2q"
-license: OGL
+license: ORC
 ---
 # Bleeding Spines Snare
 ## Item 12
@@ -21,7 +22,7 @@ license: OGL
 **Bulk** 0; **Size** med
 **Usage** held-in-one-hand
 
-When a creature enters the square, spines covered in numerous jagged thorns protrude out to stab it, dealing 8d8 piercing damage and 2d8 bleed. The creature must attempt a DC 31 Reflex check saving throw. After the initial trigger, the spines retract and protrude again repeatedly for 1 minute, forcing any creature that enters the space or ends its turn in the space to attempt a Reflex save against the spines' damage.
+When a creature enters the square, thorny spines protrude out to stab it, dealing 8d8 piercing damage and 2d8 persistent bleed damage. The creature must attempt a DC 31 Reflex check. After the initial trigger, the spines retract and protrude again repeatedly for 1 minute, forcing any creature that enters the space or ends its turn in the space to take damage from the spines (attempting the same basic Reflex save).
 
-*Source: Pathfinder Core Rulebook*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

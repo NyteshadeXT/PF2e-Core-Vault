@@ -35,11 +35,11 @@ When eaten or smoked, pesh gives users a sense of well-being, sometimes with hal
 
 **Maximum Duration** 6 hours
 
-**Stage 1** [[Conditions/Stupefied 1|Stupefied 1]] and a +2 item bonus to saves versus fear effects (1 minute)
+**Stage 1** [[Conditions/Stupefied|Stupefied 1]] and a +2 item bonus to saves versus fear effects (1 minute)
 
-**Stage 2** 1 temporary Hit Point per level (first time you reach this stage only), +2 item bonus to saves versus fear effects, [[Conditions/Clumsy 1|Clumsy 1]], and stupefied 1 (1 minute)
+**Stage 2** 1 temporary Hit Point per level (first time you reach this stage only), +2 item bonus to saves versus fear effects, [[Conditions/Clumsy|Clumsy 1]], and stupefied 1 (1 minute)
 
-**Stage 3** [[Conditions/Clumsy 1|Clumsy 2]] and [[Conditions/Stupefied 1|Stupefied 2]] (1 hour)
+**Stage 3** [[Conditions/Clumsy|Clumsy 2]] and [[Conditions/Stupefied|Stupefied 2]] (1 hour)
 
 *Source: Pathfinder Lost Omens: World Guide*
 *OGL*

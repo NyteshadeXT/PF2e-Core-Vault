@@ -6,6 +6,7 @@ cssClasses: pf2e
 aliases: "Compendium.pf2e.pfs-season-1-bestiary.Actor.UyJUEp0asfGDBvYa" 
 tags:
   - pf2e/creature/type/construct
+  - pf2eMonster
   - pf2e/creature/level/4
 statblock: inline
 name: "Elite Prefect (Fist) (3-4)"
@@ -20,10 +21,10 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Society Quest #9: Wayfinder Origins"
 name: "Elite Prefect (Fist) (3-4)"
 level: "Creature 4"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Small"
-trait_01: "construct"
+trait_01: [[construct]]
 modifier: 10
 perception:
   - name: "Perception"
@@ -59,6 +60,12 @@ attacks:
   - name: "Arcane Innate Spells"
     desc: "DC 22, attack +14; __2nd __ (1 slots) _[[Spells/Breathe Fire|Burning Hands]]_; __1st __ (1 slots) _[[Spells/Hydraulic Push|Hydraulic Push (At Will)]]_\n__Constant__  __(5th)__ _[[Spells/Truespeech|Tongues]]_"
  
+```
+
+```encounter-table
+name: Elite Prefect (Fist) (3-4)
+creatures:
+  - 1: Elite Prefect (Fist) (3-4)
 ```
 
 

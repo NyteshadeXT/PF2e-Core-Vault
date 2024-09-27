@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/undead
   - pf2e/creature/type/unholy
+  - pf2eMonster
   - pf2e/creature/level/3
 statblock: inline
 name: "Virulak Villager"
@@ -22,12 +23,12 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #182: Graveclaw"
 name: "Virulak Villager"
 level: "Creature 3"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Medium"
-trait_01: "evil"
-trait_02: "undead"
-trait_03: "unholy"
+trait_01: [[evil]]
+trait_02: [[undead]]
+trait_03: [[unholy]]
 modifier: 8
 perception:
   - name: "Perception"
@@ -63,14 +64,20 @@ attacks:
     desc: "`pf2:1` Claw +12 (agile)\n__Damage__  1d8 + 4 slashing plus grab,undead-virulence"
 
   - name: "[[Compendium.pf2e.bestiary-family-ability-glossary.Item.FnMu3hjI2osqmjCW|Lingering Ichor]]"
-    desc: "`pf2:r` (poison) **Trigger** The virulak takes piercing or slashing damage from a melee Strike\n**Effect** The virulak squirts a jet of poisonous ichor from the wound. The creature making the triggering Strike takes 3 damage."
+    desc: "`pf2:r` (poison) **Trigger** The virulak takes piercing or slashing damage from a melee Strike\n* * *\n\n**Effect** The virulak squirts a jet of poisonous ichor from the wound. The creature making the triggering Strike takes 1 persistent poison damage."
 
   - name: "Undead Virulence"
-    desc: " (poison,virulent) **Saving Throw** DC 19 Fortitude check\n**Maximum Duration** 4 rounds\n**Stage 1** 1d10 poison damage (1 round)\n**Stage 2** 1d12 poison damage (1 round)\n**Stage 3** 2d10 poison damage (1 round)"
+    desc: " (poison,virulent) **Saving Throw** DC 19 Fortitude check\n* * *\n\n**Maximum Duration** 4 rounds\n\n**Stage 1** 1d10 poison damage (1 round)\n\n**Stage 2** 1d12 poison damage (1 round)\n\n**Stage 3** 2d10 poison damage (1 round)"
 
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
     desc: "`pf2:1`  "
  
+```
+
+```encounter-table
+name: Virulak Villager
+creatures:
+  - 1: Virulak Villager
 ```
 
 

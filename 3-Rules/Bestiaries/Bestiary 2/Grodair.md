@@ -10,6 +10,7 @@ tags:
   - pf2e/creature/type/chaotic
   - pf2e/creature/type/fey
   - pf2e/creature/type/water
+  - pf2eMonster
   - pf2e/creature/level/5
 statblock: inline
 name: "Grodair"
@@ -28,11 +29,11 @@ level: "Creature 5"
 
 alignment: ""
 size: "Medium"
-trait_01: "amphibious"
-trait_02: "beast"
-trait_03: "chaotic"
-trait_04: "fey"
-trait_05: "water"
+trait_01: [[amphibious]]
+trait_02: [[beast]]
+trait_03: [[chaotic]]
+trait_04: [[fey]]
+trait_05: [[water]]
 modifier: 13
 perception:
   - name: "Perception"
@@ -59,7 +60,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Death Flood"
-    desc: " (primal,water) When a grodair dies, its body explodes in a blast of pressurized water that deals 4d6 bludgeoning damage to creatures within a 15-foot emanation (DC 22 Reflex check save). A creature that fails its save is pushed 5 feet (or 10 feet on a critical failure)."
+    desc: " (primal,water) When a grodair dies, its body explodes in a blast of pressurized water that deals 4d6 bludgeoning damage to creatures within a @Template[emanation|distance:15] (DC 22 Reflex check save). A creature that fails its save is pushed 5 feet (or 10 feet on a critical failure)."
 
 attacks:
   - name: ""
@@ -77,7 +78,7 @@ attacks:
     desc: "DC 22, attack +12; __5th __  _[[Spells/Control Water|Control Water]]_"
 
   - name: "Muddy Field"
-    desc: "`pf2:1` (primal,water) The grodair transforms all soil, sand, or similar sediment in a 10-foot emanation into mud for 1 round. This mud is difficult terrain for creatures other than grodairs."
+    desc: "`pf2:1` (primal,water) The grodair transforms all soil, sand, or similar sediment in a @Template[emanation|distance:10] into mud for 1 round. This mud is difficult terrain for creatures other than grodairs."
 
   - name: "Organ of Endless Water"
     desc: "`pf2:1` (manipulate,primal,water) The grodair causes water to pour from a magical sac on its spine, either a stream of water at a rate of 1 gallon per round, or a fountain in a 5-foot-long stream at a rate of 5 gallons per round. It can stop the flow of water as a single action."
@@ -88,6 +89,12 @@ attacks:
   - name: "[[Bestiary Ability Glossary/Push|Push]]"
     desc: "`pf2:1`  "
  
+```
+
+```encounter-table
+name: Grodair
+creatures:
+  - 1: Grodair
 ```
 
 

@@ -12,7 +12,7 @@ license: OGL
 ---
 # Familiar Tattoo
 ## Item 3
-### [[invested]][[magical]][[tattoo]]
+### [[invested]][[3-Rules/Rule References/Magical]][[tattoo]]
 
 
 **Price** 60 gp; 

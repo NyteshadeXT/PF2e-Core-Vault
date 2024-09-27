@@ -12,7 +12,7 @@ license: OGL
 ---
 # Feyfoul (Moderate)
 ## Item 8
-### [rare](rare "Rare Rarity Trait")[[alchemical]][[consumable]]
+### [rare](rare.md "Rare Rarity Trait")[[alchemical]][[consumable]]
 
 **Category** other; 
 **Price** 90 gp; 

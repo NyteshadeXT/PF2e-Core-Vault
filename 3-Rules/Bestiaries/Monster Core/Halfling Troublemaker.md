@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.pathfinder-monster-core.Actor.L39Fr3dewrvIK2LE"
 tags:
   - pf2e/creature/type/halfling
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/1
   - remaster
 statblock: inline
@@ -19,14 +20,15 @@ license: ORC
 columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
+token: [[modules/pf2e-tokens-monster-core/assets/portraits/halfling-troublemaker.webp| ]]
 source: "Pathfinder Monster Core"
 name: "Halfling Troublemaker"
 level: "Creature 1"
 
 alignment: ""
 size: "Small"
-trait_01: "halfling"
-trait_02: "humanoid"
+trait_01: [[halfling]]
+trait_02: [[humanoid]]
 modifier: 10
 perception:
   - name: "Perception"
@@ -71,6 +73,12 @@ attacks:
   - name: "Sneak Attack"
     desc: "  The troublemaker deals an extra 1d6 precision damage to [[Conditions/Off-Guard|Off-Guard]] creatures."
  
+```
+
+```encounter-table
+name: Halfling Troublemaker
+creatures:
+  - 1: Halfling Troublemaker
 ```
 
 

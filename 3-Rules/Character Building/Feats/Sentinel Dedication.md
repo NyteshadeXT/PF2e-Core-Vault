@@ -7,8 +7,9 @@ tags:
   - trait/dedication
   - trait/common
   - category/class
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.8foxmfC6FFT3oYpV"
-license: OGL
+license: ORC
 ---
 # Sentinel Dedication
 ## Feat 2
@@ -19,13 +20,9 @@ license: OGL
 
 
 
-You have trained carefully to maximize the protective qualities of your armor.
+You have trained carefully to maximize the protective qualities of your armor. You become trained in light armor and medium armor. If you already were trained in light armor and medium armor, you gain training in heavy armor as well. Whenever you gain a class feature that grants you expert or greater proficiency in any type of armor (but not unarmored defense), you also gain that proficiency in the armor types granted to you by this feat. If you have a class feature that grants you expert proficiency in unarmored defense and you're 13th level or higher, you also become an expert in the armor types granted to you by this feat.
 
-You become trained in light armor and medium armor. If you already were trained in light armor and medium armor, you gain training in heavy armor as well.
+[[PF2e Journals/Archetypes/Sentinel|Sentinel]]
 
-Whenever you gain a class feature that grants you expert or greater proficiency in any type of armor (but not unarmored defense), you also gain that proficiency in the armor types granted to you by this feat. If you are at least 13th level and you have a class feature that grants you expert proficiency in unarmored defense, you also become an expert in the armor types granted to you by this feat.
-
-**Special** You can't select another dedication feat until you have gained two other feats from the [[PF2e Journals/Archetypes/Sentinel|Sentinel]] archetype.
-
-*Source: Pathfinder Advanced Player's Guide*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

@@ -12,7 +12,7 @@ license: ORC
 ---
 # Eternal Eruption of Droskar's Crag
 ## Item 13
-### [[3-Rules/Rule References/Fire]][[magical]]
+### [[3-Rules/Rule References/Fire]][[3-Rules/Rule References/Magical]]
 
 
 **Price** 3000 gp; 
@@ -25,7 +25,7 @@ Resembling _frozen lava_, an eternal eruption is made with the same type of time
 
 * * *
 
-**Effect** You fling the _eternal eruption_, with the effect of _[[Equipment/Frozen Lava of Droskar's Crag|Frozen Lava of Droskar's Crag]]_ . After 2d4 hours, the _eternal eruption_ reforms itself in a container on your person, typically the one you most recently stored it in.
+**Effect** You fling the _eternal eruption_, with the effect of _[[Equipment/Frozen Lava of Droskar's Crag|Frozen Lava of Droskar's Crag]]_. After 2d4 hours, the _eternal eruption_ reforms itself in a container on your person, typically the one you most recently stored it in.
 
 * * *
 

@@ -12,7 +12,7 @@ license: OGL
 ---
 # Depth Charge II
 ## Item 7
-### [[consumable]][[magical]]
+### [[consumable]][[3-Rules/Rule References/Magical]]
 
 **Category** ammo; 
 **Price** 55 gp; 
@@ -23,7 +23,7 @@ license: OGL
 
 * * *
 
-Carved with stylized images of water or aquatic life, depth charges that are fired underwater or at a submerged target function with their normal range increments and can hit no matter their normal damage type. This ammunition explodes if it hits a target underwater, dealing 5d6 bludgeoning damage in a 20-foot burst DC 24 Fortitude check according to its type. This burst doesn't extend out of the water.
+Carved with stylized images of water or aquatic life, depth charges that are fired underwater or at a submerged target function with their normal range increments and can hit no matter their normal damage type. This ammunition explodes if it hits a target underwater, dealing 5d6 bludgeoning damage in a @Template\[burst|distance:20\] DC 24 Fortitude check according to its type. This burst doesn't extend out of the water.
 
 *Source: Pathfinder Treasure Vault*
 *OGL*

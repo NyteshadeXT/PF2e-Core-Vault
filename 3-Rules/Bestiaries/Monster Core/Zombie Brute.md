@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/undead
   - pf2e/creature/type/unholy
   - pf2e/creature/type/zombie
+  - pf2eMonster
   - pf2e/creature/level/2
   - remaster
 statblock: inline
@@ -28,10 +29,10 @@ level: "Creature 2"
 
 alignment: ""
 size: "Large"
-trait_01: "mindless"
-trait_02: "undead"
-trait_03: "unholy"
-trait_04: "zombie"
+trait_01: [[mindless]]
+trait_02: [[undead]]
+trait_03: [[unholy]]
+trait_04: [[zombie]]
 modifier: 4
 perception:
   - name: "Perception"
@@ -56,7 +57,7 @@ abilities_top:
   - name: ""
 
   - name: "Slow"
-    desc: "  A zombie is permanently [[Conditions/Slowed 1|Slowed 1]] and can't use reactions."
+    desc: "  A zombie is permanently [[Conditions/Slowed|Slowed 1]] and can't use reactions."
 
 abilities_mid:
   - name: ""
@@ -66,6 +67,12 @@ attacks:
   - name: "Melee"
     desc: "`pf2:1` Fist +11 (reach 10 feet)\n__Damage__  1d12 + 5 bludgeoning plus improved-push"
  
+```
+
+```encounter-table
+name: Zombie Brute
+creatures:
+  - 1: Zombie Brute
 ```
 
 

@@ -4,6 +4,7 @@ obsidianUIMode: preview
 noteType: pf2eHazard
 tags:
   - haunt
+  - pf2eHazard
 
 source: Pathfinder Society Intro #2: United in Purpose
 aliases: "Compendium.pf2e.pfs-introductions-bestiary.Actor.Ik5g8rEoSnJSf1NC" 
@@ -21,7 +22,7 @@ name: "Cheerful Tune"
 level: "Hazard 3"
 
 
-trait_01: "haunt"
+trait_01: [[haunt]]
 modifier: 10
 sourcebook: "_Pathfinder Society Intro #2: United in Purpose_"
 perception:
@@ -40,11 +41,17 @@ attacks:
   - name: ""
 
   - name: "Nose to the Grindstone"
-    desc: "`pf2:r` (fear, mental, occult) **Trigger** A living creature approaches within 10 feet of the smiling face in the center of the north wall\n**Effect** The whistling rises in volume to a painful pitch and deals 1d8 + 4 sonic damage. The affected creature must attempt a DC 20 Will check save, and the haunt then rolls initiative.\n**Critical Success** The target takes no damage.\n**Success** The creature takes half damage.\n**Failure** The creature takes full damage and is [[Conditions/Deafened|Deafened]] for 1 minute.\n**Critical Failure** The creature takes double damage, is [[Conditions/Frightened 1|Frightened 1]], and is deafened for 2 minutes."
+    desc: "`pf2:r` (fear, mental, occult) **Trigger** A living creature approaches within 10 feet of the smiling face in the center of the north wall\n* * *\n\n**Effect** The whistling rises in volume to a painful pitch and deals 1d8+4 sonic damage. The affected creature must attempt a DC 20 Will check save, and the haunt then rolls initiative.\n* * *\n\n**Critical Success** The target takes no damage.\n\n**Success** The creature takes half damage.\n\n**Failure** The creature takes full damage and is [[Conditions/Deafened|Deafened]] for 1 minute.\n\n**Critical Failure** The creature takes double damage, is [[Conditions/Frightened|Frightened 1]], and is deafened for 2 minutes."
 
   - name: "Routine"
-    desc: "(3 actions) Ghostly workers appear in the room and begin abrading, scrubbing, and splashing cleaning chemicals on anyone in the area. Each creature in the room takes 1d4 + 2 slashing and 1d4 + 2 acid damage (DC 20 Reflex check save; roll once for both)."
+    desc: "(3 actions) Ghostly workers appear in the room and begin abrading, scrubbing, and splashing cleaning chemicals on anyone in the area. Each creature in the room takes 1d4+2 slashing and 1d4+2 acid damage (DC 20 Reflex check save; roll once for both)."
   - name: "Reset"
     desc: "The ghostly workers cease their routine 2 rounds after all living creatures leave the room and reset after 6 hours."
+```
+
+```encounter-table
+name: Cheerful Tune
+creatures:
+  - 1: Cheerful Tune
 ```
 

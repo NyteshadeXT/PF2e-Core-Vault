@@ -35,7 +35,7 @@ This elegant +3 greater striking flaming silver fighting fan features sharp silv
 
 * * *
 
-**Activate `pf2:3`** command, envision, Interact
+**Activate** `pf2:3` command, envision, Interact
 
 **Frequency** once per day.
 

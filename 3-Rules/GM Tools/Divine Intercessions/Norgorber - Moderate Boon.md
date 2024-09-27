@@ -17,7 +17,7 @@ license: OGL
 
 
 
-**Moderate Boon** Your poisons are everlasting.
+Your poisons are everlasting.
 
 If your Strike with a poisoned weapon critically fails, or succeeds but fails to deal slashing or piercing damage, the poison is not spent. The poison is still spent once successfully applied to a creature.
 

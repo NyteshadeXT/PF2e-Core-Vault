@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/fiend
   - pf2e/creature/type/nindoru
+  - pf2eMonster
   - pf2e/creature/level/12
 statblock: inline
 name: "Shisagishin"
@@ -23,13 +24,13 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #199: To Bloom Below the Web"
 name: "Shisagishin"
 level: "Creature 12"
-rare_03: "Rare"
+rare_03: [[Rare]]
 alignment: ""
 size: "Medium"
-trait_01: "chaotic"
-trait_02: "evil"
-trait_03: "fiend"
-trait_04: "nindoru"
+trait_01: [[chaotic]]
+trait_02: [[evil]]
+trait_03: [[fiend]]
+trait_04: [[nindoru]]
 modifier: 22
 perception:
   - name: "Perception"
@@ -37,7 +38,7 @@ perception:
 languages: "Aklo, Common, Necril"
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +25 (+27 to Escape), Deception: +24, Intimidation: +22, Occultism: +21, Stealth: +25"
+    desc: "Acrobatics: +25, Deception: +24, Intimidation: +22, Occultism: +21, Stealth: +25"
 abilityMods: [4, 7, 4, 3, 4, 6]
 speed: 40 feet
 sourcebook: "_Pathfinder #199: To Bloom Below the Web_"
@@ -62,13 +63,13 @@ abilities_mid:
     desc: "`pf2:r`  "
 
   - name: "Burst From Death"
-    desc: "`pf2:r` (attack) **Requirements** Initiative hasn't yet been rolled, and the shisagishin is disguised as a corpse with Manifest Corpse Shell\n**Trigger** A creature touches the disguised shisagishin or a coffin or other container the shisagishin has been placed into\n**Effect** The shisagishin violently unfolds into its true form, shredding its decaying corpse shell, and attempts a claw Strike on an adjacent target before it rolls initiative."
+    desc: "`pf2:r` (attack) **Requirements** Initiative hasn't yet been rolled, and the shisagishin is disguised as a corpse with Manifest Corpse Shell\n\n**Trigger** A creature touches the disguised shisagishin or a coffin or other container the shisagishin has been placed into\n* * *\n\n**Effect** The shisagishin violently unfolds into its true form, shredding its decaying corpse shell, and attempts a claw Strike on an adjacent target before it rolls initiative."
 
 attacks:
   - name: ""
 
   - name: "Melee"
-    desc: "`pf2:1` Claw +25 (agile, deadly d6, finesse, magical)\n__Damage__  3d8 + 7 slashing 1d6 mental"
+    desc: "`pf2:1` Claw +25 (agile, deadly d6, finesse, magical)\n__Damage__  3d8 + 7 slashing plus grab 1d6 mental plus grab"
 
   - name: "Occult Innate Spells"
     desc: "DC 32, attack +24; __6th __  _[[Spells/Vampiric Exsanguination|Vampiric Exsanguination]]_; __5th __  _[[Spells/Hallucination|Hallucination]]_, _[[Spells/Phantasmal Killer|Phantasmal Killer]]_; __2nd __  _[[Spells/Death Knell|Death Knell (At Will)]]_, _[[Spells/Item Facade|Item Facade]]_\n__Cantrips__  __(6th)__ _[[Spells/Daze|Daze]]_, _[[Spells/Ghost Sound|Ghost Sound]]_, _[[Spells/Message|Message]]_"
@@ -77,11 +78,17 @@ attacks:
     desc: " (concentrate,occult) The shisagishin tucks its arms and legs into its body, drops [[Conditions/Prone|Prone]], and manifests a decaying and/or mutilated humanoid corpse around itself over the course of 10 minutes of concentration. The shisagishin can cause this corpse to appear to be the remains of a specific creature it has seen before by Impersonating that creature with Deception. Once its corpse shell has manifested, until the next time the shisagishin acts, it appears to be a corpse. It has an automatic result of 44 on Deception checks and DCs to pass as a corpse."
 
   - name: "Spread Decay"
-    desc: "`pf2:1`  The shisagishin causes the flesh of any number of creatures [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]] by it to swiftly begin to decay. Each of those creatures must attempt a DC 32 Fortitude check save.\n**Critical Success** The creature is unaffected.\n**Success** The creature takes 2d8 void damage.\n**Failure** The creature takes 4d8 void damage and is [[Conditions/Enfeebled 1|Enfeebled 1]].\n**Critical Failure** The creature takes 6d8 void damage and is [[Conditions/Enfeebled 1|Enfeebled 2]]"
+    desc: "`pf2:1`  The shisagishin causes the flesh of any number of creatures [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]] by it to swiftly begin to decay. Each of those creatures must attempt a DC 32 Fortitude check save.\n* * *\n\n**Critical Success** The creature is unaffected.\n\n**Success** The creature takes 2d8 void damage.\n\n**Failure** The creature takes 4d8 void damage and is [[Conditions/Enfeebled|Enfeebled 1]].\n\n**Critical Failure** The creature takes 6d8 void damage and is [[Conditions/Enfeebled|Enfeebled 2]]"
 
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
     desc: "`pf2:1`  "
  
+```
+
+```encounter-table
+name: Shisagishin
+creatures:
+  - 1: Shisagishin
 ```
 
 

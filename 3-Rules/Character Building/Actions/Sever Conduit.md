@@ -11,7 +11,7 @@ license: OGL
 ---
 # Sever Conduit `pf2:r`
 
-### [[concentrate]]
+### [[3-Rules/Rule References/Concentrate]]
 
 **Category** defensive; 
 

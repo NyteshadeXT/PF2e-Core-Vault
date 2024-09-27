@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/good
   - pf2e/creature/type/human
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/9
 statblock: inline
 name: "Terrion Numesti"
@@ -22,12 +23,12 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Kingmaker"
 name: "Terrion Numesti"
 level: "Creature 9"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Medium"
-trait_01: "good"
-trait_02: "human"
-trait_03: "humanoid"
+trait_01: [[good]]
+trait_02: [[human]]
+trait_03: [[humanoid]]
 modifier: 18
 perception:
   - name: "Perception"
@@ -65,6 +66,12 @@ attacks:
   - name: "Formation Fighter"
     desc: "  Terrion gains a +2 circumstance bonus on attack and damage rolls as long as he is adjacent to at least two other allies."
  
+```
+
+```encounter-table
+name: Terrion Numesti
+creatures:
+  - 1: Terrion Numesti
 ```
 
 

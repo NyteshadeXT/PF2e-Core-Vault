@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.pfs-season-4-bestiary.Actor.jV3wANLbZbv6S5Mv"
 tags:
   - pf2e/creature/type/construct
   - pf2e/creature/type/mindless
+  - pf2eMonster
   - pf2e/creature/level/1
 statblock: inline
 name: "Animated Leather Armor"
@@ -21,15 +22,16 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Society Scenario #4-05: The Arclord who Never Was"
 name: "Animated Leather Armor"
 level: "Creature 1"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Medium"
-trait_01: "construct"
-trait_02: "mindless"
+trait_01: [[construct]]
+trait_02: [[mindless]]
 modifier: 5
 perception:
   - name: "Perception"
     desc: "+5; Darkvision"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Athletics: +8"
@@ -62,6 +64,12 @@ attacks:
   - name: "Melee"
     desc: "`pf2:1` Gauntlet +8 (agile, free-hand, magical)\n__Damage__  1d6 + 2 bludgeoning"
  
+```
+
+```encounter-table
+name: Animated Leather Armor
+creatures:
+  - 1: Animated Leather Armor
 ```
 
 

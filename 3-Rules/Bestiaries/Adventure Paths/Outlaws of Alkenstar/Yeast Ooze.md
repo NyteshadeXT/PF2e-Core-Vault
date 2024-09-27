@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.outlaws-of-alkenstar-bestiary.Actor.sUleYLWZG3O9LlKC"
 tags:
   - pf2e/creature/type/mindless
   - pf2e/creature/type/ooze
+  - pf2eMonster
   - pf2e/creature/level/2
 statblock: inline
 name: "Yeast Ooze"
@@ -21,15 +22,16 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #178: Punks in a Powder Keg"
 name: "Yeast Ooze"
 level: "Creature 2"
-rare_03: "Rare"
+rare_03: [[Rare]]
 alignment: ""
 size: "Large"
-trait_01: "mindless"
-trait_02: "ooze"
+trait_01: [[mindless]]
+trait_02: [[ooze]]
 modifier: 6
 perception:
   - name: "Perception"
     desc: "+6; Motion Sense (Precise) 60 Feet"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Athletics: +7"
@@ -60,8 +62,14 @@ attacks:
     desc: "`pf2:1` Pseudopod +9 ()\n__Damage__  1d8 + 3 bludgeoning plus monstrous-yeast"
 
   - name: "Monstrous Yeast"
-    desc: " (contact,disease) Whenever a creature infected with monstrous yeast takes cold damage, they can make a new saving throw with a +2 circumstance bonus. Failure doesn't advance the disease\n**Saving Throw** DC 16 Fortitude check\n**Onset** 1 round\n**Stage 1** [[Conditions/Off-Guard|Off-Guard]] (1 hour)\n**Stage 2** [[Conditions/Enfeebled 1|Enfeebled 1]] and off-guard (1 hour)\n**Stage 3** [[Conditions/Enfeebled 1|Enfeebled 2]] and off-guard (1 day)"
+    desc: " (contact,disease) Whenever a creature infected with monstrous yeast takes cold damage, they can make a new saving throw with a +2 circumstance bonus. Failure doesn't advance the disease\n\n**Saving Throw** DC 16 Fortitude check\n\n**Onset** 1 round\n\n**Stage 1** [[Conditions/Off-Guard|Off-Guard]] (1 hour)\n\n**Stage 2** [[Conditions/Enfeebled|Enfeebled 1]] and off-guard (1 hour)\n\n**Stage 3** [[Conditions/Enfeebled|Enfeebled 2]] and off-guard (1 day)"
  
+```
+
+```encounter-table
+name: Yeast Ooze
+creatures:
+  - 1: Yeast Ooze
 ```
 
 

@@ -6,6 +6,7 @@ cssClasses: pf2e
 aliases: "Compendium.pf2e.pathfinder-monster-core.Actor.ePJcp2ADOjJYYQ5Q" 
 tags:
   - pf2e/creature/type/astral
+  - pf2eMonster
   - pf2e/creature/level/12
   - remaster
 statblock: inline
@@ -25,7 +26,7 @@ level: "Creature 12"
 
 alignment: ""
 size: "Medium"
-trait_01: "astral"
+trait_01: [[astral]]
 modifier: 23
 perception:
   - name: "Perception"
@@ -70,8 +71,14 @@ attacks:
     desc: "`pf2:1` Fire Ray +25 (arcane, magical, range 100 feet)\n__Damage__  3d10 + 3 fire"
 
   - name: "Occult Innate Spells"
-    desc: "DC 33, attack +25; __7th __  _[[Spells/Sunburst|Sunburst]]_; __6th __  _[[Spells/Dispel Magic|Dispel Magic]]_, _[[Spells/Vibrant Pattern|Vibrant Pattern]]_, _[[Spells/Wall of Force|Wall of Force]]_; __5th __  _[[Spells/False Vision|False Vision]]_, _[[Spells/Mirage|Mirage]]_, _[[Spells/Translocate|Translocate]]_; __4th __  _[[Spells/Translocate|Translocate (At Will)]]_; __2nd __  _[[Spells/Illusory Object|Illusory Object (At Will)]]_\n__Cantrips__  __(6th)__ _[[Spells/Light|Light]]_"
+    desc: "DC 33, attack +25; __7th __  _[[Spells/Spell Riposte|Spell Riposte]]_, _[[Spells/Sunburst|Sunburst]]_; __6th __  _[[Spells/Dispel Magic|Dispel Magic]]_, _[[Spells/Vibrant Pattern|Vibrant Pattern]]_, _[[Spells/Wall of Force|Wall of Force]]_; __5th __  _[[Spells/False Vision|False Vision]]_, _[[Spells/Mirage|Mirage]]_, _[[Spells/Translocate|Translocate]]_; __4th __  _[[Spells/Translocate|Translocate (At Will)]]_; __2nd __  _[[Spells/Illusory Object|Illusory Object (At Will)]]_\n__Cantrips__  __(6th)__ _[[Spells/Light|Light]]_"
  
+```
+
+```encounter-table
+name: Shining Child
+creatures:
+  - 1: Shining Child
 ```
 
 

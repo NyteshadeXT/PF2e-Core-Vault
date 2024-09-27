@@ -6,6 +6,7 @@ cssClasses: pf2e
 aliases: "Compendium.pf2e.pathfinder-monster-core.Actor.vijBriZmbUJjbJNH" 
 tags:
   - pf2e/creature/type/animal
+  - pf2eMonster
   - pf2e/creature/level/13
   - remaster
 statblock: inline
@@ -25,7 +26,7 @@ level: "Creature 13"
 
 alignment: ""
 size: "grg"
-trait_01: "animal"
+trait_01: [[animal]]
 modifier: 20
 perception:
   - name: "Perception"
@@ -52,7 +53,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Inexorable"
-    desc: "  The cave worm recovers from the [[Conditions/Paralyzed|Paralyzed]], [[Conditions/Slowed 1|Slowed]], and [[Conditions/Stunned 1|Stunned]] conditions at the end of its turn. It's also immune to penalties to its Speeds and the [[Conditions/Immobilized|Immobilized]] condition, and it ignores difficult terrain and greater difficult terrain."
+    desc: "  The cave worm recovers from the [[Conditions/Paralyzed|Paralyzed]], [[Conditions/Slowed|Slowed]], and [[Conditions/Stunned|Stunned]] conditions at the end of its turn. It's also immune to penalties to its Speeds and the [[Conditions/Immobilized|Immobilized]] condition, and it ignores difficult terrain and greater difficult terrain."
 
   - name: "Slough Skin"
     desc: "`pf2:r`  **Frequency** once per day\n\n**Trigger** The cave worm would be affected by a condition or adverse effect (such as [[Spells/Cursed Metamorphosis|Cursed Metamorphosis]])\n* * *\n\n**Effect** The cave worm negates the triggering condition or effect by sloughing an outer layer of its skin. Effects from artifacts, deities, or a similarly powerful source can't be avoided in this way."
@@ -73,7 +74,7 @@ attacks:
     desc: "`pf2:1` Regurgitate +26 (brutal, range increment 60 feet)\n__Damage__ "
 
   - name: "Cave Worm Venom"
-    desc: " (poison) **Saving Throw** DC 32 Fortitude check\n* * *\n\n**Maximum Duration** 6 rounds\n\n**Stage 1** 5d6 poison damage and [[Conditions/Enfeebled 1|Enfeebled 2]] (1 round)\n\n**Stage 2** 6d6 poison damage, and enfeebled 2 (1 round)\n\n**Stage 3** 8d6 poison damage and enfeebled 2 (1 round)"
+    desc: " (poison) **Saving Throw** DC 32 Fortitude check\n* * *\n\n**Maximum Duration** 6 rounds\n\n**Stage 1** 5d6 poison damage and [[Conditions/Enfeebled|Enfeebled 2]] (1 round)\n\n**Stage 2** 6d6 poison damage, and enfeebled 2 (1 round)\n\n**Stage 3** 8d6 poison damage and enfeebled 2 (1 round)"
 
   - name: "Fast Swallow"
     desc: "`pf2:r`  **Trigger** The cave worm [[Conditions/Grabbed|Grabs]] a creature.\n* * *\n\n**Effect** The worm uses Swallow Whole."
@@ -85,11 +86,17 @@ attacks:
     desc: "  A cave worm can burrow through solid stone at a Speed of 20 feet. It can leave a tunnel if it desires, and it usually does."
 
   - name: "[[Bestiary Ability Glossary/Swallow Whole|Swallow Whole]]"
-    desc: "`pf2:1` (attack) Huge, 3d6 + 9 bludgeoning, Rupture 24\n\n* * *\n"
+    desc: "`pf2:1` (attack) Huge, 3d6+9 bludgeoning, Rupture 24\n\n* * *\n"
 
   - name: "Thrash"
     desc: "`pf2:2`  The worm makes a Strike once against each creature in its reach. It can Strike up to once with its jaws, up to once with its stinger, and any number of times with its body. Each attack counts toward the worm's multiple attack penalty, but the multiple attack penalty doesn't increase until after it makes all the attacks."
  
+```
+
+```encounter-table
+name: Cave Worm
+creatures:
+  - 1: Cave Worm
 ```
 
 

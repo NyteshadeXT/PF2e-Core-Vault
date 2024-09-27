@@ -18,10 +18,6 @@ You coax the magic power in your blood to manifest, accessing magic others don't
 
 Choose a [[Class Features/Bloodline|Bloodline]]. You become trained in the bloodline's two skills; for each of these skills in which you were already trained, you become trained in a skill of your choice. You cast spells like a sorcerer. You gain access to the Cast a Spell activity. You gain a spell repertoire with two common cantrips from the spell list associated with your bloodline, from the spells granted by your bloodline, or any other cantrips of that tradition you learn or discover. You're trained in spell attack rolls and spell DCs for your tradition's spells. Your key spellcasting attribute for sorcerer archetype spells is Charisma, and they are sorcerer spells of your bloodline's tradition. You don't gain any other abilities from your choice of bloodline.
 
-* * *
-
-**Special** You cannot select another dedication feat until you have gained two other feats from the sorcerer archetype.
-
 ## [[Feats/Basic Blood Potency|Basic Blood Potency]] Feat 4
 
 **Prerequisites** Sorcerer Dedication

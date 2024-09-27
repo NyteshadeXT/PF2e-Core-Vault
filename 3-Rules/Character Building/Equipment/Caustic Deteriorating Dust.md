@@ -12,7 +12,7 @@ license: OGL
 ---
 # Caustic Deteriorating Dust
 ## Item 9
-### [uncommon](uncommon "Uncommon Rarity Trait")[[consumable]][[magical]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[consumable]][[3-Rules/Rule References/Magical]]
 
 **Category** other; 
 **Price** 105 gp; 

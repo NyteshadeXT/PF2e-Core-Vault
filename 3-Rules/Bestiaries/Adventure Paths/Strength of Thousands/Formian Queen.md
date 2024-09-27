@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.strength-of-thousands-bestiary.Actor.i3xyq1muByR02dqa"
 tags:
   - pf2e/creature/type/formian
   - pf2e/creature/type/lawful
+  - pf2eMonster
   - pf2e/creature/level/17
 statblock: inline
 name: "Formian Queen"
@@ -21,16 +22,16 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #173: Doorway to the Red Star"
 name: "Formian Queen"
 level: "Creature 17"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Large"
-trait_01: "formian"
-trait_02: "lawful"
+trait_01: [[formian]]
+trait_02: [[lawful]]
 modifier: 31
 perception:
   - name: "Perception"
     desc: "+31; Darkvision, Scent (Imprecise) 60 Feet, Tremorsense (Imprecise) 60 Feet"
-languages: "Akitonian, Formian"
+languages: "Akitonian, Formian; telepathy 200 feet"
 skills:
   - name: "Skills"
     desc: "Arcana: +30, Athletics: +27, Diplomacy: +33, Intimidation: +33, Medicine: +31, Nature: +31, Society: +30"
@@ -64,14 +65,20 @@ attacks:
     desc: "DC 38, attack +30; __9th __  _[[Spells/Cone of Cold|Cone of Cold]]_, _[[Spells/Never Mind|Feeblemind]]_; __8th __  _[[Spells/Disappearance|Disappearance]]_, _[[Spells/Illusory Scene|Illusory Scene]]_, _[[Spells/Repulsion|Repulsion]]_, _[[Spells/Teleport|Teleport]]_; __7th __  _[[Spells/Force Barrage|Magic Missile (At Will)]]_"
 
   - name: "Hive Frenzy"
-    desc: "`pf2:1` (mental,primal) **Frequency** once per day\n**Effect** The formian queen stirs all formians within range of her telepathy into a frenzy. Each affected formian gains the [[Conditions/Quickened|Quickened]] condition for 1 minute, and can use the extra action each round only to Strike or Stride."
+    desc: "`pf2:1` (mental,primal) **Frequency** once per day\n* * *\n\n**Effect** The formian queen stirs all formians within range of her telepathy into a frenzy. Each affected formian gains the [[Conditions/Quickened|Quickened]] condition for 1 minute, and can use the extra action each round only to Strike or Stride."
 
   - name: "Possess Formian"
-    desc: "`pf2:1` (incapacitation,mental,possession,primal) A formian queen transfers her consciousness to the body of any formian within range of her telepathy to whom she has a line of effect. As long as the queen's consciousness is outside her body, her body is [[Conditions/Unconscious|Unconscious]] (though she is aware if any damage is dealt to it).\nAn unwilling target can attempt a DC 38 Will check saving throw to resist being possessed, but the queen's offspring are part of her hive mind and thus are almost always willing. The queen receives all sensory input from the target creature; she can speak through it, and she can use her own modifier for Intelligence-, Wisdom-, and Charisma-based skill checks.\nIf the target creature is slain or moves to a different plane from the queen's body, the queen returns to her own body immediately and is [[Conditions/Stunned 1|Stunned 1]]; otherwise, she can return to her own body as a free action, ending the possession effect."
+    desc: "`pf2:1` (incapacitation,mental,possession,primal) A formian queen transfers her consciousness to the body of any formian within range of her telepathy to whom she has a line of effect. As long as the queen's consciousness is outside her body, her body is [[Conditions/Unconscious|Unconscious]] (though she is aware if any damage is dealt to it).\n\nAn unwilling target can attempt a DC 38 Will check saving throw to resist being possessed, but the queen's offspring are part of her hive mind and thus are almost always willing. The queen receives all sensory input from the target creature; she can speak through it, and she can use her own modifier for Intelligence-, Wisdom-, and Charisma-based skill checks.\n\nIf the target creature is slain or moves to a different plane from the queen's body, the queen returns to her own body immediately and is [[Conditions/Stunned|Stunned 1]]; otherwise, she can return to her own body as a free action, ending the possession effect."
 
   - name: "Telepathic Feedback"
-    desc: "`pf2:2` (mental,primal) The formian queen unleashes a blast of debilitating telepathic feedback, targeting as many creatures as she wishes within range of her telepathy and to whom she has a line of effect. Targeted creatures must attempt a DC 38 Will check save.\n**Critical Success** The creature is unaffected and is temporarily immune to Telepathic Feedback for 24 hours.\n**Success** The creature takes 3d6 mental damage, 1d6 persistent mental, and is [[Conditions/Sickened 1|Sickened 1]].\n**Failure** The creature takes 6d6 mental damage, 1d6 persistent mental damage, and is [[Conditions/Sickened 1|Sickened 2]].\n**Critical Failure** The creature takes 12d6 mental damage, 1d6 persistent mental damage, and is [[Conditions/Stunned 1|Stunned 3]]. Upon recovering from the stunned condition, the creature becomes sickened 2."
+    desc: "`pf2:2` (mental,primal) The formian queen unleashes a blast of debilitating telepathic feedback, targeting as many creatures as she wishes within range of her telepathy and to whom she has a line of effect. Targeted creatures must attempt a DC 38 Will check save.\n* * *\n\n**Critical Success** The creature is unaffected and is temporarily immune to Telepathic Feedback for 24 hours.\n\n**Success** The creature takes 3d6 mental damage, 1d6 persistent mental, and is [[Conditions/Sickened|Sickened 1]].\n\n**Failure** The creature takes 6d6 mental damage, 1d6 persistent mental damage, and is [[Conditions/Sickened|Sickened 2]].\n\n**Critical Failure** The creature takes 12d6 mental damage, 1d6 persistent mental damage, and is [[Conditions/Stunned|Stunned 3]]. Upon recovering from the stunned condition, the creature becomes sickened 2."
  
+```
+
+```encounter-table
+name: Formian Queen
+creatures:
+  - 1: Formian Queen
 ```
 
 

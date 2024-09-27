@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/leshy
   - pf2e/creature/type/plant
+  - pf2eMonster
   - pf2e/creature/level/1
 statblock: inline
 name: "Plum Leshy (3-4)"
@@ -26,15 +27,15 @@ level: "Creature 1"
 
 alignment: ""
 size: "Small"
-trait_01: "chaotic"
-trait_02: "evil"
-trait_03: "leshy"
-trait_04: "plant"
+trait_01: [[chaotic]]
+trait_02: [[evil]]
+trait_03: [[leshy]]
+trait_04: [[plant]]
 modifier: 7
 perception:
   - name: "Perception"
     desc: "+7; Low-Light Vision"
-languages: "Chthonian"
+languages: "Chthonian; speak with plants (trees only)"
 skills:
   - name: "Skills"
     desc: "Acrobatics: +7, Athletics: +6, Stealth: +7"
@@ -71,8 +72,14 @@ attacks:
     desc: "DC 14, attack +6\n__Constant__  __(4th)__ _[[Spells/Speak with Plants|Speak with Plants (Trees Only)]]_"
 
   - name: "Bitter Harvest"
-    desc: "  When a plum leshy hits with their rotten fruit Strike, the target must attempt a DC 17 Fortitude check save.\n**Critical Success** The target is unaffected and becomes temporarily immune to all plum leshys' bitter harvest for 1 hour.\n**Success** The target is unaffected.\n**Failure** The target is [[Conditions/Sickened 1|Sickened 1]]. Once it succeeds at its save to recover from the sickened condition, it is immune to all plum leshys' bitter harvest for 1 hour.\n**Critical Failure** As failure, plus the target also takes a -1 penalty on all saves to recover from the sickened condition for 1 hour."
+    desc: "  When a plum leshy hits with their rotten fruit Strike, the target must attempt a DC 17 Fortitude check save.\n* * *\n\n**Critical Success** The target is unaffected and becomes temporarily immune to all plum leshys' bitter harvest for 1 hour.\n\n**Success** The target is unaffected.\n\n**Failure** The target is [[Conditions/Sickened|Sickened 1]]. Once it succeeds at its save to recover from the sickened condition, it is immune to all plum leshys' bitter harvest for 1 hour.\n\n**Critical Failure** As failure, plus the target also takes a -1 penalty on all saves to recover from the sickened condition for 1 hour."
  
+```
+
+```encounter-table
+name: Plum Leshy (3-4)
+creatures:
+  - 1: Plum Leshy (3-4)
 ```
 
 

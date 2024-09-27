@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/good
   - pf2e/creature/type/human
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/1
 statblock: inline
 name: "Svetlana"
@@ -22,12 +23,12 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Kingmaker"
 name: "Svetlana"
 level: "Creature 1"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Medium"
-trait_01: "good"
-trait_02: "human"
-trait_03: "humanoid"
+trait_01: [[good]]
+trait_02: [[human]]
+trait_03: [[humanoid]]
 modifier: 5
 perception:
   - name: "Perception"
@@ -35,7 +36,7 @@ perception:
 languages: "Common"
 skills:
   - name: "Skills"
-    desc: "Brevoy Lore: +6, Diplomacy: +7, Medicine: +5, Society: +6, Survival: +3"
+    desc: "Diplomacy: +7, Medicine: +5, Society: +6, Survival: +3, Brevoy Lore: +6"
 abilityMods: [0, 3, 3, 1, 0, 2]
 speed: 25 feet
 sourcebook: "_Pathfinder Kingmaker_"
@@ -60,6 +61,12 @@ attacks:
   - name: "Melee"
     desc: "`pf2:1` Cleaver +6 (agile)\n__Damage__  1d6 slashing"
  
+```
+
+```encounter-table
+name: Svetlana
+creatures:
+  - 1: Svetlana
 ```
 
 

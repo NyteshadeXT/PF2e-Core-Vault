@@ -11,7 +11,7 @@ license: OGL
 ---
 # Perpetual Infusions (Mutagenist)
 ## Feat 7
-### [[alchemist]]
+### [[3-Rules/trait_reference/alchemist]]
 
 **Category** classfeature; 
 

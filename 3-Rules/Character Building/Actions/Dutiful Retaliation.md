@@ -12,7 +12,7 @@ license: OGL
 ---
 # Dutiful Retaliation `pf2:r`
 
-### [[eidolon]][[occult]]
+### [[eidolon]][[3-Rules/Rule References/Occult]]
 
 **Category** offensive; 
 

@@ -15,7 +15,7 @@ license: OGL
 ---
 # Psychometric Assessment
 
-### [[concentrate]][[emotion]][[exploration]][[3-Rules/Rule References/Mental]][[occult]]
+### [[3-Rules/Rule References/Concentrate]][[3-Rules/Rule References/Emotion]][[exploration]][[3-Rules/Rule References/Mental]][[3-Rules/Rule References/Occult]]
 
 **Category** interaction; 
 

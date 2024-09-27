@@ -9,7 +9,7 @@ tags:
 aliases: "Compendium.pf2e.familiar-abilities.Item.jdlefpPcSCIe27vO"
 license: ORC
 ---
-# Familiar Focus
+# Familiar Focus `pf2:2`
 
 ### 
 

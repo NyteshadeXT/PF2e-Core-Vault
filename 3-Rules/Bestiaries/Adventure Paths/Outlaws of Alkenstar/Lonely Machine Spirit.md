@@ -4,6 +4,7 @@ obsidianUIMode: preview
 noteType: pf2eHazard
 tags:
   - haunt
+  - pf2eHazard
   - complex
 source: Pathfinder #178: Punks in a Powder Keg
 aliases: "Compendium.pf2e.outlaws-of-alkenstar-bestiary.Actor.Zf9C8InVZGnDH8c2" 
@@ -21,13 +22,13 @@ name: "Lonely Machine Spirit"
 level: "Hazard 3"
 
 trait_06: "Complex"
-trait_01: "haunt"
+trait_01: [[haunt]]
 modifier: 13
 sourcebook: "_Pathfinder #178: Punks in a Powder Keg_"
 ac: 20
 armorclass:
   - name: AC
-    desc: "20; __Fort__ +14, __Ref__ +8, __Will__ +0"
+    desc: "20; __Fort__ +14, __Ref__ +8, "
 hp: 44
 health:
   - name: ""
@@ -49,10 +50,10 @@ attacks:
   - name: ""
 
   - name: "Painful Whistle"
-    desc: "`pf2:r` (sonic) **Trigger** A living creature approaches within 10 feet of the engine (marked with a \"T\" on the map)\n**Effect** A loud whistle blows and all creatures within 30 feet take 2d6 sonic damage and become [[Conditions/Stunned 1|Stunned 1]] (DC 20 Fortitude check; creatures aren't stunned on a success). The lonely machine spirit then rolls initiative."
+    desc: "`pf2:r` (sonic) **Trigger** A living creature approaches within 10 feet of the engine (marked with a \"T\" on the map)\n* * *\n\n**Effect** A loud whistle blows and all creatures within 30 feet take 2d6 sonic damage and become [[Conditions/Stunned|Stunned 1]] (DC 20 Fortitude check; creatures aren't stunned on a success). The lonely machine spirit then rolls initiative."
 
   - name: "Belch Smoke"
-    desc: "action (air, fire) The airship's engine issues forth a cloud of alchemical smoke in a 30-foot cone. Creatures within the cone must attempt a DC 20 Fortitude check save.\n**Critical Success** The creature is unaffected.\n**Success** The creature takes 1d6 poison damage and is [[Conditions/Sickened 1|Sickened 1]].\n**Failure** The creature takes 2d6 poison damage and is [[Conditions/Sickened 1|Sickened 2]].\n**Critical Failure** The creature takes 3d6 poison damage and is sickened 2."
+    desc: "action (air, fire) The airship's engine issues forth a cloud of alchemical smoke in a @Template[cone|distance:30]. Creatures within the cone must attempt a DC 20 Fortitude check save.\n* * *\n\n**Critical Success** The creature is unaffected.\n\n**Success** The creature takes 1d6 poison damage and is [[Conditions/Sickened|Sickened 1]].\n\n**Failure** The creature takes 2d6 poison damage and is [[Conditions/Sickened|Sickened 2]].\n\n**Critical Failure** The creature takes 3d6 poison damage and is sickened 2."
   - name: "Melee"
     desc: "Red hot gear +12 (fire, range 10 feet) "
 
@@ -60,5 +61,11 @@ attacks:
     desc: "(2 actions) The lonely machine spirit Belches Smoke or makes two red hot gear Strikes against two creatures within 30 feet."
   - name: "Reset"
     desc: "The haunt deactivates and resets after 1 hour."
+```
+
+```encounter-table
+name: Lonely Machine Spirit
+creatures:
+  - 1: Lonely Machine Spirit
 ```
 

@@ -13,7 +13,7 @@ license: OGL
 ---
 # Dandpatta
 ## Item 0
-### [uncommon](uncommon "Uncommon Rarity Trait")[[agile]][[twin]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[3-Rules/Rule References/Agile]][[twin]]
 
 |  |  |
 | -- | -- |

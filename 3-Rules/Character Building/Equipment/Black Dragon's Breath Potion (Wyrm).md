@@ -14,7 +14,7 @@ license: OGL
 ---
 # Black Dragon's Breath Potion (Wyrm)
 ## Item 17
-### [[3-Rules/Rule References/Acid]][[consumable]][[magical]][[potion]]
+### [[3-Rules/Rule References/Acid]][[consumable]][[3-Rules/Rule References/Magical]][[potion]]
 
 **Category** potion; 
 **Price** 3000 gp; 
@@ -23,7 +23,7 @@ license: OGL
 
 This liquid contains blood from a black dragon. For 1 hour after you imbibe the concoction, you can unleash a black dragon's breath weapon. The potency of the breath depends on the potion's type, based on the age of the dragon whose blood was used to make the potion.
 
-Exhaling dragon breath uses a single action. You create a 30-foot line of acid which deals 10d6 acid damage. All creatures in the area must attempt a DC 37 Reflex check save.
+Exhaling dragon breath uses a single action. You create a @Template\[line|distance:30\] of acid which deals 10d6 acid damage. All creatures in the area must attempt a DC 37 Reflex check save.
 
 After you use the breath weapon, you can't do so again for 1d4 rounds.
 

@@ -6,6 +6,7 @@ cssClasses: pf2e
 aliases: "Compendium.pf2e.pathfinder-bestiary-3.Actor.nr8EXKLSejspbb3d" 
 tags:
   - pf2e/creature/type/animal
+  - pf2eMonster
   - pf2e/creature/level/-1
 statblock: inline
 name: "Red Fox"
@@ -24,14 +25,15 @@ level: "Creature -1"
 
 alignment: ""
 size: "tiny"
-trait_01: "animal"
+trait_01: [[animal]]
 modifier: 7
 perception:
   - name: "Perception"
     desc: "+7; Low-Light Vision, Scent (Imprecise) 30 Feet"
+languages: ""
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +6 (+8 to Escape), Athletics: +2 (+4 to High Jump or Long Jump), Stealth: +6, Survival: +5"
+    desc: "Acrobatics: +6, Athletics: +2, Stealth: +6, Survival: +5"
 abilityMods: [-2, 3, 0, -4, 2, 0]
 speed: 35 feet
 sourcebook: "_Pathfinder Bestiary 3_"
@@ -56,8 +58,14 @@ attacks:
     desc: "`pf2:1` Jaws +9 (agile, finesse)\n__Damage__  1d6 - 2 piercing"
 
   - name: "Leaping Pounce"
-    desc: "`pf2:1`  The red fox either Strides or Leaps up to its Speed and makes a Strike at the end of that movement.\nIf the fox began this action [[Conditions/Hidden|Hidden]], it remains hidden until after this ability's Strike."
+    desc: "`pf2:1`  The red fox either Strides or Leaps up to its Speed and makes a Strike at the end of that movement.\n\nIf the fox began this action [[Conditions/Hidden|Hidden]], it remains hidden until after this ability's Strike."
  
+```
+
+```encounter-table
+name: Red Fox
+creatures:
+  - 1: Red Fox
 ```
 
 

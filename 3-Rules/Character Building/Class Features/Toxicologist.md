@@ -6,53 +6,32 @@ tags:
   - trait/alchemist
   - trait/common
   - category/classfeature
+  - remaster
 aliases: "Compendium.pf2e.classfeatures.Item.P9quO9XZi3OWFe1k"
-license: OGL
+license: ORC
 ---
 # Toxicologist
 ## Feat 1
-### [[alchemist]]
+### [[3-Rules/trait_reference/alchemist]]
 
 **Category** classfeature; 
 
 
 
 
-You specialize in toxins and venoms of all types. You start with the formulas for two common 1st-level alchemical poisons in your formula book, in addition to your other formulas.
+You specialize in toxins and venoms of all types.
 
-Your research field adds a number of formulas to your formula book; these are your signature items. When using a batch of [[Class Features/Infused Reagents|Infused Reagents]] to create your signature items using [[Class Features/Advanced Alchemy|Advanced Alchemy]], you create three items instead of two. Each time you gain a level, you can swap one of your signature items with another formula in your formula book. This new signature item must be on your research field's list of possible signature items.
+**Formulas** Two common 1st-level alchemical poisons.
 
-You can apply an injury poison you're holding to a weapon you're wielding as a single action, rather than as a 2-action activity, and you can change the DCs of your infused poisons to your class DC if it's higher.
+**Field Benefit** You can apply an injury poison you're holding to a weapon or piece of ammunition you're wielding as a single action, rather than as a 2-action activity. In addition, you flexibly mix acidic and poisonous alchemical compounds. Your infused poisons can affect creatures immune to poison. A creature takes acid damage instead of poison damage from your infused poisons if either the creature is immune to poison or that would be more detrimental to the creature (as determined by the GM). Typically, this benefit applies when the creature has an immunity, resistance, or weakness to one of the damage types.
 
-## [[Class Features/Field Discovery (Toxicologist)|Field Discovery]]Level 5
+**Field Vials** Your versatile vials have the poison trait and deal poison damage instead of having the acid trait and dealing acid damage (though your field benefit still applies). You can apply the contents of a versatile vial to a weapon or piece of ammunition as an injury poison. Add the versatile vial's initial damage to the first successful Strike with that weapon or ammunition. The substance becomes inert at the end of your current turn.
 
-When using Advanced Alchemy to make poisons during your daily preparations, you can spend one batch of reagents to create three poisons in any combination, instead of just two of the same poison.
+**[[Class Features/Field Discovery (Toxicologist)|Field Discovery]] (5th)** You have handled enough poisons to become inured to their effects. You gain poison resistance equal to half your level.
 
-## [[Class Features/Perpetual Infusions (Toxicologist)|Perpetual Infusions]]Level 7
+**[[Class Features/Advanced Vials (Toxicologist)|Advanced Vials]] (11th)** When you damage a creature with a versatile vial you've used as an injury poison, that creature takes persistent poison damage equal to the vial's splash damage in addition to the initial damage.
 
-You have learned how to create perpetual alchemical infusions that can provide a near-infinite supply of certain simple items. You gain the ability to create two 1st-level alchemical items using [[Class Features/Quick Alchemy|Quick Alchemy]] without spending a batch of infused reagents. The items you can select depend on your research field and must be in your formula book.
+**[[Class Features/Greater Field Discovery (Toxicologist)|Greater Field Discovery]] (13th)** When a creature fails its initial saving throw against an infused injury poison you created, the wound sprays poison onto another creature adjacent to it. The attacker who caused the injury chooses which creature, if there's more than one, and can choose to forgo this effect. That creature is exposed to the poison. The second creature doesn't spread the poison further.
 
-Each time you gain a level, you can swap any number of your perpetual infusions with other eligible infusions.
-
-Choose two common 1st-level alchemical poisons.
-
-## [[Class Features/Perpetual Potency (Toxicologist)|Perpetual Potency]]Level 11
-
-Your perpetual infusions improve, allowing you to use Quick Alchemy to create more powerful items with no cost. The items you can select depend on your research field and must be in your formula book.
-
-Choose two common 5th-level or lower alchemical poisons.
-
-## [[Class Features/Greater Field Discovery (Toxicologist)|Greater Field Discovery]]Level 13
-
-You can apply two different injury poisons to the same weapon, though not to a piece of ammunition. The two poisons can be up to six levels lower than your level, and you can't use the poisons made without spending a batch of infused reagents via perpetual infusions. Applying the two poisons requires a separate action to apply each poison.
-
-Once completed, you combine the two poisons on the weapon into a double poison with the lower of the two poisons' DCs. This double poison is only virulent if both poisons were virulent, and if the poisons have a different number of stages, the double poison has a number of stages equal to the poison with the lower number of stages. The target takes the effects of both poisons for its current stage.
-
-## [[Class Features/Perpetual Perfection (Toxicologist)|Perpetual Perfection]]Level 17
-
-You have perfected your perpetual infusions, allowing you to use Quick Alchemy to create even more powerful items at no cost. The items you can select depend on your research field and must be in your formula book.
-
-Choose two common 11th-level or lower alchemical poisons.
-
-*Source: Pathfinder Advanced Player's Guide*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

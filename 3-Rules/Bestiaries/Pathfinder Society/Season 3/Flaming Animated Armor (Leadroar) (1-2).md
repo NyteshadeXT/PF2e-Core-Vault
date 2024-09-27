@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.pfs-season-3-bestiary.Actor.PhnmHglnmoiIb3Al"
 tags:
   - pf2e/creature/type/construct
   - pf2e/creature/type/mindless
+  - pf2eMonster
   - pf2e/creature/level/3
 statblock: inline
 name: "Flaming Animated Armor (Leadroar) (1-2)"
@@ -21,15 +22,16 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Society Scenario #3-13: Guardian&#x27;s Covenant"
 name: "Flaming Animated Armor (Leadroar) (1-2)"
 level: "Creature 3"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Medium"
-trait_01: "construct"
-trait_02: "mindless"
+trait_01: [[construct]]
+trait_02: [[mindless]]
 modifier: 9
 perception:
   - name: "Perception"
     desc: "+9; Darkvision"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Athletics: +10"
@@ -63,6 +65,12 @@ attacks:
   - name: "Ranged"
     desc: "`pf2:1` Blunderbuss +12 (concussive, range increment 40 feet, reload 1, scatter 10)\n__Damage__  1d8 + 3 piercing 1d4 fire"
  
+```
+
+```encounter-table
+name: Flaming Animated Armor (Leadroar) (1-2)
+creatures:
+  - 1: Flaming Animated Armor (Leadroar) (1-2)
 ```
 
 

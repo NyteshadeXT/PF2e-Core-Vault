@@ -4,6 +4,7 @@ obsidianUIMode: preview
 noteType: pf2eHazard
 tags:
   - magical
+  - pf2eHazard
   - complex
 source: Pathfinder #198: No Breath to Cry
 aliases: "Compendium.pf2e.season-of-ghosts-bestiary.Actor.U0yn2XcgMw4bPU5B" 
@@ -21,13 +22,13 @@ name: "Warding Bell"
 level: "Hazard 11"
 
 trait_06: "Complex"
-trait_01: "magical"
+trait_01: [[magical]]
 modifier: 0
 sourcebook: "_Pathfinder #198: No Breath to Cry_"
 ac: 31
 armorclass:
   - name: AC
-    desc: "31; __Fort__ +24, __Ref__ +18, __Will__ +0"
+    desc: "31; __Fort__ +24, __Ref__ +18, "
 hp: 80
 health:
   - name: ""
@@ -52,8 +53,14 @@ attacks:
     desc: "`pf2:r` The warding bell's light increases from a faint flickering to luminous enough that the whole room is brightly lit. The hazard then rolls initiative."
 
   - name: "Routine"
-    desc: "(1 action; divine, emotion, enchantment, fear, mental) The warding bell emits a harrowing ring that can be heard only by undead or transmigrated PCs in area **C11**; affected characters must attempt a DC 30 Will check save.\n**Critical Success** The creature is unaffected and is temporarily immune to the warding bell's routine for 24 hours.\n**Success** The creature is unaffected.\n**Failure** The creature becomes [[Conditions/Frightened 1|Frightened 1]] and takes 6d6 mental damage.\n**Critical Failure** The creature becomes [[Conditions/Frightened 1|Frightened 2]], takes 12d6 mental damage, and is [[Conditions/Fleeing|Fleeing]] as long as it remains frightened."
+    desc: "(1 action; divine, emotion, enchantment, fear, mental) The warding bell emits a harrowing ring that can be heard only by undead or transmigrated PCs in area **C11**; affected characters must attempt a DC 30 Will check save.\n* * *\n\n**Critical Success** The creature is unaffected and is temporarily immune to the warding bell's routine for 24 hours.\n\n**Success** The creature is unaffected.\n\n**Failure** The creature becomes [[Conditions/Frightened|Frightened 1]] and takes 6d6 mental damage.\n\n**Critical Failure** The creature becomes [[Conditions/Frightened|Frightened 2]], takes 12d6 mental damage, and is [[Conditions/Fleeing|Fleeing]] as long as it remains frightened."
   - name: "Reset"
     desc: "Reactivating the warding bell requires a complicated rite taking several days."
+```
+
+```encounter-table
+name: Warding Bell
+creatures:
+  - 1: Warding Bell
 ```
 

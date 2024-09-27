@@ -33,7 +33,7 @@ You use the hunter's arrowhead to guide the misaligned magic of Huntergate back 
 
 **Success** Huntergate is repaired.
 
-**Failure** Huntergate is not repaired, and the character who attempted the repair becomes [[Conditions/Clumsy 1|Clumsy 2]] for 1 hour as an orange arc of magical energy lances painfully through their body. A new attempt to repair the portal cannot be made again for 24 hours.
+**Failure** Huntergate is not repaired, and the character who attempted the repair becomes [[Conditions/Clumsy|Clumsy 2]] for 1 hour as an orange arc of magical energy lances painfully through their body. A new attempt to repair the portal cannot be made again for 24 hours.
 
 **Critical Failure** As failure, but the magical backlash also deals 6d6 fire damage to the character attempting the repairs.
 

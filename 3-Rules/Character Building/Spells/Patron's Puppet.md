@@ -4,24 +4,32 @@ title: "Patron's Puppet"
 noteType: pf2eSpell
 cssclasses: pf2e,pf2e-spell
 tags:
+  - pf2eSpell
   - spell/level/1
   - trait/focus
   - trait/hex
   - trait/witch
   - trait/uncommon
+
   - remaster
 aliases: "Compendium.pf2e.spells-srd.Item.aq1yonHeYpbaj3XI" 
+license: ORC
 ---
-# Patron's Puppet  Free  
-## Focus 1
-### [uncommon](uncommon "Uncommon Rarity Trait")[[focus]][[hex]][[witch]]
+```statblock
+name: "Patron's Puppet  Free"
+level: "Focus 1"
+rare_03: [[Uncommon]]
+trait_01: [[focus]]
+trait_02: [[hex]]
+trait_03: [[witch]]
+layout: Basic Pathfinder 2e Layout
+columns: 1
+columnWidth: x
+abilities_top:
+  - name: ""
 
-* * * 
-**Trigger** Your turn begins.
-
-* * *
-
-At your unspoken plea, your patron temporarily assumes control over your familiar. You Command your familiar, allowing it to take its normal actions this turn. Your Command does not have the auditory or concentrate traits; your patron simply moves its agent directly.
-
-*Source: Pathfinder Player Core*
-*ORC*
+abilities_mid:
+  - name: ""
+    desc: "**Trigger** Your turn begins.\n* * *\n\nAt your unspoken plea, your patron temporarily assumes control over your familiar. You Command your familiar, allowing it to take its normal actions this turn. Your Command does not have the auditory or concentrate traits; your patron simply moves its agent directly."
+sourcebook: "_Pathfinder Player Core_"
+```

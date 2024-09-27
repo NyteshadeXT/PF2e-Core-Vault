@@ -5,6 +5,7 @@ noteType: pf2eHazard
 tags:
   - mechanical
   - trap
+  - pf2eHazard
 
 source: Pathfinder Society Special #3-99: Fate in the Future
 aliases: "Compendium.pf2e.pfs-season-3-bestiary.Actor.oTftuPSL5iB6fhWU" 
@@ -22,14 +23,14 @@ name: "Poisoned Dart Trap (1-2)"
 level: "Hazard 1"
 
 
-trait_01: "mechanical"
-trait_02: "trap"
+trait_01: [[mechanical]]
+trait_02: [[trap]]
 modifier: 7
 sourcebook: "_Pathfinder Society Special #3-99: Fate in the Future_"
 ac: 18
 armorclass:
   - name: AC
-    desc: "18; __Fort__ +10, __Ref__ +4, __Will__ +0"
+    desc: "18; __Fort__ +10, __Ref__ +4, "
 hp: 24
 health:
   - name: ""
@@ -51,15 +52,21 @@ attacks:
   - name: ""
 
   - name: "Dart Volley"
-    desc: "`pf2:r` (attack) **Trigger** A creature steps on the pressure plate\n**Effect** A poisoned dart shoots at the triggering creature."
+    desc: "`pf2:r` (attack) **Trigger** A creature steps on the pressure plate\n* * *\n\n**Effect** A poisoned dart shoots at the triggering creature."
   - name: "Melee"
     desc: "Dart +11 () "
 
   - name: "Giant Centipede Venom"
-    desc: "passive (poison) **Saving Throw** DC 17 Fortitude check\n**Maximum Duration** 6 rounds\n**Stage 1** 1d6 poison damage (1 round)\n**Stage 2** 1d8 poison damage and [[Conditions/Off-Guard|Off-Guard]] (1 round)\n**Stage 3** 1d12 poison damage, [[Conditions/Clumsy 1|Clumsy 1]], and off-guard (1 round)"
+    desc: "passive (poison) **Saving Throw** DC 17 Fortitude check\n\n**Maximum Duration** 6 rounds\n\n**Stage 1** 1d6 poison damage (1 round)\n\n**Stage 2** 1d8 poison damage and [[Conditions/Off-Guard|Off-Guard]] (1 round)\n\n**Stage 3** 1d12 poison damage, [[Conditions/Clumsy|Clumsy 1]], and off-guard (1 round)"
 
 
   - name: "Reset"
     desc: "The trap resets after 2 rounds. After 5 total attacks, it runs out of poisoned darts."
+```
+
+```encounter-table
+name: Poisoned Dart Trap (1-2)
+creatures:
+  - 1: Poisoned Dart Trap (1-2)
 ```
 

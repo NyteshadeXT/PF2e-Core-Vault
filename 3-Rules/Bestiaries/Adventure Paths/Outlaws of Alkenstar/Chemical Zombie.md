@@ -11,6 +11,7 @@ tags:
   - pf2e/creature/type/undead
   - pf2e/creature/type/unholy
   - pf2e/creature/type/zombie
+  - pf2eMonster
   - pf2e/creature/level/6
 statblock: inline
 name: "Chemical Zombie"
@@ -28,16 +29,17 @@ level: "Creature 6"
 
 alignment: ""
 size: "Medium"
-trait_01: "evil"
-trait_02: "fire"
-trait_03: "mindless"
-trait_04: "undead"
-trait_05: "unholy"
-trait_06: "zombie"
+trait_01: [[evil]]
+trait_02: [[fire]]
+trait_03: [[mindless]]
+trait_04: [[undead]]
+trait_05: [[unholy]]
+trait_06: [[zombie]]
 modifier: 12
 perception:
   - name: "Perception"
     desc: "+12; Darkvision"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Athletics: +15, Stealth: +12"
@@ -57,12 +59,12 @@ abilities_top:
   - name: ""
 
   - name: "Quenchable Death Throes"
-    desc: "  When a chemical zombie dies, its body explodes in a 30-foot burst of fire and debris that deals 2d10 bludgeoning and 2d10 fire damage to each creature in the area (DC 21 Reflex check). If the chemical zombie is soaked with water before it dies (such as by dousing it with a bucket of water or hitting it with a water spell like [[Spells/Hydraulic Push|Hydraulic Push]]), the chemicals are neutralized and this ability doesn't trigger."
+    desc: "  When a chemical zombie dies, its body explodes in a @Template[burst|distance:30] of fire and debris that deals 2d10 bludgeoning and 2d10 fire damage to each creature in the area (DC 21 Reflex check). If the chemical zombie is soaked with water before it dies (such as by dousing it with a bucket of water or hitting it with a water spell like [[Spells/Hydraulic Push|Hydraulic Push]]), the chemicals are neutralized and this ability doesn't trigger."
 
 abilities_mid:
   - name: ""
   - name: "Slow"
-    desc: "  A sulfur zombie is permanently [[Conditions/Slowed 1|Slowed 1]] and can't use reactions."
+    desc: "  A sulfur zombie is permanently [[Conditions/Slowed|Slowed 1]] and can't use reactions."
 
 attacks:
   - name: ""
@@ -73,6 +75,12 @@ attacks:
   - name: "Blinding Sulfur"
     desc: " (incapacitation) A sulfur zombie burns with putrid inner fire. A creature hit by a sulfur zombie's fist Strike must attempt a DC 22 Fortitude check save. On a failure, the creature is [[Conditions/Blinded|Blinded]] for 1 round, or for 1 minute on a critical failure."
  
+```
+
+```encounter-table
+name: Chemical Zombie
+creatures:
+  - 1: Chemical Zombie
 ```
 
 

@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/human
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/2
 statblock: inline
 name: "Bandit Lieutenant"
@@ -25,13 +26,14 @@ level: "Creature 2"
 
 alignment: ""
 size: "Medium"
-trait_01: "evil"
-trait_02: "human"
-trait_03: "humanoid"
+trait_01: [[evil]]
+trait_02: [[human]]
+trait_03: [[humanoid]]
 modifier: 8
 perception:
   - name: "Perception"
     desc: "+8; "
+languages: ""
 skills:
   - name: "Skills"
     desc: "Acrobatics: +6, Athletics: +5, Intimidation: +6, Stealth: +8"
@@ -68,6 +70,12 @@ attacks:
   - name: "Single Out"
     desc: "`pf2:1`  The bandit designates one target it can see at a time. Against that target its multiple attack penalty becomes -3 (-2 with an agile weapon) and -6 (-4 with an agile weapon) for 1 minute"
  
+```
+
+```encounter-table
+name: Bandit Lieutenant
+creatures:
+  - 1: Bandit Lieutenant
 ```
 
 

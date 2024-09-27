@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/human
   - pf2e/creature/type/humanoid
   - pf2e/creature/type/lawful
+  - pf2eMonster
   - pf2e/creature/level/9
 statblock: inline
 name: "Shrine Maiden"
@@ -22,12 +23,12 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #198: No Breath to Cry"
 name: "Shrine Maiden"
 level: "Creature 9"
-rare_03: "Rare"
+rare_03: [[Rare]]
 alignment: ""
 size: "Medium"
-trait_01: "human"
-trait_02: "humanoid"
-trait_03: "lawful"
+trait_01: [[human]]
+trait_02: [[humanoid]]
+trait_03: [[lawful]]
 modifier: 20
 perception:
   - name: "Perception"
@@ -70,11 +71,17 @@ attacks:
     desc: "_[[Spells/Consecrate|Consecrate]]_"
 
   - name: "Spiritual Arrows"
-    desc: "`pf2:2` (divine) **Frequency** once per day\n**Effect** The shrine maiden nocks an arrow and whispers a chant before unleashing a torrent of holy power in the form of dozens of ghostly glowing arrows. Creatures in a 60-foot line take 10d6 force damage (DC 28 Reflex check save). On a critical failure, the creature is also [[Conditions/Immobilized|Immobilized]] ([[Actions/Escape|Escape]] DC 28) for 1 minute."
+    desc: "`pf2:2` (divine) **Frequency** once per day\n* * *\n\n**Effect** The shrine maiden nocks an arrow and whispers a chant before unleashing a torrent of holy power in the form of dozens of ghostly glowing arrows. Creatures in a @Template[line|distance:60] take 10d6 force damage (DC 28 Reflex check save). On a critical failure, the creature is also [[Conditions/Immobilized|Immobilized]] ([[Actions/Escape|Escape]] DC 28) for 1 minute."
 
   - name: "Twang"
-    desc: "`pf2:2` (divine,manipulate,sonic) The shrine maiden strums her bowstring, creating a pulse of energy that lashes out at a target within 20 feet. That creature must attempt a DC 28 Fortitude check save.\n**Critical Success** No effect.\n**Success** The target is pushed 5 feet back from the shrine maiden.\n**Failure** The target is pushed 10 feet back from the shrine maiden and falls [[Conditions/Prone|Prone]].\n**Critical Failure** The target is flung 15 feet away from the shrine maiden, falls prone, and is [[Conditions/Slowed 1|Slowed 1]] for 1 round."
+    desc: "`pf2:2` (divine,manipulate,sonic) The shrine maiden strums her bowstring, creating a pulse of energy that lashes out at a target within 20 feet. That creature must attempt a DC 28 Fortitude check save.\n* * *\n\n**Critical Success** No effect.\n\n**Success** The target is pushed 5 feet back from the shrine maiden.\n\n**Failure** The target is pushed 10 feet back from the shrine maiden and falls [[Conditions/Prone|Prone]].\n\n**Critical Failure** The target is flung 15 feet away from the shrine maiden, falls prone, and is [[Conditions/Slowed|Slowed 1]] for 1 round."
  
+```
+
+```encounter-table
+name: Shrine Maiden
+creatures:
+  - 1: Shrine Maiden
 ```
 
 

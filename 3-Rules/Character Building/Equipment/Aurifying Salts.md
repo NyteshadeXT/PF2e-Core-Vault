@@ -12,7 +12,7 @@ license: OGL
 ---
 # Aurifying Salts
 ## Item 3
-### [uncommon](uncommon "Uncommon Rarity Trait")[[alchemical]][[consumable]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[alchemical]][[consumable]]
 
 **Category** other; 
 **Price** 12 gp; 

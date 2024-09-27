@@ -6,6 +6,7 @@ cssClasses: pf2e
 aliases: "Compendium.pf2e.quest-for-the-frozen-flame-bestiary.Actor.XxKWVyq21NGiDCaR" 
 tags:
   - pf2e/creature/type/animal
+  - pf2eMonster
   - pf2e/creature/level/6
 statblock: inline
 name: "Long-horned Bison"
@@ -23,11 +24,12 @@ level: "Creature 6"
 
 alignment: ""
 size: "huge"
-trait_01: "animal"
+trait_01: [[animal]]
 modifier: 13
 perception:
   - name: "Perception"
     desc: "+13; Scent (Imprecise) 60 Feet"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Athletics: +16, Survival: +13"
@@ -52,7 +54,7 @@ abilities_mid:
     desc: "  The bison reduces the effects it suffers from cold environments by one step."
 
   - name: "Toss"
-    desc: "`pf2:r`  **Trigger** A creature ends its movement within reach of the bison's horn Strike\n**Effect** The bison attempts to Shove the triggering creature with its horns. The bison can't Stride after the triggering creature on a success or critical success."
+    desc: "`pf2:r`  **Trigger** A creature ends its movement within reach of the bison's horn Strike\n* * *\n\n**Effect** The bison attempts to Shove the triggering creature with its horns. The bison can't Stride after the triggering creature on a success or critical success."
 
 attacks:
   - name: ""
@@ -67,11 +69,17 @@ attacks:
     desc: "`pf2:2`  The bison surges toward its foe, horns lowered. It Strides twice. If the bison ends its movement with an enemy within its reach, it makes a horn Strike against that enemy. The strike gains the fatal d12 trait."
 
   - name: "Rolling Thunder"
-    desc: "`pf2:3`  The bison kicks up dust and shakes the ground as it charges. The stampeding bison Strides up to twice its Speed in a straight line, dealing 4d8 + 8 bludgeoning damage (DC 24 Reflex check) to any Large or smaller creature in its path.Multiple bison can participate in Rolling Thunder by spending this ability's actions and waiting to charge until the herd is ready. Before the beginning of its next turn, a bison can then charge as a reaction triggered by an adjacent bison beginning its Rolling Thunder charge. All bison in the combined charge must charge in parallel lines, so the areas can't overlap. The combined charge deals an additional 3d8 bludgeoning damage to creatures in the area, and a creature that fails the Reflex saving throw is also knocked [[Conditions/Prone|Prone]]."
+    desc: "`pf2:3`  The bison kicks up dust and shakes the ground as it charges. The stampeding bison Strides up to twice its Speed in a straight line, dealing 4d8+8 bludgeoning damage (DC 24 Reflex check) to any Large or smaller creature in its path.Multiple bison can participate in Rolling Thunder by spending this ability's actions and waiting to charge until the herd is ready. Before the beginning of its next turn, a bison can then charge as a reaction triggered by an adjacent bison beginning its Rolling Thunder charge. All bison in the combined charge must charge in parallel lines, so the areas can't overlap. The combined charge deals an additional 3d8 bludgeoning damage to creatures in the area, and a creature that fails the Reflex saving throw is also knocked [[Conditions/Prone|Prone]]."
 
   - name: "[[Bestiary Ability Glossary/Knockdown|Knockdown]]"
     desc: "`pf2:1`  "
  
+```
+
+```encounter-table
+name: Long-horned Bison
+creatures:
+  - 1: Long-horned Bison
 ```
 
 

@@ -6,6 +6,7 @@ cssClasses: pf2e
 aliases: "Compendium.pf2e.pathfinder-monster-core.Actor.F3ungAqpGjFotwUK" 
 tags:
   - pf2e/creature/type/animal
+  - pf2eMonster
   - pf2e/creature/level/0
   - remaster
 statblock: inline
@@ -25,7 +26,7 @@ level: "Creature 0"
 
 alignment: ""
 size: "Medium"
-trait_01: "animal"
+trait_01: [[animal]]
 modifier: 4
 perception:
   - name: "Perception"
@@ -63,6 +64,12 @@ attacks:
   - name: "Gallop"
     desc: "`pf2:2`  The riding pony Strides twice. It has a +10-foot circumstance bonus to its Speed during these Strides."
  
+```
+
+```encounter-table
+name: Riding Pony
+creatures:
+  - 1: Riding Pony
 ```
 
 

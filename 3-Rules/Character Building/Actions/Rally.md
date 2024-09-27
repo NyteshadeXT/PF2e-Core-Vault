@@ -15,7 +15,7 @@ license: OGL
 ---
 # Rally
 
-### [[auditory]][[emotion]][[exploration]][[linguistic]][[mental]]
+### [[3-Rules/Rule References/auditory]][[3-Rules/Rule References/Emotion]][[exploration]][[linguistic]][[3-Rules/Rule References/Mental]]
 
 **Category** interaction; 
 

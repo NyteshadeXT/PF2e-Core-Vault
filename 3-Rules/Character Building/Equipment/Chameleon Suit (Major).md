@@ -13,7 +13,7 @@ license: OGL
 ---
 # Chameleon Suit (Major)
 ## Item 12
-### [uncommon](uncommon "Uncommon Rarity Trait")[[clockwork]][[consumable]][[gadget]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[clockwork]][[consumable]][[gadget]]
 
 **Category** gadget; 
 **Price** 320 gp; 

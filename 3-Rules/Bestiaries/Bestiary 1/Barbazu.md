@@ -10,6 +10,7 @@ tags:
   - pf2e/creature/type/fiend
   - pf2e/creature/type/lawful
   - pf2e/creature/type/unholy
+  - pf2eMonster
   - pf2e/creature/level/5
 statblock: inline
 name: "Barbazu"
@@ -28,16 +29,16 @@ level: "Creature 5"
 
 alignment: ""
 size: "Medium"
-trait_01: "devil"
-trait_02: "evil"
-trait_03: "fiend"
-trait_04: "lawful"
-trait_05: "unholy"
+trait_01: [[devil]]
+trait_02: [[evil]]
+trait_03: [[fiend]]
+trait_04: [[lawful]]
+trait_05: [[unholy]]
 modifier: 13
 perception:
   - name: "Perception"
     desc: "+13; Greater Darkvision"
-languages: "Common, Diabolic, Draconic, Empyrean"
+languages: "Common, Diabolic, Draconic, Empyrean; telepathy 100 feet"
 skills:
   - name: "Skills"
     desc: "Acrobatics: +11, Athletics: +13, Intimidation: +10, Religion: +11, Stealth: +11"
@@ -81,17 +82,23 @@ attacks:
     desc: "_[[Spells/Diabolic Pact|Infernal Pact]]_"
 
   - name: "Avernal Fever"
-    desc: " (disease) **Saving Throw** DC 23 Fortitude check\n**Stage 1** carrier with no ill effect (1 day)\n**Stage 2** [[Conditions/Enfeebled 1|Enfeebled 1]] (1 day)\n**Stage 3** [[Conditions/Enfeebled 1|Enfeebled 2]] (1 day)"
+    desc: " (disease) **Saving Throw** DC 23 Fortitude check\n* * *\n\n**Stage 1** carrier with no ill effect (1 day)\n\n**Stage 2** [[Conditions/Enfeebled|Enfeebled 1]] (1 day)\n\n**Stage 3** [[Conditions/Enfeebled|Enfeebled 2]] (1 day)"
 
   - name: "Infernal Wound"
-    desc: " (divine) A bearded devil's glaive Strike also deals 1d6 bleed that resists attempts to heal it.\nThe flat check to stop the bleeding starts at DC 20 Flat check. The DC is reduced to DC 15 Flat check only if the bleeding creature or an ally successfully assists with the recovery. The DC to [[Actions/Administer First Aid|Administer First Aid]] to a creature with an infernal wound is increased by 5.\nA spellcaster or item attempting to use healing magic on a creature suffering from an infernal wound must succeed at a DC 21 counteract check or the magic fails to heal the creature.\n[[Bestiary Effects/Effect_ Infernal Wound|Effect: Infernal Wound]]"
+    desc: " (divine) A bearded devil's glaive Strike also deals 1d6 bleed that resists attempts to heal it.\n\nThe flat check to stop the bleeding starts at DC 20 Flat check. The DC is reduced to DC 15 Flat check only if the bleeding creature or an ally successfully assists with the recovery. The DC to [[Actions/Administer First Aid|Administer First Aid]] to a creature with an infernal wound is increased by 5.\n\nA spellcaster or item attempting to use healing magic on a creature suffering from an infernal wound must succeed at a DC 21 counteract check or the magic fails to heal the creature.\n\n[[Bestiary Effects/Effect_ Infernal Wound|Effect: Infernal Wound]]"
 
   - name: "Reposition"
-    desc: "  **Trigger** The devil hits a creature with a glaive Strike.\n**Effect** The devil moves the creature 5 feet in any direction. The destination square must be within reach of the devil's glaive.\nThis movement doesn't trigger reactions."
+    desc: "  **Trigger** The devil hits a creature with a glaive Strike.\n* * *\n\n**Effect** The devil moves the creature 5 feet in any direction. The destination square must be within reach of the devil's glaive.\n\nThis movement doesn't trigger reactions."
 
   - name: "Wriggling Beard"
-    desc: "`pf2:1`  **Frequency** once per round.\n**Effect** The barbazu makes a beard Strike. This Strike ignores their multiple attack penalty and doesn't count toward that penalty."
+    desc: "`pf2:1`  **Frequency** once per round.\n* * *\n\n**Effect** The barbazu makes a beard Strike. This Strike ignores their multiple attack penalty and doesn't count toward that penalty."
  
+```
+
+```encounter-table
+name: Barbazu
+creatures:
+  - 1: Barbazu
 ```
 
 

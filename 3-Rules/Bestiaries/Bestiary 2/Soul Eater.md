@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/fiend
   - pf2e/creature/type/unholy
+  - pf2eMonster
   - pf2e/creature/level/7
 statblock: inline
 name: "Soul Eater"
@@ -23,12 +24,12 @@ token: [[modules/pf2e-tokens-bestiaries/portraits/fiendish/daemon/soul-eater.web
 source: "Pathfinder Bestiary 2"
 name: "Soul Eater"
 level: "Creature 7"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Medium"
-trait_01: "evil"
-trait_02: "fiend"
-trait_03: "unholy"
+trait_01: [[evil]]
+trait_02: [[fiend]]
+trait_03: [[unholy]]
 modifier: 15
 perception:
   - name: "Perception"
@@ -36,7 +37,7 @@ perception:
 languages: "Daemonic"
 skills:
   - name: "Skills"
-    desc: "Abaddon Lore: +12, Acrobatics: +17, Intimidation: +15, Stealth: +17 (+19 in darkness or smoke)"
+    desc: "Acrobatics: +17, Intimidation: +15, Stealth: +17, Abaddon Lore: +12"
 abilityMods: [0, 6, 4, -1, 4, 4]
 speed: 25 feet,  fly 60 feet
 sourcebook: "_Pathfinder Bestiary 2_"
@@ -67,11 +68,17 @@ attacks:
     desc: "`pf2:1` Claw +19 (agile, finesse, unholy)\n__Damage__  2d6 + 3 slashing plus mind-numbing-touch 2d6 void plus mind-numbing-touch"
 
   - name: "Drain Soul"
-    desc: "`pf2:3` (death,divine,manipulate) **Requirements** The soul eater is adjacent to a [[Conditions/Dying 1|Dying]] creature\n**Effect** The soul eater attempts to devour the dying creature's soul. The creature must attempt a DC 25 Will check save. A creature that dies as a result of Drain Soul can't be restored to life except by a spell or ritual of 8th rank or higher. If the soul eater that used Drain Soul on a creature is slain within 100 feet of that creature's corpse and the creature has been dead no longer than 1 minute, the creature's soul returns to its body and is restored to life, leaving the creature [[Conditions/Unconscious|Unconscious]] and dying 1 but no longer [[Conditions/Doomed 1|Doomed]].\n**Critical Success** The creature is unaffected.\n**Success** The creature becomes [[Conditions/Doomed 1|Doomed 1]], or increases its doomed value by 1 if it was already doomed.\n**Failure** As success, but [[Conditions/Doomed 1|Doomed 2]].\n**Critical Failure** As success, but [[Conditions/Doomed 1|Doomed 3]]."
+    desc: "`pf2:3` (death,divine,manipulate) **Requirements** The soul eater is adjacent to a [[Conditions/Dying|Dying]] creature\n* * *\n\n**Effect** The soul eater attempts to devour the dying creature's soul. The creature must attempt a DC 25 Will check save. A creature that dies as a result of Drain Soul can't be restored to life except by a spell or ritual of 8th rank or higher. If the soul eater that used Drain Soul on a creature is slain within 100 feet of that creature's corpse and the creature has been dead no longer than 1 minute, the creature's soul returns to its body and is restored to life, leaving the creature [[Conditions/Unconscious|Unconscious]] and dying 1 but no longer [[Conditions/Doomed|Doomed]].\n* * *\n\n**Critical Success** The creature is unaffected.\n\n**Success** The creature becomes [[Conditions/Doomed|Doomed 1]], or increases its doomed value by 1 if it was already doomed.\n\n**Failure** As success, but [[Conditions/Doomed|Doomed 2]].\n\n**Critical Failure** As success, but [[Conditions/Doomed|Doomed 3]]."
 
   - name: "Mind-Numbing Touch"
-    desc: " (curse,divine) When a soul eater hits a creature with its claw Strike, the creature must succeed at a DC 23 Fortitude check save or become [[Conditions/Stupefied 1|Stupefied 1]] ([[Conditions/Stupefied 1|Stupefied 2]] on a critical failure).\nFurther damage dealt by the soul eater increases the stupefied value by 1 on a failed save, to a maximum of stupefied 4. This condition value decreases by 1 each time the creature gets a full night's rest. As long as the creature is stupefied by a soul eater, rest does not decrease any [[Conditions/Doomed 1|Doomed]] value that creature might have."
+    desc: " (curse,divine) When a soul eater hits a creature with its claw Strike, the creature must succeed at a DC 23 Fortitude check save or become [[Conditions/Stupefied|Stupefied 1]] ([[Conditions/Stupefied|Stupefied 2]] on a critical failure).\n\nFurther damage dealt by the soul eater increases the stupefied value by 1 on a failed save, to a maximum of stupefied 4. This condition value decreases by 1 each time the creature gets a full night's rest. As long as the creature is stupefied by a soul eater, rest does not decrease any [[Conditions/Doomed|Doomed]] value that creature might have."
  
+```
+
+```encounter-table
+name: Soul Eater
+creatures:
+  - 1: Soul Eater
 ```
 
 

@@ -127,23 +127,23 @@ In addition to the abilities provided by your class at 1st level, you have the b
 
 ## Deity
 
-As a cleric, you are a mortal servitor of a deity you revere above all others. The most common deities in Pathfinder appear in the Deities compendium, along with their edicts, areas of concern, and the benefits you get for being a cleric of that deity. Your deity grants you the trained proficiency rank in one skill and with the deity’s favored weapon. If the favored weapon is uncommon, you also get access to that weapon.
+As a cleric, you are a mortal servitor of a deity you revere above all others. The most common deities in Pathfinder appear in the Deities compendium, along with their edicts, areas of concern, and the benefits you get for being a cleric of that deity. Your deity grants you the trained proficiency rank in one skill and with the deity's favored weapon. If the favored weapon is uncommon, you also get access to that weapon.
 
-Your deity also adds spells to your spell list. You can prepare these just like you can any spell on the divine spell list once you can prepare spells of their rank as a cleric. Any of these spells that aren’t normally on the divine list are still divine spells if you prepare them this way.
+Your deity also adds spells to your spell list. You can prepare these just like you can any spell on the divine spell list once you can prepare spells of their rank as a cleric. Any of these spells that aren't normally on the divine list are still divine spells if you prepare them this way.
 
 A list of all deities can be found in the Deities compendium.
 
 ### **Anathema**
 
-Acts fundamentally opposed to your deity’s ideals are anathema to your faith. Learning or casting spells, committing acts, and using items that are anathema to your deity remove you from your deity’s good graces.
+Acts fundamentally opposed to your deity's ideals are anathema to your faith. Learning or casting spells, committing acts, and using items that are anathema to your deity remove you from your deity's good graces.
 
-Casting spells with the unholy trait is almost always anathema to deities who don’t allow unholy sanctification, and casting holy spells is likewise anathema to those who don’t allow holy sanctification. Similarly, casting spells that are anathema to the tenets or goals of your faith could interfere with your connection to your deity. For example, casting a spell to create undead would be anathema to Pharasma, the goddess of death. Many actions that are anathema don’t appear in any deity’s formal list. For borderline cases, you and your GM determine which acts are anathema.
+Casting spells with the unholy trait is almost always anathema to deities who don't allow unholy sanctification, and casting holy spells is likewise anathema to those who don't allow holy sanctification. Similarly, casting spells that are anathema to the tenets or goals of your faith could interfere with your connection to your deity. For example, casting a spell to create undead would be anathema to Pharasma, the goddess of death. Many actions that are anathema don't appear in any deity's formal list. For borderline cases, you and your GM determine which acts are anathema.
 
 If you perform enough acts that are anathema to your deity, you lose the magical abilities that come from your connection to your deity. The class features that you lose are determined by the GM, but they likely include your divine font and all cleric spellcasting. These abilities can be regained only if you repent by conducting an [[Spells/Atone|Atone]] ritual.
 
 ## Divine Font
 
-Through your deity’s blessing, you gain additional spells that channel either the life force called vitality or its counterforce, the void. When you prepare your spells each day, you can prepare additional [[Spells/Heal|Heal]] or [[Spells/Harm|Harm]] spells, depending on your deity. The divine font spell your deity provides is listed in the Divine Font entry for your deity; if both are listed, you can choose between heal or harm. Once you choose, you can’t change your choice short of divine intervention
+Through your deity's blessing, you gain additional spells that channel either the life force called vitality or its counterforce, the void. When you prepare your spells each day, you can prepare additional [[Spells/Heal|Heal]] or [[Spells/Harm|Harm]] spells, depending on your deity. The divine font spell your deity provides is listed in the Divine Font entry for your deity; if both are listed, you can choose between heal or harm. Once you choose, you can't change your choice short of divine intervention
 
 **Healing Font** You gain 4 additional spell slots each day at your highest rank of cleric spell slots. You can prepare only heal spells in these slots. At 5th level, the number of additional slots increases to 5, and at 15th level, the total number of additional slots increases to 6.
 
@@ -161,11 +161,11 @@ Some of your spells require you to attempt a spell attack to see how effective t
 
 ### **Heightening Spells**
 
-When you get spell slots of 2nd rank and higher, you can fill those slots with stronger versions of lower-rank spells. This increases the spell’s rank, heightening it to match the spell slot. Many spells have specific improvements when they are heightened to certain ranks.
+When you get spell slots of 2nd rank and higher, you can fill those slots with stronger versions of lower-rank spells. This increases the spell's rank, heightening it to match the spell slot. Many spells have specific improvements when they are heightened to certain ranks.
 
 ### **Cantrips**
 
-Some of your spells are cantrips. A cantrip is a special type of spell that doesn’t use spell slots. You can cast a cantrip at will, any number of times per day. A cantrip is always automatically heightened to half your level rounded up—this is usually equal to the highest rank of cleric spell slot you have. For example, as a 1st-level cleric, your cantrips are 1st-rank spells, and as a 5th-level cleric, your cantrips are 3rd-rank spells.
+Some of your spells are cantrips. A cantrip is a special type of spell that doesn't use spell slots. You can cast a cantrip at will, any number of times per day. A cantrip is always automatically heightened to half your level rounded up—this is usually equal to the highest rank of cleric spell slot you have. For example, as a 1st-level cleric, your cantrips are 1st-rank spells, and as a 5th-level cleric, your cantrips are 3rd-rank spells.
 
   
 
@@ -241,7 +241,7 @@ Belief provides a bulwark against insidious thoughts. Your proficiency rank for 
 
 ## Reflex ExpertiseLevel 11
 
-You’ve developed a knack for dodging danger. Your proficiency rank for Reflex saves increases to expert.
+You've developed a knack for dodging danger. Your proficiency rank for Reflex saves increases to expert.
 
 ## Divine DefenseLevel 13
 
@@ -253,4 +253,4 @@ You've learned how to inflict greater injuries with the weapons you know best. Y
 
 ## Miraculous SpellLevel 19
 
-You’re exalted by your deity and gain truly incredible spells. You gain a single 10th-rank spell slot and can prepare a spell in that slot using cleric spellcasting. Unlike with other spell slots, you can’t use 10-rank slots with abilities that give you more spell slots or that let you cast spells without expending spell slots. You don’t gain more 10th-rank spells as you level up, but you can take the [[Feats/Maker of Miracles|Maker of Miracles]] feat to gain a second slot.
+You're exalted by your deity and gain truly incredible spells. You gain a single 10th-rank spell slot and can prepare a spell in that slot using cleric spellcasting. Unlike with other spell slots, you can't use 10-rank slots with abilities that give you more spell slots or that let you cast spells without expending spell slots. You don't gain more 10th-rank spells as you level up, but you can take the [[Feats/Maker of Miracles|Maker of Miracles]] feat to gain a second slot.

@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/undead
   - pf2e/creature/type/unholy
+  - pf2eMonster
   - pf2e/creature/level/16
 statblock: inline
 name: "Facetbound Cascader"
@@ -22,12 +23,12 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #185: A Taste of Ashes"
 name: "Facetbound Cascader"
 level: "Creature 16"
-rare_03: "Rare"
+rare_03: [[Rare]]
 alignment: ""
 size: "Medium"
-trait_01: "evil"
-trait_02: "undead"
-trait_03: "unholy"
+trait_01: [[evil]]
+trait_02: [[undead]]
+trait_03: [[unholy]]
 modifier: 28
 perception:
   - name: "Perception"
@@ -58,7 +59,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Energy Ward"
-    desc: "`pf2:r`  **Trigger** The facetbound cascader would take acid, cold, electricity, fire, or poison damage\n**Effect** The cascader gains resistance 15 to the triggering damage, replacing any other resistance gained from this ability. Most facetbound cascaders begin combat with resistance 15 to cold."
+    desc: "`pf2:r`  **Trigger** The facetbound cascader would take acid, cold, electricity, fire, or poison damage\n* * *\n\n**Effect** The cascader gains resistance 15 to the triggering damage, replacing any other resistance gained from this ability. Most facetbound cascaders begin combat with resistance 15 to cold."
 
 attacks:
   - name: ""
@@ -67,7 +68,7 @@ attacks:
     desc: "`pf2:1` Staff +30 (two-hand d8)\n__Damage__  1d4 + 9 bludgeoning plus energy-charge"
 
   - name: "Arcane Spontaneous Spells"
-    desc: "DC 38, attack +30; __8th __ (3 slots) _[[Spells/Desiccate|Horrid Wilting]]_, _[[Spells/Polar Ray|Polar Ray]]_, _[[Spells/Power Word Stun|Power Word Stun]]_; __7th __ (3 slots) _[[Spells/Disintegrate|Disintegrate]]_, _[[Spells/Power Word Blind|Power Word Blind]]_, _[[Spells/Prismatic Spray|Prismatic Spray]]_; __6th __ (3 slots) _[[Spells/Acid Arrow|Acid Arrow]]_, _[[Spells/Chain Lightning|Chain Lightning]]_, _[[Spells/Spellwrack|Spellwrack]]_; __5th __ (3 slots) _[[Spells/Toxic Cloud|Cloudkill]]_, _[[Spells/Cone of Cold|Cone of Cold]]_, _[[Spells/Force Barrage|Magic Missile]]_; __4th __ (3 slots) _[[Spells/Fireball|Fireball]]_, _[[Spells/Fly|Fly]]_, _[[Spells/Resilient Sphere|Resilient Sphere]]_; __3rd __ (3 slots) _[[Spells/Earthbind|Earthbind]]_, _[[Spells/Stinking Cloud|Stinking Cloud]]_, _[[Spells/Wall of Wind|Wall of Wind]]_; __2nd __ (3 slots) _[[Spells/Blur|Blur]]_, _[[Spells/Everlight|Continual Flame]]_, _[[Spells/See the Unseen|See Invisibility]]_; __1st __ (3 slots) _[[Spells/Dizzying Colors|Color Spray]]_, _[[Spells/Gust of Wind|Gust of Wind]]_, _[[Spells/Sure Strike|True Strike]]_\n__Cantrips__  __(8th)__ _[[Spells/Detect Magic|Detect Magic]]_, _[[Spells/Electric Arc|Electric Arc]]_, _[[Spells/Produce Flame|Produce Flame]]_, _[[Spells/Ray of Frost|Ray of Frost]]_, _[[Spells/Shield|Shield]]_"
+    desc: "DC 38, attack +30; __8th __ (3 slots) _[[Spells/Desiccate|Horrid Wilting]]_, _[[Spells/Polar Ray|Polar Ray]]_, _[[Spells/Power Word Stun|Power Word Stun]]_; __7th __ (3 slots) _[[Spells/Disintegrate|Disintegrate]]_, _[[Spells/Power Word Blind|Power Word Blind]]_, _[[Spells/Prismatic Spray|Prismatic Spray]]_; __6th __ (3 slots) _[[Spells/Acid Arrow|Acid Arrow]]_, _[[Spells/Chain Lightning|Chain Lightning]]_, _[[Spells/Spellwrack|Spellwrack]]_; __5th __ (3 slots) _[[Spells/Toxic Cloud|Cloudkill]]_, _[[Spells/Cone of Cold|Cone of Cold]]_, _[[Spells/Force Barrage|Magic Missile]]_; __4th __ (3 slots) _[[Spells/Fireball|Fireball]]_, _[[Spells/Fly|Fly]]_, _[[Spells/Containment|Resilient Sphere]]_; __3rd __ (3 slots) _[[Spells/Earthbind|Earthbind]]_, _[[Spells/Stinking Cloud|Stinking Cloud]]_, _[[Spells/Wall of Wind|Wall of Wind]]_; __2nd __ (3 slots) _[[Spells/Blur|Blur]]_, _[[Spells/Everlight|Continual Flame]]_, _[[Spells/See the Unseen|See Invisibility]]_; __1st __ (3 slots) _[[Spells/Dizzying Colors|Color Spray]]_, _[[Spells/Gust of Wind|Gust of Wind]]_, _[[Spells/Sure Strike|True Strike]]_\n__Cantrips__  __(8th)__ _[[Spells/Detect Magic|Detect Magic]]_, _[[Spells/Electric Arc|Electric Arc]]_, _[[Spells/Produce Flame|Produce Flame]]_, _[[Spells/Ray of Frost|Ray of Frost]]_, _[[Spells/Shield|Shield]]_"
 
   - name: "Energy Charge"
     desc: " (arcane) The cascader's melee Strikes deal an additional 4d10 damage of the type resisted by its Energy Ward."
@@ -75,6 +76,12 @@ attacks:
   - name: "Energy Shift"
     desc: " (arcane,spellshape) The cascader can alter its spell damage. If the next action it uses is to Cast a Spell that deals acid, cold, electricity, fire, or poison damage, the cascader can change the damage type to match its Energy Ward instead of the spell's normal damage type (replacing the spell's corresponding trait)."
  
+```
+
+```encounter-table
+name: Facetbound Cascader
+creatures:
+  - 1: Facetbound Cascader
 ```
 
 

@@ -14,7 +14,7 @@ license: OGL
 ---
 # Faerie Queen's Bower
 ## Item 13
-### [rare](rare "Rare Rarity Trait")[[divine]][[intelligent]][[invested]][[laminar]]
+### [rare](rare.md "Rare Rarity Trait")[[3-Rules/Rule References/Divine]][[intelligent]][[invested]][[laminar]]
 
 **Category** light; **Group** wood
 **Price** 0 gp; 
@@ -49,7 +49,7 @@ A suit of autumn's embrace armor can gain sapience when lovingly crafted by a fa
 
 * * *
 
-**Effect** You call forth a storm of leaves from _autumn's embrace_. These leaves swirl in a 20-foot emanation for 1 minute. Creatures within the area are [[Conditions/Concealed|Concealed]], and creatures outside the area are concealed to creatures within the leaves. However, you can see through this concealment. You can Dismiss the activation.
+**Effect** You call forth a storm of leaves from _autumn's embrace_. These leaves swirl in a @Template\[emanation|distance:20\] for 1 minute. Creatures within the area are [[Conditions/Concealed|Concealed]], and creatures outside the area are concealed to creatures within the leaves. However, you can see through this concealment. You can Dismiss the activation.
 
 *Source: Pathfinder Treasure Vault*
 *OGL*

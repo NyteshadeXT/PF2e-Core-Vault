@@ -6,6 +6,7 @@ cssClasses: pf2e
 aliases: "Compendium.pf2e.pathfinder-bestiary-2.Actor.HI7SecILsRTmOtky" 
 tags:
   - pf2e/creature/type/animal
+  - pf2eMonster
   - pf2e/creature/level/2
 statblock: inline
 name: "Shocker Lizard"
@@ -24,11 +25,12 @@ level: "Creature 2"
 
 alignment: ""
 size: "Small"
-trait_01: "animal"
+trait_01: [[animal]]
 modifier: 7
 perception:
   - name: "Perception"
     desc: "+7; Low-Light Vision"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Acrobatics: +8, Athletics: +5, Stealth: +8"
@@ -62,14 +64,20 @@ attacks:
     desc: "`pf2:1` Shock +10 (nonlethal, range increment 5 feet)\n__Damage__  2d6 electricity"
 
   - name: "Amplify Voltage"
-    desc: "`pf2:r`  **Trigger** A shocker lizard within 20 feet makes a shock Strike or uses Discharge\n**Effect** The shocker lizard lends some of its electrical power to the nearby lizard. This either causes the other lizard's shock Strike to lose the nonlethal trait or increases the DC of its Discharge to 20."
+    desc: "`pf2:r`  **Trigger** A shocker lizard within 20 feet makes a shock Strike or uses Discharge\n* * *\n\n**Effect** The shocker lizard lends some of its electrical power to the nearby lizard. This either causes the other lizard's shock Strike to lose the nonlethal trait or increases the DC of its Discharge to 20."
 
   - name: "Discharge"
-    desc: "`pf2:2` (electricity) The shocker lizard releases a blast of lightning from its body. Creatures within a 10-foot emanation take 3d6 electricity damage (DC 18 Reflex check save).\nThe shocker lizard can't use Discharge for 1d4 rounds."
+    desc: "`pf2:2` (electricity) The shocker lizard releases a blast of lightning from its body. Creatures within a @Template[emanation|distance:10] take 3d6 electricity damage (DC 18 Reflex check save).\n\nThe shocker lizard can't use Discharge for 1d4 rounds."
 
   - name: "Shocking Burst"
-    desc: "`pf2:3` (electricity,primal) The shocker lizard hunkers down and begins to spark with electricity, which it releases in a 10-foot emanation that deals 3d8 electricity damage (DC 18 Reflex check save).\nThe shocker lizard can't use Shocking Burst again for 1 minute.\nUp to four shocker lizards can combine their Shocking Bursts. In this case, the lizards can delay the release of their electricity until any other shocker lizard within 30 feet completes its Shocking Burst. The combined Shocking Bursts create an emanation with the combined area from all participating shocker lizards. For each additional shocker lizard that joins the burst, the damage increases by 3d8 and the save DC increases by 1 (to a maximum of four lizards dealing 12d8 damage with a DC 21 save)."
+    desc: "`pf2:3` (electricity,primal) The shocker lizard hunkers down and begins to spark with electricity, which it releases in a @Template[emanation|distance:10] that deals 3d8 electricity damage (DC 18 Reflex check save).\n\nThe shocker lizard can't use Shocking Burst again for 1 minute.\n\nUp to four shocker lizards can combine their Shocking Bursts. In this case, the lizards can delay the release of their electricity until any other shocker lizard within 30 feet completes its Shocking Burst. The combined Shocking Bursts create an emanation with the combined area from all participating shocker lizards. For each additional shocker lizard that joins the burst, the damage increases by 3d8 and the save DC increases by 1 (to a maximum of four lizards dealing 12d8 damage with a DC 21 save)."
  
+```
+
+```encounter-table
+name: Shocker Lizard
+creatures:
+  - 1: Shocker Lizard
 ```
 
 

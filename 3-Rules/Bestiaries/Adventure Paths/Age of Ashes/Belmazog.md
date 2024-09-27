@@ -12,6 +12,7 @@ tags:
   - pf2e/creature/type/dragon
   - pf2e/creature/type/evil
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/9
 statblock: inline
 name: "Belmazog"
@@ -26,16 +27,16 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #146: Cult of Cinders"
 name: "Belmazog"
 level: "Creature 9"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Medium"
-trait_01: "acid"
-trait_02: "amphibious"
-trait_03: "boggard"
-trait_04: "chaotic"
-trait_05: "dragon"
-trait_06: "evil"
-trait_07: "humanoid"
+trait_01: [[acid]]
+trait_02: [[amphibious]]
+trait_03: [[boggard]]
+trait_04: [[chaotic]]
+trait_05: [[dragon]]
+trait_06: [[evil]]
+trait_07: [[humanoid]]
 modifier: 18
 perception:
   - name: "Perception"
@@ -80,10 +81,10 @@ attacks:
     desc: "_[[Spells/Planar Servitor|Planar Ally]]_"
 
   - name: "Breath Weapon"
-    desc: "`pf2:2` (acid,arcane) Belmazog spews a gout of acid that deals 10d6 acid damage in a 30-foot cone (DC 28 Reflex check save).\nBelmazog can't use Breath Weapon again for 1d4 rounds."
+    desc: "`pf2:2` (acid,arcane) Belmazog spews a gout of acid that deals 10d6 acid damage in a @Template[cone|distance:30] (DC 28 Reflex check save).\n\nBelmazog can't use Breath Weapon again for 1d4 rounds."
 
   - name: "Drowning Drone"
-    desc: "`pf2:r` (auditory,mental,sonic) **Trigger** Belmazog or one of her allies within 60 feet attempts a saving throw against an auditory or sonic effect.\n**Effect** Belmazog releases a croak that drowns out other sound. She rolls a Performance check. She and boggard allies in the area can use the higher result of her Performance check or their saves to resolve the effects against the auditory or sonic effect."
+    desc: "`pf2:r` (auditory,mental,sonic) **Trigger** Belmazog or one of her allies within 60 feet attempts a saving throw against an auditory or sonic effect.\n* * *\n\n**Effect** Belmazog releases a croak that drowns out other sound. She rolls a Performance check. She and boggard allies in the area can use the higher result of her Performance check or their saves to resolve the effects against the auditory or sonic effect."
 
   - name: "Nul-Acrumi Vazghul Ritual"
     desc: "  This rare and highly specialized ritual, taught to Belmazog by the Scarlet Triad, allowed her to use the fossilized remains of Dahak to erect powerful defenses in the region in the form of dragon pillars, but the resources and time required to perform the ritual again are not available to Belmazog during the course of this adventure. As a result, and since there is no way for the PCs to learn or benefit from the ritual, further information beyond the repercussions detailed in the adventure itself are not presented here."
@@ -92,11 +93,17 @@ attacks:
     desc: "  Belmazog ignores difficult terrain caused by swamp terrain features."
 
   - name: "Terrifying Croak"
-    desc: "`pf2:1` (auditory,emotion,fear,mental) Belmazog unleashes a terrifying croak. Any non-boggard within 30 feet becomes [[Conditions/Frightened 1|Frightened 1]] unless they succeed at a DC 28 Will check save; those who critically succeed are temporarily immune for 1 minute."
+    desc: "`pf2:1` (auditory,emotion,fear,mental) Belmazog unleashes a terrifying croak. Any non-boggard within 30 feet becomes [[Conditions/Frightened|Frightened 1]] unless they succeed at a DC 28 Will check save; those who critically succeed are temporarily immune for 1 minute."
 
   - name: "Tongue Grab"
     desc: "  If Belmazog hits a creature with her tongue, that creature becomes [[Conditions/Grabbed|Grabbed]] by Belmazog. Unlike with a normal grab, the creature isn't [[Conditions/Immobilized|Immobilized]], but it can't move beyond the reach of Belmazog's tongue. A creature can sever the tongue by hitting AC 25 and dealing at least 8 slashing damage. Though this doesn't deal any damage to Belmazog, it prevents her from using her tongue Strike until she regrows her tongue, which takes a week."
  
+```
+
+```encounter-table
+name: Belmazog
+creatures:
+  - 1: Belmazog
 ```
 
 

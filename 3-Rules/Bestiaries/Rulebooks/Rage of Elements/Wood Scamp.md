@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/elemental
   - pf2e/creature/type/plant
   - pf2e/creature/type/wood
+  - pf2eMonster
   - pf2e/creature/level/1
   - remaster
 statblock: inline
@@ -26,9 +27,9 @@ level: "Creature 1"
 
 alignment: ""
 size: "Small"
-trait_01: "elemental"
-trait_02: "plant"
-trait_03: "wood"
+trait_01: [[elemental]]
+trait_02: [[plant]]
+trait_03: [[wood]]
 modifier: 3
 perception:
   - name: "Perception"
@@ -64,11 +65,17 @@ attacks:
     desc: "DC 15, attack +7; __2nd __  _[[Spells/Oaken Resilience|Oaken Resilience (Self Only)]]_; __1st __  _[[Spells/Verdant Sprout|Verdant Sprout]]_\n__Cantrips__  __(1st)__ _[[Spells/Tangle Vine|Tangle Vine]]_"
 
   - name: "Breathe Pollen"
-    desc: "`pf2:2` (arcane,plant) The wood scamp breathes choking pollen in a 15-foot cone that deals 2d6 poison damage to each creature within the area (DC 17 Reflex check save; creatures who don't need to breathe are immune). The wood scamp can't Breathe Pollen again for 1d4 rounds."
+    desc: "`pf2:2` (arcane,plant) The wood scamp breathes choking pollen in a @Template[cone|distance:15] that deals 2d6 poison damage to each creature within the area (DC 17 Reflex check save; creatures who don't need to breathe are immune). The wood scamp can't Breathe Pollen again for 1d4 rounds."
 
   - name: "Thorn Puncture"
     desc: "  The wood scamp breaks off one of its thorn-like claws in the target's skin, dealing 1 persistent bleed damage until the thorn is removed, which requires an Interact action. This damage is cumulative with each thorn caught in a creature's skin."
  
+```
+
+```encounter-table
+name: Wood Scamp
+creatures:
+  - 1: Wood Scamp
 ```
 
 

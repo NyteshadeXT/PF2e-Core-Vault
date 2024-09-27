@@ -14,7 +14,7 @@ license: OGL
 ---
 # Conflagration Club
 ## Item 6
-### [[backswing]][[magical]][[shove]]
+### [[backswing]][[3-Rules/Rule References/Magical]][[3-Rules/trait_reference/shove]]
 
 |  |  |
 | -- | -- |
@@ -47,7 +47,7 @@ A ring of magical crystals encircles the base of this _+1 striking greatclub_, a
 
 * * *
 
-**Effect** You flip the club around to blast a cone of energy from its base. Each creature in a 15-foot cone takes 1d6 damage per charge stored in the club, with a basic Reflex save against your spell DC or DC 19, whichever is greater. The damage type is the same type the charges were attuned to. The club loses all of its charges.
+**Effect** You flip the club around to blast a cone of energy from its base. Each creature in a @Template\[cone|distance:15\] takes 1d6 damage per charge stored in the club, with a basic Reflex save against your spell DC or DC 19, whichever is greater. The damage type is the same type the charges were attuned to. The club loses all of its charges.
 
 *Source: Pathfinder Secrets of Magic*
 *OGL*

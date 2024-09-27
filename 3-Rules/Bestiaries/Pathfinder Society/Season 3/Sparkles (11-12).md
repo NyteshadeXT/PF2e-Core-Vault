@@ -6,6 +6,7 @@ cssClasses: pf2e
 aliases: "Compendium.pf2e.pfs-season-3-bestiary.Actor.SkV5zYJgu7hdpZE0" 
 tags:
   - pf2e/creature/type/beast
+  - pf2eMonster
   - pf2e/creature/level/9
 statblock: inline
 name: "Sparkles (11-12)"
@@ -20,14 +21,15 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Society Scenario #3-15: Cavern of Sundered Songs"
 name: "Sparkles (11-12)"
 level: "Creature 9"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "huge"
-trait_01: "beast"
+trait_01: [[beast]]
 modifier: 18
 perception:
   - name: "Perception"
     desc: "+18; Low-Light Vision, Scent (Imprecise) 30 Feet"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Acrobatics: +23, Survival: +20"
@@ -61,11 +63,17 @@ attacks:
     desc: "  Any time the shuln scores a critical hit with a melee Strike, it also deals the same amount of damage to the target's armor, bypassing any Hardness lower than 10, like adamantine."
 
   - name: "Shuln Saliva"
-    desc: " (incapacitation,poison) **Saving Throw** DC 30 Fortitude check\n**Maximum Duration** 4 rounds\n**Stage 1** 2d6 poison damage and [[Conditions/Slowed 1|Slowed 1]] (1 round)\n**Stage 2** 3d6 poison damage, and slowed 1 (1 round)\n**Stage 3** 4d6 poison damage and [[Conditions/Paralyzed|Paralyzed]] for 2d6 hours. Shuln saliva overcomes the inexorable ability."
+    desc: " (incapacitation,poison) **Saving Throw** DC 30 Fortitude check\n* * *\n\n**Maximum Duration** 4 rounds\n\n**Stage 1** 2d6 poison damage and [[Conditions/Slowed|Slowed 1]] (1 round)\n\n**Stage 2** 3d6 poison damage, and slowed 1 (1 round)\n\n**Stage 3** 4d6 poison damage and [[Conditions/Paralyzed|Paralyzed]] for 2d6 hours. Shuln saliva overcomes the inexorable ability."
 
   - name: "Unstoppable Burrow"
     desc: "  Shulns can burrow into solid rock and any metal with a hardness less than that of adamantine like it is soil or loose rubble, leaving a tunnel 10 feet in diameter."
  
+```
+
+```encounter-table
+name: Sparkles (11-12)
+creatures:
+  - 1: Sparkles (11-12)
 ```
 
 

@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.pathfinder-monster-core.Actor.smItqlbr0iuDJ8nL"
 tags:
   - pf2e/creature/type/undead
   - pf2e/creature/type/unholy
+  - pf2eMonster
   - pf2e/creature/level/12
   - remaster
 statblock: inline
@@ -23,11 +24,11 @@ token: [[modules/pf2e-tokens-bestiaries/portraits/undead/skeletal/lich.webp| ]]
 source: "Pathfinder Monster Core"
 name: "Lich"
 level: "Creature 12"
-rare_03: "Rare"
+rare_03: [[Rare]]
 alignment: ""
 size: "Medium"
-trait_01: "undead"
-trait_02: "unholy"
+trait_01: [[undead]]
+trait_02: [[unholy]]
 modifier: 20
 perception:
   - name: "Perception"
@@ -35,7 +36,7 @@ perception:
 languages: "Aklo, Chthonian, Common, Diabolic, Draconic, Elven, Necril, Sakvroth"
 skills:
   - name: "Skills"
-    desc: "Arcana: +28, Crafting: +24 (can craft magic items), Deception: +17, Diplomacy: +19, Religion: +22, Stealth: +20"
+    desc: "Arcana: +28, Crafting: +24, Deception: +17, Diplomacy: +19, Religion: +22, Stealth: +20"
 abilityMods: [0, 4, 0, 6, 4, 3]
 speed: 25 feet
 sourcebook: "_Pathfinder Monster Core_"
@@ -76,11 +77,17 @@ attacks:
     desc: "  6th rank\n* * *\n\n**Frequency** once per day\n* * *\n\n**Effect** The lich taps into their _[[Equipment/Soul Cage|Soul Cage]]_'s power to cast any arcane spell up to the highest rank the lich can cast, even if the spell being cast is not one of the lich's prepared spells. The lich's soul cage doesn't need to be present for the lich to use this ability."
 
   - name: "[[Creature Family Ability Glossary/(Lich) Siphon Life|Siphon Life]]"
-    desc: "  A lich's form draws forth life from those who come into contact with it. When the lich damages a living creature with an unarmed attack, the lich gains 5 temporary Hit Points and the creature must succeed at a DC 34 Fortitude check save or become [[Conditions/Drained 1|Drained 1]].\n\nIf the lich is [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]] at the start of its turn, each creature grabbing or restraining it must succeed at a Fortitude save or become drained 1. If the lich siphons a creature's life again, the drained value increase by 1, to a maximum of [[Conditions/Drained 1|Drained 4]]."
+    desc: "  A lich's form draws forth life from those who come into contact with it. When the lich damages a living creature with an unarmed attack, the lich gains 5 temporary Hit Points and the creature must succeed at a DC 34 Fortitude check save or become [[Conditions/Drained|Drained 1]].\n\nIf the lich is [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]] at the start of its turn, each creature grabbing or restraining it must succeed at a Fortitude save or become drained 1. If the lich siphons a creature's life again, the drained value increase by 1, to a maximum of [[Conditions/Drained|Drained 4]]."
 
   - name: "Steady Spellcasting"
     desc: "  If a reaction would disrupt the lich's spellcasting action, the lich attempts a DC 15 Flat check check. On a success, the action isn't disrupted."
  
+```
+
+```encounter-table
+name: Lich
+creatures:
+  - 1: Lich
 ```
 
 

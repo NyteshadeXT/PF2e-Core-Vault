@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/human
   - pf2e/creature/type/humanoid
   - pf2e/creature/type/nephilim
+  - pf2eMonster
   - pf2e/creature/level/10
 statblock: inline
 name: "Lasheeli"
@@ -22,12 +23,12 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #183: Field of Maidens"
 name: "Lasheeli"
 level: "Creature 10"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Medium"
-trait_01: "human"
-trait_02: "humanoid"
-trait_03: "nephilim"
+trait_01: [[human]]
+trait_02: [[humanoid]]
+trait_03: [[nephilim]]
 modifier: 19
 perception:
   - name: "Perception"
@@ -35,7 +36,7 @@ perception:
 languages: "Common, Drooni, Empyrean"
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +19, Bardic Lore: +18, Diplomacy: +21 (+23 when orating), Holomog Lore: +20, Occultism: +20, Performance: +21, Religion: +19, Society: +20"
+    desc: "Acrobatics: +19, Diplomacy: +21, Occultism: +20, Performance: +21, Religion: +19, Society: +20, Bardic Lore: +18, Holomog Lore: +20"
 abilityMods: [0, 3, 0, 4, 3, 5]
 speed: 30 feet
 sourcebook: "_Pathfinder #183: Field of Maidens_"
@@ -58,7 +59,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Cautionary Tale"
-    desc: "`pf2:r` (linguistic) **Trigger** Lasheeli or an ally within 30 feet attempts a Will save\n**Effect** Lasheeli orates a line or two from one of her stories and makes a Performance check. Lasheeli and any allies can use the better result of her check or their saving throw."
+    desc: "`pf2:r` (linguistic) **Trigger** Lasheeli or an ally within 30 feet attempts a Will save\n* * *\n\n**Effect** Lasheeli orates a line or two from one of her stories and makes a Performance check. Lasheeli and any allies can use the better result of her check or their saving throw."
 
   - name: "Divine Aegis"
     desc: " (divine) Once per day when Lasheeli takes damage that would reduce her to 0 Hit Points, a radiant, holy shield flashes over her, negating all of the attack's spirit damage and half of any other damage the attack deals. If the attacker is within 60 feet, divine aegis deals the attacker the same amount of damage it prevented (of the same type, except that if divine aegis prevents spirit damage, it deals the attacker spirit damage instead)."
@@ -87,6 +88,12 @@ attacks:
   - name: "Steady Spellcasting"
     desc: "  If a reaction would disrupt Lasheeli's spellcasting, she attempts a DC 15 Flat check; on a success, the spell isn't disrupted."
  
+```
+
+```encounter-table
+name: Lasheeli
+creatures:
+  - 1: Lasheeli
 ```
 
 

@@ -12,7 +12,7 @@ license: ORC
 ---
 # Druid Spellcasting
 ## Feat 1
-### [[druid]]
+### [[3-Rules/trait_reference/druid]]
 
 **Category** classfeature; 
 

@@ -3,6 +3,7 @@ title: Envenomed Lock (BB)
 obsidianUIMode: preview
 noteType: pf2eHazard
 tags:
+  - pf2eHazard
 
 source: Pathfinder Beginner Box
 aliases: "Compendium.pf2e.menace-under-otari-bestiary.Actor.pw2NFqvkDm54lsbt" 
@@ -25,7 +26,7 @@ sourcebook: "_Pathfinder Beginner Box_"
 ac: 15
 armorclass:
   - name: AC
-    desc: "15; __Fort__ +8, __Ref__ +4, __Will__ +0"
+    desc: "15; __Fort__ +8, __Ref__ +4, "
 hp: 24
 health:
   - name: ""
@@ -53,5 +54,11 @@ attacks:
 
 
 
+```
+
+```encounter-table
+name: Envenomed Lock (BB)
+creatures:
+  - 1: Envenomed Lock (BB)
 ```
 

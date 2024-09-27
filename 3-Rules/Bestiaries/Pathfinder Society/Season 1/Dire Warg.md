@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.pfs-season-1-bestiary.Actor.zveTUg1NtYmTwlFn"
 tags:
   - pf2e/creature/type/beast
   - pf2e/creature/type/evil
+  - pf2eMonster
   - pf2e/creature/level/4
 statblock: inline
 name: "Dire Warg"
@@ -24,8 +25,8 @@ level: "Creature 4"
 
 alignment: ""
 size: "Large"
-trait_01: "beast"
-trait_02: "evil"
+trait_01: [[beast]]
+trait_02: [[evil]]
 modifier: 12
 perception:
   - name: "Perception"
@@ -52,7 +53,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Avenging Bite"
-    desc: "`pf2:r`  **Trigger** A creature within reach of the warg's jaws attacks one of the warg's allies\n**Effect** The warg makes a jaws Strike against the triggering creature."
+    desc: "`pf2:r`  **Trigger** A creature within reach of the warg's jaws attacks one of the warg's allies\n* * *\n\n**Effect** The warg makes a jaws Strike against the triggering creature."
 
 attacks:
   - name: ""
@@ -64,11 +65,17 @@ attacks:
     desc: "  The warg's Strikes deals an extra 1d6 damage to any creature within reach of at least two of the warg's allies."
 
   - name: "[[Bestiary Ability Glossary/Swallow Whole|Swallow Whole]]"
-    desc: "`pf2:1` (attack) Small, 1d6 + 4 bludgeoning, Rupture 10\n"
+    desc: "`pf2:1` (attack) Small, 1d6+4 bludgeoning, Rupture 10\n\n* * *\n"
 
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
     desc: "`pf2:1`  "
  
+```
+
+```encounter-table
+name: Dire Warg
+creatures:
+  - 1: Dire Warg
 ```
 
 

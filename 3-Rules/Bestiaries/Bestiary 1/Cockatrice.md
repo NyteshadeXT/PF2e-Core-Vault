@@ -6,6 +6,7 @@ cssClasses: pf2e
 aliases: "Compendium.pf2e.pathfinder-bestiary.Actor.fgsDAeZHVbHRhSE8" 
 tags:
   - pf2e/creature/type/beast
+  - pf2eMonster
   - pf2e/creature/level/3
 statblock: inline
 name: "Cockatrice"
@@ -24,11 +25,12 @@ level: "Creature 3"
 
 alignment: ""
 size: "Small"
-trait_01: "beast"
+trait_01: [[beast]]
 modifier: 8
 perception:
   - name: "Perception"
     desc: "+8; Darkvision"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Acrobatics: +11"
@@ -56,8 +58,14 @@ attacks:
     desc: "`pf2:1` Beak +13 (finesse, magical)\n__Damage__  1d8 - 2 piercing plus calcification"
 
   - name: "Calcification"
-    desc: " (incapacitation,primal) A peck from a cockatrice hardens the flesh of the creature struck. The target must succeed at a DC 20 Fortitude check save or become [[Conditions/Slowed 1|Slowed 1]] (or [[Conditions/Slowed 1|Slowed 2]] on a critical failure). Further failed saves against calcification increase the slowed condition. Once a creature's actions are reduced to 0 by calcification, that creature becomes [[Conditions/Petrified|Petrified]].\nEvery 24 hours after it was petrified, the victim can attempt a DC 20 Fortitude check save to recover. On a success, it becomes flesh again, but is slowed 1 for the next 24 hours. On a critical success, the creature recovers and isn't slowed. On a failure, the creature remains petrified, but can try again in 24 hours. On a critical failure, the petrification is permanent, and the creature can't attempt any more saves."
+    desc: " (incapacitation,primal) A peck from a cockatrice hardens the flesh of the creature struck. The target must succeed at a DC 20 Fortitude check save or become [[Conditions/Slowed|Slowed 1]] (or [[Conditions/Slowed|Slowed 2]] on a critical failure). Further failed saves against calcification increase the slowed condition. Once a creature's actions are reduced to 0 by calcification, that creature becomes [[Conditions/Petrified|Petrified]].\n\nEvery 24 hours after it was petrified, the victim can attempt a DC 20 Fortitude check save to recover. On a success, it becomes flesh again, but is slowed 1 for the next 24 hours. On a critical success, the creature recovers and isn't slowed. On a failure, the creature remains petrified, but can try again in 24 hours. On a critical failure, the petrification is permanent, and the creature can't attempt any more saves."
  
+```
+
+```encounter-table
+name: Cockatrice
+creatures:
+  - 1: Cockatrice
 ```
 
 

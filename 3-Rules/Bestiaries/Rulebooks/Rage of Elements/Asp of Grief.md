@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.rage-of-elements-bestiary.Actor.IPKzI7XwILuDc21S"
 tags:
   - pf2e/creature/type/elemental
   - pf2e/creature/type/metal
+  - pf2eMonster
   - pf2e/creature/level/10
   - remaster
 statblock: inline
@@ -25,8 +26,8 @@ level: "Creature 10"
 
 alignment: ""
 size: "Medium"
-trait_01: "elemental"
-trait_02: "metal"
+trait_01: [[elemental]]
+trait_02: [[metal]]
 modifier: 21
 perception:
   - name: "Perception"
@@ -34,7 +35,7 @@ perception:
 languages: "Common, Empyrean, Talican"
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +21, Arcana: +21, Nature: +19, Psychology Lore: +19, Survival: +21"
+    desc: "Acrobatics: +21, Arcana: +21, Nature: +19, Survival: +21, Psychology Lore: +19"
 abilityMods: [4, 7, 3, 7, 5, 3]
 speed: 20 feet,  fly 50 feet
 sourcebook: "_Pathfinder Rage of Elements_"
@@ -56,7 +57,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Curtain of Calm"
-    desc: " (arcane,aura,emotion,mental) 20 feet. The asp of grief consumes the emotions of the creatures around it. An enemy that begins its turn in the aura must attempt a DC 29 Will check save. If it fails, the asp consumes its grief. The creature feels a lack of feelings and motivation, reducing its frightened value by 1 and becoming [[Conditions/Stupefied 1|Stupefied 1]] (or [[Conditions/Stupefied 1|Stupefied 2]] on a critical failure) for 1d4 rounds. Regardless of the result of the saving throw, the creature is temporarily immune to curtain of calm for 1 minute. The asp becomes charged with grief (see iron grief) for 1 minute whenever a creature fails this saving throw."
+    desc: " (arcane,aura,emotion,mental) 20 feet. The asp of grief consumes the emotions of the creatures around it. An enemy that begins its turn in the aura must attempt a DC 29 Will check save. If it fails, the asp consumes its grief. The creature feels a lack of feelings and motivation, reducing its frightened value by 1 and becoming [[Conditions/Stupefied|Stupefied 1]] (or [[Conditions/Stupefied|Stupefied 2]] on a critical failure) for 1d4 rounds. Regardless of the result of the saving throw, the creature is temporarily immune to curtain of calm for 1 minute. The asp becomes charged with grief (see iron grief) for 1 minute whenever a creature fails this saving throw."
 
 attacks:
   - name: ""
@@ -70,6 +71,12 @@ attacks:
   - name: "Magnetic Traveler"
     desc: "  An asp can ride magnetic fields to travel long distances. In a location with strong magnetic fields (including the Plane of Metal and Golarion), its travel Speed is doubled if it's flying."
  
+```
+
+```encounter-table
+name: Asp of Grief
+creatures:
+  - 1: Asp of Grief
 ```
 
 

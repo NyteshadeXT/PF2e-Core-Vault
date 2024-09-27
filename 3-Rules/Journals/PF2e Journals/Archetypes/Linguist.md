@@ -44,7 +44,7 @@ You can pronounce and repeat words with near-perfect accuracy even if you don't 
 
 * * *
 
-You interpret a creature's words, repeating their message in a different language that you know. If the triggering effect's targets speak either the original language or the one you translated into, they are affected.
+You bridge a language gap, repeating the message in a different language that you know. Choose a language you understand to repeat the message in. The linguistic effect counts as both languages, rather than only the language the triggering creature is using, potentially allowing it to affect a wider range of creatures. As normal, you can translate normal speech without Spot Translate and without using a reaction, but this reaction allows you to apply the benefits of translation to spells and actions such as command or [[Actions/Demoralize|Demoralize]].
 
 ## [[Feats/Analyze Idiolect|Analyze Idiolect]] Feat 6
 

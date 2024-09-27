@@ -17,7 +17,7 @@ license: OGL
 ---
 # Blink Blade
 ## Item 12
-### [uncommon](uncommon "Uncommon Rarity Trait")[[agile]][[finesse]][[magical]][[teleportation]][[thrown-10]][[versatile-s]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[3-Rules/Rule References/Agile]][[3-Rules/Rule References/Finesse]][[3-Rules/Rule References/Magical]][[teleportation]][[thrown-10]][[versatile-s]]
 
 |  |  |
 | -- | -- |

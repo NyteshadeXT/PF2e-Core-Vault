@@ -18,7 +18,7 @@ license: OGL
 
 Granted by [[Class Features/Bloodline_ Elemental|Bloodline: Elemental]]
 
-You gain a +1 status bonus to Intimidation checks for 1 round.
+You gain a +2 status bonus to Intimidation checks.
 
 *Source: Pathfinder Core Rulebook*
 *OGL*

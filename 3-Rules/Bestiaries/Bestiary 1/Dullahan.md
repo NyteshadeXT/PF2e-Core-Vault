@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/lawful
   - pf2e/creature/type/undead
   - pf2e/creature/type/unholy
+  - pf2eMonster
   - pf2e/creature/level/7
 statblock: inline
 name: "Dullahan"
@@ -24,13 +25,13 @@ token: [[modules/pf2e-tokens-bestiaries/portraits/undead/dullahan.webp| ]]
 source: "Pathfinder Bestiary"
 name: "Dullahan"
 level: "Creature 7"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Medium"
-trait_01: "evil"
-trait_02: "lawful"
-trait_03: "undead"
-trait_04: "unholy"
+trait_01: [[evil]]
+trait_02: [[lawful]]
+trait_03: [[undead]]
+trait_04: [[unholy]]
 modifier: 14
 perception:
   - name: "Perception"
@@ -61,7 +62,7 @@ abilities_mid:
     desc: "`pf2:r`  "
 
   - name: "[[Bestiary Ability Glossary/Frightful Presence|Frightful Presence]]"
-    desc: " (aura,emotion,fear,mental) 30 feet. DC 23 Will check\n"
+    desc: " (aura,emotion,fear,mental) 30 feet. DC 23 Will check\n\n* * *\n"
 
 attacks:
   - name: ""
@@ -87,6 +88,12 @@ attacks:
   - name: "Summon Steed"
     desc: "`pf2:2` (occult) The dullahan summons a [[Bestiary 1/War Horse|War Horse]] with elite adjustments and the fiend trait. This steed remains until it is slain, the dullahan Dismisses it, or the dullahan summons another steed."
  
+```
+
+```encounter-table
+name: Dullahan
+creatures:
+  - 1: Dullahan
 ```
 
 

@@ -16,7 +16,7 @@ license: OGL
 ---
 # Octopus Potion (Moderate)
 ## Item 9
-### [[consumable]][[magical]][[morph]][[potion]][[3-Rules/Rule References/Water]]
+### [[consumable]][[magical]][[morph]][[potion]][[water]]
 
 **Category** other; 
 **Price** 130 gp; 

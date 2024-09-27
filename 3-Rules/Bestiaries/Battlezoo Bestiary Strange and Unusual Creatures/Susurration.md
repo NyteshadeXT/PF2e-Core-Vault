@@ -7,6 +7,7 @@ aliases: "Compendium.battlezoo-bestiary-su-pf2e.pf2e-battlezoo-su-actors.Actor.C
 tags:
   - pf2e/creature/type/mindless
   - pf2e/creature/type/undead
+  - pf2eMonster
   - pf2e/creature/level/6
 statblock: inline
 name: "Susurration"
@@ -22,18 +23,19 @@ token: [[modules/battlezoo-bestiary-su-pf2e/art/Portraits/susurration.webp| ]]
 source: "Battlezoo Bestiary: Strange and Unusual"
 name: "Susurration"
 level: "Creature 6"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Small"
-trait_01: "mindless"
-trait_02: "undead"
+trait_01: [[mindless]]
+trait_02: [[undead]]
 modifier: 14
 perception:
   - name: "Perception"
     desc: "+14; Lifesense 30 Feet, Tremorsense (Imprecise) 60 Feet"
+languages: ""
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +13 (+17 to Escape), Stealth: +13, "
+    desc: "Acrobatics: +13, Stealth: +13, Acrobatics: +13, Stealth: +13"
 abilityMods: [0, 4, 5, -4, 0, 5]
 speed:  fly 20 feet
 sourcebook: "_Battlezoo Bestiary: Strange and Unusual_"
@@ -52,23 +54,29 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Voice Thief"
-    desc: " (aura,illusion,occult) 10 feet. The susurration is surrounded by an aura of silence, with the effects of a 4th level _Silence_ spell at all times. For the purposes of counteracting, this effect is level 3 and has a DC of 21."
+    desc: " (aura,illusion,occult) 10 feet. The susurration is surrounded by an aura of silence, with the effects of a 4th level _[[Spells/Silence|Silence]]_ spell at all times. For the purposes of counteracting, this effect is level 3 and has a DC of 21."
 
 attacks:
   - name: ""
 
   - name: "Melee"
-    desc: "`pf2:1` Myriad Tongues +17 (finesse, void)\n__Damage__  2d12 + 4 void plus warding-horror"
+    desc: "`pf2:1` Myriad Tongues +17 (finesse)\n__Damage__ "
 
   - name: "Melee"
     desc: "`pf2:1` Invisible Claw +17 (agile, finesse)\n__Damage__  2d10 + 4 slashing"
 
   - name: "Warding Horror"
-    desc: "`pf2:1` (mental,void) **Requirements** The susurration's last action was a successfully Strike with its myriad tongues that dealt damage to a creature\n**Effect** Twisting, shadowy coils of negative energy and body horror branch out from the creature initially licked by the susurration's horrifying tongues. Up to two other creatures within 15 feet of the target take 2d6 negative and 2d6 mental damage, with a DC 22 Will check save."
+    desc: "`pf2:1` (mental,void) **Requirements** The susurration's last action was a successfully Strike with its myriad tongues that dealt damage to a creature\n* * *\n\n**Effect** Twisting, shadowy coils of negative energy and body horror branch out from the creature initially licked by the susurration's horrifying tongues. Up to two other creatures within 15 feet of the target take 2d6 negative and 2d6 mental damage, with a DC 22 Will check save."
 
   - name: "Hole in the World"
-    desc: "`pf2:2` (manipulate,void) The susurration releases a wave of negative energy. All creatures in the susurration's voice thief aura take 3d8 void damage with a basic DC 22 Fortitude check save. A creature that fails this save is also Sickened 1, and one that critically fails is Sickened 2. As long as the susurration isn't Grabbed or Restrained, it can then choose to teleport up to 20 feet away. This movement is a teleportation effect; it doesn't trigger reactions and isn't impacted by difficult terrain or obstacles. The susurration can't use Hole in the World again for 1d4 rounds."
+    desc: "`pf2:2` (manipulate,void) The susurration releases a wave of negative energy. All creatures in the susurration's voice thief aura take 3d8 void damage with a basic DC 22 Fortitude check save. A creature that fails this save is also [[undefined]], and one that critically fails is [[undefined]]. As long as the susurration isn't [[undefined]] or [[undefined]], it can then choose to teleport up to 20 feet away. This movement is a teleportation effect; it doesn't trigger reactions and isn't impacted by difficult terrain or obstacles. The susurration can't use Hole in the World again for 1d4 rounds."
  
+```
+
+```encounter-table
+name: Susurration
+creatures:
+  - 1: Susurration
 ```
 
 

@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.npc-gallery.Actor.wfsT2QDtQhsFXQfE"
 tags:
   - pf2e/creature/type/human
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/2
 statblock: inline
 name: "Surgeon"
@@ -24,8 +25,8 @@ level: "Creature 2"
 
 alignment: ""
 size: "Medium"
-trait_01: "human"
-trait_02: "humanoid"
+trait_01: [[human]]
+trait_02: [[humanoid]]
 modifier: 14
 perception:
   - name: "Perception"
@@ -65,8 +66,14 @@ attacks:
     desc: "`pf2:1` Scalpel +11 (agile, thrown 10 ft., versatile p)\n__Damage__  1d4 + 1 slashing"
 
   - name: "Medical Malpractice"
-    desc: "`pf2:1`  The surgeon attempts a Medicine check check against the Fortitude DC of one living creature they can see within 60 feet.\nOn a success, the surgeon's melee Strikes deal an extra 1d6 precision damage against that creature (2d6 precision damage on a critical success) until 1 minute passes or the surgeon critically hits that creature, whichever comes first.\nUsing this action again designates a new target and ends the effect for any previous target. A surgeon can target an individual creature no more than once per day with this ability."
+    desc: "`pf2:1`  The surgeon attempts a Medicine check check against the Fortitude DC of one living creature they can see within 60 feet.\n\nOn a success, the surgeon's melee Strikes deal an extra 1d6 precision damage against that creature (2d6 precision damage on a critical success) until 1 minute passes or the surgeon critically hits that creature, whichever comes first.\n\nUsing this action again designates a new target and ends the effect for any previous target. A surgeon can target an individual creature no more than once per day with this ability."
  
+```
+
+```encounter-table
+name: Surgeon
+creatures:
+  - 1: Surgeon
 ```
 
 

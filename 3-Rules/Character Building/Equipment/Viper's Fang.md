@@ -47,7 +47,7 @@ If you hit with this attack, the creature is exposed to viper fang venom.
 
 **Maximum Duration** 4 rounds
 
-**Stage 1** 3d10 poison damage and [[Conditions/Enfeebled 1|Enfeebled 1]].
+**Stage 1** 3d10 poison damage and [[Conditions/Enfeebled|Enfeebled 1]].
 
 *Source: Pathfinder GM Core*
 *ORC*

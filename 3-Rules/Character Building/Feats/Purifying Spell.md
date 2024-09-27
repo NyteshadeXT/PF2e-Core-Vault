@@ -14,7 +14,7 @@ license: OGL
 ---
 # Purifying Spell `pf2:1`
 ## Feat 12
-### [[concentrate]][[druid]][[spellshape]][[3-Rules/Rule References/Water]]
+### [[concentrate]][[druid]][[spellshape]][[water]]
 
 **Category** class; 
 

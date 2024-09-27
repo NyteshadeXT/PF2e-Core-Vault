@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.pfs-season-3-bestiary.Actor.iL7qWBOdmhRwjcVG"
 tags:
   - pf2e/creature/type/animal
   - pf2e/creature/type/swarm
+  - pf2eMonster
   - pf2e/creature/level/2
 statblock: inline
 name: "Panicked Bat Swarm"
@@ -21,18 +22,19 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Bounty #18: From Family Lost"
 name: "Panicked Bat Swarm"
 level: "Creature 2"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Large"
-trait_01: "animal"
-trait_02: "swarm"
+trait_01: [[animal]]
+trait_02: [[swarm]]
 modifier: 11
 perception:
   - name: "Perception"
     desc: "+11; Echolocation 20 Feet, Low-Light Vision"
+languages: ""
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +8, Athletics: +5 (+8 to Climb), Stealth: +8"
+    desc: "Acrobatics: +8, Athletics: +5, Stealth: +8"
 abilityMods: [1, 4, 1, -4, 3, -3]
 speed: 5 feet,  fly 30 feet
 sourcebook: "_Pathfinder Bounty #18: From Family Lost_"
@@ -59,6 +61,12 @@ attacks:
   - name: "Panicked Flutter"
     desc: "`pf2:1`  Each enemy in the bat swarm's space takes 1d6 piercing damage from a combination of bites and claw scratches (DC 17 Reflex check save). On a failure, the creature is also [[Conditions/Dazzled|Dazzled]] for 1 round by the flurry of wings."
  
+```
+
+```encounter-table
+name: Panicked Bat Swarm
+creatures:
+  - 1: Panicked Bat Swarm
 ```
 
 

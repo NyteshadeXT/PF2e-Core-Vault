@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.pfs-season-5-bestiary.Actor.10uyFFDhy90H2reO"
 tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/fey
+  - pf2eMonster
   - pf2e/creature/level/6
 statblock: inline
 name: "Dull Pukwudgie"
@@ -21,11 +22,11 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Society Scenario #5-08: Protecting the Firelight"
 name: "Dull Pukwudgie"
 level: "Creature 6"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Small"
-trait_01: "evil"
-trait_02: "fey"
+trait_01: [[evil]]
+trait_02: [[fey]]
 modifier: 15
 perception:
   - name: "Perception"
@@ -53,7 +54,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Defensive Quills"
-    desc: "  A creature that hits a pukwudgie with an unarmed Strike or a non-reach melee Strike takes 3d8 piercing damage (DC 21 Reflex check save). On a critical failure, the creature also takes 1d6 persistent poison from the poisoned quills.\n_Note: A DC was not provided for this ability by Paizo. The DC present here is a moderate DC for the creature level according to the Gamemastery Guide creature building Tables_"
+    desc: "  A creature that hits a pukwudgie with an unarmed Strike or a non-reach melee Strike takes 3d8 piercing damage (DC 21 Reflex check save). On a critical failure, the creature also takes 1d6 persistent poison from the poisoned quills.\n* * *\n\n_Note: A DC was not provided for this ability by Paizo. The DC present here is a moderate DC for the creature level according to the Gamemastery Guide creature building Tables_"
 
 attacks:
   - name: ""
@@ -71,11 +72,17 @@ attacks:
     desc: "DC 27, attack +19; __4th __  _[[Spells/Unfettered Movement|Freedom of Movement]]_, _[[Spells/Mirage|Hallucinatory Terrain]]_; __3rd __  _[[Spells/Wall of Thorns|Wall of Thorns]]_; __2nd __  _[[Spells/Invisibility|Invisibility (At Will) (Self Only)]]_"
 
   - name: "[[Bestiary Ability Glossary/Change Shape|Change Shape]]"
-    desc: "`pf2:1` (concentrate,polymorph,primal) The pukwudgie takes on the physical form of a [[Bestiary 3/Giant Porcupine|Giant Porcupine]]. Their size changes to Medium, they lose their weapon Strikes, and they gain a quill Strike (+16 for 2d8+4 piercing plus 1d8 persistent poison).\n"
+    desc: "`pf2:1` (concentrate,polymorph,primal) The pukwudgie takes on the physical form of a [[Bestiary 3/Giant Porcupine|Giant Porcupine]]. Their size changes to Medium, they lose their weapon Strikes, and they gain a quill Strike (+16 for 2d8+4 piercing plus 1d8 persistent poison).\n\n* * *\n"
 
   - name: "Pukwudgie Poison"
-    desc: " (poison) **Saving Throw** DC 23 Fortitude check\n**Maximum Duration** 6 rounds\n**Stage 1** 1d6 poison damage and [[Conditions/Stupefied 1|Stupefied 1]] (1 round)\n**Stage 2** 1d6 poison damage and [[Conditions/Stupefied 1|Stupefied 2]] (1 round)\n**Stage 3** 1d6 poison damage, [[Conditions/Confused|Confused]], and stupefied 2 (1 round)"
+    desc: " (poison) **Saving Throw** DC 23 Fortitude check\n* * *\n\n**Maximum Duration** 6 rounds\n\n**Stage 1** 1d6 poison damage and [[Conditions/Stupefied|Stupefied 1]] (1 round)\n\n**Stage 2** 1d6 poison damage and [[Conditions/Stupefied|Stupefied 2]] (1 round)\n\n**Stage 3** 1d6 poison damage, [[Conditions/Confused|Confused]], and stupefied 2 (1 round)"
  
+```
+
+```encounter-table
+name: Dull Pukwudgie
+creatures:
+  - 1: Dull Pukwudgie
 ```
 
 

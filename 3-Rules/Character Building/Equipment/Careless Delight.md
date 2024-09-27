@@ -32,11 +32,11 @@ Sometimes called liquid persuasion, this sweet-tasting tincture induces euphoria
 
 **Maximum Duration** 10 minutes
 
-**Stage 1** [[Conditions/Stupefied 1|Stupefied 1]] (1 minute)
+**Stage 1** [[Conditions/Stupefied|Stupefied 1]] (1 minute)
 
-**Stage 2** [[Conditions/Stupefied 1|Stupefied 2]] (1 minute)
+**Stage 2** [[Conditions/Stupefied|Stupefied 2]] (1 minute)
 
-**Stage 3** [[Conditions/Stupefied 1|Stupefied 3]], and the victim's attitude toward others improves by one step (1 minute)
+**Stage 3** [[Conditions/Stupefied|Stupefied 3]], and the victim's attitude toward others improves by one step (1 minute)
 
 *Source: Pathfinder Treasure Vault*
 *OGL*

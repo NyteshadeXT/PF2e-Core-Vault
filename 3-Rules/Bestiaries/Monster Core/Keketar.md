@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.pathfinder-monster-core.Actor.z1TEwL0plpK4l2uf"
 tags:
   - pf2e/creature/type/monitor
   - pf2e/creature/type/protean
+  - pf2eMonster
   - pf2e/creature/level/17
   - remaster
 statblock: inline
@@ -26,8 +27,8 @@ level: "Creature 17"
 
 alignment: ""
 size: "Large"
-trait_01: "monitor"
-trait_02: "protean"
+trait_01: [[monitor]]
+trait_02: [[protean]]
 modifier: 30
 perception:
   - name: "Perception"
@@ -63,7 +64,7 @@ abilities_mid:
     desc: "`pf2:r`  "
 
   - name: "Spatial Riptide"
-    desc: " (aura,divine) 30 feet.\n\nA creature using a teleportation ability within the aura or arriving in it via teleportation must succeed at a DC 38 Fortitude check save or wink out of existence for 1d4 rounds before completing the teleport. The creature can't act, sense anything, or be targeted. On a successful save, the creature completes the teleport normally but is [[Conditions/Stunned 1|Stunned 1]].\n\nKeketars are immune to this effect."
+    desc: " (aura,divine) 30 feet.\n\nA creature using a teleportation ability within the aura or arriving in it via teleportation must succeed at a DC 38 Fortitude check save or wink out of existence for 1d4 rounds before completing the teleport. The creature can't act, sense anything, or be targeted. On a successful save, the creature completes the teleport normally but is [[Conditions/Stunned|Stunned 1]].\n\nKeketars are immune to this effect."
 
 attacks:
   - name: ""
@@ -84,7 +85,7 @@ attacks:
     desc: "`pf2:1` (concentrate,divine,polymorph) The keketar can take the appearance of any Huge or smaller creature. This doesn't change their Speed or their attack and damage bonuses with their Strikes but might change the damage type their Strikes deal.\n\n* * *\n"
 
   - name: "[[Bestiary Ability Glossary/Constrict|Constrict]]"
-    desc: "`pf2:1`  1d10 + 15 bludgeoning, DC 42 Fortitude check\n\n* * *\n"
+    desc: "`pf2:1`  1d10+15 bludgeoning, DC 42 Fortitude check\n\n* * *\n"
 
   - name: "Reshape Reality"
     desc: " (concentrate,divine,polymorph) When the keketar casts [[Spells/Mirage|Mirage]], it infuses the illusion with quasi-real substance. Creatures that do not disbelieve the illusion treat structures and terrain created through the spell as though they were real, ascending illusory stairs, becoming trapped by illusory quicksand, and so on."
@@ -95,6 +96,12 @@ attacks:
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
     desc: "`pf2:1`  "
  
+```
+
+```encounter-table
+name: Keketar
+creatures:
+  - 1: Keketar
 ```
 
 

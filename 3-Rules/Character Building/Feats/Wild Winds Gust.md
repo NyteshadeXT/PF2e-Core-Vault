@@ -9,12 +9,13 @@ tags:
   - trait/monk
   - trait/common
   - category/class
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.wKx7BWdQu5sEjL9j"
-license: OGL
+license: ORC
 ---
 # Wild Winds Gust `pf2:2`
 ## Feat 14
-### [[3-Rules/Rule References/Air]][[concentrate]][[manipulate]][[monk]]
+### [[air]][[concentrate]][[manipulate]][[monk]]
 
 **Category** class; 
 
@@ -26,7 +27,7 @@ license: OGL
 
 * * *
 
-You store up energy and release it in an enormous gust of rushing wind. Make a wind crash Strike against each creature in your choice of a 30-foot cone or a 60 foot line. These attacks all count toward your multiple attack penalty, but the penalty doesn't increase until after you make all the attacks.
+You build air pressure with repeated motions, before releasing an enormous crescent of rushing wind strikes. Make a wind crash Strike against each creature in your choice of a @Template\[cone|distance:30\] or a @Template\[line|distance:60\]. These attacks all count toward your multiple attack penalty, but the penalty doesn't increase until after you make all the attacks.
 
-*Source: Pathfinder Core Rulebook*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

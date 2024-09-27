@@ -26,7 +26,7 @@ license: OGL
 
 * * *
 
-_The Keep_ represents steadfastness and being unshakable to threats. As long as _The Keep_ is invested, you gain a +2 item bonus to saving throws against fear effects. Whenever you become [[Conditions/Frightened 1|Frightened]], reduce the condition value by 1 (to a minimum of 0). If you are 20th level, the item bonus increases to +3.
+_The Keep_ represents steadfastness and being unshakable to threats. As long as _The Keep_ is invested, you gain a +2 item bonus to saving throws against fear effects. Whenever you become [[Conditions/Frightened|Frightened]], reduce the condition value by 1 (to a minimum of 0). If you are 20th level, the item bonus increases to +3.
 
 **Activate** `pf2:2` envision, Interact
 

@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.blood-lords-bestiary.Actor.ZDrt7yX9seyY3lCC"
 tags:
   - pf2e/creature/type/humanoid
   - pf2e/creature/type/shabti
+  - pf2eMonster
   - pf2e/creature/level/18
 statblock: inline
 name: "Shabti Votary"
@@ -21,11 +22,11 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #186: Ghost King&#x27;s Rage"
 name: "Shabti Votary"
 level: "Creature 18"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Medium"
-trait_01: "humanoid"
-trait_02: "shabti"
+trait_01: [[humanoid]]
+trait_02: [[shabti]]
 modifier: 33
 perception:
   - name: "Perception"
@@ -33,7 +34,7 @@ perception:
 languages: "Common, Necril, Osiriani, Requian"
 skills:
   - name: "Skills"
-    desc: "Boneyard Lore: +32, Diplomacy: +30, Intimidation: +30, Medicine: +34, Performance: +30, Religion: +34"
+    desc: "Diplomacy: +30, Intimidation: +30, Medicine: +34, Performance: +30, Religion: +34, Boneyard Lore: +32"
 abilityMods: [0, 1, 5, 4, 6, 4]
 speed: 25 feet
 sourcebook: "_Pathfinder #186: Ghost King&#x27;s Rage_"
@@ -53,10 +54,10 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Discerning Aura"
-    desc: " (aura,divine) 30 feet. All undead within the aura glow blue, shedding dim light in a 5-foot radius. Visible undead can't be [[Conditions/Concealed|Concealed]] while affected by this aura. Invisible undead are concealed while affected by this aura, rather than being undetected.\n[[Bestiary Effects/Effect_ Discerning Aura|Effect: Discerning Aura]]"
+    desc: " (aura,divine) 30 feet. All undead within the aura glow blue, shedding dim light in a 5-foot radius. Visible undead can't be [[Conditions/Concealed|Concealed]] while affected by this aura. Invisible undead are concealed while affected by this aura, rather than being undetected.\n\n[[Bestiary Effects/Effect_ Discerning Aura|Effect: Discerning Aura]]"
 
   - name: "Gird in Prayer"
-    desc: "`pf2:r`  **Trigger** An ally within the shabti votary's aura is the target of a death, mental, or possession effect\n**Effect** The shabti votary girds their ally in protective prayers. The triggering creature gains a +2 status bonus to saving throws against death, mental, and possession effects until the beginning of the shabti votary's next turn.\n[[Bestiary Effects/Effect_ Gird in Prayer|Effect: Gird in Prayer]]"
+    desc: "`pf2:r`  **Trigger** An ally within the shabti votary's aura is the target of a death, mental, or possession effect\n* * *\n\n**Effect** The shabti votary girds their ally in protective prayers. The triggering creature gains a +2 status bonus to saving throws against death, mental, and possession effects until the beginning of the shabti votary's next turn.\n\n[[Bestiary Effects/Effect_ Gird in Prayer|Effect: Gird in Prayer]]"
 
   - name: "Immortal"
     desc: "  Shabtis don't age naturally and can't die of old age. Spells and effects that cause aging still affect a shabti as normal. They also can't be turned into undead."
@@ -83,8 +84,14 @@ attacks:
     desc: "  A shabti votary's vitality energy sets undead alight. When a shabti votary uses a [[Spells/Heal|Heal]] spell to damage undead, each undead that takes damage also takes persistent fire damage equal to the spell's rank."
 
   - name: "Expand Aura"
-    desc: "`pf2:1` (concentrate) **Frequency** once per turn\n**Effect** The shabti votary focuses their will, expanding the area of their discerning aura by 20 feet for 1 minute. This expansion is cumulative with other uses of Expand Aura."
+    desc: "`pf2:1` (concentrate) **Frequency** once per turn\n* * *\n\n**Effect** The shabti votary focuses their will, expanding the area of their discerning aura by 20 feet for 1 minute. This expansion is cumulative with other uses of Expand Aura."
  
+```
+
+```encounter-table
+name: Shabti Votary
+creatures:
+  - 1: Shabti Votary
 ```
 
 

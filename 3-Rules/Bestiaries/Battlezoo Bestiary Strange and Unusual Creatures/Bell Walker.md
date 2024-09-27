@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/aberration
   - pf2e/creature/type/evil
   - pf2e/creature/type/fungus
+  - pf2eMonster
   - pf2e/creature/level/10
 statblock: inline
 name: "Bell Walker"
@@ -23,20 +24,20 @@ token: [[modules/battlezoo-bestiary-su-pf2e/art/Portraits/bell-walker.webp| ]]
 source: "Battlezoo Bestiary: Strange and Unusual"
 name: "Bell Walker"
 level: "Creature 10"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Medium"
-trait_01: "aberration"
-trait_02: "evil"
-trait_03: "fungus"
+trait_01: [[aberration]]
+trait_02: [[evil]]
+trait_03: [[fungus]]
 modifier: 19
 perception:
   - name: "Perception"
     desc: "+19; "
-languages: "Aklo"
+languages: "Aklo; can&#x27;t speak any language"
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +14, Athletics: +23, Occultism: +16, Stealth: +14, Survival: +17, Fungus Lore: +20, "
+    desc: "Acrobatics: +14, Athletics: +23, Occultism: +16, Stealth: +14, Survival: +17, Acrobatics: +14, Athletics: +23, Occultism: +16, Stealth: +14, Survival: +17, Fungus Lore: +20"
 abilityMods: [7, 2, 7, 0, 3, -2]
 speed: 20 feet
 sourcebook: "_Battlezoo Bestiary: Strange and Unusual_"
@@ -64,11 +65,17 @@ attacks:
     desc: "`pf2:1` Tentacle +23 (reach 10 feet)\n__Damage__  2d10 + 11 bludgeoning plus improved-grab"
 
   - name: "Noxious Kiss"
-    desc: "`pf2:1` (attack,poison) **Requirements** The bell walker has a creature Grabbed\n**Effect** The bell walker's cap extends to an almost impossibly large size in order to cover the upper half of a grabbed creature. The bell walker attempts an Athletics check against the grabbed creature's Reflex DC. On a successful Athletics check, the bell walker successfully covers the creature's upper half. The creature is Slowed 1, and has to hold its breath or start suffocating. The creature takes 2d10 + 6 bludgeoning damage at the end of each of its turns. The enveloped creature can get free by Escaping against DC 33, and it's automatically freed if it is no longer grabbed by the bell walker. The bell walker can't use its Toxic Fumes ability while it's using Noxious Kiss to cover a creature's upper half."
+    desc: "`pf2:1` (attack,poison) **Requirements** The bell walker has a creature [[undefined]]\n* * *\n\n**Effect** The bell walker's cap extends to an almost impossibly large size in order to cover the upper half of a grabbed creature. The bell walker attempts an Athletics check against the grabbed creature's Reflex DC. On a successful Athletics check, the bell walker successfully covers the creature's upper half. The creature is [[undefined]], and has to hold its breath or start suffocating. The creature takes 2d10+6 bludgeoning damage at the end of each of its turns. The enveloped creature can get free by [[Actions/Escape|Escaping]] against DC 33, and it's automatically freed if it is no longer grabbed by the bell walker. The bell walker can't use its Toxic Fumes ability while it's using Noxious Kiss to cover a creature's upper half."
 
   - name: "Toxic Fumes"
     desc: "`pf2:2` (poison) The bell walker inflates its rubbery fungal cap and then expels a horrific toxic cloud that deals 11d6 poison damage in a 20-foot cone with a DC 29 Fortitude check save. The bell walker can't use Toxic Fumes again for 1d4 rounds as its toxic spores replenish."
  
+```
+
+```encounter-table
+name: Bell Walker
+creatures:
+  - 1: Bell Walker
 ```
 
 

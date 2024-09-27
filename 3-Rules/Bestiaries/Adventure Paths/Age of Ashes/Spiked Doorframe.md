@@ -5,6 +5,7 @@ noteType: pf2eHazard
 tags:
   - mechanical
   - trap
+  - pf2eHazard
 
 source: Pathfinder #145: Hellknight Hill
 aliases: "Compendium.pf2e.age-of-ashes-bestiary.Actor.SUQJPKt8N7rxx7Q1" 
@@ -22,14 +23,14 @@ name: "Spiked Doorframe"
 level: "Hazard 4"
 
 
-trait_01: "mechanical"
-trait_02: "trap"
+trait_01: [[mechanical]]
+trait_02: [[trap]]
 modifier: 15
 sourcebook: "_Pathfinder #145: Hellknight Hill_"
 ac: 21
 armorclass:
   - name: AC
-    desc: "21; __Fort__ +12, __Ref__ +8, __Will__ +0"
+    desc: "21; __Fort__ +12, __Ref__ +8, "
 hp: 44
 health:
   - name: ""
@@ -51,11 +52,17 @@ attacks:
   - name: ""
 
   - name: "Spikes"
-    desc: "action (attack) **Trigger** The door is opened.\n**Effect** The trap makes an attack against the creature that opened the door."
+    desc: "action (attack) **Trigger** The door is opened.\n* * *\n\n**Effect** The trap makes an attack against the creature that opened the door."
   - name: "Melee"
     desc: "Spikes +17 () "
 
 
 
+```
+
+```encounter-table
+name: Spiked Doorframe
+creatures:
+  - 1: Spiked Doorframe
 ```
 

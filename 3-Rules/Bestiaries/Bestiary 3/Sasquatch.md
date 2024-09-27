@@ -6,6 +6,7 @@ cssClasses: pf2e
 aliases: "Compendium.pf2e.pathfinder-bestiary-3.Actor.ss5f2tMeJWO3u8GU" 
 tags:
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/2
 statblock: inline
 name: "Sasquatch"
@@ -21,10 +22,10 @@ token: [[modules/pf2e-tokens-bestiaries/portraits/bestial/mammalian/sasquatch.we
 source: "Pathfinder Bestiary 3"
 name: "Sasquatch"
 level: "Creature 2"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Medium"
-trait_01: "humanoid"
+trait_01: [[humanoid]]
 modifier: 8
 perception:
   - name: "Perception"
@@ -32,7 +33,7 @@ perception:
 languages: "Sasquatch"
 skills:
   - name: "Skills"
-    desc: "Athletics: +9, Intimidation: +5, Stealth: +9 (+11 in forests), Survival: +6"
+    desc: "Athletics: +9, Intimidation: +5, Stealth: +9, Survival: +6"
 abilityMods: [5, 1, 3, -1, 2, 1]
 speed: 30 feet
 sourcebook: "_Pathfinder Bestiary 3_"
@@ -54,7 +55,7 @@ abilities_mid:
     desc: "`pf2:r`  "
 
   - name: "Emerge From Undergrowth"
-    desc: "`pf2:0`  **Trigger** The sasquatch is in forest terrain and rolls Stealth for Initiative\n**Effect** The sasquatch Strides up to half their Speed, after which they attempt to [[Actions/Demoralize|Demoralize]] a single creature within 15 feet."
+    desc: "`pf2:0`  **Trigger** The sasquatch is in forest terrain and rolls Stealth for Initiative\n* * *\n\n**Effect** The sasquatch Strides up to half their Speed, after which they attempt to [[Actions/Demoralize|Demoralize]] a single creature within 15 feet."
 
 attacks:
   - name: ""
@@ -80,6 +81,12 @@ attacks:
   - name: "[[Bestiary Ability Glossary/Throw Rock|Throw Rock]]"
     desc: "`pf2:1`  "
  
+```
+
+```encounter-table
+name: Sasquatch
+creatures:
+  - 1: Sasquatch
 ```
 
 

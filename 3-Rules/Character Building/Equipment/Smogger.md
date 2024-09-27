@@ -28,7 +28,7 @@ Some mutants savor the acrid smog of Alkenstar and the Gunworks. A _smogger_ rec
 
 * * *
 
-**Effect** The _smogger_ creates a 10-foot-radius emanation of smog centered on you, which moves with you. You and other creatures in the smog are [[Conditions/Concealed|Concealed]] while inside the smog, and other creatures are concealed to you and other creatures in the smog. A strong wind doesn't disperse the smog but reduces it to a 5-foot- radius emanation. A creature that must breathe that begins its turn inside of the smog can choose to hold its breath as a free action for the round, but if it doesn't, it becomes [[Conditions/Sickened 1|Sickened 1]]. The _smogger_ can maintain this effect for up to 1 minute, and the wearer of the _smogger_ can Dismiss the effect.
+**Effect** The _smogger_ creates a 10-foot-radius emanation of smog centered on you, which moves with you. You and other creatures in the smog are [[Conditions/Concealed|Concealed]] while inside the smog, and other creatures are concealed to you and other creatures in the smog. A strong wind doesn't disperse the smog but reduces it to a 5-foot- radius emanation. A creature that must breathe that begins its turn inside of the smog can choose to hold its breath as a free action for the round, but if it doesn't, it becomes [[Conditions/Sickened|Sickened 1]]. The _smogger_ can maintain this effect for up to 1 minute, and the wearer of the _smogger_ can Dismiss the effect.
 
 * * *
 

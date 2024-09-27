@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/chaotic
   - pf2e/creature/type/couatl
   - pf2e/creature/type/good
+  - pf2eMonster
   - pf2e/creature/level/3
 statblock: inline
 name: "Scalliwing"
@@ -23,13 +24,13 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Adventure: Troubles in Otari"
 name: "Scalliwing"
 level: "Creature 3"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "tiny"
-trait_01: "beast"
-trait_02: "chaotic"
-trait_03: "couatl"
-trait_04: "good"
+trait_01: [[beast]]
+trait_02: [[chaotic]]
+trait_03: [[couatl]]
+trait_04: [[good]]
 modifier: 12
 perception:
   - name: "Perception"
@@ -65,8 +66,14 @@ attacks:
     desc: "DC 20, attack +12; __2nd __ (3 slots) _[[Spells/Heal|Heal (x2)]]_, _[[Spells/Invisibility|Invisibility (Self Only)]]_; __1st __ (3 slots) _[[Spells/Command|Command]]_, _[[Spells/Sanctuary|Sanctuary]]_\n__Cantrips__  __(2nd)__ _[[Spells/Daze|Daze]]_, _[[Spells/Guidance|Guidance]]_, _[[Spells/Telekinetic Hand|Mage Hand]]_, _[[Spells/Message|Message]]_, _[[Spells/Shield|Shield]]_"
 
   - name: "Wing Flash"
-    desc: "`pf2:2` (mental,visual) The scalliwing spreads their iridescent wings and flutters them in a hypnotizing pattern. Each creature within 30 feet that can see the scalliwing must attempt a DC 20 Will check save.\n**Critical Success** The creature is unaffected.\n**Success** The creature is [[Conditions/Off-Guard|Off-Guard]] until the start of its next turn.\n**Failure** The creature is off-guard until the start of its next turn, and it must spend its first action on its next turn admiring the scalliwing.\n**Critical Failure** The creature is off-guard until the start of its next turn. For 1 minute, the creature must spend its first action each turn admiring the scalliwing. This effect ends if the scalliwing attacks or uses another hostile action against the affected creature."
+    desc: "`pf2:2` (mental,visual) The scalliwing spreads their iridescent wings and flutters them in a hypnotizing pattern. Each creature within 30 feet that can see the scalliwing must attempt a DC 20 Will check save.\n* * *\n\n**Critical Success** The creature is unaffected.\n\n**Success** The creature is [[Conditions/Off-Guard|Off-Guard]] until the start of its next turn.\n\n**Failure** The creature is off-guard until the start of its next turn, and it must spend its first action on its next turn admiring the scalliwing.\n\n**Critical Failure** The creature is off-guard until the start of its next turn. For 1 minute, the creature must spend its first action each turn admiring the scalliwing. This effect ends if the scalliwing attacks or uses another hostile action against the affected creature."
  
+```
+
+```encounter-table
+name: Scalliwing
+creatures:
+  - 1: Scalliwing
 ```
 
 

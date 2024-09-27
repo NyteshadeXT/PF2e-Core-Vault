@@ -39,7 +39,7 @@ Patterns themed to your curse cover your _oracular crown_. As your curse worsens
 
 * * *
 
-**Effect** You regain 3d8 Hit Points. This amount increases to 5d8 if your curse is at its moderate stage or 7d8 if it's at its major stage. If you have void healing, this activation has the void trait and not the healing and vitality traits.
+**Effect** You regain 3d8 healing Hit Points. This amount increases to 5d8 healing if your curse is at its moderate stage or 7d8 healing if it's at its major stage. If you have void healing, this activation has the void trait and not the healing and vitality traits.
 
 * * *
 

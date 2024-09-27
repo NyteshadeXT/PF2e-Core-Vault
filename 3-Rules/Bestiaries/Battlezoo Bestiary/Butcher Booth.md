@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/aberration
   - pf2e/creature/type/chaotic
   - pf2e/creature/type/evil
+  - pf2eMonster
   - pf2e/creature/level/12
 statblock: inline
 name: "Butcher Booth"
@@ -23,20 +24,20 @@ token: [[modules/battlezoo-bestiary-pf2e/art/butcher_booth.webp| ]]
 source: "Battlezoo Bestiary"
 name: "Butcher Booth"
 level: "Creature 12"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "grg"
-trait_01: "aberration"
-trait_02: "chaotic"
-trait_03: "evil"
+trait_01: [[aberration]]
+trait_02: [[chaotic]]
+trait_03: [[evil]]
 modifier: 22
 perception:
   - name: "Perception"
     desc: "+22; Greater Darkvision"
-languages: "Aklo, Common"
+languages: "Aklo, Common; telepathy 100 feet"
 skills:
   - name: "Skills"
-    desc: "Athletics: +26, Deception: +25, Stealth: +20, "
+    desc: "Athletics: +26, Deception: +25, Stealth: +20"
 abilityMods: [8, 4, 7, 4, 4, 7]
 speed: 15 feet,  fly 40 feet
 sourcebook: "_Battlezoo Bestiary_"
@@ -56,15 +57,15 @@ abilities_top:
     desc: " (mental,occult) The butcher booth is aware of all frightened creatures within the listed range."
 
   - name: "Sound Imitation"
-    desc: "  The butcher booth can mimic any sound it has heard, such as the scraping of knives or a merchant's incessant hawking, by succeeding at a Deception check to Lie. The butcher booth has a +4 circumstance bonus to this check."
+    desc: "  The butcher booth can mimic any sound it has heard, such as the scraping of knives or a merchant's incessant hawking, by succeeding at a Deception check to [[Actions/Lie|Lie]]. The butcher booth has a +4 circumstance bonus to this check."
 
 abilities_mid:
   - name: ""
   - name: "[[Bestiary Ability Glossary/Frightful Presence|Frightful Presence]]"
-    desc: " (aura,emotion,fear,mental,occult) Aura 15 feet, Will"
+    desc: " (aura,emotion,fear,mental,occult) [[Bestiary Ability Glossary/Aura|Aura]] 15 feet, DC 29 Will"
 
   - name: "Snap Shut"
-    desc: "`pf2:r`  **Trigger** A creature moves into the butcher booth's space;\n**Effect** The butcher booth snaps its mouth shut. It makes a jaws Strike against the triggering creature."
+    desc: "`pf2:r`  **Trigger** A creature moves into the butcher booth's space;\n\n**Effect** The butcher booth snaps its mouth shut. It makes a jaws Strike against the triggering creature."
 
 attacks:
   - name: ""
@@ -76,20 +77,26 @@ attacks:
     desc: "DC 30, attack +22; __6th __  _[[Spells/Charm|Charm]]_, _[[Spells/Illusory Scene|Illusory Scene]]_; __5th __  _[[Spells/False Vision|False Vision]]_, _[[Spells/Mirage|Hallucinatory Terrain]]_\n__Cantrips__  __(6th)__ _[[Spells/Detect Magic|Detect Magic]]_, _[[Spells/Ghost Sound|Ghost Sound]]_"
 
   - name: "Consume"
-    desc: "`pf2:3`  The butcher booth makes a jaws Strike against each creature in its space.\nIts multiple attack penalty doesn't increase until after it has made all its attacks."
+    desc: "`pf2:3`  The butcher booth makes a jaws Strike against each creature in its space.\n\nIts multiple attack penalty doesn't increase until after it has made all its attacks."
 
   - name: "Create Husk"
-    desc: "`pf2:2` (incapacitation,mental,occult) **Frequency** once per round;\n**Requirements** A corpse is in the butcher booth's space;\n**Effect** The butcher booth rapidly digests a body inside itself to reanimate the corpse, which becomes a mindless undead such as a skeleton or zombie that rises after 1 round. The undead's level is equal to the creature's original level -5 (minimum -1).\nThe creature is under the butcher booth's control, and it does everything possible to defend the butcher booth."
+    desc: "`pf2:2` (incapacitation,mental,occult) **Frequency** once per round;\n\n**Requirements** A corpse is in the butcher booth's space;\n\n**Effect** The butcher booth rapidly digests a body inside itself to reanimate the corpse, which becomes a mindless undead such as a skeleton or zombie that rises after 1 round. The undead's level is equal to the creature's original level -5 (minimum -1).\n\nThe creature is under the butcher booth's control, and it does everything possible to defend the butcher booth."
 
   - name: "Fast Swallow"
-    desc: "`pf2:r`  **Trigger** The butcher booth Grabs a creature;\n**Effect** The butcher booth uses Swallow Whole."
+    desc: "`pf2:r`  **Trigger** The butcher booth Grabs a creature;\n\n**Effect** The butcher booth uses Swallow Whole."
 
   - name: "Mimic Structure"
-    desc: "`pf2:3` (concentrate,polymorph) The butcher booth assumes the shape of any Large, Huge, or Gargantuan object. This changes the butcher booth's texture, overall size, coloration, and visual appearance on the exterior and interior of the butcher booth. It has an automatic result of 39 on Deception checks and DCs to pass as the object that it's mimicking.\nOther creatures can enter the butcher booth's space through any entrances that make up its appearance."
+    desc: "`pf2:3` (concentrate,polymorph) The butcher booth assumes the shape of any Large, Huge, or Gargantuan object. This changes the butcher booth's texture, overall size, coloration, and visual appearance on the exterior and interior of the butcher booth. It has an automatic result of 39 on Deception checks and DCs to pass as the object that it's mimicking.\n\nOther creatures can enter the butcher booth's space through any entrances that make up its appearance."
 
   - name: "[[Bestiary Ability Glossary/Swallow Whole|Swallow Whole]]"
-    desc: "`pf2:1` (attack) Huge, 3d6 + 8 bludgeoning, Rupture 23\n"
+    desc: "`pf2:1` (attack) Huge, 3d6+8 bludgeoning, Rupture 23\n\n* * *\n"
  
+```
+
+```encounter-table
+name: Butcher Booth
+creatures:
+  - 1: Butcher Booth
 ```
 
 

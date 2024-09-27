@@ -11,7 +11,7 @@ license: OGL
 ---
 # Nightbreeze Machine
 ## Item 5
-### [uncommon](uncommon "Uncommon Rarity Trait")[[3-Rules/Rule References/Air]][[clockwork]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[air]][[clockwork]]
 
 
 **Price** 125 gp; 

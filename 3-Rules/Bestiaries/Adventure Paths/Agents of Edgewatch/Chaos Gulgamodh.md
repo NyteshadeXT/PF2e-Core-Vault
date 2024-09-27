@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/chaotic
   - pf2e/creature/type/construct
   - pf2e/creature/type/mindless
+  - pf2eMonster
   - pf2e/creature/level/21
 statblock: inline
 name: "Chaos Gulgamodh"
@@ -22,16 +23,17 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #162: Ruins of the Radiant Siege"
 name: "Chaos Gulgamodh"
 level: "Creature 21"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "grg"
-trait_01: "chaotic"
-trait_02: "construct"
-trait_03: "mindless"
+trait_01: [[chaotic]]
+trait_02: [[construct]]
+trait_03: [[mindless]]
 modifier: 35
 perception:
   - name: "Perception"
     desc: "+35; Darkvision"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Athletics: +40"
@@ -71,14 +73,20 @@ attacks:
     desc: "  Chaos Gulgamodh's body—including the appendages it uses to make melee Strikes—is made of adamantine."
 
   - name: "Cannon Fusillade"
-    desc: "`pf2:2`  Chaos Gulgamodh unleashes a salvo of explosive blasts in a 30-foot cone. Creatures in the area take 10d10 + 20 fire damage (DC 43 Reflex check save).\nOn a failed save, a creature is subjected to a [[Rollable Tables/Warpwaves|Warpwave]] effect. On a critically failed save, a creature is [[Conditions/Stunned 1|Stunned 1]].\nChaos Gulgamodh can't use Cannon Fusillade again for 1d4 rounds."
+    desc: "`pf2:2`  Chaos Gulgamodh unleashes a salvo of explosive blasts in a @Template[cone|distance:30]. Creatures in the area take 10d10+20 fire damage (DC 43 Reflex check save).\n\nOn a failed save, a creature is subjected to a [[Rollable Tables/Warpwaves|Warpwave]] effect. On a critically failed save, a creature is [[Conditions/Stunned|Stunned 1]].\n\nChaos Gulgamodh can't use Cannon Fusillade again for 1d4 rounds."
 
   - name: "[[Bestiary Ability Glossary/Trample|Trample]]"
-    desc: "`pf2:3`  Huge or smaller, foot, DC 43 Reflex check\n"
+    desc: "`pf2:3`  Huge or smaller, foot, DC 43 Reflex check\n\n* * *\n"
 
   - name: "[[Bestiary Ability Glossary/Knockdown|Knockdown]]"
     desc: "`pf2:1`  "
  
+```
+
+```encounter-table
+name: Chaos Gulgamodh
+creatures:
+  - 1: Chaos Gulgamodh
 ```
 
 

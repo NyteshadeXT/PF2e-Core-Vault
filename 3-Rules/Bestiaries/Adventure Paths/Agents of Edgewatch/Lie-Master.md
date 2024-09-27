@@ -10,6 +10,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/fiend
   - pf2e/creature/type/unholy
+  - pf2eMonster
   - pf2e/creature/level/15
 statblock: inline
 name: "Lie-Master"
@@ -27,19 +28,19 @@ level: "Creature 15"
 
 alignment: ""
 size: "huge"
-trait_01: "chaotic"
-trait_02: "demon"
-trait_03: "evil"
-trait_04: "fiend"
-trait_05: "unholy"
+trait_01: [[chaotic]]
+trait_02: [[demon]]
+trait_03: [[evil]]
+trait_04: [[fiend]]
+trait_05: [[unholy]]
 modifier: 26
 perception:
   - name: "Perception"
     desc: "+26; Darkvision, Truesight"
-languages: "Chthonian, Draconic, Empyrean"
+languages: "Chthonian, Draconic, Empyrean; telepathy 100 feet, tongues"
 skills:
   - name: "Skills"
-    desc: "Deception: +28, Diplomacy: +26, Intimidation: +26, Religion: +22, Society: +22, Stealth: +21"
+    desc: "Deception: +30, Diplomacy: +28, Intimidation: +28, Religion: +24, Society: +24, Stealth: +23"
 abilityMods: [7, 2, 7, 3, 3, 7]
 speed: 35 feet
 sourcebook: "_Pathfinder #161: Belly of the Black Whale_"
@@ -59,7 +60,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Truth Vulnerability"
-    desc: "  A glabrezu's lies sustain them, and the truth can destroy them. Whenever a revelation effect counteracts or reveals the glabrezu's illusions or the glabrezu fails a save against an effect that would prevent them from lying (such as zone of truth), the demon takes 3d6 + 4 mental damage. They take this damage only once per effect, even if the effect reveals multiple illusions or prevents multiple lies."
+    desc: "  A glabrezu's lies sustain them, and the truth can destroy them. Whenever a revelation effect counteracts or reveals the glabrezu's illusions or the glabrezu fails a save against an effect that would prevent them from lying (such as zone of truth), the demon takes 3d6+4 mental damage. They take this damage only once per effect, even if the effect reveals multiple illusions or prevents multiple lies."
 
 attacks:
   - name: ""
@@ -83,7 +84,7 @@ attacks:
     desc: "_[[Spells/Demonic Pact|Abyssal Pact]]_"
 
   - name: "Captive Rake"
-    desc: "`pf2:1`  **Requirements** A creature is grabbed in the glabrezu's pincer.\n**Effect** The glabrezu pulls the grabbed creature up to 5 feet closer, then makes two claw Strikes against it. Those Strikes count as one attack when determining a treachery demon's multiple attack penalty, and the penalty doesn't increase until after both Strikes."
+    desc: "`pf2:1`  **Requirements** A creature is grabbed in the glabrezu's pincer.\n* * *\n\n**Effect** The glabrezu pulls the grabbed creature up to 5 feet closer, then makes two claw Strikes against it. Those Strikes count as one attack when determining a treachery demon's multiple attack penalty, and the penalty doesn't increase until after both Strikes."
 
   - name: "Steady Spellcasting"
     desc: "  When a reaction would disrupt a glabrezu's spell, the demon can attempt a DC 17 Flat check check, avoiding the disruption on a success."
@@ -92,7 +93,7 @@ attacks:
     desc: "  A glabrezu can always use Deception when rolling initiative as long as they're aware of at least one opponent before initiative is rolled. When using Deception for initiative, the demon gains a +2 circumstance bonus to Deception."
 
   - name: "Tentacle Trip"
-    desc: "`pf2:r`  **Trigger** A creature within 15 feet of the lie-master uses a manipulate or move action, makes a ranged attack, or leaves a square during a move action it's using\n**Effect** The creature must succeed at a DC 34 Reflex check save or be knocked prone by the lie-master's clockwork tentacles."
+    desc: "`pf2:r`  **Trigger** A creature within 15 feet of the lie-master uses a manipulate or move action, makes a ranged attack, or leaves a square during a move action it's using\n* * *\n\n**Effect** The creature must succeed at a DC 34 Reflex check save or be knocked prone by the lie-master's clockwork tentacles."
 
   - name: "Treacherous Veil"
     desc: "  A glabrezu's [[Spells/Illusory Disguise|Illusory Disguise]] can allow it to appear as a creature of any size."
@@ -101,8 +102,14 @@ attacks:
     desc: " (divine) Once per month, a glabrezu can grant a mortal humanoid the effects of a [[Spells/Miracle|Miracle]] spell granted by an Abyssal patron, though the glabrezu always perverts the [[Spells/Miracle|Miracle]] according to their own treacherous nature."
 
   - name: "Grab"
-    desc: "`pf2:1`  **Requirements** The monster's last action was a success with a Strike that lists Grab in its damage entry, or it has a creature grabbed using this action.\n**Effect** The monster automatically Grabs the target until the end of the monster's next turn. The creature is grabbed by whichever body part the monster attacked with, and that body part can't be used to Strike creatures until the grab is ended. Using Grab extends the duration of the monster's Grab until the end of its next turn for all creatures grabbed by it. A grabbed creature can use the Escape action to get out of the grab, and the Grab ends for a grabbed creatures if the monster moves away from it."
+    desc: "`pf2:1`  **Requirements** The monster's last action was a success with a Strike that lists Grab in its damage entry, or it has a creature grabbed using this action.\n* * *\n\n**Effect** The monster automatically Grabs the target until the end of the monster's next turn. The creature is grabbed by whichever body part the monster attacked with, and that body part can't be used to Strike creatures until the grab is ended. Using Grab extends the duration of the monster's Grab until the end of its next turn for all creatures grabbed by it. A grabbed creature can use the Escape action to get out of the grab, and the Grab ends for a grabbed creatures if the monster moves away from it."
  
+```
+
+```encounter-table
+name: Lie-Master
+creatures:
+  - 1: Lie-Master
 ```
 
 

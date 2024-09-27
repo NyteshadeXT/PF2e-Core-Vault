@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/aberration
   - pf2e/creature/type/amphibious
   - pf2e/creature/type/evil
+  - pf2eMonster
   - pf2e/creature/level/9
 statblock: inline
 name: "Galvo"
@@ -26,14 +27,14 @@ level: "Creature 9"
 
 alignment: ""
 size: "Medium"
-trait_01: "aberration"
-trait_02: "amphibious"
-trait_03: "evil"
+trait_01: [[aberration]]
+trait_02: [[amphibious]]
+trait_03: [[evil]]
 modifier: 17
 perception:
   - name: "Perception"
     desc: "+17; Darkvision"
-languages: "Thalassic"
+languages: "Thalassic; (can&#x27;t speak any language)"
 skills:
   - name: "Skills"
     desc: "Acrobatics: +19, Athletics: +19, Stealth: +19"
@@ -72,6 +73,12 @@ attacks:
   - name: "Swarm Shape"
     desc: "`pf2:1` (concentrate) The galvo collapses into a shapeless swarm of eels. It drops all held, worn, and carried items. While discorporated, the galvo can't use attack actions, but it can move through areas small enough for its individual eels to fit without having to [[Actions/Squeeze|Squeeze]]. It can use Swarm Shape again to coalesce back into its normal form."
  
+```
+
+```encounter-table
+name: Galvo
+creatures:
+  - 1: Galvo
 ```
 
 

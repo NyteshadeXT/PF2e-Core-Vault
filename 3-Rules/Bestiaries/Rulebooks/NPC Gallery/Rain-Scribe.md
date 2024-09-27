@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/good
   - pf2e/creature/type/human
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/4
 statblock: inline
 name: "Rain-Scribe"
@@ -26,10 +27,10 @@ level: "Creature 4"
 
 alignment: ""
 size: "Medium"
-trait_01: "elf"
-trait_02: "good"
-trait_03: "human"
-trait_04: "humanoid"
+trait_01: [[elf]]
+trait_02: [[good]]
+trait_03: [[human]]
+trait_04: [[humanoid]]
 modifier: 13
 perception:
   - name: "Perception"
@@ -72,8 +73,14 @@ attacks:
     desc: "2 Focus Points, DC 21, attack +11; __2nd __  _[[Spells/Tempest Surge|Tempest Surge]]_"
 
   - name: "Chameleon Step"
-    desc: "`pf2:2` (illusion,primal,visual) **Frequency** once per day\n**Requirements** The Rain-Scribe must be in natural terrain.\n**Effect** The Rain-Scribe shifts their coloration and the coloration of their gear to match the surroundings and then immediately [[Actions/Sneak|Sneaks]], even while being observed. The Rain-Scribe must end their movement concealed or behind cover to remain hidden or undetected."
+    desc: "`pf2:2` (illusion,primal,visual) **Frequency** once per day\n\n**Requirements** The Rain-Scribe must be in natural terrain.\n* * *\n\n**Effect** The Rain-Scribe shifts their coloration and the coloration of their gear to match the surroundings and then immediately [[Actions/Sneak|Sneaks]], even while being observed. The Rain-Scribe must end their movement concealed or behind cover to remain hidden or undetected."
  
+```
+
+```encounter-table
+name: Rain-Scribe
+creatures:
+  - 1: Rain-Scribe
 ```
 
 

@@ -12,7 +12,7 @@ license: ORC
 ---
 # Doubling Rings
 ## Item 3
-### [[invested]][[magical]]
+### [[invested]][[3-Rules/Rule References/Magical]]
 
 
 **Price** 50 gp; 

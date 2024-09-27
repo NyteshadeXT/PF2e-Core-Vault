@@ -15,7 +15,7 @@ license: ORC
 ---
 # Decipher Writing
 
-### [[concentrate]][[exploration]][[secret]][[skill]]
+### [[3-Rules/Rule References/Concentrate]][[exploration]][[secret]][[skill]]
 
 **Category** interaction; 
 

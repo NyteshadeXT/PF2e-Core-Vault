@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/human
   - pf2e/creature/type/humanoid
   - pf2e/creature/type/lawful
+  - pf2eMonster
   - pf2e/creature/level/11
 statblock: inline
 name: "Blade Magus"
@@ -23,13 +24,13 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #190: The Choosing"
 name: "Blade Magus"
 level: "Creature 11"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Medium"
-trait_01: "evil"
-trait_02: "human"
-trait_03: "humanoid"
-trait_04: "lawful"
+trait_01: [[evil]]
+trait_02: [[human]]
+trait_03: [[humanoid]]
+trait_04: [[lawful]]
 modifier: 18
 perception:
   - name: "Perception"
@@ -72,14 +73,20 @@ attacks:
     desc: "1 Focus Point, DC 30, attack +22; __6th __  _[[Spells/Thunderous Strike|Thunderous Strike]]_"
 
   - name: "Arcane Cascade"
-    desc: "`pf2:1` (concentrate,stance) **Requirements** The Blade magi can enter this stance if their most recent action was to Cast a Spell or make a Spellstrike, but the Blade magi can remain in the stance even if they no longer meet the requirements\n**Effect** When the Blade magi enters this stance and at the beginning of each of their turns while in it, the Blade magi gains 5 temporary Hit Points. While in this stance, the Blade magi's melee Strikes gain the arcane trait, deal an extra 2 force damage, and deal 4 splash force damage to foes adjacent to the target."
+    desc: "`pf2:1` (concentrate,stance) **Requirements** The Blade magi can enter this stance if their most recent action was to Cast a Spell or make a Spellstrike, but the Blade magi can remain in the stance even if they no longer meet the requirements\n* * *\n\n**Effect** When the Blade magi enters this stance and at the beginning of each of their turns while in it, the Blade magi gains 5 temporary Hit Points. While in this stance, the Blade magi's melee Strikes gain the arcane trait, deal an extra 2 force damage, and deal 4 splash force damage to foes adjacent to the target."
 
   - name: "Capture Magic"
-    desc: "`pf2:r`  **Trigger** The Blade magi succeeds at a save against a foe's harmful spell, or a foe fails a spell attack roll against the Blade magi with a harmful spell\n**Effect** The Blade magi enters their Arcane Cascade. If the Blade magi is already in Arcane Cascade, they gain a +2 status bonus to damage from Arcane Cascade until the end of their next turn.\n[[Bestiary Effects/Effect_ Capture Magic|Effect: Capture Magic]]"
+    desc: "`pf2:r`  **Trigger** The Blade magi succeeds at a save against a foe's harmful spell, or a foe fails a spell attack roll against the Blade magi with a harmful spell\n* * *\n\n**Effect** The Blade magi enters their Arcane Cascade. If the Blade magi is already in Arcane Cascade, they gain a +2 status bonus to damage from Arcane Cascade until the end of their next turn.\n\n[[Bestiary Effects/Effect_ Capture Magic|Effect: Capture Magic]]"
 
   - name: "Spellstrike"
     desc: "`pf2:2`  The Blade magi channels a spell into a melee Strike to deliver a magically charged attack. The Blade magi casts [[Spells/Acid Splash|Acid Splash]], [[Spells/Ray of Frost|Ray of Frost]], or [[Spells/Vampiric Feast|Vampiric Feast]]. The effects of the spell don't occur immediately but are imbued into the Blade magi's attack instead. The Blade magi makes a melee Strike, which gains the arcane trait. The spell is coupled with the attack, using the Blade magi's attack roll to determine the effects of both the Strike and the spell. This counts as two attacks for their multiple attack penalty, but the penalty isn't applied until after the magus has completed the Spellstrike. After using Spellstrike, the Blade magi can't do so again until they recharge this ability as a single action, which has the concentrate trait. The Blade magi also recharges their Spellstrike when they cast [[Spells/Thunderous Strike|Thunderous Strike]]."
  
+```
+
+```encounter-table
+name: Blade Magus
+creatures:
+  - 1: Blade Magus
 ```
 
 

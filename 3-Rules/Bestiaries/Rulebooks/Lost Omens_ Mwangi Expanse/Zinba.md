@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.lost-omens-mwangi-expanse-bestiary.Actor.rBlu1EsygXwCk
 tags:
   - pf2e/creature/type/amphibious
   - pf2e/creature/type/beast
+  - pf2eMonster
   - pf2e/creature/level/10
 statblock: inline
 name: "Zinba"
@@ -21,16 +22,16 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Lost Omens: The Mwangi Expanse"
 name: "Zinba"
 level: "Creature 10"
-rare_03: "Rare"
+rare_03: [[Rare]]
 alignment: ""
 size: "Large"
-trait_01: "amphibious"
-trait_02: "beast"
+trait_01: [[amphibious]]
+trait_02: [[beast]]
 modifier: 20
 perception:
   - name: "Perception"
     desc: "+20; Low-Light Vision, Scent (Imprecise) 60 Feet"
-languages: "Fey"
+languages: "Fey; (can&#x27;t speak any language)"
 skills:
   - name: "Skills"
     desc: "Acrobatics: +18, Athletics: +25, Stealth: +18, Survival: +18"
@@ -52,7 +53,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Tighten Coils"
-    desc: "`pf2:r`  **Trigger** A creature grabbed or restrained by the zinba attempts to Escape\n**Effect** The DC of the Escape check is increased by 2."
+    desc: "`pf2:r`  **Trigger** A creature grabbed or restrained by the zinba attempts to Escape\n* * *\n\n**Effect** The DC of the Escape check is increased by 2."
 
 attacks:
   - name: ""
@@ -64,19 +65,19 @@ attacks:
     desc: "`pf2:1` Tail +21 (agile, reach 10 feet)\n__Damage__  2d8 + 9 bludgeoning plus push"
 
   - name: "[[Bestiary Ability Glossary/Greater Constrict|Greater Constrict]]"
-    desc: "`pf2:1`  2d10 + 6 bludgeoning damage, DC 29 Fortitude check\n"
+    desc: "`pf2:1`  2d10+6 bludgeoning damage, DC 29 Fortitude check\n\n* * *\n"
 
   - name: "Slither"
     desc: "`pf2:1`  The zinba Strides, Climbs, or Swims up to half its Speed, pulling any creatures it has grabbed with it."
 
   - name: "[[Bestiary Ability Glossary/Swallow Whole|Swallow Whole]]"
-    desc: "`pf2:1` (attack) Medium, 2d10 + 6 bludgeoning damage, Rupture 23\n"
+    desc: "`pf2:1` (attack) Medium, 2d10+6 bludgeoning damage, Rupture 23\n\n* * *\n"
 
   - name: "Zinba Restoration"
-    desc: "`pf2:1` (vitality) The zinba bites a creature within reach and delivers a restorative healing remedy instead of its venom. The creature takes 1 piercing damage, but then gains fast healing 5 for 1 minute.\nIn addition, the restorative attempts a counteract check against any poison or disease affecting the creature with a counteract modifier of +22.\nA creature that receives the restorative is temporarily immune to the zinba's restorative for 24 hours.\n[[Bestiary Effects/Effect_ Zinba Restoration|Effect: Zinba Restoration]]"
+    desc: "`pf2:1` (vitality) The zinba bites a creature within reach and delivers a restorative healing remedy instead of its venom. The creature takes 1 piercing damage, but then gains fast healing 5 for 1 minute.\n\nIn addition, the restorative attempts a counteract check against any poison or disease affecting the creature with a counteract modifier of +22.\n\nA creature that receives the restorative is temporarily immune to the zinba's restorative for 24 hours.\n\n[[Bestiary Effects/Effect_ Zinba Restoration|Effect: Zinba Restoration]]"
 
   - name: "Zinba Venom"
-    desc: " (poison) **Saving Throw** DC 29 Fortitude check\n**Maximum Duration** 6 rounds\n**Stage 1** 3d6 poison damage (1 round)\n**Stage 2** 4d6 poison damage and [[Conditions/Drained 1|Drained 1]]"
+    desc: " (poison) **Saving Throw** DC 29 Fortitude check\n\n**Maximum Duration** 6 rounds\n\n**Stage 1** 3d6 poison damage (1 round)\n\n**Stage 2** 4d6 poison damage and [[Conditions/Drained|Drained 1]]"
 
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
     desc: "`pf2:1`  "
@@ -84,6 +85,12 @@ attacks:
   - name: "[[Bestiary Ability Glossary/Push|Push 10 feet]]"
     desc: "`pf2:1`  "
  
+```
+
+```encounter-table
+name: Zinba
+creatures:
+  - 1: Zinba
 ```
 
 

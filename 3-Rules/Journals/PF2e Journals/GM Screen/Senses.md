@@ -24,7 +24,7 @@ A character also has many vague senses—ones that can alert you that something 
 
 When one creature might detect another, the GM almost always uses the most precise sense available.
 
-Pathfinder's rules assume that a given creature has vision as its only precise sense and hearing as its only imprecise sense. Some characters and creatures, however, have precise or imprecise senses that don't match this assumption. For instance, a character with poor vision might treat that sense as imprecise, an animal with the scent ability can use its sense of smell as an imprecise sense, and a creature with echolocation or a similar ability can use hearing as a precise sense. Such senses are often given special names and appear as “echolocation (precise),” “scent (imprecise) 30 feet,” or the like.
+Pathfinder's rules assume that a given creature has vision as its only precise sense and hearing as its only imprecise sense. Some characters and creatures, however, have precise or imprecise senses that don't match this assumption. For instance, a character with poor vision might treat that sense as imprecise, an animal with the scent ability can use its sense of smell as an imprecise sense, and a creature with echolocation or a similar ability can use hearing as a precise sense. Such senses are often given special names and appear as "echolocation (precise)," "scent (imprecise) 30 feet," or the like.
 
 # Special Senses
 

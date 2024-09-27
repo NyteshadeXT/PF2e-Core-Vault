@@ -6,6 +6,7 @@ cssClasses: pf2e
 aliases: "Compendium.pf2e.pathfinder-bestiary-3.Actor.nr4E59Xu10nWYsyO" 
 tags:
   - pf2e/creature/type/animal
+  - pf2eMonster
   - pf2e/creature/level/1
 statblock: inline
 name: "Giant Skunk"
@@ -24,11 +25,12 @@ level: "Creature 1"
 
 alignment: ""
 size: "Large"
-trait_01: "animal"
+trait_01: [[animal]]
 modifier: 6
 perception:
   - name: "Perception"
     desc: "+6; Low-Light Vision, Scent (Imprecise) 40 Feet"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Acrobatics: +7, Athletics: +6, Stealth: +7"
@@ -59,8 +61,14 @@ attacks:
     desc: "`pf2:1` Claw +8 (agile)\n__Damage__  1d4 + 3 slashing"
 
   - name: "Spray Blinding Musk"
-    desc: "`pf2:2` (poison) The giant skunk propels potent, acrid musk in a 15-foot cone. Each creature in the line must attempt a DC 17 Fortitude check save.\n**Critical Success** The target is unaffected.\n**Success** The target is [[Conditions/Sickened 1|Sickened 1]].\n**Failure** The target is [[Conditions/Sickened 1|Sickened 3]].\n**Critical Failure** The target is [[Conditions/Blinded|Blinded]] for 1 round, becomes [[Conditions/Sickened 1|Sickened 3]], and takes a -2 penalty to Stealth checks from the horrific odor for 24 hours or until the musk is removed or neutralized, requiring 10 minutes of thorough scrubbing with soap.\n[[Bestiary Effects/Effect_ Musk|Effect: Musk]]"
+    desc: "`pf2:2` (poison) The giant skunk propels potent, acrid musk in a @Template[cone|distance:15]. Each creature in the line must attempt a DC 17 Fortitude check save.\n* * *\n\n**Critical Success** The target is unaffected.\n\n**Success** The target is [[Conditions/Sickened|Sickened 1]].\n\n**Failure** The target is [[Conditions/Sickened|Sickened 3]].\n\n**Critical Failure** The target is [[Conditions/Blinded|Blinded]] for 1 round, becomes [[Conditions/Sickened|Sickened 3]], and takes a -2 penalty to Stealth checks from the horrific odor for 24 hours or until the musk is removed or neutralized, requiring 10 minutes of thorough scrubbing with soap.\n\n[[Bestiary Effects/Effect_ Musk|Effect: Musk]]"
  
+```
+
+```encounter-table
+name: Giant Skunk
+creatures:
+  - 1: Giant Skunk
 ```
 
 

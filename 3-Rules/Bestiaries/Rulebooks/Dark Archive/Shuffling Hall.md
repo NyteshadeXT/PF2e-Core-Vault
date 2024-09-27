@@ -5,6 +5,7 @@ noteType: pf2eHazard
 tags:
   - mechanical
   - trap
+  - pf2eHazard
 
 source: Pathfinder Dark Archive
 aliases: "Compendium.pf2e.pathfinder-dark-archive.Actor.NGV18Lovi4HsjJOc" 
@@ -22,14 +23,14 @@ name: "Shuffling Hall"
 level: "Hazard -1"
 
 
-trait_01: "mechanical"
-trait_02: "trap"
+trait_01: [[mechanical]]
+trait_02: [[trap]]
 modifier: 5
 sourcebook: "_Pathfinder Dark Archive_"
 ac: 18
 armorclass:
   - name: AC
-    desc: "18; __Fort__ +2, __Ref__ +5, __Will__ +0"
+    desc: "18; __Fort__ +2, __Ref__ +5, "
 hp: 12
 health:
   - name: ""
@@ -51,10 +52,16 @@ attacks:
   - name: ""
 
   - name: "Flip"
-    desc: "`pf2:r` **Trigger** A creature steps on a pressure plate\n**Effect** The floor and adjoining wall rotate up and over on a central axle, tipping the triggering creature into an adjacent featureless room and simultaneously replacing the pressure plate and wall with another set on the same axle. The triggering creature is pushed into an adjoining room, takes 1d8 bludgeoning damage, and lands [[Conditions/Prone|Prone]]. A creature who succeeds at a DC 19 Reflex check save takes no damage and rolls out of the way of the trap, returning to the space they were in before stepping on the pressure plate."
+    desc: "`pf2:r` **Trigger** A creature steps on a pressure plate\n* * *\n\n**Effect** The floor and adjoining wall rotate up and over on a central axle, tipping the triggering creature into an adjacent featureless room and simultaneously replacing the pressure plate and wall with another set on the same axle. The triggering creature is pushed into an adjoining room, takes 1d8 bludgeoning damage, and lands [[Conditions/Prone|Prone]]. A creature who succeeds at a DC 19 Reflex check save takes no damage and rolls out of the way of the trap, returning to the space they were in before stepping on the pressure plate."
 
 
   - name: "Reset"
     desc: ""
+```
+
+```encounter-table
+name: Shuffling Hall
+creatures:
+  - 1: Shuffling Hall
 ```
 

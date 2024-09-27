@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/fey
   - pf2e/creature/type/human
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/5
 statblock: inline
 name: "Webhekiz (5-6)"
@@ -22,12 +23,12 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Society Scenario #1-17: The Perennial Crown Part 2, The Thorned Monarch"
 name: "Webhekiz (5-6)"
 level: "Creature 5"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Medium"
-trait_01: "fey"
-trait_02: "human"
-trait_03: "humanoid"
+trait_01: [[fey]]
+trait_02: [[human]]
+trait_03: [[humanoid]]
 modifier: 14
 perception:
   - name: "Perception"
@@ -35,7 +36,7 @@ perception:
 languages: "Common, Fey, Mwangi"
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +11, Bhopan Lore: +17, Diplomacy: +13, Heraldry Lore: +15, Nature: +12, Society: +12"
+    desc: "Acrobatics: +11, Diplomacy: +13, Nature: +12, Society: +12, Bhopan Lore: +17, Heraldry Lore: +15"
 abilityMods: [3, 1, 1, 2, 2, 3]
 speed: 25 feet
 sourcebook: "_Pathfinder Society Scenario #1-17: The Perennial Crown Part 2, The Thorned Monarch_"
@@ -64,11 +65,17 @@ attacks:
     desc: "DC 22, attack +14; __3rd __ (2 slots) _[[Spells/Lightning Bolt|Lightning Bolt]]_, _[[Spells/Wall of Thorns|Wall of Thorns]]_; __2nd __ (3 slots) _[[Spells/Acid Arrow|Acid Arrow]]_, _[[Spells/Oaken Resilience|Barkskin]]_, _[[Spells/Entangling Flora|Entangle]]_; __1st __ (4 slots) _[[Spells/Heal|Heal]]_, _[[Spells/Shillelagh|Shillelagh]]_, _[[Spells/Shocking Grasp|Shocking Grasp]]_\n__Cantrips__  __(3rd)__ _[[Spells/Acid Splash|Acid Splash]]_, _[[Compendium.pf2e.spells-srd.Item.kl2q6JvBZwed4B6v|Dancing Lights]]_, _[[Spells/Know the Way|Know Direction]]_, _[[Spells/Produce Flame|Produce Flame]]_, _[[Spells/Tangle Vine|Tanglefoot]]_"
 
   - name: "Bespell Primal Weapon"
-    desc: "  **Frequency** once per turn\n**Requirements** Webhekiz's most recent action was to cast a non-cantrip spell. Effect Webhekiz channels primal energy into his scepter or another wooden weapon, causing it to bloom a poisonous flower or sprout prickly thorns. Until the end of Webhekiz's turn, the weapon deals an extra 1d6 poison or 1d6 piercing damage."
+    desc: "  **Frequency** once per turn\n\n**Requirements** Webhekiz's most recent action was to cast a non-cantrip spell. Effect Webhekiz channels primal energy into his scepter or another wooden weapon, causing it to bloom a poisonous flower or sprout prickly thorns. Until the end of Webhekiz's turn, the weapon deals an extra 1d6 poison or 1d6 piercing damage."
 
   - name: "Squad Tactics"
     desc: "`pf2:1` (auditory,linguistic) Webhekiz directs his guards to a more strategic position. Each guard can spend their reaction to Stride."
  
+```
+
+```encounter-table
+name: Webhekiz (5-6)
+creatures:
+  - 1: Webhekiz (5-6)
 ```
 
 

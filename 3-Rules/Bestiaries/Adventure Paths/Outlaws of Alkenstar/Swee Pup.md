@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/construct
   - pf2e/creature/type/lawful
   - pf2e/creature/type/soulbound
+  - pf2eMonster
   - pf2e/creature/level/2
 statblock: inline
 name: "Swee Pup"
@@ -22,12 +23,12 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #179: Cradle of Quartz"
 name: "Swee Pup"
 level: "Creature 2"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "tiny"
-trait_01: "construct"
-trait_02: "lawful"
-trait_03: "soulbound"
+trait_01: [[construct]]
+trait_02: [[lawful]]
+trait_03: [[soulbound]]
 modifier: 8
 perception:
   - name: "Perception"
@@ -68,6 +69,12 @@ attacks:
   - name: "Occult Innate Spells"
     desc: "DC 18, attack +8; __3rd __  _[[Spells/Levitate|Levitate]]_, _[[Spells/Veil of Privacy|Nondetection]]_\n__Cantrips__  __(1st)__ _[[Spells/Light|Light]]_, _[[Spells/Telekinetic Hand|Mage Hand]]_, _[[Spells/Prestidigitation|Prestidigitation]]_"
  
+```
+
+```encounter-table
+name: Swee Pup
+creatures:
+  - 1: Swee Pup
 ```
 
 

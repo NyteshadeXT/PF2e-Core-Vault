@@ -8,13 +8,13 @@ tags:
 ---
 # Pointy End goes There
 
-> You become [[Conditions/Wounded 1|Wounded 1]] or your wounded value increases by 1.
+> You become [[Conditions/Wounded|Wounded 1]] or your wounded value increases by 1.
 
 `Melee`
 
 # Tunnel Vision
 
-> For 3 rounds, you gain a [[Other Effects/Effect\_ +1 circumstance bonus to attack rolls for 3 rounds|+1 circumstance bonus to attack rolls]], but you are [[Conditions/Off-Guard|Off-Guard]].
+> For 3 rounds, you gain a [[Other Effects/Effect_ +1 circumstance bonus to attack rolls for 3 rounds|+1 circumstance bonus to attack rolls]], but you are [[Conditions/Off-Guard|Off-Guard]].
 
 `Ranged`
 

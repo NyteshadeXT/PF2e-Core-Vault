@@ -10,6 +10,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/fey
   - pf2e/creature/type/gremlin
+  - pf2eMonster
   - pf2e/creature/level/1
 statblock: inline
 name: "Fuath"
@@ -28,11 +29,11 @@ level: "Creature 1"
 
 alignment: ""
 size: "tiny"
-trait_01: "aquatic"
-trait_02: "chaotic"
-trait_03: "evil"
-trait_04: "fey"
-trait_05: "gremlin"
+trait_01: [[aquatic]]
+trait_02: [[chaotic]]
+trait_03: [[evil]]
+trait_04: [[fey]]
+trait_05: [[gremlin]]
 modifier: 8
 perception:
   - name: "Perception"
@@ -40,7 +41,7 @@ perception:
 languages: "Thalassic"
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +7, Deception: +4, Nature: +6, Sailing Lore: +6, Stealth: +7, Thievery: +7"
+    desc: "Acrobatics: +7, Deception: +4, Nature: +6, Stealth: +7, Thievery: +7, Sailing Lore: +6"
 abilityMods: [1, 4, 2, 1, 3, -1]
 speed: 20 feet,  swim 30 feet
 sourcebook: "_Pathfinder Bestiary 3_"
@@ -60,7 +61,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Vulnerable to Sunlight"
-    desc: "  A fuath becomes [[Conditions/Drained 1|Drained 1]] (or increases its drained condition by 1) after every consecutive hour they're exposed to sunlight.\nBeing submerged in more than a foot of water prevents the sunlight from harming the fuath."
+    desc: "  A fuath becomes [[Conditions/Drained|Drained 1]] (or increases its drained condition by 1) after every consecutive hour they're exposed to sunlight.\n\nBeing submerged in more than a foot of water prevents the sunlight from harming the fuath."
 
 attacks:
   - name: ""
@@ -75,8 +76,14 @@ attacks:
     desc: "DC 17, attack +9; __1st __  _[[Spells/Create Water|Create Water]]_, _[[Spells/Sleep|Sleep]]_\n__Cantrips__  __(1st)__ _[[Spells/Prestidigitation|Prestidigitation]]_"
 
   - name: "Viscous Choke"
-    desc: "`pf2:2` (primal,water) **Frequency** once per day\n**Effect** The fuath surrounds the head of one air-breathing creature within 30 feet in a magical film of viscous water for 1 minute. The target must succeed at a DC 17 Reflex check save or begin to choke and must hold their breath to avoid drowning.\nThe film can be temporarily wiped away with a total of 3 Interact actions by the choking creature or creatures adjacent to it, allowing a new Reflex save with a +2 circumstance bonus to end the effect. (These actions don't need to be consecutive or made by the same creature.)"
+    desc: "`pf2:2` (primal,water) **Frequency** once per day\n* * *\n\n**Effect** The fuath surrounds the head of one air-breathing creature within 30 feet in a magical film of viscous water for 1 minute. The target must succeed at a DC 17 Reflex check save or begin to choke and must hold their breath to avoid drowning.\n\nThe film can be temporarily wiped away with a total of 3 Interact actions by the choking creature or creatures adjacent to it, allowing a new Reflex save with a +2 circumstance bonus to end the effect. (These actions don't need to be consecutive or made by the same creature.)"
  
+```
+
+```encounter-table
+name: Fuath
+creatures:
+  - 1: Fuath
 ```
 
 

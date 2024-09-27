@@ -7,8 +7,9 @@ tags:
   - trait/skill
   - trait/common
   - category/skill
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.voYr7ygVcWmlg1f4"
-license: OGL
+license: ORC
 ---
 # Crafter's Appraisal
 ## Feat 1
@@ -22,5 +23,5 @@ license: OGL
 * * *
 Your knowledge of items' construction allows you to discern their magical effects as well. You can use Crafting instead of a skill associated with a magic tradition to [[Actions/Identify Magic|Identify Magic]] on magic items, though not on any other sorts of magic.
 
-*Source: Pathfinder Advanced Player's Guide*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

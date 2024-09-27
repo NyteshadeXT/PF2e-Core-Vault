@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/celestial
   - pf2e/creature/type/good
   - pf2e/creature/type/holy
+  - pf2eMonster
   - pf2e/creature/level/5
 statblock: inline
 name: "Stone Spider"
@@ -22,20 +23,20 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #196: The Summer That Never Was"
 name: "Stone Spider"
 level: "Creature 5"
-rare_03: "Rare"
+rare_03: [[Rare]]
 alignment: ""
 size: "Large"
-trait_01: "celestial"
-trait_02: "good"
-trait_03: "holy"
+trait_01: [[celestial]]
+trait_02: [[good]]
+trait_03: [[holy]]
 modifier: 14
 perception:
   - name: "Perception"
     desc: "+14; Darkvision"
-languages: "Common, Empyrean"
+languages: "Common, Empyrean; telepathy 60 feet"
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +12, Athletics: +13, Intimidation: +9, Religion: +14, Settlement Lore (Regarding their Home Settlement): +12, Society: +10"
+    desc: "Acrobatics: +12, Athletics: +13, Intimidation: +9, Religion: +14, Society: +10, Settlement Lore (Regarding their Home Settlement): +12"
 abilityMods: [4, 5, 3, 1, 5, 0]
 speed:  fly 40 feet
 sourcebook: "_Pathfinder #196: The Summer That Never Was_"
@@ -72,7 +73,7 @@ attacks:
     desc: "DC 21, attack +13; __3rd __  _[[Spells/Dream Message|Dream Message]]_; __1st __  _[[Spells/Detect Alignment|Detect Alignment (At Will, Evil Only)]]_"
 
   - name: "Inhabit Vessel"
-    desc: "`pf2:2` (manipulate) The spider touches and melds with its bonded vessel, bringing it to life. It can cease Inhabiting its Vessel by spending a single action, which has the concentrate trait. While Inhabiting the Vessel, it loses its fly Speed and gains\n**Immunities** healing, nonlethal\n**Resistances** physical 6 (except bludgeoning)\n**Speed** 25 feet, climb 25 feet\nand the following Strike.\n*   Melee `pf2:1` stone fangs +14 (finesse), Damage 2d8+7 piercing"
+    desc: "`pf2:2` (manipulate) The spider touches and melds with its bonded vessel, bringing it to life. It can cease Inhabiting its Vessel by spending a single action, which has the concentrate trait. While Inhabiting the Vessel, it loses its fly Speed and gains\n\n**Immunities** healing, nonlethal\n\n**Resistances** physical 6 (except bludgeoning)\n\n**Speed** 25 feet, climb 25 feet\n\nand the following Strike.\n\n*   Melee `pf2:1` stone fangs +14 (finesse), Damage 2d8+7 piercing"
 
   - name: "Spirit Body"
     desc: "  When not Inhabiting its Vessel, the stone spider is incorporeal and gains resistance 6 to all damage (except force damage and ghost touch; double resistance against non-magical)."
@@ -80,6 +81,12 @@ attacks:
   - name: "Spirit Web Trap"
     desc: " (force) A creature hit by the stone spider's web attack is [[Conditions/Immobilized|Immobilized]] and stuck to the nearest surface until it Escapes (DC 22)."
  
+```
+
+```encounter-table
+name: Stone Spider
+creatures:
+  - 1: Stone Spider
 ```
 
 

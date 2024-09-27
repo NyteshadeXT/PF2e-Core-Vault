@@ -6,6 +6,7 @@ tags:
   - magical
   - mechanical
   - trap
+  - pf2eHazard
 
   - remaster
 source: Pathfinder GM Core
@@ -24,15 +25,15 @@ name: "Hammer Of Forbiddance"
 level: "Hazard 11"
 
 
-trait_01: "magical"
-trait_02: "mechanical"
-trait_03: "trap"
+trait_01: [[magical]]
+trait_02: [[mechanical]]
+trait_03: [[trap]]
 modifier: 20
 sourcebook: "_Pathfinder GM Core_"
 ac: 32
 armorclass:
   - name: AC
-    desc: "32; __Fort__ +24, __Ref__ +15, __Will__ +0"
+    desc: "32; __Fort__ +24, __Ref__ +15, "
 hp: 88
 health:
   - name: ""
@@ -54,12 +55,18 @@ attacks:
   - name: ""
 
   - name: "Forbid Entry"
-    desc: "`pf2:r` (attack, divine) **Trigger** A creature attempts to enter through the entrance.\n**Effect** The hammer swings down, making a Strike against the triggering creature."
+    desc: "`pf2:r` (attack, divine) **Trigger** A creature attempts to enter through the entrance.\n* * *\n\n**Effect** The hammer swings down, making a Strike against the triggering creature."
   - name: "Melee"
     desc: "Hammer +28 () On a hit, the target is knocked back 10 feet and must succeed at a DC 30 Will check or be unable to enter the edifice through any entrance for 24 hours (on a critical hit, the target automatically fails the Will save); no multiple attack penalty"
 
 
   - name: "Reset"
     desc: "The trap resets over the course of the round, and is ready to swing again 1 round later."
+```
+
+```encounter-table
+name: Hammer Of Forbiddance
+creatures:
+  - 1: Hammer Of Forbiddance
 ```
 

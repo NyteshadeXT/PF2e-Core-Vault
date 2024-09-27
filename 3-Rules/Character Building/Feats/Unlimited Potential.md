@@ -25,7 +25,7 @@ license: OGL
 
 * * *
 
-The laws of magic can limit your mind only if you think you need them, and you've grown past the need for such limits. If your next action is to [[Actions/Cast a Spell|Cast a Spell]] of 5th level or lower that has no duration, you don't expend the prepared spell as you cast it.
+The laws of magic can limit your mind only if you think you need them, and you've grown past the need for such limits. If your next action is to [[Actions/Cast a Spell|Cast a Spell]] of 5th rank or lower that has no duration, you don't expend the prepared spell as you cast it.
 
 *Source: Pathfinder Dark Archive*
 *OGL*

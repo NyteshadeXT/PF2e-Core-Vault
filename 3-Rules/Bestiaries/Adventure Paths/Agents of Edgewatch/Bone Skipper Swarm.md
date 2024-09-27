@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.agents-of-edgewatch-bestiary.Actor.5u7luLMeRNJ4en65"
 tags:
   - pf2e/creature/type/animal
   - pf2e/creature/type/swarm
+  - pf2eMonster
   - pf2e/creature/level/6
 statblock: inline
 name: "Bone Skipper Swarm"
@@ -21,15 +22,16 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #158: Sixty Feet Under"
 name: "Bone Skipper Swarm"
 level: "Creature 6"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Large"
-trait_01: "animal"
-trait_02: "swarm"
+trait_01: [[animal]]
+trait_02: [[swarm]]
 modifier: 17
 perception:
   - name: "Perception"
     desc: "+17; Darkvision"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Acrobatics: +17"
@@ -57,11 +59,17 @@ attacks:
   - name: ""
 
   - name: "Marrow Rot"
-    desc: " (disease) Marrow rot affects only creatures with a skeletal system\n**Saving Throw** DC 24 Fortitude check\n**Onset** 1 day\n**Stage 1** [[Conditions/Enfeebled 1|Enfeebled 1]] (1 day)\n**Stage 2** [[Conditions/Enfeebled 1|Enfeebled 2]] (1 day)\n**Stage 3** [[Conditions/Enfeebled 1|Enfeebled 2]] and [[Conditions/Drained 1|Drained 1]] (1 day)"
+    desc: " (disease) Marrow rot affects only creatures with a skeletal system\n\n**Saving Throw** DC 24 Fortitude check\n\n**Onset** 1 day\n\n**Stage 1** [[Conditions/Enfeebled|Enfeebled 1]] (1 day)\n\n**Stage 2** [[Conditions/Enfeebled|Enfeebled 2]] (1 day)\n\n**Stage 3** [[Conditions/Enfeebled|Enfeebled 2]] and [[Conditions/Drained|Drained 1]] (1 day)"
 
   - name: "Swarming Bites"
     desc: "`pf2:1`  Each enemy in the swarm's space takes 3d6 piercing damage (DC 24 Reflex check) save plus exposure to marrow rot."
  
+```
+
+```encounter-table
+name: Bone Skipper Swarm
+creatures:
+  - 1: Bone Skipper Swarm
 ```
 
 

@@ -4,6 +4,7 @@ obsidianUIMode: preview
 noteType: pf2eHazard
 tags:
   - environmental
+  - pf2eHazard
 
 source: Pathfinder Kingmaker
 aliases: "Compendium.pf2e.kingmaker-bestiary.Actor.EI8wQc9kzooDHQoJ" 
@@ -21,7 +22,7 @@ name: "Weakened Floor"
 level: "Hazard 5"
 
 
-trait_01: "environmental"
+trait_01: [[environmental]]
 modifier: 16
 sourcebook: "_Pathfinder Kingmaker_"
 perception:
@@ -40,9 +41,15 @@ attacks:
   - name: ""
 
   - name: "Floor Collapse"
-    desc: "`pf2:r` **Trigger** A Small or larger creature enters the marked portion of the map\n**Effect** The triggering creature falls, taking 20 damage from the fall plus 3d6 piercing damage (DC 22 Reflex check) from the stalagmites. A creature can [[Actions/Grab an Edge|Grab an Edge]] to avoid falling, or succeed at a DC 20 Athletics check check to climb out of the chasm."
+    desc: "`pf2:r` **Trigger** A Small or larger creature enters the marked portion of the map\n* * *\n\n**Effect** The triggering creature falls, taking 20 damage from the fall plus 3d6 piercing damage (DC 22 Reflex check) from the stalagmites. A creature can [[Actions/Grab an Edge|Grab an Edge]] to avoid falling, or succeed at a DC 20 Athletics check check to climb out of the chasm."
 
 
 
+```
+
+```encounter-table
+name: Weakened Floor
+creatures:
+  - 1: Weakened Floor
 ```
 

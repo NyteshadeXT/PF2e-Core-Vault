@@ -14,7 +14,7 @@ license: OGL
 ---
 # Fu Water
 ## Item 5
-### [[consumable]][[divine]][[potion]][[splash]]
+### [[consumable]][[3-Rules/Rule References/Divine]][[potion]][[splash]]
 
 **Category** potion; 
 **Price** 21 gp; 
@@ -37,7 +37,7 @@ Burnt fulu ashes float in this liquid, lending a distinctive red color and impar
 
 * * *
 
-**Effect** You drink the fu water to counteract ailments within yourself. Attempt a counteract check with a +9 counteract modifier and a counteract rank of 3 against one effect that imposes the [[Conditions/Confused|Confused]], [[Conditions/Fascinated|Fascinated]], [[Conditions/Frightened 1|Frightened]], or [[Conditions/Stupefied 1|Stupefied]] condition. You are then [[Conditions/Sickened 1|Sickened 1]].
+**Effect** You drink the fu water to counteract ailments within yourself. Attempt a counteract check with a +9 counteract modifier and a counteract rank of 3 against one effect that imposes the [[Conditions/Confused|Confused]], [[Conditions/Fascinated|Fascinated]], [[Conditions/Frightened|Frightened]], or [[Conditions/Stupefied|Stupefied]] condition. You are then [[Conditions/Sickened|Sickened 1]].
 
 *Source: Pathfinder Secrets of Magic*
 *OGL*

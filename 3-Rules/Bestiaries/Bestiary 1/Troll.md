@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/giant
   - pf2e/creature/type/troll
+  - pf2eMonster
   - pf2e/creature/level/5
 statblock: inline
 name: "Troll"
@@ -27,10 +28,10 @@ level: "Creature 5"
 
 alignment: ""
 size: "Large"
-trait_01: "chaotic"
-trait_02: "evil"
-trait_03: "giant"
-trait_04: "troll"
+trait_01: [[chaotic]]
+trait_02: [[evil]]
+trait_03: [[giant]]
+trait_04: [[troll]]
 modifier: 11
 perception:
   - name: "Perception"
@@ -69,8 +70,14 @@ attacks:
     desc: "`pf2:1` Claw +14 (agile, reach 10 feet)\n__Damage__  2d8 + 5 slashing"
 
   - name: "[[Bestiary Ability Glossary/Rend|Rend]]"
-    desc: "`pf2:1`  claw\n"
+    desc: "`pf2:1`  claw\n\n* * *\n"
  
+```
+
+```encounter-table
+name: Troll
+creatures:
+  - 1: Troll
 ```
 
 

@@ -10,6 +10,7 @@ tags:
   - pf2e/creature/type/good
   - pf2e/creature/type/holy
   - pf2e/creature/type/lawful
+  - pf2eMonster
   - pf2e/creature/level/19
 statblock: inline
 name: "Star Archon"
@@ -28,16 +29,16 @@ level: "Creature 19"
 
 alignment: ""
 size: "Medium"
-trait_01: "archon"
-trait_02: "celestial"
-trait_03: "good"
-trait_04: "holy"
-trait_05: "lawful"
+trait_01: [[archon]]
+trait_02: [[celestial]]
+trait_03: [[good]]
+trait_04: [[holy]]
+trait_05: [[lawful]]
 modifier: 35
 perception:
   - name: "Perception"
     desc: "+35; Darkvision, Truesight"
-languages: "Diabolic, Draconic, Empyrean"
+languages: "Diabolic, Draconic, Empyrean; tongues"
 skills:
   - name: "Skills"
     desc: "Acrobatics: +31, Arcana: +33, Athletics: +37, Diplomacy: +33, Intimidation: +33, Occultism: +33, Religion: +37, Society: +33, Warfare Lore: +39"
@@ -60,13 +61,13 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Blinding Soul"
-    desc: " (divine,light,visual) Whenever the star archon takes slashing damage, bright light pours from their wounds. Non-archons within 10 feet must attempt a DC 38 Fortitude check save.\nOn a failure, a creature is [[Conditions/Dazzled|Dazzled]] for 1 round. On a critical failure, the creature is [[Conditions/Blinded|Blinded]] for 1d4 rounds instead.\nThe creature is then temporarily immune for 1 round."
+    desc: " (divine,light,visual) Whenever the star archon takes slashing damage, bright light pours from their wounds. Non-archons within 10 feet must attempt a DC 38 Fortitude check save.\n\nOn a failure, a creature is [[Conditions/Dazzled|Dazzled]] for 1 round. On a critical failure, the creature is [[Conditions/Blinded|Blinded]] for 1d4 rounds instead.\n\nThe creature is then temporarily immune for 1 round."
 
   - name: "Explosive Rebirth"
-    desc: " (death,divine,fire) When killed, the star archon explodes in a blinding flash of holy energy that deals 12d6 fire damage and 12d6 spirit damage to anything in a 100-foot emanation, with a DC 40 Reflex check save.\nA non-archon creature that sees the explosion and critically fails its save is permanently [[Conditions/Blinded|Blinded]] as well.\nThe slain star archon reincarnates 1d4 rounds later as a shield archon."
+    desc: " (death,divine,fire) When killed, the star archon explodes in a blinding flash of holy energy that deals 12d6 fire damage and 12d6 spirit damage to anything in a @Template[emanation|distance:100], with a DC 40 Reflex check save.\n\nA non-archon creature that sees the explosion and critically fails its save is permanently [[Conditions/Blinded|Blinded]] as well.\n\nThe slain star archon reincarnates 1d4 rounds later as a shield archon."
 
   - name: "[[Bestiary Ability Glossary/Retributive Strike|Retributive Strike]]"
-    desc: "`pf2:r`  **Damage Reduction** 21\nA star archon can also make a Retributive Strike by throwing its starknife, and the enemy and ally can be within 60 feet instead of 15 feet.\n"
+    desc: "`pf2:r`  **Damage Reduction** 21\n\nA star archon can also make a Retributive Strike by throwing its starknife, and the enemy and ally can be within 60 feet instead of 15 feet.\n\n* * *\n"
 
 attacks:
   - name: ""
@@ -84,8 +85,14 @@ attacks:
     desc: "  Once per day, if an archon sees another creature cast dimension door, the archon can use [[Spells/Translocate|Translocate]] (heightened to 5th level) within 1 round to attempt to follow that creature to the maximum distance of the archon's dimension door. If the archon's dimension door has enough distance, the archon appears the same distance and direction from the creature as before either creature used dimension door."
 
   - name: "Prudent Asterism"
-    desc: "`pf2:2`  The star archon calculates a celestial constellation and sends their starknife flying along that path from one foe to the next. It makes a starknife Strike against a target within 60 feet. If the Strike hits, it can make another Strike at a different target within 60 feet of the first target, and so on, until it misses with a Strike or runs out of targets it hasn't attacked within range of the most recent target.\nThe star archon can attack a given target only once per use of this ability. These attacks don't apply any range increment penalty, and the star archon resolves all the attacks before increasing the multiple attack penalty."
+    desc: "`pf2:2`  The star archon calculates a celestial constellation and sends their starknife flying along that path from one foe to the next. It makes a starknife Strike against a target within 60 feet. If the Strike hits, it can make another Strike at a different target within 60 feet of the first target, and so on, until it misses with a Strike or runs out of targets it hasn't attacked within range of the most recent target.\n\nThe star archon can attack a given target only once per use of this ability. These attacks don't apply any range increment penalty, and the star archon resolves all the attacks before increasing the multiple attack penalty."
  
+```
+
+```encounter-table
+name: Star Archon
+creatures:
+  - 1: Star Archon
 ```
 
 

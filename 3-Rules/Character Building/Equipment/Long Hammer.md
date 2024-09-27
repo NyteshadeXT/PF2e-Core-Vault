@@ -9,14 +9,14 @@ tags:
   - trait/reach
   - trait/trip
   - trait/versatile-p
-  - trait/uncommon
+  - trait/common
   - category/martial
 aliases: "Compendium.pf2e.equipment-srd.Item.mXBOqphNfUCK7L8c"
 license: OGL
 ---
 # Long Hammer
 ## Item 0
-### [uncommon](uncommon "Uncommon Rarity Trait")[[brace]][[dwarf]][[reach]][[trip]][[versatile-p]]
+### [[brace]][[dwarf]][[reach]][[trip]][[versatile-p]]
 
 |  |  |
 | -- | -- |

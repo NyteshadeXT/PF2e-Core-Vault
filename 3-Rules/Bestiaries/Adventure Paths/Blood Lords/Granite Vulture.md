@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/fiend
   - pf2e/creature/type/lawful
   - pf2e/creature/type/unholy
+  - pf2eMonster
   - pf2e/creature/level/2
 statblock: inline
 name: "Granite Vulture"
@@ -23,18 +24,18 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #181: Zombie Feast"
 name: "Granite Vulture"
 level: "Creature 2"
-rare_03: "Rare"
+rare_03: [[Rare]]
 alignment: ""
 size: "Medium"
-trait_01: "evil"
-trait_02: "fiend"
-trait_03: "lawful"
-trait_04: "unholy"
+trait_01: [[evil]]
+trait_02: [[fiend]]
+trait_03: [[lawful]]
+trait_04: [[unholy]]
 modifier: 10
 perception:
   - name: "Perception"
     desc: "+10; Darkvision, Scent (Imprecise) 30 Feet"
-languages: "Common, Diabolic"
+languages: "Common, Diabolic; telepathy 60 feet"
 skills:
   - name: "Skills"
     desc: "Acrobatics: +8, Athletics: +6, Religion: +8"
@@ -77,8 +78,14 @@ attacks:
     desc: "`pf2:2` (manipulate) The vulture touches and melds with their bonded vessel, bringing the statue to life. They can cease Inhabiting their Vessel by spending a single action, which has the concentrate trait. While Inhabiting the Vessel, they gain Immunities healing, nonlethal; Resistances physical 3 (except bludgeoning); and the following Strike."
 
   - name: "Spirit Body"
-    desc: "  When not Inhabiting their vessel or receptacle, the vulture is incorporeal, is [[Conditions/Slowed 1|Slowed 1]], and gains resistance 3 to all damage (except force damage and damage from Strikes with the _ghost touch_ property rune; double resistance against non-magical)."
+    desc: "  When not Inhabiting their vessel or receptacle, the vulture is incorporeal, is [[Conditions/Slowed|Slowed 1]], and gains resistance 3 to all damage (except force damage and damage from Strikes with the _ghost touch_ property rune; double resistance against non-magical)."
  
+```
+
+```encounter-table
+name: Granite Vulture
+creatures:
+  - 1: Granite Vulture
 ```
 
 

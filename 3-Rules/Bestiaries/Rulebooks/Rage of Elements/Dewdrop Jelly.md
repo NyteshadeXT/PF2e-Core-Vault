@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/aquatic
   - pf2e/creature/type/elemental
   - pf2e/creature/type/water
+  - pf2eMonster
   - pf2e/creature/level/1
   - remaster
 statblock: inline
@@ -26,9 +27,9 @@ level: "Creature 1"
 
 alignment: ""
 size: "Small"
-trait_01: "aquatic"
-trait_02: "elemental"
-trait_03: "water"
+trait_01: [[aquatic]]
+trait_02: [[elemental]]
+trait_03: [[water]]
 modifier: 7
 perception:
   - name: "Perception"
@@ -55,7 +56,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Dissolve"
-    desc: "`pf2:r`  **Trigger** The dewdrop jelly takes damage from a hostile action\n**Effect** The dewdrop jelly dissolves into a fine mist. Until the start of the jelly's next turn, it can't be attacked or targeted and doesn't take up space. At the end of the round, the jelly re-forms in any open space within 25 feet of where it Dissolved."
+    desc: "`pf2:r`  **Trigger** The dewdrop jelly takes damage from a hostile action\n* * *\n\n**Effect** The dewdrop jelly dissolves into a fine mist. Until the start of the jelly's next turn, it can't be attacked or targeted and doesn't take up space. At the end of the round, the jelly re-forms in any open space within 25 feet of where it Dissolved."
 
 attacks:
   - name: ""
@@ -66,6 +67,12 @@ attacks:
   - name: "Overflow"
     desc: "`pf2:3` (move) The dewdrop jelly flattens its bell and shoots forward, Flying or Swimming twice in a straight line toward its target and attempting a tentacle Strike. On a success, the dewdrop attaches to the target's face, covering its mouth in the suspended water of its gelatinous body. If the target cannot breathe water, it begins to drown. The DC to [[Actions/Escape|Escape]] is 16."
  
+```
+
+```encounter-table
+name: Dewdrop Jelly
+creatures:
+  - 1: Dewdrop Jelly
 ```
 
 

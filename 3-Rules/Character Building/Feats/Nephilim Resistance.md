@@ -6,8 +6,9 @@ tags:
   - trait/nephilim
   - trait/common
   - category/ancestry
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.8CSewrCVEmL8sjnk"
-license: OGL
+license: ORC
 ---
 # Nephilim Resistance
 ## Feat 5
@@ -22,5 +23,5 @@ You resist energy like your extraplanar predecessors. Choose one of the followin
 
 The damage type typically matches an extraplanar entity associated with your bloodline. For instance, an [[Feats/Angelkin|Angelkin]] might choose resistance to cold, while a [[Feats/Hellspawn|Hellspawn]] might choose resistance to fire.
 
-*Source: Pathfinder Advanced Player's Guide*
-*OGL*
+*Source: Pathfinder Player Core*
+*ORC*

@@ -26,7 +26,7 @@ license: OGL
 
 * * *
 
-You command the attention of those around you with an elegant display. Attempt a Performance check check and compare it to the Will DC of each creature in a 15-foot emanation.
+You command the attention of those around you with an elegant display. Attempt a Performance check check and compare it to the Will DC of each creature in a @Template\[emanation|distance:15\].
 
 * * *
 

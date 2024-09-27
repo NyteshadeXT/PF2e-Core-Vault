@@ -4,6 +4,7 @@ obsidianUIMode: preview
 noteType: pf2eHazard
 tags:
   - environmental
+  - pf2eHazard
 
 source: Pathfinder #177: Burning Tundra
 aliases: "Compendium.pf2e.quest-for-the-frozen-flame-bestiary.Actor.anIBNgbHN3jG4iph" 
@@ -21,13 +22,13 @@ name: "Methane Flue"
 level: "Hazard 8"
 
 
-trait_01: "environmental"
+trait_01: [[environmental]]
 modifier: 18
 sourcebook: "_Pathfinder #177: Burning Tundra_"
 ac: 10
 armorclass:
   - name: AC
-    desc: "10; __Fort__ +0, __Ref__ +0, __Will__ +0"
+    desc: "10; "
 hp: 0
 health:
   - name: ""
@@ -49,9 +50,15 @@ attacks:
   - name: ""
 
   - name: "Flame Spurt"
-    desc: "`pf2:r` **Trigger** A creature moves within 5 feet of the flue\n**Effect** A fiery geyser of flaming gas explodes from the ground. Creatures within 5 feet of the flue take 4d10 fire damage (DC 30 Reflex check); creatures that fail the save also take 4d10 persistent fire damage."
+    desc: "`pf2:r` **Trigger** A creature moves within 5 feet of the flue\n* * *\n\n**Effect** A fiery geyser of flaming gas explodes from the ground. Creatures within 5 feet of the flue take 4d10 fire damage (DC 30 Reflex check); creatures that fail the save also take 4d10 persistent fire damage."
 
 
 
+```
+
+```encounter-table
+name: Methane Flue
+creatures:
+  - 1: Methane Flue
 ```
 

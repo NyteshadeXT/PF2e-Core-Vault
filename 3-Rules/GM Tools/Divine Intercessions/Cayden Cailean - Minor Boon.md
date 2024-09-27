@@ -17,7 +17,7 @@ license: OGL
 
 
 
-**Minor Boon** Cayden Cailean helps you recover from nights of carousing.
+Cayden Cailean helps you recover from nights of carousing.
 
 While you still get drunk and otherwise experience the effects of alcohol normally, you are never hung over the next morning.
 

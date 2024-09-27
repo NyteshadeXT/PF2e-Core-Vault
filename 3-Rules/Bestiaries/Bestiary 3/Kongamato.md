@@ -6,6 +6,7 @@ cssClasses: pf2e
 aliases: "Compendium.pf2e.pathfinder-bestiary-3.Actor.6OxiStysMq65xKgS" 
 tags:
   - pf2e/creature/type/dragon
+  - pf2eMonster
   - pf2e/creature/level/11
 statblock: inline
 name: "Kongamato"
@@ -21,10 +22,10 @@ token: [[modules/pf2e-tokens-bestiaries/portraits/draconic/drakes/kongamato.webp
 source: "Pathfinder Bestiary 3"
 name: "Kongamato"
 level: "Creature 11"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Large"
-trait_01: "dragon"
+trait_01: [[dragon]]
 modifier: 19
 perception:
   - name: "Perception"
@@ -51,7 +52,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "[[Bestiary Ability Glossary/Attack of Opportunity|Attack of Opportunity (Tail Only)]]"
-    desc: "`pf2:r`  Tail only\n"
+    desc: "`pf2:r`  Tail only\n\n* * *\n"
 
 attacks:
   - name: ""
@@ -75,11 +76,17 @@ attacks:
     desc: "`pf2:2`  The kongamato Flies up to their fly Speed and makes two wing Strikes at any point during that movement. Each Strike must target a different creature."
 
   - name: "Wailing Dive"
-    desc: "`pf2:2`  The kongamato Flies while emitting a terrifying screech. Each creature the kongamato flies over must succeed at a DC 30 Will check save or become [[Conditions/Frightened 1|Frightened 1]] ([[Conditions/Frightened 1|Frightened 2]] on a critical failure).\nAfter attempting their saves, the creatures are temporarily immune for 1 hour. At the end of their movement, the kongamato can make a beak Strike."
+    desc: "`pf2:2`  The kongamato Flies while emitting a terrifying screech. Each creature the kongamato flies over must succeed at a DC 30 Will check save or become [[Conditions/Frightened|Frightened 1]] ([[Conditions/Frightened|Frightened 2]] on a critical failure).\n\nAfter attempting their saves, the creatures are temporarily immune for 1 hour. At the end of their movement, the kongamato can make a beak Strike."
 
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
     desc: "`pf2:1`  "
  
+```
+
+```encounter-table
+name: Kongamato
+creatures:
+  - 1: Kongamato
 ```
 
 

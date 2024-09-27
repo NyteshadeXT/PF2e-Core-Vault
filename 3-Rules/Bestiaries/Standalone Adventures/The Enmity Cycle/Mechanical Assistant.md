@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.the-enmity-cycle-bestiary.Actor.5d0K1rXEMZkILjxu"
 tags:
   - pf2e/creature/type/construct
   - pf2e/creature/type/minion
+  - pf2eMonster
   - pf2e/creature/level/5
 statblock: inline
 name: "Mechanical Assistant"
@@ -21,11 +22,11 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Adventure: The Enmity Cycle"
 name: "Mechanical Assistant"
 level: "Creature 5"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Medium"
-trait_01: "construct"
-trait_02: "minion"
+trait_01: [[construct]]
+trait_02: [[minion]]
 modifier: 12
 perception:
   - name: "Perception"
@@ -52,7 +53,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Inspired Recitation"
-    desc: "`pf2:1`  The mechanical assistant recites an inspiring poem, filling allies with determination and vigor. All allies within 60 feet gain a +1 status bonus to saving throws and 10 temporary Hit Points for 1 minute. Once an ally has benefited from this ability, they become temporarily immune to Inspired Recitation for 10 minutes.\n[[Bestiary Effects/Effect_ Inspired Recitation|Effect: Inspired Recitation]]"
+    desc: "`pf2:1`  The mechanical assistant recites an inspiring poem, filling allies with determination and vigor. All allies within 60 feet gain a +1 status bonus to saving throws and 10 temporary Hit Points for 1 minute. Once an ally has benefited from this ability, they become temporarily immune to Inspired Recitation for 10 minutes.\n\n[[Bestiary Effects/Effect_ Inspired Recitation|Effect: Inspired Recitation]]"
 
 attacks:
   - name: ""
@@ -63,6 +64,12 @@ attacks:
   - name: "Melee"
     desc: "`pf2:1` Retractable Blade +12 (agile, finesse)\n__Damage__  2d6 + 7 piercing"
  
+```
+
+```encounter-table
+name: Mechanical Assistant
+creatures:
+  - 1: Mechanical Assistant
 ```
 
 

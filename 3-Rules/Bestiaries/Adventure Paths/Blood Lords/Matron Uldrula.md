@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.blood-lords-bestiary.Actor.1igzK6SDdQkv8NXb"
 tags:
   - pf2e/creature/type/monitor
   - pf2e/creature/type/psychopomp
+  - pf2eMonster
   - pf2e/creature/level/19
 statblock: inline
 name: "Matron Uldrula"
@@ -21,19 +22,19 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #186: Ghost King&#x27;s Rage"
 name: "Matron Uldrula"
 level: "Creature 19"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Medium"
-trait_01: "monitor"
-trait_02: "psychopomp"
+trait_01: [[monitor]]
+trait_02: [[psychopomp]]
 modifier: 21
 perception:
   - name: "Perception"
     desc: "+21; Darkvision, Lifesense 60 Feet"
-languages: "Chthonian, Diabolic, Empyrean, Requian"
+languages: "Chthonian, Diabolic, Empyrean, Requian; tongues"
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +31, Boneyard Lore: +37, Deception: +35, Diplomacy: +35, Intimidation: +35, Legal Lore: +33, Occultism: +33, Religion: +37, Society: +33, Stealth: +31"
+    desc: "Acrobatics: +31, Deception: +35, Diplomacy: +35, Intimidation: +35, Occultism: +33, Religion: +37, Society: +33, Stealth: +31, Boneyard Lore: +37, Legal Lore: +33"
 abilityMods: [6, 5, 6, 7, 10, 8]
 speed: 25 feet,  fly 40 feet
 sourcebook: "_Pathfinder #186: Ghost King&#x27;s Rage_"
@@ -53,7 +54,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Shard Shield"
-    desc: "`pf2:r`  **Trigger** A creature targets Matron Uldrula with an attack\n**Requirements** Matron Uldrula has been reduced to 150 Hit Points or fewer\n**Effect** The fragments of Matron Uldrula, sheared off from her form during this encounter, fly through the air, interposing themselves between Matron Uldrula and harm. Matron Uldrula gains a +2 circumstance bonus to AC against the triggering attack."
+    desc: "`pf2:r`  **Trigger** A creature targets Matron Uldrula with an attack\n\n**Requirements** Matron Uldrula has been reduced to 150 Hit Points or fewer\n* * *\n\n**Effect** The fragments of Matron Uldrula, sheared off from her form during this encounter, fly through the air, interposing themselves between Matron Uldrula and harm. Matron Uldrula gains a +2 circumstance bonus to AC against the triggering attack."
 
   - name: "Soul Shards"
     desc: " (divine) When Matron Uldrula is wounded, tiny fragments of her break away, littering the floor with glass-like shards. In their place, glimmering gold cracks crisscross Matron Uldrula's form, each hard as steel. When Matron Uldrula is reduced to 150 Hit Points or fewer, she gains resistance 10 to all physical damage, as her body becomes more gold than flesh."
@@ -80,11 +81,17 @@ attacks:
     desc: " (divine) Matron Uldrula's staff is her symbol of office and gains a measure of her personal power. This staff becomes a _+2 greater striking staff_ and is treated as if it were adamantine while Matron Uldrula wields it. Matron Uldrula's staff has Hardness 17 and HP 68 (BT 34) while possessed by her, or Hardness 5 and HP 20 (BT 10) while out of her possession. If her staff is taken or destroyed, Matron Uldrula can infuse a new one with an hour of work."
 
   - name: "Soul Lock"
-    desc: "`pf2:2` (divine,incapacitation) **Requirements** Matron Uldrula doesn't have a soul locked within her staff\n**Effect** Matron Uldrula attempts to capture the soul of a creature on the brink of death, either an undead creature or a creature with the dying condition. The target must attempt a DC 46 Will check save with the following results.\n**Critical Success** The creature is unaffected and becomes temporarily immune to Soul Lock.\n**Success** Matron Uldrula's staff tugs at the creature's soul but doesn't trap it. If the creature is living, it becomes [[Conditions/Doomed 1|Doomed 1]] (or increases its doomed condition by 1). If the creature is a corporeal undead, it becomes [[Conditions/Enfeebled 1|Enfeebled 2]]. If the creature is an incorporeal undead, it becomes [[Conditions/Stupefied 1|Stupefied 2]]. The creature then becomes temporarily immune to soul lock for 24 hours.\n**Failure** Matron Uldrula locks the creature's soul in her staff. If the creature is living, it dies. If the creature is a corporeal undead, its body becomes an inanimate corpse. If the creature is an incorporeal undead, it becomes bodily trapped within the staff. While the soul is locked in the staff, the target can't be returned to life or undeath, or rejuvenated through any means, save powerful magic, such as miracle or wish, or through divine intervention. If Matron Uldrula's staff is destroyed or she wills it, the soul is released. Matron Uldrula's staff can only hold one soul at a time."
+    desc: "`pf2:2` (divine,incapacitation) **Requirements** Matron Uldrula doesn't have a soul locked within her staff\n* * *\n\n**Effect** Matron Uldrula attempts to capture the soul of a creature on the brink of death, either an undead creature or a creature with the dying condition. The target must attempt a DC 46 Will check save with the following results.\n* * *\n\n**Critical Success** The creature is unaffected and becomes temporarily immune to Soul Lock.\n\n**Success** Matron Uldrula's staff tugs at the creature's soul but doesn't trap it. If the creature is living, it becomes [[Conditions/Doomed|Doomed 1]] (or increases its doomed condition by 1). If the creature is a corporeal undead, it becomes [[Conditions/Enfeebled|Enfeebled 2]]. If the creature is an incorporeal undead, it becomes [[Conditions/Stupefied|Stupefied 2]]. The creature then becomes temporarily immune to soul lock for 24 hours.\n\n**Failure** Matron Uldrula locks the creature's soul in her staff. If the creature is living, it dies. If the creature is a corporeal undead, its body becomes an inanimate corpse. If the creature is an incorporeal undead, it becomes bodily trapped within the staff. While the soul is locked in the staff, the target can't be returned to life or undeath, or rejuvenated through any means, save powerful magic, such as miracle or wish, or through divine intervention. If Matron Uldrula's staff is destroyed or she wills it, the soul is released. Matron Uldrula's staff can only hold one soul at a time."
 
   - name: "Spirit Touch"
     desc: "  Matron Uldrula's Strikes affect incorporeal creatures with the effects of a _[[Equipment/Ghost Touch|Ghost Touch]]_ property rune and deal 4d6 void damage to living creatures and 4d6 vitality damage to undead."
  
+```
+
+```encounter-table
+name: Matron Uldrula
+creatures:
+  - 1: Matron Uldrula
 ```
 
 

@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/fiend
   - pf2e/creature/type/fire
   - pf2e/creature/type/unholy
+  - pf2eMonster
   - pf2e/creature/level/9
   - remaster
 statblock: inline
@@ -21,16 +22,17 @@ license: ORC
 columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
+token: [[modules/pf2e-tokens-bestiaries/portraits/fiendish/beast/hell-hound.webp| ]]
 source: "Pathfinder Monster Core"
 name: "Greater Hell Hound"
 level: "Creature 9"
 
 alignment: ""
 size: "Large"
-trait_01: "beast"
-trait_02: "fiend"
-trait_03: "fire"
-trait_04: "unholy"
+trait_01: [[beast]]
+trait_02: [[fiend]]
+trait_03: [[fire]]
+trait_04: [[unholy]]
 modifier: 19
 perception:
   - name: "Perception"
@@ -38,7 +40,7 @@ perception:
 languages: "Diabolic; (Can&#x27;t Speak Any Language)"
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +18, Athletics: +19, Stealth: +18, Survival: +20 (+22 to Track)"
+    desc: "Acrobatics: +18, Athletics: +19, Stealth: +18, Survival: +20"
 abilityMods: [6, 5, 5, -2, 4, -2]
 speed: 40 feet
 sourcebook: "_Pathfinder Monster Core_"
@@ -66,11 +68,17 @@ attacks:
     desc: "`pf2:1` Jaws +21 (magical, unholy)\n__Damage__  2d8 + 6 piercing 2d6 fire"
 
   - name: "Hellfire Breath"
-    desc: "`pf2:1` (divine,fire) The hell hound breathes flames that deal 10d6 fire damage to all creatures in a 15-foot cone (DC 28 Reflex check save.)\n\nThe hell hound can't use Hellfire Breath again for 1d4 rounds. If the greater hell hound would take fire damage or be targeted by a fire effect, their Hellfire Breath recharges."
+    desc: "`pf2:1` (divine,fire) The hell hound breathes flames that deal 10d6 fire damage to all creatures in a @Template[cone|distance:15] (DC 28 Reflex check save.)\n\nThe hell hound can't use Hellfire Breath again for 1d4 rounds. If the greater hell hound would take fire damage or be targeted by a fire effect, their Hellfire Breath recharges."
 
   - name: "Pack Attack"
     desc: "  The greater hell hound's Strikes deal 1d8 extra damage to creatures within the reach of at least two of their allies."
  
+```
+
+```encounter-table
+name: Greater Hell Hound
+creatures:
+  - 1: Greater Hell Hound
 ```
 
 

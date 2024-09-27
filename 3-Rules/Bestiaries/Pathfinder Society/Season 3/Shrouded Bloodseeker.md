@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.pfs-season-3-bestiary.Actor.9auIrnhXBCHnO5Ww"
 tags:
   - pf2e/creature/type/animal
   - pf2e/creature/type/shadow
+  - pf2eMonster
   - pf2e/creature/level/1
 statblock: inline
 name: "Shrouded Bloodseeker"
@@ -21,15 +22,16 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Society Intro: Year of Shattered Sanctuaries"
 name: "Shrouded Bloodseeker"
 level: "Creature 1"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "tiny"
-trait_01: "animal"
-trait_02: "shadow"
+trait_01: [[animal]]
+trait_02: [[shadow]]
 modifier: 8
 perception:
   - name: "Perception"
     desc: "+8; Darkvision, Scent (Imprecise) 60 Feet"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Acrobatics: +8, Stealth: +8"
@@ -60,11 +62,17 @@ attacks:
     desc: "`pf2:1` Barbed Leg +9 (finesse)\n__Damage__ "
 
   - name: "Attach"
-    desc: "  When a bloodseeker hits a target larger than itself, its barbed legs attach it to that creature. This is similar to grabbing the creature, but the bloodseeker moves with that creature rather than holding it in place.\nThe bloodseeker is [[Conditions/Off-Guard|Off-Guard]] while attached. If the bloodseeker is killed or pushed away while attached to a creature it has drained blood from, that creature takes 1 bleed damage.\nEscaping the attach or removing the bloodseeker in other ways doesn't cause bleed damage."
+    desc: "  When a bloodseeker hits a target larger than itself, its barbed legs attach it to that creature. This is similar to grabbing the creature, but the bloodseeker moves with that creature rather than holding it in place.\n\nThe bloodseeker is [[Conditions/Off-Guard|Off-Guard]] while attached. If the bloodseeker is killed or pushed away while attached to a creature it has drained blood from, that creature takes 1 bleed damage.\n\nEscaping the attach or removing the bloodseeker in other ways doesn't cause bleed damage."
 
   - name: "Blood Drain"
-    desc: "`pf2:1`  **Requirements** The bloodseeker is attached to a creature.\n**Effect** The bloodseeker uses its proboscis to drain blood from the creature it's attached to. This deals 1d8 damage, and the bloodseeker gains temporary Hit Points equal to the damage dealt.\nA creature that has its blood drained by a bloodseeker is [[Conditions/Drained 1|Drained 1]] until it receives healing (of any kind or amount)."
+    desc: "`pf2:1`  **Requirements** The bloodseeker is attached to a creature.\n* * *\n\n**Effect** The bloodseeker uses its proboscis to drain blood from the creature it's attached to. This deals 1d8 damage, and the bloodseeker gains temporary Hit Points equal to the damage dealt.\n\nA creature that has its blood drained by a bloodseeker is [[Conditions/Drained|Drained 1]] until it receives healing (of any kind or amount)."
  
+```
+
+```encounter-table
+name: Shrouded Bloodseeker
+creatures:
+  - 1: Shrouded Bloodseeker
 ```
 
 

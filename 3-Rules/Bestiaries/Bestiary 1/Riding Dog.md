@@ -6,6 +6,7 @@ cssClasses: pf2e
 aliases: "Compendium.pf2e.pathfinder-bestiary.Actor.5Azg87M6OnQ7Q4ZS" 
 tags:
   - pf2e/creature/type/animal
+  - pf2eMonster
   - pf2e/creature/level/1
 statblock: inline
 name: "Riding Dog"
@@ -24,11 +25,12 @@ level: "Creature 1"
 
 alignment: ""
 size: "Medium"
-trait_01: "animal"
+trait_01: [[animal]]
 modifier: 7
 perception:
   - name: "Perception"
     desc: "+7; Low-Light Vision, Scent (Imprecise) 30 Feet"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Acrobatics: +5, Athletics: +7, Survival: +5"
@@ -61,6 +63,12 @@ attacks:
   - name: "Pack Attack"
     desc: "  The dog's Strikes deal 1d4 extra damage to creatures within the reach of at least two of the dog's allies."
  
+```
+
+```encounter-table
+name: Riding Dog
+creatures:
+  - 1: Riding Dog
 ```
 
 

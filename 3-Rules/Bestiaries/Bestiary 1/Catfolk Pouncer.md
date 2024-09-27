@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/chaotic
   - pf2e/creature/type/good
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/1
 statblock: inline
 name: "Catfolk Pouncer"
@@ -27,10 +28,10 @@ level: "Creature 1"
 
 alignment: ""
 size: "Medium"
-trait_01: "catfolk"
-trait_02: "chaotic"
-trait_03: "good"
-trait_04: "humanoid"
+trait_01: [[catfolk]]
+trait_02: [[chaotic]]
+trait_03: [[good]]
+trait_04: [[humanoid]]
 modifier: 6
 perception:
   - name: "Perception"
@@ -58,7 +59,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Cat's Luck"
-    desc: "`pf2:r` (fortune) **Trigger** The catfolk pouncer fails or critically fails a Reflex saving throw.\n**Frequency** Once per day.\n**Effect** Reroll that saving throw and take the better result."
+    desc: "`pf2:r` (fortune) **Trigger** The catfolk pouncer fails or critically fails a Reflex saving throw.\n\n**Frequency** Once per day.\n* * *\n\n**Effect** Reroll that saving throw and take the better result."
 
 attacks:
   - name: ""
@@ -75,6 +76,12 @@ attacks:
   - name: "Sudden Charge"
     desc: "`pf2:2`  The catfolk pouncer Strides up to double their Speed. If the catfolk ends their movement within melee reach of at least one enemy, they can make a melee Strike against that enemy."
  
+```
+
+```encounter-table
+name: Catfolk Pouncer
+creatures:
+  - 1: Catfolk Pouncer
 ```
 
 

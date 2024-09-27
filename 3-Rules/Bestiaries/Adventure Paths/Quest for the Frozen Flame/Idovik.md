@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/beast
   - pf2e/creature/type/chaotic
   - pf2e/creature/type/eidolon
+  - pf2eMonster
   - pf2e/creature/level/7
 statblock: inline
 name: "Idovik"
@@ -22,17 +23,17 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #176: Lost Mammoth Valley"
 name: "Idovik"
 level: "Creature 7"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Large"
-trait_01: "beast"
-trait_02: "chaotic"
-trait_03: "eidolon"
+trait_01: [[beast]]
+trait_02: [[chaotic]]
+trait_03: [[eidolon]]
 modifier: 14
 perception:
   - name: "Perception"
     desc: "+14; Darkvision, Scent (Imprecise) 30 Feet"
-languages: "Common, Fey, Hallit"
+languages: "Common, Fey, Hallit; telepathy 100 feet (ashen swale only)"
 skills:
   - name: "Skills"
     desc: "Acrobatics: +11, Arcana: +13, Athletics: +17, Nature: +14"
@@ -54,7 +55,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "God's Intervention"
-    desc: "`pf2:r` (primal,teleportation) **Trigger** Ashen Swale is the target of a physical Strike\n**Effect** Sensing Ashen Swale's peril, Idovik teleports to his side and interposes himself between Ashen Swale and danger. Idovik teleports to a space adjacent to Ashen Swale, then shields Ashen Swale with his body. Idovik becomes the target of the triggering Strike."
+    desc: "`pf2:r` (primal,teleportation) **Trigger** Ashen Swale is the target of a physical Strike\n* * *\n\n**Effect** Sensing Ashen Swale's peril, Idovik teleports to his side and interposes himself between Ashen Swale and danger. Idovik teleports to a space adjacent to Ashen Swale, then shields Ashen Swale with his body. Idovik becomes the target of the triggering Strike."
 
 attacks:
   - name: ""
@@ -80,6 +81,12 @@ attacks:
   - name: "Spirit Link"
     desc: "  Even if his link is unusual, Idovik is bound to his summoner; he must remain within 100 feet of Ashen Swale at all times. If he ever moves outside this range or is reduced to 0 Hit Points, Idovik's physical form dissolves. Because his link functions unusually and he does not share Hit Points with Ashen Swale, Idovik remains manifested when Ashen Swale is [[Conditions/Unconscious|Unconscious]] or dead, as long as he stays near Ashen Swale's body. If Ashen Swale dies, Idovik's form fades away over the next minute. When unmanifested, Idovik must be manifested before he can reappear."
  
+```
+
+```encounter-table
+name: Idovik
+creatures:
+  - 1: Idovik
 ```
 
 

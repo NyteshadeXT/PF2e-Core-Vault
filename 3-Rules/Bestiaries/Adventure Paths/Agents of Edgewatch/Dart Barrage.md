@@ -5,6 +5,7 @@ noteType: pf2eHazard
 tags:
   - mechanical
   - trap
+  - pf2eHazard
   - complex
 source: Pathfinder #157: Devil at the Dreaming Palace
 aliases: "Compendium.pf2e.agents-of-edgewatch-bestiary.Actor.xw7S8108irh2D1Uw" 
@@ -22,14 +23,14 @@ name: "Dart Barrage"
 level: "Hazard 3"
 
 trait_06: "Complex"
-trait_01: "mechanical"
-trait_02: "trap"
+trait_01: [[mechanical]]
+trait_02: [[trap]]
 modifier: 11
 sourcebook: "_Pathfinder #157: Devil at the Dreaming Palace_"
 ac: 22
 armorclass:
   - name: AC
-    desc: "22; __Fort__ +13, __Ref__ +7, __Will__ +0"
+    desc: "22; __Fort__ +13, __Ref__ +7, "
 hp: 60
 health:
   - name: ""
@@ -51,7 +52,7 @@ attacks:
   - name: ""
 
   - name: "Dart Volley"
-    desc: "`pf2:r` **Trigger** More than two Small or larger creatures step on the brass seal.\n**Effect** The trap makes up to four dart Strikes against creatures standing on the seal, then rolls initiative."
+    desc: "`pf2:r` **Trigger** More than two Small or larger creatures step on the brass seal.\n* * *\n\n**Effect** The trap makes up to four dart Strikes against creatures standing on the seal, then rolls initiative."
   - name: "Melee"
     desc: "Dart +12 () "
 
@@ -62,5 +63,11 @@ attacks:
     desc: "(4 actions) The trap loses 1 action for each disabled launcher. On each of the trap's actions, it fires one dart at a creature in the center of the room."
   - name: "Reset"
     desc: "The trap runs out of darts after 4 rounds of firing and must be reset manually by dismantling the walls to reload the launchers. If at any point there are no longer more than two creatures placing weight on the floor, the trap ceases firing but remains armed, ready to resume firing its remaining darts once triggered again."
+```
+
+```encounter-table
+name: Dart Barrage
+creatures:
+  - 1: Dart Barrage
 ```
 

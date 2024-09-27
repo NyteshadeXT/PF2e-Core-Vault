@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/human
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/6
 statblock: inline
 name: "Reckless Scientist"
@@ -25,9 +26,9 @@ level: "Creature 6"
 
 alignment: ""
 size: "Medium"
-trait_01: "evil"
-trait_02: "human"
-trait_03: "humanoid"
+trait_01: [[evil]]
+trait_02: [[human]]
+trait_03: [[humanoid]]
 modifier: 10
 perception:
   - name: "Perception"
@@ -35,7 +36,7 @@ perception:
 languages: "Common"
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +12, Crafting: +17, Deception: +9, Engineering Lore: +15, Medicine: +10, Stealth: +12, Underworld Lore: +13"
+    desc: "Acrobatics: +12, Crafting: +17, Deception: +9, Medicine: +10, Stealth: +12, Engineering Lore: +15, Underworld Lore: +13"
 abilityMods: [1, 4, 5, 5, 2, -1]
 speed: 25 feet
 sourcebook: "_Pathfinder Gamemastery Guide_"
@@ -53,7 +54,7 @@ abilities_top:
   - name: "Items"
     desc: "[[Equipment/Sickle|+1 Sickle]], 2x [[Equipment/Acid Flask (Moderate)|Acid Flask (Moderate) (Infused)]], 2x [[Equipment/Alchemist's Fire (Moderate)|Alchemist's Fire (Moderate) (Infused)]], 2x [[Equipment/Frost Vial (Moderate)|Frost Vial (Moderate) (Infused)]], [[Equipment/Padded Armor|Work Coat]], [[Equipment/Alchemist's Toolkit|Alchemist's Tools]], [[Compendium.pf2e.equipment-srd.Item.HamOU17sqb5ljiB5|Bandolier]], [[Equipment/Antidote (Moderate)|Antidote (Moderate)]], [[Equipment/Antiplague (Moderate)|Antiplague (Moderate)]], [[Equipment/Bomber's Eye Elixir (Lesser)|Bomber's Eye Elixir (Lesser) (Infused)]], 3x [[Equipment/Elixir of Life (Lesser)|Elixir of Life (Lesser) (Infused)]]"
   - name: "Infused Items"
-    desc: "  A reckless scientist carries the following infused items:\n*   2 [[Equipment/Acid Flask (Moderate)|Acid Flask (Moderate)]],\n*   2 [[Equipment/Alchemist's Fire (Moderate)|Alchemist's Fire (Moderate)]],\n*   1 [[Equipment/Bomber's Eye Elixir (Lesser)|Bomber's Eye Elixir (Lesser)]],\n*   2 [[Equipment/Frost Vial (Moderate)|Frost Vial (Moderate)]],\n*   3 [[Equipment/Elixir of Life (Lesser)|Elixir of Life (Lesser)]]\nThese items last for 24 hours, or until the next time the scientist makes their daily preparations."
+    desc: "  A reckless scientist carries the following infused items:\n\n*   2 [[Equipment/Acid Flask (Moderate)|Acid Flask (Moderate)]],\n*   2 [[Equipment/Alchemist's Fire (Moderate)|Alchemist's Fire (Moderate)]],\n*   1 [[Equipment/Bomber's Eye Elixir (Lesser)|Bomber's Eye Elixir (Lesser)]],\n*   2 [[Equipment/Frost Vial (Moderate)|Frost Vial (Moderate)]],\n*   3 [[Equipment/Elixir of Life (Lesser)|Elixir of Life (Lesser)]]\n\nThese items last for 24 hours, or until the next time the scientist makes their daily preparations."
 
 abilities_mid:
   - name: ""
@@ -79,8 +80,14 @@ attacks:
     desc: "`pf2:1`  The reckless scientist [[Actions/Interact|Interact]] to draw a bomb, then Strikes with it."
 
   - name: "Reckless Alchemy"
-    desc: "`pf2:1` (concentrate,manipulate) **Requirements** The reckless scientist is holding a bomb or elixir\n**Effect** The reckless scientist combines the bomb with another bomb or the elixir with another elixir. They can [[Actions/Interact|Interact]] to draw a second bomb or elixir if necessary as part of this action. They attempt a DC 28 Crafting check check, destroying both component items to create one new item.\nIf a viable resulting item isn't used by the end of the scientist's next turn, it explodes as described under critical failure.\n**Critical Success** The new item has the full effect of both component items when used.\n**Success** The new item combines both items, but halves the effect of each. (This halves damage for bombs, the amount of healing of elixirs of life, or the duration for effects that can't have their value halved. Details are determined by the GM.)\n**Failure** The new item is inert.\n**Critical Failure** The new item immediately explodes, dealing 3d6 piercing damage to the reckless scientist."
+    desc: "`pf2:1` (concentrate,manipulate) **Requirements** The reckless scientist is holding a bomb or elixir\n* * *\n\n**Effect** The reckless scientist combines the bomb with another bomb or the elixir with another elixir. They can [[Actions/Interact|Interact]] to draw a second bomb or elixir if necessary as part of this action. They attempt a DC 28 Crafting check check, destroying both component items to create one new item.\n\nIf a viable resulting item isn't used by the end of the scientist's next turn, it explodes as described under critical failure.\n* * *\n\n**Critical Success** The new item has the full effect of both component items when used.\n\n**Success** The new item combines both items, but halves the effect of each. (This halves damage for bombs, the amount of healing of elixirs of life, or the duration for effects that can't have their value halved. Details are determined by the GM.)\n\n**Failure** The new item is inert.\n\n**Critical Failure** The new item immediately explodes, dealing 3d6 piercing damage to the reckless scientist."
  
+```
+
+```encounter-table
+name: Reckless Scientist
+creatures:
+  - 1: Reckless Scientist
 ```
 
 

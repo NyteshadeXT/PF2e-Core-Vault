@@ -6,8 +6,9 @@ tags:
   - trait/kobold
   - trait/common
   - category/ancestry
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.xM8IWff5yfbQGk4s"
-license: OGL
+license: ORC
 ---
 # Briar Battler
 ## Feat 9
@@ -18,7 +19,7 @@ license: OGL
 
 
 
-You've learned to use roots, crevices, uneven ground, and dense underbrush to your advantage. When you're in difficult terrain from an environmental feature, you can [[Actions/Take Cover|Take Cover]], even if the feature wouldn't ordinarily be large enough for you to Take Cover.
+When you're in difficult terrain from an environmental feature, you can [[Actions/Take Cover|Take Cover]], even if the feature wouldn't ordinarily be large enough for you to Take Cover.
 
-*Source: Pathfinder Lost Omens: Ancestry Guide*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

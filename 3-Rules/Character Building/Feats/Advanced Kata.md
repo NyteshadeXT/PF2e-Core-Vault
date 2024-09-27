@@ -6,8 +6,9 @@ tags:
   - trait/archetype
   - trait/common
   - category/class
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.TYP0Ee4o3p9LDodd"
-license: OGL
+license: ORC
 ---
 # Advanced Kata
 ## Feat 6
@@ -25,5 +26,5 @@ You gain one monk feat. For the purpose of meeting its prerequisites, your monk 
 
 **Special** You can select this feat more than once. Each time you select it, you gain another monk feat.
 
-*Source: Pathfinder Core Rulebook*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

@@ -6,8 +6,9 @@ tags:
   - trait/swashbuckler
   - trait/common
   - category/class
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.e8ChYAaQ9Aa8aZES"
-license: OGL
+license: ORC
 ---
 # Deadly Grace
 ## Feat 16
@@ -18,9 +19,7 @@ license: OGL
 
 
 
-Your graceful attacks are especially powerful.
+Your graceful attacks are especially powerful. When you score a critical hit with an agile or finesse melee weapon that has the deadly trait, you double the number of dice from that trait. When you wield an agile or finesse melee weapon that doesn't have the deadly trait, it gains the deadly d8 trait instead.
 
-When you score a critical hit with an agile or finesse melee weapon that has the deadly trait, you double the number of dice from that trait. When you wield an agile or finesse melee weapon that doesn't have the deadly trait, it gains the deadly d8 trait instead.
-
-*Source: Pathfinder Advanced Player's Guide*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

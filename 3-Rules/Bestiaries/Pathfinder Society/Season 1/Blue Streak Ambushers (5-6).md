@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.pfs-season-1-bestiary.Actor.zAOgSgAqMLCrIvTl"
 tags:
   - pf2e/creature/type/human
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/4
 statblock: inline
 name: "Blue Streak Ambushers (5-6)"
@@ -21,11 +22,11 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Society Scenario #1-24: Lightning Strikes, Stars Fall"
 name: "Blue Streak Ambushers (5-6)"
 level: "Creature 4"
-rare_03: "Rare"
+rare_03: [[Rare]]
 alignment: ""
 size: "Medium"
-trait_01: "human"
-trait_02: "humanoid"
+trait_01: [[human]]
+trait_02: [[humanoid]]
 modifier: 14
 perception:
   - name: "Perception"
@@ -70,6 +71,12 @@ attacks:
   - name: "Running Reload"
     desc: "`pf2:1`  The Blue Streak ambusher Strides, Steps, or Sneaks, and then Interacts to reload."
  
+```
+
+```encounter-table
+name: Blue Streak Ambushers (5-6)
+creatures:
+  - 1: Blue Streak Ambushers (5-6)
 ```
 
 

@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.pathfinder-monster-core.Actor.kkAllKGsVCZVGFpf"
 tags:
   - pf2e/creature/type/fey
   - pf2e/creature/type/gremlin
+  - pf2eMonster
   - pf2e/creature/level/-1
   - remaster
 statblock: inline
@@ -26,8 +27,8 @@ level: "Creature -1"
 
 alignment: ""
 size: "Small"
-trait_01: "fey"
-trait_02: "gremlin"
+trait_01: [[fey]]
+trait_02: [[gremlin]]
 modifier: 4
 perception:
   - name: "Perception"
@@ -35,7 +36,7 @@ perception:
 languages: "Sakvroth"
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +5, Diplomacy: +1 (+7 vs. arthropods), Nature: +3, Stealth: +5, Thievery: +5"
+    desc: "Acrobatics: +5, Diplomacy: +1, Nature: +3, Stealth: +5, Thievery: +5"
 abilityMods: [-1, 3, 0, -1, 1, -1]
 speed: 20 feet,  climb 20 feet
 sourcebook: "_Pathfinder Monster Core_"
@@ -70,8 +71,14 @@ attacks:
     desc: "DC 16, attack +8; __2nd __  _[[Spells/Speak with Animals|Speak with Animals (Arthropods Only, At Will)]]_; __1st __  _[[Spells/Bane|Bane]]_\n__Cantrips__  __(1st)__ _[[Spells/Prestidigitation|Prestidigitation]]_"
 
   - name: "Vengeful Anger"
-    desc: " (emotion,mental) As long as it isn't [[Conditions/Frightened 1|Frightened]], a mitflit gains a +2 status bonus to damage rolls against a creature that has previously damaged or tormented it."
+    desc: " (emotion,mental) As long as it isn't [[Conditions/Frightened|Frightened]], a mitflit gains a +2 status bonus to damage rolls against a creature that has previously damaged or tormented it."
  
+```
+
+```encounter-table
+name: Mitflit
+creatures:
+  - 1: Mitflit
 ```
 
 

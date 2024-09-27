@@ -7,8 +7,9 @@ tags:
   - trait/spellshape
   - trait/common
   - category/class
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.AmfO4FHmfFr0oNi9"
-license: OGL
+license: ORC
 ---
 # Bloodline Conduit `pf2:1`
 ## Feat 20
@@ -23,7 +24,7 @@ license: OGL
 
 * * *
 
-Your inborn magical nature lets you redirect ambient energies to fuel your spells. If your next action is to Cast a Spell of 5th level or lower that has no duration, you don't expend the spell's slot when you cast it.
+Your inborn magical nature lets you redirect ambient energies to fuel your spells. If your next action is to Cast a Spell of 5th rank or lower that has no duration, you don't expend the spell's slot when you cast it.
 
-*Source: Pathfinder Core Rulebook*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

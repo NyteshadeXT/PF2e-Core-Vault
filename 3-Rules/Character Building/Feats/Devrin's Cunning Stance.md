@@ -26,7 +26,7 @@ You've learned Devrin Arlos's guileful ways, and his sly teachings help you remi
 
 * * *
 
-**Critical Success** Your marshal's aura increases to a 20-foot emanation, and it grants you and your allies a +1 status bonus to skill checks. When you or an ally in the aura Strike an [[Conditions/Off-Guard|Off-Guard]] enemy, that enemy can't use reactions until the beginning of its next turn.
+**Critical Success** Your marshal's aura increases to a @Template\[emanation|distance:20\], and it grants you and your allies a +1 status bonus to skill checks. When you or an ally in the aura successfully Strike an [[Conditions/Off-Guard|Off-Guard]] enemy, that enemy can't use reactions until the beginning of its next turn.
 
 **Success** As critical success, but your aura's size doesn't increase.
 

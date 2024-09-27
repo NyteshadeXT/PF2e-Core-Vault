@@ -6,8 +6,9 @@ tags:
   - trait/swashbuckler
   - trait/common
   - category/classfeature
+  - remaster
 aliases: "Compendium.pf2e.classfeatures.Item.ypfT3iybew6ZSIUl"
-license: OGL
+license: ORC
 ---
 # Eternal Confidence
 ## Feat 19
@@ -24,5 +25,5 @@ When you Strike as part of a finisher or [[Actions/Opportune Riposte|Opportune R
 
 You can do so only if the Strike uses a weapon or unarmed attack that you could use for Confident Finisher.
 
-*Source: Pathfinder Advanced Player's Guide*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

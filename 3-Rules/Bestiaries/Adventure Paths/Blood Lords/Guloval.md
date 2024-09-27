@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/celestial
   - pf2e/creature/type/good
   - pf2e/creature/type/holy
+  - pf2eMonster
   - pf2e/creature/level/12
 statblock: inline
 name: "Guloval"
@@ -23,21 +24,21 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #183: Field of Maidens"
 name: "Guloval"
 level: "Creature 12"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Small"
-trait_01: "agathion"
-trait_02: "celestial"
-trait_03: "good"
-trait_04: "holy"
+trait_01: [[agathion]]
+trait_02: [[celestial]]
+trait_03: [[good]]
+trait_04: [[holy]]
 modifier: 23
 perception:
   - name: "Perception"
     desc: "+23; Darkvision"
-languages: "Common, Diabolic, Draconic, Empyrean"
+languages: "Common, Diabolic, Draconic, Empyrean; speak with animals"
 skills:
   - name: "Skills"
-    desc: "Athletics: +25, Intimidation: +21, Nature: +23, Nirvana Lore: +22, Survival: +23"
+    desc: "Athletics: +25, Intimidation: +21, Nature: +23, Survival: +23, Nirvana Lore: +22"
 abilityMods: [7, 4, 5, 4, 5, 3]
 speed: 25 feet,  burrow 20 feet
 sourcebook: "_Pathfinder #183: Field of Maidens_"
@@ -56,7 +57,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Interposition"
-    desc: "`pf2:r`  **Trigger** A ward within the guloval's reach would take damage from a Strike, and the guloval is within the attacker's reach\n**Effect** The guloval blocks the attack with their own body, taking the triggering attack's damage. The ward takes no damage."
+    desc: "`pf2:r`  **Trigger** A ward within the guloval's reach would take damage from a Strike, and the guloval is within the attacker's reach\n* * *\n\n**Effect** The guloval blocks the attack with their own body, taking the triggering attack's damage. The ward takes no damage."
 
 attacks:
   - name: ""
@@ -68,10 +69,10 @@ attacks:
     desc: "`pf2:1` Claw +25 (agile, holy, magical)\n__Damage__  3d4 + 13 slashing 1d6 spirit"
 
   - name: "Divine Innate Spells"
-    desc: "DC 32, attack +24; __6th __  _[[Spells/Divine Wrath|Divine Wrath]]_, _[[Spells/Clear Mind|Remove Fear]]_, _[[Spells/Righteous Might|Righteous Might]]_; __5th __  _[[Spells/Blink Charge|Blink Charge]]_, _[[Spells/Breath of Life|Breath of Life]]_; __4th __  _[[Spells/Circle of Protection|Circle of Protection]]_, _[[Compendium.pf2e.spells-srd.Item.OyFCwQuw8XRazsNr|Remove Curse]]_; __3rd __  _[[Compendium.pf2e.spells-srd.Item.RneiyehRO6f7LP44|Remove Disease]]_; __2nd __  _[[Spells/Share Life|Shield Other]]_\n__Constant__  __(6th)__ _[[Spells/Speak with Animals|Speak with Animals]]_"
+    desc: "DC 32, attack +24; __6th __  _[[Spells/Divine Wrath|Divine Wrath]]_, _[[Spells/Clear Mind|Remove Fear]]_, _[[Spells/Sacred Form|Righteous Might]]_; __5th __  _[[Spells/Blink Charge|Blink Charge]]_, _[[Spells/Breath of Life|Breath of Life]]_; __4th __  _[[Spells/Circle of Protection|Circle of Protection]]_, _[[Compendium.pf2e.spells-srd.Item.OyFCwQuw8XRazsNr|Remove Curse]]_; __3rd __  _[[Compendium.pf2e.spells-srd.Item.RneiyehRO6f7LP44|Remove Disease]]_; __2nd __  _[[Spells/Share Life|Shield Other]]_\n__Constant__  __(6th)__ _[[Spells/Speak with Animals|Speak with Animals]]_"
 
   - name: "Righteous Wound"
-    desc: "  When a guloval critically hits an evil creature with any melee Strike, the evil creature becomes [[Conditions/Frightened 1|Frightened 1]]. If that evil creature has damaged one of the guloval's wards within the last round, it's instead [[Conditions/Frightened 1|Frightened 2]]."
+    desc: "  When a guloval critically hits an evil creature with any melee Strike, the evil creature becomes [[Conditions/Frightened|Frightened 1]]. If that evil creature has damaged one of the guloval's wards within the last round, it's instead [[Conditions/Frightened|Frightened 2]]."
 
   - name: "Shield Ward"
     desc: "`pf2:1`  The guloval enhances the magical link with their ward, granting that creature a +1 status bonus to its Armor Class and saving throws until the start of the guloval's next turn."
@@ -79,6 +80,12 @@ attacks:
   - name: "Wolverine's Protection"
     desc: "`pf2:2`  The guloval selects a single willing ally within 30 feet as their ward; that ally can't already be the ward of another guloval. Once an ally becomes a ward, a magical link forms between the guloval and the ward, and as long as they are on the same plane and both are alive, the guloval knows the ward's direction from them, distance from them, and any conditions affecting them. A guloval can maintain this link with up to 4 wards-if they select a fifth, one of the previous wards (chosen by the guloval) loses the link and is no longer a ward."
  
+```
+
+```encounter-table
+name: Guloval
+creatures:
+  - 1: Guloval
 ```
 
 

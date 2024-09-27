@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/undead
   - pf2e/creature/type/unholy
+  - pf2eMonster
   - pf2e/creature/level/5
 statblock: inline
 name: "Taunting Skull"
@@ -25,17 +26,17 @@ level: "Creature 5"
 
 alignment: ""
 size: "tiny"
-trait_01: "evil"
-trait_02: "undead"
-trait_03: "unholy"
+trait_01: [[evil]]
+trait_02: [[undead]]
+trait_03: [[unholy]]
 modifier: 13
 perception:
   - name: "Perception"
     desc: "+13; Darkvision"
-languages: "Common, Necril"
+languages: "Common, Necril; any one language spoken in life"
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +12 (+14 to Manuver in Flight), Intimidation: +12 (+14 to Demoralize)"
+    desc: "Acrobatics: +12, Intimidation: +12"
 abilityMods: [1, 5, 1, 0, 4, 1]
 speed: 15 feet,  fly 40 feet
 sourcebook: "_Pathfinder Book of the Dead_"
@@ -54,7 +55,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Bite Back"
-    desc: "`pf2:r`  **Trigger** The taunting skull is attacked by a creature within their reach\n**Effect** The taunting skull makes a jaws Strike against that creature."
+    desc: "`pf2:r`  **Trigger** The taunting skull is attacked by a creature within their reach\n* * *\n\n**Effect** The taunting skull makes a jaws Strike against that creature."
 
 attacks:
   - name: ""
@@ -63,8 +64,14 @@ attacks:
     desc: "`pf2:1` Jaws +14 (agile, finesse, reach 0 feet)\n__Damage__  2d10 + 3 piercing"
 
   - name: "Incessant Goading"
-    desc: "`pf2:1` (auditory,emotion,incapacitation,mental) The skull chooses one creature within 60 feet and antagonizes it mercilessly. The target must attempt a DC 22 Will check save to resist the effect.\n**Critical Success** The target is unaffected and is temporarily immune for 1 minute.\n**Success** The target is unaffected.\n**Failure** The target is [[Conditions/Off-Guard|Off-Guard]] for 1 round. On its next turn, if the taunting skull is within the target's reach, the target wildly attacks the taunting skull as many times as possible.\n**Critical Failure** As failure, but the target also immediately performs a Strike against itself; this Strike doesn't take any actions."
+    desc: "`pf2:1` (auditory,emotion,incapacitation,mental) The skull chooses one creature within 60 feet and antagonizes it mercilessly. The target must attempt a DC 22 Will check save to resist the effect.\n* * *\n\n**Critical Success** The target is unaffected and is temporarily immune for 1 minute.\n\n**Success** The target is unaffected.\n\n**Failure** The target is [[Conditions/Off-Guard|Off-Guard]] for 1 round. On its next turn, if the taunting skull is within the target's reach, the target wildly attacks the taunting skull as many times as possible.\n\n**Critical Failure** As failure, but the target also immediately performs a Strike against itself; this Strike doesn't take any actions."
  
+```
+
+```encounter-table
+name: Taunting Skull
+creatures:
+  - 1: Taunting Skull
 ```
 
 

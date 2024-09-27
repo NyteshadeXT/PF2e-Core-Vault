@@ -12,7 +12,7 @@ license: OGL
 ---
 # Prophecy's Pawn `pf2:0`
 
-### [[divine]][[fortune]]
+### [[3-Rules/Rule References/Divine]][[fortune]]
 
 **Category** interaction; 
 

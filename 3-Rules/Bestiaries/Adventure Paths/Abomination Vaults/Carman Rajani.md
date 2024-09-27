@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/human
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/6
 statblock: inline
 name: "Carman Rajani"
@@ -22,12 +23,12 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #164: Hands of the Devil"
 name: "Carman Rajani"
 level: "Creature 6"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Medium"
-trait_01: "evil"
-trait_02: "human"
-trait_03: "humanoid"
+trait_01: [[evil]]
+trait_02: [[human]]
+trait_03: [[humanoid]]
 modifier: 12
 perception:
   - name: "Perception"
@@ -55,7 +56,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Skillful Catch"
-    desc: "`pf2:r`  **Trigger** Carman is targeted with a ranged attack by a thrown weapon and has a hand free\n**Effect** Carman gains a +2 circumstance bonus to his AC against the triggering attack. If the attack misses, Carman catches the weapon and can immediately make a ranged Strike with it."
+    desc: "`pf2:r`  **Trigger** Carman is targeted with a ranged attack by a thrown weapon and has a hand free\n* * *\n\n**Effect** Carman gains a +2 circumstance bonus to his AC against the triggering attack. If the attack misses, Carman catches the weapon and can immediately make a ranged Strike with it."
 
 attacks:
   - name: ""
@@ -78,6 +79,12 @@ attacks:
   - name: "Surprise Attacker"
     desc: "  On the first round of combat, creatures that haven't acted yet are [[Conditions/Off-Guard|Off-Guard]] to Carman."
  
+```
+
+```encounter-table
+name: Carman Rajani
+creatures:
+  - 1: Carman Rajani
 ```
 
 

@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/humanoid
   - pf2e/creature/type/lawful
+  - pf2eMonster
   - pf2e/creature/level/7
 statblock: inline
 name: "Murmur"
@@ -25,9 +26,9 @@ level: "Creature 7"
 
 alignment: ""
 size: "Medium"
-trait_01: "evil"
-trait_02: "humanoid"
-trait_03: "lawful"
+trait_01: [[evil]]
+trait_02: [[humanoid]]
+trait_03: [[lawful]]
 modifier: 10
 perception:
   - name: "Perception"
@@ -55,10 +56,10 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Biting Snakes"
-    desc: "`pf2:r`  **Trigger** A creature ends its turn adjacent to the medusa.\n**Effect** The medusa makes a snake fangs Strike against the creature."
+    desc: "`pf2:r`  **Trigger** A creature ends its turn adjacent to the medusa.\n* * *\n\n**Effect** The medusa makes a snake fangs Strike against the creature."
 
   - name: "Petrifying Gaze"
-    desc: " (arcane,aura,visual) 30 feet. When a creature ends its turn in the aura, it must attempt a DC 25 Fortitude check save. If the creature fails, it becomes [[Conditions/Slowed 1|Slowed 1]] for 1 minute. The medusa can deactivate or activate this aura by using a single action, which has the concentrate trait."
+    desc: " (arcane,aura,visual) 30 feet. When a creature ends its turn in the aura, it must attempt a DC 25 Fortitude check save. If the creature fails, it becomes [[Conditions/Slowed|Slowed 1]] for 1 minute. The medusa can deactivate or activate this aura by using a single action, which has the concentrate trait."
 
 attacks:
   - name: ""
@@ -73,8 +74,14 @@ attacks:
     desc: "`pf2:1` Composite Shortbow +19 (deadly d10, magical, propulsive, range increment 60 feet, reload 0)\n__Damage__  1d6 + 7 piercing plus serpent-venom"
 
   - name: "Serpent Venom"
-    desc: " (poison) **Saving Throw** DC 25 Fortitude check\n**Maximum Duration** 6 rounds\n**Stage 1** 1d6 poison damage and [[Conditions/Enfeebled 1|Enfeebled 1]] (1 round)\n**Stage 2** 2d6 poison damage and [[Conditions/Enfeebled 1|Enfeebled 2]] (1 round)"
+    desc: " (poison) **Saving Throw** DC 25 Fortitude check\n* * *\n\n**Maximum Duration** 6 rounds\n\n**Stage 1** 1d6 poison damage and [[Conditions/Enfeebled|Enfeebled 1]] (1 round)\n\n**Stage 2** 2d6 poison damage and [[Conditions/Enfeebled|Enfeebled 2]] (1 round)"
  
+```
+
+```encounter-table
+name: Murmur
+creatures:
+  - 1: Murmur
 ```
 
 

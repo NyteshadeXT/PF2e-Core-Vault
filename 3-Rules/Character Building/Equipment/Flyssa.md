@@ -14,7 +14,7 @@ license: OGL
 ---
 # Flyssa
 ## Item 0
-### [[agile]][[finesse]][[versatile-p]]
+### [[3-Rules/Rule References/Agile]][[3-Rules/Rule References/Finesse]][[versatile-p]]
 
 |  |  |
 | -- | -- |

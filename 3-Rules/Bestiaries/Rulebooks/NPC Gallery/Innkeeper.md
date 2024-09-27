@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.npc-gallery.Actor.PLOfWPKwB7pE4arv"
 tags:
   - pf2e/creature/type/human
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/1
 statblock: inline
 name: "Innkeeper"
@@ -24,8 +25,8 @@ level: "Creature 1"
 
 alignment: ""
 size: "Medium"
-trait_01: "human"
-trait_02: "humanoid"
+trait_01: [[human]]
+trait_02: [[humanoid]]
 modifier: 7
 perception:
   - name: "Perception"
@@ -33,7 +34,7 @@ perception:
 languages: "Common"
 skills:
   - name: "Skills"
-    desc: "Accounting Lore: +5, Cooking Lore: +5, Deception: +6, Diplomacy: +8, Society: +7"
+    desc: "Deception: +6, Diplomacy: +8, Society: +7, Accounting Lore: +5, Cooking Lore: +5"
 abilityMods: [2, 0, 1, 2, 2, 3]
 speed: 25 feet
 sourcebook: "_Pathfinder Gamemastery Guide_"
@@ -51,7 +52,7 @@ abilities_top:
   - name: "Items"
     desc: "[[Equipment/Staff|Broom]], [[Equipment/Leather Armor|Innkeeper's Apron]], [[Equipment/Basic Crafter's Book|Ledger]]"
   - name: "Font of Gossip"
-    desc: "  The inkeeper's business gives them insight into the neighborhood's happenings. When [[Actions/Gather Information|Gathering Information]], a person can gain as much information chatting with the innkeeper for 30 minutes to an hour as they would gain from 2 hours spent canvassing the neighborhood. Each person can learn gossip from an innkeeper only once per day, and only if the innkeeper is friendly or helpful to that individual.\nWhatever information the innkeeper knows about a given topic doesn't change if someone else asks the innkeeper about that topic, unless the innkeeper has since learned more."
+    desc: "  The inkeeper's business gives them insight into the neighborhood's happenings. When [[Actions/Gather Information|Gathering Information]], a person can gain as much information chatting with the innkeeper for 30 minutes to an hour as they would gain from 2 hours spent canvassing the neighborhood. Each person can learn gossip from an innkeeper only once per day, and only if the innkeeper is friendly or helpful to that individual.\n\nWhatever information the innkeeper knows about a given topic doesn't change if someone else asks the innkeeper about that topic, unless the innkeeper has since learned more."
 
 abilities_mid:
   - name: ""
@@ -70,6 +71,12 @@ attacks:
   - name: "Home Turf"
     desc: "  An innkeeper gains a +2 circumstance bonus to attack rolls, damage rolls, and AC within their inn."
  
+```
+
+```encounter-table
+name: Innkeeper
+creatures:
+  - 1: Innkeeper
 ```
 
 

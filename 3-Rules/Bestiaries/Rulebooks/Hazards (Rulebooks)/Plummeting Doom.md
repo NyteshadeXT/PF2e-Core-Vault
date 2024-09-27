@@ -4,6 +4,7 @@ obsidianUIMode: preview
 noteType: pf2eHazard
 tags:
   - haunt
+  - pf2eHazard
 
 source: Pathfinder Gamemastery Guide
 aliases: "Compendium.pf2e.hazards.Actor.gB9WkJtH88jJQa5Z" 
@@ -21,13 +22,13 @@ name: "Plummeting Doom"
 level: "Hazard 15"
 
 
-trait_01: "haunt"
+trait_01: [[haunt]]
 modifier: 30
 sourcebook: "_Pathfinder Gamemastery Guide_"
 ac: 10
 armorclass:
   - name: AC
-    desc: "10; __Fort__ +0, __Ref__ +0, __Will__ +0"
+    desc: "10; "
 hp: 0
 health:
   - name: ""
@@ -49,10 +50,16 @@ attacks:
   - name: ""
 
   - name: "Call of the Ground"
-    desc: "`pf2:r` (divine) **Trigger** A creature approaches within 15 feet of the edge of the cliff.\n**Effect** Each spirit attempts to throw a creature within 60 feet of the cliff's edge off the cliff by attempting a check with a +26 modifier against the target's Fortitude DC. If the haunt succeeds, the target is thrown over the edge of the cliff, where it then falls 120 feet to the ground. Until the haunt is defeated, each creature within 60 feet of the cliff's edge must attempt a DC 40 Will check save each time they would spend an action or reaction to Arrest a Fall, Fly, Grab an Edge, or otherwise avoid falling; if they fail the save, the action is disrupted. The haunt automatically attempts to counteract spells that would slow a fall or mitigate the effects of falling, such as _feather fall_, with a counteract modifier of +32."
+    desc: "`pf2:r` (divine) **Trigger** A creature approaches within 15 feet of the edge of the cliff.\n* * *\n\n**Effect** Each spirit attempts to throw a creature within 60 feet of the cliff's edge off the cliff by attempting a check with a +26 modifier against the target's Fortitude DC. If the haunt succeeds, the target is thrown over the edge of the cliff, where it then falls 120 feet to the ground. Until the haunt is defeated, each creature within 60 feet of the cliff's edge must attempt a DC 40 Will check save each time they would spend an action or reaction to Arrest a Fall, Fly, Grab an Edge, or otherwise avoid falling; if they fail the save, the action is disrupted. The haunt automatically attempts to counteract spells that would slow a fall or mitigate the effects of falling, such as _feather fall_, with a counteract modifier of +32."
 
 
   - name: "Reset"
     desc: "1 hour"
+```
+
+```encounter-table
+name: Plummeting Doom
+creatures:
+  - 1: Plummeting Doom
 ```
 

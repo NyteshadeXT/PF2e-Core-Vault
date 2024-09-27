@@ -26,5 +26,5 @@ license: OGL
 
 **Effect** Draw a harrow card, then reroll the skill check. If you draw a card from the suit of Keys, add a +4 status bonus to the original roll and your reroll, then take the result you prefer as your actual result. If you drew any other card, you gain no bonus and must take the result of the rerolled skill check.
 
-*Source: Pathfinder: Stolen Fate Player's Guide*
+*Source: Pathfinder Stolen Fate Player's Guide*
 *OGL*

@@ -4,6 +4,7 @@ obsidianUIMode: preview
 noteType: pf2eHazard
 tags:
   - haunt
+  - pf2eHazard
   - complex
 source: Pathfinder #181: Zombie Feast
 aliases: "Compendium.pf2e.blood-lords-bestiary.Actor.rJOlv5hfotegHwx2" 
@@ -21,7 +22,7 @@ name: "Kepgeda's Keening Cauldron"
 level: "Hazard 3"
 
 trait_06: "Complex"
-trait_01: "haunt"
+trait_01: [[haunt]]
 modifier: 10
 sourcebook: "_Pathfinder #181: Zombie Feast_"
 ac: 20
@@ -49,11 +50,17 @@ attacks:
   - name: ""
 
   - name: "Crescendo of Claws"
-    desc: "`pf2:r` (emotion, fear, mental) **Trigger** A creature other than Kepgeda is within 15 feet of the cauldron for at least 1 round\n**Effect** The screams increase in intensity, and a torrent of phantasmal, three-fingered hands with iron claws spews from the cauldron to assail creatures in area **E13**. Each creature in the room must attempt a DC 23 Will check save, with the following results. Kepgeda is immune to the haunt's effects, as she loves the cauldron's screams. The haunt then rolls initiative.\n**Critical Success** The creature is unaffected.\n**Success** The creature becomes [[Conditions/Frightened 1|Frightened 1]].\n**Failure** The creature becomes [[Conditions/Frightened 1|Frightened 2]] and becomes [[Conditions/Off-Guard|Off-Guard]] as long as they remain frightened.\n**Critical Failure** The creature becomes [[Conditions/Frightened 1|Frightened 3]] and is [[Conditions/Grabbed|Grabbed]] as long as they remain frightened."
+    desc: "`pf2:r` (emotion, fear, mental) **Trigger** A creature other than Kepgeda is within 15 feet of the cauldron for at least 1 round\n* * *\n\n**Effect** The screams increase in intensity, and a torrent of phantasmal, three-fingered hands with iron claws spews from the cauldron to assail creatures in area **E13**. Each creature in the room must attempt a DC 23 Will check save, with the following results. Kepgeda is immune to the haunt's effects, as she loves the cauldron's screams. The haunt then rolls initiative.\n* * *\n\n**Critical Success** The creature is unaffected.\n\n**Success** The creature becomes [[Conditions/Frightened|Frightened 1]].\n\n**Failure** The creature becomes [[Conditions/Frightened|Frightened 2]] and becomes [[Conditions/Off-Guard|Off-Guard]] as long as they remain frightened.\n\n**Critical Failure** The creature becomes [[Conditions/Frightened|Frightened 3]] and is [[Conditions/Grabbed|Grabbed]] as long as they remain frightened."
 
   - name: "Routine"
     desc: "(1 action) The spectral hands scurry about, grabbing at all of Kepgeda's foes in area **E13**. Each such creature takes 3d6 mental damage (DC 20 Will check) as the spectral claws assail them. A creature that takes mental damage from this effect doesn't reduce their frightened value at the end of their next turn."
   - name: "Reset"
     desc: "The haunt becomes inert (resuming its usual screaming) at the end of any round in which no creatures other than Kepgeda remain in her kitchen."
+```
+
+```encounter-table
+name: Kepgeda's Keening Cauldron
+creatures:
+  - 1: Kepgeda's Keening Cauldron
 ```
 

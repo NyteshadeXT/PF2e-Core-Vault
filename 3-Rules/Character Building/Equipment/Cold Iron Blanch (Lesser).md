@@ -13,7 +13,7 @@ license: OGL
 ---
 # Cold Iron Blanch (Lesser)
 ## Item 3
-### [uncommon](uncommon "Uncommon Rarity Trait")[[alchemical]][[consumable]][[precious]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[alchemical]][[consumable]][[precious]]
 
 **Category** potion; 
 **Price** 10 gp; 

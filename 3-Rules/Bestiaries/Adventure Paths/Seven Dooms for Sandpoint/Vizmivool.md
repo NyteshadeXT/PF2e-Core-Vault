@@ -10,6 +10,7 @@ tags:
   - pf2e/creature/type/humanoid
   - pf2e/creature/type/serpentfolk
   - pf2e/creature/type/unholy
+  - pf2eMonster
   - pf2e/creature/level/9
 statblock: inline
 name: "Vizmivool"
@@ -24,19 +25,19 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #200: Seven Dooms for Sandpoint"
 name: "Vizmivool"
 level: "Creature 9"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Medium"
-trait_01: "chaotic"
-trait_02: "evil"
-trait_03: "humanoid"
-trait_04: "serpentfolk"
-trait_05: "unholy"
+trait_01: [[chaotic]]
+trait_02: [[evil]]
+trait_03: [[humanoid]]
+trait_04: [[serpentfolk]]
+trait_05: [[unholy]]
 modifier: 19
 perception:
   - name: "Perception"
     desc: "+19; Darkvision, Scent (Imprecise) 30 Feet"
-languages: "Aklo, Common, Sakvroth, Thassilonian"
+languages: "Aklo, Common, Sakvroth, Thassilonian; telepathy 100 feet"
 skills:
   - name: "Skills"
     desc: "Arcana: +17, Crafting: +19, Deception: +18, Intimidation: +18, Occultism: +17, Religion: +21"
@@ -77,14 +78,20 @@ attacks:
     desc: "2 Focus Points, DC 28, attack +21; __5th __  _[[Spells/Overstuff|Overstuff]]_, _[[Spells/Take its Course|Take its Course]]_"
 
   - name: "Rituals"
-    desc: "_[[Spells/Consecrate|Consecrate]]_, _[[Spells/Heroes' Feast|Heroes' Feast]]_, _[[Spells/Inveigle|Inveigle]]_"
+    desc: "_[[Spells/Consecrate|Consecrate]]_, _[[Spells/Fortifying Brew|Heroes' Feast]]_, _[[Spells/Inveigle|Inveigle]]_"
 
   - name: "Sacrifice Pawn"
-    desc: "`pf2:2` (divine) **Frequency** once per day\n**Effect** Vizmivool attempts a dagger Strike against an ally and shifts the result of this Strike up by one degree of success. If the Strike kills the ally, the sacrificed ally's life force flows like red fire out of the wound and into Vizmivool's body, healing her for 10d6 healing Hit Points and making her [[Conditions/Quickened|Quickened]] for 1 minute. She can use the additional action to Strike or Stride."
+    desc: "`pf2:2` (divine) **Frequency** once per day\n* * *\n\n**Effect** Vizmivool attempts a dagger Strike against an ally and shifts the result of this Strike up by one degree of success. If the Strike kills the ally, the sacrificed ally's life force flows like red fire out of the wound and into Vizmivool's body, healing her for 10d6 healing Hit Points and making her [[Conditions/Quickened|Quickened]] for 1 minute. She can use the additional action to Strike or Stride."
 
   - name: "[[Actor.acGApO7HwzXQVlTU.Item.pkqZFkDwe6SFvUXX|Serpentfolk Venom]]"
-    desc: " (poison) **Saving Throw** DC 28 Fortitude check\n**Maximum Duration** 6 rounds\n**Stage 1** 1d4 poison damage and [[Conditions/Enfeebled 1|Enfeebled 1]] (1 round)\n**Stage 2** 2d4 poison damage and enfeebled 1 (1 round)"
+    desc: " (poison) **Saving Throw** DC 28 Fortitude check\n\n**Maximum Duration** 6 rounds\n\n**Stage 1** 1d4 poison damage and [[Conditions/Enfeebled|Enfeebled 1]] (1 round)\n\n**Stage 2** 2d4 poison damage and enfeebled 1 (1 round)"
  
+```
+
+```encounter-table
+name: Vizmivool
+creatures:
+  - 1: Vizmivool
 ```
 
 

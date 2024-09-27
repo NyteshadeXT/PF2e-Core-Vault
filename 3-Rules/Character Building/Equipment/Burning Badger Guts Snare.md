@@ -15,7 +15,7 @@ license: OGL
 ---
 # Burning Badger Guts Snare
 ## Item 10
-### [uncommon](uncommon "Uncommon Rarity Trait")[[consumable]][[3-Rules/Rule References/Fire]][[mechanical]][[snare]][[trap]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[consumable]][[3-Rules/Rule References/Fire]][[mechanical]][[snare]][[trap]]
 
 **Category** snare; 
 **Price** 170 gp; 
@@ -30,9 +30,9 @@ When a creature enters the trapped square, putrefied badger guts coated in hyper
 
 **Success** The creature takes half damage and 1d8 persistent fire damage.
 
-**Failure** The creature takes full damage and 2d8 persistent fire damage, and is [[Conditions/Sickened 1|Sickened 1]].
+**Failure** The creature takes full damage and 2d8 persistent fire damage, and is [[Conditions/Sickened|Sickened 1]].
 
-**Critical Failure** As failure, but the creature is [[Conditions/Sickened 1|Sickened 2]].
+**Critical Failure** As failure, but the creature is [[Conditions/Sickened|Sickened 2]].
 
 *Source: Pathfinder Lost Omens: The Grand Bazaar*
 *OGL*

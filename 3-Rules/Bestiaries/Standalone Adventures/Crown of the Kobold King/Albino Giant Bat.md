@@ -6,6 +6,7 @@ cssClasses: pf2e
 aliases: "Compendium.pf2e.crown-of-the-kobold-king-bestiary.Actor.cRD9K6jsJCF4ZfDh" 
 tags:
   - pf2e/creature/type/animal
+  - pf2eMonster
   - pf2e/creature/level/5
 statblock: inline
 name: "Albino Giant Bat"
@@ -23,11 +24,12 @@ level: "Creature 5"
 
 alignment: ""
 size: "Large"
-trait_01: "animal"
+trait_01: [[animal]]
 modifier: 15
 perception:
   - name: "Perception"
     desc: "+15; Echolocation 40 Feet, Low-Light Vision"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Acrobatics: +12, Athletics: +12, Stealth: +12"
@@ -52,7 +54,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "[[Bestiary 1/Giant Bat/Wing Thrash|Wing Thrash]]"
-    desc: "`pf2:r`  **Trigger** An adjacent enemy damages the giant bat.\n**Effect** The bat makes one or two wing Strikes-one against the triggering creature and one against another adjacent creature."
+    desc: "`pf2:r`  **Trigger** An adjacent enemy damages the giant bat.\n* * *\n\n**Effect** The bat makes one or two wing Strikes-one against the triggering creature and one against another adjacent creature."
 
 attacks:
   - name: ""
@@ -63,6 +65,12 @@ attacks:
   - name: "Melee"
     desc: "`pf2:1` Wings +14 (agile)\n__Damage__  2d4 + 7 piercing"
  
+```
+
+```encounter-table
+name: Albino Giant Bat
+creatures:
+  - 1: Albino Giant Bat
 ```
 
 

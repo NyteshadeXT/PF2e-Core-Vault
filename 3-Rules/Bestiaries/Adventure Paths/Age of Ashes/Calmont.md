@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/halfling
   - pf2e/creature/type/humanoid
   - pf2e/creature/type/lawful
+  - pf2eMonster
   - pf2e/creature/level/3
 statblock: inline
 name: "Calmont"
@@ -23,13 +24,13 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #145: Hellknight Hill"
 name: "Calmont"
 level: "Creature 3"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Small"
-trait_01: "evil"
-trait_02: "halfling"
-trait_03: "humanoid"
-trait_04: "lawful"
+trait_01: [[evil]]
+trait_02: [[halfling]]
+trait_03: [[humanoid]]
+trait_04: [[lawful]]
 modifier: 6
 perception:
   - name: "Perception"
@@ -37,7 +38,7 @@ perception:
 languages: "Common, Goblin, Halfling"
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +9, Athletics: +7, Breachill Lore: +8, Deception: +7, Intimidation: +7, Mercantile Lore: +4, Society: +7, Stealth: +11, Thievery: +11"
+    desc: "Acrobatics: +9, Athletics: +7, Deception: +7, Intimidation: +7, Society: +7, Stealth: +11, Thievery: +11, Breachill Lore: +8, Mercantile Lore: +4"
 abilityMods: [2, 4, 1, -1, -1, 2]
 speed: 25 feet
 sourcebook: "_Pathfinder #145: Hellknight Hill_"
@@ -63,7 +64,7 @@ abilities_mid:
     desc: "  Calmont isn't [[Conditions/Off-Guard|Off-Guard]] to [[Conditions/Hidden|Hidden]], [[Conditions/Undetected|Undetected]], or flanking creatures of level 3 or lower."
 
   - name: "Nimble Dodge"
-    desc: "`pf2:r`  **Trigger** A creature targets Calmont with an attack and he can see the attacker.\n**Requirements** Calmont is not [[Conditions/Encumbered|Encumbered]]\nCalmont deftly dodges out of the way, gaining a +2 circumstance bonus to AC against the triggering attack."
+    desc: "`pf2:r`  **Trigger** A creature targets Calmont with an attack and he can see the attacker.\n\n**Requirements** Calmont is not [[Conditions/Encumbered|Encumbered]]\n\nCalmont deftly dodges out of the way, gaining a +2 circumstance bonus to AC against the triggering attack."
 
 attacks:
   - name: ""
@@ -72,10 +73,10 @@ attacks:
     desc: "`pf2:1` Dagger +9 (agile, finesse, versatile s)\n__Damage__  1d4 + 4 piercing"
 
   - name: "Ranged"
-    desc: "`pf2:1` Shortbow +9 (deadly d10, range increment 60 feet, reload 0)\n__Damage__  1d6 piercing"
+    desc: "`pf2:1` Dagger +9 (agile, thrown 10 ft., versatile s)\n__Damage__  1d4 + 4 piercing"
 
   - name: "Ranged"
-    desc: "`pf2:1` Dagger +9 (agile, thrown 10 ft., versatile s)\n__Damage__  1d4 + 4 piercing"
+    desc: "`pf2:1` Shortbow +9 (deadly d10, range increment 60 feet, reload 0)\n__Damage__  1d6 piercing"
 
   - name: "Quick Draw"
     desc: "`pf2:1`  Calmont draws his weapon and attacks with the same motion. He Interacts to draw a weapon, then Strikes with that weapon."
@@ -86,6 +87,12 @@ attacks:
   - name: "Surprise Attack"
     desc: "  If Calmont used Deception or Stealth for initiative, creatures that haven't acted are [[Conditions/Off-Guard|Off-Guard]] to Calmont on the first round of combat."
  
+```
+
+```encounter-table
+name: Calmont
+creatures:
+  - 1: Calmont
 ```
 
 

@@ -12,7 +12,7 @@ license: OGL
 ---
 # Charm of the Ordinary
 ## Item 8
-### [uncommon](uncommon "Uncommon Rarity Trait")[[consumable]][[magical]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[consumable]][[3-Rules/Rule References/Magical]]
 
 **Category** other; 
 **Price** 75 gp; 

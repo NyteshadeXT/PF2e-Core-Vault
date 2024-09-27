@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/celestial
   - pf2e/creature/type/good
   - pf2e/creature/type/holy
+  - pf2eMonster
   - pf2e/creature/level/10
 statblock: inline
 name: "Movanic Deva"
@@ -27,15 +28,15 @@ level: "Creature 10"
 
 alignment: ""
 size: "Medium"
-trait_01: "angel"
-trait_02: "celestial"
-trait_03: "good"
-trait_04: "holy"
+trait_01: [[angel]]
+trait_02: [[celestial]]
+trait_03: [[good]]
+trait_04: [[holy]]
 modifier: 22
 perception:
   - name: "Perception"
     desc: "+22; Darkvision"
-languages: "Diabolic, Draconic, Empyrean"
+languages: "Diabolic, Draconic, Empyrean; tongues"
 skills:
   - name: "Skills"
     desc: "Athletics: +20, Diplomacy: +22, Intimidation: +22, Nature: +22, Religion: +19, Stealth: +17, Survival: +17"
@@ -58,7 +59,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Aura of Vitality"
-    desc: " (aura,divine) 20 feet. Allies in the movanic deva's aura gain a +1 status bonus to all saving throws, resistance 10 to vitality and void damage, and are unharmed by the effects of a plane's vitality and void traits. Animals in the aura of 12th level or lower don't attack the movanic deva or the deva's allies unless they are controlled or otherwise forced to attack.\n[[Bestiary Effects/Effect_ Aura of Vitality|Effect: Aura of Vitality]]"
+    desc: " (aura,divine) 20 feet. Allies in the movanic deva's aura gain a +1 status bonus to all saving throws, resistance 10 to vitality and void damage, and are unharmed by the effects of a plane's vitality and void traits. Animals in the aura of 12th level or lower don't attack the movanic deva or the deva's allies unless they are controlled or otherwise forced to attack.\n\n[[Bestiary Effects/Effect_ Aura of Vitality|Effect: Aura of Vitality]]"
 
 attacks:
   - name: ""
@@ -73,11 +74,17 @@ attacks:
     desc: "_[[Spells/Angelic Messenger|Angelic Messenger]]_, _[[Spells/Awaken Animal|Awaken Animal]]_"
 
   - name: "Dispelling Field"
-    desc: "`pf2:2` (divine) **Frequency** once per day\n**Effect** The movanic deva attempts to unravel unwelcome magic effects on allies within its aura of vitality to protect them from malevolent forces. The movanic deva attempts a counteract check against as many spell effects affecting allies in the area as it wishes with a +19 counteract modifier and a counteract rank of 4, rolling once for the selected effects."
+    desc: "`pf2:2` (divine) **Frequency** once per day\n* * *\n\n**Effect** The movanic deva attempts to unravel unwelcome magic effects on allies within its aura of vitality to protect them from malevolent forces. The movanic deva attempts a counteract check against as many spell effects affecting allies in the area as it wishes with a +19 counteract modifier and a counteract rank of 4, rolling once for the selected effects."
 
   - name: "Flaming Armaments"
     desc: " (divine) When a movanic deva wields a weapon, that weapon gains the effect of a _[[Equipment/Flaming|Flaming]]_ rune."
  
+```
+
+```encounter-table
+name: Movanic Deva
+creatures:
+  - 1: Movanic Deva
 ```
 
 

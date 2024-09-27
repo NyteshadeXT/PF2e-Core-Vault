@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.pathfinder-monster-core.Actor.YReM6QbqwUz3UTP7"
 tags:
   - pf2e/creature/type/humanoid
   - pf2e/creature/type/orc
+  - pf2eMonster
   - pf2e/creature/level/0
   - remaster
 statblock: inline
@@ -19,14 +20,15 @@ license: ORC
 columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
+token: [[modules/pf2e-tokens-bestiaries/portraits/humanoid/orc-brute.webp| ]]
 source: "Pathfinder Monster Core"
 name: "Orc Scrapper"
 level: "Creature 0"
 
 alignment: ""
 size: "Medium"
-trait_01: "humanoid"
-trait_02: "orc"
+trait_01: [[humanoid]]
+trait_02: [[orc]]
 modifier: 5
 perception:
   - name: "Perception"
@@ -68,6 +70,12 @@ attacks:
   - name: "Ranged"
     desc: "`pf2:1` Javelin +4 (thrown 30 ft.)\n__Damage__  1d6 + 3 piercing"
  
+```
+
+```encounter-table
+name: Orc Scrapper
+creatures:
+  - 1: Orc Scrapper
 ```
 
 

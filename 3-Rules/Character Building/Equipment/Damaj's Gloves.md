@@ -12,7 +12,7 @@ license: OGL
 ---
 # Damaj's Gloves
 ## Item 13
-### [[invested]][[magical]][[metal]]
+### [[invested]][[3-Rules/Rule References/Magical]][[metal]]
 
 
 **Price** 3000 gp; 

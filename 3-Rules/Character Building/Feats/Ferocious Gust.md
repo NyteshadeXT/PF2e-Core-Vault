@@ -14,7 +14,7 @@ license: OGL
 ---
 # Ferocious Gust `pf2:2`
 ## Feat 9
-### [[3-Rules/Rule References/Air]][[concentrate]][[manipulate]][[strix]]
+### [[air]][[concentrate]][[manipulate]][[strix]]
 
 **Category** ancestry; 
 

@@ -10,6 +10,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/fiend
   - pf2e/creature/type/unholy
+  - pf2eMonster
   - pf2e/creature/level/18
 statblock: inline
 name: "Vavakia"
@@ -24,19 +25,19 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #156: The Apocalypse Prophet"
 name: "Vavakia"
 level: "Creature 18"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "huge"
-trait_01: "chaotic"
-trait_02: "demon"
-trait_03: "evil"
-trait_04: "fiend"
-trait_05: "unholy"
+trait_01: [[chaotic]]
+trait_02: [[demon]]
+trait_03: [[evil]]
+trait_04: [[fiend]]
+trait_05: [[unholy]]
 modifier: 32
 perception:
   - name: "Perception"
     desc: "+32; Darkvision, Truesight"
-languages: "Chthonian, Draconic, Empyrean"
+languages: "Chthonian, Draconic, Empyrean; telepathy 100 feet"
 skills:
   - name: "Skills"
     desc: "Athletics: +35, Deception: +32, Intimidation: +34, Religion: +30, Stealth: +32"
@@ -59,10 +60,10 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "[[Bestiary Ability Glossary/Frightful Presence|Frightful Presence]]"
-    desc: " (aura,emotion,fear,mental) 60 feet. DC 37 Will check\n"
+    desc: " (aura,emotion,fear,mental) 60 feet. DC 37 Will check\n\n* * *\n"
 
   - name: "Restoration Vulnerability"
-    desc: "  A vavakia is repulsed by the restoration of souls.\nThe demon takes 3d10 + 10 mental damage the first time each round that a creature within 100 feet of it is restored to life or loses the [[Conditions/Doomed 1|Doomed]] condition."
+    desc: "  A vavakia is repulsed by the restoration of souls.\n\nThe demon takes 3d10+10 mental damage the first time each round that a creature within 100 feet of it is restored to life or loses the [[Conditions/Doomed|Doomed]] condition."
 
 attacks:
   - name: ""
@@ -86,23 +87,29 @@ attacks:
     desc: "_[[Spells/Demonic Pact|Abyssal Pact]]_"
 
   - name: "Smoking Wound"
-    desc: "  A creature damaged by the vavakia's jaws is [[Conditions/Sickened 1|Sickened 1]] from the rank smell of vapors from the wound."
+    desc: "  A creature damaged by the vavakia's jaws is [[Conditions/Sickened|Sickened 1]] from the rank smell of vapors from the wound."
 
   - name: "Soulfire Breath"
-    desc: "`pf2:2` (death,divine,void) The vavakia exhales ghostly green fire in a 60-foot cone.\nLiving creatures in the area take 20d6 void damage (DC 42 Reflex check save). A good creature that fails this save is becomes [[Conditions/Stupefied 1|Stupefied 2]] for 1 minute ([[Conditions/Stupefied 1|Stupefied 4]] on a critical failure).\nA creature slain by Soulfire Breath can't be resurrected except by powerful magic such as a [[Spells/Wish|Wish]] spell.\nThe vavakia can't use Soulfire Breath again for 1d4 rounds."
+    desc: "`pf2:2` (death,divine,void) The vavakia exhales ghostly green fire in a @Template[cone|distance:60].\n\nLiving creatures in the area take 20d6 void damage (DC 42 Reflex check save). A good creature that fails this save is becomes [[Conditions/Stupefied|Stupefied 2]] for 1 minute ([[Conditions/Stupefied|Stupefied 4]] on a critical failure).\n\nA creature slain by Soulfire Breath can't be resurrected except by powerful magic such as a [[Spells/Wish|Wish]] spell.\n\nThe vavakia can't use Soulfire Breath again for 1d4 rounds."
 
   - name: "Soulfire Inhalation"
-    desc: "`pf2:1` (divine,healing) **Requirements** The vavakia's last action was Soulfire Breath\n**Effect** The vavakia inhales and regains 10 Hit Points for each creature damaged by its Soulfire Breath. Any excess healing is gained as temporary Hit Points, which remain for 1 minute."
+    desc: "`pf2:1` (divine,healing) **Requirements** The vavakia's last action was Soulfire Breath\n* * *\n\n**Effect** The vavakia inhales and regains 10 Hit Points for each creature damaged by its Soulfire Breath. Any excess healing is gained as temporary Hit Points, which remain for 1 minute."
 
   - name: "Stunning Tail"
-    desc: " (incapacitation) If the vavakia critically hits with its tail Strike, the target must succeed at a DC 40 Fortitude check save or be [[Conditions/Stunned 1|Stunned]] for 1 round (1d4 rounds on a critical failure)."
+    desc: " (incapacitation) If the vavakia critically hits with its tail Strike, the target must succeed at a DC 40 Fortitude check save or be [[Conditions/Stunned|Stunned]] for 1 round (1d4 rounds on a critical failure)."
 
   - name: "[[Bestiary Ability Glossary/Trample|Trample]]"
-    desc: "`pf2:3`  Large or smaller, claw, DC 40 Reflex check\n"
+    desc: "`pf2:3`  Large or smaller, claw, DC 40 Reflex check\n\n* * *\n"
 
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
     desc: "`pf2:1`  "
  
+```
+
+```encounter-table
+name: Vavakia
+creatures:
+  - 1: Vavakia
 ```
 
 

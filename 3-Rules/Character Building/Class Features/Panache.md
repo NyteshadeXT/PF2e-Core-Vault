@@ -6,8 +6,9 @@ tags:
   - trait/swashbuckler
   - trait/common
   - category/classfeature
+  - remaster
 aliases: "Compendium.pf2e.classfeatures.Item.LzYi0OuOoypNb6jd"
-license: OGL
+license: ORC
 ---
 # Panache
 ## Feat 1
@@ -18,15 +19,13 @@ license: OGL
 
 
 
-You care as much about the way you accomplish something as whether you actually accomplish it in the first place. When you perform an action with particular bravado, you can leverage this moment of verve to perform spectacular, deadly maneuvers. This state of flair is called panache, and you are either in a state of panache or you are not.
+You care as much about the way you accomplish something as whether you actually accomplish it in the first place. When you perform an action with particular style, you can leverage this moment of verve to perform spectacular, deadly maneuvers. This heightened state of flair is called panache.
 
 [[Feat_Feature Effects/Effect_ Panache|Effect: Panache]]
 
-You gain panache by successfully performing the skill check associated with specific actions that have a bit of flair, including [[Actions/Tumble Through|Tumble Through]] and additional actions determined by your swashbuckler's style (see below). At the GM's discretion, after succeeding at a check to perform a particularly daring action, such as swinging on a chandelier or sliding down a drapery, you also gain panache if your result is high enough (typically the very hard DC for your level, but the GM can choose a different threshold).
+You gain panache by performing actions that have the bravado trait. [[Actions/Tumble Through|Tumble Through]] and additional actions determined by your swashbuckler's style gain the bravado trait when you use them. The GM might determine that a check to perform a particularly daring action, such as swinging on a chandelier or sliding down a drapery, can gain the bravado trait. These checks typically involve at least a single action and a non-trivial DC. Normally, you gain and use panache only in combat encounters; when an encounter ends, you lose panache.
 
-While you have panache, you gain a +5-foot status bonus to your Speeds and gain a +1 circumstance bonus to checks to Tumble Through or to take any actions that give you panache due to your style. The [[Class Features/Precise Strike|Precise Strike]] class feature also causes you to deal extra precision damage while you have panache. Powerful finisher actions, including [[Actions/Confident Finisher|Confident Finisher]], can be used only while you have panache and cause you to lose your panache.
+Powerful finisher actions, including [[Actions/Confident Finisher|Confident Finisher]], can be used only while you have panache and cause you to lose your panache.
 
-Normally, you gain and use panache only in combat encounters; when an encounter ends, you lose panache
-
-*Source: Pathfinder Advanced Player's Guide*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

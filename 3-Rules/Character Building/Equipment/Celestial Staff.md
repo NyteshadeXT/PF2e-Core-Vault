@@ -15,7 +15,7 @@ license: OGL
 ---
 # Celestial Staff
 ## Item 17
-### [uncommon](uncommon "Uncommon Rarity Trait")[[holy]][[magical]][[staff]][[two-hand-d8]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[holy]][[3-Rules/Rule References/Magical]][[3-Rules/Character Building/Equipment/Staff]][[two-hand-d8]]
 
 |  |  |
 | -- | -- |
@@ -26,7 +26,7 @@ license: OGL
 
 
 
-Heavenly radiance shines from an active _celestial staff_, a golden staff capped with a pair of sculpted angel's wings. Used as a weapon, the staff is a _+2 greater striking holy staff_. While wielding a _celestial staff_, you gain a +1 circumstance bonus to saving throws against effects that have the evil trait and effects created by evil creatures. When you prepare this staff, if you're evil, you become [[Conditions/Drained 1|Drained 1]] until your next daily preparations.
+Heavenly radiance shines from an active _celestial staff_, a golden staff capped with a pair of sculpted angel's wings. Used as a weapon, the staff is a _+2 greater striking holy staff_. While wielding a _celestial staff_, you gain a +1 circumstance bonus to saving throws against effects that have the evil trait and effects created by evil creatures. When you prepare this staff, if you're evil, you become [[Conditions/Drained|Drained 1]] until your next daily preparations.
 
 * * *
 
@@ -37,7 +37,7 @@ Heavenly radiance shines from an active _celestial staff_, a golden staff capped
 *   **Cantrip** [[Spells/Divine Lance|Divine Lance]] (good only)
 *   **1st** [[Spells/Bless|Bless]], [[Spells/Protection|Protection]]
 *   **2nd** [[Spells/Everlight|Everlight]], [[Spells/Inner Radiance Torrent|Inner Radiance Torrent]]
-*   **3rd** [[Spells/Circle of Protection|Circle of Protection]], [[Spells/Sanctified Ground|Sanctified Ground]]
+*   **3rd** [[Spells/Circle of Protection|Circle of Protection]], [[Spells/Anointed Ground|Sanctified Ground]]
 *   **4th** [[Spells/Holy Cascade|Holy Cascade]], [[Spells/Inner Radiance Torrent|Inner Radiance Torrent]]
 *   **5th** [[Spells/Spiritual Guardian|Spiritual Guardian]], [[Spells/Summon Celestial|Summon Celestial]]
 *   **6th** [[Spells/Holy Cascade|Holy Cascade]], [[Spells/Summon Celestial|Summon Celestial]]

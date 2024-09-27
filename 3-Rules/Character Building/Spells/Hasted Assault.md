@@ -4,22 +4,33 @@ title: "Hasted Assault"
 noteType: pf2eSpell
 cssclasses: pf2e,pf2e-spell
 tags:
+  - pf2eSpell
   - spell/level/7
   - trait/focus
   - trait/magus
   - trait/manipulate
   - trait/uncommon
+
 aliases: "Compendium.pf2e.spells-srd.Item.3MzuRDc7ccylpW2e" 
+license: OGL
 ---
-# Hasted Assault  `pf2:1`  
-## Focus 7
-### [uncommon](uncommon "Uncommon Rarity Trait")[[focus]][[magus]][[manipulate]]
+```statblock
+name: "Hasted Assault  `pf2:1`"
+level: "Focus 7"
+rare_03: [[Uncommon]]
+trait_01: [[focus]]
+trait_02: [[magus]]
+trait_03: [[manipulate]]
+layout: Basic Pathfinder 2e Layout
+columns: 1
+columnWidth: x
+abilities_top:
+  - name: ""
 
-**Duration** 1 minute
-* * * 
-You call upon your magic to speed up your attacks. You gain the quickened condition and can use the extra action each round for only Strike actions.
-
-_Note: Conflux spells refresh Spellstrike._
-
-*Source: Pathfinder Secrets of Magic*
-*OGL*
+  - name: "Duration"
+    desc: "1 minute"
+abilities_mid:
+  - name: ""
+    desc: "You call upon your magic to speed up your attacks. You gain the [[Conditions/Quickened|Quickened]] condition and can use the extra action each round for only Strike actions."
+sourcebook: "_Pathfinder Secrets of Magic_"
+```

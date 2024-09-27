@@ -7,8 +7,9 @@ tags:
   - trait/poison
   - trait/common
   - category/defensive
+  - remaster
 aliases: "Compendium.pf2e.actionspf2e.Item.kKKHwVUnroKuAnOt"
-license: OGL
+license: ORC
 ---
 # Toxic Skin `pf2:r`
 
@@ -21,13 +22,11 @@ license: OGL
 
 **Frequency** once per hour
 
-**Trigger** A creature touches you, such as by Grappling you, successfully hitting you with an unarmed attack, or using a touch-range spell against you.
+**Trigger** A creature touches you, such as by [[Actions/Grapple|Grappling]] you, successfully hitting you with an unarmed attack, or using a touch-range spell against you
 
 * * *
 
-You exude a deadly toxin. The triggering creature takes 1d4 poison damage (Fortitude check using your class DC or spell DC, whichever is higher). At 3rd level and every 2 levels thereafter, the damage increases by 1d4.
+**Effect** You exude a deadly toxin. The triggering creature takes 1d4 poison damage (Fortitude check save using your class DC or spell DC, whichever is higher). At 3rd level and every 2 levels thereafter, the damage increases by 1d4.
 
-Leveled Poison Damage
-
-*Source: Pathfinder Lost Omens: The Mwangi Expanse*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

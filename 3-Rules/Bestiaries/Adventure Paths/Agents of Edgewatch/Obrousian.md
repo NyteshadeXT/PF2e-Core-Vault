@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/undead
   - pf2e/creature/type/unholy
+  - pf2eMonster
   - pf2e/creature/level/14
 statblock: inline
 name: "Obrousian"
@@ -22,12 +23,12 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #161: Belly of the Black Whale"
 name: "Obrousian"
 level: "Creature 14"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Medium"
-trait_01: "evil"
-trait_02: "undead"
-trait_03: "unholy"
+trait_01: [[evil]]
+trait_02: [[undead]]
+trait_03: [[unholy]]
 modifier: 26
 perception:
   - name: "Perception"
@@ -71,6 +72,12 @@ attacks:
   - name: "Drowning Grasp"
     desc: "  When a creature is grabbed by the obrousian, its lungs magically fill with water. A creature that can't breathe water is suffocating while it is grabbed."
  
+```
+
+```encounter-table
+name: Obrousian
+creatures:
+  - 1: Obrousian
 ```
 
 

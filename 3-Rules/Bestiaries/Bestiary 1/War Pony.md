@@ -6,6 +6,7 @@ cssClasses: pf2e
 aliases: "Compendium.pf2e.pathfinder-bestiary.Actor.OPavstjKhgcp30fc" 
 tags:
   - pf2e/creature/type/animal
+  - pf2eMonster
   - pf2e/creature/level/1
 statblock: inline
 name: "War Pony"
@@ -24,11 +25,12 @@ level: "Creature 1"
 
 alignment: ""
 size: "Medium"
-trait_01: "animal"
+trait_01: [[animal]]
 modifier: 5
 perception:
   - name: "Perception"
     desc: "+5; Low-Light Vision, Scent (Imprecise) 30 Feet"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Acrobatics: +7, Athletics: +7"
@@ -61,6 +63,12 @@ attacks:
   - name: "Gallop"
     desc: "`pf2:2`  The war pony Strides twice. It has a +10-foot circumstance bonus to its Speed during these Strides."
  
+```
+
+```encounter-table
+name: War Pony
+creatures:
+  - 1: War Pony
 ```
 
 

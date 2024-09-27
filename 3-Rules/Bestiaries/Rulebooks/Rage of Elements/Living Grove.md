@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/elemental
   - pf2e/creature/type/plant
   - pf2e/creature/type/wood
+  - pf2eMonster
   - pf2e/creature/level/5
   - remaster
 statblock: inline
@@ -26,17 +27,17 @@ level: "Creature 5"
 
 alignment: ""
 size: "Large"
-trait_01: "elemental"
-trait_02: "plant"
-trait_03: "wood"
+trait_01: [[elemental]]
+trait_02: [[plant]]
+trait_03: [[wood]]
 modifier: 15
 perception:
   - name: "Perception"
     desc: "+15; Tremorsense (Imprecise) 30 Feet"
-languages: "Arboreal, Muan"
+languages: "Arboreal, Muan; understands but can&#x27;t speak"
 skills:
   - name: "Skills"
-    desc: "Nature: +13, Stealth: +13 (+16 in forests or grasslands), Survival: +12"
+    desc: "Nature: +13, Stealth: +13, Survival: +12"
 abilityMods: [4, 0, 5, 0, 1, 1]
 speed: 20 feet
 sourcebook: "_Pathfinder Rage of Elements_"
@@ -67,8 +68,14 @@ attacks:
     desc: "`pf2:1` Nuts +11 (range increment 20 feet)\n__Damage__  2d6 + 4 bludgeoning"
 
   - name: "[[Bestiary Ability Glossary/Engulf|Engulf]]"
-    desc: "`pf2:2`  DC 22 Reflex check, 5d8 bludgeoning damage, Escape DC 20, Rupture 10\nA creature Engulfed by the living grove must also attempt a DC 22 Fortitude check save as it's battered between the thin, tightly packed trunks.\n**Critical Success** The creature is unaffected.\n**Success** The creature is [[Conditions/Stunned 1|Stunned 1]].\n**Failure** The creature is [[Conditions/Stunned 1|Stunned 2]].\n**Critical Failure** The creature is [[Conditions/Stunned 1|Stunned 4]].\n"
+    desc: "`pf2:2`  DC 22 Reflex check, 5d8 bludgeoning damage, Escape DC 20, Rupture 10\n\nA creature Engulfed by the living grove must also attempt a DC 22 Fortitude check save as it's battered between the thin, tightly packed trunks.\n\n**Critical Success** The creature is unaffected.\n\n**Success** The creature is [[Conditions/Stunned|Stunned 1]].\n\n**Failure** The creature is [[Conditions/Stunned|Stunned 2]].\n\n**Critical Failure** The creature is [[Conditions/Stunned|Stunned 4]].\n\n* * *\n"
  
+```
+
+```encounter-table
+name: Living Grove
+creatures:
+  - 1: Living Grove
 ```
 
 

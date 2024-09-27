@@ -12,7 +12,7 @@ license: OGL
 ---
 # Bola Shot
 ## Item 5
-### [[consumable]][[magical]]
+### [[consumable]][[3-Rules/Rule References/Magical]]
 
 **Category** ammo; 
 **Price** 25 gp; 
@@ -29,7 +29,7 @@ This ammunition bears a rune with three lines radiating out, each ending in a ci
 
 * * *
 
-**Critical Success** The target falls [[Conditions/Prone|Prone]] and is [[Conditions/Stunned 1|Stunned 1]].
+**Critical Success** The target falls [[Conditions/Prone|Prone]] and is [[Conditions/Stunned|Stunned 1]].
 
 **Success** The target falls prone.
 

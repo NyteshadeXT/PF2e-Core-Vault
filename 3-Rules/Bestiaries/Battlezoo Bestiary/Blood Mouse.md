@@ -6,6 +6,7 @@ cssClasses: pf2e
 aliases: "Compendium.battlezoo-bestiary-pf2e.pf2e-battlezoo-bestiary.Actor.NrvmeSREmeO3n1Dk" 
 tags:
   - pf2e/creature/type/animal
+  - pf2eMonster
   - pf2e/creature/level/1
 statblock: inline
 name: "Blood Mouse"
@@ -24,14 +25,15 @@ level: "Creature 1"
 
 alignment: ""
 size: "tiny"
-trait_01: "animal"
+trait_01: [[animal]]
 modifier: 8
 perception:
   - name: "Perception"
     desc: "+8; Darkvision"
+languages: ""
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +6, Stealth: +8, Survival: +3, "
+    desc: "Acrobatics: +6, Stealth: +8, Survival: +3"
 abilityMods: [-2, 3, 1, -4, 0, 2]
 speed: 30 feet
 sourcebook: "_Battlezoo Bestiary_"
@@ -50,7 +52,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Soothing Aroma"
-    desc: " (aura,olfactory) Aura 10 feet\nThe blood mouse is surrounded by an aromatic cloud that emanates from a gland in its tail. The pleasant aroma smells different to each creature, and it fascinates prey and predators alike. A creature that begins its turn in the aura must make a Will save.\n**Success** The creature is unaffected.\n**Failure** The creature is Fascinated by the blood mouse until the beginning of its next turn. During this time, the creature cannot Stride and cannot attack the blood mouse.\n**Critical Failure** As failure, but the condition doesn't end automatically. The creature can attempt a new save at the end of each of its turns. On a success, the fascinated condition ends."
+    desc: " (aura,olfactory) [[Bestiary Ability Glossary/Aura|Aura]] 10 feet\n\nThe blood mouse is surrounded by an aromatic cloud that emanates from a gland in its tail. The pleasant aroma smells different to each creature, and it fascinates prey and predators alike. A creature that begins its turn in the aura must make a DC 15 Will save.\n* * *\n\n**Success** The creature is unaffected.\n\n**Failure** The creature is [[Conditions/Fascinated|Fascinated]] by the blood mouse until the beginning of its next turn. During this time, the creature cannot Stride and cannot attack the blood mouse.\n\n**Critical Failure** As failure, but the condition doesn't end automatically. The creature can attempt a new save at the end of each of its turns. On a success, the fascinated condition ends."
 
 attacks:
   - name: ""
@@ -59,14 +61,20 @@ attacks:
     desc: "`pf2:1` Proboscis +4 (finesse)\n__Damage__  1d4 + 2 piercing plus attach"
 
   - name: "Leaping Strike"
-    desc: "`pf2:2`  The blood mouse uses its strong hind legs to propel itself at its prey and attack. The blood mouse makes a proboscis Strike against a creature up to 10 feet away. On a hit, the Strike deals 2d4 + 4 piercing damage and the blood mouse attaches to the creature."
+    desc: "`pf2:2`  The blood mouse uses its strong hind legs to propel itself at its prey and attack. The blood mouse makes a proboscis Strike against a creature up to 10 feet away. On a hit, the Strike deals 2d4+4 piercing damage and the blood mouse attaches to the creature."
 
   - name: "Attach"
-    desc: "  When a blood mouse hits a target larger than itself, its proboscis attaches it to that creature. This is similar to Grabbing the creature, but the blood mouse moves with that creature rather than holding it in place. The blood mouse is Off-Guard while attached.\nIf the blood mouse is killed or pushed away while attached to a creature it has drained blood from, that creature takes 1d4 bleed damage. Escaping the attach or removing the blood mouse in other ways doesn't cause bleed damage."
+    desc: "  When a blood mouse hits a target larger than itself, its proboscis attaches it to that creature. This is similar to Grabbing the creature, but the blood mouse moves with that creature rather than holding it in place. The blood mouse is [[Conditions/Off-Guard|Off-Guard]] while attached.\n\nIf the blood mouse is killed or pushed away while attached to a creature it has drained blood from, that creature takes 1d4 bleed damage. Escaping the attach or removing the blood mouse in other ways doesn't cause bleed damage."
 
   - name: "Blood Drain"
-    desc: "`pf2:1`  **Requirements** The blood mouse is attached to a creature.\n**Effect** The blood mouse uses its proboscis to drain blood from the creature it's attached to. This deals 1d4 piercing damage, and the blood mouse gains temporary Hit Points equal to the damage dealt.\nA creature that has its blood drained by a blood mouse is Drained 1 until it recieves healing (of any kind or amount)."
+    desc: "`pf2:1`  **Requirements** The blood mouse is attached to a creature.\n\n**Effect** The blood mouse uses its proboscis to drain blood from the creature it's attached to. This deals 1d4 piercing damage, and the blood mouse gains temporary Hit Points equal to the damage dealt.\n\nA creature that has its blood drained by a blood mouse is [[Conditions/Drained|Drained 1]] until it recieves healing (of any kind or amount)."
  
+```
+
+```encounter-table
+name: Blood Mouse
+creatures:
+  - 1: Blood Mouse
 ```
 
 

@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/animal
   - pf2e/creature/type/evil
   - pf2e/creature/type/mindless
+  - pf2eMonster
   - pf2e/creature/level/6
 statblock: inline
 name: "Afziaka Brute"
@@ -22,16 +23,17 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #185: A Taste of Ashes"
 name: "Afziaka Brute"
 level: "Creature 6"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Large"
-trait_01: "animal"
-trait_02: "evil"
-trait_03: "mindless"
+trait_01: [[animal]]
+trait_02: [[evil]]
+trait_03: [[mindless]]
 modifier: 12
 perception:
   - name: "Perception"
     desc: "+12; Darkvision, Scent (Imprecise) 30 Feet"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Athletics: +16, Survival: +14"
@@ -65,11 +67,17 @@ attacks:
     desc: "`pf2:1` Hoof +17 ()\n__Damage__  2d8 + 7 bludgeoning"
 
   - name: "Hunger Pangs"
-    desc: " (curse,divine) A creature damaged by the afziaka's fangs must succeed at a DC 22 Fortitude check save or become [[Conditions/Enfeebled 1|Enfeebled 2]] for 1 minute. The creature can remove this condition earlier by consuming at least a handful of raw meat."
+    desc: " (curse,divine) A creature damaged by the afziaka's fangs must succeed at a DC 22 Fortitude check save or become [[Conditions/Enfeebled|Enfeebled 2]] for 1 minute. The creature can remove this condition earlier by consuming at least a handful of raw meat."
 
   - name: "[[Bestiary Ability Glossary/Trample|Trample]]"
-    desc: "`pf2:3`  Medium or smaller, hoof, DC 23 Reflex check\n"
+    desc: "`pf2:3`  Medium or smaller, hoof, DC 23 Reflex check\n\n* * *\n"
  
+```
+
+```encounter-table
+name: Afziaka Brute
+creatures:
+  - 1: Afziaka Brute
 ```
 
 

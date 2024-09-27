@@ -8,13 +8,13 @@ tags:
 ---
 # Back Breaker
 
-> **Crit Effect:** Until healed, the target is [[Conditions/Clumsy 1|Clumsy 2]] and [[Conditions/Enfeebled 1|Enfeebled 2]].
+> **Crit Effect:** Until healed, the target is [[Conditions/Clumsy|Clumsy 2]] and [[Conditions/Enfeebled|Enfeebled 2]].
 
 `Bludgeoning`
 
 # Deep Wound
 
-> **Crit Effect:** The target is [[Conditions/Sickened 1|Sickened 3]].
+> **Crit Effect:** The target is [[Conditions/Sickened|Sickened 3]].
 
 `Piercing`
 

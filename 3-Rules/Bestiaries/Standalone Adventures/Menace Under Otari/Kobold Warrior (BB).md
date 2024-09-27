@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.menace-under-otari-bestiary.Actor.r9w1n85mp9Ip4QiS"
 tags:
   - pf2e/creature/type/humanoid
   - pf2e/creature/type/kobold
+  - pf2eMonster
   - pf2e/creature/level/-1
   - remaster
 statblock: inline
@@ -25,15 +26,16 @@ level: "Creature -1"
 
 alignment: ""
 size: "Small"
-trait_01: "humanoid"
-trait_02: "kobold"
+trait_01: [[humanoid]]
+trait_02: [[kobold]]
 modifier: 3
 perception:
   - name: "Perception"
     desc: "+3; Darkvision"
+languages: ""
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +5, Crafting: +2 (+4 traps), Stealth: +5"
+    desc: "Acrobatics: +5, Crafting: +2, Stealth: +5"
 abilityMods: [1, 3, 0, 0, 1, -1]
 speed: 25 feet
 sourcebook: "_Pathfinder Beginner Box_"
@@ -61,12 +63,18 @@ attacks:
   - name: "Ranged"
     desc: "`pf2:1` Spear +5 (thrown 20 ft.)\n__Damage__  1d6 + 1 piercing"
 
-  - name: "[[Menace Under Otari/Green Kobold Dragon Mage (BB)/Scamper|Scamper]]"
+  - name: "[[Menace Under Otari/Kobold Dragon Mage (Green, BB)/Scamper|Scamper]]"
     desc: "`pf2:1`  If the kobold is adjacent to at least one enemy, the kobold Strides up to 30 feet and gains a +2 circumstance bonus to AC against reactions triggered by this movement. The kobold must end this movement in a space that's not adjacent to any enemy."
 
   - name: "[[Bestiary Ability Glossary/Sneak Attack|Sneak Attack]]"
     desc: "  The kobold warrior deals an extra 1d4 damage to creatures that have the [[Conditions/Off-Guard|Off-Guard]] condition."
  
+```
+
+```encounter-table
+name: Kobold Warrior (BB)
+creatures:
+  - 1: Kobold Warrior (BB)
 ```
 
 

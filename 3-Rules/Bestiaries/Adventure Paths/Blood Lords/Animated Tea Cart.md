@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.blood-lords-bestiary.Actor.iVzVgK6igRZ8hkCu"
 tags:
   - pf2e/creature/type/construct
   - pf2e/creature/type/mindless
+  - pf2eMonster
   - pf2e/creature/level/8
 statblock: inline
 name: "Animated Tea Cart"
@@ -21,15 +22,16 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #183: Field of Maidens"
 name: "Animated Tea Cart"
 level: "Creature 8"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Medium"
-trait_01: "construct"
-trait_02: "mindless"
+trait_01: [[construct]]
+trait_02: [[mindless]]
 modifier: 13
 perception:
   - name: "Perception"
     desc: "+13; Darkvision"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Athletics: +18, Stealth: +16"
@@ -64,8 +66,14 @@ attacks:
     desc: "  Like normal objects, an animated tea cart has Hardness. This Hardness reduces any damage the tea cart takes by an amount equal to the Hardness. Once an animated tea cart is reduced to fewer than half its Hit Points, or immediately upon being damaged by a critical hit, its construct armor breaks, removing the Hardness and reducing its Armor Class to 24."
 
   - name: "Scald"
-    desc: "`pf2:1`  **Frequency** once per round\n**Effect** The tea cart ejects piping-hot tea in a 15-foot cone that deals 5d6 fire damage (DC 26 Reflex check)."
+    desc: "`pf2:1`  **Frequency** once per round\n* * *\n\n**Effect** The tea cart ejects piping-hot tea in a @Template[cone|distance:15] that deals 5d6 fire damage (DC 26 Reflex check)."
  
+```
+
+```encounter-table
+name: Animated Tea Cart
+creatures:
+  - 1: Animated Tea Cart
 ```
 
 

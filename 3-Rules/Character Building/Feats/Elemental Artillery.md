@@ -3,6 +3,7 @@ obsidianUIMode: preview
 title: "Elemental Artillery"
 cssclasses: pf2e,pf2e-spell
 tags:
+  - trait/attack
   - trait/composite
   - trait/impulse
   - trait/kineticist
@@ -17,7 +18,7 @@ license: OGL
 ---
 # Elemental Artillery `pf2:3`
 ## Feat 6
-### [[composite]][[impulse]][[kineticist]][[metal]][[primal]][[Wood]]
+### [[attack]][[composite]][[impulse]][[kineticist]][[metal]][[primal]][[wood]]
 
 **Category** class; 
 

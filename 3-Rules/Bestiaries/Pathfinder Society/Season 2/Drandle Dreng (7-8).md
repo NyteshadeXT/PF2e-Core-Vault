@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/good
   - pf2e/creature/type/human
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/8
 statblock: inline
 name: "Drandle Dreng (7-8)"
@@ -23,13 +24,13 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Society Scenario #2-22: Breaking the Storm: Excising Ruination"
 name: "Drandle Dreng (7-8)"
 level: "Creature 8"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Medium"
-trait_01: "chaotic"
-trait_02: "good"
-trait_03: "human"
-trait_04: "humanoid"
+trait_01: [[chaotic]]
+trait_02: [[good]]
+trait_03: [[human]]
+trait_04: [[humanoid]]
 modifier: 19
 perception:
   - name: "Perception"
@@ -37,7 +38,7 @@ perception:
 languages: "Common, Draconic, Dwarven, Elven, Gnomish, Goblin, Halfling, Orcish"
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +18, Athletics: +16, Crafting: +17, Deception: +16, Diplomacy: +14, Intimidation: +14, Pathfinder Society Lore: +19, Society: +17, Stealth: +18, Survival: +15, Thievery: +18"
+    desc: "Acrobatics: +18, Athletics: +16, Crafting: +17, Deception: +16, Diplomacy: +14, Intimidation: +14, Society: +17, Stealth: +18, Survival: +15, Thievery: +18, Pathfinder Society Lore: +19"
 abilityMods: [4, 6, 4, 5, 3, 4]
 speed: 30 feet
 sourcebook: "_Pathfinder Society Scenario #2-22: Breaking the Storm: Excising Ruination_"
@@ -63,7 +64,7 @@ abilities_mid:
     desc: "  When Drandle Dreng rolls a success on a Reflex save, they get a critical success instead."
 
   - name: "Sidestep"
-    desc: "`pf2:r`  **Trigger** The attack roll for a Strike targeting Drandle Dreng fails or critically fails\n**Effect** Drandle Dreng redirects the attack to a creature of his choice that is adjacent to him and within the reach of the triggering attack. The attacker rerolls the Strike's attack roll against the new target."
+    desc: "`pf2:r`  **Trigger** The attack roll for a Strike targeting Drandle Dreng fails or critically fails\n* * *\n\n**Effect** Drandle Dreng redirects the attack to a creature of his choice that is adjacent to him and within the reach of the triggering attack. The attacker rerolls the Strike's attack roll against the new target."
 
   - name: "Surprise Attack"
     desc: "  On the first round of combat, if Drandle Dreng rolls Deception or Stealth for initiative, creatures who haven't acted are [[Conditions/Off-Guard|Off-Guard]] to him."
@@ -86,6 +87,12 @@ attacks:
   - name: "Tumble Behind"
     desc: "  When Drandle Dreng successfully [[Actions/Tumble Through|Tumbles Through]], the foe whose space he passed through is [[Conditions/Off-Guard|Off-Guard]] against the next attack he makes before the end of his turn."
  
+```
+
+```encounter-table
+name: Drandle Dreng (7-8)
+creatures:
+  - 1: Drandle Dreng (7-8)
 ```
 
 

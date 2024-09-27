@@ -4,6 +4,7 @@ obsidianUIMode: preview
 noteType: pf2eHazard
 tags:
   - haunt
+  - pf2eHazard
 
 source: Pathfinder #175: Broken Tusk Moon
 aliases: "Compendium.pf2e.quest-for-the-frozen-flame-bestiary.Actor.pYjPHCoDHqFL994f" 
@@ -21,13 +22,13 @@ name: "Pouncing Tiger Haunt"
 level: "Hazard 2"
 
 
-trait_01: "haunt"
+trait_01: [[haunt]]
 modifier: 11
 sourcebook: "_Pathfinder #175: Broken Tusk Moon_"
 ac: 18
 armorclass:
   - name: AC
-    desc: "18; __Fort__ +11, __Ref__ +5, __Will__ +0"
+    desc: "18; __Fort__ +11, __Ref__ +5, "
 hp: 30
 health:
   - name: ""
@@ -49,10 +50,16 @@ attacks:
   - name: ""
 
   - name: "Tiger Slash"
-    desc: "`pf2:r` **Trigger** A living creature approaches within 5 feet of the cave painting\n**Effect** The haunt deals 4d8 slashing damage with semisolid claws (DC 18 Will check). On a failed save, the target is also [[Conditions/Frightened 1|Frightened 1]] and [[Conditions/Fleeing|Fleeing]] for 1 round (or [[Conditions/Frightened 1|Frightened 2]] and fleeing for 1 minute on a critical failure)."
+    desc: "`pf2:r` **Trigger** A living creature approaches within 5 feet of the cave painting\n* * *\n\n**Effect** The haunt deals 4d8 slashing damage with semisolid claws (DC 18 Will check). On a failed save, the target is also [[Conditions/Frightened|Frightened 1]] and [[Conditions/Fleeing|Fleeing]] for 1 round (or [[Conditions/Frightened|Frightened 2]] and fleeing for 1 minute on a critical failure)."
 
 
   - name: "Reset"
     desc: "If the cave painting isn't destroyed, the haunt resets after 1 day."
+```
+
+```encounter-table
+name: Pouncing Tiger Haunt
+creatures:
+  - 1: Pouncing Tiger Haunt
 ```
 

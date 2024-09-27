@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.pathfinder-monster-core.Actor.sd6BsHgVrw4FgR70"
 tags:
   - pf2e/creature/type/elf
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/1
   - remaster
 statblock: inline
@@ -19,14 +20,15 @@ license: ORC
 columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
+token: [[modules/pf2e-tokens-monster-core/assets/portraits/elf-ranger.webp| ]]
 source: "Pathfinder Monster Core"
 name: "Elf Ranger"
 level: "Creature 1"
 
 alignment: ""
 size: "Medium"
-trait_01: "elf"
-trait_02: "humanoid"
+trait_01: [[elf]]
+trait_02: [[humanoid]]
 modifier: 10
 perception:
   - name: "Perception"
@@ -66,7 +68,7 @@ attacks:
     desc: "`pf2:1` Shortbow +9 (deadly d8, range increment 60 feet)\n__Damage__  1d6 + 2 piercing"
 
   - name: "Double Shot"
-    desc: "`pf2:1`  The elf ranger makes two shortbow Strikes targeting two different creatures within the shortbow’s first range increment. Both Strikes uses the elf’s current multiple attack penalty, but each strike takes a –2 penalty."
+    desc: "`pf2:1`  The elf ranger makes two shortbow Strikes targeting two different creatures within the shortbow's first range increment. Both Strikes uses the elf's current multiple attack penalty, but each strike takes a –2 penalty."
 
   - name: "Elf Step"
     desc: "`pf2:1`  The elf Steps twice."
@@ -74,6 +76,12 @@ attacks:
   - name: "Unimpeded Journey"
     desc: "  The elf ranger ignores difficult terrain."
  
+```
+
+```encounter-table
+name: Elf Ranger
+creatures:
+  - 1: Elf Ranger
 ```
 
 

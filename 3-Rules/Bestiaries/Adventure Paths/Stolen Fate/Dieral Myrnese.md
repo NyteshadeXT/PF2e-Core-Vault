@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.stolen-fate-bestiary.Actor.Bn7bG2gbyXYj7mzT"
 tags:
   - pf2e/creature/type/elf
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/5
 statblock: inline
 name: "Dieral Myrnese"
@@ -21,11 +22,11 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #190: The Choosing"
 name: "Dieral Myrnese"
 level: "Creature 5"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Medium"
-trait_01: "elf"
-trait_02: "humanoid"
+trait_01: [[elf]]
+trait_02: [[humanoid]]
 modifier: 11
 perception:
   - name: "Perception"
@@ -33,7 +34,7 @@ perception:
 languages: "Common"
 skills:
   - name: "Skills"
-    desc: "Accounting Lore: +13, Acrobatics: +10, Crafting: +13, Deception: +13, Diplomacy: +11, Fortune-Telling Lore: +15, Intimidation: +11, Society: +11, Stealth: +10, Thievery: +10, Underworld Lore: +15"
+    desc: "Acrobatics: +10, Crafting: +13, Deception: +13, Diplomacy: +11, Intimidation: +11, Society: +11, Stealth: +10, Thievery: +10, Accounting Lore: +13, Fortune-Telling Lore: +15, Underworld Lore: +15"
 abilityMods: [0, 3, 0, 4, 2, 4]
 speed: 25 feet
 sourcebook: "_Pathfinder #190: The Choosing_"
@@ -76,6 +77,12 @@ attacks:
   - name: "[[Bestiary Ability Glossary/Sneak Attack|Sneak Attack]]"
     desc: "  The fence deals an extra 2d6 precision damage to [[Conditions/Off-Guard|Off-Guard]] creatures."
  
+```
+
+```encounter-table
+name: Dieral Myrnese
+creatures:
+  - 1: Dieral Myrnese
 ```
 
 

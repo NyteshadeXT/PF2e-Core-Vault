@@ -12,7 +12,7 @@ license: ORC
 ---
 # Eye of Fortune
 ## Item 13
-### [[invested]][[magical]]
+### [[invested]][[3-Rules/Rule References/Magical]]
 
 
 **Price** 2700 gp; 

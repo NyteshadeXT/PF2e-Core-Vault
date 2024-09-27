@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.rage-of-elements-bestiary.Actor.uEabVqGzN4TprwHw"
 tags:
   - pf2e/creature/type/elemental
   - pf2e/creature/type/fire
+  - pf2eMonster
   - pf2e/creature/level/10
   - remaster
 statblock: inline
@@ -25,8 +26,8 @@ level: "Creature 10"
 
 alignment: ""
 size: "Medium"
-trait_01: "elemental"
-trait_02: "fire"
+trait_01: [[elemental]]
+trait_02: [[fire]]
 modifier: 20
 perception:
   - name: "Perception"
@@ -56,16 +57,16 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Ashen Smoke"
-    desc: "  When the sootsoldiers are reduced by an HP Threshold or are reduced to 0 HP, the destroyed soldiers crumble to a cloud of ash-laden smoke in 20-foot burst centered on the sootsoldiers. All creatures within the cloud are [[Conditions/Concealed|Concealed]], and all creatures outside it are concealed to those inside. The smoke lasts for 1 minute or until dispersed by a strong wind."
+    desc: "  When the sootsoldiers are reduced by an HP Threshold or are reduced to 0 HP, the destroyed soldiers crumble to a cloud of ash-laden smoke in @Template[burst|distance:20] centered on the sootsoldiers. All creatures within the cloud are [[Conditions/Concealed|Concealed]], and all creatures outside it are concealed to those inside. The smoke lasts for 1 minute or until dispersed by a strong wind."
 
 attacks:
   - name: ""
 
   - name: "Incinerating Grasp"
-    desc: "`pf2:1`  **Frequency** once per round\n**Effect** The sootsoldiers reach to constrain each enemy within 5 feet in their fiery clutches (DC 26 Reflex check save). The damage and additional effects depend on the number of actions.\n`pf2:1` 2d8 fire damage\n`pf2:2` 3d8 + 7 fire damage plus [[Conditions/Grabbed|Grabbed]]\n`pf2:3` 4d8 + 7 fire damage plus grabbed"
+    desc: "`pf2:1`  **Frequency** once per round\n* * *\n\n**Effect** The sootsoldiers reach to constrain each enemy within 5 feet in their fiery clutches (DC 26 Reflex check save). The damage and additional effects depend on the number of actions.\n\n`pf2:1` 2d8 fire damage\n\n`pf2:2` 3d8+7 fire damage plus [[Conditions/Grabbed|Grabbed]]\n\n`pf2:3` 4d8+7 fire damage plus grabbed"
 
   - name: "Seething Flash"
-    desc: "`pf2:1` (fire,primal) The sootsoldiers reignite and rush across the battlefield, Forming Up and Striding twice. At the end of this movement, a wave of flame and heat pours off the sootsoldiers, dealing 4d8 fire damage to other creatures in a 10-foot emanation, with a DC 29 Reflex check save. A creature that critically fails its save is also knocked [[Conditions/Prone|Prone]]."
+    desc: "`pf2:1` (fire,primal) The sootsoldiers reignite and rush across the battlefield, Forming Up and Striding twice. At the end of this movement, a wave of flame and heat pours off the sootsoldiers, dealing 4d8 fire damage to other creatures in a @Template[emanation|distance:10], with a DC 29 Reflex check save. A creature that critically fails its save is also knocked [[Conditions/Prone|Prone]]."
 
   - name: "Smoke Vision"
     desc: "  Sootsoldiers ignore the [[Conditions/Concealed|Concealed]] condition from smoke."
@@ -73,6 +74,12 @@ attacks:
   - name: "Troop Movement"
     desc: "  Whenever the sootsoldiers Stride, they first Form Up as a free action to condense into a 20-foot-by-20- foot area (minus any missing squares), then move up to their Speed. This works just like a Gargantuan creature moving; for instance, if any of the sootsoldiers' squares enters difficult terrain, the extra movement cost applies to the whole troop."
  
+```
+
+```encounter-table
+name: Sootsoldiers
+creatures:
+  - 1: Sootsoldiers
 ```
 
 

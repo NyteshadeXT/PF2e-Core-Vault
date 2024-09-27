@@ -17,7 +17,11 @@ license: OGL
 
 
 
-**Minor Boon (Single-Use)** Your attack becomes more destructive. Once, one of your failed or successful attacks becomes a critical hit, and your weapon or unarmed attack gains the deadly d12 trait for this attack, replacing any deadly trait it already had.
+Your attack becomes more destructive.
+
+Once, one of your failed or successful attacks becomes a critical hit, and your weapon or unarmed attack gains the deadly d12 trait for this attack, replacing any deadly trait it already had.
+
+[[Divine Intercessions/Effect_ Rovagug's Destruction|Effect: Rovagug's Destruction]]
 
 Rovagug typically grants this boon when the critical hit could destroy something precious or significant.
 

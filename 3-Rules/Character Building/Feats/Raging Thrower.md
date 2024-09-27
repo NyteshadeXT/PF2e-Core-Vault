@@ -6,8 +6,9 @@ tags:
   - trait/barbarian
   - trait/common
   - category/class
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.5pGMffGKkBTZKvjw"
-license: OGL
+license: ORC
 ---
 # Raging Thrower
 ## Feat 1
@@ -18,7 +19,7 @@ license: OGL
 
 
 
-Thrown weapons become especially deadly in your fury. You apply the additional damage from Rage to your thrown weapon attacks. If you have the Brutal Critical feat or the devastator class feature, apply their benefits to thrown weapon attacks.
+Thrown weapons become especially deadly in your fury. You apply the additional damage from [[Actions/Rage|Rage]] to your thrown weapon attacks. If you have the [[Feats/Brutal Critical|Brutal Critical]] feat or the [[Class Features/Devastator|Devastator]] class feature, apply their benefits to thrown weapon attacks.
 
-*Source: Pathfinder Core Rulebook*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

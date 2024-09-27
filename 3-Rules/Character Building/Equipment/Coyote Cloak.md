@@ -12,7 +12,7 @@ license: ORC
 ---
 # Coyote Cloak
 ## Item 3
-### [[invested]][[magical]]
+### [[invested]][[3-Rules/Rule References/Magical]]
 
 
 **Price** 60 gp; 

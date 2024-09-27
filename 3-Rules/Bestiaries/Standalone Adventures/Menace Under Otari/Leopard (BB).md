@@ -6,6 +6,7 @@ cssClasses: pf2e
 aliases: "Compendium.pf2e.menace-under-otari-bestiary.Actor.wqPYzMNgYvrO6oEP" 
 tags:
   - pf2e/creature/type/animal
+  - pf2eMonster
   - pf2e/creature/level/2
   - remaster
 statblock: inline
@@ -24,14 +25,15 @@ level: "Creature 2"
 
 alignment: ""
 size: "Medium"
-trait_01: "animal"
+trait_01: [[animal]]
 modifier: 7
 perception:
   - name: "Perception"
     desc: "+7; Low-Light Vision"
+languages: ""
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +8, Athletics: +7, Stealth: +8 (+11 in undergrowth)"
+    desc: "Acrobatics: +8, Athletics: +7, Stealth: +8"
 abilityMods: [3, 4, 2, -4, 1, -2]
 speed: 30 feet,  climb 20 feet
 sourcebook: "_Pathfinder Beginner Box_"
@@ -70,6 +72,12 @@ attacks:
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
     desc: "`pf2:1`  When the leopard succeeds at its jaws Strike, it can use this action immediately after to attempt to [[Actions/Grapple|Grapple]] the target. This Grapple doesn't apply or count toward the leopard's multiple attack penalty."
  
+```
+
+```encounter-table
+name: Leopard (BB)
+creatures:
+  - 1: Leopard (BB)
 ```
 
 

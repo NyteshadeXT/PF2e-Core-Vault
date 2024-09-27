@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/humanoid
   - pf2e/creature/type/lawful
+  - pf2eMonster
   - pf2e/creature/level/4
 statblock: inline
 name: "Ulat-Kini Initiate"
@@ -23,13 +24,13 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #194: Cult of the Cave Worm"
 name: "Ulat-Kini Initiate"
 level: "Creature 4"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Medium"
-trait_01: "amphibious"
-trait_02: "evil"
-trait_03: "humanoid"
-trait_04: "lawful"
+trait_01: [[amphibious]]
+trait_02: [[evil]]
+trait_03: [[humanoid]]
+trait_04: [[lawful]]
 modifier: 10
 perception:
   - name: "Perception"
@@ -37,7 +38,7 @@ perception:
 languages: "Alghollthu, Sakvroth"
 skills:
   - name: "Skills"
-    desc: "Athletics: +11, Intimidation: +8, Stealth: +11 (+13 while swimming)"
+    desc: "Athletics: +11, Intimidation: +8, Stealth: +11"
 abilityMods: [3, 5, 2, 0, 2, 0]
 speed: 20 feet,  swim 40 feet
 sourcebook: "_Pathfinder #194: Cult of the Cave Worm_"
@@ -65,11 +66,17 @@ attacks:
     desc: "`pf2:1` Fangs +13 ()\n__Damage__  1 bleed 2d4 + 5 piercing"
 
   - name: "Flurry of Claws"
-    desc: "`pf2:1`  **Frequency** once per round\n**Effect** The ulat-kini initiate makes two claw Strikes against a single target."
+    desc: "`pf2:1`  **Frequency** once per round\n* * *\n\n**Effect** The ulat-kini initiate makes two claw Strikes against a single target."
 
   - name: "Kirtanang"
     desc: "  The initiate's Strikes take no penalty from passing through water."
  
+```
+
+```encounter-table
+name: Ulat-Kini Initiate
+creatures:
+  - 1: Ulat-Kini Initiate
 ```
 
 

@@ -6,6 +6,7 @@ cssClasses: pf2e
 aliases: "Compendium.pf2e.extinction-curse-bestiary.Actor.lM9j6lc5MkBlGfzD" 
 tags:
   - pf2e/creature/type/animal
+  - pf2eMonster
   - pf2e/creature/level/1
 statblock: inline
 name: "Violet"
@@ -20,14 +21,15 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #151: The Show Must Go On"
 name: "Violet"
 level: "Creature 1"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Small"
-trait_01: "animal"
+trait_01: [[animal]]
 modifier: 6
 perception:
   - name: "Perception"
     desc: "+6; Low-Light Vision, Scent (Imprecise) 30 Feet"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Acrobatics: +5, Athletics: +6, Survival: +5"
@@ -49,7 +51,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Protect"
-    desc: "`pf2:r`  **Trigger** A creature adjacent to both Violet and Pruana Two-Punch hits Pruana with a melee attack\n**Effect** Violet shields Pruana from the worst of the blow, taking half the damage from the attack and Pruana takes the remainder."
+    desc: "`pf2:r`  **Trigger** A creature adjacent to both Violet and Pruana Two-Punch hits Pruana with a melee attack\n* * *\n\n**Effect** Violet shields Pruana from the worst of the blow, taking half the damage from the attack and Pruana takes the remainder."
 
 attacks:
   - name: ""
@@ -66,6 +68,12 @@ attacks:
   - name: "Ram"
     desc: "`pf2:2`  Violet Strides twice and then makes a horns Strike. As long as he moved at least 20 feet, he gains a +2 circumstance bonus to his attack roll."
  
+```
+
+```encounter-table
+name: Violet
+creatures:
+  - 1: Violet
 ```
 
 

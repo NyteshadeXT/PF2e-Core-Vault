@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/aberration
   - pf2e/creature/type/chaotic
   - pf2e/creature/type/evil
+  - pf2eMonster
   - pf2e/creature/level/3
 statblock: inline
 name: "Zoudou The Zealous"
@@ -22,17 +23,17 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #196: The Summer That Never Was"
 name: "Zoudou The Zealous"
 level: "Creature 3"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Medium"
-trait_01: "aberration"
-trait_02: "chaotic"
-trait_03: "evil"
+trait_01: [[aberration]]
+trait_02: [[chaotic]]
+trait_03: [[evil]]
 modifier: 8
 perception:
   - name: "Perception"
     desc: "+8; "
-languages: "Common"
+languages: "Common; telepathy 30 feet"
 skills:
   - name: "Skills"
     desc: "Acrobatics: +9, Deception: +11, Diplomacy: +9, Occultism: +10, Religion: +9, Society: +8"
@@ -58,13 +59,13 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Identity Crisis"
-    desc: "`pf2:r` (emotion,mental,occult,visual) **Frequency** once per day\n**Trigger** Zoudou successfully Steals the Face of an adjacent creature\n**Effect** As Zoudou Steals the creature's Face, she telepathically draws at the creature's sense of identity and self. The creature must attempt a DC 20 Will check save. On a failure, the creature questions their own identity and becomes [[Conditions/Slowed 1|Slowed 1]] for 1 round. On a critical failure, they're slowed 1 for 1 minute."
+    desc: "`pf2:r` (emotion,mental,occult,visual) **Frequency** once per day\n\n**Trigger** Zoudou successfully Steals the Face of an adjacent creature\n* * *\n\n**Effect** As Zoudou Steals the creature's Face, she telepathically draws at the creature's sense of identity and self. The creature must attempt a DC 20 Will check save. On a failure, the creature questions their own identity and becomes [[Conditions/Slowed|Slowed 1]] for 1 round. On a critical failure, they're slowed 1 for 1 minute."
 
   - name: "Oath of Anonymity"
     desc: "  When Zoudou has a face, she can't cast divine prepared spells."
 
   - name: "Sensitive Hearing"
-    desc: "  As long as a noppera-bo is [[Conditions/Deafened|Deafened]], they are [[Conditions/Slowed 1|Slowed 1]]."
+    desc: "  As long as a noppera-bo is [[Conditions/Deafened|Deafened]], they are [[Conditions/Slowed|Slowed 1]]."
 
 attacks:
   - name: ""
@@ -85,14 +86,20 @@ attacks:
     desc: "`pf2:2` (concentrate,occult,polymorph) The noppera-bo changes into a version of a Small or Medium humanoid they've touched during the last 24 hours, and gains the target creature's face and voice. While transformed, the noppera-bo gains a +2 circumstance bonus to [[Actions/Impersonate|Impersonate]] that creature and loses its no face ability and listed immunities. The noppera-bo can change back by using this ability again."
 
   - name: "Regain Anonymity"
-    desc: "`pf2:1` (occult,polymorph) **Requirements** Zoudou has a face\n**Effect** Zoudou melts the face she's wearing and gains 1d4 rounds."
+    desc: "`pf2:1` (occult,polymorph) **Requirements** Zoudou has a face\n* * *\n\n**Effect** Zoudou melts the face she's wearing and gains 1d4 rounds."
 
   - name: "Silent Casting"
     desc: "  When Zoudou is faceless, she can substitute an additional somatic component for a verbal component."
 
   - name: "Steal Face"
-    desc: "`pf2:2` (concentrate,curse,incapacitation,occult,polymorph) **Frequency** once per day\n**Requirements** Zoudou is faceless\n**Effect** Zoudou targets one creature within 30 feet. The creature must attempt a DC 20 Fortitude check save.\n**Critical Success** The target is unaffected.\n**Success** The target is [[Conditions/Dazzled|Dazzled]] until the start of its next turn.\n**Failure** The noppera-bo gains the target's face. The target's face vanishes until the end of its next turn. Until then, it is [[Conditions/Blinded|Blinded]], can't speak or ingest, and can't smell. The target must also hold its breath or begin to suffocate.\n**Critical Failure** As failure, but the effect doesn't end automatically. The target can attempt a new save at the end of each of its turns, and the DC cumulatively decreases by 1 on each such attempt."
+    desc: "`pf2:2` (concentrate,curse,incapacitation,occult,polymorph) **Frequency** once per day\n\n**Requirements** Zoudou is faceless\n* * *\n\n**Effect** Zoudou targets one creature within 30 feet. The creature must attempt a DC 20 Fortitude check save.\n* * *\n\n**Critical Success** The target is unaffected.\n\n**Success** The target is [[Conditions/Dazzled|Dazzled]] until the start of its next turn.\n\n**Failure** The noppera-bo gains the target's face. The target's face vanishes until the end of its next turn. Until then, it is [[Conditions/Blinded|Blinded]], can't speak or ingest, and can't smell. The target must also hold its breath or begin to suffocate.\n\n**Critical Failure** As failure, but the effect doesn't end automatically. The target can attempt a new save at the end of each of its turns, and the DC cumulatively decreases by 1 on each such attempt."
  
+```
+
+```encounter-table
+name: Zoudou The Zealous
+creatures:
+  - 1: Zoudou The Zealous
 ```
 
 

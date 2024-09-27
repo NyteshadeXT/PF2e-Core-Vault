@@ -23,7 +23,7 @@ Many calignis keep several doses of darkening poison, an uncommon injury poison 
 
 * * *
 
-**Saving Throw** DC 16 Fortitude check;
+**Saving Throw** DC 16 Fortitude check
 
 **Maximum Duration** 6 rounds
 

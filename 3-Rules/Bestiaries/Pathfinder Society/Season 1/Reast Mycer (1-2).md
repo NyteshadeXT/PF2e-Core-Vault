@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/human
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/2
 statblock: inline
 name: "Reast Mycer (1-2)"
@@ -23,13 +24,13 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Society Scenario #1-22: Doom of Cassomir"
 name: "Reast Mycer (1-2)"
 level: "Creature 2"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Medium"
-trait_01: "chaotic"
-trait_02: "evil"
-trait_03: "human"
-trait_04: "humanoid"
+trait_01: [[chaotic]]
+trait_02: [[evil]]
+trait_03: [[human]]
+trait_04: [[humanoid]]
 modifier: 10
 perception:
   - name: "Perception"
@@ -37,7 +38,7 @@ perception:
 languages: "Common"
 skills:
   - name: "Skills"
-    desc: "Diplomacy: +8, Performance: +8 (+10 to deliver sermons), Religion: +7, Survival: +7"
+    desc: "Diplomacy: +8, Performance: +8, Religion: +7, Survival: +7"
 abilityMods: [2, 1, 0, 1, 3, 4]
 speed: 25 feet
 sourcebook: "_Pathfinder Society Scenario #1-22: Doom of Cassomir_"
@@ -57,7 +58,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Swear Vengeance"
-    desc: "`pf2:r`  **Trigger** A creature that Reast can see damages a follower of Groetus other than Reast\n**Effect** Reast gains the effect of a 1st-rank [[Spells/Sure Strike|Sure Strike]] spell. If Reast makes an attack roll against anyone other than the triggering creature, the true strike ends with no effect.\nReast can use this reaction once per day."
+    desc: "`pf2:r`  **Trigger** A creature that Reast can see damages a follower of Groetus other than Reast\n* * *\n\n**Effect** Reast gains the effect of a 1st-rank [[Spells/Sure Strike|Sure Strike]] spell. If Reast makes an attack roll against anyone other than the triggering creature, the true strike ends with no effect.\n\nReast can use this reaction once per day."
 
 attacks:
   - name: ""
@@ -74,6 +75,12 @@ attacks:
   - name: "Divine Spontaneous Spells"
     desc: "DC 18, attack +10; __1st __ (4 slots) _[[Spells/Bane|Bane]]_, _[[Spells/Harm|Harm]]_, _[[Spells/Enfeeble|Ray of Enfeeblement]]_, _[[Spells/Sanctuary|Sanctuary]]_\n__Cantrips__  __(1st)__ _[[Spells/Daze|Daze]]_, _[[Spells/Detect Magic|Detect Magic]]_, _[[Spells/Guidance|Guidance]]_, _[[Spells/Know the Way|Know Direction]]_, _[[Spells/Light|Light]]_, _[[Spells/Prestidigitation|Prestidigitation]]_, _[[Spells/Read Aura|Read Aura]]_"
  
+```
+
+```encounter-table
+name: Reast Mycer (1-2)
+creatures:
+  - 1: Reast Mycer (1-2)
 ```
 
 

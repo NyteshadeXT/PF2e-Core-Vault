@@ -12,7 +12,7 @@ license: ORC
 ---
 # Ranger Weapon Expertise
 ## Feat 5
-### [[ranger]]
+### [[3-Rules/trait_reference/ranger]]
 
 **Category** classfeature; 
 

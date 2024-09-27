@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/aberration
   - pf2e/creature/type/amphibious
   - pf2e/creature/type/evil
+  - pf2eMonster
   - pf2e/creature/level/2
 statblock: inline
 name: "Emperor Shark Penguin"
@@ -23,20 +24,20 @@ token: [[modules/battlezoo-bestiary-su-pf2e/art/Portraits/emperor-shark-penguin.
 source: "Battlezoo Bestiary: Strange and Unusual"
 name: "Emperor Shark Penguin"
 level: "Creature 2"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Medium"
-trait_01: "aberration"
-trait_02: "amphibious"
-trait_03: "evil"
+trait_01: [[aberration]]
+trait_02: [[amphibious]]
+trait_03: [[evil]]
 modifier: 6
 perception:
   - name: "Perception"
     desc: "+6; Darkvision, Wavesense (Imprecise) 30 Feet"
-languages: "Thalassic"
+languages: "Thalassic; can&#x27;t speak any language"
 skills:
   - name: "Skills"
-    desc: "Athletics: +8 (+10 to Swim), Intimidation: +5, Stealth: +6, "
+    desc: "Athletics: +8, Intimidation: +5, Stealth: +6, Athletics: +8, Intimidation: +5, Stealth: +6"
 abilityMods: [3, 2, 4, 0, 1, -1]
 speed: 10 feet,  swim 30 feet
 sourcebook: "_Battlezoo Bestiary: Strange and Unusual_"
@@ -64,11 +65,17 @@ attacks:
     desc: "`pf2:1` Claw +11 (agile)\n__Damage__  1d6 + 4 slashing"
 
   - name: "Deadly Duo"
-    desc: "`pf2:r`  **Trigger** Another emperor shark penguin succeeds on a jaws Strike against an enemy within this emperor shark penguin's reach\n**Effect** The emperor shark penguin makes a jaws Strike against the same enemy. Only one emperor shark penguin can use Deadly Duo from a single triggering jaws Strike, and the jaws Strike made with Deadly Duo can't trigger any additional emperor shark penguins' Deadly Duo reactions."
+    desc: "`pf2:r`  **Trigger** Another emperor shark penguin succeeds on a jaws Strike against an enemy within this emperor shark penguin's reach\n* * *\n\n**Effect** The emperor shark penguin makes a jaws Strike against the same enemy. Only one emperor shark penguin can use Deadly Duo from a single triggering jaws Strike, and the jaws Strike made with Deadly Duo can't trigger any additional emperor shark penguins' Deadly Duo reactions."
 
   - name: "Haul Out"
-    desc: "`pf2:2` (move) **Requirements** The emperor shark penguin is in water within 30 feet of a solid icy surface\n**Effect** Transitioning from sea to land with terrifying grace and speed, the emperor shark penguin Swims to the water's edge, Climbs onto the ice, and Strides up to twice. During these Strides, the emperor shark penguin is Prone. At the conclusion of its movement, the emperor shark penguin can Stand."
+    desc: "`pf2:2` (move) **Requirements** The emperor shark penguin is in water within 30 feet of a solid icy surface\n* * *\n\n**Effect** Transitioning from sea to land with terrifying grace and speed, the emperor shark penguin Swims to the water's edge, Climbs onto the ice, and Strides up to twice. During these Strides, the emperor shark penguin is [[undefined]]. At the conclusion of its movement, the emperor shark penguin can Stand."
  
+```
+
+```encounter-table
+name: Emperor Shark Penguin
+creatures:
+  - 1: Emperor Shark Penguin
 ```
 
 

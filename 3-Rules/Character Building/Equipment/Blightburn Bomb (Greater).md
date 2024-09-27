@@ -17,7 +17,7 @@ license: OGL
 ---
 # Blightburn Bomb (Greater)
 ## Item 20
-### [uncommon](uncommon "Uncommon Rarity Trait")[[alchemical]][[bomb]][[consumable]][[disease]][[3-Rules/Rule References/Poison]][[splash]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[alchemical]][[bomb]][[consumable]][[3-Rules/trait_reference/disease]][[3-Rules/Rule References/Poison]][[splash]]
 
 |  |  |
 | -- | -- |
@@ -41,13 +41,13 @@ Blightburn bombs have radioactive materials sealed inside flasks treated with le
 
 **Onset** 1d4 days
 
-**Stage 1** [[Conditions/Drained 1|Drained 1]] (1 day)
+**Stage 1** [[Conditions/Drained|Drained 1]] (1 day)
 
-**Stage 2** drained 1 and [[Conditions/Sickened 1|Sickened 1]] (1 day)
+**Stage 2** drained 1 and [[Conditions/Sickened|Sickened 1]] (1 day)
 
-**Stage 3** [[Conditions/Drained 1|Drained 2]] and [[Conditions/Sickened 1|Sickened 2]] (1 week)
+**Stage 3** [[Conditions/Drained|Drained 2]] and [[Conditions/Sickened|Sickened 2]] (1 week)
 
-**Stage 4** [[Conditions/Drained 1|Drained 3]] and [[Conditions/Sickened 1|Sickened 3]] (1 month)
+**Stage 4** [[Conditions/Drained|Drained 3]] and [[Conditions/Sickened|Sickened 3]] (1 month)
 
 **Stage 5** increase drained condition by 1 (1 year)
 

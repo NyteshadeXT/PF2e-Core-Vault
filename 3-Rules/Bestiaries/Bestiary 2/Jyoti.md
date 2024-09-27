@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/fire
   - pf2e/creature/type/humanoid
   - pf2e/creature/type/vitality
+  - pf2eMonster
   - pf2e/creature/level/9
 statblock: inline
 name: "Jyoti"
@@ -26,9 +27,9 @@ level: "Creature 9"
 
 alignment: ""
 size: "Medium"
-trait_01: "fire"
-trait_02: "humanoid"
-trait_03: "vitality"
+trait_01: [[fire]]
+trait_02: [[humanoid]]
+trait_03: [[vitality]]
 modifier: 21
 perception:
   - name: "Perception"
@@ -43,7 +44,7 @@ sourcebook: "_Pathfinder Bestiary 2_"
 ac: 28
 armorclass:
   - name: AC
-    desc: "28; __Fort__ +15, __Ref__ +18, __Will__ +21; +1 status to all saves vs. magic , +2 status to all saves vs. divine magic"
+    desc: "28; __Fort__ +15, __Ref__ +18, __Will__ +21; +1 status to all saves vs. magic, +2 status to all saves vs. divine magic"
 hp: 155
 health:
   - name: ""
@@ -74,11 +75,17 @@ attacks:
     desc: "DC 28, attack +20; __5th __  _[[Spells/Banishment|Banishment]]_, _[[Spells/Breath of Life|Breath of Life]]_; __4th __  _[[Spells/Translocate|Dimension Door]]_, _[[Spells/Heal|Heal]]_, _[[Spells/Holy Light|Searing Light]]_; __3rd __  _[[Spells/Heal|Heal (x3)]]_; __2nd __  _[[Spells/Restoration|Restoration (x3)]]_\n__Cantrips__  __(5th)__ _[[Spells/Vitality Lash|Disrupt Undead]]_, _[[Spells/Light|Light]]_"
 
   - name: "Breath Weapon"
-    desc: "`pf2:2` (fire,occult) The jyoti breathes a blast of searing flame infused with vitality energy in a 40-foot cone that deals 8d6 fire damage plus 4d6 vitality damage to creatures in the area (DC 28 Reflex check save).\nThe jyoti can't use Breath Weapon again for 1d4 rounds."
+    desc: "`pf2:2` (fire,occult) The jyoti breathes a blast of searing flame infused with vitality energy in a @Template[cone|distance:40] that deals 8d6 fire damage plus 4d6 vitality damage to creatures in the area (DC 28 Reflex check save).\n\nThe jyoti can't use Breath Weapon again for 1d4 rounds."
 
   - name: "Infuse Weapons"
     desc: " (occult) Any weapon a jyoti wields becomes a _[[Equipment/Flaming|Flaming]] [[Equipment/Ghost Touch|Ghost Touch]]_ weapon while the jyoti holds it."
  
+```
+
+```encounter-table
+name: Jyoti
+creatures:
+  - 1: Jyoti
 ```
 
 

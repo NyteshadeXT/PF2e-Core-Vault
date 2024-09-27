@@ -10,6 +10,7 @@ tags:
   - pf2e/creature/type/fiend
   - pf2e/creature/type/mutant
   - pf2e/creature/type/unholy
+  - pf2eMonster
   - pf2e/creature/level/7
 statblock: inline
 name: "Kalkek"
@@ -24,14 +25,14 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #152: Legacy of the Lost God"
 name: "Kalkek"
 level: "Creature 7"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Large"
-trait_01: "chaotic"
-trait_02: "evil"
-trait_03: "fiend"
-trait_04: "mutant"
-trait_05: "unholy"
+trait_01: [[chaotic]]
+trait_02: [[evil]]
+trait_03: [[fiend]]
+trait_04: [[mutant]]
+trait_05: [[unholy]]
 modifier: 16
 perception:
   - name: "Perception"
@@ -76,11 +77,17 @@ attacks:
     desc: "DC 25, attack +17; __4th __  _[[Spells/Flicker|Blink (At Will)]]_, _[[Spells/Confusion|Confusion]]_, _[[Spells/Translocate|Dimension Door]]_, _[[Spells/Enlarge|Enlarge]]_; __3rd __  _[[Spells/Levitate|Levitate (At Will)]]_; __2nd __  _[[Spells/Invisibility|Invisibility (At Will)]]_; __1st __  _[[Spells/Charm|Charm]]_"
 
   - name: "Change Shape"
-    desc: "`pf2:1` (concentrate,divine,polymorph) The barghest takes on the shape of a goblinoid (a goblin, hobgoblin, or bugbear) or a wolf, or it transforms back into its true form. When the barghest is a goblinoid, it loses its jaws and claw Strikes, it becomes Small if it is a goblin, and its Speed changes to 20 feet. When the barghest is a wolf, its Speed changes to 40 feet and its jaws gain Knockdown. Each individual barghest has only one goblinoid form and one wolf form.\nThe monster changes its shape indefinitely. It can use this action again to return to its natural shape or adopt a new shape. Unless otherwise noted, a monster cannot use Change Shape to appear as a specific individual. Using Change Shape counts as creating a disguise for the [[Actions/Impersonate|Impersonate]] use of Deception. The monster's transformation automatically defeats Perception DCs to determine whether the creature is a member of the ancestry or creature type into which it transformed, and it gains a +4 status bonus to its Deception DC to prevent others from seeing through its disguise. Change Shape abilities specify what shapes the monster can adopt. The monster doesn't gain any special abilities of the new shape, only its physical form. For example, in each shape, it replaces its normal Speeds and Strikes, and might potentially change its senses or size. Any changes are listed in its stat block."
+    desc: "`pf2:1` (concentrate,divine,polymorph) The barghest takes on the shape of a goblinoid (a goblin, hobgoblin, or bugbear) or a wolf, or it transforms back into its true form. When the barghest is a goblinoid, it loses its jaws and claw Strikes, it becomes Small if it is a goblin, and its Speed changes to 20 feet. When the barghest is a wolf, its Speed changes to 40 feet and its jaws gain Knockdown. Each individual barghest has only one goblinoid form and one wolf form.\n* * *\n\nThe monster changes its shape indefinitely. It can use this action again to return to its natural shape or adopt a new shape. Unless otherwise noted, a monster cannot use Change Shape to appear as a specific individual. Using Change Shape counts as creating a disguise for the [[Actions/Impersonate|Impersonate]] use of Deception. The monster's transformation automatically defeats Perception DCs to determine whether the creature is a member of the ancestry or creature type into which it transformed, and it gains a +4 status bonus to its Deception DC to prevent others from seeing through its disguise. Change Shape abilities specify what shapes the monster can adopt. The monster doesn't gain any special abilities of the new shape, only its physical form. For example, in each shape, it replaces its normal Speeds and Strikes, and might potentially change its senses or size. Any changes are listed in its stat block."
 
   - name: "Mutations"
-    desc: "  The process of consuming corpses to evolve into a greater barghest results in odd and unpredictable physiological changes. Kalkek has two minor mutations,\n**Large Grin** Gives a powerful, tearing bite.\n**Wolf Empathy** Kalkek has an uncanny empathy with wolves."
+    desc: "  The process of consuming corpses to evolve into a greater barghest results in odd and unpredictable physiological changes. Kalkek has two minor mutations,\n\n**Large Grin** Gives a powerful, tearing bite.\n\n**Wolf Empathy** Kalkek has an uncanny empathy with wolves."
  
+```
+
+```encounter-table
+name: Kalkek
+creatures:
+  - 1: Kalkek
 ```
 
 

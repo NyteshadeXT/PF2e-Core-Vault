@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.pathfinder-bestiary-3.Actor.IyxWVWAi9BjKPxop"
 tags:
   - pf2e/creature/type/chaotic
   - pf2e/creature/type/construct
+  - pf2eMonster
   - pf2e/creature/level/3
 statblock: inline
 name: "Living Graffiti (Chalk)"
@@ -22,16 +23,16 @@ token: [[modules/pf2e-tokens-bestiaries/portraits/constructed/magical/living-gra
 source: "Pathfinder Bestiary 3"
 name: "Living Graffiti (Chalk)"
 level: "Creature 3"
-rare_03: "Rare"
+rare_03: [[Rare]]
 alignment: ""
 size: "Medium"
-trait_01: "chaotic"
-trait_02: "construct"
+trait_01: [[chaotic]]
+trait_02: [[construct]]
 modifier: 9
 perception:
   - name: "Perception"
     desc: "+9; Darkvision"
-languages: "Common"
+languages: "Common; (can&#x27;t speak any language)"
 skills:
   - name: "Skills"
     desc: "Acrobatics: +11, Crafting: +5, Deception: +10, Stealth: +11"
@@ -68,11 +69,17 @@ attacks:
     desc: "`pf2:1` Splatter +11 (nonlethal, range increment 20 feet)\n__Damage__  1d4 + 4 bludgeoning plus splatter"
 
   - name: "Cone of Chalk"
-    desc: "`pf2:2`  The living graffiti expels a 15-foot cone of chalk. Each creature in the area must succeed at a DC 20 Reflex check save or be [[Conditions/Blinded|Blinded]] for 1 round or until it Interacts to wipe the chalk from its eyes.\nThe living graffiti can't use Cone of Chalk again for 1d4 rounds."
+    desc: "`pf2:2`  The living graffiti expels a @Template[cone|distance:15] of chalk. Each creature in the area must succeed at a DC 20 Reflex check save or be [[Conditions/Blinded|Blinded]] for 1 round or until it Interacts to wipe the chalk from its eyes.\n\nThe living graffiti can't use Cone of Chalk again for 1d4 rounds."
 
   - name: "Splatter"
     desc: "  A living graffiti splatters into a creature's face with its splatter Strike. On a hit, the target is [[Conditions/Dazzled|Dazzled]] for 1 round or until it Interacts to remove the paint from its face."
  
+```
+
+```encounter-table
+name: Living Graffiti (Chalk)
+creatures:
+  - 1: Living Graffiti (Chalk)
 ```
 
 

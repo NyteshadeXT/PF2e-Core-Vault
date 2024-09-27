@@ -15,7 +15,7 @@ license: OGL
 ---
 # Encouraging Words `pf2:1`
 
-### [[auditory]][[general]][[linguistic]][[3-Rules/Rule References/Mental]][[skill]]
+### [[3-Rules/Rule References/auditory]][[general]][[linguistic]][[3-Rules/Rule References/Mental]][[skill]]
 
 **Category** interaction; 
 

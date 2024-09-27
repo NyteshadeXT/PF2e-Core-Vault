@@ -11,7 +11,7 @@ license: OGL
 ---
 # Bravery Baldric (Fleet)
 ## Item 5
-### [[invested]][[magical]]
+### [[invested]][[3-Rules/Rule References/Magical]]
 
 
 **Price** 150 gp; 

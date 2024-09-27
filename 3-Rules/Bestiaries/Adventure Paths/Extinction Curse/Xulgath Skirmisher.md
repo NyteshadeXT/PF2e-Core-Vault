@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/humanoid
   - pf2e/creature/type/xulgath
+  - pf2eMonster
   - pf2e/creature/level/6
 statblock: inline
 name: "Xulgath Skirmisher"
@@ -23,13 +24,13 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #153: Life&#x27;s Long Shadows"
 name: "Xulgath Skirmisher"
 level: "Creature 6"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Medium"
-trait_01: "chaotic"
-trait_02: "evil"
-trait_03: "humanoid"
-trait_04: "xulgath"
+trait_01: [[chaotic]]
+trait_02: [[evil]]
+trait_03: [[humanoid]]
+trait_04: [[xulgath]]
 modifier: 15
 perception:
   - name: "Perception"
@@ -57,7 +58,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Powerful Stench"
-    desc: " (aura,olfactory) 30 feet. A creature that enters the area must attempt a DC 23 Fortitude check save. On a failure, the creature is [[Conditions/Sickened 1|Sickened 2]], and on a critical failure, the creature is also [[Conditions/Slowed 1|Slowed 1]] for as long as it is sickened. While within the aura, the creature takes a -2 circumstance penalty to saves to recover from the sickened condition. A creature that succeeds at its save is temporarily immune to all xulgaths' stenches for 1 minute."
+    desc: " (aura,olfactory) 30 feet. A creature that enters the area must attempt a DC 23 Fortitude check save. On a failure, the creature is [[Conditions/Sickened|Sickened 2]], and on a critical failure, the creature is also [[Conditions/Slowed|Slowed 1]] for as long as it is sickened. While within the aura, the creature takes a -2 circumstance penalty to saves to recover from the sickened condition. A creature that succeeds at its save is temporarily immune to all xulgaths' stenches for 1 minute."
 
 attacks:
   - name: ""
@@ -83,6 +84,12 @@ attacks:
   - name: "Skirmishing Movement"
     desc: "`pf2:2` (attack,move) The xulgath skirmisher Strides or Steps, then Strikes. This Strike deals an additional 3d6 precision damage."
  
+```
+
+```encounter-table
+name: Xulgath Skirmisher
+creatures:
+  - 1: Xulgath Skirmisher
 ```
 
 

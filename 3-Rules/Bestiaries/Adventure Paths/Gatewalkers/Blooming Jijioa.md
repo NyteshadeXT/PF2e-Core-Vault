@@ -4,6 +4,7 @@ obsidianUIMode: preview
 noteType: pf2eHazard
 tags:
   - environmental
+  - pf2eHazard
 
 source: Pathfinder #187: The Seventh Arch
 aliases: "Compendium.pf2e.gatewalkers-bestiary.Actor.9CAmwWwblxh0RWfj" 
@@ -21,13 +22,13 @@ name: "Blooming Jijioa"
 level: "Hazard 5"
 
 
-trait_01: "environmental"
+trait_01: [[environmental]]
 modifier: 16
 sourcebook: "_Pathfinder #187: The Seventh Arch_"
 ac: 25
 armorclass:
   - name: AC
-    desc: "25; __Fort__ +17, __Ref__ +9, __Will__ +0"
+    desc: "25; __Fort__ +17, __Ref__ +9, "
 hp: 52
 health:
   - name: ""
@@ -49,10 +50,16 @@ attacks:
   - name: ""
 
   - name: "Solar Bloom"
-    desc: "`pf2:r` **Trigger** The jijioa patch is exposed to a solar fare\n**Effect** The countless jijioa flowers suddenly bloom, magnifying the ambient heat of the sun a hundredfold. Creatures in the jijioa patch take 4d6 fire (DC 22 Fortitude check). Creatures that end their turn in the patch continue to take damage in this way as long as the jijioa is in bloom."
+    desc: "`pf2:r` **Trigger** The jijioa patch is exposed to a solar fare\n* * *\n\n**Effect** The countless jijioa flowers suddenly bloom, magnifying the ambient heat of the sun a hundredfold. Creatures in the jijioa patch take 4d6 fire (DC 22 Fortitude check). Creatures that end their turn in the patch continue to take damage in this way as long as the jijioa is in bloom."
 
 
   - name: "Reset"
     desc: "An hour after blooming, a jijioa patch goes dormant for 1 week."
+```
+
+```encounter-table
+name: Blooming Jijioa
+creatures:
+  - 1: Blooming Jijioa
 ```
 

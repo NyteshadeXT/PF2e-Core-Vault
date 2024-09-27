@@ -17,7 +17,7 @@ license: OGL
 
 
 
-**Minor Curse** The secrets of magic become mentally taxing. You are permanently [[Conditions/Stupefied 1|Stupefied 1]].
+The secrets of magic become mentally taxing. You are permanently [[Conditions/Stupefied|Stupefied 1]].
 
 *Source: Pathfinder Lost Omens: Gods & Magic*
 *OGL*

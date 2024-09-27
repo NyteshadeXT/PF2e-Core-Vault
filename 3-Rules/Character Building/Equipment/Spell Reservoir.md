@@ -22,7 +22,7 @@ A _spell reservoir_ rune creates a pool of eldritch energy within the etched wea
 
 When you wield a _spell reservoir_ weapon, you immediately know the name and rank of the stored spell. A _spell reservoir_ weapon found as treasure has a 50% chance of having a spell of the GM's choice stored in it.
 
-**Activate—Channeled Release** `pf2:1` (concentrate)
+**Activate—Channeled Release** `pf2:2` (concentrate)
 
 **Requirements** A spell is stored in the weapon
 

@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.npc-gallery.Actor.7RF95b3WHkvHWLrv"
 tags:
   - pf2e/creature/type/human
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/-1
 statblock: inline
 name: "Physician"
@@ -24,8 +25,8 @@ level: "Creature -1"
 
 alignment: ""
 size: "Medium"
-trait_01: "human"
-trait_02: "humanoid"
+trait_01: [[human]]
+trait_02: [[humanoid]]
 modifier: 6
 perception:
   - name: "Perception"
@@ -51,7 +52,7 @@ abilities_top:
   - name: "Items"
     desc: "[[Equipment/Healer's Toolkit|Healer's Tools]], 2x [[Equipment/Elixir of Life (Minor)|Elixir of Life (Minor)]], [[Equipment/Illustrated book|Medical Textbook]]"
   - name: "Bedside Manner"
-    desc: "  A physician has a +2 circumstance bonus to Diplomacy checks to [[Actions/Make an Impression|Make an Impression]] on or make a [[Actions/Request|Request]] of a diseased, poisoned, or [[Conditions/Wounded 1|Wounded]] creature."
+    desc: "  A physician has a +2 circumstance bonus to Diplomacy checks to [[Actions/Make an Impression|Make an Impression]] on or make a [[Actions/Request|Request]] of a diseased, poisoned, or [[Conditions/Wounded|Wounded]] creature."
 
   - name: "Doctor's Hand"
     desc: "  When the physician rolls a critical failure on a check to [[Actions/Treat Disease|Treat Disease]], [[Actions/Treat Poison|Treat Poison]], or [[Actions/Treat Wounds|Treat Wounds]], they get a failure instead."
@@ -62,11 +63,17 @@ attacks:
   - name: ""
 
   - name: "Melee"
-    desc: "`pf2:1` Fist +5 (agile, nonlethal)\n__Damage__   acid"
+    desc: "`pf2:1` Fist +5 (agile, nonlethal)\n__Damage__ "
 
   - name: "Ranged"
-    desc: "`pf2:1` Medical Textbook +5 (nonlethal, thrown 10 ft.)\n__Damage__   acid"
+    desc: "`pf2:1` Medical Textbook +5 (nonlethal, thrown 10 ft.)\n__Damage__ "
  
+```
+
+```encounter-table
+name: Physician
+creatures:
+  - 1: Physician
 ```
 
 

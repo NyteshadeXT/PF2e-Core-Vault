@@ -14,7 +14,7 @@ license: OGL
 ---
 # Clockwork Macuahuitl
 ## Item 8
-### [rare](rare "Rare Rarity Trait")[[backswing]][[forceful]][[versatile-b]]
+### [rare](rare.md "Rare Rarity Trait")[[backswing]][[forceful]][[versatile-b]]
 
 |  |  |
 | -- | -- |

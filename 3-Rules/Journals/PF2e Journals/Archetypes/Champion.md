@@ -16,13 +16,11 @@ You have sworn a solemn oath to your deity, who has granted you champion powers 
 
 * * *
 
-Choose a deity and cause as you would if you were a champion. You become trained in light, medium, and heavy armor. You become trained in Religion and your deity's associated skill; for each of these skills in which you were already trained, you instead become trained in a skill of your choice. You become trained in champion class DC.
+Choose a deity. You are bound by your deity's anathema and can receive that deity's divine sanctification. Choose a cause as you would if you were a champion, with the same options a champion must abide by. You gain its edicts and anathema but don't gain the other abilities.
 
-You are bound by your deity's anathema and must follow the champion's code and alignment requirements for your cause. You don't gain any other abilities from your choice of deity or cause.
+You become trained in Religion and your deity's associated skill; for each of these skills in which you were already trained, you instead become trained in a skill of your choice. You become trained in champion class DC. If you later gain a devotion spell, you become trained in spell attack modifier and spell DC.
 
-* * *
-
-**Special** You cannot select another dedication feat until you have gained two other feats from the champion archetype.
+You become trained in light armor and medium armor. If you already were trained in light armor and medium armor, you gain training in heavy armor as well. Whenever you gain a class feature that grants you expert or greater proficiency in any type of armor (but not unarmored defense), you also gain that proficiency in the armor types granted to you by this feat. If you have a class feature that grants you expert proficiency in unarmored defense and you're 13th level or higher, you also become an expert in the armor types granted to you by this feat.
 
 ## [[Feats/Basic Devotion|Basic Devotion]] Feat 4
 
@@ -40,13 +38,13 @@ You gain a 1st- or 2nd-level champion feat.
 
 You gain 3 additional Hit Points for each champion archetype class feat you have. As you continue selecting champion archetype class feats, you continue to gain additional Hit Points in this way.
 
-## [[Feats/Healing Touch|Healing Touch]] Feat 4
+## [[Feats/Devout Magic|Devout Magic]] Feat 4
 
 **Prerequisites** Champion Dedication
 
 * * *
 
-You gain the appropriate devotion spell for your cause ( lay on hands for the paladin, redeemer, and liberator). If you don't already have one, you gain a focus pool of 1 Focus Point, which you can Refocus by praying or serving your deity.
+You gain the appropriate devotion spell for your cause (lay on hands for the paladin, redeemer, and liberator). If you don't already have one, you gain a focus pool of 1 Focus Point, which you can Refocus by praying or serving your deity.
 
 ## [[Feats/Advanced Devotion|Advanced Devotion]] Feat 6
 
@@ -68,18 +66,10 @@ You gain one champion feat. For the purpose of meeting its prerequisites, your c
 
 You can use the champion's reaction associated with your cause.
 
-## [[Feats/Divine Ally|Divine Ally]] Feat 6
+## [[Feats/Devout Blessing|Devout Blessing]] Feat 6
 
 **Prerequisites** Champion Dedication
 
 * * *
 
 You gain a divine ally of your choice.
-
-## [[Feats/Diverse Armor Expert|Diverse Armor Expert]] Feat 14
-
-**Prerequisites** Champion Dedication; expert in unarmored defense or one or more types of armor
-
-* * *
-
-Your proficiency ranks for light armor, medium armor, heavy armor, and unarmored defense increase to expert.

@@ -13,7 +13,7 @@ license: OGL
 ---
 # Breath Weapon (Poison) (Line) `pf2:2`
 
-### [[arcane]][[eidolon]][[3-Rules/Rule References/Poison]]
+### [[3-Rules/Rule References/Arcane]][[eidolon]][[3-Rules/Rule References/Poison]]
 
 **Category** offensive; 
 

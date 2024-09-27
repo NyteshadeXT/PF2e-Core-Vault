@@ -6,6 +6,7 @@ cssClasses: pf2e
 aliases: "Compendium.pf2e.pathfinder-bestiary.Actor.AdQVjlOWB6rmBRVp" 
 tags:
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/3
 statblock: inline
 name: "Doppelganger"
@@ -21,15 +22,15 @@ token: [[modules/pf2e-tokens-bestiaries/portraits/aberrant/humanoid/doppelganger
 source: "Pathfinder Bestiary"
 name: "Doppelganger"
 level: "Creature 3"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Medium"
-trait_01: "humanoid"
+trait_01: [[humanoid]]
 modifier: 7
 perception:
   - name: "Perception"
     desc: "+7; Darkvision"
-languages: "Common"
+languages: "Common; two other languages"
 skills:
   - name: "Skills"
     desc: "Deception: +11, Diplomacy: +11, Society: +8, Stealth: +8"
@@ -51,7 +52,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "End the Charade"
-    desc: "`pf2:r` (attack) **Trigger** The doppelganger is transformed with Change Shape and another creature moves adjacent to it or takes a hostile action against it.\n**Effect** The doppelganger reverts to its natural form and can make a Strike against the triggering creature. If the creature was unaware the doppelganger was in disguise, that creature is [[Conditions/Off-Guard|Off-Guard]] against this attack."
+    desc: "`pf2:r` (attack) **Trigger** The doppelganger is transformed with Change Shape and another creature moves adjacent to it or takes a hostile action against it.\n* * *\n\n**Effect** The doppelganger reverts to its natural form and can make a Strike against the triggering creature. If the creature was unaware the doppelganger was in disguise, that creature is [[Conditions/Off-Guard|Off-Guard]] against this attack."
 
 attacks:
   - name: ""
@@ -63,8 +64,14 @@ attacks:
     desc: "DC 21, attack +13; __3rd __  _[[Spells/Mind Reading|Mind Reading (At Will)]]_"
 
   - name: "[[Bestiary Ability Glossary/Change Shape|Change Shape]]"
-    desc: "`pf2:1` (arcane,concentrate,polymorph) The doppelganger takes on the specific appearance of any Small or Medium humanoid who it has seen and whose appearance it remembers. This doesn't change the doppelganger's Speed or its attack and damage bonuses with its Strikes but might change the damage type its Strikes deal (typically to bludgeoning).\n"
+    desc: "`pf2:1` (arcane,concentrate,polymorph) The doppelganger takes on the specific appearance of any Small or Medium humanoid who it has seen and whose appearance it remembers. This doesn't change the doppelganger's Speed or its attack and damage bonuses with its Strikes but might change the damage type its Strikes deal (typically to bludgeoning).\n\n* * *\n"
  
+```
+
+```encounter-table
+name: Doppelganger
+creatures:
+  - 1: Doppelganger
 ```
 
 

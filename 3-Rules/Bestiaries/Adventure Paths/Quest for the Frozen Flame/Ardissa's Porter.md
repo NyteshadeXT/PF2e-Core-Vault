@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/dwarf
   - pf2e/creature/type/evil
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/0
 statblock: inline
 name: "Ardissa&#x27;s Porter"
@@ -22,12 +23,12 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #175: Broken Tusk Moon"
 name: "Ardissa's Porter"
 level: "Creature 0"
-rare_03: "Rare"
+rare_03: [[Rare]]
 alignment: ""
 size: "Medium"
-trait_01: "dwarf"
-trait_02: "evil"
-trait_03: "humanoid"
+trait_01: [[dwarf]]
+trait_02: [[evil]]
+trait_03: [[humanoid]]
 modifier: 6
 perception:
   - name: "Perception"
@@ -55,7 +56,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Stumbling Snag"
-    desc: "`pf2:r`  **Requirements** The porter is holding a cargo hook\n**Trigger** An enemy within the porter's reach critically misses the porter with a melee Strike\n**Effect** The porter moves the enemy 5 feet in a direction of the porter's choosing."
+    desc: "`pf2:r`  **Requirements** The porter is holding a cargo hook\n\n**Trigger** An enemy within the porter's reach critically misses the porter with a melee Strike\n* * *\n\n**Effect** The porter moves the enemy 5 feet in a direction of the porter's choosing."
 
 attacks:
   - name: ""
@@ -63,6 +64,12 @@ attacks:
   - name: "Melee"
     desc: "`pf2:1` Cargo Hook +7 (agile, fatal d8)\n__Damage__  1d4 + 2 piercing"
  
+```
+
+```encounter-table
+name: Ardissa's Porter
+creatures:
+  - 1: Ardissa's Porter
 ```
 
 

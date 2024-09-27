@@ -11,7 +11,7 @@ license: OGL
 ---
 # Set Explosives `pf2:2`
 
-### [[concentrate]]
+### [[3-Rules/Rule References/Concentrate]]
 
 **Category** offensive; 
 

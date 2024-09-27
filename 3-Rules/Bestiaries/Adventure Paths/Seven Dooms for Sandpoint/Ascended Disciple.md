@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/human
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/5
 statblock: inline
 name: "Ascended Disciple"
@@ -23,13 +24,13 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #200: Seven Dooms for Sandpoint"
 name: "Ascended Disciple"
 level: "Creature 5"
-rare_03: "Rare"
+rare_03: [[Rare]]
 alignment: ""
 size: "Medium"
-trait_01: "chaotic"
-trait_02: "evil"
-trait_03: "human"
-trait_04: "humanoid"
+trait_01: [[chaotic]]
+trait_02: [[evil]]
+trait_03: [[human]]
+trait_04: [[humanoid]]
 modifier: 13
 perception:
   - name: "Perception"
@@ -66,11 +67,17 @@ attacks:
     desc: "`pf2:1` Composite Shortbow +10 (deadly d10, propulsive, range increment 60 feet, reload 0)\n__Damage__  1d8 + 5 piercing"
 
   - name: "Devil's Breath"
-    desc: "`pf2:2` (divine,fire) **Frequency** once per day\n**Effect** The ascended disciple cuts their tongue with a slashing weapon held in a hand (taking 1 slashing damage), then exhales a 15-foot cone of burning smoke. Each creature in the area must attempt a DC 22 Reflex check save.\n**Critical Success** The creature is unaffected.\n**Success** The creature takes 2d8 fire damage.\n**Failure** The creature takes 4d8 fire damage and is [[Conditions/Sickened 1|Sickened 1]] by the agonizing pain of the burns.\n**Critical Failure** The creature takes 6d8 fire damage, is sickened 1 by the agonizing pain of the burns, and is [[Conditions/Enfeebled 1|Enfeebled 1]] by the smoke for 1 minute."
+    desc: "`pf2:2` (divine,fire) **Frequency** once per day\n* * *\n\n**Effect** The ascended disciple cuts their tongue with a slashing weapon held in a hand (taking 1 slashing damage), then exhales a @Template[cone|distance:15] of burning smoke. Each creature in the area must attempt a DC 22 Reflex check save.\n* * *\n\n**Critical Success** The creature is unaffected.\n\n**Success** The creature takes 2d8 fire damage.\n\n**Failure** The creature takes 4d8 fire damage and is [[Conditions/Sickened|Sickened 1]] by the agonizing pain of the burns.\n\n**Critical Failure** The creature takes 6d8 fire damage, is sickened 1 by the agonizing pain of the burns, and is [[Conditions/Enfeebled|Enfeebled 1]] by the smoke for 1 minute."
 
   - name: "[[Bestiary Ability Glossary/Sneak Attack|Sneak Attack]]"
     desc: "  The creature's Strikes deal an additional 1d6 precision damage to [[Conditions/Off-Guard|Off-Guard]] creatures."
  
+```
+
+```encounter-table
+name: Ascended Disciple
+creatures:
+  - 1: Ascended Disciple
 ```
 
 

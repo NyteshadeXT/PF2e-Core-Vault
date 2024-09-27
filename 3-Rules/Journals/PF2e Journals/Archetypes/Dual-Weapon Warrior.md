@@ -8,15 +8,13 @@ tags:
 ---
 
 # Dual-Weapon Warrior
-You're able to effortlessly fight with multiple weapons simultaneously, weaving your weapons together into a storm of quick attacks. To you, continual offense is the best form of defense, and you leave little room for your foes to avoid your whirlwind of weapons.
+You're able to effortlessly fight with multiple weapons simultaneously, weaving your weapons together into a storm of quick attacks. To you, continual offense is the best form of defense, and you leave little room for your foes to avoid your whirlwind of weapons. Your unconventional fighting style still manages to weave in a unique kind of defense, blocking blade with blade, all without sacrificing power. Speed is your friend, and stagnation can mean ruin. Your attacks come fast and from unexpected angles. Become one with the blur of weapons and find victory.
 
-**Additional Feats** 6th [[Feats/Twin Parry|Twin Parry]]; 12th [[Feats/Twin Riposte|Twin Riposte]]; 16th [[Feats/Improved Twin Riposte (Fighter)|Improved Twin Riposte]], [[Feats/Two-Weapon Flurry|Two-Weapon Flurry]]; 18th [[Feats/Twinned Defense (Fighter)|Twinned Defense]]
+**Additional Feats** 4th [[Feats/Quick Draw|Quick Draw]], 6th [[Feats/Twin Parry|Twin Parry]]; 12th [[Feats/Twin Riposte|Twin Riposte]]; 16th [[Feats/Improved Twin Riposte (Fighter)|Improved Twin Riposte]], [[Feats/Two-Weapon Flurry|Two-Weapon Flurry]]; 18th [[Feats/Twinned Defense (Fighter)|Twinned Defense]]
 
 ## [[Feats/Dual-Weapon Warrior Dedication|Dual-Weapon Warrior Dedication]] Feat 2
 
-You're exceptional in your use of two weapons. You gain the Double Slice fighter feat. This serves as Double Slice for the purpose of meeting prerequisites.
-
-**Special** You can't select another dedication feat until you have gained two other feats from the Dual-Weapon Warrior archetype.
+You're exceptional in your use of two weapons. You gain the Double Slice fighter feat.
 
 ## [[Feats/Dual Thrower|Dual Thrower]] Feat 4
 
@@ -24,17 +22,15 @@ You're exceptional in your use of two weapons. You gain the Double Slice fighter
 
 * * *
 
-You know how to throw two weapons as easily as strike with them. Whenever a dual-weapon warrior feat allows you to make a melee Strike, you can instead make a ranged Strike with a thrown weapon or a one-handed ranged weapon you are wielding. Any effects from these feats that apply to one-handed melee weapons or melee Strikes also apply to one-handed ranged weapons and ranged Strikes.
+You know how to throw two weapons as easily as strike with them. Whenever a feat you gained from the dual-weapon warrior archetype allows you to make a melee Strike, you can instead make a ranged Strike with a thrown weapon or a one-handed ranged weapon you are wielding (weapons that need "1+" hand, such as longbows, don't qualify). Any effects from these feats that apply to one-handed melee weapons or melee Strikes also apply to one-handed ranged weapons and ranged Strikes.
 
 ## [[Feats/Dual-Weapon Reload|Dual-Weapon Reload]] Feat 4
 
 **Prerequisites** Dual-Weapon Warrior Dedication
 
-**Requirements** You are wielding two one-handed weapons, each in a different hand, one of which is a ranged weapon.
-
 * * *
 
-You carry your ammunition in a way that allows you to reload while holding two weapons. You Interact to reload a one-handed ranged weapon you're holding. Unlike most Interact actions, you don't need a free hand to reload your ranged weapon in this way.
+You carry your ammunition in a way that allows you to reload while holding two weapons. While you're wielding two one-handed weapons, each in a different hand, you don't need a free hand to reload a one-handed ranged weapon you're wielding.
 
 ## [[Feats/Flensing Slice|Flensing Slice]] Feat 8
 
@@ -54,7 +50,7 @@ When you hit with both attacks with Double Slice, you flense the target, making 
 
 * * *
 
-You attack as you dash among foes. Stride up to your Speed. At any point during this movement, you can Strike once with each of the two required weapons. These Strikes can be against the same or different targets, as you see fit.
+You attack as you weave your way around the battlefield. Stride up to your Speed. During this movement, you can Strike once with each of the two one-handed melee weapons. Each of these Strikes can be made at any point during your movement.
 
 ## [[Feats/Dual Onslaught|Dual Onslaught]] Feat 14
 

@@ -9,8 +9,9 @@ tags:
   - trait/trap
   - trait/common
   - category/snare
+  - remaster
 aliases: "Compendium.pf2e.equipment-srd.Item.6KdYdFovFBivwI8M"
-license: OGL
+license: ORC
 ---
 # Striking Snare
 ## Item 8
@@ -23,5 +24,5 @@ license: OGL
 
 You affix a trip line or other trigger to a group of either stones or wooden stakes to strike a creature that enters the snare's square. The creature must attempt a DC 26 Reflex check saving throw. If you choose stones, the snare deals 9d8 bludgeoning damage; if you choose spikes, it deals 9d8 piercing damage.
 
-*Source: Pathfinder Core Rulebook*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

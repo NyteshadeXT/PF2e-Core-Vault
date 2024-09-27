@@ -6,6 +6,7 @@ cssClasses: pf2e
 aliases: "Compendium.pf2e.extinction-curse-bestiary.Actor.HEeRO5IF4lAGfDqE" 
 tags:
   - pf2e/creature/type/animal
+  - pf2eMonster
   - pf2e/creature/level/13
 statblock: inline
 name: "Barking Stag"
@@ -20,14 +21,15 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #156: The Apocalypse Prophet"
 name: "Barking Stag"
 level: "Creature 13"
-rare_03: "Rare"
+rare_03: [[Rare]]
 alignment: ""
 size: "Large"
-trait_01: "animal"
+trait_01: [[animal]]
 modifier: 28
 perception:
   - name: "Perception"
     desc: "+28; Low-Light Vision"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Acrobatics: +24, Athletics: +27, Survival: +26"
@@ -64,14 +66,20 @@ attacks:
     desc: "`pf2:1` Hoof +16 ()\n__Damage__  3d8 + 12 bludgeoning"
 
   - name: "Antler Toss"
-    desc: "`pf2:1`  **Requirements** The barking stag has a creature [[Conditions/Grabbed|Grabbed]] with its antler\n**Effect** The barking stag tosses the grabbed creature 20 feet into the air and up to 15 feet away in a direction of its choice, dealing 3d10 + 12 piercing damage plus falling damage to the creature."
+    desc: "`pf2:1`  **Requirements** The barking stag has a creature [[Conditions/Grabbed|Grabbed]] with its antler\n* * *\n\n**Effect** The barking stag tosses the grabbed creature 20 feet into the air and up to 15 feet away in a direction of its choice, dealing 3d10+12 piercing damage plus falling damage to the creature."
 
   - name: "[[Bestiary Ability Glossary/Trample|Trample]]"
-    desc: "`pf2:3`  Medium or smaller, hoof, DC 30 Reflex check\n"
+    desc: "`pf2:3`  Medium or smaller, hoof, DC 30 Reflex check\n\n* * *\n"
 
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
     desc: "`pf2:1`  "
  
+```
+
+```encounter-table
+name: Barking Stag
+creatures:
+  - 1: Barking Stag
 ```
 
 

@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.gatewalkers-bestiary.Actor.DP1XF7ygEPlBOdVB"
 tags:
   - pf2e/creature/type/human
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/7
 statblock: inline
 name: "Snowy Owl"
@@ -21,11 +22,11 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #189: Dreamers of the Nameless Spires"
 name: "Snowy Owl"
 level: "Creature 7"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Medium"
-trait_01: "human"
-trait_02: "humanoid"
+trait_01: [[human]]
+trait_02: [[humanoid]]
 modifier: 16
 perception:
   - name: "Perception"
@@ -33,7 +34,7 @@ perception:
 languages: "Common, Elven, Empyrean, Erutaki"
 skills:
   - name: "Skills"
-    desc: "Astronomy Lore: +15, Fortune-Telling Lore: +15, Medicine: +16, Nature: +16, Occultism: +15, Religion: +14, Survival: +16"
+    desc: "Medicine: +16, Nature: +16, Occultism: +15, Religion: +14, Survival: +16, Astronomy Lore: +15, Fortune-Telling Lore: +15"
 abilityMods: [0, 1, 2, 1, 5, 4]
 speed: 25 feet
 sourcebook: "_Pathfinder #189: Dreamers of the Nameless Spires_"
@@ -67,6 +68,12 @@ attacks:
   - name: "Ruun's Wings"
     desc: "`pf2:1` (occult) Snowy Owl manifests a spectral pair of owl's wings that grant her a fly Speed of 25 feet. She can use this action again to hide her wings, which she often does when in mixed company in order to avoid drawing too much attention. If she falls, she can activate this ability as a reaction to immediately arrest her fall."
  
+```
+
+```encounter-table
+name: Snowy Owl
+creatures:
+  - 1: Snowy Owl
 ```
 
 

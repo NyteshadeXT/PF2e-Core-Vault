@@ -11,6 +11,7 @@ tags:
   - pf2e/creature/type/human
   - pf2e/creature/type/humanoid
   - pf2e/creature/type/undine
+  - pf2eMonster
   - pf2e/creature/level/1
 statblock: inline
 name: "Undine Hydromancer"
@@ -29,12 +30,12 @@ level: "Creature 1"
 
 alignment: ""
 size: "Medium"
-trait_01: "amphibious"
-trait_02: "chaotic"
-trait_03: "good"
-trait_04: "human"
-trait_05: "humanoid"
-trait_06: "undine"
+trait_01: [[amphibious]]
+trait_02: [[chaotic]]
+trait_03: [[good]]
+trait_04: [[human]]
+trait_05: [[humanoid]]
+trait_06: [[undine]]
 modifier: 5
 perception:
   - name: "Perception"
@@ -76,6 +77,12 @@ attacks:
   - name: "Sorcerer Bloodline Spells"
     desc: "1 Focus Point, DC 17, attack +9; __1st __ (1 slots) _[[Spells/Elemental Toss|Elemental Toss]]_"
  
+```
+
+```encounter-table
+name: Undine Hydromancer
+creatures:
+  - 1: Undine Hydromancer
 ```
 
 

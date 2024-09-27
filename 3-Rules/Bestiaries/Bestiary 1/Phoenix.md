@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/fire
   - pf2e/creature/type/good
   - pf2e/creature/type/holy
+  - pf2eMonster
   - pf2e/creature/level/15
 statblock: inline
 name: "Phoenix"
@@ -24,13 +25,13 @@ token: [[modules/pf2e-tokens-bestiaries/portraits/elemental/fire/phoenix.webp| ]
 source: "Pathfinder Bestiary"
 name: "Phoenix"
 level: "Creature 15"
-rare_03: "Rare"
+rare_03: [[Rare]]
 alignment: ""
 size: "grg"
-trait_01: "beast"
-trait_02: "fire"
-trait_03: "good"
-trait_04: "holy"
+trait_01: [[beast]]
+trait_02: [[fire]]
+trait_03: [[good]]
+trait_04: [[holy]]
 modifier: 27
 perception:
   - name: "Perception"
@@ -60,7 +61,7 @@ abilities_mid:
     desc: " (healing,primal) When a phoenix dies, it collapses into a pile of smoldering ashes before returning to life fully healed 1d4 rounds later, as if subject to a 7th-rank [[Spells/Resurrect|Resurrect]] ritual. Self-resurrection happens only if there are some remains to resurrect; for instance, a phoenix killed by a [[Spells/Disintegrate|Disintegrate]] spell can't use this ability. A phoenix whose remains rest within an area devoted to an evil deity by [[Spells/Consecrate|Consecrate]] can't self-resurrect until its remains are no longer in that area. A phoenix can self-resurrect only once per year."
 
   - name: "Shroud of Flame"
-    desc: " (aura,fire,primal) 20 feet. 4d6 fire damage DC 37 Reflex check save\nWhile this aura is active, any adjacent creature that hits the phoenix with a melee attack or otherwise touches it takes 2d6 fire damage. The phoenix can activate or deactivate the aura with a single action, which has the concentrate trait."
+    desc: " (aura,fire,primal) 20 feet. 4d6 fire damage DC 37 Reflex check save\n\nWhile this aura is active, any adjacent creature that hits the phoenix with a melee attack or otherwise touches it takes 2d6 fire damage. The phoenix can activate or deactivate the aura with a single action, which has the concentrate trait."
 
 attacks:
   - name: ""
@@ -80,6 +81,12 @@ attacks:
   - name: "Flaming Strafe"
     desc: "`pf2:1` (fire,primal) The phoenix blazes with superheated flame and Flies up to its Speed. It deals 6d6 fire damage to each creature within 20 feet of each square it moves through (DC 37 Reflex check save)."
  
+```
+
+```encounter-table
+name: Phoenix
+creatures:
+  - 1: Phoenix
 ```
 
 

@@ -7,8 +7,9 @@ tags:
   - trait/fortune
   - trait/common
   - category/ancestry
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.7qBuzHY8kEG8SdEP"
-license: OGL
+license: ORC
 ---
 # Cat's Luck `pf2:0`
 ## Feat 1
@@ -27,5 +28,5 @@ license: OGL
 
 You instinctively twist away from danger. You can reroll the triggering saving throw and use the better result.
 
-*Source: Pathfinder Advanced Player's Guide*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

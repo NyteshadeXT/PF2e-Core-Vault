@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/human
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/1
 statblock: inline
 name: "Ninth Army Mage"
@@ -22,12 +23,12 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Society Scenario #3-16: Escape from Oppara"
 name: "Ninth Army Mage"
 level: "Creature 1"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Medium"
-trait_01: "evil"
-trait_02: "human"
-trait_03: "humanoid"
+trait_01: [[evil]]
+trait_02: [[human]]
+trait_03: [[humanoid]]
 modifier: 5
 perception:
   - name: "Perception"
@@ -66,6 +67,12 @@ attacks:
   - name: "Wizard School Spell"
     desc: "1 Focus Point, DC 17, attack +9; __1st __  _[[Spells/Force Bolt|Force Bolt]]_"
  
+```
+
+```encounter-table
+name: Ninth Army Mage
+creatures:
+  - 1: Ninth Army Mage
 ```
 
 

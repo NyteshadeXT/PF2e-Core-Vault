@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/human
   - pf2e/creature/type/humanoid
   - pf2e/creature/type/lawful
+  - pf2eMonster
   - pf2e/creature/level/14
 statblock: inline
 name: "Huldrin Skolsdottir"
@@ -22,12 +23,12 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #167: Ready? Fight!"
 name: "Huldrin Skolsdottir"
 level: "Creature 14"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Medium"
-trait_01: "human"
-trait_02: "humanoid"
-trait_03: "lawful"
+trait_01: [[human]]
+trait_02: [[humanoid]]
+trait_03: [[lawful]]
 modifier: 25
 perception:
   - name: "Perception"
@@ -55,10 +56,10 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "[[Bestiary Ability Glossary/Attack of Opportunity|Attack of Opportunity (Special)]]"
-    desc: "`pf2:r`  Huldrin gets 1 extra reaction each turn that she can use only to make an Attack of Opportunity\n"
+    desc: "`pf2:r`  Huldrin gets 1 extra reaction each turn that she can use only to make an Attack of Opportunity\n\n* * *\n"
 
   - name: "[[Bestiary Ability Glossary/Shield Block|Shield Block]]"
-    desc: "`pf2:r`  This reaction also triggers when an ally adjacent to Huldrin takes damage from an attack or when Huldrin takes any damage (even non-physical damage) as a result of a Reflex save. It prevents damage to that ally or to Huldrin, respectively.\n"
+    desc: "`pf2:r`  This reaction also triggers when an ally adjacent to Huldrin takes damage from an attack or when Huldrin takes any damage (even non-physical damage) as a result of a Reflex save. It prevents damage to that ally or to Huldrin, respectively.\n\n* * *\n"
 
 attacks:
   - name: ""
@@ -73,8 +74,14 @@ attacks:
     desc: "`pf2:1` Trident +26 (magical, thrown 20 ft.)\n__Damage__  2d8 + 13 piercing 1d6 fire"
 
   - name: "Iron Maiden Stance"
-    desc: "`pf2:1`  **Requirements** Huldrin is wielding a shield\n**Effect** Huldrin gains the benefits of [[Actions/Raise a Shield|Raise a Shield]] until she no longer meets this stance's requirements. While in this stance, whenever an ally's Strike deals damage to an enemy within Huldrin's reach, that enemy takes 1d6 piercing damage."
+    desc: "`pf2:1`  **Requirements** Huldrin is wielding a shield\n* * *\n\n**Effect** Huldrin gains the benefits of [[Actions/Raise a Shield|Raise a Shield]] until she no longer meets this stance's requirements. While in this stance, whenever an ally's Strike deals damage to an enemy within Huldrin's reach, that enemy takes 1d6 piercing damage."
  
+```
+
+```encounter-table
+name: Huldrin Skolsdottir
+creatures:
+  - 1: Huldrin Skolsdottir
 ```
 
 

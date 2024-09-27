@@ -3,6 +3,7 @@ obsidianUIMode: preview
 title: "Dweomerweave Robe"
 cssclasses: pf2e,pf2e-spell
 tags:
+  - trait/illusion
   - trait/invested
   - trait/magical
   - trait/uncommon
@@ -11,7 +12,7 @@ license: OGL
 ---
 # Dweomerweave Robe
 ## Item 2
-### [uncommon](uncommon "Uncommon Rarity Trait")[[invested]][[magical]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[illusion]][[invested]][[3-Rules/Rule References/Magical]]
 
 
 **Price** 25 gp; 

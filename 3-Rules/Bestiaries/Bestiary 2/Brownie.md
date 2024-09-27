@@ -6,6 +6,7 @@ cssClasses: pf2e
 aliases: "Compendium.pf2e.pathfinder-bestiary-2.Actor.SFpMOxBwiS529dJk" 
 tags:
   - pf2e/creature/type/fey
+  - pf2eMonster
   - pf2e/creature/level/1
 statblock: inline
 name: "Brownie"
@@ -24,7 +25,7 @@ level: "Creature 1"
 
 alignment: ""
 size: "tiny"
-trait_01: "fey"
+trait_01: [[fey]]
 modifier: 7
 perception:
   - name: "Perception"
@@ -61,8 +62,14 @@ attacks:
     desc: "DC 17, attack +9; __4th __  _[[Spells/Translocate|Dimension Door (Self Only)]]_; __3rd __  _[[Spells/Mending|Mending]]_; __1st __  _[[Spells/Ventriloquism|Ventriloquism]]_\n__Cantrips__  __(4th)__ _[[Compendium.pf2e.spells-srd.Item.kl2q6JvBZwed4B6v|Dancing Lights]]_, _[[Spells/Prestidigitation|Prestidigitation]]_"
 
   - name: "Baffling Bluff"
-    desc: "`pf2:2` (emotion,mental,primal) The brownie's antics can confuse and disorient a creature. When the brownie uses Baffling Bluff, it targets a single creature within 30 feet; that creature must attempt a DC 17 Will check save.\nThe target is temporarily immune to Baffling Bluff for 1 minute.\n**Critical Success** The target is unaffected.\n**Success** The target is fooled momentarily and is [[Conditions/Off-Guard|Off-Guard]] against the next melee Strike the brownie makes against it before the end of the brownie's next turn.\n**Failure** The target is [[Conditions/Confused|Confused]] for 1 round.\n**Critical Failure** The target is confused for 1 minute. It can attempt a new save at the end of each of its turns to end the confused condition."
+    desc: "`pf2:2` (emotion,mental,primal) The brownie's antics can confuse and disorient a creature. When the brownie uses Baffling Bluff, it targets a single creature within 30 feet; that creature must attempt a DC 17 Will check save.\n\nThe target is temporarily immune to Baffling Bluff for 1 minute.\n* * *\n\n**Critical Success** The target is unaffected.\n\n**Success** The target is fooled momentarily and is [[Conditions/Off-Guard|Off-Guard]] against the next melee Strike the brownie makes against it before the end of the brownie's next turn.\n\n**Failure** The target is [[Conditions/Confused|Confused]] for 1 round.\n\n**Critical Failure** The target is confused for 1 minute. It can attempt a new save at the end of each of its turns to end the confused condition."
  
+```
+
+```encounter-table
+name: Brownie
+creatures:
+  - 1: Brownie
 ```
 
 

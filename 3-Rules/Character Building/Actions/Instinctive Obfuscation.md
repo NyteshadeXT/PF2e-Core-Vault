@@ -13,7 +13,7 @@ license: OGL
 ---
 # Instinctive Obfuscation `pf2:r`
 
-### [[gnome]][[illusion]][[visual]]
+### [[3-Rules/trait_reference/gnome]][[illusion]][[visual]]
 
 **Category** defensive; 
 

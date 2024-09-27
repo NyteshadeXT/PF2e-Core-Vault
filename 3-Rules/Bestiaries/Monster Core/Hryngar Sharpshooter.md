@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/duergar
   - pf2e/creature/type/dwarf
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/0
   - remaster
 statblock: inline
@@ -27,9 +28,9 @@ level: "Creature 0"
 
 alignment: ""
 size: "Medium"
-trait_01: "duergar"
-trait_02: "dwarf"
-trait_03: "humanoid"
+trait_01: [[duergar]]
+trait_02: [[dwarf]]
+trait_03: [[humanoid]]
 modifier: 4
 perception:
   - name: "Perception"
@@ -71,6 +72,12 @@ attacks:
   - name: "Bola Bolt"
     desc: "  This shot deals no damage, but on a hit, the target must succeed at a DC 16 Reflex check save or be knocked [[Conditions/Prone|Prone]] and [[Conditions/Immobilized|Immobilized]] until it is freed with a successful DC 15 check to [[/act escape dc=15]]. This check can be attempted either by the target or a creature adjacent to the target."
  
+```
+
+```encounter-table
+name: Hryngar Sharpshooter
+creatures:
+  - 1: Hryngar Sharpshooter
 ```
 
 

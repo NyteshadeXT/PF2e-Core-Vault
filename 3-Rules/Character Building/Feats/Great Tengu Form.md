@@ -6,8 +6,9 @@ tags:
   - trait/tengu
   - trait/common
   - category/ancestry
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.ABXUfGoeBgCyFasg"
-license: OGL
+license: ORC
 ---
 # Great Tengu Form
 ## Feat 17
@@ -19,13 +20,9 @@ license: OGL
 
 **Prerequisites** Long-Nosed Form
 * * *
-You take on the imposing form of a large, winged oni.
-
-Once per day, as part of using Long-Nosed Form, you also gain the benefits of 4th-rank [[Spells/Enlarge|Enlarge]] and [[Spells/Fly|Fly]].
-
-This lasts for 5 minutes or until you shift out of your Long-Nosed Form, whichever happens first.
+You take on the imposing form of a large, winged spirit. Once per day, as part of using [[Feats/Long-Nosed Form|Long-Nosed Form]], you also gain the benefits of 4th-rank [[Spells/Enlarge|Enlarge]] and [[Spells/Fly|Fly]]. This lasts for 5 minutes or until you shift out of your Long-Nosed Form, whichever happens first.
 
 [[Feat_Feature Effects/Effect_ Great Tengu Form|Effect: Great Tengu Form]]
 
-*Source: Pathfinder Advanced Player's Guide*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

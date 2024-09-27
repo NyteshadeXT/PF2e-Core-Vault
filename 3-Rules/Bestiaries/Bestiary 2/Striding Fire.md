@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/chaotic
   - pf2e/creature/type/elemental
   - pf2e/creature/type/fire
+  - pf2eMonster
   - pf2e/creature/level/6
 statblock: inline
 name: "Striding Fire"
@@ -26,9 +27,9 @@ level: "Creature 6"
 
 alignment: ""
 size: "Medium"
-trait_01: "chaotic"
-trait_02: "elemental"
-trait_03: "fire"
+trait_01: [[chaotic]]
+trait_02: [[elemental]]
+trait_03: [[fire]]
 modifier: 14
 perception:
   - name: "Perception"
@@ -64,8 +65,14 @@ attacks:
     desc: "`pf2:1` Fist +17 (agile, finesse)\n__Damage__  2d8 + 5 bludgeoning 1d6 fire"
 
   - name: "Burning Rush"
-    desc: "`pf2:2` (fire,primal) The striding fire Strides up to double its Speed in a straight line. Its movement during this Stride doesn't trigger reactions. Any creature the striding fire was adjacent to at any point during this Stride must attempt a DC 24 Reflex check save. If it critically fails, it is knocked [[Conditions/Prone|Prone]] by a wave of heated air.\nThe striding fire can't use Burning Rush for 1d4 rounds."
+    desc: "`pf2:2` (fire,primal) The striding fire Strides up to double its Speed in a straight line. Its movement during this Stride doesn't trigger reactions. Any creature the striding fire was adjacent to at any point during this Stride must attempt a DC 24 Reflex check save. If it critically fails, it is knocked [[Conditions/Prone|Prone]] by a wave of heated air.\n\nThe striding fire can't use Burning Rush for 1d4 rounds."
  
+```
+
+```encounter-table
+name: Striding Fire
+creatures:
+  - 1: Striding Fire
 ```
 
 

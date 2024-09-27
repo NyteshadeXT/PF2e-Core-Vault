@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/chaotic
   - pf2e/creature/type/human
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/9
 statblock: inline
 name: "Nilak"
@@ -22,12 +23,12 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Kingmaker"
 name: "Nilak"
 level: "Creature 9"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Medium"
-trait_01: "chaotic"
-trait_02: "human"
-trait_03: "humanoid"
+trait_01: [[chaotic]]
+trait_02: [[human]]
+trait_03: [[humanoid]]
 modifier: 19
 perception:
   - name: "Perception"
@@ -84,6 +85,12 @@ attacks:
   - name: "Wild Shape"
     desc: "  Nilak adds the forms [[Spells/Insect Form|Insect Form]] and [[Spells/Dinosaur Form|Dinosaur Form]] to her wild shape list."
  
+```
+
+```encounter-table
+name: Nilak
+creatures:
+  - 1: Nilak
 ```
 
 

@@ -6,8 +6,9 @@ tags:
   - trait/tengu
   - trait/common
   - category/ancestry
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.eGfYZoWC6cDa2XWd"
-license: OGL
+license: ORC
 ---
 # Jinx Glutton
 ## Feat 13
@@ -19,7 +20,7 @@ license: OGL
 
 **Prerequisites** Eat Fortune
 * * *
-You can Eat Fortune once per hour, rather than once per day.
+You can [[Feats/Eat Fortune|Eat Fortune]] once per hour, rather than once per day.
 
-*Source: Pathfinder Lost Omens: Ancestry Guide*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

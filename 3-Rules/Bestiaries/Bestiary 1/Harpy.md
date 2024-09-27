@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/chaotic
   - pf2e/creature/type/evil
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/5
 statblock: inline
 name: "Harpy"
@@ -26,9 +27,9 @@ level: "Creature 5"
 
 alignment: ""
 size: "Medium"
-trait_01: "chaotic"
-trait_02: "evil"
-trait_03: "humanoid"
+trait_01: [[chaotic]]
+trait_02: [[evil]]
+trait_03: [[humanoid]]
 modifier: 12
 perception:
   - name: "Perception"
@@ -36,7 +37,7 @@ perception:
 languages: "Common"
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +13, Deception: +13, Intimidation: +11, Performance: +14 (+16 singing)"
+    desc: "Acrobatics: +13, Deception: +13, Intimidation: +11, Performance: +14"
 abilityMods: [1, 4, 0, -1, 1, 4]
 speed: 20 feet,  fly 60 feet
 sourcebook: "_Pathfinder Bestiary_"
@@ -68,8 +69,14 @@ attacks:
     desc: "`pf2:1` Club +15 (thrown 10 ft.)\n__Damage__  1d6 + 4 bludgeoning"
 
   - name: "Captivating Song"
-    desc: "`pf2:1` (auditory,concentrate,incapacitation,mental,primal) The harpy cries out an eerie, compelling melody. Each non-harpy creature within a 300-foot aura must attempt a DC 21 Will check save to avoid becoming captivated by the harpy's song. The effect lasts for 1 round, but if the harpy uses this ability again on subsequent rounds, it extends the duration by 1 round for all affected creatures. Once a creature succeeds at any save against Captivating Song, that creature is temporarily immune to Captivating Songs for 24 hours.\n**Success** The creature is unaffected.\n**Failure** The creature is [[Conditions/Fascinated|Fascinated]], and it must spend each of its actions to move closer to the harpy as expediently as possible, while avoiding obvious dangers. If a captivated creature is adjacent to the harpy, it stays still and doesn't act. If attacked by the harpy, the creature is freed from captivation at the end of the harpy's turn.\n**Critical Failure** As failure, but if attacked by the harpy, the creature can attempt a new save at the start of its next turn, rather than being freed at the end of the harpy's turn."
+    desc: "`pf2:1` (auditory,concentrate,incapacitation,mental,primal) The harpy cries out an eerie, compelling melody. Each non-harpy creature within a 300-foot aura must attempt a DC 21 Will check save to avoid becoming captivated by the harpy's song. The effect lasts for 1 round, but if the harpy uses this ability again on subsequent rounds, it extends the duration by 1 round for all affected creatures. Once a creature succeeds at any save against Captivating Song, that creature is temporarily immune to Captivating Songs for 24 hours.\n* * *\n\n**Success** The creature is unaffected.\n\n**Failure** The creature is [[Conditions/Fascinated|Fascinated]], and it must spend each of its actions to move closer to the harpy as expediently as possible, while avoiding obvious dangers. If a captivated creature is adjacent to the harpy, it stays still and doesn't act. If attacked by the harpy, the creature is freed from captivation at the end of the harpy's turn.\n\n**Critical Failure** As failure, but if attacked by the harpy, the creature can attempt a new save at the start of its next turn, rather than being freed at the end of the harpy's turn."
  
+```
+
+```encounter-table
+name: Harpy
+creatures:
+  - 1: Harpy
 ```
 
 

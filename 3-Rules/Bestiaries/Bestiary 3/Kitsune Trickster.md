@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/chaotic
   - pf2e/creature/type/humanoid
   - pf2e/creature/type/kitsune
+  - pf2eMonster
   - pf2e/creature/level/2
 statblock: inline
 name: "Kitsune Trickster"
@@ -26,9 +27,9 @@ level: "Creature 2"
 
 alignment: ""
 size: "Medium"
-trait_01: "chaotic"
-trait_02: "humanoid"
-trait_03: "kitsune"
+trait_01: [[chaotic]]
+trait_02: [[humanoid]]
+trait_03: [[kitsune]]
 modifier: 10
 perception:
   - name: "Perception"
@@ -74,8 +75,14 @@ attacks:
     desc: "DC 18, attack +10; __1st __ (3 slots) _[[Spells/Charm|Charm]]_, _[[Spells/Fleet Step|Fleet Step]]_, _[[Spells/Runic Body|Magic Fang]]_\n__Cantrips__  __(1st)__ _[[Compendium.pf2e.spells-srd.Item.kl2q6JvBZwed4B6v|Dancing Lights]]_, _[[Spells/Detect Magic|Detect Magic]]_, _[[Spells/Ghost Sound|Ghost Sound]]_, _[[Spells/Prestidigitation|Prestidigitation]]_, _[[Spells/Produce Flame|Produce Flame]]_, _[[Spells/Sigil|Sigil]]_, _[[Spells/Tangle Vine|Tanglefoot]]_"
 
   - name: "[[Bestiary Ability Glossary/Change Shape|Change Shape]]"
-    desc: "`pf2:1` (concentrate,divine,polymorph) The kitsune trickster transforms into the tailless form of a specific Medium human. The tailless form can't be altered and resembles the kitsune's fox-like humanoid form. While the kitsune trickster's alternate form is a Medium human, some kitsune have tailless forms of other humanoids, or a fox alternate form.\n"
+    desc: "`pf2:1` (concentrate,divine,polymorph) The kitsune trickster transforms into the tailless form of a specific Medium human. The tailless form can't be altered and resembles the kitsune's fox-like humanoid form. While the kitsune trickster's alternate form is a Medium human, some kitsune have tailless forms of other humanoids, or a fox alternate form.\n\n* * *\n"
  
+```
+
+```encounter-table
+name: Kitsune Trickster
+creatures:
+  - 1: Kitsune Trickster
 ```
 
 

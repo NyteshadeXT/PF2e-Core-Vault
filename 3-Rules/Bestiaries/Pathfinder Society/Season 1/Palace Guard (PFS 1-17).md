@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/human
   - pf2e/creature/type/humanoid
   - pf2e/creature/type/lawful
+  - pf2eMonster
   - pf2e/creature/level/3
 statblock: inline
 name: "Palace Guard (PFS 1-17)"
@@ -26,10 +27,10 @@ level: "Creature 3"
 
 alignment: ""
 size: "Medium"
-trait_01: "fey"
-trait_02: "human"
-trait_03: "humanoid"
-trait_04: "lawful"
+trait_01: [[fey]]
+trait_02: [[human]]
+trait_03: [[humanoid]]
+trait_04: [[lawful]]
 modifier: 14
 perception:
   - name: "Perception"
@@ -71,6 +72,12 @@ attacks:
   - name: "Ranged"
     desc: "`pf2:1` Crossbow +10 (range increment 120 feet, reload 1)\n__Damage__  1d8 piercing"
  
+```
+
+```encounter-table
+name: Palace Guard (PFS 1-17)
+creatures:
+  - 1: Palace Guard (PFS 1-17)
 ```
 
 

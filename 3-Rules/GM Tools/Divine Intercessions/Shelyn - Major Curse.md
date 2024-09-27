@@ -17,7 +17,7 @@ license: OGL
 
 
 
-**Major Curse** Those who spread misery via false love face Shelyn's greatest curse.
+Those who spread misery via false love face Shelyn's greatest curse.
 
 You lose the ability to distinguish any living being from another through appearance, voice, scent, or similar sensory means. You can make out physical size (so you wouldn't mistake an ant for a horse), but nothing further.
 

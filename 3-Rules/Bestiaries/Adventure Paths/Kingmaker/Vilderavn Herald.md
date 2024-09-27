@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.kingmaker-bestiary.Actor.UXXEOnvp2MDaS9Sc"
 tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/fey
+  - pf2eMonster
   - pf2e/creature/level/19
 statblock: inline
 name: "Vilderavn Herald"
@@ -21,19 +22,19 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Kingmaker"
 name: "Vilderavn Herald"
 level: "Creature 19"
-rare_03: "Rare"
+rare_03: [[Rare]]
 alignment: ""
 size: "Medium"
-trait_01: "evil"
-trait_02: "fey"
+trait_01: [[evil]]
+trait_02: [[fey]]
 modifier: 35
 perception:
   - name: "Perception"
     desc: "+35; Greater Darkvision, Truesight"
-languages: "Aklo, Common, Diabolic, Fey"
+languages: "Aklo, Common, Diabolic, Fey; tongues"
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +34, Athletics: +36, Deception: +35, Heraldry Lore: +33, Intimidation: +37, Society: +33, Stealth: +36, Warfare Lore: +33"
+    desc: "Acrobatics: +34, Athletics: +36, Deception: +35, Intimidation: +37, Society: +33, Stealth: +36, Heraldry Lore: +33, Warfare Lore: +33"
 abilityMods: [10, 7, 6, 6, 6, 8]
 speed: 40 feet,  fly 120 feet
 sourcebook: "_Pathfinder Kingmaker_"
@@ -55,7 +56,7 @@ abilities_mid:
     desc: "`pf2:r`  "
 
   - name: "Aura of Disquietude"
-    desc: " (aura,emotion,fear,mental) 30 feet. DC 35 Will check\nAs [[Bestiary Ability Glossary/Frightful Presence|Frightful Presence]], plus a creature frightened by the aura becomes suspicious: it doesn't count any other creature as its ally, and it can't [[Actions/Aid|Aid]] or flank. On a critical failure, the creature also can't be a willing target for harmless or helpful magic. The vilderavn can activate or deactivate this aura using a single action, which has the concentrate trait.\nA creature that first enters the area must attempt a Will save.\nRegardless of the result of the saving throw, the creature is temporarily immune to this monster's Frightful Presence for 1 minute.\n**Critical Success** The creature is unaffected by the presence.\n**Success** The creature is [[Conditions/Frightened 1|Frightened 1]].\n**Failure** The creature is [[Conditions/Frightened 1|Frightened 2]].\n**Critical Failure** The creature is [[Conditions/Frightened 1|Frightened 4]]."
+    desc: " (emotion,fear,mental) 30 feet. DC 35 Will check\n\nAs [[Bestiary Ability Glossary/Frightful Presence|Frightful Presence]], plus a creature frightened by the aura becomes suspicious: it doesn't count any other creature as its ally, and it can't [[Actions/Aid|Aid]] or flank. On a critical failure, the creature also can't be a willing target for harmless or helpful magic. The vilderavn can activate or deactivate this aura using a single action, which has the concentrate trait.\n\n[[Bestiary Effects/Effect_ Aura of Disquietude|Effect: Aura of Disquietude]]\n* * *\n\nA creature that first enters the area must attempt a Will save.\n\nRegardless of the result of the saving throw, the creature is temporarily immune to this monster's Frightful Presence for 1 minute.\n* * *\n\n**Critical Success** The creature is unaffected by the presence.\n\n**Success** The creature is [[Conditions/Frightened|Frightened 1]].\n\n**Failure** The creature is [[Conditions/Frightened|Frightened 2]].\n\n**Critical Failure** The creature is [[Conditions/Frightened|Frightened 4]]."
 
 attacks:
   - name: ""
@@ -81,6 +82,12 @@ attacks:
   - name: "Souleater"
     desc: " (occult) If the vilderavn kills a humanoid target with a critical hit using its jaws Strike, it rips out and devours the target's heart and soul as part of the attack. While the target is dead, the vilderavn can Change Shape into the target's form, gaining a +4 status bonus to Deception checks to impersonate the target. If magic would resurrect the creature, the caster must succeed at a DC 38 counteract check to extract the target's soul from the vilderavn; otherwise the spell fails."
  
+```
+
+```encounter-table
+name: Vilderavn Herald
+creatures:
+  - 1: Vilderavn Herald
 ```
 
 

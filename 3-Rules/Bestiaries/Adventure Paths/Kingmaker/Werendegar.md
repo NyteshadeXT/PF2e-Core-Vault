@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/fey
   - pf2e/creature/type/lawful
+  - pf2eMonster
   - pf2e/creature/level/21
 statblock: inline
 name: "Werendegar"
@@ -22,12 +23,12 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Kingmaker"
 name: "Werendegar"
 level: "Creature 21"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Small"
-trait_01: "evil"
-trait_02: "fey"
-trait_03: "lawful"
+trait_01: [[evil]]
+trait_02: [[fey]]
+trait_03: [[lawful]]
 modifier: 35
 perception:
   - name: "Perception"
@@ -61,7 +62,7 @@ abilities_mid:
     desc: " (aura,primal) 15 feet. Thorny roots and barbed vines writhe and twist in the aura, creating difficult hazardous terrain that inflicts 4d6 piercing damage whenever a non-flying creature moves within the aura."
 
   - name: "Trip Up"
-    desc: "`pf2:r`  **Trigger** A creature critically fails a melee attack to hit Werendegar or moves into a space within Werendegar's thorny aura.\n**Effect** The triggering creature must attempt a DC 44 Reflex check save.\n**Critical Success** The target is unaffected.\n**Success** The target is [[Conditions/Off-Guard|Off-Guard]] until the start of its next turn.\n**Failure** The target takes 3d10 bludgeoning damage and is off-guard until the start of its next turn.\n**Critical failure** As failure, and the target is knocked [[Conditions/Prone|Prone]]."
+    desc: "`pf2:r`  **Trigger** A creature critically fails a melee attack to hit Werendegar or moves into a space within Werendegar's thorny aura.\n* * *\n\n**Effect** The triggering creature must attempt a DC 44 Reflex check save.\n* * *\n\n**Critical Success** The target is unaffected.\n\n**Success** The target is [[Conditions/Off-Guard|Off-Guard]] until the start of its next turn.\n\n**Failure** The target takes 3d10 bludgeoning damage and is off-guard until the start of its next turn.\n\n**Critical failure** As failure, and the target is knocked [[Conditions/Prone|Prone]]."
 
 attacks:
   - name: ""
@@ -79,10 +80,10 @@ attacks:
     desc: "DC 44, attack +36; __10th __  _[[Spells/Alter Reality|Alter Reality]]_; __9th __  _[[Spells/Dispel Magic|Dispel Magic]]_, _[[Spells/Telepathic Demand|Telepathic Demand]]_; __8th __  _[[Spells/Disappearance|Disappearance]]_, _[[Spells/Suggestion|Suggestion]]_, _[[Spells/Uncontrollable Dance|Uncontrollable Dance]]_; __7th __  _[[Spells/Translocate|Dimension Door]]_, _[[Spells/Heal|Heal]]_, _[[Spells/Interplanar Teleport|Plane Shift]]_, _[[Spells/Teleport|Teleport]]_\n__Cantrips__  __(10th)__ _[[Spells/Daze|Daze]]_, _[[Spells/Message|Message]]_, _[[Spells/Shield|Shield]]_, _[[Spells/Telekinetic Projectile|Telekinetic Projectile]]_"
 
   - name: "[[Bestiary Ability Glossary/Change Shape|Change Shape]]"
-    desc: "`pf2:1` (concentrate,polymorph,primal) Werendegar changes into his natural form or that of any humanoid. In humanoid form, he loses his thorny aura, and his equipment appears to be trinkets or toys. As a humanoid that lacks claws or fangs, he loses the matching Strike. If he loses his claw Strike, he gains a fist Strike that is identical except that it deals bludgeoning damage.\n"
+    desc: "`pf2:1` (concentrate,polymorph,primal) Werendegar changes into his natural form or that of any humanoid. In humanoid form, he loses his thorny aura, and his equipment appears to be trinkets or toys. As a humanoid that lacks claws or fangs, he loses the matching Strike. If he loses his claw Strike, he gains a fist Strike that is identical except that it deals bludgeoning damage.\n\n* * *\n"
 
   - name: "Disarm"
-    desc: "`pf2:2`  **Requirement** Werendegar's last action was a success with a Strike that has Disarm in its damage entry.\n**Effect** Werendegar knocks a held or carried weapon to the ground in the target's space."
+    desc: "`pf2:2`  **Requirement** Werendegar's last action was a success with a Strike that has Disarm in its damage entry.\n* * *\n\n**Effect** Werendegar knocks a held or carried weapon to the ground in the target's space."
 
   - name: "[[Bestiary Ability Glossary/Sneak Attack|Sneak Attack]]"
     desc: "  Werendegar deals 4d6 extra precision damage to [[Conditions/Off-Guard|Off-Guard]] creatures."
@@ -90,6 +91,12 @@ attacks:
   - name: "Trickster's Step"
     desc: "  Werendegar ignores difficult terrain, hazardous terrain, and doesn't trigger traps with its movement."
  
+```
+
+```encounter-table
+name: Werendegar
+creatures:
+  - 1: Werendegar
 ```
 
 

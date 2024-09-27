@@ -7,8 +7,9 @@ tags:
   - trait/rage
   - trait/common
   - category/class
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.WY7CjISdz6uwXwIb"
-license: OGL
+license: ORC
 ---
 # Collateral Thrash
 ## Feat 16
@@ -20,7 +21,7 @@ license: OGL
 
 **Prerequisites** Thrash
 * * *
-When you [[Feats/Thrash|Thrash]] a [[Conditions/Grabbed|Grabbed]] foe, you smack that foe into another nearby. Another foe adjacent to the grabbed foe also takes your Thrash damage, with a Reflex check save against your class DC.
+You smack the foe you're thrashing into someone else. When you Thrash, choose another enemy adjacent to the [[Conditions/Grabbed|Grabbed]] enemy. That enemy also takes your Thrash damage, with a Reflex check save against your class DC.
 
-*Source: Pathfinder Core Rulebook*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

@@ -33,9 +33,9 @@ The delicate process of extracting violet venom from a violet fungus leaves it d
 
 **Maximum Duration** 6 rounds
 
-**Stage 1** 1d6 poison damage plus [[Conditions/Enfeebled 1|Enfeebled 1]] (1 round)
+**Stage 1** 1d6 poison damage plus [[Conditions/Enfeebled|Enfeebled 1]] (1 round)
 
-**Stage 2** 1d6 poison damage plus [[Conditions/Drained 1|Drained 1]] (1 round)
+**Stage 2** 1d6 poison damage plus [[Conditions/Drained|Drained 1]] (1 round)
 
 **Stage 3** 2d6 poison damage plus enfeebled 1 (1 round)
 

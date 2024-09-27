@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/earth
   - pf2e/creature/type/elemental
   - pf2e/creature/type/fire
+  - pf2eMonster
   - pf2e/creature/level/2
 statblock: inline
 name: "Thoqqua"
@@ -22,20 +23,20 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Adventure: Crown of the Kobold King"
 name: "Thoqqua"
 level: "Creature 2"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Medium"
-trait_01: "earth"
-trait_02: "elemental"
-trait_03: "fire"
+trait_01: [[earth]]
+trait_02: [[elemental]]
+trait_03: [[fire]]
 modifier: 7
 perception:
   - name: "Perception"
     desc: "+7; Darkvision, Tremorsense (Imprecise) 60 Feet"
-languages: "Pyric"
+languages: "Pyric; (can&#x27;t speak any language)"
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +7, Stealth: +5 (+7 in Lava)"
+    desc: "Acrobatics: +7, Stealth: +5"
 abilityMods: [3, 1, 2, -2, 1, 0]
 speed: 25 feet,  burrow 15 feet
 sourcebook: "_Pathfinder Adventure: Crown of the Kobold King_"
@@ -57,7 +58,7 @@ abilities_mid:
     desc: " (fire,primal) A thoqqua's body is hot enough to melt stone. A creature who grabs a thoqqua, is [[Conditions/Grabbed|Grabbed]] by a thoqqua, or critically fails a melee Strike with an unarmed attack or agile weapon takes 1d4 fire damage (DC 15 Reflex check)."
 
   - name: "Reactive Thrash"
-    desc: "`pf2:r`  **Trigger** A creature within the thoqqua's reach hits the thoqqua with a melee Strike\n**Effect** The thoqqua instinctively thrashes into the attack, pressing its molten hot scales forward. The attacker must attempt a DC 15 Reflex check save.\n**Critical Success** The attacker is unaffected.\n**Success** The attacker takes 1d4 fire damage.\n**Failure** The attacker takes 2d4 fire damage.\n**Critical Failure** As failure, but the weapon used to Strike the thoqqua becomes broken unless the weapon is made of metal, has more than 10 Hardness, or is resistant to or immune to fire."
+    desc: "`pf2:r`  **Trigger** A creature within the thoqqua's reach hits the thoqqua with a melee Strike\n\n**Effect** The thoqqua instinctively thrashes into the attack, pressing its molten hot scales forward. The attacker must attempt a DC 15 Reflex check save.\n* * *\n\n**Critical Success** The attacker is unaffected.\n\n**Success** The attacker takes 1d4 fire damage.\n\n**Failure** The attacker takes 2d4 fire damage.\n\n**Critical Failure** As failure, but the weapon used to Strike the thoqqua becomes broken unless the weapon is made of metal, has more than 10 Hardness, or is resistant to or immune to fire."
 
 attacks:
   - name: ""
@@ -71,6 +72,12 @@ attacks:
   - name: "Starving"
     desc: "  A thoqqua feeds on a combination of raw stone, ore, and heat. When denied these nourishments, a thoqqua won't perish from starvation, but it does grow less armored as it's forced to absorb and weaken its armored body plates. A starved thoqqua's Armor Class is reduced by 2, but it gains a +1 circumstance bonus on all attack rolls."
  
+```
+
+```encounter-table
+name: Thoqqua
+creatures:
+  - 1: Thoqqua
 ```
 
 

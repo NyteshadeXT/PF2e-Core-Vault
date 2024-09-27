@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.pathfinder-bestiary-3.Actor.yi9g7D49uGvAdGDP"
 tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/fungus
+  - pf2eMonster
   - pf2e/creature/level/6
 statblock: inline
 name: "Mi-Go"
@@ -22,11 +23,11 @@ token: [[modules/pf2e-tokens-bestiaries/portraits/plant/fungal/mi-go.webp| ]]
 source: "Pathfinder Bestiary 3"
 name: "Mi-Go"
 level: "Creature 6"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Medium"
-trait_01: "evil"
-trait_02: "fungus"
+trait_01: [[evil]]
+trait_02: [[fungus]]
 modifier: 14
 perception:
   - name: "Perception"
@@ -34,7 +35,7 @@ perception:
 languages: "Aklo, Common, Migo"
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +13, Arcana: +15, Athletics: +12, Deception: +14 (+18 to Impersonate), Medicine: +17, Occultism: +15, Religion: +14, Stealth: +13, Thievery: +13"
+    desc: "Acrobatics: +13, Arcana: +15, Athletics: +12, Deception: +14, Medicine: +17, Occultism: +15, Religion: +14, Stealth: +13, Thievery: +13"
 abilityMods: [2, 5, 3, 5, 4, 2]
 speed: 25 feet,  fly 40 feet
 sourcebook: "_Pathfinder Bestiary 3_"
@@ -65,7 +66,7 @@ attacks:
     desc: "  A mi-go can use Deception to [[Actions/Impersonate|Impersonate]] any Medium humanoid creature, although creating such a disguise takes 1 hour. It can't impersonate a specific individual with this ability."
 
   - name: "Eviscerate"
-    desc: "`pf2:1` (manipulate) The mi-go performs a swift and painful surgery on a creature it has [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]] or that is otherwise [[Conditions/Immobilized|Immobilized]], attempting a Medicine check check against the target's Fortitude DC. Regardless of the result, the target then becomes temporarily immune for 24 hours.\n**Critical Success** The target takes 6d6 slashing damage, is [[Conditions/Slowed 1|Slowed 1]] for 1 round, and becomes [[Conditions/Clumsy 1|Clumsy 1]], [[Conditions/Enfeebled 1|Enfeebled 1]], or [[Conditions/Stupefied 1|Stupefied 1]] (the mi-go chooses) for 24 hours.\n**Success** The target takes 4d6 slashing damage and is slowed 1 for 1 round by the pain.\n**Failure** The target takes 2d6 slashing damage.\n**Critical Failure** The target takes no damage."
+    desc: "`pf2:1` (manipulate) The mi-go performs a swift and painful surgery on a creature it has [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]] or that is otherwise [[Conditions/Immobilized|Immobilized]], attempting a Medicine check check against the target's Fortitude DC. Regardless of the result, the target then becomes temporarily immune for 24 hours.\n* * *\n\n**Critical Success** The target takes 6d6 slashing damage, is [[Conditions/Slowed|Slowed 1]] for 1 round, and becomes [[Conditions/Clumsy|Clumsy 1]], [[Conditions/Enfeebled|Enfeebled 1]], or [[Conditions/Stupefied|Stupefied 1]] (the mi-go chooses) for 24 hours.\n\n**Success** The target takes 4d6 slashing damage and is slowed 1 for 1 round by the pain.\n\n**Failure** The target takes 2d6 slashing damage.\n\n**Critical Failure** The target takes no damage."
 
   - name: "[[Bestiary Ability Glossary/Sneak Attack|Sneak Attack]]"
     desc: "  A mi-go deals an extra 1d6 precision damage to [[Conditions/Off-Guard|Off-Guard]] creatures."
@@ -73,6 +74,12 @@ attacks:
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
     desc: "`pf2:1`  "
  
+```
+
+```encounter-table
+name: Mi-Go
+creatures:
+  - 1: Mi-Go
 ```
 
 

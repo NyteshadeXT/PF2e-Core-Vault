@@ -14,7 +14,7 @@ license: OGL
 ---
 # Dueling Pistol
 ## Item 1
-### [uncommon](uncommon "Uncommon Rarity Trait")[[concealable]][[concussive]][[fatal-d10]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[concealable]][[concussive]][[fatal-d10]]
 
 |  |  |
 | -- | -- |

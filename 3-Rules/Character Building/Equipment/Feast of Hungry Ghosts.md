@@ -12,7 +12,7 @@ license: OGL
 ---
 # Feast of Hungry Ghosts
 ## Item 9
-### [[consumable]][[magical]]
+### [[consumable]][[3-Rules/Rule References/Magical]]
 
 **Category** other; 
 **Price** 120 gp; 

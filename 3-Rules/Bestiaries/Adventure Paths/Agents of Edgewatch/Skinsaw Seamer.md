@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/human
   - pf2e/creature/type/humanoid
   - pf2e/creature/type/lawful
+  - pf2eMonster
   - pf2e/creature/level/8
 statblock: inline
 name: "Skinsaw Seamer"
@@ -23,13 +24,13 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #158: Sixty Feet Under"
 name: "Skinsaw Seamer"
 level: "Creature 8"
-rare_03: "Rare"
+rare_03: [[Rare]]
 alignment: ""
 size: "Medium"
-trait_01: "evil"
-trait_02: "human"
-trait_03: "humanoid"
-trait_04: "lawful"
+trait_01: [[evil]]
+trait_02: [[human]]
+trait_03: [[humanoid]]
+trait_04: [[lawful]]
 modifier: 18
 perception:
   - name: "Perception"
@@ -37,7 +38,7 @@ perception:
 languages: "Common, Daemonic"
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +18, Athletics: +17, Deception: +16, Medicine: +17, Norgorber Lore: +16, Religion: +17, Thievery: +16"
+    desc: "Acrobatics: +18, Athletics: +17, Deception: +16, Medicine: +17, Religion: +17, Thievery: +16, Norgorber Lore: +16"
 abilityMods: [3, 4, 0, 2, 3, 2]
 speed: 25 feet
 sourcebook: "_Pathfinder #158: Sixty Feet Under_"
@@ -57,7 +58,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Wire Catch"
-    desc: "`pf2:r`  Every Skinsaw seamer keeps a sewing needle attached to a loop of thick silk, wrapped loosely around their hand not holding a weapon, which they can use in combat to snag or disarm attackers\n**Trigger** A creature hits the seamer with a melee Strike\n**Effect** The seamer attempts an Athletics check to either [[Actions/Grapple|Grapple]] or [[Actions/Disarm|Disarm]] the triggering creature."
+    desc: "`pf2:r`  Every Skinsaw seamer keeps a sewing needle attached to a loop of thick silk, wrapped loosely around their hand not holding a weapon, which they can use in combat to snag or disarm attackers\n\n**Trigger** A creature hits the seamer with a melee Strike\n* * *\n\n**Effect** The seamer attempts an Athletics check to either [[Actions/Grapple|Grapple]] or [[Actions/Disarm|Disarm]] the triggering creature."
 
 attacks:
   - name: ""
@@ -72,11 +73,17 @@ attacks:
     desc: "`pf2:1` Dagger +20 (agile, finesse, thrown 10 ft., versatile s)\n__Damage__  1d4 + 7 piercing"
 
   - name: "Flay"
-    desc: "`pf2:1`  **Requirements** The Skinsaw seamer dealt damage with a melee weapon other than its war razor with their last action\n**Effect** The seamer makes a war razor Strike against the same creature that they just damaged. On a hit, the seamer slices a strip of flesh from the target and deals 1d6 bleed in addition to the war razor's usual damage."
+    desc: "`pf2:1`  **Requirements** The Skinsaw seamer dealt damage with a melee weapon other than its war razor with their last action\n* * *\n\n**Effect** The seamer makes a war razor Strike against the same creature that they just damaged. On a hit, the seamer slices a strip of flesh from the target and deals 1d6 bleed in addition to the war razor's usual damage."
 
   - name: "Quick Stitch"
-    desc: "`pf2:2`  **Requirements** The Skinsaw seamer is currently grappling a creature\n**Effect** The seamer stitches a piece of cloth to the creature's arm, face, or leg, potentially hindering it. The creature must attempt a DC 26 Reflex check saving throw; if the seamer has already successfully used their Flay ability against the creature within the past minute, the creature's save result is one degree of success worse.\n**Critical Success** The creature is unaffected.\n**Success** The creature takes 1d4 piercing damage.\n**Failure** The creature is [[Conditions/Clumsy 1|Clumsy 1]], [[Conditions/Dazzled|Dazzled]], [[Conditions/Enfeebled 1|Enfeebled 1]], or [[Conditions/Off-Guard|Off-Guard]] (seamer's choice). This effect lasts until the creature spends a single action to tear out the stitching, which deals 1d6 piercing damage to it.\n**Critical Failure** The creature is [[Conditions/Clumsy 1|Clumsy 2]], [[Conditions/Blinded|Blinded]], [[Conditions/Enfeebled 1|Enfeebled 2]], or off-guard (seamer's choice). This effect lasts until the creature spends 2 actions to tear out the stitching, which deals 2d6 piercing damage to it."
+    desc: "`pf2:2`  **Requirements** The Skinsaw seamer is currently grappling a creature\n* * *\n\n**Effect** The seamer stitches a piece of cloth to the creature's arm, face, or leg, potentially hindering it. The creature must attempt a DC 26 Reflex check saving throw; if the seamer has already successfully used their Flay ability against the creature within the past minute, the creature's save result is one degree of success worse.\n* * *\n\n**Critical Success** The creature is unaffected.\n\n**Success** The creature takes 1d4 piercing damage.\n\n**Failure** The creature is [[Conditions/Clumsy|Clumsy 1]], [[Conditions/Dazzled|Dazzled]], [[Conditions/Enfeebled|Enfeebled 1]], or [[Conditions/Off-Guard|Off-Guard]] (seamer's choice). This effect lasts until the creature spends a single action to tear out the stitching, which deals 1d6 piercing damage to it.\n\n**Critical Failure** The creature is [[Conditions/Clumsy|Clumsy 2]], [[Conditions/Blinded|Blinded]], [[Conditions/Enfeebled|Enfeebled 2]], or off-guard (seamer's choice). This effect lasts until the creature spends 2 actions to tear out the stitching, which deals 2d6 piercing damage to it."
  
+```
+
+```encounter-table
+name: Skinsaw Seamer
+creatures:
+  - 1: Skinsaw Seamer
 ```
 
 

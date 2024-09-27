@@ -19,7 +19,7 @@ license: ORC
 
 You're sleeping or have been knocked out. You can't act. You take a –4 status penalty to AC, Perception, and Reflex saves, and you have the [[Conditions/Blinded|Blinded]] and [[Conditions/Off-Guard|Off-Guard]] conditions. When you gain this condition, you fall [[Conditions/Prone|Prone]] and drop items you're holding unless the effect states otherwise or the GM determines you're positioned so you wouldn't.
 
-If you're unconscious because you're [[Conditions/Dying 1|Dying]], you can't wake up while you have 0 Hit Points. If you are restored to 1 Hit Point or more, you lose the dying and unconscious conditions and can act normally on your next turn.
+If you're unconscious because you're [[Conditions/Dying|Dying]], you can't wake up while you have 0 Hit Points. If you are restored to 1 Hit Point or more, you lose the dying and unconscious conditions and can act normally on your next turn.
 
 If you are unconscious and at 0 Hit Points, but not dying, you return to 1 Hit Point and awaken after sufficient time passes. The GM determines how long you remain unconscious, from a minimum of 10 minutes to several hours. If you are healed, you lose the unconscious condition and can act normally on your next turn.
 

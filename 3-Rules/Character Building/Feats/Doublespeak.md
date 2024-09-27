@@ -7,8 +7,9 @@ tags:
   - trait/skill
   - trait/common
   - category/skill
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.qibU5SZPFHMNnpAP"
-license: OGL
+license: ORC
 ---
 # Doublespeak
 ## Feat 7
@@ -24,5 +25,5 @@ You are skilled at saying one thing while meaning something different. You disgu
 
 Any allies who have traveled alongside you for at least 1 full week automatically discern your meaning. Other observers must succeed at a Perception check against your Deception DC to realize you are passing a secret message, and they must critically succeed to understand the message itself.
 
-*Source: Pathfinder Advanced Player's Guide*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

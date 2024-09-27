@@ -31,7 +31,7 @@ You can have only one challenge in effect at a time; challenging a new opponent 
 
 [[Feat_Feature Effects/Effect_ Pistolero's Challenge|Effect: Pistolero's Challenge]]
 
-**Critical Failure** You become [[Conditions/Frightened 1|Frightened 1]] and can't use this ability again for 1 minute.
+**Critical Failure** You become [[Conditions/Frightened|Frightened 1]] and can't use this ability again for 1 minute.
 
 *Source: Pathfinder Guns & Gears*
 *OGL*

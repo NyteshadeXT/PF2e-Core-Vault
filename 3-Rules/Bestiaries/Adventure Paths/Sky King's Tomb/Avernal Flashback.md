@@ -4,6 +4,7 @@ obsidianUIMode: preview
 noteType: pf2eHazard
 tags:
   - haunt
+  - pf2eHazard
   - complex
 source: Pathfinder #193: Mantle of Gold
 aliases: "Compendium.pf2e.sky-kings-tomb-bestiary.Actor.cDkbVQSh0U7e7xtv" 
@@ -21,13 +22,13 @@ name: "Avernal Flashback"
 level: "Hazard 4"
 
 trait_06: "Complex"
-trait_01: "haunt"
+trait_01: [[haunt]]
 modifier: 12
 sourcebook: "_Pathfinder #193: Mantle of Gold_"
 ac: 18
 armorclass:
   - name: AC
-    desc: "18; __Fort__ +8, __Ref__ +0, __Will__ +14"
+    desc: "18; __Fort__ +8, __Will__ +14"
 hp: 45
 health:
   - name: ""
@@ -60,5 +61,11 @@ attacks:
   - name: "Routine"
     desc: "(2 actions) Zogototaru uses 1 action to create a Tremor. With her other action, she either Exudes Heat or makes Rocks Fall, alternating between the two each round."
 
+```
+
+```encounter-table
+name: Avernal Flashback
+creatures:
+  - 1: Avernal Flashback
 ```
 

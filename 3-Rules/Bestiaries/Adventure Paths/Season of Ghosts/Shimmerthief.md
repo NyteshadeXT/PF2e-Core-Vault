@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/beast
   - pf2e/creature/type/chaotic
   - pf2e/creature/type/evil
+  - pf2eMonster
   - pf2e/creature/level/7
 statblock: inline
 name: "Shimmerthief"
@@ -22,12 +23,12 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #198: No Breath to Cry"
 name: "Shimmerthief"
 level: "Creature 7"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Medium"
-trait_01: "beast"
-trait_02: "chaotic"
-trait_03: "evil"
+trait_01: [[beast]]
+trait_02: [[chaotic]]
+trait_03: [[evil]]
 modifier: 15
 perception:
   - name: "Perception"
@@ -75,14 +76,20 @@ attacks:
     desc: "DC 25, attack +17; __4th __  _[[Spells/Darkness|Darkness]]_; __2nd __  _[[Spells/Blur|Blur]]_, _[[Spells/Darkness|Darkness (At Will)]]_"
 
   - name: "Drain Light"
-    desc: "`pf2:2` (darkness,primal) The shimmerthief targets a light source within 30 feet, then attempts to counteract it with a spell attack roll. If they succeed, the shimmerthief regains 2d8 + 10 Hit Points (4d8 + 20 Hit Points on a critical success)."
+    desc: "`pf2:2` (darkness,primal) The shimmerthief targets a light source within 30 feet, then attempts to counteract it with a spell attack roll. If they succeed, the shimmerthief regains 2d8+10 Hit Points (4d8+20 Hit Points on a critical success)."
 
   - name: "Lasting Darkness"
-    desc: "`pf2:r`  **Frequency** once per day\n**Trigger** The shimmerthief casts [[Spells/Darkness|Darkness]] as a 2nd-rank spell\n**Effect** The duration of the shimmerthief's _darkness_ increases to 24 hours."
+    desc: "`pf2:r`  **Frequency** once per day\n\n**Trigger** The shimmerthief casts [[Spells/Darkness|Darkness]] as a 2nd-rank spell\n* * *\n\n**Effect** The duration of the shimmerthief's _darkness_ increases to 24 hours."
 
   - name: "[[Actor.OoTnmIkunSTCPet3.Item.pVX2irGBvUFMoufU|Unnerving Shriek]]"
-    desc: "`pf2:2` (auditory,emotion,fear,mental,primal) The shimmerthief releases an unearthly wail, forcing creatures within 60 feet to attempt a DC 24 Will check save.\n**Critical Success** The creature is unaffected.\n**Success** The creature is [[Conditions/Frightened 1|Frightened 1]].\n**Failure** The creature is [[Conditions/Frightened 1|Frightened 2]].\n**Critical Failure** The creature is frightened 2 and [[Conditions/Fleeing|Fleeing]] for as long as it remains frightened."
+    desc: "`pf2:2` (auditory,emotion,fear,mental,primal) The shimmerthief releases an unearthly wail, forcing creatures within 60 feet to attempt a DC 24 Will check save.\n* * *\n\n**Critical Success** The creature is unaffected.\n\n**Success** The creature is [[Conditions/Frightened|Frightened 1]].\n\n**Failure** The creature is [[Conditions/Frightened|Frightened 2]].\n\n**Critical Failure** The creature is frightened 2 and [[Conditions/Fleeing|Fleeing]] for as long as it remains frightened."
  
+```
+
+```encounter-table
+name: Shimmerthief
+creatures:
+  - 1: Shimmerthief
 ```
 
 

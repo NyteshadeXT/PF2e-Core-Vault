@@ -4,6 +4,7 @@ obsidianUIMode: preview
 noteType: pf2eHazard
 tags:
   - environmental
+  - pf2eHazard
   - complex
 source: Pathfinder Society Scenario #4-99: Blessings of the Forest
 aliases: "Compendium.pf2e.pfs-season-4-bestiary.Actor.5R9kkxzfr4KJAeA1" 
@@ -21,7 +22,7 @@ name: "Hidden Forest Bog (5-6)"
 level: "Hazard 5"
 
 trait_06: "Complex"
-trait_01: "environmental"
+trait_01: [[environmental]]
 modifier: 18
 sourcebook: "_Pathfinder Society Scenario #4-99: Blessings of the Forest_"
 perception:
@@ -40,11 +41,17 @@ attacks:
   - name: ""
 
   - name: "Heavy Water"
-    desc: "`pf2:0` **Trigger** A creature enters the area of the bog.\n**Effect** The triggering creature sinks into the bog up to its waist. The bog rolls initiative if it hasn't already."
+    desc: "`pf2:0` **Trigger** A creature enters the area of the bog.\n* * *\n\n**Effect** The triggering creature sinks into the bog up to its waist. The bog rolls initiative if it hasn't already."
 
   - name: "Routine"
-    desc: "(one action) On its initiative, the bog pulls down each creature within it. A creature that was submerged to its waist becomes submerged to its neck, and a creature that was submerged up to its neck is pulled under and must hold its breath to avoid suffocation.\nA creature partially or fully submerged in the bog can attempt a DC 23 Athletics check check to Swim to either raise itself by one step (pulled under to submerged to its neck, or submerged to its neck to submerged to its waist), or to escape from the bog if it's submerged only up to its waist. This DC increases to DC 25 Athletics check for creatures submerged up to their neck or worse. On a critical failure, the creature is pulled down one step. Other creatures can [[Actions/Aid|Aid]], typically by using a rope or similar assistance (providing an automatic success), or attempt to pull a single affected creature out with their own Athletics check, with the same results as if the aiding creature attempted the check itself."
+    desc: "(one action) On its initiative, the bog pulls down each creature within it. A creature that was submerged to its waist becomes submerged to its neck, and a creature that was submerged up to its neck is pulled under and must hold its breath to avoid suffocation.\n\nA creature partially or fully submerged in the bog can attempt a DC 23 Athletics check check to Swim to either raise itself by one step (pulled under to submerged to its neck, or submerged to its neck to submerged to its waist), or to escape from the bog if it's submerged only up to its waist. This DC increases to DC 25 Athletics check for creatures submerged up to their neck or worse. On a critical failure, the creature is pulled down one step. Other creatures can [[Actions/Aid|Aid]], typically by using a rope or similar assistance (providing an automatic success), or attempt to pull a single affected creature out with their own Athletics check, with the same results as if the aiding creature attempted the check itself."
   - name: "Reset"
     desc: "The hazard still submerges anyone who walks in, but the surface doesn't become hidden again until it accumulates leaf and greenery cover over the course of 24 hours."
+```
+
+```encounter-table
+name: Hidden Forest Bog (5-6)
+creatures:
+  - 1: Hidden Forest Bog (5-6)
 ```
 

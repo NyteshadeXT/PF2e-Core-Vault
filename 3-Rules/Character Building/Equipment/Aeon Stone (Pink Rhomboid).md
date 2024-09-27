@@ -11,16 +11,18 @@ license: OGL
 ---
 # Aeon Stone (Pink Rhomboid)
 ## Item 12
-### [uncommon](uncommon "Uncommon Rarity Trait")[[invested]][[magical]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[invested]][[3-Rules/Rule References/Magical]]
 
 
 **Price** 1900 gp; 
 **Bulk** 0; **Size** med
 **Usage** worn
 
-When you invest this stone, you gain 15 temporary Hit Points. If the stone's effects are suppressed, you lose any of the temporary Hit Points remaining until it returns. The temporary Hit Points refresh during your daily preparations; they do not refresh if you re-invest the stone, or invest another pink rhomboid aeon stone, before then.
+When you invest this stone, you gain 15 temporary Hit Points. If the stone's effects are suppressed, you lose any of the temporary Hit Points remaining until it returns. The temporary Hit Points refresh during your daily preparations; they do not refresh if you re-invest the stone, or invest another _pink rhomboid aeon stone_, before then.
 
 The resonant power allows you to cast the [[Spells/Stabilize|Stabilize]] cantrip as a divine innate spell.
+
+[[Equipment Effects/Effect_ Aeon Stone (Pink Rhomboid)|Effect: Aeon Stone (Pink Rhomboid)]]
 
 *Source: Pathfinder Core Rulebook*
 *OGL*

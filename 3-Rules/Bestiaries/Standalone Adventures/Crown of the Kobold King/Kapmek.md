@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/humanoid
   - pf2e/creature/type/kobold
   - pf2e/creature/type/lawful
+  - pf2eMonster
   - pf2e/creature/level/4
 statblock: inline
 name: "Kapmek"
@@ -23,13 +24,13 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Adventure: Crown of the Kobold King"
 name: "Kapmek"
 level: "Creature 4"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Small"
-trait_01: "evil"
-trait_02: "humanoid"
-trait_03: "kobold"
-trait_04: "lawful"
+trait_01: [[evil]]
+trait_02: [[humanoid]]
+trait_03: [[kobold]]
+trait_04: [[lawful]]
 modifier: 11
 perception:
   - name: "Perception"
@@ -69,14 +70,20 @@ attacks:
     desc: "`pf2:1` Crossbow +9 (range increment 120 feet, reload 1)\n__Damage__  1d8 + 3 piercing"
 
   - name: "Hurried Retreat"
-    desc: "`pf2:1`  **Requirements** Kapmek is adjacent to at least one enemy.\n**Effect** Kapmek Strides up to his Speed plus 5 feet and gains a +2 circumstance bonus to AC against reactions triggered by this movement. He must end this movement in a space that's not adjacent to any enemy."
+    desc: "`pf2:1`  **Requirements** Kapmek is adjacent to at least one enemy.\n* * *\n\n**Effect** Kapmek Strides up to his Speed plus 5 feet and gains a +2 circumstance bonus to AC against reactions triggered by this movement. He must end this movement in a space that's not adjacent to any enemy."
 
   - name: "Quick Poison Dip"
-    desc: "`pf2:r`  **Trigger** Kapmek loads his crossbow while he carries a dose of poison\n**Effect** As he loads his crossbow, Kapmek can dip the crossbow bolt into a dose of carried poison as part of the action taken to load his crossbow."
+    desc: "`pf2:r`  **Trigger** Kapmek loads his crossbow while he carries a dose of poison\n* * *\n\n**Effect** As he loads his crossbow, Kapmek can dip the crossbow bolt into a dose of carried poison as part of the action taken to load his crossbow."
 
   - name: "[[Bestiary Ability Glossary/Sneak Attack|Sneak Attack]]"
     desc: "  Kapmek deals an additional 1d6 precision damage to [[Conditions/Off-Guard|Off-Guard]] creatures."
  
+```
+
+```encounter-table
+name: Kapmek
+creatures:
+  - 1: Kapmek
 ```
 
 

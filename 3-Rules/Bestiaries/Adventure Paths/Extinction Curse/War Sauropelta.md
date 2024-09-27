@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.extinction-curse-bestiary.Actor.2XRzA5GZeDk88Y2z"
 tags:
   - pf2e/creature/type/animal
   - pf2e/creature/type/dinosaur
+  - pf2eMonster
   - pf2e/creature/level/12
 statblock: inline
 name: "War Sauropelta"
@@ -21,15 +22,16 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #154: Siege of the Dinosaurs"
 name: "War Sauropelta"
 level: "Creature 12"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Large"
-trait_01: "animal"
-trait_02: "dinosaur"
+trait_01: [[animal]]
+trait_02: [[dinosaur]]
 modifier: 23
 perception:
   - name: "Perception"
     desc: "+23; Low-Light Vision"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Athletics: +25"
@@ -54,7 +56,7 @@ abilities_mid:
     desc: "`pf2:r`  DC 32 Reflex check"
 
   - name: "Dogged Persistence"
-    desc: "`pf2:r`  **Frequency** once per minute\n**Trigger** The war sauropelta would be affected by the [[Conditions/Immobilized|Immobilized]], [[Conditions/Paralyzed|Paralyzed]], [[Conditions/Slowed 1|Slowed]], or [[Conditions/Stunned 1|Stunned]] conditions, or by an effect that would give it a penalty to its Speeds, from a source of 14th level or less\n**Effect** The war sauropelta negates the triggering condition or effect."
+    desc: "`pf2:r`  **Frequency** once per minute\n\n**Trigger** The war sauropelta would be affected by the [[Conditions/Immobilized|Immobilized]], [[Conditions/Paralyzed|Paralyzed]], [[Conditions/Slowed|Slowed]], or [[Conditions/Stunned|Stunned]] conditions, or by an effect that would give it a penalty to its Speeds, from a source of 14th level or less\n* * *\n\n**Effect** The war sauropelta negates the triggering condition or effect."
 
 attacks:
   - name: ""
@@ -66,14 +68,20 @@ attacks:
     desc: "`pf2:1` Foot +24 ()\n__Damage__  3d6 + 13 bludgeoning"
 
   - name: "Punishing Tail"
-    desc: "  A creature struck by the war sauropelta's tail must attempt a DC 32 Fortitude check save. On a failure, it's [[Conditions/Stunned 1|Stunned 1]]; on a critical failure, it's [[Conditions/Stunned 1|Stunned 3]]."
+    desc: "  A creature struck by the war sauropelta's tail must attempt a DC 32 Fortitude check save. On a failure, it's [[Conditions/Stunned|Stunned 1]]; on a critical failure, it's [[Conditions/Stunned|Stunned 3]]."
 
   - name: "[[Bestiary Ability Glossary/Trample|Trample]]"
-    desc: "`pf2:3`  Medium or smaller, foot, DC 32 Reflex check\n"
+    desc: "`pf2:3`  Medium or smaller, foot, DC 32 Reflex check\n\n* * *\n"
 
   - name: "[[Bestiary Ability Glossary/Push|Push]]"
     desc: "`pf2:1`  "
  
+```
+
+```encounter-table
+name: War Sauropelta
+creatures:
+  - 1: War Sauropelta
 ```
 
 

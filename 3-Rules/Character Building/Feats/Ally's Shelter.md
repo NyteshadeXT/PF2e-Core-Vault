@@ -7,8 +7,9 @@ tags:
   - trait/kobold
   - trait/common
   - category/ancestry
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.j0mlvJcuYGFuMG2S"
-license: OGL
+license: ORC
 ---
 # Ally's Shelter `pf2:r`
 ## Feat 5
@@ -25,7 +26,7 @@ license: OGL
 
 * * *
 
-In stressful circumstances, you find strength in your allies' example. Roll the save using an adjacent ally's modifier for that type of saving throw instead of your own.
+You follow your allies' example. Roll the save using an adjacent ally's modifier for that type of saving throw instead of your own.
 
-*Source: Pathfinder Advanced Player's Guide*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

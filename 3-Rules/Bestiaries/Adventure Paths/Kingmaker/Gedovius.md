@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/beast
   - pf2e/creature/type/earth
   - pf2e/creature/type/evil
+  - pf2eMonster
   - pf2e/creature/level/16
 statblock: inline
 name: "Gedovius"
@@ -22,12 +23,12 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Kingmaker"
 name: "Gedovius"
 level: "Creature 16"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Medium"
-trait_01: "beast"
-trait_02: "earth"
-trait_03: "evil"
+trait_01: [[beast]]
+trait_02: [[earth]]
+trait_03: [[evil]]
 modifier: 28
 perception:
   - name: "Perception"
@@ -55,7 +56,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Clawed Feet"
-    desc: "`pf2:r` (attack) **Trigger** The gargoyle is Flying, and a creature moves into an adjacent square below it.\n**Effect** The gargoyle makes a claw Strike against the triggering creature."
+    desc: "`pf2:r` (attack) **Trigger** The gargoyle is Flying, and a creature moves into an adjacent square below it.\n* * *\n\n**Effect** The gargoyle makes a claw Strike against the triggering creature."
 
 attacks:
   - name: ""
@@ -67,13 +68,13 @@ attacks:
     desc: "`pf2:1` Claw +32 (agile)\n__Damage__  3d6 + 12 slashing"
 
   - name: "Dread Striker"
-    desc: "  Any creature that has the [[Conditions/Frightened 1|Frightened]] condition is also [[Conditions/Off-Guard|Off-Guard]] against Gedovius's attacks."
+    desc: "  Any creature that has the [[Conditions/Frightened|Frightened]] condition is also [[Conditions/Off-Guard|Off-Guard]] against Gedovius's attacks."
 
   - name: "Intimidating Prowess"
     desc: "  Gedovius ignores the penalty for not sharing a language when he attempts to [[Actions/Demoralize|Demoralize]] a target."
 
   - name: "Rip and Rend"
-    desc: "`pf2:1`  **Frequency** once per round\n**Requirements** Gedovius's last action was a melee Strike that dealt sneak attack damage to an [[Conditions/Off-Guard|Off-Guard]] target.\n**Effect** Gedovius deals 6d6 bleed damage to the target."
+    desc: "`pf2:1`  **Frequency** once per round\n\n**Requirements** Gedovius's last action was a melee Strike that dealt sneak attack damage to an [[Conditions/Off-Guard|Off-Guard]] target.\n* * *\n\n**Effect** Gedovius deals 6d6 bleed damage to the target."
 
   - name: "[[Bestiary Ability Glossary/Sneak Attack|Sneak Attack]]"
     desc: "  Gedovius deals 3d6 extra precision damage to [[Conditions/Off-Guard|Off-Guard]] creatures."
@@ -81,6 +82,12 @@ attacks:
   - name: "Statue"
     desc: "`pf2:1` (concentrate) Until the next time he acts, Gedovius appears to be a statue. He has an automatic result of 44 on Deception checks and DCs to pass as a statue."
  
+```
+
+```encounter-table
+name: Gedovius
+creatures:
+  - 1: Gedovius
 ```
 
 

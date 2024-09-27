@@ -16,7 +16,7 @@ license: OGL
 
 
 
-**Moderate Boon:** Tsukiyo watches over you and guards your sleep. You are guaranteed a peaceful night's rest no matter what conditions you are sleeping in. Even nightmare and similar abilities can't disrupt your sleep unless they come from a deity, artifact, or similarly powerful source.
+Tsukiyo watches over you and guards your sleep. You are guaranteed a peaceful night's rest no matter what conditions you are sleeping in. Even nightmare and similar abilities can't disrupt your sleep unless they come from a deity, artifact, or similarly powerful source.
 
 *Source: Pathfinder Lost Omens: Gods & Magic*
 *OGL*

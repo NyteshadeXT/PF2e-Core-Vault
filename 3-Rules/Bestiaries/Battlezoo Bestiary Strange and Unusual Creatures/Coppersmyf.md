@@ -7,6 +7,7 @@ aliases: "Compendium.battlezoo-bestiary-su-pf2e.pf2e-battlezoo-su-actors.Actor.E
 tags:
   - pf2e/creature/type/construct
   - pf2e/creature/type/fey
+  - pf2eMonster
   - pf2e/creature/level/4
 statblock: inline
 name: "Coppersmyf"
@@ -22,19 +23,19 @@ token: [[modules/battlezoo-bestiary-su-pf2e/art/Portraits/coppersmyf.webp| ]]
 source: "Battlezoo Bestiary: Strange and Unusual"
 name: "Coppersmyf"
 level: "Creature 4"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Small"
-trait_01: "construct"
-trait_02: "fey"
+trait_01: [[construct]]
+trait_02: [[fey]]
 modifier: 14
 perception:
   - name: "Perception"
     desc: "+14; Low-Light Vision"
-languages: "Fey, Gnomish"
+languages: "Fey, Gnomish; can&#x27;t speak any language"
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +11, Crafting: +10 (+12 to Craft cookware), Stealth: +11 (+15 in kitchens), Cooking Lore: +12, "
+    desc: "Acrobatics: +11, Crafting: +10, Stealth: +11, Acrobatics: +11, Crafting: +10, Stealth: +11, Cooking Lore: +12"
 abilityMods: [2, 5, 0, -2, 2, 1]
 speed:  fly 40 feet
 sourcebook: "_Battlezoo Bestiary: Strange and Unusual_"
@@ -56,7 +57,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Deterrent Shock"
-    desc: "`pf2:r` (electricity) **Requirements** The coppersmyf is in its Disanimated form\n**Trigger** A creature touches one of the coppersmyf's pieces\n**Effect** The coppersmyf sends a stunning shock of electricity into the triggering creature's body. The creature must attempt a DC 18 Reflex check save. The coppersmyf then reanimates.\n**Critical Success** The creature is unaffected.\n**Success** The creature is Stunned 1.\n**Failure** The creature is Stunned 2.\n**Critical Failure** The creature is Stunned 3."
+    desc: "`pf2:r` (electricity) **Requirements** The coppersmyf is in its Disanimated form\n\n**Trigger** A creature touches one of the coppersmyf's pieces\n* * *\n\n**Effect** The coppersmyf sends a stunning shock of electricity into the triggering creature's body. The creature must attempt a DC 18 Reflex check save. The coppersmyf then reanimates.\n* * *\n\n**Critical Success** The creature is unaffected.\n\n**Success** The creature is [[Conditions/Stunned|Stunned 1]].\n\n**Failure** The creature is [[Conditions/Stunned|Stunned 2]].\n\n**Critical Failure** The creature is [[Conditions/Stunned|Stunned 3]]."
 
 attacks:
   - name: ""
@@ -70,6 +71,12 @@ attacks:
   - name: "Disintegration Beam"
     desc: "`pf2:2` (acid,concentrate,primal) The coppersmyf fires a pulsating beam of corroding energy from its eye, dealing 3d6 acid damage (DC 18 Reflex check save) to all creatures in a 15-foot line."
  
+```
+
+```encounter-table
+name: Coppersmyf
+creatures:
+  - 1: Coppersmyf
 ```
 
 

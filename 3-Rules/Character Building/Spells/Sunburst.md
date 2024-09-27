@@ -4,6 +4,7 @@ title: "Sunburst"
 noteType: pf2eSpell
 cssclasses: pf2e,pf2e-spell
 tags:
+  - pf2eSpell
   - spell/level/7
   - trait/concentrate
   - trait/fire
@@ -11,34 +12,35 @@ tags:
   - trait/manipulate
   - trait/vitality
   - trait/common
+  - tradition/divine
+  - tradition/primal
+
   - remaster
 aliases: "Compendium.pf2e.spells-srd.Item.a3aQxCpoj1q1NQxC" 
+license: ORC
 ---
-# Sunburst  `pf2:2`  
-## Spell 7
-### [[concentrate]][[fire]][[light]][[manipulate]][[vitality]]
-**Traditions** [[divine]], [[primal]]
-**Range** 500 feet
-**Area** 60-foot burst
-**Saving Throw**  reflex
-* * * 
-A powerful globe of searing sunlight explodes in the area, dealing 8d10 fire damage to all creatures in the area, plus an additional 8d10 vitality damage to undead creatures. Each creature in the area must attempt a Reflex save.
+```statblock
+name: "Sunburst  `pf2:2`"
+level: "Spell 7"
 
-* * *
-
-**Critical Success** The creature is unaffected.
-
-**Success** The creature takes half damage.
-
-**Failure** The creature takes full damage.
-
-**Critical Failure** The creature takes full damage and becomes [[Conditions/Blinded|Blinded]] permanently.
-
-If the globe overlaps with an area of magical darkness, _sunburst_ attempts to counteract the darkness effect.
-
-* * *
-
-**Heightened (+1)** The fire damage increases by 1d10, and the vitality damage against undead increases by 1d10.
-
-*Source: Pathfinder Player Core*
-*ORC*
+trait_01: [[concentrate]]
+trait_02: [[fire]]
+trait_03: [[light]]
+trait_04: [[manipulate]]
+trait_05: [[vitality]]
+layout: Basic Pathfinder 2e Layout
+columns: 1
+columnWidth: x
+abilities_top:
+  - name: ""
+  - name: "Traditions"
+    desc: "divine, primal"
+  - name: "Range"
+    desc: "500 feet; **Area** 60-foot burst"
+  - name: "Defense"
+    desc: " reflex"
+abilities_mid:
+  - name: ""
+    desc: "A powerful globe of searing sunlight explodes in the area, dealing 8d10 fire damage to all creatures in the area, plus an additional 8d10 vitality damage to undead creatures. Each creature in the area must attempt a Reflex save.\n* * *\n\n**Critical Success** The creature is unaffected.\n\n**Success** The creature takes half damage.\n\n**Failure** The creature takes full damage.\n\n**Critical Failure** The creature takes full damage and becomes [[Conditions/Blinded|Blinded]] permanently.\n\nIf the globe overlaps with an area of magical darkness, _sunburst_ attempts to counteract the darkness effect.\n* * *\n\n**Heightened (+1)** The fire damage increases by 1d10, and the vitality damage against undead increases by 1d10."
+sourcebook: "_Pathfinder Player Core_"
+```

@@ -7,6 +7,7 @@ aliases: "Compendium.battlezoo-bestiary-pf2e.pf2e-battlezoo-bestiary.Actor.ujOHv
 tags:
   - pf2e/creature/type/chaotic
   - pf2e/creature/type/fey
+  - pf2eMonster
   - pf2e/creature/level/8
 statblock: inline
 name: "Milopoxy"
@@ -22,11 +23,11 @@ token: [[modules/battlezoo-bestiary-pf2e/art/milopoxy.webp| ]]
 source: "Battlezoo Bestiary"
 name: "Milopoxy"
 level: "Creature 8"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Medium"
-trait_01: "chaotic"
-trait_02: "fey"
+trait_01: [[chaotic]]
+trait_02: [[fey]]
 modifier: 14
 perception:
   - name: "Perception"
@@ -34,7 +35,7 @@ perception:
 languages: "Common, Fey"
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +18, Athletics: +17, Diplomacy: +18, Intimidation: +18 (+20 to Demoralize), Chivalry Lore: +18, "
+    desc: "Acrobatics: +18, Athletics: +17, Diplomacy: +18, Intimidation: +18, Chivalry Lore: +18"
 abilityMods: [5, 6, 3, 2, 0, 6]
 speed: 20 feet
 sourcebook: "_Battlezoo Bestiary_"
@@ -57,10 +58,10 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Righteous Obstinancy"
-    desc: "`pf2:r` (mental) **Trigger** The milopoxy is targeted by a mental effect that allows a saving throw;\n**Effect** The milopoxy boasts ample bravado against the triggering effect, granting itself a +2 circumstance bonus to the saving throw."
+    desc: "`pf2:r` (mental) **Trigger** The milopoxy is targeted by a mental effect that allows a saving throw;\n* * *\n\n**Effect** The milopoxy boasts ample bravado against the triggering effect, granting itself a +2 circumstance bonus to the saving throw."
 
   - name: "Selfish Protection"
-    desc: "`pf2:r`  **Trigger** An enemy damages the milopoxy's ward. Both the enemy and ward must be within 15 feet of the milopoxy;\n**Effect** The milopoxy Strides to a space adjacent to its ward to shield them. The ward gains resistance 10 to the triggering damage. All damage prevented this way is dealt to the milopoxy instead. The milopoxy can use Bask In Glory as part of this reaction."
+    desc: "`pf2:r`  **Trigger** An enemy damages the milopoxy's ward. Both the enemy and ward must be within 15 feet of the milopoxy;\n* * *\n\n**Effect** The milopoxy Strides to a space adjacent to its ward to shield them. The ward gains resistance 10 to the triggering damage. All damage prevented this way is dealt to the milopoxy instead. The milopoxy can use Bask In Glory as part of this reaction."
 
 attacks:
   - name: ""
@@ -72,11 +73,17 @@ attacks:
     desc: "`pf2:1` Composite Longbow +18 (deadly d10, propulsive, range increment 100 feet, reload 0, volley 30 ft.)\n__Damage__  1d8 + 2 piercing"
 
   - name: "Bask in Glory"
-    desc: "`pf2:1` (emotion,incapacitation,mental,primal,visual) Requirement The milopoxy can be seen by its ward or at least one non-hostile creature;\n**Effect** The milopoxy shows off its imagined heroism, magically compelling witnesses to cheer. It rolls a Diplomacy check against the Will DC of its ward and all non-hostile creatures within 60 feet. As long as one creature cheers, the milopoxy gains a +1 status bonus to attack rolls, damage rolls, and saves against fear effects.\nRegardless of its save result, each creature is immune to Bask In Glory for 24 hours.\n**Critical Success** The creature uses all its actions to cheer for the milopoxy. It does so for up to 1 minute or until the milopoxy doesn't Bask In Glory at least once on a subsequent round, whichever comes first. If the creature or one of its allies is attacked, it can make a Will save to end the effect.\n**Success** As critical success, but the duration is until the end of the creature's next turn.\n**Failure** The creature is unaffected."
+    desc: "`pf2:1` (emotion,incapacitation,mental,primal,visual) Requirement The milopoxy can be seen by its ward or at least one non-hostile creature;\n\n**Effect** The milopoxy shows off its imagined heroism, magically compelling witnesses to cheer. It rolls a Diplomacy check against the Will DC of its ward and all non-hostile creatures within 60 feet. As long as one creature cheers, the milopoxy gains a +1 status bonus to attack rolls, damage rolls, and saves against fear effects.\n\nRegardless of its save result, each creature is immune to Bask In Glory for 24 hours.\n* * *\n\n**Critical Success** The creature uses all its actions to cheer for the milopoxy. It does so for up to 1 minute or until the milopoxy doesn't Bask In Glory at least once on a subsequent round, whichever comes first. If the creature or one of its allies is attacked, it can make a DC 26 Will save to end the effect.\n\n**Success** As critical success, but the duration is until the end of the creature's next turn.\n\n**Failure** The creature is unaffected."
 
   - name: "Proclaim Ward"
     desc: "`pf2:1`  The milopoxy loudly designates as its ward a single creature that it can see and hear or that it is Tracking. It gains a +2 circumstance bonus to Perception checks when it Seeks its ward and a +2 circumstance bonus to Survival checks when it Tracks its ward. It also gains a +2 circumstance bonus to Athletics, Diplomacy, and Intimidation checks it makes while protecting its ward. The milopoxy can have only one ward designated at a time, and a creature can be designated the ward of only one milopoxy."
  
+```
+
+```encounter-table
+name: Milopoxy
+creatures:
+  - 1: Milopoxy
 ```
 
 

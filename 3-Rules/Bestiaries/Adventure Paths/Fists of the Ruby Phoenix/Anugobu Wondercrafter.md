@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/anugobu
   - pf2e/creature/type/chaotic
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/7
 statblock: inline
 name: "Anugobu Wondercrafter"
@@ -22,12 +23,12 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #166: Despair on Danger Island"
 name: "Anugobu Wondercrafter"
 level: "Creature 7"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "tiny"
-trait_01: "anugobu"
-trait_02: "chaotic"
-trait_03: "humanoid"
+trait_01: [[anugobu]]
+trait_02: [[chaotic]]
+trait_03: [[humanoid]]
 modifier: 18
 perception:
   - name: "Perception"
@@ -35,7 +36,7 @@ perception:
 languages: "Anugobu, Common, Fey, Petran"
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +17, Athletics: +12, Crafting: +20, Diplomacy: +15, Engineering Lore: +20, Stealth: +17, Survival: +14"
+    desc: "Acrobatics: +17, Athletics: +12, Crafting: +20, Diplomacy: +15, Stealth: +17, Survival: +14, Engineering Lore: +20"
 abilityMods: [-1, 4, 2, 6, 1, 4]
 speed: 20 feet
 sourcebook: "_Pathfinder #166: Despair on Danger Island_"
@@ -76,8 +77,14 @@ attacks:
     desc: "`pf2:1` Hammer +18 (agile, thrown 20 ft.)\n__Damage__  2d8 + 5 bludgeoning"
 
   - name: "Innate Occult Spells"
-    desc: "DC 25, attack +17; __4th __  _[[Spells/Flicker|Blink]]_, _[[Spells/Creation|Creation (At Will)]]_; __3rd __  _[[Spells/Mending|Mending (At Will)]]_; __2nd __  _[[Spells/Dispel Magic|Dispel Magic]]_; __1st __  _[[Spells/Create Water|Create Water]]_, _[[Spells/Floating Disk|Floating Disk]]_, _[[Spells/Phantasmal Minion|Unseen Servant (At Will)]]_\n__Cantrips__  __(4th)__ _[[Spells/Prestidigitation|Prestidigitation]]_, _[[Spells/Telekinetic Projectile|Telekinetic Projectile]]_"
+    desc: "DC 25, attack +17; __4th __  _[[Spells/Flicker|Blink]]_, _[[Spells/Creation|Creation (At Will)]]_; __3rd __  _[[Spells/Mending|Mending (At Will)]]_; __2nd __  _[[Spells/Dispel Magic|Dispel Magic]]_; __1st __  _[[Spells/Create Water|Create Water]]_, _[[Spells/Carryall|Floating Disk]]_, _[[Spells/Phantasmal Minion|Unseen Servant (At Will)]]_\n__Cantrips__  __(4th)__ _[[Spells/Prestidigitation|Prestidigitation]]_, _[[Spells/Telekinetic Projectile|Telekinetic Projectile]]_"
  
+```
+
+```encounter-table
+name: Anugobu Wondercrafter
+creatures:
+  - 1: Anugobu Wondercrafter
 ```
 
 

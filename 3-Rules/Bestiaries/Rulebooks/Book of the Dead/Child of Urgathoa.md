@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/undead
   - pf2e/creature/type/unholy
+  - pf2eMonster
   - pf2e/creature/level/8
 statblock: inline
 name: "Child of Urgathoa"
@@ -22,12 +23,12 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Book of the Dead"
 name: "Child of Urgathoa"
 level: "Creature 8"
-rare_03: "Rare"
+rare_03: [[Rare]]
 alignment: ""
 size: "Large"
-trait_01: "evil"
-trait_02: "undead"
-trait_03: "unholy"
+trait_01: [[evil]]
+trait_02: [[undead]]
+trait_03: [[unholy]]
 modifier: 18
 perception:
   - name: "Perception"
@@ -54,7 +55,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Share Blessings"
-    desc: " (disease,divine) When the child of Urgathoa is destroyed, they explode in a blast of infectious rot. All creatures in a 10-foot emanation are exposed to pallid plague."
+    desc: " (disease,divine) When the child of Urgathoa is destroyed, they explode in a blast of infectious rot. All creatures in a @Template[emanation|distance:10] are exposed to pallid plague."
 
 attacks:
   - name: ""
@@ -69,14 +70,20 @@ attacks:
     desc: "DC 26, attack +18; __4th __  _[[Spells/Harm|Harm]]_, _[[Spells/Sudden Blight|Sudden Blight]]_; __3rd __  _[[Spells/Bind Undead|Bind Undead (x2)]]_"
 
   - name: "Pallid Plague"
-    desc: " (disease,divine,virulent) **Saving Throw** DC 26 Fortitude check\n**Stage 1** carrier (3 days)\n**Stage 2** 3d8 void damage and [[Conditions/Doomed 1|Doomed 1]] (1 day)\n**Stage 3** 3d8 void damage, doomed 1, and [[Conditions/Drained 1|Drained 1]] (1 day)\n**Stage 4** 4d8 void damage, [[Conditions/Doomed 1|Doomed 2]], and drained 1 (1 day)\n**Stage 5** 4d8 void damage, [[Conditions/Doomed 1|Doomed 3]], and [[Conditions/Drained 1|Drained 2]] (1 day)\n**Stage 6** dead. A creature that dies while infected with pallid plague rises as a [[Book of the Dead/Zombie Lord|Zombie Lord]]."
+    desc: " (disease,divine,virulent) **Saving Throw** DC 26 Fortitude check\n* * *\n\n**Stage 1** carrier (3 days)\n\n**Stage 2** 3d8 void damage and [[Conditions/Doomed|Doomed 1]] (1 day)\n\n**Stage 3** 3d8 void damage, doomed 1, and [[Conditions/Drained|Drained 1]] (1 day)\n\n**Stage 4** 4d8 void damage, [[Conditions/Doomed|Doomed 2]], and drained 1 (1 day)\n\n**Stage 5** 4d8 void damage, [[Conditions/Doomed|Doomed 3]], and [[Conditions/Drained|Drained 2]] (1 day)\n\n**Stage 6** dead. A creature that dies while infected with pallid plague rises as a [[Book of the Dead/Zombie Lord|Zombie Lord]]."
 
   - name: "Reap"
     desc: "`pf2:2`  The child of Urgathoa makes a scything blade Strike and compares the attack roll result to the AC of up to two foes, each of whom must be within their melee reach. Roll damage only once and apply it to each creature hit. Reap counts as two attacks for the child of Urgathoa's multiple attack penalty."
 
   - name: "Wake the Dead"
-    desc: "`pf2:2` (divine) **Frequency** once per minute\n**Requirements** The child of Urgathoa is adjacent to a creature that died within the last minute\n**Effect** The child of Urgathoa animates the dead with a touch of their hand. The creature must succeed at a DC 26 Will check save or arise as a [[Book of the Dead/Zombie Lord|Zombie Lord]]. These zombies are controlled by the child of Urgathoa. A child of Urgathoa can control no more than four zombie lords at a time. If a child of Urgathoa has raised zombie lords before an encounter begins, they count toward the encounter's XP budget normally."
+    desc: "`pf2:2` (divine) **Frequency** once per minute\n\n**Requirements** The child of Urgathoa is adjacent to a creature that died within the last minute\n* * *\n\n**Effect** The child of Urgathoa animates the dead with a touch of their hand. The creature must succeed at a DC 26 Will check save or arise as a [[Book of the Dead/Zombie Lord|Zombie Lord]]. These zombies are controlled by the child of Urgathoa. A child of Urgathoa can control no more than four zombie lords at a time. If a child of Urgathoa has raised zombie lords before an encounter begins, they count toward the encounter's XP budget normally."
  
+```
+
+```encounter-table
+name: Child of Urgathoa
+creatures:
+  - 1: Child of Urgathoa
 ```
 
 

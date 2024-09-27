@@ -36,7 +36,7 @@ You've studied the basics of harmony and resonance in magic, exemplified by the 
 
 To rush after a criminal or reach someone in need, you ring a sprightly tone. You and all allies within 30 feet gain a +10-foot status bonus to all Speeds for 1 minute.
 
-[[Feat\_Feature Effects/Effect\_ Fleet Tempo|Effect: Fleet Tempo]]
+[[Feat_Feature Effects/Effect_ Fleet Tempo|Effect: Fleet Tempo]]
 
 ## [[Feats/Deny the Songs of War|Deny the Songs of War]] Feat 10
 

@@ -6,6 +6,7 @@ cssClasses: pf2e
 aliases: "Compendium.pf2e.pfs-season-1-bestiary.Actor.Gsqdd6TysPcSd64h" 
 tags:
   - pf2e/creature/type/plant
+  - pf2eMonster
   - pf2e/creature/level/3
 statblock: inline
 name: "Weak Arboreal Warden"
@@ -23,7 +24,7 @@ level: "Creature 3"
 
 alignment: ""
 size: "Large"
-trait_01: "plant"
+trait_01: [[plant]]
 modifier: 9
 perception:
   - name: "Perception"
@@ -31,7 +32,7 @@ perception:
 languages: "Arboreal, Common, Fey, Senzar, Tien"
 skills:
   - name: "Skills"
-    desc: "Athletics: +11, Stealth: +7 (+12 in forests)"
+    desc: "Athletics: +11, Stealth: +7"
 abilityMods: [5, 1, 3, 1, 3, 1]
 speed: 25 feet
 sourcebook: "_Pathfinder Society Scenario #1-06: Lost on the Spirit Road_"
@@ -71,6 +72,12 @@ attacks:
   - name: "Shield Push"
     desc: "`pf2:2`  The arboreal warden Strides and then makes a shield bash Strike. If the attack hits, the target is pushed 10 feet."
  
+```
+
+```encounter-table
+name: Weak Arboreal Warden
+creatures:
+  - 1: Weak Arboreal Warden
 ```
 
 

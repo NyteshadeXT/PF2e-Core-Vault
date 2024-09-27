@@ -47,7 +47,7 @@ To learn the spell, you must do the following:
 
 *   Spend 1 hour per rank of the spell, during which you must remain in conversation with a person who knows the spell or have the magical writing in your possession.
 *   Have materials with the Price indicated in the table above.
-*   Attempt a skill check for the skill corresponding to your tradition (DC determined by the GM, [[undefined]])
+*   Attempt a skill check for the skill corresponding to your tradition (DC determined by the GM, [[PF2e Journals/GM Screen/Difficulty Classes|Difficulty Classes]])
 
 If you have a spellbook, Learning a Spell lets you add the spell to your spellbook; if you prepare spells from a list, it's added to your list; if you have a spell repertoire, you can select it when you add or swap spells.
 

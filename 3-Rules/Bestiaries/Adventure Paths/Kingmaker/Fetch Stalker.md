@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/fey
   - pf2e/creature/type/plant
+  - pf2eMonster
   - pf2e/creature/level/18
 statblock: inline
 name: "Fetch Stalker"
@@ -23,18 +24,18 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Kingmaker"
 name: "Fetch Stalker"
 level: "Creature 18"
-rare_03: "Rare"
+rare_03: [[Rare]]
 alignment: ""
 size: "Medium"
-trait_01: "chaotic"
-trait_02: "evil"
-trait_03: "fey"
-trait_04: "plant"
+trait_01: [[chaotic]]
+trait_02: [[evil]]
+trait_03: [[fey]]
+trait_04: [[plant]]
 modifier: 30
 perception:
   - name: "Perception"
     desc: "+30; Darkvision"
-languages: "Common, Fey"
+languages: "Common, Fey; tongues"
 skills:
   - name: "Skills"
     desc: "Acrobatics: +32, Athletics: +32, Deception: +36, Intimidation: +34, Nature: +33, Society: +31, Stealth: +34, Thievery: +31"
@@ -65,8 +66,14 @@ attacks:
     desc: "DC 40, attack +32; __9th __  _[[Spells/Disjunction|Disjunction]]_; __8th __  _[[Spells/Illusory Creature|Illusory Creature]]_; __7th __  _[[Spells/Interplanar Teleport|Plane Shift (to or from the First World only)]]_; __3rd __  _[[Spells/Illusory Disguise|Illusory Disguise (At Will)]]_\n__Cantrips__  __(9th)__ _[[Spells/Produce Flame|Produce Flame]]_, _[[Spells/Read Aura|Read Aura]]_\n__Constant__  __(9th)__ _[[Spells/Air Walk|Air Walk]]_, _[[Spells/Truespeech|Tongues]]_"
 
   - name: "Manifest Fetch Weapon"
-    desc: " (primal) **Trigger** The fetch starts its turn\n**Effect** A fetch weapon manifests in the fetch's hand. As soon as a fetch weapon is no longer wielded by a fetch, it vanishes. The fetch chooses the type of weapon it manifests, but it does not gain any of that weapon's standard weapon traits, instead using the traits listed above in the fetch weapon Strike."
+    desc: " (primal) **Trigger** The fetch starts its turn\n\n**Effect** A fetch weapon manifests in the fetch's hand. As soon as a fetch weapon is no longer wielded by a fetch, it vanishes. The fetch chooses the type of weapon it manifests, but it does not gain any of that weapon's standard weapon traits, instead using the traits listed above in the fetch weapon Strike."
  
+```
+
+```encounter-table
+name: Fetch Stalker
+creatures:
+  - 1: Fetch Stalker
 ```
 
 

@@ -10,8 +10,9 @@ tags:
   - trait/polymorph
   - trait/common
   - category/mutagen
+  - remaster
 aliases: "Compendium.pf2e.equipment-srd.Item.VBK9i74dry8yf8f0"
-license: OGL
+license: ORC
 ---
 # Cognitive Mutagen (Major)
 ## Item 17
@@ -22,11 +23,11 @@ license: OGL
 **Bulk** L; **Size** med
 **Usage** held-in-one-hand
 
-**Activate** `pf2:1` Interact
+**Activate** `pf2:1` (manipulate)
 
 * * *
 
-Your mind becomes clear and cognition flows freely, but physical matters seem ephemeral.
+Your mind becomes clear, but physical matters seem ephemeral.
 
 **Benefit** You gain a +4 item bonus to Arcana, Crafting, Lore, Occultism, and Society checks and all checks to [[Actions/Recall Knowledge|Recall Knowledge]]. Your critical failures on Recall Knowledge checks become failures instead. You become trained in one skill, chosen at creation.
 
@@ -36,5 +37,5 @@ Your mind becomes clear and cognition flows freely, but physical matters seem ep
 
 [[Equipment Effects/Effect_ Cognitive Mutagen (Major)|Effect: Cognitive Mutagen (Major)]]
 
-*Source: Pathfinder Core Rulebook*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

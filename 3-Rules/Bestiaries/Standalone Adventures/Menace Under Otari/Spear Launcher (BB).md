@@ -3,6 +3,7 @@ title: Spear Launcher (BB)
 obsidianUIMode: preview
 noteType: pf2eHazard
 tags:
+  - pf2eHazard
 
 source: Pathfinder Beginner Box
 aliases: "Compendium.pf2e.menace-under-otari-bestiary.Actor.vlMuFskctUvjJe8X" 
@@ -25,7 +26,7 @@ sourcebook: "_Pathfinder Beginner Box_"
 ac: 18
 armorclass:
   - name: AC
-    desc: "18; __Fort__ +11, __Ref__ +3, __Will__ +0"
+    desc: "18; __Fort__ +11, __Ref__ +3, "
 hp: 32
 health:
   - name: ""
@@ -53,5 +54,11 @@ attacks:
 
 
 
+```
+
+```encounter-table
+name: Spear Launcher (BB)
+creatures:
+  - 1: Spear Launcher (BB)
 ```
 

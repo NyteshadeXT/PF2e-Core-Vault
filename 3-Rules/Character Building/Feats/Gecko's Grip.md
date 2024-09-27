@@ -6,8 +6,9 @@ tags:
   - trait/lizardfolk
   - trait/common
   - category/ancestry
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.kGed3uQbZ7x5SBB8"
-license: OGL
+license: ORC
 ---
 # Gecko's Grip
 ## Feat 5
@@ -19,7 +20,11 @@ license: OGL
 
 **Prerequisites** cliffscale lizardfolk
 * * *
-You stick to walls with a preternatural grip. You gain a climb Speed of 15 feet.
+You cling to walls with a preternatural grip. You gain the Combat Climber feat as a bonus feat, and if you roll a success on an Athletics check to climb, you get a critical success instead.
 
-*Source: Pathfinder Lost Omens: Character Guide*
-*OGL*
+* * *
+
+**Special** If you have the cliffscale lizardfolk heritage, you instead gain a climb Speed of 15 feet.
+
+*Source: Pathfinder Player Core 2*
+*ORC*

@@ -10,7 +10,7 @@ license: OGL
 ---
 # Darkvision Scope (Greater)
 ## Item 15
-### [[magical]]
+### [[3-Rules/Rule References/Magical]]
 
 
 **Price** 5500 gp; 

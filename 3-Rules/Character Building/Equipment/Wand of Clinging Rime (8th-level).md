@@ -13,7 +13,7 @@ license: OGL
 ---
 # Wand of Clinging Rime (8th-level)
 ## Item 18
-### [[cold]][[magical]][[wand]][[3-Rules/Rule References/Water]]
+### [[cold]][[magical]][[wand]][[water]]
 
 
 **Price** 24000 gp; 

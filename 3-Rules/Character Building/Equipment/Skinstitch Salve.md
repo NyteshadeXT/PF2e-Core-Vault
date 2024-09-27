@@ -8,8 +8,9 @@ tags:
   - trait/healing
   - trait/common
   - category/potion
+  - remaster
 aliases: "Compendium.pf2e.equipment-srd.Item.FgAPV0iLE6R1QMJ5"
-license: OGL
+license: ORC
 ---
 # Skinstitch Salve
 ## Item 7
@@ -22,23 +23,21 @@ license: OGL
 
 This sticky salve stubbornly holds wounds closed and encourages swift natural healing. You can activate the salve in either of the following ways.
 
-**Activate** `pf2:1` Interact
+**Activate—Administer Stitch** `pf2:1` (manipulate)
 
 * * *
 
-**Effect** You [[Actions/Administer First Aid|Administer First Aid]] without requiring [[Equipment/Healer's Toolkit|Healer's Toolkit]]. You either gain a +2 item bonus to the Medicine check, or you can use the skinstitch salve's Medicine modifier of 1d20 + 13 instead of your own.
+**Effect** You [[Actions/Administer First Aid|Administer First Aid]] without requiring [[Equipment/Healer's Toolkit|Healer's Toolkit]]. You either gain a +2 item bonus to the Medicine check, or you can use the skinstitch salve's Medicine modifier of 1d20+13 instead of your own.
+
+**Activate—Stitch Wounds** `pf2:0` (manipulate)
 
 * * *
-
-**Activate** `pf2:0` Interact
 
 **Trigger** You [[Actions/Treat Wounds|Treat Wounds]] or use [[Feats/Battle Medicine|Battle Medicine]]
-
-* * *
 
 **Effect** You gain a +2 item bonus to the triggering Medicine check. If you roll a success on the Medicine check, you get a critical success instead.
 
 [[Equipment Effects/Effect_ Skinstitch Salve|Effect: Skinstitch Salve]]
 
-*Source: Pathfinder Advanced Player's Guide*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

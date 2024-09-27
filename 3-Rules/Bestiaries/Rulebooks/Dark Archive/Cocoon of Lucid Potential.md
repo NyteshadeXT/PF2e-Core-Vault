@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.pathfinder-dark-archive.Actor.34gooaLEuQh0Cu9n"
 tags:
   - pf2e/creature/type/aberration
   - pf2e/creature/type/evil
+  - pf2eMonster
   - pf2e/creature/level/13
 statblock: inline
 name: "Cocoon of Lucid Potential"
@@ -21,16 +22,16 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Dark Archive Web Supplement: In Darkness"
 name: "Cocoon of Lucid Potential"
 level: "Creature 13"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "grg"
-trait_01: "aberration"
-trait_02: "evil"
+trait_01: [[aberration]]
+trait_02: [[evil]]
 modifier: 26
 perception:
   - name: "Perception"
     desc: "+26; "
-languages: "Common, Tien"
+languages: "Common, Tien; (can&#x27;t speak any language)"
 skills:
   - name: "Skills"
     desc: "Acrobatics: +30, Athletics: +30"
@@ -55,10 +56,10 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Give of Oneself"
-    desc: "`pf2:0`  **Trigger** The Weaver would be reduced to 0 Hit Points\n**Effect** The cocoon's vitality is linked to the Weaver's. It loses 15 Hit Points to the Weaver. It can use this ability even if it would otherwise be unable to act."
+    desc: "`pf2:0`  **Trigger** The Weaver would be reduced to 0 Hit Points\n* * *\n\n**Effect** The cocoon's vitality is linked to the Weaver's. It loses 15 Hit Points to the Weaver. It can use this ability even if it would otherwise be unable to act."
 
   - name: "In There Somewhere"
-    desc: "  Killia's individuality still rests within the cocoon, yet trying to resist assimilation. If a PC succeeds at a DC 32 Diplomacy check check on the cocoon, the cocoon takes 5d6 mental damage and is [[Conditions/Stunned 1|Stunned 1]] as Killia's consciousness fights the Weaver. The cocoon can't be affected in this way more than once per turn."
+    desc: "  Killia's individuality still rests within the cocoon, yet trying to resist assimilation. If a PC succeeds at a DC 32 Diplomacy check check on the cocoon, the cocoon takes 5d6 mental damage and is [[Conditions/Stunned|Stunned 1]] as Killia's consciousness fights the Weaver. The cocoon can't be affected in this way more than once per turn."
 
 attacks:
   - name: ""
@@ -72,6 +73,12 @@ attacks:
   - name: "Of Same Essence"
     desc: "  The cocoon and the Weaver share the same essence. Its spells never affect the Weaver if they would harm him, and the Weaver can ignore the any of the cocoon's active spell effects if he desires (such as [[Spells/Sea of Thought|Sea of Thought]])."
  
+```
+
+```encounter-table
+name: Cocoon of Lucid Potential
+creatures:
+  - 1: Cocoon of Lucid Potential
 ```
 
 

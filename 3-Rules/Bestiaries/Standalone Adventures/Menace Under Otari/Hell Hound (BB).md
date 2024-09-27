@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/fiend
   - pf2e/creature/type/fire
   - pf2e/creature/type/unholy
+  - pf2eMonster
   - pf2e/creature/level/3
   - remaster
 statblock: inline
@@ -27,18 +28,18 @@ level: "Creature 3"
 
 alignment: ""
 size: "Medium"
-trait_01: "beast"
-trait_02: "fiend"
-trait_03: "fire"
-trait_04: "unholy"
+trait_01: [[beast]]
+trait_02: [[fiend]]
+trait_03: [[fire]]
+trait_04: [[unholy]]
 modifier: 9
 perception:
   - name: "Perception"
     desc: "+9; Darkvision"
-languages: "Diabolic"
+languages: "Diabolic; (can&#x27;t speak)"
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +8, Athletics: +9, Stealth: +8, Survival: +9 (+11 to Track)"
+    desc: "Acrobatics: +8, Athletics: +9, Stealth: +8, Survival: +9"
 abilityMods: [4, 3, 2, -2, 2, -2]
 speed: 40 feet
 sourcebook: "_Pathfinder Beginner Box_"
@@ -63,11 +64,17 @@ attacks:
     desc: "`pf2:1` Jaws +13 (magical, unholy)\n__Damage__  1d8 + 4 piercing 1d6 fire"
 
   - name: "Hellfire Breath"
-    desc: "`pf2:1` (divine,fire) The hell hound breathes flames that deal 4d6 fire damage to all creatures in a 15-foot cone. Each affected creature must attempt a DC 19 Reflex check save.\nThe hell hound can't use Breath Weapon again for 1d4 rounds. If the hell hound would take fire damage or is the target of a fire effect, its Hellfire Breath recharges."
+    desc: "`pf2:1` (divine,fire) The hell hound breathes flames that deal 4d6 fire damage to all creatures in a @Template[cone|distance:15]. Each affected creature must attempt a DC 19 Reflex check save.\n\nThe hell hound can't use Breath Weapon again for 1d4 rounds. If the hell hound would take fire damage or is the target of a fire effect, its Hellfire Breath recharges."
 
   - name: "Pack Attack"
     desc: "  The hell hound's jaws Strike deals 1d4 extra damage to creatures within reach of two of the hell hounds' allies."
  
+```
+
+```encounter-table
+name: Hell Hound (BB)
+creatures:
+  - 1: Hell Hound (BB)
 ```
 
 

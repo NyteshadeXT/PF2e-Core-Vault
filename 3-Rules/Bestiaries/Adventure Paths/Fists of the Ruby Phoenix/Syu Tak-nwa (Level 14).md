@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.fists-of-the-ruby-phoenix-bestiary.Actor.Sx7Ob64O0e9aI
 tags:
   - pf2e/creature/type/human
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/14
 statblock: inline
 name: "Syu Tak-nwa (Level 14)"
@@ -21,11 +22,11 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #166: Despair on Danger Island"
 name: "Syu Tak-nwa (Level 14)"
 level: "Creature 14"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Medium"
-trait_01: "human"
-trait_02: "humanoid"
+trait_01: [[human]]
+trait_02: [[humanoid]]
 modifier: 26
 perception:
   - name: "Perception"
@@ -76,6 +77,12 @@ attacks:
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
     desc: "`pf2:1`  "
  
+```
+
+```encounter-table
+name: Syu Tak-nwa (Level 14)
+creatures:
+  - 1: Syu Tak-nwa (Level 14)
 ```
 
 

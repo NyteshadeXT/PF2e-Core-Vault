@@ -17,7 +17,7 @@ license: OGL
 
 
 
-**Moderate Curse** Misfortune follows you in your travels and requires acts of contrition or benevolence to keep at bay.
+Misfortune follows you in your travels and requires acts of contrition or benevolence to keep at bay.
 
 You must always roll twice and take the worst result when attempting a check. This is a misfortune effect.
 

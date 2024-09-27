@@ -6,6 +6,7 @@ tags:
   - cold
   - magical
   - trap
+  - pf2eHazard
   - complex
 source: Pathfinder #167: Ready? Fight!
 aliases: "Compendium.pf2e.fists-of-the-ruby-phoenix-bestiary.Actor.PooDdJo4wmkBvETW" 
@@ -23,15 +24,15 @@ name: "Freezing Floor Tiles"
 level: "Hazard 16"
 
 trait_06: "Complex"
-trait_01: "cold"
-trait_02: "magical"
-trait_03: "trap"
+trait_01: [[cold]]
+trait_02: [[magical]]
+trait_03: [[trap]]
 modifier: 23
 sourcebook: "_Pathfinder #167: Ready? Fight!_"
 ac: 36
 armorclass:
   - name: AC
-    desc: "36; __Fort__ +33, __Ref__ +30, __Will__ +0"
+    desc: "36; __Fort__ +33, __Ref__ +30, "
 hp: 40
 health:
   - name: ""
@@ -53,10 +54,16 @@ attacks:
   - name: ""
 
   - name: "Frigid Floor"
-    desc: "`pf2:r` (cold) **Trigger** Hao Jin signals the beginning of the match.\n**Effect** The trap rolls initiative."
+    desc: "`pf2:r` (cold) **Trigger** Hao Jin signals the beginning of the match.\n* * *\n\n**Effect** The trap rolls initiative."
 
   - name: "Routine"
-    desc: "(4 actions) The trap loses 1 action per disabled sensor. On each action, the trap causes a random 10-foot-by-10-foot space in the arena to suddenly freeze. Each creature that begins its turn in a frozen space takes 2d6 + 2 cold damage (DC 40 Reflex check save). A creature that critically fails its save also becomes [[Conditions/Slowed 1|Slowed 1]] for 1 round; if it was already slowed, the creature instead becomes [[Conditions/Immobilized|Immobilized]] for 1 round. Any amount of fire damage dealt to a slowed or immobilized creature removes the condition. Frozen tiles become unfrozen at the beginning of the trap's next turn."
+    desc: "(4 actions) The trap loses 1 action per disabled sensor. On each action, the trap causes a random 10-foot-by-10-foot space in the arena to suddenly freeze. Each creature that begins its turn in a frozen space takes 2d6+2 cold damage (DC 40 Reflex check save). A creature that critically fails its save also becomes [[Conditions/Slowed|Slowed 1]] for 1 round; if it was already slowed, the creature instead becomes [[Conditions/Immobilized|Immobilized]] for 1 round. Any amount of fire damage dealt to a slowed or immobilized creature removes the condition. Frozen tiles become unfrozen at the beginning of the trap's next turn."
 
+```
+
+```encounter-table
+name: Freezing Floor Tiles
+creatures:
+  - 1: Freezing Floor Tiles
 ```
 

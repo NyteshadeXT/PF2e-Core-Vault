@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/amphibious
   - pf2e/creature/type/chaotic
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/5
 statblock: inline
 name: "Cecaelia Trapper"
@@ -26,9 +27,9 @@ level: "Creature 5"
 
 alignment: ""
 size: "Medium"
-trait_01: "amphibious"
-trait_02: "chaotic"
-trait_03: "humanoid"
+trait_01: [[amphibious]]
+trait_02: [[chaotic]]
+trait_03: [[humanoid]]
 modifier: 11
 perception:
   - name: "Perception"
@@ -36,7 +37,7 @@ perception:
 languages: "Common, Thalassic"
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +13, Athletics: +11 (+13 to Grapple), Stealth: +13, Survival: +9"
+    desc: "Acrobatics: +13, Athletics: +11, Stealth: +13, Survival: +9"
 abilityMods: [4, 4, 3, -1, 2, 0]
 speed: 20 feet,  swim 35 feet
 sourcebook: "_Pathfinder Bestiary 3_"
@@ -68,14 +69,20 @@ attacks:
     desc: "`pf2:2` (move) The cecaelia moves up to 140 feet in a straight line through the water."
 
   - name: "Hurl Net"
-    desc: "`pf2:1`  **Requirements** The cecaelia is holding a net in two appendages.\n**Effect** The cecaelia hurls their net, attempting to hamper a foe. The cecaelia makes a ranged Strike (with a +15 modifier) against a Medium or smaller creature within 20 feet.\nOn a hit, the target is [[Conditions/Off-Guard|Off-Guard]] and takes a -10-foot circumstance penalty to its Speeds. On a critical hit, the creature is [[Conditions/Restrained|Restrained]]. The DC to [[Actions/Escape|Escape]] the net is 16. A creature adjacent to the target can Interact with the net to remove it from the target.\n[[Bestiary Effects/Effect_ Hurl Net|Effect: Hurl Net]]"
+    desc: "`pf2:1`  **Requirements** The cecaelia is holding a net in two appendages.\n* * *\n\n**Effect** The cecaelia hurls their net, attempting to hamper a foe. The cecaelia makes a ranged Strike (with a +15 modifier) against a Medium or smaller creature within 20 feet.\n\nOn a hit, the target is [[Conditions/Off-Guard|Off-Guard]] and takes a -10-foot circumstance penalty to its Speeds. On a critical hit, the creature is [[Conditions/Restrained|Restrained]]. The DC to [[Actions/Escape|Escape]] the net is 16. A creature adjacent to the target can Interact with the net to remove it from the target.\n\n[[Bestiary Effects/Effect_ Hurl Net|Effect: Hurl Net]]"
 
   - name: "Ink Cloud"
-    desc: "`pf2:1`  The cecaelia emits a cloud of black ink in a 10-foot emanation. This ink cloud has no effect outside of water. Creatures inside the cloud are [[Conditions/Undetected|Undetected]] by creatures using sight or smell, and they can't see or smell while inside the cloud. The cloud dissipates after 1 minute.\nThe cecaelia can't use Ink Cloud again for 2d6 rounds."
+    desc: "`pf2:1`  The cecaelia emits a cloud of black ink in a @Template[emanation|distance:10]. This ink cloud has no effect outside of water. Creatures inside the cloud are [[Conditions/Undetected|Undetected]] by creatures using sight or smell, and they can't see or smell while inside the cloud. The cloud dissipates after 1 minute.\n\nThe cecaelia can't use Ink Cloud again for 2d6 rounds."
 
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
     desc: "`pf2:1`  "
  
+```
+
+```encounter-table
+name: Cecaelia Trapper
+creatures:
+  - 1: Cecaelia Trapper
 ```
 
 

@@ -10,6 +10,7 @@ tags:
   - pf2e/creature/type/fiend
   - pf2e/creature/type/lawful
   - pf2e/creature/type/unholy
+  - pf2eMonster
   - pf2e/creature/level/7
 statblock: inline
 name: "Pairaka (One-Shot #4)"
@@ -27,16 +28,16 @@ level: "Creature 7"
 
 alignment: ""
 size: "Medium"
-trait_01: "div"
-trait_02: "evil"
-trait_03: "fiend"
-trait_04: "lawful"
-trait_05: "unholy"
+trait_01: [[div]]
+trait_02: [[evil]]
+trait_03: [[fiend]]
+trait_04: [[lawful]]
+trait_05: [[unholy]]
 modifier: 15
 perception:
   - name: "Perception"
     desc: "+15; Greater Darkvision"
-languages: "Common, Daemonic"
+languages: "Common, Daemonic; telepathy 100 feet"
 skills:
   - name: "Skills"
     desc: "Acrobatics: +14, Arcana: +13, Deception: +20, Diplomacy: +20, Intimidation: +16, Religion: +13, Society: +13, Stealth: +16"
@@ -59,7 +60,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Hatred of Red"
-    desc: "  Pairakas hate the color red. They won't wear the color or willingly enter any place painted red. Given a choice, they'll attack a creature wearing red first.\nIf barred from expressing their displeasure toward the color by force or some magical effect, they take 2d6 mental damage at the end of their turn."
+    desc: "  Pairakas hate the color red. They won't wear the color or willingly enter any place painted red. Given a choice, they'll attack a creature wearing red first.\n\nIf barred from expressing their displeasure toward the color by force or some magical effect, they take 2d6 mental damage at the end of their turn."
 
 attacks:
   - name: ""
@@ -77,14 +78,20 @@ attacks:
     desc: "_[[Spells/Div Pact|Div Pact]]_"
 
   - name: "Bubonic Plague"
-    desc: " (disease) A creature can't remove the fatigued condition while infected\n**Saving Throw** DC 23 Fortitude check\n**Onset** 1 day\n**Stage 1** [[Conditions/Fatigued|Fatigued]] (1 day)\n**Stage 2** [[Conditions/Enfeebled 1|Enfeebled 2]] and fatigued (1 day)\n**Stage 3** [[Conditions/Enfeebled 1|Enfeebled 3]], fatigued, and take 1d6 bleed every 1d20 minutes (1 day)"
+    desc: " (disease) A creature can't remove the fatigued condition while infected\n\n**Saving Throw** DC 23 Fortitude check\n* * *\n\n**Onset** 1 day\n\n**Stage 1** [[Conditions/Fatigued|Fatigued]] (1 day)\n\n**Stage 2** [[Conditions/Enfeebled|Enfeebled 2]] and fatigued (1 day)\n\n**Stage 3** [[Conditions/Enfeebled|Enfeebled 3]], fatigued, and take 1d6 bleed every 1d20 minutes (1 day)"
 
   - name: "[[Bestiary Ability Glossary/Change Shape|Change Shape]]"
-    desc: "`pf2:1` (concentrate,divine,polymorph) The pairaka can take the appearance of any Small or Medium humanoid or animal. This doesn't change their Speed or their attack and damage modifiers with the Strikes, but it might change the damage type their strikes deal.\n"
+    desc: "`pf2:1` (concentrate,divine,polymorph) The pairaka can take the appearance of any Small or Medium humanoid or animal. This doesn't change their Speed or their attack and damage modifiers with the Strikes, but it might change the damage type their strikes deal.\n\n* * *\n"
 
   - name: "Tormenting Dreams"
-    desc: "`pf2:2` (divine,emotion,mental) **Frequency** once per day\n**Effect** The pairaka torments a sleeping creature within 100 feet with visions of betrayals by loved ones and friends. The target must attempt a DC 25 Will check save, with the effects of the [[Spells/Nightmare|Nightmare]] spell."
+    desc: "`pf2:2` (divine,emotion,mental) **Frequency** once per day\n* * *\n\n**Effect** The pairaka torments a sleeping creature within 100 feet with visions of betrayals by loved ones and friends. The target must attempt a DC 25 Will check save, with the effects of the [[Spells/Nightmare|Nightmare]] spell."
  
+```
+
+```encounter-table
+name: Pairaka (One-Shot #4)
+creatures:
+  - 1: Pairaka (One-Shot #4)
 ```
 
 

@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/humanoid
   - pf2e/creature/type/lawful
   - pf2e/creature/type/void
+  - pf2eMonster
   - pf2e/creature/level/16
 statblock: inline
 name: "Sumbreiva"
@@ -27,10 +28,10 @@ level: "Creature 16"
 
 alignment: ""
 size: "Large"
-trait_01: "evil"
-trait_02: "humanoid"
-trait_03: "lawful"
-trait_04: "void"
+trait_01: [[evil]]
+trait_02: [[humanoid]]
+trait_03: [[lawful]]
+trait_04: [[void]]
 modifier: 29
 perception:
   - name: "Perception"
@@ -60,7 +61,7 @@ abilities_mid:
     desc: "`pf2:r`  "
 
   - name: "Hunter's Triumph"
-    desc: "`pf2:r` (auditory,emotion,fear,mental) **Trigger** The sumbreiva kills a creature\n**Effect** The sumbreiva lets out a triumphant, bone-chilling howl. Every enemy in a 30-foot emanation must succeed at a DC 36 Will check save or become [[Conditions/Frightened 1|Frightened 3]] (and [[Conditions/Fleeing|Fleeing]] as long as it's frightened on a critical failure)."
+    desc: "`pf2:r` (auditory,emotion,fear,mental) **Trigger** The sumbreiva kills a creature\n* * *\n\n**Effect** The sumbreiva lets out a triumphant, bone-chilling howl. Every enemy in a @Template[emanation|distance:30] must succeed at a DC 36 Will check save or become [[Conditions/Frightened|Frightened 3]] (and [[Conditions/Fleeing|Fleeing]] as long as it's frightened on a critical failure)."
 
 attacks:
   - name: ""
@@ -81,11 +82,17 @@ attacks:
     desc: "`pf2:1`  The sumbreiva claims the soul of a creature they killed within the last minute. This works like [[Spells/Seize Soul|Seize Soul]], except that no black sapphire is required and the soul is turned into a glowing blue light called a _soul trophy_. Anyone who kills the sumbreiva can then free the soul from any _soul trophy_ by touching it and speaking the word for \"freedom\" in any language."
 
   - name: "Huntblade Brutality"
-    desc: "  The sumbreiva's huntblade deals an additional 2d8 damage to [[Conditions/Drained 1|Drained]], [[Conditions/Off-Guard|Off-Guard]], or [[Conditions/Frightened 1|Frightened]] creatures."
+    desc: "  The sumbreiva's huntblade deals an additional 2d8 damage to [[Conditions/Drained|Drained]], [[Conditions/Off-Guard|Off-Guard]], or [[Conditions/Frightened|Frightened]] creatures."
 
   - name: "Whip Drain"
-    desc: "`pf2:1` (arcane,death) **Requirements** The sumbreiva has a creature [[Conditions/Grabbed|Grabbed]] with their shadow whip\n**Effect** The grabbed creature must succeed at a DC 38 Fortitude check save or become [[Conditions/Drained 1|Drained 2]] ([[Conditions/Drained 1|Drained 3]] on a critical failure). If the creature is already drained, this increases its drained value instead, to a maximum of [[Conditions/Drained 1|Drained 4]]."
+    desc: "`pf2:1` (arcane,death) **Requirements** The sumbreiva has a creature [[Conditions/Grabbed|Grabbed]] with their shadow whip\n* * *\n\n**Effect** The grabbed creature must succeed at a DC 38 Fortitude check save or become [[Conditions/Drained|Drained 2]] ([[Conditions/Drained|Drained 3]] on a critical failure). If the creature is already drained, this increases its drained value instead, to a maximum of [[Conditions/Drained|Drained 4]]."
  
+```
+
+```encounter-table
+name: Sumbreiva
+creatures:
+  - 1: Sumbreiva
 ```
 
 

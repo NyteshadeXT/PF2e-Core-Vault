@@ -6,8 +6,9 @@ tags:
   - trait/ratfolk
   - trait/common
   - category/ancestry
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.8MMYFIudSDkdo8cx"
-license: OGL
+license: ORC
 ---
 # Rat Magic
 ## Feat 5
@@ -20,5 +21,5 @@ license: OGL
 
 There always seems to be a little rat around to carry messages for you. You can cast [[Spells/Animal Messenger|Animal Messenger]] once per day as a primal innate spell. When you do, the animal that responds is always a rat. If there are no rats within range, the spell is lost.
 
-*Source: Pathfinder Advanced Player's Guide*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

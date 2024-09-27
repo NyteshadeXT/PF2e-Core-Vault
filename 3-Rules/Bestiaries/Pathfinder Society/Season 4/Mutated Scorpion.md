@@ -6,6 +6,7 @@ cssClasses: pf2e
 aliases: "Compendium.pf2e.pfs-season-4-bestiary.Actor.uJ9U93JZlW4T0Hnn" 
 tags:
   - pf2e/creature/type/animal
+  - pf2eMonster
   - pf2e/creature/level/5
 statblock: inline
 name: "Mutated Scorpion"
@@ -20,14 +21,15 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Society Scenario #4-04: To Seek the Heart of Calamity"
 name: "Mutated Scorpion"
 level: "Creature 5"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Large"
-trait_01: "animal"
+trait_01: [[animal]]
 modifier: 12
 perception:
   - name: "Perception"
     desc: "+12; Darkvision, Tremorsense (Imprecise) 60 Feet"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Athletics: +14, Stealth: +10"
@@ -49,7 +51,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "[[Bestiary Ability Glossary/Attack of Opportunity|Attack of Opportunity (Stinger Only)]]"
-    desc: "`pf2:r`  Stinger only\n"
+    desc: "`pf2:r`  Stinger only\n\n* * *\n"
 
 attacks:
   - name: ""
@@ -61,14 +63,20 @@ attacks:
     desc: "`pf2:1` Stinger +14 (reach 10 feet)\n__Damage__  1d6 + 9 piercing plus giant-scorpion-venom"
 
   - name: "[[Bestiary Ability Glossary/Constrict|Constrict]]"
-    desc: "`pf2:1`  1d6 + 7 bludgeoning damage, DC 22 Fortitude check\n"
+    desc: "`pf2:1`  1d6+7 bludgeoning damage, DC 22 Fortitude check\n\n* * *\n"
 
   - name: "Giant Scorpion Venom"
-    desc: " (poison) **Saving Throw** DC 20 Fortitude check\n**Maximum Duration** 6 rounds\n**Stage 1** 3d6 poison damage and [[Conditions/Enfeebled 1|Enfeebled 1]] (1 round)\n**Stage 2** 4d6 poison damage and enfeebled 1 (1 round)\n**Stage 3** 4d6 poison damage and [[Conditions/Enfeebled 1|Enfeebled 2]] (1 round)"
+    desc: " (poison) **Saving Throw** DC 20 Fortitude check\n* * *\n\n**Maximum Duration** 6 rounds\n\n**Stage 1** 3d6 poison damage and [[Conditions/Enfeebled|Enfeebled 1]] (1 round)\n\n**Stage 2** 4d6 poison damage and enfeebled 1 (1 round)\n\n**Stage 3** 4d6 poison damage and [[Conditions/Enfeebled|Enfeebled 2]] (1 round)"
 
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
     desc: "`pf2:1`  "
  
+```
+
+```encounter-table
+name: Mutated Scorpion
+creatures:
+  - 1: Mutated Scorpion
 ```
 
 

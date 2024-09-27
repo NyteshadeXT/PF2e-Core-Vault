@@ -3,6 +3,7 @@ obsidianUIMode: preview
 title: "Pathfinder's Mentor"
 cssclasses: pf2e,pf2e-spell
 tags:
+  - trait/illusion
   - trait/intelligent
   - trait/invested
   - trait/magical
@@ -12,7 +13,7 @@ license: OGL
 ---
 # Pathfinder's Mentor
 ## Item 6
-### [rare](rare "Rare Rarity Trait")[[intelligent]][[invested]][[magical]]
+### [rare](rare "Rare Rarity Trait")[[illusion]][[intelligent]][[invested]][[magical]]
 
 
 **Price** 200 gp; 

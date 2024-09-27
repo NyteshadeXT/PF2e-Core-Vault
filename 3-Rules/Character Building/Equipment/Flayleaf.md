@@ -39,9 +39,9 @@ The flayleaf plant is relatively common, though the mildly euphoric effects of s
 
 **Stage 2** [[Conditions/Fatigued|Fatigued]] and +1 item bonus to saving throws against mental effects (1 hour)
 
-**Stage 3** fatigued and [[Conditions/Stupefied 1|Stupefied 1]] (1 hour)
+**Stage 3** fatigued and [[Conditions/Stupefied|Stupefied 1]] (1 hour)
 
-**Stage 4** fatigued, [[Conditions/Frightened 1|Frightened 2]], [[Conditions/Stupefied 1|Stupefied 2]] (1 hour)
+**Stage 4** fatigued, [[Conditions/Frightened|Frightened 2]], [[Conditions/Stupefied|Stupefied 2]] (1 hour)
 
 *Source: Pathfinder Gamemastery Guide*
 *OGL*

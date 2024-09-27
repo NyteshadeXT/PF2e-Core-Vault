@@ -12,7 +12,7 @@ Signifers are the powerful and enigmatic Hellknight spellcasters who support and
 
 ## Hellknight Archetypes
 
-The following archetypes represent fully inducted members of a Hellknight order. You can select the dedication feats for these archetypes even if you haven't yet gained three feats from the [[undefined]] archetype. A character can't have both the [[undefined]] and Hellknight signifer archetypes.
+The following archetypes represent fully inducted members of a Hellknight order. You can select the dedication feats for these archetypes even if you haven't yet gained three feats from the [[Compendium.pf2e.journals.JournalEntry.vx5FGEG34AxI2dow.JournalEntryPage.ARYrFIOsT3JxpjDY]] archetype. A character can't have both the [[Compendium.pf2e.journals.JournalEntry.vx5FGEG34AxI2dow.JournalEntryPage.yWtwNUkGyj79Q04W]] and Hellknight signifer archetypes.
 
 ## [[Feats/Hellknight Signifer Dedication|Hellknight Signifer Dedication]] Feat 6
 
@@ -22,7 +22,7 @@ The following archetypes represent fully inducted members of a Hellknight order.
 
 You have bolstered your force of will with the power of the Measure and the Chain. Upon initiation, you receive a signifer mask, often devoid of eyeholes or other decorative features. The mask doesn't obscure your vision, though it makes it impossible for others to see your eyes. While wearing your signifer's mask, you gain +1 circumstance bonus to Deception checks to Lie, Intimidation checks, and Deception DCs against Sense Motive. You gain expert proficiency in Intimidation (or in another skill in which you're trained of your choice, if you were already an expert in Intimidation) as well as in your choice of Arcana, Nature, Occultism, or Religion.
 
-**Special** You cannot select another dedication feat until you have gained two other feats from the [[undefined]] or [[undefined]] archetypes.
+**Special** You cannot select another dedication feat until you have gained two other feats from the [[Compendium.pf2e.journals.JournalEntry.vx5FGEG34AxI2dow.JournalEntryPage.RxDsPgPCCxEdjcVQ]] or [[Compendium.pf2e.journals.JournalEntry.vx5FGEG34AxI2dow.JournalEntryPage.ARYrFIOsT3JxpjDY]] archetypes.
 
 ## [[Feats/Masked Casting|Masked Casting]] Feat 8
 

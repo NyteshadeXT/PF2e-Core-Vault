@@ -12,7 +12,7 @@ license: OGL
 ---
 # Corrosive Engravings
 ## Item 5
-### [[3-Rules/Rule References/Acid]][[grimoire]][[magical]]
+### [[3-Rules/Rule References/Acid]][[grimoire]][[3-Rules/Rule References/Magical]]
 
 
 **Price** 140 gp; 
@@ -27,7 +27,7 @@ These tin sheets are bound in brass and show significant signs of erosion. The g
 
 * * *
 
-**Effect** If your next action is to cast an acid or poison spell that deals persistent damage, any creature who takes persistent damage from the spell is also [[Conditions/Sickened 1|Sickened 2]] until the persistent damage ends. Using an action to retch can reduce the sickened value as normal, but it can't reduce the sickened value below 1 until the persistent damage ends.
+**Effect** If your next action is to cast an acid or poison spell that deals persistent damage, any creature who takes persistent damage from the spell is also [[Conditions/Sickened|Sickened 2]] until the persistent damage ends. Using an action to retch can reduce the sickened value as normal, but it can't reduce the sickened value below 1 until the persistent damage ends.
 
 *Source: Pathfinder Treasure Vault*
 *OGL*

@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/human
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/7
 statblock: inline
 name: "Doatara the Priest"
@@ -22,12 +23,12 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder One-Shot #4: Mark of the Mantis"
 name: "Doatara the Priest"
 level: "Creature 7"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Medium"
-trait_01: "evil"
-trait_02: "human"
-trait_03: "humanoid"
+trait_01: [[evil]]
+trait_02: [[human]]
+trait_03: [[humanoid]]
 modifier: 17
 perception:
   - name: "Perception"
@@ -35,7 +36,7 @@ perception:
 languages: "Common, Daemonic, Osiriani"
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +16, Assassin Lore: +12, Crafting: +12, Deception: +16, Intimidation: +14, Religion: +17, Stealth: +16, Thievery: +14"
+    desc: "Acrobatics: +16, Crafting: +12, Deception: +16, Intimidation: +14, Religion: +17, Stealth: +16, Thievery: +14, Assassin Lore: +12"
 abilityMods: [1, 5, 1, 1, 4, 3]
 speed: 30 feet
 sourcebook: "_Pathfinder One-Shot #4: Mark of the Mantis_"
@@ -60,9 +61,6 @@ attacks:
   - name: "Melee"
     desc: "`pf2:1` Shortsword +17 (agile, finesse, versatile s)\n__Damage__  2d6 + 7 piercing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Dagger +16 (agile, finesse, thrown 10 ft., versatile s)\n__Damage__  1d4 + 7 piercing"
-
   - name: "Ranged"
     desc: "`pf2:1` Dagger +16 (agile, finesse, thrown 10 ft., versatile s)\n__Damage__  1d4 + 7 piercing"
 
@@ -73,11 +71,17 @@ attacks:
     desc: "1 Focus Point, DC 25, attack +17; __4th __  _[[Spells/Sudden Shift|Sudden Shift]]_"
 
   - name: "Channel Smite"
-    desc: "`pf2:2`  **Requirements** Doatara expends a [[Spells/Harm|Harm]] spell\n**Effect** Doatara makes a melee Strike and adds the _harm_ spell's void damage to the Strike's damage."
+    desc: "`pf2:2`  **Requirements** Doatara expends a [[Spells/Harm|Harm]] spell\n* * *\n\n**Effect** Doatara makes a melee Strike and adds the _harm_ spell's void damage to the Strike's damage."
 
   - name: "Poison Weapon"
-    desc: "`pf2:1`  **Requirements** Doatara is wielding a piercing or slashing weapon\n**Effect** Doatara Interacts to draw an injury poison and applies the poison to the required weapon. If her next attack with that weapon before the end of her next turn hits and deals damage, it applies the effects of the poison. If she critically fails the attack roll, the poison is wasted as normal."
+    desc: "`pf2:1`  **Requirements** Doatara is wielding a piercing or slashing weapon\n* * *\n\n**Effect** Doatara Interacts to draw an injury poison and applies the poison to the required weapon. If her next attack with that weapon before the end of her next turn hits and deals damage, it applies the effects of the poison. If she critically fails the attack roll, the poison is wasted as normal."
  
+```
+
+```encounter-table
+name: Doatara the Priest
+creatures:
+  - 1: Doatara the Priest
 ```
 
 

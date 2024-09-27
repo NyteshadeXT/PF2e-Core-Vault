@@ -4,6 +4,7 @@ title: "Hat of Disagreeable Disguise (Greater)"
 cssclasses: pf2e,pf2e-spell
 tags:
   - trait/cursed
+  - trait/illusion
   - trait/invested
   - trait/magical
   - trait/rare
@@ -12,7 +13,7 @@ license: OGL
 ---
 # Hat of Disagreeable Disguise (Greater)
 ## Item 7
-### [rare](rare "Rare Rarity Trait")[[cursed]][[invested]][[magical]]
+### [rare](rare "Rare Rarity Trait")[[cursed]][[illusion]][[invested]][[magical]]
 
 
 **Price** 30 gp; 

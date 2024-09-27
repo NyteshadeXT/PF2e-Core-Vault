@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/incorporeal
   - pf2e/creature/type/phantom
   - pf2e/creature/type/spirit
+  - pf2eMonster
   - pf2e/creature/level/4
   - remaster
 statblock: inline
@@ -25,13 +26,13 @@ token: [[modules/pf2e-tokens-bestiaries/portraits/undead/ghostly/phantom-knight.
 source: "Pathfinder Monster Core"
 name: "Phantom Knight"
 level: "Creature 4"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Medium"
-trait_01: "ethereal"
-trait_02: "incorporeal"
-trait_03: "phantom"
-trait_04: "spirit"
+trait_01: [[ethereal]]
+trait_02: [[incorporeal]]
+trait_03: [[phantom]]
+trait_04: [[spirit]]
 modifier: 13
 perception:
   - name: "Perception"
@@ -75,6 +76,12 @@ attacks:
   - name: "Phantom Touch"
     desc: " (spirit) Each time they make a Strike, a phantom can choose to deal spirit damage instead of the normal physical damage type."
  
+```
+
+```encounter-table
+name: Phantom Knight
+creatures:
+  - 1: Phantom Knight
 ```
 
 

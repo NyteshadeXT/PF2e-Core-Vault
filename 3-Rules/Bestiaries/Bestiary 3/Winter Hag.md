@@ -10,6 +10,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/hag
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/7
 statblock: inline
 name: "Winter Hag"
@@ -28,11 +29,11 @@ level: "Creature 7"
 
 alignment: ""
 size: "Medium"
-trait_01: "chaotic"
-trait_02: "cold"
-trait_03: "evil"
-trait_04: "hag"
-trait_05: "humanoid"
+trait_01: [[chaotic]]
+trait_02: [[cold]]
+trait_03: [[evil]]
+trait_04: [[hag]]
+trait_05: [[humanoid]]
 modifier: 16
 perception:
   - name: "Perception"
@@ -57,7 +58,7 @@ abilities_top:
   - name: ""
 
   - name: "[[Bestiary Ability Glossary/Coven|Coven]]"
-    desc: " (mental,occult) A winter hag adds [[Spells/Cone of Cold|Cone of Cold]], [[Spells/Solid Fog|Solid Fog]], and [[Spells/Wall of Ice|Wall of Ice]] to her coven's spells.\n"
+    desc: " (mental,occult) A winter hag adds [[Spells/Cone of Cold|Cone of Cold]], [[Spells/Solid Fog|Solid Fog]], and [[Spells/Wall of Ice|Wall of Ice]] to her coven's spells.\n\n* * *\n"
 
   - name: "Snow Vision"
     desc: "  Snow doesn't impair a winter hag's vision; she ignores [[Conditions/Concealed|Concealment]] from snowfall."
@@ -88,6 +89,12 @@ attacks:
   - name: "Ice Climb"
     desc: "  A winter hag can Climb at the listed Speed, but only on ice. She ignores difficult terrain from ice and snow, and she doesn't risk falling when crossing ice."
  
+```
+
+```encounter-table
+name: Winter Hag
+creatures:
+  - 1: Winter Hag
 ```
 
 

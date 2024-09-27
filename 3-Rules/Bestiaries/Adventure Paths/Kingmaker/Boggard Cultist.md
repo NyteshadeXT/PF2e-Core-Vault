@@ -10,6 +10,7 @@ tags:
   - pf2e/creature/type/chaotic
   - pf2e/creature/type/evil
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/8
 statblock: inline
 name: "Boggard Cultist"
@@ -24,14 +25,14 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Kingmaker"
 name: "Boggard Cultist"
 level: "Creature 8"
-rare_03: "Rare"
+rare_03: [[Rare]]
 alignment: ""
 size: "Medium"
-trait_01: "amphibious"
-trait_02: "boggard"
-trait_03: "chaotic"
-trait_04: "evil"
-trait_05: "humanoid"
+trait_01: [[amphibious]]
+trait_02: [[boggard]]
+trait_03: [[chaotic]]
+trait_04: [[evil]]
+trait_05: [[humanoid]]
 modifier: 16
 perception:
   - name: "Perception"
@@ -74,7 +75,7 @@ attacks:
     desc: "DC 26, attack +18; __4th __  _[[Spells/Divine Wrath|Divine Wrath]]_; __3rd __  _[[Spells/Blindness|Blindness]]_, _[[Spells/Vampiric Feast|Vampiric Touch]]_; __2nd __  _[[Spells/Darkness|Darkness]]_, _[[Spells/See the Unseen|See Invisibility]]_, _[[Spells/Noise Blast|Sound Burst]]_; __1st __  _[[Spells/Command|Command]]_, _[[Spells/Fear|Fear]]_, _[[Spells/Heal|Heal]]_, _[[Spells/Enfeeble|Ray of Enfeeblement]]_\n__Cantrips__  __(4th)__ _[[Spells/Daze|Daze]]_, _[[Spells/Divine Lance|Divine Lance]]_, _[[Spells/Know the Way|Know Direction]]_, _[[Spells/Shield|Shield]]_, _[[Spells/Stabilize|Stabilize]]_"
 
   - name: "Gogunta's Croak"
-    desc: "`pf2:1` (auditory,divine,emotion,fear,mental) The boggard cultist unleashes a terrifying croak. Any non-boggard within 30 feet must attempt a DC 25 Will check save.\n**Critical Success** The creature is temporarily immune to Gogunta's Croak for 1 minute.\n**Success** The creature is [[Conditions/Frightened 1|Frightened 1]]\n**Failure** The creature is [[Conditions/Frightened 1|Frightened 2]].\n**Critical Failure** The creature is [[Conditions/Frightened 1|Frightened 3]] and is also [[Conditions/Fleeing|Fleeing]] during their next turn."
+    desc: "`pf2:1` (auditory,divine,emotion,fear,mental) The boggard cultist unleashes a terrifying croak. Any non-boggard within 30 feet must attempt a DC 25 Will check save.\n* * *\n\n**Critical Success** The creature is temporarily immune to Gogunta's Croak for 1 minute.\n\n**Success** The creature is [[Conditions/Frightened|Frightened 1]]\n\n**Failure** The creature is [[Conditions/Frightened|Frightened 2]].\n\n**Critical Failure** The creature is [[Conditions/Frightened|Frightened 3]] and is also [[Conditions/Fleeing|Fleeing]] during their next turn."
 
   - name: "Swamp Stride"
     desc: "  A boggard cultist ignores difficult terrain caused by swamp terrain features."
@@ -82,6 +83,12 @@ attacks:
   - name: "Tongue Grab"
     desc: "  If the boggard cultist hits a creature with its tongue, that creature becomes [[Conditions/Grabbed|Grabbed]] by the boggard. Unlike with a normal Grab, the creature isn't [[Conditions/Immobilized|Immobilized]], but it can't move beyond the reach of the boggard's tongue. A creature can sever the tongue by hitting AC 25 and dealing at least 10 slashing damage. Though this doesn't deal any damage to the boggard, it prevents it from using its tongue Strike until it regrows its tongue, which takes a week."
  
+```
+
+```encounter-table
+name: Boggard Cultist
+creatures:
+  - 1: Boggard Cultist
 ```
 
 

@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/fey
   - pf2e/creature/type/gremlin
   - pf2e/creature/type/lawful
+  - pf2eMonster
   - pf2e/creature/level/1
 statblock: inline
 name: "Prank Workshop Mitflit"
@@ -23,13 +24,13 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Kingmaker"
 name: "Prank Workshop Mitflit"
 level: "Creature 1"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Small"
-trait_01: "evil"
-trait_02: "fey"
-trait_03: "gremlin"
-trait_04: "lawful"
+trait_01: [[evil]]
+trait_02: [[fey]]
+trait_03: [[gremlin]]
+trait_04: [[lawful]]
 modifier: 5
 perception:
   - name: "Perception"
@@ -37,7 +38,7 @@ perception:
 languages: "Sakvroth"
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +6, Diplomacy: +2 (+8 vs. arthropods), Nature: +6, Stealth: +6, Thievery: +6"
+    desc: "Acrobatics: +6, Diplomacy: +2, Nature: +6, Stealth: +6, Thievery: +6"
 abilityMods: [0, 3, 0, 1, 2, -1]
 speed: 20 feet,  climb 20 feet
 sourcebook: "_Pathfinder Kingmaker_"
@@ -72,11 +73,17 @@ attacks:
     desc: "DC 17, attack +9; __2nd __  _[[Spells/Speak with Animals|Speak with Animals (At Will) (Arthropods Only)]]_; __1st __  _[[Spells/Bane|Bane]]_\n__Cantrips__  __(1st)__ _[[Spells/Prestidigitation|Prestidigitation]]_"
 
   - name: "Launch Marbles"
-    desc: "`pf2:2`  The mitflit uses the marble launcher to fire six marbles at a creature. The target must attempt a DC 16 Reflex check save.\n**Success** The creature is unaffected.\n**Failure** The creature is distracted by the marbles and is [[Conditions/Clumsy 1|Clumsy 2]] until the end of its next turn.\n**Critical Failure** As failure, but one of the marbles hits the creature somewhere sensitive, causing 1d6 nonlethal bludgeoning damage."
+    desc: "`pf2:2`  The mitflit uses the marble launcher to fire six marbles at a creature. The target must attempt a DC 16 Reflex check save.\n\n**Success** The creature is unaffected.\n\n**Failure** The creature is distracted by the marbles and is [[Conditions/Clumsy|Clumsy 2]] until the end of its next turn.\n\n**Critical Failure** As failure, but one of the marbles hits the creature somewhere sensitive, causing 1d6 nonlethal bludgeoning damage."
 
   - name: "Vengeful Anger"
-    desc: " (emotion,mental) As long as it isn't [[Conditions/Frightened 1|Frightened]], a mitflit gains a +2 status bonus to damage rolls against a creature that has previously damaged or tormented it."
+    desc: " (emotion,mental) As long as it isn't [[Conditions/Frightened|Frightened]], a mitflit gains a +2 status bonus to damage rolls against a creature that has previously damaged or tormented it."
  
+```
+
+```encounter-table
+name: Prank Workshop Mitflit
+creatures:
+  - 1: Prank Workshop Mitflit
 ```
 
 

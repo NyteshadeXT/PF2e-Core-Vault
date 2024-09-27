@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/clockwork
   - pf2e/creature/type/construct
   - pf2e/creature/type/mindless
+  - pf2eMonster
   - pf2e/creature/level/12
 statblock: inline
 name: "Clockwork Puppeteer"
@@ -22,19 +23,20 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #180: The Smoking Gun"
 name: "Clockwork Puppeteer"
 level: "Creature 12"
-rare_03: "Rare"
+rare_03: [[Rare]]
 alignment: ""
 size: "Large"
-trait_01: "clockwork"
-trait_02: "construct"
-trait_03: "mindless"
+trait_01: [[clockwork]]
+trait_02: [[construct]]
+trait_03: [[mindless]]
 modifier: 20
 perception:
   - name: "Perception"
     desc: "+20; Darkvision"
+languages: ""
 skills:
   - name: "Skills"
-    desc: "Athletics: +0, Athletics: +25, Stealth: +25"
+    desc: "Athletics: +0, Stealth: +25"
 abilityMods: [6, 6, 2, -5, 2, -5]
 speed: 25 feet,  climb 25 feet
 sourcebook: "_Pathfinder #180: The Smoking Gun_"
@@ -51,7 +53,7 @@ abilities_top:
   - name: ""
 
   - name: "[[Creature Family Ability Glossary/(Clockwork Creature) Wind-Up|Wind-Up]]"
-    desc: "  24 hours, DC 22 Thievery check, standby\nFor a clockwork to act, it must be wound with a unique key by another creature. This takes 1 minute. Once wound, it remains operational for the listed amount of time, usually 24 hours, after which time it becomes unaware of its surroundings and can't act until it's wound again. Some clockworks' abilities require them to spend some of their remaining operational time. They can't spend more than they have and shut down immediately once they have 0 time remaining. If it's unclear when a clockwork was last wound, most clockwork keepers wind all their clockworks at a set time, typically 8 a.m.\nA clockwork that lists standby in its wind-up entry can enter standby mode as a 3-action activity. Its operational time doesn't decrease in standby, but it can sense its surroundings (with a -2 penalty to Perception). It can't act, with one exception: when it perceives a creature, it can exit standby as a reaction (rolling initiative if appropriate).\nA creature can attempt to Disable a Device to wind a clockwork down (with a DC listed in the wind-up entry). For each success, the clockwork loses 1 hour of operational time. This can be done even if the clockwork is in standby mode."
+    desc: "  24 hours, DC 22 Thievery check, standby\n\nFor a clockwork to act, it must be wound with a unique key by another creature. This takes 1 minute. Once wound, it remains operational for the listed amount of time, usually 24 hours, after which time it becomes unaware of its surroundings and can't act until it's wound again. Some clockworks' abilities require them to spend some of their remaining operational time. They can't spend more than they have and shut down immediately once they have 0 time remaining. If it's unclear when a clockwork was last wound, most clockwork keepers wind all their clockworks at a set time, typically 8 a.m.\n\nA clockwork that lists standby in its wind-up entry can enter standby mode as a 3-action activity. Its operational time doesn't decrease in standby, but it can sense its surroundings (with a -2 penalty to Perception). It can't act, with one exception: when it perceives a creature, it can exit standby as a reaction (rolling initiative if appropriate).\n\nA creature can attempt to Disable a Device to wind a clockwork down (with a DC listed in the wind-up entry). For each success, the clockwork loses 1 hour of operational time. This can be done even if the clockwork is in standby mode."
 
 abilities_mid:
   - name: ""
@@ -71,11 +73,17 @@ attacks:
     desc: "  Any creature hit by the puppeteer's string is [[Conditions/Grabbed|Grabbed]]. The puppeteer can move while it has a creature grabbed with its string, but it automatically releases the creature if the puppeteer moves beyond the string's 60-foot length. The puppeteer can use up to six strings at a time. It can release any creature grabbed by a string as a free action. Each string has AC 30, and its [[Actions/Escape|Escape]] DC is 32. A string can be severed by a Strike that deals at least 20 slashing damage to it. This doesn't deal any damage to the clockwork puppeteer."
 
   - name: "Create Puppet"
-    desc: "`pf2:r` (arcane) **Trigger** A creature [[Conditions/Grabbed|Grabbed]] by the puppeteer's clockwork string dies\n**Effect** The triggering creature's body becomes infested with tiny clockworks. This puppet is fully under the clockwork puppeteer's control and has statistics identical to a zombie of its size with the following exceptions: It loses the undead trait, loses void healing, loses its weakness to vitality damage, and gains the construct trait."
+    desc: "`pf2:r` (arcane) **Trigger** A creature [[Conditions/Grabbed|Grabbed]] by the puppeteer's clockwork string dies\n* * *\n\n**Effect** The triggering creature's body becomes infested with tiny clockworks. This puppet is fully under the clockwork puppeteer's control and has statistics identical to a zombie of its size with the following exceptions: It loses the undead trait, loses void healing, loses its weakness to vitality damage, and gains the construct trait."
 
   - name: "Pull String"
     desc: "`pf2:1`  The puppeteer reins in a creature [[Conditions/Grabbed|Grabbed]] by its string. The puppeteer attempts an Athletics check check against the creature's Fortitude DC. On a success, the puppeteer pulls the creature 15 feet closer to it (30 feet closer on a critical success)."
  
+```
+
+```encounter-table
+name: Clockwork Puppeteer
+creatures:
+  - 1: Clockwork Puppeteer
 ```
 
 

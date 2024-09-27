@@ -10,6 +10,7 @@ tags:
   - pf2e/creature/type/mummy
   - pf2e/creature/type/undead
   - pf2e/creature/type/unholy
+  - pf2eMonster
   - pf2e/creature/level/-1
 statblock: inline
 name: "Mummy Shambler"
@@ -27,15 +28,16 @@ level: "Creature -1"
 
 alignment: ""
 size: "Medium"
-trait_01: "evil"
-trait_02: "mindless"
-trait_03: "mummy"
-trait_04: "undead"
-trait_05: "unholy"
+trait_01: [[evil]]
+trait_02: [[mindless]]
+trait_03: [[mummy]]
+trait_04: [[undead]]
+trait_05: [[unholy]]
 modifier: 3
 perception:
   - name: "Perception"
     desc: "+3; Darkvision"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Athletics: +5"
@@ -55,7 +57,7 @@ abilities_top:
   - name: ""
 
   - name: "Slow"
-    desc: "  A mummy is permanently [[Conditions/Slowed 1|Slowed 1]] and can't use reactions."
+    desc: "  A mummy is permanently [[Conditions/Slowed|Slowed 1]] and can't use reactions."
 
 abilities_mid:
   - name: ""
@@ -71,6 +73,12 @@ attacks:
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
     desc: "`pf2:1`  "
  
+```
+
+```encounter-table
+name: Mummy Shambler
+creatures:
+  - 1: Mummy Shambler
 ```
 
 

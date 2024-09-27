@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.pathfinder-monster-core.Actor.wepiUEi2Lxl8j1BH"
 tags:
   - pf2e/creature/type/goblin
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/1
   - remaster
 statblock: inline
@@ -26,8 +27,8 @@ level: "Creature 1"
 
 alignment: ""
 size: "Small"
-trait_01: "goblin"
-trait_02: "humanoid"
+trait_01: [[goblin]]
+trait_02: [[humanoid]]
 modifier: 5
 perception:
   - name: "Perception"
@@ -72,6 +73,12 @@ attacks:
   - name: "Goblin Song"
     desc: "`pf2:1`  The war chanter sings annoying goblin songs, distracting foes with silly and repetitive lyrics. The chanter attempts a Performance check check against the Will DCs of up to two enemies within 30 feet. This has the usual traits and restrictions for a Performance check.\n* * *\n\n**Critical Success** The target takes a -1 status penalty to Perception checks and Will saves for 1 minute. [[Feat_Feature Effects/Effect_ Goblin Song (Critical Success)|Effect: Goblin Song (Critical Success)]]\n\n**Success** As critical success, but the target is affected for only one round. [[Feat_Feature Effects/Effect_ Goblin Song (Success)|Effect: Goblin Song (Success)]]\n\n**Critical Failure** The target is temporarily immune to Goblin Song for 1 hour."
  
+```
+
+```encounter-table
+name: Goblin War Chanter
+creatures:
+  - 1: Goblin War Chanter
 ```
 
 

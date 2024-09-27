@@ -11,7 +11,7 @@ license: OGL
 ---
 # Alchemist's Flamethrower
 ## Item 2
-### [rare](rare "Rare Rarity Trait")[[alchemical]][[3-Rules/Rule References/Fire]]
+### [rare](rare.md "Rare Rarity Trait")[[alchemical]][[3-Rules/Rule References/Fire]]
 
 
 **Price** 35 gp; 
@@ -28,10 +28,10 @@ This long cylinder is topped by a pair of brass sockets and a collection of poli
 
 **Effect** You pull the trigger, expending both loaded alchemist's fires to shoot a line of fire. Creatures in the area take fire damage based on the weakest alchemist's fire loaded into the flamethrower, as noted below. Creatures that critically fail the basic Reflex save additionally take the listed persistent fire damage.
 
-*   **Lesser Alchemist's Fire**: The flamethrower deals 1d8 fire (DC 15 Reflex check) in a 30-foot line. 1 persistent fire damage.
-*   **Moderate Alchemist's Fire**: The flamethrower deals 2d8 fire (DC 17 Reflex check) in a 60-foot line. 2 persistent fire damage.
-*   **Greater Alchemist's Fire**: The flamethrower deals 6d8 fire (DC 28 Reflex check) in a 90-foot line. 3 persistent fire damage.
-*   **Major Alchemist's Fire**: The flamethrower deals 10d8 fire (DC 37 Reflex check) in a 120-foot line. 4 persistent fire damage.
+*   **Lesser Alchemist's Fire**: The flamethrower deals 1d8 fire (DC 15 Reflex check) in a @Template\[line|distance:30\]. 1 persistent fire damage.
+*   **Moderate Alchemist's Fire**: The flamethrower deals 2d8 fire (DC 17 Reflex check) in a @Template\[line|distance:60\]. 2 persistent fire damage.
+*   **Greater Alchemist's Fire**: The flamethrower deals 6d8 fire (DC 28 Reflex check) in a @Template\[line|distance:90\]. 3 persistent fire damage.
+*   **Major Alchemist's Fire**: The flamethrower deals 10d8 fire (DC 37 Reflex check) in a @Template\[line|distance:120\]. 4 persistent fire damage.
 
 *Source: Pathfinder Treasure Vault*
 *OGL*

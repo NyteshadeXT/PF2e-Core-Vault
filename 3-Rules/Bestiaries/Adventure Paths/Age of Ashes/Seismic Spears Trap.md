@@ -4,6 +4,7 @@ obsidianUIMode: preview
 noteType: pf2eHazard
 tags:
   - magical
+  - pf2eHazard
 
 source: Pathfinder #149: Against the Scarlet Triad
 aliases: "Compendium.pf2e.age-of-ashes-bestiary.Actor.teabm1YiRAKdUaEQ" 
@@ -21,7 +22,7 @@ name: "Seismic Spears Trap"
 level: "Hazard 19"
 
 
-trait_01: "magical"
+trait_01: [[magical]]
 modifier: 33
 sourcebook: "_Pathfinder #149: Against the Scarlet Triad_"
 perception:
@@ -40,10 +41,10 @@ attacks:
   - name: ""
 
   - name: "Cataclysmic Rain"
-    desc: "`pf2:r` (arcane, earth, fire) **Trigger** A creature enters the marked area\n**Effect** Fiery spears make one Strike against each living creature within 5 feet of the marked area."
+    desc: "`pf2:r` (arcane, earth, fire) **Trigger** A creature enters the marked area\n* * *\n\n**Effect** Fiery spears make one Strike against each living creature within 5 feet of the marked area."
 
   - name: "Personal Quake"
-    desc: "passive A creature struck by a seismic spear is [[Conditions/Clumsy 1|Clumsy 3]] for 1 round as their body shakes uncontrollably. On a critical hit, a target must succeed at a DC 39 Fortitude check save or be [[Conditions/Petrified|Petrified]] for 1 minute, or permanently on a critical failure."
+    desc: "passive A creature struck by a seismic spear is [[Conditions/Clumsy|Clumsy 3]] for 1 round as their body shakes uncontrollably. On a critical hit, a target must succeed at a DC 39 Fortitude check save or be [[Conditions/Petrified|Petrified]] for 1 minute, or permanently on a critical failure."
   - name: "Melee"
     desc: "Seismic Spear +40 () No MAP applies to strikes made by seismic spear attacks"
 
@@ -53,5 +54,11 @@ attacks:
 
   - name: "Reset"
     desc: "The trap resets after 1 minute."
+```
+
+```encounter-table
+name: Seismic Spears Trap
+creatures:
+  - 1: Seismic Spears Trap
 ```
 

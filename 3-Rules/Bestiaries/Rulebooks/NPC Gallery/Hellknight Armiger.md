@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/dwarf
   - pf2e/creature/type/humanoid
   - pf2e/creature/type/lawful
+  - pf2eMonster
   - pf2e/creature/level/4
 statblock: inline
 name: "Hellknight Armiger"
@@ -25,9 +26,9 @@ level: "Creature 4"
 
 alignment: ""
 size: "Medium"
-trait_01: "dwarf"
-trait_02: "humanoid"
-trait_03: "lawful"
+trait_01: [[dwarf]]
+trait_02: [[humanoid]]
+trait_03: [[lawful]]
 modifier: 11
 perception:
   - name: "Perception"
@@ -35,7 +36,7 @@ perception:
 languages: "Common, Dwarven"
 skills:
   - name: "Skills"
-    desc: "Athletics: +12, Hell Lore: +8, Intimidation: +10, Religion: +10, Society: +7"
+    desc: "Athletics: +12, Intimidation: +10, Religion: +10, Society: +7, Hell Lore: +8"
 abilityMods: [4, 1, 3, 0, 3, 0]
 speed: 20 feet
 sourcebook: "_Pathfinder Lost Omens: Character Guide_"
@@ -69,6 +70,12 @@ attacks:
   - name: "Weapon Mastery"
     desc: "  When the Hellknight armiger scores a critical hit with their war flail, their target is knocked [[Conditions/Prone|Prone]]."
  
+```
+
+```encounter-table
+name: Hellknight Armiger
+creatures:
+  - 1: Hellknight Armiger
 ```
 
 

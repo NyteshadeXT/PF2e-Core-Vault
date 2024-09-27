@@ -5,6 +5,7 @@ noteType: pf2eHazard
 tags:
   - mechanical
   - trap
+  - pf2eHazard
 
 source: Pathfinder Society Scenario #2-13: A Gilded Test
 aliases: "Compendium.pf2e.pfs-season-2-bestiary.Actor.P9xoZGN9pSqNPbRK" 
@@ -22,14 +23,14 @@ name: "Mechanical Jaws (1-2)"
 level: "Hazard 0"
 
 
-trait_01: "mechanical"
-trait_02: "trap"
+trait_01: [[mechanical]]
+trait_02: [[trap]]
 modifier: 6
 sourcebook: "_Pathfinder Society Scenario #2-13: A Gilded Test_"
 ac: 14
 armorclass:
   - name: AC
-    desc: "14; __Fort__ +8, __Ref__ +2, __Will__ +0"
+    desc: "14; __Fort__ +8, __Ref__ +2, "
 hp: 14
 health:
   - name: ""
@@ -51,11 +52,17 @@ attacks:
   - name: ""
 
   - name: "Jaws"
-    desc: "`pf2:r` **Trigger** A creature walks on the tile.\n**Effect** The jaws of the trap snap shut, Striking the triggering creature. The triggering creature is [[Conditions/Immobilized|Immobilized]] until the trap is disabled or a creature succeeds at a Athletics check to Force it Open. A creature who critically fails the check to Force it Open instead tightens the trap, dealing 1d6 + 3 piercing damage to the immobilized creature."
+    desc: "`pf2:r` **Trigger** A creature walks on the tile.\n* * *\n\n**Effect** The jaws of the trap snap shut, Striking the triggering creature. The triggering creature is [[Conditions/Immobilized|Immobilized]] until the trap is disabled or a creature succeeds at a Athletics check to Force it Open. A creature who critically fails the check to Force it Open instead tightens the trap, dealing 1d6+3 piercing damage to the immobilized creature."
   - name: "Melee"
     desc: "Jaws +10 () "
 
 
 
+```
+
+```encounter-table
+name: Mechanical Jaws (1-2)
+creatures:
+  - 1: Mechanical Jaws (1-2)
 ```
 

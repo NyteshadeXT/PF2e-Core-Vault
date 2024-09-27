@@ -10,6 +10,7 @@ tags:
   - pf2e/creature/type/humanoid
   - pf2e/creature/type/lawful
   - pf2e/creature/type/sea-devil
+  - pf2eMonster
   - pf2e/creature/level/1
 statblock: inline
 name: "Weak Sea Devil Scout"
@@ -24,22 +25,22 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Society Scenario #2-06: The Crashing Wave"
 name: "Weak Sea Devil Scout"
 level: "Creature 1"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Medium"
-trait_01: "amphibious"
-trait_02: "evil"
-trait_03: "humanoid"
-trait_04: "lawful"
-trait_05: "sea-devil"
+trait_01: [[amphibious]]
+trait_02: [[evil]]
+trait_03: [[humanoid]]
+trait_04: [[lawful]]
+trait_05: [[sea-devil]]
 modifier: 9
 perception:
   - name: "Perception"
     desc: "+9; Darkvision, Wavesense (Imprecise) 30 Feet"
-languages: "Thalassic"
+languages: "Thalassic; shark commune 150 feet"
 skills:
   - name: "Skills"
-    desc: "Athletics: +7 (+9 to Swim), Intimidation: +3, Stealth: +6, Survival: +5"
+    desc: "Athletics: +7, Intimidation: +3, Stealth: +6, Survival: +5"
 abilityMods: [3, 4, 1, 0, 3, -1]
 speed: 25 feet,  swim 35 feet
 sourcebook: "_Pathfinder Society Scenario #2-06: The Crashing Wave_"
@@ -76,6 +77,12 @@ attacks:
   - name: "Ranged"
     desc: "`pf2:1` Spear +10 (thrown 20 ft.)\n__Damage__  1d6 + 1 piercing"
  
+```
+
+```encounter-table
+name: Weak Sea Devil Scout
+creatures:
+  - 1: Weak Sea Devil Scout
 ```
 
 

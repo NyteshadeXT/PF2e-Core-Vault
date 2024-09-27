@@ -11,6 +11,7 @@ tags:
   - pf2e/creature/type/ghoul
   - pf2e/creature/type/undead
   - pf2e/creature/type/unholy
+  - pf2eMonster
   - pf2e/creature/level/4
 statblock: inline
 name: "Barnacle Barnaby (5-6)"
@@ -25,15 +26,15 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Society Scenario #5-05: The Island of the Vibrant Dead"
 name: "Barnacle Barnaby (5-6)"
 level: "Creature 4"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Medium"
-trait_01: "amphibious"
-trait_02: "chaotic"
-trait_03: "evil"
-trait_04: "ghoul"
-trait_05: "undead"
-trait_06: "unholy"
+trait_01: [[amphibious]]
+trait_02: [[chaotic]]
+trait_03: [[evil]]
+trait_04: [[ghoul]]
+trait_05: [[undead]]
+trait_06: [[unholy]]
 modifier: 10
 perception:
   - name: "Perception"
@@ -41,7 +42,7 @@ perception:
 languages: "Common, Necril, Thalassic"
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +12, Athletics: +12 (+14 to Swim), Deception: +11, Sailing Lore: +10, Stealth: +12, Survival: +10"
+    desc: "Acrobatics: +12, Athletics: +12, Deception: +11, Stealth: +12, Survival: +10, Sailing Lore: +10"
 abilityMods: [3, 4, 3, 3, 1, 4]
 speed: 25 feet,  swim 30 feet
 sourcebook: "_Pathfinder Society Scenario #5-05: The Island of the Vibrant Dead_"
@@ -79,17 +80,23 @@ attacks:
     desc: "`pf2:1` Double-Barreled Pistol +11 (concussive, double barrel, fatal d8, range 30 feet, reload 1)\n__Damage__  1d4 piercing"
 
   - name: "[[Bestiary Ability Glossary/Aquatic Ambush|Aquatic Ambush]]"
-    desc: "`pf2:1`  45 feet\n"
+    desc: "`pf2:1`  45 feet\n\n* * *\n"
 
   - name: "[[Creature Family Ability Glossary/(Ghoul) Consume Flesh|Consume Flesh]]"
-    desc: "`pf2:1` (manipulate) **Requirements** The lacedon is adjacent to the corpse of a creature that died within the last hour.\n**Effect** The lacedon devours a chunk of the corpse and regains 3d6 Hit Points. It can regain Hit Points from any given corpse only once."
+    desc: "`pf2:1` (manipulate) **Requirements** The lacedon is adjacent to the corpse of a creature that died within the last hour.\n* * *\n\n**Effect** The lacedon devours a chunk of the corpse and regains 3d6 Hit Points. It can regain Hit Points from any given corpse only once."
 
   - name: "[[Creature Family Ability Glossary/(Ghoul) Ghoul Fever|Ghoul Fever]]"
-    desc: " (disease) **Saving Throw** DC 19 Fortitude check\n**Stage 1** carrier with no ill effect (1 day)\n**Stage 2** 2d6 void damage and regains half as many Hit Points from all healing (1 day)\n**Stage 3** as stage 2 (1 day)\n**Stage 4** 2d6 void damage and gains no benefit from healing (1 day)\n**Stage 5** as stage 4 (1 day)\n**Stage 6** dead, and rises as a [[Bestiary 1/Ghoul|Ghoul]] the next midnight."
+    desc: " (disease) **Saving Throw** DC 19 Fortitude check\n* * *\n\n**Stage 1** carrier with no ill effect (1 day)\n\n**Stage 2** 2d6 void damage and regains half as many Hit Points from all healing (1 day)\n\n**Stage 3** as stage 2 (1 day)\n\n**Stage 4** 2d6 void damage and gains no benefit from healing (1 day)\n\n**Stage 5** as stage 4 (1 day)\n\n**Stage 6** dead, and rises as a [[Bestiary 1/Ghoul|Ghoul]] the next midnight."
 
   - name: "Paralyzing Spew"
     desc: "`pf2:1` (incapacitation,occult) The lacedon discharges a spray of carrion vomit at a creature within 20 feet, dealing 1d6 poison damage with a DC 19 Fortitude check. A non-elf creature that fails its save is also [[Conditions/Paralyzed|Paralyzed]]. It can attempt a new save to end the paralysis at the end of each of its turns, and the DC cumulatively decreases by 1 on each such save. The lacedon can't use Paralyzing Spew again for 1d4 rounds."
  
+```
+
+```encounter-table
+name: Barnacle Barnaby (5-6)
+creatures:
+  - 1: Barnacle Barnaby (5-6)
 ```
 
 

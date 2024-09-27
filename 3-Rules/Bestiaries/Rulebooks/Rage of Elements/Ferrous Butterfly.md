@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.rage-of-elements-bestiary.Actor.Ub0UIqBOjouOePe8"
 tags:
   - pf2e/creature/type/elemental
   - pf2e/creature/type/metal
+  - pf2eMonster
   - pf2e/creature/level/1
   - remaster
 statblock: inline
@@ -25,12 +26,13 @@ level: "Creature 1"
 
 alignment: ""
 size: "tiny"
-trait_01: "elemental"
-trait_02: "metal"
+trait_01: [[elemental]]
+trait_02: [[metal]]
 modifier: 7
 perception:
   - name: "Perception"
     desc: "+7; Darkvision"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Acrobatics: +9"
@@ -63,6 +65,12 @@ attacks:
   - name: "Swoop"
     desc: "`pf2:2`  The ferrous butterfly Flies up to its Speed and makes a wing Strike at any point during that movement."
  
+```
+
+```encounter-table
+name: Ferrous Butterfly
+creatures:
+  - 1: Ferrous Butterfly
 ```
 
 

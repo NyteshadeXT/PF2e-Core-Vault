@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/human
   - pf2e/creature/type/humanoid
   - pf2e/creature/type/lawful
+  - pf2eMonster
   - pf2e/creature/level/14
 statblock: inline
 name: "Shino Hakusa (Level 14)"
@@ -23,13 +24,13 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #166: Despair on Danger Island"
 name: "Shino Hakusa (Level 14)"
 level: "Creature 14"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Medium"
-trait_01: "evil"
-trait_02: "human"
-trait_03: "humanoid"
-trait_04: "lawful"
+trait_01: [[evil]]
+trait_02: [[human]]
+trait_03: [[humanoid]]
+trait_04: [[lawful]]
 modifier: 22
 perception:
   - name: "Perception"
@@ -57,7 +58,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Nimble Dodge"
-    desc: "`pf2:r`  **Trigger** Hakusa is targeted with a melee or ranged attack by an attacker she can see.\n**Effect** Hakusa gains a +2 circumstance bonus to AC against the triggering attack."
+    desc: "`pf2:r`  **Trigger** Hakusa is targeted with a melee or ranged attack by an attacker she can see.\n* * *\n\n**Effect** Hakusa gains a +2 circumstance bonus to AC against the triggering attack."
 
 attacks:
   - name: ""
@@ -75,11 +76,17 @@ attacks:
     desc: "  Hakusa's fist Strikes are treated as cold iron and silver and don't take penalties when making lethal attacks."
 
   - name: "Pressure Point Attack"
-    desc: "`pf2:2`  Hakusa targets a foe's pressure points to debilitate them. Hakusa makes a fist Strike. On a hit, the target takes damage as normal and must attempt a DC 35 Fortitude check save. Regardless of the result of the save, the target is temporarily immune to Pressure Point Attack for 1 minute.\n**Critical Success** The target is unaffected.\n**Success** The target's muscles become temporarily weaker. For 1 round, the target is [[Conditions/Enfeebled 1|Enfeebled 2]] and must succeed at a DC 5 Flat check check when attempting to use actions with the manipulate trait or the action is lost.\n**Failure** As success, but the duration is 1 minute.\n**Critical Failure** As success, but the duration is 1 minute, the flat check is DC 11 Flat check, and the target also takes -10-foot status penalty to their Speed for the duration."
+    desc: "`pf2:2`  Hakusa targets a foe's pressure points to debilitate them. Hakusa makes a fist Strike. On a hit, the target takes damage as normal and must attempt a DC 35 Fortitude check save. Regardless of the result of the save, the target is temporarily immune to Pressure Point Attack for 1 minute.\n* * *\n\n**Critical Success** The target is unaffected.\n\n**Success** The target's muscles become temporarily weaker. For 1 round, the target is [[Conditions/Enfeebled|Enfeebled 2]] and must succeed at a DC 5 Flat check check when attempting to use actions with the manipulate trait or the action is lost.\n\n**Failure** As success, but the duration is 1 minute.\n\n**Critical Failure** As success, but the duration is 1 minute, the flat check is DC 11 Flat check, and the target also takes -10-foot status penalty to their Speed for the duration."
 
   - name: "[[Bestiary Ability Glossary/Sneak Attack|Sneak Attack]]"
     desc: "  Hakusa's Strikes deal an additional 3d6 precision damage to [[Conditions/Off-Guard|Off-Guard]] creatures."
  
+```
+
+```encounter-table
+name: Shino Hakusa (Level 14)
+creatures:
+  - 1: Shino Hakusa (Level 14)
 ```
 
 

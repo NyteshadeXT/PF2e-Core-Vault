@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/giant
   - pf2e/creature/type/troll
+  - pf2eMonster
   - pf2e/creature/level/15
 statblock: inline
 name: "Troll Guard"
@@ -23,13 +24,13 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Kingmaker"
 name: "Troll Guard"
 level: "Creature 15"
-rare_03: "Rare"
+rare_03: [[Rare]]
 alignment: ""
 size: "Large"
-trait_01: "chaotic"
-trait_02: "evil"
-trait_03: "giant"
-trait_04: "troll"
+trait_01: [[chaotic]]
+trait_02: [[evil]]
+trait_03: [[giant]]
+trait_04: [[troll]]
 modifier: 27
 perception:
   - name: "Perception"
@@ -60,7 +61,7 @@ abilities_mid:
     desc: "`pf2:r`  "
 
   - name: "Vigorous Shake"
-    desc: "`pf2:r`  **Trigger** The troll guard takes [[Conditions/Persistent Damage|Persistent]] acid or fire damage.\n**Effect** The troll guard shakes itself to remove persistent acid or fire effects. The troll guard immediately attempts a DC 15 Flat check check to end the persistent damage that triggered this reaction. If the troll guard succeeds at this check, it can immediately use Primordial Roar as part of this reaction."
+    desc: "`pf2:r`  **Trigger** The troll guard takes [[Conditions/Persistent Damage|Persistent]] acid or fire damage.\n* * *\n\n**Effect** The troll guard shakes itself to remove persistent acid or fire effects. The troll guard immediately attempts a DC 15 Flat check check to end the persistent damage that triggered this reaction. If the troll guard succeeds at this check, it can immediately use Primordial Roar as part of this reaction."
 
 attacks:
   - name: ""
@@ -75,17 +76,23 @@ attacks:
     desc: "  The troll guard has access to axe critical specialization effects."
 
   - name: "Forced Regeneration"
-    desc: "`pf2:1` (concentrate) **Requirements** The troll guard's regeneration is not currently deactivated.\n**Effect** The guard king regains 20 HP."
+    desc: "`pf2:1` (concentrate) **Requirements** The troll guard's regeneration is not currently deactivated.\n* * *\n\n**Effect** The guard king regains 20 HP."
 
   - name: "Primordial Roar"
-    desc: "`pf2:1` (auditory,emotion,fear,mental) The troll guard unleashes a bestial roar. Each non-troll creature within 100 feet must attempt a DC 35 Will check save. The creature is then temporarily immune for 10 minutes.\n**Critical Success** The creature is unaffected.\n**Success** The creature is [[Conditions/Frightened 1|Frightened 1]]\n**Failure** The creature is [[Conditions/Frightened 1|Frightened 2]]\n**Critical Failure** The creature is [[Conditions/Frightened 1|Frightened 3]]"
+    desc: "`pf2:1` (auditory,emotion,fear,mental) The troll guard unleashes a bestial roar. Each non-troll creature within 100 feet must attempt a DC 35 Will check save. The creature is then temporarily immune for 10 minutes.\n* * *\n\n**Critical Success** The creature is unaffected.\n\n**Success** The creature is [[Conditions/Frightened|Frightened 1]]\n\n**Failure** The creature is [[Conditions/Frightened|Frightened 2]]\n\n**Critical Failure** The creature is [[Conditions/Frightened|Frightened 3]]"
 
   - name: "[[Bestiary Ability Glossary/Rend|Rend]]"
-    desc: "`pf2:1`  Battleaxe\n"
+    desc: "`pf2:1`  Battleaxe\n\n* * *\n"
 
   - name: "Twin Chop"
-    desc: "`pf2:1`  **Frequency** once per round\n**Effect** The troll guard lashes out at two foes with its axes. The troll guard attempts two battleaxe Strikes, each of which must target a different foe within reach. These attacks count toward the troll's multiple attack penalty, but the multiple attack penalty doesn't increase until after the troll makes both attacks."
+    desc: "`pf2:1`  **Frequency** once per round\n* * *\n\n**Effect** The troll guard lashes out at two foes with its axes. The troll guard attempts two battleaxe Strikes, each of which must target a different foe within reach. These attacks count toward the troll's multiple attack penalty, but the multiple attack penalty doesn't increase until after the troll makes both attacks."
  
+```
+
+```encounter-table
+name: Troll Guard
+creatures:
+  - 1: Troll Guard
 ```
 
 

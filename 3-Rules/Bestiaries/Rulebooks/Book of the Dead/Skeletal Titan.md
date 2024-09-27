@@ -10,6 +10,7 @@ tags:
   - pf2e/creature/type/skeleton
   - pf2e/creature/type/undead
   - pf2e/creature/type/unholy
+  - pf2eMonster
   - pf2e/creature/level/13
 statblock: inline
 name: "Skeletal Titan"
@@ -27,15 +28,16 @@ level: "Creature 13"
 
 alignment: ""
 size: "grg"
-trait_01: "evil"
-trait_02: "mindless"
-trait_03: "skeleton"
-trait_04: "undead"
-trait_05: "unholy"
+trait_01: [[evil]]
+trait_02: [[mindless]]
+trait_03: [[skeleton]]
+trait_04: [[undead]]
+trait_05: [[unholy]]
 modifier: 19
 perception:
   - name: "Perception"
     desc: "+19; Darkvision"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Athletics: +28"
@@ -78,11 +80,17 @@ attacks:
     desc: "  The bones a skeletal titan throws are large enough to clutter the battlefield. When the skeletal titan hits a creature with a bone attack, the projectile becomes difficult terrain in the square the creature occupies (or, if the creature occupies more than one square, one square it occupies of the titan's choice). If the titan misses with a bone attack, instead a random square adjacent to the creature becomes difficult terrain."
 
   - name: "Mountain Slam"
-    desc: "`pf2:3`  The skeletal titan slams its mountain sword into the ground. The shock wave reverberates, dealing mountain sword damage to all creatures in a 20-foot line (DC 34 Reflex check). Those who fail are also knocked [[Conditions/Prone|Prone]]."
+    desc: "`pf2:3`  The skeletal titan slams its mountain sword into the ground. The shock wave reverberates, dealing mountain sword damage to all creatures in a @Template[line|distance:20] (DC 34 Reflex check). Those who fail are also knocked [[Conditions/Prone|Prone]]."
 
   - name: "[[Bestiary Ability Glossary/Trample|Trample]]"
-    desc: "`pf2:3`  Huge or smaller, foot, DC 34 Reflex check\n"
+    desc: "`pf2:3`  Huge or smaller, foot, DC 34 Reflex check\n\n* * *\n"
  
+```
+
+```encounter-table
+name: Skeletal Titan
+creatures:
+  - 1: Skeletal Titan
 ```
 
 

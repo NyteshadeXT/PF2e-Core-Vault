@@ -12,7 +12,7 @@ license: OGL
 ---
 # Sun Dazzler
 ## Item 8
-### [[alchemical]][[3-Rules/Character Building/Spells/Light]][[visual]]
+### [[alchemical]][[light]][[visual]]
 
 
 **Price** 450 gp; 
@@ -21,7 +21,7 @@ license: OGL
 
 **Activate** `pf2:1` Interact
 
-This metallic tube has a complex array of lenses and prisms at one end and a hatch at the other. The hatch can be unlocked, loaded with a [[Equipment/Glow Rod|Sunrod]], and refastened using 3 Interact actions. A loaded sun dazzler can be activated to burn the sunrod to dust in a single focused flash, creating a 30-foot cone of scintillating light. All creatures in the cone must attempt a DC 24 Fortitude check save, with the following effects.
+This metallic tube has a complex array of lenses and prisms at one end and a hatch at the other. The hatch can be unlocked, loaded with a [[Equipment/Glow Rod|Sunrod]], and refastened using 3 Interact actions. A loaded sun dazzler can be activated to burn the sunrod to dust in a single focused flash, creating a @Template\[cone|distance:30\] of scintillating light. All creatures in the cone must attempt a DC 24 Fortitude check save, with the following effects.
 
 * * *
 

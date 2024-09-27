@@ -3,10 +3,11 @@ title: "Vault Builder"
 obsidianUIMode: preview
 noteType: pf2eMonster
 cssClasses: pf2e
-aliases: "Compendium.pf2e.rage-of-elements-bestiary.Actor.Y01s9SxbSRWD1ZKl" 
+aliases: "Compendium.pf2e.rage-of-elements-bestiary.Actor.g9hnlCy2R4uspfAI" 
 tags:
   - pf2e/creature/type/earth
   - pf2e/creature/type/elemental
+  - pf2eMonster
   - pf2e/creature/level/23
   - remaster
 statblock: inline
@@ -22,26 +23,26 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Rage of Elements"
 name: "Vault Builder"
 level: "Creature 23"
-rare_03: "Rare"
+rare_03: [[Rare]]
 alignment: ""
 size: "Medium"
-trait_01: "earth"
-trait_02: "elemental"
+trait_01: [[earth]]
+trait_02: [[elemental]]
 modifier: 37
 perception:
   - name: "Perception"
     desc: "+37; Darkvision, Tremorsense (Imprecise) 120 Feet"
-languages: "Orvian, Petran"
+languages: "Orvian, Petran; telepathy 300 feet"
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +39, Arcana: +42, Architecture Lore: +42, Athletics: +39, Crafting: +44, Engineering Lore: +42, Nature: +37, Planar Lore: +42, Stealth: +41, Thievery: +39"
+    desc: "Acrobatics: +39, Arcana: +42, Athletics: +39, Crafting: +44, Nature: +37, Stealth: +41, Thievery: +39, Architecture Lore: +42, Engineering Lore: +42, Planar Lore: +42"
 abilityMods: [8, 10, 7, 11, 6, 8]
 speed: 35 feet,  burrow 35 feet,  climb 35 feet
 sourcebook: "_Pathfinder Rage of Elements_"
 ac: 47
 armorclass:
   - name: AC
-    desc: "47; __Fort__ +36, __Ref__ +41, __Will__ +35; +1 status to all saves vs. spells ( +4 status vs. earth)"
+    desc: "47; __Fort__ +36, __Ref__ +41, __Will__ +35; +1 status to all saves vs. spells (+4 status vs. earth)"
 hp: 465
 health:
   - name: ""
@@ -51,7 +52,7 @@ abilities_top:
   - name: ""
 
   - name: "Craft Crystal Wand"
-    desc: " (exploration) **Frequency** twice per day\n**Effect** The vault builder spends 10 minutes creating a magic wand out of radioactive green crystal, containing any 8th-rank or lower earth spell of their choice. The wand can be used by other creatures, but it crumbles to sand at the end of the day and has no monetary value. The vault builder can expend both daily uses to instead make a _+3 greater striking [[Equipment/Staff of Earth (Major)|Major Staff of Earth]]_."
+    desc: " (exploration) **Frequency** twice per day\n* * *\n\n**Effect** The vault builder spends 10 minutes creating a magic wand out of radioactive green crystal, containing any 8th-rank or lower earth spell of their choice. The wand can be used by other creatures, but it crumbles to sand at the end of the day and has no monetary value. The vault builder can expend both daily uses to instead make a _+3 greater striking [[Equipment/Staff of Earth (Major)|Major Staff of Earth]]_."
 
   - name: "Item Caster"
     desc: "  The vault keeper can Cast a Spell from any item (such as a staff or wand) as though it were on their spell list."
@@ -77,16 +78,16 @@ attacks:
     desc: "`pf2:1` Crystal Shard +37 (earth, magical, range increment 100 feet)\n__Damage__  7d6 + 4 piercing"
 
   - name: "Arcane Prepared Spells"
-    desc: "DC 50, attack +42; __8th __  _[[Spells/Earthquake|Earthquake]]_; __7th __  _[[Spells/Heaving Earth|Heaving Earth]]_; __6th __  _[[Spells/Disintegrate|Disintegrate]]_, _[[Spells/Petrify|Petrify]]_, _[[Spells/Wall of Force|Wall of Force]]_; __5th __  _[[Spells/Blazing Fissure|Blazing Fissure]]_, _[[Spells/Engrave Memory|Engrave Memory]]_; __4th __  _[[Spells/Clairvoyance|Clairvoyance]]_, _[[Spells/Creation|Creation]]_, _[[Spells/Fly|Fly]]_, _[[Spells/Grasping Earth|Grasping Earth]]_, _[[Spells/Mountain Resilience|Mountain Resilience]]_; __3rd __  _[[Spells/Haste|Haste]]_, _[[Compendium.pf2e.spells-srd.Item.CuziTxu5CyYbOt1L|One With Stone]]_; __2nd __  _[[Spells/Knock|Knock]]_, _[[Spells/Magnetic Attraction|Magnetic Attraction]]_, _[[Spells/Magnetic Repulsion|Magnetic Repulsion]]_, _[[Spells/Pave Ground|Pave Ground]]_, _[[Spells/See the Unseen|See the Unseen]]_; __1st __  _[[Spells/Ant Haul|Ant Haul]]_, _[[Spells/Mending|Mending]]_, _[[Spells/Quick Sort|Quick Sort]]_\n__Cantrips__  __(1st)__ _[[Spells/Detect Magic|Detect Magic]]_, _[[Spells/Read Aura|Read Aura]]_, _[[Spells/Scatter Scree|Scatter Scree]]_, _[[Spells/Sigil|Sigil]]_, _[[Spells/Telekinetic Hand|Telekinetic Hand]]_"
+    desc: "DC 50, attack +42; __8th __  _[[Spells/Earthquake|Earthquake]]_; __7th __  _[[Spells/Heaving Earth|Heaving Earth]]_; __6th __  _[[Spells/Disintegrate|Disintegrate]]_, _[[Spells/Petrify|Petrify]]_, _[[Spells/Wall of Force|Wall of Force]]_; __5th __  _[[Spells/Blazing Fissure|Blazing Fissure]]_, _[[Spells/Engrave Memory|Engrave Memory]]_; __4th __  _[[Spells/Clairvoyance|Clairvoyance]]_, _[[Spells/Creation|Creation]]_, _[[Spells/Fly|Fly]]_, _[[Spells/Grasping Earth|Grasping Earth]]_, _[[Spells/Mountain Resilience|Mountain Resilience]]_; __3rd __  _[[Spells/Haste|Haste]]_, _[[Compendium.pf2e.spells-srd.Item.CuziTxu5CyYbOt1L|One With Stone]]_; __2nd __  _[[Spells/Knock|Knock]]_, _[[Spells/Magnetic Attraction|Magnetic Attraction]]_, _[[Spells/Magnetic Repulsion|Magnetic Repulsion]]_, _[[Spells/Pave Ground|Pave Ground]]_, _[[Spells/See the Unseen|See the Unseen]]_; __1st __  _[[Spells/Ant Haul|Ant Haul]]_, _[[Spells/Mending|Mending]]_, _[[Spells/Quick Sort|Quick Sort]]_\n__Cantrips__  __(10th)__ _[[Spells/Detect Magic|Detect Magic]]_, _[[Spells/Read Aura|Read Aura]]_, _[[Spells/Scatter Scree|Scatter Scree]]_, _[[Spells/Sigil|Sigil]]_, _[[Spells/Telekinetic Hand|Telekinetic Hand]]_"
 
   - name: "Arcane Innate Spells"
     desc: "DC 50, attack +42; __10th __  _[[Spells/Summon Elemental|Summon Elemental (Earth Only)]]_, _[[Spells/Wall of Stone|Wall of Stone]]_; __8th __  _[[Spells/Petrify|Petrify]]_, _[[Spells/Scrying|Scrying]]_, _[[Spells/Shatter|Shatter (At Will)]]_, _[[Compendium.pf2e.spells-srd.Item.nH3Rgzzv0b6IeKdd|Speak With Stones (At Will)]]_, _[[Spells/Teleport|Teleport]]_, _[[Spells/Translocate|Translocate]]_; __4th __  _[[Spells/Earthbind|Earthbind (At Will)]]_, _[[Spells/Shape Stone|Shape Stone (At Will)]]_, _[[Spells/Translocate|Translocate (At Will)]]_"
 
   - name: "Constraining Crystal"
-    desc: " (earth,magical) When the vault builder deals damage with a claw Strike, glowing green crystals cluster at the site of the attack. The target must succeed at a DC 31 Fortitude check save or become [[Conditions/Clumsy 1|Clumsy 1]] for 1 hour (or [[Conditions/Clumsy 1|Clumsy 2]] on a critical failure). If the creature is already clumsy due to constraining crystal, additional failures increase that clumsy value instead, to a maximum of [[Conditions/Clumsy 1|Clumsy 4]]. A target that fails its save while Clumsy 4 is [[Conditions/Petrified|Petrified]] with an unlimited duration."
+    desc: " (earth,magical) When the vault builder deals damage with a claw Strike, glowing green crystals cluster at the site of the attack. The target must succeed at a DC 31 Fortitude check save or become [[Conditions/Clumsy|Clumsy 1]] for 1 hour (or [[Conditions/Clumsy|Clumsy 2]] on a critical failure). If the creature is already clumsy due to constraining crystal, additional failures increase that clumsy value instead, to a maximum of [[Conditions/Clumsy|Clumsy 4]]. A target that fails its save while Clumsy 4 is [[Conditions/Petrified|Petrified]] with an unlimited duration."
 
   - name: "Crystal Burst"
-    desc: "`pf2:2` (arcane,earth) An explosion of razor-sharp splinters deals 24d6 piercing damage in a 30-foot burst within 120 feet, with a DC 46 Reflex check save. The vault keeper can't use Crystal Burst again for 1d4 rounds."
+    desc: "`pf2:2` (arcane,earth) An explosion of razor-sharp splinters deals 24d6 piercing damage in a @Template[burst|distance:30] within 120 feet, with a DC 46 Reflex check save. The vault keeper can't use Crystal Burst again for 1d4 rounds."
 
   - name: "Earth Glide"
     desc: "  The vault builder can Burrow through any earthen matter, including rock. When they do so, the vault builder moves at their full burrow Speed, leaving no tunnels or signs of their passing."
@@ -94,6 +95,12 @@ attacks:
   - name: "Slashing Surge"
     desc: "`pf2:2`  The vault keeper Strides or Climbs and makes two claw Strikes at any point during that movement. Each Strike must target a different creature. The multiple attack penalty doesn't increase until after both attacks."
  
+```
+
+```encounter-table
+name: Vault Builder
+creatures:
+  - 1: Vault Builder
 ```
 
 

@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/undead
   - pf2e/creature/type/unholy
+  - pf2eMonster
   - pf2e/creature/level/3
 statblock: inline
 name: "Trailgaunt"
@@ -26,9 +27,9 @@ level: "Creature 3"
 
 alignment: ""
 size: "Medium"
-trait_01: "evil"
-trait_02: "undead"
-trait_03: "unholy"
+trait_01: [[evil]]
+trait_02: [[undead]]
+trait_03: [[unholy]]
 modifier: 10
 perception:
   - name: "Perception"
@@ -55,7 +56,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Pained Muttering"
-    desc: " (auditory,aura,emotion,fear) 10 feet. The trailgaunt's constant mutters and groans of pain are deeply unsettling. Each creature that starts its turn in the aura must succeed at a DC 20 Fortitude check save or become [[Conditions/Frightened 1|Frightened 1]] ([[Conditions/Frightened 1|Frightened 2]] on a critical failure). The creature is then temporarily immune for 1 minute."
+    desc: " (auditory,aura,emotion,fear) 10 feet. The trailgaunt's constant mutters and groans of pain are deeply unsettling. Each creature that starts its turn in the aura must succeed at a DC 20 Fortitude check save or become [[Conditions/Frightened|Frightened 1]] ([[Conditions/Frightened|Frightened 2]] on a critical failure). The creature is then temporarily immune for 1 minute."
 
 attacks:
   - name: ""
@@ -70,11 +71,17 @@ attacks:
     desc: "  The trailgaunt can't willingly walk on or across a well-maintained road, though it can Burrow under one. If forced onto the surface of such a road, the trailgaunt is [[Conditions/Fleeing|Fleeing]] until it's no longer on the road."
 
   - name: "Share Pain"
-    desc: "  A living creature hit by a trailgaunt's jaws Strike must succeed at a DC 20 Fortitude check save or suffer intense pain in its legs and feet, taking a -10-foot status penalty to its Speeds, or a -20-foot status penalty on a critical failure.\n[[Bestiary Effects/Effect_ Share Pain|Effect: Share Pain]]"
+    desc: "  A living creature hit by a trailgaunt's jaws Strike must succeed at a DC 20 Fortitude check save or suffer intense pain in its legs and feet, taking a -10-foot status penalty to its Speeds, or a -20-foot status penalty on a critical failure.\n\n[[Bestiary Effects/Effect_ Share Pain|Effect: Share Pain]]"
 
   - name: "Sure Stride"
     desc: "  A trailgaunt ignores the effects of difficult terrain and greater difficult terrain."
  
+```
+
+```encounter-table
+name: Trailgaunt
+creatures:
+  - 1: Trailgaunt
 ```
 
 

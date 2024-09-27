@@ -8,7 +8,7 @@ tags:
 ---
 # Where Am I?
 
-> Normal damage. **Crit Effect:** The target is [[Conditions/Stunned 1|Stunned 2]].
+> Normal damage. **Crit Effect:** The target is [[Conditions/Stunned|Stunned 2]].
 
 `Bludgeoning`
 
@@ -26,6 +26,6 @@ tags:
 
 # Mind Cloud
 
-> The target is [[Conditions/Stupefied 1|Stupefied 2]] until healed.
+> The target is [[Conditions/Stupefied|Stupefied 2]] until healed.
 
 `Bomb or Spell`

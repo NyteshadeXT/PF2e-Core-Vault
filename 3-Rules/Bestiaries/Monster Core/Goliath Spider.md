@@ -6,6 +6,7 @@ cssClasses: pf2e
 aliases: "Compendium.pf2e.pathfinder-monster-core.Actor.eP4a0FAbus3tNTbc" 
 tags:
   - pf2e/creature/type/animal
+  - pf2eMonster
   - pf2e/creature/level/11
   - remaster
 statblock: inline
@@ -25,7 +26,7 @@ level: "Creature 11"
 
 alignment: ""
 size: "grg"
-trait_01: "animal"
+trait_01: [[animal]]
 modifier: 22
 perception:
   - name: "Perception"
@@ -70,11 +71,17 @@ attacks:
     desc: "`pf2:1` (move) The goliath spider moves straight down up to 120 feet, suspended by a web line. It can hang from the web or drop off. The distance it Descends on a Web doesn't count for falling damage.\n\nA creature that successfully Strikes the web (AC 20, Hardness 5, 20 HP) severs it, causing the spider to fall."
 
   - name: "Goliath Spider Venom"
-    desc: " (incapacitation,poison) **Saving Throw** DC 30 Fortitude check\n* * *\n\n**Maximum Duration** 6 rounds\n\n**Stage 1** 3d6 poison damage and [[Conditions/Slowed 1|Slowed 1]] (1 round)\n\n**Stage 2** 3d8 poison damage and [[Conditions/Slowed 1|Slowed 2]] (1 round)\n\n**Stage 3** 3d10 poison damage and [[Conditions/Paralyzed|Paralyzed]] for 2d4 hours"
+    desc: " (incapacitation,poison) **Saving Throw** DC 30 Fortitude check\n* * *\n\n**Maximum Duration** 6 rounds\n\n**Stage 1** 3d6 poison damage and [[Conditions/Slowed|Slowed 1]] (1 round)\n\n**Stage 2** 3d8 poison damage and [[Conditions/Slowed|Slowed 2]] (1 round)\n\n**Stage 3** 3d10 poison damage and [[Conditions/Paralyzed|Paralyzed]] for 2d4 hours"
 
   - name: "Web Tether"
     desc: "  A creature hit by the spider's web Strike is [[Conditions/Restrained|Restrained]] and tethered to the spider, preventing it from moving farther away from the spider.\n\nThe spider can have one creature tethered at a time. The DC to [[Actions/Escape|Escape]] or [[Actions/Force Open|Force Open]] the web is 30. The tether can be severed with a Strike (AC 20, Hardness 5, HP 20), but this doesn't free the restrained creature."
  
+```
+
+```encounter-table
+name: Goliath Spider
+creatures:
+  - 1: Goliath Spider
 ```
 
 

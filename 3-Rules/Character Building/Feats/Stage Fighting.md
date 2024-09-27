@@ -6,8 +6,9 @@ tags:
   - trait/archetype
   - trait/common
   - category/class
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.1wTXeBrYU6BVEEOn"
-license: OGL
+license: ORC
 ---
 # Stage Fighting
 ## Feat 4
@@ -21,5 +22,5 @@ license: OGL
 * * *
 You pull punches to give a better show. You don't take the usual -2 circumstance penalty when making a nonlethal attack with a weapon or unarmed attack that doesn't have the nonlethal trait.
 
-*Source: Pathfinder Advanced Player's Guide*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

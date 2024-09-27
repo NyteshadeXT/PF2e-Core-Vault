@@ -26,7 +26,7 @@ This ornate pipe is chiseled from a single bloodstone piece with wooden accents.
 
 * * *
 
-**Effect** The smoke forms a bird that flies up to 120 feet in a direction of your choice. When it collides with a solid object or travels the full range, whichever is shorter, it explodes in a 20-foot burst of smoke with the effects of [[Spells/Mist|Mist]].
+**Effect** The smoke forms a bird that flies up to 120 feet in a direction of your choice. When it collides with a solid object or travels the full range, whichever is shorter, it explodes in a @Template\[burst|distance:20\] of smoke with the effects of [[Spells/Mist|Mist]].
 
 *Source: Pathfinder Lost Omens: Firebrands*
 *OGL*

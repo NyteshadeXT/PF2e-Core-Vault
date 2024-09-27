@@ -1,15 +1,16 @@
 ---
-title: "Basic Cavalry"
+title: Basic Cavalry
 obsidianUIMode: preview
-noteType: pf2eMonster
+noteType: pf2eArmy
 cssClasses: pf2e
-aliases: "Compendium.pf2e.kingmaker-bestiary.Actor.MN2Bw4uzDJxuIOWa" 
 tags:
-  - pf2e/creature/level/3
-statblock: inline
-name: "Basic Cavalry"
+  - pf2eArmy
+
+source: 
+aliases: "Compendium.pf2e.kingmaker-bestiary.Actor.MN2Bw4uzDJxuIOWa" 
 level: 3
 license: 
+statblock: inline
 ---
 
 ```statblock
@@ -18,39 +19,49 @@ forcecolumns: true
 layout: Basic Pathfinder 2e Layout
 source: ""
 name: "Basic Cavalry"
-level: "Creature 3"
+level: "Army 3"
+
 
 alignment: ""
 size: "Medium"
-modifier: 
+trait_01: cavalry
+modifier: 9
 perception:
-  - name: "Perception"
-    desc: "NaN; "
-skills:
-  - name: "Skills"
-    desc: ""
-abilityMods: [, , , , , ]
-speed: 
-sourcebook: "__"
-ac: 
+  - name: ""
+  - name: "Scouting"
+    desc: "+9"
+  - name: "Recruitment DC"
+    desc: "18; __Consumption__ 2"
+  - name: "Description"
+    desc: "Cavalry consists of armored soldiers armed with melee weapons and mounted on horses."
+ac: 19
 armorclass:
   - name: AC
-    desc: "; __Fort__ NaN, __Ref__ NaN, __Will__ NaN"
+    desc: "19; __Maneuver__ +12, __Morale__ +6"
 hp: 4
 health:
   - name: ""
-  - name: HP
-    desc: "4"
+  - name: "HP"
+    desc: "4 (RT 2))"
 abilities_top:
   - name: ""
 
 abilities_mid:
   - name: ""
+  - name: "Melee"
+    desc: "Weapons +18"
+
 attacks:
   - name: ""
+
+  - name: "Overrun"
+    desc: "_**Note**: Basic cavalry armies know Overrun automatically, and must 'spend' their first tactic on it._\n* * *\n\nCavalry armies gain a +1 status bonus on weapon attacks against infantry and skirmisher armies, but they suffer a –1 status penalty on Maneuver and Morale saves against area attacks and mental attacks."
  
 ```
 
-
-
+```encounter-table
+name: Basic Cavalry
+creatures:
+  - 1: Basic Cavalry
+```
 

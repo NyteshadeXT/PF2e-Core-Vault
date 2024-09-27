@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.pathfinder-bestiary.Actor.S8iX8sPaYFFYDoUq"
 tags:
   - pf2e/creature/type/animal
   - pf2e/creature/type/aquatic
+  - pf2eMonster
   - pf2e/creature/level/3
 statblock: inline
 name: "Bunyip"
@@ -25,12 +26,13 @@ level: "Creature 3"
 
 alignment: ""
 size: "Medium"
-trait_01: "animal"
-trait_02: "aquatic"
+trait_01: [[animal]]
+trait_02: [[aquatic]]
 modifier: 10
 perception:
   - name: "Perception"
     desc: "+10; Darkvision, Scent (Imprecise) 100 Feet"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Athletics: +11, Stealth: +10, Survival: +8"
@@ -55,7 +57,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "[[Bestiary Ability Glossary/Attack of Opportunity|Aquatic Opportunity (Special)]]"
-    desc: "`pf2:r`  As Attack of Opportunity, but both the bunyip and the triggering creature must be in water.\n"
+    desc: "`pf2:r`  As Attack of Opportunity, but both the bunyip and the triggering creature must be in water.\n\n* * *\n"
 
 attacks:
   - name: ""
@@ -67,14 +69,20 @@ attacks:
     desc: "`pf2:1` Tail +11 (agile)\n__Damage__  1d8 + 4 bludgeoning"
 
   - name: "Blood Frenzy"
-    desc: "  **Requirements** The bunyip is not [[Conditions/Fatigued|Fatigued]] or already in a frenzy.\n**Trigger** The bunyip deals bleed damage to a living creature.\n**Effect** The bunyip flies into a frenzy that lasts 1 minute. While frenzied, the bunyip gains a +4 status bonus to damage rolls with its jaws, gains 8 temporary HP that go away at the end of the frenzy, and takes a -2 penalty to AC.\n[[Bestiary Effects/Effect_ Blood Frenzy|Effect: Blood Frenzy]]"
+    desc: "  **Requirements** The bunyip is not [[Conditions/Fatigued|Fatigued]] or already in a frenzy.\n\n**Trigger** The bunyip deals bleed damage to a living creature.\n* * *\n\n**Effect** The bunyip flies into a frenzy that lasts 1 minute. While frenzied, the bunyip gains a +4 status bonus to damage rolls with its jaws, gains 8 temporary HP that go away at the end of the frenzy, and takes a -2 penalty to AC."
 
   - name: "Roar"
-    desc: "`pf2:1` (auditory,concentrate,emotion,fear,mental,primal) The bunyip lets out a loud and horrifying roar. Other creatures within 100 feet must succeed at a DC 21 Will check save or become [[Conditions/Frightened 1|Frightened 2]] ([[Conditions/Frightened 1|Frightened 3]] on a critical failure,[[Conditions/Frightened 1|Frightened 1]] on a success, or unaffected on a critical success).\nNo matter the result, the creature is temporarily immune to the effect for 1 minute."
+    desc: "`pf2:1` (auditory,concentrate,emotion,fear,mental,primal) The bunyip lets out a loud and horrifying roar. Other creatures within 100 feet must succeed at a DC 21 Will check save or become [[Conditions/Frightened|Frightened 2]] ([[Conditions/Frightened|Frightened 3]] on a critical failure,[[Conditions/Frightened|Frightened 1]] on a success, or unaffected on a critical success).\n\nNo matter the result, the creature is temporarily immune to the effect for 1 minute."
 
   - name: "Shift Form"
     desc: "`pf2:1` (morph,primal) A bunyip can alter its form slightly to gain an advantage and make it harder to recognize. When it does, its teeth shrink and its Jaws Strike doesn't deal the 1d6 persistent bleed damage. It can choose to gain either a long snake tail, granting its tail Strike reach 10 feet and Grab, or squat crocodile legs, increasing its land Speed to 20 feet. If it uses Shift Form again, the bunyip can return to normal or switch between a long tail or crocodile legs."
  
+```
+
+```encounter-table
+name: Bunyip
+creatures:
+  - 1: Bunyip
 ```
 
 

@@ -12,7 +12,7 @@ license: OGL
 ---
 # Backpack Catapult
 ## Item 1
-### [uncommon](uncommon "Uncommon Rarity Trait")[[volley-50]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[volley-50]]
 
 |  |  |
 | -- | -- |

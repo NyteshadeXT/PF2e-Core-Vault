@@ -8,7 +8,7 @@ tags:
 ---
 # Bone Masher
 
-> Normal damage. **Crit Effect:** Either the target is [[Conditions/Clumsy 1|Clumsy 2]] and takes a [[Other Effects/Effect\_ -10-foot status penalty to your land Speed|-10-foot status penalty to your land Speed]] or is [[Conditions/Clumsy 1|Clumsy 2]] and can't use one of its arms (your choice). Either effect last until healed.
+> Normal damage. **Crit Effect:** Either the target is [[Conditions/Clumsy|Clumsy 2]] and takes a [[Other Effects/Effect_ -10-foot status penalty to your land Speed|-10-foot status penalty to your land Speed]] or is [[Conditions/Clumsy|Clumsy 2]] and can't use one of its arms (your choice). Either effect last until healed.
 
 `Bludgeoning`
 

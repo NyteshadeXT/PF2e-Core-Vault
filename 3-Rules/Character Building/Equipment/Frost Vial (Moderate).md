@@ -11,8 +11,9 @@ tags:
   - trait/splash
   - trait/common
   - category/martial
+  - remaster
 aliases: "Compendium.pf2e.equipment-srd.Item.nVvH1ZcM7OwIVIs8"
-license: OGL
+license: ORC
 ---
 # Frost Vial (Moderate)
 ## Item 3
@@ -32,11 +33,11 @@ license: OGL
 
 * * *
 
-The liquid reagents in this vial rapidly absorb heat when exposed to air. A frost vial deals the listed cold damage and cold splash damage. On a hit, the target takes a status penalty to its Speeds until the end of its next turn. Many types of frost vial also grant an item bonus to attack rolls.
+The bright blue liquid reagents in this vial rapidly absorb heat when exposed to air. A frost vial deals the listed cold damage and cold splash damage. On a hit, the target takes a status penalty to its Speeds until the end of its next turn.
 
 You gain a +1 item bonus to attack rolls, the bomb deals 2d6 cold damage and 2 cold splash damage, and the target takes a -10-foot penalty.
 
 [[Equipment Effects/Effect_ Frost Vial (Moderate)|Effect: Frost Vial (Moderate)]]
 
-*Source: Pathfinder Core Rulebook*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.pfs-season-2-bestiary.Actor.8Eywy3sqfECiULGl"
 tags:
   - pf2e/creature/type/human
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/1
 statblock: inline
 name: "Kareida"
@@ -21,11 +22,11 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Bounty #3: Shadows and Scarecrows"
 name: "Kareida"
 level: "Creature 1"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Medium"
-trait_01: "human"
-trait_02: "humanoid"
+trait_01: [[human]]
+trait_02: [[humanoid]]
 modifier: 7
 perception:
   - name: "Perception"
@@ -67,6 +68,12 @@ attacks:
   - name: "Ranged"
     desc: "`pf2:1` Javelin +7 (thrown 30 ft.)\n__Damage__  1d6 + 3 piercing"
  
+```
+
+```encounter-table
+name: Kareida
+creatures:
+  - 1: Kareida
 ```
 
 

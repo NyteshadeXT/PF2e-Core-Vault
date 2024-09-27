@@ -10,7 +10,7 @@ license: OGL
 ---
 # Alluring Scarf (Greater)
 ## Item 12
-### [uncommon](uncommon "Uncommon Rarity Trait")[[magical]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[3-Rules/Rule References/Magical]]
 
 
 **Price** 1650 gp; 

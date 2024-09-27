@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/earth
   - pf2e/creature/type/elemental
   - pf2e/creature/type/spirit
+  - pf2eMonster
   - pf2e/creature/level/14
   - remaster
 statblock: inline
@@ -24,21 +25,21 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Rage of Elements"
 name: "Lithic Locus"
 level: "Creature 14"
-rare_03: "Rare"
+rare_03: [[Rare]]
 alignment: ""
 size: "Large"
-trait_01: "construct"
-trait_02: "earth"
-trait_03: "elemental"
-trait_04: "spirit"
+trait_01: [[construct]]
+trait_02: [[earth]]
+trait_03: [[elemental]]
+trait_04: [[spirit]]
 modifier: 25
 perception:
   - name: "Perception"
     desc: "+25; Darkvision, Tremorsense (Imprecise) 60 Feet"
-languages: "Petran"
+languages: "Petran; plus one ancient language"
 skills:
   - name: "Skills"
-    desc: "Athletics: +26, One Ancient Civilization Lore: +29, Society: +25"
+    desc: "Athletics: +26, Society: +25, One Ancient Civilization Lore: +29"
 abilityMods: [6, 0, 6, 7, 6, 2]
 speed: 30 feet
 sourcebook: "_Pathfinder Rage of Elements_"
@@ -69,8 +70,14 @@ attacks:
     desc: "  Any creature hit by the locus's ancient stone Strike is partially buried in a tide of earth and rock, becoming [[Conditions/Immobilized|Immobilized]] ([[Actions/Escape|Escape]] DC 34)."
 
   - name: "Echo the Past"
-    desc: "`pf2:1`  The locus calls forth a remnant of the past civilization to impart a lesson or control the present. Using this ability again ends any previous manifestation. The locus casts one of the following occult innate spells (DC 34) for the listed purpose.\n_**[[Spells/Dominate|Dominate]]**_ The dominated creature takes on the role of a historical figure or someone in the social hierarchy (such as high priest) from the locus's civilization.\n_**[[Spells/Illusory Scene|Illusory Scene]]**_ The scene reenacts a historical event from the locus's civilization.\n_**[[Spells/Invoke Spirits|Invoke Spirits]]**_ The spirits are drawn from the locus's memories of people from their civilization.\n_**[[Spells/Wall of Stone|Wall of Stone]]**_ The locus recreates the wall of a building from their civilization, complete with decorations."
+    desc: "`pf2:1`  The locus calls forth a remnant of the past civilization to impart a lesson or control the present. Using this ability again ends any previous manifestation. The locus casts one of the following occult innate spells (DC 34) for the listed purpose.\n\n_**[[Spells/Dominate|Dominate]]**_ The dominated creature takes on the role of a historical figure or someone in the social hierarchy (such as high priest) from the locus's civilization.\n\n_**[[Spells/Illusory Scene|Illusory Scene]]**_ The scene reenacts a historical event from the locus's civilization.\n\n_**[[Spells/Invoke Spirits|Invoke Spirits]]**_ The spirits are drawn from the locus's memories of people from their civilization.\n\n_**[[Spells/Wall of Stone|Wall of Stone]]**_ The locus recreates the wall of a building from their civilization, complete with decorations."
  
+```
+
+```encounter-table
+name: Lithic Locus
+creatures:
+  - 1: Lithic Locus
 ```
 
 

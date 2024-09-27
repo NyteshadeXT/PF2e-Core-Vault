@@ -7,8 +7,9 @@ tags:
   - trait/dedication
   - trait/uncommon
   - category/class
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.UuPZ7drPBnSmI8Eo"
-license: OGL
+license: ORC
 ---
 # Red Mantis Assassin Dedication
 ## Feat 2
@@ -18,17 +19,17 @@ license: OGL
 
 
 
-**Prerequisites** trained in sawtooth sabres; deity is Achaekek; lawful evil alignment; member of the Red Mantis assassins
+**Prerequisites** trained in sawtooth sabres; deity is Achaekek; member of the Red Mantis assassins
 * * *
 **Access** You are from Mediogalti Island.
 
 * * *
 
-You have learned how to stalk your foes and slay them with a sawtooth sabre. You become trained in Stealth and Assassin Lore; if you were already trained, you become an expert instead. Whenever your proficiency in any weapon increases to expert or beyond, you also gain that new proficiency with [[Equipment/Sawtooth Saber|Sawtooth Saber]].
+You have learned how to stalk your foes and slay them with a sawtooth saber. You become trained in Stealth and Assassin Lore; if you were already trained, you become an expert instead. Whenever your proficiency in any weapon increases to expert or beyond, you also gain that new proficiency with sawtooth sabers.
 
-* * *
+You become bound by Achaekek's anathema and can receive his sanctification.
 
-**Special** You cannot select another dedication feat until you have gained two other feats from the [[PF2e Journals/Archetypes/Red Mantis Assassin|Red Mantis Assassin]] archetype.
+[[PF2e Journals/Archetypes/Red Mantis Assassin|Red Mantis Assassin]]
 
-*Source: Pathfinder Lost Omens: World Guide*
-*OGL*
+*Source: Pathfinder Adventure: Prey for Death*
+*ORC*

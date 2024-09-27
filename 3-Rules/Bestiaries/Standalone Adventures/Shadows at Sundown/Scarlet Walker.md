@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/dream
   - pf2e/creature/type/evil
   - pf2e/creature/type/lawful
+  - pf2eMonster
   - pf2e/creature/level/12
 statblock: inline
 name: "Scarlet Walker"
@@ -23,21 +24,21 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Adventure: Shadows at Sundown"
 name: "Scarlet Walker"
 level: "Creature 12"
-rare_03: "Rare"
+rare_03: [[Rare]]
 alignment: ""
 size: "huge"
-trait_01: "aberration"
-trait_02: "dream"
-trait_03: "evil"
-trait_04: "lawful"
+trait_01: [[aberration]]
+trait_02: [[dream]]
+trait_03: [[evil]]
+trait_04: [[lawful]]
 modifier: 23
 perception:
   - name: "Perception"
     desc: "+23; Darkvision"
-languages: "Aklo, Diabolic"
+languages: "Aklo, Diabolic; telepathy 300 feet"
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +25, Arcana: +22, Athletics: +22, Blood Lore: +26, Intimidation: +23, Medicine: +23, Occultism: +24, Stealth: +25"
+    desc: "Acrobatics: +25, Arcana: +22, Athletics: +22, Intimidation: +23, Medicine: +23, Occultism: +24, Stealth: +25, Blood Lore: +26"
 abilityMods: [6, 7, 5, 4, 5, 4]
 speed: 30 feet,  climb 30 feet
 sourcebook: "_Pathfinder Adventure: Shadows at Sundown_"
@@ -59,7 +60,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Blood-Draining Gaze"
-    desc: " (aura,occult,visual) 20 feet. When a living, non-scarlet walker creature ends its turn in the aura, it must attempt a DC 29 Fortitude check save to prevent thin streams of blood from streaming from its eyes and into the eyeless pits in the scarlet walker's face. On a failed save, the victim becomes [[Conditions/Drained 1|Drained 1]] ([[Conditions/Drained 1|Drained 2]] on a critical failure) and [[Conditions/Sickened 1|Sickened 1]] from the pain."
+    desc: " (aura,occult,visual) 20 feet. When a living, non-scarlet walker creature ends its turn in the aura, it must attempt a DC 29 Fortitude check save to prevent thin streams of blood from streaming from its eyes and into the eyeless pits in the scarlet walker's face. On a failed save, the victim becomes [[Conditions/Drained|Drained 1]] ([[Conditions/Drained|Drained 2]] on a critical failure) and [[Conditions/Sickened|Sickened 1]] from the pain."
 
   - name: "No Breath"
     desc: "  The scarlet walker doesn't breathe and is immune to effects that require breathing (such as an inhaled poison)."
@@ -80,8 +81,14 @@ attacks:
     desc: "  The scarlet walker can fit through tight spaces as if it were a Medium creature. While Squeezing, it can move at its full Speed."
 
   - name: "Paralysis"
-    desc: " (incapacitation,occult) Any living, non-scarlet walker creature hit by a scarlet walker's tentacle Strike must attempt a DC 29 Fortitude check save.\n**Critical Success** The creature is unaffected.\n**Success** The creature is [[Conditions/Slowed 1|Slowed 1]] for 1 round.\n**Failure** The creature is [[Conditions/Paralyzed|Paralyzed]] for 1 round, and is then slowed 1 for 1 round after recovering.\n**Critical Failure** As failure, but the paralysis doesn't automatically end after 1 round. The creature can attempt a new save at the end of each of its turns, and the DC cumulatively decreases by 1 on each such save.\n_Note: A DC was not provided for this ability by Paizo. The DC present here is a moderate DC for the creature level according to the Gamemastery Guide creature building Tables._"
+    desc: " (incapacitation,occult) Any living, non-scarlet walker creature hit by a scarlet walker's tentacle Strike must attempt a DC 29 Fortitude check save.\n* * *\n\n**Critical Success** The creature is unaffected.\n\n**Success** The creature is [[Conditions/Slowed|Slowed 1]] for 1 round.\n\n**Failure** The creature is [[Conditions/Paralyzed|Paralyzed]] for 1 round, and is then slowed 1 for 1 round after recovering.\n\n**Critical Failure** As failure, but the paralysis doesn't automatically end after 1 round. The creature can attempt a new save at the end of each of its turns, and the DC cumulatively decreases by 1 on each such save.\n* * *\n\n_Note: A DC was not provided for this ability by Paizo. The DC present here is a moderate DC for the creature level according to the Gamemastery Guide creature building Tables._"
  
+```
+
+```encounter-table
+name: Scarlet Walker
+creatures:
+  - 1: Scarlet Walker
 ```
 
 

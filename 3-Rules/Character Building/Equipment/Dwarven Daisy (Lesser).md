@@ -16,7 +16,7 @@ license: OGL
 ---
 # Dwarven Daisy (Lesser)
 ## Item 1
-### [uncommon](uncommon "Uncommon Rarity Trait")[[alchemical]][[bomb]][[consumable]][[3-Rules/Rule References/Fire]][[splash]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[alchemical]][[bomb]][[consumable]][[3-Rules/Rule References/Fire]][[splash]]
 
 |  |  |
 | -- | -- |

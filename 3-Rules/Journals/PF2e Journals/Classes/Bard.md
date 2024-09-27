@@ -112,7 +112,7 @@ You gain these features as a Bard. Abilities gained at higher levels list the le
 | 6 | Bard feat, skill feat |
 | 7 | 4th-rank spells, expert spellcaster, general feat, skill increase |
 | 8 | Bard feat, skill feat |
-| 9 | 5th-rank spells, ancestry feat, fortitude expertise, performer’s heart, skill increase |
+| 9 | 5th-rank spells, ancestry feat, fortitude expertise, performer's heart, skill increase |
 | 10 | Attribute boosts, bard feat, skill feat |
 | 11 | 6th-rank spells, bard weapon expertise, general feat, skill increase, vigilant senses |
 | 12 | Bard feat, skill feat |
@@ -120,7 +120,7 @@ You gain these features as a Bard. Abilities gained at higher levels list the le
 | 14 | Bard feat, skill feat |
 | 15 | 8th-rank spells, attribute boosts, general feat, master spellcaster, skill increase |
 | 16 | Bard feat, skill feat |
-| 17 | 9th-rank spells, ancestry feat, greater performer’s heart, skill increase |
+| 17 | 9th-rank spells, ancestry feat, greater performer's heart, skill increase |
 | 18 | Bard feat, skill feat |
 | 19 | General feat, legendary spellcaster, magnum opus, skill increase |
 | 20 | Attribute boosts, bard feat, skill feat |
@@ -165,11 +165,11 @@ Some of your spells require you to attempt a spell attack to see how effective t
 
 ### **Heightening Spells**
 
-When you get spell slots of 2nd rank and higher, you can fill those slots with stronger versions of lower-rank spells. This increases the spell’s rank, heightening it to match the spell slot. You must have a spell in your spell repertoire at the rank you want to cast in order to heighten it to that rank. Many spells have specific improvements when they are heightened to certain ranks. The signature spells class feature lets you heighten certain spells freely.
+When you get spell slots of 2nd rank and higher, you can fill those slots with stronger versions of lower-rank spells. This increases the spell's rank, heightening it to match the spell slot. You must have a spell in your spell repertoire at the rank you want to cast in order to heighten it to that rank. Many spells have specific improvements when they are heightened to certain ranks. The signature spells class feature lets you heighten certain spells freely.
 
 ### **Cantrips**
 
-Some of your spells are cantrips. A cantrip is a special type of spell that doesn’t use spell slots. You can cast a cantrip at will, any number of times per day. A cantrip is automatically heightened to half your level rounded up—this is usually equal to the highest rank of bard spell slot you have. For example, as a 1st-level bard, your cantrips are 1st-rank spells, and as a 5th-level bard, your cantrips are 3rd-rank spells
+Some of your spells are cantrips. A cantrip is a special type of spell that doesn't use spell slots. You can cast a cantrip at will, any number of times per day. A cantrip is automatically heightened to half your level rounded up—this is usually equal to the highest rank of bard spell slot you have. For example, as a 1st-level bard, your cantrips are 1st-rank spells, and as a 5th-level bard, your cantrips are 3rd-rank spells
 
   
 
@@ -203,7 +203,7 @@ The collection of spells you can cast is called your spell repertoire. At 1st le
 
 You add to this spell repertoire as you increase in level. Each time you get a spell slot (see Table 3-6), you add a spell to your spell repertoire of the same rank. At 2nd level, you select another 1st-rank spell; at 3rd level, you select two 2nd-rank spells, and so on. When you add spells, you might add a higher-rank version of a spell you already have, so you can cast a heightened version of that spell.
 
-Though you gain them at the same rate, your spell slots and the spells in your spell repertoire are separate. If a feat or other ability adds a spell to your spell repertoire, it wouldn’t give you another spell slot, and vice versa.
+Though you gain them at the same rate, your spell slots and the spells in your spell repertoire are separate. If a feat or other ability adds a spell to your spell repertoire, it wouldn't give you another spell slot, and vice versa.
 
 ### **Swapping Spells in Your Repertoire**
 
@@ -223,17 +223,17 @@ At 3rd level and every 4 levels thereafter, you gain a general feat.
 
 ## Reflex ExpertiseLevel 3
 
-You’ve developed a knack for dodging danger. Your proficiency rank for Reflex saves increases to expert.
+You've developed a knack for dodging danger. Your proficiency rank for Reflex saves increases to expert.
 
 ## Signature SpellsLevel 3
 
-Experience allows you to cast some spells more flexibly. For each spell rank you have access to, choose one spell of that rank to be a signature spell. You don’t need to learn heightened versions of signature spells separately; instead, you can heighten these spells freely. If you’ve learned a signature spell at a higher rank than its minimum, you can also cast all its lower-rank versions without learning those separately. If you swap out a signature spell, you can choose a replacement signature spell of the same spell rank at which you learned the previous spell. You can also retrain specifically to change a signature spell to a different spell of that rank without swapping any spells; this takes as much time as retraining a spell normally does.
+Experience allows you to cast some spells more flexibly. For each spell rank you have access to, choose one spell of that rank to be a signature spell. You don't need to learn heightened versions of signature spells separately; instead, you can heighten these spells freely. If you've learned a signature spell at a higher rank than its minimum, you can also cast all its lower-rank versions without learning those separately. If you swap out a signature spell, you can choose a replacement signature spell of the same spell rank at which you learned the previous spell. You can also retrain specifically to change a signature spell to a different spell of that rank without swapping any spells; this takes as much time as retraining a spell normally does.
 
 ## Skill IncreasesLevel 3
 
-At 3rd level and every 2 levels thereafter, you gain a skill increase. You can use this increase to either become trained in one skill you’re untrained in or become an expert in one skill in which you’re already trained.
+At 3rd level and every 2 levels thereafter, you gain a skill increase. You can use this increase to either become trained in one skill you're untrained in or become an expert in one skill in which you're already trained.
 
-At 7th level, you can use skill increases to become a master in a skill in which you’re already an expert, and at 15th level, you can use them to become legendary in a skill in which you’re already a master.
+At 7th level, you can use skill increases to become a master in a skill in which you're already an expert, and at 15th level, you can use them to become legendary in a skill in which you're already a master.
 
 ## Attribute BoostsLevel 5
 
@@ -263,7 +263,7 @@ You have become thoroughly adept with bardic weapons. Your proficiency rank for 
 
 ## Perception MasteryLevel 11
 
-You’ve developed keen awareness and attention to detail. Your proficiency rank for Perception increases to master.
+You've developed keen awareness and attention to detail. Your proficiency rank for Perception increases to master.
 
 ## Light Armor ExpertiseLevel 13
 
@@ -287,4 +287,4 @@ Your command of magic is the stuff of legends. Your proficiency ranks for spell 
 
 ## Magnum OpusLevel 19
 
-You have tuned your spellcasting to the highest caliber. Add two common 10th-rank occult spells to your repertoire. You gain a single 10th-rank spell slot you can use to cast these spells using bard spellcasting. Unlike other spell slots, you can’t use 10th-rank slots with abilities that give you more spell slots or that let you cast spells without expending spell slots. You don’t gain more 10th-rank spells as you level up, but you can take the Perfect Encore feat to gain a second slot.
+You have tuned your spellcasting to the highest caliber. Add two common 10th-rank occult spells to your repertoire. You gain a single 10th-rank spell slot you can use to cast these spells using bard spellcasting. Unlike other spell slots, you can't use 10th-rank slots with abilities that give you more spell slots or that let you cast spells without expending spell slots. You don't gain more 10th-rank spells as you level up, but you can take the Perfect Encore feat to gain a second slot.

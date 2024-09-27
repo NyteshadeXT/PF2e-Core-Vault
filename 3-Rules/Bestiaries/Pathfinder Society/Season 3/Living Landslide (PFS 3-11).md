@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.pfs-season-3-bestiary.Actor.aICR8DJ80nD1rOM0"
 tags:
   - pf2e/creature/type/earth
   - pf2e/creature/type/elemental
+  - pf2eMonster
   - pf2e/creature/level/5
 statblock: inline
 name: "Living Landslide (PFS 3-11)"
@@ -24,8 +25,8 @@ level: "Creature 5"
 
 alignment: ""
 size: "Small"
-trait_01: "earth"
-trait_02: "elemental"
+trait_01: [[earth]]
+trait_02: [[elemental]]
 modifier: 12
 perception:
   - name: "Perception"
@@ -50,12 +51,12 @@ abilities_top:
   - name: ""
 
   - name: "Earthbound"
-    desc: "  When not touching solid ground, the living landslide is [[Conditions/Slowed 1|Slowed 1]] and can't use reactions."
+    desc: "  When not touching solid ground, the living landslide is [[Conditions/Slowed|Slowed 1]] and can't use reactions."
 
 abilities_mid:
   - name: ""
   - name: "Crumble"
-    desc: "`pf2:r`  **Trigger** The living landslide takes damage from a hostile source while atop rock or earth.\n**Effect** The living landslide crumbles into the ground, Burrowing down 10 feet. This Burrowing does not trigger reactions.\nThe living landslide can't Crumble again for 1d4 rounds."
+    desc: "`pf2:r`  **Trigger** The living landslide takes damage from a hostile source while atop rock or earth.\n* * *\n\n**Effect** The living landslide crumbles into the ground, Burrowing down 10 feet. This Burrowing does not trigger reactions.\n\nThe living landslide can't Crumble again for 1d4 rounds."
 
 attacks:
   - name: ""
@@ -66,6 +67,12 @@ attacks:
   - name: "Earth Glide"
     desc: "  The living landslide can Burrow through any earthen matter, including rock. When it does so, the living landslide moves at its full burrow Speed, leaving no tunnels or signs of its passing."
  
+```
+
+```encounter-table
+name: Living Landslide (PFS 3-11)
+creatures:
+  - 1: Living Landslide (PFS 3-11)
 ```
 
 

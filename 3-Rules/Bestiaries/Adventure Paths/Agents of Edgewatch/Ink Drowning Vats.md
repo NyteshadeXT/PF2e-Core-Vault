@@ -4,6 +4,7 @@ obsidianUIMode: preview
 noteType: pf2eHazard
 tags:
   - mechanical
+  - pf2eHazard
   - complex
 source: Pathfinder #161: Belly of the Black Whale
 aliases: "Compendium.pf2e.agents-of-edgewatch-bestiary.Actor.b7AnzEzoMGFpM33z" 
@@ -21,13 +22,13 @@ name: "Ink Drowning Vats"
 level: "Hazard 18"
 
 trait_06: "Complex"
-trait_01: "mechanical"
+trait_01: [[mechanical]]
 modifier: 36
 sourcebook: "_Pathfinder #161: Belly of the Black Whale_"
 ac: 39
 armorclass:
   - name: AC
-    desc: "39; __Fort__ +30, __Ref__ +27, __Will__ +0"
+    desc: "39; __Fort__ +30, __Ref__ +27, "
 hp: 112
 health:
   - name: ""
@@ -49,14 +50,20 @@ attacks:
   - name: ""
 
   - name: "Fill Tank"
-    desc: "`pf2:r` **Trigger** The switch outside the vats is pulled\n**Effect** The trap rolls initiative."
+    desc: "`pf2:r` **Trigger** The switch outside the vats is pulled\n* * *\n\n**Effect** The trap rolls initiative."
 
   - name: "Poison Ink"
-    desc: "passive (poison) **Saving Throw** DC 38 Fortitude check\n**Maximum Duration** 10 rounds\n**Stage 1** 3d6 poison damage and sickened 1 (1 round)\n**Stage 2** 4d6 poison damage and sickened 2 (1 round)"
+    desc: "passive (poison) **Saving Throw** DC 38 Fortitude check\n\n**Maximum Duration** 10 rounds\n\n**Stage 1** 3d6 poison damage and sickened 1 (1 round)\n\n**Stage 2** 4d6 poison damage and sickened 2 (1 round)"
 
   - name: "Routine"
     desc: "(4 actions) The trap loses 1 action for each disabled ink spout. On each of the trap's actions, a spout pours ink, increasing the depth of the ink in that vat by 2 feet. Creatures standing in the ink are exposed to a dose of poison ink. Once the vat is full of ink, the trap stops using actions, but creatures in the vat might start drowning."
   - name: "Reset"
     desc: "The trap can be reset by refilling the ink storage tanks above the vats."
+```
+
+```encounter-table
+name: Ink Drowning Vats
+creatures:
+  - 1: Ink Drowning Vats
 ```
 

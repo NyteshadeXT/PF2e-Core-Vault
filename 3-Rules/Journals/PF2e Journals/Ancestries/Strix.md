@@ -42,7 +42,7 @@ A long history of conflict with the nearby nation of Cheliax as bred into most s
 
 ## Alignment and Religion
 
-Due to their deep respect for the rules of a functioning society, strix are rarely chaotic, but some may be flexible on adopting the rules of outside societies. Strix are typically nonreligious and instead use stories from an epic known as the Korrsat Akra, or “The Scattered Nest,” to tell them of their origins and give them direction on their current place in the world. They have a deep investment in the lives of their fellows and experience intense grief at their passing. Pharasma is a common influence among religious strix due to the popularity of religious and spiritual practices honoring the lives and deaths in their beloved community. Gozreh is also an everyday influence for many strix, who beseech the Wind and the Waves to give them satisfying tailwinds for flight and protect their kin when the sky turns dark with fury. Erastil and even Torag represent two versions of social order and may be unifying deities across entire tribes.
+Due to their deep respect for the rules of a functioning society, strix are rarely chaotic, but some may be flexible on adopting the rules of outside societies. Strix are typically nonreligious and instead use stories from an epic known as the Korrsat Akra, or "The Scattered Nest," to tell them of their origins and give them direction on their current place in the world. They have a deep investment in the lives of their fellows and experience intense grief at their passing. Pharasma is a common influence among religious strix due to the popularity of religious and spiritual practices honoring the lives and deaths in their beloved community. Gozreh is also an everyday influence for many strix, who beseech the Wind and the Waves to give them satisfying tailwinds for flight and protect their kin when the sky turns dark with fury. Erastil and even Torag represent two versions of social order and may be unifying deities across entire tribes.
 
 ## Names
 
@@ -68,7 +68,7 @@ Chiit-iir, Cicreeti, Ikatarii, Irkoata, Kaata, Kiilo, Kirii, Rahka, Roatatwiil, 
 
 **Senses** Low-Light Vision
 
-**Wings** All strix possess powerful wings. While not all strix focus on honing their flying skills, a strong flap of their wings allows strix to travel longer distances when jumping. When Leaping horizontally, you move an additional 5 feet. You don't automatically fail your checks to High Jump or Long Jump if you don't Stride at least 10 feet first. In addition, when you make a Long Jump, you can jump a distance up to 10 feet further than your Athletics check result, though still with the normal maximum of your Speed.
+**Wings** All strix possess powerful wings. While not all strix focus on honing their flying skills, a strong flap of their wings allows strix to travel longer distances when jumping. When Leaping horizontally, you move an additional 5 feet. You don't automatically fail your checks to High Jump or Long Jump if you don't Stride at least 10 feet first. In addition, when you make a Long Jump, you can jump a distance up to 10 feet further than your Athletics check result, though still with the normal maximum of your Speed. Additionally, you take no damage from falling, no matter what distance you fall.
 
 ## Strix Heritages
 

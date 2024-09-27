@@ -11,6 +11,7 @@ tags:
   - pf2e/creature/type/human
   - pf2e/creature/type/humanoid
   - pf2e/creature/type/unholy
+  - pf2eMonster
   - pf2e/creature/level/13
 statblock: inline
 name: "The First Faithful"
@@ -25,15 +26,15 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Kingmaker"
 name: "The First Faithful"
 level: "Creature 13"
-rare_03: "Rare"
+rare_03: [[Rare]]
 alignment: ""
 size: "Medium"
-trait_01: "chaotic"
-trait_02: "evil"
-trait_03: "fiend"
-trait_04: "human"
-trait_05: "humanoid"
-trait_06: "unholy"
+trait_01: [[chaotic]]
+trait_02: [[evil]]
+trait_03: [[fiend]]
+trait_04: [[human]]
+trait_05: [[humanoid]]
+trait_06: [[unholy]]
 modifier: 24
 perception:
   - name: "Perception"
@@ -61,7 +62,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "[[Bestiary Ability Glossary/Attack of Opportunity|Attack of Opportunity (Worm Jaws Only)]]"
-    desc: "`pf2:r`  Worm jaws only.\n"
+    desc: "`pf2:r`  Worm jaws only.\n\n* * *\n"
 
 attacks:
   - name: ""
@@ -79,11 +80,17 @@ attacks:
     desc: "_[[Spells/Incarnate Ancestry|Incarnate Ancestry]]_, _[[Spells/Binding Circle|Planar Binding]]_"
 
   - name: "Refocus Curse"
-    desc: "`pf2:1` (divine) **Frequency** only once\n**Effect** The First Faithful stretches out his hands toward a single PC within 60 feet, focusing a swirling beam of phantasmal worms and pale light to strike that PC. This immediately ends the Curse Countdown and saves any other targets from its effects, but the targeted PC must immediately attempt a Will save to resist the curse's effects. The DC of this save is equal to 27 minus the Curse Countdown's current value."
+    desc: "`pf2:1` (divine) **Frequency** only once\n* * *\n\n**Effect** The First Faithful stretches out his hands toward a single PC within 60 feet, focusing a swirling beam of phantasmal worms and pale light to strike that PC. This immediately ends the Curse Countdown and saves any other targets from its effects, but the targeted PC must immediately attempt a Will save to resist the curse's effects. The DC of this save is equal to 27 minus the Curse Countdown's current value."
 
   - name: "Release the Inmost Worm"
-    desc: "`pf2:2` (mental,occult) The First Faithful makes fists with both hands, pressing them to their temples so that their outward pointing thumbs extend to the left and right while they cry out in painful religious rapture. The hourglass-shaped scar on their forehead bulges briefly before a bloody worm is expelled from the center of the scar. This worm shoots through the air to target two creatures within 30 feet, who must then attempt a DC 34 Fortitude check save. The First Faithful can't Release the Inmost Worm again for 1d4 rounds.\n**Critical Success** The target is unaffected.\n**Success** The worm lands on the target and causes agonizing pain before dropping to the floor and fading away. The target takes 3d6 mental damage.\n**Failure** The worm lands on the target and burrows into their flesh, leaving no trace of a hole. The target seems to age rapidly for a moment, takes 6d6 mental damage, and is [[Conditions/Stupefied 1|Stupefied 1]] for 1 round before the pain fades and the target returns to its actual age.\n**Critical Failure** As failure, but the target also takes 6d6 persistent mental damage. The target remains stupefied 1 as long as the mental damage persists, during which they appear to be aging rapidly. Once the persistent damage ends, the target's appearance reverts to normal."
+    desc: "`pf2:2` (mental,occult) The First Faithful makes fists with both hands, pressing them to their temples so that their outward pointing thumbs extend to the left and right while they cry out in painful religious rapture. The hourglass-shaped scar on their forehead bulges briefly before a bloody worm is expelled from the center of the scar. This worm shoots through the air to target two creatures within 30 feet, who must then attempt a DC 34 Fortitude check save. The First Faithful can't Release the Inmost Worm again for 1d4 rounds.\n* * *\n\n**Critical Success** The target is unaffected.\n\n**Success** The worm lands on the target and causes agonizing pain before dropping to the floor and fading away. The target takes 3d6 mental damage.\n\n**Failure** The worm lands on the target and burrows into their flesh, leaving no trace of a hole. The target seems to age rapidly for a moment, takes 6d6 mental damage, and is [[Conditions/Stupefied|Stupefied 1]] for 1 round before the pain fades and the target returns to its actual age.\n\n**Critical Failure** As failure, but the target also takes 6d6 persistent mental damage. The target remains stupefied 1 as long as the mental damage persists, during which they appear to be aging rapidly. Once the persistent damage ends, the target's appearance reverts to normal."
  
+```
+
+```encounter-table
+name: The First Faithful
+creatures:
+  - 1: The First Faithful
 ```
 
 

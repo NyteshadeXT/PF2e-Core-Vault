@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/fey
   - pf2e/creature/type/gremlin
   - pf2e/creature/type/lawful
+  - pf2eMonster
   - pf2e/creature/level/-1
 statblock: inline
 name: "Mitflit (PFS 1-02)"
@@ -26,10 +27,10 @@ level: "Creature -1"
 
 alignment: ""
 size: "Small"
-trait_01: "evil"
-trait_02: "fey"
-trait_03: "gremlin"
-trait_04: "lawful"
+trait_01: [[evil]]
+trait_02: [[fey]]
+trait_03: [[gremlin]]
+trait_04: [[lawful]]
 modifier: 4
 perception:
   - name: "Perception"
@@ -37,7 +38,7 @@ perception:
 languages: "Sakvroth"
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +5, Diplomacy: +1 (+7 vs. arthropods), Nature: +3, Stealth: +5, Thievery: +5"
+    desc: "Acrobatics: +5, Diplomacy: +1, Nature: +3, Stealth: +5, Thievery: +5"
 abilityMods: [-1, 3, 0, -1, 1, -1]
 speed: 20 feet,  climb 20 feet
 sourcebook: "_Pathfinder Society Scenario #1-02: The Mosquito Witch_"
@@ -78,8 +79,14 @@ attacks:
     desc: "  The mitflit sneak deals an extra 1d6 precision damage to [[Conditions/Off-Guard|Off-Guard]] creatures."
 
   - name: "Vengeful Anger"
-    desc: " (emotion,mental) As long as it isn't [[Conditions/Frightened 1|Frightened]], a mitflit gains a +2 status bonus to damage rolls against a creature that has previously damaged or tormented it."
+    desc: " (emotion,mental) As long as it isn't [[Conditions/Frightened|Frightened]], a mitflit gains a +2 status bonus to damage rolls against a creature that has previously damaged or tormented it."
  
+```
+
+```encounter-table
+name: Mitflit (PFS 1-02)
+creatures:
+  - 1: Mitflit (PFS 1-02)
 ```
 
 

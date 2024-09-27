@@ -13,7 +13,7 @@ license: OGL
 ---
 # Big Rock Bullet (Greater)
 ## Item 11
-### [uncommon](uncommon "Uncommon Rarity Trait")[[consumable]][[Earth]][[magical]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[consumable]][[3-Rules/trait_reference/earth]][[3-Rules/Rule References/Magical]]
 
 **Category** ammo; 
 **Price** 250 gp; 

@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/fiend
   - pf2e/creature/type/qlippoth
   - pf2e/creature/type/unholy
+  - pf2eMonster
   - pf2e/creature/level/11
   - remaster
 statblock: inline
@@ -20,15 +21,16 @@ license: ORC
 columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
+token: [[modules/pf2e-tokens-monster-core/assets/portraits/qlippoth-gongorinan.webp| ]]
 source: "Pathfinder Monster Core"
 name: "Gongorinan"
 level: "Creature 11"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Medium"
-trait_01: "fiend"
-trait_02: "qlippoth"
-trait_03: "unholy"
+trait_01: [[fiend]]
+trait_02: [[qlippoth]]
+trait_03: [[unholy]]
 modifier: 20
 perception:
   - name: "Perception"
@@ -71,13 +73,13 @@ attacks:
     desc: "`pf2:1` Stinger +23 (magical, unholy)\n__Damage__  2d6 + 9 piercing plus gongorinan-venom"
 
   - name: "Occult Innate Spells"
-    desc: "DC 0, attack +0; __6th __  _[[Spells/Cursed Metamorphosis|Cursed Metamorphosis]]_, _[[Spells/Petrify|Petrify]]_; __3rd __  _[[Spells/One with Stone|One with Stone (At Will)]]_\n__Constant__  __(4th)__ _[[Spells/Unfettered Movement|Unfettered Movement]]_"
+    desc: "DC 30, attack +22; __6th __  _[[Spells/Cursed Metamorphosis|Cursed Metamorphosis]]_, _[[Spells/Petrify|Petrify]]_; __3rd __  _[[Spells/One with Stone|One with Stone (At Will)]]_\n__Constant__  __(4th)__ _[[Spells/Unfettered Movement|Unfettered Movement]]_"
 
   - name: "Disquieting Display"
-    desc: "`pf2:2` (concentrate,mental,occult,visual) The gongorinan opens its maw to reveal the forms [[Conditions/Hidden|Hidden]] there, making observers question their own bodies. Creatures in a 30-foot emanation must attempt a DC 30 Will check save, after which they are temporarily immune to further Disquieting Displays for 1 minute.\n* * *\n\n**Critical Success** The creature is unaffected.\n\n**Success** The creature is [[Conditions/Clumsy 1|Clumsy 1]] for 1 round.\n\n**Failure** The creature is [[Conditions/Clumsy 1|Clumsy 2]] and [[Conditions/Slowed 1|Slowed 1]] for 1 round.\n\n**Critical Failure** As failure, but for 1 minute."
+    desc: "`pf2:2` (concentrate,mental,occult,visual) The gongorinan opens its maw to reveal the forms [[Conditions/Hidden|Hidden]] there, making observers question their own bodies. Creatures in a @Template[emanation|distance:30] must attempt a DC 30 Will check save, after which they are temporarily immune to further Disquieting Displays for 1 minute.\n* * *\n\n**Critical Success** The creature is unaffected.\n\n**Success** The creature is [[Conditions/Clumsy|Clumsy 1]] for 1 round.\n\n**Failure** The creature is [[Conditions/Clumsy|Clumsy 2]] and [[Conditions/Slowed|Slowed 1]] for 1 round.\n\n**Critical Failure** As failure, but for 1 minute."
 
   - name: "Gongorinan Venom"
-    desc: " (poison,polymorph) **Saving Throw** DC 30 Fortitude check\n* * *\n\n**Stage 1** [[Conditions/Stupefied 1|Stupefied 1]] and cosmetic signs appear of turning into an animal, fungus, or plant (1 round)\n\n**Stage 2** [[Conditions/Stupefied 1|Stupefied 2]] and [[Conditions/Clumsy 1|Clumsy 2]] (1 round)\n\n**Stage 3** [[Conditions/Stupefied 1|Stupefied 4]] and [[Conditions/Clumsy 1|Clumsy 4]] (1 round)\n\n**Stage 4** [[Conditions/Paralyzed|Paralyzed]] as changes completely overtake the body (1 round)\n\n**Stage 5** the victim permanently transforms into an animal, fungus, or plant in mind and body as a permanent curse, and the affliction ends"
+    desc: " (poison,polymorph) **Saving Throw** DC 30 Fortitude check\n* * *\n\n**Stage 1** [[Conditions/Stupefied|Stupefied 1]] and cosmetic signs appear of turning into an animal, fungus, or plant (1 round)\n\n**Stage 2** [[Conditions/Stupefied|Stupefied 2]] and [[Conditions/Clumsy|Clumsy 2]] (1 round)\n\n**Stage 3** [[Conditions/Stupefied|Stupefied 4]] and [[Conditions/Clumsy|Clumsy 4]] (1 round)\n\n**Stage 4** [[Conditions/Paralyzed|Paralyzed]] as changes completely overtake the body (1 round)\n\n**Stage 5** the victim permanently transforms into an animal, fungus, or plant in mind and body as a permanent curse, and the affliction ends"
 
   - name: "Painful Limbs"
     desc: "`pf2:2`  The gongorinan makes up to four Strikes against different targets, each using a different limb. All four Strikes count toward its multiple attack penalty, but the penalty doesn't increase until after the gongorinan has made all the attacks."
@@ -88,6 +90,12 @@ attacks:
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
     desc: "`pf2:1`  "
  
+```
+
+```encounter-table
+name: Gongorinan
+creatures:
+  - 1: Gongorinan
 ```
 
 

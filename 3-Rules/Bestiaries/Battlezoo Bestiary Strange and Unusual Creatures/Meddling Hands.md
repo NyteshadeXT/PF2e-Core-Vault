@@ -7,6 +7,7 @@ aliases: "Compendium.battlezoo-bestiary-su-pf2e.pf2e-battlezoo-su-actors.Actor.B
 tags:
   - pf2e/creature/type/aberration
   - pf2e/creature/type/chaotic
+  - pf2eMonster
   - pf2e/creature/level/13
 statblock: inline
 name: "Meddling Hands"
@@ -22,18 +23,19 @@ token: [[modules/battlezoo-bestiary-su-pf2e/art/Portraits/meddling-hands.webp| ]
 source: "Battlezoo Bestiary: Strange and Unusual"
 name: "Meddling Hands"
 level: "Creature 13"
-rare_03: "Rare"
+rare_03: [[Rare]]
 alignment: ""
 size: "Large"
-trait_01: "aberration"
-trait_02: "chaotic"
+trait_01: [[aberration]]
+trait_02: [[chaotic]]
 modifier: 20
 perception:
   - name: "Perception"
     desc: "+20; "
+languages: ""
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +24, Athletics: +27, Crafting: +24, Medicine: +24, Stealth: +24, Thievery: +27, "
+    desc: "Acrobatics: +24, Athletics: +27, Crafting: +24, Medicine: +24, Stealth: +24, Thievery: +27, Acrobatics: +24, Athletics: +27, Crafting: +24, Medicine: +24, Stealth: +24, Thievery: +27"
 abilityMods: [8, 9, 5, 8, 2, 0]
 speed: 25 feet
 sourcebook: "_Battlezoo Bestiary: Strange and Unusual_"
@@ -52,7 +54,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Delicate Fingers"
-    desc: "  While the hands of thieves and spies grant the meddling hands exceptional agility and fine manipulation, it leaves the creature uniquely vulnerable to extreme temperatures. Whenever the meddling hands takes cold damage, in addition to any other effects of the attack, it becomes Clumsy 1 for 1 round."
+    desc: "  While the hands of thieves and spies grant the meddling hands exceptional agility and fine manipulation, it leaves the creature uniquely vulnerable to extreme temperatures. Whenever the meddling hands takes cold damage, in addition to any other effects of the attack, it becomes [[undefined]] for 1 round."
 
 attacks:
   - name: ""
@@ -64,20 +66,26 @@ attacks:
     desc: "`pf2:1` Finger Dart +27 (agile, range 30 feet)\n__Damage__  3d6 + 12 piercing"
 
   - name: "Deep Pockets"
-    desc: "`pf2:1` (divine,extradimensional) The meddling hands Interacts to place one held object into an interdimensional pocket deep inside its teeming mass. This space functions as a Bag of Holding (Type I). It can remove an object by using this ability again. The Deep Pocket disgorges its contents into an adjacent square when the meddling hands dies."
+    desc: "`pf2:1` (divine,extradimensional) The meddling hands Interacts to place one held object into an interdimensional pocket deep inside its teeming mass. This space functions as a [[Equipment/Spacious Pouch (Type I)|Bag of Holding (Type I)]]. It can remove an object by using this ability again. The Deep Pocket disgorges its contents into an adjacent square when the meddling hands dies."
 
   - name: "Disable Organ"
-    desc: "`pf2:1` (manipulate) The meddling hands strikes a nerve cluster, liver, or other vital organ on a living creature within reach, choosing to inflict either the clumsy, enfeebled, or stupefied condition. The meddling hands attempts a Thievery check against the target's Fortitude DC.\n**Critical Success** The target suffers the meddling hands's choice of clumsy, enfeebled, or Stupefied 2 for 1 minute. A successful DC 32 Medicine check check to Administer First Aid removes the condition.\n**Success** As critical success, but the condition only lasts for 1 round.\n**Failure** The target is unaffected.\n**Critical Failure** The target is unaffected, and the meddling hands is Off-Guard until the beginning of its next turn."
+    desc: "`pf2:1` (manipulate) The meddling hands strikes a nerve cluster, liver, or other vital organ on a living creature within reach, choosing to inflict either the clumsy, enfeebled, or stupefied condition. The meddling hands attempts a Thievery check against the target's Fortitude DC.\n* * *\n\n**Critical Success** The target suffers the meddling hands's choice of clumsy, enfeebled, or [[undefined]] for 1 minute. A successful DC 32 Medicine check check to Administer First Aid removes the condition.\n\n**Success** As critical success, but the condition only lasts for 1 round.\n\n**Failure** The target is unaffected.\n\n**Critical Failure** The target is unaffected, and the meddling hands is [[undefined]] until the beginning of its next turn."
 
   - name: "Make Light Work"
-    desc: "`pf2:2`  The meddling hands performs any three of the following five actions once each: Battle Medicine, Pick a Lock, Steal, Trip, or Tumble Through. The actions combined take only the two actions spent to Make Light Work, even if they would normally take longer to complete. When using the Steal action, a meddling hands can attempt to Steal even during combat or while the target is on guard."
+    desc: "`pf2:2`  The meddling hands performs any three of the following five actions once each: [[Feats/Battle Medicine|Battle Medicine]], [[Actions/Pick a Lock|Pick a Lock]], [[undefined]], [[undefined]], or [[undefined]]. The actions combined take only the two actions spent to Make Light Work, even if they would normally take longer to complete. When using the Steal action, a meddling hands can attempt to Steal even during combat or while the target is on guard."
 
   - name: "Many Hands"
     desc: "`pf2:2`  The meddling hands makes fist attacks against all creatures within its reach. These attacks count toward its multiple attack penalty, but it doesn't suffer the penalty until after the attacks have been made."
 
   - name: "Uncanny Theft"
-    desc: "`pf2:1`  **Requirements** The meddling hands' last action this turn was a successful fist attack against an opponent\n**Effect** The meddling hands attempts a Thievery check to Steal an object from the creature it hit with its fist. The meddling hands can attempt this Thievery check even though it's in combat and the target is on guard. If its fist attack was a critical success, it can choose to Steal an item held by the target, such as a weapon or shield, albeit with a –5 penalty to the check."
+    desc: "`pf2:1`  **Requirements** The meddling hands' last action this turn was a successful fist attack against an opponent\n* * *\n\n**Effect** The meddling hands attempts a Thievery check to [[undefined]] an object from the creature it hit with its fist. The meddling hands can attempt this Thievery check even though it's in combat and the target is on guard. If its fist attack was a critical success, it can choose to Steal an item held by the target, such as a weapon or shield, albeit with a –5 penalty to the check."
  
+```
+
+```encounter-table
+name: Meddling Hands
+creatures:
+  - 1: Meddling Hands
 ```
 
 

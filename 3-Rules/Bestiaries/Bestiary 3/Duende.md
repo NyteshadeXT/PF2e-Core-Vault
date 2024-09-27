@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/chaotic
   - pf2e/creature/type/earth
   - pf2e/creature/type/fey
+  - pf2eMonster
   - pf2e/creature/level/2
 statblock: inline
 name: "Duende"
@@ -23,12 +24,12 @@ token: [[modules/pf2e-tokens-bestiaries/portraits/fey/duende.webp| ]]
 source: "Pathfinder Bestiary 3"
 name: "Duende"
 level: "Creature 2"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Small"
-trait_01: "chaotic"
-trait_02: "earth"
-trait_03: "fey"
+trait_01: [[chaotic]]
+trait_02: [[earth]]
+trait_03: [[fey]]
 modifier: 7
 perception:
   - name: "Perception"
@@ -36,7 +37,7 @@ perception:
 languages: "Fey, Gnomish, Sakvroth"
 skills:
   - name: "Skills"
-    desc: "Farming Lore: +7, Intimidation: +8, Labor Lore: +7, Society: +7, Survival: +9"
+    desc: "Intimidation: +8, Society: +7, Survival: +9, Farming Lore: +7, Labor Lore: +7"
 abilityMods: [1, 3, 2, 1, 3, 4]
 speed: 25 feet
 sourcebook: "_Pathfinder Bestiary 3_"
@@ -65,11 +66,17 @@ attacks:
     desc: "DC 18, attack +10; __3rd __  _[[Spells/Locate|Locate]]_; __2nd __  _[[Spells/Invisibility|Invisibility (Self Only)]]_; __1st __  _[[Spells/Fear|Fear]]_, _[[Spells/Phantom Pain|Phantom Pain]]_\n__Cantrips__  __(1st)__ _[[Spells/Daze|Daze]]_, _[[Spells/Guidance|Guidance]]_, _[[Spells/Telekinetic Projectile|Telekinetic Projectile]]_"
 
   - name: "Earthmound Dweller"
-    desc: "`pf2:3` (primal) The duende shrinks to the size of an ant, allowing them to enter very small tunnels within the earth such as anthills or termite mounds. Their Speed decreases to 5 feet. They can remain in this size until they end the effect by spending a single action, which has the concentrate trait.\nIf the duende is underground and a creature hits the space they're occupying with a Strike (hitting automatically) that deals 5 damage or more, the duende is expelled from the tunnels, returns to their normal size, and takes bludgeoning damage equal to the damage from the Strike."
+    desc: "`pf2:3` (primal) The duende shrinks to the size of an ant, allowing them to enter very small tunnels within the earth such as anthills or termite mounds. Their Speed decreases to 5 feet. They can remain in this size until they end the effect by spending a single action, which has the concentrate trait.\n\nIf the duende is underground and a creature hits the space they're occupying with a Strike (hitting automatically) that deals 5 damage or more, the duende is expelled from the tunnels, returns to their normal size, and takes bludgeoning damage equal to the damage from the Strike."
 
   - name: "Fool's Gold"
-    desc: "`pf2:2` (illusion,occult) **Frequency** once per day\n**Requirements** The duende is holding brown or yellow earthen objects, such as ginger or animal dung\n**Effect** The duende makes the objects look, feel, and smell like gold trinkets of a similar size. A creature that touches or Interacts with an affected object can attempt a DC 18 Perception check check to disbelieve the illusion, and a successful DC 20 check with DC 18 Crafting check or an appropriate Lore skill (such as Mining Lore) reveals their true nature. The effect ends if the objects are exposed to sunlight."
+    desc: "`pf2:2` (illusion,occult) **Frequency** once per day\n\n**Requirements** The duende is holding brown or yellow earthen objects, such as ginger or animal dung\n* * *\n\n**Effect** The duende makes the objects look, feel, and smell like gold trinkets of a similar size. A creature that touches or Interacts with an affected object can attempt a DC 18 Perception check check to disbelieve the illusion, and a successful DC 20 check with DC 18 Crafting check or an appropriate Lore skill (such as Mining Lore) reveals their true nature. The effect ends if the objects are exposed to sunlight."
  
+```
+
+```encounter-table
+name: Duende
+creatures:
+  - 1: Duende
 ```
 
 

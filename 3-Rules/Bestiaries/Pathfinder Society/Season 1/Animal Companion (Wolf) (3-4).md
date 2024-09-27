@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.pfs-season-1-bestiary.Actor.9KauvSo8zxsaBWRc"
 tags:
   - pf2e/creature/type/animal
   - pf2e/creature/type/minion
+  - pf2eMonster
   - pf2e/creature/level/0
 statblock: inline
 name: "Animal Companion (Wolf) (3-4)"
@@ -24,12 +25,13 @@ level: "Creature 0"
 
 alignment: ""
 size: "Small"
-trait_01: "animal"
-trait_02: "minion"
+trait_01: [[animal]]
+trait_02: [[minion]]
 modifier: 4
 perception:
   - name: "Perception"
     desc: "+4; Low-Light Vision"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Acrobatics: +6, Athletics: +5, Survival: +4"
@@ -59,6 +61,12 @@ attacks:
   - name: "Support"
     desc: "`pf2:1`  The animal companion supports its druid master, tearing tendons with each opening. Until the start of the druid's next turn, any Strikes that damage targets that the animal companion threatens give the target a -5-foot status penalty to its Speeds for 1 minute (-10 on a critical success). While using Support, the only other actions an Animal Companion can use on its turn are movement actions to get into position. If an Animal Companion has used any other actions on its turn, it cannot Support its master."
  
+```
+
+```encounter-table
+name: Animal Companion (Wolf) (3-4)
+creatures:
+  - 1: Animal Companion (Wolf) (3-4)
 ```
 
 

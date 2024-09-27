@@ -6,6 +6,7 @@ cssClasses: pf2e
 aliases: "Compendium.pf2e.pathfinder-bestiary-3.Actor.sgZGrUQrfH3QPdXF" 
 tags:
   - pf2e/creature/type/astral
+  - pf2eMonster
   - pf2e/creature/level/7
 statblock: inline
 name: "Caulborn"
@@ -21,15 +22,15 @@ token: [[modules/pf2e-tokens-bestiaries/portraits/planar/astral/caulborn.webp| ]
 source: "Pathfinder Bestiary 3"
 name: "Caulborn"
 level: "Creature 7"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Medium"
-trait_01: "astral"
+trait_01: [[astral]]
 modifier: 18
 perception:
   - name: "Perception"
     desc: "+18; Thoughtsense (Precise) 120 Feet"
-languages: "Aklo, Chthonian, Common, Daemonic, Diabolic, Draconic, Empyrean, Protean, Requian, Utopian"
+languages: "Aklo, Chthonian, Common, Daemonic, Diabolic, Draconic, Empyrean, Protean, Requian, Utopian; telepathy 100 feet"
 skills:
   - name: "Skills"
     desc: "Arcana: +17, Deception: +15, Intimidation: +15, Nature: +16, Occultism: +19, Religion: +14, Society: +17"
@@ -66,11 +67,17 @@ attacks:
     desc: "DC 25, attack +17; __7th __  _[[Spells/Interplanar Teleport|Plane Shift (Self Only)]]_; __4th __  _[[Spells/Charm|Charm]]_, _[[Spells/Vampiric Feast|Vampiric Touch (x2)]]_; __3rd __  _[[Spells/Hypnotize|Hypnotic Pattern]]_, _[[Spells/Mind Reading|Mind Reading (x3)]]_, _[[Spells/Paralyze|Paralyze]]_\n__Cantrips__  __(4th)__ _[[Spells/Daze|Daze]]_, _[[Spells/Detect Magic|Detect Magic]]_, _[[Spells/Read Aura|Read Aura]]_, _[[Spells/Shield|Shield]]_"
 
   - name: "Consume Thoughts"
-    desc: "`pf2:1` (mental) **Requirements** The caulborn's last action was a successful hand Strike\n**Effect** The caulborn steals some of the psychic energy from the creature it hit. The target must attempt a DC 25 Will check save; regardless of the outcome, the creature is temporarily immune to Consume Thoughts for 1 minute.\n**Success** The target is unaffected.\n**Failure** The target becomes [[Conditions/Stupefied 1|Stupefied 2]] for 1 minute, and the caulborn regains 1d12 Hit Points.\n**Critical Failure** As failure, but the target is [[Conditions/Stupefied 1|Stupefied 3]] for 1 minute and the caulborn regains 2d12 Hit Points. If the target was already stupefied when the caulborn used this ability, the target is also [[Conditions/Confused|Confused]] for 1 round."
+    desc: "`pf2:1` (mental) **Requirements** The caulborn's last action was a successful hand Strike\n* * *\n\n**Effect** The caulborn steals some of the psychic energy from the creature it hit. The target must attempt a DC 25 Will check save; regardless of the outcome, the creature is temporarily immune to Consume Thoughts for 1 minute.\n* * *\n\n**Success** The target is unaffected.\n\n**Failure** The target becomes [[Conditions/Stupefied|Stupefied 2]] for 1 minute, and the caulborn regains 1d12 Hit Points.\n\n**Critical Failure** As failure, but the target is [[Conditions/Stupefied|Stupefied 3]] for 1 minute and the caulborn regains 2d12 Hit Points. If the target was already stupefied when the caulborn used this ability, the target is also [[Conditions/Confused|Confused]] for 1 round."
 
   - name: "Cooperative Scrying"
-    desc: " (occult,scrying) Three or more caulborn adjacent to each other can collectively cast [[Spells/Scrying|Scrying]] once per day (DC 25 Will check), with no limit to the duration so long as at least three caulborn remain adjacent and use no actions other than to Sustain the Spell.\nThe daily limit applies to all caulborn who participated, meaning none of them can participate in another _scrying_ that day."
+    desc: " (occult,scrying) Three or more caulborn adjacent to each other can collectively cast [[Spells/Scrying|Scrying]] once per day (DC 25 Will check), with no limit to the duration so long as at least three caulborn remain adjacent and use no actions other than to Sustain the Spell.\n\nThe daily limit applies to all caulborn who participated, meaning none of them can participate in another _scrying_ that day."
  
+```
+
+```encounter-table
+name: Caulborn
+creatures:
+  - 1: Caulborn
 ```
 
 

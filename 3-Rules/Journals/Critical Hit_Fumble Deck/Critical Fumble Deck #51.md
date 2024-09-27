@@ -8,7 +8,7 @@ tags:
 ---
 # Fog of War
 
-> You are [[Other Effects/Effect\_ Dazzled until end of your next turn|Effect: Dazzled until end of your next turn]].
+> You are [[Other Effects/Effect_ Dazzled until end of your next turn|Effect: Dazzled until end of your next turn]].
 
 `Melee`
 
@@ -26,6 +26,6 @@ tags:
 
 # Everything to Fear
 
-> You are [[Conditions/Frightened 1|Frightened 3]].
+> You are [[Conditions/Frightened|Frightened 3]].
 
 `Spell`

@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/ghoul
   - pf2e/creature/type/undead
   - pf2e/creature/type/unholy
+  - pf2eMonster
   - pf2e/creature/level/13
 statblock: inline
 name: "Ghoul Razorclaw"
@@ -23,13 +24,13 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #184: The Ghouls Hunger"
 name: "Ghoul Razorclaw"
 level: "Creature 13"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Medium"
-trait_01: "evil"
-trait_02: "ghoul"
-trait_03: "undead"
-trait_04: "unholy"
+trait_01: [[evil]]
+trait_02: [[ghoul]]
+trait_03: [[undead]]
+trait_04: [[unholy]]
 modifier: 25
 perception:
   - name: "Perception"
@@ -53,7 +54,7 @@ health:
 abilities_top:
   - name: ""
   - name: "Items"
-    desc: "[[Equipment/Composite Shortbow|+1 Striking Composite Shortbow]], [[Equipment/Leather Armor|Leather Armor]], [[Equipment/Thieves' Toolkit (Infiltrator)|Thieves' Tools (Infiltrator)]], 20x [[Equipment/Arrows|Arrows]], 3x [[Equipment/Shadow Essence|Shadow Essence]]"
+    desc: "[[Equipment/Composite Shortbow|+1 Striking Composite Shortbow]], [[Equipment/Leather Armor|Leather Armor]], [[Equipment/Thieves' Toolkit (Infiltrator)|Thieves' Tools (Infiltrator)]], 20x [[Equipment/Arrows|Arrows]], 3x [[Equipment/Nethershade|Shadow Essence]]"
 abilities_mid:
   - name: ""
   - name: "Deny Advantage"
@@ -75,10 +76,10 @@ attacks:
     desc: "  The ghoul's claws have been dipped in adamantine. The razorclaw treats any object they hit with a claw Strike as if it had half as much Hardness and any creature they hit as if they had half as much physical resistance."
 
   - name: "[[Creature Family Ability Glossary/(Ghoul) Consume Flesh|Consume Flesh]]"
-    desc: "`pf2:1` (manipulate) **Requirements** The ghoul is adjacent to the corpse of a creature that died within the last hour.\n**Effect** The ghoul devours a chunk of the corpse and regains 7d6 Hit Points .\nIt can regain Hit Points from any given corpse only once."
+    desc: "`pf2:1` (manipulate) **Requirements** The ghoul is adjacent to the corpse of a creature that died within the last hour.\n* * *\n\n**Effect** The ghoul devours a chunk of the corpse and regains 7d6 Hit Points.\n\nIt can regain Hit Points from any given corpse only once."
 
   - name: "[[Creature Family Ability Glossary/(Ghoul) Ghoul Fever|Ghoul Fever]]"
-    desc: " (disease) **Saving Throw** DC 31 Fortitude check\n**Stage 1** carrier with no ill effect (1 day)\n**Stage 2** 4d6 void damage and regains half as many Hit Points from all healing (1 day)\n**Stage 3** as stage 2 (1 day)\n**Stage 4** 4d6 void damage and gains no benefit from healing (1 day)\n**Stage 5** as stage 4 (1 day)\n**Stage 6** dead, and rises as a [[Bestiary 1/Ghoul|Ghoul]] the next midnight."
+    desc: " (disease) **Saving Throw** DC 31 Fortitude check\n* * *\n\n**Stage 1** carrier with no ill effect (1 day)\n\n**Stage 2** 4d6 void damage and regains half as many Hit Points from all healing (1 day)\n\n**Stage 3** as stage 2 (1 day)\n\n**Stage 4** 4d6 void damage and gains no benefit from healing (1 day)\n\n**Stage 5** as stage 4 (1 day)\n\n**Stage 6** dead, and rises as a [[Bestiary 1/Ghoul|Ghoul]] the next midnight."
 
   - name: "[[Creature Family Ability Glossary/(Ghoul) Paralysis|Paralysis]]"
     desc: " (incapacitation,occult) Any living, non-elf creature hit by a ghoul's attack must succeed at a DC 31 Fortitude check save or become [[Conditions/Paralyzed|Paralyzed]]. It can attempt a new save at the end of each of its turns, and the DC cumulatively decreases by 1 on each such save."
@@ -92,6 +93,12 @@ attacks:
   - name: "[[Creature Family Ability Glossary/(Ghoul) Swift Leap|Swift Leap]]"
     desc: "`pf2:1` (move) The ghoul razorclaw jumps up to half its Speed. This movement doesn't trigger reactions."
  
+```
+
+```encounter-table
+name: Ghoul Razorclaw
+creatures:
+  - 1: Ghoul Razorclaw
 ```
 
 

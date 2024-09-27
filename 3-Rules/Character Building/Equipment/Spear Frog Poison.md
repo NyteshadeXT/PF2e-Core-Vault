@@ -33,7 +33,7 @@ A single spear frog yields enough toxin to Craft 1 dose of spear frog poison.
 
 **Stage 1** 1d4 poison damage (1 round)
 
-**Stage 2** 1d6 poison damage and [[Conditions/Enfeebled 1|Enfeebled 1]] (1 round)
+**Stage 2** 1d6 poison damage and [[Conditions/Enfeebled|Enfeebled 1]] (1 round)
 
 *Source: Pathfinder Bestiary 2*
 *OGL*

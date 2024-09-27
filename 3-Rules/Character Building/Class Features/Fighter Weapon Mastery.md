@@ -12,7 +12,7 @@ license: ORC
 ---
 # Fighter Weapon Mastery
 ## Feat 5
-### [[fighter]]
+### [[3-Rules/trait_reference/fighter]]
 
 **Category** classfeature; 
 

@@ -11,7 +11,7 @@ license: OGL
 ---
 # Infused Reagents
 ## Feat 1
-### [[alchemist]]
+### [[3-Rules/trait_reference/alchemist]]
 
 **Category** classfeature; 
 

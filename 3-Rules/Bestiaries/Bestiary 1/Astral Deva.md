@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/celestial
   - pf2e/creature/type/good
   - pf2e/creature/type/holy
+  - pf2eMonster
   - pf2e/creature/level/14
 statblock: inline
 name: "Astral Deva"
@@ -27,15 +28,15 @@ level: "Creature 14"
 
 alignment: ""
 size: "Medium"
-trait_01: "angel"
-trait_02: "celestial"
-trait_03: "good"
-trait_04: "holy"
+trait_01: [[angel]]
+trait_02: [[celestial]]
+trait_03: [[good]]
+trait_04: [[holy]]
 modifier: 26
 perception:
   - name: "Perception"
     desc: "+26; Darkvision"
-languages: "Diabolic, Draconic, Empyrean"
+languages: "Diabolic, Draconic, Empyrean; tongues"
 skills:
   - name: "Skills"
     desc: "Acrobatics: +24, Diplomacy: +26, Intimidation: +28, Religion: +24"
@@ -79,8 +80,14 @@ attacks:
     desc: " (divine) Any weapon gains the effect of a _[[Equipment/Holy|Holy]]_ property rune while an astral deva wields it."
 
   - name: "Stunning Strike"
-    desc: "`pf2:1`  **Requirements** The astral deva hit a foe earlier this turn with a weapon Strike.\n**Effect** The astral deva makes a weapon Strike against the foe. On a success, the foe must succeed at a DC 34 Fortitude check save or become [[Conditions/Stunned 1|Stunned 1]]. On a critical failure, the foe is [[Conditions/Stunned 1|Stunned 2]] instead."
+    desc: "`pf2:1`  **Requirements** The astral deva hit a foe earlier this turn with a weapon Strike.\n* * *\n\n**Effect** The astral deva makes a weapon Strike against the foe. On a success, the foe must succeed at a DC 34 Fortitude check save or become [[Conditions/Stunned|Stunned 1]]. On a critical failure, the foe is [[Conditions/Stunned|Stunned 2]] instead."
  
+```
+
+```encounter-table
+name: Astral Deva
+creatures:
+  - 1: Astral Deva
 ```
 
 

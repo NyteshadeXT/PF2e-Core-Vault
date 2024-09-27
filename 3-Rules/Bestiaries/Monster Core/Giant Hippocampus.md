@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.pathfinder-monster-core.Actor.wvP8zBmI0PDO1Uq2"
 tags:
   - pf2e/creature/type/animal
   - pf2e/creature/type/aquatic
+  - pf2eMonster
   - pf2e/creature/level/8
   - remaster
 statblock: inline
@@ -23,11 +24,11 @@ token: [[modules/pf2e-tokens-bestiaries/portraits/bestial/aquatic/hippocampus-gi
 source: "Pathfinder Monster Core"
 name: "Giant Hippocampus"
 level: "Creature 8"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "huge"
-trait_01: "animal"
-trait_02: "aquatic"
+trait_01: [[animal]]
+trait_02: [[aquatic]]
 modifier: 16
 perception:
   - name: "Perception"
@@ -65,6 +66,12 @@ attacks:
   - name: "Sudden Retreat"
     desc: "`pf2:2`  The giant hippocampus makes a tail Strike, then Swims with a +10-foot circumstance bonus to its swim Speed. It gains a +2 circumstance bonus to AC against reactions triggered by this movement."
  
+```
+
+```encounter-table
+name: Giant Hippocampus
+creatures:
+  - 1: Giant Hippocampus
 ```
 
 

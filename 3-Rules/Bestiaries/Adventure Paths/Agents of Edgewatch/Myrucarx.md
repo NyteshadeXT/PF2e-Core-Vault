@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.agents-of-edgewatch-bestiary.Actor.WDTdWiC9Rdl6rqh8"
 tags:
   - pf2e/creature/type/aberration
   - pf2e/creature/type/evil
+  - pf2eMonster
   - pf2e/creature/level/18
 statblock: inline
 name: "Myrucarx"
@@ -21,11 +22,11 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #161: Belly of the Black Whale"
 name: "Myrucarx"
 level: "Creature 18"
-rare_03: "Rare"
+rare_03: [[Rare]]
 alignment: ""
 size: "Large"
-trait_01: "aberration"
-trait_02: "evil"
+trait_01: [[aberration]]
+trait_02: [[evil]]
 modifier: 33
 perception:
   - name: "Perception"
@@ -70,11 +71,17 @@ attacks:
     desc: "  The illusion created by the myrucarx's _project image_ can resemble any Medium humanoid, including any specific individual it has seen, and has appropriate voice, scent, and mannerisms, allowing the myrucarx to use its Deception check to Impersonate that humanoid if it chooses."
 
   - name: "Twisting Reach"
-    desc: "`pf2:1`  **Frequency** once per round\n**Effect** The fanged mouths at the ends of a myrucarx's tendrils twist around obstacles. The myrucarx makes two jaws Strikes against the same target, ignoring the target's cover. Both attacks count toward the myrucarx's multiple attack penalty, but the penalty doesn't increase until after both attacks are made. The myrucarx can't Grab as its next action after Twisting Reach."
+    desc: "`pf2:1`  **Frequency** once per round\n* * *\n\n**Effect** The fanged mouths at the ends of a myrucarx's tendrils twist around obstacles. The myrucarx makes two jaws Strikes against the same target, ignoring the target's cover. Both attacks count toward the myrucarx's multiple attack penalty, but the penalty doesn't increase until after both attacks are made. The myrucarx can't Grab as its next action after Twisting Reach."
 
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
     desc: "`pf2:1`  "
  
+```
+
+```encounter-table
+name: Myrucarx
+creatures:
+  - 1: Myrucarx
 ```
 
 

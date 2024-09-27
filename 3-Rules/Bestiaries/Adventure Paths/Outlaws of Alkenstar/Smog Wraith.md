@@ -10,6 +10,7 @@ tags:
   - pf2e/creature/type/undead
   - pf2e/creature/type/unholy
   - pf2e/creature/type/wraith
+  - pf2eMonster
   - pf2e/creature/level/9
 statblock: inline
 name: "Smog Wraith"
@@ -24,14 +25,14 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #180: The Smoking Gun"
 name: "Smog Wraith"
 level: "Creature 9"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Medium"
-trait_01: "evil"
-trait_02: "incorporeal"
-trait_03: "undead"
-trait_04: "unholy"
-trait_05: "wraith"
+trait_01: [[evil]]
+trait_02: [[incorporeal]]
+trait_03: [[undead]]
+trait_04: [[unholy]]
+trait_05: [[wraith]]
 modifier: 19
 perception:
   - name: "Perception"
@@ -61,10 +62,10 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Noxious Smog"
-    desc: " (aura,poison) 30 feet. Creatures within the aura are [[Conditions/Concealed|Concealed]], and creatures outside the aura are concealed to creatures within it. A creature that ends its turn within the aura must attempt a DC 25 Fortitude check save.\n**Critical Success** The creature is unaffected.\n**Success** The creature is [[Conditions/Sickened 1|Sickened 1]].\n**Failure** The creature is sickened 1 and [[Conditions/Slowed 1|Slowed 1]] while within the cloud.\n**Critical Failure** The creature is [[Conditions/Sickened 1|Sickened 2]] and slowed 1 while within the cloud."
+    desc: " (aura,poison) 30 feet. Creatures within the aura are [[Conditions/Concealed|Concealed]], and creatures outside the aura are concealed to creatures within it. A creature that ends its turn within the aura must attempt a DC 25 Fortitude check save.\n* * *\n\n**Critical Success** The creature is unaffected.\n\n**Success** The creature is [[Conditions/Sickened|Sickened 1]].\n\n**Failure** The creature is sickened 1 and [[Conditions/Slowed|Slowed 1]] while within the cloud.\n\n**Critical Failure** The creature is [[Conditions/Sickened|Sickened 2]] and slowed 1 while within the cloud."
 
   - name: "Sunlight Powerlessness"
-    desc: "  A smog wraith caught in sunlight is [[Conditions/Stunned 1|Stunned 2]] and [[Conditions/Clumsy 1|Clumsy 2]]."
+    desc: "  A smog wraith caught in sunlight is [[Conditions/Stunned|Stunned 2]] and [[Conditions/Clumsy|Clumsy 2]]."
 
 attacks:
   - name: ""
@@ -73,8 +74,14 @@ attacks:
     desc: "`pf2:1` Noxious Hand +21 (finesse)\n__Damage__  3d6 + 9 poison"
 
   - name: "Smog Wraith Spawn"
-    desc: "  A living humanoid slain by a smog wraith's noxious hand Strike rises as a smog wraith spawn after 1d4 rounds. This spawn is under the command of the smog wraith that killed it. It doesn't have noxious smog or smog wraith spawn and becomes [[Conditions/Clumsy 1|Clumsy 2]] for as long as it's a smog wraith spawn. If the creator of the spawn dies, the spawn becomes a full-fledged, autonomous smog wraith; it regains its free will, gains smog wraith spawn and noxious smog, and is no longer clumsy."
+    desc: "  A living humanoid slain by a smog wraith's noxious hand Strike rises as a smog wraith spawn after 1d4 rounds. This spawn is under the command of the smog wraith that killed it. It doesn't have noxious smog or smog wraith spawn and becomes [[Conditions/Clumsy|Clumsy 2]] for as long as it's a smog wraith spawn. If the creator of the spawn dies, the spawn becomes a full-fledged, autonomous smog wraith; it regains its free will, gains smog wraith spawn and noxious smog, and is no longer clumsy."
  
+```
+
+```encounter-table
+name: Smog Wraith
+creatures:
+  - 1: Smog Wraith
 ```
 
 

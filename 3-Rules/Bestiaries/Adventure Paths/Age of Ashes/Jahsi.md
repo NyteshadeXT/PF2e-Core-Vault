@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/elf
   - pf2e/creature/type/good
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/8
 statblock: inline
 name: "Jahsi"
@@ -22,12 +23,12 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #146: Cult of Cinders"
 name: "Jahsi"
 level: "Creature 8"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Medium"
-trait_01: "elf"
-trait_02: "good"
-trait_03: "humanoid"
+trait_01: [[elf]]
+trait_02: [[good]]
+trait_03: [[humanoid]]
 modifier: 14
 perception:
   - name: "Perception"
@@ -55,10 +56,10 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Divine Providence"
-    desc: "`pf2:r`  **Trigger** Jahsi rolls a success on a Will save against an enemy's effect.\n**Effect** Jahsi gets a critical success instead."
+    desc: "`pf2:r`  **Trigger** Jahsi rolls a success on a Will save against an enemy's effect.\n* * *\n\n**Effect** Jahsi gets a critical success instead."
 
   - name: "Glimpse of Redemption"
-    desc: "`pf2:r`  **Trigger** An enemy damages one of Jahsi's allies within 15 feet of him.\n**Effect** The foe must choose one: The ally is unharmed by the triggering damage, or the ally gains resistance 10 against the triggering damage, and the enemy is [[Conditions/Enfeebled 1|Enfeebled 2]] until the end of its next turn."
+    desc: "`pf2:r`  **Trigger** An enemy damages one of Jahsi's allies within 15 feet of him.\n* * *\n\n**Effect** The foe must choose one: The ally is unharmed by the triggering damage, or the ally gains resistance 10 against the triggering damage, and the enemy is [[Conditions/Enfeebled|Enfeebled 2]] until the end of its next turn."
 
 attacks:
   - name: ""
@@ -70,23 +71,29 @@ attacks:
     desc: "`pf2:1` Silver Dagger +19 (agile, magical, silver, versatile s)\n__Damage__  2d4 + 7 piercing"
 
   - name: "Ranged"
-    desc: "`pf2:1` Longbow +19 (deadly d10, magical, range increment 100 feet, reload 0, volley 30 ft.)\n__Damage__  1d8 + 3 piercing"
-
-  - name: "Ranged"
     desc: "`pf2:1` Disrupting Cold Iron Dagger +19 (agile, cold iron, magical, thrown 10 ft., versatile s)\n__Damage__  1d4 + 7 piercing"
 
   - name: "Ranged"
     desc: "`pf2:1` Silver Dagger +19 (agile, magical, silver, thrown 10 ft., versatile s)\n__Damage__  2d4 + 7 piercing"
 
+  - name: "Ranged"
+    desc: "`pf2:1` Longbow +19 (deadly d10, magical, range increment 100 feet, reload 0, volley 30 ft.)\n__Damage__  1d8 + 3 piercing"
+
   - name: "Primal Innate Spells"
     desc: "DC 24, attack +16\n__Cantrips__  __(4th)__ _[[Compendium.pf2e.spells-srd.Item.kl2q6JvBZwed4B6v|Dancing Lights]]_, _[[Spells/Detect Magic|Detect Magic]]_, _[[Spells/Vitality Lash|Disrupt Undead]]_, _[[Spells/Tangle Vine|Tanglefoot]]_"
 
   - name: "Champion Devotion Spells"
-    desc: "2 Focus Points, DC 25, attack +17; __4th __  _[[Spells/Lay on Hands|Lay on Hands]]_, _[[Spells/Litany against Wrath|Litany against Wrath]]_"
+    desc: "2 Focus Points, DC 25, attack +17; __4th __  _[[Spells/Lay on Hands|Lay on Hands]]_, _[[Compendium.pf2e.spells-srd.Item.X1b9ollVMSLXDN9o|Litany against Wrath]]_"
 
   - name: "Woodland Stride"
     desc: "  Jahsi ignores difficult terrain from plants."
  
+```
+
+```encounter-table
+name: Jahsi
+creatures:
+  - 1: Jahsi
 ```
 
 

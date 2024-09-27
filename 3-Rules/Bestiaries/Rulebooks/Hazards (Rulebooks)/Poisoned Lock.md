@@ -5,6 +5,7 @@ noteType: pf2eHazard
 tags:
   - mechanical
   - trap
+  - pf2eHazard
 
   - remaster
 source: Pathfinder GM Core
@@ -23,14 +24,14 @@ name: "Poisoned Lock"
 level: "Hazard 1"
 
 
-trait_01: "mechanical"
-trait_02: "trap"
+trait_01: [[mechanical]]
+trait_02: [[trap]]
 modifier: 7
 sourcebook: "_Pathfinder GM Core_"
 ac: 15
 armorclass:
   - name: AC
-    desc: "15; __Fort__ +8, __Ref__ +4, __Will__ +0"
+    desc: "15; __Fort__ +8, __Ref__ +4, "
 hp: 24
 health:
   - name: ""
@@ -52,14 +53,20 @@ attacks:
   - name: ""
 
   - name: "Spring"
-    desc: "`pf2:r` (attack) **Trigger** A creature tries to unlock or Pick the Lock.\n**Effect** A spine extends to Strike the triggering creature."
+    desc: "`pf2:r` (attack) **Trigger** A creature tries to unlock or Pick the Lock.\n* * *\n\n**Effect** A spine extends to Strike the triggering creature."
   - name: "Melee"
     desc: "Spine +13 () "
 
   - name: "Cladis Poison"
-    desc: "passive (poison) **Saving Throw** DC 19 Fortitude check\n**Maximum Duration** 4 hours\n**Stage 1** 1d6 poison damage and [[Conditions/Drained 1|Drained 1]] (1 hour)\n**Stage 2** 2d6 poison damage and [[Conditions/Drained 1|Drained 2]] (1 hour)\n**Stage 3** 3d6 poison damage and drained 2 (1 hour)"
+    desc: "passive (poison) **Saving Throw** DC 19 Fortitude check\n\n**Maximum Duration** 4 hours\n\n**Stage 1** 1d6 poison damage and [[Conditions/Drained|Drained 1]] (1 hour)\n\n**Stage 2** 2d6 poison damage and [[Conditions/Drained|Drained 2]] (1 hour)\n\n**Stage 3** 3d6 poison damage and drained 2 (1 hour)"
 
 
 
+```
+
+```encounter-table
+name: Poisoned Lock
+creatures:
+  - 1: Poisoned Lock
 ```
 

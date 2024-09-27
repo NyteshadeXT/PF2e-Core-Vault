@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.pathfinder-monster-core.Actor.NW68bxCLC6oDHxL9"
 tags:
   - pf2e/creature/type/hobgoblin
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/1
   - remaster
 statblock: inline
@@ -26,8 +27,8 @@ level: "Creature 1"
 
 alignment: ""
 size: "Medium"
-trait_01: "hobgoblin"
-trait_02: "humanoid"
+trait_01: [[hobgoblin]]
+trait_02: [[humanoid]]
 modifier: 7
 perception:
   - name: "Perception"
@@ -72,6 +73,12 @@ attacks:
   - name: "Ranged"
     desc: "`pf2:1` Shortbow +8 (deadly d10, range increment 60 feet, reload 0)\n__Damage__  1d6 piercing"
  
+```
+
+```encounter-table
+name: Hobgoblin Soldier
+creatures:
+  - 1: Hobgoblin Soldier
 ```
 
 

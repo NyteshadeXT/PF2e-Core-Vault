@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/undead
   - pf2e/creature/type/unholy
+  - pf2eMonster
   - pf2e/creature/level/1
 statblock: inline
 name: "Arghun the Annihilator"
@@ -25,9 +26,9 @@ level: "Creature 1"
 
 alignment: ""
 size: "tiny"
-trait_01: "evil"
-trait_02: "undead"
-trait_03: "unholy"
+trait_01: [[evil]]
+trait_02: [[undead]]
+trait_03: [[unholy]]
 modifier: 7
 perception:
   - name: "Perception"
@@ -35,7 +36,7 @@ perception:
 languages: "Common, Taldane"
 skills:
   - name: "Skills"
-    desc: "Athletics: +5, Stealth: +6, Survival: +2, Warfare Lore: +3"
+    desc: "Athletics: +7, Stealth: +8, Survival: +4, Warfare Lore: +5"
 abilityMods: [1, 3, 0, -2, 0, 1]
 speed: 30 feet,  climb 30 feet
 sourcebook: "_Pathfinder #181: Zombie Feast_"
@@ -68,6 +69,12 @@ attacks:
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
     desc: "`pf2:1`  "
  
+```
+
+```encounter-table
+name: Arghun the Annihilator
+creatures:
+  - 1: Arghun the Annihilator
 ```
 
 

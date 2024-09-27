@@ -10,6 +10,7 @@ tags:
   - pf2e/creature/type/humanoid
   - pf2e/creature/type/munavri
   - pf2e/creature/type/unholy
+  - pf2eMonster
   - pf2e/creature/level/9
 statblock: inline
 name: "Ashrin"
@@ -24,19 +25,19 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #195: Heavy is the Crown"
 name: "Ashrin"
 level: "Creature 9"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Medium"
-trait_01: "chaotic"
-trait_02: "evil"
-trait_03: "humanoid"
-trait_04: "munavri"
-trait_05: "unholy"
+trait_01: [[chaotic]]
+trait_02: [[evil]]
+trait_03: [[humanoid]]
+trait_04: [[munavri]]
+trait_05: [[unholy]]
 modifier: 15
 perception:
   - name: "Perception"
     desc: "+15; Darkvision"
-languages: "Aklo, Alghollthu, Chthonian, Dwarven, Munavri, Sakvroth"
+languages: "Aklo, Alghollthu, Chthonian, Dwarven, Munavri, Sakvroth; telepathy 30 feet (munavris only)"
 skills:
   - name: "Skills"
     desc: "Acrobatics: +19, Athletics: +19, Crafting: +21, Religion: +15, Survival: +17, Thievery: +19"
@@ -73,18 +74,24 @@ attacks:
   - name: "Ranged"
     desc: "`pf2:1` Dagger +20 (agile, magical, thrown 10 ft., versatile b)\n__Damage__  2d4 + 4 piercing"
 
-  - name: "Ranged"
+  - name: "Melee"
     desc: "`pf2:1` Moderate Alchemist&#x27;s Fire +20 (bomb, consumable, splash)\n__Damage__  2d8 fire 2 fire 2 fire"
 
-  - name: "Ranged"
+  - name: "Melee"
     desc: "`pf2:1` Moderate Sulfur Bomb +20 (bomb, consumable, olfactory, splash)\n__Damage__  2d4 acid 2 acid"
 
   - name: "[[Actor.jJbVPd1M6RlZP8kA.Item.i5ZvpW8aEneJO2Iz|Fiendish Infusion]]"
-    desc: "`pf2:1` (concentrate,manipulate) **Requirements** Ashrin has a free hand\n**Effect** Ashrin Interacts to draw a bomb, then funnels abyssal energy from Kaivirris into that bomb. Until the end of Ashrin's turn, the bomb deals an extra 3d8 void damage."
+    desc: "`pf2:1` (concentrate,manipulate) **Requirements** Ashrin has a free hand\n* * *\n\n**Effect** Ashrin Interacts to draw a bomb, then funnels abyssal energy from Kaivirris into that bomb. Until the end of Ashrin's turn, the bomb deals an extra 3d8 void damage."
 
   - name: "Intuit Object"
-    desc: "`pf2:2` (concentrate,occult) **Frequency** once per day\n**Effect** By concentrating their psychic energy on a held object, the munavri intuits its use and understands how to effectively wield it. The munavri chooses one item they're holding. They gain the trained proficiency rank in one statistic required to use that item, but only for the purpose of using that specific item. For example, they could become trained in greatswords (to use a specific greatsword) or Acrobatics (to use a jade cat talisman). This benefit lasts for 1 hour."
+    desc: "`pf2:2` (concentrate,occult) **Frequency** once per day\n* * *\n\n**Effect** By concentrating their psychic energy on a held object, the munavri intuits its use and understands how to effectively wield it. The munavri chooses one item they're holding. They gain the trained proficiency rank in one statistic required to use that item, but only for the purpose of using that specific item. For example, they could become trained in greatswords (to use a specific greatsword) or Acrobatics (to use a jade cat talisman). This benefit lasts for 1 hour."
  
+```
+
+```encounter-table
+name: Ashrin
+creatures:
+  - 1: Ashrin
 ```
 
 

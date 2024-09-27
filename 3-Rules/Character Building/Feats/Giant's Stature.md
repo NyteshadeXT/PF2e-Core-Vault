@@ -9,8 +9,9 @@ tags:
   - trait/rage
   - trait/common
   - category/class
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.W21jKAcG0GtEtBiK"
-license: OGL
+license: ORC
 ---
 # Giant's Stature `pf2:1`
 ## Feat 6
@@ -26,7 +27,7 @@ license: OGL
 
 * * *
 
-You grow to incredible size. You become Large, increasing your reach by 5 feet and gaining the [[Conditions/Clumsy 1|Clumsy 1]] condition until you stop raging. Your equipment grows with you.
+You grow to incredible size. You become Large, increasing your reach by 5 feet and gaining the [[Conditions/Clumsy|Clumsy 1]] condition until you stop raging. Your equipment grows with you.
 
-*Source: Pathfinder Core Rulebook*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

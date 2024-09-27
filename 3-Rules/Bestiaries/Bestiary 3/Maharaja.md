@@ -10,6 +10,7 @@ tags:
   - pf2e/creature/type/lawful
   - pf2e/creature/type/rakshasa
   - pf2e/creature/type/unholy
+  - pf2eMonster
   - pf2e/creature/level/20
 statblock: inline
 name: "Maharaja"
@@ -25,22 +26,22 @@ token: [[modules/pf2e-tokens-bestiaries/portraits/fiendish/maharaja.webp| ]]
 source: "Pathfinder Bestiary 3"
 name: "Maharaja"
 level: "Creature 20"
-rare_03: "Rare"
+rare_03: [[Rare]]
 alignment: ""
 size: "Medium"
-trait_01: "evil"
-trait_02: "fiend"
-trait_03: "lawful"
-trait_04: "rakshasa"
-trait_05: "unholy"
+trait_01: [[evil]]
+trait_02: [[fiend]]
+trait_03: [[lawful]]
+trait_04: [[rakshasa]]
+trait_05: [[unholy]]
 modifier: 37
 perception:
   - name: "Perception"
     desc: "+37; Darkvision"
-languages: "Chthonian, Common, Diabolic, Sakvroth"
+languages: "Chthonian, Common, Diabolic, Sakvroth; tongues"
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +33, Arcana: +33, Deception: +41, Diplomacy: +38, Intimidation: +38, Lore (any three): +33, Occultism: +35, Religion: +35, Society: +35"
+    desc: "Acrobatics: +33, Arcana: +33, Deception: +41, Diplomacy: +38, Intimidation: +38, Occultism: +35, Religion: +35, Society: +35, Lore (any three): +33"
 abilityMods: [8, 9, 7, 7, 7, 10]
 speed: 40 feet,  fly 30 feet
 sourcebook: "_Pathfinder Bestiary 3_"
@@ -60,7 +61,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Reflect Spell"
-    desc: "`pf2:r` (occult) **Trigger** A foe Casts a Spell the maharaja knows, and the maharaja rakshasa can see its manifestation\n**Effect** The maharaja expends one of their spell slots to reflect the triggering creature's spell. The maharaja loses their spell slot as if they had cast the triggering spell, and then attempts to counteract it (counteract modifier +37, counteract rank 10).\nOn a success, the maharaja turns the spell back on its caster. The reflected spell affects only the caster, even if it's an area spell or would normally affect more than one creature. The original caster can attempt a save and use other defenses against the reflected spell as normal."
+    desc: "`pf2:r` (occult) **Trigger** A foe Casts a Spell the maharaja knows, and the maharaja rakshasa can see its manifestation\n* * *\n\n**Effect** The maharaja expends one of their spell slots to reflect the triggering creature's spell. The maharaja loses their spell slot as if they had cast the triggering spell, and then attempts to counteract it (counteract modifier +37, counteract rank 10).\n\nOn a success, the maharaja turns the spell back on its caster. The reflected spell affects only the caster, even if it's an area spell or would normally affect more than one creature. The original caster can attempt a save and use other defenses against the reflected spell as normal."
 
 attacks:
   - name: ""
@@ -78,7 +79,7 @@ attacks:
     desc: "DC 47, attack +39; __10th __  _[[Spells/Dominate|Dominate]]_; __9th __  _[[Spells/Clairaudience|Clairaudience (At Will)]]_, _[[Spells/Clairvoyance|Clairvoyance (At Will)]]_, _[[Spells/Mind Reading|Mind Reading (At Will)]]_\n__Constant__  __(9th)__ _[[Spells/Truespeech|Tongues]]_"
 
   - name: "Autonomous Spell"
-    desc: "  **Frequency** once per round\n**Trigger** a foe's turn begins\n**Effect** The maharaja's four heads allow them to quickly cast additional spells. They cast one of their 8th-rank or lower occult spontaneous spells that normally takes 2 actions or fewer to cast."
+    desc: "  **Frequency** once per round\n\n**Trigger** a foe's turn begins\n* * *\n\n**Effect** The maharaja's four heads allow them to quickly cast additional spells. They cast one of their 8th-rank or lower occult spontaneous spells that normally takes 2 actions or fewer to cast."
 
   - name: "[[Bestiary Ability Glossary/Change Shape|Change Shape]]"
     desc: "`pf2:1` (concentrate,occult,polymorph) The maharaja takes on the appearance of any Medium humanoid. This doesn't change their Speed or their attack and damage modifiers with their Strikes but might change the damage type their Strikes deal (typically to bludgeoning). They lose their fangs Strike unless the humanoid form has fangs or a similar unarmed attack, and they lose Four-Fanged Assault unless the new form has four or more heads and fangs."
@@ -86,6 +87,12 @@ attacks:
   - name: "Four-Fanged Assault"
     desc: "`pf2:1`  The maharaja makes four fangs Strikes, each against a different target. These Strikes count as only one attack for the maharaja's multiple attack penalty, and the penalty doesn't increase until after they have made all four attacks."
  
+```
+
+```encounter-table
+name: Maharaja
+creatures:
+  - 1: Maharaja
 ```
 
 

@@ -7,6 +7,7 @@ aliases: "Compendium.battlezoo-bestiary-su-pf2e.pf2e-battlezoo-su-actors.Actor.T
 tags:
   - pf2e/creature/type/curse
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/6
 statblock: inline
 name: "Kolufs Krafsa"
@@ -22,19 +23,19 @@ token: [[modules/battlezoo-bestiary-su-pf2e/art/Portraits/kolufs-krafsa.webp| ]]
 source: "Battlezoo Bestiary: Strange and Unusual"
 name: "Kolufs Krafsa"
 level: "Creature 6"
-rare_03: "Rare"
+rare_03: [[Rare]]
 alignment: ""
 size: "Medium"
-trait_01: "curse"
-trait_02: "humanoid"
+trait_01: [[curse]]
+trait_02: [[humanoid]]
 modifier: 10
 perception:
   - name: "Perception"
     desc: "+10; Darkvision"
-languages: "Common"
+languages: "Common; one additional language they knew before being cursed"
 skills:
   - name: "Skills"
-    desc: "Athletics: +15, Stealth: +13, "
+    desc: "Athletics: +15, Stealth: +13, Athletics: +15, Stealth: +13"
 abilityMods: [5, 3, 4, 2, -2, 0]
 speed: 30 feet,  climb 20 feet
 sourcebook: "_Battlezoo Bestiary: Strange and Unusual_"
@@ -53,7 +54,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Split Ends"
-    desc: "`pf2:r`  **Trigger** The kolufs krafsa is critically hit by an attack from a mammalian humanoid who possesses hair\n**Effect** Retaliating in anger for being distracted, the kolufs krafsa forces the triggering creature's hair to tear and frizz up while showing visions of its own cursed transformation into a kolufs krafsa. The triggering creature must succeed a DC 21 Will check save or be Frightened 2 and Immobilized for 1 round."
+    desc: "`pf2:r`  **Trigger** The kolufs krafsa is critically hit by an attack from a mammalian humanoid who possesses hair\n* * *\n\n**Effect** Retaliating in anger for being distracted, the kolufs krafsa forces the triggering creature's hair to tear and frizz up while showing visions of its own cursed transformation into a kolufs krafsa. The triggering creature must succeed a DC 21 Will check save or be [[undefined]] and [[undefined]] for 1 round."
 
 attacks:
   - name: ""
@@ -62,17 +63,23 @@ attacks:
     desc: "`pf2:1` Claw +17 ()\n__Damage__  2d6 + 8 slashing plus grab"
 
   - name: "Clinging Grab"
-    desc: "  The kolufs krafsa clings to its Grabbed victim. This causes it to enter the same space as a Medium or smaller creature it has grabbed, or one square of a Large or larger creature's space. The kolufs krafsa can only have a single creature grabbed, and while the kolufs krafsa is grabbing a creature, the kolufs krafsa is Clumsy 2."
+    desc: "  The kolufs krafsa clings to its [[undefined]] victim. This causes it to enter the same space as a Medium or smaller creature it has grabbed, or one square of a Large or larger creature's space. The kolufs krafsa can only have a single creature grabbed, and while the kolufs krafsa is grabbing a creature, the kolufs krafsa is [[undefined]]."
 
   - name: "Curse of the Kolufs Krafsa"
-    desc: " (curse,occult) The curse affects only mammalian humanoids.\n**Saving Throw** DC 21 Will check save\n**Effect** Each night before going to sleep, the cursed creature feels their body changing, and their hair begins to feel foreign and invasive. They tear their own hair out until they fall asleep, and Unconsciously continue to do so as they sleep. The cursed creature takes 2d10 piercing damage with a DC 21 Will check save; this effect is nonlethal. They also awaken Fatigued. If the curse brings the creature to 0 Hit Points, or if the creature remains cursed for a full month, the creature fully transforms into a kolufs krafsa."
+    desc: " (curse,occult) The curse affects only mammalian humanoids.\n\n**Saving Throw** DC 21 Will check save\n* * *\n\n**Effect** Each night before going to sleep, the cursed creature feels their body changing, and their hair begins to feel foreign and invasive. They tear their own hair out until they fall asleep, and [[undefined]]ly continue to do so as they sleep. The cursed creature takes 2d10 piercing damage with a DC 21 Will check save; this effect is nonlethal. They also awaken [[undefined]]. If the curse brings the creature to 0 Hit Points, or if the creature remains cursed for a full month, the creature fully transforms into a kolufs krafsa."
 
   - name: "Tearing the Hair"
-    desc: "`pf2:1`  **Requirements** The kolufs krafsa has a mammalian humanoid who possesses hair Grabbed\n**Effect** The kolufs krafsa violently rips the hair off of the creature it has grabbed. The creature takes 2d6 piercing damage and 1d6 persistent bleed damage, with a DC 24 Fortitude check save.\n**Critical Success** The creature is unaffected.\n**Success** The creature takes half damage.\n**Failure** The creature takes full damage and is exposed to Curse of the Kolufs Krasa.\n**Critical Failure** The creature takes double damage and is exposed to Curse of the Kolufs Krasa, and the curse's initial save is DC 21 Will check instead of DC 21."
+    desc: "`pf2:1`  **Requirements** The kolufs krafsa has a mammalian humanoid who possesses hair [[undefined]]\n* * *\n\n**Effect** The kolufs krafsa violently rips the hair off of the creature it has grabbed. The creature takes 2d6 piercing damage and 1d6 persistent bleed damage, with a DC 24 Fortitude check save.\n* * *\n\n**Critical Success** The creature is unaffected.\n\n**Success** The creature takes half damage.\n\n**Failure** The creature takes full damage and is exposed to Curse of the Kolufs Krasa.\n\n**Critical Failure** The creature takes double damage and is exposed to Curse of the Kolufs Krasa, and the curse's initial save is DC 21 Will check instead of DC 21."
 
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
     desc: "`pf2:1`  "
  
+```
+
+```encounter-table
+name: Kolufs Krafsa
+creatures:
+  - 1: Kolufs Krafsa
 ```
 
 

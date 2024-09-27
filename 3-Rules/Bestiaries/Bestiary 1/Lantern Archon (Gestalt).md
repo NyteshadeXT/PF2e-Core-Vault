@@ -10,6 +10,7 @@ tags:
   - pf2e/creature/type/good
   - pf2e/creature/type/holy
   - pf2e/creature/type/lawful
+  - pf2eMonster
   - pf2e/creature/level/7
 statblock: inline
 name: "Lantern Archon (Gestalt)"
@@ -28,11 +29,11 @@ level: "Creature 7"
 
 alignment: ""
 size: "Medium"
-trait_01: "archon"
-trait_02: "celestial"
-trait_03: "good"
-trait_04: "holy"
-trait_05: "lawful"
+trait_01: [[archon]]
+trait_02: [[celestial]]
+trait_03: [[good]]
+trait_04: [[holy]]
+trait_05: [[lawful]]
 modifier: 15
 perception:
   - name: "Perception"
@@ -59,7 +60,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Retributive Strike"
-    desc: "`pf2:r`  **Damage Reduction** 9\nA lantern archon can also make a Retributive Strike with its light ray.\n**Trigger** An enemy damages the monster's ally, and both are within 15 feet of the monster.\n**Effect** The ally gains resistance to all damage against the triggering damage equal to 2 + the monster's level. If the foe is within reach, the monster makes a melee Strike against it."
+    desc: "`pf2:r`  **Damage Reduction** 9\n\nA lantern archon can also make a Retributive Strike with its light ray.\n* * *\n\n**Trigger** An enemy damages the monster's ally, and both are within 15 feet of the monster.\n* * *\n\n**Effect** The ally gains resistance to all damage against the triggering damage equal to 2 + the monster's level. If the foe is within reach, the monster makes a melee Strike against it."
 
 attacks:
   - name: ""
@@ -77,11 +78,17 @@ attacks:
     desc: "DC 24, attack +16; __4th __  _[[Spells/Read Omens|Read Omens]]_; __1st __  _[[Spells/Detect Alignment|Detect Alignment (At Will) (Evil Only)]]_, _[[Spells/Heal|Heal]]_\n__Cantrips__  __(4th)__ _[[Spells/Light|Light]]_"
 
   - name: "Flame of Justice"
-    desc: " (divine) A gestalt's spirit of righteousness manifests in its hands as a mighty two-handed sword called the flame of justice.\nA gestalt can throw its flame of justice as a ranged weapon. If disarmed or thrown, the flame of justice vanishes after landing or dealing damage and reappears in the gestalt's hands again instantly.\nOn a critical hit, the fire damage from the flame of justice deals maximum damage (6 on the d6) before being doubled for the critical hit, and the target takes 1d10 persistent fire damage."
+    desc: " (divine) A gestalt's spirit of righteousness manifests in its hands as a mighty two-handed sword called the flame of justice.\n\nA gestalt can throw its flame of justice as a ranged weapon. If disarmed or thrown, the flame of justice vanishes after landing or dealing damage and reappears in the gestalt's hands again instantly.\n\nOn a critical hit, the fire damage from the flame of justice deals maximum damage (6 on the d6) before being doubled for the critical hit, and the target takes 1d10 persistent fire damage."
 
   - name: "Lantern of Hope"
-    desc: "`pf2:1` (concentrate,divine,mental) The lantern archon shines as a beacon of hope.\nGood allies within 30 feet gain a +3 status bonus to damage rolls and to saving throws against [[Spells/Wave of Despair|Wave of Despair]].\n[[Bestiary Effects/Effect_ Lantern of Hope (Gestalt)|Effect: Lantern of Hope (Gestalt)]]"
+    desc: "`pf2:1` (concentrate,divine,mental) The lantern archon shines as a beacon of hope.\n\nGood allies within 30 feet gain a +3 status bonus to damage rolls and to saving throws against [[Spells/Wave of Despair|Wave of Despair]].\n\n[[Bestiary Effects/Effect_ Lantern of Hope (Gestalt)|Effect: Lantern of Hope (Gestalt)]]"
  
+```
+
+```encounter-table
+name: Lantern Archon (Gestalt)
+creatures:
+  - 1: Lantern Archon (Gestalt)
 ```
 
 

@@ -6,6 +6,7 @@ cssClasses: pf2e
 aliases: "Compendium.pf2e.menace-under-otari-bestiary.Actor.lFlXmieuHTBIonhj" 
 tags:
   - pf2e/creature/type/animal
+  - pf2eMonster
   - pf2e/creature/level/-1
   - remaster
 statblock: inline
@@ -24,14 +25,15 @@ level: "Creature -1"
 
 alignment: ""
 size: "tiny"
-trait_01: "animal"
+trait_01: [[animal]]
 modifier: 5
 perception:
   - name: "Perception"
     desc: "+5; Low-Light Vision"
+languages: ""
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +5, Athletics: +1 (+4 to Climb), Stealth: +5, Survival: +3"
+    desc: "Acrobatics: +5, Athletics: +1, Stealth: +5, Survival: +3"
 abilityMods: [-3, 4, 0, -4, 1, -2]
 speed: 20 feet,  climb 20 feet,  swim 20 feet
 sourcebook: "_Pathfinder Beginner Box_"
@@ -61,6 +63,12 @@ attacks:
   - name: "Viper Venom"
     desc: " (poison) A target damaged by the viper's fangs must succeed at a DC 16 Fortitude check save or take 1d10 poison damage."
  
+```
+
+```encounter-table
+name: Viper (BB)
+creatures:
+  - 1: Viper (BB)
 ```
 
 

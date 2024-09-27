@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/undead
   - pf2e/creature/type/unholy
+  - pf2eMonster
   - pf2e/creature/level/16
 statblock: inline
 name: "Lesser Death"
@@ -23,12 +24,12 @@ token: [[modules/pf2e-tokens-bestiaries/portraits/undead/skeletal/lesser-death.w
 source: "Pathfinder Bestiary"
 name: "Lesser Death"
 level: "Creature 16"
-rare_03: "Rare"
+rare_03: [[Rare]]
 alignment: ""
 size: "Medium"
-trait_01: "evil"
-trait_02: "undead"
-trait_03: "unholy"
+trait_01: [[evil]]
+trait_02: [[undead]]
+trait_03: [[unholy]]
 modifier: 32
 perception:
   - name: "Perception"
@@ -62,13 +63,13 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Aura of Misfortune"
-    desc: " (aura,divine,misfortune) 20 feet. Living creatures in the aura must roll twice on all d20 rolls and use the lower result.\n[[Bestiary Effects/Effect_ Aura of Misfortune|Effect: Aura of Misfortune]]"
+    desc: " (aura,divine,misfortune) 20 feet. Living creatures in the aura must roll twice on all d20 rolls and use the lower result.\n\n[[Bestiary Effects/Effect_ Aura of Misfortune|Effect: Aura of Misfortune]]"
 
   - name: "Lurking Death"
-    desc: "`pf2:r` (teleportation) **Trigger** A creature within 60 feet makes a ranged attack or uses an action that has the concentrate, manipulate, or move trait.\n**Effect** The lesser death teleports to a square adjacent to the triggering creature and makes a melee Strike against it. If the Strike hits, the lesser death disrupts the triggering action."
+    desc: "`pf2:r` (teleportation) **Trigger** A creature within 60 feet makes a ranged attack or uses an action that has the concentrate, manipulate, or move trait.\n* * *\n\n**Effect** The lesser death teleports to a square adjacent to the triggering creature and makes a melee Strike against it. If the Strike hits, the lesser death disrupts the triggering action."
 
   - name: "[[Bestiary Ability Glossary/Void Healing|Void Healing]]"
-    desc: "  A lesser death can choose whether or not it takes vitality damage.\n"
+    desc: "  A lesser death can choose whether or not it takes vitality damage.\n\n* * *\n"
 
 attacks:
   - name: ""
@@ -82,6 +83,12 @@ attacks:
   - name: "Infuse Weapon"
     desc: " (divine) Any scythe gains the agile trait, can't be disarmed, and becomes a _+2 Greater Striking Keen scythe_ while the lesser death wields it."
  
+```
+
+```encounter-table
+name: Lesser Death
+creatures:
+  - 1: Lesser Death
 ```
 
 

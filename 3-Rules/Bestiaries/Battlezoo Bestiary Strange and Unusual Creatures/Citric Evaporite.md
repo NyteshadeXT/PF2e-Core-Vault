@@ -7,6 +7,7 @@ aliases: "Compendium.battlezoo-bestiary-su-pf2e.pf2e-battlezoo-su-actors.Actor.o
 tags:
   - pf2e/creature/type/mindless
   - pf2e/creature/type/ooze
+  - pf2eMonster
   - pf2e/creature/level/11
 statblock: inline
 name: "Citric Evaporite"
@@ -25,15 +26,16 @@ level: "Creature 11"
 
 alignment: ""
 size: "Medium"
-trait_01: "mindless"
-trait_02: "ooze"
+trait_01: [[mindless]]
+trait_02: [[ooze]]
 modifier: 21
 perception:
   - name: "Perception"
-    desc: "+21; Motion Sense (Precise) 60 Feet"
+    desc: "+21; Motion Sense (Imprecise) 60 Feet"
+languages: ""
 skills:
   - name: "Skills"
-    desc: "Athletics: +23, Stealth: +19 (+23 when immersed in lava), "
+    desc: "Athletics: +23, Stealth: +19, Athletics: +23, Stealth: +19"
 abilityMods: [8, -2, 8, -5, 2, -5]
 speed: 10 feet
 sourcebook: "_Battlezoo Bestiary: Strange and Unusual_"
@@ -50,10 +52,10 @@ abilities_top:
   - name: ""
 
   - name: "Absorb Energy"
-    desc: "  The citric evaporite absorbs fire and electrical energy when it comes in contact with either energy type in its crystal form, transforming its body into a molten form for 3 rounds. It gains fast healing 5 while in the molten form.\n[[Effects/Effect_ Molten Form|Effect: Molten Form]]"
+    desc: "  The citric evaporite absorbs fire and electrical energy when it comes in contact with either energy type in its crystal form, transforming its body into a molten form for 3 rounds. It gains fast healing 5 while in the molten form.\n\n[[Effects/Effect_ Molten Form|Effect: Molten Form]]"
 
   - name: "Cooldown"
-    desc: "  The citric evaporite cools down after being in its molten form for 3 rounds without contacting fire, lava, or electrical energy or succeeding on a melee Strike against a warm- blooded creature. When that happens, it becomes Stunned 1 and reverts to its crystal form."
+    desc: "  The citric evaporite cools down after being in its molten form for 3 rounds without contacting fire, lava, or electrical energy or succeeding on a melee Strike against a warm- blooded creature. When that happens, it becomes [[undefined]] and reverts to its crystal form."
 
   - name: "Motion Sense 60 feet"
     desc: "  Citric evaporite can sense nearby creatures through vibration and air or water movement."
@@ -67,7 +69,7 @@ attacks:
   - name: ""
 
   - name: "Body Splash"
-    desc: "`pf2:3`  **Requirements** The citric evaporite is in molten form\n**Effect** The citric evaporate gathers up its material and spews it in a 15 foot emanation. Everyone in the area takes 8d6 bludgeoning damage and 8d6 fire damage (DC 27 Reflex check save). After a Body Splash, the citric evaporite splashes all over the ground and must use Reform before performing any other actions. It can't use Body Splash again until the next time it enters molten form."
+    desc: "`pf2:3`  **Requirements** The citric evaporite is in molten form\n* * *\n\n**Effect** The citric evaporate gathers up its material and spews it in a 15 foot emanation. Everyone in the area takes 8d6 bludgeoning damage and 8d6 fire damage (DC 27 Reflex check save). After a Body Splash, the citric evaporite splashes all over the ground and must use Reform before performing any other actions. It can't use Body Splash again until the next time it enters molten form."
 
   - name: "Lava Glide"
     desc: "  The citric evaporite can move through lava up to its molten form Speed, but it can't retain its form after leaving the lava. When leaving an area of lava, it must use Reform before performing any other actions."
@@ -75,6 +77,12 @@ attacks:
   - name: "Reform"
     desc: "`pf2:1`  The citric evaporite reforms its body into a cohesive structure and is able to act again. After using Body Splash or leaving an area of lava, the citric evaporite melts to the point that it must Reform itself before acting."
  
+```
+
+```encounter-table
+name: Citric Evaporite
+creatures:
+  - 1: Citric Evaporite
 ```
 
 

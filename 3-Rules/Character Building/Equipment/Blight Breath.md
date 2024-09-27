@@ -16,7 +16,7 @@ license: OGL
 ---
 # Blight Breath
 ## Item 12
-### [[3-Rules/Rule References/Air]][[bottled-breath]][[consumable]][[magical]][[3-Rules/Rule References/Poison]]
+### [[3-Rules/Rule References/Air]][[bottled-breath]][[consumable]][[3-Rules/Rule References/Magical]][[3-Rules/Rule References/Poison]]
 
 **Category** other; 
 **Price** 350 gp; 
@@ -27,7 +27,7 @@ license: OGL
 
 * * *
 
-This foul-smelling bottle contains compressed, noxious fumes. After you inhale the odious gases of the _blight breath_, you gain resistance 10 to poison for as long as you hold your breath. You can exhale the _blight breath_ as a single action. The resulting spray of noxious fumes deals 10d6 poison damage to each creature in a 15-foot cone, with a DC 29 Reflex check save
+This foul-smelling bottle contains compressed, noxious fumes. After you inhale the odious gases of the _blight breath_, you gain resistance 10 to poison for as long as you hold your breath. You can exhale the _blight breath_ as a single action. The resulting spray of noxious fumes deals 10d6 poison damage to each creature in a @Template\[cone|distance:15\], with a DC 29 Reflex check save
 
 [[Equipment Effects/Effect_ Blight Breath|Effect: Blight Breath]]
 

@@ -7,6 +7,7 @@ aliases: "Compendium.battlezoo-bestiary-su-pf2e.pf2e-battlezoo-su-actors.Actor.T
 tags:
   - pf2e/creature/type/chaotic
   - pf2e/creature/type/plant
+  - pf2eMonster
   - pf2e/creature/level/3
 statblock: inline
 name: "Keyweed"
@@ -25,16 +26,16 @@ level: "Creature 3"
 
 alignment: ""
 size: "Small"
-trait_01: "chaotic"
-trait_02: "plant"
+trait_01: [[chaotic]]
+trait_02: [[plant]]
 modifier: 12
 perception:
   - name: "Perception"
     desc: "+12; Darkvision"
-languages: "Common, Fey"
+languages: "Common, Fey; can&#x27;t speak any language; communicates via sign language"
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +10, Athletics: +9, Crafting: +9, Society: +9, Stealth: +11, Thievery: +13, "
+    desc: "Acrobatics: +10, Athletics: +9, Crafting: +9, Society: +9, Stealth: +11, Thievery: +13, Acrobatics: +10, Athletics: +9, Crafting: +9, Society: +9, Stealth: +11, Thievery: +13"
 abilityMods: [1, 4, 1, 1, 3, 3]
 speed: 20 feet,  climb 20 feet
 sourcebook: "_Battlezoo Bestiary: Strange and Unusual_"
@@ -59,20 +60,26 @@ attacks:
     desc: "`pf2:1` Vine +12 (agile, finesse)\n__Damage__  1d8 + 4 bludgeoning"
 
   - name: "Clever Vines"
-    desc: "`pf2:2`  The keyweed Strides up to once, and it then shapes itself into a suitable tool and Disables a Device or Picks a Lock. It has an expert proficiency in Thievery for the purpose of determining what hazards it can disable, and it has an expert proficiency in Perception for the purpose of determining what hazard it can detect."
+    desc: "`pf2:2`  The keyweed Strides up to once, and it then shapes itself into a suitable tool and [[Actions/Disable a Device|Disables a Device]] or [[Actions/Pick a Lock|Picks a Lock]]. It has an expert proficiency in Thievery for the purpose of determining what hazards it can disable, and it has an expert proficiency in Perception for the purpose of determining what hazard it can detect."
 
   - name: "Freeze"
     desc: "`pf2:2` (concentrate) Until the next time it acts, the keyweed gets an automatic result of 30 on Deception and Stealth checks and DCs to appear to be an ordinary shrubbery."
 
   - name: "Puffball"
-    desc: "`pf2:1` (poison) **Frequency** once per day\n**Effect** The keyweed scatters spore puffs in a 20-foot emanation, which remain for 1 round. For the duration, all creatures in the area are Concealed, and all other creatures are concealed to them. Creatures in the area when the keyweed first shoots out the Puffball must attempt a DC 20 Fortitude check save, with the following effects. Keyweeds are immune to this effect.\n**Success** The creature is unaffected.\n**Failure** The creature is Sickened 1.\n**Critical Failure** The creature is Sickened 2 and Slowed 1 as long as it remains sickened."
+    desc: "`pf2:1` (poison) **Frequency** once per day\n* * *\n\n**Effect** The keyweed scatters spore puffs in a 20-foot emanation, which remain for 1 round. For the duration, all creatures in the area are [[undefined]], and all other creatures are concealed to them. Creatures in the area when the keyweed first shoots out the Puffball must attempt a DC 20 Fortitude check save, with the following effects. Keyweeds are immune to this effect.\n* * *\n\n**Success** The creature is unaffected.\n\n**Failure** The creature is [[undefined]].\n\n**Critical Failure** The creature is [[undefined]] and [[undefined]] as long as it remains sickened."
 
   - name: "Snagging Strike"
-    desc: "`pf2:1`  The keyweed makes a vine Strike. If this Strike hits, the target is Off-Guard until the start of the keyweed's next turn or until it's no longer within the reach of its vine, whichever comes first."
+    desc: "`pf2:1`  The keyweed makes a vine Strike. If this Strike hits, the target is [[undefined]] until the start of the keyweed's next turn or until it's no longer within the reach of its vine, whichever comes first."
 
   - name: "[[Bestiary Ability Glossary/Sneak Attack|Sneak Attack]]"
     desc: "  The keyweed's Strikes deal 1d6 extra precision damage to flat- footed creatures."
  
+```
+
+```encounter-table
+name: Keyweed
+creatures:
+  - 1: Keyweed
 ```
 
 

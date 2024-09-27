@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.stolen-fate-bestiary.Actor.26mSMWZwuYBRDhBM"
 tags:
   - pf2e/creature/type/earth
   - pf2e/creature/type/elemental
+  - pf2eMonster
   - pf2e/creature/level/11
 statblock: inline
 name: "Crystalline Sentinel"
@@ -21,11 +22,11 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #191: The Destiny War"
 name: "Crystalline Sentinel"
 level: "Creature 11"
-rare_03: "Rare"
+rare_03: [[Rare]]
 alignment: ""
 size: "Medium"
-trait_01: "earth"
-trait_02: "elemental"
+trait_01: [[earth]]
+trait_02: [[elemental]]
 modifier: 20
 perception:
   - name: "Perception"
@@ -33,7 +34,7 @@ perception:
 languages: "Common, Draconic, Petran"
 skills:
   - name: "Skills"
-    desc: "Athletics: +22, Geology Lore: +19, Stealth: +22, Survival: +22"
+    desc: "Athletics: +22, Stealth: +22, Survival: +22, Geology Lore: +19"
 abilityMods: [7, 3, 5, 0, 5, 0]
 speed: 20 feet,  burrow 20 feet
 sourcebook: "_Pathfinder #191: The Destiny War_"
@@ -64,7 +65,7 @@ attacks:
     desc: "`pf2:2`  The Crystalline Sentinel makes three claw Strikes; no more than two can be against the same target. These attacks count toward it's multiple attack penalty, but the penalty doesn't increase until after all the attacks have been made."
 
   - name: "Crystal Corruption"
-    desc: " (arcane,curse,incapacitation) Creatures afflicted by this curse slowly turn to solid crystal. This affliction's sickened, slowed, and paralyzed conditions can't be removed until the affliction itself is removed. Creatures with both the earth and elemental traits instead become carriers and suffer no ill effects aside from gaining the weakness to sonic.\n**Saving Throw** DC 30 Fortitude check\n**Stage 1** sickened 1 (1 hour)\n**Stage 2** weakness 5 to sonic and [[Conditions/Sickened 1|Sickened 1]] (1 day)\n**Stage 3** weakness 5 to sonic and [[Conditions/Slowed 1|Slowed 1]] (1 day)\n**Stage 4** weakness 10 to sonic and [[Conditions/Paralyzed|Paralyzed]] (1 day)\n**Stage 5** weakness 10 to sonic, and the creature is permanently [[Conditions/Petrified|Petrified]]."
+    desc: " (arcane,curse,incapacitation) Creatures afflicted by this curse slowly turn to solid crystal. This affliction's sickened, slowed, and paralyzed conditions can't be removed until the affliction itself is removed. Creatures with both the earth and elemental traits instead become carriers and suffer no ill effects aside from gaining the weakness to sonic.\n\n**Saving Throw** DC 30 Fortitude check\n\n**Stage 1** sickened 1 (1 hour)\n\n**Stage 2** weakness 5 to sonic and [[Conditions/Sickened|Sickened 1]] (1 day)\n\n**Stage 3** weakness 5 to sonic and [[Conditions/Slowed|Slowed 1]] (1 day)\n\n**Stage 4** weakness 10 to sonic and [[Conditions/Paralyzed|Paralyzed]] (1 day)\n\n**Stage 5** weakness 10 to sonic, and the creature is permanently [[Conditions/Petrified|Petrified]]."
 
   - name: "Crystal Splinter"
     desc: "  On a critical hit with a claw Strike, the crystalline sentinel inflicts 2d6 persistent bleed damage."
@@ -72,6 +73,12 @@ attacks:
   - name: "Earth Glide"
     desc: "  The xorn can Burrow through any earthen matter, including rock. When it does so, the xorn moves at its full burrow Speed, leaving no tunnels or signs of its passing."
  
+```
+
+```encounter-table
+name: Crystalline Sentinel
+creatures:
+  - 1: Crystalline Sentinel
 ```
 
 

@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/amphibious
   - pf2e/creature/type/evil
   - pf2e/creature/type/swarm
+  - pf2eMonster
   - pf2e/creature/level/8
 statblock: inline
 name: "Myzoform"
@@ -27,17 +28,18 @@ level: "Creature 8"
 
 alignment: ""
 size: "Large"
-trait_01: "aberration"
-trait_02: "amphibious"
-trait_03: "evil"
-trait_04: "swarm"
+trait_01: [[aberration]]
+trait_02: [[amphibious]]
+trait_03: [[evil]]
+trait_04: [[swarm]]
 modifier: 16
 perception:
   - name: "Perception"
     desc: "+16; Darkvision"
+languages: "tongues"
 skills:
   - name: "Skills"
-    desc: "Arcana: +16, Deception: +18, Occultism: +18, Stealth: +18, Athletics: +17"
+    desc: "Arcana: +16, Athletics: +17, Deception: +18, Occultism: +18, Stealth: +18"
 abilityMods: [3, 4, 5, 6, 2, 0]
 speed: 25 feet
 sourcebook: "_Battlezoo Bestiary_"
@@ -68,11 +70,17 @@ attacks:
     desc: "DC 26, attack +18; __4th __  _[[Spells/Acid Arrow|Acid Arrow]]_, _[[Spells/Confusion|Confusion]]_, _[[Spells/Confusion|Confusion]]_; __3rd __  _[[Spells/Blindness|Blindness]]_, _[[Spells/Blindness|Blindness]]_, _[[Spells/Force Barrage|Magic Missile]]_; __2nd __  _[[Spells/Darkness|Darkness]]_, _[[Spells/Darkness|Darkness]]_\n__Constant__  __(5th)__ _[[Spells/Truespeech|Tongues]]_"
 
   - name: "[[Bestiary Ability Glossary/Change Shape|Change Shape]]"
-    desc: "`pf2:1` (concentrate,occult,polymorph) The myzoform takes on the appearance of any Small or Medium humanoid. This doesn't change its Speed or attack and damage bonuses with its Strikes, but might change the damage type its Strikes deal (typically to bludgeoning).\n"
+    desc: "`pf2:1` (concentrate,occult,polymorph) The myzoform takes on the appearance of any Small or Medium humanoid. This doesn't change its Speed or attack and damage bonuses with its Strikes, but might change the damage type its Strikes deal (typically to bludgeoning).\n\n* * *\n"
 
   - name: "Leech Mind"
-    desc: "`pf2:2` (mental,occult) **Requirements** The myzoform has a creature Grabbed;\n**Effect** The myzoform latches its many lamprey mouths onto the grabbed creature, then feasts upon the victim's memories, dealing 4d4 + 10 mental damage. The target must attempt a Will save.\n**Critical Success** The creature takes no damage and the grab ends.\n**Success** The creature takes half damage.\n**Failure** The creature takes full damage, is Stupefied 1, and permanently loses 1 minute's worth of memories, which are replaced with only an indistinct haze. The stupefied condition remains until the creature receives magical healing.\n**Critical Failure** As failure, but the creature takes double damage, is Stupefied 2, and loses 5 minutes' worth of memories."
+    desc: "`pf2:2` (mental,occult) **Requirements** The myzoform has a creature [[Conditions/Grabbed|Grabbed]];\n\n**Effect** The myzoform latches its many lamprey mouths onto the grabbed creature, then feasts upon the victim's memories, dealing 4d4+10 mental damage. The target must attempt a DC 25 Will save.\n* * *\n\n**Critical Success** The creature takes no damage and the grab ends.\n\n**Success** The creature takes half damage.\n\n**Failure** The creature takes full damage, is [[Conditions/Stupefied|Stupefied 1]], and permanently loses 1 minute's worth of memories, which are replaced with only an indistinct haze. The stupefied condition remains until the creature receives magical healing.\n\n**Critical Failure** As failure, but the creature takes double damage, is [[Conditions/Stupefied|Stupefied 2]], and loses 5 minutes' worth of memories."
  
+```
+
+```encounter-table
+name: Myzoform
+creatures:
+  - 1: Myzoform
 ```
 
 

@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/chaotic
   - pf2e/creature/type/human
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/11
 statblock: inline
 name: "Quintessa Maray"
@@ -22,12 +23,12 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Kingmaker"
 name: "Quintessa Maray"
 level: "Creature 11"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Medium"
-trait_01: "chaotic"
-trait_02: "human"
-trait_03: "humanoid"
+trait_01: [[chaotic]]
+trait_02: [[human]]
+trait_03: [[humanoid]]
 modifier: 20
 perception:
   - name: "Perception"
@@ -55,7 +56,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Damsel Act"
-    desc: "`pf2:r` (mental) **Trigger** A critical hit is scored against Lady Quintessa\n**Effect** Lady Quintessa exaggerates the impact of the blow, attempting to trick her foes into underestimating her as weak and frail. She makes a [[Actions/Feint|Feint]] attempt against the triggering creature. If she successfully performs her Damsel Act while she has an inspire courage composition active, the duration of that composition increases by 1 round."
+    desc: "`pf2:r` (mental) **Trigger** A critical hit is scored against Lady Quintessa\n\n**Effect** Lady Quintessa exaggerates the impact of the blow, attempting to trick her foes into underestimating her as weak and frail. She makes a [[Actions/Feint|Feint]] attempt against the triggering creature. If she successfully performs her Damsel Act while she has an inspire courage composition active, the duration of that composition increases by 1 round."
 
 attacks:
   - name: ""
@@ -73,8 +74,14 @@ attacks:
     desc: "2 Focus Points, DC 30, attack +22; __6th __  _[[Spells/Fortissimo Composition|Inspire Heroics]]_\n__Cantrips__  __(6th)__ _[[Spells/Courageous Anthem|Inspire Courage]]_"
 
   - name: "Quickened Casting"
-    desc: " (concentrate,spellshape) **Frequency** once per day\n**Effect** If Quintessa's next action is to cast a bard cantrip or a bard spell that is 4th level or lower, reduce the number of actions to cast it by 1 (minimum 1 action)."
+    desc: " (concentrate,spellshape) **Frequency** once per day\n\n**Effect** If Quintessa's next action is to cast a bard cantrip or a bard spell that is 4th level or lower, reduce the number of actions to cast it by 1 (minimum 1 action)."
  
+```
+
+```encounter-table
+name: Quintessa Maray
+creatures:
+  - 1: Quintessa Maray
 ```
 
 

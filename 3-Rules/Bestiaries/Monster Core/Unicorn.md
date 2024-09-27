@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/beast
   - pf2e/creature/type/fey
   - pf2e/creature/type/holy
+  - pf2eMonster
   - pf2e/creature/level/3
   - remaster
 statblock: inline
@@ -27,9 +28,9 @@ level: "Creature 3"
 
 alignment: ""
 size: "Large"
-trait_01: "beast"
-trait_02: "fey"
-trait_03: "holy"
+trait_01: [[beast]]
+trait_02: [[fey]]
+trait_03: [[holy]]
 modifier: 13
 perception:
   - name: "Perception"
@@ -76,6 +77,12 @@ attacks:
   - name: "Powerful Charge"
     desc: "`pf2:2`  The unicorn Strides up to double its Speed in a straight line and then makes a horn Strike. If the unicorn moved at least 20 feet, it deals an additional 2d6 damage on a hit."
  
+```
+
+```encounter-table
+name: Unicorn
+creatures:
+  - 1: Unicorn
 ```
 
 

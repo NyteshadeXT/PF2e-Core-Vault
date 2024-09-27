@@ -5,6 +5,7 @@ noteType: pf2eHazard
 tags:
   - environmental
   - fungus
+  - pf2eHazard
 
 source: Pathfinder #145: Hellknight Hill
 aliases: "Compendium.pf2e.age-of-ashes-bestiary.Actor.oHUIqVPBpHAbN3qO" 
@@ -22,14 +23,14 @@ name: "Gloomglow Mushrooms"
 level: "Hazard 5"
 
 
-trait_01: "environmental"
-trait_02: "fungus"
+trait_01: [[environmental]]
+trait_02: [[fungus]]
 modifier: 16
 sourcebook: "_Pathfinder #145: Hellknight Hill_"
 ac: 21
 armorclass:
   - name: AC
-    desc: "21; __Fort__ +13, __Ref__ +9, __Will__ +0"
+    desc: "21; __Fort__ +13, __Ref__ +9, "
 hp: 52
 health:
   - name: ""
@@ -51,9 +52,15 @@ attacks:
   - name: ""
 
   - name: "Glowing Spores"
-    desc: "`pf2:r` **Trigger** A creature moves into the mushrooms' space or damages the mushrooms. The mushrooms can't use this reaction if the damage was cold damage.\n**Effect** The triggering creature and all creatures within 10 feet are sprayed with itchy, distracting, glowing spores and must attempt a DC 22 Reflex check save. On a failed save, the creatures become [[Conditions/Sickened 1|Sickened 1]] and [[Conditions/Stupefied 1|Stupefied 1]] (or [[Conditions/Sickened 1|Sickened 2]] and [[Conditions/Stupefied 1|Stupefied 2]] on a critical failure) and take a -4 penalty to Stealth checks until the spores lose potency in 24 hours or are removed. This requires washing them off by bathing in water for a minute, a [[Spells/Prestidigitation|Prestidigitation]] spell, or a similar measure allowed by the GM.\n[[Bestiary Effects/Effect_ Glowing Spores|Effect: Glowing Spores]]"
+    desc: "`pf2:r` **Trigger** A creature moves into the mushrooms' space or damages the mushrooms. The mushrooms can't use this reaction if the damage was cold damage.\n* * *\n\n**Effect** The triggering creature and all creatures within 10 feet are sprayed with itchy, distracting, glowing spores and must attempt a DC 22 Reflex check save. On a failed save, the creatures become [[Conditions/Sickened|Sickened 1]] and [[Conditions/Stupefied|Stupefied 1]] (or [[Conditions/Sickened|Sickened 2]] and [[Conditions/Stupefied|Stupefied 2]] on a critical failure) and take a -4 penalty to Stealth checks until the spores lose potency in 24 hours or are removed. This requires washing them off by bathing in water for a minute, a [[Spells/Prestidigitation|Prestidigitation]] spell, or a similar measure allowed by the GM.\n\n[[Bestiary Effects/Effect_ Glowing Spores|Effect: Glowing Spores]]"
 
 
 
+```
+
+```encounter-table
+name: Gloomglow Mushrooms
+creatures:
+  - 1: Gloomglow Mushrooms
 ```
 

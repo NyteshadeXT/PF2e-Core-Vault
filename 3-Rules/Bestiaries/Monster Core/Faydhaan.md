@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/elemental
   - pf2e/creature/type/genie
   - pf2e/creature/type/water
+  - pf2eMonster
   - pf2e/creature/level/9
   - remaster
 statblock: inline
@@ -20,15 +21,16 @@ license: ORC
 columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
+token: [[modules/pf2e-tokens-bestiaries/portraits/elemental/genie/marid.webp| ]]
 source: "Pathfinder Monster Core"
 name: "Faydhaan"
 level: "Creature 9"
 
 alignment: ""
 size: "Large"
-trait_01: "elemental"
-trait_02: "genie"
-trait_03: "water"
+trait_01: [[elemental]]
+trait_02: [[genie]]
+trait_03: [[water]]
 modifier: 16
 perception:
   - name: "Perception"
@@ -36,7 +38,7 @@ perception:
 languages: "Common, Thalassic, Muan, Petran, Pyric, Sussuran, Talican; Truespeech"
 skills:
   - name: "Skills"
-    desc: "Athletics: +19 (+23 to Swim), Crafting: +16, Deception: +18, Diplomacy: +20, Nature: +18, Performance: +20, Society: +16, Stealth: +18"
+    desc: "Athletics: +19, Crafting: +16, Deception: +18, Diplomacy: +20, Nature: +18, Performance: +20, Society: +16, Stealth: +18"
 abilityMods: [4, 5, 2, 1, 3, 5]
 speed: 25 feet,  swim 40 feet
 sourcebook: "_Pathfinder Monster Core_"
@@ -82,6 +84,12 @@ attacks:
   - name: "Skewer"
     desc: "`pf2:1`  The faydhaan makes a trident Strike, dealing an extra 2d6 persistent bleed damage on a hit (4d6 on a critical hit)."
  
+```
+
+```encounter-table
+name: Faydhaan
+creatures:
+  - 1: Faydhaan
 ```
 
 

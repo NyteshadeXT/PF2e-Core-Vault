@@ -6,6 +6,7 @@ cssClasses: pf2e
 aliases: "Compendium.battlezoo-bestiary-su-pf2e.pf2e-battlezoo-su-actors.Actor.F0YlQ2jI0LLmuB8Z" 
 tags:
   - pf2e/creature/type/construct
+  - pf2eMonster
   - pf2e/creature/level/12
 statblock: inline
 name: "Silkwurm"
@@ -21,17 +22,18 @@ token: [[modules/battlezoo-bestiary-su-pf2e/art/Portraits/silkwurm.webp| ]]
 source: "Battlezoo Bestiary: Strange and Unusual"
 name: "Silkwurm"
 level: "Creature 12"
-rare_03: "Rare"
+rare_03: [[Rare]]
 alignment: ""
 size: "grg"
-trait_01: "construct"
+trait_01: [[construct]]
 modifier: 18
 perception:
   - name: "Perception"
     desc: "+18; Darkvision, Tremorsense (Imprecise) 100 Feet"
+languages: ""
 skills:
   - name: "Skills"
-    desc: "Athletics: +28, "
+    desc: "Athletics: +28, Athletics: +28"
 abilityMods: [8, 4, 7, -5, 4, -5]
 speed: 40 feet,  burrow 20 feet,  climb 20 feet
 sourcebook: "_Battlezoo Bestiary: Strange and Unusual_"
@@ -50,10 +52,10 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Adhesive Webbing"
-    desc: "  Any creature that Strikes the silkwurm with a melee weapon must attempt a DC 29 Reflex check save. On a failure, the creature is disarmed of its weapon, which becomes stuck to the silkwurm's body; if the Strike was an unarmed attack, the creature's limb sticks to the silkwurm's body and the creature becomes Immobilized. A creature must succeed at a DC 24 Athletics check check to retrieve a stuck weapon. On a failure, the creature takes 2d6 piercing damage and the weapon remains stuck, and on a critical failure, the creature also becomes stuck to the silkwurm and becomes immobilized. A stuck creature takes 2d6 piercing damage each round at the end of its turn if it remains stuck to the silkwurm, and it can use an Escape action to try to free itself from the construct, with an Escape DC of 24."
+    desc: "  Any creature that Strikes the silkwurm with a melee weapon must attempt a DC 29 Reflex check save. On a failure, the creature is disarmed of its weapon, which becomes stuck to the silkwurm's body; if the Strike was an unarmed attack, the creature's limb sticks to the silkwurm's body and the creature becomes [[undefined]]. A creature must succeed at a DC 24 Athletics check check to retrieve a stuck weapon. On a failure, the creature takes 2d6 piercing damage and the weapon remains stuck, and on a critical failure, the creature also becomes stuck to the silkwurm and becomes immobilized. A stuck creature takes 2d6 piercing damage each round at the end of its turn if it remains stuck to the silkwurm, and it can use an [[undefined]] action to try to free itself from the construct, with an Escape DC of 24."
 
   - name: "Nest Defense"
-    desc: "`pf2:r`  **Trigger** The silkwurm takes slashing damage from an adjacent creature or takes a critical hit from an adjacent creature.\n**Effect** The spiders within the silkwurm sense a major intrusion and swarm to fend off the invaders. The triggering creature must attempt a DC 30 Reflex check save. On a failure, the creature takes 6d6 piercing damage and becomes Frightened 1 (Frightened 2 on a critical failure) as a legion of spiders leap onto the attacker."
+    desc: "`pf2:r`  **Trigger** The silkwurm takes slashing damage from an adjacent creature or takes a critical hit from an adjacent creature.\n* * *\n\n**Effect** The spiders within the silkwurm sense a major intrusion and swarm to fend off the invaders. The triggering creature must attempt a DC 30 Reflex check save. On a failure, the creature takes 6d6 piercing damage and becomes [[undefined]] ([[undefined]] on a critical failure) as a legion of spiders leap onto the attacker."
 
 attacks:
   - name: ""
@@ -70,6 +72,12 @@ attacks:
   - name: "Breath Weapon"
     desc: "`pf2:2` (primal) The silkwurm breathes out a host of spiders that deals 13d6 piercing damage in a 60-foot cone with a basic DC 32 Reflex check save. The silkwurm can't use its Breath Weapon again for 1d4 rounds."
  
+```
+
+```encounter-table
+name: Silkwurm
+creatures:
+  - 1: Silkwurm
 ```
 
 

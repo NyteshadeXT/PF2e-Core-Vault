@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/fiend
   - pf2e/creature/type/unholy
+  - pf2eMonster
   - pf2e/creature/level/8
 statblock: inline
 name: "Horrid Nightmare"
@@ -23,13 +24,13 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Society Scenario #3-17: Dreams of a Dustbound Isle"
 name: "Horrid Nightmare"
 level: "Creature 8"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Large"
-trait_01: "beast"
-trait_02: "evil"
-trait_03: "fiend"
-trait_04: "unholy"
+trait_01: [[beast]]
+trait_02: [[evil]]
+trait_03: [[fiend]]
+trait_04: [[unholy]]
 modifier: 16
 perception:
   - name: "Perception"
@@ -56,7 +57,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Smoke"
-    desc: " (aura) 15 feet. The nightmare continually exhales black smoke that creates [[Conditions/Concealed|Concealment]] in an aura around it. Nightmares and their riders can see through this smoke. A creature that begins its turn in the area becomes [[Conditions/Sickened 1|Sickened 2]] (DC 25 Fortitude check negates) and is then temporarily immune sickness from the smoke for 1 minute. The nightmare, its rider, any creature currently holding its breath (or that does not need to breathe), and any creature immune to poison are immune to the aura's sickened effect but not the concealment."
+    desc: " (aura) 15 feet. The nightmare continually exhales black smoke that creates [[Conditions/Concealed|Concealment]] in an aura around it. Nightmares and their riders can see through this smoke. A creature that begins its turn in the area becomes [[Conditions/Sickened|Sickened 2]] (DC 25 Fortitude check negates) and is then temporarily immune sickness from the smoke for 1 minute. The nightmare, its rider, any creature currently holding its breath (or that does not need to breathe), and any creature immune to poison are immune to the aura's sickened effect but not the concealment."
 
 attacks:
   - name: ""
@@ -73,6 +74,12 @@ attacks:
   - name: "Flaming Gallop"
     desc: "`pf2:2` (fire) The nightmare Strides or Flies up to triple its Speed. Its hooves burst with intense flame, dealing 4d6 fire damage (DC 26 Reflex check save) once to each creature other than the nightmare's rider that the nightmare moves adjacent to during its gallop."
  
+```
+
+```encounter-table
+name: Horrid Nightmare
+creatures:
+  - 1: Horrid Nightmare
 ```
 
 

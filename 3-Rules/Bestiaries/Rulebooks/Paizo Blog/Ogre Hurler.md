@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/giant
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/4
 statblock: inline
 name: "Ogre Hurler"
@@ -22,12 +23,12 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Blog"
 name: "Ogre Hurler"
 level: "Creature 4"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Large"
-trait_01: "evil"
-trait_02: "giant"
-trait_03: "humanoid"
+trait_01: [[evil]]
+trait_02: [[giant]]
+trait_03: [[humanoid]]
 modifier: 10
 perception:
   - name: "Perception"
@@ -67,8 +68,14 @@ attacks:
     desc: "`pf2:1` Spear +9 (thrown 20 ft.)\n__Damage__  1d6 + 8 piercing"
 
   - name: "Toss Kobold"
-    desc: "`pf2:2`  **Requirements** A kobold is within 10 feet of the ogre\n**Effect** The ogre picks up the kobold and hurls it at another creature within 30 feet. This ranged Strike has a +14 attack modifier and deals 2d8 + 6 bludgeoning damage. The kobold takes half the damage dealt to the target and is [[Conditions/Prone|Prone]]."
+    desc: "`pf2:2`  **Requirements** A kobold is within 10 feet of the ogre\n* * *\n\n**Effect** The ogre picks up the kobold and hurls it at another creature within 30 feet. This ranged Strike has a +14 attack modifier and deals 2d8+6 bludgeoning damage. The kobold takes half the damage dealt to the target and is [[Conditions/Prone|Prone]]."
  
+```
+
+```encounter-table
+name: Ogre Hurler
+creatures:
+  - 1: Ogre Hurler
 ```
 
 

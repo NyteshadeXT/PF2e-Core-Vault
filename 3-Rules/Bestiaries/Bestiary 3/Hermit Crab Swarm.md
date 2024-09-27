@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/amphibious
   - pf2e/creature/type/animal
   - pf2e/creature/type/swarm
+  - pf2eMonster
   - pf2e/creature/level/4
 statblock: inline
 name: "Hermit Crab Swarm"
@@ -26,13 +27,14 @@ level: "Creature 4"
 
 alignment: ""
 size: "Large"
-trait_01: "amphibious"
-trait_02: "animal"
-trait_03: "swarm"
+trait_01: [[amphibious]]
+trait_02: [[animal]]
+trait_03: [[swarm]]
 modifier: 11
 perception:
   - name: "Perception"
     desc: "+11; Darkvision, Tremorsense (Imprecise) 15 Feet"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Athletics: +12"
@@ -57,8 +59,14 @@ attacks:
   - name: ""
 
   - name: "Swarming Snips"
-    desc: "`pf2:1`  Each enemy in the swarm's space takes 2d8 piercing damage (DC 20 Reflex check save).\nCreatures that fail this save also take 1d4 bleed."
+    desc: "`pf2:1`  Each enemy in the swarm's space takes 2d8 piercing damage (DC 20 Reflex check save).\n\nCreatures that fail this save also take 1d4 bleed."
  
+```
+
+```encounter-table
+name: Hermit Crab Swarm
+creatures:
+  - 1: Hermit Crab Swarm
 ```
 
 

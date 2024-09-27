@@ -5,6 +5,7 @@ noteType: pf2eHazard
 tags:
   - mechanical
   - trap
+  - pf2eHazard
 
 source: Pathfinder #154: Siege of the Dinosaurs
 aliases: "Compendium.pf2e.extinction-curse-bestiary.Actor.Z5E6UrUkiVW2UQRO" 
@@ -22,14 +23,14 @@ name: "Explosive Furniture Trap"
 level: "Hazard 12"
 
 
-trait_01: "mechanical"
-trait_02: "trap"
+trait_01: [[mechanical]]
+trait_02: [[trap]]
 modifier: 20
 sourcebook: "_Pathfinder #154: Siege of the Dinosaurs_"
 ac: 33
 armorclass:
   - name: AC
-    desc: "33; __Fort__ +25, __Ref__ +19, __Will__ +0"
+    desc: "33; __Fort__ +25, __Ref__ +19, "
 hp: 84
 health:
   - name: ""
@@ -51,9 +52,15 @@ attacks:
   - name: ""
 
   - name: "Unsprung Wires"
-    desc: "`pf2:r` **Trigger** A creature moves within 5 feet of the pile of broken furniture\n**Effect** The pile of furniture and entangling wires explodes outward. The trap deals 6d10 + 27 slashing damage (DC 32 Reflex check save). On a failed save, the target takes a -10-foot penalty to all its Speeds for 1 round (1 minute on a critical failure)."
+    desc: "`pf2:r` **Trigger** A creature moves within 5 feet of the pile of broken furniture\n* * *\n\n**Effect** The pile of furniture and entangling wires explodes outward. The trap deals 6d10+27 slashing damage (DC 32 Reflex check save). On a failed save, the target takes a -10-foot penalty to all its Speeds for 1 round (1 minute on a critical failure)."
 
 
 
+```
+
+```encounter-table
+name: Explosive Furniture Trap
+creatures:
+  - 1: Explosive Furniture Trap
 ```
 

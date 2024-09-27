@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/angel
   - pf2e/creature/type/celestial
   - pf2e/creature/type/holy
+  - pf2eMonster
   - pf2e/creature/level/1
   - remaster
 statblock: inline
@@ -27,9 +28,9 @@ level: "Creature 1"
 
 alignment: ""
 size: "tiny"
-trait_01: "angel"
-trait_02: "celestial"
-trait_03: "holy"
+trait_01: [[angel]]
+trait_02: [[celestial]]
+trait_03: [[holy]]
 modifier: 6
 perception:
   - name: "Perception"
@@ -71,7 +72,7 @@ attacks:
     desc: "`pf2:1` (concentrate,divine,polymorph) A cassisian can take the appearance of a dove, a winged humanoid, a dog, or a fish. Normally, this doesn't change their Speed or the attack and damage bonuses for their Strikes, but it might change the damage type Strikes deal (typically to bludgeoning). Any further changes for specific forms are noted below.\n\n*   **Dog**\n    *   **Size** Small;\n    *   [[Bestiary Ability Glossary/Scent|Scent (Imprecise) 30 feet]],\n    *   **Speed** 40 feet;\n    *   **Skills** Athletics +6;\n    *   **Melee** jaws +7, **Damage** 1d6+2 piercing plus [[Bestiary Ability Glossary/Knockdown|Knockdown]]\n*   **Fish**\n    *   **Speed** Swim 30 feet\n\n* * *\n"
 
   - name: "Eye Beams"
-    desc: "`pf2:2` (concentrate,divine,holy) The cassisian releases beams of heat or cold from their eyes, dealing 2d6 cold or fire damage (DC 17 Reflex check save) to all creatures in a 15-foot line. They can't use Eye Beams again for 1d4 rounds."
+    desc: "`pf2:2` (concentrate,divine,holy) The cassisian releases beams of heat or cold from their eyes, dealing 2d6 cold or fire damage (DC 17 Reflex check save) to all creatures in a @Template[line|distance:15]. They can't use Eye Beams again for 1d4 rounds."
 
   - name: "Repository of Lore"
     desc: "  While the cassisian isn't particularly intelligent, they have perfect memory and can remember everything they see or hear. This allows them to attempt Lore checks on any topic, provided (at the GM's discretion) they've encountered the topic in question before. The cassisian's limited intellect often prevents them from acting upon their knowledge, making them a better resource than agent in using information."
@@ -79,6 +80,12 @@ attacks:
   - name: "[[Bestiary Ability Glossary/Knockdown|Knockdown]]"
     desc: "`pf2:1`  "
  
+```
+
+```encounter-table
+name: Cassisian
+creatures:
+  - 1: Cassisian
 ```
 
 

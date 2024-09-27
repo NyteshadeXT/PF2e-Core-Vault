@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/chaotic
   - pf2e/creature/type/evil
   - pf2e/creature/type/fey
+  - pf2eMonster
   - pf2e/creature/level/3
 statblock: inline
 name: "Spring-Heeled Jack"
@@ -22,12 +23,12 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Lost Omens: Monsters of Myth"
 name: "Spring-Heeled Jack"
 level: "Creature 3"
-rare_03: "Rare"
+rare_03: [[Rare]]
 alignment: ""
 size: "Small"
-trait_01: "chaotic"
-trait_02: "evil"
-trait_03: "fey"
+trait_01: [[chaotic]]
+trait_02: [[evil]]
+trait_03: [[fey]]
 modifier: 10
 perception:
   - name: "Perception"
@@ -35,7 +36,7 @@ perception:
 languages: "Common, Fey"
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +9, Athletics: +10 (+14 to High Jump or Long Jump), Deception: +8, Intimidation: +10, Stealth: +11, Thievery: +9"
+    desc: "Acrobatics: +9, Athletics: +10, Deception: +8, Intimidation: +10, Stealth: +11, Thievery: +9"
 abilityMods: [3, 4, 1, 0, 1, 3]
 speed: 40 feet
 sourcebook: "_Pathfinder Lost Omens: Monsters of Myth_"
@@ -58,7 +59,7 @@ abilities_mid:
     desc: "`pf2:r`  "
 
   - name: "[[Bestiary Ability Glossary/Frightful Presence|Frightful Presence]]"
-    desc: " (aura,emotion,fear,mental) 15 feet. DC 17 Will check\n"
+    desc: " (aura,emotion,fear,mental) 15 feet. DC 17 Will check\n\n* * *\n"
 
 attacks:
   - name: ""
@@ -73,14 +74,20 @@ attacks:
     desc: "DC 20, attack +12; __5th __  _[[Spells/Magic Passage|Passwall]]_; __1st __  _[[Spells/Gentle Landing|Feather Fall (At Will)]]_\n__Constant__  __(2nd)__ _[[Spells/Vanishing Tracks|Pass Without Trace]]_"
 
   - name: "Breath Weapon"
-    desc: "`pf2:2` (fire,primal) Spring-Heeled Jack exhales a gout of bright blue fire that deals 4d6 fire damage in a 15-foot cone (DC 20 Reflex check save).\nHe can't use Breath Weapon again for 1d4 rounds."
+    desc: "`pf2:2` (fire,primal) Spring-Heeled Jack exhales a gout of bright blue fire that deals 4d6 fire damage in a @Template[cone|distance:15] (DC 20 Reflex check save).\n\nHe can't use Breath Weapon again for 1d4 rounds."
 
   - name: "Malicious Stab"
-    desc: "  Spring-Heeled Jack deals an additional 1d6 precision damage to [[Conditions/Off-Guard|Off-Guard]] or [[Conditions/Frightened 1|Frightened]] creatures (2d6 precision damage to creatures that are both off-guard and frightened)."
+    desc: "  Spring-Heeled Jack deals an additional 1d6 precision damage to [[Conditions/Off-Guard|Off-Guard]] or [[Conditions/Frightened|Frightened]] creatures (2d6 precision damage to creatures that are both off-guard and frightened)."
 
   - name: "Vault"
     desc: "`pf2:1` (move) Spring-Heeled Jack jumps up to 20 feet in any direction, including vertically. This movement doesn't trigger reactions based on movement."
  
+```
+
+```encounter-table
+name: Spring-Heeled Jack
+creatures:
+  - 1: Spring-Heeled Jack
 ```
 
 

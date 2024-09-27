@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/genie
   - pf2e/creature/type/plant
   - pf2e/creature/type/wood
+  - pf2eMonster
   - pf2e/creature/level/11
   - remaster
 statblock: inline
@@ -24,21 +25,21 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Rage of Elements"
 name: "Kizidhar Shuyookh"
 level: "Creature 11"
-rare_03: "Rare"
+rare_03: [[Rare]]
 alignment: ""
 size: "Large"
-trait_01: "elemental"
-trait_02: "genie"
-trait_03: "plant"
-trait_04: "wood"
+trait_01: [[elemental]]
+trait_02: [[genie]]
+trait_03: [[plant]]
+trait_04: [[wood]]
 modifier: 22
 perception:
   - name: "Perception"
     desc: "+22; Darkvision"
-languages: "Common, Muan"
+languages: "Common, Muan; speak with plants, truespeech"
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +20, Arcana: +19, Athletics: +22, Crafting: +23, Deception: +21, Intimidation: +21, Nature: +24, Stealth: +22 (+24 in forests)"
+    desc: "Acrobatics: +20, Arcana: +19, Athletics: +22, Crafting: +23, Deception: +21, Intimidation: +21, Nature: +24, Stealth: +22"
 abilityMods: [5, 5, 7, 4, 4, 4]
 speed: 25 feet,  climb 25 feet
 sourcebook: "_Pathfinder Rage of Elements_"
@@ -61,7 +62,7 @@ abilities_mid:
     desc: "`pf2:r`  "
 
   - name: "Sprout Shield"
-    desc: "`pf2:r`  **Trigger** An enemy hits the kizidhar shuyookh with a melee Strike\n**Requirements** The kizidhar shuyookh doesn't have a shield raised\n**Effect** The shuyookh can use Sculpt Wood to create a duskwood shield if they don't already have one. The shuyookh then Raises their Shield. The circumstance bonus from the shield applies to their AC against the triggering attack."
+    desc: "`pf2:r`  **Trigger** An enemy hits the kizidhar shuyookh with a melee Strike\n\n**Requirements** The kizidhar shuyookh doesn't have a shield raised\n* * *\n\n**Effect** The shuyookh can use Sculpt Wood to create a duskwood shield if they don't already have one. The shuyookh then Raises their Shield. The circumstance bonus from the shield applies to their AC against the triggering attack."
 
 attacks:
   - name: ""
@@ -76,10 +77,10 @@ attacks:
     desc: "DC 30, attack +22; __7th __  _[[Compendium.pf2e.spells-srd.Item.nRINcQb81Wt4KeFu|Interplanar Teleport (At Will; To Astral Plane, Elemental Planes, or the Universe Only)]]_; __6th __  _[[Spells/Invisibility|Invisibility (x2)]]_, _[[Spells/Lignify|Lignify]]_, _[[Spells/Nature's Pathway|Nature's Pathway (At Will)]]_; __3rd __  _[[Spells/Wooden Double|Wooden Double]]_; __2nd __  _[[Spells/Entangling Flora|Entangling Flora (At Will)]]_, _[[Compendium.pf2e.spells-srd.Item.CJJ27kJew3nq0Du6|One With Plants]]_\n__Cantrips__  __(6th)__ _[[Spells/Detect Magic|Detect Magic]]_\n__Constant__  __(6th)__ _[[Spells/Speak with Plants|Speak with Plants]]_, _[[Spells/Truespeech|Truespeech]]_"
 
   - name: "[[Bestiary Ability Glossary/Change Shape|Change Shape]]"
-    desc: "`pf2:1` (concentrate,polymorph) The kizidhar transforms into a Small or Medium wood elemental or plant creature. This doesn't affect the kizidhar's statistics, but it could change the damage type of their Strikes.\n"
+    desc: "`pf2:1` (concentrate,polymorph) The kizidhar transforms into a Small or Medium wood elemental or plant creature. This doesn't affect the kizidhar's statistics, but it could change the damage type of their Strikes.\n\n* * *\n"
 
   - name: "Manipulative Wish"
-    desc: " (downtime) **Frequency** three times per year\n**Effect** The shuyookh conducts a _wish_ ritual for the benefit of a mortal, requiring no cost or secondary casters. The shuyookh's result is a success if they succeed at a DC 5 Flat check or a failure if not. The shuyookh attempts to advance their own interests along with those of any beneficiaries from the wish."
+    desc: " (downtime) **Frequency** three times per year\n* * *\n\n**Effect** The shuyookh conducts a _wish_ ritual for the benefit of a mortal, requiring no cost or secondary casters. The shuyookh's result is a success if they succeed at a DC 5 Flat check or a failure if not. The shuyookh attempts to advance their own interests along with those of any beneficiaries from the wish."
 
   - name: "Parting the Trees"
     desc: "  The genie ignores difficult terrain from plants, and can share their space with larger plants, such as trees."
@@ -88,11 +89,17 @@ attacks:
     desc: "`pf2:1`  The kizidhar creates a wooden item out of their body that appears in their hand and remains attached. The item can be a one-handed simple weapon, shield, or object of light Bulk. A kizidhar can instead use this ability to transform an item it's already holding or to remove an object to free its hand. Any item created with Sculpt Wood crumbles to splinters if removed from the kizidhar's possession."
 
   - name: "Seed of Ambition"
-    desc: "`pf2:1` (auditory,emotion,mental) **Frequency** once per round;\n**Effect** The kizidhar plants a desire for greatness in the mind of a creature within 50 feet. The target must attempt a DC 30 Will check save. On a failure, until the end of its next turn, the target can't Delay, Ready, or use reactions. Instead, it must use all its actions to Strike or cast the highest rank of spell available to it using spell slots or Focus Points, or take actions to facilitate doing so, such as drawing a weapon or moving toward an enemy. The target must focus its attacks either on the kizidhar or on the opponent it perceives to be the biggest threat. This effect ends if the kizidhar uses Seed of Ambition again."
+    desc: "`pf2:1` (auditory,emotion,mental) **Frequency** once per round;\n* * *\n\n**Effect** The kizidhar plants a desire for greatness in the mind of a creature within 50 feet. The target must attempt a DC 30 Will check save. On a failure, until the end of its next turn, the target can't Delay, Ready, or use reactions. Instead, it must use all its actions to Strike or cast the highest rank of spell available to it using spell slots or Focus Points, or take actions to facilitate doing so, such as drawing a weapon or moving toward an enemy. The target must focus its attacks either on the kizidhar or on the opponent it perceives to be the biggest threat. This effect ends if the kizidhar uses Seed of Ambition again."
 
   - name: "Take Root"
-    desc: "`pf2:1` (arcane,plant,wood) The genie thrusts their weapon into the ground. Plants sprout and grow out of the ground in a 20-foot burst centered on one corner of the kizidhar's square. All squares on the ground in that area are difficult terrain until the kizidhar uses this ability again."
+    desc: "`pf2:1` (arcane,plant,wood) The genie thrusts their weapon into the ground. Plants sprout and grow out of the ground in a @Template[burst|distance:20] centered on one corner of the kizidhar's square. All squares on the ground in that area are difficult terrain until the kizidhar uses this ability again."
  
+```
+
+```encounter-table
+name: Kizidhar Shuyookh
+creatures:
+  - 1: Kizidhar Shuyookh
 ```
 
 

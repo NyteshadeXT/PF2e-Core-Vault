@@ -5,6 +5,7 @@ noteType: pf2eHazard
 tags:
   - mechanical
   - trap
+  - pf2eHazard
 
 source: Pathfinder Adventure: Troubles in Otari
 aliases: "Compendium.pf2e.troubles-in-otari-bestiary.Actor.NeFSJTGROSgGIKNd" 
@@ -22,14 +23,14 @@ name: "Viper Urn"
 level: "Hazard 1"
 
 
-trait_01: "mechanical"
-trait_02: "trap"
+trait_01: [[mechanical]]
+trait_02: [[trap]]
 modifier: 5
 sourcebook: "_Pathfinder Adventure: Troubles in Otari_"
 ac: 15
 armorclass:
   - name: AC
-    desc: "15; __Fort__ +8, __Ref__ +5, __Will__ +0"
+    desc: "15; __Fort__ +8, __Ref__ +5, "
 hp: 4
 health:
   - name: ""
@@ -57,5 +58,11 @@ attacks:
 
 
 
+```
+
+```encounter-table
+name: Viper Urn
+creatures:
+  - 1: Viper Urn
 ```
 

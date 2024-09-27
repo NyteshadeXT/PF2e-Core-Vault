@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/dwarf
   - pf2e/creature/type/good
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/4
 statblock: inline
 name: "Krohan (Possessed)"
@@ -22,12 +23,12 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #193: Mantle of Gold"
 name: "Krohan (Possessed)"
 level: "Creature 4"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Medium"
-trait_01: "dwarf"
-trait_02: "good"
-trait_03: "humanoid"
+trait_01: [[dwarf]]
+trait_02: [[good]]
+trait_03: [[humanoid]]
 modifier: 9
 perception:
   - name: "Perception"
@@ -35,7 +36,7 @@ perception:
 languages: "Common, Dwarven, Sakvroth"
 skills:
   - name: "Skills"
-    desc: "Athletics: +9, Dwarf Lore: +8, Medicine: +8, Occultism: +8, Society: +6, Stealth: +5"
+    desc: "Athletics: +9, Medicine: +8, Occultism: +8, Society: +6, Stealth: +5, Dwarf Lore: +8"
 abilityMods: [2, 0, 2, 1, 3, 1]
 speed: 20 feet
 sourcebook: "_Pathfinder #193: Mantle of Gold_"
@@ -53,7 +54,7 @@ abilities_top:
   - name: "Items"
     desc: "[[Equipment/Pick|Pick]], [[Equipment/Composite Shortbow|Composite Shortbow]], [[Equipment/Buckler|Buckler]], [[Equipment/Leather Armor|Leather Armor]], [[Equipment/Rope|Rope]], [[Equipment/Waterskin|Waterskin]], [[Equipment/Flint and Steel|Flint and Steel]], 5x [[Equipment/Torch|Torch]], [[Equipment/Bedroll|Bedroll]], [[Equipment/Soap|Soap]], 20x [[Equipment/Arrows|Arrows]], 10x [[Equipment/Chalk|Chalk]], 2x [[Equipment/Rations|Rations]], [[Equipment/Healing Potion (Lesser)|Healing Potion (Lesser)]], [[Equipment/Antidote (Lesser)|Antidote (Lesser)]], [[Equipment/Backpack|Backpack]]"
   - name: "Possessed"
-    desc: "  A hostile spirit controls Krohan, which gives him the void healing ability and otherwise has the same effect as the [[Spells/Possession|Possession]] spell. Krohan attempts a DC 20 Flat check at the end of his turn; this is reduced to DC 15 Flat check if the corrupted blade spirit is destroyed. If he succeeds, the possession effect is suppressed and he is [[Conditions/Slowed 1|Slowed 1]] until the end of his next turn, allowing him to act normally. If he critically succeeds, the possession effect ends."
+    desc: "  A hostile spirit controls Krohan, which gives him the void healing ability and otherwise has the same effect as the [[Spells/Possession|Possession]] spell. Krohan attempts a DC 20 Flat check at the end of his turn; this is reduced to DC 15 Flat check if the corrupted blade spirit is destroyed. If he succeeds, the possession effect is suppressed and he is [[Conditions/Slowed|Slowed 1]] until the end of his next turn, allowing him to act normally. If he critically succeeds, the possession effect ends."
 
 abilities_mid:
   - name: ""
@@ -61,7 +62,7 @@ abilities_mid:
     desc: " (emotion,healing,occult) Krohan's magic converts his pain into spellpower. After he casts an innate occult spell, he attempts a DC 5 Flat check, increasing the DC by twice the spell's rank if it was not a cantrip. On a success, Krohan's Spirits Drawn to Suffering effect ends; he can reduce the value of one condition affecting him by 1, and he regains 2d6 Hit Points."
 
   - name: "Spirits Drawn to Suffering"
-    desc: "`pf2:0` (occult) **Frequency** once per 10 minutes\n**Trigger** Krohan critically fails a saving throw, takes mental damage, takes damage from a critical hit, or gains a harmful condition with a numerical value (such as frightened or sickened). This effect does not trigger due to self-harm or similarly engineered circumstances.\n**Effect** Krohan gains the ability to cast his innate occult spells for 1 minute."
+    desc: "`pf2:0` (occult) **Frequency** once per 10 minutes\n\n**Trigger** Krohan critically fails a saving throw, takes mental damage, takes damage from a critical hit, or gains a harmful condition with a numerical value (such as frightened or sickened). This effect does not trigger due to self-harm or similarly engineered circumstances.\n* * *\n\n**Effect** Krohan gains the ability to cast his innate occult spells for 1 minute."
 
   - name: "Unwitting Rivethun"
     desc: "  Krohan has very limited access to Rivethun magic, able to cast spells only when experiencing pain or distress."
@@ -81,6 +82,12 @@ attacks:
   - name: "Righthand Man"
     desc: "  Krohan gains a +2 circumstance bonus to attack rolls and skill checks attempted to Aid others. He can attempt a Dwarf Lore check in place of any other attack roll or skill check to Aid a dwarf."
  
+```
+
+```encounter-table
+name: Krohan (Possessed)
+creatures:
+  - 1: Krohan (Possessed)
 ```
 
 

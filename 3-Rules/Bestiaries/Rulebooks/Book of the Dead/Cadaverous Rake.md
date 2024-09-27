@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/undead
   - pf2e/creature/type/unholy
+  - pf2eMonster
   - pf2e/creature/level/8
 statblock: inline
 name: "Cadaverous Rake"
@@ -23,13 +24,13 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Book of the Dead"
 name: "Cadaverous Rake"
 level: "Creature 8"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Medium"
-trait_01: "chaotic"
-trait_02: "evil"
-trait_03: "undead"
-trait_04: "unholy"
+trait_01: [[chaotic]]
+trait_02: [[evil]]
+trait_03: [[undead]]
+trait_04: [[unholy]]
 modifier: 16
 perception:
   - name: "Perception"
@@ -37,7 +38,7 @@ perception:
 languages: "Common, Necril"
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +18, Athletics: +19 (+21 to Disarm), Deception: +16, Intimidation: +18, Thievery: +16"
+    desc: "Acrobatics: +18, Athletics: +19, Deception: +16, Intimidation: +18, Thievery: +16"
 abilityMods: [5, 6, 4, 3, 2, 4]
 speed: 30 feet
 sourcebook: "_Pathfinder Book of the Dead_"
@@ -57,7 +58,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Repartee Riposte"
-    desc: "`pf2:r` (emotion,mental) **Trigger** A creature within the cadaverous rake's reach critically fails at a melee Strike against the rake\n**Effect** The cadaverous rake attempts a Strike against the creature, firing back a witty retort. If this Strike succeeds, the creature is [[Conditions/Frightened 1|Frightened 1]], or [[Conditions/Frightened 1|Frightened 2]] on a critical success."
+    desc: "`pf2:r` (emotion,mental) **Trigger** A creature within the cadaverous rake's reach critically fails at a melee Strike against the rake\n* * *\n\n**Effect** The cadaverous rake attempts a Strike against the creature, firing back a witty retort. If this Strike succeeds, the creature is [[Conditions/Frightened|Frightened 1]], or [[Conditions/Frightened|Frightened 2]] on a critical success."
 
 attacks:
   - name: ""
@@ -66,14 +67,20 @@ attacks:
     desc: "`pf2:1` Rapier +20 (deadly d8, disarm, finesse, magical)\n__Damage__  2d6 + 8 piercing"
 
   - name: "Parry Dance"
-    desc: "`pf2:1`  The cadaverous rake makes a melee Strike, then Steps, positioning their blade defensively. They gain a +2 circumstance bonus to AC until the end of their next turn.\n[[Bestiary Effects/Effect_ Parry Dance|Effect: Parry Dance]]"
+    desc: "`pf2:1`  The cadaverous rake makes a melee Strike, then Steps, positioning their blade defensively. They gain a +2 circumstance bonus to AC until the end of their next turn.\n\n[[Bestiary Effects/Effect_ Parry Dance|Effect: Parry Dance]]"
 
   - name: "Shadow Rapier"
-    desc: "`pf2:1` (magical,void) The rake shrouds their sword in void energy, changing the damage type to void. This shadow-shrouded rapier has a reach of 30 feet. The effect lasts until the end of the rake's turn.\n[[Bestiary Effects/Effect_ Shadow Rapier|Effect: Shadow Rapier]]"
+    desc: "`pf2:1` (magical,void) The rake shrouds their sword in void energy, changing the damage type to void. This shadow-shrouded rapier has a reach of 30 feet. The effect lasts until the end of the rake's turn.\n\n[[Bestiary Effects/Effect_ Shadow Rapier|Effect: Shadow Rapier]]"
 
   - name: "The Upper Hand"
-    desc: "`pf2:1`  **Requirements** The cadaverous rake's last action was a melee Strike that critically succeeded\n**Effect** The cadaverous rake [[Actions/Disarm|Disarms]] the creature they hit, as a critical success on a Disarm attempt. The weapon falls to the ground in a space adjacent to the creature (rake's choice)."
+    desc: "`pf2:1`  **Requirements** The cadaverous rake's last action was a melee Strike that critically succeeded\n* * *\n\n**Effect** The cadaverous rake [[Actions/Disarm|Disarms]] the creature they hit, as a critical success on a Disarm attempt. The weapon falls to the ground in a space adjacent to the creature (rake's choice)."
  
+```
+
+```encounter-table
+name: Cadaverous Rake
+creatures:
+  - 1: Cadaverous Rake
 ```
 
 

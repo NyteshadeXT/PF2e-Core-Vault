@@ -6,6 +6,7 @@ cssClasses: pf2e
 aliases: "Compendium.pf2e.pathfinder-bestiary-2.Actor.OERK0GGnaEOthcdV" 
 tags:
   - pf2e/creature/type/animal
+  - pf2eMonster
   - pf2e/creature/level/2
 statblock: inline
 name: "Cave Fisher"
@@ -24,11 +25,12 @@ level: "Creature 2"
 
 alignment: ""
 size: "Medium"
-trait_01: "animal"
+trait_01: [[animal]]
 modifier: 7
 perception:
   - name: "Perception"
     desc: "+7; Darkvision"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Athletics: +10, Stealth: +9"
@@ -64,6 +66,12 @@ attacks:
   - name: "Sticky Filament"
     desc: "  Any creature hit by the cave fisher's sticky filament is [[Conditions/Grabbed|Grabbed]]. The cave fisher can move while it has a creature grabbed with its filament, but it automatically releases the creature if the cave fisher moves beyond the filament's 60-foot length. The cave fisher can use only one filament at a time, and it can sever the filament and release any creature grabbed by it as a free action. The filament can be severed by a Strike that deals at least 10 slashing damage to it. This doesn't deal any damage to the cave fisher itself. The filament has AC 17, and its [[Actions/Escape|Escape]] DC is 19."
  
+```
+
+```encounter-table
+name: Cave Fisher
+creatures:
+  - 1: Cave Fisher
 ```
 
 

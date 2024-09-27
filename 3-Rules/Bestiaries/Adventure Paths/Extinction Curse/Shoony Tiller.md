@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/good
   - pf2e/creature/type/humanoid
   - pf2e/creature/type/shoony
+  - pf2eMonster
   - pf2e/creature/level/0
 statblock: inline
 name: "Shoony Tiller"
@@ -22,12 +23,12 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #153: Life&#x27;s Long Shadows"
 name: "Shoony Tiller"
 level: "Creature 0"
-rare_03: "Rare"
+rare_03: [[Rare]]
 alignment: ""
 size: "Small"
-trait_01: "good"
-trait_02: "humanoid"
-trait_03: "shoony"
+trait_01: [[good]]
+trait_02: [[humanoid]]
+trait_03: [[shoony]]
 modifier: 6
 perception:
   - name: "Perception"
@@ -35,7 +36,7 @@ perception:
 languages: "Common, Shoony"
 skills:
   - name: "Skills"
-    desc: "Athletics: +7, Crafting: +1, Diplomacy: +4, Farming Lore: +3, Society: +1, Survival: +4"
+    desc: "Athletics: +7, Crafting: +1, Diplomacy: +4, Society: +1, Survival: +4, Farming Lore: +3"
 abilityMods: [3, 1, 1, -1, 2, 2]
 speed: 25 feet
 sourcebook: "_Pathfinder #153: Life&#x27;s Long Shadows_"
@@ -63,12 +64,18 @@ attacks:
   - name: "Melee"
     desc: "`pf2:1` Hoe +6 ()\n__Damage__  1d4 + 3 bludgeoning"
 
-  - name: "Melee"
+  - name: "Ranged"
     desc: "`pf2:1` Dirt Clod +4 (nonlethal, range increment 10 feet, thrown)\n__Damage__  1 bludgeoning"
 
   - name: "Dig Quickly"
-    desc: "`pf2:2` (manipulate) **Requirements** You are standing on dirt, sand, snow, or similar particulate material.\n**Effect** Your hands work as effectively as shovels when you need to dig a quick hole. You dig a shallow pit in the square you currently occupy, turning the square into difficult terrain (including for you). In addition, you also kick up a cloud of grit in a direction of your choice. The cloud extinguishes small, unattended, non-magical fires and helps smother the flames on burning creatures located within the cone; creatures in this cone that are taking [[Conditions/Persistent Damage|Persistent Fire Damage]] can immediately attempt an additional DC 15 Flat check to end the persistent damage."
+    desc: "`pf2:2` (manipulate) **Requirements** You are standing on dirt, sand, snow, or similar particulate material.\n* * *\n\n**Effect** Your hands work as effectively as shovels when you need to dig a quick hole. You dig a shallow pit in the square you currently occupy, turning the square into difficult terrain (including for you). In addition, you also kick up a cloud of grit in a direction of your choice. The cloud extinguishes small, unattended, non-magical fires and helps smother the flames on burning creatures located within the cone; creatures in this cone that are taking [[Conditions/Persistent Damage|Persistent Fire Damage]] can immediately attempt an additional DC 15 Flat check to end the persistent damage."
  
+```
+
+```encounter-table
+name: Shoony Tiller
+creatures:
+  - 1: Shoony Tiller
 ```
 
 

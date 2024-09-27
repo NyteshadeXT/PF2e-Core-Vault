@@ -12,7 +12,7 @@ license: OGL
 ---
 # Devil's Bargain
 ## Item 6
-### [uncommon](uncommon "Uncommon Rarity Trait")[[invested]][[magical]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[invested]][[3-Rules/Rule References/Magical]]
 
 **Category** light; **Group** leather
 **Price** 250 gp; 

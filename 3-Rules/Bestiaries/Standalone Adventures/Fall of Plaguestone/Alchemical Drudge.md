@@ -6,6 +6,7 @@ cssClasses: pf2e
 aliases: "Compendium.pf2e.fall-of-plaguestone-bestiary.Actor.yFfT9yPbUzldlhxN" 
 tags:
   - pf2e/creature/type/construct
+  - pf2eMonster
   - pf2e/creature/level/2
 statblock: inline
 name: "Alchemical Drudge"
@@ -20,15 +21,15 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Adventure: The Fall of Plaguestone"
 name: "Alchemical Drudge"
 level: "Creature 2"
-rare_03: "Rare"
+rare_03: [[Rare]]
 alignment: ""
 size: "Small"
-trait_01: "construct"
+trait_01: [[construct]]
 modifier: 6
 perception:
   - name: "Perception"
     desc: "+6; Darkvision"
-languages: "Common"
+languages: "Common; (can&#x27;t speak), empathy link"
 skills:
   - name: "Skills"
     desc: "Athletics: +8, Crafting: +8, Stealth: +7"
@@ -59,11 +60,17 @@ attacks:
     desc: "`pf2:1` Fist +10 (finesse)\n__Damage__  1d8 + 2 bludgeoning"
 
   - name: "Alchemical Strike"
-    desc: "  An alchemical drudge contains a special reservoir that can be loaded with the contents of one alchemical bomb that deals acid, cold, electricity, or fire damage, allowing the drudge to imbue its fist attacks with this damage. Each hit deals 1d6 points of damage of the same type as that of the bomb loaded into it. Each bomb has enough fluid in it for 10 successful strikes.\n[[Bestiary Effects/Effect_ Alchemical Strike|Effect: Alchemical Strike]]"
+    desc: "  An alchemical drudge contains a special reservoir that can be loaded with the contents of one alchemical bomb that deals acid, cold, electricity, or fire damage, allowing the drudge to imbue its fist attacks with this damage. Each hit deals 1d6 points of damage of the same type as that of the bomb loaded into it. Each bomb has enough fluid in it for 10 successful strikes.\n\n[[Bestiary Effects/Effect_ Alchemical Strike|Effect: Alchemical Strike]]"
 
   - name: "Vomit Alchemy"
     desc: "`pf2:2`  An alchemical drudge can vomit forth a pool of caustic alchemical reagents, filling the ground in one square adjacent to the drudge. Creatures in that square when the pool is created take 2d6 acid damage (DC 17 Reflex check). Any creature that ends its turn in a square containing a pool takes 2d6 acid damage. The pool remains for 1 minute before becoming inert."
  
+```
+
+```encounter-table
+name: Alchemical Drudge
+creatures:
+  - 1: Alchemical Drudge
 ```
 
 

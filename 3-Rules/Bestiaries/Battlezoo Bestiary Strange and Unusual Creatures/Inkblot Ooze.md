@@ -7,6 +7,7 @@ aliases: "Compendium.battlezoo-bestiary-su-pf2e.pf2e-battlezoo-su-actors.Actor.Y
 tags:
   - pf2e/creature/type/mindless
   - pf2e/creature/type/ooze
+  - pf2eMonster
   - pf2e/creature/level/6
 statblock: inline
 name: "Inkblot Ooze"
@@ -22,18 +23,19 @@ token: [[modules/battlezoo-bestiary-su-pf2e/art/Portraits/inkblot-ooze.webp| ]]
 source: "Battlezoo Bestiary: Strange and Unusual"
 name: "Inkblot Ooze"
 level: "Creature 6"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Large"
-trait_01: "mindless"
-trait_02: "ooze"
+trait_01: [[mindless]]
+trait_02: [[ooze]]
 modifier: 10
 perception:
   - name: "Perception"
-    desc: "+10; Motion Sense (Precise) 60 Feet"
+    desc: "+10; Motion Sense (Imprecise) 60 Feet"
+languages: ""
 skills:
   - name: "Skills"
-    desc: "Athletics: +15, Stealth: +9, "
+    desc: "Athletics: +15, Stealth: +9, Athletics: +15, Stealth: +9"
 abilityMods: [4, -4, 5, -5, 0, -5]
 speed: 20 feet,  climb 10 feet
 sourcebook: "_Battlezoo Bestiary: Strange and Unusual_"
@@ -58,7 +60,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Curious Symmetry"
-    desc: " (aura,mental,visual) 60 feet. The inkblot ooze's constantly-shifting, symmetrical form stimulates the imaginations of nearby creatures, luring them into a hypnotic daze. Any creature within the area that can see the inkblot ooze must attempt a DC 22 Will check save. On a failure, the creature is Fascinated for 1d4 rounds, and on a critical failure they are also Stupefied 1 for the same duration. At the end of this duration, or if a creature succeeds at its save, it is then temporarily immune to the aura for 1 minute."
+    desc: " (aura,mental,visual) 60 feet. The inkblot ooze's constantly-shifting, symmetrical form stimulates the imaginations of nearby creatures, luring them into a hypnotic daze. Any creature within the area that can see the inkblot ooze must attempt a DC 22 Will check save. On a failure, the creature is [[undefined]] for 1d4 rounds, and on a critical failure they are also [[undefined]] for the same duration. At the end of this duration, or if a creature succeeds at its save, it is then temporarily immune to the aura for 1 minute."
 
 attacks:
   - name: ""
@@ -70,8 +72,14 @@ attacks:
     desc: "  Whenever an inkblot ooze makes a successful pseudopod Strike against a creature or unattended object, the inkblot ooze spills some of its form over a text within its reach, such as a book or scroll, in an attempt to ruin it. The text must be either the target of the Strike or on an object held or worn by the target. If the text is held or worn by a creature, that creature can attempt a DC 22 Reflex check save to protect the text. On a failure the text is covered in inky ooze, rendering it unusable. On a critical failure, or against an unattended object, in addition to the failure effects, a random spell, formula, or page within the text is permanently erased. A text ruined in this way can be recovered over the course of an hour with a successful DC 25 Crafting check check, and a spell or formula erased by a critical failure can be relearned for half its usual cost by using the page in the process."
 
   - name: "Hide in Pages"
-    desc: "`pf2:3` (move) **Requirements** The inkblot ooze is adjacent to a book with at least 10 pages\n**Effect** The inkblot ooze seeps into the pages of the book. It has an automatic result of 35 on Deception checks and DCs to pass as a regular feature of the book. It can't act except to dismiss the effect, either by using this ability again, or as a reaction to the book being opened. While Hidden within a book, the inkblot ooze's Curious Symmetry aura is suppressed."
+    desc: "`pf2:3` (move) **Requirements** The inkblot ooze is adjacent to a book with at least 10 pages\n* * *\n\n**Effect** The inkblot ooze seeps into the pages of the book. It has an automatic result of 35 on Deception checks and DCs to pass as a regular feature of the book. It can't act except to dismiss the effect, either by using this ability again, or as a reaction to the book being opened. While [[undefined]] within a book, the inkblot ooze's Curious Symmetry aura is suppressed."
  
+```
+
+```encounter-table
+name: Inkblot Ooze
+creatures:
+  - 1: Inkblot Ooze
 ```
 
 

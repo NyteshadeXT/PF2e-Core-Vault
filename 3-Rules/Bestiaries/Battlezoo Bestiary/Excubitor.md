@@ -10,6 +10,7 @@ tags:
   - pf2e/creature/type/fiend
   - pf2e/creature/type/lawful
   - pf2e/creature/type/unholy
+  - pf2eMonster
   - pf2e/creature/level/8
 statblock: inline
 name: "Excubitor"
@@ -28,16 +29,16 @@ level: "Creature 8"
 
 alignment: ""
 size: "Medium"
-trait_01: "devil"
-trait_02: "evil"
-trait_03: "fiend"
-trait_04: "lawful"
-trait_05: "unholy"
+trait_01: [[devil]]
+trait_02: [[evil]]
+trait_03: [[fiend]]
+trait_04: [[lawful]]
+trait_05: [[unholy]]
 modifier: 18
 perception:
   - name: "Perception"
     desc: "+18; Greater Darkvision"
-languages: "Common, Diabolic, Draconic, Empyrean"
+languages: "Common, Diabolic, Draconic, Empyrean; telepathy 100 feet"
 skills:
   - name: "Skills"
     desc: "Athletics: +18, Deception: +17, Intimidation: +17, Medicine: +14, Religion: +16, Society: +14"
@@ -60,7 +61,7 @@ abilities_top:
     desc: "  The monster can cast its at-will spells any number of times without using up spell slots."
 
   - name: "Guarding the Principal"
-    desc: " (divine) An excubitor can magically shield its principal from the worst attacks.\nAs long as the excubitor is within 30 feet of its principal, the principal uses the excubitor's level to determine how well the principal resists incapacitation effects."
+    desc: " (divine) An excubitor can magically shield its principal from the worst attacks.\n\nAs long as the excubitor is within 30 feet of its principal, the principal uses the excubitor's level to determine how well the principal resists incapacitation effects."
 
 abilities_mid:
   - name: ""
@@ -79,24 +80,27 @@ attacks:
   - name: "Divine Innate Spells"
     desc: "DC 23, attack +15; __5th __  _[[Spells/Translocate|Dimension Door]]_; __4th __  _[[Spells/Translocate|Dimension Door (At Will)]]_, _[[Spells/Fireball|Fireball]]_, _[[Spells/Lightning Bolt|Lightning Bolt]]_, _[[Spells/Peaceful Bubble|Private Sanctum]]_\n__Constant__  __(4th)__ _[[Spells/Share Life|Shield Other (On Prinicpal Only)]]_"
 
-  - name: "Divine Rituals"
-    desc: "DC 23, attack +15"
-
   - name: "Rituals"
     desc: "_[[Spells/Diabolic Pact|Infernal Pact]]_"
 
   - name: "Exit Strategy"
-    desc: "`pf2:2` (divine,teleportation) **Requirements** The excubitor is adjacent to its principal and has no creatures Swallowed Whole;\n**Effect** The excubitor casts _Dimension Door_, affecting both itself and its principal. Afterward, both creatures are Stunned 3 and are immune to _dimension door_ for 1 hour."
+    desc: "`pf2:2` (divine,teleportation) **Requirements** The excubitor is adjacent to its principal and has no creatures Swallowed Whole;\n\n**Effect** The excubitor casts _[[Spells/Translocate|Dimension Door]]_, affecting both itself and its principal. Afterward, both creatures are [[Conditions/Stunned|Stunned 3]] and are immune to _dimension door_ for 1 hour."
 
   - name: "[[Bestiary Ability Glossary/Change Shape|Change Shape]]"
-    desc: "`pf2:1` (concentrate,divine,polymorph) When an excubitor is contracted to protect a principal, the contract specifies a specific alternate form for the chaperone devil. The excubitor can change shape to assume this specific shape, which is usually a Small or Medium humanoid. This doesn't alter any of the devil's statistics. If killed, the excubitor reverts to its true form.\n"
+    desc: "`pf2:1` (concentrate,divine,polymorph) When an excubitor is contracted to protect a principal, the contract specifies a specific alternate form for the chaperone devil. The excubitor can change shape to assume this specific shape, which is usually a Small or Medium humanoid. This doesn't alter any of the devil's statistics. If killed, the excubitor reverts to its true form.\n\n* * *\n"
 
   - name: "Regurgitate"
     desc: "`pf2:2`  The excubitor expels the contents of its stomach, including creatures Swallowed Whole."
 
   - name: "Swallow Evidence"
-    desc: "`pf2:1` (attack,unholy) The excubitor grotesquely distends its jaws and, impossibly, swallows a creature as big as itself, transporting the swallowed creature into an extradimensional stomach.\nThe excubitor Swallows Whole a Medium or smaller creature (4d6 poison plus 2d6 spirit, Rupture 15). The devil can forgo dealing this damage and can breathe in air so swallowed creatures don't suffocate. The excubitor's stomach can hold up to three Medium creatures.\nWhile the devil has any surviving creatures in its stomach it cannot use _Dimension Door_ effects."
+    desc: "`pf2:1` (attack,unholy) The excubitor grotesquely distends its jaws and, impossibly, swallows a creature as big as itself, transporting the swallowed creature into an extradimensional stomach.\n\nThe excubitor [[Bestiary Ability Glossary/Swallow Whole|Swallows Whole]] a Medium or smaller creature (4d6 poison plus 2d6 spirit, Rupture 15). The devil can forgo dealing this damage and can breathe in air so swallowed creatures don't suffocate. The excubitor's stomach can hold up to three Medium creatures.\n\nWhile the devil has any surviving creatures in its stomach it cannot use _[[Spells/Translocate|Dimension Door]]_ effects."
  
+```
+
+```encounter-table
+name: Excubitor
+creatures:
+  - 1: Excubitor
 ```
 
 

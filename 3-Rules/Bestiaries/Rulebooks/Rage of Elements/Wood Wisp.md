@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/elemental
   - pf2e/creature/type/plant
   - pf2e/creature/type/wood
+  - pf2eMonster
   - pf2e/creature/level/0
   - remaster
 statblock: inline
@@ -26,9 +27,9 @@ level: "Creature 0"
 
 alignment: ""
 size: "tiny"
-trait_01: "elemental"
-trait_02: "plant"
-trait_03: "wood"
+trait_01: [[elemental]]
+trait_02: [[plant]]
+trait_03: [[wood]]
 modifier: 6
 perception:
   - name: "Perception"
@@ -36,7 +37,7 @@ perception:
 languages: "Muan"
 skills:
   - name: "Skills"
-    desc: "Athletics: +7, Plane of Wood Lore: +4, Stealth: +6"
+    desc: "Athletics: +7, Stealth: +6, Plane of Wood Lore: +4"
 abilityMods: [3, 1, 2, 0, 3, 0]
 speed:  climb 40 feet,  fly 20 feet
 sourcebook: "_Pathfinder Rage of Elements_"
@@ -55,10 +56,10 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Accord Essence"
-    desc: "`pf2:r` (plant) **Trigger** An ally within 30 feet that benefited from the wisp's resonance in the last hour is targeted by an attack\n**Effect** The wisp detonates itself in a small elemental explosion of leaves and pollen. This gives temporary Hit Points equal to half the wisp's current HP to all allies within 30 feet that have benefited from the wisp's resonance aura in the past hour. These temporary Hit Points last 1 hour.\nA wisp that uses this reaction is permanently destroyed and can be restored only by a [[Spells/Wish|Wish]] ritual or similarly powerful effect. If an ability would prevent the wisp's destruction (for instance, if the wisp is summoned and would merely be dismissed), Accord Essence has no effect."
+    desc: "`pf2:r` (plant) **Trigger** An ally within 30 feet that benefited from the wisp's resonance in the last hour is targeted by an attack\n* * *\n\n**Effect** The wisp detonates itself in a small elemental explosion of leaves and pollen. This gives temporary Hit Points equal to half the wisp's current HP to all allies within 30 feet that have benefited from the wisp's resonance aura in the past hour. These temporary Hit Points last 1 hour.\n\nA wisp that uses this reaction is permanently destroyed and can be restored only by a [[Spells/Wish|Wish]] ritual or similarly powerful effect. If an ability would prevent the wisp's destruction (for instance, if the wisp is summoned and would merely be dismissed), Accord Essence has no effect."
 
   - name: "Resonance"
-    desc: " (aura,plant,wood) 30 feet.\nAll wisps vibrate at a frequency attuned to their element, resonating with and empowering all creatures and effects sharing that trait. A creature in the area gains a +1 status bonus to attack and damage rolls for effects with the plant or wood trait; a creature with the elemental trait and either plant trait or wood trait gains this bonus to all attack and damage rolls. For wood wisps, this bonus also applies to nonmagical wooden weapons, such as staves and clubs."
+    desc: " (aura,plant,wood) 30 feet.\n\nAll wisps vibrate at a frequency attuned to their element, resonating with and empowering all creatures and effects sharing that trait. A creature in the area gains a +1 status bonus to attack and damage rolls for effects with the plant or wood trait; a creature with the elemental trait and either plant trait or wood trait gains this bonus to all attack and damage rolls. For wood wisps, this bonus also applies to nonmagical wooden weapons, such as staves and clubs."
 
 attacks:
   - name: ""
@@ -69,6 +70,12 @@ attacks:
   - name: "In Concert"
     desc: "  When a wood wisp rolls a critical failure on a check to Aid, they get a failure instead, and when they roll a success, they get a critical success instead."
  
+```
+
+```encounter-table
+name: Wood Wisp
+creatures:
+  - 1: Wood Wisp
 ```
 
 

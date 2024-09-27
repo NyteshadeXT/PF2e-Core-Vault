@@ -3,6 +3,7 @@ obsidianUIMode: preview
 title: "Sinister Knight"
 cssclasses: pf2e,pf2e-spell
 tags:
+  - trait/illusion
   - trait/magical
   - trait/uncommon
 aliases: "Compendium.pf2e.equipment-srd.Item.QDYPr19De3TBIysx"
@@ -10,7 +11,7 @@ license: OGL
 ---
 # Sinister Knight
 ## Item 8
-### [uncommon](uncommon "Uncommon Rarity Trait")[[magical]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[illusion]][[magical]]
 
 
 **Price** 500 gp; 

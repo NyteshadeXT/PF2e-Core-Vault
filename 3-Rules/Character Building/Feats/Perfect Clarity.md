@@ -9,8 +9,9 @@ tags:
   - trait/rage
   - trait/common
   - category/class
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.JkQjKyzfhMWLr9Gs"
-license: OGL
+license: ORC
 ---
 # Perfect Clarity `pf2:r`
 ## Feat 18
@@ -21,11 +22,11 @@ license: OGL
 
 
 
-**Trigger** You fail or critically fail an attack roll or Will save
+**Trigger** You fail or critically fail an attack roll or Will save.
 
 * * *
 
-You burn out all of your rage to ensure that your attack lands and your mind remains free. Reroll the triggering attack roll or Will save with a +2 circumstance bonus, use the better result, and resolve the effect. You then immediately stop raging.
+You burn out all your rage to ensure that your attack lands and your mind remains free. Reroll the triggering attack roll or Will save with a +2 circumstance bonus, and use the better result. You then immediately stop raging.
 
-*Source: Pathfinder Core Rulebook*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

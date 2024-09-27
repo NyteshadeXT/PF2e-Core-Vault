@@ -43,9 +43,9 @@ Firebrands who venerate Lubaiko don't feel the need to dress in particular ways 
 
 **Lubaiko** Speed 30 feet, Fly speed 70 feet
 
-`pf2:1` longspear (reach 20 feet), Damage 6d12 + 6 piercing damage
+`pf2:1` longspear (reach 20 feet), Damage 6d12+6 piercing damage
 
-`pf2:1` flaming lightning (versatile fire, range 120 feet), Damage 6d6 + 3 electricity damage
+`pf2:1` flaming lightning (versatile fire, range 120 feet), Damage 6d6+3 electricity damage
 
 *Source: Pathfinder Lost Omens: Firebrands*
 *OGL*

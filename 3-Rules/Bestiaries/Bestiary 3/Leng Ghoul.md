@@ -11,6 +11,7 @@ tags:
   - pf2e/creature/type/ghoul
   - pf2e/creature/type/undead
   - pf2e/creature/type/unholy
+  - pf2eMonster
   - pf2e/creature/level/10
 statblock: inline
 name: "Leng Ghoul"
@@ -26,15 +27,15 @@ token: [[modules/pf2e-tokens-bestiaries/portraits/planar/dream/leng-ghoul.webp| 
 source: "Pathfinder Bestiary 3"
 name: "Leng Ghoul"
 level: "Creature 10"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Medium"
-trait_01: "chaotic"
-trait_02: "dream"
-trait_03: "evil"
-trait_04: "ghoul"
-trait_05: "undead"
-trait_06: "unholy"
+trait_01: [[chaotic]]
+trait_02: [[dream]]
+trait_03: [[evil]]
+trait_04: [[ghoul]]
+trait_05: [[undead]]
+trait_06: [[unholy]]
 modifier: 19
 perception:
   - name: "Perception"
@@ -74,10 +75,10 @@ attacks:
     desc: "`pf2:1` Claw +23 (agile, finesse)\n__Damage__  2d6 + 8 slashing plus ghoul-paralysis"
 
   - name: "Absorb Memories"
-    desc: "`pf2:1` (manipulate) **Requirements** The Leng ghoul is adjacent to the corpse of a creature that retains flesh on its bones\n**Effect** The Leng ghoul devours a chunk of the corpse and regains 6d6 Hit Points. At the same time, they also absorb some of the memories stored in the flesh from when the corpse was alive, gaining a +1 status bonus to all skill checks for 10 minutes.\nThe Leng ghoul can immediately attempt an Occultism check to learn one non-secret memory the corpse had when it was alive (use the standard DC for the creature's level). The exact memory learned is determined by the GM but is typically something of use to the Leng ghoul. The memory can't be one the creature was trying to keep secret unless the check was a critical success.\nA Leng ghoul can Absorb Memories from any given corpse only once.\n[[Bestiary Effects/Effect_ Absorb Memories|Effect: Absorb Memories]]"
+    desc: "`pf2:1` (manipulate) **Requirements** The Leng ghoul is adjacent to the corpse of a creature that retains flesh on its bones\n* * *\n\n**Effect** The Leng ghoul devours a chunk of the corpse and regains 6d6 Hit Points. At the same time, they also absorb some of the memories stored in the flesh from when the corpse was alive, gaining a +1 status bonus to all skill checks for 10 minutes.\n\nThe Leng ghoul can immediately attempt an Occultism check to learn one non-secret memory the corpse had when it was alive (use the standard DC for the creature's level). The exact memory learned is determined by the GM but is typically something of use to the Leng ghoul. The memory can't be one the creature was trying to keep secret unless the check was a critical success.\n\nA Leng ghoul can Absorb Memories from any given corpse only once.\n\n[[Bestiary Effects/Effect_ Absorb Memories|Effect: Absorb Memories]]"
 
   - name: "[[Creature Family Ability Glossary/(Ghoul) Ghoul Fever|Leng Ghoul Fever]]"
-    desc: " (disease) **Saving Throw** DC 28 Fortitude check\n**Stage 1** carrier with no ill effect (1 day)\n**Stage 2** 4d8 void damage and regains half as many Hit Points from all healing (1 day)\n**Stage 3** as stage 2 (1 day)\n**Stage 4** 4d8 void damage and gains no benefit from healing (1 day)\n**Stage 5** as stage 4 (1 day)\n**Stage 6** dead, and rises as a Leng ghoul the next sunset."
+    desc: " (disease) **Saving Throw** DC 28 Fortitude check\n* * *\n\n**Stage 1** carrier with no ill effect (1 day)\n\n**Stage 2** 4d8 void damage and regains half as many Hit Points from all healing (1 day)\n\n**Stage 3** as stage 2 (1 day)\n\n**Stage 4** 4d8 void damage and gains no benefit from healing (1 day)\n\n**Stage 5** as stage 4 (1 day)\n\n**Stage 6** dead, and rises as a Leng ghoul the next sunset."
 
   - name: "[[Creature Family Ability Glossary/(Ghoul) Paralysis|Paralysis]]"
     desc: " (incapacitation,occult) Any living creature hit by a Leng ghoul's attack must succeed at a DC 28 Fortitude check save or become [[Conditions/Paralyzed|Paralyzed]]. It can attempt a new save at the end of each of its turns, and the DC cumulatively decreases by 1 on each such save."
@@ -85,6 +86,12 @@ attacks:
   - name: "[[Bestiary Ability Glossary/Sneak Attack|Sneak Attack]]"
     desc: "  A Leng ghoul deals an extra 2d6 precision damage to [[Conditions/Off-Guard|Off-Guard]] creatures."
  
+```
+
+```encounter-table
+name: Leng Ghoul
+creatures:
+  - 1: Leng Ghoul
 ```
 
 

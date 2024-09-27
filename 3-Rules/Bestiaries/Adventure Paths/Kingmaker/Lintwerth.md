@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/air
   - pf2e/creature/type/earth
   - pf2e/creature/type/elemental
+  - pf2eMonster
   - pf2e/creature/level/11
 statblock: inline
 name: "Lintwerth"
@@ -22,12 +23,12 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Kingmaker"
 name: "Lintwerth"
 level: "Creature 11"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Small"
-trait_01: "air"
-trait_02: "earth"
-trait_03: "elemental"
+trait_01: [[air]]
+trait_02: [[earth]]
+trait_03: [[elemental]]
 modifier: 22
 perception:
   - name: "Perception"
@@ -66,8 +67,14 @@ attacks:
     desc: "DC 30, attack +22; __5th __  _[[Spells/Elemental Form|Elemental Form]]_, _[[Spells/Revealing Light|Glitterdust]]_"
 
   - name: "Breath Weapon"
-    desc: "`pf2:2` (air,arcane,earth) Lintwerth breathes a cloud of dust in a 15-foot cone that deals 6d6 slashing damage to each creature within the area (DC 30 Reflex check). The air in this area remains thick with dust for the next 4 rounds; while Lintwerth is in this area his fast healing functions normally, but other breathing creatures who end their turn in the area must make a DC 30 Fortitude check save or become [[Conditions/Sickened 1|Sickened 1]] ([[Conditions/Sickened 1|Sickened 2]] on a critical failure) from coughing on the dusty air. Lintwerth can't use Breath Weapon again for 1d4 rounds."
+    desc: "`pf2:2` (air,arcane,earth) Lintwerth breathes a cloud of dust in a @Template[cone|distance:15] that deals 6d6 slashing damage to each creature within the area (DC 30 Reflex check). The air in this area remains thick with dust for the next 4 rounds; while Lintwerth is in this area his fast healing functions normally, but other breathing creatures who end their turn in the area must make a DC 30 Fortitude check save or become [[Conditions/Sickened|Sickened 1]] ([[Conditions/Sickened|Sickened 2]] on a critical failure) from coughing on the dusty air. Lintwerth can't use Breath Weapon again for 1d4 rounds."
  
+```
+
+```encounter-table
+name: Lintwerth
+creatures:
+  - 1: Lintwerth
 ```
 
 

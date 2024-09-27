@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.lost-omens-mwangi-expanse-bestiary.Actor.XSWDwaLEyshEK
 tags:
   - pf2e/creature/type/aberration
   - pf2e/creature/type/evil
+  - pf2eMonster
   - pf2e/creature/level/8
 statblock: inline
 name: "K&#x27;nonna"
@@ -24,13 +25,13 @@ level: "Creature 8"
 
 alignment: ""
 size: "Medium"
-trait_01: "aberration"
-trait_02: "evil"
+trait_01: [[aberration]]
+trait_02: [[evil]]
 modifier: 16
 perception:
   - name: "Perception"
     desc: "+16; Darkvision, Scent (Imprecise) 60 Feet"
-languages: "Mwangi"
+languages: "Mwangi; see half-speaker"
 skills:
   - name: "Skills"
     desc: "Athletics: +21, Stealth: +16"
@@ -50,7 +51,7 @@ abilities_top:
   - name: ""
 
   - name: "Gilded Fascination"
-    desc: "  When offered a gift worth at least 50 gp, the k'nonna must attempt a DC 20 Will check saving throw; if the gift is worth at least 100 gp, the DC is instead DC 25 Will check.\nIf they fail the save, the k'nonna accepts the gift, becomes [[Conditions/Fascinated|Fascinated]] until the end of their next turn, and cannot attack while fascinated. On a critical failure, the fascination lasts for 1 minute.\nOffering a gift is an Interact action, and offering multiple gifts in the same round has no additional effect."
+    desc: "  When offered a gift worth at least 50 gp, the k'nonna must attempt a DC 20 Will check saving throw; if the gift is worth at least 100 gp, the DC is instead DC 25 Will check.\n\nIf they fail the save, the k'nonna accepts the gift, becomes [[Conditions/Fascinated|Fascinated]] until the end of their next turn, and cannot attack while fascinated. On a critical failure, the fascination lasts for 1 minute.\n\nOffering a gift is an Interact action, and offering multiple gifts in the same round has no additional effect."
 
   - name: "Half Steps"
     desc: "  Even though k'nonna are split in half, they still move and Stride as though they have two arms and legs. However, binding just one wrist or ankle leaves them incapable of using that limb, as if it were bound to another."
@@ -58,7 +59,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Half-Speaker"
-    desc: "  A k'nonna can communicate easily with other k'nonna, but when communicating with other creatures, only half of the spoken words make sense.\nIn order to convey information to a k'nonna or understand what they're saying, a non-k'nonna must succeed at a DC 20 Perception check check."
+    desc: "  A k'nonna can communicate easily with other k'nonna, but when communicating with other creatures, only half of the spoken words make sense.\n\nIn order to convey information to a k'nonna or understand what they're saying, a non-k'nonna must succeed at a DC 20 Perception check check."
 
 attacks:
   - name: ""
@@ -75,6 +76,12 @@ attacks:
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
     desc: "`pf2:1`  "
  
+```
+
+```encounter-table
+name: K'nonna
+creatures:
+  - 1: K'nonna
 ```
 
 

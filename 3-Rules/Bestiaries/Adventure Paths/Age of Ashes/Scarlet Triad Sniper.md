@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/human
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/11
 statblock: inline
 name: "Scarlet Triad Sniper"
@@ -23,13 +24,13 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #147: Tomorrow Must Burn"
 name: "Scarlet Triad Sniper"
 level: "Creature 11"
-rare_03: "Rare"
+rare_03: [[Rare]]
 alignment: ""
 size: "Medium"
-trait_01: "elf"
-trait_02: "evil"
-trait_03: "human"
-trait_04: "humanoid"
+trait_01: [[elf]]
+trait_02: [[evil]]
+trait_03: [[human]]
+trait_04: [[humanoid]]
 modifier: 23
 perception:
   - name: "Perception"
@@ -57,7 +58,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Backshot"
-    desc: "`pf2:r`  **Trigger** A creature the sniper can see misses it with a ranged weapon Strike.\n**Effect** The sniper attempts a ranged Strike against the triggering creature with a -2 penalty."
+    desc: "`pf2:r`  **Trigger** A creature the sniper can see misses it with a ranged weapon Strike.\n* * *\n\n**Effect** The sniper attempts a ranged Strike against the triggering creature with a -2 penalty."
 
 attacks:
   - name: ""
@@ -69,7 +70,7 @@ attacks:
     desc: "`pf2:1` Composite Longbow +23 (deadly d10, magical, range increment 100 feet, reload 0, volley 30 ft.)\n__Damage__  2d8 + 8 piercing"
 
   - name: "Rain of Arrows"
-    desc: "`pf2:2`  The sniper fires one arrow at each creature they choose within a 15-foot burst. The center of the burst must be within 100 feet of the sniper, but can't be within 30 feet. The sniper makes each attack roll separately. All attacks count toward the sniper's multiple attack penalty, but the penalty increases only after all the attacks are made."
+    desc: "`pf2:2`  The sniper fires one arrow at each creature they choose within a @Template[burst|distance:15]. The center of the burst must be within 100 feet of the sniper, but can't be within 30 feet. The sniper makes each attack roll separately. All attacks count toward the sniper's multiple attack penalty, but the penalty increases only after all the attacks are made."
 
   - name: "[[Bestiary Ability Glossary/Sneak Attack|Sneak Attack]]"
     desc: "  The scarlet triad sniper deals an additional 2d6 precision damage to [[Conditions/Off-Guard|Off-Guard]] creatures."
@@ -77,6 +78,12 @@ attacks:
   - name: "Swiftness"
     desc: "  The sniper's movement doesn't trigger reactions."
  
+```
+
+```encounter-table
+name: Scarlet Triad Sniper
+creatures:
+  - 1: Scarlet Triad Sniper
 ```
 
 

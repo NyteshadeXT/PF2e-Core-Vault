@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/hantu
   - pf2e/creature/type/incorporeal
   - pf2e/creature/type/spirit
+  - pf2eMonster
   - pf2e/creature/level/9
 statblock: inline
 name: "Hantu Denai"
@@ -23,18 +24,18 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #166: Despair on Danger Island"
 name: "Hantu Denai"
 level: "Creature 9"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Large"
-trait_01: "beast"
-trait_02: "hantu"
-trait_03: "incorporeal"
-trait_04: "spirit"
+trait_01: [[beast]]
+trait_02: [[hantu]]
+trait_03: [[incorporeal]]
+trait_04: [[spirit]]
 modifier: 18
 perception:
   - name: "Perception"
     desc: "+18; Darkvision, Scent (Imprecise) 60 Feet"
-languages: "Common"
+languages: "Common; (can&#x27;t speak any language)"
 skills:
   - name: "Skills"
     desc: "Acrobatics: +18, Deception: +19, Nature: +21, Stealth: +20, Survival: +21"
@@ -68,14 +69,20 @@ attacks:
     desc: "`pf2:1` Fangs +20 (finesse, magical)\n__Damage__  2d8 + 8 piercing plus grab"
 
   - name: "[[Bestiary Ability Glossary/Sneak Attack|Sneak Attack]]"
-    desc: "  A hantu denai's Strikes deal an additional 2d6 precision damage to [[Conditions/Frightened 1|Frightened]] and [[Conditions/Off-Guard|Off-Guard]] creatures"
+    desc: "  A hantu denai's Strikes deal an additional 2d6 precision damage to [[Conditions/Frightened|Frightened]] and [[Conditions/Off-Guard|Off-Guard]] creatures"
 
   - name: "Terrifying Cry"
-    desc: "`pf2:2` (auditory,emotion,fear,mental) The hantu denai unleashes a loud animal cry to scare off nearby creatures. Each creature in a 120-foot emanation must attempt a DC 27 Will check save and is then immune to the hantu denai's Terrifying Cry for 1 minute.\n**Critical Success** The creature is unaffected.\n**Success** The creature is [[Conditions/Frightened 1|Frightened 1]].\n**Failure** The creature is [[Conditions/Fleeing|Fleeing]] for 1 round and [[Conditions/Frightened 1|Frightened 2]].\n**Critical Failure** The creature is fleeing for 1 round and [[Conditions/Frightened 1|Frightened 3]]."
+    desc: "`pf2:2` (auditory,emotion,fear,mental) The hantu denai unleashes a loud animal cry to scare off nearby creatures. Each creature in a @Template[emanation|distance:120] must attempt a DC 27 Will check save and is then immune to the hantu denai's Terrifying Cry for 1 minute.\n* * *\n\n**Critical Success** The creature is unaffected.\n\n**Success** The creature is [[Conditions/Frightened|Frightened 1]].\n\n**Failure** The creature is [[Conditions/Fleeing|Fleeing]] for 1 round and [[Conditions/Frightened|Frightened 2]].\n\n**Critical Failure** The creature is fleeing for 1 round and [[Conditions/Frightened|Frightened 3]]."
 
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
     desc: "`pf2:1`  "
  
+```
+
+```encounter-table
+name: Hantu Denai
+creatures:
+  - 1: Hantu Denai
 ```
 
 

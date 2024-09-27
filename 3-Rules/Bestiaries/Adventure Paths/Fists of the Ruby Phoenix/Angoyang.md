@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.fists-of-the-ruby-phoenix-bestiary.Actor.EItI5u34FIIuZ
 tags:
   - pf2e/creature/type/aberration
   - pf2e/creature/type/evil
+  - pf2eMonster
   - pf2e/creature/level/14
 statblock: inline
 name: "Angoyang"
@@ -24,8 +25,8 @@ level: "Creature 14"
 
 alignment: ""
 size: "Small"
-trait_01: "aberration"
-trait_02: "evil"
+trait_01: [[aberration]]
+trait_02: [[evil]]
 modifier: 25
 perception:
   - name: "Perception"
@@ -67,7 +68,7 @@ attacks:
     desc: "`pf2:1` Tentacles +27 (finesse, reach 10 feet)\n__Damage__  3d12 + 9 piercing plus grab"
 
   - name: "Silent Yowl"
-    desc: "`pf2:2` (auditory,fear,illusion,mental,occult) The angoyang opens its mouth and drops its innocent disguise, releasing its monstrous tentacles and letting out a blood-curdling scream directed at a single target that it can see to deal 8d10 mental damage. Only the target of this ability can hear this scream. The target must succeed at a DC 30 Will check save as the sound tears through their mind.\n**Critical Success** The target takes no damage and is immune to Silent Yowl for 24 hours.\n**Success** The target takes half damage.\n**Failure** The target takes full damage and is [[Conditions/Frightened 1|Frightened 1]].\n**Critical Failure** The target takes double damage and is [[Conditions/Frightened 1|Frightened 3]]."
+    desc: "`pf2:2` (auditory,fear,illusion,mental,occult) The angoyang opens its mouth and drops its innocent disguise, releasing its monstrous tentacles and letting out a blood-curdling scream directed at a single target that it can see to deal 8d10 mental damage. Only the target of this ability can hear this scream. The target must succeed at a DC 30 Will check save as the sound tears through their mind.\n* * *\n\n**Critical Success** The target takes no damage and is immune to Silent Yowl for 24 hours.\n\n**Success** The target takes half damage.\n\n**Failure** The target takes full damage and is [[Conditions/Frightened|Frightened 1]].\n\n**Critical Failure** The target takes double damage and is [[Conditions/Frightened|Frightened 3]]."
 
   - name: "Slow Blink"
     desc: "`pf2:2` (incapacitation,mental,occult,visual) The angoyang lets out a small meow and slowly blinks twice at a single creature. The target must attempt a DC 31 Will check save. On a critical success, the target is unaffected and immune to Slow Blink for 24 hours. Otherwise, the creature is overcome with the urge to pet the angoyang's silken fur, becoming [[Conditions/Fascinated|Fascinated]]. If the angoyang attacks the creature, the creature can attempt a new save at the beginning of their next turn."
@@ -75,6 +76,12 @@ attacks:
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
     desc: "`pf2:1`  "
  
+```
+
+```encounter-table
+name: Angoyang
+creatures:
+  - 1: Angoyang
 ```
 
 

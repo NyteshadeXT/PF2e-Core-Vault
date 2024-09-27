@@ -15,7 +15,7 @@ If you want a character with boundless enthusiasm and an alien, fey outlook on m
 ## You Might...
 
 *   Embrace learning and hop from one area of study to another without warning.
-*   Speak, think, and move quickly, and lose patience with those who can’t keep up.
+*   Speak, think, and move quickly, and lose patience with those who can't keep up.
 
 ## Others Probably...
 

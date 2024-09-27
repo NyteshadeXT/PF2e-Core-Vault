@@ -4,22 +4,36 @@ title: "Access Lore"
 noteType: pf2eSpell
 cssclasses: pf2e,pf2e-spell
 tags:
+  - pf2eSpell
   - spell/level/3
-  - trait/cursebound
   - trait/focus
   - trait/fortune
   - trait/manipulate
   - trait/oracle
   - trait/uncommon
+
+  - remaster
 aliases: "Compendium.pf2e.spells-srd.Item.LbPLNWlLCxKCo5gF" 
+license: ORC
 ---
-# Access Lore  `pf2:1`  
-## Focus 3
-### [uncommon](uncommon "Uncommon Rarity Trait")[[cursebound]][[focus]][[fortune]][[manipulate]][[oracle]]
+```statblock
+name: "Access Lore  `pf2:1`"
+level: "Focus 3"
+rare_03: [[Uncommon]]
+trait_01: [[focus]]
+trait_02: [[fortune]]
+trait_03: [[manipulate]]
+trait_04: [[oracle]]
+layout: Basic Pathfinder 2e Layout
+columns: 1
+columnWidth: x
+abilities_top:
+  - name: ""
 
-**Duration** 1 minute
-* * * 
-You sift through the multiverse's divine knowledge, seeking out tidbits related to a particular subject. Choose one Lore skill. You temporarily gain the same proficiency rank in that Lore skill as your proficiency rank for your oracle spellcasting.
-
-*Source: Pathfinder Advanced Player's Guide*
-*OGL*
+  - name: "Duration"
+    desc: "1 minute"
+abilities_mid:
+  - name: ""
+    desc: "You sift through the multiverse's divine knowledge, seeking out tidbits related to a particular subject. Choose one Lore skill. You temporarily gain the same proficiency rank in that Lore skill as your proficiency rank for your oracle spellcasting."
+sourcebook: "_Pathfinder Player Core 2_"
+```

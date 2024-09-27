@@ -16,7 +16,11 @@ license: OGL
 
 
 
-**Minor Boon:** The night sky inspires you in a specific way. Once, when you roll a failure on a Crafting or Performance check under the night sky, you critically succeed instead. Nocticula typically grants this boon for a consequential piece of artwork or performance.
+The night sky inspires you in a specific way.
+
+Once, when you roll a failure on a Crafting or Performance check under the night sky, you critically succeed instead.
+
+Nocticula typically grants this boon for a consequential piece of artwork or performance.
 
 *Source: Pathfinder Lost Omens: Gods & Magic*
 *OGL*

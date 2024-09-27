@@ -16,7 +16,7 @@ license: ORC
 ---
 # Dagger
 ## Item 0
-### [[agile]][[finesse]][[thrown-10]][[versatile-s]]
+### [[3-Rules/Rule References/Agile]][[3-Rules/Rule References/Finesse]][[thrown-10]][[versatile-s]]
 
 |  |  |
 | -- | -- |

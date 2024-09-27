@@ -6,6 +6,7 @@ cssClasses: pf2e
 aliases: "Compendium.battlezoo-bestiary-su-pf2e.pf2e-battlezoo-su-actors.Actor.QcuWYv2Gia7cZmpM" 
 tags:
   - pf2e/creature/type/fey
+  - pf2eMonster
   - pf2e/creature/level/3
 statblock: inline
 name: "Lorekith"
@@ -21,18 +22,18 @@ token: [[modules/battlezoo-bestiary-su-pf2e/art/Portraits/lorekith.webp| ]]
 source: "Battlezoo Bestiary: Strange and Unusual"
 name: "Lorekith"
 level: "Creature 3"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Small"
-trait_01: "fey"
+trait_01: [[fey]]
 modifier: 12
 perception:
   - name: "Perception"
     desc: "+12; Low-Light Vision"
-languages: "Common, Fey"
+languages: "Common, Fey; storyspeaker"
 skills:
   - name: "Skills"
-    desc: "Myth Lore: +13, Crafting: +9, Diplomacy: +10, Intimidation: +9, Performance: +13, Society: +10, Stealth: +9, "
+    desc: "Crafting: +9, Diplomacy: +10, Intimidation: +9, Performance: +13, Society: +10, Stealth: +9, Myth Lore: +13, Crafting: +9, Diplomacy: +10, Intimidation: +9, Performance: +13, Society: +10, Stealth: +9"
 abilityMods: [1, 4, 2, 3, 3, 4]
 speed: 25 feet
 sourcebook: "_Battlezoo Bestiary: Strange and Unusual_"
@@ -53,7 +54,7 @@ abilities_top:
     desc: " (illusion,primal,visual) When a lorekith tells a story, they are surrounded by images representing the tale's events. These are obviously illusory to most creatures, though animals and small children might need to make a Perception check against the lorekith's spell DC to recognize it, at the GM's discretion."
 
   - name: "Myth Masks"
-    desc: "  A typical lorekith carries three masks that they modify as needed; the hero, the mentor, and the villain. They can swap masks with an Interact action, and they gain benefits based on which mask they currently wear. Their masks have a Hardness of 3 and 12 Hit Points, with a Broken Threshold of 6, and a creature can target a lorekith's mask using the lorekith's AC and saves, though the masks aren't normally affected by area effects while in the lorekith's possession. If their mask is broken, a lorekith loses access to that mask's benefits until they Craft a new one, which costs them no valuable materials and takes only 1 day. Rarer lorekith might have access to more masks than these basic three.\n*   **Hero** The lorekith gains fast healing 2.\n*   **Mentor** The lorekith gains a +1 status bonus to skill checks.\n*   **Villain** The lorekith gains a +1 status bonus to attack and damage rolls.\n[[Effects/Effect_ Myth Mask|Effect: Myth Mask]]\n### Additional Lorekith Masks\nWhile nearly every lorekith has worn a mask for the essential roles of a story, some have more specific tastes, creating masks such as the conflagration, the dragon, or the fool.\n*   **The Conflagration** The lorekith gains resistance 5 to fire, and its shadow puppet Strike's damage changes to fire.\n*   **The Dragon** The lorekith's Intimidation bonus becomes +13.\n*   **The Fool** The lorekith gains a +2 status bonus to saves against mental effects."
+    desc: "  A typical lorekith carries three masks that they modify as needed; the hero, the mentor, and the villain. They can swap masks with an Interact action, and they gain benefits based on which mask they currently wear. Their masks have a Hardness of 3 and 12 Hit Points, with a Broken Threshold of 6, and a creature can target a lorekith's mask using the lorekith's AC and saves, though the masks aren't normally affected by area effects while in the lorekith's possession. If their mask is broken, a lorekith loses access to that mask's benefits until they Craft a new one, which costs them no valuable materials and takes only 1 day. Rarer lorekith might have access to more masks than these basic three.\n\n*   **Hero** The lorekith gains fast healing 2.\n*   **Mentor** The lorekith gains a +1 status bonus to skill checks.\n*   **Villain** The lorekith gains a +1 status bonus to attack and damage rolls.\n\n[[Effects/Effect_ Myth Mask|Effect: Myth Mask]]\n\n### Additional Lorekith Masks\n\nWhile nearly every lorekith has worn a mask for the essential roles of a story, some have more specific tastes, creating masks such as the conflagration, the dragon, or the fool.\n\n*   **The Conflagration** The lorekith gains resistance 5 to fire, and its shadow puppet Strike's damage changes to fire.\n*   **The Dragon** The lorekith's Intimidation bonus becomes +13.\n*   **The Fool** The lorekith gains a +2 status bonus to saves against mental effects."
 
 abilities_mid:
   - name: ""
@@ -69,6 +70,12 @@ attacks:
   - name: "Storyspeaker"
     desc: "  A lorekith can't speak except when telling tales. While the wily fey have developed a variety of techniques to turn any conversation into a story, activities that depend on the lorekith speaking that would normally take at least 1 minute take twice as long, and they might be hard to interpret when phrased as a story."
  
+```
+
+```encounter-table
+name: Lorekith
+creatures:
+  - 1: Lorekith
 ```
 
 

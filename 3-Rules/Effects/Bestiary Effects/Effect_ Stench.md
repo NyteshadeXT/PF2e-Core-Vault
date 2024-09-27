@@ -16,7 +16,7 @@ license: OGL
 
 
 
-The creature takes a -2 circumstance penalty to saves against disease and to recover from the [[Conditions/Sickened 1|Sickened]] condition.
+The creature takes a -2 circumstance penalty to saves against disease and to recover from the [[Conditions/Sickened|Sickened]] condition.
 
 *Source: Pathfinder Bestiary*
 *OGL*

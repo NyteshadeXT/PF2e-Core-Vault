@@ -7,8 +7,9 @@ tags:
   - trait/skill
   - trait/common
   - category/skill
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.dAckQkpg1qyTz8od"
-license: OGL
+license: ORC
 ---
 # Resourceful Ritualist
 ## Feat 6
@@ -22,5 +23,5 @@ license: OGL
 * * *
 You can cast difficult rituals that might otherwise be just beyond your skill. You can attempt checks to cast a ritual that requires expert proficiency if you are trained, master proficiency if you are an expert, or legendary proficiency if you are a master.
 
-*Source: Pathfinder Advanced Player's Guide*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

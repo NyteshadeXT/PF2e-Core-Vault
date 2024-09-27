@@ -6,8 +6,9 @@ tags:
   - trait/hobgoblin
   - trait/common
   - category/ancestry
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.iRztLGEK5OfjZTPg"
-license: OGL
+license: ORC
 ---
 # Remorseless Lash
 ## Feat 1
@@ -18,7 +19,7 @@ license: OGL
 
 
 
-You're skilled at beating a foe when their morale is already breaking. When you succeed at a melee weapon Strike against a [[Conditions/Frightened 1|Frightened]] foe, that foe can't reduce their frightened condition below 1 until the beginning of your next turn.
+You're skilled at beating an enemy when their morale is already breaking. When you succeed at a melee weapon Strike against a [[Conditions/Frightened|Frightened]] enemy, that enemy can't reduce their frightened condition below 1 until the beginning of your next turn.
 
-*Source: Pathfinder Lost Omens: Character Guide*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

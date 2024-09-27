@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.pathfinder-monster-core.Actor.MSm1im7lZA5i82rz"
 tags:
   - pf2e/creature/type/air
   - pf2e/creature/type/elemental
+  - pf2eMonster
   - pf2e/creature/level/1
   - remaster
 statblock: inline
@@ -19,14 +20,15 @@ license: ORC
 columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
+token: [[modules/pf2e-tokens-bestiaries/portraits/elemental/air/mephit-air.webp| ]]
 source: "Pathfinder Monster Core"
 name: "Air Scamp"
 level: "Creature 1"
 
 alignment: ""
 size: "Small"
-trait_01: "air"
-trait_02: "elemental"
+trait_01: [[air]]
+trait_02: [[elemental]]
 modifier: 3
 perception:
   - name: "Perception"
@@ -65,8 +67,14 @@ attacks:
     desc: "DC 17, attack +9; __2nd __  _[[Spells/Blur|Blur]]_; __1st __  _[[Spells/Gust of Wind|Gust of Wind]]_"
 
   - name: "Sirocco Breath"
-    desc: "`pf2:2` (air,arcane) The air scamp creates cutting winds in a 15-foot cone that deal 2d6 slashing damage to each creature within the area (DC 17 Reflex check save). A creature that fails its save is also pushed back 10 feet.\n\nThe air scamp can't use Sirocco Breath again for 1d4 rounds."
+    desc: "`pf2:2` (air,arcane) The air scamp creates cutting winds in a @Template[cone|distance:15] that deal 2d6 slashing damage to each creature within the area (DC 17 Reflex check save). A creature that fails its save is also pushed back 10 feet.\n\nThe air scamp can't use Sirocco Breath again for 1d4 rounds."
  
+```
+
+```encounter-table
+name: Air Scamp
+creatures:
+  - 1: Air Scamp
 ```
 
 

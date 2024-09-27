@@ -6,8 +6,9 @@ tags:
   - trait/archetype
   - trait/common
   - category/class
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.6kz7FPdxDrsPiNti"
-license: OGL
+license: ORC
 ---
 # Master Eldritch Archer Spellcasting
 ## Feat 18
@@ -21,5 +22,5 @@ license: OGL
 * * *
 You gain the [[PF2e Journals/Archetypes/Master Spellcasting Feat|Master Spellcasting Feat]] benefits.
 
-*Source: Pathfinder Advanced Player's Guide*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

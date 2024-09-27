@@ -4,8 +4,9 @@ title: "Effect: Cognitive Mutagen (Lesser)"
 cssclasses: pf2e,pf2e-spell
 tags:
   - trait/common
+  - remaster
 aliases: "Compendium.pf2e.equipment-effects.Item.jaBMZKdoywOTrQvP"
-license: OGL
+license: ORC
 ---
 # Effect: Cognitive Mutagen (Lesser)
 ## Level 1
@@ -28,5 +29,5 @@ Granted by [[Equipment/Cognitive Mutagen (Lesser)|Cognitive Mutagen (Lesser)]]
 *   You can carry 2 less Bulk than normal before becoming encumbered
 *   The maximum Bulk you can carry is reduced by 4
 
-*Source: Pathfinder Core Rulebook*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

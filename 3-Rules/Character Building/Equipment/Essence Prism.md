@@ -10,7 +10,7 @@ license: OGL
 ---
 # Essence Prism
 ## Item 28
-### [unique](unique "Unique Rarity Trait")[[artifact]]
+### [unique](unique.md "Unique Rarity Trait")[[artifact]]
 
 
 **Price** 0 gp; 

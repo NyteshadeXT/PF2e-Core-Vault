@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.blog-bestiary.Actor.MO2QmDcf117b8FQk"
 tags:
   - pf2e/creature/type/humanoid
   - pf2e/creature/type/undead
+  - pf2eMonster
   - pf2e/creature/level/2
 statblock: inline
 name: "Nosferotter"
@@ -24,8 +25,8 @@ level: "Creature 2"
 
 alignment: ""
 size: "Medium"
-trait_01: "humanoid"
-trait_02: "undead"
+trait_01: [[humanoid]]
+trait_02: [[undead]]
 modifier: 11
 perception:
   - name: "Perception"
@@ -64,14 +65,20 @@ attacks:
     desc: "`pf2:1` Throw Rock and/or Skull +10 (thrown 30 ft.)\n__Damage__  1d4 + 6 bludgeoning"
 
   - name: "[[Bestiary Ability Glossary/Aquatic Ambush|Aquatic Ambush]]"
-    desc: "`pf2:1`  30 feet\n"
+    desc: "`pf2:1`  30 feet\n\n* * *\n"
 
   - name: "Dead Gaze"
-    desc: "`pf2:2` (mental,visual) Look into its beady little eyes. You are now [[Conditions/Stunned 1|Stunned]] for 1 round unless you succeeded on a DC 20 Will check save."
+    desc: "`pf2:2` (mental,visual) Look into its beady little eyes. You are now [[Conditions/Stunned|Stunned]] for 1 round unless you succeeded on a DC 20 Will check save."
 
   - name: "Squeak of Doom"
-    desc: "`pf2:3` (auditory,emotion,mental) The nosferotter lets out an ominous, but cute, squeak. All creatures within 30 feet must attempt a DC 20 Will check save.\nThey are then temporarily immune for 1 day.\n**Critical Success** The creature is unaffected.\n**Success** The creature can do nothing but wonder whether the nosferotter is cute or terrifying for 1 round.\n**Failure** The creature is so confused that it attacks its allies for 1 round.\n**Critical Failure** As failure, but permanently. It's that bad."
+    desc: "`pf2:3` (auditory,emotion,mental) The nosferotter lets out an ominous, but cute, squeak. All creatures within 30 feet must attempt a DC 20 Will check save.\n\nThey are then temporarily immune for 1 day.\n* * *\n\n**Critical Success** The creature is unaffected.\n\n**Success** The creature can do nothing but wonder whether the nosferotter is cute or terrifying for 1 round.\n\n**Failure** The creature is so confused that it attacks its allies for 1 round.\n\n**Critical Failure** As failure, but permanently. It's that bad."
  
+```
+
+```encounter-table
+name: Nosferotter
+creatures:
+  - 1: Nosferotter
 ```
 
 

@@ -6,8 +6,9 @@ tags:
   - trait/tengu
   - trait/common
   - category/ancestry
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.AmFv3ClkAVRowHLI"
-license: OGL
+license: ORC
 ---
 # Tengu Weapon Familiarity
 ## Feat 1
@@ -18,11 +19,13 @@ license: OGL
 
 
 
-You've trained with a blade and other tengu weapons ever since you hatched. You gain access to [[Equipment/Khakkhara|Khakkharas]].
+You gain access to all uncommon weapons with the tengu trait plus the katana, khakkara, temple sword, and wakizashi. You have familiarity with these weapons—for the purpose of proficiency, you treat any of these that are martial weapons as simple weapons and any that are advanced weapons as martial weapons.
 
-Additionally, choose two weapons from the sword group. You can choose from among all common martial swords, plus the [[Equipment/Katana|Katana]], [[Equipment/Temple Sword|Temple Sword]], and [[Equipment/Wakizashi|Wakizashi]]. For the purpose of determining your proficiency, that weapon is a simple weapon, and if the weapon isn't common, you gain access to it. If you are trained in all martial weapons, you add common advanced swords to the swords you can choose from.
+During your daily preparations, you can practice with a weapon from the sword group that's in your possession. You gain familiarity with that weapon as well. This lasts until you practice with a different sword in the same way.
 
-You also gain access to all uncommon tengu weapons. For the purpose of determining your proficiency, martial tengu weapons are simple weapons, and advanced tengu weapons are martial weapons.
+At 5th level, whenever you get a critical hit with one of these weapons, you get its critical specialization effect.
 
-*Source: Pathfinder Advanced Player's Guide*
-*OGL*
+[[Feat_Feature Effects/Effect_ Sword Practice|Effect: Sword Practice]]
+
+*Source: Pathfinder Player Core 2*
+*ORC*

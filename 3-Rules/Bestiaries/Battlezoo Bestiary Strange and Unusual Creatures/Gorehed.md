@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/aberration
   - pf2e/creature/type/amphibious
   - pf2e/creature/type/evil
+  - pf2eMonster
   - pf2e/creature/level/5
 statblock: inline
 name: "Gorehed"
@@ -26,9 +27,9 @@ level: "Creature 5"
 
 alignment: ""
 size: "Small"
-trait_01: "aberration"
-trait_02: "amphibious"
-trait_03: "evil"
+trait_01: [[aberration]]
+trait_02: [[amphibious]]
+trait_03: [[evil]]
 modifier: 12
 perception:
   - name: "Perception"
@@ -36,7 +37,7 @@ perception:
 languages: "Aklo, Common"
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +12, Athletics: +11, Deception: +13, Nature: +9, Stealth: +12 (+16 in swamps), Survival: +9, "
+    desc: "Acrobatics: +12, Athletics: +11, Deception: +13, Nature: +9, Stealth: +12, Survival: +9, Acrobatics: +12, Athletics: +11, Deception: +13, Nature: +9, Stealth: +12, Survival: +9"
 abilityMods: [4, 5, 4, -2, 2, 4]
 speed: 20 feet,  swim 25 feet
 sourcebook: "_Battlezoo Bestiary: Strange and Unusual_"
@@ -61,7 +62,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Fleeing Leap"
-    desc: "`pf2:r`  **Trigger** A foe ends their turn, and the gorehed is within that foe's reach\n**Effect** The gorehed Leaps up to half its Speed away from the triggering foe. It can't end the movement adjacent to another foe. This movement doesn't trigger reactions."
+    desc: "`pf2:r`  **Trigger** A foe ends their turn, and the gorehed is within that foe's reach\n* * *\n\n**Effect** The gorehed Leaps up to half its Speed away from the triggering foe. It can't end the movement adjacent to another foe. This movement doesn't trigger reactions."
 
 attacks:
   - name: ""
@@ -76,7 +77,7 @@ attacks:
     desc: "`pf2:1`  "
 
   - name: "Demoralizing Mimicry"
-    desc: "`pf2:1` (auditory) The gorehed uses its mimicry to frighten a creature, potentially by creating what sound like the shrieks of victims or saying something unsettling in a friend's voice. They Demoralize a creature, using Deception instead of Intimidation to do so."
+    desc: "`pf2:1` (auditory) The gorehed uses its mimicry to frighten a creature, potentially by creating what sound like the shrieks of victims or saying something unsettling in a friend's voice. They [[undefined]] a creature, using Deception instead of Intimidation to do so."
 
   - name: "Pack Attack"
     desc: "  A gorehed's Strikes deal an additional 1d4 damage to creatures within the reach of at least two of the gorehed's allies."
@@ -84,6 +85,12 @@ attacks:
   - name: "Swamp Stride"
     desc: "  A gorehed ignores difficult terrain caused by swamp terrain features."
  
+```
+
+```encounter-table
+name: Gorehed
+creatures:
+  - 1: Gorehed
 ```
 
 

@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/dwarf
   - pf2e/creature/type/humanoid
   - pf2e/creature/type/minion
+  - pf2eMonster
   - pf2e/creature/level/4
 statblock: inline
 name: "Simulacrum"
@@ -22,12 +23,12 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder One-Shot #2: Dinner at Lionlodge"
 name: "Simulacrum"
 level: "Creature 4"
-rare_03: "Rare"
+rare_03: [[Rare]]
 alignment: ""
 size: "Medium"
-trait_01: "dwarf"
-trait_02: "humanoid"
-trait_03: "minion"
+trait_01: [[dwarf]]
+trait_02: [[humanoid]]
+trait_03: [[minion]]
 modifier: 12
 perception:
   - name: "Perception"
@@ -35,7 +36,7 @@ perception:
 languages: "Common"
 skills:
   - name: "Skills"
-    desc: "Athletics: +10, Deception: +10 (+12 to Impersonate)"
+    desc: "Athletics: +10, Deception: +10"
 abilityMods: [4, 3, 2, 0, 2, 0]
 speed: 25 feet
 sourcebook: "_Pathfinder One-Shot #2: Dinner at Lionlodge_"
@@ -60,6 +61,12 @@ attacks:
   - name: "Melee"
     desc: "`pf2:1` Warhammer +12 (shove)\n__Damage__  1d8 + 4 bludgeoning"
  
+```
+
+```encounter-table
+name: Simulacrum
+creatures:
+  - 1: Simulacrum
 ```
 
 

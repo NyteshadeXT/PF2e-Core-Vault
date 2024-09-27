@@ -28,7 +28,7 @@ Despite your death and subsequent reanimation as a rotting corpse, you retain mo
 
 Because of its progressing state of decay, your body requires continual maintenance to remain at its best. Each day after your rest period, your body is deteriorated due to natural decay. Additionally, some zombie abilities allow you to push for a greater effect in exchange for a chance of deteriorating your body.
 
-While your body is deteriorated, you're [[Conditions/Slowed 1|Slowed 1]]. You can spend 10 minutes checking and repairing your joints and other weak parts of your body to recover from deterioration. You can perform these repairs as part of your daily preparations. Because it's a natural result of your body's functions, you can't remove the slowed condition from deterioration through any other means.
+While your body is deteriorated, you're [[Conditions/Slowed|Slowed 1]]. You can spend 10 minutes checking and repairing your joints and other weak parts of your body to recover from deterioration. You can perform these repairs as part of your daily preparations. Because it's a natural result of your body's functions, you can't remove the slowed condition from deterioration through any other means.
 
 You crave the flesh of the living. You gain a jaws unarmed attack that deals 1d8 piercing damage. Your jaws are in the brawling group and have the unarmed trait. You can use your jaws Strike only against a creature that's [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]] by you.
 

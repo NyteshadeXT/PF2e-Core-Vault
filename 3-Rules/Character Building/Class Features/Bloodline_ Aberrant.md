@@ -6,31 +6,32 @@ tags:
   - trait/sorcerer
   - trait/common
   - category/classfeature
+  - remaster
 aliases: "Compendium.pf2e.classfeatures.Item.3qqvnC2U8W26yae7"
-license: OGL
+license: ORC
 ---
 # Bloodline: Aberrant
 ## Feat 1
-### [[sorcerer]]
+### [[3-Rules/trait_reference/sorcerer]]
 
 **Category** classfeature; 
 
 
 
 
-Something speaks to you from beyond the stars or below the earth. Ancient and unknowable, this alien influence presses against your mind.
+Something ancient and unknowable speaks to you from beyond the stars or below the earth.
 
-**Spell List** occult
+**Tradition** occult
 
 **Bloodline Skills** Intimidation, Occultism
 
-**Granted Spells** cantrip [[Spells/Daze|Daze]], 1st: [[Spells/Spider Sting|Spider Sting]], 2nd: [[Spells/Stupefy|Stupefy]], 3rd: [[Spells/Vampiric Feast|Vampiric Feast]], 4th: [[Spells/Confusion|Confusion]], 5th: [[Spells/Black Tentacles|Black Tentacles]], 6th: [[Spells/Never Mind|Never Mind]], 7th: [[Spells/Warp Mind|Warp Mind]], 8th: [[Spells/Uncontrollable Dance|Uncontrollable Dance]], 9th: [[Spells/Spirit Song|Spirit Song]]
+**Sorcerous Gifts** cantrip: [[Spells/Daze|Daze]]; 1st: [[Spells/Phantom Pain|Phantom Pain]]; 2nd: [[Spells/Stupefy|Stupefy]]; 3rd: [[Spells/Vampiric Feast|Vampiric Feast]]; 4th: [[Spells/Confusion|Confusion]]; 5th: [[Spells/Slither|Slither]]; 6th: [[Spells/Never Mind|Never Mind]]; 7th: [[Spells/Warp Mind|Warp Mind]]; 8th: [[Spells/Uncontrollable Dance|Uncontrollable Dance]]; 9th: [[Spells/Unfathomable Song|Unfathomable Song]]
 
-**Bloodline Spells** initial: [[Spells/Tentacular Limbs|Tentacular Limbs]], advanced: [[Spells/Aberrant Whispers|Aberrant Whispers]], greater: [[Spells/Unusual Anatomy|Unusual Anatomy]]
+**Bloodline Spells** initial: [[Spells/Tentacular Limbs|Tentacular Limbs]]; advanced: [[Spells/Aberrant Whispers|Aberrant Whispers]]; greater: [[Spells/Unusual Anatomy|Unusual Anatomy]]
 
-**Blood Magic** Aberrant whispers shield one target's mind or your own, granting a +2 status bonus to Will saving throws for 1 round.
+**Blood Magic—Eerie Veil** An ominous pall spills from your mind. Either one target takes a –1 status penalty to Will saving throws for 1 round or you gain a +2 status bonus to Will saving throws for 1 round.
 
 [[Feat_Feature Effects/Effect_ Aberrant Blood Magic|Effect: Aberrant Blood Magic]]
 
-*Source: Pathfinder Core Rulebook*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

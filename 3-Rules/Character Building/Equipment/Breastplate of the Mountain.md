@@ -13,7 +13,7 @@ license: OGL
 ---
 # Breastplate of the Mountain
 ## Item 20
-### [[apex]][[invested]][[magical]]
+### [[apex]][[invested]][[3-Rules/Rule References/Magical]]
 
 **Category** medium; **Group** plate
 **Price** 70000 gp; 

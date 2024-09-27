@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/humanoid
   - pf2e/creature/type/troop
+  - pf2eMonster
   - pf2e/creature/level/11
 statblock: inline
 name: "Rancorous Priesthood"
@@ -27,10 +28,10 @@ level: "Creature 11"
 
 alignment: ""
 size: "grg"
-trait_01: "chaotic"
-trait_02: "evil"
-trait_03: "humanoid"
-trait_04: "troop"
+trait_01: [[chaotic]]
+trait_02: [[evil]]
+trait_03: [[humanoid]]
+trait_04: [[troop]]
 modifier: 21
 perception:
   - name: "Perception"
@@ -60,7 +61,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "[[Bestiary Ability Glossary/Troop Defenses|Troop Defenses]]"
-    desc: "  **Thresholds** 130 (12 squares), 65 (8 squares)\n"
+    desc: "  **Thresholds** 130 (12 squares), 65 (8 squares)\n\n* * *\n"
 
 attacks:
   - name: ""
@@ -75,11 +76,17 @@ attacks:
     desc: "  Whenever the troop Strides, they first Form Up as a free action to condense into a 20-foot-by-20-foot area (minus any missing squares), then moves up to their Speed. This works just like a Gargantuan creature moving; for instance, if any square of the troop enters difficult terrain, the extra movement cost applies to the whole troop."
 
   - name: "Troop Spellcasting"
-    desc: "  When the rancorous priesthood Casts a Spell, their constituent members combine their efforts into casting a more powerful version of the spell than any one member could achieve alone.\nWhen Casting a Spell that has an area of a burst, cone, or line and doesn't have a duration, increase the area of that spell. Add 5 feet to the radius of a burst that normally has a radius of at least 10 feet (a burst with a smaller radius is not affected). Add 5 feet to the length of a cone or line that is normally 15 feet long or smaller, and add 10 feet to the length of a larger cone or line."
+    desc: "  When the rancorous priesthood Casts a Spell, their constituent members combine their efforts into casting a more powerful version of the spell than any one member could achieve alone.\n\nWhen Casting a Spell that has an area of a burst, cone, or line and doesn't have a duration, increase the area of that spell. Add 5 feet to the radius of a burst that normally has a radius of at least 10 feet (a burst with a smaller radius is not affected). Add 5 feet to the length of a cone or line that is normally 15 feet long or smaller, and add 10 feet to the length of a larger cone or line."
 
   - name: "Wild Swing"
-    desc: "`pf2:1`  `pf2:1` to `pf2:3`\n**Frequency** once per round\n**Effect** The members of the mob wildly swing their weapons-primarily greataxes-in a chaotic attack at each enemy adjacent to the troop (DC 27 Reflex check save). The damage depends on the number of actions.\n`pf2:1` 1d12 + 2 slashing damage\n`pf2:2` 2d12 + 9 slashing damage\n`pf2:3` 3d12 + 9 slashing damage"
+    desc: "`pf2:1`  `pf2:1` to `pf2:3`\n\n**Frequency** once per round\n* * *\n\n**Effect** The members of the mob wildly swing their weapons-primarily greataxes-in a chaotic attack at each enemy adjacent to the troop (DC 27 Reflex check save). The damage depends on the number of actions.\n\n`pf2:1` 1d12+2 slashing damage\n\n`pf2:2` 2d12+9 slashing damage\n\n`pf2:3` 3d12+9 slashing damage"
  
+```
+
+```encounter-table
+name: Rancorous Priesthood
+creatures:
+  - 1: Rancorous Priesthood
 ```
 
 

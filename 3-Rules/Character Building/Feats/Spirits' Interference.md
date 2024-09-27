@@ -8,8 +8,9 @@ tags:
   - trait/rage
   - trait/common
   - category/class
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.hjApw8AvYVuqQk2W"
-license: OGL
+license: ORC
 ---
 # Spirits' Interference `pf2:1`
 ## Feat 6
@@ -23,5 +24,5 @@ license: OGL
 * * *
 You call forth protective spirits to ward off ranged attacks. Until your rage ends, anyone making a ranged attack against you must succeed at a DC 5 Flat check or the attack misses with no effect.
 
-*Source: Pathfinder Core Rulebook*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

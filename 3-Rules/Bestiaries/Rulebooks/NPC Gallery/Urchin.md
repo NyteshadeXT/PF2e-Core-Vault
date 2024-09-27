@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.npc-gallery.Actor.G2ftdkyJ5WDonL0C"
 tags:
   - pf2e/creature/type/human
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/-1
 statblock: inline
 name: "Urchin"
@@ -24,8 +25,8 @@ level: "Creature -1"
 
 alignment: ""
 size: "Small"
-trait_01: "human"
-trait_02: "humanoid"
+trait_01: [[human]]
+trait_02: [[humanoid]]
 modifier: 3
 perception:
   - name: "Perception"
@@ -70,6 +71,12 @@ attacks:
   - name: "Pickpocket"
     desc: "  The urchin can [[Actions/Steal|Steal]] of [[Actions/Palm an Object|Palm an Object]] that's closely guarded without taking the usual -5 penalty. They can [[Actions/Steal|Steal]] objects that would be extremely noticable or time-consuming to remove (like worn shoes, armor, or actively wielded objects)."
  
+```
+
+```encounter-table
+name: Urchin
+creatures:
+  - 1: Urchin
 ```
 
 

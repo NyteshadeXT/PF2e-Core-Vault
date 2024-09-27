@@ -3,33 +3,24 @@ obsidianUIMode: preview
 title: "Smoke Bomb"
 cssclasses: pf2e,pf2e-spell
 tags:
-  - trait/additive1
+  - trait/additive
   - trait/alchemist
   - trait/common
   - category/class
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.ODnXQHvFoK7tIVpu"
-license: OGL
+license: ORC
 ---
-# Smoke Bomb `pf2:0`
+# Smoke Bomb
 ## Feat 2
-### [[additive1]][[alchemist]]
+### [[additive]][[alchemist]]
 
 **Category** class; 
 
 
 
 
-**Frequency** once per round
+You can add a tarry additive to an alchemical bomb to make it emit smoke. When thrown, in addition to its normal effects, the bomb creates a cloud of smoke in a @Template\[burst|distance:10\]. You choose which corner of the target's space (or the space in which the bomb lands) the cloud is centered on. Creatures within that area have the [[Conditions/Concealed|Concealed]] condition, and all other creatures are concealed to them. The smoke lasts for 1 minute or until dissipated by a strong wind.
 
-**Trigger** You use [[Class Features/Quick Alchemy|Quick Alchemy]] to craft an alchemical bomb with a level at least 1 lower than your advanced alchemy level
-
-* * *
-
-You cause the bomb to create a cloud of thick smoke, in addition to its normal effects.
-
-When thrown, the bomb creates a cloud of smoke in a 10-foot-radius burst. You choose which corner of the target's space (or the space in which the bomb lands) the cloud is centered on.
-
-Creatures within that area have the [[Conditions/Concealed|Concealed]] condition, and all other creatures are concealed to them. The smoke lasts for 1 minute or until dissipated by a strong wind.
-
-*Source: Pathfinder Core Rulebook*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

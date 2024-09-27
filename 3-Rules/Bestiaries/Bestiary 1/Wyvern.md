@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.pathfinder-bestiary.Actor.wuaSG22lLjQ6yali"
 tags:
   - pf2e/creature/type/dragon
   - pf2e/creature/type/evil
+  - pf2eMonster
   - pf2e/creature/level/6
 statblock: inline
 name: "Wyvern"
@@ -25,8 +26,8 @@ level: "Creature 6"
 
 alignment: ""
 size: "Large"
-trait_01: "dragon"
-trait_02: "evil"
+trait_01: [[dragon]]
+trait_02: [[evil]]
 modifier: 13
 perception:
   - name: "Perception"
@@ -56,7 +57,7 @@ abilities_mid:
     desc: "`pf2:r`  "
 
   - name: "Savage"
-    desc: "`pf2:r`  **Trigger** A creature [[Conditions/Grabbed|Grabbed]] by the wyvern critically fails a skill check to Escape.\n**Effect** The wyvern makes a stinger Strike against the triggering creature."
+    desc: "`pf2:r`  **Trigger** A creature [[Conditions/Grabbed|Grabbed]] by the wyvern critically fails a skill check to Escape.\n* * *\n\n**Effect** The wyvern makes a stinger Strike against the triggering creature."
 
 attacks:
   - name: ""
@@ -74,14 +75,20 @@ attacks:
     desc: "`pf2:2` (move) The wyvern Flies up to its fly Speed and must both move forward at least 20 feet and descend at least 10 feet. If it ends the movement within melee reach of at least one enemy its size or smaller, it can make a claw Strike against that enemy. If the claw hits, as a free action the wyvern can either automatically [[Bestiary Ability Glossary/Grab|Grab]] the target or knock it [[Conditions/Prone|Prone]]."
 
   - name: "Punishing Momentum"
-    desc: "`pf2:1`  **Requirements** The wyvern [[Conditions/Grabbed|Grabbed]] a creature this turn using Powerful Dive.\n**Effect** The wyvern can Fly at half Speed while holding the creature in its claws, carrying that creature along with it and dropping it at the end of its movement. Alternatively, the wyvern can Strike the creature with its stinger with a +2 circumstance bonus."
+    desc: "`pf2:1`  **Requirements** The wyvern [[Conditions/Grabbed|Grabbed]] a creature this turn using Powerful Dive.\n* * *\n\n**Effect** The wyvern can Fly at half Speed while holding the creature in its claws, carrying that creature along with it and dropping it at the end of its movement. Alternatively, the wyvern can Strike the creature with its stinger with a +2 circumstance bonus."
 
   - name: "Wyvern Venom"
-    desc: " (poison) **Saving Throw** DC 22 Fortitude check\n**Maximum Duration** 6 rounds\n**Stage 1** 5d6 poison damage (1 round)\n**Stage 2** 6d6 poison damage (1 round)\n**Stage 3** 8d6 poison damage (1 round)"
+    desc: " (poison) **Saving Throw** DC 22 Fortitude check\n* * *\n\n**Maximum Duration** 6 rounds\n\n**Stage 1** 5d6 poison damage (1 round)\n\n**Stage 2** 6d6 poison damage (1 round)\n\n**Stage 3** 8d6 poison damage (1 round)"
 
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
     desc: "`pf2:1`  "
  
+```
+
+```encounter-table
+name: Wyvern
+creatures:
+  - 1: Wyvern
 ```
 
 

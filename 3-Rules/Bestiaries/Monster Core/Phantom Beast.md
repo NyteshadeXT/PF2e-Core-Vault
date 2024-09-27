@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/incorporeal
   - pf2e/creature/type/phantom
   - pf2e/creature/type/spirit
+  - pf2eMonster
   - pf2e/creature/level/8
   - remaster
 statblock: inline
@@ -25,13 +26,13 @@ token: [[modules/pf2e-tokens-bestiaries/portraits/undead/ghostly/phantom-beast.w
 source: "Pathfinder Monster Core"
 name: "Phantom Beast"
 level: "Creature 8"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Medium"
-trait_01: "ethereal"
-trait_02: "incorporeal"
-trait_03: "phantom"
-trait_04: "spirit"
+trait_01: [[ethereal]]
+trait_02: [[incorporeal]]
+trait_03: [[phantom]]
+trait_04: [[spirit]]
 modifier: 18
 perception:
   - name: "Perception"
@@ -78,6 +79,12 @@ attacks:
   - name: "Grab Item"
     desc: "`pf2:1`  The phantom beast attempts to [[Actions/Steal|Steal]] one item of up to 1 Bulk from a creature, even if the creature is in combat, though the object still must not be one that is actively in use. If they succeed, they carry the object along with them telekinetically."
  
+```
+
+```encounter-table
+name: Phantom Beast
+creatures:
+  - 1: Phantom Beast
 ```
 
 

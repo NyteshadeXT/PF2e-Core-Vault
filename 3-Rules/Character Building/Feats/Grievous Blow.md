@@ -7,8 +7,9 @@ tags:
   - trait/flourish
   - trait/common
   - category/class
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.C3zKTQecexSbezhT"
-license: OGL
+license: ORC
 ---
 # Grievous Blow `pf2:2`
 ## Feat 8
@@ -20,11 +21,9 @@ license: OGL
 
 **Prerequisites** Martial Artist Dedication
 * * *
-You know how to deliver focused, powerful blows that bypass your enemies' resistances.
+You know how to deliver focused, powerful blows that bypass your enemies' resistances. Make an unarmed melee Strike. If this Strike hits, it deals two additional weapon damage dice and ignores an amount of resistance to physical damage (or to a specific physical damage type) equal to your level. This Strike counts as two attacks when calculating your multiple attack penalty.
 
-Make an unarmed melee Strike. This counts as two attacks when calculating your multiple attack penalty. If this Strike hits, you deal two extra weapon damage dice. If you are at least 18th level, increase this to three extra weapon damage dice.
+If you are at least 18th level, increase the additional damage to three weapon damage dice.
 
-This attack also ignores an amount of resistance to physical damage, or to a specific physical damage type, equal to your level.
-
-*Source: Pathfinder Advanced Player's Guide*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

@@ -17,7 +17,7 @@ license: OGL
 
 
 
-**Moderate Boon** Your blows become unstoppable, carrying the momentum of Gorum's thrill for battle. Your greatsword Strikes gain the forceful trait.
+Your blows become unstoppable, carrying the momentum of Gorum's thrill for battle. Your greatsword Strikes gain the forceful trait.
 
 *Source: Pathfinder Lost Omens: Gods & Magic*
 *OGL*

@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.outlaws-of-alkenstar-bestiary.Actor.3dL5oBOLaFaAmDR4"
 tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/1
 statblock: inline
 name: "Powderkeg Punk Bombardier"
@@ -21,11 +22,11 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #178: Punks in a Powder Keg"
 name: "Powderkeg Punk Bombardier"
 level: "Creature 1"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Medium"
-trait_01: "evil"
-trait_02: "humanoid"
+trait_01: [[evil]]
+trait_02: [[humanoid]]
 modifier: 5
 perception:
   - name: "Perception"
@@ -33,7 +34,7 @@ perception:
 languages: "Common, Goblin"
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +7, Athletics: +3, Crafting: +5, Gunpowder Lore: +7, Intimidation: +8, Stealth: +7"
+    desc: "Acrobatics: +7, Athletics: +3, Crafting: +5, Intimidation: +8, Stealth: +7, Gunpowder Lore: +7"
 abilityMods: [0, 4, 3, 2, 0, 3]
 speed: 25 feet
 sourcebook: "_Pathfinder #178: Punks in a Powder Keg_"
@@ -53,7 +54,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Blaze of Glory"
-    desc: "`pf2:r` (concentrate,emotion,fear,mental,visual) **Trigger** The Powderkeg Punk takes fire damage\nThe Powderkeg Punk [[Actions/Demoralize|Demoralizes]] the creature that dealt the fire damage. Demoralize loses the auditory trait and gains the visual trait, and the Powderkeg Punk doesn't take a penalty if the creature doesn't understand their language. The Powderkeg Punk can use this reaction even if the triggering damage reduced the Punk to 0 Hit Points."
+    desc: "`pf2:r` (concentrate,emotion,fear,mental,visual) **Trigger** The Powderkeg Punk takes fire damage\n\nThe Powderkeg Punk [[Actions/Demoralize|Demoralizes]] the creature that dealt the fire damage. Demoralize loses the auditory trait and gains the visual trait, and the Powderkeg Punk doesn't take a penalty if the creature doesn't understand their language. The Powderkeg Punk can use this reaction even if the triggering damage reduced the Punk to 0 Hit Points."
 
 attacks:
   - name: ""
@@ -73,6 +74,12 @@ attacks:
   - name: "Shake It Up"
     desc: "`pf2:2`  The bombardier shakes a bottle of alchemist's fire, and then Strikes with it. The radius of the splash damage for this Strike increases to 10 feet."
  
+```
+
+```encounter-table
+name: Powderkeg Punk Bombardier
+creatures:
+  - 1: Powderkeg Punk Bombardier
 ```
 
 

@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/chaotic
   - pf2e/creature/type/human
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/16
 statblock: inline
 name: "Castruccio Irovetti"
@@ -22,12 +23,12 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Kingmaker"
 name: "Castruccio Irovetti"
 level: "Creature 16"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Medium"
-trait_01: "chaotic"
-trait_02: "human"
-trait_03: "humanoid"
+trait_01: [[chaotic]]
+trait_02: [[human]]
+trait_03: [[humanoid]]
 modifier: 26
 perception:
   - name: "Perception"
@@ -67,7 +68,7 @@ attacks:
     desc: "`pf2:1` Flechette +32 (deadly d10, range increment 100 feet, volley 30 ft.)\n__Damage__  3d8 + 12 piercing"
 
   - name: "Occult Spontaneous Spells"
-    desc: "DC 37, attack +30; __8th __ (3 slots) _[[Spells/Quandary|Maze]]_, _[[Spells/Scintillating Pattern|Scintillating Pattern]]_, _[[Spells/Uncontrollable Dance|Uncontrollable Dance]]_; __7th __ (3 slots) _[[Spells/Duplicate Foe|Duplicate Foe]]_, _[[Spells/Prismatic Spray|Prismatic Spray]]_, _[[Spells/Truespeech|Tongues]]_; __6th __ (3 slots) _[[Spells/Dominate|Dominate]]_, _[[Spells/Noise Blast|Sound Burst]]_, _[[Spells/Teleport|Teleport]]_; __5th __ (3 slots) _[[Spells/Illusory Object|Illusory Object]]_, _[[Spells/Sending|Sending]]_, _[[Spells/Subconscious Suggestion|Subconscious Suggestion]]_; __4th __ (3 slots) _[[Spells/Fly|Fly]]_, _[[Spells/Invisibility|Invisibility]]_, _[[Spells/Peaceful Bubble|Private Sanctum]]_; __3rd __ (3 slots) _[[Spells/Item Facade|Item Facade]]_, _[[Spells/Mind Reading|Mind Reading]]_, _[[Spells/Vampiric Feast|Vampiric Touch]]_; __2nd __ (3 slots) _[[Spells/Dispel Magic|Dispel Magic]]_, _[[Spells/Mirror Image|Mirror Image]]_, _[[Spells/Telekinetic Maneuver|Telekinetic Maneuver]]_; __1st __ (3 slots) _[[Spells/Charm|Charm]]_, _[[Spells/Soothe|Soothe]]_, _[[Spells/Phantasmal Minion|Unseen Servant]]_\n__Cantrips__  __(8th)__ _[[Spells/Daze|Daze]]_, _[[Spells/Telekinetic Hand|Mage Hand]]_, _[[Spells/Message|Message]]_, _[[Spells/Prestidigitation|Prestidigitation]]_, _[[Spells/Read Aura|Read Aura]]_"
+    desc: "DC 37, attack +30; __8th __ (3 slots) _[[Spells/Quandary|Maze]]_, _[[Spells/Confusing Colors|Scintillating Pattern]]_, _[[Spells/Uncontrollable Dance|Uncontrollable Dance]]_; __7th __ (3 slots) _[[Spells/Duplicate Foe|Duplicate Foe]]_, _[[Spells/Prismatic Spray|Prismatic Spray]]_, _[[Spells/Truespeech|Tongues]]_; __6th __ (3 slots) _[[Spells/Dominate|Dominate]]_, _[[Spells/Noise Blast|Sound Burst]]_, _[[Spells/Teleport|Teleport]]_; __5th __ (3 slots) _[[Spells/Illusory Object|Illusory Object]]_, _[[Spells/Sending|Sending]]_, _[[Spells/Subconscious Suggestion|Subconscious Suggestion]]_; __4th __ (3 slots) _[[Spells/Fly|Fly]]_, _[[Spells/Invisibility|Invisibility]]_, _[[Spells/Peaceful Bubble|Private Sanctum]]_; __3rd __ (3 slots) _[[Spells/Item Facade|Item Facade]]_, _[[Spells/Mind Reading|Mind Reading]]_, _[[Spells/Vampiric Feast|Vampiric Touch]]_; __2nd __ (3 slots) _[[Spells/Dispel Magic|Dispel Magic]]_, _[[Spells/Mirror Image|Mirror Image]]_, _[[Spells/Telekinetic Maneuver|Telekinetic Maneuver]]_; __1st __ (3 slots) _[[Spells/Charm|Charm]]_, _[[Spells/Soothe|Soothe]]_, _[[Spells/Phantasmal Minion|Unseen Servant]]_\n__Cantrips__  __(8th)__ _[[Spells/Daze|Daze]]_, _[[Spells/Telekinetic Hand|Mage Hand]]_, _[[Spells/Message|Message]]_, _[[Spells/Prestidigitation|Prestidigitation]]_, _[[Spells/Read Aura|Read Aura]]_"
 
   - name: "Occult Focus Spells"
     desc: "1 Focus Point, DC 37, attack +30; __4th __  _[[Spells/Counter Performance|Counter Performance]]_, _[[Spells/Fortissimo Composition|Inspire Heroics]]_, _[[Spells/Lingering Composition|Lingering Composition]]_\n__Cantrips__  __(4th)__ _[[Spells/Courageous Anthem|Inspire Courage]]_"
@@ -78,6 +79,12 @@ attacks:
   - name: "Songstrike"
     desc: "`pf2:2` (occult) Irovetti sings out a short aria that resonates within his rod of razors, causing it to become infused with sonic energy. He attempts a Strike with the rod of razors, and if he hits, he inflicts an additional 5d10 sonic damage (DC 37 Fortitude check)."
  
+```
+
+```encounter-table
+name: Castruccio Irovetti
+creatures:
+  - 1: Castruccio Irovetti
 ```
 
 

@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/beast
   - pf2e/creature/type/chaotic
   - pf2e/creature/type/evil
+  - pf2eMonster
   - pf2e/creature/level/7
 statblock: inline
 name: "Chimeric Manticore"
@@ -22,12 +23,12 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #179: Cradle of Quartz"
 name: "Chimeric Manticore"
 level: "Creature 7"
-rare_03: "Rare"
+rare_03: [[Rare]]
 alignment: ""
 size: "Large"
-trait_01: "beast"
-trait_02: "chaotic"
-trait_03: "evil"
+trait_01: [[beast]]
+trait_02: [[chaotic]]
+trait_03: [[evil]]
 modifier: 15
 perception:
   - name: "Perception"
@@ -78,10 +79,10 @@ attacks:
     desc: "`pf2:1` Spike +16 (range increment 40 feet)\n__Damage__  1d10 + 8 piercing"
 
   - name: "Breath Weapon"
-    desc: "`pf2:2` (arcane) The chimeric manticore's blue-dragon head breathes a 60-foot line of electricity that deals 8d6 electricity damage to all creatures in the area (DC 25 Reflex check).\nThe chimeric manticore can't use Breath Weapon again for 1d4 rounds."
+    desc: "`pf2:2` (arcane) The chimeric manticore's blue-dragon head breathes a @Template[line|distance:60] of electricity that deals 8d6 electricity damage to all creatures in the area (DC 25 Reflex check).\n\nThe chimeric manticore can't use Breath Weapon again for 1d4 rounds."
 
   - name: "Spike Volley"
-    desc: "`pf2:1`  The manticore flings up to two spikes from its tail, targeting either two different creatures or a single creature. If the manticore targets two different creatures, these creatures must be within 20 feet of one another, and the manticore makes a separate Strike against each; this counts as only one Strike for the manticore's multiple attack penalty, and the penalty doesn't increase until after both attacks. If the manticore fires both spikes at the same creature, it makes a single Strike. If the attack hits, it deals the damage of a single spike, but the target is pinned in place, rendering it [[Conditions/Immobilized|Immobilized]]. A creature that succeeds at a DC 25 Athletics check check (attempted as a single action) can pull the spike free.\nA manticore can hurl no more than 12 spikes in 24 hours."
+    desc: "`pf2:1`  The manticore flings up to two spikes from its tail, targeting either two different creatures or a single creature. If the manticore targets two different creatures, these creatures must be within 20 feet of one another, and the manticore makes a separate Strike against each; this counts as only one Strike for the manticore's multiple attack penalty, and the penalty doesn't increase until after both attacks. If the manticore fires both spikes at the same creature, it makes a single Strike. If the attack hits, it deals the damage of a single spike, but the target is pinned in place, rendering it [[Conditions/Immobilized|Immobilized]]. A creature that succeeds at a DC 25 Athletics check check (attempted as a single action) can pull the spike free.\n\nA manticore can hurl no more than 12 spikes in 24 hours."
 
   - name: "Three-Headed Strike"
     desc: "`pf2:2`  The chimera makes a Strike with its dragon jaws, lion jaws, and goat horns, each at a -2 penalty and targeting a different creature. These Strikes count as only one attack for the chimera's multiple attack penalty, and the penalty doesn't increase until after it has made all three attacks."
@@ -89,6 +90,12 @@ attacks:
   - name: "Triple Opportunity"
     desc: "  A chimera gains 2 extra reactions each round that it can use only to make Attacks of Opportunity. It must use a different head for each reaction, and it can't use more than one on the same triggering action. If it loses one of its heads, it also loses one of these extra reactions."
  
+```
+
+```encounter-table
+name: Chimeric Manticore
+creatures:
+  - 1: Chimeric Manticore
 ```
 
 

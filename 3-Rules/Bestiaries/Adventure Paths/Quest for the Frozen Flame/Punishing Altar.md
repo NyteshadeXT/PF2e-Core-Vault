@@ -5,6 +5,7 @@ noteType: pf2eHazard
 tags:
   - magical
   - void
+  - pf2eHazard
 
 source: Pathfinder #176: Lost Mammoth Valley
 aliases: "Compendium.pf2e.quest-for-the-frozen-flame-bestiary.Actor.wmcSHQxJRT9RrInC" 
@@ -22,14 +23,14 @@ name: "Punishing Altar"
 level: "Hazard 4"
 
 
-trait_01: "magical"
-trait_02: "void"
+trait_01: [[magical]]
+trait_02: [[void]]
 modifier: 15
 sourcebook: "_Pathfinder #176: Lost Mammoth Valley_"
 ac: 21
 armorclass:
   - name: AC
-    desc: "21; __Fort__ +14, __Ref__ +14, __Will__ +0"
+    desc: "21; __Fort__ +14, __Ref__ +14, "
 hp: 46
 health:
   - name: ""
@@ -51,9 +52,15 @@ attacks:
   - name: ""
 
   - name: "Necromantic Wave"
-    desc: "`pf2:r` **Trigger** A living creature approaches within 10 feet of the bowl without displaying a religious symbol of Venexus\n**Effect** The bowl releases a wave of necromantic energy, dealing 4d8 + 10 void damage (DC 21 Reflex check) to the triggering creature and all creatures in the area not displaying a religious symbol of Venexus. On a critical failure, a creature becomes [[Conditions/Drained 1|Drained 1]]."
+    desc: "`pf2:r` **Trigger** A living creature approaches within 10 feet of the bowl without displaying a religious symbol of Venexus\n* * *\n\n**Effect** The bowl releases a wave of necromantic energy, dealing 4d8+10 void damage (DC 21 Reflex check) to the triggering creature and all creatures in the area not displaying a religious symbol of Venexus. On a critical failure, a creature becomes [[Conditions/Drained|Drained 1]]."
 
 
 
+```
+
+```encounter-table
+name: Punishing Altar
+creatures:
+  - 1: Punishing Altar
 ```
 

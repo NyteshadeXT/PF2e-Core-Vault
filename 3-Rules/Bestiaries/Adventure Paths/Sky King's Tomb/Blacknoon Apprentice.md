@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/dwarf
   - pf2e/creature/type/evil
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/2
 statblock: inline
 name: "Blacknoon Apprentice"
@@ -25,9 +26,9 @@ level: "Creature 2"
 
 alignment: ""
 size: "Medium"
-trait_01: "dwarf"
-trait_02: "evil"
-trait_03: "humanoid"
+trait_01: [[dwarf]]
+trait_02: [[evil]]
+trait_03: [[humanoid]]
 modifier: 8
 perception:
   - name: "Perception"
@@ -67,8 +68,14 @@ attacks:
     desc: "  The Blacknoon apprentice deals an additional 1d6 precision damage to [[Conditions/Off-Guard|Off-Guard]] creatures."
 
   - name: "Toxic Treachery"
-    desc: "`pf2:r` (manipulate) **Trigger** The Blacknoon apprentice successfully [[Actions/Demoralize|Demoralizes]] or [[Actions/Tumble Through|Tumbles Through]] a foe\n**Effect** The Blacknoon apprentice applies a dose of poison to a weapon they wield."
+    desc: "`pf2:r` (manipulate) **Trigger** The Blacknoon apprentice successfully [[Actions/Demoralize|Demoralizes]] or [[Actions/Tumble Through|Tumbles Through]] a foe\n* * *\n\n**Effect** The Blacknoon apprentice applies a dose of poison to a weapon they wield."
  
+```
+
+```encounter-table
+name: Blacknoon Apprentice
+creatures:
+  - 1: Blacknoon Apprentice
 ```
 
 

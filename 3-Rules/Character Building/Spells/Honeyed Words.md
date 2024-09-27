@@ -4,21 +4,37 @@ title: "Honeyed Words"
 noteType: pf2eSpell
 cssclasses: pf2e,pf2e-spell
 tags:
+  - pf2eSpell
   - spell/level/4
   - trait/concentrate
   - trait/manipulate
   - trait/mental
   - trait/common
+  - tradition/occult
+
   - remaster
 aliases: "Compendium.pf2e.spells-srd.Item.JyxTmqjYYn63V5LY" 
+license: ORC
 ---
-# Honeyed Words  `pf2:2`  
-## Spell 4
-### [[concentrate]][[manipulate]][[mental]]
-**Traditions** [[occult]]
-**Duration** 10 minutes
-* * * 
-Falsehoods pass your lips as smoothly as silk. You gain a +4 status bonus to Deception checks to Lie and against Perception checks to discern if you are telling the truth, and you add your level even if untrained. If the implausibility of your lies prompts a circumstance penalty or a DC increase, reduce that penalty by half or increase it by half.
+```statblock
+name: "Honeyed Words  `pf2:2`"
+level: "Spell 4"
 
-*Source: Pathfinder Player Core*
-*ORC*
+trait_01: [[concentrate]]
+trait_02: [[manipulate]]
+trait_03: [[mental]]
+layout: Basic Pathfinder 2e Layout
+columns: 1
+columnWidth: x
+abilities_top:
+  - name: ""
+  - name: "Traditions"
+    desc: "occult"
+
+  - name: "Duration"
+    desc: "10 minutes"
+abilities_mid:
+  - name: ""
+    desc: "Falsehoods pass your lips as smoothly as silk. You gain a +4 status bonus to Deception checks to Lie and against Perception checks to discern if you are telling the truth, and you add your level even if untrained. If the implausibility of your lies prompts a circumstance penalty or a DC increase, reduce that penalty by half or increase it by half."
+sourcebook: "_Pathfinder Player Core_"
+```

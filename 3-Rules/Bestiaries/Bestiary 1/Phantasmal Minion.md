@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.pathfinder-bestiary.Actor.j7NNPfZwD19BwSEZ"
 tags:
   - pf2e/creature/type/force
   - pf2e/creature/type/mindless
+  - pf2eMonster
   - pf2e/creature/level/-1
   - remaster
 statblock: inline
@@ -26,12 +27,13 @@ level: "Creature -1"
 
 alignment: ""
 size: "Medium"
-trait_01: "force"
-trait_02: "mindless"
+trait_01: [[force]]
+trait_02: [[mindless]]
 modifier: 0
 perception:
   - name: "Perception"
     desc: "+0; Darkvision"
+languages: "understands its creator"
 skills:
   - name: "Skills"
     desc: "Stealth: +8"
@@ -61,6 +63,12 @@ abilities_mid:
 attacks:
   - name: ""
  
+```
+
+```encounter-table
+name: Phantasmal Minion
+creatures:
+  - 1: Phantasmal Minion
 ```
 
 

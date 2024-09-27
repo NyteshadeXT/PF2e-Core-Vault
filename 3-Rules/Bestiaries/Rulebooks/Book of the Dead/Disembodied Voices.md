@@ -4,6 +4,7 @@ obsidianUIMode: preview
 noteType: pf2eHazard
 tags:
   - haunt
+  - pf2eHazard
 
 source: Pathfinder Book of the Dead
 aliases: "Compendium.pf2e.book-of-the-dead-bestiary.Actor.VQqdG5PKdCFHXquy" 
@@ -21,18 +22,9 @@ name: "Disembodied Voices"
 level: "Hazard 0"
 
 
-trait_01: "haunt"
+trait_01: [[haunt]]
 modifier: 6
 sourcebook: "_Pathfinder Book of the Dead_"
-ac: 10
-armorclass:
-  - name: AC
-    desc: "10; __Fort__ +0, __Ref__ +0, __Will__ +0"
-hp: 10
-health:
-  - name: ""
-  - name: "HP"
-    desc: "10; __Immunities__  object immunities"
 perception:
   - name: ""
   - name: "Stealth DC 16" 
@@ -49,9 +41,16 @@ attacks:
   - name: ""
 
   - name: "Whisper"
-    desc: "`pf2:r` (auditory, emotion, mental, occult) **Trigger** A creature enters the haunt's area\n**Effect** The haunt deals 1d6 + 4 mental damage to creatures in the area (DC 19 Will check). On a failure, the creature is also [[Conditions/Frightened 1|Frightened 1]]."
+    desc: "`pf2:r` (auditory, emotion, mental, occult) **Trigger** A creature enters the haunt's area\n* * *\n\n**Effect** The haunt deals 1d6+4 mental damage to creatures in the area (DC 19 Will check). On a failure, the creature is also [[Conditions/Frightened|Frightened 1]]."
 
 
+  - name: "Reset"
+    desc: "1 hour"
+```
 
+```encounter-table
+name: Disembodied Voices
+creatures:
+  - 1: Disembodied Voices
 ```
 

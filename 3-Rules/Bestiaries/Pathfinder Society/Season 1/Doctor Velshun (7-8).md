@@ -10,6 +10,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/human
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/8
 statblock: inline
 name: "Doctor Velshun (7-8)"
@@ -24,14 +25,14 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Society Scenario #1-25: Grim Symphony"
 name: "Doctor Velshun (7-8)"
 level: "Creature 8"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Medium"
-trait_01: "chaotic"
-trait_02: "dhampir"
-trait_03: "evil"
-trait_04: "human"
-trait_05: "humanoid"
+trait_01: [[chaotic]]
+trait_02: [[dhampir]]
+trait_03: [[evil]]
+trait_04: [[human]]
+trait_05: [[humanoid]]
 modifier: 15
 perception:
   - name: "Perception"
@@ -39,7 +40,7 @@ perception:
 languages: "Common, Necril"
 skills:
   - name: "Skills"
-    desc: "Music Lore: +16, Occultism: +16, Performance: +18, Religion: +16"
+    desc: "Occultism: +16, Performance: +18, Religion: +16, Music Lore: +16"
 abilityMods: [2, 2, 4, 4, 3, 6]
 speed: 25 feet
 sourcebook: "_Pathfinder Society Scenario #1-25: Grim Symphony_"
@@ -70,6 +71,12 @@ attacks:
   - name: "Rituals"
     desc: "_[[Spells/Create Undead|Create Undead (Zombie)]]_"
  
+```
+
+```encounter-table
+name: Doctor Velshun (7-8)
+creatures:
+  - 1: Doctor Velshun (7-8)
 ```
 
 

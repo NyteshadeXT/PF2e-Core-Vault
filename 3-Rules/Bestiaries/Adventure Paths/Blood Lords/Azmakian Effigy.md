@@ -10,6 +10,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/fiend
   - pf2e/creature/type/unholy
+  - pf2eMonster
   - pf2e/creature/level/7
 statblock: inline
 name: "Azmakian Effigy"
@@ -24,14 +25,14 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #182: Graveclaw"
 name: "Azmakian Effigy"
 level: "Creature 7"
-rare_03: "Rare"
+rare_03: [[Rare]]
 alignment: ""
 size: "Large"
-trait_01: "chaotic"
-trait_02: "construct"
-trait_03: "evil"
-trait_04: "fiend"
-trait_05: "unholy"
+trait_01: [[chaotic]]
+trait_02: [[construct]]
+trait_03: [[evil]]
+trait_04: [[fiend]]
+trait_05: [[unholy]]
 modifier: 15
 perception:
   - name: "Perception"
@@ -67,11 +68,17 @@ attacks:
     desc: "`pf2:1` Hoof +18 (agile, unholy)\n__Damage__  2d8 + 10 bludgeoning"
 
   - name: "Breath Weapon"
-    desc: "`pf2:2` (divine) The Azmakian effigy exhales rusting gas in a 15-foot cone. The gas deals 2d6 damage to the highest-level metal item carried by every creature in the area, ignoring these items' Hardness (DC 22 Fortitude check); unattended metal items in the area take this damage automatically. The Azmakian effigy can't use its Breath Weapon again for 1d4 rounds."
+    desc: "`pf2:2` (divine) The Azmakian effigy exhales rusting gas in a @Template[cone|distance:15]. The gas deals 2d6 damage to the highest-level metal item carried by every creature in the area, ignoring these items' Hardness (DC 22 Fortitude check); unattended metal items in the area take this damage automatically. The Azmakian effigy can't use its Breath Weapon again for 1d4 rounds."
 
   - name: "Powerful Charge"
-    desc: "`pf2:2`  The Azmakian effigy Strides twice and then makes a horn Strike. If it moved at least 20 feet from its starting position, the Strike's damage is increased to 3d10 + 10 piercing damage."
+    desc: "`pf2:2`  The Azmakian effigy Strides twice and then makes a horn Strike. If it moved at least 20 feet from its starting position, the Strike's damage is increased to 3d10+10 piercing damage."
  
+```
+
+```encounter-table
+name: Azmakian Effigy
+creatures:
+  - 1: Azmakian Effigy
 ```
 
 

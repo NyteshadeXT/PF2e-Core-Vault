@@ -6,8 +6,9 @@ tags:
   - trait/ratfolk
   - trait/common
   - category/ancestry
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.yYIyAbwpdkySiCMU"
-license: OGL
+license: ORC
 ---
 # Uncanny Cheeks
 ## Feat 9
@@ -18,7 +19,7 @@ license: OGL
 
 
 
-You squirrel away useful objects and seem to retrieve them at just the right time. You gain the [[Feats/Prescient Consumable|Prescient Consumable]] and [[Feats/Prescient Planner|Prescient Planner]] feats, except that you always withdraw the objects from your cheek pouches. This means the object you retrieve must fit in your cheek pouches; this is generally an item of negligible Bulk unless you also have the [[Feats/Cheek Pouches|Cheek Pouches]] feat.
+You gain the [[Feats/Prescient Consumable|Prescient Consumable]] and [[Feats/Prescient Planner|Prescient Planner]] feats, except that you always withdraw the objects from your cheek pouches. This means the object you retrieve must fit in your cheek pouches; this is generally an item of negligible Bulk unless you also have the [[Feats/Cheek Pouches|Cheek Pouches]] feat.
 
-*Source: Pathfinder Lost Omens: Ancestry Guide*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

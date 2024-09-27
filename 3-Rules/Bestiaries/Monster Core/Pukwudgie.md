@@ -6,6 +6,7 @@ cssClasses: pf2e
 aliases: "Compendium.pf2e.pathfinder-monster-core.Actor.1ZRHjuGOluR4IUrs" 
 tags:
   - pf2e/creature/type/fey
+  - pf2eMonster
   - pf2e/creature/level/7
   - remaster
 statblock: inline
@@ -25,7 +26,7 @@ level: "Creature 7"
 
 alignment: ""
 size: "Small"
-trait_01: "fey"
+trait_01: [[fey]]
 modifier: 17
 perception:
   - name: "Perception"
@@ -74,8 +75,14 @@ attacks:
     desc: "`pf2:1` (concentrate,polymorph,primal) The pukwudgie takes on the physical form of a giant porcupine or resumes their natural form. In porcupine form, their size changes to Medium, they lose their weapon Strikes, and they gain a quill Strike (+18 for 2d8+6 piercing plus 1d8 persistent poison).\n\n* * *\n"
 
   - name: "Pukwudgie Poison"
-    desc: " (poison) **Saving Throw** DC 25 Fortitude check\n* * *\n\n**Maximum Duration** 6 rounds\n\n**Stage 1** 1d6 poison damage and [[Conditions/Stupefied 1|Stupefied 1]] (1 round)\n\n**Stage 2** 1d6 poison damage and [[Conditions/Stupefied 1|Stupefied 2]] (1 round)\n\n**Stage 3** 1d6 poison damage, [[Conditions/Confused|Confused]], and stupefied 2 (1 round)"
+    desc: " (poison) **Saving Throw** DC 25 Fortitude check\n* * *\n\n**Maximum Duration** 6 rounds\n\n**Stage 1** 1d6 poison damage and [[Conditions/Stupefied|Stupefied 1]] (1 round)\n\n**Stage 2** 1d6 poison damage and [[Conditions/Stupefied|Stupefied 2]] (1 round)\n\n**Stage 3** 1d6 poison damage, [[Conditions/Confused|Confused]], and stupefied 2 (1 round)"
  
+```
+
+```encounter-table
+name: Pukwudgie
+creatures:
+  - 1: Pukwudgie
 ```
 
 

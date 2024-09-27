@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/good
   - pf2e/creature/type/humanoid
   - pf2e/creature/type/kitsune
+  - pf2eMonster
   - pf2e/creature/level/9
 statblock: inline
 name: "Ji-yook (Level 9)"
@@ -23,13 +24,13 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #166: Despair on Danger Island"
 name: "Ji-yook (Level 9)"
 level: "Creature 9"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Medium"
-trait_01: "chaotic"
-trait_02: "good"
-trait_03: "humanoid"
-trait_04: "kitsune"
+trait_01: [[chaotic]]
+trait_02: [[good]]
+trait_03: [[humanoid]]
+trait_04: [[kitsune]]
 modifier: 19
 perception:
   - name: "Perception"
@@ -72,7 +73,7 @@ attacks:
     desc: "DC 27, attack +19; __1st __ (1 slots) _[[Spells/Sanctuary|Sanctuary]]_\n__Cantrips__  __(5th)__ _[[Spells/Daze|Daze]]_"
 
   - name: "[[Bestiary Ability Glossary/Change Shape|Change Shape]]"
-    desc: "`pf2:1` (concentrate,divine,polymorph) Ji-yook transforms into her human form. Using Change Shape counts as creating a disguise for the Impersonate use of Deception. Ji-yook can remain in her human form indefinitely, and she can shift back to her true kitsune form by using this action again.\n"
+    desc: "`pf2:1` (concentrate,divine,polymorph) Ji-yook transforms into her human form. Using Change Shape counts as creating a disguise for the Impersonate use of Deception. Ji-yook can remain in her human form indefinitely, and she can shift back to her true kitsune form by using this action again.\n\n* * *\n"
 
   - name: "Foxfire Blast"
     desc: "`pf2:2` (electricity,flourish,magical) Ji-yook makes a fist Strike. On a hit, the target takes an additional 2d4 electricity damage and is pushed back 5 feet. On a critical hit, the target is pushed back and then knocked [[Conditions/Prone|Prone]]"
@@ -83,6 +84,12 @@ attacks:
   - name: "[[Bestiary Ability Glossary/Sneak Attack|Sneak Attack]]"
     desc: "  Ji-yook Strikes deal an additional 2d6 precision damage to [[Conditions/Off-Guard|Off-Guard]] creatures."
  
+```
+
+```encounter-table
+name: Ji-yook (Level 9)
+creatures:
+  - 1: Ji-yook (Level 9)
 ```
 
 

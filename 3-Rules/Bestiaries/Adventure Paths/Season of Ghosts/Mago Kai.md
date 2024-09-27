@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.season-of-ghosts-bestiary.Actor.skJTZHJZgIAZ9oGN"
 tags:
   - pf2e/creature/type/human
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/11
 statblock: inline
 name: "Mago Kai"
@@ -21,11 +22,11 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #198: No Breath to Cry"
 name: "Mago Kai"
 level: "Creature 11"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Medium"
-trait_01: "human"
-trait_02: "humanoid"
+trait_01: [[human]]
+trait_02: [[humanoid]]
 modifier: 17
 perception:
   - name: "Perception"
@@ -33,7 +34,7 @@ perception:
 languages: "Common"
 skills:
   - name: "Skills"
-    desc: "Athletics: +22, Crafting: +16, Deception: +19, Ghost Lore: +18, Intimidation: +21, Society: +16, Sze Lore: +18"
+    desc: "Athletics: +22, Crafting: +16, Deception: +19, Intimidation: +21, Society: +16, Ghost Lore: +18, Sze Lore: +18"
 abilityMods: [5, 2, 4, 1, 0, 4]
 speed: 20 feet
 sourcebook: "_Pathfinder #198: No Breath to Cry_"
@@ -70,6 +71,12 @@ attacks:
   - name: "Ghost Killer"
     desc: "  Mago Kai had intricate magical tattoos inscribed on his back and chest to interact more easily with his ghostly masters. Weapons and unarmed attacks wielded by Mago Kai function as ghost touch weapons, and he inflicts an additional 2d6 mental damage with melee Strikes against incorporeal creatures or transmigrated PCs."
  
+```
+
+```encounter-table
+name: Mago Kai
+creatures:
+  - 1: Mago Kai
 ```
 
 

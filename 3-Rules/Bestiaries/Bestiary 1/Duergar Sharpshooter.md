@@ -10,6 +10,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/humanoid
   - pf2e/creature/type/lawful
+  - pf2eMonster
   - pf2e/creature/level/0
 statblock: inline
 name: "Duergar Sharpshooter"
@@ -28,11 +29,11 @@ level: "Creature 0"
 
 alignment: ""
 size: "Medium"
-trait_01: "duergar"
-trait_02: "dwarf"
-trait_03: "evil"
-trait_04: "humanoid"
-trait_05: "lawful"
+trait_01: [[duergar]]
+trait_02: [[dwarf]]
+trait_03: [[evil]]
+trait_04: [[humanoid]]
+trait_05: [[lawful]]
 modifier: 4
 perception:
   - name: "Perception"
@@ -74,6 +75,12 @@ attacks:
   - name: "Bola Bolt"
     desc: "  This shot deals no damage, but on a hit, the target must succeed at a DC 16 Reflex check save or be knocked [[Conditions/Prone|Prone]] and [[Conditions/Immobilized|Immobilized]] until it is freed with a successful DC 15 check to [[Actions/Escape|Escape]]. This check can be attempted either by the target or a creature adjacent to the target."
  
+```
+
+```encounter-table
+name: Duergar Sharpshooter
+creatures:
+  - 1: Duergar Sharpshooter
 ```
 
 

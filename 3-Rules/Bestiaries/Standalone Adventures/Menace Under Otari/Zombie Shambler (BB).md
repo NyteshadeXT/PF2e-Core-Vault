@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/undead
   - pf2e/creature/type/unholy
   - pf2e/creature/type/zombie
+  - pf2eMonster
   - pf2e/creature/level/-1
   - remaster
 statblock: inline
@@ -27,14 +28,15 @@ level: "Creature -1"
 
 alignment: ""
 size: "Medium"
-trait_01: "mindless"
-trait_02: "undead"
-trait_03: "unholy"
-trait_04: "zombie"
+trait_01: [[mindless]]
+trait_02: [[undead]]
+trait_03: [[unholy]]
+trait_04: [[zombie]]
 modifier: 0
 perception:
   - name: "Perception"
     desc: "+0; Darkvision"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Athletics: +7"
@@ -70,6 +72,12 @@ attacks:
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
     desc: "`pf2:1`  When the zombie succeeds at its fist Strike, it can use this action immediately after to attempt to [[Actions/Grapple|Grapple]] the target. This Grapple doesn't apply or count toward the zombie's multiple attack penalty."
  
+```
+
+```encounter-table
+name: Zombie Shambler (BB)
+creatures:
+  - 1: Zombie Shambler (BB)
 ```
 
 

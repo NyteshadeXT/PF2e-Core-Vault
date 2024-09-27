@@ -11,7 +11,7 @@ license: OGL
 ---
 # Codex of Unimpeded Sight (Greater)
 ## Item 12
-### [[grimoire]][[magical]]
+### [[grimoire]][[3-Rules/Rule References/Magical]]
 
 
 **Price** 1800 gp; 

@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.pathfinder-bestiary-2.Actor.0rhltfBkQtYkCwXd"
 tags:
   - pf2e/creature/type/mindless
   - pf2e/creature/type/plant
+  - pf2eMonster
   - pf2e/creature/level/-1
 statblock: inline
 name: "Yellow Musk Thrall"
@@ -25,12 +26,13 @@ level: "Creature -1"
 
 alignment: ""
 size: "Medium"
-trait_01: "mindless"
-trait_02: "plant"
+trait_01: [[mindless]]
+trait_02: [[plant]]
 modifier: 0
 perception:
   - name: "Perception"
     desc: "+0; Low-Light Vision"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Athletics: +5"
@@ -50,7 +52,7 @@ abilities_top:
   - name: ""
 
   - name: "Slow"
-    desc: "  A yellow musk thrall is permanently [[Conditions/Slowed 1|Slowed 1]] and can't use reactions."
+    desc: "  A yellow musk thrall is permanently [[Conditions/Slowed|Slowed 1]] and can't use reactions."
 
 abilities_mid:
   - name: ""
@@ -64,14 +66,20 @@ attacks:
     desc: "`pf2:1` Fist +7 ()\n__Damage__  1d4 + 3 bludgeoning plus grab,pollen-touch"
 
   - name: "Limb Extension"
-    desc: "  **Trigger** The yellow musk thrall is reduced to 4 HP or fewer\n**Effect** Creeper tendrils tear through the thrall's limbs, causing its forearms to tear loose. The thrall's melee reach increases by 5 feet."
+    desc: "  **Trigger** The yellow musk thrall is reduced to 4 HP or fewer\n* * *\n\n**Effect** Creeper tendrils tear through the thrall's limbs, causing its forearms to tear loose. The thrall's melee reach increases by 5 feet."
 
   - name: "Pollen Touch"
-    desc: "  When the thrall strikes a creature, that creature is exposed to yellow musk creeper pollen, as Spray Pollen (DC 14). The creature is [[Conditions/Fascinated|Fascinated]] by the yellow musk creeper that spawned the thrall, not by the thrall itself. The affected creature must attempt a DC 14 Will check save.\nOnce a creature succeeds at any save against Spray Pollen, it becomes temporarily immune for 24 hours.\n**Success** The creature is unaffected.\n**Failure** The creature is [[Conditions/Fascinated|Fascinated]]. For as long as it is fascinated, it must spend each of its actions to move closer to the yellow musk creeper that spawned the thrall as expediently as possible, while avoiding obvious dangers. If the creature is adjacent to the yellow musk creeper, it stays still and doesn't act.\n**Critical Failure** As failure, but the condition doesn't end automatically. The creature can attempt a new save at the end of each of its turns. On a success, the fascinated condition and other effects end."
+    desc: "  When the thrall strikes a creature, that creature is exposed to yellow musk creeper pollen, as Spray Pollen (DC 14). The creature is [[Conditions/Fascinated|Fascinated]] by the yellow musk creeper that spawned the thrall, not by the thrall itself. The affected creature must attempt a DC 14 Will check save.\n\nOnce a creature succeeds at any save against Spray Pollen, it becomes temporarily immune for 24 hours.\n* * *\n\n**Success** The creature is unaffected.\n\n**Failure** The creature is [[Conditions/Fascinated|Fascinated]]. For as long as it is fascinated, it must spend each of its actions to move closer to the yellow musk creeper that spawned the thrall as expediently as possible, while avoiding obvious dangers. If the creature is adjacent to the yellow musk creeper, it stays still and doesn't act.\n\n**Critical Failure** As failure, but the condition doesn't end automatically. The creature can attempt a new save at the end of each of its turns. On a success, the fascinated condition and other effects end."
 
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
     desc: "`pf2:1`  "
  
+```
+
+```encounter-table
+name: Yellow Musk Thrall
+creatures:
+  - 1: Yellow Musk Thrall
 ```
 
 

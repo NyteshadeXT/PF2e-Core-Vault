@@ -6,8 +6,9 @@ tags:
   - trait/duskwalker
   - trait/common
   - category/ancestry
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.FqZKSSBU7M4zhsXM"
-license: OGL
+license: ORC
 ---
 # Resist Ruin
 ## Feat 13
@@ -18,7 +19,7 @@ license: OGL
 
 
 
-Your duskwalker heritage allows you to extend protection against void energy to yourself or an ally in need. You gain resistance 5 to void energy, and once per day, you can cast [[Spells/Death Ward|Death Ward]] as a divine innate spell.
+Your duskwalker heritage allows you to extend protection against void energy. You gain resistance 5 to void, and once per day, you can cast [[Spells/False Vitality|False Vitality]] as a 5th-rank divine innate spell.
 
-*Source: Pathfinder Advanced Player's Guide*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

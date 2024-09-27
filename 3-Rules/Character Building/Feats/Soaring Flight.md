@@ -8,11 +8,12 @@ tags:
   - trait/tengu
   - trait/common
   - category/ancestry
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.Tl8yckXeTCHnwrlM"
-license: OGL
+license: ORC
 ---
 # Soaring Flight `pf2:2`
-## Feat 9
+## Feat 5
 ### [[morph]][[primal]][[tengu]]
 
 **Category** ancestry; 
@@ -21,11 +22,11 @@ license: OGL
 
 **Prerequisites** skyborn tengu heritage
 * * *
-**Frequency** Once per day.
+**Frequency** once per round
 
 * * *
 
-To be a tengu is to be unburdened by the concerns of the world below. You grow a pair of magical wings or expand your existing ones. For 5 minutes, you gain a [[Actions/Fly|Fly]] Speed equal to your land Speed or 20 feet, whichever is greater.
+You Fly. If you don't normally have a fly Speed, you gain a fly Speed of 20 feet for this movement. If you aren't on solid ground at the end of this movement, you fall.
 
-*Source: Pathfinder Advanced Player's Guide*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

@@ -4,6 +4,7 @@ title: "Ringmaster's Staff"
 cssclasses: pf2e,pf2e-spell
 tags:
   - pf2e/weapon
+  - trait/illusion
   - trait/magical
   - trait/staff
   - trait/two-hand-d8
@@ -14,7 +15,7 @@ license: OGL
 ---
 # Ringmaster's Staff
 ## Item 6
-### [uncommon](uncommon "Uncommon Rarity Trait")[[magical]][[staff]][[two-hand-d8]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[illusion]][[magical]][[staff]][[two-hand-d8]]
 
 |  |  |
 | -- | -- |
@@ -38,7 +39,7 @@ While wielding a _ringmaster's staff_, your normal voice can be clearly heard by
 **Craft Requirements** Supply one casting of all listed levels of all listed spells.
 
 *   **Cantrip** s [[Spells/Light|Light]]
-*   **1st** [[Spells/Gentle Landing|Gentle Landing]], [[Spells/Floating Disk|Floating Disk]]
+*   **1st** [[Spells/Gentle Landing|Gentle Landing]], [[Spells/Carryall|Floating Disk]]
 *   **2nd** [[Spells/Revealing Light|Revealing Light]], [[Spells/Illusory Creature|Illusory Creature]], [[Spells/Mist|Mist]]
 
 *Source: Pathfinder #152: Legacy of the Lost God*

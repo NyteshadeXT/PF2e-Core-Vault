@@ -6,8 +6,9 @@ tags:
   - trait/investigator
   - trait/common
   - category/class
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.0FNLI8APwj9NsBDa"
-license: OGL
+license: ORC
 ---
 # Alchemical Discoveries
 ## Feat 4
@@ -19,9 +20,7 @@ license: OGL
 
 **Prerequisites** alchemical sciences methodology
 * * *
-You've devoted extra time in the lab to improve your knowledge of alchemy. You learn the formulas for two alchemical items each time you level up instead of one; these must still be elixirs or tools.
+You've devoted extra time in the lab to improve your knowledge of alchemy. You learn the formulas for two alchemical items each time you level up instead of one; these must still be elixirs or tools. The number of versatile vials you can create each day increases by one if you're an expert in Crafting, two if you're a master, or three if you're legendary.
 
-The number of versatile vials you can create each day increases by 1 if you're an expert in Crafting, 2 if you're a master, or 3 if you're legendary.
-
-*Source: Pathfinder Advanced Player's Guide*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

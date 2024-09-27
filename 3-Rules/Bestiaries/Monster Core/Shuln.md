@@ -6,6 +6,7 @@ cssClasses: pf2e
 aliases: "Compendium.pf2e.pathfinder-monster-core.Actor.xz2NZqSG5YVl17dc" 
 tags:
   - pf2e/creature/type/beast
+  - pf2eMonster
   - pf2e/creature/level/12
   - remaster
 statblock: inline
@@ -22,10 +23,10 @@ token: [[modules/pf2e-tokens-bestiaries/portraits/bestial/mammalian/shuln.webp| 
 source: "Pathfinder Monster Core"
 name: "Shuln"
 level: "Creature 12"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "huge"
-trait_01: "beast"
+trait_01: [[beast]]
 modifier: 20
 perception:
   - name: "Perception"
@@ -64,11 +65,17 @@ attacks:
     desc: "  Any time the shuln scores a critical hit with a melee Strike, it also deals the same amount of damage to the target's armor, bypassing any Hardness lower than 10, like adamantine."
 
   - name: "Shuln Saliva"
-    desc: " (incapacitation,poison) **Saving Throw** DC 32 Fortitude check\n* * *\n\n**Maximum Duration** 6 rounds\n\n**Stage 1** 2d6 poison damage and [[Conditions/Slowed 1|Slowed 1]] (1 round)\n\n**Stage 2** 3d6 poison damage, and slowed 1 (1 round)\n\n**Stage 3** 4d6 poison damage and [[Conditions/Paralyzed|Paralyzed]] for 2d6 hours. Shuln saliva overcomes the inexorable ability."
+    desc: " (incapacitation,poison) **Saving Throw** DC 32 Fortitude check\n* * *\n\n**Maximum Duration** 6 rounds\n\n**Stage 1** 2d6 poison damage and [[Conditions/Slowed|Slowed 1]] (1 round)\n\n**Stage 2** 3d6 poison damage, and slowed 1 (1 round)\n\n**Stage 3** 4d6 poison damage and [[Conditions/Paralyzed|Paralyzed]] for 2d6 hours. Shuln saliva overcomes the inexorable ability."
 
   - name: "Unstoppable Burrow"
     desc: "  Shulns can burrow into solid rock and any metal with a hardness less than that of adamantine like it is soil or loose rubble, leaving a tunnel 10 feet in diameter."
  
+```
+
+```encounter-table
+name: Shuln
+creatures:
+  - 1: Shuln
 ```
 
 

@@ -16,7 +16,7 @@ license: OGL
 ---
 # Clockwork Chirper
 ## Item 3
-### [uncommon](uncommon "Uncommon Rarity Trait")[[auditory]][[clockwork]][[consumable]][[mechanical]][[snare]][[trap]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[3-Rules/Rule References/auditory]][[clockwork]][[consumable]][[mechanical]][[snare]][[trap]]
 
 **Category** snare; 
 **Price** 8 gp; 

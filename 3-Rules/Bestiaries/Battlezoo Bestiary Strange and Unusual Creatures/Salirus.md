@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/chaotic
   - pf2e/creature/type/evil
   - pf2e/creature/type/fey
+  - pf2eMonster
   - pf2e/creature/level/6
 statblock: inline
 name: "Salirus"
@@ -23,12 +24,12 @@ token: [[modules/battlezoo-bestiary-su-pf2e/art/Portraits/salirus.webp| ]]
 source: "Battlezoo Bestiary: Strange and Unusual"
 name: "Salirus"
 level: "Creature 6"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Medium"
-trait_01: "chaotic"
-trait_02: "evil"
-trait_03: "fey"
+trait_01: [[chaotic]]
+trait_02: [[evil]]
+trait_03: [[fey]]
 modifier: 17
 perception:
   - name: "Perception"
@@ -36,7 +37,7 @@ perception:
 languages: "Common, Fey"
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +15, Athletics: +12, Deception: +11, Intimidation: +11, Nature: +15, Stealth: +16, Survival: +13, Swamp Lore: +14, "
+    desc: "Acrobatics: +15, Athletics: +12, Deception: +11, Intimidation: +11, Nature: +15, Stealth: +16, Survival: +13, Acrobatics: +15, Athletics: +12, Deception: +11, Intimidation: +11, Nature: +15, Stealth: +16, Survival: +13, Swamp Lore: +14"
 abilityMods: [2, 5, 4, 3, 5, 2]
 speed: 25 feet
 sourcebook: "_Battlezoo Bestiary: Strange and Unusual_"
@@ -56,7 +57,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Swarm Rejuvenation"
-    desc: "  A salirus's swarm is part of its true self. After defeating a salirus, its swarm disperses, and 2d4 days later, one of the constituent creatures grows into a new salirus if even a single one escapes. While the exact circumstances and surroundings determine how long the salirus's foes have to dispatch the Fleeing creatures before they escape, usually its foes have only a single round. Typically, this requires the application of an area effect or splash weapon within 1 round to the space where the salirus collapsed. After any amount of area or splash damage is dealt to that space, the character dealing the damage must attempt a DC 15 Flat check. Each subsequent area or splash damage effect performed on the area reduces the DC of this flat check by 2, to a minimum of DC 5. If any of these flat checks succeed, none of the creatures escapes, and the salirus is destroyed permanently. At the GM's discretion, clever means of trapping or otherwise detaining the vermin may extend the time allowed to finish off the salirus."
+    desc: "  A salirus's swarm is part of its true self. After defeating a salirus, its swarm disperses, and 2d4 days later, one of the constituent creatures grows into a new salirus if even a single one escapes. While the exact circumstances and surroundings determine how long the salirus's foes have to dispatch the [[undefined]] creatures before they escape, usually its foes have only a single round. Typically, this requires the application of an area effect or splash weapon within 1 round to the space where the salirus collapsed. After any amount of area or splash damage is dealt to that space, the character dealing the damage must attempt a DC 15 Flat check. Each subsequent area or splash damage effect performed on the area reduces the DC of this flat check by 2, to a minimum of DC 5. If any of these flat checks succeed, none of the creatures escapes, and the salirus is destroyed permanently. At the GM's discretion, clever means of trapping or otherwise detaining the vermin may extend the time allowed to finish off the salirus."
 
 attacks:
   - name: ""
@@ -71,10 +72,10 @@ attacks:
     desc: "DC 21, attack +13; __4th __  _[[Spells/Solid Fog|Solid Fog]]_; __3rd __  _[[Spells/Animal Vision|Animal Vision (At Will)]]_, _[[Spells/Stinking Cloud|Stinking Cloud]]_; __2nd __  _[[Spells/Entangling Flora|Entangle]]_, _[[Spells/Sudden Blight|Sudden Blight]]_\n__Cantrips__  __(3rd)__ _[[Compendium.pf2e.spells-srd.Item.kl2q6JvBZwed4B6v|Dancing Lights]]_"
 
   - name: "Illuminate"
-    desc: "`pf2:1` (light) **Requirements** The salirus hasn't used Obfuscate this turn\n**Effect** The salirus fills a square within 60 feet with its swarm of fireflies. Any Invisible creatures in the square or that have a portion of themselves in the square become Concealed rather than undetected, as the fireflies settle on them. The fireflies remain in the square until the salirus moves them again by using either Illuminate or Obfuscate. Any creatures that move out of the square regain their invisibility. Whether there are any creatures in the square the salirus selects or not, the fireflies shine bright light in a 10-foot radius."
+    desc: "`pf2:1` (light) **Requirements** The salirus hasn't used Obfuscate this turn\n* * *\n\n**Effect** The salirus fills a square within 60 feet with its swarm of fireflies. Any [[undefined]] creatures in the square or that have a portion of themselves in the square become [[undefined]] rather than undetected, as the fireflies settle on them. The fireflies remain in the square until the salirus moves them again by using either Illuminate or Obfuscate. Any creatures that move out of the square regain their invisibility. Whether there are any creatures in the square the salirus selects or not, the fireflies shine bright light in a 10-foot radius."
 
   - name: "Obfuscate"
-    desc: "`pf2:1` (light) **Requirements** The salirus hasn't used Illuminate this turn\n**Effect** The salirus surrounds itself with its swarm of fireflies, hiding from view. It is Concealed until the beginning of its next turn. It can't use this concealment to Hide or Sneak, as normal for concealment that makes its position obvious."
+    desc: "`pf2:1` (light) **Requirements** The salirus hasn't used Illuminate this turn\n* * *\n\n**Effect** The salirus surrounds itself with its swarm of fireflies, hiding from view. It is [[undefined]] until the beginning of its next turn. It can't use this concealment to [[Actions/Hide|Hide]] or [[undefined]], as normal for concealment that makes its position obvious."
 
   - name: "Target"
     desc: "`pf2:1` (light) The salirus sends a single firefly to land on a creature to improve its aim. The salirus gains a +2 circumstance bonus to its attack roll on the next bow Strike against the creature made before the end of its turn. If the Strike hits it deals an additional 1d8 precision damage."
@@ -85,6 +86,12 @@ attacks:
   - name: "Woodland Stride"
     desc: "  A salirus ignores difficult terrain and greater difficult terrain from non- magical foliage."
  
+```
+
+```encounter-table
+name: Salirus
+creatures:
+  - 1: Salirus
 ```
 
 

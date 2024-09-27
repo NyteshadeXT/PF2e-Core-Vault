@@ -19,7 +19,7 @@ license: OGL
 
 This lustrous, rat-shaped pyrite statuette is 1 inch tall. When activated, the statuette transforms into a flesh-and-blood giant rat. You can use the following action when you hold the _pyrite rat_. You can use this action only once per day, and the rat remains transformed for 1 hour.
 
-**Transform Statue**`pf2:2` (concentrate, manipulate)
+**Transform Statue** `pf2:2` (concentrate, manipulate)
 
 * * *
 

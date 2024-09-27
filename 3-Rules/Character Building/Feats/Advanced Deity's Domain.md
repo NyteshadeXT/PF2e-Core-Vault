@@ -6,8 +6,9 @@ tags:
   - trait/champion
   - trait/common
   - category/class
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.JHJBmiyILzWdFRJO"
-license: OGL
+license: ORC
 ---
 # Advanced Deity's Domain
 ## Feat 8
@@ -19,7 +20,7 @@ license: OGL
 
 **Prerequisites** Deity's Domain
 * * *
-Through your conviction, you have glimpsed the deeper secrets of your deity's domain. You gain an advanced domain spell from the domain you chose with Deity's Domain. You can cast that spell as a devotion spell. Increase the number of Focus Points in your focus pool by 1.
+Through your conviction, you have glimpsed the deeper secrets of your deity's domain. You gain an advanced domain spell from the domain you chose with Deity's Domain as a devotion spell.
 
-*Source: Pathfinder Core Rulebook*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

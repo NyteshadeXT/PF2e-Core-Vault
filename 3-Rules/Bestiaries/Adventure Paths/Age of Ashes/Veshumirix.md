@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/dragon
   - pf2e/creature/type/evil
   - pf2e/creature/type/fire
+  - pf2eMonster
   - pf2e/creature/level/16
 statblock: inline
 name: "Veshumirix"
@@ -23,13 +24,13 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #148: Fires of the Haunted City"
 name: "Veshumirix"
 level: "Creature 16"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "huge"
-trait_01: "chaotic"
-trait_02: "dragon"
-trait_03: "evil"
-trait_04: "fire"
+trait_01: [[chaotic]]
+trait_02: [[dragon]]
+trait_03: [[evil]]
+trait_04: [[fire]]
 modifier: 28
 perception:
   - name: "Perception"
@@ -56,10 +57,10 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "[[Bestiary Ability Glossary/Frightful Presence|Frightful Presence]]"
-    desc: " (aura,emotion,fear,mental) 90 feet. DC 34 Will check\n"
+    desc: " (aura,emotion,fear,mental) 90 feet. DC 34 Will check\n\n* * *\n"
 
   - name: "Wing Deflection"
-    desc: "`pf2:r`  **Trigger** Veshumirix is targeted with an attack.\n**Effect** Veshumirix raises his wing, gaining a +2 circumstance bonus to AC against the triggering attack. If Veshumirix is Flying, he descends 10 feet after the attack."
+    desc: "`pf2:r`  **Trigger** Veshumirix is targeted with an attack.\n* * *\n\n**Effect** Veshumirix raises his wing, gaining a +2 circumstance bonus to AC against the triggering attack. If Veshumirix is Flying, he descends 10 feet after the attack."
 
 attacks:
   - name: ""
@@ -80,7 +81,7 @@ attacks:
     desc: "DC 40, attack +32; __8th __  _[[Spells/Breathe Fire|Burning Hands (At Will)]]_, _[[Spells/Fireball|Fireball]]_, _[[Spells/Wall of Fire|Wall of Fire (At Will)]]_\n__Cantrips__  __(8th)__ _[[Spells/Produce Flame|Produce Flame]]_\n__Constant__  __(4th)__ _[[Spells/Fire Shield|Fire Shield]]_"
 
   - name: "Breath Weapon"
-    desc: "`pf2:2` (fire,primal) Veshumirix breathes a blast of magma that deals 9d6 fire damage and 4d12 bludgeoning damage in a 60-foot cone (DC 42 Reflex check save).\nHe can't use Breath Weapon again for 1d4 rounds."
+    desc: "`pf2:2` (fire,primal) Veshumirix breathes a blast of magma that deals 9d6 fire damage and 4d12 bludgeoning damage in a 60-foot cone (DC 42 Reflex check save).\n\nHe can't use Breath Weapon again for 1d4 rounds."
 
   - name: "Draconic Frenzy"
     desc: "`pf2:2`  Veshumirix makes two claw Strikes and one horns Strike in any order."
@@ -92,8 +93,14 @@ attacks:
     desc: "  A magma dragon's swim Speed functions only when the dragon is swimming through magma or molten lava."
 
   - name: "Volcanic Purge"
-    desc: "`pf2:1`  If the next action Veshumirix uses is Breath Weapon, the magma clings to those it damages. Each creature that fails its save against the Breath Weapon takes 4d6 persistent fire damage, and as long as it has this persistent fire damage, it also takes a -10-foot status penalty to its Speeds.\n[[Bestiary Effects/Effect_ Volcanic Purge|Effect: Volcanic Purge]]"
+    desc: "`pf2:1`  If the next action Veshumirix uses is Breath Weapon, the magma clings to those it damages. Each creature that fails its save against the Breath Weapon takes 4d6 persistent fire damage, and as long as it has this persistent fire damage, it also takes a -10-foot status penalty to its Speeds.\n\n[[Bestiary Effects/Effect_ Volcanic Purge|Effect: Volcanic Purge]]"
  
+```
+
+```encounter-table
+name: Veshumirix
+creatures:
+  - 1: Veshumirix
 ```
 
 

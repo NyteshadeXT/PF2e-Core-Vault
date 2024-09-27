@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/giant
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/7
 statblock: inline
 name: "Ogre Boss"
@@ -27,10 +28,10 @@ level: "Creature 7"
 
 alignment: ""
 size: "Large"
-trait_01: "chaotic"
-trait_02: "evil"
-trait_03: "giant"
-trait_04: "humanoid"
+trait_01: [[chaotic]]
+trait_02: [[evil]]
+trait_03: [[giant]]
+trait_04: [[humanoid]]
 modifier: 12
 perception:
   - name: "Perception"
@@ -73,8 +74,14 @@ attacks:
     desc: "`pf2:1` (auditory,fear,linguistic) The ogre boss issues a command to hasten their fellows. Each ogre ally who hears and understands this command becomes [[Conditions/Quickened|Quickened]] until the end of that ally's next turn, but can use the extra action only to Step or Stride."
 
   - name: "Sweeping Hook"
-    desc: "`pf2:r`  **Trigger** The ogre boss successfully [[Actions/Trip|Trips]] a creature using an ogre hook.\n**Effect** The ogre boss makes an ogre hook Strike against the creature they tripped."
+    desc: "`pf2:r`  **Trigger** The ogre boss successfully [[Actions/Trip|Trips]] a creature using an ogre hook.\n* * *\n\n**Effect** The ogre boss makes an ogre hook Strike against the creature they tripped."
  
+```
+
+```encounter-table
+name: Ogre Boss
+creatures:
+  - 1: Ogre Boss
 ```
 
 

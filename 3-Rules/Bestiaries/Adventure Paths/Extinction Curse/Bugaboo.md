@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.extinction-curse-bestiary.Actor.jCcA2ca8VnnDtVU9"
 tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/fey
+  - pf2eMonster
   - pf2e/creature/level/6
 statblock: inline
 name: "Bugaboo"
@@ -21,11 +22,11 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #152: Legacy of the Lost God"
 name: "Bugaboo"
 level: "Creature 6"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Medium"
-trait_01: "evil"
-trait_02: "fey"
+trait_01: [[evil]]
+trait_02: [[fey]]
 modifier: 14
 perception:
   - name: "Perception"
@@ -61,7 +62,7 @@ attacks:
     desc: "DC 22, attack +12; __3rd __ (2 slots) _[[Spells/Fear|Fear]]_, _[[Spells/Paralyze|Paralyze]]_; __2nd __ (2 slots) _[[Spells/Invisibility|Invisibility]]_, _[[Spells/Knock|Knock]]_\n__Cantrips__  __(3rd)__ _[[Spells/Ghost Sound|Ghost Sound]]_, _[[Spells/Message|Message]]_"
 
   - name: "Devour Soul"
-    desc: "`pf2:3` (occult) **Requirements** The bugaboo has killed a creature within the last round and is adjacent to the creature\n**Effect** The bugaboo consumes the creature's soul. The soul is utterly destroyed-nothing short of [[Spells/Wish|Wish]] or a similar effect can restore it to life, and only after the bugaboo has been slain. The bugaboo regains Hit Points equal to double the level of the consumed creature. After devouring six souls within a year, a bugaboo transforms into a bogeyman."
+    desc: "`pf2:3` (occult) **Requirements** The bugaboo has killed a creature within the last round and is adjacent to the creature\n* * *\n\n**Effect** The bugaboo consumes the creature's soul. The soul is utterly destroyed-nothing short of [[Spells/Wish|Wish]] or a similar effect can restore it to life, and only after the bugaboo has been slain. The bugaboo regains Hit Points equal to double the level of the consumed creature. After devouring six souls within a year, a bugaboo transforms into a bogeyman."
 
   - name: "Mobility"
     desc: "  When the bugaboo uses a Stride action to move half their Speed or less, that movement does not trigger reactions."
@@ -70,11 +71,17 @@ attacks:
     desc: "  The bugaboo deals 1d6 extra precision damage to [[Conditions/Off-Guard|Off-Guard]] creatures."
 
   - name: "Striking Fear"
-    desc: " (emotion,fear,mental) If a bugaboo scores a critical hit with a claw Strike, the target must attempt a DC 24 Will check save.\n**Critical Success** The target is unaffected.\n**Success** The target is [[Conditions/Frightened 1|Frightened 1]].\n**Failure** The target is [[Conditions/Frightened 1|Frightened 2]].\n**Critical Failure** The target is [[Conditions/Frightened 1|Frightened 3]] and [[Conditions/Fleeing|Fleeing]] for 1 round."
+    desc: " (emotion,fear,mental) If a bugaboo scores a critical hit with a claw Strike, the target must attempt a DC 24 Will check save.\n* * *\n\n**Critical Success** The target is unaffected.\n\n**Success** The target is [[Conditions/Frightened|Frightened 1]].\n\n**Failure** The target is [[Conditions/Frightened|Frightened 2]].\n\n**Critical Failure** The target is [[Conditions/Frightened|Frightened 3]] and [[Conditions/Fleeing|Fleeing]] for 1 round."
 
   - name: "Surprise Attack"
     desc: "  On the first round of combat, creatures that haven't acted yet are [[Conditions/Off-Guard|Off-Guard]] to the bugaboo."
  
+```
+
+```encounter-table
+name: Bugaboo
+creatures:
+  - 1: Bugaboo
 ```
 
 

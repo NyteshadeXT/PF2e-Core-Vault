@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.pfs-season-4-bestiary.Actor.Y2mjAL3OGIuof4mz"
 tags:
   - pf2e/creature/type/construct
   - pf2e/creature/type/mindless
+  - pf2eMonster
   - pf2e/creature/level/4
 statblock: inline
 name: "Dig-Widget (PFS 4-07)"
@@ -24,15 +25,16 @@ level: "Creature 4"
 
 alignment: ""
 size: "Small"
-trait_01: "construct"
-trait_02: "mindless"
+trait_01: [[construct]]
+trait_02: [[mindless]]
 modifier: 8
 perception:
   - name: "Perception"
     desc: "+8; Darkvision, Tremorsense (Imprecise) 30 Feet"
+languages: ""
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +12, Athletics: +9 (+12 to Jump or Climb), Stealth: +10, Thievery: +12"
+    desc: "Acrobatics: +12, Athletics: +9, Stealth: +10, Thievery: +12"
 abilityMods: [3, 4, 1, -5, 0, -5]
 speed: 30 feet,  burrow 15 feet
 sourcebook: "_Pathfinder Society Scenario #4-07: A Most Wondrous Exchange!_"
@@ -71,6 +73,12 @@ attacks:
   - name: "[[Bestiary Ability Glossary/Sneak Attack|Sneak Attack]]"
     desc: "  A dig-widget's Strikes deal an additional 1d6 precision damage to [[Conditions/Off-Guard|Off-Guard]] creatures."
  
+```
+
+```encounter-table
+name: Dig-Widget (PFS 4-07)
+creatures:
+  - 1: Dig-Widget (PFS 4-07)
 ```
 
 

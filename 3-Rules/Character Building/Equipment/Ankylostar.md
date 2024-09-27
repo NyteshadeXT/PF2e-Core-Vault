@@ -13,7 +13,7 @@ license: OGL
 ---
 # Ankylostar
 ## Item 13
-### [uncommon](uncommon "Uncommon Rarity Trait")[[magical]][[versatile-p]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[3-Rules/Rule References/Magical]][[versatile-p]]
 
 |  |  |
 | -- | -- |
@@ -44,7 +44,7 @@ This hefty spiked club is made from the fossilized tail-club of a young ankylosa
 
 * * *
 
-**Effect** The _ankylostar's_ length extends as you swing the club in a wide arc. You Strike up to three creatures in a 15-foot cone; this counts as one attack for the purpose of calculating your multiple attack penalty. Alternatively, you Shove up to three creatures in a 15-foot cone, rolling a separate Athletics check for each creature.
+**Effect** The _ankylostar's_ length extends as you swing the club in a wide arc. You Strike up to three creatures in a @Template\[cone|distance:15\]; this counts as one attack for the purpose of calculating your multiple attack penalty. Alternatively, you Shove up to three creatures in a @Template\[cone|distance:15\], rolling a separate Athletics check for each creature.
 
 *Source: Pathfinder #154: Siege of the Dinosaurs*
 *OGL*

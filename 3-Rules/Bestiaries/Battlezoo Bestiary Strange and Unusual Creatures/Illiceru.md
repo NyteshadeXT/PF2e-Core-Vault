@@ -7,6 +7,7 @@ aliases: "Compendium.battlezoo-bestiary-su-pf2e.pf2e-battlezoo-su-actors.Actor.Z
 tags:
   - pf2e/creature/type/aberration
   - pf2e/creature/type/chaotic
+  - pf2eMonster
   - pf2e/creature/level/11
 statblock: inline
 name: "Illiceru"
@@ -22,11 +23,11 @@ token: [[modules/battlezoo-bestiary-su-pf2e/art/Portraits/illiceru.webp| ]]
 source: "Battlezoo Bestiary: Strange and Unusual"
 name: "Illiceru"
 level: "Creature 11"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "huge"
-trait_01: "aberration"
-trait_02: "chaotic"
+trait_01: [[aberration]]
+trait_02: [[chaotic]]
 modifier: 20
 perception:
   - name: "Perception"
@@ -34,7 +35,7 @@ perception:
 languages: "Common"
 skills:
   - name: "Skills"
-    desc: "Athletics: +22, Deception: +24, Diplomacy: +22, Stealth: +20, "
+    desc: "Athletics: +22, Deception: +24, Diplomacy: +22, Stealth: +20, Athletics: +22, Deception: +24, Diplomacy: +22, Stealth: +20"
 abilityMods: [5, 7, 5, 5, 3, 7]
 speed: 35 feet,  climb 20 feet
 sourcebook: "_Battlezoo Bestiary: Strange and Unusual_"
@@ -53,7 +54,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Naturally Invisible"
-    desc: "  The illiceru is Invisible at all times, though the human- like ends of its tentacles are always visible. Due to this, creatures that can't see the illiceru are not Off-Guard to its tentacle Strikes. These tentacles can be targeted by Strikes and spells instead of the illiceru itself to avoid the flat check to target a Hidden or Undetected creature, although the illiceru has a +2 circumstance bonus to its AC and Reflex saves when the target is a tentacle."
+    desc: "  The illiceru is [[undefined]] at all times, though the human- like ends of its tentacles are always visible. Due to this, creatures that can't see the illiceru are not [[undefined]] to its tentacle Strikes. These tentacles can be targeted by Strikes and spells instead of the illiceru itself to avoid the flat check to target a [[undefined]] or [[Conditions/Undetected|Undetected]] creature, although the illiceru has a +2 circumstance bonus to its AC and Reflex saves when the target is a tentacle."
 
 attacks:
   - name: ""
@@ -65,14 +66,20 @@ attacks:
     desc: "`pf2:1` Tentacles +24 (agile, reach 20 feet)\n__Damage__  3d8 + 8 bludgeoning plus gluttonous-capture"
 
   - name: "Gluttonous Capture"
-    desc: "`pf2:1`  **Requirements** The illiceru's last action was a success with a tentacle Strike\n**Effect** The illiceru pulls the creature it hit into an adjacent space, then makes a jaws Strike against it. On a success, the illiceru then Grabs the target."
+    desc: "`pf2:1`  **Requirements** The illiceru's last action was a success with a tentacle Strike\n* * *\n\n**Effect** The illiceru pulls the creature it hit into an adjacent space, then makes a jaws Strike against it. On a success, the illiceru then Grabs the target."
 
   - name: "Plea for Help"
-    desc: "`pf2:1` (mental) One of the illiceru's tentacles cowers and begs for help, distracting and frightening a foe. The illiceru attempts a Deception check against a creature's Will DC. Regardless of the result of the check, the target is temporarily immune to this monster's Plea for Help for 1 minute.\n**Critical Success** The target becomes Frightened 3 and is Off-Guard to the illiceru's next tentacle Strike this turn.\n**Success** As a critical success, except the target is Frightened 2."
+    desc: "`pf2:1` (mental) One of the illiceru's tentacles cowers and begs for help, distracting and frightening a foe. The illiceru attempts a Deception check against a creature's Will DC. Regardless of the result of the check, the target is temporarily immune to this monster's Plea for Help for 1 minute.\n* * *\n\n**Critical Success** The target becomes [[undefined]] and is [[undefined]] to the illiceru's next tentacle Strike this turn.\n\n**Success** As a critical success, except the target is [[undefined]]."
 
   - name: "[[Bestiary Ability Glossary/Swallow Whole|Swallow Whole]]"
-    desc: "`pf2:1` (attack) Large, [[/r (2d8+8)\[bludgeoning\],2d6\[acid]]\], Rupture 20, the illiceru is not Invisible to creatures inside it.\n"
+    desc: "`pf2:1` (attack) Large, [[/r (2d8+8)[bludgeoning],2d6[acid]]], Rupture 20, the illiceru is not [[Conditions/Invisible|Invisible]] to creatures inside it.\n\n* * *\n"
  
+```
+
+```encounter-table
+name: Illiceru
+creatures:
+  - 1: Illiceru
 ```
 
 

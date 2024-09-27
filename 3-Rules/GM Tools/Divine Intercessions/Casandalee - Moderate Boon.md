@@ -16,7 +16,7 @@ license: OGL
 
 
 
-**Moderate Boon:** Your organs are partially transformed into mechanical counterparts. You gain resistance 10 to void damage, and the DC of your flat check to remove persistent bleed damage is only 5.
+Your organs are partially transformed into mechanical counterparts. You gain resistance 10 to void damage, and the DC of your flat check to remove persistent bleed damage is only 5.
 
 *Source: Pathfinder Lost Omens: Gods & Magic*
 *OGL*

@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/human
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/4
 statblock: inline
 name: "Aspis Veteran Guard"
@@ -22,12 +23,12 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Society Scenario #2-12: Snakes in the Grass"
 name: "Aspis Veteran Guard"
 level: "Creature 4"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Medium"
-trait_01: "evil"
-trait_02: "human"
-trait_03: "humanoid"
+trait_01: [[evil]]
+trait_02: [[human]]
+trait_03: [[humanoid]]
 modifier: 14
 perception:
   - name: "Perception"
@@ -72,6 +73,12 @@ attacks:
   - name: "Precision Edge"
     desc: "  The first time the Aspis veteran guard hits their hunted prey in a round, they deal an additional 1d8 precision damage."
  
+```
+
+```encounter-table
+name: Aspis Veteran Guard
+creatures:
+  - 1: Aspis Veteran Guard
 ```
 
 

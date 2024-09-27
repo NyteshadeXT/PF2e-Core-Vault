@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.pathfinder-bestiary-3.Actor.0HTju4vf8ADAAh2g"
 tags:
   - pf2e/creature/type/air
   - pf2e/creature/type/elemental
+  - pf2eMonster
   - pf2e/creature/level/0
 statblock: inline
 name: "Air Wisp"
@@ -25,8 +26,8 @@ level: "Creature 0"
 
 alignment: ""
 size: "tiny"
-trait_01: "air"
-trait_02: "elemental"
+trait_01: [[air]]
+trait_02: [[elemental]]
 modifier: 6
 perception:
   - name: "Perception"
@@ -34,7 +35,7 @@ perception:
 languages: "Sussuran"
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +7, Plane of Air Lore: +4, Stealth: +7"
+    desc: "Acrobatics: +7, Stealth: +7, Plane of Air Lore: +4"
 abilityMods: [0, 3, 1, 0, 2, 0]
 speed:  fly 40 feet
 sourcebook: "_Pathfinder Bestiary 3_"
@@ -53,10 +54,10 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Accord Essence"
-    desc: "`pf2:r` (air) **Trigger** An ally within 30 feet that benefited from the wisp's resonance in the last hour is targeted by an attack\n**Effect** The wisp detonates itself in a small elemental explosion that gives temporary Hit Points equal to half the wisp's current Hit Points to allies within 30 feet that have benefited from the wisp's resonance in the last hour. These temporary Hit Points last 1 hour.\nA wisp that uses this reaction is permanently destroyed, and it can be restored only by a [[Spells/Wish|Wish]] spell or similarly powerful effect. If an ability would prevent the wisp's destruction (for instance, if the wisp is summoned and would merely be dismissed), Accord Essence has no effect."
+    desc: "`pf2:r` (air) **Trigger** An ally within 30 feet that benefited from the wisp's resonance in the last hour is targeted by an attack\n* * *\n\n**Effect** The wisp detonates itself in a small elemental explosion that gives temporary Hit Points equal to half the wisp's current Hit Points to allies within 30 feet that have benefited from the wisp's resonance in the last hour. These temporary Hit Points last 1 hour.\n\nA wisp that uses this reaction is permanently destroyed, and it can be restored only by a [[Spells/Wish|Wish]] spell or similarly powerful effect. If an ability would prevent the wisp's destruction (for instance, if the wisp is summoned and would merely be dismissed), Accord Essence has no effect."
 
   - name: "Resonance"
-    desc: " (air,aura) 30 feet. All wisps vibrate at a frequency attuned to their element, resonating with and empowering all creatures and effects sharing that trait.\nA creature in the area gains a +1 status bonus to attack and damage rolls for effects with the air trait; a creature with the elemental and air traits gains this bonus to all attack and damage rolls.\n[[Bestiary Effects/Effect_ Resonance|Effect: Resonance]]"
+    desc: " (air,aura) 30 feet. All wisps vibrate at a frequency attuned to their element, resonating with and empowering all creatures and effects sharing that trait.\n\nA creature in the area gains a +1 status bonus to attack and damage rolls for effects with the air trait; a creature with the elemental and air traits gains this bonus to all attack and damage rolls.\n\n[[Bestiary Effects/Effect_ Resonance|Effect: Resonance]]"
 
 attacks:
   - name: ""
@@ -67,6 +68,12 @@ attacks:
   - name: "In Concert"
     desc: "  When an air wisp rolls a critical failure on a check to [[Actions/Aid|Aid]], they get a failure instead, and when they roll a success, they get a critical success instead."
  
+```
+
+```encounter-table
+name: Air Wisp
+creatures:
+  - 1: Air Wisp
 ```
 
 

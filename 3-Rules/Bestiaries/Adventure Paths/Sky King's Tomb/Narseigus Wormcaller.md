@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/humanoid
   - pf2e/creature/type/lawful
+  - pf2eMonster
   - pf2e/creature/level/11
 statblock: inline
 name: "Narseigus Wormcaller"
@@ -23,13 +24,13 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #195: Heavy is the Crown"
 name: "Narseigus Wormcaller"
 level: "Creature 11"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Medium"
-trait_01: "dwarf"
-trait_02: "evil"
-trait_03: "humanoid"
-trait_04: "lawful"
+trait_01: [[dwarf]]
+trait_02: [[evil]]
+trait_03: [[humanoid]]
+trait_04: [[lawful]]
 modifier: 20
 perception:
   - name: "Perception"
@@ -37,7 +38,7 @@ perception:
 languages: "Aklo, Chthonian, Common, Dwarven, Orcish, Sakvroth"
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +18, Athletics: +19, Cave Worm Lore: +24, Deception: +24, Diplomacy: +24, Intimidation: +24, Nature: +22, Occultism: +22, Survival: +20"
+    desc: "Acrobatics: +18, Athletics: +19, Deception: +24, Diplomacy: +24, Intimidation: +24, Nature: +22, Occultism: +22, Survival: +20, Cave Worm Lore: +24"
 abilityMods: [2, 1, 4, 3, 3, 6]
 speed: 20 feet,  burrow 20 feet,  climb 20 feet
 sourcebook: "_Pathfinder #195: Heavy is the Crown_"
@@ -53,14 +54,14 @@ health:
 abilities_top:
   - name: ""
   - name: "Items"
-    desc: "[[Equipment/Staff|+1 Striking Staff]], [[Equipment/Wand of Widening (5th-Rank Spell)|Wand of Widening (5th-Level Spell)]], [[Equipment/Religious Symbol (Silver)|Religious Symbol]]"
+    desc: "[[Equipment/Staff|+1 Striking Staff]], [[Equipment/Wand of Widening (5th-Rank Spell)|Wand of Widening (5th-Rank Spell)]], [[Equipment/Religious Symbol (Silver)|Religious Symbol]]"
 abilities_mid:
   - name: ""
   - name: "Inexorable"
-    desc: "  When Narseigus gains the [[Conditions/Paralyzed|Paralyzed]], [[Conditions/Slowed 1|Slowed]], or [[Conditions/Stunned 1|Stunned]] condition, roll a DC 15 Flat check. On a success, he ignores the condition."
+    desc: "  When Narseigus gains the [[Conditions/Paralyzed|Paralyzed]], [[Conditions/Slowed|Slowed]], or [[Conditions/Stunned|Stunned]] condition, roll a DC 15 Flat check. On a success, he ignores the condition."
 
   - name: "Shake It Off"
-    desc: "`pf2:1` (fortune,primal) **Frequency** once per day\n**Trigger** Narseigus fails or critically fails a saving throw against a condition or adverse effect (such as [[Spells/Cursed Metamorphosis|Cursed Metamorphosis]])\n**Effect** Narseigus rerolls the triggering saving throw and uses the better result."
+    desc: "`pf2:1` (fortune,primal) **Frequency** once per day\n\n**Trigger** Narseigus fails or critically fails a saving throw against a condition or adverse effect (such as [[Spells/Cursed Metamorphosis|Cursed Metamorphosis]])\n* * *\n\n**Effect** Narseigus rerolls the triggering saving throw and uses the better result."
 
 attacks:
   - name: ""
@@ -90,8 +91,14 @@ attacks:
     desc: "`pf2:1` (morph,occult) Narseigus partially transforms his lower body into that of a cave worm. He can use only his tail unarmed Strike and his burrow and climb Speeds while in this form. This transformation lasts for 1 minute."
 
   - name: "Worm's Feast"
-    desc: "`pf2:2` (primal) **Frequency** once per day\n**Effect** Narseigus calls forth a brood of infantile cave worms to feast on his enemy's flesh. One creature within 30 feet must attempt a DC 27 Fortitude check save.\n**Critical Success** The worms writhe away harmlessly.\n**Success** The target takes 2d6 piercing damage and 4d6 persistent piercing damage.\n**Failure** The target takes 6d6 piercing damage and 4d6 persistent piercing damage.\n**Critical Failure** As failure, plus the target is [[Conditions/Off-Guard|Off-Guard]] as long as it takes persistent piercing damage.\n_Note: A DC for this ability was not provided by Paizo. The DC present here is a moderate DC for the creature's level based on the Gamemastery Guide creature building rules_"
+    desc: "`pf2:2` (primal) **Frequency** once per day\n* * *\n\n**Effect** Narseigus calls forth a brood of infantile cave worms to feast on his enemy's flesh. One creature within 30 feet must attempt a DC 27 Fortitude check save.\n* * *\n\n**Critical Success** The worms writhe away harmlessly.\n\n**Success** The target takes 2d6 piercing damage and 4d6 persistent piercing damage.\n\n**Failure** The target takes 6d6 piercing damage and 4d6 persistent piercing damage.\n\n**Critical Failure** As failure, plus the target is [[Conditions/Off-Guard|Off-Guard]] as long as it takes persistent piercing damage.\n* * *\n\n_Note: A DC for this ability was not provided by Paizo. The DC present here is a moderate DC for the creature's level based on the Gamemastery Guide creature building rules_"
  
+```
+
+```encounter-table
+name: Narseigus Wormcaller
+creatures:
+  - 1: Narseigus Wormcaller
 ```
 
 

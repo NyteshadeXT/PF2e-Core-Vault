@@ -11,7 +11,7 @@ license: OGL
 ---
 # Aeon Stone (Pale Lavender Ellipsoid)
 ## Item 13
-### [uncommon](uncommon "Uncommon Rarity Trait")[[invested]][[magical]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[invested]][[3-Rules/Rule References/Magical]]
 
 
 **Price** 2200 gp; 
@@ -30,7 +30,7 @@ This aeon stone must be activated to provide a benefit. The resonant power allow
 
 * * *
 
-**Effect** The stone casts a 6th-rank [[Spells/Dispel Magic|Dispel Magic]] spell in an attempt to counteract the triggering spell, with a counteract modifier of 1d20 + 22. This can be used only on spells that specifically target you-not area spells that don't have targets. If it succeeds, it counteracts the spell for all targets if other creatures were targeted in addition to you.
+**Effect** The stone casts a 6th-rank [[Spells/Dispel Magic|Dispel Magic]] spell in an attempt to counteract the triggering spell, with a counteract modifier of 1d20+22. This can be used only on spells that specifically target you-not area spells that don't have targets. If it succeeds, it counteracts the spell for all targets if other creatures were targeted in addition to you.
 
 Each time you activate this _aeon stone_, attempt a DC 5 Flat check. On a failure, the stone permanently turns into a _dull gray aeon stone_.
 

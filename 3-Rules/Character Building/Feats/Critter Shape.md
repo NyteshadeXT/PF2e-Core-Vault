@@ -18,7 +18,7 @@ license: OGL
 
 
 
-Once per hour, you can use [[Actions/Change Shape (Beastkin)|Change Shape]] to enter a critter shape. While in critter shape, you gain the effect of a 1st-rank [[Spells/Pest Form|Pest Form]], except you can only transform into an animal matching your inherent animal.
+Once per hour, you can use [[Actions/Change Shape|Change Shape]] to enter a critter shape. While in critter shape, you gain the effect of a 1st-rank [[Spells/Pest Form|Pest Form]], except you can only transform into an animal matching your inherent animal.
 
 You can remain in critter shape for up to 10 minutes, after which you transform back into your hybrid shape and can't enter your critter shape again for 1 hour. You can instead use Change Shape to return to your humanoid or hybrid shape at any time during the duration of Critter Shape.
 

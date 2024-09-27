@@ -9,8 +9,9 @@ tags:
   - trait/trap
   - trait/common
   - category/snare
+  - remaster
 aliases: "Compendium.pf2e.equipment-srd.Item.xqCz2vStMNJujfpp"
-license: OGL
+license: ORC
 ---
 # Instant Evisceration Snare
 ## Item 20
@@ -21,7 +22,7 @@ license: OGL
 **Bulk** 0; **Size** med
 **Usage** held-in-one-hand
 
-When a creature enters the snare's square, the snare releases an unbelievable arsenal of blades, dealing 24d8 piercing damage (DC 45 basic Reflex).
+When a creature enters the snare's square, the snare releases an unbelievable arsenal of blades at the creature, dealing 18d8 piercing damage (DC 42 Reflex check save).
 
-*Source: Pathfinder Core Rulebook*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.menace-under-otari-bestiary.Actor.0oWKApY5FR8IO7GG"
 tags:
   - pf2e/creature/type/humanoid
   - pf2e/creature/type/orc
+  - pf2eMonster
   - pf2e/creature/level/0
   - remaster
 statblock: inline
@@ -25,12 +26,13 @@ level: "Creature 0"
 
 alignment: ""
 size: "Medium"
-trait_01: "humanoid"
-trait_02: "orc"
+trait_01: [[humanoid]]
+trait_02: [[orc]]
 modifier: 5
 perception:
   - name: "Perception"
     desc: "+5; Darkvision"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Athletics: +5, Intimidation: +2"
@@ -67,6 +69,12 @@ attacks:
   - name: "Ranged"
     desc: "`pf2:1` Javelin +4 (thrown 30 ft.)\n__Damage__  1d6 + 3 piercing"
  
+```
+
+```encounter-table
+name: Orc Scrapper (BB)
+creatures:
+  - 1: Orc Scrapper (BB)
 ```
 
 

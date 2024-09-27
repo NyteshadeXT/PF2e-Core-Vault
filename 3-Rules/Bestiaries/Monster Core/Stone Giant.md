@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/earth
   - pf2e/creature/type/giant
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/8
   - remaster
 statblock: inline
@@ -27,9 +28,9 @@ level: "Creature 8"
 
 alignment: ""
 size: "Large"
-trait_01: "earth"
-trait_02: "giant"
-trait_03: "humanoid"
+trait_01: [[earth]]
+trait_02: [[giant]]
+trait_03: [[humanoid]]
 modifier: 16
 perception:
   - name: "Perception"
@@ -37,7 +38,7 @@ perception:
 languages: "Common, Jotun, Petran"
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +14, Athletics: +20, Intimidation: +14, Nature: +18, Stealth: +14 (+18 in rocky terrain)"
+    desc: "Acrobatics: +14, Athletics: +20, Intimidation: +14, Nature: +18, Stealth: +14"
 abilityMods: [6, 2, 4, 0, 4, 0]
 speed: 35 feet
 sourcebook: "_Pathfinder Monster Core_"
@@ -77,6 +78,12 @@ attacks:
   - name: "Create Boulder"
     desc: "`pf2:1` (earth,primal) The stone giant molds a boulder from primal earth and throws it as a rock Strike. A creature hit by the Strike must succeed at a DC 26 Reflex check save or be knocked [[Conditions/Prone|Prone]]."
  
+```
+
+```encounter-table
+name: Stone Giant
+creatures:
+  - 1: Stone Giant
 ```
 
 

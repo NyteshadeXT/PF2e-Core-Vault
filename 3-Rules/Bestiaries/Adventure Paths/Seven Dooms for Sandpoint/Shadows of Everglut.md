@@ -4,6 +4,7 @@ obsidianUIMode: preview
 noteType: pf2eHazard
 tags:
   - environmental
+  - pf2eHazard
   - complex
 source: Pathfinder #200: Seven Dooms for Sandpoint
 aliases: "Compendium.pf2e.seven-dooms-for-sandpoint-bestiary.Actor.uW9TjCzpLESYlgVz" 
@@ -21,7 +22,7 @@ name: "Shadows of Everglut"
 level: "Hazard 11"
 
 trait_06: "Complex"
-trait_01: "environmental"
+trait_01: [[environmental]]
 modifier: 19
 sourcebook: "_Pathfinder #200: Seven Dooms for Sandpoint_"
 perception:
@@ -40,11 +41,17 @@ attacks:
   - name: ""
 
   - name: "Sap Strength"
-    desc: "`pf2:r` (divine, incapacitation) **Trigger** A creature moves into the room beyond the northern stairs\n**Effect** Shadowy tendrils wisp up from the darkness below to brush against the triggering creature's body. The creature must attempt a DC 30 Fortitude check save or their strength is sapped from their body. The hazard then rolls initiative.\n**Critical Success** The creature is unaffected.\n**Success** The creature's speeds are reduced by 10 feet for 1 round.\n**Failure** As success, but the creature also falls [[Conditions/Prone|Prone]].\n**Critical Failure** As failure, but the creature also becomes [[Conditions/Paralyzed|Paralyzed]]. It can attempt a new save at the end of each of its turns, and the DC cumulatively decreases by 1 on each such save."
+    desc: "`pf2:r` (divine, incapacitation) **Trigger** A creature moves into the room beyond the northern stairs\n* * *\n\n**Effect** Shadowy tendrils wisp up from the darkness below to brush against the triggering creature's body. The creature must attempt a DC 30 Fortitude check save or their strength is sapped from their body. The hazard then rolls initiative.\n* * *\n\n**Critical Success** The creature is unaffected.\n\n**Success** The creature's speeds are reduced by 10 feet for 1 round.\n\n**Failure** As success, but the creature also falls [[Conditions/Prone|Prone]].\n\n**Critical Failure** As failure, but the creature also becomes [[Conditions/Paralyzed|Paralyzed]]. It can attempt a new save at the end of each of its turns, and the DC cumulatively decreases by 1 on each such save."
 
   - name: "Routine"
     desc: "(1 action) The shadows writhing on the floor extrude a storm of inky tentacles of smoke and darkness that whip and writhe throughout the room, filling the air with unsettling sounds of agonizing cries and shrieks. All creatures in area **J3a** take 8d6 void damage (DC 30 Fortitude check save)."
   - name: "Reset"
     desc: "The hazard settles back down 1 round after all creatures leave the room and can trigger again at the start of the next round."
+```
+
+```encounter-table
+name: Shadows of Everglut
+creatures:
+  - 1: Shadows of Everglut
 ```
 

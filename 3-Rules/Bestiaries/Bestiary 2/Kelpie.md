@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/amphibious
   - pf2e/creature/type/evil
   - pf2e/creature/type/fey
+  - pf2eMonster
   - pf2e/creature/level/4
 statblock: inline
 name: "Kelpie"
@@ -26,9 +27,9 @@ level: "Creature 4"
 
 alignment: ""
 size: "Large"
-trait_01: "amphibious"
-trait_02: "evil"
-trait_03: "fey"
+trait_01: [[amphibious]]
+trait_02: [[evil]]
+trait_03: [[fey]]
 modifier: 11
 perception:
   - name: "Perception"
@@ -61,14 +62,20 @@ attacks:
     desc: "`pf2:1` Jaws +13 ()\n__Damage__  2d6 + 7 bludgeoning plus grab"
 
   - name: "Captivating Lure"
-    desc: "`pf2:2` (concentrate,emotion,incapacitation,mental,primal) The kelpie instills an overwhelming attraction to itself within the mind of a single creature within 60 feet. The target perceives the kelpie as a desirable person (if the kelpie is in humanoid form) or a valuable steed (if the kelpie is in equine form) and must attempt a DC 23 Will check saving throw.\n**Critical Success** The creature is unaffected and is temporarily immune to Captivating Lure for 24 hours.\n**Success** The creature is [[Conditions/Stupefied 1|Stupefied 1]] for 1 round and is then temporarily immune to Captivating Lure for 24 hours.\n**Failure** The creature is [[Conditions/Fascinated|Fascinated]], and it must spend each of its actions to move closer to the kelpie as expediently as possible while avoiding obvious dangers. If a captivated creature is adjacent to the kelpie, it either attempts to mount the kelpie (if the kelpie is in equine form) or stays still and doesn't act. If the creature is attacked by the kelpie, or if it can't breathe water and enters an area of water, the creature is freed from captivation at the end of the kelpie's turn.\n**Critical Failure** As failure, but the target doesn't consider water a danger and will enter an area of water even if it can't swim or breathe water. If it is attacked by the kelpie or starts to drown, it can attempt a new save at the start of its next turn, but it isn't freed automatically."
+    desc: "`pf2:2` (concentrate,emotion,incapacitation,mental,primal) The kelpie instills an overwhelming attraction to itself within the mind of a single creature within 60 feet. The target perceives the kelpie as a desirable person (if the kelpie is in humanoid form) or a valuable steed (if the kelpie is in equine form) and must attempt a DC 23 Will check saving throw.\n* * *\n\n**Critical Success** The creature is unaffected and is temporarily immune to Captivating Lure for 24 hours.\n\n**Success** The creature is [[Conditions/Stupefied|Stupefied 1]] for 1 round and is then temporarily immune to Captivating Lure for 24 hours.\n\n**Failure** The creature is [[Conditions/Fascinated|Fascinated]], and it must spend each of its actions to move closer to the kelpie as expediently as possible while avoiding obvious dangers. If a captivated creature is adjacent to the kelpie, it either attempts to mount the kelpie (if the kelpie is in equine form) or stays still and doesn't act. If the creature is attacked by the kelpie, or if it can't breathe water and enters an area of water, the creature is freed from captivation at the end of the kelpie's turn.\n\n**Critical Failure** As failure, but the target doesn't consider water a danger and will enter an area of water even if it can't swim or breathe water. If it is attacked by the kelpie or starts to drown, it can attempt a new save at the start of its next turn, but it isn't freed automatically."
 
   - name: "[[Bestiary Ability Glossary/Change Shape|Change Shape]]"
-    desc: "`pf2:1` (concentrate,polymorph,primal) The kelpie can take on the appearance of any Medium or Large animal of an equine nature (such as a [[Bestiary 1/Riding Horse|Horse]], [[Bestiary 2/Hippocampus|Hippocampus]], or [[Bestiary 1/Riding Pony|Pony]]), or any Small or Medium humanoid. This doesn't change its Speeds or its attack and damage modifiers with its Strikes.\n"
+    desc: "`pf2:1` (concentrate,polymorph,primal) The kelpie can take on the appearance of any Medium or Large animal of an equine nature (such as a [[Bestiary 1/Riding Horse|Horse]], [[Bestiary 2/Hippocampus|Hippocampus]], or [[Bestiary 1/Riding Pony|Pony]]), or any Small or Medium humanoid. This doesn't change its Speeds or its attack and damage modifiers with its Strikes.\n\n* * *\n"
 
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
     desc: "`pf2:1`  "
  
+```
+
+```encounter-table
+name: Kelpie
+creatures:
+  - 1: Kelpie
 ```
 
 

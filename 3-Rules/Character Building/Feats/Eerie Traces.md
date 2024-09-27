@@ -29,9 +29,9 @@ The tracks you leave behind are strange, somehow disconcerting and unnerving-the
 
 **Success** The tracker is unaffected.
 
-**Failure** The tracker becomes [[Conditions/Frightened 1|Frightened 1]] for as long as it follows your tracks. This condition doesn't decrease until the tracker stops following you, and it comes back if the tracker resumes following your tracks. If the tracker enters into an encounter with you after following your tracks, it begins the encounter frightened 1.
+**Failure** The tracker becomes [[Conditions/Frightened|Frightened 1]] for as long as it follows your tracks. This condition doesn't decrease until the tracker stops following you, and it comes back if the tracker resumes following your tracks. If the tracker enters into an encounter with you after following your tracks, it begins the encounter frightened 1.
 
-**Critical Failure** As failure, but your disturbing traces cause the tracker to be [[Conditions/Frightened 1|Frightened 2]] instead.
+**Critical Failure** As failure, but your disturbing traces cause the tracker to be [[Conditions/Frightened|Frightened 2]] instead.
 
 *Source: Pathfinder Dark Archive*
 *OGL*

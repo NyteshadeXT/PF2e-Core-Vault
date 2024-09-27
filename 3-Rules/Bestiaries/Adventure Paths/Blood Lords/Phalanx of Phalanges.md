@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/construct
   - pf2e/creature/type/mindless
   - pf2e/creature/type/swarm
+  - pf2eMonster
   - pf2e/creature/level/1
 statblock: inline
 name: "Phalanx of Phalanges"
@@ -22,16 +23,17 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #181: Zombie Feast"
 name: "Phalanx of Phalanges"
 level: "Creature 1"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Large"
-trait_01: "construct"
-trait_02: "mindless"
-trait_03: "swarm"
+trait_01: [[construct]]
+trait_02: [[mindless]]
+trait_03: [[swarm]]
 modifier: 5
 perception:
   - name: "Perception"
     desc: "+5; Darkvision"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Acrobatics: +8"
@@ -59,8 +61,14 @@ attacks:
   - name: ""
 
   - name: "Countless Digits"
-    desc: "`pf2:1`  Each other creature in the phalanx of phalanges' space takes 1d6 piercing damage (1d6 + 2 piercing damage if the swarm is berserk) (DC 17 Reflex check). On a critical failure, the target is thoroughly pinned by the phalanges, becoming [[Conditions/Immobilized|Immobilized]] until it [[Actions/Escape|Escapes]] (DC 17) or until any creature uses 2 Interact actions to scrape away the bones pinning them down."
+    desc: "`pf2:1`  Each other creature in the phalanx of phalanges' space takes 1d6 piercing damage (1d6+2 piercing damage if the swarm is berserk) (DC 17 Reflex check). On a critical failure, the target is thoroughly pinned by the phalanges, becoming [[Conditions/Immobilized|Immobilized]] until it [[Actions/Escape|Escapes]] (DC 17) or until any creature uses 2 Interact actions to scrape away the bones pinning them down."
  
+```
+
+```encounter-table
+name: Phalanx of Phalanges
+creatures:
+  - 1: Phalanx of Phalanges
 ```
 
 

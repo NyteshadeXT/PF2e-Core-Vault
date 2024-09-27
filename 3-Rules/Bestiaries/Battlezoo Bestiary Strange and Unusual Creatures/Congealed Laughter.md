@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/mindless
   - pf2e/creature/type/ooze
+  - pf2eMonster
   - pf2e/creature/level/15
 statblock: inline
 name: "Congealed Laughter"
@@ -24,20 +25,21 @@ token: [[modules/battlezoo-bestiary-su-pf2e/art/Portraits/congealed-laughter.web
 source: "Battlezoo Bestiary: Strange and Unusual"
 name: "Congealed Laughter"
 level: "Creature 15"
-rare_03: "Rare"
+rare_03: [[Rare]]
 alignment: ""
 size: "grg"
-trait_01: "chaotic"
-trait_02: "evil"
-trait_03: "mindless"
-trait_04: "ooze"
+trait_01: [[chaotic]]
+trait_02: [[evil]]
+trait_03: [[mindless]]
+trait_04: [[ooze]]
 modifier: 25
 perception:
   - name: "Perception"
-    desc: "+25; Motion Sense (Precise) 100 Feet"
+    desc: "+25; Motion Sense (Imprecise) 100 Feet"
+languages: ""
 skills:
   - name: "Skills"
-    desc: "Athletics: +33, "
+    desc: "Athletics: +33, Athletics: +33"
 abilityMods: [9, -4, 8, -5, 6, 4]
 speed:  fly 30 feet
 sourcebook: "_Battlezoo Bestiary: Strange and Unusual_"
@@ -74,11 +76,17 @@ attacks:
     desc: " (emotion,mental) A creature Engulfed by the congealed laughter or struck by its jaws Strike is afflicted with a horrible, uncontrollable urge to laugh along with it. The creature suffers the effects of a hideous laughter spell with a DC 34 Will check save until the beginning of the congealed laughter's next turn."
 
   - name: "[[Bestiary Ability Glossary/Engulf|Engulf]]"
-    desc: "`pf2:2`  DC 35 Reflex check, 5d6 acid damage, Escape DC 35, Rupture 25.\nA creature that begins their turn Engulfed by the congealed laughter is affected by its giggle fits ability.\n"
+    desc: "`pf2:2`  DC 35 Reflex check, 5d6 acid damage, Escape DC 35, Rupture 25.\n\nA creature that begins their turn Engulfed by the congealed laughter is affected by its giggle fits ability.\n\n* * *\n"
 
   - name: "Devour Laughter"
-    desc: "`pf2:3` (emotion,mental) **Requirements** The congealed laughter has a living creature Engulfed, and the Engulfed creature failed or critically failed its most recent saving throw against giggle fits\n**Effect** The congealed laughter feeds on the Engulfed creature's laughter. The Engulfed creature suffers 16d6 mental damage and must attempt a Will saving throw. If the congealed laughter brings the creature to 0 Hit Points, the creature dies and feeds the congealed laughter, healing it for half the damage taken (to a maximum of the creature's remaining Hit Points). If the congealed laughter has split, this healing is equal to only one quarter of the damage taken, instead of one half.\n**Critical Success** The target is unaffected.\n**Success** The target takes half damage, and it's Stupefied 1 for 1 round.\n**Failure** The target takes full damage, and it's Stupefied 2 for 1 round.\n**Critical Failure** The target takes double damage, and it's Stupefied 4 for 1 minute and Confused for 1 minute."
+    desc: "`pf2:3` (emotion,mental) **Requirements** The congealed laughter has a living creature Engulfed, and the Engulfed creature failed or critically failed its most recent saving throw against giggle fits\n* * *\n\n**Effect** The congealed laughter feeds on the Engulfed creature's laughter. The Engulfed creature suffers 16d6 mental damage and must attempt a Will saving throw. If the congealed laughter brings the creature to 0 Hit Points, the creature dies and feeds the congealed laughter, healing it for half the damage taken (to a maximum of the creature's remaining Hit Points). If the congealed laughter has split, this healing is equal to only one quarter of the damage taken, instead of one half.\n* * *\n\n**Critical Success** The target is unaffected.\n\n**Success** The target takes half damage, and it's [[undefined]] for 1 round.\n\n**Failure** The target takes full damage, and it's [[undefined]] for 1 round.\n\n**Critical Failure** The target takes double damage, and it's [[undefined]] for 1 minute and [[undefined]] for 1 minute."
  
+```
+
+```encounter-table
+name: Congealed Laughter
+creatures:
+  - 1: Congealed Laughter
 ```
 
 

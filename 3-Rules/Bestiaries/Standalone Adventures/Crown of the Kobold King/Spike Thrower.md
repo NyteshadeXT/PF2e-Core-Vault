@@ -5,6 +5,7 @@ noteType: pf2eHazard
 tags:
   - mechanical
   - trap
+  - pf2eHazard
 
 source: Pathfinder Adventure: Crown of the Kobold King
 aliases: "Compendium.pf2e.crown-of-the-kobold-king-bestiary.Actor.02EH7sCwxaLi28Rw" 
@@ -22,8 +23,8 @@ name: "Spike Thrower"
 level: "Hazard 2"
 
 
-trait_01: "mechanical"
-trait_02: "trap"
+trait_01: [[mechanical]]
+trait_02: [[trap]]
 modifier: 8
 sourcebook: "_Pathfinder Adventure: Crown of the Kobold King_"
 perception:
@@ -42,11 +43,17 @@ attacks:
   - name: ""
 
   - name: "Throw Spikes"
-    desc: "action (attack) **Trigger** This trap must be manually activated by a creature adjacent to the southwest gear stack;\n**Effect** The spike thrower makes a ranged attack against each creature in the central part of area **F2**."
+    desc: "action (attack) **Trigger** This trap must be manually activated by a creature adjacent to the southwest gear stack;\n\n**Effect** The spike thrower makes a ranged attack against each creature in the central part of area **F2**."
   - name: "Melee"
     desc: "Spike +14 () "
 
 
 
+```
+
+```encounter-table
+name: Spike Thrower
+creatures:
+  - 1: Spike Thrower
 ```
 

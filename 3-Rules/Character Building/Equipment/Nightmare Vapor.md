@@ -37,7 +37,7 @@ Purportedly sourced from any number of outlandish locales, nightmare vapor is mo
 
 **Stage 2** confused and [[Conditions/Off-Guard|Off-Guard]] (1 round)
 
-**Stage 3** confused, off-guard, and [[Conditions/Stupefied 1|Stupefied 2]] (1 round)
+**Stage 3** confused, off-guard, and [[Conditions/Stupefied|Stupefied 2]] (1 round)
 
 *Source: Pathfinder Core Rulebook*
 *OGL*

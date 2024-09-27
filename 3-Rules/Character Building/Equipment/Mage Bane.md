@@ -31,11 +31,11 @@ Upon being mixed and injected into the bloodstream, this powder of the crimson o
 
 **Maximum Duration** 6 rounds
 
-**Stage 1** 2d6 mental damage and [[Conditions/Stupefied 1|Stupefied 2]] (1 round)
+**Stage 1** 2d6 mental damage and [[Conditions/Stupefied|Stupefied 2]] (1 round)
 
-**Stage 2** 3d6 mental damage and [[Conditions/Stupefied 1|Stupefied 3]] (1 round)
+**Stage 2** 3d6 mental damage and [[Conditions/Stupefied|Stupefied 3]] (1 round)
 
-**Stage 3** 4d6 mental damage and [[Conditions/Stupefied 1|Stupefied 4]] (1 round)
+**Stage 3** 4d6 mental damage and [[Conditions/Stupefied|Stupefied 4]] (1 round)
 
 *Source: Pathfinder #149: Against the Scarlet Triad*
 *OGL*

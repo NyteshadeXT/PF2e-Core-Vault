@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/human
   - pf2e/creature/type/humanoid
   - pf2e/creature/type/lawful
+  - pf2eMonster
   - pf2e/creature/level/17
 statblock: inline
 name: "Ingnovim&#x27;s Assistant"
@@ -22,12 +23,12 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #150: Broken Promises"
 name: "Ingnovim's Assistant"
 level: "Creature 17"
-rare_03: "Rare"
+rare_03: [[Rare]]
 alignment: ""
 size: "Medium"
-trait_01: "human"
-trait_02: "humanoid"
-trait_03: "lawful"
+trait_01: [[human]]
+trait_02: [[humanoid]]
+trait_03: [[lawful]]
 modifier: 29
 perception:
   - name: "Perception"
@@ -55,7 +56,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Death Throes"
-    desc: " (alchemical,poison) When one of Ingnovim's assistants dies, it bursts open in a foul-sounding and smelling explosion of toxic viscera and poisonous vapors. All creatures within a 20-foot burst must attempt a DC 38 Fortitude check save to resist this blast of poison.\n**Critical Success** The creature is unaffected.\n**Success** The creature is [[Conditions/Sickened 1|Sickened 2]].\n**Failure** The creature takes 7d8 poison damage.\n**Critical Failure** The creature takes 14d8 poison damage and 2d8 persistent poison damage."
+    desc: " (alchemical,poison) When one of Ingnovim's assistants dies, it bursts open in a foul-sounding and smelling explosion of toxic viscera and poisonous vapors. All creatures within a @Template[burst|distance:20] must attempt a DC 38 Fortitude check save to resist this blast of poison.\n* * *\n\n**Critical Success** The creature is unaffected.\n\n**Success** The creature is [[Conditions/Sickened|Sickened 2]].\n\n**Failure** The creature takes 7d8 poison damage.\n\n**Critical Failure** The creature takes 14d8 poison damage and 2d8 persistent poison damage."
 
 attacks:
   - name: ""
@@ -63,6 +64,12 @@ attacks:
   - name: "Melee"
     desc: "`pf2:1` Longsword +33 (magical, versatile p)\n__Damage__  7d8 + 8 slashing"
  
+```
+
+```encounter-table
+name: Ingnovim's Assistant
+creatures:
+  - 1: Ingnovim's Assistant
 ```
 
 

@@ -10,7 +10,7 @@ license: OGL
 ---
 # Folding Drums
 ## Item 5
-### [uncommon](uncommon "Uncommon Rarity Trait")[[magical]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[3-Rules/Rule References/Magical]]
 
 
 **Price** 160 gp; 

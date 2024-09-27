@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/good
   - pf2e/creature/type/leshy
   - pf2e/creature/type/plant
+  - pf2eMonster
   - pf2e/creature/level/2
 statblock: inline
 name: "Wildfire Leshy"
@@ -27,18 +28,18 @@ level: "Creature 2"
 
 alignment: ""
 size: "Small"
-trait_01: "chaotic"
-trait_02: "good"
-trait_03: "leshy"
-trait_04: "plant"
+trait_01: [[chaotic]]
+trait_02: [[good]]
+trait_03: [[leshy]]
+trait_04: [[plant]]
 modifier: 9
 perception:
   - name: "Perception"
     desc: "+9; Low-Light Vision"
-languages: "Common, Wildsong, Fey"
+languages: "Common, Wildsong, Fey; speak with plants (pyrophytic plants only)"
 skills:
   - name: "Skills"
-    desc: "Athletics: +8, Nature: +7, Survival: +7, "
+    desc: "Athletics: +8, Nature: +7, Survival: +7"
 abilityMods: [2, 1, 4, -2, 3, 0]
 speed: 25 feet
 sourcebook: "_Battlezoo Bestiary_"
@@ -60,7 +61,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Burning Body"
-    desc: " (fire,primal) A wildfire leshy is coated in living flame whose touch can burn other creatures. Any creature that hits a wildfire leshy with a melee attack or otherwise touches the leshy must roll a Reflex saving throw.\n**Critical Success** The creature is unaffected.\n**Success** The creature takes 1 fire damage.\n**Failure** The creature takes 1d6 fire damage.\n**Critical Failure** The creature takes 2d6 fire damage and 1d4 persistent fire damage."
+    desc: " (fire,primal) A wildfire leshy is coated in living flame whose touch can burn other creatures. Any creature that hits a wildfire leshy with a melee attack or otherwise touches the leshy must roll a DC 16 Reflex saving throw.\n* * *\n\n**Critical Success** The creature is unaffected.\n\n**Success** The creature takes 1 fire damage.\n\n**Failure** The creature takes 1d6 fire damage.\n\n**Critical Failure** The creature takes 2d6 fire damage and 1d4 persistent fire damage."
 
   - name: "Water Weakness"
     desc: "  When the wildfire leshy starts its turn in water or is doused with water (either through a spell or some other effect, such as pouring a bucket of water over it or being caught in the rain), it takes 1d8 damage."
@@ -75,11 +76,17 @@ attacks:
     desc: "DC 19, attack +11; __1st __ (1 slots) _[[Spells/Breathe Fire|Burning Hands (At Will)]]_\n__Cantrips__  __(1st)__ _[[Spells/Produce Flame|Produce Flame]]_\n__Constant__  __(4th)__ _[[Spells/Speak with Plants|Speak with Plants (Pyrophytic Plants Only)]]_"
 
   - name: "Self-Immolate"
-    desc: "`pf2:1` (fire,primal) The wildfire leshy wills its own burning embers to flare up, creating a thick plume of opaque smoke where it stands in a 5-foot emanation.\nThe wildfire leshy takes 4 points of damage. All creatures within the affected area are Concealed, and all other creatures are concealed to them.\nThe smoke persists for 1 minute or until it is dispersed by a strong wind."
+    desc: "`pf2:1` (fire,primal) The wildfire leshy wills its own burning embers to flare up, creating a thick plume of opaque smoke where it stands in a 5-foot emanation.\n\nThe wildfire leshy takes 4 points of damage. All creatures within the affected area are [[Conditions/Concealed|Concealed]], and all other creatures are concealed to them.\n\nThe smoke persists for 1 minute or until it is dispersed by a strong wind."
 
   - name: "[[Bestiary Ability Glossary/Change Shape|Change Shape]]"
-    desc: "`pf2:1` (concentrate,polymorph,primal) The wildfire leshy transforms into a Small pyrophytic plant. This ability otherwise uses the effects of _Tree Shape_.\n"
+    desc: "`pf2:1` (concentrate,polymorph,primal) The wildfire leshy transforms into a Small pyrophytic plant. This ability otherwise uses the effects of _[[Spells/One with Plants|Tree Shape]]_.\n\n* * *\n"
  
+```
+
+```encounter-table
+name: Wildfire Leshy
+creatures:
+  - 1: Wildfire Leshy
 ```
 
 

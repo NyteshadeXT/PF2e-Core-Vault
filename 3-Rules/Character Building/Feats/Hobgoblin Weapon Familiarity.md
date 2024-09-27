@@ -6,8 +6,9 @@ tags:
   - trait/hobgoblin
   - trait/common
   - category/ancestry
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.n9CBjyiB17srkyr4"
-license: OGL
+license: ORC
 ---
 # Hobgoblin Weapon Familiarity
 ## Feat 1
@@ -18,9 +19,9 @@ license: OGL
 
 
 
-You are trained with [[Equipment/Composite Longbow|Composite Longbows]], [[Equipment/Composite Shortbow|Composite Shortbows]], [[Equipment/Glaive|Glaives]], [[Equipment/Longbow|Longbows]], [[Equipment/Longsword|Longswords]], and [[Equipment/Shortbow|Shortbows]].
+You gain access to all uncommon weapons with the hobgoblin trait. You have familiarity with weapons with the hobgoblin trait plus the composite longbow, composite shortbow, glaive, longbow, longsword, and shortbow—for the purpose of proficiency, you treat any of these that are martial weapons as simple weapons and any that are advanced weapons as martial weapons.
 
-In addition, you gain access to all uncommon hobgoblin weapons. For the purpose of determining your proficiency, martial hobgoblin weapons are simple weapons and advanced hobgoblin weapons are martial weapons.
+At 5th level, whenever you get a critical hit with one of these weapons, you get its critical specialization effect.
 
-*Source: Pathfinder Lost Omens: Character Guide*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

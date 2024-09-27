@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/human
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/11
 statblock: inline
 name: "Scarlet Triad Agent"
@@ -22,12 +23,12 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #148: Fires of the Haunted City"
 name: "Scarlet Triad Agent"
 level: "Creature 11"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Medium"
-trait_01: "evil"
-trait_02: "human"
-trait_03: "humanoid"
+trait_01: [[evil]]
+trait_02: [[human]]
+trait_03: [[humanoid]]
 modifier: 21
 perception:
   - name: "Perception"
@@ -51,7 +52,7 @@ health:
 abilities_top:
   - name: ""
   - name: "Items"
-    desc: "[[Equipment/Blowgun|+1 Blowgun]], [[Equipment/Rapier|+1 Striking Rapier]], [[Equipment/Leather Armor|+1 Resilient Leather Armor]], [[Equipment/Manacles (Good)|Manacles (Good)]], 20x [[Equipment/Blowgun Darts|Blowgun Darts]], 4x [[Equipment/Lethargy Poison|Lethargy Poison]], 2x [[Equipment/Purple Worm Venom|Purple Worm Venom]], [[Equipment/Engraved copper ring|Ruby and Sapphire ring]]"
+    desc: "[[Equipment/Blowgun|+1 Blowgun]], [[Equipment/Rapier|+1 Striking Rapier]], [[Equipment/Leather Armor|+1 Resilient Leather Armor]], [[Equipment/Manacles (Good)|Manacles (Good)]], 20x [[Equipment/Blowgun Darts|Blowgun Darts]], 4x [[Equipment/Lethargy Poison|Lethargy Poison]], 2x [[Equipment/Cave Worm Venom|Purple Worm Venom]], [[Equipment/Engraved copper ring|Ruby and Sapphire ring]]"
 abilities_mid:
   - name: ""
 attacks:
@@ -67,10 +68,10 @@ attacks:
     desc: "DC 33, attack +25; __3rd __  _[[Spells/Illusory Disguise|Illusory Disguise]]_; __2nd __  _[[Spells/Laughing Fit|Hideous Laughter]]_; __1st __  _[[Spells/Fear|Fear]]_\n__Cantrips__  __(3rd)__ _[[Spells/Ghost Sound|Ghost Sound]]_"
 
   - name: "Efficient Capture"
-    desc: "`pf2:3` (attack,manipulate) **Requirements** The Scarlet Triad agent has manacles in hand and is adjacent to a creature.\n**Effect** The Scarlet Triad agent attempts to bind the creature's wrists or ankles with the manacles. If they succeed at an attack roll with a +24 modifier against the target's AC, they apply the manacles."
+    desc: "`pf2:3` (attack,manipulate) **Requirements** The Scarlet Triad agent has manacles in hand and is adjacent to a creature.\n* * *\n\n**Effect** The Scarlet Triad agent attempts to bind the creature's wrists or ankles with the manacles. If they succeed at an attack roll with a +24 modifier against the target's AC, they apply the manacles."
 
   - name: "Precise Debilitations"
-    desc: "  **Trigger** The Scarlet Triad agent's Strike hits an off-guard creature and deals damage.\n**Effect** The Scarlet Triad agent applies one of the following debilitations to the creature, which lasts until the end of their next turn.\n*   _Brow Gash_ The target becomes [[Conditions/Off-Guard|Off-Guard]].\n*   _Deep Cut_ The target takes an additional 2d6 precision damage from the Scarlet Triad agent's attacks.\n*   _Hamstring_ The target takes a -10-foot status penalty to its Speeds.\n*   _Low Blow_ The target becomes [[Conditions/Enfeebled 1|Enfeebled 1]].\n[[Bestiary Effects/Effect_ Hamstring|Effect: Hamstring]]"
+    desc: "  **Trigger** The Scarlet Triad agent's Strike hits an off-guard creature and deals damage.\n* * *\n\n**Effect** The Scarlet Triad agent applies one of the following debilitations to the creature, which lasts until the end of their next turn.\n\n*   _Brow Gash_ The target becomes [[Conditions/Off-Guard|Off-Guard]].\n*   _Deep Cut_ The target takes an additional 2d6 precision damage from the Scarlet Triad agent's attacks.\n*   _Hamstring_ The target takes a -10-foot status penalty to its Speeds.\n*   _Low Blow_ The target becomes [[Conditions/Enfeebled|Enfeebled 1]].\n\n[[Bestiary Effects/Effect_ Hamstring|Effect: Hamstring]]"
 
   - name: "[[Bestiary Ability Glossary/Sneak Attack|Sneak Attack]]"
     desc: "  The scarlet triad agent deals an extra 3d6 precision damage to [[Conditions/Off-Guard|Off-Guard]] creatures."
@@ -78,6 +79,12 @@ attacks:
   - name: "Weapon Trick"
     desc: "  When the Scarlet Triad agent critically succeeds at an attack roll against an [[Conditions/Off-Guard|Off-Guard]] creature, they apply the critical specialization effect for the weapon they are wielding."
  
+```
+
+```encounter-table
+name: Scarlet Triad Agent
+creatures:
+  - 1: Scarlet Triad Agent
 ```
 
 

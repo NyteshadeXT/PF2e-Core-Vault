@@ -17,7 +17,7 @@ license: OGL
 ---
 # Bloodknuckles
 ## Item 9
-### [[agile]][[finesse]][[invested]][[magical]][[nonlethal]][[unarmed]]
+### [[3-Rules/Rule References/Agile]][[3-Rules/Rule References/Finesse]][[invested]][[3-Rules/Rule References/Magical]][[nonlethal]][[unarmed]]
 
 |  |  |
 | -- | -- |

@@ -10,6 +10,7 @@ tags:
   - pf2e/creature/type/fiend
   - pf2e/creature/type/qlippoth
   - pf2e/creature/type/unholy
+  - pf2eMonster
   - pf2e/creature/level/4
 statblock: inline
 name: "Ictioctor"
@@ -25,22 +26,22 @@ token: [[modules/battlezoo-bestiary-su-pf2e/art/Portraits/ictioctor.webp| ]]
 source: "Battlezoo Bestiary: Strange and Unusual"
 name: "Ictioctor"
 level: "Creature 4"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Medium"
-trait_01: "chaotic"
-trait_02: "evil"
-trait_03: "fiend"
-trait_04: "qlippoth"
-trait_05: "unholy"
+trait_01: [[chaotic]]
+trait_02: [[evil]]
+trait_03: [[fiend]]
+trait_04: [[qlippoth]]
+trait_05: [[unholy]]
 modifier: 11
 perception:
   - name: "Perception"
     desc: "+11; Darkvision"
-languages: "Chthonian"
+languages: "Chthonian; swarm telepathy 100 feet"
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +10, Athletics: +12, Intimidation: +12, Occultism: +10, "
+    desc: "Acrobatics: +10, Athletics: +12, Intimidation: +12, Occultism: +10, Acrobatics: +10, Athletics: +12, Intimidation: +12, Occultism: +10"
 abilityMods: [5, 3, 2, 3, 2, 5]
 speed: 25 feet,  climb 25 feet,  swim 25 feet
 sourcebook: "_Battlezoo Bestiary: Strange and Unusual_"
@@ -57,7 +58,7 @@ abilities_top:
   - name: ""
 
   - name: "Swarm Telepathy"
-    desc: "  The ictioctor can communicate with telepathy, but its swarm mind always reaches out with a cacophony of violent threats, nonsensical questions, and esoteric ravings. Creatures who attempt to Sense Motive against the ictioctor, read its mind, or target it with a telepathic effect must first succeed at a DC 18 Will check save or become Stupefied 1."
+    desc: "  The ictioctor can communicate with telepathy, but its swarm mind always reaches out with a cacophony of violent threats, nonsensical questions, and esoteric ravings. Creatures who attempt to [[undefined]] against the ictioctor, read its mind, or target it with a telepathic effect must first succeed at a DC 18 Will check save or become [[undefined]]."
 
 abilities_mid:
   - name: ""
@@ -65,26 +66,32 @@ attacks:
   - name: ""
 
   - name: "Melee"
-    desc: "`pf2:1` Claw +14 (mental, unholy)\n__Damage__  2d6 + 5 slashing plus grab 1d6 spirit plus grab"
+    desc: "`pf2:1` Claw +14 (mental, unholy)\n__Damage__ "
 
   - name: "Ranged"
-    desc: "`pf2:1` Jellyfish +12 (magical, range increment 30 feet, unholy)\n__Damage__  2d6 + 5 poison plus jellyfish-venom 1d6 spirit plus jellyfish-venom"
+    desc: "`pf2:1` Jellyfish +12 (magical, range increment 30 feet, unholy)\n__Damage__ "
 
   - name: "Occult Innate Spells"
     desc: "DC 18, attack +10; __2nd __  _[[Spells/Vomit Swarm|Vomit Swarm (Jellyfish) (x2)]]_\n__Cantrips__  __(2nd)__ _[[Spells/Detect Magic|Detect Magic]]_"
 
   - name: "Jellyfish Venom"
-    desc: " (poison) **Saving Throw** DC 18 Fortitude check\n**Maximum Duration** 6 rounds\n**Stage 1** Clumsy 1 (1 round)\n**Stage 2** Clumsy 2 (1 round)\n**Stage 3** Clumsy 3 (1 round)"
+    desc: " (poison) **Saving Throw** DC 18 Fortitude check\n\n**Maximum Duration** 6 rounds\n\n**Stage 1** [[undefined]] (1 round)\n\n**Stage 2** [[undefined]] (1 round)\n\n**Stage 3** [[undefined]] (1 round)"
 
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
     desc: "`pf2:1`  "
 
   - name: "Split Skull"
-    desc: "`pf2:1` (manipulate) The ictioctor extracts the brain of a creature that has been dead for no more than 1 minute, and absorbs the creature's knowledge. For 1 minute, the ictioctor gains a +2 circumstance bonus on attack rolls, skill checks, saving throws, and AC against the dead creature's allies.\n[[Effects/Effect_ Split Skull|Effect: Split Skull]]"
+    desc: "`pf2:1` (manipulate) The ictioctor extracts the brain of a creature that has been dead for no more than 1 minute, and absorbs the creature's knowledge. For 1 minute, the ictioctor gains a +2 circumstance bonus on attack rolls, skill checks, saving throws, and AC against the dead creature's allies.\n\n[[Effects/Effect_ Split Skull|Effect: Split Skull]]"
 
   - name: "Swarming Display"
-    desc: "`pf2:1` (concentrate,emotion,fear,mental,occult,visual) The ictioctor detaches half of its swarm to swirl around in a distracting and threatening display. Creatures in a 30-foot emanation must attempt a DC 18 Will check save, after which they are temporarily immune to further Swarming Displays for 1 minute.\n**Critical Success** The creature is unaffected.\n**Success** The creature is Off-Guard until the beginning of their next turn.\n**Failure** The creature is off-guard until the end of the ictioctor's next turn.\n**Critical Failure** As failure, and the creature can't Step while they are off-guard."
+    desc: "`pf2:1` (concentrate,emotion,fear,mental,occult,visual) The ictioctor detaches half of its swarm to swirl around in a distracting and threatening display. Creatures in a 30-foot emanation must attempt a DC 18 Will check save, after which they are temporarily immune to further Swarming Displays for 1 minute.\n* * *\n\n**Critical Success** The creature is unaffected.\n\n**Success** The creature is [[undefined]] until the beginning of their next turn.\n\n**Failure** The creature is off-guard until the end of the ictioctor's next turn.\n\n**Critical Failure** As failure, and the creature can't Step while they are off-guard."
  
+```
+
+```encounter-table
+name: Ictioctor
+creatures:
+  - 1: Ictioctor
 ```
 
 

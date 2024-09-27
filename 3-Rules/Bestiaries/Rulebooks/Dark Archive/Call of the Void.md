@@ -5,6 +5,7 @@ noteType: pf2eHazard
 tags:
   - environmental
   - magical
+  - pf2eHazard
   - complex
 source: Pathfinder Dark Archive
 aliases: "Compendium.pf2e.pathfinder-dark-archive.Actor.0AdtolhMWrPlzVZY" 
@@ -22,8 +23,8 @@ name: "Call of the Void"
 level: "Hazard 12"
 
 trait_06: "Complex"
-trait_01: "environmental"
-trait_02: "magical"
+trait_01: [[environmental]]
+trait_02: [[magical]]
 modifier: 15
 sourcebook: "_Pathfinder Dark Archive_"
 perception:
@@ -42,11 +43,17 @@ attacks:
   - name: ""
 
   - name: "Leap into the Unknown"
-    desc: "`pf2:r` (mental) **Trigger** A creature enters a square adjacent to the ledge of an island or steps onto one of the red ropes\n**Effect** The call of the void tugs at the mind of intruders, compelling them to leap off the ledge. The creature must succeed at a DC 34 Will check save or DC 32 Acrobatics check check to [[Actions/Balance|Balance]] or else drop off the ledge. If the creature falls off, it drops 100 feet, loops through the closed space of the mindscape, and lands in the square it fell from, taking falling damage as normal (usually 50 bludgeoning damage). The call of the void then rolls initiative."
+    desc: "`pf2:r` (mental) **Trigger** A creature enters a square adjacent to the ledge of an island or steps onto one of the red ropes\n* * *\n\n**Effect** The call of the void tugs at the mind of intruders, compelling them to leap off the ledge. The creature must succeed at a DC 34 Will check save or DC 32 Acrobatics check check to [[Actions/Balance|Balance]] or else drop off the ledge. If the creature falls off, it drops 100 feet, loops through the closed space of the mindscape, and lands in the square it fell from, taking falling damage as normal (usually 50 bludgeoning damage). The call of the void then rolls initiative."
 
   - name: "Routine"
     desc: "(1 action) The call targets all creatures adjacent to a ledge or on one of the red ropes and tugs at their minds. A creature who has already fallen this round is immune."
   - name: "Reset"
     desc: "The call of the void persists as long as the Echo exists, though it doesn't activate until the Echo has rolled initiative. The hazard resets each day."
+```
+
+```encounter-table
+name: Call of the Void
+creatures:
+  - 1: Call of the Void
 ```
 

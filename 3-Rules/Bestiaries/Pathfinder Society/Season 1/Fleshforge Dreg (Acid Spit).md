@@ -6,6 +6,7 @@ cssClasses: pf2e
 aliases: "Compendium.pf2e.pfs-season-1-bestiary.Actor.bDKozdvVEElVQywQ" 
 tags:
   - pf2e/creature/type/construct
+  - pf2eMonster
   - pf2e/creature/level/3
 statblock: inline
 name: "Fleshforge Dreg (Acid Spit)"
@@ -20,15 +21,15 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Society Scenario #1-01: The Absalom Initiation"
 name: "Fleshforge Dreg (Acid Spit)"
 level: "Creature 3"
-rare_03: "Rare"
+rare_03: [[Rare]]
 alignment: ""
 size: "Medium"
-trait_01: "construct"
+trait_01: [[construct]]
 modifier: 6
 perception:
   - name: "Perception"
     desc: "+6; "
-languages: "Common"
+languages: "Common; (can&#x27;t speak any language)"
 skills:
   - name: "Skills"
     desc: "Acrobatics: +9, Athletics: +10, Survival: +7"
@@ -61,6 +62,12 @@ attacks:
   - name: "Ranged"
     desc: "`pf2:1` Acid Spit +11 (range 30 feet)\n__Damage__  3d6 acid"
  
+```
+
+```encounter-table
+name: Fleshforge Dreg (Acid Spit)
+creatures:
+  - 1: Fleshforge Dreg (Acid Spit)
 ```
 
 

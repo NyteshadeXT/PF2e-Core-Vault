@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.fists-of-the-ruby-phoenix-bestiary.Actor.sXtwJyM7sWWDQ
 tags:
   - pf2e/creature/type/aberration
   - pf2e/creature/type/evil
+  - pf2eMonster
   - pf2e/creature/level/8
 statblock: inline
 name: "Muckish Creep"
@@ -24,8 +25,8 @@ level: "Creature 8"
 
 alignment: ""
 size: "Medium"
-trait_01: "aberration"
-trait_02: "evil"
+trait_01: [[aberration]]
+trait_02: [[evil]]
 modifier: 18
 perception:
   - name: "Perception"
@@ -61,7 +62,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Elude Grasp"
-    desc: "`pf2:r`  **Trigger** A creature succeeds at an attempt to [[Actions/Grapple|Grapple]] the muckish creep.\n**Effect** The muckish creep attempts an Athletics check to [[Actions/Escape|Escape]]."
+    desc: "`pf2:r`  **Trigger** A creature succeeds at an attempt to [[Actions/Grapple|Grapple]] the muckish creep.\n* * *\n\n**Effect** The muckish creep attempts an Athletics check to [[Actions/Escape|Escape]]."
 
 attacks:
   - name: ""
@@ -76,11 +77,17 @@ attacks:
     desc: "  When a muckish creep hits a creature with a mud ball Strike, that creature becomes [[Conditions/Dazzled|Dazzled]] (or [[Conditions/Blinded|Blinded]] on a critical hit). The creature can use an Interact action to wipe away the mud and remove the dazzled or blinded condition."
 
   - name: "Overwhelm"
-    desc: "`pf2:1` (incapacitation) **Requirements** The muckish creep has a creature grabbed.\n**Effect** The muckish creep fills the grabbed creature's mouth and nose with mud. The creature begins to suffocate unless it succeeds at a DC 23 Fortitude check save. The suffocating creature or any adjacent creatures can clear the suffocating creature's airway with an Interact action."
+    desc: "`pf2:1` (incapacitation) **Requirements** The muckish creep has a creature grabbed.\n* * *\n\n**Effect** The muckish creep fills the grabbed creature's mouth and nose with mud. The creature begins to suffocate unless it succeeds at a DC 23 Fortitude check save. The suffocating creature or any adjacent creatures can clear the suffocating creature's airway with an Interact action."
 
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
     desc: "`pf2:1`  "
  
+```
+
+```encounter-table
+name: Muckish Creep
+creatures:
+  - 1: Muckish Creep
 ```
 
 

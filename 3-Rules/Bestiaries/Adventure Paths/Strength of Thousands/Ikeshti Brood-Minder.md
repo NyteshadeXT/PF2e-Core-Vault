@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.strength-of-thousands-bestiary.Actor.wCmTtkeVjPILP7Vl"
 tags:
   - pf2e/creature/type/humanoid
   - pf2e/creature/type/ikeshti
+  - pf2eMonster
   - pf2e/creature/level/2
 statblock: inline
 name: "Ikeshti Brood-Minder"
@@ -24,8 +25,8 @@ level: "Creature 2"
 
 alignment: ""
 size: "Small"
-trait_01: "humanoid"
-trait_02: "ikeshti"
+trait_01: [[humanoid]]
+trait_02: [[ikeshti]]
 modifier: 7
 perception:
   - name: "Perception"
@@ -33,7 +34,7 @@ perception:
 languages: "Akitonian, Ikeshti"
 skills:
   - name: "Skills"
-    desc: "Athletics: +7, Diplomacy: +6, Medicine: +7, Survival: +7 (+9 in deserts)"
+    desc: "Athletics: +7, Diplomacy: +6, Medicine: +7, Survival: +7"
 abilityMods: [1, 4, 3, 1, 1, 0]
 speed: 30 feet
 sourcebook: "_Pathfinder #173: Doorway to the Red Star_"
@@ -58,8 +59,14 @@ attacks:
     desc: "`pf2:1` Claw +11 (agile, finesse)\n__Damage__  1d8 + 3 slashing"
 
   - name: "Squirt Blood"
-    desc: "`pf2:1`  **Frequency** once per day\n**Effect** The ikeshti squirts blood from one of their eyes at a target within 30 feet. The target must attempt a DC 18 Fortitude check save or become [[Conditions/Sickened 1|Sickened 1]] ([[Conditions/Sickened 1|Sickened 2]] on a critical failure)."
+    desc: "`pf2:1`  **Frequency** once per day\n* * *\n\n**Effect** The ikeshti squirts blood from one of their eyes at a target within 30 feet. The target must attempt a DC 18 Fortitude check save or become [[Conditions/Sickened|Sickened 1]] ([[Conditions/Sickened|Sickened 2]] on a critical failure)."
  
+```
+
+```encounter-table
+name: Ikeshti Brood-Minder
+creatures:
+  - 1: Ikeshti Brood-Minder
 ```
 
 

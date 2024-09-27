@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/chaotic
   - pf2e/creature/type/evil
   - pf2e/creature/type/fey
+  - pf2eMonster
   - pf2e/creature/level/7
 statblock: inline
 name: "Gahlepod"
@@ -26,15 +27,15 @@ level: "Creature 7"
 
 alignment: ""
 size: "Small"
-trait_01: "amphibious"
-trait_02: "chaotic"
-trait_03: "evil"
-trait_04: "fey"
+trait_01: [[amphibious]]
+trait_02: [[chaotic]]
+trait_03: [[evil]]
+trait_04: [[fey]]
 modifier: 13
 perception:
   - name: "Perception"
     desc: "+13; Darkvision, Scent (Imprecise) 30 Feet"
-languages: "Fey"
+languages: "Fey; can&#x27;t speak any language"
 skills:
   - name: "Skills"
     desc: "Acrobatics: +17, Survival: +14"
@@ -56,7 +57,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Churning Frenzy"
-    desc: "`pf2:r`  **Trigger** The gahlepod becomes adjacent to at least one other gahlepod\n**Frequency** once per round\n**Effect** The gahlepod is spurred into a frenzy by the others. For the rest of the round, their jaws Strike deals 1d6 persistent bleed damage in addition to the listed damage."
+    desc: "`pf2:r`  **Trigger** The gahlepod becomes adjacent to at least one other gahlepod\n\n**Frequency** once per round\n* * *\n\n**Effect** The gahlepod is spurred into a frenzy by the others. For the rest of the round, their jaws Strike deals 1d6 persistent bleed damage in addition to the listed damage."
 
 attacks:
   - name: ""
@@ -64,6 +65,12 @@ attacks:
   - name: "Melee"
     desc: "`pf2:1` Jaws +17 ()\n__Damage__  2d8 + 7 piercing"
  
+```
+
+```encounter-table
+name: Gahlepod
+creatures:
+  - 1: Gahlepod
 ```
 
 

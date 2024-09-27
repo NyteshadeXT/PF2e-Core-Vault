@@ -6,8 +6,9 @@ tags:
   - trait/monk
   - trait/common
   - category/class
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.uJpghjJtNbqKUxRd"
-license: OGL
+license: ORC
 ---
 # Wolf Drag `pf2:2`
 ## Feat 6
@@ -27,5 +28,5 @@ You rip your enemy off their feet.
 
 Make a wolf jaw Strike. Your wolf jaw gains the fatal d12 trait for this Strike, and if the attack succeeds, you knock the target [[Conditions/Prone|Prone]].
 
-*Source: Pathfinder Core Rulebook*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

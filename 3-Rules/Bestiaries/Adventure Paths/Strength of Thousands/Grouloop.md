@@ -10,6 +10,7 @@ tags:
   - pf2e/creature/type/chaotic
   - pf2e/creature/type/evil
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/9
 statblock: inline
 name: "Grouloop"
@@ -24,14 +25,14 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #171: Hurricane&#x27;s Howl"
 name: "Grouloop"
 level: "Creature 9"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Medium"
-trait_01: "amphibious"
-trait_02: "boggard"
-trait_03: "chaotic"
-trait_04: "evil"
-trait_05: "humanoid"
+trait_01: [[amphibious]]
+trait_02: [[boggard]]
+trait_03: [[chaotic]]
+trait_04: [[evil]]
+trait_05: [[humanoid]]
 modifier: 18
 perception:
   - name: "Perception"
@@ -74,14 +75,20 @@ attacks:
     desc: "_[[Spells/Consecrate|Consecrate]]_, _[[Spells/Primal Call|Primal Call]]_"
 
   - name: "Soul-Shaking Croak"
-    desc: "`pf2:2` (sonic) Grouloop utters a powerful croak that deals 6d10 sonic damage to any non-boggard within a 30-foot emanation (DC 27 Fortitude check save).\nA creature with the [[Conditions/Frightened 1|Frightened]] condition that fails its saving throw increases its frightened condition by 1 (on a critical failure, the creature is also [[Conditions/Fleeing|Fleeing]] for as long as it is frightened).\nGrouloop can't use Soul-Shaking Croak again for 1d4 rounds."
+    desc: "`pf2:2` (sonic) Grouloop utters a powerful croak that deals 6d10 sonic damage to any non-boggard within a 30-foot emanation (DC 27 Fortitude check save).\n\nA creature with the [[Conditions/Frightened|Frightened]] condition that fails its saving throw increases its frightened condition by 1 (on a critical failure, the creature is also [[Conditions/Fleeing|Fleeing]] for as long as it is frightened).\n\nGrouloop can't use Soul-Shaking Croak again for 1d4 rounds."
 
   - name: "Swamp Stride"
     desc: "  Grouloop ignores difficult terrain caused by swamp terrain features."
 
   - name: "Tongue Grab"
-    desc: "  If Grouloop hits a creature with her tongue, that creature becomes [[Conditions/Grabbed|Grabbed]]. Unlike with a normal grab, the creature isn't [[Conditions/Immobilized|Immobilized]], but it can't move beyond the reach of Grouloop's tongue.\nA creature can sever the tongue by hitting AC 24 and dealing at least 9 slashing damage. Though this doesn't deal any damage to the boggard, it prevents her from using her tongue Strike until she regrows her tongue, which takes a week."
+    desc: "  If Grouloop hits a creature with her tongue, that creature becomes [[Conditions/Grabbed|Grabbed]]. Unlike with a normal grab, the creature isn't [[Conditions/Immobilized|Immobilized]], but it can't move beyond the reach of Grouloop's tongue.\n\nA creature can sever the tongue by hitting AC 24 and dealing at least 9 slashing damage. Though this doesn't deal any damage to the boggard, it prevents her from using her tongue Strike until she regrows her tongue, which takes a week."
  
+```
+
+```encounter-table
+name: Grouloop
+creatures:
+  - 1: Grouloop
 ```
 
 

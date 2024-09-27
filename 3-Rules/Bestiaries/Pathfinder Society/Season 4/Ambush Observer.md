@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/elf
   - pf2e/creature/type/evil
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/4
 statblock: inline
 name: "Ambush Observer"
@@ -22,12 +23,12 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Society Scenario #4-99: Blessings of the Forest"
 name: "Ambush Observer"
 level: "Creature 4"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Medium"
-trait_01: "elf"
-trait_02: "evil"
-trait_03: "humanoid"
+trait_01: [[elf]]
+trait_02: [[evil]]
+trait_03: [[humanoid]]
 modifier: 10
 perception:
   - name: "Perception"
@@ -35,7 +36,7 @@ perception:
 languages: "Common, Elven"
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +10, Athletics: +8, Deception: +7, Society: +7, Stealth: +12, Thievery: +12 (can Disable traps that require master proficiency), Underworld Lore: +7"
+    desc: "Acrobatics: +10, Athletics: +8, Deception: +7, Society: +7, Stealth: +12, Thievery: +12, Underworld Lore: +7"
 abilityMods: [2, 4, 1, 1, 2, 1]
 speed: 30 feet
 sourcebook: "_Pathfinder Society Scenario #4-99: Blessings of the Forest_"
@@ -58,7 +59,7 @@ abilities_mid:
     desc: "  The ambush observer isn't [[Conditions/Off-Guard|Off-Guard]] to creatures of 4th level or lower that are [[Conditions/Hidden|Hidden]], [[Conditions/Undetected|Undetected]], flanking, or using surprise attack."
 
   - name: "Nimble Dodge"
-    desc: "`pf2:r`  **Trigger** The ambush observer is targeted with a melee or ranged attack by an attacker it can see\n**Effect** The ambush observer gains a +2 circumstance bonus to AC against the triggering attack."
+    desc: "`pf2:r`  **Trigger** The ambush observer is targeted with a melee or ranged attack by an attacker it can see\n* * *\n\n**Effect** The ambush observer gains a +2 circumstance bonus to AC against the triggering attack."
 
 attacks:
   - name: ""
@@ -81,6 +82,12 @@ attacks:
   - name: "Surprise Attack"
     desc: "  On the first round of combat, if the ambush observer rolls Deception or Stealth for initiative, creatures that haven't acted are [[Conditions/Off-Guard|Off-Guard]] to them."
  
+```
+
+```encounter-table
+name: Ambush Observer
+creatures:
+  - 1: Ambush Observer
 ```
 
 

@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.fists-of-the-ruby-phoenix-bestiary.Actor.YHSV9DfaqoaSg
 tags:
   - pf2e/creature/type/human
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/13
 statblock: inline
 name: "Archery Specialist"
@@ -21,11 +22,11 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #166: Despair on Danger Island"
 name: "Archery Specialist"
 level: "Creature 13"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Medium"
-trait_01: "human"
-trait_02: "humanoid"
+trait_01: [[human]]
+trait_02: [[humanoid]]
 modifier: 26
 perception:
   - name: "Perception"
@@ -33,7 +34,7 @@ perception:
 languages: "Taldane, Tien"
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +26, Any One Terrain Lore: +24, Athletics: +22, Stealth: +24, Survival: +21"
+    desc: "Acrobatics: +26, Athletics: +22, Stealth: +24, Survival: +21, Any One Terrain Lore: +24"
 abilityMods: [3, 5, 4, 3, 2, 0]
 speed: 25 feet
 sourcebook: "_Pathfinder #166: Despair on Danger Island_"
@@ -68,8 +69,14 @@ attacks:
     desc: "  The archery specialist ignores the penalty to their attack rolls from the volley trait"
 
   - name: "Rain of Arrows"
-    desc: "`pf2:2` (flourish) The archery specialist fires several arrows at once, each aimed to land in a 10-foot burst within 60 feet. The archery specialist makes a longbow Strike and compares the attack roll result to the AC of all creatures in the burst. The specialist rolls damage only once and applies it to each creature hit. Rain of Arrows counts as three attacks for the archery specialist's multiple attack penalty."
+    desc: "`pf2:2` (flourish) The archery specialist fires several arrows at once, each aimed to land in a @Template[burst|distance:10] within 60 feet. The archery specialist makes a longbow Strike and compares the attack roll result to the AC of all creatures in the burst. The specialist rolls damage only once and applies it to each creature hit. Rain of Arrows counts as three attacks for the archery specialist's multiple attack penalty."
  
+```
+
+```encounter-table
+name: Archery Specialist
+creatures:
+  - 1: Archery Specialist
 ```
 
 

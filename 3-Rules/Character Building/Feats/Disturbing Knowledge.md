@@ -10,8 +10,9 @@ tags:
   - trait/skill
   - trait/common
   - category/skill
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.hkSuxXOc9qBleJbd"
-license: OGL
+license: ORC
 ---
 # Disturbing Knowledge `pf2:2`
 ## Feat 7
@@ -29,7 +30,7 @@ Attempt an Occultism check check and compare the result to the Will DC of an ene
 
 * * *
 
-**Critical Success** The target becomes [[Conditions/Confused|Confused]] for 1 round and [[Conditions/Frightened 1|Frightened 1]].
+**Critical Success** The target becomes [[Conditions/Confused|Confused]] for 1 round and [[Conditions/Frightened|Frightened 1]].
 
 **Success** The target becomes frightened 1.
 
@@ -37,5 +38,5 @@ Attempt an Occultism check check and compare the result to the Will DC of an ene
 
 **Critical Failure** You get overly caught up in your own words and become frightened 1.
 
-*Source: Pathfinder Advanced Player's Guide*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

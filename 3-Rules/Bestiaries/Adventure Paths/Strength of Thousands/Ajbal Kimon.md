@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/human
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/13
 statblock: inline
 name: "Ajbal Kimon"
@@ -22,12 +23,12 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #171: Hurricane&#x27;s Howl"
 name: "Ajbal Kimon"
 level: "Creature 13"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Medium"
-trait_01: "evil"
-trait_02: "human"
-trait_03: "humanoid"
+trait_01: [[evil]]
+trait_02: [[human]]
+trait_03: [[humanoid]]
 modifier: 23
 perception:
   - name: "Perception"
@@ -61,7 +62,7 @@ abilities_mid:
     desc: "  When Ajbal rolls a success on a Reflex save, he gets a critical success instead."
 
   - name: "Nimble Dodge"
-    desc: "`pf2:r`  **Trigger** Ajbal is targeted with a melee or ranged attack by an attacker he can see\n**Effect** Ajbal gains a +2 circumstance bonus to AC against the triggering attack."
+    desc: "`pf2:r`  **Trigger** Ajbal is targeted with a melee or ranged attack by an attacker he can see\n* * *\n\n**Effect** Ajbal gains a +2 circumstance bonus to AC against the triggering attack."
 
 attacks:
   - name: ""
@@ -79,17 +80,23 @@ attacks:
     desc: "`pf2:1` Dagger +23 (agile, thrown 10 ft., versatile s)\n__Damage__  1d4 + 9 piercing"
 
   - name: "Hunt Prey"
-    desc: "`pf2:1` (concentrate) Ajbal designates a single creature he can see and hear, or one he's Tracking, as his prey. Ajbal gains a +2 circumstance bonus to Perception checks to [[Actions/Seek|Seek]] his prey and Survival checks to [[Actions/Track|Track]] his prey.\nThe first time Ajbal hits his designated prey in a round, he deals an additional 2d8 precision damage. Ajbal also ignores the penalty for making ranged attacks within the second range increment when attacking his prey.\nThese effects last until Ajbal uses Hunt Prey again."
+    desc: "`pf2:1` (concentrate) Ajbal designates a single creature he can see and hear, or one he's Tracking, as his prey. Ajbal gains a +2 circumstance bonus to Perception checks to [[Actions/Seek|Seek]] his prey and Survival checks to [[Actions/Track|Track]] his prey.\n\nThe first time Ajbal hits his designated prey in a round, he deals an additional 2d8 precision damage. Ajbal also ignores the penalty for making ranged attacks within the second range increment when attacking his prey.\n\nThese effects last until Ajbal uses Hunt Prey again."
 
   - name: "[[Bestiary Ability Glossary/Sneak Attack|Sneak Attack]]"
     desc: "  Ajbal deals an additional 1d6 precision damage to [[Conditions/Off-Guard|Off-Guard]] creatures."
 
   - name: "Tear the Wound"
-    desc: "`pf2:1`  **Requirements** Ajbal's last action was a melee Strike that dealt sneak attack damage to an [[Conditions/Off-Guard|Off-Guard]] target\n**Effect** Ajbal deals 6 bleed damage to the target creature, and the target is [[Conditions/Enfeebled 1|Enfeebled 1]] for as long as it's bleeding."
+    desc: "`pf2:1`  **Requirements** Ajbal's last action was a melee Strike that dealt sneak attack damage to an [[Conditions/Off-Guard|Off-Guard]] target\n* * *\n\n**Effect** Ajbal deals 6 bleed damage to the target creature, and the target is [[Conditions/Enfeebled|Enfeebled 1]] for as long as it's bleeding."
 
   - name: "Trident Bully"
     desc: "  A trident Ajbal is using gains the shove trait, and any creature Ajbal critically hits with a trident is [[Conditions/Off-Guard|Off-Guard]] until the start of Ajbal's next turn."
  
+```
+
+```encounter-table
+name: Ajbal Kimon
+creatures:
+  - 1: Ajbal Kimon
 ```
 
 

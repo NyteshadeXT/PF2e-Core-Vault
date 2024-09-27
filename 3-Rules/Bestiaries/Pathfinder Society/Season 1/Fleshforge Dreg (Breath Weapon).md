@@ -6,6 +6,7 @@ cssClasses: pf2e
 aliases: "Compendium.pf2e.pfs-season-1-bestiary.Actor.t1QyIgwLORMhHNL4" 
 tags:
   - pf2e/creature/type/construct
+  - pf2eMonster
   - pf2e/creature/level/3
 statblock: inline
 name: "Fleshforge Dreg (Breath Weapon)"
@@ -20,15 +21,15 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Society Scenario #1-01: The Absalom Initiation"
 name: "Fleshforge Dreg (Breath Weapon)"
 level: "Creature 3"
-rare_03: "Rare"
+rare_03: [[Rare]]
 alignment: ""
 size: "Medium"
-trait_01: "construct"
+trait_01: [[construct]]
 modifier: 6
 perception:
   - name: "Perception"
     desc: "+6; "
-languages: "Common"
+languages: "Common; (can&#x27;t speak any language)"
 skills:
   - name: "Skills"
     desc: "Acrobatics: +9, Athletics: +10, Survival: +7"
@@ -59,8 +60,14 @@ attacks:
     desc: "`pf2:1` Tentacle +12 (agile)\n__Damage__  1d6 + 6 bludgeoning"
 
   - name: "Breath Weapon"
-    desc: "`pf2:2` (arcane,fire) The fleshforge dreg breathes flames that deal 4d6 fire damage to all creatures in a 15-foot cone (DC 15 Reflex check save).\nThe fleshforge dreg can't use its breath weapon again for 1d4 rounds."
+    desc: "`pf2:2` (arcane,fire) The fleshforge dreg breathes flames that deal 4d6 fire damage to all creatures in a @Template[cone|distance:15] (DC 15 Reflex check save).\n\nThe fleshforge dreg can't use its breath weapon again for 1d4 rounds."
  
+```
+
+```encounter-table
+name: Fleshforge Dreg (Breath Weapon)
+creatures:
+  - 1: Fleshforge Dreg (Breath Weapon)
 ```
 
 

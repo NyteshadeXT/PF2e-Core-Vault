@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/gnome
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/4
 statblock: inline
 name: "Zatqualmish (3-4)"
@@ -22,12 +23,12 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Society Quest #8: Shadows of the Black Sovereign"
 name: "Zatqualmish (3-4)"
 level: "Creature 4"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Small"
-trait_01: "evil"
-trait_02: "gnome"
-trait_03: "humanoid"
+trait_01: [[evil]]
+trait_02: [[gnome]]
+trait_03: [[humanoid]]
 modifier: 9
 perception:
   - name: "Perception"
@@ -35,7 +36,7 @@ perception:
 languages: "Common, Dwarven, Elven, Fey, Gnomish"
 skills:
   - name: "Skills"
-    desc: "Crafting: +7, Deception: +10, Diplomacy: +10, Legal Lore: +7, Occultism: +9, Performance: +12, Society: +9 (+10 to Create Forgeries), Thievery: +9, Underworld Lore: +7"
+    desc: "Crafting: +7, Deception: +10, Diplomacy: +10, Occultism: +9, Performance: +12, Society: +9, Thievery: +9, Legal Lore: +7, Underworld Lore: +7"
 abilityMods: [0, 3, 2, 1, 1, 4]
 speed: 25 feet
 sourcebook: "_Pathfinder Society Quest #8: Shadows of the Black Sovereign_"
@@ -55,12 +56,12 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Run Away!"
-    desc: "`pf2:r`  **Trigger** A creature ends its movement adjacent to Zatqualmish\n**Effect** Zatqualmish Strides up to 10 feet (or his Speed, if that Speed is less than 10 feet). He must end his movement in a location that isn't within 5 feet of a foe.\nThis movement doesn't trigger reactions."
+    desc: "`pf2:r`  **Trigger** A creature ends its movement adjacent to Zatqualmish\n* * *\n\n**Effect** Zatqualmish Strides up to 10 feet (or his Speed, if that Speed is less than 10 feet). He must end his movement in a location that isn't within 5 feet of a foe.\n\nThis movement doesn't trigger reactions."
 
 attacks:
   - name: ""
 
-  - name: "Melee"
+  - name: "Ranged"
     desc: "`pf2:1` Dagger +9 (agile, finesse, thrown 10 ft., versatile s)\n__Damage__  1d4 piercing"
 
   - name: "Ranged"
@@ -72,6 +73,12 @@ attacks:
   - name: "Bard Composition Spells"
     desc: "2 Focus Points, DC 23, attack +13; __2nd __  _[[Spells/Counter Performance|Counter Performance]]_\n__Cantrips__  __(2nd)__ _[[Spells/Courageous Anthem|Inspire Courage]]_"
  
+```
+
+```encounter-table
+name: Zatqualmish (3-4)
+creatures:
+  - 1: Zatqualmish (3-4)
 ```
 
 

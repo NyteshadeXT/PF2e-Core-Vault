@@ -4,27 +4,36 @@ title: "Endure"
 noteType: pf2eSpell
 cssclasses: pf2e,pf2e-spell
 tags:
+  - pf2eSpell
   - spell/level/1
   - trait/manipulate
   - trait/mental
   - trait/common
+  - tradition/arcane
+  - tradition/occult
+
 aliases: "Compendium.pf2e.spells-srd.Item.4c1c6eNzU1PFGkAy" 
+license: OGL
 ---
-# Endure  `pf2:1`  
-## Spell 1
-### [[manipulate]][[mental]]
-**Traditions** [[arcane]], [[occult]]
-**Range** touch
-**Targets** 1 creature
-**Duration** 1 round
-* * * 
-You invigorate the touched creature's mind and urge it to press on. You grant the touched creature 5 temporary Hit Points.
+```statblock
+name: "Endure  `pf2:1`"
+level: "Spell 1"
 
-* * *
-
-**Heightened (+1)** Increase the temporary Hit Points by 5.
-
-[[Spell Effects/Spell Effect_ Endure|Spell Effect: Endure]]
-
-*Source: Pathfinder Lost Omens: Gods & Magic*
-*OGL*
+trait_01: [[manipulate]]
+trait_02: [[mental]]
+layout: Basic Pathfinder 2e Layout
+columns: 1
+columnWidth: x
+abilities_top:
+  - name: ""
+  - name: "Traditions"
+    desc: "arcane, occult"
+  - name: "Range"
+    desc: "touch; **Targets** 1 creature"
+  - name: "Duration"
+    desc: "1 round"
+abilities_mid:
+  - name: ""
+    desc: "You invigorate the touched creature's mind and urge it to press on. You grant the touched creature 5 temporary Hit Points.\n* * *\n\n**Heightened (+1)** Increase the temporary Hit Points by 5.\n\n[[Spell Effects/Spell Effect_ Endure|Spell Effect: Endure]]"
+sourcebook: "_Pathfinder Lost Omens: Gods & Magic_"
+```

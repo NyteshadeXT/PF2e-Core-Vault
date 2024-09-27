@@ -8,7 +8,7 @@ tags:
 ---
 # Strained
 
-> Until healed, you are [[Conditions/Clumsy 1|Clumsy 2]].
+> Until healed, you are [[Conditions/Clumsy|Clumsy 2]].
 
 `Melee`
 
@@ -26,6 +26,6 @@ tags:
 
 # Mind Drain
 
-> Until healed, you are [[Conditions/Stupefied 1|Stupefied 1]].
+> Until healed, you are [[Conditions/Stupefied|Stupefied 1]].
 
 `Spell`

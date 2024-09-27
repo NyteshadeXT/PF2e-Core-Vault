@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/elf
   - pf2e/creature/type/evil
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/3
 statblock: inline
 name: "Kiru"
@@ -23,13 +24,13 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #170: Spoken on the Song Wind"
 name: "Kiru"
 level: "Creature 3"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Medium"
-trait_01: "chaotic"
-trait_02: "elf"
-trait_03: "evil"
-trait_04: "humanoid"
+trait_01: [[chaotic]]
+trait_02: [[elf]]
+trait_03: [[evil]]
+trait_04: [[humanoid]]
 modifier: 9
 perception:
   - name: "Perception"
@@ -66,7 +67,7 @@ attacks:
     desc: "`pf2:1` Dagger +12 (agile, thrown 10 ft., versatile s)\n__Damage__  1d4 + 4 piercing plus knife-jab"
 
   - name: "Knife Jab"
-    desc: "  Creatures hit by Kiru's dagger Strike must succeed at a Fortitude (Strike was a Success)Fortitude (Strike was a Critical Success) save or become [[Conditions/Clumsy 1|Clumsy 1]] for 1 round (1 minute on a critical failure)."
+    desc: "  Creatures hit by Kiru's dagger Strike must succeed at a Fortitude (Strike was a Success)Fortitude (Strike was a Critical Success) save or become [[Conditions/Clumsy|Clumsy 1]] for 1 round (1 minute on a critical failure)."
 
   - name: "[[Bestiary Ability Glossary/Sneak Attack|Sneak Attack]]"
     desc: "  Kiru deals an extra 1d6 precision damage to [[Conditions/Off-Guard|Off-Guard]] creatures."
@@ -74,6 +75,12 @@ attacks:
   - name: "Surprise Attack"
     desc: "  On the first round of combat, creatures that haven't acted yet are [[Conditions/Off-Guard|Off-Guard]] to Kiru."
  
+```
+
+```encounter-table
+name: Kiru
+creatures:
+  - 1: Kiru
 ```
 
 

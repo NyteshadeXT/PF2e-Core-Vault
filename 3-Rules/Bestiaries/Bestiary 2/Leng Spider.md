@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/chaotic
   - pf2e/creature/type/dream
   - pf2e/creature/type/evil
+  - pf2eMonster
   - pf2e/creature/level/13
 statblock: inline
 name: "Leng Spider"
@@ -24,21 +25,21 @@ token: [[modules/pf2e-tokens-bestiaries/portraits/planar/dream/leng-spider.webp|
 source: "Pathfinder Bestiary 2"
 name: "Leng Spider"
 level: "Creature 13"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "huge"
-trait_01: "aberration"
-trait_02: "chaotic"
-trait_03: "dream"
-trait_04: "evil"
+trait_01: [[aberration]]
+trait_02: [[chaotic]]
+trait_03: [[dream]]
+trait_04: [[evil]]
 modifier: 24
 perception:
   - name: "Perception"
     desc: "+24; Darkvision"
-languages: "Aklo"
+languages: "Aklo; tongues"
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +24, Athletics: +27, Crafting: +22 (+26 to make traps), Deception: +22, Occultism: +26, Religion: +24, Stealth: +26"
+    desc: "Acrobatics: +24, Athletics: +27, Crafting: +22, Deception: +22, Occultism: +26, Religion: +24, Stealth: +26"
 abilityMods: [6, 7, 5, 7, 5, 5]
 speed: 40 feet,  climb 40 feet
 sourcebook: "_Pathfinder Bestiary 2_"
@@ -81,17 +82,23 @@ attacks:
     desc: "`pf2:1` (manipulate) The Leng spider creates a weapon by applying a cord of webbing to heavy objects, such as rocks or chunks of metal, either attaching two heavy objects together to create a web bola or fastening one to its leg to create a web war flail."
 
   - name: "Descend on a Web"
-    desc: "`pf2:1` (move) The Leng spider moves straight down up to 120 feet, suspended by a web line. It can hang from the web or drop off. The distance it Descends on a Web doesn't count when calculating falling damage.\nThe web can be severed by a Strike that deals slashing damage (AC 30, Hardness 15, 25 HP), causing the Leng spider to fall."
+    desc: "`pf2:1` (move) The Leng spider moves straight down up to 120 feet, suspended by a web line. It can hang from the web or drop off. The distance it Descends on a Web doesn't count when calculating falling damage.\n\nThe web can be severed by a Strike that deals slashing damage (AC 30, Hardness 15, 25 HP), causing the Leng spider to fall."
 
   - name: "Lay Web Trap"
-    desc: "`pf2:1` (manipulate) **Frequency** three times per day\n**Effect** The Leng spider spins a web within 20 feet of itself to create a [[Equipment/Grasping Snare|Grasping Snare]], [[Equipment/Stunning Snare|Stunning Snare]], or [[Equipment/Warning Snare|Warning Snare]]. The Leng spider's web provides all the raw materials it needs. All save and [[Actions/Escape|Escape]] DCs associated with web traps use the Leng spider's Crafting DC for traps (DC 36). A web trap decays after 24 hours."
+    desc: "`pf2:1` (manipulate) **Frequency** three times per day\n* * *\n\n**Effect** The Leng spider spins a web within 20 feet of itself to create a [[Equipment/Grasping Snare|Grasping Snare]], [[Equipment/Stunning Snare|Stunning Snare]], or [[Equipment/Warning Snare|Warning Snare]]. The Leng spider's web provides all the raw materials it needs. All save and [[Actions/Escape|Escape]] DCs associated with web traps use the Leng spider's Crafting DC for traps (DC 36). A web trap decays after 24 hours."
 
   - name: "Leng Spider Venom"
-    desc: " (emotion,mental,poison) **Saving Throw** DC 33 Fortitude check\n**Maximum Duration** 6 rounds\n**Stage 1** 2d6 poison damage and [[Conditions/Drained 1|Drained 1]] (1 round)\n**Stage 2** 2d6 poison damage, [[Conditions/Confused|Confused]], and [[Conditions/Drained 1|Drained 2]] (1 round); the confused effect has the emotion and mental traits."
+    desc: " (emotion,mental,poison) **Saving Throw** DC 33 Fortitude check\n\n**Maximum Duration** 6 rounds\n\n**Stage 1** 2d6 poison damage and [[Conditions/Drained|Drained 1]] (1 round)\n\n**Stage 2** 2d6 poison damage, [[Conditions/Confused|Confused]], and [[Conditions/Drained|Drained 2]] (1 round); the confused effect has the emotion and mental traits."
 
   - name: "Ranged Trip"
     desc: "  A Leng spider can use a web bola to [[Actions/Trip|Trip]] a target with the Athletics skill. The skill check takes a -2 circumstance penalty. A web bola deals no damage when used to Trip."
  
+```
+
+```encounter-table
+name: Leng Spider
+creatures:
+  - 1: Leng Spider
 ```
 
 

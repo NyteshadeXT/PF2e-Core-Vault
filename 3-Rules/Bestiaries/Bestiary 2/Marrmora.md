@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/fey
   - pf2e/creature/type/fire
+  - pf2eMonster
   - pf2e/creature/level/15
 statblock: inline
 name: "Marrmora"
@@ -26,9 +27,9 @@ level: "Creature 15"
 
 alignment: ""
 size: "Medium"
-trait_01: "evil"
-trait_02: "fey"
-trait_03: "fire"
+trait_01: [[evil]]
+trait_02: [[fey]]
+trait_03: [[fire]]
 modifier: 27
 perception:
   - name: "Perception"
@@ -55,10 +56,10 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Absorb Flame"
-    desc: "`pf2:r`  **Trigger** The marrmora is targeted by a fire spell or effect, or is in the area of a fire effect\n**Effect** The marrmora is healed by the fire damage, regaining Hit Points equal to half the damage the fire effect would have dealt."
+    desc: "`pf2:r`  **Trigger** The marrmora is targeted by a fire spell or effect, or is in the area of a fire effect\n* * *\n\n**Effect** The marrmora is healed by the fire damage, regaining Hit Points equal to half the damage the fire effect would have dealt."
 
   - name: "Fascination of Flame"
-    desc: " (aura,emotion,mental,primal) 30 feet. A creature that enters or begins its turn in this aura's emanation must attempt a DC 33 Will check save. Regardless of the result of the saving throw, the creature is temporarily immune for 1 minute.\n**Critical Success** The creature is unaffected.\n**Success** The creature loses any resistance to fire for 1 round.\n**Failure** The creature loses any resistance to fire for 1 hour.\n**Critical Failure** The creature loses any resistance to fire for 1 hour and gains weakness 15 to fire for the same duration."
+    desc: " (aura,emotion,mental,primal) 30 feet. A creature that enters or begins its turn in this aura's emanation must attempt a DC 33 Will check save. Regardless of the result of the saving throw, the creature is temporarily immune for 1 minute.\n* * *\n\n**Critical Success** The creature is unaffected.\n\n**Success** The creature loses any resistance to fire for 1 round.\n\n**Failure** The creature loses any resistance to fire for 1 hour.\n\n**Critical Failure** The creature loses any resistance to fire for 1 hour and gains weakness 15 to fire for the same duration."
 
 attacks:
   - name: ""
@@ -70,11 +71,17 @@ attacks:
     desc: "`pf2:1` Flame Jet +29 (fire, range increment 40 feet)\n__Damage__  6d6 fire 2d6 fire"
 
   - name: "Primal Innate Spells"
-    desc: "DC 36, attack +28; __8th __ (2 slots) _[[Spells/Fire Shield|Fire Shield]]_, _[[Spells/Fireball|Fireball]]_; __7th __ (3 slots) _[[Spells/Elemental Form|Elemental Form (Fire Elemental only)]]_, _[[Spells/Volcanic Eruption|Volcanic Eruption]]_, _[[Spells/Wall of Fire|Wall of Fire]]_; __6th __ (7 slots) _[[Spells/Fire Shield|Fire Shield (x3)]]_, _[[Spells/Fireball|Fireball (x3)]]_, _[[Spells/One with Plants|Tree Shape (At will) (Appears as a burnt, dead tree)]]_\n__Cantrips__  __(8th)__ _[[Spells/Produce Flame|Produce Flame]]_"
+    desc: "DC 36, attack +28; __8th __ (2 slots) _[[Spells/Fire Shield|Fire Shield]]_, _[[Spells/Fireball|Fireball]]_; __7th __ (3 slots) _[[Spells/Volcanic Eruption|Volcanic Eruption]]_, _[[Spells/Wall of Fire|Wall of Fire]]_; __6th __ (7 slots) _[[Spells/Fire Shield|Fire Shield (x3)]]_, _[[Spells/Fireball|Fireball (x3)]]_, _[[Spells/One with Plants|Tree Shape (At will) (Appears as a burnt, dead tree)]]_; __5th __  _[[Spells/Elemental Form|Elemental Form (Fire Only)]]_\n__Cantrips__  __(8th)__ _[[Spells/Produce Flame|Produce Flame]]_"
 
   - name: "Igniting Assault"
-    desc: "`pf2:1`  **Requirements** The marrmora is not under the effect of fire shield\n**Effect** The marrmora makes a claw Strike. If it hits, it can immediately cast one of its available fire shield innate spells as a free action."
+    desc: "`pf2:1`  **Requirements** The marrmora is not under the effect of fire shield\n* * *\n\n**Effect** The marrmora makes a claw Strike. If it hits, it can immediately cast one of its available fire shield innate spells as a free action."
  
+```
+
+```encounter-table
+name: Marrmora
+creatures:
+  - 1: Marrmora
 ```
 
 

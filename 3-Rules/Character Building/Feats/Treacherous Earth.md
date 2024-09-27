@@ -22,7 +22,7 @@ license: OGL
 
 * * *
 
-You have the power to shatter the earth into a shape of your devising. You crack the ground beneath you, creating difficult terrain in a 5-foot burst centered on one corner of your space.
+You have the power to shatter the earth into a shape of your devising. You crack the ground beneath you, creating difficult terrain in a @Template\[burst|distance:5\] centered on one corner of your space.
 
 *Source: Pathfinder Lost Omens: Ancestry Guide*
 *OGL*

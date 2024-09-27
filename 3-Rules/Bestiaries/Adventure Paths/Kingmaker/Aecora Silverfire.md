@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.kingmaker-bestiary.Actor.NxVi4ot2bzNOk6Zj"
 tags:
   - pf2e/creature/type/beast
   - pf2e/creature/type/chaotic
+  - pf2eMonster
   - pf2e/creature/level/7
 statblock: inline
 name: "Aecora Silverfire"
@@ -21,11 +22,11 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Kingmaker"
 name: "Aecora Silverfire"
 level: "Creature 7"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Large"
-trait_01: "beast"
-trait_02: "chaotic"
+trait_01: [[beast]]
+trait_02: [[chaotic]]
 modifier: 17
 perception:
   - name: "Perception"
@@ -68,8 +69,14 @@ attacks:
     desc: "DC 25, attack +17; __4th __  _[[Spells/Outcast's Curse|Outcast's Curse]]_; __3rd __  _[[Spells/Dream Message|Dream Message]]_; __2nd __  _[[Spells/Restoration|Restoration]]_, _[[Spells/Silence|Silence]]_, _[[Spells/Noise Blast|Sound Burst]]_; __1st __  _[[Spells/Command|Command]]_, _[[Spells/Heal|Heal]]_, _[[Spells/Enfeeble|Ray of Enfeeblement]]_, _[[Spells/Sanctuary|Sanctuary]]_\n__Cantrips__  __(4th)__ _[[Spells/Daze|Daze]]_, _[[Spells/Vitality Lash|Disrupt Undead]]_, _[[Spells/Know the Way|Know Direction]]_, _[[Spells/Message|Message]]_, _[[Spells/Stabilize|Stabilize]]_"
 
   - name: "[[Bestiary Ability Glossary/Trample|Trample]]"
-    desc: "`pf2:3`  Medium or smaller, hoof, DC 25 Reflex check save\n"
+    desc: "`pf2:3`  Medium or smaller, hoof, DC 25 Reflex check save\n\n* * *\n"
  
+```
+
+```encounter-table
+name: Aecora Silverfire
+creatures:
+  - 1: Aecora Silverfire
 ```
 
 

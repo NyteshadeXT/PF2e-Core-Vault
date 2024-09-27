@@ -6,6 +6,7 @@ cssClasses: pf2e
 aliases: "Compendium.pf2e.blood-lords-bestiary.Actor.HNcBJFUhdLfOZxPS" 
 tags:
   - pf2e/creature/type/shadow
+  - pf2eMonster
   - pf2e/creature/level/17
 statblock: inline
 name: "Ghiasi"
@@ -20,10 +21,10 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #185: A Taste of Ashes"
 name: "Ghiasi"
 level: "Creature 17"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Medium"
-trait_01: "shadow"
+trait_01: [[shadow]]
 modifier: 34
 perception:
   - name: "Perception"
@@ -31,7 +32,7 @@ perception:
 languages: "Aklo, Common, Necril, Sakvroth, Shae"
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +30, Deception: +34, Diplomacy: +32, Occultism: +30, Performance: +32, Shadow Plane Lore: +30, Society: +32, Stealth: +30"
+    desc: "Acrobatics: +30, Deception: +34, Diplomacy: +32, Occultism: +30, Performance: +32, Society: +32, Stealth: +30, Shadow Plane Lore: +30"
 abilityMods: [5, 9, 2, 7, 6, 9]
 speed: 25 feet,  fly 35 feet
 sourcebook: "_Pathfinder #185: A Taste of Ashes_"
@@ -54,13 +55,13 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Counterattack"
-    desc: "`pf2:r`  **Trigger** Ghiasi is targeted by an attack from an adjacent creature that misses due to her being [[Conditions/Concealed|Concealed]]\n**Requirements** Ghiasi is aware of the attack\n**Effect** Ghiasi makes a Strike against the attacker."
+    desc: "`pf2:r`  **Trigger** Ghiasi is targeted by an attack from an adjacent creature that misses due to her being [[Conditions/Concealed|Concealed]]\n\n**Requirements** Ghiasi is aware of the attack\n* * *\n\n**Effect** Ghiasi makes a Strike against the attacker."
 
   - name: "Multiple Reactions"
     desc: "  Ghiasi gains an additional reaction each turn that she can only use to Slip."
 
   - name: "Slip"
-    desc: "`pf2:r`  **Trigger** A creature moves adjacent to Ghiasi\n**Effect** Ghiasi teleports to a clear space adjacent to another creature she can see within 30 feet."
+    desc: "`pf2:r`  **Trigger** A creature moves adjacent to Ghiasi\n* * *\n\n**Effect** Ghiasi teleports to a clear space adjacent to another creature she can see within 30 feet."
 
 attacks:
   - name: ""
@@ -86,6 +87,12 @@ attacks:
   - name: "Tenebral Form"
     desc: "  Ghiasi can Fly at full Speed in gaseous form."
  
+```
+
+```encounter-table
+name: Ghiasi
+creatures:
+  - 1: Ghiasi
 ```
 
 

@@ -6,6 +6,7 @@ cssClasses: pf2e
 aliases: "Compendium.pf2e.pfs-season-4-bestiary.Actor.QbvkJokjXuCAaJcl" 
 tags:
   - pf2e/creature/type/animal
+  - pf2eMonster
   - pf2e/creature/level/3
 statblock: inline
 name: "Enormous Rat"
@@ -20,14 +21,15 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Society Intro: Year of Boundless Wonder"
 name: "Enormous Rat"
 level: "Creature 3"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Large"
-trait_01: "animal"
+trait_01: [[animal]]
 modifier: 9
 perception:
   - name: "Perception"
     desc: "+9; Low-Light Vision"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Acrobatics: +8, Athletics: +12, Stealth: +8"
@@ -58,14 +60,20 @@ attacks:
     desc: "`pf2:1`  The enormous rat makes a jaws Strike against a [[Conditions/Prone|Prone]] enemy. If it hits, in addition to dealing damage, the enormous rat Strides up to 10 feet, dragging the enemy along."
 
   - name: "Filth Fever"
-    desc: " (disease) The [[Conditions/Sickened 1|Sickened]] and [[Conditions/Unconscious|Unconscious]] conditions from filth fever don't improve on their own until the disease is cured.\n**Saving Throw** DC 14 Fortitude check\n**Stage 1** carrier with no ill effect (1d4 hours)\n**Stage 2** [[Conditions/Sickened 1|Sickened 1]] (1 day)\n**Stage 3** Sickened 1 and [[Conditions/Slowed 1|Slowed 1]] (1 day)\n**Stage 4** [[Conditions/Unconscious|Unconscious]] (1 day)\n**Stage 5** dead"
+    desc: " (disease) The [[Conditions/Sickened|Sickened]] and [[Conditions/Unconscious|Unconscious]] conditions from filth fever don't improve on their own until the disease is cured.\n\n**Saving Throw** DC 14 Fortitude check\n* * *\n\n**Stage 1** carrier with no ill effect (1d4 hours)\n\n**Stage 2** [[Conditions/Sickened|Sickened 1]] (1 day)\n\n**Stage 3** Sickened 1 and [[Conditions/Slowed|Slowed 1]] (1 day)\n\n**Stage 4** [[Conditions/Unconscious|Unconscious]] (1 day)\n\n**Stage 5** dead"
 
   - name: "Gnaw Bones"
-    desc: "  A creature that's critically hit by an enormous rat must succeed at a DC 20 Fortitude check save or become [[Conditions/Wounded 1|Wounded 1]] as the creature's bones or cartilage are crushed by the rat's jaws."
+    desc: "  A creature that's critically hit by an enormous rat must succeed at a DC 20 Fortitude check save or become [[Conditions/Wounded|Wounded 1]] as the creature's bones or cartilage are crushed by the rat's jaws."
 
   - name: "[[Bestiary Ability Glossary/Knockdown|Knockdown]]"
     desc: "`pf2:1`  "
  
+```
+
+```encounter-table
+name: Enormous Rat
+creatures:
+  - 1: Enormous Rat
 ```
 
 

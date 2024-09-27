@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.pathfinder-bestiary.Actor.2IrWQjtFvsen8ioo"
 tags:
   - pf2e/creature/type/animal
   - pf2e/creature/type/dinosaur
+  - pf2eMonster
   - pf2e/creature/level/2
 statblock: inline
 name: "Deinonychus"
@@ -25,15 +26,16 @@ level: "Creature 2"
 
 alignment: ""
 size: "Medium"
-trait_01: "animal"
-trait_02: "dinosaur"
+trait_01: [[animal]]
+trait_02: [[dinosaur]]
 modifier: 7
 perception:
   - name: "Perception"
     desc: "+7; Low-Light Vision, Scent (Imprecise) 30 Feet"
+languages: ""
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +7, Athletics: +9 (+12 jumping), Stealth: +7"
+    desc: "Acrobatics: +7, Athletics: +9, Stealth: +7"
 abilityMods: [3, 3, 4, -4, 1, 2]
 speed: 30 feet
 sourcebook: "_Pathfinder Bestiary_"
@@ -66,6 +68,12 @@ attacks:
   - name: "Predator's Advantage"
     desc: "  Bleeding creatures are [[Conditions/Off-Guard|Off-Guard]] to the deinonychus."
  
+```
+
+```encounter-table
+name: Deinonychus
+creatures:
+  - 1: Deinonychus
 ```
 
 

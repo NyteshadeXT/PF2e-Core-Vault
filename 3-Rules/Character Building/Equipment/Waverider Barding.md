@@ -6,18 +6,19 @@ tags:
   - trait/companion
   - trait/invested
   - trait/primal
-  - trait/uncommon
+  - trait/common
+  - category/light-barding
 aliases: "Compendium.pf2e.equipment-srd.Item.me7GsgRKnqA7vaB5"
 license: OGL
 ---
 # Waverider Barding
 ## Item 5
-### [uncommon](uncommon "Uncommon Rarity Trait")[[companion]][[invested]][[primal]]
+### [[companion]][[invested]][[primal]]
 
-
+**Category** light-barding; 
 **Price** 130 gp; 
 **Bulk** L; **Size** med
-**Usage** wornbarding
+**Usage** wornarmor
 
 This light barding is covered in wavelike patterns. The barding adjusts to fit your animal companion regardless of its shape.
 

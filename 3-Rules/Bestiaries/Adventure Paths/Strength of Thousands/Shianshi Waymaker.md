@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/humanoid
   - pf2e/creature/type/lawful
   - pf2e/creature/type/void
+  - pf2eMonster
   - pf2e/creature/level/18
 statblock: inline
 name: "Shianshi Waymaker"
@@ -23,13 +24,13 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #174: Shadows of the Ancients"
 name: "Shianshi Waymaker"
 level: "Creature 18"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Large"
-trait_01: "evil"
-trait_02: "humanoid"
-trait_03: "lawful"
-trait_04: "void"
+trait_01: [[evil]]
+trait_02: [[humanoid]]
+trait_03: [[lawful]]
+trait_04: [[void]]
 modifier: 32
 perception:
   - name: "Perception"
@@ -81,14 +82,20 @@ attacks:
     desc: "`pf2:1`  Shianshi claims the soul of a creature she killed within the last minute. This works like [[Spells/Seize Soul|Seize Soul]], except that no black sapphire is required and the soul is turned into a glowing blue light called a soul trophy. Anyone who kills Shianshi can then free the soul from any soul trophy by touching it and speaking the word for \"freedom\" in any language."
 
   - name: "Huntblade Brutality"
-    desc: "  Shianshi's greatsword Strikes have the death trait and deal an additional 2d8 damage to [[Conditions/Drained 1|Drained]], [[Conditions/Off-Guard|Off-Guard]], or [[Conditions/Frightened 1|Frightened]] creatures."
+    desc: "  Shianshi's greatsword Strikes have the death trait and deal an additional 2d8 damage to [[Conditions/Drained|Drained]], [[Conditions/Off-Guard|Off-Guard]], or [[Conditions/Frightened|Frightened]] creatures."
 
   - name: "Hunter's Leap"
-    desc: "`pf2:r` (occult,teleportation) **Trigger** Shianshi kills a creature\n**Effect** Shianshi teleports up to 30 feet and makes a greatsword Strike; on a hit, the target of the Strike is [[Conditions/Frightened 1|Frightened 1]] ([[Conditions/Frightened 1|Frightened 3]] on a critical hit)."
+    desc: "`pf2:r` (occult,teleportation) **Trigger** Shianshi kills a creature\n* * *\n\n**Effect** Shianshi teleports up to 30 feet and makes a greatsword Strike; on a hit, the target of the Strike is [[Conditions/Frightened|Frightened 1]] ([[Conditions/Frightened|Frightened 3]] on a critical hit)."
 
   - name: "Whip Drain"
-    desc: "`pf2:1` (arcane,death) **Requirements** Shianshi has a creature [[Conditions/Grabbed|Grabbed]] with her shadow whip\n**Effect** The grabbed creature must succeed at a DC 41 Fortitude check save or become [[Conditions/Drained 1|Drained 2]] ([[Conditions/Drained 1|Drained 3]] on a critical failure). If the creature is already drained, this increases its drained value instead, to a maximum of drained 4."
+    desc: "`pf2:1` (arcane,death) **Requirements** Shianshi has a creature [[Conditions/Grabbed|Grabbed]] with her shadow whip\n* * *\n\n**Effect** The grabbed creature must succeed at a DC 41 Fortitude check save or become [[Conditions/Drained|Drained 2]] ([[Conditions/Drained|Drained 3]] on a critical failure). If the creature is already drained, this increases its drained value instead, to a maximum of drained 4."
  
+```
+
+```encounter-table
+name: Shianshi Waymaker
+creatures:
+  - 1: Shianshi Waymaker
 ```
 
 

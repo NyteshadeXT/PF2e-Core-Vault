@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.fists-of-the-ruby-phoenix-bestiary.Actor.T5KMiSE8W1R8C
 tags:
   - pf2e/creature/type/animal
   - pf2e/creature/type/dinosaur
+  - pf2eMonster
   - pf2e/creature/level/15
 statblock: inline
 name: "Grave Spinosaurus"
@@ -21,18 +22,19 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #166: Despair on Danger Island"
 name: "Grave Spinosaurus"
 level: "Creature 15"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "grg"
-trait_01: "animal"
-trait_02: "dinosaur"
+trait_01: [[animal]]
+trait_02: [[dinosaur]]
 modifier: 26
 perception:
   - name: "Perception"
     desc: "+26; Low-Light Vision, Scent (Imprecise) 30 Feet"
+languages: ""
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +26, Athletics: +30 (+32 to Swim)"
+    desc: "Acrobatics: +26, Athletics: +30"
 abilityMods: [9, 5, 7, -4, 3, 3]
 speed: 40 feet,  swim 30 feet
 sourcebook: "_Pathfinder #166: Despair on Danger Island_"
@@ -66,17 +68,23 @@ attacks:
     desc: "`pf2:2`  The grave spinosaurus Strides and makes a Strike at the end of its movement. If the Strike hits, it deals damage as normal and the grave spinosaurus makes an Athletics check to [[Actions/Trip|Trip]] the target. This check counts toward the grave spinosaurus's multiple attack penalty, but the multiple attack penalty doesn't increase until after it makes the check."
 
   - name: "Rip and Tear"
-    desc: "`pf2:1`  **Requirements** The grave spinosaurus has a creature [[Conditions/Grabbed|Grabbed]] in its jaws\n**Effect** The grave spinosaurus reaches up and slashes with its claws at the creature it has grabbed, dealing 6d10 slashing damage (DC 36 Reflex check save) and 2d6 bleed."
+    desc: "`pf2:1`  **Requirements** The grave spinosaurus has a creature [[Conditions/Grabbed|Grabbed]] in its jaws\n* * *\n\n**Effect** The grave spinosaurus reaches up and slashes with its claws at the creature it has grabbed, dealing 6d10 slashing damage (DC 36 Reflex check save) and 2d6 bleed."
 
   - name: "Staggering Sail"
-    desc: "`pf2:2` (incapacitation) **Requirements** The grave spinosaurus is swimming on the surface of water\n**Effect** With a powerful lunge to the side, the grave spinosaurus uses its sail to slap the surface of the water, creating a crushing wave of water that deals 8d6 bludgeoning damage in a 30-foot cone. Each creature in the water in the area must attempt a DC 36 Reflex check save.\n**Critical Success** The creature is unaffected.\n**Success** The creature takes half damage.\n**Failure** The creature takes full damage and is [[Conditions/Slowed 1|Slowed 1]] until the end of its next turn.\n**Critical Failure** The creature takes double damage and is [[Conditions/Stunned 1|Stunned 3]]."
+    desc: "`pf2:2` (incapacitation) **Requirements** The grave spinosaurus is swimming on the surface of water\n* * *\n\n**Effect** With a powerful lunge to the side, the grave spinosaurus uses its sail to slap the surface of the water, creating a crushing wave of water that deals 8d6 bludgeoning damage in a @Template[cone|distance:30]. Each creature in the water in the area must attempt a DC 36 Reflex check save.\n* * *\n\n**Critical Success** The creature is unaffected.\n\n**Success** The creature takes half damage.\n\n**Failure** The creature takes full damage and is [[Conditions/Slowed|Slowed 1]] until the end of its next turn.\n\n**Critical Failure** The creature takes double damage and is [[Conditions/Stunned|Stunned 3]]."
 
   - name: "[[Bestiary Ability Glossary/Swallow Whole|Swallow Whole]]"
-    desc: "`pf2:1` (attack) Medium,3d12 + 12 bludgeoning damage, Rupture 36\n"
+    desc: "`pf2:1` (attack) Medium,3d12+12 bludgeoning damage, Rupture 36\n\n* * *\n"
 
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
     desc: "`pf2:1`  "
  
+```
+
+```encounter-table
+name: Grave Spinosaurus
+creatures:
+  - 1: Grave Spinosaurus
 ```
 
 

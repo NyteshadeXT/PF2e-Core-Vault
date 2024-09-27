@@ -5,6 +5,7 @@ noteType: pf2eHazard
 tags:
   - mechanical
   - trap
+  - pf2eHazard
 
 source: Pathfinder Adventure: Troubles in Otari
 aliases: "Compendium.pf2e.troubles-in-otari-bestiary.Actor.b8Wgun7T7sh7NVrd" 
@@ -22,14 +23,14 @@ name: "Web Lurker Noose"
 level: "Hazard 2"
 
 
-trait_01: "mechanical"
-trait_02: "trap"
+trait_01: [[mechanical]]
+trait_02: [[trap]]
 modifier: 12
 sourcebook: "_Pathfinder Adventure: Troubles in Otari_"
 ac: 18
 armorclass:
   - name: AC
-    desc: "18; __Fort__ +11, __Ref__ +5, __Will__ +0"
+    desc: "18; __Fort__ +11, __Ref__ +5, "
 hp: 16
 health:
   - name: ""
@@ -57,5 +58,11 @@ attacks:
 
 
 
+```
+
+```encounter-table
+name: Web Lurker Noose
+creatures:
+  - 1: Web Lurker Noose
 ```
 

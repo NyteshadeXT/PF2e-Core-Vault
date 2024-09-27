@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.pfs-season-5-bestiary.Actor.mfyZrC0GcyUcGZJK"
 tags:
   - pf2e/creature/type/chaotic
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/-1
 statblock: inline
 name: "Goldmonger"
@@ -21,11 +22,11 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Society Scenario #5-04: Necessary Introductions"
 name: "Goldmonger"
 level: "Creature -1"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Medium"
-trait_01: "chaotic"
-trait_02: "humanoid"
+trait_01: [[chaotic]]
+trait_02: [[humanoid]]
 modifier: 5
 perception:
   - name: "Perception"
@@ -61,6 +62,12 @@ attacks:
   - name: "Melee"
     desc: "`pf2:1` Pick +8 ()\n__Damage__  1d6 piercing"
  
+```
+
+```encounter-table
+name: Goldmonger
+creatures:
+  - 1: Goldmonger
 ```
 
 

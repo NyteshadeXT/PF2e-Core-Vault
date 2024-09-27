@@ -40,7 +40,7 @@ This elegant black, gold-tipped _+1 striking fighting fan_ is adorned with image
 
 * * *
 
-**Effect** You sweep the spirit fan in the direction of a single target you can see within 30 feet, releasing the life energy in the form of a streak of golden light. The spirit fan goes dark. If the target is a living creature, the energy restores 3d8 + 8 Hit Points. If the target is undead, it takes 2d8 + 8 vitality damage (DC 23 Fortitude check save).
+**Effect** You sweep the spirit fan in the direction of a single target you can see within 30 feet, releasing the life energy in the form of a streak of golden light. The spirit fan goes dark. If the target is a living creature, the energy restores 3d8+8 healing Hit Points. If the target is undead, it takes 2d8+8 vitality damage (DC 23 Fortitude check save).
 
 *Source: Pathfinder #197: Let the Leaves Fall*
 *OGL*

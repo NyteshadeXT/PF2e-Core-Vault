@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/beast
   - pf2e/creature/type/chaotic
   - pf2e/creature/type/evil
+  - pf2eMonster
   - pf2e/creature/level/8
 statblock: inline
 name: "Angazhani"
@@ -26,9 +27,9 @@ level: "Creature 8"
 
 alignment: ""
 size: "Large"
-trait_01: "beast"
-trait_02: "chaotic"
-trait_03: "evil"
+trait_01: [[beast]]
+trait_02: [[chaotic]]
+trait_03: [[evil]]
 modifier: 18
 perception:
   - name: "Perception"
@@ -55,7 +56,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Defensive Disarm"
-    desc: "`pf2:r`  **Trigger** A creature makes a melee weapon Strike against the angazhani and misses\n**Requirements** The angazhani is benefiting from their Defensive Slam\n**Effect** The angazhani attempts to [[Actions/Disarm|Disarm]] the attacker of the triggering weapon."
+    desc: "`pf2:r`  **Trigger** A creature makes a melee weapon Strike against the angazhani and misses\n\n**Requirements** The angazhani is benefiting from their Defensive Slam\n* * *\n\n**Effect** The angazhani attempts to [[Actions/Disarm|Disarm]] the attacker of the triggering weapon."
 
 attacks:
   - name: ""
@@ -70,17 +71,23 @@ attacks:
     desc: "DC 24, attack +16; __6th __  _[[Spells/Dominate|Dominate]]_; __3rd __  _[[Spells/Fear|Fear (x2)]]_"
 
   - name: "Defensive Slam"
-    desc: "`pf2:2`  The angazhani uses their arms to defend themself while attacking. The angazhani Strikes once and gains a +2 circumstance bonus to AC until the start of their next turn.\n[[Bestiary Effects/Effect_ Defensive Slam|Effect: Defensive Slam]]"
+    desc: "`pf2:2`  The angazhani uses their arms to defend themself while attacking. The angazhani Strikes once and gains a +2 circumstance bonus to AC until the start of their next turn.\n\n[[Bestiary Effects/Effect_ Defensive Slam|Effect: Defensive Slam]]"
 
   - name: "Focused Slam"
-    desc: "`pf2:2`  The angazhani beats a single opponent with all four of their brawny arms, leaving their foe nowhere to dodge.\nThe angazhani makes a fist Strike. On a successful attack, they deal fist damage to the target plus an additional 3d8 damage, and they meet the requirements to Rend the target this turn, even if they didn't hit on two consecutive Strikes. Even on a failed attack, the angazhani deals the damage from one fist Strike to the target, though they still miss completely on a critical failure.\nThis ability counts as four attacks toward an angazhani's multiple attack penalty. After using this ability, the angazhani is [[Conditions/Off-Guard|Off-Guard]] until the beginning of their next turn."
+    desc: "`pf2:2`  The angazhani beats a single opponent with all four of their brawny arms, leaving their foe nowhere to dodge.\n\nThe angazhani makes a fist Strike. On a successful attack, they deal fist damage to the target plus an additional 3d8 damage, and they meet the requirements to Rend the target this turn, even if they didn't hit on two consecutive Strikes. Even on a failed attack, the angazhani deals the damage from one fist Strike to the target, though they still miss completely on a critical failure.\n\nThis ability counts as four attacks toward an angazhani's multiple attack penalty. After using this ability, the angazhani is [[Conditions/Off-Guard|Off-Guard]] until the beginning of their next turn."
 
   - name: "Pummeling Charge"
     desc: "`pf2:3`  The angazhani rushes up to a foe at extreme speed and slams down with their fists. The angazhani Strides or Climbs up to three times, then makes two fist Strikes against one enemy within reach."
 
   - name: "[[Bestiary Ability Glossary/Rend|Rend]]"
-    desc: "`pf2:1`  Fist\n"
+    desc: "`pf2:1`  Fist\n\n* * *\n"
  
+```
+
+```encounter-table
+name: Angazhani
+creatures:
+  - 1: Angazhani
 ```
 
 

@@ -13,7 +13,7 @@ license: OGL
 ---
 # Veiled Figurehead
 ## Item 7
-### [[figurehead]][[magical]][[3-Rules/Rule References/Water]]
+### [[figurehead]][[magical]][[water]]
 
 
 **Price** 335 gp; 

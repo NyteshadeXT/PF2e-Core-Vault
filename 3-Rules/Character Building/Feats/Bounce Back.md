@@ -21,11 +21,11 @@ license: ORC
 
 **Frequency** once per day
 
-**Trigger** You lose the [[Conditions/Dying 1|Dying]] condition.
+**Trigger** You lose the [[Conditions/Dying|Dying]] condition.
 
 * * *
 
-You recover from near-death experiences with astounding resilience. Don't increase the value of your [[Conditions/Wounded 1|Wounded]] condition due to losing the dying condition.
+You recover from near-death experiences with astounding resilience. Don't increase the value of your [[Conditions/Wounded|Wounded]] condition due to losing the dying condition.
 
 *Source: Pathfinder Player Core*
 *ORC*

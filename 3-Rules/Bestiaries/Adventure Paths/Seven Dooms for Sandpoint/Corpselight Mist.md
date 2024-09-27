@@ -5,6 +5,7 @@ noteType: pf2eHazard
 tags:
   - environmental
   - magical
+  - pf2eHazard
 
 source: Pathfinder #200: Seven Dooms for Sandpoint
 aliases: "Compendium.pf2e.seven-dooms-for-sandpoint-bestiary.Actor.iLKiiMo1s5kz5vQh" 
@@ -22,8 +23,8 @@ name: "Corpselight Mist"
 level: "Hazard 6"
 
 
-trait_01: "environmental"
-trait_02: "magical"
+trait_01: [[environmental]]
+trait_02: [[magical]]
 modifier: 0
 sourcebook: "_Pathfinder #200: Seven Dooms for Sandpoint_"
 perception:
@@ -42,10 +43,16 @@ attacks:
   - name: ""
 
   - name: "Decay Flesh"
-    desc: "`pf2:r` **Trigger** A creature ends its turn within the mist\n**Effect** The mist swiftly decays the flesh of all living creatures in the pit, inflicting 10d6 void damage (DC 27 Fortitude check save)."
+    desc: "`pf2:r` **Trigger** A creature ends its turn within the mist\n* * *\n\n**Effect** The mist swiftly decays the flesh of all living creatures in the pit, inflicting 10d6 void damage (DC 27 Fortitude check save)."
 
 
   - name: "Reset"
     desc: "The hazard resets automatically at the end of a turn and can trigger again the next round."
+```
+
+```encounter-table
+name: Corpselight Mist
+creatures:
+  - 1: Corpselight Mist
 ```
 

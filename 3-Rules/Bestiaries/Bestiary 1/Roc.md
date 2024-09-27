@@ -6,6 +6,7 @@ cssClasses: pf2e
 aliases: "Compendium.pf2e.pathfinder-bestiary.Actor.2HvXtedQziTTfI0S" 
 tags:
   - pf2e/creature/type/animal
+  - pf2eMonster
   - pf2e/creature/level/9
 statblock: inline
 name: "Roc"
@@ -24,11 +25,12 @@ level: "Creature 9"
 
 alignment: ""
 size: "grg"
-trait_01: "animal"
+trait_01: [[animal]]
 modifier: 18
 perception:
   - name: "Perception"
     desc: "+18; Low-Light Vision"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Acrobatics: +15, Athletics: +21"
@@ -50,7 +52,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Wing Rebuff"
-    desc: "`pf2:r`  **Trigger** A creature moves from beyond the reach of the roc's wing to within the reach of the roc's wing.\n**Effect** The roc makes a wing Strike against the triggering creature. If the roc Pushes the creature, it disrupts the triggering move action."
+    desc: "`pf2:r`  **Trigger** A creature moves from beyond the reach of the roc's wing to within the reach of the roc's wing.\n* * *\n\n**Effect** The roc makes a wing Strike against the triggering creature. If the roc Pushes the creature, it disrupts the triggering move action."
 
 attacks:
   - name: ""
@@ -73,6 +75,12 @@ attacks:
   - name: "Snatch"
     desc: "  A roc can Fly at half Speed while it has a creature [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]] in either or both of its talons, carrying that creature along with it."
  
+```
+
+```encounter-table
+name: Roc
+creatures:
+  - 1: Roc
 ```
 
 

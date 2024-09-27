@@ -10,6 +10,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/giant
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/19
 statblock: inline
 name: "Kargstaad"
@@ -24,14 +25,14 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Kingmaker"
 name: "Kargstaad"
 level: "Creature 19"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Large"
-trait_01: "chaotic"
-trait_02: "cold"
-trait_03: "evil"
-trait_04: "giant"
-trait_05: "humanoid"
+trait_01: [[chaotic]]
+trait_02: [[cold]]
+trait_03: [[evil]]
+trait_04: [[giant]]
+trait_05: [[humanoid]]
 modifier: 33
 perception:
   - name: "Perception"
@@ -39,7 +40,7 @@ perception:
 languages: "Aklo, Common, Fey, Jotun"
 skills:
   - name: "Skills"
-    desc: "Athletics: +39, Crafting: +33, Intimidation: +37, Stealth: +33 (+37 in snow)"
+    desc: "Athletics: +39, Crafting: +33, Intimidation: +37, Stealth: +33"
 abilityMods: [10, 6, 8, 4, 6, 8]
 speed: 30 feet
 sourcebook: "_Pathfinder Kingmaker_"
@@ -71,22 +72,22 @@ attacks:
   - name: ""
 
   - name: "Melee"
-    desc: "`pf2:1` Hatchet +37 (agile, magical, sweep)\n__Damage__  3d6 + 18 slashing"
+    desc: "`pf2:1` Hatchet +37 (agile, magical, sweep)\n__Damage__  3d6 + 18 slashing 2d6 cold"
 
   - name: "Ranged"
     desc: "`pf2:1` Rock +35 (brutal, range increment 120 feet)\n__Damage__  2d10 + 18 bludgeoning plus rock"
 
   - name: "Chill Breath"
-    desc: "`pf2:1` (cold,primal) The frost giant breathes out a 15-foot cone of freezing moisture that quickly condenses into ice, dealing 9d6 cold damage. Each creature in the cone must attempt a DC 41 Reflex check save.\nA creature that fails its save is also [[Conditions/Immobilized|Immobilized]] and takes 2d6 cold damage at the end of each of its turns until it gets free (Escape DC 41).\nThe giant can't use Chill Breath again for 1d4 rounds."
+    desc: "`pf2:1` (cold,primal) The frost giant breathes out a 15-foot cone of freezing moisture that quickly condenses into ice, dealing 9d6 cold damage. Each creature in the cone must attempt a DC 41 Reflex check save.\n\nA creature that fails its save is also [[Conditions/Immobilized|Immobilized]] and takes 2d6 cold damage at the end of each of its turns until it gets free (Escape DC 41).\n\nThe giant can't use Chill Breath again for 1d4 rounds."
 
   - name: "Hatchet Onslaught"
-    desc: "`pf2:3`  **Requirements** Each of Kargstaad's four hands wields a hatchet.\n**Effect** Kargstaad Strides up to half his speed, then makes four hatchet Strikes, applying his multiple attack penalty as normal."
+    desc: "`pf2:3`  **Requirements** Each of Kargstaad's four hands wields a hatchet.\n* * *\n\n**Effect** Kargstaad Strides up to half his speed, then makes four hatchet Strikes, applying his multiple attack penalty as normal."
 
   - name: "Ice Stride"
     desc: "  A frost giant isn't impeded by difficult terrain caused by snow or ice, nor does it need to attempt Acrobatics checks to keep from falling on slippery ice."
 
   - name: "Rage"
-    desc: "`pf2:1`  **Requirements** Kargstaad isn't [[Conditions/Fatigued|Fatigued]] or raging.\n**Effect** Kargstaad gains 25 temporary hit points, deals an extra 12 points of damage with thrown rocks, and deals an extra 6 points of damage with hatchets. He takes a -1 penalty to AC and can't use actions with the concentrate trait (except [[Actions/Seek|Seek]]) unless they also have the rage trait.\n[[Feat_Feature Effects/Effect_ Rage|Effect: Rage]]"
+    desc: "`pf2:1`  **Requirements** Kargstaad isn't [[Conditions/Fatigued|Fatigued]] or raging.\n* * *\n\n**Effect** Kargstaad gains 25 temporary hit points, deals an extra 12 points of damage with thrown rocks, and deals an extra 6 points of damage with hatchets. He takes a -1 penalty to AC and can't use actions with the concentrate trait (except [[Actions/Seek|Seek]]) unless they also have the rage trait.\n\n[[Feat_Feature Effects/Effect_ Rage|Effect: Rage]]"
 
   - name: "[[Bestiary Ability Glossary/Throw Rock|Throw Rock]]"
     desc: "`pf2:1`  "
@@ -94,6 +95,12 @@ attacks:
   - name: "Wide Swing"
     desc: "`pf2:1`  The frost giant makes a single greataxe Strike and compares the attack roll result to the ACs of up to two foes within its reach. This counts as two attacks for the frost giant's multiple attack penalty."
  
+```
+
+```encounter-table
+name: Kargstaad
+creatures:
+  - 1: Kargstaad
 ```
 
 

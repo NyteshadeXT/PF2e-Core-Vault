@@ -6,6 +6,7 @@ cssClasses: pf2e
 aliases: "Compendium.pf2e.pathfinder-bestiary-3.Actor.kSk6QjH4wDGPPFrY" 
 tags:
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/2
 statblock: inline
 name: "Rokurokubi"
@@ -24,7 +25,7 @@ level: "Creature 2"
 
 alignment: ""
 size: "Medium"
-trait_01: "humanoid"
+trait_01: [[humanoid]]
 modifier: 9
 perception:
   - name: "Perception"
@@ -32,7 +33,7 @@ perception:
 languages: "Common"
 skills:
   - name: "Skills"
-    desc: "Athletics: +7, Deception: +8, Diplomacy: +8, Intimidation: +8 (+10 to Demoralize with Threatening Lunge), Society: +6, Stealth: +8"
+    desc: "Athletics: +7, Deception: +8, Diplomacy: +8, Intimidation: +8, Society: +6, Stealth: +8"
 abilityMods: [3, 4, 3, 2, 3, 4]
 speed: 25 feet
 sourcebook: "_Pathfinder Bestiary 3_"
@@ -51,10 +52,10 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "[[Bestiary Ability Glossary/Attack of Opportunity|Attack of Opportunity (Jaws Only)]]"
-    desc: "`pf2:r`  Jaws Only\n"
+    desc: "`pf2:r`  Jaws Only\n\n* * *\n"
 
   - name: "Drink Oil"
-    desc: "`pf2:r`  **Trigger** The rokurokubi is the target of an alchemical bomb Strike\n**Requirements** The rokurokubi is aware of the attack, not [[Conditions/Off-Guard|Off-Guard]] against it, and doesn't have a creature [[Conditions/Grabbed|Grabbed]] with their jaws\n**Effect** The rokurokubi attempts to catch the flung bomb in their mouth. They gain a +4 circumstance bonus to AC against the triggering attack. If the attack misses, they catch the bomb in their mouth and harmlessly drink its contents down, regaining Hit Points equal to the bomb's item level."
+    desc: "`pf2:r`  **Trigger** The rokurokubi is the target of an alchemical bomb Strike\n\n**Requirements** The rokurokubi is aware of the attack, not [[Conditions/Off-Guard|Off-Guard]] against it, and doesn't have a creature [[Conditions/Grabbed|Grabbed]] with their jaws\n* * *\n\n**Effect** The rokurokubi attempts to catch the flung bomb in their mouth. They gain a +4 circumstance bonus to AC against the triggering attack. If the attack misses, they catch the bomb in their mouth and harmlessly drink its contents down, regaining Hit Points equal to the bomb's item level."
 
 attacks:
   - name: ""
@@ -69,8 +70,14 @@ attacks:
     desc: "`pf2:1`  The rokurokubi extends their neck, increasing the reach of their jaws Strike from 10 feet to 20 feet until the end of their next turn."
 
   - name: "Threatening Lunge"
-    desc: "`pf2:2`  **Requirements** The rokurokubi's neck is not currently extended\n**Effect** The rokurokubi's head comes within an inch of their target's face before striking. They Extend their Neck, attempt to [[Actions/Demoralize|Demoralize]] one opponent within 20 feet, and then make a jaws Strike against that opponent.\nTheir Demoralize check is a visual rather than auditory effect, and they don't take a penalty if the target doesn't understand their language."
+    desc: "`pf2:2`  **Requirements** The rokurokubi's neck is not currently extended\n* * *\n\n**Effect** The rokurokubi's head comes within an inch of their target's face before striking. They Extend their Neck, attempt to [[Actions/Demoralize|Demoralize]] one opponent within 20 feet, and then make a jaws Strike against that opponent.\n\nTheir Demoralize check is a visual rather than auditory effect, and they don't take a penalty if the target doesn't understand their language."
  
+```
+
+```encounter-table
+name: Rokurokubi
+creatures:
+  - 1: Rokurokubi
 ```
 
 

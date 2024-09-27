@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.pathfinder-bestiary.Actor.LUtSo30fQWj7mrDn"
 tags:
   - pf2e/creature/type/air
   - pf2e/creature/type/elemental
+  - pf2eMonster
   - pf2e/creature/level/9
 statblock: inline
 name: "Storm Lord"
@@ -25,8 +26,8 @@ level: "Creature 9"
 
 alignment: ""
 size: "Large"
-trait_01: "air"
-trait_02: "elemental"
+trait_01: [[air]]
+trait_02: [[elemental]]
 modifier: 18
 perception:
   - name: "Perception"
@@ -53,7 +54,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Disperse"
-    desc: "`pf2:r`  **Trigger** The storm lord takes damage from a hostile action.\n**Effect** The storm lord disperses.\nUntil the end of the current turn, it can't be attacked or targeted, doesn't take up space, and any auras or emanations it has are suppressed. At the end of the turn, the storm lord reforms in any space in which it can fit within 50 feet of where it dispersed and any auras or emanations it has are restored as long as their duration didn't run out while it was dispersed."
+    desc: "`pf2:r`  **Trigger** The storm lord takes damage from a hostile action.\n* * *\n\n**Effect** The storm lord disperses.\n\nUntil the end of the current turn, it can't be attacked or targeted, doesn't take up space, and any auras or emanations it has are suppressed. At the end of the turn, the storm lord reforms in any space in which it can fit within 50 feet of where it dispersed and any auras or emanations it has are restored as long as their duration didn't run out while it was dispersed."
 
   - name: "High Winds"
     desc: " (air,aura) 20 feet. Air within the emanation is difficult terrain for Flying creatures that do not have the air trait."
@@ -73,6 +74,12 @@ attacks:
   - name: "[[Bestiary Ability Glossary/Push|Push 5 feet]]"
     desc: "`pf2:1`  "
  
+```
+
+```encounter-table
+name: Storm Lord
+creatures:
+  - 1: Storm Lord
 ```
 
 

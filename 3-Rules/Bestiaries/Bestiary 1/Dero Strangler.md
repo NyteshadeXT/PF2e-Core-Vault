@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/dero
   - pf2e/creature/type/evil
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/3
 statblock: inline
 name: "Dero Strangler"
@@ -27,10 +28,10 @@ level: "Creature 3"
 
 alignment: ""
 size: "Small"
-trait_01: "chaotic"
-trait_02: "dero"
-trait_03: "evil"
-trait_04: "humanoid"
+trait_01: [[chaotic]]
+trait_02: [[dero]]
+trait_03: [[evil]]
+trait_04: [[humanoid]]
 modifier: 6
 perception:
   - name: "Perception"
@@ -76,8 +77,14 @@ attacks:
     desc: "DC 19, attack +11; __2nd __  _[[Spells/Darkness|Darkness (At Will)]]_, _[[Spells/Noise Blast|Sound Burst]]_\n__Cantrips__  __(2nd)__ _[[Spells/Daze|Daze]]_, _[[Spells/Ghost Sound|Ghost Sound]]_"
 
   - name: "Strangle"
-    desc: "`pf2:1` (attack,nonlethal) **Requirements** The dero must have two free hands, or be wielding an aklys and have one hand free.\n**Effect** The dero attempts an Athletics check check to [[Actions/Grapple|Grab]] with a +2 circumstance bonus. On a success, the target takes 1d6 + 6 bludgeoning damage. Double the damage on a critical success."
+    desc: "`pf2:1` (attack,nonlethal) **Requirements** The dero must have two free hands, or be wielding an aklys and have one hand free.\n* * *\n\n**Effect** The dero attempts an Athletics check check to [[Actions/Grapple|Grab]] with a +2 circumstance bonus. On a success, the target takes 1d6+6 bludgeoning damage. Double the damage on a critical success."
  
+```
+
+```encounter-table
+name: Dero Strangler
+creatures:
+  - 1: Dero Strangler
 ```
 
 

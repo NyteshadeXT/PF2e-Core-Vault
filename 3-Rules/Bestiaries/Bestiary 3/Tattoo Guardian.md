@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.pathfinder-bestiary-3.Actor.FjiovYhLSHDX0ODl"
 tags:
   - pf2e/creature/type/construct
   - pf2e/creature/type/mindless
+  - pf2eMonster
   - pf2e/creature/level/3
 statblock: inline
 name: "Tattoo Guardian"
@@ -22,15 +23,16 @@ token: [[modules/pf2e-tokens-bestiaries/portraits/constructed/magical/tattoo-gua
 source: "Pathfinder Bestiary 3"
 name: "Tattoo Guardian"
 level: "Creature 3"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Small"
-trait_01: "construct"
-trait_02: "mindless"
+trait_01: [[construct]]
+trait_02: [[mindless]]
 modifier: 8
 perception:
   - name: "Perception"
     desc: "+8; Darkvision"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Acrobatics: +11"
@@ -52,7 +54,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Retaliate"
-    desc: "`pf2:r`  **Trigger** A creature within the tattoo guardian's reach attacks the guardian's ward\n**Effect** The tattoo guardian makes an ink blade Strike against the triggering creature."
+    desc: "`pf2:r`  **Trigger** A creature within the tattoo guardian's reach attacks the guardian's ward\n* * *\n\n**Effect** The tattoo guardian makes an ink blade Strike against the triggering creature."
 
 attacks:
   - name: ""
@@ -61,14 +63,20 @@ attacks:
     desc: "`pf2:1` Ink Blade +10 ()\n__Damage__  1d12 + 5 slashing"
 
   - name: "Bond with Ward"
-    desc: "`pf2:1` (concentrate,move) **Requirements** The tattoo guardian is adjacent to its ward\n**Effect** The tattoo guardian enters its ward's space and applies itself to the creature's flesh or another suitable surface on the creature. The tattoo guardian occupies the same space as its ward and moves with its ward. While worn, the tattoo guardian establishes a constant [[Spells/Share Life|Share Life]] effect with its ward. Attacks that target the tattoo guardian target the ward instead, but use the higher AC or saving throw values between the tattoo guardian and the ward. Area effects apply to both the tattoo guardian and the ward, as normal for an area effect."
+    desc: "`pf2:1` (concentrate,move) **Requirements** The tattoo guardian is adjacent to its ward\n* * *\n\n**Effect** The tattoo guardian enters its ward's space and applies itself to the creature's flesh or another suitable surface on the creature. The tattoo guardian occupies the same space as its ward and moves with its ward. While worn, the tattoo guardian establishes a constant [[Spells/Share Life|Share Life]] effect with its ward. Attacks that target the tattoo guardian target the ward instead, but use the higher AC or saving throw values between the tattoo guardian and the ward. Area effects apply to both the tattoo guardian and the ward, as normal for an area effect."
 
   - name: "Fly Free"
-    desc: "`pf2:1` (concentrate,move) **Requirements** The tattoo guardian is Bonded with its Ward\n**Effect** The tattoo guardian removes itself from the ward and enters an adjacent space."
+    desc: "`pf2:1` (concentrate,move) **Requirements** The tattoo guardian is Bonded with its Ward\n* * *\n\n**Effect** The tattoo guardian removes itself from the ward and enters an adjacent space."
 
   - name: "Interpose"
-    desc: "`pf2:1`  **Requirements** The tattoo guardian is Bonded with or adjacent to its ward\n**Effect** The tattoo guardian interposes itself between the ward and its foes, granting its ward a +2 circumstance bonus to AC until the start of the guardian's next turn.\n[[Bestiary Effects/Effect_ Interpose|Effect: Interpose]]"
+    desc: "`pf2:1`  **Requirements** The tattoo guardian is Bonded with or adjacent to its ward\n* * *\n\n**Effect** The tattoo guardian interposes itself between the ward and its foes, granting its ward a +2 circumstance bonus to AC until the start of the guardian's next turn.\n\n[[Bestiary Effects/Effect_ Interpose|Effect: Interpose]]"
  
+```
+
+```encounter-table
+name: Tattoo Guardian
+creatures:
+  - 1: Tattoo Guardian
 ```
 
 

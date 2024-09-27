@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/aberration
   - pf2e/creature/type/chaotic
   - pf2e/creature/type/good
+  - pf2eMonster
   - pf2e/creature/level/12
 statblock: inline
 name: "Fosterkin"
@@ -23,12 +24,12 @@ token: [[modules/battlezoo-bestiary-su-pf2e/art/Portraits/fosterkin.webp| ]]
 source: "Battlezoo Bestiary: Strange and Unusual"
 name: "Fosterkin"
 level: "Creature 12"
-rare_03: "Rare"
+rare_03: [[Rare]]
 alignment: ""
 size: "Medium"
-trait_01: "aberration"
-trait_02: "chaotic"
-trait_03: "good"
+trait_01: [[aberration]]
+trait_02: [[chaotic]]
+trait_03: [[good]]
 modifier: 22
 perception:
   - name: "Perception"
@@ -36,7 +37,7 @@ perception:
 languages: "Common, Fey"
 skills:
   - name: "Skills"
-    desc: "Athletics: +22, Deception: +7 (+25 to Impersonate a fur coat or rug), Occultism: +22, Stealth: +25, Parenting Lore: +20"
+    desc: "Athletics: +22, Deception: +7, Occultism: +22, Stealth: +25, Athletics: +22, Deception: +7, Occultism: +22, Stealth: +25, Parenting Lore: +20"
 abilityMods: [5, 4, 3, 2, 5, 7]
 speed: 30 feet
 sourcebook: "_Battlezoo Bestiary: Strange and Unusual_"
@@ -55,7 +56,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Comforting Aura"
-    desc: " (aura,emotion,mental,occult) 30 feet. Allies in the fosterkin's aura feel soothing comfort. At the beginning of their turns, they reduce their frightened condition by 1 (in addition to reducing it normally at the end of their turns). Additionally, if they have the Fleeing condition from a fear effect, they can choose to take no actions and stay in place, rather than running away, whichever they prefer."
+    desc: " (aura,emotion,mental,occult) 30 feet. Allies in the fosterkin's aura feel soothing comfort. At the beginning of their turns, they reduce their frightened condition by 1 (in addition to reducing it normally at the end of their turns). Additionally, if they have the [[undefined]] condition from a fear effect, they can choose to take no actions and stay in place, rather than running away, whichever they prefer."
 
 attacks:
   - name: ""
@@ -70,8 +71,14 @@ attacks:
     desc: "  The fosterkin can make nonlethal fist Strikes without penalty."
 
   - name: "Sleepy Embrace"
-    desc: "`pf2:2` (incapacitation,occult,sleep) **Requirements** The fosterkin has a creature Grabbed with its fist.\n**Effect** The fosterkin rocks the target to sleep, with a DC 32 Will check save.\n**Critical Success** The target is unaffected.\n**Success** The target is Enfeebled 1 for 1 minute.\n**Failure** The target falls Unconscious for 1d6 rounds and is Enfeebled 2 for 1 minute. For the duration of the unconscious condition, they can't attempt Perception checks to wake up.\n**Critical Failure** The target falls unconscious and is Enfeebled 4, both for 1 minute. For the duration of the unconscious condition, they can't attempt Perception checks to wake up."
+    desc: "`pf2:2` (incapacitation,occult,sleep) **Requirements** The fosterkin has a creature [[undefined]] with its fist.\n* * *\n\n**Effect** The fosterkin rocks the target to sleep, with a DC 32 Will check save.\n* * *\n\n**Critical Success** The target is unaffected.\n\n**Success** The target is [[undefined]] for 1 minute.\n\n**Failure** The target falls [[undefined]] for 1d6 rounds and is [[undefined]] for 1 minute. For the duration of the unconscious condition, they can't attempt Perception checks to wake up.\n\n**Critical Failure** The target falls unconscious and is [[undefined]], both for 1 minute. For the duration of the unconscious condition, they can't attempt Perception checks to wake up."
  
+```
+
+```encounter-table
+name: Fosterkin
+creatures:
+  - 1: Fosterkin
 ```
 
 

@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/human
   - pf2e/creature/type/humanoid
   - pf2e/creature/type/lawful
+  - pf2eMonster
   - pf2e/creature/level/5
 statblock: inline
 name: "Blue Streak Mage (7-8)"
@@ -22,12 +23,12 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Society Scenario #1-24: Lightning Strikes, Stars Fall"
 name: "Blue Streak Mage (7-8)"
 level: "Creature 5"
-rare_03: "Rare"
+rare_03: [[Rare]]
 alignment: ""
 size: "Medium"
-trait_01: "human"
-trait_02: "humanoid"
-trait_03: "lawful"
+trait_01: [[human]]
+trait_02: [[humanoid]]
+trait_03: [[lawful]]
 modifier: 10
 perception:
   - name: "Perception"
@@ -55,7 +56,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Stench of Decay"
-    desc: " (arcane,aura,poison) 5 feet. The Blue Streak mage emits a scent of putrid rot in a 5-foot emanation. A creature that enters or begins its turn in the aura is [[Conditions/Sickened 1|Sickened 1]]."
+    desc: " (arcane,aura,poison) 5 feet. The Blue Streak mage emits a scent of putrid rot in a 5-foot emanation. A creature that enters or begins its turn in the aura is [[Conditions/Sickened|Sickened 1]]."
 
 attacks:
   - name: ""
@@ -73,8 +74,14 @@ attacks:
     desc: "1 Focus Point, DC 21, attack +13; __3rd __  _[[Spells/Call of the Grave|Call of the Grave]]_"
 
   - name: "Drain Bonded Item"
-    desc: "`pf2:1` (arcane) **Frequency** once per day **Requirements** The Blue Streak mage hasn't taken an action yet on this turn\n**Effect** The Blue Streak mage expends the power stored in their mace. This gives them the ability to cast one prepared spell they prepared today and already cast, without spending a spell slot."
+    desc: "`pf2:1` (arcane) **Frequency** once per day **Requirements** The Blue Streak mage hasn't taken an action yet on this turn\n* * *\n\n**Effect** The Blue Streak mage expends the power stored in their mace. This gives them the ability to cast one prepared spell they prepared today and already cast, without spending a spell slot."
  
+```
+
+```encounter-table
+name: Blue Streak Mage (7-8)
+creatures:
+  - 1: Blue Streak Mage (7-8)
 ```
 
 

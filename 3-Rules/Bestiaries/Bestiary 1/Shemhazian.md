@@ -10,6 +10,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/fiend
   - pf2e/creature/type/unholy
+  - pf2eMonster
   - pf2e/creature/level/16
 statblock: inline
 name: "Shemhazian"
@@ -28,16 +29,16 @@ level: "Creature 16"
 
 alignment: ""
 size: "grg"
-trait_01: "chaotic"
-trait_02: "demon"
-trait_03: "evil"
-trait_04: "fiend"
-trait_05: "unholy"
+trait_01: [[chaotic]]
+trait_02: [[demon]]
+trait_03: [[evil]]
+trait_04: [[fiend]]
+trait_05: [[unholy]]
 modifier: 30
 perception:
   - name: "Perception"
     desc: "+30; Darkvision, Scent (Imprecise) 60 Feet"
-languages: "Chthonian, Draconic, Empyrean"
+languages: "Chthonian, Draconic, Empyrean; telepathy 100 feet"
 skills:
   - name: "Skills"
     desc: "Athletics: +31, Deception: +25, Intimidation: +27, Medicine: +28, Religion: +30"
@@ -59,13 +60,13 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Paralyzing Gaze"
-    desc: " (aura,divine,visual) 30 feet. A non-evil creature that ends its turn in the aura must attempt a DC 35 Fortitude check save. If it fails, it's [[Conditions/Slowed 1|Slowed 1]] for 1 round, and if it critically fails, it is instead [[Conditions/Paralyzed|Paralyzed]] for 1 round."
+    desc: " (aura,divine,visual) 30 feet. A non-evil creature that ends its turn in the aura must attempt a DC 35 Fortitude check save. If it fails, it's [[Conditions/Slowed|Slowed 1]] for 1 round, and if it critically fails, it is instead [[Conditions/Paralyzed|Paralyzed]] for 1 round."
 
   - name: "Succor Vulnerability"
     desc: "  A shemhazian's mutilation is a part of them, and they can't bear to see it reversed. The first time each round that a creature heals from damage the shemhazian dealt on their last turn, the demon takes 3d6 mental damage."
 
   - name: "Tail Whip"
-    desc: "`pf2:r`  **Trigger** A creature within reach of the shemhazian's tail leaves a square during a move action it's using.\n**Effect** The shemhazian attempts to [[Actions/Trip|Trip]] the triggering creature. On a success, the creature also takes damage as if the shemhazian had hit with a tail Strike, and if the creature was flying, it falls 30 feet."
+    desc: "`pf2:r`  **Trigger** A creature within reach of the shemhazian's tail leaves a square during a move action it's using.\n* * *\n\n**Effect** The shemhazian attempts to [[Actions/Trip|Trip]] the triggering creature. On a success, the creature also takes damage as if the shemhazian had hit with a tail Strike, and if the creature was flying, it falls 30 feet."
 
 attacks:
   - name: ""
@@ -89,14 +90,20 @@ attacks:
     desc: "_[[Spells/Demonic Pact|Abyssal Pact]]_"
 
   - name: "Enfeebling Bite"
-    desc: " (divine) If the shemhazian's jaws Strike damages a creature, the target is [[Conditions/Enfeebled 1|Enfeebled 3]]. The target can attempt a DC 37 Fortitude check save to reduce this to [[Conditions/Enfeebled 1|Enfeebled 1]] (or be unaffected on a critical success)."
+    desc: " (divine) If the shemhazian's jaws Strike damages a creature, the target is [[Conditions/Enfeebled|Enfeebled 3]]. The target can attempt a DC 37 Fortitude check save to reduce this to [[Conditions/Enfeebled|Enfeebled 1]] (or be unaffected on a critical success)."
 
   - name: "Focused Gaze"
-    desc: "`pf2:1` (concentrate,divine,incapacitation,visual) The shemhazian focuses their gaze on a non-evil creature they can see within 30 feet. If that creature isn't already [[Conditions/Slowed 1|Slowed]] by the shemhazian's paralyzing gaze, it must attempt a save against the shemhazian's paralyzing gaze. If that creature is slowed, it must succeed at a DC 35 Fortitude check save or be [[Conditions/Paralyzed|Paralyzed]] for 1 round. A shemhazian can't use this ability against the same creature more than once per round."
+    desc: "`pf2:1` (concentrate,divine,incapacitation,visual) The shemhazian focuses their gaze on a non-evil creature they can see within 30 feet. If that creature isn't already [[Conditions/Slowed|Slowed]] by the shemhazian's paralyzing gaze, it must attempt a save against the shemhazian's paralyzing gaze. If that creature is slowed, it must succeed at a DC 35 Fortitude check save or be [[Conditions/Paralyzed|Paralyzed]] for 1 round. A shemhazian can't use this ability against the same creature more than once per round."
 
   - name: "[[Bestiary Ability Glossary/Rend|Rend]]"
-    desc: "`pf2:1`  Claw\n"
+    desc: "`pf2:1`  Claw\n\n* * *\n"
  
+```
+
+```encounter-table
+name: Shemhazian
+creatures:
+  - 1: Shemhazian
 ```
 
 

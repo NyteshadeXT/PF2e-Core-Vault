@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/inevitable
   - pf2e/creature/type/lawful
   - pf2e/creature/type/monitor
+  - pf2eMonster
   - pf2e/creature/level/10
 statblock: inline
 name: "Arcarayut"
@@ -27,18 +28,18 @@ level: "Creature 10"
 
 alignment: ""
 size: "Small"
-trait_01: "aeon"
-trait_02: "inevitable"
-trait_03: "lawful"
-trait_04: "monitor"
+trait_01: [[aeon]]
+trait_02: [[inevitable]]
+trait_03: [[lawful]]
+trait_04: [[monitor]]
 modifier: 20
 perception:
   - name: "Perception"
     desc: "+20; Darkvision, Truesight"
-languages: "Diabolic, Empyrean, Utopian"
+languages: "Diabolic, Empyrean, Utopian; truespeech"
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +23, Arcana: +22, Athletics: +19, Utopia Lore: +22, Religion: +20, Stealth: +21, "
+    desc: "Acrobatics: +23, Arcana: +22, Athletics: +19, Religion: +20, Stealth: +21, Utopia Lore: +22"
 abilityMods: [5, 7, 4, 6, 4, 2]
 speed:  fly 60 feet
 sourcebook: "_Battlezoo Bestiary_"
@@ -63,10 +64,10 @@ abilities_mid:
     desc: "`pf2:r`  "
 
   - name: "Gravity Field"
-    desc: " (aura) Aura 30 feet.\nCreatures in the aura are Encumbered. The first time a creature begins its turn or enters the aura, it can attempt a Fortitude save; on a success, the creature is unaffected and is immune to that arcarayut's gravity field aura for 24 hours."
+    desc: " (aura) [[Bestiary Ability Glossary/Aura|Aura]] 30 feet.\n* * *\n\nCreatures in the aura are [[Conditions/Encumbered|Encumbered]]. The first time a creature begins its turn or enters the aura, it can attempt a DC 26 Fortitude save; on a success, the creature is unaffected and is immune to that arcarayut's gravity field aura for 24 hours."
 
   - name: "System Collapse"
-    desc: " (divine) **Trigger** The arcarayut is reduced to 0 HP;\n**Effect** The arcarayut releases a burst of warped gravitational magic. The arcarayut casts _Reverse Gravity_ centered on itself."
+    desc: " (divine) **Trigger** The arcarayut is reduced to 0 HP;\n\n**Effect** The arcarayut releases a burst of warped gravitational magic. The arcarayut casts _[[Spells/Reverse Gravity|Reverse Gravity]]_ centered on itself."
 
 attacks:
   - name: ""
@@ -80,15 +81,18 @@ attacks:
   - name: "Divine Innate Spells"
     desc: "DC 29, attack +21; __5th __ (1 slots) _[[Spells/Telekinetic Haul|Telekinetic Haul]]_; __4th __ (5 slots) _[[Spells/Dispel Magic|Dispel Magic]]_, _[[Spells/Unfettered Movement|Freedom of Movement]]_, _[[Spells/Paralyze|Paralyze]]_, _[[Spells/Paralyze|Paralyze]]_, _[[Spells/Enfeeble|Ray of Enfeeblement]]_; __2nd __  _[[Spells/Invisibility|Invisibility (At Will) (Self Only)]]_\n__Constant__  __(6th)__ _[[Spells/Truesight|True Seeing]]_"
 
-  - name: "Ritual"
-    desc: "DC 29, attack +21"
-
   - name: "Rituals"
     desc: "_[[Spells/Geas|Geas]]_"
 
   - name: "Bring to Earth"
     desc: "`pf2:2` (divine) The arcarayut exerts its will all around it, dispelling powers that flaunt the natural order of gravity. The arcarayut attempts a single counteract check (+25 modifier) and compares the result against each spell and effect within 100 feet that grants a fly Speed, allows levitation, or slows falls."
  
+```
+
+```encounter-table
+name: Arcarayut
+creatures:
+  - 1: Arcarayut
 ```
 
 
@@ -101,7 +105,7 @@ Arcarayuts are more inclined to pursue knowledge than most inevitables. They eng
 
 ## Valuable Inevitable
 
-When an arcarayut is destroyed, its diamond center turns gray and dull and falls lifelessly to the ground. This crystal can be dissolved in protean blood to create 1d6 doses of Oil of Weightlessness (Greater) or a single dose of Oil of Repulsion. This fact, in addition to the countless treasures that often float around arcarayuts, makes these inevitables valuable targets for plane-hopping treasure hunters.
+When an arcarayut is destroyed, its diamond center turns gray and dull and falls lifelessly to the ground. This crystal can be dissolved in protean blood to create 1d6 doses of [[Equipment/Oil of Weightlessness (Greater)|Oil of Weightlessness (Greater)]] or a single dose of [[Equipment/Oil of Repulsion|Oil of Repulsion]]. This fact, in addition to the countless treasures that often float around arcarayuts, makes these inevitables valuable targets for plane-hopping treasure hunters.
 
 ## Monster Part Subsystem
 

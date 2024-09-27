@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/humanoid
   - pf2e/creature/type/titan
+  - pf2eMonster
   - pf2e/creature/level/22
 statblock: inline
 name: "Thanatotic Titan"
@@ -24,18 +25,18 @@ token: [[modules/pf2e-tokens-bestiaries/portraits/humanoid/giant/titan-thanatoti
 source: "Pathfinder Bestiary 3"
 name: "Thanatotic Titan"
 level: "Creature 22"
-rare_03: "Rare"
+rare_03: [[Rare]]
 alignment: ""
 size: "grg"
-trait_01: "chaotic"
-trait_02: "evil"
-trait_03: "humanoid"
-trait_04: "titan"
+trait_01: [[chaotic]]
+trait_02: [[evil]]
+trait_03: [[humanoid]]
+trait_04: [[titan]]
 modifier: 36
 perception:
   - name: "Perception"
     desc: "+36; Darkvision, Truesight"
-languages: "Chthonian, Common, Empyrean"
+languages: "Chthonian, Common, Empyrean; telepathy 100 feet"
 skills:
   - name: "Skills"
     desc: "Athletics: +45, Crafting: +41, Deception: +36, Intimidation: +38, Religion: +38, Stealth: +36"
@@ -58,7 +59,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "[[Bestiary Ability Glossary/Attack of Opportunity|Attack of Opportunity (Special)]]"
-    desc: "`pf2:r`  The titan can use their Attack of Opportunity when a creature within their reach uses a concentrate action, in additional to its normal trigger. They disrupt actions on any hit, not just a critical hit—including triggering concentrate actions.\n"
+    desc: "`pf2:r`  The titan can use their Attack of Opportunity when a creature within their reach uses a concentrate action, in additional to its normal trigger. They disrupt actions on any hit, not just a critical hit—including triggering concentrate actions.\n\n* * *\n"
 
   - name: "Impossible Stature"
     desc: " (aura,divine,illusion,mental) 100 feet. Titans warp perception and distance around them to seem even larger and more imposing. A creature that enters or begins its turn within the emanation must succeed at a DC 45 Will check save or its movement toward the titan is movement over difficult terrain (greater difficult terrain on a critical failure) for 1 round."
@@ -82,20 +83,26 @@ attacks:
     desc: "_[[Spells/Planar Servitor|Planar Ally]]_, _[[Spells/Resurrect|Resurrect]]_"
 
   - name: "Godslayer"
-    desc: " (divine) **Trigger** The titan damages a creature capable of using divine spells or abilities\n**Effect** The creature must attempt a DC 45 Will check save.\n**Critical Success** The creature is unaffected.\n**Success** The creature can't use divine spells or abilities for 1 round and is [[Conditions/Frightened 1|Frightened 2]]. Only powerful non-divine magic, such as [[Spells/Wish|Wish]], can undo this effect.\n**Failure** As success, but the duration is 1 minute.\n**Critical Failure** As success, but the duration is unlimited."
+    desc: " (divine) **Trigger** The titan damages a creature capable of using divine spells or abilities\n* * *\n\n**Effect** The creature must attempt a DC 45 Will check save.\n* * *\n\n**Critical Success** The creature is unaffected.\n\n**Success** The creature can't use divine spells or abilities for 1 round and is [[Conditions/Frightened|Frightened 2]]. Only powerful non-divine magic, such as [[Spells/Wish|Wish]], can undo this effect.\n\n**Failure** As success, but the duration is 1 minute.\n\n**Critical Failure** As success, but the duration is unlimited."
 
   - name: "[[Bestiary Ability Glossary/Throw Rock|Throw Rock]]"
-    desc: "`pf2:1`  If a titan's rock Strike isn't a critical failure, the rock explodes, dealing 10d6 damage of a damage type of the titan's choice to all creatures in a 20-foot burst (DC 45 Reflex check save).\n"
+    desc: "`pf2:1`  If a titan's rock Strike isn't a critical failure, the rock explodes, dealing 10d6 damage of a damage type of the titan's choice to all creatures in a @Template[burst|distance:20] (DC 45 Reflex check save).\n\n* * *\n"
 
   - name: "Titanic Charge"
     desc: "`pf2:2`  The titan Strides twice and makes a melee Strike. If the Strike hits, the titan can cast [[Spells/Earthquake|Earthquake]] centered on the target as a free action."
 
   - name: "[[Bestiary Ability Glossary/Trample|Trample]]"
-    desc: "`pf2:3`  Huge or smaller, foot, DC 45 Reflex check\n"
+    desc: "`pf2:3`  Huge or smaller, foot, DC 45 Reflex check\n\n* * *\n"
 
   - name: "Wide Cleave"
     desc: "`pf2:2`  The titan makes a melee weapon Strike against each foe within their reach. This counts as three attacks for the titan's multiple attack penalty."
  
+```
+
+```encounter-table
+name: Thanatotic Titan
+creatures:
+  - 1: Thanatotic Titan
 ```
 
 

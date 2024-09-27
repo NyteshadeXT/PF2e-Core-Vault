@@ -10,6 +10,7 @@ tags:
   - pf2e/creature/type/holy
   - pf2e/creature/type/lawful
   - pf2e/creature/type/petitioner
+  - pf2eMonster
   - pf2e/creature/level/1
 statblock: inline
 name: "Petitioner (Heaven)"
@@ -28,11 +29,11 @@ level: "Creature 1"
 
 alignment: ""
 size: "Medium"
-trait_01: "celestial"
-trait_02: "good"
-trait_03: "holy"
-trait_04: "lawful"
-trait_05: "petitioner"
+trait_01: [[celestial]]
+trait_02: [[good]]
+trait_03: [[holy]]
+trait_04: [[lawful]]
+trait_05: [[petitioner]]
 modifier: 7
 perception:
   - name: "Perception"
@@ -65,8 +66,14 @@ attacks:
     desc: "`pf2:1` Wing +7 (holy)\n__Damage__  1d8 + 2 bludgeoning"
 
   - name: "Planar Incarnation - Heaven"
-    desc: "  All petitioners are formed from and personify the nature of the plane on which they manifest, and their statistics are adjusted as summarized below. They also gain any trait associated with creatures from their plane.\n**Heaven** The elect have golden halos and ghostly wings, but they otherwise appear as their mortal forms\n*   **Alignment** LG;\n*   **Language** Celestial;\n*   **Additional Ability** fly Speed 20 feet;\n*   **Melee** wing +7, **Damage** 1d8+2 bludgeoning"
+    desc: "  All petitioners are formed from and personify the nature of the plane on which they manifest, and their statistics are adjusted as summarized below. They also gain any trait associated with creatures from their plane.\n\n**Heaven** The elect have golden halos and ghostly wings, but they otherwise appear as their mortal forms\n\n*   **Alignment** LG;\n*   **Language** Celestial;\n*   **Additional Ability** fly Speed 20 feet;\n*   **Melee** wing +7, **Damage** 1d8+2 bludgeoning"
  
+```
+
+```encounter-table
+name: Petitioner (Heaven)
+creatures:
+  - 1: Petitioner (Heaven)
 ```
 
 

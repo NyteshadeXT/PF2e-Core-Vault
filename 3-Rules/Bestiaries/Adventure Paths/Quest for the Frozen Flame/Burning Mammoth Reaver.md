@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/human
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/2
 statblock: inline
 name: "Burning Mammoth Reaver"
@@ -23,13 +24,13 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #175: Broken Tusk Moon"
 name: "Burning Mammoth Reaver"
 level: "Creature 2"
-rare_03: "Rare"
+rare_03: [[Rare]]
 alignment: ""
 size: "Medium"
-trait_01: "chaotic"
-trait_02: "evil"
-trait_03: "human"
-trait_04: "humanoid"
+trait_01: [[chaotic]]
+trait_02: [[evil]]
+trait_03: [[human]]
+trait_04: [[humanoid]]
 modifier: 8
 perception:
   - name: "Perception"
@@ -37,7 +38,7 @@ perception:
 languages: "Hallit"
 skills:
   - name: "Skills"
-    desc: "Athletics: +8, Intimidation: +7 (+9 to Demoralize), Nature: +8, Survival: +8"
+    desc: "Athletics: +8, Intimidation: +7, Nature: +8, Survival: +8"
 abilityMods: [4, 2, 1, 0, 2, 1]
 speed: 25 feet
 sourcebook: "_Pathfinder #175: Broken Tusk Moon_"
@@ -60,7 +61,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Spurred by Death"
-    desc: "`pf2:r`  **Trigger** An ally within 30 feet reduces a creature to 0 HP\n**Effect** The reaver Steps or Strides."
+    desc: "`pf2:r`  **Trigger** An ally within 30 feet reduces a creature to 0 HP\n* * *\n\n**Effect** The reaver Steps or Strides."
 
 attacks:
   - name: ""
@@ -77,6 +78,12 @@ attacks:
   - name: "Cut Down"
     desc: "  When a reaver hits a creature with a battle axe Strike, the target must succeed at a DC 16 Fortitude check save or fall [[Conditions/Prone|Prone]]. If the creature critically fails its save, it takes 1d6 bludgeoning damage as it falls prone."
  
+```
+
+```encounter-table
+name: Burning Mammoth Reaver
+creatures:
+  - 1: Burning Mammoth Reaver
 ```
 
 

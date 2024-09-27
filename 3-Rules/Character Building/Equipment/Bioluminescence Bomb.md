@@ -15,7 +15,7 @@ license: OGL
 ---
 # Bioluminescence Bomb
 ## Item 1
-### [uncommon](uncommon "Uncommon Rarity Trait")[[alchemical]][[bomb]][[consumable]][[3-Rules/Character Building/Spells/Light]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[alchemical]][[bomb]][[consumable]][[3-Rules/trait_reference/light]]
 
 |  |  |
 | -- | -- |

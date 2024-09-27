@@ -8,7 +8,7 @@ tags:
 ---
 # Vibration
 
-> If you're using a bludgeoning weapon, you drop that weapon and become [[Conditions/Enfeebled 1|Enfeebled 2]] until healed.
+> If you're using a bludgeoning weapon, you drop that weapon and become [[Conditions/Enfeebled|Enfeebled 2]] until healed.
 
 `Melee`
 
@@ -20,12 +20,12 @@ tags:
 
 # Punctured Foot
 
-> You take 1d4 bleed. Until this effect ends, you take a [[Other Effects/Effect\_ -10-foot circumstance penalty to your land Speed|-10-foot circumstance penalty to your land Speed]].
+> You take 1d4 bleed. Until this effect ends, you take a [[Other Effects/Effect_ -10-foot circumstance penalty to your land Speed|-10-foot circumstance penalty to your land Speed]].
 
 `Unarmed`
 
 # Mental Backlash
 
-> Until healed, you are [[Conditions/Stupefied 1|Stupefied 3]].
+> Until healed, you are [[Conditions/Stupefied|Stupefied 3]].
 
 `Spell`

@@ -14,7 +14,7 @@ license: OGL
 ---
 # Clan Pistol
 ## Item 0
-### [uncommon](uncommon "Uncommon Rarity Trait")[[concussive]][[dwarf]][[fatal-d10]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[concussive]][[3-Rules/trait_reference/dwarf]][[fatal-d10]]
 
 |  |  |
 | -- | -- |

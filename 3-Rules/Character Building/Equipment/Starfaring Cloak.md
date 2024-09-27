@@ -13,7 +13,7 @@ license: OGL
 ---
 # Starfaring Cloak
 ## Item 24
-### [unique](unique "Unique Rarity Trait")[[artifact]][[divine]][[invested]][[3-Rules/Character Building/Spells/Light]]
+### [unique](unique "Unique Rarity Trait")[[artifact]][[divine]][[invested]][[light]]
 
 
 **Price** 0 gp; 

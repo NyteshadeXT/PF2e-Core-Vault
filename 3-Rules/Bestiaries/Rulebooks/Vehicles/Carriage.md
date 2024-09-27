@@ -1,16 +1,17 @@
 ---
-title: "Carriage"
+title: Carriage
 obsidianUIMode: preview
-noteType: pf2eMonster
+noteType: pf2eVehicle
 cssClasses: pf2e
-aliases: "Compendium.pf2e.vehicles.Actor.66dAXEMUjL7BrX8I" 
 tags:
-  - pf2e/creature/level/2
+  - pf2eVehicle
+
   - remaster
-statblock: inline
-name: "Carriage"
+source: Pathfinder GM Core
+aliases: "Compendium.pf2e.vehicles.Actor.66dAXEMUjL7BrX8I" 
 level: 2
 license: ORC
+statblock: inline
 ---
 
 ```statblock
@@ -19,39 +20,48 @@ forcecolumns: true
 layout: Basic Pathfinder 2e Layout
 source: "Pathfinder GM Core"
 name: "Carriage"
-level: "Creature 2"
+level: "Vehicle 2"
 
-alignment: ""
+
 size: "Large"
 modifier: 
 perception:
-  - name: "Perception"
-    desc: "NaN; "
-skills:
-  - name: "Skills"
-    desc: ""
-abilityMods: [, , , , , ]
-speed: 
-sourcebook: "_Pathfinder GM Core_"
+  - name: ""
+  - name: "Price"
+    desc: "100 gp\n* * *"
+abilities_top:
+  - name: ""
+  - name: "Space"
+    desc: "10 feet long, 10 feet wide, 7 feet high"
+  - name: "Crew"
+    desc: "1 pilot; **Passengers** 4"
+  - name: "Piloting Check"
+    desc: "Driving Lore (DC 16) or Nature (DC 18 to DC 26, depending on pulling creature)"
 ac: 13
 armorclass:
   - name: AC
-    desc: "13; __Fort__ +8, __Ref__ NaN, __Will__ NaN"
+    desc: "13; __Fort__ +8"
 hp: 40
 health:
   - name: ""
-  - name: HP
-    desc: "40; __Immunities__  object immunities"
-abilities_top:
-  - name: ""
-
+  - name: "Hardness"
+    desc: "5; **HP** 40 (BT 20); __Immunities__  object immunities"
+speed: "the Speed of the slowest pulling creature (pulled by 2 Large creatures)"
 abilities_mid:
   - name: ""
 attacks:
   - name: ""
- 
+  - name: "Collision"
+    desc: "2d8 (DC 16)"
+
+
+
+sourcebook: "_Pathfinder GM Core_"
 ```
 
-
-
+```encounter-table
+name: Carriage
+creatures:
+  - 1: Carriage
+```
 

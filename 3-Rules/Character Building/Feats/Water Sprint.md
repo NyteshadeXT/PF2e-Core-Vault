@@ -7,8 +7,9 @@ tags:
   - trait/skill
   - trait/common
   - category/skill
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.MTO0spetPKyIa4sT"
-license: OGL
+license: ORC
 ---
 # Water Sprint
 ## Feat 7
@@ -26,5 +27,5 @@ When you Stride in a straight line, if you move at least half your Speed over gr
 
 If you're legendary in Athletics, as long as you start on solid ground, any part of your Stride can cross the water's surface, even if you aren't moving a straight line, though you still fall into the water if you don't end your movement on solid ground.
 
-*Source: Pathfinder Advanced Player's Guide*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

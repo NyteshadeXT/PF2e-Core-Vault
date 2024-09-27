@@ -26,7 +26,7 @@ license: ORC
 
 * * *
 
-This potion appears to shift colors, and no two observers describe it in the same way. When consumed, it attempts to counteract all curses and diseases affecting you, as well as the blinded and deafened conditions from spells affecting you. The potion has a counteract rank of 7 and a 1d20 + 20 modifier for the roll.
+This potion appears to shift colors, and no two observers describe it in the same way. When consumed, it attempts to counteract all curses and diseases affecting you, as well as the blinded and deafened conditions from spells affecting you. The potion has a counteract rank of 7 and a 1d20+20 modifier for the roll.
 
 *Source: Pathfinder GM Core*
 *ORC*

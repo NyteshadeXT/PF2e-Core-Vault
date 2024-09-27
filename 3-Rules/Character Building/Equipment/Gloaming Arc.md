@@ -40,11 +40,11 @@ This black _+2 striking scimitar_ reflects light only along its edge, like a thi
 
 **Critical Success** The target is unaffected.
 
-**Success** The target is [[Conditions/Enfeebled 1|Enfeebled 1]] for 1 round.
+**Success** The target is [[Conditions/Enfeebled|Enfeebled 1]] for 1 round.
 
-**Failure** The target is [[Conditions/Enfeebled 1|Enfeebled 2]] for 1 minute and [[Conditions/Drained 1|Drained 1]]. The target doesn't cast a shadow until it is no longer drained.
+**Failure** The target is [[Conditions/Enfeebled|Enfeebled 2]] for 1 minute and [[Conditions/Drained|Drained 1]]. The target doesn't cast a shadow until it is no longer drained.
 
-**Critical Failure** As failure, but [[Conditions/Drained 1|Drained 2]].
+**Critical Failure** As failure, but [[Conditions/Drained|Drained 2]].
 
 *Source: Pathfinder #183: Field of Maidens*
 *OGL*

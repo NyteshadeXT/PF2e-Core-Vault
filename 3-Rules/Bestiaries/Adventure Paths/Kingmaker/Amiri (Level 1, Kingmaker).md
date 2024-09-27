@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.kingmaker-bestiary.Actor.MgUBst46K9Hv0qsJ"
 tags:
   - pf2e/creature/type/human
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/1
 statblock: inline
 name: "Amiri (Level 1, Kingmaker)"
@@ -21,11 +22,11 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Kingmaker"
 name: "Amiri (Level 1, Kingmaker)"
 level: "Creature 1"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Medium"
-trait_01: "human"
-trait_02: "humanoid"
+trait_01: [[human]]
+trait_02: [[humanoid]]
 modifier: 5
 perception:
   - name: "Perception"
@@ -33,7 +34,7 @@ perception:
 languages: "Common"
 skills:
   - name: "Skills"
-    desc: "Warfare Lore: +0, "
+    desc: ""
 abilityMods: [4, 2, 2, 0, 0, 1]
 speed: 25 feet
 sourcebook: "_Pathfinder Kingmaker_"
@@ -56,8 +57,14 @@ attacks:
   - name: ""
 
   - name: "[[Actions/Rage|Rage]]"
-    desc: "`pf2:1` (barbarian,concentrate,emotion,mental) **Requirements** You aren't [[Conditions/Fatigued|Fatigued]] or raging.\nYou tap into your inner fury and begin raging. You gain a number of temporary Hit Points equal to your level plus your Constitution modifier. This frenzy lasts for 1 minute, until there are no enemies you can perceive, or until you fall [[Conditions/Unconscious|Unconscious]], whichever comes first. You can't voluntarily stop raging. While you are raging:\n*   You deal 2 additional damage with melee weapons and unarmed attacks. This additional damage is halved if your weapon or unarmed attack is agile.\n*   You take a -1 penalty to AC.\n*   You can't use actions with the concentrate trait unless they also have the rage trait. You can [[Actions/Seek|Seek]] while raging.\nAfter you stop raging, you lose any remaining temporary Hit Points from Rage, and you can't Rage again for 1 minute."
+    desc: "`pf2:1` (barbarian,concentrate,emotion,mental) **Requirements** You aren't [[Conditions/Fatigued|Fatigued]] or raging.\n* * *\n\nYou tap into your inner fury and begin raging. You gain a number of temporary Hit Points equal to your level plus your Constitution modifier. This frenzy lasts for 1 minute, until there are no enemies you can perceive, or until you fall [[Conditions/Unconscious|Unconscious]], whichever comes first. You can't voluntarily stop raging. While you are raging:\n\n*   You deal 2 additional damage with melee weapons and unarmed attacks. This additional damage is halved if your weapon or unarmed attack is agile.\n*   You take a -1 penalty to AC.\n*   You can't use actions with the concentrate trait unless they also have the rage trait. You can [[Actions/Seek|Seek]] while raging.\n\nAfter you stop raging, you lose any remaining temporary Hit Points from Rage, and you can't Rage again for 1 minute."
  
+```
+
+```encounter-table
+name: Amiri (Level 1, Kingmaker)
+creatures:
+  - 1: Amiri (Level 1, Kingmaker)
 ```
 
 

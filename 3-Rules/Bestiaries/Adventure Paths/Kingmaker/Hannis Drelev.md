@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/human
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/12
 statblock: inline
 name: "Hannis Drelev"
@@ -22,12 +23,12 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Kingmaker"
 name: "Hannis Drelev"
 level: "Creature 12"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Medium"
-trait_01: "evil"
-trait_02: "human"
-trait_03: "humanoid"
+trait_01: [[evil]]
+trait_02: [[human]]
+trait_03: [[humanoid]]
 modifier: 17
 perception:
   - name: "Perception"
@@ -35,7 +36,7 @@ perception:
 languages: "Common, Skald"
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +22, Athletics: +23, Brevoy Lore: +19, Deception: +24, Intimidation: +24, Society: +19, Stealth: +22, Thievery: +20"
+    desc: "Acrobatics: +22, Athletics: +23, Deception: +24, Intimidation: +24, Society: +19, Stealth: +22, Thievery: +20, Brevoy Lore: +19"
 abilityMods: [5, 4, 3, 1, -1, 4]
 speed: 25 feet
 sourcebook: "_Pathfinder Kingmaker_"
@@ -70,7 +71,7 @@ attacks:
     desc: "`pf2:1` Crossbow +23 (range increment 120 feet, reload 1)\n__Damage__  1d8 + 6 piercing"
 
   - name: "Defensive Slice"
-    desc: "`pf2:2`  **Requirement** Baron Drelev hasn't attempted a Strike during this turn.\n**Effect** Baron Drelev assumes a defensive position with his weapons out, then attempts a melee Strike. He takes a -2 status penalty on all Strikes (including this one) and gains a +2 status bonus to his AC until the start of his next turn.\n[[Bestiary Effects/Effect_ Defensive Slice|Effect: Defensive Slice]]"
+    desc: "`pf2:2`  **Requirement** Baron Drelev hasn't attempted a Strike during this turn.\n* * *\n\n**Effect** Baron Drelev assumes a defensive position with his weapons out, then attempts a melee Strike. He takes a -2 status penalty on all Strikes (including this one) and gains a +2 status bonus to his AC until the start of his next turn.\n\n[[Bestiary Effects/Effect_ Defensive Slice|Effect: Defensive Slice]]"
 
   - name: "Dramatic Disarm"
     desc: "  If Baron Drelev scores a critical success on an Athletics check to [[Actions/Disarm|Disarm]] an opponent, he can choose to have the disarmed item fly 1d4 × 5 feet in a random direction rather than have it fall to the ground in the opponent's space. If this causes the item to land in a space occupied by a creature with at least one free hand, that creature can attempt a DC 20 Reflex check save to catch the item (otherwise it falls to the ground in that space)."
@@ -79,11 +80,17 @@ attacks:
     desc: "  Baron Drelev adds the disarm weapon trait to any sword he wields."
 
   - name: "Skirmish Strike"
-    desc: "`pf2:1`  **Frequency** once per turn\n**Effect** Baron Drelev Steps and then Strikes or Strikes and then Steps."
+    desc: "`pf2:1`  **Frequency** once per turn\n\n**Effect** Baron Drelev Steps and then Strikes or Strikes and then Steps."
 
   - name: "[[Bestiary Ability Glossary/Sneak Attack|Sneak Attack]]"
     desc: "  Baron Drelev deals 2d6 extra precision damage to [[Conditions/Off-Guard|Off-Guard]] creatures."
  
+```
+
+```encounter-table
+name: Hannis Drelev
+creatures:
+  - 1: Hannis Drelev
 ```
 
 

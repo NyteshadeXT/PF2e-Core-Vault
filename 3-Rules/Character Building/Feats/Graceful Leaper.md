@@ -7,8 +7,9 @@ tags:
   - trait/skill
   - trait/common
   - category/skill
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.63sSYk5yqiAyZGb9"
-license: OGL
+license: ORC
 ---
 # Graceful Leaper
 ## Feat 7
@@ -20,9 +21,9 @@ license: OGL
 
 **Prerequisites** Acrobat Dedication; Master in Acrobatics
 * * *
-Mass and muscle are meaningless when you leap; only grace and balance matter.
+Mass and muscle are meaningless when you propel yourself through the air; only grace and balance matter.
 
 You can roll an Acrobatics check instead of an Athletics check when making a [[Actions/High Jump|High Jump]] or [[Actions/Long Jump|Long Jump]].
 
-*Source: Pathfinder Advanced Player's Guide*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

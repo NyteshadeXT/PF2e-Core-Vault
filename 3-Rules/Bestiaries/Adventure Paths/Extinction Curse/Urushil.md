@@ -10,6 +10,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/fiend
   - pf2e/creature/type/unholy
+  - pf2eMonster
   - pf2e/creature/level/18
 statblock: inline
 name: "Urushil"
@@ -27,16 +28,16 @@ level: "Creature 18"
 
 alignment: ""
 size: "Large"
-trait_01: "chaotic"
-trait_02: "demon"
-trait_03: "evil"
-trait_04: "fiend"
-trait_05: "unholy"
+trait_01: [[chaotic]]
+trait_02: [[demon]]
+trait_03: [[evil]]
+trait_04: [[fiend]]
+trait_05: [[unholy]]
 modifier: 32
 perception:
   - name: "Perception"
     desc: "+32; Darkvision"
-languages: "Chthonian, Draconic, Empyrean"
+languages: "Chthonian, Draconic, Empyrean; telepathy 100 feet"
 skills:
   - name: "Skills"
     desc: "Acrobatics: +33, Deception: +30, Diplomacy: +30, Intimidation: +32, Religion: +29, Stealth: +29, Warfare Lore: +31"
@@ -59,13 +60,13 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "[[Bestiary Ability Glossary/Attack of Opportunity|Attack of Opportunity (Special)]]"
-    desc: "`pf2:r`  A marilith gains 5 extra reactions per round that they can use only to make Attacks of Opportunity. The demon can't use more than one on the same triggering action, even if a creature leaves several squares in the marilith's reach, and the marilith must use a different weapon for each Attack of Opportunity.\n"
+    desc: "`pf2:r`  A marilith gains 5 extra reactions per round that they can use only to make Attacks of Opportunity. The demon can't use more than one on the same triggering action, even if a creature leaves several squares in the marilith's reach, and the marilith must use a different weapon for each Attack of Opportunity.\n\n* * *\n"
 
   - name: "Commander's Aura"
-    desc: " (aura,divine) 100 feet. Commanded or allied evil creatures in the aura of lower level than the marilith gain a +1 circumstance bonus to attack rolls, damage rolls, AC, saves, and skill checks.\n[[Bestiary Effects/Effect_ Commander's Aura|Effect: Commander's Aura]]"
+    desc: " (aura,divine) 100 feet. Commanded or allied evil creatures in the aura of lower level than the marilith gain a +1 circumstance bonus to attack rolls, damage rolls, AC, saves, and skill checks.\n* * *\n\n[[Bestiary Effects/Effect_ Commander's Aura|Effect: Commander's Aura]]"
 
   - name: "Failure Vulnerability"
-    desc: "  A marilith's pride feeds their strength, so the sting of failure wounds them. If the marilith uses a damaging spell or makes a Strike on their turn but doesn't deal any damage that turn, they take 3d6 + 10 mental damage at the end of their turn and their commander's aura deactivates until the end of their next turn."
+    desc: "  A marilith's pride feeds their strength, so the sting of failure wounds them. If the marilith uses a damaging spell or makes a Strike on their turn but doesn't deal any damage that turn, they take 3d6+10 mental damage at the end of their turn and their commander's aura deactivates until the end of their next turn."
 
 attacks:
   - name: ""
@@ -86,13 +87,13 @@ attacks:
     desc: "`pf2:2`  The marilith makes up to six longsword Strikes, each against a different target. These attacks count toward the marilith's multiple attack penalty, but the multiple attack penalty doesn't increase until after all the attacks."
 
   - name: "Defensive Assault"
-    desc: "`pf2:2`  The marilith makes two Strikes, each with a different weapon, and they use the remaining weapons for protection. The demon gains a circumstance bonus to AC for 1 round equal to the number of weapons not used for attacks. If the marilith later uses any of those weapons to attack (including for an Attack of Opportunity), the bonus to AC decreases by 1 for each weapon used.\n[[Bestiary Effects/Effect_ Defensive Assault|Effect: Defensive Assault]]"
+    desc: "`pf2:2`  The marilith makes two Strikes, each with a different weapon, and they use the remaining weapons for protection. The demon gains a circumstance bonus to AC for 1 round equal to the number of weapons not used for attacks. If the marilith later uses any of those weapons to attack (including for an Attack of Opportunity), the bonus to AC decreases by 1 for each weapon used.\n* * *\n\n[[Bestiary Effects/Effect_ Defensive Assault|Effect: Defensive Assault]]"
 
   - name: "Focused Assault"
-    desc: "`pf2:2`  The marilith attacks a single target with all the weapons they wield in their arms, overwhelming the target with multiple attacks and leaving almost nowhere to dodge. The demon makes a longsword Strike. On a successful attack, the marilith deals longsword damage to the target, plus an additional 1d8 slashing damage for every longsword they wield beyond the first (typically 5d8 slashing damage). Even on a failed attack, the marilith deals the damage from one longsword to the target, though they still miss completely on a critical failure. This counts toward the marilith's multiple attack penalty as a number of attacks equal to the number of longswords the pride demon wields.\n[[Bestiary Effects/Effect_ Focused Assault|Effect: Focused Assault]]"
+    desc: "`pf2:2`  The marilith attacks a single target with all the weapons they wield in their arms, overwhelming the target with multiple attacks and leaving almost nowhere to dodge. The demon makes a longsword Strike. On a successful attack, the marilith deals longsword damage to the target, plus an additional 1d8 slashing damage for every longsword they wield beyond the first (typically 5d8 slashing damage). Even on a failed attack, the marilith deals the damage from one longsword to the target, though they still miss completely on a critical failure. This counts toward the marilith's multiple attack penalty as a number of attacks equal to the number of longswords the pride demon wields.\n* * *\n\n[[Bestiary Effects/Effect_ Focused Assault|Effect: Focused Assault]]"
 
   - name: "[[Bestiary Ability Glossary/Greater Constrict|Greater Constrict]]"
-    desc: "`pf2:1`  2d12 + 13 bludgeoning damage, DC 41 Fortitude check save\n"
+    desc: "`pf2:1`  2d12+13 bludgeoning damage, DC 41 Fortitude check save\n\n* * *\n"
 
   - name: "Infuse Weapons"
     desc: " (divine) Any weapon becomes a _+2 [[Equipment/Striking (Greater)|Greater Striking]] weapon_ made of cold iron and silver while a marilith wields it."
@@ -100,6 +101,12 @@ attacks:
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
     desc: "`pf2:1`  "
  
+```
+
+```encounter-table
+name: Urushil
+creatures:
+  - 1: Urushil
 ```
 
 

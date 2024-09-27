@@ -19,7 +19,7 @@ license: ORC
 
 Granted by [[Equipment/Potency Crystal|Potency Crystal]]
 
-The weapon becomes a _+1 striking weapon_ for the rest of the turn, gaining a +1 item bonus to the attack roll and increasing the damage on a hit to two weapon damage dice.
+The weapon becomes a _+1 striking weapon_.
 
 *Source: Pathfinder GM Core*
 *ORC*

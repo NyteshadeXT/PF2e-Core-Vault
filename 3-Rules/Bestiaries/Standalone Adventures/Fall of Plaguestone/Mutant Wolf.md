@@ -6,6 +6,7 @@ cssClasses: pf2e
 aliases: "Compendium.pf2e.fall-of-plaguestone-bestiary.Actor.WV8sdgARGVUb39WM" 
 tags:
   - pf2e/creature/type/animal
+  - pf2eMonster
   - pf2e/creature/level/3
 statblock: inline
 name: "Mutant Wolf"
@@ -20,14 +21,15 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Adventure: The Fall of Plaguestone"
 name: "Mutant Wolf"
 level: "Creature 3"
-rare_03: "Rare"
+rare_03: [[Rare]]
 alignment: ""
 size: "Medium"
-trait_01: "animal"
+trait_01: [[animal]]
 modifier: 9
 perception:
   - name: "Perception"
     desc: "+9; Motion Sense (Precise) 30 Feet"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Acrobatics: +9, Athletics: +11, Stealth: +9"
@@ -58,11 +60,17 @@ attacks:
     desc: "`pf2:1` Jaws +11 ()\n__Damage__  1d8 + 4 piercing plus tear 1d6 acid plus tear"
 
   - name: "Gore Spray"
-    desc: "`pf2:r` (acid) **Trigger** A creature critically hits a mutant wolf while adjacent to it.\n**Effect** The wound causes gore to spray from a ruptured pustule. The triggering creature takes 3d6 acid damage (DC 19 Reflex check save). This occurs even if the attack kills the wolf."
+    desc: "`pf2:r` (acid) **Trigger** A creature critically hits a mutant wolf while adjacent to it.\n* * *\n\n**Effect** The wound causes gore to spray from a ruptured pustule. The triggering creature takes 3d6 acid damage (DC 19 Reflex check save). This occurs even if the attack kills the wolf."
 
   - name: "Tear"
-    desc: "`pf2:1`  **Trigger** The wolf dealt damage to a creature with its jaws during the previous action.\n**Effect** The wolf tears at the creature's flesh, dealing 1d6+2 slashing damage and 1 persistent acid damage."
+    desc: "`pf2:1`  **Trigger** The wolf dealt damage to a creature with its jaws during the previous action.\n* * *\n\n**Effect** The wolf tears at the creature's flesh, dealing 1d6+2 slashing damage and 1 persistent acid damage."
  
+```
+
+```encounter-table
+name: Mutant Wolf
+creatures:
+  - 1: Mutant Wolf
 ```
 
 

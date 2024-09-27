@@ -10,4 +10,4 @@ Play before you attempt a Will save.
 
 * * *
 
-You succeed at the saving throw without needing to roll. You gain the [[Conditions/Stupefied 1|Stupefied 1]] condition, which lasts until the next time you get a full night's rest.
+You succeed at the saving throw without needing to roll. You gain the [[Conditions/Stupefied|Stupefied 1]] condition, which lasts until the next time you get a full night's rest.

@@ -12,7 +12,7 @@ license: OGL
 ---
 # Stellar Misfortune `pf2:0`
 
-### [[misfortune]][[occult]]
+### [[misfortune]][[3-Rules/Rule References/Occult]]
 
 **Category** interaction; 
 

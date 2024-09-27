@@ -21,7 +21,7 @@ license: ORC
 
 
 
-With a quick sprint, you dash up to your foe and swing. Stride twice. If you end your movement within melee reach of at least one enemy, you can make a melee Strike against that enemy. You can use Sudden Charge while Burrowing, Climbing, Flying, or Swimming instead of Striding if you have the corresponding movement type.
+With a quick sprint, you dash up to your foe and swing. Stride twice. If you end your movement within melee reach of at least one enemy, you can make a melee [[Actions/Strike|Strike]] against that enemy. You can use [[Feats/Sudden Charge|Sudden Charge]] while Burrowing, Climbing, Flying, or Swimming instead of Striding if you have the corresponding movement type.
 
 *Source: Pathfinder Player Core*
 *ORC*

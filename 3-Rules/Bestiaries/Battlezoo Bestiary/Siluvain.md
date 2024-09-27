@@ -10,6 +10,7 @@ tags:
   - pf2e/creature/type/fiend
   - pf2e/creature/type/lawful
   - pf2e/creature/type/unholy
+  - pf2eMonster
   - pf2e/creature/level/4
 statblock: inline
 name: "Siluvain"
@@ -28,19 +29,19 @@ level: "Creature 4"
 
 alignment: ""
 size: "Medium"
-trait_01: "devil"
-trait_02: "evil"
-trait_03: "fiend"
-trait_04: "lawful"
-trait_05: "unholy"
+trait_01: [[devil]]
+trait_02: [[evil]]
+trait_03: [[fiend]]
+trait_04: [[lawful]]
+trait_05: [[unholy]]
 modifier: 10
 perception:
   - name: "Perception"
     desc: "+10; Greater Darkvision"
-languages: "Common, Diabolic, Empyrean"
+languages: "Common, Diabolic, Empyrean; telepathy 100 feet"
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +12, Athletics: +9, Deception: +15, Diplomacy: +13, Religion: +10, Society: +9, Stealth: +12, "
+    desc: "Acrobatics: +12, Athletics: +9, Deception: +15, Diplomacy: +13, Religion: +10, Society: +9, Stealth: +12"
 abilityMods: [3, 4, 2, 1, 2, 5]
 speed: 25 feet
 sourcebook: "_Battlezoo Bestiary_"
@@ -67,18 +68,21 @@ attacks:
   - name: "Divine Innate Spells"
     desc: "DC 21, attack +13; __5th __  _[[Spells/Translocate|Dimension Door]]_; __4th __  _[[Spells/Translocate|Dimension Door (At Will)]]_; __2nd __  _[[Spells/Charm|Charm]]_, _[[Spells/Charm|Charm]]_, _[[Spells/Charm|Charm]]_, _[[Spells/Invisibility|Invisibility (At Will; Self Only)]]_, _[[Spells/Phantom Pain|Phantom Pain (At Will)]]_"
 
-  - name: "Ritual"
-    desc: "DC 21, attack +13"
-
   - name: "Rituals"
     desc: "_[[Spells/Diabolic Pact|Infernal Pact]]_"
 
   - name: "Assume Identity"
-    desc: "`pf2:1` (concentrate,divine,polymorph) **Requirements** The memento devil is holding a cherished possession that was buried with a Small or Medium humanoid corpse (such as a wedding ring, locket, or weapon);\n**Effect** The memento devil takes on the appearance of the cherished item's former owner. While in this form, the devil gains the memories of the item's former owner, including languages, proficiencies, and class features, if any. This doesn't change the devil's Speed or its attack and damage bonuses with its Strikes but might change the damage type its Strikes deal (typically to bludgeoning). If the required item is destroyed or the devil loses it, the devil automatically reverts to its natural form."
+    desc: "`pf2:1` (concentrate,divine,polymorph) **Requirements** The memento devil is holding a cherished possession that was buried with a Small or Medium humanoid corpse (such as a wedding ring, locket, or weapon);\n\n**Effect** The memento devil takes on the appearance of the cherished item's former owner. While in this form, the devil gains the memories of the item's former owner, including languages, proficiencies, and class features, if any. This doesn't change the devil's Speed or its attack and damage bonuses with its Strikes but might change the damage type its Strikes deal (typically to bludgeoning). If the required item is destroyed or the devil loses it, the devil automatically reverts to its natural form."
 
   - name: "Shatter Hope"
-    desc: "`pf2:2` (divine,emotion,mental) **Requirements** The memento devil is currently disguised by its Assume Identity ability;\n**Effect** The memento devil smashes the memento it is carrying, filling the hearts of all around it with painful anguish. This permanently destroys the memento and ends the devil's Assume Identity effect. Enemies in a 15-foot emanation take 4d8 mental damage (basic Will save).\nIf any of the affected creatures were charmed by the devil or knew the destroyed memento's owner in life, those creatures' saves are one degree worse than the actual result of the saving throw."
+    desc: "`pf2:2` (divine,emotion,mental) **Requirements** The memento devil is currently disguised by its Assume Identity ability;\n\n**Effect** The memento devil smashes the memento it is carrying, filling the hearts of all around it with painful anguish. This permanently destroys the memento and ends the devil's Assume Identity effect. Enemies in a 15-foot emanation take 4d8 mental damage (DC 21 basic Will save).\n\nIf any of the affected creatures were charmed by the devil or knew the destroyed memento's owner in life, those creatures' saves are one degree worse than the actual result of the saving throw."
  
+```
+
+```encounter-table
+name: Siluvain
+creatures:
+  - 1: Siluvain
 ```
 
 

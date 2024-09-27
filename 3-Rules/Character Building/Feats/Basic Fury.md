@@ -6,8 +6,9 @@ tags:
   - trait/archetype
   - trait/common
   - category/class
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.Sr6CcCXceV8ALAmB"
-license: OGL
+license: ORC
 ---
 # Basic Fury
 ## Feat 4
@@ -21,5 +22,5 @@ license: OGL
 * * *
 You gain a 1st- or 2nd-level barbarian feat.
 
-*Source: Pathfinder Core Rulebook*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

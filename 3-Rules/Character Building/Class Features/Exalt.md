@@ -11,7 +11,7 @@ license: OGL
 ---
 # Exalt
 ## Feat 11
-### [[champion]]
+### [[3-Rules/trait_reference/champion]]
 
 **Category** classfeature; 
 

@@ -12,7 +12,7 @@ license: OGL
 ---
 # Faith Tattoo
 ## Item 4
-### [[divine]][[invested]][[tattoo]]
+### [[3-Rules/Rule References/Divine]][[invested]][[tattoo]]
 
 
 **Price** 80 gp; 

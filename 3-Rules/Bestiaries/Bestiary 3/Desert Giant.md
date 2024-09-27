@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/giant
   - pf2e/creature/type/humanoid
   - pf2e/creature/type/lawful
+  - pf2eMonster
   - pf2e/creature/level/9
 statblock: inline
 name: "Desert Giant"
@@ -26,9 +27,9 @@ level: "Creature 9"
 
 alignment: ""
 size: "Large"
-trait_01: "giant"
-trait_02: "humanoid"
-trait_03: "lawful"
+trait_01: [[giant]]
+trait_02: [[humanoid]]
+trait_03: [[lawful]]
 modifier: 19
 perception:
   - name: "Perception"
@@ -36,7 +37,7 @@ perception:
 languages: "Common, Jotun"
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +21, Desert Lore: +18, Intimidation: +15, Survival: +19"
+    desc: "Acrobatics: +21, Intimidation: +15, Survival: +19, Desert Lore: +18"
 abilityMods: [6, 6, 5, 3, 4, 0]
 speed: 40 feet
 sourcebook: "_Pathfinder Bestiary 3_"
@@ -68,7 +69,7 @@ attacks:
     desc: "`pf2:1` Rock +19 (brutal, range increment 120 feet)\n__Damage__  2d8 + 12 bludgeoning plus rock"
 
   - name: "Sand Spin"
-    desc: "`pf2:1`  **Requirements** The desert giant is standing in sandy terrain\n**Effect** The desert giant spins around and stirs up loose sand in a 10-foot emanation. Until the beginning of the giant's next turn, creatures in the area are [[Conditions/Concealed|Concealed]], and other creatures are concealed to them."
+    desc: "`pf2:1`  **Requirements** The desert giant is standing in sandy terrain\n* * *\n\n**Effect** The desert giant spins around and stirs up loose sand in a @Template[emanation|distance:10]. Until the beginning of the giant's next turn, creatures in the area are [[Conditions/Concealed|Concealed]], and other creatures are concealed to them."
 
   - name: "Sandwalking"
     desc: "  Desert giants have adapted to the loose sands of the desert and can move across them with ease. Desert giants ignore non-magical difficult terrain and uneven ground caused by sand."
@@ -79,6 +80,12 @@ attacks:
   - name: "[[Bestiary Ability Glossary/Throw Rock|Throw Rock]]"
     desc: "`pf2:1`  "
  
+```
+
+```encounter-table
+name: Desert Giant
+creatures:
+  - 1: Desert Giant
 ```
 
 

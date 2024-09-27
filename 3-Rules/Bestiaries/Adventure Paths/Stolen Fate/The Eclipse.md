@@ -4,6 +4,7 @@ obsidianUIMode: preview
 noteType: pf2eHazard
 tags:
   - environmental
+  - pf2eHazard
   - complex
 source: Pathfinder #192: Worst of All Possible Worlds
 aliases: "Compendium.pf2e.stolen-fate-bestiary.Actor.99X7MbA4YeZu7lwJ" 
@@ -21,13 +22,13 @@ name: "The Eclipse"
 level: "Hazard 19"
 
 trait_06: "Complex"
-trait_01: "environmental"
+trait_01: [[environmental]]
 modifier: 0
 sourcebook: "_Pathfinder #192: Worst of All Possible Worlds_"
 ac: 46
 armorclass:
   - name: AC
-    desc: "46; __Fort__ +32, __Ref__ +38, __Will__ +0"
+    desc: "46; __Fort__ +32, __Ref__ +38, "
 hp: 124
 health:
   - name: ""
@@ -49,10 +50,16 @@ attacks:
   - name: ""
 
   - name: "Herald the End"
-    desc: "`pf2:r` **Trigger** The PCs arrive at the island\n**Effect** A fiery point of light appears in the sky at the center of the Eclipse, swiftly growing in size as it becomes apparent that a meteor is hurtling toward the island. The Eclipse rolls initiative."
+    desc: "`pf2:r` **Trigger** The PCs arrive at the island\n* * *\n\n**Effect** A fiery point of light appears in the sky at the center of the Eclipse, swiftly growing in size as it becomes apparent that a meteor is hurtling toward the island. The Eclipse rolls initiative."
 
   - name: "Routine"
-    desc: "(1 action) The Eclipse heals 8d6 fire damage and 4d6 bludgeoning damage (DC 41 Reflex check save) to all creatures caught in the blast. The eclipse targets these strikes to catch as many PCs in the blast as it can each time—while it doesn't seek to damage a bul‑gae, it won't worry about catching one or both in the area of effect if that spot is the most advantageous to striking the most possible PCs."
+    desc: "(1 action) The Eclipse heals 50 healing points of damage, retreats upward from PCs if any have approached (as determined by its Distance Score), then unleashes a meteor down on the island below. The meteor explodes upon striking the island, creating a @Template[burst|distance:30] that inflicts 8d6 fire damage and 4d6 bludgeoning damage (DC 41 Reflex check save) to all creatures caught in the blast. The eclipse targets these strikes to catch as many PCs in the blast as it can each time—while it doesn't seek to damage a bul‑gae, it won't worry about catching one or both in the area of effect if that spot is the most advantageous to striking the most possible PCs."
 
+```
+
+```encounter-table
+name: The Eclipse
+creatures:
+  - 1: The Eclipse
 ```
 

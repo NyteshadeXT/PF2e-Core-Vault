@@ -6,8 +6,9 @@ tags:
   - trait/investigator
   - trait/common
   - category/class
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.QSuwyX84U26OLzZI"
-license: OGL
+license: ORC
 ---
 # Predictive Purchase (Investigator)
 ## Feat 6
@@ -22,5 +23,5 @@ You have just the thing for the situation. You gain the [[Feats/Prescient Planne
 
 When using Prescient Planner, you can pull out the item as a 2-action activity to remove your backpack (or a similar container) and draw the item, rather than taking 1 minute.
 
-*Source: Pathfinder Advanced Player's Guide*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

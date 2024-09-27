@@ -6,8 +6,9 @@ tags:
   - trait/archetype
   - trait/common
   - category/class
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.ADgFB8hjUgcXS4bF"
-license: OGL
+license: ORC
 ---
 # Mutable Familiar
 ## Feat 8
@@ -23,5 +24,5 @@ Your familiar's supernatural spirit has outgrown its corporeal body. You can con
 
 You can reselect only familiar abilities you would normally be able to reselect each day, not required familiar abilities for your familiar. You can't remove an ability that is required for another ability your familiar has (for instance, you can't remove manual dexterity if the familiar has lab assistant).
 
-*Source: Pathfinder Advanced Player's Guide*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

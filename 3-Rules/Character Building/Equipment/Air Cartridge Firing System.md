@@ -9,7 +9,7 @@ license: OGL
 ---
 # Air Cartridge Firing System
 ## Item 4
-### [uncommon](uncommon "Uncommon Rarity Trait")
+### [uncommon](uncommon.md "Uncommon Rarity Trait")
 
 
 **Price** 75 gp; 

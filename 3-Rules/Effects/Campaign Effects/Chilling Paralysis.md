@@ -30,7 +30,7 @@ The unnatural cold of your touch freezes muscles and locks joints, leaving your 
 
 **Critical Success** The target is unaffected.
 
-**Success** The supernatural cold causes the target to shiver and quake, making them [[Conditions/Slowed 1|Slowed 1]] until the end of their next turn.
+**Success** The supernatural cold causes the target to shiver and quake, making them [[Conditions/Slowed|Slowed 1]] until the end of their next turn.
 
 **Failure** The supernatural cold paralyzes the target for 1 round, then leaves them slowed 1 for 1 round after.
 

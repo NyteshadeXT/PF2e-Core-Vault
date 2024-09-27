@@ -13,7 +13,7 @@ license: OGL
 ---
 # Demon Armor
 ## Item 13
-### [[bulwark]][[divine]][[invested]]
+### [[bulwark]][[3-Rules/Rule References/Divine]][[invested]]
 
 **Category** heavy; **Group** plate
 **Price** 2500 gp; 

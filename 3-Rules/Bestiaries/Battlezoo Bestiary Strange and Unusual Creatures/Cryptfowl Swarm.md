@@ -7,6 +7,7 @@ aliases: "Compendium.battlezoo-bestiary-su-pf2e.pf2e-battlezoo-su-actors.Actor.m
 tags:
   - pf2e/creature/type/animal
   - pf2e/creature/type/swarm
+  - pf2eMonster
   - pf2e/creature/level/5
 statblock: inline
 name: "Cryptfowl Swarm"
@@ -22,18 +23,19 @@ token: [[modules/battlezoo-bestiary-su-pf2e/art/Portraits/cryptfowl-swarm.webp| 
 source: "Battlezoo Bestiary: Strange and Unusual"
 name: "Cryptfowl Swarm"
 level: "Creature 5"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Large"
-trait_01: "animal"
-trait_02: "swarm"
+trait_01: [[animal]]
+trait_02: [[swarm]]
 modifier: 11
 perception:
   - name: "Perception"
     desc: "+11; Darkvision, Scent (Imprecise) 30 Feet"
+languages: ""
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +13, Athletics: +9, Stealth: +12, "
+    desc: "Acrobatics: +13, Athletics: +9, Stealth: +12, Acrobatics: +13, Athletics: +9, Stealth: +12"
 abilityMods: [1, 5, 3, -4, 2, -5]
 speed: 30 feet,  fly 15 feet
 sourcebook: "_Battlezoo Bestiary: Strange and Unusual_"
@@ -52,20 +54,26 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "No Escape"
-    desc: "`pf2:r`  **Trigger** A creature leaves the cryptfowl swarm's space\n**Effect** The cryptfowl swarm tries to chase after the triggering creature. The cryptfowl swarm Strides up to its Speed, following the creature and keeping it within the cryptfowl swarm's space throughout its movement until it stops moving or until the cryptfowl swarm has moved its full Speed, whichever comes first."
+    desc: "`pf2:r`  **Trigger** A creature leaves the cryptfowl swarm's space\n* * *\n\n**Effect** The cryptfowl swarm tries to chase after the triggering creature. The cryptfowl swarm Strides up to its Speed, following the creature and keeping it within the cryptfowl swarm's space throughout its movement until it stops moving or until the cryptfowl swarm has moved its full Speed, whichever comes first."
 
 attacks:
   - name: ""
 
   - name: "Digestive Spittle"
-    desc: " (poison) **Saving Throw** DC 20 Fortitude check\n**Maximum Duration** 6 rounds\n**Stage 1** 1d4 acid damage (1 round)\n**Stage 2** 2d4 acid damage (1 round)"
+    desc: " (poison) **Saving Throw** DC 20 Fortitude check\n\n**Maximum Duration** 6 rounds\n\n**Stage 1** 1d4 acid damage (1 round)\n\n**Stage 2** 2d4 acid damage (1 round)"
 
   - name: "Fowl Play"
-    desc: "`pf2:1`  **Requirements** A creature is within the cryptfowl swarm's space and that creature has the Prone condition\n**Effect** The triggering creature falls prey to a relentless storm of beaks, claws, and feathers. The creature takes 1d6 piercing damage, 1d6 slashing damage, and 1d6 acid damage (DC 22 Reflex check save)."
+    desc: "`pf2:1`  **Requirements** A creature is within the cryptfowl swarm's space and that creature has the [[undefined]] condition\n* * *\n\n**Effect** The triggering creature falls prey to a relentless storm of beaks, claws, and feathers. The creature takes 1d6 piercing damage, 1d6 slashing damage, and 1d6 acid damage (DC 22 Reflex check save)."
 
   - name: "Swarming Pecks"
-    desc: "`pf2:1`  Each creature in the swarm's space takes 2d6 + 2 piercing damage (DC 20 Reflex check save). Creatures that fail their Reflex save are exposed to Digestive Spittle. Creatures who critically fail their Reflex save are also knocked Prone."
+    desc: "`pf2:1`  Each creature in the swarm's space takes 2d6+2 piercing damage (DC 20 Reflex check save). Creatures that fail their Reflex save are exposed to Digestive Spittle. Creatures who critically fail their Reflex save are also knocked [[undefined]]."
  
+```
+
+```encounter-table
+name: Cryptfowl Swarm
+creatures:
+  - 1: Cryptfowl Swarm
 ```
 
 

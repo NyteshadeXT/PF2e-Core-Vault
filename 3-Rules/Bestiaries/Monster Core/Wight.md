@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/undead
   - pf2e/creature/type/unholy
   - pf2e/creature/type/wight
+  - pf2eMonster
   - pf2e/creature/level/3
   - remaster
 statblock: inline
@@ -20,16 +21,16 @@ license: ORC
 columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
-token: [[modules/pf2e-tokens-bestiaries/portraits/undead/wight.webp| ]]
+token: [[modules/pf2e-tokens-bestiaries/portraits/undead/cairn-wight.webp| ]]
 source: "Pathfinder Monster Core"
 name: "Wight"
 level: "Creature 3"
 
 alignment: ""
 size: "Medium"
-trait_01: "undead"
-trait_02: "unholy"
-trait_03: "wight"
+trait_01: [[undead]]
+trait_02: [[unholy]]
+trait_03: [[wight]]
 modifier: 10
 perception:
   - name: "Perception"
@@ -78,8 +79,14 @@ attacks:
     desc: "`pf2:1` Dagger +10 (agile, thrown 10 ft., versatile s)\n__Damage__  1d4 + 6 slashing plus corrupting-spite"
 
   - name: "Corrupting Spite"
-    desc: " (curse,divine,void) The wight's unarmed attacks and bound weapons inflict a curse that makes a creature grow weak and spiteful. If a wight inflicts corrupting spite on a creature already afflicted by it, the victim attempts a new save, ignoring the result if it's better than a failure.\n\nA living humanoid that dies while under the curse rises as a wight after 1d4 rounds, controlled by the wight that killed it. The wight spawn can't inflict corrupting spite and is [[Conditions/Clumsy 1|Clumsy 2]]. If its creator dies or after roughly a month of existence, the new wight becomes autonomous and turns into a normal wight\n\n**Saving Throw** DC 17 Fortitude check;\n* * *\n\n**Stage 1** [[Conditions/Drained 1|Drained 1]] (1 round)\n\n**Stage 2** [[Conditions/Drained 1|Drained 2]] and doesn't treat any creatures as allies (1 round)\n\n**Stage 3** As stage 2, except [[Conditions/Drained 1|Drained 3]] (1 round)\n\n**Stage 4** As stage 2, except [[Conditions/Drained 1|Drained 4]] (1 round)."
+    desc: " (curse,divine,void) The wight's unarmed attacks and bound weapons inflict a curse that makes a creature grow weak and spiteful. If a wight inflicts corrupting spite on a creature already afflicted by it, the victim attempts a new save, ignoring the result if it's better than a failure.\n\nA living humanoid that dies while under the curse rises as a wight after 1d4 rounds, controlled by the wight that killed it. The wight spawn can't inflict corrupting spite and is [[Conditions/Clumsy|Clumsy 2]]. If its creator dies or after roughly a month of existence, the new wight becomes autonomous and turns into a normal wight\n\n**Saving Throw** DC 17 Fortitude check;\n* * *\n\n**Stage 1** [[Conditions/Drained|Drained 1]] (1 round)\n\n**Stage 2** [[Conditions/Drained|Drained 2]] and doesn't treat any creatures as allies (1 round)\n\n**Stage 3** As stage 2, except [[Conditions/Drained|Drained 3]] (1 round)\n\n**Stage 4** As stage 2, except [[Conditions/Drained|Drained 4]] (1 round)."
  
+```
+
+```encounter-table
+name: Wight
+creatures:
+  - 1: Wight
 ```
 
 

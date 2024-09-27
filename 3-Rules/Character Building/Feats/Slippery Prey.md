@@ -7,8 +7,9 @@ tags:
   - trait/skill
   - trait/common
   - category/skill
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.5YlHrBCZJmb6Q4Lz"
-license: OGL
+license: ORC
 ---
 # Slippery Prey
 ## Feat 2
@@ -22,5 +23,5 @@ license: OGL
 * * *
 You're able to escape bonds more easily than others. When you attempt to [[Actions/Escape|Escape]] using Acrobatics or Athletics, you reduce the multiple attack penalty for repeated attempts to –4 and –8 if you're trained in the skill. The penalty becomes –3 and –6 if you're a master in the appropriate skill. If you're legendary in the skill, you don't take penalties for multiple Escape attempts in the same turn. Regardless of your training, your attempts to Escape still have the attack trait and incur a multiple attack penalty with other actions.
 
-*Source: Pathfinder Lost Omens: Firebrands*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

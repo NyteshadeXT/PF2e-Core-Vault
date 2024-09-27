@@ -1,16 +1,17 @@
 ---
-title: "Sky Chariot (Light)"
+title: Sky Chariot (Light)
 obsidianUIMode: preview
-noteType: pf2eMonster
+noteType: pf2eVehicle
 cssClasses: pf2e
-aliases: "Compendium.pf2e.vehicles.Actor.6CFijrzNSXtS8ExJ" 
 tags:
-  - pf2e/creature/level/7
+  - pf2eVehicle
+
   - remaster
-statblock: inline
-name: "Sky Chariot (Light)"
+source: Pathfinder GM Core
+aliases: "Compendium.pf2e.vehicles.Actor.6CFijrzNSXtS8ExJ" 
 level: 7
 license: ORC
+statblock: inline
 ---
 
 ```statblock
@@ -19,39 +20,48 @@ forcecolumns: true
 layout: Basic Pathfinder 2e Layout
 source: "Pathfinder GM Core"
 name: "Sky Chariot (Light)"
-level: "Creature 7"
-rare_03: "Uncommon"
-alignment: ""
+level: "Vehicle 7"
+rare_03: [[Uncommon]]
+
 size: "Large"
 modifier: 
 perception:
-  - name: "Perception"
-    desc: "NaN; "
-skills:
-  - name: "Skills"
-    desc: ""
-abilityMods: [, , , , , ]
-speed: 
-sourcebook: "_Pathfinder GM Core_"
+  - name: ""
+  - name: "Price"
+    desc: "1000 gp\n* * *"
+abilities_top:
+  - name: ""
+  - name: "Space"
+    desc: "10 feet long, 15 feet wide, 8 feet high"
+  - name: "Crew"
+    desc: "1 pilot; **Passengers** 1"
+  - name: "Piloting Check"
+    desc: "Arcana (DC 25), Nature (DC 25 to 33, depending on pulling creature), or Piloting Lore (DC 23)"
 ac: 20
 armorclass:
   - name: AC
-    desc: "20; __Fort__ +14, __Ref__ NaN, __Will__ NaN"
+    desc: "20; __Fort__ +14"
 hp: 80
 health:
   - name: ""
-  - name: HP
-    desc: "80; __Immunities__  critical hits,  object immunities,  precision"
-abilities_top:
-  - name: ""
-
+  - name: "Hardness"
+    desc: "15; **HP** 80 (BT 40); __Immunities__  critical hits,  object immunities,  precision"
+speed: "the fly Speed of the slowest pulling creature (pulled by 2 Large creatures or 1 Huge creature)"
 abilities_mid:
   - name: ""
 attacks:
   - name: ""
- 
+  - name: "Collision"
+    desc: "5d10 (DC 23)"
+
+
+
+sourcebook: "_Pathfinder GM Core_"
 ```
 
-
-
+```encounter-table
+name: Sky Chariot (Light)
+creatures:
+  - 1: Sky Chariot (Light)
+```
 

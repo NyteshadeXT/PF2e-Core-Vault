@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.rage-of-elements-bestiary.Actor.3ItvROg0JbYKUGRu"
 tags:
   - pf2e/creature/type/elemental
   - pf2e/creature/type/fire
+  - pf2eMonster
   - pf2e/creature/level/13
   - remaster
 statblock: inline
@@ -25,8 +26,8 @@ level: "Creature 13"
 
 alignment: ""
 size: "huge"
-trait_01: "elemental"
-trait_02: "fire"
+trait_01: [[elemental]]
+trait_02: [[fire]]
 modifier: 24
 perception:
   - name: "Perception"
@@ -34,7 +35,7 @@ perception:
 languages: "Common, Pyric"
 skills:
   - name: "Skills"
-    desc: "Athletics: +28, Cooking Lore: +24, Intimidation: +21, Survival: +24"
+    desc: "Athletics: +28, Intimidation: +21, Survival: +24, Cooking Lore: +24"
 abilityMods: [8, 4, 8, 3, 5, 4]
 speed: 25 feet
 sourcebook: "_Pathfinder Rage of Elements_"
@@ -65,14 +66,20 @@ attacks:
     desc: "  A creature taking persistent fire damage from the brochmaw's hot oil Strike is more readily cooked, taking a –2 circumstance penalty to Fortitude saves against Roast for as long as it is taking persistent fire damage."
 
   - name: "Roast"
-    desc: "`pf2:1`  The brochmaw turns a skewer over their oven, cooking anything impaled on it. Creatures [[Conditions/Grabbed|Grabbed]] by the brochmaw's skewer take 3d6 fire damage (DC 32 Fortitude check save). Creatures who have been Roasted take a –2 circumstance penalty to Fortitude saves against Serve for 1 minute.\n[[Bestiary Effects/Effect_ Roast|Effect: Roast]]"
+    desc: "`pf2:1`  The brochmaw turns a skewer over their oven, cooking anything impaled on it. Creatures [[Conditions/Grabbed|Grabbed]] by the brochmaw's skewer take 3d6 fire damage (DC 32 Fortitude check save). Creatures who have been Roasted take a –2 circumstance penalty to Fortitude saves against Serve for 1 minute.\n\n[[Bestiary Effects/Effect_ Roast|Effect: Roast]]"
 
   - name: "Serve"
-    desc: "`pf2:2`  **Requirements** The brochmaw has a creature [[Conditions/Grabbed|Grabbed]]\n**Effect** The brochmaw eats their hard-earned meal off one of their skewers. The brochmaw bites down on one creature it has grabbed, dealing 12d6 piercing damage (DC 32 Fortitude check save); the brochmaw regains Hit Points equal to half the damage dealt. The creature is then freed from the skewer."
+    desc: "`pf2:2`  **Requirements** The brochmaw has a creature [[Conditions/Grabbed|Grabbed]]\n* * *\n\n**Effect** The brochmaw eats their hard-earned meal off one of their skewers. The brochmaw bites down on one creature it has grabbed, dealing 12d6 piercing damage (DC 32 Fortitude check save); the brochmaw regains Hit Points equal to half the damage dealt. The creature is then freed from the skewer."
 
   - name: "Skewer Master"
     desc: "  The skewers of a brochmaw are more than long enough to hold multiple creatures. A brochmaw can have up to three creatures [[Conditions/Grabbed|Grabbed]] on its skewer, and it can still make Strikes with its skewer even if it has creatures grabbed, though it can't target creatures it has grabbed."
  
+```
+
+```encounter-table
+name: Brochmaw
+creatures:
+  - 1: Brochmaw
 ```
 
 

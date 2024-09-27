@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/chaotic
   - pf2e/creature/type/human
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/1
 statblock: inline
 name: "Drunken Brawler"
@@ -22,12 +23,12 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #151: The Show Must Go On"
 name: "Drunken Brawler"
 level: "Creature 1"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Medium"
-trait_01: "chaotic"
-trait_02: "human"
-trait_03: "humanoid"
+trait_01: [[chaotic]]
+trait_02: [[human]]
+trait_03: [[humanoid]]
 modifier: 4
 perception:
   - name: "Perception"
@@ -64,11 +65,17 @@ attacks:
     desc: "`pf2:1` Improvised Weapon +6 (versatile p, versatile s)\n__Damage__  1d6 + 3 bludgeoning"
 
   - name: "Drunken Rage"
-    desc: "`pf2:1` (concentrate,emotion,mental) **Requirements** The drunken brawler isn't [[Conditions/Fatigued|Fatigued]] or raging\n**Effect** The drunken brawler begins raging. They gain 4 temporary Hit Points and deal 1 additional damage with fist Strikes. They have a -1 penalty to AC and can't use actions with the concentrate trait unless those actions also have the rage trait. The drunken brawler can still [[Actions/Seek|Seek]] while in a drunken rage. The rage lasts for 1 minute or until the drunken brawler falls [[Conditions/Unconscious|Unconscious]], whichever comes first. When the drunken rage is over, the drunken brawler is fatigued, loses all temporary Hit Points they received from the rage, and cannot rage again for 1 minute.\n[[Feat_Feature Effects/Effect_ Rage|Effect: Rage]]"
+    desc: "`pf2:1` (concentrate,emotion,mental) **Requirements** The drunken brawler isn't [[Conditions/Fatigued|Fatigued]] or raging\n* * *\n\n**Effect** The drunken brawler begins raging. They gain 4 temporary Hit Points and deal 1 additional damage with fist Strikes. They have a -1 penalty to AC and can't use actions with the concentrate trait unless those actions also have the rage trait. The drunken brawler can still [[Actions/Seek|Seek]] while in a drunken rage. The rage lasts for 1 minute or until the drunken brawler falls [[Conditions/Unconscious|Unconscious]], whichever comes first. When the drunken rage is over, the drunken brawler is fatigued, loses all temporary Hit Points they received from the rage, and cannot rage again for 1 minute.\n\n[[Feat_Feature Effects/Effect_ Rage|Effect: Rage]]"
 
   - name: "Improvised Surprise"
     desc: "`pf2:1`  The drunken brawler uses an Interact action to pick up an improvised weapon within reach and then Strikes with it. The drunken brawler has a +2 circumstance bonus to this attack."
  
+```
+
+```encounter-table
+name: Drunken Brawler
+creatures:
+  - 1: Drunken Brawler
 ```
 
 

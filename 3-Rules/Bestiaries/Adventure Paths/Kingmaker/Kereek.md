@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/chaotic
   - pf2e/creature/type/humanoid
   - pf2e/creature/type/kobold
+  - pf2eMonster
   - pf2e/creature/level/5
 statblock: inline
 name: "Kereek"
@@ -22,12 +23,12 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Kingmaker"
 name: "Kereek"
 level: "Creature 5"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Small"
-trait_01: "chaotic"
-trait_02: "humanoid"
-trait_03: "kobold"
+trait_01: [[chaotic]]
+trait_02: [[humanoid]]
+trait_03: [[kobold]]
 modifier: 12
 perception:
   - name: "Perception"
@@ -67,8 +68,14 @@ attacks:
     desc: "DC 22, attack +14; __3rd __ (2 slots) _[[Spells/Breathe Fire|Burning Hands]]_, _[[Spells/Slow|Slow]]_; __2nd __ (3 slots) _[[Spells/Breathe Fire|Burning Hands]]_, _[[Spells/Invisibility|Invisibility]]_, _[[Spells/Mist|Obscuring Mist]]_; __1st __ (3 slots) _[[Spells/Breathe Fire|Burning Hands]]_, _[[Spells/Force Barrage|Magic Missile]]_, _[[Spells/Pest Form|Pest Form]]_\n__Cantrips__  __(3rd)__ _[[Spells/Daze|Daze]]_, _[[Spells/Telekinetic Hand|Mage Hand]]_, _[[Spells/Message|Message]]_, _[[Spells/Produce Flame|Produce Flame]]_, _[[Spells/Shield|Shield]]_"
 
   - name: "Hurried Retreat"
-    desc: "`pf2:1`  **Requirements** The kobold warrior is adjacent to at least one enemy.\n**Effect** The kobold warrior Strides up to its Speed plus 5 feet and gains a +2 circumstance bonus to AC against reactions triggered by this movement. It must end this movement in a space that's not adjacent to any enemy."
+    desc: "`pf2:1`  **Requirements** The kobold warrior is adjacent to at least one enemy.\n* * *\n\n**Effect** The kobold warrior Strides up to its Speed plus 5 feet and gains a +2 circumstance bonus to AC against reactions triggered by this movement. It must end this movement in a space that's not adjacent to any enemy."
  
+```
+
+```encounter-table
+name: Kereek
+creatures:
+  - 1: Kereek
 ```
 
 

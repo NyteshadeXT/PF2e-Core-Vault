@@ -14,7 +14,7 @@ license: OGL
 ---
 # Black Smear Poison
 ## Item 2
-### [uncommon](uncommon "Uncommon Rarity Trait")[[alchemical]][[consumable]][[injury]][[3-Rules/Rule References/Poison]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[alchemical]][[consumable]][[injury]][[3-Rules/Rule References/Poison]]
 
 **Category** poison; 
 **Price** 5 gp; 
@@ -31,11 +31,11 @@ Many calignis use a debilitating poison crafted from subterranean fungi.
 
 **Maximum Duration** 6 rounds
 
-**Stage 1** 1d6 poison damage and [[Conditions/Enfeebled 1|Enfeebled 1]] (1 round)
+**Stage 1** 1d6 poison damage and [[Conditions/Enfeebled|Enfeebled 1]] (1 round)
 
 **Stage 2** As stage 1
 
-**Stage 3** 1d6 poison damage, and [[Conditions/Enfeebled 1|Enfeebled 2]] (1 round)
+**Stage 3** 1d6 poison damage, and [[Conditions/Enfeebled|Enfeebled 2]] (1 round)
 
 *Source: Pathfinder Bestiary*
 *OGL*

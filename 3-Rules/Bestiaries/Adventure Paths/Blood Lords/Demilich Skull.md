@@ -4,6 +4,7 @@ obsidianUIMode: preview
 noteType: pf2eHazard
 tags:
   - haunt
+  - pf2eHazard
 
 source: Pathfinder #182: Graveclaw
 aliases: "Compendium.pf2e.blood-lords-bestiary.Actor.614jXwpPEVRulHYD" 
@@ -21,7 +22,7 @@ name: "Demilich Skull"
 level: "Hazard 8"
 
 
-trait_01: "haunt"
+trait_01: [[haunt]]
 modifier: 18
 sourcebook: "_Pathfinder #182: Graveclaw_"
 perception:
@@ -40,10 +41,16 @@ attacks:
   - name: ""
 
   - name: "Broken Gems"
-    desc: "`pf2:r` (arcane) **Trigger** A living creature approaches within 10 feet of the skull\n**Effect** The spirits haunting the skull activate one of the skull's ruined gemstones, casting one of the following four spells determined randomly:\n*   [[Spells/Cast into Time|Cast into Time]], DC 26 Fortitude check\n*   [[Spells/Chain Lightning|Chain Lightning]], DC 26 Reflex check (8d12 electricity damage)\n*   [[Spells/Fireball|Fireball]] (6th), DC 26 Reflex check (12d6 fire damage)\n*   [[Spells/Spellwrack|Spellwrack]], DC 26 Will check (2d12 persistent force or 2 \* 2d12 persistent force damage)\nThe saving throw DC for any spell is 26."
+    desc: "`pf2:r` (arcane) **Trigger** A living creature approaches within 10 feet of the skull\n* * *\n\n**Effect** The spirits haunting the skull activate one of the skull's ruined gemstones, casting one of the following four spells determined randomly:\n\n*   [[Spells/Cast into Time|Cast into Time]], DC 26 Fortitude check\n*   [[Spells/Chain Lightning|Chain Lightning]], DC 26 Reflex check (8d12 electricity damage)\n*   [[Spells/Fireball|Fireball]] (6th), DC 26 Reflex check (12d6 fire damage)\n*   [[Spells/Spellwrack|Spellwrack]], DC 26 Will check (2d12 persistent force or 4d12 persistent force damage)\n\nThe saving throw DC for any spell is 26."
 
 
   - name: "Reset"
     desc: "1 day"
+```
+
+```encounter-table
+name: Demilich Skull
+creatures:
+  - 1: Demilich Skull
 ```
 

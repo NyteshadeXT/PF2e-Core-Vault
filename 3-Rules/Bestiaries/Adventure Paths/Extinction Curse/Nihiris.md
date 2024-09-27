@@ -11,6 +11,7 @@ tags:
   - pf2e/creature/type/spirit
   - pf2e/creature/type/undead
   - pf2e/creature/type/unholy
+  - pf2eMonster
   - pf2e/creature/level/17
 statblock: inline
 name: "Nihiris"
@@ -25,15 +26,15 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #155: Lord of the Black Sands"
 name: "Nihiris"
 level: "Creature 17"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Medium"
-trait_01: "chaotic"
-trait_02: "evil"
-trait_03: "incorporeal"
-trait_04: "spirit"
-trait_05: "undead"
-trait_06: "unholy"
+trait_01: [[chaotic]]
+trait_02: [[evil]]
+trait_03: [[incorporeal]]
+trait_04: [[spirit]]
+trait_05: [[undead]]
+trait_06: [[unholy]]
 modifier: 32
 perception:
   - name: "Perception"
@@ -66,7 +67,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Vengeful Spite"
-    desc: "`pf2:r` (occult) **Trigger** A foe critically hits the banshee, or the banshee critically fails their save against a foe's damaging effect.\n**Effect** The banshee lashes back at their tormentor, dealing 4d10 + 14 mental damage (DC 38 Will check save) and applying the effects of terrifying touch based on the results of the same Will save."
+    desc: "`pf2:r` (occult) **Trigger** A foe critically hits the banshee, or the banshee critically fails their save against a foe's damaging effect.\n* * *\n\n**Effect** The banshee lashes back at their tormentor, dealing 4d10+14 mental damage (DC 38 Will check save) and applying the effects of terrifying touch based on the results of the same Will save."
 
 attacks:
   - name: ""
@@ -78,11 +79,17 @@ attacks:
     desc: "  When a banshee Strides at least 10 feet, they're concealed until the start of their next turn."
 
   - name: "Terrifying Touch"
-    desc: " (emotion,fear,occult) A creature damaged by the banshee's touch that isn't already [[Conditions/Frightened 1|Frightened]] must attempt a DC 38 Will check save (DC 43 if the attack was a critical hit). If the creature fails its save, it's [[Conditions/Frightened 1|Frightened 2]]; on a critical failure, the creature also cowers with fear and is [[Conditions/Stunned 1|Stunned 4]]. If the creature is protected against fear by a spell or magic item, the banshee's touch first attempts to counteract the protection effect, with the effect of a 9th-rank [[Spells/Dispel Magic|Dispel Magic]] spell."
+    desc: " (emotion,fear,occult) A creature damaged by the banshee's touch that isn't already [[Conditions/Frightened|Frightened]] must attempt a DC 38 Will check save (DC 43 if the attack was a critical hit). If the creature fails its save, it's [[Conditions/Frightened|Frightened 2]]; on a critical failure, the creature also cowers with fear and is [[Conditions/Stunned|Stunned 4]]. If the creature is protected against fear by a spell or magic item, the banshee's touch first attempts to counteract the protection effect, with the effect of a 9th-rank [[Spells/Dispel Magic|Dispel Magic]] spell."
 
   - name: "Wail"
-    desc: "`pf2:2` (auditory,concentrate,death,occult) The banshee unleashes a soul-chilling [[Spells/Wails of the Damned|Wails of the Damned]] (DC 38). This Wail overcomes [[Spells/Silence|Silence]] and similar effects of 5th level or lower. The banshee can instead use Wail as a three-action activity to overcome such effects of up to 8th level.\nThe banshee's Wail resonates for 1 round, and any creature that comes within the area during that time must attempt a save against the effect. A creature can't be affected more than once by the same Wail. The banshee can't Wail again for 1d4 rounds."
+    desc: "`pf2:2` (auditory,concentrate,death,occult) The banshee unleashes a soul-chilling [[Spells/Wails of the Damned|Wails of the Damned]] (DC 38). This Wail overcomes [[Spells/Silence|Silence]] and similar effects of 5th level or lower. The banshee can instead use Wail as a three-action activity to overcome such effects of up to 8th level.\n\nThe banshee's Wail resonates for 1 round, and any creature that comes within the area during that time must attempt a save against the effect. A creature can't be affected more than once by the same Wail. The banshee can't Wail again for 1d4 rounds."
  
+```
+
+```encounter-table
+name: Nihiris
+creatures:
+  - 1: Nihiris
 ```
 
 

@@ -6,6 +6,7 @@ cssClasses: pf2e
 aliases: "Compendium.pf2e.pathfinder-bestiary-3.Actor.pFUv7BzSjYTOo5mO" 
 tags:
   - pf2e/creature/type/animal
+  - pf2eMonster
   - pf2e/creature/level/-1
 statblock: inline
 name: "Monkey"
@@ -24,11 +25,12 @@ level: "Creature -1"
 
 alignment: ""
 size: "tiny"
-trait_01: "animal"
+trait_01: [[animal]]
 modifier: 6
 perception:
   - name: "Perception"
     desc: "+6; "
+languages: ""
 skills:
   - name: "Skills"
     desc: "Acrobatics: +5, Thievery: +5"
@@ -58,6 +60,12 @@ attacks:
   - name: "Grab and Go"
     desc: "`pf2:2`  The monkey Strides or Climbs up to its Speed. At any point during this movement, it can Interact to take a single unattended item of light Bulk or less that it can see from a square it moves through or is adjacent to. Alternatively, if not in combat, during this movement it can attempt to [[Actions/Steal|Steal]] from an adjacent creature."
  
+```
+
+```encounter-table
+name: Monkey
+creatures:
+  - 1: Monkey
 ```
 
 

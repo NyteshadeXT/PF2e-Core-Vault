@@ -4,6 +4,7 @@ obsidianUIMode: preview
 noteType: pf2eHazard
 tags:
   - mechanical
+  - pf2eHazard
   - complex
 source: Pathfinder #161: Belly of the Black Whale
 aliases: "Compendium.pf2e.agents-of-edgewatch-bestiary.Actor.82wJQmzPlKttl0sc" 
@@ -21,13 +22,13 @@ name: "Clockwork Arms"
 level: "Hazard 15"
 
 trait_06: "Complex"
-trait_01: "mechanical"
+trait_01: [[mechanical]]
 modifier: 30
 sourcebook: "_Pathfinder #161: Belly of the Black Whale_"
 ac: 37
 armorclass:
   - name: AC
-    desc: "37; __Fort__ +23, __Ref__ +26, __Will__ +0"
+    desc: "37; __Fort__ +23, __Ref__ +26, "
 hp: 50
 health:
   - name: ""
@@ -49,7 +50,7 @@ attacks:
   - name: ""
 
   - name: "Arm Activation"
-    desc: "`pf2:r` **Trigger** The Rumormonger or the Inkmaster enters the room\n**Effect** The trap rolls initiative."
+    desc: "`pf2:r` **Trigger** The Rumormonger or the Inkmaster enters the room\n* * *\n\n**Effect** The trap rolls initiative."
   - name: "Melee"
     desc: "Claw +28 () "
 
@@ -59,5 +60,11 @@ attacks:
   - name: "Routine"
     desc: "(4 actions) The trap loses 1 action per arm destroyed or disabled. On its turn, the trap makes claw Strikes against creatures other than the Rumormonger or the Inkmaster. If an arm already has a creature grabbed, the trap spends 2 actions to use its Open Hatch ability."
 
+```
+
+```encounter-table
+name: Clockwork Arms
+creatures:
+  - 1: Clockwork Arms
 ```
 

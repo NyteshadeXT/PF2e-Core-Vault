@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/animal
   - pf2e/creature/type/aquatic
   - pf2e/creature/type/mindless
+  - pf2eMonster
   - pf2e/creature/level/4
 statblock: inline
 name: "Giant Glaucus Slug"
@@ -26,13 +27,14 @@ level: "Creature 4"
 
 alignment: ""
 size: "Small"
-trait_01: "animal"
-trait_02: "aquatic"
-trait_03: "mindless"
+trait_01: [[animal]]
+trait_02: [[aquatic]]
+trait_03: [[mindless]]
 modifier: 9
 perception:
   - name: "Perception"
     desc: "+9; Low-Light Vision"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Acrobatics: +13, Athletics: +10, Stealth: +11"
@@ -54,7 +56,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Reactive Sting"
-    desc: "`pf2:r`  **Trigger** A creature touches the giant glaucus slug or hits it with an unarmed attack;\n**Effect** The triggering creature takes 1d6 poison damage and is exposed to concentrated jellyfish venom."
+    desc: "`pf2:r`  **Trigger** A creature touches the giant glaucus slug or hits it with an unarmed attack;\n\n**Effect** The triggering creature takes 1d6 poison damage and is exposed to concentrated jellyfish venom."
 
 attacks:
   - name: ""
@@ -66,11 +68,17 @@ attacks:
     desc: "`pf2:1` Cerata +13 (agile, finesse)\n__Damage__  1d6 + 5 bludgeoning plus concentrated-jellyfish-venom"
 
   - name: "Concentrated Jellyfish Venom"
-    desc: " (poison) **Saving Throw** Fortitude;\n**Maximum Duration** 6 rounds;\n**Stage 1** Clumsy 1 (1 round);\n**Stage 2** 1d6 poison damage and Clumsy 2 (1 round);\n**Stage 3** 2d6 poison damage and Clumsy 3 (1 round)"
+    desc: " (poison) **Saving Throw** DC 22 Fortitude;\n\n**Maximum Duration** 6 rounds;\n\n**Stage 1** [[Conditions/Clumsy|Clumsy 1]] (1 round);\n\n**Stage 2** 1d6 poison damage and [[Conditions/Clumsy|Clumsy 2]] (1 round);\n\n**Stage 3** 2d6 poison damage and [[Conditions/Clumsy|Clumsy 3]] (1 round)"
 
   - name: "Consume Poison"
-    desc: "  **Frequency** once per round;\n**Requirements** The giant glaucus slug has made a successful tongue Strike against a creature that has a venom;\n**Effect** The giant glaucus slug rapidly digests its prey's venom and stores it in its cerata. For 1 hour, the glaucus's cerata Strike deals an additional 1d6 poison damage. The glaucus can use this ability multiple times to increase the amount of poison damage dealt, to a maximum of 4d6 poison damage.\nEffect: Consume Poison (1 Dose)\nEffect: Consume Poison (2 Doses)\nEffect: Consume Poison (3 Doses)\nEffect: Consume Poison (4 Doses)"
+    desc: "  **Frequency** once per round;\n\n**Requirements** The giant glaucus slug has made a successful tongue Strike against a creature that has a venom;\n\n**Effect** The giant glaucus slug rapidly digests its prey's venom and stores it in its cerata. For 1 hour, the glaucus's cerata Strike deals an additional 1d6 poison damage. The glaucus can use this ability multiple times to increase the amount of poison damage dealt, to a maximum of 4d6 poison damage.\n* * *\n\n[[Effects/Effect_ Consume Poison (1 Dose)|Effect: Consume Poison (1 Dose)]]\n\n[[Effects/Effect_ Consume Poison (2 Doses)|Effect: Consume Poison (2 Doses)]]\n\n[[Effects/Effect_ Consume Poison (3 Doses)|Effect: Consume Poison (3 Doses)]]\n\n[[Effects/Effect_ Consume Poison (4 Doses)|Effect: Consume Poison (4 Doses)]]"
  
+```
+
+```encounter-table
+name: Giant Glaucus Slug
+creatures:
+  - 1: Giant Glaucus Slug
 ```
 
 

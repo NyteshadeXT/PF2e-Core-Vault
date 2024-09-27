@@ -11,6 +11,7 @@ tags:
   - pf2e/creature/type/undead
   - pf2e/creature/type/unholy
   - pf2e/creature/type/zombie
+  - pf2eMonster
   - pf2e/creature/level/9
 statblock: inline
 name: "Zombie Dragon"
@@ -29,16 +30,17 @@ level: "Creature 9"
 
 alignment: ""
 size: "huge"
-trait_01: "dragon"
-trait_02: "evil"
-trait_03: "mindless"
-trait_04: "undead"
-trait_05: "unholy"
-trait_06: "zombie"
+trait_01: [[dragon]]
+trait_02: [[evil]]
+trait_03: [[mindless]]
+trait_04: [[undead]]
+trait_05: [[unholy]]
+trait_06: [[zombie]]
 modifier: 16
 perception:
   - name: "Perception"
     desc: "+16; Darkvision"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Acrobatics: +16, Athletics: +19"
@@ -58,7 +60,7 @@ abilities_top:
   - name: ""
 
   - name: "Slow"
-    desc: "  The zombie dragon is permanently [[Conditions/Slowed 1|Slowed 1]] and can't use reactions."
+    desc: "  The zombie dragon is permanently [[Conditions/Slowed|Slowed 1]] and can't use reactions."
 
 abilities_mid:
   - name: ""
@@ -75,8 +77,14 @@ attacks:
     desc: "`pf2:1` Tail +19 (reach 20 feet)\n__Damage__  2d6 + 10 bludgeoning"
 
   - name: "Breath Weapon"
-    desc: "`pf2:2`  The zombie dragon breathes a wave of fetid viscera that deals 5d6 bludgeoning damage and 5d6 poison damage (DC 28 Reflex check save). A creature that critically fails is also [[Conditions/Sickened 1|Sickened 2]].\nThe zombie dragon can't use Breath Weapon again for 1d4 rounds."
+    desc: "`pf2:2`  The zombie dragon breathes a wave of fetid viscera that deals 5d6 bludgeoning damage and 5d6 poison damage (DC 28 Reflex check save). A creature that critically fails is also [[Conditions/Sickened|Sickened 2]].\n\nThe zombie dragon can't use Breath Weapon again for 1d4 rounds."
  
+```
+
+```encounter-table
+name: Zombie Dragon
+creatures:
+  - 1: Zombie Dragon
 ```
 
 

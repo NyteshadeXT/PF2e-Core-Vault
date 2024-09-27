@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.age-of-ashes-bestiary.Actor.Oqj8XIWBb29NZ8QX"
 tags:
   - pf2e/creature/type/aberration
   - pf2e/creature/type/evil
+  - pf2eMonster
   - pf2e/creature/level/3
 statblock: inline
 name: "Tixitog"
@@ -21,11 +22,11 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #145: Hellknight Hill"
 name: "Tixitog"
 level: "Creature 3"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Medium"
-trait_01: "aberration"
-trait_02: "evil"
+trait_01: [[aberration]]
+trait_02: [[evil]]
 modifier: 9
 perception:
   - name: "Perception"
@@ -33,7 +34,7 @@ perception:
 languages: "Aklo, Common"
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +8, Athletics: +10, Occultism: +7, Spider Lore: +9, Stealth: +10"
+    desc: "Acrobatics: +8, Athletics: +10, Occultism: +7, Stealth: +10, Spider Lore: +9"
 abilityMods: [3, 3, 2, 0, 2, -1]
 speed: 25 feet,  climb 25 feet
 sourcebook: "_Pathfinder #145: Hellknight Hill_"
@@ -67,11 +68,17 @@ attacks:
     desc: "`pf2:1` Leg +10 (agile)\n__Damage__  1d10 + 5 bludgeoning"
 
   - name: "[[Bestiary Ability Glossary/Swallow Whole|Swallow Whole]]"
-    desc: "`pf2:1` (attack) Small, 1d12 + 3 bludgeoning, Rupture 10\n"
+    desc: "`pf2:1` (attack) Small, 1d12 + 3 bludgeoning, Rupture 10\n\n* * *\n"
 
   - name: "Tongue Pull"
     desc: "  When a tixitog hits a Small or smaller creature with its tongue Strike, the target is pulled into the tixitog's mouth. The tixitog can then attempt to Swallow it Whole."
  
+```
+
+```encounter-table
+name: Tixitog
+creatures:
+  - 1: Tixitog
 ```
 
 

@@ -10,6 +10,7 @@ tags:
   - pf2e/creature/type/fiend
   - pf2e/creature/type/nindoru
   - pf2e/creature/type/unholy
+  - pf2eMonster
   - pf2e/creature/level/2
 statblock: inline
 name: "Meokdan"
@@ -24,14 +25,14 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #197: Let the Leaves Fall"
 name: "Meokdan"
 level: "Creature 2"
-rare_03: "Rare"
+rare_03: [[Rare]]
 alignment: ""
 size: "Medium"
-trait_01: "chaotic"
-trait_02: "evil"
-trait_03: "fiend"
-trait_04: "nindoru"
-trait_05: "unholy"
+trait_01: [[chaotic]]
+trait_02: [[evil]]
+trait_03: [[fiend]]
+trait_04: [[nindoru]]
+trait_05: [[unholy]]
 modifier: 9
 perception:
   - name: "Perception"
@@ -71,14 +72,20 @@ attacks:
     desc: "DC 18, attack +10; __2nd __  _[[Spells/Item Facade|Item Facade]]_; __1st __  _[[Spells/Illusory Disguise|Illusory Disguise]]_, _[[Spells/Phantom Pain|Phantom Pain]]_\n__Cantrips__  __(1st)__ _[[Spells/Telekinetic Projectile|Telekinetic Projectile]]_"
 
   - name: "Manifest Bone Club"
-    desc: "`pf2:1` (concentrate,occult) **Requirements** The meokdan isn't carrying a bone club\n**Effect** The meokdan reaches down its throat into its stomach and pulls out a human femur that it can wield as a bone club. After the meokdan Strikes a creature, the bone club shatters, but its sharp fragments remain in roughly the same shape; Strikes with a shattered bone club inflict slashing and bleed damage. After the meokdan Strikes with a shattered bone club, or if the meokdan drops the bone club, the club is destroyed, and the nindoru can Manifest a new bone club."
+    desc: "`pf2:1` (concentrate,occult) **Requirements** The meokdan isn't carrying a bone club\n* * *\n\n**Effect** The meokdan reaches down its throat into its stomach and pulls out a human femur that it can wield as a bone club. After the meokdan Strikes a creature, the bone club shatters, but its sharp fragments remain in roughly the same shape; Strikes with a shattered bone club inflict slashing and bleed damage. After the meokdan Strikes with a shattered bone club, or if the meokdan drops the bone club, the club is destroyed, and the nindoru can Manifest a new bone club."
 
   - name: "Quick Snack"
-    desc: "`pf2:r`  **Trigger** The meokdan critically hits a living creature with its bite\n**Effect** The meokdan Snacks on the creature."
+    desc: "`pf2:r`  **Trigger** The meokdan critically hits a living creature with its bite\n* * *\n\n**Effect** The meokdan Snacks on the creature."
 
   - name: "Snack"
-    desc: "`pf2:2`  The meokdan attempts a bite Strike against an adjacent creature or chews on a handheld object they're carrying. If the creature is living or the object is food, the meokdan gurgles in delight and restores 1d8 + 8 Hit Points. If the creature is undead or a construct, or the object is inedible, the meokdan shrieks in frustration and gains a +1 status bonus to attack rolls and saving throws until the end of its next turn. The meokdan can't Snack again for 1 round."
+    desc: "`pf2:2`  The meokdan attempts a bite Strike against an adjacent creature or chews on a handheld object they're carrying. If the creature is living or the object is food, the meokdan gurgles in delight and restores 1d8+8 Hit Points. If the creature is undead or a construct, or the object is inedible, the meokdan shrieks in frustration and gains a +1 status bonus to attack rolls and saving throws until the end of its next turn. The meokdan can't Snack again for 1 round."
  
+```
+
+```encounter-table
+name: Meokdan
+creatures:
+  - 1: Meokdan
 ```
 
 

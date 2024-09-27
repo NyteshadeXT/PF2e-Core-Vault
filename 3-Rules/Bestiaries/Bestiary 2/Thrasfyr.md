@@ -10,6 +10,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/fire
   - pf2e/creature/type/tane
+  - pf2eMonster
   - pf2e/creature/level/17
 statblock: inline
 name: "Thrasfyr"
@@ -25,14 +26,14 @@ token: [[modules/pf2e-tokens-bestiaries/portraits/bestial/mythological/thrasfyr.
 source: "Pathfinder Bestiary 2"
 name: "Thrasfyr"
 level: "Creature 17"
-rare_03: "Rare"
+rare_03: [[Rare]]
 alignment: ""
 size: "huge"
-trait_01: "beast"
-trait_02: "chaotic"
-trait_03: "evil"
-trait_04: "fire"
-trait_05: "tane"
+trait_01: [[beast]]
+trait_02: [[chaotic]]
+trait_03: [[evil]]
+trait_04: [[fire]]
+trait_05: [[tane]]
 modifier: 31
 perception:
   - name: "Perception"
@@ -80,17 +81,23 @@ attacks:
     desc: "DC 37, attack +27; __9th __  _[[Spells/Teleport|Teleport (Self and rider only)]]_; __2nd __  _[[Spells/See the Unseen|See Invisibility]]_\n__Constant__  __(4th)__ _[[Spells/Air Walk|Air Walk]]_"
 
   - name: "Breath Weapon"
-    desc: "`pf2:2`  The thrasfyr's serpent tail breathes a blast of flame in a 50-foot cone, dealing 10d12 fire damage (DC 40 Reflex check save).\nIt can't use Breath Weapon again for 1d4 rounds."
+    desc: "`pf2:2`  The thrasfyr's serpent tail breathes a blast of flame in a @Template[cone|distance:50], dealing 10d12 fire damage (DC 40 Reflex check save).\n\nIt can't use Breath Weapon again for 1d4 rounds."
 
   - name: "Rider's Bond"
     desc: "`pf2:1` (mental,primal) The thrasfyr designates one creature as its rider by touching the rider with its claw. The thrasfyr and rider can communicate with each other telepathically at any range on the same plane and are aware of each other's present state, direction from each other, distance from each other, and any conditions affecting either."
 
   - name: "Tangling Chains"
-    desc: "`pf2:2` (incapacitation,primal) The thrasfyr thrashes its chains in all directions. Each creature in a 15-foot emanation takes 18d6 bludgeoning damage (DC 38 Reflex check save); creatures that fail are [[Conditions/Immobilized|Immobilized]] until the start of the thrasfyr's next turn.\nThe thrasfyr can't use Tangling Chains or make chain Strikes for 1d4 rounds."
+    desc: "`pf2:2` (incapacitation,primal) The thrasfyr thrashes its chains in all directions. Each creature in a @Template[emanation|distance:15] takes 18d6 bludgeoning damage (DC 38 Reflex check save); creatures that fail are [[Conditions/Immobilized|Immobilized]] until the start of the thrasfyr's next turn.\n\nThe thrasfyr can't use Tangling Chains or make chain Strikes for 1d4 rounds."
 
   - name: "Whirling Frenzy"
     desc: "`pf2:2`  The thrasfyr makes a jaws Strike, a horn Strike, and two claw Strikes, each against a different target. Each attack counts toward the thrasfyr's multiple attack penalty, but the penalty doesn't increase until after all the attacks."
  
+```
+
+```encounter-table
+name: Thrasfyr
+creatures:
+  - 1: Thrasfyr
 ```
 
 

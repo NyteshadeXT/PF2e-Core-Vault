@@ -11,7 +11,7 @@ license: OGL
 ---
 # Alchemist Armor Expertise (Level 13)
 ## Feat 13
-### [[alchemist]]
+### [[3-Rules/trait_reference/alchemist]]
 
 **Category** classfeature; 
 

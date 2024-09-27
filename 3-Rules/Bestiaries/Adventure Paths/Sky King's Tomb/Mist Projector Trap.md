@@ -6,6 +6,7 @@ tags:
   - cold
   - trap
   - water
+  - pf2eHazard
 
 source: Pathfinder #194: Cult of the Cave Worm
 aliases: "Compendium.pf2e.sky-kings-tomb-bestiary.Actor.gRS9SJoGg8MxFvT3" 
@@ -23,15 +24,15 @@ name: "Mist Projector Trap"
 level: "Hazard 7"
 
 
-trait_01: "cold"
-trait_02: "trap"
-trait_03: "water"
+trait_01: [[cold]]
+trait_02: [[trap]]
+trait_03: [[water]]
 modifier: 13
 sourcebook: "_Pathfinder #194: Cult of the Cave Worm_"
 ac: 25
 armorclass:
   - name: AC
-    desc: "25; __Fort__ +17, __Ref__ +10, __Will__ +0"
+    desc: "25; __Fort__ +17, __Ref__ +10, "
 hp: 60
 health:
   - name: ""
@@ -53,10 +54,16 @@ attacks:
   - name: ""
 
   - name: "Icy Mist"
-    desc: "action (cold, water) **Trigger** The northeast bookshelf is touched\n**Effect** Freezing mist fills a 30-foot cone originating from the room's northeast corner. Creatures in the area take 5d8 cold damage (DC 25 Fortitude check). Creatures who fail or critically fail the saving throw take 2d8 persistent cold damage for up to 3 rounds. The affected area is filled with mist that functions as obscuring mist for 3 rounds."
+    desc: "action (cold, water) **Trigger** The northeast bookshelf is touched\n* * *\n\n**Effect** Freezing mist fills a @Template[cone|distance:30] originating from the room's northeast corner. Creatures in the area take 5d8 cold damage (DC 25 Fortitude check). Creatures who fail or critically fail the saving throw take 2d8 persistent cold damage for up to 3 rounds. The affected area is filled with mist that functions as obscuring mist for 3 rounds."
 
 
   - name: "Reset"
     desc: "8 hours"
+```
+
+```encounter-table
+name: Mist Projector Trap
+creatures:
+  - 1: Mist Projector Trap
 ```
 

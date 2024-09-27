@@ -9,8 +9,9 @@ tags:
   - trait/trap
   - trait/common
   - category/snare
+  - remaster
 aliases: "Compendium.pf2e.equipment-srd.Item.kF761P3ibBIFmLm9"
-license: OGL
+license: ORC
 ---
 # Caltrop Snare
 ## Item 1
@@ -29,5 +30,5 @@ If the caltrops scatter into the same square as a creature, that creature must a
 
 **Craft Requirements** Supply a container of caltrops.
 
-*Source: Pathfinder Core Rulebook*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

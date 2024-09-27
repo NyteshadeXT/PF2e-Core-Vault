@@ -12,7 +12,7 @@ license: OGL
 ---
 # Fate Shot
 ## Item 6
-### [[consumable]][[magical]]
+### [[consumable]][[3-Rules/Rule References/Magical]]
 
 **Category** ammo; 
 **Price** 50 gp; 

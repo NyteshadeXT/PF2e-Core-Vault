@@ -6,6 +6,7 @@ cssClasses: pf2e
 aliases: "Compendium.pf2e.pathfinder-monster-core.Actor.D2Pe38jYbeBxUaxU" 
 tags:
   - pf2e/creature/type/aberration
+  - pf2eMonster
   - pf2e/creature/level/10
   - remaster
 statblock: inline
@@ -25,7 +26,7 @@ level: "Creature 10"
 
 alignment: ""
 size: "Medium"
-trait_01: "aberration"
+trait_01: [[aberration]]
 modifier: 19
 perception:
   - name: "Perception"
@@ -69,6 +70,12 @@ attacks:
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
     desc: "`pf2:1`  "
  
+```
+
+```encounter-table
+name: Nilith
+creatures:
+  - 1: Nilith
 ```
 
 

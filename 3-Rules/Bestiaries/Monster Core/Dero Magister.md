@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.pathfinder-monster-core.Actor.qyCcr32PVcnNm4Wr"
 tags:
   - pf2e/creature/type/dero
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/5
   - remaster
 statblock: inline
@@ -23,11 +24,11 @@ token: [[modules/pf2e-tokens-bestiaries/portraits/humanoid/darklands/dero-magist
 source: "Pathfinder Monster Core"
 name: "Dero Magister"
 level: "Creature 5"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Small"
-trait_01: "dero"
-trait_02: "humanoid"
+trait_01: [[dero]]
+trait_02: [[humanoid]]
 modifier: 8
 perception:
   - name: "Perception"
@@ -75,6 +76,12 @@ attacks:
   - name: "Dero Medicine"
     desc: "`pf2:1` (healing,manipulate) **Requirements** The dero is wearing a cytillesh toolkit and has a hand free\n* * *\n\n**Effect** The dero excises damaged flesh and crudely stitches wounds shut, healing themself or an ally in reach for 2d8+10 Hit Points. For 1 hour, the target has slashing weakness 2 and is immune to Dero Medicine.\n\n[[Bestiary Effects/Effect_ Dero Medicine|Effect: Dero Medicine]]"
  
+```
+
+```encounter-table
+name: Dero Magister
+creatures:
+  - 1: Dero Magister
 ```
 
 

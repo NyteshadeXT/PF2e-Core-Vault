@@ -6,6 +6,7 @@ cssClasses: pf2e
 aliases: "Compendium.pf2e.pfs-season-5-bestiary.Actor.oNgo28jVdWiHUSY2" 
 tags:
   - pf2e/creature/type/undead
+  - pf2eMonster
   - pf2e/creature/level/4
 statblock: inline
 name: "Busoborn Void Zombie"
@@ -20,14 +21,15 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Society Scenario #5-09: Equal Exchange - Skymetal Hoard"
 name: "Busoborn Void Zombie"
 level: "Creature 4"
-rare_03: "Rare"
+rare_03: [[Rare]]
 alignment: ""
 size: "Medium"
-trait_01: "undead"
+trait_01: [[undead]]
 modifier: 7
 perception:
   - name: "Perception"
     desc: "+7; Darkvision"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Athletics: +10"
@@ -49,7 +51,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Salt Water Vulnerability"
-    desc: "  Salt water acts as an extremely strong acid to the larval akata inside a void zombie. A splash of salt water deals 1d6 acid damage to a void zombie, while full immersion in salt water deals 4d6 acid damage per round. The larval akata within retreats to the depths of its body on any round it takes damage as a result of this vulnerability, and the void zombie becomes [[Conditions/Slowed 1|Slowed 1]] until the end of its next turn."
+    desc: "  Salt water acts as an extremely strong acid to the larval akata inside a void zombie. A splash of salt water deals 1d6 acid damage to a void zombie, while full immersion in salt water deals 4d6 acid damage per round. The larval akata within retreats to the depths of its body on any round it takes damage as a result of this vulnerability, and the void zombie becomes [[Conditions/Slowed|Slowed 1]] until the end of its next turn."
 
 attacks:
   - name: ""
@@ -61,11 +63,17 @@ attacks:
     desc: "`pf2:1` Feeding Tendril +10 (agile, reach 10 feet)\n__Damage__  3d4 + 5 piercing plus feed-on-blood"
 
   - name: "Blood Drain"
-    desc: "`pf2:1`  **Requirements** The void zombie's previous action was a successful feeding tendril Strike against the target creature\n**Effect** The void zombie uses its feeding tendril to drain blood from the creature it has struck. This deals 2d4 bleed damage, and a creature that takes this damage is [[Conditions/Drained 1|Drained 1]] until it receives healing (of any kind or amount)."
+    desc: "`pf2:1`  **Requirements** The void zombie's previous action was a successful feeding tendril Strike against the target creature\n* * *\n\n**Effect** The void zombie uses its feeding tendril to drain blood from the creature it has struck. This deals 2d4 bleed damage, and a creature that takes this damage is [[Conditions/Drained|Drained 1]] until it receives healing (of any kind or amount)."
 
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
     desc: "`pf2:1`  "
  
+```
+
+```encounter-table
+name: Busoborn Void Zombie
+creatures:
+  - 1: Busoborn Void Zombie
 ```
 
 

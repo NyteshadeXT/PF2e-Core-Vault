@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/chaotic
   - pf2e/creature/type/construct
   - pf2e/creature/type/evil
+  - pf2eMonster
   - pf2e/creature/level/3
 statblock: inline
 name: "Farmer Drystan&#x27;s Scarecrow (3-4)"
@@ -25,9 +26,9 @@ level: "Creature 3"
 
 alignment: ""
 size: "Large"
-trait_01: "chaotic"
-trait_02: "construct"
-trait_03: "evil"
+trait_01: [[chaotic]]
+trait_02: [[construct]]
+trait_03: [[evil]]
 modifier: 12
 perception:
   - name: "Perception"
@@ -71,6 +72,12 @@ attacks:
   - name: "Woodwalk"
     desc: "  The scarecrow ignores difficult terrain from non-magical foliage."
  
+```
+
+```encounter-table
+name: Farmer Drystan's Scarecrow (3-4)
+creatures:
+  - 1: Farmer Drystan's Scarecrow (3-4)
 ```
 
 

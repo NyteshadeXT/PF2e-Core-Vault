@@ -3,6 +3,7 @@ obsidianUIMode: preview
 title: "Wardrobe Stone (Lesser)"
 cssclasses: pf2e,pf2e-spell
 tags:
+  - trait/illusion
   - trait/invested
   - trait/magical
   - trait/uncommon
@@ -11,7 +12,7 @@ license: OGL
 ---
 # Wardrobe Stone (Lesser)
 ## Item 3
-### [uncommon](uncommon "Uncommon Rarity Trait")[[invested]][[magical]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[illusion]][[invested]][[magical]]
 
 
 **Price** 50 gp; 

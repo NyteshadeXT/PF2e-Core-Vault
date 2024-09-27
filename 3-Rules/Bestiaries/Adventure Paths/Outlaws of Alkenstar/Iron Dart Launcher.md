@@ -5,6 +5,7 @@ noteType: pf2eHazard
 tags:
   - mechanical
   - trap
+  - pf2eHazard
 
 source: Pathfinder #179: Cradle of Quartz
 aliases: "Compendium.pf2e.outlaws-of-alkenstar-bestiary.Actor.GcgnvVY0TYSFloLo" 
@@ -22,14 +23,14 @@ name: "Iron Dart Launcher"
 level: "Hazard 4"
 
 
-trait_01: "mechanical"
-trait_02: "trap"
+trait_01: [[mechanical]]
+trait_02: [[trap]]
 modifier: 15
 sourcebook: "_Pathfinder #179: Cradle of Quartz_"
 ac: 22
 armorclass:
   - name: AC
-    desc: "22; __Fort__ +14, __Ref__ +8, __Will__ +0"
+    desc: "22; __Fort__ +14, __Ref__ +8, "
 hp: 50
 health:
   - name: ""
@@ -51,10 +52,16 @@ attacks:
   - name: ""
 
   - name: "Dart"
-    desc: "`pf2:r` **Trigger** The front door is fully opened, Forced Open, or broken\n**Effect** A hail of iron darts launches along a 20-foot line from the desk through the doorway, dealing 4d8 + 10 piercing damage to each creature in the area of effect (DC 24 Reflex check)."
+    desc: "`pf2:r` **Trigger** The front door is fully opened, Forced Open, or broken\n* * *\n\n**Effect** A hail of iron darts launches along a @Template[line|distance:20] from the desk through the doorway, dealing 4d8+10 piercing damage to each creature in the area of effect (DC 24 Reflex check)."
 
 
   - name: "Reset"
     desc: "The trap resets as soon as the door is closed. It has enough darts to trigger three times, after which, it must be reloaded with 20 darts before it can reset again."
+```
+
+```encounter-table
+name: Iron Dart Launcher
+creatures:
+  - 1: Iron Dart Launcher
 ```
 

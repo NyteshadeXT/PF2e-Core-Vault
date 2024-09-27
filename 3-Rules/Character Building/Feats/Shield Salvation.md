@@ -6,8 +6,9 @@ tags:
   - trait/archetype
   - trait/common
   - category/class
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.4bB3N36DmqllGJNx"
-license: OGL
+license: ORC
 ---
 # Shield Salvation
 ## Feat 12
@@ -19,9 +20,9 @@ license: OGL
 
 **Prerequisites** Bastion Dedication
 * * *
-You can save your shield from total destruction, even after a devastating attack. If a shield would be destroyed due to damage taken during your [[Feats/Shield Block|Shield Block]], the shield remains intact at 1 Hit Point instead.
+You can save your shield from total destruction, even after a devastating attack. If a shield would be destroyed due to damage taken during your Shield Block, the shield remains intact at 1 Hit Point instead.
 
-Its construction is weakened until you take the time to repair it, preventing you from using Shield Salvation to save the same shield until your next preparations.
+Its construction is weakened until you take the time to repair it thoroughly, preventing you from using Shield Salvation to save the same shield until your next preparations.
 
-*Source: Pathfinder Advanced Player's Guide*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

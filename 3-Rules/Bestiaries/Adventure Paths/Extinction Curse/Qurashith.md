@@ -10,6 +10,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/fiend
   - pf2e/creature/type/unholy
+  - pf2eMonster
   - pf2e/creature/level/17
 statblock: inline
 name: "Qurashith"
@@ -24,19 +25,19 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #154: Siege of the Dinosaurs"
 name: "Qurashith"
 level: "Creature 17"
-rare_03: "Rare"
+rare_03: [[Rare]]
 alignment: ""
 size: "huge"
-trait_01: "aberration"
-trait_02: "chaotic"
-trait_03: "evil"
-trait_04: "fiend"
-trait_05: "unholy"
+trait_01: [[aberration]]
+trait_02: [[chaotic]]
+trait_03: [[evil]]
+trait_04: [[fiend]]
+trait_05: [[unholy]]
 modifier: 33
 perception:
   - name: "Perception"
     desc: "+33; Greater Darkvision, Scent (Imprecise) 60 Feet, Truesight"
-languages: "Chthonian"
+languages: "Chthonian; telepathy 120 feet, tongues"
 skills:
   - name: "Skills"
     desc: "Acrobatics: +30, Athletics: +32, Deception: +29, Stealth: +32, Survival: +28"
@@ -61,7 +62,7 @@ abilities_mid:
     desc: "  Any creature that Strikes the qurashith with a melee weapon must attempt a DC 37 Reflex check save. On a failure, the creature is disarmed of its weapon, which becomes stuck to the qurashith's body; if the Strike was an unarmed attack, the creature's limb sticks to the qurashith's body and the creature becomes immobilized. A creature must succeed at a DC 31 Athletics check check to retrieve a stuck weapon. On a failure, the creature takes 2d6 acid damage and the weapon remains stuck, and on a critical failure, the creature also becomes stuck to the qurashith and becomes [[Conditions/Immobilized|Immobilized]]. A stuck creature takes 2d6 acid damage each round it remains stuck to the qurashith and can use an [[Actions/Escape|Escape]] action to try to free itself from the monster (DC 31)."
 
   - name: "[[Bestiary Ability Glossary/Frightful Presence|Frightful Presence]]"
-    desc: " (aura,emotion,fear,mental) 90 feet. DC 33 Will check\n"
+    desc: " (aura,emotion,fear,mental) 90 feet. DC 33 Will check\n\n* * *\n"
 
 attacks:
   - name: ""
@@ -79,14 +80,20 @@ attacks:
     desc: "DC 35, attack +27; __6th __ (1 slots) _[[Spells/Teleport|Teleport (At Will, Self Only)]]_\n__Constant__  __(6th)__ _[[Spells/Truesight|True Seeing]]_"
 
   - name: "Paralytic Saliva"
-    desc: "  A creature that takes damage from a qurashith's jaws or spittle must succeed at a DC 39 Fortitude check save or be [[Conditions/Slowed 1|Slowed 1]] for 1d4 rounds ([[Conditions/Slowed 1|Slowed 2]] on a critical failure). If a creature is already slowed when it fails its save, it becomes [[Conditions/Paralyzed|Paralyzed]] for 1 round."
+    desc: "  A creature that takes damage from a qurashith's jaws or spittle must succeed at a DC 39 Fortitude check save or be [[Conditions/Slowed|Slowed 1]] for 1d4 rounds ([[Conditions/Slowed|Slowed 2]] on a critical failure). If a creature is already slowed when it fails its save, it becomes [[Conditions/Paralyzed|Paralyzed]] for 1 round."
 
   - name: "Psychic Howl"
-    desc: "`pf2:2`  The qurashith unleashes a debilitating psionic scream. Creatures in a 60-foot cone must succeed at a DC 35 Will check save or become [[Conditions/Stupefied 1|Stupefied 2]] ([[Conditions/Stupefied 1|Stupefied 4]] on a critical failure) for 1 minute. A creature that critically succeeds at its Will save is immune to the qurashith's Psychic Howl for 24 hours. The qurashith can't use Psychic Howl again for 1d4 rounds."
+    desc: "`pf2:2`  The qurashith unleashes a debilitating psionic scream. Creatures in a @Template[cone|distance:60] must succeed at a DC 35 Will check save or become [[Conditions/Stupefied|Stupefied 2]] ([[Conditions/Stupefied|Stupefied 4]] on a critical failure) for 1 minute. A creature that critically succeeds at its Will save is immune to the qurashith's Psychic Howl for 24 hours. The qurashith can't use Psychic Howl again for 1d4 rounds."
 
   - name: "[[Bestiary Ability Glossary/Rend|Rend]]"
-    desc: "`pf2:1`  **Strike**: Claw\n"
+    desc: "`pf2:1`  **Strike**: Claw\n\n* * *\n"
  
+```
+
+```encounter-table
+name: Qurashith
+creatures:
+  - 1: Qurashith
 ```
 
 

@@ -7,6 +7,7 @@ aliases: "Compendium.battlezoo-bestiary-su-pf2e.pf2e-battlezoo-su-actors.Actor.m
 tags:
   - pf2e/creature/type/beast
   - pf2e/creature/type/evil
+  - pf2eMonster
   - pf2e/creature/level/12
 statblock: inline
 name: "Curse Eater"
@@ -22,18 +23,19 @@ token: [[modules/battlezoo-bestiary-su-pf2e/art/Portraits/curse-eater.webp| ]]
 source: "Battlezoo Bestiary: Strange and Unusual"
 name: "Curse Eater"
 level: "Creature 12"
-rare_03: "Rare"
+rare_03: [[Rare]]
 alignment: ""
 size: "Medium"
-trait_01: "beast"
-trait_02: "evil"
+trait_01: [[beast]]
+trait_02: [[evil]]
 modifier: 25
 perception:
   - name: "Perception"
     desc: "+25; Darkvision, Scent (Imprecise) 60 Feet"
+languages: ""
 skills:
   - name: "Skills"
-    desc: "Athletics: +25, Stealth: +20, Survival: +22, Curse Lore: +25"
+    desc: "Athletics: +25, Stealth: +20, Survival: +22, Athletics: +25, Stealth: +20, Survival: +22, Curse Lore: +25"
 abilityMods: [7, 5, 7, 0, 7, -2]
 speed: 35 feet,  climb 25 feet
 sourcebook: "_Battlezoo Bestiary: Strange and Unusual_"
@@ -73,11 +75,17 @@ attacks:
     desc: "`pf2:1`  "
 
   - name: "Eat Curse"
-    desc: "`pf2:r` (occult) **Trigger** The curse eater makes a successful jaws Strike against a creature or object with a curse effect\n**Effect** The curse eater feasts on the triggering creature or object's curse, dealing additional damage to them equal to the curse's level (or twice the curse's level for a spell effect) and attempting to counteract the effect. If the effect is counteracted or is impossible to counteract (such as an oracle's curse), the curse eater gains Hit Points equal to the additional damage. Any non-artifact cursed item whose curse is counteracted crumbles into dust. The curse eater has a counteract modifier of +28 and a counteract level of 6th for this reaction. Any Hit Points it gains from this reaction in excess of its maximum become temporary Hit Points that last until the beginning of its next turn."
+    desc: "`pf2:r` (occult) **Trigger** The curse eater makes a successful jaws Strike against a creature or object with a curse effect\n* * *\n\n**Effect** The curse eater feasts on the triggering creature or object's curse, dealing additional damage to them equal to the curse's level (or twice the curse's level for a spell effect) and attempting to counteract the effect. If the effect is counteracted or is impossible to counteract (such as an oracle's curse), the curse eater gains Hit Points equal to the additional damage. Any non-artifact cursed item whose curse is counteracted crumbles into dust. The curse eater has a counteract modifier of +28 and a counteract level of 6th for this reaction. Any Hit Points it gains from this reaction in excess of its maximum become temporary Hit Points that last until the beginning of its next turn."
 
   - name: "Feverish Assault"
     desc: "`pf2:2`  The curse eater makes two jaws Strikes and two claws Strikes in any order, each against a different creature within reach. These attacks count toward the curse eater's multiple attack penalty, but the multiple attack penalty doesn't increase until after the curse eater makes all its attacks."
  
+```
+
+```encounter-table
+name: Curse Eater
+creatures:
+  - 1: Curse Eater
 ```
 
 

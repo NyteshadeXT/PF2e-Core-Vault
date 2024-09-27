@@ -10,6 +10,7 @@ tags:
   - pf2e/creature/type/mummy
   - pf2e/creature/type/undead
   - pf2e/creature/type/unholy
+  - pf2eMonster
   - pf2e/creature/level/8
 statblock: inline
 name: "Ice Mummy"
@@ -24,19 +25,19 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Book of the Dead"
 name: "Ice Mummy"
 level: "Creature 8"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Medium"
-trait_01: "cold"
-trait_02: "evil"
-trait_03: "mummy"
-trait_04: "undead"
-trait_05: "unholy"
+trait_01: [[cold]]
+trait_02: [[evil]]
+trait_03: [[mummy]]
+trait_04: [[undead]]
+trait_05: [[unholy]]
 modifier: 16
 perception:
   - name: "Perception"
     desc: "+16; Darkvision"
-languages: "Common, Necril"
+languages: "Common, Necril; plus any two languages they knew while alive"
 skills:
   - name: "Skills"
     desc: "Deception: +18, Intimidation: +16, Occultism: +17, Stealth: +17"
@@ -59,7 +60,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Great Despair"
-    desc: " (aura,emotion,fear,incapacitation,mental,occult) 30 feet. Living creatures are [[Conditions/Frightened 1|Frightened 1]] while in an ice mummy's great despair aura. They can't naturally recover from this fear while in the area but recover instantly once they leave it. When a creature first enters the area, it must succeed at a DC 24 Will check save (after taking the penalty from being frightened) or be [[Conditions/Paralyzed|Paralyzed]] for 1d4 rounds. The creature is then temporarily immune for 24 hours.\n[[Bestiary Effects/Effect_ Despair|Effect: Despair]]"
+    desc: " (aura,emotion,fear,incapacitation,mental,occult) 30 feet. Living creatures are [[Conditions/Frightened|Frightened 1]] while in an ice mummy's great despair aura. They can't naturally recover from this fear while in the area but recover instantly once they leave it. When a creature first enters the area, it must succeed at a DC 24 Will check save (after taking the penalty from being frightened) or be [[Conditions/Paralyzed|Paralyzed]] for 1d4 rounds. The creature is then temporarily immune for 24 hours.\n\n[[Bestiary Effects/Effect_ Despair|Effect: Despair]]"
 
   - name: "Snow Vision"
     desc: "  The ice mummy ignores the [[Conditions/Concealed|Concealed]] condition from falling snow."
@@ -77,11 +78,17 @@ attacks:
     desc: " (occult) The ice mummy can deliver cold rot through melee weapons they wield."
 
   - name: "Cold Rot"
-    desc: " (cold,curse,disease,divine) This affliction can't be reduced below stage 1, nor can damage from it be healed, until successfully treated with [[Spells/Cleanse Affliction|Cleanse Affliction]] or a similar effect. The affliction can then be removed as normal for a disease. A creature killed by cold rot turns to ice crystals and can't be resurrected except by a 7th-rank [[Spells/Resurrect|Resurrect]] ritual or similar magic\n**Saving Throw** DC 24 Fortitude check\n**Stage 1** [[Conditions/Slowed 1|Slowed 1]] for 1 round, then carrier with no ill effect (1 minute)\n**Stage 2** 5d6 void damage plus 2d6 cold damage and [[Conditions/Stupefied 1|Stupefied 2]] (1 day)"
+    desc: " (cold,curse,disease,divine) This affliction can't be reduced below stage 1, nor can damage from it be healed, until successfully treated with [[Spells/Cleanse Affliction|Cleanse Affliction]] or a similar effect. The affliction can then be removed as normal for a disease. A creature killed by cold rot turns to ice crystals and can't be resurrected except by a 7th-rank [[Spells/Resurrect|Resurrect]] ritual or similar magic\n\n**Saving Throw** DC 24 Fortitude check\n* * *\n\n**Stage 1** [[Conditions/Slowed|Slowed 1]] for 1 round, then carrier with no ill effect (1 minute)\n\n**Stage 2** 5d6 void damage plus 2d6 cold damage and [[Conditions/Stupefied|Stupefied 2]] (1 day)"
 
   - name: "Frozen Breath"
-    desc: "`pf2:2` (cold,concentrate,divine) The ice mummy exhales a 60-foot cone of razor-sharp ice that deals 5d6 cold and 4d6 slashing damage (DC 26 Reflex check).\nThe ice mummy can't use Frozen Breath again for 1d4 rounds."
+    desc: "`pf2:2` (cold,concentrate,divine) The ice mummy exhales a @Template[cone|distance:60] of razor-sharp ice that deals 5d6 cold and 4d6 slashing damage (DC 26 Reflex check).\n\nThe ice mummy can't use Frozen Breath again for 1d4 rounds."
  
+```
+
+```encounter-table
+name: Ice Mummy
+creatures:
+  - 1: Ice Mummy
 ```
 
 

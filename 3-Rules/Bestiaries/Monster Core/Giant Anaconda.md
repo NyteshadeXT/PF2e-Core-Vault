@@ -6,6 +6,7 @@ cssClasses: pf2e
 aliases: "Compendium.pf2e.pathfinder-monster-core.Actor.XDNJSVxOOryeuN44" 
 tags:
   - pf2e/creature/type/animal
+  - pf2eMonster
   - pf2e/creature/level/8
   - remaster
 statblock: inline
@@ -25,7 +26,7 @@ level: "Creature 8"
 
 alignment: ""
 size: "huge"
-trait_01: "animal"
+trait_01: [[animal]]
 modifier: 17
 perception:
   - name: "Perception"
@@ -64,13 +65,13 @@ attacks:
     desc: "`pf2:1` Tail +19 (agile, reach 15 feet)\n__Damage__  2d8 + 7 bludgeoning plus push"
 
   - name: "[[Bestiary Ability Glossary/Greater Constrict|Greater Constrict]]"
-    desc: "`pf2:1`  1d10 + 7 bludgeoning, DC 26 Fortitude check\n\n* * *\n"
+    desc: "`pf2:1`  1d10+7 bludgeoning, DC 26 Fortitude check\n\n* * *\n"
 
   - name: "Slither"
     desc: "`pf2:1`  The giant anaconda Strides, Climbs, or Swims up to half its Speed, pulling any creatures it has [[Conditions/Grabbed|Grabbed]] with it."
 
   - name: "[[Bestiary Ability Glossary/Swallow Whole|Swallow Whole]]"
-    desc: "`pf2:1` (attack) Large, 1d10 + 7 bludgeoning, Rupture 21\n\n* * *\n"
+    desc: "`pf2:1` (attack) Large, 1d10+7 bludgeoning, Rupture 21\n\n* * *\n"
 
   - name: "Wrap in Coils"
     desc: "`pf2:1` (attack) **Requirements** A Large or smaller creature is [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]] in the giant anaconda's jaws.\n* * *\n\n**Effect** The giant anaconda moves the creature into its coils, freeing its jaws to make attacks, then uses Greater Constrict against the creature. The giant anaconda's coils can hold as many creatures as will fit in its space."
@@ -81,6 +82,12 @@ attacks:
   - name: "[[Bestiary Ability Glossary/Push|Push 10 feet]]"
     desc: "`pf2:1`  "
  
+```
+
+```encounter-table
+name: Giant Anaconda
+creatures:
+  - 1: Giant Anaconda
 ```
 
 

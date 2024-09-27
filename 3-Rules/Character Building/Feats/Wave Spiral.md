@@ -12,7 +12,7 @@ license: OGL
 ---
 # Wave Spiral `pf2:2`
 ## Feat 12
-### [[monk]][[3-Rules/Rule References/Water]]
+### [[monk]][[water]]
 
 **Category** class; 
 
@@ -26,7 +26,7 @@ license: OGL
 
 * * *
 
-You dip and spin, unleashing a wide whirlpool of water. Make an Athletics check to [[Actions/Trip|Trip]] each creature standing on the ground in a 10-foot emanation.
+You dip and spin, unleashing a wide whirlpool of water. Make an Athletics check to [[Actions/Trip|Trip]] each creature standing on the ground in a @Template\[emanation|distance:10\].
 
 These attacks all count toward your multiple attack penalty, but the penalty doesn't increase until after you make all the attacks.
 

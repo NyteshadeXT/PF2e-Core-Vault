@@ -10,6 +10,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/fiend
   - pf2e/creature/type/unholy
+  - pf2eMonster
   - pf2e/creature/level/15
 statblock: inline
 name: "Torgral"
@@ -24,19 +25,19 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #191: The Destiny War"
 name: "Torgral"
 level: "Creature 15"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Large"
-trait_01: "chaotic"
-trait_02: "demon"
-trait_03: "evil"
-trait_04: "fiend"
-trait_05: "unholy"
+trait_01: [[chaotic]]
+trait_02: [[demon]]
+trait_03: [[evil]]
+trait_04: [[fiend]]
+trait_05: [[unholy]]
 modifier: 28
 perception:
   - name: "Perception"
     desc: "+28; Darkvision, Scent (Imprecise) 60 Feet, See the Unseen"
-languages: "Chthonian, Draconic, Empyrean"
+languages: "Chthonian, Draconic, Empyrean; telepathy 100 feet"
 skills:
   - name: "Skills"
     desc: "Acrobatics: +26, Athletics: +27, Intimidation: +30, Religion: +28, Stealth: +24"
@@ -62,7 +63,7 @@ abilities_mid:
     desc: "  Defiance causes a ghalzarokh anguish. If a creature scores a critical success on a saving throw to resist the ghalzarokh's [[Spells/Charm|Charm]], [[Spells/Command|Command]], [[Spells/Dominate|Dominate]], or [[Spells/Suggestion|Suggestion]] spells or Project Blame, the demon takes 4d6 mental damage. The demon takes the same damage if it rolls a critical failure on an Intimidation check."
 
   - name: "Project Blame"
-    desc: "`pf2:r` (divine,emotion,mental) **Trigger** A creature succeeds or critically succeeds at a saving throw against one of the ghalzarokh's spells or Abyssal Spew, or the ghalzarokh misses a creature with a melee Strike\n**Effect** The creature must attempt a DC 36 Will check saving throw.\n**Critical Success** The creature is temporarily immune to Project Blame for 24 hours, and the ghalzarokh suffers from its defiance vulnerability.\n**Success** The creature's [[Conditions/Stupefied 1|Stupefied]] condition increases by 1 (if they succeeded on a saving throw) or its [[Conditions/Clumsy 1|Clumsy]] condition increases by 1 (if the demon missed them with a Strike). This increase in value lasts until the end of the creature's next turn but can't increase either condition beyond a value of 3.\n**Failure** As success, but the duration changes to 1 minute. A creature can attempt a DC 36 Will check save at the end of its turn to remove the effect early.\n**Critical Failure** As failure, but for 24 hours."
+    desc: "`pf2:r` (divine,emotion,mental) **Trigger** A creature succeeds or critically succeeds at a saving throw against one of the ghalzarokh's spells or Abyssal Spew, or the ghalzarokh misses a creature with a melee Strike\n* * *\n\n**Effect** The creature must attempt a DC 36 Will check saving throw.\n* * *\n\n**Critical Success** The creature is temporarily immune to Project Blame for 24 hours, and the ghalzarokh suffers from its defiance vulnerability.\n\n**Success** The creature's [[Conditions/Stupefied|Stupefied]] condition increases by 1 (if they succeeded on a saving throw) or its [[Conditions/Clumsy|Clumsy]] condition increases by 1 (if the demon missed them with a Strike). This increase in value lasts until the end of the creature's next turn but can't increase either condition beyond a value of 3.\n\n**Failure** As success, but the duration changes to 1 minute. A creature can attempt a DC 36 Will check save at the end of its turn to remove the effect early.\n\n**Critical Failure** As failure, but for 24 hours."
 
 attacks:
   - name: ""
@@ -80,11 +81,17 @@ attacks:
     desc: "_[[Spells/Demonic Pact|Abyssal Pact]]_"
 
   - name: "Abyssal Spew"
-    desc: "`pf2:2` (acid,divine,fire) The ghalzarokh spews corrosive flame that deals 8d6 acid damage and 8d6 fire damage in a 40-foot cone (DC 36 Reflex check save). The ghalzarokh can't use Abyssal Spew again for 1d4 rounds."
+    desc: "`pf2:2` (acid,divine,fire) The ghalzarokh spews corrosive flame that deals 8d6 acid damage and 8d6 fire damage in a @Template[cone|distance:40] (DC 36 Reflex check save). The ghalzarokh can't use Abyssal Spew again for 1d4 rounds."
 
   - name: "[[Bestiary Ability Glossary/Rend|Rend]]"
     desc: "`pf2:1`  "
  
+```
+
+```encounter-table
+name: Torgral
+creatures:
+  - 1: Torgral
 ```
 
 

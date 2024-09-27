@@ -7,6 +7,7 @@ aliases: "Compendium.battlezoo-bestiary-su-pf2e.pf2e-battlezoo-su-actors.Actor.j
 tags:
   - pf2e/creature/type/aberration
   - pf2e/creature/type/evil
+  - pf2eMonster
   - pf2e/creature/level/7
 statblock: inline
 name: "Eye Stalker"
@@ -22,11 +23,11 @@ token: [[modules/battlezoo-bestiary-su-pf2e/art/Portraits/eye-stalker.webp| ]]
 source: "Battlezoo Bestiary: Strange and Unusual"
 name: "Eye Stalker"
 level: "Creature 7"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Large"
-trait_01: "aberration"
-trait_02: "evil"
+trait_01: [[aberration]]
+trait_02: [[evil]]
 modifier: 18
 perception:
   - name: "Perception"
@@ -34,7 +35,7 @@ perception:
 languages: "Aklo"
 skills:
   - name: "Skills"
-    desc: "Athletics: +17, Stealth: +15, "
+    desc: "Athletics: +17, Stealth: +15, Athletics: +17, Stealth: +15"
 abilityMods: [6, 4, 4, 4, 6, 2]
 speed: 25 feet
 sourcebook: "_Battlezoo Bestiary: Strange and Unusual_"
@@ -62,14 +63,20 @@ attacks:
     desc: "`pf2:1` Claw +18 (agile, reach 10 feet)\n__Damage__  2d4 + 8 slashing"
 
   - name: "Extract Eyes"
-    desc: "`pf2:2` (attack,occult) The eye stalker attempts an Athletics check against the creature's Fortitude DC. On a success, it deals 2d4 + 8 piercing damage as it extracts one of the creature's eyes, with the optic nerves still magically functional, from its socket. On a critical success, it extracts both eyes and deals double damage. A creature with all its eyes stolen is Blinded until it recovers one or more of eyes. A creature can retrieve the stolen eyes and return them to its empty socket with an Interact action. As long as they do so while the eyes last (typically within 1 week of being stolen), this instantly reattaches their eyes and restores their vision. Stories tell of creatures forced to replace their missing eyes with those from another creature robbed by an eye stalker, granting them unusual senses temporarily or permanently. This might be possible at the GM's discretion."
+    desc: "`pf2:2` (attack,occult) The eye stalker attempts an Athletics check against the creature's Fortitude DC. On a success, it deals 2d4+8 piercing damage as it extracts one of the creature's eyes, with the optic nerves still magically functional, from its socket. On a critical success, it extracts both eyes and deals double damage. A creature with all its eyes stolen is [[undefined]] until it recovers one or more of eyes. A creature can retrieve the stolen eyes and return them to its empty socket with an Interact action. As long as they do so while the eyes last (typically within 1 week of being stolen), this instantly reattaches their eyes and restores their vision. Stories tell of creatures forced to replace their missing eyes with those from another creature robbed by an eye stalker, granting them unusual senses temporarily or permanently. This might be possible at the GM's discretion."
 
   - name: "Steal Sight"
-    desc: "`pf2:1`  **Requirements** The eye stalker has stolen at least two eyes using Extract Eyes\n**Effect** The eye stalker puts the stolen eyes in its empty sockets. It gains precise vision, as well as other visual senses from the creature whose eyes it stole (including darkvision), and it gains 15 temporary HP. The stolen eyes typically last for roughly 1 week, but if an effect would give the eye stalker the Blinded condition, that effect pops out their stolen eyes instead, removing any remaining temporary HP, if any as they fall from the eye stalker's sockets.\n[[Effects/Effect_ Steal Sight|Effect: Steal Sight]]"
+    desc: "`pf2:1`  **Requirements** The eye stalker has stolen at least two eyes using Extract Eyes\n* * *\n\n**Effect** The eye stalker puts the stolen eyes in its empty sockets. It gains precise vision, as well as other visual senses from the creature whose eyes it stole (including darkvision), and it gains 15 temporary HP. The stolen eyes typically last for roughly 1 week, but if an effect would give the eye stalker the [[undefined]] condition, that effect pops out their stolen eyes instead, removing any remaining temporary HP, if any as they fall from the eye stalker's sockets.\n\n[[Effects/Effect_ Steal Sight|Effect: Steal Sight]]"
 
   - name: "Pack Hunters"
     desc: "  An eye stalker's Strikes deal an extra 1d6 damage to creatures within reach of at least two allies."
  
+```
+
+```encounter-table
+name: Eye Stalker
+creatures:
+  - 1: Eye Stalker
 ```
 
 

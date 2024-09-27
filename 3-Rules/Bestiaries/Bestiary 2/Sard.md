@@ -10,6 +10,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/plant
   - pf2e/creature/type/tane
+  - pf2eMonster
   - pf2e/creature/level/19
 statblock: inline
 name: "Sard"
@@ -25,14 +26,14 @@ token: [[modules/pf2e-tokens-bestiaries/portraits/plant/sard.webp| ]]
 source: "Pathfinder Bestiary 2"
 name: "Sard"
 level: "Creature 19"
-rare_03: "Rare"
+rare_03: [[Rare]]
 alignment: ""
 size: "grg"
-trait_01: "chaotic"
-trait_02: "electricity"
-trait_03: "evil"
-trait_04: "plant"
-trait_05: "tane"
+trait_01: [[chaotic]]
+trait_02: [[electricity]]
+trait_03: [[evil]]
+trait_04: [[plant]]
+trait_05: [[tane]]
 modifier: 35
 perception:
   - name: "Perception"
@@ -62,7 +63,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Splintering Death"
-    desc: " (electricity,primal) When the sard dies, its body explodes in a 30-foot emanation. All creatures in the area take 10d6 electricity damage and 10d6 piercing damage (DC 43 Reflex check save). Any creature that takes piercing damage is also exposed to sard venom."
+    desc: " (electricity,primal) When the sard dies, its body explodes in a @Template[emanation|distance:30]. All creatures in the area take 10d6 electricity damage and 10d6 piercing damage (DC 43 Reflex check save). Any creature that takes piercing damage is also exposed to sard venom."
 
 attacks:
   - name: ""
@@ -86,17 +87,23 @@ attacks:
     desc: "_[[Spells/Control Weather|Control Weather (Doesn't require secondary casters)]]_"
 
   - name: "Lightning-Struck Curse"
-    desc: "`pf2:r` (curse,primal) **Trigger** The sard is about to damage a creature that has electricity resistance\n**Effect** An instant before the target takes the electricity damage from the triggering event, the sard's electrical sparks glow red. The target must succeed at a DC 41 Will check save or lose any electricity resistance it has until this curse is lifted."
+    desc: "`pf2:r` (curse,primal) **Trigger** The sard is about to damage a creature that has electricity resistance\n* * *\n\n**Effect** An instant before the target takes the electricity damage from the triggering event, the sard's electrical sparks glow red. The target must succeed at a DC 41 Will check save or lose any electricity resistance it has until this curse is lifted."
 
   - name: "Sard Venom"
-    desc: " (poison,primal,virulent) **Saving Throw** DC 41 Fortitude check\n**Maximum Duration** 10 rounds\n**Stage 1** 2d6 electricity damage, 2d6 poison damage, and [[Conditions/Clumsy 1|Clumsy 2]] (1 round)\n**Stage 2** 3d6 electricity damage, 3d6 poison damage, [[Conditions/Clumsy 1|Clumsy 2]], and [[Conditions/Slowed 1|Slowed 1]] (1 round)\n**Stage 3** 4d6 electricity damage, 4d6 poison damage, [[Conditions/Clumsy 1|Clumsy 2]], and [[Conditions/Slowed 1|Slowed 2]] (1 round)"
+    desc: " (poison,primal,virulent) **Saving Throw** DC 41 Fortitude check\n\n**Maximum Duration** 10 rounds\n\n**Stage 1** 2d6 electricity damage, 2d6 poison damage, and [[Conditions/Clumsy|Clumsy 2]] (1 round)\n\n**Stage 2** 3d6 electricity damage, 3d6 poison damage, [[Conditions/Clumsy|Clumsy 2]], and [[Conditions/Slowed|Slowed 1]] (1 round)\n\n**Stage 3** 4d6 electricity damage, 4d6 poison damage, [[Conditions/Clumsy|Clumsy 2]], and [[Conditions/Slowed|Slowed 2]] (1 round)"
 
   - name: "Thorn Volley"
     desc: "`pf2:2`  The sard makes up to four thorn Strikes, each against a different target. The sard's multiple attack penalty doesn't increase until after all the attacks have been made."
 
   - name: "[[Bestiary Ability Glossary/Trample|Trample]]"
-    desc: "`pf2:3`  Huge or smaller, root, DC 39 Reflex check\n"
+    desc: "`pf2:3`  Huge or smaller, root, DC 39 Reflex check\n\n* * *\n"
  
+```
+
+```encounter-table
+name: Sard
+creatures:
+  - 1: Sard
 ```
 
 

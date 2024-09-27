@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/undead
   - pf2e/creature/type/unholy
+  - pf2eMonster
   - pf2e/creature/level/10
 statblock: inline
 name: "Guiltbound"
@@ -24,13 +25,13 @@ token: [[modules/battlezoo-bestiary-su-pf2e/art/Portraits/guiltbound.webp| ]]
 source: "Battlezoo Bestiary: Strange and Unusual"
 name: "Guiltbound"
 level: "Creature 10"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Medium"
-trait_01: "chaotic"
-trait_02: "evil"
-trait_03: "undead"
-trait_04: "unholy"
+trait_01: [[chaotic]]
+trait_02: [[evil]]
+trait_03: [[undead]]
+trait_04: [[unholy]]
 modifier: 17
 perception:
   - name: "Perception"
@@ -38,7 +39,7 @@ perception:
 languages: "Common, Necril"
 skills:
   - name: "Skills"
-    desc: "Athletics: +22, Intimidation: +22, "
+    desc: "Athletics: +22, Intimidation: +22, Athletics: +22, Intimidation: +22"
 abilityMods: [7, 0, 5, 3, 3, 6]
 speed: 20 feet
 sourcebook: "_Battlezoo Bestiary: Strange and Unusual_"
@@ -58,7 +59,7 @@ abilities_top:
     desc: "  The guiltbound is linked to their murder weapon, either a specific type of weapon (hatchet, for example) tied to the murder that created them, or one determined randomly. The guiltbound wields a spectral version of this weapon, with its murder weapon Strikes gaining the weapon's damage and traits, using a damage die one size higher for a simple weapon (the listed damage is for a longsword). A guiltbound also possesses weakness 10 to that specific type of weapon."
 
   - name: "Murdersense"
-    desc: "  A guiltbound can only sense creatures that have damaged it within the last 24 hours, or those who have killed another living, sapient being (not animals or mindless creatures) with any of its senses. Other creatures are thus Invisible, inaudible, and otherwise undetectable to a guiltbound."
+    desc: "  A guiltbound can only sense creatures that have damaged it within the last 24 hours, or those who have killed another living, sapient being (not animals or mindless creatures) with any of its senses. Other creatures are thus [[undefined]], inaudible, and otherwise undetectable to a guiltbound."
 
 abilities_mid:
   - name: ""
@@ -66,20 +67,26 @@ attacks:
   - name: ""
 
   - name: "Melee"
-    desc: "`pf2:1` Murder Weapon +22 (magical)\n__Damage__  2d8 + 10 void plus mounting-terror"
+    desc: "`pf2:1` Murder Weapon +22 (magical)\n__Damage__ "
 
   - name: "Melee"
     desc: "`pf2:1` Dangling Corpse Arm +21 (reach 10 feet, sweep)\n__Damage__  2d6 + 10 bludgeoning plus grab,mounting-terror"
 
   - name: "Mounting Terror"
-    desc: " (emotion,fear,void) A creature struck by the guiltbound begins to experience the moments that led up to the murder, eventually reliving the heart- stopping instant before the victim's death. They must attempt a DC 23 Will check save, and they take a –2 circumstance penalty to their save if they've damaged the guiltbound in the last round.\n**Critical Success** The creature is unaffected.\n**Success** The creature is Frightened 1.\n**Failure** The creature is Frightened 2 and takes 1d8 void damage.\n**Critical Failure** The creature is Frightened 3, Doomed 1, and takes 4d8 void damage."
+    desc: " (emotion,fear,void) A creature struck by the guiltbound begins to experience the moments that led up to the murder, eventually reliving the heart- stopping instant before the victim's death. They must attempt a DC 23 Will check save, and they take a –2 circumstance penalty to their save if they've damaged the guiltbound in the last round.\n* * *\n\n**Critical Success** The creature is unaffected.\n\n**Success** The creature is [[undefined]].\n\n**Failure** The creature is [[undefined]] and takes 1d8 void damage.\n\n**Critical Failure** The creature is [[undefined]], [[undefined]], and takes 4d8 void damage."
 
   - name: "Victim's Scorn"
-    desc: "`pf2:2` (divine,void) **Requirements** There are no enemies within the guiltbound's reach.\n**Effect** The dangling corpse scorns those who are too cowardly to save it from its torment, launching a torrent of hate in an 80-foot line, dealing 8d6 void damage (DC 26 Reflex check save). Creatures that damaged the guiltbound with a melee attack within the last round treat their save result as one degree better than they rolled."
+    desc: "`pf2:2` (divine,void) **Requirements** There are no enemies within the guiltbound's reach.\n* * *\n\n**Effect** The dangling corpse scorns those who are too cowardly to save it from its torment, launching a torrent of hate in an 80-foot line, dealing 8d6 void damage (DC 26 Reflex check save). Creatures that damaged the guiltbound with a melee attack within the last round treat their save result as one degree better than they rolled."
 
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
     desc: "`pf2:1`  "
  
+```
+
+```encounter-table
+name: Guiltbound
+creatures:
+  - 1: Guiltbound
 ```
 
 

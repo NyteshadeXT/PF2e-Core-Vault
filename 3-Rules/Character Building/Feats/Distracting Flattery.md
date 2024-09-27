@@ -7,8 +7,9 @@ tags:
   - trait/skill
   - trait/common
   - category/skill
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.jzflcD1XnBp2bSZI"
-license: OGL
+license: ORC
 ---
 # Distracting Flattery `pf2:r`
 ## Feat 4
@@ -36,5 +37,5 @@ Make a Deception check check against the target's Will DC. Regardless of your re
 
 **Critical Failure** Your attempt makes matters worse, decreasing the target's attitude toward you by one step, in addition to any changes from the behavior that triggered this reaction.
 
-*Source: Pathfinder Advanced Player's Guide*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

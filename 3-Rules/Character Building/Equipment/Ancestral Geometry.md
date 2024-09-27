@@ -12,7 +12,7 @@ license: OGL
 ---
 # Ancestral Geometry
 ## Item 2
-### [uncommon](uncommon "Uncommon Rarity Trait")[[invested]][[magical]][[tattoo]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[invested]][[3-Rules/Rule References/Magical]][[tattoo]]
 
 
 **Price** 30 gp; 

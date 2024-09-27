@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.pathfinder-monster-core.Actor.aYDbWuOj66nve8r4"
 tags:
   - pf2e/creature/type/dragon
   - pf2e/creature/type/wood
+  - pf2eMonster
   - pf2e/creature/level/6
   - remaster
 statblock: inline
@@ -26,8 +27,8 @@ level: "Creature 6"
 
 alignment: ""
 size: "Large"
-trait_01: "dragon"
-trait_02: "wood"
+trait_01: [[dragon]]
+trait_02: [[wood]]
 modifier: 13
 perception:
   - name: "Perception"
@@ -72,7 +73,7 @@ attacks:
     desc: "  The jungle drake ignores difficult terrain caused by plants, such as bushes, vines, and undergrowth. Even plants manipulated by magic don't impede their progress."
 
   - name: "Jungle Drake Venom"
-    desc: " (poison) **Saving Throw** DC 24 Fortitude check\n* * *\n\n**Maximum Duration** 6 rounds\n\n**Stage 1** 1d6 poison damage and [[Conditions/Enfeebled 1|Enfeebled 1]] (1 round)\n\n**Stage 2** 1d6 poison damage and [[Conditions/Enfeebled 1|Enfeebled 2]] (1 round)"
+    desc: " (poison) **Saving Throw** DC 24 Fortitude check\n* * *\n\n**Maximum Duration** 6 rounds\n\n**Stage 1** 1d6 poison damage and [[Conditions/Enfeebled|Enfeebled 1]] (1 round)\n\n**Stage 2** 1d6 poison damage and [[Conditions/Enfeebled|Enfeebled 2]] (1 round)"
 
   - name: "[[Bestiary Ability Glossary/Grab|Predatory Grab]]"
     desc: "`pf2:1`  As Grab, but the jungle drake's Grab doesn't end if they move away. Instead, they carry the [[Conditions/Grabbed|Grabbed]] creature with them. A jungle drake can't Fly while grabbing a creature unless that creature can also Fly.\n\n* * *\n"
@@ -81,8 +82,14 @@ attacks:
     desc: "`pf2:1` (move) **Frequency** three times per day\n* * *\n\n**Effect** The jungle drake Strides or Flies twice."
 
   - name: "Spit Venom"
-    desc: "`pf2:2` (poison) A jungle drake can spit a sticky glob of their venom to a range of 50 feet that explodes in a 10-foot burst. Those in the burst must succeed at a DC 24 Reflex check save or be exposed to jungle drake venom.\n\nThe jungle drake can't use Spit Venom again for 1d6 rounds."
+    desc: "`pf2:2` (poison) A jungle drake can spit a sticky glob of their venom to a range of 50 feet that explodes in a @Template[burst|distance:10]. Those in the burst must succeed at a DC 24 Reflex check save or be exposed to jungle drake venom.\n\nThe jungle drake can't use Spit Venom again for 1d6 rounds."
  
+```
+
+```encounter-table
+name: Jungle Drake
+creatures:
+  - 1: Jungle Drake
 ```
 
 

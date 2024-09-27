@@ -6,8 +6,9 @@ tags:
   - trait/archetype
   - trait/common
   - category/class
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.4YeHOPzo3zOhZQCh"
-license: OGL
+license: ORC
 ---
 # Mantis Form
 ## Feat 8
@@ -19,7 +20,7 @@ license: OGL
 
 **Prerequisites** Basic Red Mantis Magic
 * * *
-You gain the [[Spells/Mantis Form|Mantis Form]] focus spell. If you don't already have one, you gain a focus pool of 1 Focus Point, which you can Refocus by praying to Achaekek or researching your assigned kill.
+You gain the [[Spells/Mantis Form|Mantis Form]] focus spell. If you don't already have one, you gain a focus pool of 1 Focus Point.
 
-*Source: Pathfinder Lost Omens: World Guide*
-*OGL*
+*Source: Pathfinder Adventure: Prey for Death*
+*ORC*

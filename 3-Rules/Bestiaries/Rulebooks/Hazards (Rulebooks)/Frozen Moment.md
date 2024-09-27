@@ -4,6 +4,7 @@ obsidianUIMode: preview
 noteType: pf2eHazard
 tags:
   - magical
+  - pf2eHazard
 
 source: Pathfinder Core Rulebook
 aliases: "Compendium.pf2e.hazards.Actor.8gAoSgBJN8QqzP1R" 
@@ -21,13 +22,13 @@ name: "Frozen Moment"
 level: "Hazard 17"
 
 
-trait_01: "magical"
+trait_01: [[magical]]
 modifier: 30
 sourcebook: "_Pathfinder Core Rulebook_"
 ac: 10
 armorclass:
   - name: AC
-    desc: "10; __Fort__ +0, __Ref__ +0, __Will__ +0"
+    desc: "10; "
 hp: 0
 health:
   - name: ""
@@ -49,9 +50,15 @@ attacks:
   - name: ""
 
   - name: "Adrift in Time"
-    desc: "`pf2:r` (occult) **Trigger** A creature touches the warded object or area.\n**Effect** The triggering creature and all creatures within 30 feet are trapped in a disrupted time flow (DC 38 Fortitude check negates). The creatures' minds move so quickly that each round seems to last a century, but their bodies and magical energies move so slowly that they can't use any actions except Recall Knowledge. An affected creature must attempt a DC 36 Will check saving throw against a _warp mind_ spell immediately and again for every minute of real time that passes while the creature is trapped in the frozen moment. This effect has an unlimited duration but can be counteracted."
+    desc: "`pf2:r` (occult) **Trigger** A creature touches the warded object or area.\n* * *\n\n**Effect** The triggering creature and all creatures within 30 feet are trapped in a disrupted time flow (DC 38 Fortitude check negates). The creatures' minds move so quickly that each round seems to last a century, but their bodies and magical energies move so slowly that they can't use any actions except Recall Knowledge. An affected creature must attempt a DC 36 Will check saving throw against a _warp mind_ spell immediately and again for every minute of real time that passes while the creature is trapped in the frozen moment. This effect has an unlimited duration but can be counteracted."
 
 
 
+```
+
+```encounter-table
+name: Frozen Moment
+creatures:
+  - 1: Frozen Moment
 ```
 

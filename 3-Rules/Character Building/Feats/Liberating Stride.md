@@ -21,7 +21,7 @@ license: OGL
 * * *
 Instead of you taking a Step at the end of your [[Actions/Liberating Step|Liberating Step]], the triggering ally can Stride up to half their Speed.
 
-Even if you have [[Class Features/Exalt|Exalt]], only the triggering ally gains this benefit.
+Even if you have [[Class Features/Exalted Reaction|Exalt]], only the triggering ally gains this benefit.
 
 *Source: Pathfinder Core Rulebook*
 *OGL*

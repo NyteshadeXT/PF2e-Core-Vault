@@ -26,7 +26,7 @@ You gain the following statistics and abilities regardless of which battle form 
 *   AC = 20 + your level. Ignore your armor's check penalty and Speed reduction.
 *   20 temporary Hit Points.
 *   Darkvision.
-*   One or more unarmed melee attacks specific to the battle form you choose, which are the only attacks you can Strike with. You're trained with them. Your attack modifier is +28, and you use the listed damage. These attacks are Strength based (for the purpose of the [[Conditions/Enfeebled 1|Enfeebled]] condition, for example). If your unarmed attack modifier is higher, you can use it instead.
+*   One or more unarmed melee attacks specific to the battle form you choose, which are the only attacks you can Strike with. You're trained with them. Your attack modifier is +28, and you use the listed damage. These attacks are Strength based (for the purpose of the [[Conditions/Enfeebled|Enfeebled]] condition, for example). If your unarmed attack modifier is higher, you can use it instead.
 *   Athletics modifier of +30, unless your own modifier is higher.
 
 You also gain specific abilities based on the type of monster you choose:
@@ -35,7 +35,7 @@ You also gain specific abilities based on the type of monster you choose:
     *   Speed 20 feet, swim 90 feet;
     *   **Melee** `pf2:1` jaws (reach 15 feet), **Damage** 2d12+20 piercing;
     *   **Melee** `pf2:1` tail (reach 25 feet), **Damage** 2d8+20 bludgeoning;
-    *   **Spine Rake** `pf2:2` (move) You extend your spines and Swim or Stride. Each creature you're adjacent to at any point during your movement takes 4d8 + 10 slashing damage (Reflex check against your spell DC).
+    *   **Spine Rake** `pf2:2` (move) You extend your spines and Swim or Stride. Each creature you're adjacent to at any point during your movement takes 4d8+10 slashing damage (Reflex check against your spell DC).
 
 * * *
 

@@ -6,6 +6,7 @@ cssClasses: pf2e
 aliases: "Compendium.pf2e.pathfinder-monster-core.Actor.E2XL2egIA3QaSDBM" 
 tags:
   - pf2e/creature/type/animal
+  - pf2eMonster
   - pf2e/creature/level/-1
   - remaster
 statblock: inline
@@ -25,7 +26,7 @@ level: "Creature -1"
 
 alignment: ""
 size: "Small"
-trait_01: "animal"
+trait_01: [[animal]]
 modifier: 6
 perception:
   - name: "Perception"
@@ -63,6 +64,12 @@ attacks:
   - name: "Light Flash"
     desc: "`pf2:1` (concentrate,light) The flash beetle creates a brilliant flash of light. All creatures in its luminescent aura must succeed at a DC 17 Fortitude check save or be [[Conditions/Dazzled|Dazzled]] for 1 minute.\n\nThe flash beetle's glow then goes out, disabling its aura for 24 hours, during which time it cannot use Light Flash."
  
+```
+
+```encounter-table
+name: Flash Beetle
+creatures:
+  - 1: Flash Beetle
 ```
 
 

@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/aberration
   - pf2e/creature/type/chaotic
   - pf2e/creature/type/evil
+  - pf2eMonster
   - pf2e/creature/level/13
 statblock: inline
 name: "Xevalorg"
@@ -22,12 +23,12 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #148: Fires of the Haunted City"
 name: "Xevalorg"
 level: "Creature 13"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Large"
-trait_01: "aberration"
-trait_02: "chaotic"
-trait_03: "evil"
+trait_01: [[aberration]]
+trait_02: [[chaotic]]
+trait_03: [[evil]]
 modifier: 19
 perception:
   - name: "Perception"
@@ -35,7 +36,7 @@ perception:
 languages: "Aklo, Petran, Sakvroth"
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +23 (+27 to Squeeze), Athletics: +27, Religion: +26, Stealth: +23, Survival: +24"
+    desc: "Acrobatics: +23, Athletics: +27, Religion: +26, Stealth: +23, Survival: +24"
 abilityMods: [8, 4, 5, 2, 7, 4]
 speed: 40 feet,  climb 20 feet
 sourcebook: "_Pathfinder #148: Fires of the Haunted City_"
@@ -77,6 +78,12 @@ attacks:
   - name: "[[Bestiary Ability Glossary/Rend|Rend]]"
     desc: "`pf2:1`  "
  
+```
+
+```encounter-table
+name: Xevalorg
+creatures:
+  - 1: Xevalorg
 ```
 
 

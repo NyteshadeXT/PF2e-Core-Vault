@@ -6,8 +6,9 @@ tags:
   - trait/oracle
   - trait/common
   - category/class
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.Ek3nCIFRreqnSxAQ"
-license: OGL
+license: ORC
 ---
 # Mysterious Repertoire
 ## Feat 14
@@ -18,9 +19,9 @@ license: OGL
 
 
 
-Your mystery holds unknowable depths of magic not always associated with the divine. You can have one spell in your spell repertoire not on the divine spell list, in addition to spells you've added to your spell list from feats like Divine Access. You cast that spell as a divine spell.
+Your mystery holds unknowable depths of magic not always associated with the divine. You can have one spell in your spell repertoire not on the divine spell list, in addition to spells you've added to your spell list from abilities like divine access.
 
-You can swap which spell you add and from which tradition as you could any other oracle spell, but you can't use this feat to have more than one spell from another tradition in your spell repertoire at the same time.
+You cast that spell as a divine spell. You can swap which spell you add and from which tradition as you could any other oracle spell, but you can't use this feat to have more than one spell from another tradition in your spell repertoire at the same time
 
-*Source: Pathfinder Advanced Player's Guide*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

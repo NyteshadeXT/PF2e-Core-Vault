@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/fungus
   - pf2e/creature/type/mindless
   - pf2e/creature/type/sporeborn
+  - pf2eMonster
   - pf2e/creature/level/4
 statblock: inline
 name: "Sporeborn Myceloid"
@@ -22,16 +23,17 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #193: Mantle of Gold"
 name: "Sporeborn Myceloid"
 level: "Creature 4"
-rare_03: "Rare"
+rare_03: [[Rare]]
 alignment: ""
 size: "Medium"
-trait_01: "fungus"
-trait_02: "mindless"
-trait_03: "sporeborn"
+trait_01: [[fungus]]
+trait_02: [[mindless]]
+trait_03: [[sporeborn]]
 modifier: 10
 perception:
   - name: "Perception"
     desc: "+10; Darkvision, Scent (Imprecise) 30 Feet"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Stealth: +11, Survival: +10"
@@ -53,7 +55,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Rancid Spore Pods"
-    desc: " (disease,fungus) The sporeborn is covered in spore pods that rupture when it takes any piercing damage or a critical hit. In either case, adjacent creatures are hit with spores, causing them to become [[Conditions/Sickened 1|Sickened 1]] unless they succeed at a Fortitude save.\nDC 18 Fortitude check save."
+    desc: " (disease,fungus) The sporeborn is covered in spore pods that rupture when it takes any piercing damage or a critical hit. In either case, adjacent creatures are hit with spores, causing them to become [[Conditions/Sickened|Sickened 1]] unless they succeed at a Fortitude save.\n\nDC 18 Fortitude check save."
 
   - name: "Spore Pop"
     desc: "  If a sporeborn myceloid is reduced to 0 HP by a critical hit, it pops, forcing it to immediately Emit Spores, even if it has already used the ability that day."
@@ -65,14 +67,20 @@ attacks:
     desc: "`pf2:1` Fist +11 (agile, finesse)\n__Damage__  2d6 + 4 bludgeoning plus purple-pox"
 
   - name: "Emit Spores"
-    desc: "`pf2:1`  **Frequency** once per day\n**Effect** The sporeborn myceloid expels spores in a 10-foot burst centered on a corner of its own space. This cloud lasts until the start of the sporeborn myceloid's next turn. Each creature that is in the cloud or enters it is exposed to purple pox."
+    desc: "`pf2:1`  **Frequency** once per day\n* * *\n\n**Effect** The sporeborn myceloid expels spores in a @Template[burst|distance:10] centered on a corner of its own space. This cloud lasts until the start of the sporeborn myceloid's next turn. Each creature that is in the cloud or enters it is exposed to purple pox."
 
   - name: "Purple Pox"
-    desc: " (disease) Myceloids are immune\n**Saving Throw** DC 22 Fortitude check;\n**Onset** 1 minute\n**Stage 1** 2d6 poison damage and [[Conditions/Stupefied 1|Stupefied 1]] (1 day)\n**Stage 2** 6d6 poison damage, [[Conditions/Stupefied 1|Stupefied 3]], and the creature is compelled to seek out the nearest myceloid colony—this compulsion is a mental and emotion effect (1 day)\n**Stage 3** The creature dies. Over 24 hours, its corpse becomes bloated and bursts, releasing a new, fully grown myceloid"
+    desc: " (disease) Myceloids are immune\n\n**Saving Throw** DC 22 Fortitude check;\n\n**Onset** 1 minute\n\n**Stage 1** 2d6 poison damage and [[Conditions/Stupefied|Stupefied 1]] (1 day)\n\n**Stage 2** 6d6 poison damage, [[Conditions/Stupefied|Stupefied 3]], and the creature is compelled to seek out the nearest myceloid colony—this compulsion is a mental and emotion effect (1 day)\n\n**Stage 3** The creature dies. Over 24 hours, its corpse becomes bloated and bursts, releasing a new, fully grown myceloid"
 
   - name: "Spore Domination"
-    desc: "`pf2:2` (emotion,incapacitation,mental,primal) The sporeborn myceloid targets one creature affected by purple pox within 60 feet. That creature must attempt a DC 24 Will check save. It is then temporarily immune to spore domination for 10 minutes.\n**Critical Success** The target is unaffected.\n**Success** Until the end of its next turn, the target is helpful to sporeborn myceloids and can't take hostile actions against them.\n**Failure** As success, but for 1 minute.\n**Critical Failure** As success, but until the purple pox is cured."
+    desc: "`pf2:2` (emotion,incapacitation,mental,primal) The sporeborn myceloid targets one creature affected by purple pox within 60 feet. That creature must attempt a DC 24 Will check save. It is then temporarily immune to spore domination for 10 minutes.\n* * *\n\n**Critical Success** The target is unaffected.\n\n**Success** Until the end of its next turn, the target is helpful to sporeborn myceloids and can't take hostile actions against them.\n\n**Failure** As success, but for 1 minute.\n\n**Critical Failure** As success, but until the purple pox is cured."
  
+```
+
+```encounter-table
+name: Sporeborn Myceloid
+creatures:
+  - 1: Sporeborn Myceloid
 ```
 
 

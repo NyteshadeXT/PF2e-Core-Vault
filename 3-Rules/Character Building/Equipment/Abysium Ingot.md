@@ -10,7 +10,7 @@ license: OGL
 ---
 # Abysium Ingot
 
-### [rare](rare "Rare Rarity Trait")[[precious]]
+### [rare](rare.md "Rare Rarity Trait")[[precious]]
 
 
 **Price** 4500 gp; 
@@ -19,7 +19,7 @@ license: OGL
 
 A blue-green metal with an eerie green luminescence, abysium radiates power that's inimical to life. Careless exposure to the material can lead to long-term damage to the immune system; as such, mining abysium is hazardous, as large quantities of the metal in an area cause all nearby creatures to become sick.
 
-A creature carrying an abysium object is [[Conditions/Sickened 1|Sickened 1]] for a standard-grade object of light Bulk, [[Conditions/Sickened 1|Sickened 2]] for a standard-grade object of 1 Bulk or more or a high-grade object of light Bulk, or [[Conditions/Sickened 1|Sickened 3]] for a high-grade object of 1 Bulk or more. This and all other sickening effects of abysium are poison effects.
+A creature carrying an abysium object is [[Conditions/Sickened|Sickened 1]] for a standard-grade object of light Bulk, [[Conditions/Sickened|Sickened 2]] for a standard-grade object of 1 Bulk or more or a high-grade object of light Bulk, or [[Conditions/Sickened|Sickened 3]] for a high-grade object of 1 Bulk or more. This and all other sickening effects of abysium are poison effects.
 
 Crafters can use 1 abysium chunk to create up to 6 doses of poisonous [[Equipment/Abysium Powder|Abysium Powder]]. Unscrupulous smiths have harnessed abysium's toxic properties to create noxious weapons and deadly substances.
 

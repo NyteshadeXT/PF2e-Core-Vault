@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/chaotic
   - pf2e/creature/type/fey
   - pf2e/creature/type/wild-hunt
+  - pf2eMonster
   - pf2e/creature/level/18
 statblock: inline
 name: "Wild Hunt Scout"
@@ -22,17 +23,17 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Kingmaker"
 name: "Wild Hunt Scout"
 level: "Creature 18"
-rare_03: "Rare"
+rare_03: [[Rare]]
 alignment: ""
 size: "Medium"
-trait_01: "chaotic"
-trait_02: "fey"
-trait_03: "wild-hunt"
+trait_01: [[chaotic]]
+trait_02: [[fey]]
+trait_03: [[wild-hunt]]
 modifier: 30
 perception:
   - name: "Perception"
     desc: "+30; Greater Darkvision, Scent (Imprecise) 30 Feet"
-languages: "Aklo, Common, Fey"
+languages: "Aklo, Common, Fey; speak with animals; speak with plants"
 skills:
   - name: "Skills"
     desc: "Acrobatics: +32, Athletics: +33, Deception: +32, Intimidation: +32, Nature: +29, Stealth: +37, Survival: +34"
@@ -66,7 +67,7 @@ abilities_mid:
     desc: "  The wild hunt scout automatically achieves a critical success on saving throws against effects created by other allied wild hunt creatures."
 
   - name: "Wild Gaze"
-    desc: " (aura,fear,incapacitation,mental,primal,visual) 30 feet. Those who meet the gaze of a wild hunt scout come face-to-face with the hunt's fearful power and find it difficult to act in the face of such a legendary legacy. When a creature ends its turn in the aura, it must succeed at a DC 37 Will check save to resist becoming [[Conditions/Slowed 1|Slowed 1]] ([[Conditions/Slowed 1|Slowed 2]] on a critical failure). The wild hunt scout can deactivate or activate this aura by using a single action, which has the concentrate trait."
+    desc: " (aura,fear,incapacitation,mental,primal,visual) 30 feet. Those who meet the gaze of a wild hunt scout come face-to-face with the hunt's fearful power and find it difficult to act in the face of such a legendary legacy. When a creature ends its turn in the aura, it must succeed at a DC 37 Will check save to resist becoming [[Conditions/Slowed|Slowed 1]] ([[Conditions/Slowed|Slowed 2]] on a critical failure). The wild hunt scout can deactivate or activate this aura by using a single action, which has the concentrate trait."
 
 attacks:
   - name: ""
@@ -90,7 +91,7 @@ attacks:
     desc: "`pf2:1` (concentrate,fear,incapacitation,mental,primal,visual) The wild hunt scout fixes its glare at a creature it can see within 30 feet. The target must immediately attempt a Will save against the wild hunt hound's wild gaze. If the creature was already slowed by the wild gaze before attempting its save, a failed save causes it to be [[Conditions/Paralyzed|Paralyzed]] for 1 round. After attempting its save, the creature is temporarily immune to Focus Gaze from any wild hunt until the start of the wild hunt scout's next turn."
 
   - name: "Forceful Focus"
-    desc: "`pf2:3` (concentrate) **Requirement** The wild hunt scout cast magic missile the previous round.\n**Effect** The wild hunt scout focuses on their mastery of force, standing still as they become swathed in pulsing emerald light. Any magic missile innate spells they have cast that day are restored, allowing them to be cast again. Until the end of their next turn, any creature that takes force damage from the wild hunt scout must succeed at a DC 40 Fortitude check save or be [[Conditions/Stunned 1|Stunned 1]] ([[Conditions/Stunned 1|Stunned 3]] on a critical failure). The wild hunt scout can't use forceful focus for 1 hour."
+    desc: "`pf2:3` (concentrate) **Requirement** The wild hunt scout cast magic missile the previous round.\n\n**Effect** The wild hunt scout focuses on their mastery of force, standing still as they become swathed in pulsing emerald light. Any magic missile innate spells they have cast that day are restored, allowing them to be cast again. Until the end of their next turn, any creature that takes force damage from the wild hunt scout must succeed at a DC 40 Fortitude check save or be [[Conditions/Stunned|Stunned 1]] ([[Conditions/Stunned|Stunned 3]] on a critical failure). The wild hunt scout can't use forceful focus for 1 hour."
 
   - name: "Manifest Crystals"
     desc: "  A wild hunt scout can manifest a _+2 greater striking scimitar_ made of crystalized force or a fist-sized shard of the same in her hands. These objects vanish upon the wild hunt scout's death, or as soon as they no longer possess the items."
@@ -98,6 +99,12 @@ attacks:
   - name: "[[Bestiary Ability Glossary/Sneak Attack|Sneak Attack]]"
     desc: "  A wild hunt scout's Strikes deal 3d6 extra precision damage to [[Conditions/Off-Guard|Off-Guard]] creatures."
  
+```
+
+```encounter-table
+name: Wild Hunt Scout
+creatures:
+  - 1: Wild Hunt Scout
 ```
 
 

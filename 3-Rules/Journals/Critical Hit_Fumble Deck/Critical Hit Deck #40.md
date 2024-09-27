@@ -20,7 +20,7 @@ tags:
 
 # Sliced Hand
 
-> Normal damage. Until healed, the target is [[Conditions/Enfeebled 1|Enfeebled 1]], [[Conditions/Clumsy 1|Clumsy 1]], and can't used one of its hands (determined randomly by the GM).
+> Normal damage. Until healed, the target is [[Conditions/Enfeebled|Enfeebled 1]], [[Conditions/Clumsy|Clumsy 1]], and can't used one of its hands (determined randomly by the GM).
 
 `Slashing`
 

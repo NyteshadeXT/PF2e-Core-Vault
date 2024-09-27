@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/aquatic
   - pf2e/creature/type/evil
   - pf2e/creature/type/lawful
+  - pf2eMonster
   - pf2e/creature/level/14
 statblock: inline
 name: "Veiled Master"
@@ -24,21 +25,21 @@ token: [[modules/pf2e-tokens-bestiaries/portraits/aberrant/eldritch/veiled-maste
 source: "Pathfinder Bestiary"
 name: "Veiled Master"
 level: "Creature 14"
-rare_03: "Rare"
+rare_03: [[Rare]]
 alignment: ""
 size: "Large"
-trait_01: "aberration"
-trait_02: "aquatic"
-trait_03: "evil"
-trait_04: "lawful"
+trait_01: [[aberration]]
+trait_02: [[aquatic]]
+trait_03: [[evil]]
+trait_04: [[lawful]]
 modifier: 25
 perception:
   - name: "Perception"
     desc: "+25; Darkvision"
-languages: "Aklo, Alghollthu, Common, Sakvroth, Thalassic"
+languages: "Aklo, Alghollthu, Common, Sakvroth, Thalassic; tongues"
 skills:
   - name: "Skills"
-    desc: "Arcana: +27, Athletics: +24, Deception: +28, Intimidation: +26, Lore (any one subcategory): +29, Occultism: +29, Society: +27, Stealth: +24"
+    desc: "Arcana: +27, Athletics: +24, Deception: +28, Intimidation: +26, Occultism: +29, Society: +27, Stealth: +24, Lore (any one subcategory): +29"
 abilityMods: [6, 6, 8, 7, 5, 6]
 speed: 10 feet,  swim 80 feet
 sourcebook: "_Pathfinder Bestiary_"
@@ -78,23 +79,29 @@ attacks:
     desc: "_[[Spells/Geas|Geas]]_"
 
   - name: "[[Bestiary Ability Glossary/Change Shape|Change Shape]]"
-    desc: " (concentrate,occult,polymorph) Once per round, a veiled master can take on the appearance of a humanoid of Large, Medium, or Small size or resume its true form. While in humanoid form, the veiled master's Speed is 30 feet, and it loses its mucus cloud aura and swim Speed. If the humanoid form assumed lacks the aquatic trait, the veiled master loses its own aquatic trait as well. In humanoid form, the veiled master can use weapons, or it can make Strikes that work like its tentacle attack but use the reach of its current form. If the assumed form has fangs or claws, the veiled master can also make such Strikes, but these attacks lack the veiled master's slime.\n"
+    desc: " (concentrate,occult,polymorph) Once per round, a veiled master can take on the appearance of a humanoid of Large, Medium, or Small size or resume its true form. While in humanoid form, the veiled master's Speed is 30 feet, and it loses its mucus cloud aura and swim Speed. If the humanoid form assumed lacks the aquatic trait, the veiled master loses its own aquatic trait as well. In humanoid form, the veiled master can use weapons, or it can make Strikes that work like its tentacle attack but use the reach of its current form. If the assumed form has fangs or claws, the veiled master can also make such Strikes, but these attacks lack the veiled master's slime.\n\n* * *\n"
 
   - name: "Consume Memories"
-    desc: " (mental,occult) When a veiled master makes a fangs Strike against a creature, it can consume some of that creature's memories. The target must succeed at a DC 37 Fortitude check saving throw or become [[Conditions/Stupefied 1|Stupefied 1]]. A veiled master regains 5 Hit Points each time it successfully consumes memories. When a veiled master consumes memories, it learns some of the creature's memories (subject to the GM's discretion)."
+    desc: " (mental,occult) When a veiled master makes a fangs Strike against a creature, it can consume some of that creature's memories. The target must succeed at a DC 37 Fortitude check saving throw or become [[Conditions/Stupefied|Stupefied 1]]. A veiled master regains 5 Hit Points each time it successfully consumes memories. When a veiled master consumes memories, it learns some of the creature's memories (subject to the GM's discretion)."
 
   - name: "Delayed Suggestion"
     desc: " (occult) When a veiled master successfully casts [[Spells/Dominate|Dominate]] on a creature, a [[Spells/Suggestion|Suggestion]] spell triggers when the _dominate_ spell ends. This _suggestion_ usually causes the target to return to the veiled master, so the creature can cast _dominate_ again, but a veiled master can set the _suggestion_ to different orders if it wishes."
 
   - name: "Slime"
-    desc: " (curse,occult,virulent) **Saving Throw** DC 36 Fortitude check\n**Stage 1** no ill effect (1 round)\n**Stage 2** the victim's skin softens, inflicting [[Conditions/Drained 1|Drained 1]] (1 round)\n**Stage 3** the victim's skin transforms into a clear, slimy membrane, inflicting [[Conditions/Drained 1|Drained 2]] until the curse ends; every hour this membrane remains dry, the creature's drained condition increases by 1 (permanent). A [[Spells/Cleanse Affliction|Cleanse Affliction]] spell can counteract this curse, but immunity to disease offers no protection against it"
+    desc: " (curse,occult,virulent) **Saving Throw** DC 36 Fortitude check\n* * *\n\n**Stage 1** no ill effect (1 round)\n\n**Stage 2** the victim's skin softens, inflicting [[Conditions/Drained|Drained 1]] (1 round)\n\n**Stage 3** the victim's skin transforms into a clear, slimy membrane, inflicting [[Conditions/Drained|Drained 2]] until the curse ends; every hour this membrane remains dry, the creature's drained condition increases by 1 (permanent). A [[Spells/Cleanse Affliction|Cleanse Affliction]] spell can counteract this curse, but immunity to disease offers no protection against it"
 
   - name: "Tentacle Flurry"
     desc: "`pf2:2`  The veiled master thrashes about with its tentacles. Make a tentacle Strike against each creature within its reach. Roll only one attack roll, and roll the damage only once for all targets."
 
   - name: "Thoughtlance"
-    desc: " (curse,occult) A creature touched by the veiled master's tentacles, whether those tentacles deal damage or not, must attempt a DC 34 Will check save, becoming [[Conditions/Slowed 1|Slowed 1]] on a failure or [[Conditions/Slowed 1|Slowed 2]] on a critical failure. Each time the affected creature ends its turn, its slowed value decreases by 1."
+    desc: " (curse,occult) A creature touched by the veiled master's tentacles, whether those tentacles deal damage or not, must attempt a DC 34 Will check save, becoming [[Conditions/Slowed|Slowed 1]] on a failure or [[Conditions/Slowed|Slowed 2]] on a critical failure. Each time the affected creature ends its turn, its slowed value decreases by 1."
  
+```
+
+```encounter-table
+name: Veiled Master
+creatures:
+  - 1: Veiled Master
 ```
 
 

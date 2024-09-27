@@ -1,16 +1,17 @@
 ---
 obsidianUIMode: preview
-title: "A Home In Every Port"
+title: "A Home in Every Port"
 cssclasses: pf2e,pf2e-spell
 tags:
   - trait/downtime
   - trait/general
   - trait/common
   - category/general
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.muMOxZyduEFv8UT6"
-license: OGL
+license: ORC
 ---
-# A Home In Every Port
+# A Home in Every Port
 ## Feat 11
 ### [[downtime]][[general]]
 
@@ -26,5 +27,5 @@ When in a town or village, during downtime, you can spend 8 hours to locate a re
 
 After 24 hours, you must pay standard prices for further lodging and meals or use this feat again to find a new resident willing to host you.
 
-*Source: Pathfinder Advanced Player's Guide*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

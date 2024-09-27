@@ -6,8 +6,9 @@ tags:
   - trait/ratfolk
   - trait/common
   - category/ancestry
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.mQYO501xyMgtIQ3W"
-license: OGL
+license: ORC
 ---
 # Ratfolk Lore
 ## Feat 1
@@ -18,9 +19,9 @@ license: OGL
 
 
 
-Years of experience among ratfolk communities have made you nimble, and you've learned to run and hide when enemies threaten.
+Years of experience among ratfolk communities have made you nimble, and you've learned to run and hide when enemies threaten. You gain the trained proficiency rank in Acrobatics and Stealth. If you would automatically become trained in one of those skills (from your background or class, for example), you instead become trained in a skill of your choice.
 
-You gain the trained proficiency rank in Acrobatics and Stealth. If you would automatically become trained in one of those skills (from your background or class, for example), you instead become trained in a skill of your choice. You also become trained in Ratfolk Lore.
+You also gain the [[Feats/Additional Lore|Additional Lore]] general feat for Ratfolk Lore.
 
-*Source: Pathfinder Advanced Player's Guide*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

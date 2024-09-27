@@ -11,7 +11,7 @@ license: OGL
 ---
 # Bloodline: Harrow
 ## Feat 1
-### [[sorcerer]]
+### [[3-Rules/trait_reference/sorcerer]]
 
 **Category** classfeature; 
 
@@ -26,7 +26,7 @@ license: OGL
 
 **Bloodline Spells** initial: [[Spells/Unraveling Blast|Unraveling Blast]]; advanced: [[Spells/Invoke the Harrow|Invoke the Harrow]]; greater: [[Spells/Rewrite Possibility|Rewrite Possibility]]
 
-**Blood Magic** You become enveloped in possibility, represented as multiple versions of yourself from your possible futures overlaid on each other. You gain [[Conditions/Concealed|Concealement]] for 1 round, but can't use the concealment to [[Actions/Hide|Hide]].
+**Blood Magic** You become enveloped in possibility, represented as multiple versions of yourself from your possible futures overlaid on each other. You gain [[Conditions/Concealed|Concealment]] for 1 round, but can't use the concealment to [[Actions/Hide|Hide]].
 
-*Source: Pathfinder: Stolen Fate Player's Guide*
+*Source: Pathfinder Stolen Fate Player's Guide*
 *OGL*

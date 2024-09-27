@@ -7,8 +7,9 @@ tags:
   - trait/secret
   - trait/common
   - category/interaction
+  - remaster
 aliases: "Compendium.pf2e.actionspf2e.Item.7dq6bpYvLArJ5odx"
-license: OGL
+license: ORC
 ---
 # Forge Documents
 
@@ -29,5 +30,5 @@ You prepare forgeries that might serve as convincing props. Attempt a hard or ve
 
 **Critical Failure** As a failure, but a PC who tries to use the Edge Point gets a critical failure, even if they use the Edge Point after rolling a failure.
 
-*Source: Pathfinder Gamemastery Guide*
-*OGL*
+*Source: Pathfinder GM Core*
+*ORC*

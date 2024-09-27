@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/beast
   - pf2e/creature/type/chaotic
   - pf2e/creature/type/primal
+  - pf2eMonster
   - pf2e/creature/level/16
 statblock: inline
 name: "Grogrisant"
@@ -22,17 +23,17 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Lost Omens: Monsters of Myth"
 name: "Grogrisant"
 level: "Creature 16"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "huge"
-trait_01: "beast"
-trait_02: "chaotic"
-trait_03: "primal"
+trait_01: [[beast]]
+trait_02: [[chaotic]]
+trait_03: [[primal]]
 modifier: 30
 perception:
   - name: "Perception"
     desc: "+30; Darkvision, Low-Light Vision, Scent (Imprecise) 60 Feet"
-languages: "Common"
+languages: "Common; (can&#x27;t speak any language)"
 skills:
   - name: "Skills"
     desc: "Acrobatics: +28, Athletics: +35, Intimidation: +32, Stealth: +28, Survival: +28"
@@ -72,11 +73,17 @@ attacks:
     desc: "`pf2:2`  Grogrisant Strides and makes two claw Strikes against the same creature at the end of that movement. Each attack counts against Grogrisant's multiple attack penalty, but the penalty doesn't increase until after Grogrisant makes both attacks. If both attacks hit, combine their damage for the purpose of resistances and weaknesses."
 
   - name: "[[Bestiary Ability Glossary/Rend|Rend]]"
-    desc: "`pf2:1`  claw.\nIf Grogrisant Rends after a successful Dual Pounce, combine the Rend's damage with that from the Dual Pounce for the purpose of resistances and weaknesses."
+    desc: "`pf2:1`  claw.\n\nIf Grogrisant Rends after a successful Dual Pounce, combine the Rend's damage with that from the Dual Pounce for the purpose of resistances and weaknesses."
 
   - name: "Vicious Rend"
-    desc: "`pf2:r`  **Trigger** Grogrisant uses Rend\n**Effect** The target's armor takes damage equal to the damage from Rend. The target can attempt a DC 37 Reflex check save, negating the armor damage on a successful save."
+    desc: "`pf2:r`  **Trigger** Grogrisant uses Rend\n* * *\n\n**Effect** The target's armor takes damage equal to the damage from Rend. The target can attempt a DC 37 Reflex check save, negating the armor damage on a successful save."
  
+```
+
+```encounter-table
+name: Grogrisant
+creatures:
+  - 1: Grogrisant
 ```
 
 

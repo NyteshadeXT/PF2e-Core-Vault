@@ -6,6 +6,7 @@ cssClasses: pf2e
 aliases: "Compendium.pf2e.pathfinder-bestiary.Actor.Zbvh6ChdD0TWv257" 
 tags:
   - pf2e/creature/type/beast
+  - pf2eMonster
   - pf2e/creature/level/7
 statblock: inline
 name: "Remorhaz"
@@ -21,15 +22,15 @@ token: [[modules/pf2e-tokens-bestiaries/portraits/bestial/invertebrate/remorhaz.
 source: "Pathfinder Bestiary"
 name: "Remorhaz"
 level: "Creature 7"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "huge"
-trait_01: "beast"
+trait_01: [[beast]]
 modifier: 14
 perception:
   - name: "Perception"
     desc: "+14; Darkvision, Tremorsense (Imprecise) 60 Feet"
-languages: "Jotun"
+languages: "Jotun; (can&#x27;t speak any language)"
 skills:
   - name: "Skills"
     desc: "Athletics: +18, Stealth: +13"
@@ -63,13 +64,13 @@ attacks:
     desc: "`pf2:1` Tail +18 (fire, reach 15 feet)\n__Damage__  1d10 + 3 bludgeoning 2d6 fire"
 
   - name: "Breath Weapon"
-    desc: "`pf2:2` (fire,primal) The remorhaz unleashes a gout of flame that deals 8d6 fire damage in a 30-foot cone (DC 26 Reflex check save).\nIt can't use Breath Weapon again for 1d4 rounds."
+    desc: "`pf2:2` (fire,primal) The remorhaz unleashes a gout of flame that deals 8d6 fire damage in a @Template[cone|distance:30] (DC 26 Reflex check save).\n\nIt can't use Breath Weapon again for 1d4 rounds."
 
   - name: "Ice Tunneler"
     desc: "  A remorhaz can leave a tunnel when it burrows through ice or snow, and it usually does."
 
   - name: "[[Bestiary Ability Glossary/Swallow Whole|Swallow Whole]]"
-    desc: "`pf2:1` (attack) Large, 2d8+5 bludgeoning damage plus 2d6 fire damage, Rupture 12\n"
+    desc: "`pf2:1` (attack) Large, 2d8+5 bludgeoning damage plus 2d6 fire damage, Rupture 12\n\n* * *\n"
 
   - name: "Thrash"
     desc: "`pf2:2`  The remorhaz Strikes once with its jaws and once with its tail, each targeting a different creature. Each attack counts toward the remorhaz's multiple attack penalty, but the multiple attack penalty doesn't increase until after all the attacks have been made."
@@ -77,6 +78,12 @@ attacks:
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
     desc: "`pf2:1`  "
  
+```
+
+```encounter-table
+name: Remorhaz
+creatures:
+  - 1: Remorhaz
 ```
 
 

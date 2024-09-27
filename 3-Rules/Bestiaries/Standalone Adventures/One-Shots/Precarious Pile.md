@@ -4,6 +4,7 @@ obsidianUIMode: preview
 noteType: pf2eHazard
 tags:
   - environmental
+  - pf2eHazard
 
 source: Pathfinder Adventure: Little Trouble in Big Absalom
 aliases: "Compendium.pf2e.one-shot-bestiary.Actor.JhQqV8t4BPk2Ixg8" 
@@ -21,13 +22,13 @@ name: "Precarious Pile"
 level: "Hazard 2"
 
 
-trait_01: "environmental"
+trait_01: [[environmental]]
 modifier: -1
 sourcebook: "_Pathfinder Adventure: Little Trouble in Big Absalom_"
 ac: 16
 armorclass:
   - name: AC
-    desc: "16; __Fort__ +10, __Ref__ +2, __Will__ +0"
+    desc: "16; __Fort__ +10, __Ref__ +2, "
 hp: 25
 health:
   - name: ""
@@ -44,14 +45,20 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Disable"
-    desc: "DC 15 Thievery check to carefully excavate a path through the wall without upsetting its balance\nDC 17 Athletics check to hold up any unstable portions"
+    desc: "DC 15 Thievery check to carefully excavate a path through the wall without upsetting its balance\n\nDC 17 Athletics check to hold up any unstable portions"
 attacks:
   - name: ""
 
   - name: "Collapse"
-    desc: "`pf2:r` **Trigger** A creature attempts to climb or remove an object from the wall or the wall suffers a forceful impact\n**Effect** The wall collapses, dealing 2d8 bludgeoning damage to creatures on it or within 10 feet of it. A creature that succeeds at a DC 18 Reflex check save takes half damage and rolls out of the way in a random direction. On a critical success, they take no damage and can choose the direction."
+    desc: "`pf2:r` **Trigger** A creature attempts to climb or remove an object from the wall or the wall suffers a forceful impact\n* * *\n\n**Effect** The wall collapses, dealing 2d8 bludgeoning damage to creatures on it or within 10 feet of it. A creature that succeeds at a DC 18 Reflex check save takes half damage and rolls out of the way in a random direction. On a critical success, they take no damage and can choose the direction."
 
 
 
+```
+
+```encounter-table
+name: Precarious Pile
+creatures:
+  - 1: Precarious Pile
 ```
 

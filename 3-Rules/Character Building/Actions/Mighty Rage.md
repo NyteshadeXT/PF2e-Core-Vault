@@ -11,7 +11,7 @@ license: OGL
 ---
 # Mighty Rage `pf2:0`
 
-### [[barbarian]]
+### [[3-Rules/trait_reference/barbarian]]
 
 **Category** interaction; 
 

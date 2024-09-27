@@ -6,21 +6,20 @@ tags:
   - trait/alchemist
   - trait/common
   - category/classfeature
+  - remaster
 aliases: "Compendium.pf2e.classfeatures.Item.V4Jt7eDnJBLv5bDj"
-license: OGL
+license: ORC
 ---
 # Field Discovery (Mutagenist)
 ## Feat 5
-### [[alchemist]]
+### [[3-Rules/trait_reference/alchemist]]
 
 **Category** classfeature; 
 
 
 
 
-You learn a special discovery depending on your field.
+The mutagens flowing through your blood have altered your body chemistry. When you roll a Fortitude save while affected by a mutagen and dislike the result, you can end the effect of the mutagen to reroll the save. This is a fortune effect.
 
-When using [[Class Features/Advanced Alchemy|Advanced Alchemy]] to make mutagens during your daily preparations, you can use a batch of [[Class Features/Infused Reagents|reagents]] to create any three mutagens instead of just two of the same mutagen.
-
-*Source: Pathfinder Core Rulebook*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

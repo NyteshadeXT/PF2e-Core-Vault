@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/chaotic
   - pf2e/creature/type/evil
   - pf2e/creature/type/fey
+  - pf2eMonster
   - pf2e/creature/level/20
 statblock: inline
 name: "Thousand Skins"
@@ -23,19 +24,20 @@ token: [[modules/battlezoo-bestiary-su-pf2e/art/Portraits/thousand-skins.webp| ]
 source: "Battlezoo Bestiary: Strange and Unusual"
 name: "Thousand Skins"
 level: "Creature 20"
-rare_03: "Rare"
+rare_03: [[Rare]]
 alignment: ""
 size: "Large"
-trait_01: "chaotic"
-trait_02: "evil"
-trait_03: "fey"
+trait_01: [[chaotic]]
+trait_02: [[evil]]
+trait_03: [[fey]]
 modifier: 30
 perception:
   - name: "Perception"
     desc: "+30; "
+languages: ""
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +38, Athletics: +38, Intimidation: +38, Stealth: +38, "
+    desc: "Acrobatics: +38, Athletics: +38, Intimidation: +38, Stealth: +38, Acrobatics: +38, Athletics: +38, Intimidation: +38, Stealth: +38"
 abilityMods: [10, 11, 10, 3, 2, 8]
 speed: 30 feet
 sourcebook: "_Battlezoo Bestiary: Strange and Unusual_"
@@ -54,10 +56,10 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Grisly Trophies"
-    desc: " (aura,divine,emotion,fear,visual) 20 feet. The very sight of the thousand skins' horrific trophies is enough to make most enemies flee in a fit of abject horror. Living creatures who start their turn within 20 feet of the thousand skins must attempt a DC 39 Will check save.\n**Critical Success** The creature is unaffected, and immune to the thousand skins's Grisly Trophies for 1 minute.\n**Success** The creature is Frightened 1.\n**Failure** The creature is Frightened 2.\n**Critical Failure** The creature is Frightened 3 and Fleeing for 1 round."
+    desc: " (aura,divine,emotion,fear,visual) 20 feet. The very sight of the thousand skins' horrific trophies is enough to make most enemies flee in a fit of abject horror. Living creatures who start their turn within 20 feet of the thousand skins must attempt a DC 39 Will check save.\n* * *\n\n**Critical Success** The creature is unaffected, and immune to the thousand skins's Grisly Trophies for 1 minute.\n\n**Success** The creature is [[undefined]].\n\n**Failure** The creature is [[undefined]].\n\n**Critical Failure** The creature is [[undefined]] and [[undefined]] for 1 round."
 
   - name: "Shifting Defense"
-    desc: "`pf2:r` (divine) **Trigger** The thousand skins takes damage\n**Effect** The thousand skins' pelts shift their physicality to defend against any further damage. For the next minute, the thousand skins has resistance 15 against the triggering damage type (or one of the triggering types of the thousand skins's choice if the triggering damage had two or more damage types). If it uses this ability again, it loses its previous resistance from Shifting Defense and replaces it with the new resistance. This resistance never applies to damage from cold iron weapons, even if it currently has resistance to the weapon's associated damage type.\n[[Effects/Effect_ Shifting Defense|Effect: Shifting Defense]]"
+    desc: "`pf2:r` (divine) **Trigger** The thousand skins takes damage\n* * *\n\n**Effect** The thousand skins' pelts shift their physicality to defend against any further damage. For the next minute, the thousand skins has resistance 15 against the triggering damage type (or one of the triggering types of the thousand skins's choice if the triggering damage had two or more damage types). If it uses this ability again, it loses its previous resistance from Shifting Defense and replaces it with the new resistance. This resistance never applies to damage from cold iron weapons, even if it currently has resistance to the weapon's associated damage type.\n\n[[Effects/Effect_ Shifting Defense|Effect: Shifting Defense]]"
 
 attacks:
   - name: ""
@@ -66,11 +68,17 @@ attacks:
     desc: "`pf2:1` Skinwhip +38 (finesse, reach 40 feet)\n__Damage__  4d12 + 19 slashing"
 
   - name: "Mutable Combatant"
-    desc: "  **Trigger** the thousand skins begins its turn\n**Effect** The thousand skins chooses one of the following benefits to gain until the start of its next turn:\n*   The thousand skins gains a +2 circumstance bonus to its AC.\n*   The thousand skins deals 2d6 additional damage with its skinwhip and Skinwhip Eruption.\n*   The thousand skins gains a +2 circumstance bonus to its Athletics checks.\n*   The thousand skins gains 20 temporary Hit Points that last until its next turn.\n[[Effects/Effect_ Mutable Combatant|Effect: Mutable Combatant]]"
+    desc: "  **Trigger** the thousand skins begins its turn\n* * *\n\n**Effect** The thousand skins chooses one of the following benefits to gain until the start of its next turn:\n\n*   The thousand skins gains a +2 circumstance bonus to its AC.\n*   The thousand skins deals 2d6 additional damage with its skinwhip and Skinwhip Eruption.\n*   The thousand skins gains a +2 circumstance bonus to its Athletics checks.\n*   The thousand skins gains 20 temporary Hit Points that last until its next turn.\n\n[[Effects/Effect_ Mutable Combatant|Effect: Mutable Combatant]]"
 
   - name: "Skinwhip Eruption"
-    desc: "`pf2:2`  The pelts draped across the thousand skins erupt in all directions, whipping and slicing all creatures in a 20-foot emanation with the thousand skins's rampaging aggression. Those in the area suffer 12d10 slashing damage and 6d6 persistent bleed damage (1d4 rounds.\n**Critical Success** The creature is unaffected.\n**Success** The target takes half damage and no persistent bleed damage.\n**Failure** The target takes full damage.\n**Critical Failure** The target takes double damage."
+    desc: "`pf2:2`  The pelts draped across the thousand skins erupt in all directions, whipping and slicing all creatures in a 20-foot emanation with the thousand skins's rampaging aggression. Those in the area suffer 12d10 slashing damage and 6d6 persistent bleed damage (1d4 rounds.\n* * *\n\n**Critical Success** The creature is unaffected.\n\n**Success** The target takes half damage and no persistent bleed damage.\n\n**Failure** The target takes full damage.\n\n**Critical Failure** The target takes double damage."
  
+```
+
+```encounter-table
+name: Thousand Skins
+creatures:
+  - 1: Thousand Skins
 ```
 
 

@@ -1,16 +1,17 @@
 ---
-title: "Bathysphere"
+title: Bathysphere
 obsidianUIMode: preview
-noteType: pf2eMonster
+noteType: pf2eVehicle
 cssClasses: pf2e
-aliases: "Compendium.pf2e.vehicles.Actor.GMoxs9RQ88uMxfW4" 
 tags:
-  - pf2e/creature/level/5
+  - pf2eVehicle
+
   - remaster
-statblock: inline
-name: "Bathysphere"
+source: Pathfinder GM Core
+aliases: "Compendium.pf2e.vehicles.Actor.GMoxs9RQ88uMxfW4" 
 level: 5
 license: ORC
+statblock: inline
 ---
 
 ```statblock
@@ -19,39 +20,57 @@ forcecolumns: true
 layout: Basic Pathfinder 2e Layout
 source: "Pathfinder GM Core"
 name: "Bathysphere"
-level: "Creature 5"
-rare_03: "Uncommon"
-alignment: ""
+level: "Vehicle 5"
+rare_03: [[Uncommon]]
+
 size: "Large"
 modifier: 
 perception:
-  - name: "Perception"
-    desc: "NaN; "
-skills:
-  - name: "Skills"
-    desc: ""
-abilityMods: [, , , , , ]
-speed: 
-sourcebook: "_Pathfinder GM Core_"
+  - name: ""
+  - name: "Price"
+    desc: "480 gp\n* * *"
+abilities_top:
+  - name: ""
+  - name: "Space"
+    desc: "15 feet long, 15 feet wide, 15 feet high"
+  - name: "Crew"
+    desc: "1 pilot; **Passengers** 4"
+  - name: "Piloting Check"
+    desc: "Crafting (DC 22), Engineering Lore (DC 20), or Piloting Lore (DC 20)"
 ac: 18
 armorclass:
   - name: AC
-    desc: "18; __Fort__ +12, __Ref__ NaN, __Will__ NaN"
+    desc: "18; __Fort__ +12"
 hp: 80
 health:
   - name: ""
-  - name: HP
-    desc: "80; __Immunities__  object immunities"
-abilities_top:
-  - name: ""
-
+  - name: "Hardness"
+    desc: "10; **HP** 80 (BT 40); __Immunities__  object immunities"
+speed: "swim 20 feet (alchemical; underwater only)"
 abilities_mid:
   - name: ""
 attacks:
   - name: ""
- 
+  - name: "Collision"
+    desc: "2d10 (DC 20)"
+
+  - name: "Cable"
+    desc: " The bathysphere is raised and lowered from a cable at the surface and can move only vertically."
+
+  - name: "Tether Buoy"
+    desc: " Crew and passengers can breathe while the vehicle is underwater to a depth of 500 feet or less."
+
+  - name: "Ballast Release"
+    desc: "`pf2:2` The pilot releases the bathysphere's ballast. The bathysphere moves 3 times its Speed toward the surface at the end of the pilot's turn."
+
+
+
+sourcebook: "_Pathfinder GM Core_"
 ```
 
-
-
+```encounter-table
+name: Bathysphere
+creatures:
+  - 1: Bathysphere
+```
 

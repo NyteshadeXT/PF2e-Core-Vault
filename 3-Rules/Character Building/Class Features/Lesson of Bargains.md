@@ -6,9 +6,8 @@ tags:
   - trait/witch
   - trait/common
   - category/classfeature
-  - remaster
 aliases: "Compendium.pf2e.classfeatures.Item.RcmqV0cuOLcnKQr0"
-license: ORC
+license: OGL
 ---
 # Lesson of Bargains
 ## Feat 10
@@ -21,5 +20,5 @@ license: ORC
 
 You gain the [[Spells/Over the Coals|Over the Coals]] hex, and your familiar learns [[Spells/Subconscious Suggestion|Subconscious Suggestion]].
 
-*Source: Pathfinder Player Core*
-*ORC*
+*Source: Pathfinder Dark Archive*
+*OGL*

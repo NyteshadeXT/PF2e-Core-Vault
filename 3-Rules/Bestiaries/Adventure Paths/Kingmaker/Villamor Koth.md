@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/human
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/15
 statblock: inline
 name: "Villamor Koth"
@@ -23,13 +24,13 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Kingmaker"
 name: "Villamor Koth"
 level: "Creature 15"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Medium"
-trait_01: "chaotic"
-trait_02: "evil"
-trait_03: "human"
-trait_04: "humanoid"
+trait_01: [[chaotic]]
+trait_02: [[evil]]
+trait_03: [[human]]
+trait_04: [[humanoid]]
 modifier: 27
 perception:
   - name: "Perception"
@@ -84,11 +85,17 @@ attacks:
     desc: "`pf2:1` (concentrate,rage) Villamor Koth extends his body and prepares to attack foes outside his normal reach. Until his rage ends, all his melee weapons and unarmed attacks gain reach 10. This doesn't increase the reach of any weapon or unarmed attack that already has the reach trait, but it does combine with abilities that increase his reach due to increased size."
 
   - name: "Knockback"
-    desc: "`pf2:1` (rage) **Requirements** Villamor Koth's last action was a successful Strike.\n**Effect** Villamor Koth pushes his foe back 5 feet, with the effects of a successful [[Actions/Shove|Shove]]. He can follow the foe as normal for a successful shove."
+    desc: "`pf2:1` (rage) **Requirements** Villamor Koth's last action was a successful Strike.\n* * *\n\n**Effect** Villamor Koth pushes his foe back 5 feet, with the effects of a successful [[Actions/Shove|Shove]]. He can follow the foe as normal for a successful shove."
 
   - name: "Rage"
-    desc: "`pf2:1`  Villamor begins raging. He gains 19 temporary Hit Points. This frenzy lasts for 1 minute, until there are no enemies he can perceive, or until he falls [[Conditions/Unconscious|Unconscious]], whichever comes first. He can't voluntarily stop raging. While he is raging, he deals 12 additional Damage with melee weapons and unarmed attacks. This additional damage is halved if his weapon or unarmed attack is agile. While raging, Villamor Koth's AC is 33.\n[[Feat_Feature Effects/Effect_ Rage|Effect: Rage]]"
+    desc: "`pf2:1`  Villamor begins raging. He gains 19 temporary Hit Points. This frenzy lasts for 1 minute, until there are no enemies he can perceive, or until he falls [[Conditions/Unconscious|Unconscious]], whichever comes first. He can't voluntarily stop raging. While he is raging, he deals 12 additional Damage with melee weapons and unarmed attacks. This additional damage is halved if his weapon or unarmed attack is agile. While raging, Villamor Koth's AC is 33.\n\n[[Feat_Feature Effects/Effect_ Rage|Effect: Rage]]"
  
+```
+
+```encounter-table
+name: Villamor Koth
+creatures:
+  - 1: Villamor Koth
 ```
 
 

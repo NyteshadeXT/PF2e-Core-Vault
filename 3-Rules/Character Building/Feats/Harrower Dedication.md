@@ -27,5 +27,5 @@ In addition, once a day when you perform your daily preparations, you can perfor
 
 **Special** You can't select another dedication feat until you've gained two other feats from the [[PF2e Journals/Archetypes/Harrower|Harrower]] archetype. If you retrain out of this feat, you lose the harrowing ritual you learned from it
 
-*Source: Pathfinder: Stolen Fate Player's Guide*
+*Source: Pathfinder Stolen Fate Player's Guide*
 *OGL*

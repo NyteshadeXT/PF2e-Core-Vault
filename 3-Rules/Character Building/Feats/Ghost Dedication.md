@@ -32,5 +32,7 @@ You have risen as a shell of your former self, a spirit of mist and anguish. You
 
 **Ties that Bind** When you become a ghost, work with your GM to choose a bound site and unfinished business, both of which matter for your character's story, as well as some ghost archetype feats. Your bound site tethers you to the physical world and is typically either a location important to you in life or the place where you died. Unfinished business keeps you from passing to the afterlife. If someone resolves your unfinished business, you decide whether to accept the change and pass on, or to fight it. If you pass on, you get a few minutes to say your goodbyes, and then move into the River of Souls and the afterlife. Your character ceases to be. If you fight the change, you remain, though you and the GM might determine a new unfinished business. If you are physically destroyed, you cease your existence as a ghost but still might not be able to pass on to the afterlife if your unfinished business is incomplete. In this liminal state, you might come across strange energies and become another sort of creature, or anchor to a summoner and become an eidolon.
 
+[[PF2e Journals/Archetypes/Ghost|Ghost]]
+
 *Source: Pathfinder Book of the Dead*
 *OGL*

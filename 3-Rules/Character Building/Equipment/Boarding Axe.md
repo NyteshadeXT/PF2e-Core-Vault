@@ -15,7 +15,7 @@ license: OGL
 ---
 # Boarding Axe
 ## Item 0
-### [uncommon](uncommon "Uncommon Rarity Trait")[[agile]][[azarketi]][[climbing]][[versatile-p]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[3-Rules/Rule References/Agile]][[azarketi]][[climbing]][[versatile-p]]
 
 |  |  |
 | -- | -- |

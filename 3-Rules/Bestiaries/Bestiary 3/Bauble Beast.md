@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.pathfinder-bestiary-3.Actor.Yg7R4UgB1FjF2Euu"
 tags:
   - pf2e/creature/type/beast
   - pf2e/creature/type/earth
+  - pf2eMonster
   - pf2e/creature/level/6
 statblock: inline
 name: "Bauble Beast"
@@ -22,11 +23,11 @@ token: [[modules/pf2e-tokens-bestiaries/portraits/bestial/mythological/bauble-be
 source: "Pathfinder Bestiary 3"
 name: "Bauble Beast"
 level: "Creature 6"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Large"
-trait_01: "beast"
-trait_02: "earth"
+trait_01: [[beast]]
+trait_02: [[earth]]
 modifier: 13
 perception:
   - name: "Perception"
@@ -34,7 +35,7 @@ perception:
 languages: "Common, Dwarven, Petran, Sakvroth"
 skills:
   - name: "Skills"
-    desc: "Athletics: +14, Crafting: +13 (+17 to Craft jewelry), Deception: +14, Diplomacy: +12, Jewelry Lore: +18, Society: +11, Stealth: +14, Thievery: +14"
+    desc: "Athletics: +14, Crafting: +13, Deception: +14, Diplomacy: +12, Society: +11, Stealth: +14, Thievery: +14, Jewelry Lore: +18"
 abilityMods: [4, 4, 3, 1, 3, 4]
 speed: 30 feet,  climb 10 feet
 sourcebook: "_Pathfinder Bestiary 3_"
@@ -66,11 +67,17 @@ attacks:
     desc: "`pf2:1` Bile +16 (acid, range increment 30 feet)\n__Damage__  2d8 acid plus philanthropic-bile 1d6 acid plus philanthropic-bile"
 
   - name: "Forge Jewelry"
-    desc: " (arcane,exploration) The jeweler beast creates imitation jewelry within its own digestive system. This takes about 4 hours.\nDetermining the jewelry is fake works like detecting a forgery, using either DC 25 Perception check or DC 25 Crafting check instead of Perception or Society, with a DC of 25.\nThe process of creating fake jewelry also places an enchantment inside the item. Anyone who dons the imitation jewelry is targeted with a DC 24 Will check [[Spells/Suggestion|Suggestion]] spell with a duration of 1 hour on a failure or 24 hours on a critical failure. A creature that fails learns the location where the fake jewelry was created and is compelled to collect their valuable belongings and bring them to that location. Removing the imitation jewelry ends the spell immediately, but the wearer can't take it off voluntarily."
+    desc: " (arcane,exploration) The jeweler beast creates imitation jewelry within its own digestive system. This takes about 4 hours.\n\nDetermining the jewelry is fake works like detecting a forgery, using either DC 25 Perception check or DC 25 Crafting check instead of Perception or Society, with a DC of 25.\n\nThe process of creating fake jewelry also places an enchantment inside the item. Anyone who dons the imitation jewelry is targeted with a DC 24 Will check [[Spells/Suggestion|Suggestion]] spell with a duration of 1 hour on a failure or 24 hours on a critical failure. A creature that fails learns the location where the fake jewelry was created and is compelled to collect their valuable belongings and bring them to that location. Removing the imitation jewelry ends the spell immediately, but the wearer can't take it off voluntarily."
 
   - name: "Philanthropic Bile"
-    desc: "  Exposure to the bauble beast's magical stomach fluids enchants the mind.\nA creature critically hit by the beast's jaws or bile Strike is subject to a [[Spells/Charitable Urge|Charitable Urge]] spell (DC 23 Will check)."
+    desc: "  Exposure to the bauble beast's magical stomach fluids enchants the mind.\n\nA creature critically hit by the beast's jaws or bile Strike is subject to a [[Spells/Charitable Urge|Charitable Urge]] spell (DC 23 Will check)."
  
+```
+
+```encounter-table
+name: Bauble Beast
+creatures:
+  - 1: Bauble Beast
 ```
 
 

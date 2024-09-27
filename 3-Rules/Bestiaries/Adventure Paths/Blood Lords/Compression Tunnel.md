@@ -5,6 +5,7 @@ noteType: pf2eHazard
 tags:
   - magical
   - trap
+  - pf2eHazard
   - complex
 source: Pathfinder #186: Ghost King&#x27;s Rage
 aliases: "Compendium.pf2e.blood-lords-bestiary.Actor.YHDUmGATLSHUgGiM" 
@@ -22,8 +23,8 @@ name: "Compression Tunnel"
 level: "Hazard 20"
 
 trait_06: "Complex"
-trait_01: "magical"
-trait_02: "trap"
+trait_01: [[magical]]
+trait_02: [[trap]]
 modifier: 41
 sourcebook: "_Pathfinder #186: Ghost King's Rage_"
 perception:
@@ -42,10 +43,16 @@ attacks:
   - name: ""
 
   - name: "Shudder"
-    desc: "`pf2:r` **Trigger** A creature reaches the tunnel's midpoint\n**Effect** The tunnel shudders, knocking creatures [[Conditions/Prone|Prone]] unless they succeed at a DC 42 Reflex check save. The trap then rolls initiative."
+    desc: "`pf2:r` **Trigger** A creature reaches the tunnel's midpoint\n* * *\n\n**Effect** The tunnel shudders, knocking creatures [[Conditions/Prone|Prone]] unless they succeed at a DC 42 Reflex check save. The trap then rolls initiative."
 
   - name: "Routine"
-    desc: "(1 action) The tunnel compresses, crushing all creatures in it and dealing 4d10 + 22 bludgeoning damage (DC 42 Fortitude check). On a failed save, a creature additionally becomes [[Conditions/Immobilized|Immobilized]] ([[Actions/Escape|Escape]] DC 42)."
+    desc: "(1 action) The tunnel compresses, crushing all creatures in it and dealing 4d10+22 bludgeoning damage (DC 42 Fortitude check). On a failed save, a creature additionally becomes [[Conditions/Immobilized|Immobilized]] ([[Actions/Escape|Escape]] DC 42)."
 
+```
+
+```encounter-table
+name: Compression Tunnel
+creatures:
+  - 1: Compression Tunnel
 ```
 

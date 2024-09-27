@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/aberration
   - pf2e/creature/type/evil
   - pf2e/creature/type/swarm
+  - pf2eMonster
   - pf2e/creature/level/11
 statblock: inline
 name: "Bhanyada Swarm"
@@ -22,17 +23,17 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #190: The Choosing"
 name: "Bhanyada Swarm"
 level: "Creature 11"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Large"
-trait_01: "aberration"
-trait_02: "evil"
-trait_03: "swarm"
+trait_01: [[aberration]]
+trait_02: [[evil]]
+trait_03: [[swarm]]
 modifier: 20
 perception:
   - name: "Perception"
     desc: "+20; Darkvision"
-languages: "Aklo"
+languages: "Aklo; can&#x27;t speak any language"
 skills:
   - name: "Skills"
     desc: "Acrobatics: +22, Stealth: +22, Survival: +18"
@@ -54,17 +55,23 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Extraneous Flesh"
-    desc: "`pf2:0`  **Frequency** three times per day\n**Trigger** A Strike scores a critical hit on the bhanyada swarm\n**Effect** A critical hit might simply sever a component chunk that the bhanyada can lose without much harm. The bhanyada swarm attempts a DC 11 Flat check. On a success, it doesn't take any extra damage from the critical hit (although it takes other effects normally, such as critical specialization effects)."
+    desc: "`pf2:0`  **Frequency** three times per day\n\n**Trigger** A Strike scores a critical hit on the bhanyada swarm\n* * *\n\n**Effect** A critical hit might simply sever a component chunk that the bhanyada can lose without much harm. The bhanyada swarm attempts a DC 11 Flat check. On a success, it doesn't take any extra damage from the critical hit (although it takes other effects normally, such as critical specialization effects)."
 
   - name: "Odor of Rot"
-    desc: " (aura,olfactory) 10 feet. Creatures other than aberrations that enter or start their turn in the bhanyada's aura must succeed at a DC 27 Fortitude check save or become [[Conditions/Sickened 1|Sickened 1]] ([[Conditions/Sickened 1|Sickened 2]] on a critical failure). A creature that succeeds at its save is temporarily immune for 1 minute."
+    desc: " (aura,olfactory) 10 feet. Creatures other than aberrations that enter or start their turn in the bhanyada's aura must succeed at a DC 27 Fortitude check save or become [[Conditions/Sickened|Sickened 1]] ([[Conditions/Sickened|Sickened 2]] on a critical failure). A creature that succeeds at its save is temporarily immune for 1 minute."
 
 attacks:
   - name: ""
 
   - name: "Swarming Bites"
-    desc: "`pf2:1`  Each enemy in the bhanyada swarm's space takes 2d6 bludgeoning damage (DC 30 Reflex check). On a failed save, a creature is also [[Conditions/Slowed 1|Slowed 1]] for 1 round."
+    desc: "`pf2:1`  Each enemy in the bhanyada swarm's space takes 2d6 bludgeoning damage (DC 30 Reflex check). On a failed save, a creature is also [[Conditions/Slowed|Slowed 1]] for 1 round."
  
+```
+
+```encounter-table
+name: Bhanyada Swarm
+creatures:
+  - 1: Bhanyada Swarm
 ```
 
 

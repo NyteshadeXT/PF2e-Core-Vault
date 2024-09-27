@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/devil
   - pf2e/creature/type/fiend
   - pf2e/creature/type/unholy
+  - pf2eMonster
   - pf2e/creature/level/14
   - remaster
 statblock: inline
@@ -27,9 +28,9 @@ level: "Creature 14"
 
 alignment: ""
 size: "Medium"
-trait_01: "devil"
-trait_02: "fiend"
-trait_03: "unholy"
+trait_01: [[devil]]
+trait_02: [[fiend]]
+trait_03: [[unholy]]
 modifier: 28
 perception:
   - name: "Perception"
@@ -56,7 +57,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Reflexive Grab"
-    desc: "`pf2:r` (move) **Trigger** A creature leaves a square within the gylou's reach using a move action or attempts a melee Strike against the gylou\n* * *\n\n**Effect** The gylou lashes out with a tentacle, attempting to [[Actions/Grapple|Grapple]] the triggering creature. If the triggering Strike was with a melee weapon, the attacking creature can Release the weapon to cause the gylou to automatically fail the Athletics check."
+    desc: "`pf2:r`  **Trigger** A creature leaves a square within the gylou's reach using a move action or attempts a melee Strike against the gylou\n* * *\n\n**Effect** The gylou lashes out with a tentacle, attempting to [[Actions/Grapple|Grapple]] the triggering creature. If the triggering Strike was with a melee weapon, the attacking creature can Release the weapon to cause the gylou to automatically fail the Athletics check."
 
 attacks:
   - name: ""
@@ -77,7 +78,7 @@ attacks:
     desc: "`pf2:1` (concentrate,divine,polymorph) "
 
   - name: "Encage in Tentacles"
-    desc: "`pf2:1` (attack) **Requirements** The gylou has a Medium or smaller creature [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]]\n* * *\n\n**Effect** The gylou transfers the grabbed creature into their lower body's net of encaging tentacles, freeing their limbs and tentacles to make Strikes. This has the same effects as [[Bestiary Ability Glossary/Swallow Whole|Swallow Whole]] (Medium, 2d12 + 12 bludgeoning, Rupture 30), except the encaged creature is not at risk of suffocation, and the gylou can bring the encaged creature with them when they cast [[Spells/Translocate|Translocate]]. A gylou can have only one creature encaged at a time."
+    desc: "`pf2:1` (attack) **Requirements** The gylou has a Medium or smaller creature [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]]\n* * *\n\n**Effect** The gylou transfers the grabbed creature into their lower body's net of encaging tentacles, freeing their limbs and tentacles to make Strikes. This has the same effects as [[Bestiary Ability Glossary/Swallow Whole|Swallow Whole]] (Medium, 2d12+12 bludgeoning, Rupture 30), except the encaged creature is not at risk of suffocation, and the gylou can bring the encaged creature with them when they cast [[Spells/Translocate|Translocate]]. A gylou can have only one creature encaged at a time."
 
   - name: "Indispensable Savvy"
     desc: "`pf2:r`  **Frequency** once per day\n\n**Trigger** The gylou attempts a skill check but hasn't rolled yet\n* * *\n\n**Effect** The gylou demonstrates a preternatural ability for the task at hand. They use their Deception modifier for the triggering check and for all skill checks using the same skill thereafter until the next time the gylou uses this ability or until 24 hours have passed, whichever happens first."
@@ -85,6 +86,12 @@ attacks:
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
     desc: "`pf2:1`  "
  
+```
+
+```encounter-table
+name: Gylou
+creatures:
+  - 1: Gylou
 ```
 
 

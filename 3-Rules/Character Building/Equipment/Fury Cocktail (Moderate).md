@@ -32,7 +32,7 @@ A fury cocktail is a fortifying ginger beer spiked with rum and a mixer. It's ru
 *   **Double** This cocktail is just stronger, with more ginger and more rum. You gain resistance 2 to physical damage.
 *   **Mournful** A few flower petals add a powerful aroma to the drink. You gain resistance 5 to void damage, or resistance 5 to vitality damage if you have void healing.
 *   **Skeptical** A splash of bitters gives the drink a more complex flavor. You gain a +2 item bonus to saves against magic.
-*   **Titanic** Yuzu juice and powdered giant hair are added to this cocktail. If you're Medium or smaller, you gain the following effects: you become Large, are [[Conditions/Clumsy 1|Clumsy 1]], and increase your reach by 5 feet (or by 10 feet if you started out Tiny).
+*   **Titanic** Yuzu juice and powdered giant hair are added to this cocktail. If you're Medium or smaller, you gain the following effects: you become Large, are [[Conditions/Clumsy|Clumsy 1]], and increase your reach by 5 feet (or by 10 feet if you started out Tiny).
 *   **Wyrmhide** Pomegranate juice and elemental reagents are added to the cocktail. You gain resistance 5 to acid, cold, electricity, fire, and poison damage.
 
 **Drawback** You take a –1 penalty to AC and a –2 penalty to Reflex saves.

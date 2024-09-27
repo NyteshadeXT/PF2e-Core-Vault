@@ -4,33 +4,40 @@ title: "Enfeeble"
 noteType: pf2eSpell
 cssclasses: pf2e,pf2e-spell
 tags:
+  - pf2eSpell
   - spell/level/1
   - trait/concentrate
   - trait/manipulate
   - trait/common
+  - tradition/arcane
+  - tradition/divine
+  - tradition/occult
+
   - remaster
 aliases: "Compendium.pf2e.spells-srd.Item.J7Y7tl0bbdz7TcCc" 
+license: ORC
 ---
-# Enfeeble  `pf2:2`  
-## Spell 1
-### [[concentrate]][[manipulate]]
-**Traditions** [[arcane]], [[divine]], [[occult]]
-**Range** 30 feet
-**Targets** 1 creature
-**Saving Throw**  fortitude
-**Duration** varies
-* * * 
-You sap the target's strength, depending on its Fortitude save.
+```statblock
+name: "Enfeeble  `pf2:2`"
+level: "Spell 1"
 
-* * *
-
-**Critical Success** The target is unaffected.
-
-**Success** The target is [[Conditions/Enfeebled 1|Enfeebled 1]] until the start of your next turn.
-
-**Failure** The target is [[Conditions/Enfeebled 1|Enfeebled 2]] for 1 minute.
-
-**Critical Failure** The target is [[Conditions/Enfeebled 1|Enfeebled 3]] for 1 minute.
-
-*Source: Pathfinder Player Core*
-*ORC*
+trait_01: [[concentrate]]
+trait_02: [[manipulate]]
+layout: Basic Pathfinder 2e Layout
+columns: 1
+columnWidth: x
+abilities_top:
+  - name: ""
+  - name: "Traditions"
+    desc: "arcane, divine, occult"
+  - name: "Range"
+    desc: "30 feet; **Targets** 1 creature"
+  - name: "Defense"
+    desc: " fortitude"
+  - name: "Duration"
+    desc: "varies"
+abilities_mid:
+  - name: ""
+    desc: "You sap the target's strength, depending on its Fortitude save.\n* * *\n\n**Critical Success** The target is unaffected.\n\n**Success** The target is [[Conditions/Enfeebled|Enfeebled 1]] until the start of your next turn.\n\n**Failure** The target is [[Conditions/Enfeebled|Enfeebled 2]] for 1 minute.\n\n**Critical Failure** The target is [[Conditions/Enfeebled|Enfeebled 3]] for 1 minute."
+sourcebook: "_Pathfinder Player Core_"
+```

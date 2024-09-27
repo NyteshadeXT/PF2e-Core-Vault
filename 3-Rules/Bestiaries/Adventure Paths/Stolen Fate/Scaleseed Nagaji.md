@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.stolen-fate-bestiary.Actor.tVZ7ijV3W1HmMwzz"
 tags:
   - pf2e/creature/type/humanoid
   - pf2e/creature/type/nagaji
+  - pf2eMonster
   - pf2e/creature/level/7
 statblock: inline
 name: "Scaleseed Nagaji"
@@ -21,11 +22,11 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #190: The Choosing"
 name: "Scaleseed Nagaji"
 level: "Creature 7"
-rare_03: "Rare"
+rare_03: [[Rare]]
 alignment: ""
 size: "Medium"
-trait_01: "humanoid"
-trait_02: "nagaji"
+trait_01: [[humanoid]]
+trait_02: [[nagaji]]
 modifier: 15
 perception:
   - name: "Perception"
@@ -65,8 +66,14 @@ attacks:
     desc: "_[[Spells/Plant Growth|Plant Growth]]_, _[[Spells/Reincarnate|Reincarnate]]_"
 
   - name: "Slough Toxins"
-    desc: "`pf2:1`  **Frequency** once per round\n**Requirements** The nagaji is afflicted with a poison\n**Effect** The nagaji accelerates their metabolism. They roll a saving throw against the affliction with a +2 circumstance bonus. If they must attempt an ongoing save against the same poison at the end of their turn, they also get a +2 circumstance bonus to that save."
+    desc: "`pf2:1`  **Frequency** once per round\n\n**Requirements** The nagaji is afflicted with a poison\n* * *\n\n**Effect** The nagaji accelerates their metabolism. They roll a saving throw against the affliction with a +2 circumstance bonus. If they must attempt an ongoing save against the same poison at the end of their turn, they also get a +2 circumstance bonus to that save."
  
+```
+
+```encounter-table
+name: Scaleseed Nagaji
+creatures:
+  - 1: Scaleseed Nagaji
 ```
 
 

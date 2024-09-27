@@ -6,6 +6,7 @@ cssClasses: pf2e
 aliases: "Compendium.pf2e.npc-gallery.Actor.F8AzuPOCcveWasza" 
 tags:
   - pf2e/creature/type/mindless
+  - pf2eMonster
   - pf2e/creature/level/6
 statblock: inline
 name: "Ethereal Sailor"
@@ -23,11 +24,12 @@ level: "Creature 6"
 
 alignment: ""
 size: "Medium"
-trait_01: "mindless"
+trait_01: [[mindless]]
 modifier: 14
 perception:
   - name: "Perception"
     desc: "+14; Darkvision"
+languages: "understands commands"
 skills:
   - name: "Skills"
     desc: "Athletics: +15, Sailing Lore: +15"
@@ -54,6 +56,12 @@ attacks:
   - name: "Force Body"
     desc: "  An ethereal sailor's body is made of force. It can't use attack actions. It can move and use actions necessary to pilot or crew a boat or ship. It can't leave its boat or ship."
  
+```
+
+```encounter-table
+name: Ethereal Sailor
+creatures:
+  - 1: Ethereal Sailor
 ```
 
 

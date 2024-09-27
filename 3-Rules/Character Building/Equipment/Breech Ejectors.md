@@ -11,7 +11,7 @@ license: OGL
 ---
 # Breech Ejectors
 ## Item 3
-### [uncommon](uncommon "Uncommon Rarity Trait")[[consumable]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[consumable]]
 
 **Category** other; 
 **Price** 10 gp; 

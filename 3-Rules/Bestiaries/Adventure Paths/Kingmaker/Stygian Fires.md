@@ -6,6 +6,7 @@ tags:
   - cold
   - magical
   - trap
+  - pf2eHazard
 
 source: Pathfinder Kingmaker
 aliases: "Compendium.pf2e.kingmaker-bestiary.Actor.I8pvGB7SiXQ6SnGn" 
@@ -23,9 +24,9 @@ name: "Stygian Fires"
 level: "Hazard 12"
 
 
-trait_01: "cold"
-trait_02: "magical"
-trait_03: "trap"
+trait_01: [[cold]]
+trait_02: [[magical]]
+trait_03: [[trap]]
 modifier: 25
 sourcebook: "_Pathfinder Kingmaker_"
 perception:
@@ -44,10 +45,16 @@ attacks:
   - name: ""
 
   - name: "Stygian Fire"
-    desc: "`pf2:r` (cold, divine) **Trigger** The doors to area **E3** are opened without someone making blood offerings and lighting the lanterns.\n**Effect** Every creature in area **E2** must attempt a DC 32 Reflex check save.\n**Critical Success** The creature takes no damage.\n**Success** The creature takes 3d10 + 13 cold damage and is [[Conditions/Stupefied 1|Stupefied 1]] for 1 minute.\n**Failure** The creature takes 6d10 + 27 cold damage and is stupefied 1.\n**Critical Failure** The creature takes 6d10 + 27 cold damage, takes 1d10 persistent cold damage, and is [[Conditions/Stupefied 1|Stupefied 2]]."
+    desc: "`pf2:r` (cold, divine) **Trigger** The doors to area **E3** are opened without someone making blood offerings and lighting the lanterns.\n* * *\n\n**Effect** Every creature in area **E2** must attempt a DC 32 Reflex check save.\n* * *\n\n**Critical Success** The creature takes no damage.\n\n**Success** The creature takes 3d10+13 cold damage and is [[Conditions/Stupefied|Stupefied 1]] for 1 minute.\n\n**Failure** The creature takes 6d10+27 cold damage and is stupefied 1.\n\n**Critical Failure** The creature takes 6d10+27 cold damage, takes 1d10 persistent cold damage, and is [[Conditions/Stupefied|Stupefied 2]]."
 
 
   - name: "Reset"
     desc: "The trap resets one minute after the doors to area **E3** are closed."
+```
+
+```encounter-table
+name: Stygian Fires
+creatures:
+  - 1: Stygian Fires
 ```
 

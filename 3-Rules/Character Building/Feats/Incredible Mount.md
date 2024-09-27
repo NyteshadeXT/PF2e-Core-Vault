@@ -6,8 +6,9 @@ tags:
   - trait/archetype
   - trait/common
   - category/class
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.AYBfwGImT28lUdue"
-license: OGL
+license: ORC
 ---
 # Incredible Mount
 ## Feat 8
@@ -21,5 +22,5 @@ license: OGL
 * * *
 Under your care and training, your mount has realized its innate potential. The mount you gained through the Cavalier Dedication feat becomes a nimble or savage animal companion (your choice), gaining additional capabilities determined by the type of companion.
 
-*Source: Pathfinder Advanced Player's Guide*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

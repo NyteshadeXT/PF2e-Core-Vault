@@ -10,6 +10,7 @@ tags:
   - pf2e/creature/type/chaotic
   - pf2e/creature/type/good
   - pf2e/creature/type/holy
+  - pf2eMonster
   - pf2e/creature/level/4
 statblock: inline
 name: "Gancanagh"
@@ -28,16 +29,16 @@ level: "Creature 4"
 
 alignment: ""
 size: "Medium"
-trait_01: "azata"
-trait_02: "celestial"
-trait_03: "chaotic"
-trait_04: "good"
-trait_05: "holy"
+trait_01: [[azata]]
+trait_02: [[celestial]]
+trait_03: [[chaotic]]
+trait_04: [[good]]
+trait_05: [[holy]]
 modifier: 11
 perception:
   - name: "Perception"
     desc: "+11; Darkvision"
-languages: "Diabolic, Draconic, Empyrean"
+languages: "Diabolic, Draconic, Empyrean; tongues"
 skills:
   - name: "Skills"
     desc: "Athletics: +9, Deception: +13, Diplomacy: +13, Performance: +14, Religion: +9, Stealth: +11"
@@ -72,11 +73,17 @@ attacks:
     desc: "DC 23, attack +15; __4th __  _[[Spells/Suggestion|Suggestion]]_; __3rd __  _[[Spells/Heroism|Heroism]]_; __2nd __  _[[Spells/Heal|Heal]]_, _[[Spells/Mirror Image|Mirror Image (At Will)]]_; __1st __  _[[Spells/Charm|Charm (At Will)]]_\n__Constant__  __(5th)__ _[[Spells/Truespeech|Tongues]]_"
 
   - name: "[[Bestiary Ability Glossary/Change Shape|Change Shape]]"
-    desc: "`pf2:1` (concentrate,divine,polymorph) The gancanagh can take on the appearance of any Small or Medium humanoid. This doesn't change their Speed or their attack and damage bonuses with their Strikes, but might change the damage type their Strikes deal (typically to bludgeoning).\n"
+    desc: "`pf2:1` (concentrate,divine,polymorph) The gancanagh can take on the appearance of any Small or Medium humanoid. This doesn't change their Speed or their attack and damage bonuses with their Strikes, but might change the damage type their Strikes deal (typically to bludgeoning).\n\n* * *\n"
 
   - name: "Invigorating Passion"
-    desc: "`pf2:2` (divine,emotion,mental) The gancanagh embraces or kisses a willing creature, infusing that creature with their invigorating passion. The creature gains a +1 status bonus to attack rolls and 10 temporary Hit Points for 10 minutes. After that time, the target becomes [[Conditions/Fatigued|Fatigued]] for 10 minutes unless they succeed at a DC 21 Fortitude check save.\n[[Bestiary Effects/Effect_ Invigorating Passion|Effect: Invigorating Passion]]"
+    desc: "`pf2:2` (divine,emotion,mental) The gancanagh embraces or kisses a willing creature, infusing that creature with their invigorating passion. The creature gains a +1 status bonus to attack rolls and 10 temporary Hit Points for 10 minutes. After that time, the target becomes [[Conditions/Fatigued|Fatigued]] for 10 minutes unless they succeed at a DC 21 Fortitude check save.\n\n[[Bestiary Effects/Effect_ Invigorating Passion|Effect: Invigorating Passion]]"
  
+```
+
+```encounter-table
+name: Gancanagh
+creatures:
+  - 1: Gancanagh
 ```
 
 

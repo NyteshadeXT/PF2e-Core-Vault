@@ -10,6 +10,7 @@ tags:
   - pf2e/creature/type/lawful
   - pf2e/creature/type/unholy
   - pf2e/creature/type/velstrac
+  - pf2eMonster
   - pf2e/creature/level/12
 statblock: inline
 name: "Interlocutor"
@@ -28,11 +29,11 @@ level: "Creature 12"
 
 alignment: ""
 size: "Large"
-trait_01: "evil"
-trait_02: "fiend"
-trait_03: "lawful"
-trait_04: "unholy"
-trait_05: "velstrac"
+trait_01: [[evil]]
+trait_02: [[fiend]]
+trait_03: [[lawful]]
+trait_04: [[unholy]]
+trait_05: [[velstrac]]
 modifier: 24
 perception:
   - name: "Perception"
@@ -40,7 +41,7 @@ perception:
 languages: "Common, Diabolic, Shadowtongue"
 skills:
   - name: "Skills"
-    desc: "Athletics: +25, Crafting: +22 (+24 scuplting flesh), Intimidation: +25, Medicine: +26, Religion: +22, Stealth: +19, Torture Lore: +20"
+    desc: "Athletics: +25, Crafting: +22, Intimidation: +25, Medicine: +26, Religion: +22, Stealth: +19, Torture Lore: +20"
 abilityMods: [7, 3, 5, 2, 6, 5]
 speed: 40 feet
 sourcebook: "_Pathfinder Bestiary 2_"
@@ -57,7 +58,7 @@ abilities_top:
   - name: ""
 
   - name: "Painsight"
-    desc: " (divine) A velstrac automatically knows whether a creature it sees has any of the [[Conditions/Doomed 1|Doomed]], [[Conditions/Dying 1|Dying]], and [[Conditions/Wounded 1|Wounded]] conditions, as well as the value of those conditions."
+    desc: " (divine) A velstrac automatically knows whether a creature it sees has any of the [[Conditions/Doomed|Doomed]], [[Conditions/Dying|Dying]], and [[Conditions/Wounded|Wounded]] conditions, as well as the value of those conditions."
 
 abilities_mid:
   - name: ""
@@ -65,7 +66,7 @@ abilities_mid:
     desc: "`pf2:r`  "
 
   - name: "Glimpse of Stolen Flesh"
-    desc: " (aura,divine,fear,mental,visual) 30 feet. When a creature ends its turn in the aura, it sees pieces of its own body amid the interlocutor's form. The creature must succeed at a DC 29 Will check save or become [[Conditions/Stunned 1|Stunned 1]]."
+    desc: " (aura,divine,fear,mental,visual) 30 feet. When a creature ends its turn in the aura, it sees pieces of its own body amid the interlocutor's form. The creature must succeed at a DC 29 Will check save or become [[Conditions/Stunned|Stunned 1]]."
 
 attacks:
   - name: ""
@@ -77,11 +78,17 @@ attacks:
     desc: "DC 33, attack +23; __7th __ (1 slots) _[[Spells/Interplanar Teleport|Plane Shift (Self only) (To the Universe or Netherworld only)]]_; __5th __ (1 slots) _[[Spells/Breath of Life|Breath of Life]]_; __4th __ (4 slots) _[[Spells/Heal|Heal (x2)]]_, _[[Spells/Restoration|Restoration (x2)]]_\n__Cantrips__  __(6th)__ _[[Spells/Stabilize|Stabilize]]_"
 
   - name: "Focus Gaze"
-    desc: "`pf2:1` (concentrate,divine,fear,mental,visual) The interlocutor stares at a creature they can see within 30 feet. The creature must immediately attempt a Will save against glimpse of stolen flesh. In addition, if the creature was already [[Conditions/Stunned 1|Stunned]], on a failed save, it feels its internal organs twist and writhe, and is [[Conditions/Clumsy 1|Clumsy 2]] for 1 minute.\nAfter attempting this save, the creature is then temporarily immune until the start of the interlocutor's next turn."
+    desc: "`pf2:1` (concentrate,divine,fear,mental,visual) The interlocutor stares at a creature they can see within 30 feet. The creature must immediately attempt a Will save against glimpse of stolen flesh. In addition, if the creature was already [[Conditions/Stunned|Stunned]], on a failed save, it feels its internal organs twist and writhe, and is [[Conditions/Clumsy|Clumsy 2]] for 1 minute.\n\nAfter attempting this save, the creature is then temporarily immune until the start of the interlocutor's next turn."
 
   - name: "Surgical Rend"
-    desc: "`pf2:1`  This functions as the [[Bestiary Ability Glossary/Rend|Rend]] ability, dealing claw damage. In addition, if the target is a living creature with organs and muscle, the interlocutor opens a precise wound. Until the creature is restored to its maximum Hit Points, thus closing the wound, Strikes against the creature deal 1d6 extra precision damage.\n[[Bestiary Effects/Effect_ Surgical Rend|Effect: Surgical Rend]]"
+    desc: "`pf2:1`  This functions as the [[Bestiary Ability Glossary/Rend|Rend]] ability, dealing claw damage. In addition, if the target is a living creature with organs and muscle, the interlocutor opens a precise wound. Until the creature is restored to its maximum Hit Points, thus closing the wound, Strikes against the creature deal 1d6 extra precision damage.\n\n[[Bestiary Effects/Effect_ Surgical Rend|Effect: Surgical Rend]]"
  
+```
+
+```encounter-table
+name: Interlocutor
+creatures:
+  - 1: Interlocutor
 ```
 
 

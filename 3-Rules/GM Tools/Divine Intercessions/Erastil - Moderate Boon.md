@@ -17,7 +17,7 @@ license: OGL
 
 
 
-**Moderate Boon** You share Erastil's sharp eye, allowing you to use a longbow in any situation.
+You share Erastil's sharp eye, allowing you to use a longbow in any situation.
 
 When you attack with a longbow, you can ignore the longbow's volley trait, and longbows have double the normal range increment for you.
 

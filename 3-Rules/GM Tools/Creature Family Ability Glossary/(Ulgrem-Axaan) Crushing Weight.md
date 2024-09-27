@@ -21,7 +21,7 @@ license: OGL
 
 * * *
 
-**Effect** Ulgrem-Axaan's tail clamps down around the creature, dealing 2d4 + 8 bludgeoning damage (DC 25 Fortitude check save).
+**Effect** Ulgrem-Axaan's tail clamps down around the creature, dealing 2d4+8 bludgeoning damage (DC 25 Fortitude check save).
 
 *Source: Pathfinder Lost Omens: Monsters of Myth*
 *OGL*

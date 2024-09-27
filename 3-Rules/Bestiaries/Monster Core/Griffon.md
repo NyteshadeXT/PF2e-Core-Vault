@@ -6,6 +6,7 @@ cssClasses: pf2e
 aliases: "Compendium.pf2e.pathfinder-monster-core.Actor.gWgMg7cARqOe82O6" 
 tags:
   - pf2e/creature/type/animal
+  - pf2eMonster
   - pf2e/creature/level/4
   - remaster
 statblock: inline
@@ -25,7 +26,7 @@ level: "Creature 4"
 
 alignment: ""
 size: "Large"
-trait_01: "animal"
+trait_01: [[animal]]
 modifier: 13
 perception:
   - name: "Perception"
@@ -70,8 +71,14 @@ attacks:
     desc: "`pf2:1`  The griffon Strides and makes a talon Strike at the end of that movement. If the griffon began this action [[Conditions/Hidden|Hidden]], it remains hidden until after the attack."
 
   - name: "Regal Shriek"
-    desc: "`pf2:1` (auditory,emotion,fear,mental) The griffon unleashes a shriek that transitions into a terrifying roar. Each creature in a 60-foot emanation must attempt a DC 20 Will check save. Regardless of the result, creatures are temporarily immune to all griffons' Regal Shrieks for 10 minutes.\n* * *\n\n**Critical Success** The creature is unaffected.\n\n**Success** The creature is [[Conditions/Frightened 1|Frightened 1]].\n\n**Failure** The creature is [[Conditions/Frightened 1|Frightened 2]]. Animals are [[Conditions/Slowed 1|Slowed 1]] for as long as they're frightened.\n\n**Critical Failure** The creature is [[Conditions/Frightened 1|Frightened 3]]. Animals are [[Conditions/Paralyzed|Paralyzed]] as long as they're frightened."
+    desc: "`pf2:1` (auditory,emotion,fear,mental) The griffon unleashes a shriek that transitions into a terrifying roar. Each creature in a @Template[emanation|distance:60] must attempt a DC 20 Will check save. Regardless of the result, creatures are temporarily immune to all griffons' Regal Shrieks for 10 minutes.\n* * *\n\n**Critical Success** The creature is unaffected.\n\n**Success** The creature is [[Conditions/Frightened|Frightened 1]].\n\n**Failure** The creature is [[Conditions/Frightened|Frightened 2]]. Animals are [[Conditions/Slowed|Slowed 1]] for as long as they're frightened.\n\n**Critical Failure** The creature is [[Conditions/Frightened|Frightened 3]]. Animals are [[Conditions/Paralyzed|Paralyzed]] as long as they're frightened."
  
+```
+
+```encounter-table
+name: Griffon
+creatures:
+  - 1: Griffon
 ```
 
 

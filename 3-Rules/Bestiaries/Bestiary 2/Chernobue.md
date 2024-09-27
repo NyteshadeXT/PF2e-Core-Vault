@@ -10,6 +10,7 @@ tags:
   - pf2e/creature/type/fiend
   - pf2e/creature/type/qlippoth
   - pf2e/creature/type/unholy
+  - pf2eMonster
   - pf2e/creature/level/12
 statblock: inline
 name: "Chernobue"
@@ -25,19 +26,19 @@ token: [[modules/pf2e-tokens-bestiaries/portraits/fiendish/chernobue.webp| ]]
 source: "Pathfinder Bestiary 2"
 name: "Chernobue"
 level: "Creature 12"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Large"
-trait_01: "chaotic"
-trait_02: "evil"
-trait_03: "fiend"
-trait_04: "qlippoth"
-trait_05: "unholy"
+trait_01: [[chaotic]]
+trait_02: [[evil]]
+trait_03: [[fiend]]
+trait_04: [[qlippoth]]
+trait_05: [[unholy]]
 modifier: 25
 perception:
   - name: "Perception"
     desc: "+25; Greater Darkvision, Scent (Imprecise) 30 Feet"
-languages: "Chthonian"
+languages: "Chthonian; telepathy 100 feet"
 skills:
   - name: "Skills"
     desc: "Acrobatics: +22, Athletics: +25, Intimidation: +25, Occultism: +22"
@@ -59,13 +60,13 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Aura of Order's Ruin"
-    desc: " (aura,occult) 30 feet. A lawful or good creature that begins its turn in this aura's emanation must attempt a DC 29 Will check save or become [[Conditions/Sickened 1|Sickened 1]] (lawful good creatures instead become [[Conditions/Sickened 1|Sickened 2]])."
+    desc: " (aura,occult) 30 feet. A lawful or good creature that begins its turn in this aura's emanation must attempt a DC 29 Will check save or become [[Conditions/Sickened|Sickened 1]] (lawful good creatures instead become [[Conditions/Sickened|Sickened 2]])."
 
   - name: "Boiled by Light"
     desc: "  A chernobue takes 2d10 fire damage each time it starts its turn in an area of bright light."
 
   - name: "Recall Venom"
-    desc: "`pf2:r`  **Trigger** A creature within 30 feet suffers the effects from stage 2 of rupturing venom\n**Effect** The chernobue calls out telepathically to the semi-alive toxin, causing it to burst out of the target's body and slither through the air to drain back into one of the chernobue's mouths. The poisoned creature takes 7d6 bludgeoning damage (DC 32 Fortitude check save) as the venom exits its body, but is thereafter cured of rupturing venom, and the chernobue regains an equal number of Hit Points."
+    desc: "`pf2:r`  **Trigger** A creature within 30 feet suffers the effects from stage 2 of rupturing venom\n* * *\n\n**Effect** The chernobue calls out telepathically to the semi-alive toxin, causing it to burst out of the target's body and slither through the air to drain back into one of the chernobue's mouths. The poisoned creature takes 7d6 bludgeoning damage (DC 32 Fortitude check save) as the venom exits its body, but is thereafter cured of rupturing venom, and the chernobue regains an equal number of Hit Points."
 
 attacks:
   - name: ""
@@ -80,11 +81,17 @@ attacks:
     desc: "DC 32, attack +22; __7th __  _[[Spells/Interplanar Teleport|Plane Shift (Self only)]]_; __6th __  _[[Spells/Phantasmal Calamity|Phantasmal Calamity]]_, _[[Spells/Phantom Pain|Phantom Pain]]_; __5th __  _[[Spells/Subconscious Suggestion|Subconscious Suggestion]]_; __4th __  _[[Spells/Darkness|Darkness (At will)]]_\n__Cantrips__  __(6th)__ _[[Spells/Daze|Daze]]_, _[[Spells/Detect Magic|Detect Magic]]_\n__Constant__  __(4th)__ _[[Spells/Air Walk|Air Walk]]_"
 
   - name: "Paralyzing Display"
-    desc: "`pf2:2` (concentrate,emotion,fear,incapacitation,mental,occult,visual) The chernobue's eye pulses and its lid peels back to reveal mind-bending awfulness. Creatures in a 30-foot emanation must attempt a DC 32 Will check save, after which they are temporarily immune to further Paralyzing Displays for 1 minute.\n**Critical Success** The creature is unaffected.\n**Success** The creature is [[Conditions/Slowed 1|Slowed 1]] for 1 round.\n**Failure** The creature is [[Conditions/Paralyzed|Paralyzed]] for 1d4 rounds. It can attempt a new save to end the effect at the end of each of its turns.\n**Critical Failure** As failure, but paralyzed for 1 minute."
+    desc: "`pf2:2` (concentrate,emotion,fear,incapacitation,mental,occult,visual) The chernobue's eye pulses and its lid peels back to reveal mind-bending awfulness. Creatures in a @Template[emanation|distance:30] must attempt a DC 32 Will check save, after which they are temporarily immune to further Paralyzing Displays for 1 minute.\n* * *\n\n**Critical Success** The creature is unaffected.\n\n**Success** The creature is [[Conditions/Slowed|Slowed 1]] for 1 round.\n\n**Failure** The creature is [[Conditions/Paralyzed|Paralyzed]] for 1d4 rounds. It can attempt a new save to end the effect at the end of each of its turns.\n\n**Critical Failure** As failure, but paralyzed for 1 minute."
 
   - name: "Rupturing Venom"
-    desc: " (poison) The thick, orange venom injected by a chernobue is semi-alive, and as it seethes in a creature's body, it deals poison damage in addition to bludgeoning damage as it ruptures flesh\n**Saving Throw** DC 32 Fortitude check\n**Maximum Duration** 6 rounds\n**Stage 1** 2d6 poison damage and 2d6 bludgeoning damage (1 round)\n**Stage 2** 2d6 poison damage, 2d6 bludgeoning damage, and [[Conditions/Enfeebled 1|Enfeebled 2]] (1 round)"
+    desc: " (poison) The thick, orange venom injected by a chernobue is semi-alive, and as it seethes in a creature's body, it deals poison damage in addition to bludgeoning damage as it ruptures flesh\n\n**Saving Throw** DC 32 Fortitude check\n\n**Maximum Duration** 6 rounds\n\n**Stage 1** 2d6 poison damage and 2d6 bludgeoning damage (1 round)\n\n**Stage 2** 2d6 poison damage, 2d6 bludgeoning damage, and [[Conditions/Enfeebled|Enfeebled 2]] (1 round)"
  
+```
+
+```encounter-table
+name: Chernobue
+creatures:
+  - 1: Chernobue
 ```
 
 

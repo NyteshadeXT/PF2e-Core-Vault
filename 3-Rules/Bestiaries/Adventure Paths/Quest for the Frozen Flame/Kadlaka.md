@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.quest-for-the-frozen-flame-bestiary.Actor.8kGAwppxApSa
 tags:
   - pf2e/creature/type/beast
   - pf2e/creature/type/lawful
+  - pf2eMonster
   - pf2e/creature/level/4
 statblock: inline
 name: "Kadlaka"
@@ -21,11 +22,11 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #175: Broken Tusk Moon"
 name: "Kadlaka"
 level: "Creature 4"
-rare_03: "Rare"
+rare_03: [[Rare]]
 alignment: ""
 size: "Medium"
-trait_01: "beast"
-trait_02: "lawful"
+trait_01: [[beast]]
+trait_02: [[lawful]]
 modifier: 14
 perception:
   - name: "Perception"
@@ -67,14 +68,20 @@ attacks:
     desc: "DC 20, attack +12; __2nd __  _[[Spells/Animal Messenger|Animal Messenger (Ravens Only)]]_, _[[Spells/Speak with Animals|Speak with Animals]]_; __1st __  _[[Spells/Charm|Charm]]_, _[[Spells/Gentle Landing|Feather Fall]]_, _[[Spells/Gentle Landing|Feather Fall]]_, _[[Spells/Gentle Landing|Feather Fall]]_\n__Constant__  __(2nd)__ _[[Spells/Vanishing Tracks|Pass Without Trace]]_"
 
   - name: "[[Bestiary Ability Glossary/Change Shape|Change Shape]]"
-    desc: "`pf2:1` (concentrate,polymorph,primal) The kadlaka can change their appearance to that of a Medium humanoid. This doesn't change their Speed or their attack and damage modifiers with their Strikes but might change the type of damage their melee Strikes deal (typically to bludgeoning). While in their humanoid shape, the kadlaka can't use Wingbeat. Each kadlaka has a fixed humanoid form-they can't adopt a different appearance each time they use this ability.\n"
+    desc: "`pf2:1` (concentrate,polymorph,primal) The kadlaka can change their appearance to that of a Medium humanoid. This doesn't change their Speed or their attack and damage modifiers with their Strikes but might change the type of damage their melee Strikes deal (typically to bludgeoning). While in their humanoid shape, the kadlaka can't use Wingbeat. Each kadlaka has a fixed humanoid form-they can't adopt a different appearance each time they use this ability.\n\n* * *\n"
 
   - name: "Silent Lightning"
     desc: " (illusion,primal) A kadlaka's movements are practically silent. Against a creature using only hearing to perceive them, they gain a +4 circumstance bonus to their Stealth check. As normal, this benefit also improves the kadlaka's Stealth DC."
 
   - name: "Wingbeat"
-    desc: "`pf2:2` (primal,sonic) The kadlaka beats their wings with a mighty peal of thunder. Creatures in a 15-foot emanation take 5d6 sonic damage (DC 21 Fortitude check). On a failed save, the creature is also pushed 5 feet away from the kadlaka.\nThe kadlaka can't use Wingbeat again for 1d4 rounds."
+    desc: "`pf2:2` (primal,sonic) The kadlaka beats their wings with a mighty peal of thunder. Creatures in a @Template[emanation|distance:15] take 5d6 sonic damage (DC 21 Fortitude check). On a failed save, the creature is also pushed 5 feet away from the kadlaka.\n\nThe kadlaka can't use Wingbeat again for 1d4 rounds."
  
+```
+
+```encounter-table
+name: Kadlaka
+creatures:
+  - 1: Kadlaka
 ```
 
 

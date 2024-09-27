@@ -13,7 +13,7 @@ license: OGL
 ---
 # Force Tiles
 ## Item 13
-### [[catalyst]][[consumable]][[magical]]
+### [[catalyst]][[consumable]][[3-Rules/Rule References/Magical]]
 
 **Category** other; 
 **Price** 525 gp; 

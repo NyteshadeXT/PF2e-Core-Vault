@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.rage-of-elements-bestiary.Actor.RFxLankyC74BEY03"
 tags:
   - pf2e/creature/type/elemental
   - pf2e/creature/type/metal
+  - pf2eMonster
   - pf2e/creature/level/17
   - remaster
 statblock: inline
@@ -22,19 +23,19 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Rage of Elements"
 name: "Capritellix"
 level: "Creature 17"
-rare_03: "Rare"
+rare_03: [[Rare]]
 alignment: ""
 size: "huge"
-trait_01: "elemental"
-trait_02: "metal"
+trait_01: [[elemental]]
+trait_02: [[metal]]
 modifier: 30
 perception:
   - name: "Perception"
     desc: "+30; Darkvision"
-languages: "Talican"
+languages: "Talican; plus one language for each of their mouths; telepathy 100 feet"
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +31, Athletics: +29, Deception: +32, Diplomacy: +32, Intimidation: +32, Performance: +32, Plane of Metal Lore: +30, Society: +30"
+    desc: "Acrobatics: +31, Athletics: +29, Deception: +32, Diplomacy: +32, Intimidation: +32, Performance: +32, Society: +30, Plane of Metal Lore: +30"
 abilityMods: [6, 8, 8, 7, 5, 9]
 speed:  fly 60 feet
 sourcebook: "_Pathfinder Rage of Elements_"
@@ -53,7 +54,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Shift Mood"
-    desc: "`pf2:1`  The capritellix rotates the segments of their face, changing their personality and demeanor. Until they Shift their Mood again, the capritellix gains a +4 status bonus to a certain skill and to their Will DC against that skill, as well as a specific occult innate spell they can cast at will (9th rank, DC 38).\n**Angry** Intimidation, [[Spells/Dominate|Dominate]]\n**Gregarious** Performance, [[Spells/Uncontrollable Dance|Uncontrollable Dance]]\n**Serene** Diplomacy, [[Spells/Suggestion|Suggestion]]\n**Sly** Deception, [[Spells/Warp Mind|Warp Mind]]"
+    desc: "`pf2:1`  The capritellix rotates the segments of their face, changing their personality and demeanor. Until they Shift their Mood again, the capritellix gains a +4 status bonus to a certain skill and to their Will DC against that skill, as well as a specific occult innate spell they can cast at will (9th rank, DC 38).\n\n**Angry** Intimidation, [[Spells/Dominate|Dominate]]\n\n**Gregarious** Performance, [[Spells/Uncontrollable Dance|Uncontrollable Dance]]\n\n**Serene** Diplomacy, [[Spells/Suggestion|Suggestion]]\n\n**Sly** Deception, [[Spells/Warp Mind|Warp Mind]]"
 
 attacks:
   - name: ""
@@ -71,11 +72,17 @@ attacks:
     desc: "  Each of the capritellix's levitating hands is made of a different precious metal. Each time a capritellix makes a metal hand Strike, they choose whether the hand they use is adamantine, cold iron, dawnsilver, orichalcum, silver, or any other solid precious metal."
 
   - name: "Whirling Hands"
-    desc: "  **Trigger** A creature starts its turn in the capritellix's melee reach\n**Effect** The capritellix makes a metal hand Strike against the creature."
+    desc: "  **Trigger** A creature starts its turn in the capritellix's melee reach\n* * *\n\n**Effect** The capritellix makes a metal hand Strike against the creature."
 
   - name: "[[Bestiary Ability Glossary/Push|Push 20 feet]]"
     desc: "`pf2:1`  "
  
+```
+
+```encounter-table
+name: Capritellix
+creatures:
+  - 1: Capritellix
 ```
 
 

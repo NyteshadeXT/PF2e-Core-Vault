@@ -10,7 +10,7 @@ license: OGL
 ---
 # Deathdrinking
 ## Item 7
-### [rare](rare "Rare Rarity Trait")[[magical]]
+### [rare](rare.md "Rare Rarity Trait")[[3-Rules/Rule References/Magical]]
 
 
 **Price** 360 gp; 

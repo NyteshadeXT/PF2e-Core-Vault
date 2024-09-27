@@ -6,6 +6,7 @@ cssClasses: pf2e
 aliases: "Compendium.pf2e.fists-of-the-ruby-phoenix-bestiary.Actor.L2OWZ5Afvnmaif83" 
 tags:
   - pf2e/creature/type/dragon
+  - pf2eMonster
   - pf2e/creature/level/16
 statblock: inline
 name: "Tamikan"
@@ -20,10 +21,10 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #166: Despair on Danger Island"
 name: "Tamikan"
 level: "Creature 16"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Large"
-trait_01: "dragon"
+trait_01: [[dragon]]
 modifier: 23
 perception:
   - name: "Perception"
@@ -74,14 +75,20 @@ attacks:
     desc: "`pf2:2`  The kongamato Flies up to their fly Speed and makes two wing Strikes at any point during that movement. Each Strike must target a different creature."
 
   - name: "Sonic Screech"
-    desc: "`pf2:2` (arcane,sonic) Tamikan unleashes a powerful and deadly blast of sonic force from her maw that deals 12d6 sonic damage in a 100-foot line (DC 37 Reflex check save). She can't use Sonic Screech again for 1d4 rounds."
+    desc: "`pf2:2` (arcane,sonic) Tamikan unleashes a powerful and deadly blast of sonic force from her maw that deals 12d6 sonic damage in a @Template[line|distance:100] (DC 37 Reflex check save). She can't use Sonic Screech again for 1d4 rounds."
 
   - name: "Wailing Dive"
-    desc: "`pf2:2`  The kongamato Flies while emitting a terrifying screech. Each creature the kongamato flies over must succeed at a DC 37 Will check save or become [[Conditions/Frightened 1|Frightened 1]] ([[Conditions/Frightened 1|Frightened 2]] on a critical failure).\nAfter attempting their saves, the creatures are temporarily immune for 1 hour. At the end of their movement, the kongamato can make a beak Strike."
+    desc: "`pf2:2`  The kongamato Flies while emitting a terrifying screech. Each creature the kongamato flies over must succeed at a DC 37 Will check save or become [[Conditions/Frightened|Frightened 1]] ([[Conditions/Frightened|Frightened 2]] on a critical failure).\n\nAfter attempting their saves, the creatures are temporarily immune for 1 hour. At the end of their movement, the kongamato can make a beak Strike."
 
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
     desc: "`pf2:1`  "
  
+```
+
+```encounter-table
+name: Tamikan
+creatures:
+  - 1: Tamikan
 ```
 
 

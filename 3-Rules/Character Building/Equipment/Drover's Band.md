@@ -12,7 +12,7 @@ license: OGL
 ---
 # Drover's Band
 ## Item 7
-### [rare](rare "Rare Rarity Trait")[[incapacitation]][[invested]][[magical]]
+### [rare](rare.md "Rare Rarity Trait")[[3-Rules/Rule References/Incapacitation]][[invested]][[3-Rules/Rule References/Magical]]
 
 
 **Price** 675 gp; 
@@ -35,7 +35,7 @@ This black leather wrist guard has a bright red gem on the inside of the wrist. 
 
 **Critical Success** The target creature is unaffected.
 
-**Success** The target creature is [[Conditions/Slowed 1|Slowed 1]] for 1 round as its responses are muddled by your commands.
+**Success** The target creature is [[Conditions/Slowed|Slowed 1]] for 1 round as its responses are muddled by your commands.
 
 **Failure** The creature is [[Conditions/Controlled|Controlled]] by you for 1 hour, although it doesn't follow commands that are obviously self-destructive.
 

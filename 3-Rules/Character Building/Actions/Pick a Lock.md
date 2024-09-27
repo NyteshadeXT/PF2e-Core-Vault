@@ -13,7 +13,7 @@ license: ORC
 ---
 # Pick a Lock `pf2:2`
 
-### [[manipulate]][[skill]]
+### [[3-Rules/Rule References/Manipulate]][[skill]]
 
 **Category** interaction; 
 

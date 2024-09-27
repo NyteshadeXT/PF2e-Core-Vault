@@ -11,7 +11,7 @@ license: OGL
 ---
 # Codex of Destruction and Renewal
 ## Item 20
-### [rare](rare "Rare Rarity Trait")[[grimoire]][[magical]]
+### [rare](rare.md "Rare Rarity Trait")[[grimoire]][[3-Rules/Rule References/Magical]]
 
 
 **Price** 70000 gp; 

@@ -3,6 +3,7 @@ title: Spiky Pit Trap
 obsidianUIMode: preview
 noteType: pf2eHazard
 tags:
+  - pf2eHazard
 
 source: Pathfinder Adventure: Rusthenge
 aliases: "Compendium.pf2e.rusthenge-bestiary.Actor.Tvz5JKAE8rrCF5qW" 
@@ -38,12 +39,18 @@ attacks:
   - name: ""
 
   - name: "Pitfall"
-    desc: "`pf2:r` **Trigger** A creature or other large weight (such as the rushing waters of the previous trap) moves onto the gravel-covered hide\n**Effect** The triggering creature or object falls in and takes falling damage (10 bludgeoning damage) and is targeted by a spike's Strike. A falling creature can attempt to [[Actions/Grab an Edge|Grab an Edge]] with a DC 20 Reflex check save (this becomes a DC 22 Reflex check save if rushing waters are pouring into the pit)."
+    desc: "`pf2:r` **Trigger** A creature or other large weight (such as the rushing waters of the previous trap) moves onto the gravel-covered hide\n* * *\n\n**Effect** The triggering creature or object falls in and takes falling damage (10 bludgeoning damage) and is targeted by a spike's Strike. A falling creature can attempt to [[Actions/Grab an Edge|Grab an Edge]] with a DC 20 Reflex check save (this becomes a DC 22 Reflex check save if rushing waters are pouring into the pit)."
   - name: "Melee"
     desc: "Spike +14 () "
 
 
   - name: "Reset"
     desc: "Creatures can still fall into the trap, but the hide that covers it must be reset manually (a 10-minute activity) for the trap to become [[Conditions/Hidden|Hidden]] again."
+```
+
+```encounter-table
+name: Spiky Pit Trap
+creatures:
+  - 1: Spiky Pit Trap
 ```
 

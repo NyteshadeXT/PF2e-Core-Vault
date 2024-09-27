@@ -8,7 +8,7 @@ tags:
 ---
 # To your thinky Bits
 
-> **Crit Effect:** The target is [[Conditions/Stupefied 1|Stupefied 2]] until healed.
+> **Crit Effect:** The target is [[Conditions/Stupefied|Stupefied 2]] until healed.
 
 `Bludgeoning`
 

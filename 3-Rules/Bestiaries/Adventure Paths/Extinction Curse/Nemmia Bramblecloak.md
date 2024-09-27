@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/halfling
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/3
 statblock: inline
 name: "Nemmia Bramblecloak"
@@ -22,20 +23,20 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #151: The Show Must Go On"
 name: "Nemmia Bramblecloak"
 level: "Creature 3"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Small"
-trait_01: "evil"
-trait_02: "halfling"
-trait_03: "humanoid"
+trait_01: [[evil]]
+trait_02: [[halfling]]
+trait_03: [[humanoid]]
 modifier: 9
 perception:
   - name: "Perception"
     desc: "+9; "
-languages: "Chthonian, Common, Halfling, Wildsong"
+languages: "Chthonian, Common, Halfling, Wildsong; speak with animals"
 skills:
   - name: "Skills"
-    desc: "Diplomacy: +8, Gozreh Lore: +6, Nature: +11, Religion: +9, Stealth: +8, Survival: +11"
+    desc: "Diplomacy: +8, Nature: +11, Religion: +9, Stealth: +8, Survival: +11, Gozreh Lore: +6"
 abilityMods: [-1, 3, 1, 1, 4, 1]
 speed: 20 feet
 sourcebook: "_Pathfinder #151: The Show Must Go On_"
@@ -81,6 +82,12 @@ attacks:
   - name: "Wildwood Halfling"
     desc: "  Nemmia ignores difficult terrain from trees, foliage, and undergrowth."
  
+```
+
+```encounter-table
+name: Nemmia Bramblecloak
+creatures:
+  - 1: Nemmia Bramblecloak
 ```
 
 

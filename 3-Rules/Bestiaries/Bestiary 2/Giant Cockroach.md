@@ -6,6 +6,7 @@ cssClasses: pf2e
 aliases: "Compendium.pf2e.pathfinder-bestiary-2.Actor.RqABskvexmp5sT7X" 
 tags:
   - pf2e/creature/type/animal
+  - pf2eMonster
   - pf2e/creature/level/1
 statblock: inline
 name: "Giant Cockroach"
@@ -24,11 +25,12 @@ level: "Creature 1"
 
 alignment: ""
 size: "Small"
-trait_01: "animal"
+trait_01: [[animal]]
 modifier: 6
 perception:
   - name: "Perception"
     desc: "+6; Darkvision, Scent (Imprecise) 60 Feet"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Acrobatics: +6, Stealth: +8"
@@ -50,7 +52,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Scurry"
-    desc: "`pf2:r`  **Trigger** The giant cockroach is targeted by a melee attack\n**Effect** The giant cockroach gains a +2 circumstance bonus to AC against the triggering attack. After the attack resolves, the cockroach Strides, Climbs, or Flies up to 10 feet."
+    desc: "`pf2:r`  **Trigger** The giant cockroach is targeted by a melee attack\n* * *\n\n**Effect** The giant cockroach gains a +2 circumstance bonus to AC against the triggering attack. After the attack resolves, the cockroach Strides, Climbs, or Flies up to 10 feet."
 
 attacks:
   - name: ""
@@ -58,6 +60,12 @@ attacks:
   - name: "Melee"
     desc: "`pf2:1` Mandibles +8 (agile, finesse)\n__Damage__  1d6 + 1 piercing"
  
+```
+
+```encounter-table
+name: Giant Cockroach
+creatures:
+  - 1: Giant Cockroach
 ```
 
 

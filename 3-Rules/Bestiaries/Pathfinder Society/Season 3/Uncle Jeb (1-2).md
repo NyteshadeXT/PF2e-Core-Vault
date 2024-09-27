@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/human
   - pf2e/creature/type/humanoid
   - pf2e/creature/type/lawful
+  - pf2eMonster
   - pf2e/creature/level/1
 statblock: inline
 name: "Uncle Jeb (1-2)"
@@ -23,13 +24,13 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Society Scenario #3-05: Inheritor&#x27;s Rite"
 name: "Uncle Jeb (1-2)"
 level: "Creature 1"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Medium"
-trait_01: "evil"
-trait_02: "human"
-trait_03: "humanoid"
-trait_04: "lawful"
+trait_01: [[evil]]
+trait_02: [[human]]
+trait_03: [[humanoid]]
+trait_04: [[lawful]]
 modifier: 7
 perception:
   - name: "Perception"
@@ -71,6 +72,12 @@ attacks:
   - name: "Cleric Domain Spells"
     desc: "1 Focus Point, DC 17, attack +9; __1st __  _[[Spells/Sudden Shift|Sudden Shift]]_"
  
+```
+
+```encounter-table
+name: Uncle Jeb (1-2)
+creatures:
+  - 1: Uncle Jeb (1-2)
 ```
 
 

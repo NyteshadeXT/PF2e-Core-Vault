@@ -13,7 +13,7 @@ license: ORC
 ---
 # Grab an Edge `pf2:r`
 
-### [[general]][[manipulate]]
+### [[general]][[3-Rules/Rule References/Manipulate]]
 
 **Category** interaction; 
 

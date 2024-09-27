@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/good
   - pf2e/creature/type/humanoid
   - pf2e/creature/type/shabti
+  - pf2eMonster
   - pf2e/creature/level/4
 statblock: inline
 name: "Shabti Redeemer"
@@ -23,12 +24,12 @@ token: [[modules/pf2e-tokens-bestiaries/portraits/humanoid/shabti-redeemer.webp|
 source: "Pathfinder Bestiary 3"
 name: "Shabti Redeemer"
 level: "Creature 4"
-rare_03: "Rare"
+rare_03: [[Rare]]
 alignment: ""
 size: "Medium"
-trait_01: "good"
-trait_02: "humanoid"
-trait_03: "shabti"
+trait_01: [[good]]
+trait_02: [[humanoid]]
+trait_03: [[shabti]]
 modifier: 8
 perception:
   - name: "Perception"
@@ -59,10 +60,10 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Aura of Courage"
-    desc: "  15 feet. When the shabti becomes [[Conditions/Frightened 1|Frightened]], reduce the frightened value they would gain by 1. At the end of their turn, they reduce the frightened value of all allies in the aura by 1."
+    desc: "  15 feet. When the shabti becomes [[Conditions/Frightened|Frightened]], reduce the frightened value they would gain by 1. At the end of their turn, they reduce the frightened value of all allies in the aura by 1."
 
   - name: "Glimpse of Redemption"
-    desc: "`pf2:r`  **Trigger** An enemy damages the shabti's ally, and both the enemy and ally are within 15 feet of the shabti\n**Effect** The shabti's foe hesitates under the weight of sin as visions of redemption play in their mind's eye. The foe must choose one of the following options:\n*   The ally is unharmed by the triggering damage.\n*   The ally gains resistance 6 to the triggering damage. After the damaging effect is applied, the enemy becomes [[Conditions/Enfeebled 1|Enfeebled 2]] until the end of its next turn."
+    desc: "`pf2:r`  **Trigger** An enemy damages the shabti's ally, and both the enemy and ally are within 15 feet of the shabti\n* * *\n\n**Effect** The shabti's foe hesitates under the weight of sin as visions of redemption play in their mind's eye. The foe must choose one of the following options:\n\n*   The ally is unharmed by the triggering damage.\n*   The ally gains resistance 6 to the triggering damage. After the damaging effect is applied, the enemy becomes [[Conditions/Enfeebled|Enfeebled 2]] until the end of its next turn."
 
   - name: "Immortal"
     desc: "  Shabti don't age naturally and can't die of old age. Spells and effects that cause aging still affect a shabti as normal. They also can't be turned into undead."
@@ -85,6 +86,12 @@ attacks:
   - name: "Champion Devotion Spells"
     desc: "2 Focus Points, DC 19, attack +11; __2nd __  _[[Spells/Lay on Hands|Lay on Hands]]_"
  
+```
+
+```encounter-table
+name: Shabti Redeemer
+creatures:
+  - 1: Shabti Redeemer
 ```
 
 

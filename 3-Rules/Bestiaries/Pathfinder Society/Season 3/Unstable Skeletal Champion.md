@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/skeleton
   - pf2e/creature/type/undead
   - pf2e/creature/type/unholy
+  - pf2eMonster
   - pf2e/creature/level/2
 statblock: inline
 name: "Unstable Skeletal Champion"
@@ -23,13 +24,13 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Society Scenario #3-10: Delve the Pallid Depths"
 name: "Unstable Skeletal Champion"
 level: "Creature 2"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Medium"
-trait_01: "evil"
-trait_02: "skeleton"
-trait_03: "undead"
-trait_04: "unholy"
+trait_01: [[evil]]
+trait_02: [[skeleton]]
+trait_03: [[undead]]
+trait_04: [[unholy]]
 modifier: 8
 perception:
   - name: "Perception"
@@ -60,7 +61,7 @@ abilities_mid:
     desc: "`pf2:r`  "
 
   - name: "[[Creature Family Ability Glossary/(Skeleton) Explosive Death|Explosive Death]]"
-    desc: "  When the skeleton is destroyed, its bones shatter and explode as the necromantic energy holding it together is released.\nAdjacent creatures take 1d6 slashing damage with a DC 15 Reflex check save."
+    desc: "  When the skeleton is destroyed, its bones shatter and explode as the necromantic energy holding it together is released.\n\nAdjacent creatures take 1d6 slashing damage with a DC 15 Reflex check save."
 
   - name: "[[Bestiary Ability Glossary/Shield Block|Shield Block]]"
     desc: "`pf2:r`  "
@@ -77,6 +78,12 @@ attacks:
   - name: "Melee"
     desc: "`pf2:1` Lance +10 (deadly d8, jousting d6, reach 10 feet)\n__Damage__  1d8 + 4 piercing"
  
+```
+
+```encounter-table
+name: Unstable Skeletal Champion
+creatures:
+  - 1: Unstable Skeletal Champion
 ```
 
 

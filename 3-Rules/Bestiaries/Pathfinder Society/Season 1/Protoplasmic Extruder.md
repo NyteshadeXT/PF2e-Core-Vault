@@ -6,6 +6,7 @@ tags:
   - magical
   - mechanical
   - trap
+  - pf2eHazard
   - complex
 source: Pathfinder Society Scenario #1-00: Origin of the Open Road
 aliases: "Compendium.pf2e.pfs-season-1-bestiary.Actor.ZX2dP4rP01qaCJh4" 
@@ -23,15 +24,15 @@ name: "Protoplasmic Extruder"
 level: "Hazard 5"
 
 trait_06: "Complex"
-trait_01: "magical"
-trait_02: "mechanical"
-trait_03: "trap"
+trait_01: [[magical]]
+trait_02: [[mechanical]]
+trait_03: [[trap]]
 modifier: 0
 sourcebook: "_Pathfinder Society Scenario #1-00: Origin of the Open Road_"
 ac: 21
 armorclass:
   - name: AC
-    desc: "21; __Fort__ +10, __Ref__ +12, __Will__ +0"
+    desc: "21; __Fort__ +10, __Ref__ +12, "
 hp: 48
 health:
   - name: ""
@@ -53,11 +54,17 @@ attacks:
   - name: ""
 
   - name: "Creator's Command"
-    desc: "`pf2:r` **Trigger** Bijan or Zaynap Ohrlavi can speak and rolls initiative when within 60 feet of the protoplasmic extruder.\n**Effect** The protoplasmic extruder begins chugging more loudly and rolls initiative."
+    desc: "`pf2:r` **Trigger** Bijan or Zaynap Ohrlavi can speak and rolls initiative when within 60 feet of the protoplasmic extruder.\n* * *\n\n**Effect** The protoplasmic extruder begins chugging more loudly and rolls initiative."
 
   - name: "Routine"
-    desc: "(1 action) On its initiative, the trap creates an ooze in an adjacent unoccupied space. The first time the _protoplasmic extruder_ uses this action, it creates a [[Bestiary 1/Gelatinous Cube|Gelatinous Cube]] that acts immediately and thereafter acts on the _protoplasmic extruder's_ initiative. In following rounds, the _protoplasmic extruder_ instead creates [[Bestiary 1/Sewer Ooze|Sewer Oozes]] that act in the same manner.\nOozes created by the protoplasmic extruder are a nacreous green color; a gelatinous cube loses its transparent ability. All oozes created by the _protoplasmic extruder_ are loyal to the Ohrlavis and act as they command.\nThe _protoplasmic extruder_ can create no more than four oozes in total before it deactivates and resets."
+    desc: "(1 action) On its initiative, the trap creates an ooze in an adjacent unoccupied space. The first time the _protoplasmic extruder_ uses this action, it creates a [[Bestiary 1/Gelatinous Cube|Gelatinous Cube]] that acts immediately and thereafter acts on the _protoplasmic extruder's_ initiative. In following rounds, the _protoplasmic extruder_ instead creates [[Bestiary 1/Sewer Ooze|Sewer Oozes]] that act in the same manner.\n\nOozes created by the protoplasmic extruder are a nacreous green color; a gelatinous cube loses its transparent ability. All oozes created by the _protoplasmic extruder_ are loyal to the Ohrlavis and act as they command.\n\nThe _protoplasmic extruder_ can create no more than four oozes in total before it deactivates and resets."
   - name: "Reset"
     desc: "The _protoplasmic extruder_ must gather reagents from the arcane slurry of the sewers for 24 hours before it can be reactivated."
+```
+
+```encounter-table
+name: Protoplasmic Extruder
+creatures:
+  - 1: Protoplasmic Extruder
 ```
 

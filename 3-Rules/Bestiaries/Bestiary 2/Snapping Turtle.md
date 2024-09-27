@@ -6,6 +6,7 @@ cssClasses: pf2e
 aliases: "Compendium.pf2e.pathfinder-bestiary-2.Actor.UcUlBj3brC80A8gq" 
 tags:
   - pf2e/creature/type/animal
+  - pf2eMonster
   - pf2e/creature/level/-1
 statblock: inline
 name: "Snapping Turtle"
@@ -24,14 +25,15 @@ level: "Creature -1"
 
 alignment: ""
 size: "tiny"
-trait_01: "animal"
+trait_01: [[animal]]
 modifier: 3
 perception:
   - name: "Perception"
     desc: "+3; Low-Light Vision, Scent (Imprecise) 30 Feet"
+languages: ""
 skills:
   - name: "Skills"
-    desc: "Athletics: +5, Stealth: +3 (+5 in Water)"
+    desc: "Athletics: +5, Stealth: +3"
 abilityMods: [1, -1, 4, -4, 1, -2]
 speed: 10 feet,  swim 20 feet
 sourcebook: "_Pathfinder Bestiary 2_"
@@ -59,11 +61,17 @@ attacks:
     desc: "`pf2:1` Jaws +6 ()\n__Damage__  1d4 + 2 piercing"
 
   - name: "Clench Jaws"
-    desc: "`pf2:1`  **Requirements** The snapping turtle damaged a creature with a jaws Strike in its previous action\n**Effect** The snapping turtle clenches its jaws down and automatically deals an additional 1d4 bludgeoning damage to the creature it just bit."
+    desc: "`pf2:1`  **Requirements** The snapping turtle damaged a creature with a jaws Strike in its previous action\n* * *\n\n**Effect** The snapping turtle clenches its jaws down and automatically deals an additional 1d4 bludgeoning damage to the creature it just bit."
 
   - name: "Shell Defense"
     desc: "`pf2:1`  The snapping turtle retracts its limbs and head into its shell and ends its turn. This increases its AC to 18, but it can't act except to reemerge, which it can do as a single action."
  
+```
+
+```encounter-table
+name: Snapping Turtle
+creatures:
+  - 1: Snapping Turtle
 ```
 
 

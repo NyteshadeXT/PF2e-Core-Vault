@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/humanoid
   - pf2e/creature/type/kobold
   - pf2e/creature/type/lawful
+  - pf2eMonster
   - pf2e/creature/level/5
 statblock: inline
 name: "Trapmaster Tok (3-4)"
@@ -23,13 +24,13 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Society Scenario #5-07: Sewer Dragon Crisis"
 name: "Trapmaster Tok (3-4)"
 level: "Creature 5"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Small"
-trait_01: "evil"
-trait_02: "humanoid"
-trait_03: "kobold"
-trait_04: "lawful"
+trait_01: [[evil]]
+trait_02: [[humanoid]]
+trait_03: [[kobold]]
+trait_04: [[lawful]]
 modifier: 12
 perception:
   - name: "Perception"
@@ -37,7 +38,7 @@ perception:
 languages: "Common, Draconic, Dwarven, Goblin"
 skills:
   - name: "Skills"
-    desc: "Absalom Lore: +13, Acrobatics: +12, Crafting: +13 (+14 traps), Occultism: +13, Stealth: +12, Thievery: +12"
+    desc: "Acrobatics: +12, Crafting: +13, Occultism: +13, Stealth: +12, Thievery: +12, Absalom Lore: +13"
 abilityMods: [1, 4, 2, 4, -1, 0]
 speed: 25 feet
 sourcebook: "_Pathfinder Society Scenario #5-07: Sewer Dragon Crisis_"
@@ -68,24 +69,30 @@ attacks:
   - name: "Ranged"
     desc: "`pf2:1` Dagger +15 (agile, thrown 10 ft., versatile s)\n__Damage__  2d4 + 3 piercing"
 
-  - name: "Ranged"
+  - name: "Melee"
     desc: "`pf2:1` Acid Flask (Moderate) +15 (bomb, consumable, infused, splash)\n__Damage__  2d6 acid 2 acid 1 acid"
 
-  - name: "Ranged"
+  - name: "Melee"
     desc: "`pf2:1` Alchemist&#x27;s Fire (Moderate) +15 (bomb, consumable, infused, splash)\n__Damage__  2 fire 2d8 fire 2 fire"
 
-  - name: "Ranged"
+  - name: "Melee"
     desc: "`pf2:1` Vexing Vapor (Moderate) +15 (bomb, consumable, infused, inhaled, splash)\n__Damage__  2 mental 2d6 mental"
 
   - name: "Hurried Retreat"
-    desc: "`pf2:1`  **Requirements** Tok is adjacent to at least one enemy\n**Effect** He Strides up to his speed plus 5 feet and gains a +2 circumstance bonus to AC against reactions triggered by this movement. He must end this movement in a space that's not adjacent to any enemy."
+    desc: "`pf2:1`  **Requirements** Tok is adjacent to at least one enemy\n* * *\n\n**Effect** He Strides up to his speed plus 5 feet and gains a +2 circumstance bonus to AC against reactions triggered by this movement. He must end this movement in a space that's not adjacent to any enemy."
 
   - name: "Quick Bomber"
     desc: "`pf2:1`  Interact to draw and Strike to throw a bomb"
 
   - name: "Quicktrap"
-    desc: "`pf2:3`  **Requirements** Tok is adjacent to an empty space, is not adjacent to an enemy, and did not take this action in the previous round\n**Effect** Tok quickly rigs a new [[Season 5/Tok's Trap (3-4)|Trap]] in the empty space."
+    desc: "`pf2:3`  **Requirements** Tok is adjacent to an empty space, is not adjacent to an enemy, and did not take this action in the previous round\n* * *\n\n**Effect** Tok quickly rigs a new [[Season 5/Tok's Trap (3-4)|Trap]] in the empty space."
  
+```
+
+```encounter-table
+name: Trapmaster Tok (3-4)
+creatures:
+  - 1: Trapmaster Tok (3-4)
 ```
 
 

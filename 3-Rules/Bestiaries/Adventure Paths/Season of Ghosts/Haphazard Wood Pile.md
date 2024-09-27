@@ -5,6 +5,7 @@ noteType: pf2eHazard
 tags:
   - mechanical
   - trap
+  - pf2eHazard
 
 source: Pathfinder #196: The Summer That Never Was
 aliases: "Compendium.pf2e.season-of-ghosts-bestiary.Actor.6SJPAIVZIiCjh4lZ" 
@@ -22,8 +23,8 @@ name: "Haphazard Wood Pile"
 level: "Hazard 1"
 
 
-trait_01: "mechanical"
-trait_02: "trap"
+trait_01: [[mechanical]]
+trait_02: [[trap]]
 modifier: 7
 sourcebook: "_Pathfinder #196: The Summer That Never Was_"
 perception:
@@ -42,12 +43,18 @@ attacks:
   - name: ""
 
   - name: "Collapse Inward"
-    desc: "`pf2:r` **Trigger** Any of the four revelers within the hazard perform any action with the Move trait\n**Effect** The pile collapses onto the four revelers, dealing 1d6 + 5 bludgeoning damage (DC 17 Reflex check save) to each of them. All four also take 1d6 persistent bludgeoning damage until they're pulled from the rubble with a DC 17 Athletics check check or can [[Actions/Escape|Escape]] (DC 17)."
+    desc: "`pf2:r` **Trigger** Any of the four revelers within the hazard perform any action with the Move trait\n* * *\n\n**Effect** The pile collapses onto the four revelers, dealing 1d6+5 bludgeoning damage (DC 17 Reflex check save) to each of them. All four also take 1d6 persistent bludgeoning damage until they're pulled from the rubble with a DC 17 Athletics check check or can [[Actions/Escape|Escape]] (DC 17)."
 
   - name: "Collapse Outward"
-    desc: "`pf2:r` **Trigger** An attempt to disable the hazard from outside critically fails, or the hazard is intentionally triggered by someone from outside of the wood pile\n**Effect** The pile collapses outward, inflicting 1d6 + 5 bludgeoning damage to the four revelers (DC 15 Reflex check save), and 2d6 + 5 bludgeoning damage (DC 17 Reflex check save) to all creatures in a 10-foot area surrounding the central 10-foot-square where the revelers were trapped."
+    desc: "`pf2:r` **Trigger** An attempt to disable the hazard from outside critically fails, or the hazard is intentionally triggered by someone from outside of the wood pile\n* * *\n\n**Effect** The pile collapses outward, inflicting 1d6+5 bludgeoning damage to the four revelers (DC 15 Reflex check save), and 2d6+5 bludgeoning damage (DC 17 Reflex check save) to all creatures in a 10-foot area surrounding the central 10-foot-square where the revelers were trapped."
 
 
 
+```
+
+```encounter-table
+name: Haphazard Wood Pile
+creatures:
+  - 1: Haphazard Wood Pile
 ```
 

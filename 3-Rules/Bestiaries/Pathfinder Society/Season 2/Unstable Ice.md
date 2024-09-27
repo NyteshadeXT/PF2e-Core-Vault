@@ -5,6 +5,7 @@ noteType: pf2eHazard
 tags:
   - environmental
   - trap
+  - pf2eHazard
 
 source: Pathfinder Bounty #1: The Whitefang Wyrm
 aliases: "Compendium.pf2e.pfs-season-2-bestiary.Actor.NFKQObG0b0lVsvgS" 
@@ -22,8 +23,8 @@ name: "Unstable Ice"
 level: "Hazard 0"
 
 
-trait_01: "environmental"
-trait_02: "trap"
+trait_01: [[environmental]]
+trait_02: [[trap]]
 modifier: 5
 sourcebook: "_Pathfinder Bounty #1: The Whitefang Wyrm_"
 perception:
@@ -42,9 +43,15 @@ attacks:
   - name: ""
 
   - name: "Drift"
-    desc: "`pf2:r` **Trigger** A creature steps onto the unstable ice\n**Effect** The weight and momentum of the creatures causes the fractured ice to shatter and separate, leaving them stranded on a floating iceberg."
+    desc: "`pf2:r` **Trigger** A creature steps onto the unstable ice\n* * *\n\n**Effect** The weight and momentum of the creatures causes the fractured ice to shatter and separate, leaving them stranded on a floating iceberg."
 
 
 
+```
+
+```encounter-table
+name: Unstable Ice
+creatures:
+  - 1: Unstable Ice
 ```
 

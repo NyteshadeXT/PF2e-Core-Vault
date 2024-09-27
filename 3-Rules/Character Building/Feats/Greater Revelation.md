@@ -6,8 +6,9 @@ tags:
   - trait/oracle
   - trait/common
   - category/class
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.HSW3N9pfHhM7upRB"
-license: OGL
+license: ORC
 ---
 # Greater Revelation
 ## Feat 12
@@ -19,9 +20,7 @@ license: OGL
 
 **Prerequisites** initial revelation spell
 * * *
-You learn a greater revelation spell associated with your mystery.
+You unlock deeper revelations hidden within your mystery. You gain your mystery's greater revelation spell
 
-Increase the number of Focus Points in your focus pool by 1.
-
-*Source: Pathfinder Advanced Player's Guide*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

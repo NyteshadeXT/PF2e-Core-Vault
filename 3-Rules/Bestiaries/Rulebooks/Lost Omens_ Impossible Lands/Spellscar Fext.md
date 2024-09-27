@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/undead
   - pf2e/creature/type/unholy
+  - pf2eMonster
   - pf2e/creature/level/7
 statblock: inline
 name: "Spellscar Fext"
@@ -23,13 +24,13 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Lost Omens: Impossible Lands"
 name: "Spellscar Fext"
 level: "Creature 7"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Medium"
-trait_01: "chaotic"
-trait_02: "evil"
-trait_03: "undead"
-trait_04: "unholy"
+trait_01: [[chaotic]]
+trait_02: [[evil]]
+trait_03: [[undead]]
+trait_04: [[unholy]]
 modifier: 15
 perception:
   - name: "Perception"
@@ -56,7 +57,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Unstable Feedback"
-    desc: "`pf2:r`  **Trigger** A creature Casts a Spell on the spellscar fext, and the spellscar fext either succeeds at its saving throw versus the spell or the caster fails the spell attack roll against the spellscar fext\n**Effect** The caster of the triggering spell undergoes a [[Rollable Tables/Wellspring Surges|Wellspring Surge]]. Even if several spellscar fexts use this reaction after succeeding at a save against the same spell, the spellcaster undergoes only one wellspring surge."
+    desc: "`pf2:r`  **Trigger** A creature Casts a Spell on the spellscar fext, and the spellscar fext either succeeds at its saving throw versus the spell or the caster fails the spell attack roll against the spellscar fext\n* * *\n\n**Effect** The caster of the triggering spell undergoes a [[Rollable Tables/Wellspring Surges|Wellspring Surge]]. Even if several spellscar fexts use this reaction after succeeding at a save against the same spell, the spellcaster undergoes only one wellspring surge."
 
 attacks:
   - name: ""
@@ -65,8 +66,14 @@ attacks:
     desc: "`pf2:1` Fist +18 (agile)\n__Damage__  2d8 + 8 bludgeoning"
 
   - name: "Grasp Power"
-    desc: "`pf2:1` (arcane) **Requirements** The spellscar fext's last action was a successful fist Strike\n**Effect** The spellscar fext attempts a counteract check against a single spell affecting the creature (counteract rank 4, counteract modifier +17). If the check is successful, the creature also takes 6d6 mental damage (DC 25 Will check)."
+    desc: "`pf2:1` (arcane) **Requirements** The spellscar fext's last action was a successful fist Strike\n* * *\n\n**Effect** The spellscar fext attempts a counteract check against a single spell affecting the creature (counteract rank 4, counteract modifier +17). If the check is successful, the creature also takes 6d6 mental damage (DC 25 Will check)."
  
+```
+
+```encounter-table
+name: Spellscar Fext
+creatures:
+  - 1: Spellscar Fext
 ```
 
 

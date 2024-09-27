@@ -6,8 +6,9 @@ tags:
   - trait/finisher
   - trait/common
   - category/offensive
+  - remaster
 aliases: "Compendium.pf2e.actionspf2e.Item.dCuvfq3r2K9wXY9g"
-license: OGL
+license: ORC
 ---
 # Basic Finisher `pf2:1`
 
@@ -20,5 +21,5 @@ license: OGL
 
 You make a graceful, deadly attack. Make a Strike; if you hit and your weapon qualifies for [[Class Features/Precise Strike|Precise Strike]], you deal the full 1d6 damage from precise strike.
 
-*Source: Pathfinder Advanced Player's Guide*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/human
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/4
 statblock: inline
 name: "Bone Warrior"
@@ -22,12 +23,12 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #176: Lost Mammoth Valley"
 name: "Bone Warrior"
 level: "Creature 4"
-rare_03: "Rare"
+rare_03: [[Rare]]
 alignment: ""
 size: "Medium"
-trait_01: "evil"
-trait_02: "human"
-trait_03: "humanoid"
+trait_01: [[evil]]
+trait_02: [[human]]
+trait_03: [[humanoid]]
 modifier: 11
 perception:
   - name: "Perception"
@@ -78,6 +79,12 @@ attacks:
   - name: "Sudden Charge"
     desc: "`pf2:2`  The bone warrior Strides twice. If they end their movement within melee reach of an enemy, the bone warrior makes a melee Strike against that enemy."
  
+```
+
+```encounter-table
+name: Bone Warrior
+creatures:
+  - 1: Bone Warrior
 ```
 
 

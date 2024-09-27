@@ -7,6 +7,7 @@ aliases: "Compendium.battlezoo-bestiary-pf2e.pf2e-battlezoo-bestiary.Actor.LIH8J
 tags:
   - pf2e/creature/type/mindless
   - pf2e/creature/type/plant
+  - pf2eMonster
   - pf2e/creature/level/2
 statblock: inline
 name: "Iron Fern"
@@ -25,15 +26,16 @@ level: "Creature 2"
 
 alignment: ""
 size: "Medium"
-trait_01: "mindless"
-trait_02: "plant"
+trait_01: [[mindless]]
+trait_02: [[plant]]
 modifier: 7
 perception:
   - name: "Perception"
     desc: "+7; Tremorsense (Imprecise) 30 Feet"
+languages: ""
 skills:
   - name: "Skills"
-    desc: "Athletics: +8, Stealth: +7, "
+    desc: "Athletics: +8, Stealth: +7"
 abilityMods: [4, 1, 5, -5, 1, 0]
 speed: 5 feet,  burrow 5 feet
 sourcebook: "_Battlezoo Bestiary_"
@@ -64,11 +66,17 @@ attacks:
     desc: "`pf2:1` Iron Leaf +7 (range increment 20 feet, versatile p)\n__Damage__  2d4 + 4 slashing"
 
   - name: "Release Spores"
-    desc: "`pf2:2`  The iron fern shakes its fronds mightily, creating a cloud of iron spores in a 30-foot emanation. The cloud lasts for 1 minute or until dispersed by a strong wind. A creature that begins its turn in the cloud takes 4d4 piercing damage (basic Fortitude save). On a critical failure, the creature is Blinded for 1 round.\nThe iron fern can't Release Spores again for 1d4 rounds."
+    desc: "`pf2:2`  The iron fern shakes its fronds mightily, creating a cloud of iron spores in a 30-foot emanation. The cloud lasts for 1 minute or until dispersed by a strong wind. A creature that begins its turn in the cloud takes 4d4 piercing damage (DC 17 basic Fortitude save). On a critical failure, the creature is [[Conditions/Blinded|Blinded]] for 1 round.\n\nThe iron fern can't Release Spores again for 1d4 rounds."
 
   - name: "Sharpen Leaves"
-    desc: "`pf2:1`  The iron fern scrapes its leaves against a nearby stone to sharpen its edges. Until the end of the iron fern's next turn, its iron leaf Strikes deal an additional 1d4 slashing damage.\nEffect: Sharpen Leaves"
+    desc: "`pf2:1`  The iron fern scrapes its leaves against a nearby stone to sharpen its edges. Until the end of the iron fern's next turn, its iron leaf Strikes deal an additional 1d4 slashing damage.\n\n[[Effects/Effect_ Sharpen Leaves|Effect: Sharpen Leaves]]"
  
+```
+
+```encounter-table
+name: Iron Fern
+creatures:
+  - 1: Iron Fern
 ```
 
 

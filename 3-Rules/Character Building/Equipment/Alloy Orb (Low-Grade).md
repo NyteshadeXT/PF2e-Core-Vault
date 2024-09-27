@@ -14,7 +14,7 @@ license: ORC
 ---
 # Alloy Orb (Low-Grade)
 ## Item 3
-### [[consumable]][[magical]][[talisman]]
+### [[consumable]][[3-Rules/Rule References/Magical]][[talisman]]
 
 **Category** other; 
 **Price** 10 gp; 

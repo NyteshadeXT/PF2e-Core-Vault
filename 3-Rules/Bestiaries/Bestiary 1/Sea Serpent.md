@@ -6,6 +6,7 @@ cssClasses: pf2e
 aliases: "Compendium.pf2e.pathfinder-bestiary.Actor.CFHLgMj8zHLqcagc" 
 tags:
   - pf2e/creature/type/animal
+  - pf2eMonster
   - pf2e/creature/level/12
 statblock: inline
 name: "Sea Serpent"
@@ -21,17 +22,18 @@ token: [[modules/pf2e-tokens-bestiaries/portraits/bestial/aquatic/sea-serpent.we
 source: "Pathfinder Bestiary"
 name: "Sea Serpent"
 level: "Creature 12"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "grg"
-trait_01: "animal"
+trait_01: [[animal]]
 modifier: 22
 perception:
   - name: "Perception"
     desc: "+22; Darkvision"
+languages: ""
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +18, Athletics: +26 (+28 to Swim), Stealth: +28"
+    desc: "Acrobatics: +18, Athletics: +26, Stealth: +28"
 abilityMods: [8, 4, 6, -4, 2, 0]
 speed: 20 feet,  swim 60 feet
 sourcebook: "_Pathfinder Bestiary_"
@@ -68,20 +70,26 @@ attacks:
     desc: "`pf2:1` (attack) The sea serpent attempts to capsize an aquatic vessel of its size or smaller that it's adjacent to. It must succeed at an Athletics check with a DC of 35 or the pilot's Sailing Lore DC, whichever is higher."
 
   - name: "[[Bestiary Ability Glossary/Constrict|Constrict]]"
-    desc: "`pf2:1`  1d10 + 14 bludgeoning, DC 32 Fortitude check\n_Note: A DC was not provided for this ability by Paizo. The DC present here is a moderate DC for the creature level according to the Gamemastery Guide creature building Tables._\n"
+    desc: "`pf2:1`  1d10+14 bludgeoning, DC 32 Fortitude check\n* * *\n\n_Note: A DC was not provided for this ability by Paizo. The DC present here is a moderate DC for the creature level according to the Gamemastery Guide creature building Tables._\n\n* * *\n"
 
   - name: "Sea Serpent Algae"
-    desc: " (incapacitation,poison) The water in the ballast organs around the sea serpent's neck is full of psychotropic algae.\n**Saving Throw** DC 34 Fortitude check\n**Maximum Duration** 6 rounds\n**Stage 1** [[Conditions/Confused|Confused]] and, if flying, spends its first action each turn to descend 20 feet (1 round)\n**Stage 2** confused and, if flying, descends until reaching the ground or water below (1 round)"
+    desc: " (incapacitation,poison) The water in the ballast organs around the sea serpent's neck is full of psychotropic algae.\n\n**Saving Throw** DC 34 Fortitude check\n* * *\n\n**Maximum Duration** 6 rounds\n\n**Stage 1** [[Conditions/Confused|Confused]] and, if flying, spends its first action each turn to descend 20 feet (1 round)\n\n**Stage 2** confused and, if flying, descends until reaching the ground or water below (1 round)"
 
   - name: "Spine Rake"
-    desc: "`pf2:2` (attack,move) The sea serpent extends the spines along its back and Swims or Strides. Each creature the serpent is adjacent to at any point during its movement takes 4d6 + 8 slashing damage (DC 32 Reflex check save)."
+    desc: "`pf2:2` (attack,move) The sea serpent extends the spines along its back and Swims or Strides. Each creature the serpent is adjacent to at any point during its movement takes 4d6+8 slashing damage (DC 32 Reflex check save)."
 
   - name: "[[Bestiary Ability Glossary/Swallow Whole|Swallow Whole]]"
-    desc: "`pf2:1` (attack) Huge, 2d10 + 6 bludgeoning damage, Rupture 20\n"
+    desc: "`pf2:1` (attack) Huge, 2d10+6 bludgeoning damage, Rupture 20\n\n* * *\n"
 
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
     desc: "`pf2:1`  "
  
+```
+
+```encounter-table
+name: Sea Serpent
+creatures:
+  - 1: Sea Serpent
 ```
 
 

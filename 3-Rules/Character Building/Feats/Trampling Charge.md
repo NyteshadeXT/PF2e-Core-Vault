@@ -7,8 +7,9 @@ tags:
   - trait/flourish
   - trait/common
   - category/class
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.t6sey3cyV8n7a78l"
-license: OGL
+license: ORC
 ---
 # Trampling Charge `pf2:3`
 ## Feat 10
@@ -24,9 +25,7 @@ license: OGL
 
 * * *
 
-You urge your mount forward, trampling enemies in your path. You command your mount to Stride up to its Speed (or to [[Actions/Burrow|Burrow]], [[Actions/Climb|Climb]], [[Actions/Fly|Fly]], or [[Actions/Swim|Swim]], if it has the corresponding movement type), moving through the spaces of any foes in your path up to one size smaller than your mount.
+You urge your mount to charge into the fray, trampling all enemies who stand in your path. You command your mount to Stride up to double its Speed (or to [[Actions/Burrow|Burrow]], [[Actions/Climb|Climb]], [[Actions/Fly|Fly]], or [[Actions/Swim|Swim]], if it has the corresponding movement type), moving through the spaces of any foes in your path up to one size smaller than your mount. Your mount deals the damage of one of its melee Strikes to each creature whose space you move through, with a basic Reflex save against your mount's Athletics DC. On a critical failure, the creature also becomes [[Conditions/Off-Guard|Off-Guard]] until the end of your next turn. Roll the damage only once. You can damage a given creature only once during this movement.
 
-Your mount deals damage equal to the melee Strike using its legs to each creature whose space you move through, subject to a basic Reflex save against your mount's Athletics DC. On a critical failure, the creature also becomes [[Conditions/Off-Guard|Off-Guard]] until the end of your next turn. You can damage a given creature only once during this movement.
-
-*Source: Pathfinder Advanced Player's Guide*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

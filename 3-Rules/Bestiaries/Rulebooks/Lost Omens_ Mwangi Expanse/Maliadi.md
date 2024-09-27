@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/beast
   - pf2e/creature/type/evil
   - pf2e/creature/type/lawful
+  - pf2eMonster
   - pf2e/creature/level/17
 statblock: inline
 name: "Maliadi"
@@ -25,9 +26,9 @@ level: "Creature 17"
 
 alignment: ""
 size: "grg"
-trait_01: "beast"
-trait_02: "evil"
-trait_03: "lawful"
+trait_01: [[beast]]
+trait_02: [[evil]]
+trait_03: [[lawful]]
 modifier: 29
 perception:
   - name: "Perception"
@@ -57,10 +58,10 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Collar of Fire"
-    desc: " (fire,primal) The maliadi has resistance 20 to physical ranged attacks, such as arrows, bolts, javelins, and thrown rocks, as such attacks are magically diverted through its collar of fire.\nNonmagical weapons and ammunition affected by this ability are incinerated and destroyed."
+    desc: " (fire,primal) The maliadi has resistance 20 to physical ranged attacks, such as arrows, bolts, javelins, and thrown rocks, as such attacks are magically diverted through its collar of fire.\n\nNonmagical weapons and ammunition affected by this ability are incinerated and destroyed."
 
   - name: "Counterspelling Wall"
-    desc: "`pf2:r` (fire,primal) **Trigger** A creature within 100 feet of the maliadi that the maliadi can see Casts a Spell that targets the maliadi\n**Effect** The maliadi casts one of its innate [[Spells/Wall of Fire|Wall of Fire]] spells, with a duration of 1 round.\nIf the spell that triggered this reaction passes through the wall of fire, the wall attempts to counteract it, with a counteract modifier of +28."
+    desc: "`pf2:r` (fire,primal) **Trigger** A creature within 100 feet of the maliadi that the maliadi can see Casts a Spell that targets the maliadi\n* * *\n\n**Effect** The maliadi casts one of its innate [[Spells/Wall of Fire|Wall of Fire]] spells, with a duration of 1 round.\n\nIf the spell that triggered this reaction passes through the wall of fire, the wall attempts to counteract it, with a counteract modifier of +28."
 
 attacks:
   - name: ""
@@ -75,20 +76,26 @@ attacks:
     desc: "DC 38, attack +30; __9th __  _[[Spells/Wall of Fire|Wall of Fire (x3)]]_, _[[Spells/Wall of Stone|Wall of Stone (x3)]]_; __8th __  _[[Spells/Fire Shield|Fire Shield]]_, _[[Spells/Volcanic Eruption|Volcanic Eruption]]_; __4th __  _[[Spells/Air Walk|Air Walk]]_, _[[Spells/Vapor Form|Gaseous Form]]_\n__Cantrips__  __(9th)__ _[[Spells/Detect Magic|Detect Magic]]_, _[[Spells/Produce Flame|Produce Flame]]_\n__Constant__  __(8th)__ _[[Spells/Unfettered Movement|Freedom of Movement]]_ __(7th)__ _[[Spells/Truesight|True Seeing]]_"
 
   - name: "Capsize"
-    desc: "`pf2:1`  The maliadi tries to capsize an adjacent aquatic vessel of its size or smaller.\nThe maliadi must succeed at a DC 35 Athletics check check (reduced by 5 for each size smaller the vessel is than the maliadi) or the pilot's Sailing Lore DC, whichever is higher."
+    desc: "`pf2:1`  The maliadi tries to capsize an adjacent aquatic vessel of its size or smaller.\n\nThe maliadi must succeed at a DC 35 Athletics check check (reduced by 5 for each size smaller the vessel is than the maliadi) or the pilot's Sailing Lore DC, whichever is higher."
 
   - name: "[[Bestiary Ability Glossary/Change Shape|Change Shape]]"
-    desc: "`pf2:1` (concentrate,polymorph,primal) The maliadi can take on the appearance of any Large, Huge, or Gargantuan animal. This doesn't change its Speed or Strikes.\n"
+    desc: "`pf2:1` (concentrate,polymorph,primal) The maliadi can take on the appearance of any Large, Huge, or Gargantuan animal. This doesn't change its Speed or Strikes.\n\n* * *\n"
 
   - name: "River Form"
     desc: "`pf2:3`  The maliadi takes on the form of a stretch of river, with the effects of [[Spells/Migration|Migration]], except the maliadi can only affect itself, appears as a section of a flowing river that takes up the same space as the maliadi, and can't leave the ground."
 
   - name: "[[Bestiary Ability Glossary/Swallow Whole|Swallow Whole]]"
-    desc: "`pf2:1` (attack) Huge, 3d10 + 17 bludgeoning damage, Rupture 35\n"
+    desc: "`pf2:1` (attack) Huge, 3d10+17 bludgeoning damage, Rupture 35\n\n* * *\n"
 
   - name: "[[Bestiary Ability Glossary/Trample|Trample]]"
-    desc: "`pf2:3`  Huge or smaller, foot, DC 38 Reflex check\n"
+    desc: "`pf2:3`  Huge or smaller, foot, DC 38 Reflex check\n\n* * *\n"
  
+```
+
+```encounter-table
+name: Maliadi
+creatures:
+  - 1: Maliadi
 ```
 
 

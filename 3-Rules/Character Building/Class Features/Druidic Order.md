@@ -12,7 +12,7 @@ license: ORC
 ---
 # Druidic Order
 ## Feat 1
-### [[druid]]
+### [[3-Rules/trait_reference/druid]]
 
 **Category** classfeature; 
 

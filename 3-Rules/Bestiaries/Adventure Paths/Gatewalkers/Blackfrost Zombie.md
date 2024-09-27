@@ -11,6 +11,7 @@ tags:
   - pf2e/creature/type/undead
   - pf2e/creature/type/unholy
   - pf2e/creature/type/zombie
+  - pf2eMonster
   - pf2e/creature/level/6
 statblock: inline
 name: "Blackfrost Zombie"
@@ -25,19 +26,20 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #189: Dreamers of the Nameless Spires"
 name: "Blackfrost Zombie"
 level: "Creature 6"
-rare_03: "Rare"
+rare_03: [[Rare]]
 alignment: ""
 size: "Medium"
-trait_01: "cold"
-trait_02: "evil"
-trait_03: "mindless"
-trait_04: "undead"
-trait_05: "unholy"
-trait_06: "zombie"
+trait_01: [[cold]]
+trait_02: [[evil]]
+trait_03: [[mindless]]
+trait_04: [[undead]]
+trait_05: [[unholy]]
+trait_06: [[zombie]]
 modifier: 10
 perception:
   - name: "Perception"
     desc: "+10; Darkvision"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Athletics: +15"
@@ -62,7 +64,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Opportune Bite"
-    desc: "`pf2:r`  **Trigger** A creature critically fails a Strike within 10 feet of the blackfrost zombie\n**Effect** The blackfrost zombie Steps toward the triggering creature, then makes a jaws Strike against that creature."
+    desc: "`pf2:r`  **Trigger** A creature critically fails a Strike within 10 feet of the blackfrost zombie\n* * *\n\n**Effect** The blackfrost zombie Steps toward the triggering creature, then makes a jaws Strike against that creature."
 
 attacks:
   - name: ""
@@ -74,11 +76,17 @@ attacks:
     desc: "`pf2:1` Jaws +15 ()\n__Damage__  2d4 + 5 piercing plus blackfrost 1d6 cold plus blackfrost"
 
   - name: "[[Creature Family Ability Glossary/(Blackfrost Dead) Blackfrost|Blackfrost]]"
-    desc: " (cold,curse,disease,occult) This affliction can't be reduced below stage 1, nor the damage from it healed, until successfully treated with [[Spells/Cleanse Affliction|Cleanse Affliction]] or a similar effect; the affliction can then be removed as a normal disease. A creature that dies from cold damage while cursed with blackfrost rises as a blackfrost dead after 24 hours. Blackfrost has a counteract rank of 10.\n**Saving Throw** DC 27 Fortitude check\n**Stage 1** 4d6 cold (1 minute)\n**Stage 2** weakness to cold 5 and [[Conditions/Drained 1|Drained 1]] (1 day)\n**Stage 3** weakness to cold 10 and [[Conditions/Drained 1|Drained 2]] (1 day)"
+    desc: " (cold,curse,disease,occult) This affliction can't be reduced below stage 1, nor the damage from it healed, until successfully treated with [[Spells/Cleanse Affliction|Cleanse Affliction]] or a similar effect; the affliction can then be removed as a normal disease. A creature that dies from cold damage while cursed with blackfrost rises as a blackfrost dead after 24 hours. Blackfrost has a counteract rank of 10.\n\n**Saving Throw** DC 27 Fortitude check\n\n**Stage 1** 4d6 cold (1 minute)\n\n**Stage 2** weakness to cold 5 and [[Conditions/Drained|Drained 1]] (1 day)\n\n**Stage 3** weakness to cold 10 and [[Conditions/Drained|Drained 2]] (1 day)"
 
   - name: "[[Creature Family Ability Glossary/(Blackfrost Dead) Blackfrost Breath|Blackfrost Breath]]"
-    desc: "`pf2:2` (occult) The blackfrost dead gasps sharply, then exhales a mist of dark-blue blackfrost particles in a 5-foot emanation. All creatures within the mist become [[Conditions/Concealed|Concealed]], and all creatures outside the mist become concealed to creatures within it. The mist persists for 1 minute. A creature that ends its turn in the mist is exposed to blackfrost. The blackfrost dead can't use Blackfrost Breath again for 1d4 rounds."
+    desc: "`pf2:2` (occult) The blackfrost dead gasps sharply, then exhales a mist of dark-blue blackfrost particles in a @Template[emanation|distance:5]. All creatures within the mist become [[Conditions/Concealed|Concealed]], and all creatures outside the mist become concealed to creatures within it. The mist persists for 1 minute. A creature that ends its turn in the mist is exposed to blackfrost. The blackfrost dead can't use Blackfrost Breath again for 1d4 rounds."
  
+```
+
+```encounter-table
+name: Blackfrost Zombie
+creatures:
+  - 1: Blackfrost Zombie
 ```
 
 

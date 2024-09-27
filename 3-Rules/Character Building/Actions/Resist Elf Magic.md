@@ -5,8 +5,9 @@ cssclasses: pf2e,pf2e-action
 tags:
   - trait/common
   - category/defensive
+  - remaster
 aliases: "Compendium.pf2e.actionspf2e.Item.On5CQjX4euWqToly"
-license: OGL
+license: ORC
 ---
 # Resist Elf Magic `pf2:r`
 
@@ -23,5 +24,5 @@ license: OGL
 
 Your ancestral resistance to magic protects you. You gain a +1 circumstance bonus to the triggering saving throw. If the triggering effect is arcane, you gain a +2 circumstance bonus instead.
 
-*Source: Pathfinder Lost Omens: Character Guide*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

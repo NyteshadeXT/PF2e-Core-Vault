@@ -10,6 +10,7 @@ tags:
   - pf2e/creature/type/spirit
   - pf2e/creature/type/undead
   - pf2e/creature/type/unholy
+  - pf2eMonster
   - pf2e/creature/level/2
 statblock: inline
 name: "Wispy Wayfarer"
@@ -28,11 +29,11 @@ level: "Creature 2"
 
 alignment: ""
 size: "Small"
-trait_01: "evil"
-trait_02: "incorporeal"
-trait_03: "spirit"
-trait_04: "undead"
-trait_05: "unholy"
+trait_01: [[evil]]
+trait_02: [[incorporeal]]
+trait_03: [[spirit]]
+trait_04: [[undead]]
+trait_05: [[unholy]]
 modifier: 11
 perception:
   - name: "Perception"
@@ -40,7 +41,7 @@ perception:
 languages: "Common"
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +7, Deception: +8 (+12 to Impersonate a plain cloth or sheet), Stealth: +8, Sailing Lore: +7, "
+    desc: "Acrobatics: +7, Deception: +8, Stealth: +8, Sailing Lore: +7"
 abilityMods: [-5, 3, 0, 1, 2, 4]
 speed:  fly 20 feet
 sourcebook: "_Battlezoo Bestiary_"
@@ -65,7 +66,7 @@ abilities_mid:
     desc: " (divine) When a wispy wayfarer is destroyed, it re-forms after 2d4 days onboard the ship it is bound to, fully healed. A wispy wayfarer can be permanently destroyed only if the ill-gotten treasure aboard its ship is removed from the hull, at which point the wayfarer moves on to the afterlife."
 
   - name: "Sailcloth"
-    desc: "  Magical effects that push by force of air, such as the spell _Gust of Wind_, push the wispy wayfarer twice as far as they normally would. Wispy wayfarers pushed in this way are not impeded by walls or objects. If the wispy wayfarer is pushed more than 15 feet off of its ship in this way, it is destroyed but can still rejuvenate."
+    desc: "  Magical effects that push by force of air, such as the spell _[[Spells/Gust of Wind|Gust of Wind]]_, push the wispy wayfarer twice as far as they normally would. Wispy wayfarers pushed in this way are not impeded by walls or objects. If the wispy wayfarer is pushed more than 15 feet off of its ship in this way, it is destroyed but can still rejuvenate."
 
 attacks:
   - name: ""
@@ -74,8 +75,14 @@ attacks:
     desc: "`pf2:1` Wispy Tatters +9 (agile, finesse, magical)\n__Damage__  1d8 + 4 void plus hushing-whisper"
 
   - name: "Hushing Whisper"
-    desc: " (divine) The touch of a wispy wayfarer can silence a mortal's tongue as effectively as torrential rain and flapping sails. When the wispy wayfarer damages a living creature with its wispy tatters Strike, the target must make a Will save. On a failure, the target can't speak or use any abilities or actions with the auditory or sonic trait, including casting spells that include verbal components. This effect lasts until the end of the wayfarer's next turn. On a critical failure, the effect lasts 1 minute."
+    desc: " (divine) The touch of a wispy wayfarer can silence a mortal's tongue as effectively as torrential rain and flapping sails. When the wispy wayfarer damages a living creature with its wispy tatters Strike, the target must make a DC 18 Will save. On a failure, the target can't speak or use any abilities or actions with the auditory or sonic trait, including casting spells that include verbal components. This effect lasts until the end of the wayfarer's next turn. On a critical failure, the effect lasts 1 minute."
  
+```
+
+```encounter-table
+name: Wispy Wayfarer
+creatures:
+  - 1: Wispy Wayfarer
 ```
 
 

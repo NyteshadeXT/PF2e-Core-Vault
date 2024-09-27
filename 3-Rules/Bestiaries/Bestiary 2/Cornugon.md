@@ -10,6 +10,7 @@ tags:
   - pf2e/creature/type/fiend
   - pf2e/creature/type/lawful
   - pf2e/creature/type/unholy
+  - pf2eMonster
   - pf2e/creature/level/16
 statblock: inline
 name: "Cornugon"
@@ -28,16 +29,16 @@ level: "Creature 16"
 
 alignment: ""
 size: "Large"
-trait_01: "devil"
-trait_02: "evil"
-trait_03: "fiend"
-trait_04: "lawful"
-trait_05: "unholy"
+trait_01: [[devil]]
+trait_02: [[evil]]
+trait_03: [[fiend]]
+trait_04: [[lawful]]
+trait_05: [[unholy]]
 modifier: 28
 perception:
   - name: "Perception"
     desc: "+28; Greater Darkvision"
-languages: "Common, Diabolic, Draconic, Empyrean"
+languages: "Common, Diabolic, Draconic, Empyrean; telepathy 100 feet"
 skills:
   - name: "Skills"
     desc: "Acrobatics: +28, Athletics: +32, Intimidation: +30, Religion: +28, Stealth: +26, Warfare Lore: +30"
@@ -66,10 +67,10 @@ abilities_mid:
     desc: " (aura,divine) 10 feet. A constant [[Spells/Circle of Protection|Circle of Protection]] against good is centered on the cornugon."
 
   - name: "Commander's Aura"
-    desc: " (aura,divine) 100 feet. Allied evil creatures in the aura of lower level than the devil's gain a +1 circumstance bonus to attack rolls, damage rolls, AC, saves, and skill checks.\n[[Bestiary Effects/Effect_ Commander's Aura|Effect: Commander's Aura]]"
+    desc: " (aura,divine) 100 feet. Allied evil creatures in the aura of lower level than the devil's gain a +1 circumstance bonus to attack rolls, damage rolls, AC, saves, and skill checks.\n\n[[Bestiary Effects/Effect_ Commander's Aura|Effect: Commander's Aura]]"
 
   - name: "[[Bestiary Ability Glossary/Frightful Presence|Frightful Presence]]"
-    desc: " (aura,emotion,fear,mental) 10 feet. DC 34 Will check\n"
+    desc: " (aura,emotion,fear,mental) 10 feet. DC 34 Will check\n\n* * *\n"
 
 attacks:
   - name: ""
@@ -90,14 +91,20 @@ attacks:
     desc: "_[[Spells/Diabolic Pact|Infernal Pact]]_"
 
   - name: "Chain of Malebolge"
-    desc: "`pf2:1`  **Requirements** The cornugon's last action was a success with a spiked chain Strike.\n**Effect** The devil pulls the creature 5 feet closer and [[Conditions/Grabbed|Grabs]] it with the spiked chain ([[Actions/Escape|Escape]] DC 42). The creature is automatically freed if the devil makes another spiked chain attack or moves away."
+    desc: "`pf2:1`  **Requirements** The cornugon's last action was a success with a spiked chain Strike.\n* * *\n\n**Effect** The devil pulls the creature 5 feet closer and [[Conditions/Grabbed|Grabs]] it with the spiked chain ([[Actions/Escape|Escape]] DC 42). The creature is automatically freed if the devil makes another spiked chain attack or moves away."
 
   - name: "Infernal Wound"
-    desc: " (divine) A cornugon's tail Strike deals 4d6 bleed.\nThe DC of the flat check to stop the bleeding starts at DC 20 Flat check and is reduced to DC 15 Flat check only if someone successfully assists. The DC to [[Actions/Administer First Aid|Administer First Aid]] to a creature with an infernal wound increases by 10.\nA spellcaster or item using healing magic on an infernally wounded creature must succeed at a DC 34 counteract check or the magic fails to heal the creature.\n[[Bestiary Effects/Effect_ Infernal Wound|Effect: Infernal Wound]]"
+    desc: " (divine) A cornugon's tail Strike deals 4d6 bleed.\n\nThe DC of the flat check to stop the bleeding starts at DC 20 Flat check and is reduced to DC 15 Flat check only if someone successfully assists. The DC to [[Actions/Administer First Aid|Administer First Aid]] to a creature with an infernal wound increases by 10.\n\nA spellcaster or item using healing magic on an infernally wounded creature must succeed at a DC 34 counteract check or the magic fails to heal the creature.\n\n[[Bestiary Effects/Effect_ Infernal Wound|Effect: Infernal Wound]]"
 
   - name: "Stunning Chain"
-    desc: " (incapacitation) If the cornugon critically hits with its spiked chain Strike, the target must succeed at a DC 34 Fortitude check save or be [[Conditions/Stunned 1|Stunned]] for 1 round (1d4 rounds on a critical failure)."
+    desc: " (incapacitation) If the cornugon critically hits with its spiked chain Strike, the target must succeed at a DC 34 Fortitude check save or be [[Conditions/Stunned|Stunned]] for 1 round (1d4 rounds on a critical failure)."
  
+```
+
+```encounter-table
+name: Cornugon
+creatures:
+  - 1: Cornugon
 ```
 
 

@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.pfs-season-1-bestiary.Actor.a15tV7snudRPQXHO"
 tags:
   - pf2e/creature/type/construct
   - pf2e/creature/type/mindless
+  - pf2eMonster
   - pf2e/creature/level/3
 statblock: inline
 name: "Toxic Snapjaw (5-6)"
@@ -21,15 +22,16 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Society Quest #9: Wayfinder Origins"
 name: "Toxic Snapjaw (5-6)"
 level: "Creature 3"
-rare_03: "Rare"
+rare_03: [[Rare]]
 alignment: ""
 size: "Small"
-trait_01: "construct"
-trait_02: "mindless"
+trait_01: [[construct]]
+trait_02: [[mindless]]
 modifier: 9
 perception:
   - name: "Perception"
     desc: "+9; Darkvision"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Athletics: +9, Stealth: +10"
@@ -57,11 +59,17 @@ attacks:
     desc: "`pf2:1` Jaws +12 ()\n__Damage__  1d8 + 6 piercing plus grab"
 
   - name: "Pesticide"
-    desc: " (poison) **Saving Throw** DC 20 Fortitude check\n**Maximum Duration** 6 rounds\n**Stage 1** 1d8 poison damage (1 round)\n**Stage 2** 1d12 poison damage and [[Conditions/Enfeebled 1|Enfeebled 1]] (1 round)\n**Stage 3** 2d8 poison damage and enfeebled 1 (1 round)"
+    desc: " (poison) **Saving Throw** DC 20 Fortitude check\n\n**Maximum Duration** 6 rounds\n\n**Stage 1** 1d8 poison damage (1 round)\n\n**Stage 2** 1d12 poison damage and [[Conditions/Enfeebled|Enfeebled 1]] (1 round)\n\n**Stage 3** 2d8 poison damage and enfeebled 1 (1 round)"
 
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
     desc: "`pf2:1`  "
  
+```
+
+```encounter-table
+name: Toxic Snapjaw (5-6)
+creatures:
+  - 1: Toxic Snapjaw (5-6)
 ```
 
 

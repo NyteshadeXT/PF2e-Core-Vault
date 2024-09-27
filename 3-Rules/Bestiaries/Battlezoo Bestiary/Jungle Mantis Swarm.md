@@ -7,6 +7,7 @@ aliases: "Compendium.battlezoo-bestiary-pf2e.pf2e-battlezoo-bestiary.Actor.MNy9q
 tags:
   - pf2e/creature/type/animal
   - pf2e/creature/type/swarm
+  - pf2eMonster
   - pf2e/creature/level/8
 statblock: inline
 name: "Jungle Mantis Swarm"
@@ -25,15 +26,16 @@ level: "Creature 8"
 
 alignment: ""
 size: "Large"
-trait_01: "animal"
-trait_02: "swarm"
+trait_01: [[animal]]
+trait_02: [[swarm]]
 modifier: 14
 perception:
   - name: "Perception"
     desc: "+14; Darkvision"
+languages: ""
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +18, Athletics: +18, Stealth: +20, "
+    desc: "Acrobatics: +18, Athletics: +18, Stealth: +20"
 abilityMods: [4, 6, 3, -5, 0, -4]
 speed: 20 feet,  fly 40 feet
 sourcebook: "_Battlezoo Bestiary_"
@@ -52,20 +54,26 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Angry Flutter"
-    desc: "`pf2:r`  **Trigger** A creature targets the jungle mantis swarm with an attack, spell, or ability and rolls a critical success;\n**Effect** The swarming mantises briefly take flight and disperse, spreading out to limit the damage before regrouping. The triggering critical success becomes a success instead. Any creatures previously Grabbed by the swarm are no longer grabbed. The mantis swarm cannot use Munch and Cover for 1 round."
+    desc: "`pf2:r`  **Trigger** A creature targets the jungle mantis swarm with an attack, spell, or ability and rolls a critical success;\n* * *\n\n**Effect** The swarming mantises briefly take flight and disperse, spreading out to limit the damage before regrouping. The triggering critical success becomes a success instead. Any creatures previously [[Conditions/Grabbed|Grabbed]] by the swarm are no longer grabbed. The mantis swarm cannot use Munch and Cover for 1 round."
 
 attacks:
   - name: ""
 
   - name: "Drag Off"
-    desc: "`pf2:1`  **Requirements** The jungle mantis swarm has a creature Grabbed;\n**Effect** The swarm drags the creature away from its allies to a spot where the mantises can eat in peace. The mantis swarm makes an Athletics check to Shove the grabbed creature. The mantis swarm always moves with the shoved creature."
+    desc: "`pf2:1`  **Requirements** The jungle mantis swarm has a creature [[Conditions/Grabbed|Grabbed]];\n\n**Effect** The swarm drags the creature away from its allies to a spot where the mantises can eat in peace. The mantis swarm makes an Athletics check to [[Actions/Shove|Shove]] the grabbed creature. The mantis swarm always moves with the shoved creature."
 
   - name: "Munch and Cover"
-    desc: "`pf2:2`  The swarm chews on each creature its area, dealing 4d6 piercing damage (basic Reflex save). On a failed or critically failed save, a creature is also Grabbed."
+    desc: "`pf2:2`  The swarm chews on each creature its area, dealing 4d6 piercing damage (DC 26 basic Reflex save). On a failed or critically failed save, a creature is also [[Conditions/Grabbed|Grabbed]]."
 
   - name: "Swarming Bites"
-    desc: "`pf2:1`  Each creature in the swarm's area takes 2d6 piercing damage (basic Reflex save)."
+    desc: "`pf2:1`  Each creature in the swarm's area takes 2d6 piercing damage (DC 26 basic Reflex save)."
  
+```
+
+```encounter-table
+name: Jungle Mantis Swarm
+creatures:
+  - 1: Jungle Mantis Swarm
 ```
 
 

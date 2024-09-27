@@ -14,7 +14,7 @@ license: OGL
 ---
 # Mirror's Reflection `pf2:1`
 
-### [[illusion]][[magical]][[manipulate]][[thaumaturge]]
+### [[illusion]][[3-Rules/Rule References/Magical]][[3-Rules/Rule References/Manipulate]][[thaumaturge]]
 
 **Category** interaction; 
 

@@ -10,6 +10,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/humanoid
   - pf2e/creature/type/lawful
+  - pf2eMonster
   - pf2e/creature/level/14
 statblock: inline
 name: "Kralgurn"
@@ -24,14 +25,14 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #148: Fires of the Haunted City"
 name: "Kralgurn"
 level: "Creature 14"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Medium"
-trait_01: "duergar"
-trait_02: "dwarf"
-trait_03: "evil"
-trait_04: "humanoid"
-trait_05: "lawful"
+trait_01: [[duergar]]
+trait_02: [[dwarf]]
+trait_03: [[evil]]
+trait_04: [[humanoid]]
+trait_05: [[lawful]]
 modifier: 24
 perception:
   - name: "Perception"
@@ -59,7 +60,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "[[Bestiary Ability Glossary/Attack of Opportunity|Intimidating Attack of Opportunity]]"
-    desc: "`pf2:r` (emotion,fear,mental) Kralgurn's Attacks of Opportunity not only wound creatures, but also shatter their confidence. If Kralgurn hits and deals damage with an Attack of Opportunity, the target is [[Conditions/Frightened 1|Frightened 2]], or [[Conditions/Frightened 1|Frightened 4]] on a critical hit.\n"
+    desc: "`pf2:r` (emotion,fear,mental) Kralgurn's Attacks of Opportunity not only wound creatures, but also shatter their confidence. If Kralgurn hits and deals damage with an Attack of Opportunity, the target is [[Conditions/Frightened|Frightened 2]], or [[Conditions/Frightened|Frightened 4]] on a critical hit.\n\n* * *\n"
 
 attacks:
   - name: ""
@@ -74,8 +75,14 @@ attacks:
     desc: "DC 34, attack +26; __4th __  _[[Spells/Enlarge|Enlarge (Self Only)]]_, _[[Spells/Invisibility|Invisibility (Self Only)]]_"
 
   - name: "Fearsome Brute"
-    desc: "  When Kralgurn attacks a [[Conditions/Frightened 1|Frightened]] creature, he gains a circumstance bonus to damage equal to three times the target's frightened value."
+    desc: "  When Kralgurn attacks a [[Conditions/Frightened|Frightened]] creature, he gains a circumstance bonus to damage equal to three times the target's frightened value."
  
+```
+
+```encounter-table
+name: Kralgurn
+creatures:
+  - 1: Kralgurn
 ```
 
 

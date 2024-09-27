@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/celestial
   - pf2e/creature/type/good
   - pf2e/creature/type/holy
+  - pf2eMonster
   - pf2e/creature/level/2
 statblock: inline
 name: "Stone Lion Cub"
@@ -23,20 +24,20 @@ token: [[modules/pf2e-tokens-bestiaries/portraits/constructed/magical/stone-lion
 source: "Pathfinder Bestiary 3"
 name: "Stone Lion Cub"
 level: "Creature 2"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Medium"
-trait_01: "celestial"
-trait_02: "good"
-trait_03: "holy"
+trait_01: [[celestial]]
+trait_02: [[good]]
+trait_03: [[holy]]
 modifier: 10
 perception:
   - name: "Perception"
     desc: "+10; Darkvision"
-languages: "Common, Empyrean"
+languages: "Common, Empyrean; telepathy 60 feet"
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +7, Athletics: +7, Meteorology Lore: +7, Religion: +8"
+    desc: "Acrobatics: +7, Athletics: +7, Religion: +8, Meteorology Lore: +7"
 abilityMods: [3, 3, 0, 1, 4, 0]
 speed:  fly 25 feet
 sourcebook: "_Pathfinder Bestiary 3_"
@@ -70,11 +71,17 @@ attacks:
     desc: "DC 17, attack +9; __1st __  _[[Spells/Detect Alignment|Detect Alignment (At Will) (Evil Only)]]_"
 
   - name: "Inhabit Vessel"
-    desc: "`pf2:2` (manipulate) The cub touches and melds with its bonded vessel, bringing the statue to life. It can cease Inhabiting its Vessel by spending a single action, which has the concentrate trait. While Inhabiting the Vessel, it loses its fly Speed and gains:\n**Immunities** healing, nonlethal\n**Resistances** physical 3 (except bludgeoning)\n**Speed** 20 feet; and the following Strike.\n*   **Melee** `pf2:1` Jaws +10 (agile), **Damage** 1d6+5 bludgeoning plus [[Bestiary Ability Glossary/Grab|Grab]]."
+    desc: "`pf2:2` (manipulate) The cub touches and melds with its bonded vessel, bringing the statue to life. It can cease Inhabiting its Vessel by spending a single action, which has the concentrate trait. While Inhabiting the Vessel, it loses its fly Speed and gains:\n\n**Immunities** healing, nonlethal\n\n**Resistances** physical 3 (except bludgeoning)\n\n**Speed** 20 feet; and the following Strike.\n\n*   **Melee** `pf2:1` Jaws +10 (agile), **Damage** 1d6+5 bludgeoning plus [[Bestiary Ability Glossary/Grab|Grab]]."
 
   - name: "Spirit Body"
     desc: "  When not Inhabiting its Vessel, the cub is incorporeal and gains resistance 3 to all damage (except force damage and damage from Strikes with the _[[Equipment/Ghost Touch|Ghost Touch]]_ property rune; double resistance against non-magical)."
  
+```
+
+```encounter-table
+name: Stone Lion Cub
+creatures:
+  - 1: Stone Lion Cub
 ```
 
 

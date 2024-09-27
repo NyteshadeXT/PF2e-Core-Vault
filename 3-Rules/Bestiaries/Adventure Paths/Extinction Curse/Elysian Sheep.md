@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/animal
   - pf2e/creature/type/good
   - pf2e/creature/type/holy
+  - pf2eMonster
   - pf2e/creature/level/7
 statblock: inline
 name: "Elysian Sheep"
@@ -22,16 +23,17 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #156: The Apocalypse Prophet"
 name: "Elysian Sheep"
 level: "Creature 7"
-rare_03: "Rare"
+rare_03: [[Rare]]
 alignment: ""
 size: "Large"
-trait_01: "animal"
-trait_02: "good"
-trait_03: "holy"
+trait_01: [[animal]]
+trait_02: [[good]]
+trait_03: [[holy]]
 modifier: 18
 perception:
   - name: "Perception"
     desc: "+18; Low-Light Vision"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Acrobatics: +17, Athletics: +15, Survival: +16"
@@ -56,7 +58,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Cowardly"
-    desc: "  An Elysian sheep gains the [[Conditions/Fleeing|Fleeing]] condition whenever it has the [[Conditions/Frightened 1|Frightened]] condition."
+    desc: "  An Elysian sheep gains the [[Conditions/Fleeing|Fleeing]] condition whenever it has the [[Conditions/Frightened|Frightened]] condition."
 
 attacks:
   - name: ""
@@ -68,8 +70,14 @@ attacks:
     desc: "`pf2:1` Hoof +16 ()\n__Damage__  2d6 + 5 bludgeoning 1d6 spirit"
 
   - name: "[[Bestiary Ability Glossary/Trample|Trample]]"
-    desc: "`pf2:3`  Medium or smaller, hoof, DC 24 Reflex check\n"
+    desc: "`pf2:3`  Medium or smaller, hoof, DC 24 Reflex check\n\n* * *\n"
  
+```
+
+```encounter-table
+name: Elysian Sheep
+creatures:
+  - 1: Elysian Sheep
 ```
 
 

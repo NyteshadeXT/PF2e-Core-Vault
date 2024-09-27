@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/goblin
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/3
 statblock: inline
 name: "Vaggas the Bosun"
@@ -22,12 +23,12 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Society Scenario #3-08: Foundation&#x27;s Price"
 name: "Vaggas the Bosun"
 level: "Creature 3"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Medium"
-trait_01: "evil"
-trait_02: "goblin"
-trait_03: "humanoid"
+trait_01: [[evil]]
+trait_02: [[goblin]]
+trait_03: [[humanoid]]
 modifier: 8
 perception:
   - name: "Perception"
@@ -70,11 +71,17 @@ attacks:
     desc: "`pf2:1` Naval Pike +13 (thrown 20 ft.)\n__Damage__  1d6 + 5 piercing"
 
   - name: "Bosun's Command"
-    desc: "`pf2:1` (auditory,concentrate,emotion,linguistic,mental) **Frequency** once per round\n**Effect** The bosun orders an ally to attack or to get in position. Until the end of the ally's next turn, they gain the bosun's choice of a +2 status bonus to attack rolls or a +10-foot status bonus to their Speeds.\n*   [[Bestiary Effects/Effect_ Bosun's Command - Attack Bonus|Effect: Bosun's Command - Attack Bonus]]\n*   [[Bestiary Effects/Effect_ Bosun's Command - Speed Bonus|Effect: Bosun's Command - Speed Bonus]]"
+    desc: "`pf2:1` (auditory,concentrate,emotion,linguistic,mental) **Frequency** once per round\n* * *\n\n**Effect** The bosun orders an ally to attack or to get in position. Until the end of the ally's next turn, they gain the bosun's choice of a +2 status bonus to attack rolls or a +10-foot status bonus to their Speeds.\n* * *\n\n*   [[Bestiary Effects/Effect_ Bosun's Command - Attack Bonus|Effect: Bosun's Command - Attack Bonus]]\n*   [[Bestiary Effects/Effect_ Bosun's Command - Speed Bonus|Effect: Bosun's Command - Speed Bonus]]"
 
   - name: "Pike and Strike"
-    desc: "`pf2:2`  The bosun Strikes with their naval pike.\nIf this Strike hits, the bosun can either move the target 5 feet within the pike's reach or make a fist Strike against the target without increasing their multiple attack penalty until after the fist Strike."
+    desc: "`pf2:2`  The bosun Strikes with their naval pike.\n\nIf this Strike hits, the bosun can either move the target 5 feet within the pike's reach or make a fist Strike against the target without increasing their multiple attack penalty until after the fist Strike."
  
+```
+
+```encounter-table
+name: Vaggas the Bosun
+creatures:
+  - 1: Vaggas the Bosun
 ```
 
 

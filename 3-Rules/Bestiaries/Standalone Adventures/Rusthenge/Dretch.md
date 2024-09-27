@@ -10,6 +10,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/fiend
   - pf2e/creature/type/unholy
+  - pf2eMonster
   - pf2e/creature/level/2
 statblock: inline
 name: "Dretch"
@@ -27,16 +28,16 @@ level: "Creature 2"
 
 alignment: ""
 size: "Small"
-trait_01: "chaotic"
-trait_02: "demon"
-trait_03: "evil"
-trait_04: "fiend"
-trait_05: "unholy"
+trait_01: [[chaotic]]
+trait_02: [[demon]]
+trait_03: [[evil]]
+trait_04: [[fiend]]
+trait_05: [[unholy]]
 modifier: 6
 perception:
   - name: "Perception"
     desc: "+6; Darkvision"
-languages: "Chthonian"
+languages: "Chthonian; telepathy 100 feet"
 skills:
   - name: "Skills"
     desc: "Acrobatics: +6, Athletics: +7, Deception: +6, Stealth: +6"
@@ -57,7 +58,7 @@ abilities_top:
   - name: "Items"
     desc: "[[Equipment/Light Mace|Light Mace]]"
   - name: "Sloth"
-    desc: "  At the start of each of the dretch's turns, roll 1d4. The result is the number of actions the dretch regains that turn (maximum 3).\nEffects like the [[Conditions/Slowed 1|Slowed]] condition can further reduce their number of actions."
+    desc: "  At the start of each of the dretch's turns, roll 1d4. The result is the number of actions the dretch regains that turn (maximum 3).\n\nEffects like the [[Conditions/Slowed|Slowed]] condition can further reduce their number of actions."
 
 abilities_mid:
   - name: ""
@@ -83,11 +84,17 @@ attacks:
     desc: "`pf2:1`  The dretch makes itself as small as possible, protecting its vital organs with its limbs. It gains a +4 circumstance bonus to AC but takes a -2 penalty to attack rolls. This lasts until the dretch moves from its current space, falls [[Conditions/Unconscious|Unconscious]], or ends the effect as a free action."
 
   - name: "Frenzied Slashes"
-    desc: "`pf2:3`  The dretch makes three claw Strikes, each at a -2 penalty, all targeting the same creature. The dretch's multiple attack penalty doesn't increase until after it has made all three attacks.\nThe dretch gains the [[Conditions/Clumsy 1|Clumsy 2]] condition until the beginning of its next turn."
+    desc: "`pf2:3`  The dretch makes three claw Strikes, each at a -2 penalty, all targeting the same creature. The dretch's multiple attack penalty doesn't increase until after it has made all three attacks.\n\nThe dretch gains the [[Conditions/Clumsy|Clumsy 2]] condition until the beginning of its next turn."
 
   - name: "Vicious Criticals"
     desc: "  A dretch makes the most of any weakness it finds. Whenever a dretch scores a critical hit with its claw Strike, the target takes an additional 1d6 bleed."
  
+```
+
+```encounter-table
+name: Dretch
+creatures:
+  - 1: Dretch
 ```
 
 

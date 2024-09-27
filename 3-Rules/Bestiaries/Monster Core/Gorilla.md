@@ -6,6 +6,7 @@ cssClasses: pf2e
 aliases: "Compendium.pf2e.pathfinder-monster-core.Actor.PlkRv9NMKq9TShYf" 
 tags:
   - pf2e/creature/type/animal
+  - pf2eMonster
   - pf2e/creature/level/3
   - remaster
 statblock: inline
@@ -25,7 +26,7 @@ level: "Creature 3"
 
 alignment: ""
 size: "Large"
-trait_01: "animal"
+trait_01: [[animal]]
 modifier: 8
 perception:
   - name: "Perception"
@@ -61,8 +62,14 @@ attacks:
     desc: "`pf2:1` Jaws +11 ()\n__Damage__  1d8 + 4 piercing"
 
   - name: "Frightening Display"
-    desc: "`pf2:2` (auditory,emotion,fear,mental) The gorilla beats its chest in a terrifying display. Creatures within 30 feet must attempt a DC 20 Will check save.\n\nWhile a creature is [[Conditions/Frightened 1|Frightened]] by this ability, it is [[Conditions/Off-Guard|Off-Guard]] to the gorilla.\n* * *\n\n**Critical Success** No effect and temporarily immune for 1 minute.\n\n**Success** The creature is unaffected.\n\n**Failure** The creature is [[Conditions/Frightened 1|Frightened 1]].\n\n**Critical Failure** The creature is [[Conditions/Frightened 1|Frightened 2]]."
+    desc: "`pf2:2` (auditory,emotion,fear,mental) The gorilla beats its chest in a terrifying display. Creatures within 30 feet must attempt a DC 20 Will check save.\n\nWhile a creature is [[Conditions/Frightened|Frightened]] by this ability, it is [[Conditions/Off-Guard|Off-Guard]] to the gorilla.\n* * *\n\n**Critical Success** No effect and temporarily immune for 1 minute.\n\n**Success** The creature is unaffected.\n\n**Failure** The creature is [[Conditions/Frightened|Frightened 1]].\n\n**Critical Failure** The creature is [[Conditions/Frightened|Frightened 2]]."
  
+```
+
+```encounter-table
+name: Gorilla
+creatures:
+  - 1: Gorilla
 ```
 
 

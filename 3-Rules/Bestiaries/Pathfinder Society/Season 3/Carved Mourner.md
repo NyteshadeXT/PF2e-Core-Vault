@@ -4,6 +4,7 @@ obsidianUIMode: preview
 noteType: pf2eHazard
 tags:
   - haunt
+  - pf2eHazard
 
 source: Pathfinder Society Special #3-98: Expedition Into Pallid Peril
 aliases: "Compendium.pf2e.pfs-season-3-bestiary.Actor.QgyodFPH6wehKmmM" 
@@ -21,13 +22,13 @@ name: "Carved Mourner"
 level: "Hazard 1"
 
 
-trait_01: "haunt"
+trait_01: [[haunt]]
 modifier: 10
 sourcebook: "_Pathfinder Society Special #3-98: Expedition Into Pallid Peril_"
 ac: 16
 armorclass:
   - name: AC
-    desc: "16; __Fort__ +10, __Ref__ +4, __Will__ +0"
+    desc: "16; __Fort__ +10, __Ref__ +4, "
 hp: 24
 health:
   - name: ""
@@ -49,10 +50,16 @@ attacks:
   - name: ""
 
   - name: "Weep for Raseri Kanton"
-    desc: "`pf2:r` (void) **Trigger** A creature looks at the carved mourner\n**Effect** The hallways fill with a thick mist. When the mist first appears, all living creatures in area A take 1d6 void damage (DC 17 Fortitude check save), and all undead creatures regain 1d6 Hit Points. All creatures within the mist become [[Conditions/Concealed|Concealed]]. This mist lasts for 1 hour or until the haunt is disabled."
+    desc: "`pf2:r` (void) **Trigger** A creature looks at the carved mourner\n* * *\n\n**Effect** The hallways fill with a thick mist. When the mist first appears, all living creatures in area A take 1d6 void damage (DC 17 Fortitude check save), and all undead creatures regain 1d6 healing Hit Points. All creatures within the mist become [[Conditions/Concealed|Concealed]]. This mist lasts for 1 hour or until the haunt is disabled."
 
 
   - name: "Reset"
     desc: "1 hour"
+```
+
+```encounter-table
+name: Carved Mourner
+creatures:
+  - 1: Carved Mourner
 ```
 

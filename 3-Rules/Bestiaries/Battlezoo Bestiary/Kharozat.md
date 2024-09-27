@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/fiend
   - pf2e/creature/type/unholy
+  - pf2eMonster
   - pf2e/creature/level/20
 statblock: inline
 name: "Kharozat"
@@ -23,20 +24,20 @@ token: [[modules/battlezoo-bestiary-pf2e/art/kharozat.webp| ]]
 source: "Battlezoo Bestiary"
 name: "Kharozat"
 level: "Creature 20"
-rare_03: "Rare"
+rare_03: [[Rare]]
 alignment: ""
 size: "Large"
-trait_01: "evil"
-trait_02: "fiend"
-trait_03: "unholy"
+trait_01: [[evil]]
+trait_02: [[fiend]]
+trait_03: [[unholy]]
 modifier: 37
 perception:
   - name: "Perception"
     desc: "+37; Greater Darkvision, Truesight"
-languages: "Chthonian, Daemonic, Diabolic"
+languages: "Chthonian, Daemonic, Diabolic; tongues"
 skills:
   - name: "Skills"
-    desc: "Arcana: +38, Athletics: +38, Nature: +38, Occultism: +38, Religion: +38, Society: +40, Legal Lore: +40, "
+    desc: "Arcana: +38, Athletics: +38, Nature: +38, Occultism: +38, Religion: +38, Society: +40, Legal Lore: +40"
 abilityMods: [10, 6, 7, 10, 9, 6]
 speed: 40 feet
 sourcebook: "_Battlezoo Bestiary_"
@@ -77,23 +78,29 @@ attacks:
     desc: "  At the beginning of each day, a kharozat's alignment is neutral evil. Each offensive ability it uses changes its alignment. The kharozat is immune to damage of the same alignment as itself, and it has weakness 20 to damage of an opposed alignment (evil is weak against good, lawful is weak against chaotic)."
 
   - name: "Arraign"
-    desc: "`pf2:2` (divine,mental) The kharozat's prosecutor face fires a bolt of concentrated anguish, dealing 3d10 mental damage and 3d10 negative damage in a 30-foot burst centered on a target within 100 feet (basic Will save).\nThe kharozat's alignment changes to lawful evil."
+    desc: "`pf2:2` (divine,mental) The kharozat's prosecutor face fires a bolt of concentrated anguish, dealing 3d10 mental damage and 3d10 negative damage in a 30-foot burst centered on a target within 100 feet (DC 47 basic Will save).\n\nThe kharozat's alignment changes to lawful evil."
 
   - name: "Babble"
-    desc: "`pf2:2` (auditory,aura,divine,emotion,mental) Aura 120 feet.\nAll three of the kharozat's faces speak at once. Creatures within 120 feet who can hear them must succeed at a Will save or be Confused until the end of their next turn.\nThe kharozat's alignment changes to neutral evil."
+    desc: "`pf2:2` (auditory,aura,divine,emotion,mental) [[Bestiary Ability Glossary/Aura|Aura]] 120 feet.\n\nAll three of the kharozat's faces speak at once. Creatures within 120 feet who can hear them must succeed at a DC 47 Will save or be [[Conditions/Confused|Confused]] until the end of their next turn.\n\nThe kharozat's alignment changes to neutral evil."
 
   - name: "Court is in Session"
-    desc: " (divine) The kharozat can cast 10 _summon_ spells up to 10th level each day.\nThese are divine innate spells with a spell DC of 47, an unlimited duration, and a range of 1 mile. The kharozat can sustain all its summoned creatures either with one action to Sustain the Spell or by casting another _summon_ spell."
+    desc: " (divine) The kharozat can cast 10 _summon_ spells up to 10th level each day.\n\nThese are divine innate spells with a spell DC of 47, an unlimited duration, and a range of 1 mile. The kharozat can sustain all its summoned creatures either with one action to [[Actions/Sustain|Sustain the Spell]] or by casting another _summon_ spell."
 
   - name: "Execute"
-    desc: "`pf2:2` (death,divine) The kharozat's executioner face casts any common spell with the death trait as a divine innate spell (DC 47, spell attack +34).\nThe kharozat's alignment changes to chaotic evil.\n**Qualifying Spells**\n*   _Cloudkill_\n*   _Death Knell_\n*   _Finger of Death_\n*   _Massacre_\n*   _Phantasmal Killer_\n*   _Power Word Kill_\n*   _Reaper's Lantern_\n*   _Rip the Spirit_\n*   _Sanguine Mist_\n*   _Seal Fate_\n*   _Unspeakable Shadow_\n*   _Vampiric Exsanguination_\n*   _Vampiric Touch_\n*   _Voracious Gestalt_\n*   _Wail of the Banshee_\n*   _Weird_"
+    desc: "`pf2:2` (death,divine) The kharozat's executioner face casts any common spell with the death trait as a divine innate spell (DC 47, spell attack +34).\n\nThe kharozat's alignment changes to chaotic evil.\n* * *\n\n**Qualifying Spells**\n\n*   _[[Spells/Toxic Cloud|Cloudkill]]_\n*   _[[Spells/Death Knell|Death Knell]]_\n*   _[[Spells/Execute|Finger of Death]]_\n*   _[[Spells/Massacre|Massacre]]_\n*   _[[Spells/Phantasmal Killer|Phantasmal Killer]]_\n*   _[[Spells/Power Word Kill|Power Word Kill]]_\n*   _[[Spells/Reaper's Lantern|Reaper's Lantern]]_\n*   _[[Spells/Rip the Spirit|Rip the Spirit]]_\n*   _[[Spells/Sanguine Mist|Sanguine Mist]]_\n*   _[[Spells/Seal Fate|Seal Fate]]_\n*   _[[Spells/Unspeakable Shadow|Unspeakable Shadow]]_\n*   _[[Spells/Vampiric Exsanguination|Vampiric Exsanguination]]_\n*   _[[Spells/Vampiric Feast|Vampiric Touch]]_\n*   _[[Spells/Voracious Gestalt|Voracious Gestalt]]_\n*   _[[Spells/Wails of the Damned|Wail of the Banshee]]_\n*   _[[Spells/Weird|Weird]]_"
 
   - name: "Hold in Contempt"
-    desc: "`pf2:2` (divine) The kharozat's judge face spits a net of stifling energy at a target within 100 feet.\nThe target must succeed at a Reflex save or become Restrained.\nThe kharozat's alignment changes to lawful neutral.\nAfter Escaping or Forcing Open the net (DC 47), the target is Clumsy 2 for 1 minute."
+    desc: "`pf2:2` (divine) The kharozat's judge face spits a net of stifling energy at a target within 100 feet.\n\nThe target must succeed at a DC 47 Reflex save or become [[Conditions/Restrained|Restrained]].\n\nThe kharozat's alignment changes to lawful neutral.\n\nAfter [[Actions/Escape|Escaping]] or [[Actions/Force Open|Forcing Open]] the net (DC 47), the target is [[Conditions/Clumsy|Clumsy 2]] for 1 minute."
 
   - name: "Trial"
-    desc: " (divine) The kharozat takes 1 minute to 1 designate an accused (an individual or a group of any size) within 120 feet and determine a sentence. Until the accused completes its sentence or the kharozat is persuaded to commute the sentence, the kharozat and its summoned creatures gain a +2 status bonus on attack rolls and skill checks against the accused.\nEffect: Trial"
+    desc: " (divine) The kharozat takes 1 minute to 1 designate an accused (an individual or a group of any size) within 120 feet and determine a sentence. Until the accused completes its sentence or the kharozat is persuaded to commute the sentence, the kharozat and its summoned creatures gain a +2 status bonus on attack rolls and skill checks against the accused.\n* * *\n\n[[Effects/Effect_ Trial|Effect: Trial]]"
  
+```
+
+```encounter-table
+name: Kharozat
+creatures:
+  - 1: Kharozat
 ```
 
 

@@ -9,8 +9,9 @@ tags:
   - trait/monk
   - trait/uncommon
   - category/simple
+  - remaster
 aliases: "Compendium.pf2e.equipment-srd.Item.WuzK2R5ra5SZdbij"
-license: OGL
+license: ORC
 ---
 # Tri-bladed Katar
 ## Item 0
@@ -19,7 +20,7 @@ license: OGL
 |  |  |
 | -- | -- |
 | **Category** simple melee weapon | **Group** knife |
-| **Price** 8 sp |  |
+| **Price** 1 sp |  |
 | **Bulk** L | **Size** med |
 | **Damage** 1d4 piercing  | **Usage** held-in-one-hand |
 
@@ -27,5 +28,5 @@ license: OGL
 
 This punching dagger resembles the standard katar, save that a pair of blades can be folded out from the center blade, transforming the weapon into a starburst shape well suited to catching foes' weapons.
 
-*Source: Pathfinder Lost Omens: The Grand Bazaar*
-*OGL*
+*Source: Pathfinder Lost Omens: Tian Xia Character Guide*
+*ORC*

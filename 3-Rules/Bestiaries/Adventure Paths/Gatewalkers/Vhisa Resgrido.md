@@ -10,6 +10,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/human
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/4
 statblock: inline
 name: "Vhisa Resgrido"
@@ -24,14 +25,14 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #188: They Watched the Stars"
 name: "Vhisa Resgrido"
 level: "Creature 4"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Medium"
-trait_01: "aiuvarin"
-trait_02: "elf"
-trait_03: "evil"
-trait_04: "human"
-trait_05: "humanoid"
+trait_01: [[aiuvarin]]
+trait_02: [[elf]]
+trait_03: [[evil]]
+trait_04: [[human]]
+trait_05: [[humanoid]]
 modifier: 8
 perception:
   - name: "Perception"
@@ -39,7 +40,7 @@ perception:
 languages: "Common"
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +8, Deception: +11, Diplomacy: +9, Occultism: +7, Performance: +11, Society: +7, Stealth: +8, Thievery: +8, Underworld Lore: +9"
+    desc: "Acrobatics: +10, Deception: +13, Diplomacy: +11, Occultism: +9, Performance: +13, Society: +9, Stealth: +10, Thievery: +10, Underworld Lore: +11"
 abilityMods: [0, 3, 0, 2, 1, 4]
 speed: 25 feet
 sourcebook: "_Pathfinder #188: They Watched the Stars_"
@@ -79,6 +80,12 @@ attacks:
   - name: "[[Bestiary Ability Glossary/Sneak Attack|Sneak Attack]]"
     desc: "  The charlatan deals an extra 1d6 precision damage to [[Conditions/Off-Guard|Off-Guard]] creatures."
  
+```
+
+```encounter-table
+name: Vhisa Resgrido
+creatures:
+  - 1: Vhisa Resgrido
 ```
 
 

@@ -10,6 +10,7 @@ tags:
   - pf2e/creature/type/elf
   - pf2e/creature/type/evil
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/3
 statblock: inline
 name: "Drow Priestess (BB)"
@@ -27,15 +28,16 @@ level: "Creature 3"
 
 alignment: ""
 size: "Medium"
-trait_01: "chaotic"
-trait_02: "drow"
-trait_03: "elf"
-trait_04: "evil"
-trait_05: "humanoid"
+trait_01: [[chaotic]]
+trait_02: [[drow]]
+trait_03: [[elf]]
+trait_04: [[evil]]
+trait_05: [[humanoid]]
 modifier: 9
 perception:
   - name: "Perception"
     desc: "+9; Darkvision"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Deception: +8, Intimidation: +8, Religion: +9, Society: +5, Stealth: +7"
@@ -75,6 +77,12 @@ attacks:
   - name: "Cleric Spells"
     desc: "DC 21, attack +13; __2nd __  _[[Spells/Dispel Magic|Dispel Magic]]_, _[[Spells/Heal|Heal]]_, _[[Spells/Heal|Heal]]_, _[[Spells/Heal|Heal]]_, _[[Spells/Resist Energy|Resist Energy]]_; __1st __  _[[Spells/Command|Command]]_, _[[Spells/Fear|Fear]]_, _[[Spells/Runic Weapon|Magic Weapon]]_\n__Cantrips__  __(4th)__ _[[Spells/Detect Magic|Detect Magic]]_, _[[Spells/Guidance|Guidance]]_, _[[Spells/Message|Message]]_, _[[Spells/Shield|Shield]]_, _[[Spells/Stabilize|Stabilize]]_"
  
+```
+
+```encounter-table
+name: Drow Priestess (BB)
+creatures:
+  - 1: Drow Priestess (BB)
 ```
 
 

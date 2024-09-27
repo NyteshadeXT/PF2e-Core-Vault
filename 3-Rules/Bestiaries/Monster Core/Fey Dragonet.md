@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.pathfinder-monster-core.Actor.QIXc18xHrEWDmtKW"
 tags:
   - pf2e/creature/type/dragon
   - pf2e/creature/type/fey
+  - pf2eMonster
   - pf2e/creature/level/2
   - remaster
 statblock: inline
@@ -19,14 +20,15 @@ license: ORC
 columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
+token: [[modules/pf2e-tokens-bestiaries/portraits/draconic/faerie-dragon.webp| ]]
 source: "Pathfinder Monster Core"
 name: "Fey Dragonet"
 level: "Creature 2"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "tiny"
-trait_01: "dragon"
-trait_02: "fey"
+trait_01: [[dragon]]
+trait_02: [[fey]]
 modifier: 8
 perception:
   - name: "Perception"
@@ -65,8 +67,14 @@ attacks:
     desc: "DC 21, attack +13; __4th __  _[[Spells/Invisibility|Invisibility (Self Only)]]_"
 
   - name: "Euphoric Breath"
-    desc: "`pf2:2` (arcane,poison) The dragonet breathes euphoric gas in a 15-foot cone. Each creature in the area must succeed at a DC 18 Fortitude check save or become [[Conditions/Stupefied 1|Stupefied 2]] and [[Conditions/Slowed 1|Slowed 1]] for 1d4 rounds; on a critical failure, the duration is 1 minute.\n\nThe fey dragonet can't use Euphoric Breath again for 1d4 rounds."
+    desc: "`pf2:2` (arcane,poison) The dragonet breathes euphoric gas in a @Template[cone|distance:15]. Each creature in the area must succeed at a DC 18 Fortitude check save or become [[Conditions/Stupefied|Stupefied 2]] and [[Conditions/Slowed|Slowed 1]] for 1d4 rounds; on a critical failure, the duration is 1 minute.\n\nThe fey dragonet can't use Euphoric Breath again for 1d4 rounds."
  
+```
+
+```encounter-table
+name: Fey Dragonet
+creatures:
+  - 1: Fey Dragonet
 ```
 
 

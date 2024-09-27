@@ -24,7 +24,7 @@ You bind yourself to the very essence of stone. You become trained in Plane of E
 
 * * *
 
-**Special** You cannot select another dedication feat until you have gained two other feats from the stonebound archetype.
+**Special** You cannot select another dedication feat until you have gained two other feats from the [[PF2e Journals/Archetypes/Stonebound|Stonebound]] archetype.
 
 *Source: Pathfinder #195: Heavy is the Crown*
 *OGL*

@@ -10,6 +10,7 @@ tags:
   - pf2e/creature/type/undead
   - pf2e/creature/type/unholy
   - pf2e/creature/type/zombie
+  - pf2eMonster
   - pf2e/creature/level/4
 statblock: inline
 name: "Zombie Megaloceros"
@@ -24,18 +25,19 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #176: Lost Mammoth Valley"
 name: "Zombie Megaloceros"
 level: "Creature 4"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Large"
-trait_01: "evil"
-trait_02: "mindless"
-trait_03: "undead"
-trait_04: "unholy"
-trait_05: "zombie"
+trait_01: [[evil]]
+trait_02: [[mindless]]
+trait_03: [[undead]]
+trait_04: [[unholy]]
+trait_05: [[zombie]]
 modifier: 10
 perception:
   - name: "Perception"
     desc: "+10; Low-Light Vision, Scent (Imprecise) 30 Feet"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Athletics: +13, Survival: +10"
@@ -55,7 +57,7 @@ abilities_top:
   - name: ""
 
   - name: "Slow"
-    desc: "  A zombie is permanently [[Conditions/Slowed 1|Slowed 1]] and can't use reactions."
+    desc: "  A zombie is permanently [[Conditions/Slowed|Slowed 1]] and can't use reactions."
 
 abilities_mid:
   - name: ""
@@ -71,6 +73,12 @@ attacks:
   - name: "Furious Charge"
     desc: "`pf2:2`  The megaloceros Strides twice and makes a hoof Strike after either Stride. If the Strike hits, the megaloceros deals an additional 2d4 bludgeoning damage."
  
+```
+
+```encounter-table
+name: Zombie Megaloceros
+creatures:
+  - 1: Zombie Megaloceros
 ```
 
 

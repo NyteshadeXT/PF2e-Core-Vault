@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/astral
   - pf2e/creature/type/evil
   - pf2e/creature/type/fire
+  - pf2eMonster
   - pf2e/creature/level/10
 statblock: inline
 name: "Living Constellation"
@@ -27,18 +28,18 @@ level: "Creature 10"
 
 alignment: ""
 size: "Large"
-trait_01: "aberration"
-trait_02: "astral"
-trait_03: "evil"
-trait_04: "fire"
+trait_01: [[aberration]]
+trait_02: [[astral]]
+trait_03: [[evil]]
+trait_04: [[fire]]
 modifier: 19
 perception:
   - name: "Perception"
     desc: "+19; "
-languages: "Common"
+languages: "Common; can&#x27;t speak any language"
 skills:
   - name: "Skills"
-    desc: "Arcana: +19, Deception: +19, Intimidation: +22, Nature: +19, Occultism: +19, Stealth: +22 (+25 to Hide in the night sky among the stars), "
+    desc: "Arcana: +19, Deception: +19, Intimidation: +22, Nature: +19, Occultism: +19, Stealth: +22, Arcana: +19, Deception: +19, Intimidation: +22, Nature: +19, Occultism: +19, Stealth: +22"
 abilityMods: [5, 5, 3, 4, 5, 7]
 speed: 25 feet,  fly 50 feet
 sourcebook: "_Battlezoo Bestiary: Strange and Unusual_"
@@ -57,10 +58,10 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Consume Fear"
-    desc: "`pf2:r` (mental,primal) **Trigger** A creature becomes frightened within 30 feet of the living constellation.\n**Effect** The living constellation attempts to feed off of the fear of the target, forcing it to attempt a DC 29 Will check save.\n**Critical Success** The creature is unaffected.\n**Success** The creature takes 2d12 mental damage.\n**Failure** The creature takes 3d12 mental damage and becomes Slowed 1 for 1 round.\n**Critical Failure** The creature takes 4d12 mental damage and becomes slowed 1 for 1 round or as long as it is frightened, whichever is longer."
+    desc: "`pf2:r` (mental,primal) **Trigger** A creature becomes frightened within 30 feet of the living constellation.\n* * *\n\n**Effect** The living constellation attempts to feed off of the fear of the target, forcing it to attempt a DC 29 Will check save.\n* * *\n\n**Critical Success** The creature is unaffected.\n\n**Success** The creature takes 2d12 mental damage.\n\n**Failure** The creature takes 3d12 mental damage and becomes [[undefined]] for 1 round.\n\n**Critical Failure** The creature takes 4d12 mental damage and becomes slowed 1 for 1 round or as long as it is frightened, whichever is longer."
 
   - name: "[[Bestiary Ability Glossary/Frightful Presence|Frightful Presence]]"
-    desc: " (aura,emotion,fear,mental) 10 feet DC 26 Will check\n"
+    desc: " (aura,emotion,fear,mental) 10 feet DC 26 Will check\n\n* * *\n"
 
 attacks:
   - name: ""
@@ -69,11 +70,17 @@ attacks:
     desc: "DC 29, attack +21; __3rd __  _[[Spells/Holy Light|Searing Light]]_; __2nd __  _[[Spells/Guiding Star|Guiding Star (At Will)]]_\n__Cantrips__  __(5th)__ _[[Spells/Guidance|Guidance]]_, _[[Spells/Light|Light]]_"
 
   - name: "Alter Form"
-    desc: "`pf2:1` (stance) The variability of the cosmos allows the constellation to alter its form. It assumes one of the following stances.\n*   **Archer Stance** The living constellation takes on a humanoid form, resembling the graceful shots of an archer. While in this stance, the only attacks the constellation can make are shooting star Strikes.\n*   **Crab Stance** The living constellation flattens itself, growing the limbs of a crab. While in this stance, the living constellation gains a +2 status bonus to AC and the only attack the constellation can make are cosmic claw Strikes.\n*   **Scorpion Stance** The living constellation contracts into the form of a large scorpion. While in this stance, the living constellation gains a +25-foot status bonus to its Speeds, and the only attack the constellation can make are astral stinger Strikes."
+    desc: "`pf2:1` (stance) The variability of the cosmos allows the constellation to alter its form. It assumes one of the following stances.\n\n*   **Archer Stance** The living constellation takes on a humanoid form, resembling the graceful shots of an archer. While in this stance, the only attacks the constellation can make are shooting star Strikes.\n*   **Crab Stance** The living constellation flattens itself, growing the limbs of a crab. While in this stance, the living constellation gains a +2 status bonus to AC and the only attack the constellation can make are cosmic claw Strikes.\n*   **Scorpion Stance** The living constellation contracts into the form of a large scorpion. While in this stance, the living constellation gains a +25-foot status bonus to its Speeds, and the only attack the constellation can make are astral stinger Strikes."
 
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
     desc: "`pf2:1`  "
  
+```
+
+```encounter-table
+name: Living Constellation
+creatures:
+  - 1: Living Constellation
 ```
 
 

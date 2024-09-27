@@ -20,7 +20,7 @@ Some emotional states, such as love or hatred, require the caster to focus on a 
 
 ## [[Feats/Cathartic Mage Dedication|Cathartic Mage Dedication]] Feat 2
 
-**Prerequisites** Charisma +2 or ability to cast spells from spell slotes
+**Prerequisites** Charisma +2 or ability to cast spells from spell slots
 
 * * *
 
@@ -34,25 +34,145 @@ You gain the [[Actions/Catharsis|Catharsis]] reaction and the [[Actions/Settle E
 
 **Emotional States:**
 
-[[Class Features/Catharsis Emotion (Anger)|Catharsis Emotion (Anger)]]
+### Anger
 
-[[Class Features/Catharsis Emotion (Awe)|Catharsis Emotion (Awe)]]
+Your destructive wrath allows you to harm your foes but causes you pain in the process.
 
-[[Class Features/Catharsis Emotion (Dedication)|Catharsis Emotion (Dedication)]]
+**Catharsis Trigger** An enemy deals damage to you. You can't use this reaction if you're [[Conditions/Fatigued|Fatigued]].
 
-[[Class Features/Catharsis Emotion (Fear)|Catharsis Emotion (Fear)]]
+**Catharsis Activation** If you're [[Conditions/Grabbed|Grabbed]], [[Conditions/Immobilized|Immobilized]], or [[Conditions/Restrained|Restrained]], you can attempt to [[Actions/Escape|Escape]]. If you succeed, the creature or hazard imposing the condition on you (if applicable) takes force damage equal to your level.
 
-[[Class Features/Catharsis Emotion (Hatred)|Catharsis Emotion (Hatred)]]
+**Emotional Fervor** When you Cast a Spell from your spell slots, if the spell deals damage and doesn't have a duration, you gain a status bonus to that spell's damage equal to the spell's rank. Spell: [[Spells/Draw Ire|Draw Ire]]
 
-[[Class Features/Catharsis Emotion (Joy)|Catharsis Emotion (Joy)]]
+**Emotional Fallout** You become [[Conditions/Fatigued|Fatigued]] until you Settle your Emotions.
 
-[[Class Features/Catharsis Emotion (Love)|Catharsis Emotion (Love)]]
+**Focus Spell** [[Spells/Athletic Rush|Athletic Rush]]
 
-[[Class Features/Catharsis Emotion (Misery)|Catharsis Emotion (Misery)]]
+### Awe
 
-[[Class Features/Catharsis Emotion (Pride)|Catharsis Emotion (Pride)]]
+Your powerful sense of wonderment can be infectious and distracting.
 
-[[Class Features/Catharsis Emotion (Remorse)|Catharsis Emotion (Remorse)]]
+**Catharsis Trigger** You or an ally within 30 feet critically succeeds on an attack roll against an enemy's AC or a skill check against one of an enemy's DCs.
+
+**Catharsis Activation** If you're [[Conditions/Fascinated|Fascinated]] or [[Conditions/Stupefied|Stupefied]], you can attempt an additional save to end the effect if it allowed a save.
+
+**Emotional Fervor** When you cast a spell, choose one creature that was hit by your spell attack roll or that failed its saving throw, if any. That creature becomes fascinated with you until the end of its next turn. It's then temporarily immune to this fervor effect for 1 hour. Spell: [[Spells/Revealing Light|Revealing Light]]
+
+**Emotional Fallout** You become [[Conditions/Off-Guard|Off-Guard]] until you Settle your Emotions.
+
+**Focus Spell** [[Spells/Dazzling Flash|Dazzling Flash]] (doesn't require a religious symbol)
+
+### Dedication
+
+Your commitment protects those you are dedicated to but can lead to dependency. Your emotional focus is an individual creature you're bound to.
+
+**Catharsis Trigger** Your emotional focus takes damage from an enemy while within 30 feet of you.
+
+**Catharsis Activation** Your emotional focus gains a number of temporary Hit Points equal to half your level rounded up. These temporary HP last for 1 minute.
+
+**Emotional Fervor** Your spells that target your emotional focus gain the benefits of Reach Spell. When you cast a healing spell that affects your emotional focus, your emotional focus also gains temporary HP equal to the spell's rank in addition to the spell's effects. These temporary HP last for 1 minute. Spell: [[Spells/Spirit Link|Spirit Link]]
+
+**Emotional Fallout** Until you Settle your Emotions, you can't Cast Spells unless you're adjacent to your emotional focus.
+
+**Focus Spell** [[Spells/Protector's Sacrifice|Protector's Sacrifice]]
+
+### Fear
+
+You let your fear fuel you, rather than consume you, but it burns your endurance.
+
+**Catharsis Trigger** An enemy makes you [[Conditions/Frightened|Frightened]].
+
+**Catharsis Activation** Increase your frightened value by 1, to a maximum of [[Conditions/Frightened|Frightened 4]].
+
+**Emotional Fervor** You don't take the status penalty from the frightened condition to your spell DCs or spell attack bonus. Instead, you gain a status bonus to spell attack rolls equal to the penalty you would've taken, and your foes take the same status penalty to their saving throws against your spells. Any other statistic takes the status penalty as normal. Spell: [[Spells/Fear|Fear]]
+
+**Emotional Fallout** You are [[Conditions/Fleeing|Fleeing]] for 2 rounds, running from the source of the frightened condition that triggered your Catharsis. If that source is no longer present, you instead flee from the position where you were at the start of your emotional fallout.
+
+**Focus Spell** [[Spells/Waking Nightmare|Waking Nightmare]]
+
+### Hatred
+
+Your unabashed hatred consumes your soul and causes your foe to falter. Your emotional focus is an individual enemy you detest.
+
+**Catharsis Trigger** You start your first turn in an encounter against your emotional focus or one of their followers. If the encounter includes multiple eligible followers and doesn't include your actual emotional focus, choose one of the followers to act as your emotional focus for this encounter (or until your actual emotional focus shows up).
+
+**Catharsis Activation** You can Step or Stride. You must end this movement closer to your emotional focus.
+
+**Emotional Fervor** Your emotional focus is [[Conditions/Off-Guard|Off-Guard]] to you and takes a –2 status penalty to saves against your spells. You're off-guard to your emotional focus and take a –2 status penalty to saves against it. Spell: [[Spells/Blood Vendetta|Blood Vendetta]]
+
+**Emotional Fallout** You become [[Conditions/Stunned|Stunned 2]].
+
+**Focus Spell** [[Spells/Cry of Destruction|Cry of Destruction]]
+
+### Joy
+
+Your unbridled enthusiasm and positive attitude can lead you to success, but you might expend more energy than you planned.
+
+**Catharsis Trigger** You critically succeed on an attack roll or save, or an enemy critically fails on a save against you.
+
+**Catharsis Activation** Reduce the value of any [[Conditions/Frightened|Frightened]] or [[Conditions/Stupefied|Stupefied]] condition you have by 1 and end any persistent mental damage you have.
+
+**Emotional Fervor** You gain a +1 status bonus to Performance checks and to the spell attack rolls of emotion spells, and enemies take a –1 status penalty to saves against your emotion spells. Spell: [[Spells/Laughing Fit|Laughing Fit]]
+
+**Emotional Fallout** You become [[Conditions/Fatigued|Fatigued]] until you Settle your Emotions.
+
+**Focus Spell** [[Spells/Unimpeded Stride|Unimpeded Stride]]
+
+### Love
+
+You're joined by the bonds of love and nothing can break that, but love can distract you from other things in your life. Your emotional focus is someone you're in love with; they aren't required to love you back.
+
+**Catharsis Trigger** Your emotional focus takes damage from an enemy while within 30 feet of you.
+
+**Catharsis Activation** If either you or your emotional focus is [[Conditions/Confused|Confused]] or [[Conditions/Controlled|Controlled]], one of you can attempt a new saving throw against one confusing or controlling effect (if it allowed a save), ending the condition if the new save is a success. If both of you are eligible, your emotional focus gets the new save.
+
+**Emotional Fervor** You gain a +1 status bonus to Will saves. If you cast a spell to benefit your emotional focus, this bonus increases to +3 until the start of your next turn. Spell: [[Spells/Soothe|Soothe]]
+
+**Emotional Fallout** You're [[Conditions/Fascinated|Fascinated]] with your emotional focus for 1 minute.
+
+**Focus Spell** [[Spells/Soothing Words|Soothing Words]]
+
+### Misery
+
+To suffer is to know you're alive; to make your enemies suffer as greatly as you have eases your suffering.
+
+**Catharsis Trigger** You gain persistent damage from a foe.
+
+**Catharsis Activation** You gain a number of temporary Hit Points equal to your level. They last for 1 minute.
+
+**Emotional Fervor** You can choose not to attempt a flat check to end persistent damage you're taking. When you cast a damaging spell, you can choose one creature that failed its save or that you hit with your spell attack roll. That target takes persistent damage of the same type the spell dealt, of an amount equal to the highest amount of persistent damage you currently have. You can't choose a creature that's already taking persistent damage. Spell: [[Spells/Phantom Pain|Phantom Pain]]
+
+**Emotional Fallout** You take an untyped penalty to any damage you would deal with any spell you cast until you Settle your Emotions. The penalty is –1 per spell rank.
+
+**Focus Spell** [[Spells/Savor the Sting|Savor the Sting]]
+
+### Pride
+
+All is well as long as you appear well, but you get caught up in the moment and lose track of what's important.
+
+**Catharsis Trigger** You critically fail on an attack roll or saving throw.
+
+**Catharsis Activation** The critical failure becomes a failure.
+
+**Emotional Fervor** Each time you cast an illusion spell, until the start of your next turn, any critical failure you roll on an attack roll or saving throw is a failure instead. Spell: [[Spells/Dizzying Colors|Dizzying Colors]]
+
+**Emotional Fallout** You momentarily lose track of what's real, becoming [[Conditions/Confused|Confused]] for 1 round. Spell: [[Spells/Mirror Image|Mirror Image]]
+
+**Focus Spell** [[Spells/Veil of Confidence|Veil of Confidence]]
+
+### Remorse
+
+You attempt to overcome your failings, but your guilt stays with you.
+
+**Catharsis Trigger** An ally within 30 feet drops to 0 Hit Points.
+
+**Catharsis Activation** You Step or Stride. You must end this movement closer to the triggering ally.
+
+**Emotional Fervor** Any spell you cast that restores Hit Points to the triggering ally gets a status bonus to the Hit Points healed equal to the spell's rank, or double the spell's rank if the ally is at 0 Hit Points. Spell: [[Spells/Warrior's Regret|Warrior's Regret]]
+
+**Emotional Fallout** Your emotional weight crushes you, leaving you [[Conditions/Stupefied|Stupefied 2]] until you Settle your Emotions.
+
+**Focus Spell** [[Spells/Healer's Blessing|Healer's Blessing]]
 
 * * *
 

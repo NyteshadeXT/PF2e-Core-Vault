@@ -10,6 +10,7 @@ tags:
   - pf2e/creature/type/lawful
   - pf2e/creature/type/unholy
   - pf2e/creature/type/velstrac
+  - pf2eMonster
   - pf2e/creature/level/16
 statblock: inline
 name: "Precentor"
@@ -24,14 +25,14 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #147: Tomorrow Must Burn"
 name: "Precentor"
 level: "Creature 16"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Medium"
-trait_01: "evil"
-trait_02: "fiend"
-trait_03: "lawful"
-trait_04: "unholy"
-trait_05: "velstrac"
+trait_01: [[evil]]
+trait_02: [[fiend]]
+trait_03: [[lawful]]
+trait_04: [[unholy]]
+trait_05: [[velstrac]]
 modifier: 32
 perception:
   - name: "Perception"
@@ -56,12 +57,12 @@ abilities_top:
   - name: ""
 
   - name: "Painsight"
-    desc: " (divine) A precentor automatically knows whether a creature it sees has any of the [[Conditions/Doomed 1|Doomed]], [[Conditions/Dying 1|Dying]], and [[Conditions/Wounded 1|Wounded]] conditions, as well as the value of those conditions."
+    desc: " (divine) A precentor automatically knows whether a creature it sees has any of the [[Conditions/Doomed|Doomed]], [[Conditions/Dying|Dying]], and [[Conditions/Wounded|Wounded]] conditions, as well as the value of those conditions."
 
 abilities_mid:
   - name: ""
   - name: "Unnerving Gaze"
-    desc: " (aura,divine,mental,visual) 30 feet. When a creature ends its turn in the aura, it must succeed at a DC 38 Will check save or become [[Conditions/Doomed 1|Doomed 1]]."
+    desc: " (aura,divine,mental,visual) 30 feet. When a creature ends its turn in the aura, it must succeed at a DC 38 Will check save or become [[Conditions/Doomed|Doomed 1]]."
 
 attacks:
   - name: ""
@@ -76,11 +77,17 @@ attacks:
     desc: "`pf2:2`  The precentor adds a creature that is affected by its Tormenting Touch and is within 100 feet to its choir of screams. A precentor can have any number of creatures in its choir, although a creature no longer affected by Tormenting Touch leaves the choir immediately. Creatures in a precentor's choir of screams are [[Conditions/Fascinated|Fascinated]] by each other and the precentor, and they can't use hostile actions toward each other or the precentor. When the precentor casts an innate divine spell, it can cause the effect to originate from any member of its choir instead of itself, using the precentor's saving throw DC and attack bonus."
 
   - name: "Focus Gaze"
-    desc: "`pf2:1` (concentrate,divine,mental,visual) The precentor stares at a creature it can see within 30 feet. The target must immediately attempt a DC 38 Will check save against the precentor's unnerving gaze.\nIn addition, if the creature was already [[Conditions/Doomed 1|Doomed]], on a failed save, it sees the skin of its own body peel back, making it [[Conditions/Confused|Confused]] for as long as it remains [[Conditions/Doomed 1|Doomed]]. After attempting this save, the creature is then temporarily immune until the start of the precentor's next turn."
+    desc: "`pf2:1` (concentrate,divine,mental,visual) The precentor stares at a creature it can see within 30 feet. The target must immediately attempt a DC 38 Will check save against the precentor's unnerving gaze.\n\nIn addition, if the creature was already [[Conditions/Doomed|Doomed]], on a failed save, it sees the skin of its own body peel back, making it [[Conditions/Confused|Confused]] for as long as it remains [[Conditions/Doomed|Doomed]]. After attempting this save, the creature is then temporarily immune until the start of the precentor's next turn."
 
   - name: "Tormenting Touch"
-    desc: "`pf2:1` (divine,emotion,mental) The precentor touches a creature within 10 feet, causing it to constantly scream in agony. The target must attempt a DC 38 Will check save.\nWhile the target is stupefied by this effect, its continual screams cause it to automatically fail Stealth checks.\n**Critical Success** The target is unaffected.\n**Success** The target is [[Conditions/Stupefied 1|Stupefied 1]].\n**Failure** The target is [[Conditions/Stupefied 1|Stupefied 3]].\n**Critical Failure** The target is [[Conditions/Stupefied 1|Stupefied 4]].\nThe target can attempt a new Will save at the start of each of its turns, reducing the stupefied condition by 1 on each successful save. If the target reduces its stupefied condition to 0 in this way, the target is no longer affected."
+    desc: "`pf2:1` (divine,emotion,mental) The precentor touches a creature within 10 feet, causing it to constantly scream in agony. The target must attempt a DC 38 Will check save.\n\nWhile the target is stupefied by this effect, its continual screams cause it to automatically fail Stealth checks.\n* * *\n\n**Critical Success** The target is unaffected.\n\n**Success** The target is [[Conditions/Stupefied|Stupefied 1]].\n\n**Failure** The target is [[Conditions/Stupefied|Stupefied 3]].\n\n**Critical Failure** The target is [[Conditions/Stupefied|Stupefied 4]].\n\nThe target can attempt a new Will save at the start of each of its turns, reducing the stupefied condition by 1 on each successful save. If the target reduces its stupefied condition to 0 in this way, the target is no longer affected."
  
+```
+
+```encounter-table
+name: Precentor
+creatures:
+  - 1: Precentor
 ```
 
 

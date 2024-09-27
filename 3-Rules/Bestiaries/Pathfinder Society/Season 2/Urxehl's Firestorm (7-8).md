@@ -8,6 +8,7 @@ tags:
   - fire
   - magical
   - unholy
+  - pf2eHazard
   - complex
 source: Pathfinder Society Scenario #2-22: Breaking the Storm: Excising Ruination
 aliases: "Compendium.pf2e.pfs-season-2-bestiary.Actor.AkKxh2OXfWEb5OHt" 
@@ -25,11 +26,11 @@ name: "Urxehl's Firestorm (7-8)"
 level: "Hazard 6"
 
 trait_06: "Complex"
-trait_01: "environmental"
-trait_02: "evil"
-trait_03: "fire"
-trait_04: "magical"
-trait_05: "unholy"
+trait_01: [[environmental]]
+trait_02: [[evil]]
+trait_03: [[fire]]
+trait_04: [[magical]]
+trait_05: [[unholy]]
 modifier: 15
 sourcebook: "_Pathfinder Society Scenario #2-22: Breaking the Storm: Excising Ruination_"
 perception:
@@ -48,7 +49,7 @@ attacks:
   - name: ""
 
   - name: "Urxehl's Ire"
-    desc: "`pf2:r` **Trigger** A creature who doesn't worship Urxehl walks into the hazard's area\n**Effect** The hazard rolls initiative as bolts of profane fire begin to target the intruders."
+    desc: "`pf2:r` **Trigger** A creature who doesn't worship Urxehl walks into the hazard's area\n* * *\n\n**Effect** The hazard rolls initiative as bolts of profane fire begin to target the intruders."
 
   - name: "No MAP"
     desc: "passive Multiple Attack Penalties do not apply to the corrupted fire bolt strike."
@@ -58,5 +59,11 @@ attacks:
 
   - name: "Reset"
     desc: "The hazard activates when the PCs reach **Event: Rain of Fire**, area **A1**, and area **A9**. If the PCs defeat the Disciple of Urxehl, the hazard is permanently destroyed."
+```
+
+```encounter-table
+name: Urxehl's Firestorm (7-8)
+creatures:
+  - 1: Urxehl's Firestorm (7-8)
 ```
 

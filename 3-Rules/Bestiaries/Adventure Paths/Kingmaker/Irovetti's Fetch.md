@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/chaotic
   - pf2e/creature/type/evil
   - pf2e/creature/type/fey
+  - pf2eMonster
   - pf2e/creature/level/20
 statblock: inline
 name: "Irovetti&#x27;s Fetch"
@@ -22,17 +23,17 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Kingmaker"
 name: "Irovetti's Fetch"
 level: "Creature 20"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Large"
-trait_01: "chaotic"
-trait_02: "evil"
-trait_03: "fey"
+trait_01: [[chaotic]]
+trait_02: [[evil]]
+trait_03: [[fey]]
 modifier: 36
 perception:
   - name: "Perception"
     desc: "+36; Darkvision"
-languages: "Common, Fey"
+languages: "Common, Fey; tongues"
 skills:
   - name: "Skills"
     desc: "Athletics: +39, Deception: +39, Intimidation: +39, Society: +32"
@@ -63,8 +64,14 @@ attacks:
     desc: "DC 40, attack +31; __10th __  _[[Spells/Execute|Finger of Death]]_; __9th __  _[[Spells/Disjunction|Disjunction]]_; __7th __  _[[Spells/Interplanar Teleport|Plane Shift (to or from the First World only)]]_\n__Cantrips__  __(10th)__ _[[Spells/Produce Flame|Produce Flame]]_, _[[Spells/Read Aura|Read Aura]]_\n__Constant__  __(9th)__ _[[Spells/Air Walk|Air Walk]]_, _[[Spells/Truespeech|Tongues]]_"
 
   - name: "Manifest Fetch Weapon"
-    desc: " (primal) **Trigger** The fetch starts its turn\n**Effect** A fetch weapon manifests in the fetch's hand. As soon as a fetch weapon is no longer wielded by a fetch, it vanishes. The fetch chooses the type of weapon it manifests, but it does not gain any of that weapon's standard weapon traits, instead using the traits listed above in the fetch weapon Strike."
+    desc: " (primal) **Trigger** The fetch starts its turn\n\n**Effect** A fetch weapon manifests in the fetch's hand. As soon as a fetch weapon is no longer wielded by a fetch, it vanishes. The fetch chooses the type of weapon it manifests, but it does not gain any of that weapon's standard weapon traits, instead using the traits listed above in the fetch weapon Strike."
  
+```
+
+```encounter-table
+name: Irovetti's Fetch
+creatures:
+  - 1: Irovetti's Fetch
 ```
 
 

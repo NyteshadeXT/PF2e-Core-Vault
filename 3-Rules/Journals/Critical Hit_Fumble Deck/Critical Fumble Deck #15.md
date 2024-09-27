@@ -14,13 +14,13 @@ tags:
 
 # My Spleeny Bits!
 
-> You become [[Conditions/Wounded 1|Wounded 1]] or your wounded value increases by 1.
+> You become [[Conditions/Wounded|Wounded 1]] or your wounded value increases by 1.
 
 `Ranged`
 
 # Frustration
 
-> You take a [[Other Effects/Effect\_ -2 circumstance penalty to attack rolls|-2 circumstance penalty to attack rolls]] until the end of your next turn.
+> You take a [[Other Effects/Effect_ -2 circumstance penalty to attack rolls|-2 circumstance penalty to attack rolls]] until the end of your next turn.
 
 `Unarmed`
 

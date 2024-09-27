@@ -18,5 +18,5 @@ license: OGL
 
 You gain a +1 status bonus to AC and resistance depending on your harrow omen.
 
-*Source: Pathfinder: Stolen Fate Player's Guide*
+*Source: Pathfinder Stolen Fate Player's Guide*
 *OGL*

@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/humanoid
   - pf2e/creature/type/mutant
   - pf2e/creature/type/serpentfolk
+  - pf2eMonster
   - pf2e/creature/level/9
 statblock: inline
 name: "Salathiss"
@@ -23,18 +24,18 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #170: Spoken on the Song Wind"
 name: "Salathiss"
 level: "Creature 9"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Medium"
-trait_01: "evil"
-trait_02: "humanoid"
-trait_03: "mutant"
-trait_04: "serpentfolk"
+trait_01: [[evil]]
+trait_02: [[humanoid]]
+trait_03: [[mutant]]
+trait_04: [[serpentfolk]]
 modifier: 19
 perception:
   - name: "Perception"
     desc: "+19; Darkvision, Scent (Imprecise) 30 Feet"
-languages: "Aklo, Common, Draconic"
+languages: "Aklo, Common, Draconic; telepathy 100 feet"
 skills:
   - name: "Skills"
     desc: "Arcana: +18, Deception: +21, Diplomacy: +19, Intimidation: +19, Occultism: +18, Society: +18, Stealth: +18"
@@ -78,8 +79,14 @@ attacks:
     desc: " (exploration,fortune,occult) If Salathiss interacts with a creature for 10 minutes, he can choose to expertly duplicate that person. He can roll any Deception check to Impersonate that person twice and take the higher result. This benefit lasts for 24 hours or until he uses this ability on a different creature."
 
   - name: "Serpentfolk Venom"
-    desc: " (poison) **Saving Throw** DC 26 Fortitude check\n**Maximum Duration** 6 rounds\n**Stage 1** 2d4 poison damage and [[Conditions/Enfeebled 1|Enfeebled 1]] (1 round)\n**Stage 2** 3d4 poison damage and [[Conditions/Enfeebled 1|Enfeebled 2]] (1 round)"
+    desc: " (poison) **Saving Throw** DC 26 Fortitude check\n\n**Maximum Duration** 6 rounds\n\n**Stage 1** 2d4 poison damage and [[Conditions/Enfeebled|Enfeebled 1]] (1 round)\n\n**Stage 2** 3d4 poison damage and [[Conditions/Enfeebled|Enfeebled 2]] (1 round)"
  
+```
+
+```encounter-table
+name: Salathiss
+creatures:
+  - 1: Salathiss
 ```
 
 

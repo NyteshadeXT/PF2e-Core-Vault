@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.pathfinder-monster-core.Actor.BIZfjoz8DZt75EDn"
 tags:
   - pf2e/creature/type/humanoid
   - pf2e/creature/type/kobold
+  - pf2eMonster
   - pf2e/creature/level/-1
   - remaster
 statblock: inline
@@ -26,8 +27,8 @@ level: "Creature -1"
 
 alignment: ""
 size: "Small"
-trait_01: "humanoid"
-trait_02: "kobold"
+trait_01: [[humanoid]]
+trait_02: [[kobold]]
 modifier: 3
 perception:
   - name: "Perception"
@@ -61,10 +62,10 @@ attacks:
     desc: "`pf2:1` Spear +3 ()\n__Damage__  1d6 + 1 piercing"
 
   - name: "Ranged"
-    desc: "`pf2:1` Sling +5 (propulsive, range increment 50 feet, reload 1)\n__Damage__  1d4 bludgeoning"
+    desc: "`pf2:1` Spear +5 (thrown 20 ft.)\n__Damage__  1d6 + 1 piercing"
 
   - name: "Ranged"
-    desc: "`pf2:1` Spear +5 (thrown 20 ft.)\n__Damage__  1d6 + 1 piercing"
+    desc: "`pf2:1` Sling +5 (propulsive, range increment 50 feet, reload 1)\n__Damage__  1d4 bludgeoning"
 
   - name: "Scamper"
     desc: "`pf2:1`  **Requirements** The kobold warrior is adjacent to at least one enemy\n* * *\n\n**Effect** The kobold warrior Strides up to their Speed plus 5 feet and gains a +2 circumstance bonus to AC against reactions triggered by this movement. They must end this movement in a space that's not adjacent to any enemy."
@@ -72,6 +73,12 @@ attacks:
   - name: "Sneak Attack"
     desc: "  The kobold warrior deals an extra 1d4 precision damage to off-guard creatures."
  
+```
+
+```encounter-table
+name: Kobold Warrior
+creatures:
+  - 1: Kobold Warrior
 ```
 
 

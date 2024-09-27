@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/aberration
   - pf2e/creature/type/chaotic
   - pf2e/creature/type/evil
+  - pf2eMonster
   - pf2e/creature/level/10
 statblock: inline
 name: "Ofalth"
@@ -26,17 +27,17 @@ level: "Creature 10"
 
 alignment: ""
 size: "Large"
-trait_01: "aberration"
-trait_02: "chaotic"
-trait_03: "evil"
+trait_01: [[aberration]]
+trait_02: [[chaotic]]
+trait_03: [[evil]]
 modifier: 18
 perception:
   - name: "Perception"
     desc: "+18; Darkvision"
-languages: "Common"
+languages: "Common; (can&#x27;t speak any language)"
 skills:
   - name: "Skills"
-    desc: "Athletics: +23, Stealth: +19 (+23 in trash and rubbish)"
+    desc: "Athletics: +23, Stealth: +19"
 abilityMods: [7, 3, 6, -2, 2, -2]
 speed: 30 feet
 sourcebook: "_Pathfinder Bestiary_"
@@ -61,7 +62,7 @@ abilities_mid:
     desc: "  A ofalth gains fast healing 2 when in an area with a high concentration of debris, junk, or excrement, such as a refuse heap or sewer."
 
   - name: "Putrid Stench"
-    desc: " (aura) 30 feet. A creature entering the aura must succeed at a DC 28 Fortitude check save or become [[Conditions/Sickened 1|Sickened 1]] until the end of its turn (plus [[Conditions/Slowed 1|Slowed 1]] for as long as it is sickened on a critical failure). While within the aura, an affected creature takes a -2 circumstance penalty to saves against disease and to recover from the sickened condition. A creature that succeeds at its save is temporarily immune for 1 minute.\n[[Bestiary Effects/Effect_ Stench|Effect: Stench]]"
+    desc: " (aura) 30 feet. A creature entering the aura must succeed at a DC 28 Fortitude check save or become [[Conditions/Sickened|Sickened 1]] until the end of its turn (plus [[Conditions/Slowed|Slowed 1]] for as long as it is sickened on a critical failure). While within the aura, an affected creature takes a -2 circumstance penalty to saves against disease and to recover from the sickened condition. A creature that succeeds at its save is temporarily immune for 1 minute.\n\n[[Bestiary Effects/Effect_ Stench|Effect: Stench]]"
 
 attacks:
   - name: ""
@@ -73,8 +74,14 @@ attacks:
     desc: "`pf2:1` Fling Offal +19 (range increment 30 feet)\n__Damage__  2d10 + 7 bludgeoning plus wretched-weeps"
 
   - name: "Wretched Weeps"
-    desc: " (disease) **Saving Throw** DC 26 Fortitude check\n**Stage 1** carrier with no ill effect (1 day)\n**Stage 2** 2d8 bleed every hour and [[Conditions/Enfeebled 1|Enfeebled 1]] (1 day)\n**Stage 3** 2d8 bleed every hour and [[Conditions/Enfeebled 1|Enfeebled 2]] (1 day)"
+    desc: " (disease) **Saving Throw** DC 26 Fortitude check\n* * *\n\n**Stage 1** carrier with no ill effect (1 day)\n\n**Stage 2** 2d8 bleed every hour and [[Conditions/Enfeebled|Enfeebled 1]] (1 day)\n\n**Stage 3** 2d8 bleed every hour and [[Conditions/Enfeebled|Enfeebled 2]] (1 day)"
  
+```
+
+```encounter-table
+name: Ofalth
+creatures:
+  - 1: Ofalth
 ```
 
 

@@ -6,8 +6,9 @@ tags:
   - trait/archetype
   - trait/common
   - category/class
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.sk5HspGGnLW8b6bX"
-license: OGL
+license: ORC
 ---
 # Remote Trigger
 ## Feat 6
@@ -23,5 +24,5 @@ You've learned how to trigger snares from afar, creating ranged hazards to assai
 
 You can Strike a snare to trigger it prematurely. If you crafted the snare, you automatically hit. If someone else crafted it, attempt a ranged Strike against the Crafting DC, triggering the snare only if you hit.
 
-*Source: Pathfinder Advanced Player's Guide*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

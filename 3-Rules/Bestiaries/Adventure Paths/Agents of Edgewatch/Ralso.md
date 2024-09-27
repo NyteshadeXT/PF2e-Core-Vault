@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/human
   - pf2e/creature/type/humanoid
   - pf2e/creature/type/orc
+  - pf2eMonster
   - pf2e/creature/level/4
 statblock: inline
 name: "Ralso"
@@ -23,13 +24,13 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #157: Devil at the Dreaming Palace"
 name: "Ralso"
 level: "Creature 4"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Medium"
-trait_01: "evil"
-trait_02: "human"
-trait_03: "humanoid"
-trait_04: "orc"
+trait_01: [[evil]]
+trait_02: [[human]]
+trait_03: [[humanoid]]
+trait_04: [[orc]]
 modifier: 14
 perception:
   - name: "Perception"
@@ -66,11 +67,17 @@ attacks:
     desc: "`pf2:1` Dagger +14 (agile, finesse, thrown 10 ft., versatile s)\n__Damage__  1d4 + 7 piercing"
 
   - name: "Double Stab"
-    desc: "`pf2:1`  **Requirements** Ralso is wielding two piercing weapons\n**Frequency** once per round\n**Effect** Ralso makes two Strikes against a single creature within reach, one Strike per weapon.\nThese attacks count toward Ralso's multiple attack penalty, but the penalty doesn't increase until after both attacks."
+    desc: "`pf2:1`  **Requirements** Ralso is wielding two piercing weapons\n\n**Frequency** once per round\n* * *\n\n**Effect** Ralso makes two Strikes against a single creature within reach, one Strike per weapon.\n\nThese attacks count toward Ralso's multiple attack penalty, but the penalty doesn't increase until after both attacks."
 
   - name: "[[Bestiary Ability Glossary/Sneak Attack|Sneak Attack]]"
     desc: "  Ralso deals an extra 1d6 precision damage to [[Conditions/Off-Guard|Off-Guard]] creatures."
  
+```
+
+```encounter-table
+name: Ralso
+creatures:
+  - 1: Ralso
 ```
 
 

@@ -24,7 +24,7 @@ Additionally, when you use Stunning Fist, instead of saving against being stunne
 
 **Critical Success** The target is unaffected.
 
-**Success** The target's muscles become temporarily weaker. For 1 round, the target is [[Conditions/Enfeebled 1|Enfeebled 2]], and any time it attempts to take an action with the manipulate trait, the action is disrupted unless it succeeds at a flat check with a DC equal to 5 + its enfeebled value.
+**Success** The target's muscles become temporarily weaker. For 1 round, the target is [[Conditions/Enfeebled|Enfeebled 2]], and any time it attempts to take an action with the manipulate trait, the action is disrupted unless it succeeds at a flat check with a DC equal to 5 + its enfeebled value.
 
 **Failure** As success, but the duration is 1 minute.
 

@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.pathfinder-bestiary.Actor.saEPHCN5lDiylb5H"
 tags:
   - pf2e/creature/type/mindless
   - pf2e/creature/type/ooze
+  - pf2eMonster
   - pf2e/creature/level/7
 statblock: inline
 name: "Black Pudding"
@@ -25,12 +26,13 @@ level: "Creature 7"
 
 alignment: ""
 size: "huge"
-trait_01: "mindless"
-trait_02: "ooze"
+trait_01: [[mindless]]
+trait_02: [[ooze]]
 modifier: 9
 perception:
   - name: "Perception"
     desc: "+9; Motion Sense (Precise) 60 Feet"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Athletics: +18"
@@ -58,7 +60,7 @@ abilities_mid:
     desc: "  A creature that hits the pudding with a metal or wooden weapon must succeed at a DC 22 Reflex check save or the weapon takes 2d6 acid damage (after dealing damage to the black pudding as normal). Thrown weapons and ammunition take this damage automatically with no save."
 
   - name: "Split"
-    desc: "  When the black pudding is hit by an attack that would deal slashing or piercing damage and has 10 or more HP, it splits into two identical puddings, each with half the original's HP.\nOne pudding is in the same space as the original, and the other appears in an adjacent unoccupied space. If no adjacent space is unoccupied, it automatically pushes creatures and objects out of the way to fill a space (the GM decides if an object or creature is too big or sturdy to push)."
+    desc: "  When the black pudding is hit by an attack that would deal slashing or piercing damage and has 10 or more HP, it splits into two identical puddings, each with half the original's HP.\n\nOne pudding is in the same space as the original, and the other appears in an adjacent unoccupied space. If no adjacent space is unoccupied, it automatically pushes creatures and objects out of the way to fill a space (the GM decides if an object or creature is too big or sturdy to push)."
 
 attacks:
   - name: ""
@@ -67,7 +69,7 @@ attacks:
     desc: "`pf2:1` Pseudopod +18 (reach 10 feet)\n__Damage__  2d8 + 7 bludgeoning plus corrosive-touch,grab 2d6 acid plus corrosive-touch,grab"
 
   - name: "[[Bestiary Ability Glossary/Constrict|Constrict]]"
-    desc: "`pf2:1`  1d8+7 bludgeoning damage plus 1d6 acid damage, DC 26 Fortitude check save\n"
+    desc: "`pf2:1`  1d8+7 bludgeoning damage plus 1d6 acid damage, DC 26 Fortitude check save\n\n* * *\n"
 
   - name: "Corrosive Touch"
     desc: "  When the pudding hits a creature with its pseudopod, any acid damage is dealt to the creature's armor or clothing as well as the creature."
@@ -78,6 +80,12 @@ attacks:
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
     desc: "`pf2:1`  "
  
+```
+
+```encounter-table
+name: Black Pudding
+creatures:
+  - 1: Black Pudding
 ```
 
 

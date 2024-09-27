@@ -12,12 +12,13 @@ tags:
   - trait/versatile-p
   - trait/uncommon
   - category/martial
+  - remaster
 aliases: "Compendium.pf2e.equipment-srd.Item.fvvfZxfGV9i3urkd"
-license: OGL
+license: ORC
 ---
 # Claw Blade
 ## Item 0
-### [uncommon](uncommon "Uncommon Rarity Trait")[[agile]][[catfolk]][[deadly-d8]][[disarm]][[finesse]][[versatile-p]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[3-Rules/Rule References/Agile]][[catfolk]][[deadly-d8]][[3-Rules/trait_reference/disarm]][[3-Rules/Rule References/Finesse]][[versatile-p]]
 
 |  |  |
 | -- | -- |
@@ -28,7 +29,7 @@ license: OGL
 
 
 
-The three parallel blades of this handheld weapon extend between the fingers to resemble the natural claws of the amurruns who created them, providing a way for those catfolk without suitable natural claws to share the fighting customs of their kin.
+This handheld weapon's three parallel blades extend between the fingers to resemble the natural claws of the amurruns who created them, providing a way for those catfolk without suitable natural claws to share the fighting customs of their kin.
 
-*Source: Pathfinder Advanced Player's Guide*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

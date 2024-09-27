@@ -12,6 +12,7 @@ tags:
   - pf2e/creature/type/spirit
   - pf2e/creature/type/undead
   - pf2e/creature/type/unholy
+  - pf2eMonster
   - pf2e/creature/level/7
 statblock: inline
 name: "Salted Ghost Pirate Captain"
@@ -26,16 +27,16 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Society Scenario #5-11: The Hidden Current"
 name: "Salted Ghost Pirate Captain"
 level: "Creature 7"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Medium"
-trait_01: "chaotic"
-trait_02: "evil"
-trait_03: "ghost"
-trait_04: "incorporeal"
-trait_05: "spirit"
-trait_06: "undead"
-trait_07: "unholy"
+trait_01: [[chaotic]]
+trait_02: [[evil]]
+trait_03: [[ghost]]
+trait_04: [[incorporeal]]
+trait_05: [[spirit]]
+trait_06: [[undead]]
+trait_07: [[unholy]]
 modifier: 15
 perception:
   - name: "Perception"
@@ -77,8 +78,14 @@ attacks:
     desc: "`pf2:2`  The ghost makes a Strike with its cutlass or hand crossbow, then Flies up to half their Speed and makes a Strike with the other attack. If they moved through an enemy when they Flew, that enemy is [[Conditions/Off-Guard|Off-Guard]] against the second Strike."
 
   - name: "Savvy Joinin' Me Crew?"
-    desc: "`pf2:r` (divine) **Trigger** The ghost reduces a living creature to 0 Hit Points with a melee Strike\n**Effect** The creature attempts a DC 23 Fortitude check save. If the creature fails its save, it remains conscious but is controlled by the ghost until it loses its dying condition. It continues to attempt recovery checks as normal for the dying condition. The effect ends if the creature loses the dying condition. If the creature dies while under this effect, it joins the ghost's undead crew in 1d4 days. If the ghost is destroyed before the creature dies, the creature is spared this terrible fate."
+    desc: "`pf2:r` (divine) **Trigger** The ghost reduces a living creature to 0 Hit Points with a melee Strike\n* * *\n\n**Effect** The creature attempts a DC 23 Fortitude check save. If the creature fails its save, it remains conscious but is controlled by the ghost until it loses its dying condition. It continues to attempt recovery checks as normal for the dying condition. The effect ends if the creature loses the dying condition. If the creature dies while under this effect, it joins the ghost's undead crew in 1d4 days. If the ghost is destroyed before the creature dies, the creature is spared this terrible fate."
  
+```
+
+```encounter-table
+name: Salted Ghost Pirate Captain
+creatures:
+  - 1: Salted Ghost Pirate Captain
 ```
 
 

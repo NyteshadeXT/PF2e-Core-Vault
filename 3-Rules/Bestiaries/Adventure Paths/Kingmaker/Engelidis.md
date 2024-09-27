@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/aberration
   - pf2e/creature/type/chaotic
   - pf2e/creature/type/evil
+  - pf2eMonster
   - pf2e/creature/level/16
 statblock: inline
 name: "Engelidis"
@@ -22,12 +23,12 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Kingmaker"
 name: "Engelidis"
 level: "Creature 16"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Large"
-trait_01: "aberration"
-trait_02: "chaotic"
-trait_03: "evil"
+trait_01: [[aberration]]
+trait_02: [[chaotic]]
+trait_03: [[evil]]
 modifier: 28
 perception:
   - name: "Perception"
@@ -52,7 +53,7 @@ abilities_top:
   - name: ""
 
   - name: "[[Bestiary Ability Glossary/Coven|Coven]]"
-    desc: " (mental,occult) A spirit naga adds [[Spells/Hallucination|Hallucination]], [[Spells/Mind Probe|Mind Probe]], and [[Spells/Suggestion|Suggestion]] to their coven's spells.\n"
+    desc: " (mental,occult) A spirit naga adds [[Spells/Hallucination|Hallucination]], [[Spells/Mind Probe|Mind Probe]], and [[Spells/Suggestion|Suggestion]] to their coven's spells.\n\n* * *\n"
 
 abilities_mid:
   - name: ""
@@ -69,8 +70,14 @@ attacks:
     desc: "_[[Spells/Inveigle|Inveigle]]_"
 
   - name: "Spirit Naga Venom"
-    desc: " (poison) **Saving Throw** DC 37 Fortitude check\n**Maximum Duration** 6 rounds\n**Stage 1** 2d6 poison damage and [[Conditions/Stupefied 1|Stupefied 1]] (1 round)\n**Stage 2** 2d6 poison damage and [[Conditions/Stupefied 1|Stupefied 2]] (1 round)"
+    desc: " (poison) **Saving Throw** DC 37 Fortitude check\n* * *\n\n**Maximum Duration** 6 rounds\n\n**Stage 1** 2d6 poison damage and [[Conditions/Stupefied|Stupefied 1]] (1 round)\n\n**Stage 2** 2d6 poison damage and [[Conditions/Stupefied|Stupefied 2]] (1 round)"
  
+```
+
+```encounter-table
+name: Engelidis
+creatures:
+  - 1: Engelidis
 ```
 
 

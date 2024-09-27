@@ -16,7 +16,7 @@ license: OGL
 
 
 
-**Moderate Boon:** You wear a veil of illusion wherever you go. You can cast [[Spells/Illusory Disguise|Illusory Disguise]] at will as an innate divine spell.
+You wear a veil of illusion wherever you go. You can cast [[Spells/Illusory Disguise|Illusory Disguise]] at will as an innate divine spell.
 
 *Source: Pathfinder Lost Omens: Gods & Magic*
 *OGL*

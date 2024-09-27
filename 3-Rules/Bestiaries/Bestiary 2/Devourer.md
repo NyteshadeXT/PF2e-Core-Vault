@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/undead
   - pf2e/creature/type/unholy
+  - pf2eMonster
   - pf2e/creature/level/11
 statblock: inline
 name: "Devourer"
@@ -23,12 +24,12 @@ token: [[modules/pf2e-tokens-bestiaries/portraits/undead/devourer.webp| ]]
 source: "Pathfinder Bestiary 2"
 name: "Devourer"
 level: "Creature 11"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Large"
-trait_01: "evil"
-trait_02: "undead"
-trait_03: "unholy"
+trait_01: [[evil]]
+trait_02: [[undead]]
+trait_03: [[unholy]]
 modifier: 22
 perception:
   - name: "Perception"
@@ -55,7 +56,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Spell Deflection"
-    desc: " (divine,mental) A spellcaster who targets a devourer with a mental spell, [[Spells/Banishment|Banishment]], [[Spells/Seize Soul|Seize Soul]], [[Spells/Divine Decree|Divine Decree]], [[Spells/Divine Wrath|Divine Wrath]], [[Spells/Possession|Possession]], [[Spells/Spirit Blast|Spirit Blast]], or [[Spells/Spirit Song|Spirit Song]] can attempt a counteract check to free a soul the devourer has trapped with Devour Soul. If this counteract attempt succeeds, the trapped soul is released (though the creature remains dead), and the devourer can't use any soul charges from that creature.\nDevourers are otherwise immune to these spells."
+    desc: " (divine,mental) A spellcaster who targets a devourer with a mental spell, [[Spells/Banishment|Banishment]], [[Spells/Seize Soul|Seize Soul]], [[Spells/Divine Decree|Divine Decree]], [[Spells/Divine Wrath|Divine Wrath]], [[Spells/Possession|Possession]], [[Spells/Spirit Blast|Spirit Blast]], or [[Spells/Spirit Song|Spirit Song]] can attempt a counteract check to free a soul the devourer has trapped with Devour Soul. If this counteract attempt succeeds, the trapped soul is released (though the creature remains dead), and the devourer can't use any soul charges from that creature.\n\nDevourers are otherwise immune to these spells."
 
 attacks:
   - name: ""
@@ -70,14 +71,20 @@ attacks:
     desc: "_[[Spells/Create Undead|Create Undead]]_"
 
   - name: "Devour Soul"
-    desc: "`pf2:2` (death,divine) The devourer touches a creature within reach, dealing 8d6 void damage (DC 26 Fortitude check save). If a creature is slain by this attack, its soul becomes trapped within the devourer. While its soul is trapped, a creature can't be resurrected except by powerful magic such as a [[Spells/Wish|Wish]] spell. Destroying the devourer or successfully counteracting Devour Soul (see spell deflection) releases the soul. The devourer can hold only one soul at a time.\nA soul has 5 soul charges per level of the originating creature (see the soul spells ability below). The devourer can expend these charges to cast spells. If the soul is freed and the creature returns to life, the creature is [[Conditions/Drained 1|Drained 1]] for every 5 soul charges expended. If reduced to 0 soul charges, the soul is consumed and can be restored to life only by powerful magic such as _wish_."
+    desc: "`pf2:2` (death,divine) The devourer touches a creature within reach, dealing 8d6 void damage (DC 31 Fortitude check save). If a creature is slain by this attack, its soul becomes trapped within the devourer. While its soul is trapped, a creature can't be resurrected except by powerful magic such as a [[Spells/Wish|Wish]] spell. Destroying the devourer or successfully counteracting Devour Soul (see spell deflection) releases the soul. The devourer can hold only one soul at a time.\n\nA soul has 5 soul charges per level of the originating creature (see the soul spells ability below). The devourer can expend these charges to cast spells. If the soul is freed and the creature returns to life, the creature is [[Conditions/Drained|Drained 1]] for every 5 soul charges expended. If reduced to 0 soul charges, the soul is consumed and can be restored to life only by powerful magic such as _wish_."
 
   - name: "Drain Life"
-    desc: " (divine) When the devourer damages a living creature with its claw Strike, the devourer gains 10 temporary Hit Points and the creature must succeed at a DC 24 Fortitude check save or become [[Conditions/Drained 1|Drained 1]]. Further damage dealt by the devourer increases the condition value by 1 on a failed save, to a maximum of drained 4."
+    desc: " (divine) When the devourer damages a living creature with its claw Strike, the devourer gains 10 temporary Hit Points and the creature must succeed at a DC 24 Fortitude check save or become [[Conditions/Drained|Drained 1]]. Further damage dealt by the devourer increases the condition value by 1 on a failed save, to a maximum of drained 4."
 
   - name: "Soul Spells"
     desc: "  A devourer casts occult innate spells, but to do so it must expend a number of soul charges equal to the spell's rank (similar to casting a spell using charges from a staff). It can heighten any spell to a maximum of 6th level by expending more charges as it Casts the Spell. When encountered, a devourer typically has one trapped soul with 10 soul charges."
  
+```
+
+```encounter-table
+name: Devourer
+creatures:
+  - 1: Devourer
 ```
 
 

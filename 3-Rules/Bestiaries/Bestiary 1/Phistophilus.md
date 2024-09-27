@@ -10,6 +10,7 @@ tags:
   - pf2e/creature/type/fiend
   - pf2e/creature/type/lawful
   - pf2e/creature/type/unholy
+  - pf2eMonster
   - pf2e/creature/level/10
 statblock: inline
 name: "Phistophilus"
@@ -28,19 +29,19 @@ level: "Creature 10"
 
 alignment: ""
 size: "Medium"
-trait_01: "devil"
-trait_02: "evil"
-trait_03: "fiend"
-trait_04: "lawful"
-trait_05: "unholy"
+trait_01: [[devil]]
+trait_02: [[evil]]
+trait_03: [[fiend]]
+trait_04: [[lawful]]
+trait_05: [[unholy]]
 modifier: 21
 perception:
   - name: "Perception"
     desc: "+21; Greater Darkvision"
-languages: "Aklo, Chthonian, Common, Diabolic, Draconic, Empyrean, Sakvroth"
+languages: "Aklo, Chthonian, Common, Diabolic, Draconic, Empyrean, Sakvroth; telepathy 100 feet, tongues"
 skills:
   - name: "Skills"
-    desc: "Arcana: +19, Deception: +23, Diplomacy: +21, Intimidation: +21, Legal Lore: +25, Religion: +19, Society: +19, Stealth: +18"
+    desc: "Arcana: +19, Deception: +23, Diplomacy: +21, Intimidation: +21, Religion: +19, Society: +19, Stealth: +18, Legal Lore: +25"
 abilityMods: [3, 4, 4, 7, 5, 5]
 speed: 25 feet
 sourcebook: "_Pathfinder Bestiary_"
@@ -77,17 +78,23 @@ attacks:
     desc: "_[[Spells/Diabolic Pact|Infernal Pact]]_"
 
   - name: "Draft Contract"
-    desc: "`pf2:3` (divine,manipulate) The contract devil produces an infernal contract for a single living mortal. This contract can grant a wide range of abilities and effects, akin to the power of a [[Spells/Wish|Wish]] spell but fulfilled to the letter by the contract devil. To receive any of those benefits, the mortal must willingly sign its true name to the contract. At that point, the mortal's soul is bound to the contract devil and Hell.\nWhile the contract is in effect, the victim can't be restored to life except by _wish_ or similar magic. If the mortal is restored to life by those means, the contract devil knows which mortal came to life and can locate the creature or creatures who restored the mortal to life for 1 year, gaining the effects of a [[Spells/Locate|Locate]] spell with unlimited range. Avoiding the terms of an infernal contract is difficult and often dangerous."
+    desc: "`pf2:3` (divine,manipulate) The contract devil produces an infernal contract for a single living mortal. This contract can grant a wide range of abilities and effects, akin to the power of a [[Spells/Wish|Wish]] spell but fulfilled to the letter by the contract devil. To receive any of those benefits, the mortal must willingly sign its true name to the contract. At that point, the mortal's soul is bound to the contract devil and Hell.\n\nWhile the contract is in effect, the victim can't be restored to life except by _wish_ or similar magic. If the mortal is restored to life by those means, the contract devil knows which mortal came to life and can locate the creature or creatures who restored the mortal to life for 1 year, gaining the effects of a [[Spells/Locate|Locate]] spell with unlimited range. Avoiding the terms of an infernal contract is difficult and often dangerous."
 
   - name: "Infernal Investment"
     desc: "  A contract devil can cast a 10th-rank innate [[Spells/Scrying|Scrying]] spell at will, but only to target a creature with which it has a contract. The target automatically critically fails its save."
 
   - name: "Infernal Wound"
-    desc: " (divine) A contract devil's Strikes also deals 3d6 bleed that resists attempts to heal it.\nThe flat check to stop the bleeding starts at DC 20 Flat check. The DC is reduced to DC 15 Flat check only if the bleeding creature or an ally successfully assists with the recovery. The DC to [[Actions/Administer First Aid|Administer First Aid]] to a creature with an infernal wound is increased by 5.\nA spellcaster or item attempting to use healing magic on a creature suffering from an infernal wound must succeed at a DC 29 counteract check or the magic fails to heal the creature.\n[[Bestiary Effects/Effect_ Infernal Wound|Effect: Infernal Wound]]"
+    desc: " (divine) A contract devil's Strikes also deals 3d6 bleed that resists attempts to heal it.\n\nThe flat check to stop the bleeding starts at DC 20 Flat check. The DC is reduced to DC 15 Flat check only if the bleeding creature or an ally successfully assists with the recovery. The DC to [[Actions/Administer First Aid|Administer First Aid]] to a creature with an infernal wound is increased by 5.\n\nA spellcaster or item attempting to use healing magic on a creature suffering from an infernal wound must succeed at a DC 29 counteract check or the magic fails to heal the creature.\n\n[[Bestiary Effects/Effect_ Infernal Wound|Effect: Infernal Wound]]"
 
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
     desc: "`pf2:1`  "
  
+```
+
+```encounter-table
+name: Phistophilus
+creatures:
+  - 1: Phistophilus
 ```
 
 

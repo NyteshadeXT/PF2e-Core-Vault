@@ -12,7 +12,7 @@ license: OGL
 ---
 # Faydhaan's Dallah
 ## Item 14
-### [[magical]][[3-Rules/Rule References/Water]]
+### [[3-Rules/Rule References/Magical]][[3-Rules/Rule References/Water]]
 
 
 **Price** 4250 gp; 

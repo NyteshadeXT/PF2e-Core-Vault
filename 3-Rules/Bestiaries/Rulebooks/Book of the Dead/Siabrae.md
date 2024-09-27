@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/undead
   - pf2e/creature/type/unholy
+  - pf2eMonster
   - pf2e/creature/level/16
 statblock: inline
 name: "Siabrae"
@@ -22,12 +23,12 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Book of the Dead"
 name: "Siabrae"
 level: "Creature 16"
-rare_03: "Rare"
+rare_03: [[Rare]]
 alignment: ""
 size: "Medium"
-trait_01: "evil"
-trait_02: "undead"
-trait_03: "unholy"
+trait_01: [[evil]]
+trait_02: [[undead]]
+trait_03: [[unholy]]
 modifier: 31
 perception:
   - name: "Perception"
@@ -47,7 +48,7 @@ hp: 218
 health:
   - name: ""
   - name: HP
-    desc: "218, void healing, rejuvenation; __Immunities__  death effects,  disease,  paralyzed,  poison,  unconscious; __Resistances__ fire 20, physical 15 (except bludgeoning)"
+    desc: "218, void healing, rejuvenation; __Immunities__  death effects,  disease,  paralyzed,  poison,  unconscious; __Resistances__ fire 20, physical 15 (except magical bludgeoning)"
 abilities_top:
   - name: ""
   - name: "Items"
@@ -55,7 +56,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "[[Creature Family Ability Glossary/(Siabrae) Miasma|Miasma]]"
-    desc: " (aura,disease,primal) 20 foot, DC equal to the siabrae's spell DC - 4.\nA creature that enters the aura or begins its turn there becomes [[Conditions/Sickened 1|Sickened 2]] on a failure (or sickened 4 on a critical failure). An animal, fey, or plant that rolls a failure gets a critical failure instead. Regardless of the result of the saving throw, the creature is temporarily immune to the siabrae's miasma for 1 minute."
+    desc: " (aura,disease,primal) 20 foot, DC equal to the siabrae's spell DC - 4.\n* * *\n\nA creature that enters the aura or begins its turn there becomes [[Conditions/Sickened|Sickened 2]] on a failure (or sickened 4 on a critical failure). An animal, fey, or plant that rolls a failure gets a critical failure instead. Regardless of the result of the saving throw, the creature is temporarily immune to the siabrae's miasma for 1 minute."
 
   - name: "[[Creature Family Ability Glossary/(Siabrae) Rejuvenation|Rejuvenation]]"
     desc: " (primal) When a siabrae is destroyed, they can attempt a DC 10 Flat check (they automatically succeed if they're standing on blighted or diseased terrain, and automatically fail if they're standing on sacred ground). If the flat check succeeds, the siabrae's body crumbles to dust and absorbs into the earth. After 1d10 days, the siabrae's body reforms from a mass of unworked stone large enough to create a new body; this stone is in a random location within 1d10 miles of where the siabrae was destroyed. The siabrae emerges from the stone with a peal of thunder, though without any of their gear."
@@ -82,8 +83,14 @@ attacks:
     desc: "  If a reaction would disrupt the siabrae's spellcasting action, the siabrae attempts a DC 15 Flat check. On a success, the action isn't disrupted."
 
   - name: "[[Creature Family Ability Glossary/(Siabrae) Stony Shards|Stony Shards]]"
-    desc: " (curse,earth,incapacitation,primal) Tiny shards break off the siabrae's antlers when they attack, lodging in the target's wounds and inflicting a terrible curse. A creature damaged by a siabrae's stone antlers Strike must succeed at a DC 37 Fortitude check save or become [[Conditions/Clumsy 1|Clumsy 2]] for 1d4 rounds on a failure. If the creature critically fails, or fails while already clumsy 2 or greater, the creature is petrified."
+    desc: " (curse,earth,incapacitation,primal) Tiny shards break off the siabrae's antlers when they attack, lodging in the target's wounds and inflicting a terrible curse. A creature damaged by a siabrae's stone antlers Strike must succeed at a DC 37 Fortitude check save or become [[Conditions/Clumsy|Clumsy 2]] for 1d4 rounds on a failure. If the creature critically fails, or fails while already clumsy 2 or greater, the creature is petrified."
  
+```
+
+```encounter-table
+name: Siabrae
+creatures:
+  - 1: Siabrae
 ```
 
 

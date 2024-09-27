@@ -10,6 +10,7 @@ tags:
   - pf2e/creature/type/skeleton
   - pf2e/creature/type/undead
   - pf2e/creature/type/unholy
+  - pf2eMonster
   - pf2e/creature/level/2
 statblock: inline
 name: "Skeleton Captain"
@@ -27,11 +28,11 @@ level: "Creature 2"
 
 alignment: ""
 size: "Medium"
-trait_01: "evil"
-trait_02: "mindless"
-trait_03: "skeleton"
-trait_04: "undead"
-trait_05: "unholy"
+trait_01: [[evil]]
+trait_02: [[mindless]]
+trait_03: [[skeleton]]
+trait_04: [[undead]]
+trait_05: [[unholy]]
 modifier: 8
 perception:
   - name: "Perception"
@@ -62,7 +63,7 @@ abilities_mid:
     desc: "`pf2:r`  "
 
   - name: "[[Creature Family Ability Glossary/(Skeleton) Explosive Death|Explosive Death]]"
-    desc: "  When the skeleton is destroyed, its bones shatter and explode as the necromantic energy holding it together is released.\nAdjacent creatures take 2d6 slashing damage with a DC 13 Reflex check save."
+    desc: "  When the skeleton is destroyed, its bones shatter and explode as the necromantic energy holding it together is released.\n\nAdjacent creatures take 2d6 slashing damage with a DC 13 Reflex check save."
 
   - name: "[[Bestiary Ability Glossary/Shield Block|Shield Block]]"
     desc: "`pf2:r`  "
@@ -79,6 +80,12 @@ attacks:
   - name: "Melee"
     desc: "`pf2:1` Claw +10 (agile)\n__Damage__  1d6 + 4 slashing"
  
+```
+
+```encounter-table
+name: Skeleton Captain
+creatures:
+  - 1: Skeleton Captain
 ```
 
 

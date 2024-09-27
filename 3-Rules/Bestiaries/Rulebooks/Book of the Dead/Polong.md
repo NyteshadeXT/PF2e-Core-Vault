@@ -10,6 +10,7 @@ tags:
   - pf2e/creature/type/spirit
   - pf2e/creature/type/undead
   - pf2e/creature/type/unholy
+  - pf2eMonster
   - pf2e/creature/level/8
 statblock: inline
 name: "Polong"
@@ -24,18 +25,19 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Book of the Dead"
 name: "Polong"
 level: "Creature 8"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Medium"
-trait_01: "evil"
-trait_02: "incorporeal"
-trait_03: "spirit"
-trait_04: "undead"
-trait_05: "unholy"
+trait_01: [[evil]]
+trait_02: [[incorporeal]]
+trait_03: [[spirit]]
+trait_04: [[undead]]
+trait_05: [[unholy]]
 modifier: 17
 perception:
   - name: "Perception"
     desc: "+17; Darkvision, Lifesense 30 Feet"
+languages: "any one language known by the polong&#x27;s creator"
 skills:
   - name: "Skills"
     desc: "Deception: +18, Medicine: +15, Occultism: +13, Stealth: +18"
@@ -72,11 +74,17 @@ attacks:
     desc: "`pf2:1` Scythe Claw +20 (finesse, magical)\n__Damage__  2d4 + 9 slashing 1d6 void"
 
   - name: "Polong Possession"
-    desc: "`pf2:3` (incapacitation,mental,occult,possession) The polong attempts to possess an adjacent corporeal creature. This has the same effect as the [[Spells/Possession|Possession]] spell (DC 26 Will check), except the duration is 24 hours and, since the polong doesn't have a physical body, they're unaffected by that restriction of the spell. If the target has critically failed its save and become fully possessed by this polong before, it gets a save result one degree of success worse than it rolled.\nA creature possessed by a polong becomes [[Conditions/Drained 1|Drained 1]] and [[Conditions/Doomed 1|Doomed 1]]. These conditions don't reduce naturally unless the polong spends an entire day without possessing the creature. For each consecutive day the polong is able to return and possess the creature, the drained and doomed values each increase by 1, to a maximum of 4. If the polong possesses a different creature, the conditions end for any creature it previously possessed."
+    desc: "`pf2:3` (incapacitation,mental,occult,possession) The polong attempts to possess an adjacent corporeal creature. This has the same effect as the [[Spells/Possession|Possession]] spell (DC 26 Will check), except the duration is 24 hours and, since the polong doesn't have a physical body, they're unaffected by that restriction of the spell. If the target has critically failed its save and become fully possessed by this polong before, it gets a save result one degree of success worse than it rolled.\n\nA creature possessed by a polong becomes [[Conditions/Drained|Drained 1]] and [[Conditions/Doomed|Doomed 1]]. These conditions don't reduce naturally unless the polong spends an entire day without possessing the creature. For each consecutive day the polong is able to return and possess the creature, the drained and doomed values each increase by 1, to a maximum of 4. If the polong possesses a different creature, the conditions end for any creature it previously possessed."
 
   - name: "[[Bestiary Ability Glossary/Rend|Rend]]"
-    desc: "`pf2:1`  Scythe Claw\n"
+    desc: "`pf2:1`  Scythe Claw\n\n* * *\n"
  
+```
+
+```encounter-table
+name: Polong
+creatures:
+  - 1: Polong
 ```
 
 

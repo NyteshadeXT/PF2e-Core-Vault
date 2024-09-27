@@ -34,9 +34,9 @@ This potent drug is distilled from a certain tropical vine into a deep-red syrup
 
 **Maximum Duration** 3 hours
 
-**Stage 1** [[Conditions/Drained 1|Drained 1]], +1 item bonus to weapon and unarmed attack rolls, Acrobatics checks, and Athletics checks (10 minutes)
+**Stage 1** [[Conditions/Drained|Drained 1]], +1 item bonus to weapon and unarmed attack rolls, Acrobatics checks, and Athletics checks (10 minutes)
 
-**Stage 2** [[Conditions/Slowed 1|Slowed 1]] (1 hour)
+**Stage 2** [[Conditions/Slowed|Slowed 1]] (1 hour)
 
 *Source: Pathfinder Gamemastery Guide*
 *OGL*

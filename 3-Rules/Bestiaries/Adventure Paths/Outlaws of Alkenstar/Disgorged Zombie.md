@@ -11,6 +11,7 @@ tags:
   - pf2e/creature/type/undead
   - pf2e/creature/type/unholy
   - pf2e/creature/type/zombie
+  - pf2eMonster
   - pf2e/creature/level/6
 statblock: inline
 name: "Disgorged Zombie"
@@ -25,19 +26,20 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #180: The Smoking Gun"
 name: "Disgorged Zombie"
 level: "Creature 6"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Medium"
-trait_01: "electricity"
-trait_02: "evil"
-trait_03: "mindless"
-trait_04: "undead"
-trait_05: "unholy"
-trait_06: "zombie"
+trait_01: [[electricity]]
+trait_02: [[evil]]
+trait_03: [[mindless]]
+trait_04: [[undead]]
+trait_05: [[unholy]]
+trait_06: [[zombie]]
 modifier: 14
 perception:
   - name: "Perception"
     desc: "+14; Darkvision"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Acrobatics: +14, Athletics: +15"
@@ -59,13 +61,13 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Electricity Absorption"
-    desc: "  For 1 minute after taking electricity damage, a shock zombie loses its usual [[Conditions/Slowed 1|Slowed 1]] condition, gains the ability to use reactions, and gains a +10-foot status bonus to its Speed."
+    desc: "  For 1 minute after taking electricity damage, a shock zombie loses its usual [[Conditions/Slowed|Slowed 1]] condition, gains the ability to use reactions, and gains a +10-foot status bonus to its Speed.\n\n[[Bestiary Effects/Effect_ Electricity Absorption|Effect: Electricity Absorption]]"
 
   - name: "Lightning Powered"
-    desc: "  Arcs of restorative electricity jolt between shock zombies. For each shock zombie within 30 feet, the shock zombie gains fast healing 2 (to a maximum of fast healing 10).\n[[Bestiary Effects/Effect_ Lightning Powered|Effect: Lightning Powered]]"
+    desc: "  Arcs of restorative electricity jolt between shock zombies. For each shock zombie within 30 feet, the shock zombie gains fast healing 2 (to a maximum of fast healing 10).\n\n[[Bestiary Effects/Effect_ Lightning Powered|Effect: Lightning Powered]]"
 
   - name: "Slow"
-    desc: "  A shock zombie is typically [[Conditions/Slowed 1|Slowed 1]] and can't use reactions (but see electricity absorption)."
+    desc: "  A shock zombie is typically [[Conditions/Slowed|Slowed 1]] and can't use reactions (but see electricity absorption)."
 
 attacks:
   - name: ""
@@ -74,8 +76,14 @@ attacks:
     desc: "`pf2:1` Fist +16 ()\n__Damage__  1d12 + 7 bludgeoning plus amnesia-venom 1d12 electricity plus amnesia-venom"
 
   - name: "Amnesia Venom"
-    desc: " (mental,poison) **Saving Throw** DC 29 Fortitude check\n**Maximum Duration** 6 rounds\n**Stage 1** [[Conditions/Off-Guard|Off-Guard]] (1 round)\n**Stage 2** off-guard and [[Conditions/Clumsy 1|Clumsy 1]] (1 round)\n**Stage 3** [[Conditions/Confused|Confused]], off-guard, and [[Conditions/Clumsy 1|Clumsy 2]] (1 round)."
+    desc: " (mental,poison) **Saving Throw** DC 29 Fortitude check\n\n**Maximum Duration** 6 rounds\n\n**Stage 1** [[Conditions/Off-Guard|Off-Guard]] (1 round)\n\n**Stage 2** off-guard and [[Conditions/Clumsy|Clumsy 1]] (1 round)\n\n**Stage 3** [[Conditions/Confused|Confused]], off-guard, and [[Conditions/Clumsy|Clumsy 2]] (1 round)."
  
+```
+
+```encounter-table
+name: Disgorged Zombie
+creatures:
+  - 1: Disgorged Zombie
 ```
 
 

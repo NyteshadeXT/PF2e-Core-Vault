@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.pfs-season-4-bestiary.Actor.d50bL4eXBTXkcE8l"
 tags:
   - pf2e/creature/type/aberration
   - pf2e/creature/type/evil
+  - pf2eMonster
   - pf2e/creature/level/1
 statblock: inline
 name: "Fleshwarp Apprentice"
@@ -21,11 +22,11 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Society Scenario #4-10: Arclord&#x27;s Abode"
 name: "Fleshwarp Apprentice"
 level: "Creature 1"
-rare_03: "Rare"
+rare_03: [[Rare]]
 alignment: ""
 size: "Medium"
-trait_01: "aberration"
-trait_02: "evil"
+trait_01: [[aberration]]
+trait_02: [[evil]]
 modifier: 4
 perception:
   - name: "Perception"
@@ -61,6 +62,12 @@ attacks:
   - name: "Wizard School Spell"
     desc: "1 Focus Point, DC 17, attack +9; __1st __  _[[Spells/Force Bolt|Force Bolt]]_"
  
+```
+
+```encounter-table
+name: Fleshwarp Apprentice
+creatures:
+  - 1: Fleshwarp Apprentice
 ```
 
 

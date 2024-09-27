@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/aberration
   - pf2e/creature/type/chaotic
   - pf2e/creature/type/evil
+  - pf2eMonster
   - pf2e/creature/level/10
 statblock: inline
 name: "Steadied Dohv-Dranna"
@@ -22,20 +23,20 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Society Scenario #5-11: The Hidden Current"
 name: "Steadied Dohv-Dranna"
 level: "Creature 10"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Large"
-trait_01: "aberration"
-trait_02: "chaotic"
-trait_03: "evil"
+trait_01: [[aberration]]
+trait_02: [[chaotic]]
+trait_03: [[evil]]
 modifier: 21
 perception:
   - name: "Perception"
     desc: "+21; Darkvision"
-languages: "Aklo, Chthonian, Common, Draconic, Protean, Sakvroth"
+languages: "Aklo, Chthonian, Common, Draconic, Protean, Sakvroth; telepathy 100 feet"
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +20, Arcana: +21, Athletics: +19, Lore (all subcategories): +21, Occultism: +24, Stealth: +20"
+    desc: "Acrobatics: +20, Arcana: +21, Athletics: +19, Occultism: +24, Stealth: +20, Lore (all subcategories): +21"
 abilityMods: [6, 3, 5, 4, 4, 3]
 speed: 25 feet,  fly 30 feet
 sourcebook: "_Pathfinder Society Scenario #5-11: The Hidden Current_"
@@ -54,7 +55,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Brain Blisters"
-    desc: "  A brain collector has seven brain blisters on its back that it uses to house stolen brains. A brain collector without all seven blisters full is [[Conditions/Stupefied 1|Stupefied]] with a value equal to the number of empty blisters."
+    desc: "  A brain collector has seven brain blisters on its back that it uses to house stolen brains. A brain collector without all seven blisters full is [[Conditions/Stupefied|Stupefied]] with a value equal to the number of empty blisters."
 
   - name: "Brain Loss"
     desc: "  If a brain collector takes 30 damage from a critical hit or takes 25 mental damage, it must succeed at a DC 29 save (DC 29 Fortitude check for critical damage or DC 29 Will check for mental damage) or one of its brain blisters is destroyed."
@@ -72,17 +73,23 @@ attacks:
     desc: "DC 29, attack +21; __4th __ (2 slots) _[[Spells/Confusion|Confusion]]_, _[[Spells/Phantasmal Killer|Phantasmal Killer]]_; __3rd __ (3 slots) _[[Spells/Dispel Magic|Dispel Magic]]_, _[[Spells/Haste|Haste]]_, _[[Spells/Paralyze|Paralyze]]_; __2nd __ (4 slots) _[[Spells/Humanoid Form|Humanoid Form]]_, _[[Spells/Invisibility|Invisibility]]_, _[[Spells/Mirror Image|Mirror Image]]_, _[[Spells/Paranoia|Paranoia]]_; __1st __ (4 slots) _[[Spells/Mindlink|Mindlink]]_, _[[Spells/Enfeeble|Ray of Enfeeblement]]_, _[[Spells/Sure Strike|True Strike]]_, _[[Spells/Phantasmal Minion|Unseen Servant]]_\n__Cantrips__  __(5th)__ _[[Compendium.pf2e.spells-srd.Item.kl2q6JvBZwed4B6v|Dancing Lights]]_, _[[Spells/Detect Magic|Detect Magic]]_, _[[Spells/Telekinetic Hand|Mage Hand]]_, _[[Spells/Prestidigitation|Prestidigitation]]_"
 
   - name: "Brain Collector Venom"
-    desc: " (poison) **Saving Throw** DC 29 Fortitude check\n**Maximum Duration** 6 rounds\n**Stage 1** 1d6 poison damage and [[Conditions/Enfeebled 1|Enfeebled 1]] (1 round)\n**Stage 2** 1d6 poison damage, enfeebled 1, and [[Conditions/Slowed 1|Slowed 1]] (1 round)\n**Stage 3** 2d6 poison damage, [[Conditions/Enfeebled 1|Enfeebled 2]], and slowed 1 (1 round)"
+    desc: " (poison) **Saving Throw** DC 29 Fortitude check\n\n**Maximum Duration** 6 rounds\n\n**Stage 1** 1d6 poison damage and [[Conditions/Enfeebled|Enfeebled 1]] (1 round)\n\n**Stage 2** 1d6 poison damage, enfeebled 1, and [[Conditions/Slowed|Slowed 1]] (1 round)\n\n**Stage 3** 2d6 poison damage, [[Conditions/Enfeebled|Enfeebled 2]], and slowed 1 (1 round)"
 
   - name: "Collect Brain"
     desc: "`pf2:1` (manipulate) The brain collector collects a brain of a creature that has been dead for no more than 1 minute. It can then use an Interact action to secure the brain in one of its empty brain blisters."
 
   - name: "[[Creature Family Ability Glossary/(Cryptid, Mutant) Explosive End|Explosive End]]"
-    desc: "  The mutant brain collector's death reveals one last surprise as it explodes into radioactive ash. When it dies, it explodes, dealing 5d6 acid damage to each creature in a 10-foot emanation, with a basic DC 27 Reflex check save."
+    desc: "  The mutant brain collector's death reveals one last surprise as it explodes into radioactive ash. When it dies, it explodes, dealing 5d6 acid damage to each creature in a @Template[emanation|distance:10], with a basic DC 27 Reflex check save."
 
   - name: "[[Creature Family Ability Glossary/(Cryptid, Mutant) Shifting Iridescence|Shifting Iridescence]]"
     desc: " (magical) Whenever the mutant brain collector takes energy damage to which it isn't resistant or immune, after taking the damage normally, it gains resistance 10 to that damage type. If it had a resistance to a different damage type from shifting iridescence, it replaces the old resistance with the new resistance."
  
+```
+
+```encounter-table
+name: Steadied Dohv-Dranna
+creatures:
+  - 1: Steadied Dohv-Dranna
 ```
 
 

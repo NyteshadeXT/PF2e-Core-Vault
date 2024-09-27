@@ -10,6 +10,7 @@ tags:
   - pf2e/creature/type/humanoid
   - pf2e/creature/type/undine
   - pf2e/creature/type/vanara
+  - pf2eMonster
   - pf2e/creature/level/1
 statblock: inline
 name: "Younger Sister Vivatu"
@@ -24,14 +25,14 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Society Scenario #5-10: The Crocodile&#x27;s Smile"
 name: "Younger Sister Vivatu"
 level: "Creature 1"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Medium"
-trait_01: "amphibious"
-trait_02: "chaotic"
-trait_03: "humanoid"
-trait_04: "undine"
-trait_05: "vanara"
+trait_01: [[amphibious]]
+trait_02: [[chaotic]]
+trait_03: [[humanoid]]
+trait_04: [[undine]]
+trait_05: [[vanara]]
 modifier: 6
 perception:
   - name: "Perception"
@@ -61,7 +62,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Go With the Flow"
-    desc: "`pf2:r` (primal,water) **Trigger** Vivatu is targeted by a physical attack and can see the attacker\n**Effect** The targeted part of Vivatu's body turns into flowing water to hamper the blow. She gains a +2 circumstance bonus to AC against the triggering attack. If she takes electricity damage, she can't use this again for 1d4 rounds."
+    desc: "`pf2:r` (primal,water) **Trigger** Vivatu is targeted by a physical attack and can see the attacker\n* * *\n\n**Effect** The targeted part of Vivatu's body turns into flowing water to hamper the blow. She gains a +2 circumstance bonus to AC against the triggering attack. If she takes electricity damage, she can't use this again for 1d4 rounds."
 
 attacks:
   - name: ""
@@ -79,11 +80,17 @@ attacks:
     desc: "DC 13, attack +5; __1st __  _[[Spells/Pest Form|Pest Form (Monkey Only)]]_"
 
   - name: "Flurry of Blows"
-    desc: "`pf2:1`  **Frequency** once per round\n**Effect** Vivatu makes two unarmed Strikes. If both hit the same creature, combine their damage for the purpose of resistances and weaknesses."
+    desc: "`pf2:1`  **Frequency** once per round\n* * *\n\n**Effect** Vivatu makes two unarmed Strikes. If both hit the same creature, combine their damage for the purpose of resistances and weaknesses."
 
   - name: "Spring Up"
-    desc: "`pf2:2`  **Requirements** Vivatu is [[Conditions/Prone|Prone]]\n**Effect** Vivatu Stands, then can immediately Step twice. The Stand action doesn't trigger reactions."
+    desc: "`pf2:2`  **Requirements** Vivatu is [[Conditions/Prone|Prone]]\n* * *\n\n**Effect** Vivatu Stands, then can immediately Step twice. The Stand action doesn't trigger reactions."
  
+```
+
+```encounter-table
+name: Younger Sister Vivatu
+creatures:
+  - 1: Younger Sister Vivatu
 ```
 
 

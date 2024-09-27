@@ -8,7 +8,7 @@ tags:
 ---
 # Busted Shin
 
-> **Crit Effect:** Until healed, the target is [[Conditions/Clumsy 1|Clumsy 1]] and takes a [[Other Effects/Effect\_ -10-foot status penalty to your land Speed|-10-foot status penalty to your land Speed]].
+> **Crit Effect:** Until healed, the target is [[Conditions/Clumsy|Clumsy 1]] and takes a [[Other Effects/Effect_ -10-foot status penalty to your land Speed|-10-foot status penalty to your land Speed]].
 
 `Bludgeoning`
 

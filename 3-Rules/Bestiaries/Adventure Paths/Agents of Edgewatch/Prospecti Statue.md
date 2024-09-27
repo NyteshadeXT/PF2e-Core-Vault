@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/construct
   - pf2e/creature/type/earth
   - pf2e/creature/type/mindless
+  - pf2eMonster
   - pf2e/creature/level/7
 statblock: inline
 name: "Prospecti Statue"
@@ -25,13 +26,14 @@ level: "Creature 7"
 
 alignment: ""
 size: "huge"
-trait_01: "construct"
-trait_02: "earth"
-trait_03: "mindless"
+trait_01: [[construct]]
+trait_02: [[earth]]
+trait_03: [[mindless]]
 modifier: 13
 perception:
   - name: "Perception"
     desc: "+13; Darkvision"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Athletics: +17"
@@ -66,11 +68,17 @@ attacks:
     desc: "`pf2:1` Longsword +18 (magical, versatile p)\n__Damage__  1d8 + 10 slashing"
 
   - name: "Stone Robes"
-    desc: "`pf2:1`  The Prospecti statue turns suddenly, causing its robes, which flow like fabric despite being as hard as stone, to swing about and damage opponents.\nCreatures adjacent to the animated statue take 2d6 + 6 bludgeoning damage (DC 25 Reflex check save; on a critical failure, the creature is also knocked [[Conditions/Prone|Prone]])."
+    desc: "`pf2:1`  The Prospecti statue turns suddenly, causing its robes, which flow like fabric despite being as hard as stone, to swing about and damage opponents.\n\nCreatures adjacent to the animated statue take 2d6+6 bludgeoning damage (DC 25 Reflex check save; on a critical failure, the creature is also knocked [[Conditions/Prone|Prone]])."
 
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
     desc: "`pf2:1`  "
  
+```
+
+```encounter-table
+name: Prospecti Statue
+creatures:
+  - 1: Prospecti Statue
 ```
 
 

@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/chaotic
   - pf2e/creature/type/monitor
   - pf2e/creature/type/petitioner
+  - pf2eMonster
   - pf2e/creature/level/1
 statblock: inline
 name: "Petitioner (Maelstrom)"
@@ -26,9 +27,9 @@ level: "Creature 1"
 
 alignment: ""
 size: "Medium"
-trait_01: "chaotic"
-trait_02: "monitor"
-trait_03: "petitioner"
+trait_01: [[chaotic]]
+trait_02: [[monitor]]
+trait_03: [[petitioner]]
 modifier: 7
 perception:
   - name: "Perception"
@@ -61,8 +62,14 @@ attacks:
     desc: "`pf2:1` Fist +7 ()\n__Damage__  1d8 + 2 bludgeoning"
 
   - name: "Planar Incarnation - Maelstrom"
-    desc: "  All petitioners are formed from and personify the nature of the plane on which they manifest, and their statistics are adjusted as summarized below. They also gain any trait associated with creatures from their plane.\n**Maelstrom** The shapeless appear as half-melted reflections of their former mortal selves\n*   **Alignment** CN;\n*   **Language** Protean;\n*   **Additional Ability** immune to critical hits and precision;\n*   **Melee** fist +7, **Damage** 1d8+2 bludgeoning"
+    desc: "  All petitioners are formed from and personify the nature of the plane on which they manifest, and their statistics are adjusted as summarized below. They also gain any trait associated with creatures from their plane.\n\n**Maelstrom** The shapeless appear as half-melted reflections of their former mortal selves\n\n*   **Alignment** CN;\n*   **Language** Protean;\n*   **Additional Ability** immune to critical hits and precision;\n*   **Melee** fist +7, **Damage** 1d8+2 bludgeoning"
  
+```
+
+```encounter-table
+name: Petitioner (Maelstrom)
+creatures:
+  - 1: Petitioner (Maelstrom)
 ```
 
 

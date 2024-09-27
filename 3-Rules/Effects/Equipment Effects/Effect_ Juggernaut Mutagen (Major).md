@@ -4,8 +4,9 @@ title: "Effect: Juggernaut Mutagen (Major)"
 cssclasses: pf2e,pf2e-spell
 tags:
   - trait/common
+  - remaster
 aliases: "Compendium.pf2e.equipment-effects.Item.2PNo8u4wxSbz5WEs"
-license: OGL
+license: ORC
 ---
 # Effect: Juggernaut Mutagen (Major)
 ## Level 17
@@ -32,5 +33,5 @@ Unimplemented effects:
 
 *   Whenever you are at maximum Hit Points for at least 1 full minute, you regain the temporary Hit Points.
 
-*Source: Pathfinder Core Rulebook*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.menace-under-otari-bestiary.Actor.cBHpMcVaLRPZu9po"
 tags:
   - pf2e/creature/type/air
   - pf2e/creature/type/elemental
+  - pf2eMonster
   - pf2e/creature/level/3
   - remaster
 statblock: inline
@@ -25,12 +26,13 @@ level: "Creature 3"
 
 alignment: ""
 size: "Small"
-trait_01: "air"
-trait_02: "elemental"
+trait_01: [[air]]
+trait_02: [[elemental]]
 modifier: 7
 perception:
   - name: "Perception"
     desc: "+7; Darkvision"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Acrobatics: +13, Stealth: +11"
@@ -60,6 +62,12 @@ attacks:
   - name: "Circling Attack"
     desc: "`pf2:2`  The zephyr hawk flies up to half its Speed, makes two wing Strikes, then flies up to half its Speed again to return to its original location. The second half of this movement doesn't trigger reactions like Reactive Strike. The second attack uses the same multiple attack penalty as the first, but attacks it makes after this take a -8 multiple attack penalty."
  
+```
+
+```encounter-table
+name: Zephyr Hawk (BB)
+creatures:
+  - 1: Zephyr Hawk (BB)
 ```
 
 

@@ -14,7 +14,7 @@ tags:
 
 # Bad Alignment
 
-> You take a [[Other Effects/Effect\_ -2 circumstance penalty to attack rolls with this weapon|-2 circumstance penalty to attack rolls with this weapon]] until the end of your next turn.
+> You take a [[Other Effects/Effect_ -2 circumstance penalty to attack rolls with this weapon|-2 circumstance penalty to attack rolls with this weapon]] until the end of your next turn.
 
 `Ranged`
 

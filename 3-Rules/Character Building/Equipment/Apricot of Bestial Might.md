@@ -15,7 +15,7 @@ license: OGL
 ---
 # Apricot of Bestial Might
 ## Item 16
-### [uncommon](uncommon "Uncommon Rarity Trait")[[alchemical]][[consumable]][[elixir]][[mutagen]][[polymorph]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[alchemical]][[consumable]][[elixir]][[mutagen]][[polymorph]]
 
 **Category** mutagen; 
 **Price** 2000 gp; 
@@ -28,7 +28,7 @@ This yellow fruit's soft flesh is covered by waxy, fibrous leaves reminiscent of
 
 **Benefit** You gain 8 resistance to all physical damage and gain a tusk unarmed attack with the deadly d12 trait that deals 1d10 piercing damage.
 
-**Drawback** You become [[Conditions/Clumsy 1|Clumsy 1]]. If you perform an action with the auditory or linguistic traits, you must succeed at a DC 5 Flat check or the action is lost.
+**Drawback** You become [[Conditions/Clumsy|Clumsy 1]]. If you perform an action with the auditory or linguistic traits, you must succeed at a DC 5 Flat check or the action is lost.
 
 [[Equipment Effects/Effect_ Apricot of Bestial Might|Effect: Apricot of Bestial Might]]
 

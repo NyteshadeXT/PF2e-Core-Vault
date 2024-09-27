@@ -4,6 +4,7 @@ obsidianUIMode: preview
 noteType: pf2eHazard
 tags:
   - haunt
+  - pf2eHazard
   - complex
 source: Pathfinder #150: Broken Promises
 aliases: "Compendium.pf2e.age-of-ashes-bestiary.Actor.hPPdfkiRZ1LUpN2h" 
@@ -21,7 +22,7 @@ name: "Damurdiel's Vengeance"
 level: "Hazard 19"
 
 trait_06: "Complex"
-trait_01: "haunt"
+trait_01: [[haunt]]
 modifier: 37
 sourcebook: "_Pathfinder #150: Broken Promises_"
 ac: 43
@@ -49,7 +50,7 @@ attacks:
   - name: ""
 
   - name: "Surprise Strike"
-    desc: "`pf2:r` (attack) **Trigger** A creature approaches within 5 feet of the pool's edge\n**Effect** The ghostly elf causes a dagger to rise out of the waters and then fling toward the triggering creature. If the attack is a hit, it is a critical hit instead. The haunt then rolls initiative."
+    desc: "`pf2:r` (attack) **Trigger** A creature approaches within 5 feet of the pool's edge\n* * *\n\n**Effect** The ghostly elf causes a dagger to rise out of the waters and then fling toward the triggering creature. If the attack is a hit, it is a critical hit instead. The haunt then rolls initiative."
   - name: "Melee"
     desc: "Dagger +40 (agile, thrown 10 ft., versatile s) "
 
@@ -57,5 +58,11 @@ attacks:
     desc: "(3 actions) The haunt attempts to Strike with the dagger."
   - name: "Reset"
     desc: "Damurdiel's spirit subsides once she is destroyed or if she manages to reduce a creature to 0 Hit Points. She returns after 1 minute."
+```
+
+```encounter-table
+name: Damurdiel's Vengeance
+creatures:
+  - 1: Damurdiel's Vengeance
 ```
 

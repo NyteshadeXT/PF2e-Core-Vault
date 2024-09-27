@@ -9,7 +9,7 @@ license: OGL
 ---
 # Advanced Book of Translation (Tien)
 ## Item 5
-### [uncommon](uncommon "Uncommon Rarity Trait")
+### [uncommon](uncommon.md "Uncommon Rarity Trait")
 
 
 **Price** 125 gp; 

@@ -12,7 +12,7 @@ license: OGL
 ---
 # Fire and Iceberg (Greater)
 ## Item 12
-### [uncommon](uncommon "Uncommon Rarity Trait")[[alchemical]][[consumable]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[alchemical]][[consumable]]
 
 **Category** other; 
 **Price** 350 gp; 

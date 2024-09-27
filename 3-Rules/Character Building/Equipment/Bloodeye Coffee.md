@@ -36,7 +36,7 @@ A strong blend including several spices common in the Padishah Empire of Kelesh,
 
 **Stage 1** +1 item bonus to AC and saves to which you are taking penalties caused by the [[Conditions/Fatigued|Fatigued]] condition (10 minutes)
 
-**Stage 2** [[Conditions/Stupefied 1|Stupefied 1]] (1 hour)
+**Stage 2** [[Conditions/Stupefied|Stupefied 1]] (1 hour)
 
 **Stage 3** can't recover from fatigued (1 day, after which the drug ends)
 

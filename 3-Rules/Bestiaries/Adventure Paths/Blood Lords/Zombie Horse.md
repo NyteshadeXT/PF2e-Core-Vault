@@ -10,6 +10,7 @@ tags:
   - pf2e/creature/type/undead
   - pf2e/creature/type/unholy
   - pf2e/creature/type/zombie
+  - pf2eMonster
   - pf2e/creature/level/1
 statblock: inline
 name: "Zombie Horse"
@@ -24,18 +25,19 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #181: Zombie Feast"
 name: "Zombie Horse"
 level: "Creature 1"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Large"
-trait_01: "evil"
-trait_02: "mindless"
-trait_03: "undead"
-trait_04: "unholy"
-trait_05: "zombie"
+trait_01: [[evil]]
+trait_02: [[mindless]]
+trait_03: [[undead]]
+trait_04: [[unholy]]
+trait_05: [[zombie]]
 modifier: 3
 perception:
   - name: "Perception"
     desc: "+3; Darkvision"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Athletics: +7"
@@ -55,7 +57,7 @@ abilities_top:
   - name: ""
 
   - name: "Slow"
-    desc: "  A zombie is permanently [[Conditions/Slowed 1|Slowed 1]] and can't use reactions."
+    desc: "  A zombie is permanently [[Conditions/Slowed|Slowed 1]] and can't use reactions."
 
 abilities_mid:
   - name: ""
@@ -66,11 +68,17 @@ attacks:
     desc: "`pf2:1` Jaws +9 ()\n__Damage__  1d8 + 4 piercing"
 
   - name: "Chomp at the Bone"
-    desc: "`pf2:1`  **Requirements** The zombie horse's previous action was a jaws Strike that dealt damage to its target\n**Effect** the zombie horse makes a second jaws Strike as it violently gnashes its teeth and bites deep into the target's flesh. On a success, the target takes an additional 1d4 persistent bleed damage."
+    desc: "`pf2:1`  **Requirements** The zombie horse's previous action was a jaws Strike that dealt damage to its target\n* * *\n\n**Effect** the zombie horse makes a second jaws Strike as it violently gnashes its teeth and bites deep into the target's flesh. On a success, the target takes an additional 1d4 persistent bleed damage."
 
   - name: "Feast"
     desc: "`pf2:2` (manipulate) If the zombie horse is adjacent to a helpless or [[Conditions/Unconscious|Unconscious]] creature, or a deceased creature that died in the past hour, the zombie can feast upon its flesh to heal itself. This restores 1 Hit Point. If the creature is alive, the zombie horse deals damage equal to its jaws damage."
  
+```
+
+```encounter-table
+name: Zombie Horse
+creatures:
+  - 1: Zombie Horse
 ```
 
 

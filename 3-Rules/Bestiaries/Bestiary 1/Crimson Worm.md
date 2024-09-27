@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.pathfinder-bestiary.Actor.8U8K0YEghIErml35"
 tags:
   - pf2e/creature/type/beast
   - pf2e/creature/type/fire
+  - pf2eMonster
   - pf2e/creature/level/18
 statblock: inline
 name: "Crimson Worm"
@@ -22,15 +23,16 @@ token: [[modules/pf2e-tokens-bestiaries/portraits/bestial/invertebrate/worm-crim
 source: "Pathfinder Bestiary"
 name: "Crimson Worm"
 level: "Creature 18"
-rare_03: "Rare"
+rare_03: [[Rare]]
 alignment: ""
 size: "grg"
-trait_01: "beast"
-trait_02: "fire"
+trait_01: [[beast]]
+trait_02: [[fire]]
 modifier: 25
 perception:
   - name: "Perception"
     desc: "+25; Darkvision, Tremorsense (Imprecise) 100 Feet"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Athletics: +38"
@@ -45,7 +47,7 @@ hp: 410
 health:
   - name: ""
   - name: HP
-    desc: "410, fire healing; __Immunities__  fire; __Weaknesses__ cold 15"
+    desc: "410, fire healing; __Immunities__  fire,  immobilized; __Weaknesses__ cold 15"
 abilities_top:
   - name: ""
 
@@ -55,10 +57,10 @@ abilities_mid:
     desc: "  As long as a crimson worm is in contact with a fire or body of magma at least as large as itself, it gains fast healing 20. When struck by a magical fire effect from anything other than itself, a crimson worm regains Hit Points equal to half the fire damage the effect would otherwise deal."
 
   - name: "Inexorable"
-    desc: "  The crimson worm recovers from the [[Conditions/Paralyzed|Paralyzed]], [[Conditions/Slowed 1|Slowed]], and [[Conditions/Stunned 1|Stunned]] conditions at the end of its turn. It's also immune to penalties to its Speeds and the [[Conditions/Immobilized|Immobilized]] condition, and it ignores difficult terrain and greater difficult terrain."
+    desc: "  The crimson worm recovers from the [[Conditions/Paralyzed|Paralyzed]], [[Conditions/Slowed|Slowed]], and [[Conditions/Stunned|Stunned]] conditions at the end of its turn. It's also immune to penalties to its Speeds and the [[Conditions/Immobilized|Immobilized]] condition, and it ignores difficult terrain and greater difficult terrain."
 
   - name: "Shake It Off"
-    desc: "`pf2:r`  **Frequency** once per day\n**Trigger** The crimson worm would be affected by a condition or adverse effect (such as [[Spells/Cursed Metamorphosis|Cursed Metamorphosis]])\n**Effect** The crimson worm negates the triggering condition or effect. Effects from artifacts, deities, or a similarly powerful source can't be avoided in this way."
+    desc: "`pf2:r`  **Frequency** once per day\n\n**Trigger** The crimson worm would be affected by a condition or adverse effect (such as [[Spells/Cursed Metamorphosis|Cursed Metamorphosis]])\n* * *\n\n**Effect** The crimson worm negates the triggering condition or effect. Effects from artifacts, deities, or a similarly powerful source can't be avoided in this way."
 
 attacks:
   - name: ""
@@ -73,23 +75,29 @@ attacks:
     desc: "`pf2:1` Body +34 (fire, reach 15 feet)\n__Damage__  2d10 + 16 bludgeoning 2d6 fire"
 
   - name: "Breath Weapon"
-    desc: "`pf2:2` (fire,primal) The crimson worm breathes a blast of flame in a 60-foot cone that deals 18d6 fire damage to all creatures in the area (DC 41 Reflex check save).\nIt can't use Breath Weapon again for 1d4 rounds."
+    desc: "`pf2:2` (fire,primal) The crimson worm breathes a blast of flame in a @Template[cone|distance:60] that deals 18d6 fire damage to all creatures in the area (DC 41 Reflex check save).\n\nIt can't use Breath Weapon again for 1d4 rounds."
 
   - name: "Crimson Worm Venom"
-    desc: " (poison) **Saving Throw** DC 41 Fortitude check\n**Maximum Duration** 6 rounds\n**Stage 1** 1d6 poison damage and [[Conditions/Drained 1|Drained 1]] (1 round)\n**Stage 2** 2d6 poison damage and drained 1 (1 round)\n**Stage 3** 2d6 poison damage and [[Conditions/Drained 1|Drained 2]] (1 round)."
+    desc: " (poison) **Saving Throw** DC 41 Fortitude check\n* * *\n\n**Maximum Duration** 6 rounds\n\n**Stage 1** 1d6 poison damage and [[Conditions/Drained|Drained 1]] (1 round)\n\n**Stage 2** 2d6 poison damage and drained 1 (1 round)\n\n**Stage 3** 2d6 poison damage and [[Conditions/Drained|Drained 2]] (1 round)."
 
   - name: "Fast Swallow"
-    desc: "`pf2:r`  **Trigger** The worm [[Conditions/Grabbed|Grabs]] a creature\n**Effect** The worm uses Swallow Whole."
+    desc: "`pf2:r`  **Trigger** The worm [[Conditions/Grabbed|Grabs]] a creature\n* * *\n\n**Effect** The worm uses Swallow Whole."
 
   - name: "Rock Tunneler"
     desc: "  A crimson worm can burrow through solid stone at a Speed of 20 feet. It can leave a tunnel if it desires, and it usually does."
 
   - name: "[[Bestiary Ability Glossary/Swallow Whole|Swallow Whole]]"
-    desc: "`pf2:1` (attack) Huge, 3d10+10 bludgeoning damage plus 2d6 fire damage, Rupture 36\n"
+    desc: "`pf2:1` (attack) Huge, 3d10+10 bludgeoning damage plus 2d6 fire damage, Rupture 36\n\n* * *\n"
 
   - name: "Thrash"
     desc: "`pf2:2`  The worm makes a Strike once against each creature in its reach. It can Strike up to once with its jaws, up to once with its stinger, and any number of times with its body. Each attack counts toward the worm's multiple attack penalty, but the multiple attack penalty doesn't increase until after it makes all the attacks."
  
+```
+
+```encounter-table
+name: Crimson Worm
+creatures:
+  - 1: Crimson Worm
 ```
 
 

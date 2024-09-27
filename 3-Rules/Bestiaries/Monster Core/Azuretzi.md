@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.pathfinder-monster-core.Actor.cRBVKMNukkRgELMs"
 tags:
   - pf2e/creature/type/monitor
   - pf2e/creature/type/protean
+  - pf2eMonster
   - pf2e/creature/level/5
   - remaster
 statblock: inline
@@ -26,8 +27,8 @@ level: "Creature 5"
 
 alignment: ""
 size: "Small"
-trait_01: "monitor"
-trait_02: "protean"
+trait_01: [[monitor]]
+trait_02: [[protean]]
 modifier: 11
 perception:
   - name: "Perception"
@@ -78,7 +79,7 @@ attacks:
     desc: "DC 22, attack +12; __4th __  _[[Spells/Translocate|Translocate]]_; __3rd __  _[[Spells/Crisis of Faith|Crisis of Faith]]_, _[[Spells/Dispel Magic|Dispel Magic]]_, _[[Spells/Shatter|Shatter]]_; __2nd __  _[[Spells/Laughing Fit|Laughing Fit]]_\n__Constant__  __(4th)__ _[[Spells/Unfettered Movement|Unfettered Movement]]_"
 
   - name: "[[Bestiary Ability Glossary/Constrict|Constrict]]"
-    desc: "`pf2:1`  1d12 + 5 bludgeoning, DC 21 Fortitude check\n\n* * *\n"
+    desc: "`pf2:1`  1d12+5 bludgeoning, DC 21 Fortitude check\n\n* * *\n"
 
   - name: "Mimic Form"
     desc: "`pf2:2` (concentrate,divine,polymorph) As Change Shape, but an azuretzi can assume the form of a Medium or smaller creature. They can mimic a specific creature they can see, but they must succeed at a DC 25 Perception check check or the attempt is disrupted. The azuretzi can transform into the same creature again without a check but can retain the details of only one specific appearance at a time. The azuretzi can Dismiss the effect as a free action to return to their natural form.\n* * *\n\nThe monster changes its shape indefinitely. It can use this action again to return to its natural shape or adopt a new shape. Unless otherwise noted, a monster cannot use Change Shape to appear as a specific individual. Using Change Shape counts as creating a disguise for the [[Actions/Impersonate|Impersonate]] use of Deception. The monster's transformation automatically defeats Perception DCs to determine whether the creature is a member of the ancestry or creature type into which it transformed, and it gains a +4 status bonus to its Deception DC to prevent others from seeing through its disguise. Change Shape abilities specify what shapes the monster can adopt. The monster doesn't gain any special abilities of the new shape, only its physical form. For example, in each shape, it replaces its normal Speeds and Strikes, and might potentially change its senses or size. Any changes are listed in its stat block."
@@ -89,6 +90,12 @@ attacks:
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
     desc: "`pf2:1`  "
  
+```
+
+```encounter-table
+name: Azuretzi
+creatures:
+  - 1: Azuretzi
 ```
 
 

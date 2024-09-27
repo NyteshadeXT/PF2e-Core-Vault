@@ -10,6 +10,7 @@ tags:
   - pf2e/creature/type/fiend
   - pf2e/creature/type/lawful
   - pf2e/creature/type/unholy
+  - pf2eMonster
   - pf2e/creature/level/14
 statblock: inline
 name: "Sepid"
@@ -28,16 +29,16 @@ level: "Creature 14"
 
 alignment: ""
 size: "Large"
-trait_01: "div"
-trait_02: "evil"
-trait_03: "fiend"
-trait_04: "lawful"
-trait_05: "unholy"
+trait_01: [[div]]
+trait_02: [[evil]]
+trait_03: [[fiend]]
+trait_04: [[lawful]]
+trait_05: [[unholy]]
 modifier: 24
 perception:
   - name: "Perception"
     desc: "+24; Greater Darkvision"
-languages: "Common, Daemonic"
+languages: "Common, Daemonic; telepathy 100 feet"
 skills:
   - name: "Skills"
     desc: "Acrobatics: +23, Arcana: +20, Athletics: +28, Deception: +22, Intimidation: +26, Religion: +20, Stealth: +23"
@@ -60,13 +61,13 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "[[Bestiary Ability Glossary/Attack of Opportunity|Attack of Opportunity (Special)]]"
-    desc: "`pf2:r`  A sepid gains an extra reaction each round that they can use only to make an Attack of Opportunity.\n"
+    desc: "`pf2:r`  A sepid gains an extra reaction each round that they can use only to make an Attack of Opportunity.\n\n* * *\n"
 
   - name: "Blatant Liar"
     desc: "  While all divs delight in lying, sepids are compulsive and predictable liars who always do the opposite of what they claim they'll do. If a sepid is ever forced or compelled to tell the truth, they take 4d8 mental damage."
 
   - name: "Deflecting Lie"
-    desc: "`pf2:r`  **Trigger** A creature hits the sepid with a ranged Strike or a ranged spell attack roll\n**Effect** The sepid lies in an attempt to divert the attack. They roll a Deception check against the triggering creature's Perception DC. On a success, if the triggering attack roll was a success, it becomes a failure, and if the triggering attack roll was a critical hit, it becomes a normal success."
+    desc: "`pf2:r`  **Trigger** A creature hits the sepid with a ranged Strike or a ranged spell attack roll\n* * *\n\n**Effect** The sepid lies in an attempt to divert the attack. They roll a Deception check against the triggering creature's Perception DC. On a success, if the triggering attack roll was a success, it becomes a failure, and if the triggering attack roll was a critical hit, it becomes a normal success."
 
 attacks:
   - name: ""
@@ -84,8 +85,14 @@ attacks:
     desc: "_[[Spells/Create Undead|Create Undead (No Secondary Caster Required)]]_, _[[Spells/Div Pact|Div Pact]]_"
 
   - name: "Rain of Debris"
-    desc: "`pf2:2` (divine,unholy) The sepid calls forth a hail of stone, wood, metal, and similar debris in a 40-foot emanation, dealing 10d6 bludgeoning damage and 5d6 spirit damage. Each creature in the area other than the sepid must attempt a DC 31 Reflex check saving throw.\nThe sepid can't use Rain of Debris again for 1d4 rounds."
+    desc: "`pf2:2` (divine,unholy) The sepid calls forth a hail of stone, wood, metal, and similar debris in a @Template[emanation|distance:40], dealing 10d6 bludgeoning damage and 5d6 spirit damage. Each creature in the area other than the sepid must attempt a DC 31 Reflex check saving throw.\n\nThe sepid can't use Rain of Debris again for 1d4 rounds."
  
+```
+
+```encounter-table
+name: Sepid
+creatures:
+  - 1: Sepid
 ```
 
 

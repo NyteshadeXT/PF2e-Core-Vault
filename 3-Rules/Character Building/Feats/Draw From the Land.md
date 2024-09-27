@@ -9,7 +9,7 @@ tags:
 aliases: "Compendium.pf2e.feats-srd.Item.HlqAdfxmcd9gdgHa"
 license: OGL
 ---
-# Draw From the Land
+# Draw From the Land `pf2:1`
 ## Feat 10
 ### [[archetype]]
 

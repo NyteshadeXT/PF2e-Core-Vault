@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.pathfinder-bestiary.Actor.NeYU7wwCv0RUesZ1"
 tags:
   - pf2e/creature/type/earth
   - pf2e/creature/type/elemental
+  - pf2eMonster
   - pf2e/creature/level/9
 statblock: inline
 name: "Stone Mauler"
@@ -25,8 +26,8 @@ level: "Creature 9"
 
 alignment: ""
 size: "Large"
-trait_01: "earth"
-trait_02: "elemental"
+trait_01: [[earth]]
+trait_02: [[elemental]]
 modifier: 16
 perception:
   - name: "Perception"
@@ -51,15 +52,15 @@ abilities_top:
   - name: ""
 
   - name: "Earthbound"
-    desc: "  When not touching solid ground, a stone mauler is [[Conditions/Slowed 1|Slowed 1]] and can't use reactions."
+    desc: "  When not touching solid ground, a stone mauler is [[Conditions/Slowed|Slowed 1]] and can't use reactions."
 
 abilities_mid:
   - name: ""
   - name: "Crumble"
-    desc: "`pf2:r`  **Trigger** The stone mauler takes damage from a hostile source while atop rock or earth.\n**Effect** The stone mauler crumbles into the ground, Burrowing down 15 feet. This Burrowing does not trigger reactions.\nThe stone mauler can't Crumble again for 1d4 rounds."
+    desc: "`pf2:r`  **Trigger** The stone mauler takes damage from a hostile source while atop rock or earth.\n* * *\n\n**Effect** The stone mauler crumbles into the ground, Burrowing down 15 feet. This Burrowing does not trigger reactions.\n\nThe stone mauler can't Crumble again for 1d4 rounds."
 
   - name: "Spike Stones"
-    desc: " (aura,earth,primal) 5 feet. Spikes of rock rise up from all stone surfaces in the emanation, creating difficult terrain. A creature moving in the terrain takes 2d6 piercing damage for each square of spikes it moves into (a Large or larger creature takes damage only once for each square it moves, even if its space covers multiple squares of spikes). Creatures with the earth trait ignore all effects within the area.\nThe stone mauler can disable or activate spike stones as a single action, which has the concentrate trait."
+    desc: " (aura,earth,primal) 5 feet. Spikes of rock rise up from all stone surfaces in the emanation, creating difficult terrain. A creature moving in the terrain takes 2d6 piercing damage for each square of spikes it moves into (a Large or larger creature takes damage only once for each square it moves, even if its space covers multiple squares of spikes). Creatures with the earth trait ignore all effects within the area.\n\nThe stone mauler can disable or activate spike stones as a single action, which has the concentrate trait."
 
 attacks:
   - name: ""
@@ -76,6 +77,12 @@ attacks:
   - name: "[[Bestiary Ability Glossary/Push|Push 10 feet]]"
     desc: "`pf2:1`  "
  
+```
+
+```encounter-table
+name: Stone Mauler
+creatures:
+  - 1: Stone Mauler
 ```
 
 

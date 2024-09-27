@@ -8,8 +8,9 @@ tags:
   - trait/social
   - trait/common
   - category/skill
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.rAbfuZ1mc3lUYH41"
-license: OGL
+license: ORC
 ---
 # Minion Guise
 ## Feat 4
@@ -27,5 +28,5 @@ When changing to your social identity, you also change your minion's appearance 
 
 Commanding your minion to use unusual magical or combat abilities it gained from your class features or feats while in this social identity risks exposing your vigilante identity.
 
-*Source: Pathfinder Advanced Player's Guide*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

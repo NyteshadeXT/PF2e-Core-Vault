@@ -6,6 +6,7 @@ cssClasses: pf2e
 aliases: "Compendium.pf2e.pathfinder-bestiary-2.Actor.6EX8nxH3zRotLRJG" 
 tags:
   - pf2e/creature/type/animal
+  - pf2eMonster
   - pf2e/creature/level/0
 statblock: inline
 name: "Sea Snake"
@@ -24,14 +25,15 @@ level: "Creature 0"
 
 alignment: ""
 size: "Small"
-trait_01: "animal"
+trait_01: [[animal]]
 modifier: 5
 perception:
   - name: "Perception"
     desc: "+5; Low-Light Vision, Scent (Imprecise) 30 Feet"
+languages: ""
 skills:
   - name: "Skills"
-    desc: "Athletics: +2 (+6 to Swim), Stealth: +5, Survival: +5"
+    desc: "Athletics: +2, Stealth: +5, Survival: +5"
 abilityMods: [0, 3, 1, -4, 1, -2]
 speed: 15 feet,  swim 25 feet
 sourcebook: "_Pathfinder Bestiary 2_"
@@ -53,7 +55,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Lash Out"
-    desc: "`pf2:r` (move) **Trigger** A creature within the sea snake's reach uses a move action\n**Effect** The sea snake makes a bite Strike against the attacker."
+    desc: "`pf2:r` (move) **Trigger** A creature within the sea snake's reach uses a move action\n* * *\n\n**Effect** The sea snake makes a bite Strike against the attacker."
 
 attacks:
   - name: ""
@@ -62,8 +64,14 @@ attacks:
     desc: "`pf2:1` Fangs +7 (agile, finesse)\n__Damage__  1d8 piercing plus sea-snake-venom"
 
   - name: "Sea Snake Venom"
-    desc: " (poison) **Saving Throw** DC 16 Fortitude check\n**Maximum Duration** 4 rounds\n**Stage 1** 1d6 poison damage (1 round)\n**Stage 2** 1d6 poison damage and [[Conditions/Enfeebled 1|Enfeebled 1]] (1 round)"
+    desc: " (poison) **Saving Throw** DC 16 Fortitude check\n\n**Maximum Duration** 4 rounds\n\n**Stage 1** 1d6 poison damage (1 round)\n\n**Stage 2** 1d6 poison damage and [[Conditions/Enfeebled|Enfeebled 1]] (1 round)"
  
+```
+
+```encounter-table
+name: Sea Snake
+creatures:
+  - 1: Sea Snake
 ```
 
 

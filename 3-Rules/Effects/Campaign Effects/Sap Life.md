@@ -19,7 +19,7 @@ license: OGL
 
 
 
-Just as some undead hunger for life, you feel the urge to draw vitality from the living. Attempt an unarmed Strike against a foe. If you hit, you inflict 4d6 void damage and restore 10 Hit Points to yourself.
+Just as some undead hunger for life, you feel the urge to draw vitality from the living. Attempt an unarmed Strike against a foe. If you hit, you inflict 4d6 void damage and restore 10 healing Hit Points to yourself.
 
 *Source: Pathfinder #198: No Breath to Cry*
 *OGL*

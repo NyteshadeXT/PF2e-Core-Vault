@@ -4,6 +4,7 @@ obsidianUIMode: preview
 noteType: pf2eHazard
 tags:
   - environmental
+  - pf2eHazard
 
 source: Pathfinder Lost Omens: Impossible Lands
 aliases: "Compendium.pf2e.lost-omens-impossible-lands-bestiary.Actor.98wPo6efoFhxdVwl" 
@@ -21,13 +22,13 @@ name: "Spell Pitchers"
 level: "Hazard 1"
 
 
-trait_01: "environmental"
+trait_01: [[environmental]]
 modifier: 10
 sourcebook: "_Pathfinder Lost Omens: Impossible Lands_"
 ac: 16
 armorclass:
   - name: AC
-    desc: "16; __Fort__ +11, __Ref__ +5, __Will__ +0"
+    desc: "16; __Fort__ +11, __Ref__ +5, "
 hp: 40
 health:
   - name: ""
@@ -49,10 +50,16 @@ attacks:
   - name: ""
 
   - name: "Devour Magic"
-    desc: "`pf2:r` **Trigger** A spell's direct line of effect passes within a 5-foot-radius of the plant\n**Effect** The pitcher attempts to counteract the spell (counteract rank 1, counteract modifier +10). On a success, the pitcher immediately consumes the spell as it passes over the plant."
+    desc: "`pf2:r` **Trigger** A spell's direct line of effect passes within a 5-foot-radius of the plant\n* * *\n\n**Effect** The pitcher attempts to counteract the spell (counteract rank 1, counteract modifier +10). On a success, the pitcher immediately consumes the spell as it passes over the plant."
 
 
   - name: "Reset"
     desc: "Once the pitcher has eaten a spell, its petals turn dark pink and green before it closes. It goes dormant for one day per spell rank of the spell consumed. Once the pitcher finishes digesting, it opens again and slowly wilts. A second pitcher branches into an adjacent square when the first pitcher opens again."
+```
+
+```encounter-table
+name: Spell Pitchers
+creatures:
+  - 1: Spell Pitchers
 ```
 

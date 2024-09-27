@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/divine
   - pf2e/creature/type/dragon
   - pf2e/creature/type/unholy
+  - pf2eMonster
   - pf2e/creature/level/15
   - remaster
 statblock: inline
@@ -20,15 +21,16 @@ license: ORC
 columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
+token: [[modules/pf2e-tokens-monster-core/assets/portraits/dragon-diabolic-adult.webp| ]]
 source: "Pathfinder Monster Core"
 name: "Diabolic Dragon (Adult, Spellcaster)"
 level: "Creature 15"
 
 alignment: ""
 size: "huge"
-trait_01: "divine"
-trait_02: "dragon"
-trait_03: "unholy"
+trait_01: [[divine]]
+trait_02: [[dragon]]
+trait_03: [[unholy]]
 modifier: 26
 perception:
   - name: "Perception"
@@ -36,7 +38,7 @@ perception:
 languages: "Common, Diabolic, Draconic, Pyric, Empyrean, Necril"
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +27, Athletics: +30, Deception: +26, Diplomacy: +28, Hell Lore: +24, Intimidation: +26, Legal Lore: +26, Religion: +26, Society: +24, Thievery: +27"
+    desc: "Acrobatics: +27, Athletics: +30, Deception: +26, Diplomacy: +28, Intimidation: +26, Religion: +26, Society: +24, Thievery: +27, Hell Lore: +24, Legal Lore: +26"
 abilityMods: [8, 4, 6, 3, 5, 5]
 speed: 60 feet,  fly 150 feet
 sourcebook: "_Pathfinder Monster Core_"
@@ -88,7 +90,7 @@ attacks:
     desc: "  Any fire damage that a diabolic dragon deals, including fire damage from spells, is imbued with the unholy power of Hell to scorch the spirit as well. A creature takes spirit damage instead of fire damage if that would be more detrimental to the creature (as determined by the GM). A diabolic dragon is immune to the diabolic fire of other diabolic dragons, the fire from divine immolation, and similar effects."
 
   - name: "Hellfire Breath"
-    desc: "`pf2:2` (divine,fire,unholy) The dragon unleashes a blast of infernal fire that deals 16d6 fire damage in a 50-foot cone (DC 36 Reflex check save).\n\nThe dragon can't use Hellfire Breath again for 1d4 rounds."
+    desc: "`pf2:2` (divine,fire,unholy) The dragon unleashes a blast of infernal fire that deals 16d6 fire damage in a @Template[cone|distance:50] (DC 36 Reflex check save).\n\nThe dragon can't use Hellfire Breath again for 1d4 rounds."
 
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
     desc: "`pf2:1`  "
@@ -96,6 +98,12 @@ attacks:
   - name: "[[Bestiary Ability Glossary/Knockdown|Knockdown]]"
     desc: "`pf2:1`  "
  
+```
+
+```encounter-table
+name: Diabolic Dragon (Adult, Spellcaster)
+creatures:
+  - 1: Diabolic Dragon (Adult, Spellcaster)
 ```
 
 

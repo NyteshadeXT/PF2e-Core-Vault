@@ -5,6 +5,7 @@ noteType: pf2eHazard
 tags:
   - environmental
   - fungus
+  - pf2eHazard
 
 source: Pathfinder Society Special #3-98: Expedition Into Pallid Peril
 aliases: "Compendium.pf2e.pfs-season-3-bestiary.Actor.fRIyhOmNon1GtQeT" 
@@ -22,14 +23,14 @@ name: "Mutated Brown Mold"
 level: "Hazard 6"
 
 
-trait_01: "environmental"
-trait_02: "fungus"
+trait_01: [[environmental]]
+trait_02: [[fungus]]
 modifier: 18
 sourcebook: "_Pathfinder Society Special #3-98: Expedition Into Pallid Peril_"
 ac: 24
 armorclass:
   - name: AC
-    desc: "24; __Fort__ +17, __Ref__ +11, __Will__ +0"
+    desc: "24; __Fort__ +17, __Ref__ +11, "
 hp: 54
 health:
   - name: ""
@@ -51,13 +52,19 @@ attacks:
   - name: ""
 
   - name: "Emit Cold"
-    desc: "passive (aura, cold) 10 feet. Enhanced brown mold deals 2d8 + 7 cold damage to nearby creatures."
+    desc: "passive (aura, cold) 10 feet. Enhanced brown mold deals 2d8+7 cold damage to nearby creatures."
 
   - name: "Leech Warmth"
-    desc: "`pf2:r` **Trigger** Fire comes within 5 feet of the brown mold.\n**Effect** The brown mold expands into every square adjacent to its space. As it grows, it pulls more heat from its surroundings, dealing 4d8 + 14 cold damage (DC 24 Fortitude check save) to creatures within 15 feet after it expands."
+    desc: "`pf2:r` **Trigger** Fire comes within 5 feet of the brown mold.\n* * *\n\n**Effect** The brown mold expands into every square adjacent to its space. As it grows, it pulls more heat from its surroundings, dealing 4d8+14 cold damage (DC 24 Fortitude check save) to creatures within 15 feet after it expands."
 
 
   - name: "Reset"
     desc: "After expanding, the brown mold can't grow again for 1 day."
+```
+
+```encounter-table
+name: Mutated Brown Mold
+creatures:
+  - 1: Mutated Brown Mold
 ```
 

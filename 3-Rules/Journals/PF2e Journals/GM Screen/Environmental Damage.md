@@ -11,6 +11,7 @@ tags:
   
 
 **ENVIRONMENTAL DAMAGE**
+ 
 | **Category** | **Damage** |
 | --- | --- |
 | Minor | 1d6-2d6 |

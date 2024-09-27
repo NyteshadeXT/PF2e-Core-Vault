@@ -22,11 +22,11 @@ license: ORC
 **Bulk** L; **Size** med
 **Usage** held-in-two-hands
 
-**Activate** `pf2:1`(manipulate)
+**Activate** `pf2:1` (manipulate)
 
 * * *
 
-Applying this filmy salve to a creature helps it overcome magical paralysis. If the creature is petrified, it returns to normal, and for removing paralysis, the salve’s counteract modifier is +31 and its counteract rank is 6th.
+Applying this filmy salve to a creature helps it overcome magical paralysis. If the creature is petrified, it returns to normal, and for removing paralysis, the salve's counteract modifier is +31 and its counteract rank is 6th.
 
 *Source: Pathfinder GM Core*
 *ORC*

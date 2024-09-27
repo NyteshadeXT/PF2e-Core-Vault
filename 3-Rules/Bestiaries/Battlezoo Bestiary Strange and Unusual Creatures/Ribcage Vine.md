@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/plant
   - pf2e/creature/type/undead
   - pf2e/creature/type/unholy
+  - pf2eMonster
   - pf2e/creature/level/5
 statblock: inline
 name: "Ribcage Vine"
@@ -24,21 +25,21 @@ token: [[modules/battlezoo-bestiary-su-pf2e/art/Portraits/ribcage-vine.webp| ]]
 source: "Battlezoo Bestiary: Strange and Unusual"
 name: "Ribcage Vine"
 level: "Creature 5"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Medium"
-trait_01: "evil"
-trait_02: "plant"
-trait_03: "undead"
-trait_04: "unholy"
+trait_01: [[evil]]
+trait_02: [[plant]]
+trait_03: [[undead]]
+trait_04: [[unholy]]
 modifier: 10
 perception:
   - name: "Perception"
     desc: "+10; Lifesense 30 Feet, Tremorsense (Imprecise) 60 Feet"
-languages: "Necril"
+languages: "Necril; can&#x27;t speak"
 skills:
   - name: "Skills"
-    desc: "Athletics: +16, Stealth: +13, "
+    desc: "Athletics: +16, Stealth: +13, Athletics: +16, Stealth: +13"
 abilityMods: [5, 3, 5, -2, 0, 0]
 speed: 20 feet
 sourcebook: "_Battlezoo Bestiary: Strange and Unusual_"
@@ -55,7 +56,7 @@ abilities_top:
   - name: ""
 
   - name: "Mud and Bones"
-    desc: " (aura,divine,earth,olfactory) 20 feet. A creature that enters the aura or that starts its turn in it must succeed at a DC 21 Fortitude check save or become Sickened 1. As long as it stays in the aura, the creature can't reduce the value of the condition. On a success, the creature is temporarily immune to the effect for 24 hours. Regardless of the result of the save, the ground within the aura is difficult terrain."
+    desc: " (aura,divine,earth,olfactory) 20 feet. A creature that enters the aura or that starts its turn in it must succeed at a DC 21 Fortitude check save or become [[undefined]]. As long as it stays in the aura, the creature can't reduce the value of the condition. On a success, the creature is temporarily immune to the effect for 24 hours. Regardless of the result of the save, the ground within the aura is difficult terrain."
 
 abilities_mid:
   - name: ""
@@ -66,17 +67,23 @@ attacks:
     desc: "`pf2:1` Rib Leaf +15 (reach 10 feet)\n__Damage__  2d8 + 7 piercing plus grab"
 
   - name: "Feed the Heart"
-    desc: "`pf2:1`  **Requirements** The ribcage vine has a creature Grabbed\n**Effect** The ribcage vine feeds on the vital essence of the creature. The grabbed creature takes 2d8 void damage, with a basic DC 22 Fortitude check save, and the ribcage vine regains a number of Hit Points equal to the damage taken."
+    desc: "`pf2:1`  **Requirements** The ribcage vine has a creature [[undefined]]\n* * *\n\n**Effect** The ribcage vine feeds on the vital essence of the creature. The grabbed creature takes 2d8 void damage, with a basic DC 22 Fortitude check save, and the ribcage vine regains a number of Hit Points equal to the damage taken."
 
   - name: "Protect the Heart"
-    desc: "`pf2:1`  The ribcage vine assumes a more defensive position, using its hard leaves to protect its core, gaining a +2 circumstance bonus to AC until the beginning of its next turn.\n[[Effects/Effect_ Protect The Heart|Effect: Protect The Heart]]"
+    desc: "`pf2:1`  The ribcage vine assumes a more defensive position, using its hard leaves to protect its core, gaining a +2 circumstance bonus to AC until the beginning of its next turn.\n\n[[Effects/Effect_ Protect The Heart|Effect: Protect The Heart]]"
 
   - name: "Root Disruption"
-    desc: "`pf2:2`  The ribcage vine uses its roots to churn and roil the earth, exposing a mass of sharp bones Hidden underneath. Each of the ribcage vine's enemies within its mud and bones aura takes 2d8 slashing damage, depending on a DC 21 Reflex check save.\n**Critical Success** The creature avoids the bones and is unaffected.\n**Success** The creature takes half damage from the bones.\n**Failure** The creature takes full damage from the bones, as well as 1d6 persistent bleed damage as bone fragments become embedded in their flesh or leave gaping wounds behind.\n**Critical Failure** As failure, but the creature is also knocked Prone by the violent churning of the earth."
+    desc: "`pf2:2`  The ribcage vine uses its roots to churn and roil the earth, exposing a mass of sharp bones [[undefined]] underneath. Each of the ribcage vine's enemies within its mud and bones aura takes 2d8 slashing damage, depending on a DC 21 Reflex check save.\n* * *\n\n**Critical Success** The creature avoids the bones and is unaffected.\n\n**Success** The creature takes half damage from the bones.\n\n**Failure** The creature takes full damage from the bones, as well as 1d6 persistent bleed damage as bone fragments become embedded in their flesh or leave gaping wounds behind.\n\n**Critical Failure** As failure, but the creature is also knocked [[undefined]] by the violent churning of the earth."
 
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
     desc: "`pf2:1`  "
  
+```
+
+```encounter-table
+name: Ribcage Vine
+creatures:
+  - 1: Ribcage Vine
 ```
 
 

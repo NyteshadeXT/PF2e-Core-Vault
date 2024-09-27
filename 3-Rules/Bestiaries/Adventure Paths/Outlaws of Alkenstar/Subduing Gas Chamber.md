@@ -5,6 +5,7 @@ noteType: pf2eHazard
 tags:
   - mechanical
   - trap
+  - pf2eHazard
   - complex
 source: Pathfinder #178: Punks in a Powder Keg
 aliases: "Compendium.pf2e.outlaws-of-alkenstar-bestiary.Actor.QQ2Ci8E2lkxG8QIV" 
@@ -22,14 +23,14 @@ name: "Subduing Gas Chamber"
 level: "Hazard 5"
 
 trait_06: "Complex"
-trait_01: "mechanical"
-trait_02: "trap"
+trait_01: [[mechanical]]
+trait_02: [[trap]]
 modifier: 10
 sourcebook: "_Pathfinder #178: Punks in a Powder Keg_"
 ac: 10
 armorclass:
   - name: AC
-    desc: "10; __Fort__ +15, __Ref__ +9, __Will__ +0"
+    desc: "10; __Fort__ +15, __Ref__ +9, "
 hp: 40
 health:
   - name: ""
@@ -51,14 +52,20 @@ attacks:
   - name: ""
 
   - name: "Slam Door"
-    desc: "`pf2:r` **Trigger** A creature opens the desk drawer without holding the release button under the desk\n**Effect** The wooden door to the room slams shut and locks, and the trap rolls initiative."
+    desc: "`pf2:r` **Trigger** A creature opens the desk drawer without holding the release button under the desk\n* * *\n\n**Effect** The wooden door to the room slams shut and locks, and the trap rolls initiative."
 
   - name: "Sleeping Gas"
-    desc: "passive (inhaled, poison) **Saving Throw** DC 22 Fortitude check\n**Maximum Duration** 4 hours\n**Stage 1** [[Conditions/Slowed 1|Slowed 1]] (1 round)\n**Stage 2** [[Conditions/Unconscious|Unconscious]] with no Perception check to wake up (1 round)\n**Stage 3** unconscious with no Perception check to wake up (1 hour)"
+    desc: "passive (inhaled, poison) **Saving Throw** DC 22 Fortitude check\n\n**Maximum Duration** 4 hours\n\n**Stage 1** [[Conditions/Slowed|Slowed 1]] (1 round)\n\n**Stage 2** [[Conditions/Unconscious|Unconscious]] with no Perception check to wake up (1 round)\n\n**Stage 3** unconscious with no Perception check to wake up (1 hour)"
 
   - name: "Routine"
     desc: "(1 action) Each round on its initiative count, the trap pumps more sleeping gas into the room. Any breathing creature in the room is exposed to the toxin. If a creature acts before the trap on the first round, it has the option of holding its breath to postpone breathing in the poison-holding one's breath after the trap's first action has no effect, since the air in the creature's lungs is already tainted. The trap functions for 1 minute before all the gas is expended, after which it rapidly decays over the next minute. Opening the door to an adjacent room cuts the remaining time it takes for the gas to decay in half but exposes creatures in that room as well."
   - name: "Reset"
     desc: "The gas must be manually reloaded."
+```
+
+```encounter-table
+name: Subduing Gas Chamber
+creatures:
+  - 1: Subduing Gas Chamber
 ```
 

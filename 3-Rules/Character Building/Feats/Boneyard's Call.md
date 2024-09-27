@@ -6,8 +6,9 @@ tags:
   - trait/duskwalker
   - trait/uncommon
   - category/ancestry
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.wfOGyLnuVMFo7Rwy"
-license: OGL
+license: ORC
 ---
 # Boneyard's Call
 ## Feat 17
@@ -18,9 +19,7 @@ license: OGL
 
 
 
-You have a powerful connection to the Boneyard and its courts, granting you the ability to travel to and from the Boneyard. You gain [[Spells/Interplanar Teleport|Interplanar Teleport]] as a divine innate spell. You can cast it twice per week.
+You have a powerful connection to the Boneyard and its courts, granting you the ability to travel to and from the Boneyard. You can cast [[Spells/Interplanar Teleport|Interplanar Teleport]] as a divine innate spell twice per week. This can be used only to travel to the Boneyard or from the Boneyard to the Universe. Due to your unique connection to the Boneyard, your body serves as the locus, and you don't require a planar key.
 
-This can be used only to travel to the Boneyard or from the Boneyard to the Material Plane. Due to your unique connection to the Boneyard, your body serves as the focus, and you don't require a tuning fork.
-
-*Source: Pathfinder Advanced Player's Guide*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

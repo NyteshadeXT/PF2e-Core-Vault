@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/human
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/4
 statblock: inline
 name: "Pakano"
@@ -23,13 +24,13 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #175: Broken Tusk Moon"
 name: "Pakano"
 level: "Creature 4"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Medium"
-trait_01: "chaotic"
-trait_02: "evil"
-trait_03: "human"
-trait_04: "humanoid"
+trait_01: [[chaotic]]
+trait_02: [[evil]]
+trait_03: [[human]]
+trait_04: [[humanoid]]
 modifier: 11
 perception:
   - name: "Perception"
@@ -63,7 +64,7 @@ abilities_mid:
     desc: "`pf2:r`  "
 
   - name: "Spurred by Death"
-    desc: "`pf2:r`  **Trigger** An ally within 30 feet reduces a creature to 0 HP\n**Effect** Pakano Steps or Strides."
+    desc: "`pf2:r`  **Trigger** An ally within 30 feet reduces a creature to 0 HP\n* * *\n\n**Effect** Pakano Steps or Strides."
 
 attacks:
   - name: ""
@@ -78,11 +79,17 @@ attacks:
     desc: "`pf2:1` Tallow Bomb +10 (splash, thrown 20 ft.)\n__Damage__  2d4 fire 2 fire"
 
   - name: "Hunt Prey"
-    desc: "`pf2:1` (concentrate) Pakano designates a single creature he can see and hear, or one he's Tracking, as his prey. He gains a +2 circumstance bonus to Perception checks to [[Actions/Seek|Seek]] his prey and to Survival checks to [[Actions/Track|Track]] his prey.\nThe first time Pakano hits his designated prey in a round, he deals an additional 1d8 precision damage. Pakano also ignores the penalty for making ranged attacks within his second range increment.\nThese effects last until Pakano uses Hunt Prey again."
+    desc: "`pf2:1` (concentrate) Pakano designates a single creature he can see and hear, or one he's Tracking, as his prey. He gains a +2 circumstance bonus to Perception checks to [[Actions/Seek|Seek]] his prey and to Survival checks to [[Actions/Track|Track]] his prey.\n\nThe first time Pakano hits his designated prey in a round, he deals an additional 1d8 precision damage. Pakano also ignores the penalty for making ranged attacks within his second range increment.\n\nThese effects last until Pakano uses Hunt Prey again."
 
   - name: "Spear Fighter"
-    desc: "  Pakano's spear has the parry weapon trait, and his Strikes with the spear deal an additional 1d6 damage. If he critically hits a creature with a spear, the creature is [[Conditions/Clumsy 1|Clumsy 1]] until the start of Pakano's next turn."
+    desc: "  Pakano's spear has the parry weapon trait, and his Strikes with the spear deal an additional 1d6 damage. If he critically hits a creature with a spear, the creature is [[Conditions/Clumsy|Clumsy 1]] until the start of Pakano's next turn."
  
+```
+
+```encounter-table
+name: Pakano
+creatures:
+  - 1: Pakano
 ```
 
 

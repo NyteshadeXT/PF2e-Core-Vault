@@ -17,7 +17,9 @@ license: OGL
 
 
 
-**Minor Boon** Erastil shares in his bounty as long as you work for it. Whenever you roll a critical failure at a check to [[Actions/Subsist|Subsist]] in the wild, you get a failure instead.
+Erastil shares in his bounty as long as you work for it.
+
+Whenever you roll a critical failure at a check to [[Actions/Subsist|Subsist]] in the wild, you get a failure instead.
 
 *Source: Pathfinder Lost Omens: Gods & Magic*
 *OGL*

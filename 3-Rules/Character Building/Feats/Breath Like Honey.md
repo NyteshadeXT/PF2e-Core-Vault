@@ -6,8 +6,9 @@ tags:
   - trait/gnoll
   - trait/common
   - category/ancestry
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.FZZXgmVMAmvKHWIo"
-license: OGL
+license: ORC
 ---
 # Breath Like Honey
 ## Feat 9
@@ -17,9 +18,9 @@ license: OGL
 
 
 
-**Prerequisites** Sweetbreath Gnoll Heritage
+**Prerequisites** sweetbreath kholo heritage
 * * *
-You smell of honey and savory things. You can cast [[Spells/Enthrall|Enthrall]] as a 3rd-rank occult innate spell once per day, except the spell has a range of 30 feet and the inhaled trait instead of the auditory trait. Targets don't gain any circumstance bonus for disagreeing with you. Your circumstance bonus to checks to Make an Impression if the target can smell your breath increases to +2.
+You smell of honey and savory things. Your circumstance bonus to checks to [[Actions/Make an Impression|Make an Impression]] if the target can smell your breath increases to +2. In addition, you can cast [[Spells/Enthrall|Enthrall]] as a 3rd-rank occult innate spell once per day, except the spell has a range of 30 feet and the olfactory trait instead of the auditory trait. Targets don't gain any circumstance bonus for disagreeing with you.
 
-*Source: Pathfinder Lost Omens: The Mwangi Expanse*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

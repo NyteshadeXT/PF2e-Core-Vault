@@ -17,7 +17,7 @@ license: OGL
 
 
 
-**Major Boon** Pharasma keeps you alive to fulfill your fate.
+Pharasma keeps you alive to fulfill your fate.
 
 The GM secretly chooses a fate Pharasma knows you must fulfill. Until you fulfill this fate, any time you would die, a grave but nonfatal misfortune instead befalls you.
 

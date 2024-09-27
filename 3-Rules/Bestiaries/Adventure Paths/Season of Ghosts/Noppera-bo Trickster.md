@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/aberration
   - pf2e/creature/type/chaotic
   - pf2e/creature/type/evil
+  - pf2eMonster
   - pf2e/creature/level/1
 statblock: inline
 name: "Noppera-bo Trickster"
@@ -22,17 +23,17 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #196: The Summer That Never Was"
 name: "Noppera-bo Trickster"
 level: "Creature 1"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Medium"
-trait_01: "aberration"
-trait_02: "chaotic"
-trait_03: "evil"
+trait_01: [[aberration]]
+trait_02: [[chaotic]]
+trait_03: [[evil]]
 modifier: 8
 perception:
   - name: "Perception"
     desc: "+8; "
-languages: "Common"
+languages: "Common; telepathy 30 feet"
 skills:
   - name: "Skills"
     desc: "Acrobatics: +6, Athletics: +4, Deception: +8, Stealth: +6"
@@ -58,7 +59,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Sensitive Hearing"
-    desc: "  As long as a noppera-bo is [[Conditions/Deafened|Deafened]], they are [[Conditions/Slowed 1|Slowed 1]]."
+    desc: "  As long as a noppera-bo is [[Conditions/Deafened|Deafened]], they are [[Conditions/Slowed|Slowed 1]]."
 
 attacks:
   - name: ""
@@ -73,11 +74,17 @@ attacks:
     desc: "`pf2:2` (concentrate,occult,polymorph) The noppera-bo changes into a version of a Small or Medium humanoid they've touched during the last 24 hours, and gains the target creature's face and voice. While transformed, the noppera-bo gains a +2 circumstance bonus to [[Actions/Impersonate|Impersonate]] that creature and loses its no face ability and listed immunities. The noppera-bo can change back by using this ability again."
 
   - name: "Remove Face"
-    desc: "`pf2:2` (emotion,fear,mental,occult,visual) **Requirements** The noppera-bo trickster is Impersonating a creature with a face\n**Effect** The noppera-bo trickster's facial features melt into nothingness, and they menace a creature within 30 feet. The creature becomes [[Conditions/Frightened 1|Frightened 1]] on a failed DC 17 Will check save ([[Conditions/Frightened 1|Frightened 2]] on a critical failure)."
+    desc: "`pf2:2` (emotion,fear,mental,occult,visual) **Requirements** The noppera-bo trickster is Impersonating a creature with a face\n* * *\n\n**Effect** The noppera-bo trickster's facial features melt into nothingness, and they menace a creature within 30 feet. The creature becomes [[Conditions/Frightened|Frightened 1]] on a failed DC 17 Will check save ([[Conditions/Frightened|Frightened 2]] on a critical failure)."
 
   - name: "[[Bestiary Ability Glossary/Sneak Attack|Sneak Attack]]"
     desc: "  The noppera-bo trickster deals an additional 1d4 precision damage to creatures that are [[Conditions/Off-Guard|Off-Guard]]."
  
+```
+
+```encounter-table
+name: Noppera-bo Trickster
+creatures:
+  - 1: Noppera-bo Trickster
 ```
 
 

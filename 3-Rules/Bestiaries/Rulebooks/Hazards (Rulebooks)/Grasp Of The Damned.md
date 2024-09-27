@@ -4,6 +4,7 @@ obsidianUIMode: preview
 noteType: pf2eHazard
 tags:
   - haunt
+  - pf2eHazard
 
 source: Pathfinder Gamemastery Guide
 aliases: "Compendium.pf2e.hazards.Actor.siylw0zIh1g4VnCW" 
@@ -21,13 +22,13 @@ name: "Grasp Of The Damned"
 level: "Hazard 17"
 
 
-trait_01: "haunt"
+trait_01: [[haunt]]
 modifier: 33
 sourcebook: "_Pathfinder Gamemastery Guide_"
 ac: 10
 armorclass:
   - name: AC
-    desc: "10; __Fort__ +0, __Ref__ +0, __Will__ +0"
+    desc: "10; "
 hp: 0
 health:
   - name: ""
@@ -49,10 +50,16 @@ attacks:
   - name: ""
 
   - name: "Mark for Damnation"
-    desc: "`pf2:r` (death, divine) **Trigger** Three or more sentient living creatures of 13th level or higher enter the haunt's area.\n**Effect** The haunt deals 6d12 + 35 void damage to each creature in the haunt's area, and each creature must attempt a DC 40 Will check save.\n**Critical Success** The creature takes no damage and is doomed 1.\n**Success** The creature takes half damage and is doomed 1.\n**Failure** The creature takes full damage, becomes doomed 2, and is marked for damnation.\n**Critical Failure** The creature takes double damage, becomes doomed 3, and is marked for damnation.If a creature that is marked for damnation dies within the next 24 hours, including from the haunt's damage, its soul is immediately dragged away to the plane of the evil deity that the damned spirits served, where the creature's soul is held captive by one of that deity's powerful servitors. Only _wish_ and similarly potent effects are able to recover the lost soul directly; however, it is also possible to recover the soul by journeying to the evil plane and defeating the soul's captor."
+    desc: "`pf2:r` (death, divine) **Trigger** Three or more sentient living creatures of 13th level or higher enter the haunt's area.\n* * *\n\n**Effect** The haunt deals 6d12+35 void damage to each creature in the haunt's area, and each creature must attempt a DC 40 Will check save.\n* * *\n\n**Critical Success** The creature takes no damage and is doomed 1.\n\n**Success** The creature takes half damage and is doomed 1.\n\n**Failure** The creature takes full damage, becomes doomed 2, and is marked for damnation.\n\n**Critical Failure** The creature takes double damage, becomes doomed 3, and is marked for damnation.\n\nIf a creature that is marked for damnation dies within the next 24 hours, including from the haunt's damage, its soul is immediately dragged away to the plane of the evil deity that the damned spirits served, where the creature's soul is held captive by one of that deity's powerful servitors. Only _wish_ and similarly potent effects are able to recover the lost soul directly; however, it is also possible to recover the soul by journeying to the evil plane and defeating the soul's captor."
 
 
   - name: "Reset"
     desc: "1 day"
+```
+
+```encounter-table
+name: Grasp Of The Damned
+creatures:
+  - 1: Grasp Of The Damned
 ```
 

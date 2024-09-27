@@ -19,7 +19,7 @@ license: OGL
 
 **Prerequisites** Unexpected Shift
 * * *
-You have grown more comfortable with your penchant for supernatural disappearance. The flat check DC of your Fortuitous Shift feat decreases to 11, and you are no longer [[Conditions/Dazzled|Dazzled]] if you succeed.
+You have grown more comfortable with your penchant for supernatural disappearance. The flat check DC of your Fortuitous Shift feat decreases to DC 11 Flat check, and you are no longer [[Conditions/Dazzled|Dazzled]] if you succeed.
 
 *Source: Pathfinder Lost Omens: Character Guide*
 *OGL*

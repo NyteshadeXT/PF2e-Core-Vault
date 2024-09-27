@@ -78,6 +78,8 @@ Ahogo, Arnbin, Bighmor, Bondin, Domwurd, Ebmeur, Gopor, Gurna, Hiemgur, Mufurlo,
 
 ## Shoony Heritages
 
+Shoonies have developed a variety of physiological traits to account for their various roles in shoony society. Choose one of the following shoony heritages at 1st level.
+
 [[Heritages/Bloodhound Shoony|Bloodhound Shoony]]
 
 [[Heritages/Fishseeker Shoony|Fishseeker Shoony]]

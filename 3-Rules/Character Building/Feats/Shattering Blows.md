@@ -7,8 +7,9 @@ tags:
   - trait/rage
   - trait/common
   - category/class
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.RL7faGkymMFLAqTU"
-license: OGL
+license: ORC
 ---
 # Shattering Blows
 ## Feat 16
@@ -19,7 +20,7 @@ license: OGL
 
 
 
-Your forceful blows shatter objects with ease. While you are raging, your melee [[Actions/Strike|Strikes]] ignore 5 points of an object's Hardness. If you have the [[Class Features/Devastator|Devastator]] class feature, you instead ignore 10 points of an object's Hardness.
+Your forceful blows shatter objects with ease. While you are raging, damage from your melee Strikes ignores the first 5 Hardness of an object. If you have the [[Class Features/Devastator|Devastator]] class feature, the damage instead ignores the first 10 points Hardness of an object.
 
-*Source: Pathfinder Advanced Player's Guide*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

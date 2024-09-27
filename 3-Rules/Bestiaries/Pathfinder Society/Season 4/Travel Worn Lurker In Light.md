@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.pfs-season-4-bestiary.Actor.E0KmdZTSCae2rVJi"
 tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/fey
+  - pf2eMonster
   - pf2e/creature/level/4
 statblock: inline
 name: "Travel Worn Lurker In Light"
@@ -24,8 +25,8 @@ level: "Creature 4"
 
 alignment: ""
 size: "Small"
-trait_01: "evil"
-trait_02: "fey"
+trait_01: [[evil]]
+trait_02: [[fey]]
 modifier: 13
 perception:
   - name: "Perception"
@@ -64,17 +65,23 @@ attacks:
     desc: "DC 20, attack +14; __4th __  _[[Spells/Translocate|Dimension Door (Only when in bright light, and only to an area in bright light)]]_, _[[Spells/Summon Fey|Summon Fey]]_; __3rd __  _[[Spells/Blindness|Blindness]]_, _[[Spells/Holy Light|Searing Light]]_, _[[Spells/Summon Fey|Summon Fey]]_\n__Cantrips__  __(2nd)__ _[[Compendium.pf2e.spells-srd.Item.kl2q6JvBZwed4B6v|Dancing Lights]]_, _[[Spells/Ghost Sound|Ghost Sound]]_, _[[Spells/Light|Light]]_, _[[Spells/Telekinetic Hand|Mage Hand]]_"
 
   - name: "Blend with Light"
-    desc: "`pf2:r` (move) **Trigger** The lurker in light uses a move action\n**Requirements** The lurker in light is in an area of bright light\n**Effect** The lurker in light becomes [[Conditions/Invisible|Invisible]] until it enters an area of dim light or darkness, or until it uses a hostile action."
+    desc: "`pf2:r` (move) **Trigger** The lurker in light uses a move action\n\n**Requirements** The lurker in light is in an area of bright light\n* * *\n\n**Effect** The lurker in light becomes [[Conditions/Invisible|Invisible]] until it enters an area of dim light or darkness, or until it uses a hostile action."
 
   - name: "Lurker's Glow"
-    desc: " (light,primal) A creature that takes damage from a lurker in light's mote of light must attempt a DC 20 Will check save.\n**Success** The creature is unaffected and is temporarily immune to lurker's glow for 24 hours.\n**Failure** The creature is lined in golden light for 1 minute and can't be [[Conditions/Concealed|Concealed]] during this time. If the creature becomes [[Conditions/Invisible|Invisible]], it is concealed rather than being [[Conditions/Undetected|Undetected]].\n**Critical Failure** As failure, but the creature sheds bright light in a 20-foot emanation for the duration of the effect. In addition, the creature is [[Conditions/Dazzled|Dazzled]] on its first turn after failing this save.\n[[Bestiary Effects/Effect_ Lurker's Glow (Critical Failure)|Effect: Lurker's Glow (Critical Failure)]]"
+    desc: " (light,primal) A creature that takes damage from a lurker in light's mote of light must attempt a DC 20 Will check save.\n* * *\n\n**Success** The creature is unaffected and is temporarily immune to lurker's glow for 24 hours.\n\n**Failure** The creature is lined in golden light for 1 minute and can't be [[Conditions/Concealed|Concealed]] during this time. If the creature becomes [[Conditions/Invisible|Invisible]], it is concealed rather than being [[Conditions/Undetected|Undetected]].\n\n**Critical Failure** As failure, but the creature sheds bright light in a 20-foot emanation for the duration of the effect. In addition, the creature is [[Conditions/Dazzled|Dazzled]] on its first turn after failing this save.\n\n[[Bestiary Effects/Effect_ Lurker's Glow (Critical Failure)|Effect: Lurker's Glow (Critical Failure)]]"
 
   - name: "Ritual Gate"
-    desc: "`pf2:1` (primal) **Requirements** The lurker in light has reduced a living creature to 0 Hit Points on this turn or its previous turn and has a [[Spells/Summon Fey|Summon Fey]] innate spell available\n**Effect** The lurker in light casts _summon fey_ with only a verbal component, using the act of slaughter to replace the normal material and somatic components for the spell. If the fey creature summoned has the same alignment as the lurker in light, the lurker in light can sustain the _summon fey_ spell for up to 1 hour instead of 1 minute."
+    desc: "`pf2:1` (primal) **Requirements** The lurker in light has reduced a living creature to 0 Hit Points on this turn or its previous turn and has a [[Spells/Summon Fey|Summon Fey]] innate spell available\n* * *\n\n**Effect** The lurker in light casts _summon fey_ with only a verbal component, using the act of slaughter to replace the normal material and somatic components for the spell. If the fey creature summoned has the same alignment as the lurker in light, the lurker in light can sustain the _summon fey_ spell for up to 1 hour instead of 1 minute."
 
   - name: "[[Bestiary Ability Glossary/Sneak Attack|Sneak Attack]]"
     desc: "  A lurker in light's Strikes deal an additional 2d6 precision damage to [[Conditions/Off-Guard|Off-Guard]] creatures."
  
+```
+
+```encounter-table
+name: Travel Worn Lurker In Light
+creatures:
+  - 1: Travel Worn Lurker In Light
 ```
 
 

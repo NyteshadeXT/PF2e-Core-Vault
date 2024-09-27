@@ -16,14 +16,14 @@ license: OGL
 ---
 # Winter's Clutch `pf2:2`
 ## Feat 1
-### [[cold]][[impulse]][[kineticist]][[primal]][[3-Rules/Rule References/Water]]
+### [[cold]][[impulse]][[kineticist]][[primal]][[water]]
 
 **Category** class; 
 
 
 
 
-Gleaming flakes of chilling snow fall in a 10-foot burst within 60 feet. Each creature in the area takes 2d4 cold damage with a Reflex check save against your class DC. The ground in the area is covered in a snow drift, which is difficult terrain. Each square of the drift lasts until it melts, either naturally or until fire damage is dealt in that square.
+Gleaming flakes of chilling snow fall in a @Template\[burst|distance:10\] within 60 feet. Each creature in the area takes 2d4 cold damage with a Reflex check save against your class DC. The ground in the area is covered in a snow drift, which is difficult terrain. Each square of the drift lasts until it melts, either naturally or until fire damage is dealt in that square.
 
 * * *
 

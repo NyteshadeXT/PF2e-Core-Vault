@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/lawful
   - pf2e/creature/type/undead
   - pf2e/creature/type/unholy
+  - pf2eMonster
   - pf2e/creature/level/6
 statblock: inline
 name: "Graveknight Captain"
@@ -23,13 +24,13 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #172: Secrets of the Temple-City"
 name: "Graveknight Captain"
 level: "Creature 6"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Medium"
-trait_01: "evil"
-trait_02: "lawful"
-trait_03: "undead"
-trait_04: "unholy"
+trait_01: [[evil]]
+trait_02: [[lawful]]
+trait_03: [[undead]]
+trait_04: [[unholy]]
 modifier: 14
 perception:
   - name: "Perception"
@@ -60,10 +61,10 @@ abilities_mid:
     desc: "`pf2:r`  "
 
   - name: "[[Creature Family Ability Glossary/(Graveknight) Graveknight's Shield|Graveknight's Shield]]"
-    desc: " (arcane) The graveknight's curse extends to their shield, or the graveknight's armor uses a portion of itself to produce a shield.\nThe graveknight has a shield that uses the statistics of a _[[Equipment/Sturdy Shield (Minor)|Sturdy Shield (Minor)]]_.\nThe shield is quasi-independent of the graveknight and automatically protects the graveknight from harm. When the shield is raised, it automatically uses Shield Block to reduce the damage of the first attack against the graveknight each round without the graveknight needing to spend their reaction to do so.\nThe shield automatically rejuvenates with the rest of the graveknight and must be destroyed in the same manner as the graveknight's armor."
+    desc: " (arcane) The graveknight's curse extends to their shield, or the graveknight's armor uses a portion of itself to produce a shield.\n\nThe graveknight has a shield that uses the statistics of a _[[Equipment/Sturdy Shield (Minor)|Sturdy Shield (Minor)]]_.\n\nThe shield is quasi-independent of the graveknight and automatically protects the graveknight from harm. When the shield is raised, it automatically uses Shield Block to reduce the damage of the first attack against the graveknight each round without the graveknight needing to spend their reaction to do so.\n\nThe shield automatically rejuvenates with the rest of the graveknight and must be destroyed in the same manner as the graveknight's armor."
 
   - name: "[[Creature Family Ability Glossary/(Graveknight) Rejuvenation|Rejuvenation]]"
-    desc: " (divine) When a graveknight is destroyed, its armor rebuilds its body over the course of 1d10 days-or more quickly if the armor is worn by a living host. If the body is destroyed before then, the process restarts.\nA graveknight can only be permanently destroyed by obliterating its armor (such as with [[Spells/Disintegrate|Disintegrate]]), transporting it to the Forge of Creation, or throwing it into the heart of a volcano."
+    desc: " (divine) When a graveknight is destroyed, its armor rebuilds its body over the course of 1d10 days-or more quickly if the armor is worn by a living host. If the body is destroyed before then, the process restarts.\n\nA graveknight can only be permanently destroyed by obliterating its armor (such as with [[Spells/Disintegrate|Disintegrate]]), transporting it to the Forge of Creation, or throwing it into the heart of a volcano."
 
 attacks:
   - name: ""
@@ -75,14 +76,20 @@ attacks:
     desc: "`pf2:1` Fist +15 (agile, electricity, unarmed)\n__Damage__  2d4 + 7 bludgeoning 1d6 electricity"
 
   - name: "[[Creature Family Ability Glossary/(Graveknight) Devastating Blast|Devastating Blast]]"
-    desc: "`pf2:2` (arcane) The graveknight unleashes a 30-foot cone of energy. Creatures in the area take 4d12 electricity damage (DC 24 basic Reflex save).\nThe graveknight can use this ability once every 1d4 rounds."
+    desc: "`pf2:2` (arcane) The graveknight unleashes a @Template[cone|distance:30] of energy. Creatures in the area take 4d12 electricity damage (DC 24 basic Reflex save).\n\nThe graveknight can use this ability once every 1d4 rounds."
 
   - name: "[[Creature Family Ability Glossary/(Graveknight) Graveknight's Curse|Graveknight's Curse]]"
-    desc: " (arcane,curse) This curse affects anyone who wears a graveknight's armor for at least 1 hour.\n**Saving Throw** DC 24 Will check save\n**Onset** 1 hour\n**Stage 1** [[Conditions/Doomed 1|Doomed 1]] and cannot remove the armor (1 day)\n**Stage 2** [[Conditions/Doomed 1|Doomed 2]], speed penalty of -10 feet, and cannot remove the armor (1 day)\n**Stage 3** dies and transforms into the armor's graveknight."
+    desc: " (arcane,curse) This curse affects anyone who wears a graveknight's armor for at least 1 hour.\n* * *\n\n**Saving Throw** DC 24 Will check save\n\n**Onset** 1 hour\n\n**Stage 1** [[Conditions/Doomed|Doomed 1]] and cannot remove the armor (1 day)\n\n**Stage 2** [[Conditions/Doomed|Doomed 2]], speed penalty of -10 feet, and cannot remove the armor (1 day)\n\n**Stage 3** dies and transforms into the armor's graveknight."
 
   - name: "[[Creature Family Ability Glossary/(Graveknight) Weapon Master|Weapon Master]]"
     desc: "  The graveknight has access to the critical specialization effects of any weapons it wields."
  
+```
+
+```encounter-table
+name: Graveknight Captain
+creatures:
+  - 1: Graveknight Captain
 ```
 
 

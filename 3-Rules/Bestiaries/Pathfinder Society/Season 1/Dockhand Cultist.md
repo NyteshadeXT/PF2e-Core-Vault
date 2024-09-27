@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/human
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/0
 statblock: inline
 name: "Dockhand Cultist"
@@ -26,10 +27,10 @@ level: "Creature 0"
 
 alignment: ""
 size: "Medium"
-trait_01: "chaotic"
-trait_02: "evil"
-trait_03: "human"
-trait_04: "humanoid"
+trait_01: [[chaotic]]
+trait_02: [[evil]]
+trait_03: [[human]]
+trait_04: [[humanoid]]
 modifier: 3
 perception:
   - name: "Perception"
@@ -37,7 +38,7 @@ perception:
 languages: "Common"
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +3, Athletics: +5, Groetus Lore: +4, Intimidation: +3"
+    desc: "Acrobatics: +3, Athletics: +5, Intimidation: +3, Groetus Lore: +4"
 abilityMods: [3, 1, 3, 0, 1, 1]
 speed: 25 feet
 sourcebook: "_Pathfinder Society Scenario #1-22: Doom of Cassomir_"
@@ -66,11 +67,17 @@ attacks:
     desc: "`pf2:1` Bottle +5 (agile, thrown 20 ft.)\n__Damage__  1d6 + 3 bludgeoning"
 
   - name: "Heft Crate"
-    desc: "`pf2:2` (manipulate) **Requirements** The dockhand is adjacent to a crate\n**Effect** The dockhand picks up a crate and heaves it up to 15 feet. Upon landing, the crate breaks open in a 5-foot burst. Each creature within the area takes 2d6 bludgeoning damage (DC 13 Reflex check save), and the area becomes difficult terrain until cleared."
+    desc: "`pf2:2` (manipulate) **Requirements** The dockhand is adjacent to a crate\n* * *\n\n**Effect** The dockhand picks up a crate and heaves it up to 15 feet. Upon landing, the crate breaks open in a @Template[burst|distance:5]. Each creature within the area takes 2d6 bludgeoning damage (DC 13 Reflex check save), and the area becomes difficult terrain until cleared."
 
   - name: "Swig"
-    desc: "`pf2:2` (manipulate) The dockhand Interacts to either draw a bottle of [[Equipment/Alcohol|Alcohol]] or pick up a nearby unattended bottle of alcohol and drink the whole thing.\nFor 1 minute, the dockhand gains a +2 item bonus to melee damage rolls and saving throws against fear, but they become [[Conditions/Clumsy 1|Clumsy 1]]."
+    desc: "`pf2:2` (manipulate) The dockhand Interacts to either draw a bottle of [[Equipment/Alcohol|Alcohol]] or pick up a nearby unattended bottle of alcohol and drink the whole thing.\n\nFor 1 minute, the dockhand gains a +2 item bonus to melee damage rolls and saving throws against fear, but they become [[Conditions/Clumsy|Clumsy 1]]."
  
+```
+
+```encounter-table
+name: Dockhand Cultist
+creatures:
+  - 1: Dockhand Cultist
 ```
 
 

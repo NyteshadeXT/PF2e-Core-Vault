@@ -18,7 +18,7 @@ license: OGL
 ---
 # Barrier of Boreal Frost `pf2:3`
 ## Feat 14
-### [[cold]][[impulse]][[kineticist]][[manipulate]][[overflow]][[primal]][[3-Rules/Rule References/Water]]
+### [[cold]][[impulse]][[kineticist]][[manipulate]][[overflow]][[primal]][[water]]
 
 **Category** class; 
 

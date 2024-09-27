@@ -23,7 +23,7 @@ license: ORC
 The debilitations you dish out seriously impair your foes. Add the following debilitations to the list you can choose from when you use Debilitating Strike.
 
 *   **Debilitation** The target gains weakness 5 to your choice of bludgeoning, piercing, or slashing damage. [[Feat_Feature Effects/Effect_ Vicious Debilitations|Effect: Vicious Debilitations]]
-*   **Debilitation** The target becomes [[Conditions/Clumsy 1|Clumsy 1]].
+*   **Debilitation** The target becomes [[Conditions/Clumsy|Clumsy 1]].
 
 *Source: Pathfinder Player Core*
 *ORC*

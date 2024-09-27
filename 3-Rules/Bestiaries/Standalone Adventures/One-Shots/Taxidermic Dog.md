@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/mindless
   - pf2e/creature/type/undead
   - pf2e/creature/type/unholy
+  - pf2eMonster
   - pf2e/creature/level/1
 statblock: inline
 name: "Taxidermic Dog"
@@ -26,14 +27,15 @@ level: "Creature 1"
 
 alignment: ""
 size: "Small"
-trait_01: "evil"
-trait_02: "mindless"
-trait_03: "undead"
-trait_04: "unholy"
+trait_01: [[evil]]
+trait_02: [[mindless]]
+trait_03: [[undead]]
+trait_04: [[unholy]]
 modifier: 7
 perception:
   - name: "Perception"
     desc: "+7; Low-Light Vision"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Acrobatics: +5, Athletics: +7, Survival: +5"
@@ -63,6 +65,12 @@ attacks:
   - name: "Pack Attack"
     desc: "  A taxidermic dog's Strikes deal 1d4 extra damage to creatures within the reach of the taxidermic dog's two allies."
  
+```
+
+```encounter-table
+name: Taxidermic Dog
+creatures:
+  - 1: Taxidermic Dog
 ```
 
 

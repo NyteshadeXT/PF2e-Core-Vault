@@ -7,20 +7,21 @@ tags:
   - trait/concentrate
   - trait/common
   - category/class
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.H7Ocx80td7Sx7Cqn"
-license: OGL
+license: ORC
 ---
 # Expand Aura `pf2:1`
-## Feat 16
+## Feat 6
 ### [[champion]][[concentrate]]
 
 **Category** class; 
 
 
 
-**Prerequisites** You have at least one aura from a champion feat or feature.
+**Prerequisites** champion's aura
 * * *
-You focus your divine power to extend your influence. Select one aura you have from a champion feat or feature, such as [[Feats/Aura of Courage|Aura of Courage]] or [[Feats/Aura of Life|Aura of Life]]. The radius of the aura is doubled until the start of your next turn.
+You focus your divine power to extend your influence and protection. Expand the radius of your champion's aura to 30 feet until the start of your next turn. At 10th level, the expansion lasts for 1 minute, and at 16th level, it lasts until you Dismiss it.
 
-*Source: Pathfinder Advanced Player's Guide*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

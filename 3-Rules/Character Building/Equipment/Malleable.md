@@ -23,7 +23,7 @@ The metal of your armor can shift and rearrange at a moment's notice, allowing y
 
 * * *
 
-**Activate—Reconfigure Armor**`pf2:1` (manipulate)
+**Activate—Reconfigure Armor** `pf2:1` (manipulate)
 
 * * *
 

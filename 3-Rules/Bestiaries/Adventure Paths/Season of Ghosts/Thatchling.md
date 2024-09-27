@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/undead
   - pf2e/creature/type/unholy
+  - pf2eMonster
   - pf2e/creature/level/0
 statblock: inline
 name: "Thatchling"
@@ -23,13 +24,13 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #196: The Summer That Never Was"
 name: "Thatchling"
 level: "Creature 0"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Small"
-trait_01: "chaotic"
-trait_02: "evil"
-trait_03: "undead"
-trait_04: "unholy"
+trait_01: [[chaotic]]
+trait_02: [[evil]]
+trait_03: [[undead]]
+trait_04: [[unholy]]
 modifier: 6
 perception:
   - name: "Perception"
@@ -37,7 +38,7 @@ perception:
 languages: "Common"
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +5, Stealth: +5 (+7 in undergrowth)"
+    desc: "Acrobatics: +5, Stealth: +5"
 abilityMods: [0, 3, 2, 0, 2, 3]
 speed: 30 feet
 sourcebook: "_Pathfinder #196: The Summer That Never Was_"
@@ -68,11 +69,17 @@ attacks:
     desc: "`pf2:1` Frond +5 (agile, finesse)\n__Damage__  1d6 slashing"
 
   - name: "Thatchling's Curse"
-    desc: "`pf2:2` (curse,mental,occult) The thatchling focuses its attention on a single target within 30 feet that it can see, and then begins muttering and whispering nonsense. The target must attempt a DC 16 Will check save.\n**Critical Success** The target is unaffected and is temporarily immune to Thatchling's Curse for 24 hours.\n**Success** The target is momentarily disoriented and has difficulty moving in the right direction. The target takes a –5-foot status penalty to its Speeds for 1 round.\n**Failure** As success, but the penalty to its Speeds lasts for 1 minute.\n**Critical Failure** As failure, but the penalty to its Speeds lasts until the curse is removed or until the thatchling that created the effect is permanently destroyed, whichever comes first. In addition, when the cursed creature attempts a Survival check to Sense Direction or [[Actions/Track|Track]], they use the outcome for one degree of success worse than the result of their check, and they can't take the Scout exploration activity."
+    desc: "`pf2:2` (curse,mental,occult) The thatchling focuses its attention on a single target within 30 feet that it can see, and then begins muttering and whispering nonsense. The target must attempt a DC 16 Will check save.\n* * *\n\n**Critical Success** The target is unaffected and is temporarily immune to Thatchling's Curse for 24 hours.\n\n**Success** The target is momentarily disoriented and has difficulty moving in the right direction. The target takes a –5-foot status penalty to its Speeds for 1 round.\n\n**Failure** As success, but the penalty to its Speeds lasts for 1 minute.\n\n**Critical Failure** As failure, but the penalty to its Speeds lasts until the curse is removed or until the thatchling that created the effect is permanently destroyed, whichever comes first. In addition, when the cursed creature attempts a Survival check to Sense Direction or [[Actions/Track|Track]], they use the outcome for one degree of success worse than the result of their check, and they can't take the Scout exploration activity."
 
   - name: "Thicket Walker"
     desc: "  Thatchlings ignore difficult terrain caused by brambles, tangled grass, and undergrowth, even those manipulated by magic."
  
+```
+
+```encounter-table
+name: Thatchling
+creatures:
+  - 1: Thatchling
 ```
 
 

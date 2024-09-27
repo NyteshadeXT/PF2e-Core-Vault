@@ -6,6 +6,7 @@ cssClasses: pf2e
 aliases: "Compendium.pf2e.agents-of-edgewatch-bestiary.Actor.XDt87cqF85zWnlC8" 
 tags:
   - pf2e/creature/type/construct
+  - pf2eMonster
   - pf2e/creature/level/3
 statblock: inline
 name: "Siege Shard"
@@ -20,14 +21,15 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #157: Devil at the Dreaming Palace"
 name: "Siege Shard"
 level: "Creature 3"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "tiny"
-trait_01: "construct"
+trait_01: [[construct]]
 modifier: 9
 perception:
   - name: "Perception"
     desc: "+9; Darkvision"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Athletics: +9, Stealth: +10"
@@ -49,7 +51,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Exorcism"
-    desc: "  Mental damage ignores a siege shard's hardness.\nAdditionally, proving the siege shard's generative conflict is over with the [[Actions/Prove Peace|Prove Peace]] activity reverts the creature to ordinary stone."
+    desc: "  Mental damage ignores a siege shard's hardness.\n\nAdditionally, proving the siege shard's generative conflict is over with the [[Actions/Prove Peace|Prove Peace]] activity reverts the creature to ordinary stone."
 
   - name: "Surreptitious Siege"
     desc: "  While a siege shard is embedded within a structure while using [[Spells/One with Stone|One with Stone]], the structure and all objects within it take twice as long to repair."
@@ -64,11 +66,17 @@ attacks:
     desc: "DC 20, attack +12; __3rd __ (1 slots) _[[Spells/One with Stone|Meld into Stone (At Will)]]_; __2nd __ (1 slots) _[[Spells/Telekinetic Maneuver|Telekinetic Maneuver]]_\n__Cantrips__  __(2nd)__ _[[Spells/Telekinetic Hand|Mage Hand]]_, _[[Spells/Telekinetic Projectile|Telekinetic Projectile]]_"
 
   - name: "Overwhelming Anguish"
-    desc: "`pf2:2` (emotion,mental,occult) **Frequency** once per minute\n**Effect** The siege shard emits a disorienting psychic blast. All creatures within a 15 feet emanation take 4d6 mental damage (DC 20 Will check save)."
+    desc: "`pf2:2` (emotion,mental,occult) **Frequency** once per minute\n* * *\n\n**Effect** The siege shard emits a disorienting psychic blast. All creatures within a 15 feet emanation take 4d6 mental damage (DC 20 Will check save)."
 
   - name: "Rejuvenation"
-    desc: " (occult) When a siege shard is destroyed within 100 feet of a structure, it reforms after 2d4 days within the nearest structure, fully healed.\nA siege shard within a structure can permanently destroyed by the [[Adventure-Specific Actions/Prove Peace|Prove Peace]] activity."
+    desc: " (occult) When a siege shard is destroyed within 100 feet of a structure, it reforms after 2d4 days within the nearest structure, fully healed.\n\nA siege shard within a structure can permanently destroyed by the [[Adventure-Specific Actions/Prove Peace|Prove Peace]] activity."
  
+```
+
+```encounter-table
+name: Siege Shard
+creatures:
+  - 1: Siege Shard
 ```
 
 

@@ -3,6 +3,7 @@ obsidianUIMode: preview
 title: "Silkspinner's Shield"
 cssclasses: pf2e,pf2e-spell
 tags:
+  - trait/light
   - trait/magical
   - trait/uncommon
 aliases: "Compendium.pf2e.equipment-srd.Item.SJaFNXiHGILhwEMk"
@@ -10,7 +11,7 @@ license: OGL
 ---
 # Silkspinner's Shield
 ## Item 15
-### [uncommon](uncommon "Uncommon Rarity Trait")[[magical]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[light]][[magical]]
 
 
 **Price** 6000 gp; 

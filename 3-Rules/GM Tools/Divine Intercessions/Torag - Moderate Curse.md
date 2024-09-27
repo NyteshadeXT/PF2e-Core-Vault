@@ -17,7 +17,7 @@ license: OGL
 
 
 
-**Moderate Curse** You must prove your skills at a craft by providing your own equipment.
+You must prove your skills at a craft by providing your own equipment.
 
 You gain item bonuses only from items you make yourself.
 

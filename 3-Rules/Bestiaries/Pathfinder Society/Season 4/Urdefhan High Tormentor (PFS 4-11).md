@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/humanoid
   - pf2e/creature/type/urdefhan
+  - pf2eMonster
   - pf2e/creature/level/10
 statblock: inline
 name: "Urdefhan High Tormentor (PFS 4-11)"
@@ -25,9 +26,9 @@ level: "Creature 10"
 
 alignment: ""
 size: "Medium"
-trait_01: "evil"
-trait_02: "humanoid"
-trait_03: "urdefhan"
+trait_01: [[evil]]
+trait_02: [[humanoid]]
+trait_03: [[urdefhan]]
 modifier: 22
 perception:
   - name: "Perception"
@@ -55,7 +56,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Necrotic Decay"
-    desc: " (divine,void) When an urdefhan dies, its invisible flesh quickly rots away and sublimates into a foul-smelling gas that fills a 5-foot emanation around the body.\nThis gas deals 10d6 void damage to creatures in this area as their flesh curdles and rots as well (DC 29 Fortitude check save)."
+    desc: " (divine,void) When an urdefhan dies, its invisible flesh quickly rots away and sublimates into a foul-smelling gas that fills a @Template[emanation|distance:5] around the body.\n\nThis gas deals 10d6 void damage to creatures in this area as their flesh curdles and rots as well (DC 29 Fortitude check save)."
 
 attacks:
   - name: ""
@@ -73,11 +74,17 @@ attacks:
     desc: "_[[Spells/Daemonic Pact|Daemonic Pact]]_"
 
   - name: "Stoke the Fervent"
-    desc: "`pf2:2` (auditory,divine,emotion,mental) **Frequency** once per day\n**Effect** The urdefhan lets out a battle cry, sending itself and its allies into a fanatical frenzy. Each ally that hears the call gains a +4 status bonus to attack rolls and damage rolls, a +2 status bonus to saving throws, and takes a -2 status penalty to AC. Affected allies must use at least one of their actions to Strike each round, if they are able (even if it means attacking an ally, object, or thin air).\nThis lasts for 2d4 rounds.\n[[Bestiary Effects/Effect_ Stoke the Fervent (High Tormentor)|Effect: Stoke the Fervent (High Tormentor)]]"
+    desc: "`pf2:2` (auditory,divine,emotion,mental) **Frequency** once per day\n* * *\n\n**Effect** The urdefhan lets out a battle cry, sending itself and its allies into a fanatical frenzy. Each ally that hears the call gains a +4 status bonus to attack rolls and damage rolls, a +2 status bonus to saving throws, and takes a -2 status penalty to AC. Affected allies must use at least one of their actions to Strike each round, if they are able (even if it means attacking an ally, object, or thin air).\n\nThis lasts for 2d4 rounds.\n\n[[Bestiary Effects/Effect_ Stoke the Fervent (High Tormentor)|Effect: Stoke the Fervent (High Tormentor)]]"
 
   - name: "Wicked Bite"
-    desc: "`pf2:1`  **Requirements** The urdefhan damaged a creature with a jaws Strike on its last action\n**Effect** The urdefhan maintains contact, turning the creature's flesh translucent around the site of the injury. The urdefhan chooses one of two options, each of which requires a DC 29 Fortitude check save. If the jaws Strike was a critical hit, the creature suffers both effects, using the same save result for both.\n*   **Drain Blood** The urdefhan drinks some of the creature's blood. On a failed save, the creature is [[Conditions/Drained 1|Drained 1]] and the urdefhan regains 10 HP (or, on a critical failure, it's [[Conditions/Drained 1|Drained 2]] and the urdefhan regains 20 HP).\n*   **Drain Vitality** (necromancy) The urdefhan draws out some of the creature's vital essence. The creature becomes [[Conditions/Enfeebled 1|Enfeebled 1]] for 1 hour on a failed save (or [[Conditions/Enfeebled 1|Enfeebled 2]] for 1 hour on a critical failure)."
+    desc: "`pf2:1`  **Requirements** The urdefhan damaged a creature with a jaws Strike on its last action\n* * *\n\n**Effect** The urdefhan maintains contact, turning the creature's flesh translucent around the site of the injury. The urdefhan chooses one of two options, each of which requires a DC 29 Fortitude check save. If the jaws Strike was a critical hit, the creature suffers both effects, using the same save result for both.\n\n*   **Drain Blood** The urdefhan drinks some of the creature's blood. On a failed save, the creature is [[Conditions/Drained|Drained 1]] and the urdefhan regains 10 HP (or, on a critical failure, it's [[Conditions/Drained|Drained 2]] and the urdefhan regains 20 HP).\n*   **Drain Vitality** (necromancy) The urdefhan draws out some of the creature's vital essence. The creature becomes [[Conditions/Enfeebled|Enfeebled 1]] for 1 hour on a failed save (or [[Conditions/Enfeebled|Enfeebled 2]] for 1 hour on a critical failure)."
  
+```
+
+```encounter-table
+name: Urdefhan High Tormentor (PFS 4-11)
+creatures:
+  - 1: Urdefhan High Tormentor (PFS 4-11)
 ```
 
 

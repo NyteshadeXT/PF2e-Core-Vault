@@ -18,7 +18,7 @@ license: ORC
 ---
 # Legendary Spellcaster
 ## Feat 19
-### [[bard]][[druid]][[oracle]][[psychic]][[sorcerer]][[witch]][[wizard]]
+### [[3-Rules/trait_reference/bard]][[3-Rules/trait_reference/druid]][[oracle]][[psychic]][[3-Rules/trait_reference/sorcerer]][[witch]][[3-Rules/trait_reference/wizard]]
 
 **Category** classfeature; 
 

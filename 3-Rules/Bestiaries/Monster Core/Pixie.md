@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.pathfinder-monster-core.Actor.Ehtm5k9iBYTvSUcZ"
 tags:
   - pf2e/creature/type/fey
   - pf2e/creature/type/sprite
+  - pf2eMonster
   - pf2e/creature/level/4
   - remaster
 statblock: inline
@@ -26,8 +27,8 @@ level: "Creature 4"
 
 alignment: ""
 size: "Small"
-trait_01: "fey"
-trait_02: "sprite"
+trait_01: [[fey]]
+trait_02: [[sprite]]
 modifier: 12
 perception:
   - name: "Perception"
@@ -69,6 +70,12 @@ attacks:
   - name: "Sprinkle Pixie Dust"
     desc: "`pf2:1` (manipulate,primal) The pixie sprinkles pixie dust onto one of their arrows. If the pixie hits a creature with that arrow before the pixie's next turn, the arrow inflicts one of the following special effects of the pixie's choice instead of dealing damage. Each effect depends on the target's DC 21 Will check save. On a critical hit, the target gets a result one degree worse than it rolled.\n\n*   **Charm** (emotion, incapacitation, mental) The arrow has the effect of a [[Spells/Charm|Charm]] spell, except the target doesn't gain a bonus to its save if the only hostile act was the pixie firing its bow, and the pixie can choose to direct the target's adoration toward another creature rather than itself.\n*   **Memory Loss** (mental) On a failed Will save, the target loses the last 5 minutes of its memory.\n*   **Sleep** (incapacitation, mental, sleep) The target suffers the effects of a 3rd-rank [[Spells/Sleep|Sleep]] spell.\n*   **Subdual** (mental, nonlethal) The target takes 4d6 mental damage, depending on its basic Will save."
  
+```
+
+```encounter-table
+name: Pixie
+creatures:
+  - 1: Pixie
 ```
 
 

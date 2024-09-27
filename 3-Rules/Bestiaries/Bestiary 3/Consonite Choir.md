@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/earth
   - pf2e/creature/type/elemental
   - pf2e/creature/type/swarm
+  - pf2eMonster
   - pf2e/creature/level/13
 statblock: inline
 name: "Consonite Choir"
@@ -23,12 +24,12 @@ token: [[modules/pf2e-tokens-bestiaries/portraits/elemental/earth/consonite-choi
 source: "Pathfinder Bestiary 3"
 name: "Consonite Choir"
 level: "Creature 13"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "grg"
-trait_01: "earth"
-trait_02: "elemental"
-trait_03: "swarm"
+trait_01: [[earth]]
+trait_02: [[elemental]]
+trait_03: [[swarm]]
 modifier: 23
 perception:
   - name: "Perception"
@@ -69,6 +70,12 @@ attacks:
   - name: "Swarming Chimes"
     desc: "`pf2:1`  The swarm deals 4d6 slashing damage plus 2d6 sonic damage to each enemy in the swarm's space (DC 33 Reflex check save). On a critical failure, the enemy is also [[Conditions/Deafened|Deafened]] for 1 minute."
  
+```
+
+```encounter-table
+name: Consonite Choir
+creatures:
+  - 1: Consonite Choir
 ```
 
 

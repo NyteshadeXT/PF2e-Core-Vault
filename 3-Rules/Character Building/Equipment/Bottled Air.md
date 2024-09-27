@@ -12,7 +12,7 @@ license: ORC
 ---
 # Bottled Air
 ## Item 7
-### [[3-Rules/Rule References/Air]][[magical]]
+### [[3-Rules/Rule References/Air]][[3-Rules/Rule References/Magical]]
 
 
 **Price** 320 gp; 

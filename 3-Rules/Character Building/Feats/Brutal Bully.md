@@ -6,8 +6,9 @@ tags:
   - trait/barbarian
   - trait/common
   - category/class
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.oUhwrijg4rClCplO"
-license: OGL
+license: ORC
 ---
 # Brutal Bully
 ## Feat 6
@@ -19,7 +20,7 @@ license: OGL
 
 **Prerequisites** expert in Athletics
 * * *
-You push your foes around and leave bruises. While raging, when you successfully Disarm, Grapple, Shove, or Trip a foe, you deal that foe bludgeoning damage equal to your Strength modifier; add this to the damage from a critical success to Trip.
+You push your foes around and leave bruises. While raging, when you successfully [[Actions/Disarm|Disarm]], [[Actions/Grapple|Grapple]], [[Actions/Reposition|Reposition]], [[Actions/Shove|Shove]], or [[Actions/Trip|Trip]] an enemy, you deal that enemy bludgeoning damage equal to your Strength modifier; add this to the damage from a critical success to Trip.
 
-*Source: Pathfinder Core Rulebook*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

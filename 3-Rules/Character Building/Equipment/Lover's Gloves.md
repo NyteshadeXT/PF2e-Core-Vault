@@ -23,7 +23,7 @@ license: ORC
 
 These white silk gloves are adorned in red hearts that glow faintly whenever you are adjacent to someone you feel particularly strongly toward. They buoy your spirit, giving you a +1 item bonus to Diplomacy checks.
 
-**Activate—Bond** `pf2:1` Interact (manipulate)
+**Activate—Bond** `pf2:1` (manipulate)
 
 **Frequency** once per day
 

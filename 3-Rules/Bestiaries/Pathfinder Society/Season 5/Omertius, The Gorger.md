@@ -10,6 +10,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/fiend
   - pf2e/creature/type/unholy
+  - pf2eMonster
   - pf2e/creature/level/8
 statblock: inline
 name: "Omertius, The Gorger"
@@ -24,19 +25,19 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Society Scenario #5-06: Ukuja, the First Wall"
 name: "Omertius, The Gorger"
 level: "Creature 8"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Medium"
-trait_01: "chaotic"
-trait_02: "demon"
-trait_03: "evil"
-trait_04: "fiend"
-trait_05: "unholy"
+trait_01: [[chaotic]]
+trait_02: [[demon]]
+trait_03: [[evil]]
+trait_04: [[fiend]]
+trait_05: [[unholy]]
 modifier: 16
 perception:
   - name: "Perception"
     desc: "+16; Darkvision"
-languages: "Chthonian, Common"
+languages: "Chthonian, Common; telepathy 100 feet"
 skills:
   - name: "Skills"
     desc: "Acrobatics: +16, Deception: +18, Religion: +16, Society: +15, Stealth: +18"
@@ -67,8 +68,14 @@ attacks:
     desc: "DC 26, attack +20; __5th __  _[[Spells/Translocate|Dimension Door]]_, _[[Spells/Shadow Blast|Shadow Blast]]_; __4th __  _[[Spells/Darkness|Darkness]]_, _[[Spells/Translocate|Dimension Door (At will)]]_; __3rd __  _[[Spells/Fear|Fear]]_\n__Cantrips__  __(4th)__ _[[Spells/Telekinetic Projectile|Telekinetic Projectile]]_"
 
   - name: "Blood Possession"
-    desc: "`pf2:2` (incapacitation,possession) Omertius sends himself into his target's blood, controlling them as if af ected by the spell [[Spells/Possession|Possession]]. The target attempts a DC 28 Fortitude check check. Omertius can Dismiss the spell at any time.\n**Critical Success** The target is unafected.\n**Success** Omertius possesses the target but can't control it.\n**Failure** Omertius possesses the target and takes partial control. He no longer has a separate turn; instead, he might control the target. At the start of each of the target's turns, it attempts another Will save. If it fails, it's controlled by Omertius on that turn; if it succeeds, it chooses its own actions; and if it critically succeeds, it forces him out and the spell ends.\n**Critical Failure** Omertius possesses the target fully, and the target can only watch as he manipulates it like a puppet. The target is controlled by Omertius."
+    desc: "`pf2:2` (incapacitation,possession) Omertius sends himself into his target's blood, controlling them as if af ected by the spell [[Spells/Possession|Possession]]. The target attempts a DC 28 Fortitude check check. Omertius can Dismiss the spell at any time.\n* * *\n\n**Critical Success** The target is unafected.\n\n**Success** Omertius possesses the target but can't control it.\n\n**Failure** Omertius possesses the target and takes partial control. He no longer has a separate turn; instead, he might control the target. At the start of each of the target's turns, it attempts another Will save. If it fails, it's controlled by Omertius on that turn; if it succeeds, it chooses its own actions; and if it critically succeeds, it forces him out and the spell ends.\n\n**Critical Failure** Omertius possesses the target fully, and the target can only watch as he manipulates it like a puppet. The target is controlled by Omertius."
  
+```
+
+```encounter-table
+name: Omertius, The Gorger
+creatures:
+  - 1: Omertius, The Gorger
 ```
 
 

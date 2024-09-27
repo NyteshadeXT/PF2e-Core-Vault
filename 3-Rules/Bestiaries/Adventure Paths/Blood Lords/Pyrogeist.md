@@ -11,6 +11,7 @@ tags:
   - pf2e/creature/type/spirit
   - pf2e/creature/type/undead
   - pf2e/creature/type/unholy
+  - pf2eMonster
   - pf2e/creature/level/10
 statblock: inline
 name: "Pyrogeist"
@@ -25,15 +26,15 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #184: The Ghouls Hunger"
 name: "Pyrogeist"
 level: "Creature 10"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Large"
-trait_01: "chaotic"
-trait_02: "evil"
-trait_03: "incorporeal"
-trait_04: "spirit"
-trait_05: "undead"
-trait_06: "unholy"
+trait_01: [[chaotic]]
+trait_02: [[evil]]
+trait_03: [[incorporeal]]
+trait_04: [[spirit]]
+trait_05: [[undead]]
+trait_06: [[unholy]]
 modifier: 20
 perception:
   - name: "Perception"
@@ -72,14 +73,20 @@ attacks:
     desc: "DC 29, attack +21; __5th __  _[[Spells/Illusory Scene|Illusory Scene (At Will)]]_, _[[Spells/Telekinetic Haul|Telekinetic Haul (At Will)]]_; __2nd __  _[[Spells/Telekinetic Maneuver|Telekinetic Maneuver (At Will)]]_\n__Cantrips__  __(5th)__ _[[Spells/Ghost Sound|Ghost Sound]]_, _[[Spells/Telekinetic Hand|Mage Hand]]_"
 
   - name: "Breath Weapon"
-    desc: "`pf2:2` (arcane,void) A pyrogeist can spit a cone of spectral fire in a 30-foot cone, dealing 10d6 void damage (DC 29 Fortitude check). A creature that fails the save also takes 1d6 persistent void damage and is subject to the effects of [[Spells/Faerie Fire|Faerie Fire]] until the persistent damage ends."
+    desc: "`pf2:2` (arcane,void) A pyrogeist can spit a cone of spectral fire in a @Template[cone|distance:30], dealing 10d6 void damage (DC 29 Fortitude check). A creature that fails the save also takes 1d6 persistent void damage and is subject to the effects of [[Spells/Faerie Fire|Faerie Fire]] until the persistent damage ends."
 
   - name: "Pyrokinetic Whirlwind"
-    desc: "`pf2:1` (concentrate,occult,polymorph,void) The pyrogeist transforms into a 40-foot tall vortex of spectral flame that appears to immolate everything within a 10-foot burst. A creature within this area take 2d12 + 20 void damage (DC 29 Fortitude check)."
+    desc: "`pf2:1` (concentrate,occult,polymorph,void) The pyrogeist transforms into a 40-foot tall vortex of spectral flame that appears to immolate everything within a @Template[burst|distance:10]. A creature within this area take 2d12 + 20 void damage (DC 29 Fortitude check)."
 
   - name: "Soul Consumption"
     desc: " (divine) The spirit of a creature that dies from damage dealt by the pyrogeist's Pyrokinetic Whirlwind is trapped within the pyrogeist as if subjected to the effects of the bind soul spell. This effect persists until the pyrogeist is destroyed or chooses to set the soul free. The spirit remains trapped whether or not the pyrogeist is using Pyrokinetic Whirlwind. A pyrogeist can contain only one soul at a time in this manner."
  
+```
+
+```encounter-table
+name: Pyrogeist
+creatures:
+  - 1: Pyrogeist
 ```
 
 

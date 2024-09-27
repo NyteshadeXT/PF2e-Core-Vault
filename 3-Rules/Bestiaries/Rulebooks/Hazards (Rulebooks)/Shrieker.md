@@ -5,6 +5,7 @@ noteType: pf2eHazard
 tags:
   - environmental
   - fungus
+  - pf2eHazard
 
 source: Pathfinder Gamemastery Guide
 aliases: "Compendium.pf2e.hazards.Actor.vTdWEBzJzltMM6r4" 
@@ -22,14 +23,14 @@ name: "Shrieker"
 level: "Hazard -1"
 
 
-trait_01: "environmental"
-trait_02: "fungus"
+trait_01: [[environmental]]
+trait_02: [[fungus]]
 modifier: 2
 sourcebook: "_Pathfinder Gamemastery Guide_"
 ac: 12
 armorclass:
   - name: AC
-    desc: "12; __Fort__ +8, __Ref__ +2, __Will__ +0"
+    desc: "12; __Fort__ +8, __Ref__ +2, "
 hp: 9
 health:
   - name: ""
@@ -51,10 +52,16 @@ attacks:
   - name: ""
 
   - name: "Shriek"
-    desc: "`pf2:r` **Trigger** A creature or light source approaches within 10 feet of the shrieker or the shrieker takes damage.\n**Effect** The shrieker emits a deafening screech that deals 1d6 sonic damage to creatures within 30 feet (DC 16 Fortitude check save; creatures that critically fail this saving throw are [[Conditions/Deafened|Deafened]] for 1 minute)."
+    desc: "`pf2:r` **Trigger** A creature or light source approaches within 10 feet of the shrieker or the shrieker takes damage.\n* * *\n\n**Effect** The shrieker emits a deafening screech that deals 1d6 sonic damage to creatures within 30 feet (DC 16 Fortitude check save; creatures that critically fail this saving throw are [[Conditions/Deafened|Deafened]] for 1 minute)."
 
 
   - name: "Reset"
     desc: "1 minute"
+```
+
+```encounter-table
+name: Shrieker
+creatures:
+  - 1: Shrieker
 ```
 

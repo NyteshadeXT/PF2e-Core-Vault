@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/dero
   - pf2e/creature/type/evil
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/5
 statblock: inline
 name: "Dero Magister"
@@ -24,13 +25,13 @@ token: [[modules/pf2e-tokens-bestiaries/portraits/humanoid/darklands/dero-magist
 source: "Pathfinder Bestiary"
 name: "Dero Magister"
 level: "Creature 5"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Small"
-trait_01: "chaotic"
-trait_02: "dero"
-trait_03: "evil"
-trait_04: "humanoid"
+trait_01: [[chaotic]]
+trait_02: [[dero]]
+trait_03: [[evil]]
+trait_04: [[humanoid]]
 modifier: 8
 perception:
   - name: "Perception"
@@ -76,8 +77,14 @@ attacks:
     desc: "DC 24, attack +16; __4th __  _[[Spells/Rewrite Memory|Modify Memory]]_; __2nd __  _[[Spells/Darkness|Darkness (At Will)]]_, _[[Spells/Noise Blast|Sound Burst]]_\n__Cantrips__  __(1st)__ _[[Spells/Daze|Daze]]_, _[[Spells/Ghost Sound|Ghost Sound]]_"
 
   - name: "Cytillesh Stare"
-    desc: "`pf2:1` (concentrate,incapacitation,mental,visual) **Frequency** once per round\n**Effect** The magister focuses their gaze on a creature they can see within 30 feet. The target is [[Conditions/Dazzled|Dazzled]] for 1 round and must succeed at a DC 24 Will check saving throw or be [[Conditions/Confused|Confused]] for 1 round."
+    desc: "`pf2:1` (concentrate,incapacitation,mental,visual) **Frequency** once per round\n* * *\n\n**Effect** The magister focuses their gaze on a creature they can see within 30 feet. The target is [[Conditions/Dazzled|Dazzled]] for 1 round and must succeed at a DC 24 Will check saving throw or be [[Conditions/Confused|Confused]] for 1 round."
  
+```
+
+```encounter-table
+name: Dero Magister
+creatures:
+  - 1: Dero Magister
 ```
 
 

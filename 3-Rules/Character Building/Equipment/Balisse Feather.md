@@ -4,17 +4,18 @@ title: "Balisse Feather"
 cssclasses: pf2e,pf2e-spell
 tags:
   - trait/consumable
-  - trait/divine
+  - trait/holy
   - trait/magical
   - trait/talisman
   - trait/common
   - category/talisman
+  - remaster
 aliases: "Compendium.pf2e.equipment-srd.Item.Do8vjuUBOslgPtyw"
-license: OGL
+license: ORC
 ---
 # Balisse Feather
 ## Item 12
-### [[consumable]][[divine]][[magical]][[talisman]]
+### [[consumable]][[holy]][[3-Rules/Rule References/Magical]][[talisman]]
 
 **Category** talisman; 
 **Price** 400 gp; 
@@ -23,11 +24,13 @@ license: OGL
 
 **Usage** affixed to a weapon
 
-**Activate** `pf2:0` Envision
+**Activate** `pf2:0` (concentrate)
 
-**Trigger** You deal damage using the affixed weapon to a creature you have seen commit an evil act.
+**Trigger** You deal damage using the affixed weapon to a creature that has the unholy trait or that you witnessed harm an ally, an innocent, or a noncombatant within the last minute.
 
-This long, fire-red feather seems to catch flame every time the weapon it adorns strikes a purveyor of evil. When you activate the feather, the creature you damaged burns with holy light. The creature must succeed at a DC 29 Will check save or take a -2 status penalty to AC and saving throws and reduce its resistances by 5. These effects last until the end of your next turn.
+* * *
 
-*Source: Pathfinder Advanced Player's Guide*
-*OGL*
+This long, fire-red feather smolders from the weapon it adorns. When you activate the feather, the creature you damaged burns with sacred light. The creature must succeed at a DC 29 Will check save or take a –2 status penalty to AC and saving throws and reduce its resistances by 5. These effects last until the end of your next turn. This item has no effect on a creature with the holy trait.
+
+*Source: Pathfinder Player Core 2*
+*ORC*

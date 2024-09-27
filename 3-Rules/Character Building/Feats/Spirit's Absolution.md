@@ -27,7 +27,7 @@ license: OGL
 
 * * *
 
-You purify a spirit by absolving it of its sins and regrets. This cathartic experience restores your Hit Points or those of an adjacent ally. If you expend a spirit wisp, the target recovers 1d4 Hit Points per level you have. If you expend a spirit remnant, the target recovers 1d6 Hit Points per level of the incorporeal undead or haunt from which you gained the remnant.
+You purify a spirit by absolving it of its sins and regrets. This cathartic experience restores your Hit Points or those of an adjacent ally. If you expend a spirit wisp, the target recovers 1d4 healing vitality Hit Points. If you expend a spirit remnant, the target recovers 1d6 Hit Points per level of the incorporeal undead or haunt from which you gained the remnant.
 
 *Source: Pathfinder Book of the Dead*
 *OGL*

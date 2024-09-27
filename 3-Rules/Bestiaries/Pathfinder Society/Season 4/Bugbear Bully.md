@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/goblin
   - pf2e/creature/type/humanoid
   - pf2e/creature/type/lawful
+  - pf2eMonster
   - pf2e/creature/level/4
 statblock: inline
 name: "Bugbear Bully"
@@ -26,10 +27,10 @@ level: "Creature 4"
 
 alignment: ""
 size: "Medium"
-trait_01: "evil"
-trait_02: "goblin"
-trait_03: "humanoid"
-trait_04: "lawful"
+trait_01: [[evil]]
+trait_02: [[goblin]]
+trait_03: [[humanoid]]
+trait_04: [[lawful]]
 modifier: 7
 perception:
   - name: "Perception"
@@ -66,8 +67,14 @@ attacks:
     desc: "`pf2:2`  The bugbear bully strides up to half its speed and then attempts to either [[Action Macros/Shove_ Athletics|Shove: Athletics]] or [[Action Macros/Trip_ Athletics|Trip: Athletics]] a creature. If they critically fail, they treat the result as a failure."
 
   - name: "Bully's Rage"
-    desc: "`pf2:1`  **Requirements** The bugbear bully has dealt damage to a creature or knocked a creature [[Conditions/Prone|Prone]] since the start of its previous turn\n**Effect** The bully gains a +2 status bonus to Intimidation checks and damage until the end of its turn.\n[[Bestiary Effects/Effect_ Bully's Rage|Effect: Bully's Rage]]"
+    desc: "`pf2:1`  **Requirements** The bugbear bully has dealt damage to a creature or knocked a creature [[Conditions/Prone|Prone]] since the start of its previous turn\n* * *\n\n**Effect** The bully gains a +2 status bonus to Intimidation checks and damage until the end of its turn.\n\n[[Bestiary Effects/Effect_ Bully's Rage|Effect: Bully's Rage]]"
  
+```
+
+```encounter-table
+name: Bugbear Bully
+creatures:
+  - 1: Bugbear Bully
 ```
 
 

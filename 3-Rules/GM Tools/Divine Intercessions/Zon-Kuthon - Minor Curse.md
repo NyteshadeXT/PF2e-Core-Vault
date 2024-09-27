@@ -17,7 +17,7 @@ license: OGL
 
 
 
-**Minor Curse** You are surrounded by spectral chains that cause you to always be [[Conditions/Encumbered|Encumbered]] and that have the same effects as armor with the noisy trait.
+You are surrounded by spectral chains that cause you to always be [[Conditions/Encumbered|Encumbered]] and that have the same effects as armor with the noisy trait.
 
 *Source: Pathfinder Lost Omens: Gods & Magic*
 *OGL*

@@ -21,15 +21,13 @@ license: OGL
 
 **Prerequisites** The relic is a worn item.
 
-**Activate** `pf2:2` command, envision
+**Activate** `pf2:2` (concentrate)
 
 **Frequency** twice per day
 
 * * *
 
 **Effect** Calling upon the bestial nature within, you change shape into that of an animal. The relic casts [[Spells/Animal Form|Animal Form]] on you, transforming you into the same type of animal every time, chosen when the gift is gained; the spell rank is half the item's level, rounded down.
-
-At 11th level, the spell is 5th rank, and the spell rank goes up by 1 for every 2 levels beyond that.
 
 *Source: Pathfinder #194: Cult of the Cave Worm*
 *OGL*

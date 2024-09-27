@@ -1,15 +1,16 @@
 ---
-title: "Nomen Scouts"
+title: Nomen Scouts
 obsidianUIMode: preview
-noteType: pf2eMonster
+noteType: pf2eArmy
 cssClasses: pf2e
-aliases: "Compendium.pf2e.kingmaker-bestiary.Actor.NnpIpHnF79DRLl61" 
 tags:
-  - pf2e/creature/level/8
-statblock: inline
-name: "Nomen Scouts"
+  - pf2eArmy
+
+source: 
+aliases: "Compendium.pf2e.kingmaker-bestiary.Actor.NnpIpHnF79DRLl61" 
 level: 8
 license: 
+statblock: inline
 ---
 
 ```statblock
@@ -18,39 +19,63 @@ forcecolumns: true
 layout: Basic Pathfinder 2e Layout
 source: ""
 name: "Nomen Scouts"
-level: "Creature 8"
-rare_03: "Uncommon"
+level: "Army 8"
+rare_03: [[Uncommon]]
+
 alignment: ""
 size: "Medium"
-modifier: 
+trait_01: cavalry
+modifier: 18
 perception:
-  - name: "Perception"
-    desc: "NaN; Darkvision"
-skills:
-  - name: "Skills"
-    desc: ""
-abilityMods: [, , , , , ]
-speed: 
-sourcebook: "__"
-ac: 
+  - name: ""
+  - name: "Scouting"
+    desc: "+18"
+  - name: "Recruitment DC"
+    desc: "26; __Consumption__ 0"
+  - name: "Description"
+    desc: "This band of Nomen centaurs fight with spears and longbows. Self-sufficient (consumption -1)"
+ac: 27
 armorclass:
   - name: AC
-    desc: "; __Fort__ NaN, __Ref__ NaN, __Will__ NaN"
+    desc: "27; __Maneuver__ +14, __Morale__ +19"
 hp: 4
 health:
   - name: ""
-  - name: HP
-    desc: "4"
+  - name: "HP"
+    desc: "4 (RT 0))"
 abilities_top:
   - name: ""
 
 abilities_mid:
   - name: ""
+  - name: "Melee"
+    desc: "Spears +18"
+  - name: "Ranged"
+    desc: "Longbows +18"
+
 attacks:
   - name: ""
+
+  - name: "Overrun"
+    desc: "_**Note**: Basic cavalry armies know Overrun automatically, and must 'spend' their first tactic on it._\n* * *\n\nCavalry armies gain a +1 status bonus on weapon attacks against infantry and skirmisher armies, but they suffer a –1 status penalty on Maneuver and Morale saves against area attacks and mental attacks."
+
+  - name: "Darkvision"
+    desc: "The army includes several spotters and scouts who have darkvision, and the rest of the soldiers have been trained to follow their lead so that the army itself functions as if it had darkvision."
+
+  - name: "Self-Sufficient"
+    desc: "Nomen scouts are adept at providing for themselves, and never count against the kingdom's consumption. Furthermore, they can provide for other armies, and as long as they are not defeated during a Kingdom turn's Upkeep phase, they reduce the kingdom's consumption value by 1."
+
+  - name: "Brave"
+    desc: "Nomen scouts are extraordinarily fearless and do not possess a Rout Threshold, and gain a +2 circumstance bonus on Morale checks made to avoid rout from other sources."
+
+  - name: "Trample (Unique)"
+    desc: "Nomen Scouts can attempt to trample an engaged enemy army by attempting a +20 melee Strike against the army's AC. On a hit, they inflict 1 point of damage (2 points on a critical hit) and automatically move away from the army—they are no longer engaged with that army."
  
 ```
 
-
-
+```encounter-table
+name: Nomen Scouts
+creatures:
+  - 1: Nomen Scouts
+```
 

@@ -9,15 +9,16 @@ tags:
   - trait/snare
   - trait/trap
   - trait/uncommon
-  - category/potion
+  - category/snare
+  - remaster
 aliases: "Compendium.pf2e.equipment-srd.Item.craWRj7jI2mLs1Ok"
-license: OGL
+license: ORC
 ---
 # Deadweight Snare
 ## Item 2
-### [uncommon](uncommon "Uncommon Rarity Trait")[[consumable]][[kobold]][[mechanical]][[snare]][[trap]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[consumable]][[kobold]][[mechanical]][[snare]][[trap]]
 
-**Category** potion; 
+**Category** snare; 
 **Price** 6 gp; 
 **Bulk** 0; **Size** med
 **Usage** held-in-one-hand
@@ -38,5 +39,5 @@ This snare is made of magnetized weights and heavy ropes rigged to a trip wire o
 
 [[Equipment Effects/Effect_ Deadweight Snare (Failure_Critical Failure)|Effect: Deadweight Snare (Failure/Critical Failure)]]
 
-*Source: Pathfinder Lost Omens: The Grand Bazaar*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

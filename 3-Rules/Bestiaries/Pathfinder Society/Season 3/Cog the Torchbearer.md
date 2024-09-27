@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/chaotic
   - pf2e/creature/type/humanoid
   - pf2e/creature/type/ratfolk
+  - pf2eMonster
   - pf2e/creature/level/-1
 statblock: inline
 name: "Cog the Torchbearer"
@@ -22,12 +23,12 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Society Special #3-99: Fate in the Future"
 name: "Cog the Torchbearer"
 level: "Creature -1"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Small"
-trait_01: "chaotic"
-trait_02: "humanoid"
-trait_03: "ratfolk"
+trait_01: [[chaotic]]
+trait_02: [[humanoid]]
+trait_03: [[ratfolk]]
 modifier: 4
 perception:
   - name: "Perception"
@@ -35,7 +36,7 @@ perception:
 languages: "Akitonian, Ysoki"
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +4, Architecture Lore: +2, Athletics: +1, Stealth: +4, Survival: +2"
+    desc: "Acrobatics: +4, Athletics: +1, Stealth: +4, Survival: +2, Architecture Lore: +2"
 abilityMods: [0, 3, 1, 1, 1, 1]
 speed: 25 feet
 sourcebook: "_Pathfinder Society Special #3-99: Fate in the Future_"
@@ -72,6 +73,12 @@ attacks:
   - name: "Torch Combatant"
     desc: "  Cog is adept at attacking with torches and deals 1 persistent fire damage when he critically hits with a torch."
  
+```
+
+```encounter-table
+name: Cog the Torchbearer
+creatures:
+  - 1: Cog the Torchbearer
 ```
 
 

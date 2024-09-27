@@ -7,6 +7,7 @@ aliases: "Compendium.battlezoo-bestiary-su-pf2e.pf2e-battlezoo-su-actors.Actor.P
 tags:
   - pf2e/creature/type/construct
   - pf2e/creature/type/fey
+  - pf2eMonster
   - pf2e/creature/level/10
 statblock: inline
 name: "Goldsmyf"
@@ -22,19 +23,19 @@ token: [[modules/battlezoo-bestiary-su-pf2e/art/Portraits/goldsmyf.webp| ]]
 source: "Battlezoo Bestiary: Strange and Unusual"
 name: "Goldsmyf"
 level: "Creature 10"
-rare_03: "Rare"
+rare_03: [[Rare]]
 alignment: ""
 size: "tiny"
-trait_01: "construct"
-trait_02: "fey"
+trait_01: [[construct]]
+trait_02: [[fey]]
 modifier: 22
 perception:
   - name: "Perception"
     desc: "+22; "
-languages: "Fey, Gnomish"
+languages: "Fey, Gnomish; can&#x27;t speak any language"
 skills:
   - name: "Skills"
-    desc: "Stealth: +22 (+25 in kitchens), Acrobatics: +22, Thievery: +22, "
+    desc: "Acrobatics: +22, Stealth: +22, Thievery: +22, Stealth: +22, Acrobatics: +22, Thievery: +22"
 abilityMods: [5, 6, 4, -2, 7, 4]
 speed: 20 feet,  climb 20 feet
 sourcebook: "_Battlezoo Bestiary: Strange and Unusual_"
@@ -56,7 +57,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Deterrent Dye"
-    desc: "`pf2:r`  **Requirements** The goldsmyf is in its Disanimated form\n**Trigger** A creature touches one of the goldsmyf's gold coin pieces\n**Effect** The goldsmith forcibly expels blue dye in a 20-foot emanation. Unattended objects within the radius are permanently covered with dye (though the stain can be removed as normal for dye). Creatures within the radius must attempt a DC 29 Reflex check save with the following effects. The goldsmyf then reanimates.\n**Critical Success** The creature avoids getting covered with dye and is unaffected.\n**Success** The creature is Stunned 1 and is permanently covered with dye.\n**Failure** The creature is Stunned 2, is permanently covered with dye, and takes 2d10 bludgeoning damage.\n**Critical Failure** The creature is Stunned 3, is permanently covered with dye, and takes 4d10 bludgeoning damage."
+    desc: "`pf2:r`  **Requirements** The goldsmyf is in its Disanimated form\n\n**Trigger** A creature touches one of the goldsmyf's gold coin pieces\n* * *\n\n**Effect** The goldsmith forcibly expels blue dye in a 20-foot emanation. Unattended objects within the radius are permanently covered with dye (though the stain can be removed as normal for dye). Creatures within the radius must attempt a DC 29 Reflex check save with the following effects. The goldsmyf then reanimates.\n* * *\n\n**Critical Success** The creature avoids getting covered with dye and is unaffected.\n\n**Success** The creature is [[undefined]] and is permanently covered with dye.\n\n**Failure** The creature is [[undefined]], is permanently covered with dye, and takes 2d10 bludgeoning damage.\n\n**Critical Failure** The creature is [[undefined]], is permanently covered with dye, and takes 4d10 bludgeoning damage."
 
 attacks:
   - name: ""
@@ -73,6 +74,12 @@ attacks:
   - name: "Breath Weapon"
     desc: "`pf2:2` (fire,primal) The goldsmyf breathes a blast of flame in a 15-foot cone that deals 11d6 fire damage (DC 29 Reflex check save). The goldsmyf can't use its Breath Weapon again for 1d4 rounds."
  
+```
+
+```encounter-table
+name: Goldsmyf
+creatures:
+  - 1: Goldsmyf
 ```
 
 

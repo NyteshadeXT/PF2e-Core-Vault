@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.pfs-season-1-bestiary.Actor.Pq4fqQkoghoXPBoi"
 tags:
   - pf2e/creature/type/animal
   - pf2e/creature/type/swarm
+  - pf2eMonster
   - pf2e/creature/level/3
 statblock: inline
 name: "Young Bloodseeker Swarm"
@@ -21,15 +22,16 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Society Scenario #1-02: The Mosquito Witch"
 name: "Young Bloodseeker Swarm"
 level: "Creature 3"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Large"
-trait_01: "animal"
-trait_02: "swarm"
+trait_01: [[animal]]
+trait_02: [[swarm]]
 modifier: 9
 perception:
   - name: "Perception"
     desc: "+9; Darkvision, Scent (Imprecise) 60 Feet"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Acrobatics: +9, Stealth: +9"
@@ -56,6 +58,12 @@ attacks:
   - name: "Swarming Bites"
     desc: "`pf2:1`  Each enemy in the swarm's space takes 1d8 piercing damage (DC 20 Reflex check save) and 1 bleed damage. The young bloodseeker swarm gains temporary Hit Points equal to the damage dealt. A creature that takes damage from the bloodseeker swarm is drained 1 until it receives healing (of any kind or amount)."
  
+```
+
+```encounter-table
+name: Young Bloodseeker Swarm
+creatures:
+  - 1: Young Bloodseeker Swarm
 ```
 
 

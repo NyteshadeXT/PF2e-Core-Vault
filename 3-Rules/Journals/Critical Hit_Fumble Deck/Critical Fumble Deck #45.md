@@ -26,6 +26,6 @@ tags:
 
 # Jumbled Components
 
-> You are [[Conditions/Slowed 1|Slowed 2]] until the end of your next turn.
+> You are [[Conditions/Slowed|Slowed 2]] until the end of your next turn.
 
 `Spell`

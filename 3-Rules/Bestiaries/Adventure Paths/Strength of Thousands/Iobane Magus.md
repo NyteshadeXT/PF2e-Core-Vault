@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/human
   - pf2e/creature/type/humanoid
   - pf2e/creature/type/lawful
+  - pf2eMonster
   - pf2e/creature/level/13
 statblock: inline
 name: "Iobane Magus"
@@ -25,9 +26,9 @@ level: "Creature 13"
 
 alignment: ""
 size: "Medium"
-trait_01: "human"
-trait_02: "humanoid"
-trait_03: "lawful"
+trait_01: [[human]]
+trait_02: [[humanoid]]
+trait_03: [[lawful]]
 modifier: 23
 perception:
   - name: "Perception"
@@ -76,14 +77,20 @@ attacks:
     desc: "2 Focus Points, DC 33, attack +25; __7th __  _[[Spells/Dimensional Assault|Dimensional Assault]]_"
 
   - name: "Iobane Vision"
-    desc: " (fortune) The Iobane magus can see [[Conditions/Invisible|Invisible]] creatures and objects as though they are [[Conditions/Concealed|Concealed]].\nWhen they [[Actions/Seek|Seek]] or [[Actions/Sense Motive|Sense Motive]], they can roll twice and take the higher result."
+    desc: " (fortune) The Iobane magus can see [[Conditions/Invisible|Invisible]] creatures and objects as though they are [[Conditions/Concealed|Concealed]].\n\nWhen they [[Actions/Seek|Seek]] or [[Actions/Sense Motive|Sense Motive]], they can roll twice and take the higher result."
 
   - name: "Spear Dance"
     desc: "`pf2:2`  The Iobane magus makes three spear Strikes, each with a range of 10 feet."
 
   - name: "Spellstrike"
-    desc: "`pf2:2`  **Frequency** Until recharged\n**Effect** The Iobane magus Casts a Spell that takes 1 or 2 actions to cast and requires a spell attack roll. The effects of the spell do not occur immediately but are imbued into the attack instead. The Iobane magus makes a melee Strike. The spell is coupled with the attack, using the attack roll result to determine the effects of both the Strike and the spell.\nThis counts as two attacks for the Iobane magus' multiple attack penalty, but don't apply the penalty until after they have completed the Spellstrike.\nAfter the Iobane magus uses Spellstrike, they can't do so again until they recharges their Spellstrike as a single action, which has the concentrate trait. The Iobane magus also recharges their Spellstrike when they casts a conflux spell."
+    desc: "`pf2:2`  **Frequency** Until recharged\n* * *\n\n**Effect** The Iobane magus Casts a Spell that takes 1 or 2 actions to cast and requires a spell attack roll. The effects of the spell do not occur immediately but are imbued into the attack instead. The Iobane magus makes a melee Strike. The spell is coupled with the attack, using the attack roll result to determine the effects of both the Strike and the spell.\n\nThis counts as two attacks for the Iobane magus' multiple attack penalty, but don't apply the penalty until after they have completed the Spellstrike.\n\nAfter the Iobane magus uses Spellstrike, they can't do so again until they recharges their Spellstrike as a single action, which has the concentrate trait. The Iobane magus also recharges their Spellstrike when they casts a conflux spell."
  
+```
+
+```encounter-table
+name: Iobane Magus
+creatures:
+  - 1: Iobane Magus
 ```
 
 

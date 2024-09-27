@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.pfs-season-1-bestiary.Actor.U2igHGiYNNclSdsm"
 tags:
   - pf2e/creature/type/construct
   - pf2e/creature/type/mindless
+  - pf2eMonster
   - pf2e/creature/level/3
 statblock: inline
 name: "Spirit Guardian Statue"
@@ -24,12 +25,13 @@ level: "Creature 3"
 
 alignment: ""
 size: "Medium"
-trait_01: "construct"
-trait_02: "mindless"
+trait_01: [[construct]]
+trait_02: [[mindless]]
 modifier: 9
 perception:
   - name: "Perception"
     desc: "+9; Darkvision"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Athletics: +11"
@@ -51,10 +53,10 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Construct Armor (Hardness 6)"
-    desc: "  Like normal objects, a spirit guardian statue has Hardness. This Hardness reduces any damage it takes by an amount equal to the Hardness.\nOnce the statue is reduced to less than half its Hit Points, or immediately upon being damaged by a critical hit, its construct armor breaks and its Armor Class is reduced to 16."
+    desc: "  Like normal objects, a spirit guardian statue has Hardness. This Hardness reduces any damage it takes by an amount equal to the Hardness.\n\nOnce the statue is reduced to less than half its Hit Points, or immediately upon being damaged by a critical hit, its construct armor breaks and its Armor Class is reduced to 16."
 
   - name: "Follow Trespasser"
-    desc: "`pf2:r` (move) **Trigger** A creature moves through the animated guardian statue's reach.\n**Effect** The statue moves up to 20 feet in pursuit of the creature."
+    desc: "`pf2:r` (move) **Trigger** A creature moves through the animated guardian statue's reach.\n* * *\n\n**Effect** The statue moves up to 20 feet in pursuit of the creature."
 
 attacks:
   - name: ""
@@ -65,6 +67,12 @@ attacks:
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
     desc: "`pf2:1`  "
  
+```
+
+```encounter-table
+name: Spirit Guardian Statue
+creatures:
+  - 1: Spirit Guardian Statue
 ```
 
 

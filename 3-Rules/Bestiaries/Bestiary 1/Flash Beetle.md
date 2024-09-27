@@ -6,6 +6,7 @@ cssClasses: pf2e
 aliases: "Compendium.pf2e.pathfinder-bestiary.Actor.i6Rd1BE30hhyKxwo" 
 tags:
   - pf2e/creature/type/animal
+  - pf2eMonster
   - pf2e/creature/level/-1
 statblock: inline
 name: "Flash Beetle"
@@ -24,11 +25,12 @@ level: "Creature -1"
 
 alignment: ""
 size: "Small"
-trait_01: "animal"
+trait_01: [[animal]]
 modifier: 6
 perception:
   - name: "Perception"
     desc: "+6; Low-Light Vision"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Acrobatics: +6, Athletics: +4"
@@ -59,8 +61,14 @@ attacks:
     desc: "`pf2:1` Mandibles +8 (agile, finesse)\n__Damage__  1d4 + 1 piercing"
 
   - name: "Light Flash"
-    desc: "`pf2:1` (concentrate,light) The flash beetle creates a brilliant flash of light. All creatures in its luminescent aura must succeed at a DC 17 Fortitude check save or be [[Conditions/Dazzled|Dazzled]] for 1 minute.\nThe flash beetle's glow then goes out, disabling its aura for 24 hours, during which time it cannot use Light Flash."
+    desc: "`pf2:1` (concentrate,light) The flash beetle creates a brilliant flash of light. All creatures in its luminescent aura must succeed at a DC 17 Fortitude check save or be [[Conditions/Dazzled|Dazzled]] for 1 minute.\n\nThe flash beetle's glow then goes out, disabling its aura for 24 hours, during which time it cannot use Light Flash."
  
+```
+
+```encounter-table
+name: Flash Beetle
+creatures:
+  - 1: Flash Beetle
 ```
 
 

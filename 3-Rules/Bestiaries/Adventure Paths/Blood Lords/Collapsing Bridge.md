@@ -5,6 +5,7 @@ noteType: pf2eHazard
 tags:
   - mechanical
   - trap
+  - pf2eHazard
 
 source: Pathfinder #184: The Ghouls Hunger
 aliases: "Compendium.pf2e.blood-lords-bestiary.Actor.lmOabS84lQC3gJx4" 
@@ -22,8 +23,8 @@ name: "Collapsing Bridge"
 level: "Hazard 15"
 
 
-trait_01: "mechanical"
-trait_02: "trap"
+trait_01: [[mechanical]]
+trait_02: [[trap]]
 modifier: 30
 sourcebook: "_Pathfinder #184: The Ghouls Hunger_"
 perception:
@@ -42,9 +43,15 @@ attacks:
   - name: ""
 
   - name: "Collapse"
-    desc: "`pf2:r` **Trigger** A Small or larger creature moves more than 20 feet onto the bridge\n**Effect** The bridge chains detach from their connectors, dropping itself and anything on it into the lake 150 feet below. A creature that's adjacent to the ledges to the north or south can attempt a DC 33 Reflex check save to Grab the Edge, but creatures who can't reach the edge fall with the bridge into the toxic water below (unless one side of the bridge remains attached, in which case a creature can attempt to [[Actions/Grab an Edge|Grab an Edge]] by clinging to the dangling bridge-requiring a successful DC 20 Athletics check check to climb the hanging bridge to safety)."
+    desc: "`pf2:r` **Trigger** A Small or larger creature moves more than 20 feet onto the bridge\n\n**Effect** The bridge chains detach from their connectors, dropping itself and anything on it into the lake 150 feet below. A creature that's adjacent to the ledges to the north or south can attempt a DC 33 Reflex check save to Grab the Edge, but creatures who can't reach the edge fall with the bridge into the toxic water below (unless one side of the bridge remains attached, in which case a creature can attempt to [[Actions/Grab an Edge|Grab an Edge]] by clinging to the dangling bridge-requiring a successful DC 20 Athletics check check to climb the hanging bridge to safety)."
 
 
 
+```
+
+```encounter-table
+name: Collapsing Bridge
+creatures:
+  - 1: Collapsing Bridge
 ```
 

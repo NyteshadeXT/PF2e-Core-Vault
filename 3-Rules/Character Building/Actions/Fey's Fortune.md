@@ -7,12 +7,13 @@ tags:
   - trait/fortune
   - trait/common
   - category/interaction
+  - remaster
 aliases: "Compendium.pf2e.actionspf2e.Item.TMBXArwICQRJdwT6"
-license: OGL
+license: ORC
 ---
 # Fey's Fortune `pf2:0`
 
-### [[concentrate]][[fortune]]
+### [[3-Rules/Rule References/Concentrate]][[fortune]]
 
 **Category** interaction; 
 
@@ -27,5 +28,5 @@ license: OGL
 
 **Effect** Roll the skill check twice and use the better result
 
-*Source: Pathfinder Advanced Player's Guide*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

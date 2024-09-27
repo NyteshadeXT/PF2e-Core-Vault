@@ -9,25 +9,26 @@ tags:
   - trait/magical
   - trait/common
   - category/ammo
+  - remaster
 aliases: "Compendium.pf2e.equipment-srd.Item.RpvH9EDquO0jS3Jz"
-license: OGL
+license: ORC
 ---
 # Storm Arrow
 ## Item 9
-### [[3-Rules/Rule References/Air]][[consumable]][[electricity]][[magical]]
+### [[air]][[consumable]][[electricity]][[magical]]
 
 **Category** ammo; 
 **Price** 130 gp; 
 **Bulk** 0; **Size** med
 **Usage** held-in-one-hand
 
-**Activate** `pf2:1` Interact
+**Activate** `pf2:1` (manipulate)
+
+* * *
 
 The head of this arrow is made from gleaming copper.
 
-When an activated _storm arrow_ hits a target, it is buffeted by raging winds and struck by a bolt of lightning that deals 3d12 electricity damage and the target must attempt a DC 25 Reflex check saving throw.
-
-If this arrow is shot from a weapon with a _shock_ property rune, the save DC increases to 27, though the attack doesn't benefit from the _shock_ property rune itself.
+When an activated _storm arrow_ hits a target, it is buffeted by raging winds and struck by a bolt of lightning that deals 3d12 electricity damage and the target must attempt a DC 25 Reflex check saving throw. If this arrow is shot from a weapon with a _shock_ property rune, the save DC increases to 27, though the attack doesn't benefit from the _shock_ property rune itself.
 
 * * *
 
@@ -39,5 +40,5 @@ If this arrow is shot from a weapon with a _shock_ property rune, the save DC in
 
 **Critical Failure** As failure, but the foe takes double damage.
 
-*Source: Pathfinder Core Rulebook*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

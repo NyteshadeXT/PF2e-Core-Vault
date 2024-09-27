@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.pfs-season-1-bestiary.Actor.da3XtaZGVIYkfpKE"
 tags:
   - pf2e/creature/type/animal
   - pf2e/creature/type/swarm
+  - pf2eMonster
   - pf2e/creature/level/-1
 statblock: inline
 name: "Weak Spider Swarm"
@@ -24,12 +25,13 @@ level: "Creature -1"
 
 alignment: ""
 size: "Large"
-trait_01: "animal"
-trait_02: "swarm"
+trait_01: [[animal]]
+trait_02: [[swarm]]
 modifier: 4
 perception:
   - name: "Perception"
     desc: "+4; Darkvision, Tremorsense (Imprecise) 30 Feet"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Acrobatics: +4, Athletics: +1, Stealth: +4"
@@ -54,11 +56,17 @@ attacks:
   - name: ""
 
   - name: "Spider Swarm Venom"
-    desc: " (poison) **Saving Throw** DC 13 Fortitude check\n**Maximum Duration** 4 rounds\n**Stage 1** 1 poison and [[Conditions/Enfeebled 1|Enfeebled 1]] (1 round)\n**Stage 2** 1d4 poison and [[Conditions/Enfeebled 1|Enfeebled 1]] (1 round)."
+    desc: " (poison) **Saving Throw** DC 13 Fortitude check\n\n**Maximum Duration** 4 rounds\n\n**Stage 1** 1 poison and [[Conditions/Enfeebled|Enfeebled 1]] (1 round)\n\n**Stage 2** 1d4 poison and [[Conditions/Enfeebled|Enfeebled 1]] (1 round)."
 
   - name: "Swarming Bites"
-    desc: "`pf2:1`  Each enemy in the spider swarm's space takes 1d4 - 1 piercing damage with a DC 13 Reflex check save. A creature that fails its save is exposed to spider swarm venom."
+    desc: "`pf2:1`  Each enemy in the spider swarm's space takes 1d4-1 piercing damage with a DC 13 Reflex check save. A creature that fails its save is exposed to spider swarm venom."
  
+```
+
+```encounter-table
+name: Weak Spider Swarm
+creatures:
+  - 1: Weak Spider Swarm
 ```
 
 

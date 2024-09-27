@@ -3,6 +3,7 @@ obsidianUIMode: preview
 title: "Masquerade Scarf (Greater)"
 cssclasses: pf2e,pf2e-spell
 tags:
+  - trait/illusion
   - trait/invested
   - trait/magical
   - trait/common
@@ -12,7 +13,7 @@ license: ORC
 ---
 # Masquerade Scarf (Greater)
 ## Item 7
-### [[invested]][[magical]]
+### [[illusion]][[invested]][[magical]]
 
 
 **Price** 340 gp; 

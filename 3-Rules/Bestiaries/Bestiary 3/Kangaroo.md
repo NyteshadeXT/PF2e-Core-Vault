@@ -6,6 +6,7 @@ cssClasses: pf2e
 aliases: "Compendium.pf2e.pathfinder-bestiary-3.Actor.rOFpnEic0eJdaxiM" 
 tags:
   - pf2e/creature/type/animal
+  - pf2eMonster
   - pf2e/creature/level/0
 statblock: inline
 name: "Kangaroo"
@@ -24,14 +25,15 @@ level: "Creature 0"
 
 alignment: ""
 size: "Medium"
-trait_01: "animal"
+trait_01: [[animal]]
 modifier: 7
 perception:
   - name: "Perception"
     desc: "+7; Scent (Imprecise) 60 Feet"
+languages: ""
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +4, Athletics: +7 (+9 to Long Jump), Survival: +3"
+    desc: "Acrobatics: +4, Athletics: +7, Survival: +3"
 abilityMods: [3, 2, 3, -4, 1, 1]
 speed: 35 feet
 sourcebook: "_Pathfinder Bestiary 3_"
@@ -53,7 +55,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Defensive Shove"
-    desc: "`pf2:r`  **Trigger** The kangaroo takes damage from an adjacent creature\n**Effect** The kangaroo attempts to [[Actions/Shove|Shove]] the creature that damaged it."
+    desc: "`pf2:r`  **Trigger** The kangaroo takes damage from an adjacent creature\n* * *\n\n**Effect** The kangaroo attempts to [[Actions/Shove|Shove]] the creature that damaged it."
 
 attacks:
   - name: ""
@@ -67,6 +69,12 @@ attacks:
   - name: "[[Bestiary Ability Glossary/Push|Push]]"
     desc: "`pf2:1`  "
  
+```
+
+```encounter-table
+name: Kangaroo
+creatures:
+  - 1: Kangaroo
 ```
 
 

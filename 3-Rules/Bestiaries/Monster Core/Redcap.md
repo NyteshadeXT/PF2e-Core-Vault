@@ -6,6 +6,7 @@ cssClasses: pf2e
 aliases: "Compendium.pf2e.pathfinder-monster-core.Actor.fWAjkhQ0y50Eh2BT" 
 tags:
   - pf2e/creature/type/fey
+  - pf2eMonster
   - pf2e/creature/level/5
   - remaster
 statblock: inline
@@ -25,7 +26,7 @@ level: "Creature 5"
 
 alignment: ""
 size: "Small"
-trait_01: "fey"
+trait_01: [[fey]]
 modifier: 12
 perception:
   - name: "Perception"
@@ -56,7 +57,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Divine Revulsion"
-    desc: " (emotion,fear,mental) If a redcap sees a creature brandish a religious symbol of a deity (which requires an Interact action by that creature) or cast a divine spell while wearing a religious symbol, the redcap must attempt a DC 19 Will check save. They then become temporarily immune to all brandished religious symbols for 10 minutes.\n* * *\n\n**Critical Success** The redcap is unaffected.\n\n**Success** The redcap is [[Conditions/Frightened 1|Frightened 2]].\n\n**Failure** The redcap gains the [[Conditions/Fleeing|Fleeing]] condition for 1 round and is [[Conditions/Frightened 1|Frightened 4]]."
+    desc: " (emotion,fear,mental) If a redcap sees a creature brandish a religious symbol of a deity (which requires an Interact action by that creature) or cast a divine spell while wearing a religious symbol, the redcap must attempt a DC 19 Will check save. They then become temporarily immune to all brandished religious symbols for 10 minutes.\n* * *\n\n**Critical Success** The redcap is unaffected.\n\n**Success** The redcap is [[Conditions/Frightened|Frightened 2]].\n\n**Failure** The redcap gains the [[Conditions/Fleeing|Fleeing]] condition for 1 round and is [[Conditions/Frightened|Frightened 4]]."
 
 attacks:
   - name: ""
@@ -79,6 +80,12 @@ attacks:
   - name: "Stomp"
     desc: "`pf2:1`  The redcap Strides up to half its Speed and makes a boot Strike at any point during that movement. If the boot Strike hits a [[Conditions/Prone|Prone]] creature, it deals an extra 2d6 bleed."
  
+```
+
+```encounter-table
+name: Redcap
+creatures:
+  - 1: Redcap
 ```
 
 

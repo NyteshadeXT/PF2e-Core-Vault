@@ -17,7 +17,7 @@ license: OGL
 
 
 
-**Moderate Curse** Tactical advantages never seem to work the way you planned. You can't receive a circumstance bonus to your attack rolls, and enemies don't take any circumstance penalties to their AC against your attacks.
+Tactical advantages never seem to work the way you planned. You can't receive a circumstance bonus to your attack rolls, and enemies don't take any circumstance penalties to their AC against your attacks.
 
 *Source: Pathfinder Lost Omens: Gods & Magic*
 *OGL*

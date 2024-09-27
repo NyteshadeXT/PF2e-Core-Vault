@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/humanoid
   - pf2e/creature/type/lawful
   - pf2e/creature/type/troop
+  - pf2eMonster
   - pf2e/creature/level/5
 statblock: inline
 name: "City Guard Squadron"
@@ -27,10 +28,10 @@ level: "Creature 5"
 
 alignment: ""
 size: "grg"
-trait_01: "human"
-trait_02: "humanoid"
-trait_03: "lawful"
-trait_04: "troop"
+trait_01: [[human]]
+trait_02: [[humanoid]]
+trait_03: [[lawful]]
+trait_04: [[troop]]
 modifier: 12
 perception:
   - name: "Perception"
@@ -63,23 +64,29 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "[[Bestiary Ability Glossary/Troop Defenses|Troop Defenses]]"
-    desc: "  **Thresholds** 50 (12 squares), 25 (8 squares)\n"
+    desc: "  **Thresholds** 50 (12 squares), 25 (8 squares)\n\n* * *\n"
 
 attacks:
   - name: ""
 
   - name: "Fire Crossbows!"
-    desc: "`pf2:2`  The city guards draw or reload their crossbows, then launch a ranged attack in the form of a volley.\nThis volley is a 10-foot burst within 120 feet that deals 3d8 piercing damage (DC 19 Reflex check save). When the city guards are reduced to 8 or fewer squares, this area decreases to a 5-foot burst."
+    desc: "`pf2:2`  The city guards draw or reload their crossbows, then launch a ranged attack in the form of a volley.\n\nThis volley is a @Template[burst|distance:10] within 120 feet that deals 3d8 piercing damage (DC 19 Reflex check save). When the city guards are reduced to 8 or fewer squares, this area decreases to a @Template[burst|distance:5]."
 
   - name: "Lower Halberds!"
-    desc: "`pf2:1`  `pf2:1` to `pf2:3`\n**Frequency** once per round.\n**Effect** The city guards engage in a coordinated melee attack against each enemy within 10 feet, with a DC 19 Reflex check save. The damage depends on the number of actions.\n`pf2:1` 1d10 piercing damage or 1d10 slashing damage\n`pf2:2` 1d10 + 7 piercing damage or 1d10 + 7 slashing damage\n`pf2:3` 1d10 + 10 piercing damage or 1d10 + 10 slashing damage"
+    desc: "`pf2:1`  `pf2:1` to `pf2:3`\n\n**Frequency** once per round.\n* * *\n\n**Effect** The city guards engage in a coordinated melee attack against each enemy within 10 feet, with a DC 19 Reflex check save. The damage depends on the number of actions.\n\n`pf2:1` 1d10 piercing damage or 1d10 slashing damage\n\n`pf2:2` 1d10+7 piercing damage or 1d10+7 slashing damage\n\n`pf2:3` 1d10+10 piercing damage or 1d10+10 slashing damage"
 
   - name: "Troop Movement"
-    desc: "  Whenever the city guards Stride, they first [[Bestiary Ability Glossary/Form Up|Form Up]] as a free action to condense into a 20-foot-by-20-foot area (minus any missing squares), then move up to their Speed.\nThis works just like a Gargantuan creature moving; for instance, if any square of the guards enters difficult terrain, the extra movement cost applies to all the guards."
+    desc: "  Whenever the city guards Stride, they first [[Bestiary Ability Glossary/Form Up|Form Up]] as a free action to condense into a 20-foot-by-20-foot area (minus any missing squares), then move up to their Speed.\n\nThis works just like a Gargantuan creature moving; for instance, if any square of the guards enters difficult terrain, the extra movement cost applies to all the guards."
 
   - name: "Urban Chasers"
     desc: "  City guards ignore difficult terrain (but not greater difficult terrain) caused by crowds or from movement through narrow spaces such as alleyways."
  
+```
+
+```encounter-table
+name: City Guard Squadron
+creatures:
+  - 1: City Guard Squadron
 ```
 
 

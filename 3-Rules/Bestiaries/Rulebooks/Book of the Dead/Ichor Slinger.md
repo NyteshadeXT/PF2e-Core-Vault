@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/undead
   - pf2e/creature/type/unholy
+  - pf2eMonster
   - pf2e/creature/level/4
 statblock: inline
 name: "Ichor Slinger"
@@ -22,17 +23,17 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Book of the Dead"
 name: "Ichor Slinger"
 level: "Creature 4"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Medium"
-trait_01: "evil"
-trait_02: "undead"
-trait_03: "unholy"
+trait_01: [[evil]]
+trait_02: [[undead]]
+trait_03: [[unholy]]
 modifier: 10
 perception:
   - name: "Perception"
     desc: "+10; Darkvision"
-languages: "Common, Necril"
+languages: "Common, Necril; any one language"
 skills:
   - name: "Skills"
     desc: "Athletics: +11, Crafting: +13, Deception: +13, Performance: +11, Stealth: +9"
@@ -64,17 +65,23 @@ attacks:
     desc: "`pf2:1` Fist +13 (agile)\n__Damage__  2d6 + 3 bludgeoning plus grab"
 
   - name: "Brew Tomb Juice"
-    desc: "`pf2:1` (manipulate) **Cost** 1 batch of infused reagents\n**Effect** The ichor slinger creates a vial of tomb juice, an alchemical tonic that has the infused trait and becomes inert after 24 hours. Tomb juice has the effects of [[Equipment/Snake Oil|Snake Oil]], and maybe more depending on the results of the ichor slinger's DC 20 Crafting check check.\n**Critical Success** The slinger chooses one of the following items and adds its effects to the tomb juice: [[Equipment/Antidote (Moderate)|Antidote (Moderate)]], [[Equipment/Antiplague (Moderate)|Antiplague (Moderate)]], [[Equipment/Elixir of Life (Lesser)|Elixir of Life (Lesser)]], [[Equipment/Giant Scorpion Venom|Giant Scorpion Venom]], or [[Equipment/Juggernaut Mutagen (Moderate)|Juggernaut Mutagen (Moderate)]]. Poisons created in this way gain an onset of 1 round, gain the ingested trait, and lose any contact, inhaled, or injury traits.\n**Success** As critical success, but the slinger chooses from [[Equipment/Antidote (Lesser)|Antidote (Lesser)]], [[Equipment/Antiplague (Lesser)|Antiplague (Lesser)]], [[Equipment/Elixir of Life (Minor)|Elixir of Life (Minor)]], [[Equipment/Graveroot|Graveroot]], or [[Equipment/Juggernaut Mutagen (Lesser)|Juggernaut Mutagen (Lesser)]]."
+    desc: "`pf2:1` (manipulate) **Cost** 1 batch of infused reagents\n* * *\n\n**Effect** The ichor slinger creates a vial of tomb juice, an alchemical tonic that has the infused trait and becomes inert after 24 hours. Tomb juice has the effects of [[Equipment/Snake Oil|Snake Oil]], and maybe more depending on the results of the ichor slinger's DC 20 Crafting check check.\n* * *\n\n**Critical Success** The slinger chooses one of the following items and adds its effects to the tomb juice: [[Equipment/Antidote (Moderate)|Antidote (Moderate)]], [[Equipment/Antiplague (Moderate)|Antiplague (Moderate)]], [[Equipment/Elixir of Life (Lesser)|Elixir of Life (Lesser)]], [[Equipment/Giant Scorpion Venom|Giant Scorpion Venom]], or [[Equipment/Juggernaut Mutagen (Moderate)|Juggernaut Mutagen (Moderate)]]. Poisons created in this way gain an onset of 1 round, gain the ingested trait, and lose any contact, inhaled, or injury traits.\n\n**Success** As critical success, but the slinger chooses from [[Equipment/Antidote (Lesser)|Antidote (Lesser)]], [[Equipment/Antiplague (Lesser)|Antiplague (Lesser)]], [[Equipment/Elixir of Life (Minor)|Elixir of Life (Minor)]], [[Equipment/Graveroot|Graveroot]], or [[Equipment/Juggernaut Mutagen (Lesser)|Juggernaut Mutagen (Lesser)]]."
 
   - name: "Exhume"
-    desc: "`pf2:1` (manipulate) **Requirements** The ichor slinger is adjacent to a dead creature that hasn't already been affected by Exhume\n**Effect** The ichor slinger harvests portions of the corpse to gain 1 dose of infused reagents, or 2 infused reagents if the creature was undead."
+    desc: "`pf2:1` (manipulate) **Requirements** The ichor slinger is adjacent to a dead creature that hasn't already been affected by Exhume\n* * *\n\n**Effect** The ichor slinger harvests portions of the corpse to gain 1 dose of infused reagents, or 2 infused reagents if the creature was undead."
 
   - name: "Force Feed"
-    desc: "`pf2:1`  **Requirements** The ichor slinger has a creature [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]] and is holding tomb juice, an alchemical elixir, or an alchemical poison\n**Effect** The ichor slinger forces the target to consume the alchemical item."
+    desc: "`pf2:1`  **Requirements** The ichor slinger has a creature [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]] and is holding tomb juice, an alchemical elixir, or an alchemical poison\n* * *\n\n**Effect** The ichor slinger forces the target to consume the alchemical item."
 
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
     desc: "`pf2:1`  "
  
+```
+
+```encounter-table
+name: Ichor Slinger
+creatures:
+  - 1: Ichor Slinger
 ```
 
 

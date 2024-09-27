@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/chaotic
   - pf2e/creature/type/human
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/8
 statblock: inline
 name: "Tiger Lord"
@@ -22,12 +23,12 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Kingmaker"
 name: "Tiger Lord"
 level: "Creature 8"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Medium"
-trait_01: "chaotic"
-trait_02: "human"
-trait_03: "humanoid"
+trait_01: [[chaotic]]
+trait_02: [[human]]
+trait_03: [[humanoid]]
 modifier: 18
 perception:
   - name: "Perception"
@@ -55,7 +56,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "No Escape"
-    desc: "`pf2:r`  **Trigger** A foe within reach attempts to move away from the Tiger Lord\n**Effect** The Tiger Lord Strides up to its Speed, following the foe and keeping it in reach throughout its movement until it stops moving or the Tiger Lord has moved its full Speed."
+    desc: "`pf2:r`  **Trigger** A foe within reach attempts to move away from the Tiger Lord\n\n**Effect** The Tiger Lord Strides up to its Speed, following the foe and keeping it in reach throughout its movement until it stops moving or the Tiger Lord has moved its full Speed."
 
 attacks:
   - name: ""
@@ -73,8 +74,14 @@ attacks:
     desc: "`pf2:3`  The Tiger Lord makes a ranged Strike with a hatchet, then Strides up to twice its speed. If it ends its movement within melee reach of the target of its ranged Strike, it may make a melee Strike against that enemy. If the ranged Strike hit the target, the target is [[Conditions/Off-Guard|Off-Guard]] against the melee Strike."
 
   - name: "Vengeful Rage"
-    desc: "`pf2:r`  **Requirements** The Tiger Lord is not [[Conditions/Fatigued|Fatigued]] or already in a rage\n**Trigger** The Tiger Lord suffers damage that reduces its Hit Points to 100 or less.\n**Effect** The Tiger Lord flies into a rage that lasts 1 minute. While raging, the Tiger Lord gains a +1 status bonus to attack rolls, gains a +2 status bonus to damage rolls, and takes a -2 status penalty to AC. After the rage, the Tiger Lord is fatigued."
+    desc: "`pf2:r`  **Requirements** The Tiger Lord is not [[Conditions/Fatigued|Fatigued]] or already in a rage\n\n**Trigger** The Tiger Lord suffers damage that reduces its Hit Points to 100 or less.\n\n**Effect** The Tiger Lord flies into a rage that lasts 1 minute. While raging, the Tiger Lord gains a +1 status bonus to attack rolls, gains a +2 status bonus to damage rolls, and takes a -2 status penalty to AC. After the rage, the Tiger Lord is fatigued."
  
+```
+
+```encounter-table
+name: Tiger Lord
+creatures:
+  - 1: Tiger Lord
 ```
 
 

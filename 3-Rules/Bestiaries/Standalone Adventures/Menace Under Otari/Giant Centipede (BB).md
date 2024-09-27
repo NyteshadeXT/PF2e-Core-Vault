@@ -6,6 +6,7 @@ cssClasses: pf2e
 aliases: "Compendium.pf2e.menace-under-otari-bestiary.Actor.BKPRkJgq7ehsW7uX" 
 tags:
   - pf2e/creature/type/animal
+  - pf2eMonster
   - pf2e/creature/level/-1
   - remaster
 statblock: inline
@@ -24,11 +25,12 @@ level: "Creature -1"
 
 alignment: ""
 size: "Medium"
-trait_01: "animal"
+trait_01: [[animal]]
 modifier: 6
 perception:
   - name: "Perception"
     desc: "+6; Darkvision"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Acrobatics: +6, Athletics: +2, Stealth: +6"
@@ -58,6 +60,12 @@ attacks:
   - name: "Giant Centipede Venom"
     desc: " (poison) A target that takes piercing damage from the centipede's mandibles Strike must succeed at a DC 14 Fortitude check save or take 1d6 poison damage."
  
+```
+
+```encounter-table
+name: Giant Centipede (BB)
+creatures:
+  - 1: Giant Centipede (BB)
 ```
 
 

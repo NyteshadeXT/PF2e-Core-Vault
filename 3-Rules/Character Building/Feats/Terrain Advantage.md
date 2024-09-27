@@ -6,8 +6,9 @@ tags:
   - trait/lizardfolk
   - trait/common
   - category/ancestry
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.FrzskqwNWexKY5BA"
-license: OGL
+license: ORC
 ---
 # Terrain Advantage
 ## Feat 9
@@ -18,7 +19,7 @@ license: OGL
 
 
 
-You can take advantage of the terrain to bypass foes' defenses. Non-lizardfolk creatures in difficult terrain are [[Conditions/Off-Guard|Off-Guard]] to you. If you have a swim Speed, non-lizardfolk creatures that are in water and lack a swim Speed are also off-guard to you.
+Non-lizardfolk creatures in difficult terrain are [[Conditions/Off-Guard|Off-Guard]] to you. If you have a swim Speed, non-lizardfolk creatures that are in water and lack a swim Speed are also off-guard to you.
 
-*Source: Pathfinder Lost Omens: Character Guide*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

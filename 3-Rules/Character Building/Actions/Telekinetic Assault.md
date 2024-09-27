@@ -10,14 +10,14 @@ license: OGL
 ---
 # Telekinetic Assault `pf2:2`
 
-### [[divine]]
+### [[3-Rules/Rule References/Divine]]
 
 
 
 
 
 
-Your ghost unleashes a flurry of emotions, causing small objects and debris to fly about in a 20-foot emanation, dealing 1d6 bludgeoning for every 2 levels the ghost has (basic Reflex save). This uses a trained DC using the ghost's Charisma modifier or an expert DC if the ghost is specialized.
+Your ghost unleashes a flurry of emotions, causing small objects and debris to fly about in a @Template\[emanation|distance:20\], dealing 1d6 bludgeoning for every 2 levels the ghost has (basic Reflex save). This uses a trained DC using the ghost's Charisma modifier or an expert DC if the ghost is specialized.
 
 *Source: Pathfinder Book of the Dead*
 *OGL*

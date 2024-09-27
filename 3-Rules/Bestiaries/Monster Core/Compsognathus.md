@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.pathfinder-monster-core.Actor.uzH85ifDz5GU525p"
 tags:
   - pf2e/creature/type/animal
   - pf2e/creature/type/dinosaur
+  - pf2eMonster
   - pf2e/creature/level/-1
   - remaster
 statblock: inline
@@ -26,8 +27,8 @@ level: "Creature -1"
 
 alignment: ""
 size: "tiny"
-trait_01: "animal"
-trait_02: "dinosaur"
+trait_01: [[animal]]
+trait_02: [[dinosaur]]
 modifier: 5
 perception:
   - name: "Perception"
@@ -60,8 +61,14 @@ attacks:
     desc: "`pf2:1` Jaws +7 (agile, finesse, reach 0 feet)\n__Damage__  1d6 piercing plus compsognathus-venom"
 
   - name: "Compsognathus Venom"
-    desc: " (poison) **Saving Throw** DC 16 Fortitude check\n\n**Maximum Duration** 4 rounds\n\n**Stage 1** 1d6 poison damage and [[Conditions/Enfeebled 1|Enfeebled 1]] (1 round)\n\n**Stage 2** 1d8 poison damage and Enfeebled 1 (1 round)"
+    desc: " (poison) **Saving Throw** DC 16 Fortitude check\n\n**Maximum Duration** 4 rounds\n\n**Stage 1** 1d6 poison damage and [[Conditions/Enfeebled|Enfeebled 1]] (1 round)\n\n**Stage 2** 1d8 poison damage and Enfeebled 1 (1 round)"
  
+```
+
+```encounter-table
+name: Compsognathus
+creatures:
+  - 1: Compsognathus
 ```
 
 

@@ -7,8 +7,9 @@ tags:
   - trait/skill
   - trait/common
   - category/skill
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.B4nuabUvA1rk7Hej"
-license: OGL
+license: ORC
 ---
 # Multilingual Cipher
 ## Feat 4
@@ -24,5 +25,5 @@ You use multiple languages to create and break codes. You gain a +1 circumstance
 
 If another creature attempts to Decipher Writing you encoded, they take a -2 circumstance penalty unless they speak all the languages you used when you created the writing.
 
-*Source: Pathfinder Advanced Player's Guide*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

@@ -135,7 +135,7 @@ When you focus your attention on a single foe, you become unstoppable in your pu
 
 You designate a single creature as your prey and focus your attacks against that creature. You must be able to see or hear the prey, or you must be tracking the prey during exploration.
 
-You gain a +2 circumstance bonus to Perception checks when you Seek your prey and a +2 circumstance bonus to Survival checks when you Track your prey. You also ignore the penalty for making ranged attacks within your second range increment against the prey you’re hunting.
+You gain a +2 circumstance bonus to Perception checks when you Seek your prey and a +2 circumstance bonus to Survival checks when you Track your prey. You also ignore the penalty for making ranged attacks within your second range increment against the prey you're hunting.
 
 You can have only one creature designated as your prey at a time. If you use Hunt Prey against a creature when you already have a creature designated, the prior creature loses the designation and the new prey gains the designation. Your designation lasts until your next daily preparations.
 
@@ -167,9 +167,9 @@ Your mental defenses grow stronger. Your proficiency rank for Will saves increas
 
 ## Skill IncreasesLevel 3
 
-At 3rd level and every 2 levels thereafter, you gain a skill increase. You can use this increase to either become trained in one skill you’re untrained in or become an expert in one skill in which you’re already trained.
+At 3rd level and every 2 levels thereafter, you gain a skill increase. You can use this increase to either become trained in one skill you're untrained in or become an expert in one skill in which you're already trained.
 
-At 7th level, you can use skill increases to become a master in a skill in which you’re already an expert, and at 15th level, you can use them to become legendary in a skill in which you’re already a master.
+At 7th level, you can use skill increases to become a master in a skill in which you're already an expert, and at 15th level, you can use them to become legendary in a skill in which you're already a master.
 
 ## Attribute BoostsLevel 5
 
@@ -191,7 +191,7 @@ When you move through natural terrains, you are hard to track. You always gain t
 
 ## Natural ReflexesLevel 7
 
-You’ve honed your reflexes dodging falling trees and pounding hail. Your proficiency rank for Reflex saves increases to master. When you roll a success on a Reflex save, you get a critical success instead.
+You've honed your reflexes dodging falling trees and pounding hail. Your proficiency rank for Reflex saves increases to master. When you roll a success on a Reflex save, you get a critical success instead.
 
 ## Perception MasteryLevel 7
 
@@ -203,15 +203,15 @@ You've learned how to inflict greater injuries with the weapons you know best. Y
 
 ## Nature's EdgeLevel 9
 
-You always find the weak points in your foes’ defenses when they’re on unfavorable terrain. Enemies are off-guard to you if they’re in difficult terrain.
+You always find the weak points in your foes' defenses when they're on unfavorable terrain. Enemies are off-guard to you if they're in difficult terrain.
 
 ## Ranger ExpertiseLevel 9
 
-You’ve gained techniques that improve your cunning and skill. Your proficiency rank for your ranger DC increases to expert. If you have warden spells, your proficiency rank for spell attacks and spell DCs increases to expert
+You've gained techniques that improve your cunning and skill. Your proficiency rank for your ranger DC increases to expert. If you have warden spells, your proficiency rank for spell attacks and spell DCs increases to expert
 
 ## Warden's EnduranceLevel 11
 
-You shake off a grizzly’s grab or a poison’s ill effects with equal ease. Your proficiency rank for Fortitude saves increases to master. When you roll a success on a Fortitude save, you get a critical success instead.
+You shake off a grizzly's grab or a poison's ill effects with equal ease. Your proficiency rank for Fortitude saves increases to master. When you roll a success on a Fortitude save, you get a critical success instead.
 
 ## Medium Armor ExpertiseLevel 11
 
@@ -219,7 +219,7 @@ You've learned to defend yourself better against attacks. Your proficiency ranks
 
 ## Unimpeded JourneyLevel 11
 
-You move quickly through obstacles, whether they’re tumbled stone or tangled undergrowth. You can ignore the effects of difficult terrain. As normal for ignoring difficult terrain, this also lets you treat the hindrances of greater difficult terrain as those of difficult terrain.
+You move quickly through obstacles, whether they're tumbled stone or tangled undergrowth. You can ignore the effects of difficult terrain. As normal for ignoring difficult terrain, this also lets you treat the hindrances of greater difficult terrain as those of difficult terrain.
 
 ## Martial Weapon MasteryLevel 13
 
@@ -239,7 +239,7 @@ You notice the almost imperceptible. Your proficiency rank for Perception increa
 
 ## Masterful HunterLevel 17
 
-You have honed your abilities as a hunter to incredible levels. Your proficiency rank for your ranger class DC increases to master. If you have warden spells, your proficiency rank for spell attacks and spell DCs increases to master. When using a ranged weapon that you have master proficiency in, you can ignore the penalty if attacking your hunted prey within the weapon’s second and third range increments.
+You have honed your abilities as a hunter to incredible levels. Your proficiency rank for your ranger class DC increases to master. If you have warden spells, your proficiency rank for spell attacks and spell DCs increases to master. When using a ranged weapon that you have master proficiency in, you can ignore the penalty if attacking your hunted prey within the weapon's second and third range increments.
 
 If you have master proficiency in Perception, you gain a +4 circumstance bonus to Perception checks when you Seek your prey, and if you have master proficiency in Survival, you gain a +4 circumstance bonus to Survival checks when you Track your prey.
 

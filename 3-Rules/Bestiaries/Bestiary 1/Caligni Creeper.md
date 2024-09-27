@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/caligni
   - pf2e/creature/type/chaotic
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/2
 statblock: inline
 name: "Caligni Creeper"
@@ -26,9 +27,9 @@ level: "Creature 2"
 
 alignment: ""
 size: "Small"
-trait_01: "caligni"
-trait_02: "chaotic"
-trait_03: "humanoid"
+trait_01: [[caligni]]
+trait_02: [[chaotic]]
+trait_03: [[humanoid]]
 modifier: 8
 perception:
   - name: "Perception"
@@ -56,7 +57,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Death Flash"
-    desc: " (light) When the caligni creeper dies, their body combusts in a flash of bright light.\nAll creatures in a 10-foot emanation must succeed at a DC 17 Fortitude check save or be [[Conditions/Blinded|Blinded]] for 1d6 rounds.\nCreatures with [[Bestiary Ability Glossary/Light Blindness|Light Blindness]] who successfully save are still blinded for 1 round.\nThe creeper's gear and treasure are left in a pile where they died. As this isn't a magical effect, the light has no effect within magical darkness."
+    desc: " (light) When the caligni creeper dies, their body combusts in a flash of bright light.\n\nAll creatures in a @Template[emanation|distance:10] must succeed at a DC 17 Fortitude check save or be [[Conditions/Blinded|Blinded]] for 1d6 rounds.\n\nCreatures with [[Bestiary Ability Glossary/Light Blindness|Light Blindness]] who successfully save are still blinded for 1 round.\n\nThe creeper's gear and treasure are left in a pile where they died. As this isn't a magical effect, the light has no effect within magical darkness."
 
 attacks:
   - name: ""
@@ -73,6 +74,12 @@ attacks:
   - name: "[[Bestiary Ability Glossary/Sneak Attack|Sneak Attack]]"
     desc: "  The caligni creeper deals 1d6 extra precision damage to [[Conditions/Off-Guard|Off-Guard]] creatures."
  
+```
+
+```encounter-table
+name: Caligni Creeper
+creatures:
+  - 1: Caligni Creeper
 ```
 
 

@@ -17,6 +17,8 @@ license: OGL
 
 
 
+Granted by [[Equipment/Storm Breath|Storm Breath]]
+
 You gain resistance 5 to both electricity and sonic.
 
 *Source: Pathfinder Rage of Elements*

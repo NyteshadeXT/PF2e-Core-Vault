@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/air
   - pf2e/creature/type/beast
   - pf2e/creature/type/lawful
+  - pf2eMonster
   - pf2e/creature/level/16
 statblock: inline
 name: "Inmyeonjo"
@@ -22,17 +23,17 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #168: King of the Mountain"
 name: "Inmyeonjo"
 level: "Creature 16"
-rare_03: "Rare"
+rare_03: [[Rare]]
 alignment: ""
 size: "huge"
-trait_01: "air"
-trait_02: "beast"
-trait_03: "lawful"
+trait_01: [[air]]
+trait_02: [[beast]]
+trait_03: [[lawful]]
 modifier: 30
 perception:
   - name: "Perception"
     desc: "+30; Darkvision"
-languages: "Common, Sussuran"
+languages: "Common, Sussuran; telepathy 100 feet"
 skills:
   - name: "Skills"
     desc: "Acrobatics: +30, Athletics: +28, Diplomacy: +32, Medicine: +32, Nature: +32, Occultism: +27"
@@ -55,7 +56,7 @@ abilities_top:
     desc: "  Though an inmyeonjo still needs to eat, drink, and sleep, they don't age and can't die of old age."
 
   - name: "Terrifying Beauty"
-    desc: "  60 feet. Any creature within 60 feet of an inmyeonjo that the inmyeonjo can see must attempt a DC 32 Will check save. The effects last for 1 day while it is within the area of blurred countenance.\n**Critical Success** The creature is unaffected and is immune to the inmyeonjo's Terrifying Beauty for 1 day.\n**Success** The creature finds the inmyeonjo beguiling and becomes [[Conditions/Stupefied 1|Stupefied 1]].\n**Failure** The creature finds the inmyeonjo terrifying and becomes [[Conditions/Frightened 1|Frightened 1]].\n**Critical Failure** The creature finds the inmyeonjo dreadful, becoming [[Conditions/Frightened 1|Frightened 2]]. They can't willingly move closer to the inmyeonjo."
+    desc: "  60 feet. Any creature within 60 feet of an inmyeonjo that the inmyeonjo can see must attempt a DC 32 Will check save. The effects last for 1 day while it is within the area of blurred countenance.\n* * *\n\n**Critical Success** The creature is unaffected and is immune to the inmyeonjo's Terrifying Beauty for 1 day.\n\n**Success** The creature finds the inmyeonjo beguiling and becomes [[Conditions/Stupefied|Stupefied 1]].\n\n**Failure** The creature finds the inmyeonjo terrifying and becomes [[Conditions/Frightened|Frightened 1]].\n\n**Critical Failure** The creature finds the inmyeonjo dreadful, becoming [[Conditions/Frightened|Frightened 2]]. They can't willingly move closer to the inmyeonjo."
 
 abilities_mid:
   - name: ""
@@ -74,6 +75,12 @@ attacks:
   - name: "Spontaneous Occult Spells"
     desc: "DC 34, attack +26; __8th __ (1 slots) _[[Spells/Pinpoint|Discern Location]]_, _[[Spells/Unrelenting Observation|Unrelenting Observation]]_; __7th __ (2 slots) _[[Spells/Ethereal Jaunt|Ethereal Jaunt]]_, _[[Spells/Mask of Terror|Mask of Terror]]_; __6th __ (2 slots) _[[Spells/Phantasmal Calamity|Phantasmal Calamity]]_, _[[Spells/Vibrant Pattern|Vibrant Pattern]]_; __5th __ (2 slots) _[[Spells/Hallucination|Hallucination]]_, _[[Spells/Synaptic Pulse|Synaptic Pulse]]_; __4th __ (3 slots) _[[Spells/Discern Lies|Discern Lies]]_, _[[Spells/Read Omens|Read Omens]]_; __3rd __ (3 slots) _[[Spells/Mind Reading|Mind Reading]]_, _[[Spells/Ring of Truth|Zone of Truth]]_; __2nd __ (3 slots) _[[Spells/Mirror Image|Mirror Image]]_\n__Cantrips__  __(8th)__ _[[Spells/Message|Message]]_, _[[Spells/Telekinetic Projectile|Telekinetic Projectile]]_"
  
+```
+
+```encounter-table
+name: Inmyeonjo
+creatures:
+  - 1: Inmyeonjo
 ```
 
 

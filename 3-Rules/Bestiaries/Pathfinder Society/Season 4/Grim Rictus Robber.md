@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/chaotic
   - pf2e/creature/type/human
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/-1
 statblock: inline
 name: "Grim Rictus Robber"
@@ -22,12 +23,12 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Society Scenario #4-02: Return to the Grave"
 name: "Grim Rictus Robber"
 level: "Creature -1"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Medium"
-trait_01: "chaotic"
-trait_02: "human"
-trait_03: "humanoid"
+trait_01: [[chaotic]]
+trait_02: [[human]]
+trait_03: [[humanoid]]
 modifier: 3
 perception:
   - name: "Perception"
@@ -35,7 +36,7 @@ perception:
 languages: "Common"
 skills:
   - name: "Skills"
-    desc: "Athletics: +5, Lore (any one related to their trade): +6, Society: +2"
+    desc: "Athletics: +5, Society: +2, Lore (any one related to their trade): +6"
 abilityMods: [3, 1, 2, 0, 1, 0]
 speed: 25 feet
 sourcebook: "_Pathfinder Society Scenario #4-02: Return to the Grave_"
@@ -66,6 +67,12 @@ attacks:
   - name: "Power of the Mob"
     desc: "  When three or more robbers are adjacent to each other each commoner gets a +1 circumstance bonus to Athletics checks to [[Actions/Shove|Shove]], attack rolls, and damage rolls."
  
+```
+
+```encounter-table
+name: Grim Rictus Robber
+creatures:
+  - 1: Grim Rictus Robber
 ```
 
 

@@ -17,7 +17,7 @@ license: OGL
 
 
 
-**Minor Curse** Your blade and armor have dulled like lead. Your weapons, armor, and shields have half their usual Hit Points and Break Threshold.
+Your blade and armor have dulled like lead. Your weapons, armor, and shields have half their usual Hit Points and Break Threshold.
 
 *Source: Pathfinder Lost Omens: Gods & Magic*
 *OGL*

@@ -11,6 +11,7 @@ tags:
   
 
 **SIMPLE DC**
+ 
 | **Task Difficulty** | **Simple DC** |
 | --- | --- |
 | **Untrained** | 10 |
@@ -22,6 +23,7 @@ tags:
   
 
 **DC ADJUSTMENTS**
+ 
 | **Difficulty** | **Adjustment** | **Rarity** |
 | --- | --- | --- |
 | **Incredibly Easy** | \-10 | \- |
@@ -34,6 +36,7 @@ tags:
   
 
 **DCS BY LEVEL**
+ 
 | Level | DC | Level | DC |
 | --- | --- | --- | --- |
 | **0** | 14 | **13** | 31 |
@@ -53,6 +56,7 @@ tags:
   
 
 **SPELL DCS BY LEVEL**
+ 
 | **Spell Rank** | **DC** |
 | --- | --- |
 | **1st** | 15 |

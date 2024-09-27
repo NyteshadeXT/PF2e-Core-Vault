@@ -4,8 +4,9 @@ title: "Achaekek - Moderate Boon"
 cssclasses: pf2e,pf2e-action
 tags:
   - trait/common
+  - remaster
 aliases: "Compendium.pf2e.boons-and-curses.Item.xwhPzOXxX1fON3j4"
-license: OGL
+license: ORC
 ---
 # Achaekek - Moderate Boon
 
@@ -16,7 +17,7 @@ license: OGL
 
 
 
-**Moderate Boon:** You gain the god's approval to take a life. You can cast [[Spells/Death Knell|Death Knell]] once per day as an innate divine spell.
+You can cast [[Spells/Blood Vendetta|Blood Vendetta]] once per day as an innate divine spell; this spell automatically heightens to a rank equal to your half your level.
 
-*Source: Pathfinder Lost Omens: Gods & Magic*
-*OGL*
+*Source: Pathfinder Adventure: Prey for Death*
+*ORC*

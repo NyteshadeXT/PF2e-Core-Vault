@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/halfling
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/6
 statblock: inline
 name: "Asmerelli"
@@ -22,12 +23,12 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #200: Seven Dooms for Sandpoint"
 name: "Asmerelli"
 level: "Creature 6"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Small"
-trait_01: "evil"
-trait_02: "halfling"
-trait_03: "humanoid"
+trait_01: [[evil]]
+trait_02: [[halfling]]
+trait_03: [[humanoid]]
 modifier: 13
 perception:
   - name: "Perception"
@@ -35,7 +36,7 @@ perception:
 languages: "Aklo, Common, Halfling, Jotun"
 skills:
   - name: "Skills"
-    desc: "Deception: +14, Intimidation: +14, Religion: +15, Sandpoint Devil Lore: +12, Stealth: +13, Thievery: +13"
+    desc: "Deception: +14, Intimidation: +14, Religion: +15, Stealth: +13, Thievery: +13, Sandpoint Devil Lore: +12"
 abilityMods: [0, 3, 2, 0, 3, 4]
 speed: 25 feet
 sourcebook: "_Pathfinder #200: Seven Dooms for Sandpoint_"
@@ -70,11 +71,17 @@ attacks:
     desc: "1 Focus Point, DC 24, attack +16; __3rd __  _[[Spells/Diabolic Edict|Diabolic Edict]]_, _[[Spells/Embrace the Pit|Embrace the Pit]]_"
 
   - name: "Devil's Cursed Breath"
-    desc: "`pf2:2` (curse,divine,fire) **Frequency** once per day\n**Effect** Asmerelli bites down on her tongue (taking 1 slashing damage), then exhales a 15-foot cone of burning smoke. Each creature in the area must attempt a DC 24 Reflex check save.\n**Critical Success** The creature is unaffected.\n**Success** The creature takes 3d8 fire damage.\n**Failure** The creature takes 6d8 fire damage and is [[Conditions/Sickened 1|Sickened 1]] by the agonizing pain of the burns.\n**Critical Failure** The creature takes 6d8 fire damage, is sickened 1 by the agonizing pain of the burns, and becomes cursed. The victim's burns never fully vanish, and the cursed creature takes a –2 status penalty to all attacks from the constant pain. Healing doesn't alter the appearance of the burns or lessen the penalty, but removing the curse does.\n[[Bestiary Effects/Effect_ Devil's Cursed Breath|Effect: Devil's Cursed Breath]]"
+    desc: "`pf2:2` (curse,divine,fire) **Frequency** once per day\n* * *\n\n**Effect** Asmerelli bites down on her tongue (taking 1 slashing damage), then exhales a @Template[cone|distance:15] of burning smoke. Each creature in the area must attempt a DC 24 Reflex check save.\n* * *\n\n**Critical Success** The creature is unaffected.\n\n**Success** The creature takes 3d8 fire damage.\n\n**Failure** The creature takes 6d8 fire damage and is [[Conditions/Sickened|Sickened 1]] by the agonizing pain of the burns.\n\n**Critical Failure** The creature takes 6d8 fire damage, is sickened 1 by the agonizing pain of the burns, and becomes cursed. The victim's burns never fully vanish, and the cursed creature takes a –2 status penalty to all attacks from the constant pain. Healing doesn't alter the appearance of the burns or lessen the penalty, but removing the curse does.\n\n[[Bestiary Effects/Effect_ Devil's Cursed Breath|Effect: Devil's Cursed Breath]]"
 
   - name: "Reach Spell"
     desc: "`pf2:1` (manipulate,spellshape) If the next action Asmerelli takes is to Cast a Spell that has a range, increase that spell's range by 30 feet."
  
+```
+
+```encounter-table
+name: Asmerelli
+creatures:
+  - 1: Asmerelli
 ```
 
 

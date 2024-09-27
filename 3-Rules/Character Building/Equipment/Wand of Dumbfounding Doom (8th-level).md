@@ -31,7 +31,7 @@ Carvings of skulls, monsters, and all manner of violence decorate this wand of b
 
 * * *
 
-**Effect** You cast 8th-rank [[Spells/Impending Doom|Impending Doom]], showing the target a potential death that's gruesome and absurd. If the target becomes [[Conditions/Frightened 1|Frightened]] by the spell, it also becomes [[Conditions/Stupefied 1|Stupefied]] with a value 1 higher than the frightened value. This lasts for the duration of the spell.
+**Effect** You cast 8th-rank [[Spells/Impending Doom|Impending Doom]], showing the target a potential death that's gruesome and absurd. If the target becomes [[Conditions/Frightened|Frightened]] by the spell, it also becomes [[Conditions/Stupefied|Stupefied]] with a value 1 higher than the frightened value. This lasts for the duration of the spell.
 
 * * *
 

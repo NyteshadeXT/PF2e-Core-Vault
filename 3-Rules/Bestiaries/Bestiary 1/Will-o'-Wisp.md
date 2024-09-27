@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/air
   - pf2e/creature/type/chaotic
   - pf2e/creature/type/evil
+  - pf2eMonster
   - pf2e/creature/level/6
 statblock: inline
 name: "Will-o&#x27;-Wisp"
@@ -27,10 +28,10 @@ level: "Creature 6"
 
 alignment: ""
 size: "Small"
-trait_01: "aberration"
-trait_02: "air"
-trait_03: "chaotic"
-trait_04: "evil"
+trait_01: [[aberration]]
+trait_02: [[air]]
+trait_03: [[chaotic]]
+trait_04: [[evil]]
 modifier: 16
 perception:
   - name: "Perception"
@@ -69,11 +70,17 @@ attacks:
     desc: "`pf2:1` Shock +17 (electricity, magical)\n__Damage__  2d8 + 4 electricity"
 
   - name: "Feed on Fear"
-    desc: "`pf2:1` (concentrate) **Requirements** An enemy is under a fear effect or [[Conditions/Dying 1|Dying]] within 15 feet of the will-o'-wisp.\n**Effect** The will-o'wisp feeds on the creature's terror. It regains 2d4 Hit Points, and if it has Gone Dark, its glow reignites.\nA will-o'-wisp can take this action only once per round."
+    desc: "`pf2:1` (concentrate) **Requirements** An enemy is under a fear effect or [[Conditions/Dying|Dying]] within 15 feet of the will-o'-wisp.\n* * *\n\n**Effect** The will-o'-wisp feeds on the creature's terror. It regains 2d4 Hit Points, and if it has Gone Dark, its glow reignites.\n\nA will-o'-wisp can take this action only once per round."
 
   - name: "Go Dark"
     desc: "`pf2:1` (concentrate) The will-o'-wisp extinguishes its glow, becoming [[Conditions/Invisible|Invisible]]. It can end this effect with another use of this action. If it uses its shock attack while invisible, the arc of electricity lets any observer determine its location, making the will-o'-wisp only [[Conditions/Hidden|Hidden]] to all observers until it moves."
  
+```
+
+```encounter-table
+name: Will-o'-Wisp
+creatures:
+  - 1: Will-o'-Wisp
 ```
 
 

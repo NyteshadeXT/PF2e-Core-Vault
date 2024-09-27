@@ -6,8 +6,9 @@ tags:
   - trait/monk
   - trait/common
   - category/class
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.ewbt80Yin18k6oLq"
-license: OGL
+license: ORC
 ---
 # Tangled Forest Rake `pf2:1`
 ## Feat 14
@@ -23,7 +24,7 @@ license: OGL
 
 * * *
 
-You reposition foes with raking attacks. Make a lashing branch Strike. If you hit and deal damage, you force the target to move 5 feet into a space within your reach. This follows the forced movement rules.
+You reposition foes with raking attacks. Make a lashing branch Strike. If you hit and deal damage, you can [[Actions/Reposition|Reposition]] the target up to 10 feet. You can move the target through your space during this movement.
 
-*Source: Pathfinder Core Rulebook*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

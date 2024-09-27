@@ -25,5 +25,5 @@ license: OGL
 
 **Effect** Increase the party's reputation with Southbank by an additional 2 points (your GM has information about Willowshore reputation).
 
-*Source: Pathfinder: Season of Ghosts Player's Guide*
+*Source: Pathfinder Season of Ghosts Player's Guide*
 *OGL*

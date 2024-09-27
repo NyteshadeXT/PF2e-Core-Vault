@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/beast
   - pf2e/creature/type/chaotic
   - pf2e/creature/type/primal
+  - pf2eMonster
   - pf2e/creature/level/12
 statblock: inline
 name: "Grisantian Lion"
@@ -22,17 +23,17 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Lost Omens: Monsters of Myth"
 name: "Grisantian Lion"
 level: "Creature 12"
-rare_03: "Rare"
+rare_03: [[Rare]]
 alignment: ""
 size: "huge"
-trait_01: "beast"
-trait_02: "chaotic"
-trait_03: "primal"
+trait_01: [[beast]]
+trait_02: [[chaotic]]
+trait_03: [[primal]]
 modifier: 25
 perception:
   - name: "Perception"
     desc: "+25; Low-Light Vision, Scent (Imprecise) 60 Feet"
-languages: "Common"
+languages: "Common; (can&#x27;t speak any language)"
 skills:
   - name: "Skills"
     desc: "Acrobatics: +22, Athletics: +25, Intimidation: +25, Stealth: +22, Survival: +22"
@@ -66,14 +67,20 @@ attacks:
     desc: "`pf2:2`  The grisantian lion Strides and makes two claw Strikes against the same creature at the end of that movement. Each attack counts against the grisantian lion's multiple attack penalty, but the penalty doesn't increase until after the grisantian lion makes both attacks. If both attacks hit, combine their damage for the purpose of resistances and weaknesses."
 
   - name: "[[Bestiary Ability Glossary/Rend|Rend]]"
-    desc: "`pf2:1`  claw.\nIf the grisantian lion Rends after a successful Dual Pounce, combine the Rend's damage with that from the Dual Pounce for the purpose of resistances and weaknesses."
+    desc: "`pf2:1`  claw.\n\nIf the grisantian lion Rends after a successful Dual Pounce, combine the Rend's damage with that from the Dual Pounce for the purpose of resistances and weaknesses."
 
   - name: "Vicious Rend"
-    desc: "`pf2:r`  **Trigger** The grisantian lion uses Rend\n**Effect** The target's armor takes damage equal to the damage from Rend. The target can attempt a DC 29 Reflex check save to reduce this damage."
+    desc: "`pf2:r`  **Trigger** The grisantian lion uses Rend\n* * *\n\n**Effect** The target's armor takes damage equal to the damage from Rend. The target can attempt a DC 29 Reflex check save to reduce this damage."
 
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
     desc: "`pf2:1`  "
  
+```
+
+```encounter-table
+name: Grisantian Lion
+creatures:
+  - 1: Grisantian Lion
 ```
 
 

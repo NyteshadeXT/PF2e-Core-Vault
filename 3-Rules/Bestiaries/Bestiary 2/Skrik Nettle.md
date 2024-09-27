@@ -6,6 +6,7 @@ cssClasses: pf2e
 aliases: "Compendium.pf2e.pathfinder-bestiary-2.Actor.LtaVzD7ADtWmBWap" 
 tags:
   - pf2e/creature/type/aberration
+  - pf2eMonster
   - pf2e/creature/level/6
 statblock: inline
 name: "Skrik Nettle"
@@ -24,11 +25,12 @@ level: "Creature 6"
 
 alignment: ""
 size: "Large"
-trait_01: "aberration"
+trait_01: [[aberration]]
 modifier: 16
 perception:
   - name: "Perception"
     desc: "+16; Motion Sense (Precise) 30 Feet"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Acrobatics: +16"
@@ -53,7 +55,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Spill Venom"
-    desc: "`pf2:r`  **Trigger** The skrik nettle takes piercing or slashing damage\n**Effect** The skrik nettle ejects its venom onto an adjacent creature. That creature is exposed to skrik nettle venom."
+    desc: "`pf2:r`  **Trigger** The skrik nettle takes piercing or slashing damage\n* * *\n\n**Effect** The skrik nettle ejects its venom onto an adjacent creature. That creature is exposed to skrik nettle venom."
 
 attacks:
   - name: ""
@@ -65,8 +67,14 @@ attacks:
     desc: "`pf2:1` (primal) The skrik nettle attempts to counteract (with a modifier of +17) a single effect currently levitating a creature it can detect with its motionsense."
 
   - name: "Skrik Nettle Venom"
-    desc: " (poison,primal) **Saving Throw** DC 27 Fortitude check\n**Maximum Duration** 6 rounds\n**Stage 1** [[Conditions/Clumsy 1|Clumsy 1]] and levitate upward 5 feet (1 round)\n**Stage 2** [[Conditions/Clumsy 1|Clumsy 2]] and levitate upward 10 feet (1 round)\nA levitating creature takes a -2 circumstance penalty to attack rolls. It can spend an Interact action to stabilize itself and negate this penalty for the remainder of its turn. If it's adjacent to a fixed object or stable terrain, it can move across the surface by climbing (if the surface is vertical) or crawling (if the surface is horizontal, such as a ceiling).\nA flying creature can move normally but still increases its altitude as appropriate from the venom. A creature that can't fly falls as soon as it recovers from skrik nettle venom."
+    desc: " (poison,primal) **Saving Throw** DC 27 Fortitude check\n\n**Maximum Duration** 6 rounds\n\n**Stage 1** [[Conditions/Clumsy|Clumsy 1]] and levitate upward 5 feet (1 round)\n\n**Stage 2** [[Conditions/Clumsy|Clumsy 2]] and levitate upward 10 feet (1 round)\n\nA levitating creature takes a -2 circumstance penalty to attack rolls. It can spend an Interact action to stabilize itself and negate this penalty for the remainder of its turn. If it's adjacent to a fixed object or stable terrain, it can move across the surface by climbing (if the surface is vertical) or crawling (if the surface is horizontal, such as a ceiling).\n\nA flying creature can move normally but still increases its altitude as appropriate from the venom. A creature that can't fly falls as soon as it recovers from skrik nettle venom."
  
+```
+
+```encounter-table
+name: Skrik Nettle
+creatures:
+  - 1: Skrik Nettle
 ```
 
 

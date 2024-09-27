@@ -5,6 +5,7 @@ noteType: pf2eHazard
 tags:
   - magical
   - trap
+  - pf2eHazard
 
 source: Pathfinder #164: Hands of the Devil
 aliases: "Compendium.pf2e.abomination-vaults-bestiary.Actor.knoWZfTiLY7xGwhB" 
@@ -22,8 +23,8 @@ name: "Painful Suggestion Trap"
 level: "Hazard 8"
 
 
-trait_01: "magical"
-trait_02: "trap"
+trait_01: [[magical]]
+trait_02: [[trap]]
 modifier: 16
 sourcebook: "_Pathfinder #164: Hands of the Devil_"
 perception:
@@ -42,10 +43,16 @@ attacks:
   - name: ""
 
   - name: "Counterfeit Haunting"
-    desc: "`pf2:r` (auditory, incapacitation, linguistic, mental) **Trigger** A living creature moves over the rune\n**Effect** A frightful moan echoes through the room, and a hoarse telepathic voice shouts, \"Get out!\"\nThis shout deals 6d12 mental damage to creatures in the room (DC 26 Will check save). Creatures who fail this saving throw must immediately leave the room and can't willingly reenter it for 1 minute (1 hour on a critical failure)."
+    desc: "`pf2:r` (auditory, incapacitation, linguistic, mental) **Trigger** A living creature moves over the rune\n* * *\n\n**Effect** A frightful moan echoes through the room, and a hoarse telepathic voice shouts, \"Get out!\"\n\nThis shout deals 6d12 mental damage to creatures in the room (DC 26 Will check save). Creatures who fail this saving throw must immediately leave the room and can't willingly reenter it for 1 minute (1 hour on a critical failure)."
 
 
   - name: "Reset"
     desc: "The trap automatically resets after 1 hour."
+```
+
+```encounter-table
+name: Painful Suggestion Trap
+creatures:
+  - 1: Painful Suggestion Trap
 ```
 

@@ -8,7 +8,7 @@ tags:
 ---
 
 # Investigator
-_You seek to uncover the truth, doggedly pursuing leads to reveal the plots of devious villains, discover ancient secrets, or unravel other mysteries. Your analytical mind quickly formulates solutions to complicated problems and your honed senses identify even the most obscure clues. Wielding knowledge as a weapon, you study the creatures and dangers you encounter to exploit their weaknesses._
+_You seek to uncover the truth, doggedly pursuing leads to reveal the plots of devious villains, discover ancient secrets, or unravel other mysteries. Your analytical mind quickly formulates solutions to complicated problems, and your honed senses identify even the most obscure clues. Wielding knowledge as a weapon, you study the creatures and dangers you encounter to exploit their weaknesses._
 
 **KEY Attribute: INTELLIGENCE**
 
@@ -22,7 +22,7 @@ You increase your maximum number of HP by this number at 1st level and every lev
 
 ## During Combat Encounters...
 
-Your keen insights regarding your foes make you more dangerous than your physical strength would suggest. After spending a moment to study your enemies, your perceptiveness allows you to act quickly, striking them where it hurts most.
+Your keen insights regarding your foes make you more dangerous than your physical strength would suggest. After spending a moment to study your enemies, your perceptiveness allows you to act quickly, striking them where it hurts most. You often assist tougher members of your party, wisely protecting yourself while providing vital aid.
 
 You often assist tougher members of your party, wisely protecting yourself while providing vital aid.
 
@@ -40,7 +40,7 @@ You study up on subjects new and old, make new allies you can share information 
 
 ## You Might...
 
-*   Start asking questions-including several that are quite involved-immediately after you're presented with a conundrum.
+*   Start asking questions—including several that are quite involved— immediately after you're presented with a conundrum.
 *   Strive to uncover the deeper meanings behind anything you encounter and to identify the social machinations that truly drive events behind the scenes.
 *   Get so involved in a case that you ignore other matters, deeming them trivial.
 
@@ -98,30 +98,34 @@ You gain these abilities as an investigator. Abilities gained at higher levels l
 
 | Your Level | Class Features |
 | --- | --- |
-| 1 | Ancestry and background, initial proficiencies, on the case, Devise a Strategen, methodology, investigator feat, strategic strike 1d6 |
+| 1 | Ancestry and background, attribute boosts, initial proficiencies, on the case, Devise a Stratagem, methodology, investigator feat, strategic strike 1d6 |
 | 2 | Investigator feat, skill feat, skill increase |
-| 3 | General feat, keen recollection, skill increase, skill lesson |
+| 3 | General feat, keen recollection, skill increase, skillful lesson |
 | 4 | Investigator feat, skill feat, skill increase |
-| 5 | Attribute boosts, ancestry feat, skill increase, skillful lesson, strategic strike 2d6, weapon expertise |
+| 5 | Ancestry feat, attribute boosts, skill increase, skillful lesson, strategic strike 2d6, weapon expertise |
 | 6 | Investigator feat, skill feat, skill increase |
 | 7 | General feat, skill increase, skillful lesson, vigilant senses, weapon specialization |
 | 8 | Investigator feat, skill feat, skill increase |
-| 9 | Ancestry feat, great fortitude, investigator expertise, skill increase, skillful lesson, strategic strike 3d6 |
+| 9 | Ancestry feat, fortitude expertise, investigator expertise, skill increase, skillful lesson, strategic strike 3d6 |
 | 10 | Attribute boosts, investigator feat, skill feat, skill increase |
-| 11 | Deductive improvisation, general feat. resolve, skill increase, skillful lesson |
+| 11 | Deductive improvisation, dogged will, general feat, skill increase, skillful lesson |
 | 12 | Investigator feat, skill feat, skill increase |
 | 13 | Ancestry feat, incredible senses, light armor expertise, skill increase, skillful lesson, strategic strike 4d6, weapon mastery |
 | 14 | Investigator feat, skill feat, skill increase |
-| 15 | Attribute boosts, evasion, general feat, greater weapon specialization, skill increase, skillful lesson |
+| 15 | Attribute boosts, general feat, greater weapon specialization, savvy reflexes, skill increase, skillful lesson |
 | 16 | Investigator feat, skill feat, skill increase |
-| 17 | Ancestry feat, greater resolve, skill increase, skillful lesson, strategic strike 5d6 |
+| 17 | Ancestry feat, greater dogged will, skill increase, skillful lesson, strategic strike 5d6 |
 | 18 | Investigator feat, skill feat, skill increase |
 | 19 | General feat, light armor mastery, master detective, skill increase, skillful lesson |
-| 20 | Attribute boosts, Investigator feat, skill feat, skill increase |
+| 20 | Attribute boosts, investigator feat, skill feat, skill increase |
 
 ## Ancestry and Background
 
 In addition to what you get from your class at 1st level, you have the benefits of your selected ancestry and background.
+
+## Attribute Boosts
+
+In addition to what you get from your class at 1st level, you have four free boosts to different attribute modifiers. At 5th level and every 5 levels thereafter, you get four free boosts to different attribute modifiers. If an attribute modifier is already +4 or higher, it takes two boosts to increase it; you get a partial boost and must boost that attribute again at a later level to increase it by 1.
 
 ## Initial Proficiencies
 
@@ -139,7 +143,7 @@ You can play out a battle in your head, using brains rather than brawn to execut
 
 ## Methodology
 
-Your studies have made you savvy in many areas,; but one in particular drew your intense interest.
+Your studies have made you savvy in many areas,; but one in particular drew your intense—even obsessive—interest.
 
 Choose a methodology. The methodologies presented in this book are as follow:
 
@@ -157,7 +161,7 @@ At 1st level and every even-numbered level, you gain an investigator class feat.
 
 ## Strategic Strike
 
-When you strike carefully and with forethought, you deal a telling blow. When making a Strike that adds your Intelligence modifier on your attack roll due to Devising a Stratagem, you deal an additional 1d6 precision damage.
+When you strike carefully and with forethought, you deal a telling blow. When making a Strike that adds your Intelligence modifier to your attack roll due to Devising a Stratagem, you deal an additional 1d6 precision damage.
 
 As your investigator level increases, so too does the deadliness of your strategic strike. Increase the number of dice by one at 5th, 9th, 13th, and 17th levels.
 
@@ -183,12 +187,6 @@ You can recall pertinent facts on topics that aren't your specialty. Your profic
 
 At 3rd level and every odd-numbered level thereafter, you gain a skill feat. This feat must be for an Intelligence-, Wisdom-, or Charisma-based skill, or for the skill you gained from your methodology.
 
-## Attribute BoostsLevel 5
-
-In addition to what you get from your class at 1st level, you have four free boosts to different attribute modifiers.
-
-At 5th level and every 5 levels thereafter, you get four free boosts to different attribute modifiers. If an attribute modifier is already +4 or higher, it takes two boosts to increase it; you get a partial boost and must boost that attribute again at a later level to increase it by 1.
-
 ## Ancestry FeatsLevel 5
 
 In addition to the ancestry feat you started with, you gain an ancestry feat at 5th level and every 4 levels thereafter.
@@ -205,9 +203,9 @@ Through your adventures, you've developed keen awareness and attention to detail
 
 You can inflict greater injuries with the weapons you know best. You deal 2 additional damage with weapons and unarmed attacks in which you are an expert. This damage increases to 3 if you're a master and 4 if you're legendary.
 
-## Great FortitudeLevel 9
+## Fortitude ExpertiseLevel 9
 
-Your physique is incredibly hardy. Your proficiency rank for Fortitude saves increases to expert.
+Your physique has grown hardy in your adventures. Your proficiency rank for Fortitude saves increases to expert.
 
 ## Investigator ExpertiseLevel 9
 
@@ -217,9 +215,9 @@ You've refined your investigative techniques to an exceptional degree. Your circ
 
 You use your skills at deduction to perform whatever task is necessary to solve the case. You can attempt any check that requires you to be trained in a skill, even if you're untrained in it; you can attempt any check that requires you to have expert proficiency in a skill so long as you're trained in it; and you can attempt any check that requires you to have master proficiency in a skill as long as you have expert proficiency in it.
 
-## ResolveLevel 11
+## Dodge WillLevel 11
 
-You've steeled your mind with resolve. Your proficiency rank for Will saves increases to master. When you roll a success on a Will save, you get a critical success instead.
+In your pursuit of truth and knowledge, you won't be dissuaded. Your proficiency rank for Will saves increases to master. When you roll a success on a Will save, you get a critical success instead.
 
 ## Incredible SensesLevel 13
 
@@ -233,13 +231,13 @@ You've learned how to dodge while wearing light or no armor. Your proficiency ra
 
 You fully understand your weapons. Your proficiency ranks for simple weapons, martial weapons, and unarmed attacks increase to master.
 
-## EvasionLevel 15
-
-You've learned to move quickly to avoid explosions, a dragon's breath, and worse. Your proficiency rank for Reflex saves increases to master. When you roll a success on a Reflex save, you get a critical success instead.
-
 ## Greater Weapon SpecializationLevel 15
 
 Your damage from weapon specialization increases to 4 with weapons and unarmed attacks in which you're an expert, 6 if you're a master, and 8 if you're legendary.
+
+## Savvy ReflexesLevel 15
+
+With an eye for incoming danger, you masterfully keep yourself out of harm's way. Your proficiency rank for Reflex saves increases to master. When you roll a success on a Reflex save, you get a critical success instead.
 
 ## Greater ResolveLevel 17
 
@@ -251,4 +249,8 @@ Your skill with light armor improves, increasing your ability to dodge blows. Yo
 
 ## Master DetectiveLevel 19
 
-As a master detective, you can solve any case and find all the clues available. If you're pursuing the subject of a lead and you enter a new location that includes another clue toward solving the mystery, the GM informs you of the existence of the clue and its type: an object, person, spell effect, or the like. When you find the clue, the GM informs you that you've done so. If there is more than one clue in the location, the GM chooses one to inform you about. When you find any of the clues in that location, the GM informs you that you've done so, even if it wasn't the clue they'd chosen or there are other clues you haven't found. Your proficiency rank for your investigator class DC increases to master.
+As a master detective, you can solve any case and find all the clues available. Your reputation precedes you, and even the most skilled criminals and deceivers fear you. Your proficiency rank for your investigator class DC increases to master.
+
+In addition, if you enter a new location that includes another clue toward answering the question at the heart of one of your active investigations, the GM informs you of the existence of the clue and its type: an object, person, spell effect, or the like. When you find the clue, the GM informs you that you've done so.
+
+If there is more than one clue in the location, the GM chooses one to inform you about. When you find any of the clues in that location, the GM informs you that you've done so, even if it wasn't the clue they'd chosen or there are other clues you haven't found.

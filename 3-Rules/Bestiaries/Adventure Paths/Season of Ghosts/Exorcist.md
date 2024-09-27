@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/human
   - pf2e/creature/type/humanoid
   - pf2e/creature/type/lawful
+  - pf2eMonster
   - pf2e/creature/level/8
 statblock: inline
 name: "Exorcist"
@@ -22,12 +23,12 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #198: No Breath to Cry"
 name: "Exorcist"
 level: "Creature 8"
-rare_03: "Rare"
+rare_03: [[Rare]]
 alignment: ""
 size: "Medium"
-trait_01: "human"
-trait_02: "humanoid"
-trait_03: "lawful"
+trait_01: [[human]]
+trait_02: [[humanoid]]
+trait_03: [[lawful]]
 modifier: 16
 perception:
   - name: "Perception"
@@ -70,11 +71,17 @@ attacks:
     desc: "_[[Spells/Consecrate|Consecrate]]_"
 
   - name: "Purifying Flames"
-    desc: "`pf2:2` (divine,fire) The exorcist attempts to Strike a creature with their torch, attacking with great precision and causing the torch's fires to flare up. This Strike gains a +2 status bonus to its attack roll and inflicts an additional 2d6 fire damage on a hit instead of just 1d6 fire damage. An undead, spirit, or transmigrated creature hit by this attack must also attempt a DC 26 Will check save.\n**Critical Success** The creature is unaffected by this additional effect, and some of the fire flares back onto the exorcist, inflicting 2d6 fire damage to the exorcist (DC 26 Reflex check save).\n**Success** The creature is unaffected by this additional effect.\n**Failure** The purifying flames cause the creature to become [[Conditions/Clumsy 1|Clumsy 1]] and [[Conditions/Stupefied 1|Stupefied 1]] until the end of its next turn.\n**Critical Failure** As failure, but [[Conditions/Clumsy 1|Clumsy 2]] and [[Conditions/Stupefied 1|Stupefied 2]] for 1 minute."
+    desc: "`pf2:2` (divine,fire) The exorcist attempts to Strike a creature with their torch, attacking with great precision and causing the torch's fires to flare up. This Strike gains a +2 status bonus to its attack roll and inflicts an additional 2d6 fire damage on a hit instead of just 1d6 fire damage. An undead, spirit, or transmigrated creature hit by this attack must also attempt a DC 26 Will check save.\n* * *\n\n**Critical Success** The creature is unaffected by this additional effect, and some of the fire flares back onto the exorcist, inflicting 2d6 fire damage to the exorcist (DC 26 Reflex check save).\n\n**Success** The creature is unaffected by this additional effect.\n\n**Failure** The purifying flames cause the creature to become [[Conditions/Clumsy|Clumsy 1]] and [[Conditions/Stupefied|Stupefied 1]] until the end of its next turn.\n\n**Critical Failure** As failure, but [[Conditions/Clumsy|Clumsy 2]] and [[Conditions/Stupefied|Stupefied 2]] for 1 minute."
 
   - name: "Torch Wielder"
     desc: "  The exorcist treats a torch as a light mace that deals an additional 1d6 fire damage on a hit."
  
+```
+
+```encounter-table
+name: Exorcist
+creatures:
+  - 1: Exorcist
 ```
 
 

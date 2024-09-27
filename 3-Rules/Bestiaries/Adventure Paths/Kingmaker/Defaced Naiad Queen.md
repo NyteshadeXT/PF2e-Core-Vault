@@ -11,6 +11,7 @@ tags:
   - pf2e/creature/type/fey
   - pf2e/creature/type/nymph
   - pf2e/creature/type/water
+  - pf2eMonster
   - pf2e/creature/level/15
 statblock: inline
 name: "Defaced Naiad Queen"
@@ -25,15 +26,15 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Kingmaker"
 name: "Defaced Naiad Queen"
 level: "Creature 15"
-rare_03: "Rare"
+rare_03: [[Rare]]
 alignment: ""
 size: "Medium"
-trait_01: "amphibious"
-trait_02: "chaotic"
-trait_03: "evil"
-trait_04: "fey"
-trait_05: "nymph"
-trait_06: "water"
+trait_01: [[amphibious]]
+trait_02: [[chaotic]]
+trait_03: [[evil]]
+trait_04: [[fey]]
+trait_05: [[nymph]]
+trait_06: [[water]]
 modifier: 28
 perception:
   - name: "Perception"
@@ -41,7 +42,7 @@ perception:
 languages: "Aklo, Elven, Fey"
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +28, Athletics: +25 (+29 to Swim), Deception: +31, Diplomacy: +29, Nature: +28, Performance: +31, Stealth: +28, Survival: +26"
+    desc: "Acrobatics: +28, Athletics: +25, Deception: +31, Diplomacy: +29, Nature: +28, Performance: +31, Stealth: +28, Survival: +26"
 abilityMods: [0, 7, 6, 4, 5, 8]
 speed: 30 feet
 sourcebook: "_Pathfinder Kingmaker_"
@@ -58,7 +59,7 @@ abilities_top:
   - name: ""
 
   - name: "Shame"
-    desc: "  A defaced naiad queen suffers from shame when it attacks any target that can cast primal spells, any fey creature, or any creature that can cast divine spells and worships a deity or faith associated with nature or the First World (such as Gozreh, one of the Eldest, or the Green Faith). [[Adventure-Specific Actions/Forgive Foe|Forgive Foe]] can be attempted against a defaced naiad queen with a DC 36 Diplomacy check check or Nature check. If a defaced naiad queen is affected by a critical success from Forgive Foe, its eyes are restored and it cries out in relief an instant before it vanishes, returning to the First World as a chaotic neutral naiad queen. As it does so, a wave of emotional thanks and inspiration infuse the character who used Forgive Foe, granting them a +3 status bonus to Lore checks and saves against fear effects for 24 hours.\n[[Bestiary Effects/Effect_ Forgiven Defaced Naiad Queen's Thanks|Effect: Forgiven Defaced Naiad Queen's Thanks]]"
+    desc: "  A defaced naiad queen suffers from shame when it attacks any target that can cast primal spells, any fey creature, or any creature that can cast divine spells and worships a deity or faith associated with nature or the First World (such as Gozreh, one of the Eldest, or the Green Faith). [[Adventure-Specific Actions/Forgive Foe|Forgive Foe]] can be attempted against a defaced naiad queen with a DC 36 Diplomacy check check or Nature check. If a defaced naiad queen is affected by a critical success from Forgive Foe, its eyes are restored and it cries out in relief an instant before it vanishes, returning to the First World as a chaotic neutral naiad queen. As it does so, a wave of emotional thanks and inspiration infuse the character who used Forgive Foe, granting them a +3 status bonus to Lore checks and saves against fear effects for 24 hours.\n\n[[Bestiary Effects/Effect_ Forgiven Defaced Naiad Queen's Thanks|Effect: Forgiven Defaced Naiad Queen's Thanks]]"
 
 abilities_mid:
   - name: ""
@@ -78,14 +79,20 @@ attacks:
     desc: "DC 36, attack +28; __4th __  _[[Spells/Charm|Charm (At Will)]]_\n__Constant__  __(4th)__ _[[Spells/Speak with Plants|Speak with Plants]]_"
 
   - name: "Agonized Wail"
-    desc: "`pf2:1` (auditory,emotion,fear,mental,primal) The defaced naiad queen unleashes an agonized wail. Each creature within 60 feet must succeed at a DC 33 Will check save or become [[Conditions/Frightened 1|Frightened 1]] (or, on a critical failure, [[Conditions/Frightened 1|Frightened 2]] and [[Conditions/Fleeing|Fleeing]] until the end of its next turn). The creature is then temporarily immune to Agonized Wail for 1 hour."
+    desc: "`pf2:1` (auditory,emotion,fear,mental,primal) The defaced naiad queen unleashes an agonized wail. Each creature within 60 feet must succeed at a DC 33 Will check save or become [[Conditions/Frightened|Frightened 1]] (or, on a critical failure, [[Conditions/Frightened|Frightened 2]] and [[Conditions/Fleeing|Fleeing]] until the end of its next turn). The creature is then temporarily immune to Agonized Wail for 1 hour."
 
   - name: "Baleful Gaze"
     desc: "`pf2:1` (emotion,incapacitation,mental,primal,visual) When a defaced naiad queen fixes her gaze upon a foe within range of her nymph's tragedy aura, the creature must attempt a Will save. On a failure, it is affected as if by nymph's tragedy; if it was already affected by that aura, it also takes 8d6 mental damage (16d6 on a critical failure). A defaced naiad queen can use Baleful Gaze on a given creature only once per turn."
 
   - name: "Tortuous Touch"
-    desc: "  A creature struck by the defaced naiad queen's painful caress Strike must attempt a DC 36 Fortitude check save. On a failure, painful, jagged wounds open on the creature's body, the pain of which makes it [[Conditions/Clumsy 1|Clumsy 1]] ([[Conditions/Clumsy 1|Clumsy 2]] and fall [[Conditions/Prone|Prone]] on a critical failure). The clumsy condition is permanent until it is removed via an effect like [[Spells/Restoration|Restoration]]."
+    desc: "  A creature struck by the defaced naiad queen's painful caress Strike must attempt a DC 36 Fortitude check save. On a failure, painful, jagged wounds open on the creature's body, the pain of which makes it [[Conditions/Clumsy|Clumsy 1]] ([[Conditions/Clumsy|Clumsy 2]] and fall [[Conditions/Prone|Prone]] on a critical failure). The clumsy condition is permanent until it is removed via an effect like [[Spells/Restoration|Restoration]]."
  
+```
+
+```encounter-table
+name: Defaced Naiad Queen
+creatures:
+  - 1: Defaced Naiad Queen
 ```
 
 

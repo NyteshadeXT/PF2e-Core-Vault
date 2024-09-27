@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/dero
   - pf2e/creature/type/evil
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/8
 statblock: inline
 name: "Ziradini"
@@ -23,13 +24,13 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #200: Seven Dooms for Sandpoint"
 name: "Ziradini"
 level: "Creature 8"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Small"
-trait_01: "chaotic"
-trait_02: "dero"
-trait_03: "evil"
-trait_04: "humanoid"
+trait_01: [[chaotic]]
+trait_02: [[dero]]
+trait_03: [[evil]]
+trait_04: [[humanoid]]
 modifier: 18
 perception:
   - name: "Perception"
@@ -75,8 +76,14 @@ attacks:
     desc: "1 Focus Point, DC 26, attack +18; __4th __  _[[Spells/Cry of Destruction|Cry of Destruction]]_"
 
   - name: "[[Actor.1G19uNYMSU79P2f9.Item.YHkXKmipljWLHYIU|Grim Curse of Azathoth]]"
-    desc: "`pf2:2` (curse,divine,emotion,mental) **Frequency** once per day\n**Effect** Ziradini invokes Azathoth's name in Aklo as he stares at a creature he can see within 30 feet. His eyes glow orange, and the target endures a brief vision of the seething chaos that churns at the center of the Material Plane and, for that instant, beholds their own insignificance in the cosmos. The target must attempt a DC 26 Will check save.\n**Critical Success** The creature is unaffected.\n**Success** The creature becomes [[Conditions/Stupefied 1|Stupefied 1]] for 1 hour.\n**Failure** The creature becomes stupefied 1, and the first time each night they gaze upon the night sky, they must make a DC 26 Will check save or they increase the value of their stupefied condition by 1 (to a maximum of [[Conditions/Stupefied 1|Stupefied 4]], or they become stupefied 1 if they do not have this condition). Even if the stupefied condition is removed, the target must continue to save upon gazing upon the night sky once per night until the curse is removed.\n**Critical Failure** As failure, but the target feels the weight of the cosmos when the sun sets on their homeland, wherever they may be in the Material Plane or the Great Beyond—they need not gaze upon the night sky."
+    desc: "`pf2:2` (curse,divine,emotion,mental) **Frequency** once per day\n* * *\n\n**Effect** Ziradini invokes Azathoth's name in Aklo as he stares at a creature he can see within 30 feet. His eyes glow orange, and the target endures a brief vision of the seething chaos that churns at the center of the Material Plane and, for that instant, beholds their own insignificance in the cosmos. The target must attempt a DC 26 Will check save.\n* * *\n\n**Critical Success** The creature is unaffected.\n\n**Success** The creature becomes [[Conditions/Stupefied|Stupefied 1]] for 1 hour.\n\n**Failure** The creature becomes stupefied 1, and the first time each night they gaze upon the night sky, they must make a DC 26 Will check save or they increase the value of their stupefied condition by 1 (to a maximum of [[Conditions/Stupefied|Stupefied 4]], or they become stupefied 1 if they do not have this condition). Even if the stupefied condition is removed, the target must continue to save upon gazing upon the night sky once per night until the curse is removed.\n\n**Critical Failure** As failure, but the target feels the weight of the cosmos when the sun sets on their homeland, wherever they may be in the Material Plane or the Great Beyond—they need not gaze upon the night sky."
  
+```
+
+```encounter-table
+name: Ziradini
+creatures:
+  - 1: Ziradini
 ```
 
 

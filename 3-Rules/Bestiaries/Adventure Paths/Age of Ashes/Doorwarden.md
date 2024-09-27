@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.age-of-ashes-bestiary.Actor.MOyYEls8wNGHoe8F"
 tags:
   - pf2e/creature/type/construct
   - pf2e/creature/type/lawful
+  - pf2eMonster
   - pf2e/creature/level/5
 statblock: inline
 name: "Doorwarden"
@@ -21,11 +22,11 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #145: Hellknight Hill"
 name: "Doorwarden"
 level: "Creature 5"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Large"
-trait_01: "construct"
-trait_02: "lawful"
+trait_01: [[construct]]
+trait_02: [[lawful]]
 modifier: 13
 perception:
   - name: "Perception"
@@ -56,10 +57,10 @@ abilities_mid:
     desc: "`pf2:r`  "
 
   - name: "Reactive Shield"
-    desc: "`pf2:r`  **Trigger** An enemy hits the doorwarden with a melee Strike.\n**Effect** The doorwarden can [[Actions/Raise a Shield|Raise its Shield]] and gain its shield's benefit to AC against the triggering attack."
+    desc: "`pf2:r`  **Trigger** An enemy hits the doorwarden with a melee Strike.\n* * *\n\n**Effect** The doorwarden can [[Actions/Raise a Shield|Raise its Shield]] and gain its shield's benefit to AC against the triggering attack."
 
   - name: "[[Bestiary Ability Glossary/Shield Block|Shield Block]]"
-    desc: "`pf2:r`  When the doorwarden uses Shield Block against a melee attack from a creature within 5 feet, it can also push the creature 5 feet.\n"
+    desc: "`pf2:r`  When the doorwarden uses Shield Block against a melee attack from a creature within 5 feet, it can also push the creature 5 feet.\n\n* * *\n"
 
 attacks:
   - name: ""
@@ -82,6 +83,12 @@ attacks:
   - name: "Slam Doors"
     desc: "`pf2:2` (concentrate) The door opens and slams its doors, making two door Strikes against one creature. If both hit, the creature is [[Conditions/Grabbed|Grabbed]]-stuck between the doors. The doorwarden's multiple attack penalty doesn't increase until it has finished both attacks."
  
+```
+
+```encounter-table
+name: Doorwarden
+creatures:
+  - 1: Doorwarden
 ```
 
 

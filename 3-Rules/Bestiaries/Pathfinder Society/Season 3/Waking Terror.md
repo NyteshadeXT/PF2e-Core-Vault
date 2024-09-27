@@ -4,6 +4,7 @@ obsidianUIMode: preview
 noteType: pf2eHazard
 tags:
   - haunt
+  - pf2eHazard
   - complex
 source: Pathfinder Society Scenario #3-17: Dreams of a Dustbound Isle
 aliases: "Compendium.pf2e.pfs-season-3-bestiary.Actor.yhQALO3emgx8Z5N9" 
@@ -21,7 +22,7 @@ name: "Waking Terror"
 level: "Hazard 9"
 
 trait_06: "Complex"
-trait_01: "haunt"
+trait_01: [[haunt]]
 modifier: 21
 sourcebook: "_Pathfinder Society Scenario #3-17: Dreams of a Dustbound Isle_"
 perception:
@@ -40,11 +41,17 @@ attacks:
   - name: ""
 
   - name: "Seize"
-    desc: "`pf2:r` (attack) Trigger A living creature spends 1 round in the area\nEffect A whispered shout carries through the air: \"I have a face! I have a name! My sisters may be forgotten, but I will reclaim what's mine\" Sinking statues desperately grasp at creatures in the area, struggling to stay above the surface. The haunt attempts an Athletics check (with a +21 modifier) to [[Actions/Grapple|Grapple]] each creature in the area. On a success, a creature is [[Conditions/Grabbed|Grabbed]] (Escape DC 31). The haunt then rolls initiative."
+    desc: "`pf2:r` (attack) Trigger A living creature spends 1 round in the area\n\nEffect A whispered shout carries through the air: \"I have a face! I have a name! My sisters may be forgotten, but I will reclaim what's mine\" Sinking statues desperately grasp at creatures in the area, struggling to stay above the surface. The haunt attempts an Athletics check (with a +21 modifier) to [[Actions/Grapple|Grapple]] each creature in the area. On a success, a creature is [[Conditions/Grabbed|Grabbed]] (Escape DC 31). The haunt then rolls initiative."
 
   - name: "Routine"
     desc: "(1 action) On the haunt's initiative, creatures in the area sink deeper into the dust as statues grasp at them. Creatures in the area take 2d10+13 mental damage (DC 28 Will check saving throw). On a critical failure, the creature is also [[Conditions/Confused|Confused]] for 1 round. Creatures [[Conditions/Grabbed|Grabbed]] by the haunt take a -1 circumstance penalty to their saving throw."
   - name: "Reset"
     desc: "The haunt deactivates 1 minute after all creatures leave the area but resets immediately thereafter."
+```
+
+```encounter-table
+name: Waking Terror
+creatures:
+  - 1: Waking Terror
 ```
 

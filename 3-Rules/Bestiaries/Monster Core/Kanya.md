@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/azata
   - pf2e/creature/type/celestial
   - pf2e/creature/type/holy
+  - pf2eMonster
   - pf2e/creature/level/7
   - remaster
 statblock: inline
@@ -27,9 +28,9 @@ level: "Creature 7"
 
 alignment: ""
 size: "Large"
-trait_01: "azata"
-trait_02: "celestial"
-trait_03: "holy"
+trait_01: [[azata]]
+trait_02: [[celestial]]
+trait_03: [[holy]]
 modifier: 16
 perception:
   - name: "Perception"
@@ -71,7 +72,7 @@ attacks:
   - name: "Divine Innate Spells"
     desc: "DC 26, attack +18; __4th __  _[[Spells/Charm|Charm]]_, _[[Spells/Clear Mind|Clear Mind]]_, _[[Spells/Counter Performance|Counter Performance]]_, _[[Spells/Noise Blast|Noise Blast]]_, _[[Spells/Soothe|Soothe]]_, _[[Spells/Suggestion|Suggestion]]_; __2nd __  _[[Spells/Invisibility|Invisibility]]_\n__Cantrips__  __(4th)__ _[[Spells/Courageous Anthem|Courageous Anthem]]_, _[[Spells/Daze|Daze]]_, _[[Spells/Detect Magic|Detect Magic]]_, _[[Spells/Figment|Figment]]_, _[[Spells/Light|Light]]_, _[[Spells/Summon Instrument|Summon Instrument]]_, _[[Spells/Uplifting Overture|Uplifting Overture]]_\n__Constant__  __(5th)__ _[[Spells/Truespeech|Truespeech]]_"
 
-  - name: "Muse’s Courage"
+  - name: "Muse's Courage"
     desc: "  Any [[Spells/Courageous Anthem|Courageous Anthem]] the kanya casts grants a +2 status bonus instead of +1.\n* * *\n\n[[Bestiary Effects/Spell Effect_ Courageous Anthem (Kanya)|Spell Effect: Courageous Anthem (Kanya)]]"
 
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
@@ -79,11 +80,17 @@ attacks:
  
 ```
 
+```encounter-table
+name: Kanya
+creatures:
+  - 1: Kanya
+```
+
 
 
 Kanyas are bearers of blessings and fortune, as well as harbingers of wisdom and spiritual growth. They are generally peaceful but quick to act if a community they are residing in is threatened. They pride themselves on inspiring mortals to such joy that they express it through the arts, leading to their common moniker as "muses." More than one bard looks to a kanya as their personal inspiration, yet much like inspiration, kanyas come and go as they please. They wander the world as they will, offering rain, generosity, wisdom, and support to whomever pleases them.
 
-Kanyas sometimes secretly follow the adventures of mortal heroes to record their stories as epic poems and songs, which they then perform in the packed mead halls of Elysium. When pursuing such goals, kanyas take pains to use their innate spells to remain in hiding, as they would rather observe and record events without “polluting” them with their own intervention. Nevertheless, a kanya who sees their charge faced with certain death often cannot resist the urge to intervene and save the day. Inevitably, this brings a close to the kanya’s chronicles, as their relationship with their subject invariably shifts from one of detached observation to friendship or more. Yet, kanyas remain hesitant to involve themselves for overlong in a mortal’s life, in part because they fear what sort of fiendish attention their presence might attract, but mostly out of respect for the mortal’s own destiny. A kanya would, all things being equal, prefer to let mortals choose their own fate rather than run the risk of sending someone down a path to which their heart is not set.
+Kanyas sometimes secretly follow the adventures of mortal heroes to record their stories as epic poems and songs, which they then perform in the packed mead halls of Elysium. When pursuing such goals, kanyas take pains to use their innate spells to remain in hiding, as they would rather observe and record events without "polluting" them with their own intervention. Nevertheless, a kanya who sees their charge faced with certain death often cannot resist the urge to intervene and save the day. Inevitably, this brings a close to the kanya's chronicles, as their relationship with their subject invariably shifts from one of detached observation to friendship or more. Yet, kanyas remain hesitant to involve themselves for overlong in a mortal's life, in part because they fear what sort of fiendish attention their presence might attract, but mostly out of respect for the mortal's own destiny. A kanya would, all things being equal, prefer to let mortals choose their own fate rather than run the risk of sending someone down a path to which their heart is not set.
 
 * * *
 

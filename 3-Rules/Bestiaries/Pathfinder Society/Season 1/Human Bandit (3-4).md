@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/human
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/1
 statblock: inline
 name: "Human Bandit (3-4)"
@@ -25,9 +26,9 @@ level: "Creature 1"
 
 alignment: ""
 size: "Medium"
-trait_01: "evil"
-trait_02: "human"
-trait_03: "humanoid"
+trait_01: [[evil]]
+trait_02: [[human]]
+trait_03: [[humanoid]]
 modifier: 7
 perception:
   - name: "Perception"
@@ -66,12 +67,18 @@ attacks:
   - name: "Melee"
     desc: "`pf2:1` Fist +9 (agile, finesse, nonlethal)\n__Damage__  1d4 + 3 bludgeoning"
 
-  - name: "Melee"
+  - name: "Ranged"
     desc: "`pf2:1` Dagger +8 (agile, range increment 10 feet, versatile s)\n__Damage__  1d4 + 3 piercing"
 
   - name: "Ranged"
     desc: "`pf2:1` Dagger +8 (agile, range increment 10 feet, versatile s)\n__Damage__  1d4 + 3 piercing"
  
+```
+
+```encounter-table
+name: Human Bandit (3-4)
+creatures:
+  - 1: Human Bandit (3-4)
 ```
 
 

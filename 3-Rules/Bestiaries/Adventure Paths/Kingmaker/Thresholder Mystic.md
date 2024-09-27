@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/human
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/17
 statblock: inline
 name: "Thresholder Mystic"
@@ -23,13 +24,13 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Kingmaker"
 name: "Thresholder Mystic"
 level: "Creature 17"
-rare_03: "Rare"
+rare_03: [[Rare]]
 alignment: ""
 size: "Medium"
-trait_01: "chaotic"
-trait_02: "evil"
-trait_03: "human"
-trait_04: "humanoid"
+trait_01: [[chaotic]]
+trait_02: [[evil]]
+trait_03: [[human]]
+trait_04: [[humanoid]]
 modifier: 31
 perception:
   - name: "Perception"
@@ -53,14 +54,14 @@ health:
 abilities_top:
   - name: ""
   - name: "Items"
-    desc: "[[Equipment/Dagger|+2 Greater Striking Spell-Storing Dagger]], [[Equipment/Leather Armor|+2 Resilient Leather Armor]], [[Equipment/Religious Symbol (Wooden)|Religious Symbol of Yog-Sothoth]]"
+    desc: "[[Equipment/Dagger|+2 Greater Striking Spell Reservoir Dagger]], [[Equipment/Leather Armor|+2 Resilient Leather Armor]], [[Equipment/Religious Symbol (Wooden)|Religious Symbol of Yog-Sothoth]]"
   - name: "Unseen Sight"
     desc: "  The removal of the eyes symbolized a Thresholder's abandonment of all they had seen before, and with the ritual's completion they gain something greater than mere vision: they gain the Unseen Sight. This is a precise sense that mimics darkvision yet functions even if the eye sockets themselves are covered. More importantly, the unseen sight allows a Thresholder to see the truth of the world, granting them the ability to see things as they actually are as if they were under the effects of [[Spells/Truesight|Truesight]], provided they are located within a region under the influence of Yog- Sothoth."
 
 abilities_mid:
   - name: ""
   - name: "Outside of Time"
-    desc: "  The Thresholder Mystic exists outside of time; they don't age, don't need food or drink to survive, and can't be [[Conditions/Quickened|Quickened]] or [[Conditions/Slowed 1|Slowed]] unless they choose to be."
+    desc: "  The Thresholder Mystic exists outside of time; they don't age, don't need food or drink to survive, and can't be [[Conditions/Quickened|Quickened]] or [[Conditions/Slowed|Slowed]] unless they choose to be."
 
   - name: "Resolve"
     desc: "  When the mystic rolls a success on a Will save, they get a critical success instead."
@@ -81,11 +82,17 @@ attacks:
     desc: "  [[Spells/Harm|Harm]]"
 
   - name: "Reminder of Doom"
-    desc: "`pf2:1` (auditory,concentrate,emotion,linguistic,mental) The mystic reminds their allies of the punishments awaiting those who fail Yog-Sothoth. The mystic and their allies within 60 feet gain a +2 status bonus to attack rolls and damage rolls until the end of the mystic's next turn.\n[[Bestiary Effects/Effect_ Reminder of Doom|Effect: Reminder of Doom]]"
+    desc: "`pf2:1` (auditory,concentrate,emotion,linguistic,mental) The mystic reminds their allies of the punishments awaiting those who fail Yog-Sothoth. The mystic and their allies within 60 feet gain a +2 status bonus to attack rolls and damage rolls until the end of the mystic's next turn.\n\n[[Bestiary Effects/Effect_ Reminder of Doom|Effect: Reminder of Doom]]"
 
   - name: "Steady Spellcasting"
     desc: "  If a reaction would disrupt the Thresholder Mystic's spellcasting action, they attempt a DC 15 Flat check; on a success, the action isn't disrupted."
  
+```
+
+```encounter-table
+name: Thresholder Mystic
+creatures:
+  - 1: Thresholder Mystic
 ```
 
 

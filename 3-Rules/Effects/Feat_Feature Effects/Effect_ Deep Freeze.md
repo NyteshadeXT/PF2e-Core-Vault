@@ -24,7 +24,7 @@ Granted by [[Feats/Deep Freeze|Deep Freeze]].
 
 **Failure** The target takes full damage and takes a -10-foot status penalty to its Speeds for 1 round.
 
-**Critical Failure** The target takes double damage, is [[Conditions/Slowed 1|Slowed 1]] for 1 round, and takes a -15-foot status penalty to its Speeds for 1 round.
+**Critical Failure** The target takes double damage, is [[Conditions/Slowed|Slowed 1]] for 1 round, and takes a -15-foot status penalty to its Speeds for 1 round.
 
 *Source: Pathfinder Guns & Gears*
 *OGL*

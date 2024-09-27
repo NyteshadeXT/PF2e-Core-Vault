@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.pathfinder-monster-core.Actor.xN5J9S485LxFZMkL"
 tags:
   - pf2e/creature/type/elemental
   - pf2e/creature/type/fire
+  - pf2eMonster
   - pf2e/creature/level/3
   - remaster
 statblock: inline
@@ -26,8 +27,8 @@ level: "Creature 3"
 
 alignment: ""
 size: "Small"
-trait_01: "elemental"
-trait_02: "fire"
+trait_01: [[elemental]]
+trait_02: [[fire]]
 modifier: 9
 perception:
   - name: "Perception"
@@ -57,7 +58,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Fetid Fumes"
-    desc: " (aura,fire) 5 feet.\n\nA creature that enters the aura or begins its turn there must succeed at a DC 22 Fortitude check save or become [[Conditions/Sickened 1|Sickened 1]].\n\nEverything within the aura, including the cinder rat, is [[Conditions/Concealed|Concealed]] by smoke."
+    desc: " (aura,fire) 5 feet.\n\nA creature that enters the aura or begins its turn there must succeed at a DC 22 Fortitude check save or become [[Conditions/Sickened|Sickened 1]].\n\nEverything within the aura, including the cinder rat, is [[Conditions/Concealed|Concealed]] by smoke."
 
 attacks:
   - name: ""
@@ -65,6 +66,12 @@ attacks:
   - name: "Melee"
     desc: "`pf2:1` Jaws +10 (finesse)\n__Damage__  1d8 + 4 fire 1d4 fire"
  
+```
+
+```encounter-table
+name: Cinder Rat
+creatures:
+  - 1: Cinder Rat
 ```
 
 

@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/human
   - pf2e/creature/type/humanoid
   - pf2e/creature/type/lawful
+  - pf2eMonster
   - pf2e/creature/level/4
 statblock: inline
 name: "Virtuous Defender"
@@ -26,10 +27,10 @@ level: "Creature 4"
 
 alignment: ""
 size: "Medium"
-trait_01: "good"
-trait_02: "human"
-trait_03: "humanoid"
-trait_04: "lawful"
+trait_01: [[good]]
+trait_02: [[human]]
+trait_03: [[humanoid]]
+trait_04: [[lawful]]
 modifier: 10
 perception:
   - name: "Perception"
@@ -37,7 +38,7 @@ perception:
 languages: "Common, Varisian"
 skills:
   - name: "Skills"
-    desc: "Diplomacy: +12, Intimidation: +11, Religion: +9, Shining Crusade Lore: +8, Survival: +9"
+    desc: "Diplomacy: +12, Intimidation: +11, Religion: +9, Survival: +9, Shining Crusade Lore: +8"
 abilityMods: [4, 0, 3, 0, 1, 3]
 speed: 20 feet
 sourcebook: "_Pathfinder Lost Omens: Character Guide_"
@@ -57,7 +58,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "[[Bestiary Ability Glossary/Retributive Strike|Retributive Strike]]"
-    desc: "`pf2:r`  The virtuous defender can Step to put the foe in reach before making a melee Retributive Strike.\n**Damage Reduction** 6\n"
+    desc: "`pf2:r`  The virtuous defender can Step to put the foe in reach before making a melee Retributive Strike.\n\n**Damage Reduction** 6\n\n* * *\n"
 
   - name: "Shield Ally"
     desc: "  The virtuous defender's shield is sturdier in their hands. The statistics for the shield above include this benefit; it's a normal steel shield for anyone else."
@@ -77,6 +78,12 @@ attacks:
   - name: "Divine Focus Spells"
     desc: "1 Focus Point, DC 19, attack +11; __2nd __  _[[Spells/Lay on Hands|Lay on Hands]]_, _[[Spells/Veil of Confidence|Veil of Confidence]]_"
  
+```
+
+```encounter-table
+name: Virtuous Defender
+creatures:
+  - 1: Virtuous Defender
 ```
 
 

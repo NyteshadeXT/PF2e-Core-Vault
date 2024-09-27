@@ -4,26 +4,23 @@ title: "Cruelty"
 cssclasses: pf2e,pf2e-spell
 tags:
   - trait/champion
-  - trait/concentrate
-  - trait/spellshape
-  - trait/uncommon
+  - trait/common
   - category/class
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.vxA0VRN10OwUkGAr"
-license: OGL
+license: ORC
 ---
-# Cruelty `pf2:1`
+# Cruelty
 ## Feat 4
-### [uncommon](uncommon "Uncommon Rarity Trait")[[champion]][[concentrate]][[spellshape]]
+### [[champion]]
 
 **Category** class; 
 
 
 
-**Prerequisites** devotion spell (touch of corruption)
+**Prerequisites** touch of the void
 * * *
-The harm you deal with your corrupting touch saps the strength from your enemy's body.
+The harm you deal with your corrupting touch saps the strength from your enemy's body. You can cast touch of the void targeting a living creature using 2 actions instead of 1. If you do, the target is also [[Conditions/Enfeebled|Enfeebled 1]] for 1 minute if it fails its save ([[Conditions/Enfeebled|Enfeebled 2]] if it critically fails).
 
-If your next action is to cast [[Spells/Touch of Corruption|Touch of Corruption]] on a living creature, the target is also [[Conditions/Enfeebled 1|Enfeebled 1]] for 1 minute if it fails its save (enfeebled 2 if it critically fails).
-
-*Source: Pathfinder Advanced Player's Guide*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

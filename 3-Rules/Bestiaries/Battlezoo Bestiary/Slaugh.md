@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/undead
   - pf2e/creature/type/unholy
+  - pf2eMonster
   - pf2e/creature/level/8
 statblock: inline
 name: "Slaugh"
@@ -23,12 +24,12 @@ token: [[modules/battlezoo-bestiary-pf2e/art/slaugh.webp| ]]
 source: "Battlezoo Bestiary"
 name: "Slaugh"
 level: "Creature 8"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Large"
-trait_01: "evil"
-trait_02: "undead"
-trait_03: "unholy"
+trait_01: [[evil]]
+trait_02: [[undead]]
+trait_03: [[unholy]]
 modifier: 17
 perception:
   - name: "Perception"
@@ -36,7 +37,7 @@ perception:
 languages: "Chthonian, Common, Necril"
 skills:
   - name: "Skills"
-    desc: "Athletics: +20, Intimidation: +18, Religion: +14, Warfare Lore: +14, "
+    desc: "Athletics: +20, Intimidation: +18, Religion: +14, Warfare Lore: +14"
 abilityMods: [6, 1, 0, 2, 4, 6]
 speed: 35 feet
 sourcebook: "_Battlezoo Bestiary_"
@@ -71,14 +72,20 @@ attacks:
     desc: "DC 24, attack +16; __4th __ (3 slots) _[[Spells/Bind Undead|Bind Undead]]_, _[[Spells/Harm|Harm (x2)]]_; __3rd __ (4 slots) _[[Spells/Summon Undead|Animate Dead (x3)]]_, _[[Spells/Circle of Protection|Circle of Protection (Good)]]_"
 
   - name: "Necromantic Blow"
-    desc: "`pf2:1` (divine,incapacitation) The runes on the slaugh's body glow white with unholy power as the slaugh channels its constituent souls' strength into a single powerful blow. The slaugh makes a fist Strike against a creature within range. On a hit, the creature must attempt a Fortitude save; regardless of the result, the creature still takes the usual damage from the slaugh's fist Strike.\nThe slaugh is Off-Guard until its next turn, and it can't use Necromantic Blow again for 1d4 rounds.\n**Critical Success** The creature is unaffected.\n**Success** The creature takes 2d6 void damage and is Enfeebled 1 for 1 round.\n**Failure** The creature takes 1d4 rounds.\n**Critical Failure** The creature takes 8d6 void damage, is Stunned 2, and is enfeebled 1 for 1 minute."
+    desc: "`pf2:1` (divine,incapacitation) The runes on the slaugh's body glow white with unholy power as the slaugh channels its constituent souls' strength into a single powerful blow. The slaugh makes a fist Strike against a creature within range. On a hit, the creature must attempt a DC 26 Fortitude save; regardless of the result, the creature still takes the usual damage from the slaugh's fist Strike.\n\nThe slaugh is [[Conditions/Off-Guard|Off-Guard]] until its next turn, and it can't use Necromantic Blow again for 1d4 rounds.\n* * *\n\n**Critical Success** The creature is unaffected.\n\n**Success** The creature takes 2d6 void damage and is [[Conditions/Enfeebled|Enfeebled 1]] for 1 round.\n\n**Failure** The creature takes 1d4 rounds.\n\n**Critical Failure** The creature takes 8d6 void damage, is [[Conditions/Stunned|Stunned 2]], and is enfeebled 1 for 1 minute."
 
   - name: "Reap"
-    desc: "`pf2:1`  **Frequency** once per round;\n**Effect** The slaugh swings its scythe at one foe, then deftly twists the weapon's handle to knock a different opponent off balance. The slaugh Strikes one creature in range, then Trips a separate foe in range. Both actions count toward the slaugh's multiple attack penalty, but the penalty doesn't increase until after both actions are completed."
+    desc: "`pf2:1`  **Frequency** once per round;\n* * *\n\n**Effect** The slaugh swings its scythe at one foe, then deftly twists the weapon's handle to knock a different opponent off balance. The slaugh Strikes one creature in range, then Trips a separate foe in range. Both actions count toward the slaugh's multiple attack penalty, but the penalty doesn't increase until after both actions are completed."
 
   - name: "Tyrant's Command"
     desc: "`pf2:3` (auditory,concentrate,divine,linguistic) The slaugh exerts its incredible will to command up to 4 mindless undead creatures within 60 feet to plunge into battle. Each affected undead creature can Stride or Strike without spending an action. This ability can affect only mindless undead whose level is 3 or lower."
  
+```
+
+```encounter-table
+name: Slaugh
+creatures:
+  - 1: Slaugh
 ```
 
 

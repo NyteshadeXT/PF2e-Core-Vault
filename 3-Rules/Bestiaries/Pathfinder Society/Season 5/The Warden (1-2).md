@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.pfs-season-5-bestiary.Actor.7Ox34TV7Py1pZr9o"
 tags:
   - pf2e/creature/type/construct
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/2
 statblock: inline
 name: "The Warden (1-2)"
@@ -24,12 +25,13 @@ level: "Creature 2"
 
 alignment: ""
 size: "Large"
-trait_01: "construct"
-trait_02: "humanoid"
+trait_01: [[construct]]
+trait_02: [[humanoid]]
 modifier: 8
 perception:
   - name: "Perception"
     desc: "+8; "
+languages: ""
 skills:
   - name: "Skills"
     desc: "Diplomacy: +8, Intimidation: +7, Occultism: +8"
@@ -62,6 +64,12 @@ attacks:
   - name: "Occult Focus Spells"
     desc: "1 Focus Point, DC 18, attack +10; __1st __  _[[Spells/Needle of Vengeance|Needle of Vengeance]]_\n__Cantrips__  __(1st)__ _[[Spells/Evil Eye|Evil Eye]]_"
  
+```
+
+```encounter-table
+name: The Warden (1-2)
+creatures:
+  - 1: The Warden (1-2)
 ```
 
 

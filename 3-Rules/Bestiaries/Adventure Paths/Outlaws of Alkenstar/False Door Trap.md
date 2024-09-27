@@ -5,6 +5,7 @@ noteType: pf2eHazard
 tags:
   - mechanical
   - trap
+  - pf2eHazard
 
 source: Pathfinder #179: Cradle of Quartz
 aliases: "Compendium.pf2e.outlaws-of-alkenstar-bestiary.Actor.8I7Hu4LXhVcLky8Z" 
@@ -22,14 +23,14 @@ name: "False Door Trap"
 level: "Hazard 6"
 
 
-trait_01: "mechanical"
-trait_02: "trap"
+trait_01: [[mechanical]]
+trait_02: [[trap]]
 modifier: 18
 sourcebook: "_Pathfinder #179: Cradle of Quartz_"
 ac: 24
 armorclass:
   - name: AC
-    desc: "24; __Fort__ +17, __Ref__ +11, __Will__ +0"
+    desc: "24; __Fort__ +17, __Ref__ +11, "
 hp: 50
 health:
   - name: ""
@@ -51,9 +52,15 @@ attacks:
   - name: ""
 
   - name: "Explosive Charge"
-    desc: "`pf2:r` **Trigger** The doorknob is turned\n**Effect** The charge behind the door explodes, dealing 2d8+9 fire damage and 2d8+9 piercing damage to all creatures in a 10-foot cone blasting outward from the door (DC 27 Reflex check). The sound of the explosion can be heard up to 50 feet away."
+    desc: "`pf2:r` **Trigger** The doorknob is turned\n* * *\n\n**Effect** The charge behind the door explodes, dealing 2d8+9 fire damage and 2d8+9 piercing damage to all creatures in a @Template[cone|distance:10] blasting outward from the door (DC 27 Reflex check). The sound of the explosion can be heard up to 50 feet away."
 
 
 
+```
+
+```encounter-table
+name: False Door Trap
+creatures:
+  - 1: False Door Trap
 ```
 

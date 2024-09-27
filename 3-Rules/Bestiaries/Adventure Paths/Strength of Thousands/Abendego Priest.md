@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/human
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/11
 statblock: inline
 name: "Abendego Priest"
@@ -25,9 +26,9 @@ level: "Creature 11"
 
 alignment: ""
 size: "Medium"
-trait_01: "evil"
-trait_02: "human"
-trait_03: "humanoid"
+trait_01: [[evil]]
+trait_02: [[human]]
+trait_03: [[humanoid]]
 modifier: 22
 perception:
   - name: "Perception"
@@ -51,11 +52,11 @@ health:
 abilities_top:
   - name: ""
   - name: "Items"
-    desc: "[[Equipment/Dagger|Dagger]], [[Equipment/Shortsword|+2 Striking Shortsword]], [[Equipment/Studded Leather Armor|Studded Leather Armor]], [[Equipment/Religious Symbol (Wooden)|Religious Symbol of Norgorber (Wooden)]], 2x [[Equipment/Shadow Essence|Shadow Essence]]"
+    desc: "[[Equipment/Dagger|Dagger]], [[Equipment/Shortsword|+2 Striking Shortsword]], [[Equipment/Studded Leather Armor|Studded Leather Armor]], [[Equipment/Religious Symbol (Wooden)|Religious Symbol of Norgorber (Wooden)]], 2x [[Equipment/Nethershade|Shadow Essence]]"
 abilities_mid:
   - name: ""
   - name: "Sodden Defense"
-    desc: "`pf2:r` (divine,water) **Trigger** An attacker misses or critically misses the Abendego priest with a melee Strike\n**Effect** The priest calls upon the endless storm to punish the attacker. Seawater appears in the target's lungs and the target is [[Conditions/Sickened 1|Sickened 1]] ([[Conditions/Sickened 1|Sickened 3]] if the triggering attack was a critical miss)."
+    desc: "`pf2:r` (divine,water) **Trigger** An attacker misses or critically misses the Abendego priest with a melee Strike\n* * *\n\n**Effect** The priest calls upon the endless storm to punish the attacker. Seawater appears in the target's lungs and the target is [[Conditions/Sickened|Sickened 1]] ([[Conditions/Sickened|Sickened 3]] if the triggering attack was a critical miss)."
 
 attacks:
   - name: ""
@@ -81,6 +82,12 @@ attacks:
   - name: "Steady Spellcasting"
     desc: "  If a reaction would disrupt the priest's spellcasting action, they attempt a DC 15 Flat check. On a success, the action isn't disrupted."
  
+```
+
+```encounter-table
+name: Abendego Priest
+creatures:
+  - 1: Abendego Priest
 ```
 
 

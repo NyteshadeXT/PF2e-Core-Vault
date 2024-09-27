@@ -4,8 +4,9 @@ title: "Effect: Imperial Blood Magic"
 cssclasses: pf2e,pf2e-spell
 tags:
   - trait/common
+  - remaster
 aliases: "Compendium.pf2e.feat-effects.Item.vguxP8ukwVTWWWaA"
-license: OGL
+license: ORC
 ---
 # Effect: Imperial Blood Magic
 ## Level 1
@@ -18,7 +19,7 @@ license: OGL
 
 Granted by [[Class Features/Bloodline_ Imperial|Bloodline: Imperial]]
 
-A surge of ancestral memories grants you or one target a +1 status bonus to skill checks for 1 round.
+You gain your choice of either a +1 status bonus to AC or a +1 status bonus to saving throws.
 
-*Source: Pathfinder Core Rulebook*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

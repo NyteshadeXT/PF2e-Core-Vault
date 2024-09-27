@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.pfs-season-2-bestiary.Actor.qG5e77fMVkjBlK8B"
 tags:
   - pf2e/creature/type/human
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/-1
 statblock: inline
 name: "Commoner (PFS 2-13)"
@@ -24,8 +25,8 @@ level: "Creature -1"
 
 alignment: ""
 size: "Medium"
-trait_01: "human"
-trait_02: "humanoid"
+trait_01: [[human]]
+trait_02: [[humanoid]]
 modifier: 3
 perception:
   - name: "Perception"
@@ -33,7 +34,7 @@ perception:
 languages: "Common"
 skills:
   - name: "Skills"
-    desc: "Athletics: +5, Graveyard Lore: +6, Society: +2"
+    desc: "Athletics: +5, Society: +2, Graveyard Lore: +6"
 abilityMods: [3, 1, 2, 0, 1, 0]
 speed: 25 feet
 sourcebook: "_Pathfinder Society Scenario #2-13: A Gilded Test_"
@@ -64,6 +65,12 @@ attacks:
   - name: "Power of the Mob"
     desc: "  When three or more commoners are adjacent to each other each commoner gets a +1 circumstance bonus to Athletics checks to [[Actions/Shove|Shove]], attack rolls, and damage rolls."
  
+```
+
+```encounter-table
+name: Commoner (PFS 2-13)
+creatures:
+  - 1: Commoner (PFS 2-13)
 ```
 
 

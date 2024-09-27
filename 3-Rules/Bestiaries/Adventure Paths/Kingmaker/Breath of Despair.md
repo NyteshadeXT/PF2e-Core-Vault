@@ -5,6 +5,7 @@ noteType: pf2eHazard
 tags:
   - magical
   - trap
+  - pf2eHazard
   - complex
 source: Pathfinder Kingmaker
 aliases: "Compendium.pf2e.kingmaker-bestiary.Actor.ZiNVsXL5DJ4Ekd5v" 
@@ -22,14 +23,14 @@ name: "Breath of Despair"
 level: "Hazard 5"
 
 trait_06: "Complex"
-trait_01: "magical"
-trait_02: "trap"
+trait_01: [[magical]]
+trait_02: [[trap]]
 modifier: 13
 sourcebook: "_Pathfinder Kingmaker_"
 ac: 22
 armorclass:
   - name: AC
-    desc: "22; __Fort__ +15, __Ref__ +9, __Will__ +0"
+    desc: "22; __Fort__ +15, __Ref__ +9, "
 hp: 30
 health:
   - name: ""
@@ -51,13 +52,19 @@ attacks:
   - name: ""
 
   - name: "Draining Inhalation"
-    desc: "`pf2:r` (divine) **Trigger** A non-flying living creature moves more than 10 feet into the area\n**Effect** Each face inhales then exhales, and all living creatures in the area feel their strength and vitality being drawn out of them as tendrils of shadow from the faces latch onto their bodies. Each creature must succeed at a DC 22 Fortitude check save or become [[Conditions/Enfeebled 1|Enfeebled 1]] ([[Conditions/Enfeebled 1|Enfeebled 2]] on a critical failure)."
+    desc: "`pf2:r` (divine) **Trigger** A non-flying living creature moves more than 10 feet into the area\n\n**Effect** Each face inhales then exhales, and all living creatures in the area feel their strength and vitality being drawn out of them as tendrils of shadow from the faces latch onto their bodies. Each creature must succeed at a DC 22 Fortitude check save or become [[Conditions/Enfeebled|Enfeebled 1]] ([[Conditions/Enfeebled|Enfeebled 2]] on a critical failure)."
   - name: "Melee"
-    desc: "Despairing Breath +17 (fear, mental) No multiple attack penalty. A creature damaged by the despairing breath must succeed at a DC 22 Will check save or become [[Conditions/Frightened 1|Frightened 1]] (or [[Conditions/Fleeing|Fleeing]] 1 on a critical failure); this effect has the fear trait."
+    desc: "Despairing Breath +17 (fear, mental) No multiple attack penalty. A creature damaged by the despairing breath must succeed at a DC 22 Will check save or become [[Conditions/Frightened|Frightened 1]] (or [[Conditions/Fleeing|Fleeing]] 1 on a critical failure); this effect has the fear trait."
 
   - name: "Routine"
     desc: "(4 actions) The trap loses 1 action per disabled face each turn. On each action, a different face spews a writhing breath of darkness from its mouth to a target in the area. A creature can only be targeted once per round by the despairing breath, so if fewer than four creatures are in the room, the trap won't be able to take full advantage of all four of its actions."
   - name: "Reset"
     desc: "The trap resets after 1 minute"
+```
+
+```encounter-table
+name: Breath of Despair
+creatures:
+  - 1: Breath of Despair
 ```
 

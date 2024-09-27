@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/humanoid
   - pf2e/creature/type/kobold
+  - pf2eMonster
   - pf2e/creature/level/5
 statblock: inline
 name: "Greeleep (5-6)"
@@ -23,13 +24,13 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Society Scenario #2-12: Snakes in the Grass"
 name: "Greeleep (5-6)"
 level: "Creature 5"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Small"
-trait_01: "chaotic"
-trait_02: "evil"
-trait_03: "humanoid"
-trait_04: "kobold"
+trait_01: [[chaotic]]
+trait_02: [[evil]]
+trait_03: [[humanoid]]
+trait_04: [[kobold]]
 modifier: 10
 perception:
   - name: "Perception"
@@ -37,7 +38,7 @@ perception:
 languages: "Common, Draconic"
 skills:
   - name: "Skills"
-    desc: "Arcana: +11, Crafting: +11, Deception: +8, Dragon Lore: +11, Nature: +13"
+    desc: "Arcana: +11, Crafting: +11, Deception: +8, Nature: +13, Dragon Lore: +11"
 abilityMods: [2, 3, 2, 4, 3, -1]
 speed: 25 feet
 sourcebook: "_Pathfinder Society Scenario #2-12: Snakes in the Grass_"
@@ -68,6 +69,12 @@ attacks:
   - name: "Spontaneous Primal Spells"
     desc: "DC 21, attack +13; __3rd __ (2 slots) _[[Spells/Lightning Bolt|Lightning Bolt]]_, _[[Spells/Cleanse Affliction|Neutralize Poison]]_; __2nd __ (4 slots) _[[Spells/Environmental Endurance|Endure Elements]]_, _[[Spells/Enlarge|Enlarge]]_, _[[Spells/Entangling Flora|Entangle]]_, _[[Spells/Gecko Grip|Spider Climb]]_; __1st __ (4 slots) _[[Spells/Fear|Fear]]_, _[[Spells/Fleet Step|Fleet Step]]_, _[[Spells/Goblin Pox|Goblin Pox]]_, _[[Spells/Hydraulic Push|Hydraulic Push]]_\n__Cantrips__  __(3rd)__ _[[Spells/Detect Magic|Detect Magic]]_, _[[Spells/Electric Arc|Electric Arc]]_, _[[Spells/Produce Flame|Produce Flame]]_, _[[Spells/Ray of Frost|Ray of Frost]]_, _[[Spells/Stabilize|Stabilize]]_"
  
+```
+
+```encounter-table
+name: Greeleep (5-6)
+creatures:
+  - 1: Greeleep (5-6)
 ```
 
 

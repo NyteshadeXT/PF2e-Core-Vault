@@ -10,7 +10,7 @@ license: OGL
 ---
 # Backpack Catapult Stone
 
-### [uncommon](uncommon "Uncommon Rarity Trait")
+### [uncommon](uncommon.md "Uncommon Rarity Trait")
 
 **Category** ammo; 
 **Price** 1 sp; 

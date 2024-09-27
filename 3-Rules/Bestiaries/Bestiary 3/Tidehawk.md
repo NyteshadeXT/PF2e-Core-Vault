@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/amphibious
   - pf2e/creature/type/beast
   - pf2e/creature/type/water
+  - pf2eMonster
   - pf2e/creature/level/12
 statblock: inline
 name: "Tidehawk"
@@ -23,12 +24,12 @@ token: [[modules/pf2e-tokens-bestiaries/portraits/elemental/water/tidehawk.webp|
 source: "Pathfinder Bestiary 3"
 name: "Tidehawk"
 level: "Creature 12"
-rare_03: "Rare"
+rare_03: [[Rare]]
 alignment: ""
 size: "huge"
-trait_01: "amphibious"
-trait_02: "beast"
-trait_03: "water"
+trait_01: [[amphibious]]
+trait_02: [[beast]]
+trait_03: [[water]]
 modifier: 24
 perception:
   - name: "Perception"
@@ -73,14 +74,20 @@ attacks:
     desc: "DC 32, attack +24; __6th __  _[[Spells/Cone of Cold|Cone of Cold]]_, _[[Spells/Control Water|Control Water]]_, _[[Spells/Heal|Heal (x2)]]_, _[[Spells/Hydraulic Torrent|Hydraulic Torrent]]_, _[[Spells/Mariner's Curse|Mariner's Curse]]_\n__Cantrips__  __(6th)__ _[[Spells/Detect Magic|Detect Magic]]_"
 
   - name: "Oceanic Armor"
-    desc: "`pf2:1` (primal,water) **Requirements** The tidehawk is within 120 feet of a body of water at least as large as it is\n**Effect** The tidehawk draws water to itself, wrapping its feathers like a suit of armor. The tidehawk gains a +2 circumstance bonus to AC until the start of its next turn. If the tidehawk takes damage from a melee Strike while under this effect, this water armor explodes outward, dealing 4d8 bludgeoning damage (DC 32 Reflex check save) to the attacking creature and ending the circumstance bonus to AC.\n[[Bestiary Effects/Effect_ Oceanic Armor|Effect: Oceanic Armor]]"
+    desc: "`pf2:1` (primal,water) **Requirements** The tidehawk is within 120 feet of a body of water at least as large as it is\n* * *\n\n**Effect** The tidehawk draws water to itself, wrapping its feathers like a suit of armor. The tidehawk gains a +2 circumstance bonus to AC until the start of its next turn. If the tidehawk takes damage from a melee Strike while under this effect, this water armor explodes outward, dealing 4d8 bludgeoning damage (DC 32 Reflex check save) to the attacking creature and ending the circumstance bonus to AC.\n\n[[Bestiary Effects/Effect_ Oceanic Armor|Effect: Oceanic Armor]]"
 
   - name: "Typhoon Dive"
-    desc: "`pf2:2` (primal,water) **Requirements** The tidehawk is Flying\n**Effect** The tidehawk Flies up to its Speed, diving below the surface of deep water (such as a sea or ocean), causing a surging wave that deals 6d6 bludgeoning damage (DC 32 Reflex check save) to each creature within a 60-foot emanation of where the tidehawk entered the water. The area becomes difficult terrain until the start of the tidehawk's next turn while the water surges and runs off."
+    desc: "`pf2:2` (primal,water) **Requirements** The tidehawk is Flying\n* * *\n\n**Effect** The tidehawk Flies up to its Speed, diving below the surface of deep water (such as a sea or ocean), causing a surging wave that deals 6d6 bludgeoning damage (DC 32 Reflex check save) to each creature within a @Template[emanation|distance:60] of where the tidehawk entered the water. The area becomes difficult terrain until the start of the tidehawk's next turn while the water surges and runs off."
 
   - name: "[[Bestiary Ability Glossary/Knockdown|Knockdown]]"
     desc: "`pf2:1`  "
  
+```
+
+```encounter-table
+name: Tidehawk
+creatures:
+  - 1: Tidehawk
 ```
 
 

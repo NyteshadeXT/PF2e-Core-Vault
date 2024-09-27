@@ -6,8 +6,9 @@ tags:
   - trait/barbarian
   - trait/common
   - category/class
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.CLKlavik0540j5bl"
-license: OGL
+license: ORC
 ---
 # Wounded Rage `pf2:r`
 ## Feat 4
@@ -24,5 +25,5 @@ license: OGL
 
 You roar in pain, awakening the rage within you. You Rage.
 
-*Source: Pathfinder Core Rulebook*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

@@ -5,6 +5,7 @@ noteType: pf2eHazard
 tags:
   - mechanical
   - trap
+  - pf2eHazard
 
 source: Pathfinder Society Quest #9: Wayfinder Origins
 aliases: "Compendium.pf2e.pfs-season-1-bestiary.Actor.UKGbCdZlsWmjZiFN" 
@@ -22,14 +23,14 @@ name: "Automatic Fire Suppression (3-4)"
 level: "Hazard 2"
 
 
-trait_01: "mechanical"
-trait_02: "trap"
+trait_01: [[mechanical]]
+trait_02: [[trap]]
 modifier: 11
 sourcebook: "_Pathfinder Society Quest #9: Wayfinder Origins_"
 ac: 18
 armorclass:
   - name: AC
-    desc: "18; __Fort__ +11, __Ref__ +5, __Will__ +0"
+    desc: "18; __Fort__ +11, __Ref__ +5, "
 hp: 32
 health:
   - name: ""
@@ -51,9 +52,15 @@ attacks:
   - name: ""
 
   - name: "Overloaded Extinguisher"
-    desc: "`pf2:r` (cold) **Trigger** Fire damage is dealt in area A1\n**Effect** Frozen fire retardant rains down on all creatures in area A1, dealing 2d10 + 7 cold damage (DC 20 Reflex check). Any persistent fire damage in area A1 ends."
+    desc: "`pf2:r` (cold) **Trigger** Fire damage is dealt in area A1\n* * *\n\n**Effect** Frozen fire retardant rains down on all creatures in area A1, dealing 2d10+7 cold damage (DC 20 Reflex check). Any persistent fire damage in area A1 ends."
 
 
 
+```
+
+```encounter-table
+name: Automatic Fire Suppression (3-4)
+creatures:
+  - 1: Automatic Fire Suppression (3-4)
 ```
 

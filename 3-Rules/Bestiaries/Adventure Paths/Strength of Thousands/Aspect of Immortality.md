@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/undead
   - pf2e/creature/type/unholy
+  - pf2eMonster
   - pf2e/creature/level/21
 statblock: inline
 name: "Aspect of Immortality"
@@ -22,12 +23,12 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #174: Shadows of the Ancients"
 name: "Aspect of Immortality"
 level: "Creature 21"
-rare_03: "Rare"
+rare_03: [[Rare]]
 alignment: ""
 size: "Medium"
-trait_01: "evil"
-trait_02: "undead"
-trait_03: "unholy"
+trait_01: [[evil]]
+trait_02: [[undead]]
+trait_03: [[unholy]]
 modifier: 41
 perception:
   - name: "Perception"
@@ -61,16 +62,16 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Aura of Misfortune"
-    desc: " (aura,divine,misfortune) 20 feet. Living creatures in the aura must roll twice on all d20 rolls and use the lower result.\n[[Bestiary Effects/Effect_ Aura of Misfortune|Effect: Aura of Misfortune]]"
+    desc: " (aura,divine,misfortune) 20 feet. Living creatures in the aura must roll twice on all d20 rolls and use the lower result.\n\n[[Bestiary Effects/Effect_ Aura of Misfortune|Effect: Aura of Misfortune]]"
 
   - name: "Key Weakness"
     desc: "  Jatembe's history of vanquishing the King of Biting Ants survives in the halcyon legacy of the Magaambya. The Aspect of Immortality has a key weakness to both arcane spells and primal spells."
 
   - name: "Lurking Death"
-    desc: "`pf2:r` (teleportation) **Trigger** A creature within 100 feet makes a ranged attack or uses an action that has the concentrate, manipulate, or move trait.\n**Effect** The Aspect of Immortality teleports to a square adjacent to the triggering creature and makes a melee Strike against it. If the Strike hits, the Aspect of Immortality disrupts the triggering action."
+    desc: "`pf2:r` (teleportation) **Trigger** A creature within 100 feet makes a ranged attack or uses an action that has the concentrate, manipulate, or move trait.\n* * *\n\n**Effect** The Aspect of Immortality teleports to a square adjacent to the triggering creature and makes a melee Strike against it. If the Strike hits, the Aspect of Immortality disrupts the triggering action."
 
   - name: "[[Bestiary Ability Glossary/Void Healing|Void Healing]]"
-    desc: "  The Aspect of Immortality can choose whether or not it takes vitality damage.\n"
+    desc: "  The Aspect of Immortality can choose whether or not it takes vitality damage.\n\n* * *\n"
 
 attacks:
   - name: ""
@@ -85,7 +86,7 @@ attacks:
     desc: " (death) A creature critically hit by any of the Aspect of Immortality's attacks or that critically fails against any of its spells must succeed at a DC 47 Fortitude check save or die."
 
   - name: "Energy Drain"
-    desc: "  When the Aspect of Immortality hits and deals damage with its scythe, it regains 20 Hit Points, and the target must succeed at a DC 43 Fortitude check save or become [[Conditions/Doomed 1|Doomed 1]]. If the target is already doomed, the doomed value increases by 1 (to a maximum of doomed 3)."
+    desc: "  When the Aspect of Immortality hits and deals damage with its scythe, it regains 20 healing Hit Points, and the target must succeed at a DC 43 Fortitude check save or become [[Conditions/Doomed|Doomed 1]]. If the target is already doomed, the doomed value increases by 1 (to a maximum of doomed 3)."
 
   - name: "Final Death"
     desc: "  A creature killed by the Aspect of Immortality can't be brought back to life by any means short of divine intervention."
@@ -93,6 +94,12 @@ attacks:
   - name: "Infuse Weapon"
     desc: " (divine) Any scythe gains the agile trait, can't be disarmed, and becomes a _+3 Major Striking Keen scythe_ while the Aspect of Immortality wields it. If the Aspect of Immortality Strikes a creature with a weakness to any specific type of damage, the scythe's damage counts as that type of damage, in addition to slashing."
  
+```
+
+```encounter-table
+name: Aspect of Immortality
+creatures:
+  - 1: Aspect of Immortality
 ```
 
 

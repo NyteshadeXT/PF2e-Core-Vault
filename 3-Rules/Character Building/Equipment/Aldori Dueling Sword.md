@@ -13,7 +13,7 @@ license: OGL
 ---
 # Aldori Dueling Sword
 ## Item 1
-### [uncommon](uncommon "Uncommon Rarity Trait")[[finesse]][[versatile-p]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[3-Rules/Rule References/Finesse]][[versatile-p]]
 
 |  |  |
 | -- | -- |

@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/charau-ka
   - pf2e/creature/type/evil
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/3
 statblock: inline
 name: "Charau-ka Acolyte of Angazhan"
@@ -26,10 +27,10 @@ level: "Creature 3"
 
 alignment: ""
 size: "Small"
-trait_01: "chaotic"
-trait_02: "charau-ka"
-trait_03: "evil"
-trait_04: "humanoid"
+trait_01: [[chaotic]]
+trait_02: [[charau-ka]]
+trait_03: [[evil]]
+trait_04: [[humanoid]]
 modifier: 9
 perception:
   - name: "Perception"
@@ -75,11 +76,17 @@ attacks:
     desc: "DC 17, attack +11; __2nd __  _[[Spells/Entangling Flora|Entangle]]_, _[[Spells/Noise Blast|Sound Burst]]_; __1st __  _[[Spells/Fear|Fear]]_, _[[Spells/Heal|Heal]]_, _[[Spells/Enfeeble|Ray of Enfeeblement]]_\n__Cantrips__  __(2nd)__ _[[Spells/Daze|Daze]]_, _[[Spells/Detect Magic|Detect Magic]]_, _[[Spells/Divine Lance|Divine Lance]]_, _[[Spells/Guidance|Guidance]]_, _[[Spells/Message|Message]]_"
 
   - name: "Shrieking Frenzy"
-    desc: " (primal) **Trigger** The charau-ka's turn begins.\n**Frequency** once per hour\n**Effect** The charau-ka is [[Conditions/Quickened|Quickened]] until the end of its turn, and can use the extra action to Stride or Strike.\nWhile in the frenzy, the charau-ka can't speak and automatically critically fails Stealth checks, due to its loud wailing."
+    desc: " (primal) **Trigger** The charau-ka's turn begins.\n\n**Frequency** once per hour\n* * *\n\n**Effect** The charau-ka is [[Conditions/Quickened|Quickened]] until the end of its turn, and can use the extra action to Stride or Strike.\n\nWhile in the frenzy, the charau-ka can't speak and automatically critically fails Stealth checks, due to its loud wailing."
 
   - name: "Thrown Weapon Mastery"
-    desc: " (nonlethal) Any weapon a charau-ka throws gains the deadly d6 weapon trait.\nFurthermore, when a charau-ka throws an improvised weapon, it does not take the -2 penalty for doing so, nor does it take a penalty for using a thrown improvised weapon with the nonlethal trait to make a lethal attack."
+    desc: " (nonlethal) Any weapon a charau-ka throws gains the deadly d6 weapon trait.\n\nFurthermore, when a charau-ka throws an improvised weapon, it does not take the -2 penalty for doing so, nor does it take a penalty for using a thrown improvised weapon with the nonlethal trait to make a lethal attack."
  
+```
+
+```encounter-table
+name: Charau-ka Acolyte of Angazhan
+creatures:
+  - 1: Charau-ka Acolyte of Angazhan
 ```
 
 

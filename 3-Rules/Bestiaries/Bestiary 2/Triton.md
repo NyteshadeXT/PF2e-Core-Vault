@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/amphibious
   - pf2e/creature/type/good
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/2
 statblock: inline
 name: "Triton"
@@ -26,9 +27,9 @@ level: "Creature 2"
 
 alignment: ""
 size: "Medium"
-trait_01: "amphibious"
-trait_02: "good"
-trait_03: "humanoid"
+trait_01: [[amphibious]]
+trait_02: [[good]]
+trait_03: [[humanoid]]
 modifier: 8
 perception:
   - name: "Perception"
@@ -68,8 +69,14 @@ attacks:
     desc: "`pf2:1`  The triton Interacts to raise their trident, gaining a +1 circumstance bonus to AC until the start of their next turn. During this time, any of their allies also gains the bonus while adjacent to the triton."
 
   - name: "Summon Aquatic Ally"
-    desc: "`pf2:3` (primal) **Frequency** once per day\n**Effect** The triton blows into a conch shell, casting a 2nd-rank [[Spells/Summon Animal|Summon Animal]] spell. The triton can summon only an aquatic creature, such as a dolphin, octopus, ray, sea snake, or electric eel. This creature remains until it is slain, the triton Dismisses it, or the triton summons another ally."
+    desc: "`pf2:3` (primal) **Frequency** once per day\n* * *\n\n**Effect** The triton blows into a conch shell, casting a 2nd-rank [[Spells/Summon Animal|Summon Animal]] spell. The triton can summon only an aquatic creature, such as a dolphin, octopus, ray, sea snake, or electric eel. This creature remains until it is slain, the triton Dismisses it, or the triton summons another ally."
  
+```
+
+```encounter-table
+name: Triton
+creatures:
+  - 1: Triton
 ```
 
 

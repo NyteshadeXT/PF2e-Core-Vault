@@ -16,7 +16,7 @@ license: OGL
 ---
 # Fire Box
 ## Item 3
-### [uncommon](uncommon "Uncommon Rarity Trait")[[clockwork]][[consumable]][[3-Rules/Rule References/Fire]][[mechanical]][[snare]][[trap]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[clockwork]][[consumable]][[3-Rules/Rule References/Fire]][[mechanical]][[snare]][[trap]]
 
 **Category** snare; 
 **Price** 10 gp; 

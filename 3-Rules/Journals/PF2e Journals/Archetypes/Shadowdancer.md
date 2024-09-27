@@ -14,7 +14,7 @@ A true shadowdancer is a creature who flits on the edge of light and darkness. M
 
 Regardless of the reason why someone embraces the shadows, the shadows embrace that person in turn, gradually transforming them into something inky, nebulous, and mysterious.
 
-**Additional Feats** 10th [[Feats/Uncanny Dodge|Uncanny Dodge]]; 14th [[Feats/Spring from the Shadows|Spring from the Shadows]]; 16th [[Feats/Sense The Unseen|Sense The Unseen]]; 18th [[Feats/Cognitive Loophole|Cognitive Loophole]]
+**Additional Feats** 10th [[Feats/Uncanny Dodge|Uncanny Dodge]]; 14th [[Feats/Spring from the Shadows|Spring from the Shadows]]; 16th [[Feats/Sense the Unseen|Sense the Unseen]]; 18th [[Feats/Cognitive Loophole|Cognitive Loophole]]
 
 **CALL OF SHADOWS**
 

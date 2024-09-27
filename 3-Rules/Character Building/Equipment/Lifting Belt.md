@@ -23,7 +23,7 @@ This wide leather belt grants you a +1 item bonus to Athletics checks and increa
 
 * * *
 
-**Activate—Assisted Lift** `pf2:2` Interact (manipulate)
+**Activate—Assisted Lift** `pf2:2` (manipulate)
 
 * * *
 

@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/human
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/5
 statblock: inline
 name: "Mother Forsythe (3-4)"
@@ -23,13 +24,13 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Society Scenario #2-23: An Agent&#x27;s Obligation"
 name: "Mother Forsythe (3-4)"
 level: "Creature 5"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Medium"
-trait_01: "changeling"
-trait_02: "evil"
-trait_03: "human"
-trait_04: "humanoid"
+trait_01: [[changeling]]
+trait_02: [[evil]]
+trait_03: [[human]]
+trait_04: [[humanoid]]
 modifier: 12
 perception:
   - name: "Perception"
@@ -55,7 +56,7 @@ abilities_top:
   - name: "Items"
     desc: "[[Equipment/Dagger|+1 Dagger]], [[Equipment/Necklace of Fireballs I|Necklace of Fireballs I]], Keys"
   - name: "Maiden's Mending"
-    desc: "  **Frequency** once per minute\n**Trigger** Mother Forsythe casts a non-cantrip occult spell\n**Effect** Mother Forsythe gains 2 temporary Hit Points that last until the end of her next turn."
+    desc: "  **Frequency** once per minute\n\n**Trigger** Mother Forsythe casts a non-cantrip occult spell\n* * *\n\n**Effect** Mother Forsythe gains 2 temporary Hit Points that last until the end of her next turn."
 
 abilities_mid:
   - name: ""
@@ -80,6 +81,12 @@ attacks:
   - name: "[[Bestiary Ability Glossary/Sneak Attack|Sneak Attack]]"
     desc: "  Mother Forsythe deals 1d6 extra precision damage to [[Conditions/Off-Guard|Off-Guard]] creatures."
  
+```
+
+```encounter-table
+name: Mother Forsythe (3-4)
+creatures:
+  - 1: Mother Forsythe (3-4)
 ```
 
 

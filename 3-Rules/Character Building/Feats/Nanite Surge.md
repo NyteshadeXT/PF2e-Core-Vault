@@ -25,7 +25,7 @@ license: OGL
 
 * * *
 
-You stimulate your nanites, forcing your body to temporarily increase its efficiency. You gain a +2 status bonus to the triggering skill check. In addition, your circuitry glows, lighting a 10-foot emanation with dim light for 1 round.
+You stimulate your nanites, forcing your body to temporarily increase its efficiency. You gain a +2 status bonus to the triggering skill check. In addition, your circuitry glows, lighting a @Template\[emanation|distance:10\] with dim light for 1 round.
 
 *Source: Pathfinder Lost Omens: Ancestry Guide*
 *OGL*

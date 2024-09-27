@@ -7,6 +7,7 @@ aliases: "Compendium.battlezoo-bestiary-su-pf2e.pf2e-battlezoo-su-actors.Actor.m
 tags:
   - pf2e/creature/type/chaotic
   - pf2e/creature/type/fey
+  - pf2eMonster
   - pf2e/creature/level/2
 statblock: inline
 name: "Crystalline Owl"
@@ -22,19 +23,19 @@ token: [[modules/battlezoo-bestiary-su-pf2e/art/Portraits/crystalline-owl.webp| 
 source: "Battlezoo Bestiary: Strange and Unusual"
 name: "Crystalline Owl"
 level: "Creature 2"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "tiny"
-trait_01: "chaotic"
-trait_02: "fey"
+trait_01: [[chaotic]]
+trait_02: [[fey]]
 modifier: 9
 perception:
   - name: "Perception"
     desc: "+9; Darkvision, Low-Light Vision"
-languages: "Fey"
+languages: "Fey; can&#x27;t speak any language"
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +8 (+10 to Fly or Maneuver in Flight), Stealth: +8, Survival: +7, "
+    desc: "Acrobatics: +8, Stealth: +8, Survival: +7, Acrobatics: +8, Stealth: +8, Survival: +7"
 abilityMods: [1, 4, 2, 2, 3, 3]
 speed: 10 feet,  fly 40 feet
 sourcebook: "_Battlezoo Bestiary: Strange and Unusual_"
@@ -53,7 +54,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Reflection"
-    desc: "`pf2:r` (fire) **Trigger** The crystalline owl would take fire damage\n**Effect** The crystalline owl uses a wing or body part to reflect part of the attack. The crystalline owl reduces the fire damage it would take by 1d12, after applying resistance. The creature that dealt the fire damage to the crystalline owl, if any, takes the amount of fire damage the crystalline owl reduced (either the result of the d12 or the remaining damage after resistance, whichever was less), with a DC 18 Reflex check save."
+    desc: "`pf2:r` (fire) **Trigger** The crystalline owl would take fire damage\n* * *\n\n**Effect** The crystalline owl uses a wing or body part to reflect part of the attack. The crystalline owl reduces the fire damage it would take by 1d12, after applying resistance. The creature that dealt the fire damage to the crystalline owl, if any, takes the amount of fire damage the crystalline owl reduced (either the result of the d12 or the remaining damage after resistance, whichever was less), with a DC 18 Reflex check save."
 
 attacks:
   - name: ""
@@ -68,8 +69,14 @@ attacks:
     desc: "`pf2:2`  The crystalline owl Flies and makes a talon Strike at any point along the way."
 
   - name: "Prismatic Dazzle"
-    desc: "`pf2:2` (light,visual) **Requirements** The crystalline owl must be in an area of bright light\n**Effect** The crystalline owl uses the reflective surfaces of its body or wing to direct the light into the eyes of all creatures within 30 feet. The creatures must attempt a DC 18 Reflex check save.\n**Critical Success** The creature is unaffected.\n**Success** The creature is Dazzled for 1 round.\n**Failure** The creature is dazzled for 3 rounds.\n**Critical Failure** The creature is Blinded for 1 round and dazzled for 1 minute."
+    desc: "`pf2:2` (light,visual) **Requirements** The crystalline owl must be in an area of bright light\n* * *\n\n**Effect** The crystalline owl uses the reflective surfaces of its body or wing to direct the light into the eyes of all creatures within 30 feet. The creatures must attempt a DC 18 Reflex check save.\n* * *\n\n**Critical Success** The creature is unaffected.\n\n**Success** The creature is [[undefined]] for 1 round.\n\n**Failure** The creature is dazzled for 3 rounds.\n\n**Critical Failure** The creature is [[undefined]] for 1 round and dazzled for 1 minute."
  
+```
+
+```encounter-table
+name: Crystalline Owl
+creatures:
+  - 1: Crystalline Owl
 ```
 
 

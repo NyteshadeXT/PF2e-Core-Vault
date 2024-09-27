@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/goblin
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/4
 statblock: inline
 name: "Lickweed"
@@ -23,13 +24,13 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Kingmaker"
 name: "Lickweed"
 level: "Creature 4"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Small"
-trait_01: "chaotic"
-trait_02: "evil"
-trait_03: "goblin"
-trait_04: "humanoid"
+trait_01: [[chaotic]]
+trait_02: [[evil]]
+trait_03: [[goblin]]
+trait_04: [[humanoid]]
 modifier: 12
 perception:
   - name: "Perception"
@@ -57,7 +58,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "[[Bestiary 1/Goblin Warrior/Goblin Scuttle|Goblin Scuttle]]"
-    desc: "`pf2:r`  **Trigger** A goblin ally ends a move action adjacent to the goblin.\n**Effect** The goblin [[Actions/Step|Steps]]."
+    desc: "`pf2:r`  **Trigger** A goblin ally ends a move action adjacent to the goblin.\n* * *\n\n**Effect** The goblin [[Actions/Step|Steps]]."
 
 attacks:
   - name: ""
@@ -74,6 +75,12 @@ attacks:
   - name: "Reach Spell"
     desc: "`pf2:1` (concentrate,spellshape) If the next action Lickweed takes is to [[Actions/Cast a Spell|Cast a Spell]] that has a range, increase that spell's range by 30 feet."
  
+```
+
+```encounter-table
+name: Lickweed
+creatures:
+  - 1: Lickweed
 ```
 
 

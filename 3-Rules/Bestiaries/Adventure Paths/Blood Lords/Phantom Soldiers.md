@@ -4,6 +4,7 @@ obsidianUIMode: preview
 noteType: pf2eHazard
 tags:
   - haunt
+  - pf2eHazard
 
 source: Pathfinder #186: Ghost King&#x27;s Rage
 aliases: "Compendium.pf2e.blood-lords-bestiary.Actor.IDfaWPdUjUmjiDvj" 
@@ -21,7 +22,7 @@ name: "Phantom Soldiers"
 level: "Hazard 18"
 
 
-trait_01: "haunt"
+trait_01: [[haunt]]
 modifier: 35
 sourcebook: "_Pathfinder #186: Ghost King's Rage_"
 perception:
@@ -40,12 +41,18 @@ attacks:
   - name: ""
 
   - name: "Battle"
-    desc: "`pf2:r` (attack) **Trigger** A creature enters the area\n**Effect** Spirit soldiers lunge out of the mist and attack intruders. The spirit soldiers attempt a spear Strike against each creature within 30 feet."
+    desc: "`pf2:r` (attack) **Trigger** A creature enters the area\n* * *\n\n**Effect** Spirit soldiers lunge out of the mist and attack intruders. The spirit soldiers attempt a spear Strike against each creature within 30 feet."
   - name: "Melee"
     desc: "Spear +38 () "
 
 
   - name: "Reset"
     desc: "1 hour."
+```
+
+```encounter-table
+name: Phantom Soldiers
+creatures:
+  - 1: Phantom Soldiers
 ```
 

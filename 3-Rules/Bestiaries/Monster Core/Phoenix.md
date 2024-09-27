@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.pathfinder-monster-core.Actor.mQJL411e9Iz8dJoh"
 tags:
   - pf2e/creature/type/beast
   - pf2e/creature/type/fire
+  - pf2eMonster
   - pf2e/creature/level/15
   - remaster
 statblock: inline
@@ -23,11 +24,11 @@ token: [[modules/pf2e-tokens-bestiaries/portraits/elemental/fire/phoenix.webp| ]
 source: "Pathfinder Monster Core"
 name: "Phoenix"
 level: "Creature 15"
-rare_03: "Rare"
+rare_03: [[Rare]]
 alignment: ""
 size: "grg"
-trait_01: "beast"
-trait_02: "fire"
+trait_01: [[beast]]
+trait_02: [[fire]]
 modifier: 27
 perception:
   - name: "Perception"
@@ -77,6 +78,12 @@ attacks:
   - name: "Flaming Strafe"
     desc: "`pf2:1` (fire,primal) The phoenix blazes with superheated flame and Flies up to their Speed. They deal 6d6 fire damage to each creature within 20 feet of each square they move through (DC 37 Reflex check save)."
  
+```
+
+```encounter-table
+name: Phoenix
+creatures:
+  - 1: Phoenix
 ```
 
 

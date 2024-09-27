@@ -11,7 +11,7 @@ license: OGL
 ---
 # Launch Fireworks Display `pf2:1`
 
-### [[manipulate]]
+### [[3-Rules/Rule References/Manipulate]]
 
 **Category** offensive; 
 
@@ -26,7 +26,7 @@ license: OGL
 
 **Effect** You set off a fireworks display. You can launch a normal firework to simply create a visual or audible signal within 20 feet or you can choose one of the following special effects. A firework display has the listed traits, and if it costs more than 1 batch of infused reagents, it is noted in its Cost entry.
 
-**Comet** `pf2:1` (visual) You shoot a streak of shining light in a 60-foot line. All spaces in that line are lit with bright light until the start of your next turn. As part of this action, you can also Point Out a single creature in the line, and your allies do not need to hear or understand you.
+**Comet** `pf2:1` (visual) You shoot a streak of shining light in a @Template\[line|distance:60\]. All spaces in that line are lit with bright light until the start of your next turn. As part of this action, you can also Point Out a single creature in the line, and your allies do not need to hear or understand you.
 
 **Flower** `pf2:1` (visual) You ignite a ring of sparks, creating a shape that might be reminiscent of a flower blooming in the sky. Each enemy with 20 feet of you must attempt a Fortitude save. On a failure, the enemy is [[Conditions/Dazzled|Dazzled]] for 1 round, and on a critical failure they are dazzled for 2 rounds.
 

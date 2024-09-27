@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.pathfinder-monster-core.Actor.GNwLVbfFx8EPz7xO"
 tags:
   - pf2e/creature/type/undead
   - pf2e/creature/type/unholy
+  - pf2eMonster
   - pf2e/creature/level/7
   - remaster
 statblock: inline
@@ -23,11 +24,11 @@ token: [[modules/pf2e-tokens-bestiaries/portraits/undead/dullahan.webp| ]]
 source: "Pathfinder Monster Core"
 name: "Dullahan"
 level: "Creature 7"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Medium"
-trait_01: "undead"
-trait_02: "unholy"
+trait_01: [[undead]]
+trait_02: [[unholy]]
 modifier: 14
 perception:
   - name: "Perception"
@@ -84,6 +85,12 @@ attacks:
   - name: "Summon Steed"
     desc: "`pf2:2` (occult) The dullahan summons a war horse with elite adjustments and the fiend and unholy traits. This steed remains until it is slain, the dullahan Dismisses this effect, or the dullahan Summons a Steed again."
  
+```
+
+```encounter-table
+name: Dullahan
+creatures:
+  - 1: Dullahan
 ```
 
 

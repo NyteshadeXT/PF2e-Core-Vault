@@ -9,11 +9,12 @@ tags:
   - trait/trap
   - trait/common
   - category/snare
+  - remaster
 aliases: "Compendium.pf2e.equipment-srd.Item.axU0I9xIm4xm2VPH"
-license: OGL
+license: ORC
 ---
 # Bomb Snare
-## Item 8
+## Item 6
 ### [[consumable]][[mechanical]][[snare]][[trap]]
 
 **Category** snare; 
@@ -21,7 +22,7 @@ license: OGL
 **Bulk** 0; **Size** med
 **Usage** held-in-one-hand
 
-You create a snare that catalyzes three 3rd-level moderate alchemical bombs of the same type to explode when a creature enters the snare's square. The target and all creatures in adjacent squares must attempt a DC 26 Reflex check, as the snare deals damage equal to three times the direct hit damage from one of the component bombs (for example, 6d6 electricity damage from bottled lightning) with no splash damage or other effects.
+You create a snare that catalyzes three 3rd-level moderate alchemical bombs of the same type to explode when a creature enters the snare's square. The target and all creatures in adjacent squares must attempt a DC 24 Reflex check, as the snare deals damage equal to three times the direct hit damage from one of the component bombs (for example, 6d6 electricity damage from bottled lightning) with no splash damage or other effects.
 
 * * *
 
@@ -37,5 +38,5 @@ You create a snare that catalyzes three 3rd-level moderate alchemical bombs of t
 
 **Craft Requirements** Supply three of the same damaging 3rd-level moderate alchemical bomb.
 
-*Source: Pathfinder Core Rulebook*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

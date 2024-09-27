@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.kingmaker-bestiary.Actor.GDBEHLicn4kKggis"
 tags:
   - pf2e/creature/type/animal
   - pf2e/creature/type/swarm
+  - pf2eMonster
   - pf2e/creature/level/9
 statblock: inline
 name: "Murder of Crows"
@@ -21,15 +22,16 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Kingmaker"
 name: "Murder of Crows"
 level: "Creature 9"
-rare_03: "Rare"
+rare_03: [[Rare]]
 alignment: ""
 size: "Large"
-trait_01: "animal"
-trait_02: "swarm"
+trait_01: [[animal]]
+trait_02: [[swarm]]
 modifier: 19
 perception:
   - name: "Perception"
     desc: "+19; Low-Light Vision"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Acrobatics: +19, Thievery: +19"
@@ -59,6 +61,12 @@ attacks:
   - name: "Swarming Beaks"
     desc: "`pf2:1`  The crows' angry pecking deals 2d8 piercing damage to each enemy in the swarm's space (DC 28 Reflex check). A creature that critically fails its save is [[Conditions/Blinded|Blinded]] for 1d6 rounds as the crows focus their attacks on the target's vulnerable face."
  
+```
+
+```encounter-table
+name: Murder of Crows
+creatures:
+  - 1: Murder of Crows
 ```
 
 

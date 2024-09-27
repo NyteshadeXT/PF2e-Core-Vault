@@ -14,7 +14,7 @@ license: OGL
 ---
 # Bow Staff
 ## Item 0
-### [[combination]][[deadly-d8]][[monk]]
+### [[combination]][[deadly-d8]][[3-Rules/trait_reference/monk]]
 
 |  |  |
 | -- | -- |

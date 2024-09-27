@@ -6,6 +6,7 @@ cssClasses: pf2e
 aliases: "Compendium.pf2e.pathfinder-monster-core.Actor.IyhbcdTVmkV4pSju" 
 tags:
   - pf2e/creature/type/animal
+  - pf2eMonster
   - pf2e/creature/level/2
   - remaster
 statblock: inline
@@ -25,7 +26,7 @@ level: "Creature 2"
 
 alignment: ""
 size: "Medium"
-trait_01: "animal"
+trait_01: [[animal]]
 modifier: 8
 perception:
   - name: "Perception"
@@ -63,6 +64,12 @@ attacks:
   - name: "Boar Charge"
     desc: "`pf2:2`  The boar Strides twice and then makes a tusk Strike. As long as it moved at least 20 feet, it gains a +2 circumstance bonus to its attack roll."
  
+```
+
+```encounter-table
+name: Boar
+creatures:
+  - 1: Boar
 ```
 
 

@@ -4,8 +4,9 @@ title: "Effect: Eagle Eye Elixir (Major)"
 cssclasses: pf2e,pf2e-spell
 tags:
   - trait/common
+  - remaster
 aliases: "Compendium.pf2e.equipment-effects.Item.wyLEew86nhNUXASu"
-license: OGL
+license: ORC
 ---
 # Effect: Eagle Eye Elixir (Major)
 ## Level 16
@@ -27,5 +28,5 @@ Unimplemented effects:
 
 *   Each time you pass within 10 feet of a secret door or trap, the GM automatically rolls a secret check for you to find it.
 
-*Source: Pathfinder Core Rulebook*
-*OGL*
+*Source: Pathfinder GM Core*
+*ORC*

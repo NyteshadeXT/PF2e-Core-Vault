@@ -4,8 +4,9 @@ title: "Effect: Rage"
 cssclasses: pf2e,pf2e-spell
 tags:
   - trait/common
+  - remaster
 aliases: "Compendium.pf2e.feat-effects.Item.z3uyCMBddrPK5umr"
-license: OGL
+license: ORC
 ---
 # Effect: Rage
 ## Level 1
@@ -16,23 +17,13 @@ license: OGL
 
 
 
-**Requirements** You aren't [[Conditions/Fatigued|Fatigued]] or raging
+Granted by [[Actions/Rage|Rage]]
 
-* * *
+You gain a number of temporary Hit Points equal to your level plus your Constitution modifier.
 
-You tap into your inner fury and begin raging. You gain a number of temporary Hit Points equal to your level plus your Constitution modifier. This frenzy lasts for 1 minute, until there are no enemies you can perceive, or until you fall [[Conditions/Unconscious|Unconscious]], whichever comes first. You can't voluntarily stop raging. While you are raging:
+You deal additional damage on melee Strikes. This additional damage is halved if your weapon or unarmed attack is agile.
 
-*   You deal 2 additional damage with melee weapons and unarmed attacks. This additional damage is halved if your weapon or unarmed attack is agile.
-*   You take a -1 penalty to AC.
-*   You can't use actions with the concentrate trait unless they also have the rage trait. You can [[Actions/Seek|Seek]] while raging.
+When you stop raging, you lose any remaining temporary Hit Points from Rage, and can't gain temporary Hit Points from using the Rage action again for 1 minute.
 
-After you stop raging, you lose any remaining temporary Hit Points from Rage, and you can't Rage again for 1 minute.
-
-Implemented Effects:
-
-*   Temporary hitpoint based on level and con mod
-*   Enables rage property for rage damage
-*   Sets token effect
-
-*Source: Pathfinder Core Rulebook*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

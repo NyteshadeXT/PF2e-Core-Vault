@@ -4,8 +4,9 @@ title: "Effect: Cheetah's Elixir (Greater)"
 cssclasses: pf2e,pf2e-spell
 tags:
   - trait/common
+  - remaster
 aliases: "Compendium.pf2e.equipment-effects.Item.PeuUz7JaabCgl6Yh"
-license: OGL
+license: ORC
 ---
 # Effect: Cheetah's Elixir (Greater)
 ## Level 9
@@ -18,5 +19,5 @@ license: OGL
 
 Granted by [[Equipment/Cheetah's Elixir (Greater)|Cheetah's Elixir (Greater)]]
 
-*Source: Pathfinder Core Rulebook*
-*OGL*
+*Source: Pathfinder GM Core*
+*ORC*

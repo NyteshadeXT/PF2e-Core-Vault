@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/incorporeal
   - pf2e/creature/type/undead
   - pf2e/creature/type/unholy
+  - pf2eMonster
   - pf2e/creature/level/7
   - remaster
 statblock: inline
@@ -27,9 +28,9 @@ level: "Creature 7"
 
 alignment: ""
 size: "Medium"
-trait_01: "incorporeal"
-trait_02: "undead"
-trait_03: "unholy"
+trait_01: [[incorporeal]]
+trait_02: [[undead]]
+trait_03: [[unholy]]
 modifier: 14
 perception:
   - name: "Perception"
@@ -74,8 +75,14 @@ attacks:
     desc: "  The shadow can [[Actions/Hide|Hide]] or end its [[Actions/Sneak|Sneak]] in a creature's or object's shadow."
 
   - name: "Steal Shadow"
-    desc: "`pf2:1` (divine) **Requirements** The shadow hit a living creature with a shadow hand Strike on its previous action\n* * *\n\n**Effect** The shadow pulls at the target's shadow, making the creature [[Conditions/Enfeebled 1|Enfeebled 2]] ([[Conditions/Enfeebled 1|Enfeebled 3]] on a critical hit). This is cumulative with other enfeebled conditions from shadows, to a maximum of [[Conditions/Enfeebled 1|Enfeebled 4]]. If this increases a creature's enfeebled value to 3 or more, the target's shadow is separated from its body (see shadow spawn). The enfeebled value from [[Actions/Steal|Steal]] Shadow decreases by 1 every hour."
+    desc: "`pf2:1` (divine) **Requirements** The shadow hit a living creature with a shadow hand Strike on its previous action\n* * *\n\n**Effect** The shadow pulls at the target's shadow, making the creature [[Conditions/Enfeebled|Enfeebled 2]] ([[Conditions/Enfeebled|Enfeebled 3]] on a critical hit). This is cumulative with other enfeebled conditions from shadows, to a maximum of [[Conditions/Enfeebled|Enfeebled 4]]. If this increases a creature's enfeebled value to 3 or more, the target's shadow is separated from its body (see shadow spawn). The enfeebled value from [[Actions/Steal|Steal]] Shadow decreases by 1 every hour."
  
+```
+
+```encounter-table
+name: Greater Shadow
+creatures:
+  - 1: Greater Shadow
 ```
 
 

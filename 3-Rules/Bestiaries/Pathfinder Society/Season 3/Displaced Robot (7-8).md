@@ -6,6 +6,7 @@ cssClasses: pf2e
 aliases: "Compendium.pf2e.pfs-season-3-bestiary.Actor.vuxdXTrDMv5YQ1Fx" 
 tags:
   - pf2e/creature/type/construct
+  - pf2eMonster
   - pf2e/creature/level/7
 statblock: inline
 name: "Displaced Robot (7-8)"
@@ -20,10 +21,10 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Society Special #3-99: Fate in the Future"
 name: "Displaced Robot (7-8)"
 level: "Creature 7"
-rare_03: "Rare"
+rare_03: [[Rare]]
 alignment: ""
 size: "Medium"
-trait_01: "construct"
+trait_01: [[construct]]
 modifier: 15
 perception:
   - name: "Perception"
@@ -59,11 +60,17 @@ attacks:
     desc: "`pf2:1` Laser Beam +18 (range increment 60 feet)\n__Damage__  1d10 + 3 fire"
 
   - name: "Divert Power"
-    desc: "`pf2:1`  The robot diverts additional power from one of its weapon arrays to another. Choose one of the following effects, which lasts until the end of the robot's turn.\n*   The robot's fist Strike deals an additional 1d10 electricity damage. The damage of its laser beam Strike decreases to 1d10 + 3 fire.\n*   The robot's laser beam Strike deals an additional 1d10 fire damage. The damage of its fist Strike decreases to 1d10 + 8 bludgeoning damage."
+    desc: "`pf2:1`  The robot diverts additional power from one of its weapon arrays to another. Choose one of the following effects, which lasts until the end of the robot's turn.\n\n*   The robot's fist Strike deals an additional 1d10 electricity damage. The damage of its laser beam Strike decreases to 1d10+3 fire.\n*   The robot's laser beam Strike deals an additional 1d10 fire damage. The damage of its fist Strike decreases to 1d10+8 bludgeoning damage."
 
   - name: "Jolting Arc"
     desc: "`pf2:2` (electricity) The robot releases a surge of energy, dealing 8d6 electricity damage to all adjacent creatures (DC 22 Reflex check save)."
  
+```
+
+```encounter-table
+name: Displaced Robot (7-8)
+creatures:
+  - 1: Displaced Robot (7-8)
 ```
 
 

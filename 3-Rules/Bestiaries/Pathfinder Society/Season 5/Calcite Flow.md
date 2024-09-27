@@ -4,6 +4,7 @@ obsidianUIMode: preview
 noteType: pf2eHazard
 tags:
   - environmental
+  - pf2eHazard
 
 source: Pathfinder Society Scenario #5-13: Thick as Thieves
 aliases: "Compendium.pf2e.pfs-season-5-bestiary.Actor.EXCvJfoQBmlKGWeR" 
@@ -21,7 +22,7 @@ name: "Calcite Flow"
 level: "Hazard 7"
 
 
-trait_01: "environmental"
+trait_01: [[environmental]]
 modifier: 11
 sourcebook: "_Pathfinder Society Scenario #5-13: Thick as Thieves_"
 perception:
@@ -40,9 +41,15 @@ attacks:
   - name: ""
 
   - name: "Mineral Glaze"
-    desc: "`pf2:r` **Trigger** An unattended inanimate object enters the path of the calcite flow\n**Effect** The object gains a thin shell of calcite. Breaking the shell using physical damage will harm the object underneath."
+    desc: "`pf2:r` **Trigger** An unattended inanimate object enters the path of the calcite flow\n* * *\n\n**Effect** The object gains a thin shell of calcite. Breaking the shell using physical damage will harm the object underneath."
 
 
 
+```
+
+```encounter-table
+name: Calcite Flow
+creatures:
+  - 1: Calcite Flow
 ```
 

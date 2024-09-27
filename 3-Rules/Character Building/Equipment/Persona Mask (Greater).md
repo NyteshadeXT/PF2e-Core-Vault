@@ -26,7 +26,7 @@ Despite covering the entire face, this alabaster mask does not hinder vision or 
 
 **Activate—Assume Role** `pf2:1` (concentrate)
 
-Effect You change the mask's appearance into an artistic rendition of a dramatic character of your choice.
+**Effect** You change the mask's appearance into an artistic rendition of a dramatic character of your choice.
 
 * * *
 

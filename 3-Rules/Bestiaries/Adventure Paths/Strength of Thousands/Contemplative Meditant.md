@@ -6,6 +6,7 @@ cssClasses: pf2e
 aliases: "Compendium.pf2e.strength-of-thousands-bestiary.Actor.jiCmtwIhbVrG9dB5" 
 tags:
   - pf2e/creature/type/aberration
+  - pf2eMonster
   - pf2e/creature/level/15
 statblock: inline
 name: "Contemplative Meditant"
@@ -20,18 +21,18 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #173: Doorway to the Red Star"
 name: "Contemplative Meditant"
 level: "Creature 15"
-rare_03: "Rare"
+rare_03: [[Rare]]
 alignment: ""
 size: "Medium"
-trait_01: "aberration"
+trait_01: [[aberration]]
 modifier: 29
 perception:
   - name: "Perception"
     desc: "+29; Darkvision, Thoughtsense (Imprecise) 60 Feet"
-languages: "Akitonian"
+languages: "Akitonian; telepathy 60 feet; tongues"
 skills:
   - name: "Skills"
-    desc: "Arcana: +31, Deception: +27, Dimension of Time Lore: +31, Diplomacy: +27, Medicine: +29, Nature: +27, Occultism: +33, Society: +29"
+    desc: "Arcana: +31, Deception: +27, Diplomacy: +27, Medicine: +29, Nature: +27, Occultism: +33, Society: +29, Dimension of Time Lore: +31"
 abilityMods: [-2, 6, 0, 8, 6, 4]
 speed: 5 feet,  fly 25 feet
 sourcebook: "_Pathfinder #173: Doorway to the Red Star_"
@@ -68,8 +69,14 @@ attacks:
     desc: "DC 39, attack +29; __8th __  _[[Spells/Planar Tether|Dimensional Anchor]]_, _[[Spells/Disappearance|Disappearance (Self Only)]]_, _[[Spells/Pinpoint|Discern Location]]_; __7th __  _[[Spells/Haste|Haste]]_, _[[Spells/Force Barrage|Magic Missile (x3)]]_, _[[Spells/Return To Essence|Return To Essence]]_; __6th __  _[[Spells/Sanctuary|Sanctuary]]_, _[[Spells/Slow|Slow]]_\n__Cantrips__  __(8th)__ _[[Spells/Daze|Daze]]_, _[[Spells/Ghost Sound|Ghost Sound]]_, _[[Spells/Telekinetic Hand|Mage Hand]]_, _[[Spells/Read Aura|Read Aura]]_, _[[Spells/Telekinetic Projectile|Telekinetic Projectile]]_\n__Constant__  __(8th)__ _[[Spells/Truespeech|Tongues]]_"
 
   - name: "Temporal Suppression"
-    desc: "`pf2:1` (mental,occult) **Frequency** once per round\n**Effect** The contemplative attempts to hinder a target creature's personal flow of time. The target must be within 60 feet, and once targeted must attempt a DC 36 Will check save, becoming [[Conditions/Slowed 1|Slowed 1]] on a failure or [[Conditions/Slowed 1|Slowed 2]] on a critical failure.\nEach time an affected creature ends its turn, its slowed value decreases by 1. A creature that critically succeeds on their save against Temporal Suppression is temporarily immune to it for 24 hours."
+    desc: "`pf2:1` (mental,occult) **Frequency** once per round\n* * *\n\n**Effect** The contemplative attempts to hinder a target creature's personal flow of time. The target must be within 60 feet, and once targeted must attempt a DC 36 Will check save, becoming [[Conditions/Slowed|Slowed 1]] on a failure or [[Conditions/Slowed|Slowed 2]] on a critical failure.\n\nEach time an affected creature ends its turn, its slowed value decreases by 1. A creature that critically succeeds on their save against Temporal Suppression is temporarily immune to it for 24 hours."
  
+```
+
+```encounter-table
+name: Contemplative Meditant
+creatures:
+  - 1: Contemplative Meditant
 ```
 
 

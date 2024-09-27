@@ -4,6 +4,7 @@ obsidianUIMode: preview
 noteType: pf2eHazard
 tags:
   - environmental
+  - pf2eHazard
 
 source: Pathfinder Society Scenario #5-13: Thick as Thieves
 aliases: "Compendium.pf2e.pfs-season-5-bestiary.Actor.1sNZB3csh38LOZMm" 
@@ -21,13 +22,13 @@ name: "Consonite Needles"
 level: "Hazard 5"
 
 
-trait_01: "environmental"
+trait_01: [[environmental]]
 modifier: 13
 sourcebook: "_Pathfinder Society Scenario #5-13: Thick as Thieves_"
 ac: 19
 armorclass:
   - name: AC
-    desc: "19; __Fort__ +9, __Ref__ +15, __Will__ +0"
+    desc: "19; __Fort__ +9, __Ref__ +15, "
 hp: 8
 health:
   - name: ""
@@ -49,9 +50,15 @@ attacks:
   - name: ""
 
   - name: "Needle Fall"
-    desc: "`pf2:r` **Trigger** A creature touches any consonite needle\n**Effect** The needle snaps, and the vibrations resonate with some of the surrounding needles. The falling minerals deal 2d8 + 7 untyped damage to creatures within a 5-foot burst surrounding the triggering individual (DC 22 Reflex check save). The needle fall doesn't involve every consonite growth within these squares, so can be triggered again from the same location."
+    desc: "`pf2:r` **Trigger** A creature touches any consonite needle\n* * *\n\n**Effect** The needle snaps, and the vibrations resonate with some of the surrounding needles. The falling minerals deal 2d8+7 untyped damage to creatures within a @Template[burst|distance:5] surrounding the triggering individual (DC 22 Reflex check save). The needle fall doesn't involve every consonite growth within these squares, so can be triggered again from the same location."
 
 
 
+```
+
+```encounter-table
+name: Consonite Needles
+creatures:
+  - 1: Consonite Needles
 ```
 

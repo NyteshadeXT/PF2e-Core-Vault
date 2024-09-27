@@ -15,7 +15,7 @@ license: OGL
 ---
 # Death Coil
 ## Item 20
-### [rare](rare "Rare Rarity Trait")[[consumable]][[3-Rules/Rule References/Electricity]][[mechanical]][[snare]][[trap]]
+### [rare](rare.md "Rare Rarity Trait")[[consumable]][[3-Rules/Rule References/Electricity]][[mechanical]][[snare]][[trap]]
 
 **Category** snare; 
 **Price** 9000 gp; 
@@ -30,9 +30,9 @@ This modified Stasian coil of metal and glass stands about three feet tall. It a
 
 **Success** The creature takes half damage.
 
-**Failure** The creature takes full damage and is [[Conditions/Stunned 1|Stunned 2]].
+**Failure** The creature takes full damage and is [[Conditions/Stunned|Stunned 2]].
 
-**Critical Failure** The creature takes double damage is [[Conditions/Stunned 1|Stunned 4]].
+**Critical Failure** The creature takes double damage is [[Conditions/Stunned|Stunned 4]].
 
 *Source: Pathfinder Guns & Gears*
 *OGL*

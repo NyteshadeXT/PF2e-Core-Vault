@@ -9,8 +9,9 @@ tags:
   - trait/trap
   - trait/uncommon
   - category/snare
+  - remaster
 aliases: "Compendium.pf2e.equipment-srd.Item.s9dtRS2SRTqzGdOF"
-license: OGL
+license: ORC
 ---
 # Stalker Bane Snare
 ## Item 4
@@ -33,5 +34,5 @@ This snare explodes in a burst of cloying powder that can cling to a creature st
 
 **Critical Failure** As failure, and the creature is blinded until the end of its next turn.
 
-*Source: Pathfinder Core Rulebook*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

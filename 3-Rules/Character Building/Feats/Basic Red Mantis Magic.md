@@ -6,8 +6,9 @@ tags:
   - trait/archetype
   - trait/common
   - category/class
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.6RjilN93bgy34y3H"
-license: OGL
+license: ORC
 ---
 # Basic Red Mantis Magic
 ## Feat 4
@@ -19,9 +20,9 @@ license: OGL
 
 **Prerequisites** trained in Religion; Red Mantis Assassin Dedication
 * * *
-You have learned limited divine magic from your Red Mantis training. You gain the Cast a Spell activity. You're a prepared spellcaster, able to prepare two cantrips and one 1st-rank spell each day. You prepare these spells from a Red Mantis assassin spellbook, similar to a wizard's, containing three cantrips and two 1st-rank spells. All the spells in your Red Mantis assassin spellbook, from this and later feats, must be either transmutation or illusion spells from the arcane spell list or a spell from the following list: [[Spells/Clairaudience|Clairaudience]], [[Spells/Clairvoyance|Clairvoyance]], [[Spells/Darkness|Darkness]], [[Spells/Translocate|Translocate]], [[Spells/Rewrite Memory|Rewrite Memory]], [[Spells/Mist|Mist]], [[Spells/Paralyze|Paralyze]], [[Spells/See the Unseen|See the Unseen]], [[Spells/Sure Strike|Sure Strike]]. Regardless of their usual magical tradition, your Red Mantis assassin spells are divine spells, as are any Red Mantis focus spells you gain.
+You have learned limited divine magic from your Red Mantis training. You gain the Cast a Spell activity. You can prepare two common cantrips each day from the divine spell list or any other divine cantrips you have access to. You also gain the basic spellcasting benefits. You're trained in the spell attack modifier and spell DC statistics. Your key spellcasting attribute for the Red Mantis archetype spells is Charisma, and they are divine Red Mantis spells. If you gain a Focus Pool from any Red Mantis Assassin class feats, you can Refocus by praying to Achaekek or researching your assigned kill.
 
-You can prepare two cantrips and one 1st-rank spell each day from those found in your Red Mantis assassin spellbook. You're trained in spell attack rolls and spell DCs for casting divine spells. Your key spellcasting ability for these spells is Charisma.
+You also have access to the [[Class Features/Red Mantis Magic School|Red Mantis Magic School]]. In addition to preparing spells from the divine spell list, you can prepare spells from this school. Regardless of their usual magic tradition, when you prepare spells from this school, they are divine spells, as are any Red Mantis focus spells you gain.
 
-*Source: Pathfinder Lost Omens: World Guide*
-*OGL*
+*Source: Pathfinder Adventure: Prey for Death*
+*ORC*

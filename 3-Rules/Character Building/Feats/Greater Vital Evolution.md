@@ -6,8 +6,9 @@ tags:
   - trait/sorcerer
   - trait/common
   - category/class
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.ND3nKsXCDBShUgYc"
-license: OGL
+license: ORC
 ---
 # Greater Vital Evolution
 ## Feat 16
@@ -19,7 +20,7 @@ license: OGL
 
 **Prerequisites** Divine Evolution or Primal Evolution
 * * *
-Vital power surges through you like a font of energy. Twice per day, you can cast a spell after you've run out of spell slots of the appropriate spell rank; the two spells you cast with this feat must be ofspell rankspell levels.
+Vital power surges through you like a font of energy. Twice per day, you can cast a spell after you've run out of spell slots of the appropriate spell rank; the two spells you cast with this feat must be of different spell ranks.
 
-*Source: Pathfinder Core Rulebook*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

@@ -7,8 +7,9 @@ tags:
   - trait/skill
   - trait/common
   - category/skill
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.g3zmkEVJJIjE32fY"
-license: OGL
+license: ORC
 ---
 # Scholastic Identification
 ## Feat 7
@@ -26,5 +27,5 @@ You can use Society when [[Actions/Decipher Writing|Deciphering Writing]], no ma
 
 You can also use Society to [[Actions/Identify Magic|Identify Magic]] when examining a magic item or location with cultural significance.
 
-*Source: Pathfinder Advanced Player's Guide*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

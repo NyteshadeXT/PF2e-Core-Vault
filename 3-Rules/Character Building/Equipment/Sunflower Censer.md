@@ -3,6 +3,7 @@ obsidianUIMode: preview
 title: "Sunflower Censer"
 cssclasses: pf2e,pf2e-spell
 tags:
+  - trait/illusion
   - trait/magical
   - trait/rare
 aliases: "Compendium.pf2e.equipment-srd.Item.ZeXTbx8MhQQ6ylhU"
@@ -10,7 +11,7 @@ license: OGL
 ---
 # Sunflower Censer
 ## Item 8
-### [rare](rare "Rare Rarity Trait")[[magical]]
+### [rare](rare "Rare Rarity Trait")[[illusion]][[magical]]
 
 
 **Price** 480 gp; 

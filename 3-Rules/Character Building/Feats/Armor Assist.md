@@ -7,8 +7,9 @@ tags:
   - trait/skill
   - trait/common
   - category/skill
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.Lc4dJZivRwU3QEmT"
-license: OGL
+license: ORC
 ---
 # Armor Assist
 ## Feat 1
@@ -26,5 +27,5 @@ You can attempt an Athletics or Warfare Lore check with a DC determined by the G
 
 You can halve an ally's time to don armor by working with them to don the armor and succeeding at an Athletics or Warfare Lore check against the same DC.
 
-*Source: Pathfinder Advanced Player's Guide*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

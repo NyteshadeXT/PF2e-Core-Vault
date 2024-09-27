@@ -37,9 +37,9 @@ Shadows swirl around this soot-black tome, swallowing up any light that touches 
 
 **Critical Success** The creature is unaffected.
 
-**Success** The creature is [[Conditions/Blinded|Blinded]] for 1 round and [[Conditions/Drained 1|Drained 1]] as the shadows scrape across it.
+**Success** The creature is [[Conditions/Blinded|Blinded]] for 1 round and [[Conditions/Drained|Drained 1]] as the shadows scrape across it.
 
-**Failure** The creature is blinded for 1 minute and [[Conditions/Drained 1|Drained 2]] as the shadows seize it.
+**Failure** The creature is blinded for 1 minute and [[Conditions/Drained|Drained 2]] as the shadows seize it.
 
 **Critical Failure** As failure, but the shadows also pull the creature into the tome, teleporting it to the Shadow Plane.
 

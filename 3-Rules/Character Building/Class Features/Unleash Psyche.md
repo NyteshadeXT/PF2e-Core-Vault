@@ -3,6 +3,7 @@ obsidianUIMode: preview
 title: "Unleash Psyche"
 cssclasses: pf2e,pf2e-spell
 tags:
+  - trait/psychic
   - trait/common
   - category/classfeature
 aliases: "Compendium.pf2e.classfeatures.Item.HwUps0waR29bwlTI"
@@ -10,7 +11,7 @@ license: OGL
 ---
 # Unleash Psyche
 ## Feat 1
-### 
+### [[psychic]]
 
 **Category** classfeature; 
 

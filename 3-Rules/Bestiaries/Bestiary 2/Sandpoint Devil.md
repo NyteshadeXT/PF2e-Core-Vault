@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/fiend
   - pf2e/creature/type/unholy
+  - pf2eMonster
   - pf2e/creature/level/8
 statblock: inline
 name: "Sandpoint Devil"
@@ -24,13 +25,13 @@ token: [[modules/pf2e-tokens-bestiaries/portraits/bestial/mythological/sandpoint
 source: "Pathfinder Bestiary 2"
 name: "Sandpoint Devil"
 level: "Creature 8"
-rare_03: "Rare"
+rare_03: [[Rare]]
 alignment: ""
 size: "Large"
-trait_01: "beast"
-trait_02: "evil"
-trait_03: "fiend"
-trait_04: "unholy"
+trait_01: [[beast]]
+trait_02: [[evil]]
+trait_03: [[fiend]]
+trait_04: [[unholy]]
 modifier: 16
 perception:
   - name: "Perception"
@@ -57,7 +58,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "[[Bestiary Ability Glossary/Attack of Opportunity|Attack of Opportunity (Hoof Only)]]"
-    desc: "`pf2:r`  Hoof only\n"
+    desc: "`pf2:r`  Hoof only\n\n* * *\n"
 
 attacks:
   - name: ""
@@ -72,14 +73,20 @@ attacks:
     desc: "DC 23, attack +15; __4th __  _[[Spells/Translocate|Dimension Door]]_, _[[Spells/Phantasmal Killer|Phantasmal Killer]]_; __3rd __  _[[Spells/Stinking Cloud|Stinking Cloud]]_; __2nd __  _[[Spells/Mist|Obscuring Mist]]_; __1st __  _[[Spells/Gust of Wind|Gust of Wind (At will)]]_\n__Cantrips__  __(4th)__ _[[Spells/Produce Flame|Produce Flame]]_"
 
   - name: "Accursed Breath"
-    desc: "`pf2:2` (curse,fire,occult) The Sandpoint Devil breathes a 30-foot cone of flame that deals 6d10 fire damage. Each creature in the area must attempt a DC 26 Reflex check save.\nThe Sandpoint Devil can't use Accursed Breath for 1d4 rounds.\n**Critical Success** The creature is unaffected.\n**Success** The creature takes half damage.\nFailure The creature takes full damage and is [[Conditions/Sickened 1|Sickened 2]] by the agonizing pain of its burns.\n**Critical Failure** The creature takes full damage and is cursed. The victim's flesh appears charred and burned, and the pain of being burned alive never fully vanishes. The cursed creature takes a -2 status penalty to all checks from the constant pain. Healing doesn't alter the appearance of the burns or lessen the penalty, but removing the curse does."
+    desc: "`pf2:2` (curse,fire,occult) The Sandpoint Devil breathes a @Template[cone|distance:30] of flame that deals 6d10 fire damage. Each creature in the area must attempt a DC 26 Reflex check save.\n\nThe Sandpoint Devil can't use Accursed Breath for 1d4 rounds.\n* * *\n\n**Critical Success** The creature is unaffected.\n\n**Success** The creature takes half damage.\n\n**Failure** The creature takes full damage and is [[Conditions/Sickened|Sickened 2]] by the agonizing pain of its burns.\n\n**Critical Failure** The creature takes full damage and is cursed. The victim's flesh appears charred and burned, and the pain of being burned alive never fully vanishes. The cursed creature takes a -2 status penalty to all checks from the constant pain. Healing doesn't alter the appearance of the burns or lessen the penalty, but removing the curse does."
 
   - name: "Devil's Howl"
-    desc: "`pf2:2` (auditory,emotion,fear,mental,occult) The Sandpoint Devil unleashes a bloodcurdling howl that can be heard for miles. Each creature within a 100-foot emanation must succeed at a DC 26 Will check save or become [[Conditions/Frightened 1|Frightened 2]] ([[Conditions/Frightened 1|Frightened 3]] and fleeing as long as it remains frightened on a critical failure).\nCreatures that attempt this Will save are then immune to Devil's Howl for 24 hours."
+    desc: "`pf2:2` (auditory,emotion,fear,mental,occult) The Sandpoint Devil unleashes a bloodcurdling howl that can be heard for miles. Each creature within a @Template[emanation|distance:100] must succeed at a DC 26 Will check save or become [[Conditions/Frightened|Frightened 2]] ([[Conditions/Frightened|Frightened 3]] and fleeing as long as it remains frightened on a critical failure).\n\nCreatures that attempt this Will save are then immune to Devil's Howl for 24 hours."
 
   - name: "[[Bestiary Ability Glossary/Trample|Trample]]"
-    desc: "`pf2:3`  Medium or smaller, hoof, DC 23 Reflex check\n"
+    desc: "`pf2:3`  Medium or smaller, hoof, DC 23 Reflex check\n\n* * *\n"
  
+```
+
+```encounter-table
+name: Sandpoint Devil
+creatures:
+  - 1: Sandpoint Devil
 ```
 
 

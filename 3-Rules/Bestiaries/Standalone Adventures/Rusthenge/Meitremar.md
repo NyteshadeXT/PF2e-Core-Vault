@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/human
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/3
 statblock: inline
 name: "Meitremar"
@@ -23,13 +24,13 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Adventure: Rusthenge"
 name: "Meitremar"
 level: "Creature 3"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Medium"
-trait_01: "chaotic"
-trait_02: "evil"
-trait_03: "human"
-trait_04: "humanoid"
+trait_01: [[chaotic]]
+trait_02: [[evil]]
+trait_03: [[human]]
+trait_04: [[humanoid]]
 modifier: 7
 perception:
   - name: "Perception"
@@ -66,7 +67,7 @@ attacks:
     desc: "DC 20, attack +12; __2nd __ (3 slots) _[[Spells/Enlarge|Enlarge]]_, _[[Spells/Ghoulish Cravings|Ghoulish Cravings]]_, _[[Spells/Harm|Harm]]_, _[[Spells/Sudden Blight|Sudden Blight]]_; __1st __ (4 slots) _[[Spells/Bane|Bane]]_, _[[Spells/Command|Command]]_, _[[Spells/Fear|Fear]]_, _[[Spells/Heal|Heal]]_\n__Cantrips__  __(2nd)__ _[[Spells/Acid Splash|Acid Splash]]_, _[[Spells/Divine Lance|Divine Lance]]_, _[[Spells/Guidance|Guidance]]_, _[[Spells/Light|Light]]_, _[[Spells/Shield|Shield]]_, _[[Spells/Sigil|Sigil]]_"
 
   - name: "Demonic Bloodline Spells"
-    desc: "1 Focus Point, DC 20, attack +12; __2nd __  _[[Spells/Glutton's Jaw|Glutton's Jaw]]_"
+    desc: "1 Focus Point, DC 20, attack +12; __2nd __  _[[Spells/Glutton's Jaws|Glutton's Jaw]]_"
 
   - name: "Rituals"
     desc: "_[[Spells/Create Undead|Create Undead]]_, _[[Spells/Inveigle|Inveigle]]_"
@@ -77,6 +78,12 @@ attacks:
   - name: "Signature Spell"
     desc: "  Meitremar can heighten [[Spells/Heal|Heal]] spells freely."
  
+```
+
+```encounter-table
+name: Meitremar
+creatures:
+  - 1: Meitremar
 ```
 
 

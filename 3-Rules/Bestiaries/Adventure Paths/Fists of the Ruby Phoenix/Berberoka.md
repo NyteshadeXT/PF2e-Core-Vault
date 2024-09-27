@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/giant
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/15
 statblock: inline
 name: "Berberoka"
@@ -22,12 +23,12 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #166: Despair on Danger Island"
 name: "Berberoka"
 level: "Creature 15"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "huge"
-trait_01: "evil"
-trait_02: "giant"
-trait_03: "humanoid"
+trait_01: [[evil]]
+trait_02: [[giant]]
+trait_03: [[humanoid]]
 modifier: 26
 perception:
   - name: "Perception"
@@ -35,7 +36,7 @@ perception:
 languages: "Common, Jotun"
 skills:
   - name: "Skills"
-    desc: "Athletics: +31, Deception: +27 (+31 to Impersonate a small mound or island in its native environment), Intimidation: +25, Nature: +26, Stealth: +25, Survival: +26"
+    desc: "Athletics: +31, Deception: +27, Intimidation: +25, Nature: +26, Stealth: +25, Survival: +26"
 abilityMods: [8, 4, 6, -1, 3, 4]
 speed: 30 feet,  swim 30 feet
 sourcebook: "_Pathfinder #166: Despair on Danger Island_"
@@ -55,7 +56,7 @@ abilities_top:
     desc: "  A berberoka can hold their breath for 2 hours"
 
   - name: "Fear of Crabs"
-    desc: " (emotion,fear,mental) If a berberoka sees a crab or crab-like creature, the berberoka must attempt a DC 33 Will check save. They then becomes immune to the sight of that creature for 10 minutes.\n**Critical Success** The berberoka is unaffected.\n**Success** The berberoka becomes [[Conditions/Frightened 1|Frightened 2]].\n**Failure** The berberoka gains the [[Conditions/Fleeing|Fleeing]] condition for 1 round and is [[Conditions/Frightened 1|Frightened 4]]."
+    desc: " (emotion,fear,mental) If a berberoka sees a crab or crab-like creature, the berberoka must attempt a DC 33 Will check save. They then becomes immune to the sight of that creature for 10 minutes.\n* * *\n\n**Critical Success** The berberoka is unaffected.\n\n**Success** The berberoka becomes [[Conditions/Frightened|Frightened 2]].\n\n**Failure** The berberoka gains the [[Conditions/Fleeing|Fleeing]] condition for 1 round and is [[Conditions/Frightened|Frightened 4]]."
 
 abilities_mid:
   - name: ""
@@ -69,17 +70,23 @@ attacks:
     desc: "`pf2:1` Fist +31 (reach 15 feet)\n__Damage__  3d12 + 16 bludgeoning plus grab"
 
   - name: "Consume Lake"
-    desc: " (manipulate) The berberoka drinks a prolific amount from an adjacent water source. If the water source is equal to or greater in volume than themself, the berberoka consumes up to 1,500 gallons of water per minute and becomes waterlogged. They can release water at the same rate. While waterlogged, the berberoka can use Spray Water, their size grows to Gargantuan, and their Speed is reduced to 15 feet.\n[[Bestiary Effects/Effect_ Waterlogged|Effect: Waterlogged]]"
+    desc: " (manipulate) The berberoka drinks a prolific amount from an adjacent water source. If the water source is equal to or greater in volume than themself, the berberoka consumes up to 1,500 gallons of water per minute and becomes waterlogged. They can release water at the same rate. While waterlogged, the berberoka can use Spray Water, their size grows to Gargantuan, and their Speed is reduced to 15 feet.\n\n[[Bestiary Effects/Effect_ Waterlogged|Effect: Waterlogged]]"
 
   - name: "[[Bestiary Ability Glossary/Greater Constrict|Greater Constrict]]"
-    desc: "`pf2:1`  2d12 + 12 bludgeoning damage, DC 33 Fortitude check\n"
+    desc: "`pf2:1`  2d12+12 bludgeoning damage, DC 33 Fortitude check\n\n* * *\n"
 
   - name: "Spray Water"
-    desc: "`pf2:2`  **Requirements** The berberoka is waterlogged.\n**Effect** The berberoka sprays a blast of water in a 60-foot line. All creatures in the line take 6d8 bludgeoning damage (DC 35 Reflex check save). On a failed save, a creature is knocked [[Conditions/Prone|Prone]] and pushed back 5 feet (10 feet on a critically failed save)."
+    desc: "`pf2:2`  **Requirements** The berberoka is waterlogged.\n* * *\n\n**Effect** The berberoka sprays a blast of water in a @Template[line|distance:60]. All creatures in the line take 6d8 bludgeoning damage (DC 35 Reflex check save). On a failed save, a creature is knocked [[Conditions/Prone|Prone]] and pushed back 5 feet (10 feet on a critically failed save)."
 
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
     desc: "`pf2:1`  "
  
+```
+
+```encounter-table
+name: Berberoka
+creatures:
+  - 1: Berberoka
 ```
 
 

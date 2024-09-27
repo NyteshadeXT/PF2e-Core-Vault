@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/undead
   - pf2e/creature/type/unholy
+  - pf2eMonster
   - pf2e/creature/level/15
 statblock: inline
 name: "Facetbound Nullifier"
@@ -22,12 +23,12 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #185: A Taste of Ashes"
 name: "Facetbound Nullifier"
 level: "Creature 15"
-rare_03: "Rare"
+rare_03: [[Rare]]
 alignment: ""
 size: "Medium"
-trait_01: "evil"
-trait_02: "undead"
-trait_03: "unholy"
+trait_01: [[evil]]
+trait_02: [[undead]]
+trait_03: [[unholy]]
 modifier: 25
 perception:
   - name: "Perception"
@@ -64,7 +65,7 @@ abilities_mid:
     desc: "`pf2:r`  The nullifier can also make attacks of opportunity against concentrate actions to Cast a Spell, and it disrupts that action on any hit, not just a critical hit."
 
   - name: "Defensive Dispel"
-    desc: "`pf2:r` (arcane) **Trigger** The nullifier is the target of a spell\n**Effect** The nullifier attempts to counteract the triggering spell, with a counteract modifier of +27. This can be used only on spells that target the nullifier, not area spells that don't have targets. If it succeeds, it counteracts the spell for all targets, if other creatures were targeted in addition to the nullifier."
+    desc: "`pf2:r` (arcane) **Trigger** The nullifier is the target of a spell\n* * *\n\n**Effect** The nullifier attempts to counteract the triggering spell, with a counteract modifier of +27. This can be used only on spells that target the nullifier, not area spells that don't have targets. If it succeeds, it counteracts the spell for all targets, if other creatures were targeted in addition to the nullifier."
 
 attacks:
   - name: ""
@@ -82,8 +83,14 @@ attacks:
     desc: "  A nullifier's melee Strikes deal an additional 2d10 force damage (already included in the Strikes above)."
 
   - name: "Sever Spell"
-    desc: "`pf2:1` (arcane,attack) **Frequency** once per round\n**Effect** The nullifier makes a melee Strike against a target. If the attack hits, the nullifier attempts to counteract a spell or magical effect on the target (of the nullifier's choice), with a counteract modifier of +27. The target is temporarily immune to Sever Spell for 24 hours."
+    desc: "`pf2:1` (arcane,attack) **Frequency** once per round\n* * *\n\n**Effect** The nullifier makes a melee Strike against a target. If the attack hits, the nullifier attempts to counteract a spell or magical effect on the target (of the nullifier's choice), with a counteract modifier of +27. The target is temporarily immune to Sever Spell for 24 hours."
  
+```
+
+```encounter-table
+name: Facetbound Nullifier
+creatures:
+  - 1: Facetbound Nullifier
 ```
 
 

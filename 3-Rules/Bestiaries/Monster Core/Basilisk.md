@@ -6,6 +6,7 @@ cssClasses: pf2e
 aliases: "Compendium.pf2e.pathfinder-monster-core.Actor.mX47c0W9rizbmMBM" 
 tags:
   - pf2e/creature/type/beast
+  - pf2eMonster
   - pf2e/creature/level/5
   - remaster
 statblock: inline
@@ -25,7 +26,7 @@ level: "Creature 5"
 
 alignment: ""
 size: "Medium"
-trait_01: "beast"
+trait_01: [[beast]]
 modifier: 11
 perception:
   - name: "Perception"
@@ -52,7 +53,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Petrifying Glance"
-    desc: "`pf2:r` (arcane,aura,visual) 30 feet.\n\n**Trigger** A creature within 30 feet that the basilisk can see starts its turn.\n* * *\n\n**Effect** The target must attempt a DC 20 Fortitude check save. If it fails, it's [[Conditions/Slowed 1|Slowed 1]] for 1 minute as its body slowly stiffens."
+    desc: "`pf2:r` (arcane,aura,visual) 30 feet.\n\n**Trigger** A creature within 30 feet that the basilisk can see starts its turn.\n* * *\n\n**Effect** The target must attempt a DC 20 Fortitude check save. If it fails, it's [[Conditions/Slowed|Slowed 1]] for 1 minute as its body slowly stiffens."
 
 attacks:
   - name: ""
@@ -61,8 +62,14 @@ attacks:
     desc: "`pf2:1` Jaws +15 ()\n__Damage__  2d8 + 4 piercing"
 
   - name: "Petrifying Gaze"
-    desc: "`pf2:2` (arcane,concentrate,incapacitation,visual) The basilisk stares at a creature it can see within 30 feet. That creature must attempt a DC 22 Fortitude check save. If it fails and has not already been slowed by Petrifying Glance or this ability, it becomes [[Conditions/Slowed 1|Slowed 1]]. If the creature was already slowed by this ability or Petrifying Glance, a failed save causes the creature to be petrified permanently.\n\nA creature petrified in this manner that is coated (not just splashed) with fresh basilisk blood no more than 1 hour old is instantly restored to flesh. A single basilisk contains enough blood to coat 1d4 Medium creatures in this manner."
+    desc: "`pf2:2` (arcane,concentrate,incapacitation,visual) The basilisk stares at a creature it can see within 30 feet. That creature must attempt a DC 22 Fortitude check save. If it fails and has not already been slowed by Petrifying Glance or this ability, it becomes [[Conditions/Slowed|Slowed 1]]. If the creature was already slowed by this ability or Petrifying Glance, a failed save causes the creature to be petrified permanently.\n\nA creature petrified in this manner that is coated (not just splashed) with fresh basilisk blood no more than 1 hour old is instantly restored to flesh. A single basilisk contains enough blood to coat 1d4 Medium creatures in this manner."
  
+```
+
+```encounter-table
+name: Basilisk
+creatures:
+  - 1: Basilisk
 ```
 
 

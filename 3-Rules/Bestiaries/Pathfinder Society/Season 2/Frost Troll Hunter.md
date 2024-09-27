@@ -10,6 +10,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/giant
   - pf2e/creature/type/troll
+  - pf2eMonster
   - pf2e/creature/level/6
 statblock: inline
 name: "Frost Troll Hunter"
@@ -24,14 +25,14 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Society Scenario #2-04: Path of Kings"
 name: "Frost Troll Hunter"
 level: "Creature 6"
-rare_03: "Rare"
+rare_03: [[Rare]]
 alignment: ""
 size: "Large"
-trait_01: "chaotic"
-trait_02: "cold"
-trait_03: "evil"
-trait_04: "giant"
-trait_05: "troll"
+trait_01: [[chaotic]]
+trait_02: [[cold]]
+trait_03: [[evil]]
+trait_04: [[giant]]
+trait_05: [[troll]]
 modifier: 15
 perception:
   - name: "Perception"
@@ -80,11 +81,17 @@ attacks:
     desc: "  A frost troll hunter isn't impeded by difficult terrain caused by snow or ice, nor do they need to attempt Acrobatics checks to keep from falling on slippery ice."
 
   - name: "[[Bestiary Ability Glossary/Rend|Rend]]"
-    desc: "`pf2:1`  Claw\n"
+    desc: "`pf2:1`  Claw\n\n* * *\n"
 
   - name: "Skirmish Strike"
     desc: "`pf2:1` (flourish) The frost troll hunter's feet and weapons move in tandem. They can either Step and then Strike, or Strike and then Step."
  
+```
+
+```encounter-table
+name: Frost Troll Hunter
+creatures:
+  - 1: Frost Troll Hunter
 ```
 
 

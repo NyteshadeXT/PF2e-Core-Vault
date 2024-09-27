@@ -8,8 +8,9 @@ tags:
   - trait/skill
   - trait/common
   - category/skill
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.Crd3qMecF9FYHjuH"
-license: OGL
+license: ORC
 ---
 # Read Shibboleths
 ## Feat 7
@@ -29,5 +30,5 @@ Once you've gleaned one or more true minor facts about a person, you can then in
 
 [[Feat_Feature Effects/Effect_ Read Shibboleths|Effect: Read Shibboleths]]
 
-*Source: Pathfinder Advanced Player's Guide*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

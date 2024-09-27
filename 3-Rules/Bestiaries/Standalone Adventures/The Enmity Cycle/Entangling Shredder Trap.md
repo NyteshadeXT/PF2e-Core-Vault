@@ -5,6 +5,7 @@ noteType: pf2eHazard
 tags:
   - mechanical
   - trap
+  - pf2eHazard
 
 source: Pathfinder Adventure: The Enmity Cycle
 aliases: "Compendium.pf2e.the-enmity-cycle-bestiary.Actor.9ochTIvh3CTSOknf" 
@@ -22,14 +23,14 @@ name: "Entangling Shredder Trap"
 level: "Hazard 6"
 
 
-trait_01: "mechanical"
-trait_02: "trap"
+trait_01: [[mechanical]]
+trait_02: [[trap]]
 modifier: 15
 sourcebook: "_Pathfinder Adventure: The Enmity Cycle_"
 ac: 22
 armorclass:
   - name: AC
-    desc: "22; __Fort__ +11, __Ref__ +16, __Will__ +0"
+    desc: "22; __Fort__ +11, __Ref__ +16, "
 hp: 54
 health:
   - name: ""
@@ -51,12 +52,12 @@ attacks:
   - name: ""
 
   - name: "Entangling Ropes"
-    desc: "`pf2:r` (attack) **Trigger** Two creatures enter the hallway or end their turn in the hallway\n**Effect** The trap makes a barbed rope Strike against the triggering creatures. This trap doesn't take a multiple attack penalty."
+    desc: "`pf2:r` (attack) **Trigger** Two creatures enter the hallway or end their turn in the hallway\n* * *\n\n**Effect** The trap makes a barbed rope Strike against the triggering creatures. This trap doesn't take a multiple attack penalty."
   - name: "Melee"
     desc: "Barbed Rope +20 () "
 
   - name: "Grasping Ropes"
-    desc: "passive The ropes whip around the limbs of the target. The target must attempt a DC 25 Reflex check save.\n**Success** The target is unaffected.\n**Failure** The target is [[Conditions/Off-Guard|Off-Guard]] until it cuts the ropes or [[Actions/Escape|Escapes]] (DC 25).\n**Critical Failure** As failure, but the target is also [[Conditions/Immobilized|Immobilized]]."
+    desc: "passive The ropes whip around the limbs of the target. The target must attempt a DC 25 Reflex check save.\n* * *\n\n**Success** The target is unaffected.\n\n**Failure** The target is [[Conditions/Off-Guard|Off-Guard]] until it cuts the ropes or [[Actions/Escape|Escapes]] (DC 25).\n\n**Critical Failure** As failure, but the target is also [[Conditions/Immobilized|Immobilized]]."
 
   - name: "No MAP"
     desc: "passive This trap doesn't take a multiple attack penalty."
@@ -64,5 +65,11 @@ attacks:
 
   - name: "Reset"
     desc: ""
+```
+
+```encounter-table
+name: Entangling Shredder Trap
+creatures:
+  - 1: Entangling Shredder Trap
 ```
 

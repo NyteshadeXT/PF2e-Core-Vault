@@ -23,7 +23,7 @@ This shimmery metal cane is both an assistive device and a popular companion for
 
 * * *
 
-**Activate—Silver Snake Sword**`pf2:1` (concentrate, polymorph)
+**Activate—Silver Snake Sword** `pf2:1` (concentrate, polymorph)
 
 **Effect** The silver snake cane becomes a _+1 striking silver sword cane_ for 10 minutes. If the cane holds a dose of poison with the injury trait, that poison is automatically applied to the weapon. If the poison hasn't been expended by the time the cane turns back to normal, it remains stored in the cane. You can Dismiss this activation.
 
@@ -39,7 +39,7 @@ This shimmery metal cane is both an assistive device and a popular companion for
 
 * * *
 
-**Activate—True Silver Snake**`pf2:1` (concentrate)
+**Activate—True Silver Snake** `pf2:1` (concentrate)
 
 **Prerequisites** You're a zuhra
 

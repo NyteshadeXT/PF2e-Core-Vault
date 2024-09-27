@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/human
   - pf2e/creature/type/humanoid
   - pf2e/creature/type/troop
+  - pf2eMonster
   - pf2e/creature/level/15
 statblock: inline
 name: "Hana&#x27;s Hundreds"
@@ -22,12 +23,12 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #166: Despair on Danger Island"
 name: "Hana's Hundreds"
 level: "Creature 15"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Medium"
-trait_01: "human"
-trait_02: "humanoid"
-trait_03: "troop"
+trait_01: [[human]]
+trait_02: [[humanoid]]
+trait_03: [[troop]]
 modifier: 23
 perception:
   - name: "Perception"
@@ -60,20 +61,26 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "[[Bestiary Ability Glossary/Troop Defenses|Troop Defenses]]"
-    desc: "  **Thresholds** 180 (12 squares), 90 (8 squares)\n"
+    desc: "  **Thresholds** 180 (12 squares), 90 (8 squares)\n\n* * *\n"
 
 attacks:
   - name: ""
 
   - name: "Rain of Knives"
-    desc: "`pf2:2`  Hana's Hundreds launch a volley of throwing knives in a 10-foot burst within 50 feet that deals4d6 + 13 piercing damage (DC 33 Reflex check). When the team is reduced to 8 or fewer squares, this area decreases to a 5-foot burst"
+    desc: "`pf2:2`  Hana's Hundreds launch a volley of throwing knives in a @Template[burst|distance:10] within 50 feet that deals4d6+13 piercing damage (DC 33 Reflex check). When the team is reduced to 8 or fewer squares, this area decreases to a @Template[burst|distance:5]"
 
   - name: "Run Them Over!"
-    desc: "`pf2:3`  Hana's Hundreds attempt to trample all foes in their way. The team Forms Up and Strides twice, moving through the space of Medium or smaller creatures. Each creature the team moves through takes4d8 + 14 bludgeoning damage (DC 33 Reflex check save). On a critical failure, the creature is also knocked [[Conditions/Prone|Prone]]."
+    desc: "`pf2:3`  Hana's Hundreds attempt to trample all foes in their way. The team Forms Up and Strides twice, moving through the space of Medium or smaller creatures. Each creature the team moves through takes4d8+14 bludgeoning damage (DC 33 Reflex check save). On a critical failure, the creature is also knocked [[Conditions/Prone|Prone]]."
 
   - name: "Whirlwind of Blades"
-    desc: "`pf2:1`  `pf2:1` to `pf2:3`\n**Frequency** once per round\nHana's Hundreds flail their swords wildly at each enemy adjacent to the team (DC 33 Reflex check save). The damage depends on the number of actions.\n`pf2:1` 2d8 slashing damage\n`pf2:2` 3d8 + 13 slashing damage\n`pf2:3` 4d8 + 16 slashing damage"
+    desc: "`pf2:1`  `pf2:1` to `pf2:3`\n\n**Frequency** once per round\n\nHana's Hundreds flail their swords wildly at each enemy adjacent to the team (DC 33 Reflex check save). The damage depends on the number of actions.\n* * *\n\n`pf2:1` 2d8 slashing damage\n\n`pf2:2` 3d8+13 slashing damage\n\n`pf2:3` 4d8+16 slashing damage"
  
+```
+
+```encounter-table
+name: Hana's Hundreds
+creatures:
+  - 1: Hana's Hundreds
 ```
 
 

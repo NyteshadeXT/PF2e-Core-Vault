@@ -6,8 +6,9 @@ tags:
   - trait/general
   - trait/common
   - category/general
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.5ZsmRm7HvFAw2XDZ"
-license: OGL
+license: ORC
 ---
 # Caravan Leader
 ## Feat 11
@@ -17,11 +18,9 @@ license: OGL
 
 
 
-**Prerequisites** Constitution +4; Pick Up the Pace
+**Prerequisites** Pick Up the Pace
 * * *
-You know how to get the most effort out of your allies on the road.
+You know how to get the most effort out of your allies on the road. Your group can Hustle for an additional 20 minutes beyond the length of time that the member who could Hustle longest on their own.
 
-When [[Actions/Hustle|Hustling]] in a group during exploration mode, your group can Hustle for as long as the member who could Hustle longest on their own, plus an additional 20 minutes beyond that.
-
-*Source: Pathfinder Advanced Player's Guide*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

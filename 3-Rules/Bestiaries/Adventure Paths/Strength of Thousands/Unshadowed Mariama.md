@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/human
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/18
 statblock: inline
 name: "Unshadowed Mariama"
@@ -23,13 +24,13 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #174: Shadows of the Ancients"
 name: "Unshadowed Mariama"
 level: "Creature 18"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Medium"
-trait_01: "chaotic"
-trait_02: "evil"
-trait_03: "human"
-trait_04: "humanoid"
+trait_01: [[chaotic]]
+trait_02: [[evil]]
+trait_03: [[human]]
+trait_04: [[humanoid]]
 modifier: 30
 perception:
   - name: "Perception"
@@ -37,7 +38,7 @@ perception:
 languages: "Common, Dwarven, Fey, Kholo"
 skills:
   - name: "Skills"
-    desc: "Academia Lore: +35, Deception: +31, Intimidation: +29, Occultism: +35, Religion: +31, Stealth: +31"
+    desc: "Deception: +31, Intimidation: +29, Occultism: +35, Religion: +31, Stealth: +31, Academia Lore: +35"
 abilityMods: [1, 3, 4, 5, 4, 3]
 speed: 25 feet
 sourcebook: "_Pathfinder #174: Shadows of the Ancients_"
@@ -80,11 +81,17 @@ attacks:
     desc: "3 Focus Points, DC 40, attack +32; __9th __  _[[Spells/Blood Ward|Blood Ward]]_, _[[Spells/Cackle|Cackle]]_, _[[Spells/Curse of Death|Curse of Death]]_, _[[Spells/Malicious Shadow|Malicious Shadow]]_"
 
   - name: "Bind Destinies"
-    desc: "`pf2:3` (curse,occult) **Frequency** once per day\n**Effect** Mariama ties her fate with that of another creature within 30 feet. The creature must attempt a DC 40 Will check save. Regardless of the result of its save, the creature is temporarily immune for 1 day.\n**Critical Success** The creature is unaffected.\n**Success** The two fates are bound. Whenever Mariama takes damage, the creature takes damage of the same type equal to half the damage Mariama took (DC 37 Fortitude check). Immunities, resistances, and weaknesses still apply as normal. The creature can attempt to sever the bond by spending an action, which has the concentrate trait, to attempt another DC 40 Will check save. On a success, the bond is severed, and the effect ends. The bond also ends when Mariama falls [[Conditions/Unconscious|Unconscious]], or if she actively ends the effect herself as a free action.\n**Failure** As success, but the creature takes damage equal to the full amount Mariama took. Severing the bond requires a 2-action activity, which has the concentrate trait.\n**Critical Failure** As failure, but DC 40 Fortitude check. Severing the bond requires a 3-action activity, which has the concentrate trait."
+    desc: "`pf2:3` (curse,occult) **Frequency** once per day\n* * *\n\n**Effect** Mariama ties her fate with that of another creature within 30 feet. The creature must attempt a DC 40 Will check save. Regardless of the result of its save, the creature is temporarily immune for 1 day.\n* * *\n\n**Critical Success** The creature is unaffected.\n\n**Success** The two fates are bound. Whenever Mariama takes damage, the creature takes damage of the same type equal to half the damage Mariama took (DC 37 Fortitude check). Immunities, resistances, and weaknesses still apply as normal. The creature can attempt to sever the bond by spending an action, which has the concentrate trait, to attempt another DC 40 Will check save. On a success, the bond is severed, and the effect ends. The bond also ends when Mariama falls [[Conditions/Unconscious|Unconscious]], or if she actively ends the effect herself as a free action.\n\n**Failure** As success, but the creature takes damage equal to the full amount Mariama took. Severing the bond requires a 2-action activity, which has the concentrate trait.\n\n**Critical Failure** As failure, but DC 40 Fortitude check. Severing the bond requires a 3-action activity, which has the concentrate trait."
 
   - name: "Rupture Shadow"
-    desc: "`pf2:2` (acid,occult,shadow) Mariama can create immense blisters on a creature's shadow, which immediately burst, dealing 20d6 acid damage. She targets a creature within 60 feet that is casting a shadow, which must attempt a DC 37 Will check save. Mariama can't use Rupture Shadow again for 1d4 rounds.\n**Critical Success** The target is unaffected and becomes temporarily immune for 1 day.\n**Success** The target takes half damage. The bursting shadow deals 5 acid splash damage to all creatures within 5 feet of the target.\n**Failure** The target takes full damage, and the bursting shadow deals 10 acid splash damage.\n**Critical Failure** The target takes double damage, the bursting shadow deals 20 acid splash damage, and the target also takes 4d6 persistent acid damage."
+    desc: "`pf2:2` (acid,occult,shadow) Mariama can create immense blisters on a creature's shadow, which immediately burst, dealing 20d6 acid damage. She targets a creature within 60 feet that is casting a shadow, which must attempt a DC 37 Will check save. Mariama can't use Rupture Shadow again for 1d4 rounds.\n* * *\n\n**Critical Success** The target is unaffected and becomes temporarily immune for 1 day.\n\n**Success** The target takes half damage. The bursting shadow deals 5 acid splash damage to all creatures within 5 feet of the target.\n\n**Failure** The target takes full damage, and the bursting shadow deals 10 acid splash damage.\n\n**Critical Failure** The target takes double damage, the bursting shadow deals 20 acid splash damage, and the target also takes 4d6 persistent acid damage."
  
+```
+
+```encounter-table
+name: Unshadowed Mariama
+creatures:
+  - 1: Unshadowed Mariama
 ```
 
 

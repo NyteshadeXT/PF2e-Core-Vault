@@ -6,6 +6,7 @@ cssClasses: pf2e
 aliases: "Compendium.pf2e.menace-under-otari-bestiary.Actor.rPHxXClTnoPYHYuZ" 
 tags:
   - pf2e/creature/type/beast
+  - pf2eMonster
   - pf2e/creature/level/5
   - remaster
 statblock: inline
@@ -24,11 +25,12 @@ level: "Creature 5"
 
 alignment: ""
 size: "Medium"
-trait_01: "beast"
+trait_01: [[beast]]
 modifier: 11
 perception:
   - name: "Perception"
     desc: "+11; Darkvision"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Athletics: +13, Stealth: +8"
@@ -50,7 +52,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Petrifying Glance"
-    desc: "`pf2:r` (arcane,aura) When a creature the basilisk can see within 30 feet starts its turn, the basilisk can use its reaction to glance at the creature.\nThe creature must attempt a DC 20 Fortitude check save. If it fails, it gains the [[Conditions/Slowed 1|Slowed 1]] condition for 1 minute as its body slowly stiffens."
+    desc: "`pf2:r` (arcane,aura) When a creature the basilisk can see within 30 feet starts its turn, the basilisk can use its reaction to glance at the creature.\n\nThe creature must attempt a DC 20 Fortitude check save. If it fails, it gains the [[Conditions/Slowed|Slowed 1]] condition for 1 minute as its body slowly stiffens."
 
 attacks:
   - name: ""
@@ -59,8 +61,14 @@ attacks:
     desc: "`pf2:1` Jaws +15 ()\n__Damage__  2d8 + 4 piercing"
 
   - name: "Petrifying Gaze"
-    desc: "`pf2:2` (arcane,concentrate) The basilisk stares at a creature it can see within 30 feet. If the creature can see the basilisk, that creature must attempt a DC 22 Fortitude check save.\nIf it fails and hasn't already gained the slowed condition from Petrifying Glance or this ability, it gains the [[Conditions/Slowed 1|Slowed 1]] condition. If the creature fails this save when it already has the slowed condition from this ability or Petrifying Glance, the creature is permanently turned to [[Conditions/Petrified|Stone]].\nA creature petrified in this manner that is coated with fresh basilisk blood is instantly restored to flesh. A single basilisk contains enough blood to coat up to 2 creatures in this manner."
+    desc: "`pf2:2` (arcane,concentrate) The basilisk stares at a creature it can see within 30 feet. If the creature can see the basilisk, that creature must attempt a DC 22 Fortitude check save.\n\nIf it fails and hasn't already gained the slowed condition from Petrifying Glance or this ability, it gains the [[Conditions/Slowed|Slowed 1]] condition. If the creature fails this save when it already has the slowed condition from this ability or Petrifying Glance, the creature is permanently turned to [[Conditions/Petrified|Stone]].\n\nA creature petrified in this manner that is coated with fresh basilisk blood is instantly restored to flesh. A single basilisk contains enough blood to coat up to 2 creatures in this manner."
  
+```
+
+```encounter-table
+name: Basilisk (BB)
+creatures:
+  - 1: Basilisk (BB)
 ```
 
 

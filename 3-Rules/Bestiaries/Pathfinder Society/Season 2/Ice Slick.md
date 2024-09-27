@@ -5,6 +5,7 @@ noteType: pf2eHazard
 tags:
   - environmental
   - trap
+  - pf2eHazard
 
 source: Pathfinder Bounty #1: The Whitefang Wyrm
 aliases: "Compendium.pf2e.pfs-season-2-bestiary.Actor.LZiiTvbxfgJ3QfIQ" 
@@ -22,14 +23,14 @@ name: "Ice Slick"
 level: "Hazard 0"
 
 
-trait_01: "environmental"
-trait_02: "trap"
+trait_01: [[environmental]]
+trait_02: [[trap]]
 modifier: 7
 sourcebook: "_Pathfinder Bounty #1: The Whitefang Wyrm_"
 ac: 16
 armorclass:
   - name: AC
-    desc: "16; __Fort__ +10, __Ref__ +4, __Will__ +0"
+    desc: "16; __Fort__ +10, __Ref__ +4, "
 hp: 20
 health:
   - name: ""
@@ -51,9 +52,15 @@ attacks:
   - name: ""
 
   - name: "Slip and Slide"
-    desc: "`pf2:r` **Trigger** A creature walks onto the ice slick\n**Effect** The target must attempt a Athletics check to [[Action Macros/Balance_ Acrobatics|Balance]]. If it fails this check, it falls [[Conditions/Prone|Prone]] and slides 10 feet in the direction it was moving when this reaction was triggered. If this movement is stopped by a wall, the target takes 1d6 bludgeoning damage per 5 feet of prevented movement. If this forced movement moves the target through another creature's space, that other creature must succeed at a DC 14 Reflex check save or be knocked prone as well.\n5 foot damage: 1d6 bludgeoning damage\n10 foot damage: 2d6 bludgeoning damage"
+    desc: "`pf2:r` **Trigger** A creature walks onto the ice slick\n* * *\n\n**Effect** The target must attempt a Athletics check to [[Action Macros/Balance_ Acrobatics|Balance]]. If it fails this check, it falls [[Conditions/Prone|Prone]] and slides 10 feet in the direction it was moving when this reaction was triggered. If this movement is stopped by a wall, the target takes 1d6 bludgeoning damage per 5 feet of prevented movement. If this forced movement moves the target through another creature's space, that other creature must succeed at a DC 14 Reflex check save or be knocked prone as well.\n* * *\n\n5 foot damage: 1d6 bludgeoning damage\n\n10 foot damage: 2d6 bludgeoning damage"
 
 
 
+```
+
+```encounter-table
+name: Ice Slick
+creatures:
+  - 1: Ice Slick
 ```
 

@@ -35,9 +35,9 @@ Better known as the shrieking toadstool, the tragzioma fungus releases spores wh
 
 **Maximum Duration** 6 rounds
 
-**Stage 1** [[Conditions/Frightened 1|Frightened 2]] (1 round)
+**Stage 1** [[Conditions/Frightened|Frightened 2]] (1 round)
 
-**Stage 2** [[Conditions/Frightened 1|Frightened 3]] (1 round)
+**Stage 2** [[Conditions/Frightened|Frightened 3]] (1 round)
 
 **Stage 3** frightened 3 and [[Conditions/Fleeing|Fleeing]] for 1 round (1 round)
 

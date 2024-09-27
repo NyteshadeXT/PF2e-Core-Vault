@@ -13,7 +13,7 @@ license: OGL
 ---
 # Rehydration
 ## Feat 13
-### [[azarketi]][[primal]][[3-Rules/Rule References/Water]]
+### [[azarketi]][[primal]][[water]]
 
 **Category** ancestry; 
 

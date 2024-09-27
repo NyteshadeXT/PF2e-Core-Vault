@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/clockwork
   - pf2e/creature/type/construct
   - pf2e/creature/type/mindless
+  - pf2eMonster
   - pf2e/creature/level/14
 statblock: inline
 name: "Clockwork Chopper"
@@ -22,16 +23,17 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #161: Belly of the Black Whale"
 name: "Clockwork Chopper"
 level: "Creature 14"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Medium"
-trait_01: "clockwork"
-trait_02: "construct"
-trait_03: "mindless"
+trait_01: [[clockwork]]
+trait_02: [[construct]]
+trait_03: [[mindless]]
 modifier: 25
 perception:
   - name: "Perception"
     desc: "+25; Darkvision"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Acrobatics: +31, Athletics: +27, Stealth: +29"
@@ -53,7 +55,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Attack of Opportunity"
-    desc: "`pf2:r`  **Trigger** A creature within the monster's reach uses a manipulate action or a move action, makes a ranged attack, or leaves a square during a move action it's using.\n**Effect** The monster attempts a melee Strike against the triggering creature. If the attack is a critical hit and the trigger was a manipulate action, the monster disrupts that action. This Strike doesn't count toward the monster's multiple attack penalty, and its multiple attack penalty doesn't apply to this Strike."
+    desc: "`pf2:r`  **Trigger** A creature within the monster's reach uses a manipulate action or a move action, makes a ranged attack, or leaves a square during a move action it's using.\n* * *\n\n**Effect** The monster attempts a melee Strike against the triggering creature. If the attack is a critical hit and the trigger was a manipulate action, the monster disrupts that action. This Strike doesn't count toward the monster's multiple attack penalty, and its multiple attack penalty doesn't apply to this Strike."
 
   - name: "Integrated Launcher"
     desc: "  A projectile launcher is integrated into a clockwork assassin's systems, containing 10 spinning blades and five smoke bombs. When the assassin is destroyed, the launcher and its ammunition are also destroyed."
@@ -80,7 +82,7 @@ attacks:
     desc: " (manipulate) The clockwork assassin spends 1 hour of its operational time to repair itself, regaining 25 Hit Points and refilling its integrated projectile launcher with 4 spinning blades (to a maximum of 10) and 2 smoke bombs (to a maximum of 5)."
 
   - name: "Smoke Bomb Launcher"
-    desc: "`pf2:1` (manipulate) The clockwork assassin launches a smoke bomb. A screen of thick, opaque smoke fills a 10-foot burst within 60 feet of the clockwork assassin. Creatures within the area are concealed, and all other creatures are concealed to them. The smoke lasts for 1 minute or until dispersed by a strong wind."
+    desc: "`pf2:1` (manipulate) The clockwork assassin launches a smoke bomb. A screen of thick, opaque smoke fills a @Template[burst|distance:10] within 60 feet of the clockwork assassin. Creatures within the area are concealed, and all other creatures are concealed to them. The smoke lasts for 1 minute or until dispersed by a strong wind."
 
   - name: "[[Bestiary Ability Glossary/Sneak Attack|Sneak Attack]]"
     desc: "  The clockwork assassin's Strikes deal an additional 3d6 precision damage to [[Conditions/Off-Guard|Off-Guard]] creatures."
@@ -91,6 +93,12 @@ attacks:
   - name: "Whirlwind Strike"
     desc: "`pf2:3`  The chopper makes a melee Strike against each enemy within melee reach. Its multiple attack penalty doesn't increase until after all the attacks."
  
+```
+
+```encounter-table
+name: Clockwork Chopper
+creatures:
+  - 1: Clockwork Chopper
 ```
 
 

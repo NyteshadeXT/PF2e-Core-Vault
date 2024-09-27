@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/undead
   - pf2e/creature/type/unholy
+  - pf2eMonster
   - pf2e/creature/level/5
 statblock: inline
 name: "Necrohusk"
@@ -22,17 +23,17 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #176: Lost Mammoth Valley"
 name: "Necrohusk"
 level: "Creature 5"
-rare_03: "Rare"
+rare_03: [[Rare]]
 alignment: ""
 size: "Medium"
-trait_01: "evil"
-trait_02: "undead"
-trait_03: "unholy"
+trait_01: [[evil]]
+trait_02: [[undead]]
+trait_03: [[unholy]]
 modifier: 14
 perception:
   - name: "Perception"
     desc: "+14; Darkvision, Lifesense (Imprecise) 30 Feet"
-languages: "Common, Hallit, Necril"
+languages: "Common, Hallit, Necril; can&#x27;t speak"
 skills:
   - name: "Skills"
     desc: "Acrobatics: +13, Athletics: +12, Stealth: +13"
@@ -54,7 +55,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Skitter"
-    desc: "`pf2:r`  **Trigger** A creature misses the necrohusk with a melee Strike\n**Effect** The necrohusk Steps."
+    desc: "`pf2:r`  **Trigger** A creature misses the necrohusk with a melee Strike\n* * *\n\n**Effect** The necrohusk Steps."
 
 attacks:
   - name: ""
@@ -75,8 +76,14 @@ attacks:
     desc: "`pf2:2`  The necrohusk Strides twice. If the necrohusk ends its movement within melee range of an enemy, it makes a leg Strike against that enemy. On a hit, the Strike deals an additional 1d6 bleed."
 
   - name: "Vile Innards"
-    desc: "  The necrohusk spews some of its rotting insides when it makes an ichor spit Strike. On a critical hit, the target is [[Conditions/Sickened 1|Sickened 2]]."
+    desc: "  The necrohusk spews some of its rotting insides when it makes an ichor spit Strike. On a critical hit, the target is [[Conditions/Sickened|Sickened 2]]."
  
+```
+
+```encounter-table
+name: Necrohusk
+creatures:
+  - 1: Necrohusk
 ```
 
 

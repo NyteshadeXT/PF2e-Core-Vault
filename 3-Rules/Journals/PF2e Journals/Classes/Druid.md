@@ -129,7 +129,7 @@ The following acts are anathema to all druids.
 
 **Anathema** despoil natural places, consume more natural resources than you require to live comfortably, teach the Wildsong to non-druids
 
-Your choice of druidic order adds further anathema, as detailed in the order’s entry.
+Your choice of druidic order adds further anathema, as detailed in the order's entry.
 
 See specific orders for more information.
 
@@ -139,15 +139,15 @@ In addition to the abilities provided by your class at 1st level, you have the b
 
 ## Wildsong
 
-You know the Wildsong, a secret language known only within druid orders, in addition to any languages you know through your ancestry. The Wildsong is a melodic and tonal language sounding more like animal calls than a spoken tongue, and its alphabet involves fractals and spirals, like the arrangement of a seashell’s chambers, a snowflake’s crystals, or a fern’s fronds. Teaching the Wildsong to non-druids is anathema.
+You know the Wildsong, a secret language known only within druid orders, in addition to any languages you know through your ancestry. The Wildsong is a melodic and tonal language sounding more like animal calls than a spoken tongue, and its alphabet involves fractals and spirals, like the arrangement of a seashell's chambers, a snowflake's crystals, or a fern's fronds. Teaching the Wildsong to non-druids is anathema.
 
 ## Druidic Order
 
-Upon becoming a druid, you align yourself with a druidic order, which grants you a class feat, an order spell, and an additional trained skill tied to your order. While you’ll always be a member of your initial order, it’s not unheard of for a druid to request to study with other orders in search of greater understanding of the natural world, and PC druids are among the most likely to blend the powers of different orders.
+Upon becoming a druid, you align yourself with a druidic order, which grants you a class feat, an order spell, and an additional trained skill tied to your order. While you'll always be a member of your initial order, it's not unheard of for a druid to request to study with other orders in search of greater understanding of the natural world, and PC druids are among the most likely to blend the powers of different orders.
 
 Order spells are a type of focus spell. It costs 1 Focus Point to cast a focus spell, and you start with a focus pool of 1 Focus Point. You refill your focus pool during your daily preparations, and you can regain 1 Focus Point by spending 10 minutes using the Refocus activity to commune with local nature spirits or otherwise tend to the wilderness in a way befitting your order.
 
-Focus spells are automatically heightened to half your level rounded up, much like cantrips. Focus spells don’t require spell slots, and you can’t cast them using spell slots. Certain feats give you more focus spells. The maximum Focus Points your focus pool can hold is equal to the number of focus spells you have, but can never be more than 3 points.
+Focus spells are automatically heightened to half your level rounded up, much like cantrips. Focus spells don't require spell slots, and you can't cast them using spell slots. Certain feats give you more focus spells. The maximum Focus Points your focus pool can hold is equal to the number of focus spells you have, but can never be more than 3 points.
 
 Orders can be found here ([[Class Features/Animal Order|Animal]], [[Class Features/Flame Order|Flame]], [[Class Features/Leaf Order|Leaf]], [[Class Features/Stone Order|Stone]], [[Class Features/Storm Order|Storm]], [[Class Features/Wave Order|Wave]], and [[Class Features/Untamed Order|Wild]]).
 
@@ -167,11 +167,11 @@ Some of your spells require you to attempt a spell attack to see how effective t
 
 ### **Heightening Spells**
 
-When you get spell slots of 2nd rank and higher, you can fill those slots with stronger versions of lower-rank spells. This increases the spell’s rank, heightening it to match the spell slot. Many spells have specific improvements when they are heightened to certain ranks.
+When you get spell slots of 2nd rank and higher, you can fill those slots with stronger versions of lower-rank spells. This increases the spell's rank, heightening it to match the spell slot. Many spells have specific improvements when they are heightened to certain ranks.
 
 ### **Cantrips**
 
-Some of your spells are cantrips. A cantrip is a special type of spell that doesn’t use spell slots. You can cast a cantrip at will, any number of times per day. A cantrip is always automatically heightened to half your level rounded up— this is usually equal to the highest rank of druid spell slot you have. For example, as a 1st-level druid, your cantrips are 1st-rank spells, and a 5th-level druid’s are 3rd rank.
+Some of your spells are cantrips. A cantrip is a special type of spell that doesn't use spell slots. You can cast a cantrip at will, any number of times per day. A cantrip is always automatically heightened to half your level rounded up— this is usually equal to the highest rank of druid spell slot you have. For example, as a 1st-level druid, your cantrips are 1st-rank spells, and a 5th-level druid's are 3rd rank.
 
   
 
@@ -245,7 +245,7 @@ In addition to the ancestry feat you started with, you gain an ancestry feat at 
 
 ## Reflex ExpertiseLevel 5
 
-You’ve honed your ability to dodge dangers. Your proficiency rank for Reflex saves increases to expert.
+You've honed your ability to dodge dangers. Your proficiency rank for Reflex saves increases to expert.
 
 ## Expert SpellcasterLevel 7
 
@@ -253,11 +253,11 @@ Your command of primal forces has deepened, empowering your spells. Your profici
 
 ## Weapon ExpertiseLevel 11
 
-You’ve improved your combat skill. Your proficiency rank for simple weapons and unarmed attacks increases to expert.
+You've improved your combat skill. Your proficiency rank for simple weapons and unarmed attacks increases to expert.
 
 ## Wild WillpowerLevel 11
 
-Your primal will, like that of the greatest beast, can’t be tamed. Your proficiency rank for Will saves increases to master. When you roll a success at a Will save, you get a critical success instead.
+Your primal will, like that of the greatest beast, can't be tamed. Your proficiency rank for Will saves increases to master. When you roll a success at a Will save, you get a critical success instead.
 
 ## Medium Armor ExpertiseLevel 13
 
@@ -277,4 +277,4 @@ You have developed an unparalleled rapport with the magic of nature. Your profic
 
 ## Primal HierophantLevel 19
 
-You command the most potent forces of primal magic and can cast a spell of truly incredible power. You gain a single 10th-rank spell slot and can prepare a spell in that slot using druid spellcasting. Unlike with other spell slots, you can’t use 10-rank slots with abilities that give you more spell slots or that let you cast spells without expending spell slots. You don’t gain more 10th-rank spells as you level up, though you can take the [[Feats/Hierophant's Power|Hierophant's Power]] feat to gain a second slot.
+You command the most potent forces of primal magic and can cast a spell of truly incredible power. You gain a single 10th-rank spell slot and can prepare a spell in that slot using druid spellcasting. Unlike with other spell slots, you can't use 10-rank slots with abilities that give you more spell slots or that let you cast spells without expending spell slots. You don't gain more 10th-rank spells as you level up, though you can take the [[Feats/Hierophant's Power|Hierophant's Power]] feat to gain a second slot.

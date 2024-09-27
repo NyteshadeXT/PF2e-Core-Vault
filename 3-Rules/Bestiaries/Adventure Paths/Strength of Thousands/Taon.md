@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/undead
   - pf2e/creature/type/unholy
+  - pf2eMonster
   - pf2e/creature/level/15
 statblock: inline
 name: "Taon"
@@ -23,13 +24,13 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #173: Doorway to the Red Star"
 name: "Taon"
 level: "Creature 15"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Medium"
-trait_01: "chaotic"
-trait_02: "evil"
-trait_03: "undead"
-trait_04: "unholy"
+trait_01: [[chaotic]]
+trait_02: [[evil]]
+trait_03: [[undead]]
+trait_04: [[unholy]]
 modifier: 25
 perception:
   - name: "Perception"
@@ -60,7 +61,7 @@ abilities_mid:
     desc: "`pf2:r`  "
 
   - name: "Mohrg Spawn"
-    desc: " (occult) A living creature slain by a mohrg that had a lower level than the mohrg rises as a mohrg spawn after 1d4 rounds, on its turn. This mohrg spawn is under the command of the mohrg that created it.\nIf the creator of the mohrg spawn is destroyed, the mohrg spawn is destroyed as well, immediately collapsing into a pile of decayed flesh and bones."
+    desc: " (occult) A living creature slain by a mohrg that had a lower level than the mohrg rises as a mohrg spawn after 1d4 rounds, on its turn. This mohrg spawn is under the command of the mohrg that created it.\n\nIf the creator of the mohrg spawn is destroyed, the mohrg spawn is destroyed as well, immediately collapsing into a pile of decayed flesh and bones."
 
 attacks:
   - name: ""
@@ -83,6 +84,12 @@ attacks:
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
     desc: "`pf2:1`  "
  
+```
+
+```encounter-table
+name: Taon
+creatures:
+  - 1: Taon
 ```
 
 

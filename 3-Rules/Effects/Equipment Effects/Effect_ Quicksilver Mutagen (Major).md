@@ -4,8 +4,9 @@ title: "Effect: Quicksilver Mutagen (Major)"
 cssclasses: pf2e,pf2e-spell
 tags:
   - trait/common
+  - remaster
 aliases: "Compendium.pf2e.equipment-effects.Item.988f6NpOo4YzFzIr"
-license: OGL
+license: ORC
 ---
 # Effect: Quicksilver Mutagen (Major)
 ## Level 17
@@ -22,5 +23,5 @@ Granted by [[Equipment/Quicksilver Mutagen (Major)|Quicksilver Mutagen (Major)]]
 
 **Drawback** You take damage equal to twice your level; you can't recover Hit Points lost this way by any means while the mutagen lasts. You take a -2 penalty to Fortitude saves.
 
-*Source: Pathfinder Core Rulebook*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/boggard
   - pf2e/creature/type/evil
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/5
 statblock: inline
 name: "Croakchief Globblit Skink-eater"
@@ -23,13 +24,13 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Adventure: The Slithering"
 name: "Croakchief Globblit Skink-eater"
 level: "Creature 5"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Medium"
-trait_01: "amphibious"
-trait_02: "boggard"
-trait_03: "evil"
-trait_04: "humanoid"
+trait_01: [[amphibious]]
+trait_02: [[boggard]]
+trait_03: [[evil]]
+trait_04: [[humanoid]]
 modifier: 13
 perception:
   - name: "Perception"
@@ -75,14 +76,20 @@ attacks:
     desc: "`pf2:1` (auditory) Globblit gives a loud, belching croak to compel his allies to action. Each boggard within 30 feet can use a reaction to Step, Stride, or Strike."
 
   - name: "Smash and Slurp"
-    desc: "`pf2:1`  **Frequency** once per turn\n**Effect** Globblit makes a greatclub Strike and a tongue Strike against the same target. If the greatclub Strike hits, the target is [[Conditions/Off-Guard|Off-Guard]] against his tongue Strike.\nThis counts as two attacks for Globblit's multiple attack penalty, but the penalty doesn't increase until after his Smash and Slurp."
+    desc: "`pf2:1`  **Frequency** once per turn\n* * *\n\n**Effect** Globblit makes a greatclub Strike and a tongue Strike against the same target. If the greatclub Strike hits, the target is [[Conditions/Off-Guard|Off-Guard]] against his tongue Strike.\n\nThis counts as two attacks for Globblit's multiple attack penalty, but the penalty doesn't increase until after his Smash and Slurp."
 
   - name: "Swamp Stride"
     desc: "  Globblit ignores difficult terrain caused by swamp terrain features."
 
   - name: "Tongue Grab"
-    desc: "  If Globblit hits a creature with his tongue, that creature becomes [[Conditions/Grabbed|Grabbed]] by him. Unlike a normal grab, the creature isn't [[Conditions/Immobilized|Immobilized]], but it can't move beyond the reach of Globblit's tongue.\nA creature can sever the tongue by succeeding at an AC 18 Strike and dealing at least 6 slashing damage. Though this doesn't deal any damage to Globblit, it prevents him from using his tongue Strike until it regrows, which takes a week."
+    desc: "  If Globblit hits a creature with his tongue, that creature becomes [[Conditions/Grabbed|Grabbed]] by him. Unlike a normal grab, the creature isn't [[Conditions/Immobilized|Immobilized]], but it can't move beyond the reach of Globblit's tongue.\n\nA creature can sever the tongue by succeeding at an AC 18 Strike and dealing at least 6 slashing damage. Though this doesn't deal any damage to Globblit, it prevents him from using his tongue Strike until it regrows, which takes a week."
  
+```
+
+```encounter-table
+name: Croakchief Globblit Skink-eater
+creatures:
+  - 1: Croakchief Globblit Skink-eater
 ```
 
 

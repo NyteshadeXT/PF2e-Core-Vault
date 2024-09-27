@@ -4,6 +4,7 @@ obsidianUIMode: preview
 noteType: pf2eHazard
 tags:
   - haunt
+  - pf2eHazard
 
 source: Pathfinder Adventure: Malevolence
 aliases: "Compendium.pf2e.malevolence-bestiary.Actor.TrX8Op3qZzFvX4Df" 
@@ -21,7 +22,7 @@ name: "Mouth of Tchekuth"
 level: "Hazard 6"
 
 
-trait_01: "haunt"
+trait_01: [[haunt]]
 modifier: 15
 sourcebook: "_Pathfinder Adventure: Malevolence_"
 ac: 24
@@ -49,10 +50,16 @@ attacks:
   - name: ""
 
   - name: "Hungry Tongue"
-    desc: "`pf2:r` (emotion, fear, mental, occult) **Trigger** a creature crosses the chasm\n**Effect** A vast, fanged maw appears to open below, and a long rasping tongue lurches up to attack the triggering creature, who must attempt a DC 24 Will check save.\n**Critical Success** The creature realizes the haunt is a frightening phantasm that can't actually hurt them and is unharmed.\n**Success** The creature dodges the rasping tongue but falls from the bridge as a result, taking 10 damage from the fall (the creature can Grab an Edge with a successful DC 24 Reflex check save).\n**Failure** For a brief moment, the creature feels the awful touch of the rasping tongue as it brushes against them, licking away memories and causing the creature to become [[Conditions/Stupefied 1|Stupefied 1]] for 24 hours. The creature then falls (as success above).\n**Critical Failure** The creature feels the tongue wrap around them and then experiences the awfulness of being pulled downward for what seems like days, but in fact, only an instant passes. The creature becomes [[Conditions/Stupefied 1|Stupefied 2]] for 24 hours, during which time they can't remember their name. The creature also increases the value of their malevolence condition by 1 and then falls (as success above)."
+    desc: "`pf2:r` (emotion, fear, mental, occult) **Trigger** a creature crosses the chasm\n* * *\n\n**Effect** A vast, fanged maw appears to open below, and a long rasping tongue lurches up to attack the triggering creature, who must attempt a DC 24 Will check save.\n* * *\n\n**Critical Success** The creature realizes the haunt is a frightening phantasm that can't actually hurt them and is unharmed.\n\n**Success** The creature dodges the rasping tongue but falls from the bridge as a result, taking 10 damage from the fall (the creature can Grab an Edge with a successful DC 24 Reflex check save).\n\n**Failure** For a brief moment, the creature feels the awful touch of the rasping tongue as it brushes against them, licking away memories and causing the creature to become [[Conditions/Stupefied|Stupefied 1]] for 24 hours. The creature then falls (as success above).\n\n**Critical Failure** The creature feels the tongue wrap around them and then experiences the awfulness of being pulled downward for what seems like days, but in fact, only an instant passes. The creature becomes [[Conditions/Stupefied|Stupefied 2]] for 24 hours, during which time they can't remember their name. The creature also increases the value of their malevolence condition by 1 and then falls (as success above)."
 
 
   - name: "Reset"
     desc: "The haunt resets after 24 hours and is destroyed permanently if Ioseff's ghost is put to rest."
+```
+
+```encounter-table
+name: Mouth of Tchekuth
+creatures:
+  - 1: Mouth of Tchekuth
 ```
 

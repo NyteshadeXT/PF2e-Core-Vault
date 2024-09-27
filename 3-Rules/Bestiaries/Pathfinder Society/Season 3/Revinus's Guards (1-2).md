@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.pfs-season-3-bestiary.Actor.mQmcKIgTUn3xMClx"
 tags:
   - pf2e/creature/type/human
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/-1
 statblock: inline
 name: "Revinus&#x27;s Guards (1-2)"
@@ -21,11 +22,11 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Society Scenario #3-02: The East Hill Haunting"
 name: "Revinus's Guards (1-2)"
 level: "Creature -1"
-rare_03: "Rare"
+rare_03: [[Rare]]
 alignment: ""
 size: "Medium"
-trait_01: "human"
-trait_02: "humanoid"
+trait_01: [[human]]
+trait_02: [[humanoid]]
 modifier: 2
 perception:
   - name: "Perception"
@@ -61,6 +62,12 @@ attacks:
   - name: "Big Thwunk"
     desc: "`pf2:2`  The guard makes a melee Strike with their light mace. On a successful hit, the target is pushed back 5 feet, with the effects of a successful Shove. If the target is [[Conditions/Off-Guard|Off-Guard]], then the guard can follow the foe."
  
+```
+
+```encounter-table
+name: Revinus's Guards (1-2)
+creatures:
+  - 1: Revinus's Guards (1-2)
 ```
 
 

@@ -6,6 +6,7 @@ cssClasses: pf2e
 aliases: "Compendium.pf2e.pathfinder-bestiary-3.Actor.SuI5sxy5cuc0lnsh" 
 tags:
   - pf2e/creature/type/animal
+  - pf2eMonster
   - pf2e/creature/level/3
 statblock: inline
 name: "Platecarpus"
@@ -24,11 +25,12 @@ level: "Creature 3"
 
 alignment: ""
 size: "Large"
-trait_01: "animal"
+trait_01: [[animal]]
 modifier: 9
 perception:
   - name: "Perception"
     desc: "+9; Low-Light Vision, Scent (Imprecise) 30 Feet"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Athletics: +10, Stealth: +11"
@@ -59,17 +61,23 @@ attacks:
     desc: "`pf2:1` Jaws +12 ()\n__Damage__  1d12 + 5 piercing plus grab"
 
   - name: "Aquatic Drag"
-    desc: "`pf2:1`  **Requirements** The platecarpus has a creature [[Conditions/Grabbed|Grabbed]]\n**Effect** The platecarpus Swims up to half its Speed, carrying the grabbed creature with it."
+    desc: "`pf2:1`  **Requirements** The platecarpus has a creature [[Conditions/Grabbed|Grabbed]]\n* * *\n\n**Effect** The platecarpus Swims up to half its Speed, carrying the grabbed creature with it."
 
   - name: "Strafing Chomp"
     desc: "`pf2:1`  The platecarpus Swims up to its Speed, making one jaws Strike at any point along the way. The Strike deals half damage."
 
   - name: "[[Bestiary Ability Glossary/Swallow Whole|Swallow Whole]]"
-    desc: "`pf2:1` (attack) Medium, 1d6 + 2 bludgeoning, Rupture 10\n"
+    desc: "`pf2:1` (attack) Medium, 1d6+2 bludgeoning, Rupture 10\n\n* * *\n"
 
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
     desc: "`pf2:1`  "
  
+```
+
+```encounter-table
+name: Platecarpus
+creatures:
+  - 1: Platecarpus
 ```
 
 

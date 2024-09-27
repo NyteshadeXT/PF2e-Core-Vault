@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/fey
   - pf2e/creature/type/gremlin
+  - pf2eMonster
   - pf2e/creature/level/1
 statblock: inline
 name: "Jinkin Ripclaw"
@@ -23,13 +24,13 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Adventure: A Few Flowers More"
 name: "Jinkin Ripclaw"
 level: "Creature 1"
-rare_03: "Rare"
+rare_03: [[Rare]]
 alignment: ""
 size: "tiny"
-trait_01: "chaotic"
-trait_02: "evil"
-trait_03: "fey"
-trait_04: "gremlin"
+trait_01: [[chaotic]]
+trait_02: [[evil]]
+trait_03: [[fey]]
+trait_04: [[gremlin]]
 modifier: 7
 perception:
   - name: "Perception"
@@ -37,7 +38,7 @@ perception:
 languages: "Sakvroth"
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +7, Crafting: +5 (+7 traps), Deception: +5, Nature: +5, Stealth: +7, Thievery: +7"
+    desc: "Acrobatics: +7, Crafting: +5, Deception: +5, Nature: +5, Stealth: +7, Thievery: +7"
 abilityMods: [-2, 4, 0, 2, 2, 2]
 speed: 30 feet
 sourcebook: "_Pathfinder Adventure: A Few Flowers More_"
@@ -69,7 +70,7 @@ attacks:
     desc: "DC 17, attack +9\n__Cantrips__  __(1st)__ _[[Spells/Prestidigitation|Prestidigitation]]_"
 
   - name: "Rip Flesh"
-    desc: "`pf2:1`  **Requirements** A jinkin has a creature [[Conditions/Grabbed|Grabbed]] with their pincer claw\n**Effect** The jinkin forcefully pulls the pincer claw out of the creature, ripping flesh and cackling in sadistic glee. The creature takes 1d8 piercing damage and is no longer grabbed."
+    desc: "`pf2:1`  **Requirements** A jinkin has a creature [[Conditions/Grabbed|Grabbed]] with their pincer claw\n* * *\n\n**Effect** The jinkin forcefully pulls the pincer claw out of the creature, ripping flesh and cackling in sadistic glee. The creature takes 1d8 piercing damage and is no longer grabbed."
 
   - name: "[[Bestiary Ability Glossary/Sneak Attack|Sneak Attack]]"
     desc: "  The jinkin deals 1d6 extra precision damage to [[Conditions/Off-Guard|Off-Guard]] creatures."
@@ -80,6 +81,12 @@ attacks:
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
     desc: "`pf2:1`  "
  
+```
+
+```encounter-table
+name: Jinkin Ripclaw
+creatures:
+  - 1: Jinkin Ripclaw
 ```
 
 

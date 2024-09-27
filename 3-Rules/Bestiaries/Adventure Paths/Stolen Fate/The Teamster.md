@@ -6,6 +6,7 @@ cssClasses: pf2e
 aliases: "Compendium.pf2e.stolen-fate-bestiary.Actor.dbzt5TU3fXSManTU" 
 tags:
   - pf2e/creature/type/construct
+  - pf2eMonster
   - pf2e/creature/level/17
 statblock: inline
 name: "The Teamster"
@@ -20,10 +21,10 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #192: Worst of All Possible Worlds"
 name: "The Teamster"
 level: "Creature 17"
-rare_03: "Rare"
+rare_03: [[Rare]]
 alignment: ""
 size: "Large"
-trait_01: "construct"
+trait_01: [[construct]]
 modifier: 29
 perception:
   - name: "Perception"
@@ -63,17 +64,23 @@ attacks:
     desc: "DC 35, attack +27; __8th __  _[[Spells/Uncontrollable Dance|Uncontrollable Dance]]_; __7th __  _[[Spells/Visions of Danger|Visions of Danger]]_; __5th __  _[[Spells/Translocate|Dimension Door]]_; __4th __  _[[Spells/Confusion|Confusion]]_; __2nd __  _[[Spells/Augury|Augury]]_; __1st __  _[[Spells/Ill Omen|Ill Omen (At Will)]]_\n__Cantrips__  __(9th)__ _[[Spells/Daze|Daze]]_, _[[Spells/Detect Magic|Detect Magic]]_, _[[Spells/Ghost Sound|Ghost Sound]]_, _[[Spells/Telekinetic Projectile|Telekinetic Projectile]]_"
 
   - name: "Bite Them!"
-    desc: "`pf2:1`  **Frequency** once per round\n**Effect** The Teamster commands his two phantasmal geckos to come to his aid and attack a foe within 30 feet that the Teamster can see. The geckos attempt two Strikes against the same target. These Strikes resolve using the Teamster's greatsword melee Strike, and use the Teamster's normal multiple attack penalty, but combine their damage for the purposes of resistances and weaknesses."
+    desc: "`pf2:1`  **Frequency** once per round\n* * *\n\n**Effect** The Teamster commands his two phantasmal geckos to come to his aid and attack a foe within 30 feet that the Teamster can see. The geckos attempt two Strikes against the same target. These Strikes resolve using the Teamster's greatsword melee Strike, and use the Teamster's normal multiple attack penalty, but combine their damage for the purposes of resistances and weaknesses."
 
   - name: "[[Creature Family Ability Glossary/(Harrowkin) Harrowkin Suit|Harrowkin Suit (Shields)]]"
-    desc: "  Each harrowkin is connected one specific harrow suit and has the following shared abilities.\n[[Creature Family Ability Glossary/(Harrowkin) Defensive Suit|(Harrowkin) Defensive Suit]]\n[[Creature Family Ability Glossary/(Harrowkin) Shuffle the Deck|(Harrowkin) Shuffle the Deck]]\n[[Creature Family Ability Glossary/(Harrowkin) Read the Cards|(Harrowkin) Read the Cards]]\n_Note: This ability enables additional automation for the listed abilities._"
+    desc: "  Each harrowkin is connected one specific harrow suit and has the following shared abilities.\n\n[[Creature Family Ability Glossary/(Harrowkin) Defensive Suit|(Harrowkin) Defensive Suit]]\n\n[[Creature Family Ability Glossary/(Harrowkin) Shuffle the Deck|(Harrowkin) Shuffle the Deck]]\n\n[[Creature Family Ability Glossary/(Harrowkin) Read the Cards|(Harrowkin) Read the Cards]]\n* * *\n\n_Note: This ability enables additional automation for the listed abilities._"
 
   - name: "[[Creature Family Ability Glossary/(Harrowkin) Read the Cards|Read the Cards]]"
-    desc: " (occult) **Trigger** The harrowkin is about to roll initiative\n**Effect** The harrowkin attempts to rewrite destiny. Roll 1d6 to determine a suit. The harrowkin gains the effects of the suit for 1 minute. If the suit matches the harrowkin's suit, the value is doubled.\n[[Bestiary Effects/Effect_ Read the Cards|Effect: Read the Cards]]\n**Hammers** The harrowkin gains a +2 status bonus to damage rolls.\n**Keys** The harrowkin gains a +1 status bonus to AC.\n**Shields** The harrowkin gains fast healing 5.\n**Books** The harrowkin gains a +1 status bonus to skill checks.\n**Stars** The harrowkin gains a +1 status bonus to saving throws.\n**Crown** The harrowkin can reroll 1 check within the next minute and take the higher result. This is a fortune effect.\n_Note: The effect will roll the d6 automatically on placement._"
+    desc: " (occult) **Trigger** The harrowkin is about to roll initiative\n* * *\n\n**Effect** The harrowkin attempts to rewrite destiny. Roll 1d6 to determine a suit. The harrowkin gains the effects of the suit for 1 minute. If the suit matches the harrowkin's suit, the value is doubled.\n\n[[Bestiary Effects/Effect_ Read the Cards|Effect: Read the Cards]]\n\n**Hammers** The harrowkin gains a +2 status bonus to damage rolls.\n\n**Keys** The harrowkin gains a +1 status bonus to AC.\n\n**Shields** The harrowkin gains fast healing 5.\n\n**Books** The harrowkin gains a +1 status bonus to skill checks.\n\n**Stars** The harrowkin gains a +1 status bonus to saving throws.\n\n**Crown** The harrowkin can reroll 1 check within the next minute and take the higher result. This is a fortune effect.\n* * *\n\n_Note: The effect will roll the d6 automatically on placement._"
 
   - name: "[[Creature Family Ability Glossary/(Harrowkin) Shuffle the Deck|Shuffle the Deck]]"
-    desc: "`pf2:2`  **Frequency** once per day\n**Requirements** The harrowkin has rolled initiative\n**Effect** At the end of the current round, all creatures currently in initiative reroll their initiative, using the same modifiers as their original initiative roll, and use the new initiative values for all following rounds.."
+    desc: "`pf2:2`  **Frequency** once per day\n\n**Requirements** The harrowkin has rolled initiative\n* * *\n\n**Effect** At the end of the current round, all creatures currently in initiative reroll their initiative, using the same modifiers as their original initiative roll, and use the new initiative values for all following rounds.."
  
+```
+
+```encounter-table
+name: The Teamster
+creatures:
+  - 1: The Teamster
 ```
 
 

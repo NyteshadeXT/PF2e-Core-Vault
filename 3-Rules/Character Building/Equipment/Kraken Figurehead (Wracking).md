@@ -13,7 +13,7 @@ license: OGL
 ---
 # Kraken Figurehead (Wracking)
 ## Item 14
-### [[figurehead]][[magical]][[3-Rules/Rule References/Water]]
+### [[figurehead]][[magical]][[water]]
 
 
 **Price** 4000 gp; 
@@ -42,7 +42,7 @@ A knot of tentacles makes up the body of this figurehead. It's always slightly s
 
 If you use this activation while the tentacles are already latched onto another ship, the tentacles instead pull that ship toward yours a distance up to half your ship's swim Speed with a success (or up to your ship's full swim Speed with a critical success). The pilot of the enemy ship can attempt a DC 31 piloting check to break free as a single action that has the attack trait. With a success, the ship frees itself from the tentacles.
 
-When you use the figurehead’s second activation to pull an enemy ship, even if you didn’t pull the ship any actual distance, you can have the tentacles try to crack open its hull. The tentacles deal 7d10 bludgeoning damage to the enemy vessel (DC 31 Fortitude check save). Apply the ship’s Hardness as normal.
+When you use the figurehead's second activation to pull an enemy ship, even if you didn't pull the ship any actual distance, you can have the tentacles try to crack open its hull. The tentacles deal 7d10 bludgeoning damage to the enemy vessel (DC 31 Fortitude check save). Apply the ship's Hardness as normal.
 
 *Source: Pathfinder Rage of Elements*
 *OGL*

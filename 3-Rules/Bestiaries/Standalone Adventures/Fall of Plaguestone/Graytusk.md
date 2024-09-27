@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/humanoid
   - pf2e/creature/type/orc
+  - pf2eMonster
   - pf2e/creature/level/3
 statblock: inline
 name: "Graytusk"
@@ -23,13 +24,13 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Adventure: The Fall of Plaguestone"
 name: "Graytusk"
 level: "Creature 3"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Medium"
-trait_01: "chaotic"
-trait_02: "evil"
-trait_03: "humanoid"
-trait_04: "orc"
+trait_01: [[chaotic]]
+trait_02: [[evil]]
+trait_03: [[humanoid]]
+trait_04: [[orc]]
 modifier: 9
 perception:
   - name: "Perception"
@@ -74,6 +75,12 @@ attacks:
   - name: "Double Shot"
     desc: "`pf2:2`  Graytusk can make two ranged Strikes against two different targets, each at a -2 penalty, Graytusk's multiple attack penalty increases only after both attacks are made."
  
+```
+
+```encounter-table
+name: Graytusk
+creatures:
+  - 1: Graytusk
 ```
 
 

@@ -11,6 +11,7 @@ tags:
   
 
 **TABLE: STAMINA AND HIT POINTS BY CLASS**
+ 
 | **Normal Class HP** | **Class Stamina Points** | **Class Hit Points** | **Classes** |
 | --- | --- | --- | --- |
 | 6 + Con modifier | 3 + Con modifier | 3 | Sorcerer, wizard |

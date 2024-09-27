@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/chaotic
   - pf2e/creature/type/evil
   - pf2e/creature/type/plant
+  - pf2eMonster
   - pf2e/creature/level/18
 statblock: inline
 name: "Tree that Weeps"
@@ -22,12 +23,12 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Kingmaker"
 name: "Tree that Weeps"
 level: "Creature 18"
-rare_03: "Rare"
+rare_03: [[Rare]]
 alignment: ""
 size: "grg"
-trait_01: "chaotic"
-trait_02: "evil"
-trait_03: "plant"
+trait_01: [[chaotic]]
+trait_02: [[evil]]
+trait_03: [[plant]]
 modifier: 30
 perception:
   - name: "Perception"
@@ -35,7 +36,7 @@ perception:
 languages: "Aklo, Arboreal, Fey"
 skills:
   - name: "Skills"
-    desc: "Athletics: +35, Stealth: +31 (+33 in forests)"
+    desc: "Athletics: +35, Stealth: +31"
 abilityMods: [9, 5, 6, 0, 6, 0]
 speed: 15 feet
 sourcebook: "_Pathfinder Kingmaker_"
@@ -57,10 +58,10 @@ abilities_mid:
     desc: "  A Tree that Weeps takes 20 additional damage from axes."
 
   - name: "Ripping Disarm"
-    desc: "`pf2:r`  **Trigger** A creature rolls a critical failure on a melee weapon Strike against the Tree that Weepos\n**Effect** The Tree that Weeps attempts to [[Actions/Disarm|Disarm]] the creature."
+    desc: "`pf2:r`  **Trigger** A creature rolls a critical failure on a melee weapon Strike against the Tree that Weepos\n* * *\n\n**Effect** The Tree that Weeps attempts to [[Actions/Disarm|Disarm]] the creature."
 
   - name: "Weeping Aura"
-    desc: " (aura,emotion,incapacitation,mental,primal) 30 feet. **Requirements** The Tree that Weeps isn't using Dead Tree\n**Effect** A creature that begins its turn in the aura is potentially overwhelmed with despair and must attempt a DC 40 Will check save.\n**Critical Success** The creature is unaffected and is temporarily immune for 1 hour.\n**Success** The creature is [[Conditions/Sickened 1|Sickened 1]].\n**Failure** The creature is [[Conditions/Paralyzed|Paralyzed]] for 1 round by despair, and then [[Conditions/Sickened 1|Sickened 2]] after recovering from paralysis.\n**Critical Failure** As failure, but the paralysis doesn't end automatically. A character can attempt a new Will save to end the paralysis at the end of their turn; the DC is reduced by 1 each turn that passes."
+    desc: " (aura,emotion,incapacitation,mental,primal) 30 feet. **Requirements** The Tree that Weeps isn't using Dead Tree\n\n**Effect** A creature that begins its turn in the aura is potentially overwhelmed with despair and must attempt a DC 40 Will check save.\n* * *\n\n**Critical Success** The creature is unaffected and is temporarily immune for 1 hour.\n\n**Success** The creature is [[Conditions/Sickened|Sickened 1]].\n\n**Failure** The creature is [[Conditions/Paralyzed|Paralyzed]] for 1 round by despair, and then [[Conditions/Sickened|Sickened 2]] after recovering from paralysis.\n\n**Critical Failure** As failure, but the paralysis doesn't end automatically. A character can attempt a new Will save to end the paralysis at the end of their turn; the DC is reduced by 1 each turn that passes."
 
 attacks:
   - name: ""
@@ -72,8 +73,14 @@ attacks:
     desc: "`pf2:1` (concentrate) Until the Tree that Weeps acts, it appears to be a dead tree. It automatically takes 43 as the result of its Deception checks and has a Deception DC of 43 to pass as a dead tree."
 
   - name: "Woodland Ambush"
-    desc: "`pf2:1`  **Requirements** The Tree that Weeps is using Dead Tree in forested terrain, and a creature that hasn't detected it is within 30 feet\n**Effect** The Tree that Weeps Strides with a +10-foot circumstance bonus to its Speed in the direction of the triggering creature. Once the creature is in reach, the Tree that Weeps makes a scythe branch Strike against it. The creature is [[Conditions/Off-Guard|Off-Guard]] against this Strike."
+    desc: "`pf2:1`  **Requirements** The Tree that Weeps is using Dead Tree in forested terrain, and a creature that hasn't detected it is within 30 feet\n\n**Effect** The Tree that Weeps Strides with a +10-foot circumstance bonus to its Speed in the direction of the triggering creature. Once the creature is in reach, the Tree that Weeps makes a scythe branch Strike against it. The creature is [[Conditions/Off-Guard|Off-Guard]] against this Strike."
  
+```
+
+```encounter-table
+name: Tree that Weeps
+creatures:
+  - 1: Tree that Weeps
 ```
 
 

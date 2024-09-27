@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/kami
   - pf2e/creature/type/lawful
   - pf2e/creature/type/spirit
+  - pf2eMonster
   - pf2e/creature/level/10
 statblock: inline
 name: "Zuishin"
@@ -27,15 +28,15 @@ level: "Creature 10"
 
 alignment: ""
 size: "Medium"
-trait_01: "good"
-trait_02: "kami"
-trait_03: "lawful"
-trait_04: "spirit"
+trait_01: [[good]]
+trait_02: [[kami]]
+trait_03: [[lawful]]
+trait_04: [[spirit]]
 modifier: 21
 perception:
   - name: "Perception"
     desc: "+21; Darkvision"
-languages: "Common"
+languages: "Common; telepathy 100 feet"
 skills:
   - name: "Skills"
     desc: "Acrobatics: +23, Athletics: +22, Intimidation: +19, Medicine: +21, Nature: +21, Stealth: +21"
@@ -56,7 +57,7 @@ abilities_top:
   - name: "Items"
     desc: "[[Equipment/Composite Longbow|+1 Composite Longbow]], [[Equipment/Katana|+1 Katana]], [[Equipment/Breastplate|+1 Breastplate]]"
   - name: "Ward"
-    desc: " (divine) Every kami is bound to a ward: a specific animal, plant, object, or location. A kami can merge with or emerge from their ward as a single action, which has the concentrate trait. While merged, the kami can observe their surroundings with their usual senses as well as the senses of their ward, but can't move, communicate with, or control their ward. Additionally, a kami merged with their ward recovers Hit Points each minute as if they spent an entire day resting.\nA zuishin's ward is typically a gate, doorway or shrine."
+    desc: " (divine) Every kami is bound to a ward: a specific animal, plant, object, or location. A kami can merge with or emerge from their ward as a single action, which has the concentrate trait. While merged, the kami can observe their surroundings with their usual senses as well as the senses of their ward, but can't move, communicate with, or control their ward. Additionally, a kami merged with their ward recovers Hit Points each minute as if they spent an entire day resting.\n\nA zuishin's ward is typically a gate, doorway or shrine."
 
 abilities_mid:
   - name: ""
@@ -76,11 +77,17 @@ attacks:
     desc: "DC 29, attack +21; __5th __  _[[Spells/Breath of Life|Breath of Life]]_, _[[Spells/Translocate|Dimension Door (x3)]]_, _[[Spells/Dispel Magic|Dispel Magic]]_, _[[Spells/Heal|Heal]]_; __4th __  _[[Compendium.pf2e.spells-srd.Item.RneiyehRO6f7LP44|Remove Disease]]_, _[[Spells/Sure Footing|Remove Paralysis]]_; __3rd __  _[[Spells/Heal|Heal (x2)]]_; __2nd __  _[[Spells/Detect Alignment|Detect Alignment (At Will) (Evil Only)]]_, _[[Spells/Share Life|Shield Other]]_"
 
   - name: "Healing Arrow"
-    desc: "`pf2:2` (divine,healing) The zuishin blesses an arrow with healing magic and makes a _composite longbow_ Strike against an ally. If it hits, rather than dealing damage, the arrow is infused with the effects of one of the following of the zuishin's innate divine spells: [[Spells/Breath of Life|Breath of Life]], [[Spells/Heal|Heal]], [[Spells/Cleanse Affliction|Cleanse Affliction]], or [[Spells/Sure Footing|Sure Footing]]. The zuishin must have the spell available to cast, and using this ability expends the spell.\nIf the zuishin rolls a failure on the attack roll against an ally who's aware of the arrow and wants to be hit, the attack hits, but on a critical failure, it still misses."
+    desc: "`pf2:2` (divine,healing) The zuishin blesses an arrow with healing magic and makes a _composite longbow_ Strike against an ally. If it hits, rather than dealing damage, the arrow is infused with the effects of one of the following of the zuishin's innate divine spells: [[Spells/Breath of Life|Breath of Life]], [[Spells/Heal|Heal]], [[Spells/Cleanse Affliction|Cleanse Affliction]], or [[Spells/Sure Footing|Sure Footing]]. The zuishin must have the spell available to cast, and using this ability expends the spell.\n\nIf the zuishin rolls a failure on the attack roll against an ally who's aware of the arrow and wants to be hit, the attack hits, but on a critical failure, it still misses."
 
   - name: "Holy Weaponry"
     desc: " (divine) Any weapon becomes a _Striking [[Equipment/Holy|Holy]]_ weapon while the zuishin wields it. A zuishin creates arrows out of nothing as part of their attacks with any bow they wield."
  
+```
+
+```encounter-table
+name: Zuishin
+creatures:
+  - 1: Zuishin
 ```
 
 

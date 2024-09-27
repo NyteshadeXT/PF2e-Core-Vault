@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/duergar
   - pf2e/creature/type/dwarf
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/2
   - remaster
 statblock: inline
@@ -27,9 +28,9 @@ level: "Creature 2"
 
 alignment: ""
 size: "Medium"
-trait_01: "duergar"
-trait_02: "dwarf"
-trait_03: "humanoid"
+trait_01: [[duergar]]
+trait_02: [[dwarf]]
+trait_03: [[humanoid]]
 modifier: 8
 perception:
   - name: "Perception"
@@ -74,6 +75,12 @@ attacks:
   - name: "Take Them Down!"
     desc: "`pf2:1`  The hryngar taskmaster smashes their maul into the ground and invokes Droskar's name to rally their allies to action. All allied hryngars of equal or lower level that are within 20 feet of the hryngar taskmaster gain a +1 status bonus to attack rolls and damage rolls until the end of the hryngar taskmaster's next turn.\n\n[[Bestiary Effects/Effect_ Take Them Down!|Effect: Take Them Down!]]"
  
+```
+
+```encounter-table
+name: Hryngar Taskmaster
+creatures:
+  - 1: Hryngar Taskmaster
 ```
 
 

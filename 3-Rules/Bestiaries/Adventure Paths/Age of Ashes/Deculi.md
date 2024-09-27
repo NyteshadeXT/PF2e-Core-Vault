@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.age-of-ashes-bestiary.Actor.5jFR05QRixpOChRy"
 tags:
   - pf2e/creature/type/beast
   - pf2e/creature/type/evil
+  - pf2eMonster
   - pf2e/creature/level/12
 statblock: inline
 name: "Deculi"
@@ -24,13 +25,13 @@ level: "Creature 12"
 
 alignment: ""
 size: "Large"
-trait_01: "beast"
-trait_02: "evil"
+trait_01: [[beast]]
+trait_02: [[evil]]
 modifier: 23
 perception:
   - name: "Perception"
     desc: "+23; Infrared Vision 60 Feet"
-languages: "Sakvroth"
+languages: "Sakvroth; (can&#x27;t speak any language)"
 skills:
   - name: "Skills"
     desc: "Acrobatics: +24, Athletics: +24, Stealth: +26"
@@ -67,14 +68,20 @@ attacks:
     desc: "DC 32, attack +24; __6th __  _[[Spells/Darkness|Darkness (At Will)]]_"
 
   - name: "Create Shadow Sanctuary"
-    desc: "`pf2:2` (darkness,extradimensional,occult) **Frequency** once per day\n**Effect** The deculi creates an extradimensional space adjacent to itself in any 10-foot-by-10-foot area of darkness and enters it. To non-deculis, the extradimensional space looks like an ordinary area of darkness (though effects such as true seeing can see through this illusion). The deculi's infrared vision functions normally between this extradimensional space and the area outside its confines, allowing the deculi to sense what is going on around it, and its innate darkness spell also extends to the area around the shadow sanctuary. Attacks cannot be made into or from the extradimensional space.\nThe deculi can Dismiss this effect to emerge from its shadow sanctuary, but the space it emerges into must be in darkness and must be unobstructed. If the area is obstructed, the deculi is shunted to the nearest available space and takes 1d6 bludgeoning damage per 5 feet shunted. If the area overlaying the shadow sanctuary becomes illuminated by magical light, the extradimensional space can no longer be accessed and the deculi is trapped within until the area is once again in darkness. The deculi can try to extinguish a magical light effect obscuring its sanctuary once per day by attempting to counteract the light effect with its darkness innate spell.\nIf a deculi dies (including from hunger, thirst, or asphyxiation) while within the extradimensional space, the shadow sanctuary immediately ends and the deculi's corpse is expelled. If the area is illuminated, the corpse is not expelled until the sanctuary entrance is in darkness once again."
+    desc: "`pf2:2` (darkness,extradimensional,occult) **Frequency** once per day\n* * *\n\n**Effect** The deculi creates an extradimensional space adjacent to itself in any 10-foot-by-10-foot area of darkness and enters it. To non-deculis, the extradimensional space looks like an ordinary area of darkness (though effects such as true seeing can see through this illusion). The deculi's infrared vision functions normally between this extradimensional space and the area outside its confines, allowing the deculi to sense what is going on around it, and its innate darkness spell also extends to the area around the shadow sanctuary. Attacks cannot be made into or from the extradimensional space.\n\nThe deculi can Dismiss this effect to emerge from its shadow sanctuary, but the space it emerges into must be in darkness and must be unobstructed. If the area is obstructed, the deculi is shunted to the nearest available space and takes 1d6 bludgeoning damage per 5 feet shunted. If the area overlaying the shadow sanctuary becomes illuminated by magical light, the extradimensional space can no longer be accessed and the deculi is trapped within until the area is once again in darkness. The deculi can try to extinguish a magical light effect obscuring its sanctuary once per day by attempting to counteract the light effect with its darkness innate spell.\n\nIf a deculi dies (including from hunger, thirst, or asphyxiation) while within the extradimensional space, the shadow sanctuary immediately ends and the deculi's corpse is expelled. If the area is illuminated, the corpse is not expelled until the sanctuary entrance is in darkness once again."
 
   - name: "Shadow Strike"
-    desc: "`pf2:2`  **Requirements** The deculi is in its shadow sanctuary.\n**Effect** The deculi Dismisses its shadow sanctuary. It Strides, Climbs, or Flies up to its Speed, then makes a fangs Strike that deals an additional 4d6 precision damage."
+    desc: "`pf2:2`  **Requirements** The deculi is in its shadow sanctuary.\n* * *\n\n**Effect** The deculi Dismisses its shadow sanctuary. It Strides, Climbs, or Flies up to its Speed, then makes a fangs Strike that deals an additional 4d6 precision damage."
 
   - name: "Walk in Shadow"
     desc: "  When the deculi is Hiding in darkness and Sneaks, it can move up to its full Speed instead of half its Speed."
  
+```
+
+```encounter-table
+name: Deculi
+creatures:
+  - 1: Deculi
 ```
 
 

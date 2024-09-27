@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/undead
   - pf2e/creature/type/unholy
+  - pf2eMonster
   - pf2e/creature/level/7
 statblock: inline
 name: "The Disciples"
@@ -22,17 +23,17 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Adventure: Crown of the Kobold King"
 name: "The Disciples"
 level: "Creature 7"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Medium"
-trait_01: "evil"
-trait_02: "undead"
-trait_03: "unholy"
+trait_01: [[evil]]
+trait_02: [[undead]]
+trait_03: [[unholy]]
 modifier: 15
 perception:
   - name: "Perception"
     desc: "+15; Darkvision, Lifesense 30 Feet"
-languages: "Dwarven"
+languages: "Dwarven; (can&#x27;t speak any language)"
 skills:
   - name: "Skills"
     desc: "Athletics: +17, Stealth: +14"
@@ -66,11 +67,17 @@ attacks:
     desc: "`pf2:1` Claw +17 (agile, magical)\n__Damage__  2d6 + 9 slashing"
 
   - name: "Agonized Howl"
-    desc: "`pf2:2` (auditory,mental,occult) The unrisen howls in pain at its cursed existence. Creatures within a 30-foot emanation take 6d8 mental damage (DC 25 Will check). The unrisen can't use Agonized Howl again for 1d4 rounds."
+    desc: "`pf2:2` (auditory,mental,occult) The unrisen howls in pain at its cursed existence. Creatures within a @Template[emanation|distance:30] take 6d8 mental damage (DC 25 Will check). The unrisen can't use Agonized Howl again for 1d4 rounds."
 
   - name: "Awful Approach"
-    desc: "`pf2:1`  The unrisen reshapes its grotesque form to move swiftly. It Strides twice. Any living creature that can see the unrisen during this movement must succeed at a DC 22 Fortitude check save or be [[Conditions/Sickened 1|Sickened 1]] ([[Conditions/Sickened 1|Sickened 2]] on a critical failure). This is a mental and visual effect. The unrisen can't use Awful Approach again for 1d4 rounds."
+    desc: "`pf2:1`  The unrisen reshapes its grotesque form to move swiftly. It Strides twice. Any living creature that can see the unrisen during this movement must succeed at a DC 22 Fortitude check save or be [[Conditions/Sickened|Sickened 1]] ([[Conditions/Sickened|Sickened 2]] on a critical failure). This is a mental and visual effect. The unrisen can't use Awful Approach again for 1d4 rounds."
  
+```
+
+```encounter-table
+name: The Disciples
+creatures:
+  - 1: The Disciples
 ```
 
 

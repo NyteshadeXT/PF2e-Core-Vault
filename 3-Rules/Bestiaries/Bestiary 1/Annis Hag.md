@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/hag
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/6
 statblock: inline
 name: "Annis Hag"
@@ -27,10 +28,10 @@ level: "Creature 6"
 
 alignment: ""
 size: "Large"
-trait_01: "chaotic"
-trait_02: "evil"
-trait_03: "hag"
-trait_04: "humanoid"
+trait_01: [[chaotic]]
+trait_02: [[evil]]
+trait_03: [[hag]]
+trait_04: [[humanoid]]
 modifier: 15
 perception:
   - name: "Perception"
@@ -38,7 +39,7 @@ perception:
 languages: "Aklo, Common, Jotun"
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +10, Athletics: +14 (+16 to Grapple), Deception: +11, Diplomacy: +9, Intimidation: +11, Stealth: +14"
+    desc: "Acrobatics: +10, Athletics: +14, Deception: +11, Diplomacy: +9, Intimidation: +11, Stealth: +14"
 abilityMods: [6, 4, 4, 1, 4, 3]
 speed: 40 feet
 sourcebook: "_Pathfinder Bestiary_"
@@ -55,7 +56,7 @@ abilities_top:
   - name: ""
 
   - name: "[[Bestiary Ability Glossary/Coven|Coven]]"
-    desc: " (mental,occult) An annis hag adds [[Spells/Earthbind|Earthbind]], [[Spells/Magic Passage|Magic Passage]], and [[Spells/Spellwrack|Spellwrack]] to her coven's spells.\n"
+    desc: " (mental,occult) An annis hag adds [[Spells/Earthbind|Earthbind]], [[Spells/Magic Passage|Magic Passage]], and [[Spells/Spellwrack|Spellwrack]] to her coven's spells.\n\n* * *\n"
 
 abilities_mid:
   - name: ""
@@ -72,17 +73,23 @@ attacks:
     desc: "_[[Spells/Control Weather|Control Weather]]_"
 
   - name: "Bonds of Iron"
-    desc: "`pf2:2` (attack,occult) Once per day, an annis hag can cause a cage built of cold iron fingernails to spring out of nothingness at a range of up to 30 feet, attempting an Athletics check check to [[Actions/Grapple|Grapple]] against the target's Fortitude DC; if the target has a weakness to cold iron, the annis hag gains a +2 circumstance bonus to this check.\nUnlike a normal Grapple, the annis hag doesn't need to be within reach and can move as she pleases, and a successful attempt lasts until the creature escapes (DC 24), causing the cage to crumble into rust.\nAny creature can attempt to destroy the cage by attacking it. It has an AC of 19, Hardness 10, and 40 Hit Points."
+    desc: "`pf2:2` (attack,occult) Once per day, an annis hag can cause a cage built of cold iron fingernails to spring out of nothingness at a range of up to 30 feet, attempting an Athletics check check to [[Actions/Grapple|Grapple]] against the target's Fortitude DC; if the target has a weakness to cold iron, the annis hag gains a +2 circumstance bonus to this check.\n\nUnlike a normal Grapple, the annis hag doesn't need to be within reach and can move as she pleases, and a successful attempt lasts until the creature escapes (DC 24), causing the cage to crumble into rust.\n\nAny creature can attempt to destroy the cage by attacking it. It has an AC of 19, Hardness 10, and 40 Hit Points."
 
   - name: "[[Bestiary Ability Glossary/Change Shape|Change Shape]]"
-    desc: "`pf2:1` (concentrate,occult,polymorph) The hag can take on the appearance of any Medium female humanoid. This doesn't change her Speed or her attack and damage bonuses with her Strikes but might change the damage type her Strikes deal (typically to bludgeoning).\n"
+    desc: "`pf2:1` (concentrate,occult,polymorph) The hag can take on the appearance of any Medium female humanoid. This doesn't change her Speed or her attack and damage bonuses with her Strikes but might change the damage type her Strikes deal (typically to bludgeoning).\n\n* * *\n"
 
   - name: "[[Bestiary Ability Glossary/Rend|Rend]]"
-    desc: "`pf2:1`  Claw\n"
+    desc: "`pf2:1`  Claw\n\n* * *\n"
 
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
     desc: "`pf2:1`  "
  
+```
+
+```encounter-table
+name: Annis Hag
+creatures:
+  - 1: Annis Hag
 ```
 
 

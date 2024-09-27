@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/chaotic
   - pf2e/creature/type/humanoid
   - pf2e/creature/type/lizardfolk
+  - pf2eMonster
   - pf2e/creature/level/6
 statblock: inline
 name: "King Vesket"
@@ -22,12 +23,12 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Kingmaker"
 name: "King Vesket"
 level: "Creature 6"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Medium"
-trait_01: "chaotic"
-trait_02: "humanoid"
-trait_03: "lizardfolk"
+trait_01: [[chaotic]]
+trait_02: [[humanoid]]
+trait_03: [[lizardfolk]]
 modifier: 12
 perception:
   - name: "Perception"
@@ -66,18 +67,24 @@ attacks:
   - name: "Melee"
     desc: "`pf2:1` Tail +17 (agile, sweep)\n__Damage__  2d6 + 7 bludgeoning"
 
-  - name: "Melee"
+  - name: "Ranged"
     desc: "`pf2:1` Trident +18 (magical, thrown 20 ft.)\n__Damage__  2d8 + 7 piercing"
 
   - name: "Ranged"
     desc: "`pf2:1` Trident +18 (magical, thrown 20 ft.)\n__Damage__  2d8 + 10 piercing"
 
   - name: "Trident Twist"
-    desc: "`pf2:1`  **Requirements** Vesket is wielding a trident\n**Effect** Vesket attempts to [[Actions/Disarm|Disarm]] a foe. If he critically succeeds, he makes a trident melee Strike against the disarmed foe, using the same multiple attack penalty as the Disarm attempt. The trident Strike does not count toward his multiple attack penalty."
+    desc: "`pf2:1`  **Requirements** Vesket is wielding a trident\n\n**Effect** Vesket attempts to [[Actions/Disarm|Disarm]] a foe. If he critically succeeds, he makes a trident melee Strike against the disarmed foe, using the same multiple attack penalty as the Disarm attempt. The trident Strike does not count toward his multiple attack penalty."
 
   - name: "Triumphant Roar"
-    desc: "`pf2:1`  **Requirements** Vesket's last action reduced a foe to 0 Hit Points\n**Effect** Vesket attempts an Intimidation check to [[Actions/Demoralize|Demoralize]] up to four foes within 30 feet. For each success, he gains 4 temporary Hit Points (8 on a critical success) that last for 10 minutes."
+    desc: "`pf2:1`  **Requirements** Vesket's last action reduced a foe to 0 Hit Points\n\n**Effect** Vesket attempts an Intimidation check to [[Actions/Demoralize|Demoralize]] up to four foes within 30 feet. For each success, he gains 4 temporary Hit Points (8 on a critical success) that last for 10 minutes."
  
+```
+
+```encounter-table
+name: King Vesket
+creatures:
+  - 1: King Vesket
 ```
 
 

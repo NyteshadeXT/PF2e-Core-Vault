@@ -11,6 +11,7 @@ tags:
   - pf2e/creature/type/spirit
   - pf2e/creature/type/undead
   - pf2e/creature/type/unholy
+  - pf2eMonster
   - pf2e/creature/level/6
 statblock: inline
 name: "Grimbal"
@@ -25,15 +26,15 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Adventure: Crown of the Kobold King"
 name: "Grimbal"
 level: "Creature 6"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Medium"
-trait_01: "evil"
-trait_02: "ghost"
-trait_03: "incorporeal"
-trait_04: "spirit"
-trait_05: "undead"
-trait_06: "unholy"
+trait_01: [[evil]]
+trait_02: [[ghost]]
+trait_03: [[incorporeal]]
+trait_04: [[spirit]]
+trait_05: [[undead]]
+trait_06: [[unholy]]
 modifier: 13
 perception:
   - name: "Perception"
@@ -72,8 +73,14 @@ attacks:
     desc: "`pf2:1` Ghostly Hand +16 (agile, finesse, magical)\n__Damage__  2d8 + 6 void plus drain-mind"
 
   - name: "Drain Mind"
-    desc: " (divine) When Grimbal damages a living creature with his ghostly hand Strike, the ghost gains 5 temporary Hit Points, and the creature must succeed at a DC 24 Will check save or become [[Conditions/Stupefied 1|Stupefied 1]]. Further damage dealt by the ghost increases this stupefied value by 1 on a failed save to a maximum of [[Conditions/Stupefied 1|Stupefied 4]]. Each time a creature affected by drain mind gets a full night's rest, decrease its stupefied value caused by drain mind by 1."
+    desc: " (divine) When Grimbal damages a living creature with his ghostly hand Strike, the ghost gains 5 temporary Hit Points, and the creature must succeed at a DC 24 Will check save or become [[Conditions/Stupefied|Stupefied 1]]. Further damage dealt by the ghost increases this stupefied value by 1 on a failed save to a maximum of [[Conditions/Stupefied|Stupefied 4]]. Each time a creature affected by drain mind gets a full night's rest, decrease its stupefied value caused by drain mind by 1."
  
+```
+
+```encounter-table
+name: Grimbal
+creatures:
+  - 1: Grimbal
 ```
 
 

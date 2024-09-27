@@ -25,7 +25,7 @@ Able to copy itself many times over when thrown until the air is filled with dea
 
 * * *
 
-**Effect** You fling your weapon and it multiplies as it flies through the air, filling a 30-foot cone. All creatures within the area take damage equal to double the weapon's number of damage dice, with a DC 27 Reflex check.
+**Effect** You fling your weapon and it multiplies as it flies through the air, filling a @Template\[cone|distance:30\]. All creatures within the area take damage equal to double the weapon's number of damage dice, with a DC 27 Reflex check.
 
 *Source: Pathfinder Treasure Vault*
 *OGL*

@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/human
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/7
 statblock: inline
 name: "False Priestess"
@@ -22,12 +23,12 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Kingmaker"
 name: "False Priestess"
 level: "Creature 7"
-rare_03: "Rare"
+rare_03: [[Rare]]
 alignment: ""
 size: "Medium"
-trait_01: "evil"
-trait_02: "human"
-trait_03: "humanoid"
+trait_01: [[evil]]
+trait_02: [[human]]
+trait_03: [[humanoid]]
 modifier: 15
 perception:
   - name: "Perception"
@@ -67,11 +68,17 @@ attacks:
     desc: "2 Focus Points, DC 25, attack +17; __4th __  _[[Spells/Faerie Dust|Faerie Dust]]_, _[[Spells/Fey Disappearance|Fey Disappearance]]_"
 
   - name: "Primal Weapon"
-    desc: "  **Frequency** once per turn\n**Requirements** the false priestess' most recent action was to cast a non-cantrip spell\n**Effect** Until the end of the false priestess's next turn, the priestess deals an extra 1d6 slashing damage with her melee Strikes."
+    desc: "  **Frequency** once per turn\n\n**Requirements** the false priestess' most recent action was to cast a non-cantrip spell\n\n**Effect** Until the end of the false priestess's next turn, the priestess deals an extra 1d6 slashing damage with her melee Strikes."
 
   - name: "Reach Spell"
     desc: "`pf2:1` (concentrate,spellshape) If the next action the false priestess uses is to [[Actions/Cast a Spell|Cast a Spell]] that has a range, increase that spell's range by 30 feet."
  
+```
+
+```encounter-table
+name: False Priestess
+creatures:
+  - 1: False Priestess
 ```
 
 

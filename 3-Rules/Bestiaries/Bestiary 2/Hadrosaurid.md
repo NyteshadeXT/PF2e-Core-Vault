@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.pathfinder-bestiary-2.Actor.GnKay44MFMZkqXRi"
 tags:
   - pf2e/creature/type/animal
   - pf2e/creature/type/dinosaur
+  - pf2eMonster
   - pf2e/creature/level/4
 statblock: inline
 name: "Hadrosaurid"
@@ -25,12 +26,13 @@ level: "Creature 4"
 
 alignment: ""
 size: "huge"
-trait_01: "animal"
-trait_02: "dinosaur"
+trait_01: [[animal]]
+trait_02: [[dinosaur]]
 modifier: 13
 perception:
   - name: "Perception"
     desc: "+13; Low-Light Vision, Scent (Imprecise) 30 Feet"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Athletics: +12, Stealth: +10"
@@ -61,11 +63,17 @@ attacks:
     desc: "`pf2:1` Foot +12 (reach 15 feet)\n__Damage__  2d4 + 8 bludgeoning"
 
   - name: "Sprint"
-    desc: "`pf2:2`  **Frequency** once per minute\n**Effect** The hadrosaurid Strides twice. It has a +20-foot circumstance bonus to its Speed during these Strides."
+    desc: "`pf2:2`  **Frequency** once per minute\n* * *\n\n**Effect** The hadrosaurid Strides twice. It has a +20-foot circumstance bonus to its Speed during these Strides."
 
   - name: "[[Bestiary Ability Glossary/Trample|Trample]]"
-    desc: "`pf2:3`  Large or smaller, foot, DC 21 Reflex check\n"
+    desc: "`pf2:3`  Large or smaller, foot, DC 21 Reflex check\n\n* * *\n"
  
+```
+
+```encounter-table
+name: Hadrosaurid
+creatures:
+  - 1: Hadrosaurid
 ```
 
 

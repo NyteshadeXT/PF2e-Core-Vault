@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/earth
   - pf2e/creature/type/mindless
   - pf2e/creature/type/shadow
+  - pf2eMonster
   - pf2e/creature/level/8
 statblock: inline
 name: "Shadowbound Monk Statue"
@@ -23,20 +24,21 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #183: Field of Maidens"
 name: "Shadowbound Monk Statue"
 level: "Creature 8"
-rare_03: "Rare"
+rare_03: [[Rare]]
 alignment: ""
 size: "Large"
-trait_01: "construct"
-trait_02: "earth"
-trait_03: "mindless"
-trait_04: "shadow"
+trait_01: [[construct]]
+trait_02: [[earth]]
+trait_03: [[mindless]]
+trait_04: [[shadow]]
 modifier: 15
 perception:
   - name: "Perception"
     desc: "+15; Darkvision"
+languages: ""
 skills:
   - name: "Skills"
-    desc: "Athletics: +17"
+    desc: "Athletics: +19"
 abilityMods: [6, -1, 6, -5, 0, -5]
 speed: 30 feet
 sourcebook: "_Pathfinder #183: Field of Maidens_"
@@ -75,6 +77,12 @@ attacks:
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
     desc: "`pf2:1`  "
  
+```
+
+```encounter-table
+name: Shadowbound Monk Statue
+creatures:
+  - 1: Shadowbound Monk Statue
 ```
 
 

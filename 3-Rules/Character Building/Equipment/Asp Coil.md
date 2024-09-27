@@ -13,7 +13,7 @@ license: OGL
 ---
 # Asp Coil
 ## Item 0
-### [uncommon](uncommon "Uncommon Rarity Trait")[[reach]][[versatile-p]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[3-Rules/Rule References/Reach]][[versatile-p]]
 
 |  |  |
 | -- | -- |

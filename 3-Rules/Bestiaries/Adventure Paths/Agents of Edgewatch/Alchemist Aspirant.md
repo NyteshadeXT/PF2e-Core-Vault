@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/human
   - pf2e/creature/type/humanoid
   - pf2e/creature/type/lawful
+  - pf2eMonster
   - pf2e/creature/level/10
 statblock: inline
 name: "Alchemist Aspirant"
@@ -23,13 +24,13 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #160: Assault on Hunting Lodge Seven"
 name: "Alchemist Aspirant"
 level: "Creature 10"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Medium"
-trait_01: "evil"
-trait_02: "human"
-trait_03: "humanoid"
-trait_04: "lawful"
+trait_01: [[evil]]
+trait_02: [[human]]
+trait_03: [[humanoid]]
+trait_04: [[lawful]]
 modifier: 16
 perception:
   - name: "Perception"
@@ -37,7 +38,7 @@ perception:
 languages: "Common, Draconic, Elven"
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +20, Crafting: +23, Deception: +16, Medicine: +16, Nature: +18, Poison Lore: +21, Stealth: +20, Survival: +18"
+    desc: "Acrobatics: +20, Crafting: +23, Deception: +16, Medicine: +16, Nature: +18, Stealth: +20, Survival: +18, Poison Lore: +21"
 abilityMods: [2, 4, 2, 5, 2, 0]
 speed: 25 feet
 sourcebook: "_Pathfinder #160: Assault on Hunting Lodge Seven_"
@@ -81,11 +82,17 @@ attacks:
     desc: "  Japu's bombs that have the splash trait deal 5 splash damage and splash to 10 feet."
 
   - name: "Quick Alchemy"
-    desc: "`pf2:1`  **Cost** 1 batch of infused reagents\n**Effect** Japu creates a single alchemical item from his formula book (see Alchemical Formulas). This item has the infused trait, but it remains potent only until the end of his next turn."
+    desc: "`pf2:1`  **Cost** 1 batch of infused reagents\n* * *\n\n**Effect** Japu creates a single alchemical item from his formula book (see Alchemical Formulas). This item has the infused trait, but it remains potent only until the end of his next turn."
 
   - name: "Quick Bomber"
     desc: "`pf2:1`  Japu Interacts to draw a bomb then Strikes with it."
  
+```
+
+```encounter-table
+name: Alchemist Aspirant
+creatures:
+  - 1: Alchemist Aspirant
 ```
 
 

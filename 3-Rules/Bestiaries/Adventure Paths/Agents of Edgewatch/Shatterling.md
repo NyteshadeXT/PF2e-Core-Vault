@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/chaotic
   - pf2e/creature/type/evil
   - pf2e/creature/type/fey
+  - pf2eMonster
   - pf2e/creature/level/14
 statblock: inline
 name: "Shatterling"
@@ -22,16 +23,17 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #160: Assault on Hunting Lodge Seven"
 name: "Shatterling"
 level: "Creature 14"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Small"
-trait_01: "chaotic"
-trait_02: "evil"
-trait_03: "fey"
+trait_01: [[chaotic]]
+trait_02: [[evil]]
+trait_03: [[fey]]
 modifier: 26
 perception:
   - name: "Perception"
     desc: "+26; Low-Light Vision"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Acrobatics: +28, Athletics: +25, Intimidation: +25, Society: +20, Stealth: +32, Thievery: +30"
@@ -53,10 +55,10 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Attack of Opportunity"
-    desc: "`pf2:r`  **Trigger** A creature within the monster's reach uses a manipulate action or a move action, makes a ranged attack, or leaves a square during a move action it's using.\n**Effect** The monster attempts a melee Strike against the triggering creature. If the attack is a critical hit and the trigger was a manipulate action, the monster disrupts that action. This Strike doesn't count toward the monster's multiple attack penalty, and its multiple attack penalty doesn't apply to this Strike."
+    desc: "`pf2:r`  **Trigger** A creature within the monster's reach uses a manipulate action or a move action, makes a ranged attack, or leaves a square during a move action it's using.\n* * *\n\n**Effect** The monster attempts a melee Strike against the triggering creature. If the attack is a critical hit and the trigger was a manipulate action, the monster disrupts that action. This Strike doesn't count toward the monster's multiple attack penalty, and its multiple attack penalty doesn't apply to this Strike."
 
   - name: "Divert Strike"
-    desc: "`pf2:r`  **Trigger** A shatterling takes non-bludgeoning damage and there's an unbroken mirror at least 1 foot wide within 100 feet of the shatterling\n**Effect** The nearest mirror to the shatterling at least 1 foot wide breaks, and the damage to the shatterling is reduced to 0."
+    desc: "`pf2:r`  **Trigger** A shatterling takes non-bludgeoning damage and there's an unbroken mirror at least 1 foot wide within 100 feet of the shatterling\n* * *\n\n**Effect** The nearest mirror to the shatterling at least 1 foot wide breaks, and the damage to the shatterling is reduced to 0."
 
   - name: "Extra Reaction"
     desc: "  A shatterling gains an additional reaction each turn, but can use this extra reaction only for Divert Strike."
@@ -85,6 +87,12 @@ attacks:
   - name: "Wipe Away Cracks"
     desc: "`pf2:3` (manipulate) The shatterling touches a broken mirror, instantly repairing it."
  
+```
+
+```encounter-table
+name: Shatterling
+creatures:
+  - 1: Shatterling
 ```
 
 

@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.rage-of-elements-bestiary.Actor.BKHoKKSWvc7rQoyz"
 tags:
   - pf2e/creature/type/elemental
   - pf2e/creature/type/metal
+  - pf2eMonster
   - pf2e/creature/level/2
   - remaster
 statblock: inline
@@ -25,8 +26,8 @@ level: "Creature 2"
 
 alignment: ""
 size: "Medium"
-trait_01: "elemental"
-trait_02: "metal"
+trait_01: [[elemental]]
+trait_02: [[metal]]
 modifier: 6
 perception:
   - name: "Perception"
@@ -63,11 +64,17 @@ attacks:
     desc: "`pf2:1` Shuriken +10 (agile, thrown 20 ft.)\n__Damage__  1d6 + 3 piercing"
 
   - name: "[[Bestiary Ability Glossary/Change Shape|Change Shape]]"
-    desc: "`pf2:1` (concentrate,polymorph,primal) The mercurial takes on the appearance of any Small or Medium humanoid. This transformation allows for significant detail and can reproduce the features of a specific individual, but the mercurial retains a shiny, liquid-metal appearance that renders the transformation unsuitable as a disguise unless they're impersonating another mercurial. It doesn't change the mercurial's Speed or the attack and damage bonuses of their Strikes, but it does allow them to transform their limbs into metal tools or melee weapons, potentially changing the damage type dealt by their Strikes.\n"
+    desc: "`pf2:1` (concentrate,polymorph,primal) The mercurial takes on the appearance of any Small or Medium humanoid. This transformation allows for significant detail and can reproduce the features of a specific individual, but the mercurial retains a shiny, liquid-metal appearance that renders the transformation unsuitable as a disguise unless they're impersonating another mercurial. It doesn't change the mercurial's Speed or the attack and damage bonuses of their Strikes, but it does allow them to transform their limbs into metal tools or melee weapons, potentially changing the damage type dealt by their Strikes.\n\n* * *\n"
 
   - name: "Metallurgic Adaptation"
     desc: "`pf2:1` (polymorph,primal) The mercurial transmutes their liquid metal body into cold iron, copper, gold, iron, silver, or steel. Their unarmed melee Strikes are made of that material until they use Metallurgic Adaptation again."
  
+```
+
+```encounter-table
+name: Mercurial
+creatures:
+  - 1: Mercurial
 ```
 
 

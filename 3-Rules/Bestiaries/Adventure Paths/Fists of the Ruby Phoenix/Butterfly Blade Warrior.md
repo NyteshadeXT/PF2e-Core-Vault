@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/human
   - pf2e/creature/type/humanoid
   - pf2e/creature/type/lawful
+  - pf2eMonster
   - pf2e/creature/level/13
 statblock: inline
 name: "Butterfly Blade Warrior"
@@ -22,12 +23,12 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #166: Despair on Danger Island"
 name: "Butterfly Blade Warrior"
 level: "Creature 13"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Medium"
-trait_01: "human"
-trait_02: "humanoid"
-trait_03: "lawful"
+trait_01: [[human]]
+trait_02: [[humanoid]]
+trait_03: [[lawful]]
 modifier: 23
 perception:
   - name: "Perception"
@@ -35,7 +36,7 @@ perception:
 languages: "Elven, Goblin, Orcish, Taldane, Tien"
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +27, Athletics: +22, Deception: +24, Goka Lore: +23, Society: +23, Stealth: +24"
+    desc: "Acrobatics: +27, Athletics: +22, Deception: +24, Society: +23, Stealth: +24, Goka Lore: +23"
 abilityMods: [3, 5, 3, 4, 0, 3]
 speed: 25 feet
 sourcebook: "_Pathfinder #166: Despair on Danger Island_"
@@ -75,6 +76,12 @@ attacks:
   - name: "Studied Strike"
     desc: "`pf2:1`  The warrior makes a telegraphed attack to learn about their foe. They make a melee Strike. On a hit, they can immediately attempt a check to Recall Knowledge about the target. On a critical hit, they gain a +2 circumstance bonus to the check to Recall Knowledge. The target is then temporarily immune to Studied Strike for 1 day."
  
+```
+
+```encounter-table
+name: Butterfly Blade Warrior
+creatures:
+  - 1: Butterfly Blade Warrior
 ```
 
 

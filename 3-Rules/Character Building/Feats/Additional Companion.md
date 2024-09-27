@@ -6,8 +6,9 @@ tags:
   - trait/archetype
   - trait/common
   - category/class
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.zBLrZE5aCkpaTK2N"
-license: OGL
+license: ORC
 ---
 # Additional Companion
 ## Feat 4
@@ -23,5 +24,5 @@ Another animal joins you in your travels. It is a young animal companion that ha
 
 **Special** You can select this feat more than once, gaining an additional animal companion each time, to a maximum of four total companions (including the one you gained from Beastmaster Dedication and possibly one you gained from sources other than the beastmaster archetype).
 
-*Source: Pathfinder Advanced Player's Guide*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

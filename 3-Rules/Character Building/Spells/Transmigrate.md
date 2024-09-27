@@ -4,25 +4,35 @@ title: "Transmigrate"
 noteType: pf2eSpell
 cssclasses: pf2e,pf2e-spell
 tags:
+  - pf2eSpell
   - spell/level/4
   - trait/healing
   - trait/unique
+
   - ritual
 aliases: "Compendium.pf2e.spells-srd.Item.8Lk9K3tRnV68MQPW" 
+license: OGL
 ---
-# Transmigrate   
-## Ritual 4
-### [unique](unique "Unique Rarity Trait")[[healing]]
-
-**Cast** 4 hours; **Secondary Casters** 2
-**Cost** heron feathers, incense, and specially prepared sakaki wood
-**Primary Check** Occultism or Religion
-**Secondary Checks** Crafting, Nature, Society, or Willowshore Lore
-**Range** 20 feet
-**Targets** the PCs
-**Duration** 1 month
-* * * 
-
-
-*Source: Pathfinder #198: No Breath to Cry*
-*OGL*
+```statblock
+name: "Transmigrate "
+level: "Ritual 4"
+rare_03: [[Unique]]
+trait_01: [[healing]]
+layout: Basic Pathfinder 2e Layout
+columns: 1
+columnWidth: x
+abilities_top:
+  - name: ""
+  - name: "Cast"
+    desc: "4 hours; **Cost** heron feathers, incense, and specially prepared sakaki wood; **Secondary Casters** 2"
+  - name: "Primary Check"
+    desc: "Occultism or Religion; **Secondary Checks** Crafting, Nature, Society, or Willowshore Lore"
+  - name: "Range"
+    desc: "20 feet; **Targets** the PCs"
+  - name: "Duration"
+    desc: "1 month"
+abilities_mid:
+  - name: ""
+    desc: ""
+sourcebook: "_Pathfinder #198: No Breath to Cry_"
+```

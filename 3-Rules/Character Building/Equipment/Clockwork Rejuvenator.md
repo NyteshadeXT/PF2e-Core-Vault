@@ -13,7 +13,7 @@ license: OGL
 ---
 # Clockwork Rejuvenator
 ## Item 18
-### [rare](rare "Rare Rarity Trait")[[clockwork]][[consumable]][[magical]]
+### [rare](rare.md "Rare Rarity Trait")[[clockwork]][[consumable]][[3-Rules/Rule References/Magical]]
 
 **Category** other; 
 **Price** 4500 gp; 

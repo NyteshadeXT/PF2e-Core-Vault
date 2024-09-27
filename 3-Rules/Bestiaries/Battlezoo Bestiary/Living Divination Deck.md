@@ -7,6 +7,7 @@ aliases: "Compendium.battlezoo-bestiary-pf2e.pf2e-battlezoo-bestiary.Actor.zQHTE
 tags:
   - pf2e/creature/type/construct
   - pf2e/creature/type/soulbound
+  - pf2eMonster
   - pf2e/creature/level/1
 statblock: inline
 name: "Living Divination Deck"
@@ -22,19 +23,19 @@ token: [[modules/battlezoo-bestiary-pf2e/art/living_divination_deck.webp| ]]
 source: "Battlezoo Bestiary"
 name: "Living Divination Deck"
 level: "Creature 1"
-rare_03: "Rare"
+rare_03: [[Rare]]
 alignment: ""
 size: "tiny"
-trait_01: "construct"
-trait_02: "soulbound"
+trait_01: [[construct]]
+trait_02: [[soulbound]]
 modifier: 9
 perception:
   - name: "Perception"
     desc: "+9; Lifesense (Imprecise) 30 Feet"
-languages: "Common"
+languages: "Common; (can&#x27;t speak any language); telepathy 30 feet"
 skills:
   - name: "Skills"
-    desc: "Occultism: +6, Performance: +6, Stealth: +7, Fortune-telling Lore: +9, Gambling Lore: +6, "
+    desc: "Occultism: +6, Performance: +6, Stealth: +7, Fortune-telling Lore: +9, Gambling Lore: +6"
 abilityMods: [0, 4, 0, -3, 4, 3]
 speed:  fly 10 feet
 sourcebook: "_Battlezoo Bestiary_"
@@ -53,7 +54,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Sealed Fate Aura"
-    desc: " (aura,curse,misfortune,occult) Aura 15 feet.\nThe deck quashes the good fortunes of any creatures in its vicinity. A creature that starts its turn in the aura must make a Will save. The living divination deck can suppress or reactivate this aura by spending one action (this action has the concentrate trait).\n**Success** The creature is unaffected and is immune to this living divination deck's Sealed Fate Aura for 24 hours.\n**Failure** The creature becomes immune to fortune effects for 1 minute.\n**Critical Failure** The creature becomes immune to fortune effects for 24 hours."
+    desc: " (aura,curse,misfortune,occult) [[Bestiary Ability Glossary/Aura|Aura]] 15 feet.\n\nThe deck quashes the good fortunes of any creatures in its vicinity. A creature that starts its turn in the aura must make a DC 17 Will save. The living divination deck can suppress or reactivate this aura by spending one action (this action has the concentrate trait).\n\n**Success** The creature is unaffected and is immune to this living divination deck's Sealed Fate Aura for 24 hours.\n\n**Failure** The creature becomes immune to fortune effects for 1 minute.\n\n**Critical Failure** The creature becomes immune to fortune effects for 24 hours."
 
 attacks:
   - name: ""
@@ -68,8 +69,14 @@ attacks:
     desc: "DC 17, attack +9; __1st __  _[[Spells/Bless|Bless]]_, _[[Spells/Ill Omen|Ill Omen]]_, _[[Spells/Sure Strike|True Strike]]_\n__Cantrips__  __(1st)__ _[[Spells/Guidance|Guidance]]_, _[[Spells/Telekinetic Hand|Mage Hand]]_"
 
   - name: "Waterfall"
-    desc: "`pf2:2`  The living divination deck launches itself at a foe, cascading across the battlefield and distracting the enemy with a flurry of cards. The living divination deck Strides twice and makes a melee card Strike against an adjacent creature at the end of its movement. On a hit, the Strike deals no damage, but the creature is Dazzled until the beginning of the living divination deck's next turn."
+    desc: "`pf2:2`  The living divination deck launches itself at a foe, cascading across the battlefield and distracting the enemy with a flurry of cards. The living divination deck Strides twice and makes a melee card Strike against an adjacent creature at the end of its movement. On a hit, the Strike deals no damage, but the creature is [[Conditions/Dazzled|Dazzled]] until the beginning of the living divination deck's next turn."
  
+```
+
+```encounter-table
+name: Living Divination Deck
+creatures:
+  - 1: Living Divination Deck
 ```
 
 

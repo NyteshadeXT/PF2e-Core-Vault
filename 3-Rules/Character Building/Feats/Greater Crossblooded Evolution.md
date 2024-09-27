@@ -6,8 +6,9 @@ tags:
   - trait/sorcerer
   - trait/common
   - category/class
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.doD3jZylVXZ0oHWO"
-license: OGL
+license: ORC
 ---
 # Greater Crossblooded Evolution
 ## Feat 18
@@ -19,7 +20,7 @@ license: OGL
 
 **Prerequisites** Crossblooded Evolution
 * * *
-Your bloodline is extraordinarily complex. You can have up to three spells from other traditions in your spell repertoire, rather than just one. These spells must each be of a different spell rank, but they don't need to be from the same tradition.
+Your bloodline is extraordinarily complex. Choose up to three of the sorcerous gift spells granted by your secondary bloodline. You add these spells to your spell repertoire, heightened to the highest rank of spells you can cast or to the highest rank they can be heightened to that is lower than the highest rank of spells you can cast. You cast these spells as the tradition from your primary bloodline.
 
-*Source: Pathfinder Core Rulebook*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

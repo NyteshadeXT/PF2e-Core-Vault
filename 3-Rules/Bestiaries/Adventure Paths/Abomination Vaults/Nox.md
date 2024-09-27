@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.abomination-vaults-bestiary.Actor.HnIyJuqKNOvK7eOJ"
 tags:
   - pf2e/creature/type/caligni
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/4
 statblock: inline
 name: "Nox"
@@ -21,11 +22,11 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #164: Hands of the Devil"
 name: "Nox"
 level: "Creature 4"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Medium"
-trait_01: "caligni"
-trait_02: "humanoid"
+trait_01: [[caligni]]
+trait_02: [[humanoid]]
 modifier: 11
 perception:
   - name: "Perception"
@@ -53,7 +54,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Death Flame"
-    desc: " (light) When Nox dies, their body combusts in a flash of white-hot flame that deals 5d6 fire damage to creatures in a 20-foot burst (DC 21 Reflex check save). Nox's gear and treasure are unaffected by the flames and are left in a pile where they died."
+    desc: " (light) When Nox dies, their body combusts in a flash of white-hot flame that deals 5d6 fire damage to creatures in a @Template[burst|distance:20] (DC 21 Reflex check save). Nox's gear and treasure are unaffected by the flames and are left in a pile where they died."
 
 attacks:
   - name: ""
@@ -73,6 +74,12 @@ attacks:
   - name: "[[Bestiary Ability Glossary/Sneak Attack|Sneak Attack]]"
     desc: "  Nox deals an additional 1d6 precision damage to [[Conditions/Off-Guard|Off-Guard]] creatures."
  
+```
+
+```encounter-table
+name: Nox
+creatures:
+  - 1: Nox
 ```
 
 

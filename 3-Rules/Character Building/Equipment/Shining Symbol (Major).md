@@ -13,14 +13,14 @@ license: ORC
 ---
 # Shining Symbol (Major)
 ## Item 17
-### [[divine]][[invested]][[3-Rules/Character Building/Spells/Light]]
+### [[divine]][[invested]][[light]]
 
 
 **Price** 13500 gp; 
 **Bulk** 0; **Size** med
 **Usage** worn
 
-If you worship a deity, this golden amulet transforms into your deity's religious symbol when you invest it. You gain a +3 item bonus to Religion. The symbol casts dim light in a 20-foot emanation.
+If you worship a deity, this golden amulet transforms into your deity's religious symbol when you invest it. You gain a +3 item bonus to Religion. The symbol casts dim light in a @Template\[emanation|distance:20\].
 
 * * *
 

@@ -6,8 +6,9 @@ tags:
   - trait/monk
   - trait/common
   - category/class
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.n2hawNmzW7DBn1Lm"
-license: OGL
+license: ORC
 ---
 # Mountain Stronghold `pf2:1`
 ## Feat 6
@@ -31,5 +32,5 @@ You focus on your connection to the earth and call upon the mountain to block at
 
 **Special** If you have this feat, the Dexterity modifier cap to your AC while you're in [[Feats/Mountain Stance|Mountain Stance]] increases from +0 to +1.
 
-*Source: Pathfinder Core Rulebook*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

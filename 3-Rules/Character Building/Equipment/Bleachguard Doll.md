@@ -11,7 +11,7 @@ license: OGL
 ---
 # Bleachguard Doll
 ## Item 8
-### [rare](rare "Rare Rarity Trait")[[intelligent]][[magical]]
+### [rare](rare.md "Rare Rarity Trait")[[intelligent]][[3-Rules/Rule References/Magical]]
 
 
 **Price** 0 gp; 

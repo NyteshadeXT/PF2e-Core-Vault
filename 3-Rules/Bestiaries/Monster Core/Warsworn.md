@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.pathfinder-monster-core.Actor.llSpQyOTaylpqgnW"
 tags:
   - pf2e/creature/type/undead
   - pf2e/creature/type/unholy
+  - pf2eMonster
   - pf2e/creature/level/16
   - remaster
 statblock: inline
@@ -23,11 +24,11 @@ token: [[modules/pf2e-tokens-bestiaries/portraits/undead/warsworn.webp| ]]
 source: "Pathfinder Monster Core"
 name: "Warsworn"
 level: "Creature 16"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "grg"
-trait_01: "undead"
-trait_02: "unholy"
+trait_01: [[undead]]
+trait_02: [[unholy]]
 modifier: 27
 perception:
   - name: "Perception"
@@ -78,7 +79,7 @@ attacks:
     desc: " (aura,divine) 100 feet.\n\nThe warsworn automatically controls unattended weapons in the aura, which levitate around the warsworn. The warsworn can telekinetically wield these weapons to make melee Strikes with a reach of 100 feet. These strikes deal four of the weapon's damage dice +9 and use the weapon's damage type."
 
   - name: "Energy Drain"
-    desc: " (divine,void) When a warsworn hits with a corpse wave Strike or damages a creature with Trample, the target must succeed at a DC 35 Fortitude check save or become [[Conditions/Drained 1|Drained 2]] and [[Conditions/Doomed 1|Doomed 1]]. On a critical success, the target becomes temporarily immune to the warsworn's energy drain for 24 hours."
+    desc: " (divine,void) When a warsworn hits with a corpse wave Strike or damages a creature with Trample, the target must succeed at a DC 35 Fortitude check save or become [[Conditions/Drained|Drained 2]] and [[Conditions/Doomed|Doomed 1]]. On a critical success, the target becomes temporarily immune to the warsworn's energy drain for 24 hours."
 
   - name: "Plummet"
     desc: "  A creature hit by a warsworn's scrap ball Strike must attempt a DC 37 Reflex check save. On a failure, the target falls [[Conditions/Prone|Prone]]; if the target was airborne, it falls up to 120 feet, taking damage from the fall and landing prone if the descent brings it to the ground. On a critical failure, the target is also held under a pile of scrap ([[/act escape dc=37]])."
@@ -86,6 +87,12 @@ attacks:
   - name: "[[Bestiary Ability Glossary/Trample|Trample]]"
     desc: "`pf2:3`  Huge or smaller, corpse wave, DC 37 Reflex check\n\n* * *\n"
  
+```
+
+```encounter-table
+name: Warsworn
+creatures:
+  - 1: Warsworn
 ```
 
 

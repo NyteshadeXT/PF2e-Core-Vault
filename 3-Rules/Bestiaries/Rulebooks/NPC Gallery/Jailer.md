@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/human
   - pf2e/creature/type/humanoid
   - pf2e/creature/type/lawful
+  - pf2eMonster
   - pf2e/creature/level/3
 statblock: inline
 name: "Jailer"
@@ -25,9 +26,9 @@ level: "Creature 3"
 
 alignment: ""
 size: "Medium"
-trait_01: "human"
-trait_02: "humanoid"
-trait_03: "lawful"
+trait_01: [[human]]
+trait_02: [[humanoid]]
+trait_03: [[lawful]]
 modifier: 9
 perception:
   - name: "Perception"
@@ -64,20 +65,26 @@ attacks:
     desc: "`pf2:1` Club +11 ()\n__Damage__  1d6 + 8 bludgeoning"
 
   - name: "Ranged"
-    desc: "`pf2:1` Crossbow +10 (range increment 120 feet, reload 1)\n__Damage__  1d8 + 4 piercing"
-
-  - name: "Ranged"
     desc: "`pf2:1` Club +10 (thrown 10 ft.)\n__Damage__  1d6 + 6 bludgeoning"
 
+  - name: "Ranged"
+    desc: "`pf2:1` Crossbow +10 (range increment 120 feet, reload 1)\n__Damage__  1d8 + 4 piercing"
+
   - name: "Efficient Capture"
-    desc: "`pf2:3` (attack,manipulate) **Requirements** The jailer has manacles in hand and is adjacent to a creature\n**Effect** The jailer attempts to bind the creature's wrists or ankles with the manacles. If the jailer succeeds at an attack roll with a +9 modifier against the target's AC, they apply the manacles."
+    desc: "`pf2:3` (attack,manipulate) **Requirements** The jailer has manacles in hand and is adjacent to a creature\n* * *\n\n**Effect** The jailer attempts to bind the creature's wrists or ankles with the manacles. If the jailer succeeds at an attack roll with a +9 modifier against the target's AC, they apply the manacles."
 
   - name: "Intimidating Strike"
-    desc: "`pf2:2` (emotion,fear,fighter,mental) The jailer makes a melee Strike. If it hits and deals damage, the target is [[Conditions/Frightened 1|Frightened 1]], or [[Conditions/Frightened 1|Frightened 2]] on a critical hit."
+    desc: "`pf2:2` (emotion,fear,fighter,mental) The jailer makes a melee Strike. If it hits and deals damage, the target is [[Conditions/Frightened|Frightened 1]], or [[Conditions/Frightened|Frightened 2]] on a critical hit."
 
   - name: "Subdue Prisoners"
     desc: "  The jailer doesn't take the normal penalty for making a nonlethal attack when attacking with their club."
  
+```
+
+```encounter-table
+name: Jailer
+creatures:
+  - 1: Jailer
 ```
 
 

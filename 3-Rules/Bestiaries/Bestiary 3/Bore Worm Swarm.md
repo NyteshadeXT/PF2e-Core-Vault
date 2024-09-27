@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.pathfinder-bestiary-3.Actor.aQusm2Uh1tw00IVb"
 tags:
   - pf2e/creature/type/animal
   - pf2e/creature/type/swarm
+  - pf2eMonster
   - pf2e/creature/level/5
 statblock: inline
 name: "Bore Worm Swarm"
@@ -25,12 +26,13 @@ level: "Creature 5"
 
 alignment: ""
 size: "Large"
-trait_01: "animal"
-trait_02: "swarm"
+trait_01: [[animal]]
+trait_02: [[swarm]]
 modifier: 12
 perception:
   - name: "Perception"
     desc: "+12; Tremorsense (Imprecise) 60 Feet"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Acrobatics: +10, Stealth: +12"
@@ -55,8 +57,14 @@ attacks:
   - name: ""
 
   - name: "Swarming Bites"
-    desc: "`pf2:1`  Each enemy in the swarm's space takes 3d6 acid damage (DC 22 Reflex check save).\nCreatures that fail this save become [[Conditions/Sickened 1|Sickened 1]] from the swarm's painful bites."
+    desc: "`pf2:1`  Each enemy in the swarm's space takes 3d6 acid damage (DC 22 Reflex check save).\n\nCreatures that fail this save become [[Conditions/Sickened|Sickened 1]] from the swarm's painful bites."
  
+```
+
+```encounter-table
+name: Bore Worm Swarm
+creatures:
+  - 1: Bore Worm Swarm
 ```
 
 

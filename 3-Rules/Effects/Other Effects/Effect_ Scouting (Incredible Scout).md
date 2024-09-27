@@ -4,8 +4,9 @@ title: "Effect: Scouting (Incredible Scout)"
 cssclasses: pf2e,pf2e-spell
 tags:
   - trait/common
+  - remaster
 aliases: "Compendium.pf2e.other-effects.Item.la8rWwUtReElgTS6"
-license: OGL
+license: ORC
 ---
 # Effect: Scouting (Incredible Scout)
 ## Level 1
@@ -18,5 +19,5 @@ license: OGL
 
 
 
-*Source: Pathfinder Advanced Player's Guide*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

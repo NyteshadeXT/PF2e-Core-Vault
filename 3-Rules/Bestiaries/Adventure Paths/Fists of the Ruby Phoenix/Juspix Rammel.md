@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.fists-of-the-ruby-phoenix-bestiary.Actor.i3dC41mOjfoBx
 tags:
   - pf2e/creature/type/halfling
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/14
 statblock: inline
 name: "Juspix Rammel"
@@ -21,11 +22,11 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #167: Ready? Fight!"
 name: "Juspix Rammel"
 level: "Creature 14"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Small"
-trait_01: "halfling"
-trait_02: "humanoid"
+trait_01: [[halfling]]
+trait_02: [[humanoid]]
 modifier: 27
 perception:
   - name: "Perception"
@@ -73,6 +74,12 @@ attacks:
   - name: "Focus Spells"
     desc: "3 Focus Points, DC 35, attack +27; __7th __  _[[Spells/Cackle|Cackle]]_, _[[Spells/Elemental Betrayal|Elemental Betrayal]]_, _[[Spells/Life Boost|Life Boost]]_, _[[Spells/Personal Blizzard|Personal Blizzard]]_, _[[Spells/Phase Familiar|Phase Familiar]]_"
  
+```
+
+```encounter-table
+name: Juspix Rammel
+creatures:
+  - 1: Juspix Rammel
 ```
 
 

@@ -7,8 +7,9 @@ tags:
   - trait/skill
   - trait/common
   - category/skill
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.Ws9JlysHcFoz6WAQ"
-license: OGL
+license: ORC
 ---
 # Forensic Acumen
 ## Feat 1
@@ -30,5 +31,5 @@ This check is usually related to the cause of injury or death, such as a Craftin
 
 The circumstance bonus increases to +3 if you have master proficiency in Medicine and +4 if you have legendary proficiency.
 
-*Source: Pathfinder Advanced Player's Guide*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

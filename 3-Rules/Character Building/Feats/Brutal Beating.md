@@ -20,7 +20,7 @@ license: ORC
 
 **Prerequisites** ruffian racket
 * * *
-Your critical hits shakes your foes' confidence. Whenever your Strike is a critical hit and deals damage, the target is [[Conditions/Frightened 1|Frightened 1]].
+Your critical hits shakes your foes' confidence. Whenever your Strike is a critical hit and deals damage, the target is [[Conditions/Frightened|Frightened 1]].
 
 *Source: Pathfinder Player Core*
 *ORC*

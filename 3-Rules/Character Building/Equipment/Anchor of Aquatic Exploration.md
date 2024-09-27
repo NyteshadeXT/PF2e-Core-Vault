@@ -10,7 +10,7 @@ license: OGL
 ---
 # Anchor of Aquatic Exploration
 ## Item 9
-### [uncommon](uncommon "Uncommon Rarity Trait")[[magical]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[3-Rules/Rule References/Magical]]
 
 
 **Price** 690 gp; 

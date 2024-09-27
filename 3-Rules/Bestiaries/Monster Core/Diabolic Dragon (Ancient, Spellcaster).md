@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/divine
   - pf2e/creature/type/dragon
   - pf2e/creature/type/unholy
+  - pf2eMonster
   - pf2e/creature/level/20
   - remaster
 statblock: inline
@@ -20,15 +21,16 @@ license: ORC
 columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
+token: [[modules/pf2e-tokens-monster-core/assets/portraits/dragon-diabolic-adult.webp| ]]
 source: "Pathfinder Monster Core"
 name: "Diabolic Dragon (Ancient, Spellcaster)"
 level: "Creature 20"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "grg"
-trait_01: "divine"
-trait_02: "dragon"
-trait_03: "unholy"
+trait_01: [[divine]]
+trait_02: [[dragon]]
+trait_03: [[unholy]]
 modifier: 33
 perception:
   - name: "Perception"
@@ -36,7 +38,7 @@ perception:
 languages: "Common, Diabolic, Draconic, Empyrean, Necril, Pyric, Aklo, Chthonian"
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +33, Athletics: +38, Deception: +34, Diplomacy: +36, Hell Lore: +33, Intimidation: +34, Legal Lore: +35, Religion: +35, Society: +33, Thievery: +33"
+    desc: "Acrobatics: +33, Athletics: +38, Deception: +34, Diplomacy: +36, Intimidation: +34, Religion: +35, Society: +33, Thievery: +33, Hell Lore: +33, Legal Lore: +35"
 abilityMods: [10, 5, 8, 5, 7, 8]
 speed: 70 feet,  fly 180 feet
 sourcebook: "_Pathfinder Monster Core_"
@@ -88,8 +90,14 @@ attacks:
     desc: "  Any fire damage that a diabolic dragon deals, including fire damage from spells, is imbued with the unholy power of Hell to scorch the spirit as well. A creature takes spirit damage instead of fire damage if that would be more detrimental to the creature (as determined by the GM). A diabolic dragon is immune to the diabolic fire of other diabolic dragons, the fire from divine immolation, and similar effects."
 
   - name: "Hellfire Breath"
-    desc: "`pf2:2` (divine,fire,unholy) The dragon unleashes a blast of infernal fire that deals 21d6 fire damage in a 60-foot cone (DC 42 Reflex check save).\n\nThe dragon can't use Hellfire Breath again for 1d4 rounds."
+    desc: "`pf2:2` (divine,fire,unholy) The dragon unleashes a blast of infernal fire that deals 21d6 fire damage in a @Template[cone|distance:60] (DC 42 Reflex check save).\n\nThe dragon can't use Hellfire Breath again for 1d4 rounds."
  
+```
+
+```encounter-table
+name: Diabolic Dragon (Ancient, Spellcaster)
+creatures:
+  - 1: Diabolic Dragon (Ancient, Spellcaster)
 ```
 
 

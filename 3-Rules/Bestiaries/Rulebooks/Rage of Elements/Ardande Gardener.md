@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/ardande
   - pf2e/creature/type/human
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/1
   - remaster
 statblock: inline
@@ -26,9 +27,9 @@ level: "Creature 1"
 
 alignment: ""
 size: "Medium"
-trait_01: "ardande"
-trait_02: "human"
-trait_03: "humanoid"
+trait_01: [[ardande]]
+trait_02: [[human]]
+trait_03: [[humanoid]]
 modifier: 7
 perception:
   - name: "Perception"
@@ -71,8 +72,14 @@ attacks:
     desc: "DC 17, attack +9; __1st __  _[[Spells/Heal|Heal]]_, _[[Spells/Tailwind|Tailwind]]_, _[[Spells/Wall of Shrubs|Wall of Shrubs]]_\n__Cantrips__  __(1st)__ _[[Spells/Detect Magic|Detect Magic]]_, _[[Spells/Know the Way|Know the Way]]_, _[[Spells/Take Root|Take Root]]_, _[[Spells/Tangle Vine|Tangle Vine]]_, _[[Spells/Timber|Timber]]_"
 
   - name: "Decompose"
-    desc: "`pf2:2` (primal,void) **Frequency** once per day\n**Effect** Void energy seeps out of the ardande gardener, decaying everything within a 5-foot emanation and causing plants and foliage to age and decompose. Natural difficult terrain is destroyed, and creatures in the area with the plant or wood trait take 1d6 void damage (DC 16 Fortitude check)."
+    desc: "`pf2:2` (primal,void) **Frequency** once per day\n* * *\n\n**Effect** Void energy seeps out of the ardande gardener, decaying everything within a @Template[emanation|distance:5] and causing plants and foliage to age and decompose. Natural difficult terrain is destroyed, and creatures in the area with the plant or wood trait take 1d6 void damage (DC 16 Fortitude check)."
  
+```
+
+```encounter-table
+name: Ardande Gardener
+creatures:
+  - 1: Ardande Gardener
 ```
 
 

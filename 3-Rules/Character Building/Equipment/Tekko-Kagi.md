@@ -28,7 +28,7 @@ license: OGL
 
 
 
-Four curved blades attached to a sturdy handlebar give the wielder of this close-combat weapon the illusion of having claws that extend from their fist. Adherents of [[Deities/Bastet|Bastet ]] favor the tekko-kagi for catching their foes off guard.
+Four curved blades attached to a sturdy handlebar give the wielder of this close-combat weapon the illusion of having claws that extend from their fist. Adherents of [[Deities/Bastet|Bastet]] favor the tekko-kagi for catching their foes off guard.
 
 *Source: Pathfinder Treasure Vault*
 *OGL*

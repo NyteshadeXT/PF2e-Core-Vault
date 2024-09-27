@@ -14,7 +14,7 @@ license: OGL
 ---
 # Dousing Spell `pf2:1`
 ## Feat 4
-### [[archetype]][[spellshape]][[3-Rules/Rule References/Water]]
+### [[archetype]][[spellshape]][[water]]
 
 **Category** class; 
 

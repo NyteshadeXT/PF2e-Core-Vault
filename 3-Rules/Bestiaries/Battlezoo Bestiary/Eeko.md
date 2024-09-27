@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/fey
   - pf2e/creature/type/good
   - pf2e/creature/type/plant
+  - pf2eMonster
   - pf2e/creature/level/6
 statblock: inline
 name: "Eeko"
@@ -27,18 +28,18 @@ level: "Creature 6"
 
 alignment: ""
 size: "Small"
-trait_01: "chaotic"
-trait_02: "fey"
-trait_03: "good"
-trait_04: "plant"
+trait_01: [[chaotic]]
+trait_02: [[fey]]
+trait_03: [[good]]
+trait_04: [[plant]]
 modifier: 17
 perception:
   - name: "Perception"
     desc: "+17; Low-Light Vision"
-languages: "Common, Fey"
+languages: "Common, Fey; can&#x27;t speak (uses sign language only)"
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +14, Medicine: +15, Nature: +17, Stealth: +14, Survival: +15, "
+    desc: "Acrobatics: +14, Medicine: +15, Nature: +17, Stealth: +14, Survival: +15"
 abilityMods: [2, 4, 5, 2, 5, 3]
 speed: 25 feet
 sourcebook: "_Battlezoo Bestiary_"
@@ -72,11 +73,17 @@ attacks:
     desc: "  The eeko doesn't need to fulfill the verbal spell components of its innate primal spells, allowing it to cast its spells silently."
 
   - name: "Swarming Stings"
-    desc: "`pf2:1`  **Requirements** The swarm from the eeko's Unleash Hive ability is active;\n**Effect** Each enemy in the eeko's swarm's space takes 2d8 piercing damage (basic Reflex save) and is exposed to eeko bee venom. A successful save negates the poison exposure.\n**Eeko Bee Venom** (poison);\n**Saving Throw** Fortitude;\n**Maximum Duration** 6 rounds;\n**Stage 1** 1d6 poison (1 round);\n**Stage 2** 2d6 poison and Enfeebled 2 (2 rounds)"
+    desc: "`pf2:1`  **Requirements** The swarm from the eeko's Unleash Hive ability is active;\n\n**Effect** Each enemy in the eeko's swarm's space takes 2d8 piercing damage (DC 25 basic Reflex save) and is exposed to eeko bee venom. A successful save negates the poison exposure.\n* * *\n\n**Eeko Bee Venom** (poison);\n\n**Saving Throw** DC 25 Fortitude;\n\n**Maximum Duration** 6 rounds;\n\n**Stage 1** 1d6 poison (1 round);\n\n**Stage 2** 2d6 poison and [[Conditions/Enfeebled|Enfeebled 2]] (2 rounds)"
 
   - name: "Unleash Hive"
-    desc: "`pf2:2` (primal) **Frequency** once per minute;\n**Effect** The eeko releases a flurry of biting bees from its heart, creating a Huge swarm centered on the eeko. The swarm stays centered on the eeko and moves with the eeko.\nThe swarm remains active for 1 minute or until the eeko takes at least 20 fire damage in the same round from a single attack or effect, whichever comes first.\nAs long as the swarm is active, the eeko gains the following:\n*   All-Around Vision\n*   Concealment\n*   Fast Healing 3\n*   Swarming Stings"
+    desc: "`pf2:2` (primal) **Frequency** once per minute;\n\n**Effect** The eeko releases a flurry of biting bees from its heart, creating a Huge swarm centered on the eeko. The swarm stays centered on the eeko and moves with the eeko.\n\nThe swarm remains active for 1 minute or until the eeko takes at least 20 fire damage in the same round from a single attack or effect, whichever comes first.\n\nAs long as the swarm is active, the eeko gains the following:\n\n*   [[Bestiary Ability Glossary/All-Around Vision|All-Around Vision]]\n*   [[Conditions/Concealed|Concealment]]\n*   [[Bestiary Ability Glossary/Fast Healing|Fast Healing 3]]\n*   Swarming Stings"
  
+```
+
+```encounter-table
+name: Eeko
+creatures:
+  - 1: Eeko
 ```
 
 

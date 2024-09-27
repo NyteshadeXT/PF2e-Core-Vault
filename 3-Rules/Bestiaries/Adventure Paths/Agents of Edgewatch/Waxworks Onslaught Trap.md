@@ -4,6 +4,7 @@ obsidianUIMode: preview
 noteType: pf2eHazard
 tags:
   - magical
+  - pf2eHazard
   - complex
 source: Pathfinder #160: Assault on Hunting Lodge Seven
 aliases: "Compendium.pf2e.agents-of-edgewatch-bestiary.Actor.jgSS31hwrQ1n4jVF" 
@@ -21,13 +22,13 @@ name: "Waxworks Onslaught Trap"
 level: "Hazard 16"
 
 trait_06: "Complex"
-trait_01: "magical"
+trait_01: [[magical]]
 modifier: 27
 sourcebook: "_Pathfinder #160: Assault on Hunting Lodge Seven_"
 ac: 39
 armorclass:
   - name: AC
-    desc: "39; __Fort__ +30, __Ref__ +25, __Will__ +0"
+    desc: "39; __Fort__ +30, __Ref__ +25, "
 hp: 104
 health:
   - name: ""
@@ -49,11 +50,17 @@ attacks:
   - name: ""
 
   - name: "Seal Room"
-    desc: "`pf2:r` **Trigger** A creature comes within 5 feet of a tub\n**Effect** The fires beneath the vats blaze to life, magically melting the wax in the tubs. The tubs emit gouts of wax over the room's exits, sealing them shut. The trap then rolls initiative."
+    desc: "`pf2:r` **Trigger** A creature comes within 5 feet of a tub\n* * *\n\n**Effect** The fires beneath the vats blaze to life, magically melting the wax in the tubs. The tubs emit gouts of wax over the room's exits, sealing them shut. The trap then rolls initiative."
 
   - name: "Routine"
     desc: "(4 actions) The trap loses 1 action each turn per drained or destroyed tub. On each action, a different tub spews hot wax at a random creature in the room, dealing 3d12 fire damage to the target and all adjacent creatures (DC 35 Reflex check). On a failure or critical failure, the creature is also encased in hot wax. A creature that starts its turn encased in wax takes 8d12 fire damage and is immobilized until it Escapes the hardening wax (DC 35). Each turn it remains encased, the damage dealt by the hot wax decreases by 2d12 but the DC to Escape increases by 2 (minimum 0 damage, maximum DC 43). A creature that can't get free from the wax might suffocate."
   - name: "Reset"
     desc: "The trap deactivates and resets after 1 hour. At that time, the wax in the tubs cools and congeals, and any wax elsewhere in the room magically goes back into the tubs."
+```
+
+```encounter-table
+name: Waxworks Onslaught Trap
+creatures:
+  - 1: Waxworks Onslaught Trap
 ```
 

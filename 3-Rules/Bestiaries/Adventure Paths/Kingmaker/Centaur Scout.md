@@ -6,6 +6,7 @@ cssClasses: pf2e
 aliases: "Compendium.pf2e.kingmaker-bestiary.Actor.hywUu3wVDuXePx3e" 
 tags:
   - pf2e/creature/type/beast
+  - pf2eMonster
   - pf2e/creature/level/5
 statblock: inline
 name: "Centaur Scout"
@@ -20,10 +21,10 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Kingmaker"
 name: "Centaur Scout"
 level: "Creature 5"
-rare_03: "Rare"
+rare_03: [[Rare]]
 alignment: ""
 size: "Large"
-trait_01: "beast"
+trait_01: [[beast]]
 modifier: 13
 perception:
   - name: "Perception"
@@ -63,8 +64,14 @@ attacks:
     desc: "`pf2:1` Spear +12 (thrown 20 ft.)\n__Damage__  1d6 + 8 piercing"
 
   - name: "[[Bestiary Ability Glossary/Trample|Trample]]"
-    desc: "`pf2:3`  Medium or smaller, hoof, DC 22 Reflex check save\n"
+    desc: "`pf2:3`  Medium or smaller, hoof, DC 22 Reflex check save\n\n* * *\n"
  
+```
+
+```encounter-table
+name: Centaur Scout
+creatures:
+  - 1: Centaur Scout
 ```
 
 

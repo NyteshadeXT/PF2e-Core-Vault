@@ -23,7 +23,11 @@ license: OGL
 
 * * *
 
-You learn to take advantage of every shot, flying across the battlefield with the help of your weapon's recoil. Stride and use Black Powder Boost. Make a ranged Strike with the required weapon at any point during the Black Powder Boost.
+You learn to take advantage of every shot, flying across the battlefield with the help of your weapon's recoil. Stride and use Black Powder Boost. Make a melee Strike with the required weapon at any point during the Black Powder Boost.
+
+* * *
+
+**Special** If you have [[Feats/Bullet Dancer Burn|Bullet Dancer Burn]], apply the additional fire damage to the granted Strike.
 
 *Source: Pathfinder Guns & Gears*
 *OGL*

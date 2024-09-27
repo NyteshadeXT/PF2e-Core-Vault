@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/clockwork
   - pf2e/creature/type/construct
   - pf2e/creature/type/mindless
+  - pf2eMonster
   - pf2e/creature/level/8
 statblock: inline
 name: "Clockwork Serpent"
@@ -22,16 +23,17 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #200: Seven Dooms for Sandpoint"
 name: "Clockwork Serpent"
 level: "Creature 8"
-rare_03: "Rare"
+rare_03: [[Rare]]
 alignment: ""
 size: "Large"
-trait_01: "clockwork"
-trait_02: "construct"
-trait_03: "mindless"
+trait_01: [[clockwork]]
+trait_02: [[construct]]
+trait_03: [[mindless]]
 modifier: 18
 perception:
   - name: "Perception"
     desc: "+18; Darkvision"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Athletics: +18"
@@ -51,15 +53,15 @@ abilities_top:
   - name: ""
 
   - name: "[[Creature Family Ability Glossary/(Clockwork Creature) Wind-Up|Wind-Up]]"
-    desc: "  24 hours, DC 26 Thievery check, standby\nFor a clockwork to act, it must be wound with a unique key by another creature. This takes 1 minute. Once wound, it remains operational for the listed amount of time, usually 24 hours, after which time it becomes unaware of its surroundings and can't act until it's wound again. Some clockworks' abilities require them to spend some of their remaining operational time. They can't spend more than they have and shut down immediately once they have 0 time remaining. If it's unclear when a clockwork was last wound, most clockwork keepers wind all their clockworks at a set time, typically 8 a.m.\nA clockwork that lists standby in its wind-up entry can enter standby mode as a 3-action activity. Its operational time doesn't decrease in standby, but it can sense its surroundings (with a -2 penalty to Perception). It can't act, with one exception: when it perceives a creature, it can exit standby as a reaction (rolling initiative if appropriate).\nA creature can attempt to Disable a Device to wind a clockwork down (with a DC listed in the wind-up entry). For each success, the clockwork loses 1 hour of operational time. This can be done even if the clockwork is in standby mode."
+    desc: "  24 hours, DC 26 Thievery check, standby\n* * *\n\nFor a clockwork to act, it must be wound with a unique key by another creature. This takes 1 minute. Once wound, it remains operational for the listed amount of time, usually 24 hours, after which time it becomes unaware of its surroundings and can't act until it's wound again. Some clockworks' abilities require them to spend some of their remaining operational time. They can't spend more than they have and shut down immediately once they have 0 time remaining. If it's unclear when a clockwork was last wound, most clockwork keepers wind all their clockworks at a set time, typically 8 a.m.\n\nA clockwork that lists standby in its wind-up entry can enter standby mode as a 3-action activity. Its operational time doesn't decrease in standby, but it can sense its surroundings (with a -2 penalty to Perception). It can't act, with one exception: when it perceives a creature, it can exit standby as a reaction (rolling initiative if appropriate).\n\nA creature can attempt to Disable a Device to wind a clockwork down (with a DC listed in the wind-up entry). For each success, the clockwork loses 1 hour of operational time. This can be done even if the clockwork is in standby mode."
 
 abilities_mid:
   - name: ""
   - name: "Activate Serpent Mode"
-    desc: "`pf2:r`  **Trigger** The clockwork serpent begins its turn\n**Effect** The clockwork serpent transforms into a different mode. Roll 1d3 and consult the options below. If it rolls a mode it can't currently activate, the clockwork serpent becomes [[Conditions/Clumsy 1|Clumsy 1]] until the start of its next turn. At the end of its turn, it automatically deactivates its serpent mode.\n**1 Cobra Mode** The clockwork serpent can use Intimidating Hood.\n**2 Constrictor Mode** The clockwork serpent can use its coils Strike and can Constrict.\n**3 Rattlesnake Mode** The clockwork serpent can use Shattering Rattle."
+    desc: "`pf2:r`  **Trigger** The clockwork serpent begins its turn\n* * *\n\n**Effect** The clockwork serpent transforms into a different mode. Roll 1d3 and consult the options below. If it rolls a mode it can't currently activate, the clockwork serpent becomes [[Conditions/Clumsy|Clumsy 1]] until the start of its next turn. At the end of its turn, it automatically deactivates its serpent mode.\n\n**1 Cobra Mode** The clockwork serpent can use Intimidating Hood.\n\n**2 Constrictor Mode** The clockwork serpent can use its coils Strike and can Constrict.\n\n**3 Rattlesnake Mode** The clockwork serpent can use Shattering Rattle."
 
   - name: "Critical Deactivation"
-    desc: "  If a clockwork serpent takes any precision damage or takes a critical hit and it has a serpent mode active, it must attempt a DC 16 Flat check. On a failure, it takes the damage from the critical hit as normal, is [[Conditions/Stunned 1|Stunned 1]], and its serpent mode deactivates."
+    desc: "  If a clockwork serpent takes any precision damage or takes a critical hit and it has a serpent mode active, it must attempt a DC 16 Flat check. On a failure, it takes the damage from the critical hit as normal, is [[Conditions/Stunned|Stunned 1]], and its serpent mode deactivates."
 
 attacks:
   - name: ""
@@ -71,20 +73,26 @@ attacks:
     desc: "`pf2:1` Coils +20 (magical)\n__Damage__  2d12 + 9 bludgeoning plus grab"
 
   - name: "Clockwork Serpent Venom"
-    desc: " (arcane,magical,poison) **Saving Throw** DC 26 Fortitude check\n**Maximum Duration** 6 rounds\n**Stage 1** 2d6 poison damage and [[Conditions/Off-Guard|Off-Guard]] (1 round)\n**Stage 2** 2d6 poison damage, [[Conditions/Enfeebled 1|Enfeebled 1]], and off-guard (1 round)"
+    desc: " (arcane,magical,poison) **Saving Throw** DC 26 Fortitude check\n\n**Maximum Duration** 6 rounds\n\n**Stage 1** 2d6 poison damage and [[Conditions/Off-Guard|Off-Guard]] (1 round)\n\n**Stage 2** 2d6 poison damage, [[Conditions/Enfeebled|Enfeebled 1]], and off-guard (1 round)"
 
   - name: "[[Bestiary Ability Glossary/Constrict|Constrict]]"
-    desc: "`pf2:1`  2d10 + 6 bludgeoning, DC 26 Fortitude check\n**Requirements** The clockwork serpent is in constrictor mode\n"
+    desc: "`pf2:1`  2d10+6 bludgeoning, DC 26 Fortitude check\n\n**Requirements** The clockwork serpent is in constrictor mode\n\n* * *\n"
 
   - name: "Intimidating Hood"
-    desc: "`pf2:2` (arcane,emotion,fear,mental) **Requirements** The clockwork serpent is in cobra mode\n**Effect** The clockwork serpent flares out a cobra hood. All creatures within a 15-foot emanation must succeed at a DC 26 Will check save or become [[Conditions/Frightened 1|Frightened 1]] ([[Conditions/Frightened 1|Frightened 2]] on a critical failure)."
+    desc: "`pf2:2` (arcane,emotion,fear,mental) **Requirements** The clockwork serpent is in cobra mode\n* * *\n\n**Effect** The clockwork serpent flares out a cobra hood. All creatures within a @Template[emanation|distance:15] must succeed at a DC 26 Will check save or become [[Conditions/Frightened|Frightened 1]] ([[Conditions/Frightened|Frightened 2]] on a critical failure)."
 
   - name: "Shattering Rattle"
-    desc: "`pf2:2` (arcane,sonic) **Requirements** The clockwork serpent is in rattlesnake mode\n**Effect** The clockwork serpent rattles its tail, then snaps it like a whip to create a devastating blast of sonic energy in a 30-foot cone. Creatures in the area take 9d6 sonic damage (DC 26 Fortitude check save)."
+    desc: "`pf2:2` (arcane,sonic) **Requirements** The clockwork serpent is in rattlesnake mode\n* * *\n\n**Effect** The clockwork serpent rattles its tail, then snaps it like a whip to create a devastating blast of sonic energy in a @Template[cone|distance:30]. Creatures in the area take 9d6 sonic damage (DC 26 Fortitude check save)."
 
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
     desc: "`pf2:1`  "
  
+```
+
+```encounter-table
+name: Clockwork Serpent
+creatures:
+  - 1: Clockwork Serpent
 ```
 
 

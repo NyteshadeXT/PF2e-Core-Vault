@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/human
   - pf2e/creature/type/humanoid
   - pf2e/creature/type/lawful
+  - pf2eMonster
   - pf2e/creature/level/14
 statblock: inline
 name: "Arodeth"
@@ -23,13 +24,13 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #190: The Choosing"
 name: "Arodeth"
 level: "Creature 14"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Medium"
-trait_01: "evil"
-trait_02: "human"
-trait_03: "humanoid"
-trait_04: "lawful"
+trait_01: [[evil]]
+trait_02: [[human]]
+trait_03: [[humanoid]]
+trait_04: [[lawful]]
 modifier: 22
 perception:
   - name: "Perception"
@@ -37,7 +38,7 @@ perception:
 languages: "Common, Draconic, Thassilonian"
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +25, Arcana: +25, Diplomacy: +24, Fortune-Telling Lore: +27, Intimidation: +24, Occultism: +27, Society: +25"
+    desc: "Acrobatics: +25, Arcana: +25, Diplomacy: +24, Intimidation: +24, Occultism: +27, Society: +25, Fortune-Telling Lore: +27"
 abilityMods: [1, 5, 1, 5, 2, 4]
 speed: 25 feet
 sourcebook: "_Pathfinder #190: The Choosing_"
@@ -57,7 +58,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Fated to Fail"
-    desc: "`pf2:r` (misfortune) **Trigger** A creature adjacent to Arodeth rolls a hit or critical hit with a melee Strike\n**Effect** Arodeth attempts a Fortune-Telling Lore check against the triggering creature's Will DC. On a success, the attack is reduced by one degree of success (from a hit to a miss, or a critical hit to a hit)."
+    desc: "`pf2:r` (misfortune) **Trigger** A creature adjacent to Arodeth rolls a hit or critical hit with a melee Strike\n* * *\n\n**Effect** Arodeth attempts a Fortune-Telling Lore check against the triggering creature's Will DC. On a success, the attack is reduced by one degree of success (from a hit to a miss, or a critical hit to a hit)."
 
 attacks:
   - name: ""
@@ -75,14 +76,20 @@ attacks:
     desc: "_[[Spells/Collective Memories|Legend Lore]]_"
 
   - name: "Arcane Cascade"
-    desc: "`pf2:1` (concentrate,stance) Lady Arodeth can enter this stance only if her most recent action was to Cast a Spell or make a Spellstrike, but she can remain in the stance even if she no longer meets the requirements\n**Effect** While in this stance, Arodeth can Interact or Release to change her grip on her staff as a free action when she Strikes with the staff, including Strikes made in a Spellstrike. This happens before she rolls her attack roll. She can also Interact to change her grip on the staff as a free action triggered at the end of her turn."
+    desc: "`pf2:1` (concentrate,stance) Lady Arodeth can enter this stance only if her most recent action was to Cast a Spell or make a Spellstrike, but she can remain in the stance even if she no longer meets the requirements\n* * *\n\n**Effect** While in this stance, Arodeth can Interact or Release to change her grip on her staff as a free action when she Strikes with the staff, including Strikes made in a Spellstrike. This happens before she rolls her attack roll. She can also Interact to change her grip on the staff as a free action triggered at the end of her turn."
 
   - name: "Spellstrike"
     desc: "`pf2:2`  Arodeth channels a spell into a melee Strike to deliver a charged attack. She casts [[Spells/Void Warp|Void Warp]], [[Spells/Disintegrate|Disintegrate]], or [[Spells/Produce Flame|Produce Flame]]. The effects of the spell don't occur immediately but are imbued into her attack instead. Arodeth makes a staff Strike, which gains the arcane trait. The spell is coupled with the attack, using Arodeth's attack roll to determine the effects of both the Strike and the spell. This counts as two attacks for her multiple attack penalty, but the penalty isn't applied until after she has completed the Spellstrike. After using Spellstrike, she can't do so again until she recharges this ability as a single action, which has the concentrate trait. She also recharges her Spellstrike when she casts runic impression or spinning staff."
 
   - name: "Twisting Tree"
-    desc: "  The staff is perhaps one of the simplest of weapons, but this simplicity belies its elegance and versatility. To Arodeth, a staff is casting implement and martial weapon alike-the foundation of a fighting style.\nWhile Arodeth wields a staff in one hand, the staff adjusts in shape and weight, gaining the agile trait and increasing its damage die size to 1d6. While she wields a staff in both hands, it lengthens, twists, and reshapes, gaining the parry, reach, and trip traits. While she is in Arcane Cascade stance, she can Interact or Release to change your grip on the weapon as a free action when you Strike with your staff, including Strikes made in a Spellstrike. This happens before she rolls her attack roll. She can also Interact to change her grip on the staff as a free action triggered at the end of her turn.\nArodeth's unique fighting style also allows her to add the finesse trait to any staff she wields in combat."
+    desc: "  The staff is perhaps one of the simplest of weapons, but this simplicity belies its elegance and versatility. To Arodeth, a staff is casting implement and martial weapon alike-the foundation of a fighting style.\n\nWhile Arodeth wields a staff in one hand, the staff adjusts in shape and weight, gaining the agile trait and increasing its damage die size to 1d6. While she wields a staff in both hands, it lengthens, twists, and reshapes, gaining the parry, reach, and trip traits. While she is in Arcane Cascade stance, she can Interact or Release to change your grip on the weapon as a free action when you Strike with your staff, including Strikes made in a Spellstrike. This happens before she rolls her attack roll. She can also Interact to change her grip on the staff as a free action triggered at the end of her turn.\n\nArodeth's unique fighting style also allows her to add the finesse trait to any staff she wields in combat."
  
+```
+
+```encounter-table
+name: Arodeth
+creatures:
+  - 1: Arodeth
 ```
 
 

@@ -6,8 +6,9 @@ tags:
   - trait/archetype
   - trait/common
   - category/class
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.4dQcLroKQ13QYIT3"
-license: OGL
+license: ORC
 ---
 # Tactical Cadence
 ## Feat 14
@@ -19,7 +20,7 @@ license: OGL
 
 **Prerequisites** Cadence Call
 * * *
-Your remarkable breath control and concise instructions allow you to coordinate your allies more effectively. When you grant allies the quickened condition using Cadence Call, they can use the extra action to either Stride or Strike, and they aren't [[Conditions/Slowed 1|Slowed 1]] on their following turn if they use the extra action.
+Your remarkable breath control and concise instructions allow you to coordinate your allies more effectively, even in desperate situations. When you grant allies the [[Conditions/Quickened|Quickened]] condition using Cadence Call, they can use the extra action to either Stride or Strike, and they aren't [[Conditions/Slowed|Slowed 1]] on their following turn if they use the extra action.
 
-*Source: Pathfinder Advanced Player's Guide*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

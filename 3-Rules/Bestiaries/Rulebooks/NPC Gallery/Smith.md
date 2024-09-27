@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.npc-gallery.Actor.o9dAbSVn4Vi4ejjc"
 tags:
   - pf2e/creature/type/human
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/3
 statblock: inline
 name: "Smith"
@@ -24,8 +25,8 @@ level: "Creature 3"
 
 alignment: ""
 size: "Medium"
-trait_01: "human"
-trait_02: "humanoid"
+trait_01: [[human]]
+trait_02: [[humanoid]]
 modifier: 5
 perception:
   - name: "Perception"
@@ -33,7 +34,7 @@ perception:
 languages: "Common"
 skills:
   - name: "Skills"
-    desc: "Athletics: +8, Crafting: +15, Diplomacy: +5, Smithy Lore: +15, Society: +8"
+    desc: "Athletics: +8, Crafting: +15, Diplomacy: +5, Society: +8, Smithy Lore: +15"
 abilityMods: [3, 1, 2, 3, 0, 0]
 speed: 25 feet
 sourcebook: "_Pathfinder Gamemastery Guide_"
@@ -64,6 +65,12 @@ attacks:
   - name: "Smith's Fury"
     desc: "  The smith deals an additional 1d6 damage when they hit with a weapon they created."
  
+```
+
+```encounter-table
+name: Smith
+creatures:
+  - 1: Smith
 ```
 
 

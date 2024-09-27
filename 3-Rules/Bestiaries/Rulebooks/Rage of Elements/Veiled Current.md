@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.rage-of-elements-bestiary.Actor.qdVEmjf6e98KPzyK"
 tags:
   - pf2e/creature/type/air
   - pf2e/creature/type/elemental
+  - pf2eMonster
   - pf2e/creature/level/8
   - remaster
 statblock: inline
@@ -25,8 +26,8 @@ level: "Creature 8"
 
 alignment: ""
 size: "Medium"
-trait_01: "air"
-trait_02: "elemental"
+trait_01: [[air]]
+trait_02: [[elemental]]
 modifier: 17
 perception:
   - name: "Perception"
@@ -65,11 +66,17 @@ attacks:
     desc: "`pf2:1` Static Scream +19 (range increment 50 feet)\n__Damage__  2d8 + 4 sonic"
 
   - name: "Envelop"
-    desc: "`pf2:2`  **Requirements** The veiled current begins their turn with a target of their size or smaller [[Conditions/Grabbed|Grabbed]]\n**Effect** The veiled current maintains the Grab and coalesces around the creature, stretching themself into a semisolid veil that smothers the creature within. This thereafter has the same effect as if the veiled current had [[Bestiary Ability Glossary/Engulf|Engulfed]] the creature (DC 26, 1d8+8 bludgeoning, [[Actions/Escape|Escape]] DC 26, Rupture 17). As engulfing a creature is a hostile action, the veiled current is [[Conditions/Hidden|Hidden]] instead of undetected every round it has a creature engulfed."
+    desc: "`pf2:2`  **Requirements** The veiled current begins their turn with a target of their size or smaller [[Conditions/Grabbed|Grabbed]]\n* * *\n\n**Effect** The veiled current maintains the Grab and coalesces around the creature, stretching themself into a semisolid veil that smothers the creature within. This thereafter has the same effect as if the veiled current had [[Bestiary Ability Glossary/Engulf|Engulfed]] the creature (DC 26, 1d8+8 bludgeoning, [[Actions/Escape|Escape]] DC 26, Rupture 17). As engulfing a creature is a hostile action, the veiled current is [[Conditions/Hidden|Hidden]] instead of undetected every round it has a creature engulfed."
 
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
     desc: "`pf2:1`  "
  
+```
+
+```encounter-table
+name: Veiled Current
+creatures:
+  - 1: Veiled Current
 ```
 
 

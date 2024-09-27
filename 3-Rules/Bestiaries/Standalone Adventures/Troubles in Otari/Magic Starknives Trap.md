@@ -5,6 +5,7 @@ noteType: pf2eHazard
 tags:
   - magical
   - trap
+  - pf2eHazard
   - complex
 source: Pathfinder Adventure: Troubles in Otari
 aliases: "Compendium.pf2e.troubles-in-otari-bestiary.Actor.vg6fEjWSj4jilXRn" 
@@ -22,14 +23,14 @@ name: "Magic Starknives Trap"
 level: "Hazard 5"
 
 trait_06: "Complex"
-trait_01: "magical"
-trait_02: "trap"
+trait_01: [[magical]]
+trait_02: [[trap]]
 modifier: 12
 sourcebook: "_Pathfinder Adventure: Troubles in Otari_"
 ac: 22
 armorclass:
   - name: AC
-    desc: "22; __Fort__ +15, __Ref__ +9, __Will__ +0"
+    desc: "22; __Fort__ +15, __Ref__ +9, "
 hp: 14
 health:
   - name: ""
@@ -51,7 +52,7 @@ attacks:
   - name: ""
 
   - name: "Starknife Attack"
-    desc: "`pf2:r` (arcane) If a creature passes the middle pair of pillars, both doors leading out of the room slam shut and lock; while the trap is active, the doors must be battered open with a successful DC 23 Athletics check check or sufficient damage (Hardness 12; HP 48 \[BT 24\]). One of the starknife carvings glows with light, detaches from the pillar, and then flies outward, making a magical starknife Ranged Strike against a random creature within range. The trap then rolls initiative with its Stealth modifier of +12"
+    desc: "`pf2:r` (arcane) If a creature passes the middle pair of pillars, both doors leading out of the room slam shut and lock; while the trap is active, the doors must be battered open with a successful DC 23 Athletics check check or sufficient damage (Hardness 12; HP 48 [BT 24]). One of the starknife carvings glows with light, detaches from the pillar, and then flies outward, making a magical starknife Ranged Strike against a random creature within range. The trap then rolls initiative with its Stealth modifier of +12"
   - name: "Melee"
     desc: "Magical Starknife +15 (agile, deadly d6, magical, range 40 feet) "
 
@@ -59,5 +60,11 @@ attacks:
     desc: "(3 actions) For each of its actions on its turn, a carving on a different pillar glows and makes a magical starknife Ranged Strike against a random creature within range. Creatures might have cover from this Strike, such as from one of the pillars in the room."
   - name: "Reset"
     desc: "The trap deactivates 1 round after it has no target creatures and resets each day at sundown."
+```
+
+```encounter-table
+name: Magic Starknives Trap
+creatures:
+  - 1: Magic Starknives Trap
 ```
 

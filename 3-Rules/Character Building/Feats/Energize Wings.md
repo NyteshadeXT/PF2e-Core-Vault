@@ -12,8 +12,8 @@ tags:
 aliases: "Compendium.pf2e.feats-srd.Item.cmhfYMEM4uzrNIiV"
 license: OGL
 ---
-# Energize Wings `pf2:1`
-## Feat 9
+# Energize Wings
+## Feat 5
 ### [[concentrate]][[morph]][[primal]][[sprite]]
 
 **Category** ancestry; 
@@ -22,11 +22,7 @@ license: OGL
 
 **Prerequisites** Evanescent Wings
 * * *
-**Frequency** once per hour
-
-* * *
-
-You stoke your magic to energize your wings, temporarily transforming them into glowing, majestic forms. For 1 minute, you gain a fly Speed of 30 feet.
+Your magic energizes your wings, allowing you to fly farther. The fly Speed you gain from [[Feats/Evanescent Wings|Evanescent Wings]] increases to 25 feet.
 
 *Source: Pathfinder Lost Omens: Ancestry Guide*
 *OGL*

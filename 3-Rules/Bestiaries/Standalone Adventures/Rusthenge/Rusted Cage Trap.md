@@ -5,6 +5,7 @@ noteType: pf2eHazard
 tags:
   - mechanical
   - trap
+  - pf2eHazard
 
 source: Pathfinder Adventure: Rusthenge
 aliases: "Compendium.pf2e.rusthenge-bestiary.Actor.AyrDqMSjq43T3P5j" 
@@ -22,14 +23,14 @@ name: "Rusted Cage Trap"
 level: "Hazard 1"
 
 
-trait_01: "mechanical"
-trait_02: "trap"
+trait_01: [[mechanical]]
+trait_02: [[trap]]
 modifier: 7
 sourcebook: "_Pathfinder Adventure: Rusthenge_"
 ac: 16
 armorclass:
   - name: AC
-    desc: "16; __Fort__ +10, __Ref__ +4, __Will__ +0"
+    desc: "16; __Fort__ +10, __Ref__ +4, "
 hp: 24
 health:
   - name: ""
@@ -51,10 +52,16 @@ attacks:
   - name: ""
 
   - name: "Slam Down"
-    desc: "`pf2:r` **Trigger** A creature walks under the cage and steps on the pressure plate\n**Effect** The cage drops from the ceiling to trap the triggering creature, who must attempt a DC 17 Reflex check save.\n**Critical Success** The creature avoids the trap, and returns to the space it just left rather than entering the trap's space.\n**Success** As Critical Success, but the falling trap delivers a glancing blow and 1d6 + 3 bludgeoning damage to the creature as it stumbles back.\n**Failure** The falling trap lands on the triggering creature. A Medium or smaller creature becomes trapped inside the cage ([[Actions/Escape|Escape]] DC 20). A Large or larger creature takes 2d6 + 5 bludgeoning damage and is knocked [[Conditions/Prone|Prone]] as the cage bounces off the creature's body, becoming destroyed in the process.\n**Critical Failure** As Failure, but a Medium or smaller creature is also struck by the cage, knocked prone, and then takes 2d6 + 5 bludgeoning damage and is [[Conditions/Immobilized|Immobilized]] by the cage as it lands on a limb."
+    desc: "`pf2:r` **Trigger** A creature walks under the cage and steps on the pressure plate\n* * *\n\n**Effect** The cage drops from the ceiling to trap the triggering creature, who must attempt a DC 17 Reflex check save.\n* * *\n\n**Critical Success** The creature avoids the trap, and returns to the space it just left rather than entering the trap's space.\n\n**Success** As Critical Success, but the falling trap delivers a glancing blow and 1d6+3 bludgeoning damage to the creature as it stumbles back.\n\n**Failure** The falling trap lands on the triggering creature. A Medium or smaller creature becomes trapped inside the cage ([[Actions/Escape|Escape]] DC 20). A Large or larger creature takes 2d6+5 bludgeoning damage and is knocked [[Conditions/Prone|Prone]] as the cage bounces off the creature's body, becoming destroyed in the process.\n\n**Critical Failure** As Failure, but a Medium or smaller creature is also struck by the cage, knocked prone, and then takes 2d6+5 bludgeoning damage and is [[Conditions/Immobilized|Immobilized]] by the cage as it lands on a limb."
 
 
   - name: "Reset"
     desc: "The mechanism to manually reset this trap is located in area **D15**."
+```
+
+```encounter-table
+name: Rusted Cage Trap
+creatures:
+  - 1: Rusted Cage Trap
 ```
 

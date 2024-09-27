@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/dragon
   - pf2e/creature/type/evil
   - pf2e/creature/type/fire
+  - pf2eMonster
   - pf2e/creature/level/8
 statblock: inline
 name: "Enormous Flame Drake"
@@ -23,13 +24,13 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Kingmaker"
 name: "Enormous Flame Drake"
 level: "Creature 8"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Large"
-trait_01: "chaotic"
-trait_02: "dragon"
-trait_03: "evil"
-trait_04: "fire"
+trait_01: [[chaotic]]
+trait_02: [[dragon]]
+trait_03: [[evil]]
+trait_04: [[fire]]
 modifier: 16
 perception:
   - name: "Perception"
@@ -59,7 +60,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "[[Bestiary Ability Glossary/Attack of Opportunity|Attack of Opportunity (Fangs Only)]]"
-    desc: "`pf2:r`  Fangs only\n"
+    desc: "`pf2:r`  Fangs only\n\n* * *\n"
 
 attacks:
   - name: ""
@@ -74,11 +75,17 @@ attacks:
     desc: "`pf2:2`  The flame drake makes two Fangs Strikes and one Tail Strike in any order."
 
   - name: "Fireball Breath"
-    desc: "`pf2:2` (arcane,fire) The flame drake expels a ball of flame to a range of 180 feet that explodes in a 20-foot burst . Creatures in the burst take 9d6 fire damage (DC 26 Reflex check save).\nThe flame drake can't use Fireball Breath again for 1d6 rounds."
+    desc: "`pf2:2` (arcane,fire) The flame drake expels a ball of flame to a range of 180 feet that explodes in a @Template[burst|distance:20]. Creatures in the burst take 9d6 fire damage (DC 26 Reflex check save).\n\nThe flame drake can't use Fireball Breath again for 1d6 rounds."
 
   - name: "Speed Surge"
-    desc: "`pf2:1` (move) **Frequency** three times per day\n**Effect** The flame drake Strides or Flies up to twice its Speed."
+    desc: "`pf2:1` (move) **Frequency** three times per day\n\n**Effect** The flame drake Strides or Flies up to twice its Speed."
  
+```
+
+```encounter-table
+name: Enormous Flame Drake
+creatures:
+  - 1: Enormous Flame Drake
 ```
 
 

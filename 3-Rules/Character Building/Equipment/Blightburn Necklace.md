@@ -11,7 +11,7 @@ license: OGL
 ---
 # Blightburn Necklace
 ## Item 13
-### [uncommon](uncommon "Uncommon Rarity Trait")[[invested]][[magical]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[invested]][[3-Rules/Rule References/Magical]]
 
 
 **Price** 2300 gp; 

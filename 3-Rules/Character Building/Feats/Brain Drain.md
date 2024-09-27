@@ -27,9 +27,9 @@ With a wresting of will, you siphon off a creature's mental energy to replenish 
 
 **Success** The creature is unaffected.
 
-**Failure** The creature is [[Conditions/Stupefied 1|Stupefied 1]] for 1 minute, and you regain 1 Focus Point, up to your normal maximum. You can't use Brain Drain again until after the next time you make your daily preparations.
+**Failure** The creature is [[Conditions/Stupefied|Stupefied 1]] for 1 minute, and you regain 1 Focus Point, up to your normal maximum. You can't use Brain Drain again until after the next time you make your daily preparations.
 
-**Critical Failure** As failure, but the creature is [[Conditions/Stupefied 1|Stupefied 2]].
+**Critical Failure** As failure, but the creature is [[Conditions/Stupefied|Stupefied 2]].
 
 *Source: Pathfinder Dark Archive*
 *OGL*

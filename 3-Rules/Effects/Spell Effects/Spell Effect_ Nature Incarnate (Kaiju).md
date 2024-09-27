@@ -24,10 +24,13 @@ The primal power of the world flows through you. You transform into an incarnati
 *   AC = 25 + your level. Ignore your armor's check penalty and Speed reduction.
 *   30 temporary Hit Points.
 *   Darkvision.
-*   One or more attacks specific to the battle form you choose, which are the only attacks you can Strike with. You're trained with them. Your attack modifier is +34, and you use the listed damage. These attacks are Strength based (for the purpose of the [[Conditions/Enfeebled 1|Enfeebled 1]] condition, for example). If your unarmed attack modifier is higher, you can use it instead.
-*   Athletics modifier of +36, unless your own is higher. You gain specific abilities based on the incarnation you choose:
+*   One or more attacks specific to the battle form you choose, which are the only attacks you can Strike with. You're trained with them. Your attack modifier is +34, and you use the listed damage. These attacks are Strength based (for the purpose of the [[Conditions/Enfeebled|Enfeebled]] condition, for example). If your unarmed attack modifier is higher, you can use it instead.
+*   Athletics modifier of +36, unless your own is higher.
 
-*   **Kaiju** Speed 50 feet; resistance 5 to physical damage;
+You gain specific abilities based on the incarnation you choose:
+
+*   **Kaiju**
+    *   Speed 50 feet; resistance 5 to physical damage;
     *   **Melee** `pf2:1` jaws (reach 30 feet), **Damage** 6d10+10 piercing;
     *   **Melee** `pf2:1` claws (agile, reach 30 feet), **Damage** 6d8+8 slashing;
     *   **Melee** `pf2:1` foot (agile, reach 15 feet), **Damage** 6d6+10 bludgeoning;

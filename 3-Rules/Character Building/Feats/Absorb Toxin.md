@@ -6,8 +6,9 @@ tags:
   - trait/grippli
   - trait/common
   - category/ancestry
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.vyb3BYDiIl2MiZp4"
-license: OGL
+license: ORC
 ---
 # Absorb Toxin `pf2:r`
 ## Feat 9
@@ -23,7 +24,7 @@ license: OGL
 
 * * *
 
-Your skin readily absorbs poison and can consciously draw toxins into your body to spare others. Attempt a counteract check against the triggering effect; your counteract rank equals half your level (rounded up), and for the roll use either your class DC -10 or your spellcasting ability modifier plus your spellcasting proficiency bonus. If you counteract the triggering effect, you end the effect for all other creatures in the area; however, you must still save against the effect with a -2 penalty to the initial save.
+Your skin readily absorbs poison and can consciously draw toxins into your body to spare others. Attempt a counteract check against the triggering effect; your counteract rank equals half your level (rounded up), and for the roll use either your class DC – 10 or your spellcasting attribute modifier plus your spellcasting proficiency bonus. If you counteract the triggering effect, you end the effect for all other creatures in the area; however, you must still save against the effect with a –2 penalty to the initial save.
 
-*Source: Pathfinder Lost Omens: The Mwangi Expanse*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

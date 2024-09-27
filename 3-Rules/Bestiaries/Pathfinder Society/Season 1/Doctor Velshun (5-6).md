@@ -10,6 +10,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/human
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/6
 statblock: inline
 name: "Doctor Velshun (5-6)"
@@ -24,14 +25,14 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Society Scenario #1-25: Grim Symphony"
 name: "Doctor Velshun (5-6)"
 level: "Creature 6"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Medium"
-trait_01: "chaotic"
-trait_02: "dhampir"
-trait_03: "evil"
-trait_04: "human"
-trait_05: "humanoid"
+trait_01: [[chaotic]]
+trait_02: [[dhampir]]
+trait_03: [[evil]]
+trait_04: [[human]]
+trait_05: [[humanoid]]
 modifier: 13
 perception:
   - name: "Perception"
@@ -39,7 +40,7 @@ perception:
 languages: "Common, Necril"
 skills:
   - name: "Skills"
-    desc: "Music Lore: +13, Occultism: +13, Performance: +15, Religion: +13"
+    desc: "Occultism: +13, Performance: +15, Religion: +13, Music Lore: +13"
 abilityMods: [2, 2, 4, 4, 2, 5]
 speed: 25 feet
 sourcebook: "_Pathfinder Society Scenario #1-25: Grim Symphony_"
@@ -70,6 +71,12 @@ attacks:
   - name: "Rituals"
     desc: "_[[Spells/Create Undead|Create Undead (Zombie)]]_"
  
+```
+
+```encounter-table
+name: Doctor Velshun (5-6)
+creatures:
+  - 1: Doctor Velshun (5-6)
 ```
 
 

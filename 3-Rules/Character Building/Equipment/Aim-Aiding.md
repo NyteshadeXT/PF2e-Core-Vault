@@ -10,7 +10,7 @@ license: OGL
 ---
 # Aim-Aiding
 ## Item 6
-### [[magical]]
+### [[3-Rules/Rule References/Magical]]
 
 
 **Price** 225 gp; 

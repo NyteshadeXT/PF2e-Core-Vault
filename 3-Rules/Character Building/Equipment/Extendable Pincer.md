@@ -10,7 +10,7 @@ license: OGL
 ---
 # Extendable Pincer
 
-### [uncommon](uncommon "Uncommon Rarity Trait")[[clockwork]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[clockwork]]
 
 
 **Price** 2 gp; 

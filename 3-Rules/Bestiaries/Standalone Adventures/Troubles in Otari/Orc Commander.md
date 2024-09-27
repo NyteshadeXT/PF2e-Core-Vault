@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/humanoid
   - pf2e/creature/type/orc
+  - pf2eMonster
   - pf2e/creature/level/2
 statblock: inline
 name: "Orc Commander"
@@ -26,14 +27,15 @@ level: "Creature 2"
 
 alignment: ""
 size: "Medium"
-trait_01: "chaotic"
-trait_02: "evil"
-trait_03: "humanoid"
-trait_04: "orc"
+trait_01: [[chaotic]]
+trait_02: [[evil]]
+trait_03: [[humanoid]]
+trait_04: [[orc]]
 modifier: 11
 perception:
   - name: "Perception"
     desc: "+11; Darkvision"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Athletics: +8, Intimidation: +6, Survival: +5"
@@ -71,8 +73,14 @@ attacks:
     desc: "`pf2:1` Javelin +8 (thrown 30 ft.)\n__Damage__  1d6 + 4 piercing"
 
   - name: "Battle Cry"
-    desc: "`pf2:1` (concentrate,emotion,mental) Bellowing mightily, the commander gives themself and all orc allies within 60 feet who can hear them a +1 status bonus to attack and damage rolls until the start of the orc commander's next turn.\n[[Bestiary Effects/Effect_ Battle Cry|Effect: Battle Cry]]"
+    desc: "`pf2:1` (concentrate,emotion,mental) Bellowing mightily, the commander gives themself and all orc allies within 60 feet who can hear them a +1 status bonus to attack and damage rolls until the start of the orc commander's next turn.\n\n[[Bestiary Effects/Effect_ Battle Cry|Effect: Battle Cry]]"
  
+```
+
+```encounter-table
+name: Orc Commander
+creatures:
+  - 1: Orc Commander
 ```
 
 

@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/chaotic
   - pf2e/creature/type/cold
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/10
 statblock: inline
 name: "Adlet"
@@ -26,9 +27,9 @@ level: "Creature 10"
 
 alignment: ""
 size: "Medium"
-trait_01: "chaotic"
-trait_02: "cold"
-trait_03: "humanoid"
+trait_01: [[chaotic]]
+trait_02: [[cold]]
+trait_03: [[humanoid]]
 modifier: 18
 perception:
   - name: "Perception"
@@ -56,7 +57,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Avenging Bite"
-    desc: "`pf2:r`  **Trigger** A creature within reach of an adlet's jaws Strike attacks one of the adlet's allies.\n**Effect** The adlet makes a jaws Strike against the triggering creature."
+    desc: "`pf2:r`  **Trigger** A creature within reach of an adlet's jaws Strike attacks one of the adlet's allies.\n* * *\n\n**Effect** The adlet makes a jaws Strike against the triggering creature."
 
   - name: "Wolfstorm"
     desc: " (aura,cold,primal) 60 feet. A clammy, frigid mist billows forth ahead of the adlet. Creatures within the mist become [[Conditions/Concealed|Concealed]], and creatures outside the mist become concealed to creatures within it. An adlet can see through the aura without penalty."
@@ -82,6 +83,12 @@ attacks:
   - name: "Wolfrime"
     desc: "`pf2:1` (cold,concentrate,primal) An adlet's mist turns biting cold and coalesces into a thick rime of frost that deals 6d6 cold damage to creatures inside the adlet's wolfstorm aura (DC 26 Fortitude check), and the aura is deactivated until the start of the adlet's next turn."
  
+```
+
+```encounter-table
+name: Adlet
+creatures:
+  - 1: Adlet
 ```
 
 

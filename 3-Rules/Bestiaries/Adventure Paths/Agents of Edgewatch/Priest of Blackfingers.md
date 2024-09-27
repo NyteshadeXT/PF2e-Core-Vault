@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/human
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/12
 statblock: inline
 name: "Priest of Blackfingers"
@@ -22,12 +23,12 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #160: Assault on Hunting Lodge Seven"
 name: "Priest of Blackfingers"
 level: "Creature 12"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Medium"
-trait_01: "evil"
-trait_02: "human"
-trait_03: "humanoid"
+trait_01: [[evil]]
+trait_02: [[human]]
+trait_03: [[humanoid]]
 modifier: 25
 perception:
   - name: "Perception"
@@ -35,7 +36,7 @@ perception:
 languages: "Common"
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +22, Athletics: +21, Deception: +20, Norgorber Lore: +20, Religion: +22, Stealth: +26"
+    desc: "Acrobatics: +22, Athletics: +21, Deception: +20, Religion: +22, Stealth: +26, Norgorber Lore: +20"
 abilityMods: [3, 4, 2, 0, 5, 2]
 speed: 25 feet
 sourcebook: "_Pathfinder #160: Assault on Hunting Lodge Seven_"
@@ -55,7 +56,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Attack of Opportunity"
-    desc: "`pf2:r`  **Trigger** A creature within the monster's reach uses a manipulate action or a move action, makes a ranged attack, or leaves a square during a move action it's using.\n**Effect** The monster attempts a melee Strike against the triggering creature. If the attack is a critical hit and the trigger was a manipulate action, the monster disrupts that action. This Strike doesn't count toward the monster's multiple attack penalty, and its multiple attack penalty doesn't apply to this Strike."
+    desc: "`pf2:r`  **Trigger** A creature within the monster's reach uses a manipulate action or a move action, makes a ranged attack, or leaves a square during a move action it's using.\n* * *\n\n**Effect** The monster attempts a melee Strike against the triggering creature. If the attack is a critical hit and the trigger was a manipulate action, the monster disrupts that action. This Strike doesn't count toward the monster's multiple attack penalty, and its multiple attack penalty doesn't apply to this Strike."
 
 attacks:
   - name: ""
@@ -75,6 +76,12 @@ attacks:
   - name: "Toxic Mastery"
     desc: "  Kalyn can masterfully manipulate vile, poisonous energy and increase its potency. Her melee and ranged Strikes deal an additional 2d6 poison damage, and a target that takes this poison damage has a -1 status penalty to saving throws against Kalyn's divine spells for 1 round. Poisons delivered by Kalyn have the virulent trait."
  
+```
+
+```encounter-table
+name: Priest of Blackfingers
+creatures:
+  - 1: Priest of Blackfingers
 ```
 
 

@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/fey
   - pf2e/creature/type/gremlin
   - pf2e/creature/type/lawful
+  - pf2eMonster
   - pf2e/creature/level/1
 statblock: inline
 name: "Boss Skrawng"
@@ -23,13 +24,13 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #163: Ruins of Gauntlight"
 name: "Boss Skrawng"
 level: "Creature 1"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Small"
-trait_01: "evil"
-trait_02: "fey"
-trait_03: "gremlin"
-trait_04: "lawful"
+trait_01: [[evil]]
+trait_02: [[fey]]
+trait_03: [[gremlin]]
+trait_04: [[lawful]]
 modifier: 7
 perception:
   - name: "Perception"
@@ -37,7 +38,7 @@ perception:
 languages: "Common, Sakvroth"
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +7, Diplomacy: +4 (+10 vs. arthropods), Nature: +5, Stealth: +7, Thievery: +7"
+    desc: "Acrobatics: +7, Diplomacy: +4, Nature: +5, Stealth: +7, Thievery: +7"
 abilityMods: [1, 4, 1, 0, 2, 1]
 speed: 20 feet,  climb 20 feet
 sourcebook: "_Pathfinder #163: Ruins of Gauntlight_"
@@ -69,20 +70,26 @@ attacks:
     desc: "`pf2:1` Trident +6 ()\n__Damage__  1d8 + 1 piercing"
 
   - name: "Ranged"
-    desc: "`pf2:1` Blowgun +9 (agile, nonlethal, range increment 20 feet)\n__Damage__  1 piercing plus spear-frog-poison"
+    desc: "`pf2:1` Trident +9 (thrown 20 ft.)\n__Damage__  1d8 + 1 piercing"
 
   - name: "Ranged"
-    desc: "`pf2:1` Trident +9 (thrown 20 ft.)\n__Damage__  1d8 + 1 piercing"
+    desc: "`pf2:1` Blowgun +9 (agile, nonlethal, range increment 20 feet)\n__Damage__  1 piercing plus spear-frog-poison"
 
   - name: "Primal Innate Spells"
     desc: "DC 17, attack +9; __2nd __ (1 slots) _[[Spells/Speak with Animals|Speak with Animals (At Will) (Arthropods Only)]]_; __1st __ (1 slots) _[[Spells/Bane|Bane]]_\n__Cantrips__  __(1st)__ _[[Spells/Prestidigitation|Prestidigitation]]_"
 
   - name: "Spear Frog Poison"
-    desc: " (poison) **Saving Throw** DC 15 Fortitude check\n**Maximum Duration** 6 rounds\n**Stage 1** 1d4 poison damage (1 round)\n**Stage 2** 1d6 poison damage and [[Conditions/Enfeebled 1|Enfeebled 1]] (1 round)"
+    desc: " (poison) **Saving Throw** DC 15 Fortitude check\n\n**Maximum Duration** 6 rounds\n\n**Stage 1** 1d4 poison damage (1 round)\n\n**Stage 2** 1d6 poison damage and [[Conditions/Enfeebled|Enfeebled 1]] (1 round)"
 
   - name: "Vengeful Anger"
-    desc: " (emotion,mental) As long as he isn't [[Conditions/Frightened 1|Frightened]], Boss Skrawng gains a +2 status bonus to damage rolls against a creature that has previously damaged or tormented him."
+    desc: " (emotion,mental) As long as he isn't [[Conditions/Frightened|Frightened]], Boss Skrawng gains a +2 status bonus to damage rolls against a creature that has previously damaged or tormented him."
  
+```
+
+```encounter-table
+name: Boss Skrawng
+creatures:
+  - 1: Boss Skrawng
 ```
 
 

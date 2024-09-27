@@ -7,6 +7,7 @@ aliases: "Compendium.battlezoo-bestiary-su-pf2e.pf2e-battlezoo-su-actors.Actor.D
 tags:
   - pf2e/creature/type/chaotic
   - pf2e/creature/type/fey
+  - pf2eMonster
   - pf2e/creature/level/3
 statblock: inline
 name: "Spellfilcher"
@@ -22,11 +23,11 @@ token: [[modules/battlezoo-bestiary-su-pf2e/art/Portraits/spellfilcher.webp| ]]
 source: "Battlezoo Bestiary: Strange and Unusual"
 name: "Spellfilcher"
 level: "Creature 3"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "tiny"
-trait_01: "chaotic"
-trait_02: "fey"
+trait_01: [[chaotic]]
+trait_02: [[fey]]
 modifier: 10
 perception:
   - name: "Perception"
@@ -34,7 +35,7 @@ perception:
 languages: "Common, Draconic, Fey"
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +9, Arcana: +11, Athletics: +5, Crafting: +9, Deception: +9, Diplomacy: +9, Nature: +8, Occultism: +8, Religion: +8, Society: +9, Stealth: +11, Survival: +8, Thievery: +11, "
+    desc: "Acrobatics: +9, Arcana: +11, Athletics: +5, Crafting: +9, Deception: +9, Diplomacy: +9, Nature: +8, Occultism: +8, Religion: +8, Society: +9, Stealth: +11, Survival: +8, Thievery: +11, Acrobatics: +9, Arcana: +11, Athletics: +5, Crafting: +9, Deception: +9, Diplomacy: +9, Nature: +8, Occultism: +8, Religion: +8, Society: +9, Stealth: +11, Survival: +8, Thievery: +11"
 abilityMods: [0, 4, 2, 4, 3, 4]
 speed: 20 feet,  fly 45 feet
 sourcebook: "_Battlezoo Bestiary: Strange and Unusual_"
@@ -59,7 +60,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Spell Siphon"
-    desc: "`pf2:r` (arcane) **Trigger** The spellfilcher critically succeeds at a saving throw against a spell\n**Effect** The spellfilcher attempts to Steal Spell on the triggering spell, without needing to meet the usual requirements."
+    desc: "`pf2:r` (arcane) **Trigger** The spellfilcher critically succeeds at a saving throw against a spell\n* * *\n\n**Effect** The spellfilcher attempts to Steal Spell on the triggering spell, without needing to meet the usual requirements."
 
 attacks:
   - name: ""
@@ -71,14 +72,20 @@ attacks:
     desc: "DC 20, attack +12\n__Cantrips__  __(2nd)__ _[[Compendium.pf2e.spells-srd.Item.kl2q6JvBZwed4B6v|Dancing Lights]]_, _[[Spells/Detect Magic|Detect Magic]]_, _[[Spells/Electric Arc|Electric Arc]]_, _[[Spells/Ghost Sound|Ghost Sound]]_, _[[Spells/Light|Light]]_, _[[Spells/Prestidigitation|Prestidigitation]]_, _[[Spells/Ray of Frost|Ray of Frost]]_, _[[Spells/Read Aura|Read Aura]]_"
 
   - name: "Cast Stolen Spell"
-    desc: "  A spellfilcher can use the Cast a Spell activity with any spell it has stolen, regardless of the source or tradition. It then loses the stolen spell. A spell cast this way gains the trait corresponding to the magical tradition of the spell's original source. For example, even though a spellfilcher's innate spells are normally arcane, if a spellfilcher steals _Burning Hands_ from a druid and casts it, the spell would have the primal trait instead of the arcane trait."
+    desc: "  A spellfilcher can use the Cast a Spell activity with any spell it has stolen, regardless of the source or tradition. It then loses the stolen spell. A spell cast this way gains the trait corresponding to the magical tradition of the spell's original source. For example, even though a spellfilcher's innate spells are normally arcane, if a spellfilcher steals _[[Spells/Breathe Fire|Burning Hands]]_ from a druid and casts it, the spell would have the primal trait instead of the arcane trait."
 
   - name: "Feather Strike"
-    desc: "`pf2:1`  The spellfilcher gently taps its wand against a creature with its fae wand in a way that doesn't damage them and is almost impossible to notice. It makes an attack roll, uses its attack bonus with its fae wand of +11, but dealing no damage. If the spellfilcher is Hidden, Undetected, or Unnoticed, it remains hidden, undetected, or unnoticed after using Feather Strike (as well as Steal Spell, if the spellfilcher uses Steal Spell after Feather Strike)."
+    desc: "`pf2:1`  The spellfilcher gently taps its wand against a creature with its fae wand in a way that doesn't damage them and is almost impossible to notice. It makes an attack roll, uses its attack bonus with its fae wand of +11, but dealing no damage. If the spellfilcher is [[undefined]], [[Conditions/Undetected|Undetected]], or [[Conditions/Unnoticed|Unnoticed]], it remains hidden, undetected, or unnoticed after using Feather Strike (as well as Steal Spell, if the spellfilcher uses Steal Spell after Feather Strike)."
 
   - name: "Steal Spell"
-    desc: "`pf2:1` (arcane) **Requirements** The spellfilcher's last action was to Strike or Feather Strike a creature with its fae wand\n**Effect** The spellfilcher steals a spell from the creature it struck. The spellfilcher chooses a spell prepared by the creature or in the repertoire of that creature. If the spell was prepared, the creature must attempt a DC 22 Will check save or lose that prepared spell. If the creature casts spells spontaneously, it must attempt a DC 22 Will check save or lose a spell slot of the appropriate level. The spellfilcher can only steal a 1st or 2nd level spell this way. A spellfilcher can store up to three stolen 1st-level spells and three stolen 2nd-level spells at the same time. A spellfilcher can't steal cantrips."
+    desc: "`pf2:1` (arcane) **Requirements** The spellfilcher's last action was to Strike or Feather Strike a creature with its fae wand\n* * *\n\n**Effect** The spellfilcher steals a spell from the creature it struck. The spellfilcher chooses a spell prepared by the creature or in the repertoire of that creature. If the spell was prepared, the creature must attempt a DC 22 Will check save or lose that prepared spell. If the creature casts spells spontaneously, it must attempt a DC 22 Will check save or lose a spell slot of the appropriate level. The spellfilcher can only steal a 1st or 2nd level spell this way. A spellfilcher can store up to three stolen 1st-level spells and three stolen 2nd-level spells at the same time. A spellfilcher can't steal cantrips."
  
+```
+
+```encounter-table
+name: Spellfilcher
+creatures:
+  - 1: Spellfilcher
 ```
 
 

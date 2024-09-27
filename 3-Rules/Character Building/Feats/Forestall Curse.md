@@ -5,15 +5,15 @@ cssclasses: pf2e,pf2e-spell
 tags:
   - trait/concentrate
   - trait/oracle
-  - trait/spellshape
   - trait/common
   - category/class
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.NNeRv9Gcua1kMp4s"
-license: OGL
+license: ORC
 ---
 # Forestall Curse `pf2:1`
 ## Feat 14
-### [[concentrate]][[oracle]][[spellshape]]
+### [[concentrate]][[oracle]]
 
 **Category** class; 
 
@@ -24,9 +24,7 @@ license: OGL
 
 * * *
 
-You've learned to forestall the effects of your curse somewhat.
+You've learned to hold back your curse. If the next action you use is a cursebound ability, your [[Conditions/Cursebound|Cursebound]] value doesn't increase
 
-If the next action you use is to cast a revelation spell, the severity of your curse doesn't increase.
-
-*Source: Pathfinder Advanced Player's Guide*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

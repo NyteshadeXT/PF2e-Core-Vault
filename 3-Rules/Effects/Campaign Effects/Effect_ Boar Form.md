@@ -25,9 +25,8 @@ The polymorphed character transforms into a Large animal. Each polymorphed chara
 *   Athletics modifier of +26 unless yours is better.
 *   **[[Adventure-Specific Actions/Rallying Display|Rallying Display]]** `pf2:1` (auditory, visual) You roar or otherwise make a show of bestial strength. You automatically roll a success to rally the crowd for your team.
 *   **[[Adventure-Specific Actions/Reposition Chains|Reposition Chains]]** `pf2:1` You pull on the chains, moving a willing chained ally up to 10 feet to a space within your reach.
-    
-    * * *
-    
+
+* * *
 
 **Speed** 40 feet
 

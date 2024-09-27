@@ -6,10 +6,11 @@ tags:
   - trait/monk
   - trait/common
   - category/class
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.AiV2xFhYB90KHt2x"
-license: OGL
+license: ORC
 ---
-# Pinning Fire `pf2:0`
+# Pinning Fire `pf2:r`
 ## Feat 8
 ### [[monk]]
 
@@ -28,5 +29,5 @@ If both your attacks hit, the target must succeed at a Reflex save against your 
 
 The creature doesn't become stuck if it is incorporeal, is liquid (like a water elemental or some oozes), or could otherwise escape without effort.
 
-*Source: Pathfinder Advanced Player's Guide*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

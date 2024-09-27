@@ -12,7 +12,7 @@ license: OGL
 ---
 # Cloister Robe (Lesser)
 ## Item 9
-### [[divine]][[invested]]
+### [[3-Rules/Rule References/Divine]][[invested]]
 
 **Category** unarmored; **Group** cloth
 **Price** 600 gp; 

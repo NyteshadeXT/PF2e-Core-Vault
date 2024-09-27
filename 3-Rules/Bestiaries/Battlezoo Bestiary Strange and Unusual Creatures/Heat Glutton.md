@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/beast
   - pf2e/creature/type/cold
   - pf2e/creature/type/evil
+  - pf2eMonster
   - pf2e/creature/level/10
 statblock: inline
 name: "Heat Glutton"
@@ -23,19 +24,20 @@ token: [[modules/battlezoo-bestiary-su-pf2e/art/Portraits/heat-glutton.webp| ]]
 source: "Battlezoo Bestiary: Strange and Unusual"
 name: "Heat Glutton"
 level: "Creature 10"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Large"
-trait_01: "beast"
-trait_02: "cold"
-trait_03: "evil"
+trait_01: [[beast]]
+trait_02: [[cold]]
+trait_03: [[evil]]
 modifier: 16
 perception:
   - name: "Perception"
     desc: "+16; Darkvision, Scent (Imprecise) 30 Feet"
+languages: ""
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +19, Athletics: +22, Intimidation: +19, Stealth: +19, Survival: +19, "
+    desc: "Acrobatics: +19, Athletics: +22, Intimidation: +19, Stealth: +19, Survival: +19, Acrobatics: +19, Athletics: +22, Intimidation: +19, Stealth: +19, Survival: +19"
 abilityMods: [0, 0, 0, 0, 0, 0]
 speed: 35 feet
 sourcebook: "_Battlezoo Bestiary: Strange and Unusual_"
@@ -57,7 +59,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Hunger Frenzy"
-    desc: "`pf2:r`  **Trigger** A creature deals fire damage to the heat glutton and is close enough for the heat glutton to reach with a single Stride\n**Effect** The heat glutton Pounces on the triggering creature."
+    desc: "`pf2:r`  **Trigger** A creature deals fire damage to the heat glutton and is close enough for the heat glutton to reach with a single Stride\n* * *\n\n**Effect** The heat glutton Pounces on the triggering creature."
 
   - name: "Personal Tundra"
     desc: " (aura,cold) 60 feet. The constant heat absorption of the heat glutton creates an ice patch within the aura, which is difficult terrain. The heat glutton moves at full Speed in the area. Once the heat glutton moves away, the ice typically melts enough to no longer be difficult terrain, though the signs of rime remain for some time thereafter. If the temperature is cold enough to support ice normally, the ice remains until conditions warm up."
@@ -78,11 +80,17 @@ attacks:
     desc: "`pf2:2`  The heat glutton feeds on all heat sources in a 30-foot emanation, putting out nearby fires. It extinguishes non-magical fires automatically and attempts to counteract magical fires (counteract level 5, counteract modifier +18). The heat glutton heals 1d8 healing Hit Points if it extinguishes any fires, plus an additional 1d8 Hit Points per magical fire extinguished this way, to a maximum of 10d8 Hit Points for extinguishing nine or more magical fires."
 
   - name: "Ice Grip"
-    desc: "`pf2:1`  **Requirements** The heat glutton has a creature Grabbed\n**Effect** The heat glutton feeds on the body heat of the grabbed creature, dealing 2d12 + 5 cold damage with a DC 29 Fortitude check save."
+    desc: "`pf2:1`  **Requirements** The heat glutton has a creature [[undefined]]\n* * *\n\n**Effect** The heat glutton feeds on the body heat of the grabbed creature, dealing 2d12+5 cold damage with a DC 29 Fortitude check save."
 
   - name: "Pounce"
-    desc: "`pf2:1`  The heat glutton Strides and makes a Strike at the end of that movement. If the heat glutton began this action Hidden, it remains hidden until after the attack."
+    desc: "`pf2:1`  The heat glutton Strides and makes a Strike at the end of that movement. If the heat glutton began this action [[undefined]], it remains hidden until after the attack."
  
+```
+
+```encounter-table
+name: Heat Glutton
+creatures:
+  - 1: Heat Glutton
 ```
 
 

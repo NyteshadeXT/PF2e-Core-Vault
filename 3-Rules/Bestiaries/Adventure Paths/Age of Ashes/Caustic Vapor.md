@@ -5,6 +5,7 @@ noteType: pf2eHazard
 tags:
   - mechanical
   - trap
+  - pf2eHazard
 
 source: Pathfinder #149: Against the Scarlet Triad
 aliases: "Compendium.pf2e.age-of-ashes-bestiary.Actor.axCgEgk7n1yXpgdp" 
@@ -22,8 +23,8 @@ name: "Caustic Vapor"
 level: "Hazard 17"
 
 
-trait_01: "mechanical"
-trait_02: "trap"
+trait_01: [[mechanical]]
+trait_02: [[trap]]
 modifier: 30
 sourcebook: "_Pathfinder #149: Against the Scarlet Triad_"
 perception:
@@ -42,13 +43,19 @@ attacks:
   - name: ""
 
   - name: "Breath Snatcher"
-    desc: "`pf2:r` (occult) **Trigger** A living creature other than an ooze spends at least 3 rounds in the room\n**Effect** The trap activates and fills the area with caustic nightmare vapor, exposing all creatures within."
+    desc: "`pf2:r` (occult) **Trigger** A living creature other than an ooze spends at least 3 rounds in the room\n* * *\n\n**Effect** The trap activates and fills the area with caustic nightmare vapor, exposing all creatures within."
 
   - name: "Caustic Nightmare Vapor"
-    desc: "passive (acid, poison) Oozes are immune to this poison\n**Saving Throw** DC 38 Fortitude check\n**Onset** 1 round\n**Maximum Duration** 6 rounds\n**Stage 1** 4d6 acid damage and [[Conditions/Confused|Confused]] (1 round)\n**Stage 2** 6d6 acid damage, confused, and [[Conditions/Off-Guard|Off-Guard]] (1 round)\n**Stage 3** 8d6 acid damage, confused, off-guard, and [[Conditions/Stupefied 1|Stupefied 2]] (1 round)"
+    desc: "passive (acid, poison) Oozes are immune to this poison\n\n**Saving Throw** DC 38 Fortitude check\n\n**Onset** 1 round\n\n**Maximum Duration** 6 rounds\n\n**Stage 1** 4d6 acid damage and [[Conditions/Confused|Confused]] (1 round)\n\n**Stage 2** 6d6 acid damage, confused, and [[Conditions/Off-Guard|Off-Guard]] (1 round)\n\n**Stage 3** 8d6 acid damage, confused, off-guard, and [[Conditions/Stupefied|Stupefied 2]] (1 round)"
 
 
   - name: "Reset"
     desc: "The trap resets after 1 day."
+```
+
+```encounter-table
+name: Caustic Vapor
+creatures:
+  - 1: Caustic Vapor
 ```
 

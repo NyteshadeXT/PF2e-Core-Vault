@@ -12,7 +12,7 @@ license: OGL
 ---
 # Elemental Gem
 ## Item 10
-### [[consumable]][[magical]]
+### [[consumable]][[3-Rules/Rule References/Magical]]
 
 **Category** other; 
 **Price** 200 gp; 

@@ -6,6 +6,7 @@ cssClasses: pf2e
 aliases: "Compendium.pf2e.pathfinder-monster-core.Actor.2p7MEk4SdXfLbzxO" 
 tags:
   - pf2e/creature/type/construct
+  - pf2eMonster
   - pf2e/creature/level/4
   - remaster
 statblock: inline
@@ -25,7 +26,7 @@ level: "Creature 4"
 
 alignment: ""
 size: "Medium"
-trait_01: "construct"
+trait_01: [[construct]]
 modifier: 11
 perception:
   - name: "Perception"
@@ -52,7 +53,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Scarecrow's Leer"
-    desc: " (aura,emotion,fear,mental,occult,visual) 40 feet.\n\nThe scarecrow's eyes flicker with an unnerving glow. A creature can't reduce its [[Conditions/Frightened 1|Frightened]] condition below 1 as long as it is in the aura's emanation. When a creature enters or starts its turn in the aura, it must attempt a DC 18 Will check save. Birds and other avian creatures take a -2 circumstance penalty to this save.\n* * *\n\n**Critical Success** The creature is unaffected and is then temporarily immune for 24 hours.\n\n**Success** The creature is [[Conditions/Frightened 1|Frightened 1]].\n\n**Failure** The creature is [[Conditions/Frightened 1|Frightened 2]] and is [[Conditions/Fascinated|Fascinated]] by the scarecrow until the end of its next turn.\n\n**Critical Failure** As failure, but [[Conditions/Frightened 1|Frightened 3]]."
+    desc: " (aura,emotion,fear,mental,occult,visual) 40 feet.\n\nThe scarecrow's eyes flicker with an unnerving glow. A creature can't reduce its [[Conditions/Frightened|Frightened]] condition below 1 as long as it is in the aura's emanation. When a creature enters or starts its turn in the aura, it must attempt a DC 18 Will check save. Birds and other avian creatures take a -2 circumstance penalty to this save.\n* * *\n\n**Critical Success** The creature is unaffected and is then temporarily immune for 24 hours.\n\n**Success** The creature is [[Conditions/Frightened|Frightened 1]].\n\n**Failure** The creature is [[Conditions/Frightened|Frightened 2]] and is [[Conditions/Fascinated|Fascinated]] by the scarecrow until the end of its next turn.\n\n**Critical Failure** As failure, but [[Conditions/Frightened|Frightened 3]]."
 
 attacks:
   - name: ""
@@ -61,14 +62,20 @@ attacks:
     desc: "`pf2:1` Claw +13 (versatile s)\n__Damage__  2d6 + 7 bludgeoning plus clawing-fear"
 
   - name: "Baleful Glow"
-    desc: " (concentrate,light,mental,occult) The scarecrow's head bursts into ghostly, heatless flame that sheds bright light in a 20-foot emanation (and dim light to the next 20 feet). If the scarecrow uses this ability on the first round of combat, any creature that has not acted yet is startled and becomes [[Conditions/Off-Guard|Off-Guard]] against the scarecrow for 1 round. It can suppress the light by using this action again."
+    desc: " (concentrate,light,mental,occult) The scarecrow's head bursts into ghostly, heatless flame that sheds bright light in a @Template[emanation|distance:20] (and dim light to the next 20 feet). If the scarecrow uses this ability on the first round of combat, any creature that has not acted yet is startled and becomes [[Conditions/Off-Guard|Off-Guard]] against the scarecrow for 1 round. It can suppress the light by using this action again."
 
   - name: "Clawing Fear"
-    desc: "  The scarecrow's strikes deal an additional 1d6 mental damage to [[Conditions/Frightened 1|Frightened]] creatures."
+    desc: "  The scarecrow's strikes deal an additional 1d6 mental damage to [[Conditions/Frightened|Frightened]] creatures."
 
   - name: "Mundane Appearance"
     desc: "`pf2:1` (concentrate) Until it acts, the scarecrow resembles an ordinary scarecrow. It has an automatic result of 32 on Deception checks and DCs to pass as an ordinary scarecrow."
  
+```
+
+```encounter-table
+name: Scarecrow
+creatures:
+  - 1: Scarecrow
 ```
 
 

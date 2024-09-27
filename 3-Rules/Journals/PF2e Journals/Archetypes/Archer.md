@@ -8,15 +8,15 @@ tags:
 ---
 
 # Archer
-Bows of all types are powerful weapons. Generals and hunters alike recognize the power in dealing death from long distances, and from behind cover. Those dedicated to the bow-from mysterious cloaked strangers to heartless snipers-are often viewed with a mixture of respect and fear. Like any weapon adept, the archer's skill is forged through experience and constant practice. A true archer becomes one with the bow and is able to accomplish with that weapon things that most would consider impossible, or at least nearly magical.
+Bows of all types are powerful weapons. Generals and hunters alike recognize the power in dealing death from a distance, and from behind safe cover. Those dedicated to the bow—from mysterious cloaked strangers to heartless snipers—are often viewed with a mixture of respect and fear. Like any weapons adept, the archer's skill is forged through experience and constant practice. A true archer becomes one with their bow and is able to make incredible shots with their weapon that most would consider impossible, or at the very least magical.
 
-**Additional Feats** 4th [[Feats/Assisting Shot|Assisting Shot]], [[Feats/Point Blank Stance|Point-Blank Shot]]; 6th [[Feats/Double Shot|Double Shot]], Parting Shot, [[Feats/Running Reload|Running Reload]]; 8th [[Feats/Triple Shot|Triple Shot]]; 10th [[Feats/Mobile Shot Stance|Mobile Shot Stance]]; 18th [[Feats/Multishot Stance|Multishot Stance]]
+**Additional Feats** 4th [[Feats/Assisting Shot|Assisting Shot]], [[Feats/Crossbow Ace|Crossbow Ace]], [[Feats/Point Blank Stance|Point-Blank Shot]]; 6th [[Feats/Double Shot|Double Shot]], [[Feats/Parting Shot|Parting Shot]], [[Feats/Running Reload|Running Reload]]; 8th [[Feats/Triple Shot|Triple Shot]]; 10th [[Feats/Mobile Shot Stance|Mobile Shot Stance]]; 18th [[Feats/Multishot Stance|Multishot Stance]]; 20th [[Feats/Impossible Volley|Impossible Volley]]
 
 ## [[Feats/Archer Dedication|Archer Dedication]] Feat 2
 
-You become trained in all simple and martial weapons in the bow weapon group. Whenever you gain a class feature that grants you expert or greater proficiency in certain weapons, you also gain that proficiency rank in all simple and martial weapons in the bow weapon group. If you are at least an expert in the bow you are using, you gain access to the critical specialization effect with that bow.
+You have familiarity with all weapons in the bow and crossbow weapon groups. For the purposes of proficiency, treat any of these that are martial weapons as simple weapons and any that are advanced weapons as martial weapons.
 
-**Special** You can't select another dedication feat until you have gained two other feats from the archer archetype.
+If you are at least an expert in the bow or crossbow you are using, you get the critical specialization effect of that weapon when you get a critical hit with it.
 
 ## [[Feats/Quick Shot|Quick Shot]] Feat 4
 
@@ -24,15 +24,7 @@ You become trained in all simple and martial weapons in the bow weapon group. Wh
 
 * * *
 
-You draw your bow and attack with the same action. You Interact to draw a weapon from the bow weapon group that is loaded or has reload 0, then Strike with that weapon.
-
-## [[Feats/Advanced Bow Training|Advanced Bow Training]] Feat 6
-
-**Prerequisites** Archer Dedication
-
-* * *
-
-Through constant practice and the crucible of experience, you increase your skill with advanced bows. You gain proficiency with all advanced bows as if they were martial weapons in the bow weapon group.
+You draw your bow and attack with the same action. You Interact to draw a weapon from the bow or crossbow weapon group that is loaded or has reload 0, then Strike with that weapon.
 
 ## [[Feats/Crossbow Terror|Crossbow Terror]] Feat 6
 
@@ -40,7 +32,7 @@ Through constant practice and the crucible of experience, you increase your skil
 
 * * *
 
-You are a dynamo with the crossbow. You gain a +2 circumstance bonus to damage with crossbows. If the crossbow is a simple weapon, also increase the damage die size for your attacks made with that crossbow by one step. As normal, this damage die increase can't be combined with other abilities that alter the weapon damage die (such as the ranger feat Crossbow Ace).
+Your skill with a crossbow strikes terror into your opponents when you threaten them with the next bolt. Interact to reload a crossbow and then attempt an Intimidation check to Demoralize. You gain a +2 circumstance bonus to this check if you succeeded at a Strike with a crossbow this turn.
 
 ## [[Feats/Staggering Fire|Staggering Fire]] Feat 6
 
@@ -59,3 +51,11 @@ You've learned how to fire at enemies to slow them down, allowing innocents and 
 * * *
 
 You slow down, focus, and take a careful shot. Make a ranged Strike with a weapon in the bow weapon group. You gain a +2 circumstance bonus to the attack roll and ignore the target's concealed condition. If the target is hidden, reduce the flat check from being hidden from 11 to 5.
+
+## [[Feats/Unobstructed Shot|Unobstructed Shot]] Feat 10
+
+**Prerequisites** Archer Dedication
+
+* * *
+
+With a quick use of brute force, you remove an obstacle and take a calculated shot as part of the same motion. Attempt to Shove or Trip one adjacent creature, then make a ranged Strike with a bow or crossbow you're wielding. The Strike is made at the same multiple attack penalty as the Shove or Trip attempt, and this activity counts as one attack when calculating your multiple attack penalty.

@@ -13,7 +13,7 @@ license: ORC
 ---
 # Crown of Witchcraft (Greater)
 ## Item 18
-### [[focused]][[invested]][[magical]]
+### [[focused]][[invested]][[3-Rules/Rule References/Magical]]
 
 
 **Price** 21000 gp; 

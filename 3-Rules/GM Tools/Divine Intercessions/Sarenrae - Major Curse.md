@@ -17,7 +17,7 @@ license: OGL
 
 
 
-**Major Curse** Sarenrae restricts your ability to harm others.
+Sarenrae restricts your ability to harm others.
 
 All attacks you make, spells you cast, and other sources of damage you deal are nonlethal except against fiends and undead, and you can't ever make them lethal.
 

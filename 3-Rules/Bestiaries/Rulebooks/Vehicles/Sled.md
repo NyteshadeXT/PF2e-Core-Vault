@@ -1,16 +1,17 @@
 ---
-title: "Sled"
+title: Sled
 obsidianUIMode: preview
-noteType: pf2eMonster
+noteType: pf2eVehicle
 cssClasses: pf2e
-aliases: "Compendium.pf2e.vehicles.Actor.7uVEeLDVMfneyyZ5" 
 tags:
-  - pf2e/creature/level/0
+  - pf2eVehicle
+
   - remaster
-statblock: inline
-name: "Sled"
+source: Pathfinder GM Core
+aliases: "Compendium.pf2e.vehicles.Actor.7uVEeLDVMfneyyZ5" 
 level: 0
 license: ORC
+statblock: inline
 ---
 
 ```statblock
@@ -19,39 +20,54 @@ forcecolumns: true
 layout: Basic Pathfinder 2e Layout
 source: "Pathfinder GM Core"
 name: "Sled"
-level: "Creature 0"
+level: "Vehicle 0"
 
-alignment: ""
+
 size: "Medium"
 modifier: 
 perception:
-  - name: "Perception"
-    desc: "NaN; "
-skills:
-  - name: "Skills"
-    desc: ""
-abilityMods: [, , , , , ]
-speed: 
-sourcebook: "_Pathfinder GM Core_"
+  - name: ""
+  - name: "Price"
+    desc: "3 gp\n* * *"
+abilities_top:
+  - name: ""
+  - name: "Space"
+    desc: "5 feet long, 1 feet wide, 3 feet high"
+  - name: "Crew"
+    desc: "1 pilot; **Passengers** "
+  - name: "Piloting Check"
+    desc: "Driving Lore (DC 14) or Nature (DC 16 to DC 24, depending on pulling creature)"
 ac: 10
 armorclass:
   - name: AC
-    desc: "10; __Fort__ +6, __Ref__ NaN, __Will__ NaN"
+    desc: "10; __Fort__ +6"
 hp: 14
 health:
   - name: ""
-  - name: HP
-    desc: "14; __Immunities__  object immunities"
-abilities_top:
-  - name: ""
-
+  - name: "Hardness"
+    desc: "5; **HP** 14 (BT 7); __Immunities__  object immunities"
+speed: "the Speed of the slowest pulling creature (pulled by 2 Medium creatures or 4 Small creatures)"
 abilities_mid:
   - name: ""
 attacks:
   - name: ""
- 
+  - name: "Collision"
+    desc: "1d12 (DC 14)"
+
+  - name: "Ice Traverser"
+    desc: " Ice and snow are not difficult terrain to a sled, but all other terrains are difficult terrain for it."
+
+  - name: "Sluggish"
+    desc: " This vehicle must move twice its length for each 90-degree turn it makes."
+
+
+
+sourcebook: "_Pathfinder GM Core_"
 ```
 
-
-
+```encounter-table
+name: Sled
+creatures:
+  - 1: Sled
+```
 

@@ -10,6 +10,7 @@ tags:
   - pf2e/creature/type/fiend
   - pf2e/creature/type/lawful
   - pf2e/creature/type/unholy
+  - pf2eMonster
   - pf2e/creature/level/11
 statblock: inline
 name: "Munagola"
@@ -28,16 +29,16 @@ level: "Creature 11"
 
 alignment: ""
 size: "Medium"
-trait_01: "devil"
-trait_02: "evil"
-trait_03: "fiend"
-trait_04: "lawful"
-trait_05: "unholy"
+trait_01: [[devil]]
+trait_02: [[evil]]
+trait_03: [[fiend]]
+trait_04: [[lawful]]
+trait_05: [[unholy]]
 modifier: 24
 perception:
   - name: "Perception"
     desc: "+24; Greater Darkvision"
-languages: "Common, Diabolic, Draconic, Empyrean"
+languages: "Common, Diabolic, Draconic, Empyrean; telepathy 100 feet"
 skills:
   - name: "Skills"
     desc: "Acrobatics: +23, Athletics: +22, Intimidation: +21, Religion: +18, Stealth: +21"
@@ -60,7 +61,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "No Escape"
-    desc: "`pf2:r`  **Trigger** A foe within reach moves away from the munagola.\n**Effects** The munagola Strides or Flies up to their Speed, following the retreating foe and keeping it in reach until the foe stops moving or the munagola has moved their full Speed."
+    desc: "`pf2:r`  **Trigger** A foe within reach moves away from the munagola.\n* * *\n\n**Effects** The munagola Strides or Flies up to their Speed, following the retreating foe and keeping it in reach until the foe stops moving or the munagola has moved their full Speed."
 
 attacks:
   - name: ""
@@ -92,6 +93,12 @@ attacks:
   - name: "Sudden Dive"
     desc: "`pf2:2`  The munagola Flies twice. If they end their flight at a lower elevation than they started and within melee reach of at least one enemy, they can make a melee Strike against that enemy, gaining a +1 circumstance bonus to the Strike."
  
+```
+
+```encounter-table
+name: Munagola
+creatures:
+  - 1: Munagola
 ```
 
 

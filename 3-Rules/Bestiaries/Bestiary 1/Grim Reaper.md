@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/undead
   - pf2e/creature/type/unholy
+  - pf2eMonster
   - pf2e/creature/level/21
 statblock: inline
 name: "Grim Reaper"
@@ -23,12 +24,12 @@ token: [[modules/pf2e-tokens-bestiaries/portraits/undead/skeletal/grim-reaper.we
 source: "Pathfinder Bestiary"
 name: "Grim Reaper"
 level: "Creature 21"
-rare_03: "Rare"
+rare_03: [[Rare]]
 alignment: ""
 size: "Medium"
-trait_01: "evil"
-trait_02: "undead"
-trait_03: "unholy"
+trait_01: [[evil]]
+trait_02: [[undead]]
+trait_03: [[unholy]]
 modifier: 41
 perception:
   - name: "Perception"
@@ -62,13 +63,13 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Aura of Misfortune"
-    desc: " (aura,divine,misfortune) 20 feet. Living creatures in the aura must roll twice on all d20 rolls and use the lower result.\n[[Bestiary Effects/Effect_ Aura of Misfortune|Effect: Aura of Misfortune]]"
+    desc: " (aura,divine,misfortune) 20 feet. Living creatures in the aura must roll twice on all d20 rolls and use the lower result.\n\n[[Bestiary Effects/Effect_ Aura of Misfortune|Effect: Aura of Misfortune]]"
 
   - name: "Lurking Death"
-    desc: "`pf2:r` (teleportation) **Trigger** A creature within 100 feet makes a ranged attack or uses an action that has the concentrate, manipulate, or move trait.\n**Effect** The grim reaper teleports to a square adjacent to the triggering creature and makes a melee Strike against it. If the Strike hits, the grim reaper disrupts the triggering action."
+    desc: "`pf2:r` (teleportation) **Trigger** A creature within 100 feet makes a ranged attack or uses an action that has the concentrate, manipulate, or move trait.\n* * *\n\n**Effect** The grim reaper teleports to a square adjacent to the triggering creature and makes a melee Strike against it. If the Strike hits, the grim reaper disrupts the triggering action."
 
   - name: "[[Bestiary Ability Glossary/Void Healing|Void Healing]]"
-    desc: "  The grim reaper can choose whether or not it takes vitality damage.\n"
+    desc: "  The grim reaper can choose whether or not it takes vitality damage.\n\n* * *\n"
 
 attacks:
   - name: ""
@@ -83,7 +84,7 @@ attacks:
     desc: " (death) A creature critically hit by any of the grim reaper's attacks or that critically fails against any of its spells must succeed at a DC 47 Fortitude check save or die."
 
   - name: "Energy Drain"
-    desc: "  When the grim reaper hits and deals damage with its scythe, it regains 20 Hit Points, and the target must succeed at a DC 43 Fortitude check save or become [[Conditions/Doomed 1|Doomed 1]]. If the target is already doomed, the doomed value increases by 1 (to a maximum of doomed 3)."
+    desc: "  When the grim reaper hits and deals damage with its scythe, it regains 20 healing Hit Points, and the target must succeed at a DC 43 Fortitude check save or become [[Conditions/Doomed|Doomed 1]]. If the target is already doomed, the doomed value increases by 1 (to a maximum of doomed 3)."
 
   - name: "Final Death"
     desc: "  A creature killed by the grim reaper can't be brought back to life by any means short of divine intervention."
@@ -91,6 +92,12 @@ attacks:
   - name: "Infuse Weapon"
     desc: " (divine) Any scythe gains the agile trait, can't be disarmed, and becomes a _+3 Major Striking Keen scythe_ while the grim reaper wields it. If the grim reaper Strikes a creature with a weakness to any specific type of damage, the scythe's damage counts as that type of damage, in addition to slashing."
  
+```
+
+```encounter-table
+name: Grim Reaper
+creatures:
+  - 1: Grim Reaper
 ```
 
 

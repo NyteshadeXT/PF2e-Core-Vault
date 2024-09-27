@@ -7,8 +7,9 @@ tags:
   - trait/skill
   - trait/common
   - category/skill
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.wqhxZwB1TR8fvpHP"
-license: OGL
+license: ORC
 ---
 # Party Crasher
 ## Feat 7
@@ -26,5 +27,5 @@ Any time you encounter a social event you would ordinarily be denied access to, 
 
 This ability doesn't apply to secret events or other small private gatherings with no staff, dates, or outsiders involved.
 
-*Source: Pathfinder Advanced Player's Guide*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

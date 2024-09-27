@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/construct
   - pf2e/creature/type/dream
   - pf2e/creature/type/mindless
+  - pf2eMonster
   - pf2e/creature/level/14
 statblock: inline
 name: "Terrorguard"
@@ -22,16 +23,17 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #184: The Ghouls Hunger"
 name: "Terrorguard"
 level: "Creature 14"
-rare_03: "Rare"
+rare_03: [[Rare]]
 alignment: ""
 size: "Medium"
-trait_01: "construct"
-trait_02: "dream"
-trait_03: "mindless"
+trait_01: [[construct]]
+trait_02: [[dream]]
+trait_03: [[mindless]]
 modifier: 25
 perception:
   - name: "Perception"
     desc: "+25; Darkvision"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Athletics: +28"
@@ -62,10 +64,10 @@ attacks:
     desc: "`pf2:1` Horn +29 ()\n__Damage__  3d10 + 18 bludgeoning"
 
   - name: "Breath of Phantasms"
-    desc: "`pf2:3` (death,emotion,fear,illusion,mental,occult) **Frequency** once per day\n**Effect** The terrorguard's ram-skull head opens at the jaw, allowing a horde of swirling phantasms to escape from its maw in a 30-foot cone. Each creature in the area is subjected to a 5th-rank [[Spells/Phantasmal Killer|Phantasmal Killer]] spell (DC 31 Will check, DC 31 Fortitude check)."
+    desc: "`pf2:3` (death,emotion,fear,illusion,mental,occult) **Frequency** once per day\n* * *\n\n**Effect** The terrorguard's ram-skull head opens at the jaw, allowing a horde of swirling phantasms to escape from its maw in a @Template[cone|distance:30]. Each creature in the area is subjected to a 5th-rank [[Spells/Phantasmal Killer|Phantasmal Killer]] spell (DC 31 Will check, DC 31 Fortitude check)."
 
   - name: "Draw the Line"
-    desc: "`pf2:2` (emotion,fear,illusion,mental,occult) A terrorguard plunges its dreamscythe into the ground and rends a glowing line across the surface that reverberates with the essence of the Dimension of Dreams. Chose up to four unoccupied squares which are adjacent to one another and adjacent to the terrorguard. For 1d4 rounds, any creature besides the terrorguard who enters such a square must succeed at a DC 31 Will check save or become [[Conditions/Stunned 1|Stunned 4]] as they behold grotesque visions from the nightmare realm. A creature that succeeds at this save is temporarily immune to the effect for 24 hours."
+    desc: "`pf2:2` (emotion,fear,illusion,mental,occult) A terrorguard plunges its dreamscythe into the ground and rends a glowing line across the surface that reverberates with the essence of the Dimension of Dreams. Chose up to four unoccupied squares which are adjacent to one another and adjacent to the terrorguard. For 1d4 rounds, any creature besides the terrorguard who enters such a square must succeed at a DC 31 Will check save or become [[Conditions/Stunned|Stunned 4]] as they behold grotesque visions from the nightmare realm. A creature that succeeds at this save is temporarily immune to the effect for 24 hours."
 
   - name: "Nightmare Essence"
     desc: " (emotion,fear,illusion,mental,occult) A creature damaged by a terrorguard's dreamscythe hallucinates that the environment and creatures around them have transformed into a hellscape reminiscent of their most horrifying dreams. A creature hit with a dreamscythe Strike must succeed at a DC 31 Will check save or become [[Conditions/Confused|Confused]] for 1 round. A creature who succeeds at this save is temporarily immune for 24 hours."
@@ -73,6 +75,12 @@ attacks:
   - name: "Skull Charge"
     desc: "`pf2:2`  The terrorguard Strides twice in a straight line and then makes a horn Strike with a +1 circumstance bonus to its attack roll."
  
+```
+
+```encounter-table
+name: Terrorguard
+creatures:
+  - 1: Terrorguard
 ```
 
 

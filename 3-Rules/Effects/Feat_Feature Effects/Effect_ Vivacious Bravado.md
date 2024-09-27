@@ -4,8 +4,9 @@ title: "Effect: Vivacious Bravado"
 cssclasses: pf2e,pf2e-spell
 tags:
   - trait/common
+  - remaster
 aliases: "Compendium.pf2e.feat-effects.Item.T7AJQbfmlA57y625"
-license: OGL
+license: ORC
 ---
 # Effect: Vivacious Bravado
 ## Level 8
@@ -16,7 +17,11 @@ license: OGL
 
 
 
-Granted when you use [[Feats/Vivacious Bravado|Vivacious Bravado]].
+Granted by [[Feats/Vivacious Bravado|Vivacious Bravado]].
 
-*Source: Pathfinder Advanced Player's Guide*
-*OGL*
+* * *
+
+You gain temporary Hit Points equal to your level plus your Charisma modifier.
+
+*Source: Pathfinder Player Core 2*
+*ORC*

@@ -4,6 +4,7 @@ obsidianUIMode: preview
 noteType: pf2eHazard
 tags:
   - haunt
+  - pf2eHazard
 
 source: Pathfinder #197: Let the Leaves Fall
 aliases: "Compendium.pf2e.season-of-ghosts-bestiary.Actor.iNxnErfZYW56oeeT" 
@@ -21,7 +22,7 @@ name: "Unholy Hunger"
 level: "Hazard 6"
 
 
-trait_01: "haunt"
+trait_01: [[haunt]]
 modifier: 15
 sourcebook: "_Pathfinder #197: Let the Leaves Fall_"
 perception:
@@ -40,10 +41,16 @@ attacks:
   - name: ""
 
   - name: "Worse Than It Smells"
-    desc: "`pf2:r` (occult) **Trigger** A non-nindoru creature takes the lid off the cooking pot\n**Effect** All creatures within 15 feet of the pot must succeed at a DC 27 Fortitude check save or become [[Conditions/Sickened 1|Sickened 2]]. The triggering creature instead must attempt a DC 24 Will check save to resist the compulsion to dip their face into the stew and swallow a mouthful of the stuff (this effect has the enchantment and mental traits). On a failure, the triggering creature takes 5d6 poison damage (DC 24 Fortitude check save)."
+    desc: "`pf2:r` (occult) **Trigger** A non-nindoru creature takes the lid off the cooking pot\n* * *\n\n**Effect** All creatures within 15 feet of the pot must succeed at a DC 27 Fortitude check save or become [[Conditions/Sickened|Sickened 2]]. The triggering creature instead must attempt a DC 24 Will check save to resist the compulsion to dip their face into the stew and swallow a mouthful of the stuff (this effect has the enchantment and mental traits). On a failure, the triggering creature takes 5d6 poison damage (DC 24 Fortitude check save)."
 
 
   - name: "Reset"
     desc: "The haunt resets 1 round after the lid is replaced on the cooking pot."
+```
+
+```encounter-table
+name: Unholy Hunger
+creatures:
+  - 1: Unholy Hunger
 ```
 

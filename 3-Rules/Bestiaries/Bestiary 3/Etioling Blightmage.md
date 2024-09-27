@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/gnome
   - pf2e/creature/type/humanoid
   - pf2e/creature/type/mortic
+  - pf2eMonster
   - pf2e/creature/level/10
 statblock: inline
 name: "Etioling Blightmage"
@@ -24,13 +25,13 @@ token: [[modules/pf2e-tokens-bestiaries/portraits/humanoid/etioling-blightmage.w
 source: "Pathfinder Bestiary 3"
 name: "Etioling Blightmage"
 level: "Creature 10"
-rare_03: "Rare"
+rare_03: [[Rare]]
 alignment: ""
 size: "Small"
-trait_01: "chaotic"
-trait_02: "gnome"
-trait_03: "humanoid"
-trait_04: "mortic"
+trait_01: [[chaotic]]
+trait_02: [[gnome]]
+trait_03: [[humanoid]]
+trait_04: [[mortic]]
 modifier: 19
 perception:
   - name: "Perception"
@@ -57,16 +58,16 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Consecration Vulnerability"
-    desc: "  An etioling in a place of worship dedicated to a non-evil deity or on sacred ground, such as an area blessed by [[Spells/Sanctified Ground|Sanctified Ground]], is [[Conditions/Slowed 1|Slowed 1]]."
+    desc: "  An etioling in a place of worship dedicated to a non-evil deity or on sacred ground, such as an area blessed by [[Spells/Anointed Ground|Anointed Ground]], is [[Conditions/Slowed|Slowed 1]]."
 
   - name: "Ectoplasmic Secretions"
-    desc: " (occult) Any creature that hits the etioling with an unarmed attack, tries to [[Conditions/Grabbed|Grapple]] them, or otherwise touches them becomes partially coated in ectoplasm.\nThe creature takes 1d6 void damage and must succeed at a DC 27 Reflex check save or become [[Conditions/Enfeebled 1|Enfeebled 2]] until the ectoplasm is removed.\nThe ectoplasm can be removed with a total of 3 Interact actions by the creature or creatures adjacent to the creature. These actions don't need to be consecutive or made by the same creature."
+    desc: " (occult) Any creature that hits the etioling with an unarmed attack, tries to [[Conditions/Grabbed|Grapple]] them, or otherwise touches them becomes partially coated in ectoplasm.\n\nThe creature takes 1d6 void damage and must succeed at a DC 27 Reflex check save or become [[Conditions/Enfeebled|Enfeebled 2]] until the ectoplasm is removed.\n\nThe ectoplasm can be removed with a total of 3 Interact actions by the creature or creatures adjacent to the creature. These actions don't need to be consecutive or made by the same creature."
 
   - name: "Ectoplasmic Shield"
-    desc: "`pf2:r` (occult) **Trigger** The etioling is the target of a physical ranged attack\n**Effect** The etioling interposes a wave of ectoplasm between themself and the source of the ranged attack, giving them a +2 circumstance bonus to AC against the triggering attack. If the attack misses, the ectoplasm deflected it. The ectoplasm can't deflect unusually large or heavy ranged projectiles (such as boulders or ballista bolts)."
+    desc: "`pf2:r` (occult) **Trigger** The etioling is the target of a physical ranged attack\n* * *\n\n**Effect** The etioling interposes a wave of ectoplasm between themself and the source of the ranged attack, giving them a +2 circumstance bonus to AC against the triggering attack. If the attack misses, the ectoplasm deflected it. The ectoplasm can't deflect unusually large or heavy ranged projectiles (such as boulders or ballista bolts)."
 
   - name: "Withering Aura"
-    desc: " (aura,occult) 20 feet. The etioling drains nutrients from nearby plant and animal life. Each round a creature begins its turn in this aura, it takes 1d6 void damage and must succeed at a DC 27 Fortitude check save or become [[Conditions/Drained 1|Drained 1]].\nAll non-magical plant life in this aura instantly withers, removing any cover and concealment provided by trees and undergrowth."
+    desc: " (aura,occult) 20 feet. The etioling drains nutrients from nearby plant and animal life. Each round a creature begins its turn in this aura, it takes 1d6 void damage and must succeed at a DC 27 Fortitude check save or become [[Conditions/Drained|Drained 1]].\n\nAll non-magical plant life in this aura instantly withers, removing any cover and concealment provided by trees and undergrowth."
 
 attacks:
   - name: ""
@@ -78,8 +79,14 @@ attacks:
     desc: "DC 29, attack +21; __5th __ (4 slots) _[[Spells/Toxic Cloud|Cloudkill]]_, _[[Spells/Wave of Despair|Crushing Despair]]_, _[[Spells/Lightning Bolt|Lightning Bolt]]_, _[[Spells/Synesthesia|Synesthesia]]_; __4th __ (4 slots) _[[Spells/Dispel Magic|Dispel Magic]]_, _[[Spells/Unfettered Movement|Freedom of Movement]]_, _[[Spells/Grim Tendrils|Grim Tendrils]]_, _[[Spells/Phantasmal Killer|Phantasmal Killer]]_; __3rd __ (4 slots) _[[Spells/Earthbind|Earthbind]]_, _[[Spells/False Vitality|False Life]]_, _[[Spells/Haste|Haste]]_, _[[Spells/Wall of Thorns|Wall of Thorns]]_; __2nd __ (4 slots) _[[Spells/Blur|Blur]]_, _[[Spells/Dispel Magic|Dispel Magic]]_, _[[Spells/Revealing Light|Glitterdust]]_, _[[Spells/Mist|Obscuring Mist]]_; __1st __ (4 slots) _[[Spells/Bane|Bane]]_, _[[Spells/Grease|Grease]]_, _[[Spells/Enfeeble|Ray of Enfeeblement]]_, _[[Spells/Ventriloquism|Ventriloquism]]_\n__Cantrips__  __(5th)__ _[[Spells/Acid Splash|Acid Splash]]_, _[[Compendium.pf2e.spells-srd.Item.kl2q6JvBZwed4B6v|Dancing Lights]]_, _[[Spells/Electric Arc|Electric Arc]]_, _[[Spells/Ghost Sound|Ghost Sound]]_, _[[Spells/Prestidigitation|Prestidigitation]]_"
 
   - name: "Death Gasp"
-    desc: "`pf2:1` (divine) The etioling draws in a deep breath and holds it, temporarily suspending their biological processes and becoming undead.\nThe etioling gains the undead and incorporeal traits and becomes immune to bleed, death effects, disease, [[Conditions/Paralyzed|Paralyzed]], poison, and sleep. Any such effects the etioling is currently suffering from are suspended, but take effect again once they take a breath. They gain a fly Speed of 25 feet, resistance 10 to all damage (except force, ghost touch, or vitality; double this resistance vs. non-magical) while they hold their breath.They can't cast spells during this time.\nDeath Gasp lasts as long as the etioling blightmage holds their breath (up to 8 rounds).\n[[Bestiary Effects/Effect_ Death Gasp (Etioling)|Effect: Death Gasp (Etioling)]]"
+    desc: "`pf2:1` (divine) The etioling draws in a deep breath and holds it, temporarily suspending their biological processes and becoming undead.\n\nThe etioling gains the undead and incorporeal traits and becomes immune to bleed, death effects, disease, [[Conditions/Paralyzed|Paralyzed]], poison, and sleep. Any such effects the etioling is currently suffering from are suspended, but take effect again once they take a breath. They gain a fly Speed of 25 feet, resistance 10 to all damage (except force, ghost touch, or vitality; double this resistance vs. non-magical) while they hold their breath.They can't cast spells during this time.\n\nDeath Gasp lasts as long as the etioling blightmage holds their breath (up to 8 rounds).\n\n[[Bestiary Effects/Effect_ Death Gasp (Etioling)|Effect: Death Gasp (Etioling)]]"
  
+```
+
+```encounter-table
+name: Etioling Blightmage
+creatures:
+  - 1: Etioling Blightmage
 ```
 
 

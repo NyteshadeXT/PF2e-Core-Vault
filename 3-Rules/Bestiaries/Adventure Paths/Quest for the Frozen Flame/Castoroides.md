@@ -6,6 +6,7 @@ cssClasses: pf2e
 aliases: "Compendium.pf2e.quest-for-the-frozen-flame-bestiary.Actor.9LKXjZrmeSjeGseL" 
 tags:
   - pf2e/creature/type/animal
+  - pf2eMonster
   - pf2e/creature/level/3
 statblock: inline
 name: "Castoroides"
@@ -23,11 +24,12 @@ level: "Creature 3"
 
 alignment: ""
 size: "Medium"
-trait_01: "animal"
+trait_01: [[animal]]
 modifier: 10
 perception:
   - name: "Perception"
     desc: "+10; Low-Light Vision, Scent (Imprecise) 30 Feet"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Athletics: +10, Crafting: +7, Survival: +8"
@@ -52,7 +54,7 @@ abilities_mid:
     desc: "  A castoroides can hold its breath for 1 hour."
 
   - name: "Slap"
-    desc: "`pf2:r`  **Trigger** The castoroides is targeted by a physical ranged Strike from an attacker it can see\n**Effect** The castoroides swats at the projectile with its wide tail, gaining a +2 circumstance bonus to its AC against the triggering attack."
+    desc: "`pf2:r`  **Trigger** The castoroides is targeted by a physical ranged Strike from an attacker it can see\n* * *\n\n**Effect** The castoroides swats at the projectile with its wide tail, gaining a +2 circumstance bonus to its AC against the triggering attack."
 
 attacks:
   - name: ""
@@ -75,6 +77,12 @@ attacks:
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
     desc: "`pf2:1`  "
  
+```
+
+```encounter-table
+name: Castoroides
+creatures:
+  - 1: Castoroides
 ```
 
 

@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.pathfinder-bestiary-2.Actor.p5ZGpvIfEiBgMG2f"
 tags:
   - pf2e/creature/type/ethereal
   - pf2e/creature/type/petitioner
+  - pf2eMonster
   - pf2e/creature/level/1
 statblock: inline
 name: "Petitioner (Ethereal Plane)"
@@ -25,12 +26,13 @@ level: "Creature 1"
 
 alignment: ""
 size: "Medium"
-trait_01: "ethereal"
-trait_02: "petitioner"
+trait_01: [[ethereal]]
+trait_02: [[petitioner]]
 modifier: 7
 perception:
   - name: "Perception"
     desc: "+7; Darkvision"
+languages: "any one spoken in life (such as common)"
 skills:
   - name: "Skills"
     desc: "Athletics: +7, Planar Lore: +7"
@@ -58,8 +60,14 @@ attacks:
     desc: "`pf2:1` Fist +7 ()\n__Damage__  1d8 + 2 bludgeoning"
 
   - name: "Planar Incarnation - Ethereal Plane"
-    desc: "  All petitioners are formed from and personify the nature of the plane on which they manifest, and their statistics are adjusted as summarized below. They also gain any trait associated with creatures from their plane.\n**Ethereal Plane** The terrorized appear as sickly, haunted-looking versions of their mortal selves\n*   **Alignment** any;\n*   **Language** any one spoken in life (such as Common);\n*   **Additional Ability** immune to bleed and death effects;\n*   **Melee** fist +7, **Damage** 1d8+2 bludgeoning"
+    desc: "  All petitioners are formed from and personify the nature of the plane on which they manifest, and their statistics are adjusted as summarized below. They also gain any trait associated with creatures from their plane.\n\n**Ethereal Plane** The terrorized appear as sickly, haunted-looking versions of their mortal selves\n\n*   **Alignment** any;\n*   **Language** any one spoken in life (such as Common);\n*   **Additional Ability** immune to bleed and death effects;\n*   **Melee** fist +7, **Damage** 1d8+2 bludgeoning"
  
+```
+
+```encounter-table
+name: Petitioner (Ethereal Plane)
+creatures:
+  - 1: Petitioner (Ethereal Plane)
 ```
 
 

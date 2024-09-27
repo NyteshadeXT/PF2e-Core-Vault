@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/amphibious
   - pf2e/creature/type/elemental
   - pf2e/creature/type/water
+  - pf2eMonster
   - pf2e/creature/level/4
 statblock: inline
 name: "Weak Mist Stalker"
@@ -25,9 +26,9 @@ level: "Creature 4"
 
 alignment: ""
 size: "Medium"
-trait_01: "amphibious"
-trait_02: "elemental"
-trait_03: "water"
+trait_01: [[amphibious]]
+trait_02: [[elemental]]
+trait_03: [[water]]
 modifier: 13
 perception:
   - name: "Perception"
@@ -66,14 +67,20 @@ attacks:
     desc: "`pf2:1` Tentacle +12 (finesse, reach 10 feet, sweep)\n__Damage__  2d8 + 2 bludgeoning plus grab"
 
   - name: "[[Bestiary Ability Glossary/Constrict|Constrict]]"
-    desc: "`pf2:1`  1d8 + 2 bludgeoning damage, DC 19 Fortitude check\n"
+    desc: "`pf2:1`  1d8+2 bludgeoning damage, DC 19 Fortitude check\n\n* * *\n"
 
   - name: "Solidify Mist"
-    desc: "`pf2:1` (primal,water) The mist stalker makes its mist cloud congeal, causing the aura to be difficult terrain until the start of the mist stalker's next turn.\nIn addition, the mist stalker can make the mist even thicker around a single Medium or smaller creature within the cloud. The creature must succeed at a DC 18 Reflex check save or become [[Conditions/Immobilized|Immobilized]] until it [[Actions/Escape|Escapes]] or it is no longer in the mist cloud's emanation."
+    desc: "`pf2:1` (primal,water) The mist stalker makes its mist cloud congeal, causing the aura to be difficult terrain until the start of the mist stalker's next turn.\n\nIn addition, the mist stalker can make the mist even thicker around a single Medium or smaller creature within the cloud. The creature must succeed at a DC 18 Reflex check save or become [[Conditions/Immobilized|Immobilized]] until it [[Actions/Escape|Escapes]] or it is no longer in the mist cloud's emanation."
 
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
     desc: "`pf2:1`  "
  
+```
+
+```encounter-table
+name: Weak Mist Stalker
+creatures:
+  - 1: Weak Mist Stalker
 ```
 
 

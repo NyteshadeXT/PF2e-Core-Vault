@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/good
   - pf2e/creature/type/siktempora
   - pf2e/creature/type/time
+  - pf2eMonster
   - pf2e/creature/level/16
 statblock: inline
 name: "Love Siktempora"
@@ -23,20 +24,20 @@ token: [[modules/pf2e-tokens-bestiaries/portraits/planar/time/love-siktempora.we
 source: "Pathfinder Bestiary 3"
 name: "Love Siktempora"
 level: "Creature 16"
-rare_03: "Rare"
+rare_03: [[Rare]]
 alignment: ""
 size: "Medium"
-trait_01: "good"
-trait_02: "siktempora"
-trait_03: "time"
+trait_01: [[good]]
+trait_02: [[siktempora]]
+trait_03: [[time]]
 modifier: 28
 perception:
   - name: "Perception"
     desc: "+28; Darkvision"
-languages: "Aklo"
+languages: "Aklo; (can&#x27;t speak any language), telepathy 500 feet"
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +31, Dimension of Time Lore: +28, Diplomacy: +33, Intimidation: +31, Occultism: +26, Performance: +33"
+    desc: "Acrobatics: +31, Diplomacy: +33, Intimidation: +31, Occultism: +26, Performance: +33, Dimension of Time Lore: +28"
 abilityMods: [4, 9, 5, 4, 6, 9]
 speed: 50 feet
 sourcebook: "_Pathfinder Bestiary 3_"
@@ -61,10 +62,10 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Deflect Aggression"
-    desc: "`pf2:r` (emotion,mental,occult) **Trigger** The love siktempora is targeted by an attack\n**Effect** The siktempora glows with compassion, deflecting the attacker's aggression. The siktempora gains a +2 circumstance bonus to their AC and resistance 15 against the triggering attack, and the attacker must attempt a saving throw against the siktempora's heartsong (see below)."
+    desc: "`pf2:r` (emotion,mental,occult) **Trigger** The love siktempora is targeted by an attack\n* * *\n\n**Effect** The siktempora glows with compassion, deflecting the attacker's aggression. The siktempora gains a +2 circumstance bonus to their AC and resistance 15 against the triggering attack, and the attacker must attempt a saving throw against the siktempora's heartsong (see below)."
 
   - name: "Uncanny Pounce"
-    desc: "`pf2:0`  **Trigger** The love siktempora rolls Dimension of Time Lore for initiative\n**Effect** The love siktempora Strides once and makes a claw Strike, in either order."
+    desc: "`pf2:0`  **Trigger** The love siktempora rolls Dimension of Time Lore for initiative\n* * *\n\n**Effect** The love siktempora Strides once and makes a claw Strike, in either order."
 
 attacks:
   - name: ""
@@ -85,8 +86,14 @@ attacks:
     desc: "  The love siktempora's emotional bolt Strike doesn't trigger reactions that normally trigger based off making a ranged attack."
 
   - name: "Telepathic Ballad"
-    desc: "`pf2:1` (emotion,mental,occult) The love siktempora casts [[Spells/Courageous Anthem|Courageous Anthem]] or [[Spells/Rallying Anthem|Rallying Anthem]]. It increases the area to a 200-foot emanation and increases the status bonuses the cantrip provides to +2.\n[[Bestiary Effects/Effect_ Inspire Courage (Love Siktempora)|Effect: Inspire Courage (Love Siktempora)]]\n[[Bestiary Effects/Effect_ Inspire Defense (Love Siktempora)|Effect: Inspire Defense (Love Siktempora)]]"
+    desc: "`pf2:1` (emotion,mental,occult) The love siktempora casts [[Spells/Courageous Anthem|Courageous Anthem]] or [[Spells/Rallying Anthem|Rallying Anthem]]. It increases the area to a @Template[emanation|distance:200] and increases the status bonuses the cantrip provides to +2.\n\n[[Bestiary Effects/Effect_ Inspire Courage (Love Siktempora)|Effect: Inspire Courage (Love Siktempora)]]\n\n[[Bestiary Effects/Effect_ Inspire Defense (Love Siktempora)|Effect: Inspire Defense (Love Siktempora)]]"
  
+```
+
+```encounter-table
+name: Love Siktempora
+creatures:
+  - 1: Love Siktempora
 ```
 
 

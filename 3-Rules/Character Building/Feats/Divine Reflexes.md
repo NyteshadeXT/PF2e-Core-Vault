@@ -6,8 +6,9 @@ tags:
   - trait/champion
   - trait/common
   - category/class
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.EvSfoYmuCDCRAvaF"
-license: OGL
+license: ORC
 ---
 # Divine Reflexes
 ## Feat 14
@@ -20,5 +21,5 @@ license: OGL
 
 At the start of each of your turns, you gain an additional reaction that you can use only for your champion's reaction.
 
-*Source: Pathfinder Core Rulebook*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

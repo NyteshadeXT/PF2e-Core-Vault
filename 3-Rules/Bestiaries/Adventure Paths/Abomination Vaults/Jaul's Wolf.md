@@ -6,6 +6,7 @@ cssClasses: pf2e
 aliases: "Compendium.pf2e.abomination-vaults-bestiary.Actor.xj1Qn0VA4H4aKSjW" 
 tags:
   - pf2e/creature/type/animal
+  - pf2eMonster
   - pf2e/creature/level/4
 statblock: inline
 name: "Jaul&#x27;s Wolf"
@@ -20,14 +21,15 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #163: Ruins of Gauntlight"
 name: "Jaul's Wolf"
 level: "Creature 4"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Medium"
-trait_01: "animal"
+trait_01: [[animal]]
 modifier: 11
 perception:
   - name: "Perception"
     desc: "+11; Low-Light Vision, Scent (Imprecise) 30 Feet"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Acrobatics: +9, Athletics: +11, Stealth: +11, Survival: +9"
@@ -60,6 +62,12 @@ attacks:
   - name: "[[Bestiary Ability Glossary/Knockdown|Knockdown]]"
     desc: "`pf2:1`  "
  
+```
+
+```encounter-table
+name: Jaul's Wolf
+creatures:
+  - 1: Jaul's Wolf
 ```
 
 

@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.pathfinder-bestiary-3.Actor.tjtTHdIBP5QIAyS7"
 tags:
   - pf2e/creature/type/humanoid
   - pf2e/creature/type/vishkanya
+  - pf2eMonster
   - pf2e/creature/level/3
 statblock: inline
 name: "Vishkanya Infiltrator"
@@ -22,11 +23,11 @@ token: [[modules/pf2e-tokens-bestiaries/portraits/humanoid/vishkanya-infiltrator
 source: "Pathfinder Bestiary 3"
 name: "Vishkanya Infiltrator"
 level: "Creature 3"
-rare_03: "Rare"
+rare_03: [[Rare]]
 alignment: ""
 size: "Medium"
-trait_01: "humanoid"
-trait_02: "vishkanya"
+trait_01: [[humanoid]]
+trait_02: [[vishkanya]]
 modifier: 10
 perception:
   - name: "Perception"
@@ -63,7 +64,7 @@ attacks:
     desc: "`pf2:1` Shuriken +11 (agile, thrown 20 ft.)\n__Damage__  1d4 + 4 piercing"
 
   - name: "Envenom"
-    desc: "`pf2:1`  **Frequency** once per day\n**Effect** Using either saliva or blood, the vishkanya applies vishkanyan venom to one weapon they're holding. To use their blood, they must be injured, or they can deal themselves 1 slashing damage as part of the action."
+    desc: "`pf2:1`  **Frequency** once per day\n* * *\n\n**Effect** Using either saliva or blood, the vishkanya applies vishkanyan venom to one weapon they're holding. To use their blood, they must be injured, or they can deal themselves 1 slashing damage as part of the action."
 
   - name: "Flexible"
     desc: "  The vishkanya infiltrator is adept at dealing with tight situations. They have a +1 circumstance bonus to checks to [[Actions/Escape|Escape]]."
@@ -75,8 +76,14 @@ attacks:
     desc: "  The vishkanya deals 1d6 extra precision damage to [[Conditions/Off-Guard|Off-Guard]] creatures."
 
   - name: "Vishkanyan Venom"
-    desc: " (injury,poison) **Saving Throw** DC 20 Fortitude check\n**Maximum Duration** 6 rounds\n**Stage 1** 1d4 poison damage (1 round)\n**Stage 2** 1d4 poison damage and [[Conditions/Off-Guard|Off-Guard]] (1 round)\n**Stage 3** 1d4 poison damage, off-guard, and a -5-foot penalty to Speed (1 round)"
+    desc: " (injury,poison) **Saving Throw** DC 20 Fortitude check\n* * *\n\n**Maximum Duration** 6 rounds\n\n**Stage 1** 1d4 poison damage (1 round)\n\n**Stage 2** 1d4 poison damage and [[Conditions/Off-Guard|Off-Guard]] (1 round)\n\n**Stage 3** 1d4 poison damage, off-guard, and a -5-foot penalty to Speed (1 round)"
  
+```
+
+```encounter-table
+name: Vishkanya Infiltrator
+creatures:
+  - 1: Vishkanya Infiltrator
 ```
 
 

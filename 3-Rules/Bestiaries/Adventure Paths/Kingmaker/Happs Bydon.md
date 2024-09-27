@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/human
   - pf2e/creature/type/humanoid
   - pf2e/creature/type/lawful
+  - pf2eMonster
   - pf2e/creature/level/0
 statblock: inline
 name: "Happs Bydon"
@@ -23,13 +24,13 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Kingmaker"
 name: "Happs Bydon"
 level: "Creature 0"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Medium"
-trait_01: "evil"
-trait_02: "human"
-trait_03: "humanoid"
-trait_04: "lawful"
+trait_01: [[evil]]
+trait_02: [[human]]
+trait_03: [[humanoid]]
+trait_04: [[lawful]]
 modifier: 4
 perception:
   - name: "Perception"
@@ -71,6 +72,12 @@ attacks:
   - name: "Focused Target"
     desc: "`pf2:1` (concentrate) Happs designates a single creature he can see as his target; when he does so, he issues a litany of mockery at the target. Happs gains a +2 circumstance bonus to Survival checks to [[Actions/Track|Track]] the target, and the first time he hits the target in a round, he deals an additional 1d8 precision damage to the target. These effects last until Happs uses Focused Target again."
  
+```
+
+```encounter-table
+name: Happs Bydon
+creatures:
+  - 1: Happs Bydon
 ```
 
 

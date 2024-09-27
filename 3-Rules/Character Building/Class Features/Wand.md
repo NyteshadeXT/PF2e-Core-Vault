@@ -38,7 +38,7 @@ Your empowered wand surges with ever-more-powerful magic. When you Fling Magic t
 
 ### **Paragon Benefit**
 
-Your mastery of your wand grants you increased versatility, range, and area. The range of Fling Magic increases to 180 feet. You gain the ability to choose between all three damage types (cold, electricity, and fire) each time you use Fling Magic. When you Fling Magic, you can choose to target a single creature or to affect all creatures in a 20-foot burst.
+Your mastery of your wand grants you increased versatility, range, and area. The range of Fling Magic increases to 180 feet. You gain the ability to choose between all three damage types (cold, electricity, and fire) each time you use Fling Magic. When you Fling Magic, you can choose to target a single creature or to affect all creatures in a @Template\[burst|distance:20\].
 
 *Source: Pathfinder Dark Archive*
 *OGL*

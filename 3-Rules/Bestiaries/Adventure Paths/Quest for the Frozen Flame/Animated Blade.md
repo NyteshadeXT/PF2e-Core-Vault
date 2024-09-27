@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.quest-for-the-frozen-flame-bestiary.Actor.fnpv7Dg7QJWS
 tags:
   - pf2e/creature/type/construct
   - pf2e/creature/type/mindless
+  - pf2eMonster
   - pf2e/creature/level/-1
 statblock: inline
 name: "Animated Blade"
@@ -21,15 +22,16 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #175: Broken Tusk Moon"
 name: "Animated Blade"
 level: "Creature -1"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "tiny"
-trait_01: "construct"
-trait_02: "mindless"
+trait_01: [[construct]]
+trait_02: [[mindless]]
 modifier: 3
 perception:
   - name: "Perception"
     desc: "+3; Darkvision"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Athletics: +6"
@@ -60,8 +62,14 @@ attacks:
     desc: "`pf2:1` Rusty Blade +6 (sweep)\n__Damage__  1d4 + 1 slashing plus tetanus"
 
   - name: "Tetanus"
-    desc: " (disease) **Saving Throw** DC 15 Fortitude check\n**Onset** 1 week\n**Stage 1** [[Conditions/Clumsy 1|Clumsy 1]] (1 week)\n**Stage 2** [[Conditions/Clumsy 1|Clumsy 2]] and can't speak (1 day)\n**Stage 3** [[Conditions/Paralyzed|Paralyzed]] (1 day)\n**Stage 4** death"
+    desc: " (disease) **Saving Throw** DC 15 Fortitude check\n\n**Onset** 1 week\n\n**Stage 1** [[Conditions/Clumsy|Clumsy 1]] (1 week)\n\n**Stage 2** [[Conditions/Clumsy|Clumsy 2]] and can't speak (1 day)\n\n**Stage 3** [[Conditions/Paralyzed|Paralyzed]] (1 day)\n\n**Stage 4** death"
  
+```
+
+```encounter-table
+name: Animated Blade
+creatures:
+  - 1: Animated Blade
 ```
 
 

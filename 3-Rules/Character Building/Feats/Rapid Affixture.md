@@ -7,8 +7,9 @@ tags:
   - trait/skill
   - trait/common
   - category/skill
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.x9xA8P2Vlz98He7C"
-license: OGL
+license: ORC
 ---
 # Rapid Affixture
 ## Feat 7
@@ -22,5 +23,5 @@ license: OGL
 * * *
 You take only 1 minute to [[Actions/Affix a Talisman|Affix a Talisman]]. If you're legendary in Crafting, you can Affix a Talisman as a 3-action activity.
 
-*Source: Pathfinder Advanced Player's Guide*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

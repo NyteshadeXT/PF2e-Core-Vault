@@ -12,14 +12,14 @@ license: ORC
 ---
 # Frost (Greater)
 ## Item 15
-### [[3-Rules/Rule References/Cold]][[magical]]
+### [[3-Rules/Rule References/Cold]][[3-Rules/Rule References/Magical]]
 
 
 **Price** 6500 gp; 
 **Bulk** 0; **Size** med
 **Usage** etched-onto-a-weapon
 
-This weapon is empowered with freezing ice. It deals an additional 1d6 cold damage on a successful Strike. On a critical hit, the target is also [[Conditions/Slowed 1|Slowed 1]] until the end of your next turn unless it succeeds at a DC 34 Fortitude check save.
+This weapon is empowered with freezing ice. It deals an additional 1d6 cold damage on a successful Strike. On a critical hit, the target is also [[Conditions/Slowed|Slowed 1]] until the end of your next turn unless it succeeds at a DC 34 Fortitude check save.
 
 Cold damage dealt by this weapon ignores the target's cold resistance.
 

@@ -35,7 +35,7 @@ A mindrender baton's power is provided via a battery, but King Irovetti has used
 
 **Frequency** once per day
 
-**Effect** You point the mindrender baton at a target creature within 60 feet and cause the target to suffer cripplingly painful headaches. The target takes 11d6 mental damage (DC 31 Will check), and is [[Conditions/Stunned 1|Stunned 2]] on a critical failure.
+**Effect** You point the mindrender baton at a target creature within 60 feet and cause the target to suffer cripplingly painful headaches. The target takes 11d6 mental damage (DC 31 Will check), and is [[Conditions/Stunned|Stunned 2]] on a critical failure.
 
 * * *
 
@@ -51,7 +51,7 @@ A mindrender baton's power is provided via a battery, but King Irovetti has used
 
 **Critical Success** The target is unaffected.
 
-**Success** The target is [[Conditions/Stunned 1|Stunned 1]] as it fights off the intrusion into its mind.
+**Success** The target is [[Conditions/Stunned|Stunned 1]] as it fights off the intrusion into its mind.
 
 **Failure** You take command of the target and it becomes controlled, following your orders; if you issue an obviously self-destructive order, the target doesn't act until you issue a new order. The creature can attempt a new DC 31 Will check save at the end of each of its turns; on a success, the effect ends. Another character can attempt a DC 32 Diplomacy check (master) or DC 31 Intimidation check (master) check against the effect's DC of 31 to remove this effect before then, but if this attempt fails, the commanded creature becomes temporarily immune to that character's attempts to remove the effect via skills for 24 hours.
 

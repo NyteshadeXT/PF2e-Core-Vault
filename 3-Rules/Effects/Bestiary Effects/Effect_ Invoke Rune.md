@@ -17,7 +17,7 @@ license: ORC
 
 
 
-A glowing copy of the invoked rune appears on a single weapon the giant holds, granting the weapon one effect of the giant’s choice.
+A glowing copy of the invoked rune appears on a single weapon the giant holds, granting the weapon one effect of the giant's choice.
 
 *Source: Pathfinder Monster Core*
 *ORC*

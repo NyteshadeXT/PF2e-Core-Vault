@@ -3,6 +3,7 @@ obsidianUIMode: preview
 title: "Jack's Tattered Cape"
 cssclasses: pf2e,pf2e-spell
 tags:
+  - trait/illusion
   - trait/invested
   - trait/magical
   - trait/rare
@@ -11,7 +12,7 @@ license: OGL
 ---
 # Jack's Tattered Cape
 ## Item 2
-### [rare](rare "Rare Rarity Trait")[[invested]][[magical]]
+### [rare](rare "Rare Rarity Trait")[[illusion]][[invested]][[magical]]
 
 
 **Price** 30 gp; 

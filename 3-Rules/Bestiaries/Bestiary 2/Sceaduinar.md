@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/unholy
   - pf2e/creature/type/void
+  - pf2eMonster
   - pf2e/creature/level/7
 statblock: inline
 name: "Sceaduinar"
@@ -24,13 +25,13 @@ token: [[modules/pf2e-tokens-bestiaries/portraits/planar/energy/sceaduinar.webp|
 source: "Pathfinder Bestiary 2"
 name: "Sceaduinar"
 level: "Creature 7"
-rare_03: "Rare"
+rare_03: [[Rare]]
 alignment: ""
 size: "Medium"
-trait_01: "aberration"
-trait_02: "evil"
-trait_03: "unholy"
-trait_04: "void"
+trait_01: [[aberration]]
+trait_02: [[evil]]
+trait_03: [[unholy]]
+trait_04: [[void]]
 modifier: 15
 perception:
   - name: "Perception"
@@ -50,17 +51,17 @@ hp: 100
 health:
   - name: ""
   - name: HP
-    desc: "100; __Immunities__  death effects,  drained; __Weaknesses__ holy 10; __Resistances__ physical 5 (except adamantine)"
+    desc: "100, void healing; __Immunities__  death effects,  drained; __Weaknesses__ holy 10; __Resistances__ physical 5 (except adamantine)"
 abilities_top:
   - name: ""
 
 abilities_mid:
   - name: ""
   - name: "Void Child"
-    desc: " (scrying) Sceaduinars have neither souls nor the ability to create. A sceaduinar is immune to effects that target a soul (such as bind soul or resurrect) or that require knowledge of a creature's identity (such as scrying), and critically fails Crafting checks."
+    desc: "  Sceaduinars have neither souls nor the ability to create. A sceaduinar is immune to effects that target a soul (such as bind soul or resurrect) or that require knowledge of a creature's identity (such as scrying), and critically fails Crafting checks."
 
   - name: "Wing Flash"
-    desc: "`pf2:r`  **Trigger** A creature attempts a melee attack against a sceaduinar or an Acrobatics check to [[Actions/Tumble Through|Tumble Through]] the sceaduinar's space\n**Effect** The sceaduinar flexes its wings to emit a brief pulse of void energy that deals 4d6 void damage to the triggering creature (DC 22 Reflex check save)."
+    desc: "`pf2:r`  **Trigger** A creature attempts a melee attack against a sceaduinar or an Acrobatics check to [[Actions/Tumble Through|Tumble Through]] the sceaduinar's space\n* * *\n\n**Effect** The sceaduinar flexes its wings to emit a brief pulse of void energy that deals 4d6 void damage to the triggering creature (DC 22 Reflex check save)."
 
 attacks:
   - name: ""
@@ -72,14 +73,20 @@ attacks:
     desc: "`pf2:1` Wing +18 (agile, finesse, magical, reach 10 feet)\n__Damage__  2d6 + 4 slashing 2d6 void"
 
   - name: "Occult Innate Spells"
-    desc: "DC 25, attack +15; __4th __  _[[Spells/Darkness|Darkness]]_, _[[Spells/Translocate|Dimension Door]]_, _[[Spells/Dispel Magic|Dispel Magic]]_, _[[Spells/Harm|Harm (x4)]]_; __3rd __  _[[Spells/Grim Tendrils|Grim Tendrils]]_; __2nd __  _[[Spells/Silence|Silence]]_\n__Cantrips__  __(4th)__ _[[Spells/Void Warp|Chill Touch]]_"
+    desc: "DC 25, attack +0; __4th __  _[[Spells/Darkness|Darkness]]_, _[[Spells/Translocate|Dimension Door]]_, _[[Spells/Dispel Magic|Dispel Magic]]_, _[[Spells/Harm|Harm]]_; __3rd __  _[[Spells/Grim Tendrils|Grim Tendrils]]_, _[[Spells/Harm|Harm (x3)]]_; __2nd __  _[[Spells/Silence|Silence]]_\n__Cantrips__  __(4th)__ _[[Spells/Void Warp|Chill Touch]]_"
 
   - name: "Drain Life"
-    desc: " (occult) When the sceaduinar damages a living creature with its jaws Strike, the sceaduinar gains 5 temporary Hit Points and the creature must succeed at a DC 25 Fortitude check save or become [[Conditions/Drained 1|Drained 1]].\nFurther damage dealt to the creature by the sceaduinar increases the drained value by 1 on a failed save, to a maximum of drained 4."
+    desc: " (occult) When the sceaduinar damages a living creature with its jaws Strike, the sceaduinar gains 5 temporary Hit Points and the creature must succeed at a DC 25 Fortitude check save or become [[Conditions/Drained|Drained 1]].\n\nFurther damage dealt to the creature by the sceaduinar increases the drained value by 1 on a failed save, to a maximum of drained 4."
 
   - name: "Entropic Touch"
-    desc: " (incorporeal) Void damage dealt by a sceaduinar damages undead and creatures with void healing as if it were vitality damage. The sceaduinar's melee Strikes have the benefits of the _[[Equipment/Ghost Touch|Ghost Touch]]_ property rune on attacks against incorporeal undead."
+    desc: "  Void damage dealt by a sceaduinar damages undead and creatures with void healing as if it were vitality damage. The sceaduinar's melee Strikes have the benefits of the _[[Equipment/Ghost Touch|Ghost Touch]]_ property rune on attacks against incorporeal undead."
  
+```
+
+```encounter-table
+name: Sceaduinar
+creatures:
+  - 1: Sceaduinar
 ```
 
 

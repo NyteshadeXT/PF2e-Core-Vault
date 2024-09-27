@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/gnoll
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/13
 statblock: inline
 name: "Laslunn"
@@ -22,12 +23,12 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #147: Tomorrow Must Burn"
 name: "Laslunn"
 level: "Creature 13"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Medium"
-trait_01: "evil"
-trait_02: "gnoll"
-trait_03: "humanoid"
+trait_01: [[evil]]
+trait_02: [[gnoll]]
+trait_03: [[humanoid]]
 modifier: 24
 perception:
   - name: "Perception"
@@ -35,7 +36,7 @@ perception:
 languages: "Common, Dwarven, Kholo"
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +27, Athletics: +26, Intimidation: +26, Slaver Lore: +20, Society: +20, Stealth: +22, Survival: +22, Thievery: +22"
+    desc: "Acrobatics: +27, Athletics: +26, Intimidation: +26, Society: +20, Stealth: +22, Survival: +22, Thievery: +22, Slaver Lore: +20"
 abilityMods: [4, 5, 3, 1, 3, 4]
 speed: 25 feet
 sourcebook: "_Pathfinder #147: Tomorrow Must Burn_"
@@ -55,7 +56,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "[[Bestiary Ability Glossary/Attack of Opportunity|Attack of Opportunity (Special)]]"
-    desc: "`pf2:r`  Laslunn can use Attack of Opportunity with ranged weapons if the triggering creature is within 5 feet.\n"
+    desc: "`pf2:r`  Laslunn can use Attack of Opportunity with ranged weapons if the triggering creature is within 5 feet.\n\n* * *\n"
 
 attacks:
   - name: ""
@@ -76,7 +77,7 @@ attacks:
     desc: "`pf2:1` (auditory,linguistic) Laslunn issues a command to reposition her allies. Allies who hear and understand this order can use a reaction to Step."
 
   - name: "Efficient Capture"
-    desc: "`pf2:3` (attack,manipulate) **Requirements** Laslunn has manacles in hand and is adjacent to a creature.\n**Effect** Laslunn attempts to bind the creature's wrists or ankles with the manacles. If she succeeds at an attack roll with a +28 modifier against the target's AC, she applies the manacles to the creature's wrists or legs."
+    desc: "`pf2:3` (attack,manipulate) **Requirements** Laslunn has manacles in hand and is adjacent to a creature.\n* * *\n\n**Effect** Laslunn attempts to bind the creature's wrists or ankles with the manacles. If she succeeds at an attack roll with a +28 modifier against the target's AC, she applies the manacles to the creature's wrists or legs."
 
   - name: "Rugged Travel"
     desc: "  Laslunn ignores the first square of difficult terrain she moves into each time she Steps or Strides."
@@ -87,6 +88,12 @@ attacks:
   - name: "Twin Shot"
     desc: "`pf2:2`  Laslunn makes two Strikes with her bow using her current multiple attack penalty. If both attacks hit the same creature, combine the damage and apply resistances and weaknesses only once. This counts as two attacks when calculating Laslunn's multiple attack penalty."
  
+```
+
+```encounter-table
+name: Laslunn
+creatures:
+  - 1: Laslunn
 ```
 
 

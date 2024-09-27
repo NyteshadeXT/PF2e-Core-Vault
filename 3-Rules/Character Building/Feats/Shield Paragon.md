@@ -6,8 +6,9 @@ tags:
   - trait/champion
   - trait/common
   - category/class
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.P9swngiLXbhMegQ8"
-license: OGL
+license: ORC
 ---
 # Shield Paragon
 ## Feat 20
@@ -17,9 +18,11 @@ license: OGL
 
 
 
-**Prerequisites** divine ally (shield)
+**Prerequisites** blessed shield
 * * *
-Your shield is a vessel of divine protection. When you're wielding your chosen shield, it is always raised, even without you using the Raise a Shield action. Your chosen shield doubles its HP and BT, rather than increasing them by half. If it would be destroyed, it vanishes to your deity's realm instead, where your divine ally repairs it. During your next daily preparations, the shield returns to you fully repaired.
+Your shield is a vessel of divine protection. When you're wielding your chosen shield, it is always raised, even without you using the Raise a Shield action.
 
-*Source: Pathfinder Core Rulebook*
-*OGL*
+If the shield would be destroyed, it vanishes to your deity's realm instead, where a servitor of your deity repairs it. During your next daily preparations, the shield returns to you fully repaired. While the shield is gone, you can spend 1 minute to infuse a different shield with your blessed shield benefit until your true shield returns
+
+*Source: Pathfinder Player Core 2*
+*ORC*

@@ -28,13 +28,13 @@ Skarja's _heartstone_ allows her to use additional occult innate spells: [[Spell
 
 * * *
 
-**Activate** `pf2:1`command
+**Activate** `pf2:1` command
 
 **Requirements** You must be touching the heartstone.
 
 * * *
 
-**Effect** The _heartstone_ attempts to counteract one disease affecting you (counteract rank 7, counteract modifier 1d20 + 23).
+**Effect** The _heartstone_ attempts to counteract one disease affecting you (counteract rank 7, counteract modifier 1d20+23).
 
 * * *
 

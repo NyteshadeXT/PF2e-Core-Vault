@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/humanoid
   - pf2e/creature/type/lawful
+  - pf2eMonster
   - pf2e/creature/level/5
 statblock: inline
 name: "Tuom Molgrade"
@@ -23,13 +24,13 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #193: Mantle of Gold"
 name: "Tuom Molgrade"
 level: "Creature 5"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Medium"
-trait_01: "dwarf"
-trait_02: "evil"
-trait_03: "humanoid"
-trait_04: "lawful"
+trait_01: [[dwarf]]
+trait_02: [[evil]]
+trait_03: [[humanoid]]
+trait_04: [[lawful]]
 modifier: 12
 perception:
   - name: "Perception"
@@ -69,8 +70,14 @@ attacks:
     desc: "`pf2:1` Hatchet +14 (agile, sweep, thrown 10 ft.)\n__Damage__  1d6 + 7 slashing"
 
   - name: "Arcane Prepared Spells"
-    desc: "DC 21, attack +14; __3rd __  _[[Spells/Fireball|Fireball]]_; __2nd __  _[[Spells/Revealing Light|Glitterdust]]_; __1st __  _[[Spells/Floating Disk|Floating Disk]]_, _[[Spells/Jump|Jump]]_, _[[Spells/Shocking Grasp|Shocking Grasp]]_\n__Cantrips__  __(3rd)__ _[[Spells/Light|Light]]_, _[[Spells/Telekinetic Hand|Mage Hand]]_, _[[Spells/Produce Flame|Produce Flame]]_, _[[Spells/Read Aura|Read Aura]]_"
+    desc: "DC 21, attack +14; __3rd __  _[[Spells/Fireball|Fireball]]_; __2nd __  _[[Spells/Revealing Light|Glitterdust]]_; __1st __  _[[Spells/Carryall|Floating Disk]]_, _[[Spells/Jump|Jump]]_, _[[Spells/Shocking Grasp|Shocking Grasp]]_\n__Cantrips__  __(3rd)__ _[[Spells/Light|Light]]_, _[[Spells/Telekinetic Hand|Mage Hand]]_, _[[Spells/Produce Flame|Produce Flame]]_, _[[Spells/Read Aura|Read Aura]]_"
  
+```
+
+```encounter-table
+name: Tuom Molgrade
+creatures:
+  - 1: Tuom Molgrade
 ```
 
 

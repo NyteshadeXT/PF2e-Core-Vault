@@ -58,9 +58,9 @@ Your telekinetic projectiles can fly much further away. Increase the range of te
 
 surface: [[Spells/Telekinetic Rend|Telekinetic Rend]]
 
-**Amp** Your thoughts expand in scope and power. The bursts deal 1d6 bludgeoning damage and 1d6 slashing damage, instead of the usual damage. A creature that critically fails its save is also [[Conditions/Stunned 1|Stunned 1]].
+**Amp** Your thoughts expand in scope and power. The bursts deal 1d6 bludgeoning damage and 1d6 slashing damage, instead of the usual damage. A creature that critically fails its save is also [[Conditions/Stunned|Stunned 1]].
 
-**Amp Heightened (+2)** Both types of damage increase by 1d6 instead of just one. Add a third non-overlapping 5-foot burst to the area.
+**Amp Heightened (+2)** Both types of damage increase by 1d6 instead of just one. Add a third non-overlapping @Template\[burst|distance:5\] to the area.
 
 deeper: [[Spells/Vector Screen|Vector Screen]]
 

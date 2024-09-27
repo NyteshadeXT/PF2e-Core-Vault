@@ -5,8 +5,9 @@ cssclasses: pf2e,pf2e-action
 tags:
   - trait/
   - category/deity
+  - remaster
 aliases: "Compendium.pf2e.deities.Item.McUqN13BGLTpYWCg"
-license: OGL
+license: ORC
 ---
 # Green Man
 
@@ -23,5 +24,5 @@ Individual green men are lesser deities, capable of granting spells to those who
 
 **Anathema** allow flagrant abuse of plant life to go unpunished, damage natural environments, harm plant life except in the pursuit of saving greater plant life
 
-*Source: Pathfinder Bestiary 3*
-*OGL*
+*Source: Pathfinder #202: Severed at the Root*
+*ORC*

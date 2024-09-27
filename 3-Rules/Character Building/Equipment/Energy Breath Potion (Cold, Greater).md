@@ -15,7 +15,7 @@ license: ORC
 ---
 # Energy Breath Potion (Cold, Greater)
 ## Item 17
-### [[3-Rules/Rule References/Cold]][[consumable]][[magical]][[potion]]
+### [[3-Rules/Rule References/Cold]][[consumable]][[3-Rules/Rule References/Magical]][[potion]]
 
 **Category** potion; 
 **Price** 3000 gp; 
@@ -28,7 +28,7 @@ license: ORC
 
 Distilled from the energy of dangerous spells, an energy breath potion grants you the Energy Breath action for 1 hour after you imbibe the concoction.
 
-**Energy Breath `pf2:1`** You create a 15-foot cone of cold which deals 10d6 cold damage. All creatures in the area must attempt a DC 37 Reflex check save.
+**Energy Breath** `pf2:1` You create a @Template\[cone|distance:15\] of cold which deals 10d6 cold damage. All creatures in the area must attempt a DC 37 Reflex check save.
 
 After you use Energy Breath, you can't do so again for 1d4 rounds.
 

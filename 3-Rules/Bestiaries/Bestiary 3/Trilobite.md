@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.pathfinder-bestiary-3.Actor.aZBp1m5C9nXRgxHA"
 tags:
   - pf2e/creature/type/animal
   - pf2e/creature/type/aquatic
+  - pf2eMonster
   - pf2e/creature/level/-1
 statblock: inline
 name: "Trilobite"
@@ -25,12 +26,13 @@ level: "Creature -1"
 
 alignment: ""
 size: "tiny"
-trait_01: "animal"
-trait_02: "aquatic"
+trait_01: [[animal]]
+trait_02: [[aquatic]]
 modifier: 8
 perception:
   - name: "Perception"
     desc: "+8; Darkvision, Wavesense (Imprecise) 30 Feet"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Athletics: +4, Stealth: +5, Survival: +4"
@@ -52,7 +54,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Curl Up"
-    desc: "`pf2:r`  **Trigger** The trilobite takes damage\n**Effect** The trilobite gains a +2 circumstance bonus to AC until the start of its next turn.\n[[Bestiary Effects/Effect_ Curl Up|Effect: Curl Up]]"
+    desc: "`pf2:r`  **Trigger** The trilobite takes damage\n* * *\n\n**Effect** The trilobite gains a +2 circumstance bonus to AC until the start of its next turn.\n\n[[Bestiary Effects/Effect_ Curl Up|Effect: Curl Up]]"
 
 attacks:
   - name: ""
@@ -63,6 +65,12 @@ attacks:
   - name: "Quick Escape"
     desc: "`pf2:2`  The trilobite swims up to double its Speed and attempts to [[Actions/Hide|Hide]]."
  
+```
+
+```encounter-table
+name: Trilobite
+creatures:
+  - 1: Trilobite
 ```
 
 

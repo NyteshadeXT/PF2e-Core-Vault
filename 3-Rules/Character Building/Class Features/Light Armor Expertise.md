@@ -5,6 +5,7 @@ cssclasses: pf2e,pf2e-spell
 tags:
   - trait/bard
   - trait/investigator
+  - trait/kineticist
   - trait/oracle
   - trait/rogue
   - trait/swashbuckler
@@ -16,7 +17,7 @@ license: ORC
 ---
 # Light Armor Expertise
 ## Feat 13
-### [[bard]][[investigator]][[oracle]][[rogue]][[swashbuckler]]
+### [[3-Rules/trait_reference/bard]][[investigator]][[kineticist]][[oracle]][[3-Rules/trait_reference/rogue]][[swashbuckler]]
 
 **Category** classfeature; 
 

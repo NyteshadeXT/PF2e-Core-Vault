@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.pathfinder-monster-core.Actor.f9fjSDdcBKkEPoIi"
 tags:
   - pf2e/creature/type/leshy
   - pf2e/creature/type/plant
+  - pf2eMonster
   - pf2e/creature/level/1
   - remaster
 statblock: inline
@@ -26,8 +27,8 @@ level: "Creature 1"
 
 alignment: ""
 size: "Small"
-trait_01: "leshy"
-trait_02: "plant"
+trait_01: [[leshy]]
+trait_02: [[plant]]
 modifier: 5
 perception:
   - name: "Perception"
@@ -57,7 +58,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Verdant Burst"
-    desc: " (healing,primal,vitality) When a gourd leshy dies, a burst of primal energy explodes from their body, restoring 1d8 Hit Points to each plant creature in a 30-foot emanation. This area is filled with gourds, becoming difficult terrain.\n\nIf the terrain is not a viable environment for these gourds, they wither after 24 hours."
+    desc: " (healing,primal,vitality) When a gourd leshy dies, a burst of primal energy explodes from their body, restoring 1d8 Hit Points to each plant creature in a @Template[emanation|distance:30]. This area is filled with gourds, becoming difficult terrain.\n\nIf the terrain is not a viable environment for these gourds, they wither after 24 hours."
 
 attacks:
   - name: ""
@@ -72,11 +73,17 @@ attacks:
     desc: "DC 15, attack +7; __3rd __  _[[Spells/Speak with Plants|Speak with Plants (Constant, Gourds Only)]]_"
 
   - name: "[[Bestiary Ability Glossary/Change Shape|Change Shape]]"
-    desc: "`pf2:1` (concentrate,polymorph,primal) The leaf leshy transforms into a Small gourd-bearing plant. This ability otherwise uses the effects of [[Spells/One with Plants|One with Plants]].\n\n* * *\n"
+    desc: "`pf2:1` (concentrate,polymorph,primal) The gourd leshy transforms into a Small gourd-bearing plant. This ability otherwise uses the effects of [[Spells/One with Plants|One with Plants]].\n\n* * *\n"
 
   - name: "Ensnare"
     desc: "  When the gourd leshy damages a creature with a fist or seed Strike, vines lash out from the leshy (or seed) and wrap around the target's limbs.\n\nThe target must attempt a DC 17 Reflex check save. On a failure, the target takes a –10-foot status penalty to its Speed for 1 round; on a critical failure, the target is [[Conditions/Immobilized|Immobilized]] for 1 round and the penalty to Speed lasts for 1 minute.\n\n[[Bestiary Effects/Effect_ Ensnare|Effect: Ensnare]]"
  
+```
+
+```encounter-table
+name: Gourd Leshy
+creatures:
+  - 1: Gourd Leshy
 ```
 
 

@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.pathfinder-monster-core.Actor.lUBkzsSqMfQBczU1"
 tags:
   - pf2e/creature/type/fey
   - pf2e/creature/type/sprite
+  - pf2eMonster
   - pf2e/creature/level/-1
   - remaster
 statblock: inline
@@ -26,8 +27,8 @@ level: "Creature -1"
 
 alignment: ""
 size: "tiny"
-trait_01: "fey"
-trait_02: "sprite"
+trait_01: [[fey]]
+trait_02: [[sprite]]
 modifier: 4
 perception:
   - name: "Perception"
@@ -69,6 +70,12 @@ attacks:
   - name: "Primal Innate Spells"
     desc: "DC 16, attack +8; __1st __  _[[Spells/Dizzying Colors|Dizzying Colors]]_\n__Cantrips__  __(1st)__ _[[Spells/Daze|Daze]]_, _[[Spells/Detect Magic|Detect Magic]]_, _[[Spells/Light|Light]]_"
  
+```
+
+```encounter-table
+name: Sprite
+creatures:
+  - 1: Sprite
 ```
 
 

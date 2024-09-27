@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/elf
   - pf2e/creature/type/evil
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/6
 statblock: inline
 name: "Nathatel (5-6)"
@@ -23,13 +24,13 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Society Scenario #4-99: Blessings of the Forest"
 name: "Nathatel (5-6)"
 level: "Creature 6"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Medium"
-trait_01: "chaotic"
-trait_02: "elf"
-trait_03: "evil"
-trait_04: "humanoid"
+trait_01: [[chaotic]]
+trait_02: [[elf]]
+trait_03: [[evil]]
+trait_04: [[humanoid]]
 modifier: 14
 perception:
   - name: "Perception"
@@ -57,7 +58,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Redirect Magic"
-    desc: "`pf2:r`  **Trigger** Nathatel succeeds at a save against a foe's harmful spell, or a foe fails a spell attack roll against him\n**Effect** Nathatel redirects the spell's energy back at its caster. The caster takes 1d6 bludgeoning damage per spell rank (DC 23 Reflex check negates). If the harmful spell dealt damage of a particular type, such fire damage, use that type instead of bludgeoning."
+    desc: "`pf2:r`  **Trigger** Nathatel succeeds at a save against a foe's harmful spell, or a foe fails a spell attack roll against him\n* * *\n\n**Effect** Nathatel redirects the spell's energy back at its caster. The caster takes 1d6 bludgeoning damage per spell rank (DC 23 Reflex check negates). If the harmful spell dealt damage of a particular type, such fire damage, use that type instead of bludgeoning."
 
 attacks:
   - name: ""
@@ -80,6 +81,12 @@ attacks:
   - name: "Spellstrike"
     desc: "`pf2:2`  Nathatel channels a spell into a melee attack to deliver a magically charged attack. He Casts a Spell that takes 1 or 2 actions to cast and requires a spell attack roll. The effects of the spell don't occur immediately but are imbued into his attack instead. He makes a melee Strike with a weapon or unarmed attack, which gains the arcane trait. His spell is coupled with the attack, using his attack roll to determine the effects of both the Strike and the spell. This counts as two attacks for his multiple attack penalty, but the penalty isn't applied until after he has completed the Spellstrike. After he uses Spellstrike, Nathatel can't do so again until he recharges this ability as a single action, which has the concentrate trait. He also recharges his Spellstrike when he casts [[Spells/Force Fang|Force Fang]] or [[Spells/Thunderous Strike|Thunderous Strike]]."
  
+```
+
+```encounter-table
+name: Nathatel (5-6)
+creatures:
+  - 1: Nathatel (5-6)
 ```
 
 

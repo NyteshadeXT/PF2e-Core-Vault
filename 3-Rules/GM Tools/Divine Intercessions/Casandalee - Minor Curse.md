@@ -16,7 +16,7 @@ license: OGL
 
 
 
-**Minor Curse:** Your joints stiffen, and your mind becomes clouded. You take a -2 status penalty to all rolls for initiative.
+Your joints stiffen, and your mind becomes clouded. You take a -2 status penalty to all rolls for initiative.
 
 *Source: Pathfinder Lost Omens: Gods & Magic*
 *OGL*

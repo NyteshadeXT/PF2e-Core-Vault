@@ -4,8 +4,9 @@ title: "Effect: Drakeheart Mutagen (Moderate)"
 cssclasses: pf2e,pf2e-spell
 tags:
   - trait/common
+  - remaster
 aliases: "Compendium.pf2e.equipment-effects.Item.BV8RPntjc9FUzD3g"
-license: OGL
+license: ORC
 ---
 # Effect: Drakeheart Mutagen (Moderate)
 ## Level 3
@@ -28,5 +29,5 @@ Granted by [[Equipment/Drakeheart Mutagen (Moderate)|Drakeheart Mutagen (Moderat
 *   \-1 penalty to all Recall Knowledge checks
 *   Gain the Final Surge action
 
-*Source: Pathfinder Advanced Player's Guide*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

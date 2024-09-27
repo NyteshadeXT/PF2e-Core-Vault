@@ -5,6 +5,7 @@ noteType: pf2eHazard
 tags:
   - fungus
   - trap
+  - pf2eHazard
   - complex
 source: Pathfinder #193: Mantle of Gold
 aliases: "Compendium.pf2e.sky-kings-tomb-bestiary.Actor.G1FXZqJTG2tqgzHH" 
@@ -22,8 +23,8 @@ name: "Spitter Pods"
 level: "Hazard 2"
 
 trait_06: "Complex"
-trait_01: "fungus"
-trait_02: "trap"
+trait_01: [[fungus]]
+trait_02: [[trap]]
 modifier: 8
 sourcebook: "_Pathfinder #193: Mantle of Gold_"
 ac: 17
@@ -51,12 +52,18 @@ attacks:
   - name: ""
 
   - name: "Unfurl"
-    desc: "`pf2:r` A non-fungus creatures enters area **E4**\n**Effect** The spitter pod rolls initiative."
+    desc: "`pf2:r` A non-fungus creatures enters area **E4**\n* * *\n\n**Effect** The spitter pod rolls initiative."
   - name: "Melee"
     desc: "Globule +11 (poison, range increment 30 feet, reload 1) "
 
   - name: "Routine"
     desc: "(3 actions) The spitter pods alternate between making Strikes and Reloading. The pods lose 1 action for each successful check to disable the trap."
 
+```
+
+```encounter-table
+name: Spitter Pods
+creatures:
+  - 1: Spitter Pods
 ```
 

@@ -4,6 +4,7 @@ obsidianUIMode: preview
 noteType: pf2eHazard
 tags:
   - haunt
+  - pf2eHazard
 
 source: Pathfinder Dark Archive
 aliases: "Compendium.pf2e.pathfinder-dark-archive.Actor.eX1vJnbUagKPdSbU" 
@@ -21,13 +22,13 @@ name: "Spirit Window"
 level: "Hazard 20"
 
 
-trait_01: "haunt"
+trait_01: [[haunt]]
 modifier: 41
 sourcebook: "_Pathfinder Dark Archive_"
 ac: 45
 armorclass:
   - name: AC
-    desc: "45; __Fort__ +36, __Ref__ +30, __Will__ +0"
+    desc: "45; __Fort__ +36, __Ref__ +30, "
 hp: 132
 health:
   - name: ""
@@ -49,10 +50,16 @@ attacks:
   - name: ""
 
   - name: "Siphon Soul"
-    desc: "`pf2:r` (occult, void) **Trigger** A creature touches the window\n**Effect** The triggering creature takes 8d10 + 44 void damage (DC 42 Will check) as the window attempts to steal their soul. If this damage would kill the target, its soul is trapped inside the window with the effects of [[Spells/Seize Soul|Seize Soul]]."
+    desc: "`pf2:r` (occult, void) **Trigger** A creature touches the window\n* * *\n\n**Effect** The triggering creature takes 8d10 + 44 void damage (DC 42 Will check) as the window attempts to steal their soul. If this damage would kill the target, its soul is trapped inside the window with the effects of [[Spells/Seize Soul|Seize Soul]]."
 
 
   - name: "Reset"
     desc: "1 round"
+```
+
+```encounter-table
+name: Spirit Window
+creatures:
+  - 1: Spirit Window
 ```
 

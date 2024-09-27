@@ -6,8 +6,9 @@ tags:
   - trait/champion
   - trait/uncommon
   - category/class
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.u2rvvAqZBugZgcYg"
-license: OGL
+license: ORC
 ---
 # Greater Cruelty
 ## Feat 8
@@ -19,9 +20,7 @@ license: OGL
 
 **Prerequisites** Cruelty
 * * *
-The extent of the corruption within you does more than simply sap your foes' strength, it devastates their minds and reflexes.
+The extent of your corruption devastates your foes' minds and reflexes. When you use [[Feats/Cruelty|Cruelty]], you can choose to make the target [[Conditions/Clumsy|Clumsy]] or [[Conditions/Stupefied|Stupefied]] instead, with the same condition value. Make the choice when you Cast the Spell (before you know the result of the target's save)
 
-When you use [[Feats/Cruelty|Cruelty]], choose whether you want to make the creature enfeebled as normal, to make it [[Conditions/Clumsy 1|Clumsy 1]] on a failed save (clumsy 2 on a critical failure), or to make it [[Conditions/Stupefied 1|Stupefied 1]] on a failed save (stupefied 2 on a critical failure).
-
-*Source: Pathfinder Advanced Player's Guide*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

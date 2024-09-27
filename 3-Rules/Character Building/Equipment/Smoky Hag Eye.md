@@ -35,11 +35,11 @@ A _smoky hag eye_ is named after the black vapor that constantly emanates from i
 
 **Critical Success** The creature is unaffected.
 
-**Success** The creature is [[Conditions/Drained 1|Drained 1]].
+**Success** The creature is [[Conditions/Drained|Drained 1]].
 
-**Failure** The creature is [[Conditions/Doomed 1|Doomed 1]] and [[Conditions/Drained 1|Drained 2]].
+**Failure** The creature is [[Conditions/Doomed|Doomed 1]] and [[Conditions/Drained|Drained 2]].
 
-**Critical Failure** The creature is doomed 1 and [[Conditions/Drained 1|Drained 3]].
+**Critical Failure** The creature is doomed 1 and [[Conditions/Drained|Drained 3]].
 
 * * *
 

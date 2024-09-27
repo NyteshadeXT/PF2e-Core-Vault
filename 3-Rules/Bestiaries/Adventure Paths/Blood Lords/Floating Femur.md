@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.blood-lords-bestiary.Actor.6I4ZtQJPT0ToITvq"
 tags:
   - pf2e/creature/type/construct
   - pf2e/creature/type/mindless
+  - pf2eMonster
   - pf2e/creature/level/-1
 statblock: inline
 name: "Floating Femur"
@@ -21,15 +22,16 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #181: Zombie Feast"
 name: "Floating Femur"
 level: "Creature -1"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "tiny"
-trait_01: "construct"
-trait_02: "mindless"
+trait_01: [[construct]]
+trait_02: [[mindless]]
 modifier: 3
 perception:
   - name: "Perception"
     desc: "+3; Darkvision"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Athletics: +6, Stealth: +6"
@@ -59,6 +61,12 @@ attacks:
   - name: "Gotcha!"
     desc: "  A floating femur freezes up if [[Conditions/Grabbed|Grabbed]]. For 1 minute after the femur becomes grabbed or [[Conditions/Restrained|Restrained]] by a creature, the femur can't act, and the creature holding it can use it as a _+1 club_ with the fatal d10 trait. After that time, the floating femur can act and is generally quite aggressive toward whomever used it as a weapon."
  
+```
+
+```encounter-table
+name: Floating Femur
+creatures:
+  - 1: Floating Femur
 ```
 
 

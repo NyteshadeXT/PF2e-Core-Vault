@@ -3,18 +3,18 @@ obsidianUIMode: preview
 title: "Dragon's Rage Breath"
 cssclasses: pf2e,pf2e-spell
 tags:
-  - trait/arcane
   - trait/barbarian
   - trait/concentrate
   - trait/rage
   - trait/common
   - category/class
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.3uavnVbCsqTvzpgt"
-license: OGL
+license: ORC
 ---
 # Dragon's Rage Breath `pf2:2`
 ## Feat 6
-### [[arcane]][[barbarian]][[concentrate]][[rage]]
+### [[barbarian]][[concentrate]][[rage]]
 
 **Category** class; 
 
@@ -22,15 +22,11 @@ license: OGL
 
 **Prerequisites** dragon instinct
 * * *
-**Requirements** You haven't used this ability since you last Raged
+**Frequency** once per 10 minutes
 
 * * *
 
-You breathe deeply and exhale powerful energy in a 30-foot cone or 60-foot line, dealing 1d6 damage per level. The area and damage type match those of your dragon (see [[Class Features/Dragon Instinct|Table 3-4]]).
+You breathe deeply and exhale powerful energy in a @Template\[cone|distance:30\], dealing 1d6 damage to each creature in the area with a Reflex check save against your class DC. The damage type matches your instinct's dragon breath, and this action gains the trait of your dragon instinct's tradition.
 
-If you used this ability in the last hour, the area and the damage are halved (15-foot cone or 30-foot line; 1d6 damage for every 2 levels).
-
-Each creature in the area must attempt a Reflex check save.
-
-*Source: Pathfinder Core Rulebook*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

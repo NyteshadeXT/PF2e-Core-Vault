@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/fungus
   - pf2e/creature/type/mindless
   - pf2e/creature/type/ooze
+  - pf2eMonster
   - pf2e/creature/level/2
 statblock: inline
 name: "Slime Mold"
@@ -26,16 +27,17 @@ level: "Creature 2"
 
 alignment: ""
 size: "Large"
-trait_01: "fungus"
-trait_02: "mindless"
-trait_03: "ooze"
+trait_01: [[fungus]]
+trait_02: [[mindless]]
+trait_03: [[ooze]]
 modifier: 6
 perception:
   - name: "Perception"
     desc: "+6; Motion Sense (Precise) 60 Feet"
+languages: ""
 skills:
   - name: "Skills"
-    desc: "Athletics: +7, Stealth: +6 (+8 amid decaying plant matter or fungus)"
+    desc: "Athletics: +7, Stealth: +6"
 abilityMods: [3, 0, 5, -5, 0, -5]
 speed: 10 feet,  climb 10 feet
 sourcebook: "_Pathfinder Bestiary 2_"
@@ -63,8 +65,14 @@ attacks:
     desc: "`pf2:1` Pseudopod +8 ()\n__Damage__  1d8 + 3 bludgeoning plus slime-rot"
 
   - name: "Slime Rot"
-    desc: " (disease) **Saving Throw** DC 18 Fortitude check\n**Onset** 1d4 days\n**Stage 1** [[Conditions/Enfeebled 1|Enfeebled 1]] and [[Conditions/Sickened 1|Sickened 1]] (1 day)\n**Stage 2** as stage 1 (1 day)\n**Stage 3** [[Conditions/Drained 1|Drained 1]], [[Conditions/Enfeebled 1|Enfeebled 2]], and [[Conditions/Sickened 1|Sickened 2]] (1 day)\n**Stage 4** as stage 3 (1 day)\n**Stage 5** [[Conditions/Drained 1|Drained 2]] plus [[Conditions/Unconscious|Unconscious]] (no Perception check to wake up) (1 day)\n**Stage 6** dead, and the body erupts to release a new slime mold"
+    desc: " (disease) **Saving Throw** DC 18 Fortitude check\n\n**Onset** 1d4 days\n\n**Stage 1** [[Conditions/Enfeebled|Enfeebled 1]] and [[Conditions/Sickened|Sickened 1]] (1 day)\n\n**Stage 2** as stage 1 (1 day)\n\n**Stage 3** [[Conditions/Drained|Drained 1]], [[Conditions/Enfeebled|Enfeebled 2]], and [[Conditions/Sickened|Sickened 2]] (1 day)\n\n**Stage 4** as stage 3 (1 day)\n\n**Stage 5** [[Conditions/Drained|Drained 2]] plus [[Conditions/Unconscious|Unconscious]] (no Perception check to wake up) (1 day)\n\n**Stage 6** dead, and the body erupts to release a new slime mold"
  
+```
+
+```encounter-table
+name: Slime Mold
+creatures:
+  - 1: Slime Mold
 ```
 
 

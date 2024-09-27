@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.pathfinder-monster-core.Actor.wy8Ve0m3wbHMo1U1"
 tags:
   - pf2e/creature/type/animal
   - pf2e/creature/type/dinosaur
+  - pf2eMonster
   - pf2e/creature/level/10
   - remaster
 statblock: inline
@@ -26,8 +27,8 @@ level: "Creature 10"
 
 alignment: ""
 size: "grg"
-trait_01: "animal"
-trait_02: "dinosaur"
+trait_01: [[animal]]
+trait_02: [[dinosaur]]
 modifier: 16
 perception:
   - name: "Perception"
@@ -68,6 +69,12 @@ attacks:
   - name: "[[Bestiary Ability Glossary/Trample|Trample]]"
     desc: "`pf2:3`  Huge or smaller, foot, DC 29 Reflex check\n\n* * *\n"
  
+```
+
+```encounter-table
+name: Brontosaurus
+creatures:
+  - 1: Brontosaurus
 ```
 
 

@@ -6,8 +6,9 @@ tags:
   - trait/catfolk
   - trait/common
   - category/ancestryfeature
+  - remaster
 aliases: "Compendium.pf2e.ancestryfeatures.Item.sL1hHxrHdMNIZVAd"
-license: OGL
+license: ORC
 ---
 # Land on Your Feet
 
@@ -20,5 +21,5 @@ license: OGL
 
 When you fall, you take only half the normal damage and don't land [[Conditions/Prone|Prone]].
 
-*Source: Pathfinder Advanced Player's Guide*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

@@ -15,7 +15,7 @@ license: OGL
 ---
 # Alicorn Lance
 ## Item 5
-### [uncommon](uncommon "Uncommon Rarity Trait")[[deadly-d8]][[jousting-d6]][[magical]][[reach]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[deadly-d8]][[jousting-d6]][[3-Rules/Rule References/Magical]][[3-Rules/Rule References/Reach]]
 
 |  |  |
 | -- | -- |

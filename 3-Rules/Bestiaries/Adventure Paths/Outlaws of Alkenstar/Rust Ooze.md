@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.outlaws-of-alkenstar-bestiary.Actor.X4tOSkr3WLvh0NIN"
 tags:
   - pf2e/creature/type/mindless
   - pf2e/creature/type/ooze
+  - pf2eMonster
   - pf2e/creature/level/3
 statblock: inline
 name: "Rust Ooze"
@@ -21,18 +22,19 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #178: Punks in a Powder Keg"
 name: "Rust Ooze"
 level: "Creature 3"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Medium"
-trait_01: "mindless"
-trait_02: "ooze"
+trait_01: [[mindless]]
+trait_02: [[ooze]]
 modifier: 6
 perception:
   - name: "Perception"
     desc: "+6; Motion Sense (Precise) 60 Feet"
+languages: ""
 skills:
   - name: "Skills"
-    desc: "Athletics: +9, Stealth: +5 (+7 in areas of rusty objects)"
+    desc: "Athletics: +9, Stealth: +5"
 abilityMods: [4, -4, 3, -5, 1, -5]
 speed: 15 feet,  swim 30 feet
 sourcebook: "_Pathfinder #178: Punks in a Powder Keg_"
@@ -54,7 +56,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Corrode Weapon"
-    desc: "`pf2:r`  **Trigger** The rust ooze is hit with a metal weapon\n**Effect** The rust ooze deals 2d6 acid damage to the item, ignoring its Hardness."
+    desc: "`pf2:r`  **Trigger** The rust ooze is hit with a metal weapon\n* * *\n\n**Effect** The rust ooze deals 2d6 acid damage to the item, ignoring its Hardness."
 
   - name: "Metal Resistance"
     desc: "  A rust ooze has resistance 5 to metal weapons."
@@ -69,8 +71,14 @@ attacks:
     desc: "  When a rust ooze critically succeeds at a pseudopod Strike, it deals 2d6 acid damage to a metal item the target is wearing or holding, ignoring the item's Hardness. If a creature uses the Shield Block reaction with a metal shield against a rust ooze's pseudopod attack, the shield is automatically broken, but no other item is rusted."
 
   - name: "Tetanus"
-    desc: " (disease) An infection introduced through open wounds, tetanus can produce stiffness, muscle spasms strong enough to break bones, and ultimately death.\n**Saving Throw** DC 14 Fortitude check\n**Onset** 10 days\n**Stage 1** [[Conditions/Clumsy 1|Clumsy 1]] (1 week)\n**Stage 2** [[Conditions/Clumsy 1|Clumsy 2]] and can't speak (1 day)\n**Stage 3** [[Conditions/Paralyzed|Paralyzed]] with spasms (1 day)\n**Stage 4** death"
+    desc: " (disease) An infection introduced through open wounds, tetanus can produce stiffness, muscle spasms strong enough to break bones, and ultimately death.\n\n**Saving Throw** DC 14 Fortitude check\n\n**Onset** 10 days\n\n**Stage 1** [[Conditions/Clumsy|Clumsy 1]] (1 week)\n\n**Stage 2** [[Conditions/Clumsy|Clumsy 2]] and can't speak (1 day)\n\n**Stage 3** [[Conditions/Paralyzed|Paralyzed]] with spasms (1 day)\n\n**Stage 4** death"
  
+```
+
+```encounter-table
+name: Rust Ooze
+creatures:
+  - 1: Rust Ooze
 ```
 
 

@@ -5,6 +5,7 @@ noteType: pf2eHazard
 tags:
   - magical
   - trap
+  - pf2eHazard
 
 source: Pathfinder #187: The Seventh Arch
 aliases: "Compendium.pf2e.gatewalkers-bestiary.Actor.2MSC6ZWMXaKAt6OA" 
@@ -22,8 +23,8 @@ name: "Cordon Alarm"
 level: "Hazard 2"
 
 
-trait_01: "magical"
-trait_02: "trap"
+trait_01: [[magical]]
+trait_02: [[trap]]
 modifier: 8
 sourcebook: "_Pathfinder #187: The Seventh Arch_"
 perception:
@@ -42,10 +43,16 @@ attacks:
   - name: ""
 
   - name: "Alarm"
-    desc: "`pf2:r` (primal) **Trigger** An object or creature of at least 1 Bulk crosses an invisible vertical barrier extending 30 feet above and below the rope\n**Effect** The rope squawks like an angry squirrel from the point where the barrier was breached. This alarm is as loud as a human scream and lasts for 1 minute. If an item or creature is still breaching the barrier at the end of this duration, the alarm immediately triggers again."
+    desc: "`pf2:r` (primal) **Trigger** An object or creature of at least 1 Bulk crosses an invisible vertical barrier extending 30 feet above and below the rope\n* * *\n\n**Effect** The rope squawks like an angry squirrel from the point where the barrier was breached. This alarm is as loud as a human scream and lasts for 1 minute. If an item or creature is still breaching the barrier at the end of this duration, the alarm immediately triggers again."
 
 
   - name: "Reset"
     desc: "The alarm resets immediately. Multiple breaches can cause the alarm to sound in multiple places at the same time, though the alarm can still be triggered only once per round."
+```
+
+```encounter-table
+name: Cordon Alarm
+creatures:
+  - 1: Cordon Alarm
 ```
 

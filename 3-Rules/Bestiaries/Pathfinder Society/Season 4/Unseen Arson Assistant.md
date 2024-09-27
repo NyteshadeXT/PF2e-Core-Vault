@@ -5,6 +5,7 @@ noteType: pf2eHazard
 tags:
   - environmental
   - fire
+  - pf2eHazard
   - complex
 source: Pathfinder Society Scenario #4-16: Dacilane Academy&#x27;s First Great Prank War
 aliases: "Compendium.pf2e.pfs-season-4-bestiary.Actor.mQcGeS71GA7QnPlY" 
@@ -22,8 +23,8 @@ name: "Unseen Arson Assistant"
 level: "Hazard 1"
 
 trait_06: "Complex"
-trait_01: "environmental"
-trait_02: "fire"
+trait_01: [[environmental]]
+trait_02: [[fire]]
 modifier: 5
 sourcebook: "_Pathfinder Society Scenario #4-16: Dacilane Academy's First Great Prank War_"
 perception:
@@ -44,5 +45,11 @@ attacks:
   - name: "Routine"
     desc: "On its turn, the fire spreads into a number of additional squares equal to half the number of squares the fire currently occupies plus the number of books that the lurkers in light lit on fire this round, minimum 1 square. You determine the squares the fire spreads into, but any spread from lit books must affect a bookshelf; fires spread in this way do not need to spread into adjacent squares. Any creature that ends its turn next to the flames takes 1d6 fire damage, and any creature within the flames takes 4d6 fire damage (DC 15 Reflex check save for both). A creature can take damage from flames only once per round."
 
+```
+
+```encounter-table
+name: Unseen Arson Assistant
+creatures:
+  - 1: Unseen Arson Assistant
 ```
 

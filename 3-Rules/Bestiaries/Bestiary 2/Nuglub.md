@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/fey
   - pf2e/creature/type/gremlin
+  - pf2eMonster
   - pf2e/creature/level/2
 statblock: inline
 name: "Nuglub"
@@ -27,10 +28,10 @@ level: "Creature 2"
 
 alignment: ""
 size: "Small"
-trait_01: "chaotic"
-trait_02: "evil"
-trait_03: "fey"
-trait_04: "gremlin"
+trait_01: [[chaotic]]
+trait_02: [[evil]]
+trait_03: [[fey]]
+trait_04: [[gremlin]]
 modifier: 5
 perception:
   - name: "Perception"
@@ -38,7 +39,7 @@ perception:
 languages: "Sakvroth"
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +8, Crafting: +5 (+7 traps), Intimidation: +7, Stealth: +8"
+    desc: "Acrobatics: +8, Crafting: +5, Intimidation: +7, Stealth: +8"
 abilityMods: [1, 4, 3, -1, -1, 1]
 speed: 30 feet,  climb 20 feet
 sourcebook: "_Pathfinder Bestiary 2_"
@@ -57,7 +58,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Kneecapper"
-    desc: "`pf2:r` (move) **Trigger** A Medium creature within the nuglub's reach leaves a square during its move action\n**Effect** The nuglub lashes out at the triggering creature's knees and tries to knock them [[Conditions/Prone|Prone]]. The nuglub makes an Acrobatics check check against the creature's Reflex DC. On a success, the target falls and lands prone."
+    desc: "`pf2:r` (move) **Trigger** A Medium creature within the nuglub's reach leaves a square during its move action\n* * *\n\n**Effect** The nuglub lashes out at the triggering creature's knees and tries to knock them [[Conditions/Prone|Prone]]. The nuglub makes an Acrobatics check check against the creature's Reflex DC. On a success, the target falls and lands prone."
 
 attacks:
   - name: ""
@@ -77,6 +78,12 @@ attacks:
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
     desc: "`pf2:1`  "
  
+```
+
+```encounter-table
+name: Nuglub
+creatures:
+  - 1: Nuglub
 ```
 
 

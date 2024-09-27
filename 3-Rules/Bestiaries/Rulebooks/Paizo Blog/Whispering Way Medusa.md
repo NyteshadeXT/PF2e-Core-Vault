@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/humanoid
   - pf2e/creature/type/lawful
+  - pf2eMonster
   - pf2e/creature/level/8
 statblock: inline
 name: "Whispering Way Medusa"
@@ -22,12 +23,12 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Blog"
 name: "Whispering Way Medusa"
 level: "Creature 8"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Medium"
-trait_01: "evil"
-trait_02: "humanoid"
-trait_03: "lawful"
+trait_01: [[evil]]
+trait_02: [[humanoid]]
+trait_03: [[lawful]]
 modifier: 16
 perception:
   - name: "Perception"
@@ -55,10 +56,10 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Biting Snakes"
-    desc: "`pf2:r`  **Trigger** A creature ends its turn adjacent to the medusa.\n**Effect** The medusa makes a snake fangs Strike against the creature."
+    desc: "`pf2:r`  **Trigger** A creature ends its turn adjacent to the medusa.\n* * *\n\n**Effect** The medusa makes a snake fangs Strike against the creature."
 
   - name: "Petrifying Gaze"
-    desc: " (arcane,aura,visual) 30 feet. When a creature ends its turn in the aura, it must attempt a DC 27 Fortitude check save. If the creature fails, it becomes [[Conditions/Slowed 1|Slowed 1]] for 1 minute. The medusa can deactivate or activate this aura by using a single action, which has the concentrate trait."
+    desc: " (arcane,aura,visual) 30 feet. When a creature ends its turn in the aura, it must attempt a DC 27 Fortitude check save. If the creature fails, it becomes [[Conditions/Slowed|Slowed 1]] for 1 minute. The medusa can deactivate or activate this aura by using a single action, which has the concentrate trait."
 
 attacks:
   - name: ""
@@ -76,8 +77,14 @@ attacks:
     desc: "`pf2:1` (arcane,concentrate,incapacitation,visual) The medusa fixes their glare at a creature they can see within 30 feet. The target must immediately attempt a Fortitude save against the medusa's petrifying gaze. If the creature was already slowed by petrifying gaze before attempting its save, a failed save causes it to be [[Conditions/Petrified|Petrified]] permanently. After attempting its save, the creature is then temporarily immune until the start of the medusa's next turn."
 
   - name: "Serpent Venom"
-    desc: " (poison) **Saving Throw** DC 27 Fortitude check\n**Maximum Duration** 6 rounds\n**Stage 1** 1d6 poison damage and [[Conditions/Enfeebled 1|Enfeebled 1]] (1 round)\n**Stage 2** 2d6 poison damage and [[Conditions/Enfeebled 1|Enfeebled 2]] (1 round)"
+    desc: " (poison) **Saving Throw** DC 27 Fortitude check\n\n**Maximum Duration** 6 rounds\n\n**Stage 1** 1d6 poison damage and [[Conditions/Enfeebled|Enfeebled 1]] (1 round)\n\n**Stage 2** 2d6 poison damage and [[Conditions/Enfeebled|Enfeebled 2]] (1 round)"
  
+```
+
+```encounter-table
+name: Whispering Way Medusa
+creatures:
+  - 1: Whispering Way Medusa
 ```
 
 

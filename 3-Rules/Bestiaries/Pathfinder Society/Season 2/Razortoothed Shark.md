@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.pfs-season-2-bestiary.Actor.83k9JooGu3wbCJKa"
 tags:
   - pf2e/creature/type/animal
   - pf2e/creature/type/aquatic
+  - pf2eMonster
   - pf2e/creature/level/1
 statblock: inline
 name: "Razortoothed Shark"
@@ -21,15 +22,16 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Society Scenario #2-06: The Crashing Wave"
 name: "Razortoothed Shark"
 level: "Creature 1"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Large"
-trait_01: "animal"
-trait_02: "aquatic"
+trait_01: [[animal]]
+trait_02: [[aquatic]]
 modifier: 7
 perception:
   - name: "Perception"
     desc: "+7; Scent (Imprecise) 100 Feet"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Athletics: +9, Stealth: +6, Survival: +5"
@@ -62,6 +64,12 @@ attacks:
   - name: "Breach"
     desc: "`pf2:2`  The shark Swims up to its swim Speed, then Leaps vertically out of the water up to 15 feet high, making a Strike against a creature at any point during the jump (this lets it attack a creature within 20 feet of the water's surface). After the Strike, the shark splashes back down into the water."
  
+```
+
+```encounter-table
+name: Razortoothed Shark
+creatures:
+  - 1: Razortoothed Shark
 ```
 
 

@@ -13,7 +13,7 @@ license: OGL
 ---
 # Elsie's Excellent Bottled Vim
 ## Item 1
-### [rare](rare "Rare Rarity Trait")[[alchemical]][[consumable]][[elixir]]
+### [rare](rare.md "Rare Rarity Trait")[[alchemical]][[consumable]][[elixir]]
 
 **Category** elixir; 
 **Price** 3 gp; 
@@ -24,7 +24,7 @@ license: OGL
 
 * * *
 
-A dose of this slightly fizzy, pale-pink tonic vitalizes the body and bolsters the spirit, bringing those suffering from aches and pains brought on by illness some temporary respite. For 8 hours after drinking this elixir, reduce the value of one of the following conditions you're suffering by 1: [[Conditions/Clumsy 1|Clumsy]], [[Conditions/Drained 1|Drained]], [[Conditions/Enfeebled 1|Enfeebled]], or [[Conditions/Sickened 1|Sickened]]. A condition whose value is reduced to 0 is not removed; after 8 hours, the condition returns to its original value, unless its duration expired or it was removed by another means.
+A dose of this slightly fizzy, pale-pink tonic vitalizes the body and bolsters the spirit, bringing those suffering from aches and pains brought on by illness some temporary respite. For 8 hours after drinking this elixir, reduce the value of one of the following conditions you're suffering by 1: [[Conditions/Clumsy|Clumsy]], [[Conditions/Drained|Drained]], [[Conditions/Enfeebled|Enfeebled]], or [[Conditions/Sickened|Sickened]]. A condition whose value is reduced to 0 is not removed; after 8 hours, the condition returns to its original value, unless its duration expired or it was removed by another means.
 
 *Source: Pathfinder Adventure: Rusthenge*
 *OGL*

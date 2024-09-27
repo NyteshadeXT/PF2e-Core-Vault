@@ -11,7 +11,7 @@ license: OGL
 ---
 # Envenom `pf2:1`
 
-### [[manipulate]]
+### [[3-Rules/Rule References/Manipulate]]
 
 **Category** offensive; 
 

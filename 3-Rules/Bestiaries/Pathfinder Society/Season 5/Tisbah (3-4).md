@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/chaotic
   - pf2e/creature/type/humanoid
   - pf2e/creature/type/vishkanya
+  - pf2eMonster
   - pf2e/creature/level/4
 statblock: inline
 name: "Tisbah (3-4)"
@@ -23,13 +24,13 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Society Scenario #5-10: The Crocodile&#x27;s Smile"
 name: "Tisbah (3-4)"
 level: "Creature 4"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Medium"
-trait_01: "ardande"
-trait_02: "chaotic"
-trait_03: "humanoid"
-trait_04: "vishkanya"
+trait_01: [[ardande]]
+trait_02: [[chaotic]]
+trait_03: [[humanoid]]
+trait_04: [[vishkanya]]
 modifier: 8
 perception:
   - name: "Perception"
@@ -68,17 +69,23 @@ attacks:
     desc: "2 Focus Points, DC 21, attack +13; __2nd __  _[[Spells/Telekinetic Hand|Mage Hand (Amped)]]_, _[[Spells/Telekinetic Projectile|Telekinetic Projectile (Amped)]]_, _[[Spells/Telekinetic Rend|Telekinetic Rend (Amped)]]_"
 
   - name: "Psi Amps"
-    desc: "  Tisbah can cast psi cantrips as amped cantrips by using one focus point and making the following alterations:\n_Mage Hand_: Tisbah targets a creature of Medium size or smaller and attempts to [[Actions/Shove|Shove]] them with a spell attack roll against their Fortitude DC. The first time each round Tisbah Sustains this Spell, she can attempt to Shove the creature again. The target takes a –10-foot circumstance penalty to its Speeds until the spell ends.\n_Telekinetic Projectile_: Tisbah increases the damage of this cantrip by 2d6. On a successful Strike, she pushes the target 5 feet away, or 10 feet away on a critical success.\n_Telekinetic Rend_: Tisbah changes the cantrip's damage to 1d6 bludgeoning and 1d6 slashing. A creature that critically fails its save is also [[Conditions/Stunned 1|Stunned 1]]."
+    desc: "  Tisbah can cast psi cantrips as amped cantrips by using one focus point and making the following alterations:\n\n_Mage Hand_: Tisbah targets a creature of Medium size or smaller and attempts to [[Actions/Shove|Shove]] them with a spell attack roll against their Fortitude DC. The first time each round Tisbah Sustains this Spell, she can attempt to Shove the creature again. The target takes a –10-foot circumstance penalty to its Speeds until the spell ends.\n\n_Telekinetic Projectile_: Tisbah increases the damage of this cantrip by 2d6. On a successful Strike, she pushes the target 5 feet away, or 10 feet away on a critical success.\n\n_Telekinetic Rend_: Tisbah changes the cantrip's damage to 1d6 bludgeoning and 1d6 slashing. A creature that critically fails its save is also [[Conditions/Stunned|Stunned 1]]."
 
   - name: "Psychic Practice"
     desc: "  Tisbah's range for [[Spells/Telekinetic Projectile|Telekinetic Projectile]] increases to 60 feet."
 
   - name: "Unleash Psyche"
-    desc: "  **Trigger** Tisbah's starts her turn with half or less Hit Points remaining\n**Effect** Tisbah is surrounded by a swirl of psychic energy that effortlessly moves small objects around her. She deals 2d6 force damage to all creatures in a 20-foot emanation (DC 21 Reflex check save) and is [[Conditions/Stunned 1|Stunned 1]]. She gains a +4 status bonus to damage when casting telekinetic projectile or telekinetic rend. This effect remains for 2 rounds or until Tisbah is [[Conditions/Unconscious|Unconscious]], whichever comes first."
+    desc: "  **Trigger** Tisbah's starts her turn with half or less Hit Points remaining\n* * *\n\n**Effect** Tisbah is surrounded by a swirl of psychic energy that effortlessly moves small objects around her. She deals 2d6 force damage to all creatures in a @Template[emanation|distance:20] (DC 21 Reflex check save) and is [[Conditions/Stunned|Stunned 1]]. She gains a +4 status bonus to damage when casting telekinetic projectile or telekinetic rend. This effect remains for 2 rounds or until Tisbah is [[Conditions/Unconscious|Unconscious]], whichever comes first."
 
   - name: "Vishkanyan Venom"
-    desc: " (injury,poison) **Saving Throw** DC 21 Fortitude check\n**Maximum Duration** 6 rounds\n**Stage 1** 1d4 poison damage (1 round)\n**Stage 2** 1d4 poison damage and [[Conditions/Off-Guard|Off-Guard]] (1 round)\n**Stage 3** 1d4 poison damage, off-guard, and a –5-foot penalty to Speed (1 round)"
+    desc: " (injury,poison) **Saving Throw** DC 21 Fortitude check\n\n**Maximum Duration** 6 rounds\n\n**Stage 1** 1d4 poison damage (1 round)\n\n**Stage 2** 1d4 poison damage and [[Conditions/Off-Guard|Off-Guard]] (1 round)\n\n**Stage 3** 1d4 poison damage, off-guard, and a –5-foot penalty to Speed (1 round)"
  
+```
+
+```encounter-table
+name: Tisbah (3-4)
+creatures:
+  - 1: Tisbah (3-4)
 ```
 
 

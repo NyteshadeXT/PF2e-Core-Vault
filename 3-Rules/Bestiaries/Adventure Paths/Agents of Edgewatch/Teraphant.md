@@ -6,6 +6,7 @@ cssClasses: pf2e
 aliases: "Compendium.pf2e.agents-of-edgewatch-bestiary.Actor.8jjEOs99Bmo1v0Qc" 
 tags:
   - pf2e/creature/type/beast
+  - pf2eMonster
   - pf2e/creature/level/9
 statblock: inline
 name: "Teraphant"
@@ -20,15 +21,15 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #158: Sixty Feet Under"
 name: "Teraphant"
 level: "Creature 9"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "huge"
-trait_01: "beast"
+trait_01: [[beast]]
 modifier: 18
 perception:
   - name: "Perception"
     desc: "+18; Low-Light Vision"
-languages: "Vudrani"
+languages: "Vudrani; (can&#x27;t speak any language)"
 skills:
   - name: "Skills"
     desc: "Athletics: +20, Intimidation: +18, Survival: +18"
@@ -53,7 +54,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Empathetic Response"
-    desc: "`pf2:r`  **Trigger** A creature within 60 feet of the teraphant is targeted by a spell or ability with the emotion trait\n**Effect** The teraphant also benefits from the spell or effect, as though it were an additional target for 1 minute or until the triggering spell or ability ends."
+    desc: "`pf2:r`  **Trigger** A creature within 60 feet of the teraphant is targeted by a spell or ability with the emotion trait\n* * *\n\n**Effect** The teraphant also benefits from the spell or effect, as though it were an additional target for 1 minute or until the triggering spell or ability ends."
 
 attacks:
   - name: ""
@@ -68,17 +69,23 @@ attacks:
     desc: "`pf2:1` Foot +20 (reach 10 feet)\n__Damage__  3d10 + 9 bludgeoning"
 
   - name: "Impale"
-    desc: "`pf2:2`  **Requirement** The teraphant has a creature grabbed\n**Effect** The teraphant slams the creature onto one of its horns. The target must attempt a DC 27 Reflex check save or suffer 3d6 + 9 piercing damage and 1d6 bleed (6d6 + 18 piercing damage on a critical failure)."
+    desc: "`pf2:2`  **Requirement** The teraphant has a creature grabbed\n* * *\n\n**Effect** The teraphant slams the creature onto one of its horns. The target must attempt a DC 27 Reflex check save or suffer 3d6+9 piercing damage and 1d6 bleed (6d6+18 piercing damage on a critical failure)."
 
   - name: "Psychokinetic Trumpet"
-    desc: "`pf2:2`  The teraphant lets out a loud trumpet that deals 8d8 mental damage (DC 27 Will check save) in a 30-foot cone. A creature that fails its save is also pushed 15 feet (30 feet on a critical failure).\nIf a pushed creatures strikes a solid barrier, it takes 3d6 bludgeoning damage and stops.\nThe teraphant can't use Psychokinetic Trumpet again for 1d4 rounds."
+    desc: "`pf2:2`  The teraphant lets out a loud trumpet that deals 8d8 mental damage (DC 27 Will check save) in a @Template[cone|distance:30]. A creature that fails its save is also pushed 15 feet (30 feet on a critical failure).\n\nIf a pushed creatures strikes a solid barrier, it takes 3d6 bludgeoning damage and stops.\n\nThe teraphant can't use Psychokinetic Trumpet again for 1d4 rounds."
 
   - name: "[[Bestiary Ability Glossary/Trample|Trample]]"
-    desc: "`pf2:3`  Large or smaller, foot, DC 27 Reflex check\n"
+    desc: "`pf2:3`  Large or smaller, foot, DC 27 Reflex check\n\n* * *\n"
 
   - name: "Grabbing Trunk"
     desc: "  A Medium or smaller creature hit by the teraphant's trunk is grabbed. If the teraphant moves, it can bring the grabbed creature along with it."
  
+```
+
+```encounter-table
+name: Teraphant
+creatures:
+  - 1: Teraphant
 ```
 
 

@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/plant
   - pf2e/creature/type/troop
   - pf2e/creature/type/wood
+  - pf2eMonster
   - pf2e/creature/level/8
   - remaster
 statblock: inline
@@ -27,10 +28,10 @@ level: "Creature 8"
 
 alignment: ""
 size: "grg"
-trait_01: "elemental"
-trait_02: "plant"
-trait_03: "troop"
-trait_04: "wood"
+trait_01: [[elemental]]
+trait_02: [[plant]]
+trait_03: [[troop]]
+trait_04: [[wood]]
 modifier: 17
 perception:
   - name: "Perception"
@@ -60,7 +61,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Juice Shower"
-    desc: "  When a harvest regiment is critically hit or critically fails a save against a damaging effect, sticky fruit juices splash out. This affects all creatures in a 5-foot emanation. A splashed creature takes a –10-foot status penalty to its Speeds and everything is [[Conditions/Concealed|Concealed]] to it. A creature can Interact to clear off the juice."
+    desc: "  When a harvest regiment is critically hit or critically fails a save against a damaging effect, sticky fruit juices splash out. This affects all creatures in a @Template[emanation|distance:5]. A splashed creature takes a –10-foot status penalty to its Speeds and everything is [[Conditions/Concealed|Concealed]] to it. A creature can Interact to clear off the juice."
 
 attacks:
   - name: ""
@@ -69,14 +70,20 @@ attacks:
     desc: "`pf2:1`  The troop raises fragments of their shells shaped like shields to gain a +2 circumstance bonus to AC until the start of their next turn."
 
   - name: "Seed Volley"
-    desc: "`pf2:2`  The harvest regiment spits an orderly volley of hard seeds drawn from within their bodies. This volley is a 10-foot burst within 120 feet that deals 3d10 bludgeoning damage (DC 23 Reflex check save). When the harvest regiment is reduced to 8 or fewer squares, this area decreases to a 5-foot burst."
+    desc: "`pf2:2`  The harvest regiment spits an orderly volley of hard seeds drawn from within their bodies. This volley is a @Template[burst|distance:10] within 120 feet that deals 3d10 bludgeoning damage (DC 23 Reflex check save). When the harvest regiment is reduced to 8 or fewer squares, this area decreases to a @Template[burst|distance:5]."
 
   - name: "Shell Smash"
-    desc: "`pf2:1`  `pf2:1` to `pf2:3`\n**Frequency** once per round;\n**Effect** The harvest regiment engages in a coordinated melee attack against each enemy within 5 feet, with a DC 23 Reflex check save. The damage depends on the number of actions.\n`pf2:1` 1d8 + 3 bludgeoning damage\n`pf2:2` 2d8 + 9 bludgeoning damage\n`pf2:3` 2d8 + 12 bludgeoning damage"
+    desc: "`pf2:1`  `pf2:1` to `pf2:3`\n\n**Frequency** once per round;\n* * *\n\n**Effect** The harvest regiment engages in a coordinated melee attack against each enemy within 5 feet, with a DC 23 Reflex check save. The damage depends on the number of actions.\n\n`pf2:1` 1d8+3 bludgeoning damage\n\n`pf2:2` 2d8+9 bludgeoning damage\n\n`pf2:3` 2d8+12 bludgeoning damage"
 
   - name: "Troop Movement"
     desc: "  Whenever the harvest regiment Strides, they first Form Up as a free action to condense into a 20-foot-by-20-foot area (minus any missing squares), then move up to their Speed. This works just like a Gargantuan creature moving."
  
+```
+
+```encounter-table
+name: Harvest Regiment
+creatures:
+  - 1: Harvest Regiment
 ```
 
 

@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.pfs-season-3-bestiary.Actor.ATBFj4El0uLXDrjb"
 tags:
   - pf2e/creature/type/elemental
   - pf2e/creature/type/fire
+  - pf2eMonster
   - pf2e/creature/level/3
 statblock: inline
 name: "Cinder Rat (Leadroar)"
@@ -24,12 +25,13 @@ level: "Creature 3"
 
 alignment: ""
 size: "Small"
-trait_01: "elemental"
-trait_02: "fire"
+trait_01: [[elemental]]
+trait_02: [[fire]]
 modifier: 9
 perception:
   - name: "Perception"
     desc: "+9; Darkvision"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Acrobatics: +10, Stealth: +10, Survival: +9"
@@ -62,6 +64,12 @@ attacks:
   - name: "Breath Weapon"
     desc: "`pf2:2` (fire,primal) The cinder rat breathes fire in a 15-foot cone that deals 4d6 fire damage (DC 19 Reflex check save). The cinder rat can't use Breath Weapon again for 1d4 rounds."
  
+```
+
+```encounter-table
+name: Cinder Rat (Leadroar)
+creatures:
+  - 1: Cinder Rat (Leadroar)
 ```
 
 

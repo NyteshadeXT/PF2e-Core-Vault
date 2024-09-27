@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/humanoid
   - pf2e/creature/type/lawful
   - pf2e/creature/type/orc
+  - pf2eMonster
   - pf2e/creature/level/8
 statblock: inline
 name: "Onyiji"
@@ -23,13 +24,13 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #171: Hurricane&#x27;s Howl"
 name: "Onyiji"
 level: "Creature 8"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Medium"
-trait_01: "human"
-trait_02: "humanoid"
-trait_03: "lawful"
-trait_04: "orc"
+trait_01: [[human]]
+trait_02: [[humanoid]]
+trait_03: [[lawful]]
+trait_04: [[orc]]
 modifier: 15
 perception:
   - name: "Perception"
@@ -60,7 +61,7 @@ abilities_mid:
     desc: "`pf2:r`  "
 
   - name: "Orc Superstition"
-    desc: "`pf2:r` (concentrate) **Trigger** Onyiji is about to make a saving throw against a spell or magical effect\n**Effect** Onyiji gains a +1 circumstance bonus to the triggering save."
+    desc: "`pf2:r` (concentrate) **Trigger** Onyiji is about to make a saving throw against a spell or magical effect\n* * *\n\n**Effect** Onyiji gains a +1 circumstance bonus to the triggering save."
 
 attacks:
   - name: ""
@@ -72,11 +73,17 @@ attacks:
     desc: "DC 26, attack +18; __1st __  _[[Spells/Shocking Grasp|Shocking Grasp]]_, _[[Spells/Sure Strike|True Strike]]_\n__Cantrips__  __(4th)__ _[[Spells/Detect Magic|Detect Magic]]_, _[[Spells/Produce Flame|Produce Flame]]_, _[[Spells/Ray of Frost|Ray of Frost]]_, _[[Spells/Shield|Shield]]_"
 
   - name: "Spellstrike"
-    desc: "`pf2:2`  **Frequency** twice per day\n**Effect** Onyiji casts a spell and couples it with a staff Strike. She casts [[Spells/Produce Flame|Produce Flame]], [[Spells/Ray of Frost|Ray of Frost]], or [[Spells/Shocking Grasp|Shocking Grasp]], but the effects don't occur immediately. She makes a melee Strike with her staff and uses the attack roll result as the effect of both the Strike and the spell.\nThis counts as two attacks towards her multiple attack penalty, but the penalties don't apply until after the Spellstrike."
+    desc: "`pf2:2`  **Frequency** twice per day\n* * *\n\n**Effect** Onyiji casts a spell and couples it with a staff Strike. She casts [[Spells/Produce Flame|Produce Flame]], [[Spells/Ray of Frost|Ray of Frost]], or [[Spells/Shocking Grasp|Shocking Grasp]], but the effects don't occur immediately. She makes a melee Strike with her staff and uses the attack roll result as the effect of both the Strike and the spell.\n\nThis counts as two attacks towards her multiple attack penalty, but the penalties don't apply until after the Spellstrike."
 
   - name: "Twisting Tree"
-    desc: "  When Onyiji wields a staff in one hand, it gains the agile trait and its damage die size increases to d6 (these adjustments are reflected in the Strike above). When she wields a staff in two hands, it gains the parry, reach, and trip traits.\nShe can Interact to Release or change her grip on her staff as a free action when she Strikes with the staff (including Strikes made in a Spellstrike)."
+    desc: "  When Onyiji wields a staff in one hand, it gains the agile trait and its damage die size increases to d6 (these adjustments are reflected in the Strike above). When she wields a staff in two hands, it gains the parry, reach, and trip traits.\n\nShe can Interact to Release or change her grip on her staff as a free action when she Strikes with the staff (including Strikes made in a Spellstrike)."
  
+```
+
+```encounter-table
+name: Onyiji
+creatures:
+  - 1: Onyiji
 ```
 
 

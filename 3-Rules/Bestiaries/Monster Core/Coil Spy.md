@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.pathfinder-monster-core.Actor.y2w2jjs2O3gP0H5v"
 tags:
   - pf2e/creature/type/humanoid
   - pf2e/creature/type/serpentfolk
+  - pf2eMonster
   - pf2e/creature/level/4
   - remaster
 statblock: inline
@@ -23,11 +24,11 @@ token: [[modules/pf2e-tokens-bestiaries/portraits/humanoid/darklands/coil-spy.we
 source: "Pathfinder Monster Core"
 name: "Coil Spy"
 level: "Creature 4"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Medium"
-trait_01: "humanoid"
-trait_02: "serpentfolk"
+trait_01: [[humanoid]]
+trait_02: [[serpentfolk]]
 modifier: 10
 perception:
   - name: "Perception"
@@ -82,11 +83,17 @@ attacks:
     desc: "  A Coil spy can maintain an ongoing [[Spells/Illusory Disguise|Illusory Disguise]] as long as they are conscious without having to re-cast the spell; they need only Cast the Spell again to reassume their _illusory disguise_ if they wish to change their appearance or if the active spell is dispelled.\n\nCoil spies typically seek privacy when they need to sleep, as an ongoing _illusory disguise_ ends an hour after they fall [[Conditions/Unconscious|Unconscious]]."
 
   - name: "Serpentfolk Venom"
-    desc: " (poison) **Saving Throw** DC 19 Fortitude check\n* * *\n\n**Maximum Duration** 6 rounds\n\n**Stage 1** 1d4 poison damage and [[Conditions/Enfeebled 1|Enfeebled 1]] (1 round)\n\n**Stage 2** 2d4 poison damage and enfeebled 1 (1 round)"
+    desc: " (poison) **Saving Throw** DC 19 Fortitude check\n* * *\n\n**Maximum Duration** 6 rounds\n\n**Stage 1** 1d4 poison damage and [[Conditions/Enfeebled|Enfeebled 1]] (1 round)\n\n**Stage 2** 2d4 poison damage and enfeebled 1 (1 round)"
 
   - name: "Sneak Attack"
     desc: "  The Coil spy's Strikes deal an extra 2d6 precision damage to [[Conditions/Off-Guard|Off-Guard]] creatures."
  
+```
+
+```encounter-table
+name: Coil Spy
+creatures:
+  - 1: Coil Spy
 ```
 
 

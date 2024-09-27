@@ -6,8 +6,9 @@ tags:
   - trait/archetype
   - trait/common
   - category/class
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.9KvsO72JJ3pfkG4U"
-license: OGL
+license: ORC
 ---
 # Hurling Charge `pf2:2`
 ## Feat 4
@@ -19,9 +20,11 @@ license: OGL
 
 **Prerequisites** Viking Dedication
 * * *
-You make a ranged Strikewith a thrown weapon you already have in your hand, Stride, and then [[Actions/Interact|Interact]] to draw another weapon.
+You make a ranged Strike with a thrown weapon you already have in your hand, Stride, and then [[Actions/Interact|Interact]] to draw another weapon.
 
-If you are [[Actions/Rage|Raging]], you can add the additional damage with melee weapons you receive from raging to your damage with the thrown weapon.
+* * *
 
-*Source: Pathfinder Advanced Player's Guide*
-*OGL*
+**Special** If you are [[Actions/Rage|Raging]], and end the Stride adjacent to an enemy, that enemy is [[Conditions/Off-Guard|Off-Guard]] against the next Strike you make against it with the weapon you drew before the end of your next turn.
+
+*Source: Pathfinder Player Core 2*
+*ORC*

@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/amphibious
   - pf2e/creature/type/beast
   - pf2e/creature/type/cold
+  - pf2eMonster
   - pf2e/creature/level/15
 statblock: inline
 name: "Umonlee"
@@ -23,12 +24,12 @@ token: [[modules/pf2e-tokens-bestiaries/portraits/elemental/water/umonlee.webp| 
 source: "Pathfinder Bestiary 2"
 name: "Umonlee"
 level: "Creature 15"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "huge"
-trait_01: "amphibious"
-trait_02: "beast"
-trait_03: "cold"
+trait_01: [[amphibious]]
+trait_02: [[beast]]
+trait_03: [[cold]]
 modifier: 25
 perception:
   - name: "Perception"
@@ -64,11 +65,17 @@ attacks:
     desc: "`pf2:1` Pincers +31 (agile, reach 15 feet)\n__Damage__  3d8 + 16 slashing plus improved-grab"
 
   - name: "Freezing Breath"
-    desc: "`pf2:2` (cold,incapacitation,primal) The umonlee breathes a cone of extremely cold air that damages its prey and can freeze them to the ground. Its breath deals 12d8 cold damage to creatures in the 50-foot cone (DC 38 Reflex check save).\nThe umonlee can't use Freezing Breath again for 1d4 rounds.\n**Critical Success** The creature is unaffected.\n**Success** The creature takes half damage and is [[Conditions/Slowed 1|Slowed 1]] for 1 round.\n**Failure** The creature takes full damage and is [[Conditions/Slowed 1|Slowed 1]] for 1 round. If the creature is standing on the ground, it's [[Conditions/Immobilized|Immobilized]] as thick ice forms around it, and it can't recover from being slowed. The creature remains immobilized and slowed 1 until it manages to [[Actions/Escape|Escape]] (DC 36) or deal 30 damage to the ice, which has weakness 10 to fire.\n**Critical Failure** As failure, except the creature takes double damage and the ice holding it in place requires 60 damage to break."
+    desc: "`pf2:2` (cold,incapacitation,primal) The umonlee breathes a cone of extremely cold air that damages its prey and can freeze them to the ground. Its breath deals 12d8 cold damage to creatures in the @Template[cone|distance:50] (DC 38 Reflex check save).\n\nThe umonlee can't use Freezing Breath again for 1d4 rounds.\n* * *\n\n**Critical Success** The creature is unaffected.\n\n**Success** The creature takes half damage and is [[Conditions/Slowed|Slowed 1]] for 1 round.\n\n**Failure** The creature takes full damage and is [[Conditions/Slowed|Slowed 1]] for 1 round. If the creature is standing on the ground, it's [[Conditions/Immobilized|Immobilized]] as thick ice forms around it, and it can't recover from being slowed. The creature remains immobilized and slowed 1 until it manages to [[Actions/Escape|Escape]] (DC 36) or deal 30 damage to the ice, which has weakness 10 to fire.\n\n**Critical Failure** As failure, except the creature takes double damage and the ice holding it in place requires 60 damage to break."
 
   - name: "[[Bestiary Ability Glossary/Greater Constrict|Greater Constrict]]"
-    desc: "`pf2:1`  2d10 + 8 bludgeoning damage, DC 36 Fortitude check\n"
+    desc: "`pf2:1`  2d10+8 bludgeoning damage, DC 36 Fortitude check\n\n* * *\n"
  
+```
+
+```encounter-table
+name: Umonlee
+creatures:
+  - 1: Umonlee
 ```
 
 

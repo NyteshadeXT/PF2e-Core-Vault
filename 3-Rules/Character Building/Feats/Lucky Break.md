@@ -6,8 +6,9 @@ tags:
   - trait/catfolk
   - trait/common
   - category/ancestry
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.lF5B49zbDG61sxXa"
-license: OGL
+license: ORC
 ---
 # Lucky Break
 ## Feat 5
@@ -19,9 +20,7 @@ license: OGL
 
 **Prerequisites** Cat's Luck
 * * *
-You catch yourself as you make a mistake. You can trigger [[Feats/Cat's Luck|Cat's Luck]] when you fail or critically fail on an Athletics or Acrobatics skill check, in addition to its normal trigger. When you do, you reroll the triggering skill check and use the better result.
+You are luckier even than most catfolk. You can trigger [[Feats/Cat's Luck|Cat's Luck]] when you fail or critically fail a Fortitude saving throw, Will saving throw, Acrobatics check, or Athletics check in addition to Reflex saving throws. You still can use Cat's Luck only once per day.
 
-This still counts against Cat's Luck's frequency, as normal.
-
-*Source: Pathfinder Lost Omens: Ancestry Guide*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

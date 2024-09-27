@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/incorporeal
   - pf2e/creature/type/undead
   - pf2e/creature/type/unholy
+  - pf2eMonster
   - pf2e/creature/level/4
   - remaster
 statblock: inline
@@ -20,15 +21,16 @@ license: ORC
 columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
+token: [[modules/pf2e-tokens-bestiaries/portraits/undead/ghostly/shadow.webp| ]]
 source: "Pathfinder Monster Core"
 name: "Shadow Spawn"
 level: "Creature 4"
 
 alignment: ""
 size: "Medium"
-trait_01: "incorporeal"
-trait_02: "undead"
-trait_03: "unholy"
+trait_01: [[incorporeal]]
+trait_02: [[undead]]
+trait_03: [[unholy]]
 modifier: 10
 perception:
   - name: "Perception"
@@ -36,7 +38,7 @@ perception:
 languages: "Necril"
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +10, Stealth: +14"
+    desc: "Acrobatics: +8, Stealth: +12"
 abilityMods: [-5, 4, 0, -2, 2, 3]
 speed:  fly 30 feet
 sourcebook: "_Pathfinder Monster Core_"
@@ -66,6 +68,12 @@ attacks:
   - name: "Slink in Shadows"
     desc: "  The shadow can [[Actions/Hide|Hide]] or end its [[Actions/Sneak|Sneak]] in a creature's or object's shadow."
  
+```
+
+```encounter-table
+name: Shadow Spawn
+creatures:
+  - 1: Shadow Spawn
 ```
 
 

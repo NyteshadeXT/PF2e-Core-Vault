@@ -4,8 +4,9 @@ title: "Effect: Crimson Shroud"
 cssclasses: pf2e,pf2e-spell
 tags:
   - trait/common
+  - remaster
 aliases: "Compendium.pf2e.feat-effects.Item.6YhbQmOmbmy84W1C"
-license: OGL
+license: ORC
 ---
 # Effect: Crimson Shroud
 ## Level 6
@@ -18,5 +19,5 @@ license: OGL
 
 Granted by [[Feats/Crimson Shroud|Crimson Shroud]].
 
-*Source: Pathfinder Lost Omens: World Guide*
-*OGL*
+*Source: Pathfinder Adventure: Prey for Death*
+*ORC*

@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/undead
   - pf2e/creature/type/unholy
+  - pf2eMonster
   - pf2e/creature/level/14
 statblock: inline
 name: "Starved Staff"
@@ -22,17 +23,17 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #154: Siege of the Dinosaurs"
 name: "Starved Staff"
 level: "Creature 14"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "huge"
-trait_01: "evil"
-trait_02: "undead"
-trait_03: "unholy"
+trait_01: [[evil]]
+trait_02: [[undead]]
+trait_03: [[unholy]]
 modifier: 26
 perception:
   - name: "Perception"
     desc: "+26; Darkvision"
-languages: "Common"
+languages: "Common; can&#x27;t speak any language"
 skills:
   - name: "Skills"
     desc: "Athletics: +29, Intimidation: +26"
@@ -66,17 +67,23 @@ attacks:
     desc: "`pf2:1` Claw +29 (agile, reach 15 feet)\n__Damage__  3d8 + 16 slashing"
 
   - name: "Breath Weapon"
-    desc: "`pf2:2` (divine) The gashadokuro breathes a spray of bone shards in a 30-foot cone. Each creature in the area takes 9d12 piercing damage (DC 36 Reflex check save).\nIt can't use Breath Weapon again for 1d4 rounds."
+    desc: "`pf2:2` (divine) The gashadokuro breathes a spray of bone shards in a @Template[cone|distance:30]. Each creature in the area takes 9d12 piercing damage (DC 36 Reflex check save).\n\nIt can't use Breath Weapon again for 1d4 rounds."
 
   - name: "Corpse Consumption"
     desc: " (divine) If the gashadokuro kills a creature with Swallow Whole, it immediately regains Hit Points equal to the swallowed creature's level. As long as the gashadokuro still exists, creatures consumed in this way can't be resurrected except by [[Spells/Wish|Wish]] or a similarly powerful effect."
 
   - name: "[[Bestiary Ability Glossary/Swallow Whole|Swallow Whole]]"
-    desc: "`pf2:1` (attack) Large, 3d10 bludgeoning, Rupture 26\n"
+    desc: "`pf2:1` (attack) Large, 3d10 bludgeoning, Rupture 26\n\n* * *\n"
 
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
     desc: "`pf2:1`  "
  
+```
+
+```encounter-table
+name: Starved Staff
+creatures:
+  - 1: Starved Staff
 ```
 
 

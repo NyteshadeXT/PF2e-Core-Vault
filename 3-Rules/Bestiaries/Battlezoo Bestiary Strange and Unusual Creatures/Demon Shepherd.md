@@ -10,6 +10,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/fiend
   - pf2e/creature/type/unholy
+  - pf2eMonster
   - pf2e/creature/level/10
 statblock: inline
 name: "Demon Shepherd"
@@ -25,22 +26,22 @@ token: [[modules/battlezoo-bestiary-su-pf2e/art/Portraits/demon-shepherd.webp| ]
 source: "Battlezoo Bestiary: Strange and Unusual"
 name: "Demon Shepherd"
 level: "Creature 10"
-rare_03: "Rare"
+rare_03: [[Rare]]
 alignment: ""
 size: "Medium"
-trait_01: "chaotic"
-trait_02: "demon"
-trait_03: "evil"
-trait_04: "fiend"
-trait_05: "unholy"
+trait_01: [[chaotic]]
+trait_02: [[demon]]
+trait_03: [[evil]]
+trait_04: [[fiend]]
+trait_05: [[unholy]]
 modifier: 21
 perception:
   - name: "Perception"
     desc: "+21; Darkvision"
-languages: "Chthonian, Draconic, Empyrean"
+languages: "Chthonian, Draconic, Empyrean; telepathy 100 feet"
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +17, Athletics: +19, Deception: +19, Intimidation: +22, Occultism: +19, Religion: +19, "
+    desc: "Acrobatics: +17, Athletics: +19, Deception: +19, Intimidation: +22, Occultism: +19, Religion: +19, Acrobatics: +17, Athletics: +19, Deception: +19, Intimidation: +22, Occultism: +19, Religion: +19"
 abilityMods: [7, 5, 7, 7, 7, 5]
 speed: 25 feet
 sourcebook: "_Battlezoo Bestiary: Strange and Unusual_"
@@ -81,14 +82,20 @@ attacks:
     desc: "_[[Spells/Demonic Pact|Abyssal Pact]]_"
 
   - name: "Call of the Shepherd"
-    desc: "`pf2:1` (divine,emotion,mental) The demon shepherd call its flock to fight more fiercely. All demon allies lower level than the demon shepherd in a 30-foot emanation become more ferocious, becoming Quickened for 1 round. They can use the additional action only to Stride or Strike."
+    desc: "`pf2:1` (divine,emotion,mental) The demon shepherd call its flock to fight more fiercely. All demon allies lower level than the demon shepherd in a 30-foot emanation become more ferocious, becoming [[undefined]] for 1 round. They can use the additional action only to Stride or Strike."
 
   - name: "Call to the Feast"
-    desc: "`pf2:2` (divine,emotion,fear,mental) With a blood-curling scream, the demon shepherd calls to feast upon the fear of terrified creatures. Every frightened creature in a 100-foot emanation takes 7d6 mental damage with a DC 29 Will check save. On a failure, they become Frightened 2, and on a critical failure they become Frightened 3."
+    desc: "`pf2:2` (divine,emotion,fear,mental) With a blood-curling scream, the demon shepherd calls to feast upon the fear of terrified creatures. Every frightened creature in a 100-foot emanation takes 7d6 mental damage with a DC 29 Will check save. On a failure, they become [[undefined]], and on a critical failure they become [[undefined]]."
 
   - name: "Reap the Crop"
-    desc: "`pf2:2` (divine,emotion,fear,mental,void) The demon shepherd makes a sweeping move with its scythe, creating a wave of negative energy that affects all creatures that aren't part of its flock. All creatures in a 30-foot cone take 7d6 void damage with a DC 29 Will check save. Creatures that fail the saving throw also become Frightened 2, or Frightened 3 on a critical failure. The demon shepherd can't Reap the Crop again for 1d4 rounds."
+    desc: "`pf2:2` (divine,emotion,fear,mental,void) The demon shepherd makes a sweeping move with its scythe, creating a wave of negative energy that affects all creatures that aren't part of its flock. All creatures in a 30-foot cone take 7d6 void damage with a DC 29 Will check save. Creatures that fail the saving throw also become [[undefined]], or [[undefined]] on a critical failure. The demon shepherd can't Reap the Crop again for 1d4 rounds."
  
+```
+
+```encounter-table
+name: Demon Shepherd
+creatures:
+  - 1: Demon Shepherd
 ```
 
 

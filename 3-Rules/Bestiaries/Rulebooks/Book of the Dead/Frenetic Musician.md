@@ -4,6 +4,7 @@ obsidianUIMode: preview
 noteType: pf2eHazard
 tags:
   - haunt
+  - pf2eHazard
 
 source: Pathfinder Book of the Dead
 aliases: "Compendium.pf2e.book-of-the-dead-bestiary.Actor.XuHQXwAGBdS1s2Kq" 
@@ -21,13 +22,13 @@ name: "Frenetic Musician"
 level: "Hazard 8"
 
 
-trait_01: "haunt"
+trait_01: [[haunt]]
 modifier: 18
 sourcebook: "_Pathfinder Book of the Dead_"
 ac: 10
 armorclass:
   - name: AC
-    desc: "10; __Fort__ +0, __Ref__ +0, __Will__ +0"
+    desc: "10; "
 hp: 10
 health:
   - name: ""
@@ -49,10 +50,16 @@ attacks:
   - name: ""
 
   - name: "Musical Assault"
-    desc: "`pf2:r` (auditory, occult, sonic) **Trigger** A creature touches the instrument\n**Effect** The musician's bone-shaking musical performance deals 4d10 + 22 sonic damage to creatures within 30 feet (DC 30 Will check)."
+    desc: "`pf2:r` (auditory, occult, sonic) **Trigger** A creature touches the instrument\n* * *\n\n**Effect** The musician's bone-shaking musical performance deals 4d10+22 sonic damage to creatures within 30 feet (DC 30 Will check)."
 
 
   - name: "Reset"
     desc: "1 hour"
+```
+
+```encounter-table
+name: Frenetic Musician
+creatures:
+  - 1: Frenetic Musician
 ```
 

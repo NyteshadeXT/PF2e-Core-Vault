@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.pathfinder-monster-core.Actor.KH1GkazaI59zftst"
 tags:
   - pf2e/creature/type/undead
   - pf2e/creature/type/unholy
+  - pf2eMonster
   - pf2e/creature/level/-1
   - remaster
 statblock: inline
@@ -26,8 +27,8 @@ level: "Creature -1"
 
 alignment: ""
 size: "tiny"
-trait_01: "undead"
-trait_02: "unholy"
+trait_01: [[undead]]
+trait_02: [[unholy]]
 modifier: 5
 perception:
   - name: "Perception"
@@ -65,6 +66,12 @@ attacks:
   - name: "Throat Grab"
     desc: "`pf2:1`  This ability functions as Grab, but the crawling hand grips the throat of a Medium or smaller creature. A creature [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]] this way has difficulty speaking and must spend an extra action to perform any action that requires speaking, including casting spells.\n* * *\n\n**Requirements** The monster's last action was a successful Strike that lists Grab in its damage entry, or the monster has a creature [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]]\n* * *\n\n**Effect** If used after a Strike, the monster attempts to [[Actions/Grapple|Grapple]] the creature using the body part it attacked with. This attempt neither applies nor counts toward the creature's multiple attack penalty.\n\nThe monster can instead use Grab and choose one creature it's grabbing or restraining with an appendage that has Grab to automatically extend that condition to the end of the monster's next turn."
  
+```
+
+```encounter-table
+name: Crawling Hand
+creatures:
+  - 1: Crawling Hand
 ```
 
 

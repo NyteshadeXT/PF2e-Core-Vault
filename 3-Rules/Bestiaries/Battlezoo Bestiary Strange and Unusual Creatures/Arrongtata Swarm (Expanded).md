@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/fey
   - pf2e/creature/type/spirit
   - pf2e/creature/type/swarm
+  - pf2eMonster
   - pf2e/creature/level/5
 statblock: inline
 name: "Arrongtata Swarm (Expanded)"
@@ -26,17 +27,17 @@ level: "Creature 5"
 
 alignment: ""
 size: "Large"
-trait_01: "fey"
-trait_02: "spirit"
-trait_03: "swarm"
+trait_01: [[fey]]
+trait_02: [[spirit]]
+trait_03: [[swarm]]
 modifier: 12
 perception:
   - name: "Perception"
     desc: "+12; Darkvision"
-languages: "Fey"
+languages: "Fey; speak with plants; telepathy 50 feet"
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +13, Athletics: +14, Nature: +13, Warfare Lore: +13, "
+    desc: "Acrobatics: +13, Athletics: +14, Nature: +13, Acrobatics: +13, Athletics: +14, Nature: +13, Warfare Lore: +13"
 abilityMods: [5, 4, 4, 2, 4, 1]
 speed: 20 feet
 sourcebook: "_Battlezoo Bestiary: Strange and Unusual_"
@@ -55,7 +56,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Expanded Formation"
-    desc: "`pf2:1`  The arrongtata use an action to spread out, taking a –2 circumstance penalty to AC and Reflex saves but increasing the swarm's size to Huge. The Expanded Formation remains in effect until the swarm uses another formation or exits Expanded Formation as a single action.\n[[Effects/Effect_ Expanded Formation|Effect: Expanded Formation]]"
+    desc: "`pf2:1`  The arrongtata use an action to spread out, taking a –2 circumstance penalty to AC and Reflex saves but increasing the swarm's size to Huge. The Expanded Formation remains in effect until the swarm uses another formation or exits Expanded Formation as a single action.\n\n[[Effects/Effect_ Expanded Formation|Effect: Expanded Formation]]"
 
 attacks:
   - name: ""
@@ -64,14 +65,20 @@ attacks:
     desc: "DC 22, attack +14\n__Constant__  __(4th)__ _[[Spells/Speak with Plants|Speak with Plants]]_"
 
   - name: "Dazing Glare"
-    desc: "`pf2:1` (mental,primal,visual) All of the eyes of the arrongtata swarm flash simultaneously at its surrounding enemies, forcing all enemies within 30 feet to attempt a DC 22 Will check save.\n**Critical Success** The creature is immune to Dazing Glare for 1 minute.\n**Success** The creature is unaffected.\n**Failure** The creature is Stupefied 1 for one round.\n**Critical Failure** The creature is Stupefied 2 for one round."
+    desc: "`pf2:1` (mental,primal,visual) All of the eyes of the arrongtata swarm flash simultaneously at its surrounding enemies, forcing all enemies within 30 feet to attempt a DC 22 Will check save.\n* * *\n\n**Critical Success** The creature is immune to Dazing Glare for 1 minute.\n\n**Success** The creature is unaffected.\n\n**Failure** The creature is [[undefined]] for one round.\n\n**Critical Failure** The creature is [[undefined]] for one round."
 
   - name: "Phalanx Attack"
     desc: "`pf2:1`  Each enemy in the swarm's space takes 2d10 piercing damage (DC 22 Reflex check save)."
 
   - name: "Spear Storm"
-    desc: "`pf2:2`  **Frequency** once per hour\n**Effect** The arrongtata swarm hurls a barrage of spears targeting its enemies' weak points in a 10-foot emanation. Enemies in this area take 6d6 piercing damage, with a DC 22 Reflex check save.\n**Critical Success** The creature is unaffected.\n**Success** The creature takes half damage.\n**Failure** The creature takes full damage and 1 bleed damage.\n**Critical Failure** The creature takes double damage and 1d4 persistent bleed damage."
+    desc: "`pf2:2`  **Frequency** once per hour\n* * *\n\n**Effect** The arrongtata swarm hurls a barrage of spears targeting its enemies' weak points in a 10-foot emanation. Enemies in this area take 6d6 piercing damage, with a DC 22 Reflex check save.\n* * *\n\n**Critical Success** The creature is unaffected.\n\n**Success** The creature takes half damage.\n\n**Failure** The creature takes full damage and 1 bleed damage.\n\n**Critical Failure** The creature takes double damage and 1d4 persistent bleed damage."
  
+```
+
+```encounter-table
+name: Arrongtata Swarm (Expanded)
+creatures:
+  - 1: Arrongtata Swarm (Expanded)
 ```
 
 

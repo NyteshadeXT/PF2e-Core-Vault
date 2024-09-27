@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/angel
   - pf2e/creature/type/celestial
   - pf2e/creature/type/holy
+  - pf2eMonster
   - pf2e/creature/level/14
   - remaster
 statblock: inline
@@ -27,9 +28,9 @@ level: "Creature 14"
 
 alignment: ""
 size: "Medium"
-trait_01: "angel"
-trait_02: "celestial"
-trait_03: "holy"
+trait_01: [[angel]]
+trait_02: [[celestial]]
+trait_03: [[holy]]
 modifier: 26
 perception:
   - name: "Perception"
@@ -75,8 +76,14 @@ attacks:
     desc: "_[[Spells/Angelic Messenger|Angelic Messenger]]_"
 
   - name: "Stunning Strike"
-    desc: "`pf2:1`  **Requirements** The tabellia hit a foe earlier this turn with a weapon Strike\n* * *\n\n**Effect** The tabellia makes a weapon Strike against the foe. On a success, the foe must also succeed at a DC 34 Fortitude check save or become [[Conditions/Stunned 1|Stunned 1]] (or [[Conditions/Stunned 1|Stunned 2]] on a critical failure)."
+    desc: "`pf2:1`  **Requirements** The tabellia hit a foe earlier this turn with a weapon Strike\n* * *\n\n**Effect** The tabellia makes a weapon Strike against the foe. On a success, the foe must also succeed at a DC 34 Fortitude check save or become [[Conditions/Stunned|Stunned 1]] (or [[Conditions/Stunned|Stunned 2]] on a critical failure)."
  
+```
+
+```encounter-table
+name: Tabellia
+creatures:
+  - 1: Tabellia
 ```
 
 

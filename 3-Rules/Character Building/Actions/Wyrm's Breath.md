@@ -12,7 +12,7 @@ license: OGL
 ---
 # Wyrm's Breath `pf2:0`
 
-### [[concentrate]][[eidolon]]
+### [[3-Rules/Rule References/Concentrate]][[eidolon]]
 
 **Category** offensive; 
 

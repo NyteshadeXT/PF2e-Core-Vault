@@ -11,6 +11,7 @@ tags:
   
 
 **Character Wealth**
+ 
 | **Level** | **Permanent Items** | **Currency** | **Lump Sum** |
 | --- | --- | --- | --- |
 | 1 | \- | 15 gp | 15 gp |

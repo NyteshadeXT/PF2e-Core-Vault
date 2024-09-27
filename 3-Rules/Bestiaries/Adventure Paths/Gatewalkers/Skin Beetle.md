@@ -6,6 +6,7 @@ cssClasses: pf2e
 aliases: "Compendium.pf2e.gatewalkers-bestiary.Actor.BlF4FiqivSuigBxy" 
 tags:
   - pf2e/creature/type/animal
+  - pf2eMonster
   - pf2e/creature/level/3
 statblock: inline
 name: "Skin Beetle"
@@ -20,14 +21,15 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #188: They Watched the Stars"
 name: "Skin Beetle"
 level: "Creature 3"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "tiny"
-trait_01: "animal"
+trait_01: [[animal]]
 modifier: 9
 perception:
   - name: "Perception"
     desc: "+9; Low-Light Vision"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Acrobatics: +10, Medicine: +9, Stealth: +10"
@@ -61,11 +63,17 @@ attacks:
     desc: "`pf2:1` Spit +13 (range 30 feet)\n__Damage__  1d6 + 4 acid plus anesthetic-saliva"
 
   - name: "Anesthetic Saliva"
-    desc: " (poison) A creature exposed to a skin beetle's saliva must succeed on a DC 19 Fortitude check save or become [[Conditions/Clumsy 1|Clumsy 1]] for 1 round."
+    desc: " (poison) A creature exposed to a skin beetle's saliva must succeed on a DC 19 Fortitude check save or become [[Conditions/Clumsy|Clumsy 1]] for 1 round."
 
   - name: "Harvest Flesh"
     desc: "`pf2:2`  The skin beetle makes a mandibles Strike against an animal or humanoid. If the Strike deals damage, the beetle tears of a large portion of flesh, dealing an additional 1d6 bleed."
  
+```
+
+```encounter-table
+name: Skin Beetle
+creatures:
+  - 1: Skin Beetle
 ```
 
 

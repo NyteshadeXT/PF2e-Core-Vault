@@ -29,9 +29,9 @@ This green-and-blue stalk is topped with a clump of small flowers resembling bro
 
 **Maximum Duration** 2 weeks
 
-**Stage 1** [[Conditions/Sickened 1|Sickened 1]], and the sickened condition can't go below 1 (1 day)
+**Stage 1** [[Conditions/Sickened|Sickened 1]], and the sickened condition can't go below 1 (1 day)
 
-**Stage 2** as stage 1, but also [[Conditions/Clumsy 1|Clumsy 1]] (1 day)
+**Stage 2** as stage 1, but also [[Conditions/Clumsy|Clumsy 1]] (1 day)
 
 *Source: Pathfinder #178: Punks in a Powder Keg*
 *OGL*

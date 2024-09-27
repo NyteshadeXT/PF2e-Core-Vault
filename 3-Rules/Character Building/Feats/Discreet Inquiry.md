@@ -7,8 +7,9 @@ tags:
   - trait/skill
   - trait/common
   - category/skill
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.uF0ATN2Zw1Q67ew2"
-license: OGL
+license: ORC
 ---
 # Discreet Inquiry
 ## Feat 2
@@ -26,5 +27,5 @@ When [[Actions/Gather Information|Gather Information]], you can hide the true su
 
 Anyone trying to Gather Information to determine if someone else was asking around about the topic in question must exceed your Deception DC or the normal DC to Gather Information about your inquiries, whichever is higher, or else they don't learn of your efforts.
 
-*Source: Pathfinder Advanced Player's Guide*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

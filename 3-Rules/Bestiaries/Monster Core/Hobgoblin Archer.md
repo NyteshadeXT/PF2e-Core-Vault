@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.pathfinder-monster-core.Actor.JwOlSrHk1pkAKMRn"
 tags:
   - pf2e/creature/type/hobgoblin
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/4
   - remaster
 statblock: inline
@@ -26,8 +27,8 @@ level: "Creature 4"
 
 alignment: ""
 size: "Medium"
-trait_01: "hobgoblin"
-trait_02: "humanoid"
+trait_01: [[hobgoblin]]
+trait_02: [[humanoid]]
 modifier: 10
 perception:
   - name: "Perception"
@@ -75,6 +76,12 @@ attacks:
   - name: "Running Reload"
     desc: "`pf2:1`  The archer Strides, Steps, or [[Actions/Sneak|Sneaks]], then Interacts to reload."
  
+```
+
+```encounter-table
+name: Hobgoblin Archer
+creatures:
+  - 1: Hobgoblin Archer
 ```
 
 

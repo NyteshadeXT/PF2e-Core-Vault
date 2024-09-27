@@ -14,7 +14,7 @@ license: OGL
 ---
 # Chronomancer Staff
 ## Item 17
-### [rare](rare "Rare Rarity Trait")[[magical]][[staff]][[two-hand-d8]]
+### [rare](rare.md "Rare Rarity Trait")[[3-Rules/Rule References/Magical]][[3-Rules/Character Building/Equipment/Staff]][[two-hand-d8]]
 
 |  |  |
 | -- | -- |
@@ -37,7 +37,7 @@ Clock faces and gears adorn the twisted iron shaft of a _chronomancer staff_, th
 *   **1st** [[Spells/Déjà Vu|Déjà Vu]], [[Spells/Synchronize|Synchronize]]
 *   **2nd** [[Spells/Loose Time's Arrow|Loose Time's Arrow]], [[Spells/Synchronize|Synchronize]]
 *   **3rd** [[Spells/Day's Weight|Day's Weight]], [[Spells/Haste|Haste]], [[Spells/Slow|Slow]], [[Spells/Time Jump|Time Jump]]
-*   **4th** [[Spells/Curse Of Lost Time|Curse Of Lost Time]]
+*   **4th** [[Spells/Curse of Lost Time|Curse of Lost Time]]
 *   **5th** [[Spells/Quicken Time|Quicken Time]], [[Spells/Rewinding Step|Rewinding Step]], [[Spells/Stagnate Time|Stagnate Time]]
 *   **6th** [[Spells/Cast into Time|Cast into Time]], [[Spells/Day's Weight|Day's Weight]]
 *   **7th** [[Spells/Time Beacon|Time Beacon]]

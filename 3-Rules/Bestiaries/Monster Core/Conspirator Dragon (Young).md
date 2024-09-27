@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.pathfinder-monster-core.Actor.DQbHmsmYuodcQ2KC"
 tags:
   - pf2e/creature/type/dragon
   - pf2e/creature/type/occult
+  - pf2eMonster
   - pf2e/creature/level/8
   - remaster
 statblock: inline
@@ -19,14 +20,15 @@ license: ORC
 columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
+token: [[modules/pf2e-tokens-monster-core/assets/portraits/dragon-conspirator-young.webp| ]]
 source: "Pathfinder Monster Core"
 name: "Conspirator Dragon (Young)"
 level: "Creature 8"
 
 alignment: ""
 size: "Large"
-trait_01: "dragon"
-trait_02: "occult"
+trait_01: [[dragon]]
+trait_02: [[occult]]
 modifier: 16
 perception:
   - name: "Perception"
@@ -34,7 +36,7 @@ perception:
 languages: "Common, Draconic, Shadowtongue; Telepathy 100 feet"
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +15, Athletics: +16, Deception: +18, Diplomacy: +18, Intimidation: +16, Lore (any one region or settlement): +16, Occultism: +16, Performance: +18, Society: +16, Stealth: +16"
+    desc: "Acrobatics: +15, Athletics: +16, Deception: +18, Diplomacy: +18, Intimidation: +16, Occultism: +16, Performance: +18, Society: +16, Stealth: +16, Lore (any one region or settlement): +16"
 abilityMods: [5, 3, 2, 2, 4, 4]
 speed: 30 feet,  climb 30 feet,  fly 120 feet
 sourcebook: "_Pathfinder Monster Core_"
@@ -77,7 +79,7 @@ attacks:
     desc: " (manipulate,occult,polymorph) **Frequency** once per day\n* * *\n\n**Effect** The dragon conjures a perfect flesh-suit replica of a humanoid they've seen of their size or smaller and compresses themself into it, along with generating appropriate clothing for the humanoid. This process takes 1 minute to complete, during which the dragon is [[Conditions/Off-Guard|Off-Guard]]. If the dragon stops or is interrupted in this process, the suit is destroyed. Once the process is complete, the dragon can remain in this disguise indefinitely.\n\nThe transformation has the effects of [[Bestiary Ability Glossary/Change Shape|Change Shape]], except that the disguise is not actively magical in nature and doesn't register as magical to detect magic and similar effects. The dragon loses Retract Body while transformed.\n\nIf the dragon is critically hit while wearing the disguise, the suit is destroyed and immediately explodes. This has the effects of Detonate Disguise, except that creatures use the outcome one degree of success better than they rolled on their save."
 
   - name: "Detonate Disguise"
-    desc: "`pf2:2` (occult) **Requirements** The dragon is wearing their conjured disguise\n* * *\n\n**Effect** The dragon erupts from the disguise, destroying it. The explosive revelation deals 9d6 bludgeoning damage to creatures in a 5-foot emanation with a DC 26 Reflex check save. A creature that fails its save is [[Conditions/Dazzled|Dazzled]] for 1 round as it becomes covered in scraps from the disguise.\n\nAny creature sharing a space with the dragon after they erupt is pushed into the nearest empty space."
+    desc: "`pf2:2` (occult) **Requirements** The dragon is wearing their conjured disguise\n* * *\n\n**Effect** The dragon erupts from the disguise, destroying it. The explosive revelation deals 9d6 bludgeoning damage to creatures in a @Template[emanation|distance:5] with a DC 26 Reflex check save. A creature that fails its save is [[Conditions/Dazzled|Dazzled]] for 1 round as it becomes covered in scraps from the disguise.\n\nAny creature sharing a space with the dragon after they erupt is pushed into the nearest empty space."
 
   - name: "Draconic Frenzy"
     desc: "`pf2:2`  The dragon makes two claw Strikes and one tail Strike in any order."
@@ -89,11 +91,17 @@ attacks:
     desc: "`pf2:3` (concentrate,manipulate,occult,polymorph) **Frequency** once per hour\n* * *\n\n**Effect** Using the aid of magic and an exhausting amount of effort, the dragon quickly reshapes their body into the form of a generic humanoid figure. This has the effects of [[Spells/Humanoid Form|Humanoid Form]] except that it lasts only 1 minute, and the dragon doesn't gain the +4 status bonus to Deception as the transformation makes use of the dragon's body to crudely mimic a humanoid form. The dragon can Dismiss the effect.\n\nWhenever the effect ends, the dragon leaves behind scraps of magically conjured flesh, which could give away the dragon's presence."
 
   - name: "Smoke Breath"
-    desc: "`pf2:2` (occult,poison) The dragon unleashes a noxious cloud of smoke that deals 7d6 poison damage in a 40-foot cone (DC 26 Fortitude check save). The smoke remains for 1 minute. This has the effects of [[Spells/Mist|Mist]], except it fills the cone's area.\n\nThe dragon can't use Smoke Breath again for 1d4 rounds."
+    desc: "`pf2:2` (occult,poison) The dragon unleashes a noxious cloud of smoke that deals 7d6 poison damage in a @Template[cone|distance:40] (DC 26 Fortitude check save). The smoke remains for 1 minute. This has the effects of [[Spells/Mist|Mist]], except it fills the cone's area.\n\nThe dragon can't use Smoke Breath again for 1d4 rounds."
 
   - name: "Sneak Attack"
     desc: "  The dragon's Strikes deal an additional 2d6 precision damage to [[Conditions/Off-Guard|Off-Guard]] targets."
  
+```
+
+```encounter-table
+name: Conspirator Dragon (Young)
+creatures:
+  - 1: Conspirator Dragon (Young)
 ```
 
 

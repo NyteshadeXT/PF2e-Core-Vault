@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/chaotic
   - pf2e/creature/type/fey
   - pf2e/creature/type/wild-hunt
+  - pf2eMonster
   - pf2e/creature/level/14
 statblock: inline
 name: "Wild Hunt Hound"
@@ -22,20 +23,20 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Kingmaker"
 name: "Wild Hunt Hound"
 level: "Creature 14"
-rare_03: "Rare"
+rare_03: [[Rare]]
 alignment: ""
 size: "Medium"
-trait_01: "chaotic"
-trait_02: "fey"
-trait_03: "wild-hunt"
+trait_01: [[chaotic]]
+trait_02: [[fey]]
+trait_03: [[wild-hunt]]
 modifier: 29
 perception:
   - name: "Perception"
     desc: "+29; Greater Darkvision, Scent (Imprecise) 30 Feet, See the Unseen"
-languages: "Common, Fey"
+languages: "Common, Fey; speak with animals; speak with plants"
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +24, Athletics: +29, Stealth: +26, Survival: +27 (+29 when Tracking)"
+    desc: "Acrobatics: +24, Athletics: +29, Stealth: +26, Survival: +27"
 abilityMods: [7, 4, 5, 1, 5, 4]
 speed: 50 feet
 sourcebook: "_Pathfinder Kingmaker_"
@@ -66,7 +67,7 @@ abilities_mid:
     desc: "  The wild hunt hound automatically achieves a critical success on saving throws against effects created by other allied wild hunt creatures."
 
   - name: "Wild Gaze"
-    desc: " (aura,fear,incapacitation,mental,primal,visual) 30 feet. Those who meet the gaze of a wild hunt hound come face-to-face with the hunt's fearful power and find it difficult to act in the face of such a legendary legacy. When a creature ends its turn in the aura, it must succeed at a DC 31 Will check save to resist becoming [[Conditions/Slowed 1|Slowed 1]] ([[Conditions/Slowed 1|Slowed 2]] on a critical failure). The wild hunt hound can deactivate or activate this aura by using a single action, which has the concentrate trait."
+    desc: " (aura,fear,incapacitation,mental,primal,visual) 30 feet. Those who meet the gaze of a wild hunt hound come face-to-face with the hunt's fearful power and find it difficult to act in the face of such a legendary legacy. When a creature ends its turn in the aura, it must succeed at a DC 31 Will check save to resist becoming [[Conditions/Slowed|Slowed 1]] ([[Conditions/Slowed|Slowed 2]] on a critical failure). The wild hunt hound can deactivate or activate this aura by using a single action, which has the concentrate trait."
 
 attacks:
   - name: ""
@@ -81,11 +82,17 @@ attacks:
     desc: "`pf2:1` (concentrate,fear,incapacitation,mental,primal,visual) The wild hunt hound fixes its glare at a creature it can see within 30 feet. The target must immediately attempt a Will save against the wild hunt hound's wild gaze. If the creature was already slowed by the wild gaze before attempting its save, a failed save causes it to be [[Conditions/Paralyzed|Paralyzed]] for 1 round. After attempting its save, the creature is temporarily immune to Focus Gaze from any wild hunt until the start of the wild hunt hound's next turn."
 
   - name: "Summon Pack"
-    desc: "`pf2:2` (aura,primal) **Frequency** once per day\n**Effect** With a howl, the wild hunt hound summons a fog that manifests into several misty hounds. These foggy hounds shift and race and howl in a 20-foot emanation [[Bestiary Ability Glossary/Aura|Aura]] as long as the wild hunt hound Sustains the effect. While the hounds seem to be made of fog, their teeth are very real, and any creature that ends its turn in this aura takes 6d6 piercing damage from numerous bites (DC 31 Reflex check)."
+    desc: "`pf2:2` (aura,primal) **Frequency** once per day\n\n**Effect** With a howl, the wild hunt hound summons a fog that manifests into several misty hounds. These foggy hounds shift and race and howl in a @Template[emanation|distance:20] [[Bestiary Ability Glossary/Aura|Aura]] as long as the wild hunt hound Sustains the effect. While the hounds seem to be made of fog, their teeth are very real, and any creature that ends its turn in this aura takes 6d6 piercing damage from numerous bites (DC 31 Reflex check)."
 
   - name: "[[Bestiary Ability Glossary/Knockdown|Knockdown]]"
     desc: "`pf2:1`  "
  
+```
+
+```encounter-table
+name: Wild Hunt Hound
+creatures:
+  - 1: Wild Hunt Hound
 ```
 
 

@@ -11,7 +11,7 @@ license: OGL
 ---
 # Book of Warding Prayers
 ## Item 8
-### [[divine]][[grimoire]]
+### [[3-Rules/Rule References/Divine]][[grimoire]]
 
 
 **Price** 425 gp; 

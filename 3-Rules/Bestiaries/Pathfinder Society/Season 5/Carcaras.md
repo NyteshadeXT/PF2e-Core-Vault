@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.pfs-season-5-bestiary.Actor.GJXz9twOPUjoCBsY"
 tags:
   - pf2e/creature/type/animal
   - pf2e/creature/type/electricity
+  - pf2eMonster
   - pf2e/creature/level/2
 statblock: inline
 name: "Carcaras"
@@ -21,18 +22,19 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Society Scenario #5-10: The Crocodile&#x27;s Smile"
 name: "Carcaras"
 level: "Creature 2"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Large"
-trait_01: "animal"
-trait_02: "electricity"
+trait_01: [[animal]]
+trait_02: [[electricity]]
 modifier: 7
 perception:
   - name: "Perception"
     desc: "+7; Low-Light Vision"
+languages: ""
 skills:
   - name: "Skills"
-    desc: "Athletics: +8, Stealth: +7 (+11 in water)"
+    desc: "Athletics: +8, Stealth: +7"
 abilityMods: [4, 1, 3, -5, 1, -4]
 speed: 20 feet,  swim 25 feet
 sourcebook: "_Pathfinder Society Scenario #5-10: The Crocodile&#x27;s Smile_"
@@ -66,14 +68,20 @@ attacks:
     desc: "`pf2:1` Tail +10 (agile)\n__Damage__  1d6 + 4 bludgeoning"
 
   - name: "[[Bestiary Ability Glossary/Aquatic Ambush|Aquatic Ambush]]"
-    desc: "`pf2:1`  35 feet\n"
+    desc: "`pf2:1`  35 feet\n\n* * *\n"
 
   - name: "Death Roll"
-    desc: "`pf2:1` (attack) **Requirements** The crocodile must have a creature [[Conditions/Grabbed|Grabbed]].\n**Effect** The crocodile tucks its legs and rolls rapidly, twisting its victim. It makes a jaws Strike with a +2 circumstance bonus to the attack roll against the grabbed creature. If it hits, it also knocks the creature [[Conditions/Prone|Prone]]. If it fails, it releases the creature."
+    desc: "`pf2:1` (attack) **Requirements** The crocodile must have a creature [[Conditions/Grabbed|Grabbed]].\n* * *\n\n**Effect** The crocodile tucks its legs and rolls rapidly, twisting its victim. It makes a jaws Strike with a +2 circumstance bonus to the attack roll against the grabbed creature. If it hits, it also knocks the creature [[Conditions/Prone|Prone]]. If it fails, it releases the creature."
 
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
     desc: "`pf2:1`  "
  
+```
+
+```encounter-table
+name: Carcaras
+creatures:
+  - 1: Carcaras
 ```
 
 

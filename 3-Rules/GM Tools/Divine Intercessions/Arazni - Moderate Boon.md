@@ -16,7 +16,7 @@ license: OGL
 
 
 
-**Moderate Boon:** Blood from your wounds forms into armor or a piece of equipment you need. If what you need most is information, the blood forms letters spelling out that information.
+Blood from your wounds forms into armor or a piece of equipment you need. If what you need most is information, the blood forms letters spelling out that information.
 
 *Source: Pathfinder Lost Omens: Gods & Magic*
 *OGL*

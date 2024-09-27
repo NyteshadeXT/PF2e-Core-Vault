@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/beast
   - pf2e/creature/type/good
   - pf2e/creature/type/lawful
+  - pf2eMonster
   - pf2e/creature/level/2
 statblock: inline
 name: "Blink Dog"
@@ -23,12 +24,12 @@ token: [[modules/pf2e-tokens-bestiaries/portraits/bestial/mythological/blink-dog
 source: "Pathfinder Bestiary 2"
 name: "Blink Dog"
 level: "Creature 2"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Medium"
-trait_01: "beast"
-trait_02: "good"
-trait_03: "lawful"
+trait_01: [[beast]]
+trait_02: [[good]]
+trait_03: [[lawful]]
 modifier: 8
 perception:
   - name: "Perception"
@@ -69,6 +70,12 @@ attacks:
   - name: "Pack Attack"
     desc: "  The blink dog's Strikes deal an additional 1d4 damage to creatures within the reach of at least two of the blink dog's allies."
  
+```
+
+```encounter-table
+name: Blink Dog
+creatures:
+  - 1: Blink Dog
 ```
 
 

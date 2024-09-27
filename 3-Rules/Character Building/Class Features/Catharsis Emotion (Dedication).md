@@ -10,7 +10,7 @@ license: OGL
 ---
 # Catharsis Emotion (Dedication)
 
-### [uncommon](uncommon "Uncommon Rarity Trait")
+### [uncommon](uncommon.md "Uncommon Rarity Trait")
 
 **Category** classfeature; 
 

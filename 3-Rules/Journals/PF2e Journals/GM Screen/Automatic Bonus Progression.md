@@ -15,6 +15,7 @@ Every character automatically gains the class features on the table below.
   
 
 **TABLE: AUTOMATIC BONUS PROGRESSION**
+ 
 | **Level** | **Benefits** |
 | --- | --- |
 | 1 | — |

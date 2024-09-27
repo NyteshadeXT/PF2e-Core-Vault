@@ -10,6 +10,7 @@ tags:
   - pf2e/creature/type/humanoid
   - pf2e/creature/type/lawful
   - pf2e/creature/type/sea-devil
+  - pf2eMonster
   - pf2e/creature/level/4
 statblock: inline
 name: "Sea Devil Impaler"
@@ -24,22 +25,22 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Society Scenario #2-06: The Crashing Wave"
 name: "Sea Devil Impaler"
 level: "Creature 4"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Medium"
-trait_01: "amphibious"
-trait_02: "evil"
-trait_03: "humanoid"
-trait_04: "lawful"
-trait_05: "sea-devil"
+trait_01: [[amphibious]]
+trait_02: [[evil]]
+trait_03: [[humanoid]]
+trait_04: [[lawful]]
+trait_05: [[sea-devil]]
 modifier: 7
 perception:
   - name: "Perception"
     desc: "+7; Darkvision, Wavesense (Imprecise) 30 Feet"
-languages: "Thalassic"
+languages: "Thalassic; shark commune 150 feet"
 skills:
   - name: "Skills"
-    desc: "Athletics: +12 (+15 to swim), Intimidation: +9, Survival: +9"
+    desc: "Athletics: +12, Intimidation: +9, Survival: +9"
 abilityMods: [4, 1, 3, 0, 1, 0]
 speed: 25 feet,  swim 35 feet
 sourcebook: "_Pathfinder Society Scenario #2-06: The Crashing Wave_"
@@ -77,13 +78,13 @@ attacks:
     desc: "`pf2:1` Barbed Trident +11 (thrown 20 ft.)\n__Damage__  1d8 + 6 piercing"
 
   - name: "Blood Frenzy"
-    desc: " (rage) **Requirements** The sea devil is not [[Conditions/Fatigued|Fatigued]] or already in a frenzy\n**Trigger** The sea devil deals bleed damage to a living creature.\n**Effect** The sea devil flies into a frenzy that lasts 1 minute. While frenzied, the sea devil gains a +1 status bonus to attack rolls with its claws and jaws, gains a +4 status bonus to damage rolls with its claws and jaws, gains 11 temporary HP until the end of the frenzy, and takes a -2 status penalty to AC. The sea devil can't voluntarily stop its frenzy. After its frenzy, the sea devil is [[Conditions/Fatigued|Fatigued]].\n[[Bestiary Effects/Effect_ Blood Frenzy|Effect: Blood Frenzy]]"
+    desc: " (rage) **Requirements** The sea devil is not [[Conditions/Fatigued|Fatigued]] or already in a frenzy\n\n**Trigger** The sea devil deals bleed damage to a living creature.\n* * *\n\n**Effect** The sea devil flies into a frenzy that lasts 1 minute. While frenzied, the sea devil gains a +1 status bonus to attack rolls with its claws and jaws, gains a +4 status bonus to damage rolls with its claws and jaws, gains 11 temporary HP until the end of the frenzy, and takes a -2 status penalty to AC. The sea devil can't voluntarily stop its frenzy. After its frenzy, the sea devil is [[Conditions/Fatigued|Fatigued]]."
 
   - name: "Bloodletting"
     desc: "  When the sea devil deals piercing or slashing damage, it also deals 1d4 bleed if the target was [[Conditions/Off-Guard|Off-Guard]] or if the attack was a critical hit."
 
   - name: "Reel In"
-    desc: "`pf2:1`  The sea devil impaler pulls the rope attached to their barbed trident 10 feet closer on a success (20 feet on a critical success).\nAthletics check vs. Fortitude DC."
+    desc: "`pf2:1`  The sea devil impaler pulls the rope attached to their barbed trident 10 feet closer on a success (20 feet on a critical success).\n\nAthletics check vs. Fortitude DC."
 
   - name: "Skewer"
     desc: "  When the sea devil hits with their barbed trident, the creature becomes skewered. The trident can be removed with an Interact action by succeeding at a DC 21 Athletics check check to pull it free."
@@ -91,6 +92,12 @@ attacks:
   - name: "Unimpeded Throw"
     desc: "  A sea devil impaler can use thrown ranged weapons underwater with no penalty due to range increment."
  
+```
+
+```encounter-table
+name: Sea Devil Impaler
+creatures:
+  - 1: Sea Devil Impaler
 ```
 
 

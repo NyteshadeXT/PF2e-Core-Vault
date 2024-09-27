@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.age-of-ashes-bestiary.Actor.X2edjYEqAHsdQc6L"
 tags:
   - pf2e/creature/type/grippli
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/5
 statblock: inline
 name: "Grippli Greenspeaker"
@@ -24,8 +25,8 @@ level: "Creature 5"
 
 alignment: ""
 size: "Small"
-trait_01: "grippli"
-trait_02: "humanoid"
+trait_01: [[grippli]]
+trait_02: [[humanoid]]
 modifier: 13
 perception:
   - name: "Perception"
@@ -70,6 +71,12 @@ attacks:
   - name: "Jungle Stride"
     desc: "  A grippli ignores difficult terrain in forests and jungles."
  
+```
+
+```encounter-table
+name: Grippli Greenspeaker
+creatures:
+  - 1: Grippli Greenspeaker
 ```
 
 

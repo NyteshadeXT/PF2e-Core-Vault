@@ -10,6 +10,7 @@ tags:
   - pf2e/creature/type/fiend
   - pf2e/creature/type/lawful
   - pf2e/creature/type/unholy
+  - pf2eMonster
   - pf2e/creature/level/12
 statblock: inline
 name: "Ferrugon"
@@ -24,19 +25,19 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #190: The Choosing"
 name: "Ferrugon"
 level: "Creature 12"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Medium"
-trait_01: "devil"
-trait_02: "evil"
-trait_03: "fiend"
-trait_04: "lawful"
-trait_05: "unholy"
+trait_01: [[devil]]
+trait_02: [[evil]]
+trait_03: [[fiend]]
+trait_04: [[lawful]]
+trait_05: [[unholy]]
 modifier: 22
 perception:
   - name: "Perception"
     desc: "+22; Greater Darkvision"
-languages: "Common, Diabolic, Draconic, Empyrean, Petran"
+languages: "Common, Diabolic, Draconic, Empyrean, Petran; telepathy 100 feet"
 skills:
   - name: "Skills"
     desc: "Athletics: +25, Crafting: +22, Deception: +21, Intimidation: +23, Religion: +22, Stealth: +23, Thievery: +25"
@@ -61,7 +62,7 @@ abilities_mid:
     desc: "  A ferrugon is a metallic creature and thus affected by effects such as [[Spells/Rusting Grasp|Rusting Grasp]]."
 
   - name: "Vainglorious Whispers"
-    desc: "`pf2:r` (divine,linguistic,mental) **Trigger** A non-devil creature within 30 feet of the ferrugon succeeds (but doesn't critically succeed) at an attack roll, skill check, or saving throw\n**Effect** The ferrugon whispers subversive messages to the triggering creature, causing it to become overly confident in its abilities, while in fact it becomes less accomplished overall. The target must attempt a DC 32 Will check save. On a failure, the target gains a +2 status bonus to saving throws against fear effects but also takes a –2 penalty to all attack rolls and skill checks for 1 hour. During this time, the victim can't benefit from [[Actions/Aid|Aid]] reactions, use healing effects on themselves, or use [[Actions/Take Cover|Take Cover]] or Raise a Shield actions, as these actions seem unnecessary to the creature at this time. Similar defensive actions might not be available to the victim as well, at the GM's discretion. The target is then temporarily immune to Vainglorious Whispers for 24 hours."
+    desc: "`pf2:r` (divine,linguistic,mental) **Trigger** A non-devil creature within 30 feet of the ferrugon succeeds (but doesn't critically succeed) at an attack roll, skill check, or saving throw\n* * *\n\n**Effect** The ferrugon whispers subversive messages to the triggering creature, causing it to become overly confident in its abilities, while in fact it becomes less accomplished overall. The target must attempt a DC 32 Will check save. On a failure, the target gains a +2 status bonus to saving throws against fear effects but also takes a –2 penalty to all attack rolls and skill checks for 1 hour. During this time, the victim can't benefit from [[Actions/Aid|Aid]] reactions, use healing effects on themselves, or use [[Actions/Take Cover|Take Cover]] or Raise a Shield actions, as these actions seem unnecessary to the creature at this time. Similar defensive actions might not be available to the victim as well, at the GM's discretion. The target is then temporarily immune to Vainglorious Whispers for 24 hours."
 
 attacks:
   - name: ""
@@ -82,11 +83,17 @@ attacks:
     desc: "_[[Spells/Diabolic Pact|Infernal Pact]]_"
 
   - name: "Ferrugon Tetanus"
-    desc: " (disease) **Saving Throw** DC 32 Fortitude check\n**Onset** 1d4 days\n**Stage 1** [[Conditions/Clumsy 1|Clumsy 1]] (1 week)\n**Stage 2** [[Conditions/Clumsy 1|Clumsy 2]] and can't speak (1 day)\n**Stage 3** [[Conditions/Paralyzed|Paralyzed]] (1 day)\n**Stage 4** death"
+    desc: " (disease) **Saving Throw** DC 32 Fortitude check\n\n**Onset** 1d4 days\n\n**Stage 1** [[Conditions/Clumsy|Clumsy 1]] (1 week)\n\n**Stage 2** [[Conditions/Clumsy|Clumsy 2]] and can't speak (1 day)\n\n**Stage 3** [[Conditions/Paralyzed|Paralyzed]] (1 day)\n\n**Stage 4** death"
 
   - name: "Sunder Objects"
     desc: "  When a ferrugon damages an item or structure, they deal an additional 2d8 damage to that item or structure."
  
+```
+
+```encounter-table
+name: Ferrugon
+creatures:
+  - 1: Ferrugon
 ```
 
 

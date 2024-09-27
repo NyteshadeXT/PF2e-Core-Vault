@@ -16,14 +16,14 @@ license: OGL
 ---
 # Tidal Hands `pf2:2`
 ## Feat 1
-### [[impulse]][[kineticist]][[overflow]][[primal]][[3-Rules/Rule References/Water]]
+### [[impulse]][[kineticist]][[overflow]][[primal]][[water]]
 
 **Category** class; 
 
 
 
 
-With an emphatic gesture, you create waves that rush out from you in the shape of your hands. You either form two 15-foot cones that don't overlap or you combine the hands into one 30-foot cone. Each creature in a wave takes 1d8 bludgeoning damage with a Reflex check save against your class DC. If a creature critically fails, you also push that creature 5 feet.
+With an emphatic gesture, you create waves that rush out from you in the shape of your hands. You either form two @Template\[cone|distance:15\]s that don't overlap or you combine the hands into one @Template\[cone|distance:30\]. Each creature in a wave takes 1d8 bludgeoning damage with a Reflex check save against your class DC. If a creature critically fails, you also push that creature 5 feet.
 
 * * *
 

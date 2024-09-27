@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/humanoid
   - pf2e/creature/type/lawful
   - pf2e/creature/type/ratfolk
+  - pf2eMonster
   - pf2e/creature/level/2
 statblock: inline
 name: "Kekker"
@@ -23,13 +24,13 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #157: Devil at the Dreaming Palace"
 name: "Kekker"
 level: "Creature 2"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Small"
-trait_01: "evil"
-trait_02: "humanoid"
-trait_03: "lawful"
-trait_04: "ratfolk"
+trait_01: [[evil]]
+trait_02: [[humanoid]]
+trait_03: [[lawful]]
+trait_04: [[ratfolk]]
 modifier: 9
 perception:
   - name: "Perception"
@@ -75,11 +76,17 @@ attacks:
     desc: "  Kekker has trained extensively with the katar blade. Any katar he wields gains the finesse trait."
 
   - name: "Quick Stow"
-    desc: "  **Frequency** once per round.\n**Effect** Kekker stores one held item of light or negligible Bulk in his cheek pouches."
+    desc: "  **Frequency** once per round.\n* * *\n\n**Effect** Kekker stores one held item of light or negligible Bulk in his cheek pouches."
 
   - name: "Swarming"
-    desc: "  A ratfolk can end its movement in the same square as an ally that also has this ability.\nOnly two such creatures can share the same space."
+    desc: "  A ratfolk can end its movement in the same square as an ally that also has this ability.\n\nOnly two such creatures can share the same space."
  
+```
+
+```encounter-table
+name: Kekker
+creatures:
+  - 1: Kekker
 ```
 
 

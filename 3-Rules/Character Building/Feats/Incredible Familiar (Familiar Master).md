@@ -6,8 +6,9 @@ tags:
   - trait/archetype
   - trait/common
   - category/class
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.KcNXoSvULnuQjC9a"
-license: OGL
+license: ORC
 ---
 # Incredible Familiar (Familiar Master)
 ## Feat 10
@@ -17,9 +18,9 @@ license: OGL
 
 
 
-**Prerequisites** Enhanced Familiar
+**Prerequisites** Familiar Master Dedication; Enhanced Familiar
 * * *
 Your familiar is infused with even more magic than other familiars. You can select six familiar or master abilities each day, instead of four.
 
-*Source: Pathfinder Advanced Player's Guide*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.npc-gallery.Actor.WTCFE1BYdZGWJHh7"
 tags:
   - pf2e/creature/type/human
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/1
 statblock: inline
 name: "Gravedigger"
@@ -24,8 +25,8 @@ level: "Creature 1"
 
 alignment: ""
 size: "Medium"
-trait_01: "human"
-trait_02: "humanoid"
+trait_01: [[human]]
+trait_02: [[humanoid]]
 modifier: 6
 perception:
   - name: "Perception"
@@ -33,7 +34,7 @@ perception:
 languages: "Common"
 skills:
   - name: "Skills"
-    desc: "Athletics: +7, Graveyard Lore: +4, Religion: +4, Stealth: +4"
+    desc: "Athletics: +7, Religion: +4, Stealth: +4, Graveyard Lore: +4"
 abilityMods: [4, 1, 3, 0, 2, 0]
 speed: 25 feet
 sourcebook: "_Pathfinder Gamemastery Guide_"
@@ -59,8 +60,14 @@ attacks:
     desc: "`pf2:1` Shovel +9 ()\n__Damage__  1d4 + 4 bludgeoning"
 
   - name: "Light in the Dark"
-    desc: "`pf2:2` (concentrate,divine,manipulate) **Requirements** The gravedigger holds a [[Equipment/Lantern (Bull's Eye)|Lantern (Bull's Eye)]] in one hand and their [[Equipment/Religious Symbol (Wooden)|Religious Symbol]] in the other, and the lantern contains [[Equipment/Oil (1 pint)|Oil]]\n**Effect** The gravedigger recites a brief chant to ignite their lantern with vitality energy. Each undead creature in a 15-foot line takes 3d6 vitality damage (DC 14 Fortitude check save). This action uses all remaining [[Equipment/Oil (1 pint)|Oil]] in the [[Equipment/Lantern (Bull's Eye)|Lantern (Bull's Eye)]]."
+    desc: "`pf2:2` (concentrate,divine,manipulate) **Requirements** The gravedigger holds a [[Equipment/Lantern (Bull's Eye)|Lantern (Bull's Eye)]] in one hand and their [[Equipment/Religious Symbol (Wooden)|Religious Symbol]] in the other, and the lantern contains [[Equipment/Oil (1 pint)|Oil]]\n* * *\n\n**Effect** The gravedigger recites a brief chant to ignite their lantern with vitality energy. Each undead creature in a @Template[line|distance:15] takes 3d6 vitality damage (DC 14 Fortitude check save). This action uses all remaining [[Equipment/Oil (1 pint)|Oil]] in the [[Equipment/Lantern (Bull's Eye)|Lantern (Bull's Eye)]]."
  
+```
+
+```encounter-table
+name: Gravedigger
+creatures:
+  - 1: Gravedigger
 ```
 
 

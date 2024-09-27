@@ -10,6 +10,7 @@ tags:
   - pf2e/creature/type/undead
   - pf2e/creature/type/unholy
   - pf2e/creature/type/zombie
+  - pf2eMonster
   - pf2e/creature/level/6
 statblock: inline
 name: "Zombie Hulk"
@@ -28,15 +29,16 @@ level: "Creature 6"
 
 alignment: ""
 size: "huge"
-trait_01: "evil"
-trait_02: "mindless"
-trait_03: "undead"
-trait_04: "unholy"
-trait_05: "zombie"
+trait_01: [[evil]]
+trait_02: [[mindless]]
+trait_03: [[undead]]
+trait_04: [[unholy]]
+trait_05: [[zombie]]
 modifier: 8
 perception:
   - name: "Perception"
     desc: "+8; Darkvision"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Athletics: +18"
@@ -78,6 +80,12 @@ attacks:
   - name: "Wide Swing"
     desc: "`pf2:1`  The zombie hulk makes a hunk of meat Strike and compares the attack roll result to the AC of up to two foes, each of whom must be within the Strike's reach. This attack counts as two attacks for the zombie hulk's multiple attack penalty."
  
+```
+
+```encounter-table
+name: Zombie Hulk
+creatures:
+  - 1: Zombie Hulk
 ```
 
 

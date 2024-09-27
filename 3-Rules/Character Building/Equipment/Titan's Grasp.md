@@ -33,7 +33,7 @@ When you invest the gloves, you either increase your Strength score by 2 or incr
 
 * * *
 
-**Effect** You clap the gauntlets together with a thunderous crack that deals 6d10 sonic damage in a 30-foot emanation. Each creature in the area must attempt a DC 35 Fortitude check save.
+**Effect** You clap the gauntlets together with a thunderous crack that deals 6d10 sonic damage in a @Template\[emanation|distance:30\]. Each creature in the area must attempt a DC 35 Fortitude check save.
 
 * * *
 
@@ -43,7 +43,7 @@ When you invest the gloves, you either increase your Strength score by 2 or incr
 
 **Failure** The creature takes full damage and is [[Conditions/Deafened|Deafened]] for 1 round.
 
-**Critical Failure** The creature takes double damage, is deafened for 1 minute, and is [[Conditions/Stunned 1|Stunned 1]].
+**Critical Failure** The creature takes double damage, is deafened for 1 minute, and is [[Conditions/Stunned|Stunned 1]].
 
 *Source: Pathfinder Secrets of Magic*
 *OGL*

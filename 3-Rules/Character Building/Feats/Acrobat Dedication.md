@@ -7,8 +7,9 @@ tags:
   - trait/dedication
   - trait/common
   - category/class
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.aFygWxgSv82WyCsl"
-license: OGL
+license: ORC
 ---
 # Acrobat Dedication
 ## Feat 2
@@ -20,11 +21,9 @@ license: OGL
 
 **Prerequisites** trained in Acrobatics
 * * *
-You become an expert in Acrobatics. At 7th level, you become a master in Acrobatics, and at 15th level, you become legendary in Acrobatics.
+You become an expert in Acrobatics. At 7th level, you become a master in Acrobatics, and at 15th level, you become legendary in Acrobatics. Whenever you critically succeed at an Acrobatics check to [[Actions/Tumble Through|Tumble Through]] an enemy's space, you don't treat the enemy's space as difficult terrain.
 
-Whenever you critically succeed at an Acrobatics check to [[Actions/Tumble Through|Tumble Through]] an enemy's space, you don't treat the enemy's space as difficult terrain.
+[[PF2e Journals/Archetypes/Acrobat|Acrobat]]
 
-**Special** You can't select another dedication feat until you have gained two other feats from the [[PF2e Journals/Archetypes/Acrobat|Acrobat]] archetype.
-
-*Source: Pathfinder Advanced Player's Guide*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

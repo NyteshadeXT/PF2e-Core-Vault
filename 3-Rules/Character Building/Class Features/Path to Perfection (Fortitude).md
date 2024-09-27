@@ -11,7 +11,7 @@ license: OGL
 ---
 # Path to Perfection (Fortitude)
 ## Feat 7
-### [[monk]]
+### [[3-Rules/trait_reference/monk]]
 
 **Category** classfeature; 
 

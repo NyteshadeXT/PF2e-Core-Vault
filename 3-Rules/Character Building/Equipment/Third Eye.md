@@ -23,7 +23,7 @@ When invested, this ornate crown and its incandescent gemstone meld into your he
 
 You continuously see magic auras, as a 9th-rank [[Spells/Detect Magic|Detect Magic]] spell, except you see the location of all auras within 30 feet, not just the strongest. If you use a Seek action to study a creature you can see, you can perceive an aura that conveys knowledge of that creature's health, including all conditions and afflictions it has and an approximate percentage of its remaining Hit Points.
 
-**Activate-Truesight** `pf2:2` (concentrate)
+**Activate—Truesight** `pf2:2` (concentrate)
 
 **Frequency** once per day
 

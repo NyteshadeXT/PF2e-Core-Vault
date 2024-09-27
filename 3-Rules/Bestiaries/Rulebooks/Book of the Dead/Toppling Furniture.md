@@ -4,6 +4,7 @@ obsidianUIMode: preview
 noteType: pf2eHazard
 tags:
   - haunt
+  - pf2eHazard
 
 source: Pathfinder Book of the Dead
 aliases: "Compendium.pf2e.book-of-the-dead-bestiary.Actor.I2XdTFyxnnRdmWsi" 
@@ -21,13 +22,13 @@ name: "Toppling Furniture"
 level: "Hazard 2"
 
 
-trait_01: "haunt"
+trait_01: [[haunt]]
 modifier: 8
 sourcebook: "_Pathfinder Book of the Dead_"
 ac: 10
 armorclass:
   - name: AC
-    desc: "10; __Fort__ +0, __Ref__ +0, __Will__ +0"
+    desc: "10; "
 hp: 10
 health:
   - name: ""
@@ -49,10 +50,16 @@ attacks:
   - name: ""
 
   - name: "Topple Furniture"
-    desc: "`pf2:r` **Trigger** A creature moves adjacent to the furniture\n**Effect** The spirit shoves the furniture over in an attempt to crush the triggering creature. The triggering creature takes 2d10 + 7 bludgeoning damage (DC 22 Reflex check). On a failure, the creature is additionally knocked [[Conditions/Prone|Prone]]."
+    desc: "`pf2:r` **Trigger** A creature moves adjacent to the furniture\n* * *\n\n**Effect** The spirit shoves the furniture over in an attempt to crush the triggering creature. The triggering creature takes 2d10+7 bludgeoning damage (DC 22 Reflex check). On a failure, the creature is additionally knocked [[Conditions/Prone|Prone]]."
 
 
   - name: "Reset"
     desc: "If the haunt successfully damages a creature with Topple Furniture, the spirit laughs for 1d4 rounds as the haunt resets; each subsequent time the haunt activates, it must topple a different piece of upright furniture. If the haunt fails to damage a creature, the spirit wails in frustration and resets after pouting for 1d4 hours."
+```
+
+```encounter-table
+name: Toppling Furniture
+creatures:
+  - 1: Toppling Furniture
 ```
 

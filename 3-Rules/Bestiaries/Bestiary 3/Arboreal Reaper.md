@@ -6,6 +6,7 @@ cssClasses: pf2e
 aliases: "Compendium.pf2e.pathfinder-bestiary-3.Actor.dniiLeUhXaq5CElX" 
 tags:
   - pf2e/creature/type/plant
+  - pf2eMonster
   - pf2e/creature/level/7
 statblock: inline
 name: "Arboreal Reaper"
@@ -24,7 +25,7 @@ level: "Creature 7"
 
 alignment: ""
 size: "Large"
-trait_01: "plant"
+trait_01: [[plant]]
 modifier: 15
 perception:
   - name: "Perception"
@@ -32,7 +33,7 @@ perception:
 languages: "Arboreal, Common, Fey"
 skills:
   - name: "Skills"
-    desc: "Athletics: +17, Intimidation: +17, Nature: +15, Stealth: +14 (+18 in forests)"
+    desc: "Athletics: +17, Intimidation: +17, Nature: +15, Stealth: +14"
 abilityMods: [6, 2, 4, 2, 2, 4]
 speed: 25 feet
 sourcebook: "_Pathfinder Bestiary 3_"
@@ -69,11 +70,17 @@ attacks:
     desc: "DC 22, attack +14; __3rd __  _[[Spells/Vampiric Feast|Vampiric Touch]]_\n__Constant__  __(4th)__ _[[Spells/Speak with Plants|Speak with Plants]]_"
 
   - name: "Leech Moisture"
-    desc: "`pf2:2`  The arboreal reaper grows still and focuses intently on a single foe within 50 feet, draining moisture from the target's body. This deals 10d6 void damage (DC 25 Fortitude check save).\nThe arboreal reaper can't Leech Moisture again for 1d4 rounds."
+    desc: "`pf2:2`  The arboreal reaper grows still and focuses intently on a single foe within 50 feet, draining moisture from the target's body. This deals 10d6 void damage (DC 25 Fortitude check save).\n\nThe arboreal reaper can't Leech Moisture again for 1d4 rounds."
 
   - name: "[[Bestiary Ability Glossary/Knockdown|Knockdown]]"
     desc: "`pf2:1`  "
  
+```
+
+```encounter-table
+name: Arboreal Reaper
+creatures:
+  - 1: Arboreal Reaper
 ```
 
 

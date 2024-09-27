@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/siktempora
   - pf2e/creature/type/time
+  - pf2eMonster
   - pf2e/creature/level/18
 statblock: inline
 name: "Hatred Siktempora"
@@ -23,20 +24,20 @@ token: [[modules/pf2e-tokens-bestiaries/portraits/planar/time/hatred-siktempora.
 source: "Pathfinder Bestiary 3"
 name: "Hatred Siktempora"
 level: "Creature 18"
-rare_03: "Rare"
+rare_03: [[Rare]]
 alignment: ""
 size: "Medium"
-trait_01: "evil"
-trait_02: "siktempora"
-trait_03: "time"
+trait_01: [[evil]]
+trait_02: [[siktempora]]
+trait_03: [[time]]
 modifier: 33
 perception:
   - name: "Perception"
     desc: "+33; Darkvision"
-languages: "Aklo"
+languages: "Aklo; (can&#x27;t speak any language), telepathy 500 feet"
 skills:
   - name: "Skills"
-    desc: "Athletics: +35, Deception: +32, Dimension of Time Lore: +32, Intimidation: +32, Stealth: +32"
+    desc: "Athletics: +35, Deception: +32, Intimidation: +32, Stealth: +32, Dimension of Time Lore: +32"
 abilityMods: [9, 6, 4, 4, 7, 6]
 speed: 80 feet
 sourcebook: "_Pathfinder Bestiary 3_"
@@ -58,13 +59,13 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Impending Dread"
-    desc: " (aura,emotion,fear,mental,occult) 150 feet. Creatures within the hatred siktempora's aura don't reduce the value of their [[Conditions/Frightened 1|Frightened]] condition automatically at the end of their turns."
+    desc: " (aura,emotion,fear,mental,occult) 150 feet. Creatures within the hatred siktempora's aura don't reduce the value of their [[Conditions/Frightened|Frightened]] condition automatically at the end of their turns."
 
   - name: "Punish Flight"
-    desc: "`pf2:r`  **Trigger** A creature attempts to [[Actions/Escape|Escape]] from the hatred siktempora\n**Effect** The siktempora makes a loathing garotte Strike against the triggering creature. This Strike doesn't have Improved Grab."
+    desc: "`pf2:r`  **Trigger** A creature attempts to [[Actions/Escape|Escape]] from the hatred siktempora\n* * *\n\n**Effect** The siktempora makes a loathing garotte Strike against the triggering creature. This Strike doesn't have Improved Grab."
 
   - name: "Uncanny Pounce"
-    desc: "`pf2:0`  **Trigger** The hatred siktempora rolls Dimension of Time Lore for initiative\n**Effect** The hatred siktempora Strides once and makes a claw Strike, in either order."
+    desc: "`pf2:0`  **Trigger** The hatred siktempora rolls Dimension of Time Lore for initiative\n* * *\n\n**Effect** The hatred siktempora Strides once and makes a claw Strike, in either order."
 
 attacks:
   - name: ""
@@ -79,8 +80,14 @@ attacks:
     desc: "  The hatred siktempora can have up to two creatures [[Conditions/Grabbed|Grabbed]] with their loathing garotte at once."
 
   - name: "Vindictive Crush"
-    desc: "`pf2:1`  **Frequency** once per round\n**Requirements** The hatred siktempora has a creature [[Conditions/Grabbed|Grabbed]]\n**Effect** The hatred siktempora tightens their garrote, dealing 5d10 bludgeoning damage to each creature they're Grabbing. Each creature grabbed by the siktempora must attempt a DC 40 Fortitude check save.\n**Critical Success** The creature takes no damage.\n**Success** The creature takes half damage.\n**Failure** The creature takes full damage and can't breathe or speak while it remains grabbed; it must hold its breath or begin suffocating.\n**Critical Failure** As failure, but double damage and the creature becomes [[Conditions/Restrained|Restrained]] and can't speak for 1 round after it's no longer grabbed."
+    desc: "`pf2:1`  **Frequency** once per round\n\n**Requirements** The hatred siktempora has a creature [[Conditions/Grabbed|Grabbed]]\n* * *\n\n**Effect** The hatred siktempora tightens their garrote, dealing 5d10 bludgeoning damage to each creature they're Grabbing. Each creature grabbed by the siktempora must attempt a DC 40 Fortitude check save.\n* * *\n\n**Critical Success** The creature takes no damage.\n\n**Success** The creature takes half damage.\n\n**Failure** The creature takes full damage and can't breathe or speak while it remains grabbed; it must hold its breath or begin suffocating.\n\n**Critical Failure** As failure, but double damage and the creature becomes [[Conditions/Restrained|Restrained]] and can't speak for 1 round after it's no longer grabbed."
  
+```
+
+```encounter-table
+name: Hatred Siktempora
+creatures:
+  - 1: Hatred Siktempora
 ```
 
 

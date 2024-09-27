@@ -12,7 +12,7 @@ license: ORC
 ---
 # Combat Flexibility
 ## Feat 9
-### [[fighter]]
+### [[3-Rules/trait_reference/fighter]]
 
 **Category** classfeature; 
 

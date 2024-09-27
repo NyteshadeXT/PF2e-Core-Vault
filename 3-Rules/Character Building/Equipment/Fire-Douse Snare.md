@@ -14,7 +14,7 @@ license: OGL
 ---
 # Fire-Douse Snare
 ## Item 4
-### [rare](rare "Rare Rarity Trait")[[consumable]][[mechanical]][[snare]][[trap]]
+### [rare](rare.md "Rare Rarity Trait")[[consumable]][[mechanical]][[snare]][[trap]]
 
 **Category** snare; 
 **Price** 15 gp; 

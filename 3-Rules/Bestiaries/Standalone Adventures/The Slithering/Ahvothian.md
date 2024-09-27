@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/fiend
   - pf2e/creature/type/unholy
+  - pf2eMonster
   - pf2e/creature/level/7
 statblock: inline
 name: "Ahvothian"
@@ -23,21 +24,21 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Adventure: The Slithering"
 name: "Ahvothian"
 level: "Creature 7"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Medium"
-trait_01: "chaotic"
-trait_02: "evil"
-trait_03: "fiend"
-trait_04: "unholy"
+trait_01: [[chaotic]]
+trait_02: [[evil]]
+trait_03: [[fiend]]
+trait_04: [[unholy]]
 modifier: 18
 perception:
   - name: "Perception"
     desc: "+18; Darkvision"
-languages: "Chthonian, Common"
+languages: "Chthonian, Common; speak with animals"
 skills:
   - name: "Skills"
-    desc: "Athletics: +19, Crafting: +11, Intimidation: +15 (+17 against humanoids), Religion: +11, Survival: +17"
+    desc: "Athletics: +19, Crafting: +11, Intimidation: +15, Religion: +11, Survival: +17"
 abilityMods: [6, 2, 4, 0, 4, 2]
 speed: 30 feet
 sourcebook: "_Pathfinder Adventure: The Slithering_"
@@ -78,8 +79,14 @@ attacks:
     desc: "  When an ahvothian uses an innate spell against a reptile, the DC is 27 rather than 23."
 
   - name: "Wicked Trophies"
-    desc: "  An ahvothian chooses a creature type (such as animal, celestial, or humanoid) from which they currently carry a trophy from a past kill.\nTheir weapon Strikes against creatures of that type deal an additional 1d10 damage and they gain a +2 status bonus on Intimidation checks against creatures of that type.\nThe ahvothian doesn't lose these bonuses if they lose the trophies. Once per day, an ahvothian can change the creature type of their wicked trophies in a ritual that takes 1 hour.\nNearly all ahvothians encountered on the Material Plane have selected humanoids as the focus of their wicked trophies."
+    desc: "  An ahvothian chooses a creature type (such as animal, celestial, or humanoid) from which they currently carry a trophy from a past kill.\n\nTheir weapon Strikes against creatures of that type deal an additional 1d10 damage and they gain a +2 status bonus on Intimidation checks against creatures of that type.\n\nThe ahvothian doesn't lose these bonuses if they lose the trophies. Once per day, an ahvothian can change the creature type of their wicked trophies in a ritual that takes 1 hour.\n\nNearly all ahvothians encountered on the Material Plane have selected humanoids as the focus of their wicked trophies."
  
+```
+
+```encounter-table
+name: Ahvothian
+creatures:
+  - 1: Ahvothian
 ```
 
 

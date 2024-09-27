@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/skeleton
   - pf2e/creature/type/undead
   - pf2e/creature/type/unholy
+  - pf2eMonster
   - pf2e/creature/level/5
 statblock: inline
 name: "Skeletal Mage"
@@ -26,10 +27,10 @@ level: "Creature 5"
 
 alignment: ""
 size: "Medium"
-trait_01: "evil"
-trait_02: "skeleton"
-trait_03: "undead"
-trait_04: "unholy"
+trait_01: [[evil]]
+trait_02: [[skeleton]]
+trait_03: [[undead]]
+trait_04: [[unholy]]
 modifier: 12
 perception:
   - name: "Perception"
@@ -76,6 +77,12 @@ attacks:
   - name: "Widen Spell"
     desc: "`pf2:1`  The skeleton mage causes the next spell they cast to affect a wider area. If the next action they use is to Cast a Spell that has an area of a burst, cone, or line and does not have a duration, increase the area of that spell. Add 5 feet to the radius of a burst that normally has a radius of at least 10 feet (a burst with a smaller radius is not affected). Add 5 feet to the length of a cone or line that is normally 15 feet or smaller, and add 10 feet to the length of a larger cone or line."
  
+```
+
+```encounter-table
+name: Skeletal Mage
+creatures:
+  - 1: Skeletal Mage
 ```
 
 

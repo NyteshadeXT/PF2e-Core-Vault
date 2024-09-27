@@ -5,12 +5,12 @@ noteType: pf2eMonster
 cssClasses: pf2e
 aliases: "Compendium.pf2e.sky-kings-tomb-bestiary.Actor.y2avI1GGn9DAKo86" 
 tags:
-  - pf2e/creature/type/agathion
   - pf2e/creature/type/dwarf
   - pf2e/creature/type/evil
   - pf2e/creature/type/hryngar
   - pf2e/creature/type/humanoid
   - pf2e/creature/type/lawful
+  - pf2eMonster
   - pf2e/creature/level/6
 statblock: inline
 name: "Hryngar Forgepriest"
@@ -28,12 +28,11 @@ level: "Creature 6"
 
 alignment: ""
 size: "Medium"
-trait_01: "agathion"
-trait_02: "dwarf"
-trait_03: "evil"
-trait_04: "hryngar"
-trait_05: "humanoid"
-trait_06: "lawful"
+trait_01: [[dwarf]]
+trait_02: [[evil]]
+trait_03: [[hryngar]]
+trait_04: [[humanoid]]
+trait_05: [[lawful]]
 modifier: 13
 perception:
   - name: "Perception"
@@ -61,7 +60,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Toil is Strength"
-    desc: "`pf2:r` (misfortune) **Trigger** A creature within 30 feet would succeed at a save against a spell or ability that causes the [[Conditions/Immobilized|Immobilized]] condition\n**Effect** The target must reroll the triggering saving throw and use the worse result."
+    desc: "`pf2:r` (misfortune) **Trigger** A creature within 30 feet would succeed at a save against a spell or ability that causes the [[Conditions/Immobilized|Immobilized]] condition\n* * *\n\n**Effect** The target must reroll the triggering saving throw and use the worse result."
 
 attacks:
   - name: ""
@@ -83,9 +82,15 @@ attacks:
  
 ```
 
+```encounter-table
+name: Hryngar Forgepriest
+creatures:
+  - 1: Hryngar Forgepriest
+```
 
 
-Abandoned by their cousins, the surface dwarves, hryngars were saved by Droskar, who taught them to work hard and give no quarter. Now, that hardness is the sword and shield by which the hryngar rule their kingdoms. The forgepriests proselytize Droskar’s teachings and punish heretics for any defiance.
+
+Abandoned by their cousins, the surface dwarves, hryngars were saved by Droskar, who taught them to work hard and give no quarter. Now, that hardness is the sword and shield by which the hryngar rule their kingdoms. The forgepriests proselytize Droskar's teachings and punish heretics for any defiance.
 
 * * *
 

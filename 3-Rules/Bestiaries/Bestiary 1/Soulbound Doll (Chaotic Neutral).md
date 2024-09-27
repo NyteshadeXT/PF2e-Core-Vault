@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/chaotic
   - pf2e/creature/type/construct
   - pf2e/creature/type/soulbound
+  - pf2eMonster
   - pf2e/creature/level/2
 statblock: inline
 name: "Soulbound Doll (Chaotic Neutral)"
@@ -26,13 +27,14 @@ level: "Creature 2"
 
 alignment: ""
 size: "tiny"
-trait_01: "chaotic"
-trait_02: "construct"
-trait_03: "soulbound"
+trait_01: [[chaotic]]
+trait_02: [[construct]]
+trait_03: [[soulbound]]
 modifier: 8
 perception:
   - name: "Perception"
     desc: "+8; Darkvision"
+languages: "one spoken by its creator (typically common)"
 skills:
   - name: "Skills"
     desc: "Acrobatics: +8, Occultism: +4, Stealth: +8"
@@ -65,6 +67,12 @@ attacks:
   - name: "Occult Innate Spells"
     desc: "DC 18, attack +8; __3rd __  _[[Spells/Grease|Grease]]_, _[[Spells/Levitate|Levitate]]_\n__Cantrips__  __(1st)__ _[[Spells/Light|Light]]_, _[[Spells/Telekinetic Hand|Mage Hand]]_, _[[Spells/Prestidigitation|Prestidigitation]]_"
  
+```
+
+```encounter-table
+name: Soulbound Doll (Chaotic Neutral)
+creatures:
+  - 1: Soulbound Doll (Chaotic Neutral)
 ```
 
 

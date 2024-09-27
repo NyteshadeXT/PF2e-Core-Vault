@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/chaotic
   - pf2e/creature/type/fiend
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/10
 statblock: inline
 name: "Amalgamess"
@@ -24,13 +25,13 @@ token: [[modules/battlezoo-bestiary-su-pf2e/art/Portraits/amalgamess.webp| ]]
 source: "Battlezoo Bestiary: Strange and Unusual"
 name: "Amalgamess"
 level: "Creature 10"
-rare_03: "Rare"
+rare_03: [[Rare]]
 alignment: ""
 size: "Medium"
-trait_01: "aberration"
-trait_02: "chaotic"
-trait_03: "fiend"
-trait_04: "humanoid"
+trait_01: [[aberration]]
+trait_02: [[chaotic]]
+trait_03: [[fiend]]
+trait_04: [[humanoid]]
 modifier: 15
 perception:
   - name: "Perception"
@@ -38,7 +39,7 @@ perception:
 languages: "Chthonian, Common, Diabolic, Draconic, Empyrean"
 skills:
   - name: "Skills"
-    desc: "Arcana: +16, Athletics: +22, Intimidation: +22, "
+    desc: "Arcana: +16, Athletics: +22, Intimidation: +22, Arcana: +16, Athletics: +22, Intimidation: +22"
 abilityMods: [5, -4, 5, 4, -1, 5]
 speed: 15 feet
 sourcebook: "_Battlezoo Bestiary: Strange and Unusual_"
@@ -57,13 +58,13 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Banishment Restoration"
-    desc: "  _Banishment_ can end an amalgamess's tragic state. Despite its willingness to have the spell cast on it, due to its dual wills, the amalgamess instinctively tries to resist being banished. If the banishment is successful, the original summoner is returned to normal, albeit with the possibility of some lingering eccentricities. If the spell fails, however, the attempt is likely to enrage the amalgamess and throw it into a violent frenzy."
+    desc: "  _[[Spells/Banishment|Banishment]]_ can end an amalgamess's tragic state. Despite its willingness to have the spell cast on it, due to its dual wills, the amalgamess instinctively tries to resist being banished. If the banishment is successful, the original summoner is returned to normal, albeit with the possibility of some lingering eccentricities. If the spell fails, however, the attempt is likely to enrage the amalgamess and throw it into a violent frenzy."
 
   - name: "Defensive Scramble"
-    desc: "`pf2:r`  **Trigger** The amalgamess is the target of an attack or must attempt a Reflex save\n**Effect** The amalgamess gains a +2 circumstance bonus to AC and Reflex saves against the triggering effect, and then Strides. The amalgamess can't use Defensive Scramble again until it uses Endangering Lunge."
+    desc: "`pf2:r`  **Trigger** The amalgamess is the target of an attack or must attempt a Reflex save\n* * *\n\n**Effect** The amalgamess gains a +2 circumstance bonus to AC and Reflex saves against the triggering effect, and then Strides. The amalgamess can't use Defensive Scramble again until it uses Endangering Lunge."
 
   - name: "Endangering Lunge"
-    desc: "`pf2:r`  **Trigger** A creature within the amalgamess's reach makes a Strike against it,\n**Effect** the amalgamess takes a –2 circumstance penalty to its AC against the triggering Strike and then makes a claw Strike against the attacking creature. The amalgamess can't use Endangering Lunge again until it uses Defensive Scramble."
+    desc: "`pf2:r`  **Trigger** A creature within the amalgamess's reach makes a Strike against it,\n* * *\n\n**Effect** the amalgamess takes a –2 circumstance penalty to its AC against the triggering Strike and then makes a claw Strike against the attacking creature. The amalgamess can't use Endangering Lunge again until it uses Defensive Scramble."
 
 attacks:
   - name: ""
@@ -83,6 +84,12 @@ attacks:
   - name: "Writhing Crawl"
     desc: "`pf2:1`  The amalgamess Strides up to twice, gaining a +2 circumstance bonus to AC and Reflex saves against reactions triggered by this movement. The amalgamess can't use Writhing Crawl again until it uses Somatic Flailing."
  
+```
+
+```encounter-table
+name: Amalgamess
+creatures:
+  - 1: Amalgamess
 ```
 
 

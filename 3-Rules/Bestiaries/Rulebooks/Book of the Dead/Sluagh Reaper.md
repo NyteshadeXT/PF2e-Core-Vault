@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/fey
   - pf2e/creature/type/undead
   - pf2e/creature/type/unholy
+  - pf2eMonster
   - pf2e/creature/level/10
 statblock: inline
 name: "Sluagh Reaper"
@@ -23,13 +24,13 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Book of the Dead"
 name: "Sluagh Reaper"
 level: "Creature 10"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Medium"
-trait_01: "evil"
-trait_02: "fey"
-trait_03: "undead"
-trait_04: "unholy"
+trait_01: [[evil]]
+trait_02: [[fey]]
+trait_03: [[undead]]
+trait_04: [[unholy]]
 modifier: 21
 perception:
   - name: "Perception"
@@ -56,10 +57,10 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "[[Bestiary Ability Glossary/Frightful Presence|Frightful Presence]]"
-    desc: " (aura,emotion,fear,mental) 30 feet. DC 26 Will check\n"
+    desc: " (aura,emotion,fear,mental) 30 feet. DC 26 Will check\n\n* * *\n"
 
   - name: "Soulscent (Imprecise) 100 feet"
-    desc: " (occult) The sluagh is aware of all [[Conditions/Doomed 1|Doomed]] creatures, [[Conditions/Dying 1|Dying]] creatures, and creatures that died within the last hour within the listed range."
+    desc: " (occult) The sluagh is aware of all [[Conditions/Doomed|Doomed]] creatures, [[Conditions/Dying|Dying]] creatures, and creatures that died within the last hour within the listed range."
 
 attacks:
   - name: ""
@@ -68,17 +69,23 @@ attacks:
     desc: "`pf2:1` Claw +23 (agile, magical)\n__Damage__  3d6 + 9 slashing"
 
   - name: "Primal Innate Spells"
-    desc: "DC 26, attack +16"
+    desc: "DC 26, attack +16; __2nd __ (1 slots) _[[Spells/Invisibility|Invisibility]]_\n__Cantrips__  __(5th)__ _[[Spells/Ghost Sound|Ghost Sound]]_"
 
   - name: "Ghostly Swoop"
-    desc: "`pf2:1`  The sluagh reaper becomes incorporeal until the start of their next turn, and Flies up to their fly Speed. While incorporeal, they are immune to precision damage, and have resistance 10 to all damage (except force, ghost touch, or vitality); this resistance is doubled against non-magical damage.\nAfter using Ghostly Swoop, the sluagh reaper can't use it again for 1d4 rounds."
+    desc: "`pf2:1`  The sluagh reaper becomes incorporeal until the start of their next turn, and Flies up to their fly Speed. While incorporeal, they are immune to precision damage, and have resistance 10 to all damage (except force, ghost touch, or vitality); this resistance is doubled against non-magical damage.\n\nAfter using Ghostly Swoop, the sluagh reaper can't use it again for 1d4 rounds."
 
   - name: "[[Bestiary Ability Glossary/Sneak Attack|Sneak Attack]]"
     desc: "  The sluagh reaper deals an additional 3d6 precision damage to [[Conditions/Off-Guard|Off-Guard]] creatures."
 
   - name: "Steal Soul"
-    desc: "`pf2:2` (occult) The sluagh reaper touches a dying creature or a creature that died within the past 1 hour. If the target is a dying creature, it must attempt a DC 28 Fortitude check save-on a failure, its dying value increases by 1 (2 on a critical failure). If the target is dead, it receives no save and the sluagh imprisons its soul in a small, grimy sack that keeps stolen souls fresh.\nThe sack is magically locked. Any sluagh can open it without difficulty, but any others must [[Actions/Pick a Lock|Pick the Lock]] (DC 35 Thievery check) or use [[Spells/Dispel Magic|Dispel Magic]] (5th level; counteract DC 32). A creature can Interact to empty an unlocked sack, which frees the souls but doesn't return them to life. While a soul is imprisoned, it can't be brought back to life by any means short of a [[Spells/Wish|Wish]] or [[Spells/Miracle|Miracle]]. The sack can hold 12 souls at a time. Sluagh reapers typically attempt to return the souls to a queen so she can devour them."
+    desc: "`pf2:2` (occult) The sluagh reaper touches a dying creature or a creature that died within the past 1 hour. If the target is a dying creature, it must attempt a DC 28 Fortitude check save-on a failure, its dying value increases by 1 (2 on a critical failure). If the target is dead, it receives no save and the sluagh imprisons its soul in a small, grimy sack that keeps stolen souls fresh.\n\nThe sack is magically locked. Any sluagh can open it without difficulty, but any others must [[Actions/Pick a Lock|Pick the Lock]] (DC 35 Thievery check) or use [[Spells/Dispel Magic|Dispel Magic]] (5th level; counteract DC 32). A creature can Interact to empty an unlocked sack, which frees the souls but doesn't return them to life. While a soul is imprisoned, it can't be brought back to life by any means short of a [[Spells/Wish|Wish]] or [[Spells/Miracle|Miracle]]. The sack can hold 12 souls at a time. Sluagh reapers typically attempt to return the souls to a queen so she can devour them."
  
+```
+
+```encounter-table
+name: Sluagh Reaper
+creatures:
+  - 1: Sluagh Reaper
 ```
 
 

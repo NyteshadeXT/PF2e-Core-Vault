@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.fists-of-the-ruby-phoenix-bestiary.Actor.gGDWBzon2T2mr
 tags:
   - pf2e/creature/type/gnoll
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/13
 statblock: inline
 name: "Hummingbird"
@@ -21,11 +22,11 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #167: Ready? Fight!"
 name: "Hummingbird"
 level: "Creature 13"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Medium"
-trait_01: "gnoll"
-trait_02: "humanoid"
+trait_01: [[gnoll]]
+trait_02: [[humanoid]]
 modifier: 27
 perception:
   - name: "Perception"
@@ -62,11 +63,17 @@ attacks:
     desc: "DC 35, attack +27; __7th __  _[[Spells/Unfettered Pack|Unfettered Pack]]_; __6th __  _[[Spells/Cursed Metamorphosis|Baleful Polymorph]]_, _[[Spells/Petrify|Flesh to Stone]]_; __5th __  _[[Spells/Black Tentacles|Black Tentacles]]_, _[[Spells/Elemental Form|Elemental Form]]_, _[[Spells/Moon Frenzy|Moon Frenzy]]_, _[[Spells/Truespeech|Tongues]]_; __4th __  _[[Spells/Fly|Fly]]_; __3rd __  _[[Spells/Haste|Haste]]_, _[[Spells/Slow|Slow]]_; __2nd __  _[[Spells/Oaken Resilience|Barkskin]]_, _[[Spells/Enlarge|Enlarge]]_, _[[Spells/Revealing Light|Glitterdust]]_, _[[Spells/Invisibility|Invisibility]]_; __1st __  _[[Spells/Fear|Fear]]_, _[[Spells/Fleet Step|Fleet Step]]_, _[[Spells/Heal|Heal]]_, _[[Spells/Jump|Jump]]_, _[[Spells/Tailwind|Longstrider]]_, _[[Spells/Sure Strike|True Strike]]_, _[[Spells/Phantasmal Minion|Unseen Servant]]_\n__Cantrips__  __(7th)__ _[[Spells/Detect Magic|Detect Magic]]_, _[[Spells/Electric Arc|Electric Arc]]_, _[[Spells/Light|Light]]_, _[[Spells/Produce Flame|Produce Flame]]_, _[[Spells/Shield|Shield]]_"
 
   - name: "[[Bestiary Ability Glossary/Change Shape|Change Shape]]"
-    desc: "`pf2:1` (concentrate,polymorph,primal) The transmuter becomes a Medium air elemental or returns to her gnoll form. As an elemental, she has a fly Speed of 60 feet, her movement doesn't trigger reactions, and the only Strike she can make is an agile gust Strike (which deals 3d8 + 5 bludgeoning damage plus [[Bestiary Ability Glossary/Knockdown|Knockdown]]). She can't cast spells in this form.\n"
+    desc: "`pf2:1` (concentrate,polymorph,primal) The transmuter becomes a Medium air elemental or returns to her gnoll form. As an elemental, she has a fly Speed of 60 feet, her movement doesn't trigger reactions, and the only Strike she can make is an agile gust Strike (which deals 3d8+5 bludgeoning damage plus [[Bestiary Ability Glossary/Knockdown|Knockdown]]). She can't cast spells in this form.\n\n* * *\n"
 
   - name: "Drain Bonded Item"
-    desc: " (arcane) **Frequency** once per day\n**Requirements** The transmuter hasn't acted yet on this turn\n**Effect** During this turn, the transmuter can cast one prepared spell she has already cast, without spending a spell slot."
+    desc: " (arcane) **Frequency** once per day\n\n**Requirements** The transmuter hasn't acted yet on this turn\n* * *\n\n**Effect** During this turn, the transmuter can cast one prepared spell she has already cast, without spending a spell slot."
  
+```
+
+```encounter-table
+name: Hummingbird
+creatures:
+  - 1: Hummingbird
 ```
 
 

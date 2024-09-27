@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/mindless
   - pf2e/creature/type/undead
   - pf2e/creature/type/zombie
+  - pf2eMonster
   - pf2e/creature/level/7
 statblock: inline
 name: "Cadavalier"
@@ -23,19 +24,20 @@ token: [[modules/battlezoo-bestiary-su-pf2e/art/Portraits/cadavalier.webp| ]]
 source: "Battlezoo Bestiary: Strange and Unusual"
 name: "Cadavalier"
 level: "Creature 7"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Medium"
-trait_01: "mindless"
-trait_02: "undead"
-trait_03: "zombie"
+trait_01: [[mindless]]
+trait_02: [[undead]]
+trait_03: [[zombie]]
 modifier: 15
 perception:
   - name: "Perception"
     desc: "+15; Darkvision"
+languages: ""
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +13, Athletics: +15, "
+    desc: "Acrobatics: +13, Athletics: +15, Acrobatics: +13, Athletics: +15"
 abilityMods: [4, 6, 6, -5, 2, -4]
 speed: 50 feet
 sourcebook: "_Battlezoo Bestiary: Strange and Unusual_"
@@ -53,12 +55,12 @@ abilities_top:
   - name: "Items"
     desc: "[[Equipment/Steel Shield|Steel Shield]]"
   - name: "Slow"
-    desc: "  A cadavalier is permanently Slowed 1 and can't use reactions."
+    desc: "  A cadavalier is permanently [[undefined]] and can't use reactions."
 
 abilities_mid:
   - name: ""
   - name: "[[Bestiary Ability Glossary/Frightful Presence|Frightful Presence]]"
-    desc: " (aura,emotion,fear,mental) 30 feet, DC 22 Will check save\n"
+    desc: " (aura,emotion,fear,mental) 30 feet, DC 22 Will check save\n\n* * *\n"
 
 attacks:
   - name: ""
@@ -76,17 +78,23 @@ attacks:
     desc: "`pf2:1`  "
 
   - name: "Break Off"
-    desc: "  **Requirements** The cadavalier's last action was a critical success on a lance arm Strike\n**Effect** The cadavalier's lance arm impales its victim and breaks off, leaving them bleeding and staggered. The target takes 1d8 persistent bleed damage, and they are Clumsy 1 as long as the lance remains within their body. The broken lance can be removed with a successful DC 20 Medicine check check, though if the bleeding had stopped, removing the lance can reopen the wound. Any result except a critical success on the Medicine check causes the target to take 1d8 persistent bleed damage. The cadavalier can't use its lance arm Strike again until it retrieves its arm (from the victim's corpse or after the arm is removed) and reattaches it with an Interact action."
+    desc: "  **Requirements** The cadavalier's last action was a critical success on a lance arm Strike\n* * *\n\n**Effect** The cadavalier's lance arm impales its victim and breaks off, leaving them bleeding and staggered. The target takes 1d8 persistent bleed damage, and they are [[undefined]] as long as the lance remains within their body. The broken lance can be removed with a successful DC 20 Medicine check check, though if the bleeding had stopped, removing the lance can reopen the wound. Any result except a critical success on the Medicine check causes the target to take 1d8 persistent bleed damage. The cadavalier can't use its lance arm Strike again until it retrieves its arm (from the victim's corpse or after the arm is removed) and reattaches it with an Interact action."
 
   - name: "Gnaw"
-    desc: "`pf2:1`  **Requirements** The cadavalier has a creature Grabbed with its jaws.\n**Effect** The cadavalier gnaws and chews on the grabbed target with its jaws, dealing 2d6 + 6 piercing damage (DC 22 Fortitude check save). On a critical failure, the creature is also Sickened 1 from the pain."
+    desc: "`pf2:1`  **Requirements** The cadavalier has a creature [[undefined]] with its jaws.\n* * *\n\n**Effect** The cadavalier gnaws and chews on the grabbed target with its jaws, dealing 2d6+6 piercing damage (DC 22 Fortitude check save). On a critical failure, the creature is also [[undefined]] from the pain."
 
   - name: "Grave Charge"
     desc: "`pf2:2`  The cadavalier Strides twice and then makes a lance arm Strike. As long as it moved at least 20 feet, it gains a +4 circumstance bonus to its damage roll."
 
   - name: "Rearing Thrash"
-    desc: "`pf2:1`  **Frequency** once per round\n**Effect** The cadavalier rears up and brings its front two hooves down onto its target. The cadavalier makes two hoof Strikes, each using the cadavalier's current multiple attack penalty. Both Strikes must have the same target."
+    desc: "`pf2:1`  **Frequency** once per round\n* * *\n\n**Effect** The cadavalier rears up and brings its front two hooves down onto its target. The cadavalier makes two hoof Strikes, each using the cadavalier's current multiple attack penalty. Both Strikes must have the same target."
  
+```
+
+```encounter-table
+name: Cadavalier
+creatures:
+  - 1: Cadavalier
 ```
 
 

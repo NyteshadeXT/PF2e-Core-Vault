@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/air
   - pf2e/creature/type/beast
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/5
   - remaster
 statblock: inline
@@ -27,9 +28,9 @@ level: "Creature 5"
 
 alignment: ""
 size: "Medium"
-trait_01: "air"
-trait_02: "beast"
-trait_03: "humanoid"
+trait_01: [[air]]
+trait_02: [[beast]]
+trait_03: [[humanoid]]
 modifier: 12
 perception:
   - name: "Perception"
@@ -53,7 +54,7 @@ health:
 abilities_top:
   - name: ""
 
-  - name: "Wind’s Whispers"
+  - name: "Wind's Whispers"
     desc: " (air,primal) When a harpy speaks, they can choose one creature within 90 feet. That creature can hear the harpy's words over any other sound, but no other creature hears the words at all."
 
 abilities_mid:
@@ -71,11 +72,17 @@ attacks:
     desc: "`pf2:1` Jaws +15 (finesse)\n__Damage__  2d8 + 4 piercing plus putrid-plague"
 
   - name: "Hungry Winds"
-    desc: "`pf2:1` (air,concentrate,primal) The harpy uses the wind to pull its prey closer. A target within 20 feet must succeed at a DC 21 Fortitude check save or be pulled adjacent to the harpy, where they make a jaws Strike against the target. If the target was pulled off the ground and can't fly, it then falls as normal."
+    desc: "`pf2:2` (air,concentrate,primal) The harpy uses the wind to pull its prey closer. A target within 20 feet must succeed at a DC 21 Fortitude check save or be pulled adjacent to the harpy, where they make a jaws Strike against the target. If the target was pulled off the ground and can't fly, it then falls as normal."
 
   - name: "Putrid Plague"
-    desc: " (disease) The sickened and unconscious conditions from putrid plague can't end or be reduced until the disease is cured\n\n**Saving Throw** DC 19 Fortitude check\n* * *\n\n**Stage 1** carrier with no ill effect (1d4 hours),\n\n**Stage 2** [[Conditions/Sickened 1|Sickened 1]] (1 day),\n\n**Stage 3** sickened 1 and [[Conditions/Slowed 1|Slowed 1]] (1 day),\n\n**Stage 4** [[Conditions/Unconscious|Unconscious]] (1 day),\n\n**Stage 5** dead"
+    desc: " (disease) The sickened and unconscious conditions from putrid plague can't end or be reduced until the disease is cured\n\n**Saving Throw** DC 19 Fortitude check\n* * *\n\n**Stage 1** carrier with no ill effect (1d4 hours),\n\n**Stage 2** [[Conditions/Sickened|Sickened 1]] (1 day),\n\n**Stage 3** sickened 1 and [[Conditions/Slowed|Slowed 1]] (1 day),\n\n**Stage 4** [[Conditions/Unconscious|Unconscious]] (1 day),\n\n**Stage 5** dead"
  
+```
+
+```encounter-table
+name: Harpy
+creatures:
+  - 1: Harpy
 ```
 
 

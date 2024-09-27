@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/human
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/5
 statblock: inline
 name: "Mercenary Sailor"
@@ -25,9 +26,9 @@ level: "Creature 5"
 
 alignment: ""
 size: "Medium"
-trait_01: "evil"
-trait_02: "human"
-trait_03: "humanoid"
+trait_01: [[evil]]
+trait_02: [[human]]
+trait_03: [[humanoid]]
 modifier: 11
 perception:
   - name: "Perception"
@@ -35,7 +36,7 @@ perception:
 languages: "Common"
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +11, Athletics: +13, Sailing Lore: +13, Survival: +11, Thievery: +11"
+    desc: "Acrobatics: +11, Athletics: +13, Survival: +11, Thievery: +11, Sailing Lore: +13"
 abilityMods: [4, 4, 3, 0, 2, -1]
 speed: 25 feet
 sourcebook: "_Pathfinder #147: Tomorrow Must Burn_"
@@ -72,6 +73,12 @@ attacks:
   - name: "Shipboard Savvy"
     desc: "  The sailor's melee Strikes deal 2d6 extra precision damage if both the sailor and the target are on watercraft."
  
+```
+
+```encounter-table
+name: Mercenary Sailor
+creatures:
+  - 1: Mercenary Sailor
 ```
 
 

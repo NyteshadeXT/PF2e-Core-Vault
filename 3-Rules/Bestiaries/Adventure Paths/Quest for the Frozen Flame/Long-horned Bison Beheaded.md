@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/mindless
   - pf2e/creature/type/undead
   - pf2e/creature/type/unholy
+  - pf2eMonster
   - pf2e/creature/level/2
 statblock: inline
 name: "Long-horned Bison Beheaded"
@@ -23,20 +24,21 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #176: Lost Mammoth Valley"
 name: "Long-horned Bison Beheaded"
 level: "Creature 2"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Medium"
-trait_01: "evil"
-trait_02: "mindless"
-trait_03: "undead"
-trait_04: "unholy"
+trait_01: [[evil]]
+trait_02: [[mindless]]
+trait_03: [[undead]]
+trait_04: [[unholy]]
 modifier: 7
 perception:
   - name: "Perception"
     desc: "+7; Darkvision"
+languages: ""
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +8 (+10 to Maneuver in Flight), Athletics: +7"
+    desc: "Acrobatics: +8, Athletics: +7"
 abilityMods: [3, 4, 1, -5, 1, 0]
 speed: 15 feet,  fly 30 feet
 sourcebook: "_Pathfinder #176: Lost Mammoth Valley_"
@@ -61,11 +63,17 @@ attacks:
     desc: "`pf2:1` Horn +11 ()\n__Damage__  1d10 + 3 piercing plus push"
 
   - name: "Toss"
-    desc: "`pf2:r`  **Requirements** The beheaded's previous action was a horn Strike that dealt damage to its target\n**Effect** The beheaded tosses its head, attempting to move the target creature into another space within reach of its horns. It rolls an Athletics check check against the target's Fortitude DC. On a failure, the target remains in place."
+    desc: "`pf2:r`  **Requirements** The beheaded's previous action was a horn Strike that dealt damage to its target\n* * *\n\n**Effect** The beheaded tosses its head, attempting to move the target creature into another space within reach of its horns. It rolls an Athletics check check against the target's Fortitude DC. On a failure, the target remains in place."
 
   - name: "[[Bestiary Ability Glossary/Push|Push (10 feet)]]"
     desc: "`pf2:1`  "
  
+```
+
+```encounter-table
+name: Long-horned Bison Beheaded
+creatures:
+  - 1: Long-horned Bison Beheaded
 ```
 
 

@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/incorporeal
   - pf2e/creature/type/spirit
   - pf2e/creature/type/undead
+  - pf2eMonster
   - pf2e/creature/level/9
 statblock: inline
 name: "Jin Durwhimmer"
@@ -23,13 +24,13 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Kingmaker"
 name: "Jin Durwhimmer"
 level: "Creature 9"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Small"
-trait_01: "ghost"
-trait_02: "incorporeal"
-trait_03: "spirit"
-trait_04: "undead"
+trait_01: [[ghost]]
+trait_02: [[incorporeal]]
+trait_03: [[spirit]]
+trait_04: [[undead]]
 modifier: 19
 perception:
   - name: "Perception"
@@ -59,7 +60,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "[[Creature Family Ability Glossary/(Ghost) Rejuvenation|Rejuvenation]]"
-    desc: " (divine) Jin is put to rest if both Darivan (area **C7**) and the bloom of Lamashtu (area **C10**) are defeated.\nWhen a ghost is destroyed, it re-forms after 2d4 days within the location it's bound to, fully healed. A ghost can be permanently destroyed only if someone determines the reason for its existence and sets right whatever prevents the spirit from resting."
+    desc: " (divine) Jin is put to rest if both Darivan (area **C7**) and the bloom of Lamashtu (area **C10**) are defeated.\n\nWhen a ghost is destroyed, it re-forms after 2d4 days within the location it's bound to, fully healed. A ghost can be permanently destroyed only if someone determines the reason for its existence and sets right whatever prevents the spirit from resting."
 
 attacks:
   - name: ""
@@ -71,11 +72,17 @@ attacks:
     desc: "_[[Spells/Awaken Animal|Awaken Animal]]_, _[[Compendium.pf2e.spells-srd.Item.l4LFwY7iuzX6sDXr|Commune with Nature]]_, _[[Spells/Primal Call|Primal Call]]_"
 
   - name: "[[Creature Family Ability Glossary/(Ghost) Frightful Moan|Frightful Moan]]"
-    desc: "`pf2:2` (auditory,divine,emotion,fear,mental) The ghost laments its fate, forcing each living creature within 30 feet to attempt a DC 28 Will check save. On a failure, a creature becomes [[Conditions/Frightened 1|Frightened 2]] (or [[Conditions/Frightened 1|Frightened 3]] on a critical failure). On a success, a creature is temporarily immune to this ghost's frightful moan for 1 minute."
+    desc: "`pf2:2` (auditory,divine,emotion,fear,mental) The ghost laments its fate, forcing each living creature within 30 feet to attempt a DC 28 Will check save. On a failure, a creature becomes [[Conditions/Frightened|Frightened 2]] (or [[Conditions/Frightened|Frightened 3]] on a critical failure). On a success, a creature is temporarily immune to this ghost's frightful moan for 1 minute."
 
   - name: "[[Creature Family Ability Glossary/(Ghost) Telekinetic Assault|Telekinetic Assault]]"
-    desc: "`pf2:2` (divine) The ghost cries out in pain and anguish as small objects and debris fly about in a 30-foot emanation. Creatures in this area take 5d6 bludgeoning damage, subject to a DC 28 Reflex check save."
+    desc: "`pf2:2` (divine) The ghost cries out in pain and anguish as small objects and debris fly about in a @Template[emanation|distance:30]. Creatures in this area take 5d6 bludgeoning damage, subject to a DC 28 Reflex check save."
  
+```
+
+```encounter-table
+name: Jin Durwhimmer
+creatures:
+  - 1: Jin Durwhimmer
 ```
 
 

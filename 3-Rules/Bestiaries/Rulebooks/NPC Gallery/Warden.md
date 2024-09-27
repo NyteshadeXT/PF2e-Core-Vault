@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/human
   - pf2e/creature/type/humanoid
   - pf2e/creature/type/lawful
+  - pf2eMonster
   - pf2e/creature/level/6
 statblock: inline
 name: "Warden"
@@ -25,9 +26,9 @@ level: "Creature 6"
 
 alignment: ""
 size: "Medium"
-trait_01: "human"
-trait_02: "humanoid"
-trait_03: "lawful"
+trait_01: [[human]]
+trait_02: [[humanoid]]
+trait_03: [[lawful]]
 modifier: 12
 perception:
   - name: "Perception"
@@ -55,7 +56,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Warding Strike"
-    desc: "`pf2:r`  **Trigger** One of the warden's enemies within 100 feet attacks one of the warden's allies or a person the warden is sworn to protect\n**Effect** The warden Strikes the triggering enemy. If the Strike hits, the enemy's attack is deflected, reducing its damage by 8, or by 16 if the warden's Strike was a critical hit."
+    desc: "`pf2:r`  **Trigger** One of the warden's enemies within 100 feet attacks one of the warden's allies or a person the warden is sworn to protect\n* * *\n\n**Effect** The warden Strikes the triggering enemy. If the Strike hits, the enemy's attack is deflected, reducing its damage by 8, or by 16 if the warden's Strike was a critical hit."
 
 attacks:
   - name: ""
@@ -69,6 +70,12 @@ attacks:
   - name: "Warden's Protection"
     desc: "  A warden deals an extra 1d8 damage to any creature trespassing on the territory the warden protects."
  
+```
+
+```encounter-table
+name: Warden
+creatures:
+  - 1: Warden
 ```
 
 

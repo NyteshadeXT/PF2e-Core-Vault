@@ -5,6 +5,7 @@ noteType: pf2eHazard
 tags:
   - magical
   - trap
+  - pf2eHazard
 
 source: Pathfinder #162: Ruins of the Radiant Siege
 aliases: "Compendium.pf2e.agents-of-edgewatch-bestiary.Actor.AZ6AaYdx2NwLWSwh" 
@@ -22,14 +23,14 @@ name: "Blackfinger's Prayer"
 level: "Hazard 19"
 
 
-trait_01: "magical"
-trait_02: "trap"
+trait_01: [[magical]]
+trait_02: [[trap]]
 modifier: 30
 sourcebook: "_Pathfinder #162: Ruins of the Radiant Siege_"
 ac: 40
 armorclass:
   - name: AC
-    desc: "40; __Fort__ +38, __Ref__ +30, __Will__ +0"
+    desc: "40; __Fort__ +38, __Ref__ +30, "
 hp: 150
 health:
   - name: ""
@@ -51,12 +52,18 @@ attacks:
   - name: ""
 
   - name: "Blackfinger's Prayer"
-    desc: "`pf2:r` (curse, divine) **Trigger** A creature opens the door without first whispering the name Blackfingers\n**Effect** The metal trapdoor emits toxic vapors. Each creature within 30 feet must save against a potent strain of Blackfinger Blight."
+    desc: "`pf2:r` (curse, divine) **Trigger** A creature opens the door without first whispering the name Blackfingers\n* * *\n\n**Effect** The metal trapdoor emits toxic vapors. Each creature within 30 feet must save against a potent strain of Blackfinger Blight."
 
   - name: "Blackfinger Blight"
-    desc: "passive (inhaled, poison, virulent) Each round, at the beginning of their turn, a creature affected by blackfinger blight must succeed at a DC 5 Flat check check or drop one random item they're holding\n**Saving Throw** DC 40 Fortitude check\n**Onset** 1 round\n**Maximum Duration** 6 rounds\n**Stage 1** 6d6 poison damage (1 round)\n**Stage 2** 8d6 poison damage (1 round)\n**Stage 3** 10d6 poison damage and [[Conditions/Confused|Confused]] (1 round)"
+    desc: "passive (inhaled, poison, virulent) Each round, at the beginning of their turn, a creature affected by blackfinger blight must succeed at a DC 5 Flat check check or drop one random item they're holding\n\n**Saving Throw** DC 40 Fortitude check\n\n**Onset** 1 round\n\n**Maximum Duration** 6 rounds\n\n**Stage 1** 6d6 poison damage (1 round)\n\n**Stage 2** 8d6 poison damage (1 round)\n\n**Stage 3** 10d6 poison damage and [[Conditions/Confused|Confused]] (1 round)"
 
 
 
+```
+
+```encounter-table
+name: Blackfinger's Prayer
+creatures:
+  - 1: Blackfinger's Prayer
 ```
 

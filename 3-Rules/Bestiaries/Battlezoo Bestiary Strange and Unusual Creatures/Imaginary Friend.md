@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/dream
   - pf2e/creature/type/ethereal
   - pf2e/creature/type/incorporeal
+  - pf2eMonster
   - pf2e/creature/level/4
 statblock: inline
 name: "Imaginary Friend"
@@ -23,20 +24,20 @@ token: [[modules/battlezoo-bestiary-su-pf2e/art/Portraits/imaginary-friend.webp|
 source: "Battlezoo Bestiary: Strange and Unusual"
 name: "Imaginary Friend"
 level: "Creature 4"
-rare_03: "Rare"
+rare_03: [[Rare]]
 alignment: ""
 size: "Small"
-trait_01: "dream"
-trait_02: "ethereal"
-trait_03: "incorporeal"
+trait_01: [[dream]]
+trait_02: [[ethereal]]
+trait_03: [[incorporeal]]
 modifier: 11
 perception:
   - name: "Perception"
     desc: "+11; Darkvision"
-languages: "Common"
+languages: "Common; (can’t speak any language); telepathy 100 feet (can only communicate with bonded friend)"
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +12, Athletics: +12, Deception: +10, "
+    desc: "Acrobatics: +12, Athletics: +12, Deception: +10, Acrobatics: +12, Athletics: +12, Deception: +10"
 abilityMods: [-5, 5, 3, 2, 3, 2]
 speed: 25 feet
 sourcebook: "_Battlezoo Bestiary: Strange and Unusual_"
@@ -58,10 +59,10 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Natural Invisibility"
-    desc: "  A imaginary friend is naturally Invisible to all creatures except for its bonded friend."
+    desc: "  A imaginary friend is naturally [[undefined]] to all creatures except for its bonded friend."
 
   - name: "Imaginary Shield"
-    desc: "`pf2:r`  **Trigger** A creature attempts a melee Strike against the imaginary friend's bonded friend\n**Effect** The imaginary friend Steps. If it ends its movement adjacent to its bonded friend, the imaginary friend takes the damage from the Strike instead of its bonded friend. The imaginary friend's resistance applies to this damage, but the resistance isn't doubled even if the attack was non-magical."
+    desc: "`pf2:r`  **Trigger** A creature attempts a melee Strike against the imaginary friend's bonded friend\n* * *\n\n**Effect** The imaginary friend Steps. If it ends its movement adjacent to its bonded friend, the imaginary friend takes the damage from the Strike instead of its bonded friend. The imaginary friend's resistance applies to this damage, but the resistance isn't doubled even if the attack was non-magical."
 
 attacks:
   - name: ""
@@ -73,11 +74,17 @@ attacks:
     desc: "`pf2:1` Imaginary Bow +14 (deadly d10, force, magical, range increment 100 feet, reload 0, volley 30 ft.)\n__Damage__  1d8 + 5 force"
 
   - name: "Together, Charge!"
-    desc: "`pf2:r`  **Trigger** The imaginary friend's bonded friend Strides.\n**Effect** The imaginary friend Strides twice and makes an imaginary sword Strike. As long as the imaginary friend moved at least 20 feet, it gains a +2 circumstance bonus on its attack. If the bonded friend is equal or lower level than the imaginary friend, the bonded friend gains a +2 circumstance bonus to its next attack. After using this ability, the imaginary friend is Stunned 2.\n[[Effects/Effect_ Together, Charge!|Effect: Together, Charge!]]"
+    desc: "`pf2:r`  **Trigger** The imaginary friend's bonded friend Strides.\n* * *\n\n**Effect** The imaginary friend Strides twice and makes an imaginary sword Strike. As long as the imaginary friend moved at least 20 feet, it gains a +2 circumstance bonus on its attack. If the bonded friend is equal or lower level than the imaginary friend, the bonded friend gains a +2 circumstance bonus to its next attack. After using this ability, the imaginary friend is [[undefined]].\n\n[[Effects/Effect_ Together, Charge!|Effect: Together, Charge!]]"
 
   - name: "Knee Whack"
-    desc: "`pf2:2`  The imaginary friend Steps then makes an imaginary sword Strike against a target within reach. If the attack hits, the imaginary friend immediately attempts to Trip the target; this Trip attempt doesn't apply or increase the imaginary friend's multiple attack penalty."
+    desc: "`pf2:2`  The imaginary friend Steps then makes an imaginary sword Strike against a target within reach. If the attack hits, the imaginary friend immediately attempts to [[undefined]] the target; this Trip attempt doesn't apply or increase the imaginary friend's multiple attack penalty."
  
+```
+
+```encounter-table
+name: Imaginary Friend
+creatures:
+  - 1: Imaginary Friend
 ```
 
 

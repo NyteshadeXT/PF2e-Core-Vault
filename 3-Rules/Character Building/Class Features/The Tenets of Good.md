@@ -11,7 +11,7 @@ license: OGL
 ---
 # The Tenets of Good
 ## Feat 1
-### [[champion]]
+### [[3-Rules/trait_reference/champion]]
 
 **Category** classfeature; 
 

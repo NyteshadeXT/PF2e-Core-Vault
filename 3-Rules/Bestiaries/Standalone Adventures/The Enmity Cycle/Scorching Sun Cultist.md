@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/human
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/2
 statblock: inline
 name: "Scorching Sun Cultist"
@@ -22,12 +23,12 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Adventure: The Enmity Cycle"
 name: "Scorching Sun Cultist"
 level: "Creature 2"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Medium"
-trait_01: "evil"
-trait_02: "human"
-trait_03: "humanoid"
+trait_01: [[evil]]
+trait_02: [[human]]
+trait_03: [[humanoid]]
 modifier: 9
 perception:
   - name: "Perception"
@@ -66,6 +67,12 @@ attacks:
   - name: "Ranged"
     desc: "`pf2:1` Shortbow +7 (range increment 60 feet)\n__Damage__  1d6 + 3 piercing"
  
+```
+
+```encounter-table
+name: Scorching Sun Cultist
+creatures:
+  - 1: Scorching Sun Cultist
 ```
 
 

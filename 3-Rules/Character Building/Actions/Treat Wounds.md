@@ -14,7 +14,7 @@ license: ORC
 ---
 # Treat Wounds
 
-### [[exploration]][[healing]][[manipulate]]
+### [[exploration]][[healing]][[3-Rules/Rule References/Manipulate]]
 
 **Category** interaction; 
 
@@ -37,7 +37,7 @@ The result of your Medicine check determines how many Hit Points the target rega
 
 * * *
 
-**Critical Success** The target regains [[/r 4d8\[healing\] #Treat Wounds]] Hit Points and loses the [[Conditions/Wounded 1|Wounded]] condition.
+**Critical Success** The target regains [[/r 4d8\[healing\] #Treat Wounds]] Hit Points and loses the [[Conditions/Wounded|Wounded]] condition.
 
 **Success** The target regains [[/r 2d8\[healing\] #Treat Wounds]] Hit Points, and loses the wounded condition.
 

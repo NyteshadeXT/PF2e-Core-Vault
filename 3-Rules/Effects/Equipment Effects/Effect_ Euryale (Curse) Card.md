@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[Game Mastery Guide/Euryale (curse)|Euryale (curse)]] from the [[Equipment/Deck of Many Things|Deck of Many Things]]
+Granted by Euryale (curse) from the [[Equipment/Deck of Many Things|Deck of Many Things]]
 
 *Source: Pathfinder Gamemastery Guide*
 *OGL*

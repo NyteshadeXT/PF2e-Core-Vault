@@ -17,7 +17,7 @@ license: OGL
 
 
 
-**Major Curse** Pharasma wills the end of your life and your lineage. You become unable to have children (or otherwise procreate by any means, including create spawn abilities) and are permanently [[Conditions/Doomed 1|Doomed 2]].
+Pharasma wills the end of your life and your lineage. You become unable to have children (or otherwise procreate by any means, including create spawn abilities) and are permanently [[Conditions/Doomed|Doomed 2]].
 
 *Source: Pathfinder Lost Omens: Gods & Magic*
 *OGL*

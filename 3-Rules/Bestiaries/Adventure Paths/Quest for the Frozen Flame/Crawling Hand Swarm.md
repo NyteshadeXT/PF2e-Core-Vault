@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/swarm
   - pf2e/creature/type/undead
   - pf2e/creature/type/unholy
+  - pf2eMonster
   - pf2e/creature/level/5
 statblock: inline
 name: "Crawling Hand Swarm"
@@ -26,15 +27,15 @@ level: "Creature 5"
 
 alignment: ""
 size: "Large"
-trait_01: "evil"
-trait_02: "swarm"
-trait_03: "undead"
-trait_04: "unholy"
+trait_01: [[evil]]
+trait_02: [[swarm]]
+trait_03: [[undead]]
+trait_04: [[unholy]]
 modifier: 11
 perception:
   - name: "Perception"
     desc: "+11; Lifesense 30 Feet, Tremorsense (Imprecise) 30 Feet"
-languages: "Common, Hallit"
+languages: "Common, Hallit; can&#x27;t speak any language"
 skills:
   - name: "Skills"
     desc: "Athletics: +10, Stealth: +12"
@@ -56,7 +57,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Stifle"
-    desc: "`pf2:r`  **Trigger** A creature in the swarm's space attempts to Cast a Spell with a verbal component or attempts an action with the linguistic or vocal traits\n**Effect** The swarming hands clamp over the triggering creature's mouth, preventing it from vocalizing. The affected creature must succeed at a DC 22 Reflex check save or the triggering action is disrupted."
+    desc: "`pf2:r`  **Trigger** A creature in the swarm's space attempts to Cast a Spell with a verbal component or attempts an action with the linguistic or vocal traits\n* * *\n\n**Effect** The swarming hands clamp over the triggering creature's mouth, preventing it from vocalizing. The affected creature must succeed at a DC 22 Reflex check save or the triggering action is disrupted."
 
 attacks:
   - name: ""
@@ -64,6 +65,12 @@ attacks:
   - name: "Pummeling Grasp"
     desc: "`pf2:1`  Each enemy in the swarm's space takes 3d6 slashing damage (DC 20 Reflex check). A creature that fails its save against Pummeling Grasp is also knocked [[Conditions/Prone|Prone]]."
  
+```
+
+```encounter-table
+name: Crawling Hand Swarm
+creatures:
+  - 1: Crawling Hand Swarm
 ```
 
 

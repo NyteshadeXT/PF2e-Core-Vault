@@ -6,6 +6,7 @@ cssClasses: pf2e
 aliases: "Compendium.battlezoo-bestiary-pf2e.pf2e-battlezoo-bestiary.Actor.5BmnUuMfAOtF3idn" 
 tags:
   - pf2e/creature/type/animal
+  - pf2eMonster
   - pf2e/creature/level/4
 statblock: inline
 name: "Parrotbear"
@@ -24,11 +25,12 @@ level: "Creature 4"
 
 alignment: ""
 size: "Large"
-trait_01: "animal"
+trait_01: [[animal]]
 modifier: 13
 perception:
   - name: "Perception"
     desc: "+13; Low-Light Vision, Scent (Imprecise) 30 Feet"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Acrobatics: +10, Athletics: +12, Deception: +13, Intimidation: +13"
@@ -62,17 +64,23 @@ attacks:
     desc: "`pf2:1` Talon +12 (agile)\n__Damage__  1d8 + 6 slashing"
 
   - name: "[[Bestiary Ability Glossary/Sneak Attack|Sneak Attack]]"
-    desc: "  The parrotbear's talon Strikes deal an extra 1d6 precision damage to Off-Guard creatures.\n"
+    desc: "  The parrotbear's talon Strikes deal an extra 1d6 precision damage to [[Conditions/Off-Guard|Off-Guard]] creatures.\n\n* * *\n"
 
   - name: "Dread Striker"
-    desc: "  Parrotbears capitalize on their enemies' fear to slip past their defenses. Any creature that has the frightened condition is also Off-Guard against the parrotbear's attacks."
+    desc: "  Parrotbears capitalize on their enemies' fear to slip past their defenses. Any creature that has the frightened condition is also [[Conditions/Off-Guard|Off-Guard]] against the parrotbear's attacks."
 
   - name: "Crunch Bones"
-    desc: "`pf2:1`  **Requirements** The parrotbear has hit a creature with a beak Strike this turn;\n**Effect** The parrotbear crushes the creature's bones with its beak. The target must attempt a Fortitude save.\n**Success** The creature is unaffected.\n**Failure** The creature takes 1d8 + 6 bludgeoning damage and is Enfeebled 1, Clumsy 1, or Stupefied 1, depending on what the parrotbear is crushing (either arms, legs, or head, respectively; the GM determines which body part randomly). The condition lasts until the creature has received any amount of healing.\n**Critical Failure** As failure, but the parrotbear deals 2d8 + 9 bludgeoning damage."
+    desc: "`pf2:1`  **Requirements** The parrotbear has hit a creature with a beak Strike this turn;\n\n**Effect** The parrotbear crushes the creature's bones with its beak. The target must attempt a DC 21 Fortitude save.\n* * *\n\n**Success** The creature is unaffected.\n\n**Failure** The creature takes 1d8 + 6 bludgeoning damage and is [[Conditions/Enfeebled|Enfeebled 1]], [[Conditions/Clumsy|Clumsy 1]], or [[Conditions/Stupefied|Stupefied 1]], depending on what the parrotbear is crushing (either arms, legs, or head, respectively; the GM determines which body part randomly). The condition lasts until the creature has received any amount of healing.\n\n**Critical Failure** As failure, but the parrotbear deals 2d8 + 9 bludgeoning damage."
 
   - name: "Unsettling Mimicry"
     desc: "`pf2:1` (auditory,emotion,fear,mental) The parrotbear mimics phrases from its current prey or those that it has previously killed. The parrotbear makes a single Intimidation check to Demoralize each creature in a 30-foot emanation."
  
+```
+
+```encounter-table
+name: Parrotbear
+creatures:
+  - 1: Parrotbear
 ```
 
 

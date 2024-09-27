@@ -30,11 +30,11 @@ license: OGL
 
 * * *
 
-**Critical Success** Lorthact becomes [[Conditions/Frightened 1|Frightened 2]] and [[Conditions/Slowed 1|Slowed 1]].
+**Critical Success** Lorthact becomes [[Conditions/Frightened|Frightened 2]] and [[Conditions/Slowed|Slowed 1]].
 
 **Success** Lorthact becomes frightened 2.
 
-**Failure** Lorthact becomes [[Conditions/Frightened 1|Frightened 1]].
+**Failure** Lorthact becomes [[Conditions/Frightened|Frightened 1]].
 
 **Critical Failure** Your floundering attempt backfires and instead amuses Lorthact; he is temporarily immune to all attempts to Invoke Eiseth until the end of your next turn.
 

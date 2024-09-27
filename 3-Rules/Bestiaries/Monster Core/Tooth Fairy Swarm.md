@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.pathfinder-monster-core.Actor.rmJItn5jMW7Af0Iy"
 tags:
   - pf2e/creature/type/fey
   - pf2e/creature/type/swarm
+  - pf2eMonster
   - pf2e/creature/level/3
   - remaster
 statblock: inline
@@ -26,8 +27,8 @@ level: "Creature 3"
 
 alignment: ""
 size: "Large"
-trait_01: "fey"
-trait_02: "swarm"
+trait_01: [[fey]]
+trait_02: [[swarm]]
 modifier: 8
 perception:
   - name: "Perception"
@@ -54,17 +55,23 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Plaque Burst"
-    desc: "  When killed, a tooth fairy swarm bursts into sticky, foul-smelling white dust. Each creature in a 15-foot emanation must succeed at a DC 20 Fortitude check save or become [[Conditions/Sickened 1|Sickened 1]] ([[Conditions/Sickened 1|Sickened 2]] on a critical failure)."
+    desc: "  When killed, a tooth fairy swarm bursts into sticky, foul-smelling white dust. Each creature in a @Template[emanation|distance:15] must succeed at a DC 20 Fortitude check save or become [[Conditions/Sickened|Sickened 1]] ([[Conditions/Sickened|Sickened 2]] on a critical failure)."
 
 attacks:
   - name: ""
 
   - name: "Pinch"
-    desc: "`pf2:1`  Tooth fairies pinch their victims' fingers, noses, ears, or similar protruding body parts. Each enemy in the swarm's space takes 2d6 bludgeoning damage (DC 20 Reflex check save). Creatures that critically fail this save are [[Conditions/Sickened 1|Sickened 1]] from the pain."
+    desc: "`pf2:1`  Tooth fairies pinch their victims' fingers, noses, ears, or similar protruding body parts. Each enemy in the swarm's space takes 2d6 bludgeoning damage (DC 20 Reflex check save). Creatures that critically fail this save are [[Conditions/Sickened|Sickened 1]] from the pain."
 
   - name: "Pry"
     desc: "`pf2:3`  The tooth fairies try to pry out one of their target's teeth. One enemy in the swarm's space takes 4d6 bludgeoning damage with a DC 20 Reflex check save. On a failed save, the target takes 2 bleed damage and loses a tooth.\n\nIf the creature loses a tooth, it takes a –1 status penalty to Charisma-based skill checks and must succeed at a DC 5 Flat check to Cast a Spell unless that spell has the subtle trait. These effects last for 1 day, or until the stolen tooth is returned and the target regains at least 1 Hit Point."
  
+```
+
+```encounter-table
+name: Tooth Fairy Swarm
+creatures:
+  - 1: Tooth Fairy Swarm
 ```
 
 

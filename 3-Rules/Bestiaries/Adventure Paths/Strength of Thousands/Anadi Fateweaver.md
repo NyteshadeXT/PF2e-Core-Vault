@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/anadi
   - pf2e/creature/type/good
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/5
 statblock: inline
 name: "Anadi Fateweaver"
@@ -22,12 +23,12 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #169: Kindled Magic"
 name: "Anadi Fateweaver"
 level: "Creature 5"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Medium"
-trait_01: "anadi"
-trait_02: "good"
-trait_03: "humanoid"
+trait_01: [[anadi]]
+trait_02: [[good]]
+trait_03: [[humanoid]]
 modifier: 14
 perception:
   - name: "Perception"
@@ -35,7 +36,7 @@ perception:
 languages: "Anadi, Common"
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +13, Athletics: +11 (+15 to climb in spider or hybrid form), Crafting: +9 (+13 to weave), Medicine: +12, Nature: +14, Survival: +12"
+    desc: "Acrobatics: +13, Athletics: +11, Crafting: +9, Medicine: +12, Nature: +14, Survival: +12"
 abilityMods: [2, 4, 0, 0, 5, 1]
 speed: 25 feet,  climb 25 feet
 sourcebook: "_Pathfinder #169: Kindled Magic_"
@@ -58,7 +59,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Fate's Threads"
-    desc: "`pf2:r` (fortune) **Frequency** three times per day\n**Trigger** An ally within 30 feet of the anadi fateweaver that they can see makes a skill check or a saving throw\n**Effect** The creature rerolls the triggering check and takes the new result."
+    desc: "`pf2:r` (fortune) **Frequency** three times per day\n\n**Trigger** An ally within 30 feet of the anadi fateweaver that they can see makes a skill check or a saving throw\n* * *\n\n**Effect** The creature rerolls the triggering check and takes the new result."
 
 attacks:
   - name: ""
@@ -82,11 +83,17 @@ attacks:
     desc: "_[[Spells/Arcane Weaving|Arcane Weaving]]_"
 
   - name: "Anadi Venom"
-    desc: " (poison) **Saving Throw** DC 20 Fortitude check\n**Maximum Duration** 4 rounds\n**Stage 1** 1d6 poison damage and [[Conditions/Off-Guard|Off-Guard]] (1 round)\n**Stage 2** 1d6 poison damage, off-guard, and [[Conditions/Clumsy 1|Clumsy 1]] (1 round)"
+    desc: " (poison) **Saving Throw** DC 20 Fortitude check\n\n**Maximum Duration** 4 rounds\n\n**Stage 1** 1d6 poison damage and [[Conditions/Off-Guard|Off-Guard]] (1 round)\n\n**Stage 2** 1d6 poison damage, off-guard, and [[Conditions/Clumsy|Clumsy 1]] (1 round)"
 
   - name: "[[Bestiary Ability Glossary/Change Shape|Change Shape]]"
-    desc: "`pf2:1` (arcane,concentrate,polymorph) The anadi changes into their hybrid, spider, or human form. The above statistics assume the anadi is in hybrid form. While in human form, the anadi seeker loses their climb Speed and can't use their fangs attack. When in spider form, they can't use weapons.\n"
+    desc: "`pf2:1` (arcane,concentrate,polymorph) The anadi changes into their hybrid, spider, or human form. The above statistics assume the anadi is in hybrid form. While in human form, the anadi seeker loses their climb Speed and can't use their fangs attack. When in spider form, they can't use weapons.\n\n* * *\n"
  
+```
+
+```encounter-table
+name: Anadi Fateweaver
+creatures:
+  - 1: Anadi Fateweaver
 ```
 
 

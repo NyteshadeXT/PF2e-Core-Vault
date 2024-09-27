@@ -17,7 +17,7 @@ license: OGL
 
 
 
-Whenever the mutant takes piercing or slashing damage, creatures adjacent to the mutant take 1d6 acid damage ( Reflex check). The damage increases to 2d6 if the mutant is at least 8th level and 3d6 if the mutant is at least 15th level.
+Whenever the mutant takes piercing or slashing damage, creatures adjacent to the mutant take 1d6 acid damage (Reflex check). The damage increases to 2d6 if the mutant is at least 8th level and 3d6 if the mutant is at least 15th level.
 
 *Source: Pathfinder Lost Omens: Impossible Lands*
 *OGL*

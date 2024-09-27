@@ -13,7 +13,7 @@ license: OGL
 ---
 # Recall the Teachings `pf2:1`
 
-### [[occult]][[psyche]][[psychic]]
+### [[3-Rules/Rule References/Occult]][[psyche]][[psychic]]
 
 **Category** defensive; 
 

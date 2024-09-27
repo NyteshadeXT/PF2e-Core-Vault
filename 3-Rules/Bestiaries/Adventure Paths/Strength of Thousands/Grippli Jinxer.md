@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/grippli
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/6
 statblock: inline
 name: "Grippli Jinxer"
@@ -25,9 +26,9 @@ level: "Creature 6"
 
 alignment: ""
 size: "Small"
-trait_01: "evil"
-trait_02: "grippli"
-trait_03: "humanoid"
+trait_01: [[evil]]
+trait_02: [[grippli]]
+trait_03: [[humanoid]]
 modifier: 16
 perception:
   - name: "Perception"
@@ -55,7 +56,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Hypnotic Tattoos"
-    desc: "`pf2:r`  **Trigger** A hostile creature targets the jinxer with a melee Strike\n**Effect** Tattoos on the jinxer's body swirl and shift in mesmerizing patterns. The creature must attempt a DC 22 Will check save.\n**Critical Success** The creature is unaffected and is temporarily immune for 1 hour.\n**Success** The creature is unaffected and is temporarily immune for 1 minute.\n**Failure** The creature treats the jinxer as [[Conditions/Concealed|Concealed]] until the end of its turn.\n**Critical Failure** The creature treats the jinxer as [[Conditions/Hidden|Hidden]] until the end of its turn."
+    desc: "`pf2:r`  **Trigger** A hostile creature targets the jinxer with a melee Strike\n* * *\n\n**Effect** Tattoos on the jinxer's body swirl and shift in mesmerizing patterns. The creature must attempt a DC 22 Will check save.\n* * *\n\n**Critical Success** The creature is unaffected and is temporarily immune for 1 hour.\n\n**Success** The creature is unaffected and is temporarily immune for 1 minute.\n\n**Failure** The creature treats the jinxer as [[Conditions/Concealed|Concealed]] until the end of its turn.\n\n**Critical Failure** The creature treats the jinxer as [[Conditions/Hidden|Hidden]] until the end of its turn."
 
 attacks:
   - name: ""
@@ -70,14 +71,20 @@ attacks:
     desc: "DC 24, attack +16; __3rd __ (3 slots) _[[Spells/Blindness|Blindness]]_, _[[Spells/Fear|Fear]]_, _[[Spells/Paralyze|Paralyze]]_; __2nd __ (3 slots) _[[Spells/Dispel Magic|Dispel Magic]]_, _[[Spells/Summon Animal|Summon Animal (Giant Cockroach, Giant Fly or Giant Tick only)]]_, _[[Spells/Vomit Swarm|Vomit Swarm]]_; __1st __ (3 slots) _[[Spells/Bane|Bane]]_, _[[Spells/Enfeeble|Ray of Enfeeblement]]_, _[[Spells/Spider Sting|Spider Sting]]_\n__Cantrips__  __(3rd)__ _[[Spells/Void Warp|Chill Touch]]_, _[[Spells/Forbidding Ward|Forbidding Ward]]_, _[[Spells/Know the Way|Know Direction]]_, _[[Spells/Shield|Shield]]_, _[[Spells/Telekinetic Projectile|Telekinetic Projectile]]_"
 
   - name: "Baneback Poison"
-    desc: " (poison) **Saving Throw** DC 24 Fortitude check\n**Maximum Duration** 6 rounds\n**Stage 1** 2d4 poison damage and [[Conditions/Stupefied 1|Stupefied 1]] (1 round)\n**Stage 2** 3d4 poison damage and [[Conditions/Stupefied 1|Stupefied 2]] (1 round)\n**Stage 3** 4d4 poison damage, [[Conditions/Stupefied 1|Stupefied 3]], and [[Conditions/Off-Guard|Off-Guard]] (1 round)"
+    desc: " (poison) **Saving Throw** DC 24 Fortitude check\n\n**Maximum Duration** 6 rounds\n\n**Stage 1** 2d4 poison damage and [[Conditions/Stupefied|Stupefied 1]] (1 round)\n\n**Stage 2** 3d4 poison damage and [[Conditions/Stupefied|Stupefied 2]] (1 round)\n\n**Stage 3** 4d4 poison damage, [[Conditions/Stupefied|Stupefied 3]], and [[Conditions/Off-Guard|Off-Guard]] (1 round)"
 
   - name: "Curse of Baneful Venom"
-    desc: "`pf2:3` (occult) The jinxer magically intensifies toxins in their foes. Creatures within 30 feet of the jinxer that are currently afflicted by a poison immediately attempt their next saving throw against the poison with a -2 status penalty, then are temporarily immune to Curse of Baleful Venom for 1 hour.\n[[Bestiary Effects/Effect_ Curse of the Baneful Venom|Effect: Curse of the Baneful Venom]]"
+    desc: "`pf2:3` (occult) The jinxer magically intensifies toxins in their foes. Creatures within 30 feet of the jinxer that are currently afflicted by a poison immediately attempt their next saving throw against the poison with a -2 status penalty, then are temporarily immune to Curse of Baleful Venom for 1 hour.\n\n[[Bestiary Effects/Effect_ Curse of the Baneful Venom|Effect: Curse of the Baneful Venom]]"
 
   - name: "Jungle Stride"
     desc: "  Gripplis ignore difficult terrain in forests and jungles."
  
+```
+
+```encounter-table
+name: Grippli Jinxer
+creatures:
+  - 1: Grippli Jinxer
 ```
 
 

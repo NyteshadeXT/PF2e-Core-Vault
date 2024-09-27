@@ -12,7 +12,7 @@ license: OGL
 ---
 # Daydream Trance `pf2:1`
 
-### [[3-Rules/Rule References/Mental]][[occult]]
+### [[3-Rules/Rule References/Mental]][[3-Rules/Rule References/Occult]]
 
 **Category** interaction; 
 

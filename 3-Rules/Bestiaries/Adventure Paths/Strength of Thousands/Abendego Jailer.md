@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/human
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/10
 statblock: inline
 name: "Abendego Jailer"
@@ -25,9 +26,9 @@ level: "Creature 10"
 
 alignment: ""
 size: "Medium"
-trait_01: "evil"
-trait_02: "human"
-trait_03: "humanoid"
+trait_01: [[evil]]
+trait_02: [[human]]
+trait_03: [[humanoid]]
 modifier: 19
 perception:
   - name: "Perception"
@@ -70,11 +71,17 @@ attacks:
     desc: "`pf2:1` Dagger +22 (agile, thrown 10 ft., versatile s)\n__Damage__  1d4 + 9 piercing"
 
   - name: "Restrain"
-    desc: "  When the jailer makes a successful mancatcher Strike, their target must succeed at a DC 27 Reflex check save or become [[Conditions/Grabbed|Grabbed]] until the end of the jailer's next turn.\nEach time the target fails an attempt to [[Actions/Escape|Escape]] the jailer, it takes 2d6 piercing damage."
+    desc: "  When the jailer makes a successful mancatcher Strike, their target must succeed at a DC 27 Reflex check save or become [[Conditions/Grabbed|Grabbed]] until the end of the jailer's next turn.\n\nEach time the target fails an attempt to [[Actions/Escape|Escape]] the jailer, it takes 2d6 piercing damage."
 
   - name: "Subduing Attack"
-    desc: "  Abendego jailers deal an additional 3d6 precision damage to creatures that are [[Conditions/Frightened 1|Frightened]] or within reach of at least one of their allies.\nThe jailer can make an attack with this additional damage as a nonlethal attack, if they choose."
+    desc: "  Abendego jailers deal an additional 3d6 precision damage to creatures that are [[Conditions/Frightened|Frightened]] or within reach of at least one of their allies.\n\nThe jailer can make an attack with this additional damage as a nonlethal attack, if they choose."
  
+```
+
+```encounter-table
+name: Abendego Jailer
+creatures:
+  - 1: Abendego Jailer
 ```
 
 

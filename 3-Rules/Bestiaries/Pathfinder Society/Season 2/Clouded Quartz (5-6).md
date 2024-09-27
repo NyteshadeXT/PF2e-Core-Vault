@@ -10,6 +10,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/giant
   - pf2e/creature/type/troll
+  - pf2eMonster
   - pf2e/creature/level/7
 statblock: inline
 name: "Clouded Quartz (5-6)"
@@ -24,14 +25,14 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Society Scenario #2-20: Breaking the Storm: Bastion in Embers"
 name: "Clouded Quartz (5-6)"
 level: "Creature 7"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Large"
-trait_01: "chaotic"
-trait_02: "earth"
-trait_03: "evil"
-trait_04: "giant"
-trait_05: "troll"
+trait_01: [[chaotic]]
+trait_02: [[earth]]
+trait_03: [[evil]]
+trait_04: [[giant]]
+trait_05: [[troll]]
 modifier: 16
 perception:
   - name: "Perception"
@@ -70,7 +71,7 @@ abilities_mid:
     desc: "`pf2:r`  "
 
   - name: "Sunlight Petrification"
-    desc: "  If exposed to direct sunlight, Clouded Quartz immediately becomes [[Conditions/Slowed 1|Slowed 1]] and can't use reactions or Trample. The slowed value increases by 1 each time she ends her turn in sunlight. If Clouded Quartz's actions are reduced to 0 in this way, she becomes [[Conditions/Petrified|Petrified]] until she spends at least 1 minute in darkness. Spells like [[Spells/Sunburst|Sunburst]] that create magical sunlight cannot petrify Clouded Quartz, but she's slowed 1 for 1d4 rounds after being exposed to such an effect."
+    desc: "  If exposed to direct sunlight, Clouded Quartz immediately becomes [[Conditions/Slowed|Slowed 1]] and can't use reactions or Trample. The slowed value increases by 1 each time she ends her turn in sunlight. If Clouded Quartz's actions are reduced to 0 in this way, she becomes [[Conditions/Petrified|Petrified]] until she spends at least 1 minute in darkness. Spells like [[Spells/Sunburst|Sunburst]] that create magical sunlight cannot petrify Clouded Quartz, but she's slowed 1 for 1d4 rounds after being exposed to such an effect."
 
 attacks:
   - name: ""
@@ -88,7 +89,7 @@ attacks:
     desc: "DC 23, attack +15; __3rd __ (3 slots) _[[Spells/Blindness|Blindness]]_, _[[Spells/Chilling Darkness|Chilling Darkness]]_, _[[Spells/Fear|Fear]]_; __2nd __ (3 slots) _[[Spells/Dispel Magic|Dispel Magic]]_, _[[Spells/Faerie Fire|Faerie Fire]]_, _[[Spells/Silence|Silence]]_; __1st __ (3 slots) _[[Spells/Create Water|Create Water]]_, _[[Spells/Gust of Wind|Gust of Wind]]_, _[[Spells/Sanctuary|Sanctuary]]_\n__Cantrips__  __(3rd)__ _[[Spells/Void Warp|Chill Touch]]_, _[[Spells/Divine Lance|Divine Lance]]_, _[[Spells/Electric Arc|Electric Arc]]_, _[[Spells/Shield|Shield]]_, _[[Spells/Sigil|Sigil]]_"
 
   - name: "[[Bestiary Ability Glossary/Rend|Rend]]"
-    desc: "`pf2:1`  Claw\n"
+    desc: "`pf2:1`  Claw\n\n* * *\n"
 
   - name: "Rock Tunneler"
     desc: "  Clouded Quartz can burrow through solid stone at a Speed of 10 feet. She can leave a tunnel if she desires."
@@ -96,6 +97,12 @@ attacks:
   - name: "[[Bestiary Ability Glossary/Throw Rock|Throw Rock]]"
     desc: "`pf2:1`  "
  
+```
+
+```encounter-table
+name: Clouded Quartz (5-6)
+creatures:
+  - 1: Clouded Quartz (5-6)
 ```
 
 

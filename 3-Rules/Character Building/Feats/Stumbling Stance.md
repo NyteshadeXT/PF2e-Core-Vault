@@ -7,8 +7,9 @@ tags:
   - trait/stance
   - trait/common
   - category/class
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.7FRYyKXDKjGoANYj"
-license: OGL
+license: ORC
 ---
 # Stumbling Stance `pf2:1`
 ## Feat 1
@@ -26,5 +27,5 @@ While in this stance, you gain a +1 circumstance bonus to Deception checks to [[
 
 If an enemy hits you with a melee Strike while in this stance, it becomes [[Conditions/Off-Guard|Off-Guard]] against the next stumbling swing Strike you make against it before the end of your next turn.
 
-*Source: Pathfinder Advanced Player's Guide*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

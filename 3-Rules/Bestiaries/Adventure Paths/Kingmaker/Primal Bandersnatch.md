@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.kingmaker-bestiary.Actor.hLBHFloWuXLjCQYH"
 tags:
   - pf2e/creature/type/beast
   - pf2e/creature/type/tane
+  - pf2eMonster
   - pf2e/creature/level/19
 statblock: inline
 name: "Primal Bandersnatch"
@@ -21,15 +22,16 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Kingmaker"
 name: "Primal Bandersnatch"
 level: "Creature 19"
-rare_03: "Rare"
+rare_03: [[Rare]]
 alignment: ""
 size: "grg"
-trait_01: "beast"
-trait_02: "tane"
+trait_01: [[beast]]
+trait_02: [[tane]]
 modifier: 33
 perception:
   - name: "Perception"
     desc: "+33; Darkvision, Scent (Precise) 120 Feet"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Acrobatics: +33, Athletics: +37, Intimidation: +36, Stealth: +36, Survival: +31"
@@ -54,7 +56,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "[[Bestiary Ability Glossary/Attack of Opportunity|Attack of Opportunity (Tail Only)]]"
-    desc: "`pf2:r`  Tail Only.\n"
+    desc: "`pf2:r`  Tail Only.\n\n* * *\n"
 
   - name: "Confusing Gaze"
     desc: " (aura,emotion,mental,primal) 30 feet. When a creature ends its turn in the aura, it must succeed at a DC 38 Will check save or become [[Conditions/Confused|Confused]] for 1 round."
@@ -87,11 +89,17 @@ attacks:
     desc: "  At the start of its turn, the bandersnatch gains an additional reaction that can be used only to attempt an Attack of Opportunity."
 
   - name: "Pain"
-    desc: "  A bandersnatch's quills create exceptionally painful wounds. The wounded creature must succeed at a DC 41 Fortitude check save to resist becoming [[Conditions/Drained 1|Drained 1]] ([[Conditions/Drained 1|Drained 2]] on a critical failure) by this pain. Further bandersnatch Strikes that cause pain increase the amount of drain by 1 for each failed save to a maximum of drained 4."
+    desc: "  A bandersnatch's quills create exceptionally painful wounds. The wounded creature must succeed at a DC 41 Fortitude check save to resist becoming [[Conditions/Drained|Drained 1]] ([[Conditions/Drained|Drained 2]] on a critical failure) by this pain. Further bandersnatch Strikes that cause pain increase the amount of drain by 1 for each failed save to a maximum of drained 4."
 
   - name: "Relentless Tracker"
     desc: "  The bandersnatch can [[Actions/Track|Track]] while moving at its full speed."
  
+```
+
+```encounter-table
+name: Primal Bandersnatch
+creatures:
+  - 1: Primal Bandersnatch
 ```
 
 

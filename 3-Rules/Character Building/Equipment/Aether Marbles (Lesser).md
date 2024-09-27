@@ -15,7 +15,7 @@ license: OGL
 ---
 # Aether Marbles (Lesser)
 ## Item 4
-### [uncommon](uncommon "Uncommon Rarity Trait")[[bomb]][[consumable]][[Force]][[splash]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[bomb]][[consumable]][[3-Rules/trait_reference/force]][[splash]]
 
 |  |  |
 | -- | -- |

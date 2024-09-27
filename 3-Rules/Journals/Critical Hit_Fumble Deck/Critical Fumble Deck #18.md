@@ -20,7 +20,7 @@ tags:
 
 # Upset Stomach
 
-> You are [[Conditions/Sickened 1|Sickened 2]].
+> You are [[Conditions/Sickened|Sickened 2]].
 
 `Unarmed`
 

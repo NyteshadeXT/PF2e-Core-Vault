@@ -5,6 +5,7 @@ noteType: pf2eHazard
 tags:
   - environmental
   - kaiju
+  - pf2eHazard
 
 source: Pathfinder Lost Omens: Monsters of Myth
 aliases: "Compendium.pf2e.lost-omens-monsters-of-myth-bestiary.Actor.vI7wAKNDX05DShWy" 
@@ -22,14 +23,14 @@ name: "Quaking Slither"
 level: "Hazard 14"
 
 
-trait_01: "environmental"
-trait_02: "kaiju"
+trait_01: [[environmental]]
+trait_02: [[kaiju]]
 modifier: 0
 sourcebook: "_Pathfinder Lost Omens: Monsters of Myth_"
 ac: 10
 armorclass:
   - name: AC
-    desc: "10; __Fort__ +0, __Ref__ +0, __Will__ +0"
+    desc: "10; "
 hp: 0
 health:
   - name: ""
@@ -51,10 +52,16 @@ attacks:
   - name: ""
 
   - name: "Quake"
-    desc: "`pf2:r` **Trigger** Ebeshra moves at least 60 feet on land\n**Effect** The ground shakes in a 120-foot emanation from Ebeshra's space. This creates a variety of effects depending on the surrounding environment.\nIn an area without significant underground space, the ground becomes greater difficult terrain, and creatures on it are [[Conditions/Off-Guard|Off-Guard]] and [[Conditions/Clumsy 1|Clumsy 2]] for 1 round.\nIn areas with existing underground spaces (like sewers, sinkholes, or catacombs), fissures open up in the ground. Creatures in the area tumble into the resulting 80-foot-deep hole unless they succeed at a DC 40 Reflex check save.\nIn bays, on beaches, and in other relatively substantial but shallow bodies of water, the tremors create dangerous waves. Creatures in the water or within 60 feet of the waterline are struck by waves that deal 10d8 bludgeoning damage (DC 35 Reflex check save). On a critical failure, a creature is instantly swept 60 feet out to sea and 60 feet under the water's surface."
+    desc: "`pf2:r` **Trigger** Ebeshra moves at least 60 feet on land\n* * *\n\n**Effect** The ground shakes in a @Template[emanation|distance:120] from Ebeshra's space. This creates a variety of effects depending on the surrounding environment.\n\nIn an area without significant underground space, the ground becomes greater difficult terrain, and creatures on it are [[Conditions/Off-Guard|Off-Guard]] and [[Conditions/Clumsy|Clumsy 2]] for 1 round.\n\nIn areas with existing underground spaces (like sewers, sinkholes, or catacombs), fissures open up in the ground. Creatures in the area tumble into the resulting 80-foot-deep hole unless they succeed at a DC 40 Reflex check save.\n\nIn bays, on beaches, and in other relatively substantial but shallow bodies of water, the tremors create dangerous waves. Creatures in the water or within 60 feet of the waterline are struck by waves that deal 10d8 bludgeoning damage (DC 35 Reflex check save). On a critical failure, a creature is instantly swept 60 feet out to sea and 60 feet under the water's surface."
 
 
   - name: "Reset"
     desc: "Ebeshra doesn't rush this way again for 1d4 rounds."
+```
+
+```encounter-table
+name: Quaking Slither
+creatures:
+  - 1: Quaking Slither
 ```
 

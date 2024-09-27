@@ -26,6 +26,6 @@ tags:
 
 # Excruciating
 
-> The target is [[Conditions/Sickened 1|Sickened 3]].
+> The target is [[Conditions/Sickened|Sickened 3]].
 
 `Bomb or Spell`

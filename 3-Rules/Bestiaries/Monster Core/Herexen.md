@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.pathfinder-monster-core.Actor.oNR29GreK0AxLucN"
 tags:
   - pf2e/creature/type/undead
   - pf2e/creature/type/unholy
+  - pf2eMonster
   - pf2e/creature/level/2
   - remaster
 statblock: inline
@@ -23,11 +24,11 @@ token: [[modules/pf2e-tokens-bestiaries/portraits/undead/herexen.webp| ]]
 source: "Pathfinder Monster Core"
 name: "Herexen"
 level: "Creature 2"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Medium"
-trait_01: "undead"
-trait_02: "unholy"
+trait_01: [[undead]]
+trait_02: [[unholy]]
 modifier: 8
 perception:
   - name: "Perception"
@@ -72,6 +73,12 @@ attacks:
   - name: "Heretic's Smite"
     desc: " (divine) While wielding the favored weapon of its former deity (such as a dagger for an ex-Pharasmin herexen), the herexen's Strikes deal an additional 1d6 spirit damage to creatures with the holy trait."
  
+```
+
+```encounter-table
+name: Herexen
+creatures:
+  - 1: Herexen
 ```
 
 

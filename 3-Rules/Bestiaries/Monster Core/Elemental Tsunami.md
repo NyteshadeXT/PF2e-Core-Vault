@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/aquatic
   - pf2e/creature/type/elemental
   - pf2e/creature/type/water
+  - pf2eMonster
   - pf2e/creature/level/11
   - remaster
 statblock: inline
@@ -27,9 +28,9 @@ level: "Creature 11"
 
 alignment: ""
 size: "huge"
-trait_01: "aquatic"
-trait_02: "elemental"
-trait_03: "water"
+trait_01: [[aquatic]]
+trait_02: [[elemental]]
+trait_03: [[water]]
 modifier: 22
 perception:
   - name: "Perception"
@@ -54,7 +55,7 @@ abilities_top:
   - name: ""
 
   - name: "Waterbound"
-    desc: "  When not touching water, the elemental tsunami is [[Conditions/Slowed 1|Slowed 1]] and can't use reactions."
+    desc: "  When not touching water, the elemental tsunami is [[Conditions/Slowed|Slowed 1]] and can't use reactions."
 
 abilities_mid:
   - name: ""
@@ -68,14 +69,20 @@ attacks:
     desc: "`pf2:1` Wave +24 (reach 20 feet)\n__Damage__  2d12 + 12 bludgeoning plus push-or-pull-10-feet"
 
   - name: "Drench"
-    desc: "`pf2:1` (primal,water) The elemental puts out all fires in a 20-foot emanation.\n\nIt extinguishes all non-magical fires automatically and attempts to counteract magical fires (+20 counteract modifier)."
+    desc: "`pf2:1` (primal,water) The elemental puts out all fires in a @Template[emanation|distance:20].\n\nIt extinguishes all non-magical fires automatically and attempts to counteract magical fires (+20 counteract modifier)."
 
   - name: "Surge"
-    desc: "`pf2:2`  The elemental tsunami momentarily expands to fill the area of its vortex. Creatures within the aura take 5d12 + 6 bludgeoning damage with a DC 31 Fortitude check save. A creature that fails this save is pushed 20 feet.\n\nThe elemental tsunami then shrinks to its normal space and can't Surge again for 1d4 rounds."
+    desc: "`pf2:2`  The elemental tsunami momentarily expands to fill the area of its vortex. Creatures within the aura take 5d12+6 bludgeoning damage with a DC 31 Fortitude check save. A creature that fails this save is pushed 20 feet.\n\nThe elemental tsunami then shrinks to its normal space and can't Surge again for 1d4 rounds."
 
   - name: "[[Bestiary Ability Glossary/Push|Push or Pull 10 feet]]"
-    desc: "`pf2:1`  The elemental tsunami can choose whether to push or pull the creature on a succesful hit.\n* * *\n\n**Push**`pf2:1`\n* * *\n\n**Pull** `pf2:1`"
+    desc: "`pf2:1`  The elemental tsunami can choose whether to push or pull the creature on a succesful hit.\n* * *\n\n**Push** `pf2:1`\n* * *\n\n**Pull** `pf2:1`"
  
+```
+
+```encounter-table
+name: Elemental Tsunami
+creatures:
+  - 1: Elemental Tsunami
 ```
 
 

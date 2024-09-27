@@ -20,7 +20,7 @@ license: ORC
 
 
 
-HP \_\_; AC \_\_, Fort +\_\_, Ref +\_\_, Will +\_\_
+HP __; AC __, Fort +__, Ref +__, Will +__
 
 * * *
 

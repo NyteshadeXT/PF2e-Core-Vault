@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/chaotic
   - pf2e/creature/type/fey
   - pf2e/creature/type/sprite
+  - pf2eMonster
   - pf2e/creature/level/-1
 statblock: inline
 name: "Sprite"
@@ -26,9 +27,9 @@ level: "Creature -1"
 
 alignment: ""
 size: "tiny"
-trait_01: "chaotic"
-trait_02: "fey"
-trait_03: "sprite"
+trait_01: [[chaotic]]
+trait_02: [[fey]]
+trait_03: [[sprite]]
 modifier: 4
 perception:
   - name: "Perception"
@@ -70,6 +71,12 @@ attacks:
   - name: "Primal Innate Spells"
     desc: "DC 16, attack +8; __1st __  _[[Spells/Dizzying Colors|Color Spray]]_\n__Cantrips__  __(1st)__ _[[Compendium.pf2e.spells-srd.Item.kl2q6JvBZwed4B6v|Dancing Lights]]_, _[[Spells/Daze|Daze]]_, _[[Spells/Detect Magic|Detect Magic]]_"
  
+```
+
+```encounter-table
+name: Sprite
+creatures:
+  - 1: Sprite
 ```
 
 

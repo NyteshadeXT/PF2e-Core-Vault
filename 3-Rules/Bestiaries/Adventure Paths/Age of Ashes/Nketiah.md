@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/elf
   - pf2e/creature/type/good
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/6
 statblock: inline
 name: "Nketiah"
@@ -22,20 +23,20 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #146: Cult of Cinders"
 name: "Nketiah"
 level: "Creature 6"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Medium"
-trait_01: "elf"
-trait_02: "good"
-trait_03: "humanoid"
+trait_01: [[elf]]
+trait_02: [[good]]
+trait_03: [[humanoid]]
 modifier: 12
 perception:
   - name: "Perception"
     desc: "+12; Low-Light Vision"
-languages: "Common, Draconic, Elven, Empyrean, Fey, Mwangi"
+languages: "Common, Draconic, Elven, Empyrean, Fey, Mwangi; charau-ka"
 skills:
   - name: "Skills"
-    desc: "Arcana: +11, Athletics: +9 (+13 to Climb), Deception: +12, Diplomacy: +13, Ekujae Lore: +15, Nature: +10, Occultism: +11, Performance: +14, Society: +15, Survival: +10"
+    desc: "Arcana: +11, Athletics: +9, Deception: +12, Diplomacy: +13, Nature: +10, Occultism: +11, Performance: +14, Society: +15, Survival: +10, Ekujae Lore: +15"
 abilityMods: [1, 3, 0, 3, 2, 4]
 speed: 35 feet,  climb 20 feet
 sourcebook: "_Pathfinder #146: Cult of Cinders_"
@@ -84,6 +85,12 @@ attacks:
   - name: "Woodland Stride"
     desc: "  Nketiah ignores difficult terrain caused by plants."
  
+```
+
+```encounter-table
+name: Nketiah
+creatures:
+  - 1: Nketiah
 ```
 
 

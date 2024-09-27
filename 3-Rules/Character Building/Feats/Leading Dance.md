@@ -3,16 +3,18 @@ obsidianUIMode: preview
 title: "Leading Dance"
 cssclasses: pf2e,pf2e-spell
 tags:
+  - trait/bravado
   - trait/move
   - trait/swashbuckler
   - trait/common
   - category/class
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.ZHPSASbvbbshq1zG"
-license: OGL
+license: ORC
 ---
 # Leading Dance `pf2:1`
 ## Feat 4
-### [[move]][[swashbuckler]]
+### [[bravado]][[move]][[swashbuckler]]
 
 **Category** class; 
 
@@ -24,7 +26,7 @@ license: OGL
 
 * * *
 
-You sweep your foe into your dance. Attempt a Performance check check against an adjacent enemy's Will DC. If your swashbuckler's style is [[Class Features/Battledancer|Battledancer]] and you succeed, you gain [[Feat_Feature Effects/Effect_ Panache|Panache]].
+You sweep your foe into your dance. Attempt a Performance check check against an adjacent enemy's Will DC.
 
 * * *
 
@@ -36,5 +38,5 @@ You sweep your foe into your dance. Attempt a Performance check check against an
 
 **Critical Failure** You stumble, falling [[Conditions/Prone|Prone]] in your space.
 
-*Source: Pathfinder Advanced Player's Guide*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

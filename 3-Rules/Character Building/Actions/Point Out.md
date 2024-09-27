@@ -14,7 +14,7 @@ license: ORC
 ---
 # Point Out `pf2:1`
 
-### [[auditory]][[manipulate]][[visual]]
+### [[3-Rules/Rule References/auditory]][[3-Rules/Rule References/Manipulate]][[visual]]
 
 **Category** interaction; 
 

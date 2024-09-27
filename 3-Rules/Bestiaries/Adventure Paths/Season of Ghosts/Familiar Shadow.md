@@ -10,6 +10,7 @@ tags:
   - pf2e/creature/type/incorporeal
   - pf2e/creature/type/undead
   - pf2e/creature/type/unholy
+  - pf2eMonster
   - pf2e/creature/level/4
 statblock: inline
 name: "Familiar Shadow"
@@ -27,11 +28,11 @@ level: "Creature 4"
 
 alignment: ""
 size: "Medium"
-trait_01: "chaotic"
-trait_02: "evil"
-trait_03: "incorporeal"
-trait_04: "undead"
-trait_05: "unholy"
+trait_01: [[chaotic]]
+trait_02: [[evil]]
+trait_03: [[incorporeal]]
+trait_04: [[undead]]
+trait_05: [[unholy]]
 modifier: 10
 perception:
   - name: "Perception"
@@ -70,14 +71,20 @@ attacks:
     desc: "  When a familiar shadow pulls free the shadow of the PC that they duplicate, it twists and writhes for a moment before it immediately slithers back around the character. The infested shadow seems to writhe and twist on its own, as if willfully ignoring the actions of the character to whom it's attached. The infested shadow has a habit of making distracting and embarrassing motions, and imparts a –2 status penalty to its attached PC's Deception, Diplomacy, and Stealth checks. If the PC is in a situation where they aren't casting a shadow (such as when they're in complete darkness or [[Conditions/Invisible|Invisible]]), these penalties are suppressed, but return as soon as their infested shadow does. If a PC with an infested shadow gains the dying condition, the shadow breaks free and becomes a shadow spawn (which functions the same as a shadow spawn created by a typical shadow). This shadow spawn won't attack the creature it spawned from, but any other targets are fair game. If the dying character recovers, their shadow spawn immediately dies and their shadow returns to normal—otherwise the only way to be rid of this strange curse is through the use of a spell like remove curse."
 
   - name: "Shadow Spawn"
-    desc: "  When a creature's shadow is pulled free by Steal Shadow, it becomes a [[Bestiary 1/Shadow|Shadow Spawn]] under the command of the shadow that created it. This shadow spawn doesn't have Steal Shadow and is perpetually and incurably [[Conditions/Clumsy 1|Clumsy 2]]. If the creature the shadow spawn was pulled from dies, the shadow spawn becomes a full-fledged, autonomous shadow. If the creature recovers from its [[Conditions/Enfeebled 1|Enfeeblement]], its shadow returns to it and the shadow spawn is extinguished."
+    desc: "  When a creature's shadow is pulled free by Steal Shadow, it becomes a [[Bestiary 1/Shadow|Shadow Spawn]] under the command of the shadow that created it. This shadow spawn doesn't have Steal Shadow and is perpetually and incurably [[Conditions/Clumsy|Clumsy 2]]. If the creature the shadow spawn was pulled from dies, the shadow spawn becomes a full-fledged, autonomous shadow. If the creature recovers from its [[Conditions/Enfeebled|Enfeeblement]], its shadow returns to it and the shadow spawn is extinguished."
 
   - name: "Slink in Shadows"
     desc: "  The shadow can [[Actions/Hide|Hide]] or end its [[Actions/Sneak|Sneak]] in a creature's or object's shadow."
 
   - name: "Steal Shadow"
-    desc: "`pf2:1` (divine) **Requirements** The shadow hit a living creature with a shadow hand Strike on its previous action.\nThis ability only functions against the PC who the shadow appears to duplicate.\n**Effect** The shadow pulls at the target's shadow, making the creature [[Conditions/Enfeebled 1|Enfeebled 1]]. This is cumulative with other enfeebled conditions from shadows, to a maximum of enfeebled 4. If this increases a creature's enfeebled value to 3 or more, the target's shadow is separated from its body. Enfeebled from Steal Shadow decreases by 1 every hour."
+    desc: "`pf2:1` (divine) **Requirements** The shadow hit a living creature with a shadow hand Strike on its previous action.\n\nThis ability only functions against the PC who the shadow appears to duplicate.\n* * *\n\n**Effect** The shadow pulls at the target's shadow, making the creature [[Conditions/Enfeebled|Enfeebled 1]]. This is cumulative with other enfeebled conditions from shadows, to a maximum of enfeebled 4. If this increases a creature's enfeebled value to 3 or more, the target's shadow is separated from its body. Enfeebled from Steal Shadow decreases by 1 every hour."
  
+```
+
+```encounter-table
+name: Familiar Shadow
+creatures:
+  - 1: Familiar Shadow
 ```
 
 

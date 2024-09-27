@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.pathfinder-monster-core.Actor.S1XgBHtXIOV3JjLy"
 tags:
   - pf2e/creature/type/humanoid
   - pf2e/creature/type/xulgath
+  - pf2eMonster
   - pf2e/creature/level/2
   - remaster
 statblock: inline
@@ -26,8 +27,8 @@ level: "Creature 2"
 
 alignment: ""
 size: "Medium"
-trait_01: "humanoid"
-trait_02: "xulgath"
+trait_01: [[humanoid]]
+trait_02: [[xulgath]]
 modifier: 7
 perception:
   - name: "Perception"
@@ -73,7 +74,7 @@ attacks:
     desc: "`pf2:1` Dagger +10 (agile, thrown 10 ft., versatile s)\n__Damage__  1d4 + 3 piercing"
 
   - name: "Hidden Movement"
-    desc: "  If a xulgath skulker starts their turn [[Conditions/Undetected|Undetected]] by a creature or [[Conditions/Hidden|Hidden]] from it, that creature is [[Conditions/Off-Guard|Off-Guard]] against the skulker's attacks until the end merely hidden from it, that creature is off-guard against the skulker's attacks until of the skulker's turn. the end of the skulker's turn."
+    desc: "  If a xulgath skulker starts their turn [[Conditions/Undetected|Undetected]] by a creature or merely [[Conditions/Hidden|Hidden]] from it, that creature is [[Conditions/Off-Guard|Off-Guard]] against the skulker's attacks until the end of the skulker's turn."
 
   - name: "Mask Stench"
     desc: "  The stalker masks their stench with curated herbs, suppressing their stench aura. The skulker can resume their stench aura as a free action."
@@ -81,6 +82,12 @@ attacks:
   - name: "Sneak Attack"
     desc: "  A xulgath skulker deals an additional 1d6 precision damage to [[Conditions/Off-Guard|Off-Guard]] creatures."
  
+```
+
+```encounter-table
+name: Xulgath Skulker
+creatures:
+  - 1: Xulgath Skulker
 ```
 
 

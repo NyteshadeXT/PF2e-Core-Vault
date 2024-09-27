@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/humanoid
   - pf2e/creature/type/urdefhan
+  - pf2eMonster
   - pf2e/creature/level/10
 statblock: inline
 name: "Khurfel"
@@ -23,13 +24,13 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #165: Eyes of Empty Death"
 name: "Khurfel"
 level: "Creature 10"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Medium"
-trait_01: "chaotic"
-trait_02: "evil"
-trait_03: "humanoid"
-trait_04: "urdefhan"
+trait_01: [[chaotic]]
+trait_02: [[evil]]
+trait_03: [[humanoid]]
+trait_04: [[urdefhan]]
 modifier: 19
 perception:
   - name: "Perception"
@@ -60,7 +61,7 @@ abilities_mid:
     desc: "`pf2:r`  "
 
   - name: "Necrotic Decay"
-    desc: " (divine,void) When Khurfel dies, his invisible flesh quickly rots away and sublimates into a foul-smelling gas that fills a 10-foot emanation around his body. The gas deals 10d6 void damage to creatures in this area as their flesh too curdles and rots (DC 28 Fortitude check save)."
+    desc: " (divine,void) When Khurfel dies, his invisible flesh quickly rots away and sublimates into a foul-smelling gas that fills a @Template[emanation|distance:10] around his body. The gas deals 10d6 void damage to creatures in this area as their flesh too curdles and rots (DC 28 Fortitude check save)."
 
 attacks:
   - name: ""
@@ -78,14 +79,20 @@ attacks:
     desc: "DC 28, attack +20; __4th __ (2 slots) _[[Spells/Harm|Harm]]_, _[[Spells/Read Omens|Read Omens]]_; __3rd __ (2 slots) _[[Spells/Blindness|Blindness]]_, _[[Spells/Paralyze|Paralyze]]_; __2nd __ (2 slots) _[[Spells/Augury|Augury]]_, _[[Spells/Death Knell|Death Knell]]_; __1st __ (1 slots) _[[Spells/Gentle Landing|Feather Fall (At Will) (Self Only)]]_, _[[Spells/Enfeeble|Ray of Enfeeblement]]_"
 
   - name: "Frenzied Attack"
-    desc: "`pf2:2`  Khurfel makes one rhoka sword Strike and two jaws Strikes against one or two different creatures (splitting up the attacks any way he wishes).\nHis multiple attack penalty doesn't increase until after all three attacks."
+    desc: "`pf2:2`  Khurfel makes one rhoka sword Strike and two jaws Strikes against one or two different creatures (splitting up the attacks any way he wishes).\n\nHis multiple attack penalty doesn't increase until after all three attacks."
 
   - name: "Insightful Swing"
     desc: "`pf2:2`  Khurfel makes a melee weapon Strike. On this Strike, he gains a +2 circumstance bonus to the attack roll and ignores any concealment the target has."
 
   - name: "Wicked Bite"
-    desc: "`pf2:1`  **Requirements** Khurfel damaged a creature with a jaws Strike on his last action\n**Effect** Khurfel maintains contact, turning the creature's flesh translucent around the injury. Khurfel chooses one of two options, each of which requires a DC 28 Fortitude check save. If the jaws Strike was a critical hit, the creature suffers both effects, using the same save result for both.\n*   Drain Blood Khurfel drinks some of the creature's blood. On a failed save, the creature is [[Conditions/Drained 1|Drained 1]] and Khurfel regains 10 HP (or, on a critical failure, it's [[Conditions/Drained 1|Drained 2]] and Khurfel regains 20 HP).\n*   Drain Vitality Khurfel draws out some of the creature's vital essence. The creature becomes [[Conditions/Enfeebled 1|Enfeebled 1]] for 1 hour on a failed save (or [[Conditions/Enfeebled 1|Enfeebled 2]] for 1 hour on a critical failure)."
+    desc: "`pf2:1`  **Requirements** Khurfel damaged a creature with a jaws Strike on his last action\n* * *\n\n**Effect** Khurfel maintains contact, turning the creature's flesh translucent around the injury. Khurfel chooses one of two options, each of which requires a DC 28 Fortitude check save. If the jaws Strike was a critical hit, the creature suffers both effects, using the same save result for both.\n\n*   Drain Blood Khurfel drinks some of the creature's blood. On a failed save, the creature is [[Conditions/Drained|Drained 1]] and Khurfel regains 10 HP (or, on a critical failure, it's [[Conditions/Drained|Drained 2]] and Khurfel regains 20 HP).\n*   Drain Vitality Khurfel draws out some of the creature's vital essence. The creature becomes [[Conditions/Enfeebled|Enfeebled 1]] for 1 hour on a failed save (or [[Conditions/Enfeebled|Enfeebled 2]] for 1 hour on a critical failure)."
  
+```
+
+```encounter-table
+name: Khurfel
+creatures:
+  - 1: Khurfel
 ```
 
 

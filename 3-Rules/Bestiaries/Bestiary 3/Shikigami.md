@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/kami
   - pf2e/creature/type/lawful
   - pf2e/creature/type/spirit
+  - pf2eMonster
   - pf2e/creature/level/1
 statblock: inline
 name: "Shikigami"
@@ -26,9 +27,9 @@ level: "Creature 1"
 
 alignment: ""
 size: "tiny"
-trait_01: "kami"
-trait_02: "lawful"
-trait_03: "spirit"
+trait_01: [[kami]]
+trait_02: [[lawful]]
+trait_03: [[spirit]]
 modifier: 10
 perception:
   - name: "Perception"
@@ -53,7 +54,7 @@ abilities_top:
   - name: ""
 
   - name: "Ward"
-    desc: " (divine) Every kami is bound to a ward: a specific animal, plant, object, or location. A kami can merge with or emerge from their ward as a single action, which has the concentrate trait. While merged, the kami can observe their surroundings with their usual senses as well as the senses of their ward, but can't move, communicate with, or control their ward. Additionally, a kami merged with their ward recovers Hit Points each minute as if they spent an entire day resting.\nA shikigami's ward is typically a minor work of art or symbol of civilization, such as a milestone, trail sign, personal garden, or tiny statue."
+    desc: " (divine) Every kami is bound to a ward: a specific animal, plant, object, or location. A kami can merge with or emerge from their ward as a single action, which has the concentrate trait. While merged, the kami can observe their surroundings with their usual senses as well as the senses of their ward, but can't move, communicate with, or control their ward. Additionally, a kami merged with their ward recovers Hit Points each minute as if they spent an entire day resting.\n\nA shikigami's ward is typically a minor work of art or symbol of civilization, such as a milestone, trail sign, personal garden, or tiny statue."
 
 abilities_mid:
   - name: ""
@@ -72,6 +73,12 @@ attacks:
   - name: "Divine Innate Spells"
     desc: "DC 17, attack +9; __2nd __  _[[Spells/Animal Messenger|Animal Messenger]]_, _[[Spells/Invisibility|Invisibility (Self Only)]]_; __1st __  _[[Spells/Cleanse Cuisine|Purify Food and Drink]]_\n__Cantrips__  __(1st)__ _[[Spells/Forbidding Ward|Forbidding Ward]]_"
  
+```
+
+```encounter-table
+name: Shikigami
+creatures:
+  - 1: Shikigami
 ```
 
 

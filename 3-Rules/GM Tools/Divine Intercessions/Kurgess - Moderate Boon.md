@@ -16,7 +16,7 @@ license: OGL
 
 
 
-**Moderate Boon:** You fear no exertion. You can employ exploration tactics normally while [[Conditions/Fatigued|Fatigued]].
+You fear no exertion. You can employ exploration tactics normally while [[Conditions/Fatigued|Fatigued]].
 
 *Source: Pathfinder Lost Omens: Gods & Magic*
 *OGL*

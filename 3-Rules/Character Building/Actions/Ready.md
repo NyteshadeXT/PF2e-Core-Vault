@@ -13,7 +13,7 @@ license: ORC
 ---
 # Ready `pf2:2`
 
-### [[concentrate]][[general]]
+### [[3-Rules/Rule References/Concentrate]][[general]]
 
 **Category** interaction; 
 

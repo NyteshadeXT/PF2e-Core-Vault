@@ -11,7 +11,7 @@ license: OGL
 ---
 # Tap Ley Line `pf2:1`
 
-### [[concentrate]]
+### [[3-Rules/Rule References/Concentrate]]
 
 **Category** interaction; 
 

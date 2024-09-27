@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/beast
   - pf2e/creature/type/chaotic
   - pf2e/creature/type/evil
+  - pf2eMonster
   - pf2e/creature/level/4
 statblock: inline
 name: "Peryton (Arctic)"
@@ -22,12 +23,12 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Society Scenario #3-13: Guardian&#x27;s Covenant"
 name: "Peryton (Arctic)"
 level: "Creature 4"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Medium"
-trait_01: "beast"
-trait_02: "chaotic"
-trait_03: "evil"
+trait_01: [[beast]]
+trait_02: [[chaotic]]
+trait_03: [[evil]]
 modifier: 13
 perception:
   - name: "Perception"
@@ -63,11 +64,17 @@ attacks:
     desc: "`pf2:1` Fangs +14 (agile)\n__Damage__  1d8 + 4 slashing 1d6 cold"
 
   - name: "Heart Ripper"
-    desc: "`pf2:1` (attack,emotion,fear,visual) The peryton rips out the heart of an adjacent corpse with their jaws. The creature must have died in the last minute. As the peryton rips the heart free and swallows it whole, they regain 2d6 HP, and any non-peryton that witnesses this event must succeed at a DC 21 Will check save or become [[Conditions/Frightened 1|Frightened 1]] (or [[Conditions/Frightened 1|Frightened 2]] on a critical failure)."
+    desc: "`pf2:1` (attack,emotion,fear,visual) The peryton rips out the heart of an adjacent corpse with their jaws. The creature must have died in the last minute. As the peryton rips the heart free and swallows it whole, they regain 2d6 HP, and any non-peryton that witnesses this event must succeed at a DC 21 Will check save or become [[Conditions/Frightened|Frightened 1]] (or [[Conditions/Frightened|Frightened 2]] on a critical failure)."
 
   - name: "Mimic Shadow"
-    desc: "`pf2:1` (emotion,fear,occult,shadow) **Requirements** The target must be casting a shadow\n**Effect** The peryton Flies, going no higher than 20 feet over the target creature. The target creature must succeed at a DC 21 Will check save or the peryton's shadow changes to match that cast by the target creature. With their shadow so transformed, the peryton gains a +2 status bonus to attack and damage rolls against that creature.\nIn addition, each time the peryton successfully Strikes that creature, the creature must succeed at a DC 21 Will check save or become [[Conditions/Frightened 1|Frightened 1]], or increase its frightened condition by 1 if it's already frightened. This is an emotion and fear effect. The shadow remains transformed for 1 hour or until the peryton Mimics a Shadow again, whichever comes first."
+    desc: "`pf2:1` (emotion,fear,occult,shadow) **Requirements** The target must be casting a shadow\n* * *\n\n**Effect** The peryton Flies, going no higher than 20 feet over the target creature. The target creature must succeed at a DC 21 Will check save or the peryton's shadow changes to match that cast by the target creature. With their shadow so transformed, the peryton gains a +2 status bonus to attack and damage rolls against that creature.\n\nIn addition, each time the peryton successfully Strikes that creature, the creature must succeed at a DC 21 Will check save or become [[Conditions/Frightened|Frightened 1]], or increase its frightened condition by 1 if it's already frightened. This is an emotion and fear effect. The shadow remains transformed for 1 hour or until the peryton Mimics a Shadow again, whichever comes first."
  
+```
+
+```encounter-table
+name: Peryton (Arctic)
+creatures:
+  - 1: Peryton (Arctic)
 ```
 
 

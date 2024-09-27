@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/celestial
   - pf2e/creature/type/good
   - pf2e/creature/type/holy
+  - pf2eMonster
   - pf2e/creature/level/20
 statblock: inline
 name: "Draconal (Black)"
@@ -27,18 +28,18 @@ level: "Creature 20"
 
 alignment: ""
 size: "Large"
-trait_01: "agathion"
-trait_02: "celestial"
-trait_03: "good"
-trait_04: "holy"
+trait_01: [[agathion]]
+trait_02: [[celestial]]
+trait_03: [[good]]
+trait_04: [[holy]]
 modifier: 36
 perception:
   - name: "Perception"
     desc: "+36; Darkvision"
-languages: "Diabolic, Draconic, Empyrean"
+languages: "Diabolic, Draconic, Empyrean; speak with animals, tongues"
 skills:
   - name: "Skills"
-    desc: "Arcana: +38, Crafting: +30, Deception: +35, Diplomacy: +37, Intimidation: +35, Medicine: +34, Nature: +34, Nirvana Lore: +36, Religion: +36, Society: +32, Survival: +32"
+    desc: "Arcana: +38, Crafting: +30, Deception: +35, Diplomacy: +37, Intimidation: +35, Medicine: +34, Nature: +34, Religion: +36, Society: +32, Survival: +32, Nirvana Lore: +36"
 abilityMods: [10, 5, 8, 8, 10, 9]
 speed: 30 feet,  fly 90 feet
 sourcebook: "_Pathfinder Bestiary 3_"
@@ -57,7 +58,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Dragon's Salvation"
-    desc: "`pf2:r`  **Trigger** A creature within the draconal's reach would take damage.\n**Effect** Before applying the damage, the draconal casts [[Spells/Lay on Hands|Lay on Hands]] on the triggering creature."
+    desc: "`pf2:r`  **Trigger** A creature within the draconal's reach would take damage.\n* * *\n\n**Effect** Before applying the damage, the draconal casts [[Spells/Lay on Hands|Lay on Hands]] on the triggering creature."
 
 attacks:
   - name: ""
@@ -75,11 +76,17 @@ attacks:
     desc: "3 Focus Points, DC 46, attack +38; __10th __  _[[Spells/Lay on Hands|Lay on Hands]]_"
 
   - name: "Breath Weapon"
-    desc: "`pf2:2` (divine) The draconal breathes a blast of energy that deals 21d6 fire damage to creatures they choose to damage in a 60-foot cone (DC 44 Reflex check save).\nThey can make this effect nonlethal for selected creatures in the area or choose not to damage certain creatures at all.\nThey can't use Breath Weapon again for 1d4 rounds."
+    desc: "`pf2:2` (divine) The draconal breathes a blast of energy that deals 21d6 fire damage to creatures they choose to damage in a @Template[cone|distance:60] (DC 44 Reflex check save).\n\nThey can make this effect nonlethal for selected creatures in the area or choose not to damage certain creatures at all.\n\nThey can't use Breath Weapon again for 1d4 rounds."
 
   - name: "Dragon's Wisdom"
-    desc: "  Draconals embody the core value of wisdom, but every path to wisdom and enlightenment differs, so draconals' powers vary by temperament and coloration. A draconal's scale color determines their associated energy damage type.\nThey gain resistance 15 to that damage type, deal 4d6 extra damage of that type with their Strikes, and deal 21d6 damage of that type with their breath weapon. They gain additional wisdom in the form of the basic and advanced domain spells from one domain, chosen from four domains available to draconals with their scale color.\n_Note: Choose the domain powers from the available domains according to the Draconal's scale color and add them to the \"Champion Focus Spell\" spellcasting entry._\n*   _**All colors** [[PF2e Journals/Domains/Air Domain|Air Domain]] [[PF2e Journals/Domains/Healing Domain|Healing Domain]]_\n*   _**Black** [[PF2e Journals/Domains/Fire Domain|Fire Domain]] [[PF2e Journals/Domains/Luck Domain|Luck Domain]]_"
+    desc: "  Draconals embody the core value of wisdom, but every path to wisdom and enlightenment differs, so draconals' powers vary by temperament and coloration. A draconal's scale color determines their associated energy damage type.\n\nThey gain resistance 15 to that damage type, deal 4d6 extra damage of that type with their Strikes, and deal 21d6 damage of that type with their breath weapon. They gain additional wisdom in the form of the basic and advanced domain spells from one domain, chosen from four domains available to draconals with their scale color.\n* * *\n\n_Note: Choose the domain powers from the available domains according to the Draconal's scale color and add them to the \"Champion Focus Spell\" spellcasting entry._\n\n*   _**All colors** [[PF2e Journals/Domains/Air Domain|Air Domain]] [[PF2e Journals/Domains/Healing Domain|Healing Domain]]_\n*   _**Black** [[PF2e Journals/Domains/Fire Domain|Fire Domain]] [[PF2e Journals/Domains/Luck Domain|Luck Domain]]_"
  
+```
+
+```encounter-table
+name: Draconal (Black)
+creatures:
+  - 1: Draconal (Black)
 ```
 
 

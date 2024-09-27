@@ -7,8 +7,9 @@ tags:
   - trait/duskwalker
   - trait/common
   - category/ancestry
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.iNrR4WOB1UO9iiNE"
-license: OGL
+license: ORC
 ---
 # Lifesense
 ## Feat 5
@@ -19,9 +20,7 @@ license: OGL
 
 
 
-You have a limited ability to sense life force, like your psychopomp forebears.
+You have a limited ability to sense life force, like your psychopomp forebears. You gain lifesense as an imprecise sense with a range of 10 feet. This allows you to sense the life force of living and undead creatures within the listed range. The sense can distinguish between the vitality energy animating living creatures and the void energy animating undead creatures, much as sight distinguishes colors.
 
-You gain lifesense as an imprecise sense with a range of 10 feet. This allows you to sense the life force within living creatures and its counterforce that animates the undead, though you can't distinguish between the two.
-
-*Source: Pathfinder Advanced Player's Guide*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

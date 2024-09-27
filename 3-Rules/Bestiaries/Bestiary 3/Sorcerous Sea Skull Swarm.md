@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/swarm
   - pf2e/creature/type/undead
   - pf2e/creature/type/unholy
+  - pf2eMonster
   - pf2e/creature/level/14
 statblock: inline
 name: "Sorcerous Sea Skull Swarm"
@@ -24,17 +25,18 @@ token: [[modules/pf2e-tokens-bestiaries/portraits/undead/skeletal/sorcerous-skul
 source: "Pathfinder Bestiary 3"
 name: "Sorcerous Sea Skull Swarm"
 level: "Creature 14"
-rare_03: "Rare"
+rare_03: [[Rare]]
 alignment: ""
 size: "Large"
-trait_01: "evil"
-trait_02: "swarm"
-trait_03: "undead"
-trait_04: "unholy"
+trait_01: [[evil]]
+trait_02: [[swarm]]
+trait_03: [[undead]]
+trait_04: [[unholy]]
 modifier: 24
 perception:
   - name: "Perception"
     desc: "+24; Darkvision, Truesight"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Acrobatics: +26, Arcana: +28, Occultism: +28"
@@ -56,10 +58,10 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Boneshard Burst"
-    desc: "  When a sorcerous skull swarm is reduced to 0 Hit Points, it erupts in an explosion of foul energy and bone fragments in a 30-foot burst, dealing 3d12 piercing damage and 3d12 void damage (DC 34 Reflex check save)."
+    desc: "  When a sorcerous skull swarm is reduced to 0 Hit Points, it erupts in an explosion of foul energy and bone fragments in a @Template[burst|distance:30], dealing 3d12 piercing damage and 3d12 void damage (DC 34 Reflex check save)."
 
   - name: "Consume Spell"
-    desc: "`pf2:r`  **Trigger** The swarm is targeted with a spell\n**Effect** The swarm casts [[Spells/Dispel Magic|Dispel Magic]] to counteract the triggering spell. If it successfully counteracts the spell, it gains temporary Hit Points equal to twice the level of the counteracted spell that last for 1 minute."
+    desc: "`pf2:r`  **Trigger** The swarm is targeted with a spell\n* * *\n\n**Effect** The swarm casts [[Spells/Dispel Magic|Dispel Magic]] to counteract the triggering spell. If it successfully counteracts the spell, it gains temporary Hit Points equal to twice the level of the counteracted spell that last for 1 minute."
 
 attacks:
   - name: ""
@@ -68,11 +70,17 @@ attacks:
     desc: "DC 36, attack +26; __7th __  _[[Spells/Dispel Magic|Dispel Magic (At Will)]]_, _[[Spells/Spell Turning|Spell Turning]]_\n__Cantrips__  __(7th)__ _[[Spells/Detect Magic|Detect Magic]]_, _[[Spells/Telekinetic Hand|Mage Hand]]_, _[[Spells/Telekinetic Projectile|Telekinetic Projectile]]_\n__Constant__  __(7th)__ _[[Spells/Truesight|True Seeing]]_"
 
   - name: "Siphon Magic"
-    desc: "`pf2:2` (arcane,illusion,mental) The sorcerous skull swarm saps magic from nearby creatures. Any creature with the ability to cast spells (including innate spells) in the swarm's space takes 15d6 mental damage (DC 34 Will check save); on a failure, the creature is also [[Conditions/Stupefied 1|Stupefied 2]] ([[Conditions/Stupefied 1|Stupefied 3]] on a critical failure)."
+    desc: "`pf2:2` (arcane,illusion,mental) The sorcerous skull swarm saps magic from nearby creatures. Any creature with the ability to cast spells (including innate spells) in the swarm's space takes 15d6 mental damage (DC 34 Will check save); on a failure, the creature is also [[Conditions/Stupefied|Stupefied 2]] ([[Conditions/Stupefied|Stupefied 3]] on a critical failure)."
 
   - name: "Swarming Gnaw"
     desc: "`pf2:1`  Each enemy in the swarm's space takes 5d8 piercing damage (DC 34 Reflex check save)."
  
+```
+
+```encounter-table
+name: Sorcerous Sea Skull Swarm
+creatures:
+  - 1: Sorcerous Sea Skull Swarm
 ```
 
 

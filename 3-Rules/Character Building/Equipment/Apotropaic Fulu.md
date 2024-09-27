@@ -13,7 +13,7 @@ license: OGL
 ---
 # Apotropaic Fulu
 ## Item 5
-### [[consumable]][[fulu]][[magical]]
+### [[consumable]][[fulu]][[3-Rules/Rule References/Magical]]
 
 **Category** fulu; 
 **Price** 25 gp; 
@@ -24,7 +24,7 @@ license: OGL
 
 * * *
 
-This unassuming yellow paper, affixed above a door or gate, flickers in the light. Pick an alignment trait: chaotic, good, lawful, or evil. When a creature with the opposing alignment trait of the fulu (good for an evil fulu, and so on) passes through the entrance, it must succeed at a DC 17 Fortitude check save or become [[Conditions/Sickened 1|Sickened 2]]; regardless of whether they succeed, the creature becomes temporarily immune for 1 day.
+This unassuming yellow paper, affixed above a door or gate, flickers in the light. Pick an alignment trait: chaotic, good, lawful, or evil. When a creature with the opposing alignment trait of the fulu (good for an evil fulu, and so on) passes through the entrance, it must succeed at a DC 17 Fortitude check save or become [[Conditions/Sickened|Sickened 2]]; regardless of whether they succeed, the creature becomes temporarily immune for 1 day.
 
 *Source: Pathfinder Secrets of Magic*
 *OGL*

@@ -32,9 +32,9 @@ Beyond senses and instinct, the role of overwatch requires the ability to innova
 
 You have an innate knack for tactical observation, and you've innovated to apply that knack in a variety of ways that allow you to assist your allies. With the help of enhanced visual gear (such as a specially modified telescope, goggled visor, or binoculars), you're keenly aware of the movement of combatants on the battlefield. You quickly and efficiently disperse that information to your nearby allies so they can use it to direct their own observations and reactions to danger.
 
-You're surrounded by an overwatch field aura in a 30-foot emanation. Your overwatch field aura grants you increased perception and allows you to call out warnings to your allies within the aura to point out threats. This aura has the auditory and visual traits. You and allies within your overwatch field receive a +2 circumstance bonus when using Perception for Initiative checks.
+You're surrounded by an overwatch field aura in a @Template\[emanation|distance:30\]. Your overwatch field aura grants you increased perception and allows you to call out warnings to your allies within the aura to point out threats. This aura has the auditory and visual traits. You and allies within your overwatch field receive a +2 circumstance bonus when using Perception for Initiative checks.
 
-[[Feat\_Feature Effects/Effect\_ Overwatch Field|Effect: Overwatch Field]]
+[[Feat_Feature Effects/Effect_ Overwatch Field|Effect: Overwatch Field]]
 
 **Special** You can't select another dedication feat until after you have gained at least two other feats from the overwatch archetype.
 
@@ -72,7 +72,7 @@ When you observe an ally try and fail to execute a strategic maneuver against yo
 
 When an ally within your overwatch field attempts to [[Actions/Disarm|Disarm]], [[Actions/Shove|Shove]], or [[Actions/Trip|Trip]] an opponent within your overwatch field and fails, you coordinate efforts to provide a +2 circumstance bonus to the next Athletics check rolled by a different ally to attempt the same action on the same target before that target's next turn.
 
-[[Feat\_Feature Effects/Effect\_ Topple Giants|Effect: Topple Giants]]
+[[Feat_Feature Effects/Effect_ Topple Giants|Effect: Topple Giants]]
 
 ## [[Feats/Wide Overwatch|Wide Overwatch]] Feat 10
 
@@ -112,7 +112,7 @@ Your incredible perception and trusty enhanced visual gear allow you to see thin
 
 Your keen senses and ability to process battlefield information have dramatically improved, allowing you to drastically reduce the advantage of unseen foes. You and allies in your overwatch field gain a +2 circumstance bonus when using the Seek action to find hidden or undetected creatures within the overwatch field. You and your allies don't have to succeed at a flat check to target a concealed creature within your overwatch field. When you or an ally targets a hidden creature in your overwatch field, reduce the DC of the flat check to 5.
 
-[[Feat\_Feature Effects/Effect\_ Control Tower|Effect: Control Tower]]
+[[Feat_Feature Effects/Effect_ Control Tower|Effect: Control Tower]]
 
 ## [[Feats/Converge|Converge]] Feat 16
 

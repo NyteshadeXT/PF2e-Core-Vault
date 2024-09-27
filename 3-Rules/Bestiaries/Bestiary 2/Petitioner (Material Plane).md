@@ -6,6 +6,7 @@ cssClasses: pf2e
 aliases: "Compendium.pf2e.pathfinder-bestiary-2.Actor.wjcBMB7OvCHrnS39" 
 tags:
   - pf2e/creature/type/petitioner
+  - pf2eMonster
   - pf2e/creature/level/1
 statblock: inline
 name: "Petitioner (Material Plane)"
@@ -24,11 +25,12 @@ level: "Creature 1"
 
 alignment: ""
 size: "Medium"
-trait_01: "petitioner"
+trait_01: [[petitioner]]
 modifier: 7
 perception:
   - name: "Perception"
     desc: "+7; Darkvision"
+languages: "any one spoken in life (such as common)"
 skills:
   - name: "Skills"
     desc: "Athletics: +7, Planar Lore: +7"
@@ -59,8 +61,14 @@ attacks:
     desc: "`pf2:1` Fist +7 ()\n__Damage__  1d8 + 2 bludgeoning"
 
   - name: "Planar Incarnation - Material Plane"
-    desc: "  All petitioners are formed from and personify the nature of the plane on which they manifest, and their statistics are adjusted as summarized below. They also gain any trait associated with creatures from their plane.\n**Material Plane** The remnants are among the rarest of petitioners; they appear as plain, bland versions of the ancestry of their mortal lives\n*   **Alignment** any;\n*   **Language** any one spoken in life (such as Common);\n*   **Additional Ability** [[Bestiary Ability Glossary/Ferocity|Ferocity]];\n*   **Melee** fist +7, **Damage** 1d8+2 bludgeoning"
+    desc: "  All petitioners are formed from and personify the nature of the plane on which they manifest, and their statistics are adjusted as summarized below. They also gain any trait associated with creatures from their plane.\n\n**Material Plane** The remnants are among the rarest of petitioners; they appear as plain, bland versions of the ancestry of their mortal lives\n\n*   **Alignment** any;\n*   **Language** any one spoken in life (such as Common);\n*   **Additional Ability** [[Bestiary Ability Glossary/Ferocity|Ferocity]];\n*   **Melee** fist +7, **Damage** 1d8+2 bludgeoning"
  
+```
+
+```encounter-table
+name: Petitioner (Material Plane)
+creatures:
+  - 1: Petitioner (Material Plane)
 ```
 
 

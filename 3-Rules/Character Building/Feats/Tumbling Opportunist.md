@@ -7,8 +7,9 @@ tags:
   - trait/attack
   - trait/common
   - category/class
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.Yazy4gex46FLwsph"
-license: OGL
+license: ORC
 ---
 # Tumbling Opportunist `pf2:0`
 ## Feat 10
@@ -28,5 +29,5 @@ license: OGL
 
 You use a burst of stamina to perform a breathtaking feat of Acrobatics as you speed through a foe's space, leaving your foe lying flat on their back. You attempt to [[Actions/Trip|Trip]] the enemy whose space you moved through. You can use Acrobatics instead of Athletics for this check.
 
-*Source: Pathfinder Advanced Player's Guide*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

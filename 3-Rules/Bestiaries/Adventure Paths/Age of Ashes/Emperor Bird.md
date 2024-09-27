@@ -6,6 +6,7 @@ cssClasses: pf2e
 aliases: "Compendium.pf2e.age-of-ashes-bestiary.Actor.rd8Scu1YBSyKFwnk" 
 tags:
   - pf2e/creature/type/animal
+  - pf2eMonster
   - pf2e/creature/level/2
 statblock: inline
 name: "Emperor Bird"
@@ -20,14 +21,15 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #145: Hellknight Hill"
 name: "Emperor Bird"
 level: "Creature 2"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Medium"
-trait_01: "animal"
+trait_01: [[animal]]
 modifier: 8
 perception:
   - name: "Perception"
     desc: "+8; "
+languages: ""
 skills:
   - name: "Skills"
     desc: "Acrobatics: +9, Intimidation: +7, Survival: +7"
@@ -58,11 +60,17 @@ attacks:
     desc: "`pf2:1` Tail +11 (agile, reach 10 feet)\n__Damage__  1d8 + 3 slashing"
 
   - name: "Dazzling Display"
-    desc: "`pf2:2` (mental,primal,visual) The emperor bird flaps its mesmerizing wings. Each creature within 15 feet that can see the emperor bird must attempt a DC 19 Will check save.\n**Critical Success** The creature is unaffected.\n**Success** The creature is [[Conditions/Dazzled|Dazzled]] for 1 round.\n**Failure** The creature is dazzled for 1d4 rounds.\n**Critical Failure** The creature is [[Conditions/Confused|Confused]] for 1d4 rounds."
+    desc: "`pf2:2` (mental,primal,visual) The emperor bird flaps its mesmerizing wings. Each creature within 15 feet that can see the emperor bird must attempt a DC 19 Will check save.\n* * *\n\n**Critical Success** The creature is unaffected.\n\n**Success** The creature is [[Conditions/Dazzled|Dazzled]] for 1 round.\n\n**Failure** The creature is dazzled for 1d4 rounds.\n\n**Critical Failure** The creature is [[Conditions/Confused|Confused]] for 1d4 rounds."
 
   - name: "Tail Lash"
     desc: "`pf2:2`  The emperor bird makes tail Strikes against two different creatures within reach. The emperor bird's multiple attack penalty does not increase until it has finished both attacks."
  
+```
+
+```encounter-table
+name: Emperor Bird
+creatures:
+  - 1: Emperor Bird
 ```
 
 

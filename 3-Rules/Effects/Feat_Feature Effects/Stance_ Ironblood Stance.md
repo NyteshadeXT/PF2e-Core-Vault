@@ -4,8 +4,9 @@ title: "Stance: Ironblood Stance"
 cssclasses: pf2e,pf2e-action
 tags:
   - trait/common
+  - remaster
 aliases: "Compendium.pf2e.feat-effects.Item.tPKXLtDJ3bzJcXlv"
-license: OGL
+license: ORC
 ---
 # Stance: Ironblood Stance
 
@@ -24,5 +25,5 @@ While in Ironblood Stance, you gain resistance 2 to all damage. The resistance i
 
 [[Equipment Effects/Effect_ Parry|Effect: Parry]]
 
-*Source: Pathfinder Core Rulebook*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

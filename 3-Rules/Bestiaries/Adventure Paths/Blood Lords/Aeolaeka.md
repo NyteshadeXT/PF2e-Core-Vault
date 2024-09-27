@@ -10,6 +10,7 @@ tags:
   - pf2e/creature/type/chaotic
   - pf2e/creature/type/good
   - pf2e/creature/type/holy
+  - pf2eMonster
   - pf2e/creature/level/12
 statblock: inline
 name: "Aeolaeka"
@@ -24,19 +25,19 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #183: Field of Maidens"
 name: "Aeolaeka"
 level: "Creature 12"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Large"
-trait_01: "azata"
-trait_02: "celestial"
-trait_03: "chaotic"
-trait_04: "good"
-trait_05: "holy"
+trait_01: [[azata]]
+trait_02: [[celestial]]
+trait_03: [[chaotic]]
+trait_04: [[good]]
+trait_05: [[holy]]
 modifier: 23
 perception:
   - name: "Perception"
     desc: "+23; Darkvision, Tremorsense (Precise) 60 Feet"
-languages: "Draconic, Empyrean, Petran"
+languages: "Draconic, Empyrean, Petran; tongues"
 skills:
   - name: "Skills"
     desc: "Athletics: +25, Diplomacy: +22, Intimidation: +22, Nature: +23"
@@ -71,7 +72,7 @@ attacks:
     desc: "  An aeolaeka can Burrow through any earthen matter, including rock. When they do so, the aeolaeka moves at their full burrow Speed, leaving no tunnels or signs of their passing."
 
   - name: "Liberate the Earth"
-    desc: "`pf2:2` (divine,earth) The aeolaeka conjures churning stones, creating a 60-foot-long line of rolling boulders that deals 10d6 bludgeoning damage. All creatures in the area must attempt a DC 32 Reflex check save, after which the area becomes difficult terrain for 24 hours before the leftover stone crumbles to dust. The aeolaeka can't Liberate the Earth for 1d4 rounds.\n**Critical Success** The creature takes no damage.\n**Success** The creature takes half damage.\n**Failure** The creature takes full damage and is knocked [[Conditions/Prone|Prone]].\n**Critical Failure** The creature takes double damage, is knocked prone, and is [[Conditions/Immobilized|Immobilized]] by the rubble ([[Actions/Escape|Escape]] DC 32)."
+    desc: "`pf2:2` (divine,earth) The aeolaeka conjures churning stones, creating a 60-foot-long line of rolling boulders that deals 10d6 bludgeoning damage. All creatures in the area must attempt a DC 32 Reflex check save, after which the area becomes difficult terrain for 24 hours before the leftover stone crumbles to dust. The aeolaeka can't Liberate the Earth for 1d4 rounds.\n* * *\n\n**Critical Success** The creature takes no damage.\n\n**Success** The creature takes half damage.\n\n**Failure** The creature takes full damage and is knocked [[Conditions/Prone|Prone]].\n\n**Critical Failure** The creature takes double damage, is knocked prone, and is [[Conditions/Immobilized|Immobilized]] by the rubble ([[Actions/Escape|Escape]] DC 32)."
 
   - name: "Sacred Hammer"
     desc: " (divine) Any bludgeoning weapon becomes a _holy striking_ weapon while the aeolaeka wields it."
@@ -79,6 +80,12 @@ attacks:
   - name: "Statue"
     desc: "`pf2:1` (concentrate) Until the next time they act, the aeolaeka appears to be a statue. They have an automatic result of 45 on Deception checks and DCs to pass as a statue."
  
+```
+
+```encounter-table
+name: Aeolaeka
+creatures:
+  - 1: Aeolaeka
 ```
 
 

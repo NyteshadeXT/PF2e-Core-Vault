@@ -23,7 +23,7 @@ license: ORC
 
 * * *
 
-**Effect** The ghoul devours a chunk of the corpse and regains 1d6 Hit Points plus 1d6 for every 2 levels it has.
+**Effect** The ghoul devours a chunk of the corpse and regains 1d6 healing Hit Points plus 1d6 for every 2 levels it has.
 
 It can regain Hit Points from any given corpse only once.
 

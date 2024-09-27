@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.kingmaker-bestiary.Actor.RTd4FwqGq8gBjdAO"
 tags:
   - pf2e/creature/type/aquatic
   - pf2e/creature/type/fey
+  - pf2eMonster
   - pf2e/creature/level/5
 statblock: inline
 name: "Melianse"
@@ -21,11 +22,11 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Kingmaker"
 name: "Melianse"
 level: "Creature 5"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Small"
-trait_01: "aquatic"
-trait_02: "fey"
+trait_01: [[aquatic]]
+trait_02: [[fey]]
 modifier: 11
 perception:
   - name: "Perception"
@@ -70,8 +71,14 @@ attacks:
     desc: "_[[Spells/Inveigle|Inveigle]]_"
 
   - name: "Grant Desire"
-    desc: "`pf2:3` (primal) **Frequency** once per day\n**Effect** Melianse can duplicate any 3rd-rank spell or produce any effect with a power level in line with a 3rd-rank spell, but only in response to the request or desire of a non-fey creature. The creature whose desire is granted can never again benefit from Melianse's Grant Desire ability."
+    desc: "`pf2:3` (primal) **Frequency** once per day\n\n**Effect** Melianse can duplicate any 3rd-rank spell or produce any effect with a power level in line with a 3rd-rank spell, but only in response to the request or desire of a non-fey creature. The creature whose desire is granted can never again benefit from Melianse's Grant Desire ability."
  
+```
+
+```encounter-table
+name: Melianse
+creatures:
+  - 1: Melianse
 ```
 
 

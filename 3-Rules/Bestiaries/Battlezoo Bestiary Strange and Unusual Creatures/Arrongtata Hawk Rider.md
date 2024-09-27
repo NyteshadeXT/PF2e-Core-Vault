@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/animal
   - pf2e/creature/type/fey
   - pf2e/creature/type/spirit
+  - pf2eMonster
   - pf2e/creature/level/3
 statblock: inline
 name: "Arrongtata Hawk Rider"
@@ -26,17 +27,17 @@ level: "Creature 3"
 
 alignment: ""
 size: "Small"
-trait_01: "animal"
-trait_02: "fey"
-trait_03: "spirit"
+trait_01: [[animal]]
+trait_02: [[fey]]
+trait_03: [[spirit]]
 modifier: 9
 perception:
   - name: "Perception"
     desc: "+9; Darkvision"
-languages: "Fey"
+languages: "Fey; speak with animals, telepathy 50 feet"
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +11, Athletics: +10, Nature: +11, Warfare Lore: +10, "
+    desc: "Acrobatics: +11, Athletics: +10, Nature: +11, Acrobatics: +11, Athletics: +10, Nature: +11, Warfare Lore: +10"
 abilityMods: [3, 4, 1, 3, 4, 1]
 speed: 10 feet,  fly 50 feet
 sourcebook: "_Battlezoo Bestiary: Strange and Unusual_"
@@ -71,8 +72,14 @@ attacks:
     desc: "DC 17, attack +9\n__Constant__  __(2nd)__ _[[Spells/Speak with Animals|Speak with Animals]]_"
 
   - name: "Air Joust"
-    desc: "`pf2:3`  The arrongtata hawk rider swoops down, targeting its enemy's eyes for two simultaneous attacks, one each from the rider and hawk. The arrongtata hawk rider Flies up to half its Speed, makes a longspear Strike and talon Strike, each against the same target, then Flies up to half its Speed again to return to its original location. If either Strike is a critical hit, the target is also Blinded for 1 round. The second movement doesn't trigger reactions. Both attacks count toward the arrongtata hawk rider's multiple attack penalty, but the penalty doesn't increase until after it makes both attacks."
+    desc: "`pf2:3`  The arrongtata hawk rider swoops down, targeting its enemy's eyes for two simultaneous attacks, one each from the rider and hawk. The arrongtata hawk rider Flies up to half its Speed, makes a longspear Strike and talon Strike, each against the same target, then Flies up to half its Speed again to return to its original location. If either Strike is a critical hit, the target is also [[undefined]] for 1 round. The second movement doesn't trigger reactions. Both attacks count toward the arrongtata hawk rider's multiple attack penalty, but the penalty doesn't increase until after it makes both attacks."
  
+```
+
+```encounter-table
+name: Arrongtata Hawk Rider
+creatures:
+  - 1: Arrongtata Hawk Rider
 ```
 
 

@@ -3,6 +3,7 @@ title: Spitting Acid 'Bushes' (7-8)
 obsidianUIMode: preview
 noteType: pf2eHazard
 tags:
+  - pf2eHazard
   - complex
 source: Pathfinder Society Scenario #1-24: Lightning Strikes, Stars Fall
 aliases: "Compendium.pf2e.pfs-season-1-bestiary.Actor.I3RciQPRS1LWb5Sv" 
@@ -25,7 +26,7 @@ sourcebook: "_Pathfinder Society Scenario #1-24: Lightning Strikes, Stars Fall_"
 ac: 22
 armorclass:
   - name: AC
-    desc: "22; __Fort__ +15, __Ref__ +9, __Will__ +0"
+    desc: "22; __Fort__ +15, __Ref__ +9, "
 hp: 14
 health:
   - name: ""
@@ -38,7 +39,7 @@ perception:
 abilities_top:
   - name: ""
   - name: "Description"
-    desc: "Four techno-organic \"bush\"; structures featuring mini-acid pumps activate. The first lashes out with sharp \"branches\" as it activates, and then all of the bushes spit acid at movement nearby.\nHP is 14 per bush with a BT of 7"
+    desc: "Four techno-organic \"bush\"; structures featuring mini-acid pumps activate. The first lashes out with sharp \"branches\" as it activates, and then all of the bushes spit acid at movement nearby.\n\nHP is 14 per bush with a BT of 7"
 abilities_mid:
   - name: ""
   - name: "Disable"
@@ -47,7 +48,7 @@ attacks:
   - name: ""
 
   - name: "Jagged Branches"
-    desc: "`pf2:r` **Trigger** A creature moves into a square adjacent to a bush\n**Effect** The adjacent bush rakes its sharp branches across the creature, making a single branch Strike."
+    desc: "`pf2:r` **Trigger** A creature moves into a square adjacent to a bush\n* * *\n\n**Effect** The adjacent bush rakes its sharp branches across the creature, making a single branch Strike."
   - name: "Melee"
     desc: "Branch +15 () "
   - name: "Melee"
@@ -56,5 +57,11 @@ attacks:
   - name: "Routine"
     desc: "(3 Actions) The trap loses 1 action each turn for each bush disabled. On each of the hazard's actions, one of the functional pumps spits acid at a creature within range. The bushes sense movement, and they only target creatures that moved from their space on their most recent turn. This trap does not attack any single creature more than once per round. It does not take a multiple attack penalty."
 
+```
+
+```encounter-table
+name: Spitting Acid 'Bushes' (7-8)
+creatures:
+  - 1: Spitting Acid 'Bushes' (7-8)
 ```
 

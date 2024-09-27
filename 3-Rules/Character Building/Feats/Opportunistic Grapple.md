@@ -6,8 +6,9 @@ tags:
   - trait/archetype
   - trait/common
   - category/class
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.BVHDkBa4JMmmj5Sn"
-license: OGL
+license: ORC
 ---
 # Opportunistic Grapple `pf2:r`
 ## Feat 8
@@ -19,13 +20,13 @@ license: OGL
 
 **Prerequisites** Bounty Hunter Dedication
 * * *
-**Requirements** Your prey is within your reach, you have at least one free hand, and your target is no more than one size larger than you.
+**Trigger** Your prey critically fails on an attack roll against you with a melee Strike.
 
-**Trigger** Your prey critically fails on a melee [[Actions/Strike|Strike's]] attack roll against you.
+**Requirements** Your prey is within your reach, you have one free hand, and your target is no more than one size larger than you.
 
 * * *
 
-You attempt an Athletics check to [[Actions/Grapple|Grapple]] your prey.
+You use an opening to capture your prey. You attempt an Athletics check to [[Actions/Grapple|Grapple]] your prey.
 
-*Source: Pathfinder Advanced Player's Guide*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

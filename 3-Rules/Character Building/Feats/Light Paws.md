@@ -6,8 +6,9 @@ tags:
   - trait/catfolk
   - trait/common
   - category/ancestry
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.EdVMwFRNV1LX1VWh"
-license: OGL
+license: ORC
 ---
 # Light Paws `pf2:2`
 ## Feat 5
@@ -18,9 +19,7 @@ license: OGL
 
 
 
-You can balance on your toes to step carefully over obstructions.
+You can balance on your toes to step carefully over obstructions. You Stride and then Step, or Step and then Stride, ignoring difficult terrain during this movement.
 
-You Stride and then [[Actions/Step|Step]], or Step and then Stride, ignoring difficult terrain during this movement.
-
-*Source: Pathfinder Advanced Player's Guide*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

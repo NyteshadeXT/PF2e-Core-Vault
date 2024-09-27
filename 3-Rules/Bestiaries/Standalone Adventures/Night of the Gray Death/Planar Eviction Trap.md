@@ -5,6 +5,7 @@ noteType: pf2eHazard
 tags:
   - magical
   - trap
+  - pf2eHazard
 
 source: Pathfinder Adventure: Night of the Gray Death
 aliases: "Compendium.pf2e.night-of-the-gray-death-bestiary.Actor.JbSbUomIHYwkqgAM" 
@@ -22,14 +23,14 @@ name: "Planar Eviction Trap"
 level: "Hazard 17"
 
 
-trait_01: "magical"
-trait_02: "trap"
+trait_01: [[magical]]
+trait_02: [[trap]]
 modifier: 32
 sourcebook: "_Pathfinder Adventure: Night of the Gray Death_"
 ac: 10
 armorclass:
   - name: AC
-    desc: "10; __Fort__ +0, __Ref__ +0, __Will__ +0"
+    desc: "10; "
 hp: 0
 health:
   - name: ""
@@ -51,9 +52,15 @@ attacks:
   - name: ""
 
   - name: "Wracking Eviction"
-    desc: "`pf2:r` (divine, incapacitation, mental, teleportation) **Trigger** A creature that isn't openly wearing a religious symbol of Pharasma passes over the glyph at the midpoint of the landing\n**Effect** The glyph flares and discharges its energy. Each creature within 30 feet of the glyph takes 8d12 + 24 mental damage and must attempt a DC 40 Will check saving throw.\n**Critical Success** The creature takes no damage.\n**Success** The creature takes half damage and, if not on its home plane, is [[Conditions/Stupefied 1|Stupefied 1]] for 1 minute.\n**Failure** The creature takes full damage and is stupefied 1 for 1 minute. If not on its home plane, the creature is sent to a random location in the Boneyard.\n**Critical Failure** The creature takes double damage and is [[Conditions/Stupefied 1|Stupefied 2]] for 1 minute. If not on its home plane, the creature is sent to a random location in the Boneyard and can't return to the Material Plane until it receives permission to do so from a psychopomp of a higher level than the creature's level."
+    desc: "`pf2:r` (divine, incapacitation, mental, teleportation) **Trigger** A creature that isn't openly wearing a religious symbol of Pharasma passes over the glyph at the midpoint of the landing\n* * *\n\n**Effect** The glyph flares and discharges its energy. Each creature within 30 feet of the glyph takes 8d12+24 mental damage and must attempt a DC 40 Will check saving throw.\n* * *\n\n**Critical Success** The creature takes no damage.\n\n**Success** The creature takes half damage and, if not on its home plane, is [[Conditions/Stupefied|Stupefied 1]] for 1 minute.\n\n**Failure** The creature takes full damage and is stupefied 1 for 1 minute. If not on its home plane, the creature is sent to a random location in the Boneyard.\n\n**Critical Failure** The creature takes double damage and is [[Conditions/Stupefied|Stupefied 2]] for 1 minute. If not on its home plane, the creature is sent to a random location in the Boneyard and can't return to the Material Plane until it receives permission to do so from a psychopomp of a higher level than the creature's level."
 
 
 
+```
+
+```encounter-table
+name: Planar Eviction Trap
+creatures:
+  - 1: Planar Eviction Trap
 ```
 

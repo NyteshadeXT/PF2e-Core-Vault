@@ -19,7 +19,7 @@ license: ORC
 
 
 
-You throw your weight into a powerful attack that leaves you vulnerable. Make a melee Strike. This counts as three attacks when calculating your multiple attack penalty. If this Strike hits, you get a critical hit. If you roll a critical hit, your weapon or unarmed attack also gains the deadly d12 trait (this replaces any deadly trait it already has). Whether or not you hit, you become [[Conditions/Stunned 1|Stunned 1]] and are [[Conditions/Off-Guard|Off-Guard]] until the start of your next turn.
+You throw your weight into a powerful attack that leaves you vulnerable. Make a melee Strike. This counts as three attacks when calculating your multiple attack penalty. If this Strike hits, you get a critical hit. If you roll a critical hit, your weapon or unarmed attack also gains the deadly d12 trait (this replaces any deadly trait it already has). Whether or not you hit, you become [[Conditions/Stunned|Stunned 1]] and are [[Conditions/Off-Guard|Off-Guard]] until the start of your next turn.
 
 *Source: Pathfinder Player Core*
 *ORC*

@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.pathfinder-monster-core.Actor.JFmFuoOzCwc3hA1H"
 tags:
   - pf2e/creature/type/humanoid
   - pf2e/creature/type/kobold
+  - pf2eMonster
   - pf2e/creature/level/2
   - remaster
 statblock: inline
@@ -19,15 +20,15 @@ license: ORC
 columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
-token: [[modules/pf2e-tokens-bestiaries/portraits/humanoid/kobold/kobold-mage-green.webp| ]]
+token: [[modules/pf2e-tokens-bestiaries/portraits/humanoid/kobold/kobold-mage-blue.webp| ]]
 source: "Pathfinder Monster Core"
 name: "Kobold Cavern Mage"
 level: "Creature 2"
 
 alignment: ""
 size: "Small"
-trait_01: "humanoid"
-trait_02: "kobold"
+trait_01: [[humanoid]]
+trait_02: [[kobold]]
 modifier: 5
 perception:
   - name: "Perception"
@@ -75,6 +76,12 @@ attacks:
   - name: "Scamper"
     desc: "`pf2:1`  **Requirements** The kobold cavern mage is adjacent to at least one enemy\n* * *\n\n**Effect** The kobold cavern mage Strides up to their Speed plus 5 feet and gains a +2 circumstance bonus to AC against reactions triggered by this movement. They must end this movement in a space that's not adjacent to any enemy."
  
+```
+
+```encounter-table
+name: Kobold Cavern Mage
+creatures:
+  - 1: Kobold Cavern Mage
 ```
 
 

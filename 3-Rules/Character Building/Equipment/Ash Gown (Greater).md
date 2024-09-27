@@ -13,7 +13,7 @@ license: OGL
 ---
 # Ash Gown (Greater)
 ## Item 11
-### [[3-Rules/Rule References/Fire]][[invested]][[magical]]
+### [[3-Rules/Rule References/Fire]][[invested]][[3-Rules/Rule References/Magical]]
 
 
 **Price** 1300 gp; 

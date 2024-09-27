@@ -10,7 +10,7 @@ tags:
 # Lifestyle Expenses
 # Cost of Living
 
-For short periods of downtime, characters are usually just passing through a settlement or spending a bit of time there. They can use the prices for inn stays and meals found in [[undefined]]. For long stretches of downtime, use the values on the table below. Deduct these costs from a character's funds after they gain any money from their other downtime activities.
+For short periods of downtime, characters are usually just passing through a settlement or spending a bit of time there. They can use the prices for inn stays and meals found in [[PF2e Journals/GM Screen/Basic Services|Basic Services]]. For long stretches of downtime, use the values on the table below. Deduct these costs from a character's funds after they gain any money from their other downtime activities.
 
   
 

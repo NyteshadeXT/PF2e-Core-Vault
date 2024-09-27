@@ -5,6 +5,7 @@ noteType: pf2eHazard
 tags:
   - magical
   - trap
+  - pf2eHazard
 
 source: Pathfinder Kingmaker
 aliases: "Compendium.pf2e.kingmaker-bestiary.Actor.uQbzVX7DWDbxLONd" 
@@ -22,8 +23,8 @@ name: "Paranoia Well"
 level: "Hazard 19"
 
 
-trait_01: "magical"
-trait_02: "trap"
+trait_01: [[magical]]
+trait_02: [[trap]]
 modifier: 37
 sourcebook: "_Pathfinder Kingmaker_"
 perception:
@@ -42,9 +43,15 @@ attacks:
   - name: ""
 
   - name: "Reveal the Enemy"
-    desc: "`pf2:r` (curse, emotion, fear, mental, occult) **Trigger** A Small or larger creature ends its turn inside of area **B7**\n**Effect** The trap releases its built-up emotional energy in a silent blast of power. All creatures in area **B7** or within 20 feet of the shed's exterior walls must attempt a DC 41 Will check save (creatures within the shed take a -2 circumstance penalty to this save).\n**Critical Success** The creature is unaffected.\n**Success** For 1 hour, the creature treats no other creatures as allies and can't take concentrate actions that don't have the rage trait.\n**Failure** As success, but the effect is permanent.\n**Critical Failure** As failure, but the creature must attack any creature it detects, preferring to attack former friends or allies when possible."
+    desc: "`pf2:r` (curse, emotion, fear, mental, occult) **Trigger** A Small or larger creature ends its turn inside of area **B7**\n* * *\n\n**Effect** The trap releases its built-up emotional energy in a silent blast of power. All creatures in area **B7** or within 20 feet of the shed's exterior walls must attempt a DC 41 Will check save (creatures within the shed take a -2 circumstance penalty to this save).\n* * *\n\n**Critical Success** The creature is unaffected.\n\n**Success** For 1 hour, the creature treats no other creatures as allies and can't take concentrate actions that don't have the rage trait.\n\n**Failure** As success, but the effect is permanent.\n\n**Critical Failure** As failure, but the creature must attack any creature it detects, preferring to attack former friends or allies when possible."
 
 
 
+```
+
+```encounter-table
+name: Paranoia Well
+creatures:
+  - 1: Paranoia Well
 ```
 

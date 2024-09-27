@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/human
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/5
 statblock: inline
 name: "Kepgeda the Hag-Nailed"
@@ -23,13 +24,13 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #181: Zombie Feast"
 name: "Kepgeda the Hag-Nailed"
 level: "Creature 5"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Medium"
-trait_01: "changeling"
-trait_02: "evil"
-trait_03: "human"
-trait_04: "humanoid"
+trait_01: [[changeling]]
+trait_02: [[evil]]
+trait_03: [[human]]
+trait_04: [[humanoid]]
 modifier: 12
 perception:
   - name: "Perception"
@@ -81,11 +82,17 @@ attacks:
     desc: "_[[Spells/Create Undead|Create Undead (Crawling Hands, Zombies)]]_"
 
   - name: "Cackling Coven"
-    desc: "  **Trigger** Kepgeda's turn begins\n**Requirements** Kepgeda is within 30 feet of her keening cauldron\n**Effect** Kepgeda draws on the souls of her dead sisters for a burst of occult power, for a price. Kepgeda takes 10 mental damage, then chooses one:\n*   Kepgeda Sustains a Spell. If her next action is to cast a witch hex, the DC of that hex increases by 1.\n*   Kepgeda reduces her [[Conditions/Stupefied 1|Stupefied]] condition value to 0.\n*   If Kepgeda begins casting a [[Spells/Create Undead|Create Undead]] ritual within the next minute, she attempts a DC 18 Flat check when the ritual is complete; on a success, the undead she's created is 3 levels higher than the ritual would provide (for example, creating a [[Bestiary 1/Zombie Brute|Zombie Brute]] instead of a [[Bestiary 1/Zombie Shambler|Zombie Shambler]])."
+    desc: "  **Trigger** Kepgeda's turn begins\n\n**Requirements** Kepgeda is within 30 feet of her keening cauldron\n* * *\n\n**Effect** Kepgeda draws on the souls of her dead sisters for a burst of occult power, for a price. Kepgeda takes 10 mental damage, then chooses one:\n\n*   Kepgeda Sustains a Spell. If her next action is to cast a witch hex, the DC of that hex increases by 1.\n*   Kepgeda reduces her [[Conditions/Stupefied|Stupefied]] condition value to 0.\n*   If Kepgeda begins casting a [[Spells/Create Undead|Create Undead]] ritual within the next minute, she attempts a DC 18 Flat check when the ritual is complete; on a success, the undead she's created is 3 levels higher than the ritual would provide (for example, creating a [[Bestiary 1/Zombie Brute|Zombie Brute]] instead of a [[Bestiary 1/Zombie Shambler|Zombie Shambler]])."
 
   - name: "Familiar"
     desc: "  Kepgeda's familiar is Iskessous, a rat with a climb Speed of 25 feet, darkvision, and scent as an imprecise sense to a range of 30 feet."
  
+```
+
+```encounter-table
+name: Kepgeda the Hag-Nailed
+creatures:
+  - 1: Kepgeda the Hag-Nailed
 ```
 
 

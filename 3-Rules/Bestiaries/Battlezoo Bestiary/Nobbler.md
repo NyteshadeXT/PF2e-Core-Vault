@@ -7,6 +7,7 @@ aliases: "Compendium.battlezoo-bestiary-pf2e.pf2e-battlezoo-bestiary.Actor.Qzjb3
 tags:
   - pf2e/creature/type/construct
   - pf2e/creature/type/mindless
+  - pf2eMonster
   - pf2e/creature/level/5
 statblock: inline
 name: "Nobbler"
@@ -22,16 +23,16 @@ token: [[modules/battlezoo-bestiary-pf2e/art/nobbler.webp| ]]
 source: "Battlezoo Bestiary"
 name: "Nobbler"
 level: "Creature 5"
-rare_03: "Rare"
+rare_03: [[Rare]]
 alignment: ""
 size: "Medium"
-trait_01: "construct"
-trait_02: "mindless"
+trait_01: [[construct]]
+trait_02: [[mindless]]
 modifier: 10
 perception:
   - name: "Perception"
     desc: "+10; Darkvision"
-languages: "Common"
+languages: "Common; (can&#x27;t speak any language)"
 skills:
   - name: "Skills"
     desc: "Acrobatics: +13, Athletics: +13, Deception: +11, Stealth: +11"
@@ -56,7 +57,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Gobble"
-    desc: "`pf2:r`  **Trigger** A creature touches the nobbler while the nobbler is Prone using Go Limp;\n**Effect** The nobbler makes a mouth Strike against the triggering creature."
+    desc: "`pf2:r`  **Trigger** A creature touches the nobbler while the nobbler is [[Conditions/Prone|Prone]] using Go Limp;\n* * *\n\n**Effect** The nobbler makes a mouth Strike against the triggering creature."
 
 attacks:
   - name: ""
@@ -68,14 +69,20 @@ attacks:
     desc: "`pf2:1`  "
 
   - name: "Nobble"
-    desc: "`pf2:1` (attack) The nobbler uses Swallow Whole on a Medium or smaller creature it has Grabbed in its mouth (2d6+6 nonlethal bludgeoning, Rupture 10). The nobbler can contain up to a total of 25 Bulk. Creatures swallowed do not begin to suffocate (but see Expel Air)."
+    desc: "`pf2:1` (attack) The nobbler uses [[Bestiary Ability Glossary/Swallow Whole|Swallow Whole]] on a Medium or smaller creature it has [[Conditions/Grabbed|Grabbed]] in its mouth (2d6+6 nonlethal bludgeoning, Rupture 10). The nobbler can contain up to a total of 25 Bulk. Creatures swallowed do not begin to suffocate (but see Expel Air)."
 
   - name: "Expel Air"
     desc: "`pf2:2`  The nobbler expels the air inside it. Creatures inside the nobbler must hold their breath or begin suffocating. As soon as the nobbler swallows another creature, the nobbler refills with air and creatures inside are no longer suffocating."
 
   - name: "Go Limp"
-    desc: "`pf2:1` (concentrate) The nobbler drops Prone and goes limp. As long as it remains prone, the nobbler has an automatic result of 31 on Deception checks and DCs to pass as a sack."
+    desc: "`pf2:1` (concentrate) The nobbler drops [[Conditions/Prone|Prone]] and goes limp. As long as it remains prone, the nobbler has an automatic result of 31 on Deception checks and DCs to pass as a sack."
  
+```
+
+```encounter-table
+name: Nobbler
+creatures:
+  - 1: Nobbler
 ```
 
 

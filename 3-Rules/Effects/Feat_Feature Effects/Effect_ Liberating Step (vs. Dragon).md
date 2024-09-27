@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[Feats/Dragonslayer Oath|Dragonslayer Oath (Liberator)]]
+Granted by Dragonslayer Oath (Liberator)
 
 If you use Liberating Step triggered by an evil dragon, your ally gains a +4 circumstance bonus to checks granted by your Liberating Step, and the ally can Step twice afterward.
 

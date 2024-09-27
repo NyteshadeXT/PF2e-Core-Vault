@@ -14,7 +14,7 @@ license: OGL
 ---
 # Addlebrain
 ## Item 7
-### [rare](rare "Rare Rarity Trait")[[alchemical]][[consumable]][[inhaled]][[3-Rules/Rule References/Poison]]
+### [rare](rare.md "Rare Rarity Trait")[[alchemical]][[consumable]][[inhaled]][[3-Rules/Rule References/Poison]]
 
 **Category** poison; 
 **Price** 58 gp; 
@@ -35,11 +35,11 @@ Once soaked in special reagents and then dried, a dose of addlebrain must be eit
 
 **Maximum Duration** 1 day
 
-**Stage 1** [[Conditions/Enfeebled 1|Enfeebled 1]] and [[Conditions/Stupefied 1|Stupefied 1]] (10 minutes)
+**Stage 1** [[Conditions/Enfeebled|Enfeebled 1]] and [[Conditions/Stupefied|Stupefied 1]] (10 minutes)
 
-**Stage 2** [[Conditions/Enfeebled 1|Enfeebled 2]] and [[Conditions/Stupefied 1|Stupefied 2]] (1 hour)
+**Stage 2** [[Conditions/Enfeebled|Enfeebled 2]] and [[Conditions/Stupefied|Stupefied 2]] (1 hour)
 
-**Stage 3** [[Conditions/Fatigued|Fatigued]], [[Conditions/Enfeebled 1|Enfeebled 4]], and [[Conditions/Stupefied 1|Stupefied 4]] (1 day)
+**Stage 3** [[Conditions/Fatigued|Fatigued]], [[Conditions/Enfeebled|Enfeebled 4]], and [[Conditions/Stupefied|Stupefied 4]] (1 day)
 
 *Source: Pathfinder #147: Tomorrow Must Burn*
 *OGL*

@@ -6,6 +6,7 @@ cssClasses: pf2e
 aliases: "Compendium.battlezoo-bestiary-pf2e.pf2e-battlezoo-bestiary.Actor.LY9O93RLifowNI3i" 
 tags:
   - pf2e/creature/type/aberration
+  - pf2eMonster
   - pf2e/creature/level/7
 statblock: inline
 name: "Shinglelurk"
@@ -24,15 +25,15 @@ level: "Creature 7"
 
 alignment: ""
 size: "huge"
-trait_01: "aberration"
+trait_01: [[aberration]]
 modifier: 13
 perception:
   - name: "Perception"
     desc: "+13; Darkvision, Tremorsense (Imprecise) 30 Feet"
-languages: "Common"
+languages: "Common; (can&#x27;t speak any language)"
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +16, Athletics: +17, Deception: +14 (+20 to impersonate roof tiles, slate, or stonework), Stealth: +18, "
+    desc: "Acrobatics: +16, Athletics: +17, Deception: +14, Stealth: +18"
 abilityMods: [6, 5, 4, 0, 2, 3]
 speed: 15 feet,  fly 35 feet
 sourcebook: "_Battlezoo Bestiary_"
@@ -57,17 +58,23 @@ attacks:
     desc: "`pf2:1` Pseudopod +17 (agile, reach 10 feet)\n__Damage__  2d6 + 8 piercing plus improved-grab"
 
   - name: "[[Bestiary Ability Glossary/Constrict|Constrict]]"
-    desc: "`pf2:1`  1d6 + 6 bludgeoning plus 3d4 acid damage, basic fortitude save\n"
+    desc: "`pf2:1`  1d6 + 6 bludgeoning plus 3d4 acid damage, DC 25 basic fortitude save\n\n* * *\n"
 
   - name: "Desperate Dive"
-    desc: "`pf2:2`  **Requirements** The shinglelurk has one or more creatures Grabbed;\n**Effect** The shinglelurk flies up to triple its fly Speed, then purposefully falls, letting gravity slam its body and prey into the ground below. The shinglelurk and each grabbed creature take bludgeoning damage equal to half the distance fallen (for example, 10 bludgeoning damage for 20 feet fallen). The grab ends and each creature lands Prone in the nearest empty square."
+    desc: "`pf2:2`  **Requirements** The shinglelurk has one or more creatures [[Conditions/Grabbed|Grabbed]];\n\n**Effect** The shinglelurk flies up to triple its fly Speed, then purposefully falls, letting gravity slam its body and prey into the ground below. The shinglelurk and each grabbed creature take bludgeoning damage equal to half the distance fallen (for example, 10 bludgeoning damage for 20 feet fallen). The grab ends and each creature lands [[Conditions/Prone|Prone]] in the nearest empty square."
 
   - name: "Envelop"
-    desc: "`pf2:2` (attack) The shinglelurk makes an attack roll with a +16 bonus against the Reflex DC of up to three Medium or smaller creatures that are adjacent to or on top of the shinglelurk. This attack is automatically successful against creatures who are already Grabbed. On a success, the shinglelurk envelops the creature, who is grabbed and Slowed 1.\nThe shinglelurk can envelop up to 3 Medium or smaller creatures at a time. Attacks that hit the shinglelurk split damage evenly between the shinglelurk and the enveloped creatures. The shinglelurk's flying speed is reduced by 10 feet per creature enveloped. When the shinglelurk moves, it moves enveloped creatures with it."
+    desc: "`pf2:2` (attack) The shinglelurk makes an attack roll with a +16 bonus against the Reflex DC of up to three Medium or smaller creatures that are adjacent to or on top of the shinglelurk. This attack is automatically successful against creatures who are already [[Conditions/Grabbed|Grabbed]]. On a success, the shinglelurk envelops the creature, who is grabbed and [[Conditions/Slowed|Slowed 1]].\n\nThe shinglelurk can envelop up to 3 Medium or smaller creatures at a time. Attacks that hit the shinglelurk split damage evenly between the shinglelurk and the enveloped creatures. The shinglelurk's flying speed is reduced by 10 feet per creature enveloped. When the shinglelurk moves, it moves enveloped creatures with it."
 
   - name: "Mimic Surface"
     desc: "`pf2:1`  The shinglelurk flattens its body so it is flush with a hard flat surface such as a rooftop. While flattened, the shinglelurk has an automatic result of 30 on Deception checks and DCs to pass as the surface that it's mimicking. As long as it is flattened, a shinglelurk can share its space with any creatures that walk on top of it."
  
+```
+
+```encounter-table
+name: Shinglelurk
+creatures:
+  - 1: Shinglelurk
 ```
 
 

@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.pathfinder-monster-core.Actor.085JMzkQqhNEWWWL"
 tags:
   - pf2e/creature/type/aeon
   - pf2e/creature/type/monitor
+  - pf2eMonster
   - pf2e/creature/level/12
   - remaster
 statblock: inline
@@ -19,14 +20,15 @@ license: ORC
 columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
+token: [[modules/pf2e-tokens-monster-core/assets/portraits/aeon-akhana.webp| ]]
 source: "Pathfinder Monster Core"
 name: "Akhana"
 level: "Creature 12"
 
 alignment: ""
 size: "Medium"
-trait_01: "aeon"
-trait_02: "monitor"
+trait_01: [[aeon]]
+trait_02: [[monitor]]
 modifier: 27
 perception:
   - name: "Perception"
@@ -34,7 +36,7 @@ perception:
 languages: "Envisioning"
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +25, Athletics: +24, Axis Lore: +23, Medicine: +23, Occultism: +21, Religion: +23"
+    desc: "Acrobatics: +25, Athletics: +24, Medicine: +23, Occultism: +21, Religion: +23, Axis Lore: +23"
 abilityMods: [6, 6, 7, 3, 5, 4]
 speed:  fly 60 feet
 sourcebook: "_Pathfinder Monster Core_"
@@ -74,14 +76,20 @@ attacks:
     desc: "`pf2:2`  The akhana Flies and makes up to four fist Strikes against different targets at any points during this movement. The attacks count toward its multiple attack penalty normally, but the penalty does not increase until after Flying Fists is complete."
 
   - name: "Reclaim Life"
-    desc: "`pf2:1` (divine,void) **Requirements** The akhana has a living creature [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]] with its tail\n* * *\n\n**Effect** The creature takes 4d10 void damage with a DC 32 Fortitude check save. On a failed save, it's also [[Conditions/Doomed 1|Doomed 1]]. If the creature dies while doomed and held in the akhana's tail, its soul is trapped in the akhana (as [[Spells/Seize Soul|Seize Soul]]), and its remains are preserved as peaceful rest. The soul returns to the body with 1 Hit Point if the akhana [[Actions/Dismiss|Dismisses]] the effect, if the akhana is slain, or if a [[Spells/Wish|Wish]] ritual or similarly powerful magic frees it."
+    desc: "`pf2:1` (divine,void) **Requirements** The akhana has a living creature [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]] with its tail\n* * *\n\n**Effect** The creature takes 4d10 void damage with a DC 32 Fortitude check save. On a failed save, it's also [[Conditions/Doomed|Doomed 1]]. If the creature dies while doomed and held in the akhana's tail, its soul is trapped in the akhana (as [[Spells/Seize Soul|Seize Soul]]), and its remains are preserved as peaceful rest. The soul returns to the body with 1 Hit Point if the akhana [[Actions/Dismiss|Dismisses]] the effect, if the akhana is slain, or if a [[Spells/Wish|Wish]] ritual or similarly powerful magic frees it."
 
   - name: "Sprout Life"
-    desc: "`pf2:2` (concentrate,divine,plant,vitality) A 5-foot burst within 100 feet fills with simple life appropriate to the environment. The newly forged animals bite those in the area for 7d6 piercing damage with a DC 32 Reflex check save. The akhana can also have fungus or plants choke the area, even floating ones in the sky, creating difficult terrain. The created life lives or dies normally after its creation."
+    desc: "`pf2:2` (concentrate,divine,plant,vitality) A @Template[burst|distance:5] within 100 feet fills with simple life appropriate to the environment. The newly forged animals bite those in the area for 7d6 piercing damage with a DC 32 Reflex check save. The akhana can also have fungus or plants choke the area, even floating ones in the sky, creating difficult terrain. The created life lives or dies normally after its creation."
 
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
     desc: "`pf2:1`  "
  
+```
+
+```encounter-table
+name: Akhana
+creatures:
+  - 1: Akhana
 ```
 
 

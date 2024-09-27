@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/mindless
   - pf2e/creature/type/undead
   - pf2e/creature/type/unholy
+  - pf2eMonster
   - pf2e/creature/level/2
 statblock: inline
 name: "Venomous Snakedead"
@@ -27,17 +28,18 @@ level: "Creature 2"
 
 alignment: ""
 size: "Medium"
-trait_01: "evil"
-trait_02: "mindless"
-trait_03: "undead"
-trait_04: "unholy"
+trait_01: [[evil]]
+trait_02: [[mindless]]
+trait_03: [[undead]]
+trait_04: [[unholy]]
 modifier: 6
 perception:
   - name: "Perception"
     desc: "+6; Low-Light Vision"
+languages: ""
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +7, Athletics: +8, "
+    desc: "Acrobatics: +7, Athletics: +8"
 abilityMods: [4, 3, 3, -5, 0, -2]
 speed: 20 feet
 sourcebook: "_Battlezoo Bestiary_"
@@ -56,7 +58,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "[[Bestiary Ability Glossary/Attack of Opportunity|Coiled Opportunity]]"
-    desc: "`pf2:r`  As Attack of Opportunity, but the venomous snakedead can use this reaction only if it's benefiting from Coil Neck.\n"
+    desc: "`pf2:r`  As Attack of Opportunity, but the venomous snakedead can use this reaction only if it's benefiting from Coil Neck.\n\n* * *\n"
 
 attacks:
   - name: ""
@@ -68,7 +70,7 @@ attacks:
     desc: "`pf2:1` Fist +12 (agile)\n__Damage__  1d10 + 6 bludgeoning"
 
   - name: "Snakedead Venom"
-    desc: "  **Saving Throw** Fortitude;\n**Maximum Duration** 6 rounds;\n**Stage 1** 1d6 poison (1 round);\n**Stage 2** 1d6 poison and Drained 1 (1 round)"
+    desc: "  **Saving Throw** DC 17 Fortitude;\n\n**Maximum Duration** 6 rounds;\n\n**Stage 1** 1d6 poison (1 round);\n\n**Stage 2** 1d6 poison and [[Conditions/Drained|Drained 1]] (1 round)"
 
   - name: "Winding Neck"
     desc: "  A snakedead's fangs Strike ignores cover and greater cover against creatures adjacent to the snakedead."
@@ -76,6 +78,12 @@ attacks:
   - name: "Coil Neck"
     desc: "`pf2:1`  The venomous snakedead coils its neck, increasing its reach with its fangs from 10 to 15 feet. After the snakedead Strikes with its fangs, its neck becomes uncoiled again."
  
+```
+
+```encounter-table
+name: Venomous Snakedead
+creatures:
+  - 1: Venomous Snakedead
 ```
 
 

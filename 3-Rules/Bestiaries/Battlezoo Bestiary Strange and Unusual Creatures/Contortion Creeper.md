@@ -6,6 +6,7 @@ cssClasses: pf2e
 aliases: "Compendium.battlezoo-bestiary-su-pf2e.pf2e-battlezoo-su-actors.Actor.V8XwaVPHbGrgdWLj" 
 tags:
   - pf2e/creature/type/aberration
+  - pf2eMonster
   - pf2e/creature/level/4
 statblock: inline
 name: "Contortion Creeper"
@@ -21,10 +22,10 @@ token: [[modules/battlezoo-bestiary-su-pf2e/art/Portraits/contortion-creeper.web
 source: "Battlezoo Bestiary: Strange and Unusual"
 name: "Contortion Creeper"
 level: "Creature 4"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Medium"
-trait_01: "aberration"
+trait_01: [[aberration]]
 modifier: 11
 perception:
   - name: "Perception"
@@ -32,7 +33,7 @@ perception:
 languages: "Aklo, Common, Sakvroth"
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +11, Deception: +10, Stealth: +12, Thievery: +12, "
+    desc: "Acrobatics: +11, Deception: +10, Stealth: +12, Thievery: +12, Acrobatics: +11, Deception: +10, Stealth: +12, Thievery: +12"
 abilityMods: [3, 5, 3, 1, -1, 2]
 speed: 25 feet,  climb 10 feet
 sourcebook: "_Battlezoo Bestiary: Strange and Unusual_"
@@ -54,7 +55,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Improvised Block"
-    desc: "`pf2:r`  **Trigger** The contortion creeper would take damage while Inhabiting an object\n**Effect** The creeper wards off the blow with its improvised carapace. The object's Hardness prevents up to 5 damage. The creeper and the object both take any remaining damage, possibly breaking or destroying the object and expelling the creeper."
+    desc: "`pf2:r`  **Trigger** The contortion creeper would take damage while Inhabiting an object\n* * *\n\n**Effect** The creeper wards off the blow with its improvised carapace. The object's Hardness prevents up to 5 damage. The creeper and the object both take any remaining damage, possibly breaking or destroying the object and expelling the creeper."
 
 attacks:
   - name: ""
@@ -69,14 +70,20 @@ attacks:
     desc: "`pf2:1` Junk +14 (modular b, p, or s, range increment 30 feet)\n__Damage__  2d4 + 5 bludgeoning"
 
   - name: "Inhabit"
-    desc: "`pf2:2` (move) **Requirements** The contortion creeper doesn't currently Inhabit an object\n**Effect** The contortion creeper crawls inside an adjacent unattended Tiny object with Hardness 5 or less, such as a metal can, a small bag, or similar container. The container becomes an extradimensional space with an interior large enough for the creeper to fit inside, regardless of the object's exterior volume. While Inhabiting an object, the contortion creeper gains a +2 circumstance bonus to AC and loses its weakness to slashing damage. The object's Hardness increases to 5 and its Hit Points and Break Threshold increase to 20 and 10 via the contortion creeper's extradimensional magic. The creeper remains Inhabiting the object until the object breaks or the creeper Inhabits a new object. When not Inhabiting an object, the creeper can't use its junk carapace Strike."
+    desc: "`pf2:2` (move) **Requirements** The contortion creeper doesn't currently Inhabit an object\n* * *\n\n**Effect** The contortion creeper crawls inside an adjacent unattended Tiny object with Hardness 5 or less, such as a metal can, a small bag, or similar container. The container becomes an extradimensional space with an interior large enough for the creeper to fit inside, regardless of the object's exterior volume. While Inhabiting an object, the contortion creeper gains a +2 circumstance bonus to AC and loses its weakness to slashing damage. The object's Hardness increases to 5 and its Hit Points and Break Threshold increase to 20 and 10 via the contortion creeper's extradimensional magic. The creeper remains Inhabiting the object until the object breaks or the creeper Inhabits a new object. When not Inhabiting an object, the creeper can't use its junk carapace Strike."
 
   - name: "Pilfering Strike"
-    desc: "`pf2:1`  **Frequency** once per round\n**Effect** The contortion creeper makes a melee Strike against an adjacent creature. If the target takes damage, the creeper can attempt to Steal an item from the creature, even if the creature is actively engaged in combat."
+    desc: "`pf2:1`  **Frequency** once per round\n* * *\n\n**Effect** The contortion creeper makes a melee Strike against an adjacent creature. If the target takes damage, the creeper can attempt to [[undefined]] an item from the creature, even if the creature is actively engaged in combat."
 
   - name: "Retract"
-    desc: "`pf2:1`  **Requirements** The contortion creeper Inhabits an object\n**Effect** The creeper fully withdraws into their improvised carapace. Their circumstance bonus to AC increases to +4, and they can't take actions except to use Improved Block or this action again to come out of their carapace."
+    desc: "`pf2:1`  **Requirements** The contortion creeper Inhabits an object\n* * *\n\n**Effect** The creeper fully withdraws into their improvised carapace. Their circumstance bonus to AC increases to +4, and they can't take actions except to use Improved Block or this action again to come out of their carapace."
  
+```
+
+```encounter-table
+name: Contortion Creeper
+creatures:
+  - 1: Contortion Creeper
 ```
 
 

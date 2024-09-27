@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/undead
   - pf2e/creature/type/unholy
+  - pf2eMonster
   - pf2e/creature/level/1
 statblock: inline
 name: "Pickled Punk"
@@ -25,9 +26,9 @@ level: "Creature 1"
 
 alignment: ""
 size: "tiny"
-trait_01: "evil"
-trait_02: "undead"
-trait_03: "unholy"
+trait_01: [[evil]]
+trait_02: [[undead]]
+trait_03: [[unholy]]
 modifier: 8
 perception:
   - name: "Perception"
@@ -57,7 +58,7 @@ abilities_mid:
     desc: "  The first time each round that a pickled punk takes fire damage, its fumes combust, dealing 5 fire damage to all other creatures within the area of its Suffocating Fumes aura."
 
   - name: "Suffocating Fumes"
-    desc: " (aura,inhaled,poison) 5 feet. A creature that enters or begins its turn within the aura must attempt a DC 14 Fortitude check save, or DC 17 Fortitude check if the pickled punk is attached to the creature.\nOn a failed save, the creature is [[Conditions/Sickened 1|Sickened 1]], and on a critical failure, it's also [[Conditions/Enfeebled 1|Enfeebled 1]] for 1 minute."
+    desc: " (aura,inhaled,poison) 5 feet. A creature that enters or begins its turn within the aura must attempt a DC 14 Fortitude check save, or DC 17 Fortitude check if the pickled punk is attached to the creature.\n\nOn a failed save, the creature is [[Conditions/Sickened|Sickened 1]], and on a critical failure, it's also [[Conditions/Enfeebled|Enfeebled 1]] for 1 minute."
 
 attacks:
   - name: ""
@@ -69,8 +70,14 @@ attacks:
     desc: "`pf2:1` Jaws +7 ()\n__Damage__  1d6 + 1 piercing plus attach 2 poison plus attach"
 
   - name: "Attach"
-    desc: "  When a pickled punk hits a target larger than itself, it uses bizarre excretions to adhere to that creature. This is similar to Grabbing the creature, but the pickled punk is not off-guard, and it moves with that creature rather than holding it in place.\nEach turn while attached, the pickled punk automatically deals the damage from its jaws Strike to the creature to which it's attached. It also wriggles about, gaining a +2 circumstance bonus to AC as long as it's not also grabbed or restrained."
+    desc: "  When a pickled punk hits a target larger than itself, it uses bizarre excretions to adhere to that creature. This is similar to Grabbing the creature, but the pickled punk is not off-guard, and it moves with that creature rather than holding it in place.\n\nEach turn while attached, the pickled punk automatically deals the damage from its jaws Strike to the creature to which it's attached. It also wriggles about, gaining a +2 circumstance bonus to AC as long as it's not also grabbed or restrained."
  
+```
+
+```encounter-table
+name: Pickled Punk
+creatures:
+  - 1: Pickled Punk
 ```
 
 

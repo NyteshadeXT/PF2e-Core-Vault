@@ -17,7 +17,7 @@ license: OGL
 ---
 # Captivating Score
 ## Item 11
-### [[auditory]][[consumable]][[emotion]][[incapacitation]][[magical]][[3-Rules/Rule References/Mental]][[missive]]
+### [[3-Rules/Rule References/auditory]][[consumable]][[3-Rules/Rule References/Emotion]][[3-Rules/Rule References/Incapacitation]][[3-Rules/Rule References/Magical]][[3-Rules/Rule References/Mental]][[missive]]
 
 **Category** other; 
 **Price** 250 gp; 

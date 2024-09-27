@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.pfs-season-3-bestiary.Actor.rwRPi6GwXhF34W55"
 tags:
   - pf2e/creature/type/dwarf
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/1
 statblock: inline
 name: "Branwaen"
@@ -21,11 +22,11 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Bounty #14: The Blackwood Truce"
 name: "Branwaen"
 level: "Creature 1"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Medium"
-trait_01: "dwarf"
-trait_02: "humanoid"
+trait_01: [[dwarf]]
+trait_02: [[humanoid]]
 modifier: 6
 perception:
   - name: "Perception"
@@ -33,7 +34,7 @@ perception:
 languages: "Common, Dwarven"
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +6, Athletics: +3, Crafting: +5, Deception: +5, Diplomacy: +3, Engineering Lore: +5, Intimidation: +3, Society: +5, Stealth: +8, Survival: +5, Thievery: +6, Underworld Lore: +5"
+    desc: "Acrobatics: +6, Athletics: +3, Crafting: +5, Deception: +5, Diplomacy: +3, Intimidation: +3, Society: +5, Stealth: +8, Survival: +5, Thievery: +6, Engineering Lore: +5, Underworld Lore: +5"
 abilityMods: [0, 3, 2, 2, 2, 0]
 speed: 20 feet
 sourcebook: "_Pathfinder Bounty #14: The Blackwood Truce_"
@@ -67,6 +68,12 @@ attacks:
   - name: "[[Bestiary Ability Glossary/Sneak Attack|Sneak Attack]]"
     desc: "  Branwaen deals an extra 1d6 precision damage to [[Conditions/Off-Guard|Off-Guard]] creatures."
  
+```
+
+```encounter-table
+name: Branwaen
+creatures:
+  - 1: Branwaen
 ```
 
 

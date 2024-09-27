@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/human
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/0
 statblock: inline
 name: "Bandit Scout"
@@ -25,13 +26,14 @@ level: "Creature 0"
 
 alignment: ""
 size: "Medium"
-trait_01: "evil"
-trait_02: "human"
-trait_03: "humanoid"
+trait_01: [[evil]]
+trait_02: [[human]]
+trait_03: [[humanoid]]
 modifier: 5
 perception:
   - name: "Perception"
     desc: "+5; "
+languages: ""
 skills:
   - name: "Skills"
     desc: "Acrobatics: +4, Athletics: +3, Intimidation: +2, Stealth: +6"
@@ -68,6 +70,12 @@ attacks:
   - name: "[[Bestiary Ability Glossary/Sneak Attack|Sneak Attack]]"
     desc: "  The bandit deals an extra 1d6 precision damage to [[Conditions/Off-Guard|Off-Guard]] creatures."
  
+```
+
+```encounter-table
+name: Bandit Scout
+creatures:
+  - 1: Bandit Scout
 ```
 
 

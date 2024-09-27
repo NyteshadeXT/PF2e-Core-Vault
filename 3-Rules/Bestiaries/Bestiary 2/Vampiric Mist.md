@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.pathfinder-bestiary-2.Actor.NQ6qRvpD9DIwVxt3"
 tags:
   - pf2e/creature/type/aberration
   - pf2e/creature/type/evil
+  - pf2eMonster
   - pf2e/creature/level/3
 statblock: inline
 name: "Vampiric Mist"
@@ -25,8 +26,8 @@ level: "Creature 3"
 
 alignment: ""
 size: "Medium"
-trait_01: "aberration"
-trait_02: "evil"
+trait_01: [[aberration]]
+trait_02: [[evil]]
 modifier: 9
 perception:
   - name: "Perception"
@@ -65,8 +66,14 @@ attacks:
     desc: "`pf2:1` Misty Tendril +10 (agile, finesse)\n__Damage__  2d6 slashing plus blood-siphon 1d6 bleed plus blood-siphon"
 
   - name: "Blood Siphon"
-    desc: "  When a vampiric mist damages a creature with a misty tendril Strike, the creature must attempt a DC 20 Fortitude check save. If the Strike was a critical hit, the outcome of the creature's save is one degree worse than the result of the saving throw. Any temporary Hit Points the vampiric mist gains from Blood Siphon fade after 1 hour.\n**Success** The creature is unaffected.\n**Failure** The creature is [[Conditions/Drained 1|Drained 1]], and the vampiric mist gains 5 temporary Hit Points.\n**Critical Failure** The creature is [[Conditions/Drained 1|Drained 2]]. The vampiric mist gains 10 temporary Hit Points and takes on an intense red until the end of its next turn. During this time, it gains a +2 status bonus to AC and saves and is [[Conditions/Quickened|Quickened]]. It can use its extra action only to Strike.\n[[Bestiary Effects/Effect_ Blood Siphon (Critical Failure)|Effect: Blood Siphon (Critical Failure)]]"
+    desc: "  When a vampiric mist damages a creature with a misty tendril Strike, the creature must attempt a DC 20 Fortitude check save. If the Strike was a critical hit, the outcome of the creature's save is one degree worse than the result of the saving throw. Any temporary Hit Points the vampiric mist gains from Blood Siphon fade after 1 hour.\n* * *\n\n**Success** The creature is unaffected.\n\n**Failure** The creature is [[Conditions/Drained|Drained 1]], and the vampiric mist gains 5 temporary Hit Points.\n\n**Critical Failure** The creature is [[Conditions/Drained|Drained 2]]. The vampiric mist gains 10 temporary Hit Points and takes on an intense red until the end of its next turn. During this time, it gains a +2 status bonus to AC and saves and is [[Conditions/Quickened|Quickened]]. It can use its extra action only to Strike.\n\n[[Bestiary Effects/Effect_ Blood Siphon (Critical Failure)|Effect: Blood Siphon (Critical Failure)]]"
  
+```
+
+```encounter-table
+name: Vampiric Mist
+creatures:
+  - 1: Vampiric Mist
 ```
 
 

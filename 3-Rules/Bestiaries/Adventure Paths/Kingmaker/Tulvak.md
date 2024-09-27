@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/hag
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/11
 statblock: inline
 name: "Tulvak"
@@ -23,18 +24,18 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Kingmaker"
 name: "Tulvak"
 level: "Creature 11"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Medium"
-trait_01: "chaotic"
-trait_02: "evil"
-trait_03: "hag"
-trait_04: "humanoid"
+trait_01: [[chaotic]]
+trait_02: [[evil]]
+trait_03: [[hag]]
+trait_04: [[humanoid]]
 modifier: 22
 perception:
   - name: "Perception"
     desc: "+22; Darkvision"
-languages: "Aklo, Common, Jotun"
+languages: "Aklo, Common, Jotun; tongues"
 skills:
   - name: "Skills"
     desc: "Acrobatics: +20, Athletics: +22, Deception: +24, Nature: +22, Occultism: +20, Stealth: +24"
@@ -55,7 +56,7 @@ abilities_top:
   - name: "Items"
     desc: "[[Equipment/Grisly Scythe|Grisly Scythe]]"
   - name: "[[Bestiary Ability Glossary/Coven|Coven]]"
-    desc: " (mental,occult) A green hag adds [[Spells/Entangling Flora|Entangling Flora]], [[Spells/Outcast's Curse|Outcast's Curse]], and [[Spells/Wall of Thorns|Wall of Thorns]] to her coven's spells.\n"
+    desc: " (mental,occult) A green hag adds [[Spells/Entangling Flora|Entangling Flora]], [[Spells/Outcast's Curse|Outcast's Curse]], and [[Spells/Wall of Thorns|Wall of Thorns]] to her coven's spells.\n\n* * *\n"
 
 abilities_mid:
   - name: ""
@@ -84,17 +85,23 @@ attacks:
     desc: "`pf2:1`  The green hag touches a creature that doesn't realize the hag is an enemy. The betrayed creature is affected by the hag's enfeebling humors and takes a -4 circumstance penalty to their saving throw against that effect."
 
   - name: "[[Bestiary Ability Glossary/Change Shape|Change Shape]]"
-    desc: "`pf2:1` (concentrate,occult,polymorph) The green hag can take on the appearance of any Medium humanoid woman. This doesn't change her Speed or her attack and damage bonuses with her Strikes, but might change the damage type her Strikes deal (typically to bludgeoning).\n"
+    desc: "`pf2:1` (concentrate,occult,polymorph) The green hag can take on the appearance of any Medium humanoid woman. This doesn't change her Speed or her attack and damage bonuses with her Strikes, but might change the damage type her Strikes deal (typically to bludgeoning).\n\n* * *\n"
 
   - name: "Enfeebling Humors"
-    desc: " (occult) A creature damaged by a hag's claw must succeed at a DC 30 Fortitude check save or be [[Conditions/Enfeebled 1|Enfeebled 1]] for 1 day. On a critical failure, or if it gets hit again and fails its save a second time, it's [[Conditions/Enfeebled 1|Enfeebled 2]] for 1 day."
+    desc: " (occult) A creature damaged by a hag's claw must succeed at a DC 30 Fortitude check save or be [[Conditions/Enfeebled|Enfeebled 1]] for 1 day. On a critical failure, or if it gets hit again and fails its save a second time, it's [[Conditions/Enfeebled|Enfeebled 2]] for 1 day."
 
   - name: "Exhale Miasma"
-    desc: "`pf2:2` (occult) The green hag exhales a miasma of green vapors. Each living creature in a 15-foot cone is affected by her enfeebling humors (attemping a save as normal).\nShe can't use Exhale Miasma again for 1d4 rounds."
+    desc: "`pf2:2` (occult) The green hag exhales a miasma of green vapors. Each living creature in a @Template[cone|distance:15] is affected by her enfeebling humors (attemping a save as normal).\n\nShe can't use Exhale Miasma again for 1d4 rounds."
 
   - name: "Unsettling Revelation"
-    desc: "`pf2:r` (emotion,fear,mental,visual) **Frequency** once per hour\n**Trigger** Tulvak uses Change Shape to assume her natural shape\n**Effect** Tulvak's transformation into her true form is particularly revolting and can sicken those who aren't prepared for it. All creatures within 30 feet of Tulvak when she takes this reaction must attempt a DC 30 Will check save or become [[Conditions/Sickened 1|Sickened 1]] ([[Conditions/Sickened 1|Sickened 2]] on a critical failure)."
+    desc: "`pf2:r` (emotion,fear,mental,visual) **Frequency** once per hour\n\n**Trigger** Tulvak uses Change Shape to assume her natural shape\n\n**Effect** Tulvak's transformation into her true form is particularly revolting and can sicken those who aren't prepared for it. All creatures within 30 feet of Tulvak when she takes this reaction must attempt a DC 30 Will check save or become [[Conditions/Sickened|Sickened 1]] ([[Conditions/Sickened|Sickened 2]] on a critical failure)."
  
+```
+
+```encounter-table
+name: Tulvak
+creatures:
+  - 1: Tulvak
 ```
 
 

@@ -6,8 +6,9 @@ tags:
   - trait/oracle
   - trait/common
   - category/class
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.FPVe3o7YctBicSQa"
-license: OGL
+license: ORC
 ---
 # Advanced Revelation
 ## Feat 6
@@ -19,7 +20,7 @@ license: OGL
 
 **Prerequisites** initial revelation spell
 * * *
-You learn an advanced revelation spell associated with your mystery. Increase the number of Focus Points in your focus pool by 1.
+Divine power reveals greater mysteries to you. You learn the advanced revelation spell associated with your mystery.
 
-*Source: Pathfinder Advanced Player's Guide*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

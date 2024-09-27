@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.pathfinder-monster-core.Actor.C1MfXltrIJRnFaZg"
 tags:
   - pf2e/creature/type/mindless
   - pf2e/creature/type/ooze
+  - pf2eMonster
   - pf2e/creature/level/5
   - remaster
 statblock: inline
@@ -19,14 +20,15 @@ license: ORC
 columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
+token: [[modules/pf2e-tokens-bestiaries/portraits/aberrant/ooze/ochre-jelly.webp| ]]
 source: "Pathfinder Monster Core"
 name: "Tomb Jelly"
 level: "Creature 5"
 
 alignment: ""
 size: "Large"
-trait_01: "mindless"
-trait_02: "ooze"
+trait_01: [[mindless]]
+trait_02: [[ooze]]
 modifier: 7
 perception:
   - name: "Perception"
@@ -62,7 +64,7 @@ attacks:
     desc: "`pf2:1` Pseudopod +15 ()\n__Damage__  1d6 acid plus tomb-curse 1d8 + 6 bludgeoning plus tomb-curse"
 
   - name: "Bound in Death"
-    desc: "`pf2:1` (healing,void) The tomb jelly splatters some of its substance on a willing undead creature within its reach. The target regains 5 HP and its melee Strikes get the benefits of tomb curse until the end of its next turn."
+    desc: "`pf2:1` (healing,void) The tomb jelly splatters some of its substance on a willing undead creature within its reach. The target regains 5 void healing HP and its melee Strikes get the benefits of tomb curse until the end of its next turn."
 
   - name: "Flesh-dissolving Acid"
     desc: "  A tomb jelly's acid damages only flesh."
@@ -70,6 +72,12 @@ attacks:
   - name: "Tomb Curse"
     desc: " (curse,divine,void) A creature hit by a tomb jelly's pseudopod takes 1d6 persistent void damage. If the creature dies while it has this persistent damage, its corpse is affected by [[Spells/Peaceful Rest|Peaceful Rest]], except the tomb jelly can still dissolve its flesh."
  
+```
+
+```encounter-table
+name: Tomb Jelly
+creatures:
+  - 1: Tomb Jelly
 ```
 
 

@@ -6,6 +6,7 @@ cssClasses: pf2e
 aliases: "Compendium.pf2e.pfs-season-1-bestiary.Actor.vve98ekdPx8nJbF1" 
 tags:
   - pf2e/creature/type/aberration
+  - pf2eMonster
   - pf2e/creature/level/2
 statblock: inline
 name: "Injured Weak Otyugh"
@@ -23,7 +24,7 @@ level: "Creature 2"
 
 alignment: ""
 size: "Large"
-trait_01: "aberration"
+trait_01: [[aberration]]
 modifier: 7
 perception:
   - name: "Perception"
@@ -31,7 +32,7 @@ perception:
 languages: "Common"
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +5, Athletics: +8, Stealth: +5 (+8 in lair)"
+    desc: "Acrobatics: +5, Athletics: +8, Stealth: +5"
 abilityMods: [3, 1, 4, -2, 1, -2]
 speed: 20 feet
 sourcebook: "_Pathfinder Society Quest #10: The Broken Scales_"
@@ -50,7 +51,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Stench"
-    desc: " (aura,olfactory) 30 feet. A creature entering the aura must succeed at a DC 17 Fortitude check save or be [[Conditions/Sickened 1|Sickened 1]] (plus [[Conditions/Slowed 1|Slowed 1]] for the same duration on a critical failure). On a success, the creature is temporarily immune to the sickened and slowed effects of this stench for 1 hour. Regardless of the save, while within the aura, creatures take a -2 circumstance penalty to saves against diseases. An otyugh's stench is due to the offal and refuse that it wallows in, so cleaning the creature thoroughly (with create water and sufficient scrubbing, for example) deactivates the aura, while a sufficiently plugged nose allows an individual to avoid exposure to the stench."
+    desc: " (aura,olfactory) 30 feet. A creature entering the aura must succeed at a DC 17 Fortitude check save or be [[Conditions/Sickened|Sickened 1]] (plus [[Conditions/Slowed|Slowed 1]] for the same duration on a critical failure). On a success, the creature is temporarily immune to the sickened and slowed effects of this stench for 1 hour. Regardless of the save, while within the aura, creatures take a -2 circumstance penalty to saves against diseases. An otyugh's stench is due to the offal and refuse that it wallows in, so cleaning the creature thoroughly (with create water and sufficient scrubbing, for example) deactivates the aura, while a sufficiently plugged nose allows an individual to avoid exposure to the stench."
 
 attacks:
   - name: ""
@@ -62,10 +63,10 @@ attacks:
     desc: "`pf2:1` Tentacle +14 (agile, reach 10 feet)\n__Damage__  1d4 + 3 bludgeoning plus grab"
 
   - name: "[[Bestiary Ability Glossary/Constrict|Constrict]]"
-    desc: "`pf2:1`  1d4 + 3 bludgeoning damage, DC 18 Fortitude check\nThe monster deals the listed amount of damage to any number of creatures [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]] by it. Each of those creatures can attempt a basic Fortitude save with the listed DC."
+    desc: "`pf2:1`  1d4+3 bludgeoning damage, DC 18 Fortitude check\n\nThe monster deals the listed amount of damage to any number of creatures [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]] by it. Each of those creatures can attempt a basic Fortitude save with the listed DC."
 
   - name: "Filth Fever"
-    desc: " (disease) The [[Conditions/Sickened 1|Sickened]] and [[Conditions/Unconscious|Unconscious]] conditions from filth fever don't improve on their own until the disease is cured.\n**Saving Throw** DC 20 Fortitude check\n**Stage 1** carrier with no ill effect (1 day)\n**Stage 2** [[Conditions/Sickened 1|Sickened 1]] (1 day)\n**Stage 3** Sickened 1 and [[Conditions/Slowed 1|Slowed 1]] as long as it remains Sickened (1 day)\n**Stage 4** [[Conditions/Unconscious|Unconscious]] (1 day)\n**Stage 5** dead"
+    desc: " (disease) The [[Conditions/Sickened|Sickened]] and [[Conditions/Unconscious|Unconscious]] conditions from filth fever don't improve on their own until the disease is cured.\n\n**Saving Throw** DC 20 Fortitude check\n\n**Stage 1** carrier with no ill effect (1 day)\n\n**Stage 2** [[Conditions/Sickened|Sickened 1]] (1 day)\n\n**Stage 3** Sickened 1 and [[Conditions/Slowed|Slowed 1]] as long as it remains Sickened (1 day)\n\n**Stage 4** [[Conditions/Unconscious|Unconscious]] (1 day)\n\n**Stage 5** dead"
 
   - name: "Reposition"
     desc: "`pf2:1`  The otyugh attempts to move all creatures that it has grabbed into other spaces within the reach of its tentacles, rolling a single Athletics check and comparing the result against each creature's Fortitude DC. On a failure, the creature remains in place, and on a critical failure, the creature is no longer grabbed."
@@ -73,6 +74,12 @@ attacks:
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
     desc: "`pf2:1`  "
  
+```
+
+```encounter-table
+name: Injured Weak Otyugh
+creatures:
+  - 1: Injured Weak Otyugh
 ```
 
 

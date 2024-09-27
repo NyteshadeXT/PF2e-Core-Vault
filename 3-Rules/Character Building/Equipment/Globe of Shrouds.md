@@ -31,7 +31,7 @@ The body of this censer is made of transparent crystal banded with dark iron. Th
 
 **Cost** incense worth at least 5 gp
 
-**Effect** As you light the incense, barely visible smoke issues from the censer in a hazy 20-foot emanation. Creatures that are in the haze or later enter it are wreathed in wisps of smoke; these wisps last while the creature is in the smoke's aura and until the start of its next turn if it leaves the haze. An ally in the aura is [[Conditions/Concealed|Concealed]] and gains a +2 status bonus to Stealth checks. Any enemy in the aura that is or becomes [[Conditions/Invisible|Invisible]] appears as a translucent shape to you and your allies—it's no longer [[Conditions/Hidden|Hidden]], but it remains concealed.
+**Effect** As you light the incense, barely visible smoke issues from the censer in a hazy @Template\[emanation|distance:20\]. Creatures that are in the haze or later enter it are wreathed in wisps of smoke; these wisps last while the creature is in the smoke's aura and until the start of its next turn if it leaves the haze. An ally in the aura is [[Conditions/Concealed|Concealed]] and gains a +2 status bonus to Stealth checks. Any enemy in the aura that is or becomes [[Conditions/Invisible|Invisible]] appears as a translucent shape to you and your allies—it's no longer [[Conditions/Hidden|Hidden]], but it remains concealed.
 
 *Source: Pathfinder Rage of Elements*
 *OGL*

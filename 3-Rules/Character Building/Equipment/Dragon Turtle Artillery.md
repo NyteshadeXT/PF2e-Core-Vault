@@ -10,7 +10,7 @@ license: OGL
 ---
 # Dragon Turtle Artillery
 ## Item 10
-### [uncommon](uncommon "Uncommon Rarity Trait")[[magical]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[3-Rules/Rule References/Magical]]
 
 
 **Price** 1000 gp; 
@@ -25,7 +25,7 @@ One end of this heavy cylinder of steel has been forged in the likeness of a dra
 
 * * *
 
-**Effect** A 50-foot cone of steam blasts from the mouth of the cannon, dealing 10d6 fire damage to creatures in its area of effect (DC 27 Reflex check save). This blast ignores the fire resistance normally granted to creatures by being underwater.
+**Effect** A @Template\[cone|distance:50\] of steam blasts from the mouth of the cannon, dealing 10d6 fire damage to creatures in its area of effect (DC 27 Reflex check save). This blast ignores the fire resistance normally granted to creatures by being underwater.
 
 *Source: Pathfinder #199: To Bloom Below the Web*
 *OGL*

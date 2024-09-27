@@ -6,6 +6,7 @@ cssClasses: pf2e
 aliases: "Compendium.pf2e.stolen-fate-bestiary.Actor.a3NvKzSDBQzPwCc4" 
 tags:
   - pf2e/creature/type/construct
+  - pf2eMonster
   - pf2e/creature/level/10
 statblock: inline
 name: "Storied Harrowkin"
@@ -20,10 +21,10 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #192: Worst of All Possible Worlds"
 name: "Storied Harrowkin"
 level: "Creature 10"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Medium"
-trait_01: "construct"
+trait_01: [[construct]]
 modifier: 17
 perception:
   - name: "Perception"
@@ -49,7 +50,7 @@ abilities_top:
   - name: "Items"
     desc: "[[Equipment/Battle Axe|+1 Striking Battle Axe]], [[Equipment/Sturdy Shield (Lesser)|Sturdy Shield (Lesser)]], [[Equipment/Chain Mail|+1 Chain Mail]], [[Equipment/Harrow Deck (Simple)|Harrow Deck (Simple)]]"
   - name: "Harrowkin Suit"
-    desc: "  Any\n_Note: To select a suit add the following ability and follow the prompt [[Creature Family Ability Glossary/(Harrowkin) Harrowkin Suit|(Harrowkin) Harrow Suit]]_"
+    desc: "  Any\n* * *\n\n_Note: To select a suit add the following ability and follow the prompt [[Creature Family Ability Glossary/(Harrowkin) Harrowkin Suit|(Harrowkin) Harrow Suit]]_"
 
 abilities_mid:
   - name: ""
@@ -77,6 +78,12 @@ attacks:
   - name: "Hit 'Em While They're Down"
     desc: "  The harrowkin wildly attacks a [[Conditions/Prone|Prone]] target. They deal an additional 2d6 points of damage with their melee Strikes against prone targets. This damage is equal to the damage type of the Strike."
  
+```
+
+```encounter-table
+name: Storied Harrowkin
+creatures:
+  - 1: Storied Harrowkin
 ```
 
 

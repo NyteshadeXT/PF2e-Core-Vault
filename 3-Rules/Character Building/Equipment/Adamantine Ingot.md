@@ -11,7 +11,7 @@ license: ORC
 ---
 # Adamantine Ingot
 
-### [uncommon](uncommon "Uncommon Rarity Trait")[[precious]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[precious]]
 
 
 **Price** 5000 gp; 

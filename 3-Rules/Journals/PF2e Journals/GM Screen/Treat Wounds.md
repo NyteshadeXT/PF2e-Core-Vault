@@ -11,12 +11,13 @@ tags:
   
 
 **TREAT WOUNDS**
+ 
 | Proficiency | DC | Success Healing | Critical Healing |
 | --- | --- | --- | --- |
 | Trained | 15 | 2d8 | 4d8 |
-| Expert\* | 20 | 2d8 + 10 | 4d8 + 10 |
-| Master\* | 30 | 2d8 + 30 | 4d8 + 30 |
-| Legendary\* | 40 | 2d8 + 50 | 4d8 + 50 |
+| Expert\* | 20 | 2d8+10 | 4d8+10 |
+| Master\* | 30 | 2d8+30 | 4d8+30 |
+| Legendary\* | 40 | 2d8+50 | 4d8+50 |
 | \* Rolling against a higher DC is optional. |  |  |  |
 
 # Treat Wounds

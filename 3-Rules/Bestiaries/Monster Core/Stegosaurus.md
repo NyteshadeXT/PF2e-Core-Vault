@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.pathfinder-monster-core.Actor.qtJ36jlcRQw5sBnr"
 tags:
   - pf2e/creature/type/animal
   - pf2e/creature/type/dinosaur
+  - pf2eMonster
   - pf2e/creature/level/7
   - remaster
 statblock: inline
@@ -26,8 +27,8 @@ level: "Creature 7"
 
 alignment: ""
 size: "huge"
-trait_01: "animal"
-trait_02: "dinosaur"
+trait_01: [[animal]]
+trait_02: [[dinosaur]]
 modifier: 15
 perception:
   - name: "Perception"
@@ -70,6 +71,12 @@ attacks:
  
 ```
 
+```encounter-table
+name: Stegosaurus
+creatures:
+  - 1: Stegosaurus
+```
+
 
 
 The stegosaurus is easily recognized by its twin rows of diamond-shaped dorsal plates that run down its spine and thick tail adorned with four large spikes. This configuration protects the herbivore, the plates deflecting attacks while it gores predators with its tail.
@@ -78,4 +85,4 @@ The stegosaurus is generally even-tempered and gentle, despite its size. This co
 
 * * *
 
-Remnants from the world’s primeval era, these enormous reptilian animals still exist in large numbers in remote wildernesses or underground in magical Darklands caverns. Lizardfolk, orcs, giants, and other humanoids who live near dinosaurs use the animals as mounts, guards, or hunting beasts. Occasionally, rich nobles will collect dinosaurs to display them in menageries, which almost inevitably leads to cast-offs being nursed back to health by druids and other champions of nature. When dinosaurs establish themselves in regions outside their normal habitats, it’s often the result of a large collection being released.
+Remnants from the world's primeval era, these enormous reptilian animals still exist in large numbers in remote wildernesses or underground in magical Darklands caverns. Lizardfolk, orcs, giants, and other humanoids who live near dinosaurs use the animals as mounts, guards, or hunting beasts. Occasionally, rich nobles will collect dinosaurs to display them in menageries, which almost inevitably leads to cast-offs being nursed back to health by druids and other champions of nature. When dinosaurs establish themselves in regions outside their normal habitats, it's often the result of a large collection being released.

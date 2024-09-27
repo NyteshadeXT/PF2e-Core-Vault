@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/undead
   - pf2e/creature/type/unholy
+  - pf2eMonster
   - pf2e/creature/level/19
 statblock: inline
 name: "Tzitzimitl"
@@ -24,13 +25,13 @@ token: [[modules/pf2e-tokens-bestiaries/portraits/undead/skeletal/tzitzimitl.web
 source: "Pathfinder Bestiary 3"
 name: "Tzitzimitl"
 level: "Creature 19"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "grg"
-trait_01: "electricity"
-trait_02: "evil"
-trait_03: "undead"
-trait_04: "unholy"
+trait_01: [[electricity]]
+trait_02: [[evil]]
+trait_03: [[undead]]
+trait_04: [[unholy]]
 modifier: 32
 perception:
   - name: "Perception"
@@ -57,7 +58,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Light to Dark"
-    desc: "`pf2:r` (divine,void) **Trigger** A creature uses an ability or spell with the vitality trait within 120 feet of the tzitzimitl\n**Effect** The tzitzimitl inverts the energy used in the triggering ability or spell, causing it to lose the vitality trait and gain the void trait, and changing all instances of vitality energy or healing in the ability's description to void energy."
+    desc: "`pf2:r` (divine,void) **Trigger** A creature uses an ability or spell with the vitality trait within 120 feet of the tzitzimitl\n* * *\n\n**Effect** The tzitzimitl inverts the energy used in the triggering ability or spell, causing it to lose the vitality trait and gain the void trait, and changing all instances of vitality energy or healing in the ability's description to void energy."
 
 attacks:
   - name: ""
@@ -75,11 +76,17 @@ attacks:
     desc: "_[[Spells/Create Undead|Create Undead]]_, _[[Spells/Imprisonment|Imprisonment]]_"
 
   - name: "Drain Life"
-    desc: "  When a tzitzimitl's claw Strike deals damages to a living creature, the tzitzimitl gains 20 temporary Hit Points, and the target must succeed at a DC 41 Fortitude check save or become [[Conditions/Drained 1|Drained 2]]. Further damage dealt by a tzitzimitl's Claw Strike increases the value of the drained condition by 2 on a failed save, to a maximum of drained 4."
+    desc: "  When a tzitzimitl's claw Strike deals damages to a living creature, the tzitzimitl gains 20 temporary Hit Points, and the target must succeed at a DC 41 Fortitude check save or become [[Conditions/Drained|Drained 2]]. Further damage dealt by a tzitzimitl's Claw Strike increases the value of the drained condition by 2 on a failed save, to a maximum of drained 4."
 
   - name: "Eclipse"
-    desc: "`pf2:2` (cold,occult) **Effect** The tzitzimitl casts [[Spells/Darkness|Darkness]] and drains the heat and warmth from the Darkness spell's area, and each creature within the spell's area must attempt a DC 41 Fortitude check save.\n**Critical Success** The creature takes 4d8 cold damage.\n**Success** The creature takes 8d8 cold damage and is [[Conditions/Slowed 1|Slowed 1]] for 1 round.\n**Failure** The creature takes 16d8 cold damage and is [[Conditions/Slowed 1|Slowed 1]] for 1 minute.\n**Critical Failure** The creature takes 16d8 cold damage, is [[Conditions/Slowed 1|Slowed 2]] for 1 minute, and is [[Conditions/Doomed 1|Doomed 1]]."
+    desc: "`pf2:2` (cold,occult) **Effect** The tzitzimitl casts [[Spells/Darkness|Darkness]] and drains the heat and warmth from the Darkness spell's area, and each creature within the spell's area must attempt a DC 41 Fortitude check save.\n* * *\n\n**Critical Success** The creature takes 4d8 cold damage.\n\n**Success** The creature takes 8d8 cold damage and is [[Conditions/Slowed|Slowed 1]] for 1 round.\n\n**Failure** The creature takes 16d8 cold damage and is [[Conditions/Slowed|Slowed 1]] for 1 minute.\n\n**Critical Failure** The creature takes 16d8 cold damage, is [[Conditions/Slowed|Slowed 2]] for 1 minute, and is [[Conditions/Doomed|Doomed 1]]."
  
+```
+
+```encounter-table
+name: Tzitzimitl
+creatures:
+  - 1: Tzitzimitl
 ```
 
 

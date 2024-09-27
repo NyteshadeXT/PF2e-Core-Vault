@@ -6,6 +6,7 @@ cssClasses: pf2e
 aliases: "Compendium.pf2e.sky-kings-tomb-bestiary.Actor.RVdRHveFJmeCscI6" 
 tags:
   - pf2e/creature/type/animal
+  - pf2eMonster
   - pf2e/creature/level/8
 statblock: inline
 name: "Juvenile Cave Worm (Gray)"
@@ -20,14 +21,15 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #195: Heavy is the Crown"
 name: "Juvenile Cave Worm (Gray)"
 level: "Creature 8"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Large"
-trait_01: "animal"
+trait_01: [[animal]]
 modifier: 12
 perception:
   - name: "Perception"
     desc: "+12; Darkvision, Tremorsense (Imprecise) 100 Feet"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Athletics: +18, Stealth: +14"
@@ -49,10 +51,10 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Relentless"
-    desc: "  When a juvenile cave worm gains the [[Conditions/Paralyzed|Paralyzed]], [[Conditions/Slowed 1|Slowed]], or [[Conditions/Stunned 1|Stunned]] condition, reduce the duration by half, to a minimum of 1 round. It also recovers from penalties to its Speeds and the [[Conditions/Immobilized|Immobilized]] condition at the end of its turn. Finally, it ignores non-magical difficult terrain and treats greater difficult terrain like difficult terrain."
+    desc: "  When a juvenile cave worm gains the [[Conditions/Paralyzed|Paralyzed]], [[Conditions/Slowed|Slowed]], or [[Conditions/Stunned|Stunned]] condition, reduce the duration by half, to a minimum of 1 round. It also recovers from penalties to its Speeds and the [[Conditions/Immobilized|Immobilized]] condition at the end of its turn. Finally, it ignores non-magical difficult terrain and treats greater difficult terrain like difficult terrain."
 
   - name: "Shake It Off"
-    desc: "`pf2:r`  **Frequency** once per day\n**Trigger** The juvenile cave worm would be affected by a condition or adverse effect (such as [[Spells/Cursed Metamorphosis|Cursed Metamorphosis]])\n**Effect** The juvenile cave worm negates the triggering condition or effect. Effects from artifacts, deities, or a similarly powerful source can't be avoided in this way."
+    desc: "`pf2:r`  **Frequency** once per day\n\n**Trigger** The juvenile cave worm would be affected by a condition or adverse effect (such as [[Spells/Cursed Metamorphosis|Cursed Metamorphosis]])\n* * *\n\n**Effect** The juvenile cave worm negates the triggering condition or effect. Effects from artifacts, deities, or a similarly powerful source can't be avoided in this way."
 
 attacks:
   - name: ""
@@ -67,14 +69,20 @@ attacks:
     desc: "`pf2:2`  The cave worm flings its body, Leaping 30 feet. If it lands next to a creature, it can Strike that creature with its jaws. If the jaws Strike fails, it can Strike with its body using the same multiple attack penalty as the failed jaws Strike, but it becomes [[Conditions/Off-Guard|Off-Guard]] until the start of its next turn."
 
   - name: "Killing Shake"
-    desc: "`pf2:2`  **Requirements** The juvenile cave worm has a Medium or smaller creature [[Conditions/Grabbed|Grabbed]]\n**Effect** The juvenile cave Juvenile Cave Worm worm shakes the creature back and forth quickly, tearing flesh with its multiple rows of teeth. The target takes 2d12 + 9 slashing damage and is knocked [[Conditions/Prone|Prone]]. If the creature is adjacent to a solid surface, such as a stone wall, it takes an additional 2d6 bludgeoning damage. The creature attempts a DC 23 Reflex check save against all damage; if the creature succeeds, it isn't knocked prone."
+    desc: "`pf2:2`  **Requirements** The juvenile cave worm has a Medium or smaller creature [[Conditions/Grabbed|Grabbed]]\n* * *\n\n**Effect** The juvenile cave Juvenile Cave Worm worm shakes the creature back and forth quickly, tearing flesh with its multiple rows of teeth. The target takes 2d12+9 slashing damage and is knocked [[Conditions/Prone|Prone]]. If the creature is adjacent to a solid surface, such as a stone wall, it takes an additional 2d6 bludgeoning damage. The creature attempts a DC 23 Reflex check save against all damage; if the creature succeeds, it isn't knocked prone."
 
   - name: "Rock Tunneler"
     desc: "  A juvenile cave worm can burrow through solid stone at a Speed of 10 feet. It can leave a tunnel if it desires, and it usually does."
 
   - name: "[[Bestiary Ability Glossary/Swallow Whole|Swallow Whole]]"
-    desc: "`pf2:1` (attack) Medium, 1d8 + 10 bludgeoning, Rupture 18\n"
+    desc: "`pf2:1` (attack) Medium, 1d8+10 bludgeoning, Rupture 18\n\n* * *\n"
  
+```
+
+```encounter-table
+name: Juvenile Cave Worm (Gray)
+creatures:
+  - 1: Juvenile Cave Worm (Gray)
 ```
 
 

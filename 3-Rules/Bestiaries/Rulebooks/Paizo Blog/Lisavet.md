@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/good
   - pf2e/creature/type/human
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/2
 statblock: inline
 name: "Lisavet"
@@ -22,12 +23,12 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Blog"
 name: "Lisavet"
 level: "Creature 2"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Medium"
-trait_01: "good"
-trait_02: "human"
-trait_03: "humanoid"
+trait_01: [[good]]
+trait_02: [[human]]
+trait_03: [[humanoid]]
 modifier: 10
 perception:
   - name: "Perception"
@@ -35,7 +36,7 @@ perception:
 languages: "Common"
 skills:
   - name: "Skills"
-    desc: "Diplomacy: +7, Lore: +7, Medicine: +8, Religion: +8, Society: +7"
+    desc: "Diplomacy: +7, Medicine: +8, Religion: +8, Society: +7, Lore: +7"
 abilityMods: [0, 1, 0, 3, 4, 1]
 speed: 25 feet
 sourcebook: "_Pathfinder Blog_"
@@ -72,6 +73,12 @@ attacks:
   - name: "Turn Undead"
     desc: "  When Lisavet uses heal to damage undead, each level 2 or lower undead that critically fails its save gains the fleeing condition for 1 round."
  
+```
+
+```encounter-table
+name: Lisavet
+creatures:
+  - 1: Lisavet
 ```
 
 

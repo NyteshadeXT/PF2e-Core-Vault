@@ -5,6 +5,7 @@ noteType: pf2eHazard
 tags:
   - magical
   - trap
+  - pf2eHazard
 
 source: Pathfinder #183: Field of Maidens
 aliases: "Compendium.pf2e.blood-lords-bestiary.Actor.zVWCYNybRlSdYJrn" 
@@ -22,8 +23,8 @@ name: "Memory Hole"
 level: "Hazard 9"
 
 
-trait_01: "magical"
-trait_02: "trap"
+trait_01: [[magical]]
+trait_02: [[trap]]
 modifier: 20
 sourcebook: "_Pathfinder #183: Field of Maidens_"
 perception:
@@ -42,10 +43,16 @@ attacks:
   - name: ""
 
   - name: "Drink Thoughts"
-    desc: "`pf2:r` **Trigger** A creature looks into the pit\n**Effect** Ephemeral energies pour from the creature's head, and the creature must attempt a DC 30 Will check save.\n**Critical Success** The creature is unaffected.\n**Success** The creature is [[Conditions/Stupefied 1|Stupefied 1]] for 1 minute.\n**Failure** The creature is [[Conditions/Stupefied 1|Stupefied 2]] for 1 hour and loses 1 minute of recent memories (a memory of the GM's choosing within the last 24 hours).\n**Critical Failure** As failure, but [[Conditions/Stupefied 1|Stupefied 3]]."
+    desc: "`pf2:r` **Trigger** A creature looks into the pit\n\n**Effect** Ephemeral energies pour from the creature's head, and the creature must attempt a DC 30 Will check save.\n* * *\n\n**Critical Success** The creature is unaffected.\n\n**Success** The creature is [[Conditions/Stupefied|Stupefied 1]] for 1 minute.\n\n**Failure** The creature is [[Conditions/Stupefied|Stupefied 2]] for 1 hour and loses 1 minute of recent memories (a memory of the GM's choosing within the last 24 hours).\n\n**Critical Failure** As failure, but [[Conditions/Stupefied|Stupefied 3]]."
 
 
   - name: "Reset"
     desc: "The trap resets after 1 hour if it's not disabled."
+```
+
+```encounter-table
+name: Memory Hole
+creatures:
+  - 1: Memory Hole
 ```
 

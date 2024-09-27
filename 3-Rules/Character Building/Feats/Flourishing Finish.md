@@ -30,7 +30,7 @@ Attempt a Performance check, comparing the result to the Will DC of each foe wit
 
 * * *
 
-**Critical Success** The target is [[Conditions/Frightened 1|Frightened 2]].
+**Critical Success** The target is [[Conditions/Frightened|Frightened 2]].
 
 **Success** The target is frightened 1.
 

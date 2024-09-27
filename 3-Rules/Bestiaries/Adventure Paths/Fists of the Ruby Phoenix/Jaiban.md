@@ -6,6 +6,7 @@ cssClasses: pf2e
 aliases: "Compendium.pf2e.fists-of-the-ruby-phoenix-bestiary.Actor.zNOSSDaaCozimqaS" 
 tags:
   - pf2e/creature/type/beast
+  - pf2eMonster
   - pf2e/creature/level/15
 statblock: inline
 name: "Jaiban"
@@ -20,14 +21,15 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #166: Despair on Danger Island"
 name: "Jaiban"
 level: "Creature 15"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "grg"
-trait_01: "beast"
+trait_01: [[beast]]
 modifier: 23
 perception:
   - name: "Perception"
     desc: "+23; Darkvision, Scent (Imprecise) 30 Feet"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Athletics: +30, Stealth: +28, Survival: +26"
@@ -61,17 +63,23 @@ attacks:
     desc: "`pf2:1` Foot +31 (reach 15 feet)\n__Damage__  3d8 + 14 bludgeoning"
 
   - name: "Quaking Stomp"
-    desc: "`pf2:1` (manipulate) **Frequency** once per minute\n**Effect** Jaiban stomps the ground with intense force. It creates a minor earthquake with the effects of the [[Spells/Earthquake|Earthquake]] spell, except that the range is only 100 feet and is contained to a 20-foot burst."
+    desc: "`pf2:1` (manipulate) **Frequency** once per minute\n* * *\n\n**Effect** Jaiban stomps the ground with intense force. It creates a minor earthquake with the effects of the [[Spells/Earthquake|Earthquake]] spell, except that the range is only 100 feet and is contained to a @Template[burst|distance:20]."
 
   - name: "[[Bestiary Ability Glossary/Trample|Trample]]"
-    desc: "`pf2:3`  Huge or smaller, foot, DC 36 Reflex check\n"
+    desc: "`pf2:3`  Huge or smaller, foot, DC 36 Reflex check\n\n* * *\n"
 
   - name: "Whip Tail"
-    desc: "`pf2:2` (sonic) Jaiban cracks its tail, creating a sonic boom in a 5-foot burst centered on a corner within reach of its tail Strike. Each creature in the burst's area must attempt a DC 36 Fortitude check save.\n**Critical Success** The creature is unaffected.\n**Success** The creature is [[Conditions/Stunned 1|Stunned 1]].\n**Failure** The creature is [[Conditions/Stunned 1|Stunned 2]].\n**Critical Failure** The creature is [[Conditions/Stunned 1|Stunned 3]]."
+    desc: "`pf2:2` (sonic) Jaiban cracks its tail, creating a sonic boom in a @Template[burst|distance:5] centered on a corner within reach of its tail Strike. Each creature in the burst's area must attempt a DC 36 Fortitude check save.\n* * *\n\n**Critical Success** The creature is unaffected.\n\n**Success** The creature is [[Conditions/Stunned|Stunned 1]].\n\n**Failure** The creature is [[Conditions/Stunned|Stunned 2]].\n\n**Critical Failure** The creature is [[Conditions/Stunned|Stunned 3]]."
 
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
     desc: "`pf2:1`  "
  
+```
+
+```encounter-table
+name: Jaiban
+creatures:
+  - 1: Jaiban
 ```
 
 

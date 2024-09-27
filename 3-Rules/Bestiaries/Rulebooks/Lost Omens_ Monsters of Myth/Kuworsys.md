@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/aberration
   - pf2e/creature/type/evil
   - pf2e/creature/type/lawful
+  - pf2eMonster
   - pf2e/creature/level/12
 statblock: inline
 name: "Kuworsys"
@@ -22,16 +23,17 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Lost Omens: Monsters of Myth"
 name: "Kuworsys"
 level: "Creature 12"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Large"
-trait_01: "aberration"
-trait_02: "evil"
-trait_03: "lawful"
+trait_01: [[aberration]]
+trait_02: [[evil]]
+trait_03: [[lawful]]
 modifier: 22
 perception:
   - name: "Perception"
     desc: "+22; Scent (Imprecise) 60 Feet"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Acrobatics: +25, Athletics: +22, Crafting: +25, Stealth: +28, Thievery: +28"
@@ -54,7 +56,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Pinion"
-    desc: "`pf2:r`  **Trigger** A creature within 10 feet of Kuworsys uses an action to Fly\n**Requirements** Kuworsys is Reared Back\n**Effect** Kuworsys lashes out at the triggering creature, attempting to swat it to the ground. Kuworsys attempts a melee Strike against the creature. If the Strike hits, the creature's movement is interrupted. The creature is knocked to the ground; on a critical hit, they also can't Fly again for 1 minute."
+    desc: "`pf2:r`  **Trigger** A creature within 10 feet of Kuworsys uses an action to Fly\n\n**Requirements** Kuworsys is Reared Back\n* * *\n\n**Effect** Kuworsys lashes out at the triggering creature, attempting to swat it to the ground. Kuworsys attempts a melee Strike against the creature. If the Strike hits, the creature's movement is interrupted. The creature is knocked to the ground; on a critical hit, they also can't Fly again for 1 minute."
 
 attacks:
   - name: ""
@@ -66,20 +68,26 @@ attacks:
     desc: "`pf2:1` Sling +28 (propulsive, range increment 50 feet, reload 1)\n__Damage__  2d6 + 13 bludgeoning"
 
   - name: "Addictive Exhaustion"
-    desc: " (disease) **Saving Throw** DC 32 Fortitude check\nCreatures with addictive exhaustion can't reduce their sickened condition from addictive exhaustion while they have the disease\n**Stage 1** The creature is [[Conditions/Sickened 1|Sickened 1]]. One skill of the creature's choice doesn't suffer the status penalty from this sickened condition to its skill checks (1 day)\n**Stage 2** As Stage 1, but the creature is [[Conditions/Sickened 1|Sickened 2]] and is [[Conditions/Fatigued|Fatigued]] (5 days)\n**Stage 3** As Stage 2, but the creature is [[Conditions/Sickened 1|Sickened 3]] and has incurable hunger and thirst, in addition to being fatigued (1 day)"
+    desc: " (disease) **Saving Throw** DC 32 Fortitude check\n\nCreatures with addictive exhaustion can't reduce their sickened condition from addictive exhaustion while they have the disease\n\n**Stage 1** The creature is [[Conditions/Sickened|Sickened 1]]. One skill of the creature's choice doesn't suffer the status penalty from this sickened condition to its skill checks (1 day)\n\n**Stage 2** As Stage 1, but the creature is [[Conditions/Sickened|Sickened 2]] and is [[Conditions/Fatigued|Fatigued]] (5 days)\n\n**Stage 3** As Stage 2, but the creature is [[Conditions/Sickened|Sickened 3]] and has incurable hunger and thirst, in addition to being fatigued (1 day)"
 
   - name: "Gauge Potential"
     desc: "`pf2:1`  Kuworsys studies a creature it can see, attempting to predict its actions. The creature attempts a DC 32 Will check save. On a failed save, Kuworsys predicts the creature's moves, gaining a +2 circumstance bonus to attack rolls and AC against the target creature for 1 minute."
 
   - name: "Infectious Spores"
-    desc: "`pf2:2`  Kuworsys releases a choking field of spores within a 30-foot radius, continuing to release them until the end of its next turn. Creatures who begin their turns within the area of the spores, or who enter the area, must attempt a DC 32 Fortitude check save. On a failure, the creature becomes afflicted with addictive exhaustion.\nKuworsys then can't use its Infectious Spores again for 1d4 rounds."
+    desc: "`pf2:2`  Kuworsys releases a choking field of spores within a 30-foot radius, continuing to release them until the end of its next turn. Creatures who begin their turns within the area of the spores, or who enter the area, must attempt a DC 32 Fortitude check save. On a failure, the creature becomes afflicted with addictive exhaustion.\n\nKuworsys then can't use its Infectious Spores again for 1d4 rounds."
 
   - name: "Rear Back"
-    desc: "`pf2:1`  Kuworsys stands on its two hind limbs, bringing its other four limbs to bear on its foes. Kuworsys stays Reared Back until it uses a single action to return to its normal stance. While Kuworsys is Reared Back, it is [[Conditions/Clumsy 1|Clumsy 1]] but can use its Pinion and Yank abilities."
+    desc: "`pf2:1`  Kuworsys stands on its two hind limbs, bringing its other four limbs to bear on its foes. Kuworsys stays Reared Back until it uses a single action to return to its normal stance. While Kuworsys is Reared Back, it is [[Conditions/Clumsy|Clumsy 1]] but can use its Pinion and Yank abilities."
 
   - name: "Yank"
-    desc: "`pf2:2`  **Requirements** Kuworsys is Reared Back\n**Effect** Kuworsys makes a melee limb Strike against a creature and, on a success, attempts to steal the creature's weapon from its hands. Kuworsys attempts a Thievery check check against the target's Reflex DC.\n**Critical Success** The creature's weapon falls to the floor in the creature's space.\n**Success** Until the start of that creature's turn, attempts to [[Actions/Disarm|Disarm]] the creature of its weapon gain a +2 circumstance bonus, and the target takes a -2 circumstance penalty to attacks with the weapon or other checks requiring a firm grasp on the weapon.\n**Failure** The creature is unaffected.\n**Critical Failure** The creature can use a reaction to attempt a melee Strike against Kuworsys with the weapon Kuworsys attempted to grab."
+    desc: "`pf2:2`  **Requirements** Kuworsys is Reared Back\n* * *\n\n**Effect** Kuworsys makes a melee limb Strike against a creature and, on a success, attempts to steal the creature's weapon from its hands. Kuworsys attempts a Thievery check check against the target's Reflex DC.\n* * *\n\n**Critical Success** The creature's weapon falls to the floor in the creature's space.\n\n**Success** Until the start of that creature's turn, attempts to [[Actions/Disarm|Disarm]] the creature of its weapon gain a +2 circumstance bonus, and the target takes a -2 circumstance penalty to attacks with the weapon or other checks requiring a firm grasp on the weapon.\n\n**Failure** The creature is unaffected.\n\n**Critical Failure** The creature can use a reaction to attempt a melee Strike against Kuworsys with the weapon Kuworsys attempted to grab."
  
+```
+
+```encounter-table
+name: Kuworsys
+creatures:
+  - 1: Kuworsys
 ```
 
 

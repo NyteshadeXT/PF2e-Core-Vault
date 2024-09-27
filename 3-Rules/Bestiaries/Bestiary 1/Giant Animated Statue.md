@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/construct
   - pf2e/creature/type/earth
   - pf2e/creature/type/mindless
+  - pf2eMonster
   - pf2e/creature/level/7
 statblock: inline
 name: "Giant Animated Statue"
@@ -26,13 +27,14 @@ level: "Creature 7"
 
 alignment: ""
 size: "huge"
-trait_01: "construct"
-trait_02: "earth"
-trait_03: "mindless"
+trait_01: [[construct]]
+trait_02: [[earth]]
+trait_03: [[mindless]]
 modifier: 13
 perception:
   - name: "Perception"
     desc: "+13; Darkvision"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Athletics: +17"
@@ -66,7 +68,7 @@ attacks:
     desc: "`pf2:1` Flaming Coal +12 (fire, magical, range increment 80 feet)\n__Damage__  2d6 + 6 bludgeoning"
 
   - name: "Brazier"
-    desc: "  The statue carries a wide brazier full of hot coals. To make flaming coal Strikes or use Burn Alive, the statue must have the brazier held in one hand or otherwise have it within reach.\nInstead of targeting the statue with an attack, a creature can target the brazier directly. The brazier has the same AC and saves as the statue.\nDealing 15 cold damage to the brazier or dousing it with at least 2 gallons of water extinguishes the coals. This prevents the statue from using Burn Alive and causes its ranged attacks to no longer deal 2d8 fire damage."
+    desc: "  The statue carries a wide brazier full of hot coals. To make flaming coal Strikes or use Burn Alive, the statue must have the brazier held in one hand or otherwise have it within reach.\n\nInstead of targeting the statue with an attack, a creature can target the brazier directly. The brazier has the same AC and saves as the statue.\n\nDealing 15 cold damage to the brazier or dousing it with at least 2 gallons of water extinguishes the coals. This prevents the statue from using Burn Alive and causes its ranged attacks to no longer deal 2d8 fire damage."
 
   - name: "Burn Alive"
     desc: "`pf2:1` (fire) The statue grinds a creature it has [[Conditions/Grabbed|Grabbed]] into the red-hot coals of its brazier. The target takes 3d8 fire damage and 1d8 persistent fire damage."
@@ -74,6 +76,12 @@ attacks:
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
     desc: "`pf2:1`  "
  
+```
+
+```encounter-table
+name: Giant Animated Statue
+creatures:
+  - 1: Giant Animated Statue
 ```
 
 

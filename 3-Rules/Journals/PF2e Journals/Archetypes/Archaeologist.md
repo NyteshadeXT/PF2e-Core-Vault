@@ -8,7 +8,7 @@ tags:
 ---
 
 # Archaeologist
-Adventurers raid tombs for material gain, but true archaeologists treasure the knowledge gained from such sites. You might accomplish your goals with scholarly learning, by training to overcome the tricks and traps set by ancient peoples and rivals, through magical training, or even with a bit of inexplicable luck.
+Adventurers raid tombs for material gain, but true archaeologists treasure the knowledge attained from such sites. You might accomplish your goals with scholarly learning, by training to overcome the tricks and traps set by ancient peoples and rivals, through magical training, or even with a bit of inexplicable luck. Many archaeologists practice a combination of all these approaches. Regardless of method, all archaeologists possess a deep desire to learn more about sapient history and prehistory. Adventuring through tombs, dodging traps, and studying magic are all means to better understand ancient sites, analyze artifacts, and decipher the meaning of any remains that can be found from previous inhabitants. You decide how you will uncover the secrets of the past and what to do with the answers you find.
 
 **Additional Feats** 4th [[Feats/Trap Finder|Trap Finder]]; 10th [[Feats/Delay Trap|Delay Trap]]
 
@@ -19,8 +19,6 @@ Adventurers raid tombs for material gain, but true archaeologists treasure the k
 * * *
 
 You are a student of peoples and their histories, and are in constant pursuit of knowledge and artifacts from the past. You become an expert in Society and Thievery, and you gain a +1 circumstance bonus to Recall Knowledge about ancient history, peoples, and cultures.
-
-**Special** You can't select another dedication feat until you have gained two other feats from the archaeologist archetype.
 
 ## [[Feats/We're on the List|We're on the List]] Feat 3
 
@@ -40,7 +38,7 @@ Emulating Shensen whenever she arrives at a show, you share your knowledge of th
 
 * * *
 
-While study is key to your success, a bit of magic is a helpful tool in discovering the secrets of the past. You gain detect magic, guidance, and read aura as occult innate cantrips.
+While study is key to your success, a bit of magic can be a helpful aid in discovering the secrets of the past. You can cast detect magic, guidance, and read aura as occult innate cantrips.
 
 ## [[Feats/Settlement Scholastics|Settlement Scholastics]] Feat 4
 
@@ -48,7 +46,7 @@ While study is key to your success, a bit of magic is a helpful tool in discover
 
 * * *
 
-Your studies open up new horizons. You become an expert in a Lore skill about a specific settlement; if you were already trained in that Lore skill, you also become trained in the Lore skill for a different settlement of your choice. Choose a single common or uncommon language prevalent in that settlement. You learn that language.
+Your studies open up new horizons. Choose a specific settlement. You gain the Additional Lore skill feat in the Lore skill for that settlement and learn a single common or uncommon language of your choice that's prevalent in that settlement.
 
 **Special** You can take this feat multiple times. When you take this feat again, choose a different settlement.
 
@@ -78,4 +76,4 @@ You are more than just skillful; your drive to find the secrets of the past mani
 
 * * *
 
-You broaden your magical studies, allowing you to find the right path, detect objects, and conceal those objects from unscrupulous rivals. You can cast augury, locate, and nondetection as occult innate spells, each once per day. You can cast this nondetection spell only on an object, and it is automatically heightened to the same spell rank as your cantrips from Magical Scholastics.
+You broaden the scope of your magical understanding, allowing you to find the right path, detect hidden objects, and conceal those objects from unscrupulous rivals. You can cast augury, locate, and veil of privacy as occult innate spells, each once per day. You can cast this veil of privacy spell only on an object, and it's automatically heightened to half your level rounded up.

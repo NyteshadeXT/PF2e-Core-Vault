@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/humanoid
   - pf2e/creature/type/kitsune
+  - pf2eMonster
   - pf2e/creature/level/3
 statblock: inline
 name: "Dorobu (1-2)"
@@ -22,12 +23,12 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Society Scenario #1-06: Lost on the Spirit Road"
 name: "Dorobu (1-2)"
 level: "Creature 3"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Medium"
-trait_01: "evil"
-trait_02: "humanoid"
-trait_03: "kitsune"
+trait_01: [[evil]]
+trait_02: [[humanoid]]
+trait_03: [[kitsune]]
 modifier: 10
 perception:
   - name: "Perception"
@@ -69,6 +70,12 @@ attacks:
   - name: "Order Spells"
     desc: "1 Focus Point, DC 19, attack +12; __2nd __  _[[Spells/Untamed Shift|Wild Morph]]_, _[[Spells/Untamed Form|Wild Shape]]_"
  
+```
+
+```encounter-table
+name: Dorobu (1-2)
+creatures:
+  - 1: Dorobu (1-2)
 ```
 
 

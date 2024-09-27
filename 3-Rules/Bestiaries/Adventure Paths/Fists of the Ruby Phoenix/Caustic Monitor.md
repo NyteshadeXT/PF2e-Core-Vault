@@ -6,6 +6,7 @@ cssClasses: pf2e
 aliases: "Compendium.pf2e.fists-of-the-ruby-phoenix-bestiary.Actor.YVP3pM7jxY9Gyouy" 
 tags:
   - pf2e/creature/type/animal
+  - pf2eMonster
   - pf2e/creature/level/13
 statblock: inline
 name: "Caustic Monitor"
@@ -20,14 +21,15 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #166: Despair on Danger Island"
 name: "Caustic Monitor"
 level: "Creature 13"
-rare_03: "Rare"
+rare_03: [[Rare]]
 alignment: ""
 size: "huge"
-trait_01: "animal"
+trait_01: [[animal]]
 modifier: 22
 perception:
   - name: "Perception"
     desc: "+22; Low-Light Vision, Scent (Imprecise) 30 Feet"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Acrobatics: +24, Athletics: +28, Stealth: +20"
@@ -58,20 +60,26 @@ attacks:
     desc: "`pf2:1` Talon +27 ()\n__Damage__  2d8 + 13 slashing 2d6 bleed"
 
   - name: "Caustic Monitor Venom"
-    desc: " (poison) **Saving Throw** DC 32 Fortitude check\n**Maximum Duration** 6 rounds\n**Stage 1** 4d6 poison damage and [[Conditions/Enfeebled 1|Enfeebled 1]] (1 round)\n**Stage 2** 4d6 poison damage and [[Conditions/Enfeebled 1|Enfeebled 2]] (1 round)"
+    desc: " (poison) **Saving Throw** DC 32 Fortitude check\n\n**Maximum Duration** 6 rounds\n\n**Stage 1** 4d6 poison damage and [[Conditions/Enfeebled|Enfeebled 1]] (1 round)\n\n**Stage 2** 4d6 poison damage and [[Conditions/Enfeebled|Enfeebled 2]] (1 round)"
 
   - name: "Caustic Spray"
-    desc: "`pf2:2` (acid) The caustic monitor spits a spray of corrosive bile that deals 5d8 acid damage in a 20-foot cone (DC 32 Reflex check save). It can't use Caustic Spray again for 1d4 rounds."
+    desc: "`pf2:2` (acid) The caustic monitor spits a spray of corrosive bile that deals 5d8 acid damage in a @Template[cone|distance:20] (DC 32 Reflex check save). It can't use Caustic Spray again for 1d4 rounds."
 
   - name: "Corrosive Flesh"
     desc: "  A creature that touches the caustic monitor takes 2d8 acid damage (DC 32 Fortitude check save)."
 
   - name: "Gnashing Grip"
-    desc: "`pf2:r`  **Trigger** A creature grabbed by the caustic monitor's jaws fails a check to Escape.\n**Effect** The caustic monitor's jaws deal 2d8 piercing damage and the triggering creature is exposed to caustic monitor venom."
+    desc: "`pf2:r`  **Trigger** A creature grabbed by the caustic monitor's jaws fails a check to Escape.\n* * *\n\n**Effect** The caustic monitor's jaws deal 2d8 piercing damage and the triggering creature is exposed to caustic monitor venom."
 
   - name: "Lurching Charge"
     desc: "`pf2:2`  The caustic monitor Strides twice, then makes a jaws Strike. If the monitor moved at least 20 feet away from its starting position, it gains a +2 circumstance bonus to this attack roll."
  
+```
+
+```encounter-table
+name: Caustic Monitor
+creatures:
+  - 1: Caustic Monitor
 ```
 
 

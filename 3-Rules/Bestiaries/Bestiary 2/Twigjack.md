@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/fey
   - pf2e/creature/type/plant
+  - pf2eMonster
   - pf2e/creature/level/3
 statblock: inline
 name: "Twigjack"
@@ -27,10 +28,10 @@ level: "Creature 3"
 
 alignment: ""
 size: "tiny"
-trait_01: "chaotic"
-trait_02: "evil"
-trait_03: "fey"
-trait_04: "plant"
+trait_01: [[chaotic]]
+trait_02: [[evil]]
+trait_03: [[fey]]
+trait_04: [[plant]]
 modifier: 9
 perception:
   - name: "Perception"
@@ -66,11 +67,17 @@ attacks:
     desc: "`pf2:1` Splinter +11 (deadly d6, range increment 30 feet)\n__Damage__  1d6 + 4 piercing"
 
   - name: "Bramble Jump"
-    desc: "`pf2:3` (plant,primal,teleportation) **Requirements** The twigjack is in undergrowth\n**Effect** The twigjack scrambles into the undergrowth and instantly teleports to a square of undergrowth within 60 feet. This movement doesn't trigger reactions."
+    desc: "`pf2:3` (plant,primal,teleportation) **Requirements** The twigjack is in undergrowth\n* * *\n\n**Effect** The twigjack scrambles into the undergrowth and instantly teleports to a square of undergrowth within 60 feet. This movement doesn't trigger reactions."
 
   - name: "Splinter Spray"
-    desc: "`pf2:2`  The twigjack sprays a barrage of splinters and brambles from its body in a 15-foot cone, dealing 4d6 piercing damage (DC 20 Reflex check save).\nIt can't use Splinter Spray again for 1d4 rounds."
+    desc: "`pf2:2`  The twigjack sprays a barrage of splinters and brambles from its body in a @Template[cone|distance:15], dealing 4d6 piercing damage (DC 20 Reflex check save).\n\nIt can't use Splinter Spray again for 1d4 rounds."
  
+```
+
+```encounter-table
+name: Twigjack
+creatures:
+  - 1: Twigjack
 ```
 
 

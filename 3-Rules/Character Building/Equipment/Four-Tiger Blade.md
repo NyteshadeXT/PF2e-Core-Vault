@@ -13,7 +13,7 @@ license: OGL
 ---
 # Four-Tiger Blade
 ## Item 12
-### [rare](rare "Rare Rarity Trait")[[divine]][[versatile-p]]
+### [rare](rare.md "Rare Rarity Trait")[[3-Rules/Rule References/Divine]][[versatile-p]]
 
 |  |  |
 | -- | -- |

@@ -16,7 +16,9 @@ license: OGL
 
 
 
-**Major Boon:** Chaldira's major boon grants truly improbable luck in combat. Your movement doesn't trigger reactions. You always succeed at flat checks you make to hit opponents with attack actions; this is a fortune effect.
+Chaldira's major boon grants truly improbable luck in combat.
+
+Your movement doesn't trigger reactions. You always succeed at flat checks you make to hit opponents with attack actions; this is a fortune effect.
 
 *Source: Pathfinder Lost Omens: Gods & Magic*
 *OGL*

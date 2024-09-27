@@ -14,18 +14,18 @@ tags:
 
 # Amazing Miss
 
-> You are [[Conditions/Stunned 1|Stunned 1]].
+> You are [[Conditions/Stunned|Stunned 1]].
 
 `Ranged`
 
 # Bone Bruise
 
-> You become [[Conditions/Wounded 1|Wounded 1]] or your wounded value increases by 1.
+> You become [[Conditions/Wounded|Wounded 1]] or your wounded value increases by 1.
 
 `Unarmed`
 
 # You made 'em Bigger
 
-> The target increases in size, with the effects of a 2nd level [[Spells/Enlarge|Enlarge]] spell. [[Spell Effects/Spell Effect\_ Enlarge|Spell Effect: Enlarge]]
+> The target increases in size, with the effects of a 2nd level [[Spells/Enlarge|Enlarge]] spell. [[Spell Effects/Spell Effect_ Enlarge|Spell Effect: Enlarge]]
 
 `Spell`

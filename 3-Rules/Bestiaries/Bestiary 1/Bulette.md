@@ -6,6 +6,7 @@ cssClasses: pf2e
 aliases: "Compendium.pf2e.pathfinder-bestiary.Actor.CzxQpB3p0d9hwPeR" 
 tags:
   - pf2e/creature/type/animal
+  - pf2eMonster
   - pf2e/creature/level/8
 statblock: inline
 name: "Bulette"
@@ -24,11 +25,12 @@ level: "Creature 8"
 
 alignment: ""
 size: "huge"
-trait_01: "animal"
+trait_01: [[animal]]
 modifier: 16
 perception:
   - name: "Perception"
     desc: "+16; Darkvision, Scent (Imprecise) 30 Feet"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Acrobatics: +16, Athletics: +21"
@@ -67,6 +69,12 @@ attacks:
   - name: "Powerful Jumper"
     desc: "  A bulette jumps 10 feet up on a successful [[Actions/High Jump|High Jump]], or 20 feet up on a critical success."
  
+```
+
+```encounter-table
+name: Bulette
+creatures:
+  - 1: Bulette
 ```
 
 

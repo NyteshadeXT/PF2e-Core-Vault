@@ -6,6 +6,7 @@ cssClasses: pf2e
 aliases: "Compendium.pf2e.lost-omens-mwangi-expanse-bestiary.Actor.8K5v5q9Y01hcSNug" 
 tags:
   - pf2e/creature/type/beast
+  - pf2eMonster
   - pf2e/creature/level/5
 statblock: inline
 name: "Rompo"
@@ -23,11 +24,12 @@ level: "Creature 5"
 
 alignment: ""
 size: "Medium"
-trait_01: "beast"
+trait_01: [[beast]]
 modifier: 15
 perception:
   - name: "Perception"
     desc: "+15; Darkvision, Scent (Imprecise) 30 Feet"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Athletics: +13, Stealth: +12, Survival: +12"
@@ -61,11 +63,17 @@ attacks:
     desc: "`pf2:1` Claws +13 (agile)\n__Damage__  2d6 + 5 slashing"
 
   - name: "Crooning Cry"
-    desc: "`pf2:2` (incapacitation,mental,primal) 60 feet. The rompo hums in a low voice. Each creature within the emanation must succeed at a DC 19 Will check save or become [[Conditions/Fascinated|Fascinated]] and compelled to move away from the rompo, traveling to the furthest edge of the emanation. Fascinated creatures are also [[Conditions/Off-Guard|Off-Guard]].\nThe effect lasts for 1 round, but if the rompo spends a single action on subsequent rounds, it can extend the duration by 1 round for all affected creatures. If the rompo attacks, the fascinated condition ends only for the creature that is attacked.\nOn a successful save, a creature is temporarily immune to Crooning Cry for 24 hours."
+    desc: "`pf2:2` (incapacitation,mental,primal) 60 feet. The rompo hums in a low voice. Each creature within the emanation must succeed at a DC 19 Will check save or become [[Conditions/Fascinated|Fascinated]] and compelled to move away from the rompo, traveling to the furthest edge of the emanation. Fascinated creatures are also [[Conditions/Off-Guard|Off-Guard]].\n\nThe effect lasts for 1 round, but if the rompo spends a single action on subsequent rounds, it can extend the duration by 1 round for all affected creatures. If the rompo attacks, the fascinated condition ends only for the creature that is attacked.\n\nOn a successful save, a creature is temporarily immune to Crooning Cry for 24 hours."
 
   - name: "Rompo Chills"
-    desc: " (disease) The target can't reduce its sickened condition while affected by rompo chills\n**Saving Throw** DC 19 Fortitude check\n**Onset** 1 day\n**Stage 1** [[Conditions/Clumsy 1|Clumsy 1]] (1 day)\n**Stage 2** Clumsy 1 and [[Conditions/Sickened 1|Sickened 1]] (1 day)\n**Stage 3** [[Conditions/Clumsy 1|Clumsy 2]] and [[Conditions/Sickened 1|Sickened 2]] (1 day)\n**Stage 4** [[Conditions/Unconscious|Unconscious]] (1 day)\n**Stage 5** dead"
+    desc: " (disease) The target can't reduce its sickened condition while affected by rompo chills\n\n**Saving Throw** DC 19 Fortitude check\n\n**Onset** 1 day\n* * *\n\n**Stage 1** [[Conditions/Clumsy|Clumsy 1]] (1 day)\n\n**Stage 2** Clumsy 1 and [[Conditions/Sickened|Sickened 1]] (1 day)\n\n**Stage 3** [[Conditions/Clumsy|Clumsy 2]] and [[Conditions/Sickened|Sickened 2]] (1 day)\n\n**Stage 4** [[Conditions/Unconscious|Unconscious]] (1 day)\n\n**Stage 5** dead"
  
+```
+
+```encounter-table
+name: Rompo
+creatures:
+  - 1: Rompo
 ```
 
 

@@ -9,12 +9,13 @@ tags:
   - trait/reach
   - trait/uncommon
   - category/martial
+  - remaster
 aliases: "Compendium.pf2e.equipment-srd.Item.ymyPCjfyXCNyDcnn"
-license: OGL
+license: ORC
 ---
 # Breaching Pike
 ## Item 0
-### [uncommon](uncommon "Uncommon Rarity Trait")[[hobgoblin]][[razing]][[reach]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[hobgoblin]][[razing]][[3-Rules/Rule References/Reach]]
 
 |  |  |
 | -- | -- |
@@ -25,7 +26,7 @@ license: OGL
 
 
 
-Forged with a heavy metal wedge as a spearhead, breaching pikes are often used by hobgoblin infantry alongside a tower shield. Breaching pikes are particularly effective at damaging enemy shields, leaving large, triangular puncture holes behind.
+Forged with a heavy metal wedge effective at damaging enemy shields, breaching pikes are often used by hobgoblin infantry alongside a tower shield.
 
-*Source: Pathfinder Treasure Vault*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

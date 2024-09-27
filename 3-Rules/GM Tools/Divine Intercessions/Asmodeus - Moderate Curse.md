@@ -17,7 +17,7 @@ license: OGL
 
 
 
-**Moderate Curse** Asmodeus forces your compliance. You can't voluntarily back out of an agreement or contract or go back on your word, though you need follow only the letter of the agreement, not the spirit.
+Asmodeus forces your compliance. You can't voluntarily back out of an agreement or contract or go back on your word, though you need follow only the letter of the agreement, not the spirit.
 
 *Source: Pathfinder Lost Omens: Gods & Magic*
 *OGL*

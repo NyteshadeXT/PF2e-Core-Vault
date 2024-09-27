@@ -11,7 +11,7 @@ license: OGL
 ---
 # Cassisian Helmet
 ## Item 6
-### [[invested]][[magical]]
+### [[invested]][[3-Rules/Rule References/Magical]]
 
 
 **Price** 225 gp; 
@@ -26,7 +26,7 @@ A small, feathered wing is attached to either side of this ornate brass helmet. 
 
 * * *
 
-**Effect** Lowering the visor, you send out eye beams that deal your choice of 2d6 cold or 2d6 fire damage (DC 20 Reflex check) to all creatures in a 15-foot line.
+**Effect** Lowering the visor, you send out eye beams that deal your choice of 2d6 cold or 2d6 fire damage (DC 20 Reflex check) to all creatures in a @Template\[line|distance:15\].
 
 *Source: Pathfinder Treasure Vault*
 *OGL*

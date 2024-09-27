@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/undead
   - pf2e/creature/type/unholy
+  - pf2eMonster
   - pf2e/creature/level/13
 statblock: inline
 name: "Gashadokuro"
@@ -22,17 +23,17 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Book of the Dead"
 name: "Gashadokuro"
 level: "Creature 13"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "huge"
-trait_01: "evil"
-trait_02: "undead"
-trait_03: "unholy"
+trait_01: [[evil]]
+trait_02: [[undead]]
+trait_03: [[unholy]]
 modifier: 24
 perception:
   - name: "Perception"
     desc: "+24; Darkvision"
-languages: "Common"
+languages: "Common; (can&#x27;t speak any language)"
 skills:
   - name: "Skills"
     desc: "Athletics: +27, Intimidation: +24"
@@ -66,17 +67,23 @@ attacks:
     desc: "`pf2:1` Claw +27 (agile, reach 15 feet)\n__Damage__  3d8 + 14 slashing"
 
   - name: "Breath Weapon"
-    desc: "`pf2:2` (divine) The gashadokuro breathes a spray of bone shards in a 30-foot cone. Each creature in the area takes 8d12 piercing damage (DC 34 Reflex check).\nIt can't use Breath Weapon again for 1d4 rounds."
+    desc: "`pf2:2` (divine) The gashadokuro breathes a spray of bone shards in a @Template[cone|distance:30]. Each creature in the area takes 8d12 piercing damage (DC 34 Reflex check).\n\nIt can't use Breath Weapon again for 1d4 rounds."
 
   - name: "Corpse Consumption"
     desc: " (divine) If the gashadokuro kills a creature with Swallow Whole, it immediately regains Hit Points equal to the swallowed creature's level. As long as the gashadokuro still exists, creatures consumed in this way can't be resurrected except by [[Spells/Wish|Wish]] or a similarly powerful effect."
 
   - name: "[[Bestiary Ability Glossary/Swallow Whole|Swallow Whole]]"
-    desc: "`pf2:1` (attack) Large, 3d6 + 8 bludgeoning, Rupture 24\n"
+    desc: "`pf2:1` (attack) Large, 3d6+8 bludgeoning, Rupture 24\n\n* * *\n"
 
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
     desc: "`pf2:1`  "
  
+```
+
+```encounter-table
+name: Gashadokuro
+creatures:
+  - 1: Gashadokuro
 ```
 
 

@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/amphibious
   - pf2e/creature/type/feddry
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/0
 statblock: inline
 name: "Feddry"
@@ -26,17 +27,17 @@ level: "Creature 0"
 
 alignment: ""
 size: "Small"
-trait_01: "amphibious"
-trait_02: "feddry"
-trait_03: "humanoid"
+trait_01: [[amphibious]]
+trait_02: [[feddry]]
+trait_03: [[humanoid]]
 modifier: 6
 perception:
   - name: "Perception"
     desc: "+6; Low-Light Vision"
-languages: "Common"
+languages: "Common; (spoken and signed)"
 skills:
   - name: "Skills"
-    desc: "Crafting: +3, Deception: +5, Diplomacy: +5, Society: +3, Stealth: +6, Rock Lore: +6, "
+    desc: "Crafting: +3, Deception: +5, Diplomacy: +5, Society: +3, Stealth: +6, Crafting: +3, Deception: +5, Diplomacy: +5, Society: +3, Stealth: +6, Rock Lore: +6"
 abilityMods: [2, 3, 2, 0, 1, 3]
 speed: 25 feet
 sourcebook: "_Battlezoo Bestiary: Strange and Unusual_"
@@ -71,14 +72,20 @@ attacks:
     desc: "`pf2:1` Rock +8 (nonlethal, thrown 10 ft.)\n__Damage__  1d4 + 2 bludgeoning"
 
   - name: "Roll"
-    desc: "`pf2:1` (move) **Requirements** The feddry is Withdrawn into Rock\n**Effect** The feddry rolls slowly across the ground, moving 5 feet."
+    desc: "`pf2:1` (move) **Requirements** The feddry is Withdrawn into Rock\n* * *\n\n**Effect** The feddry rolls slowly across the ground, moving 5 feet."
 
   - name: "Withdraw into Rock"
-    desc: "`pf2:2`  A feddry can retreat into its rock, dropping equipment that can't fit into its rock torso. While hiding inside its rock, the feddry gains the benefits of greater cover, though other creatures can attack and destroy the rock to remove the greater cover. The rock is a Tiny object the size of a backpack with Hardness 7, HP 28, BT 14, and 1 Bulk. A feddry can speak and listen while hiding in its rock, but it can't see outside and can't take most actions that require the use of its body, particularly its hands or legs. This includes the use of its Strikes. The only move action it can take while Withdrawn into its Rock is to Roll. It can use Withdraw into Rock again to leave the rock's cover and return to its usual appearance. Other creatures might mistake a feddry in rock form for a rock as long as it remains still unless they succeed at a DC 20 Perception check or Nature check.\nEffect: Cover"
+    desc: "`pf2:2`  A feddry can retreat into its rock, dropping equipment that can't fit into its rock torso. While hiding inside its rock, the feddry gains the benefits of greater cover, though other creatures can attack and destroy the rock to remove the greater cover. The rock is a Tiny object the size of a backpack with Hardness 7, HP 28, BT 14, and 1 Bulk. A feddry can speak and listen while hiding in its rock, but it can't see outside and can't take most actions that require the use of its body, particularly its hands or legs. This includes the use of its Strikes. The only move action it can take while Withdrawn into its Rock is to Roll. It can use Withdraw into Rock again to leave the rock's cover and return to its usual appearance. Other creatures might mistake a feddry in rock form for a rock as long as it remains still unless they succeed at a DC 20 Perception check or Nature check.\n\n[[Other Effects/Effect_ Cover|Effect: Cover]]"
 
   - name: "Static Touch"
     desc: "  The vibrations a feddry makes generate a strong static charge. The first time each round that an adjacent creature hits the feddry with a melee attack, or a creature touches the feddry or hits the feddry with an unarmed attack, this static discharges, causing 1 electricity damage to the creature touched. A feddry can suppress or resume this static as a single action, which has the concentrate trait."
  
+```
+
+```encounter-table
+name: Feddry
+creatures:
+  - 1: Feddry
 ```
 
 

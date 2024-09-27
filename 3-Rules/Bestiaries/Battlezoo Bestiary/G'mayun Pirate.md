@@ -7,6 +7,7 @@ aliases: "Compendium.battlezoo-bestiary-pf2e.pf2e-battlezoo-bestiary.Actor.Y7wLW
 tags:
   - pf2e/creature/type/chaotic
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/0
 statblock: inline
 name: "G&#x27;mayun Pirate"
@@ -25,8 +26,8 @@ level: "Creature 0"
 
 alignment: ""
 size: "Small"
-trait_01: "chaotic"
-trait_02: "humanoid"
+trait_01: [[chaotic]]
+trait_02: [[humanoid]]
 modifier: 6
 perception:
   - name: "Perception"
@@ -34,7 +35,7 @@ perception:
 languages: "Chthonian, Common, Sussuran"
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +3, Deception: +3, Diplomacy: +5, Intimidation: +5, Performance: +6, Religion: +3, Society: +3, "
+    desc: "Acrobatics: +3, Deception: +3, Diplomacy: +5, Intimidation: +5, Performance: +6, Religion: +3, Society: +3"
 abilityMods: [1, 3, 0, 2, 2, 3]
 speed: 25 feet
 sourcebook: "_Battlezoo Bestiary_"
@@ -52,7 +53,7 @@ abilities_top:
   - name: "Items"
     desc: "[[Equipment/Dagger|Dagger]], 4x [[Equipment/Dart|Dart]], [[Equipment/Studded Leather Armor|Studded Leather Armor]]"
   - name: "Truecolor Sight"
-    desc: "  Owing to their divine connections to a goddess of art, g'mayuns can see colors of the visual spectrum that most creatures can't even fathom.\nA g'mayun can see air, force, negative, and positive effects as easily as most people see fire, even if these effects normally don't create a visual effect. A g'mayun can also see Invisible objects and creatures, which are Concealed to the g'mayun."
+    desc: "  Owing to their divine connections to a goddess of art, g'mayuns can see colors of the visual spectrum that most creatures can't even fathom.\n\nA g'mayun can see air, force, negative, and positive effects as easily as most people see fire, even if these effects normally don't create a visual effect. A g'mayun can also see [[Conditions/Invisible|Invisible]] objects and creatures, which are [[Conditions/Concealed|Concealed]] to the g'mayun."
 
 abilities_mid:
   - name: ""
@@ -69,11 +70,17 @@ attacks:
     desc: "`pf2:1` Dart +7 (agile, thrown 20 ft.)\n__Damage__  1d4 + 1 piercing"
 
   - name: "Dolent Aria"
-    desc: "`pf2:2` (auditory,emotion) The g'mayun sings a beautiful but mournful melody to inflict sorrow in the hearts of its foes. Each foe within 60 feet must succeed at a Will save or become Slowed 1 for 1 minute. If the creature is attacked during this time, it can make another Will save to end the effect early.\nAfter 1 minute, the creature is immune to the g'mayun's Dolent Aria for 24 hours."
+    desc: "`pf2:2` (auditory,emotion) The g'mayun sings a beautiful but mournful melody to inflict sorrow in the hearts of its foes. Each foe within 60 feet must succeed at a DC 13 Will save or become [[Conditions/Slowed|Slowed 1]] for 1 minute. If the creature is attacked during this time, it can make another Will save to end the effect early.\n\nAfter 1 minute, the creature is immune to the g'mayun's Dolent Aria for 24 hours."
 
   - name: "Rending Squall"
-    desc: "`pf2:2` (divine,sonic) The g'mayun unleashes its pain and rage in a sudden scream targeted at the source of its enmity. Each creature in a 15-foot cone takes 1d6 sonic damage (basic Fortitude save)."
+    desc: "`pf2:2` (divine,sonic) The g'mayun unleashes its pain and rage in a sudden scream targeted at the source of its enmity. Each creature in a 15-foot cone takes 1d6 sonic damage (DC 14 basic Fortitude save)."
  
+```
+
+```encounter-table
+name: G'mayun Pirate
+creatures:
+  - 1: G'mayun Pirate
 ```
 
 

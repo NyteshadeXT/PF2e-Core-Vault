@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.pfs-season-3-bestiary.Actor.ISBNLUY6Ilu0Jl28"
 tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/fey
+  - pf2eMonster
   - pf2e/creature/level/7
 statblock: inline
 name: "Eloko (PFS 3-03)"
@@ -24,8 +25,8 @@ level: "Creature 7"
 
 alignment: ""
 size: "Small"
-trait_01: "evil"
-trait_02: "fey"
+trait_01: [[evil]]
+trait_02: [[fey]]
 modifier: 15
 perception:
   - name: "Perception"
@@ -62,16 +63,16 @@ attacks:
     desc: "`pf2:1` Dagger +16 (agile, magical, versatile s)\n__Damage__  1d4 + 8 piercing"
 
   - name: "Ranged"
-    desc: "`pf2:1` Blowgun +17 (agile, nonlethal, range increment 20 feet, reload 1)\n__Damage__  1 piercing 2d4 poison"
+    desc: "`pf2:1` Dagger +16 (agile, magical, thrown 10 ft., versatile s)\n__Damage__  1d4 + 8 piercing"
 
   - name: "Ranged"
-    desc: "`pf2:1` Dagger +16 (agile, magical, thrown 10 ft., versatile s)\n__Damage__  1d4 + 8 piercing"
+    desc: "`pf2:1` Blowgun +17 (agile, nonlethal, range increment 20 feet, reload 1)\n__Damage__  1 piercing 2d4 poison"
 
   - name: "Primal Innate Spells"
     desc: "DC 22, attack +14; __1st __  _[[Spells/Charm|Charm]]_"
 
   - name: "Inspired Feast"
-    desc: " (emotion,mental) If a biloko feasts on a human corpse for 1 minute or more, they gain a +1 status bonus to attack rolls and a +2 status bonus to damage rolls for 1 hour.\n[[Bestiary Effects/Effect_ Inspired Feast|Effect: Inspired Feast]]"
+    desc: " (emotion,mental) If a biloko feasts on a human corpse for 1 minute or more, they gain a +1 status bonus to attack rolls and a +2 status bonus to damage rolls for 1 hour.\n\n[[Bestiary Effects/Effect_ Inspired Feast|Effect: Inspired Feast]]"
 
   - name: "Size Alteration"
     desc: "`pf2:2` (primal) The eloko is affected by a 4th-rank [[Spells/Enlarge|Enlarge]] spell. This lasts for 1 minute, and the eloko can Dismiss the Spell."
@@ -79,6 +80,12 @@ attacks:
   - name: "[[Bestiary Ability Glossary/Sneak Attack|Sneak Attack]]"
     desc: "  The eloko deals 2d6 extra precision damage to [[Conditions/Off-Guard|Off-Guard]] creatures."
  
+```
+
+```encounter-table
+name: Eloko (PFS 3-03)
+creatures:
+  - 1: Eloko (PFS 3-03)
 ```
 
 

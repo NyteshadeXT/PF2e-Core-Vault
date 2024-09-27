@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.abomination-vaults-bestiary.Actor.DnAeqlJRZc5N7hve"
 tags:
   - pf2e/creature/type/aberration
   - pf2e/creature/type/construct
+  - pf2eMonster
   - pf2e/creature/level/4
 statblock: inline
 name: "Dreshkan"
@@ -21,11 +22,11 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #164: Hands of the Devil"
 name: "Dreshkan"
 level: "Creature 4"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Medium"
-trait_01: "aberration"
-trait_02: "construct"
+trait_01: [[aberration]]
+trait_02: [[construct]]
 modifier: 11
 perception:
   - name: "Perception"
@@ -33,7 +34,7 @@ perception:
 languages: "Sakvroth"
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +11, Athletics: +12 (+14 to Climb), Intimidation: +10, Stealth: +13"
+    desc: "Acrobatics: +11, Athletics: +12, Intimidation: +10, Stealth: +13"
 abilityMods: [4, 5, 2, -2, 3, 2]
 speed: 30 feet,  climb 30 feet
 sourcebook: "_Pathfinder #164: Hands of the Devil_"
@@ -52,7 +53,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Defensive Needle"
-    desc: "`pf2:r`  **Trigger** A creature critically fails a melee Strike against the dreshkan\n**Effect** The dreshkan makes a needle Strike against that creature."
+    desc: "`pf2:r`  **Trigger** A creature critically fails a melee Strike against the dreshkan\n* * *\n\n**Effect** The dreshkan makes a needle Strike against that creature."
 
   - name: "Partially Technological"
     desc: "  A dreshkan is partially technological. Vitality healing effects only heal a dreshkan half as much as normal."
@@ -67,11 +68,17 @@ attacks:
     desc: "`pf2:1` Needle +13 (range increment 30 feet)\n__Damage__  1d4 piercing 2d8 electricity"
 
   - name: "Needle Spray"
-    desc: "`pf2:3`  The dreshkan braces itself on all four limbs and sprays needles at as many creatures as it would like in a 30-foot cone, dealing 2d4 piercing damage plus 2d8 electricity damage. Each targeted creature in the area must attempt a DC 21 Reflex check."
+    desc: "`pf2:3`  The dreshkan braces itself on all four limbs and sprays needles at as many creatures as it would like in a @Template[cone|distance:30], dealing 2d4 piercing damage plus 2d8 electricity damage. Each targeted creature in the area must attempt a DC 21 Reflex check."
 
   - name: "Swarming Stance"
     desc: "  A dreshkan can share the same space as a morlock or another dreshkan, but no more than two such creatures can occupy the same space. When these creatures share the same space, they gain a +1 circumstance bonus to attack rolls."
  
+```
+
+```encounter-table
+name: Dreshkan
+creatures:
+  - 1: Dreshkan
 ```
 
 

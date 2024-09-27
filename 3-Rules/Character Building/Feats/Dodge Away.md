@@ -6,8 +6,9 @@ tags:
   - trait/archetype
   - trait/common
   - category/class
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.0qGLCpggCcOVkbtT"
-license: OGL
+license: ORC
 ---
 # Dodge Away `pf2:r`
 ## Feat 6
@@ -31,5 +32,5 @@ You gain a +1 circumstance bonus to AC against the triggering attack. If the att
 
 If you're a master in Acrobatics, you can move 10 feet on this Step instead of 5 feet.
 
-*Source: Pathfinder Advanced Player's Guide*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

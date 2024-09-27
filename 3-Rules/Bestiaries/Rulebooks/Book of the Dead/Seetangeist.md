@@ -11,6 +11,7 @@ tags:
   - pf2e/creature/type/swarm
   - pf2e/creature/type/undead
   - pf2e/creature/type/unholy
+  - pf2eMonster
   - pf2e/creature/level/12
 statblock: inline
 name: "Seetangeist"
@@ -25,19 +26,20 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Book of the Dead"
 name: "Seetangeist"
 level: "Creature 12"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "huge"
-trait_01: "aquatic"
-trait_02: "evil"
-trait_03: "mindless"
-trait_04: "swarm"
-trait_05: "undead"
-trait_06: "unholy"
+trait_01: [[aquatic]]
+trait_02: [[evil]]
+trait_03: [[mindless]]
+trait_04: [[swarm]]
+trait_05: [[undead]]
+trait_06: [[unholy]]
 modifier: 19
 perception:
   - name: "Perception"
     desc: "+19; Darkvision, Wavesense (Imprecise) 100 Feet"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Athletics: +22"
@@ -59,7 +61,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Necrotic Runoff"
-    desc: " (aura,poison) 60 feet. A seetangeist secretes foul fluids into the surrounding water, poisoning it. A creature that enters or starts its turn in the aura must succeed at a DC 29 Fortitude check save or become [[Conditions/Sickened 1|Sickened 2]] ([[Conditions/Sickened 1|Sickened 3]] on a critical failure). Creatures that breathe water take a -2 circumstance penalty to this saving throw. As long as a creature remains in the aura, it can't reduce its sickened condition below 1. A creature that succeeds at its save is temporarily immune for 1 minute."
+    desc: " (aura,poison) 60 feet. A seetangeist secretes foul fluids into the surrounding water, poisoning it. A creature that enters or starts its turn in the aura must succeed at a DC 29 Fortitude check save or become [[Conditions/Sickened|Sickened 2]] ([[Conditions/Sickened|Sickened 3]] on a critical failure). Creatures that breathe water take a -2 circumstance penalty to this saving throw. As long as a creature remains in the aura, it can't reduce its sickened condition below 1. A creature that succeeds at its save is temporarily immune for 1 minute."
 
 attacks:
   - name: ""
@@ -67,6 +69,12 @@ attacks:
   - name: "Putrid Assault"
     desc: "`pf2:1`  Each enemy in the seetangeist's space takes 3d6 slashing and 3d6 poison damage (DC 32 Reflex check). A creature that fails this save also takes 1d12 persistent poison."
  
+```
+
+```encounter-table
+name: Seetangeist
+creatures:
+  - 1: Seetangeist
 ```
 
 

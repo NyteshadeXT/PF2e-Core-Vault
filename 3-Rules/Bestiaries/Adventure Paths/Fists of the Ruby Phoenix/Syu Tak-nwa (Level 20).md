@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/human
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/20
 statblock: inline
 name: "Syu Tak-nwa (Level 20)"
@@ -22,12 +23,12 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #168: King of the Mountain"
 name: "Syu Tak-nwa (Level 20)"
 level: "Creature 20"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Medium"
-trait_01: "evil"
-trait_02: "human"
-trait_03: "humanoid"
+trait_01: [[evil]]
+trait_02: [[human]]
+trait_03: [[humanoid]]
 modifier: 33
 perception:
   - name: "Perception"
@@ -72,7 +73,7 @@ attacks:
     desc: "3 Focus Points, DC 42, attack +34; __10th __  _[[Spells/Cackle|Cackle]]_, _[[Spells/Curse of Death|Curse of Death]]_, _[[Spells/Malicious Shadow|Malicious Shadow]]_, _[[Spells/Needle of Vengeance|Needle of Vengeance]]_\n__Cantrips__  __(10th)__ _[[Spells/Evil Eye|Evil Eye]]_"
 
   - name: "Dragline Trip"
-    desc: "`pf2:r`  **Trigger** A creature within 20 feet uses a move action or leaves a square during a move action it's using\n**Effect** Syu Tak-nwa surreptitiously sends a strand of hair through a portal to emerge near the creature's feet, wings, or other ambulatory limbs. She attempts to [[Actions/Trip|Trip]] the creature."
+    desc: "`pf2:r`  **Trigger** A creature within 20 feet uses a move action or leaves a square during a move action it's using\n* * *\n\n**Effect** Syu Tak-nwa surreptitiously sends a strand of hair through a portal to emerge near the creature's feet, wings, or other ambulatory limbs. She attempts to [[Actions/Trip|Trip]] the creature."
 
   - name: "Empowered Hair"
     desc: "  Tak-nwa's mastery over her prehensile hair while in the Glass Lighthouse is so powerful that she can walk on thick strands like giant spider legs. This makes her immune to tripping, and she ignores the effects of difficult terrain (but not greater difficult terrain). She can use her living hair to perform precise tasks such as picking up objects and performing simple Interact actions. She can also deliver hexes through her hair. Whenever Tak-nwa successfully casts a hex focus spell that requires 2 or more actions to cast and that doesn't require a spell attack roll, if her target is within reach, as part of the spellcasting activity she can make a hair Strike against the foe before applying any effects of the hex. If this Strike misses, the hex has no effect."
@@ -81,8 +82,14 @@ attacks:
     desc: "`pf2:3` (certain-kill) Syu Tak-nwa tears thousands of minute portals into space, sending a single hair through each. The hairs emerge at a space within 30 feet, braiding and twining together to create a cube 20 feet to each side. This has the effects of a 10th-rank force cage, except that Syu Tak-nwa does not need to sustain the basket; it has a duration of 1 minute. While the Silkworm's Basket persists, Syu Tak-nwa is quickened and can use the extra action only to make a hair or braid Strike against any target within the basket, regardless of her distance to them. She can't create more than one basket at a time."
 
   - name: "Spiraling Web"
-    desc: "`pf2:r`  **Trigger** Syu Tak-nwa is the target of a ranged Strike or ranged spell attack roll\n**Requirements** Syu Tak-nwa is aware of the attack and not [[Conditions/Off-Guard|Off-Guard]] against it\n**Effect** Hairs erupt from portals around the missile and attempt to wrap around it. Syu Tak-nwa gains a +4 circumstance bonus to AC against the triggering attack. If this would cause the attack to miss, the missile remains tangled and suspended in midair."
+    desc: "`pf2:r`  **Trigger** Syu Tak-nwa is the target of a ranged Strike or ranged spell attack roll\n\n**Requirements** Syu Tak-nwa is aware of the attack and not [[Conditions/Off-Guard|Off-Guard]] against it\n* * *\n\n**Effect** Hairs erupt from portals around the missile and attempt to wrap around it. Syu Tak-nwa gains a +4 circumstance bonus to AC against the triggering attack. If this would cause the attack to miss, the missile remains tangled and suspended in midair."
  
+```
+
+```encounter-table
+name: Syu Tak-nwa (Level 20)
+creatures:
+  - 1: Syu Tak-nwa (Level 20)
 ```
 
 

@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.strength-of-thousands-bestiary.Actor.LZTr8YH6JGRGc8Fz"
 tags:
   - pf2e/creature/type/construct
   - pf2e/creature/type/mindless
+  - pf2eMonster
   - pf2e/creature/level/3
 statblock: inline
 name: "Bramblehand Champion Construct"
@@ -21,18 +22,19 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #169: Kindled Magic"
 name: "Bramblehand Champion Construct"
 level: "Creature 3"
-rare_03: "Rare"
+rare_03: [[Rare]]
 alignment: ""
 size: "Large"
-trait_01: "construct"
-trait_02: "mindless"
+trait_01: [[construct]]
+trait_02: [[mindless]]
 modifier: 10
 perception:
   - name: "Perception"
     desc: "+10; Low-Light Vision"
+languages: ""
 skills:
   - name: "Skills"
-    desc: "Athletics: +9 (+10 to shove)"
+    desc: "Athletics: +9"
 abilityMods: [4, 3, 1, -5, 1, -5]
 speed: 20 feet
 sourcebook: "_Pathfinder #169: Kindled Magic_"
@@ -52,7 +54,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Critical Vulnerability"
-    desc: "  A critical hit damages the construct's controls, making it [[Conditions/Clumsy 1|Clumsy 1]] until repaired. Additional critical hits increase this value, up to [[Conditions/Clumsy 1|Clumsy 4]]."
+    desc: "  A critical hit damages the construct's controls, making it [[Conditions/Clumsy|Clumsy 1]] until repaired. Additional critical hits increase this value, up to [[Conditions/Clumsy|Clumsy 4]]."
 
   - name: "Ridden Construct"
     desc: "  The construct is piloted by a [[Bestiary 1/Leaf Leshy|Leaf Leshy]] who can be targeted separately but has greater cover. The leshy can't take actions of their own while inside the construct, other than to leave it, which takes 1 minute."
@@ -64,8 +66,14 @@ attacks:
     desc: "`pf2:1` Wooden Maul +12 (nonlethal, reach 10 feet, shove)\n__Damage__  1d12 + 4 bludgeoning"
 
   - name: "Hammer Block"
-    desc: "`pf2:r`  **Trigger** An ally within the bramble champion's reach is targeted by an attack, and the bramble champion can see the attacker\n**Effect** The bramble champion interposes with its hammer, giving the ally a +2 circumstance bonus to AC against the triggering attack."
+    desc: "`pf2:r`  **Trigger** An ally within the bramble champion's reach is targeted by an attack, and the bramble champion can see the attacker\n* * *\n\n**Effect** The bramble champion interposes with its hammer, giving the ally a +2 circumstance bonus to AC against the triggering attack."
  
+```
+
+```encounter-table
+name: Bramblehand Champion Construct
+creatures:
+  - 1: Bramblehand Champion Construct
 ```
 
 

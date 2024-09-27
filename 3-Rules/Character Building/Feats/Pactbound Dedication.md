@@ -4,6 +4,7 @@ title: "Pactbound Dedication"
 cssclasses: pf2e,pf2e-spell
 tags:
   - trait/archetype
+  - trait/dedication
   - trait/rare
   - category/class
 aliases: "Compendium.pf2e.feats-srd.Item.BVxcuJ5TWfN1px4L"
@@ -11,7 +12,7 @@ license: OGL
 ---
 # Pactbound Dedication
 ## Feat 2
-### [rare](rare "Rare Rarity Trait")[[archetype]]
+### [rare](rare "Rare Rarity Trait")[[archetype]][[dedication]]
 
 **Category** class; 
 

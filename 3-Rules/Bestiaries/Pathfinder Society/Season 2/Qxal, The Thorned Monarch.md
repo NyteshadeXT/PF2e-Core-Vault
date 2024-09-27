@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/chaotic
   - pf2e/creature/type/evil
   - pf2e/creature/type/fey
+  - pf2eMonster
   - pf2e/creature/level/9
 statblock: inline
 name: "Qxal, The Thorned Monarch"
@@ -22,17 +23,17 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Society Scenario #2-00: The King in Thorns"
 name: "Qxal, The Thorned Monarch"
 level: "Creature 9"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Medium"
-trait_01: "chaotic"
-trait_02: "evil"
-trait_03: "fey"
+trait_01: [[chaotic]]
+trait_02: [[evil]]
+trait_03: [[fey]]
 modifier: 21
 perception:
   - name: "Perception"
     desc: "+21; Low-Light Vision"
-languages: "Common, Fey"
+languages: "Common, Fey; speak with plants; tongues"
 skills:
   - name: "Skills"
     desc: "Acrobatics: +18, Deception: +23, Nature: +19, Stealth: +20, Thievery: +18"
@@ -54,10 +55,10 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Blood Siphon"
-    desc: "`pf2:r`  **Trigger** A creature within 60 feet takes [[Conditions/Persistent Damage|Persistent Bleed Damage]].\n**Effect** The shed blood disperses into a fine mist that Qxal siphons up with their proboscis. Qxal regains 14 HP."
+    desc: "`pf2:r`  **Trigger** A creature within 60 feet takes [[Conditions/Persistent Damage|Persistent Bleed Damage]].\n* * *\n\n**Effect** The shed blood disperses into a fine mist that Qxal siphons up with their proboscis. Qxal regains 14 HP."
 
   - name: "Hallucinatory Scale Dust"
-    desc: " (aura,illusion,mental) 30 feet. Fey glamours shed from Qxal's wings like scale dust, causing hallucinations. A creature entering the aura or starting its turn in the area must attempt a DC 25 Will check save.\n**Critical Success** The creature is unaffected and is temporarily immune to the scale dust for 24 hours.\n**Success** The creature is unaffected.\n**Failure** The creature hallucinates that it is beginning to transform into a plant or animal native to their homeland, becoming either [[Conditions/Clumsy 1|Clumsy 1]], [[Conditions/Enfeebled 1|Enfeebled 1]], or [[Conditions/Stupefied 1|Stupefied 1]], at Qxal's choice. The condition lasts for 1 hour. Each time a creature fails this save, Qxal can choose an additional condition.\n**Critical Failure** As failure, but the condition value is 2 ([[Conditions/Clumsy 1|Clumsy 2]], [[Conditions/Enfeebled 1|Enfeebled 2]], or [[Conditions/Stupefied 1|Stupefied 2]])."
+    desc: " (aura,illusion,mental) 30 feet. Fey glamours shed from Qxal's wings like scale dust, causing hallucinations. A creature entering the aura or starting its turn in the area must attempt a DC 25 Will check save.\n* * *\n\n**Critical Success** The creature is unaffected and is temporarily immune to the scale dust for 24 hours.\n\n**Success** The creature is unaffected.\n\n**Failure** The creature hallucinates that it is beginning to transform into a plant or animal native to their homeland, becoming either [[Conditions/Clumsy|Clumsy 1]], [[Conditions/Enfeebled|Enfeebled 1]], or [[Conditions/Stupefied|Stupefied 1]], at Qxal's choice. The condition lasts for 1 hour. Each time a creature fails this save, Qxal can choose an additional condition.\n\n**Critical Failure** As failure, but the condition value is 2 ([[Conditions/Clumsy|Clumsy 2]], [[Conditions/Enfeebled|Enfeebled 2]], or [[Conditions/Stupefied|Stupefied 2]])."
 
 attacks:
   - name: ""
@@ -78,7 +79,7 @@ attacks:
     desc: "DC 28, attack +20; __5th __  _[[Spells/Mirage|Hallucinatory Terrain (At Will)]]_, _[[Spells/Illusory Scene|Illusory Scene]]_; __3rd __  _[[Spells/Illusory Disguise|Illusory Disguise (At Will)]]_; __2nd __  _[[Spells/Invisibility|Invisibility (At Will)]]_; __1st __  _[[Spells/Command|Command (At Will)]]_\n__Constant__  __(5th)__ _[[Spells/Truespeech|Tongues]]_ __(4th)__ _[[Spells/Speak with Plants|Speak with Plants]]_"
 
   - name: "Cooperative Growth"
-    desc: "`pf2:1`  **Requirements** Qxal's last action was a successful Strike against a creature adjacent to a natural surface.\n**Effect** Vines sprout from the surface, wrapping around the target's limbs. The creature gains the [[Conditions/Grabbed|Grabbed]] condition. To escape, the creature must succeed on a DC 28 Escape check or break the vines (AC 20, Hardness 4, HP 36, BT 18, weakness 10 to slashing)."
+    desc: "`pf2:1`  **Requirements** Qxal's last action was a successful Strike against a creature adjacent to a natural surface.\n* * *\n\n**Effect** Vines sprout from the surface, wrapping around the target's limbs. The creature gains the [[Conditions/Grabbed|Grabbed]] condition. To escape, the creature must succeed on a DC 28 Escape check or break the vines (AC 20, Hardness 4, HP 36, BT 18, weakness 10 to slashing)."
 
   - name: "Flutter"
     desc: "`pf2:1`  Qxal Flies. Any creature they pass within 30 feet of during their Flutter is exposed to their hallucinatory scale dust."
@@ -92,6 +93,12 @@ attacks:
   - name: "Woodland Stride"
     desc: "  Qxal can pass freely through even the densest jungle. They ignore difficult terrain caused by plants, including plants manipulated by magic."
  
+```
+
+```encounter-table
+name: Qxal, The Thorned Monarch
+creatures:
+  - 1: Qxal, The Thorned Monarch
 ```
 
 

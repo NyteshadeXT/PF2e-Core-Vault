@@ -15,7 +15,7 @@ license: OGL
 ---
 # Lionfish Spear
 ## Item 11
-### [[magical]][[thrown-20]][[3-Rules/Rule References/Water]]
+### [[magical]][[thrown-20]][[water]]
 
 |  |  |
 | -- | -- |
@@ -42,9 +42,9 @@ Colorful stripes and trailing ribbons give this _+2 striking underwater wounding
 
 **Maximum Duration** 6 rounds
 
-**Stage 1** 3d6 poison damage and [[Conditions/Sickened 1|Sickened 1]] (1 round)
+**Stage 1** 3d6 poison damage and [[Conditions/Sickened|Sickened 1]] (1 round)
 
-**Stage 2** 5d6 poison damage and [[Conditions/Sickened 1|Sickened 2]] (1 round)
+**Stage 2** 5d6 poison damage and [[Conditions/Sickened|Sickened 2]] (1 round)
 
 **Stage 3** [[Conditions/Paralyzed|Paralyzed]] for 2d4 hours
 

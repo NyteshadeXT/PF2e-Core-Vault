@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.npc-gallery.Actor.3lZhmvNLQkiYGAof"
 tags:
   - pf2e/creature/type/human
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/6
 statblock: inline
 name: "Sage"
@@ -24,8 +25,8 @@ level: "Creature 6"
 
 alignment: ""
 size: "Medium"
-trait_01: "human"
-trait_02: "humanoid"
+trait_01: [[human]]
+trait_02: [[humanoid]]
 modifier: 14
 perception:
   - name: "Perception"
@@ -53,7 +54,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Timely Advice"
-    desc: "`pf2:r` (auditory,concentrate,linguistic,mental) **Trigger** An ally is about to attempt an attack roll or skill check and has not yet rolled\n**Effect** The sage gives the ally a savvy piece of advice, providing valuable insight. The ally gains a +2 circumstance bonus to the triggering roll.\n[[Bestiary Effects/Effect_ Timely Advice|Effect: Timely Advice]]"
+    desc: "`pf2:r` (auditory,concentrate,linguistic,mental) **Trigger** An ally is about to attempt an attack roll or skill check and has not yet rolled\n* * *\n\n**Effect** The sage gives the ally a savvy piece of advice, providing valuable insight. The ally gains a +2 circumstance bonus to the triggering roll.\n\n[[Bestiary Effects/Effect_ Timely Advice|Effect: Timely Advice]]"
 
 attacks:
   - name: ""
@@ -62,8 +63,14 @@ attacks:
     desc: "`pf2:1` Staff +12 (magical, two-hand d8)\n__Damage__  1d4 + 5 bludgeoning"
 
   - name: "Sage's Analysis"
-    desc: "`pf2:1` (concentrate) The sage studies a creature, attempting an Arcana, Nature, Occultism, Religion, or Society check against the creature's [[Actions/Recall Knowledge|Recall Knowledge]] DC. On a success, the sage gains a +2 circumstance bonus to attack rolls and AC against that creature and deals an additional 2d6 damage to the creature with weapon attacks.\nThese benefits last for 1 minute or until the sage uses this ability again."
+    desc: "`pf2:1` (concentrate) The sage studies a creature, attempting an Arcana, Nature, Occultism, Religion, or Society check against the creature's [[Actions/Recall Knowledge|Recall Knowledge]] DC. On a success, the sage gains a +2 circumstance bonus to attack rolls and AC against that creature and deals an additional 2d6 damage to the creature with weapon attacks.\n\nThese benefits last for 1 minute or until the sage uses this ability again."
  
+```
+
+```encounter-table
+name: Sage
+creatures:
+  - 1: Sage
 ```
 
 

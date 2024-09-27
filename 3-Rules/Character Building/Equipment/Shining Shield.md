@@ -29,7 +29,7 @@ While raised, a _shining shield_ moves itself to provide cover for your allies. 
 
 * * *
 
-**Effect** You shout an oath to protect the innocent and weak, and the shield gives off bright light. All enemies in a 30-foot emanation around you must attempt a DC 27 Will check save, with the following effects.
+**Effect** You shout an oath to protect the innocent and weak, and the shield gives off bright light. All enemies in a @Template\[emanation|distance:30\] around you must attempt a DC 27 Will check save, with the following effects.
 
 * * *
 

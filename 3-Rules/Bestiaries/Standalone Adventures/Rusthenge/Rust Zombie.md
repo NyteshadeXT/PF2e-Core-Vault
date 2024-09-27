@@ -10,6 +10,7 @@ tags:
   - pf2e/creature/type/undead
   - pf2e/creature/type/unholy
   - pf2e/creature/type/zombie
+  - pf2eMonster
   - pf2e/creature/level/1
 statblock: inline
 name: "Rust Zombie"
@@ -27,15 +28,16 @@ level: "Creature 1"
 
 alignment: ""
 size: "Medium"
-trait_01: "evil"
-trait_02: "mindless"
-trait_03: "undead"
-trait_04: "unholy"
-trait_05: "zombie"
+trait_01: [[evil]]
+trait_02: [[mindless]]
+trait_03: [[undead]]
+trait_04: [[unholy]]
+trait_05: [[zombie]]
 modifier: 3
 perception:
   - name: "Perception"
     desc: "+3; Darkvision"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Athletics: +7"
@@ -55,7 +57,7 @@ abilities_top:
   - name: ""
 
   - name: "Slow"
-    desc: "  A zombie is permanently [[Conditions/Slowed 1|Slowed 1]] and can't use reactions."
+    desc: "  A zombie is permanently [[Conditions/Slowed|Slowed 1]] and can't use reactions."
 
 abilities_mid:
   - name: ""
@@ -69,11 +71,17 @@ attacks:
     desc: "`pf2:1` Jaws +9 ()\n__Damage__  1d12 + 4 piercing plus rust-creep"
 
   - name: "Rust Creep"
-    desc: " (disease,divine) Those afflicted by rust creep develop uncomfortable rust-colored bruises on their flesh and endure full-body aches like those one might experience after a long workout. As the affliction progresses, their bodies—as well as the clothing and items they wear or carry—increasingly break down until a painful death occurs. If a character successfully resists contracting rust creep, or recovers from a case of rust creep, they are temporarily immune to future rust creep infections for 24 hours.\n**Saving Throw** DC 15 Fortitude check\n**Stage 1** –1 status penalty to Athletics checks (1 day)\n**Stage 2** as stage 1 (1 day)\n**Stage 3** [[Conditions/Enfeebled 1|Enfeebled 1]] (1 day)\n**Stage 4** enfeebled 1 and [[Conditions/Stupefied 1|Stupefied 1]], plus any armor, clothing and items you carry and that are of a level equal to or less than the disease become broken as the decay spreads to them (1 day; broken items remain broken)\n**Stage 5** [[Conditions/Unconscious|Unconscious]] (1 day)\n**Stage 6** unconscious (1 day)\n**Stage 7** death"
+    desc: " (disease,divine) Those afflicted by rust creep develop uncomfortable rust-colored bruises on their flesh and endure full-body aches like those one might experience after a long workout. As the affliction progresses, their bodies—as well as the clothing and items they wear or carry—increasingly break down until a painful death occurs. If a character successfully resists contracting rust creep, or recovers from a case of rust creep, they are temporarily immune to future rust creep infections for 24 hours.\n\n**Saving Throw** DC 15 Fortitude check\n\n**Stage 1** –1 status penalty to Athletics checks (1 day)\n\n**Stage 2** as stage 1 (1 day)\n\n**Stage 3** [[Conditions/Enfeebled|Enfeebled 1]] (1 day)\n\n**Stage 4** enfeebled 1 and [[Conditions/Stupefied|Stupefied 1]], plus any armor, clothing and items you carry and that are of a level equal to or less than the disease become broken as the decay spreads to them (1 day; broken items remain broken)\n\n**Stage 5** [[Conditions/Unconscious|Unconscious]] (1 day)\n\n**Stage 6** unconscious (1 day)\n\n**Stage 7** death"
 
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
     desc: "`pf2:1`  "
  
+```
+
+```encounter-table
+name: Rust Zombie
+creatures:
+  - 1: Rust Zombie
 ```
 
 

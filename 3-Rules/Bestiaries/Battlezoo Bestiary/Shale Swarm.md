@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/animal
   - pf2e/creature/type/earth
   - pf2e/creature/type/swarm
+  - pf2eMonster
   - pf2e/creature/level/3
 statblock: inline
 name: "Shale Swarm"
@@ -26,16 +27,17 @@ level: "Creature 3"
 
 alignment: ""
 size: "Large"
-trait_01: "animal"
-trait_02: "earth"
-trait_03: "swarm"
+trait_01: [[animal]]
+trait_02: [[earth]]
+trait_03: [[swarm]]
 modifier: 8
 perception:
   - name: "Perception"
     desc: "+8; Darkvision, Tremorsense (Imprecise) 60 Feet"
+languages: ""
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +9, Athletics: +8, Stealth: +9 (+13 in Caves), "
+    desc: "Acrobatics: +9, Athletics: +8, Stealth: +9"
 abilityMods: [3, 4, 4, -4, 1, -4]
 speed: 20 feet,  burrow 20 feet,  climb 20 feet
 sourcebook: "_Battlezoo Bestiary_"
@@ -60,14 +62,20 @@ attacks:
     desc: "  A shale swarm leaves behind a trail of furrowed earth and scree as it burrows through the earth. After a shale swarm burrows, any spaces above the swarm's path (including open spaces such as a cavern floor) become difficult terrain."
 
   - name: "Cloud Cover"
-    desc: "`pf2:2`  Each individual in the shale swarm rapidly gnaws on nearby rock material and kicks apart clods of loose dirt, causing a dust cloud to form in the shale swarm's space. Any creatures in the affected area, including the shale swarm, are Concealed, and any creatures outside the cloud are concealed to creatures within the cloud. The dust cloud lasts for 1 minute or until it is dispersed by a strong wind."
+    desc: "`pf2:2`  Each individual in the shale swarm rapidly gnaws on nearby rock material and kicks apart clods of loose dirt, causing a dust cloud to form in the shale swarm's space. Any creatures in the affected area, including the shale swarm, are [[Conditions/Concealed|Concealed]], and any creatures outside the cloud are concealed to creatures within the cloud. The dust cloud lasts for 1 minute or until it is dispersed by a strong wind."
 
   - name: "Swarming Bites"
-    desc: "`pf2:1`  Each enemy in the swarm's space takes 1d8 piercing damage (basic Reflex save)."
+    desc: "`pf2:1`  Each enemy in the swarm's space takes 1d8 piercing damage (DC 19 basic Reflex save)."
 
   - name: "[[Item.La57XISD2unXrQoG|Rock Stride]]"
     desc: "  A shale swarm ignores difficult terrain caused in caves and rocky mountains."
  
+```
+
+```encounter-table
+name: Shale Swarm
+creatures:
+  - 1: Shale Swarm
 ```
 
 

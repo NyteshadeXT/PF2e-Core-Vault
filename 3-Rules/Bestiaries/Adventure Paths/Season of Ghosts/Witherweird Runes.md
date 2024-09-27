@@ -5,6 +5,7 @@ noteType: pf2eHazard
 tags:
   - magical
   - trap
+  - pf2eHazard
 
 source: Pathfinder #199: To Bloom Below the Web
 aliases: "Compendium.pf2e.season-of-ghosts-bestiary.Actor.DueMGlf6tX1bqwSS" 
@@ -22,8 +23,8 @@ name: "Witherweird Runes"
 level: "Hazard 13"
 
 
-trait_01: "magical"
-trait_02: "trap"
+trait_01: [[magical]]
+trait_02: [[trap]]
 modifier: 27
 sourcebook: "_Pathfinder #199: To Bloom Below the Web_"
 perception:
@@ -42,9 +43,15 @@ attacks:
   - name: ""
 
   - name: "Withering Wail"
-    desc: "`pf2:r` (arcane, curse) **Trigger** Someone other than Heh Shan-Bao opens the secondary compartment\n**Effect** A howling, spectral face manifests out of the chest and screeches, causing all within area **C4** to attempt a DC 33 Fortitude check save; the sound also alerts the jiang-shi in areas **C3** a and **C6**, who quickly come to investigate the sound.\n**Critical Success** The creature is unaffected.\n**Success** The creature takes 7d6 void damage.\n**Failure** The creature takes 15d6 void damage. In addition, their flesh withers and weakens, leaving them to appear old and decrepit—the creature becomes [[Conditions/Clumsy 1|Clumsy 1]] and [[Conditions/Enfeebled 1|Enfeebled 1]] until the curse is removed.\n**Critical Failure** The creature takes 30d6 void damage and becomes cursed as failure, but becomes [[Conditions/Clumsy 1|Clumsy 2]] and [[Conditions/Enfeebled 1|Enfeebled 2]]."
+    desc: "`pf2:r` (arcane, curse) **Trigger** Someone other than Heh Shan-Bao opens the secondary compartment\n* * *\n\n**Effect** A howling, spectral face manifests out of the chest and screeches, causing all within area **C4** to attempt a DC 33 Fortitude check save; the sound also alerts the jiang-shi in areas **C3** a and **C6**, who quickly come to investigate the sound.\n* * *\n\n**Critical Success** The creature is unaffected.\n\n**Success** The creature takes 7d6 void damage.\n\n**Failure** The creature takes 15d6 void damage. In addition, their flesh withers and weakens, leaving them to appear old and decrepit—the creature becomes [[Conditions/Clumsy|Clumsy 1]] and [[Conditions/Enfeebled|Enfeebled 1]] until the curse is removed.\n\n**Critical Failure** The creature takes 30d6 void damage and becomes cursed as failure, but becomes [[Conditions/Clumsy|Clumsy 2]] and [[Conditions/Enfeebled|Enfeebled 2]]."
 
 
 
+```
+
+```encounter-table
+name: Witherweird Runes
+creatures:
+  - 1: Witherweird Runes
 ```
 

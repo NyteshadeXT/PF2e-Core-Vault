@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/human
   - pf2e/creature/type/humanoid
   - pf2e/creature/type/nephilim
+  - pf2eMonster
   - pf2e/creature/level/5
 statblock: inline
 name: "Aasimar Redeemer"
@@ -27,10 +28,10 @@ level: "Creature 5"
 
 alignment: ""
 size: "Medium"
-trait_01: "good"
-trait_02: "human"
-trait_03: "humanoid"
-trait_04: "nephilim"
+trait_01: [[good]]
+trait_02: [[human]]
+trait_03: [[humanoid]]
+trait_04: [[nephilim]]
 modifier: 11
 perception:
   - name: "Perception"
@@ -61,10 +62,10 @@ abilities_mid:
     desc: "  Against diseases, critical failures become failures."
 
   - name: "Divine Grace"
-    desc: "`pf2:r`  **Trigger** The angelkin is targeted by a spell that allows a saving throw.\n**Effect** The scion gains a +2 circumstance bonus to the saving throw."
+    desc: "`pf2:r`  **Trigger** The angelkin is targeted by a spell that allows a saving throw.\n* * *\n\n**Effect** The scion gains a +2 circumstance bonus to the saving throw."
 
   - name: "Glimpse of Redemption"
-    desc: "`pf2:r`  **Trigger** An enemy damages one of the angelkin's allies. Both the enemy and ally must be within 15 feet of the angelkin.\n**Effect** The angelkin causes its foe to hesitate under the weight of its sins as visions of possible redemption play out in its mind's eye. The foe chooses one of two options:\n*   The ally is completely unharmed by the triggering damage.\n*   The ally gains resistance 7 to all damage against the triggering damage. After the damaging effect resolves, the enemy becomes [[Conditions/Enfeebled 1|Enfeebled 2]] until the end of its next turn."
+    desc: "`pf2:r`  **Trigger** An enemy damages one of the angelkin's allies. Both the enemy and ally must be within 15 feet of the angelkin.\n* * *\n\n**Effect** The angelkin causes its foe to hesitate under the weight of its sins as visions of possible redemption play out in its mind's eye. The foe chooses one of two options:\n\n*   The ally is completely unharmed by the triggering damage.\n*   The ally gains resistance 7 to all damage against the triggering damage. After the damaging effect resolves, the enemy becomes [[Conditions/Enfeebled|Enfeebled 2]] until the end of its next turn."
 
   - name: "[[Bestiary Ability Glossary/Shield Block|Shield Block]]"
     desc: "`pf2:r`  "
@@ -84,6 +85,12 @@ attacks:
   - name: "Champion Devotion Spells"
     desc: "1 Focus Point, DC 20, attack +12; __3rd __  _[[Spells/Lay on Hands|Lay on Hands]]_"
  
+```
+
+```encounter-table
+name: Aasimar Redeemer
+creatures:
+  - 1: Aasimar Redeemer
 ```
 
 

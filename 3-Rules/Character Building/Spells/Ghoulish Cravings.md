@@ -4,48 +4,43 @@ title: "Ghoulish Cravings"
 noteType: pf2eSpell
 cssclasses: pf2e,pf2e-spell
 tags:
+  - pf2eSpell
   - spell/level/2
   - trait/concentrate
-  - trait/disease
+  - trait/curse
   - trait/manipulate
+  - trait/mental
   - trait/common
+  - tradition/divine
+  - tradition/occult
+
+  - remaster
 aliases: "Compendium.pf2e.spells-srd.Item.JhRuR7Jj3ViShpq7" 
+license: ORC
 ---
-# Ghoulish Cravings  `pf2:2`  
-## Spell 2
-### [[concentrate]][[disease]][[manipulate]]
-**Traditions** [[divine]], [[occult]]
-**Range** touch
-**Targets** 1 creature
-**Saving Throw**  fortitude
-* * * 
-You touch the target to afflict it with ghoul fever, infesting it with hunger and a steadily decreasing connection to vitality energy; the target must attempt a Fortitude save.
+```statblock
+name: "Ghoulish Cravings  `pf2:2`"
+level: "Spell 2"
 
-* * *
-
-**Critical Success** The target is unaffected.
-
-**Success** The target is afflicted with ghoul fever at stage 1.
-
-**Failure** The target is afflicted with ghoul fever at stage 2.
-
-**Critical Failure** The target is afflicted with ghoul fever at stage 3.
-
-* * *
-
-**Ghoul Fever** (disease); **Level** 3
-
-**Stage** **1** carrier with no ill effects (1 day)
-
-**Stage** **2** 3d8 void damage and the creature regains half as many Hit Points from all healing (1 day)
-
-**Stage** **3** as stage 2 (1 day)
-
-**Stage** **4** 3d8 void damage and the creature gains no benefit from healing (1 day)
-
-**Stage** **5** as stage 4 (1 day)
-
-**Stage 6** the creature dies and rises as a ghoul at the next midnight
-
-*Source: Pathfinder Core Rulebook*
-*OGL*
+trait_01: [[concentrate]]
+trait_02: [[curse]]
+trait_03: [[manipulate]]
+trait_04: [[mental]]
+layout: Basic Pathfinder 2e Layout
+columns: 1
+columnWidth: x
+abilities_top:
+  - name: ""
+  - name: "Traditions"
+    desc: "divine, occult"
+  - name: "Range"
+    desc: "touch; **Targets** 1 creature"
+  - name: "Defense"
+    desc: " will"
+  - name: "Duration"
+    desc: "varies"
+abilities_mid:
+  - name: ""
+    desc: "You touch the target to afflict it with the overwhelming desire to eat raw meat. The target must attempt a Will save.\n* * *\n\n**Critical Success** The target is unaffected.\n\n**Success** The target is [[Conditions/Sickened|Sickened 1]] by its unbidden hunger.\n\n**Failure** The target is [[Conditions/Sickened|Sickened 2]] and can't reduce this condition below sickened 1 until it first consumes some raw meat; if the creature doesn't have access to raw meat, it can take a bite out of a corpse within reach as an Interact action.\n\n**Critical Failure** As failure, but the target can't reduce the condition below sickened 2 until it consumes raw meat."
+sourcebook: "_Pathfinder Player Core 2_"
+```

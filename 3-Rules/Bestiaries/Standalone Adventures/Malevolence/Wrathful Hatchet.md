@@ -4,6 +4,7 @@ obsidianUIMode: preview
 noteType: pf2eHazard
 tags:
   - haunt
+  - pf2eHazard
   - complex
 source: Pathfinder Adventure: Malevolence
 aliases: "Compendium.pf2e.malevolence-bestiary.Actor.w2EmOacJ2zGfygFu" 
@@ -21,7 +22,7 @@ name: "Wrathful Hatchet"
 level: "Hazard 7"
 
 trait_06: "Complex"
-trait_01: "haunt"
+trait_01: [[haunt]]
 modifier: 17
 sourcebook: "_Pathfinder Adventure: Malevolence_"
 ac: 25
@@ -49,13 +50,19 @@ attacks:
   - name: ""
 
   - name: "Furious Shriek"
-    desc: "`pf2:r` (auditory, emotion, fear, mental, occult) **Trigger** A creature approaches within 5 feet of the hatchet or more than 3 creatures enter area C10\n**Effect** The furious shriek of Asethanna's rage resonates throughout the room, and all creatures within 25 feet of the hatchet must attempt a DC 25 Will check save. The haunt then rolls initiative.\n**Critical Success** The creature is unaffected.\n**Success** The creature becomes [[Conditions/Frightened 1|Frightened 1]].\n**Failure** The creature becomes [[Conditions/Frightened 1|Frightened 2]].\n**Critical Failure** The creature feels as if the wrathful haunt is particularly enraged at them. The creature becomes frightened 2; their frightened condition doesn't decrease automatically as long as the haunt remains active, and the hatchet gains a +2 circumstance bonus to all wrathful hatchet Strikes it attempts against the creature."
+    desc: "`pf2:r` (auditory, emotion, fear, mental, occult) **Trigger** A creature approaches within 5 feet of the hatchet or more than 3 creatures enter area C10\n* * *\n\n**Effect** The furious shriek of Asethanna's rage resonates throughout the room, and all creatures within 25 feet of the hatchet must attempt a DC 25 Will check save. The haunt then rolls initiative.\n* * *\n\n**Critical Success** The creature is unaffected.\n\n**Success** The creature becomes [[Conditions/Frightened|Frightened 1]].\n\n**Failure** The creature becomes [[Conditions/Frightened|Frightened 2]].\n\n**Critical Failure** The creature feels as if the wrathful haunt is particularly enraged at them. The creature becomes frightened 2; their frightened condition doesn't decrease automatically as long as the haunt remains active, and the hatchet gains a +2 circumstance bonus to all wrathful hatchet Strikes it attempts against the creature."
   - name: "Melee"
     desc: "Wrathful Hatchet +18 () "
 
   - name: "Routine"
-    desc: "(3 actions; evocation, occult) The haunted hatchet uses an action to move to a square adjacent to a creature within 25 feet, attempts a wrathful hatchet Strike against an adjacent creature, or attempts to Escape from being immobilized or restrained. If there are no creatures within 25 feet, the hatchet moves in a random direction.\nIf it ends its turn and there are no creatures within 25 feet, the hatchet falls to the ground, and the haunt ends."
+    desc: "(3 actions; evocation, occult) The haunted hatchet uses an action to move to a square adjacent to a creature within 25 feet, attempts a wrathful hatchet Strike against an adjacent creature, or attempts to Escape from being immobilized or restrained. If there are no creatures within 25 feet, the hatchet moves in a random direction.\n\nIf it ends its turn and there are no creatures within 25 feet, the hatchet falls to the ground, and the haunt ends."
   - name: "Reset"
     desc: "24 hours; putting Xarwin's ghost to rest destroys this haunt forever."
+```
+
+```encounter-table
+name: Wrathful Hatchet
+creatures:
+  - 1: Wrathful Hatchet
 ```
 

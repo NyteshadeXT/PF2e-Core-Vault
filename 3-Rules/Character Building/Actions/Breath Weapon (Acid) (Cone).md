@@ -13,7 +13,7 @@ license: OGL
 ---
 # Breath Weapon (Acid) (Cone) `pf2:2`
 
-### [[acid]][[arcane]][[eidolon]]
+### [[3-Rules/Rule References/Acid]][[3-Rules/Rule References/Arcane]][[eidolon]]
 
 **Category** offensive; 
 

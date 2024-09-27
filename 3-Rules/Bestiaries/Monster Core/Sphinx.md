@@ -6,6 +6,7 @@ cssClasses: pf2e
 aliases: "Compendium.pf2e.pathfinder-monster-core.Actor.rdgs2gxTWxkyanD6" 
 tags:
   - pf2e/creature/type/beast
+  - pf2eMonster
   - pf2e/creature/level/8
   - remaster
 statblock: inline
@@ -25,7 +26,7 @@ level: "Creature 8"
 
 alignment: ""
 size: "Large"
-trait_01: "beast"
+trait_01: [[beast]]
 modifier: 18
 perception:
   - name: "Perception"
@@ -33,7 +34,7 @@ perception:
 languages: "Common, Draconic, Sphinx; Truespeech"
 skills:
   - name: "Skills"
-    desc: "Arcana: +17, Athletics: +18, Bardic Lore: +19, Deception: +16, Diplomacy: +16, Intimidation: +18, Occultism: +17"
+    desc: "Arcana: +17, Athletics: +18, Deception: +16, Diplomacy: +16, Intimidation: +18, Occultism: +17, Bardic Lore: +19"
 abilityMods: [6, 1, 3, 5, 4, 4]
 speed: 35 feet,  fly 40 feet
 sourcebook: "_Pathfinder Monster Core_"
@@ -69,9 +70,15 @@ attacks:
   - name: "Pounce"
     desc: "`pf2:1`  The sphinx Strides and makes a Strike at the end of that movement. If the sphinx began this action [[Conditions/Hidden|Hidden]], they remain hidden until after the attack."
 
-  - name: "Riddler’s Rune"
+  - name: "Riddler's Rune"
     desc: "  Once per week, a Sphinx can create a magical symbol as the [[Spells/Rune Trap|Rune Trap]] ritual. The sphinx usually shapes it to take the form of a written riddle and sets the password to the answer.\n\nA creature that gives the wrong answer or tries to pass without answering must succeed at a DC 26 Will check save or be affected by one of the following spells, chosen by the sphinx when creating the symbol: [[Spells/Synaptic Pulse|Synaptic Pulse]] (5th), [[Spells/Charm|Charm]] (4th), [[Spells/Fear|Fear]] (4th), [[Spells/Phantom Pain|Phantom Pain]] (4th), [[Spells/Sleep|Sleep]] (4th). The sphinx learns the identity of any creature that answers the riddle and tends to be friendly to them if they answered correctly."
  
+```
+
+```encounter-table
+name: Sphinx
+creatures:
+  - 1: Sphinx
 ```
 
 

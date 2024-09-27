@@ -10,6 +10,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/fiend
   - pf2e/creature/type/unholy
+  - pf2eMonster
   - pf2e/creature/level/2
 statblock: inline
 name: "Half-Formed Abrikandilu"
@@ -24,19 +25,19 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Society Special #3-98: Expedition Into Pallid Peril"
 name: "Half-Formed Abrikandilu"
 level: "Creature 2"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Medium"
-trait_01: "chaotic"
-trait_02: "demon"
-trait_03: "evil"
-trait_04: "fiend"
-trait_05: "unholy"
+trait_01: [[chaotic]]
+trait_02: [[demon]]
+trait_03: [[evil]]
+trait_04: [[fiend]]
+trait_05: [[unholy]]
 modifier: 8
 perception:
   - name: "Perception"
     desc: "+8; Darkvision"
-languages: "Chthonian, Draconic, Empyrean"
+languages: "Chthonian, Draconic, Empyrean; telepathy 100 feet"
 skills:
   - name: "Skills"
     desc: "Athletics: +7, Intimidation: +5"
@@ -58,7 +59,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Hatred of Mirrors"
-    desc: "  An abrikandilu loathes the sight of their reflection. When a creature Interacts with a mirror within sight of the wrecker demon, the demon takes a -2 penalty to Will saves against Intimidation checks.\nAn abrikandilu that ends their turn adjacent to a mirror or that's attacked by a creature holding a mirror takes 1d6 mental damage (this usually leads abrikandilus to focus their efforts on destroying nearby mirrors using Wreck)."
+    desc: "  An abrikandilu loathes the sight of their reflection. When a creature Interacts with a mirror within sight of the wrecker demon, the demon takes a -2 penalty to Will saves against Intimidation checks.\n\nAn abrikandilu that ends their turn adjacent to a mirror or that's attacked by a creature holding a mirror takes 1d6 mental damage (this usually leads abrikandilus to focus their efforts on destroying nearby mirrors using Wreck)."
 
 attacks:
   - name: ""
@@ -79,11 +80,17 @@ attacks:
     desc: "_[[Spells/Demonic Pact|Abyssal Pact]]_"
 
   - name: "Disfiguring Bite"
-    desc: " (curse,divine) When the abrikandilu hits a creature with a jaws Strike, the creature must succeed at a DC 17 Fortitude check save or become physically mutilated.\nThe creature then takes a -1 status penalty to Charisma-based checks.\nThis penalty remains for 24 hours even if the wounds are healed.\n[[Bestiary Effects/Effect_ Mutilating Bite|Effect: Disfiguring Bite]]"
+    desc: " (curse,divine) When the abrikandilu hits a creature with a jaws Strike, the creature must succeed at a DC 17 Fortitude check save or become physically mutilated.\n\nThe creature then takes a -1 status penalty to Charisma-based checks.\n\nThis penalty remains for 24 hours even if the wounds are healed.\n\n[[Bestiary Effects/Effect_ Mutilating Bite|Effect: Disfiguring Bite]]"
 
   - name: "Wreck"
-    desc: "`pf2:1`  The abrikandilu makes two claw Strikes against an unattended object or held mirror. Held mirrors use the holding character's AC.\nIf both Strikes hit, combine their damage for the purpose of overcoming any Hardness or resistance.\nThese Strikes don't count toward the abrikandilu's multiple attack penalty, nor does that penalty apply to these Strikes."
+    desc: "`pf2:1`  The abrikandilu makes two claw Strikes against an unattended object or held mirror. Held mirrors use the holding character's AC.\n\nIf both Strikes hit, combine their damage for the purpose of overcoming any Hardness or resistance.\n\nThese Strikes don't count toward the abrikandilu's multiple attack penalty, nor does that penalty apply to these Strikes."
  
+```
+
+```encounter-table
+name: Half-Formed Abrikandilu
+creatures:
+  - 1: Half-Formed Abrikandilu
 ```
 
 

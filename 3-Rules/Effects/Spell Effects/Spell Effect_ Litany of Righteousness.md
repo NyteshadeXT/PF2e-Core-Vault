@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[Spells/Litany of Righteousness|Litany of Righteousness]].
+Granted by _litany of righteousness_.
 
 You gain weakness 7 to holy.
 

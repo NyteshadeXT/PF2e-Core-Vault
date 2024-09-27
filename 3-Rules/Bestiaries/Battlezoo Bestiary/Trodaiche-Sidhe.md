@@ -7,6 +7,7 @@ aliases: "Compendium.battlezoo-bestiary-pf2e.pf2e-battlezoo-bestiary.Actor.fHjw7
 tags:
   - pf2e/creature/type/chaotic
   - pf2e/creature/type/fey
+  - pf2eMonster
   - pf2e/creature/level/6
 statblock: inline
 name: "Trodaiche-Sidhe"
@@ -25,8 +26,8 @@ level: "Creature 6"
 
 alignment: ""
 size: "Medium"
-trait_01: "chaotic"
-trait_02: "fey"
+trait_01: [[chaotic]]
+trait_02: [[fey]]
 modifier: 16
 perception:
   - name: "Perception"
@@ -34,7 +35,7 @@ perception:
 languages: "Common, Fey"
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +15, Athletics: +14, Crafting: +12, Nature: +14, Stealth: +15, Survival: +16, Hunting Lore: +12, "
+    desc: "Acrobatics: +15, Athletics: +14, Crafting: +12, Nature: +14, Stealth: +15, Survival: +16, Hunting Lore: +12"
 abilityMods: [4, 5, 3, 2, 4, 5]
 speed: 30 feet
 sourcebook: "_Battlezoo Bestiary_"
@@ -75,11 +76,17 @@ attacks:
     desc: "`pf2:3` (primal) The trodaiche-sidhe quickly repairs an item in their possession of 1 Bulk or less. They restore 15 Hit Points to the item, potentially removing the broken condition if this repairs it past the item's Broken Threshold."
 
   - name: "Equip Liege"
-    desc: "  a to 2\n**Requirements** The trodaiche-sidhe is adjacent to a willing ally;\n**Effect** The trodaiche-sidhe deftly draws an item of 1 Bulk or less and hands it off to their ally with supernatural speed. The trodaiche-sidhe places the item their ally's free hand or, if no hand is free, among their ally's gear. This ability takes 1 action if the item is of Light or negligible Bulk, or 2 actions if it is of 1 Bulk."
+    desc: "  a to 2\n\n**Requirements** The trodaiche-sidhe is adjacent to a willing ally;\n\n**Effect** The trodaiche-sidhe deftly draws an item of 1 Bulk or less and hands it off to their ally with supernatural speed. The trodaiche-sidhe places the item their ally's free hand or, if no hand is free, among their ally's gear. This ability takes 1 action if the item is of Light or negligible Bulk, or 2 actions if it is of 1 Bulk."
 
   - name: "Suppressive Volley"
-    desc: "`pf2:2`  The trodaiche-sidhe rapidly fires a hail of 5 arrows at a target within 100 feet, forcing it to move away or be assailed by the salvo. The target takes 3d8 + 6 piercing damage (basic Reflex save). After rolling its save, the target can move 5 feet as a reaction to increase its save's degree of success by one step (from failure to success, for example). The creature must be able to spend a reaction to do this, and this movement triggers reactions as normal."
+    desc: "`pf2:2`  The trodaiche-sidhe rapidly fires a hail of 5 arrows at a target within 100 feet, forcing it to move away or be assailed by the salvo. The target takes 3d8 + 6 piercing damage (DC 25 basic Reflex save). After rolling its save, the target can move 5 feet as a reaction to increase its save's degree of success by one step (from failure to success, for example). The creature must be able to spend a reaction to do this, and this movement triggers reactions as normal."
  
+```
+
+```encounter-table
+name: Trodaiche-Sidhe
+creatures:
+  - 1: Trodaiche-Sidhe
 ```
 
 

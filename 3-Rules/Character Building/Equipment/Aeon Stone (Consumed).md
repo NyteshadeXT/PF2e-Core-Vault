@@ -12,7 +12,7 @@ license: ORC
 ---
 # Aeon Stone (Consumed)
 ## Item 1
-### [uncommon](uncommon "Uncommon Rarity Trait")[[invested]][[magical]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[invested]][[3-Rules/Rule References/Magical]]
 
 
 **Price** 9 gp; 

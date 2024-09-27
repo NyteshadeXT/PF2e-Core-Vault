@@ -6,8 +6,9 @@ tags:
   - trait/downtime
   - trait/common
   - category/interaction
+  - remaster
 aliases: "Compendium.pf2e.actionspf2e.Item.iEYZ5PAim5Cvbila"
-license: OGL
+license: ORC
 ---
 # Secure Disguises
 
@@ -26,5 +27,5 @@ You seek to procure or create disguises. Attempt a normal, hard, or very hard Cr
 
 **Failure** Your efforts result in an unusable disguise.
 
-*Source: Pathfinder Gamemastery Guide*
-*OGL*
+*Source: Pathfinder GM Core*
+*ORC*

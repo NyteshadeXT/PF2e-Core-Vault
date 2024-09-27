@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/halfling
   - pf2e/creature/type/humanoid
   - pf2e/creature/type/lawful
+  - pf2eMonster
   - pf2e/creature/level/13
 statblock: inline
 name: "Akila Stormheel"
@@ -22,12 +23,12 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #167: Ready? Fight!"
 name: "Akila Stormheel"
 level: "Creature 13"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Small"
-trait_01: "halfling"
-trait_02: "humanoid"
-trait_03: "lawful"
+trait_01: [[halfling]]
+trait_02: [[humanoid]]
+trait_03: [[lawful]]
 modifier: 24
 perception:
   - name: "Perception"
@@ -67,7 +68,7 @@ attacks:
     desc: "`pf2:1` Composite Longbow +28 (deadly 2d10, magical, propulsive, range increment 100 feet, volley 30 ft.)\n__Damage__  3d8 + 10 piercing"
 
   - name: "[[Bestiary Ability Glossary/Change Shape|Change Shape]]"
-    desc: "`pf2:1` (concentrate,polymorph,primal) Akila's mask melds into her face and she takes on the form of a leopard, or she returns to her halfling form. As a leopard, the only Strikes she can make are a jaws Strike (which deals 3d6 + 10 piercing damage plus Grab) and an agile claws Strike (which deals 3d4 + 10 slashing damage).\n"
+    desc: "`pf2:1` (concentrate,polymorph,primal) Akila's mask melds into her face and she takes on the form of a leopard, or she returns to her halfling form. As a leopard, the only Strikes she can make are a jaws Strike (which deals 3d6+10 piercing damage plus Grab) and an agile claws Strike (which deals 3d4+10 slashing damage).\n\n* * *\n"
 
   - name: "Pounce"
     desc: "`pf2:1`  Akila Strides, then Strikes. If she was [[Conditions/Hidden|Hidden]] at the start of this action, she remains hidden until after the Strike."
@@ -78,6 +79,12 @@ attacks:
   - name: "[[Bestiary Ability Glossary/Sneak Attack|Sneak Attack]]"
     desc: "  Akila deals an extra 1d6 precision damage to [[Conditions/Off-Guard|Off-Guard]] targets."
  
+```
+
+```encounter-table
+name: Akila Stormheel
+creatures:
+  - 1: Akila Stormheel
 ```
 
 

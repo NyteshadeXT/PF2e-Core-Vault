@@ -12,9 +12,9 @@ After being exsanguinated by a vampire, you've risen again, pulling yourself fro
 
 #### Vampire Vulnerabilities
 
-**Revulsion**: You can't voluntarily come within 10 feet of brandished garlic or a religious symbol of a non-evil deity. A creature must Interact to brandish garlic or a religious symbol for 1 round (similar to [[Actions/Raise a Shield|Raise a Shield]] ) . If you involuntarily come within 10 feet of an object of your revulsion, you gain the [[Conditions/Fleeing|Fleeing]] condition, running from the subject of your revulsion until you end an action beyond 10 feet of it. After 1 round of being exposed to the subject of your revulsion, you can attempt a DC 25 Will save as a single action, which has the concentrate trait. On a success, you overcome your revulsions for 1d6 rounds, or 1 hour on a critical success.
+**Revulsion**: You can't voluntarily come within 10 feet of brandished garlic or a religious symbol of a non-evil deity. A creature must Interact to brandish garlic or a religious symbol for 1 round (similar to [[Actions/Raise a Shield|Raise a Shield]]). If you involuntarily come within 10 feet of an object of your revulsion, you gain the [[Conditions/Fleeing|Fleeing]] condition, running from the subject of your revulsion until you end an action beyond 10 feet of it. After 1 round of being exposed to the subject of your revulsion, you can attempt a DC 25 Will save as a single action, which has the concentrate trait. On a success, you overcome your revulsions for 1d6 rounds, or 1 hour on a critical success.
 
-**Sunlight**: If exposed to direct sunlight, you immediately become [[Conditions/Slowed 1|Slowed 1]] . The slowed value increases by 1 each time you end your turn in sunlight. If you lose all your actions in this way, you are destroyed. Due to your supernatural aversion to light, you don't cast shadows or show a reflection in mirrors.
+**Sunlight**: If exposed to direct sunlight, you immediately become [[Conditions/Slowed|Slowed 1]]. The slowed value increases by 1 each time you end your turn in sunlight. If you lose all your actions in this way, you are destroyed. Due to your supernatural aversion to light, you don't cast shadows or show a reflection in mirrors.
 
 ## [[Feats/Vampire Dedication|Vampire Dedication]] Feat 2
 
@@ -62,7 +62,7 @@ Once per day, you can cast [[Spells/Animal Allies|Animal Allies]] as a divine in
 
 * * *
 
-Through a profane pledge or a bloodline quirk, you can tolerate the sun's light. You gain the advanced undead benefits and can't be destroyed by sunlight. This doesn't prevent you from becoming [[Conditions/Slowed 1|Slowed]] by exposure to the sun.
+Through a profane pledge or a bloodline quirk, you can tolerate the sun's light. You gain the advanced undead benefits and can't be destroyed by sunlight. This doesn't prevent you from becoming [[Conditions/Slowed|Slowed]] by exposure to the sun.
 
 ## [[Feats/Predatory Claws|Predatory Claws]] Feat 6
 

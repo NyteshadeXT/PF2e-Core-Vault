@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/human
   - pf2e/creature/type/humanoid
   - pf2e/creature/type/talos
+  - pf2eMonster
   - pf2e/creature/level/1
   - remaster
 statblock: inline
@@ -26,9 +27,9 @@ level: "Creature 1"
 
 alignment: ""
 size: "Medium"
-trait_01: "human"
-trait_02: "humanoid"
-trait_03: "talos"
+trait_01: [[human]]
+trait_02: [[humanoid]]
+trait_03: [[talos]]
 modifier: 3
 perception:
   - name: "Perception"
@@ -56,7 +57,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Reflective Defense"
-    desc: "`pf2:r`  **Frequency** once per round\n**Trigger** A creature within 30 feet targets the talos gadgeteer, and they can see the attacker;\n**Requirements** The talos is in dim or bright light\n**Effect** The talos gadgeteer reflects light off their metallic skin and into the enemy's eyes; it must succeed at a DC 14 Reflex check save or be [[Conditions/Dazzled|Dazzled]] until the end of the talos's next turn."
+    desc: "`pf2:r`  **Frequency** once per round\n\n**Trigger** A creature within 30 feet targets the talos gadgeteer, and they can see the attacker;\n\n**Requirements** The talos is in dim or bright light\n* * *\n\n**Effect** The talos gadgeteer reflects light off their metallic skin and into the enemy's eyes; it must succeed at a DC 14 Reflex check save or be [[Conditions/Dazzled|Dazzled]] until the end of the talos's next turn."
 
 attacks:
   - name: ""
@@ -73,6 +74,12 @@ attacks:
   - name: "Arcane Innate Spells"
     desc: "DC 14, attack +6\n__Cantrips__  __(1st)__ _[[Spells/Detect Metal|Detect Metal]]_"
  
+```
+
+```encounter-table
+name: Talos Gadgeteer
+creatures:
+  - 1: Talos Gadgeteer
 ```
 
 

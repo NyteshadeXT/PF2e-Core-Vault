@@ -16,7 +16,7 @@ license: OGL
 ---
 # Blast Lance
 ## Item 4
-### [uncommon](uncommon "Uncommon Rarity Trait")[[deadly-d8]][[3-Rules/Rule References/Fire]][[jousting-d6]][[magical]][[reach]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[deadly-d8]][[3-Rules/Rule References/Fire]][[jousting-d6]][[3-Rules/Rule References/Magical]][[3-Rules/Rule References/Reach]]
 
 |  |  |
 | -- | -- |

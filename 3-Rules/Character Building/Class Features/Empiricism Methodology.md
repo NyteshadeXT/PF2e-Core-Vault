@@ -6,8 +6,9 @@ tags:
   - trait/investigator
   - trait/common
   - category/classfeature
+  - remaster
 aliases: "Compendium.pf2e.classfeatures.Item.g3mNzNphtVxyR9Xr"
-license: OGL
+license: ORC
 ---
 # Empiricism Methodology
 ## Feat 1
@@ -22,5 +23,5 @@ Everything comes down to data. Calculating statistics, running numbers, and usin
 
 You are trained in one Intelligence-based skill of your choice. You gain the [[Feats/That's Odd|That's Odd]] investigator feat, and you gain the [[Actions/Expeditious Inspection|Expeditious Inspection]] free action.
 
-*Source: Pathfinder Advanced Player's Guide*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

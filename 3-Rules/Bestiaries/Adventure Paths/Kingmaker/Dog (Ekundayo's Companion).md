@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.kingmaker-bestiary.Actor.oOPf7VG4tuMvzrgA"
 tags:
   - pf2e/creature/type/animal
   - pf2e/creature/type/minion
+  - pf2eMonster
   - pf2e/creature/level/6
 statblock: inline
 name: "Dog (Ekundayo&#x27;s Companion)"
@@ -21,15 +22,16 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Kingmaker"
 name: "Dog (Ekundayo's Companion)"
 level: "Creature 6"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Medium"
-trait_01: "animal"
-trait_02: "minion"
+trait_01: [[animal]]
+trait_02: [[minion]]
 modifier: 12
 perception:
   - name: "Perception"
     desc: "+12; Low-Light Vision, Scent (Imprecise) 30 Feet"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Acrobatics: +12, Athletics: +11, Intimidation: +8, Stealth: +12, Survival: +12"
@@ -59,6 +61,12 @@ attacks:
   - name: "Support Benefit"
     desc: "`pf2:1`  Until the start of Ekundayo's next turn, his Strikes that damage creatures Dog threatens give the target a -5-foot status penalty to its Speeds for 1 minute (-10 on a critical success)."
  
+```
+
+```encounter-table
+name: Dog (Ekundayo's Companion)
+creatures:
+  - 1: Dog (Ekundayo's Companion)
 ```
 
 

@@ -11,6 +11,7 @@ tags:
   - pf2e/creature/type/shadow
   - pf2e/creature/type/undead
   - pf2e/creature/type/unholy
+  - pf2eMonster
   - pf2e/creature/level/18
 statblock: inline
 name: "Urveth"
@@ -28,20 +29,20 @@ level: "Creature 18"
 
 alignment: ""
 size: "grg"
-trait_01: "chaotic"
-trait_02: "darvakka"
-trait_03: "evil"
-trait_04: "shadow"
-trait_05: "undead"
-trait_06: "unholy"
+trait_01: [[chaotic]]
+trait_02: [[darvakka]]
+trait_03: [[evil]]
+trait_04: [[shadow]]
+trait_05: [[undead]]
+trait_06: [[unholy]]
 modifier: 32
 perception:
   - name: "Perception"
     desc: "+32; Greater Darkvision, Lifesense 60 Feet"
-languages: "Chthonian, Common, Diabolic, Necril"
+languages: "Chthonian, Common, Diabolic, Necril; telepathy 100 feet"
 skills:
   - name: "Skills"
-    desc: "Arcana: +29, Athletics: +35, Religion: +32, Shadow Plane Lore: +31, Stealth: +31, The Void Lore: +31"
+    desc: "Arcana: +29, Athletics: +35, Religion: +32, Stealth: +31, Shadow Plane Lore: +31, The Void Lore: +31"
 abilityMods: [10, 5, 8, 5, 6, 6]
 speed: 25 feet,  burrow 60 feet
 sourcebook: "_Pathfinder Book of the Dead_"
@@ -60,13 +61,13 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "[[Bestiary Ability Glossary/Attack of Opportunity|Attack of Opportunity (Special)]]"
-    desc: "`pf2:r`  Claw only. An urveth gains 3 extra reactions each round that they can use only to make Attacks of Opportunity.\n"
+    desc: "`pf2:r`  Claw only. An urveth gains 3 extra reactions each round that they can use only to make Attacks of Opportunity.\n\n* * *\n"
 
   - name: "Entropy's Shadow"
-    desc: " (aura,divine,void) 60 feet. Urveths leak entropy and corruption from their very being. A living creature entering or starting its turn in the aura takes 5d6 void damage with a DC 38 Fortitude check. If it fails, it's also [[Conditions/Enfeebled 1|Enfeebled 1]] for 1 minute and pulled 10 feet toward the urveth."
+    desc: " (aura,divine,void) 60 feet. Urveths leak entropy and corruption from their very being. A living creature entering or starting its turn in the aura takes 5d6 void damage with a DC 38 Fortitude check. If it fails, it's also [[Conditions/Enfeebled|Enfeebled 1]] for 1 minute and pulled 10 feet toward the urveth."
 
   - name: "Sunlight Powerlessness"
-    desc: "  A urveth caught in sunlight is [[Conditions/Stunned 1|Stunned 2]] and [[Conditions/Clumsy 1|Clumsy 2]]."
+    desc: "  A urveth caught in sunlight is [[Conditions/Stunned|Stunned 2]] and [[Conditions/Clumsy|Clumsy 2]]."
 
 attacks:
   - name: ""
@@ -87,11 +88,17 @@ attacks:
     desc: "`pf2:2`  The urveth makes two claw Strikes and one stinger Strike in any order."
 
   - name: "[[Bestiary Ability Glossary/Swallow Whole|Swallow Whole]]"
-    desc: "`pf2:1` (attack) Huge, 2d10 + 5 bludgeoning, Rupture 35\nA living creature that ends its turn swallowed whole by an urveth becomes [[Conditions/Drained 1|Drained 1]] or increases its drained condition by 1, and the urveth gains 10 temporary Hit Points. A creature whose drained condition increases to 5 in this way dies.\n"
+    desc: "`pf2:1` (attack) Huge, 2d10+5 bludgeoning, Rupture 35\n\nA living creature that ends its turn swallowed whole by an urveth becomes [[Conditions/Drained|Drained 1]] or increases its drained condition by 1, and the urveth gains 10 temporary Hit Points. A creature whose drained condition increases to 5 in this way dies.\n\n* * *\n"
 
   - name: "Urveth Venom"
-    desc: " (poison) **Saving Throw** DC 37 Fortitude check\n**Maximum Duration** 6 rounds\n**Stage 1** 3d6 void damage and 2d6 poison damage (1 round)\n**Stage 2** 3d6 void damage and 2d6 poison damage, and [[Conditions/Enfeebled 1|Enfeebled 2]] (1 round)\n**Stage 3** 3d6 void damage and 2d6 poison damage, and [[Conditions/Enfeebled 1|Enfeebled 4]] (1 round)"
+    desc: " (poison) **Saving Throw** DC 37 Fortitude check\n* * *\n\n**Maximum Duration** 6 rounds\n\n**Stage 1** 3d6 void damage and 2d6 poison damage (1 round)\n\n**Stage 2** 3d6 void damage and 2d6 poison damage, and [[Conditions/Enfeebled|Enfeebled 2]] (1 round)\n\n**Stage 3** 3d6 void damage and 2d6 poison damage, and [[Conditions/Enfeebled|Enfeebled 4]] (1 round)"
  
+```
+
+```encounter-table
+name: Urveth
+creatures:
+  - 1: Urveth
 ```
 
 

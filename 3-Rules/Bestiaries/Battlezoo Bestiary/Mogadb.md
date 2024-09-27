@@ -7,6 +7,7 @@ aliases: "Compendium.battlezoo-bestiary-pf2e.pf2e-battlezoo-bestiary.Actor.BYNnF
 tags:
   - pf2e/creature/type/animal
   - pf2e/creature/type/fey
+  - pf2eMonster
   - pf2e/creature/level/3
 statblock: inline
 name: "Mogadb"
@@ -25,15 +26,16 @@ level: "Creature 3"
 
 alignment: ""
 size: "Large"
-trait_01: "animal"
-trait_02: "fey"
+trait_01: [[animal]]
+trait_02: [[fey]]
 modifier: 11
 perception:
   - name: "Perception"
     desc: "+11; Low-Light Vision, Scent (Imprecise) 30 Feet"
+languages: ""
 skills:
   - name: "Skills"
-    desc: "Athletics: +11, Survival: +9, "
+    desc: "Athletics: +11, Survival: +9"
 abilityMods: [4, 3, 3, -4, 2, -3]
 speed: 30 feet
 sourcebook: "_Battlezoo Bestiary_"
@@ -52,7 +54,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Slough Skin"
-    desc: "`pf2:r`  **Trigger** The mogadb takes 30 or more slashing damage in a single round;\n**Effect** The mogadb's vessel is destroyed, leaving behind a swarm of animals. This does not break the spell holding the swarm together, which continues to attack as a Rat Swarm with a maximum number of Hit Points equal to the mogadb's remaining Hit Points."
+    desc: "`pf2:r`  **Trigger** The mogadb takes 30 or more slashing damage in a single round;\n* * *\n\n**Effect** The mogadb's vessel is destroyed, leaving behind a swarm of animals. This does not break the spell holding the swarm together, which continues to attack as a [[Bestiary 1/Rat Swarm|Rat Swarm]] with a maximum number of Hit Points equal to the mogadb's remaining Hit Points."
 
 attacks:
   - name: ""
@@ -64,11 +66,17 @@ attacks:
     desc: "  A mogadb moves by the forceful heaving of the animals within its skin sack, not any traditional means of locomotion. The mogadb ignores natural difficult terrain."
 
   - name: "Breath Weapon"
-    desc: "`pf2:2` (primal) The mogadb spews out some of its internal swarm in a 15-foot cone. Each creature in the area takes 1d6 piercing damage (basic Reflex save). A creature that fails the save is exposed to filth fever.\nThe mogadb can't use Breath Weapon again for 1d4 rounds."
+    desc: "`pf2:2` (primal) The mogadb spews out some of its internal swarm in a 15-foot cone. Each creature in the area takes 1d6 piercing damage (DC 18 basic Reflex save). A creature that fails the save is exposed to filth fever.\n\nThe mogadb can't use Breath Weapon again for 1d4 rounds."
 
   - name: "[[Item.DiGgJNOY5Na3eYp8|Filth Fever]]"
-    desc: " (disease) The Sickened and Unconscious conditions from filth fever don't improve on their own until the disease is cured.\n**Saving Throw** Fortitude;\n**Stage 1** carrier with no ill effect (1d4 hours),\n**Stage 2** Sickened 1 (1 day),\n**Stage 3** sickened 1 and Slowed 1 (1 day),\n**Stage 4** unconscious (1 day),\n**Stage 5** dead"
+    desc: " (disease) The [[Conditions/Sickened|Sickened]] and [[Conditions/Unconscious|Unconscious]] conditions from filth fever don't improve on their own until the disease is cured.\n\n**Saving Throw** DC 14 Fortitude;\n\n**Stage 1** carrier with no ill effect (1d4 hours),\n\n**Stage 2** [[Conditions/Sickened|Sickened 1]] (1 day),\n\n**Stage 3** sickened 1 and [[Conditions/Slowed|Slowed 1]] (1 day),\n\n**Stage 4** unconscious (1 day),\n\n**Stage 5** dead"
  
+```
+
+```encounter-table
+name: Mogadb
+creatures:
+  - 1: Mogadb
 ```
 
 
@@ -83,7 +91,7 @@ Particularly cruel fey have been known to craft whole packs of mogadbs, even rid
 
 ## Destroying Mogadbs
 
-A mogadb can be destroyed with a successful _Remove Curse_ spell, though it may be difficult to keep the creature in one place while casting. More powerful magic might be effective as well. Otherwise the only way to free the trapped animals from their wicked fate is by destroying the skin vessel and dispersing the swarm.
+A mogadb can be destroyed with a successful _[[undefined]]_ spell, though it may be difficult to keep the creature in one place while casting. More powerful magic might be effective as well. Otherwise the only way to free the trapped animals from their wicked fate is by destroying the skin vessel and dispersing the swarm.
 
 ## Monster Part Subsystem
 

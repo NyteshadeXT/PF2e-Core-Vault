@@ -4,6 +4,7 @@ obsidianUIMode: preview
 noteType: pf2eHazard
 tags:
   - magical
+  - pf2eHazard
 
 source: Pathfinder Adventure: Shadows at Sundown
 aliases: "Compendium.pf2e.shadows-at-sundown-bestiary.Actor.ahsCOaQcO2mPZQrs" 
@@ -21,13 +22,13 @@ name: "Brooding Fvalthahalia"
 level: "Hazard 13"
 
 
-trait_01: "magical"
+trait_01: [[magical]]
 modifier: 27
 sourcebook: "_Pathfinder Adventure: Shadows at Sundown_"
 ac: 10
 armorclass:
   - name: AC
-    desc: "10; __Fort__ +0, __Ref__ +0, __Will__ +0"
+    desc: "10; "
 hp: 10
 health:
   - name: ""
@@ -49,10 +50,16 @@ attacks:
   - name: ""
 
   - name: "Call of Fvalthahalia"
-    desc: "`pf2:r` (occult) **Trigger** A creature without supernatural ties to the Shadow Plane enters the room (creatures like fetchlings or divine spellcasters who worship Zon-Kuthon represent two examples of creatures who won't trigger this hazard)\n**Effect** The flickering dark flames on the city's streets flare up and the sound of an entire city populace screaming an alarm fills the room. All creatures in area **C1** take 18d6 sonic damage (DC 33 Fortitude check), and all strigoi from Aliriel's Vault immediately know intruders have been spotted in this room. Any strigoi in area **C2** quickly investigate and attack the PCs on sight."
+    desc: "`pf2:r` (occult) **Trigger** A creature without supernatural ties to the Shadow Plane enters the room (creatures like fetchlings or divine spellcasters who worship Zon-Kuthon represent two examples of creatures who won't trigger this hazard)\n* * *\n\n**Effect** The flickering dark flames on the city's streets flare up and the sound of an entire city populace screaming an alarm fills the room. All creatures in area **C1** take 18d6 sonic damage (DC 33 Fortitude check), and all strigoi from Aliriel's Vault immediately know intruders have been spotted in this room. Any strigoi in area **C2** quickly investigate and attack the PCs on sight."
 
 
   - name: "Reset"
     desc: "1 hour"
+```
+
+```encounter-table
+name: Brooding Fvalthahalia
+creatures:
+  - 1: Brooding Fvalthahalia
 ```
 

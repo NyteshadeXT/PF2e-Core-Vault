@@ -10,6 +10,7 @@ tags:
   - pf2e/creature/type/hryngar
   - pf2e/creature/type/humanoid
   - pf2e/creature/type/lawful
+  - pf2eMonster
   - pf2e/creature/level/8
 statblock: inline
 name: "Hryngar Veteran"
@@ -27,11 +28,11 @@ level: "Creature 8"
 
 alignment: ""
 size: "Medium"
-trait_01: "dwarf"
-trait_02: "evil"
-trait_03: "hryngar"
-trait_04: "humanoid"
-trait_05: "lawful"
+trait_01: [[dwarf]]
+trait_02: [[evil]]
+trait_03: [[hryngar]]
+trait_04: [[humanoid]]
+trait_05: [[lawful]]
 modifier: 16
 perception:
   - name: "Perception"
@@ -39,7 +40,7 @@ perception:
 languages: "Common, Dwarven, Sakvroth"
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +13, Athletics: +13, Deception: +15, Intimidation: +17, Society: +11, Stealth: +13, Thievery: +15, Underworld Lore: +15"
+    desc: "Acrobatics: +15, Athletics: +15, Deception: +17, Intimidation: +19, Society: +13, Stealth: +15, Thievery: +17, Underworld Lore: +17"
 abilityMods: [4, 4, 2, 2, -1, 4]
 speed: 25 feet
 sourcebook: "_Pathfinder #195: Heavy is the Crown_"
@@ -65,7 +66,7 @@ abilities_mid:
     desc: "  When the gang leader rolls a success on a Reflex save, they get a critical success instead."
 
   - name: "Nimble Dodge"
-    desc: "`pf2:r`  **Trigger** The gang leader is targeted with an attack by an attacker they can see\n**Effect** The gang leader gains a +2 circumstance bonus to AC against the triggering attack."
+    desc: "`pf2:r`  **Trigger** The gang leader is targeted with an attack by an attacker they can see\n* * *\n\n**Effect** The gang leader gains a +2 circumstance bonus to AC against the triggering attack."
 
   - name: "Surprise Attack"
     desc: "  On the first round of combat, if the gang leader rolls Deception or Stealth for initiative, creatures who haven't acted are [[Conditions/Off-Guard|Off-Guard]] to the gang leader."
@@ -83,7 +84,7 @@ attacks:
     desc: "DC 22, attack +14; __2nd __  _[[Spells/Blood Vendetta|Blood Vendetta]]_, _[[Spells/Paranoia|Paranoia]]_\n__Cantrips__  __(4th)__ _[[Spells/Sigil|Sigil]]_"
 
   - name: "Brutal Rally"
-    desc: "`pf2:r` (auditory,emotion,linguistic,mental) **Trigger** The gang leader rolls a critical hit against a creature\n**Effect** All allies that can see the gang leader gain a +1 circumstance bonus to attack rolls until the start of the gang leader's next turn.\n[[Bestiary Effects/Effect_ Brutal Rally|Effect: Brutal Rally]]"
+    desc: "`pf2:r` (auditory,emotion,linguistic,mental) **Trigger** The gang leader rolls a critical hit against a creature\n* * *\n\n**Effect** All allies that can see the gang leader gain a +1 circumstance bonus to attack rolls until the start of the gang leader's next turn.\n\n[[Bestiary Effects/Effect_ Brutal Rally|Effect: Brutal Rally]]"
 
   - name: "Gang Up"
     desc: "  Any enemy is [[Conditions/Off-Guard|Off-Guard]] against the gang leader's melee attacks due to flanking as long as the enemy is within melee reach of both the gang leader and one of the gang leader's allies."
@@ -94,6 +95,12 @@ attacks:
   - name: "[[Bestiary Ability Glossary/Sneak Attack|Sneak Attack]]"
     desc: "  The gang leader deals an extra 2d6 precision damage to [[Conditions/Off-Guard|Off-Guard]] creatures."
  
+```
+
+```encounter-table
+name: Hryngar Veteran
+creatures:
+  - 1: Hryngar Veteran
 ```
 
 

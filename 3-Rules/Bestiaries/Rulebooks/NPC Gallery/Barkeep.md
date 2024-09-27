@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.npc-gallery.Actor.6IADTZHYowxObqAk"
 tags:
   - pf2e/creature/type/human
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/1
 statblock: inline
 name: "Barkeep"
@@ -24,8 +25,8 @@ level: "Creature 1"
 
 alignment: ""
 size: "Medium"
-trait_01: "human"
-trait_02: "humanoid"
+trait_01: [[human]]
+trait_02: [[humanoid]]
 modifier: 6
 perception:
   - name: "Perception"
@@ -33,7 +34,7 @@ perception:
 languages: "Common"
 skills:
   - name: "Skills"
-    desc: "Alcohol Lore: +9, Athletics: +6, Deception: +6, Diplomacy: +8, Performance: +6, Society: +5, Thievery: +3"
+    desc: "Athletics: +6, Deception: +6, Diplomacy: +8, Performance: +6, Society: +5, Thievery: +3, Alcohol Lore: +9"
 abilityMods: [3, 0, 2, 0, 1, 3]
 speed: 25 feet
 sourcebook: "_Pathfinder Gamemastery Guide_"
@@ -68,8 +69,14 @@ attacks:
     desc: "  The barkeep has been in enough bar fights to know how to throw a few punches. When fighting in their bar and making a nonlethal attack, the barkeep gains a +1 circumstance bonus to attack rolls and deals an additional 1d4 damage."
 
   - name: "Barkeep's Advice"
-    desc: "`pf2:3` (auditory,fortune,linguistic,mental) **Frequency** once per day\n**Effect** The barkeep gives some pertinent advice to a single creature other than themself. For 24 hours, when that creature fails a skill check or saving throw, they can recall this advice and reroll the check, using the second result instead. Once that creature uses this ability, its effect ends.\nA creature that receives the Barkeep's Advice is temporarily immune to the ability for 1 month."
+    desc: "`pf2:3` (auditory,fortune,linguistic,mental) **Frequency** once per day\n* * *\n\n**Effect** The barkeep gives some pertinent advice to a single creature other than themself. For 24 hours, when that creature fails a skill check or saving throw, they can recall this advice and reroll the check, using the second result instead. Once that creature uses this ability, its effect ends.\n\nA creature that receives the Barkeep's Advice is temporarily immune to the ability for 1 month."
  
+```
+
+```encounter-table
+name: Barkeep
+creatures:
+  - 1: Barkeep
 ```
 
 

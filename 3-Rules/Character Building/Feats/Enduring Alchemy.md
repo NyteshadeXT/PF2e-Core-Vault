@@ -6,8 +6,9 @@ tags:
   - trait/alchemist
   - trait/common
   - category/class
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.jBeuyq0Aged45YAc"
-license: OGL
+license: ORC
 ---
 # Enduring Alchemy
 ## Feat 4
@@ -18,9 +19,7 @@ license: OGL
 
 
 
-You've learned how to make your personal energy last just a little bit longer when quickly brewing ad hoc concoctions.
+You've learned how to make your personal energy last just a little bit longer when quickly brewing ad hoc concoctions. When using [[Actions/Quick Alchemy|Quick Alchemy]] to create an alchemical tool or elixir, that tool or elixir remains potent until the end of your next turn, instead of losing its potency at the start of your next turn.
 
-When using [[Class Features/Quick Alchemy|Quick Alchemy]] to create an alchemical tool or elixir, that tool or elixir remains potent until the end of your next turn, instead of losing its potency at the start of your next turn.
-
-*Source: Pathfinder Core Rulebook*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

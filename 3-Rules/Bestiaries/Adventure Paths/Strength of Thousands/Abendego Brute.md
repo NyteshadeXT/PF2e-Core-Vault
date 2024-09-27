@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/human
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/8
 statblock: inline
 name: "Abendego Brute"
@@ -25,9 +26,9 @@ level: "Creature 8"
 
 alignment: ""
 size: "Medium"
-trait_01: "evil"
-trait_02: "human"
-trait_03: "humanoid"
+trait_01: [[evil]]
+trait_02: [[human]]
+trait_03: [[humanoid]]
 modifier: 15
 perception:
   - name: "Perception"
@@ -55,7 +56,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "No Escape"
-    desc: "`pf2:r`  **Trigger** A creature within the brute's reach moves away from the brute\n**Effect** The brute Strides up to their Speed, following the foe and keeping it in reach throughout this movement."
+    desc: "`pf2:r`  **Trigger** A creature within the brute's reach moves away from the brute\n* * *\n\n**Effect** The brute Strides up to their Speed, following the foe and keeping it in reach throughout this movement."
 
 attacks:
   - name: ""
@@ -75,6 +76,12 @@ attacks:
   - name: "[[Bestiary Ability Glossary/Push|Push]]"
     desc: "`pf2:1`  "
  
+```
+
+```encounter-table
+name: Abendego Brute
+creatures:
+  - 1: Abendego Brute
 ```
 
 

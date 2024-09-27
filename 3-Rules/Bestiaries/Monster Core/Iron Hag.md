@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.pathfinder-monster-core.Actor.lfUUnFazGLAtqRsP"
 tags:
   - pf2e/creature/type/hag
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/6
   - remaster
 statblock: inline
@@ -19,14 +20,15 @@ license: ORC
 columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
+token: [[modules/pf2e-tokens-monster-core/assets/portraits/hag-iron.webp| ]]
 source: "Pathfinder Monster Core"
 name: "Iron Hag"
 level: "Creature 6"
 
 alignment: ""
 size: "Large"
-trait_01: "hag"
-trait_02: "humanoid"
+trait_01: [[hag]]
+trait_02: [[humanoid]]
 modifier: 14
 perception:
   - name: "Perception"
@@ -34,7 +36,7 @@ perception:
 languages: "Aklo, Common, Jotun"
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +12, Athletics: +14 (+16 to Grapple), Deception: +13, Diplomacy: +11, Intimidation: +13, Stealth: +16"
+    desc: "Acrobatics: +12, Athletics: +14, Deception: +13, Diplomacy: +11, Intimidation: +13, Stealth: +16"
 abilityMods: [6, 4, 4, 1, 4, 3]
 speed: 25 feet
 sourcebook: "_Pathfinder Monster Core_"
@@ -82,6 +84,12 @@ attacks:
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
     desc: "`pf2:1`  "
  
+```
+
+```encounter-table
+name: Iron Hag
+creatures:
+  - 1: Iron Hag
 ```
 
 

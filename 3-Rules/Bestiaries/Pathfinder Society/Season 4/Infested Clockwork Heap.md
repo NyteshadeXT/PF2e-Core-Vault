@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/clockwork
   - pf2e/creature/type/construct
   - pf2e/creature/type/evil
+  - pf2eMonster
   - pf2e/creature/level/5
 statblock: inline
 name: "Infested Clockwork Heap"
@@ -23,17 +24,18 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Society Scenario #4-06: Signal from the Electric Laboratory"
 name: "Infested Clockwork Heap"
 level: "Creature 5"
-rare_03: "Rare"
+rare_03: [[Rare]]
 alignment: ""
 size: "Medium"
-trait_01: "chaotic"
-trait_02: "clockwork"
-trait_03: "construct"
-trait_04: "evil"
+trait_01: [[chaotic]]
+trait_02: [[clockwork]]
+trait_03: [[construct]]
+trait_04: [[evil]]
 modifier: 11
 perception:
   - name: "Perception"
     desc: "+11; Darkvision"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Athletics: +13, Stealth: +11"
@@ -55,7 +57,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Overburden"
-    desc: "`pf2:2`  **Requirements** The infested clockwork heap's last action was a success with an infested touch Strike\n**Effect** A fragment of the infesting spirit attaches to the target's clothing or armor, making the creature encumbered. The encumbered condition from Overburden disappears when the infested clockwork is destroyed or after 10 minutes, whichever comes first."
+    desc: "`pf2:2`  **Requirements** The infested clockwork heap's last action was a success with an infested touch Strike\n\n**Effect** A fragment of the infesting spirit attaches to the target's clothing or armor, making the creature encumbered. The encumbered condition from Overburden disappears when the infested clockwork is destroyed or after 10 minutes, whichever comes first."
 
 attacks:
   - name: ""
@@ -75,6 +77,12 @@ attacks:
   - name: "Scrap Tempest"
     desc: "`pf2:2` (concentrate,occult) The infested clockwork heap unleashes a cloud of loosely connected debris that whirls around its body at incredible speed. Each creature within 30 feet takes 2d10 bludgeoning damage (DC 22 Fortitude check)."
  
+```
+
+```encounter-table
+name: Infested Clockwork Heap
+creatures:
+  - 1: Infested Clockwork Heap
 ```
 
 

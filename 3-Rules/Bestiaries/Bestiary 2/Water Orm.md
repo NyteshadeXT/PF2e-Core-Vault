@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/aquatic
   - pf2e/creature/type/beast
   - pf2e/creature/type/water
+  - pf2eMonster
   - pf2e/creature/level/10
 statblock: inline
 name: "Water Orm"
@@ -23,12 +24,12 @@ token: [[modules/pf2e-tokens-bestiaries/portraits/elemental/water/water-orm.webp
 source: "Pathfinder Bestiary 2"
 name: "Water Orm"
 level: "Creature 10"
-rare_03: "Rare"
+rare_03: [[Rare]]
 alignment: ""
 size: "huge"
-trait_01: "aquatic"
-trait_02: "beast"
-trait_03: "water"
+trait_01: [[aquatic]]
+trait_02: [[beast]]
+trait_03: [[water]]
 modifier: 21
 perception:
   - name: "Perception"
@@ -53,7 +54,7 @@ abilities_top:
   - name: ""
 
   - name: "Slow Metabolism"
-    desc: "  A water orm can go for 10 years without feeding. Beyond this limit, the water orm's hunger causes it to become [[Conditions/Slowed 1|Slowed 1]], but doesn't otherwise impact its lifespan. A water orm that's slowed as a result of starvation can remove this condition by using Swallow Whole to gulp down a meal."
+    desc: "  A water orm can go for 10 years without feeding. Beyond this limit, the water orm's hunger causes it to become [[Conditions/Slowed|Slowed 1]], but doesn't otherwise impact its lifespan. A water orm that's slowed as a result of starvation can remove this condition by using Swallow Whole to gulp down a meal."
 
   - name: "Undetectable"
     desc: " (detection,primal,revelation,scrying) A water orm automatically tries to counteract any detection, revelation, or scrying divination attempted against it, using its Stealth modifier for the counteract check."
@@ -70,7 +71,7 @@ attacks:
     desc: "`pf2:1` Tail +24 (agile, reach 15 feet)\n__Damage__  2d6 + 11 bludgeoning"
 
   - name: "[[Bestiary Ability Glossary/Swallow Whole|Swallow Whole]]"
-    desc: "`pf2:1` (attack) Large, 2d8 + 8 bludgeoning damage, Rupture 22\n"
+    desc: "`pf2:1` (attack) Large, 2d8+8 bludgeoning damage, Rupture 22\n\n* * *\n"
 
   - name: "Water Travel"
     desc: "`pf2:3` (concentrate,primal,water) A water orm can dissolve into water, appearing only as a long, dark, serpentine stretch of water. While in this form, a water orm's swim Speed increases to 600 feet, it automatically succeeds at Athletics checks to [[Actions/Swim|Swim]], and it gains a +4 circumstance bonus to Stealth checks in water. A water orm can remain in this form for 8 hours, but it can't enter salt water when using this ability. A water orm can return to its normal form using a single action which has the concentrate trait."
@@ -78,6 +79,12 @@ attacks:
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
     desc: "`pf2:1`  "
  
+```
+
+```encounter-table
+name: Water Orm
+creatures:
+  - 1: Water Orm
 ```
 
 

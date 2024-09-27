@@ -6,8 +6,9 @@ tags:
   - trait/champion
   - trait/uncommon
   - category/class
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.MRMW0EiuOO20pzG2"
-license: OGL
+license: ORC
 ---
 # Ongoing Selfishness
 ## Feat 1
@@ -17,9 +18,9 @@ license: OGL
 
 
 
-**Prerequisites** desecrator cause
+**Prerequisites** desecration cause
 * * *
 Your powerful personality and incredible ego demand that you protect yourself above all else. After you use [[Actions/Selfish Shield|Selfish Shield]], you gain resistance to all further damage from the triggering enemy until the end of the turn on which you used the reaction. This resistance is equal to half your Selfish Shield resistance.
 
-*Source: Pathfinder Advanced Player's Guide*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

@@ -12,7 +12,7 @@ license: OGL
 ---
 # Prove Peace `pf2:2`
 
-### [[concentrate]][[manipulate]]
+### [[3-Rules/Rule References/Concentrate]][[3-Rules/Rule References/Manipulate]]
 
 **Category** interaction; 
 

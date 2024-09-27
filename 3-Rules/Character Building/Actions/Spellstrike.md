@@ -3,7 +3,6 @@ obsidianUIMode: preview
 title: "Spellstrike"
 cssclasses: pf2e,pf2e-action
 tags:
-  - trait/magus
   - trait/common
   - category/offensive
 aliases: "Compendium.pf2e.actionspf2e.Item.QDW9H8XLIjuW2fE4"
@@ -11,7 +10,7 @@ license: OGL
 ---
 # Spellstrike `pf2:2`
 
-### [[magus]]
+### 
 
 **Category** offensive; 
 

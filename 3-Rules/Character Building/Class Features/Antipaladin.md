@@ -11,7 +11,7 @@ license: OGL
 ---
 # Antipaladin
 ## Feat 1
-### [uncommon](uncommon "Uncommon Rarity Trait")[[champion]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[3-Rules/trait_reference/champion]]
 
 **Category** classfeature; 
 

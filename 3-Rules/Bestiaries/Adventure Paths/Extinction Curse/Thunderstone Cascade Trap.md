@@ -5,6 +5,7 @@ noteType: pf2eHazard
 tags:
   - mechanical
   - trap
+  - pf2eHazard
 
 source: Pathfinder #152: Legacy of the Lost God
 aliases: "Compendium.pf2e.extinction-curse-bestiary.Actor.f42l4cQyhNOLs19j" 
@@ -22,14 +23,14 @@ name: "Thunderstone Cascade Trap"
 level: "Hazard 7"
 
 
-trait_01: "mechanical"
-trait_02: "trap"
+trait_01: [[mechanical]]
+trait_02: [[trap]]
 modifier: 15
 sourcebook: "_Pathfinder #152: Legacy of the Lost God_"
 ac: 26
 armorclass:
   - name: AC
-    desc: "26; __Fort__ +15, __Ref__ +13, __Will__ +0"
+    desc: "26; __Fort__ +15, __Ref__ +13, "
 hp: 54
 health:
   - name: ""
@@ -51,9 +52,15 @@ attacks:
   - name: ""
 
   - name: "Thunderstone Explosion"
-    desc: "`pf2:r` **Trigger** The trip wire is disturbed\n**Effect** Several thunderstones bounce down the stairs and explode. Each creature within 10 feet of the lower half of the stairs takes 6d10 sonic damage (DC 24 Fortitude check save). Creatures that fail this save are additionally [[Conditions/Deafened|Deafened]] for 1 minute; creatures that critically fail this save are instead deafened for 1 hour."
+    desc: "`pf2:r` **Trigger** The trip wire is disturbed\n* * *\n\n**Effect** Several thunderstones bounce down the stairs and explode. Each creature within 10 feet of the lower half of the stairs takes 6d10 sonic damage (DC 24 Fortitude check save). Creatures that fail this save are additionally [[Conditions/Deafened|Deafened]] for 1 minute; creatures that critically fail this save are instead deafened for 1 hour."
 
 
 
+```
+
+```encounter-table
+name: Thunderstone Cascade Trap
+creatures:
+  - 1: Thunderstone Cascade Trap
 ```
 

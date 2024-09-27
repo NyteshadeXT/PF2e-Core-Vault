@@ -11,7 +11,7 @@ license: OGL
 ---
 # Clockwork Songbird
 ## Item 10
-### [unique](unique "Unique Rarity Trait")[[clockwork]][[magical]]
+### [unique](unique.md "Unique Rarity Trait")[[clockwork]][[3-Rules/Rule References/Magical]]
 
 
 **Price** 1000 gp; 

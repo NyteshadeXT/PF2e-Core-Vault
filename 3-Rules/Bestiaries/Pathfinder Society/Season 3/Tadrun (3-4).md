@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/goblin
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/4
 statblock: inline
 name: "Tadrun (3-4)"
@@ -22,12 +23,12 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Society Scenario #3-08: Foundation&#x27;s Price"
 name: "Tadrun (3-4)"
 level: "Creature 4"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Medium"
-trait_01: "evil"
-trait_02: "goblin"
-trait_03: "humanoid"
+trait_01: [[evil]]
+trait_02: [[goblin]]
+trait_03: [[humanoid]]
 modifier: 12
 perception:
   - name: "Perception"
@@ -72,6 +73,12 @@ attacks:
   - name: "Hunt Prey"
     desc: "`pf2:1` (concentrate) Tadrun designates a single creature he can see and hear, or one he's Tracking, as his prey. Tadrun gains a +2 circumstance bonus to Perception checks to [[Actions/Seek|Seek]] the prey and to Survival checks to [[Actions/Track|Track]] the prey. The first time Tadrun hits his designated prey in a round, he deals an additional 1d8 precision damage. These effects last until Tadrun uses Hunt Prey again."
  
+```
+
+```encounter-table
+name: Tadrun (3-4)
+creatures:
+  - 1: Tadrun (3-4)
 ```
 
 

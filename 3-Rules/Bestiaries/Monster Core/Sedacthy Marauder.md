@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/amphibious
   - pf2e/creature/type/humanoid
   - pf2e/creature/type/sedacthy
+  - pf2eMonster
   - pf2e/creature/level/4
   - remaster
 statblock: inline
@@ -20,15 +21,16 @@ license: ORC
 columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
+token: [[modules/pf2e-tokens-monster-core/assets/portraits/sedacthy-marauder.webp| ]]
 source: "Pathfinder Monster Core"
 name: "Sedacthy Marauder"
 level: "Creature 4"
 
 alignment: ""
 size: "Medium"
-trait_01: "amphibious"
-trait_02: "humanoid"
-trait_03: "sedacthy"
+trait_01: [[amphibious]]
+trait_02: [[humanoid]]
+trait_03: [[sedacthy]]
 modifier: 9
 perception:
   - name: "Perception"
@@ -77,11 +79,17 @@ attacks:
     desc: "`pf2:1` Spear +11 (thrown 20 ft.)\n__Damage__  1d6 + 10 piercing"
 
   - name: "Challenging Shriek"
-    desc: "`pf2:1` (auditory,emotion,fear,mental) The marauder unleashes a terrifying battle cry. Each enemy in a 30-foot emanation must attempt a DC 21 Will check save. Regardless of the results, creatures are temporarily immune for 1 minute.\n* * *\n\n**Critical Success** The creature is unaffected.\n\n**Success** The creature is [[Conditions/Frightened 1|Frightened 1]].\n\n**Failure** The creature is [[Conditions/Frightened 1|Frightened 2]].\n\n**Critical Failure** The creature is [[Conditions/Immobilized|Immobilized]] for 1 round and [[Conditions/Frightened 1|Frightened 3]]."
+    desc: "`pf2:1` (auditory,emotion,fear,mental) The marauder unleashes a terrifying battle cry. Each enemy in a @Template[emanation|distance:30] must attempt a DC 21 Will check save. Regardless of the results, creatures are temporarily immune for 1 minute.\n* * *\n\n**Critical Success** The creature is unaffected.\n\n**Success** The creature is [[Conditions/Frightened|Frightened 1]].\n\n**Failure** The creature is [[Conditions/Frightened|Frightened 2]].\n\n**Critical Failure** The creature is [[Conditions/Immobilized|Immobilized]] for 1 round and [[Conditions/Frightened|Frightened 3]]."
 
   - name: "Shared Feast"
     desc: "`pf2:2`  The sedacthy makes a jaws Strike. If it hits, an ally of their choice can spend a reaction to make a jaws Strike against the same target. Allies with beaks or similar attacks can use those instead of jaws."
  
+```
+
+```encounter-table
+name: Sedacthy Marauder
+creatures:
+  - 1: Sedacthy Marauder
 ```
 
 

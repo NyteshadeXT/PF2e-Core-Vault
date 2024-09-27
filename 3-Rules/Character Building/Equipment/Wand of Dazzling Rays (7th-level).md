@@ -13,7 +13,7 @@ license: OGL
 ---
 # Wand of Dazzling Rays (7th-level)
 ## Item 16
-### [[fire]][[3-Rules/Character Building/Spells/Light]][[magical]][[wand]]
+### [[fire]][[light]][[magical]][[wand]]
 
 
 **Price** 10000 gp; 

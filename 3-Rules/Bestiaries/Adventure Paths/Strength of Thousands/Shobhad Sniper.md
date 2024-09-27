@@ -6,6 +6,7 @@ cssClasses: pf2e
 aliases: "Compendium.pf2e.strength-of-thousands-bestiary.Actor.RJKVH3fxPEiTCwt5" 
 tags:
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/17
 statblock: inline
 name: "Shobhad Sniper"
@@ -20,10 +21,10 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #173: Doorway to the Red Star"
 name: "Shobhad Sniper"
 level: "Creature 17"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Large"
-trait_01: "humanoid"
+trait_01: [[humanoid]]
 modifier: 30
 perception:
   - name: "Perception"
@@ -69,11 +70,17 @@ attacks:
     desc: "`pf2:1` Longrifle +34 (backstabber, concussive, fatal d12, kickback, range increment 120 feet, reload 1, volley 30 ft.)\n__Damage__  3d8 + 9 bludgeoning"
 
   - name: "Sniper's Devastation"
-    desc: "`pf2:3`  The shobhad sniper makes a fist Strike against a Medium or smaller creature. If this attack is successful, the shobhad sniper deals no damage, but they immediately [[Bestiary Ability Glossary/Grab|Grab]] and throw their target up to 30 feet in a direction of their choice and then make a ranged Strike with their longrifle against the target, after which the target falls [[Conditions/Prone|Prone]] in the designated location.\nAs normal, the creature doesn't take any additional falling damage from the throw."
+    desc: "`pf2:3`  The shobhad sniper makes a fist Strike against a Medium or smaller creature. If this attack is successful, the shobhad sniper deals no damage, but they immediately [[Bestiary Ability Glossary/Grab|Grab]] and throw their target up to 30 feet in a direction of their choice and then make a ranged Strike with their longrifle against the target, after which the target falls [[Conditions/Prone|Prone]] in the designated location.\n\nAs normal, the creature doesn't take any additional falling damage from the throw."
 
   - name: "Sniping Shot"
     desc: "`pf2:2`  The shobhad sniper makes a Strike with their longrifle, gaining a +2 circumstance bonus to this Strike's attack roll and ignoring the target's concealment."
  
+```
+
+```encounter-table
+name: Shobhad Sniper
+creatures:
+  - 1: Shobhad Sniper
 ```
 
 

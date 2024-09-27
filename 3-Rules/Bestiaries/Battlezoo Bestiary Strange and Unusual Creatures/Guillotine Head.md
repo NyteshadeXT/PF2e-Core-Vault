@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/undead
   - pf2e/creature/type/unholy
+  - pf2eMonster
   - pf2e/creature/level/0
 statblock: inline
 name: "Guillotine Head"
@@ -23,20 +24,20 @@ token: [[modules/battlezoo-bestiary-su-pf2e/art/Portraits/guillotine-head.webp| 
 source: "Battlezoo Bestiary: Strange and Unusual"
 name: "Guillotine Head"
 level: "Creature 0"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "tiny"
-trait_01: "evil"
-trait_02: "undead"
-trait_03: "unholy"
+trait_01: [[evil]]
+trait_02: [[undead]]
+trait_03: [[unholy]]
 modifier: 5
 perception:
   - name: "Perception"
     desc: "+5; Darkvision"
-languages: "Common, Necril"
+languages: "Common, Necril; can&#x27;t speak any language"
 skills:
   - name: "Skills"
-    desc: "Stealth: +5, Survival: +3, "
+    desc: "Stealth: +5, Survival: +3, Stealth: +5, Survival: +3"
 abilityMods: [3, 1, 0, 0, 1, -1]
 speed: 15 feet
 sourcebook: "_Battlezoo Bestiary: Strange and Unusual_"
@@ -61,7 +62,7 @@ attacks:
     desc: "`pf2:1` Jaws +7 (reach 0 feet)\n__Damage__  1d4 + 3 piercing"
 
   - name: "Grinding Teeth"
-    desc: "`pf2:2` (auditory) The guillotine head grinds its teeth, producing a sickening noise. All living creatures within 15 feet of the guillotine head must attempt a DC 14 Will check save. The guillotine head can't use Grinding Teeth again for 1d4 rounds.\n**Critical Success** The target is unaffected.\n**Success** The target is Sickened 1.\n**Failure** The target is Sickened 2.\n**Critical Failure** The target is sickened 2 and Fleeing for 1 round."
+    desc: "`pf2:2` (auditory) The guillotine head grinds its teeth, producing a sickening noise. All living creatures within 15 feet of the guillotine head must attempt a DC 14 Will check save. The guillotine head can't use Grinding Teeth again for 1d4 rounds.\n* * *\n\n**Critical Success** The target is unaffected.\n\n**Success** The target is [[undefined]].\n\n**Failure** The target is [[undefined]].\n\n**Critical Failure** The target is sickened 2 and [[undefined]] for 1 round."
 
   - name: "Rolling Movement"
     desc: "  Whenever the guillotine head Strides, it is only capable of rolling and can only ascend gentle slopes. The guillotine head is unable to climb stairs but can fall down them if necessary. If the guillotine head descends a slope, its Speed is doubled during that part of its movement."
@@ -69,6 +70,12 @@ attacks:
   - name: "Torn Flesh"
     desc: "  When the guillotine head critically hits with a jaws attack, it deals 1d4 persistent bleed damage."
  
+```
+
+```encounter-table
+name: Guillotine Head
+creatures:
+  - 1: Guillotine Head
 ```
 
 

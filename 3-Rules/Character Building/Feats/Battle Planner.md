@@ -7,8 +7,9 @@ tags:
   - trait/skill
   - trait/common
   - category/skill
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.qvLcZGsV0HP2O0CG"
-license: OGL
+license: ORC
 ---
 # Battle Planner
 ## Feat 2
@@ -24,5 +25,5 @@ You are constantly drawing up plans and battle scenarios, assembling strategies 
 
 Roll a Warfare Lore check. As long as the information was accurate and remains accurate when you roll initiative against those enemies, you can use the Warfare Lore result you previously rolled for your initiative roll; if you do, this is a fortune effect.
 
-*Source: Pathfinder Advanced Player's Guide*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

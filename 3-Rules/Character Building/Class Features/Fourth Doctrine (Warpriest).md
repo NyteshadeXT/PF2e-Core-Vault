@@ -12,7 +12,7 @@ license: ORC
 ---
 # Fourth Doctrine (Warpriest)
 ## Feat 11
-### [[cleric]]
+### [[3-Rules/trait_reference/cleric]]
 
 **Category** classfeature; 
 

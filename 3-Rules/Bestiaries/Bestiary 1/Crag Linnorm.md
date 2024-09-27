@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/dragon
   - pf2e/creature/type/evil
   - pf2e/creature/type/fire
+  - pf2eMonster
   - pf2e/creature/level/14
 statblock: inline
 name: "Crag Linnorm"
@@ -24,13 +25,13 @@ token: [[modules/pf2e-tokens-bestiaries/portraits/draconic/linnorms/crag-linnorm
 source: "Pathfinder Bestiary"
 name: "Crag Linnorm"
 level: "Creature 14"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "grg"
-trait_01: "chaotic"
-trait_02: "dragon"
-trait_03: "evil"
-trait_04: "fire"
+trait_01: [[chaotic]]
+trait_02: [[dragon]]
+trait_03: [[evil]]
+trait_04: [[fire]]
 modifier: 26
 perception:
   - name: "Perception"
@@ -57,10 +58,10 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "[[Bestiary Ability Glossary/Attack of Opportunity|Attack of Opportunity (Tail Only)]]"
-    desc: "`pf2:r`  Tail only\n"
+    desc: "`pf2:r`  Tail only\n\n* * *\n"
 
   - name: "Curse of Fire"
-    desc: " (curse,fire,primal) When a creature slays a crag linnorm, it must succeed at a DC 35 Will check save or permanently gain weakness to fire 15.\n[[Bestiary Effects/Effect_ Curse of Fire|Effect: Curse of Fire]]"
+    desc: " (curse,fire,primal) When a creature slays a crag linnorm, it must succeed at a DC 35 Will check save or permanently gain weakness to fire 15.\n\n[[Bestiary Effects/Effect_ Curse of Fire|Effect: Curse of Fire]]"
 
 attacks:
   - name: ""
@@ -78,14 +79,20 @@ attacks:
     desc: "DC 33, attack +25\n__Constant__  __(6th)__ _[[Spells/Unfettered Movement|Freedom of Movement]]_ __(5th)__ _[[Spells/Truesight|True Seeing]]_"
 
   - name: "Breath Weapon"
-    desc: "`pf2:2` (fire,primal) The crag linnorm breathes out a stream of magma in a 120-foot line that deals 12d6 fire damage to creatures within the area (DC 34 Reflex check save). Any creature that fails its save also takes 4d6 persistent fire damage.\nThe crag linnorm can't use Breath Weapon again for 1d4 rounds.\nThe magma remains until the start of the linnorm's next turn. If the linnorm was on the ground, the magma remains as a burning line on the ground directly under the line of the Breath Weapon, and if the linnorm was airborne, the magma rains downward in a sheet 60 feet high. Any creature that moves across or through the magma takes 6d6 fire damage (DC 34 Reflex check save). At the start of the linnorm's next turn, the magma cools to a thin layer of brittle stone on the ground, or the magma rain finishes falling and turns to harmless pebbles. The cooled magma quickly degrades to powder and sand over the course of several hours."
+    desc: "`pf2:2` (fire,primal) The crag linnorm breathes out a stream of magma in a @Template[line|distance:120] that deals 12d6 fire damage to creatures within the area (DC 34 Reflex check save). Any creature that fails its save also takes 4d6 persistent fire damage.\n\nThe crag linnorm can't use Breath Weapon again for 1d4 rounds.\n\nThe magma remains until the start of the linnorm's next turn. If the linnorm was on the ground, the magma remains as a burning line on the ground directly under the line of the Breath Weapon, and if the linnorm was airborne, the magma rains downward in a sheet 60 feet high. Any creature that moves across or through the magma takes 6d6 fire damage (DC 34 Reflex check save). At the start of the linnorm's next turn, the magma cools to a thin layer of brittle stone on the ground, or the magma rain finishes falling and turns to harmless pebbles. The cooled magma quickly degrades to powder and sand over the course of several hours."
 
   - name: "[[Bestiary Ability Glossary/Constrict|Constrict]]"
-    desc: "`pf2:1`  2d6 + 14 bludgeoning damage, DC 34 Fortitude check save\n"
+    desc: "`pf2:1`  2d6+14 bludgeoning damage, DC 34 Fortitude check save\n\n* * *\n"
 
   - name: "Crag Linnorm Venom"
-    desc: " (fire,injury,poison) **Saving Throw** DC 34 Fortitude check\n**Maximum Duration** 10 rounds\n**Stage 1** 4d6 fire damage and [[Conditions/Drained 1|Drained 1]]\n**Stage 2** 6d6 fire damage and [[Conditions/Drained 1|Drained 2]]"
+    desc: " (fire,injury,poison) **Saving Throw** DC 34 Fortitude check\n* * *\n\n**Maximum Duration** 10 rounds\n\n**Stage 1** 4d6 fire damage and [[Conditions/Drained|Drained 1]]\n\n**Stage 2** 6d6 fire damage and [[Conditions/Drained|Drained 2]]"
  
+```
+
+```encounter-table
+name: Crag Linnorm
+creatures:
+  - 1: Crag Linnorm
 ```
 
 

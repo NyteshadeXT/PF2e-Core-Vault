@@ -6,8 +6,9 @@ tags:
   - trait/swashbuckler
   - trait/common
   - category/class
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.2MHzEh1KUQEbhjUf"
-license: OGL
+license: ORC
 ---
 # Vivacious Bravado `pf2:1`
 ## Feat 8
@@ -24,5 +25,5 @@ license: OGL
 
 Your ego swells, granting you a temporary reprieve from your pain. You gain temporary Hit Points equal to your level plus your Charisma modifier that last until the start of your next turn.
 
-*Source: Pathfinder Advanced Player's Guide*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

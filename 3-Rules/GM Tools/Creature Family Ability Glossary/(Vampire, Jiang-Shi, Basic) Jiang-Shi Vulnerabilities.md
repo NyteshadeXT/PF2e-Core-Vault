@@ -26,9 +26,9 @@ All jiang-shi possess the following vulnerabilities.
 
 **Critical Success** The jiang-shi is unaffected.
 
-**Success** The jiang-shi is [[Conditions/Stupefied 1|Stupefied 1]] for 1 round.
+**Success** The jiang-shi is [[Conditions/Stupefied|Stupefied 1]] for 1 round.
 
-**Failure** The jiang-shi is [[Conditions/Stupefied 1|Stupefied 2]] for 1 minute.
+**Failure** The jiang-shi is [[Conditions/Stupefied|Stupefied 2]] for 1 minute.
 
 **Critical Failure** The jiang-shi is stupefied 2 and [[Conditions/Confused|Confused]] for 1 minute.
 

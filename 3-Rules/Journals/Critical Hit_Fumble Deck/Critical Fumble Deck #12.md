@@ -8,7 +8,7 @@ tags:
 ---
 # Second Thoughts
 
-> You are [[Conditions/Sickened 1|Sickened 3]]
+> You are [[Conditions/Sickened|Sickened 3]]
 
 `Melee`
 

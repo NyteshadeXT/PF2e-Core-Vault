@@ -12,7 +12,7 @@ license: OGL
 ---
 # Conduit Shot (Greater)
 ## Item 14
-### [[consumable]][[magical]]
+### [[consumable]][[3-Rules/Rule References/Magical]]
 
 **Category** ammo; 
 **Price** 600 gp; 

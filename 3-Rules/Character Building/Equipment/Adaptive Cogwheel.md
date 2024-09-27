@@ -13,7 +13,7 @@ license: OGL
 ---
 # Adaptive Cogwheel
 ## Item 2
-### [[consumable]][[magical]][[talisman]]
+### [[consumable]][[3-Rules/Rule References/Magical]][[talisman]]
 
 **Category** talisman; 
 **Price** 5 gp; 

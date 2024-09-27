@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/humanoid
   - pf2e/creature/type/lawful
   - pf2e/creature/type/strix
+  - pf2eMonster
   - pf2e/creature/level/2
 statblock: inline
 name: "Strix Kinmate"
@@ -23,12 +24,12 @@ token: [[modules/pf2e-tokens-bestiaries/portraits/humanoid/strix-kinmate.webp| ]
 source: "Pathfinder Bestiary 3"
 name: "Strix Kinmate"
 level: "Creature 2"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Medium"
-trait_01: "humanoid"
-trait_02: "lawful"
-trait_03: "strix"
+trait_01: [[humanoid]]
+trait_02: [[lawful]]
+trait_03: [[strix]]
 modifier: 9
 perception:
   - name: "Perception"
@@ -71,8 +72,14 @@ attacks:
     desc: "  Strix kinmates are tightly bonded to one another, adept at teamwork and supporting each other's attacks. If an enemy is within reach of both the kinmate and one other strix, that enemy is [[Conditions/Off-Guard|Off-Guard]] to all strix."
 
   - name: "Strix Vengeance"
-    desc: " (emotion,mental) **Frequency** once per 10 minutes\n**Trigger** The kinmate or a strix ally they can see is damaged by an enemy's critical hit\n**Effect** Until the end of their next turn, the kinmate gains a +1d6 status bonus to damage rolls on Strikes they make against the triggering enemy."
+    desc: " (emotion,mental) **Frequency** once per 10 minutes\n\n**Trigger** The kinmate or a strix ally they can see is damaged by an enemy's critical hit\n* * *\n\n**Effect** Until the end of their next turn, the kinmate gains a +1d6 status bonus to damage rolls on Strikes they make against the triggering enemy."
  
+```
+
+```encounter-table
+name: Strix Kinmate
+creatures:
+  - 1: Strix Kinmate
 ```
 
 

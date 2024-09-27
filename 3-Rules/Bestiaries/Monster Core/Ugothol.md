@@ -6,6 +6,7 @@ cssClasses: pf2e
 aliases: "Compendium.pf2e.pathfinder-monster-core.Actor.fRjJkktWp7s8NBN7" 
 tags:
   - pf2e/creature/type/aberration
+  - pf2eMonster
   - pf2e/creature/level/4
   - remaster
 statblock: inline
@@ -25,7 +26,7 @@ level: "Creature 4"
 
 alignment: ""
 size: "Medium"
-trait_01: "aberration"
+trait_01: [[aberration]]
 modifier: 10
 perception:
   - name: "Perception"
@@ -68,7 +69,7 @@ attacks:
     desc: " (concentrate,occult,polymorph) The ugothol spends 10 minutes reshaping its appearance to take on the shape of any Small or Medium humanoid. It gains a +4 circumstance bonus to Deception checks to pass as that creature."
 
   - name: "Blood Nourishment"
-    desc: "`pf2:1`  The ugothol uses its three-pronged tongue to drink the blood of an adjacent [[Conditions/Restrained|Restrained]] or [[Conditions/Unconscious|Unconscious]] creature. The creature gains [[Conditions/Drained 1|Drained 1]]"
+    desc: "`pf2:1`  The ugothol uses its three-pronged tongue to drink the blood of an adjacent [[Conditions/Restrained|Restrained]] or [[Conditions/Unconscious|Unconscious]] creature. The creature gains [[Conditions/Drained|Drained 1]]"
 
   - name: "Compression"
     desc: "  When the ugothol successfully [[Actions/Squeeze|Squeezes]], it moves through the tight space at full speed. Narrow confines are not difficult terrain for an ugothol."
@@ -82,6 +83,12 @@ attacks:
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
     desc: "`pf2:1`  "
  
+```
+
+```encounter-table
+name: Ugothol
+creatures:
+  - 1: Ugothol
 ```
 
 

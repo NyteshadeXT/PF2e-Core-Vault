@@ -14,7 +14,7 @@ license: OGL
 ---
 # Torrent Spellgun (Greater)
 ## Item 11
-### [[consumable]][[magical]][[spellgun]][[3-Rules/Rule References/Water]]
+### [[consumable]][[magical]][[spellgun]][[water]]
 
 **Category** other; 
 **Price** 275 gp; 

@@ -5,6 +5,7 @@ noteType: pf2eHazard
 tags:
   - environmental
   - magical
+  - pf2eHazard
 
 source: Pathfinder Society Scenario #4-16: Dacilane Academy&#x27;s First Great Prank War
 aliases: "Compendium.pf2e.pfs-season-4-bestiary.Actor.TzfxNwZgSLCaIRcL" 
@@ -22,14 +23,14 @@ name: "Hallways Full of Even More Mostly Illusory Opossums"
 level: "Hazard 5"
 
 
-trait_01: "environmental"
-trait_02: "magical"
+trait_01: [[environmental]]
+trait_02: [[magical]]
 modifier: 10
 sourcebook: "_Pathfinder Society Scenario #4-16: Dacilane Academy's First Great Prank War_"
 ac: 25
 armorclass:
   - name: AC
-    desc: "25; __Fort__ +17, __Ref__ +15, __Will__ NaN"
+    desc: "25; __Fort__ +17, __Ref__ +15, "
 hp: 54
 health:
   - name: ""
@@ -54,12 +55,18 @@ attacks:
     desc: "passive This monster doesn't have a single mind (typically because it's a swarm of smaller creatures), and is immune to mental effects that target only a specific number of creatures. It is still subject to mental effects that affect all creatures in an area."
 
   - name: "New Targets"
-    desc: "`pf2:r` **Trigger** A creature walks into the room\n**Effect** The sprites scream \"Surprise!,\" attempt a opossum flyby Strike, and roll initiative."
+    desc: "`pf2:r` **Trigger** A creature walks into the room\n* * *\n\n**Effect** The sprites scream \"Surprise!,\" attempt a opossum flyby Strike, and roll initiative."
   - name: "Melee"
     desc: "Opossum Flyby +15 () "
 
   - name: "Routine"
     desc: "(4 actions) The hazard loses 1 action each turn for each Disable success. Each sprite takes one action to Strike a different randomly chosen PC."
 
+```
+
+```encounter-table
+name: Hallways Full of Even More Mostly Illusory Opossums
+creatures:
+  - 1: Hallways Full of Even More Mostly Illusory Opossums
 ```
 

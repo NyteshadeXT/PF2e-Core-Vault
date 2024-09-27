@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.pathfinder-bestiary.Actor.ZMr28tFTA5NUcBTi"
 tags:
   - pf2e/creature/type/aberration
   - pf2e/creature/type/evil
+  - pf2eMonster
   - pf2e/creature/level/3
 statblock: inline
 name: "Web Lurker"
@@ -25,16 +26,16 @@ level: "Creature 3"
 
 alignment: ""
 size: "Medium"
-trait_01: "aberration"
-trait_02: "evil"
+trait_01: [[aberration]]
+trait_02: [[evil]]
 modifier: 10
 perception:
   - name: "Perception"
     desc: "+10; Darkvision, Tremorsense (Imprecise) 30 Feet"
-languages: "Aklo"
+languages: "Aklo; spider speak"
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +9, Athletics: +9, Crafting: +8 (+12 to Craft Traps and Snares), Stealth: +11"
+    desc: "Acrobatics: +9, Athletics: +9, Crafting: +8, Stealth: +11"
 abilityMods: [4, 4, 3, 1, 3, -1]
 speed: 25 feet,  climb 25 feet
 sourcebook: "_Pathfinder Bestiary_"
@@ -56,7 +57,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Spring upon Prey"
-    desc: "`pf2:r`  **Trigger** A creature touches the web lurker's web while the web lurker is on it.\n**Requirements** Initiative has not yet been rolled.\n**Effect** The web lurker automatically notices the creature and Strides or Climbs before rolling initiative."
+    desc: "`pf2:r`  **Trigger** A creature touches the web lurker's web while the web lurker is on it.\n\n**Requirements** Initiative has not yet been rolled.\n* * *\n\n**Effect** The web lurker automatically notices the creature and Strides or Climbs before rolling initiative."
 
 attacks:
   - name: ""
@@ -71,11 +72,17 @@ attacks:
     desc: "`pf2:1` Web +11 ()\n__Damage__ "
 
   - name: "Web Lurker Venom"
-    desc: " (poison) **Saving Throw** DC 19 Fortitude check\n**Maximum Duration** 10 rounds\n**Stage 1** 1d6 poison damage and [[Conditions/Off-Guard|Off-Guard]] (1 round)\n**Stage 2** 1d6 poison damage, off-guard, and [[Conditions/Slowed 1|Slowed 1]] (1 round)"
+    desc: " (poison) **Saving Throw** DC 19 Fortitude check\n* * *\n\n**Maximum Duration** 10 rounds\n\n**Stage 1** 1d6 poison damage and [[Conditions/Off-Guard|Off-Guard]] (1 round)\n\n**Stage 2** 1d6 poison damage, off-guard, and [[Conditions/Slowed|Slowed 1]] (1 round)"
 
   - name: "Web Trap"
     desc: "  A creature hit by the web lurker's web attack is immobilized and stuck to the nearest surface until it succeeds at DC 20 Acrobatics check check to [[Actions/Escape|Escape]]."
  
+```
+
+```encounter-table
+name: Web Lurker
+creatures:
+  - 1: Web Lurker
 ```
 
 

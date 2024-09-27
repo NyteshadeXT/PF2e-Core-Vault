@@ -10,7 +10,7 @@ license: OGL
 ---
 # Recenter `pf2:1`
 
-### [[concentrate]]
+### [[3-Rules/Rule References/Concentrate]]
 
 
 

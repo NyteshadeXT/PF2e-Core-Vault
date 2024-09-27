@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/aberration
   - pf2e/creature/type/chaotic
   - pf2e/creature/type/ethereal
+  - pf2eMonster
   - pf2e/creature/level/4
 statblock: inline
 name: "Yomhibdi"
@@ -26,9 +27,9 @@ level: "Creature 4"
 
 alignment: ""
 size: "Medium"
-trait_01: "aberration"
-trait_02: "chaotic"
-trait_03: "ethereal"
+trait_01: [[aberration]]
+trait_02: [[chaotic]]
+trait_03: [[ethereal]]
 modifier: 7
 perception:
   - name: "Perception"
@@ -36,7 +37,7 @@ perception:
 languages: "Aklo, Common"
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +13, Athletics: +12, Stealth: +11, "
+    desc: "Acrobatics: +13, Athletics: +12, Stealth: +11"
 abilityMods: [4, 5, 3, 2, 1, 5]
 speed: 25 feet
 sourcebook: "_Battlezoo Bestiary_"
@@ -67,11 +68,17 @@ attacks:
     desc: "DC 19, attack +11; __5th __  _[[Spells/Mind Probe|Mind Probe]]_"
 
   - name: "Dredge Sorrow"
-    desc: "`pf2:2` (emotion,healing,mental) The yomhibdi plumbs the psyche of a creature within 30 feet and brings to the surface their feelings of self-doubt and unoriginality so that the yomhibdi can feast on these negative emotions. The target must attempt a Will save.\nThe yomhibdi can't Dredge Sorrow again for 1d4 rounds.\n**Critical Success** The target is unaffected.\n**Success** The target is Stupefied 1 for 1 round.\n**Failure** The target is Stupefied 2 for 2 rounds, and the yomhibdi regains 14 Hit Points.\n**Critical Failure** The target is Stupefied 3 for 3 rounds, and the yomhibdi regains 28 Hit Points."
+    desc: "`pf2:2` (emotion,healing,mental) The yomhibdi plumbs the psyche of a creature within 30 feet and brings to the surface their feelings of self-doubt and unoriginality so that the yomhibdi can feast on these negative emotions. The target must attempt a DC 21 Will save.\n\nThe yomhibdi can't Dredge Sorrow again for 1d4 rounds.\n* * *\n\n**Critical Success** The target is unaffected.\n\n**Success** The target is [[Conditions/Stupefied|Stupefied 1]] for 1 round.\n\n**Failure** The target is [[Conditions/Stupefied|Stupefied 2]] for 2 rounds, and the yomhibdi regains 14 Hit Points.\n\n**Critical Failure** The target is [[Conditions/Stupefied|Stupefied 3]] for 3 rounds, and the yomhibdi regains 28 Hit Points."
 
   - name: "Flick Ink"
-    desc: "`pf2:1` (visual) The yomhibdi flicks a glob of ink at a single opponent within 5 feet. The target must attempt a Reflex save.\n**Success** The creature is unaffected.\n**Failure** The creature is Blinded. The creature or an adjacent creature can spend 2 actions to wipe away the ink and remove the blinded condition.\n**Critical Failure** As failure, but it takes 3 actions to wipe away the ink."
+    desc: "`pf2:1` (visual) The yomhibdi flicks a glob of ink at a single opponent within 5 feet. The target must attempt a DC 17 Reflex save.\n* * *\n\n**Success** The creature is unaffected.\n\n**Failure** The creature is [[Conditions/Blinded|Blinded]]. The creature or an adjacent creature can spend 2 actions to wipe away the ink and remove the blinded condition.\n\n**Critical Failure** As failure, but it takes 3 actions to wipe away the ink."
  
+```
+
+```encounter-table
+name: Yomhibdi
+creatures:
+  - 1: Yomhibdi
 ```
 
 

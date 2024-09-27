@@ -7,8 +7,9 @@ tags:
   - trait/rage
   - trait/common
   - category/class
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.0kkiE74cyHyxdPe6"
-license: OGL
+license: ORC
 ---
 # Vengeful Strike `pf2:r`
 ## Feat 14
@@ -20,13 +21,13 @@ license: OGL
 
 **Prerequisites** Come and Get Me
 * * *
-**Trigger** A creature within your reach succeeds or critically succeeds at an attack against you.
+**Trigger** A creature within your reach succeeds at an attack against you.
 
-**Requirements** You're under the effect of [[Feats/Come and Get Me|Come and Get Me]]
+**Requirements** You're under the effect of Come and Get Me.
 
 * * *
 
-When struck by an enemy, you respond in turn. Make a melee Strike against the triggering creature. This Strike doesn't count toward your multiple attack penalty, and your multiple attack penalty doesn't apply to this Strike.
+When struck by an enemy, you respond in turn. Make a melee Strike against the triggering creature. If the triggering attack was a critical success, you can use Vengeful Strike as a free action instead of a reaction.
 
-*Source: Pathfinder Core Rulebook*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

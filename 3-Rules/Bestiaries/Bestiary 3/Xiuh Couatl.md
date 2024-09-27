@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/beast
   - pf2e/creature/type/couatl
   - pf2e/creature/type/good
+  - pf2eMonster
   - pf2e/creature/level/12
 statblock: inline
 name: "Xiuh Couatl"
@@ -23,17 +24,17 @@ token: [[modules/pf2e-tokens-bestiaries/portraits/bestial/mythological/xiuh-coua
 source: "Pathfinder Bestiary 3"
 name: "Xiuh Couatl"
 level: "Creature 12"
-rare_03: "Rare"
+rare_03: [[Rare]]
 alignment: ""
 size: "Large"
-trait_01: "beast"
-trait_02: "couatl"
-trait_03: "good"
+trait_01: [[beast]]
+trait_02: [[couatl]]
+trait_03: [[good]]
 modifier: 23
 perception:
   - name: "Perception"
     desc: "+23; Darkvision, Thoughtsense (Imprecise) 60 Feet"
-languages: "Common, Draconic, Empyrean"
+languages: "Common, Draconic, Empyrean; telepathy 100 feet"
 skills:
   - name: "Skills"
     desc: "Acrobatics: +21, Arcana: +23, Diplomacy: +26, Intimidation: +26, Nature: +23, Occultism: +23, Society: +21, Stealth: +21, Survival: +21"
@@ -67,23 +68,29 @@ attacks:
     desc: "_[[Spells/Atone|Atone]]_"
 
   - name: "Breath Weapon"
-    desc: "`pf2:2` (arcane,fire) The xiuh couatl breaths a gout of flame and lightning in an 80-foot line that deals 5d8 electricity damage and 5d8 fire damage (DC 32 Reflex check save).\nThe xiuh couatl can't use Breath Weapon again for 1d4 rounds."
+    desc: "`pf2:2` (arcane,fire) The xiuh couatl breaths a gout of flame and lightning in an @Template[line|distance:80] that deals 5d8 electricity damage and 5d8 fire damage (DC 32 Reflex check save).\n\nThe xiuh couatl can't use Breath Weapon again for 1d4 rounds."
 
   - name: "[[Bestiary Ability Glossary/Greater Constrict|Greater Constrict]]"
-    desc: "`pf2:1`  1d10+10 bludgeoning plus 1d8 electricity, DC 32 Fortitude check\n"
+    desc: "`pf2:1`  1d10+10 bludgeoning plus 1d8 electricity, DC 32 Fortitude check\n\n* * *\n"
 
   - name: "Instrument of Retribution"
     desc: "`pf2:3` (occult,polymorph) The xiuh couatl transforms into any simple or martial weapon. The weapon is always a _+2 [[Equipment/Striking (Greater)|Greater Striking]] [[Equipment/Flaming|Flaming]] [[Equipment/Shock|Shock]]_ weapon and can be of any size, chosen by the xiuh couatl when they transform. In weapon form, the xiuh couatl gains Hardness equal to that of the weapon into which they transform, and they retain their Hit Points, saving throws, senses, telepathy, and traits while in weapon form. The xiuh couatl can revert to their normal form by spending a single action, which has the concentrate trait."
 
   - name: "Wrap in Coils"
-    desc: "`pf2:1`  **Requirements** The xiuh couatl has a Medium or smaller creature [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]] in their jaws.\n**Effect** The xiuh couatl moves the creature into their coils, freeing their jaws to make attacks, then uses [[Bestiary Ability Glossary/Constrict|Constrict]] against the creature. The mix couatl can hold as many creatures in their coils as will fit in their space."
+    desc: "`pf2:1`  **Requirements** The xiuh couatl has a Medium or smaller creature [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]] in their jaws.\n* * *\n\n**Effect** The xiuh couatl moves the creature into their coils, freeing their jaws to make attacks, then uses [[Bestiary Ability Glossary/Constrict|Constrict]] against the creature. The mix couatl can hold as many creatures in their coils as will fit in their space."
 
   - name: "Xiuh Couatl Venom"
-    desc: " (poison) A xiuh couatl's poison deals spirit damage rather than poison damage to fiends\n**Saving Throw** DC 32 Fortitude check\n**Maximum Duration** 6 rounds\n**Stage 1** 2d8 poison damage (2d8 spirit damage to fiends) and [[Conditions/Enfeebled 1|Enfeebled 1]] (1 round)\n**Stage 2** 2d10 poison damage (2d10 spirit damage to fiends), enfeebled 1, and -5-foot status penalty to all Speeds (1 round)\n**Stage 3** 3d8 poison damage (3d8 spirit damage to fiends), [[Conditions/Enfeebled 1|Enfeebled 2]], and -10-foot status penalty to all Speeds (1 round)."
+    desc: " (poison) A xiuh couatl's poison deals spirit damage rather than poison damage to fiends\n\n**Saving Throw** DC 32 Fortitude check\n* * *\n\n**Maximum Duration** 6 rounds\n\n**Stage 1** 2d8 poison damage (2d8 spirit damage to fiends) and [[Conditions/Enfeebled|Enfeebled 1]] (1 round)\n\n**Stage 2** 2d10 poison damage (2d10 spirit damage to fiends), enfeebled 1, and -5-foot status penalty to all Speeds (1 round)\n\n**Stage 3** 3d8 poison damage (3d8 spirit damage to fiends), [[Conditions/Enfeebled|Enfeebled 2]], and -10-foot status penalty to all Speeds (1 round)."
 
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
     desc: "`pf2:1`  "
  
+```
+
+```encounter-table
+name: Xiuh Couatl
+creatures:
+  - 1: Xiuh Couatl
 ```
 
 

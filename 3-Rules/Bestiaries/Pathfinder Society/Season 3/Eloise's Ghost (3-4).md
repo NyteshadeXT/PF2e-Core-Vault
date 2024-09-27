@@ -12,6 +12,7 @@ tags:
   - pf2e/creature/type/spirit
   - pf2e/creature/type/undead
   - pf2e/creature/type/unholy
+  - pf2eMonster
   - pf2e/creature/level/6
 statblock: inline
 name: "Eloise&#x27;s Ghost (3-4)"
@@ -26,16 +27,16 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Society Scenario #3-02: The East Hill Haunting"
 name: "Eloise's Ghost (3-4)"
 level: "Creature 6"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Medium"
-trait_01: "chaotic"
-trait_02: "evil"
-trait_03: "ghost"
-trait_04: "incorporeal"
-trait_05: "spirit"
-trait_06: "undead"
-trait_07: "unholy"
+trait_01: [[chaotic]]
+trait_02: [[evil]]
+trait_03: [[ghost]]
+trait_04: [[incorporeal]]
+trait_05: [[spirit]]
+trait_06: [[undead]]
+trait_07: [[unholy]]
 modifier: 13
 perception:
   - name: "Perception"
@@ -43,7 +44,7 @@ perception:
 languages: "Common"
 skills:
   - name: "Skills"
-    desc: "Dwelling Lore: +13, Stealth: +15"
+    desc: "Stealth: +15, Dwelling Lore: +13"
 abilityMods: [-5, 3, 0, 0, 2, 4]
 speed:  fly 25 feet
 sourcebook: "_Pathfinder Society Scenario #3-02: The East Hill Haunting_"
@@ -74,8 +75,14 @@ attacks:
     desc: "`pf2:1` Ghostly Hand +16 (agile, finesse, magical)\n__Damage__  2d8 + 4 void"
 
   - name: "[[Creature Family Ability Glossary/(Ghost) Frightful Moan|Frightful Moan]]"
-    desc: "`pf2:1` (auditory,divine,emotion,fear,mental) Eloise's ghost laments her fate, forcing each living creature within 30 feet to attempt a DC 23 Will check save.\nOn a failure, a creature becomes [[Conditions/Frightened 1|Frightened 2]] (or [[Conditions/Frightened 1|Frightened 3]] on a critical failure). On a success, a creature is temporarily immune to this ghost's frightful moan for 1 minute."
+    desc: "`pf2:1` (auditory,divine,emotion,fear,mental) Eloise's ghost laments her fate, forcing each living creature within 30 feet to attempt a DC 23 Will check save.\n\nOn a failure, a creature becomes [[Conditions/Frightened|Frightened 2]] (or [[Conditions/Frightened|Frightened 3]] on a critical failure). On a success, a creature is temporarily immune to this ghost's frightful moan for 1 minute."
  
+```
+
+```encounter-table
+name: Eloise's Ghost (3-4)
+creatures:
+  - 1: Eloise's Ghost (3-4)
 ```
 
 

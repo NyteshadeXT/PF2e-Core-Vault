@@ -12,7 +12,7 @@ license: ORC
 ---
 # Rogue Expertise
 ## Feat 11
-### [[rogue]]
+### [[3-Rules/trait_reference/rogue]]
 
 **Category** classfeature; 
 

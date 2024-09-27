@@ -14,7 +14,7 @@ license: OGL
 ---
 # Skyrider Sword
 ## Item 14
-### [uncommon](uncommon "Uncommon Rarity Trait")[[3-Rules/Rule References/Air]][[magical]][[versatile-p]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[air]][[magical]][[versatile-p]]
 
 |  |  |
 | -- | -- |

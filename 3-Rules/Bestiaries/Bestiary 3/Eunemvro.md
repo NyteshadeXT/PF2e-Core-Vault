@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/humanoid
   - pf2e/creature/type/lawful
   - pf2e/creature/type/vitality
+  - pf2eMonster
   - pf2e/creature/level/5
 statblock: inline
 name: "Eunemvro"
@@ -23,12 +24,12 @@ token: [[modules/pf2e-tokens-bestiaries/portraits/planar/energy/eunemvro.webp| ]
 source: "Pathfinder Bestiary 3"
 name: "Eunemvro"
 level: "Creature 5"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Medium"
-trait_01: "humanoid"
-trait_02: "lawful"
-trait_03: "vitality"
+trait_01: [[humanoid]]
+trait_02: [[lawful]]
+trait_03: [[vitality]]
 modifier: 11
 perception:
   - name: "Perception"
@@ -36,7 +37,7 @@ perception:
 languages: "Common"
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +14, Athletics: +13, Forge of Creation Lore: +12, Intimidation: +10, Stealth: +12, Undead Lore: +14"
+    desc: "Acrobatics: +14, Athletics: +13, Intimidation: +10, Stealth: +12, Forge of Creation Lore: +12, Undead Lore: +14"
 abilityMods: [4, 5, 4, 3, 2, 3]
 speed: 35 feet
 sourcebook: "_Pathfinder Bestiary 3_"
@@ -58,7 +59,7 @@ abilities_mid:
     desc: "`pf2:r`  "
 
   - name: "Retributive Suplex"
-    desc: "`pf2:r`  **Trigger** A Medium or smaller creature attempts a melee Strike against the eunemvro and the attack roll is a critical failure\n**Effect** The eunemvro seizes the triggering creature, using the attacker's momentum to send them flailing overhead. The triggering creature must succeed at a DC 23 Reflex check save or be forcibly moved to a space on the opposite side of the eunemvro, landing [[Conditions/Prone|Prone]]."
+    desc: "`pf2:r`  **Trigger** A Medium or smaller creature attempts a melee Strike against the eunemvro and the attack roll is a critical failure\n* * *\n\n**Effect** The eunemvro seizes the triggering creature, using the attacker's momentum to send them flailing overhead. The triggering creature must succeed at a DC 23 Reflex check save or be forcibly moved to a space on the opposite side of the eunemvro, landing [[Conditions/Prone|Prone]]."
 
 attacks:
   - name: ""
@@ -76,11 +77,17 @@ attacks:
     desc: "  The eunemvro's Strikes deal damage that's either bludgeoning or vitality - whichever deals more damage to the target creature."
 
   - name: "Tide of Creation"
-    desc: "`pf2:2` (light,occult,vitality) **Requirements** The eunemvro isn't [[Conditions/Fatigued|Fatigued]]\n**Effect** The eunemvro channels from their soul a blast of searing vitality energy, bathing their enemies in a wave of blinding light and cosmic power.\nThe eunemvro creates either a 10-foot cone or a 30-foot line, dealing 6d8 vitality damage (DC 22 Fortitude check save). A creature that critically fails its save is [[Conditions/Blinded|Blinded]] for 1d4 rounds.\nAfter using this ability, the eunemvro becomes fatigued."
+    desc: "`pf2:2` (light,occult,vitality) **Requirements** The eunemvro isn't [[Conditions/Fatigued|Fatigued]]\n* * *\n\n**Effect** The eunemvro channels from their soul a blast of searing vitality energy, bathing their enemies in a wave of blinding light and cosmic power.\n\nThe eunemvro creates either a @Template[cone|distance:10] or a @Template[line|distance:30], dealing 6d8 vitality damage (DC 22 Fortitude check save). A creature that critically fails its save is [[Conditions/Blinded|Blinded]] for 1d4 rounds.\n\nAfter using this ability, the eunemvro becomes fatigued."
 
   - name: "[[Bestiary Ability Glossary/Knockdown|Knockdown]]"
     desc: "`pf2:1`  "
  
+```
+
+```encounter-table
+name: Eunemvro
+creatures:
+  - 1: Eunemvro
 ```
 
 

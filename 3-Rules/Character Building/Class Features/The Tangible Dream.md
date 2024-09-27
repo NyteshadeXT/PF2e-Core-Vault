@@ -25,11 +25,11 @@ You pull colors and shapes from the depth of your mind, projecting impossible cr
 *   1st: [[Spells/Dizzying Colors|Dizzying Colors]]
 *   2nd: [[Spells/Mirror Image|Mirror Image]]
 *   3rd: [[Spells/Sea of Thought|Sea of Thought]]
-*   4th: [[Spells/Resilient Sphere|Resilient Sphere]]
+*   4th: [[Spells/Containment|Containment]]
 *   5th: [[Spells/Etheric Shards|Etheric Shards]]
 *   6th: [[Spells/Blade Barrier|Blade Barrier]]
 *   7th: [[Spells/Project Image|Project Image]]
-*   8th: [[Spells/Scintillating Pattern|Scintillating Pattern]]
+*   8th: [[Spells/Confusing Colors|Confusing Colors]]
 *   9th: [[Spells/Prismatic Sphere|Prismatic Sphere]]
 
 **Standard Psi Cantrips**
@@ -58,7 +58,7 @@ surface: [[Spells/Imaginary Weapon|Imaginary Weapon]]
 
 deeper: [[Spells/Astral Rain|Astral Rain]]
 
-**Amp** The area changes to a 5-foot burst, and you can Sustain the Spell up to 1 minute. The first time each round that you Sustain the Spell, you can move the burst up to 20 feet.
+**Amp** The area changes to a @Template\[burst|distance:5\], and you can Sustain the Spell up to 1 minute. The first time each round that you Sustain the Spell, you can move the burst up to 20 feet.
 
 deepest: [[Spells/Hologram Cage|Hologram Cage]]
 

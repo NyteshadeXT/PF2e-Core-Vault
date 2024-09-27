@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/humanoid
   - pf2e/creature/type/urdefhan
+  - pf2eMonster
   - pf2e/creature/level/12
 statblock: inline
 name: "Urdefhan Hunter"
@@ -25,9 +26,9 @@ level: "Creature 12"
 
 alignment: ""
 size: "Medium"
-trait_01: "evil"
-trait_02: "humanoid"
-trait_03: "urdefhan"
+trait_01: [[evil]]
+trait_02: [[humanoid]]
+trait_03: [[urdefhan]]
 modifier: 26
 perception:
   - name: "Perception"
@@ -35,7 +36,7 @@ perception:
 languages: "Aklo, Daemonic, Sakvroth"
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +24, Nature: +23, Religion: +21, Stealth: +26, Survival: +25 (+27 to Track)"
+    desc: "Acrobatics: +24, Nature: +23, Religion: +21, Stealth: +26, Survival: +25"
 abilityMods: [4, 6, 4, 2, 5, 1]
 speed: 30 feet
 sourcebook: "_Pathfinder #155: Lord of the Black Sands_"
@@ -55,7 +56,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Necrotic Decay"
-    desc: " (divine,void) When an urdefhan dies, its invisible flesh quickly rots away and sublimates into a foul-smelling gas that fills a 5-foot emanation around the body.\nThis gas deals 12d6 void damage to creatures in this area as their flesh curdles and rots as well (DC 32 Fortitude check save)."
+    desc: " (divine,void) When an urdefhan dies, its invisible flesh quickly rots away and sublimates into a foul-smelling gas that fills a @Template[emanation|distance:5] around the body.\n\nThis gas deals 12d6 void damage to creatures in this area as their flesh curdles and rots as well (DC 32 Fortitude check save)."
 
 attacks:
   - name: ""
@@ -76,14 +77,20 @@ attacks:
     desc: "`pf2:1`  The urdefhan hunter makes a ranged Strike at a -2 penalty. The urdefhan deals 4 additional damage with this Strike."
 
   - name: "Double Shot"
-    desc: "`pf2:1`  **Requirements** The urdefhan hunter is wielding a ranged weapon with reload 0\n**Effect** The urdefhan hunter makes two Strikes with the required weapon at a single target. These Strikes both count toward the urdefhan's multiple attack penalty, but the penalty doesn't increase until both attacks are resolved."
+    desc: "`pf2:1`  **Requirements** The urdefhan hunter is wielding a ranged weapon with reload 0\n* * *\n\n**Effect** The urdefhan hunter makes two Strikes with the required weapon at a single target. These Strikes both count toward the urdefhan's multiple attack penalty, but the penalty doesn't increase until both attacks are resolved."
 
   - name: "Mounted Bow Expert"
     desc: "  Urdefhan hunters can make composite longbow Strikes while mounted."
 
   - name: "Wicked Bite"
-    desc: "`pf2:1`  **Requirements** The urdefhan damaged a creature with a jaws Strike on its last action\n**Effect** The urdefhan maintains contact, turning the creature's flesh translucent around the site of the injury. The urdefhan chooses one of two options, each of which requires a DC 32 Fortitude check save. If the jaws Strike was a critical hit, the creature suffers both effects, using the same save result for both.\n*   **Drain Blood** The urdefhan drinks some of the creature's blood. On a failed save, the creature is [[Conditions/Drained 1|Drained 1]] and the urdefhan regains 5 HP (or, on a critical failure, it's [[Conditions/Drained 1|Drained 2]] and the urdefhan regains 10 HP).\n*   **Drain Vitality** (necromancy) The urdefhan draws out some of the creature's vital essence. The creature becomes [[Conditions/Enfeebled 1|Enfeebled 1]] for 1 hour on a failed save (or [[Conditions/Enfeebled 1|Enfeebled 2]] for 1 hour on a critical failure)."
+    desc: "`pf2:1`  **Requirements** The urdefhan damaged a creature with a jaws Strike on its last action\n* * *\n\n**Effect** The urdefhan maintains contact, turning the creature's flesh translucent around the site of the injury. The urdefhan chooses one of two options, each of which requires a DC 32 Fortitude check save. If the jaws Strike was a critical hit, the creature suffers both effects, using the same save result for both.\n\n*   **Drain Blood** The urdefhan drinks some of the creature's blood. On a failed save, the creature is [[Conditions/Drained|Drained 1]] and the urdefhan regains 5 HP (or, on a critical failure, it's [[Conditions/Drained|Drained 2]] and the urdefhan regains 10 HP).\n*   **Drain Vitality** (necromancy) The urdefhan draws out some of the creature's vital essence. The creature becomes [[Conditions/Enfeebled|Enfeebled 1]] for 1 hour on a failed save (or [[Conditions/Enfeebled|Enfeebled 2]] for 1 hour on a critical failure)."
  
+```
+
+```encounter-table
+name: Urdefhan Hunter
+creatures:
+  - 1: Urdefhan Hunter
 ```
 
 

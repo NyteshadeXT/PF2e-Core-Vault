@@ -13,7 +13,7 @@ license: OGL
 ---
 # Research
 
-### [[concentrate]][[exploration]][[linguistic]]
+### [[3-Rules/Rule References/Concentrate]][[exploration]][[linguistic]]
 
 **Category** interaction; 
 

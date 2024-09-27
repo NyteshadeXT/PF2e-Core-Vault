@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.kingmaker-bestiary.Actor.SjU0oB6pOk0XY8VN"
 tags:
   - pf2e/creature/type/dragon
   - pf2e/creature/type/evil
+  - pf2eMonster
   - pf2e/creature/level/19
 statblock: inline
 name: "Minognos-Ushad"
@@ -21,11 +22,11 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Kingmaker"
 name: "Minognos-Ushad"
 level: "Creature 19"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "huge"
-trait_01: "dragon"
-trait_02: "evil"
+trait_01: [[dragon]]
+trait_02: [[evil]]
 modifier: 30
 perception:
   - name: "Perception"
@@ -55,7 +56,7 @@ abilities_mid:
     desc: "`pf2:r`  "
 
   - name: "Savage"
-    desc: "`pf2:r`  **Trigger** A creature [[Conditions/Grabbed|Grabbed]] by Minognos-Ushad critically fails a skill check to Escape.\n**Effect** Minognos-Ushad makes a stinger Strike against the triggering creature."
+    desc: "`pf2:r`  **Trigger** A creature [[Conditions/Grabbed|Grabbed]] by Minognos-Ushad critically fails a skill check to Escape.\n* * *\n\n**Effect** Minognos-Ushad makes a stinger Strike against the triggering creature."
 
 attacks:
   - name: ""
@@ -70,17 +71,23 @@ attacks:
     desc: "`pf2:1` Stinger +37 (agile, reach 20 feet)\n__Damage__  4d6 + 18 piercing plus wyvern-venom"
 
   - name: "Breath Weapon"
-    desc: "`pf2:2` (poison,primal) Minognos-Ushad breathes a 60-foot cone of poison. Creatures in the cone take 20d6 poison damage (DC 41 Reflex check). Minognos-Ushad can't use Breath Weapon again for 1d4 rounds."
+    desc: "`pf2:2` (poison,primal) Minognos-Ushad breathes a @Template[cone|distance:60] of poison. Creatures in the cone take 20d6 poison damage (DC 41 Reflex check). Minognos-Ushad can't use Breath Weapon again for 1d4 rounds."
 
   - name: "Powerful Dive"
     desc: "`pf2:2` (move) Minognos-Ushad Flies up to her fly Speed and must both move forward at least 20 feet and descend at least 10 feet. If she ends her movement within melee reach of at least one enemy her size or smaller, she can make a claw Strike against that enemy. If the claw hits, as a free action she can either automatically [[Bestiary Ability Glossary/Grab|Grab]] the target or knock it [[Conditions/Prone|Prone]]."
 
   - name: "Punishing Momentum"
-    desc: "`pf2:1`  **Requirements** Minognos-Ushad [[Conditions/Grabbed|Grabbed]] a creature this turn using Powerful Dive\n**Effect** Minognos-Ushad can Fly at half Speed while holding the creature in her claws, carrying that creature along with her and dropping it at the end of her movement. Alternatively, she can Strike the creature with her stinger with a +2 circumstance bonus."
+    desc: "`pf2:1`  **Requirements** Minognos-Ushad [[Conditions/Grabbed|Grabbed]] a creature this turn using Powerful Dive\n\n**Effect** Minognos-Ushad can Fly at half Speed while holding the creature in her claws, carrying that creature along with her and dropping it at the end of her movement. Alternatively, she can Strike the creature with her stinger with a +2 circumstance bonus."
 
   - name: "Wyvern Venom"
-    desc: " (poison) **Saving Throw** DC 22 Fortitude check\n**Maximum Duration** 6 rounds\n**Stage 1** 5d6 poison damage (1 round)\n**Stage 2** 6d6 poison damage (1 round)\n**Stage 3** 8d6 poison damage (1 round)"
+    desc: " (poison) **Saving Throw** DC 22 Fortitude check\n* * *\n\n**Maximum Duration** 6 rounds\n\n**Stage 1** 5d6 poison damage (1 round)\n\n**Stage 2** 6d6 poison damage (1 round)\n\n**Stage 3** 8d6 poison damage (1 round)"
  
+```
+
+```encounter-table
+name: Minognos-Ushad
+creatures:
+  - 1: Minognos-Ushad
 ```
 
 

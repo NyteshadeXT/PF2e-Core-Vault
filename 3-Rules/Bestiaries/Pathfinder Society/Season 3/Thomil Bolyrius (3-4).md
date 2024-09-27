@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/human
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/3
 statblock: inline
 name: "Thomil Bolyrius (3-4)"
@@ -22,12 +23,12 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Society Scenario #3-16: Escape from Oppara"
 name: "Thomil Bolyrius (3-4)"
 level: "Creature 3"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Medium"
-trait_01: "evil"
-trait_02: "human"
-trait_03: "humanoid"
+trait_01: [[evil]]
+trait_02: [[human]]
+trait_03: [[humanoid]]
 modifier: 8
 perception:
   - name: "Perception"
@@ -35,7 +36,7 @@ perception:
 languages: "Common"
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +8, Bardic Lore: +7, Deception: +9, Diplomacy: +9, Occultism: +7, Performance: +13 (+14 when playing the lute), Society: +7, Stealth: +8, Underworld Lore: +9"
+    desc: "Acrobatics: +8, Deception: +9, Diplomacy: +9, Occultism: +7, Performance: +13, Society: +7, Stealth: +8, Bardic Lore: +7, Underworld Lore: +9"
 abilityMods: [0, 3, 0, 2, 1, 4]
 speed: 25 feet
 sourcebook: "_Pathfinder Society Scenario #3-16: Escape from Oppara_"
@@ -72,6 +73,12 @@ attacks:
   - name: "Bard Composition Spells"
     desc: "2 Focus Points, DC 21, attack +13; __2nd __  _[[Spells/Counter Performance|Counter Performance]]_, _[[Spells/Lingering Composition|Lingering Composition]]_\n__Cantrips__  __(2nd)__ _[[Spells/Courageous Anthem|Inspire Courage]]_"
  
+```
+
+```encounter-table
+name: Thomil Bolyrius (3-4)
+creatures:
+  - 1: Thomil Bolyrius (3-4)
 ```
 
 

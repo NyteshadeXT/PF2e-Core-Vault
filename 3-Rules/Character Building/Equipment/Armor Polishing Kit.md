@@ -12,7 +12,7 @@ license: OGL
 ---
 # Armor Polishing Kit
 ## Item 1
-### [uncommon](uncommon "Uncommon Rarity Trait")[[alchemical]][[consumable]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[alchemical]][[consumable]]
 
 **Category** other; 
 **Price** 4 gp; 

@@ -10,6 +10,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/giant
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/14
 statblock: inline
 name: "Hill Giant Butcher"
@@ -24,14 +25,14 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Kingmaker"
 name: "Hill Giant Butcher"
 level: "Creature 14"
-rare_03: "Rare"
+rare_03: [[Rare]]
 alignment: ""
 size: "Large"
-trait_01: "chaotic"
-trait_02: "earth"
-trait_03: "evil"
-trait_04: "giant"
-trait_05: "humanoid"
+trait_01: [[chaotic]]
+trait_02: [[earth]]
+trait_03: [[evil]]
+trait_04: [[giant]]
+trait_05: [[humanoid]]
 modifier: 25
 perception:
   - name: "Perception"
@@ -67,14 +68,14 @@ attacks:
   - name: "Melee"
     desc: "`pf2:1` Battle Axe +30 (magical, reach 10 feet, sweep)\n__Damage__  2d8 + 16 slashing"
 
-  - name: "Melee"
+  - name: "Ranged"
+    desc: "`pf2:1` Hatchet +30 (agile, magical, reach 10 feet, sweep, thrown 10 ft.)\n__Damage__  2d6 + 16 slashing"
+
+  - name: "Ranged"
     desc: "`pf2:1` Hatchet +30 (agile, magical, reach 10 feet, sweep, thrown 10 ft.)\n__Damage__  2d6 + 16 slashing"
 
   - name: "Ranged"
     desc: "`pf2:1` Rock +26 (brutal, range increment 120 feet)\n__Damage__  3d4 + 16 bludgeoning plus rock"
-
-  - name: "Ranged"
-    desc: "`pf2:1` Hatchet +30 (agile, magical, reach 10 feet, sweep, thrown 10 ft.)\n__Damage__  2d6 + 16 slashing"
 
   - name: "Primal Innate Spells"
     desc: "DC 31, attack +23; __7th __  _[[Spells/Entangling Flora|Entangle]]_, _[[Spells/Tailwind|Longstrider]]_; __6th __  _[[Spells/Oaken Resilience|Barkskin]]_"
@@ -89,11 +90,17 @@ attacks:
     desc: "`pf2:1`  "
 
   - name: "Twin Butchery"
-    desc: "`pf2:1`  **Frequency** once per round;\n**Requirement** the hill giant butcher is wielding two melee weapons, each in a different hand\n**Effect** The hill giant butcher uses both of its axes against a single target. It makes two Strikes against its menaced prey, one with each of the required weapons. If both hit the same menaced prey, combine their damage for the purpose of its resistances and weaknesses. In addition, if both Strikes hit, the menaced prey is [[Conditions/Off-Guard|Off-Guard]] until the start of the hill giant butcher's next turn. Apply the hill giant butcher's multiple attack penalty normally."
+    desc: "`pf2:1`  **Frequency** once per round;\n\n**Requirement** the hill giant butcher is wielding two melee weapons, each in a different hand\n\n**Effect** The hill giant butcher uses both of its axes against a single target. It makes two Strikes against its menaced prey, one with each of the required weapons. If both hit the same menaced prey, combine their damage for the purpose of its resistances and weaknesses. In addition, if both Strikes hit, the menaced prey is [[Conditions/Off-Guard|Off-Guard]] until the start of the hill giant butcher's next turn. Apply the hill giant butcher's multiple attack penalty normally."
 
   - name: "Wide Swing"
-    desc: "`pf2:1`  The hill giant makes a single greatclub Strike and compares the attack roll result to the ACs of up to two foes within its reach.\nThis counts as two attacks for the hill giant's multiple attack penalty."
+    desc: "`pf2:1`  The hill giant makes a single greatclub Strike and compares the attack roll result to the ACs of up to two foes within its reach.\n\nThis counts as two attacks for the hill giant's multiple attack penalty."
  
+```
+
+```encounter-table
+name: Hill Giant Butcher
+creatures:
+  - 1: Hill Giant Butcher
 ```
 
 

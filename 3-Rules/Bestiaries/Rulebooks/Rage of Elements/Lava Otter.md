@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.rage-of-elements-bestiary.Actor.D1WlR977uIedFwAr"
 tags:
   - pf2e/creature/type/elemental
   - pf2e/creature/type/fire
+  - pf2eMonster
   - pf2e/creature/level/1
   - remaster
 statblock: inline
@@ -25,15 +26,16 @@ level: "Creature 1"
 
 alignment: ""
 size: "Small"
-trait_01: "elemental"
-trait_02: "fire"
+trait_01: [[elemental]]
+trait_02: [[fire]]
 modifier: 7
 perception:
   - name: "Perception"
     desc: "+7; Darkvision"
+languages: ""
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +7, Stealth: +7 (+9 in lava)"
+    desc: "Acrobatics: +7, Stealth: +7"
 abilityMods: [1, 4, 1, -4, 3, 1]
 speed: 25 feet,  swim 40 feet
 sourcebook: "_Pathfinder Rage of Elements_"
@@ -67,11 +69,17 @@ attacks:
     desc: " (fire) Any creature that hits the lava otter with an unarmed Strike or otherwise touches it takes 1 fire damage. If a gallon or more of water touches the lava otter, or if it's affected by a water effect, its outer layer of lava hardens to a rocky shell, deactivating its molten form and imposing weakness 5 to bludgeoning damage. Molten form reactivates if the otter swims in lava for 1 minute."
 
   - name: "Scattering Magma"
-    desc: "`pf2:1` (fire) **Requirements** The otter is in molten form, and its previous action was a successful jaws Strike\n**Effect** The otter grips with its jaws and rapidly twists, flinging lava. The otter deals 1d4 fire damage to all creatures adjacent to it."
+    desc: "`pf2:1` (fire) **Requirements** The otter is in molten form, and its previous action was a successful jaws Strike\n* * *\n\n**Effect** The otter grips with its jaws and rapidly twists, flinging lava. The otter deals 1d4 fire damage to all creatures adjacent to it."
 
   - name: "Tight-Knit Family"
     desc: "  A lava otter can share the same space as another lava otter, but no more than two lava otters can occupy the same space."
  
+```
+
+```encounter-table
+name: Lava Otter
+creatures:
+  - 1: Lava Otter
 ```
 
 

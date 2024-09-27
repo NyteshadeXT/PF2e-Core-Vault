@@ -11,7 +11,7 @@ license: OGL
 ---
 # Boots of Elvenkind (Greater)
 ## Item 11
-### [[invested]][[magical]]
+### [[invested]][[3-Rules/Rule References/Magical]]
 
 
 **Price** 1250 gp; 

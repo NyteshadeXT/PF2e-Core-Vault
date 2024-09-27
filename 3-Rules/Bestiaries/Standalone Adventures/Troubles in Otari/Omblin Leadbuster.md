@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/dwarf
   - pf2e/creature/type/evil
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/2
 statblock: inline
 name: "Omblin Leadbuster"
@@ -22,16 +23,17 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Adventure: Troubles in Otari"
 name: "Omblin Leadbuster"
 level: "Creature 2"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Medium"
-trait_01: "dwarf"
-trait_02: "evil"
-trait_03: "humanoid"
+trait_01: [[dwarf]]
+trait_02: [[evil]]
+trait_03: [[humanoid]]
 modifier: 12
 perception:
   - name: "Perception"
     desc: "+12; Darkvision"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Acrobatics: +8, Society: +5, Stealth: +8, Survival: +6, Thievery: +8"
@@ -54,7 +56,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "[[Bestiary Ability Glossary/Nimble Dodge|Nimble Dodge]]"
-    desc: "`pf2:r`  **Trigger** A creature targets you with an attack and you can see the attacker.\n**Requirements** You are not encumbered\nYou deftly dodge out of the way, gaining a +2 circumstance bonus to AC against the triggering attack."
+    desc: "`pf2:r`  **Trigger** A creature targets you with an attack and you can see the attacker.\n\n**Requirements** You are not encumbered\n* * *\n\nYou deftly dodge out of the way, gaining a +2 circumstance bonus to AC against the triggering attack."
 
 attacks:
   - name: ""
@@ -74,6 +76,12 @@ attacks:
   - name: "Unburdened Iron"
     desc: "  Omblin ignores the reduction to his Speed from armor and deducts 5 feet from any one penalty to his Speed (such as from a spell)."
  
+```
+
+```encounter-table
+name: Omblin Leadbuster
+creatures:
+  - 1: Omblin Leadbuster
 ```
 
 

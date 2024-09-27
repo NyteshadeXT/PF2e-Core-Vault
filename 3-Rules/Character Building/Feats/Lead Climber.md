@@ -7,8 +7,9 @@ tags:
   - trait/skill
   - trait/common
   - category/skill
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.vjQ3VUpYlTAAIx3b"
-license: OGL
+license: ORC
 ---
 # Lead Climber
 ## Feat 2
@@ -20,9 +21,7 @@ license: OGL
 
 **Prerequisites** expert in Athletics
 * * *
-When climbing, you can prepare routes for others to follow, and you can pull your allies up to avoid disaster.
+When climbing, you can prepare routes for others to follow, and you can pull your allies up to avoid disaster. When your allies attempt to Climb a route you set using the Follow the Expert exploration activity, if any of them critically fail their checks to Climb, you can attempt an Athletics check against the same DC. If you succeed, your ally only fails instead of critically failing. If you also critically fail, you both experience the consequences of the critical failure.
 
-When your allies attempt to [[Actions/Climb|Climb]] a route you set using the [[Actions/Follow the Expert|Follow the Expert]] exploration activity, if any of them critically fail their checks to Climb, you can attempt an Athletics check against the same DC. If you succeed, your ally fails instead of critically failing. If you also critically fail, you both experience the consequences of the critical failure.
-
-*Source: Pathfinder Advanced Player's Guide*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

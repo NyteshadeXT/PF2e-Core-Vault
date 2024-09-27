@@ -8,7 +8,6 @@ tags:
   - trait/kineticist
   - trait/polymorph
   - trait/primal
-  - trait/stance
   - trait/common
   - category/class
   - remaster
@@ -17,7 +16,7 @@ license: OGL
 ---
 # Rebirth In Living Stone `pf2:1`
 ## Feat 18
-### [[Earth]][[impulse]][[kineticist]][[polymorph]][[primal]][[stance]]
+### [[earth]][[impulse]][[kineticist]][[polymorph]][[primal]]
 
 **Category** class; 
 

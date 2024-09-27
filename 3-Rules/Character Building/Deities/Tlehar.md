@@ -33,7 +33,7 @@ When casting the [[Spells/Avatar|Avatar]] spell, a worshipper of Tlehar gains th
 
 **Tlehar** Speed 50 feet, Fly speed 70 feet, cannot be [[Conditions/Immobilized|Immobilized]]
 
-Melee `pf2:1` morningstar (versatile piercing, reach 15 feet), Damage 6d6 + 6 bludgeoning
+Melee `pf2:1` morningstar (versatile piercing, reach 15 feet), Damage 6d6+6 bludgeoning
 
 Ranged `pf2:1` morning light (range increment 120 feet), Damage 3d6+3 fire and 3d6+3 vitality
 

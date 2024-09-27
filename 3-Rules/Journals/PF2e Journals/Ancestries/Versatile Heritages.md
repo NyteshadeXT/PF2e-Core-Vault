@@ -48,9 +48,13 @@ Some ancestry feats within a versatile heritage have the lineage trait. These fe
 
 [[Heritages/Dhampir|Dhampir]]
 
+[[Heritages/Dragonblood|Dragonblood]]
+
 [[Heritages/Duskwalker|Duskwalker]]
 
 [[Heritages/Ganzi|Ganzi]]
+
+[[Heritages/Hungerseed|Hungerseed]]
 
 [[Heritages/Naari|Naari]]
 

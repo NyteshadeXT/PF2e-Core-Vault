@@ -7,8 +7,9 @@ tags:
   - trait/rage
   - trait/common
   - category/class
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.Oyml3OGNy468z3XI"
-license: OGL
+license: ORC
 ---
 # Furious Vengeance `pf2:r`
 ## Feat 16
@@ -26,5 +27,5 @@ license: OGL
 
 Your enemy's blow fuels your rage and provokes your immediate retaliation. Make a melee Strike against the triggering enemy.
 
-*Source: Pathfinder Advanced Player's Guide*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

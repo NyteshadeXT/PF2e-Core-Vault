@@ -16,7 +16,7 @@ license: ORC
 ---
 # Clan Dagger
 ## Item 0
-### [uncommon](uncommon "Uncommon Rarity Trait")[[agile]][[dwarf]][[parry]][[versatile-b]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[3-Rules/Rule References/Agile]][[3-Rules/trait_reference/dwarf]][[parry]][[versatile-b]]
 
 |  |  |
 | -- | -- |

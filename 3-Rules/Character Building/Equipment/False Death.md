@@ -14,7 +14,7 @@ license: OGL
 ---
 # False Death
 ## Item 5
-### [uncommon](uncommon "Uncommon Rarity Trait")[[alchemical]][[consumable]][[ingested]][[3-Rules/Rule References/Poison]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[alchemical]][[consumable]][[ingested]][[3-Rules/Rule References/Poison]]
 
 **Category** poison; 
 **Price** 25 gp; 
@@ -33,9 +33,9 @@ Typically used to fake one's death, this poison swiftly causes the imbiber to lo
 
 **Maximum Duration** 5 days
 
-**Stage 1** [[Conditions/Clumsy 1|Clumsy 2]] (1 round)
+**Stage 1** [[Conditions/Clumsy|Clumsy 2]] (1 round)
 
-**Stage 2** unconscious (1 hour)
+**Stage 2** [[Conditions/Unconscious|Unconscious]] (1 hour)
 
 **Stage 3** unconscious (1 day)
 

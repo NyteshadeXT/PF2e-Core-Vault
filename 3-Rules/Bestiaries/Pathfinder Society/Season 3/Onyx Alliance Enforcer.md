@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/fetchling
   - pf2e/creature/type/humanoid
   - pf2e/creature/type/shadow
+  - pf2eMonster
   - pf2e/creature/level/2
 statblock: inline
 name: "Onyx Alliance Enforcer"
@@ -23,13 +24,13 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Society Intro: Year of Shattered Sanctuaries"
 name: "Onyx Alliance Enforcer"
 level: "Creature 2"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Medium"
-trait_01: "evil"
-trait_02: "fetchling"
-trait_03: "humanoid"
-trait_04: "shadow"
+trait_01: [[evil]]
+trait_02: [[fetchling]]
+trait_03: [[humanoid]]
+trait_04: [[shadow]]
 modifier: 8
 perception:
   - name: "Perception"
@@ -69,11 +70,17 @@ attacks:
     desc: "`pf2:1` Hatchet +8 (agile, sweep, thrown 10 ft.)\n__Damage__  1d6 + 5 slashing"
 
   - name: "Dread Striker"
-    desc: "  [[Conditions/Frightened 1|Frightened]] creatures are [[Conditions/Off-Guard|Off-Guard]] to the Onyx Alliance enforcer."
+    desc: "  [[Conditions/Frightened|Frightened]] creatures are [[Conditions/Off-Guard|Off-Guard]] to the Onyx Alliance enforcer."
 
   - name: "Shadow Swipe"
     desc: "`pf2:2` (illusion,occult,shadow) **Effect** The Onyx Alliance enforcer makes a melee Strike. If the attack hits, the enforcer Strides. If the enforcer ends this movement in dim light or darkness, they can attempt to [[Action Macros/Hide_ Stealth|Hide: Stealth]]."
  
+```
+
+```encounter-table
+name: Onyx Alliance Enforcer
+creatures:
+  - 1: Onyx Alliance Enforcer
 ```
 
 

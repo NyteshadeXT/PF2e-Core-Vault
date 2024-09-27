@@ -21,7 +21,7 @@ license: ORC
 
 These clean, white gloves never show signs of blood, even when used to stitch up wounds or treat other ailments. They give you a +2 item bonus to Medicine checks.
 
-**Activate—Healer’s Touch** `pf2:1` (manipulate)
+**Activate—Healer's Touch** `pf2:1` (manipulate)
 
 **Frequency** once per day
 

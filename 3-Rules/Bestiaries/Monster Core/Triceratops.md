@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.pathfinder-monster-core.Actor.zAxKR8XWtQm2rqh4"
 tags:
   - pf2e/creature/type/animal
   - pf2e/creature/type/dinosaur
+  - pf2eMonster
   - pf2e/creature/level/8
   - remaster
 statblock: inline
@@ -26,8 +27,8 @@ level: "Creature 8"
 
 alignment: ""
 size: "huge"
-trait_01: "animal"
-trait_02: "dinosaur"
+trait_01: [[animal]]
+trait_02: [[dinosaur]]
 modifier: 16
 perception:
   - name: "Perception"
@@ -77,6 +78,12 @@ attacks:
   - name: "[[Bestiary Ability Glossary/Knockdown|Knockdown]]"
     desc: "`pf2:1`  "
  
+```
+
+```encounter-table
+name: Triceratops
+creatures:
+  - 1: Triceratops
 ```
 
 

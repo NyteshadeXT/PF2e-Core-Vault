@@ -5,6 +5,7 @@ noteType: pf2eHazard
 tags:
   - mechanical
   - trap
+  - pf2eHazard
 
 source: Pathfinder One-Shot #2: Dinner at Lionlodge
 aliases: "Compendium.pf2e.one-shot-bestiary.Actor.E6e8iE0BgIxLYqQZ" 
@@ -22,14 +23,14 @@ name: "Poisoned Lock (Lionlodge)"
 level: "Hazard 5"
 
 
-trait_01: "mechanical"
-trait_02: "trap"
+trait_01: [[mechanical]]
+trait_02: [[trap]]
 modifier: 13
 sourcebook: "_Pathfinder One-Shot #2: Dinner at Lionlodge_"
 ac: 19
 armorclass:
   - name: AC
-    desc: "19; __Fort__ +15, __Ref__ +9, __Will__ +0"
+    desc: "19; __Fort__ +15, __Ref__ +9, "
 hp: 50
 health:
   - name: ""
@@ -51,14 +52,20 @@ attacks:
   - name: ""
 
   - name: "Spring"
-    desc: "`pf2:r` **Trigger** A creature tries to unlock or [[Actions/Pick a Lock|Pick the Lock]]\n**Effect** The needle extends to attack the triggering creature."
+    desc: "`pf2:r` **Trigger** A creature tries to unlock or [[Actions/Pick a Lock|Pick the Lock]]\n* * *\n\n**Effect** The needle extends to attack the triggering creature."
   - name: "Melee"
     desc: "Needle +19 () plus Enhanced Hunting Spider Venom"
 
   - name: "Enhanced Hunting Spider Venom"
-    desc: "passive (poison) **Saving Throw** DC 23 Fortitude check\n**Maximum Duration** 6 rounds\n**Stage 1** 1d10 poison damage and [[Conditions/Off-Guard|Off-Guard]] (1 round)\n**Stage 2** 1d12 poison damage, [[Conditions/Clumsy 1|Clumsy 1]], and off-guard (1 round)\n**Stage 3** 2d6 poison damage, [[Conditions/Clumsy 1|Clumsy 2]], and off-guard (1 round).\n**Note** The clumsy condition caused by this venom persists for 24 hours before fading."
+    desc: "passive (poison) **Saving Throw** DC 23 Fortitude check\n\n**Maximum Duration** 6 rounds\n* * *\n\n**Stage 1** 1d10 poison damage and [[Conditions/Off-Guard|Off-Guard]] (1 round)\n\n**Stage 2** 1d12 poison damage, [[Conditions/Clumsy|Clumsy 1]], and off-guard (1 round)\n\n**Stage 3** 2d6 poison damage, [[Conditions/Clumsy|Clumsy 2]], and off-guard (1 round).\n* * *\n\n**Note** The clumsy condition caused by this venom persists for 24 hours before fading."
 
 
 
+```
+
+```encounter-table
+name: Poisoned Lock (Lionlodge)
+creatures:
+  - 1: Poisoned Lock (Lionlodge)
 ```
 

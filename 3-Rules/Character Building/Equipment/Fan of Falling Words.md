@@ -10,7 +10,7 @@ license: OGL
 ---
 # Fan of Falling Words
 ## Item 10
-### [uncommon](uncommon "Uncommon Rarity Trait")[[magical]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[3-Rules/Rule References/Magical]]
 
 
 **Price** 900 gp; 
@@ -25,7 +25,7 @@ This folding handheld paper fan appears blank when first found, but if the wield
 
 * * *
 
-**Effect** You manifest the tapestry of your words, causing the image you depict on the fan to leap off its leaves. The fan casts [[Spells/Mirage|Mirage]] to your specifications (DC 27 Will check save to disbelieve). While this only takes three actions to perform (as opposed to the spell's normal 10 minutes of casting), the effect has no range, and the 50-foot burst it creates is centered on you.
+**Effect** You manifest the tapestry of your words, causing the image you depict on the fan to leap off its leaves. The fan casts [[Spells/Mirage|Mirage]] to your specifications (DC 27 Will check save to disbelieve). While this only takes three actions to perform (as opposed to the spell's normal 10 minutes of casting), the effect has no range, and the @Template\[burst|distance:50\] it creates is centered on you.
 
 *Source: Pathfinder #199: To Bloom Below the Web*
 *OGL*

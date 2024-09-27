@@ -74,7 +74,7 @@ You call alternate versions of yourself, either from a different timeline or per
 
 * * *
 
-You reach ahead and make use of time that's yet to be. You become [[Conditions/Quickened|Quickened]] and can use the extra action to Step, Stride, or Strike. You gain this extra action immediately and can use it this turn. At the end of your turn, you become [[Conditions/Stunned 1|Stunned 1]].
+You reach ahead and make use of time that's yet to be. You become [[Conditions/Quickened|Quickened]] and can use the extra action to Step, Stride, or Strike. You gain this extra action immediately and can use it this turn. At the end of your turn, you become [[Conditions/Stunned|Stunned 1]].
 
 ## [[Feats/Steal Time|Steal Time]] Feat 10
 

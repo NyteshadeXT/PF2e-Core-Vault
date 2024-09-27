@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/good
   - pf2e/creature/type/human
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/11
 statblock: inline
 name: "Tempest-Sun Mage"
@@ -25,9 +26,9 @@ level: "Creature 11"
 
 alignment: ""
 size: "Medium"
-trait_01: "good"
-trait_02: "human"
-trait_03: "humanoid"
+trait_01: [[good]]
+trait_02: [[human]]
+trait_03: [[humanoid]]
 modifier: 18
 perception:
   - name: "Perception"
@@ -35,7 +36,7 @@ perception:
 languages: "Common, Mwangi"
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +18, Arcana: +23, Diplomacy: +16, Intimidation: +16, Magaambya Lore: +23, Medicine: +19, Nature: +21, Survival: +21"
+    desc: "Acrobatics: +18, Arcana: +23, Diplomacy: +16, Intimidation: +16, Medicine: +19, Nature: +21, Survival: +21, Magaambya Lore: +23"
 abilityMods: [0, 4, 3, 5, 3, 1]
 speed: 30 feet
 sourcebook: "_Pathfinder Lost Omens: Character Guide_"
@@ -70,11 +71,17 @@ attacks:
     desc: "2 Focus Points, DC 30, attack +20; __6th __  _[[Spells/Elemental Tempest|Elemental Tempest]]_, _[[Spells/Force Bolt|Force Bolt]]_"
 
   - name: "Mask Bond"
-    desc: " (arcane) **Frequency** once per day\n**Trigger** The Tempest-Sun Mage has not acted yet on their turn\n**Effect** The Tempest-Sun Mage expends the power stored in their bonded item, which is their mask. This gives them the ability to cast one spell they prepared today and already cast, without spending a spell slot. They must still [[Actions/Cast a Spell|Cast the Spell]] and meet the spell's other requirements."
+    desc: " (arcane) **Frequency** once per day\n\n**Trigger** The Tempest-Sun Mage has not acted yet on their turn\n* * *\n\n**Effect** The Tempest-Sun Mage expends the power stored in their bonded item, which is their mask. This gives them the ability to cast one spell they prepared today and already cast, without spending a spell slot. They must still [[Actions/Cast a Spell|Cast the Spell]] and meet the spell's other requirements."
 
   - name: "Reach Spell"
     desc: "`pf2:1` (concentrate,spellshape) If the next action the Tempest-Sun Mage uses is to [[Actions/Cast a Spell|Cast a Spell]] that has a range, increase that spell's range by 30 feet. As is standard for increasing spell ranges, if the spell normally has a range of touch, extend its range to 30 feet."
  
+```
+
+```encounter-table
+name: Tempest-Sun Mage
+creatures:
+  - 1: Tempest-Sun Mage
 ```
 
 

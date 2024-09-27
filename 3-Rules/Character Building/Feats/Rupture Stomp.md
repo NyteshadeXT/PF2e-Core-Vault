@@ -25,7 +25,7 @@ license: OGL
 
 * * *
 
-Every dwarf knows that the rock they walk upon can be either a best friend or a treacherous path. With a heavy impact of your armored heel, you crack the ground underneath you. The ground within a 10-foot emanation becomes difficult terrain. If you are a master or better in the armor you are wearing, this becomes greater difficult terrain. The cracked ground settles and reverts to normal terrain after 1 minute.
+Every dwarf knows that the rock they walk upon can be either a best friend or a treacherous path. With a heavy impact of your armored heel, you crack the ground underneath you. The ground within a @Template\[emanation|distance:10\] becomes difficult terrain. If you are a master or better in the armor you are wearing, this becomes greater difficult terrain. The cracked ground settles and reverts to normal terrain after 1 minute.
 
 * * *
 

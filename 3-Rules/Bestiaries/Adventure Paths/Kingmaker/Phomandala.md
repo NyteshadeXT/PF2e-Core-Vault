@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/humanoid
   - pf2e/creature/type/lawful
+  - pf2eMonster
   - pf2e/creature/level/19
 statblock: inline
 name: "Phomandala"
@@ -23,13 +24,13 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Kingmaker"
 name: "Phomandala"
 level: "Creature 19"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Medium"
-trait_01: "dragon"
-trait_02: "evil"
-trait_03: "humanoid"
-trait_04: "lawful"
+trait_01: [[dragon]]
+trait_02: [[evil]]
+trait_03: [[humanoid]]
+trait_04: [[lawful]]
 modifier: 32
 perception:
   - name: "Perception"
@@ -37,7 +38,7 @@ perception:
 languages: "Aklo, Common, Draconic, Fey"
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +35, Arcana: +34, Deception: +37, First World Lore: +37, Intimidation: +37, Nature: +35, Religion: +33"
+    desc: "Acrobatics: +35, Arcana: +34, Deception: +37, Intimidation: +37, Nature: +35, Religion: +33, First World Lore: +37"
 abilityMods: [5, 8, 6, 5, 5, 10]
 speed: 25 feet
 sourcebook: "_Pathfinder Kingmaker_"
@@ -57,10 +58,10 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Biting Snakes"
-    desc: "`pf2:r`  **Trigger** A creature ends its turn adjacent to the medusa.\n**Effect** The medusa makes a snake fangs Strike against the creature."
+    desc: "`pf2:r`  **Trigger** A creature ends its turn adjacent to the medusa.\n* * *\n\n**Effect** The medusa makes a snake fangs Strike against the creature."
 
   - name: "Petrifying Gaze"
-    desc: " (arcane,aura,visual) 30 feet. When a creature ends its turn in the aura, it must attempt a DC 38 Fortitude check save. If the creature fails, it becomes [[Conditions/Slowed 1|Slowed 1]] for 1 minute. The medusa can deactivate or activate this aura by using a single action, which has the concentrate trait."
+    desc: " (arcane,aura,visual) 30 feet. When a creature ends its turn in the aura, it must attempt a DC 38 Fortitude check save. If the creature fails, it becomes [[Conditions/Slowed|Slowed 1]] for 1 minute. The medusa can deactivate or activate this aura by using a single action, which has the concentrate trait."
 
 attacks:
   - name: ""
@@ -75,23 +76,29 @@ attacks:
     desc: "DC 41, attack +36; __10th __ (1 slots) _[[Spells/Revival|Revival]]_; __9th __ (4 slots) _[[Spells/Chain Lightning|Chain Lightning]]_, _[[Spells/Disjunction|Disjunction]]_, _[[Spells/Heal|Heal]]_, _[[Spells/Massacre|Massacre]]_, _[[Spells/Overwhelming Presence|Overwhelming Presence]]_; __8th __ (4 slots) _[[Spells/Dispel Magic|Dispel Magic]]_, _[[Spells/Heal|Heal]]_, _[[Spells/Desiccate|Horrid Wilting]]_, _[[Spells/Lightning Bolt|Lightning Bolt]]_, _[[Spells/Prismatic Wall|Prismatic Wall]]_; __7th __ (4 slots) _[[Spells/Eclipse Burst|Eclipse Burst]]_, _[[Spells/Execute|Finger of Death]]_, _[[Spells/Mask of Terror|Mask of Terror]]_, _[[Spells/Regenerate|Regenerate]]_, _[[Spells/Wall of Thorns|Wall of Thorns]]_; __6th __ (4 slots) _[[Spells/Cursed Metamorphosis|Baleful Polymorph]]_, _[[Spells/Dragon Form|Dragon Form]]_, _[[Spells/Heal|Heal]]_, _[[Spells/Stone to Flesh|Stone to Flesh]]_, _[[Spells/Truesight|True Seeing]]_; __5th __ (4 slots) _[[Spells/Chromatic Wall|Chromatic Wall]]_, _[[Spells/Cone of Cold|Cone of Cold]]_, _[[Spells/Heal|Heal]]_, _[[Spells/Wall of Ice|Wall of Ice]]_, _[[Spells/Wall of Stone|Wall of Stone]]_; __4th __ (4 slots) _[[Spells/Acid Arrow|Acid Arrow]]_, _[[Spells/Charm|Charm]]_, _[[Spells/Unfettered Movement|Freedom of Movement]]_, _[[Spells/Restoration|Restoration]]_, _[[Spells/Spell Immunity|Spell Immunity]]_; __3rd __ (4 slots) _[[Spells/Blindness|Blindness]]_, _[[Spells/Fear|Fear]]_, _[[Spells/Haste|Haste]]_, _[[Spells/One with Stone|Meld into Stone]]_, _[[Spells/Slow|Slow]]_; __2nd __ (4 slots) _[[Spells/Create Food|Create Food]]_, _[[Spells/Enhance Victuals|Enhance Victuals]]_, _[[Spells/Revealing Light|Glitterdust]]_, _[[Spells/Resist Energy|Resist Energy]]_, _[[Spells/Web|Web]]_; __1st __ (4 slots) _[[Spells/Charm|Charm]]_, _[[Spells/Create Water|Create Water]]_, _[[Spells/Gust of Wind|Gust of Wind]]_, _[[Spells/Runic Body|Magic Fang]]_, _[[Spells/Sure Strike|True Strike]]_\n__Cantrips__  __(9th)__ _[[Spells/Acid Splash|Acid Splash]]_, _[[Spells/Void Warp|Chill Touch]]_, _[[Spells/Detect Magic|Detect Magic]]_, _[[Spells/Electric Arc|Electric Arc]]_, _[[Spells/Ghost Sound|Ghost Sound]]_, _[[Spells/Shield|Shield]]_"
 
   - name: "Sorcerer Bloodline Spells"
-    desc: "3 Focus Points, DC 41, attack +36; __10th __  _[[Spells/Dragon Breath|Dragon Breath]]_, _[[Spells/Dragon Claws|Dragon Claws]]_, _[[Spells/Dragon Wings|Dragon Wings]]_"
+    desc: "3 Focus Points, DC 41, attack +36; __10th __  _[[Spells/Dragon Breath|Dragon Breath]]_, _[[Spells/Flurry of Claws|Dragon Claws]]_, _[[Spells/Dragon Wings|Dragon Wings]]_"
 
   - name: "Focus Gaze"
-    desc: "`pf2:1` (arcane,concentrate,incapacitation,visual) The medusa fixes their glare at a creature they can see within 30 feet. The target must immediately attempt a DC 38 Fortitude check save against the medusa's petrifying gaze. If the creature was already [[Conditions/Slowed 1|Slowed]] by petrifying gaze before attempting its save, a failed save causes it to be [[Conditions/Petrified|Petrified]] permanently.\nAfter attempting its save, the creature is then temporarily immune until the start of the medusa's next turn."
+    desc: "`pf2:1` (arcane,concentrate,incapacitation,visual) The medusa fixes their glare at a creature they can see within 30 feet. The target must immediately attempt a DC 38 Fortitude check save against the medusa's petrifying gaze. If the creature was already [[Conditions/Slowed|Slowed]] by petrifying gaze before attempting its save, a failed save causes it to be [[Conditions/Petrified|Petrified]] permanently.\n\nAfter attempting its save, the creature is then temporarily immune until the start of the medusa's next turn."
 
   - name: "Jabberwock Bloodline"
     desc: "  Phomandala's sorcerer bloodline is a result of Nyrissa's infusion of the medusa with jabberwock blood. This bloodline functions as the draconic bloodline, but the damage type caused is a line of sonic energy, and she uses the primal spell list instead of the arcane spell list."
 
   - name: "Phomandala's Venom"
-    desc: " (poison) **Saving Throw** DC 41 Fortitude check\n**Maximum Duration** 6 rounds\n**Stage 1** 6d6 poison damage and [[Conditions/Enfeebled 1|Enfeebled 1]] (1 round)\n**Stage 2** 9d6 poison damage and [[Conditions/Enfeebled 1|Enfeebled 2]] (1 round)"
+    desc: " (poison) **Saving Throw** DC 41 Fortitude check\n* * *\n\n**Maximum Duration** 6 rounds\n\n**Stage 1** 6d6 poison damage and [[Conditions/Enfeebled|Enfeebled 1]] (1 round)\n\n**Stage 2** 9d6 poison damage and [[Conditions/Enfeebled|Enfeebled 2]] (1 round)"
 
   - name: "Quickened Casting"
-    desc: "  **Frequency** once per day\n**Effect** When Phomandala's next action is to cast a spell that is 7th level or lower, she reduces the number of actions to cast it by 1 (minimum 1 action)."
+    desc: "  **Frequency** once per day\n* * *\n\n**Effect** When Phomandala's next action is to cast a spell that is 7th level or lower, she reduces the number of actions to cast it by 1 (minimum 1 action)."
 
   - name: "Woodland Stride"
     desc: "  Even the thickest vines and roots seem to part as Phomandala moves about. Phomandala ignores difficult terrain caused by plants, such as bushes, vines, and undergrowth. Even plants manipulated by magic don't impede her progress."
  
+```
+
+```encounter-table
+name: Phomandala
+creatures:
+  - 1: Phomandala
 ```
 
 

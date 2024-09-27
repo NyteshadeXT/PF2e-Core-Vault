@@ -6,8 +6,9 @@ tags:
   - trait/archetype
   - trait/common
   - category/class
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.dY0jhJOEj6DHc0ud"
-license: OGL
+license: ORC
 ---
 # Destructive Block
 ## Feat 10
@@ -21,9 +22,9 @@ license: OGL
 * * *
 You can protect yourself more effectively, at the expense of your shield.
 
-When you [[Feats/Shield Block|Shield Block]], you can reduce the damage to yourself by double the shield's Hardness, but if you do, the shield takes double the normal amount of damage it would have taken (before applying its Hardness).
+When you Shield Block, you can reduce the damage to yourself by double the shield's Hardness, but if you do, the shield takes double the normal amount of damage it would have taken (before applying its Hardness).
 
-You can't use Destructive Block if your shield can't be broken or destroyed, such as if you're using an [[Equipment/Indestructible Shield|Indestructible Shield]].
+You can't use Destructive Block if your shield can't typically be broken or destroyed, such as if you're using an [[Equipment/Indestructible Shield|Indestructible Shield]].
 
-*Source: Pathfinder Advanced Player's Guide*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

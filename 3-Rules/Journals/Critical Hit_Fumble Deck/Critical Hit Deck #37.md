@@ -8,7 +8,7 @@ tags:
 ---
 # Concussion
 
-> Normal damage. The target is [[Conditions/Confused|Confused]] for 1 minute and [[Conditions/Stupefied 1|Stupefied 2]] until healed.
+> Normal damage. The target is [[Conditions/Confused|Confused]] for 1 minute and [[Conditions/Stupefied|Stupefied 2]] until healed.
 
 `Bludgeoning`
 
@@ -20,7 +20,7 @@ tags:
 
 # Flay
 
-> Normal damage. The target is [[Conditions/Enfeebled 1|Enfeebled 3]] until healed.
+> Normal damage. The target is [[Conditions/Enfeebled|Enfeebled 3]] until healed.
 
 `Slashing`
 

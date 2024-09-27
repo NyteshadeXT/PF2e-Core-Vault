@@ -6,6 +6,7 @@ cssClasses: pf2e
 aliases: "Compendium.pf2e.stolen-fate-bestiary.Actor.Rb85EObfBTL5Q3tU" 
 tags:
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/5
 statblock: inline
 name: "Derhii"
@@ -20,14 +21,14 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #191: The Destiny War"
 name: "Derhii"
 level: "Creature 5"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Large"
-trait_01: "humanoid"
-modifier: 0
+trait_01: [[humanoid]]
+modifier: 12
 perception:
   - name: "Perception"
-    desc: "+0; Darkvision, Scent (Imprecise) 30 Feet"
+    desc: "+12; Darkvision, Scent (Imprecise) 30 Feet"
 languages: "Common, Sussuran"
 skills:
   - name: "Skills"
@@ -71,6 +72,12 @@ attacks:
   - name: "Power Dive"
     desc: "`pf2:2`  The derhii Strides twice while flying, then makes a Strike with a manufactured weapon. If the derhii moved at least 20 feet from their starting position, the Strike's damage is increases by one die, such as increasing falchion damage to 2d10+7. With a melee attack, the derhii can forgo the extra damage to force the target to fall [[Conditions/Prone|Prone]]."
  
+```
+
+```encounter-table
+name: Derhii
+creatures:
+  - 1: Derhii
 ```
 
 

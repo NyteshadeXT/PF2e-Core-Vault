@@ -10,6 +10,7 @@ tags:
   - pf2e/creature/type/chaotic
   - pf2e/creature/type/good
   - pf2e/creature/type/holy
+  - pf2eMonster
   - pf2e/creature/level/7
 statblock: inline
 name: "Lillend"
@@ -28,16 +29,16 @@ level: "Creature 7"
 
 alignment: ""
 size: "Large"
-trait_01: "azata"
-trait_02: "celestial"
-trait_03: "chaotic"
-trait_04: "good"
-trait_05: "holy"
+trait_01: [[azata]]
+trait_02: [[celestial]]
+trait_03: [[chaotic]]
+trait_04: [[good]]
+trait_05: [[holy]]
 modifier: 16
 perception:
   - name: "Perception"
     desc: "+16; Darkvision"
-languages: "Diabolic, Draconic, Empyrean"
+languages: "Diabolic, Draconic, Empyrean; speak with animals, speak with plants, tongues"
 skills:
   - name: "Skills"
     desc: "Acrobatics: +14, Deception: +16, Diplomacy: +18, Nature: +14, Performance: +20, Religion: +14, Survival: +12"
@@ -77,6 +78,12 @@ attacks:
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
     desc: "`pf2:1`  "
  
+```
+
+```encounter-table
+name: Lillend
+creatures:
+  - 1: Lillend
 ```
 
 

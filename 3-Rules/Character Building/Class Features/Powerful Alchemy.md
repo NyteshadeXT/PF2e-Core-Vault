@@ -11,7 +11,7 @@ license: OGL
 ---
 # Powerful Alchemy
 ## Feat 5
-### [[alchemist]]
+### [[3-Rules/trait_reference/alchemist]]
 
 **Category** classfeature; 
 

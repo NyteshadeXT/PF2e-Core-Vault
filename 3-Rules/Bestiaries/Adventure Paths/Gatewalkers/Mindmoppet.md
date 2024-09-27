@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.gatewalkers-bestiary.Actor.qbTNd1UeIxYEihNs"
 tags:
   - pf2e/creature/type/lawful
   - pf2e/creature/type/ooze
+  - pf2eMonster
   - pf2e/creature/level/5
 statblock: inline
 name: "Mindmoppet"
@@ -21,16 +22,16 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #189: Dreamers of the Nameless Spires"
 name: "Mindmoppet"
 level: "Creature 5"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "tiny"
-trait_01: "lawful"
-trait_02: "ooze"
+trait_01: [[lawful]]
+trait_02: [[ooze]]
 modifier: 12
 perception:
   - name: "Perception"
     desc: "+12; "
-languages: "Common"
+languages: "Common; one other language; telepathy 100 feet"
 skills:
   - name: "Skills"
     desc: "Acrobatics: +13, Crafting: +14, Deception: +11, Intimidation: +11, Medicine: +10, Occultism: +14, Society: +14, Stealth: +13, Thievery: +13"
@@ -77,8 +78,14 @@ attacks:
     desc: "`pf2:1`  The mindmoppet attempts to anticipate its opponent's actions. Until the end of its next turn, the mindmoppet gains one reaction."
 
   - name: "Redirect Attack"
-    desc: "`pf2:r` (mental) **Trigger** The mindmoppet is targeted by a melee or ranged Strike\n**Effect** The mindmoppet attempts a Reflex saving throw, using the attack roll as the DC for the check. On a success, it redirects the attack at another target within the attacker's range. On a failure, the attack resolves as normal."
+    desc: "`pf2:r` (mental) **Trigger** The mindmoppet is targeted by a melee or ranged Strike\n* * *\n\n**Effect** The mindmoppet attempts a Reflex saving throw, using the attack roll as the DC for the check. On a success, it redirects the attack at another target within the attacker's range. On a failure, the attack resolves as normal."
  
+```
+
+```encounter-table
+name: Mindmoppet
+creatures:
+  - 1: Mindmoppet
 ```
 
 

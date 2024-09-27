@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.menace-under-otari-bestiary.Actor.5xjmJoJvBhASkEKS"
 tags:
   - pf2e/creature/type/humanoid
   - pf2e/creature/type/orc
+  - pf2eMonster
   - pf2e/creature/level/2
   - remaster
 statblock: inline
@@ -25,12 +26,13 @@ level: "Creature 2"
 
 alignment: ""
 size: "Medium"
-trait_01: "humanoid"
-trait_02: "orc"
+trait_01: [[humanoid]]
+trait_02: [[orc]]
 modifier: 8
 perception:
   - name: "Perception"
     desc: "+8; Darkvision"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Athletics: +8, Intimidation: +6, Survival: +5"
@@ -68,8 +70,14 @@ attacks:
     desc: "`pf2:1` Javelin +8 (thrown 30 ft.)\n__Damage__  1d6 + 4 piercing"
 
   - name: "Battle Cry"
-    desc: "`pf2:1` (concentrate,mental) Bellowing mightily, the commander gives themself and all orc allies within 60 feet who can hear them a +1 status bonus to attack and damage rolls until the start of the orc commander's next turn.\n[[Bestiary Effects/Effect_ Battle Cry|Effect: Battle Cry]]"
+    desc: "`pf2:1` (concentrate,mental) Bellowing mightily, the commander gives themself and all orc allies within 60 feet who can hear them a +1 status bonus to attack and damage rolls until the start of the orc commander's next turn.\n\n[[Bestiary Effects/Effect_ Battle Cry|Effect: Battle Cry]]"
  
+```
+
+```encounter-table
+name: Orc Commander (BB)
+creatures:
+  - 1: Orc Commander (BB)
 ```
 
 

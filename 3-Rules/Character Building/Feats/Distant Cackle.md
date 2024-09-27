@@ -6,8 +6,9 @@ tags:
   - trait/gnoll
   - trait/common
   - category/ancestry
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.P19AnciwNcSqxU7z"
-license: OGL
+license: ORC
 ---
 # Distant Cackle
 ## Feat 5
@@ -17,9 +18,9 @@ license: OGL
 
 
 
-**Prerequisites** Witch Gnoll Heritage
+**Prerequisites** witch kholo heritage
 * * *
 It takes a very brave person to enter the laughter-haunted forest where you dwell. You can cast [[Spells/Ventriloquism|Ventriloquism]] once per day as a 1st-rank occult innate spell.
 
-*Source: Pathfinder Lost Omens: The Mwangi Expanse*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

@@ -17,7 +17,7 @@ license: OGL
 
 
 
-**Moderate Boon** Urgathoa blesses you as one of her children. You gain void healing.
+Urgathoa blesses you as one of her children. You gain void healing.
 
 *Source: Pathfinder Lost Omens: Gods & Magic*
 *OGL*

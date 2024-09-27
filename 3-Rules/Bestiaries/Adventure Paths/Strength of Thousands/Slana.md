@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.strength-of-thousands-bestiary.Actor.BUzNkswA1EOAtL0z"
 tags:
   - pf2e/creature/type/chaotic
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/20
 statblock: inline
 name: "Slana"
@@ -21,11 +22,11 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #174: Shadows of the Ancients"
 name: "Slana"
 level: "Creature 20"
-rare_03: "Rare"
+rare_03: [[Rare]]
 alignment: ""
 size: "grg"
-trait_01: "chaotic"
-trait_02: "humanoid"
+trait_01: [[chaotic]]
+trait_02: [[humanoid]]
 modifier: 36
 perception:
   - name: "Perception"
@@ -67,7 +68,7 @@ attacks:
     desc: "DC 40, attack +32; __10th __ (2 slots) _[[Spells/Earthquake|Earthquake]]_, _[[Spells/Storm Lord|Storm Lord (x3)]]_, _[[Spells/Storm of Vengeance|Storm of Vengeance]]_; __9th __ (4 slots) _[[Spells/Dispel Magic|Dispel Magic]]_; __1st __ (1 slots) _[[Spells/Mist|Obscuring Mist (At Will)]]_\n__Constant__  __(4th)__ _[[Spells/Unfettered Movement|Freedom of Movement]]_"
 
   - name: "Great Roar"
-    desc: "`pf2:2` (primal,sonic) The slana emits a deafening roar. All creatures within a 100-foot cone take 16d8 sonic damage (DC 44 Reflex check saving throw). On a failed save, a creature is also [[Conditions/Deafened|Deafened]] for 1 minute and [[Conditions/Stunned 1|Stunned 1]] (or deafened permanently and [[Conditions/Stunned 1|Stunned 3]] on a critical failure). The slana can't use Great Roar again for 1d4 rounds."
+    desc: "`pf2:2` (primal,sonic) The slana emits a deafening roar. All creatures within a @Template[cone|distance:100] take 16d8 sonic damage (DC 44 Reflex check saving throw). On a failed save, a creature is also [[Conditions/Deafened|Deafened]] for 1 minute and [[Conditions/Stunned|Stunned 1]] (or deafened permanently and [[Conditions/Stunned|Stunned 3]] on a critical failure). The slana can't use Great Roar again for 1d4 rounds."
 
   - name: "Pounce"
     desc: "`pf2:1`  The slana Strides and makes a Strike at the end of that movement. If the slana began this action [[Conditions/Hidden|Hidden]], they remain hidden until after the ability's Strike."
@@ -75,6 +76,12 @@ attacks:
   - name: "Thunder Trap"
     desc: "  A creature hit by the slana's thunderclap attack is [[Conditions/Immobilized|Immobilized]] and held in place by reverberations of sound until it Escapes or Forces Open the bonds of thunder that constrain it (DC 44). The target is [[Conditions/Deafened|Deafened]] as long as it is immobilized by a thunder trap."
  
+```
+
+```encounter-table
+name: Slana
+creatures:
+  - 1: Slana
 ```
 
 

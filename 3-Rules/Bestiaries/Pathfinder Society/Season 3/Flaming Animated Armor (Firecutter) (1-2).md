@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.pfs-season-3-bestiary.Actor.dYcDARPuNmLlGNuG"
 tags:
   - pf2e/creature/type/construct
   - pf2e/creature/type/mindless
+  - pf2eMonster
   - pf2e/creature/level/3
 statblock: inline
 name: "Flaming Animated Armor (Firecutter) (1-2)"
@@ -21,15 +22,16 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Society Scenario #3-13: Guardian&#x27;s Covenant"
 name: "Flaming Animated Armor (Firecutter) (1-2)"
 level: "Creature 3"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Medium"
-trait_01: "construct"
-trait_02: "mindless"
+trait_01: [[construct]]
+trait_02: [[mindless]]
 modifier: 9
 perception:
   - name: "Perception"
     desc: "+9; Darkvision"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Athletics: +10"
@@ -62,6 +64,12 @@ attacks:
   - name: "Melee"
     desc: "`pf2:1` Gauntlet +10 (agile, free-hand, magical)\n__Damage__  1d6 + 3 bludgeoning 1d4 fire"
  
+```
+
+```encounter-table
+name: Flaming Animated Armor (Firecutter) (1-2)
+creatures:
+  - 1: Flaming Animated Armor (Firecutter) (1-2)
 ```
 
 

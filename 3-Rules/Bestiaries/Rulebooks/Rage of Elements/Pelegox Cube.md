@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/elemental
   - pf2e/creature/type/metal
   - pf2e/creature/type/troop
+  - pf2eMonster
   - pf2e/creature/level/11
   - remaster
 statblock: inline
@@ -26,14 +27,14 @@ level: "Creature 11"
 
 alignment: ""
 size: "grg"
-trait_01: "elemental"
-trait_02: "metal"
-trait_03: "troop"
+trait_01: [[elemental]]
+trait_02: [[metal]]
+trait_03: [[troop]]
 modifier: 22
 perception:
   - name: "Perception"
     desc: "+22; "
-languages: "Talican"
+languages: "Talican; telepathy 30 feet"
 skills:
   - name: "Skills"
     desc: "Acrobatics: +22, Athletics: +21, Crafting: +20, Diplomacy: +21"
@@ -64,17 +65,23 @@ attacks:
   - name: ""
 
   - name: "Entrancing Shapes"
-    desc: "`pf2:2` (mental,occult,visual) The pelegox cube rapidly shifts, creating a display of seemingly impossible geometric patterns. Creatures in a 60-foot cone take 9d6 mental damage (DC 29 Will check save). A creature that fails is also [[Conditions/Fascinated|Fascinated]] with the pelegox cube and [[Conditions/Stupefied 1|Stupefied 1]] for 1 minute."
+    desc: "`pf2:2` (mental,occult,visual) The pelegox cube rapidly shifts, creating a display of seemingly impossible geometric patterns. Creatures in a @Template[cone|distance:60] take 9d6 mental damage (DC 29 Will check save). A creature that fails is also [[Conditions/Fascinated|Fascinated]] with the pelegox cube and [[Conditions/Stupefied|Stupefied 1]] for 1 minute."
 
   - name: "Scrambled Strike"
-    desc: "`pf2:1`  **Frequency** once per round\n**Effect** The pelegox cube rearranges to create jutting spikes, attacking each enemy within 10 feet (DC 27 Reflex check save). The damage depends on the number of actions.\n`pf2:1` 2d6 piercing damage\n`pf2:2` 3d6 + 10 piercing damage\n`pf2:3` 5d6 + 10 piercing damage"
+    desc: "`pf2:1`  **Frequency** once per round\n* * *\n\n**Effect** The pelegox cube rearranges to create jutting spikes, attacking each enemy within 10 feet (DC 27 Reflex check save). The damage depends on the number of actions.\n\n`pf2:1` 2d6 piercing damage\n\n`pf2:2` 3d6+10 piercing damage\n\n`pf2:3` 5d6+10 piercing damage"
 
   - name: "Shard Volley"
-    desc: "`pf2:2`  The pelegox cube magnetizes fragments of metal at range. This is a 10-foot burst within 30 feet that deals 2d6 + 10 piercing damage (DC 27 Reflex check save). When the troop is reduced to 8 or fewer squares, this area decreases to a 5-foot burst."
+    desc: "`pf2:2`  The pelegox cube magnetizes fragments of metal at range. This is a @Template[burst|distance:10] within 30 feet that deals 2d6+10 piercing damage (DC 27 Reflex check save). When the troop is reduced to 8 or fewer squares, this area decreases to a @Template[burst|distance:5]."
 
   - name: "Troop Movement"
     desc: "  Whenever the troop Flies, it first Forms Up as a free action to condense into a 20-foot-by-20-foot area (minus any missing squares), then moves up to its Speed. This works just like a Gargantuan creature moving; for instance, if any square of the troop enters difficult terrain, the extra movement cost applies to the entire troop."
  
+```
+
+```encounter-table
+name: Pelegox Cube
+creatures:
+  - 1: Pelegox Cube
 ```
 
 

@@ -6,8 +6,9 @@ tags:
   - trait/swashbuckler
   - trait/common
   - category/classfeature
+  - remaster
 aliases: "Compendium.pf2e.classfeatures.Item.KBhwFjdptrKyN5EM"
-license: OGL
+license: ORC
 ---
 # Braggart
 ## Feat 1
@@ -18,9 +19,7 @@ license: OGL
 
 
 
-You boast, taunt, and psychologically needle your foes.
+You boast, taunt, and psychologically needle your foes. You are trained in Intimidation. When you [[Actions/Demoralize|Demoralize]], the action gains the bravado trait.
 
-You are trained in Intimidation. You gain [[Feat_Feature Effects/Effect_ Panache|Panache]] during an encounter whenever you successfully [[Actions/Demoralize|Demoralize]] a foe.
-
-*Source: Pathfinder Advanced Player's Guide*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

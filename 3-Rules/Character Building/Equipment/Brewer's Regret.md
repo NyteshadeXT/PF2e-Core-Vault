@@ -12,7 +12,7 @@ license: OGL
 ---
 # Brewer's Regret
 ## Item 9
-### [uncommon](uncommon "Uncommon Rarity Trait")[[alchemical]][[consumable]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[alchemical]][[consumable]]
 
 **Category** other; 
 **Price** 120 gp; 

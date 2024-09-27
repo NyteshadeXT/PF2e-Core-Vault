@@ -27,7 +27,7 @@ license: OGL
 
 * * *
 
-You use your occult connection to your allies to take on the fear and confusion they feel. Focus on your own calmness and pull in your nearby allies' emotions. Reduce the [[Conditions/Frightened 1|Frightened]] and [[Conditions/Stupefied 1|Stupefied]] condition values of adjacent allies by 1, and increase your frightened and stupefied condition values by the same amount.
+You use your occult connection to your allies to take on the fear and confusion they feel. Focus on your own calmness and pull in your nearby allies' emotions. Reduce the [[Conditions/Frightened|Frightened]] and [[Conditions/Stupefied|Stupefied]] condition values of adjacent allies by 1, and increase your frightened and stupefied condition values by the same amount.
 
 *Source: Pathfinder #197: Let the Leaves Fall*
 *OGL*

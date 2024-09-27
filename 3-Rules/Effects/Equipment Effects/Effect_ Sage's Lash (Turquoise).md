@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Speak “clarity” to grant all affected a +2 status bonus to their next Will save for 1 minute.
+Speak "clarity" to grant all affected a +2 status bonus to their next Will save for 1 minute.
 
 *Source: Pathfinder Secrets of Magic*
 *OGL*

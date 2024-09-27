@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/goblin
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/3
 statblock: inline
 name: "Bugbear Slasher"
@@ -25,9 +26,9 @@ level: "Creature 3"
 
 alignment: ""
 size: "Medium"
-trait_01: "evil"
-trait_02: "goblin"
-trait_03: "humanoid"
+trait_01: [[evil]]
+trait_02: [[goblin]]
+trait_03: [[humanoid]]
 modifier: 8
 perception:
   - name: "Perception"
@@ -69,6 +70,12 @@ attacks:
   - name: "Twin Feint"
     desc: "`pf2:2`  The bugbear slasher makes a dazzling series of attacks with two weapons, using the first attack to throw their foe off guard against a second attack at a different angle. They make one Strike with each of their two melee weapons, both against the same target. The target is automatically [[Conditions/Off-Guard|Off-Guard]] against the second attack. Apply the bugbear slasher's multiple attack penalty to the Strikes normally."
  
+```
+
+```encounter-table
+name: Bugbear Slasher
+creatures:
+  - 1: Bugbear Slasher
 ```
 
 

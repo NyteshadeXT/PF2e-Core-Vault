@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.pathfinder-monster-core.Actor.f15mNNhOT3aq66VQ"
 tags:
   - pf2e/creature/type/amphibious
   - pf2e/creature/type/animal
+  - pf2eMonster
   - pf2e/creature/level/8
   - remaster
 statblock: inline
@@ -26,8 +27,8 @@ level: "Creature 8"
 
 alignment: ""
 size: "Large"
-trait_01: "amphibious"
-trait_02: "animal"
+trait_01: [[amphibious]]
+trait_02: [[animal]]
 modifier: 16
 perception:
   - name: "Perception"
@@ -35,7 +36,7 @@ perception:
 languages: ""
 skills:
   - name: "Skills"
-    desc: "Athletics: +18, Stealth: +18 (+20 in water), Survival: +17 (+20 to Track a bleeding creature)"
+    desc: "Athletics: +18, Stealth: +18, Survival: +17"
 abilityMods: [6, 3, 6, -4, 2, 0]
 speed: 40 feet,  swim 30 feet
 sourcebook: "_Pathfinder Monster Core_"
@@ -75,8 +76,14 @@ attacks:
     desc: "`pf2:1`  40 feet\n\n* * *\n"
 
   - name: "Poison Tooth"
-    desc: "`pf2:1` (poison) **Requirements** The krooth damaged a creature with its jaws on its most recent action this turn;\n* * *\n\n**Effect** The krooth snaps off one of its teeth in the creature it hit. The creature takes 1d6 persistent bleed damage and is [[Conditions/Drained 1|Drained 1]]. Neither can be healed while the tooth remains.\n\nRemoving the tooth safely requires a successful DC 26 Medicine check check to [[Actions/Administer First Aid|Administer First Aid]]. Instead of ending bleeding or stabilizing, this removes the tooth and the drained condition, but it doesn't automatically end the bleed damage."
+    desc: "`pf2:1` (poison) **Requirements** The krooth damaged a creature with its jaws on its most recent action this turn;\n* * *\n\n**Effect** The krooth snaps off one of its teeth in the creature it hit. The creature takes 1d6 persistent bleed damage and is [[Conditions/Drained|Drained 1]]. Neither can be healed while the tooth remains.\n\nRemoving the tooth safely requires a successful DC 26 Medicine check check to [[Actions/Administer First Aid|Administer First Aid]]. Instead of ending bleeding or stabilizing, this removes the tooth and the drained condition, but it doesn't automatically end the bleed damage."
  
+```
+
+```encounter-table
+name: Krooth
+creatures:
+  - 1: Krooth
 ```
 
 

@@ -6,8 +6,9 @@ tags:
   - trait/monk
   - trait/common
   - category/class
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.jaAnxfXVmUQy0IKU"
-license: OGL
+license: ORC
 ---
 # One-Inch Punch `pf2:2`
 ## Feat 6
@@ -25,5 +26,5 @@ If you're at least 10th level, the number of additional dice you add from this f
 
 If you're at least 18th level, the number of additional dice you add from this feat triples, for a total of 3 additional dice if you spend 2 actions or 6 additional dice if you spend 3 actions.
 
-*Source: Pathfinder Advanced Player's Guide*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

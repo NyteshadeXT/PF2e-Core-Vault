@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.pathfinder-bestiary-2.Actor.5FGuXfg6Ub2hCBG7"
 tags:
   - pf2e/creature/type/mindless
   - pf2e/creature/type/plant
+  - pf2eMonster
   - pf2e/creature/level/2
 statblock: inline
 name: "Yellow Musk Creeper"
@@ -25,12 +26,13 @@ level: "Creature 2"
 
 alignment: ""
 size: "Medium"
-trait_01: "mindless"
-trait_02: "plant"
+trait_01: [[mindless]]
+trait_02: [[plant]]
 modifier: 4
 perception:
   - name: "Perception"
     desc: "+4; Tremorsense (Imprecise) 30 Feet"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Stealth: +6"
@@ -58,11 +60,17 @@ attacks:
     desc: "`pf2:1` Tendril +9 (reach 10 feet)\n__Damage__  1d10 + 3 piercing"
 
   - name: "Bore into Brain"
-    desc: "`pf2:3` (manipulate,mental) The creeper bores dozens of tendrils into the brain of a Small, Medium, or Large humanoid creature that's [[Conditions/Unconscious|Unconscious]], willing, or [[Conditions/Fascinated|Fascinated]] by Spray Pollen, and within reach of the creeper's tendrils.\nThe creature must succeed at a DC 18 Fortitude check save or become [[Conditions/Stupefied 1|Stupefied 1]] ([[Conditions/Stupefied 1|Stupefied 2]] on a critical failure).\nSubsequent failed saves against Bore into Brain increase the stupefied value. If the creature reaches stupefied 5, it is turned into a yellow musk thrall. Boring into a creature's brain doesn't end fascination caused by Spray Pollen."
+    desc: "`pf2:3` (manipulate,mental) The creeper bores dozens of tendrils into the brain of a Small, Medium, or Large humanoid creature that's [[Conditions/Unconscious|Unconscious]], willing, or [[Conditions/Fascinated|Fascinated]] by Spray Pollen, and within reach of the creeper's tendrils.\n\nThe creature must succeed at a DC 18 Fortitude check save or become [[Conditions/Stupefied|Stupefied 1]] ([[Conditions/Stupefied|Stupefied 2]] on a critical failure).\n\nSubsequent failed saves against Bore into Brain increase the stupefied value. If the creature reaches stupefied 5, it is turned into a yellow musk thrall. Boring into a creature's brain doesn't end fascination caused by Spray Pollen."
 
   - name: "Spray Pollen"
-    desc: "`pf2:2` (incapacitation,mental,poison) The yellow musk creeper blasts yellow pollen in either a 30-foot line or a 15-foot cone. Each creature in the emanation must attempt a DC 20 Will check save.\nOnce a creature succeeds at any save against Spray Pollen, it becomes temporarily immune for 24 hours.\n**Success** The creature is unaffected.\n**Failure** The creature is [[Conditions/Fascinated|Fascinated]]. For as long as it is fascinated, it must spend each of its actions to move closer to the yellow musk creeper as expediently as possible, while avoiding obvious dangers. If the creature is adjacent to the yellow musk creeper, it stays still and doesn't act. If anyone takes a hostile action against the creature or its allies, the effect ends. Otherwise, the creature can attempt a new save at the end of each of its turns. On a success, the effects end.\n**Critical Failure** As failure, but the condition doesn't end automatically if anyone takes a hostile action against the creature or its allies."
+    desc: "`pf2:2` (incapacitation,mental,poison) The yellow musk creeper blasts yellow pollen in either a @Template[line|distance:30] or a @Template[cone|distance:15]. Each creature in the emanation must attempt a DC 20 Will check save.\n\nOnce a creature succeeds at any save against Spray Pollen, it becomes temporarily immune for 24 hours.\n* * *\n\n**Success** The creature is unaffected.\n\n**Failure** The creature is [[Conditions/Fascinated|Fascinated]]. For as long as it is fascinated, it must spend each of its actions to move closer to the yellow musk creeper as expediently as possible, while avoiding obvious dangers. If the creature is adjacent to the yellow musk creeper, it stays still and doesn't act. If anyone takes a hostile action against the creature or its allies, the effect ends. Otherwise, the creature can attempt a new save at the end of each of its turns. On a success, the effects end.\n\n**Critical Failure** As failure, but the condition doesn't end automatically if anyone takes a hostile action against the creature or its allies."
  
+```
+
+```encounter-table
+name: Yellow Musk Creeper
+creatures:
+  - 1: Yellow Musk Creeper
 ```
 
 

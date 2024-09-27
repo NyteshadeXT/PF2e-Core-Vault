@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/demon
   - pf2e/creature/type/fiend
   - pf2e/creature/type/unholy
+  - pf2eMonster
   - pf2e/creature/level/2
   - remaster
 statblock: inline
@@ -20,15 +21,16 @@ license: ORC
 columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
+token: [[modules/pf2e-tokens-bestiaries/portraits/fiendish/demon/dretch.webp| ]]
 source: "Pathfinder Monster Core"
 name: "Pusk"
 level: "Creature 2"
 
 alignment: ""
 size: "Small"
-trait_01: "demon"
-trait_02: "fiend"
-trait_03: "unholy"
+trait_01: [[demon]]
+trait_02: [[fiend]]
+trait_03: [[unholy]]
 modifier: 6
 perception:
   - name: "Perception"
@@ -76,11 +78,17 @@ attacks:
     desc: "`pf2:1`  The pusk makes itself as small as possible, protecting its vital organs with its limbs. It gains a +4 circumstance bonus to AC but takes a –2 penalty to attack rolls. This lasts until the pusk moves from its current space, falls [[Conditions/Unconscious|Unconscious]], or ends the effect as a free action."
 
   - name: "Frenzied Slashes"
-    desc: "`pf2:3`  The pusk makes three claw Strikes, each at a –2 penalty, all targeting the same creature. The pusk's multiple attack penalty doesn't increase until after it has made all three attacks. The pusk gains the [[Conditions/Clumsy 1|Clumsy 2]] condition until the beginning of its next turn."
+    desc: "`pf2:3`  The pusk makes three claw Strikes, each at a –2 penalty, all targeting the same creature. The pusk's multiple attack penalty doesn't increase until after it has made all three attacks. The pusk gains the [[Conditions/Clumsy|Clumsy 2]] condition until the beginning of its next turn."
 
   - name: "Vicious Criticals"
     desc: "  A pusk makes the most of any weakness it finds. Whenever a pusk scores a critical hit with its claw Strike, the target takes an additional 1d6 persistent bleed damage."
  
+```
+
+```encounter-table
+name: Pusk
+creatures:
+  - 1: Pusk
 ```
 
 

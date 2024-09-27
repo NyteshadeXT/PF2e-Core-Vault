@@ -32,7 +32,7 @@ license: OGL
 
 ### **DEVOTEE BENEFITS**
 
-**Cleric Spells** 1st: [[Spells/Detect Metal|Detect Metal]], 2nd: [[Spells/Summon Elemental|Summon Elemental]] (metal only), 5th: [[Spells/Impaling Spike|Impaling Spike]]
+**Cleric Spells** 1st: [[Spells/Fold Metal|Fold Metal]], 2nd: [[Spells/Summon Elemental|Summon Elemental]] (metal only), 5th: [[Spells/Impaling Spike|Impaling Spike]]
 
 **Divine Font** harm or heal
 

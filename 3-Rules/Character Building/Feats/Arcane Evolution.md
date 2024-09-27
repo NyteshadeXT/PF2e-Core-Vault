@@ -7,8 +7,9 @@ tags:
   - trait/sorcerer
   - trait/common
   - category/class
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.qxh4evekG28Gt1vj"
-license: OGL
+license: ORC
 ---
 # Arcane Evolution
 ## Feat 4
@@ -20,11 +21,11 @@ license: OGL
 
 **Prerequisites** bloodline that grants arcane spells
 * * *
-Your arcane legacy grants you an exceptional aptitude for intellectual and academic pursuits. You become trained in one skill of your choice.
+Your arcane legacy allows you to perceive how magic affects everything. You become trained in one skill of your choice.
 
-Additionally, you keep a book of arcane spells similar to a wizard's spellbook. You add all the spells in your spell repertoire to this book for free, and you can add additional arcane spells to the book by paying the appropriate cost and using your Arcana skill, similarly to how a wizard can Learn Spells to add those spells to his spellbook.
+Additionally, you can use arcane arts to tinker with your selection of spells. During your daily preparations, you can choose one spell in your spell repertoire to be a signature spell that day.
 
-During your daily preparations, choose any one spell from your book of arcane spells. If it isn't in your spell repertoire, add it to your spell repertoire until the next time you prepare. If it's already in your spell repertoire, add it as an additional signature spell for that day.
+You can use the [[Actions/Learn a Spell|Learn a Spell]] activity to add more arcane spells to the list you choose from, but if you prepare a spell that isn't in your repertoire, you temporarily add it to your repertoire at the spell rank of your choice instead of making it a signature spell.
 
-*Source: Pathfinder Core Rulebook*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

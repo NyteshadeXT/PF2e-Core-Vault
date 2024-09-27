@@ -10,7 +10,7 @@ aliases: "Compendium.pf2e.feats-srd.Item.UuVz1QY7QXD5cnLu"
 license: OGL
 ---
 # Fledgling Flight `pf2:1`
-## Feat 5
+## Feat 1
 ### [[strix]]
 
 **Category** ancestry; 
@@ -22,7 +22,7 @@ license: OGL
 
 * * *
 
-You can fly through the air in short bursts at half your land Speed. If you don't end your movement on solid ground, you fall at the end of your turn.
+You can fly through the air in short bursts. You Fly. If you don't normally have a fly Speed, you gain a fly Speed of 15 feet for this movement. If you aren't on solid ground at the end of this movement, you fall.
 
 *Source: Pathfinder Lost Omens: Ancestry Guide*
 *OGL*

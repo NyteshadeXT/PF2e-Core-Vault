@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/anadi
   - pf2e/creature/type/chaotic
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/3
 statblock: inline
 name: "Anadi Lurker"
@@ -22,12 +23,12 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #169: Kindled Magic"
 name: "Anadi Lurker"
 level: "Creature 3"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Medium"
-trait_01: "anadi"
-trait_02: "chaotic"
-trait_03: "humanoid"
+trait_01: [[anadi]]
+trait_02: [[chaotic]]
+trait_03: [[humanoid]]
 modifier: 11
 perception:
   - name: "Perception"
@@ -35,7 +36,7 @@ perception:
 languages: "Anadi, Common"
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +9, Athletics: +10 (+12 to climb in spider or hybrid form), Crafting: +5 (+9 to weave), Nature: +7, Stealth: +11, Survival: +9"
+    desc: "Acrobatics: +9, Athletics: +10, Crafting: +5, Nature: +7, Stealth: +11, Survival: +9"
 abilityMods: [3, 4, 0, 0, 2, 1]
 speed: 25 feet,  climb 25 feet
 sourcebook: "_Pathfinder #169: Kindled Magic_"
@@ -70,14 +71,20 @@ attacks:
     desc: "DC 20, attack +12; __2nd __ (2 slots) _[[Spells/Blur|Blur]]_, _[[Spells/Web|Web]]_; __1st __ (3 slots) _[[Spells/Dizzying Colors|Color Spray]]_, _[[Spells/Illusory Disguise|Illusory Disguise]]_, _[[Spells/Illusory Object|Illusory Object]]_\n__Cantrips__  __(2nd)__ _[[Spells/Daze|Daze]]_, _[[Spells/Detect Magic|Detect Magic]]_, _[[Spells/Telekinetic Hand|Mage Hand]]_, _[[Spells/Message|Message]]_"
 
   - name: "Anadi Venom"
-    desc: " (poison) **Saving Throw** DC 18 Fortitude check\n**Maximum Duration** 4 rounds\n**Stage 1** 1d6 poison damage and [[Conditions/Off-Guard|Off-Guard]] (1 round)\n**Stage 2** 1d6 poison damage, off-guard, and [[Conditions/Clumsy 1|Clumsy 1]] (1 round)"
+    desc: " (poison) **Saving Throw** DC 18 Fortitude check\n\n**Maximum Duration** 4 rounds\n\n**Stage 1** 1d6 poison damage and [[Conditions/Off-Guard|Off-Guard]] (1 round)\n\n**Stage 2** 1d6 poison damage, off-guard, and [[Conditions/Clumsy|Clumsy 1]] (1 round)"
 
   - name: "[[Bestiary Ability Glossary/Change Shape|Change Shape]]"
-    desc: "`pf2:1` (arcane,concentrate,polymorph) The anadi changes into their hybrid, spider, or human form. The above statistics assume the anadi is in hybrid form. While in human form, the anadi seeker loses their climb Speed and can't use their fangs attack. When in spider form, they can't use weapons.\n"
+    desc: "`pf2:1` (arcane,concentrate,polymorph) The anadi changes into their hybrid, spider, or human form. The above statistics assume the anadi is in hybrid form. While in human form, the anadi seeker loses their climb Speed and can't use their fangs attack. When in spider form, they can't use weapons.\n\n* * *\n"
 
   - name: "[[Bestiary Ability Glossary/Sneak Attack|Sneak Attack]]"
     desc: "  The anadi lurker deals an additional 1d6 precision damage to [[Conditions/Off-Guard|Off-Guard]] creatures."
  
+```
+
+```encounter-table
+name: Anadi Lurker
+creatures:
+  - 1: Anadi Lurker
 ```
 
 

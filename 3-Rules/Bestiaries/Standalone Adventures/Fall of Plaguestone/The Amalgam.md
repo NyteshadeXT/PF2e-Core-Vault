@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/aberration
   - pf2e/creature/type/chaotic
   - pf2e/creature/type/evil
+  - pf2eMonster
   - pf2e/creature/level/4
 statblock: inline
 name: "The Amalgam"
@@ -22,12 +23,12 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Adventure: The Fall of Plaguestone"
 name: "The Amalgam"
 level: "Creature 4"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Large"
-trait_01: "aberration"
-trait_02: "chaotic"
-trait_03: "evil"
+trait_01: [[aberration]]
+trait_02: [[chaotic]]
+trait_03: [[evil]]
 modifier: 11
 perception:
   - name: "Perception"
@@ -75,8 +76,14 @@ attacks:
     desc: "`pf2:2`  The amalgam can make up to four Strikes, one with each of its listed melee attacks, but no more than two at any one target. It takes a -2 penalty to each attack, but the multiple attack penalty does not increase until all the attacks are made."
 
   - name: "[[Actions/Trip|Trip]]"
-    desc: "`pf2:1` (attack,skill) **Requirements** You have at least one hand free. Your target can't be more than one size larger than you\nYou try to knock a creature to the ground. Attempt an Athletics check against the target's Reflex DC.\n**Critical Success** The target falls and lands [[Conditions/Prone|Prone]] and takes 1d6 bludgeoning damage.\n**Success** The target falls and lands prone.\n**Critical Failure** You lose your balance and fall and land prone."
+    desc: "`pf2:1` (attack,skill) **Requirements** You have at least one hand free. Your target can't be more than one size larger than you\n* * *\n\nYou try to knock a creature to the ground. Attempt an Athletics check against the target's Reflex DC.\n* * *\n\n**Critical Success** The target falls and lands [[Conditions/Prone|Prone]] and takes 1d6 bludgeoning damage.\n\n**Success** The target falls and lands prone.\n\n**Critical Failure** You lose your balance and fall and land prone."
  
+```
+
+```encounter-table
+name: The Amalgam
+creatures:
+  - 1: The Amalgam
 ```
 
 

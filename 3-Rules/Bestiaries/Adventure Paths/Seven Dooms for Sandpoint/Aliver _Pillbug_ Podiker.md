@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/human
   - pf2e/creature/type/humanoid
   - pf2e/creature/type/lawful
+  - pf2eMonster
   - pf2e/creature/level/7
 statblock: inline
 name: "Aliver &quot;Pillbug&quot; Podiker"
@@ -23,13 +24,13 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #200: Seven Dooms for Sandpoint"
 name: "Aliver "Pillbug" Podiker"
 level: "Creature 7"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Medium"
-trait_01: "evil"
-trait_02: "human"
-trait_03: "humanoid"
-trait_04: "lawful"
+trait_01: [[evil]]
+trait_02: [[human]]
+trait_03: [[humanoid]]
+trait_04: [[lawful]]
 modifier: 16
 perception:
   - name: "Perception"
@@ -75,7 +76,7 @@ attacks:
     desc: "`pf2:1` Frost Vial (Moderate) +14 (range increment 30 feet)\n__Damage__  2d6 cold 2 cold"
 
   - name: "Foul Concoction"
-    desc: "`pf2:2` (manipulate,poison) **Frequency** once per day\n**Effect** Aliver quickly mixes alchemical catalysts and materials together, creating a burst of foul-smelling smoke that fills a 10-foot emanation. The cloud functions as [[Spells/Stinking Cloud|Stinking Cloud]] (DC 25 Fortitude check) except that Aliver is immune to the putrid stench created by the concoction."
+    desc: "`pf2:2` (manipulate,poison) **Frequency** once per day\n* * *\n\n**Effect** Aliver quickly mixes alchemical catalysts and materials together, creating a burst of foul-smelling smoke that fills a @Template[emanation|distance:10]. The cloud functions as [[Spells/Stinking Cloud|Stinking Cloud]] (DC 25 Fortitude check) except that Aliver is immune to the putrid stench created by the concoction."
 
   - name: "Precise Poisoning"
     desc: "`pf2:2`  Aliver applies a dose of poison (typically a dose of [[Equipment/Giant Wasp Venom|Giant Wasp Venom]]) to a bolt on his crossbow, then takes careful aim with the poisoned bolt and attempts a ranged Strike with his hand crossbow. If he hits, he inflicts an additional 1d6 piercing damage with the bolt as well as the poison effect."
@@ -83,6 +84,12 @@ attacks:
   - name: "Quick Bomber"
     desc: "`pf2:1`  Aliver Interacts to draw a bomb, then Strikes with it."
  
+```
+
+```encounter-table
+name: Aliver "Pillbug" Podiker
+creatures:
+  - 1: Aliver "Pillbug" Podiker
 ```
 
 

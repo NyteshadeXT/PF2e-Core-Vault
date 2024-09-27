@@ -10,6 +10,7 @@ tags:
   - pf2e/creature/type/fiend
   - pf2e/creature/type/incorporeal
   - pf2e/creature/type/unholy
+  - pf2eMonster
   - pf2e/creature/level/8
 statblock: inline
 name: "Senidaemon"
@@ -28,19 +29,19 @@ level: "Creature 8"
 
 alignment: ""
 size: "Medium"
-trait_01: "demon"
-trait_02: "evil"
-trait_03: "fiend"
-trait_04: "incorporeal"
-trait_05: "unholy"
+trait_01: [[demon]]
+trait_02: [[evil]]
+trait_03: [[fiend]]
+trait_04: [[incorporeal]]
+trait_05: [[unholy]]
 modifier: 16
 perception:
   - name: "Perception"
     desc: "+16; Darkvision, Lifesense 30 Feet"
-languages: "Daemonic"
+languages: "Daemonic; can&#x27;t speak any language, telepathy 100 feet"
 skills:
   - name: "Skills"
-    desc: "Stealth: +20, "
+    desc: "Stealth: +20"
 abilityMods: [-5, 6, 3, 2, 4, 4]
 speed:  fly 40 feet
 sourcebook: "_Battlezoo Bestiary_"
@@ -62,23 +63,29 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Aura of Unmaking"
-    desc: " (aura,divine) 30 feet Aura\nThe senidaemon radiates entropic energy, threatening the physical and spiritual integrity of living things around it.\nThe senidaemon can manifest this ability in one of two ways: unraveling or heat shimmer. Any creature that enters or begins its turn in the aura is affected.\nIf the senidaemon is emitting an unraveling aura, creatures take 2d6 + 6 void damage (basic Fortitude save); if it is emitting a heat shimmer, each creature must attempt a Fortitude save.\n**Success** The creature is unaffected.\n**Failure** The creature is Dazzled.\n**Critical Failure** The creature is dazzled and Fatigued.\nThe senidaemon can change its aura from unraveling to heat shimmer and vice versa, or cease or activate its aura, by spending a single action, which has the concentrate trait."
+    desc: " (aura,divine) 30 feet [[Bestiary Ability Glossary/Aura|Aura]]\n\nThe senidaemon radiates entropic energy, threatening the physical and spiritual integrity of living things around it.\n\nThe senidaemon can manifest this ability in one of two ways: unraveling or heat shimmer. Any creature that enters or begins its turn in the aura is affected.\n\nIf the senidaemon is emitting an unraveling aura, creatures take 2d6+6 void damage (DC 24 basic Fortitude save); if it is emitting a heat shimmer, each creature must attempt a DC 24 Fortitude save.\n* * *\n\n**Success** The creature is unaffected.\n\n**Failure** The creature is [[Conditions/Dazzled|Dazzled]].\n\n**Critical Failure** The creature is dazzled and [[undefined]].\n\nThe senidaemon can change its aura from unraveling to heat shimmer and vice versa, or cease or activate its aura, by spending a single action, which has the concentrate trait."
 
   - name: "Malignant Entropy"
-    desc: "`pf2:r` (divine) **Trigger** The senidaemon takes acid, cold, physical, or positive damage;\n**Effect** The senidaemon glows faintly as it converts the damage it just took into raw power. Until the end of its next turn, the senidaemon's Strikes deal additional damage equal to the number of dice rolled in the triggering attack.\nEffect: Malignant Entropy (1 Dice)\nEffect: Malignant Entropy (2 Dice)\nEffect: Malignant Entropy (3 Dice)\nEffect: Malignant Entropy (4 Dice)"
+    desc: "`pf2:r` (divine) **Trigger** The senidaemon takes acid, cold, physical, or positive damage;\n* * *\n\n**Effect** The senidaemon glows faintly as it converts the damage it just took into raw power. Until the end of its next turn, the senidaemon's Strikes deal additional damage equal to the number of dice rolled in the triggering attack.\n\n[[Effects/Effect_ Malignant Entropy (1 Dice)|Effect: Malignant Entropy (1 Dice)]]\n\n[[Effects/Effect_ Malignant Entropy (2 Dice)|Effect: Malignant Entropy (2 Dice)]]\n\n[[Effects/Effect_ Malignant Entropy (3 Dice)|Effect: Malignant Entropy (3 Dice)]]\n\n[[Effects/Effect_ Malignant Entropy (4 Dice)|Effect: Malignant Entropy (4 Dice)]]"
 
   - name: "Soul Erosion"
-    desc: " (curse,divine) The senidaemon's presence intensifies spiritual destruction. Any living creature brought to 0 HP within the senidaemon's aura of unmaking must attempt a Will save.\n**Success** The creature is unaffected.\n**Failure** The next time the creature dies, the caster of a spell to return it to life must succeed at a Religion check. On a success, the curse is lifted and the creature is returned to life as normal for the spell. On a failure, the spell is wasted and the creature remains dead.\n**Critical Failure** As failure, and the creature becomes Doomed 1."
+    desc: " (curse,divine) The senidaemon's presence intensifies spiritual destruction. Any living creature brought to 0 HP within the senidaemon's aura of unmaking must attempt a DC 24 Will save.\n* * *\n\n**Success** The creature is unaffected.\n\n**Failure** The next time the creature dies, the caster of a spell to return it to life must succeed at a DC 25 Religion check. On a success, the curse is lifted and the creature is returned to life as normal for the spell. On a failure, the spell is wasted and the creature remains dead.\n\n**Critical Failure** As failure, and the creature becomes [[Conditions/Doomed|Doomed 1]]."
 
 attacks:
   - name: ""
 
   - name: "Melee"
-    desc: "`pf2:1` Molten Hand +18 (finesse, magical, unholy)\n__Damage__  2d6 + 4 fire 2d6 spirit"
+    desc: "`pf2:1` Molten Hand +18 (finesse, magical, unholy)\n__Damage__  2d6 + 4 bludgeoning 2d6 spirit"
 
   - name: "Divine Innate Spells"
     desc: "DC 24, attack +16; __4th __  _[[Spells/Translocate|Dimension Door (At Will)]]_, _[[Spells/Silence|Silence]]_; __1st __  _[[Spells/Detect Alignment|Detect Alignment (At Will) (Good Only)]]_\n__Constant__  __(2nd)__ _[[Spells/Silence|Silence (Self)]]_"
  
+```
+
+```encounter-table
+name: Senidaemon
+creatures:
+  - 1: Senidaemon
 ```
 
 

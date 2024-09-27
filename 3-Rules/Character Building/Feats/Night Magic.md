@@ -6,8 +6,9 @@ tags:
   - trait/dhampir
   - trait/common
   - category/ancestry
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.iRpVW1DPKVxlzIzt"
-license: OGL
+license: ORC
 ---
 # Night Magic
 ## Feat 9
@@ -20,5 +21,5 @@ license: OGL
 
 You can tap into the magic that runs through your blood. You gain [[Spells/Animal Form|Animal Form]] (wolf only, using the statistics for a canine) and [[Spells/Mist|Mist]] as 2nd-rank divine innate spells. You can cast each of these spells once per day.
 
-*Source: Pathfinder Advanced Player's Guide*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.menace-under-otari-bestiary.Actor.jGzVwekcRX5aQpbT"
 tags:
   - pf2e/creature/type/goblin
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/1
   - remaster
 statblock: inline
@@ -25,12 +26,13 @@ level: "Creature 1"
 
 alignment: ""
 size: "Small"
-trait_01: "goblin"
-trait_02: "humanoid"
+trait_01: [[goblin]]
+trait_02: [[humanoid]]
 modifier: 5
 perception:
   - name: "Perception"
     desc: "+5; Darkvision"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Acrobatics: +6, Athletics: +6, Intimidation: +5, Nature: +5, Stealth: +6"
@@ -64,6 +66,12 @@ attacks:
   - name: "Ranged"
     desc: "`pf2:1` Shortbow +8 (deadly d10, range increment 60 feet, reload 0)\n__Damage__  1d6 piercing"
  
+```
+
+```encounter-table
+name: Goblin Commando (BB)
+creatures:
+  - 1: Goblin Commando (BB)
 ```
 
 

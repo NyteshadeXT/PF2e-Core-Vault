@@ -6,6 +6,7 @@ cssClasses: pf2e
 aliases: "Compendium.pf2e.pathfinder-monster-core.Actor.pH2yNe16EnoJ8R0i" 
 tags:
   - pf2e/creature/type/fey
+  - pf2eMonster
   - pf2e/creature/level/12
   - remaster
 statblock: inline
@@ -25,7 +26,7 @@ level: "Creature 12"
 
 alignment: ""
 size: "Small"
-trait_01: "fey"
+trait_01: [[fey]]
 modifier: 21
 perception:
   - name: "Perception"
@@ -85,6 +86,12 @@ attacks:
   - name: "Trickster's Step"
     desc: "  The gimmerling ignores difficult terrain and doesn't trigger traps with its movement."
  
+```
+
+```encounter-table
+name: Gimmerling
+creatures:
+  - 1: Gimmerling
 ```
 
 

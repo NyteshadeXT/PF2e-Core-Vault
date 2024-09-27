@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/beast
   - pf2e/creature/type/chaotic
   - pf2e/creature/type/evil
+  - pf2eMonster
   - pf2e/creature/level/5
 statblock: inline
 name: "Leucrotta"
@@ -26,14 +27,14 @@ level: "Creature 5"
 
 alignment: ""
 size: "Large"
-trait_01: "beast"
-trait_02: "chaotic"
-trait_03: "evil"
+trait_01: [[beast]]
+trait_02: [[chaotic]]
+trait_03: [[evil]]
 modifier: 11
 perception:
   - name: "Perception"
     desc: "+11; Darkvision, Scent (Imprecise) 30 Feet"
-languages: "Common"
+languages: "Common; one additional language (usually gnoll)"
 skills:
   - name: "Skills"
     desc: "Athletics: +13, Deception: +13, Stealth: +11"
@@ -67,11 +68,17 @@ attacks:
     desc: "`pf2:1` Hoof +13 (agile)\n__Damage__  2d4 + 8 bludgeoning"
 
   - name: "Luring Cry"
-    desc: "`pf2:2` (aura,incapacitation,linguistic,mental,primal) 60 feet\n**Requirements** The leucrotta's last action was Sound Mimicry\n**Effect** The leucrotta utters a plaintive cry to draw its prey closer. Each creature within the emanation that was deceived by Sound Mimicry must succeed at a DC 19 Will check save or become [[Conditions/Fascinated|Fascinated]] and compelled to move toward the sound of the leucrotta's voice on their turn. Fascinated creatures are also [[Conditions/Off-Guard|Off-Guard]].\nIf the leucrotta attacks, the fascinated condition ends only for the creature that is attacked. If the leucrotta speaks a creature's name while using its Luring Cry, that creature takes a -2 circumstance penalty to their saving throw to resist the ability.\nOn a successful save, a creature is temporarily immune to Luring Cry for 24 hours."
+    desc: "`pf2:2` (aura,incapacitation,linguistic,mental,primal) 60 feet\n\n**Requirements** The leucrotta's last action was Sound Mimicry\n* * *\n\n**Effect** The leucrotta utters a plaintive cry to draw its prey closer. Each creature within the emanation that was deceived by Sound Mimicry must succeed at a DC 19 Will check save or become [[Conditions/Fascinated|Fascinated]] and compelled to move toward the sound of the leucrotta's voice on their turn. Fascinated creatures are also [[Conditions/Off-Guard|Off-Guard]].\n\nIf the leucrotta attacks, the fascinated condition ends only for the creature that is attacked. If the leucrotta speaks a creature's name while using its Luring Cry, that creature takes a -2 circumstance penalty to their saving throw to resist the ability.\n\nOn a successful save, a creature is temporarily immune to Luring Cry for 24 hours."
 
   - name: "Sound Mimicry"
     desc: "`pf2:1`  The leucrotta perfectly imitates voices and speech and attempts a Deception check against listeners' Will DC to fool them. The leucrotta gains a +4 bonus to this Deception check if it has listened to the creature it's imitating for at least 10 minutes at any point in the last 24 hours. The leucrotta can't duplicate voice-based abilities or spells, though it can perfectly mimic the sound of verbal spellcasting and can attempt to deceive constructs or undead that respond to voice commands. The leucrotta can't imitate speech in languages it doesn't know."
  
+```
+
+```encounter-table
+name: Leucrotta
+creatures:
+  - 1: Leucrotta
 ```
 
 

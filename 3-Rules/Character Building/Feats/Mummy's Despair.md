@@ -28,7 +28,7 @@ license: OGL
 
 * * *
 
-You force your mental anguish outward, projecting it upon those around you. You gain an aura of despair in a 30-foot emanation lasting 5 rounds. A creature that enters or begins its turn in the aura must succeed at a Will check save against the higher of your class DC or spell DC or be [[Conditions/Frightened 1|Frightened 1]] ([[Conditions/Frightened 1|Frightened 2]] on a critical failure). A creature that succeeds at the save is temporarily immune to Mummy's Despair for 10 minutes.
+You force your mental anguish outward, projecting it upon those around you. You gain an aura of despair in a @Template\[emanation|distance:30\] lasting 5 rounds. A creature that enters or begins its turn in the aura must succeed at a Will check save against the higher of your class DC or spell DC or be [[Conditions/Frightened|Frightened 1]] ([[Conditions/Frightened|Frightened 2]] on a critical failure). A creature that succeeds at the save is temporarily immune to Mummy's Despair for 10 minutes.
 
 *Source: Pathfinder Book of the Dead*
 *OGL*

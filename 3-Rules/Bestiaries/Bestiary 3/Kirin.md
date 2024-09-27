@@ -10,6 +10,7 @@ tags:
   - pf2e/creature/type/fire
   - pf2e/creature/type/good
   - pf2e/creature/type/lawful
+  - pf2eMonster
   - pf2e/creature/level/7
 statblock: inline
 name: "Kirin"
@@ -25,19 +26,19 @@ token: [[modules/pf2e-tokens-bestiaries/portraits/bestial/mythological/kirin.web
 source: "Pathfinder Bestiary 3"
 name: "Kirin"
 level: "Creature 7"
-rare_03: "Rare"
+rare_03: [[Rare]]
 alignment: ""
 size: "Large"
-trait_01: "air"
-trait_02: "beast"
-trait_03: "fire"
-trait_04: "good"
-trait_05: "lawful"
+trait_01: [[air]]
+trait_02: [[beast]]
+trait_03: [[fire]]
+trait_04: [[good]]
+trait_05: [[lawful]]
 modifier: 17
 perception:
   - name: "Perception"
     desc: "+17; Darkvision, Scent (Imprecise) 60 Feet"
-languages: "Common, Draconic, Empyrean, Sussuran"
+languages: "Common, Draconic, Empyrean, Sussuran; telepathy 100 feet"
 skills:
   - name: "Skills"
     desc: "Acrobatics: +17, Diplomacy: +19, Nature: +15, Religion: +15, Stealth: +17"
@@ -59,10 +60,10 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Deflecting Gale"
-    desc: "`pf2:r`  **Trigger** The kirin is targeted with a ranged Strike\n**Effect** The kirin intensifies the wind around themself, gaining a +4 circumstance bonus to AC against the triggering attack."
+    desc: "`pf2:r`  **Trigger** The kirin is targeted with a ranged Strike\n* * *\n\n**Effect** The kirin intensifies the wind around themself, gaining a +4 circumstance bonus to AC against the triggering attack."
 
   - name: "Peaceful Aura"
-    desc: " (aura,divine,emotion,mental) 60 feet. Creatures within a kirin's peaceful aura attempting to use a hostile action must first attempt a DC 22 Will check save; on a failure, the hostile action is disrupted.\nIf a creature in the aura successfully uses a hostile action, it's temporarily immune to peaceful aura for 24 hours, and while it's temporarily immune, other creatures in the kirin's peaceful aura can perform hostile actions toward it without needing to attempt a Will save.\nA kirin can select creatures within their aura that can use hostile actions without needing to attempt a Will save."
+    desc: " (aura,divine,emotion,mental) 60 feet. Creatures within a kirin's peaceful aura attempting to use a hostile action must first attempt a DC 22 Will check save; on a failure, the hostile action is disrupted.\n\nIf a creature in the aura successfully uses a hostile action, it's temporarily immune to peaceful aura for 24 hours, and while it's temporarily immune, other creatures in the kirin's peaceful aura can perform hostile actions toward it without needing to attempt a Will save.\n\nA kirin can select creatures within their aura that can use hostile actions without needing to attempt a Will save."
 
 attacks:
   - name: ""
@@ -77,11 +78,17 @@ attacks:
     desc: "DC 25, attack +17; __3rd __  _[[Spells/Calm|Calm Emotions (At Will)]]_, _[[Spells/Gust of Wind|Gust of Wind (x3)]]_, _[[Spells/Heal|Heal (x2)]]_; __1st __  _[[Spells/Detect Alignment|Detect Alignment (At Will)]]_\n__Cantrips__  __(4th)__ _[[Spells/Light|Light]]_\n__Constant__  __(4th)__ _[[Spells/Air Walk|Air Walk (Self Only)]]_"
 
   - name: "Breath Weapon"
-    desc: "`pf2:2` (divine,fire) The kirin breathes fire in a 30-foot cone, dealing 8d6 fire damage (DC 25 Reflex check save).\nThe kirin can't use Breath Weapon again for 1d4 rounds."
+    desc: "`pf2:2` (divine,fire) The kirin breathes fire in a @Template[cone|distance:30], dealing 8d6 fire damage (DC 25 Reflex check save).\n\nThe kirin can't use Breath Weapon again for 1d4 rounds."
 
   - name: "Rearing Thrust"
     desc: "`pf2:2`  The kirin rushes forward, rears up on their hind legs, and descends upon their target with their horn. The kirin Strides and makes a horn Strike. If this Strike hits, it deals an additional 1d8 damage, and the target is knocked [[Conditions/Prone|Prone]]."
  
+```
+
+```encounter-table
+name: Kirin
+creatures:
+  - 1: Kirin
 ```
 
 

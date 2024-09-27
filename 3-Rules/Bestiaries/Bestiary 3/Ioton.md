@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.pathfinder-bestiary-3.Actor.FXwgsLTRneGzclsw"
 tags:
   - pf2e/creature/type/astral
   - pf2e/creature/type/incorporeal
+  - pf2eMonster
   - pf2e/creature/level/0
 statblock: inline
 name: "Ioton"
@@ -25,12 +26,13 @@ level: "Creature 0"
 
 alignment: ""
 size: "tiny"
-trait_01: "astral"
-trait_02: "incorporeal"
+trait_01: [[astral]]
+trait_02: [[incorporeal]]
 modifier: 3
 perception:
   - name: "Perception"
     desc: "+3; Thoughtsense (Imprecise) 60 Feet"
+languages: "absorbed language"
 skills:
   - name: "Skills"
     desc: "Acrobatics: +6, Stealth: +6"
@@ -64,8 +66,14 @@ attacks:
     desc: "DC 14, attack +6\n__Cantrips__  __(1st)__ _[[Spells/Daze|Daze]]_, _[[Spells/Detect Magic|Detect Magic]]_"
 
   - name: "Leech Thought"
-    desc: " (healing,occult,polymorph) While a creature is taking [[Conditions/Persistent Damage|Persistent Mental Damage]] from the ioton, the ioton takes the shape of a creature familiar to the target, such as an acquaintance, pet, or common animal, though the appearance is imperfect and grants no benefit to Impersonate an individual.\nWhile transformed, the ioton loses its incorporeal trait, immunities, and resistances, but it gains an unarmed melee Strike with a +6 attack modifier (+6/+1/-4) that deals 1d8 + 2 bludgeoning damage. The ioton immediately returns to its original form once no creature is taking persistent mental damage from it."
+    desc: " (healing,occult,polymorph) While a creature is taking [[Conditions/Persistent Damage|Persistent Mental Damage]] from the ioton, the ioton takes the shape of a creature familiar to the target, such as an acquaintance, pet, or common animal, though the appearance is imperfect and grants no benefit to Impersonate an individual.\n\nWhile transformed, the ioton loses its incorporeal trait, immunities, and resistances, but it gains an unarmed melee Strike with a +6 attack modifier (+6/+1/-4) that deals 1d8+2 bludgeoning damage. The ioton immediately returns to its original form once no creature is taking persistent mental damage from it."
  
+```
+
+```encounter-table
+name: Ioton
+creatures:
+  - 1: Ioton
 ```
 
 

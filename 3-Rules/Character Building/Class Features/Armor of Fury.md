@@ -11,7 +11,7 @@ license: OGL
 ---
 # Armor of Fury
 ## Feat 19
-### [[barbarian]]
+### [[3-Rules/trait_reference/barbarian]]
 
 **Category** classfeature; 
 

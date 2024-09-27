@@ -10,6 +10,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/giant
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/8
 statblock: inline
 name: "Marsh Giant"
@@ -28,11 +29,11 @@ level: "Creature 8"
 
 alignment: ""
 size: "Large"
-trait_01: "amphibious"
-trait_02: "chaotic"
-trait_03: "evil"
-trait_04: "giant"
-trait_05: "humanoid"
+trait_01: [[amphibious]]
+trait_02: [[chaotic]]
+trait_03: [[evil]]
+trait_04: [[giant]]
+trait_05: [[humanoid]]
 modifier: 16
 perception:
   - name: "Perception"
@@ -78,7 +79,7 @@ attacks:
     desc: "DC 23, attack +13; __5th __  _[[Spells/Mariner's Curse|Mariner's Curse]]_; __2nd __  _[[Spells/Augury|Augury]]_, _[[Spells/Mist|Obscuring Mist]]_"
 
   - name: "Hook Shake"
-    desc: "`pf2:1`  **Requirements** A creature adjacent to the marsh giant is [[Conditions/Prone|Prone]] in water at least 1 foot deep\n**Effect** The marsh giant uses its gaff to shake the creature back and forth and hold it underwater. The giant attempts an Athletics check check against the target's Fortitude DC.\n**Critical Success** The target takes 6d6 + 14 piercing damage and loses 5 rounds' worth of air if they were holding their breath.\n**Success** The target takes 3d6 + 14 piercing damage and loses 3 rounds' worth of air if they were holding their breath.\n**Failure** The target is unaffected.\n**Critical Failure** As failure, but the giant drops its gaff as well."
+    desc: "`pf2:1`  **Requirements** A creature adjacent to the marsh giant is [[Conditions/Prone|Prone]] in water at least 1 foot deep\n* * *\n\n**Effect** The marsh giant uses its gaff to shake the creature back and forth and hold it underwater. The giant attempts an Athletics check check against the target's Fortitude DC.\n* * *\n\n**Critical Success** The target takes 6d6+14 piercing damage and loses 5 rounds' worth of air if they were holding their breath.\n\n**Success** The target takes 3d6+14 piercing damage and loses 3 rounds' worth of air if they were holding their breath.\n\n**Failure** The target is unaffected.\n\n**Critical Failure** As failure, but the giant drops its gaff as well."
 
   - name: "[[Bestiary Ability Glossary/Throw Rock|Throw Rock]]"
     desc: "`pf2:1`  "
@@ -86,6 +87,12 @@ attacks:
   - name: "Twist the Hook"
     desc: "`pf2:2`  The marsh giant makes a melee Strike with its gaff. If it hits, it twists and yanks the gaff to create an awful wound, dealing 3d6 persistent bleed damage to the creature."
  
+```
+
+```encounter-table
+name: Marsh Giant
+creatures:
+  - 1: Marsh Giant
 ```
 
 

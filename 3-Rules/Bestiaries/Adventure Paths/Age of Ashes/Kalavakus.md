@@ -10,6 +10,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/fiend
   - pf2e/creature/type/unholy
+  - pf2eMonster
   - pf2e/creature/level/10
 statblock: inline
 name: "Kalavakus"
@@ -27,16 +28,16 @@ level: "Creature 10"
 
 alignment: ""
 size: "Medium"
-trait_01: "chaotic"
-trait_02: "demon"
-trait_03: "evil"
-trait_04: "fiend"
-trait_05: "unholy"
+trait_01: [[chaotic]]
+trait_02: [[demon]]
+trait_03: [[evil]]
+trait_04: [[fiend]]
+trait_05: [[unholy]]
 modifier: 19
 perception:
   - name: "Perception"
     desc: "+19; Darkvision"
-languages: "Chthonian, Draconic, Empyrean"
+languages: "Chthonian, Draconic, Empyrean; telepathy 100 feet"
 skills:
   - name: "Skills"
     desc: "Acrobatics: +15, Athletics: +23, Intimidation: +22, Religion: +17, Stealth: +19"
@@ -61,7 +62,7 @@ abilities_mid:
     desc: "`pf2:r`  "
 
   - name: "Horn Snare"
-    desc: "`pf2:r`  **Trigger** A creature misses the slaver demon with a melee weapon Strike.\n**Effect** The slaver demon attempts to [[Actions/Disarm|Disarm]] the weapon used in the triggering Strike with a -2 penalty. If it rolls a success, it gets a critical success instead. The demon doesn't need a free hand to use this ability."
+    desc: "`pf2:r`  **Trigger** A creature misses the slaver demon with a melee weapon Strike.\n* * *\n\n**Effect** The slaver demon attempts to [[Actions/Disarm|Disarm]] the weapon used in the triggering Strike with a -2 penalty. If it rolls a success, it gets a critical success instead. The demon doesn't need a free hand to use this ability."
 
   - name: "Liberation Vulnerability"
     desc: "  The first time each round that a creature escapes from the slaver demon's Enslave Soul or the slaver demon witnesses a creature being freed from captivity or mental enslavement, the demon takes 3d6 mental damage."
@@ -85,8 +86,14 @@ attacks:
     desc: "_[[Spells/Demonic Pact|Abyssal Pact]]_"
 
   - name: "Enslave Soul"
-    desc: "`pf2:2` (arcane,mental) The demon enslaves the soul of a living creature within 60 feet. The target can attempt to resist this enslavement with a DC 29 Will check save.\nA slaver demon can have only one living soul enslaved with this ability at a time, and no more than one slaver demon can enslave the same soul. If a slaver demon kills a creature whose soul it has enslaved, the demon regains 20 HP and the soul is consigned to an eternity of toil in the Abyss, adding to the slaver demon's tally of souls and allowing the demon to enslave another.\n**Success** The target avoids being enslaved and is temporarily immune for 24 hours.\n**Failure** The target is enslaved and is [[Conditions/Enfeebled 1|Enfeebled 2]] for 24 hours or until the slaver demon is slain, whichever comes first.\n**Critical Failure** As failure, and the target also suffers the effects of a failed saving throw against [[Spells/Dominate|Dominate]]."
+    desc: "`pf2:2` (arcane,mental) The demon enslaves the soul of a living creature within 60 feet. The target can attempt to resist this enslavement with a DC 29 Will check save.\n\nA slaver demon can have only one living soul enslaved with this ability at a time, and no more than one slaver demon can enslave the same soul. If a slaver demon kills a creature whose soul it has enslaved, the demon regains 20 HP and the soul is consigned to an eternity of toil in the Abyss, adding to the slaver demon's tally of souls and allowing the demon to enslave another.\n* * *\n\n**Success** The target avoids being enslaved and is temporarily immune for 24 hours.\n\n**Failure** The target is enslaved and is [[Conditions/Enfeebled|Enfeebled 2]] for 24 hours or until the slaver demon is slain, whichever comes first.\n\n**Critical Failure** As failure, and the target also suffers the effects of a failed saving throw against [[Spells/Dominate|Dominate]]."
  
+```
+
+```encounter-table
+name: Kalavakus
+creatures:
+  - 1: Kalavakus
 ```
 
 

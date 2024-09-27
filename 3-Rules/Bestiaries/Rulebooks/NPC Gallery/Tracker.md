@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.npc-gallery.Actor.TCzxsJQjUpy02CsJ"
 tags:
   - pf2e/creature/type/human
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/3
 statblock: inline
 name: "Tracker"
@@ -24,8 +25,8 @@ level: "Creature 3"
 
 alignment: ""
 size: "Medium"
-trait_01: "human"
-trait_02: "humanoid"
+trait_01: [[human]]
+trait_02: [[humanoid]]
 modifier: 13
 perception:
   - name: "Perception"
@@ -33,7 +34,7 @@ perception:
 languages: "Common"
 skills:
   - name: "Skills"
-    desc: "Forest Lore: +5, Nature: +11, Stealth: +9, Survival: +13"
+    desc: "Nature: +11, Stealth: +9, Survival: +13, Forest Lore: +5"
 abilityMods: [2, 4, 2, 0, 4, 0]
 speed: 25 feet
 sourcebook: "_Pathfinder Gamemastery Guide_"
@@ -68,8 +69,14 @@ attacks:
     desc: "`pf2:1` Composite Longbow +11 (deadly d10, propulsive, range increment 100 feet, reload 0, volley 30 ft.)\n__Damage__  1d8 + 3 piercing"
 
   - name: "Hunt Prey"
-    desc: "`pf2:1` (concentrate) The tracker designates a single creature they can see and hear, or one they're Tracking, as their prey. The tracker gains a +2 circumstance bonus to Perception checks to [[Actions/Seek|Seek]] the prey and to Survival checks to [[Actions/Track|Track]] the prey.\nThe first time the tracker hits the designated prey in a round, they deal an additional 1d8 precision damage. The tracker also ignores the penalty for making ranged attacks within their second range increment.\nThese effects last until the tracker uses Hunt Prey again."
+    desc: "`pf2:1` (concentrate) The tracker designates a single creature they can see and hear, or one they're Tracking, as their prey. The tracker gains a +2 circumstance bonus to Perception checks to [[Actions/Seek|Seek]] the prey and to Survival checks to [[Actions/Track|Track]] the prey.\n\nThe first time the tracker hits the designated prey in a round, they deal an additional 1d8 precision damage. The tracker also ignores the penalty for making ranged attacks within their second range increment.\n\nThese effects last until the tracker uses Hunt Prey again."
  
+```
+
+```encounter-table
+name: Tracker
+creatures:
+  - 1: Tracker
 ```
 
 

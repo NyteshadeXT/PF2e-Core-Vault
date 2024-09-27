@@ -6,6 +6,7 @@ cssClasses: pf2e
 aliases: "Compendium.pf2e.lost-omens-travel-guide-bestiary.Actor.Oefb1ZCYp2DolpZr" 
 tags:
   - pf2e/creature/type/animal
+  - pf2eMonster
   - pf2e/creature/level/5
 statblock: inline
 name: "Irriseni Owlbear"
@@ -23,11 +24,12 @@ level: "Creature 5"
 
 alignment: ""
 size: "Large"
-trait_01: "animal"
+trait_01: [[animal]]
 modifier: 15
 perception:
   - name: "Perception"
     desc: "+15; Low-Light Vision, Scent (Imprecise) 30 Feet"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Acrobatics: +9, Athletics: +16, Intimidation: +12"
@@ -58,10 +60,10 @@ attacks:
     desc: "`pf2:1` Beak +16 ()\n__Damage__  1d12 + 8 piercing"
 
   - name: "Bloodcurdling Screech"
-    desc: "`pf2:1` (auditory,emotion,fear,mental) The owlbear unleashes a loud screech that terrifies its prey. Each creature in an 80-foot emanation must attempt a DC 22 Will check save. Regardless of the result, creatures are temporarily immune for 1 minute.\n**Critical Success** The creature is unaffected.\n**Success** The creature is [[Conditions/Frightened 1|Frightened 1]].\n**Failure** The creature is [[Conditions/Frightened 1|Frightened 2]].\n**Critical Failure** The creature is [[Conditions/Fleeing|Fleeing]] for 1 round and [[Conditions/Frightened 1|Frightened 3]]."
+    desc: "`pf2:1` (auditory,emotion,fear,mental) The owlbear unleashes a loud screech that terrifies its prey. Each creature in an @Template[emanation|distance:80] must attempt a DC 22 Will check save. Regardless of the result, creatures are temporarily immune for 1 minute.\n* * *\n\n**Critical Success** The creature is unaffected.\n\n**Success** The creature is [[Conditions/Frightened|Frightened 1]].\n\n**Failure** The creature is [[Conditions/Frightened|Frightened 2]].\n\n**Critical Failure** The creature is [[Conditions/Fleeing|Fleeing]] for 1 round and [[Conditions/Frightened|Frightened 3]]."
 
   - name: "Gnaw"
-    desc: "`pf2:1`  **Requirements** The owlbear has a creature [[Conditions/Grabbed|Grabbed]] with its talons.\n**Effect** The owlbear attempts to disembowel the creature with a beak Strike. If the Strike hits, the target must attempt a DC 24 Will check save.\n**Critical Success** The target is unaffected.\n**Success** The target is [[Conditions/Sickened 1|Sickened 1]].\n**Failure** The target is sickened 1 and [[Conditions/Slowed 1|Slowed 1]] as long as it remains sickened."
+    desc: "`pf2:1`  **Requirements** The owlbear has a creature [[Conditions/Grabbed|Grabbed]] with its talons.\n* * *\n\n**Effect** The owlbear attempts to disembowel the creature with a beak Strike. If the Strike hits, the target must attempt a DC 24 Will check save.\n* * *\n\n**Critical Success** The target is unaffected.\n\n**Success** The target is [[Conditions/Sickened|Sickened 1]].\n\n**Failure** The target is sickened 1 and [[Conditions/Slowed|Slowed 1]] as long as it remains sickened."
 
   - name: "Screeching Advance"
     desc: "`pf2:2` (auditory,emotion,fear,mental) The owlbear makes a Bloodcurdling Screech and Strides twice. All creatures within 80 feet of the owlbear at any point during this movement are subjected to the effects of Bloodcurdling Screech."
@@ -69,6 +71,12 @@ attacks:
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
     desc: "`pf2:1`  "
  
+```
+
+```encounter-table
+name: Irriseni Owlbear
+creatures:
+  - 1: Irriseni Owlbear
 ```
 
 

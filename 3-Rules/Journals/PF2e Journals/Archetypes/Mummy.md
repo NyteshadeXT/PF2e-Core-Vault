@@ -75,7 +75,7 @@ In addition, you gain resistance equal to half your level against any damage you
 
 * * *
 
-You force your mental anguish outward, projecting it upon those around you. You gain an aura of despair in a 30-foot emanation lasting 5 rounds. A creature that enters or begins its turn in the aura must succeed at a Will save against the higher of your class DC or spell DC or be [[Conditions/Frightened 1|Frightened 1]] ([[Conditions/Frightened 1|Frightened 2]] on a critical failure). A creature that succeeds at the save is temporarily immune to Mummy's Despair for 10 minutes.
+You force your mental anguish outward, projecting it upon those around you. You gain an aura of despair in a @Template\[emanation|distance:30\] lasting 5 rounds. A creature that enters or begins its turn in the aura must succeed at a Will save against the higher of your class DC or spell DC or be [[Conditions/Frightened|Frightened 1]] ([[Conditions/Frightened|Frightened 2]] on a critical failure). A creature that succeeds at the save is temporarily immune to Mummy's Despair for 10 minutes.
 
 ## [[Feats/Accursed Touch|Accursed Touch]] Feat 8
 
@@ -83,7 +83,7 @@ You force your mental anguish outward, projecting it upon those around you. You 
 
 * * *
 
-**Trigger** You've learned to harness the supernatural curse that animates you, imbuing your most powerful attacks with a terrible curse. When you critically hit with a fist Strike, void energy binds to it; this is a curse and a disease. The creature takes 2d6 persistent void damage. While the creature has this persistent damage, it's also [[Conditions/Stupefied 1|Stupefied 1]]. The persistent damage increases to 3d6 at 14th level and 4d6 at 20th level. This is a critical specialization effect.
+**Trigger** You've learned to harness the supernatural curse that animates you, imbuing your most powerful attacks with a terrible curse. When you critically hit with a fist Strike, void energy binds to it; this is a curse and a disease. The creature takes 2d6 persistent void damage. While the creature has this persistent damage, it's also [[Conditions/Stupefied|Stupefied 1]]. The persistent damage increases to 3d6 at 14th level and 4d6 at 20th level. This is a critical specialization effect.
 
 ## [[Feats/Storm Shroud|Storm Shroud]] Feat 8
 
@@ -136,7 +136,7 @@ You crumble to pieces, becoming composed of the very terrain to which you're bou
 
 * * *
 
-You draw in the moisture from nearby creatures, draining them dry to heal your wounds. Creatures in a 30-foot cone take 6d8 void damage, with a basic Reflex save against your class DC. A creature that critically fails this saving throw is also [[Conditions/Drained 1|Drained 1]]. As long as at least one creature was damaged by your Desiccating Inhalation, you regain HP equal to your level.
+You draw in the moisture from nearby creatures, draining them dry to heal your wounds. Creatures in a @Template\[cone|distance:30\] take 6d8 void damage, with a basic Reflex save against your class DC. A creature that critically fails this saving throw is also [[Conditions/Drained|Drained 1]]. As long as at least one creature was damaged by your Desiccating Inhalation, you regain HP equal to your level.
 
 At 14th level and every 2 levels thereafter, the damage increases by 1d8.
 

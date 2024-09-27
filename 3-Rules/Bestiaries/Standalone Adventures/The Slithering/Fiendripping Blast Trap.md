@@ -5,6 +5,7 @@ noteType: pf2eHazard
 tags:
   - mechanical
   - trap
+  - pf2eHazard
 
 source: Pathfinder Adventure: The Slithering
 aliases: "Compendium.pf2e.the-slithering-bestiary.Actor.nVa7a7fBFa3gEEN9" 
@@ -22,8 +23,8 @@ name: "Fiendripping Blast Trap"
 level: "Hazard 7"
 
 
-trait_01: "mechanical"
-trait_02: "trap"
+trait_01: [[mechanical]]
+trait_02: [[trap]]
 modifier: 15
 sourcebook: "_Pathfinder Adventure: The Slithering_"
 perception:
@@ -42,10 +43,16 @@ attacks:
   - name: ""
 
   - name: "Forceful Blast"
-    desc: "`pf2:r` (divine) **Trigger** The door is touched without first pressing the correct sequence of buttons\n**Effect** A blast of energy ripples outward from the door, dealing 4d10 force damage to all creatures within 20 feet and forcing them to make a DC 25 Fortitude check save.\nFiends treat the result of their saving throw as one degree worse.\n**Critical Success** The creature is unaffected.\n**Success** The creature takes half damage.\n**Failure** The creature takes full damage and is [[Conditions/Sickened 1|Sickened 1]].\n**Critical Failure** The creature takes double damage and is [[Conditions/Sickened 1|Sickened 2]]; while it is sickened, it's also [[Conditions/Slowed 1|Slowed 1]]."
+    desc: "`pf2:r` (divine) **Trigger** The door is touched without first pressing the correct sequence of buttons\n* * *\n\n**Effect** A blast of energy ripples outward from the door, dealing 4d10 force damage to all creatures within 20 feet and forcing them to make a DC 25 Fortitude check save.\n\nFiends treat the result of their saving throw as one degree worse.\n* * *\n\n**Critical Success** The creature is unaffected.\n\n**Success** The creature takes half damage.\n\n**Failure** The creature takes full damage and is [[Conditions/Sickened|Sickened 1]].\n\n**Critical Failure** The creature takes double damage and is [[Conditions/Sickened|Sickened 2]]; while it is sickened, it's also [[Conditions/Slowed|Slowed 1]]."
 
 
   - name: "Reset"
     desc: "The trap resets after 1 hour."
+```
+
+```encounter-table
+name: Fiendripping Blast Trap
+creatures:
+  - 1: Fiendripping Blast Trap
 ```
 

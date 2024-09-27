@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/humanoid
   - pf2e/creature/type/oni
   - pf2e/creature/type/water
+  - pf2eMonster
   - pf2e/creature/level/17
   - remaster
 statblock: inline
@@ -28,10 +29,10 @@ level: "Creature 17"
 
 alignment: ""
 size: "huge"
-trait_01: "giant"
-trait_02: "humanoid"
-trait_03: "oni"
-trait_04: "water"
+trait_01: [[giant]]
+trait_02: [[humanoid]]
+trait_03: [[oni]]
+trait_04: [[water]]
 modifier: 32
 perception:
   - name: "Perception"
@@ -62,7 +63,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Bean Panic"
-    desc: "  Oni are curiously afraid of beans, especially as the seasons begin to change. If a creature Interacts to throw a handful of beans at the oni, the oni becomes [[Conditions/Frightened 1|Frightened 2]]. While frightened this way, their weakness to spirit damage is increased by 5. The oni then becomes immune to bean panic for 24 hours."
+    desc: "  Oni are curiously afraid of beans, especially as the seasons begin to change. If a creature Interacts to throw a handful of beans at the oni, the oni becomes [[Conditions/Frightened|Frightened 2]]. While frightened this way, their weakness to spirit damage is increased by 5. The oni then becomes immune to bean panic for 24 hours."
 
   - name: "Lost Oni Island"
     desc: " (aura,primal) An island oni can claim an island of up to 1-mile radius in a process that takes 1 week, during which the oni must defeat any who come to challenge its claim. If successful, the oni can freely control the weather on its island and in a 1-mile radius from the shore, with the effect of a successful [[Spells/Control Weather|Control Weather]] ritual.\n\nThis altered weather surrounds the island in thick fog, seaborne mirages, or other phenomena that increase the DC of checks to locate and navigate to the island (Such as Sailing Lore or Survival) to 40, though the oni can allow allies to pass freely. If the oni dies or leaves the island, the weather returns to normal immediately."
@@ -95,11 +96,17 @@ attacks:
     desc: "`pf2:1` (electricity,primal) **Requirements** The island oni's last action was a successful longspear Strike against a Medium or smaller target\n* * *\n\n**Effect** The island oni drives the spear through the target and calls lightning to strike the spear. The target takes 6d6 electricity damage with a DC 37 Fortitude check save. On a failure, the creature is also impaled on the spear. It's [[Conditions/Grabbed|Grabbed]], and if the oni moves, they bring the grabbed creature along with them.\n\nThe island oni doesn't need to use additional actions to keep the creature grabbed; the creature remains grabbed as long as it's impaled. The grabbed creature can attempt to [[Actions/Escape|Escape]] as normal. The island oni can only have one creature impaled this way at a time."
 
   - name: "[[Bestiary Ability Glossary/Swallow Whole|Swallow Whole]]"
-    desc: "`pf2:1` (attack) Medium, 3d8 + 10 bludgeoning, Rupture 30\n\n* * *\n"
+    desc: "`pf2:1` (attack) Medium, 3d8+10 bludgeoning, Rupture 30\n\n* * *\n"
 
   - name: "Tripping Tide"
-    desc: "`pf2:2` (water) The island oni sweeps their spear in a full circle, releasing waves of seawater. All creatures in a 20-foot emanation must succeed a DC 37 Reflex check saving throw or fall [[Conditions/Prone|Prone]]."
+    desc: "`pf2:2` (water) The island oni sweeps their spear in a full circle, releasing waves of seawater. All creatures in a @Template[emanation|distance:20] must succeed a DC 37 Reflex check saving throw or fall [[Conditions/Prone|Prone]]."
  
+```
+
+```encounter-table
+name: Island Oni
+creatures:
+  - 1: Island Oni
 ```
 
 

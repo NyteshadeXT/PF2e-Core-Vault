@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.pfs-season-1-bestiary.Actor.06T3st7Hyx2O4E3v"
 tags:
   - pf2e/creature/type/construct
   - pf2e/creature/type/mindless
+  - pf2eMonster
   - pf2e/creature/level/-1
 statblock: inline
 name: "Lesser Guardian Statue"
@@ -24,12 +25,13 @@ level: "Creature -1"
 
 alignment: ""
 size: "Small"
-trait_01: "construct"
-trait_02: "mindless"
+trait_01: [[construct]]
+trait_02: [[mindless]]
 modifier: 3
 perception:
   - name: "Perception"
     desc: "+3; Darkvision"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Athletics: +5"
@@ -51,10 +53,10 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Construct Armor (Hardness 2)"
-    desc: "  Like normal objects,a lesser guardian statue has Hardness. This Hardness reduces any damage it takes by an amount equal to the Hardness.\nOnce the statue is reduced to less than half its Hit Points, or immediately upon being damaged by a critical hit, its construct armor breaks and its Armor Class is reduced to 14."
+    desc: "  Like normal objects,a lesser guardian statue has Hardness. This Hardness reduces any damage it takes by an amount equal to the Hardness.\n\nOnce the statue is reduced to less than half its Hit Points, or immediately upon being damaged by a critical hit, its construct armor breaks and its Armor Class is reduced to 14."
 
   - name: "Follow Trespasser"
-    desc: "`pf2:r` (move) **Trigger** A creature moves through the lesser guardian statue's reach.\n**Effect** The statue moves up to 15 feet in pursuit of the creature."
+    desc: "`pf2:r` (move) **Trigger** A creature moves through the lesser guardian statue's reach.\n* * *\n\n**Effect** The statue moves up to 15 feet in pursuit of the creature."
 
 attacks:
   - name: ""
@@ -62,6 +64,12 @@ attacks:
   - name: "Melee"
     desc: "`pf2:1` Slam +6 (magical)\n__Damage__  1d4 + 1 bludgeoning"
  
+```
+
+```encounter-table
+name: Lesser Guardian Statue
+creatures:
+  - 1: Lesser Guardian Statue
 ```
 
 

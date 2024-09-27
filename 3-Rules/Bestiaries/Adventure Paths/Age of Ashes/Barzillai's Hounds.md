@@ -4,6 +4,7 @@ obsidianUIMode: preview
 noteType: pf2eHazard
 tags:
   - haunt
+  - pf2eHazard
   - complex
 source: Pathfinder #147: Tomorrow Must Burn
 aliases: "Compendium.pf2e.age-of-ashes-bestiary.Actor.sqXPqmuUYOgxspV3" 
@@ -21,7 +22,7 @@ name: "Barzillai's Hounds"
 level: "Hazard 6"
 
 trait_06: "Complex"
-trait_01: "haunt"
+trait_01: [[haunt]]
 modifier: 17
 sourcebook: "_Pathfinder #147: Tomorrow Must Burn_"
 perception:
@@ -40,7 +41,7 @@ attacks:
   - name: ""
 
   - name: "Begin the Hunt"
-    desc: "`pf2:r` (occult) **Trigger** A creature that doesn't openly wear the symbol of Asmodeus comes within 60 feet of the haunt's initial location.\n**Effect** The hounds appear before the chosen target and begin to chase that creature, howling wildly. The haunt rolls initiative. Others cannot see or hear this baying and must [[Actions/Seek|Seek]] to determine the hounds' location."
+    desc: "`pf2:r` (occult) **Trigger** A creature that doesn't openly wear the symbol of Asmodeus comes within 60 feet of the haunt's initial location.\n* * *\n\n**Effect** The hounds appear before the chosen target and begin to chase that creature, howling wildly. The haunt rolls initiative. Others cannot see or hear this baying and must [[Actions/Seek|Seek]] to determine the hounds' location."
   - name: "Melee"
     desc: "Jaws +20 (magical) "
 
@@ -48,5 +49,11 @@ attacks:
     desc: "(2 actions) The haunt uses its first action to Stride (Speed 60 feet), then its second action for a jaws Strike against its designated target if it is in reach. If the target is not in reach, the haunt resets."
   - name: "Reset"
     desc: "If their designated target dies or the hounds can't reach it in a turn, the hounds vanish into noxious smoke, but they manifest again elsewhere in the city after the next sunset."
+```
+
+```encounter-table
+name: Barzillai's Hounds
+creatures:
+  - 1: Barzillai's Hounds
 ```
 

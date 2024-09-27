@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.pathfinder-bestiary-3.Actor.sESP4UwiJHeNUYEv"
 tags:
   - pf2e/creature/type/animal
   - pf2e/creature/type/swarm
+  - pf2eMonster
   - pf2e/creature/level/2
 statblock: inline
 name: "Monkey Swarm"
@@ -25,12 +26,13 @@ level: "Creature 2"
 
 alignment: ""
 size: "Large"
-trait_01: "animal"
-trait_02: "swarm"
+trait_01: [[animal]]
+trait_02: [[swarm]]
 modifier: 8
 perception:
   - name: "Perception"
     desc: "+8; "
+languages: ""
 skills:
   - name: "Skills"
     desc: "Acrobatics: +8, Thievery: +8"
@@ -58,11 +60,17 @@ attacks:
   - name: ""
 
   - name: "Ransack"
-    desc: "`pf2:2`  The swarm rummages through the possessions of a single creature within its space, attempting a Thievery check check against the creature's Reflex DC.\nOn a success, the monkeys take one random item of negligible Bulk that the creature is wearing but not closely guarding, such as an object in a loosely carried pouch."
+    desc: "`pf2:2`  The swarm rummages through the possessions of a single creature within its space, attempting a Thievery check check against the creature's Reflex DC.\n\nOn a success, the monkeys take one random item of negligible Bulk that the creature is wearing but not closely guarding, such as an object in a loosely carried pouch."
 
   - name: "Swarming Bites"
     desc: "`pf2:1`  Each creature in the swarm's space takes 1d8 piercing damage (DC 18 Reflex check save)."
  
+```
+
+```encounter-table
+name: Monkey Swarm
+creatures:
+  - 1: Monkey Swarm
 ```
 
 

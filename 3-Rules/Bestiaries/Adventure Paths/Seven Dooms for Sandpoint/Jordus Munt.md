@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/human
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/8
 statblock: inline
 name: "Jordus Munt"
@@ -23,13 +24,13 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #200: Seven Dooms for Sandpoint"
 name: "Jordus Munt"
 level: "Creature 8"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Medium"
-trait_01: "chaotic"
-trait_02: "evil"
-trait_03: "human"
-trait_04: "humanoid"
+trait_01: [[chaotic]]
+trait_02: [[evil]]
+trait_03: [[human]]
+trait_04: [[humanoid]]
 modifier: 15
 perception:
   - name: "Perception"
@@ -69,8 +70,14 @@ attacks:
     desc: "2 Focus Points, DC 26, attack +16; __4th __  _[[Spells/Fortissimo Composition|Fortissimo Composition]]_, _[[Spells/Lingering Composition|Lingering Composition]]_\n__Cantrips__  __(4th)__ _[[Spells/Courageous Anthem|Courageous Anthem]]_"
 
   - name: "Devil's Cursed Breath"
-    desc: "`pf2:2` (curse,divine,fire) **Frequency** once per day\n**Effect** Jordus bites down on his tongue (taking 1 slashing damage), then exhales a 15-foot cone of burning smoke. Each creature in the area must attempt a DC 26 Reflex check save.\n**Critical Success** The creature is unaffected.\n**Success** The creature takes 3d8 fire damage.\n**Failure** The creature takes 7d8 fire damage and is [[Conditions/Sickened 1|Sickened 1]] by the agonizing pain of the burns.\n**Critical Failure** The creature takes 10d8 fire damage, is sickened 1 by the agonizing pain of the burns, and becomes cursed. The victim's burns never fully vanish, and the cursed creature takes a –2 status penalty to all attacks from the constant pain. Healing doesn't alter the appearance of the burns or lessen the penalty, but removing the curse does.\n[[Bestiary Effects/Effect_ Devil's Cursed Breath|Effect: Devil's Cursed Breath]]"
+    desc: "`pf2:2` (curse,divine,fire) **Frequency** once per day\n* * *\n\n**Effect** Jordus bites down on his tongue (taking 1 slashing damage), then exhales a @Template[cone|distance:15] of burning smoke. Each creature in the area must attempt a DC 26 Reflex check save.\n* * *\n\n**Critical Success** The creature is unaffected.\n\n**Success** The creature takes 3d8 fire damage.\n\n**Failure** The creature takes 7d8 fire damage and is [[Conditions/Sickened|Sickened 1]] by the agonizing pain of the burns.\n\n**Critical Failure** The creature takes 10d8 fire damage, is sickened 1 by the agonizing pain of the burns, and becomes cursed. The victim's burns never fully vanish, and the cursed creature takes a –2 status penalty to all attacks from the constant pain. Healing doesn't alter the appearance of the burns or lessen the penalty, but removing the curse does.\n\n[[Bestiary Effects/Effect_ Devil's Cursed Breath|Effect: Devil's Cursed Breath]]"
  
+```
+
+```encounter-table
+name: Jordus Munt
+creatures:
+  - 1: Jordus Munt
 ```
 
 

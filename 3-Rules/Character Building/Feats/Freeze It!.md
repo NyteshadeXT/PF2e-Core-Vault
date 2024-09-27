@@ -23,9 +23,9 @@ You are no rime hag or Jadwiga, but the magic of the north has still left a mark
 
 * * *
 
-**Critical Success** The target becomes [[Conditions/Clumsy 1|Clumsy 2]] for 1 round.
+**Critical Success** The target becomes [[Conditions/Clumsy|Clumsy 2]] for 1 round.
 
-**Success** The target becomes [[Conditions/Clumsy 1|Clumsy 1]] for 1 round.
+**Success** The target becomes [[Conditions/Clumsy|Clumsy 1]] for 1 round.
 
 **Critical Failure** The target is temporarily immune for 1 minute.
 

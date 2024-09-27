@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/human
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/1
 statblock: inline
 name: "Ptiro Valner (1-2)"
@@ -23,13 +24,13 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Society Scenario #1-22: Doom of Cassomir"
 name: "Ptiro Valner (1-2)"
 level: "Creature 1"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Medium"
-trait_01: "chaotic"
-trait_02: "evil"
-trait_03: "human"
-trait_04: "humanoid"
+trait_01: [[chaotic]]
+trait_02: [[evil]]
+trait_03: [[human]]
+trait_04: [[humanoid]]
 modifier: 7
 perception:
   - name: "Perception"
@@ -37,7 +38,7 @@ perception:
 languages: "Common"
 skills:
   - name: "Skills"
-    desc: "Athletics: +7, Groetus Lore: +5, Intimidation: +5"
+    desc: "Athletics: +7, Intimidation: +5, Groetus Lore: +5"
 abilityMods: [4, 2, 2, 0, 2, -1]
 speed: 25 feet
 sourcebook: "_Pathfinder Society Scenario #1-22: Doom of Cassomir_"
@@ -69,11 +70,17 @@ attacks:
     desc: "`pf2:1` Sap +9 (agile, nonlethal)\n__Damage__  1d6 + 4 bludgeoning"
 
   - name: "Ranged"
-    desc: "`pf2:1` Crossbow +7 (range increment 120 feet, reload 1)\n__Damage__  1d8 piercing"
+    desc: "`pf2:1` Club +7 (thrown 10 ft.)\n__Damage__  1d6 + 4 bludgeoning"
 
   - name: "Ranged"
-    desc: "`pf2:1` Club +7 (thrown 10 ft.)\n__Damage__  1d6 + 4 bludgeoning"
+    desc: "`pf2:1` Crossbow +7 (range increment 120 feet, reload 1)\n__Damage__  1d8 piercing"
  
+```
+
+```encounter-table
+name: Ptiro Valner (1-2)
+creatures:
+  - 1: Ptiro Valner (1-2)
 ```
 
 

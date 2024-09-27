@@ -28,5 +28,5 @@ license: OGL
 
 [[Feat_Feature Effects/Effect_ Harrow the Fiend|Effect: Harrow the Fiend]]
 
-*Source: Pathfinder: Stolen Fate Player's Guide*
+*Source: Pathfinder Stolen Fate Player's Guide*
 *OGL*

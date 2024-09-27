@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/human
   - pf2e/creature/type/humanoid
   - pf2e/creature/type/lawful
+  - pf2eMonster
   - pf2e/creature/level/20
 statblock: inline
 name: "Inizra Arumelo"
@@ -23,13 +24,13 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #150: Broken Promises"
 name: "Inizra Arumelo"
 level: "Creature 20"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Medium"
-trait_01: "good"
-trait_02: "human"
-trait_03: "humanoid"
-trait_04: "lawful"
+trait_01: [[good]]
+trait_02: [[human]]
+trait_03: [[humanoid]]
+trait_04: [[lawful]]
 modifier: 36
 perception:
   - name: "Perception"
@@ -37,7 +38,7 @@ perception:
 languages: "Common, Draconic"
 skills:
   - name: "Skills"
-    desc: "Arcana: +32, Athletics: +38, Diplomacy: +38, Hermea Lore: +41, Medicine: +34, Society: +38"
+    desc: "Arcana: +32, Athletics: +38, Diplomacy: +38, Medicine: +34, Society: +38, Hermea Lore: +41"
 abilityMods: [7, 1, 5, 3, 2, 4]
 speed: 30 feet
 sourcebook: "_Pathfinder #150: Broken Promises_"
@@ -57,13 +58,13 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "[[Bestiary Ability Glossary/Attack of Opportunity|Attack of Opportunity (Special)]]"
-    desc: "`pf2:r`  Inizra can use Attack of Opportunity when a creature within her reach uses a concentrate action, in addition to its normal trigger. She can disrupt triggering concentrate actions, and she disrupts actions on any hit, not just a critical hit.\n"
+    desc: "`pf2:r`  Inizra can use Attack of Opportunity when a creature within her reach uses a concentrate action, in addition to its normal trigger. She can disrupt triggering concentrate actions, and she disrupts actions on any hit, not just a critical hit.\n\n* * *\n"
 
   - name: "Boundless Reprisals"
     desc: "  Inizra gains a reaction at the start of each enemy's turn that she can use only during that turn."
 
   - name: "Mirror Shield"
-    desc: "`pf2:r`  **Requirements** You have a shield raised.\n**Trigger** An opponent casting a spell that targets you critically fails a spell attack roll against your AC.\n**Effect** You reflect the spell back against the triggering opponent. Make a ranged attack against the triggering creature using your highest proficiency with a ranged weapon. If you can cast spells, you can make a spell attack roll instead. If you succeed, your opponent takes the effects of a successful spell attack roll for their own spell (or the effects of a critical success if your attack roll was a critical success)."
+    desc: "`pf2:r`  **Requirements** You have a shield raised.\n\n**Trigger** An opponent casting a spell that targets you critically fails a spell attack roll against your AC.\n* * *\n\n**Effect** You reflect the spell back against the triggering opponent. Make a ranged attack against the triggering creature using your highest proficiency with a ranged weapon. If you can cast spells, you can make a spell attack roll instead. If you succeed, your opponent takes the effects of a successful spell attack roll for their own spell (or the effects of a critical success if your attack roll was a critical success)."
 
   - name: "Paragon's Guard Stance"
     desc: "  Inizra always has her shield raised as if she had used the Raise a Shield action, as long as she meets that action's requirements."
@@ -83,6 +84,12 @@ attacks:
   - name: "Weapon Supremacy"
     desc: "  Inizra is permanently [[Conditions/Quickened|Quickened 1]]. She can use her extra action only to Strike."
  
+```
+
+```encounter-table
+name: Inizra Arumelo
+creatures:
+  - 1: Inizra Arumelo
 ```
 
 

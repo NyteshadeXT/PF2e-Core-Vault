@@ -7,8 +7,9 @@ tags:
   - trait/rage
   - trait/common
   - category/class
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.rMPL11JRcmlutvRi"
-license: OGL
+license: ORC
 ---
 # Thrash `pf2:1`
 ## Feat 8
@@ -19,11 +20,11 @@ license: OGL
 
 
 
-**Requirements** You have a foe [[Conditions/Grabbed|Grabbed]]
+**Requirements** You have an enemy [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]].
 
 * * *
 
-You thrash the grabbed foe around. It takes bludgeoning damage equal to your Strength modifier plus your weapon specialization damage plus your Rage damage. The foe must attempt a Fortitude check save against your class DC.
+You thrash your foe around. An enemy you have grabbed or restrained takes bludgeoning damage equal to your Strength modifier plus your weapon specialization damage plus your Rage damage, with a Fortitude check save against your class DC.
 
-*Source: Pathfinder Core Rulebook*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

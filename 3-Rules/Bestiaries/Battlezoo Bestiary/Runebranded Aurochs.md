@@ -6,6 +6,7 @@ cssClasses: pf2e
 aliases: "Compendium.battlezoo-bestiary-pf2e.pf2e-battlezoo-bestiary.Actor.D2DbzwcFr16eJrfl" 
 tags:
   - pf2e/creature/type/animal
+  - pf2eMonster
   - pf2e/creature/level/4
 statblock: inline
 name: "Runebranded Aurochs"
@@ -24,14 +25,15 @@ level: "Creature 4"
 
 alignment: ""
 size: "Large"
-trait_01: "animal"
+trait_01: [[animal]]
 modifier: 9
 perception:
   - name: "Perception"
     desc: "+9; Low-Light Vision, Scent (Imprecise) 30 Feet"
+languages: ""
 skills:
   - name: "Skills"
-    desc: "Athletics: +14, "
+    desc: "Athletics: +14"
 abilityMods: [6, 2, 5, -4, 1, 2]
 speed: 35 feet
 sourcebook: "_Battlezoo Bestiary_"
@@ -50,10 +52,10 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Lightning Horns"
-    desc: "`pf2:0` (electricity,magical) **Trigger** The runebranded aurochs takes electricity damage;\n**Effect** Blue bolts of electricity crackle between the aurochs's horns as though they were a pair of lightning rods. The next time the runebranded aurochs touches another creature, the electricity discharges. The touched creature takes electricity damage equal to the electricity damage that triggered this ability."
+    desc: "`pf2:0` (electricity,magical) **Trigger** The runebranded aurochs takes electricity damage;\n* * *\n\n**Effect** Blue bolts of electricity crackle between the aurochs's horns as though they were a pair of lightning rods. The next time the runebranded aurochs touches another creature, the electricity discharges. The touched creature takes electricity damage equal to the electricity damage that triggered this ability."
 
   - name: "[[Bestiary Ability Glossary/Buck|Buck]]"
-    desc: "`pf2:r`  "
+    desc: "`pf2:r`  DC 20 Reflex"
 
 attacks:
   - name: ""
@@ -65,11 +67,17 @@ attacks:
     desc: "`pf2:1` Horns +12 (deadly d8)\n__Damage__  2d6 + 6 piercing"
 
   - name: "Storm Step"
-    desc: " (electricity,magical) Whenever the aurochs moves at least its full Speed as part of a Stride or Trample action, it rises off the ground on a billow of thunderous storm clouds.\nUntil the end of its next turn, the aurochs can effortlessly climb vertical and horizontal surfaces, it takes no damage from falls, and its attacks deal an additional 1d6 electricity damage.\nEffect: Storm Step"
+    desc: " (electricity,magical) Whenever the aurochs moves at least its full Speed as part of a Stride or Trample action, it rises off the ground on a billow of thunderous storm clouds.\n\nUntil the end of its next turn, the aurochs can effortlessly climb vertical and horizontal surfaces, it takes no damage from falls, and its attacks deal an additional 1d6 electricity damage.\n* * *\n\n[[Effects/Effect_ Storm Step|Effect: Storm Step]]"
 
   - name: "[[Bestiary Ability Glossary/Trample|Trample]]"
-    desc: "`pf2:3`  Medium or smaller, hoof, basic reflex save\n"
+    desc: "`pf2:3`  Medium or smaller, hoof, DC 20 basic reflex save\n\n* * *\n"
  
+```
+
+```encounter-table
+name: Runebranded Aurochs
+creatures:
+  - 1: Runebranded Aurochs
 ```
 
 

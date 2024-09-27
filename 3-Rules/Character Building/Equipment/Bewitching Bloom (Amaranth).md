@@ -12,7 +12,7 @@ license: OGL
 ---
 # Bewitching Bloom (Amaranth)
 ## Item 15
-### [[invested]][[magical]][[tattoo]]
+### [[invested]][[3-Rules/Rule References/Magical]][[tattoo]]
 
 
 **Price** 5500 gp; 

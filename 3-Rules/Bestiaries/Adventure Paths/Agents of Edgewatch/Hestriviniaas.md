@@ -6,6 +6,7 @@ cssClasses: pf2e
 aliases: "Compendium.pf2e.agents-of-edgewatch-bestiary.Actor.LAamprMlzk7k5auj" 
 tags:
   - pf2e/creature/type/chaotic
+  - pf2eMonster
   - pf2e/creature/level/22
 statblock: inline
 name: "Hestriviniaas"
@@ -20,15 +21,15 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #162: Ruins of the Radiant Siege"
 name: "Hestriviniaas"
 level: "Creature 22"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "huge"
-trait_01: "chaotic"
+trait_01: [[chaotic]]
 modifier: 40
 perception:
   - name: "Perception"
     desc: "+40; Darkvision"
-languages: "Chthonian, Empyrean, Protean"
+languages: "Chthonian, Empyrean, Protean; telepathy 100 feet, tongues"
 skills:
   - name: "Skills"
     desc: "Acrobatics: +41, Athletics: +43, Deception: +42, Diplomacy: +42, Intimidation: +42, Religion: +42, Stealth: +38"
@@ -48,7 +49,7 @@ abilities_top:
   - name: ""
 
   - name: "Entropy Sense (Imprecise) 60 feet"
-    desc: " (divine,prediction) Hestriviniaas can anticipate the most likely presence of a creature through a supernatural insight into chaotic probabilities and chance. This grants it the ability to sense creatures within the listed range.\nA creature under the effects of [[Spells/Veil of Privacy|Veil of Privacy]] or that is otherwise shielded from divinations and predictions cannot be noticed via entropy sense."
+    desc: " (divine,prediction) Hestriviniaas can anticipate the most likely presence of a creature through a supernatural insight into chaotic probabilities and chance. This grants it the ability to sense creatures within the listed range.\n\nA creature under the effects of [[Spells/Veil of Privacy|Veil of Privacy]] or that is otherwise shielded from divinations and predictions cannot be noticed via entropy sense."
 
 abilities_mid:
   - name: ""
@@ -56,10 +57,10 @@ abilities_mid:
     desc: "`pf2:r`  "
 
   - name: "Protean Anatomy"
-    desc: " (divine) Hestriviniaas' vital organs shift and change shape and position constantly. Immediately after the Hestriviniaas takes acid, electricity, or sonic damage, it gains the listed amount of resistance to that damage type.\nThis lasts for 1 hour or until the next time the protean takes damage of one of the other types (in which case its resistance changes to match that type), whichever comes first. The keketar is immune to polymorph effects unless it is a willing target.\nIf [[Conditions/Blinded|Blinded]] or [[Conditions/Deafened|Deafened]], the keketar automatically recovers at the end of its next turn as new sensory organs grow to replace the compromised ones."
+    desc: " (divine) Hestriviniaas' vital organs shift and change shape and position constantly. Immediately after the Hestriviniaas takes acid, electricity, or sonic damage, it gains the listed amount of resistance to that damage type.\n\nThis lasts for 1 hour or until the next time the protean takes damage of one of the other types (in which case its resistance changes to match that type), whichever comes first. The keketar is immune to polymorph effects unless it is a willing target.\n\nIf [[Conditions/Blinded|Blinded]] or [[Conditions/Deafened|Deafened]], the keketar automatically recovers at the end of its next turn as new sensory organs grow to replace the compromised ones."
 
   - name: "Spatial Riptide"
-    desc: " (aura,divine) 30 feet. A creature using a teleportation ability within the aura or arriving in it via teleportation must succeed at a DC 45 Fortitude check save or wink out of existence for 1d4 rounds before completing the teleport. The creature can't act, sense anything, or be targeted. On a successful save, the creature completes the teleport normally but is [[Conditions/Stunned 1|Stunned 1]].\nKeketars are immune to this effect."
+    desc: " (aura,divine) 30 feet. A creature using a teleportation ability within the aura or arriving in it via teleportation must succeed at a DC 45 Fortitude check save or wink out of existence for 1d4 rounds before completing the teleport. The creature can't act, sense anything, or be targeted. On a successful save, the creature completes the teleport normally but is [[Conditions/Stunned|Stunned 1]].\n\nKeketars are immune to this effect."
 
 attacks:
   - name: ""
@@ -77,10 +78,10 @@ attacks:
     desc: "DC 45, attack +39; __9th __  _[[Spells/Divine Wrath|Divine Wrath]]_, _[[Spells/Prismatic Shield|Prismatic Shield]]_, _[[Spells/Prismatic Sphere|Prismatic Sphere]]_; __8th __  _[[Spells/Cursed Metamorphosis|Baleful Polymorph]]_, _[[Spells/Confusion|Confusion]]_; __7th __  _[[Spells/Disintegrate|Disintegrate]]_, _[[Spells/Dispel Magic|Dispel Magic (At Will)]]_, _[[Spells/Shatter|Shatter (At Will)]]_, _[[Spells/Warp Mind|Warp Mind (x3)]]_; __6th __  _[[Spells/Teleport|Teleport (At Will) (Self Only)]]_; __5th __  _[[Spells/Creation|Creation (At Will)]]_, _[[Spells/Translocate|Dimension Door]]_, _[[Spells/Mirage|Hallucinatory Terrain (See Reshape Reality) (x2)]]_; __4th __  _[[Spells/Confusion|Confusion (At Will)]]_, _[[Spells/Translocate|Dimension Door (At Will)]]_; __1st __  _[[Spells/Detect Alignment|Detect Alignment (At Will) (Self Only)]]_\n__Constant__  __(5th)__ _[[Spells/Truespeech|Tongues]]_ __(4th)__ _[[Spells/Unfettered Movement|Freedom of Movement]]_"
 
   - name: "[[Bestiary Ability Glossary/Change Shape|Change Shape]]"
-    desc: "`pf2:1` (concentrate,divine,polymorph) Hestriviniaas can take the appearance of any Gargantuan or smaller creature. This doesn't change its Speed or its attack and damage bonuses with its Strikes, but might change the damage type its Strikes deal.\n"
+    desc: "`pf2:1` (concentrate,divine,polymorph) Hestriviniaas can take the appearance of any Gargantuan or smaller creature. This doesn't change its Speed or its attack and damage bonuses with its Strikes, but might change the damage type its Strikes deal.\n\n* * *\n"
 
   - name: "[[Bestiary Ability Glossary/Constrict|Constrict]]"
-    desc: "`pf2:1`  2d12 + 21 bludgeoning damage, DC 44 Fortitude check\n"
+    desc: "`pf2:1`  2d12+21 bludgeoning damage, DC 44 Fortitude check\n\n* * *\n"
 
   - name: "Reshape Reality"
     desc: " (concentrate,divine) When Hestriviniaas casts [[Spells/Mirage|Mirage]], it infuses the illusion with quasi-real substance. Creatures that do not disbelieve the illusion treat structures and terrain created through the spell as though they were real, ascending illusory stairs, becoming trapped by illusory quicksand, and so on."
@@ -91,6 +92,12 @@ attacks:
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
     desc: "`pf2:1`  "
  
+```
+
+```encounter-table
+name: Hestriviniaas
+creatures:
+  - 1: Hestriviniaas
 ```
 
 

@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/chaotic
   - pf2e/creature/type/fey
   - pf2e/creature/type/wild-hunt
+  - pf2eMonster
   - pf2e/creature/level/15
 statblock: inline
 name: "Wild Hunt Horse"
@@ -22,17 +23,17 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Kingmaker"
 name: "Wild Hunt Horse"
 level: "Creature 15"
-rare_03: "Rare"
+rare_03: [[Rare]]
 alignment: ""
 size: "Large"
-trait_01: "chaotic"
-trait_02: "fey"
-trait_03: "wild-hunt"
+trait_01: [[chaotic]]
+trait_02: [[fey]]
+trait_03: [[wild-hunt]]
 modifier: 29
 perception:
   - name: "Perception"
     desc: "+29; Greater Darkvision, Scent (Imprecise) 30 Feet"
-languages: "Common, Fey"
+languages: "Common, Fey; speak with animals; speak with plants"
 skills:
   - name: "Skills"
     desc: "Acrobatics: +27, Athletics: +31, Survival: +29"
@@ -72,7 +73,7 @@ abilities_mid:
     desc: "  If the wild hunt horse has a wild hunt rider, damage done to the horse or rider from Strikes is split equally between the two."
 
   - name: "Wild Gaze"
-    desc: " (aura,fear,incapacitation,mental,primal,visual) 30 feet. Those who meet the gaze of a wild hunt horse come face-to-face with the hunt's fearful power and find it difficult to act in the face of such a legendary legacy. When a creature ends its turn in the aura, it must succeed at a DC 33 Will check save to resist becoming [[Conditions/Slowed 1|Slowed 1]] ([[Conditions/Slowed 1|Slowed 2]] on a critical failure). The wild hunt horse can deactivate or activate this aura by using a single action, which has the concentrate trait."
+    desc: " (aura,fear,incapacitation,mental,primal,visual) 30 feet. Those who meet the gaze of a wild hunt horse come face-to-face with the hunt's fearful power and find it difficult to act in the face of such a legendary legacy. When a creature ends its turn in the aura, it must succeed at a DC 33 Will check save to resist becoming [[Conditions/Slowed|Slowed 1]] ([[Conditions/Slowed|Slowed 2]] on a critical failure). The wild hunt horse can deactivate or activate this aura by using a single action, which has the concentrate trait."
 
 attacks:
   - name: ""
@@ -84,17 +85,23 @@ attacks:
     desc: "DC 36, attack +28; __8th __  _[[Spells/Unfettered Movement|Freedom of Movement]]_, _[[Spells/Nature's Pathway|Tree Stride (Self plus Willing Rider)]]_; __6th __  _[[Spells/Speak with Stones|Stone Tell]]_\n__Cantrips__  __(8th)__ _[[Spells/Know the Way|Know Direction]]_, _[[Spells/Telekinetic Hand|Mage Hand]]_\n__Constant__  __(8th)__ _[[Spells/Speak with Animals|Speak with Animals]]_, _[[Spells/Speak with Plants|Speak with Plants]]_"
 
   - name: "Bewildering Hoofbeats"
-    desc: "`pf2:2` (auditory,aura,emotion,mental,primal) 60 feet. The wild hunt horse stamps its hooves and prances in place, creating the sound of hundreds of horses apparently approaching from all directions. Each creature within 60-foot emanation must attempt a DC 33 Will check save.\n**Critical Success** The creature is unaffected and is temporarily immune to Bewildering Hoofbeats for 1 hour.\n**Success** The creature is distracted by the sound. Until the start of the creature's next turn, if it attempts to use a reaction, it must succeed at a DC 5 Flat check or the reaction is disrupted, wasted with no effect.\n**Failure** The creature is bewildered by the sound, with the same effects as success except it is also [[Conditions/Confused|Confused]] for 1 round.\n**Critical Failure** As failure, but the confusion effect persists for 1 minute or until the creature recovers by other means."
+    desc: "`pf2:2` (auditory,aura,emotion,mental,primal) 60 feet. The wild hunt horse stamps its hooves and prances in place, creating the sound of hundreds of horses apparently approaching from all directions. Each creature within @Template[emanation|distance:60] must attempt a DC 33 Will check save.\n* * *\n\n**Critical Success** The creature is unaffected and is temporarily immune to Bewildering Hoofbeats for 1 hour.\n\n**Success** The creature is distracted by the sound. Until the start of the creature's next turn, if it attempts to use a reaction, it must succeed at a DC 5 Flat check or the reaction is disrupted, wasted with no effect.\n\n**Failure** The creature is bewildered by the sound, with the same effects as success except it is also [[Conditions/Confused|Confused]] for 1 round.\n\n**Critical Failure** As failure, but the confusion effect persists for 1 minute or until the creature recovers by other means."
 
   - name: "Deafening Cry"
-    desc: "`pf2:1` (auditory,primal,sonic) The wild hunt horse gives out a thundering cry in a 15-foot cone. Creatures in the area take 16d6 sonic damage (DC 36 Fortitude check, plus [[Conditions/Deafened|Deafened]] for 1 minute on a critical failure). The wild hunt horse can't use Deafening Cry again for 1d4 rounds."
+    desc: "`pf2:1` (auditory,primal,sonic) The wild hunt horse gives out a thundering cry in a @Template[cone|distance:15]. Creatures in the area take 16d6 sonic damage (DC 36 Fortitude check, plus [[Conditions/Deafened|Deafened]] for 1 minute on a critical failure). The wild hunt horse can't use Deafening Cry again for 1d4 rounds."
 
   - name: "Focus Gaze"
     desc: "`pf2:1` (concentrate,fear,incapacitation,mental,primal,visual) The wild hunt horse fixes its glare at a creature it can see within 30 feet. The target must immediately attempt a Will save against the wild hunt hound's wild gaze. If the creature was already slowed by the wild gaze before attempting its save, a failed save causes it to be [[Conditions/Paralyzed|Paralyzed]] for 1 round. After attempting its save, the creature is temporarily immune to Focus Gaze from any wild hunt until the start of the wild hunt horse's next turn."
 
   - name: "[[Bestiary Ability Glossary/Trample|Trample]]"
-    desc: "`pf2:3`  Medium or smaller, Hoof, DC 36 Reflex check\n"
+    desc: "`pf2:3`  Medium or smaller, Hoof, DC 36 Reflex check\n\n* * *\n"
  
+```
+
+```encounter-table
+name: Wild Hunt Horse
+creatures:
+  - 1: Wild Hunt Horse
 ```
 
 

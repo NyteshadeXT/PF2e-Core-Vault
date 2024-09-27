@@ -6,6 +6,7 @@ cssClasses: pf2e
 aliases: "Compendium.pf2e.pathfinder-monster-core.Actor.jkp7THTZMc0ivN8Y" 
 tags:
   - pf2e/creature/type/animal
+  - pf2eMonster
   - pf2e/creature/level/10
   - remaster
 statblock: inline
@@ -25,7 +26,7 @@ level: "Creature 10"
 
 alignment: ""
 size: "huge"
-trait_01: "animal"
+trait_01: [[animal]]
 modifier: 18
 perception:
   - name: "Perception"
@@ -75,6 +76,12 @@ attacks:
   - name: "Grabbing Trunk"
     desc: "  A Medium or smaller creature hit by the mammoth's trunk is [[Conditions/Grabbed|Grabbed]]. If the mammoth moves, it can bring the Grabbed creature along with it."
  
+```
+
+```encounter-table
+name: Mammoth
+creatures:
+  - 1: Mammoth
 ```
 
 

@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/humanoid
   - pf2e/creature/type/orc
+  - pf2eMonster
   - pf2e/creature/level/1
 statblock: inline
 name: "Orc Alchemist"
@@ -26,10 +27,10 @@ level: "Creature 1"
 
 alignment: ""
 size: "Medium"
-trait_01: "chaotic"
-trait_02: "evil"
-trait_03: "humanoid"
-trait_04: "orc"
+trait_01: [[chaotic]]
+trait_02: [[evil]]
+trait_03: [[humanoid]]
+trait_04: [[orc]]
 modifier: 6
 perception:
   - name: "Perception"
@@ -68,15 +69,21 @@ attacks:
   - name: "Melee"
     desc: "`pf2:1` Fist +5 (agile)\n__Damage__  1d4 + 1 bludgeoning"
 
-  - name: "Ranged"
+  - name: "Melee"
     desc: "`pf2:1` Acid Flask (Lesser) +7 (bomb, consumable, splash)\n__Damage__  1 acid 1d6 acid 1 acid"
 
-  - name: "Ranged"
+  - name: "Melee"
     desc: "`pf2:1` Alchemist&#x27;s Fire (Lesser) +7 (bomb, consumable, splash)\n__Damage__  1d8 fire 1 fire 1 fire"
 
-  - name: "Ranged"
+  - name: "Melee"
     desc: "`pf2:1` Bottled Lightning (Lesser) +7 (bomb, consumable, splash)\n__Damage__  1d6 electricity 1 electricity"
  
+```
+
+```encounter-table
+name: Orc Alchemist
+creatures:
+  - 1: Orc Alchemist
 ```
 
 

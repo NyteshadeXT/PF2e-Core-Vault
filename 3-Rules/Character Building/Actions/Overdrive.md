@@ -12,7 +12,7 @@ license: OGL
 ---
 # Overdrive `pf2:1`
 
-### [[inventor]][[manipulate]]
+### [[inventor]][[3-Rules/Rule References/Manipulate]]
 
 **Category** offensive; 
 

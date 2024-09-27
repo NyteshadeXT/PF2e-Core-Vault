@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/lawful
   - pf2e/creature/type/spirit
   - pf2e/creature/type/undead
+  - pf2eMonster
   - pf2e/creature/level/9
 statblock: inline
 name: "Grappling Spirit"
@@ -23,13 +24,13 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Book of the Dead"
 name: "Grappling Spirit"
 level: "Creature 9"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Medium"
-trait_01: "incorporeal"
-trait_02: "lawful"
-trait_03: "spirit"
-trait_04: "undead"
+trait_01: [[incorporeal]]
+trait_02: [[lawful]]
+trait_03: [[spirit]]
+trait_04: [[undead]]
 modifier: 17
 perception:
   - name: "Perception"
@@ -37,7 +38,7 @@ perception:
 languages: "Common"
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +19, Athletics: +21, Diplomacy: +18, Gladiatorial Lore: +15, Intimidation: +20, Performance: +20"
+    desc: "Acrobatics: +19, Athletics: +21, Diplomacy: +18, Intimidation: +20, Performance: +20, Gladiatorial Lore: +15"
 abilityMods: [-5, 6, 4, 0, 2, 5]
 speed:  fly 60 feet
 sourcebook: "_Pathfinder Book of the Dead_"
@@ -68,14 +69,20 @@ attacks:
     desc: "  A grappling spirit can [[Actions/Grapple|Grapple]] corporeal creatures despite being incorporeal. The grappling spirit uses their Athletics check to Grapple as normal but can't use Athletics for other actions that require corporeal contact, like [[Actions/Force Open|Force Open]] or [[Actions/Trip|Trip]]."
 
   - name: "Submission Lock"
-    desc: "`pf2:2` (nonlethal) **Requirements** The grappling spirit has a creature [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]]\n**Effect** The spirit saps their opponent's strength with a supernatural grip. The grappling spirit attempts an Athletics check to [[Actions/Grapple|Grapple]] a creature they have grabbed or restrained, also adding 4d10 + 12 void damage, depending on the result.\n**Critical Success** The creature takes double damage. If it's already enfeebled, it falls [[Conditions/Unconscious|Unconscious]]. If not, it is [[Conditions/Enfeebled 1|Enfeebled 2]] until the end of its next turn and [[Conditions/Enfeebled 1|Enfeebled 1]] for 1 minute.\n**Success** The creature takes full damage and is enfeebled 1 until the end of its next turn."
+    desc: "`pf2:2` (nonlethal) **Requirements** The grappling spirit has a creature [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]]\n* * *\n\n**Effect** The spirit saps their opponent's strength with a supernatural grip. The grappling spirit attempts an Athletics check to [[Actions/Grapple|Grapple]] a creature they have grabbed or restrained, also adding 4d10+12 void damage, depending on the result.\n* * *\n\n**Critical Success** The creature takes double damage. If it's already enfeebled, it falls [[Conditions/Unconscious|Unconscious]]. If not, it is [[Conditions/Enfeebled|Enfeebled 2]] until the end of its next turn and [[Conditions/Enfeebled|Enfeebled 1]] for 1 minute.\n\n**Success** The creature takes full damage and is enfeebled 1 until the end of its next turn."
 
   - name: "Teleporting Clothesline"
-    desc: "`pf2:2` (occult,teleportation) **Requirements** The grappling spirit has a creature [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]]\n**Effect** The grappling spirit pushes the creature 15 feet in a straight line. The spirit immediately teleports 20 feet to intercept. They make a ghostly hand Strike against the creature. On a hit, the creature is knocked [[Conditions/Prone|Prone]], and on a critical hit, it also takes an additional 2d6 bludgeoning damage as it's driven to the ground."
+    desc: "`pf2:2` (occult,teleportation) **Requirements** The grappling spirit has a creature [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]]\n* * *\n\n**Effect** The grappling spirit pushes the creature 15 feet in a straight line. The spirit immediately teleports 20 feet to intercept. They make a ghostly hand Strike against the creature. On a hit, the creature is knocked [[Conditions/Prone|Prone]], and on a critical hit, it also takes an additional 2d6 bludgeoning damage as it's driven to the ground."
 
   - name: "Victory Celebration"
     desc: "  If a spirit knocks a creature [[Conditions/Unconscious|Unconscious]], each creature within 60 feet that witnesses the victory is targeted with a DC 26 Will check [[Spells/Roaring Applause|Roaring Applause]] spell. The spirit must spend all their actions until the end of the turn celebrating, and a new medal or belt appears on the spirit."
  
+```
+
+```encounter-table
+name: Grappling Spirit
+creatures:
+  - 1: Grappling Spirit
 ```
 
 

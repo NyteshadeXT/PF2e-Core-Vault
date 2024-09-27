@@ -12,7 +12,7 @@ license: ORC
 ---
 # Countering Charm
 ## Item 11
-### [uncommon](uncommon "Uncommon Rarity Trait")[[invested]][[magical]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[invested]][[3-Rules/Rule References/Magical]]
 
 
 **Price** 1200 gp; 

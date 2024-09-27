@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/good
   - pf2e/creature/type/petitioner
   - pf2e/creature/type/vitality
+  - pf2eMonster
   - pf2e/creature/level/1
 statblock: inline
 name: "Petitioner (Positive Energy Plane)"
@@ -26,9 +27,9 @@ level: "Creature 1"
 
 alignment: ""
 size: "Medium"
-trait_01: "good"
-trait_02: "petitioner"
-trait_03: "vitality"
+trait_01: [[good]]
+trait_02: [[petitioner]]
+trait_03: [[vitality]]
 modifier: 7
 perception:
   - name: "Perception"
@@ -61,8 +62,14 @@ attacks:
     desc: "`pf2:1` Glowing Touch +7 ()\n__Damage__  1d8 + 2 vitality"
 
   - name: "Planar Incarnation - Forge of Creation"
-    desc: "  All petitioners are formed from and personify the nature of the plane on which they manifest, and their statistics are adjusted as summarized below. They also gain any trait associated with creatures from their plane.\n**Forge of Creation** The enlightened appear as diaphanous, radiant versions of their mortal selves\n*   **Alignment** any good;\n*   **Language** Jyoti;\n*   **Additional Ability** fast healing 5;\n*   **Melee** glowing touch +7, **Damage** 1d8+2 positive"
+    desc: "  All petitioners are formed from and personify the nature of the plane on which they manifest, and their statistics are adjusted as summarized below. They also gain any trait associated with creatures from their plane.\n\n**Forge of Creation** The enlightened appear as diaphanous, radiant versions of their mortal selves\n\n*   **Alignment** any good;\n*   **Language** Jyoti;\n*   **Additional Ability** fast healing 5;\n*   **Melee** glowing touch +7, **Damage** 1d8+2 positive"
  
+```
+
+```encounter-table
+name: Petitioner (Positive Energy Plane)
+creatures:
+  - 1: Petitioner (Positive Energy Plane)
 ```
 
 

@@ -7,8 +7,9 @@ tags:
   - trait/skill
   - trait/common
   - category/skill
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.f0s3WwaJN5f2UTYY"
-license: OGL
+license: ORC
 ---
 # Reverse Engineering
 ## Feat 4
@@ -18,11 +19,11 @@ license: OGL
 
 
 
-**Prerequisites** expert in Crafting; Scounger Dedication
+**Prerequisites** expert in Crafting; Scrounger Dedication
 * * *
-You are able to reverse engineer items into formulas more effectively than most. You gain a +2 circumstance bonus to Crafting checks to reverse engineer a formula from an item.
+Your nigh-constant tinkering and fiddling with objects means you are able to reverse engineer items into formulas more effectively than most.
 
-Additionally, if you get a critical success on your Crafting check, you can opt to not only create the formula but also reassemble the original item at the same time, leaving you with the formula and the item instead ofthe formula and raw materials equal to half the item's value.
+You gain a +2 circumstance bonus to Crafting checks to reverse engineer a formula from an item, and you can attempt a Crafting check to reverse engineer an item after spending 1 day of work setting up instead of 2. Additionally, if you get a critical success on your Crafting check, you can opt to not only create the formula but also reassemble the original item at the same time, leaving you with the formula and the item instead of the formula and raw materials equal to half the item's value.
 
-*Source: Pathfinder Advanced Player's Guide*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

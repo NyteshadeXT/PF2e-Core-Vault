@@ -22,7 +22,7 @@ license: OGL
 
 * * *
 
-You hurl your melee weapon at an opponent, then fire a bullet into the weapon's hilt, making it deal additional damage and bounce back to your grasp. Make a thrown ranged Strike with the melee weapon, then a ranged Strike with your firearm. Both Strikes use the same multiple attack penalty. If the melee weapon doesn't already have the thrown trait, it gains the thrown 10 feet trait during a Rebounding Assault.
+You hurl your melee weapon at an opponent, then fire a bullet into the weapon's hilt, making it bounce back to your grasp. Make a thrown ranged Strike with the melee weapon, then a ranged Strike with your firearm. Both Strikes use your current multiple attack penalty and this counts as two attacks when calculating your multiple attack penalty. If the melee weapon doesn't already have the thrown trait, it gains the thrown 10 feet trait during a Rebounding Assault.
 
 If both attacks are successful, the bolt or bullet hits the thrown melee weapon instead of your target, adding its force into one attack. Combine the damage from both Strikes, using the thrown weapon's damage type, and add an additional 1d6 precision damage. The impact sends the melee weapon rebounding off the target and back to your hand.
 

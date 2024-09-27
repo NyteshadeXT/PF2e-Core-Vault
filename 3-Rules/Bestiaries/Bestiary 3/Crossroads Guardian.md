@@ -6,6 +6,7 @@ cssClasses: pf2e
 aliases: "Compendium.pf2e.pathfinder-bestiary-3.Actor.qvVmYuERMib26Atc" 
 tags:
   - pf2e/creature/type/fey
+  - pf2eMonster
   - pf2e/creature/level/7
 statblock: inline
 name: "Crossroads Guardian"
@@ -21,18 +22,18 @@ token: [[modules/pf2e-tokens-bestiaries/portraits/fey/crossroads-guardian.webp| 
 source: "Pathfinder Bestiary 3"
 name: "Crossroads Guardian"
 level: "Creature 7"
-rare_03: "Rare"
+rare_03: [[Rare]]
 alignment: ""
 size: "Medium"
-trait_01: "fey"
+trait_01: [[fey]]
 modifier: 19
 perception:
   - name: "Perception"
     desc: "+19; "
-languages: "Fey"
+languages: "Fey; tongues"
 skills:
   - name: "Skills"
-    desc: "Arcana: +16, Diplomacy: +20, Lore (Associated with the Guardian's Need): +20, Medicine: +17, Nature: +19, Occultism: +16, Performance: +16, Religion: +17, Society: +16, Survival: +19"
+    desc: "Arcana: +16, Diplomacy: +20, Medicine: +17, Nature: +19, Occultism: +16, Performance: +16, Religion: +17, Society: +16, Survival: +19, Lore (Associated with the Guardian's Need): +20"
 abilityMods: [5, 4, 3, 5, 6, 7]
 speed: 25 feet,  swim 25 feet
 sourcebook: "_Pathfinder Bestiary 3_"
@@ -58,7 +59,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Primal Purpose"
-    desc: "  A crossroads guardian can't be permanently destroyed while its need remains unfulfilled. If killed, it reforms within 1 day near the object it guards, near someone under a [[Spells/Geas|Geas]] to fulfill its need, or at the site of its original appearance.\nOnce the guardian's need is fulfilled, the crossroads guardian dissipates naturally within a week unless it finds a new quest."
+    desc: "  A crossroads guardian can't be permanently destroyed while its need remains unfulfilled. If killed, it reforms within 1 day near the object it guards, near someone under a [[Spells/Geas|Geas]] to fulfill its need, or at the site of its original appearance.\n\nOnce the guardian's need is fulfilled, the crossroads guardian dissipates naturally within a week unless it finds a new quest."
 
 attacks:
   - name: ""
@@ -75,6 +76,12 @@ attacks:
   - name: "Rituals"
     desc: "  DC 25; _geas_ (doesn't require secondary casters and can target a willing creature of any level)"
  
+```
+
+```encounter-table
+name: Crossroads Guardian
+creatures:
+  - 1: Crossroads Guardian
 ```
 
 

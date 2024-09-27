@@ -10,6 +10,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/lawful
   - pf2e/creature/type/water
+  - pf2eMonster
   - pf2e/creature/level/3
 statblock: inline
 name: "Silaqui (3-4)"
@@ -24,14 +25,14 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Society Scenario #2-06: The Crashing Wave"
 name: "Silaqui (3-4)"
 level: "Creature 3"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Medium"
-trait_01: "aquatic"
-trait_02: "elemental"
-trait_03: "evil"
-trait_04: "lawful"
-trait_05: "water"
+trait_01: [[aquatic]]
+trait_02: [[elemental]]
+trait_03: [[evil]]
+trait_04: [[lawful]]
+trait_05: [[water]]
 modifier: 7
 perception:
   - name: "Perception"
@@ -58,7 +59,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Curse of the Spiraling Maelstrom"
-    desc: "`pf2:r`  **Trigger** A creature adjacent to Silaqui successfully hits her with a Strike.\n**Effect** The attacker takes 1d6 slashing damage (DC 20 Reflex check save) as they are battered by high-pressure water currents."
+    desc: "`pf2:r`  **Trigger** A creature adjacent to Silaqui successfully hits her with a Strike.\n* * *\n\n**Effect** The attacker takes 1d6 slashing damage (DC 20 Reflex check save) as they are battered by high-pressure water currents."
 
 attacks:
   - name: ""
@@ -69,6 +70,12 @@ attacks:
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
     desc: "`pf2:1`  "
  
+```
+
+```encounter-table
+name: Silaqui (3-4)
+creatures:
+  - 1: Silaqui (3-4)
 ```
 
 

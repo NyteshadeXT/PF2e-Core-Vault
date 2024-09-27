@@ -11,7 +11,7 @@ license: OGL
 ---
 # Aether Appendage
 ## Item 5
-### [uncommon](uncommon "Uncommon Rarity Trait")[[incorporeal]][[magical]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[incorporeal]][[3-Rules/Rule References/Magical]]
 
 
 **Price** 160 gp; 

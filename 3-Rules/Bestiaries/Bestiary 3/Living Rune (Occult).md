@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.pathfinder-bestiary-3.Actor.pCDp2hdim12wonW5"
 tags:
   - pf2e/creature/type/construct
   - pf2e/creature/type/lawful
+  - pf2eMonster
   - pf2e/creature/level/13
 statblock: inline
 name: "Living Rune (Occult)"
@@ -22,18 +23,19 @@ token: [[modules/pf2e-tokens-bestiaries/portraits/constructed/magical/living-run
 source: "Pathfinder Bestiary 3"
 name: "Living Rune (Occult)"
 level: "Creature 13"
-rare_03: "Rare"
+rare_03: [[Rare]]
 alignment: ""
 size: "Small"
-trait_01: "construct"
-trait_02: "lawful"
+trait_01: [[construct]]
+trait_02: [[lawful]]
 modifier: 25
 perception:
   - name: "Perception"
     desc: "+25; Darkvision, Truesight"
+languages: "truescript"
 skills:
   - name: "Skills"
-    desc: "Deception: +24, Occultism: +0, Stealth: +25 (+31 to Hide or Sneak among inscriptions)"
+    desc: "Deception: +24, Occultism: +0, Stealth: +25"
 abilityMods: [1, 6, 1, 8, 8, 5]
 speed: 25 feet
 sourcebook: "_Pathfinder Bestiary 3_"
@@ -69,6 +71,12 @@ attacks:
   - name: "Occult Innate Spells"
     desc: "DC 35, attack +27; __7th __  _[[Spells/Visions of Danger|Visions of Danger (x2)]]_; __6th __  _[[Spells/Never Mind|Feeblemind]]_, _[[Spells/Rune Trap|Glyph of Warding (At Will)]]_, _[[Spells/Phantasmal Calamity|Phantasmal Calamity]]_, _[[Spells/Vibrant Pattern|Vibrant Pattern]]_; __5th __  _[[Spells/Wave of Despair|Crushing Despair (x2)]]_, _[[Spells/Synesthesia|Synesthesia (x2)]]_\n__Cantrips__  __(7th)__ _[[Spells/Detect Magic|Detect Magic]]_\n__Constant__  __(6th)__ _[[Spells/Truesight|True Seeing]]_"
  
+```
+
+```encounter-table
+name: Living Rune (Occult)
+creatures:
+  - 1: Living Rune (Occult)
 ```
 
 

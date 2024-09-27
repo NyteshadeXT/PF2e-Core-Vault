@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.npc-gallery.Actor.p94aKz7KsiAQJscm"
 tags:
   - pf2e/creature/type/human
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/1
 statblock: inline
 name: "Prisoner"
@@ -24,8 +25,8 @@ level: "Creature 1"
 
 alignment: ""
 size: "Medium"
-trait_01: "human"
-trait_02: "humanoid"
+trait_01: [[human]]
+trait_02: [[humanoid]]
 modifier: 6
 perception:
   - name: "Perception"
@@ -68,8 +69,14 @@ attacks:
     desc: "  On the first round of combat, creatures that haven't acted yet are [[Conditions/Off-Guard|Off-Guard]] to the prisoner."
 
   - name: "You're Next"
-    desc: "`pf2:r` (emotion,fear,mental) **Trigger** The prisoner reduces a creature to 0 hit points.\n**Effect** The prisoner attempts an Intimidation check with a +2 circumstance bonus to [[Actions/Demoralize|Demoralize]] a single creature it can see and that can see them."
+    desc: "`pf2:r` (emotion,fear,mental) **Trigger** The prisoner reduces a creature to 0 hit points.\n* * *\n\n**Effect** The prisoner attempts an Intimidation check with a +2 circumstance bonus to [[Actions/Demoralize|Demoralize]] a single creature it can see and that can see them."
  
+```
+
+```encounter-table
+name: Prisoner
+creatures:
+  - 1: Prisoner
 ```
 
 

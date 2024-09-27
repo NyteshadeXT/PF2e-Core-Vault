@@ -6,6 +6,7 @@ cssClasses: pf2e
 aliases: "Compendium.pf2e.pathfinder-bestiary-3.Actor.Yq9TcUof5D117yns" 
 tags:
   - pf2e/creature/type/animal
+  - pf2eMonster
   - pf2e/creature/level/1
 statblock: inline
 name: "Camel"
@@ -24,11 +25,12 @@ level: "Creature 1"
 
 alignment: ""
 size: "Large"
-trait_01: "animal"
+trait_01: [[animal]]
 modifier: 4
 perception:
   - name: "Perception"
     desc: "+4; Low-Light Vision, Scent (Imprecise) 30 Feet"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Acrobatics: +6, Athletics: +7, Survival: +6"
@@ -62,11 +64,17 @@ attacks:
     desc: "`pf2:1` Spit +6 (range 10 feet)\n__Damage__ "
 
   - name: "Camel Spit"
-    desc: "  To drive away enemies, the camel spits the partially digested contents of its stomach at a creature within 10 feet.\nOn a hit, the target is [[Conditions/Dazzled|Dazzled]] for 1 round and must succeed at a DC 17 Fortitude check save or become [[Conditions/Sickened 1|Sickened 1]].\nThe camel can't use its camel spit Strike again for 1d4 rounds."
+    desc: "  To drive away enemies, the camel spits the partially digested contents of its stomach at a creature within 10 feet.\n\nOn a hit, the target is [[Conditions/Dazzled|Dazzled]] for 1 round and must succeed at a DC 17 Fortitude check save or become [[Conditions/Sickened|Sickened 1]].\n\nThe camel can't use its camel spit Strike again for 1d4 rounds."
 
   - name: "Sand Stride"
     desc: "`pf2:2`  The camel Strides twice. It has a +5-foot circumstance bonus to its Speed during these Strides, ignoring difficult terrain caused by rubble, sand, and uneven ground made of earth and stone."
  
+```
+
+```encounter-table
+name: Camel
+creatures:
+  - 1: Camel
 ```
 
 

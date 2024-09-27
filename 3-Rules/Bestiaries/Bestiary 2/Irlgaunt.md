@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/aberration
   - pf2e/creature/type/earth
   - pf2e/creature/type/evil
+  - pf2eMonster
   - pf2e/creature/level/13
 statblock: inline
 name: "Irlgaunt"
@@ -26,9 +27,9 @@ level: "Creature 13"
 
 alignment: ""
 size: "Large"
-trait_01: "aberration"
-trait_02: "earth"
-trait_03: "evil"
+trait_01: [[aberration]]
+trait_02: [[earth]]
+trait_03: [[evil]]
 modifier: 24
 perception:
   - name: "Perception"
@@ -67,11 +68,17 @@ attacks:
     desc: "DC 31, attack +21; __6th __  _[[Spells/Speak with Stones|Stone Tell]]_; __4th __  _[[Spells/One with Stone|Meld into Stone (At will)]]_, _[[Spells/Shape Stone|Shape Stone (At will)]]_"
 
   - name: "Regurgitate Gastrolith"
-    desc: "`pf2:2` (acid,primal) The irlgaunt violently regurgitates a melonsized clot of brittle stone supernaturally infused with digestive enzymes. The stone and acid explode on impact within a range of 30 feet, dealing 7d6 piercing damage and 7d6 acid damage to creatures in a 20-foot burst (DC 33 Reflex check save).\nThe irlgaunt can't Regurgitate Gastroliths for 1d4 rounds."
+    desc: "`pf2:2` (acid,primal) The irlgaunt violently regurgitates a melonsized clot of brittle stone supernaturally infused with digestive enzymes. The stone and acid explode on impact within a range of 30 feet, dealing 7d6 piercing damage and 7d6 acid damage to creatures in a @Template[burst|distance:20] (DC 33 Reflex check save).\n\nThe irlgaunt can't Regurgitate Gastroliths for 1d4 rounds."
 
   - name: "Stone Step"
     desc: "  The irlgaunt ignores difficult terrain composed of rocks and stone."
  
+```
+
+```encounter-table
+name: Irlgaunt
+creatures:
+  - 1: Irlgaunt
 ```
 
 

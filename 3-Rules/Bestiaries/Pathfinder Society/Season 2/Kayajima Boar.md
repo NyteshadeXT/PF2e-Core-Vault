@@ -6,6 +6,7 @@ cssClasses: pf2e
 aliases: "Compendium.pf2e.pfs-season-2-bestiary.Actor.3oL6mD7SYNxbghTd" 
 tags:
   - pf2e/creature/type/animal
+  - pf2eMonster
   - pf2e/creature/level/3
 statblock: inline
 name: "Kayajima Boar"
@@ -23,11 +24,12 @@ level: "Creature 3"
 
 alignment: ""
 size: "Medium"
-trait_01: "animal"
+trait_01: [[animal]]
 modifier: 10
 perception:
   - name: "Perception"
     desc: "+10; Low-Light Vision, Scent (Imprecise) 30 Feet"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Acrobatics: +7, Athletics: +10, Survival: +10"
@@ -60,6 +62,12 @@ attacks:
   - name: "Boar Charge"
     desc: "`pf2:2`  The boar Strides twice and then makes a tusk Strike. As long as it moved at least 20 feet, it gains a +2 circumstance bonus to its attack roll."
  
+```
+
+```encounter-table
+name: Kayajima Boar
+creatures:
+  - 1: Kayajima Boar
 ```
 
 

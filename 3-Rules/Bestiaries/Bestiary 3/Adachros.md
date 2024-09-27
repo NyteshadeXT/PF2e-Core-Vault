@@ -6,6 +6,7 @@ cssClasses: pf2e
 aliases: "Compendium.pf2e.pathfinder-bestiary-3.Actor.BZKNSyp1ATtn3JXj" 
 tags:
   - pf2e/creature/type/astral
+  - pf2eMonster
   - pf2e/creature/level/13
 statblock: inline
 name: "Adachros"
@@ -21,18 +22,18 @@ token: [[modules/pf2e-tokens-bestiaries/portraits/planar/astral/adachros.webp| ]
 source: "Pathfinder Bestiary 3"
 name: "Adachros"
 level: "Creature 13"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Large"
-trait_01: "astral"
+trait_01: [[astral]]
 modifier: 22
 perception:
   - name: "Perception"
     desc: "+22; Thoughtsense (Imprecise) 120 Feet"
-languages: "Chthonian, Common, Daemonic, Diabolic, Empyrean, Protean, Requian, Utopian"
+languages: "Chthonian, Common, Daemonic, Diabolic, Empyrean, Protean, Requian, Utopian; telepathy 120 feet"
 skills:
   - name: "Skills"
-    desc: "Athletics: +25, Deception: +25, Intimidation: +27, Lore (any one): +28, Occultism: +22"
+    desc: "Athletics: +25, Deception: +25, Intimidation: +27, Occultism: +22, Lore (any one): +28"
 abilityMods: [6, 2, 5, 5, 5, 8]
 speed: 40 feet,  fly 40 feet
 sourcebook: "_Pathfinder Bestiary 3_"
@@ -54,7 +55,7 @@ abilities_mid:
     desc: "  The adachros denies any version of reality but their own. If they begin their turn under an enchantment or illusion effect, they immediately attempt to counteract one such effect with a counteract modifier of +23, even if the effect prevents the adachros from acting."
 
   - name: "Splinter Sycophant"
-    desc: "`pf2:r`  **Trigger** The adachros takes 25 or more bludgeoning, piercing, or slashing damage\n**Effect** The attack breaks off part of the adachros's body. This fragment reshapes and animates into an [[Bestiary 3/Ioton|Ioton]] with the minion trait under the adachros's control. The ioton sycophant can't move more than 120 feet from the adachros and crumbles after 1 minute.\nIf the adachros gives it no other commands, the ioton sycophant spends its turn praising the adachros and affirming the adachros's infallibility; this grants the adachros 4d6 temporary Hit Points that last for as long as the ioton sycophant exists, and a +1 status bonus to attack rolls, Perception checks, saving throws, and skill checks for 1 round.\n[[Bestiary Effects/Effect_ Praise Adachros|Effect: Praise Adachros]]"
+    desc: "`pf2:r`  **Trigger** The adachros takes 25 or more bludgeoning, piercing, or slashing damage\n* * *\n\n**Effect** The attack breaks off part of the adachros's body. This fragment reshapes and animates into an [[Bestiary 3/Ioton|Ioton]] with the minion trait under the adachros's control. The ioton sycophant can't move more than 120 feet from the adachros and crumbles after 1 minute.\n\nIf the adachros gives it no other commands, the ioton sycophant spends its turn praising the adachros and affirming the adachros's infallibility; this grants the adachros 4d6 temporary Hit Points that last for as long as the ioton sycophant exists, and a +1 status bonus to attack rolls, Perception checks, saving throws, and skill checks for 1 round.\n\n[[Bestiary Effects/Effect_ Praise Adachros|Effect: Praise Adachros]]"
 
 attacks:
   - name: ""
@@ -71,6 +72,12 @@ attacks:
   - name: "Fatal Fantasia"
     desc: " (illusion,mental) An adachros's melee and ranged Strikes gain the fatal d12 trait against any creature affected by the adachros's enchantment or illusion spells, including creatures in the area of a [[Spells/Mirage|Mirage]] that haven't disbelieved the effect."
  
+```
+
+```encounter-table
+name: Adachros
+creatures:
+  - 1: Adachros
 ```
 
 

@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/construct
   - pf2e/creature/type/mindless
   - pf2e/creature/type/soulbound
+  - pf2eMonster
   - pf2e/creature/level/16
 statblock: inline
 name: "Spiritbound Aluum"
@@ -22,16 +23,17 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #149: Against the Scarlet Triad"
 name: "Spiritbound Aluum"
 level: "Creature 16"
-rare_03: "Rare"
+rare_03: [[Rare]]
 alignment: ""
 size: "Large"
-trait_01: "construct"
-trait_02: "mindless"
-trait_03: "soulbound"
+trait_01: [[construct]]
+trait_02: [[mindless]]
+trait_03: [[soulbound]]
 modifier: 28
 perception:
   - name: "Perception"
     desc: "+28; Darkvision"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Athletics: +33"
@@ -65,20 +67,26 @@ attacks:
     desc: "DC 38, attack +28; __9th __  _[[Spells/Seize Soul|Bind Soul (x3)]]_; __5th __  _[[Spells/Locate|Locate]]_"
 
   - name: "Aluum Antimagic"
-    desc: "  Spiritbound aluums are immune to spells and magical abilities, with two exceptions. A void spell or magical ability grants a spiritbound aluum the [[Conditions/Quickened|Quickened]] condition until the end of its next turn instead of its normal effects. A vitality spell or ability makes a spiritbound aluum [[Conditions/Slowed 1|Slowed 1]] until the end of its next turn instead of its normal effects."
+    desc: "  Spiritbound aluums are immune to spells and magical abilities, with two exceptions. A void spell or magical ability grants a spiritbound aluum the [[Conditions/Quickened|Quickened]] condition until the end of its next turn instead of its normal effects. A vitality spell or ability makes a spiritbound aluum [[Conditions/Slowed|Slowed 1]] until the end of its next turn instead of its normal effects."
 
   - name: "Obliteration Beam"
-    desc: "`pf2:2` (arcane,force) **Requirements** The spiritbound aluum has bound a soul using its [[Spells/Seize Soul|Seize Soul]] innate spell\n**Effect** The spiritbound aluum transforms the captured soul's essence into raw magical energy, channeling the spirit into a beam that deals 20d6 force damage in a 30-foot line (DC 38 Reflex check save). The remaining fragments of the captured soul are released to the Great Beyond.\nThe spiritbound aluum can't use Obliteration Beam again for 1d4 rounds."
+    desc: "`pf2:2` (arcane,force) **Requirements** The spiritbound aluum has bound a soul using its [[Spells/Seize Soul|Seize Soul]] innate spell\n* * *\n\n**Effect** The spiritbound aluum transforms the captured soul's essence into raw magical energy, channeling the spirit into a beam that deals 20d6 force damage in a @Template[line|distance:30] (DC 38 Reflex check save). The remaining fragments of the captured soul are released to the Great Beyond.\n\nThe spiritbound aluum can't use Obliteration Beam again for 1d4 rounds."
 
   - name: "Paralyzing Force"
     desc: " (arcane,incapacitation) A creature damaged by the Spiritbound Aluum's fist Strike must succeed at a DC 35 Fortitude check save or become [[Conditions/Paralyzed|Paralyzed]] for 1 round. On a critical failure, the creature is [[Conditions/Paralyzed|Paralyzed]] for 1d4 minutes and falls [[Conditions/Prone|Prone]]."
 
   - name: "Soul Binder"
-    desc: "  When a spiritbound aluum uses its [[Spells/Seize Soul|Seize Soul]] innate spell, it binds the soul into its central crystal instead of the normal material component. The crystal can hold up to 60 souls.\nWhen encountered, a spiritbound aluum's crystal typically contains 1d6 souls."
+    desc: "  When a spiritbound aluum uses its [[Spells/Seize Soul|Seize Soul]] innate spell, it binds the soul into its central crystal instead of the normal material component. The crystal can hold up to 60 souls.\n\nWhen encountered, a spiritbound aluum's crystal typically contains 1d6 souls."
 
   - name: "Soul Shriek"
-    desc: "`pf2:2` (arcane,auditory,mental,sonic) The aluum enforcer emits a keening wail in a 15-foot cone that deals 16d6 sonic damage (DC 27 Fortitude check save). A creature that fails its save is [[Conditions/Stunned 1|Stunned 1]], or [[Conditions/Stunned 1|Stunned 3]] on a critical failure.\nThe aluum can't use Soul Shriek again for 1d4 rounds."
+    desc: "`pf2:2` (arcane,auditory,mental,sonic) The aluum enforcer emits a keening wail in a @Template[cone|distance:15] that deals 16d6 sonic damage (DC 27 Fortitude check save). A creature that fails its save is [[Conditions/Stunned|Stunned 1]], or [[Conditions/Stunned|Stunned 3]] on a critical failure.\n\nThe aluum can't use Soul Shriek again for 1d4 rounds."
  
+```
+
+```encounter-table
+name: Spiritbound Aluum
+creatures:
+  - 1: Spiritbound Aluum
 ```
 
 

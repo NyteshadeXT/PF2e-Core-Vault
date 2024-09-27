@@ -7,8 +7,9 @@ tags:
   - trait/rage
   - trait/common
   - category/class
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.pVLdMOqYwul745k3"
-license: OGL
+license: ORC
 ---
 # Knockback `pf2:1`
 ## Feat 10
@@ -23,7 +24,7 @@ license: OGL
 
 * * *
 
-The weight of your swing drives your enemy back. You push the foe back 5 feet, with the effects of a successful [[Actions/Shove|Shove]]. You can follow the foe as normal for a successful Shove.
+The weight of your swing drives your enemy back. You push the enemy back 5 feet, with the effects of a successful [[Actions/Shove|Shove]]. You can follow the enemy as normal for a successful Shove.
 
-*Source: Pathfinder Core Rulebook*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

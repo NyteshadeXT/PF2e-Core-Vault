@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/human
   - pf2e/creature/type/humanoid
   - pf2e/creature/type/lawful
+  - pf2eMonster
   - pf2e/creature/level/2
 statblock: inline
 name: "Hungry Blade Apprentice"
@@ -26,10 +27,10 @@ level: "Creature 2"
 
 alignment: ""
 size: "Medium"
-trait_01: "evil"
-trait_02: "human"
-trait_03: "humanoid"
-trait_04: "lawful"
+trait_01: [[evil]]
+trait_02: [[human]]
+trait_03: [[humanoid]]
+trait_04: [[lawful]]
 modifier: 8
 perception:
   - name: "Perception"
@@ -62,7 +63,7 @@ attacks:
   - name: "Melee"
     desc: "`pf2:1` Rapier +11 (deadly d8, disarm, finesse)\n__Damage__  1d6 + 6 piercing"
 
-  - name: "Ranged"
+  - name: "Melee"
     desc: "`pf2:1` Shortbow +11 ()\n__Damage__  1d6 piercing"
 
   - name: "[[Bestiary Ability Glossary/Sneak Attack|Sneak Attack]]"
@@ -72,8 +73,14 @@ attacks:
     desc: "  On the first round of combat, creatures that haven't acted yet are [[Conditions/Off-Guard|Off-Guard]] to the Hungry Blade apprentice."
 
   - name: "You're Next"
-    desc: "`pf2:r` (emotion,fear,mental) **Trigger** The Hungry Blade apprentice reduces a creature to 0 Hit Points\n**Effect** Hungry Blade apprentice prisoner attempts an Intimidation check with a +2 circumstance bonus to [[Action Macros/Demoralize_ Intimidation|Demoralize: Intimidation]] a single creature it can see and that can see them."
+    desc: "`pf2:r` (emotion,fear,mental) **Trigger** The Hungry Blade apprentice reduces a creature to 0 Hit Points\n* * *\n\n**Effect** Hungry Blade apprentice prisoner attempts an Intimidation check with a +2 circumstance bonus to [[Action Macros/Demoralize_ Intimidation|Demoralize: Intimidation]] a single creature it can see and that can see them."
  
+```
+
+```encounter-table
+name: Hungry Blade Apprentice
+creatures:
+  - 1: Hungry Blade Apprentice
 ```
 
 

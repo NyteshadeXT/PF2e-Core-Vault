@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.pathfinder-bestiary-3.Actor.AmkhY7NErzNgbsN0"
 tags:
   - pf2e/creature/type/animal
   - pf2e/creature/type/aquatic
+  - pf2eMonster
   - pf2e/creature/level/3
 statblock: inline
 name: "Narwhal"
@@ -25,12 +26,13 @@ level: "Creature 3"
 
 alignment: ""
 size: "Large"
-trait_01: "animal"
-trait_02: "aquatic"
+trait_01: [[animal]]
+trait_02: [[aquatic]]
 modifier: 10
 perception:
   - name: "Perception"
     desc: "+10; Echolocation 120 Feet, Low-Light Vision"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Athletics: +10"
@@ -67,8 +69,14 @@ attacks:
     desc: "`pf2:1` Jaws +12 ()\n__Damage__  1d8 + 5 piercing"
 
   - name: "Impaling Charge"
-    desc: "`pf2:2`  The narwhal Swims twice and makes a tusk Strike. If it moved at least 20 feet from its starting position, the narwhal deals an extra 1d10 damage on this Strike.\nA target damaged by Impaling Charge is [[Conditions/Grabbed|Grabbed]] until the start of the narwhal's next turn unless it [[Actions/Escape|Escapes]] before then (DC 20).\nThe narwhal can't Grapple to extend the duration of this grab."
+    desc: "`pf2:2`  The narwhal Swims twice and makes a tusk Strike. If it moved at least 20 feet from its starting position, the narwhal deals an extra 1d10 damage on this Strike.\n\nA target damaged by Impaling Charge is [[Conditions/Grabbed|Grabbed]] until the start of the narwhal's next turn unless it [[Actions/Escape|Escapes]] before then (DC 20).\n\nThe narwhal can't Grapple to extend the duration of this grab."
  
+```
+
+```encounter-table
+name: Narwhal
+creatures:
+  - 1: Narwhal
 ```
 
 

@@ -25,7 +25,7 @@ license: OGL
 
 * * *
 
-Every Firebrand can recognize the skill of others, but you've turned it into an art you can wield in combat. You compliment a foe's form or technique, and your unexpected praise distracts them from their surroundings. Attempt a Diplomacy check against that enemy's Will DC. Regardless of your result, they are temporarily immune to your Grudging Compliments for 10 minutes.
+Every Firebrand can recognize the skill of others, but you've turned it into an art you can wield in combat. You compliment a foe's form or technique, and your unexpected praise distracts them from their surroundings. Attempt a Diplomacy check check against that enemy's Will DC. Regardless of your result, they are temporarily immune to your Grudging Compliments for 10 minutes.
 
 * * *
 

@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/mutant
   - pf2e/creature/type/undead
   - pf2e/creature/type/unholy
+  - pf2eMonster
   - pf2e/creature/level/13
 statblock: inline
 name: "Necrohulk Flailer"
@@ -23,13 +24,13 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #185: A Taste of Ashes"
 name: "Necrohulk Flailer"
 level: "Creature 13"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Large"
-trait_01: "evil"
-trait_02: "mutant"
-trait_03: "undead"
-trait_04: "unholy"
+trait_01: [[evil]]
+trait_02: [[mutant]]
+trait_03: [[undead]]
+trait_04: [[unholy]]
 modifier: 23
 perception:
   - name: "Perception"
@@ -68,10 +69,10 @@ attacks:
     desc: "`pf2:1` Fist +26 (reach 10 feet)\n__Damage__  3d12 + 13 bludgeoning"
 
   - name: "Alchemical Amplification"
-    desc: " (alchemical) **Frequency** once per hour\n**Effect** The necrohulk draws upon alchemical stores to push its body into overdrive. It becomes [[Conditions/Quickened|Quickened]] for 1d4 rounds. It can use this extra action to Step, Stride, or Strike."
+    desc: " (alchemical) **Frequency** once per hour\n* * *\n\n**Effect** The necrohulk draws upon alchemical stores to push its body into overdrive. It becomes [[Conditions/Quickened|Quickened]] for 1d4 rounds. It can use this extra action to Step, Stride, or Strike."
 
   - name: "[[Bestiary Ability Glossary/Constrict|Constrict]]"
-    desc: "`pf2:1`  6d6 bludgeoning, DC 32 Fortitude check\n"
+    desc: "`pf2:1`  6d6 bludgeoning, DC 32 Fortitude check\n\n* * *\n"
 
   - name: "Tentacle Storm"
     desc: "`pf2:2`  The necrohulk flailer makes up to four tentacle Strikes, each against a different target. These attacks count toward its multiple attack penalty, but the penalty doesn't increase until after the necrohulk makes all of these attacks."
@@ -79,6 +80,12 @@ attacks:
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
     desc: "`pf2:1`  "
  
+```
+
+```encounter-table
+name: Necrohulk Flailer
+creatures:
+  - 1: Necrohulk Flailer
 ```
 
 

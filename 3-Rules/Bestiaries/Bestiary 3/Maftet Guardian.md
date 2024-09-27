@@ -6,6 +6,7 @@ cssClasses: pf2e
 aliases: "Compendium.pf2e.pathfinder-bestiary-3.Actor.U3rMc5sN05MempVX" 
 tags:
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/6
 statblock: inline
 name: "Maftet Guardian"
@@ -24,7 +25,7 @@ level: "Creature 6"
 
 alignment: ""
 size: "Medium"
-trait_01: "humanoid"
+trait_01: [[humanoid]]
 modifier: 14
 perception:
   - name: "Perception"
@@ -32,7 +33,7 @@ perception:
 languages: "Common, Sphinx"
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +13, Arcana: +13, Athletics: +15, Ruins Lore (Applies Only to Their Home Ruins): +15, Stealth: +13"
+    desc: "Acrobatics: +13, Arcana: +13, Athletics: +15, Stealth: +13, Ruins Lore (Applies Only to Their Home Ruins): +15"
 abilityMods: [5, 3, 4, 3, 2, 0]
 speed: 30 feet,  fly 40 feet
 sourcebook: "_Pathfinder Bestiary 3_"
@@ -52,7 +53,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Runic Resistance"
-    desc: "`pf2:r` (arcane) **Trigger** The maftet takes damage from a Strike or spell effect\n**Effect** The maftet's protective runic tattoos glow, granting them resistance 5 to one damage type dealt by the triggering attack.\nThis resistance applies against the triggering effect and lasts for 1 minute or until the maftet uses this ability again, whichever comes first. If the triggering effect deals multiple damage types, the maftet chooses which type to resist.\n[[Bestiary Effects/Effect_ Runic Resistance|Effect: Runic Resistance]]"
+    desc: "`pf2:r` (arcane) **Trigger** The maftet takes damage from a Strike or spell effect\n* * *\n\n**Effect** The maftet's protective runic tattoos glow, granting them resistance 5 to one damage type dealt by the triggering attack.\n\nThis resistance applies against the triggering effect and lasts for 1 minute or until the maftet uses this ability again, whichever comes first. If the triggering effect deals multiple damage types, the maftet chooses which type to resist.\n\n[[Bestiary Effects/Effect_ Runic Resistance|Effect: Runic Resistance]]"
 
 attacks:
   - name: ""
@@ -64,14 +65,20 @@ attacks:
     desc: "DC 23, attack +15; __1st __  _[[Spells/Sanctuary|Sanctuary (x3)]]_, _[[Spells/Sure Strike|True Strike]]_\n__Cantrips__  __(3rd)__ _[[Spells/Sigil|Sigil]]_"
 
   - name: "Paired Strike"
-    desc: "`pf2:2`  **Requirements** The maftet is wielding two scimitars\n**Effect** The maftet makes two Strikes against the same target, one with each of their scimitars. The maftet combines the damage of any attacks that hit and applies resistances and weaknesses only once. This counts as one attack when calculating the maftet's multiple attack penalty."
+    desc: "`pf2:2`  **Requirements** The maftet is wielding two scimitars\n* * *\n\n**Effect** The maftet makes two Strikes against the same target, one with each of their scimitars. The maftet combines the damage of any attacks that hit and applies resistances and weaknesses only once. This counts as one attack when calculating the maftet's multiple attack penalty."
 
   - name: "Powerful Scimitars"
     desc: " (arcane) Any non-magical scimitar becomes a _+1 striking scimitar_ while a maftet wields it."
 
   - name: "Raptor Dive"
-    desc: "`pf2:3`  **Requirements** The maftet is flying at least 10 feet above the target\n**Effect** The maftet Flies up to twice their fly Speed and makes a Paired Strike at the end of the movement. If both Strikes hit, the target is also knocked [[Conditions/Prone|Prone]]."
+    desc: "`pf2:3`  **Requirements** The maftet is flying at least 10 feet above the target\n* * *\n\n**Effect** The maftet Flies up to twice their fly Speed and makes a Paired Strike at the end of the movement. If both Strikes hit, the target is also knocked [[Conditions/Prone|Prone]]."
  
+```
+
+```encounter-table
+name: Maftet Guardian
+creatures:
+  - 1: Maftet Guardian
 ```
 
 

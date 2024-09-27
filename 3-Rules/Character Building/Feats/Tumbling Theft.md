@@ -7,8 +7,9 @@ tags:
   - trait/skill
   - trait/common
   - category/skill
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.80AC6Q1m0eQiE7Et"
-license: OGL
+license: ORC
 ---
 # Tumbling Theft
 ## Feat 7
@@ -20,7 +21,7 @@ license: OGL
 
 **Prerequisites** expert in Acrobatics and Thievery
 * * *
-You reach for an opponent's item as you move past a foe. If you critically succeed your check to [[Actions/Tumble Through|Tumble Through]] an enemy's space, you can attempt to [[Actions/Steal|Steal]] something from the enemy as a reaction. You gain a +1 circumstance bonus to your Thievery check to Steal as your tumbling makes it difficult for your enemy to keep track of your movement. You can Steal any immediately accessible item of light or lighter Bulk on the enemy's person, such as a potion or coin purse hanging from a belt, but not anything inside a container or anything the enemy is holding. The GM has final say on what you can Steal.
+You reach for an opponent's item as you move past a foe. If you critically succeed at your check to [[Actions/Tumble Through|Tumble Through]] an enemy's space, you can attempt to [[Actions/Steal|Steal]] something from the enemy as a reaction. You gain a +1 circumstance bonus to your Thievery check to Steal as your tumbling make it difficult for your enemy to keep track of your movement. You can Steal any immediately accessible item of light or negligible Bulk on the enemy's person, such as a potion or coin purse hanging from a belt, but not anything inside a container or anything the enemy is holding. The GM has final say on what you can Steal.
 
-*Source: Pathfinder Lost Omens: Firebrands*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

@@ -4,6 +4,7 @@ obsidianUIMode: preview
 noteType: pf2eHazard
 tags:
   - magical
+  - pf2eHazard
   - complex
 source: Pathfinder #161: Belly of the Black Whale
 aliases: "Compendium.pf2e.agents-of-edgewatch-bestiary.Actor.7FJ3SQuHOUcGjm1x" 
@@ -21,13 +22,13 @@ name: "Eyeball Tank"
 level: "Hazard 15"
 
 trait_06: "Complex"
-trait_01: "magical"
+trait_01: [[magical]]
 modifier: 31
 sourcebook: "_Pathfinder #161: Belly of the Black Whale_"
 ac: 33
 armorclass:
   - name: AC
-    desc: "33; __Fort__ +29, __Ref__ +26, __Will__ +0"
+    desc: "33; __Fort__ +29, __Ref__ +26, "
 hp: 180
 health:
   - name: ""
@@ -49,7 +50,7 @@ attacks:
   - name: ""
 
   - name: "Eye-Opener"
-    desc: "`pf2:r` (emotion, mental) **Trigger** Three or more living creatures remain within 20 feet of the trap for 1 round\n**Effect** The trap rolls initiative."
+    desc: "`pf2:r` (emotion, mental) **Trigger** Three or more living creatures remain within 20 feet of the trap for 1 round\n* * *\n\n**Effect** The trap rolls initiative."
   - name: "Melee"
     desc: "Despair Ray +28 (emotion, mental, range increment 100 feet) "
   - name: "Melee"
@@ -58,10 +59,16 @@ attacks:
     desc: "Spirit Blast Ray +28 (range increment 100 feet) "
 
   - name: "Spill Eyeballs"
-    desc: "`pf2:r` **Trigger** The tank reaches its Broken Threshold\n**Effect** The glass shatters, spilling eyeballs onto the floor in a 15-foot radius and casting _grease_(DC 33) on the affected area. The eyeball tank is permanently destroyed and can't be reset.**Reset** The trap can be reset by adding 100 new eyeballs to the tank and allowing them to grow in the slime for 1 week."
+    desc: "`pf2:r` **Trigger** The tank reaches its Broken Threshold\n* * *\n\n**Effect** The glass shatters, spilling eyeballs onto the floor in a 15-foot radius and casting _grease_(DC 33) on the affected area. The eyeball tank is permanently destroyed and can't be reset.**Reset** The trap can be reset by adding 100 new eyeballs to the tank and allowing them to grow in the slime for 1 week."
 
   - name: "Routine"
     desc: "(3 actions) Each round, the vat uses all three of its actions to shoot random eye rays at any living creatures (except Ixusoth) in range."
 
+```
+
+```encounter-table
+name: Eyeball Tank
+creatures:
+  - 1: Eyeball Tank
 ```
 

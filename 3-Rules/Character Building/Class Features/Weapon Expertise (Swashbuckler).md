@@ -6,8 +6,9 @@ tags:
   - trait/swashbuckler
   - trait/common
   - category/classfeature
+  - remaster
 aliases: "Compendium.pf2e.classfeatures.Item.F5BHEav90oOJ2LwN"
-license: OGL
+license: ORC
 ---
 # Weapon Expertise (Swashbuckler)
 ## Feat 5
@@ -24,5 +25,5 @@ You've dedicated yourself to learning the intricacies of your weapons. Your prof
 
 You gain access to the critical specialization effects of all weapons for which you have expert proficiency.
 
-*Source: Pathfinder Advanced Player's Guide*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

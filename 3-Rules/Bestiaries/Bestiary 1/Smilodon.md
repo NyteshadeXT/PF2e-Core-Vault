@@ -6,6 +6,7 @@ cssClasses: pf2e
 aliases: "Compendium.pf2e.pathfinder-bestiary.Actor.SP72xojHR0UGAWcs" 
 tags:
   - pf2e/creature/type/animal
+  - pf2eMonster
   - pf2e/creature/level/6
 statblock: inline
 name: "Smilodon"
@@ -24,11 +25,12 @@ level: "Creature 6"
 
 alignment: ""
 size: "Large"
-trait_01: "animal"
+trait_01: [[animal]]
 modifier: 14
 perception:
   - name: "Perception"
     desc: "+14; Low-Light Vision, Scent (Imprecise) 60 Feet"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Acrobatics: +12, Athletics: +16, Stealth: +12"
@@ -59,7 +61,7 @@ attacks:
     desc: "`pf2:1` Claw +16 (agile)\n__Damage__  2d8 + 6 slashing plus grab"
 
   - name: "Pierce Armor"
-    desc: "`pf2:1`  The smilodon makes a fangs Strike against a creature it is [[Conditions/Grabbed|Grabbing]].\nIf the attack hits, the creature is knocked [[Conditions/Prone|Prone]]; if the creature is wearing armor with hardness 10 or lower, the armor is [[Conditions/Broken|Broken]].\nIf this Strike breaks a creature's armor or damages a creature who is unarmored or wearing broken armor, the creature also takes 2d6 bleed. This Strike doesn't further damage armor that's already broken."
+    desc: "`pf2:1`  The smilodon makes a fangs Strike against a creature it is [[Conditions/Grabbed|Grabbing]].\n\nIf the attack hits, the creature is knocked [[Conditions/Prone|Prone]]; if the creature is wearing armor with hardness 10 or lower, the armor is [[Conditions/Broken|Broken]].\n\nIf this Strike breaks a creature's armor or damages a creature who is unarmored or wearing broken armor, the creature also takes 2d6 bleed. This Strike doesn't further damage armor that's already broken."
 
   - name: "Pounce"
     desc: "`pf2:1`  The smilodon Strides and makes a Strike at the end of that movement. If the smilodon began this action [[Conditions/Hidden|Hidden]], it remains hidden until after this ability's Strike."
@@ -70,6 +72,12 @@ attacks:
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
     desc: "`pf2:1`  "
  
+```
+
+```encounter-table
+name: Smilodon
+creatures:
+  - 1: Smilodon
 ```
 
 

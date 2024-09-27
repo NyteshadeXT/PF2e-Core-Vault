@@ -25,7 +25,7 @@ Your spells release soothing mental waves. Use this amp in place of a psi cantri
 
 * * *
 
-**Amp** You or one ally within 30 feet gains a +2 status bonus to Will saves against emotion effects for 1 minute. You can also have the amped psi cantrip attempt to counteract one effect imposing the [[Conditions/Frightened 1|Frightened]] condition on yourself or the chosen ally, or an effect imposing the [[Conditions/Stupefied 1|Stupefied]] condition that has a duration of 1 hour or less. If you successfully counteract the effect, you remove only the frightened and stupefied conditions, not any other part of the effect.
+**Amp** You or one ally within 30 feet gains a +2 status bonus to Will saves against emotion effects for 1 minute. You can also have the amped psi cantrip attempt to counteract one effect imposing the [[Conditions/Frightened|Frightened]] condition on yourself or the chosen ally, or an effect imposing the [[Conditions/Stupefied|Stupefied]] condition that has a duration of 1 hour or less. If you successfully counteract the effect, you remove only the frightened and stupefied conditions, not any other part of the effect.
 
 *Source: Pathfinder Dark Archive*
 *OGL*

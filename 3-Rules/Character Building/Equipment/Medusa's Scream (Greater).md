@@ -5,8 +5,9 @@ cssclasses: pf2e,pf2e-spell
 tags:
   - trait/magical
   - trait/common
+  - remaster
 aliases: "Compendium.pf2e.equipment-srd.Item.TyW1XOWYMM2xHGaI"
-license: OGL
+license: ORC
 ---
 # Medusa's Scream (Greater)
 ## Item 16
@@ -21,11 +22,13 @@ The ghastly visage of a slain medusa's head stares out from this steel shield (H
 
 * * *
 
-**Activate** `pf2:2` Interact (visual)
+**Activate—Petrifying Gaze** `pf2:2` (manipulate, visual)
 
-**Frequency** once per hour
+**Frequency** once per day
 
-**Effect** You reveal the medusa's face, focusing its gaze on one creature within 30 feet. The shield casts [[Spells/Petrify|Petrify]] with a range of 30 feet and a DC of 35.
+* * *
+
+**Effect** You reveal the medusa's face, focusing its gaze on one creature within 30 feet. The shield casts a DC 35 [[Spells/Petrify|Petrify]] spell with a range of 30 feet.
 
 * * *
 
@@ -37,5 +40,5 @@ The ghastly visage of a slain medusa's head stares out from this steel shield (H
 | --- | --- | --- |
 | 15 | 60 | 30 |
 
-*Source: Pathfinder Advanced Player's Guide*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

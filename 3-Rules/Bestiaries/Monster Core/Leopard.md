@@ -6,6 +6,7 @@ cssClasses: pf2e
 aliases: "Compendium.pf2e.pathfinder-monster-core.Actor.kB7FNn3vosp6cqQg" 
 tags:
   - pf2e/creature/type/animal
+  - pf2eMonster
   - pf2e/creature/level/2
   - remaster
 statblock: inline
@@ -25,7 +26,7 @@ level: "Creature 2"
 
 alignment: ""
 size: "Medium"
-trait_01: "animal"
+trait_01: [[animal]]
 modifier: 7
 perception:
   - name: "Perception"
@@ -33,7 +34,7 @@ perception:
 languages: ""
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +8, Athletics: +7, Stealth: +8 (+11 in undergrowth)"
+    desc: "Acrobatics: +8, Athletics: +7, Stealth: +8"
 abilityMods: [3, 4, 2, -4, 1, -2]
 speed: 30 feet,  climb 20 feet
 sourcebook: "_Pathfinder Monster Core_"
@@ -72,6 +73,12 @@ attacks:
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
     desc: "`pf2:1`  "
  
+```
+
+```encounter-table
+name: Leopard
+creatures:
+  - 1: Leopard
 ```
 
 

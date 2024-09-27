@@ -8,13 +8,13 @@ tags:
 ---
 # Fling
 
-> You drop the weapon you used for the attack. It lands 1d6 \* 5 feet away from your in a random direction 1d8.
+> You drop the weapon you used for the attack. It lands 1d6\*5 feet away from your in a random direction 1d8.
 
 `Melee`
 
 # Head Rush
 
-> You are [[Conditions/Sickened 1|Sickened 2]]
+> You are [[Conditions/Sickened|Sickened 2]]
 
 `Ranged`
 

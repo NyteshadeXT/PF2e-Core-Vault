@@ -12,7 +12,7 @@ license: OGL
 ---
 # Arachnid Harness
 ## Item 7
-### [[invested]][[magical]]
+### [[invested]][[3-Rules/Rule References/Magical]]
 
 **Category** light; **Group** leather
 **Price** 360 gp; 

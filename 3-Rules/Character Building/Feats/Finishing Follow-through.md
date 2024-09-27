@@ -1,15 +1,16 @@
 ---
 obsidianUIMode: preview
-title: "Finishing Follow-through"
+title: "Finishing Follow-Through"
 cssclasses: pf2e,pf2e-spell
 tags:
   - trait/swashbuckler
   - trait/common
   - category/class
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.DY6pNO3GzHeKSxmQ"
-license: OGL
+license: ORC
 ---
-# Finishing Follow-through
+# Finishing Follow-Through
 ## Feat 2
 ### [[swashbuckler]]
 
@@ -18,7 +19,7 @@ license: OGL
 
 
 
-Finishing a foe maintains your swagger. You gain [[Feat_Feature Effects/Effect_ Panache|Panache]] if your finisher brings the target to 0 HP (or brings the highest-level target to 0 HP, if your finisher attacks multiple targets).
+Finishing a foe maintains your swagger. You gain [[Feat_Feature Effects/Effect_ Panache|Panache]] whenever your finisher brings a target to 0 HP.
 
-*Source: Pathfinder Advanced Player's Guide*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

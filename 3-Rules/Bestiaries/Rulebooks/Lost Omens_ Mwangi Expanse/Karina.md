@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/fiend
   - pf2e/creature/type/unholy
+  - pf2eMonster
   - pf2e/creature/level/5
 statblock: inline
 name: "Karina"
@@ -26,15 +27,15 @@ level: "Creature 5"
 
 alignment: ""
 size: "Large"
-trait_01: "beast"
-trait_02: "evil"
-trait_03: "fiend"
-trait_04: "unholy"
+trait_01: [[beast]]
+trait_02: [[evil]]
+trait_03: [[fiend]]
+trait_04: [[unholy]]
 modifier: 12
 perception:
   - name: "Perception"
     desc: "+12; Darkvision"
-languages: "Mwangi"
+languages: "Mwangi; (can&#x27;t speak any language)"
 skills:
   - name: "Skills"
     desc: "Acrobatics: +13, Athletics: +12, Deception: +12, Stealth: +15"
@@ -71,14 +72,20 @@ attacks:
     desc: "`pf2:1` Talons +15 (magical, unholy)\n__Damage__  1d10 + 5 piercing plus grab"
 
   - name: "Grave Blight"
-    desc: " (disease) **Saving Throw** DC 19 Fortitude check\n**Stage 1** carrier with no ill effect (1 day)\n**Stage 2** 1d6 poison damage, [[Conditions/Sickened 1|Sickened 1]] (1 day)\n**Stage 3** 1d8 poison damage, every hour the victim must succeed at another Fortitude save or be [[Conditions/Confused|Confused]] for 1 minute, [[Conditions/Sickened 1|Sickened 2]] (1 day)"
+    desc: " (disease) **Saving Throw** DC 19 Fortitude check\n\n**Stage 1** carrier with no ill effect (1 day)\n\n**Stage 2** 1d6 poison damage, [[Conditions/Sickened|Sickened 1]] (1 day)\n\n**Stage 3** 1d8 poison damage, every hour the victim must succeed at another Fortitude save or be [[Conditions/Confused|Confused]] for 1 minute, [[Conditions/Sickened|Sickened 2]] (1 day)"
 
   - name: "Mocking Cry"
-    desc: "`pf2:1` (auditory) The Karina mimics a voice and mocks a creature within 30 feet. They attempt a Deception check to Demoralize the creature.\nRegardless of whether the check succeeds, the target creature is temporarily immune to the Karina's Mocking Cry for 1 hour."
+    desc: "`pf2:1` (auditory) The Karina mimics a voice and mocks a creature within 30 feet. They attempt a Deception check to Demoralize the creature.\n\nRegardless of whether the check succeeds, the target creature is temporarily immune to the Karina's Mocking Cry for 1 hour."
 
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
     desc: "`pf2:1`  "
  
+```
+
+```encounter-table
+name: Karina
+creatures:
+  - 1: Karina
 ```
 
 

@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/elemental
   - pf2e/creature/type/genie
   - pf2e/creature/type/lawful
+  - pf2eMonster
   - pf2e/creature/level/7
 statblock: inline
 name: "Shaitan"
@@ -24,13 +25,13 @@ token: [[modules/pf2e-tokens-bestiaries/portraits/elemental/genie/shaitan.webp| 
 source: "Pathfinder Bestiary"
 name: "Shaitan"
 level: "Creature 7"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Large"
-trait_01: "earth"
-trait_02: "elemental"
-trait_03: "genie"
-trait_04: "lawful"
+trait_01: [[earth]]
+trait_02: [[elemental]]
+trait_03: [[genie]]
+trait_04: [[lawful]]
 modifier: 15
 perception:
   - name: "Perception"
@@ -78,6 +79,12 @@ attacks:
   - name: "[[Bestiary Ability Glossary/Push|Push 10 feet]]"
     desc: "`pf2:1`  "
  
+```
+
+```encounter-table
+name: Shaitan
+creatures:
+  - 1: Shaitan
 ```
 
 

@@ -30,7 +30,7 @@ A _swarmeater's clasp_ features carved reliefs of verminous, swarming creatures.
 
 * * *
 
-**Effect** You thrust your hand into the swarm, draw forth a squirming mass of vermin, and devour it. You recover 3d10 + 8 Hit Points and deal the same amount of bludgeoning damage to the swarm. The Hit Point recovery is a vitality healing effect.
+**Effect** You thrust your hand into the swarm, draw forth a squirming mass of vermin, and devour it. You recover 3d10+8 healing Hit Points and deal the same amount of bludgeoning damage to the swarm. The Hit Point recovery is a vitality healing effect.
 
 *Source: Pathfinder Treasure Vault*
 *OGL*

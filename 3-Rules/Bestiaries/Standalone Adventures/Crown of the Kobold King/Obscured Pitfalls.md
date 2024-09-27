@@ -4,6 +4,7 @@ obsidianUIMode: preview
 noteType: pf2eHazard
 tags:
   - environmental
+  - pf2eHazard
 
 source: Pathfinder Adventure: Crown of the Kobold King
 aliases: "Compendium.pf2e.crown-of-the-kobold-king-bestiary.Actor.rsZYbT2naZnyg2LP" 
@@ -21,7 +22,7 @@ name: "Obscured Pitfalls"
 level: "Hazard 2"
 
 
-trait_01: "environmental"
+trait_01: [[environmental]]
 modifier: 8
 sourcebook: "_Pathfinder Adventure: Crown of the Kobold King_"
 perception:
@@ -40,12 +41,18 @@ attacks:
   - name: ""
 
   - name: "Pitfall"
-    desc: "`pf2:r` **Trigger** A creature walks into a large pit's square;\n**Effect** The triggering creature falls into the pit but can attempt a DC 18 Reflex check save to [[Actions/Grab an Edge|Grab an Edge]] to avoid falling. On a failure, a creature falls 20 feet into an eye-filled pit. The eyes cushion the fall so the 20-foot fall inflicts only 5 bludgeoning damage, but they also completely obscure vision; a character is effectively blind as long as they remain in the pit. The walls of the pit are slick, though a character can [[Actions/Climb|Climb]] them with a successful DC 25 Athletics check check."
+    desc: "`pf2:r` **Trigger** A creature walks into a large pit's square;\n\n**Effect** The triggering creature falls into the pit but can attempt a DC 18 Reflex check save to [[Actions/Grab an Edge|Grab an Edge]] to avoid falling. On a failure, a creature falls 20 feet into an eye-filled pit. The eyes cushion the fall so the 20-foot fall inflicts only 5 bludgeoning damage, but they also completely obscure vision; a character is effectively blind as long as they remain in the pit. The walls of the pit are slick, though a character can [[Actions/Climb|Climb]] them with a successful DC 25 Athletics check check."
 
   - name: "Trip"
-    desc: "`pf2:r` **Trigger** A creature walks into a small pit's square;\n**Effect** The triggering creature must succeed at a DC 18 Reflex check save or fall [[Conditions/Prone|Prone]] (on a critical failure, the creature also twists its ankle and becomes [[Conditions/Clumsy 1|Clumsy 1]] until it receives any amount of healing)."
+    desc: "`pf2:r` **Trigger** A creature walks into a small pit's square;\n\n**Effect** The triggering creature must succeed at a DC 18 Reflex check save or fall [[Conditions/Prone|Prone]] (on a critical failure, the creature also twists its ankle and becomes [[Conditions/Clumsy|Clumsy 1]] until it receives any amount of healing)."
 
 
 
+```
+
+```encounter-table
+name: Obscured Pitfalls
+creatures:
+  - 1: Obscured Pitfalls
 ```
 

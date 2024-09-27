@@ -5,6 +5,7 @@ noteType: pf2eHazard
 tags:
   - mechanical
   - trap
+  - pf2eHazard
 
 source: Pathfinder #157: Devil at the Dreaming Palace
 aliases: "Compendium.pf2e.agents-of-edgewatch-bestiary.Actor.3LLHyUz0Nabuw46L" 
@@ -22,14 +23,14 @@ name: "Boiling Fountains"
 level: "Hazard 2"
 
 
-trait_01: "mechanical"
-trait_02: "trap"
+trait_01: [[mechanical]]
+trait_02: [[trap]]
 modifier: 8
 sourcebook: "_Pathfinder #157: Devil at the Dreaming Palace_"
 ac: 15
 armorclass:
   - name: AC
-    desc: "15; __Fort__ +8, __Ref__ +5, __Will__ +0"
+    desc: "15; __Fort__ +8, __Ref__ +5, "
 hp: 30
 health:
   - name: ""
@@ -51,10 +52,16 @@ attacks:
   - name: ""
 
   - name: "Scalding Spray"
-    desc: "`pf2:r` (fire, water) **Trigger** Weight is placed on one of the squares marked with \"T\" on the map, triggering a pressure plate\n**Effect** The fountains spray boiling water across their own squares and the 10-foot-by-20-foot area between them (marked with dotted lines), dealing 4d6 + 4 fire damage to any creatures in the area (DC 22 Reflex check save)."
+    desc: "`pf2:r` (fire, water) **Trigger** Weight is placed on one of the squares marked with \"T\" on the map, triggering a pressure plate\n* * *\n\n**Effect** The fountains spray boiling water across their own squares and the 10-foot-by-20-foot area between them (marked with dotted lines), dealing 4d6+4 fire damage to any creatures in the area (DC 22 Reflex check save)."
 
 
   - name: "Reset"
     desc: "Once a pressure plate has been activated, it must be reset manually."
+```
+
+```encounter-table
+name: Boiling Fountains
+creatures:
+  - 1: Boiling Fountains
 ```
 

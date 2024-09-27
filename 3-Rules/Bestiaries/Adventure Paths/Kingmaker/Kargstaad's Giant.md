@@ -10,6 +10,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/giant
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/15
 statblock: inline
 name: "Kargstaad&#x27;s Giant"
@@ -24,14 +25,14 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Kingmaker"
 name: "Kargstaad's Giant"
 level: "Creature 15"
-rare_03: "Rare"
+rare_03: [[Rare]]
 alignment: ""
 size: "Large"
-trait_01: "chaotic"
-trait_02: "cold"
-trait_03: "evil"
-trait_04: "giant"
-trait_05: "humanoid"
+trait_01: [[chaotic]]
+trait_02: [[cold]]
+trait_03: [[evil]]
+trait_04: [[giant]]
+trait_05: [[humanoid]]
 modifier: 27
 perception:
   - name: "Perception"
@@ -39,7 +40,7 @@ perception:
 languages: "Common, Jotun"
 skills:
   - name: "Skills"
-    desc: "Athletics: +31, Crafting: +25, Intimidation: +27, Stealth: +25 (+29 in snow)"
+    desc: "Athletics: +31, Crafting: +25, Intimidation: +27, Stealth: +25"
 abilityMods: [8, 4, 6, 0, 4, 4]
 speed: 30 feet
 sourcebook: "_Pathfinder Kingmaker_"
@@ -74,7 +75,7 @@ attacks:
     desc: "`pf2:1` Rock +29 (brutal, range increment 120 feet)\n__Damage__  3d10 + 13 bludgeoning plus rock"
 
   - name: "Chill Breath"
-    desc: "`pf2:1` (cold,primal) The frost giant breathes out a 15-foot cone of freezing moisture that quickly condenses into ice, dealing 7d6 cold damage. Each creature in the cone must attempt a DC 36 Reflex check save.\nA creature that fails its save is also [[Conditions/Immobilized|Immobilized]] and takes 2d6 cold damage at the end of each of its turns until it gets free (Escape DC 36).\nThe giant can't use Chill Breath again for 1d4 rounds."
+    desc: "`pf2:1` (cold,primal) The frost giant breathes out a 15-foot cone of freezing moisture that quickly condenses into ice, dealing 7d6 cold damage. Each creature in the cone must attempt a DC 36 Reflex check save.\n\nA creature that fails its save is also [[Conditions/Immobilized|Immobilized]] and takes 2d6 cold damage at the end of each of its turns until it gets free (Escape DC 36).\n\nThe giant can't use Chill Breath again for 1d4 rounds."
 
   - name: "Ice Stride"
     desc: "  A frost giant isn't impeded by difficult terrain caused by snow or ice, nor does it need to attempt Acrobatics checks to keep from falling on slippery ice."
@@ -85,6 +86,12 @@ attacks:
   - name: "Wide Swing"
     desc: "`pf2:1`  The frost giant makes a single greataxe Strike and compares the attack roll result to the ACs of up to two foes within its reach. This counts as two attacks for the frost giant's multiple attack penalty."
  
+```
+
+```encounter-table
+name: Kargstaad's Giant
+creatures:
+  - 1: Kargstaad's Giant
 ```
 
 

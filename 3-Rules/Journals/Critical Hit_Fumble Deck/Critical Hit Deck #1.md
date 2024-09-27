@@ -8,7 +8,7 @@ tags:
 ---
 # Crunch
 
-> **Crit Effect:** The target is [[Conditions/Sickened 1|Sickened 3]].
+> **Crit Effect:** The target is [[Conditions/Sickened|Sickened 3]].
 
 `Bludgeoning`
 

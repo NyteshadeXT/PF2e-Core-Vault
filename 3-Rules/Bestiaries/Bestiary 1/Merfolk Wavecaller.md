@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/aquatic
   - pf2e/creature/type/humanoid
   - pf2e/creature/type/merfolk
+  - pf2eMonster
   - pf2e/creature/level/2
 statblock: inline
 name: "Merfolk Wavecaller"
@@ -26,9 +27,9 @@ level: "Creature 2"
 
 alignment: ""
 size: "Medium"
-trait_01: "aquatic"
-trait_02: "humanoid"
-trait_03: "merfolk"
+trait_01: [[aquatic]]
+trait_02: [[humanoid]]
+trait_03: [[merfolk]]
 modifier: 8
 perception:
   - name: "Perception"
@@ -36,7 +37,7 @@ perception:
 languages: "Common, Thalassic"
 skills:
   - name: "Skills"
-    desc: "Athletics: +7 (+9 to Swim), Deception: +6, Nature: +8, Religion: +8"
+    desc: "Athletics: +7, Deception: +6, Nature: +8, Religion: +8"
 abilityMods: [3, 2, 1, 0, 4, 2]
 speed: 5 feet,  swim 30 feet
 sourcebook: "_Pathfinder Bestiary_"
@@ -68,8 +69,14 @@ attacks:
     desc: "DC 18, attack +10; __1st __  _[[Spells/Charm|Charm]]_, _[[Spells/Heal|Heal]]_, _[[Spells/Hydraulic Push|Hydraulic Push]]_\n__Cantrips__  __(1st)__ _[[Compendium.pf2e.spells-srd.Item.kl2q6JvBZwed4B6v|Dancing Lights]]_, _[[Spells/Detect Magic|Detect Magic]]_, _[[Spells/Electric Arc|Electric Arc]]_, _[[Spells/Ray of Frost|Ray of Frost]]_, _[[Spells/Stabilize|Stabilize]]_"
 
   - name: "Hydraulic Asphyxiation"
-    desc: "`pf2:1` (divine,water) **Requirements** The target is fully submerged in water, within 30 feet of the merfolk wavecaller, and holding its breath.\n**Effect** The merfolk wavecaller commands the tides to crush their foe's throat, rooting the target in place and forcing it to choke up precious air. The target must succeed at a DC 18 Fortitude check saveor become [[Conditions/Immobilized|Immobilized]] for 1 round and immediately lose 1d4 actions' worth of air (or twice that on a critical failure)."
+    desc: "`pf2:1` (divine,water) **Requirements** The target is fully submerged in water, within 30 feet of the merfolk wavecaller, and holding its breath.\n* * *\n\n**Effect** The merfolk wavecaller commands the tides to crush their foe's throat, rooting the target in place and forcing it to choke up precious air. The target must succeed at a DC 18 Fortitude check save or become [[Conditions/Immobilized|Immobilized]] for 1 round and immediately lose 1d4 actions' worth of air (or twice that on a critical failure)."
  
+```
+
+```encounter-table
+name: Merfolk Wavecaller
+creatures:
+  - 1: Merfolk Wavecaller
 ```
 
 

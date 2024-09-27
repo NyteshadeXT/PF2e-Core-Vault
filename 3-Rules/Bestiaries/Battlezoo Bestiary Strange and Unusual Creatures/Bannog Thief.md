@@ -10,6 +10,7 @@ tags:
   - pf2e/creature/type/chaotic
   - pf2e/creature/type/dream
   - pf2e/creature/type/evil
+  - pf2eMonster
   - pf2e/creature/level/5
 statblock: inline
 name: "Bannog Thief"
@@ -25,22 +26,22 @@ token: [[modules/battlezoo-bestiary-su-pf2e/art/Portraits/bannog-thief.webp| ]]
 source: "Battlezoo Bestiary: Strange and Unusual"
 name: "Bannog Thief"
 level: "Creature 5"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Small"
-trait_01: "aberration"
-trait_02: "bannog"
-trait_03: "chaotic"
-trait_04: "dream"
-trait_05: "evil"
+trait_01: [[aberration]]
+trait_02: [[bannog]]
+trait_03: [[chaotic]]
+trait_04: [[dream]]
+trait_05: [[evil]]
 modifier: 13
 perception:
   - name: "Perception"
     desc: "+13; Scent (Imprecise) 40 Feet"
-languages: "Aklo"
+languages: "Aklo; speak with animals (rabbits only); telepathy 100 feet"
 skills:
   - name: "Skills"
-    desc: "Dreamlands Lore: +10, Stealth: +12, Survival: +11, Thievery: +16, "
+    desc: "Stealth: +12, Survival: +11, Thievery: +16, Dreamlands Lore: +10, Stealth: +12, Survival: +11, Thievery: +16"
 abilityMods: [2, 5, 2, 0, 4, 1]
 speed: 60 feet
 sourcebook: "_Battlezoo Bestiary: Strange and Unusual_"
@@ -60,10 +61,10 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Dream Susceptibility"
-    desc: "  Because they are creatures of dream, bannog thieves are uniquely vulnerable to magic associated with sleep and dreaming. Whenever a bannog thief makes a check to avoid a spell or effect with the sleep trait or a spell or effect that would cause the Unconscious condition, it treats the result of its check as one degree of success worse than the result it rolled on the check. Spells and effects that only work on sleeping creatures, such as the _Nightmare_ spell, work on the bannog thief at any time."
+    desc: "  Because they are creatures of dream, bannog thieves are uniquely vulnerable to magic associated with sleep and dreaming. Whenever a bannog thief makes a check to avoid a spell or effect with the sleep trait or a spell or effect that would cause the [[undefined]] condition, it treats the result of its check as one degree of success worse than the result it rolled on the check. Spells and effects that only work on sleeping creatures, such as the _[[Spells/Nightmare|Nightmare]]_ spell, work on the bannog thief at any time."
 
   - name: "Just a Dream"
-    desc: "`pf2:r` (mental,occult,teleportation) **Trigger** A creature damages the bannog thief\n**Effect** The thief gains resistance 5 all (except force) against the triggering damage and teleports up to 10 feet in any direction."
+    desc: "`pf2:r` (mental,occult,teleportation) **Trigger** A creature damages the bannog thief\n* * *\n\n**Effect** The thief gains resistance 5 all (except force) against the triggering damage and teleports up to 10 feet in any direction."
 
 attacks:
   - name: ""
@@ -75,14 +76,20 @@ attacks:
     desc: "DC 22, attack +14; __2nd __  _[[Spells/Speak with Animals|Speak with Animals (Constant, Rabbits Only)]]_"
 
   - name: "Deep Dream Membrane"
-    desc: " (death,incapacitation,occult,poison) **Saving Throw** DC 20 Will check\n**Maximum Duration** 10 minutes\n**Stage 1** Stupefied 1 (1 round)\n**Stage 2** Stupefied 2 and Drained 1 (1 round)\n**Stage 3** Stupefied 4, Drained 2 and Slowed 1 (1 round)\n**Stage 4** Unconscious (10 minutes)\n**Stage 5** the creature dies, and its soul becomes trapped within a pebble in the bannog thief's possession."
+    desc: " (death,incapacitation,occult,poison) **Saving Throw** DC 20 Will check\n\n**Maximum Duration** 10 minutes\n\n**Stage 1** [[undefined]] (1 round)\n\n**Stage 2** [[undefined]] and [[undefined]] (1 round)\n\n**Stage 3** [[undefined]], [[undefined]] and [[undefined]] (1 round)\n\n**Stage 4** [[undefined]] (10 minutes)\n\n**Stage 5** the creature dies, and its soul becomes trapped within a pebble in the bannog thief's possession."
 
   - name: "Imaginary Flurry"
     desc: "`pf2:2`  The bannog thief makes three fist Strikes (applying its multiple attack penalty normally), then Steps."
 
   - name: "Lucid Step"
-    desc: "`pf2:2`  The bannog thief insidiously shifts itself into the dream of an adjacent Unconscious creature or into an unoccupied space on the Material Plane adjacent to the creature whose dream it inhabits. The bannog thief can stay on either plane indefinitely without ill effect."
+    desc: "`pf2:2`  The bannog thief insidiously shifts itself into the dream of an adjacent [[undefined]] creature or into an unoccupied space on the Material Plane adjacent to the creature whose dream it inhabits. The bannog thief can stay on either plane indefinitely without ill effect."
  
+```
+
+```encounter-table
+name: Bannog Thief
+creatures:
+  - 1: Bannog Thief
 ```
 
 

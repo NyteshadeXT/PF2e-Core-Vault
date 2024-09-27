@@ -6,6 +6,7 @@ cssClasses: pf2e
 aliases: "Compendium.battlezoo-bestiary-su-pf2e.pf2e-battlezoo-su-actors.Actor.Q9kqLju6JvhzDWkL" 
 tags:
   - pf2e/creature/type/animal
+  - pf2eMonster
   - pf2e/creature/level/7
 statblock: inline
 name: "Wildcat Gorger"
@@ -21,17 +22,18 @@ token: [[modules/battlezoo-bestiary-su-pf2e/art/Portraits/wildcat-gorger.webp| ]
 source: "Battlezoo Bestiary: Strange and Unusual"
 name: "Wildcat Gorger"
 level: "Creature 7"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Large"
-trait_01: "animal"
+trait_01: [[animal]]
 modifier: 15
 perception:
   - name: "Perception"
     desc: "+15; Low-Light Vision, Scent (Imprecise) 60 Feet"
+languages: ""
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +13, Athletics: +18, Stealth: +15, "
+    desc: "Acrobatics: +13, Athletics: +18, Stealth: +15, Acrobatics: +13, Athletics: +18, Stealth: +15"
 abilityMods: [6, 3, 4, -4, 2, 0]
 speed: 35 feet,  climb 20 feet
 sourcebook: "_Battlezoo Bestiary: Strange and Unusual_"
@@ -62,14 +64,20 @@ attacks:
     desc: "`pf2:1`  "
 
   - name: "Pouncing Swallow"
-    desc: "`pf2:2`  The wildcat gorger pounces, its large maw unfurling to envelop its victim. It Strides and makes a jaws Strike with its maw. On a success, if the creature is Medium or smaller, the wildcat gorger attempts to Swallow it Whole. If the wildcat gorger began this action Hidden, it remains hidden until after this ability's Strike."
+    desc: "`pf2:2`  The wildcat gorger pounces, its large maw unfurling to envelop its victim. It Strides and makes a jaws Strike with its maw. On a success, if the creature is Medium or smaller, the wildcat gorger attempts to Swallow it Whole. If the wildcat gorger began this action [[undefined]], it remains hidden until after this ability's Strike."
 
   - name: "[[Bestiary Ability Glossary/Sneak Attack|Sneak Attack]]"
-    desc: "  The wildcat gorger deals 2d6 extra precision damage to Off-Guard creatures."
+    desc: "  The wildcat gorger deals 2d6 extra precision damage to [[undefined]] creatures."
 
   - name: "[[Bestiary Ability Glossary/Swallow Whole|Swallow Whole]]"
-    desc: "`pf2:1` (attack) Medium, [[/r (2d6+6)\[piercing\],2d6\[acid]]\], Rupture 20\nThe wildcat gorger cannot Strike with its maw if it has a creature swallowed.\n"
+    desc: "`pf2:1` (attack) Medium, [[/r (2d6+6)[piercing],2d6[acid]]], Rupture 20\n\nThe wildcat gorger cannot Strike with its maw if it has a creature swallowed.\n\n* * *\n"
  
+```
+
+```encounter-table
+name: Wildcat Gorger
+creatures:
+  - 1: Wildcat Gorger
 ```
 
 

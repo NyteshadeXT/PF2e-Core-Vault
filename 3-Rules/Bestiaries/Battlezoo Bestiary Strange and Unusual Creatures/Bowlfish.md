@@ -7,6 +7,7 @@ aliases: "Compendium.battlezoo-bestiary-su-pf2e.pf2e-battlezoo-su-actors.Actor.t
 tags:
   - pf2e/creature/type/aberration
   - pf2e/creature/type/chaotic
+  - pf2eMonster
   - pf2e/creature/level/1
 statblock: inline
 name: "Bowlfish"
@@ -22,11 +23,11 @@ token: [[modules/battlezoo-bestiary-su-pf2e/art/Portraits/bowlfish.webp| ]]
 source: "Battlezoo Bestiary: Strange and Unusual"
 name: "Bowlfish"
 level: "Creature 1"
-rare_03: "Rare"
+rare_03: [[Rare]]
 alignment: ""
 size: "tiny"
-trait_01: "aberration"
-trait_02: "chaotic"
+trait_01: [[aberration]]
+trait_02: [[chaotic]]
 modifier: 8
 perception:
   - name: "Perception"
@@ -34,7 +35,7 @@ perception:
 languages: "Common"
 skills:
   - name: "Skills"
-    desc: "Athletics: +6, Deception: +7, Diplomacy: +7, Intimidation: +7, Performance: +7, Society: +6, "
+    desc: "Athletics: +6, Deception: +7, Diplomacy: +7, Intimidation: +7, Performance: +7, Society: +6, Athletics: +6, Deception: +7, Diplomacy: +7, Intimidation: +7, Performance: +7, Society: +6"
 abilityMods: [1, 4, 1, 3, 3, 4]
 speed: 5 feet
 sourcebook: "_Battlezoo Bestiary: Strange and Unusual_"
@@ -65,11 +66,17 @@ attacks:
     desc: "`pf2:1`  "
 
   - name: "Blood Frenzy"
-    desc: "`pf2:1`  **Requirements** The bowlfish has a creature Grabbed\n**Effect** The bowlfish viciously feeds on its victim with its razor sharp teeth, dealing 1d4 piercing damage with a DC 17 Fortitude check save. On a failure, the creature also takes 1 persistent bleed damage."
+    desc: "`pf2:1`  **Requirements** The bowlfish has a creature [[undefined]]\n* * *\n\n**Effect** The bowlfish viciously feeds on its victim with its razor sharp teeth, dealing 1d4 piercing damage with a DC 17 Fortitude check save. On a failure, the creature also takes 1 persistent bleed damage."
 
   - name: "Fish Dance"
-    desc: "`pf2:1` (mental,occult,visual) The bowlfish erupts in a wonderful and complex dance, immediately drawing the attention of all those around it to its bizarre antics. Every creature in a 30 foot radius becomes Fascinated, unless they succeed at a DC 17 Will check save. A creature that fails its saving throw against a bowlfish's Fish Dance ability stays fascinated this way as long as the bowlfish continues to spend one action to Fish Dance each turn to keep dancing, without receiving any further saving throws, although the fascination can be broken normally by hostile actions. Creatures fascinated by a bowlfish's Fish Dance must spend the first action on each of their turns approaching the bowlfish, and they must instead spend all of their actions approaching the bowlfish if they critically failed their Will save against the bowlfish's Fish Dance."
+    desc: "`pf2:1` (mental,occult,visual) The bowlfish erupts in a wonderful and complex dance, immediately drawing the attention of all those around it to its bizarre antics. Every creature in a 30 foot radius becomes [[undefined]], unless they succeed at a DC 17 Will check save. A creature that fails its saving throw against a bowlfish's Fish Dance ability stays fascinated this way as long as the bowlfish continues to spend one action to Fish Dance each turn to keep dancing, without receiving any further saving throws, although the fascination can be broken normally by hostile actions. Creatures fascinated by a bowlfish's Fish Dance must spend the first action on each of their turns approaching the bowlfish, and they must instead spend all of their actions approaching the bowlfish if they critically failed their Will save against the bowlfish's Fish Dance."
  
+```
+
+```encounter-table
+name: Bowlfish
+creatures:
+  - 1: Bowlfish
 ```
 
 

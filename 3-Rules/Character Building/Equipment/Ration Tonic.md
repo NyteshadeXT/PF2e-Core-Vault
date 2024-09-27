@@ -8,8 +8,9 @@ tags:
   - trait/potion
   - trait/common
   - category/potion
+  - remaster
 aliases: "Compendium.pf2e.equipment-srd.Item.3Wb0N7iqmTn6e2Xc"
-license: OGL
+license: ORC
 ---
 # Ration Tonic
 ## Item 1
@@ -20,9 +21,11 @@ license: OGL
 **Bulk** L; **Size** med
 **Usage** held-in-one-hand
 
-**Activate** `pf2:1` Interact
+**Activate** `pf2:1` (manipulate)
 
-This slender vial appears to hold clean, clear water with a faintly fruity scent. Drinking a ration tonic magically nourishes you with the equivalent of a day's worth of food and water. The tonic has a subtle, pleasant taste, its particulars chosen when the potion is crafted.
+* * *
 
-*Source: Pathfinder Advanced Player's Guide*
-*OGL*
+This slender vial appears to hold clean, clear water with a faintly fruity scent. Drinking a _ration tonic_ magically nourishes you with the equivalent of a day's worth of food and water. The tonic has a subtle, pleasant taste, its particulars chosen when the potion is crafted.
+
+*Source: Pathfinder Player Core 2*
+*ORC*

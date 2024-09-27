@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.rage-of-elements-bestiary.Actor.RZ83RzvCJJHHooyk"
 tags:
   - pf2e/creature/type/air
   - pf2e/creature/type/elemental
+  - pf2eMonster
   - pf2e/creature/level/11
   - remaster
 statblock: inline
@@ -25,8 +26,8 @@ level: "Creature 11"
 
 alignment: ""
 size: "huge"
-trait_01: "air"
-trait_02: "elemental"
+trait_01: [[air]]
+trait_02: [[elemental]]
 modifier: 24
 perception:
   - name: "Perception"
@@ -68,8 +69,14 @@ attacks:
     desc: "`pf2:1` Tongue +25 (reach 15 feet)\n__Damage__  2d10 + 10 bludgeoning 1d10 cold"
 
   - name: "Vacuum"
-    desc: "`pf2:2` (air) **Requirements** The veldenar doesn't have a creature engulfed\n**Effect** The veldenar forcefully unlocks then expands its jaws to inhale the air in a 15-foot cone before it, pulling Large or smaller creatures into its cavernous maw. The veldenar [[Bestiary Ability Glossary/Engulf|Engulfs]] the creatures in the area (DC 27 Reflex check, 1d10 + 10 cold, [[Actions/Escape|Escape]] DC 27, Rupture 25)."
+    desc: "`pf2:2` (air) **Requirements** The veldenar doesn't have a creature engulfed\n* * *\n\n**Effect** The veldenar forcefully unlocks then expands its jaws to inhale the air in a @Template[cone|distance:15] before it, pulling Large or smaller creatures into its cavernous maw. The veldenar [[Bestiary Ability Glossary/Engulf|Engulfs]] the creatures in the area (DC 27 Reflex check, 1d10+10 cold, [[Actions/Escape|Escape]] DC 27, Rupture 25)."
  
+```
+
+```encounter-table
+name: Veldenar
+creatures:
+  - 1: Veldenar
 ```
 
 

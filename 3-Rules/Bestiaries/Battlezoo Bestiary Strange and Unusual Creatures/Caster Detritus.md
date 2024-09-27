@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/aberration
   - pf2e/creature/type/chaotic
   - pf2e/creature/type/evil
+  - pf2eMonster
   - pf2e/creature/level/8
 statblock: inline
 name: "Caster Detritus"
@@ -26,17 +27,17 @@ level: "Creature 8"
 
 alignment: ""
 size: "Medium"
-trait_01: "aberration"
-trait_02: "chaotic"
-trait_03: "evil"
+trait_01: [[aberration]]
+trait_02: [[chaotic]]
+trait_03: [[evil]]
 modifier: 14
 perception:
   - name: "Perception"
     desc: "+14; Low-Light Vision"
-languages: "Common"
+languages: "Common; any languages the source mage speaks"
 skills:
   - name: "Skills"
-    desc: "Arcana: +16, Athletics: +14, Deception: +14, "
+    desc: "Arcana: +16, Athletics: +14, Deception: +14, Arcana: +16, Athletics: +14, Deception: +14"
 abilityMods: [4, 3, 3, 4, 1, 4]
 speed: 25 feet,  climb 15 feet
 sourcebook: "_Battlezoo Bestiary: Strange and Unusual_"
@@ -55,7 +56,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Burnt Hair"
-    desc: " (olfactory) Whenever a caster detritus takes fire damage, all creatures other than caster detritus in a 10-foot emanation of the caster detritus must attempt a DC 24 Fortitude check save. On a failure, they become Sickened 1."
+    desc: " (olfactory) Whenever a caster detritus takes fire damage, all creatures other than caster detritus in a 10-foot emanation of the caster detritus must attempt a DC 24 Fortitude check save. On a failure, they become [[undefined]]."
 
 attacks:
   - name: ""
@@ -70,11 +71,17 @@ attacks:
     desc: "DC 25, attack +15; __4th __  _[[Spells/Vapor Form|Gaseous Form]]_; __3rd __  _[[Spells/Stinking Cloud|Stinking Cloud]]_; __2nd __  _[[Spells/Revealing Light|Glitterdust]]_; __1st __  _[[Spells/Grease|Grease (x2)]]_\n__Cantrips__  __(4th)__ _[[Spells/Tangle Vine|Tanglefoot]]_"
 
   - name: "Blast Sheddings"
-    desc: "`pf2:2`  The caster detritus fires a blast of hair, nail clippings, and dander in a 20-foot cone that deals 4d6 slashing damage to each creature within the area (DC 24 Reflex check save). Any creature that fails their save becomes Dazzled, or Blinded on a critical failure. Creatures must spend 1 Interact action to remove these conditions. A caster detritus cannot Blast Sheddings again until it spends a full round in the affected 20-foot cone to absorb some of the previous sheddings."
+    desc: "`pf2:2`  The caster detritus fires a blast of hair, nail clippings, and dander in a 20-foot cone that deals 4d6 slashing damage to each creature within the area (DC 24 Reflex check save). Any creature that fails their save becomes [[undefined]], or [[undefined]] on a critical failure. Creatures must spend 1 Interact action to remove these conditions. A caster detritus cannot Blast Sheddings again until it spends a full round in the affected 20-foot cone to absorb some of the previous sheddings."
 
   - name: "Tangle Hair"
-    desc: "`pf2:2`  The caster detritus makes a hair whip Strike. If the Strike hits, the target also suffers the effects of a successful _Tanglefoot_, or a critically successful _tanglefoot_ if the Strike was a critical hit."
+    desc: "`pf2:2`  The caster detritus makes a hair whip Strike. If the Strike hits, the target also suffers the effects of a successful _[[Spells/Tangle Vine|Tanglefoot]]_, or a critically successful _tanglefoot_ if the Strike was a critical hit."
  
+```
+
+```encounter-table
+name: Caster Detritus
+creatures:
+  - 1: Caster Detritus
 ```
 
 

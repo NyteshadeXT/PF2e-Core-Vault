@@ -6,6 +6,7 @@ cssClasses: pf2e
 aliases: "Compendium.pf2e.pathfinder-monster-core.Actor.S67oZ1mvVNz9FTUE" 
 tags:
   - pf2e/creature/type/animal
+  - pf2eMonster
   - pf2e/creature/level/9
   - remaster
 statblock: inline
@@ -25,7 +26,7 @@ level: "Creature 9"
 
 alignment: ""
 size: "grg"
-trait_01: "animal"
+trait_01: [[animal]]
 modifier: 18
 perception:
   - name: "Perception"
@@ -75,6 +76,12 @@ attacks:
   - name: "Snack"
     desc: "  A roc gains a +2 circumstance bonus to hit with its beak Strike if the target is [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]] in its talon."
  
+```
+
+```encounter-table
+name: Roc
+creatures:
+  - 1: Roc
 ```
 
 

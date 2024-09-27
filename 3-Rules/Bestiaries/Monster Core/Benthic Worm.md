@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.pathfinder-monster-core.Actor.v7LH85fl189pXMsR"
 tags:
   - pf2e/creature/type/amphibious
   - pf2e/creature/type/animal
+  - pf2eMonster
   - pf2e/creature/level/15
   - remaster
 statblock: inline
@@ -26,8 +27,8 @@ level: "Creature 15"
 
 alignment: ""
 size: "grg"
-trait_01: "amphibious"
-trait_02: "animal"
+trait_01: [[amphibious]]
+trait_02: [[animal]]
 modifier: 22
 perception:
   - name: "Perception"
@@ -35,7 +36,7 @@ perception:
 languages: ""
 skills:
   - name: "Skills"
-    desc: "Athletics: +33, Stealth: +20 (+25 in water)"
+    desc: "Athletics: +33, Stealth: +20"
 abilityMods: [10, -1, 8, -5, -1, -1]
 speed: 40 feet,  burrow 40 feet,  swim 60 feet
 sourcebook: "_Pathfinder Monster Core_"
@@ -54,7 +55,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Inexorable"
-    desc: "  The benthic worm recovers from the [[Conditions/Paralyzed|Paralyzed]], [[Conditions/Slowed 1|Slowed]], and [[Conditions/Stunned 1|Stunned]] conditions at the end of its turn. It's also immune to penalties to its Speeds and the [[Conditions/Immobilized|Immobilized]] condition, and it ignores difficult terrain and greater difficult terrain."
+    desc: "  The benthic worm recovers from the [[Conditions/Paralyzed|Paralyzed]], [[Conditions/Slowed|Slowed]], and [[Conditions/Stunned|Stunned]] conditions at the end of its turn. It's also immune to penalties to its Speeds and the [[Conditions/Immobilized|Immobilized]] condition, and it ignores difficult terrain and greater difficult terrain."
 
   - name: "Slough Skin"
     desc: "`pf2:r`  **Frequency** once per day\n\n**Trigger** The benthic worm would be affected by a condition or adverse effect (such as [[Spells/Cursed Metamorphosis|Cursed Metamorphosis]])\n* * *\n\n**Effect** The benthic worm negates the triggering condition or effect by sloughing an outer layer of its skin. Effects from artifacts, deities, or a similarly powerful source can't be avoided in this way."
@@ -72,7 +73,7 @@ attacks:
     desc: "`pf2:1` Body +29 (reach 15 feet)\n__Damage__  2d8 + 14 bludgeoning"
 
   - name: "Benthic Worm Venom"
-    desc: " (poison) **Saving Throw** DC 37 Fortitude check\n* * *\n\n**Maximum Duration** 6 rounds\n\n**Stage 1** 3d6 poison damage and [[Conditions/Clumsy 1|Clumsy 2]] (1 round)\n\n**Stage 2** 4d6 poison damage and clumsy 2 (1 round)\n\n**Stage 3** 6d6 poison damage and clumsy 2 (1 round)"
+    desc: " (poison) **Saving Throw** DC 37 Fortitude check\n* * *\n\n**Maximum Duration** 6 rounds\n\n**Stage 1** 3d6 poison damage and [[Conditions/Clumsy|Clumsy 2]] (1 round)\n\n**Stage 2** 4d6 poison damage and clumsy 2 (1 round)\n\n**Stage 3** 6d6 poison damage and clumsy 2 (1 round)"
 
   - name: "Breach"
     desc: "`pf2:2`  The benthic worm Swims up to its swim Speed, then [[Actions/Leap|Leaps]] vertically out of the water up to 30 feet, making a Strike against a creature at the apex of the jump (this lets it attack a creature within 45 feet of the water's surface). After the Strike, the worm splashes back down. It can use [[Bestiary Ability Glossary/Improved Grab|Improved Grab]] on this Strike and follow it up with Fast Swallow."
@@ -81,11 +82,17 @@ attacks:
     desc: "`pf2:r`  **Trigger** The worm [[Conditions/Grabbed|Grabs]] a creature.\n* * *\n\n**Effect** The worm uses Swallow Whole."
 
   - name: "[[Bestiary Ability Glossary/Swallow Whole|Swallow Whole]]"
-    desc: "`pf2:1` (attack) Huge, 3d8 + 10 bludgeoning, Rupture 27\n\n* * *\n"
+    desc: "`pf2:1` (attack) Huge, 3d8+10 bludgeoning, Rupture 27\n\n* * *\n"
 
   - name: "Thrash"
     desc: "`pf2:2`  The worm makes a Strike once against each creature in its reach. It can Strike up to once with its jaws, up to once with its stinger, and any number of times with its body. Each attack counts toward the worm's multiple attack penalty, but the multiple attack penalty doesn't increase until after it makes all the attacks."
  
+```
+
+```encounter-table
+name: Benthic Worm
+creatures:
+  - 1: Benthic Worm
 ```
 
 

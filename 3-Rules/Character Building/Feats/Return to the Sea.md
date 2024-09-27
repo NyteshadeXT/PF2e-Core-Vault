@@ -16,7 +16,7 @@ license: OGL
 ---
 # Return to the Sea `pf2:2`
 ## Feat 4
-### [[impulse]][[kineticist]][[morph]][[primal]][[3-Rules/Rule References/Water]]
+### [[impulse]][[kineticist]][[morph]][[primal]][[water]]
 
 **Category** class; 
 

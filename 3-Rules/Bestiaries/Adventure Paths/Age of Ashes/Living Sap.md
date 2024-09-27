@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.age-of-ashes-bestiary.Actor.YdLf7y2ZHudpjWx9"
 tags:
   - pf2e/creature/type/mindless
   - pf2e/creature/type/ooze
+  - pf2eMonster
   - pf2e/creature/level/6
 statblock: inline
 name: "Living Sap"
@@ -21,15 +22,16 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #146: Cult of Cinders"
 name: "Living Sap"
 level: "Creature 6"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Medium"
-trait_01: "mindless"
-trait_02: "ooze"
+trait_01: [[mindless]]
+trait_02: [[ooze]]
 modifier: 7
 perception:
   - name: "Perception"
     desc: "+7; Motion Sense (Precise) 60 Feet"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Athletics: +17, Stealth: +10"
@@ -68,6 +70,12 @@ attacks:
   - name: "Entangling Residue"
     desc: "  A creature hit by a living sap's pseudopod Strike must succeed at a DC 24 Reflex check save or become [[Conditions/Grabbed|Grabbed]] until the end of the living sap's next turn."
  
+```
+
+```encounter-table
+name: Living Sap
+creatures:
+  - 1: Living Sap
 ```
 
 

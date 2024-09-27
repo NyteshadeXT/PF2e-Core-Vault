@@ -6,6 +6,7 @@ cssClasses: pf2e
 aliases: "Compendium.pf2e.extinction-curse-bestiary.Actor.TdqGpBasgDOUqmNp" 
 tags:
   - pf2e/creature/type/aberration
+  - pf2eMonster
   - pf2e/creature/level/3
 statblock: inline
 name: "Zuipnyrn"
@@ -20,15 +21,15 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #152: Legacy of the Lost God"
 name: "Zuipnyrn"
 level: "Creature 3"
-rare_03: "Rare"
+rare_03: [[Rare]]
 alignment: ""
 size: "Small"
-trait_01: "aberration"
+trait_01: [[aberration]]
 modifier: 9
 perception:
   - name: "Perception"
     desc: "+9; Greater Darkvision"
-languages: "Common"
+languages: "Common; (can&#x27;t speak any language)"
 skills:
   - name: "Skills"
     desc: "Stealth: +11"
@@ -50,7 +51,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Alluring Aspect"
-    desc: " (aura,occult,visual) 30 feet. When a creature ends its turn in the aura, it must attempt a DC 22 Will check save. On a failure, it becomes [[Conditions/Fascinated|Fascinated]] with the zuipnyrn for 1 minute. Once the fascination ends, the creature is temporarily immune to this ability for 1 hour.\nThe zuipnyrn can deactivate or activate this aura by using a single action, which has the concentrate trait."
+    desc: " (aura,occult,visual) 30 feet. When a creature ends its turn in the aura, it must attempt a DC 22 Will check save. On a failure, it becomes [[Conditions/Fascinated|Fascinated]] with the zuipnyrn for 1 minute. Once the fascination ends, the creature is temporarily immune to this ability for 1 hour.\n\nThe zuipnyrn can deactivate or activate this aura by using a single action, which has the concentrate trait."
 
 attacks:
   - name: ""
@@ -59,11 +60,17 @@ attacks:
     desc: "`pf2:1` Eye Stalk +8 (agile)\n__Damage__  2d4 + 2 bludgeoning"
 
   - name: "Beguiling Gaze"
-    desc: "`pf2:3` (occult,visual) The zuipnyrn attempts to charm a creature within 30 feet that is currently [[Conditions/Fascinated|Fascinated]] by the zuipnyrn. The target must attempt a DC 22 Will check save. Whether it succeeds or fails the save, the target is temporarily immune for 1 hour.\n**Critical Success** The creature is unaffected and is no longer fascinated.\n**Success** The creature is unaffected.\n**Failure** The creature is [[Conditions/Helpful|Helpful]] toward the zuipnyrn for 1 hour.\n**Critical Failure** The creature is helpful toward the zuipnyrn for 1 day and will actively attempt to defend the zuipnyrn and even risk its life for it."
+    desc: "`pf2:3` (occult,visual) The zuipnyrn attempts to charm a creature within 30 feet that is currently [[Conditions/Fascinated|Fascinated]] by the zuipnyrn. The target must attempt a DC 22 Will check save. Whether it succeeds or fails the save, the target is temporarily immune for 1 hour.\n* * *\n\n**Critical Success** The creature is unaffected and is no longer fascinated.\n\n**Success** The creature is unaffected.\n\n**Failure** The creature is [[Conditions/Helpful|Helpful]] toward the zuipnyrn for 1 hour.\n\n**Critical Failure** The creature is helpful toward the zuipnyrn for 1 day and will actively attempt to defend the zuipnyrn and even risk its life for it."
 
   - name: "Blinding Flare"
-    desc: "`pf2:2` (occult,visual) The zuipnyrn's eye produces a bright flash of light. Each creature in a 30-foot cone must attempt a DC 22 Fortitude check save. The zuipnyrn can't use Blinding Flare again for 1 minute.\n**Critical Success** The creature is unaffected.\n**Success** The creature is [[Conditions/Dazzled|Dazzled]] for 1 round.\n**Failure** The creature is [[Conditions/Blinded|Blinded]] for 1 round and dazzled for 1 minute.\n**Critical Failure** The creature is blinded for 1 minute."
+    desc: "`pf2:2` (occult,visual) The zuipnyrn's eye produces a bright flash of light. Each creature in a @Template[cone|distance:30] must attempt a DC 22 Fortitude check save. The zuipnyrn can't use Blinding Flare again for 1 minute.\n\n**Critical Success** The creature is unaffected.\n\n**Success** The creature is [[Conditions/Dazzled|Dazzled]] for 1 round.\n\n**Failure** The creature is [[Conditions/Blinded|Blinded]] for 1 round and dazzled for 1 minute.\n\n**Critical Failure** The creature is blinded for 1 minute."
  
+```
+
+```encounter-table
+name: Zuipnyrn
+creatures:
+  - 1: Zuipnyrn
 ```
 
 

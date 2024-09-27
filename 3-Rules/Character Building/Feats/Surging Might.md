@@ -8,11 +8,12 @@ tags:
   - trait/spellshape
   - trait/common
   - category/class
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.YV4X9u5Yuf0xvoCh"
-license: OGL
+license: ORC
 ---
 # Surging Might `pf2:1`
-## Feat 10
+## Feat 8
 ### [[manipulate]][[oracle]][[spellshape]]
 
 **Category** class; 
@@ -20,9 +21,9 @@ license: OGL
 
 
 
-With a complex gesture, you focus the divine power of your spell to overcome enemies' resistances. If the next action you use is to Cast a Spell, the spell ignores an amount of the target's resistance equal to your level against all the following types of damage: chaotic, evil, good, lawful, negative, and positive.
+You focus the power of your spell to overcome enemies' resistances. If the next action you use is to Cast a Spell, the spell ignores an amount of the target's resistance equal to your level against the following types of damage: spirit, vitality, and void.
 
-This applies to all damage the spell deals, including persistent damage and damage caused by an ongoing effect of the spell, such as the vitality energy within a [[Spells/Field of Life|Field of Life]]. This doesn't cause the spell to ignore immunities, only resistances.
+This applies to all damage the spell deals, including persistent damage and damage caused by an ongoing effect of the spell. This doesn't cause the spell to ignore immunities, only resistances.
 
-*Source: Pathfinder Advanced Player's Guide*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

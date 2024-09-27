@@ -6,6 +6,7 @@ cssClasses: pf2e
 aliases: "Compendium.battlezoo-bestiary-su-pf2e.pf2e-battlezoo-su-actors.Actor.Gb2eS6EoR47dmDT6" 
 tags:
   - pf2e/creature/type/plant
+  - pf2eMonster
   - pf2e/creature/level/1
 statblock: inline
 name: "Samaran"
@@ -24,7 +25,7 @@ level: "Creature 1"
 
 alignment: ""
 size: "tiny"
-trait_01: "plant"
+trait_01: [[plant]]
 modifier: 8
 perception:
   - name: "Perception"
@@ -32,7 +33,7 @@ perception:
 languages: "Arboreal, Common, Fey"
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +6, Athletics: +2, Crafting: +8, Stealth: +6 (+10 in forests), Arboreal Lore: +0, Arboreal Lore: +6, "
+    desc: "Acrobatics: +6, Athletics: +2, Crafting: +8, Stealth: +6, Acrobatics: +6, Athletics: +2, Crafting: +8, Stealth: +6, Arboreal Lore: +6"
 abilityMods: [0, 3, 1, 3, 1, 1]
 speed: 30 feet
 sourcebook: "_Battlezoo Bestiary: Strange and Unusual_"
@@ -52,7 +53,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Amplify Forest"
-    desc: "`pf2:r`  **Trigger** Another samaran makes a Strike against an adjacent creature.\n**Effect** The samaran using Amplify Forest Aids the Striking samaran, even if it had not prepared to Aid."
+    desc: "`pf2:r`  **Trigger** Another samaran makes a Strike against an adjacent creature.\n* * *\n\n**Effect** The samaran using Amplify Forest Aids the Striking samaran, even if it had not prepared to Aid."
 
 attacks:
   - name: ""
@@ -67,14 +68,20 @@ attacks:
     desc: "`pf2:1` Branch +9 (range increment 10 feet)\n__Damage__  1d6 bludgeoning"
 
   - name: "Falling Branch"
-    desc: "`pf2:2`  A samaran closes distance quickly to surprise foes. The samaran Leaps up to 30 feet and makes a Strike with the following additional effects depending on the Strike's success.\n**Critical Success** The Strike deals an additional 2d8 damage (applied after doubling the damage for the critical hit).\n**Success** The Strike deals an additional 1d8 damage.\n**Failure** The Strike still misses, but the target takes 1 bludgeoning damage from the falling samaran.\n**Critical Failure** The samaran falls painfully, taking 1d8 bludgeoning damage and falling Prone."
+    desc: "`pf2:2`  A samaran closes distance quickly to surprise foes. The samaran Leaps up to 30 feet and makes a Strike with the following additional effects depending on the Strike's success.\n* * *\n\n**Critical Success** The Strike deals an additional 2d8 damage (applied after doubling the damage for the critical hit).\n\n**Success** The Strike deals an additional 1d8 damage.\n\n**Failure** The Strike still misses, but the target takes 1 bludgeoning damage from the falling samaran.\n\n**Critical Failure** The samaran falls painfully, taking 1d8 bludgeoning damage and falling [[undefined]]."
 
   - name: "Soaring Leap"
     desc: "`pf2:1`  The samaran leaps great distances, using its wings to support it. It Leaps up to 30 feet in any direction, even straight up."
 
   - name: "Twisting Fall"
-    desc: "  A samaran's stiff wings twist it along in the wind. It does not take damage from falling. However, if it falls more than 30 feet, it is Sickened 1 and Stunned 1 from the twisting wings."
+    desc: "  A samaran's stiff wings twist it along in the wind. It does not take damage from falling. However, if it falls more than 30 feet, it is [[undefined]] and [[undefined]] from the twisting wings."
  
+```
+
+```encounter-table
+name: Samaran
+creatures:
+  - 1: Samaran
 ```
 
 

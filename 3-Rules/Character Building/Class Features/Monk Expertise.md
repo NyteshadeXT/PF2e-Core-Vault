@@ -6,19 +6,20 @@ tags:
   - trait/monk
   - trait/common
   - category/classfeature
+  - remaster
 aliases: "Compendium.pf2e.classfeatures.Item.lxImO5D0qWp0gXFB"
-license: OGL
+license: ORC
 ---
 # Monk Expertise
 ## Feat 9
-### [[monk]]
+### [[3-Rules/trait_reference/monk]]
 
 **Category** classfeature; 
 
 
 
 
-Your proficiency rank for your monk class DC increases to expert. If you have ki spells, your proficiency rank for spell attacks and spell DCs with the tradition of magic you use for your ki spells increases to expert.
+Your proficiency rank for your monk class DC increases to expert. If you have qi spells, your proficiency rank for spell attacks and spell DCs increases to expert.
 
-*Source: Pathfinder Core Rulebook*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

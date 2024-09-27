@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.menace-under-otari-bestiary.Actor.Rr1wwJ1jIIhRZbXh"
 tags:
   - pf2e/creature/type/caligni
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/4
   - remaster
 statblock: inline
@@ -25,12 +26,13 @@ level: "Creature 4"
 
 alignment: ""
 size: "Medium"
-trait_01: "caligni"
-trait_02: "humanoid"
+trait_01: [[caligni]]
+trait_02: [[humanoid]]
 modifier: 10
 perception:
   - name: "Perception"
     desc: "+10; "
+languages: ""
 skills:
   - name: "Skills"
     desc: "Acrobatics: +13, Athletics: +8, Stealth: +13, Survival: +12, Thievery: +11"
@@ -73,6 +75,12 @@ attacks:
   - name: "Darkening Poison"
     desc: "`pf2:1` (poison) The next time the hunter deals damage with a shortsword Strike, the target must succeed at a DC 16 Fortitude check save or take 1d8 poison damage and treat all creatures as [[Conditions/Concealed|Concealed]] for 1 round."
  
+```
+
+```encounter-table
+name: Caligni Hunter (BB)
+creatures:
+  - 1: Caligni Hunter (BB)
 ```
 
 

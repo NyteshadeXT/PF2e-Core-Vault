@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/fiend
   - pf2e/creature/type/sahkil
   - pf2e/creature/type/unholy
+  - pf2eMonster
   - pf2e/creature/level/20
 statblock: inline
 name: "Kimenhul"
@@ -27,15 +28,15 @@ level: "Creature 20"
 
 alignment: ""
 size: "huge"
-trait_01: "evil"
-trait_02: "fiend"
-trait_03: "sahkil"
-trait_04: "unholy"
+trait_01: [[evil]]
+trait_02: [[fiend]]
+trait_03: [[sahkil]]
+trait_04: [[unholy]]
 modifier: 35
 perception:
   - name: "Perception"
     desc: "+35; Darkvision, Truesight"
-languages: "Chthonian, Diabolic, Empyrean, Requian"
+languages: "Chthonian, Diabolic, Empyrean, Requian; telepathy 100 feet"
 skills:
   - name: "Skills"
     desc: "Acrobatics: +36, Arcana: +33, Athletics: +38, Deception: +38, Occultism: +33, Religion: +35, Stealth: +36"
@@ -60,10 +61,10 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "[[Bestiary Ability Glossary/Attack of Opportunity|Attack of Opportunity (Special)]]"
-    desc: "`pf2:r`  If the triggering creature is subject to an effect with the fear trait, the kimenhul can make two claw Strikes against the creature instead of one Strike.\n"
+    desc: "`pf2:r`  If the triggering creature is subject to an effect with the fear trait, the kimenhul can make two claw Strikes against the creature instead of one Strike.\n\n* * *\n"
 
   - name: "Feed on Fear"
-    desc: "  The kimenhul regains 30 Hit Points at the start of its turn as long as any [[Conditions/Frightened 1|Frightened]] creature is within 100 feet of it."
+    desc: "  The kimenhul regains 30 Hit Points at the start of its turn as long as any [[Conditions/Frightened|Frightened]] creature is within 100 feet of it."
 
 attacks:
   - name: ""
@@ -78,23 +79,29 @@ attacks:
     desc: "DC 42, attack +34; __9th __  _[[Spells/Confusion|Confusion]]_, _[[Spells/Dispel Magic|Dispel Magic (At Will)]]_, _[[Spells/Fear|Fear (At Will)]]_, _[[Spells/Mask of Terror|Mask of Terror (At Will)]]_, _[[Spells/Phantasmal Calamity|Phantasmal Calamity]]_, _[[Spells/Suggestion|Suggestion (At Will)]]_, _[[Spells/Warp Mind|Warp Mind]]_, _[[Spells/Weird|Weird]]_\n__Cantrips__  __(10th)__ _[[Spells/Detect Magic|Detect Magic]]_\n__Constant__  __(9th)__ _[[Spells/Hidden Mind|Mind Blank]]_, _[[Spells/Truesight|True Seeing]]_"
 
   - name: "Eternal Fear"
-    desc: "`pf2:2` (divine,emotion,fear,incapacitation,mental) The kimenhul contorts its faces and presents itself to its enemies in a terrifying and traumatic display that causes lingering fear. Each creature within 100 feet that can observe the kimenhul must make a DC 42 Will check save.\nThey are then temporarily immune for 10 minutes.\n**Critical Success** The target is unaffected.\n**Success** The target becomes [[Conditions/Frightened 1|Frightened 3]].\n**Failure** The target becomes [[Conditions/Frightened 1|Frightened 3]] and is [[Conditions/Fleeing|Fleeing]] as long as it's frightened. Even after recovering from the initial experience, the trauma is lodged in the target's mind for 1 year. Once per day, the kimenhul can communicate telepathically with the target for 1 minute as long as both creatures are on the same plane. Any time a creature under the effect of Eternal Fear is in a stressful situation (such as combat or intense social pressure), they must succeed at a DC 11 Flat check check or become [[Conditions/Frightened 1|Frightened 2]]. While Eternal Fear lasts, the target always becomes fleeing as long as it's frightened, regardless of the source of the fear. The target can attempt a new saving throw each week to remove these effects, but they can otherwise be removed only by powerful magic such as [[Spells/Wish|Wish]].\n**Critical Failure** As failure, but the effects are permanent and the target doesn't get to attempt a weekly save to end the effect."
+    desc: "`pf2:2` (divine,emotion,fear,incapacitation,mental) The kimenhul contorts its faces and presents itself to its enemies in a terrifying and traumatic display that causes lingering fear. Each creature within 100 feet that can observe the kimenhul must make a DC 42 Will check save.\n\nThey are then temporarily immune for 10 minutes.\n* * *\n\n**Critical Success** The target is unaffected.\n\n**Success** The target becomes [[Conditions/Frightened|Frightened 3]].\n\n**Failure** The target becomes [[Conditions/Frightened|Frightened 3]] and is [[Conditions/Fleeing|Fleeing]] as long as it's frightened. Even after recovering from the initial experience, the trauma is lodged in the target's mind for 1 year. Once per day, the kimenhul can communicate telepathically with the target for 1 minute as long as both creatures are on the same plane. Any time a creature under the effect of Eternal Fear is in a stressful situation (such as combat or intense social pressure), they must succeed at a DC 11 Flat check check or become [[Conditions/Frightened|Frightened 2]]. While Eternal Fear lasts, the target always becomes fleeing as long as it's frightened, regardless of the source of the fear. The target can attempt a new saving throw each week to remove these effects, but they can otherwise be removed only by powerful magic such as [[Spells/Wish|Wish]].\n\n**Critical Failure** As failure, but the effects are permanent and the target doesn't get to attempt a weekly save to end the effect."
 
   - name: "Frightening Flurry"
-    desc: "`pf2:2`  The kimenhul makes one jaws Strike and two claw Strikes against a single target, in any order. The target becomes [[Conditions/Frightened 1|Frightened]] with a condition value equal to the number of Strikes that hit it, to a maximum of frightened 3 if all three Strikes hit."
+    desc: "`pf2:2`  The kimenhul makes one jaws Strike and two claw Strikes against a single target, in any order. The target becomes [[Conditions/Frightened|Frightened]] with a condition value equal to the number of Strikes that hit it, to a maximum of frightened 3 if all three Strikes hit."
 
   - name: "[[Bestiary Ability Glossary/Rend|Rend]]"
-    desc: "`pf2:1`  Claw\n"
+    desc: "`pf2:1`  Claw\n\n* * *\n"
 
   - name: "Skip Between"
-    desc: "`pf2:1` (divine,teleportation) The kimenhul moves from the Material Plane to the Ethereal Plane or vice-versa, with the effects of [[Spells/Ethereal Jaunt|Ethereal Jaunt]] except that the effect has an unlimited duration and can be Dismissed.\nA summoned kimenhul can't use Skip Between."
+    desc: "`pf2:1` (divine,teleportation) The kimenhul moves from the Material Plane to the Ethereal Plane or vice-versa, with the effects of [[Spells/Ethereal Jaunt|Ethereal Jaunt]] except that the effect has an unlimited duration and can be Dismissed.\n\nA summoned kimenhul can't use Skip Between."
 
   - name: "Snatch Between"
     desc: "  When using Skip Between, the kimenhul can bring along any creatures it has [[Conditions/Grabbed|Grabbed]]."
 
   - name: "Unsettled Mind"
-    desc: "  Any creature affected by any of a kimenhul's mental spells or abilities becomes [[Conditions/Stupefied 1|Stupefied 3]] for the duration of that effect and for 1d4 rounds thereafter."
+    desc: "  Any creature affected by any of a kimenhul's mental spells or abilities becomes [[Conditions/Stupefied|Stupefied 3]] for the duration of that effect and for 1d4 rounds thereafter."
  
+```
+
+```encounter-table
+name: Kimenhul
+creatures:
+  - 1: Kimenhul
 ```
 
 

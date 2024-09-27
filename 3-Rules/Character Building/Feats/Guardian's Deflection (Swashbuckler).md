@@ -6,8 +6,9 @@ tags:
   - trait/swashbuckler
   - trait/common
   - category/class
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.YJIzE2RhGRGfbt9j"
-license: OGL
+license: ORC
 ---
 # Guardian's Deflection (Swashbuckler) `pf2:r`
 ## Feat 4
@@ -24,7 +25,9 @@ license: OGL
 
 * * *
 
-You use your weapon to deflect the attack against your ally, granting a +2 circumstance bonus to their AC against the triggering attack. This turns the triggering critical hit into a hit, or the triggering hit into a miss.
+You use your weapon to deflect the attack against your ally, granting a +2 circumstance bonus to their AC against the triggering attack. This turns the triggering critical hit into a hit, or the triggering hit into a miss. You gain [[Feat_Feature Effects/Effect_ Panache|Panache]] until the end of your next turn.
 
-*Source: Pathfinder Advanced Player's Guide*
-*OGL*
+[[Feat_Feature Effects/Effect_ Guardian's Deflection|Effect: Guardian's Deflection]]
+
+*Source: Pathfinder Player Core 2*
+*ORC*

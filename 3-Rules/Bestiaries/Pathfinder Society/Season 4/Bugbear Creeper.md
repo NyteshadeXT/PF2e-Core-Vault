@@ -11,6 +11,7 @@ tags:
   - pf2e/creature/type/goblin
   - pf2e/creature/type/humanoid
   - pf2e/creature/type/unholy
+  - pf2eMonster
   - pf2e/creature/level/-1
 statblock: inline
 name: "Bugbear Creeper"
@@ -25,15 +26,15 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Society Intro: Year of Boundless Wonder"
 name: "Bugbear Creeper"
 level: "Creature -1"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Medium"
-trait_01: "dream"
-trait_02: "evil"
-trait_03: "fiend"
-trait_04: "goblin"
-trait_05: "humanoid"
-trait_06: "unholy"
+trait_01: [[dream]]
+trait_02: [[evil]]
+trait_03: [[fiend]]
+trait_04: [[goblin]]
+trait_05: [[humanoid]]
+trait_06: [[unholy]]
 modifier: 4
 perception:
   - name: "Perception"
@@ -61,7 +62,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Creep"
-    desc: "`pf2:r`  **Trigger** A creature within 15 feet gains the [[Conditions/Frightened 1|Frightened]] condition or its frightened value increases\n**Effect** The bugbear creeper Hides, Sneaks, or Steps."
+    desc: "`pf2:r`  **Trigger** A creature within 15 feet gains the [[Conditions/Frightened|Frightened]] condition or its frightened value increases\n* * *\n\n**Effect** The bugbear creeper Hides, Sneaks, or Steps."
 
 attacks:
   - name: ""
@@ -75,6 +76,12 @@ attacks:
   - name: "Ranged"
     desc: "`pf2:1` Spear +8 (thrown 20 ft., unholy)\n__Damage__  1d6 piercing"
  
+```
+
+```encounter-table
+name: Bugbear Creeper
+creatures:
+  - 1: Bugbear Creeper
 ```
 
 

@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/human
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/8
 statblock: inline
 name: "Assassin"
@@ -25,9 +26,9 @@ level: "Creature 8"
 
 alignment: ""
 size: "Medium"
-trait_01: "evil"
-trait_02: "human"
-trait_03: "humanoid"
+trait_01: [[evil]]
+trait_02: [[human]]
+trait_03: [[humanoid]]
 modifier: 16
 perception:
   - name: "Perception"
@@ -61,7 +62,7 @@ abilities_mid:
     desc: "  The assassin isn't [[Conditions/Off-Guard|Off-Guard]] to creatures of 8th level or lower that are [[Conditions/Hidden|Hidden]], [[Conditions/Undetected|Undetected]], flanking or using [[Class Features/Surprise Attack|Surprise Attack]]."
 
   - name: "Nimble Dodge"
-    desc: "`pf2:r`  **Trigger** The assassin is targeted with a melee or ranged attack by an attacker they can see.\n**Effect** The assassin gains a +2 circumstance bonus to AC against the triggering attack."
+    desc: "`pf2:r`  **Trigger** The assassin is targeted with a melee or ranged attack by an attacker they can see.\n* * *\n\n**Effect** The assassin gains a +2 circumstance bonus to AC against the triggering attack."
 
 attacks:
   - name: ""
@@ -73,7 +74,7 @@ attacks:
     desc: "`pf2:1` Composite Shortbow +20 (deadly 2d10, magical, propulsive, range increment 60 feet, reload 0)\n__Damage__  2d6 + 4 piercing"
 
   - name: "Poison Weapon"
-    desc: "`pf2:1` (manipulate) **Requirements** The assassin is wielding a piercing or slashing weapon and has a free hand.\n**Effect** The assassin applied a poison to the weapon."
+    desc: "`pf2:1` (manipulate) **Requirements** The assassin is wielding a piercing or slashing weapon and has a free hand.\n* * *\n\n**Effect** The assassin applied a poison to the weapon."
 
   - name: "Quick Draw"
     desc: "`pf2:1`  The assassin [[Actions/Interact|Interacts]] to draw a weapon, then [[Actions/Strike|Strikes]] with that weapon."
@@ -84,6 +85,12 @@ attacks:
   - name: "Surprise Attack"
     desc: "  On the first round of combat, creatures that haven't acted yet are [[Conditions/Off-Guard|Off-Guard]] to the assassin."
  
+```
+
+```encounter-table
+name: Assassin
+creatures:
+  - 1: Assassin
 ```
 
 

@@ -6,8 +6,9 @@ tags:
   - trait/champion
   - trait/common
   - category/class
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.YawVDUc9uzREIAnO"
-license: OGL
+license: ORC
 ---
 # Aura of Life
 ## Feat 14
@@ -17,11 +18,9 @@ license: OGL
 
 
 
-**Prerequisites** Shining Oath
+**Prerequisites** champion's aura
 * * *
-Your aura protects against necromantic effects. You and all allies within 15 feet gain resistance 5 to void energy and a +1 status bonus to saves against necromancy effects.
+Your aura protects against the power of the Void. You and all allies in your champion's aura gain resistance 5 to void damage and a +1 status bonus to saves against void effects.
 
-[[Feat_Feature Effects/Effect_ Aura of Life|Effect: Aura of Life]]
-
-*Source: Pathfinder Core Rulebook*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

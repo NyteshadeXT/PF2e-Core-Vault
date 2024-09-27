@@ -17,7 +17,9 @@ license: OGL
 
 
 
-**Major Boon** You become a friend to the land. You can cast [[Spells/Speak with Plants|Speak with Plants]] as a divine innate spell.
+You become a friend to the land.
+
+You can cast [[Spells/Speak with Plants|Speak with Plants]] as a divine innate spell.
 
 When you are in a healthy natural environment, the land sustains you without need for food or drink.
 

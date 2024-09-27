@@ -9,7 +9,7 @@ tags:
 aliases: "Compendium.pf2e.feats-srd.Item.ryRpqixE7cN8svwB"
 license: OGL
 ---
-# Evanescent Wings
+# Evanescent Wings `pf2:1`
 ## Feat 1
 ### [[sprite]]
 
@@ -18,7 +18,7 @@ license: OGL
 
 
 
-You've manifested wings that can flutter for brief spurts. You don't need to spend any additional actions to reach something in your space that a Medium creature could reach. For instance, if you wanted to open a cookie jar located four feet off the ground, you only need to spend a single Interact action to do so. When you use Evanescent Wings to flutter to a higher place in your space, your action gains the move trait.
+You've manifested wings that can flutter for brief spurts. You Fly. If you don't normally have a fly Speed, you gain a fly Speed of 15 feet for this movement. If you aren't on solid ground at the end of this movement, you fall.
 
 *Source: Pathfinder Lost Omens: Ancestry Guide*
 *OGL*

@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/amphibious
   - pf2e/creature/type/chaotic
   - pf2e/creature/type/evil
+  - pf2eMonster
   - pf2e/creature/level/7
 statblock: inline
 name: "Chuul"
@@ -27,15 +28,15 @@ level: "Creature 7"
 
 alignment: ""
 size: "Large"
-trait_01: "aberration"
-trait_02: "amphibious"
-trait_03: "chaotic"
-trait_04: "evil"
+trait_01: [[aberration]]
+trait_02: [[amphibious]]
+trait_03: [[chaotic]]
+trait_04: [[evil]]
 modifier: 15
 perception:
   - name: "Perception"
     desc: "+15; Darkvision, Tremorsense (Imprecise) 30 Feet"
-languages: "Aklo, Common"
+languages: "Aklo, Common; (or sakvroth for darklands variants)"
 skills:
   - name: "Skills"
     desc: "Athletics: +17, Nature: +13, Stealth: +14, Survival: +13"
@@ -66,20 +67,26 @@ attacks:
     desc: "`pf2:1` Claws +19 (reach 10 feet)\n__Damage__  2d8 + 9 bludgeoning plus grab"
 
   - name: "[[Bestiary Ability Glossary/Constrict|Constrict]]"
-    desc: "`pf2:1`  1d8 + 9 bludgeoning damage, DC 25 Fortitude check save ([[Conditions/Grabbed|Grabbed]] by claws only)\n"
+    desc: "`pf2:1`  1d8+9 bludgeoning damage, DC 25 Fortitude check save ([[Conditions/Grabbed|Grabbed]] by claws only)\n\n* * *\n"
 
   - name: "Mandibles"
-    desc: "`pf2:1`  **Requirements** A creature is [[Conditions/Grabbed|Grabbed]] and [[Conditions/Paralyzed|Paralyzed]] by the chuul's tentacles.\n**Effect** The creature takes 3d6 piercing damage."
+    desc: "`pf2:1`  **Requirements** A creature is [[Conditions/Grabbed|Grabbed]] and [[Conditions/Paralyzed|Paralyzed]] by the chuul's tentacles.\n* * *\n\n**Effect** The creature takes 3d6 piercing damage."
 
   - name: "Paralytic Venom"
-    desc: " (incapacitation,poison) **Saving Throw** DC 25 Fortitude check\n**Maximum Duration** 6 rounds\n**Stage 1** [[Conditions/Paralyzed|Paralyzed]] (1 round)"
+    desc: " (incapacitation,poison) **Saving Throw** DC 25 Fortitude check\n* * *\n\n**Maximum Duration** 6 rounds\n\n**Stage 1** [[Conditions/Paralyzed|Paralyzed]] (1 round)"
 
   - name: "Tentacle Transfer"
-    desc: "`pf2:1`  **Requirements** The chuul has a creature [[Conditions/Grabbed|Grabbed]].\n**Effect** The chuul transfers the grabbed creature from its claws to its tentacles, or vice versa. A creature is exposed to the chuul's paralytic venom when transferred into the tentacles and at the start of each of the chuul's turns if it remains grabbed by the tentacles."
+    desc: "`pf2:1`  **Requirements** The chuul has a creature [[Conditions/Grabbed|Grabbed]].\n* * *\n\n**Effect** The chuul transfers the grabbed creature from its claws to its tentacles, or vice versa. A creature is exposed to the chuul's paralytic venom when transferred into the tentacles and at the start of each of the chuul's turns if it remains grabbed by the tentacles."
 
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
     desc: "`pf2:1`  "
  
+```
+
+```encounter-table
+name: Chuul
+creatures:
+  - 1: Chuul
 ```
 
 

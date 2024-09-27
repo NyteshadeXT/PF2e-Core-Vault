@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.pathfinder-monster-core.Actor.YV83qiV7nEtVDPEP"
 tags:
   - pf2e/creature/type/dragon
   - pf2e/creature/type/primal
+  - pf2eMonster
   - pf2e/creature/level/9
   - remaster
 statblock: inline
@@ -19,14 +20,15 @@ license: ORC
 columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
+token: [[modules/pf2e-tokens-monster-core/assets/portraits/dragon-adamantine-young.webp| ]]
 source: "Pathfinder Monster Core"
 name: "Adamantine Dragon (Young, Spellcaster)"
 level: "Creature 9"
 
 alignment: ""
 size: "Large"
-trait_01: "dragon"
-trait_02: "primal"
+trait_01: [[dragon]]
+trait_02: [[primal]]
 modifier: 17
 perception:
   - name: "Perception"
@@ -34,7 +36,7 @@ perception:
 languages: "Common, Draconic, Petran"
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +17, Athletics: +21, Intimidation: +18, Mining Lore: +16, Nature: +17, Survival: +19"
+    desc: "Acrobatics: +17, Athletics: +21, Intimidation: +18, Nature: +17, Survival: +19, Mining Lore: +16"
 abilityMods: [6, 2, 4, 1, 2, 3]
 speed: 25 feet,  burrow 30 feet,  fly 90 feet
 sourcebook: "_Pathfinder Monster Core_"
@@ -80,19 +82,19 @@ attacks:
     desc: "DC 28, attack +21; __4th __  _[[Spells/Shape Stone|Shape Stone]]_, _[[Spells/Unfettered Movement|Unfettered Movement]]_; __3rd __  _[[Spells/Earthbind|Earthbind]]_, _[[Spells/One with Stone|One with Stone]]_, _[[Spells/Slow|Slow]]_; __2nd __  _[[Spells/Darkness|Darkness]]_, _[[Spells/Shatter|Shatter]]_, _[[Spells/Water Walk|Water Walk]]_; __1st __  _[[Spells/Air Bubble|Air Bubble]]_, _[[Spells/Tailwind|Tailwind]]_, _[[Spells/Vanishing Tracks|Vanishing Tracks]]_\n__Cantrips__  __(4th)__ _[[Spells/Caustic Blast|Caustic Blast]]_, _[[Spells/Detect Magic|Detect Magic]]_, _[[Spells/Know the Way|Know the Way]]_, _[[Spells/Sigil|Sigil]]_, _[[Spells/Tangle Vine|Tangle Vine]]_"
 
   - name: "Adamantine Body"
-    desc: "  The dragon’s unarmed melee Strikes are adamantine."
+    desc: "  The dragon's unarmed melee Strikes are adamantine."
 
   - name: "Avalanche Breath"
-    desc: "`pf2:2` (primal) The dragon belches a mass of boulders that deals 8d8 bludgeoning damage in a 30-foot cone (DC 28 Reflex check save).\n\nThey can't use Avalanche Breath again for 1d4 rounds."
+    desc: "`pf2:2` (primal) The dragon belches a mass of boulders that deals 8d8 bludgeoning damage in a @Template[cone|distance:30] (DC 28 Reflex check save).\n\nThey can't use Avalanche Breath again for 1d4 rounds."
 
   - name: "Burrowing Pounce"
     desc: "`pf2:3`  **Requirements** The dragon is burrowed\n* * *\n\n**Effect** The dragon Burrows, then Leaps out of the ground, landing at a point within 25 feet. The dragon makes a melee Strike against a creature within reach when they land. If the Strike is a critical hit, the target is knocked [[Conditions/Prone|Prone]]."
 
   - name: "Rock Tunneler"
-    desc: "  The dragon can burrow through solid stone at a Speed of 20 feet. They can leave a tunnel if they desire, and they usually don’t."
+    desc: "  The dragon can burrow through solid stone at a Speed of 20 feet. They can leave a tunnel if they desire, and they usually don't."
 
   - name: "[[Bestiary Ability Glossary/Swallow Whole|Swallow Whole]]"
-    desc: "`pf2:1` (attack) Medium, 2d12 + 4 bludgeoning, Rupture 22\n\n* * *\n"
+    desc: "`pf2:1` (attack) Medium, 2d12+4 bludgeoning, Rupture 22\n\n* * *\n"
 
   - name: "[[Bestiary Ability Glossary/Throw Rock|Throw Rock]]"
     desc: "`pf2:1`  "
@@ -103,6 +105,12 @@ attacks:
   - name: "[[Bestiary Ability Glossary/Knockdown|Knockdown]]"
     desc: "`pf2:1`  "
  
+```
+
+```encounter-table
+name: Adamantine Dragon (Young, Spellcaster)
+creatures:
+  - 1: Adamantine Dragon (Young, Spellcaster)
 ```
 
 

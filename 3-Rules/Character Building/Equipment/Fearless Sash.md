@@ -11,7 +11,7 @@ license: OGL
 ---
 # Fearless Sash
 ## Item 7
-### [[invested]][[magical]]
+### [[invested]][[3-Rules/Rule References/Magical]]
 
 
 **Price** 325 gp; 
@@ -26,7 +26,7 @@ A feeling of security radiates out from this sash made of fine yellow fabric. Yo
 
 * * *
 
-**Effect** You and each ally in a 5-foot emanation reduce your [[Conditions/Frightened 1|Frightened]] values by 1.
+**Effect** You and each ally in a @Template\[emanation|distance:5\] reduce your [[Conditions/Frightened|Frightened]] values by 1.
 
 *Source: Pathfinder Treasure Vault*
 *OGL*

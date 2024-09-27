@@ -10,6 +10,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/fiend
   - pf2e/creature/type/unholy
+  - pf2eMonster
   - pf2e/creature/level/3
 statblock: inline
 name: "Yeth Hound"
@@ -28,11 +29,11 @@ level: "Creature 3"
 
 alignment: ""
 size: "Medium"
-trait_01: "beast"
-trait_02: "chaotic"
-trait_03: "evil"
-trait_04: "fiend"
-trait_05: "unholy"
+trait_01: [[beast]]
+trait_02: [[chaotic]]
+trait_03: [[evil]]
+trait_04: [[fiend]]
+trait_05: [[unholy]]
 modifier: 9
 perception:
   - name: "Perception"
@@ -68,14 +69,20 @@ attacks:
     desc: "DC 20, attack +10\n__Constant__  __(4th)__ _[[Spells/Air Walk|Air Walk]]_"
 
   - name: "Bay"
-    desc: "`pf2:3` (auditory,concentrate,divine,fear,mental) The yeth hound emits an unearthly howl audible up to 300 feet away. Any non-fiend creature that hears the howl must succeed at a DC 20 Will check save or become [[Conditions/Frightened 1|Frightened 1]]. Any creature that critically fails and is within 60 feet of the yeth hound is instead [[Conditions/Frightened 1|Frightened 3]] and [[Conditions/Fleeing|Fleeing]] for 1d4 rounds (or until it recovers from its frightened condition).\nWhether it succeeds or fails the saving throw, the creature is then temporarily immune to Bay for 24 hours."
+    desc: "`pf2:3` (auditory,concentrate,divine,fear,mental) The yeth hound emits an unearthly howl audible up to 300 feet away. Any non-fiend creature that hears the howl must succeed at a DC 20 Will check save or become [[Conditions/Frightened|Frightened 1]]. Any creature that critically fails and is within 60 feet of the yeth hound is instead [[Conditions/Frightened|Frightened 3]] and [[Conditions/Fleeing|Fleeing]] for 1d4 rounds (or until it recovers from its frightened condition).\n\nWhether it succeeds or fails the saving throw, the creature is then temporarily immune to Bay for 24 hours."
 
   - name: "Sinister Bite"
-    desc: "  A good creature bitten by a yeth hound must attempt a DC 20 Will check save. On a critical success, the creature is temporarily immune to sinister bite for 1 minute. A creature that fails becomes [[Conditions/Frightened 1|Frightened 1]], or increases the value of its frightened condition by 1 if already frightened."
+    desc: "  A good creature bitten by a yeth hound must attempt a DC 20 Will check save. On a critical success, the creature is temporarily immune to sinister bite for 1 minute. A creature that fails becomes [[Conditions/Frightened|Frightened 1]], or increases the value of its frightened condition by 1 if already frightened."
 
   - name: "[[Bestiary Ability Glossary/Knockdown|Knockdown]]"
     desc: "`pf2:1`  "
  
+```
+
+```encounter-table
+name: Yeth Hound
+creatures:
+  - 1: Yeth Hound
 ```
 
 

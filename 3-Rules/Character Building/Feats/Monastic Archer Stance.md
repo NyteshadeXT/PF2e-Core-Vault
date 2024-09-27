@@ -7,8 +7,9 @@ tags:
   - trait/stance
   - trait/common
   - category/class
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.YG2RxXE9SMfwo6wP"
-license: OGL
+license: ORC
 ---
 # Monastic Archer Stance `pf2:1`
 ## Feat 1
@@ -33,5 +34,5 @@ You can use [[Actions/Flurry of Blows|Flurry of Blows]] with these bows. You can
 
 **Special** When you select this feat, you become trained in the longbow, shortbow, and any simple and martial bows with the monk trait. If you gain the expert strikes class feature, your proficiency rank for these weapons increases to expert, and if you gain the master strikes class feature, your proficiency rank for these weapons increases to master.
 
-*Source: Pathfinder Advanced Player's Guide*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

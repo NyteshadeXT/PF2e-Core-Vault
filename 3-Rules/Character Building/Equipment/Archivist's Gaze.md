@@ -12,7 +12,7 @@ license: OGL
 ---
 # Archivist's Gaze
 ## Item 18
-### [[apex]][[invested]][[magical]]
+### [[apex]][[invested]][[3-Rules/Rule References/Magical]]
 
 
 **Price** 24000 gp; 

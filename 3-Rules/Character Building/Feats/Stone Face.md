@@ -6,8 +6,9 @@ tags:
   - trait/hobgoblin
   - trait/common
   - category/ancestry
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.Nn80wBZYJZxcuKsJ"
-license: OGL
+license: ORC
 ---
 # Stone Face
 ## Feat 1
@@ -18,7 +19,7 @@ license: OGL
 
 
 
-Through conditioning or experience, you've mastered the art of composure, even in the face of fear. You gain a +1 circumstance bonus to saves against effects with the fear trait, and a +2 circumstance bonus to your Will DC against Intimidate skill actions, such as Demoralize.
+You've mastered the art of composure, even in the face of fear. You gain a +1 circumstance bonus to saves against effects with the fear trait and a +2 circumstance bonus to your Will DC against Intimidation skill actions, such as [[Actions/Demoralize|Demoralize]].
 
-*Source: Pathfinder Lost Omens: Ancestry Guide*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

@@ -6,8 +6,9 @@ tags:
   - trait/archetype
   - trait/common
   - category/class
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.4T9HHOdTk3yVbeoO"
-license: OGL
+license: ORC
 ---
 # Instinct Ability
 ## Feat 6
@@ -21,5 +22,5 @@ license: OGL
 * * *
 You gain the instinct ability for the instinct you chose for Barbarian Dedication.
 
-*Source: Pathfinder Core Rulebook*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

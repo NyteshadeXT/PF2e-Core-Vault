@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/humanoid
   - pf2e/creature/type/lawful
   - pf2e/creature/type/orc
+  - pf2eMonster
   - pf2e/creature/level/4
 statblock: inline
 name: "Determined Dura (3-4)"
@@ -23,13 +24,13 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Society Quest #14: The Swordlord&#x27;s Challenge"
 name: "Determined Dura (3-4)"
 level: "Creature 4"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Medium"
-trait_01: "human"
-trait_02: "humanoid"
-trait_03: "lawful"
-trait_04: "orc"
+trait_01: [[human]]
+trait_02: [[humanoid]]
+trait_03: [[lawful]]
+trait_04: [[orc]]
 modifier: 11
 perception:
   - name: "Perception"
@@ -37,7 +38,7 @@ perception:
 languages: "Common, Orcish"
 skills:
   - name: "Skills"
-    desc: "Athletics: +12, Dueling Lore: +8, Intimidation: +10"
+    desc: "Athletics: +12, Intimidation: +10, Dueling Lore: +8"
 abilityMods: [4, 2, 3, 0, -1, 3]
 speed: 25 feet
 sourcebook: "_Pathfinder Society Quest #14: The Swordlord&#x27;s Challenge_"
@@ -66,8 +67,14 @@ attacks:
     desc: "`pf2:1` Aldori Dueling Sword +12 (finesse, versatile p)\n__Damage__  2d8 + 5 slashing"
 
   - name: "[[Actor.xiowQvReC58NPbD5.Item.YiAJAUnLYTzQ6ys0|Unnerving Prowess]]"
-    desc: "  **Trigger** Dura critically succeeds at a Strike or [[Actions/Disarm|Disarm]] with her Aldori dueling sword.\n**Effect** Dura attempts to [[Actions/Demoralize|Demoralize]] the target of her Strike or Disarm. This Demoralize attempt does not have the auditory trait, nor does Dura take a penalty to the check if the target doesn't understand her language."
+    desc: "  **Trigger** Dura critically succeeds at a Strike or [[Actions/Disarm|Disarm]] with her Aldori dueling sword.\n\n**Effect** Dura attempts to [[Actions/Demoralize|Demoralize]] the target of her Strike or Disarm. This Demoralize attempt does not have the auditory trait, nor does Dura take a penalty to the check if the target doesn't understand her language."
  
+```
+
+```encounter-table
+name: Determined Dura (3-4)
+creatures:
+  - 1: Determined Dura (3-4)
 ```
 
 

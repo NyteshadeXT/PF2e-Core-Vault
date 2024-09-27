@@ -1,16 +1,17 @@
 ---
 obsidianUIMode: preview
-title: "Exhort The Faithful"
+title: "Exhort the Faithful"
 cssclasses: pf2e,pf2e-spell
 tags:
   - trait/general
   - trait/skill
   - trait/common
   - category/skill
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.QvBIYW6aAqoiyim3"
-license: OGL
+license: ORC
 ---
-# Exhort The Faithful
+# Exhort the Faithful
 ## Feat 2
 ### [[general]][[skill]]
 
@@ -24,5 +25,5 @@ Your knowledge of the tenets of your faith gives you insight into the best ways 
 
 When you [[Actions/Request|Request]] something of or [[Actions/Coerce|Coerce]] members of your own faith, you can attempt a Religion check instead of Diplomacy or Intimidation, and you gain a +2 circumstance bonus to the check. On a critically failed attempt to make a Request, the target's attitude toward you doesn't worsen.
 
-*Source: Pathfinder Advanced Player's Guide*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

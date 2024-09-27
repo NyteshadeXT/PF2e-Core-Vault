@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.pathfinder-bestiary-2.Actor.jpjhbGvaduK4iqwq"
 tags:
   - pf2e/creature/type/air
   - pf2e/creature/type/elemental
+  - pf2eMonster
   - pf2e/creature/level/2
 statblock: inline
 name: "Spark Bat"
@@ -25,12 +26,13 @@ level: "Creature 2"
 
 alignment: ""
 size: "tiny"
-trait_01: "air"
-trait_02: "elemental"
+trait_01: [[air]]
+trait_02: [[elemental]]
 modifier: 7
 perception:
   - name: "Perception"
     desc: "+7; Darkvision"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Acrobatics: +9, Stealth: +9"
@@ -60,6 +62,12 @@ attacks:
   - name: "Arc Lightning"
     desc: " (electricity,move,primal) The spark bat transforms into lightning that arcs to a large piece of metal within 100 feet, such as a suit of metal armor or a metal weapon. The bat then returns to its normal form in a space adjacent to the metal. This movement doesn't trigger reactions."
  
+```
+
+```encounter-table
+name: Spark Bat
+creatures:
+  - 1: Spark Bat
 ```
 
 

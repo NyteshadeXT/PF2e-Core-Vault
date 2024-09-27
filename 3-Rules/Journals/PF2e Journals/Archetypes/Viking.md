@@ -28,7 +28,9 @@ Vikings spend long periods of time at sea, only to leap from their boats at a mo
 
 * * *
 
-You make a ranged Strike with a thrown weapon you already have in your hand, Stride, and then Interact to draw another weapon. If you are raging, you can add the additional damage with melee weapons you receive from raging to your damage with the thrown weapon.
+You make a ranged Strike with a thrown weapon you already have in your hand, Stride, and then Interact to draw another weapon.
+
+**Special** If you are raging, and end the Stride adjacent to an enemy, that enemy is Off-Guard against the next Strike you make against it with the weapon you drew before the end of your next turn.
 
 ## [[Feats/Viking Weapon Familiarity|Viking Weapon Familiarity]] Feat 4
 
@@ -36,15 +38,9 @@ You make a ranged Strike with a thrown weapon you already have in your hand, Str
 
 * * *
 
-From childhood, you have been exposed to traditional viking weapons, and you soon learned to handle them in battle. Now, you can raid proudly alongside your fellows. You are trained with the battle axe, hatchet, longsword, and shortsword. In addition, you gain the Shield Block reaction.
+From childhood, you have been exposed to traditional viking combat techniques, and you soon learned to handle axe, sword, and shield in battle. Now, you can raid proudly alongside your fellows. You gain the Shield Block reaction. Additionally, you have familiarity with the battle axe, hatchet, longsword, shield boss, shield spikes, and shortsword—for the purposes of proficiency, you treat any of these weapons as simple weapons.
 
-## [[Feats/Viking Weapon Specialist|Viking Weapon Specialist]] Feat 6
-
-**Prerequisites** Viking Weapon Familiarity
-
-* * *
-
-You are even more skilled in the weapons of your people. You gain the critical specialization effects of the battle axe, hatchet, longsword, and shortsword. Whenever you gain a class feature that grants you expert or greater proficiency in certain weapons, you also gain that proficiency rank in the above four weapons.
+At 5th level, whenever you get a critical hit with one of these weapons, you get its critical specialization effect.
 
 ## [[Feats/Second Shield|Second Shield]] Feat 6
 
@@ -55,3 +51,13 @@ You are even more skilled in the weapons of your people. You gain the critical s
 * * *
 
 You're used to your shield breaking in the middle of battle, and you're prepared to use a backup or any convenient nearby object to defend yourself. You can Interact to draw a shield on your person or an unattended shield within your reach. If there is an object within your reach that could serve as an improvised shield-for example, a table or chair- you can Interact to draw it with this feat. The GM determines if something can be used as an improvised shield. Your new shield isn't raised until you use the Raise a Shield action, as normal.
+
+## [[Feats/Into the Fray|Into the Fray]] Feat 8
+
+**Prerequisites** Viking Dedication
+
+**Requirements** You are wielding a one-handed melee weapon in one hand and a shield in another hand.
+
+* * *
+
+You charge into battle with shield-splintering fury. You Leap, Stride, or Swim. Make two melee Strikes during this movement, one with your one-handed melee weapon and one with your shield or a weapon attached to the shield (like a shield boss or shield spikes). You can make these Strikes at any points during your movement, and each must target a different enemy. Both attacks count toward your multiple attack penalty, but don't increase your penalty until you have made both attacks.

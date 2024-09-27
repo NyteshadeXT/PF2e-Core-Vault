@@ -7,6 +7,7 @@ aliases: "Compendium.battlezoo-bestiary-pf2e.pf2e-battlezoo-bestiary.Actor.wclFB
 tags:
   - pf2e/creature/type/construct
   - pf2e/creature/type/minion
+  - pf2eMonster
   - pf2e/creature/level/1
 statblock: inline
 name: "Living Proof"
@@ -25,16 +26,16 @@ level: "Creature 1"
 
 alignment: ""
 size: "tiny"
-trait_01: "construct"
-trait_02: "minion"
+trait_01: [[construct]]
+trait_02: [[minion]]
 modifier: 7
 perception:
   - name: "Perception"
     desc: "+7; Darkvision"
-languages: "Common"
+languages: "Common; (can&#x27;t speak any language)"
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +6, Arcana: +6, Crafting: +6 (+8 to Identify Alchemy and Craft alchemical items), "
+    desc: "Acrobatics: +6, Arcana: +6, Crafting: +6"
 abilityMods: [-4, 4, 0, 5, 1, -5]
 speed: 15 feet,  fly 15 feet
 sourcebook: "_Battlezoo Bestiary_"
@@ -51,12 +52,12 @@ abilities_top:
   - name: ""
 
   - name: "Execute the Formula"
-    desc: " (alchemical,exploration,manipulate) A living proof is bursting with knowledge and eager to help in the creation of alchemy both new and old;\n**Requirements** The living proof can spend 10 uninterrupted minutes working and has not made an item with this ability in the last hour;\n**Effect** The living proof creates a 1st-, 2nd-, or 3rd-level alchemical bomb or elixir without expending any resources. The item becomes inert in 1 hour. A living proof can have only one such item in existence at a time. After using this ability, the living proof becomes Slowed 1 for 1 hour."
+    desc: " (alchemical,exploration,manipulate) A living proof is bursting with knowledge and eager to help in the creation of alchemy both new and old;\n\n**Requirements** The living proof can spend 10 uninterrupted minutes working and has not made an item with this ability in the last hour;\n\n**Effect** The living proof creates a 1st-, 2nd-, or 3rd-level alchemical bomb or elixir without expending any resources. The item becomes inert in 1 hour. A living proof can have only one such item in existence at a time. After using this ability, the living proof becomes [[Conditions/Slowed|Slowed 1]] for 1 hour."
 
 abilities_mid:
   - name: ""
   - name: "Sudden Infusion"
-    desc: "`pf2:0` (alchemical) **Trigger** The living proof is reduced to 0 HP;\n**Effect** The alchemical and mathematical knowledge animating the living proof becomes unstable and is released in an explosive burst.\nAny unattended alchemical items within 20 feet of the living proof become inert. Any alchemists within 20 feet each regain 1d4 infused reagents."
+    desc: "`pf2:0` (alchemical) **Trigger** The living proof is reduced to 0 HP;\n* * *\n\n**Effect** The alchemical and mathematical knowledge animating the living proof becomes unstable and is released in an explosive burst.\n\nAny unattended alchemical items within 20 feet of the living proof become inert. Any alchemists within 20 feet each regain 1d4 infused reagents."
 
 attacks:
   - name: ""
@@ -71,8 +72,14 @@ attacks:
     desc: "DC 14, attack +6; __1st __  _[[Spells/Force Barrage|Magic Missile]]_, _[[Spells/Force Barrage|Magic Missile]]_\n__Cantrips__  __(1st)__ _[[Spells/Read Aura|Read Aura]]_, _[[Spells/Sigil|Sigil]]_"
 
   - name: "Entangling Math Bomb"
-    desc: "`pf2:2` (splash) The living proof manifests a physical form for the mathematical symbols on its page to create a powerful bomb. The living proof throws a bomb that deals 2d6 piercing damage and 1 piercing splash damage. Each damaged creature must succeed at a Reflex save or become Stupefied 1 for 1 minute (Stupefied 2 on a critical failure)."
+    desc: "`pf2:2` (splash) The living proof manifests a physical form for the mathematical symbols on its page to create a powerful bomb. The living proof throws a bomb that deals 2d6 piercing damage and 1 piercing splash damage. Each damaged creature must succeed at a DC 14 Reflex save or become [[Conditions/Stupefied|Stupefied 1]] for 1 minute ([[Conditions/Stupefied|Stupefied 2]] on a critical failure)."
  
+```
+
+```encounter-table
+name: Living Proof
+creatures:
+  - 1: Living Proof
 ```
 
 

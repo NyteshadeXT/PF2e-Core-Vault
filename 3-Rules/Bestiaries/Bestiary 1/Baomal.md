@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/aberration
   - pf2e/creature/type/aquatic
   - pf2e/creature/type/chaotic
+  - pf2eMonster
   - pf2e/creature/level/20
 statblock: inline
 name: "Baomal"
@@ -26,9 +27,9 @@ level: "Creature 20"
 
 alignment: ""
 size: "grg"
-trait_01: "aberration"
-trait_02: "aquatic"
-trait_03: "chaotic"
+trait_01: [[aberration]]
+trait_02: [[aquatic]]
+trait_03: [[chaotic]]
 modifier: 34
 perception:
   - name: "Perception"
@@ -87,6 +88,12 @@ attacks:
   - name: "[[Bestiary Ability Glossary/Push|Push 40 feet]]"
     desc: "`pf2:1`  "
  
+```
+
+```encounter-table
+name: Baomal
+creatures:
+  - 1: Baomal
 ```
 
 

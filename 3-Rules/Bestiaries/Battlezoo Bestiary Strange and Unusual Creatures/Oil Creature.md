@@ -6,6 +6,7 @@ cssClasses: pf2e
 aliases: "Compendium.battlezoo-bestiary-su-pf2e.pf2e-battlezoo-su-actors.Actor.JB5u52YYTj7pQe2J" 
 tags:
   - pf2e/creature/type/minion
+  - pf2eMonster
   - pf2e/creature/level/1
 statblock: inline
 name: "Oil Creature"
@@ -24,14 +25,15 @@ level: "Creature 1"
 
 alignment: ""
 size: "Medium"
-trait_01: "minion"
+trait_01: [[minion]]
 modifier: 8
 perception:
   - name: "Perception"
     desc: "+8; "
+languages: ""
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +8, Athletics: +4, Deception: +7, Performance: +5, Stealth: +8, Survival: +8, Crafting: +4"
+    desc: "Acrobatics: +8, Athletics: +4, Crafting: +4, Deception: +7, Performance: +5, Stealth: +8, Survival: +8, Acrobatics: +8, Athletics: +4, Deception: +7, Performance: +5, Stealth: +8, Survival: +8, Crafting: +4"
 abilityMods: [-2, 3, 1, -2, 3, 1]
 speed: 25 feet
 sourcebook: "_Battlezoo Bestiary: Strange and Unusual_"
@@ -55,6 +57,12 @@ attacks:
   - name: "Melee"
     desc: "`pf2:1` Pseudopod +9 ()\n__Damage__  1d6 + 1 bludgeoning"
  
+```
+
+```encounter-table
+name: Oil Creature
+creatures:
+  - 1: Oil Creature
 ```
 
 

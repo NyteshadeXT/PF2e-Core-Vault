@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.pfs-season-1-bestiary.Actor.ySXw00WW2LJoDhZ6"
 tags:
   - pf2e/creature/type/human
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/-1
 statblock: inline
 name: "Crowd Leader"
@@ -24,8 +25,8 @@ level: "Creature -1"
 
 alignment: ""
 size: "Medium"
-trait_01: "human"
-trait_02: "humanoid"
+trait_01: [[human]]
+trait_02: [[humanoid]]
 modifier: 4
 perception:
   - name: "Perception"
@@ -62,8 +63,14 @@ attacks:
     desc: "`pf2:1` Dagger +8 (agile, finesse, thrown 10 ft., versatile s)\n__Damage__  1d4 + 1 piercing"
 
   - name: "Crowd Aid"
-    desc: "  The crowd leader ignores difficult terrain caused by friendly crowds.\nCreatures within or adjacent to friendly crowds are [[Conditions/Off-Guard|Off-Guard]] against the crowd leader's attacks."
+    desc: "  The crowd leader ignores difficult terrain caused by friendly crowds.\n\nCreatures within or adjacent to friendly crowds are [[Conditions/Off-Guard|Off-Guard]] against the crowd leader's attacks."
  
+```
+
+```encounter-table
+name: Crowd Leader
+creatures:
+  - 1: Crowd Leader
 ```
 
 

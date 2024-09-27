@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.pathfinder-monster-core.Actor.hybmXlTxljL9L1dW"
 tags:
   - pf2e/creature/type/dragon
   - pf2e/creature/type/primal
+  - pf2eMonster
   - pf2e/creature/level/13
   - remaster
 statblock: inline
@@ -19,14 +20,15 @@ license: ORC
 columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
+token: [[modules/pf2e-tokens-monster-core/assets/portraits/dragon-adamantine-adult.webp| ]]
 source: "Pathfinder Monster Core"
 name: "Adamantine Dragon (Adult)"
 level: "Creature 13"
 
 alignment: ""
 size: "huge"
-trait_01: "dragon"
-trait_02: "primal"
+trait_01: [[dragon]]
+trait_02: [[primal]]
 modifier: 23
 perception:
   - name: "Perception"
@@ -34,7 +36,7 @@ perception:
 languages: "Common, Draconic, Petran, Fey, Sakvroth"
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +22, Athletics: +27, Intimidation: +24, Mining Lore: +24, Nature: +23, Survival: +25"
+    desc: "Acrobatics: +22, Athletics: +27, Intimidation: +24, Nature: +23, Survival: +25, Mining Lore: +24"
 abilityMods: [8, 3, 6, 3, 4, 5]
 speed: 30 feet,  burrow 40 feet,  fly 150 feet
 sourcebook: "_Pathfinder Monster Core_"
@@ -77,10 +79,10 @@ attacks:
     desc: "`pf2:1` Rock +25 (brutal, range increment 120 feet)\n__Damage__  3d8 + 14 bludgeoning"
 
   - name: "Adamantine Body"
-    desc: "  The dragon’s unarmed melee Strikes are adamantine."
+    desc: "  The dragon's unarmed melee Strikes are adamantine."
 
   - name: "Avalanche Breath"
-    desc: "`pf2:2` (primal) The dragon belches a mass of boulders that deals 11d8 bludgeoning damage in a 40-foot cone (DC 33 Reflex check save).\n\nThey can't use Avalanche Breath again for 1d4 rounds."
+    desc: "`pf2:2` (primal) The dragon belches a mass of boulders that deals 11d8 bludgeoning damage in a @Template[cone|distance:40] (DC 33 Reflex check save).\n\nThey can't use Avalanche Breath again for 1d4 rounds."
 
   - name: "Burrowing Pounce"
     desc: "`pf2:3`  **Requirements** The dragon is burrowed\n* * *\n\n**Effect** The dragon Burrows, then Leaps out of the ground, landing at a point within 25 feet. The dragon makes a melee Strike against a creature within reach when they land. If the Strike is a critical hit, the target is knocked [[Conditions/Prone|Prone]]."
@@ -92,10 +94,10 @@ attacks:
     desc: "  The dragon recharges their Avalanche Breath whenever they score a critical hit with a Strike."
 
   - name: "Rock Tunneler"
-    desc: "  The dragon can burrow through solid stone at a Speed of 20 feet. They can leave a tunnel if they desire, and they usually don’t."
+    desc: "  The dragon can burrow through solid stone at a Speed of 20 feet. They can leave a tunnel if they desire, and they usually don't."
 
   - name: "[[Bestiary Ability Glossary/Swallow Whole|Swallow Whole]]"
-    desc: "`pf2:1` (attack) Large, 3d12 + 7 bludgeoning, Rupture 29\n\n* * *\n"
+    desc: "`pf2:1` (attack) Large, 3d12+7 bludgeoning, Rupture 29\n\n* * *\n"
 
   - name: "[[Bestiary Ability Glossary/Throw Rock|Throw Rock]]"
     desc: "`pf2:1`  "
@@ -106,6 +108,12 @@ attacks:
   - name: "[[Bestiary Ability Glossary/Knockdown|Knockdown]]"
     desc: "`pf2:1`  "
  
+```
+
+```encounter-table
+name: Adamantine Dragon (Adult)
+creatures:
+  - 1: Adamantine Dragon (Adult)
 ```
 
 

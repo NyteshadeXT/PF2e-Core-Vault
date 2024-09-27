@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.pathfinder-monster-core.Actor.BxOlYmZiwLRpxGWp"
 tags:
   - pf2e/creature/type/dero
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/2
   - remaster
 statblock: inline
@@ -26,8 +27,8 @@ level: "Creature 2"
 
 alignment: ""
 size: "Small"
-trait_01: "dero"
-trait_02: "humanoid"
+trait_01: [[dero]]
+trait_02: [[humanoid]]
 modifier: 5
 perception:
   - name: "Perception"
@@ -81,6 +82,12 @@ attacks:
   - name: "Sneak Attack"
     desc: "  A dero stalker deals 1d6 extra precision damage to creatures who are [[Conditions/Off-Guard|Off-Guard]]."
  
+```
+
+```encounter-table
+name: Dero Stalker
+creatures:
+  - 1: Dero Stalker
 ```
 
 

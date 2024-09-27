@@ -25,7 +25,7 @@ You help the _Unsinkable's_ crew to fire the ship's cannons at the manifestation
 
 **Critical Success** As a success, but the manifestation takes double damage. If hit by a harpoon, the manifestation is pulled 30 feet toward the _Unsinkable_.
 
-**Success** The manifestation takes 2d8 + 9 bludgeoning damage if hit by a cannonball or takes 1d8 + 4 piercing damage and is pulled 15 feet toward the _Unsinkable_ if hit by a harpoon.
+**Success** The manifestation takes 2d8+9 bludgeoning damage if hit by a cannonball or takes 1d8+4 piercing damage and is pulled 15 feet toward the _Unsinkable_ if hit by a harpoon.
 
 **Failure** The attack deals no damage.
 

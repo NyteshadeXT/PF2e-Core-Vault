@@ -10,6 +10,7 @@ tags:
   - pf2e/creature/type/incorporeal
   - pf2e/creature/type/spirit
   - pf2e/creature/type/undead
+  - pf2eMonster
   - pf2e/creature/level/1
 statblock: inline
 name: "Ulki"
@@ -24,14 +25,14 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #193: Mantle of Gold"
 name: "Ulki"
 level: "Creature 1"
-rare_03: "Rare"
+rare_03: [[Rare]]
 alignment: ""
 size: "Medium"
-trait_01: "dwarf"
-trait_02: "ghost"
-trait_03: "incorporeal"
-trait_04: "spirit"
-trait_05: "undead"
+trait_01: [[dwarf]]
+trait_02: [[ghost]]
+trait_03: [[incorporeal]]
+trait_04: [[spirit]]
+trait_05: [[undead]]
 modifier: 9
 perception:
   - name: "Perception"
@@ -39,7 +40,7 @@ perception:
 languages: "Draconic, Dwarven, Orcish"
 skills:
   - name: "Skills"
-    desc: "Dwarf Lore: +7, Intimidation: +6, Stealth: +7"
+    desc: "Intimidation: +6, Stealth: +7, Dwarf Lore: +7"
 abilityMods: [-5, 1, 2, 1, 4, 3]
 speed:  fly 20 feet
 sourcebook: "_Pathfinder #193: Mantle of Gold_"
@@ -59,7 +60,7 @@ abilities_top:
     desc: "  An ancestral echo gains a +1 status bonus to attack rolls and saving throw DCs against any creature that has not performed at least one task to beautify the site to which the echo is bound. This apples to any PC who didn't succeed at one or more skill checks to clean area **D2**."
 
   - name: "[[Creature Family Ability Glossary/(Ghost) Site Bound|Site Bound]]"
-    desc: "  The ancestral echo can't leave the upper crypt.\nA typical ghost can stray only a short distance from where it was killed or the place it haunts. A typical limit is 120 feet. Some ghosts are instead bound to a room, building, item, or creature that was special to it rather than a location."
+    desc: "  The ancestral echo can't leave the upper crypt.\n* * *\n\nA typical ghost can stray only a short distance from where it was killed or the place it haunts. A typical limit is 120 feet. Some ghosts are instead bound to a room, building, item, or creature that was special to it rather than a location."
 
 abilities_mid:
   - name: ""
@@ -67,7 +68,7 @@ abilities_mid:
     desc: "`pf2:r`  "
 
   - name: "[[Creature Family Ability Glossary/(Ghost) Rejuvenation|Rejuvenation]]"
-    desc: " (occult) Restoring the vandalized inscriptions and reciting their corrected stories ushers these spirits back to the afterlife.\nWhen a ghost is destroyed, it re-forms after 2d4 days within the location it's bound to, fully healed. A ghost can be permanently destroyed only if someone determines the reason for its existence and sets right whatever prevents the spirit from resting."
+    desc: " (occult) Restoring the vandalized inscriptions and reciting their corrected stories ushers these spirits back to the afterlife.\n* * *\n\nWhen a ghost is destroyed, it re-forms after 2d4 days within the location it's bound to, fully healed. A ghost can be permanently destroyed only if someone determines the reason for its existence and sets right whatever prevents the spirit from resting."
 
 attacks:
   - name: ""
@@ -75,6 +76,12 @@ attacks:
   - name: "Melee"
     desc: "`pf2:1` Ghostly Greataxe +8 (finesse, magical)\n__Damage__  1d12 + 3 fire"
  
+```
+
+```encounter-table
+name: Ulki
+creatures:
+  - 1: Ulki
 ```
 
 

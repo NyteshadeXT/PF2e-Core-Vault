@@ -6,6 +6,7 @@ cssClasses: pf2e
 aliases: "Compendium.battlezoo-bestiary-pf2e.pf2e-battlezoo-bestiary.Actor.vBI3ve7vhDR4qyAi" 
 tags:
   - pf2e/creature/type/construct
+  - pf2eMonster
   - pf2e/creature/level/11
 statblock: inline
 name: "Puppeteer"
@@ -21,10 +22,10 @@ token: [[modules/battlezoo-bestiary-pf2e/art/puppeteer.webp| ]]
 source: "Battlezoo Bestiary"
 name: "Puppeteer"
 level: "Creature 11"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Medium"
-trait_01: "construct"
+trait_01: [[construct]]
 modifier: 22
 perception:
   - name: "Perception"
@@ -32,7 +33,7 @@ perception:
 languages: "Common"
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +24, Crafting: +23, Deception: +23, Occultism: +23, Stealth: +24, Thievery: +24, Puppetry Lore: +25, "
+    desc: "Acrobatics: +24, Crafting: +23, Deception: +23, Occultism: +23, Stealth: +24, Thievery: +24, Puppetry Lore: +25"
 abilityMods: [3, 7, 0, 4, 3, 6]
 speed: 30 feet
 sourcebook: "_Battlezoo Bestiary_"
@@ -61,7 +62,7 @@ attacks:
     desc: "`pf2:1` Wire +23 (agile, finesse, magical, reach 10 feet)\n__Damage__  2d8 + 11 slashing plus trip"
 
   - name: "Attach Strings"
-    desc: "`pf2:2` (concentrate,manipulate) **Frequency** once per minute;\n**Effect** The puppeteer ties invisible, intangible strings to up to five adjacent Medium or smaller puppets. If the puppeteer has puppets in a _bag of holding_, it can withdraw up to five of these puppets as part of this action. The puppets gain the minion trait under the puppeteer's control.\nEach puppet cannot move more than 120 feet from the puppeteer and falls to the ground, lifeless, after 1 minute. The puppeteer can talk, sense, deliver Strikes, use skills, and take basic actions through its puppets (these actions gain the manipulate trait), though the puppeteer can't use its other special abilities through a puppet. If the puppeteer gives it no other commands, a puppet spends its turn swaying and casually dancing in place.\nThe puppeteer can have no more than five puppets active at a time and can end this effect at any time as a free action. Each puppet is an attended object that can be targeted as a creature; a puppet uses the same stats as the puppeteer, including AC, saving throws, and Hit Points. Any damage or effects aimed at a puppet affect the puppeteer instead, though the puppet's Hardness reduces damage dealt in this way. A typical puppet has Hardness 10; without the puppeteer's attached strings, a puppet is an inanimate object with HP 20 and BT 10."
+    desc: "`pf2:2` (concentrate,manipulate) **Frequency** once per minute;\n\n**Effect** The puppeteer ties invisible, intangible strings to up to five adjacent Medium or smaller puppets. If the puppeteer has puppets in a _bag of holding_, it can withdraw up to five of these puppets as part of this action. The puppets gain the minion trait under the puppeteer's control.\n\nEach puppet cannot move more than 120 feet from the puppeteer and falls to the ground, lifeless, after 1 minute. The puppeteer can talk, sense, deliver Strikes, use skills, and take basic actions through its puppets (these actions gain the manipulate trait), though the puppeteer can't use its other special abilities through a puppet. If the puppeteer gives it no other commands, a puppet spends its turn swaying and casually dancing in place.\n\nThe puppeteer can have no more than five puppets active at a time and can end this effect at any time as a free action. Each puppet is an attended object that can be targeted as a creature; a puppet uses the same stats as the puppeteer, including AC, saving throws, and Hit Points. Any damage or effects aimed at a puppet affect the puppeteer instead, though the puppet's Hardness reduces damage dealt in this way. A typical puppet has Hardness 10; without the puppeteer's attached strings, a puppet is an inanimate object with HP 20 and BT 10."
 
   - name: "Manipulate Puppets"
     desc: "`pf2:1` (manipulate) The puppeteer commands up to two puppets to either Strike or Stride. Each Strike counts toward the puppeteer's multiple attack penalty, and the multiple attack penalty increases after each attack."
@@ -69,6 +70,12 @@ attacks:
   - name: "Pull Taut"
     desc: "`pf2:2` (force,manipulate,occult) The puppeteer flings intangible marionette strings at up to five creatures or unattended objects within 30 feet, then yanks mightily. The puppeteer attempts a single Puppetry Lore check to Disarm, Shove, or Trip all the affected creatures at once, comparing the result of its check to each creature's Fortitude DC. For each creature targeted beyond the first, the puppeteer takes a cumulative -2 circumstance penalty to its Puppetry Lore check (to a maximum penalty of -8)."
  
+```
+
+```encounter-table
+name: Puppeteer
+creatures:
+  - 1: Puppeteer
 ```
 
 

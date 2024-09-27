@@ -6,6 +6,7 @@ cssClasses: pf2e
 aliases: "Compendium.pf2e.pathfinder-bestiary-3.Actor.aepfNXXy2juozgzB" 
 tags:
   - pf2e/creature/type/animal
+  - pf2eMonster
   - pf2e/creature/level/-1
 statblock: inline
 name: "Weasel"
@@ -24,14 +25,15 @@ level: "Creature -1"
 
 alignment: ""
 size: "tiny"
-trait_01: "animal"
+trait_01: [[animal]]
 modifier: 4
 perception:
   - name: "Perception"
     desc: "+4; Low-Light Vision, Scent (Imprecise) 60 Feet"
+languages: ""
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +5 (+7 to Escape), Athletics: +4, Stealth: +5"
+    desc: "Acrobatics: +5, Athletics: +4, Stealth: +5"
 abilityMods: [2, 3, 2, -4, 0, 1]
 speed: 25 feet
 sourcebook: "_Pathfinder Bestiary 3_"
@@ -59,11 +61,17 @@ attacks:
     desc: "`pf2:1` Jaws +7 (agile, finesse)\n__Damage__  1d4 + 2 piercing plus grab"
 
   - name: "[[Bestiary Ability Glossary/Constrict|Constrict]]"
-    desc: "`pf2:1`  1d4 piercing, DC 15 Fortitude check\n"
+    desc: "`pf2:1`  1d4 piercing, DC 15 Fortitude check\n\n* * *\n"
 
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
     desc: "`pf2:1`  "
  
+```
+
+```encounter-table
+name: Weasel
+creatures:
+  - 1: Weasel
 ```
 
 

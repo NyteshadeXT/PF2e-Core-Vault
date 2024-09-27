@@ -6,6 +6,7 @@ cssClasses: pf2e
 aliases: "Compendium.pf2e.pathfinder-monster-core.Actor.zQraVA7SUjd6qGNh" 
 tags:
   - pf2e/creature/type/animal
+  - pf2eMonster
   - pf2e/creature/level/11
   - remaster
 statblock: inline
@@ -25,7 +26,7 @@ level: "Creature 11"
 
 alignment: ""
 size: "grg"
-trait_01: "animal"
+trait_01: [[animal]]
 modifier: 20
 perception:
   - name: "Perception"
@@ -75,6 +76,12 @@ attacks:
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
     desc: "`pf2:1`  "
  
+```
+
+```encounter-table
+name: Deadly Mantis
+creatures:
+  - 1: Deadly Mantis
 ```
 
 

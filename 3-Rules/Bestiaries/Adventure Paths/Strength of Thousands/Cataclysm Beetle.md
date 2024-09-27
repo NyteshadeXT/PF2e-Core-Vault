@@ -6,6 +6,7 @@ cssClasses: pf2e
 aliases: "Compendium.pf2e.strength-of-thousands-bestiary.Actor.CXtkMa5cGeAD8uvm" 
 tags:
   - pf2e/creature/type/beast
+  - pf2eMonster
   - pf2e/creature/level/18
 statblock: inline
 name: "Cataclysm Beetle"
@@ -20,10 +21,10 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #174: Shadows of the Ancients"
 name: "Cataclysm Beetle"
 level: "Creature 18"
-rare_03: "Rare"
+rare_03: [[Rare]]
 alignment: ""
 size: "huge"
-trait_01: "beast"
+trait_01: [[beast]]
 modifier: 30
 perception:
   - name: "Perception"
@@ -56,14 +57,20 @@ attacks:
     desc: "`pf2:1` Mandibles +35 (reach 10 feet)\n__Damage__  3d12 + 16 slashing plus grab"
 
   - name: "Bombardier's Spray"
-    desc: "`pf2:2` (acid,primal) The cataclysm beetle sprays a 60-foot cone of acid from its abdomen that deals 12d10 acid damage (DC 40 Reflex check). It can't use Bombardier's Spray or Burning Pool for 1d4 rounds."
+    desc: "`pf2:2` (acid,primal) The cataclysm beetle sprays a @Template[cone|distance:60] of acid from its abdomen that deals 12d10 acid damage (DC 40 Reflex check). It can't use Bombardier's Spray or Burning Pool for 1d4 rounds."
 
   - name: "Burning Pool"
-    desc: "`pf2:2` (acid,primal) The cataclysm beetle spills acid directly from its abdomen, creating a wave of acid that deals 10d12 acid damage to all creatures in a 30-foot emanation (DC 40 Fortitude check). Creatures that fail this save are pushed back 10 feet from the cataclysm beetle (30 feet on a critical failure). It can't use Bombardier's Spray or Burning Pool for 1d4 rounds."
+    desc: "`pf2:2` (acid,primal) The cataclysm beetle spills acid directly from its abdomen, creating a wave of acid that deals 10d12 acid damage to all creatures in a @Template[emanation|distance:30] (DC 40 Fortitude check). Creatures that fail this save are pushed back 10 feet from the cataclysm beetle (30 feet on a critical failure). It can't use Bombardier's Spray or Burning Pool for 1d4 rounds."
 
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
     desc: "`pf2:1`  "
  
+```
+
+```encounter-table
+name: Cataclysm Beetle
+creatures:
+  - 1: Cataclysm Beetle
 ```
 
 

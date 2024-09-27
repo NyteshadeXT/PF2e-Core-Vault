@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.pfs-season-1-bestiary.Actor.JSZGXyG3cItFmG9N"
 tags:
   - pf2e/creature/type/human
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/1
 statblock: inline
 name: "Elite Waterworks Rebel"
@@ -24,8 +25,8 @@ level: "Creature 1"
 
 alignment: ""
 size: "Medium"
-trait_01: "human"
-trait_02: "humanoid"
+trait_01: [[human]]
+trait_02: [[humanoid]]
 modifier: 5
 perception:
   - name: "Perception"
@@ -53,7 +54,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "[[Bestiary Ability Glossary/Nimble Dodge|Nimble Dodge]]"
-    desc: "`pf2:r`  **Requirements** The rebel can't use this reaction while [[Conditions/Encumbered|Encumbered]]\n**Trigger** The rebel is hit or critically hit by an attack made by a creature the rogue can see\n**Effect** The rebel gains a +2 circumstance bonus to their Armor Class against the triggering attack."
+    desc: "`pf2:r`  **Requirements** The rebel can't use this reaction while [[Conditions/Encumbered|Encumbered]]\n\n**Trigger** The rebel is hit or critically hit by an attack made by a creature the rogue can see\n* * *\n\n**Effect** The rebel gains a +2 circumstance bonus to their Armor Class against the triggering attack."
 
 attacks:
   - name: ""
@@ -70,6 +71,12 @@ attacks:
   - name: "Surprise Attack"
     desc: "  On the first round of combat, creatures that haven't acted yet are [[Conditions/Off-Guard|Off-Guard]] to the rebel."
  
+```
+
+```encounter-table
+name: Elite Waterworks Rebel
+creatures:
+  - 1: Elite Waterworks Rebel
 ```
 
 

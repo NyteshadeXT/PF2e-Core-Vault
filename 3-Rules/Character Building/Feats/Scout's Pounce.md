@@ -7,8 +7,9 @@ tags:
   - trait/flourish
   - trait/common
   - category/class
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.jvQoupE76OeUpjZp"
-license: OGL
+license: ORC
 ---
 # Scout's Pounce `pf2:2`
 ## Feat 10
@@ -28,5 +29,5 @@ You leap from the shadows to strike your foes. Stride up to your Speed, then Str
 
 Your multiple attack penalty applies normally for both attacks.
 
-*Source: Pathfinder Advanced Player's Guide*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

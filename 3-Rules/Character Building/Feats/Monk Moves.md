@@ -6,8 +6,9 @@ tags:
   - trait/archetype
   - trait/common
   - category/class
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.TGFbFyv0AUi5gAGO"
-license: OGL
+license: ORC
 ---
 # Monk Moves
 ## Feat 8
@@ -21,5 +22,5 @@ license: OGL
 * * *
 You gain a +10-foot status bonus to your Speed when you're not wearing armor.
 
-*Source: Pathfinder Core Rulebook*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

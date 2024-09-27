@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.pathfinder-bestiary.Actor.tMxtnGthVV01wNQb"
 tags:
   - pf2e/creature/type/elemental
   - pf2e/creature/type/genie
+  - pf2eMonster
   - pf2e/creature/level/4
 statblock: inline
 name: "Janni"
@@ -25,13 +26,13 @@ level: "Creature 4"
 
 alignment: ""
 size: "Medium"
-trait_01: "elemental"
-trait_02: "genie"
+trait_01: [[elemental]]
+trait_02: [[genie]]
 modifier: 11
 perception:
   - name: "Perception"
     desc: "+11; Darkvision"
-languages: "Common"
+languages: "Common; one elemental language (aquan auran ignan or terran), one planar language (abyssal celestial or infernal), telepathy 100 feet"
 skills:
   - name: "Skills"
     desc: "Acrobatics: +8, Arcana: +10, Crafting: +8, Deception: +7, Survival: +11"
@@ -72,8 +73,14 @@ attacks:
     desc: "DC 21, attack +13; __7th __  _[[Spells/Interplanar Teleport|Plane Shift (to Astral Plane, Elemental Planes, or Material Plane Only)]]_; __2nd __  _[[Spells/Create Food|Create Food]]_, _[[Spells/Invisibility|Invisibility (x3)]]_, _[[Spells/Speak with Animals|Speak with Animals]]_; __1st __  _[[Spells/Create Water|Create Water]]_"
 
   - name: "Change Size"
-    desc: "`pf2:2` (arcane,concentrate,polymorph) **Frequency** Once per day.\n**Effect** The janni changes a creature's size. This works as a 4th-rank [[Spells/Enlarge|Enlarge]] or [[Spells/Shrink|Shrink]] spell but can target an unwilling creature (DC 21 Fortitude check save negates)."
+    desc: "`pf2:2` (arcane,concentrate,polymorph) **Frequency** Once per day.\n* * *\n\n**Effect** The janni changes a creature's size. This works as a 4th-rank [[Spells/Enlarge|Enlarge]] or [[Spells/Shrink|Shrink]] spell but can target an unwilling creature (DC 21 Fortitude check save negates)."
  
+```
+
+```encounter-table
+name: Janni
+creatures:
+  - 1: Janni
 ```
 
 

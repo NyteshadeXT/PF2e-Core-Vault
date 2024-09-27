@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/giant
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/8
 statblock: inline
 name: "Aigamuxa"
@@ -23,13 +24,13 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Lost Omens: The Mwangi Expanse"
 name: "Aigamuxa"
 level: "Creature 8"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Large"
-trait_01: "chaotic"
-trait_02: "evil"
-trait_03: "giant"
-trait_04: "humanoid"
+trait_01: [[chaotic]]
+trait_02: [[evil]]
+trait_03: [[giant]]
+trait_04: [[humanoid]]
 modifier: 19
 perception:
   - name: "Perception"
@@ -37,7 +38,7 @@ perception:
 languages: "Mwangi"
 skills:
   - name: "Skills"
-    desc: "Athletics: +18, Intimidation: +16, Stealth: +14 (+18 in deserts)"
+    desc: "Athletics: +18, Intimidation: +16, Stealth: +14"
 abilityMods: [6, 4, 6, -2, 3, 0]
 speed: 30 feet
 sourcebook: "_Pathfinder Lost Omens: The Mwangi Expanse_"
@@ -71,17 +72,23 @@ attacks:
     desc: "`pf2:1` Jaws +20 ()\n__Damage__  2d12 + 9 piercing"
 
   - name: "Burrowed Ambush"
-    desc: "`pf2:2`  **Requirements** The aigamuxa is [[Actions/Hide|Hiding]] in dirt, sand, or another soft surface\n**Effect** The aigamuxa makes a claw Strike against a creature within reach. On a hit, the aigamuxa automatically Grabs the creature. Whether or not they hit, the aigamuxa then Strides. If they have a creature grabbed, the creature moves with the aigamuxa."
+    desc: "`pf2:2`  **Requirements** The aigamuxa is [[Actions/Hide|Hiding]] in dirt, sand, or another soft surface\n* * *\n\n**Effect** The aigamuxa makes a claw Strike against a creature within reach. On a hit, the aigamuxa automatically Grabs the creature. Whether or not they hit, the aigamuxa then Strides. If they have a creature grabbed, the creature moves with the aigamuxa."
 
   - name: "Burrowing Concealment"
-    desc: "`pf2:2`  **Requirements** The aigamuxa is standing on dirt, sand, or another soft surface\n**Effect** The aigamuxa quickly digs into the surface and [[Actions/Hide|Hides]]. They leave their feet partially exposed, allowing them to see out from the surface. The aigamuxa can hold their breath for up to 10 minutes while hiding in this way."
+    desc: "`pf2:2`  **Requirements** The aigamuxa is standing on dirt, sand, or another soft surface\n* * *\n\n**Effect** The aigamuxa quickly digs into the surface and [[Actions/Hide|Hides]]. They leave their feet partially exposed, allowing them to see out from the surface. The aigamuxa can hold their breath for up to 10 minutes while hiding in this way."
 
   - name: "[[Bestiary Ability Glossary/Swallow Whole|Swallow Whole]]"
-    desc: "`pf2:1` (attack) Small, 2d12 + 4 bludgeoning damage, Rupture 22\n"
+    desc: "`pf2:1` (attack) Small, 2d12+4 bludgeoning damage, Rupture 22\n\n* * *\n"
 
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
     desc: "`pf2:1`  "
  
+```
+
+```encounter-table
+name: Aigamuxa
+creatures:
+  - 1: Aigamuxa
 ```
 
 

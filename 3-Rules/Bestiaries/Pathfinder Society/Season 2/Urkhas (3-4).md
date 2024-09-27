@@ -10,6 +10,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/fiend
   - pf2e/creature/type/unholy
+  - pf2eMonster
   - pf2e/creature/level/3
 statblock: inline
 name: "Urkhas (3-4)"
@@ -24,14 +25,14 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Society Scenario #2-23: An Agent&#x27;s Obligation"
 name: "Urkhas (3-4)"
 level: "Creature 3"
-rare_03: "Rare"
+rare_03: [[Rare]]
 alignment: ""
 size: "Small"
-trait_01: "aberration"
-trait_02: "air"
-trait_03: "evil"
-trait_04: "fiend"
-trait_05: "unholy"
+trait_01: [[aberration]]
+trait_02: [[air]]
+trait_03: [[evil]]
+trait_04: [[fiend]]
+trait_05: [[unholy]]
 modifier: 11
 perception:
   - name: "Perception"
@@ -70,11 +71,17 @@ attacks:
     desc: "`pf2:1` Shock +12 (electricity, magical, unholy)\n__Damage__  2d4 + 2 electricity 1d4 spirit"
 
   - name: "Feed on Fear"
-    desc: "`pf2:1` (concentrate) **Requirements** An enemy is being affected by a fear effect or [[Conditions/Dying 1|Dying]] within 15 feet of the will-o'-wisp.\n**Effect** Urkhas feeds on the creature's terror. It regains 1d4 Hit Points, and if it has Gone Dark, its glow reignites.\nUrkhas can take this action only once per round."
+    desc: "`pf2:1` (concentrate) **Requirements** An enemy is being affected by a fear effect or [[Conditions/Dying|Dying]] within 15 feet of the will-o'-wisp.\n* * *\n\n**Effect** Urkhas feeds on the creature's terror. It regains 1d4 Hit Points, and if it has Gone Dark, its glow reignites.\n\nUrkhas can take this action only once per round."
 
   - name: "Go Dark"
     desc: "`pf2:1` (concentrate) Urkhas extinguishes its glow, becoming [[Conditions/Invisible|Invisible]]. It can end this effect with another use of this action. If it uses its shock attack while invisible, the arc of electricity lets any observer determine its location, making the Urkhas only [[Conditions/Hidden|Hidden]] to all observers until it moves."
  
+```
+
+```encounter-table
+name: Urkhas (3-4)
+creatures:
+  - 1: Urkhas (3-4)
 ```
 
 

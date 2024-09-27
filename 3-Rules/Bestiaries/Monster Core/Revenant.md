@@ -6,6 +6,7 @@ cssClasses: pf2e
 aliases: "Compendium.pf2e.pathfinder-monster-core.Actor.bsrQp0pLgvjJr6mC" 
 tags:
   - pf2e/creature/type/undead
+  - pf2eMonster
   - pf2e/creature/level/6
   - remaster
 statblock: inline
@@ -25,7 +26,7 @@ level: "Creature 6"
 
 alignment: ""
 size: "Medium"
-trait_01: "undead"
+trait_01: [[undead]]
 modifier: 14
 perception:
   - name: "Perception"
@@ -55,7 +56,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Self-Loathing"
-    desc: " (emotion,mental,visual) If a revenant sees their own reflection or any object that was important to them in life, they must attempt a DC 25 Will check save.\n* * *\n\n**Critical Success** The revenant is unaffected and can no longer be affected by that reflection or object in this way.\n\n**Success** The revenant is distracted by self-loathing and becomes [[Conditions/Slowed 1|Slowed 1]] for 1 round.\n\n**Failure** The revenant becomes [[Conditions/Fascinated|Fascinated]] by the source that triggered their self-loathing and does everything they can to destroy it until the end of the revenant's next turn.\n\n**Critical Failure** The revenant becomes [[Conditions/Immobilized|Immobilized]] as long as the source of their self-loathing is apparent, until they're attacked, or until they see their murderer."
+    desc: " (emotion,mental,visual) If a revenant sees their own reflection or any object that was important to them in life, they must attempt a DC 25 Will check save.\n* * *\n\n**Critical Success** The revenant is unaffected and can no longer be affected by that reflection or object in this way.\n\n**Success** The revenant is distracted by self-loathing and becomes [[Conditions/Slowed|Slowed 1]] for 1 round.\n\n**Failure** The revenant becomes [[Conditions/Fascinated|Fascinated]] by the source that triggered their self-loathing and does everything they can to destroy it until the end of the revenant's next turn.\n\n**Critical Failure** The revenant becomes [[Conditions/Immobilized|Immobilized]] as long as the source of their self-loathing is apparent, until they're attacked, or until they see their murderer."
 
   - name: "Undying Vendetta"
     desc: " (emotion,occult) If the revenant's murderer dies, the revenant is immediately destroyed. A revenant that can't sense their murderer must attempt a DC 11 Flat check check once every 24 hours to avoid becoming [[Conditions/Immobilized|Immobilized]] and [[Conditions/Prone|Prone]]; they immediately rise again once they can sense their murderer. A murderer who becomes undead does not trigger the revenant's destruction until the murderer is finally destroyed. The revenant gains a +2 status bonus to checks and DCs against their murderer."
@@ -67,14 +68,20 @@ attacks:
     desc: "`pf2:1` Claw +17 (agile)\n__Damage__  2d8 + 5 slashing plus grab"
 
   - name: "Baleful Shriek"
-    desc: "`pf2:2` (auditory,emotion,fear,incapacitation,mental) The revenant wails horribly. Each creature within a 60-foot burst must attempt a DC 23 Will check save. Regardless of the outcome of their saving throw, affected creatures are then immune to Baleful Shriek for 1 hour. The revenant's murderer never improves their degree of success due to this ability's incapacitation trait.\n\nThe revenant can't use Baleful Shriek again for 1d4 rounds.\n* * *\n\n**Critical Success** The creature is unaffected.\n\n**Success** The creature is [[Conditions/Frightened 1|Frightened 2]].\n\n**Failure** The creature is frightened 2 and [[Conditions/Paralyzed|Paralyzed]] for 1 round.\n\n**Critical Failure** The creature is [[Conditions/Frightened 1|Frightened 3]] and paralyzed for 1d4 rounds."
+    desc: "`pf2:2` (auditory,emotion,fear,incapacitation,mental) The revenant wails horribly. Each creature within a @Template[burst|distance:60] must attempt a DC 23 Will check save. Regardless of the outcome of their saving throw, affected creatures are then immune to Baleful Shriek for 1 hour. The revenant's murderer never improves their degree of success due to this ability's incapacitation trait.\n\nThe revenant can't use Baleful Shriek again for 1d4 rounds.\n* * *\n\n**Critical Success** The creature is unaffected.\n\n**Success** The creature is [[Conditions/Frightened|Frightened 2]].\n\n**Failure** The creature is frightened 2 and [[Conditions/Paralyzed|Paralyzed]] for 1 round.\n\n**Critical Failure** The creature is [[Conditions/Frightened|Frightened 3]] and paralyzed for 1d4 rounds."
 
   - name: "[[Bestiary Ability Glossary/Constrict|Constrict]]"
-    desc: "`pf2:1`  2d6 + 5 bludgeoning, DC 24 Fortitude check\n\n* * *\n"
+    desc: "`pf2:1`  2d6+5 bludgeoning, DC 24 Fortitude check\n\n* * *\n"
 
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
     desc: "`pf2:1`  "
  
+```
+
+```encounter-table
+name: Revenant
+creatures:
+  - 1: Revenant
 ```
 
 

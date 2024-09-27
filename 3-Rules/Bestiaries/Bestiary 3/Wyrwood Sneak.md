@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.pathfinder-bestiary-3.Actor.3OrdGXuPXSlrLlbf"
 tags:
   - pf2e/creature/type/construct
   - pf2e/creature/type/wyrwood
+  - pf2eMonster
   - pf2e/creature/level/1
 statblock: inline
 name: "Wyrwood Sneak"
@@ -22,16 +23,16 @@ token: [[modules/pf2e-tokens-bestiaries/portraits/constructed/magical/wyrwood-sn
 source: "Pathfinder Bestiary 3"
 name: "Wyrwood Sneak"
 level: "Creature 1"
-rare_03: "Rare"
+rare_03: [[Rare]]
 alignment: ""
 size: "Small"
-trait_01: "construct"
-trait_02: "wyrwood"
+trait_01: [[construct]]
+trait_02: [[wyrwood]]
 modifier: 6
 perception:
   - name: "Perception"
     desc: "+6; Darkvision"
-languages: "Common"
+languages: "Common; one regional language"
 skills:
   - name: "Skills"
     desc: "Acrobatics: +7, Arcana: +5, Deception: +7, Society: +5, Stealth: +7"
@@ -68,6 +69,12 @@ attacks:
   - name: "[[Bestiary Ability Glossary/Sneak Attack|Sneak Attack]]"
     desc: "  The wyrwood deals an additional 1d6 precision damage to [[Conditions/Off-Guard|Off-Guard]] creatures."
  
+```
+
+```encounter-table
+name: Wyrwood Sneak
+creatures:
+  - 1: Wyrwood Sneak
 ```
 
 

@@ -5,8 +5,9 @@ cssclasses: pf2e,pf2e-action
 tags:
   - trait/common
   - category/interaction
+  - remaster
 aliases: "Compendium.pf2e.actionspf2e.Item.uWTQxEOj2pl45Kns"
-license: OGL
+license: ORC
 ---
 # Sense Weakness `pf2:r`
 
@@ -25,5 +26,5 @@ license: OGL
 
 You pick a precise moment to attack, giving you an edge. Your opponent is [[Conditions/Off-Guard|Off-Guard]] against the attack. If your opponent is using Deception for initiative when this ability is used, they are instead off-guard until the start of their next turn.
 
-*Source: Pathfinder Gamemastery Guide*
-*OGL*
+*Source: Pathfinder GM Core*
+*ORC*

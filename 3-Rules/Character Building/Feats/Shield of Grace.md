@@ -6,8 +6,9 @@ tags:
   - trait/champion
   - trait/common
   - category/class
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.7IDFHh2ZJLaB1y59"
-license: OGL
+license: ORC
 ---
 # Shield of Grace
 ## Feat 16
@@ -19,7 +20,7 @@ license: OGL
 
 **Prerequisites** Shield Warden
 * * *
-You protect an ally with both your shield and your body. Whenever you use the Shield Block reaction to prevent damage to an ally, you can evenly split the remaining damage after the Shield Block between the ally and yourself.
+You protect an ally with both your shield and your body. Whenever you use the [[Feats/Shield Block|Shield Block]] reaction to prevent damage to an ally, you can evenly split the remaining damage after the Shield Block between the ally and yourself.
 
-*Source: Pathfinder Core Rulebook*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

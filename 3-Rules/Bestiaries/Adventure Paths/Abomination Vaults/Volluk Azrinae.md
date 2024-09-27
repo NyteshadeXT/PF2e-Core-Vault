@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/chaotic
   - pf2e/creature/type/evil
   - pf2e/creature/type/swarm
+  - pf2eMonster
   - pf2e/creature/level/7
 statblock: inline
 name: "Volluk Azrinae"
@@ -23,13 +24,13 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #163: Ruins of Gauntlight"
 name: "Volluk Azrinae"
 level: "Creature 7"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Medium"
-trait_01: "aberration"
-trait_02: "chaotic"
-trait_03: "evil"
-trait_04: "swarm"
+trait_01: [[aberration]]
+trait_02: [[chaotic]]
+trait_03: [[evil]]
+trait_04: [[swarm]]
 modifier: 15
 perception:
   - name: "Perception"
@@ -37,7 +38,7 @@ perception:
 languages: "Aklo, Common, Elven, Sakvroth"
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +17, Crafting: +15 (+17 when painting), Deception: +15, Intimidation: +17, Occultism: +17, Religion: +15, Stealth: +15"
+    desc: "Acrobatics: +17, Crafting: +15, Deception: +15, Intimidation: +17, Occultism: +17, Religion: +15, Stealth: +15"
 abilityMods: [4, 6, 2, 6, 4, 2]
 speed: 10 feet,  swim 25 feet
 sourcebook: "_Pathfinder #163: Ruins of Gauntlight_"
@@ -56,10 +57,10 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "[[Creature Family Ability Glossary/(Worm That Walks) Discorporate|Discorporate]]"
-    desc: "  Slow-moving leeches give the heroes 2 rounds, rather than 1 round, to dispatch the fleeing vermin before they escape.\nWhen the worm that walks is reduced to 0 HP, it discorporates and the component worms that make up its body disperse in every direction. If even a single worm escapes, the worm that walks will eventually re-form using a process that typically takes 1d10 days.\nWhile the exact circumstances and surroundings determine how long the worm that walks's foes have to dispatch the fleeing worms before they escape, usually its foes have only a single round.\nTypically, this requires the application of an area effect or splash weapon within 1 round to the space where the worm that walks collapsed. After any amount of area or splash damage is dealt to that space, the character dealing the damage must attempt a DC 15 Flat check check. Each subsequent area or splash damage effect performed on the area reduces the DC of this flat check by 2, to a minimum of DC 5. If any of these flat checks succeed, none of the worms escape, and the worm that walks is destroyed permanently.\nAt the GM's discretion, clever means of trapping or otherwise detaining the vermin may extend the time allowed to finish off the worm that walks."
+    desc: "  Slow-moving leeches give the heroes 2 rounds, rather than 1 round, to dispatch the fleeing vermin before they escape.\n* * *\n\nWhen the worm that walks is reduced to 0 HP, it discorporates and the component worms that make up its body disperse in every direction. If even a single worm escapes, the worm that walks will eventually re-form using a process that typically takes 1d10 days.\n\nWhile the exact circumstances and surroundings determine how long the worm that walks's foes have to dispatch the fleeing worms before they escape, usually its foes have only a single round.\n\nTypically, this requires the application of an area effect or splash weapon within 1 round to the space where the worm that walks collapsed. After any amount of area or splash damage is dealt to that space, the character dealing the damage must attempt a DC 15 Flat check check. Each subsequent area or splash damage effect performed on the area reduces the DC of this flat check by 2, to a minimum of DC 5. If any of these flat checks succeed, none of the worms escape, and the worm that walks is destroyed permanently.\n\nAt the GM's discretion, clever means of trapping or otherwise detaining the vermin may extend the time allowed to finish off the worm that walks."
 
   - name: "Hateful Memories"
-    desc: " (emotion,mental,occult,visual) If Volluk can see an accurate depiction of his former appearance as a living drow at the start of his turn, he must attempt a DC 28 Will check save or become filled with self-loathing and become [[Conditions/Slowed 1|Slowed 1]] for 1 round."
+    desc: " (emotion,mental,occult,visual) If Volluk can see an accurate depiction of his former appearance as a living drow at the start of his turn, he must attempt a DC 28 Will check save or become filled with self-loathing and become [[Conditions/Slowed|Slowed 1]] for 1 round."
 
 attacks:
   - name: ""
@@ -82,6 +83,12 @@ attacks:
   - name: "Swarm Shape"
     desc: "`pf2:1` (concentrate) Volluk collapses into a shapeless swarm of leeches. He drops all held, worn, and carried items. While discorporated, he can't use attack actions and can't cast spells, but he can move through areas small enough for his individual leeches to fit without having to [[Actions/Squeeze|Squeeze]]. He can use the same action to coalesce back into his normal form."
  
+```
+
+```encounter-table
+name: Volluk Azrinae
+creatures:
+  - 1: Volluk Azrinae
 ```
 
 

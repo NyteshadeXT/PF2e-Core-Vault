@@ -4,6 +4,7 @@ obsidianUIMode: preview
 noteType: pf2eHazard
 tags:
   - trap
+  - pf2eHazard
 
 source: Pathfinder #155: Lord of the Black Sands
 aliases: "Compendium.pf2e.extinction-curse-bestiary.Actor.V4LPaPABVm9YYqdH" 
@@ -21,13 +22,13 @@ name: "Crushing Gate Trap"
 level: "Hazard 16"
 
 
-trait_01: "trap"
+trait_01: [[trap]]
 modifier: 32
 sourcebook: "_Pathfinder #155: Lord of the Black Sands_"
 ac: 40
 armorclass:
   - name: AC
-    desc: "40; __Fort__ +32, __Ref__ +25, __Will__ +0"
+    desc: "40; __Fort__ +32, __Ref__ +25, "
 hp: 104
 health:
   - name: ""
@@ -49,9 +50,15 @@ attacks:
   - name: ""
 
   - name: "Gate Collapse"
-    desc: "`pf2:r` (attack) **Trigger** The stone rod is moved or either door is touched\n**Effect** The two falling doors deal 6d12 + 35 bludgeoning damage (DC 37 Reflex check save) to all creatures within 15 feet of the gate. On a failure, a creature is also pinned beneath the door and [[Conditions/Immobilized|Immobilized]] until the door is moved (DC 34 Athletics check) or destroyed; each door has the same AC, Fortitude save, Hardness, and Hit Points as the trap itself. On a critical failure, the creature is trapped in such a way that it can't attempt to free itself. Moving or destroying one door doesn't help free anyone trapped by the other door."
+    desc: "`pf2:r` (attack) **Trigger** The stone rod is moved or either door is touched\n* * *\n\n**Effect** The two falling doors deal 6d12+35 bludgeoning damage (DC 37 Reflex check save) to all creatures within 15 feet of the gate. On a failure, a creature is also pinned beneath the door and [[Conditions/Immobilized|Immobilized]] until the door is moved (DC 34 Athletics check) or destroyed; each door has the same AC, Fortitude save, Hardness, and Hit Points as the trap itself. On a critical failure, the creature is trapped in such a way that it can't attempt to free itself. Moving or destroying one door doesn't help free anyone trapped by the other door."
 
 
 
+```
+
+```encounter-table
+name: Crushing Gate Trap
+creatures:
+  - 1: Crushing Gate Trap
 ```
 

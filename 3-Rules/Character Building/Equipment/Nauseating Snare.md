@@ -9,15 +9,16 @@ tags:
   - trait/snare
   - trait/trap
   - trait/common
-  - category/poison
+  - category/snare
+  - remaster
 aliases: "Compendium.pf2e.equipment-srd.Item.MbPboT76BBKVGepB"
-license: OGL
+license: ORC
 ---
 # Nauseating Snare
 ## Item 6
 ### [[consumable]][[mechanical]][[poison]][[snare]][[trap]]
 
-**Category** poison; 
+**Category** snare; 
 **Price** 40 gp; 
 **Bulk** 0; **Size** med
 **Usage** held-in-one-hand
@@ -28,11 +29,11 @@ You position particularly foul substances to splash over a creature. The first c
 
 **Critical Success** The creature is unaffected.
 
-**Success** The creature becomes [[Conditions/Sickened 1|Sickened 1]].
+**Success** The creature becomes [[Conditions/Sickened|Sickened 1]].
 
-**Failure** The creature becomes [[Conditions/Sickened 1|Sickened 2]].
+**Failure** The creature becomes [[Conditions/Sickened|Sickened 2]].
 
-**Critical Failure** The creature becomes [[Conditions/Sickened 1|Sickened 3]].
+**Critical Failure** The creature becomes [[Conditions/Sickened|Sickened 3]].
 
-*Source: Pathfinder Advanced Player's Guide*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

@@ -17,9 +17,9 @@ license: OGL
 
 
 
-**Minor Curse** Whenever you are imprisoned, you thrash and shake as your mind fills with desperation.
+Whenever you are imprisoned, you thrash and shake as your mind fills with desperation.
 
-Any time you are restrained or otherwise imprisoned (such as being sent to jail), you are also [[Conditions/Clumsy 1|Clumsy 2]] and [[Conditions/Stupefied 1|Stupefied 2]].
+Any time you are restrained or otherwise imprisoned (such as being sent to jail), you are also [[Conditions/Clumsy|Clumsy 2]] and [[Conditions/Stupefied|Stupefied 2]].
 
 *Source: Pathfinder Lost Omens: Gods & Magic*
 *OGL*

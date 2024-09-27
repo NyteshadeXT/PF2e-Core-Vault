@@ -3,6 +3,7 @@ obsidianUIMode: preview
 title: "Noppera-Bo Hood"
 cssclasses: pf2e,pf2e-spell
 tags:
+  - trait/illusion
   - trait/invested
   - trait/magical
   - trait/rare
@@ -11,7 +12,7 @@ license: OGL
 ---
 # Noppera-Bo Hood
 ## Item 4
-### [rare](rare "Rare Rarity Trait")[[invested]][[magical]]
+### [rare](rare "Rare Rarity Trait")[[illusion]][[invested]][[magical]]
 
 
 **Price** 85 gp; 

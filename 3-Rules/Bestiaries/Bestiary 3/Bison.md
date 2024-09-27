@@ -6,6 +6,7 @@ cssClasses: pf2e
 aliases: "Compendium.pf2e.pathfinder-bestiary-3.Actor.XyEvsURVDnJwb76F" 
 tags:
   - pf2e/creature/type/animal
+  - pf2eMonster
   - pf2e/creature/level/4
 statblock: inline
 name: "Bison"
@@ -24,11 +25,12 @@ level: "Creature 4"
 
 alignment: ""
 size: "Large"
-trait_01: "animal"
+trait_01: [[animal]]
 modifier: 8
 perception:
   - name: "Perception"
     desc: "+8; Scent (Imprecise) 60 Feet"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Athletics: +14, Survival: +10"
@@ -65,11 +67,17 @@ attacks:
     desc: "`pf2:2`  The bison surges forward at its foe, horns lowered. It Strides twice. If the bison ends its movement within melee range of an enemy, it makes a horn Strike against that enemy. This Strike gains the fatal d12 trait."
 
   - name: "Rolling Thunder"
-    desc: "`pf2:3`  The bison kicks up dust and shakes the ground as it charges.\nThe stampeding bison Strides up to twice its Speed in a straight line, dealing 4d6 + 6 bludgeoning damage (DC 21 Reflex check save) to any Medium or smaller creature in its path.\nMultiple bison can participate in Rolling Thunder by spending this ability's actions and waiting to charge until the herd is ready. Before the beginning of their next turn, they can then charge as a reaction triggered by an adjacent bison beginning its Rolling Thunder charge. All bison in the combined charge must charge in parallel lines, so the areas can't overlap. The combined charge deals an additional 3d6 bludgeoning damage to creatures in the area, and a creature that fails the Reflex saving throw is also knocked [[Conditions/Prone|Prone]]."
+    desc: "`pf2:3`  The bison kicks up dust and shakes the ground as it charges.\n\nThe stampeding bison Strides up to twice its Speed in a straight line, dealing 4d6+6 bludgeoning damage (DC 21 Reflex check save) to any Medium or smaller creature in its path.\n\nMultiple bison can participate in Rolling Thunder by spending this ability's actions and waiting to charge until the herd is ready. Before the beginning of their next turn, they can then charge as a reaction triggered by an adjacent bison beginning its Rolling Thunder charge. All bison in the combined charge must charge in parallel lines, so the areas can't overlap. The combined charge deals an additional 3d6 bludgeoning damage to creatures in the area, and a creature that fails the Reflex saving throw is also knocked [[Conditions/Prone|Prone]]."
 
   - name: "[[Bestiary Ability Glossary/Knockdown|Knockdown]]"
     desc: "`pf2:1`  "
  
+```
+
+```encounter-table
+name: Bison
+creatures:
+  - 1: Bison
 ```
 
 

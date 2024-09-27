@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.pathfinder-monster-core.Actor.LRboVCCVODz00d5B"
 tags:
   - pf2e/creature/type/beast
   - pf2e/creature/type/holy
+  - pf2eMonster
   - pf2e/creature/level/10
   - remaster
 statblock: inline
@@ -19,14 +20,15 @@ license: ORC
 columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
+token: [[modules/pf2e-tokens-monster-core/assets/portraits/naga-vicharamuni.webp| ]]
 source: "Pathfinder Monster Core"
 name: "Vicharamuni"
 level: "Creature 10"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Large"
-trait_01: "beast"
-trait_02: "holy"
+trait_01: [[beast]]
+trait_02: [[holy]]
 modifier: 22
 perception:
   - name: "Perception"
@@ -34,7 +36,7 @@ perception:
 languages: "Common, Empyrean"
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +22, Athletics: +21, Deception: +18, Diplomacy: +21, Heaven Lore: +21, Stealth: +20"
+    desc: "Acrobatics: +22, Athletics: +21, Deception: +18, Diplomacy: +21, Stealth: +20, Heaven Lore: +21"
 abilityMods: [5, 6, 5, 3, 5, 4]
 speed: 25 feet,  swim 25 feet
 sourcebook: "_Pathfinder Monster Core_"
@@ -71,14 +73,20 @@ attacks:
     desc: " (force,magical) The naga's grip is more spiritual than physical. A creature hit by a vicharamuni's tail must succeed at a DC 29 Will check save or become [[Conditions/Grabbed|Grabbed]] by the tail until they [[Actions/Escape|Escape]], the naga releases them with an Interact action, or the naga dies.\n\nA captive takes a –4 status penalty to Escape, but can choose to attempt an Occultism or Religion check to Escape instead of the usual options without taking this penalty"
 
   - name: "[[Bestiary Ability Glossary/Greater Constrict|Greater Constrict]]"
-    desc: "`pf2:1`  3d8 + 5 bludgeoning, DC 29 Fortitude check\n\n* * *\n"
+    desc: "`pf2:1`  3d8+5 bludgeoning, DC 29 Fortitude check\n\n* * *\n"
 
   - name: "Spiritual Venom"
     desc: "  A vicharamuni can choose to negate any damage that its venom does to a creature. In addition, the naga can cast any of its divine spells on a creature that is affected by its venom, regardless of range or line of effect."
 
   - name: "Vicharamuni Venom"
-    desc: " (divine,holy,mental,poison,spirit) **Saving Throw** DC 29 Will check\n* * *\n\n**Maximum Duration** 6 rounds\n\n**Stage 1** 3d6 spirit (1 round)\n\n**Stage 2** 3d6 spirit and [[Conditions/Drained 1|Drained 1]] (1 round)"
+    desc: " (divine,holy,mental,poison,spirit) **Saving Throw** DC 29 Will check\n* * *\n\n**Maximum Duration** 6 rounds\n\n**Stage 1** 3d6 spirit (1 round)\n\n**Stage 2** 3d6 spirit and [[Conditions/Drained|Drained 1]] (1 round)"
  
+```
+
+```encounter-table
+name: Vicharamuni
+creatures:
+  - 1: Vicharamuni
 ```
 
 

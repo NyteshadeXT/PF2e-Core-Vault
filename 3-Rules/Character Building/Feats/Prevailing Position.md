@@ -6,8 +6,9 @@ tags:
   - trait/monk
   - trait/common
   - category/class
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.Xw7qG0SHepXx24vl"
-license: OGL
+license: ORC
 ---
 # Prevailing Position `pf2:r`
 ## Feat 10
@@ -23,9 +24,7 @@ license: OGL
 
 * * *
 
-Your willingness to flow from one stance to another lets you sacrifice their benefits to better protect yourself.
+Your flexibility with stances lets you sacrifice their benefits to better protect yourself. You leave the stance you were in, gaining a +4 circumstance bonus to the triggering saving throw or to your AC against the triggering attack.
 
-You leave the stance you were in, gaining a +4 circumstance bonus to the triggering saving throw or to your AC against the triggering attack.
-
-*Source: Pathfinder Advanced Player's Guide*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

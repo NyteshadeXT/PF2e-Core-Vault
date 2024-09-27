@@ -13,7 +13,7 @@ license: OGL
 ---
 # Blunderbuss
 ## Item 0
-### [uncommon](uncommon "Uncommon Rarity Trait")[[concussive]][[scatter-10]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[concussive]][[scatter-10]]
 
 |  |  |
 | -- | -- |

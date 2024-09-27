@@ -6,8 +6,9 @@ tags:
   - trait/sorcerer
   - trait/common
   - category/class
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.CN7tu5H6wTe9ENmO"
-license: OGL
+license: ORC
 ---
 # Crossblooded Evolution
 ## Feat 8
@@ -18,7 +19,7 @@ license: OGL
 
 
 
-Odd interactions in your bloodline provide you with unexpected spells. You can have one spell in your spell repertoire from a tradition other than the one that matches your bloodline. You cast that spell as a spell from your bloodline's tradition. You can swap which spell you add and from which tradition as you could any other sorcerer spell, but you can't have more than one spell from another tradition in your spell repertoire at the same time using this feat.
+Odd interactions in your bloodline provide you with unexpected effects. Choose another [[Class Features/Bloodline|Bloodline]]. You know the blood magic effect of that bloodline. If the blood magic effect has a variable effect based on a choice you would have made at 1st level (such as the elemental bloodline's elemental influence), you make that decision when you take this feat.
 
-*Source: Pathfinder Core Rulebook*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

@@ -7,6 +7,7 @@ aliases: "Compendium.battlezoo-bestiary-su-pf2e.pf2e-battlezoo-su-actors.Actor.y
 tags:
   - pf2e/creature/type/beast
   - pf2e/creature/type/shadow
+  - pf2eMonster
   - pf2e/creature/level/13
 statblock: inline
 name: "Greater Fetchfisher"
@@ -22,11 +23,11 @@ token: [[modules/battlezoo-bestiary-su-pf2e/art/Portraits/greater-fetchfisher.we
 source: "Battlezoo Bestiary: Strange and Unusual"
 name: "Greater Fetchfisher"
 level: "Creature 13"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "huge"
-trait_01: "beast"
-trait_02: "shadow"
+trait_01: [[beast]]
+trait_02: [[shadow]]
 modifier: 24
 perception:
   - name: "Perception"
@@ -34,7 +35,7 @@ perception:
 languages: "Common, Shadowtongue, Sakvroth"
 skills:
   - name: "Skills"
-    desc: "Athletics: +27, Deception: +24, Stealth: +30, Fetchling Lore: +24, "
+    desc: "Athletics: +27, Deception: +24, Stealth: +30, Athletics: +27, Deception: +24, Stealth: +30, Fetchling Lore: +24"
 abilityMods: [8, 8, 7, 4, 5, 5]
 speed: 15 feet,  climb 15 feet
 sourcebook: "_Battlezoo Bestiary: Strange and Unusual_"
@@ -51,10 +52,10 @@ abilities_top:
   - name: ""
 
   - name: "Shifting Mass"
-    desc: "  Despite their size, the fetchfisher can shift their body between planes to allow it to fit through tight spaces and take cover behind small obstacles that would be enough to provide cover for a Medium creature. While Squeezing, they can move at their full Speed. When using the Take Cover action, they can take cover behind Large or larger objects, reducing their space down from 15 by 15 feet to as small as 5 by 5 feet as necessary."
+    desc: "  Despite their size, the fetchfisher can shift their body between planes to allow it to fit through tight spaces and take cover behind small obstacles that would be enough to provide cover for a Medium creature. While Squeezing, they can move at their full Speed. When using the [[undefined]] action, they can take cover behind Large or larger objects, reducing their space down from 15 by 15 feet to as small as 5 by 5 feet as necessary."
 
   - name: "Snatching Ambush"
-    desc: "  **Requirements** Initiative has not yet been rolled.\n**Trigger** A creature that hasn't observed the fetchfisher moves within 15 feet of the fetchfisher.\n**Effect** The fetchfisher uses Snatch and Dive and then rolls initiative."
+    desc: "  **Requirements** Initiative has not yet been rolled.\n\n**Trigger** A creature that hasn't observed the fetchfisher moves within 15 feet of the fetchfisher.\n* * *\n\n**Effect** The fetchfisher uses Snatch and Dive and then rolls initiative."
 
 abilities_mid:
   - name: ""
@@ -68,11 +69,17 @@ attacks:
     desc: "`pf2:1` Jaws +27 (agile)\n__Damage__  3d10 + 14 piercing"
 
   - name: "Shadow Step"
-    desc: "`pf2:1` (primal,shadow,teleportation) **Requirements** The fetchfisher is in an area of dim light or darkness or is standing in the shadow of any Large or larger object\n**Effect** The fetchfisher instantly teleports to another location that's in dim light or darkness or to a space that's in the shadow of any Large or larger object. Either way, the destination must be within 60 feet."
+    desc: "`pf2:1` (primal,shadow,teleportation) **Requirements** The fetchfisher is in an area of dim light or darkness or is standing in the shadow of any Large or larger object\n* * *\n\n**Effect** The fetchfisher instantly teleports to another location that's in dim light or darkness or to a space that's in the shadow of any Large or larger object. Either way, the destination must be within 60 feet."
 
   - name: "Snatch and Dive"
-    desc: "`pf2:3`  The greater fetchfisher stretches their arm and snatches away their prey before diving into the shadows. The greater fetchfisher makes a claw Strike against a creature within 15 feet, despite the claw normally having a reach of 10 feet. If the greater fetchfisher hits and uses Improved Grab, they move the creature to the nearest square adjacent to the greater fetchfisher. The greater fetchfisher can then Shadow Step. If it chooses to Shadow Step, the Grabbed creature must attempt a DC 30 Will check save. On a failure, the target teleports with the greater fetchfisher, arriving in the same relative position and remaining grabbed. On a success, the greater fetchfisher can choose not to teleport if it wants to keep the creature grabbed."
+    desc: "`pf2:3`  The greater fetchfisher stretches their arm and snatches away their prey before diving into the shadows. The greater fetchfisher makes a claw Strike against a creature within 15 feet, despite the claw normally having a reach of 10 feet. If the greater fetchfisher hits and uses Improved Grab, they move the creature to the nearest square adjacent to the greater fetchfisher. The greater fetchfisher can then Shadow Step. If it chooses to Shadow Step, the [[undefined]] creature must attempt a DC 30 Will check save. On a failure, the target teleports with the greater fetchfisher, arriving in the same relative position and remaining grabbed. On a success, the greater fetchfisher can choose not to teleport if it wants to keep the creature grabbed."
  
+```
+
+```encounter-table
+name: Greater Fetchfisher
+creatures:
+  - 1: Greater Fetchfisher
 ```
 
 

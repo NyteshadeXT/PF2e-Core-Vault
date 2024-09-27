@@ -4,6 +4,7 @@ obsidianUIMode: preview
 noteType: pf2eHazard
 tags:
   - environmental
+  - pf2eHazard
   - complex
 source: Pathfinder #199: To Bloom Below the Web
 aliases: "Compendium.pf2e.season-of-ghosts-bestiary.Actor.ujCqaRPlw23baewz" 
@@ -21,7 +22,7 @@ name: "Weakened Floor"
 level: "Hazard 11"
 
 trait_06: "Complex"
-trait_01: "environmental"
+trait_01: [[environmental]]
 modifier: 23
 sourcebook: "_Pathfinder #199: To Bloom Below the Web_"
 perception:
@@ -40,11 +41,17 @@ attacks:
   - name: ""
 
   - name: "Collapse Floor"
-    desc: "`pf2:r` **Trigger** A round begins with a Small or larger creature standing on the floor in area **A4**\n**Effect** The floor of the entire room collapses in a thunderous crash, dropping all creatures in the room 5 feet into a soupy morass of mud, mold, and toxic fungus while a cloud of spores spews up into the air above. The room becomes greater difficult terrain. All creatures who were standing on the floor in the room fall [[Conditions/Prone|Prone]] in the mess below unless they succeed at a DC 34 Reflex check save, in which case they land on their feet. The hazard then rolls initiative."
+    desc: "`pf2:r` **Trigger** A round begins with a Small or larger creature standing on the floor in area **A4**\n* * *\n\n**Effect** The floor of the entire room collapses in a thunderous crash, dropping all creatures in the room 5 feet into a soupy morass of mud, mold, and toxic fungus while a cloud of spores spews up into the air above. The room becomes greater difficult terrain. All creatures who were standing on the floor in the room fall [[Conditions/Prone|Prone]] in the mess below unless they succeed at a DC 34 Reflex check save, in which case they land on their feet. The hazard then rolls initiative."
 
   - name: "Routine"
     desc: "(1 action) Every round on its turn, the spores that now fill area **A4** inflict 8d6 poison damage to all creatures in the room (DC 30 Fortitude check save) as the cloud burns at exposed flesh; a creature that holds its breath gains a +4 circumstance bonus to this saving throw."
   - name: "Reset"
     desc: "One minute after nothing moves in the room, the spores settle down. The floor remains obvious and won't collapse further, but any creature that moves through the mold causes the spores to plume up again, re-triggering the trap."
+```
+
+```encounter-table
+name: Weakened Floor
+creatures:
+  - 1: Weakened Floor
 ```
 

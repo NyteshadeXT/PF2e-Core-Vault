@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/amphibious
   - pf2e/creature/type/chaotic
   - pf2e/creature/type/xotlxotl
+  - pf2eMonster
   - pf2e/creature/level/1
 statblock: inline
 name: "Xotlxotl"
@@ -24,13 +25,13 @@ token: [[modules/battlezoo-bestiary-su-pf2e/art/Portraits/xotlxotl.webp| ]]
 source: "Battlezoo Bestiary: Strange and Unusual"
 name: "Xotlxotl"
 level: "Creature 1"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Small"
-trait_01: "aberration"
-trait_02: "amphibious"
-trait_03: "chaotic"
-trait_04: "xotlxotl"
+trait_01: [[aberration]]
+trait_02: [[amphibious]]
+trait_03: [[chaotic]]
+trait_04: [[xotlxotl]]
 modifier: 5
 perception:
   - name: "Perception"
@@ -38,7 +39,7 @@ perception:
 languages: "Aklo, Thalassic"
 skills:
   - name: "Skills"
-    desc: "Athletics: +6, Nature: +5, Occultism: +6, Stealth: +7, Survival: +6, "
+    desc: "Athletics: +6, Nature: +5, Occultism: +6, Stealth: +7, Survival: +6, Athletics: +6, Nature: +5, Occultism: +6, Stealth: +7, Survival: +6"
 abilityMods: [2, 3, 4, 2, 2, 3]
 speed: 25 feet,  swim 15 feet
 sourcebook: "_Battlezoo Bestiary: Strange and Unusual_"
@@ -61,7 +62,7 @@ abilities_mid:
     desc: "  Xotlxotl's regrow lost limbs or organs in 1d4 days, and their wounds never leave scars."
 
   - name: "Vanish"
-    desc: "`pf2:r`  **Frequency** Once per day\n**Trigger** The xotlxotl is targeted with a Strike and can see the attacker\n**Effect** The xotlxotl becomes Invisible until the end of it's next turn and Steps 10 feet. The invisibility occurs before resolving the Strike, but the movement happens afterward. The invisibility ends early if the xotlxotl takes a hostile action."
+    desc: "`pf2:r`  **Frequency** Once per day\n\n**Trigger** The xotlxotl is targeted with a Strike and can see the attacker\n* * *\n\n**Effect** The xotlxotl becomes [[undefined]] until the end of it's next turn and Steps 10 feet. The invisibility occurs before resolving the Strike, but the movement happens afterward. The invisibility ends early if the xotlxotl takes a hostile action."
 
 attacks:
   - name: ""
@@ -76,8 +77,14 @@ attacks:
     desc: "`pf2:1` Spear +9 (range increment 20 feet)\n__Damage__  1d6 + 2 piercing"
 
   - name: "Sudden Mutation"
-    desc: "`pf2:1`  **Frequency** Once per day\n**Effect** The xotlxotl gains a +1 item bonus to Fortitude saves and 5 temporary Hit Points, but suffers a –2 penalty to Will saves, perception checks, and initiative rolls for 1 minute."
+    desc: "`pf2:1`  **Frequency** Once per day\n* * *\n\n**Effect** The xotlxotl gains a +1 item bonus to Fortitude saves and 5 temporary Hit Points, but suffers a –2 penalty to Will saves, perception checks, and initiative rolls for 1 minute."
  
+```
+
+```encounter-table
+name: Xotlxotl
+creatures:
+  - 1: Xotlxotl
 ```
 
 

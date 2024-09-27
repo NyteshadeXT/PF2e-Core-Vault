@@ -14,7 +14,7 @@ license: OGL
 ---
 # Dragonfly Potion
 ## Item 12
-### [uncommon](uncommon "Uncommon Rarity Trait")[[consumable]][[magical]][[morph]][[potion]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[consumable]][[3-Rules/Rule References/Magical]][[morph]][[potion]]
 
 **Category** potion; 
 **Price** 310 gp; 

@@ -20,7 +20,7 @@ Disciples of metallic dragons also feel the pangs of compassion and benevolence.
 
 Instinctual draconic feelings can be constant, yet they seem to intensify when the disciple uses their draconic powers. In the few seconds after using a breath weapon or attacking with claws, or when the disciple sprouts wings, they might have a moment of mental transformation. This can bring on the full mindset of a dragon, or even make the disciple temporarily believe they truly are a dragon, and is often accompanied by a draconic roar, cackle, or majestic display.
 
-[[Feats/Dragon Disciple Dedication|Dragon Disciple Dedication]] Feat 2
+## [[Feats/Dragon Disciple Dedication|Dragon Disciple Dedication]] Feat 2
 
 **Access** You are a kobold with the dragonscaled or spellscaled heritage, a dragon instinct barbarian, or a draconic bloodline sorcerer.
 
@@ -48,7 +48,7 @@ Your fingernails grow into razor-sharp claws, and scales speckle your fingers, h
 
 If you're a draconic sorcerer, when you cast dragon claws, increase the spell's slashing damage die from d4 to d6 and increase the resistance to 10 at 1st level, 15 at 5th level, and 20 at 9th level.
 
-## [[Feats/Draconic Scent|Draconic Scent]] Feat 4
+## [[Feats/Draconic Scent (Dragon Disciple)|Draconic Scent]] Feat 4
 
 **Prerequisites** Dragon Disciple Dedication
 
@@ -72,7 +72,7 @@ You've discovered how to add the magic of dragons to your tradition. Add the dra
 
 Scales grow across your body, protecting you against physical and magical threats. When you're unarmored, the scales give you a +2 status bonus to AC with a Dexterity cap of +3. Your resistance from Dragon Disciple Dedication increases to 3 + half your level.
 
-## [[Feats/Breath Of The Dragon|Breath Of The Dragon]] Feat 8
+## [[Feats/Breath Of The Dragon (Dragon Disciple)|Breath Of The Dragon]] Feat 8
 
 **Prerequisites** Dragon Disciple Dedication
 

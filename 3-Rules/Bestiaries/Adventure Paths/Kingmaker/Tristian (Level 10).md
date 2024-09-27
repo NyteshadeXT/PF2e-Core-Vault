@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/nephilim
   - pf2e/creature/type/human
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/10
 statblock: inline
 name: "Tristian (Level 10)"
@@ -22,12 +23,12 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Kingmaker"
 name: "Tristian (Level 10)"
 level: "Creature 10"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Medium"
-trait_01: "nephilim"
-trait_02: "human"
-trait_03: "humanoid"
+trait_01: [[nephilim]]
+trait_02: [[human]]
+trait_03: [[humanoid]]
 modifier: 19
 perception:
   - name: "Perception"
@@ -35,7 +36,7 @@ perception:
 languages: "Aklo, Fey, Hallit, Kelish, Empyrean, Common"
 skills:
   - name: "Skills"
-    desc: "Forest Lore: +0, "
+    desc: ""
 abilityMods: [0, 2, 3, 2, 5, 4]
 speed: 25 feet
 sourcebook: "_Pathfinder Kingmaker_"
@@ -63,6 +64,12 @@ attacks:
   - name: "Divine Focus Spells"
     desc: "3 Focus Points, DC 0, attack +0; __5th __  _[[Spells/Fire Ray|Fire Ray]]_, _[[Spells/Healer's Blessing|Healer's Blessing]]_, _[[Spells/Rebuke Death|Rebuke Death]]_"
  
+```
+
+```encounter-table
+name: Tristian (Level 10)
+creatures:
+  - 1: Tristian (Level 10)
 ```
 
 

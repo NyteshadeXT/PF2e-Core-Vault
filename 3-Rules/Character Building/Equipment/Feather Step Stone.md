@@ -14,7 +14,7 @@ license: ORC
 ---
 # Feather Step Stone
 ## Item 3
-### [[consumable]][[magical]][[talisman]]
+### [[consumable]][[3-Rules/Rule References/Magical]][[talisman]]
 
 **Category** talisman; 
 **Price** 8 gp; 

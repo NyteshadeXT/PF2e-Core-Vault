@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/aberration
   - pf2e/creature/type/earth
   - pf2e/creature/type/swarm
+  - pf2eMonster
   - pf2e/creature/level/19
 statblock: inline
 name: "Sturzstromer"
@@ -23,12 +24,12 @@ token: [[modules/pf2e-tokens-bestiaries/portraits/elemental/earth/sturzstromer.w
 source: "Pathfinder Bestiary 3"
 name: "Sturzstromer"
 level: "Creature 19"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "huge"
-trait_01: "aberration"
-trait_02: "earth"
-trait_03: "swarm"
+trait_01: [[aberration]]
+trait_02: [[earth]]
+trait_03: [[swarm]]
 modifier: 33
 perception:
   - name: "Perception"
@@ -53,7 +54,7 @@ abilities_top:
   - name: ""
 
   - name: "[[Bestiary Ability Glossary/Tremorsense|Tremorsense (Precise) 120 feet, (Imprecise) 240 feet]]"
-    desc: "  A sturzstromer's tremorsense is a precise sense out to 120 feet and an imprecise sense out to 240 feet. A sturzstromer can't sense anything beyond the range of its tremorsense.\n"
+    desc: "  A sturzstromer's tremorsense is a precise sense out to 120 feet and an imprecise sense out to 240 feet. A sturzstromer can't sense anything beyond the range of its tremorsense.\n\n* * *\n"
 
   - name: "Clutching Stones"
     desc: "  The sturzstromer's space is greater difficult terrain."
@@ -67,14 +68,20 @@ attacks:
     desc: "DC 41, attack +33; __10th __  _[[Spells/Earthquake|Earthquake]]_; __8th __  _[[Spells/Earthbind|Earthbind (At Will)]]_, _[[Spells/Earthquake|Earthquake (x3)]]_, _[[Spells/Speak with Stones|Stone Tell]]_"
 
   - name: "Grasping Bites"
-    desc: "`pf2:2` (attack) The sturzstromer attempts an Athletics check check and compares the result to the Fortitude DC of each creature in its space. This counts as two attacks for the sturzstromer's multiple attack penalty.\n**Critical Success** The creature is [[Conditions/Grabbed|Grabbed]], takes 1d6 bludgeoning damage, and is [[Conditions/Restrained|Restrained]] until the end of the sturzstromer's next turn.\n**Success** The creature is grabbed."
+    desc: "`pf2:2` (attack) The sturzstromer attempts an Athletics check check and compares the result to the Fortitude DC of each creature in its space. This counts as two attacks for the sturzstromer's multiple attack penalty.\n* * *\n\n**Critical Success** The creature is [[Conditions/Grabbed|Grabbed]], takes 1d6 bludgeoning damage, and is [[Conditions/Restrained|Restrained]] until the end of the sturzstromer's next turn.\n\n**Success** The creature is grabbed."
 
   - name: "Landslide"
-    desc: "  **Requirements** The sturzstromer's most recent action was to cast [[Spells/Earthquake|Earthquake]].\n**Effect** The sturzstromer closes a fissure it made, choosing one creature that fell in. That creature must succeed at a DC 41 Reflex check save or be buried as in an avalanche."
+    desc: "  **Requirements** The sturzstromer's most recent action was to cast [[Spells/Earthquake|Earthquake]].\n* * *\n\n**Effect** The sturzstromer closes a fissure it made, choosing one creature that fell in. That creature must succeed at a DC 41 Reflex check save or be buried as in an avalanche."
 
   - name: "Pummeling Assault"
     desc: "`pf2:1`  Each foe in the sturzstromer's space takes 4d10 bludgeoning damage (DC 41 Reflex check save)."
  
+```
+
+```encounter-table
+name: Sturzstromer
+creatures:
+  - 1: Sturzstromer
 ```
 
 

@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.book-of-the-dead-bestiary.Actor.GcHzyaMYK5QeKUyM"
 tags:
   - pf2e/creature/type/lawful
   - pf2e/creature/type/undead
+  - pf2eMonster
   - pf2e/creature/level/10
 statblock: inline
 name: "Pale Stranger"
@@ -21,15 +22,16 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Book of the Dead"
 name: "Pale Stranger"
 level: "Creature 10"
-rare_03: "Rare"
+rare_03: [[Rare]]
 alignment: ""
 size: "Medium"
-trait_01: "lawful"
-trait_02: "undead"
+trait_01: [[lawful]]
+trait_02: [[undead]]
 modifier: 19
 perception:
   - name: "Perception"
     desc: "+19; Darkvision"
+languages: "any one language spoken in life by their murderer (typically common)"
 skills:
   - name: "Skills"
     desc: "Acrobatics: +21, Athletics: +19, Intimidation: +20"
@@ -52,7 +54,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Self-Loathing"
-    desc: " (emotion,mental,visual) If a pale stranger sees their own reflection or any object important to them in life, they must attempt a DC 30 Will check save.\n**Critical Success** The pale stranger is unaffected and can no longer be affected by that reflection or object in this way.\n**Success** The pale stranger is distracted by self-loathing and is [[Conditions/Slowed 1|Slowed 1]] for 1 round.\n**Failure** The pale stranger becomes [[Conditions/Fascinated|Fascinated]] by the source of their self-loathing and does everything they can to destroy it until the end of their next turn.\n**Critical Failure** The pale stranger becomes [[Conditions/Immobilized|Immobilized]] as long as the source of their self-loathing is apparent, until they're attacked, or until they see their murderer."
+    desc: " (emotion,mental,visual) If a pale stranger sees their own reflection or any object important to them in life, they must attempt a DC 30 Will check save.\n* * *\n\n**Critical Success** The pale stranger is unaffected and can no longer be affected by that reflection or object in this way.\n\n**Success** The pale stranger is distracted by self-loathing and is [[Conditions/Slowed|Slowed 1]] for 1 round.\n\n**Failure** The pale stranger becomes [[Conditions/Fascinated|Fascinated]] by the source of their self-loathing and does everything they can to destroy it until the end of their next turn.\n\n**Critical Failure** The pale stranger becomes [[Conditions/Immobilized|Immobilized]] as long as the source of their self-loathing is apparent, until they're attacked, or until they see their murderer."
 
   - name: "Sense Murderer"
     desc: " (detection,occult) A pale stranger knows the direction of their murderer (as long as both are on the same plane), but not the distance."
@@ -73,14 +75,20 @@ attacks:
     desc: "`pf2:1` Flintlock Pistol +24 (concussive, fatal d8, range increment 40 feet)\n__Damage__  2d4 + 6 piercing plus bullets-of-vengeance"
 
   - name: "Bullets of Vengeance"
-    desc: " (occult) Shots from a pale stranger's firearms deal an additional 1d6 precision damage, or 2d6 precision damage against the one who murdered them. A creature who has never killed a living being doesn't take this precision damage. When a pale stranger critically succeeds at a ranged Strike with a pistol, the target must succeed at a DC 29 Fortitude check save or be [[Conditions/Stunned 1|Stunned 1]]."
+    desc: " (occult) Shots from a pale stranger's firearms deal an additional 1d6 precision damage, or 2d6 precision damage against the one who murdered them. A creature who has never killed a living being doesn't take this precision damage. When a pale stranger critically succeeds at a ranged Strike with a pistol, the target must succeed at a DC 29 Fortitude check save or be [[Conditions/Stunned|Stunned 1]]."
 
   - name: "Dead Shot"
-    desc: "`pf2:2`  **Frequency** once per turn\n**Requirements** The pale stranger is wielding two loaded firearms\n**Effect** The pale stranger takes aim at a target and shoots both of their firearms simultaneously. The pale stranger makes two ranged Strikes, one with each of the firearms, each using the pale stranger's current multiple attack penalty. Both Strikes must have the same target, who must be within the first range increment of both weapons.\nIf both attacks hit, combine their damage, and then add any other applicable effects from both weapons. The pale stranger adds any precision damage only once, to the attack of their choice. Combine the damage from both Strikes and apply resistances and weaknesses only once. This counts as two attacks when calculating the pale stranger's multiple attack penalty"
+    desc: "`pf2:2`  **Frequency** once per turn\n\n**Requirements** The pale stranger is wielding two loaded firearms\n* * *\n\n**Effect** The pale stranger takes aim at a target and shoots both of their firearms simultaneously. The pale stranger makes two ranged Strikes, one with each of the firearms, each using the pale stranger's current multiple attack penalty. Both Strikes must have the same target, who must be within the first range increment of both weapons.\n\nIf both attacks hit, combine their damage, and then add any other applicable effects from both weapons. The pale stranger adds any precision damage only once, to the attack of their choice. Combine the damage from both Strikes and apply resistances and weaknesses only once. This counts as two attacks when calculating the pale stranger's multiple attack penalty"
 
   - name: "Revenant Reload"
     desc: "`pf2:1` (occult) The pale stranger reloads each firearm they're wielding, supernaturally generating new black powder and bullets. When firing these magical bullets, the firearm can't misfire, and the attack doesn't trigger reactions triggered by ranged attacks."
  
+```
+
+```encounter-table
+name: Pale Stranger
+creatures:
+  - 1: Pale Stranger
 ```
 
 

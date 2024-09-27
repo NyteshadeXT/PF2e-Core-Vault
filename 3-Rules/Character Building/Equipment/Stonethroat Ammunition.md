@@ -37,7 +37,7 @@ Each piece of stonethroat ammunition is tipped with an unusual yellow stone. Whe
 
 **Failure** The ammunition embeds itself deep in the target's throat. The target can't use its jaws or fangs Strike (if it has one) or the Swallow Whole ability until the end of its next turn.
 
-**Critical Failure** As failure, and the target is [[Conditions/Enfeebled 1|Enfeebled 2]] for 1 round.
+**Critical Failure** As failure, and the target is [[Conditions/Enfeebled|Enfeebled 2]] for 1 round.
 
 *Source: Pathfinder Lost Omens: The Grand Bazaar*
 *OGL*

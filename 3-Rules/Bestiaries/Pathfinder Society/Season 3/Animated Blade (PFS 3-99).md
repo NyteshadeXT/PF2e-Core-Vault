@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.pfs-season-3-bestiary.Actor.ZzH4EqJtWIhaNWSv"
 tags:
   - pf2e/creature/type/construct
   - pf2e/creature/type/mindless
+  - pf2eMonster
   - pf2e/creature/level/-1
 statblock: inline
 name: "Animated Blade (PFS 3-99)"
@@ -21,15 +22,16 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Society Special #3-99: Fate in the Future"
 name: "Animated Blade (PFS 3-99)"
 level: "Creature -1"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Small"
-trait_01: "construct"
-trait_02: "mindless"
+trait_01: [[construct]]
+trait_02: [[mindless]]
 modifier: 3
 perception:
   - name: "Perception"
     desc: "+3; Darkvision"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Athletics: +5"
@@ -59,6 +61,12 @@ attacks:
   - name: "Melee"
     desc: "`pf2:1` Shortsword +6 (agile, magical, versatile s)\n__Damage__  1d6 piercing"
  
+```
+
+```encounter-table
+name: Animated Blade (PFS 3-99)
+creatures:
+  - 1: Animated Blade (PFS 3-99)
 ```
 
 

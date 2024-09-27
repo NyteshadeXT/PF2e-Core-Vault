@@ -8,19 +8,19 @@ tags:
 ---
 # Bell Ringer
 
-> **Crit Effect:** The target is [[Conditions/Sickened 1|Sickened 2]], and it is [[Conditions/Stupefied 1|Stupefied 2]] until it is no longer sickened.
+> **Crit Effect:** The target is [[Conditions/Sickened|Sickened 2]], and it is [[Conditions/Stupefied|Stupefied 2]] until it is no longer sickened.
 
 `Bludgeoning`
 
 # Skewered
 
-> Triple damage. **Crit Effect:** The target is [[Conditions/Slowed 1|Slowed 1]] for 1 round.
+> Triple damage. **Crit Effect:** The target is [[Conditions/Slowed|Slowed 1]] for 1 round.
 
 `Piercing`
 
 # Momentum
 
-> You gain a [[Other Effects/Effect\_ +2 circumstance bonus to attack rolls|+2 circumstance bonus to attack rolls]] until the end of your next turn.
+> You gain a [[Other Effects/Effect_ +2 circumstance bonus to attack rolls|+2 circumstance bonus to attack rolls]] until the end of your next turn.
 
 `Slashing`
 

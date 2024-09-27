@@ -14,7 +14,7 @@ license: OGL
 ---
 # Double-Barreled Musket
 ## Item 1
-### [uncommon](uncommon "Uncommon Rarity Trait")[[concussive]][[double-barrel]][[fatal-d10]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[concussive]][[double-barrel]][[fatal-d10]]
 
 |  |  |
 | -- | -- |

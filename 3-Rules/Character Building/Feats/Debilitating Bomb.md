@@ -7,10 +7,11 @@ tags:
   - trait/alchemist
   - trait/common
   - category/class
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.sv4LeEbkOJyLen10"
-license: OGL
+license: ORC
 ---
-# Debilitating Bomb `pf2:0`
+# Debilitating Bomb
 ## Feat 6
 ### [[additive2]][[alchemist]]
 
@@ -19,15 +20,7 @@ license: OGL
 
 
 
-**Frequency** once per round
+You can add a crystalline additive to an alchemical bomb to have it undermine your enemy. Choose [[Conditions/Dazzled|Dazzled]], [[Conditions/Deafened|Deafened]], [[Conditions/Off-Guard|Off-Guard]], or a –5-foot status penalty to Speeds. If the attack with the bomb hits, in addition to the bomb's normal effects, the target must succeed at a `Fortitude check` saving throw or take that effect until the start of your next turn. Use your class DC for this saving throw, even if someone else throws the bomb.
 
-**Trigger** You use [[Class Features/Quick Alchemy|Quick Alchemy]] to craft an alchemical bomb that is at least 2 levels lower than your advanced alchemy level.
-
-* * *
-
-Your bombs impose additional effects on your enemies. You mix a substance into the bomb that causes one of the following: [[Conditions/Dazzled|Dazzled]], [[Conditions/Deafened|Deafened]], [[Conditions/Off-Guard|Off-Guard]], or a -5-foot status penalty to Speeds.
-
-If the attack with that bomb hits, the target must succeed at a Fortitude saving throw or suffer that effect until the start of your next turn. Use your class DC for this saving throw (even if someone else throws the bomb).
-
-*Source: Pathfinder Core Rulebook*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

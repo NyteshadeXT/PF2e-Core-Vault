@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/aberration
   - pf2e/creature/type/amphibious
   - pf2e/creature/type/evil
+  - pf2eMonster
   - pf2e/creature/level/10
 statblock: inline
 name: "Languid Isqulug"
@@ -22,12 +23,12 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Society Scenario #3-15: Cavern of Sundered Songs"
 name: "Languid Isqulug"
 level: "Creature 10"
-rare_03: "Rare"
+rare_03: [[Rare]]
 alignment: ""
 size: "Medium"
-trait_01: "aberration"
-trait_02: "amphibious"
-trait_03: "evil"
+trait_01: [[aberration]]
+trait_02: [[amphibious]]
+trait_03: [[evil]]
 modifier: 22
 perception:
   - name: "Perception"
@@ -66,10 +67,10 @@ attacks:
     desc: "DC 28, attack +20; __6th __  _[[Spells/Tangling Creepers|Tangling Creepers]]_; __5th __  _[[Spells/Control Water|Control Water]]_, _[[Spells/Entangling Flora|Entangle (At will)]]_, _[[Spells/Mirage|Hallucinatory Terrain]]_, _[[Spells/Mist|Obscuring Mist (At will)]]_; __4th __  _[[Spells/Fly|Fly]]_\n__Cantrips__  __(5th)__ _[[Compendium.pf2e.spells-srd.Item.kl2q6JvBZwed4B6v|Dancing Lights]]_\n__Constant__  __(1st)__ _[[Spells/Vanishing Tracks|Pass Without Trace]]_"
 
   - name: "Expel Infestation"
-    desc: "`pf2:2`  The isqulug expels larvae from the hivemind in its head in a 30-foot cone. Creatures in this area take 5d10 piercing damage as the swarm feeds on their flesh (DC 28 Reflex check save). Any creature that takes damage is exposed to isqulugia.\nThe isqulug becomes [[Conditions/Stupefied 1|Stupefied 1]] for 1d4 rounds, during which it can't Expel Infestation."
+    desc: "`pf2:2`  The isqulug expels larvae from the hivemind in its head in a @Template[cone|distance:30]. Creatures in this area take 5d10 piercing damage as the swarm feeds on their flesh (DC 28 Reflex check save). Any creature that takes damage is exposed to isqulugia.\n\nThe isqulug becomes [[Conditions/Stupefied|Stupefied 1]] for 1d4 rounds, during which it can't Expel Infestation."
 
   - name: "Isqulugia"
-    desc: " (disease,incapacitation,primal,virulent) Isqulugia's [[Conditions/Sickened 1|Sickened]], [[Conditions/Slowed 1|Slowed]], and [[Conditions/Paralyzed|Paralyzed]] conditions can't be removed until this affliction is removed\n**Saving Throw** DC 28 Fortitude check\n**Stage 1** [[Conditions/Sickened 1|Sickened 1]] (1 hour)\n**Stage 2** [[Conditions/Fatigued|Fatigued]] and [[Conditions/Sickened 1|Sickened 2]] (1 day)\n**Stage 3** fatigued and [[Conditions/Slowed 1|Slowed 1]] (1 day)\n**Stage 4** [[Conditions/Paralyzed|Paralyzed]] (1 day)\n**Stage 5** the creature dies, and its body violently transforms into a new isqulug. [[Spells/Wish|Wish]], similar magic, or a 9th-rank [[Spells/Resurrect|Resurrect]] ritual can return the victim to life. The new isqulug remains even if the victim is brought back to life."
+    desc: " (disease,incapacitation,primal,virulent) Isqulugia's [[Conditions/Sickened|Sickened]], [[Conditions/Slowed|Slowed]], and [[Conditions/Paralyzed|Paralyzed]] conditions can't be removed until this affliction is removed\n\n**Saving Throw** DC 28 Fortitude check\n\n**Stage 1** [[Conditions/Sickened|Sickened 1]] (1 hour)\n\n**Stage 2** [[Conditions/Fatigued|Fatigued]] and [[Conditions/Sickened|Sickened 2]] (1 day)\n\n**Stage 3** fatigued and [[Conditions/Slowed|Slowed 1]] (1 day)\n\n**Stage 4** [[Conditions/Paralyzed|Paralyzed]] (1 day)\n\n**Stage 5** the creature dies, and its body violently transforms into a new isqulug. [[Spells/Wish|Wish]], similar magic, or a 9th-rank [[Spells/Resurrect|Resurrect]] ritual can return the victim to life. The new isqulug remains even if the victim is brought back to life."
 
   - name: "Malleability"
     desc: "  The isqulug can [[Actions/Squeeze|Squeeze]] through tight spaces as if it were a Small creature. While Squeezing, it can move at its full Speed. The isqulug can even Squeeze through spaces that typically fit only a Tiny creature, but does so at the standard speed for Squeezing."
@@ -77,6 +78,12 @@ attacks:
   - name: "Swamp Stride"
     desc: "  An isqulug ignores difficult terrain that's caused by typical features of swamps."
  
+```
+
+```encounter-table
+name: Languid Isqulug
+creatures:
+  - 1: Languid Isqulug
 ```
 
 

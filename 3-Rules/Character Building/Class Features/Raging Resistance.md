@@ -6,12 +6,13 @@ tags:
   - trait/barbarian
   - trait/common
   - category/classfeature
+  - remaster
 aliases: "Compendium.pf2e.classfeatures.Item.ie6xDX9GMEcA2Iuq"
-license: OGL
+license: ORC
 ---
 # Raging Resistance
 ## Feat 9
-### [[barbarian]]
+### [[3-Rules/trait_reference/barbarian]]
 
 **Category** classfeature; 
 
@@ -22,5 +23,5 @@ Repeated exposure and toughened skin allow you to fend off harm. While raging, y
 
 See specific instincts for more information.
 
-*Source: Pathfinder Advanced Player's Guide*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

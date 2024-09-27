@@ -5,6 +5,7 @@ noteType: pf2eHazard
 tags:
   - magical
   - trap
+  - pf2eHazard
   - complex
 source: Pathfinder #188: They Watched the Stars
 aliases: "Compendium.pf2e.gatewalkers-bestiary.Actor.tWT89vRMBNtU2i5y" 
@@ -22,14 +23,14 @@ name: "Freezing Floor"
 level: "Hazard 8"
 
 trait_06: "Complex"
-trait_01: "magical"
-trait_02: "trap"
+trait_01: [[magical]]
+trait_02: [[trap]]
 modifier: 16
 sourcebook: "_Pathfinder #188: They Watched the Stars_"
 ac: 27
 armorclass:
   - name: AC
-    desc: "27; __Fort__ +13, __Ref__ +17, __Will__ +0"
+    desc: "27; __Fort__ +13, __Ref__ +17, "
 hp: 56
 health:
   - name: ""
@@ -51,16 +52,22 @@ attacks:
   - name: ""
 
   - name: "Cold Snap"
-    desc: "`pf2:r` **Trigger** A creature steps on the white bricks\n**Effect** The trap makes a frost jet Strike against the triggering creature and rolls initiative."
+    desc: "`pf2:r` **Trigger** A creature steps on the white bricks\n* * *\n\n**Effect** The trap makes a frost jet Strike against the triggering creature and rolls initiative."
   - name: "Melee"
     desc: "Frost Jet +20 () No multiple attack penalty."
 
   - name: "Frostbite"
-    desc: "passive A creature that takes persistent cold damage from the trap's frost jet Strike must attempt a DC 18 Fortitude check save.\n**Critical Success** The creature isn't affected and is immune to this frostbite effect for 24 hours.\n**Success** The creature isn't affected.\n**Failure** The creature can't stop shivering and becomes [[Conditions/Clumsy 1|Clumsy 1]].\n**Critical Failure** As failure, and the creature becomes [[Conditions/Fatigued|Fatigued]]."
+    desc: "passive A creature that takes persistent cold damage from the trap's frost jet Strike must attempt a DC 18 Fortitude check save.\n* * *\n\n**Critical Success** The creature isn't affected and is immune to this frostbite effect for 24 hours.\n\n**Success** The creature isn't affected.\n\n**Failure** The creature can't stop shivering and becomes [[Conditions/Clumsy|Clumsy 1]].\n\n**Critical Failure** As failure, and the creature becomes [[Conditions/Fatigued|Fatigued]]."
 
   - name: "Routine"
     desc: "(3 actions) With each action, the trap attempts a frost jet Strike against any creature standing on the white bricks. The trap loses 1 action per disabled or dispelled rune."
   - name: "Reset"
     desc: "The trap deactivates and resets after 1 minute."
+```
+
+```encounter-table
+name: Freezing Floor
+creatures:
+  - 1: Freezing Floor
 ```
 

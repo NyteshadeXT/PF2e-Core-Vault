@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/chaotic
   - pf2e/creature/type/evil
   - pf2e/creature/type/fey
+  - pf2eMonster
   - pf2e/creature/level/20
 statblock: inline
 name: "Tatterthread"
@@ -22,20 +23,20 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #174: Shadows of the Ancients"
 name: "Tatterthread"
 level: "Creature 20"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Large"
-trait_01: "chaotic"
-trait_02: "evil"
-trait_03: "fey"
+trait_01: [[chaotic]]
+trait_02: [[evil]]
+trait_03: [[fey]]
 modifier: 39
 perception:
   - name: "Perception"
     desc: "+39; Greater Darkvision, Lifesense 120 Feet, Truesight"
-languages: "Common, Jotun"
+languages: "Common, Jotun; tongues"
 skills:
   - name: "Skills"
-    desc: "Deception: +35, Intimidation: +37, Lore (all): +32, Occultism: +38, Religion: +32, Stealth: +36, Thievery: +34"
+    desc: "Deception: +35, Intimidation: +37, Occultism: +38, Religion: +32, Stealth: +36, Thievery: +34, Lore (all): +32"
 abilityMods: [7, 6, 7, 10, 6, 7]
 speed: 35 feet,  fly 35 feet
 sourcebook: "_Pathfinder #174: Shadows of the Ancients_"
@@ -75,14 +76,20 @@ attacks:
     desc: "  When a creature is subject to a fortune effect from a norn and a misfortune effect from any source other than a norn (or vice versa), the norn's effect automatically counteracts the other effect and then takes place normally, rather than the two effects canceling each other out. If both the fortune and misfortune effect are from a norn, then the two cancel each other out as normal. At the GM's discretion, powerful entities related to fate or luck, like Desna, Magdh, or Pharasma, count as a norn for the purpose of this ability."
 
   - name: "Shadow Corrosion"
-    desc: " (acid,occult) When Tatterthread deals acid damage with a Strike, she regains 10 Hit Points. The target must succeed at a DC 39 Fortitude check save or become [[Conditions/Doomed 1|Doomed 1]] ([[Conditions/Doomed 1|Doomed 2]] on a critical failure)."
+    desc: " (acid,occult) When Tatterthread deals acid damage with a Strike, she regains 10 Hit Points. The target must succeed at a DC 39 Fortitude check save or become [[Conditions/Doomed|Doomed 1]] ([[Conditions/Doomed|Doomed 2]] on a critical failure)."
 
   - name: "Shadow Snip"
-    desc: "`pf2:2` (acid,death,manipulate,occult) **Frequency** three times per day\n**Effect** Tatterthread produces a scrap of shadow linked to the fate of a creature within 100 feet of her, then snips it with her caustic shears. The target takes 100 acid damage (DC 42 Fortitude check). If the target is reduced to 0 Hit Points from this damage, it melts into a puddle of fetid acid and dies immediately. If the target failed the saving throw, it loses any acid resistance it has for 1 minute (1 day on a critical failure). A creature slain by Shadow Snip can't be restored to life except by miracle, wish, or similarly powerful magic, or by divine intervention. Regardless of the outcome of its save, a creature targeted by Shadow Snip becomes temporarily immune for 24 hours. The norn can't use Shadow Snip again for 1d4 rounds."
+    desc: "`pf2:2` (acid,death,manipulate,occult) **Frequency** three times per day\n* * *\n\n**Effect** Tatterthread produces a scrap of shadow linked to the fate of a creature within 100 feet of her, then snips it with her caustic shears. The target takes 100 acid damage (DC 42 Fortitude check). If the target is reduced to 0 Hit Points from this damage, it melts into a puddle of fetid acid and dies immediately. If the target failed the saving throw, it loses any acid resistance it has for 1 minute (1 day on a critical failure). A creature slain by Shadow Snip can't be restored to life except by miracle, wish, or similarly powerful magic, or by divine intervention. Regardless of the outcome of its save, a creature targeted by Shadow Snip becomes temporarily immune for 24 hours. The norn can't use Shadow Snip again for 1d4 rounds."
 
   - name: "Shift Fate"
-    desc: "`pf2:r` (occult) **Trigger** A creature within 120 feet attempts a saving throw\n**Effect** The creature rolls the save twice, and then Tatterthread decides which result applies. If she chooses the lower roll, this is a misfortune effect; if she chooses the higher roll, it's a fortune effect; if they're the same, she decides which trait to apply."
+    desc: "`pf2:r` (occult) **Trigger** A creature within 120 feet attempts a saving throw\n* * *\n\n**Effect** The creature rolls the save twice, and then Tatterthread decides which result applies. If she chooses the lower roll, this is a misfortune effect; if she chooses the higher roll, it's a fortune effect; if they're the same, she decides which trait to apply."
  
+```
+
+```encounter-table
+name: Tatterthread
+creatures:
+  - 1: Tatterthread
 ```
 
 

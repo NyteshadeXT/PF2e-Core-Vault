@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/elemental
   - pf2e/creature/type/evil
   - pf2e/creature/type/fire
+  - pf2eMonster
   - pf2e/creature/level/21
 statblock: inline
 name: "Lerritan"
@@ -27,10 +28,10 @@ level: "Creature 21"
 
 alignment: ""
 size: "grg"
-trait_01: "earth"
-trait_02: "elemental"
-trait_03: "evil"
-trait_04: "fire"
+trait_01: [[earth]]
+trait_02: [[elemental]]
+trait_03: [[evil]]
+trait_04: [[fire]]
 modifier: 35
 perception:
   - name: "Perception"
@@ -76,14 +77,20 @@ attacks:
     desc: "`pf2:1` Rock +39 (brutal, range increment 120 feet)\n__Damage__  4d6 + 18 bludgeoning 2d6 fire"
 
   - name: "Primal Innate Spells"
-    desc: "DC 46, attack +36; __10th __ (1 slots) _[[Spells/Cataclysm|Cataclysm]]_; __9th __ (2 slots) _[[Spells/Fireball|Fireball]]_, _[[Spells/Falling Stars|Meteor Swarm]]_; __8th __ (1 slots) _[[Spells/Earthquake|Earthquake]]_; __7th __ (1 slots) _[[Spells/Interplanar Teleport|Plane Shift (To the Material Plane, Plane of Fire, or Plane of Earth only)]]_\n__Cantrips__  __(1st)__ _[[Spells/Produce Flame|Produce Flame]]_"
+    desc: "DC 46, attack +36; __10th __ (1 slots) _[[Spells/Cataclysm|Cataclysm]]_; __9th __ (2 slots) _[[Spells/Fireball|Fireball]]_, _[[Spells/Falling Stars|Meteor Swarm]]_; __8th __ (1 slots) _[[Spells/Earthquake|Earthquake]]_; __7th __ (1 slots) _[[Spells/Interplanar Teleport|Plane Shift (To the Material Plane, Plane of Fire, or Plane of Earth only)]]_\n__Cantrips__  __(10th)__ _[[Spells/Produce Flame|Produce Flame]]_"
 
   - name: "[[Bestiary Ability Glossary/Throw Rock|Throw Rock]]"
-    desc: "`pf2:1`  A lerritan can break stony scales off its body to throw; these scales reform at the end of each round, so the lerritan is never without a supply of rocks to hurl.\n"
+    desc: "`pf2:1`  A lerritan can break stony scales off its body to throw; these scales reform at the end of each round, so the lerritan is never without a supply of rocks to hurl.\n\n* * *\n"
 
   - name: "Volcanic Eruption"
-    desc: "`pf2:2` (earth,fire,primal) The volcano on the lerritan's back erupts and sends lava bombs raining down in a 30-foot emanation, dealing 12d12 fire damage.\nEach creature in the area must attempt a DC 46 Reflex check saving throw. The lava globules quickly cool into heavy stones, transforming the area into greater difficult terrain for non-lerritans.\nThe lerritan can't use for 1d4 rounds.\n**Critical Success** The creature is unaffected.\n**Success** The creature takes half damage and is [[Conditions/Encumbered|Encumbered]] for 1 round.\n**Failure** The creature takes full damage and is [[Conditions/Immobilized|Immobilized]] (Escape DC 46).\n**Critical Failure** The creature takes double damage and is encased in a rocky crust with lava on the inside. The creature is [[Conditions/Restrained|Restrained]] (Escape DC 46), can't breathe, takes 3d12 persistent fire damage, and can't recover from this persistent fire damage until freed."
+    desc: "`pf2:2` (earth,fire,primal) The volcano on the lerritan's back erupts and sends lava bombs raining down in a @Template[emanation|distance:30], dealing 12d12 fire damage.\n\nEach creature in the area must attempt a DC 46 Reflex check saving throw. The lava globules quickly cool into heavy stones, transforming the area into greater difficult terrain for non-lerritans.\n\nThe lerritan can't use for 1d4 rounds.\n* * *\n\n**Critical Success** The creature is unaffected.\n\n**Success** The creature takes half damage and is [[Conditions/Encumbered|Encumbered]] for 1 round.\n\n**Failure** The creature takes full damage and is [[Conditions/Immobilized|Immobilized]] (Escape DC 46).\n\n**Critical Failure** The creature takes double damage and is encased in a rocky crust with lava on the inside. The creature is [[Conditions/Restrained|Restrained]] (Escape DC 46), can't breathe, takes 3d12 persistent fire damage, and can't recover from this persistent fire damage until freed."
  
+```
+
+```encounter-table
+name: Lerritan
+creatures:
+  - 1: Lerritan
 ```
 
 

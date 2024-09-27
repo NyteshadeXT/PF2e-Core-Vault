@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.kingmaker-bestiary.Actor.3xHHKI7PGQN218aL"
 tags:
   - pf2e/creature/type/human
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/6
 statblock: inline
 name: "Eobald"
@@ -21,11 +22,11 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Kingmaker"
 name: "Eobald"
 level: "Creature 6"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Medium"
-trait_01: "human"
-trait_02: "humanoid"
+trait_01: [[human]]
+trait_02: [[humanoid]]
 modifier: 11
 perception:
   - name: "Perception"
@@ -33,7 +34,7 @@ perception:
 languages: "Common, Dwarven, Fey, Halfling, Hallit"
 skills:
   - name: "Skills"
-    desc: "Academia Lore: +13, Arcana: +13, Crafting: +11, Nature: +11, Occultism: +13, Performance: +12, Society: +11"
+    desc: "Arcana: +13, Crafting: +11, Nature: +11, Occultism: +13, Performance: +12, Society: +11, Academia Lore: +13"
 abilityMods: [0, 1, 2, 4, 2, 3]
 speed: 25 feet
 sourcebook: "_Pathfinder Kingmaker_"
@@ -64,6 +65,12 @@ attacks:
   - name: "Wizard School Spells"
     desc: "1 Focus Point, DC 22, attack +14; __3rd __  _[[Spells/Warped Terrain|Warped Terrain]]_"
  
+```
+
+```encounter-table
+name: Eobald
+creatures:
+  - 1: Eobald
 ```
 
 

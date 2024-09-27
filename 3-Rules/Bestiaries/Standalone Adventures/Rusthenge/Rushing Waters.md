@@ -5,6 +5,7 @@ noteType: pf2eHazard
 tags:
   - magical
   - trap
+  - pf2eHazard
 
 source: Pathfinder Adventure: Rusthenge
 aliases: "Compendium.pf2e.rusthenge-bestiary.Actor.33irjDlbW0pXhxiS" 
@@ -22,8 +23,8 @@ name: "Rushing Waters"
 level: "Hazard 3"
 
 
-trait_01: "magical"
-trait_02: "trap"
+trait_01: [[magical]]
+trait_02: [[trap]]
 modifier: 10
 sourcebook: "_Pathfinder Adventure: Rusthenge_"
 perception:
@@ -42,10 +43,16 @@ attacks:
   - name: ""
 
   - name: "Spherical Deluge"
-    desc: "`pf2:r` (arcane, water) **Trigger** A creature enters the area south of the ring of stones marked on the map\n**Effect** A deluge of water rises up from the ring of stones, then flows forcefully down the passageway to drain into the pit at area **F1b**. Large and smaller creatures in the water's path must attempt a DC 20 Fortitude check save. The rushing waters vanish instantly upon striking the pit floor, but do leave everything down there sopping wet.\n**Critical Success** The creature withstands the force of the rushing waters and is unaffected.\n**Success** The creature takes 1d10 bludgeoning damage as the rushing waters slam them into a cave wall.\n**Failure** The creature is knocked [[Conditions/Prone|Prone]] by the rushing waters, takes 1d10 + 6 bludgeoning damage, and is pushed by the water to the spiky pit trap and triggers the trap.\n**Critical Failure** As failure, but the creature can't attempt to [[Actions/Grab an Edge|Grab an Edge]] if they fall into the spiky pit trap."
+    desc: "`pf2:r` (arcane, water) **Trigger** A creature enters the area south of the ring of stones marked on the map\n* * *\n\n**Effect** A deluge of water rises up from the ring of stones, then flows forcefully down the passageway to drain into the pit at area **F1b**. Large and smaller creatures in the water's path must attempt a DC 20 Fortitude check save. The rushing waters vanish instantly upon striking the pit floor, but do leave everything down there sopping wet.\n* * *\n\n**Critical Success** The creature withstands the force of the rushing waters and is unaffected.\n\n**Success** The creature takes 1d10 bludgeoning damage as the rushing waters slam them into a cave wall.\n\n**Failure** The creature is knocked [[Conditions/Prone|Prone]] by the rushing waters, takes 1d10+6 bludgeoning damage, and is pushed by the water to the spiky pit trap and triggers the trap.\n\n**Critical Failure** As failure, but the creature can't attempt to [[Actions/Grab an Edge|Grab an Edge]] if they fall into the spiky pit trap."
 
 
   - name: "Reset"
     desc: "The magic rejuvenates over 10 minutes, after which it is recharged and ready to activate again."
+```
+
+```encounter-table
+name: Rushing Waters
+creatures:
+  - 1: Rushing Waters
 ```
 

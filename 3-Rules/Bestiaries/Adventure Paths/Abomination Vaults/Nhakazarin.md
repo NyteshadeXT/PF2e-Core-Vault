@@ -10,6 +10,7 @@ tags:
   - pf2e/creature/type/ghoul
   - pf2e/creature/type/undead
   - pf2e/creature/type/unholy
+  - pf2eMonster
   - pf2e/creature/level/5
 statblock: inline
 name: "Nhakazarin"
@@ -24,14 +25,14 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #163: Ruins of Gauntlight"
 name: "Nhakazarin"
 level: "Creature 5"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Medium"
-trait_01: "chaotic"
-trait_02: "evil"
-trait_03: "ghoul"
-trait_04: "undead"
-trait_05: "unholy"
+trait_01: [[chaotic]]
+trait_02: [[evil]]
+trait_03: [[ghoul]]
+trait_04: [[undead]]
+trait_05: [[unholy]]
 modifier: 10
 perception:
   - name: "Perception"
@@ -77,13 +78,13 @@ attacks:
     desc: "1 Focus Point, DC 22, attack +14; __3rd __ (1 slots) _[[Spells/Touch of Undeath|Touch of Undeath]]_"
 
   - name: "[[Creature Family Ability Glossary/(Ghoul) Consume Flesh|Consume Flesh]]"
-    desc: "`pf2:1` (manipulate) **Requirements** Nhakazarin is adjacent to the corpse of a creature that died within the last hour.\n**Effect** Nhakazarin devours a chunk of the corpse and regains 3d6 Hit Points.\nNhakazarin can regain Hit Points from any given corpse only once."
+    desc: "`pf2:1` (manipulate) **Requirements** Nhakazarin is adjacent to the corpse of a creature that died within the last hour.\n* * *\n\n**Effect** Nhakazarin devours a chunk of the corpse and regains 3d6 Hit Points.\n\nNhakazarin can regain Hit Points from any given corpse only once."
 
   - name: "[[Creature Family Ability Glossary/(Ghoul) Consume Flesh|Consume Masterpiece]]"
-    desc: "`pf2:1` (manipulate) **Requirements** Nhakazarin is adjacent to the rotting statue of Belcorra in area **C34**\n**Effect** Nhakazarin devours a chunk of flesh from the statue and regains 3d6 Hit Points and is [[Conditions/Quickened|Quickened 1]] for 1 round. She can use this extra action only to make a jaws Strike or Cast a Spell.\nShe can feed from the statue only once each day."
+    desc: "`pf2:1` (manipulate) **Requirements** Nhakazarin is adjacent to the rotting statue of Belcorra in area **C34**\n* * *\n\n**Effect** Nhakazarin devours a chunk of flesh from the statue and regains 3d6 Hit Points and is [[Conditions/Quickened|Quickened 1]] for 1 round. She can use this extra action only to make a jaws Strike or Cast a Spell.\n\nShe can feed from the statue only once each day."
 
   - name: "[[Creature Family Ability Glossary/(Ghoul) Ghoul Fever|Ghoul Fever]]"
-    desc: " (disease) **Saving Throw** DC 22 Fortitude check\n**Stage 1** carrier with no ill effect (1 day)\n**Stage 2** 2d6 void damage and regains half as many Hit Points from all healing (1 day)\n**Stage 3** as stage 2 (1 day)\n**Stage 4** 2d6 void damage and gains no benefit from healing (1 day)\n**Stage 5** as stage 4 (1 day)\n**Stage 6** dead, and rises as a [[Bestiary 1/Ghoul|Ghoul]] the next midnight."
+    desc: " (disease) **Saving Throw** DC 22 Fortitude check\n* * *\n\n**Stage 1** carrier with no ill effect (1 day)\n\n**Stage 2** 2d6 void damage and regains half as many Hit Points from all healing (1 day)\n\n**Stage 3** as stage 2 (1 day)\n\n**Stage 4** 2d6 void damage and gains no benefit from healing (1 day)\n\n**Stage 5** as stage 4 (1 day)\n\n**Stage 6** dead, and rises as a [[Bestiary 1/Ghoul|Ghoul]] the next midnight."
 
   - name: "[[Creature Family Ability Glossary/(Ghoul) Paralysis|Paralysis]]"
     desc: " (incapacitation,occult) Any living, non-elf creature hit by a ghoul's attack must succeed at a DC 22 Fortitude check save or become [[Conditions/Paralyzed|Paralyzed]]. It can attempt a new save at the end of each of its turns, and the DC cumulatively decreases by 1 on each such save."
@@ -91,6 +92,12 @@ attacks:
   - name: "[[Creature Family Ability Glossary/(Ghoul) Swift Leap|Swift Leap]]"
     desc: "`pf2:1` (move) Nhakazarin jumps up to half her Speed. This movement doesn't trigger reactions."
  
+```
+
+```encounter-table
+name: Nhakazarin
+creatures:
+  - 1: Nhakazarin
 ```
 
 

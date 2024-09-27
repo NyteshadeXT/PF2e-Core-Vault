@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/chaotic
   - pf2e/creature/type/human
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/2
 statblock: inline
 name: "Bandit Disciple (3-4)"
@@ -25,9 +26,9 @@ level: "Creature 2"
 
 alignment: ""
 size: "Medium"
-trait_01: "chaotic"
-trait_02: "human"
-trait_03: "humanoid"
+trait_01: [[chaotic]]
+trait_02: [[human]]
+trait_03: [[humanoid]]
 modifier: 5
 perception:
   - name: "Perception"
@@ -67,8 +68,14 @@ attacks:
     desc: "  The bandit disciple deals an extra 1d4 precision damage to [[Conditions/Blinded|Blinded]] creatures."
 
   - name: "Dirty Trick"
-    desc: "`pf2:2` (visual) **Requirements** A bandit disciple is holding a pouch of fine sand.\n**Effect** The disciple Strides. If they end their movement adjacent to an enemy, they can make a Deception check check against that enemy's Perception DC.\n**Critical Success** As success, and the enemy also takes 2 extra precision damage.\n**Success** The enemy takes 1d4 piercing damage and is [[Conditions/Blinded|Blinded]] for 1 round.\n**Failure** No effect.\n**Critical Failure** The bandit disciple drops their pouch of fine sand, spilling and rendering it useless."
+    desc: "`pf2:2` (visual) **Requirements** A bandit disciple is holding a pouch of fine sand.\n* * *\n\n**Effect** The disciple Strides. If they end their movement adjacent to an enemy, they can make a Deception check check against that enemy's Perception DC.\n* * *\n\n**Critical Success** As success, and the enemy also takes 2 extra precision damage.\n\n**Success** The enemy takes 1d4 piercing damage and is [[Conditions/Blinded|Blinded]] for 1 round.\n\n**Failure** No effect.\n\n**Critical Failure** The bandit disciple drops their pouch of fine sand, spilling and rendering it useless."
  
+```
+
+```encounter-table
+name: Bandit Disciple (3-4)
+creatures:
+  - 1: Bandit Disciple (3-4)
 ```
 
 

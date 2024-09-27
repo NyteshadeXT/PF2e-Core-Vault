@@ -15,7 +15,7 @@ license: ORC
 ---
 # Elven Curve Blade
 ## Item 0
-### [uncommon](uncommon "Uncommon Rarity Trait")[[elf]][[finesse]][[forceful]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[3-Rules/trait_reference/elf]][[3-Rules/Rule References/Finesse]][[forceful]]
 
 |  |  |
 | -- | -- |

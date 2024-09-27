@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/fiend
   - pf2e/creature/type/unholy
+  - pf2eMonster
   - pf2e/creature/level/1
 statblock: inline
 name: "Cacaodaemon"
@@ -26,18 +27,18 @@ level: "Creature 1"
 
 alignment: ""
 size: "tiny"
-trait_01: "daemon"
-trait_02: "evil"
-trait_03: "fiend"
-trait_04: "unholy"
+trait_01: [[daemon]]
+trait_02: [[evil]]
+trait_03: [[fiend]]
+trait_04: [[unholy]]
 modifier: 2
 perception:
   - name: "Perception"
     desc: "+2; "
-languages: "Common, Daemonic"
+languages: "Common, Daemonic; telepathy 100 feet"
 skills:
   - name: "Skills"
-    desc: "Deception: +7 (+10 to appear as an inanimate object), Nature: +3, Religion: +4, Stealth: +5"
+    desc: "Deception: +7, Nature: +3, Religion: +4, Stealth: +5"
 abilityMods: [3, 1, 4, -2, 0, 1]
 speed: 5 feet,  fly 40 feet
 sourcebook: "_Pathfinder Blog: April Fool&#x27;s Bestiary_"
@@ -65,8 +66,14 @@ attacks:
     desc: "`pf2:1` Nib Teeth +9 (unholy)\n__Damage__  1d6 + 3 piercing plus bitter-heart"
 
   - name: "Bitter Heart"
-    desc: " (poison) The dissonance between the cacaodaemon's sweet scent and bitter inside drains the victim's spirit\n**Saving Throw** DC 17 Fortitude check\n**Maximum Duration** 6 rounds\n**Stage 1** 1d8 mental damage and [[Conditions/Off-Guard|Off-Guard]] (1 round).\n**Stage 2** 1d8 mental damage and [[Conditions/Stupefied 1|Stupefied 1]] (1 round)\n**Stage 3** 1d12 mental damage and [[Conditions/Stupefied 1|Stupefied 2]] (1 round)"
+    desc: " (poison) The dissonance between the cacaodaemon's sweet scent and bitter inside drains the victim's spirit\n\n**Saving Throw** DC 17 Fortitude check\n\n**Maximum Duration** 6 rounds\n\n**Stage 1** 1d8 mental damage and [[Conditions/Off-Guard|Off-Guard]] (1 round).\n\n**Stage 2** 1d8 mental damage and [[Conditions/Stupefied|Stupefied 1]] (1 round)\n\n**Stage 3** 1d12 mental damage and [[Conditions/Stupefied|Stupefied 2]] (1 round)"
  
+```
+
+```encounter-table
+name: Cacaodaemon
+creatures:
+  - 1: Cacaodaemon
 ```
 
 

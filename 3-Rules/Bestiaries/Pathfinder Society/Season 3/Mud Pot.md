@@ -5,6 +5,7 @@ noteType: pf2eHazard
 tags:
   - environmental
   - poison
+  - pf2eHazard
   - complex
 source: Pathfinder Society Scenario #3-10: Delve the Pallid Depths
 aliases: "Compendium.pf2e.pfs-season-3-bestiary.Actor.538nxlPKC93GXzZh" 
@@ -22,8 +23,8 @@ name: "Mud Pot"
 level: "Hazard 1"
 
 trait_06: "Complex"
-trait_01: "environmental"
-trait_02: "poison"
+trait_01: [[environmental]]
+trait_02: [[poison]]
 modifier: 8
 sourcebook: "_Pathfinder Society Scenario #3-10: Delve the Pallid Depths_"
 perception:
@@ -42,13 +43,19 @@ attacks:
   - name: ""
 
   - name: "Belch"
-    desc: "`pf2:r` **Trigger** A creature other than a sulfuric slime comes within 10 feet of the mud pot\n**Effect** The hazard rolls initiative as a gaseous cloud explodes out of the mud. The triggering creature takes 1d6 + 3 acid damage DC 17 Reflex check"
+    desc: "`pf2:r` **Trigger** A creature other than a sulfuric slime comes within 10 feet of the mud pot\n* * *\n\n**Effect** The hazard rolls initiative as a gaseous cloud explodes out of the mud. The triggering creature takes 1d6+3 acid damage DC 17 Reflex check"
 
   - name: "Sulfur Poisoning"
-    desc: "passive (poison) **Saving Throw** DC 16 Fortitude check\n**Maximum Duration** 4 rounds\n**Stage 1** 1d4 poison damage\n**Stage 2** 1d6 poison damage and [[Conditions/Sickened 1|Sickened 1]] (1 round)\n**Stage 3** 2d6 poison damage and [[Conditions/Sickened 1|Sickened2]] (1 round)"
+    desc: "passive (poison) **Saving Throw** DC 16 Fortitude check\n\n**Maximum Duration** 4 rounds\n\n**Stage 1** 1d4 poison damage\n\n**Stage 2** 1d6 poison damage and [[Conditions/Sickened|Sickened 1]] (1 round)\n\n**Stage 3** 2d6 poison damage and [[Conditions/Sickened|Sickened2]] (1 round)"
 
   - name: "Routine"
     desc: "(1 action) On its initiative, the mud pot belches a cloud of sickening sulfur into the small cavern. Creatures other than sulfuric slimes within 10 feet must succeed at a DC 16 Fortitude check save or be exposed to sulfur poisoning."
 
+```
+
+```encounter-table
+name: Mud Pot
+creatures:
+  - 1: Mud Pot
 ```
 

@@ -13,7 +13,7 @@ license: OGL
 ---
 # Body Recovery Kit
 ## Item 9
-### [uncommon](uncommon "Uncommon Rarity Trait")[[alchemical]][[consumable]][[healing]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[alchemical]][[consumable]][[healing]]
 
 **Category** other; 
 **Price** 101 gp; 

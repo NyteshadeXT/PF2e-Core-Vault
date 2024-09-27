@@ -6,8 +6,9 @@ tags:
   - trait/archetype
   - trait/common
   - category/class
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.4BbfHsGPRHPHfIGY"
-license: OGL
+license: ORC
 ---
 # Poultice Preparation
 ## Feat 4
@@ -23,5 +24,5 @@ When you create an herbal elixir, you can prepare it as a poultice instead. A po
 
 When you apply a poultice, in addition to the item's normal effects, the recipient can attempt an immediate flat check to recover from a single source of persistent acid, bleed, or fire damage, with the DC reduction from appropriate assistance.
 
-*Source: Pathfinder Advanced Player's Guide*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

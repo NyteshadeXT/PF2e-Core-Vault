@@ -12,7 +12,7 @@ license: ORC
 ---
 # Evasive Reflexes
 ## Feat 7
-### [[rogue]]
+### [[3-Rules/trait_reference/rogue]]
 
 **Category** classfeature; 
 

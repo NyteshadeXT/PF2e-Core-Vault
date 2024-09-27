@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/undead
   - pf2e/creature/type/unholy
+  - pf2eMonster
   - pf2e/creature/level/1
 statblock: inline
 name: "Festrog"
@@ -26,9 +27,9 @@ level: "Creature 1"
 
 alignment: ""
 size: "Medium"
-trait_01: "evil"
-trait_02: "undead"
-trait_03: "unholy"
+trait_01: [[evil]]
+trait_02: [[undead]]
+trait_03: [[unholy]]
 modifier: 6
 perception:
   - name: "Perception"
@@ -67,11 +68,17 @@ attacks:
     desc: "`pf2:1` Claw +9 (agile)\n__Damage__  1d4 + 4 slashing"
 
   - name: "Feast"
-    desc: "`pf2:1` (manipulate) **Requirements** The festrog's last action was a jaws Strike that damaged a living creature\n**Effect** The festrog tears into the creature's flesh and gulps it down voraciously, dealing 1d4 slashing damage to the creature and gaining temporary Hit Points equal to the damage dealt. These temporary HP last for 1 minute."
+    desc: "`pf2:1` (manipulate) **Requirements** The festrog's last action was a jaws Strike that damaged a living creature\n* * *\n\n**Effect** The festrog tears into the creature's flesh and gulps it down voraciously, dealing 1d4 slashing damage to the creature and gaining temporary Hit Points equal to the damage dealt. These temporary HP last for 1 minute."
 
   - name: "On All Fours"
-    desc: "`pf2:1`  **Requirements** The festrog has nothing in their hands\n**Effect** The festrog Strides with a +10-foot circumstance bonus to their Speed."
+    desc: "`pf2:1`  **Requirements** The festrog has nothing in their hands\n* * *\n\n**Effect** The festrog Strides with a +10-foot circumstance bonus to their Speed."
  
+```
+
+```encounter-table
+name: Festrog
+creatures:
+  - 1: Festrog
 ```
 
 

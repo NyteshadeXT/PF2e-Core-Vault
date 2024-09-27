@@ -1,15 +1,16 @@
 ---
-title: "Tatzlford Town Guard"
+title: Tatzlford Town Guard
 obsidianUIMode: preview
-noteType: pf2eMonster
+noteType: pf2eArmy
 cssClasses: pf2e
-aliases: "Compendium.pf2e.kingmaker-bestiary.Actor.CfSo8UrTJic4zroJ" 
 tags:
-  - pf2e/creature/level/7
-statblock: inline
-name: "Tatzlford Town Guard"
+  - pf2eArmy
+
+source: 
+aliases: "Compendium.pf2e.kingmaker-bestiary.Actor.CfSo8UrTJic4zroJ" 
 level: 7
 license: 
+statblock: inline
 ---
 
 ```statblock
@@ -18,39 +19,52 @@ forcecolumns: true
 layout: Basic Pathfinder 2e Layout
 source: ""
 name: "Tatzlford Town Guard"
-level: "Creature 7"
+level: "Army 7"
+
 
 alignment: ""
 size: "Medium"
-modifier: 
+trait_01: infantry
+modifier: 15
 perception:
-  - name: "Perception"
-    desc: "NaN; "
-skills:
-  - name: "Skills"
-    desc: ""
-abilityMods: [, , , , , ]
-speed: 
-sourcebook: "__"
-ac: 
+  - name: ""
+  - name: "Scouting"
+    desc: "+15"
+  - name: "Recruitment DC"
+    desc: "; __Consumption__ 1"
+  - name: "Description"
+    desc: "Tatzlford's town guards have been organized into an impromptu army, armed with longswords and led by Captain Coren Lawry."
+ac: 25
 armorclass:
   - name: AC
-    desc: "; __Fort__ NaN, __Ref__ NaN, __Will__ NaN"
+    desc: "25; __Maneuver__ +12, __Morale__ +18"
 hp: 5
 health:
   - name: ""
-  - name: HP
-    desc: "5"
+  - name: "HP"
+    desc: "5 (RT 2))"
 abilities_top:
   - name: ""
 
 abilities_mid:
   - name: ""
+  - name: "Melee"
+    desc: "Longwords +18"
+
 attacks:
   - name: ""
+
+  - name: "Hold the Line"
+    desc: "The army has trained to maintain position even in the face of overwhelming opponents. The army gains a +1 status bonus on Morale checks made to resist rout, and its Rout Threshold is equal to 1/4 it's total Hit Points (rounded up)."
+
+  - name: "Toughened Soldiers"
+    desc: "The army is particularly hardy. Increase its maximum Hit Points by 1. You can take this tactic multiple times; each time you do, increase the army's maximum Hit Points by 1."
  
 ```
 
-
-
+```encounter-table
+name: Tatzlford Town Guard
+creatures:
+  - 1: Tatzlford Town Guard
+```
 

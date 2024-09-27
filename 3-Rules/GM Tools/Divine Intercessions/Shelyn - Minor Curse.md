@@ -17,9 +17,9 @@ license: OGL
 
 
 
-**Minor Curse** You heart churns with remorse. Each day, you are [[Conditions/Sickened 1|Sickened 1]] as a specific misdeed plays out in your mind over and over in guilt.
+You heart churns with remorse. Each day, you are [[Conditions/Sickened|Sickened 1]] as a specific misdeed plays out in your mind over and over in guilt.
 
-You can't remove this condition, though it abates enough for you to quickly eat and drink when necessary. If you make amends or otherwise earnestly pursue redemption for the misdeed, the [[Conditions/Sickened 1|Sickened]] condition fades completely that day.
+You can't remove this condition, though it abates enough for you to quickly eat and drink when necessary. If you make amends or otherwise earnestly pursue redemption for the misdeed, the sickened condition fades completely that day.
 
 *Source: Pathfinder Lost Omens: Gods & Magic*
 *OGL*

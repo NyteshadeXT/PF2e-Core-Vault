@@ -6,8 +6,9 @@ tags:
   - trait/archetype
   - trait/common
   - category/class
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.bBORql3kKsSyXllk"
-license: OGL
+license: ORC
 ---
 # Monk's Flurry
 ## Feat 10
@@ -19,7 +20,7 @@ license: OGL
 
 **Prerequisites** Monk Dedication
 * * *
-You gain the [[Actions/Flurry of Blows|Flurry of Blows]] action.
+You gain the [[Actions/Flurry of Blows|Flurry of Blows]] action. Your fists' power, however, exceeds your conditioning; once you use Flurry of Blows, you can't use it again for 1d4 rounds as your muscles recover.
 
-*Source: Pathfinder Core Rulebook*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

@@ -6,6 +6,7 @@ cssClasses: pf2e
 aliases: "Compendium.pf2e.pathfinder-bestiary.Actor.m3x8q5rZ6zh9x82s" 
 tags:
   - pf2e/creature/type/construct
+  - pf2eMonster
   - pf2e/creature/level/19
 statblock: inline
 name: "Guthallath"
@@ -21,14 +22,15 @@ token: [[modules/pf2e-tokens-bestiaries/portraits/constructed/magical/guthallath
 source: "Pathfinder Bestiary"
 name: "Guthallath"
 level: "Creature 19"
-rare_03: "Rare"
+rare_03: [[Rare]]
 alignment: ""
 size: "grg"
-trait_01: "construct"
+trait_01: [[construct]]
 modifier: 30
 perception:
   - name: "Perception"
     desc: "+30; Darkvision, Truesight"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Acrobatics: +25, Athletics: +40"
@@ -68,17 +70,23 @@ attacks:
     desc: "DC 37, attack +29\n__Constant__  __(8th)__ _[[Spells/Truesight|True Seeing]]_ __(3rd)__ _[[Spells/Haste|Haste]]_"
 
   - name: "Annihilation Beams"
-    desc: "`pf2:2`  A guthallath releases two beams of destruction from its eyes. Each beam is a 120-foot line. Everything in either line takes the effect of a hit from a 10th-rank [[Spells/Disintegrate|Disintegrate]] spell (DC 41 Fortitude check). There is no additional effect on creatures in any area where the beams overlap.\nThe guthallath can't use this ability again for 1d4 rounds."
+    desc: "`pf2:2`  A guthallath releases two beams of destruction from its eyes. Each beam is a @Template[line|distance:120]. Everything in either line takes the effect of a hit from a 10th-rank [[Spells/Disintegrate|Disintegrate]] spell (DC 41 Fortitude check). There is no additional effect on creatures in any area where the beams overlap.\n\nThe guthallath can't use this ability again for 1d4 rounds."
 
   - name: "Deadly Throw"
-    desc: "`pf2:1`  **Requirements** The guthallath has a creature [[Conditions/Grabbed|Grabbed]].\n**Effect** The guthallath throws the creature into the air, 100 feet high and 50 feet away. If the flung creature lands on another creature, the creature it lands on takes the same amount of bludgeoning damage. The creature being landed on can attempt a DC 41 Reflex check save."
+    desc: "`pf2:1`  **Requirements** The guthallath has a creature [[Conditions/Grabbed|Grabbed]].\n* * *\n\n**Effect** The guthallath throws the creature into the air, 100 feet high and 50 feet away. If the flung creature lands on another creature, the creature it lands on takes the same amount of bludgeoning damage. The creature being landed on can attempt a DC 41 Reflex check save."
 
   - name: "Powerful Blows"
     desc: "  If a guthallath hits with an attack and rolls a natural 19 on the d20 roll, the attack is a critical hit. This has no effect if the 19 would be a failure."
 
   - name: "[[Bestiary Ability Glossary/Trample|Trample]]"
-    desc: "`pf2:3`  Huge or smaller, foot, DC 45 Reflex check\n"
+    desc: "`pf2:3`  Huge or smaller, foot, DC 45 Reflex check\n\n* * *\n"
  
+```
+
+```encounter-table
+name: Guthallath
+creatures:
+  - 1: Guthallath
 ```
 
 

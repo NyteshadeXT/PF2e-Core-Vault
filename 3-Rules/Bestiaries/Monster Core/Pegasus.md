@@ -6,6 +6,7 @@ cssClasses: pf2e
 aliases: "Compendium.pf2e.pathfinder-monster-core.Actor.HMfH0CI1CQCXB9Xr" 
 tags:
   - pf2e/creature/type/beast
+  - pf2eMonster
   - pf2e/creature/level/3
   - remaster
 statblock: inline
@@ -25,7 +26,7 @@ level: "Creature 3"
 
 alignment: ""
 size: "Large"
-trait_01: "beast"
+trait_01: [[beast]]
 modifier: 12
 perception:
   - name: "Perception"
@@ -69,6 +70,12 @@ attacks:
   - name: "Gallop"
     desc: "`pf2:2`  The pegasus uses 2 move actions, each of which can be either Stride or Fly. It gains a +20-foot circumstance bonus to its Speeds during a Gallop."
  
+```
+
+```encounter-table
+name: Pegasus
+creatures:
+  - 1: Pegasus
 ```
 
 

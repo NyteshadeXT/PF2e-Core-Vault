@@ -6,6 +6,7 @@ tags:
   - holy
   - mechanical
   - trap
+  - pf2eHazard
 
 source: Pathfinder Bounty #18: From Family Lost
 aliases: "Compendium.pf2e.pfs-season-3-bestiary.Actor.SzcyJHMmYgLwtXlQ" 
@@ -23,15 +24,15 @@ name: "Blessed Crossbow Trap"
 level: "Hazard 3"
 
 
-trait_01: "holy"
-trait_02: "mechanical"
-trait_03: "trap"
+trait_01: [[holy]]
+trait_02: [[mechanical]]
+trait_03: [[trap]]
 modifier: 13
 sourcebook: "_Pathfinder Bounty #18: From Family Lost_"
 ac: 19
 armorclass:
   - name: AC
-    desc: "19; __Fort__ +9, __Ref__ +9, __Will__ +0"
+    desc: "19; __Fort__ +9, __Ref__ +9, "
 hp: 50
 health:
   - name: ""
@@ -53,11 +54,17 @@ attacks:
   - name: ""
 
   - name: "Crossbow"
-    desc: "`pf2:r` (attack) **Trigger** The holy text is touched or moved\n**Effect** The trap shoots a bolt, aimed where a creature would stand in front of the altar."
+    desc: "`pf2:r` (attack) **Trigger** The holy text is touched or moved\n* * *\n\n**Effect** The trap shoots a bolt, aimed where a creature would stand in front of the altar."
   - name: "Melee"
     desc: "Crossbow +16 () "
 
 
 
+```
+
+```encounter-table
+name: Blessed Crossbow Trap
+creatures:
+  - 1: Blessed Crossbow Trap
 ```
 

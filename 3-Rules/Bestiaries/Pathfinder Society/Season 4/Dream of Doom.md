@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/dream
   - pf2e/creature/type/evil
   - pf2e/creature/type/incorporeal
+  - pf2eMonster
   - pf2e/creature/level/7
 statblock: inline
 name: "Dream of Doom"
@@ -22,16 +23,17 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Society Scenario #4-07: A Most Wondrous Exchange!"
 name: "Dream of Doom"
 level: "Creature 7"
-rare_03: "Rare"
+rare_03: [[Rare]]
 alignment: ""
 size: "Medium"
-trait_01: "dream"
-trait_02: "evil"
-trait_03: "incorporeal"
+trait_01: [[dream]]
+trait_02: [[evil]]
+trait_03: [[incorporeal]]
 modifier: 13
 perception:
   - name: "Perception"
     desc: "+13; Darkvision"
+languages: "telepathy 100 feet"
 skills:
   - name: "Skills"
     desc: "Acrobatics: +13, Deception: +17, Intimidation: +17, Occultism: +11, Stealth: +11"
@@ -53,7 +55,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Imminent Demise"
-    desc: " (aura,illusion,mental,occult) 15 feet. Creatures within the aura experience an acute awareness of their own mortality, and are [[Conditions/Doomed 1|Doomed 1]] for as long as they remain within the aura. Creatures with the dream trait are immune to this ability."
+    desc: " (aura,illusion,mental,occult) 15 feet. Creatures within the aura experience an acute awareness of their own mortality, and are [[Conditions/Doomed|Doomed 1]] for as long as they remain within the aura. Creatures with the dream trait are immune to this ability."
 
 attacks:
   - name: ""
@@ -65,8 +67,14 @@ attacks:
     desc: "DC 26, attack +16; __4th __  _[[Spells/Translocate|Dimension Door (At will)]]_, _[[Spells/Impending Doom|Impending Doom]]_, _[[Spells/Nightmare|Nightmare]]_, _[[Spells/Sleep|Sleep]]_; __3rd __  _[[Spells/Fear|Fear]]_"
 
   - name: "Endless Nightmare"
-    desc: " (curse,emotion,fear,mental,occult) An animate dream's touch fills the victim's mind with terrifying visions\n**Saving Throw** DC 24 Fortitude check\n**Stage 1** [[Conditions/Fatigued|Fatigued]] (1 day)\n**Stage 2** fatigued and [[Conditions/Stupefied 1|Stupefied 1]] (1 day)\n**Stage 3** The victim falls [[Conditions/Unconscious|Unconscious]] and can't be awakened as long as they remain at this stage (1 day)."
+    desc: " (curse,emotion,fear,mental,occult) An animate dream's touch fills the victim's mind with terrifying visions\n\n**Saving Throw** DC 24 Fortitude check\n\n**Stage 1** [[Conditions/Fatigued|Fatigued]] (1 day)\n\n**Stage 2** fatigued and [[Conditions/Stupefied|Stupefied 1]] (1 day)\n\n**Stage 3** The victim falls [[Conditions/Unconscious|Unconscious]] and can't be awakened as long as they remain at this stage (1 day)."
  
+```
+
+```encounter-table
+name: Dream of Doom
+creatures:
+  - 1: Dream of Doom
 ```
 
 

@@ -25,7 +25,7 @@ license: ORC
 
 * * *
 
-Using a free hand as pivot and balance, you both attack and defend with your weapon. While you are in this stance, you constantly have the benefits of [[Feats/Dueling Parry (Fighter)|Dueling Parry]].
+Using a free hand as pivot and balance, you both attack and defend with your weapon. While you are in this stance, you constantly have the benefits of [[Feats/Dueling Parry|Dueling Parry]].
 
 *Source: Pathfinder Player Core*
 *ORC*

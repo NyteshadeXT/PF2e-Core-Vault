@@ -5,6 +5,7 @@ noteType: pf2eHazard
 tags:
   - mechanical
   - trap
+  - pf2eHazard
 
   - remaster
 source: Pathfinder GM Core
@@ -23,14 +24,14 @@ name: "Hallucination Powder Trap"
 level: "Hazard 6"
 
 
-trait_01: "mechanical"
-trait_02: "trap"
+trait_01: [[mechanical]]
+trait_02: [[trap]]
 modifier: 14
 sourcebook: "_Pathfinder GM Core_"
 ac: 24
 armorclass:
   - name: AC
-    desc: "24; __Fort__ +0, __Ref__ +0, __Will__ +0"
+    desc: "24; "
 hp: 1
 health:
   - name: ""
@@ -52,9 +53,15 @@ attacks:
   - name: ""
 
   - name: "Powder Burst"
-    desc: "`pf2:r` (mental, poison) **Trigger** The latch is opened or the tube is broken.\n**Effect** The tube explodes, spraying hallucinogenic powder in a 30-foot cone. Any creature in the cone must succeed at a DC 24 Will check save or be confused for 1 round and take a -2 status penalty to Perception checks and saves against mental effects for 1d4 hours. On a critical failure, the penalty is instead -4.\n[[Bestiary Effects/Effect_ Powder Burst|Effect: Powder Burst]]"
+    desc: "`pf2:r` (mental, poison) **Trigger** The latch is opened or the tube is broken.\n* * *\n\n**Effect** The tube explodes, spraying hallucinogenic powder in a @Template[cone|distance:30]. Any creature in the cone must succeed at a DC 24 Will check save or be confused for 1 round and take a -2 status penalty to Perception checks and saves against mental effects for 1d4 hours. On a critical failure, the penalty is instead -4.\n\n[[Bestiary Effects/Effect_ Powder Burst|Effect: Powder Burst]]"
 
 
 
+```
+
+```encounter-table
+name: Hallucination Powder Trap
+creatures:
+  - 1: Hallucination Powder Trap
 ```
 

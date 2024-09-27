@@ -12,7 +12,7 @@ license: OGL
 ---
 # Assume a Role
 
-### [[concentrate]][[exploration]]
+### [[3-Rules/Rule References/Concentrate]][[exploration]]
 
 **Category** interaction; 
 

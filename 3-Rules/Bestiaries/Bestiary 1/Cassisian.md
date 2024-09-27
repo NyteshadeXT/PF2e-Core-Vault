@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/celestial
   - pf2e/creature/type/good
   - pf2e/creature/type/holy
+  - pf2eMonster
   - pf2e/creature/level/1
 statblock: inline
 name: "Cassisian"
@@ -27,10 +28,10 @@ level: "Creature 1"
 
 alignment: ""
 size: "tiny"
-trait_01: "angel"
-trait_02: "celestial"
-trait_03: "good"
-trait_04: "holy"
+trait_01: [[angel]]
+trait_02: [[celestial]]
+trait_03: [[good]]
+trait_04: [[holy]]
 modifier: 6
 perception:
   - name: "Perception"
@@ -57,7 +58,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Transfer Protection"
-    desc: "  A non-evil creature can wear a willing cassisian as a helmet. While it does, the cassisian can take no actions, but the cassisian extends its +1 status bonus to AC and saves against evil creatures to its wearer. At any time, the cassisian can detach itself from its wearer as an action.\n[[Bestiary Effects/Effect_ Transfer Protection|Effect: Transfer Protection]]"
+    desc: "  A non-evil creature can wear a willing cassisian as a helmet. While it does, the cassisian can take no actions, but the cassisian extends its +1 status bonus to AC and saves against evil creatures to its wearer. At any time, the cassisian can detach itself from its wearer as an action.\n\n[[Bestiary Effects/Effect_ Transfer Protection|Effect: Transfer Protection]]"
 
 attacks:
   - name: ""
@@ -69,14 +70,20 @@ attacks:
     desc: "DC 16, attack +8; __4th __  _[[Spells/Read Omens|Read Omens]]_; __1st __  _[[Spells/Detect Alignment|Detect Alignment (At Will) (Evil Only)]]_, _[[Spells/Heal|Heal]]_\n__Cantrips__  __(1st)__ _[[Spells/Know the Way|Know Direction]]_, _[[Spells/Light|Light]]_"
 
   - name: "[[Bestiary Ability Glossary/Change Shape|Change Shape]]"
-    desc: "`pf2:1` (concentrate,divine,polymorph) A cassisian can take the appearance of a dove, a winged humanoid, a dog, or a fish. Normally, this doesn't change its Speed or the attack and damage bonuses for its Strikes, but it might change the damage type Strikes deal (typically to bludgeoning). Any further changes for specific forms are noted below.\n*   **Dog**\n    *   **Size** small\n    *   **Sense** Scent (Imprecise) 30 feet\n    *   **Speed** 40 feet\n    *   **Melee** `pf2:1` Jaws +7, **Damage** 1d6 + 2 piercing plus [[Bestiary Ability Glossary/Knockdown|Knockdown]]\n*   **Fish**\n    *   **Speed** Swim 30 feet\n"
+    desc: "`pf2:1` (concentrate,divine,polymorph) A cassisian can take the appearance of a dove, a winged humanoid, a dog, or a fish. Normally, this doesn't change its Speed or the attack and damage bonuses for its Strikes, but it might change the damage type Strikes deal (typically to bludgeoning). Any further changes for specific forms are noted below.\n\n*   **Dog**\n    *   **Size** small\n    *   **Sense** Scent (Imprecise) 30 feet\n    *   **Speed** 40 feet\n    *   **Melee** `pf2:1` Jaws +7, **Damage** 1d6+2 piercing plus [[Bestiary Ability Glossary/Knockdown|Knockdown]]\n*   **Fish**\n    *   **Speed** Swim 30 feet\n\n* * *\n"
 
   - name: "Eye Beams"
-    desc: "`pf2:2` (concentrate,divine) The cassisian releases beams of heat or cold from its eyes, dealing 2d6 cold damage or 2d6 fire damage (DC 17 Reflex check save) to all creatures in a 15-foot line.\nIt can't use Eye Beams again for 1d4 rounds."
+    desc: "`pf2:2` (concentrate,divine) The cassisian releases beams of heat or cold from its eyes, dealing 2d6 cold damage or 2d6 fire damage (DC 17 Reflex check save) to all creatures in a 15-foot line.\n\nIt can't use Eye Beams again for 1d4 rounds."
 
   - name: "Repository of Lore"
     desc: "  While the cassisian isn't particularly intelligent, it has perfect memory and can remember everything it sees or hears. This allows it to attempt [[Actions/Recall Knowledge|Lore]] checks on any topic, provided (at the GM's discretion) the cassisian has encountered the topic in question before. The cassisian's limited intellect often prevents it from acting upon its knowledge, making it a better resource than agent in matters of information use."
  
+```
+
+```encounter-table
+name: Cassisian
+creatures:
+  - 1: Cassisian
 ```
 
 

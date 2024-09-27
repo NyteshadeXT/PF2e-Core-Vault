@@ -4,6 +4,7 @@ obsidianUIMode: preview
 noteType: pf2eHazard
 tags:
   - environmental
+  - pf2eHazard
   - complex
 source: Pathfinder Kingmaker
 aliases: "Compendium.pf2e.kingmaker-bestiary.Actor.RN3Fiz9AZzUuqb9z" 
@@ -21,7 +22,7 @@ name: "Smoke-Filled Hallway"
 level: "Hazard 2"
 
 trait_06: "Complex"
-trait_01: "environmental"
+trait_01: [[environmental]]
 modifier: -10
 sourcebook: "_Pathfinder Kingmaker_"
 perception:
@@ -40,10 +41,16 @@ attacks:
   - name: ""
 
   - name: "Choke"
-    desc: "`pf2:0` **Trigger** A creature that isn't holding their breath walks into the hallway or starts their turn in the hallway\n**Effect** The triggering creature must attempt a DC 18 Fortitude check save.\n**Critical Success** The creature is unaffected by the smoke.\n**Success** The creature is [[Conditions/Sickened 1|Sickened 1]] by the smoke.\n**Failure** The creature is sickened 1 and takes 1d6 nonlethal damage from choking on the smoke. A creature that falls [[Conditions/Unconscious|Unconscious]] from the nonlethal damage begins to suffocate in 1d4+1 rounds if not dragged to safety.\n**Critical Failure** As failure, but [[Conditions/Sickened 1|Sickened 2]] and 1d6 persistent nonlethal damage."
+    desc: "`pf2:0` **Trigger** A creature that isn't holding their breath walks into the hallway or starts their turn in the hallway\n\n**Effect** The triggering creature must attempt a DC 18 Fortitude check save.\n* * *\n\n**Critical Success** The creature is unaffected by the smoke.\n\n**Success** The creature is [[Conditions/Sickened|Sickened 1]] by the smoke.\n\n**Failure** The creature is sickened 1 and takes 1d6 nonlethal damage from choking on the smoke. A creature that falls [[Conditions/Unconscious|Unconscious]] from the nonlethal damage begins to suffocate in 1d4+1 rounds if not dragged to safety.\n\n**Critical Failure** As failure, but [[Conditions/Sickened|Sickened 2]] and 1d6 persistent nonlethal damage."
 
 
   - name: "Reset"
     desc: "The smoke continues to affect anyone who enters area A16 until the fires in area A17 are extinguished."
+```
+
+```encounter-table
+name: Smoke-Filled Hallway
+creatures:
+  - 1: Smoke-Filled Hallway
 ```
 

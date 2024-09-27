@@ -18,7 +18,7 @@ license: OGL
 
 
 
-**Prerequisites** Celebrity Dedication or Dandy Dedication; trained in Deception
+**Prerequisites** Celebrity Dedication or Dandy Dedication, trained in Deception
 * * *
 **Frequency** once per hour
 

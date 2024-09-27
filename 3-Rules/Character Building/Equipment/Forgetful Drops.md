@@ -14,7 +14,7 @@ license: OGL
 ---
 # Forgetful Drops
 ## Item 3
-### [uncommon](uncommon "Uncommon Rarity Trait")[[alchemical]][[consumable]][[ingested]][[3-Rules/Rule References/Poison]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[alchemical]][[consumable]][[ingested]][[3-Rules/Rule References/Poison]]
 
 **Category** poison; 
 **Price** 10 gp; 
@@ -31,15 +31,15 @@ These innocuous, colorless drops can be poured directly into a victim's mouth, o
 
 * * *
 
-**Saving Throw** DC 18 Fortitude check;
+**Saving Throw** DC 18 Fortitude check
 
 **Onset** 5 minutes;
 
-**Maximum Duration** 1 hour;
+**Maximum Duration** 1 hour
 
-**Stage 1** [[Conditions/Stupefied 1|Stupefied 1]] (10 minutes);
+**Stage 1** [[Conditions/Stupefied|Stupefied 1]] (10 minutes)
 
-**Stage 2** stupefied 1 and [[Conditions/Clumsy 1|Clumsy 1]] (20 minutes);
+**Stage 2** stupefied 1 and [[Conditions/Clumsy|Clumsy 1]] (20 minutes)
 
 **Stage 3** stupefied 1, clumsy 1, and [[Conditions/Confused|Confused]] (30 minutes)
 

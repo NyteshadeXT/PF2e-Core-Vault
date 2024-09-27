@@ -7,8 +7,9 @@ tags:
   - trait/magical
   - trait/common
   - category/ammo
+  - remaster
 aliases: "Compendium.pf2e.equipment-srd.Item.ilB279mxqXnlaSFj"
-license: OGL
+license: ORC
 ---
 # Viper Arrow
 ## Item 4
@@ -19,7 +20,9 @@ license: OGL
 **Bulk** 0; **Size** med
 **Usage** held-in-one-hand
 
-**Activate** `pf2:1` Command
+**Activate** `pf2:1` (manipulate)
+
+* * *
 
 The shaft of this arrow is covered in fine green scales, and its iron head comes to a pair of points almost like fangs.
 
@@ -29,5 +32,5 @@ The viper has the summoned trait and acts at the end of your turn, even though y
 
 **Craft Requirements** Supply one casting of [[Spells/Summon Animal|Summon Animal]]
 
-*Source: Pathfinder Core Rulebook*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

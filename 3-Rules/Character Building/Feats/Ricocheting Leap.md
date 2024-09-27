@@ -6,8 +6,9 @@ tags:
   - trait/grippli
   - trait/common
   - category/ancestry
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.5S1nPoxHTgu9MGGV"
-license: OGL
+license: ORC
 ---
 # Ricocheting Leap
 ## Feat 9
@@ -17,9 +18,9 @@ license: OGL
 
 
 
-**Prerequisites** master in Athletics; Wall Jump
+**Prerequisites** Wall Jump
 * * *
 You quickly use your momentum to topple and spring off of foes. You can use [[Feats/Wall Jump|Wall Jump]] to make additional jumps off of creatures larger than you as if they were walls. Once per turn when you make an additional jump off of a creature in this way, you can also attempt to [[Actions/Shove|Shove]] or [[Actions/Trip|Trip]] that creature as a free action.
 
-*Source: Pathfinder Lost Omens: The Mwangi Expanse*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

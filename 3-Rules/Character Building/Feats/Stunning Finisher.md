@@ -7,8 +7,9 @@ tags:
   - trait/swashbuckler
   - trait/common
   - category/class
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.jkBzlMB4TS1sS2Fm"
-license: OGL
+license: ORC
 ---
 # Stunning Finisher `pf2:1`
 ## Feat 8
@@ -27,9 +28,9 @@ You attempt a dizzying blow. Make a melee Strike. If you hit, your foe must atte
 
 **Success** The target can't use reactions until its next turn.
 
-**Failure** The target is [[Conditions/Stunned 1|Stunned 1]].
+**Failure** The target is [[Conditions/Stunned|Stunned 1]].
 
-**Critical Failure** The target is [[Conditions/Stunned 1|Stunned 3]].
+**Critical Failure** The target is [[Conditions/Stunned|Stunned 3]].
 
-*Source: Pathfinder Advanced Player's Guide*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

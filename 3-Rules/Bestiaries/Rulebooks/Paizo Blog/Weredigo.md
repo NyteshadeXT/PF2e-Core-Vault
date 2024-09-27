@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.blog-bestiary.Actor.d0nNIzVZe1f81aAg"
 tags:
   - pf2e/creature/type/beast
   - pf2e/creature/type/chaotic
+  - pf2eMonster
   - pf2e/creature/level/15
 statblock: inline
 name: "Weredigo"
@@ -21,19 +22,19 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Blog: April Fool&#x27;s Bestiary"
 name: "Weredigo"
 level: "Creature 15"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Large"
-trait_01: "beast"
-trait_02: "chaotic"
+trait_01: [[beast]]
+trait_02: [[chaotic]]
 modifier: 29
 perception:
   - name: "Perception"
     desc: "+29; Darkvision"
-languages: "Aklo, Common, Jotun"
+languages: "Aklo, Common, Jotun; telepathy 1 mile"
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +30, Intimidation: +30, Restaurant Lore: +31, Society: +31"
+    desc: "Acrobatics: +30, Intimidation: +30, Society: +31, Restaurant Lore: +31"
 abilityMods: [6, 7, 8, 6, 8, 7]
 speed:  fly 100 feet
 sourcebook: "_Pathfinder Blog: April Fool&#x27;s Bestiary_"
@@ -50,7 +51,7 @@ abilities_top:
   - name: ""
 
   - name: "[[Bestiary Ability Glossary/Coven|Coven]]"
-    desc: " (mental,occult) A weredigo adds [[Spells/Create Food|Create Food]], [[Spells/Enhance Victuals|Enhance Victuals]], and [[Spells/Ghoulish Cravings|Ghoulish Cravings]] to its coven's spells.\nIn addition, a weredigo, wendigo, and hoodigo coven can perform a unique ritual to enter the dreams of a creature responsible for hosting an upcoming party and curse them incurable planning indecision.\n"
+    desc: " (mental,occult) A weredigo adds [[Spells/Create Food|Create Food]], [[Spells/Enhance Victuals|Enhance Victuals]], and [[Spells/Ghoulish Cravings|Ghoulish Cravings]] to its coven's spells.\n\nIn addition, a weredigo, wendigo, and hoodigo coven can perform a unique ritual to enter the dreams of a creature responsible for hosting an upcoming party and curse them incurable planning indecision.\n\n* * *\n"
 
   - name: "Hungersight"
     desc: " (primal) A weredigo can precisely sense peckish creatures."
@@ -70,14 +71,20 @@ attacks:
     desc: "`pf2:1` Knife +29 (agile, reach 10 feet)\n__Damage__  3d6 + 14 slashing"
 
   - name: "Reduce Options"
-    desc: "`pf2:2` (curse,mental,primal) **Requirements** The weredigo is adjacent to two creatures that can't decide where to get brunch.\n**Effect** The weredigo makes two fork Strikes and two knife Strikes against one of the adjacent creatures. These attacks don't count toward the weredigo's multiple attack penalty."
+    desc: "`pf2:2` (curse,mental,primal) **Requirements** The weredigo is adjacent to two creatures that can't decide where to get brunch.\n* * *\n\n**Effect** The weredigo makes two fork Strikes and two knife Strikes against one of the adjacent creatures. These attacks don't count toward the weredigo's multiple attack penalty."
 
   - name: "Weredigo Torment"
-    desc: " (curse,mental,primal) A creature affected by weredigo torment can't recover beyond stage 1 until it has been restored to full HP.\n**Saving Throw** DC 35 Will check\n**Stage 1** [[Conditions/Stupefied 1|Stupefied 4]] (1 day)\n**Stage 2** As stage 1 (1 day)\n**Stage 3** The creature becomes permanently afflicted with analysis paralysis, unable to make even the simplest of dining decisions, absentmindedly sipping their water whenever asked for their order."
+    desc: " (curse,mental,primal) A creature affected by weredigo torment can't recover beyond stage 1 until it has been restored to full HP.\n\n**Saving Throw** DC 35 Will check\n\n**Stage 1** [[Conditions/Stupefied|Stupefied 4]] (1 day)\n\n**Stage 2** As stage 1 (1 day)\n\n**Stage 3** The creature becomes permanently afflicted with analysis paralysis, unable to make even the simplest of dining decisions, absentmindedly sipping their water whenever asked for their order."
 
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
     desc: "`pf2:1`  "
  
+```
+
+```encounter-table
+name: Weredigo
+creatures:
+  - 1: Weredigo
 ```
 
 

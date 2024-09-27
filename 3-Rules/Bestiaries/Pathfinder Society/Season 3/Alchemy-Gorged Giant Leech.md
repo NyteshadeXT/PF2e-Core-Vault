@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.pfs-season-3-bestiary.Actor.umiKZDfhNO3mXvEb"
 tags:
   - pf2e/creature/type/amphibious
   - pf2e/creature/type/animal
+  - pf2eMonster
   - pf2e/creature/level/1
 statblock: inline
 name: "Alchemy-Gorged Giant Leech"
@@ -21,15 +22,16 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Bounty #17: Sodden Stories"
 name: "Alchemy-Gorged Giant Leech"
 level: "Creature 1"
-rare_03: "Rare"
+rare_03: [[Rare]]
 alignment: ""
 size: "Medium"
-trait_01: "amphibious"
-trait_02: "animal"
+trait_01: [[amphibious]]
+trait_02: [[animal]]
 modifier: 3
 perception:
   - name: "Perception"
     desc: "+3; Tremorsense (Imprecise) 30 Feet"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Athletics: +6, Stealth: +5"
@@ -57,11 +59,17 @@ attacks:
     desc: "`pf2:1` Mouth +8 ()\n__Damage__  1d4 + 4 piercing plus grab"
 
   - name: "Blood Drain"
-    desc: "`pf2:1`  **Requirements** The giant leech has a creature grabbed or restrained\n**Effect** The giant leech drains blood from the creature it has grabbed. This deals 2d4 damage. A creature that has its blood drained by a giant leech is [[Conditions/Drained 1|Drained 1]] until it receives any kind or amount of healing."
+    desc: "`pf2:1`  **Requirements** The giant leech has a creature grabbed or restrained\n* * *\n\n**Effect** The giant leech drains blood from the creature it has grabbed. This deals 2d4 damage. A creature that has its blood drained by a giant leech is [[Conditions/Drained|Drained 1]] until it receives any kind or amount of healing."
 
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
     desc: "`pf2:1`  "
  
+```
+
+```encounter-table
+name: Alchemy-Gorged Giant Leech
+creatures:
+  - 1: Alchemy-Gorged Giant Leech
 ```
 
 

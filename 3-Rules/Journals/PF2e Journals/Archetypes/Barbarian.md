@@ -16,11 +16,11 @@ There's a rage deep inside you that sometimes breaks loose, granting you some of
 
 * * *
 
-You become trained in Athletics; if you were already trained in Athletics, you instead become trained in a skill of your choice. You become trained in barbarian class DC. You can use the [[Actions/Rage|Rage]] action. Choose an [[Class Features/Instinct|Instinct]] as you would if you were a barbarian. You have that instinct for all purposes and become bound by its anathema, but you don't gain any of the other abilities it grants.
+You become trained in Athletics; if you were already trained in Athletics, you instead become trained in a skill of your choice. You become trained in barbarian class DC.
 
-* * *
+You can use the Rage action. While raging, you take a –1 penalty to AC.
 
-**Special** You cannot select another dedication feat until you have gained two other feats from the barbarian archetype.
+Choose an instinct as you would if you were a barbarian. You have that instinct for all purposes, but you don't gain any of the other abilities it grants. If that instinct has anathema, you're bound by them.
 
 ## [[Feats/Barbarian Resiliency|Barbarian Resiliency]] Feat 4
 

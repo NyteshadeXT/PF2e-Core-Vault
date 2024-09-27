@@ -5,6 +5,7 @@ noteType: pf2eHazard
 tags:
   - magical
   - trap
+  - pf2eHazard
   - complex
 source: Pathfinder Dark Archive
 aliases: "Compendium.pf2e.pathfinder-dark-archive.Actor.tGhJpdNRItMZTpG7" 
@@ -22,8 +23,8 @@ name: "Constricting Hall"
 level: "Hazard 8"
 
 trait_06: "Complex"
-trait_01: "magical"
-trait_02: "trap"
+trait_01: [[magical]]
+trait_02: [[trap]]
 modifier: 21
 sourcebook: "_Pathfinder Dark Archive_"
 perception:
@@ -42,7 +43,7 @@ attacks:
   - name: ""
 
   - name: "Lose Form"
-    desc: "`pf2:r` (occult) **Trigger** A creature reaches the hall's midpoint\n**Effect** The hall's walls lose their rigidity, becoming fluid and elastic. The hall becomes difficult terrain, and each creature in the hall is knocked [[Conditions/Prone|Prone]] unless they succeed at a DC 26 Reflex check save. The trap then rolls initiative."
+    desc: "`pf2:r` (occult) **Trigger** A creature reaches the hall's midpoint\n* * *\n\n**Effect** The hall's walls lose their rigidity, becoming fluid and elastic. The hall becomes difficult terrain, and each creature in the hall is knocked [[Conditions/Prone|Prone]] unless they succeed at a DC 26 Reflex check save. The trap then rolls initiative."
   - name: "Melee"
     desc: "Wall +20 () "
 
@@ -50,5 +51,11 @@ attacks:
     desc: "(4 actions) This trap loses 1 action each round for each wall that has been disabled. Each wall uses 1 action to slam back and forth rapidly, pummeling one creature in the hall with a wall Strike. On a hit, the target is additionally knocked [[Conditions/Prone|Prone]]. The walls distribute the attacks as evenly as possible among creatures in the hall, and the Strikes don't apply the trap's multiple attack penalty."
   - name: "Reset"
     desc: "1 hour"
+```
+
+```encounter-table
+name: Constricting Hall
+creatures:
+  - 1: Constricting Hall
 ```
 

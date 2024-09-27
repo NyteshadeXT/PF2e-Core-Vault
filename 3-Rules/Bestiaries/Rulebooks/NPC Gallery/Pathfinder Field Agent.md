@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/elf
   - pf2e/creature/type/human
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/4
 statblock: inline
 name: "Pathfinder Field Agent"
@@ -25,9 +26,9 @@ level: "Creature 4"
 
 alignment: ""
 size: "Medium"
-trait_01: "elf"
-trait_02: "human"
-trait_03: "humanoid"
+trait_01: [[elf]]
+trait_02: [[human]]
+trait_03: [[humanoid]]
 modifier: 11
 perception:
   - name: "Perception"
@@ -35,7 +36,7 @@ perception:
 languages: "Common, Elven"
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +12, Arcana: +8, Athletics: +6, Deception: +6, Diplomacy: +6, Pathfinder Society Lore: +11, Stealth: +12, Survival: +8, Thievery: +10"
+    desc: "Acrobatics: +12, Arcana: +8, Athletics: +6, Deception: +6, Diplomacy: +6, Stealth: +12, Survival: +8, Thievery: +10, Pathfinder Society Lore: +11"
 abilityMods: [0, 4, 3, 2, 2, 0]
 speed: 25 feet
 sourcebook: "_Pathfinder Lost Omens: Character Guide_"
@@ -53,7 +54,7 @@ abilities_top:
   - name: "Items"
     desc: "[[Equipment/Rapier|Rapier]], [[Equipment/Shortbow|Shortbow]], [[Equipment/Studded Leather Armor|Studded Leather Armor]], [[Equipment/Thieves' Toolkit|Thieves' Tools]], [[Equipment/Comprehension Elixir (Lesser)|Comprehension Elixir (Lesser)]], [[Equipment/Healing Potion (Minor)|Healing Potion (Minor)]], [[Equipment/Infiltrator's Elixir|Infiltrator's Elixir]], 20x [[Equipment/Arrows|Arrows]]"
   - name: "Scout's Warning"
-    desc: "  **Trigger** The field agent is about to roll a Perception check for initiative.\n**Effect** The field agent audibly or visually warns their allies of imminent danger. This ability gains the auditory trait if the warning is audible, and the visual trait if the warning is visual. Any ally who is able to hear the agent (if the warning is audible) or see the agent (if the warning is visual) gains a +1 circumstance bonus to their initiative roll.\n[[Feat_Feature Effects/Effect_ Scout's Warning|Effect: Scout's Warning]]"
+    desc: "  **Trigger** The field agent is about to roll a Perception check for initiative.\n* * *\n\n**Effect** The field agent audibly or visually warns their allies of imminent danger. This ability gains the auditory trait if the warning is audible, and the visual trait if the warning is visual. Any ally who is able to hear the agent (if the warning is audible) or see the agent (if the warning is visual) gains a +1 circumstance bonus to their initiative roll.\n\n[[Feat_Feature Effects/Effect_ Scout's Warning|Effect: Scout's Warning]]"
 
 abilities_mid:
   - name: ""
@@ -81,6 +82,12 @@ attacks:
   - name: "Trap Finder"
     desc: "  The field agent has an intuitive sense that alerts them to the dangers and presence of traps. They gain a +1 circumstance bonus to Perception checks to find traps, to AC against attacks made by traps, and to saves against traps. Even if they aren't Searching, they still get a check to find traps. They can disable traps that require a proficiency rank of master in Thievery."
  
+```
+
+```encounter-table
+name: Pathfinder Field Agent
+creatures:
+  - 1: Pathfinder Field Agent
 ```
 
 

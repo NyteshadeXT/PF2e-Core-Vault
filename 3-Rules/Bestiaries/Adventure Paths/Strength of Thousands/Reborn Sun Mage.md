@@ -10,6 +10,7 @@ tags:
   - pf2e/creature/type/lawful
   - pf2e/creature/type/undead
   - pf2e/creature/type/unholy
+  - pf2eMonster
   - pf2e/creature/level/11
 statblock: inline
 name: "Reborn Sun Mage"
@@ -24,14 +25,14 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #172: Secrets of the Temple-City"
 name: "Reborn Sun Mage"
 level: "Creature 11"
-rare_03: "Rare"
+rare_03: [[Rare]]
 alignment: ""
 size: "Medium"
-trait_01: "evil"
-trait_02: "fire"
-trait_03: "lawful"
-trait_04: "undead"
-trait_05: "unholy"
+trait_01: [[evil]]
+trait_02: [[fire]]
+trait_03: [[lawful]]
+trait_04: [[undead]]
+trait_05: [[unholy]]
 modifier: 24
 perception:
   - name: "Perception"
@@ -59,7 +60,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Burning Sacrifice"
-    desc: " (divine,fire) When the sun mage is destroyed, they explode in a blast of flame that deals 6d6 fire damage in a 10-foot emanation (DC 27 Reflex check save). Creatures that critically fail their saves are marked with Walkena's religious symbol on a visible area of their body, which remains for 1 day. This mark allows Walkena to treat the creature as if he knew the creature's identity but not having met them for the purposes of [[Spells/Scrying|Scrying]], lowering the spell's DC by 2. The sun mage's gear and treasure are unaffected by the explosion and left in a pile where they die."
+    desc: " (divine,fire) When the sun mage is destroyed, they explode in a blast of flame that deals 6d6 fire damage in a @Template[emanation|distance:10] (DC 27 Reflex check save). Creatures that critically fail their saves are marked with Walkena's religious symbol on a visible area of their body, which remains for 1 day. This mark allows Walkena to treat the creature as if he knew the creature's identity but not having met them for the purposes of [[Spells/Scrying|Scrying]], lowering the spell's DC by 2. The sun mage's gear and treasure are unaffected by the explosion and left in a pile where they die."
 
 attacks:
   - name: ""
@@ -80,8 +81,14 @@ attacks:
     desc: "DC 30, attack +22; __5th __ (1 slots) _[[Spells/Breathe Fire|Burning Hands]]_\n__Cantrips__  __(6th)__ _[[Spells/Divine Lance|Divine Lance]]_, _[[Spells/Message|Message]]_, _[[Spells/Shield|Shield]]_, _[[Spells/Sigil|Sigil]]_"
 
   - name: "Revitalizing Flame"
-    desc: "`pf2:1` (divine,healing) **Frequency** once per day\n**Effect** The sun mage produces a specialized flame that burns away maladies and restores a creature. If the sun mage's next action is to Cast a Spell with the fire trait that deals damage and isn't a cantrip, the spell doesn't deal any damage. It instead restores a number of Hit Points equal to four times the spell's rank to all targets or creatures. This restoration affects all creatures regardless of whether they are healed by vitality or void energy."
+    desc: "`pf2:1` (divine,healing) **Frequency** once per day\n* * *\n\n**Effect** The sun mage produces a specialized flame that burns away maladies and restores a creature. If the sun mage's next action is to Cast a Spell with the fire trait that deals damage and isn't a cantrip, the spell doesn't deal any damage. It instead restores a number of Hit Points equal to four times the spell's rank to all targets or creatures. This restoration affects all creatures regardless of whether they are healed by vitality or void energy."
  
+```
+
+```encounter-table
+name: Reborn Sun Mage
+creatures:
+  - 1: Reborn Sun Mage
 ```
 
 

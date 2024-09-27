@@ -6,8 +6,9 @@ tags:
   - trait/grippli
   - trait/common
   - category/ancestry
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.5j3nLvicUVmPqzA7"
-license: OGL
+license: ORC
 ---
 # Tongue Tether
 ## Feat 9
@@ -17,11 +18,9 @@ license: OGL
 
 
 
-**Prerequisites** snaptongue grippli
+**Prerequisites** snaptongue tripkee
 * * *
-Your tongue can momentarily latch on as readily as your hands. So long as you can freely open your mouth, you do not need free hands in order to [[Actions/Disarm|Disarm]], [[Actions/Grab an Edge|Grab an Edge]], or [[Actions/Trip|Trip]].
+Your tongue can momentarily latch on as readily as your hands. So long as you can freely open your mouth, you do not need free hands in order to [[Actions/Disarm|Disarm]], [[Actions/Grab an Edge|Grab an Edge]], [[Actions/Reposition|Reposition]], or [[Actions/Trip|Trip]]. If you have the [[Feats/Long Tongue|Long Tongue]] feat, you can Disarm, Grab an Edge, Reposition, and Trip with your tongue at a distance that is 5 feet beyond your normal reach.
 
-If you have the [[Feats/Long Tongue|Long Tongue]] feat, you can Disarm, Grab an Edge, and Trip with your tongue at a distance that is 5 feet beyond your normal reach.
-
-*Source: Pathfinder Lost Omens: The Mwangi Expanse*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

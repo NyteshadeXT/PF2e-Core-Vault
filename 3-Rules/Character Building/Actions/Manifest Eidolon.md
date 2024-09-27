@@ -14,7 +14,7 @@ license: OGL
 ---
 # Manifest Eidolon `pf2:3`
 
-### [[concentrate]][[manipulate]][[summoner]][[teleportation]]
+### [[3-Rules/Rule References/Concentrate]][[3-Rules/Rule References/Manipulate]][[summoner]][[teleportation]]
 
 **Category** interaction; 
 

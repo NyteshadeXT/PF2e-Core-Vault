@@ -6,6 +6,7 @@ cssClasses: pf2e
 aliases: "Compendium.pf2e.pathfinder-bestiary-3.Actor.Rgy8OyRY5szgE6d0" 
 tags:
   - pf2e/creature/type/animal
+  - pf2eMonster
   - pf2e/creature/level/7
 statblock: inline
 name: "Empress Ice Worm"
@@ -24,11 +25,12 @@ level: "Creature 7"
 
 alignment: ""
 size: "huge"
-trait_01: "animal"
+trait_01: [[animal]]
 modifier: 13
 perception:
   - name: "Perception"
     desc: "+13; Tremorsense (Imprecise) 60 Feet"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Athletics: +17, Stealth: +14"
@@ -50,7 +52,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Viviparous Birth"
-    desc: "  When killed, an empress ice worm violently expels the young it carries. These young erupt as an [[Bestiary 3/Ice Worm Swarm|Ice Worm Swarm]] in the empress ice worm's space.\nIn addition, every creature within 20 feet takes 5d10 cold damage (DC 25 Reflex check save) from the splatter of icy viscera."
+    desc: "  When killed, an empress ice worm violently expels the young it carries. These young erupt as an [[Bestiary 3/Ice Worm Swarm|Ice Worm Swarm]] in the empress ice worm's space.\n\nIn addition, every creature within 20 feet takes 5d10 cold damage (DC 25 Reflex check save) from the splatter of icy viscera."
 
 attacks:
   - name: ""
@@ -62,11 +64,17 @@ attacks:
     desc: "  An empress ice worm can leave a tunnel behind itself when it burrows, and it usually does."
 
   - name: "Icy Wake"
-    desc: "`pf2:1`  The empress ice worm Strides, leaving behind dribbles of ice in every square that it passes through.\nA creature that enters or begins its turn in such a square takes 3d6 cold damage (DC 22 Fortitude check save). The ice becomes inert after 1 minute."
+    desc: "`pf2:1`  The empress ice worm Strides, leaving behind dribbles of ice in every square that it passes through.\n\nA creature that enters or begins its turn in such a square takes 3d6 cold damage (DC 22 Fortitude check save). The ice becomes inert after 1 minute."
 
   - name: "Painful Bite"
-    desc: "  The bite of an empress ice worm causes excruciating pain. The target must succeed at a DC 25 Fortitude check save or become [[Conditions/Sickened 1|Sickened 1]] from the pain ([[Conditions/Sickened 1|Sickened 2]] on a critical failure)."
+    desc: "  The bite of an empress ice worm causes excruciating pain. The target must succeed at a DC 25 Fortitude check save or become [[Conditions/Sickened|Sickened 1]] from the pain ([[Conditions/Sickened|Sickened 2]] on a critical failure)."
  
+```
+
+```encounter-table
+name: Empress Ice Worm
+creatures:
+  - 1: Empress Ice Worm
 ```
 
 

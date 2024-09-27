@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/aberration
   - pf2e/creature/type/chaotic
   - pf2e/creature/type/swarm
+  - pf2eMonster
   - pf2e/creature/level/6
 statblock: inline
 name: "Gibtas Spawn Swarm"
@@ -22,16 +23,17 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #164: Hands of the Devil"
 name: "Gibtas Spawn Swarm"
 level: "Creature 6"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Large"
-trait_01: "aberration"
-trait_02: "chaotic"
-trait_03: "swarm"
+trait_01: [[aberration]]
+trait_02: [[chaotic]]
+trait_03: [[swarm]]
 modifier: 14
 perception:
   - name: "Perception"
     desc: "+14; Darkvision, Scent (Imprecise) 30 Feet"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Acrobatics: +15, Survival: +12"
@@ -53,7 +55,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Bounce"
-    desc: "`pf2:r`  **Trigger** A creature that the gibtas spawn swarm can see targets the swarm with an attack\n**Effect** The swarm bounces to the side and gains a +2 circumstance bonus to AC against the triggering attack. After the attack, the swarm can Stride up to its Speed in a straight line as part of the reaction."
+    desc: "`pf2:r`  **Trigger** A creature that the gibtas spawn swarm can see targets the swarm with an attack\n* * *\n\n**Effect** The swarm bounces to the side and gains a +2 circumstance bonus to AC against the triggering attack. After the attack, the swarm can Stride up to its Speed in a straight line as part of the reaction."
 
 attacks:
   - name: ""
@@ -64,6 +66,12 @@ attacks:
   - name: "Swarming Bites"
     desc: "`pf2:1`  Each enemy in the swarm's space takes 2d8 piercing damage and 1d6 acid damage (DC 22 Reflex check save). A creature that fails its save against Swarming Bites also takes 1d4 persistent acid."
  
+```
+
+```encounter-table
+name: Gibtas Spawn Swarm
+creatures:
+  - 1: Gibtas Spawn Swarm
 ```
 
 

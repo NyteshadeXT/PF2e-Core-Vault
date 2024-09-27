@@ -6,6 +6,7 @@ cssClasses: pf2e
 aliases: "Compendium.pf2e.strength-of-thousands-bestiary.Actor.SvOEczaYVWrASvSm" 
 tags:
   - pf2e/creature/type/animal
+  - pf2eMonster
   - pf2e/creature/level/2
 statblock: inline
 name: "Riding Frog"
@@ -20,17 +21,18 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #171: Hurricane&#x27;s Howl"
 name: "Riding Frog"
 level: "Creature 2"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Large"
-trait_01: "animal"
+trait_01: [[animal]]
 modifier: 7
 perception:
   - name: "Perception"
     desc: "+7; Low-Light Vision"
+languages: ""
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +7, Athletics: +8 (+12 to High Jump or Long Jump), Stealth: +9"
+    desc: "Acrobatics: +7, Athletics: +8, Stealth: +9"
 abilityMods: [3, 2, 3, -4, 2, -1]
 speed: 35 feet,  swim 25 feet
 sourcebook: "_Pathfinder #171: Hurricane&#x27;s Howl_"
@@ -61,11 +63,17 @@ attacks:
     desc: "  Giant frogs are not off-guard when [[Actions/Balance|Balancing]] on a narrow surface, and they gain a +4 bonus to Reflex saves to avoid falling."
 
   - name: "Tongue Grab"
-    desc: "  A creature hit by the riding frog's tongue becomes [[Conditions/Grabbed|Grabbed]] by the riding frog. The creature isn't [[Conditions/Immobilized|Immobilized]], but it can't move beyond the reach of the frog's tongue. A creature can sever the tongue with a Strike against AC 13 that deals at least 2 slashing damage.\nThis deals no damage to the frog but prevents it from using its tongue Strike until it regrows its tongue, which takes a week."
+    desc: "  A creature hit by the riding frog's tongue becomes [[Conditions/Grabbed|Grabbed]] by the riding frog. The creature isn't [[Conditions/Immobilized|Immobilized]], but it can't move beyond the reach of the frog's tongue. A creature can sever the tongue with a Strike against AC 13 that deals at least 2 slashing damage.\n\nThis deals no damage to the frog but prevents it from using its tongue Strike until it regrows its tongue, which takes a week."
 
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
     desc: "`pf2:1`  "
  
+```
+
+```encounter-table
+name: Riding Frog
+creatures:
+  - 1: Riding Frog
 ```
 
 

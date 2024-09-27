@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/chaotic
   - pf2e/creature/type/evil
   - pf2e/creature/type/petitioner
+  - pf2eMonster
   - pf2e/creature/level/1
 statblock: inline
 name: "Petitioner (Dead Vault)"
@@ -26,9 +27,9 @@ level: "Creature 1"
 
 alignment: ""
 size: "Medium"
-trait_01: "chaotic"
-trait_02: "evil"
-trait_03: "petitioner"
+trait_01: [[chaotic]]
+trait_02: [[evil]]
+trait_03: [[petitioner]]
 modifier: 7
 perception:
   - name: "Perception"
@@ -61,11 +62,17 @@ attacks:
     desc: "`pf2:1` Bite +7 ()\n__Damage__  1d8 + 2 piercing"
 
   - name: "Planar Incarnation - Dead Vault"
-    desc: "  All petitioners are formed from and personify the nature of the plane on which they manifest, and their statistics are adjusted as summarized below. They also gain any trait associated with creatures from their plane.\n**Dead Vault** The caged are sent to Rovagug's prison plane, the Dead Vault; they appear as chained versions of their mortal bodies, save that their faces are hideous insectile visages\n*   **Alignment** CE;\n*   **Language** Abyssal;\n*   **Additional Ability** [[Bestiary Ability Glossary/Rend|Rend]] bite;\n*   **Melee** bite +7, **Damage** 1d8+2 piercing"
+    desc: "  All petitioners are formed from and personify the nature of the plane on which they manifest, and their statistics are adjusted as summarized below. They also gain any trait associated with creatures from their plane.\n\n**Dead Vault** The caged are sent to Rovagug's prison plane, the Dead Vault; they appear as chained versions of their mortal bodies, save that their faces are hideous insectile visages\n\n*   **Alignment** CE;\n*   **Language** Abyssal;\n*   **Additional Ability** [[Bestiary Ability Glossary/Rend|Rend]] bite;\n*   **Melee** bite +7, **Damage** 1d8+2 piercing"
 
   - name: "[[Bestiary Ability Glossary/Rend|Rend]]"
-    desc: "`pf2:1`  Bite\n"
+    desc: "`pf2:1`  Bite\n\n* * *\n"
  
+```
+
+```encounter-table
+name: Petitioner (Dead Vault)
+creatures:
+  - 1: Petitioner (Dead Vault)
 ```
 
 

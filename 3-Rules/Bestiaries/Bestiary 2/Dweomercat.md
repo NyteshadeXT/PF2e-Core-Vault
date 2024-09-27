@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.pathfinder-bestiary-2.Actor.n6cv7eCzPSs4dbHn"
 tags:
   - pf2e/creature/type/beast
   - pf2e/creature/type/chaotic
+  - pf2eMonster
   - pf2e/creature/level/7
 statblock: inline
 name: "Dweomercat"
@@ -22,11 +23,11 @@ token: [[modules/pf2e-tokens-bestiaries/portraits/bestial/mythological/dweomerca
 source: "Pathfinder Bestiary 2"
 name: "Dweomercat"
 level: "Creature 7"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Medium"
-trait_01: "beast"
-trait_02: "chaotic"
+trait_01: [[beast]]
+trait_02: [[chaotic]]
 modifier: 15
 perception:
   - name: "Perception"
@@ -53,7 +54,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Alter Dweomer"
-    desc: "`pf2:r` (arcane) **Trigger** The dweomercat is targeted by a spell or is within the area of a spell as it is cast\n**Effect** The dweomercat gains an effect related to the school of the triggering spell. This effect occurs before the dweomercat is affected by the triggering spell. The effect lasts for 1 minute, until the dweomercat uses this ability again, or until the dweomercat Dismisses the effect, whichever comes first.\n*   **Abjuration** The dweomercat gains a +1 status bonus to AC.\n*   **Conjuration** A cloud of fog appears in a 5-foot burst centered on a corner of the dweomercat's space. Anything in the cloud is [[Conditions/Concealed|Concealed]].\n*   **Divination** The dweomercat gains a +1 status bonus to all skill checks.\n*   **Enchantment** The dweomercat gains a +1 status bonus to all saves.\n*   **Evocation** Magical feedback deals 4d6 force damage to the triggering spellcaster (DC 22 Reflex check save).\n*   **Illusion** The dweomercat becomes [[Conditions/Invisible|Invisible]]. This effect ends if the dweomercat uses a hostile action, in addition to the normal end conditions.\n*   **Necromancy** The dweomercat gains 10 temporary HP.\n*   **Transmutation** The dweomercat gains a +1 status bonus to all attack rolls."
+    desc: "`pf2:r` (arcane) **Trigger** The dweomercat is targeted by a spell or is within the area of a spell as it is cast\n* * *\n\n**Effect** The dweomercat gains an effect related to the school of the triggering spell. This effect occurs before the dweomercat is affected by the triggering spell. The effect lasts for 1 minute, until the dweomercat uses this ability again, or until the dweomercat Dismisses the effect, whichever comes first.\n\n*   **Abjuration** The dweomercat gains a +1 status bonus to AC.\n*   **Conjuration** A cloud of fog appears in a @Template[burst|distance:5] centered on a corner of the dweomercat's space. Anything in the cloud is [[Conditions/Concealed|Concealed]].\n*   **Divination** The dweomercat gains a +1 status bonus to all skill checks.\n*   **Enchantment** The dweomercat gains a +1 status bonus to all saves.\n*   **Evocation** Magical feedback deals 4d6 force damage to the triggering spellcaster (DC 22 Reflex check save).\n*   **Illusion** The dweomercat becomes [[Conditions/Invisible|Invisible]]. This effect ends if the dweomercat uses a hostile action, in addition to the normal end conditions.\n*   **Necromancy** The dweomercat gains 10 temporary HP.\n*   **Transmutation** The dweomercat gains a +1 status bonus to all attack rolls."
 
 attacks:
   - name: ""
@@ -68,7 +69,7 @@ attacks:
     desc: "DC 26, attack +16; __4th __  _[[Spells/Translocate|Dimension Door (x3)]]_, _[[Spells/Dispel Magic|Dispel Magic (At will)]]_, _[[Spells/Dispelling Globe|Globe of Invulnerability]]_\n__Cantrips__  __(4th)__ _[[Spells/Detect Magic|Detect Magic]]_"
 
   - name: "Dweomer Leap"
-    desc: "`pf2:2` (arcane,teleportation) **Prerequisites** The dweomercat has at least one [[Spells/Translocate|Translocate]] spell remaining\n**Effect** The dweomercat casts _dimension door_, then can make a melee Strike against one creature adjacent to it at the end of its teleport. If the dweomercat ends its teleport adjacent to a creature under an ongoing spell effect or who cast a spell since the dweomercat's last turn, this does not expend a casting of _dimension door_."
+    desc: "`pf2:2` (arcane,teleportation) **Prerequisites** The dweomercat has at least one [[Spells/Translocate|Translocate]] spell remaining\n* * *\n\n**Effect** The dweomercat casts _dimension door_, then can make a melee Strike against one creature adjacent to it at the end of its teleport. If the dweomercat ends its teleport adjacent to a creature under an ongoing spell effect or who cast a spell since the dweomercat's last turn, this does not expend a casting of _dimension door_."
 
   - name: "Pounce"
     desc: "`pf2:1`  The dweomercat Strides and makes a Strike at the end of that movement. If the dweomercat began this action [[Conditions/Hidden|Hidden]], it remains hidden until after this ability's Strike."
@@ -76,6 +77,12 @@ attacks:
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
     desc: "`pf2:1`  "
  
+```
+
+```encounter-table
+name: Dweomercat
+creatures:
+  - 1: Dweomercat
 ```
 
 

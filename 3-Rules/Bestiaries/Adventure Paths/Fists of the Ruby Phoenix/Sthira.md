@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/undead
   - pf2e/creature/type/unholy
+  - pf2eMonster
   - pf2e/creature/level/20
 statblock: inline
 name: "Sthira"
@@ -23,18 +24,18 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #168: King of the Mountain"
 name: "Sthira"
 level: "Creature 20"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Large"
-trait_01: "cold"
-trait_02: "evil"
-trait_03: "undead"
-trait_04: "unholy"
+trait_01: [[cold]]
+trait_02: [[evil]]
+trait_03: [[undead]]
+trait_04: [[unholy]]
 modifier: 33
 perception:
   - name: "Perception"
     desc: "+33; Darkvision"
-languages: "Common"
+languages: "Common; (can&#x27;t speak any language)"
 skills:
   - name: "Skills"
     desc: "Athletics: +39"
@@ -81,8 +82,14 @@ attacks:
     desc: " (aura,cold,primal) 20 feet. A creature that starts its turn in the aura takes 6d6 cold damage (DC 42 Fortitude check save). If the creature is grabbed or restrained by the sthira, it takes one degree of success worse than it rolled."
 
   - name: "Frostbite"
-    desc: "  A creature that takes cold damage from a sthira's Strikes or aura must attempt a DC 42 Fortitude check save. A creature that already has persistent cold damage from frostbite ignores this effect.\n**Critical Success** The creature is unaffected, and is temporarily immune to this ability for 1 hour.\n**Success** The creature is unaffected.\n**Failure** The creature takes 3d6 persistent cold damage.\n**Critical Failure** As failure, but the creature is also [[Conditions/Drained 1|Drained 1]]."
+    desc: "  A creature that takes cold damage from a sthira's Strikes or aura must attempt a DC 42 Fortitude check save. A creature that already has persistent cold damage from frostbite ignores this effect.\n* * *\n\n**Critical Success** The creature is unaffected, and is temporarily immune to this ability for 1 hour.\n\n**Success** The creature is unaffected.\n\n**Failure** The creature takes 3d6 persistent cold damage.\n\n**Critical Failure** As failure, but the creature is also [[Conditions/Drained|Drained 1]]."
  
+```
+
+```encounter-table
+name: Sthira
+creatures:
+  - 1: Sthira
 ```
 
 

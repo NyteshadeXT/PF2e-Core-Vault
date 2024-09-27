@@ -11,7 +11,7 @@ license: OGL
 ---
 # Inspiring Spotlight
 ## Item 9
-### [uncommon](uncommon "Uncommon Rarity Trait")[[3-Rules/Character Building/Spells/Light]][[magical]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[light]][[magical]]
 
 
 **Price** 650 gp; 
@@ -26,7 +26,7 @@ An _inspiring spotlight_ is a bulky contraption consisting of a drum-shaped meta
 
 * * *
 
-**Effect** When you push the left-hand button, the _inspiring spotlight_ emits a beam of bright magical light in a 120-foot line that hangs in the air and remains in place even if you move the spotlight. If the line passes through an area of magical darkness or targets a creature affected by magical darkness, the _inspiring spotlight_ attempts to counteract the darkness.
+**Effect** When you push the left-hand button, the _inspiring spotlight_ emits a beam of bright magical light in a @Template\[line|distance:120\] that hangs in the air and remains in place even if you move the spotlight. If the line passes through an area of magical darkness or targets a creature affected by magical darkness, the _inspiring spotlight_ attempts to counteract the darkness.
 
 Creatures within the line gain a +1 item bonus to saving throws and Charisma-based skill checks. In addition, creatures in the line who are frightened reduce the value of their frightened condition by 1 at the beginning of each turn they start in the area of the line.
 

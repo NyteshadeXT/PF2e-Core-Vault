@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/skeleton
   - pf2e/creature/type/undead
   - pf2e/creature/type/unholy
+  - pf2eMonster
   - pf2e/creature/level/4
 statblock: inline
 name: "Skeletal Gladiator"
@@ -26,10 +27,10 @@ level: "Creature 4"
 
 alignment: ""
 size: "Medium"
-trait_01: "evil"
-trait_02: "skeleton"
-trait_03: "undead"
-trait_04: "unholy"
+trait_01: [[evil]]
+trait_02: [[skeleton]]
+trait_03: [[undead]]
+trait_04: [[unholy]]
 modifier: 11
 perception:
   - name: "Perception"
@@ -74,6 +75,12 @@ attacks:
   - name: "Melee"
     desc: "`pf2:1` Lance +14 (deadly d8, jousting d6, reach 10 feet)\n__Damage__  1d8 + 8 piercing"
  
+```
+
+```encounter-table
+name: Skeletal Gladiator
+creatures:
+  - 1: Skeletal Gladiator
 ```
 
 

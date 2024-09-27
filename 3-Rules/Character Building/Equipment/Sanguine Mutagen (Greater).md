@@ -32,5 +32,7 @@ When you roll a success on a save against a disease, poison, or effect that woul
 
 **Drawback** Whenever you take piercing or slashing damage, you take 1d6 bleed.
 
+[[Equipment Effects/Effect_ Sanguine Mutagen (Greater)|Effect: Sanguine Mutagen (Greater)]]
+
 *Source: Pathfinder Treasure Vault*
 *OGL*

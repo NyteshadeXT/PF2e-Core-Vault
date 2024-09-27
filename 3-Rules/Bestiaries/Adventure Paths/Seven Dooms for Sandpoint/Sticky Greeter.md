@@ -5,6 +5,7 @@ noteType: pf2eHazard
 tags:
   - mechanical
   - trap
+  - pf2eHazard
 
 source: Pathfinder #200: Seven Dooms for Sandpoint
 aliases: "Compendium.pf2e.seven-dooms-for-sandpoint-bestiary.Actor.2j2PyCu5eShIZqUQ" 
@@ -22,14 +23,14 @@ name: "Sticky Greeter"
 level: "Hazard 5"
 
 
-trait_01: "mechanical"
-trait_02: "trap"
+trait_01: [[mechanical]]
+trait_02: [[trap]]
 modifier: 13
 sourcebook: "_Pathfinder #200: Seven Dooms for Sandpoint_"
 ac: 19
 armorclass:
   - name: AC
-    desc: "19; __Fort__ +15, __Ref__ +9, __Will__ +0"
+    desc: "19; __Fort__ +15, __Ref__ +9, "
 hp: 40
 health:
   - name: ""
@@ -51,13 +52,19 @@ attacks:
   - name: ""
 
   - name: "Web"
-    desc: "passive **Web Hardness** 5\n**Web HP** 20\n**Immunities** bludgeoning damage, critical hits, object immunities, piercing damage, precision damage"
+    desc: "passive **Web Hardness** 5\n\n**Web HP** 20\n\n**Immunities** bludgeoning damage, critical hits, object immunities, piercing damage, precision damage"
 
   - name: "Spray Webbing"
-    desc: "`pf2:r` **Trigger** A creature steps on the pressure plate adjacent to the sticky greeter\n**Effect** The sticky greeter lurches as its abdomen snaps forward, opens, and sprays the triggering creature with thick sheets of alchemical webbing. At the same time, the sticky greeter emits a high-pitched whistling sound. The creature must make a DC 26 Reflex check save or become [[Conditions/Immobilized|Immobilized]] and held in place, or [[Conditions/Restrained|Restrained]] on a critical failure until it [[Actions/Escape|Escapes]] (DC 22) or the webbing binding it is destroyed."
+    desc: "`pf2:r` **Trigger** A creature steps on the pressure plate adjacent to the sticky greeter\n* * *\n\n**Effect** The sticky greeter lurches as its abdomen snaps forward, opens, and sprays the triggering creature with thick sheets of alchemical webbing. At the same time, the sticky greeter emits a high-pitched whistling sound. The creature must make a DC 26 Reflex check save or become [[Conditions/Immobilized|Immobilized]] and held in place, or [[Conditions/Restrained|Restrained]] on a critical failure until it [[Actions/Escape|Escapes]] (DC 22) or the webbing binding it is destroyed."
 
 
   - name: "Reset"
     desc: "The sticky greeters must be reset manually."
+```
+
+```encounter-table
+name: Sticky Greeter
+creatures:
+  - 1: Sticky Greeter
 ```
 

@@ -20,7 +20,7 @@ tags:
 
 # Pinched Nerve
 
-> Until healed, you take a [[Other Effects/Effect\_ -10-foot circumstance penalty to your land Speed|-10-foot circumstance penalty to your land Speed]] and are [[Conditions/Clumsy 1|Clumsy 1]].
+> Until healed, you take a [[Other Effects/Effect_ -10-foot circumstance penalty to your land Speed|-10-foot circumstance penalty to your land Speed]] and are [[Conditions/Clumsy|Clumsy 1]].
 
 `Unarmed`
 

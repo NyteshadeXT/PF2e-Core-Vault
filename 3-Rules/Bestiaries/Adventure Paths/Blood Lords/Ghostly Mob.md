@@ -12,6 +12,7 @@ tags:
   - pf2e/creature/type/troop
   - pf2e/creature/type/undead
   - pf2e/creature/type/unholy
+  - pf2eMonster
   - pf2e/creature/level/8
 statblock: inline
 name: "Ghostly Mob"
@@ -26,16 +27,16 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #182: Graveclaw"
 name: "Ghostly Mob"
 level: "Creature 8"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "grg"
-trait_01: "chaotic"
-trait_02: "evil"
-trait_03: "ghost"
-trait_04: "incorporeal"
-trait_05: "troop"
-trait_06: "undead"
-trait_07: "unholy"
+trait_01: [[chaotic]]
+trait_02: [[evil]]
+trait_03: [[ghost]]
+trait_04: [[incorporeal]]
+trait_05: [[troop]]
+trait_06: [[undead]]
+trait_07: [[unholy]]
 modifier: 16
 perception:
   - name: "Perception"
@@ -43,7 +44,7 @@ perception:
 languages: "Common, Necril"
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +16, Local Lore: +14, Stealth: +16"
+    desc: "Acrobatics: +16, Stealth: +16, Local Lore: +14"
 abilityMods: [-5, 4, 3, 0, 4, 4]
 speed:  fly 25 feet
 sourcebook: "_Pathfinder #182: Graveclaw_"
@@ -71,20 +72,26 @@ abilities_mid:
     desc: " (divine) When a ghostly mob is destroyed, it re-forms after 2d4 days, fully healed. A ghostly mob can be permanently destroyed only if someone determines the reason for its existence and sets right whatever prevents the troop from resting."
 
   - name: "[[Bestiary Ability Glossary/Troop Defenses|Troop Defenses]]"
-    desc: "  **Thresholds** 70 (12 squares), 35 (8 squares)\n"
+    desc: "  **Thresholds** 70 (12 squares), 35 (8 squares)\n\n* * *\n"
 
 attacks:
   - name: ""
 
   - name: "Clutching Hands"
-    desc: "`pf2:1` (divine) `pf2:1` to `pf2:3`\n**Frequency** once per round\n**Effect** The troop attacks enemies within 5 feet (DC 25 Reflex check), with damage depending on the number of actions.\n`pf2:1` 1d6 + 3 void damage\n`pf2:2` 3d6 + 6 void damage\n`pf2:3` 4d6 + 9 void damage"
+    desc: "`pf2:1` (divine) `pf2:1` to `pf2:3`\n\n**Frequency** once per round\n* * *\n\n**Effect** The troop attacks enemies within 5 feet (DC 25 Reflex check), with damage depending on the number of actions.\n\n`pf2:1` 1d6+3 void damage\n\n`pf2:2` 3d6+6 void damage\n\n`pf2:3` 4d6+9 void damage"
 
   - name: "Frightful Chorus"
-    desc: "`pf2:2` (auditory,divine,emotion,fear,mental) The ghostly mob howls in anguish, forcing each living creature in a 30-foot emanation to attempt a DC 25 Will check save or become [[Conditions/Frightened 1|Frightened 2]] ([[Conditions/Frightened 1|Frightened 3]] on a critical failure). Regardless of the save result, the creature is then temporarily immune to the troop's Frightful Chorus for 1 minute."
+    desc: "`pf2:2` (auditory,divine,emotion,fear,mental) The ghostly mob howls in anguish, forcing each living creature in a @Template[emanation|distance:30] to attempt a DC 25 Will check save or become [[Conditions/Frightened|Frightened 2]] ([[Conditions/Frightened|Frightened 3]] on a critical failure). Regardless of the save result, the creature is then temporarily immune to the troop's Frightful Chorus for 1 minute."
 
   - name: "Troop Movement"
     desc: "  Whenever the ghostly mob Strides, it first Forms Up as a free action to condense into a 20-foot-by-20-foot area (minus any missing squares), and then moves. This works just like a Gargantuan creature moving; for instance, if any of the ghostly mob's squares enter difficult terrain, the extra movement cost applies to the whole group."
  
+```
+
+```encounter-table
+name: Ghostly Mob
+creatures:
+  - 1: Ghostly Mob
 ```
 
 

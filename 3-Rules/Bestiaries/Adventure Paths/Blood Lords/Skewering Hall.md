@@ -5,6 +5,7 @@ noteType: pf2eHazard
 tags:
   - mechanical
   - trap
+  - pf2eHazard
 
 source: Pathfinder #186: Ghost King&#x27;s Rage
 aliases: "Compendium.pf2e.blood-lords-bestiary.Actor.puzF8NkxRVv3Lrz8" 
@@ -22,14 +23,14 @@ name: "Skewering Hall"
 level: "Hazard 19"
 
 
-trait_01: "mechanical"
-trait_02: "trap"
+trait_01: [[mechanical]]
+trait_02: [[trap]]
 modifier: 37
 sourcebook: "_Pathfinder #186: Ghost King's Rage_"
 ac: 43
 armorclass:
   - name: AC
-    desc: "43; __Fort__ +35, __Ref__ +29, __Will__ +0"
+    desc: "43; __Fort__ +35, __Ref__ +29, "
 hp: 130
 health:
   - name: ""
@@ -51,11 +52,17 @@ attacks:
   - name: ""
 
   - name: "Skewer"
-    desc: "`pf2:r` (attack) **Trigger** Pressure is applied to the pressure plate\n**Effect** A dozen spears extend into the hall, making one spear Strike against each creature in the hall, up to a total of 12 spear Strikes."
+    desc: "`pf2:r` (attack) **Trigger** Pressure is applied to the pressure plate\n* * *\n\n**Effect** A dozen spears extend into the hall, making one spear Strike against each creature in the hall, up to a total of 12 spear Strikes."
   - name: "Melee"
     desc: "Spear +40 () "
 
 
 
+```
+
+```encounter-table
+name: Skewering Hall
+creatures:
+  - 1: Skewering Hall
 ```
 

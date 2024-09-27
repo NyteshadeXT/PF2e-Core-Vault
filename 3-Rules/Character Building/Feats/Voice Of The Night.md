@@ -1,15 +1,16 @@
 ---
 obsidianUIMode: preview
-title: "Voice Of The Night"
+title: "Voice of the Night"
 cssclasses: pf2e,pf2e-spell
 tags:
   - trait/dhampir
   - trait/common
   - category/ancestry
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.5VkVWZq7ZqH6RaAW"
-license: OGL
+license: ORC
 ---
-# Voice Of The Night
+# Voice of the Night
 ## Feat 1
 ### [[dhampir]]
 
@@ -18,7 +19,7 @@ license: OGL
 
 
 
-You hear and understand the words of creatures you share the darkness with. You can ask questions of, receive answers from, and use Diplomacy with bats, rats, and wolves. You also gain a +1 circumstance bonus to [[Actions/Make an Impression|Make an Impression]] on such animals.
+You hear and understand the words of creatures you share the darkness with. You can ask questions of, receive answers from, and use the Diplomacy skill with bats, rats, and wolves. You also gain a +1 circumstance bonus to [[Actions/Make an Impression|Make an Impression]] on such animals.
 
-*Source: Pathfinder Advanced Player's Guide*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

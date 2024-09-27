@@ -12,7 +12,7 @@ license: OGL
 ---
 # Familiar Morsel
 ## Item 5
-### [[consumable]][[magical]]
+### [[consumable]][[3-Rules/Rule References/Magical]]
 
 **Category** other; 
 **Price** 30 gp; 

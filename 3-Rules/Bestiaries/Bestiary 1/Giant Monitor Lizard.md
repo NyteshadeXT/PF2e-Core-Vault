@@ -6,6 +6,7 @@ cssClasses: pf2e
 aliases: "Compendium.pf2e.pathfinder-bestiary.Actor.SuWpn5yZdsHDHpL2" 
 tags:
   - pf2e/creature/type/animal
+  - pf2eMonster
   - pf2e/creature/level/2
 statblock: inline
 name: "Giant Monitor Lizard"
@@ -24,11 +25,12 @@ level: "Creature 2"
 
 alignment: ""
 size: "Medium"
-trait_01: "animal"
+trait_01: [[animal]]
 modifier: 7
 perception:
   - name: "Perception"
     desc: "+7; Low-Light Vision, Scent (Imprecise) 30 Feet"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Acrobatics: +6, Athletics: +9, Stealth: +6"
@@ -56,17 +58,23 @@ attacks:
     desc: "`pf2:1` Jaws +11 ()\n__Damage__  1d10 + 3 piercing plus grab,monitor-lizard-venom"
 
   - name: "Gnashing Grip"
-    desc: "`pf2:r`  **Trigger** A creature [[Conditions/Grabbed|Grabbed]] by the giant monitor lizard's jaws fails a check to [[Actions/Escape|Escape]].\n**Effect** The giant monitor lizard's jaws deal 1d6 piercing damage and the triggering creature is exposed to monitor lizard venom."
+    desc: "`pf2:r`  **Trigger** A creature [[Conditions/Grabbed|Grabbed]] by the giant monitor lizard's jaws fails a check to [[Actions/Escape|Escape]].\n* * *\n\n**Effect** The giant monitor lizard's jaws deal 1d6 piercing damage and the triggering creature is exposed to monitor lizard venom."
 
   - name: "Lurching Charge"
     desc: "`pf2:2`  The giant monitor lizard Strides twice and then makes a jaws Strike. If the lizard moved at least 20 feet away from its starting position, it gains a +2 circumstance bonus to this attack roll."
 
   - name: "Monitor Lizard Venom"
-    desc: " (poison) **Saving Throw** DC 17 Fortitude check\n**Maximum Duration** 6 rounds\n**Stage 1** [[Conditions/Enfeebled 1|Enfeebled 1]] (1 round)\n**Stage 2** 1d6 poison damage and [[Conditions/Enfeebled 1|Enfeebled 2]] (1 round)"
+    desc: " (poison) **Saving Throw** DC 17 Fortitude check\n* * *\n\n**Maximum Duration** 6 rounds\n\n**Stage 1** [[Conditions/Enfeebled|Enfeebled 1]] (1 round)\n\n**Stage 2** 1d6 poison damage and [[Conditions/Enfeebled|Enfeebled 2]] (1 round)"
 
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
     desc: "`pf2:1`  "
  
+```
+
+```encounter-table
+name: Giant Monitor Lizard
+creatures:
+  - 1: Giant Monitor Lizard
 ```
 
 

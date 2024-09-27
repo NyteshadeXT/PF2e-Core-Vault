@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.pfs-season-5-bestiary.Actor.CsTQHukdMTfu9WOZ"
 tags:
   - pf2e/creature/type/elemental
   - pf2e/creature/type/metal
+  - pf2eMonster
   - pf2e/creature/level/1
 statblock: inline
 name: "Metal Rascal"
@@ -24,8 +25,8 @@ level: "Creature 1"
 
 alignment: ""
 size: "Small"
-trait_01: "elemental"
-trait_02: "metal"
+trait_01: [[elemental]]
+trait_02: [[metal]]
 modifier: 3
 perception:
   - name: "Perception"
@@ -61,8 +62,14 @@ attacks:
     desc: "DC 17, attack +9; __2nd __  _[[Spells/Magnetic Attraction|Magnetic Attraction]]_"
 
   - name: "Breathe Shrapnel"
-    desc: "`pf2:1` (arcane,metal) The metal scamp breathes a 15-foot cone of jagged metal flakes that deals 2d4 slashing + 1d4 bleed damage to each creature within the area (DC 17 Reflex check save).\nThe metal scamp can't Breathe Shrapnel again for 1d4 rounds."
+    desc: "`pf2:1` (arcane,metal) The metal scamp breathes a @Template[cone|distance:15] of jagged metal flakes that deals 2d4 slashing + 1d4 bleed damage to each creature within the area (DC 17 Reflex check save).\n\nThe metal scamp can't Breathe Shrapnel again for 1d4 rounds."
  
+```
+
+```encounter-table
+name: Metal Rascal
+creatures:
+  - 1: Metal Rascal
 ```
 
 

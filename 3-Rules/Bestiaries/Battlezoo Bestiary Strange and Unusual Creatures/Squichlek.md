@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/aberration
   - pf2e/creature/type/chaotic
   - pf2e/creature/type/evil
+  - pf2eMonster
   - pf2e/creature/level/3
 statblock: inline
 name: "Squichlek"
@@ -23,20 +24,20 @@ token: [[modules/battlezoo-bestiary-su-pf2e/art/Portraits/squichlek.webp| ]]
 source: "Battlezoo Bestiary: Strange and Unusual"
 name: "Squichlek"
 level: "Creature 3"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "tiny"
-trait_01: "aberration"
-trait_02: "chaotic"
-trait_03: "evil"
+trait_01: [[aberration]]
+trait_02: [[chaotic]]
+trait_03: [[evil]]
 modifier: 9
 perception:
   - name: "Perception"
     desc: "+9; Darkvision"
-languages: "Aklo"
+languages: "Aklo; can&#x27;t speak any language"
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +10, Athletics: +7, Intimidation: +9, Stealth: +10, "
+    desc: "Acrobatics: +10, Athletics: +7, Intimidation: +9, Stealth: +10, Acrobatics: +10, Athletics: +7, Intimidation: +9, Stealth: +10"
 abilityMods: [1, 4, 1, -1, 0, 1]
 speed: 10 feet,  fly 30 feet
 sourcebook: "_Battlezoo Bestiary: Strange and Unusual_"
@@ -70,14 +71,20 @@ attacks:
     desc: "`pf2:1` Tentacle +10 (agile, finesse)\n__Damage__  1d8 + 5 bludgeoning plus agonizing-enzyme"
 
   - name: "Disturbing Display"
-    desc: "`pf2:1` (emotion,mental,occult,visual) The squichlek writhes its tentacles in a particularly disturbing manner, and creatures in a 10-foot emanation must attempt a DC 19 Will check save. Once a creature attempts this save, it is temporarily immune to further Disturbing Displays for 1 minute.\n**Critical Success** The creature is unaffected.\n**Success** The creature is Off-Guard until its next turn.\n**Failure** The creature is Sickened 1, and is off-guard for as long as it is sickened.\n**Critical Failure** The creature is Sickened 2 and is off-guard for as long as it is sickened."
+    desc: "`pf2:1` (emotion,mental,occult,visual) The squichlek writhes its tentacles in a particularly disturbing manner, and creatures in a 10-foot emanation must attempt a DC 19 Will check save. Once a creature attempts this save, it is temporarily immune to further Disturbing Displays for 1 minute.\n* * *\n\n**Critical Success** The creature is unaffected.\n\n**Success** The creature is [[undefined]] until its next turn.\n\n**Failure** The creature is [[undefined]], and is off-guard for as long as it is sickened.\n\n**Critical Failure** The creature is [[undefined]] and is off-guard for as long as it is sickened."
 
   - name: "Agonizing Enzyme"
-    desc: " (occult,poison) A squichlek's tentacles secrete an enzyme that causes a brief, but intense pain. A living creature hit by a tentacle Strike or Grabbed by the squichlek must succeed at a DC 19 Fortitude check save or become Stupefied 1 for 1 round from the pain."
+    desc: " (occult,poison) A squichlek's tentacles secrete an enzyme that causes a brief, but intense pain. A living creature hit by a tentacle Strike or [[undefined]] by the squichlek must succeed at a DC 19 Fortitude check save or become [[undefined]] for 1 round from the pain."
 
   - name: "Tearing Beak"
-    desc: "  The squichlek's beak attack does an additional 1d4 persistent bleed damage against Off-Guard creatures."
+    desc: "  The squichlek's beak attack does an additional 1d4 persistent bleed damage against [[undefined]] creatures."
  
+```
+
+```encounter-table
+name: Squichlek
+creatures:
+  - 1: Squichlek
 ```
 
 

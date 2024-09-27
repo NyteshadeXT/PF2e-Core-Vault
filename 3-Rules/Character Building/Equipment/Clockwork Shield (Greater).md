@@ -10,7 +10,7 @@ license: OGL
 ---
 # Clockwork Shield (Greater)
 ## Item 18
-### [[magical]]
+### [[3-Rules/Rule References/Magical]]
 
 
 **Price** 22000 gp; 

@@ -37,5 +37,5 @@ You manifest a ghostly deck of harrow cards. Draw a card from a harrow deck, the
 
 **Crowns:** 4d6 acid
 
-*Source: Pathfinder: Stolen Fate Player's Guide*
+*Source: Pathfinder Stolen Fate Player's Guide*
 *OGL*

@@ -6,6 +6,7 @@ cssClasses: pf2e
 aliases: "Compendium.pf2e.pfs-season-2-bestiary.Actor.tY5snIGj4jBSJcay" 
 tags:
   - pf2e/creature/type/animal
+  - pf2eMonster
   - pf2e/creature/level/5
 statblock: inline
 name: "Ogre Spider (PFS 2-18)"
@@ -23,11 +24,12 @@ level: "Creature 5"
 
 alignment: ""
 size: "huge"
-trait_01: "animal"
+trait_01: [[animal]]
 modifier: 7
 perception:
   - name: "Perception"
     desc: "+7; Darkvision"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Acrobatics: +13, Athletics: +13"
@@ -64,11 +66,17 @@ attacks:
     desc: "  An ogre spider can fit through tight spaces as if it were a Large creature. While [[Actions/Squeeze|Squeezing]], it can move at its full speed."
 
   - name: "Ogre Spider Venom"
-    desc: " (poison) **Saving Throw** DC 22 Fortitude check\n**Maximum Duration** 6 rounds\n**Stage 1** 1d6 poison damage (1 round)\n**Stage 2** 1d6 poison damage, [[Conditions/Clumsy 1|Clumsy 1]], and [[Conditions/Enfeebled 1|Enfeebled 1]] (1 round)\n**Stage 3** 2d6 poison damage, Clumsy 1, and Enfeebled 1 (1 round)\n**Stage 4** 2d6 poison damage, [[Conditions/Clumsy 1|Clumsy 2]], and [[Conditions/Enfeebled 1|Enfeebled 2]] (1 round)"
+    desc: " (poison) **Saving Throw** DC 22 Fortitude check\n\n**Maximum Duration** 6 rounds\n\n**Stage 1** 1d6 poison damage (1 round)\n\n**Stage 2** 1d6 poison damage, [[Conditions/Clumsy|Clumsy 1]], and [[Conditions/Enfeebled|Enfeebled 1]] (1 round)\n\n**Stage 3** 2d6 poison damage, Clumsy 1, and Enfeebled 1 (1 round)\n\n**Stage 4** 2d6 poison damage, [[Conditions/Clumsy|Clumsy 2]], and [[Conditions/Enfeebled|Enfeebled 2]] (1 round)"
 
   - name: "Web Trap"
     desc: "  A creature hit by the ogre spider's web attack is [[Conditions/Immobilized|Immobilized]] and stuck to the nearest surface until it [[Actions/Escape|Escapes]] (DC 22)."
  
+```
+
+```encounter-table
+name: Ogre Spider (PFS 2-18)
+creatures:
+  - 1: Ogre Spider (PFS 2-18)
 ```
 
 

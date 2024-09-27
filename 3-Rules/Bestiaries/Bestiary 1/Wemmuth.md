@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.pathfinder-bestiary.Actor.NTXm3ee7WZJ92Sww"
 tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/plant
+  - pf2eMonster
   - pf2e/creature/level/15
 statblock: inline
 name: "Wemmuth"
@@ -25,13 +26,13 @@ level: "Creature 15"
 
 alignment: ""
 size: "huge"
-trait_01: "evil"
-trait_02: "plant"
+trait_01: [[evil]]
+trait_02: [[plant]]
 modifier: 25
 perception:
   - name: "Perception"
     desc: "+25; Darkvision, Tremorsense (Imprecise) 60 Feet"
-languages: "Aklo, Fey"
+languages: "Aklo, Fey; (can&#x27;t speak any language)"
 skills:
   - name: "Skills"
     desc: "Athletics: +30, Deception: +28, Stealth: +30, Survival: +27"
@@ -62,17 +63,23 @@ attacks:
     desc: "`pf2:1` Boulder +27 (fatal d12, range increment 60 feet)\n__Damage__  4d10 + 10 bludgeoning"
 
   - name: "Blood Leech"
-    desc: "`pf2:r`  **Trigger** The wemmuth deals damage to a creature with Constrict.\n**Effect** The wemmuth heals a number of Hit Points equal to half the total damage dealt by Constrict."
+    desc: "`pf2:r`  **Trigger** The wemmuth deals damage to a creature with Constrict.\n* * *\n\n**Effect** The wemmuth heals a number of Hit Points equal to half the total damage dealt by Constrict."
 
   - name: "[[Bestiary Ability Glossary/Constrict|Constrict]]"
-    desc: "`pf2:1`  2d12 + 10 bludgeoning damage, DC 37 Fortitude check save\n"
+    desc: "`pf2:1`  2d12+10 bludgeoning damage, DC 37 Fortitude check save\n\n* * *\n"
 
   - name: "[[Bestiary Ability Glossary/Engulf|Engulf]]"
-    desc: "`pf2:2`  DC 37 Reflex check, 4d8 bludgeoning damage, Escape DC 35, Rupture 36\n"
+    desc: "`pf2:2`  DC 37 Reflex check, 4d8 bludgeoning damage, Escape DC 35, Rupture 36\n\n* * *\n"
 
   - name: "Thorny Mass"
-    desc: "  Whenever a creature within 10 feet attempts a melee attack against a wemmuth or uses Acrobatics to [[Actions/Tumble Through|Tumble Through]] its space, that creature takes 1d12 + 10 piercing damage."
+    desc: "  Whenever a creature within 10 feet attempts a melee attack against a wemmuth or uses Acrobatics to [[Actions/Tumble Through|Tumble Through]] its space, that creature takes 1d12+10 piercing damage."
  
+```
+
+```encounter-table
+name: Wemmuth
+creatures:
+  - 1: Wemmuth
 ```
 
 

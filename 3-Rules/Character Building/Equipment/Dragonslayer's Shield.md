@@ -11,7 +11,7 @@ license: ORC
 ---
 # Dragonslayer's Shield
 ## Item 9
-### [uncommon](uncommon "Uncommon Rarity Trait")[[magical]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[3-Rules/Rule References/Magical]]
 
 
 **Price** 670 gp; 
@@ -25,20 +25,6 @@ While you hold the shield, it also grants you a +2 circumstance bonus to Will sa
 * * *
 
 **Craft Requirements** The initial raw materials must include at least 30 gp of dragonhide.
-
-* * *
-
-## Dragonhide
-
-  
-
-| Dragon Type | Resistance |
-| --- | --- |
-| Black or copper | Acid |
-| Blue or bronze | Electricity |
-| Brass, gold or red | Fire |
-| Green | Poison |
-| Silver or white | Cold |
 
 *Source: Pathfinder GM Core*
 *ORC*

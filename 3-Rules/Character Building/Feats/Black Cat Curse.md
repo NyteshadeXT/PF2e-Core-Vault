@@ -8,8 +8,9 @@ tags:
   - trait/occult
   - trait/common
   - category/ancestry
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.fX5FybM93HIQRRd1"
-license: OGL
+license: ORC
 ---
 # Black Cat Curse `pf2:r`
 ## Feat 13
@@ -26,7 +27,7 @@ license: OGL
 
 * * *
 
-You hiss a spiteful curse at the creature. The target must reroll the triggering saving throw and use the worse result.
+You hiss a spiteful curse. The target rerolls the triggering saving throw and use the worse result.
 
-*Source: Pathfinder Advanced Player's Guide*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

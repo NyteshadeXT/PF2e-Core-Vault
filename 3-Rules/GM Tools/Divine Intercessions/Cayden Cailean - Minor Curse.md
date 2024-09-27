@@ -17,7 +17,7 @@ license: OGL
 
 
 
-**Minor Curse** Individuals who raise Cayden's passing displeasure awake as if from a hard night of drinking and find that drink tastes foul.
+Individuals who raise Cayden's passing displeasure awake as if from a hard night of drinking and find that drink tastes foul.
 
 *Source: Pathfinder Lost Omens: Gods & Magic*
 *OGL*

@@ -26,7 +26,7 @@ Woody vines and branches curl and twist around each other, growing small twigs, 
 
 * * *
 
-**Effect** A branch grows from your prosthesis, quickly flowering and then producing 1d4 ripe and flavorful fruits. A creature can pick and eat a fruit with an Interact action to regain 2d6 + 5 Hit Points. The fruits wither away after 10 minutes.
+**Effect** A branch grows from your prosthesis, quickly flowering and then producing 1d4 ripe and flavorful fruits. A creature can pick and eat a fruit with an Interact action to regain 2d6+5 healing Hit Points. The fruits wither away after 10 minutes.
 
 *Source: Pathfinder Treasure Vault*
 *OGL*

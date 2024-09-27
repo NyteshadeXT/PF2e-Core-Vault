@@ -5,6 +5,7 @@ noteType: pf2eHazard
 tags:
   - environmental
   - fire
+  - pf2eHazard
   - complex
 source: Pathfinder #190: The Choosing
 aliases: "Compendium.pf2e.stolen-fate-bestiary.Actor.UX7QKytewemOnNeX" 
@@ -22,8 +23,8 @@ name: "Stage Fire"
 level: "Hazard 12"
 
 trait_06: "Complex"
-trait_01: "environmental"
-trait_02: "fire"
+trait_01: [[environmental]]
+trait_02: [[fire]]
 modifier: 28
 sourcebook: "_Pathfinder #190: The Choosing_"
 perception:
@@ -45,7 +46,13 @@ attacks:
     desc: "passive When this encounter begins, the fire erupts in a ring that encircles the entire stage, as shown by the dotted outline on the map. The stage fire then rolls initiative."
 
   - name: "Routine"
-    desc: "On its turn, the stage fire expands inward and outward by 5 feet, filling all adjacent squares with fire. Creatures within these squares take 4d6 fire damage (DC 30 Reflex check), as do any creatures that enter a burning square. This fire damage can be inflicted on a creature only once per turn.\nIn addition, a creature that ends its turn in a burning square takes 8d6 fire damage (DC 30 Reflex check); on a failed save, that creature also takes 1d6 persistent fire damage."
+    desc: "On its turn, the stage fire expands inward and outward by 5 feet, filling all adjacent squares with fire. Creatures within these squares take 4d6 fire damage (DC 30 Reflex check), as do any creatures that enter a burning square. This fire damage can be inflicted on a creature only once per turn.\n\nIn addition, a creature that ends its turn in a burning square takes 8d6 fire damage (DC 30 Reflex check); on a failed save, that creature also takes 1d6 persistent fire damage."
 
+```
+
+```encounter-table
+name: Stage Fire
+creatures:
+  - 1: Stage Fire
 ```
 

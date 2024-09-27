@@ -4,8 +4,9 @@ title: "Stance: Wolf Stance"
 cssclasses: pf2e,pf2e-action
 tags:
   - trait/common
+  - remaster
 aliases: "Compendium.pf2e.feat-effects.Item.b2kWJuCPj1rDMdwz"
-license: OGL
+license: ORC
 ---
 # Stance: Wolf Stance
 
@@ -22,5 +23,5 @@ You enter the stance of a wolf, low to the ground with your hands held like fang
 
 If you're flanking a target while in Wolf Stance, your wolf jaw unarmed attacks also gain the trip trait.
 
-*Source: Pathfinder Core Rulebook*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/incorporeal
   - pf2e/creature/type/spirit
   - pf2e/creature/type/undead
+  - pf2eMonster
   - pf2e/creature/level/5
 statblock: inline
 name: "Syarstik Painted-Tiger"
@@ -23,13 +24,13 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #175: Broken Tusk Moon"
 name: "Syarstik Painted-Tiger"
 level: "Creature 5"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Large"
-trait_01: "ghost"
-trait_02: "incorporeal"
-trait_03: "spirit"
-trait_04: "undead"
+trait_01: [[ghost]]
+trait_02: [[incorporeal]]
+trait_03: [[spirit]]
+trait_04: [[undead]]
 modifier: 14
 perception:
   - name: "Perception"
@@ -54,7 +55,7 @@ abilities_top:
   - name: ""
 
   - name: "[[Creature Family Ability Glossary/(Ghost) Site Bound|Site Bound]]"
-    desc: "  Syarstik can't leave Red Cat Cave, and he rarely ever leaves area **E9**\nA typical ghost can stray only a short distance from where it was killed or the place it haunts. A typical limit is 120 feet. Some ghosts are instead bound to a room, building, item, or creature that was special to it rather than a location."
+    desc: "  Syarstik can't leave Red Cat Cave, and he rarely ever leaves area **E9**\n* * *\n\nA typical ghost can stray only a short distance from where it was killed or the place it haunts. A typical limit is 120 feet. Some ghosts are instead bound to a room, building, item, or creature that was special to it rather than a location."
 
 abilities_mid:
   - name: ""
@@ -71,7 +72,7 @@ attacks:
     desc: "`pf2:1` Ghostly Claw +15 (agile, finesse, magical)\n__Damage__  2d4 + 4 void"
 
   - name: "Awaken Painting"
-    desc: "`pf2:2` (divine) Syarstik animates a cave painting within 60 feet for 10 minutes. The painting's movement mimics Syarstik's, so the connection between the ghost and the awakened painting is obvious. Creatures other than Syarstik within 10 feet of the awakened painting are [[Conditions/Off-Guard|Off-Guard]] because of these eerie movements. Syarstik can make ghostly fangs Strikes at any creature within 10 feet of a cave painting; the target's cover or concealment from the cave painting, rather than from Syarstik, applies to this Strike.\nA creature adjacent to an awakened painting can spend 2 actions to attempt a DC 18 Occultism check or DC 18 Religion check check (to compel the awakened painting to abate) or a DC 20 Crafting check or DC 20 Thievery check check (to thoroughly smear the cave painting). On a success, the painting is destroyed, and the animation ceases. Either way, this activity has the concentrate trait.\nDestroying three awakened paintings quells Syarstik's anger, causing the great cat to cease his attacks."
+    desc: "`pf2:2` (divine) Syarstik animates a cave painting within 60 feet for 10 minutes. The painting's movement mimics Syarstik's, so the connection between the ghost and the awakened painting is obvious. Creatures other than Syarstik within 10 feet of the awakened painting are [[Conditions/Off-Guard|Off-Guard]] because of these eerie movements. Syarstik can make ghostly fangs Strikes at any creature within 10 feet of a cave painting; the target's cover or concealment from the cave painting, rather than from Syarstik, applies to this Strike.\n\nA creature adjacent to an awakened painting can spend 2 actions to attempt a DC 18 Occultism check or DC 18 Religion check check (to compel the awakened painting to abate) or a DC 20 Crafting check or DC 20 Thievery check check (to thoroughly smear the cave painting). On a success, the painting is destroyed, and the animation ceases. Either way, this activity has the concentrate trait.\n\nDestroying three awakened paintings quells Syarstik's anger, causing the great cat to cease his attacks."
 
   - name: "Pounce"
     desc: "`pf2:1`  Syarstik Strides and makes a Strike at the end of that movement. If he began this action [[Conditions/Hidden|Hidden]], he remains hidden until after this ability's Strike."
@@ -79,6 +80,12 @@ attacks:
   - name: "[[Bestiary Ability Glossary/Sneak Attack|Sneak Attack]]"
     desc: "  Syarstik deals an additional 1d6 precision damage to [[Conditions/Off-Guard|Off-Guard]] creatures."
  
+```
+
+```encounter-table
+name: Syarstik Painted-Tiger
+creatures:
+  - 1: Syarstik Painted-Tiger
 ```
 
 

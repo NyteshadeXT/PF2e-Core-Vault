@@ -11,7 +11,7 @@ license: OGL
 ---
 # Bring Me Near
 ## Item 12
-### [uncommon](uncommon "Uncommon Rarity Trait")[[magical]][[teleportation]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[3-Rules/Rule References/Magical]][[teleportation]]
 
 
 **Price** 1800 gp; 

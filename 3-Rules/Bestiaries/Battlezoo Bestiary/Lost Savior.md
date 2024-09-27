@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/lawful
   - pf2e/creature/type/undead
   - pf2e/creature/type/unholy
+  - pf2eMonster
   - pf2e/creature/level/11
 statblock: inline
 name: "Lost Savior"
@@ -24,21 +25,21 @@ token: [[modules/battlezoo-bestiary-pf2e/art/lost_savior.webp| ]]
 source: "Battlezoo Bestiary"
 name: "Lost Savior"
 level: "Creature 11"
-rare_03: "Rare"
+rare_03: [[Rare]]
 alignment: ""
 size: "Medium"
-trait_01: "evil"
-trait_02: "lawful"
-trait_03: "undead"
-trait_04: "unholy"
+trait_01: [[evil]]
+trait_02: [[lawful]]
+trait_03: [[undead]]
+trait_04: [[unholy]]
 modifier: 22
 perception:
   - name: "Perception"
     desc: "+22; Darkvision"
-languages: "Common, Necril"
+languages: "Common, Necril; aboleth"
 skills:
   - name: "Skills"
-    desc: "Athletics: +21, Deception: +22, Diplomacy: +22, Intimidation: +22, Society: +19, "
+    desc: "Athletics: +21, Deception: +22, Diplomacy: +22, Intimidation: +22, Society: +19"
 abilityMods: [6, 4, 5, 2, 3, 7]
 speed: 25 feet
 sourcebook: "_Battlezoo Bestiary_"
@@ -67,11 +68,17 @@ attacks:
     desc: "DC 28, attack +18; __5th __  _[[Compendium.pf2e.spells-srd.Item.hkfH9Z53hPzcOwNB|Veil]]_; __4th __  _[[Spells/Charm|Charm]]_, _[[Spells/Charm|Charm]]_, _[[Spells/Charm|Charm]]_, _[[Spells/Suggestion|Suggestion]]_, _[[Spells/Suggestion|Suggestion]]_, _[[Spells/Suggestion|Suggestion]]_; __2nd __  _[[Spells/Illusory Disguise|Illusory Disguise (At Will)]]_"
 
   - name: "Heroic Rally"
-    desc: "`pf2:1` (auditory,concentrate,emotion,mental,occult) The lost savior shouts an inspiring command to its allies, and their response boosts the lost savior's own resolve. The lost savior selects up to four allies within 60 feet. Each ally gains a +1 status bonus to attack rolls and AC for 1 round. For the next round, the lost savior gains a +1 status bonus to attack and damage; if the lost savior targeted three or four allies with this ability, the lost savior's bonus is +2 instead.\nEffect: Heroic Rally (Ally)\nEffect: Heroic Rally (Lost Savior; +1)\nEffect: Heroic Rally (Lost Savior; +2)"
+    desc: "`pf2:1` (auditory,concentrate,emotion,mental,occult) The lost savior shouts an inspiring command to its allies, and their response boosts the lost savior's own resolve. The lost savior selects up to four allies within 60 feet. Each ally gains a +1 status bonus to attack rolls and AC for 1 round. For the next round, the lost savior gains a +1 status bonus to attack and damage; if the lost savior targeted three or four allies with this ability, the lost savior's bonus is +2 instead.\n* * *\n\n[[Effects/Effect_ Heroic Rally (Ally)|Effect: Heroic Rally (Ally)]]\n\n[[Effects/Effect_ Heroic Rally (Lost Savior; +1)|Effect: Heroic Rally (Lost Savior; +1)]]\n\n[[Effects/Effect_ Heroic Rally (Lost Savior; +2)|Effect: Heroic Rally (Lost Savior; +2)]]"
 
   - name: "Shocking Revelation"
-    desc: " (emotion,fear,mental,occult,visual) **Requirement** The lost savior is under the effects of illusory disguise or veil;\n**Effect** The lost savior ends the required spell to reveal its horrible true form. Each creature within 100 feet must attempt a Will saving throw.\n**Critical Success** The creature is unaffected.\n**Success** The creature is Frightened 1.\n**Failure** The creature is Frightened 2.\n**Critical Failure** The creature is frightened 2 and Stunned 1."
+    desc: " (emotion,fear,mental,occult,visual) **Requirement** The lost savior is under the effects of illusory disguise or veil;\n\n**Effect** The lost savior ends the required spell to reveal its horrible true form. Each creature within 100 feet must attempt a DC 30 Will saving throw.\n* * *\n\n**Critical Success** The creature is unaffected.\n\n**Success** The creature is [[Conditions/Frightened|Frightened 1]].\n\n**Failure** The creature is [[Conditions/Frightened|Frightened 2]].\n\n**Critical Failure** The creature is frightened 2 and [[Conditions/Stunned|Stunned 1]]."
  
+```
+
+```encounter-table
+name: Lost Savior
+creatures:
+  - 1: Lost Savior
 ```
 
 

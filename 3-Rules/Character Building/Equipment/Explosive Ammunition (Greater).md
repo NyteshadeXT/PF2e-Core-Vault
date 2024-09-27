@@ -14,7 +14,7 @@ license: ORC
 ---
 # Explosive Ammunition (Greater)
 ## Item 13
-### [[consumable]][[3-Rules/Rule References/Fire]][[magical]]
+### [[consumable]][[3-Rules/Rule References/Fire]][[3-Rules/Rule References/Magical]]
 
 **Category** ammo; 
 **Price** 520 gp; 
@@ -27,7 +27,7 @@ license: ORC
 
 * * *
 
-This piece of ammunition is coated in gritty black soot. When activated _greater explosive ammunition_ hits a target, the missile explodes in a 10-foot burst, dealing 10d6 fire damage to each creature in the area (including the target). Each creature must attempt a DC 30 Reflex check save.
+This piece of ammunition is coated in gritty black soot. When activated _greater explosive ammunition_ hits a target, the missile explodes in a @Template\[burst|distance:10\], dealing 10d6 fire damage to each creature in the area (including the target). Each creature must attempt a DC 30 Reflex check save.
 
 *Source: Pathfinder GM Core*
 *ORC*

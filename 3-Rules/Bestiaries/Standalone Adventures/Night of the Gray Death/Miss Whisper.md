@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/fiend
   - pf2e/creature/type/sahkil
   - pf2e/creature/type/unholy
+  - pf2eMonster
   - pf2e/creature/level/9
 statblock: inline
 name: "Miss Whisper"
@@ -23,18 +24,18 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Adventure: Night of the Gray Death"
 name: "Miss Whisper"
 level: "Creature 9"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Medium"
-trait_01: "evil"
-trait_02: "fiend"
-trait_03: "sahkil"
-trait_04: "unholy"
+trait_01: [[evil]]
+trait_02: [[fiend]]
+trait_03: [[sahkil]]
+trait_04: [[unholy]]
 modifier: 18
 perception:
   - name: "Perception"
     desc: "+18; Darkvision, Truesight"
-languages: "Chthonian, Diabolic, Empyrean, Requian"
+languages: "Chthonian, Diabolic, Empyrean, Requian; telepathy 100 feet, tongues"
 skills:
   - name: "Skills"
     desc: "Acrobatics: +18, Deception: +21, Diplomacy: +21, Intimidation: +21, Stealth: +18"
@@ -62,7 +63,7 @@ abilities_mid:
     desc: "  A sahkil's level is considered 2 lower for the purpose of being conjured by the [[Spells/Binding Circle|Binding Circle]]ritual (and potentially other rituals, at the GM's discretion), but it is always free to attack or leave instead of negotiate unless the primary caster's check is a critical success."
 
   - name: "Entangling Train"
-    desc: "`pf2:r`  **Trigger** A creature moves adjacent to the pakalchi\n**Effect** Writhing, pitch-black vines wrap around the creature. The creature takes 1d6 slashing damage and takes a -15-foot circumstance penalty to its Speeds until the end of its next turn."
+    desc: "`pf2:r`  **Trigger** A creature moves adjacent to the pakalchi\n* * *\n\n**Effect** Writhing, pitch-black vines wrap around the creature. The creature takes 1d6 slashing damage and takes a -15-foot circumstance penalty to its Speeds until the end of its next turn."
 
 attacks:
   - name: ""
@@ -80,11 +81,17 @@ attacks:
     desc: "DC 30, attack +20; __7th __ (1 slots) _[[Spells/Mask of Terror|Mask of Terror (Self Only)]]_; __6th __ (3 slots) _[[Spells/Dominate|Dominate]]_; __5th __ (3 slots) _[[Spells/Calm|Calm Emotions]]_, _[[Spells/Charm|Charm]]_, _[[Spells/Suggestion|Suggestion (At Will)]]_\n__Cantrips__  __(5th)__ _[[Spells/Detect Magic|Detect Magic]]_\n__Constant__  __(6th)__ _[[Spells/Truespeech|Tongues]]_, _[[Spells/Truesight|True Seeing]]_"
 
   - name: "Betrayal Toxin"
-    desc: " (divine,mental,poison) A creature affected by betrayal toxin hears whispers of incessant doubt in their head and can't treat any creature as their ally\n**Saving Throw** DC 28 Fortitude check\n**Maximum Duration** 6 rounds\n**Stage 1** [[Conditions/Stupefied 1|Stupefied 1]] (1 round)\n**Stage 2** [[Conditions/Stupefied 1|Stupefied 2]] (1 round)"
+    desc: " (divine,mental,poison) A creature affected by betrayal toxin hears whispers of incessant doubt in their head and can't treat any creature as their ally\n\n**Saving Throw** DC 28 Fortitude check\n\n**Maximum Duration** 6 rounds\n\n**Stage 1** [[Conditions/Stupefied|Stupefied 1]] (1 round)\n\n**Stage 2** [[Conditions/Stupefied|Stupefied 2]] (1 round)"
 
   - name: "Skip Between"
-    desc: "`pf2:1` (divine,teleportation) The sahkil moves from the Material Plane to the Ethereal Plane or vice-versa, with the effects of [[Spells/Ethereal Jaunt|Ethereal Jaunt]] except that the effect has an unlimited duration and can be Dismissed.\nA summoned sahkil can't use Skip Between."
+    desc: "`pf2:1` (divine,teleportation) The sahkil moves from the Material Plane to the Ethereal Plane or vice-versa, with the effects of [[Spells/Ethereal Jaunt|Ethereal Jaunt]] except that the effect has an unlimited duration and can be Dismissed.\n\nA summoned sahkil can't use Skip Between."
  
+```
+
+```encounter-table
+name: Miss Whisper
+creatures:
+  - 1: Miss Whisper
 ```
 
 

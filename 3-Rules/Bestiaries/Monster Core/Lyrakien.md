@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/azata
   - pf2e/creature/type/celestial
   - pf2e/creature/type/holy
+  - pf2eMonster
   - pf2e/creature/level/1
   - remaster
 statblock: inline
@@ -27,9 +28,9 @@ level: "Creature 1"
 
 alignment: ""
 size: "tiny"
-trait_01: "azata"
-trait_02: "celestial"
-trait_03: "holy"
+trait_01: [[azata]]
+trait_02: [[celestial]]
+trait_03: [[holy]]
 modifier: 8
 perception:
   - name: "Perception"
@@ -68,8 +69,14 @@ attacks:
     desc: "DC 17, attack +9; __4th __  _[[Spells/Read Omens|Read Omens]]_; __1st __  _[[Spells/Heal|Heal]]_, _[[Spells/Illusory Object|Illusory Object]]_\n__Cantrips__  __(1st)__ _[[Spells/Daze|Daze]]_, _[[Spells/Detect Magic|Detect Magic]]_, _[[Spells/Light|Light]]_\n__Constant__  __(4th)__ _[[Spells/Unfettered Movement|Unfettered Movement]]_"
 
   - name: "Starlight Blast"
-    desc: "`pf2:2` (holy,light) The lyrakien unleashes a blast of holy starlight in a 5-foot emanation. Enemies in the area take 2d6 spirit damage with a DC 17 Reflex check save. The lyrakien can't use Starlight Blast or their starlight ray ranged attack for 1d4 rounds."
+    desc: "`pf2:2` (holy,light) The lyrakien unleashes a blast of holy starlight in a @Template[emanation|distance:5]. Enemies in the area take 2d6 spirit damage with a DC 17 Reflex check save. The lyrakien can't use Starlight Blast or their starlight ray ranged attack for 1d4 rounds."
  
+```
+
+```encounter-table
+name: Lyrakien
+creatures:
+  - 1: Lyrakien
 ```
 
 

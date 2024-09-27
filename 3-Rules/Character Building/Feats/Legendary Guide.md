@@ -7,8 +7,9 @@ tags:
   - trait/skill
   - trait/common
   - category/skill
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.Vk7BzAb3D9r226sI"
-license: OGL
+license: ORC
 ---
 # Legendary Guide
 ## Feat 15
@@ -26,5 +27,5 @@ When you are setting the path for your party through wilderness terrain, your pa
 
 This doesn't increase your party's Speed during an encounter or allow your party to ignore difficult terrain during an encounter.
 
-*Source: Pathfinder Advanced Player's Guide*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

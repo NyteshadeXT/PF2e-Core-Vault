@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/devil
   - pf2e/creature/type/fiend
   - pf2e/creature/type/unholy
+  - pf2eMonster
   - pf2e/creature/level/8
   - remaster
 statblock: inline
@@ -28,10 +29,10 @@ level: "Creature 8"
 
 alignment: ""
 size: "Large"
-trait_01: "amphibious"
-trait_02: "devil"
-trait_03: "fiend"
-trait_04: "unholy"
+trait_01: [[amphibious]]
+trait_02: [[devil]]
+trait_03: [[fiend]]
+trait_04: [[unholy]]
 modifier: 18
 perception:
   - name: "Perception"
@@ -79,11 +80,17 @@ attacks:
     desc: "_[[Spells/Diabolic Pact|Diabolic Pact]]_"
 
   - name: "Drown"
-    desc: "`pf2:2` (divine,incapacitation) The sarglagon conjures murky water to fill the lungs of a creature within 30 feet of it that can't breathe water. The target must attempt a DC 26 Fortitude check save.\n* * *\n\n**Critical Success** The target is unaffected.\n\n**Success** The target coughs up water and is [[Conditions/Sickened 1|Sickened 1]].\n\n**Failure** The target is holding its breath. The only action it can take is to attempt a Fortitude save against Drown to expel the water, which is a single action.\n\n**Critical Failure** The target falls [[Conditions/Unconscious|Unconscious]] and begins suffocating. If the target succeeds at its Fortitude save while suffocating, it coughs up the water and can breathe again."
+    desc: "`pf2:2` (divine,incapacitation) The sarglagon conjures murky water to fill the lungs of a creature within 30 feet of it that can't breathe water. The target must attempt a DC 26 Fortitude check save.\n* * *\n\n**Critical Success** The target is unaffected.\n\n**Success** The target coughs up water and is [[Conditions/Sickened|Sickened 1]].\n\n**Failure** The target is holding its breath. The only action it can take is to attempt a Fortitude save against Drown to expel the water, which is a single action.\n\n**Critical Failure** The target falls [[Conditions/Unconscious|Unconscious]] and begins suffocating. If the target succeeds at its Fortitude save while suffocating, it coughs up the water and can breathe again."
 
   - name: "Sarglagon Venom"
-    desc: " (poison) **Saving Throw** DC 26 Fortitude check\n* * *\n\n**Maximum Duration** 6 rounds\n\n**Stage 1**2d6 poison damage and [[Conditions/Clumsy 1|Clumsy 1]] (1 round)\n\n**Stage 2**3d6 poison damage and [[Conditions/Clumsy 1|Clumsy 2]] (1 round)"
+    desc: " (poison) **Saving Throw** DC 26 Fortitude check\n* * *\n\n**Maximum Duration** 6 rounds\n\n**Stage 1**2d6 poison damage and [[Conditions/Clumsy|Clumsy 1]] (1 round)\n\n**Stage 2**3d6 poison damage and [[Conditions/Clumsy|Clumsy 2]] (1 round)"
  
+```
+
+```encounter-table
+name: Sarglagon
+creatures:
+  - 1: Sarglagon
 ```
 
 

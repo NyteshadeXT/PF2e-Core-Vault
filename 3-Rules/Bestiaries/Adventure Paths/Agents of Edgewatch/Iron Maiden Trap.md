@@ -5,6 +5,7 @@ noteType: pf2eHazard
 tags:
   - mechanical
   - trap
+  - pf2eHazard
 
 source: Pathfinder #158: Sixty Feet Under
 aliases: "Compendium.pf2e.agents-of-edgewatch-bestiary.Actor.rDYDTCVUa5GS3uTE" 
@@ -22,14 +23,14 @@ name: "Iron Maiden Trap"
 level: "Hazard 8"
 
 
-trait_01: "mechanical"
-trait_02: "trap"
+trait_01: [[mechanical]]
+trait_02: [[trap]]
 modifier: 20
 sourcebook: "_Pathfinder #158: Sixty Feet Under_"
 ac: 25
 armorclass:
   - name: AC
-    desc: "25; __Fort__ +0, __Ref__ +0, __Will__ +0"
+    desc: "25; "
 hp: 24
 health:
   - name: ""
@@ -51,10 +52,16 @@ attacks:
   - name: ""
 
   - name: "Slam Shut"
-    desc: "`pf2:r` **Trigger** A creature steps onto the trap's pressure plate (indicated on the map)\n**Effect** The front of the iron maiden slams shut with incredible force and locks itself. The triggering creature takes 4d10 + 10 piercing damage and 2d6 bleed (DC 26 Reflex check save; if the creature critically succeeds, they avoid the trap completely). The triggering creature is also immobilized. The victim can end their immobilization only once a creature outside the iron maiden unlocks the device (requiring two successful DC 28 Thievery check checks to Disable a Device) or breaks the iron maiden, after which the trapped creature must succeed at a DC 25 check to Escape the trap's spike-lined interior."
+    desc: "`pf2:r` **Trigger** A creature steps onto the trap's pressure plate (indicated on the map)\n* * *\n\n**Effect** The front of the iron maiden slams shut with incredible force and locks itself. The triggering creature takes 4d10+10 piercing damage and 2d6 bleed (DC 26 Reflex check save; if the creature critically succeeds, they avoid the trap completely). The triggering creature is also immobilized. The victim can end their immobilization only once a creature outside the iron maiden unlocks the device (requiring two successful DC 28 Thievery check checks to Disable a Device) or breaks the iron maiden, after which the trapped creature must succeed at a DC 25 check to Escape the trap's spike-lined interior."
 
 
   - name: "Reset"
     desc: "The pressure plate must be reset manually."
+```
+
+```encounter-table
+name: Iron Maiden Trap
+creatures:
+  - 1: Iron Maiden Trap
 ```
 

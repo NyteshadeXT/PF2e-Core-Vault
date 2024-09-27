@@ -6,8 +6,9 @@ tags:
   - trait/oracle
   - trait/common
   - category/classfeature
+  - remaster
 aliases: "Compendium.pf2e.classfeatures.Item.571c1aGnvNVwfF6b"
-license: OGL
+license: ORC
 ---
 # Oracular Clarity
 ## Feat 19
@@ -22,5 +23,5 @@ You now fully grasp the nature of the divine power behind your mystery, allowing
 
 You don't gain more 10th-rank spells as you level up, unlike other spell slots, and you can't use 10th-rank slots with abilities that give you more spell slots or that let you cast spells without expending spell slots. You can take the [[Feats/Oracular Providence|Oracular Providence]] feat to gain a second slot.
 
-*Source: Pathfinder Advanced Player's Guide*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

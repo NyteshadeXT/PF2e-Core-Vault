@@ -6,6 +6,7 @@ cssClasses: pf2e
 aliases: "Compendium.pf2e.lost-omens-highhelm-bestiary.Actor.AbaAJaz8p6sSsaqy" 
 tags:
   - pf2e/creature/type/animal
+  - pf2eMonster
   - pf2e/creature/level/4
 statblock: inline
 name: "Draft Lizard"
@@ -23,11 +24,12 @@ level: "Creature 4"
 
 alignment: ""
 size: "Medium"
-trait_01: "animal"
+trait_01: [[animal]]
 modifier: 11
 perception:
   - name: "Perception"
     desc: "+11; Darkvision, Scent (Imprecise) 60 Feet"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Athletics: +12, Intimidation: +8, Survival: +10"
@@ -58,14 +60,20 @@ attacks:
     desc: "`pf2:1` Claw +14 (agile, finesse)\n__Damage__  2d4 + 7 slashing"
 
   - name: "[[Bestiary Ability Glossary/Constrict|Constrict]]"
-    desc: "`pf2:1`  2d8 + 7 piercing, DC 21 Fortitude check\n"
+    desc: "`pf2:1`  2d8+7 piercing, DC 21 Fortitude check\n\n* * *\n"
 
   - name: "Lizard Poison"
-    desc: " (poison) **Saving Throw** DC 21 Fortitude check\n**Maximum Duration** 6 rounds\n**Stage 1** 2d4 poison damage and [[Conditions/Clumsy 1|Clumsy 1]] (1 round)\n**Stage 2** 2d6 poison damage and clumsy 1 (1 round)\n**Stage 3** 2d6 poison damage and [[Conditions/Clumsy 1|Clumsy 2]] (1 round)"
+    desc: " (poison) **Saving Throw** DC 21 Fortitude check\n\n**Maximum Duration** 6 rounds\n* * *\n\n**Stage 1** 2d4 poison damage and [[Conditions/Clumsy|Clumsy 1]] (1 round)\n\n**Stage 2** 2d6 poison damage and clumsy 1 (1 round)\n\n**Stage 3** 2d6 poison damage and [[Conditions/Clumsy|Clumsy 2]] (1 round)"
 
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
     desc: "`pf2:1`  "
  
+```
+
+```encounter-table
+name: Draft Lizard
+creatures:
+  - 1: Draft Lizard
 ```
 
 

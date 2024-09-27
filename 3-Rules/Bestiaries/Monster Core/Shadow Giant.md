@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/giant
   - pf2e/creature/type/humanoid
   - pf2e/creature/type/shadow
+  - pf2eMonster
   - pf2e/creature/level/13
   - remaster
 statblock: inline
@@ -27,9 +28,9 @@ level: "Creature 13"
 
 alignment: ""
 size: "Large"
-trait_01: "giant"
-trait_02: "humanoid"
-trait_03: "shadow"
+trait_01: [[giant]]
+trait_02: [[humanoid]]
+trait_03: [[shadow]]
 modifier: 20
 perception:
   - name: "Perception"
@@ -37,7 +38,7 @@ perception:
 languages: "Common, Jotun, Shadowtongue"
 skills:
   - name: "Skills"
-    desc: "Athletics: +27, Intimidation: +24, Stealth: +21 (+23 to Hide in dim light)"
+    desc: "Athletics: +27, Intimidation: +24, Stealth: +21"
 abilityMods: [8, 2, 5, 0, 1, 3]
 speed: 35 feet
 sourcebook: "_Pathfinder Monster Core_"
@@ -69,7 +70,7 @@ attacks:
     desc: "`pf2:1` Fist +26 (agile, nonlethal, reach 10 feet)\n__Damage__  3d8 + 18 bludgeoning plus pall-of-shadow"
 
   - name: "Pall of Shadow"
-    desc: " (divine,shadow) When a shadow giant hits with a melee attack, the target must succeed at a DC 30 Fortitude check save or become [[Conditions/Drained 1|Drained 1]] and take a –1 status penalty to Perception checks involving sight as long as they remain drained. On a critical failure, this condition doesn't heal naturally and can be removed only with magic."
+    desc: " (divine,shadow) When a shadow giant hits with a melee attack, the target must succeed at a DC 30 Fortitude check save or become [[Conditions/Drained|Drained 1]] and take a –1 status penalty to Perception checks involving sight as long as they remain drained. On a critical failure, this condition doesn't heal naturally and can be removed only with magic."
 
   - name: "Shadow Chain"
     desc: "`pf2:2` (divine,shadow,teleportation) Shadows extend the giant's chain as they make a spiked chain Strike, increasing their reach to 60 feet for that Strike. If this hits, the target must succeed at a DC 33 Will check save or be teleported to an empty space within the shadow giant's normal reach."
@@ -77,6 +78,12 @@ attacks:
   - name: "Shadowcloak"
     desc: "`pf2:1` (divine,shadow) The shadow giant gains the effect of the [[Spells/Blur|Blur]] spell for 1 minute or until it is exposed to direct sunlight, whichever comes first."
  
+```
+
+```encounter-table
+name: Shadow Giant
+creatures:
+  - 1: Shadow Giant
 ```
 
 

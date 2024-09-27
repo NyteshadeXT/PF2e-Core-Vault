@@ -4,23 +4,42 @@ title: "Telepathic Bond"
 noteType: pf2eSpell
 cssclasses: pf2e,pf2e-spell
 tags:
+  - pf2eSpell
   - spell/level/5
   - trait/concentrate
   - trait/exploration
   - trait/manipulate
   - trait/mental
   - trait/uncommon
-aliases: "Compendium.pf2e.spells-srd.Item.gfVXAW95YWRz0pJC" 
----
-# Telepathic Bond   
-## Spell 5
-### [uncommon](uncommon "Uncommon Rarity Trait")[[concentrate]][[exploration]][[manipulate]][[mental]]
-**Traditions** [[arcane]], [[occult]]
-**Cast** 1 minute**Range** touch
-**Targets** you and up to 4 willing creatures touched
-**Duration** 8 hours
-* * * 
-The targets can communicate telepathically with any or all of the other targets from any point on the same planet.
+  - tradition/arcane
+  - tradition/occult
 
-*Source: Pathfinder Core Rulebook*
-*OGL*
+aliases: "Compendium.pf2e.spells-srd.Item.gfVXAW95YWRz0pJC" 
+license: OGL
+---
+```statblock
+name: "Telepathic Bond "
+level: "Spell 5"
+rare_03: [[Uncommon]]
+trait_01: [[concentrate]]
+trait_02: [[exploration]]
+trait_03: [[manipulate]]
+trait_04: [[mental]]
+layout: Basic Pathfinder 2e Layout
+columns: 1
+columnWidth: x
+abilities_top:
+  - name: ""
+  - name: "Traditions"
+    desc: "arcane, occult"
+  - name: "Cast"
+    desc: "1 minute"
+  - name: "Range"
+    desc: "touch; **Targets** you and up to 4 willing creatures touched"
+  - name: "Duration"
+    desc: "8 hours"
+abilities_mid:
+  - name: ""
+    desc: "The targets can communicate telepathically with any or all of the other targets from any point on the same planet."
+sourcebook: "_Pathfinder Core Rulebook_"
+```

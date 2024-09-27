@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/cold
   - pf2e/creature/type/elemental
   - pf2e/creature/type/water
+  - pf2eMonster
   - pf2e/creature/level/10
 statblock: inline
 name: "Icewyrm"
@@ -27,10 +28,10 @@ level: "Creature 10"
 
 alignment: ""
 size: "huge"
-trait_01: "amphibious"
-trait_02: "cold"
-trait_03: "elemental"
-trait_04: "water"
+trait_01: [[amphibious]]
+trait_02: [[cold]]
+trait_03: [[elemental]]
+trait_04: [[water]]
 modifier: 19
 perception:
   - name: "Perception"
@@ -57,7 +58,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Explosion"
-    desc: " (cold) When the icewyrm dies, it explodes, dealing 8d6 cold damage to each creature in a 10-foot emanation (DC 27 Reflex check save)."
+    desc: " (cold) When the icewyrm dies, it explodes, dealing 8d6 cold damage to each creature in a @Template[emanation|distance:10] (DC 27 Reflex check save)."
 
 attacks:
   - name: ""
@@ -72,11 +73,17 @@ attacks:
     desc: "`pf2:1` Ice Shard +23 (range increment 60 feet)\n__Damage__  1d6 + 13 piercing 1d6 cold"
 
   - name: "Breath Weapon"
-    desc: "`pf2:2` (cold,primal) The icewyrm breathes a 60-foot line of freezing shards of razor-sharp ice, dealing 3d12 cold damage and 3d12 piercing damage to every creature in the line (DC 29 Reflex check save).\nThe icewyrm can't use Breath Weapon again for 1d4 rounds."
+    desc: "`pf2:2` (cold,primal) The icewyrm breathes a @Template[line|distance:60] of freezing shards of razor-sharp ice, dealing 3d12 cold damage and 3d12 piercing damage to every creature in the line (DC 29 Reflex check save).\n\nThe icewyrm can't use Breath Weapon again for 1d4 rounds."
 
   - name: "Ice Burrow"
     desc: "  The Icewyrm can Burrow through ice or snow with a Speed of 20 feet. It moves at its full burrow Speed, leaving no tunnels or signs of its passing."
  
+```
+
+```encounter-table
+name: Icewyrm
+creatures:
+  - 1: Icewyrm
 ```
 
 

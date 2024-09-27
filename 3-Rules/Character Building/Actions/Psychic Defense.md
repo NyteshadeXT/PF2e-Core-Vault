@@ -11,7 +11,7 @@ license: OGL
 ---
 # Psychic Defense `pf2:r`
 
-### [[concentrate]][[magical]]
+### [[3-Rules/Rule References/Concentrate]][[3-Rules/Rule References/Magical]]
 
 
 
@@ -28,7 +28,7 @@ You gain the benefit matching your psychic center against the triggering manifes
 
 **Armor of Insight (Perception)** Sensing the incoming attack, you make your mind resist psychic harm. You gain resistance equal to half your level (minimum 1) to mental damage against the triggering effect. This resistance is doubled if you're a master in Perception and tripled if you're legendary.
 
-**Empathic Orbit (Diplomacy)** Displaying empathy, you sow doubt in your attacker to diminish their resolve for psychic combat. The opponent is [[Conditions/Stupefied 1|Stupefied 1]] until the end of their next turn or [[Conditions/Stupefied 1|Stupefied 2]] if you're legendary in Diplomacy.
+**Empathic Orbit (Diplomacy)** Displaying empathy, you sow doubt in your attacker to diminish their resolve for psychic combat. The opponent is [[Conditions/Stupefied|Stupefied 1]] until the end of their next turn or [[Conditions/Stupefied|Stupefied 2]] if you're legendary in Diplomacy.
 
 **Ire's Spear (Intimidation)** Blazing anger surges in your mind, causing backlash to anyone who harms you. If the manifestation damages you, the opponent takes damage equal to the counteract rank of the manifestation it used against you. This damage is doubled if you're a master of Intimidation or tripled if you're legendary.
 

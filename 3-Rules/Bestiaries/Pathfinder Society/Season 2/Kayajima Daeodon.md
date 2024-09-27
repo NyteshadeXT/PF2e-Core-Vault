@@ -6,6 +6,7 @@ cssClasses: pf2e
 aliases: "Compendium.pf2e.pfs-season-2-bestiary.Actor.SqAWqJEi3IVB5TbO" 
 tags:
   - pf2e/creature/type/animal
+  - pf2eMonster
   - pf2e/creature/level/5
 statblock: inline
 name: "Kayajima Daeodon"
@@ -23,11 +24,12 @@ level: "Creature 5"
 
 alignment: ""
 size: "Large"
-trait_01: "animal"
+trait_01: [[animal]]
 modifier: 14
 perception:
   - name: "Perception"
     desc: "+14; Low-Light Vision, Scent (Imprecise) 30 Feet"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Acrobatics: +10, Athletics: +14, Survival: +12"
@@ -60,6 +62,12 @@ attacks:
   - name: "Daeodon Charge"
     desc: "`pf2:2`  The daeodon Strides twice and then makes a tusk Strike. As long as it moved at least 20 feet, it gains a +2 circumstance bonus to its attack roll. A Medium or smaller creature struck by this attack must succeed at a DC 21 Reflex check save or be knocked [[Conditions/Prone|Prone]] by the force of the blow."
  
+```
+
+```encounter-table
+name: Kayajima Daeodon
+creatures:
+  - 1: Kayajima Daeodon
 ```
 
 

@@ -6,6 +6,7 @@ cssClasses: pf2e
 aliases: "Compendium.pf2e.pathfinder-bestiary-2.Actor.VYEPG1G64OaCQmwf" 
 tags:
   - pf2e/creature/type/animal
+  - pf2eMonster
   - pf2e/creature/level/7
 statblock: inline
 name: "Elasmosaurus"
@@ -24,11 +25,12 @@ level: "Creature 7"
 
 alignment: ""
 size: "huge"
-trait_01: "animal"
+trait_01: [[animal]]
 modifier: 16
 perception:
   - name: "Perception"
     desc: "+16; Low-Light Vision, Scent (Imprecise) 30 Feet"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Athletics: +17"
@@ -65,7 +67,7 @@ attacks:
     desc: "`pf2:1` Paddle +17 ()\n__Damage__  2d6 + 10 bludgeoning"
 
   - name: "[[Bestiary Ability Glossary/Attack of Opportunity|Attack of Opportunity (Jaws Only)]]"
-    desc: "`pf2:r`  Jaws only\n"
+    desc: "`pf2:r`  Jaws only\n\n* * *\n"
 
   - name: "Drag Below"
     desc: "`pf2:1` (attack) The elasmosaurus attempts an Athletics check check against a [[Conditions/Grabbed|Grabbed]] foe's Fortitude DC. If the elasmosaurus succeeds, the foe is forcibly moved 5 feet toward the elasmosaurus's body. If the elasmosaurus critically succeeds, the foe is moved 10 feet towards the elasmosaurus's body."
@@ -76,6 +78,12 @@ attacks:
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
     desc: "`pf2:1`  "
  
+```
+
+```encounter-table
+name: Elasmosaurus
+creatures:
+  - 1: Elasmosaurus
 ```
 
 

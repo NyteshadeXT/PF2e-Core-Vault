@@ -15,7 +15,7 @@ license: OGL
 ---
 # Ferrofluid Urchin (Moderate)
 ## Item 11
-### [[consumable]][[magical]][[metal]][[talisman]]
+### [[consumable]][[3-Rules/Rule References/Magical]][[metal]][[talisman]]
 
 **Category** other; 
 **Price** 225 gp; 

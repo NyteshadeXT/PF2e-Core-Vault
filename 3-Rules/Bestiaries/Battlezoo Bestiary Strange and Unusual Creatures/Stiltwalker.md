@@ -6,6 +6,7 @@ cssClasses: pf2e
 aliases: "Compendium.battlezoo-bestiary-su-pf2e.pf2e-battlezoo-su-actors.Actor.CwLleG4gMM6smGQn" 
 tags:
   - pf2e/creature/type/aberration
+  - pf2eMonster
   - pf2e/creature/level/12
 statblock: inline
 name: "Stiltwalker"
@@ -21,17 +22,18 @@ token: [[modules/battlezoo-bestiary-su-pf2e/art/Portraits/stiltwalker.webp| ]]
 source: "Battlezoo Bestiary: Strange and Unusual"
 name: "Stiltwalker"
 level: "Creature 12"
-rare_03: "Rare"
+rare_03: [[Rare]]
 alignment: ""
 size: "grg"
-trait_01: "aberration"
+trait_01: [[aberration]]
 modifier: 22
 perception:
   - name: "Perception"
     desc: "+22; Darkvision"
+languages: ""
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +25, Athletics: +25, Intimidation: +22, Stealth: +25, Survival: +22, "
+    desc: "Acrobatics: +25, Athletics: +25, Intimidation: +22, Stealth: +25, Survival: +22, Acrobatics: +25, Athletics: +25, Intimidation: +22, Stealth: +25, Survival: +22"
 abilityMods: [5, 7, 5, -4, 4, 2]
 speed: 40 feet,  climb 40 feet
 sourcebook: "_Battlezoo Bestiary: Strange and Unusual_"
@@ -50,7 +52,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Vulnerable to Trip"
-    desc: "  A stiltwalker's long dexterous limbs provide it most of its defense and its main body is usually 30 feet in the air on its stilt-like legs, which means that being tripped is even more painful for a stiltwalker than other creatures. A tripped stiltwalker takes 15 bludgeoning damage as its body slams into the ground. While Off-Guard from being Prone, a stiltwalker takes a –4 circumstance penalty to AC instead of the usual –2 circumstance penalty, as its easy for its foes to attack its body directly."
+    desc: "  A stiltwalker's long dexterous limbs provide it most of its defense and its main body is usually 30 feet in the air on its stilt-like legs, which means that being tripped is even more painful for a stiltwalker than other creatures. A tripped stiltwalker takes 15 bludgeoning damage as its body slams into the ground. While [[undefined]] from being [[undefined]], a stiltwalker takes a –4 circumstance penalty to AC instead of the usual –2 circumstance penalty, as its easy for its foes to attack its body directly."
 
 attacks:
   - name: ""
@@ -62,11 +64,17 @@ attacks:
     desc: "`pf2:1` Detritus +26 (range increment 30 feet)\n__Damage__  3d8 + 11 bludgeoning plus stunning-detritus"
 
   - name: "Stunning Detritus"
-    desc: "  When a stiltwalker makes a telling blow with its thrown detritus, the detritus clobbers its target so hard that it leaves the target momentarily stunned and unable to react to the stiltwalker's further rampage. When the stiltwalker critically hits a creature with its detritus Strike, and the critical hit deals damage to the detritus Strike's target, the target of the detritus Strike becomes Stunned 1."
+    desc: "  When a stiltwalker makes a telling blow with its thrown detritus, the detritus clobbers its target so hard that it leaves the target momentarily stunned and unable to react to the stiltwalker's further rampage. When the stiltwalker critically hits a creature with its detritus Strike, and the critical hit deals damage to the detritus Strike's target, the target of the detritus Strike becomes [[undefined]]."
 
   - name: "Trebuchet Toss"
-    desc: "`pf2:1` (attack) **Requirements** The stiltwalker has a creature Grabbed in one of its limbs\n**Effect** The stiltwalker winds up its lanky limb and tosses a grabbed creature high up into the air far away from itself. The creature must attempt a DC 32 Fortitude check save, with the following effects. The stiltwalker's multiple attack penalty applies to Trebuchet Toss's DC, even though Trebuchet Toss doesn't have an attack roll.\n**Critical Success** The creature not only isn't thrown, they also struggle free of the grapple and are no longer grabbed.\n**Success** The creature isn't thrown.\n**Failure** The stiltwalker throws the creature up to 50 feet up into the air, and can also throw the creature up to 50 feet laterally. Falling from this throw typically causes the creature to take 25 bludgeoning damage from falling and fall Prone."
+    desc: "`pf2:1` (attack) **Requirements** The stiltwalker has a creature [[undefined]] in one of its limbs\n* * *\n\n**Effect** The stiltwalker winds up its lanky limb and tosses a grabbed creature high up into the air far away from itself. The creature must attempt a DC 32 Fortitude check save, with the following effects. The stiltwalker's multiple attack penalty applies to Trebuchet Toss's DC, even though Trebuchet Toss doesn't have an attack roll.\n* * *\n\n**Critical Success** The creature not only isn't thrown, they also struggle free of the grapple and are no longer grabbed.\n\n**Success** The creature isn't thrown.\n\n**Failure** The stiltwalker throws the creature up to 50 feet up into the air, and can also throw the creature up to 50 feet laterally. Falling from this throw typically causes the creature to take 25 bludgeoning damage from falling and fall [[undefined]]."
  
+```
+
+```encounter-table
+name: Stiltwalker
+creatures:
+  - 1: Stiltwalker
 ```
 
 

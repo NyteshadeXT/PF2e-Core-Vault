@@ -7,6 +7,7 @@ aliases: "Compendium.battlezoo-bestiary-su-pf2e.pf2e-battlezoo-su-actors.Actor.X
 tags:
   - pf2e/creature/type/chaotic
   - pf2e/creature/type/spirit
+  - pf2eMonster
   - pf2e/creature/level/5
 statblock: inline
 name: "Writer&#x27;s Block"
@@ -22,19 +23,19 @@ token: [[modules/battlezoo-bestiary-su-pf2e/art/Portraits/writers-block.webp| ]]
 source: "Battlezoo Bestiary: Strange and Unusual"
 name: "Writer's Block"
 level: "Creature 5"
-rare_03: "Rare"
+rare_03: [[Rare]]
 alignment: ""
 size: "Small"
-trait_01: "chaotic"
-trait_02: "spirit"
+trait_01: [[chaotic]]
+trait_02: [[spirit]]
 modifier: 9
 perception:
   - name: "Perception"
     desc: "+9; Darkvision"
-languages: "Common, Necril"
+languages: "Common, Necril; tongues"
 skills:
   - name: "Skills"
-    desc: "Deception: +13, Intimidation: +13, Diplomacy: +13, Performance: +12, Society: +13, Stealth: +12, "
+    desc: "Deception: +13, Diplomacy: +13, Intimidation: +13, Performance: +12, Society: +13, Stealth: +12, Deception: +13, Intimidation: +13, Diplomacy: +13, Performance: +12, Society: +13, Stealth: +12"
 abilityMods: [3, 5, 4, 4, 5, 5]
 speed: 30 feet
 sourcebook: "_Battlezoo Bestiary: Strange and Unusual_"
@@ -53,7 +54,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Creative Plagiarism"
-    desc: "`pf2:r` (mental,occult) **Trigger** A creature within 100 feet of the writer's block Casts a Spell with a verbal component of a level no greater than half the writer's block's level rounded up (usually 3), a creature Activates an Item with a command component of a level no greater than the writer's block's (usually 5), or a creature of a level no greater than the writer's block's (usually 5) uses an action with the linguistic trait\n**Effect** For 1 minute, the writer's block can replicate the triggering effect a single time, as if it had Cast the Spell, Activated the Item, or taken the action or activity itself. This takes the normal required number of actions, but uses the same modifiers and DCs as the triggering effect."
+    desc: "`pf2:r` (mental,occult) **Trigger** A creature within 100 feet of the writer's block Casts a Spell with a verbal component of a level no greater than half the writer's block's level rounded up (usually 3), a creature Activates an Item with a command component of a level no greater than the writer's block's (usually 5), or a creature of a level no greater than the writer's block's (usually 5) uses an action with the linguistic trait\n* * *\n\n**Effect** For 1 minute, the writer's block can replicate the triggering effect a single time, as if it had Cast the Spell, Activated the Item, or taken the action or activity itself. This takes the normal required number of actions, but uses the same modifiers and DCs as the triggering effect."
 
   - name: "Pithy Retorts"
     desc: " (mental,occult) Whenever a creature uses a linguistic effect, such as Bon Mot or Demoralize, against the writer's block, the creature's degree of success is one step worse than it rolled. If the creature critically fails after this adjustment, their mind is filled with writer's block, and they can't use a linguistic ability for 1 minute."
@@ -71,8 +72,14 @@ attacks:
     desc: "DC 19, attack +11\n__Constant__  __(5th)__ _[[Spells/Truespeech|Tongues]]_"
 
   - name: "Forced Reading"
-    desc: " (linguistic,mental,occult) The supernatural ink sprayed by a writer's block shapes itself into passages of the author's unfinished prose upon making contact with a creature. The writing is distracting: creatures suffering from the writer's block's persistent mental damage are Off-Guard until they recover. Once per turn, an affected creature can make a DC 20 Society check check to Decipher Writing as a single action to make a scathing critique of the writing. Succeeding on the check ends the persistent damage; on a critical success, the creature additionally becomes temporarily immune to the writer's block's mental damage for 1 hour, and the writer's block becomes Stunned 2. These critiques are not subject to the writer's block's pithy retorts ability."
+    desc: " (linguistic,mental,occult) The supernatural ink sprayed by a writer's block shapes itself into passages of the author's unfinished prose upon making contact with a creature. The writing is distracting: creatures suffering from the writer's block's persistent mental damage are [[undefined]] until they recover. Once per turn, an affected creature can make a DC 20 Society check check to Decipher Writing as a single action to make a scathing critique of the writing. Succeeding on the check ends the persistent damage; on a critical success, the creature additionally becomes temporarily immune to the writer's block's mental damage for 1 hour, and the writer's block becomes [[undefined]]. These critiques are not subject to the writer's block's pithy retorts ability."
  
+```
+
+```encounter-table
+name: Writer's Block
+creatures:
+  - 1: Writer's Block
 ```
 
 

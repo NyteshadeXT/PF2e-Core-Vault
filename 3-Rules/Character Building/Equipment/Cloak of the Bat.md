@@ -11,7 +11,7 @@ license: OGL
 ---
 # Cloak of the Bat
 ## Item 10
-### [[invested]][[magical]]
+### [[invested]][[3-Rules/Rule References/Magical]]
 
 
 **Price** 950 gp; 

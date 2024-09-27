@@ -6,6 +6,7 @@ tags:
   - illusion
   - magical
   - trap
+  - pf2eHazard
 
 source: Pathfinder Dark Archive
 aliases: "Compendium.pf2e.pathfinder-dark-archive.Actor.IyE7jYfltfPSYzNy" 
@@ -23,9 +24,9 @@ name: "False Floor"
 level: "Hazard 3"
 
 
-trait_01: "illusion"
-trait_02: "magical"
-trait_03: "trap"
+trait_01: [[illusion]]
+trait_02: [[magical]]
+trait_03: [[trap]]
 modifier: 13
 sourcebook: "_Pathfinder Dark Archive_"
 perception:
@@ -44,10 +45,16 @@ attacks:
   - name: ""
 
   - name: "Drop"
-    desc: "`pf2:r` **Trigger** A creature walks onto the illusory floor\n**Effect** The triggering creature falls through the illusory floor and takes falling damage (typically 20 bludgeoning damage). That creature can use the [[Actions/Grab an Edge|Grab an Edge]] reaction to avoid falling. The DC to [[Actions/Climb|Climb]] the walls (DC 20 Athletics check) or Grab an Edge is DC 20 Reflex check."
+    desc: "`pf2:r` **Trigger** A creature walks onto the illusory floor\n* * *\n\n**Effect** The triggering creature falls through the illusory floor and takes falling damage (typically 20 bludgeoning damage). That creature can use the [[Actions/Grab an Edge|Grab an Edge]] reaction to avoid falling. The DC to [[Actions/Climb|Climb]] the walls (DC 20 Athletics check) or Grab an Edge is DC 20 Reflex check."
 
 
   - name: "Reset"
     desc: ""
+```
+
+```encounter-table
+name: False Floor
+creatures:
+  - 1: False Floor
 ```
 

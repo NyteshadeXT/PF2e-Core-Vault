@@ -6,6 +6,7 @@ cssClasses: pf2e
 aliases: "Compendium.pf2e.pathfinder-bestiary-3.Actor.2vvPHlLhgDGr8fOF" 
 tags:
   - pf2e/creature/type/shadow
+  - pf2eMonster
   - pf2e/creature/level/4
 statblock: inline
 name: "Shae"
@@ -24,7 +25,7 @@ level: "Creature 4"
 
 alignment: ""
 size: "Medium"
-trait_01: "shadow"
+trait_01: [[shadow]]
 modifier: 10
 perception:
   - name: "Perception"
@@ -32,7 +33,7 @@ perception:
 languages: "Aklo, Common, Sakvroth, Shae, Sussuran"
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +13, Deception: +9, Occultism: +11, Shadow Plane Lore: +11, Stealth: +13"
+    desc: "Acrobatics: +13, Deception: +9, Occultism: +11, Stealth: +13, Shadow Plane Lore: +11"
 abilityMods: [3, 5, 1, 3, 2, 3]
 speed: 25 feet,  fly 35 feet
 sourcebook: "_Pathfinder Bestiary 3_"
@@ -55,10 +56,10 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Counterattack"
-    desc: "`pf2:r`  **Trigger** The shae is targeted by an attack from an adjacent creature that misses due to the shae being [[Conditions/Concealed|Concealed]]\n**Requirements** The shae is aware of the attack\n**Effect** The shae makes a Strike against the attacker."
+    desc: "`pf2:r`  **Trigger** The shae is targeted by an attack from an adjacent creature that misses due to the shae being [[Conditions/Concealed|Concealed]]\n\n**Requirements** The shae is aware of the attack\n* * *\n\n**Effect** The shae makes a Strike against the attacker."
 
   - name: "Slip"
-    desc: "`pf2:r`  **Trigger** A creature moves adjacent to the shae\n**Effect** The shae teleports to a clear space adjacent to another creature they can see within 30 feet."
+    desc: "`pf2:r`  **Trigger** A creature moves adjacent to the shae\n* * *\n\n**Effect** The shae teleports to a clear space adjacent to another creature they can see within 30 feet."
 
 attacks:
   - name: ""
@@ -81,6 +82,12 @@ attacks:
   - name: "Tenebral Form"
     desc: "  The shae can Fly at full Speed in [[Spells/Vapor Form|Vapor Form]]."
  
+```
+
+```encounter-table
+name: Shae
+creatures:
+  - 1: Shae
 ```
 
 

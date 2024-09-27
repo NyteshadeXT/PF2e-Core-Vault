@@ -5,6 +5,7 @@ noteType: pf2eHazard
 tags:
   - mechanical
   - trap
+  - pf2eHazard
   - complex
 source: Pathfinder Adventure: Troubles in Otari
 aliases: "Compendium.pf2e.troubles-in-otari-bestiary.Actor.aqDFxmLMx6cOnGlx" 
@@ -22,14 +23,14 @@ name: "Tongues of Flame"
 level: "Hazard 5"
 
 trait_06: "Complex"
-trait_01: "mechanical"
-trait_02: "trap"
+trait_01: [[mechanical]]
+trait_02: [[trap]]
 modifier: 13
 sourcebook: "_Pathfinder Adventure: Troubles in Otari_"
 ac: 25
 armorclass:
   - name: AC
-    desc: "25; __Fort__ +15, __Ref__ +8, __Will__ +0"
+    desc: "25; __Fort__ +15, __Ref__ +8, "
 hp: 50
 health:
   - name: ""
@@ -54,8 +55,14 @@ attacks:
     desc: "`pf2:r` If a creature enters the corridor intersection, the four doors exiting this intersection close and lock, and the trap rolls Stealth (+13) for its initiative."
 
   - name: "Routine"
-    desc: "(4 actions) The trap loses 1 action each turn for each disabled nozzle. On each action, a different nozzle fires a jet of flame down a different corridor, dealing 3d6 fire damage to each creature in the first 10 feet of the corridor past the intersection (DC 22 Reflex check).\nA creature standing in the corridor intersection can be hit by only one flame jet per round even if they're in the area of multiple flame jets. The creature attempts only one saving throw per round, but it takes a -2 circumstance penalty to its saving throw."
+    desc: "(4 actions) The trap loses 1 action each turn for each disabled nozzle. On each action, a different nozzle fires a jet of flame down a different corridor, dealing 3d6 fire damage to each creature in the first 10 feet of the corridor past the intersection (DC 22 Reflex check).\n\nA creature standing in the corridor intersection can be hit by only one flame jet per round even if they're in the area of multiple flame jets. The creature attempts only one saving throw per round, but it takes a -2 circumstance penalty to its saving throw."
   - name: "Reset"
     desc: "The trap deactivates and resets after 10 minutes. After the trap is activated for the fourth time, it runs out of fuel and must be reset manually."
+```
+
+```encounter-table
+name: Tongues of Flame
+creatures:
+  - 1: Tongues of Flame
 ```
 

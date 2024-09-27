@@ -4,6 +4,7 @@ title: "Rune of Sin (Pride)"
 cssclasses: pf2e,pf2e-spell
 tags:
   - trait/arcane
+  - trait/illusion
   - trait/invested
   - trait/tattoo
   - trait/uncommon
@@ -12,7 +13,7 @@ license: OGL
 ---
 # Rune of Sin (Pride)
 ## Item 12
-### [uncommon](uncommon "Uncommon Rarity Trait")[[arcane]][[invested]][[tattoo]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[arcane]][[illusion]][[invested]][[tattoo]]
 
 
 **Price** 1700 gp; 

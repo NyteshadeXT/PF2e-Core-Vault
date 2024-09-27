@@ -12,7 +12,7 @@ license: OGL
 ---
 # Drake Rifle (Poison)
 ## Item 4
-### [uncommon](uncommon "Uncommon Rarity Trait")[[magical]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[3-Rules/Rule References/Magical]]
 
 |  |  |
 | -- | -- |
@@ -36,7 +36,7 @@ A drake rifle is a firearm made from the saliva glands of a drake. The firearm l
 
 **Effect** You fire a large, specialized burst designed to hamper your foes. Make a ranged Strike with the drake rifle. As long as the Strike isn't a critical failure, the drake rifle deals 1 splash damage per weapon damage die to the target and creatures within 5 feet of the target. On a hit, the drake rifle provides the following additional effect:
 
-*   **Poison** Noxious vapors fill the target's lungs. The target becomes [[Conditions/Enfeebled 1|Enfeebled 1]] and [[Conditions/Clumsy 1|Clumsy 1]] for 1 minute.
+*   **Poison** Noxious vapors fill the target's lungs. The target becomes [[Conditions/Enfeebled|Enfeebled 1]] and [[Conditions/Clumsy|Clumsy 1]] for 1 minute.
 
 **Craft Requirements** The initial raw materials must include the saliva glands of a ritually hunted drake with a breath weapon that deals the appropriate damage type for the drake rifle
 

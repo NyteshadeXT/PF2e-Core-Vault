@@ -16,7 +16,7 @@ license: OGL
 
 
 
-**Minor Curse:** Those who offend Tsukiyo find that light actively shuns them. You lose any low-light vision or darkvision you have, and you treat all light levels as one step lower.
+Those who offend Tsukiyo find that light actively shuns them. You lose any low-light vision or darkvision you have, and you treat all light levels as one step lower.
 
 *Source: Pathfinder Lost Omens: Gods & Magic*
 *OGL*

@@ -12,7 +12,7 @@ license: ORC
 ---
 # Greater Rogue Reflexes
 ## Feat 13
-### [[rogue]]
+### [[3-Rules/trait_reference/rogue]]
 
 **Category** classfeature; 
 

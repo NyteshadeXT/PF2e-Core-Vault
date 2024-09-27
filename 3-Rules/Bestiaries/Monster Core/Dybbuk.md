@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/spirit
   - pf2e/creature/type/undead
   - pf2e/creature/type/unholy
+  - pf2eMonster
   - pf2e/creature/level/15
   - remaster
 statblock: inline
@@ -25,13 +26,13 @@ token: [[modules/pf2e-tokens-bestiaries/portraits/undead/ghostly/dybbuk.webp| ]]
 source: "Pathfinder Monster Core"
 name: "Dybbuk"
 level: "Creature 15"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Medium"
-trait_01: "incorporeal"
-trait_02: "spirit"
-trait_03: "undead"
-trait_04: "unholy"
+trait_01: [[incorporeal]]
+trait_02: [[spirit]]
+trait_03: [[undead]]
+trait_04: [[unholy]]
 modifier: 27
 perception:
   - name: "Perception"
@@ -51,7 +52,7 @@ hp: 175
 health:
   - name: ""
   - name: HP
-    desc: "175, void healing; __Immunities__  death effects,  disease,  paralyzed,  poison,  precision,  unconscious,  bleed; __Resistances__ all damage 10 (except force, ghost touch, or vitality; double resistance vs. non-magical)"
+    desc: "175, void healing; __Immunities__  death effects,  disease,  paralyzed,  poison,  precision,  unconscious,  bleed; __Resistances__ all damage 10 (except force, ghost touch, spirit, or vitality; double resistance vs. non-magical)"
 abilities_top:
   - name: ""
 
@@ -72,6 +73,12 @@ attacks:
   - name: "Malevolent Possession"
     desc: "`pf2:2` (incapacitation,mental,occult,possession) The dybbuk attempts to possess an adjacent corporeal creature. This has the same effect as the [[Spells/Possession|Possession]] spell (DC 34 Will check) with an unlimited duration, except since the dybbuk doesn't have a physical body, they aren't [[Conditions/Unconscious|Unconscious]], and aren't [[Conditions/Paralyzed|Paralyzed]] when the effect ends, though they take 5d6 spirit damage if the body is knocked unconscious or killed.\n\nIf the dybbuk took control of the target with Malevolent Possession, when the dybbuk departs, the target has only incoherent memories of the interval it was possessed."
  
+```
+
+```encounter-table
+name: Dybbuk
+creatures:
+  - 1: Dybbuk
 ```
 
 

@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.strength-of-thousands-bestiary.Actor.rGZsMD3loampnRRo"
 tags:
   - pf2e/creature/type/construct
   - pf2e/creature/type/mindless
+  - pf2eMonster
   - pf2e/creature/level/2
 statblock: inline
 name: "Shieldbearer Construct"
@@ -21,15 +22,16 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #169: Kindled Magic"
 name: "Shieldbearer Construct"
 level: "Creature 2"
-rare_03: "Rare"
+rare_03: [[Rare]]
 alignment: ""
 size: "Large"
-trait_01: "construct"
-trait_02: "mindless"
+trait_01: [[construct]]
+trait_02: [[mindless]]
 modifier: 6
 perception:
   - name: "Perception"
     desc: "+6; Low-Light Vision"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Athletics: +8"
@@ -55,7 +57,7 @@ abilities_mid:
     desc: "`pf2:r`  "
 
   - name: "Critical Vulnerability"
-    desc: "  A critical hit damages the construct's controls, making it [[Conditions/Clumsy 1|Clumsy 1]] until repaired. Additional critical hits increase this value, up to [[Conditions/Clumsy 1|Clumsy 4]]."
+    desc: "  A critical hit damages the construct's controls, making it [[Conditions/Clumsy|Clumsy 1]] until repaired. Additional critical hits increase this value, up to [[Conditions/Clumsy|Clumsy 4]]."
 
   - name: "Ridden Construct"
     desc: "  The construct is piloted by a [[Bestiary 1/Leaf Leshy|Leaf Leshy]] who can be targeted separately but has greater cover. The leshy can't take actions of their own while inside the construct, other than to leave it, which takes 1 minute."
@@ -69,6 +71,12 @@ attacks:
   - name: "Melee"
     desc: "`pf2:1` Wooden Sword +11 (versatile p)\n__Damage__  1d8 + 4 slashing"
  
+```
+
+```encounter-table
+name: Shieldbearer Construct
+creatures:
+  - 1: Shieldbearer Construct
 ```
 
 

@@ -10,7 +10,7 @@ license: OGL
 ---
 # Clockwork Heels
 ## Item 7
-### [rare](rare "Rare Rarity Trait")[[clockwork]]
+### [rare](rare.md "Rare Rarity Trait")[[clockwork]]
 
 
 **Price** 300 gp; 

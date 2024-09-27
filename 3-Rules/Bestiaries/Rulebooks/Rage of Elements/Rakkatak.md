@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.rage-of-elements-bestiary.Actor.m2WdV4XJ3r70mnJX"
 tags:
   - pf2e/creature/type/elemental
   - pf2e/creature/type/fire
+  - pf2eMonster
   - pf2e/creature/level/5
   - remaster
 statblock: inline
@@ -25,16 +26,16 @@ level: "Creature 5"
 
 alignment: ""
 size: "Medium"
-trait_01: "elemental"
-trait_02: "fire"
+trait_01: [[elemental]]
+trait_02: [[fire]]
 modifier: 9
 perception:
   - name: "Perception"
     desc: "+9; Darkvision"
-languages: "Pyric"
+languages: "Pyric; can&#x27;t speak any language"
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +11"
+    desc: "Acrobatics: +11, Athletics: +15"
 abilityMods: [4, 2, 5, -3, 2, -2]
 speed: 5 feet,  fly 45 feet
 sourcebook: "_Pathfinder Rage of Elements_"
@@ -53,7 +54,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Exploding Guts"
-    desc: "  When the rakkatak is critically hit or critically fails a Fortitude save, one of its organs bursts. Roll 1d4 to determine what effect this has.\n**1** Trapped noxious gas rushes out. The rakkatak is pushed 10 feet away from the source of the triggering attack or effect.\n**2** Pus showers those nearby. Each creature in a 5-foot emanation is [[Conditions/Sickened 1|Sickened 1]].\n**3** The damage is severe. The rakkatak takes 1d6 persistent bleed damage.\n**4** Gelatinous rakkatak eggs explode forth and instantly hatch. Each creature in a 5-foot emanation takes 1d6 persistent piercing damage from the ravenous larvae."
+    desc: "  When the rakkatak is critically hit or critically fails a Fortitude save, one of its organs bursts. Roll 1d4 to determine what effect this has.\n\n**1** Trapped noxious gas rushes out. The rakkatak is pushed 10 feet away from the source of the triggering attack or effect.\n\n**2** Pus showers those nearby. Each creature in a @Template[emanation|distance:5] is [[Conditions/Sickened|Sickened 1]].\n\n**3** The damage is severe. The rakkatak takes 1d6 persistent bleed damage.\n\n**4** Gelatinous rakkatak eggs explode forth and instantly hatch. Each creature in a @Template[emanation|distance:5] takes 1d6 persistent piercing damage from the ravenous larvae."
 
 attacks:
   - name: ""
@@ -68,11 +69,17 @@ attacks:
     desc: "`pf2:1` (concentrate,emotion,mental,visual) The rakkatak turns its grotesque yet mesmerizing eyes upon one creature it can see within 30 feet. That creature must succeed at a DC 22 Will check save or become [[Conditions/Fascinated|Fascinated]] with the rakkatak. While fascinated, the creature must spend at least 1 action each round moving closer to the rakkatak as expediently as possible, and can't intentionally move away from it. The fascination ends after 1 minute or when the rakkatak uses Predator's Stare again, whichever comes first."
 
   - name: "Suck Innards"
-    desc: "`pf2:1`  **Requirements** A [[Conditions/Grabbed|Grabbed]], [[Conditions/Paralyzed|Paralyzed]], [[Conditions/Restrained|Restrained]], [[Conditions/Unconscious|Unconscious]], or willing creature is within the rakkatak's reach\n**Effect** The rakkatak deals 3d6 untyped damage to the target (DC 22 Fortitude check save). If the creature takes at least 12 damage, the rakkatak regains 10 HP."
+    desc: "`pf2:1`  **Requirements** A [[Conditions/Grabbed|Grabbed]], [[Conditions/Paralyzed|Paralyzed]], [[Conditions/Restrained|Restrained]], [[Conditions/Unconscious|Unconscious]], or willing creature is within the rakkatak's reach\n* * *\n\n**Effect** The rakkatak deals 3d6 untyped damage to the target (DC 22 Fortitude check save). If the creature takes at least 12 damage, the rakkatak regains 10 HP."
 
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
     desc: "`pf2:1`  "
  
+```
+
+```encounter-table
+name: Rakkatak
+creatures:
+  - 1: Rakkatak
 ```
 
 

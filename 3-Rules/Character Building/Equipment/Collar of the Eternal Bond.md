@@ -12,7 +12,7 @@ license: OGL
 ---
 # Collar of the Eternal Bond
 ## Item 7
-### [[eidolon]][[invested]][[magical]]
+### [[eidolon]][[invested]][[3-Rules/Rule References/Magical]]
 
 
 **Price** 330 gp; 

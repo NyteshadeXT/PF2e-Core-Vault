@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/human
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/6
 statblock: inline
 name: "Reckless Akitonian Scientist"
@@ -22,12 +23,12 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Society Special #3-99: Fate in the Future"
 name: "Reckless Akitonian Scientist"
 level: "Creature 6"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Medium"
-trait_01: "evil"
-trait_02: "human"
-trait_03: "humanoid"
+trait_01: [[evil]]
+trait_02: [[human]]
+trait_03: [[humanoid]]
 modifier: 10
 perception:
   - name: "Perception"
@@ -35,7 +36,7 @@ perception:
 languages: "Akitonian"
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +12, Crafting: +17, Deception: +9, Engineering Lore: +15, Medicine: +10, Stealth: +12, Underworld Lore: +13"
+    desc: "Acrobatics: +12, Crafting: +17, Deception: +9, Medicine: +10, Stealth: +12, Engineering Lore: +15, Underworld Lore: +13"
 abilityMods: [1, 4, 5, 5, 2, -1]
 speed: 25 feet
 sourcebook: "_Pathfinder Society Special #3-99: Fate in the Future_"
@@ -66,21 +67,27 @@ attacks:
   - name: "Melee"
     desc: "`pf2:1` Sickle +17 (agile, finesse, magical, trip)\n__Damage__  1d4 + 7 slashing"
 
-  - name: "Ranged"
+  - name: "Melee"
     desc: "`pf2:1` Acid Flask (Moderate) +16 (bomb, consumable, infused, splash)\n__Damage__  1 acid 2d6 acid 2 acid"
 
-  - name: "Ranged"
+  - name: "Melee"
     desc: "`pf2:1` Alchemist&#x27;s Fire (Moderate) +16 (bomb, consumable, infused, splash)\n__Damage__  2d8 fire 2 fire 2 fire"
 
-  - name: "Ranged"
+  - name: "Melee"
     desc: "`pf2:1` Frost Vial (Moderate) +16 (bomb, consumable, infused, splash)\n__Damage__  2d6 cold 2 cold"
 
   - name: "Quick Bomber"
     desc: "`pf2:1`  The reckless scientist Interacts to draw a bomb, then Strikes with it."
 
   - name: "Reckless Alchemy"
-    desc: "`pf2:1`  **Requirements** The reckless scientist is holding a bomb or elixir\n**Effect** The reckless scientist combines the bomb with another bomb or the elixir with another elixir. They can Interact to draw a second bomb or elixir if necessary as part of this action. They attempt a DC 28 Crafting check check, destroying both component items to create one new item. If a viable resulting item isn't used by the end of the scientist's next turn, it explodes as described under critical failure.\n**Critical Success** The new item has the full effect of both component items when used.\n**Success** The new item combines both items, but halves the effect of each. (This halves damage for bombs, the amount of healing of elixirs of life, or the duration for effects that can't have their value halved. Details are determined by the GM.)\n**Failure** The new item is inert.\n**Critical Failure** The new item immediately explodes, dealing 3d6 piercing damage to the reckless scientist."
+    desc: "`pf2:1`  **Requirements** The reckless scientist is holding a bomb or elixir\n* * *\n\n**Effect** The reckless scientist combines the bomb with another bomb or the elixir with another elixir. They can Interact to draw a second bomb or elixir if necessary as part of this action. They attempt a DC 28 Crafting check check, destroying both component items to create one new item. If a viable resulting item isn't used by the end of the scientist's next turn, it explodes as described under critical failure.\n* * *\n\n**Critical Success** The new item has the full effect of both component items when used.\n\n**Success** The new item combines both items, but halves the effect of each. (This halves damage for bombs, the amount of healing of elixirs of life, or the duration for effects that can't have their value halved. Details are determined by the GM.)\n\n**Failure** The new item is inert.\n\n**Critical Failure** The new item immediately explodes, dealing 3d6 piercing damage to the reckless scientist."
  
+```
+
+```encounter-table
+name: Reckless Akitonian Scientist
+creatures:
+  - 1: Reckless Akitonian Scientist
 ```
 
 

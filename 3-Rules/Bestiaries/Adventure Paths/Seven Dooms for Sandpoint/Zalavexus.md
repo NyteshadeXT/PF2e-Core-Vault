@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/chaotic
   - pf2e/creature/type/evil
   - pf2e/creature/type/swarm
+  - pf2eMonster
   - pf2e/creature/level/10
 statblock: inline
 name: "Zalavexus"
@@ -23,13 +24,13 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #200: Seven Dooms for Sandpoint"
 name: "Zalavexus"
 level: "Creature 10"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Medium"
-trait_01: "aberration"
-trait_02: "chaotic"
-trait_03: "evil"
-trait_04: "swarm"
+trait_01: [[aberration]]
+trait_02: [[chaotic]]
+trait_03: [[evil]]
+trait_04: [[swarm]]
 modifier: 19
 perception:
   - name: "Perception"
@@ -37,7 +38,7 @@ perception:
 languages: "Aklo, Jotun, Petran, Thassilonian, Varisian"
 skills:
   - name: "Skills"
-    desc: "Arcana: +17, Deception: +23, Diplomacy: +21, Genie Lore: +19, Intimidation: +21, Medicine: +19, Nature: +21, Occultism: +17, Stealth: +21"
+    desc: "Arcana: +17, Deception: +23, Diplomacy: +21, Intimidation: +21, Medicine: +19, Nature: +21, Occultism: +17, Stealth: +21, Genie Lore: +19"
 abilityMods: [3, 7, 5, 3, 5, 7]
 speed: 30 feet
 sourcebook: "_Pathfinder #200: Seven Dooms for Sandpoint_"
@@ -57,7 +58,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Discorporate"
-    desc: " (splash) When the worm that walks is reduced to 0 HP, it discorporates and the component worms that make up its body disperse in every direction. If even a single worm escapes, the worm that walks will eventually re-form using a process that typically takes 1d10 days.\nWhile the exact circumstances and surroundings determine how long the worm that walks's foes have to dispatch the fleeing worms before they escape, usually its foes have only a single round. Typically, this requires the application of an area effect or splash weapon within 1 round to the space where the worm that walks collapsed. After any amount of area or splash damage is dealt to that space, the character dealing the damage must attempt a DC 15 Flat check check. Each subsequent area or splash damage effect performed on the area reduces the DC of this flat check by 2, to a minimum of DC 5. If any of these flat checks succeed, none of the worms escape, and the worm that walks is destroyed permanently.\nAt the GM's discretion, clever means of trapping or otherwise detaining the vermin may extend the time allowed to finish off the worm that walks."
+    desc: " (splash) When the worm that walks is reduced to 0 HP, it discorporates and the component worms that make up its body disperse in every direction. If even a single worm escapes, the worm that walks will eventually re-form using a process that typically takes 1d10 days.\n\nWhile the exact circumstances and surroundings determine how long the worm that walks's foes have to dispatch the fleeing worms before they escape, usually its foes have only a single round. Typically, this requires the application of an area effect or splash weapon within 1 round to the space where the worm that walks collapsed. After any amount of area or splash damage is dealt to that space, the character dealing the damage must attempt a DC 15 Flat check check. Each subsequent area or splash damage effect performed on the area reduces the DC of this flat check by 2, to a minimum of DC 5. If any of these flat checks succeed, none of the worms escape, and the worm that walks is destroyed permanently.\n\nAt the GM's discretion, clever means of trapping or otherwise detaining the vermin may extend the time allowed to finish off the worm that walks."
 
 attacks:
   - name: ""
@@ -72,7 +73,7 @@ attacks:
     desc: "1 Focus Point, DC 29, attack +21; __5th __  _[[Spells/Elemental Toss|Elemental Toss]]_"
 
   - name: "Quickened Casting"
-    desc: " (concentrate) **Frequency** once per day\n**Effect** If Zalavexus's next action is to cast a 3rd-or lower-rank spell or cantrip, reduce the number of actions to cast it by 1 (minimum 1 action)."
+    desc: " (concentrate) **Frequency** once per day\n* * *\n\n**Effect** If Zalavexus's next action is to cast a 3rd-or lower-rank spell or cantrip, reduce the number of actions to cast it by 1 (minimum 1 action)."
 
   - name: "Squirming Embrace"
     desc: "`pf2:1`  The worm that walks Strides, ending its movement sharing a space with a creature, and deals 4d8 piercing damage to the creature. The creature can attempt a DC 27 Reflex check save."
@@ -83,6 +84,12 @@ attacks:
   - name: "Swarm Shape"
     desc: "`pf2:1` (attack,concentrate) The worm that walks collapses into a shapeless swarm of worms. It drops all held, worn, and carried items. While discorporated, the worm that walks can't use attack actions and can't cast spells, but it can move through areas small enough for its individual worms to fit without having to [[Actions/Squeeze|Squeeze]]. It can use the same action to coalesce back into its normal form."
  
+```
+
+```encounter-table
+name: Zalavexus
+creatures:
+  - 1: Zalavexus
 ```
 
 

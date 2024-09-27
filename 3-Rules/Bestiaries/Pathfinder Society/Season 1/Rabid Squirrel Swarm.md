@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.pfs-season-1-bestiary.Actor.glxrhALybtp9WYh9"
 tags:
   - pf2e/creature/type/animal
   - pf2e/creature/type/swarm
+  - pf2eMonster
   - pf2e/creature/level/1
 statblock: inline
 name: "Rabid Squirrel Swarm"
@@ -24,15 +25,16 @@ level: "Creature 1"
 
 alignment: ""
 size: "Large"
-trait_01: "animal"
-trait_02: "swarm"
+trait_01: [[animal]]
+trait_02: [[swarm]]
 modifier: 5
 perception:
   - name: "Perception"
     desc: "+5; Low-Light Vision"
+languages: ""
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +8, Athletics: +4 (+6 to Climb)"
+    desc: "Acrobatics: +8, Athletics: +4"
 abilityMods: [-3, 3, 1, -4, 1, -2]
 speed: 30 feet,  climb 20 feet
 sourcebook: "_Pathfinder Society Scenario #1-04: Bandits of Immenwood_"
@@ -54,11 +56,17 @@ attacks:
   - name: ""
 
   - name: "Rabies"
-    desc: " (disease) **Saving Throw** DC 14 Fortitude check\n**Stage 1** [[Conditions/Sickened 1|Sickened 1]] and [[Conditions/Stupefied 1|Stupefied 1]] (1 day)\n**Stage 2** [[Conditions/Sickened 1|Sickened 2]] and [[Conditions/Stupefied 1|Stupefied 2]] (1 day)\n**Stage 3** [[Conditions/Confused|Confused]] (1 day)\n**Stage 4** [[Conditions/Unconscious|Unconscious]](1 day)\n**Stage 5** dead"
+    desc: " (disease) **Saving Throw** DC 14 Fortitude check\n\n**Stage 1** [[Conditions/Sickened|Sickened 1]] and [[Conditions/Stupefied|Stupefied 1]] (1 day)\n\n**Stage 2** [[Conditions/Sickened|Sickened 2]] and [[Conditions/Stupefied|Stupefied 2]] (1 day)\n\n**Stage 3** [[Conditions/Confused|Confused]] (1 day)\n\n**Stage 4** [[Conditions/Unconscious|Unconscious]](1 day)\n\n**Stage 5** dead"
 
   - name: "Swarming Claws and Teeth"
-    desc: "`pf2:2`  Each enemy in the swarm's space takes 1d4 piercing damage and must attempt a DC 17 Reflex check save.\nA creature affected by this attack can spend 2 actions on its turn to attempt another DC 17 Reflex check to remove the clumsy condition.\n**Critical Success** The creature is unaffected.\n**Success** The creature takes half damage\n**Failure** The creature takes full damage, is [[Conditions/Clumsy 1|Clumsy 2]], and is exposed to rabies.\n**Critical Failure** The creature takes double damage, is clumsy 2, falls [[Conditions/Prone|Prone]], and is exposed to rabies."
+    desc: "`pf2:2`  Each enemy in the swarm's space takes 1d4 piercing damage and must attempt a DC 17 Reflex check save.\n\nA creature affected by this attack can spend 2 actions on its turn to attempt another DC 17 Reflex check to remove the clumsy condition.\n* * *\n\n**Critical Success** The creature is unaffected.\n\n**Success** The creature takes half damage\n\n**Failure** The creature takes full damage, is [[Conditions/Clumsy|Clumsy 2]], and is exposed to rabies.\n\n**Critical Failure** The creature takes double damage, is clumsy 2, falls [[Conditions/Prone|Prone]], and is exposed to rabies."
  
+```
+
+```encounter-table
+name: Rabid Squirrel Swarm
+creatures:
+  - 1: Rabid Squirrel Swarm
 ```
 
 

@@ -10,6 +10,7 @@ tags:
   - pf2e/creature/type/skeleton
   - pf2e/creature/type/undead
   - pf2e/creature/type/unholy
+  - pf2eMonster
   - pf2e/creature/level/8
 statblock: inline
 name: "Drake Skeleton"
@@ -27,15 +28,16 @@ level: "Creature 8"
 
 alignment: ""
 size: "Large"
-trait_01: "evil"
-trait_02: "mindless"
-trait_03: "skeleton"
-trait_04: "undead"
-trait_05: "unholy"
+trait_01: [[evil]]
+trait_02: [[mindless]]
+trait_03: [[skeleton]]
+trait_04: [[undead]]
+trait_05: [[unholy]]
 modifier: 14
 perception:
   - name: "Perception"
     desc: "+14; Darkvision"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Acrobatics: +14, Athletics: +18, Stealth: +16"
@@ -71,6 +73,12 @@ attacks:
   - name: "Draconic Frenzy"
     desc: "`pf2:2`  The skeletal drake makes two Fangs Strikes and one Tail Strike in any order."
  
+```
+
+```encounter-table
+name: Drake Skeleton
+creatures:
+  - 1: Drake Skeleton
 ```
 
 

@@ -5,6 +5,7 @@ noteType: pf2eHazard
 tags:
   - magical
   - trap
+  - pf2eHazard
   - complex
 source: Pathfinder Dark Archive
 aliases: "Compendium.pf2e.pathfinder-dark-archive.Actor.P2fNCqJsR0gazMzM" 
@@ -22,8 +23,8 @@ name: "Exhaling Portal"
 level: "Hazard 9"
 
 trait_06: "Complex"
-trait_01: "magical"
-trait_02: "trap"
+trait_01: [[magical]]
+trait_02: [[trap]]
 modifier: 23
 sourcebook: "_Pathfinder Dark Archive_"
 perception:
@@ -42,11 +43,17 @@ attacks:
   - name: ""
 
   - name: "Gust"
-    desc: "`pf2:r` (air) **Trigger** A creature opens the door\n**Effect** The hall is buffeted by powerful winds for as long as the door remains open. A creature must succeed at a DC 32 Athletics check check to move toward the door. A creature who fails at this check is pushed back 5 feet and falls [[Conditions/Prone|Prone]].\nAdditionally, the triggering creature is blasted by a powerful gust of wind and must attempt a DC 32 Fortitude check save. The trap then rolls initiative.\n**Critical Success** The creature is unaffected.\n**Success** The creature is pushed back 5 feet.\n**Failure** The creature is pushed back 10 feet.\n**Critical Failure** The creature is pushed back 10 feet and knocked [[Conditions/Prone|Prone]]."
+    desc: "`pf2:r` (air) **Trigger** A creature opens the door\n* * *\n\n**Effect** The hall is buffeted by powerful winds for as long as the door remains open. A creature must succeed at a DC 32 Athletics check check to move toward the door. A creature who fails at this check is pushed back 5 feet and falls [[Conditions/Prone|Prone]].\n\nAdditionally, the triggering creature is blasted by a powerful gust of wind and must attempt a DC 32 Fortitude check save. The trap then rolls initiative.\n* * *\n\n**Critical Success** The creature is unaffected.\n\n**Success** The creature is pushed back 5 feet.\n\n**Failure** The creature is pushed back 10 feet.\n\n**Critical Failure** The creature is pushed back 10 feet and knocked [[Conditions/Prone|Prone]]."
 
   - name: "Routine"
     desc: "(1 action) The trap uses 1 action to blow powerful winds down the hall. Each creature in the hall must attempt a DC 32 Fortitude check save with the same results as Gust. If this forced movement would cause a creature to collide with a solid object or fall downstairs or out a window, that creature takes an additional 2d10 + 11 bludgeoning damage (or 20 bludgeoning damage due to a fall)."
   - name: "Reset"
     desc: "Automatic after the door is shut"
+```
+
+```encounter-table
+name: Exhaling Portal
+creatures:
+  - 1: Exhaling Portal
 ```
 

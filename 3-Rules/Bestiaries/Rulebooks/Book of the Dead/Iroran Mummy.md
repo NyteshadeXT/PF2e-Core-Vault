@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/lawful
   - pf2e/creature/type/mummy
   - pf2e/creature/type/undead
+  - pf2eMonster
   - pf2e/creature/level/10
 statblock: inline
 name: "Iroran Mummy"
@@ -22,20 +23,20 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Book of the Dead"
 name: "Iroran Mummy"
 level: "Creature 10"
-rare_03: "Rare"
+rare_03: [[Rare]]
 alignment: ""
 size: "Medium"
-trait_01: "lawful"
-trait_02: "mummy"
-trait_03: "undead"
+trait_01: [[lawful]]
+trait_02: [[mummy]]
+trait_03: [[undead]]
 modifier: 21
 perception:
   - name: "Perception"
     desc: "+21; Darkvision"
-languages: "Necril"
+languages: "Necril; any two languages they knew while alive"
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +25, Athletics: +21, Irori Lore: +25, Religion: +21"
+    desc: "Acrobatics: +25, Athletics: +21, Religion: +21, Irori Lore: +25"
 abilityMods: [5, 7, 4, 0, 5, 3]
 speed: 30 feet
 sourcebook: "_Pathfinder Book of the Dead_"
@@ -58,7 +59,7 @@ abilities_mid:
     desc: " (aura,divine,emotion,incapacitation,mental) 30 feet. When a creature enters or starts its turn in the aura, it's affected by [[Spells/Calm|Calm]] for 1 minute, with a DC 27 Will check save. A creature that succeeds at the save is temporarily immune for 24 hours. If the Iroran mummy takes a hostile action, the aura of peace is suppressed and its effects end for anyone already affected. The Iroran mummy must spend 10 minutes in meditation to restore the aura."
 
   - name: "Robe Tangle"
-    desc: "`pf2:r` (divine,move) **Trigger** An adjacent creature misses the Iroran mummy with a melee Strike\n**Effect** The mummy swaps positions with the attacker, and the attacker becomes [[Conditions/Grabbed|Grabbed]] by the mummy's animated sash. The Escape DC is 29, the Force Open DC is 27, and a creature can sever the sash by hitting AC 27 and dealing at least 20 slashing damage. The mummy can't use this reaction again until they've Interacted to reclaim the sash."
+    desc: "`pf2:r` (divine,move) **Trigger** An adjacent creature misses the Iroran mummy with a melee Strike\n* * *\n\n**Effect** The mummy swaps positions with the attacker, and the attacker becomes [[Conditions/Grabbed|Grabbed]] by the mummy's animated sash. The Escape DC is 29, the Force Open DC is 27, and a creature can sever the sash by hitting AC 27 and dealing at least 20 slashing damage. The mummy can't use this reaction again until they've Interacted to reclaim the sash."
 
 attacks:
   - name: ""
@@ -70,11 +71,17 @@ attacks:
     desc: "`pf2:1` Shuriken +23 (agile, thrown 20 ft.)\n__Damage__  2d4 + 11 piercing"
 
   - name: "Monk Ki Spells"
-    desc: "3 Focus Points, DC 29, attack +21; __5th __  _[[Spells/Ki Blast|Ki Blast]]_, _[[Spells/Ki Rush|Ki Rush]]_, _[[Spells/Ki Strike|Ki Strike]]_, _[[Spells/Wind Jump|Wind Jump]]_"
+    desc: "3 Focus Points, DC 29, attack +21; __5th __  _[[Spells/Qi Blast|Ki Blast]]_, _[[Spells/Qi Rush|Ki Rush]]_, _[[Spells/Inner Upheaval|Ki Strike]]_, _[[Spells/Wind Jump|Wind Jump]]_"
 
   - name: "Stunning Flurry"
-    desc: "`pf2:1`  **Frequency** once per round\n**Effect** The Iroran mummy makes two unarmed Strikes. If both hit the same creature, combine their damage for the purpose of resistances and weaknesses, and the target must succeed at a DC 29 Fortitude check save or be [[Conditions/Stunned 1|Stunned 1]] (or stunned 3 on a critical failure); this save has the incapacitation trait."
+    desc: "`pf2:1`  **Frequency** once per round\n* * *\n\n**Effect** The Iroran mummy makes two unarmed Strikes. If both hit the same creature, combine their damage for the purpose of resistances and weaknesses, and the target must succeed at a DC 29 Fortitude check save or be [[Conditions/Stunned|Stunned 1]] (or stunned 3 on a critical failure); this save has the incapacitation trait."
  
+```
+
+```encounter-table
+name: Iroran Mummy
+creatures:
+  - 1: Iroran Mummy
 ```
 
 

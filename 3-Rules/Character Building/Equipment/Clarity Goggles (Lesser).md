@@ -11,7 +11,7 @@ license: OGL
 ---
 # Clarity Goggles (Lesser)
 ## Item 8
-### [[invested]][[magical]]
+### [[invested]][[3-Rules/Rule References/Magical]]
 
 
 **Price** 425 gp; 

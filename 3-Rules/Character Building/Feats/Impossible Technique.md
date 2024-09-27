@@ -7,8 +7,9 @@ tags:
   - trait/monk
   - trait/common
   - category/class
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.srWsvDDdz77yieY1"
-license: OGL
+license: ORC
 ---
 # Impossible Technique `pf2:r`
 ## Feat 20
@@ -27,5 +28,5 @@ license: OGL
 
 You execute a maneuver that defies possibility. If the triggering effect was an enemy's attack hitting you, the enemy rerolls the attack roll and uses the lower result. If the triggering effect was you failing a saving throw, you reroll the saving throw and use the higher result.
 
-*Source: Pathfinder Core Rulebook*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

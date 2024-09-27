@@ -10,7 +10,7 @@ license: OGL
 ---
 # Battle Medic's Baton
 ## Item 3
-### [[magical]]
+### [[3-Rules/Rule References/Magical]]
 
 
 **Price** 60 gp; 

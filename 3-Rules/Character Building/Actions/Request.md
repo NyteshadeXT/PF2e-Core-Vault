@@ -16,7 +16,7 @@ license: ORC
 ---
 # Request `pf2:1`
 
-### [[auditory]][[concentrate]][[linguistic]][[3-Rules/Rule References/Mental]][[skill]]
+### [[3-Rules/Rule References/auditory]][[3-Rules/Rule References/Concentrate]][[linguistic]][[3-Rules/Rule References/Mental]][[skill]]
 
 **Category** interaction; 
 

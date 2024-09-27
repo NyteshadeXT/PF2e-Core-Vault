@@ -12,7 +12,7 @@ license: ORC
 ---
 # Resolute Faith
 ## Feat 9
-### [[cleric]]
+### [[3-Rules/trait_reference/cleric]]
 
 **Category** classfeature; 
 

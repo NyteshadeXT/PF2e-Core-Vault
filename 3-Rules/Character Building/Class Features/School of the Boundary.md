@@ -12,7 +12,7 @@ license: ORC
 ---
 # School of the Boundary
 ## Feat 1
-### [[wizard]]
+### [[3-Rules/trait_reference/wizard]]
 
 **Category** classfeature; 
 

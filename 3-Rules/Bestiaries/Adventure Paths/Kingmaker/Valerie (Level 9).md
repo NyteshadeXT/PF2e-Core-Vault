@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.kingmaker-bestiary.Actor.aoICPc2KqxIP19m2"
 tags:
   - pf2e/creature/type/human
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/9
 statblock: inline
 name: "Valerie (Level 9)"
@@ -21,11 +22,11 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Kingmaker"
 name: "Valerie (Level 9)"
 level: "Creature 9"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Medium"
-trait_01: "human"
-trait_02: "humanoid"
+trait_01: [[human]]
+trait_02: [[humanoid]]
 modifier: 16
 perception:
   - name: "Perception"
@@ -33,7 +34,7 @@ perception:
 languages: "Common"
 skills:
   - name: "Skills"
-    desc: "Warfare Lore: +0, "
+    desc: ""
 abilityMods: [4, 1, 3, 0, 1, 3]
 speed: 25 feet
 sourcebook: "_Pathfinder Kingmaker_"
@@ -55,6 +56,12 @@ abilities_mid:
 attacks:
   - name: ""
  
+```
+
+```encounter-table
+name: Valerie (Level 9)
+creatures:
+  - 1: Valerie (Level 9)
 ```
 
 

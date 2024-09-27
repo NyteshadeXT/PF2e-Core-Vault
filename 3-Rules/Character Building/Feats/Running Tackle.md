@@ -6,8 +6,9 @@ tags:
   - trait/archetype
   - trait/common
   - category/class
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.A981119DMdqE9Pg1"
-license: OGL
+license: ORC
 ---
 # Running Tackle `pf2:2`
 ## Feat 8
@@ -19,7 +20,7 @@ license: OGL
 
 **Prerequisites** Wrestler Dedication
 * * *
-You charge toward your opponent, throwing your body at them in a vicious tackle. Stride up to your Speed and then make an unarmed melee Strike. If you hit, you can attempt to Shove the target.
+You charge, throwing your body at your foe in a vicious tackle. Stride twice or make a [[Actions/High Jump|High Jump]] or [[Actions/Long Jump|Long Jump]], then attempt to [[Actions/Grapple|Grapple]] or [[Actions/Shove|Shove]]. If you made a High Jump or Long Jump, you can make the Grapple or Shove at any point in the jump, but you can't travel any farther on the jump after you do.
 
-*Source: Pathfinder Lost Omens: The Grand Bazaar*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

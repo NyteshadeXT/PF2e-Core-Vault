@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[Feats/Dueling Parry (Swashbuckler)|Dueling Parry (Swashbuckler)]] or [[Feats/Dueling Parry (Fighter)|Dueling Parry (Fighter)]]
+Granted by [[Feats/Extravagant Parry|Extravagant Parry]] or [[Feats/Dueling Parry|Dueling Parry]]
 
 *Source: Pathfinder Core Rulebook*
 *OGL*

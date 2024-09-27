@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.pfs-season-5-bestiary.Actor.fY2KwMmfdKUtkCvx"
 tags:
   - pf2e/creature/type/chaotic
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/1
 statblock: inline
 name: "Experienced Goldmonger"
@@ -21,11 +22,11 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Society Scenario #5-04: Necessary Introductions"
 name: "Experienced Goldmonger"
 level: "Creature 1"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Medium"
-trait_01: "chaotic"
-trait_02: "humanoid"
+trait_01: [[chaotic]]
+trait_02: [[humanoid]]
 modifier: 7
 perception:
   - name: "Perception"
@@ -64,6 +65,12 @@ attacks:
   - name: "Ranged"
     desc: "`pf2:1` Crossbow +9 (range increment 120 feet, reload 1)\n__Damage__  1d8 piercing"
  
+```
+
+```encounter-table
+name: Experienced Goldmonger
+creatures:
+  - 1: Experienced Goldmonger
 ```
 
 

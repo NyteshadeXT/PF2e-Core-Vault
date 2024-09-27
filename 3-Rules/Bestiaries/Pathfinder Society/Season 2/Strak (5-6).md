@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/humanoid
   - pf2e/creature/type/orc
+  - pf2eMonster
   - pf2e/creature/level/6
 statblock: inline
 name: "Strak (5-6)"
@@ -23,13 +24,13 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Society Scenario #2-10: In Burning Dawn"
 name: "Strak (5-6)"
 level: "Creature 6"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Medium"
-trait_01: "chaotic"
-trait_02: "evil"
-trait_03: "humanoid"
-trait_04: "orc"
+trait_01: [[chaotic]]
+trait_02: [[evil]]
+trait_03: [[humanoid]]
+trait_04: [[orc]]
 modifier: 11
 perception:
   - name: "Perception"
@@ -55,7 +56,7 @@ abilities_top:
   - name: "Items"
     desc: "[[Equipment/Orc Necksplitter|+1 Orc Necksplitter]], 9x [[Equipment/Alchemist's Fire (Moderate)|Alchemist's Fire (Moderate) [Infused]]], [[Equipment/Acid Flask (Moderate)|Acid Flask (Moderate) [Infused]]], [[Equipment/Alchemist's Toolkit|Alchemist's Tools]], [[Equipment/Flint and Steel|Flint and Steel]], [[Equipment/Formula Book (Blank)|Formula Book]], [[Equipment/Smoke Ball (Greater)|Smokestick (Greater) [Infused]]], [[Equipment/Elixir of Life (Lesser)|Elixir of Life (Lesser) [Infused]]]"
   - name: "Infused Items"
-    desc: "  Strak carries the following infused items, which last for 24 hours, or until the next time he makes his daily preparations: [[Equipment/Elixir of Life (Lesser)|Elixir of Life (Lesser)]], [[Equipment/Acid Flask (Moderate)|Acid Flask (Moderate)]] , [[Equipment/Alchemist's Fire (Moderate)|Alchemist's Fire (Moderate)]] (9), and [[Equipment/Smoke Ball (Greater)|Smokestick (Greater)]]."
+    desc: "  Strak carries the following infused items, which last for 24 hours, or until the next time he makes his daily preparations: [[Equipment/Elixir of Life (Lesser)|Elixir of Life (Lesser)]], [[Equipment/Acid Flask (Moderate)|Acid Flask (Moderate)]], [[Equipment/Alchemist's Fire (Moderate)|Alchemist's Fire (Moderate)]] (9), and [[Equipment/Smoke Ball (Greater)|Smokestick (Greater)]]."
 
 abilities_mid:
   - name: ""
@@ -80,6 +81,12 @@ attacks:
   - name: "Quick Bomber"
     desc: "`pf2:1`  Strak draws an alchemical bomb with an Interact action and throws it as a ranged Strike."
  
+```
+
+```encounter-table
+name: Strak (5-6)
+creatures:
+  - 1: Strak (5-6)
 ```
 
 

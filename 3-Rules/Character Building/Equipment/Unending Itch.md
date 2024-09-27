@@ -28,7 +28,9 @@ Invented to cause a lengthy and unpleasant demise, this poison manifests as an i
 
 **Saving Throw** DC 34 Fortitude check (secret)
 
-**Maximum Duration** 5 minutes; **Stages 1–5** 1d6 poison (1 round)
+**Maximum Duration** 5 minutes
+
+**Stages 1–5** 1d6 poison (1 round)
 
 *Source: Pathfinder Treasure Vault*
 *OGL*

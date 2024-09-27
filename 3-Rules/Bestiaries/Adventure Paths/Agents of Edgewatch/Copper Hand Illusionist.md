@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/human
   - pf2e/creature/type/humanoid
   - pf2e/creature/type/lawful
+  - pf2eMonster
   - pf2e/creature/level/5
 statblock: inline
 name: "Copper Hand Illusionist"
@@ -26,10 +27,10 @@ level: "Creature 5"
 
 alignment: ""
 size: "Medium"
-trait_01: "evil"
-trait_02: "human"
-trait_03: "humanoid"
-trait_04: "lawful"
+trait_01: [[evil]]
+trait_02: [[human]]
+trait_03: [[humanoid]]
+trait_04: [[lawful]]
 modifier: 15
 perception:
   - name: "Perception"
@@ -59,7 +60,7 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
+  - name: "Ranged"
     desc: "`pf2:1` Dagger +13 (agile, finesse, thrown 10 ft., versatile s)\n__Damage__  1d4 + 5 piercing"
 
   - name: "Prepared Arcane Spells"
@@ -68,6 +69,12 @@ attacks:
   - name: "[[Bestiary Ability Glossary/Sneak Attack|Sneak Attack]]"
     desc: "  The Copper Hand illusionist deals 2d6 additional precision damage to [[Conditions/Off-Guard|Off-Guard]] creatures."
  
+```
+
+```encounter-table
+name: Copper Hand Illusionist
+creatures:
+  - 1: Copper Hand Illusionist
 ```
 
 

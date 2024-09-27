@@ -10,14 +10,14 @@ license: OGL
 ---
 # Crushing
 ## Item 3
-### [uncommon](uncommon "Uncommon Rarity Trait")[[magical]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[3-Rules/Rule References/Magical]]
 
 
 **Price** 50 gp; 
 **Bulk** 0; **Size** med
 **Usage** etched-onto-bludgeoning-weapon
 
-Weapons with this rune empower your strength, and attacks with these weapons leave your foe staggered. When you critically hit a target with this weapon, your target becomes [[Conditions/Clumsy 1|Clumsy 1]] and [[Conditions/Enfeebled 1|Enfeebled 1]] until the end of your next turn.
+Weapons with this rune empower your strength, and attacks with these weapons leave your foe staggered. When you critically hit a target with this weapon, your target becomes [[Conditions/Clumsy|Clumsy 1]] and [[Conditions/Enfeebled|Enfeebled 1]] until the end of your next turn.
 
 [[Equipment Effects/Effect_ Crushing|Effect: Crushing]]
 

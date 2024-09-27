@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/goblin
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/4
 statblock: inline
 name: "Bugbear Raider"
@@ -22,12 +23,12 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Society Scenario #4-04: To Seek the Heart of Calamity"
 name: "Bugbear Raider"
 level: "Creature 4"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Medium"
-trait_01: "evil"
-trait_02: "goblin"
-trait_03: "humanoid"
+trait_01: [[evil]]
+trait_02: [[goblin]]
+trait_03: [[humanoid]]
 modifier: 10
 perception:
   - name: "Perception"
@@ -72,6 +73,12 @@ attacks:
   - name: "Twin Feint"
     desc: "`pf2:2`  The bugbear raider makes a dazzling series of attacks with two weapons, using the first attack to throw their foe off guard against a second attack at a different angle. They make one Strike with each of their two melee weapons, both against the same target. The target is automatically [[Conditions/Off-Guard|Off-Guard]] against the second attack. Apply the bugbear radier's multiple attack penalty to the Strikes normally."
  
+```
+
+```encounter-table
+name: Bugbear Raider
+creatures:
+  - 1: Bugbear Raider
 ```
 
 

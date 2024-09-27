@@ -17,7 +17,7 @@ license: ORC
 ---
 # Blackaxe
 ## Item 25
-### [unique](unique "Unique Rarity Trait")[[artifact]][[cursed]][[primal]][[sweep]][[unholy]]
+### [unique](unique.md "Unique Rarity Trait")[[artifact]][[cursed]][[primal]][[sweep]][[unholy]]
 
 |  |  |
 | -- | -- |
@@ -38,7 +38,7 @@ This potent weapon used by Treerazer is a _+4 greater corrosive major striking o
 
 * * *
 
-**Effect** You sense the world around Blackaxe as though you were in its location and can use any of your innate spells through the link as if it were the source of the spell. If another creature is wielding Blackaxe, it must succeed at a DC 50 Will check save or be [[Conditions/Slowed 1|Slowed 2]] until it relinquishes the weapon.
+**Effect** You sense the world around Blackaxe as though you were in its location and can use any of your innate spells through the link as if it were the source of the spell. If another creature is wielding Blackaxe, it must succeed at a DC 50 Will check save or be [[Conditions/Slowed|Slowed 2]] until it relinquishes the weapon.
 
 * * *
 
@@ -52,7 +52,7 @@ This potent weapon used by Treerazer is a _+4 greater corrosive major striking o
 
 * * *
 
-**Activate—Rejuvenating Deforestation** `pf2:1`(concentrate, death, healing, positive)
+**Activate—Rejuvenating Deforestation** `pf2:1` (concentrate, death, healing, positive)
 
 **Frequency** once per minute
 

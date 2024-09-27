@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.pathfinder-bestiary-2.Actor.l3kFjH4n9Shet6bz"
 tags:
   - pf2e/creature/type/animal
   - pf2e/creature/type/swarm
+  - pf2eMonster
   - pf2e/creature/level/3
 statblock: inline
 name: "Fen Mosquito Swarm"
@@ -25,12 +26,13 @@ level: "Creature 3"
 
 alignment: ""
 size: "Large"
-trait_01: "animal"
-trait_02: "swarm"
+trait_01: [[animal]]
+trait_02: [[swarm]]
 modifier: 8
 perception:
   - name: "Perception"
     desc: "+8; Darkvision"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Acrobatics: +6, Stealth: +8"
@@ -58,11 +60,17 @@ attacks:
   - name: ""
 
   - name: "Pyrexic Malaria"
-    desc: " (disease) The victim can't reduce its [[Conditions/Sickened 1|Sickened]] condition while it's affected by pyrexic malaria\n**Saving Throw** DC 20 Fortitude check\n**Onset** 4 days\n**Stage 1** [[Conditions/Sickened 1|Sickened 1]] (1 day)\n**Stage 2** [[Conditions/Enfeebled 1|Enfeebled 1]] and [[Conditions/Sickened 1|Sickened 1]] (1 day)\n**Stage 3** as stage 2 (1 day)\n**Stage 4** [[Conditions/Unconscious|Unconscious]] (1 day)\n**Stage 5** dead"
+    desc: " (disease) The victim can't reduce its [[Conditions/Sickened|Sickened]] condition while it's affected by pyrexic malaria\n\n**Saving Throw** DC 20 Fortitude check\n\n**Onset** 4 days\n\n**Stage 1** [[Conditions/Sickened|Sickened 1]] (1 day)\n\n**Stage 2** [[Conditions/Enfeebled|Enfeebled 1]] and [[Conditions/Sickened|Sickened 1]] (1 day)\n\n**Stage 3** as stage 2 (1 day)\n\n**Stage 4** [[Conditions/Unconscious|Unconscious]] (1 day)\n\n**Stage 5** dead"
 
   - name: "Swarming Bites"
     desc: "`pf2:1`  Each enemy in the swarm's space takes 1d6 piercing damage (DC 20 Reflex check save) and is exposed to pyrexic malaria. Creatures that fail the saving throw also take 1d4 bleed."
  
+```
+
+```encounter-table
+name: Fen Mosquito Swarm
+creatures:
+  - 1: Fen Mosquito Swarm
 ```
 
 

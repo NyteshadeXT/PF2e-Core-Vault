@@ -6,12 +6,13 @@ tags:
   - trait/alchemist
   - trait/common
   - category/classfeature
+  - remaster
 aliases: "Compendium.pf2e.classfeatures.Item.76cwNLJEm4Yetnee"
-license: OGL
+license: ORC
 ---
 # Double Brew
 ## Feat 9
-### [[alchemist]]
+### [[3-Rules/trait_reference/alchemist]]
 
 **Category** classfeature; 
 
@@ -20,7 +21,7 @@ license: OGL
 
 You know your formulas so well that you can concoct two items at once.
 
-When using the [[Actions/Quick Alchemy|Quick Alchemy]] action, instead of spending one batch of [[Class Features/Infused Reagents|Infused Reagents]] to create a single item, you can spend up to two batches of infused reagents to make up to two alchemical items as described in that action. These items do not have to be the same.
+When using the [[Actions/Quick Alchemy|Quick Alchemy]] action, you can create two items. These items don't have to be the same. If you create two consumables, you have to expend a versatile vial for each one.
 
-*Source: Pathfinder Core Rulebook*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

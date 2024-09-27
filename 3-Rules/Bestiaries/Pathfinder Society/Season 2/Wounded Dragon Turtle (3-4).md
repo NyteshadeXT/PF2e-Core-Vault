@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.pfs-season-2-bestiary.Actor.SHmxvGZAPxkttd06"
 tags:
   - pf2e/creature/type/amphibious
   - pf2e/creature/type/dragon
+  - pf2eMonster
   - pf2e/creature/level/5
 statblock: inline
 name: "Wounded Dragon Turtle (3-4)"
@@ -21,11 +22,11 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Society Scenario #2-06: The Crashing Wave"
 name: "Wounded Dragon Turtle (3-4)"
 level: "Creature 5"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "huge"
-trait_01: "amphibious"
-trait_02: "dragon"
+trait_01: [[amphibious]]
+trait_02: [[dragon]]
 modifier: 12
 perception:
   - name: "Perception"
@@ -52,7 +53,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Shell Block"
-    desc: "`pf2:r`  **Trigger**A creature adjacent to the dragon turtle targets it with a melee attack.\n**Effect**The dragon turtle rolls its shell toward the triggering creature, gaining a +2 circumstance bonus to its AC against the triggering attack."
+    desc: "`pf2:r`  **Trigger** A creature adjacent to the dragon turtle targets it with a melee attack.\n* * *\n\n**Effect** The dragon turtle rolls its shell toward the triggering creature, gaining a +2 circumstance bonus to its AC against the triggering attack."
 
 attacks:
   - name: ""
@@ -64,7 +65,7 @@ attacks:
     desc: "`pf2:1` Claw +15 (agile)\n__Damage__  2d6 + 5 slashing"
 
   - name: "Breath Weapon"
-    desc: "`pf2:2` (air,fire,primal) The dragon turtle breathes a massive blast of steam that deals 6d6 fire damage to creatures within a 40-foot cone (DC 21 Reflex check save). This steam blast affects creatures within the water, as well as outside.\nThe dragon turtle can't use its Breath Weapon again for 1d4 rounds."
+    desc: "`pf2:2` (air,fire,primal) The dragon turtle breathes a massive blast of steam that deals 6d6 fire damage to creatures within a @Template[cone|distance:40] (DC 21 Reflex check save). This steam blast affects creatures within the water, as well as outside.\n\nThe dragon turtle can't use its Breath Weapon again for 1d4 rounds."
 
   - name: "Capsize"
     desc: "`pf2:1` (attack,move) The dragon turtle tries to capsize an adjacent aquatic vessel of its size or smaller. The dragon turtle must succeed at an Athletics check with a DC of 24 or the pilot's Sailing Lore DC, whichever is higher."
@@ -72,6 +73,12 @@ attacks:
   - name: "Draconic Frenzy"
     desc: "`pf2:2`  The dragon turtle makes two claw Strikes and one jaws Strike in any order."
  
+```
+
+```encounter-table
+name: Wounded Dragon Turtle (3-4)
+creatures:
+  - 1: Wounded Dragon Turtle (3-4)
 ```
 
 

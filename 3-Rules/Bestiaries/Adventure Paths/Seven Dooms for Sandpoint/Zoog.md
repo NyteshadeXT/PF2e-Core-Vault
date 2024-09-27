@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/beast
   - pf2e/creature/type/chaotic
   - pf2e/creature/type/dream
+  - pf2eMonster
   - pf2e/creature/level/1
 statblock: inline
 name: "Zoog"
@@ -22,12 +23,12 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #200: Seven Dooms for Sandpoint"
 name: "Zoog"
 level: "Creature 1"
-rare_03: "Rare"
+rare_03: [[Rare]]
 alignment: ""
 size: "tiny"
-trait_01: "beast"
-trait_02: "chaotic"
-trait_03: "dream"
+trait_01: [[beast]]
+trait_02: [[chaotic]]
+trait_03: [[dream]]
 modifier: 7
 perception:
   - name: "Perception"
@@ -52,7 +53,7 @@ abilities_top:
   - name: ""
 
   - name: "Spell Sight"
-    desc: "  A zoog's eyes shed bright light in a 15-foot cone (and dim light in the next 15 feet). Any magic effect in this area glows faintly. A zoog can quell or renew this light as a free action on its turn."
+    desc: "  A zoog's eyes shed bright light in a @Template[cone|distance:15] (and dim light in the next 15 feet). Any magic effect in this area glows faintly. A zoog can quell or renew this light as a free action on its turn."
 
 abilities_mid:
   - name: ""
@@ -71,6 +72,12 @@ attacks:
   - name: "Otherworldly Touch"
     desc: "  A zoog's claw Strike can damage incorporeal creatures, as if they were enhanced by a [[Equipment/Ghost Touch|Ghost Touch]] property rune."
  
+```
+
+```encounter-table
+name: Zoog
+creatures:
+  - 1: Zoog
 ```
 
 

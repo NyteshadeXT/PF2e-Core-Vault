@@ -6,6 +6,7 @@ cssClasses: pf2e
 aliases: "Compendium.battlezoo-bestiary-su-pf2e.pf2e-battlezoo-su-actors.Actor.JePgmc3onCLNqnwe" 
 tags:
   - pf2e/creature/type/animal
+  - pf2eMonster
   - pf2e/creature/level/3
 statblock: inline
 name: "Owlpaca"
@@ -21,17 +22,18 @@ token: [[modules/battlezoo-bestiary-su-pf2e/art/Portraits/owlpaca.webp| ]]
 source: "Battlezoo Bestiary: Strange and Unusual"
 name: "Owlpaca"
 level: "Creature 3"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Medium"
-trait_01: "animal"
+trait_01: [[animal]]
 modifier: 12
 perception:
   - name: "Perception"
     desc: "+12; Low-Light Vision, Scent (Imprecise) 30 Feet"
+languages: ""
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +9, Athletics: +9, Intimidation: +7, "
+    desc: "Acrobatics: +9, Athletics: +9, Intimidation: +7, Acrobatics: +9, Athletics: +9, Intimidation: +7"
 abilityMods: [4, 2, 4, -4, 3, 0]
 speed: 25 feet
 sourcebook: "_Battlezoo Bestiary: Strange and Unusual_"
@@ -59,14 +61,20 @@ attacks:
     desc: "`pf2:1` Spit +10 (range 15 feet)\n__Damage__ "
 
   - name: "Eye Peck"
-    desc: "`pf2:2`  The owlpaca pecks a creature's eyes, using its long neck to reach them. The owlpaca makes a beak Strike against a Large or smaller creature with eyes. If the Strike hits, the creature takes 1d4 persistent bleed damage and is Dazzled until it removes the bleed damage. If the creature is also sickened by owlpaca spit, it's Blinded until it either removes the bleed damage or the sickened condition."
+    desc: "`pf2:2`  The owlpaca pecks a creature's eyes, using its long neck to reach them. The owlpaca makes a beak Strike against a Large or smaller creature with eyes. If the Strike hits, the creature takes 1d4 persistent bleed damage and is [[undefined]] until it removes the bleed damage. If the creature is also sickened by owlpaca spit, it's [[undefined]] until it either removes the bleed damage or the sickened condition."
 
   - name: "Herd Alarm"
-    desc: "`pf2:1` (auditory,emotion,fear,mental) **Requirements** The owlpaca is within 60 feet of two or more allies\n**Effect** When part of a herd, the owlpaca instinctively protects the others and alert them of danger, unleashing a loud screech that terrifies potential predators. Each creature in a 60-foot emanation must attempt a DC 19 Will check save. Regardless of the result, creatures are temporarily immune for 1 minute. Other owlpacas automatically get a critical success, and if another ally rolls worse than a success, they get a success instead.\n**Critical Success** The creature is unaffected.\n**Success** The creature is Frightened 1.\n**Failure** The creature is Frightened 2.\n**Critical Failure** The creature is Frightened 3 and Fleeing for 1 round."
+    desc: "`pf2:1` (auditory,emotion,fear,mental) **Requirements** The owlpaca is within 60 feet of two or more allies\n* * *\n\n**Effect** When part of a herd, the owlpaca instinctively protects the others and alert them of danger, unleashing a loud screech that terrifies potential predators. Each creature in a 60-foot emanation must attempt a DC 19 Will check save. Regardless of the result, creatures are temporarily immune for 1 minute. Other owlpacas automatically get a critical success, and if another ally rolls worse than a success, they get a success instead.\n* * *\n\n**Critical Success** The creature is unaffected.\n\n**Success** The creature is [[undefined]].\n\n**Failure** The creature is [[undefined]].\n\n**Critical Failure** The creature is [[undefined]] and [[undefined]] for 1 round."
 
   - name: "Owlpaca Spit"
-    desc: "  If agitated, the owlpaca spews out a lob of bile at a creature's eyes within 15 feet. On a hit, the target is Sickened 1, and Dazzled as long as it remains sickened. If the creature also has persistent bleed damage from Eye Peck, it's Blinded until it either removes the bleed damage or the sickened condition."
+    desc: "  If agitated, the owlpaca spews out a lob of bile at a creature's eyes within 15 feet. On a hit, the target is [[undefined]], and [[undefined]] as long as it remains sickened. If the creature also has persistent bleed damage from Eye Peck, it's [[undefined]] until it either removes the bleed damage or the sickened condition."
  
+```
+
+```encounter-table
+name: Owlpaca
+creatures:
+  - 1: Owlpaca
 ```
 
 

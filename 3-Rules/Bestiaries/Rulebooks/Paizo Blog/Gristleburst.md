@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/chaotic
   - pf2e/creature/type/goblin
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/2
 statblock: inline
 name: "Gristleburst"
@@ -22,12 +23,12 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Blog"
 name: "Gristleburst"
 level: "Creature 2"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Small"
-trait_01: "chaotic"
-trait_02: "goblin"
-trait_03: "humanoid"
+trait_01: [[chaotic]]
+trait_02: [[goblin]]
+trait_03: [[humanoid]]
 modifier: 7
 perception:
   - name: "Perception"
@@ -53,7 +54,7 @@ abilities_top:
   - name: "Items"
     desc: "[[Equipment/Dagger|Dagger]], [[Equipment/Studded Leather Armor|Studded Leather Armor]], [[Equipment/Alchemist's Toolkit|Alchemist's Tools]], [[Equipment/Formula Book (Blank)|Formula Scraps (as Formula Book)]], 2x Infused Reagents"
   - name: "Infused Items"
-    desc: "  Gristleburst carries the following infused items, which last for 24 hours or until the next time he makes his daily preparations:\n[[Equipment/Acid Flask (Lesser)|Acid Flask (Lesser)]] (2)\n[[Equipment/Alchemist's Fire (Lesser)|Alchemist's Fire (Lesser)]] (4)\n[[Equipment/Eagle Eye Elixir (Lesser)|Eagle Eye Elixir (Lesser)]] (2)"
+    desc: "  Gristleburst carries the following infused items, which last for 24 hours or until the next time he makes his daily preparations:\n\n[[Equipment/Acid Flask (Lesser)|Acid Flask (Lesser)]] (2)\n\n[[Equipment/Alchemist's Fire (Lesser)|Alchemist's Fire (Lesser)]] (4)\n\n[[Equipment/Eagle Eye Elixir (Lesser)|Eagle Eye Elixir (Lesser)]] (2)"
 
   - name: "Quick Bomber"
     desc: "`pf2:1`  Gristleburst draws an alchemical bomb with an Interact action and throws it as a ranged Strike."
@@ -67,17 +68,23 @@ attacks:
     desc: "`pf2:1` Dagger +9 (agile, versatile s)\n__Damage__  1d4 + 1 piercing"
 
   - name: "Ranged"
+    desc: "`pf2:1` Dagger +11 (agile, thrown 10 ft., versatile s)\n__Damage__  1d4 + 1 piercing"
+
+  - name: "Ranged"
     desc: "`pf2:1` Lesser Alchemist&#x27;s Fire +11 (alchemical, bomb, range increment 20 feet, splash)\n__Damage__  1d8 fire 1 fire 1 fire"
 
   - name: "Ranged"
     desc: "`pf2:1` Lesser Acid Flask +11 (alchemical, bomb, range increment 20 feet, splash)\n__Damage__  1 acid 1d6 acid 1 acid"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Dagger +11 (agile, thrown 10 ft., versatile s)\n__Damage__  1d4 + 1 piercing"
-
   - name: "Quick Smoke Bomb"
-    desc: "  **Cost** 1 batch of infused reagents\n**Effect** Gristleburst mixes up a short-lived lesser acid flask or lesser alchemist's fire without attempting a Crafting check. It remains potent only until the end of his next turn. When he throws this bomb, in addition to its normal effects, it creates a cloud of smoke in a 10-foot radius burst. Creatures in that area have the [[Conditions/Concealed|Concealed]] condition, and other creatures are concealed to them. This smoke lasts for 1 minute or until dissipated by a strong wind."
+    desc: "  **Cost** 1 batch of infused reagents\n* * *\n\n**Effect** Gristleburst mixes up a short-lived lesser acid flask or lesser alchemist's fire without attempting a Crafting check. It remains potent only until the end of his next turn. When he throws this bomb, in addition to its normal effects, it creates a cloud of smoke in a 10-foot radius burst. Creatures in that area have the [[Conditions/Concealed|Concealed]] condition, and other creatures are concealed to them. This smoke lasts for 1 minute or until dissipated by a strong wind."
  
+```
+
+```encounter-table
+name: Gristleburst
+creatures:
+  - 1: Gristleburst
 ```
 
 

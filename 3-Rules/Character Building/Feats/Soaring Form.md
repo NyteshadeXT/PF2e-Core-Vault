@@ -6,11 +6,12 @@ tags:
   - trait/tengu
   - trait/common
   - category/ancestry
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.WZC2XXQo6Pu2GQeo"
-license: OGL
+license: ORC
 ---
 # Soaring Form
-## Feat 17
+## Feat 9
 ### [[tengu]]
 
 **Category** ancestry; 
@@ -19,7 +20,7 @@ license: OGL
 
 **Prerequisites** Soaring Flight
 * * *
-Your wings grow stronger. You gain the effects of [[Feats/Soaring Flight|Soaring Flight]] at all times.
+You have a fly Speed of 20 feet at all times.
 
-*Source: Pathfinder Lost Omens: Ancestry Guide*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

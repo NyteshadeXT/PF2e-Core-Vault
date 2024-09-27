@@ -7,8 +7,9 @@ tags:
   - trait/dedication
   - trait/common
   - category/class
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.qMa2fIP2nqrFzHrq"
-license: OGL
+license: ORC
 ---
 # Scout Dedication
 ## Feat 2
@@ -20,11 +21,9 @@ license: OGL
 
 **Prerequisites** trained in Stealth and Survival
 * * *
-You are a highly skilled scout, capable of providing your allies a timely warning of any danger. You gain the [[Feats/Scout's Warning|Scout's Warning]] ranger feat.
+You are a highly skilled scout, capable of guiding your allies, detecting imminent threats, and avoiding the attention of dangerous enemies. You can perform the [[Actions/Scout|Scout]] exploration activity at the same time as the [[Actions/Avoid Notice|Avoid Notice]] exploration activity. The bonus to initiative you grant when you Scout is +2 instead of +1.
 
-When you're using the [[Actions/Scout|Scout]] exploration activity, you grant your allies a +2 circumstance bonus to their initiative rolls instead of a +1 circumstance bonus.
+[[PF2e Journals/Archetypes/Scout|Scout]]
 
-**Special** You can't select another dedication feat until you have gained two other feats from the [[PF2e Journals/Archetypes/Scout|Scout]] archetype.
-
-*Source: Pathfinder Advanced Player's Guide*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

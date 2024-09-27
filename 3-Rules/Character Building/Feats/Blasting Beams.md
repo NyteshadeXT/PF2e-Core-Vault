@@ -28,7 +28,7 @@ A directed beam of heat or an arc of lightning is one of the simplest ways to pr
 
 * * *
 
-**Awakening** Your beams blast through targets. Instead of making an attack roll to damage a single creature within 30 feet, you can use Blasting Beams as a 2-action activity to damage all creatures in a 60-foot line, with a Reflex check save.
+**Awakening** Your beams blast through targets. Instead of making an attack roll to damage a single creature within 30 feet, you can use Blasting Beams as a 2-action activity to damage all creatures in a @Template\[line|distance:60\], with a Reflex check save.
 
 * * *
 

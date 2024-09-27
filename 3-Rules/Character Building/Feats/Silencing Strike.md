@@ -8,8 +8,9 @@ tags:
   - trait/rage
   - trait/common
   - category/class
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.Yk3QGpalWDn5MhBV"
-license: OGL
+license: ORC
 ---
 # Silencing Strike `pf2:1`
 ## Feat 10
@@ -20,15 +21,15 @@ license: OGL
 
 
 
-A quick strike to the face or mouth silences your opponent. Make a melee Strike against a foe. The foe must succeed at a Fortitude check save against your class DC.
+A quick strike to the face or mouth silences your opponent. Make a melee Strike against an enemy. If it hits, the enemy must succeed at a Fortitude check save against your class DC.
 
 * * *
 
 **Success** The target is unaffected.
 
-**Failure** The target is dazed and can barely vocalize. It's [[Conditions/Stunned 1|Stunned 1]] and its speech is raspy and hard to understand. It must succeed at a DC 11 Flat check to use linguistic actions or supply verbal spellcasting components until the end of its next turn.
+**Failure** The target is dazed and can barely vocalize. It's [[Conditions/Stunned|Stunned 1]] and its speech is raspy and hard to understand. It must succeed at a DC 11 Flat check to use linguistic actions or Cast a Spell, unless the spell has the subtle trait.
 
-**Critical Failure** As failure, but the creature is [[Conditions/Stunned 1|Stunned 3]] instead of stunned 1.
+**Critical Failure** As failure, but the creature is [[Conditions/Stunned|Stunned 3]] instead of stunned 1.
 
-*Source: Pathfinder Advanced Player's Guide*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

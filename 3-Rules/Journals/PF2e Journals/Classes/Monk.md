@@ -8,7 +8,7 @@ tags:
 ---
 
 # Monk
-_The strength of your fist flows from your mind and spirit. You seek perfection-honing your body into a flawless instrument and your mind into an orderly bastion of wisdom. You're a fierce combatant renowned for martial arts skills and combat stances that grant you unique fighting moves. While the challenge of mastering many fighting styles drives you to great heights, you also enjoy meditating on philosophical questions and discovering new ways to obtain peace and enlightenment._
+_The strength of your fist flows from your mind and spirit. You seek perfection, honing your body into a flawless instrument and your mind into an orderly bastion of wisdom. You're a fierce combatant renowned for martial arts skills and combat stances that grant you unique fighting moves. While the challenge of mastering many fighting styles drives you to great heights, you also enjoy meditating on philosophical questions and discovering new ways to obtain peace and enlightenment._
 
 **Key Attribute: STRENGTH OR DEXTERITY**
 
@@ -22,7 +22,7 @@ You increase your maximum number of HP by this number at 1st level and every lev
 
 ## During Combat Encounters...
 
-You speed into the fray, dodging or leaping past obstacles with acrobatic maneuvers. You strike opponents in a rapid flurry of attacks, using your bare fists or wielding specialized weapons that you mastered during your monastic training. Stances let you change up your combat style for different situations, and ki abilities allow you to perform mystic feats like healing yourself and soaring through the air.
+You speed into the fray, dodging or leaping past obstacles with acrobatic maneuvers. You strike opponents in a rapid flurry of attacks, using your bare fists or wielding specialized weapons that you mastered during your monastic training. Stances let you change up your combat style for different situations, and qi abilities allow you to perform mystic feats like healing yourself and soaring through the air.
 
 ## During Social Encounters...
 
@@ -92,11 +92,11 @@ You gain these features as a Monk. Abilities gained at higher levels list the le
 
 | Your Level | Class Features |
 | --- | --- |
-| 1 | Ancestry and background, initial proficiencies, flurry of blows, monk feat, powerful fist |
+| 1 | Ancestry and background, attribute boosts, initial proficiencies, flurry of blows, monk feat, powerful fist |
 | 2 | Monk feat, skill feat |
 | 3 | General feat, incredible movement +10 feet, mystic strikes, skill increase |
 | 4 | Monk feat, skill feat |
-| 5 | Attribute boosts, alertness, ancestry feat, expert strikes, skill increase |
+| 5 | Attribute boosts, ancestry feat, expert strikes, perception expertise, skill increase |
 | 6 | Monk feat, skill feat |
 | 7 | General feat, incredible movement +15 feet, path to perfection, skill increase, weapon specialization |
 | 8 | Monk feat, skill feat |
@@ -117,27 +117,23 @@ You gain these features as a Monk. Abilities gained at higher levels list the le
 
 In addition to the abilities provided by your class at 1st level, you have the benefits of your selected ancestry and background.
 
-## Flurry of Blows
+## Attribute Boosts
 
-You can attack rapidly with fists, feet, elbows, knees, and other unarmed attacks. You gain the Flurry of Blows action.
-
-[[Actions/Flurry of Blows|Flurry of Blows]] `pf2:1`
-
-* * *
-
-Make two unarmed Strikes. If both hit the same creature, combine their damage for the purpose of resistances and weaknesses. Apply your multiple attack penalty to the Strikes normally. As it has the flourish trait, you can use Flurry of Blows only once per turn.
-
-## Ki Spells
-
-By tapping into a supernatural inner reserve called ki, you can create magical effects. Certain feats grant you special spells called ki spells, which are a type of focus spell. It costs 1 Focus Point to cast a focus spell. When you gain your first ki spell, you also gain a focus pool of 1 Focus Point. You refill your focus pool during your daily preparations, and you regain 1 Focus Point by spending 10 minutes using the [[Actions/Refocus|Refocus]] activity to meditate in order to reach inner peace.
-
-Focus spells are automatically heightened to half your level rounded up. Taking feats can give you more focus spells and increase the size of your focus pool, though your focus pool can never hold more than 3 points.
-
-When you first gain a ki spell, decide whether your ki spells are divine or occult spells. You are trained in spell attack rolls and spell DCs of that tradition, and your key spellcasting attribute is Wisdom.
+In addition to what you get from your class at 1st level, you have four free boosts to different attribute modifiers. At 5th level and every 5 levels thereafter, you get four free boosts to different attribute modifiers. If an attribute modifier is already +4 or higher, it takes two boosts to increase it; you get a partial boost and must boost that attribute again at a later level to increase it by 1.
 
 ## Initial Proficiencies
 
 At 1st level, you gain a number of proficiencies representing your basic training, which are noted at the start of this class.
+
+## Flurry of Blows
+
+You can attack rapidly with fists, feet, elbows, knees, and other unarmed attacks. You gain the Flurry of Blows action.
+
+### [[Actions/Flurry of Blows|Flurry of Blows]] `pf2:1`
+
+* * *
+
+Make two unarmed Strikes. If both hit the same creature, combine their damage for the purpose of resistances and weaknesses. Apply your multiple attack penalty to the Strikes normally. As a flourish ability, you can use Flurry of Blows only once per turn.
 
 ## Monk Feats
 
@@ -145,7 +141,7 @@ At 1st level and every even-numbered level thereafter, you gain a monk class fea
 
 ## Powerful Fist
 
-You know how to wield your fists as deadly weapons. The damage die for your fist increases to 1d6 instead of 1d4. Most people take a -2 circumstance penalty when making a lethal attack with nonlethal unarmed attacks, because they find it hard to use their fists with deadly force. You don't take this penalty when making a lethal attack with your fist or any other unarmed attacks.
+Your fists are deadly weapons. The damage die for your fist increases to 1d6 instead of 1d4. You don't take the normal –2 circumstance penalty when making a lethal attack with your fist or any other unarmed attacks.
 
 ## Skill FeatsLevel 2
 
@@ -161,7 +157,7 @@ You move like the wind. You gain a +10-foot status bonus to your Speed whenever 
 
 ## Mystic StrikesLevel 3
 
-Focusing your will into your physical attacks imbues them with mystical energy. Your unarmed attacks become magical, allowing them to get past resistances to non-magical attacks. However, you still need an item such as [[Equipment/Handwraps of Mighty Blows|Handwraps of Mighty Blows (+1)]] to gain an item bonus to attack rolls or increase your attacks' weapon damage dice.
+Focusing your will into your physical attacks imbues them with mystical energy. Your unarmed attacks become magical, allowing them to get past resistances to nonmagical attacks. However, you still need an item such as [[Equipment/Handwraps of Mighty Blows|Handwraps of Mighty Blows (+1)]] to gain an item bonus to attack rolls or increase your attacks' weapon damage dice.
 
 ## Skill IncreasesLevel 3
 
@@ -169,23 +165,17 @@ At 3rd level and every 2 levels thereafter, you gain a skill increase. You can u
 
 At 7th level, you can use skill increases to become a master in a skill in which you're already an expert, and at 15th level, you can use them to become legendary in a skill in which you're already a master.
 
-## Attribute BoostsLevel 5
-
-In addition to what you get from your class at 1st level, you have four free boosts to different attribute modifiers.
-
-At 5th level and every 5 levels thereafter, you get four free boosts to different attribute modifiers. If an attribute modifier is already +4 or higher, it takes two boosts to increase it; you get a partial boost and must boost that attribute again at a later level to increase it by 1.
-
-## AlertnessLevel 5
-
-You remain alert to threats around you. Your proficiency rank for Perception increases to expert.
-
 ## Ancestry FeatsLevel 5
 
 In addition to the ancestry feat you started with, you gain an ancestry feat at 5th level and every 4 levels thereafter.
 
 ## Expert StrikesLevel 5
 
-You've practiced martial arts and have now surpassed your former skill. Your proficiency ranks for unarmed attacks and simple weapons increase to expert.
+You've practiced martial arts and have now surpassed your former skill. Your proficiency ranks for unarmed attacks and simple weapons increase to expert. When you get a critical hit with an unarmed attack in the brawling group, you get its critical specialization effect.
+
+## Perception ExpertiseLevel 5
+
+You remain alert to threats around you. Your proficiency rank for Perception increases to expert.
 
 ## Path to PerfectionLevel 7
 
@@ -197,11 +187,11 @@ You've learned how to inflict greater injuries with the weapons you know best. Y
 
 ## Metal StrikesLevel 9
 
-You can adjust your body to make unarmed attacks infused with the mystic energy of rare metals. Your unarmed attacks are treated as cold iron and silver. This allows you to deal more damage to a variety of supernatural creatures, such as demons, devils, and fey.
+You can adjust your body to strike with the mystic energy of rare metals. Your unarmed attacks are treated as cold iron and silver. This allows you to deal more damage to a variety of supernatural creatures, such as demons, devils, and fey.
 
 ## Monk ExpertiseLevel 9
 
-Your proficiency rank for your monk class DC increases to expert. If you have ki spells, your proficiency rank for spell attacks and spell DCs with the tradition of magic you use for your ki spells increases to expert.
+Your proficiency rank for your monk class DC increases to expert. If you have qi spells, your proficiency rank for spell attacks and spell DCs increases to expert.
 
 ## Second Path to PerfectionLevel 11
 
@@ -209,11 +199,11 @@ You've learned to find perfection in every success. Choose a different saving th
 
 ## Graceful MasteryLevel 13
 
-You move with perpetual grace in battle, eluding and turning aside blows. Your proficiency rank for unarmored defense increases to master.
+You move with perpetual grace, turning aside blows. Your proficiency rank for unarmored defense increases to master.
 
 ## Master StrikesLevel 13
 
-You have honed your skill in using your body as a weapon. Your proficiency ranks for unarmed attacks and simple weapons increase to master.
+You've honed your body into an even deadlier weapon. Your proficiency ranks for unarmed attacks and simple weapons increase to master.
 
 ## Greater Weapon SpecializationLevel 15
 
@@ -229,7 +219,7 @@ When you focus your will into your limbs, your blows are as unyielding as the ha
 
 ## Graceful LegendLevel 17
 
-Your sublime movement grants you unparalleled protection and offense. Your proficiency rank for unarmored defense increases to legendary, and your proficiency rank for your monk class DC increases to master. If you have ki spells, your proficiency rank for spell attack rolls and spell DCs with the tradition of magic you use for your ki spells increases to master.
+Your sublime movement grants you unparalleled protection and offense. Your proficiency rank for unarmored defense increases to legendary, and your proficiency rank for your monk class DC increases to master. If you have qi spells, your proficiency rank for spell attack modifiers and spell DCs increases to master.
 
 ## Perfected FormLevel 19
 

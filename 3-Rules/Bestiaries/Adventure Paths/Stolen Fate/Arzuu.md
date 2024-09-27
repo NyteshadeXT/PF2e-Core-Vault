@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.stolen-fate-bestiary.Actor.vooxDReQX3ztMXNj"
 tags:
   - pf2e/creature/type/earth
   - pf2e/creature/type/elemental
+  - pf2eMonster
   - pf2e/creature/level/13
 statblock: inline
 name: "Arzuu"
@@ -21,11 +22,11 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #191: The Destiny War"
 name: "Arzuu"
 level: "Creature 13"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Large"
-trait_01: "earth"
-trait_02: "elemental"
+trait_01: [[earth]]
+trait_02: [[elemental]]
 modifier: 24
 perception:
   - name: "Perception"
@@ -33,7 +34,7 @@ perception:
 languages: "Common, Draconic, Petran"
 skills:
   - name: "Skills"
-    desc: "Athletics: +26, Geology Lore: +25, Stealth: +24, Survival: +24"
+    desc: "Athletics: +26, Stealth: +24, Survival: +24, Geology Lore: +25"
 abilityMods: [7, 5, 6, 4, 5, 6]
 speed: 20 feet,  burrow 20 feet
 sourcebook: "_Pathfinder #191: The Destiny War_"
@@ -64,7 +65,7 @@ attacks:
     desc: "`pf2:2`  The xorn makes three claw Strikes; no more than two can be against the same target. These attacks count toward the xorn's multiple attack penalty, but the penalty doesn't increase until after all the attacks have been made."
 
   - name: "Crystal Corruption"
-    desc: " (arcane,curse,incapacitation) Creatures afflicted by this curse slowly turn to solid crystal. This affliction's sickened, slowed, and paralyzed conditions can't be removed until the affliction itself is removed. Creatures with both the earth and elemental traits instead become carriers and suffer no ill effects aside from gaining the weakness to sonic.\n**Saving Throw** DC 33 Fortitude check\n**Stage 1** sickened 1 (1 hour)\n**Stage 2** weakness 5 to sonic and [[Conditions/Sickened 1|Sickened 1]] (1 day)\n**Stage 3** weakness 5 to sonic and [[Conditions/Slowed 1|Slowed 1]] (1 day)\n**Stage 4** weakness 10 to sonic and [[Conditions/Paralyzed|Paralyzed]] (1 day)\n**Stage 5** weakness 10 to sonic, and the creature is permanently [[Conditions/Petrified|Petrified]]."
+    desc: " (arcane,curse,incapacitation) Creatures afflicted by this curse slowly turn to solid crystal. This affliction's sickened, slowed, and paralyzed conditions can't be removed until the affliction itself is removed. Creatures with both the earth and elemental traits instead become carriers and suffer no ill effects aside from gaining the weakness to sonic.\n\n**Saving Throw** DC 33 Fortitude check\n\n**Stage 1** sickened 1 (1 hour)\n\n**Stage 2** weakness 5 to sonic and [[Conditions/Sickened|Sickened 1]] (1 day)\n\n**Stage 3** weakness 5 to sonic and [[Conditions/Slowed|Slowed 1]] (1 day)\n\n**Stage 4** weakness 10 to sonic and [[Conditions/Paralyzed|Paralyzed]] (1 day)\n\n**Stage 5** weakness 10 to sonic, and the creature is permanently [[Conditions/Petrified|Petrified]]."
 
   - name: "Crystal Splinter"
     desc: "  On a critical hit with a claw Strike, the crystalline sentinel inflicts 2d6 persistent bleed damage."
@@ -75,6 +76,12 @@ attacks:
   - name: "[[Bestiary Ability Glossary/Sneak Attack|Sneak Attack]]"
     desc: "  Arzuu deals an additional 1d6 precision damage to [[Conditions/Off-Guard|Off-Guard]] creatures."
  
+```
+
+```encounter-table
+name: Arzuu
+creatures:
+  - 1: Arzuu
 ```
 
 

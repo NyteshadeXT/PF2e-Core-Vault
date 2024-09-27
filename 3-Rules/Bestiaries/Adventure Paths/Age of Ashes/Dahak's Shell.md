@@ -5,6 +5,7 @@ noteType: pf2eHazard
 tags:
   - magical
   - trap
+  - pf2eHazard
 
 source: Pathfinder #146: Cult of Cinders
 aliases: "Compendium.pf2e.age-of-ashes-bestiary.Actor.BudeoAoJ4dOxjj0K" 
@@ -22,8 +23,8 @@ name: "Dahak's Shell"
 level: "Hazard 12"
 
 
-trait_01: "magical"
-trait_02: "trap"
+trait_01: [[magical]]
+trait_02: [[trap]]
 modifier: 0
 sourcebook: "_Pathfinder #146: Cult of Cinders_"
 perception:
@@ -44,22 +45,22 @@ attacks:
     desc: "Eye Beam +20 (range 120 feet) The target suffers an effect corresponding to the eye beam's color. On a critical hit, the target's save result is one degree worse."
 
   - name: "Prismatic Beam"
-    desc: "`pf2:r` (divine, light) **Trigger** a creature attempts and fails to disable one of the shell colors via Thievery or [[Spells/Dispel Magic|Dispel Magic]]\n**Effect** Dahak's shell Strikes the triggering creature with a random eye beam. Roll 1d8 to determine the color:\n1.  Red\n2.  Orange\n3.  Yellow\n4.  Green\n5.  Blue\n6.  Indigo\n7.  Violet\n8.  Black"
+    desc: "`pf2:r` (divine, light) **Trigger** a creature attempts and fails to disable one of the shell colors via Thievery or [[Spells/Dispel Magic|Dispel Magic]]\n* * *\n\n**Effect** Dahak's shell Strikes the triggering creature with a random eye beam. Roll 1d8 to determine the color:\n\n1.  Red\n2.  Orange\n3.  Yellow\n4.  Green\n5.  Blue\n6.  Indigo\n7.  Violet\n8.  Black"
 
   - name: "Shell Defense"
     desc: "passive (divine, light) When a creature physically passes through the shell, the creature is affected simultaneously by all colors of energy currently active in the shell; apply these effects in the following order: red, orange, yellow, green, blue, indigo, violet, black. These effects are the same as that of the eye beams. Each effect requires its own save."
 
   - name: "Black Eye Beam"
-    desc: "passive (divine, incapacitation, light) DC 32 Fortitude check save.\n**Critical Success** The target is unaffected.\n**Success** The target is [[Conditions/Blinded|Blinded]] for 1 round.\n**Failure** The target is blinded for 1 hour.\n**Critical Failure** The target is blinded for 24 hours."
+    desc: "passive (divine, incapacitation, light) DC 32 Fortitude check save.\n* * *\n\n**Critical Success** The target is unaffected.\n\n**Success** The target is [[Conditions/Blinded|Blinded]] for 1 round.\n\n**Failure** The target is blinded for 1 hour.\n\n**Critical Failure** The target is blinded for 24 hours."
 
   - name: "Blue Eye Beam"
-    desc: "passive (divine, incapacitation, light) DC 32 Fortitude check save.\n**Critical Success** The target is unaffected.\n**Success** The target is [[Conditions/Petrified|Petrified]] for 1 round.\n**Failure** The target is petrified for 1 hour.\n**Critical Failure** The target is petrified permanently."
+    desc: "passive (divine, incapacitation, light) DC 32 Fortitude check save.\n* * *\n\n**Critical Success** The target is unaffected.\n\n**Success** The target is [[Conditions/Petrified|Petrified]] for 1 round.\n\n**Failure** The target is petrified for 1 hour.\n\n**Critical Failure** The target is petrified permanently."
 
   - name: "Green Eye Beam"
     desc: "passive (divine, light, poison) 6d6 poison damage (DC 32 Reflex check save)."
 
   - name: "Indigo Eye Beam"
-    desc: "passive (incapacitation, light) DC 32 Will check save.\n**Critical Success** The target is unaffected.\n**Success** The target is [[Conditions/Slowed 1|Slowed 1]] for 1 round.\n**Failure** The target is [[Conditions/Confused|Confused]] for 1 round.\n**Critical Failure** The target is controlled by the dragon pillar and remains within 60 feet of it at all times, defending the dragon pillar from all non-Cinderclaws. While a target is controlled, it is treated as a Cinderclaw ally by the dragon pillar. The dragon pillar can control up to 3 targets at a time; any targets in excess who critically fail this saving throw are instead confused for 1d4+1 rounds. A controlled creature can attempt a new Will save once every 24 hours to escape control, but doing so automatically causes the dragon pillar to attack it with a new eye beam to attempt to re-establish control. The control ends if the pillar is destroyed."
+    desc: "passive (incapacitation, light) DC 32 Will check save.\n* * *\n\n**Critical Success** The target is unaffected.\n\n**Success** The target is [[Conditions/Slowed|Slowed 1]] for 1 round.\n\n**Failure** The target is [[Conditions/Confused|Confused]] for 1 round.\n\n**Critical Failure** The target is controlled by the dragon pillar and remains within 60 feet of it at all times, defending the dragon pillar from all non-Cinderclaws. While a target is controlled, it is treated as a Cinderclaw ally by the dragon pillar. The dragon pillar can control up to 3 targets at a time; any targets in excess who critically fail this saving throw are instead confused for 1d4+1 rounds. A controlled creature can attempt a new Will save once every 24 hours to escape control, but doing so automatically causes the dragon pillar to attack it with a new eye beam to attempt to re-establish control. The control ends if the pillar is destroyed."
 
   - name: "Yellow Eye Beam"
     desc: "passive (divine, electricity, light) 6d6 electricity damage (DC 32 Reflex check save)."
@@ -71,9 +72,15 @@ attacks:
     desc: "passive (divine, fire, light) 6d6 fire damage (DC 32 Reflex check save)."
 
   - name: "Violet Eye Beam"
-    desc: "passive (divine, incapacitation, light) DC 32 Will check save.\n**Critical Success** The target is unaffected.\n**Success** The target is [[Conditions/Stunned 1|Stunned 1]].\n**Failure** The target is [[Conditions/Stunned 1|Stunned 3]].\n**Critical Failure** The target is [[Conditions/Stunned 1|Stunned 7]]."
+    desc: "passive (divine, incapacitation, light) DC 32 Will check save.\n* * *\n\n**Critical Success** The target is unaffected.\n\n**Success** The target is [[Conditions/Stunned|Stunned 1]].\n\n**Failure** The target is [[Conditions/Stunned|Stunned 3]].\n\n**Critical Failure** The target is [[Conditions/Stunned|Stunned 7]]."
 
 
 
+```
+
+```encounter-table
+name: Dahak's Shell
+creatures:
+  - 1: Dahak's Shell
 ```
 

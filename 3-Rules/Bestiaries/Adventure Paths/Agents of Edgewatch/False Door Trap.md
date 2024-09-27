@@ -5,6 +5,7 @@ noteType: pf2eHazard
 tags:
   - magical
   - mechanical
+  - pf2eHazard
 
 source: Pathfinder #160: Assault on Hunting Lodge Seven
 aliases: "Compendium.pf2e.agents-of-edgewatch-bestiary.Actor.u1cuwAE3xzhYW4Mi" 
@@ -22,14 +23,14 @@ name: "False Door Trap"
 level: "Hazard 12"
 
 
-trait_01: "magical"
-trait_02: "mechanical"
+trait_01: [[magical]]
+trait_02: [[mechanical]]
 modifier: 27
 sourcebook: "_Pathfinder #160: Assault on Hunting Lodge Seven_"
 ac: 31
 armorclass:
   - name: AC
-    desc: "31; __Fort__ +23, __Ref__ +17, __Will__ +0"
+    desc: "31; __Fort__ +23, __Ref__ +17, "
 hp: 100
 health:
   - name: ""
@@ -51,12 +52,18 @@ attacks:
   - name: ""
 
   - name: "Purple Worm Sting"
-    desc: "`pf2:r` (poison, primal) **Trigger** A creature touches the door\n**Effect** The creature is targeted by _purple worm sting_ (DC 32 Fortitude check save)."
+    desc: "`pf2:r` (poison, primal) **Trigger** A creature touches the door\n* * *\n\n**Effect** The creature is targeted by _purple worm sting_ (DC 32 Fortitude check save)."
 
   - name: "Purple Worm Venom"
-    desc: "passive Venom from enormous purple worms leaves a victim weakened.\n**Saving Throw** DC 32 Fortitude check\n**Maximum Duration** 6 rounds\n**Stage 1** 5d6 poison damage and [[Conditions/Enfeebled 1|Enfeebled 2]] (1 round)\n**Stage 2** 6d6 poison damage and enfeebled 2 (1 round)\n**Stage 3** 8d6 poison damage and enfeebled 2 (1 round)"
+    desc: "passive Venom from enormous purple worms leaves a victim weakened.\n\n**Saving Throw** DC 32 Fortitude check\n\n**Maximum Duration** 6 rounds\n\n**Stage 1** 5d6 poison damage and [[Conditions/Enfeebled|Enfeebled 2]] (1 round)\n\n**Stage 2** 6d6 poison damage and enfeebled 2 (1 round)\n\n**Stage 3** 8d6 poison damage and enfeebled 2 (1 round)"
 
 
 
+```
+
+```encounter-table
+name: False Door Trap
+creatures:
+  - 1: False Door Trap
 ```
 

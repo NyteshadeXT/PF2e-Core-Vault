@@ -10,7 +10,7 @@ license: OGL
 ---
 # Flask of Fellowship
 ## Item 2
-### [[magical]]
+### [[3-Rules/Rule References/Magical]]
 
 
 **Price** 25 gp; 

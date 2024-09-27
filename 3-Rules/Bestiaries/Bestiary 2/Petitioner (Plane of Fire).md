@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.pathfinder-bestiary-2.Actor.BNizhfieKEditLGb"
 tags:
   - pf2e/creature/type/fire
   - pf2e/creature/type/petitioner
+  - pf2eMonster
   - pf2e/creature/level/1
 statblock: inline
 name: "Petitioner (Plane of Fire)"
@@ -25,8 +26,8 @@ level: "Creature 1"
 
 alignment: ""
 size: "Medium"
-trait_01: "fire"
-trait_02: "petitioner"
+trait_01: [[fire]]
+trait_02: [[petitioner]]
 modifier: 7
 perception:
   - name: "Perception"
@@ -59,8 +60,14 @@ attacks:
     desc: "`pf2:1` Cinder +7 ()\n__Damage__  1d8 + 2 fire"
 
   - name: "Planar Incarnation - Plane of Fire"
-    desc: " (fire) All petitioners are formed from and personify the nature of the plane on which they manifest, and their statistics are adjusted as summarized below. They also gain any trait associated with creatures from their plane.\n**Plane of Fire** Fire pneuma appear as versions of their mortal selves shaped from flame\n*   **Alignment** any;\n*   **Language** Ignan;\n*   **Additional Ability** immunity to fire;\n*   **Melee** cinder +7 (fire), **Damage** 1d8+2 fire"
+    desc: " (fire) All petitioners are formed from and personify the nature of the plane on which they manifest, and their statistics are adjusted as summarized below. They also gain any trait associated with creatures from their plane.\n\n**Plane of Fire** Fire pneuma appear as versions of their mortal selves shaped from flame\n\n*   **Alignment** any;\n*   **Language** Ignan;\n*   **Additional Ability** immunity to fire;\n*   **Melee** cinder +7 (fire), **Damage** 1d8+2 fire"
  
+```
+
+```encounter-table
+name: Petitioner (Plane of Fire)
+creatures:
+  - 1: Petitioner (Plane of Fire)
 ```
 
 

@@ -10,6 +10,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/humanoid
   - pf2e/creature/type/lawful
+  - pf2eMonster
   - pf2e/creature/level/2
 statblock: inline
 name: "Duergar Taskmaster"
@@ -28,11 +29,11 @@ level: "Creature 2"
 
 alignment: ""
 size: "Medium"
-trait_01: "duergar"
-trait_02: "dwarf"
-trait_03: "evil"
-trait_04: "humanoid"
-trait_05: "lawful"
+trait_01: [[duergar]]
+trait_02: [[dwarf]]
+trait_03: [[evil]]
+trait_04: [[humanoid]]
+trait_05: [[lawful]]
 modifier: 8
 perception:
   - name: "Perception"
@@ -75,8 +76,14 @@ attacks:
     desc: "DC 18, attack +10; __2nd __  _[[Spells/Enlarge|Enlarge (Self Only)]]_, _[[Spells/Invisibility|Invisibility (Self Only)]]_"
 
   - name: "Take Them Down!"
-    desc: "`pf2:1`  The duergar taskmaster smashes their maul into the ground and invokes Droskar's name to rally their allies to action. All allied duergars of equal or lower level that are within 20 feet of the duergar taskmaster gain a +1 status bonus to attack rolls and damage rolls until the end of the duergar taskmaster's next turn.\n[[Bestiary Effects/Effect_ Take Them Down!|Effect: Take Them Down!]]"
+    desc: "`pf2:1`  The duergar taskmaster smashes their maul into the ground and invokes Droskar's name to rally their allies to action. All allied duergars of equal or lower level that are within 20 feet of the duergar taskmaster gain a +1 status bonus to attack rolls and damage rolls until the end of the duergar taskmaster's next turn.\n\n[[Bestiary Effects/Effect_ Take Them Down!|Effect: Take Them Down!]]"
  
+```
+
+```encounter-table
+name: Duergar Taskmaster
+creatures:
+  - 1: Duergar Taskmaster
 ```
 
 

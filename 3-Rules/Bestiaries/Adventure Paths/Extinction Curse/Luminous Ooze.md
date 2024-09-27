@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.extinction-curse-bestiary.Actor.RIZDryL3Wnk6ucks"
 tags:
   - pf2e/creature/type/mindless
   - pf2e/creature/type/ooze
+  - pf2eMonster
   - pf2e/creature/level/4
 statblock: inline
 name: "Luminous Ooze"
@@ -24,12 +25,13 @@ level: "Creature 4"
 
 alignment: ""
 size: "Small"
-trait_01: "mindless"
-trait_02: "ooze"
+trait_01: [[mindless]]
+trait_02: [[ooze]]
 modifier: 6
 perception:
   - name: "Perception"
     desc: "+6; Motion Sense (Precise) 60 Feet"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Athletics: +11"
@@ -66,8 +68,14 @@ attacks:
     desc: "`pf2:1` Pseudopod +13 ()\n__Damage__  2d8 + 5 bludgeoning"
 
   - name: "Light Up"
-    desc: "`pf2:2` (light,visual) The ooze glows with blinding brightness. All creatures within a 30-foot emanation must attempt a DC 21 Fortitude check save.\n**Critical Success** The creature is unaffected\n**Success** The creature is [[Conditions/Dazzled|Dazzled]] until the end of its next turn.\n**Failure** The creature is [[Conditions/Blinded|Blinded]] until the end of its next turn."
+    desc: "`pf2:2` (light,visual) The ooze glows with blinding brightness. All creatures within a @Template[emanation|distance:30] must attempt a DC 21 Fortitude check save.\n* * *\n\n**Critical Success** The creature is unaffected\n\n**Success** The creature is [[Conditions/Dazzled|Dazzled]] until the end of its next turn.\n\n**Failure** The creature is [[Conditions/Blinded|Blinded]] until the end of its next turn."
  
+```
+
+```encounter-table
+name: Luminous Ooze
+creatures:
+  - 1: Luminous Ooze
 ```
 
 

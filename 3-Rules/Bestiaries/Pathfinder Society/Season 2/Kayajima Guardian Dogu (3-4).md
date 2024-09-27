@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/construct
   - pf2e/creature/type/earth
   - pf2e/creature/type/mindless
+  - pf2eMonster
   - pf2e/creature/level/5
 statblock: inline
 name: "Kayajima Guardian Dogu (3-4)"
@@ -22,16 +23,17 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Society Scenario #2-02: Mountain of Sea and Sky"
 name: "Kayajima Guardian Dogu (3-4)"
 level: "Creature 5"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "huge"
-trait_01: "construct"
-trait_02: "earth"
-trait_03: "mindless"
+trait_01: [[construct]]
+trait_02: [[earth]]
+trait_03: [[mindless]]
 modifier: 11
 perception:
   - name: "Perception"
     desc: "+11; Darkvision"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Athletics: +13"
@@ -65,11 +67,17 @@ attacks:
     desc: "`pf2:1` Eye Beam +12 (fire, magical, range increment 80 feet)\n__Damage__  3d10 + 3 fire"
 
   - name: "Ley Line Surge"
-    desc: "`pf2:1` (force,primal) `pf2:1` to `pf2:3`\n**Frequency** once per day\n**Effect** The Kayajima guardian pulses with mystical energies that emit a pale blue glow before it emits a wave of force. If the Kayajima guardian uses 1 action to use , it unleashes a powerful blast that deals 3d6 force damage to all creatures in a 15-foot cone. If the Kayajima guardian uses 2 actions to use Ley Line Surge, increase the size of the cone to 30-foot cone and the damage to 5d6 force damage. If the Kayajima guardian uses 3 actions to use Ley Line Surge, increase the size of the cone to 60-foot cone and the damage to 6d6 force damage.\nEach creature in the area must attempt a DC 19 Fortitude check save.\n**Critical Success** The creature is unaffected.\n**Success** The creature takes half damage.\n**Failure** The creature takes full damage and is pushed 5 feet.\n**Critical Failure** The creature takes double damage and is pushed 10 feet."
+    desc: "`pf2:1` (force,primal) `pf2:1` to `pf2:3`\n\n**Frequency** once per day\n* * *\n\n**Effect** The Kayajima guardian pulses with mystical energies that emit a pale blue glow before it emits a wave of force. If the Kayajima guardian uses 1 action to use, it unleashes a powerful blast that deals 3d6 force damage to all creatures in a @Template[cone|distance:15]. If the Kayajima guardian uses 2 actions to use Ley Line Surge, increase the size of the cone to @Template[cone|distance:30] and the damage to 5d6 force damage. If the Kayajima guardian uses 3 actions to use Ley Line Surge, increase the size of the cone to @Template[cone|distance:60] and the damage to 6d6 force damage.\n\nEach creature in the area must attempt a DC 19 Fortitude check save.\n* * *\n\n**Critical Success** The creature is unaffected.\n\n**Success** The creature takes half damage.\n\n**Failure** The creature takes full damage and is pushed 5 feet.\n\n**Critical Failure** The creature takes double damage and is pushed 10 feet."
 
   - name: "Sudden Charge"
     desc: "`pf2:2`  The Kayajima guardian propels itself with jets of blue energy from its feet, dashing up to a foe and swinging its fist. It Strides twice. If it ends its movement within melee range of at least one enemy, it can make an energized fist Strike against that enemy."
  
+```
+
+```encounter-table
+name: Kayajima Guardian Dogu (3-4)
+creatures:
+  - 1: Kayajima Guardian Dogu (3-4)
 ```
 
 

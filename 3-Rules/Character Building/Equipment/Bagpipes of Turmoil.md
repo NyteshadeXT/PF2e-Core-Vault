@@ -12,7 +12,7 @@ license: OGL
 ---
 # Bagpipes of Turmoil
 ## Item 4
-### [[coda]][[occult]][[staff]]
+### [[coda]][[3-Rules/Rule References/Occult]][[3-Rules/Character Building/Equipment/Staff]]
 
 
 **Price** 90 gp; 
@@ -31,9 +31,8 @@ While those who appreciate bagpipes may like the sound of this gray reed and bla
 
 *   **Cantrip** [[Spells/Daze|Daze]]
 *   **1st** [[Spells/Bane|Bane]]
-    
-    * * *
-    
+
+* * *
 
 **Craft Requirements** Supply one casting of all listed levels of all listed spells.
 

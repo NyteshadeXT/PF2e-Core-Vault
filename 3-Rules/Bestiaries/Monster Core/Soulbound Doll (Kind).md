@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.pathfinder-monster-core.Actor.6WgkWAumJDId0vuJ"
 tags:
   - pf2e/creature/type/construct
   - pf2e/creature/type/soulbound
+  - pf2eMonster
   - pf2e/creature/level/2
   - remaster
 statblock: inline
@@ -26,8 +27,8 @@ level: "Creature 2"
 
 alignment: ""
 size: "tiny"
-trait_01: "construct"
-trait_02: "soulbound"
+trait_01: [[construct]]
+trait_02: [[soulbound]]
 modifier: 8
 perception:
   - name: "Perception"
@@ -65,6 +66,12 @@ attacks:
   - name: "Occult Innate Spells"
     desc: "DC 18, attack +10; __3rd __ (2 slots) _[[Spells/Levitate|Levitate]]_; __2nd __  _[[Spells/Heal|Heal]]_\n__Cantrips__  __(1st)__ _[[Spells/Light|Light]]_, _[[Spells/Prestidigitation|Prestidigitation]]_, _[[Spells/Telekinetic Hand|Telekinetic Hand]]_"
  
+```
+
+```encounter-table
+name: Soulbound Doll (Kind)
+creatures:
+  - 1: Soulbound Doll (Kind)
 ```
 
 

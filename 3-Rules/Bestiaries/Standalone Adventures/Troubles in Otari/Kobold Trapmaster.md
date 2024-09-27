@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/humanoid
   - pf2e/creature/type/kobold
   - pf2e/creature/type/lawful
+  - pf2eMonster
   - pf2e/creature/level/2
 statblock: inline
 name: "Kobold Trapmaster"
@@ -26,14 +27,15 @@ level: "Creature 2"
 
 alignment: ""
 size: "Small"
-trait_01: "evil"
-trait_02: "humanoid"
-trait_03: "kobold"
-trait_04: "lawful"
+trait_01: [[evil]]
+trait_02: [[humanoid]]
+trait_03: [[kobold]]
+trait_04: [[lawful]]
 modifier: 6
 perception:
   - name: "Perception"
     desc: "+6; Darkvision"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Acrobatics: +7, Crafting: +8, Stealth: +7"
@@ -76,6 +78,12 @@ attacks:
   - name: "Spike Trap"
     desc: "  Once this trap is deployed, anyone who steps on the square it's in takes 2d8 piercing damage and must attempt a DC 17 Reflex check saving throw."
  
+```
+
+```encounter-table
+name: Kobold Trapmaster
+creatures:
+  - 1: Kobold Trapmaster
 ```
 
 

@@ -7,6 +7,7 @@ tags:
   - magical
   - mental
   - trap
+  - pf2eHazard
 
 source: Pathfinder Dark Archive
 aliases: "Compendium.pf2e.pathfinder-dark-archive.Actor.cZwTVO2KF85Ak4o6" 
@@ -24,10 +25,10 @@ name: "Confounding Portal"
 level: "Hazard 0"
 
 
-trait_01: "illusion"
-trait_02: "magical"
-trait_03: "mental"
-trait_04: "trap"
+trait_01: [[illusion]]
+trait_02: [[magical]]
+trait_03: [[mental]]
+trait_04: [[trap]]
 modifier: 6
 sourcebook: "_Pathfinder Dark Archive_"
 perception:
@@ -46,10 +47,16 @@ attacks:
   - name: ""
 
   - name: "Confounding Misdirection"
-    desc: "`pf2:r` (arcane, illusion, mental) **Trigger** A creature passes through the rune-carved doorway or hallway\n**Effect** The creature is [[Conditions/Confused|Confused]] by the illusions and directed back into the room they attempted to exit through another doorway or back to the hallway's beginning. This feels no different to the triggering creature than walking through the doorway or hallway, and onlookers are similarly befuddled. A creature who succeeds at a DC 19 Will check save resists this illusion and exits the room or proceeds down the hall without being misdirected."
+    desc: "`pf2:r` (arcane, illusion, mental) **Trigger** A creature passes through the rune-carved doorway or hallway\n* * *\n\n**Effect** The creature is [[Conditions/Confused|Confused]] by the illusions and directed back into the room they attempted to exit through another doorway or back to the hallway's beginning. This feels no different to the triggering creature than walking through the doorway or hallway, and onlookers are similarly befuddled. A creature who succeeds at a DC 19 Will check save resists this illusion and exits the room or proceeds down the hall without being misdirected."
 
 
   - name: "Reset"
     desc: ""
+```
+
+```encounter-table
+name: Confounding Portal
+creatures:
+  - 1: Confounding Portal
 ```
 

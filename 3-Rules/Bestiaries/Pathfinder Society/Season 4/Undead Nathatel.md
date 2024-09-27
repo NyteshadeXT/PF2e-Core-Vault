@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/skeleton
   - pf2e/creature/type/undead
   - pf2e/creature/type/unholy
+  - pf2eMonster
   - pf2e/creature/level/5
 statblock: inline
 name: "Undead Nathatel"
@@ -23,13 +24,13 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Society Scenario #4-99: Blessings of the Forest"
 name: "Undead Nathatel"
 level: "Creature 5"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Medium"
-trait_01: "evil"
-trait_02: "skeleton"
-trait_03: "undead"
-trait_04: "unholy"
+trait_01: [[evil]]
+trait_02: [[skeleton]]
+trait_03: [[undead]]
+trait_04: [[unholy]]
 modifier: 9
 perception:
   - name: "Perception"
@@ -67,6 +68,12 @@ attacks:
   - name: "Arcane Innate Spells"
     desc: "DC 22, attack +14; __3rd __  _[[Spells/Horizon Thunder Sphere|Horizon Thunder Sphere]]_, _[[Spells/Lightning Bolt|Lightning Bolt]]_; __2nd __  _[[Spells/Acid Arrow|Acid Arrow]]_, _[[Spells/Mirror Image|Mirror Image]]_, _[[Spells/Shocking Grasp|Shocking Grasp]]_; __1st __  _[[Spells/Enfeeble|Ray of Enfeeblement]]_, _[[Spells/Shocking Grasp|Shocking Grasp]]_, _[[Spells/Sure Strike|True Strike]]_\n__Cantrips__  __(3rd)__ _[[Spells/Electric Arc|Electric Arc]]_, _[[Spells/Gouging Claw|Gouging Claw]]_"
  
+```
+
+```encounter-table
+name: Undead Nathatel
+creatures:
+  - 1: Undead Nathatel
 ```
 
 

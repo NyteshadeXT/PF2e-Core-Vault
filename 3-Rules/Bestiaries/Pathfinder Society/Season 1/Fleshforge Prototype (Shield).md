@@ -6,6 +6,7 @@ cssClasses: pf2e
 aliases: "Compendium.pf2e.pfs-season-1-bestiary.Actor.m3YBXS3ool7PmRfX" 
 tags:
   - pf2e/creature/type/construct
+  - pf2eMonster
   - pf2e/creature/level/5
 statblock: inline
 name: "Fleshforge Prototype (Shield)"
@@ -20,15 +21,15 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Society Scenario #1-01: The Absalom Initiation"
 name: "Fleshforge Prototype (Shield)"
 level: "Creature 5"
-rare_03: "Rare"
+rare_03: [[Rare]]
 alignment: ""
 size: "Medium"
-trait_01: "construct"
+trait_01: [[construct]]
 modifier: 9
 perception:
   - name: "Perception"
     desc: "+9; "
-languages: "Common"
+languages: "Common; (can&#x27;t speak any language)"
 skills:
   - name: "Skills"
     desc: "Acrobatics: +12, Athletics: +13, Survival: +9"
@@ -62,6 +63,12 @@ attacks:
   - name: "Melee"
     desc: "`pf2:1` Tentacle +15 (agile)\n__Damage__  2d4 + 7 bludgeoning"
  
+```
+
+```encounter-table
+name: Fleshforge Prototype (Shield)
+creatures:
+  - 1: Fleshforge Prototype (Shield)
 ```
 
 

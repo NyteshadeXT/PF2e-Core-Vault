@@ -30,5 +30,7 @@ For 1 hour you gain greatly increased blood production, filtering out contagions
 
 **Drawback** Whenever you take piercing or slashing damage, you take 1d6 bleed.
 
+[[Equipment Effects/Effect_ Sanguine Mutagen (Major)|Effect: Sanguine Mutagen (Major)]]
+
 *Source: Pathfinder Treasure Vault*
 *OGL*

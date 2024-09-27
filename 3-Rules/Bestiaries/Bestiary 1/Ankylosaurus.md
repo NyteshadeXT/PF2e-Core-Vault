@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.pathfinder-bestiary.Actor.6CQEelygt968CB7m"
 tags:
   - pf2e/creature/type/animal
   - pf2e/creature/type/dinosaur
+  - pf2eMonster
   - pf2e/creature/level/6
 statblock: inline
 name: "Ankylosaurus"
@@ -25,12 +26,13 @@ level: "Creature 6"
 
 alignment: ""
 size: "huge"
-trait_01: "animal"
-trait_02: "dinosaur"
+trait_01: [[animal]]
+trait_02: [[dinosaur]]
 modifier: 12
 perception:
   - name: "Perception"
     desc: "+12; Low-Light Vision, Scent (Imprecise) 30 Feet"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Athletics: +17"
@@ -61,11 +63,17 @@ attacks:
     desc: "`pf2:1` Foot +17 (reach 10 feet)\n__Damage__  2d6 + 7 bludgeoning"
 
   - name: "Punishing Tail"
-    desc: "  A creature struck by the anklyosaurus's tail must attempt a DC 24 Fortitude check save.\nOn a failure, it's [[Conditions/Slowed 1|Slowed 1]] until the end of its next turn; on a critical failure, it's [[Conditions/Stunned 1|Stunned]] until the end of its next turn."
+    desc: "  A creature struck by the anklyosaurus's tail must attempt a DC 24 Fortitude check save.\n\nOn a failure, it's [[Conditions/Slowed|Slowed 1]] until the end of its next turn; on a critical failure, it's [[Conditions/Stunned|Stunned]] until the end of its next turn."
 
   - name: "[[Bestiary Ability Glossary/Trample|Trample]]"
-    desc: "`pf2:3`  Medium or smaller, foot, DC 24 Reflex check\n"
+    desc: "`pf2:3`  Medium or smaller, foot, DC 24 Reflex check\n\n* * *\n"
  
+```
+
+```encounter-table
+name: Ankylosaurus
+creatures:
+  - 1: Ankylosaurus
 ```
 
 

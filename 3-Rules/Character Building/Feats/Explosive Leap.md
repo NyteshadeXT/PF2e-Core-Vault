@@ -25,9 +25,5 @@ You aim an explosion from your innovation downward to launch yourself into the a
 
 **Special** If your innovation is a minion, it can take this action rather than you.
 
-* * *
-
-PF2E.SpecificRule.Inventor.Unstable.FlatCheck.Label
-
 *Source: Pathfinder Guns & Gears*
 *OGL*

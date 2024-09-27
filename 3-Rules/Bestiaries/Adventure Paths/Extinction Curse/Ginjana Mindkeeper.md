@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/dero
   - pf2e/creature/type/evil
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/11
 statblock: inline
 name: "Ginjana Mindkeeper"
@@ -23,13 +24,13 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #153: Life&#x27;s Long Shadows"
 name: "Ginjana Mindkeeper"
 level: "Creature 11"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Small"
-trait_01: "chaotic"
-trait_02: "dero"
-trait_03: "evil"
-trait_04: "humanoid"
+trait_01: [[chaotic]]
+trait_02: [[dero]]
+trait_03: [[evil]]
+trait_04: [[humanoid]]
 modifier: 22
 perception:
   - name: "Perception"
@@ -37,7 +38,7 @@ perception:
 languages: "Aklo, Common, Sakvroth"
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +24, Anatomy Lore: +24, Athletics: +20, Intimidation: +19, Medicine: +20, Stealth: +26, Thievery: +24"
+    desc: "Acrobatics: +24, Athletics: +20, Intimidation: +19, Medicine: +20, Stealth: +26, Thievery: +24, Anatomy Lore: +24"
 abilityMods: [3, 7, 3, 5, 3, 2]
 speed: 20 feet
 sourcebook: "_Pathfinder #153: Life&#x27;s Long Shadows_"
@@ -63,7 +64,7 @@ abilities_mid:
     desc: "  When Ginjana rolls a success on a Reflex save, she gets a critical success instead."
 
   - name: "Sidestep"
-    desc: "`pf2:r`  **Trigger** An attack roll to Strike Ginjana fails or critically fails\n**Effect** Ginjana redirects the attack to a creature of her choice that is adjacent to her and within reach of the triggering attack. The attacker rerolls the [[Actions/Strike|Strike's]] attack roll against the new target."
+    desc: "`pf2:r`  **Trigger** An attack roll to Strike Ginjana fails or critically fails\n* * *\n\n**Effect** Ginjana redirects the attack to a creature of her choice that is adjacent to her and within reach of the triggering attack. The attacker rerolls the [[Actions/Strike|Strike's]] attack roll against the new target."
 
   - name: "Vulnerable to Sunlight"
     desc: "  Ginjana takes 20 damage for every hour she's exposed to sunlight."
@@ -81,7 +82,7 @@ attacks:
     desc: "DC 30, attack +24; __6th __  _[[Spells/Holy Light|Searing Light]]_"
 
   - name: "Hampering Blow"
-    desc: "  When Ginjana critically succeeds at an attack roll, the target of the attack is [[Conditions/Clumsy 1|Clumsy 1]] and [[Conditions/Off-Guard|Off-Guard]] until the end of Ginjana's next turn."
+    desc: "  When Ginjana critically succeeds at an attack roll, the target of the attack is [[Conditions/Clumsy|Clumsy 1]] and [[Conditions/Off-Guard|Off-Guard]] until the end of Ginjana's next turn."
 
   - name: "Light Step"
     desc: "  When Ginjana [[Actions/Stride|Strides]] or [[Actions/Step|Steps]], she ignores difficult terrain."
@@ -90,7 +91,7 @@ attacks:
     desc: "  Ginjana's movement doesn't trigger reactions when she [[Actions/Stride|Strides]] to move half her Speed or less."
 
   - name: "Shadow Essence"
-    desc: " (poison) **Saving Throw** DC 29 Fortitude check\n**Maximum Duration** 6 rounds\n**Stage 1** 3d6 void damage and 2d6 poison damage (1 round)\n**Stage 2** 3d6 void damage, 2d6 poison damage, and [[Conditions/Enfeebled 1|Enfeebled 1]] (1 round)\n**Stage 3** 3d6 void damage; 2d6 poison damage; and [[Conditions/Enfeebled 1|Enfeebled 2]] (1 round)"
+    desc: " (poison) **Saving Throw** DC 29 Fortitude check\n\n**Maximum Duration** 6 rounds\n\n**Stage 1** 3d6 void damage and 2d6 poison damage (1 round)\n\n**Stage 2** 3d6 void damage, 2d6 poison damage, and [[Conditions/Enfeebled|Enfeebled 1]] (1 round)\n\n**Stage 3** 3d6 void damage; 2d6 poison damage; and [[Conditions/Enfeebled|Enfeebled 2]] (1 round)"
 
   - name: "[[Bestiary Ability Glossary/Sneak Attack|Sneak Attack]]"
     desc: "  Ginjana deals an extra 2d6 precision damage to [[Conditions/Off-Guard|Off-Guard]] creatures."
@@ -98,6 +99,12 @@ attacks:
   - name: "Surprise Attack"
     desc: "  On the first round of combat, if Ginjana rolls Deception or Stealth for initiative, creatures that haven't acted are [[Conditions/Off-Guard|Off-Guard]] to her."
  
+```
+
+```encounter-table
+name: Ginjana Mindkeeper
+creatures:
+  - 1: Ginjana Mindkeeper
 ```
 
 

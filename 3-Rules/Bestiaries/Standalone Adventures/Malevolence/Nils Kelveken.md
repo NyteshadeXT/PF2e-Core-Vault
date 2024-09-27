@@ -10,6 +10,7 @@ tags:
   - pf2e/creature/type/skeleton
   - pf2e/creature/type/undead
   - pf2e/creature/type/unholy
+  - pf2eMonster
   - pf2e/creature/level/5
 statblock: inline
 name: "Nils Kelveken"
@@ -24,14 +25,14 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Adventure: Malevolence"
 name: "Nils Kelveken"
 level: "Creature 5"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Medium"
-trait_01: "chaotic"
-trait_02: "evil"
-trait_03: "skeleton"
-trait_04: "undead"
-trait_05: "unholy"
+trait_01: [[chaotic]]
+trait_02: [[evil]]
+trait_03: [[skeleton]]
+trait_04: [[undead]]
+trait_05: [[unholy]]
 modifier: 13
 perception:
   - name: "Perception"
@@ -65,11 +66,17 @@ attacks:
     desc: "`pf2:1` Hand Drill +14 ()\n__Damage__  1d6 + 7 piercing 2d6 void"
 
   - name: "Drill Deeper"
-    desc: "`pf2:1` (manipulate) **Requirements** Nils Kelveken hit a creature with a hand drill Strike with his previous action\n**Effect** Nils grabs the drill and twists, drilling deeper into the victim. He automatically deals 1d8 piercing damage, and the creature being drilled into must succeed at a DC 22 Fortitude check save to avoid taking an additional 1d6 bleed (2d6 bleed on a critical failure)."
+    desc: "`pf2:1` (manipulate) **Requirements** Nils Kelveken hit a creature with a hand drill Strike with his previous action\n* * *\n\n**Effect** Nils grabs the drill and twists, drilling deeper into the victim. He automatically deals 1d8 piercing damage, and the creature being drilled into must succeed at a DC 22 Fortitude check save to avoid taking an additional 1d6 bleed (2d6 bleed on a critical failure)."
 
   - name: "I See What Ye Did!"
-    desc: "`pf2:1` (auditory,emotion,fear,linguistic,mental,occult) Nils Strides up to his speed toward a target within 30 feet, shrieking \"I seen what ye did!\" at them as he approaches. The target must attempt a DC 22 Will check save.\n**Critical Success** The target is unaffected.\n**Success** The target becomes disturbed at what Nils might have seen and becomes [[Conditions/Frightened 1|Frightened 1]].\n**Failure** As success, but the target is [[Conditions/Frightened 1|Frightened 2]].\n**Critical Failure** The target falls into a phantasmagoric nightmare state where time seems to slow down as they can think of nothing but running away, yet as fast as they try to flee, Nils can catch up with ease. The target is [[Conditions/Slowed 1|Slowed 2]] at the start of its next turn and [[Conditions/Fleeing|Fleeing]] until the end of its next turn."
+    desc: "`pf2:1` (auditory,emotion,fear,linguistic,mental,occult) Nils Strides up to his speed toward a target within 30 feet, shrieking \"I seen what ye did!\" at them as he approaches. The target must attempt a DC 22 Will check save.\n* * *\n\n**Critical Success** The target is unaffected.\n\n**Success** The target becomes disturbed at what Nils might have seen and becomes [[Conditions/Frightened|Frightened 1]].\n\n**Failure** As success, but the target is [[Conditions/Frightened|Frightened 2]].\n\n**Critical Failure** The target falls into a phantasmagoric nightmare state where time seems to slow down as they can think of nothing but running away, yet as fast as they try to flee, Nils can catch up with ease. The target is [[Conditions/Slowed|Slowed 2]] at the start of its next turn and [[Conditions/Fleeing|Fleeing]] until the end of its next turn."
  
+```
+
+```encounter-table
+name: Nils Kelveken
+creatures:
+  - 1: Nils Kelveken
 ```
 
 

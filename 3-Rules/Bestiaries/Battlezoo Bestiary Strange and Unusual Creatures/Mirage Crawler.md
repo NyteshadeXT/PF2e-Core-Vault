@@ -7,6 +7,7 @@ aliases: "Compendium.battlezoo-bestiary-su-pf2e.pf2e-battlezoo-su-actors.Actor.K
 tags:
   - pf2e/creature/type/aberration
   - pf2e/creature/type/evil
+  - pf2eMonster
   - pf2e/creature/level/10
 statblock: inline
 name: "Mirage Crawler"
@@ -22,18 +23,19 @@ token: [[modules/battlezoo-bestiary-su-pf2e/art/Portraits/mirage-crawler.webp| ]
 source: "Battlezoo Bestiary: Strange and Unusual"
 name: "Mirage Crawler"
 level: "Creature 10"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "huge"
-trait_01: "aberration"
-trait_02: "evil"
+trait_01: [[aberration]]
+trait_02: [[evil]]
 modifier: 17
 perception:
   - name: "Perception"
     desc: "+17; Tremorsense (Imprecise) 60 Feet"
+languages: ""
 skills:
   - name: "Skills"
-    desc: "Athletics: +19, Stealth: +18 (+22 when in sand), "
+    desc: "Athletics: +19, Stealth: +18, Athletics: +19, Stealth: +18"
 abilityMods: [7, 2, 7, -3, 5, -3]
 speed: 10 feet,  burrow 40 feet
 sourcebook: "_Battlezoo Bestiary: Strange and Unusual_"
@@ -55,10 +57,10 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Project Mirage"
-    desc: "`pf2:r` (illusion,occult,visual) **Trigger** The mirage crawler is targeted by an attack\n**Requirements** The mirage crawler's sand cloud is active\n**Effect** The mirage crawler projects multiple illusions of itself within its sand cloud, potentially causing the attacker to hit one of the images instead. Roll 1d4. On any result other than a 1, the triggering attack hits the image instead of the mirage crawler, with no effect. Either way, the images disappear, and the crawler's sand cloud is suppressed until activated again."
+    desc: "`pf2:r` (illusion,occult,visual) **Trigger** The mirage crawler is targeted by an attack\n\n**Requirements** The mirage crawler's sand cloud is active\n* * *\n\n**Effect** The mirage crawler projects multiple illusions of itself within its sand cloud, potentially causing the attacker to hit one of the images instead. Roll 1d4. On any result other than a 1, the triggering attack hits the image instead of the mirage crawler, with no effect. Either way, the images disappear, and the crawler's sand cloud is suppressed until activated again."
 
   - name: "Sand Cloud"
-    desc: " (aura,illusion,occult,visual) 30 feet. The mirage crawler's leg blisters can constantly eject bursts of sand, which the creature uses to its advantage. Any creature caught within the area is Concealed, and creatures outside the aura are concealed to creatures within. The mirage crawler can suppress this aura or activate it again using a single action, which has the concentrate trait."
+    desc: " (aura,illusion,occult,visual) 30 feet. The mirage crawler's leg blisters can constantly eject bursts of sand, which the creature uses to its advantage. Any creature caught within the area is [[undefined]], and creatures outside the aura are concealed to creatures within. The mirage crawler can suppress this aura or activate it again using a single action, which has the concentrate trait."
 
 attacks:
   - name: ""
@@ -73,14 +75,20 @@ attacks:
     desc: "`pf2:1`  "
 
   - name: "Mucous Residue"
-    desc: "  A creature damaged by the mirage crawler's mucus Strike must succeed at a DC 29 Reflex check save or become Slowed 1 for 1 round, or Sickened 1 and Slowed 2 for 1 round on a critical failure."
+    desc: "  A creature damaged by the mirage crawler's mucus Strike must succeed at a DC 29 Reflex check save or become [[undefined]] for 1 round, or [[undefined]] and [[undefined]] for 1 round on a critical failure."
 
   - name: "[[Bestiary Ability Glossary/Constrict|Constrict]]"
-    desc: "`pf2:1`  2d12 + 9 bludgeoning, DC 29 Fortitude check\n"
+    desc: "`pf2:1`  2d12+9 bludgeoning, DC 29 Fortitude check\n\n* * *\n"
 
   - name: "Caging Rush"
-    desc: "`pf2:3`  The mirage crawler Burrows or Strides up to its Speed. If it ends its movement within reach of an enemy, it makes two leg Strikes against a single creature. If both Strikes hit, the creature must attempt a DC 29 Fortitude check save.\n**Critical Success** The creature is unaffected.\n**Success** The creature becomes Grabbed until the end of the mirage crawler's next turn.\n**Failure** The creature becomes Restrained until the end of the mirage crawler's next turn.\n**Critical Failure** The creature becomes restrained until the end of the mirage crawler's next turn and is Stunned 2."
+    desc: "`pf2:3`  The mirage crawler Burrows or Strides up to its Speed. If it ends its movement within reach of an enemy, it makes two leg Strikes against a single creature. If both Strikes hit, the creature must attempt a DC 29 Fortitude check save.\n* * *\n\n**Critical Success** The creature is unaffected.\n\n**Success** The creature becomes [[undefined]] until the end of the mirage crawler's next turn.\n\n**Failure** The creature becomes [[undefined]] until the end of the mirage crawler's next turn.\n\n**Critical Failure** The creature becomes restrained until the end of the mirage crawler's next turn and is [[undefined]]."
  
+```
+
+```encounter-table
+name: Mirage Crawler
+creatures:
+  - 1: Mirage Crawler
 ```
 
 

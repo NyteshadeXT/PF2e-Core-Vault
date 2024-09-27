@@ -3,6 +3,7 @@ title: Tok's Trap (3-4)
 obsidianUIMode: preview
 noteType: pf2eHazard
 tags:
+  - pf2eHazard
 
 source: Pathfinder Society Scenario #5-07: Sewer Dragon Crisis
 aliases: "Compendium.pf2e.pfs-season-5-bestiary.Actor.cieLyRvsiTFKfvu8" 
@@ -25,7 +26,7 @@ sourcebook: "_Pathfinder Society Scenario #5-07: Sewer Dragon Crisis_"
 ac: 13
 armorclass:
   - name: AC
-    desc: "13; __Fort__ +10, __Ref__ NaN, __Will__ +0"
+    desc: "13; __Fort__ +10, "
 hp: 25
 health:
   - name: ""
@@ -47,9 +48,15 @@ attacks:
   - name: ""
 
   - name: "Ensnare"
-    desc: "`pf2:r` **Trigger** A creature steps into the square where the trap is located\n**Effect** The triggering creature's gets entangled in netting. The target must make a DC 18 Reflex check save or be [[Conditions/Slowed 1|Slowed 1]] until they [[Actions/Escape|Escape]] the net."
+    desc: "`pf2:r` **Trigger** A creature steps into the square where the trap is located\n* * *\n\n**Effect** The triggering creature's gets entangled in netting. The target must make a DC 18 Reflex check save or be [[Conditions/Slowed|Slowed 1]] until they [[Actions/Escape|Escape]] the net."
 
 
 
+```
+
+```encounter-table
+name: Tok's Trap (3-4)
+creatures:
+  - 1: Tok's Trap (3-4)
 ```
 

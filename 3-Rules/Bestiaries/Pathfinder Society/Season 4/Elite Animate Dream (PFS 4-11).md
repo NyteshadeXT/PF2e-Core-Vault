@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/dream
   - pf2e/creature/type/evil
   - pf2e/creature/type/incorporeal
+  - pf2eMonster
   - pf2e/creature/level/8
 statblock: inline
 name: "Elite Animate Dream (PFS 4-11)"
@@ -22,16 +23,17 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Society Scenario #4-11: Prisoners of the Electric Castle"
 name: "Elite Animate Dream (PFS 4-11)"
 level: "Creature 8"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Medium"
-trait_01: "dream"
-trait_02: "evil"
-trait_03: "incorporeal"
+trait_01: [[dream]]
+trait_02: [[evil]]
+trait_03: [[incorporeal]]
 modifier: 16
 perception:
   - name: "Perception"
     desc: "+16; Darkvision"
+languages: "telepathy 100 feet"
 skills:
   - name: "Skills"
     desc: "Acrobatics: +16, Deception: +20, Intimidation: +20, Occultism: +16, Stealth: +20"
@@ -62,8 +64,14 @@ attacks:
     desc: "DC 26, attack +16; __4th __  _[[Spells/Confusion|Confusion]]_, _[[Spells/Translocate|Dimension Door (At will)]]_, _[[Spells/Nightmare|Nightmare]]_, _[[Spells/Phantasmal Killer|Phantasmal Killer]]_, _[[Spells/Sleep|Sleep]]_; __3rd __  _[[Spells/Fear|Fear]]_"
 
   - name: "Endless Nightmare"
-    desc: " (curse,emotion,fear,mental,occult) An animate dream's touch fills the victim's mind with terrifying visions\n**Saving Throw** DC 28 Fortitude check\n**Stage 1** [[Conditions/Fatigued|Fatigued]] (1 day)\n**Stage 2** fatigued and [[Conditions/Stupefied 1|Stupefied 1]] (1 day)\n**Stage 3** The victim falls [[Conditions/Unconscious|Unconscious]] and can't be awakened as long as they remain at this stage (1 day)."
+    desc: " (curse,emotion,fear,mental,occult) An animate dream's touch fills the victim's mind with terrifying visions\n\n**Saving Throw** DC 28 Fortitude check\n\n**Stage 1** [[Conditions/Fatigued|Fatigued]] (1 day)\n\n**Stage 2** fatigued and [[Conditions/Stupefied|Stupefied 1]] (1 day)\n\n**Stage 3** The victim falls [[Conditions/Unconscious|Unconscious]] and can't be awakened as long as they remain at this stage (1 day)."
  
+```
+
+```encounter-table
+name: Elite Animate Dream (PFS 4-11)
+creatures:
+  - 1: Elite Animate Dream (PFS 4-11)
 ```
 
 

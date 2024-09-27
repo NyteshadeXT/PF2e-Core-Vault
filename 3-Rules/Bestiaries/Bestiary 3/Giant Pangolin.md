@@ -6,6 +6,7 @@ cssClasses: pf2e
 aliases: "Compendium.pf2e.pathfinder-bestiary-3.Actor.c7kP2W6zaZA9oxAd" 
 tags:
   - pf2e/creature/type/animal
+  - pf2eMonster
   - pf2e/creature/level/4
 statblock: inline
 name: "Giant Pangolin"
@@ -24,11 +25,12 @@ level: "Creature 4"
 
 alignment: ""
 size: "Large"
-trait_01: "animal"
+trait_01: [[animal]]
 modifier: 12
 perception:
   - name: "Perception"
     desc: "+12; Scent (Imprecise) 30 Feet"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Athletics: +13, Stealth: +8, Survival: +10"
@@ -62,14 +64,20 @@ attacks:
     desc: "  The giant pangolin ignores the resistances of swarms, and its tongue Strike deals an additional 2d6 damage against swarms."
 
   - name: "Emit Musk"
-    desc: "`pf2:1` (olfactory) The giant pangolin releases a disorienting and repulsive musk within a 5-foot emanation. Each creature in the area must attempt a DC 20 Fortitude check save.\nThe pangolin can't Emit Musk again for 1d4 rounds.\n**Critical Success** The creature becomes temporarily immune to pangolin musk for 1 minute.\n**Success** The creature is unaffected.\n**Failure** The creature is [[Conditions/Sickened 1|Sickened 1]].\n**Critical Failure** The creature becomes sickened 1 and is [[Conditions/Off-Guard|Off-Guard]] until no longer sickened."
+    desc: "`pf2:1` (olfactory) The giant pangolin releases a disorienting and repulsive musk within a @Template[emanation|distance:5]. Each creature in the area must attempt a DC 20 Fortitude check save.\n\nThe pangolin can't Emit Musk again for 1d4 rounds.\n* * *\n\n**Critical Success** The creature becomes temporarily immune to pangolin musk for 1 minute.\n\n**Success** The creature is unaffected.\n\n**Failure** The creature is [[Conditions/Sickened|Sickened 1]].\n\n**Critical Failure** The creature becomes sickened 1 and is [[Conditions/Off-Guard|Off-Guard]] until no longer sickened."
 
   - name: "Roll Up"
-    desc: "`pf2:1` (move) The giant pangolin falls [[Conditions/Prone|Prone]] and rolls up into a ball.\nWhile rolled up, the only actions the giant pangolin can perform are Emit Musk and Stand, and it also becomes [[Conditions/Blinded|Blinded]] and gains resistance 10 to physical damage.\nAn adjacent creature that hits a rolled-up giant pangolin with a melee Strike takes 1d6 slashing damage. These effects end once the giant pangolin Stands."
+    desc: "`pf2:1` (move) The giant pangolin falls [[Conditions/Prone|Prone]] and rolls up into a ball.\n\nWhile rolled up, the only actions the giant pangolin can perform are Emit Musk and Stand, and it also becomes [[Conditions/Blinded|Blinded]] and gains resistance 10 to physical damage.\n\nAn adjacent creature that hits a rolled-up giant pangolin with a melee Strike takes 1d6 slashing damage. These effects end once the giant pangolin Stands."
 
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
     desc: "`pf2:1`  "
  
+```
+
+```encounter-table
+name: Giant Pangolin
+creatures:
+  - 1: Giant Pangolin
 ```
 
 

@@ -5,6 +5,7 @@ noteType: pf2eHazard
 tags:
   - magical
   - trap
+  - pf2eHazard
 
 source: Pathfinder Dark Archive
 aliases: "Compendium.pf2e.pathfinder-dark-archive.Actor.92rwV7OmBQyY4ZV4" 
@@ -22,8 +23,8 @@ name: "Sigil of Deepest Fears"
 level: "Hazard 17"
 
 
-trait_01: "magical"
-trait_02: "trap"
+trait_01: [[magical]]
+trait_02: [[trap]]
 modifier: 33
 sourcebook: "_Pathfinder Dark Archive_"
 perception:
@@ -42,10 +43,16 @@ attacks:
   - name: ""
 
   - name: "Face Your Fear"
-    desc: "`pf2:r` (arcane, death, emotion, fear, illusion, mental) **Trigger** A creature moves within 10 feet of the sigil\n**Effect** All creatures within 120 feet of the sigil are affected by a [[Spells/Weird|Weird]] spell (DC 40 Will check save)."
+    desc: "`pf2:r` (arcane, death, emotion, fear, illusion, mental) **Trigger** A creature moves within 10 feet of the sigil\n* * *\n\n**Effect** All creatures within 120 feet of the sigil are affected by a [[Spells/Weird|Weird]] spell (DC 40 Will check save)."
 
 
   - name: "Reset"
     desc: "1 day"
+```
+
+```encounter-table
+name: Sigil of Deepest Fears
+creatures:
+  - 1: Sigil of Deepest Fears
 ```
 

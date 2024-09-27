@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/human
   - pf2e/creature/type/humanoid
   - pf2e/creature/type/lawful
+  - pf2eMonster
   - pf2e/creature/level/15
 statblock: inline
 name: "Yarrika Mulandez"
@@ -23,13 +24,13 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #167: Ready? Fight!"
 name: "Yarrika Mulandez"
 level: "Creature 15"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Medium"
-trait_01: "good"
-trait_02: "human"
-trait_03: "humanoid"
-trait_04: "lawful"
+trait_01: [[good]]
+trait_02: [[human]]
+trait_03: [[humanoid]]
+trait_04: [[lawful]]
 modifier: 27
 perception:
   - name: "Perception"
@@ -66,17 +67,23 @@ attacks:
     desc: "`pf2:1` Mantis Strike +25 (agile, finesse, twin, unarmed)\n__Damage__  3d12 + 10 slashing plus grab"
 
   - name: "Spontaneous Occult Spells"
-    desc: "DC 36, attack +28; __8th __ (2 slots) _[[Spells/Scintillating Pattern|Scintillating Pattern]]_, _[[Spells/Uncontrollable Dance|Uncontrollable Dance]]_; __7th __ (3 slots) _[[Spells/Planar Seal|Dimensional Lock]]_, _[[Spells/Duplicate Foe|Duplicate Foe]]_, _[[Spells/Energy Aegis|Energy Aegis]]_; __6th __ (3 slots) _[[Spells/Collective Transposition|Collective Transposition]]_, _[[Spells/Spellwrack|Spellwrack]]_, _[[Spells/Spirit Blast|Spirit Blast]]_; __5th __ (3 slots) _[[Spells/Banishment|Banishment]]_, _[[Spells/Shadow Siphon|Shadow Siphon]]_, _[[Spells/Synaptic Pulse|Synaptic Pulse]]_; __4th __ (3 slots) _[[Spells/Confusion|Confusion]]_, _[[Compendium.pf2e.spells-srd.Item.OyFCwQuw8XRazsNr|Remove Curse]]_, _[[Spells/Telepathy|Telepathy]]_; __3rd __ (3 slots) _[[Spells/Circle of Protection|Circle of Protection]]_, _[[Spells/Invisibility Sphere|Invisibility Sphere]]_, _[[Spells/Veil of Privacy|Nondetection]]_; __2nd __ (3 slots) _[[Spells/Dispel Magic|Dispel Magic]]_, _[[Spells/Paranoia|Paranoia]]_, _[[Spells/Spiritual Weapon|Spiritual Weapon]]_; __1st __ (3 slots) _[[Spells/Sanctuary|Sanctuary]]_, _[[Spells/Summon Fey|Summon Fey]]_, _[[Spells/Sure Strike|True Strike]]_\n__Cantrips__  __(8th)__ _[[Spells/Daze|Daze]]_, _[[Spells/Detect Magic|Detect Magic]]_, _[[Spells/Guidance|Guidance]]_, _[[Spells/Light|Light]]_, _[[Spells/Message|Message]]_"
+    desc: "DC 36, attack +28; __8th __ (2 slots) _[[Spells/Confusing Colors|Scintillating Pattern]]_, _[[Spells/Uncontrollable Dance|Uncontrollable Dance]]_; __7th __ (3 slots) _[[Spells/Planar Seal|Dimensional Lock]]_, _[[Spells/Duplicate Foe|Duplicate Foe]]_, _[[Spells/Energy Aegis|Energy Aegis]]_; __6th __ (3 slots) _[[Spells/Collective Transposition|Collective Transposition]]_, _[[Spells/Spellwrack|Spellwrack]]_, _[[Spells/Spirit Blast|Spirit Blast]]_; __5th __ (3 slots) _[[Spells/Banishment|Banishment]]_, _[[Spells/Shadow Siphon|Shadow Siphon]]_, _[[Spells/Synaptic Pulse|Synaptic Pulse]]_; __4th __ (3 slots) _[[Spells/Confusion|Confusion]]_, _[[Compendium.pf2e.spells-srd.Item.OyFCwQuw8XRazsNr|Remove Curse]]_, _[[Spells/Telepathy|Telepathy]]_; __3rd __ (3 slots) _[[Spells/Circle of Protection|Circle of Protection]]_, _[[Spells/Shared Invisibility|Invisibility Sphere]]_, _[[Spells/Veil of Privacy|Nondetection]]_; __2nd __ (3 slots) _[[Spells/Dispel Magic|Dispel Magic]]_, _[[Spells/Paranoia|Paranoia]]_, _[[Spells/Spiritual Weapon|Spiritual Weapon]]_; __1st __ (3 slots) _[[Spells/Sanctuary|Sanctuary]]_, _[[Spells/Summon Fey|Summon Fey]]_, _[[Spells/Sure Strike|True Strike]]_\n__Cantrips__  __(8th)__ _[[Spells/Daze|Daze]]_, _[[Spells/Detect Magic|Detect Magic]]_, _[[Spells/Guidance|Guidance]]_, _[[Spells/Light|Light]]_, _[[Spells/Message|Message]]_"
 
   - name: "Mantis Ambush"
-    desc: "`pf2:r`  **Trigger** A creature within Yarrika's reach is hit by an ally's melee attack\n**Effect** Yarrika makes a mantis strike against the triggering creature"
+    desc: "`pf2:r`  **Trigger** A creature within Yarrika's reach is hit by an ally's melee attack\n* * *\n\n**Effect** Yarrika makes a mantis strike against the triggering creature"
 
   - name: "Occult Strike"
-    desc: "  **Trigger** Yarrika casts an occult spell\n**Effect** Yarrika makes a fist Strike against a creature within reach."
+    desc: "  **Trigger** Yarrika casts an occult spell\n* * *\n\n**Effect** Yarrika makes a fist Strike against a creature within reach."
 
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
     desc: "`pf2:1`  "
  
+```
+
+```encounter-table
+name: Yarrika Mulandez
+creatures:
+  - 1: Yarrika Mulandez
 ```
 
 

@@ -6,8 +6,9 @@ tags:
   - trait/investigator
   - trait/common
   - category/class
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.WjEwsu4kkexNvDcN"
-license: OGL
+license: ORC
 ---
 # Thorough Research
 ## Feat 6
@@ -18,7 +19,7 @@ license: OGL
 
 
 
-When you succeed at a [[Actions/Recall Knowledge|Recall Knowledge]] check, you learn an additional fact about the subject. When you critically succeed at a Recall Knowledge check, you can gain even more additional information or context than normal, at the GM's discretion.
+You have comprehensive knowledge in your fields of interest. When you succeed at a Recall Knowledge check, you gain additional information or context. When you critically succeed at a check to Recall Knowledge, you get additional information or context or can ask an additional follow-up question (the GM chooses which).
 
-*Source: Pathfinder Advanced Player's Guide*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

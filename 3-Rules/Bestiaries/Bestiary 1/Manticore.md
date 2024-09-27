@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/beast
   - pf2e/creature/type/evil
   - pf2e/creature/type/lawful
+  - pf2eMonster
   - pf2e/creature/level/6
 statblock: inline
 name: "Manticore"
@@ -26,9 +27,9 @@ level: "Creature 6"
 
 alignment: ""
 size: "Large"
-trait_01: "beast"
-trait_02: "evil"
-trait_03: "lawful"
+trait_01: [[beast]]
+trait_02: [[evil]]
+trait_03: [[lawful]]
 modifier: 14
 perception:
   - name: "Perception"
@@ -67,8 +68,14 @@ attacks:
     desc: "`pf2:1` Spike +14 (range increment 40 feet)\n__Damage__  1d10 + 5 piercing"
 
   - name: "Spike Volley"
-    desc: "`pf2:1`  The manticore flings up to two spikes from its tail, targeting either two different creatures or a single creature. If the manticore targets two different creatures, these creatures must be within 20 feet of one another, and the manticore makes a separate Strike against each; this counts as only one Strike for the manticore's multiple attack penalty, and the penalty doesn't increase until after both attacks. If the manticore fires both spikes at the same creature, it makes a single Strike. If the attack hits, it deals the damage of a single spike, but the target is pinned in place, rendering it [[Conditions/Immobilized|Immobilized]]. A creature that succeeds at a DC 23 Athletics check check (attempted as a single action) can pull the spike free.\nA manticore can hurl no more than 12 spikes in 24 hours."
+    desc: "`pf2:1`  The manticore flings up to two spikes from its tail, targeting either two different creatures or a single creature. If the manticore targets two different creatures, these creatures must be within 20 feet of one another, and the manticore makes a separate Strike against each; this counts as only one Strike for the manticore's multiple attack penalty, and the penalty doesn't increase until after both attacks. If the manticore fires both spikes at the same creature, it makes a single Strike. If the attack hits, it deals the damage of a single spike, but the target is pinned in place, rendering it [[Conditions/Immobilized|Immobilized]]. A creature that succeeds at a DC 23 Athletics check check (attempted as a single action) can pull the spike free.\n\nA manticore can hurl no more than 12 spikes in 24 hours."
  
+```
+
+```encounter-table
+name: Manticore
+creatures:
+  - 1: Manticore
 ```
 
 

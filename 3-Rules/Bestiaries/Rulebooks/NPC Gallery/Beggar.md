@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.npc-gallery.Actor.JsTI2SEZdg2j03gf"
 tags:
   - pf2e/creature/type/human
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/-1
 statblock: inline
 name: "Beggar"
@@ -24,8 +25,8 @@ level: "Creature -1"
 
 alignment: ""
 size: "Medium"
-trait_01: "human"
-trait_02: "humanoid"
+trait_01: [[human]]
+trait_02: [[humanoid]]
 modifier: 3
 perception:
   - name: "Perception"
@@ -63,6 +64,12 @@ attacks:
   - name: "Beat a Retreat"
     desc: "`pf2:2`  The beggar Strides three times and gains a +2 circumstance bonus to AC during those actions."
  
+```
+
+```encounter-table
+name: Beggar
+creatures:
+  - 1: Beggar
 ```
 
 

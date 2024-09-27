@@ -12,14 +12,14 @@ license: OGL
 ---
 # Etheric Essence Disruptor (Moderate)
 ## Item 7
-### [uncommon](uncommon "Uncommon Rarity Trait")[[consumable]][[gadget]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[consumable]][[gadget]]
 
 **Category** gadget; 
-**Price** 360 gp; 
+**Price** 70 gp; 
 **Bulk** 1; **Size** sm
 **Usage** held-in-one-hand
 
-**Active**`pf2:2` Interact
+**Active** `pf2:2` Interact
 
 * * *
 
@@ -27,7 +27,7 @@ An etheric essence disruptor emits bursts of discordant ethereal energy through 
 
 * * *
 
-The range is 40 feet, the counteract modifier is +13 d20 + 13, and the counteract rank is 4.
+The range is 40 feet, the counteract modifier is +13 1d20+13, and the counteract rank is 4.
 
 *Source: Pathfinder Guns & Gears*
 *OGL*

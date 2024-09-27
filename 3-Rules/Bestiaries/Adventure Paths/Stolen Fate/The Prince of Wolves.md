@@ -11,6 +11,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/human
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/19
 statblock: inline
 name: "The Prince of Wolves"
@@ -25,15 +26,15 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #191: The Destiny War"
 name: "The Prince of Wolves"
 level: "Creature 19"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Medium"
-trait_01: "beast"
-trait_02: "beastkin"
-trait_03: "chaotic"
-trait_04: "evil"
-trait_05: "human"
-trait_06: "humanoid"
+trait_01: [[beast]]
+trait_02: [[beastkin]]
+trait_03: [[chaotic]]
+trait_04: [[evil]]
+trait_05: [[human]]
+trait_06: [[humanoid]]
 modifier: 32
 perception:
   - name: "Perception"
@@ -41,7 +42,7 @@ perception:
 languages: "Chthonian, Common, Draconic, Empyrean, Necril, Varisian"
 skills:
   - name: "Skills"
-    desc: "Arcana: +33, Athletics: +36 (+39 to Climb, High Jump, Long Jump, or Disarm), Deception: +33, Intimidation: +36, Occultism: +33, Performance: +33, Religion: +32, Society: +30"
+    desc: "Arcana: +33, Athletics: +36, Deception: +33, Intimidation: +36, Occultism: +33, Performance: +33, Religion: +32, Society: +30"
 abilityMods: [9, 5, 6, 3, 5, 6]
 speed: 25 feet
 sourcebook: "_Pathfinder #191: The Destiny War_"
@@ -79,7 +80,7 @@ attacks:
     desc: "DC 38, attack +30; __9th __  _[[Spells/Phantasmal Killer|Phantasmal Killer]]_; __8th __  _[[Spells/Translocate|Dimension Door]]_, _[[Spells/Suggestion|Suggestion]]_, _[[Spells/Teleport|Teleport]]_; __7th __  _[[Spells/Fly|Fly]]_, _[[Spells/Paralyze|Paralyze]]_; __6th __  _[[Spells/Truesight|True Seeing]]_\n__Cantrips__  __(10th)__ _[[Spells/Shield|Shield]]_, _[[Spells/Telekinetic Projectile|Telekinetic Projectile]]_"
 
   - name: "[[Bestiary Ability Glossary/Change Shape|Change Shape]]"
-    desc: "`pf2:1` (concentrate,polymorph) The Prince changes into his humanoid shape, hybrid shape, or wolf shape. While in hybrid shape, he gains a jaws Strike. While in animal shape, he gains the effects of a 5th-rank casting of [[Spells/Animal Form|Animal Form]] to become a canine. He prefers fighting in hybrid shape.\n"
+    desc: "`pf2:1` (concentrate,polymorph) The Prince changes into his humanoid shape, hybrid shape, or wolf shape. While in hybrid shape, he gains a jaws Strike. While in animal shape, he gains the effects of a 5th-rank casting of [[Spells/Animal Form|Animal Form]] to become a canine. He prefers fighting in hybrid shape.\n\n* * *\n"
 
   - name: "Hunt Prey"
     desc: "`pf2:1` (concentrate) The Prince designates one or two targets he can see or hear as his prey. He gains a +2 circumstance bonus to Perception checks to [[Actions/Seek|Seek]] and [[Actions/Track|Track]] his prey. If he uses Hunt Prey against a third creature when he already has two designated, a prior creature of his choice loses the designation. His designation lasts until his next daily preparations."
@@ -94,14 +95,20 @@ attacks:
     desc: "  The Prince deals an extra 4d6 precision damage to [[Conditions/Off-Guard|Off-Guard]] creatures."
 
   - name: "Tear Fate"
-    desc: "`pf2:2` (curse,mental,misfortune,occult) **Requirements** The Prince of Wolves' previous action was a successful melee Strike\n**Effect** The Prince of Wolves twists his weapon in the wounds inflicted on the creature he just struck, then rips the weapon free. As he does so, he tears free fragments of that creature's fate, leaving them with ill fortune. The creature takes 12d6 mental damage (DC 38 Will check save); on a failure, the creature also becomes [[Conditions/Doomed 1|Doomed 1]] ([[Conditions/Doomed 1|Doomed 2]] on a critical failure). The creature is thereafter immune to Tear Fate."
+    desc: "`pf2:2` (curse,mental,misfortune,occult) **Requirements** The Prince of Wolves' previous action was a successful melee Strike\n* * *\n\n**Effect** The Prince of Wolves twists his weapon in the wounds inflicted on the creature he just struck, then rips the weapon free. As he does so, he tears free fragments of that creature's fate, leaving them with ill fortune. The creature takes 12d6 mental damage (DC 38 Will check save); on a failure, the creature also becomes [[Conditions/Doomed|Doomed 1]] ([[Conditions/Doomed|Doomed 2]] on a critical failure). The creature is thereafter immune to Tear Fate."
 
   - name: "Twin Parry"
-    desc: "`pf2:1`  **Requirements** The Prince is wielding two melee weapons, each in a different hand\n**Effect** The Prince gains a +1 circumstance bonus to AC until the start of his next turn, as long as he continues to meet this ability's requirement.\n[[Feat_Feature Effects/Effect_ Twin Parry|Effect: Twin Parry]]"
+    desc: "`pf2:1`  **Requirements** The Prince is wielding two melee weapons, each in a different hand\n* * *\n\n**Effect** The Prince gains a +1 circumstance bonus to AC until the start of his next turn, as long as he continues to meet this ability's requirement.\n\n[[Feat_Feature Effects/Effect_ Twin Parry|Effect: Twin Parry]]"
 
   - name: "Twin Takedown"
-    desc: "`pf2:1`  **Frequency** once per round\n**Requirements** The Prince is wielding two melee weapons, each in a different hand\n**Effect** The Prince makes two Strikes against his hunted prey, one with each of the required weapons. If both hit the same hunted prey, combine their damage for the purpose of its resistances and weaknesses. Apply his multiple attack penalty to each Strike normally."
+    desc: "`pf2:1`  **Frequency** once per round\n\n**Requirements** The Prince is wielding two melee weapons, each in a different hand\n* * *\n\n**Effect** The Prince makes two Strikes against his hunted prey, one with each of the required weapons. If both hit the same hunted prey, combine their damage for the purpose of its resistances and weaknesses. Apply his multiple attack penalty to each Strike normally."
  
+```
+
+```encounter-table
+name: The Prince of Wolves
+creatures:
+  - 1: The Prince of Wolves
 ```
 
 

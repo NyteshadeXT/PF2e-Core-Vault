@@ -6,6 +6,7 @@ cssClasses: pf2e
 aliases: "Compendium.pf2e.pathfinder-bestiary.Actor.2GRPw4VK6zfCS2Qw" 
 tags:
   - pf2e/creature/type/construct
+  - pf2eMonster
   - pf2e/creature/level/0
 statblock: inline
 name: "Homunculus"
@@ -24,12 +25,12 @@ level: "Creature 0"
 
 alignment: ""
 size: "tiny"
-trait_01: "construct"
+trait_01: [[construct]]
 modifier: 3
 perception:
   - name: "Perception"
     desc: "+3; Darkvision"
-languages: "Common"
+languages: "Common; (can&#x27;t speak any language), master link"
 skills:
   - name: "Skills"
     desc: "Acrobatics: +5, Stealth: +5"
@@ -60,8 +61,14 @@ attacks:
     desc: "`pf2:1` Jaws +7 (finesse, magical)\n__Damage__  1d4 piercing plus homunculus-poison"
 
   - name: "Homunculus Poison"
-    desc: " (poison) A homunculus has one dose of poison in a reservoir in its head. It can refill this poison from its reserves with an Interact action.\n**Saving Throw** DC 15 Fortitude check\n**Maximum Duration** 6 rounds\n**Stage 1** 1d6 poison and [[Conditions/Enfeebled 1|Enfeebled 1]]"
+    desc: " (poison) A homunculus has one dose of poison in a reservoir in its head. It can refill this poison from its reserves with an Interact action.\n\n**Saving Throw** DC 15 Fortitude check\n* * *\n\n**Maximum Duration** 6 rounds\n\n**Stage 1** 1d6 poison and [[Conditions/Enfeebled|Enfeebled 1]]"
  
+```
+
+```encounter-table
+name: Homunculus
+creatures:
+  - 1: Homunculus
 ```
 
 

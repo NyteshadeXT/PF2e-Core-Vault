@@ -131,15 +131,15 @@ At 1st level, you gain a number of proficiencies that represent your basic train
 
 ## Patron
 
-You weren’t born with the power to cast spells, nor have you spent years dedicated to worship, study, or uncovering mystical secrets. Your magic instead has been gifted to you by a potent being, one who knows that by empowering you so, you’ll further the being’s agenda in the world, whatever it may be. This entity is typically mysterious and distant, revealing little of their identity and motivations. They make their will known to you in abstract signs such as omens, dreams, or similar subtleties rather than words.
+You weren't born with the power to cast spells, nor have you spent years dedicated to worship, study, or uncovering mystical secrets. Your magic instead has been gifted to you by a potent being, one who knows that by empowering you so, you'll further the being's agenda in the world, whatever it may be. This entity is typically mysterious and distant, revealing little of their identity and motivations. They make their will known to you in abstract signs such as omens, dreams, or similar subtleties rather than words.
 
-Rather than interacting with you directly, your patron works through a familiar—a mystical creature that teaches you, serves as the conduit for your patron’s magic, and maybe even keeps an eye on you to ensure you’re furthering your patron’s nebulous ends.
+Rather than interacting with you directly, your patron works through a familiar—a mystical creature that teaches you, serves as the conduit for your patron's magic, and maybe even keeps an eye on you to ensure you're furthering your patron's nebulous ends.
 
-At 1st level, choose your patron, which determines your spellcasting tradition and grants you the skill for that tradition of magic, your first witch’s lesson and a unique familiar ability.
+At 1st level, choose your patron, which determines your spellcasting tradition and grants you the skill for that tradition of magic, your first witch's lesson and a unique familiar ability.
 
 ## Witch Spellcasting
 
-Using your familiar as a conduit, your patron provides you the power to cast spells. You are a spellcaster, and you can cast spells of your patron’s tradition using the Cast a Spell activity. As a witch, when you cast spells, your incantations might rhyme, your gestures might be as simple as an ominous pointing finger or a complex folk sign, and your familiar might even echo your words or movements slightly as your patron’s magic surges.
+Using your familiar as a conduit, your patron provides you the power to cast spells. You are a spellcaster, and you can cast spells of your patron's tradition using the Cast a Spell activity. As a witch, when you cast spells, your incantations might rhyme, your gestures might be as simple as an ominous pointing finger or a complex folk sign, and your familiar might even echo your words or movements slightly as your patron's magic surges.
 
 At 1st level, you can prepare up to two 1st-rank spells and five cantrips each morning from the spells your familiar knows. Prepared spells remain available to you until you cast them or until you prepare your spells again. The number of spells you can prepare each day is called your spell slots.
 
@@ -149,7 +149,7 @@ Some of your spells require you to attempt a spell attack to see how effective t
 
 ### **Heightening Spells**
 
-When you get spell slots of 2nd-rank and higher, you can fill those slots with stronger versions of lower-rank spells. This increases the spell’s rank, heightening it to match the spell slot. Many spells have specific improvements when they are heightened to certain ranks.
+When you get spell slots of 2nd-rank and higher, you can fill those slots with stronger versions of lower-rank spells. This increases the spell's rank, heightening it to match the spell slot. Many spells have specific improvements when they are heightened to certain ranks.
 
   
 
@@ -179,19 +179,19 @@ When you get spell slots of 2nd-rank and higher, you can fill those slots with s
 
 ### **Cantrips**
 
-Some of your spells are cantrips. A cantrip is a special type of spell that doesn’t use spell slots. You can cast a cantrip at will, any number of times per day. A cantrip is always automatically heightened to half your level rounded up—this is usually equal to the highest rank of witch spell slot you have. For example, as a 1st-level witch, your cantrips are 1st-rank spells, and as a 5th-level witch, your cantrips are 3rd-rank spells
+Some of your spells are cantrips. A cantrip is a special type of spell that doesn't use spell slots. You can cast a cantrip at will, any number of times per day. A cantrip is always automatically heightened to half your level rounded up—this is usually equal to the highest rank of witch spell slot you have. For example, as a 1st-level witch, your cantrips are 1st-rank spells, and as a 5th-level witch, your cantrips are 3rd-rank spells
 
 ### **Familiar**
 
-Your patron has sent you a familiar, a mystical creature that teaches you magic and facilitates your spells. Though as it’s a direct conduit between you and your patron, it’s more powerful than typical familiars. Your familiar gains two additional familiar abilities: one of these is a unique ability based on your patron and is always selected, and the other is an additional familiar ability that can be selected daily as normal. Your familiar gains another extra ability at 6th, 12th, and 18th levels
+Your patron has sent you a familiar, a mystical creature that teaches you magic and facilitates your spells. Though as it's a direct conduit between you and your patron, it's more powerful than typical familiars. Your familiar gains two additional familiar abilities: one of these is a unique ability based on your patron and is always selected, and the other is an additional familiar ability that can be selected daily as normal. Your familiar gains another extra ability at 6th, 12th, and 18th levels
 
-**Spells:** Your familiar is the source and repository of the spells your patron has bestowed upon you, and you must commune with your familiar to prepare your spells each day using your witch spellcasting. Your familiar starts off knowing 10 cantrips, five 1st-rank spells, and one additional spell determined by your patron’s initial lesson. You choose these spells from the common spells of the tradition determined by your patron or from other spells of that tradition you gain access to.
+**Spells:** Your familiar is the source and repository of the spells your patron has bestowed upon you, and you must commune with your familiar to prepare your spells each day using your witch spellcasting. Your familiar starts off knowing 10 cantrips, five 1st-rank spells, and one additional spell determined by your patron's initial lesson. You choose these spells from the common spells of the tradition determined by your patron or from other spells of that tradition you gain access to.
 
 Each time you gain a level, your patron teaches your familiar two new spells of any rank for which you have spell slots, chosen from common spells of your tradition or others you gain access to. Feats can also grant your familiar additional spells.
 
-**Learning Spells:** Your familiar can learn new spells independently of your patron. It can learn any spell on your tradition’s spell list by physically consuming a written version of that spell over the course of 1 hour. This can be a scroll of that spell, or you can prepare a written version using the Learn a Spell exploration activity. You and your familiar can use the Learn a Spell activity to teach your familiar a spell from another witch’s familiar. Both familiars must be present for the entirety of the activity, the spell must be on your spellcasting tradition’s spell list, and you must pay the usual cost for that activity, typically in the form of an offering to the other familiar’s patron. You can’t prepare spells from another witch’s familiar.
+**Learning Spells:** Your familiar can learn new spells independently of your patron. It can learn any spell on your tradition's spell list by physically consuming a written version of that spell over the course of 1 hour. This can be a scroll of that spell, or you can prepare a written version using the Learn a Spell exploration activity. You and your familiar can use the Learn a Spell activity to teach your familiar a spell from another witch's familiar. Both familiars must be present for the entirety of the activity, the spell must be on your spellcasting tradition's spell list, and you must pay the usual cost for that activity, typically in the form of an offering to the other familiar's patron. You can't prepare spells from another witch's familiar.
 
-**Undying**: If your familiar dies, your patron replaces it during your next daily preparations. The new familiar might be a duplicate or reincarnation of your former familiar or a new entity altogether, but it knows the same spells your former familiar knew regardless. Your familiar’s death doesn’t affect any spells you have already prepared.
+**Undying**: If your familiar dies, your patron replaces it during your next daily preparations. The new familiar might be a duplicate or reincarnation of your former familiar or a new entity altogether, but it knows the same spells your former familiar knew regardless. Your familiar's death doesn't affect any spells you have already prepared.
 
 ## Hexes
 
@@ -199,7 +199,7 @@ As a favored agent of your patron, you can invoke their power for a more direct 
 
 Hex spells are a type of focus spell. It costs 1 Focus Point to cast a focus spell, and you start with a focus pool of 1 Focus Point. You refill your focus pool during your daily preparations, and you can regain 1 Focus Point by spending 10 minutes using the Refocus activity to commune with your familiar. Focus spells are automatically heightened to half your level rounded up, much like cantrips.
 
-Focus spells don’t require spell slots, and you can’t cast them using spell slots. Certain feats give you more focus spells. The maximum Focus Points your focus pool can hold is equal to the number of focus spells you have, but it can never be more than 3 points. The full rules for focus spells appear in on page 298.
+Focus spells don't require spell slots, and you can't cast them using spell slots. Certain feats give you more focus spells. The maximum Focus Points your focus pool can hold is equal to the number of focus spells you have, but it can never be more than 3 points. The full rules for focus spells appear in on page 298.
 
 You learn your choice of the [[Spells/Patron's Puppet|Patron's Puppet]] hex or [[Spells/Phase Familiar|Phase Familiar]] hex, which let you command your familiar or defend it from harm, respectively. You learn most other hexes from witch lessons.
 
@@ -237,11 +237,11 @@ In addition to the ancestry feat you started with, you gain an ancestry feat at 
 
 ## Magical FortitudeLevel 5
 
-Your patron’s power boosts your physical resiliency. Your proficiency rank for Fortitude saves increases to expert.
+Your patron's power boosts your physical resiliency. Your proficiency rank for Fortitude saves increases to expert.
 
 ## Expert SpellcasterLevel 7
 
-You’ve learned to better control the power your patron has granted you. Your proficiency ranks for spell attack modifier and spell DC increase to expert.
+You've learned to better control the power your patron has granted you. Your proficiency ranks for spell attack modifier and spell DC increase to expert.
 
 ## Reflex ExpertiseLevel 9
 
@@ -265,7 +265,7 @@ You can inflict greater injuries with the weapons you know. You deal 2 additiona
 
 ## Master SpellcasterLevel 15
 
-You’ve achieved mastery over your patron’s magic. Your proficiency ranks for spell attack modifier and spell DC increase to master.
+You've achieved mastery over your patron's magic. Your proficiency ranks for spell attack modifier and spell DC increase to master.
 
 ## Will of the PupilLevel 17
 
@@ -273,11 +273,11 @@ Communion with your familiar has steeled your mental fortitude. Your proficiency
 
 ## Legendary SpellcasterLevel 19
 
-You’ve perfected your command of the magic your patron provides. Your proficiency ranks for spell attack modifier and spell DC increase to legendary.
+You've perfected your command of the magic your patron provides. Your proficiency ranks for spell attack modifier and spell DC increase to legendary.
 
 ## Patron's GiftLevel 19
 
-Your patron grants you the power to command incredible works of magic. You gain a single 10th-rank spell slot and can prepare a spell in that slot using witch spellcasting. Unlike with other spell slots, you can’t use 10th-rank slots with abilities that give you more spell slots or that let you cast spells without expending spell slots. You don’t gain more 10th-rank spells as you level up, but you can take the [[Feats/Patron's Truth|Patron's Truth]] feat to gain a second slot.
+Your patron grants you the power to command incredible works of magic. You gain a single 10th-rank spell slot and can prepare a spell in that slot using witch spellcasting. Unlike with other spell slots, you can't use 10th-rank slots with abilities that give you more spell slots or that let you cast spells without expending spell slots. You don't gain more 10th-rank spells as you level up, but you can take the [[Feats/Patron's Truth|Patron's Truth]] feat to gain a second slot.
 
 ## Patrons
 

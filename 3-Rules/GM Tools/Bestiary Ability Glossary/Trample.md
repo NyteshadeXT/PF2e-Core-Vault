@@ -18,7 +18,7 @@ license: ORC
 
 
 
-\[Listed Strike\], Reflex check
+\[Size\], \[Listed Strike\], Reflex check
 
 * * *
 

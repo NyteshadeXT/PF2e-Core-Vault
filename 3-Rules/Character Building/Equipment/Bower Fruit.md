@@ -13,7 +13,7 @@ license: OGL
 ---
 # Bower Fruit
 ## Item 13
-### [rare](rare "Rare Rarity Trait")[[consumable]][[cursed]][[primal]]
+### [rare](rare.md "Rare Rarity Trait")[[consumable]][[cursed]][[primal]]
 
 **Category** other; 
 **Price** 0 gp; 

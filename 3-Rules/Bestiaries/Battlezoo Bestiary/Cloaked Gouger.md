@@ -7,6 +7,7 @@ aliases: "Compendium.battlezoo-bestiary-pf2e.pf2e-battlezoo-bestiary.Actor.z1SK3
 tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/fey
+  - pf2eMonster
   - pf2e/creature/level/6
 statblock: inline
 name: "Cloaked Gouger"
@@ -25,8 +26,8 @@ level: "Creature 6"
 
 alignment: ""
 size: "Medium"
-trait_01: "evil"
-trait_02: "fey"
+trait_01: [[evil]]
+trait_02: [[fey]]
 modifier: 16
 perception:
   - name: "Perception"
@@ -34,7 +35,7 @@ perception:
 languages: "Common, Fey"
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +15, Athletics: +15, Intimidation: +13, Medicine: +14, Occultism: +14, Stealth: +13, "
+    desc: "Acrobatics: +15, Athletics: +15, Intimidation: +13, Medicine: +14, Occultism: +14, Stealth: +13"
 abilityMods: [5, 3, 4, 4, 2, 3]
 speed: 25 feet
 sourcebook: "_Battlezoo Bestiary_"
@@ -54,10 +55,10 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Dazzling Aura"
-    desc: " (aura,occult,visual) Aura 30 feet.\nA creature that starts its turn in the area must attempt a Fortitude save. On a failure, the creature is Dazzled for 1d4 rounds by the entrancing, unblinking eyes on the gouger's cloak.\nRegardless of the result of this save, the creature is immune to this cloaked gouger's dazzling aura for 24 hours."
+    desc: " (aura,occult,visual) [[Bestiary Ability Glossary/Aura|Aura]] 30 feet.\n\nA creature that starts its turn in the area must attempt a DC 22 Fortitude save. On a failure, the creature is [[Conditions/Dazzled|Dazzled]] for 1d4 rounds by the entrancing, unblinking eyes on the gouger's cloak.\n\nRegardless of the result of this save, the creature is immune to this cloaked gouger's dazzling aura for 24 hours."
 
   - name: "Unblinking"
-    desc: "  A cloaked gouger takes a -2 status penalty to saving throws against gaze attacks.\nIt can never use the Avert Gaze action."
+    desc: "  A cloaked gouger takes a -2 status penalty to saving throws against gaze attacks.\n\nIt can never use the [[Actions/Avert Gaze|Avert Gaze]] action."
 
 attacks:
   - name: ""
@@ -72,14 +73,20 @@ attacks:
     desc: "`pf2:1` Cloak +15 (nonlethal, reach 10 feet)\n__Damage__  2d6 + 7 bludgeoning plus grab"
 
   - name: "Cloak's Gaze"
-    desc: "`pf2:1` (concentrate,occult,visual) The eyes stitched to the gouger's cloak fix their gaze on a creature within 30 feet. That creature must attempt a Fortitude saving throw. On a failed save, the creature becomes Dazzled for 1 minute; if the creature was already dazzled, it is Blinded for 1 minute instead.\nA creature Grabbed by the gouger's cloak takes a -2 circumstance penalty to the save."
+    desc: "`pf2:1` (concentrate,occult,visual) The eyes stitched to the gouger's cloak fix their gaze on a creature within 30 feet. That creature must attempt a DC 24 Fortitude saving throw. On a failed save, the creature becomes [[Conditions/Dazzled|Dazzled]] for 1 minute; if the creature was already dazzled, it is [[Conditions/Blinded|Blinded]] for 1 minute instead.\n\nA creature [[Conditions/Grabbed|Grabbed]] by the gouger's cloak takes a -2 circumstance penalty to the save."
 
   - name: "Gouge Eyes"
-    desc: "`pf2:3`  **Requirements** The target is Unconscious, Immobilized, or Paralyzed and the cloaked gouger is wielding a dagger;\n**Effect** The cloaked gouger cuts out the target's eyes. The target must attempt a Fortitude save. On a failure, it is permanently Blinded."
+    desc: "`pf2:3`  **Requirements** The target is [[Conditions/Unconscious|Unconscious]], [[Conditions/Immobilized|Immobilized]], or [[Conditions/Paralyzed|Paralyzed]] and the cloaked gouger is wielding a dagger;\n\n**Effect** The cloaked gouger cuts out the target's eyes. The target must attempt a DC 24 Fortitude save. On a failure, it is permanently [[Conditions/Blinded|Blinded]]."
 
   - name: "Gouger Toxin"
-    desc: " (injury,poison) **Saving Throw** Fortitude;\n**Maximum Duration** 6 rounds;\n**Stage 1** 1d6 poison damage (1 round);\n**Stage 2** 1d6 poison damage and Stunned 1 (1 round);\n**Stage 3** 1d6 poison damage and Paralyzed (1 round)"
+    desc: " (injury,poison) **Saving Throw** DC 20 Fortitude;\n\n**Maximum Duration** 6 rounds;\n\n**Stage 1** 1d6 poison damage (1 round);\n\n**Stage 2** 1d6 poison damage and [[Conditions/Stunned|Stunned 1]] (1 round);\n\n**Stage 3** 1d6 poison damage and [[Conditions/Paralyzed|Paralyzed]] (1 round)"
  
+```
+
+```encounter-table
+name: Cloaked Gouger
+creatures:
+  - 1: Cloaked Gouger
 ```
 
 
@@ -92,7 +99,7 @@ Though undeniably wicked, gougers are said to be reasonable creatures, and on oc
 
 ## Gouger Cloak
 
-A gouger cloak makes an impressive prize for any adventurer, but it is simply a spectacular cloak as its innate magic dies with the gouger. However, skilled crafters of magic items can tap into the cloak's inherent magic and turn a gouger cloak into the much-prized _Cloak of Eyes_.
+A gouger cloak makes an impressive prize for any adventurer, but it is simply a spectacular cloak as its innate magic dies with the gouger. However, skilled crafters of magic items can tap into the cloak's inherent magic and turn a gouger cloak into the much-prized _[[Equipment/Cloak of Eyes|Cloak of Eyes]]_.
 
 ## Prized Eyes
 

@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/air
   - pf2e/creature/type/chaotic
   - pf2e/creature/type/elemental
+  - pf2eMonster
   - pf2e/creature/level/9
 statblock: inline
 name: "Gasper"
@@ -24,21 +25,21 @@ token: [[modules/battlezoo-bestiary-su-pf2e/art/Portraits/gasper.webp| ]]
 source: "Battlezoo Bestiary: Strange and Unusual"
 name: "Gasper"
 level: "Creature 9"
-rare_03: "Rare"
+rare_03: [[Rare]]
 alignment: ""
 size: "Medium"
-trait_01: "aberration"
-trait_02: "air"
-trait_03: "chaotic"
-trait_04: "elemental"
+trait_01: [[aberration]]
+trait_02: [[air]]
+trait_03: [[chaotic]]
+trait_04: [[elemental]]
 modifier: 16
 perception:
   - name: "Perception"
     desc: "+16; "
-languages: "Aklo, Sussuran"
+languages: "Aklo, Sussuran; can&#x27;t speak any language"
 skills:
   - name: "Skills"
-    desc: "Athletics: +20 (+24 to Jump), Elemental Plane of Air Lore: +16, Stealth: +16, "
+    desc: "Athletics: +20, Stealth: +16, Athletics: +20, Elemental Plane of Air Lore: +16, Stealth: +16"
 abilityMods: [6, 2, 6, -2, 2, 2]
 speed: 40 feet
 sourcebook: "_Battlezoo Bestiary: Strange and Unusual_"
@@ -55,15 +56,15 @@ abilities_top:
   - name: ""
 
   - name: "Breathsense"
-    desc: " (air) A gasper's only precise sense is its breathsense, which perceives breathing creatures. A breathing creature within the listed range who holds its breath and plugs its airways is Invisible to the gasper for as long as it hold its breath. To plug its airways in this way, a creature must have one hand free to fully plug its nose and cover its mouth."
+    desc: " (air) A gasper's only precise sense is its breathsense, which perceives breathing creatures. A breathing creature within the listed range who holds its breath and plugs its airways is [[undefined]] to the gasper for as long as it hold its breath. To plug its airways in this way, a creature must have one hand free to fully plug its nose and cover its mouth."
 
   - name: "Gasper's Plight"
-    desc: "  When a living creature within the breathsense range sees the gasper, the skin on the gasper's head crimps shut until no living creature can see it for 1 minute. The gasper immediately begins suffocating, compelling it to kill any living witnesses or escape in order to survive. A gasper can last for a total of 12 rounds before falling Unconscious. Gaspers don't lose any air rounds using their actions or abilities."
+    desc: "  When a living creature within the breathsense range sees the gasper, the skin on the gasper's head crimps shut until no living creature can see it for 1 minute. The gasper immediately begins suffocating, compelling it to kill any living witnesses or escape in order to survive. A gasper can last for a total of 12 rounds before falling [[undefined]]. Gaspers don't lose any air rounds using their actions or abilities."
 
 abilities_mid:
   - name: ""
   - name: "Sip of Air"
-    desc: "`pf2:r` (air) **Trigger** The gasper takes piercing or slashing damage\n**Effect** The gasper inhales air from the quickly sealing wound holes. It regains 2 rounds of air, but it loses its immunity to inhaled effects until the start of it's next turn."
+    desc: "`pf2:r` (air) **Trigger** The gasper takes piercing or slashing damage\n* * *\n\n**Effect** The gasper inhales air from the quickly sealing wound holes. It regains 2 rounds of air, but it loses its immunity to inhaled effects until the start of it's next turn."
 
 attacks:
   - name: ""
@@ -71,12 +72,18 @@ attacks:
   - name: "Melee"
     desc: "`pf2:1` Fist +21 (magical, reach 10 feet)\n__Damage__  2d12 + 12 bludgeoning"
 
-  - name: "Ranged"
+  - name: "Melee"
     desc: "`pf2:1` Spine +21 (agile, magical, reach 10 feet)\n__Damage__  2d8 + 12 piercing"
 
   - name: "Desperate Assault"
     desc: "`pf2:2`  The gasper Leaps up to its Speed and makes Strikes against up to two creatures in reach at the end of its movement. It doesn't increase its multiple attack penalty from these Strikes until after it makes both of them."
  
+```
+
+```encounter-table
+name: Gasper
+creatures:
+  - 1: Gasper
 ```
 
 

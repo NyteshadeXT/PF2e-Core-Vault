@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/earth
   - pf2e/creature/type/elemental
   - pf2e/creature/type/genie
+  - pf2eMonster
   - pf2e/creature/level/7
   - remaster
 statblock: inline
@@ -20,15 +21,16 @@ license: ORC
 columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
+token: [[modules/pf2e-tokens-bestiaries/portraits/elemental/genie/shaitan.webp| ]]
 source: "Pathfinder Monster Core"
 name: "Jabali"
 level: "Creature 7"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Large"
-trait_01: "earth"
-trait_02: "elemental"
-trait_03: "genie"
+trait_01: [[earth]]
+trait_02: [[elemental]]
+trait_03: [[genie]]
 modifier: 15
 perception:
   - name: "Perception"
@@ -76,6 +78,12 @@ attacks:
   - name: "[[Bestiary Ability Glossary/Push|Push 10 feet]]"
     desc: "`pf2:1`  "
  
+```
+
+```encounter-table
+name: Jabali
+creatures:
+  - 1: Jabali
 ```
 
 

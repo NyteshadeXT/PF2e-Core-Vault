@@ -17,7 +17,9 @@ license: OGL
 
 
 
-**Major Boon** An embodiment of freedom, you break fetters with ease. At the end of each of your turns, you can end one effect that is currently making you immobilized (including effects that make you immobilized by grabbing or restraining you) as a free action.
+An embodiment of freedom, you break fetters with ease.
+
+At the end of each of your turns, you can end one effect that is currently making you [[Conditions/Immobilized|Immobilized]] (including effects that make you immobilized by [[Conditions/Grabbed|Grabbing]] or [[Conditions/Restrained|Restraining]] you) as a free action.
 
 *Source: Pathfinder Lost Omens: Gods & Magic*
 *OGL*

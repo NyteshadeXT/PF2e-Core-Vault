@@ -4,38 +4,40 @@ title: "Divine Wrath"
 noteType: pf2eSpell
 cssclasses: pf2e,pf2e-spell
 tags:
+  - pf2eSpell
   - spell/level/4
   - trait/concentrate
   - trait/manipulate
   - trait/sanctified
   - trait/spirit
   - trait/common
+  - tradition/divine
+
   - remaster
 aliases: "Compendium.pf2e.spells-srd.Item.hVU9msO9yGkxKZ3J" 
+license: ORC
 ---
-# Divine Wrath  `pf2:2`  
-## Spell 4
-### [[concentrate]][[manipulate]][[sanctified]][[spirit]]
-**Traditions** [[divine]]
-**Range** 120 feet
-**Area** 20-foot burst
-**Saving Throw**  fortitude
-* * * 
-You channel the fury of divinity against your foes. You deal 4d10 spirit damage to enemies in the area, depending on their Fortitude save.
+```statblock
+name: "Divine Wrath  `pf2:2`"
+level: "Spell 4"
 
-* * *
-
-**Critical Success** The creature is unaffected.
-
-**Success** The creature takes half damage.
-
-**Failure** The creature takes full damage and is [[Conditions/Sickened 1|Sickened 1]].
-
-**Critical Failure** The creature takes full damage and is [[Conditions/Sickened 1|Sickened 2]]; while it's sickened, it's also [[Conditions/Slowed 1|Slowed 1]].
-
-* * *
-
-**Heightened (+1)** The damage increases by 1d10.
-
-*Source: Pathfinder Player Core*
-*ORC*
+trait_01: [[concentrate]]
+trait_02: [[manipulate]]
+trait_03: [[sanctified]]
+trait_04: [[spirit]]
+layout: Basic Pathfinder 2e Layout
+columns: 1
+columnWidth: x
+abilities_top:
+  - name: ""
+  - name: "Traditions"
+    desc: "divine"
+  - name: "Range"
+    desc: "120 feet; **Area** 20-foot burst"
+  - name: "Defense"
+    desc: " fortitude"
+abilities_mid:
+  - name: ""
+    desc: "You channel the fury of divinity against your foes. You deal 4d10 spirit damage to enemies in the area, depending on their Fortitude save.\n* * *\n\n**Critical Success** The creature is unaffected.\n\n**Success** The creature takes half damage.\n\n**Failure** The creature takes full damage and is [[Conditions/Sickened|Sickened 1]].\n\n**Critical Failure** The creature takes full damage and is [[Conditions/Sickened|Sickened 2]]; while it's sickened, it's also [[Conditions/Slowed|Slowed 1]].\n* * *\n\n**Heightened (+1)** The damage increases by 1d10."
+sourcebook: "_Pathfinder Player Core_"
+```

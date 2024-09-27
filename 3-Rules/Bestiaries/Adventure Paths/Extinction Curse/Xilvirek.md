@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/fiend
   - pf2e/creature/type/unholy
+  - pf2eMonster
   - pf2e/creature/level/12
 statblock: inline
 name: "Xilvirek"
@@ -23,13 +24,13 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #154: Siege of the Dinosaurs"
 name: "Xilvirek"
 level: "Creature 12"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Large"
-trait_01: "chaotic"
-trait_02: "evil"
-trait_03: "fiend"
-trait_04: "unholy"
+trait_01: [[chaotic]]
+trait_02: [[evil]]
+trait_03: [[fiend]]
+trait_04: [[unholy]]
 modifier: 23
 perception:
   - name: "Perception"
@@ -80,10 +81,10 @@ attacks:
     desc: "DC 28, attack +20; __6th __ (1 slots) _[[Spells/Teleport|Teleport (Self Only)]]_; __4th __ (1 slots) _[[Spells/Translocate|Dimension Door (At Will)]]_; __2nd __ (1 slots) _[[Spells/Darkness|Darkness (At Will)]]_"
 
   - name: "Disgorge Bile"
-    desc: "`pf2:2` (acid,inhaled) The xilvirek retches a small pool of debilitating, acrid bile onto itself. All creatures within 30 feet take 4d6 acid damage as they inhale the bile's noxious fumes (DC 32 Fortitude check save; on a failure, the creature is [[Conditions/Sickened 1|Sickened 1]], or [[Conditions/Sickened 1|Sickened 2]] on a critical failure). The xilvirek can't Disgorge Bile again for 1d4 rounds."
+    desc: "`pf2:2` (acid,inhaled) The xilvirek retches a small pool of debilitating, acrid bile onto itself. All creatures within 30 feet take 4d6 acid damage as they inhale the bile's noxious fumes (DC 32 Fortitude check save; on a failure, the creature is [[Conditions/Sickened|Sickened 1]], or [[Conditions/Sickened|Sickened 2]] on a critical failure). The xilvirek can't Disgorge Bile again for 1d4 rounds."
 
   - name: "Feasting Tentacles"
-    desc: "  The xilvirek has two tentacles on its back that it can use to suck the life from its prey. A creature that starts its turn [[Conditions/Grabbed|Grabbed]] by the xilvirek becomes [[Conditions/Drained 1|Drained 1]], and the xilvirek regains 20 HP. The drained value increases by 1 on each subsequent round that the creature starts its turn grabbed, but the xilvirek doesn't regain additional HP from draining the same creature more than once per day."
+    desc: "  The xilvirek has two tentacles on its back that it can use to suck the life from its prey. A creature that starts its turn [[Conditions/Grabbed|Grabbed]] by the xilvirek becomes [[Conditions/Drained|Drained 1]], and the xilvirek regains 20 healing HP. The drained value increases by 1 on each subsequent round that the creature starts its turn grabbed, but the xilvirek doesn't regain additional HP from draining the same creature more than once per day."
 
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
     desc: "`pf2:1`  "
@@ -91,6 +92,12 @@ attacks:
   - name: "[[Bestiary Ability Glossary/Knockdown|Knockdown]]"
     desc: "`pf2:1`  "
  
+```
+
+```encounter-table
+name: Xilvirek
+creatures:
+  - 1: Xilvirek
 ```
 
 

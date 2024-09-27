@@ -10,6 +10,7 @@ tags:
   - pf2e/creature/type/mummy
   - pf2e/creature/type/undead
   - pf2e/creature/type/unholy
+  - pf2eMonster
   - pf2e/creature/level/7
 statblock: inline
 name: "Mummy Valet"
@@ -27,19 +28,19 @@ level: "Creature 7"
 
 alignment: ""
 size: "Medium"
-trait_01: "evil"
-trait_02: "lawful"
-trait_03: "mummy"
-trait_04: "undead"
-trait_05: "unholy"
+trait_01: [[evil]]
+trait_02: [[lawful]]
+trait_03: [[mummy]]
+trait_04: [[undead]]
+trait_05: [[unholy]]
 modifier: 18
 perception:
   - name: "Perception"
     desc: "+18; Darkvision"
-languages: "Necril"
+languages: "Necril; any one ancient language"
 skills:
   - name: "Skills"
-    desc: "Athletics: +15, Stealth: +11"
+    desc: "Athletics: +17, Stealth: +13"
 abilityMods: [4, 0, 2, -2, 4, 2]
 speed: 20 feet
 sourcebook: "_Pathfinder #182: Graveclaw_"
@@ -61,7 +62,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Despair"
-    desc: " (aura,divine,emotion,fear,incapacitation,mental) 30 feet. Living creatures are [[Conditions/Frightened 1|Frightened 1]] while in a mummy guardian's despair aura. They can't naturally recover from this fear while in the area but recover instantly once they leave the area. When a creature first enters the area, it must succeed at a DC 22 Will check save (after taking the penalty from being frightened) or be [[Conditions/Paralyzed|Paralyzed]] for 1 round. The creature is then temporarily immune for 24 hours.\n[[Bestiary Effects/Effect_ Despair|Effect: Despair]]"
+    desc: " (aura,divine,emotion,fear,incapacitation,mental) 30 feet. Living creatures are [[Conditions/Frightened|Frightened 1]] while in a mummy guardian's despair aura. They can't naturally recover from this fear while in the area but recover instantly once they leave the area. When a creature first enters the area, it must succeed at a DC 22 Will check save (after taking the penalty from being frightened) or be [[Conditions/Paralyzed|Paralyzed]] for 1 round. The creature is then temporarily immune for 24 hours.\n\n[[Bestiary Effects/Effect_ Despair|Effect: Despair]]"
 
 attacks:
   - name: ""
@@ -70,8 +71,14 @@ attacks:
     desc: "`pf2:1` Fist +16 ()\n__Damage__  2d6 + 9 bludgeoning plus mummy-rot"
 
   - name: "Mummy Rot"
-    desc: " (curse,disease,divine,void) This disease and any damage from it can't be healed until this curse is removed. A creature killed by mummy rot turns to dust and can't be resurrected except by a 7th-rank [[Spells/Resurrect|Resurrect]] ritual or similar magic.\n**Saving Throw** DC 22 Fortitude check\n**Stage 1** carrier with no ill effect (1 minute)\n**Stage 2** 4d6 void damage and [[Conditions/Stupefied 1|Stupefied 1]] (1 day)"
+    desc: " (curse,disease,divine,void) This disease and any damage from it can't be healed until this curse is removed. A creature killed by mummy rot turns to dust and can't be resurrected except by a 7th-rank [[Spells/Resurrect|Resurrect]] ritual or similar magic.\n\n**Saving Throw** DC 22 Fortitude check\n* * *\n\n**Stage 1** carrier with no ill effect (1 minute)\n\n**Stage 2** 4d6 void damage and [[Conditions/Stupefied|Stupefied 1]] (1 day)"
  
+```
+
+```encounter-table
+name: Mummy Valet
+creatures:
+  - 1: Mummy Valet
 ```
 
 

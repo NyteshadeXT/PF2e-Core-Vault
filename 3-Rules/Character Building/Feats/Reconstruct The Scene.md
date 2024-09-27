@@ -1,6 +1,6 @@
 ---
 obsidianUIMode: preview
-title: "Reconstruct The Scene"
+title: "Reconstruct the Scene"
 cssclasses: pf2e,pf2e-spell
 tags:
   - trait/concentrate
@@ -12,7 +12,7 @@ tags:
 aliases: "Compendium.pf2e.feats-srd.Item.Bp02C07s4RTS4vsV"
 license: ORC
 ---
-# Reconstruct The Scene
+# Reconstruct the Scene
 ## Feat 16
 ### [[concentrate]][[investigator]][[rogue]]
 

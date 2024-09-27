@@ -17,7 +17,7 @@ license: OGL
 
 
 
-**Major Curse** Those who displease Gozreh are shunned by nature itself.
+Those who displease Gozreh are shunned by nature itself.
 
 All animals and nonsapient plant creatures are hostile to you, and any animal companion or familiar abandons you.
 

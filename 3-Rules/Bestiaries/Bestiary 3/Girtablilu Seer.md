@@ -6,6 +6,7 @@ cssClasses: pf2e
 aliases: "Compendium.pf2e.pathfinder-bestiary-3.Actor.DmQM0QTSPJ7YtpMg" 
 tags:
   - pf2e/creature/type/beast
+  - pf2eMonster
   - pf2e/creature/level/12
 statblock: inline
 name: "Girtablilu Seer"
@@ -24,7 +25,7 @@ level: "Creature 12"
 
 alignment: ""
 size: "Large"
-trait_01: "beast"
+trait_01: [[beast]]
 modifier: 25
 perception:
   - name: "Perception"
@@ -52,7 +53,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Divine Aegis"
-    desc: "`pf2:r` (divine) **Trigger** The girtablilu seer attempts a saving throw against a magical effect but hasn't rolled yet\n**Effect** The seer summons divine energy to protect themself at the cost of their other magical defenses. Until the start of their next turn, they gain a +1 circumstance bonus to saving throws against non-divine magical effects and a -1 circumstance penalty to saves against divine effects.\n[[Bestiary Effects/Effect_ Divine Aegis|Effect: Divine Aegis]]"
+    desc: "`pf2:r` (divine) **Trigger** The girtablilu seer attempts a saving throw against a magical effect but hasn't rolled yet\n* * *\n\n**Effect** The seer summons divine energy to protect themself at the cost of their other magical defenses. Until the start of their next turn, they gain a +1 circumstance bonus to saving throws against non-divine magical effects and a -1 circumstance penalty to saves against divine effects.\n\n[[Bestiary Effects/Effect_ Divine Aegis|Effect: Divine Aegis]]"
 
 attacks:
   - name: ""
@@ -64,20 +65,26 @@ attacks:
     desc: "`pf2:1` Stinger +24 (reach 10 feet)\n__Damage__  3d6 + 12 piercing plus girtablilu-venom"
 
   - name: "Divine Spontaneous Spells"
-    desc: "DC 33, attack +25; __6th __ (3 slots) _[[Spells/Blade Barrier|Blade Barrier]]_, _[[Spells/Heal|Heal]]_, _[[Spells/Spirit Blast|Spirit Blast]]_; __5th __ (3 slots) _[[Spells/Divine Wrath|Divine Wrath]]_, _[[Spells/Harm|Harm]]_, _[[Compendium.pf2e.spells-srd.Item.OyFCwQuw8XRazsNr|Remove Curse]]_; __4th __ (3 slots) _[[Spells/Unfettered Movement|Freedom of Movement]]_, _[[Spells/Cleanse Affliction|Neutralize Poison]]_, _[[Spells/Outcast's Curse|Outcast's Curse]]_; __3rd __ (3 slots) _[[Spells/Dream Message|Dream Message]]_, _[[Spells/Rune Trap|Glyph of Warding]]_, _[[Spells/Sanctified Ground|Sanctified Ground]]_; __2nd __ (3 slots) _[[Spells/Augury|Augury]]_, _[[Spells/Calm|Calm Emotions]]_, _[[Spells/Create Food|Create Food]]_; __1st __ (3 slots) _[[Spells/Create Water|Create Water]]_, _[[Spells/Cleanse Cuisine|Purify Food and Drink]]_, _[[Spells/Sanctuary|Sanctuary]]_\n__Cantrips__  __(6th)__ _[[Spells/Daze|Daze]]_, _[[Spells/Detect Magic|Detect Magic]]_, _[[Spells/Forbidding Ward|Forbidding Ward]]_, _[[Spells/Guidance|Guidance]]_, _[[Spells/Read Aura|Read Aura]]_"
+    desc: "DC 33, attack +25; __6th __ (3 slots) _[[Spells/Blade Barrier|Blade Barrier]]_, _[[Spells/Heal|Heal]]_, _[[Spells/Spirit Blast|Spirit Blast]]_; __5th __ (3 slots) _[[Spells/Divine Wrath|Divine Wrath]]_, _[[Spells/Harm|Harm]]_, _[[Compendium.pf2e.spells-srd.Item.OyFCwQuw8XRazsNr|Remove Curse]]_; __4th __ (3 slots) _[[Spells/Unfettered Movement|Freedom of Movement]]_, _[[Spells/Cleanse Affliction|Neutralize Poison]]_, _[[Spells/Outcast's Curse|Outcast's Curse]]_; __3rd __ (3 slots) _[[Spells/Dream Message|Dream Message]]_, _[[Spells/Rune Trap|Glyph of Warding]]_, _[[Spells/Anointed Ground|Sanctified Ground]]_; __2nd __ (3 slots) _[[Spells/Augury|Augury]]_, _[[Spells/Calm|Calm Emotions]]_, _[[Spells/Create Food|Create Food]]_; __1st __ (3 slots) _[[Spells/Create Water|Create Water]]_, _[[Spells/Cleanse Cuisine|Purify Food and Drink]]_, _[[Spells/Sanctuary|Sanctuary]]_\n__Cantrips__  __(6th)__ _[[Spells/Daze|Daze]]_, _[[Spells/Detect Magic|Detect Magic]]_, _[[Spells/Forbidding Ward|Forbidding Ward]]_, _[[Spells/Guidance|Guidance]]_, _[[Spells/Read Aura|Read Aura]]_"
 
   - name: "[[Bestiary Ability Glossary/Constrict|Constrict]]"
-    desc: "`pf2:1`  3d8 + 6 bludgeoning, DC 24 Fortitude check\n"
+    desc: "`pf2:1`  3d8+6 bludgeoning, DC 24 Fortitude check\n\n* * *\n"
 
   - name: "Desert Stride"
     desc: "  A girtablilu ignores natural difficult terrain in the desert."
 
   - name: "Girtablilu Venom"
-    desc: " (poison) **Saving Throw** DC 30 Fortitude check\n**Maximum Duration** 6 rounds\n**Stage 1** 2d6 poison damage and [[Conditions/Enfeebled 1|Enfeebled 1]] (1 round)\n**Stage 2** 3d6 poison damage and enfeebled 1 (1 round)\n**Stage 3** 3d6 poison damage and [[Conditions/Enfeebled 1|Enfeebled 2]] (1 round)"
+    desc: " (poison) **Saving Throw** DC 30 Fortitude check\n* * *\n\n**Maximum Duration** 6 rounds\n\n**Stage 1** 2d6 poison damage and [[Conditions/Enfeebled|Enfeebled 1]] (1 round)\n\n**Stage 2** 3d6 poison damage and enfeebled 1 (1 round)\n\n**Stage 3** 3d6 poison damage and [[Conditions/Enfeebled|Enfeebled 2]] (1 round)"
 
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
     desc: "`pf2:1`  "
  
+```
+
+```encounter-table
+name: Girtablilu Seer
+creatures:
+  - 1: Girtablilu Seer
 ```
 
 

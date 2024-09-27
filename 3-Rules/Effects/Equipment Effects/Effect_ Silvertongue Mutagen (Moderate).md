@@ -4,8 +4,9 @@ title: "Effect: Silvertongue Mutagen (Moderate)"
 cssclasses: pf2e,pf2e-spell
 tags:
   - trait/common
+  - remaster
 aliases: "Compendium.pf2e.equipment-effects.Item.v5Ht1V4MZvRKRBjL"
-license: OGL
+license: ORC
 ---
 # Effect: Silvertongue Mutagen (Moderate)
 ## Level 3
@@ -30,5 +31,5 @@ Unimplemented effects:
 
 *   Become untrained in one skill you're trained in
 
-*Source: Pathfinder Core Rulebook*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

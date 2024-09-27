@@ -12,6 +12,7 @@ tags:
   - pf2e/creature/type/humanoid
   - pf2e/creature/type/lawful
   - pf2e/creature/type/unholy
+  - pf2eMonster
   - pf2e/creature/level/5
 statblock: inline
 name: "Hellbound Jailer (5-6)"
@@ -26,16 +27,16 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Society Scenario #3-07: The Locked Lodge"
 name: "Hellbound Jailer (5-6)"
 level: "Creature 5"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Medium"
-trait_01: "devil"
-trait_02: "evil"
-trait_03: "fiend"
-trait_04: "human"
-trait_05: "humanoid"
-trait_06: "lawful"
-trait_07: "unholy"
+trait_01: [[devil]]
+trait_02: [[evil]]
+trait_03: [[fiend]]
+trait_04: [[human]]
+trait_05: [[humanoid]]
+trait_06: [[lawful]]
+trait_07: [[unholy]]
 modifier: 12
 perception:
   - name: "Perception"
@@ -78,8 +79,14 @@ attacks:
     desc: "DC 20, attack +12; __1st __  _[[Spells/Breathe Fire|Burning Hands]]_"
 
   - name: "Efficient Capture"
-    desc: "`pf2:3` (attack,manipulate) **Requirements** The jailer has manacles in hand and is adjacent to a creature\n**Effect** The jailer attempts to bind the creature's wrists or ankles with the manacles. If the jailer succeeds at an attack roll with a +12 modifier against the target's AC, they apply the manacles."
+    desc: "`pf2:3` (attack,manipulate) **Requirements** The jailer has manacles in hand and is adjacent to a creature\n* * *\n\n**Effect** The jailer attempts to bind the creature's wrists or ankles with the manacles. If the jailer succeeds at an attack roll with a +12 modifier against the target's AC, they apply the manacles."
  
+```
+
+```encounter-table
+name: Hellbound Jailer (5-6)
+creatures:
+  - 1: Hellbound Jailer (5-6)
 ```
 
 

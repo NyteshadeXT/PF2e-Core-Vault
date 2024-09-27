@@ -6,8 +6,9 @@ tags:
   - trait/misfortune
   - trait/common
   - category/defensive
+  - remaster
 aliases: "Compendium.pf2e.actionspf2e.Item.1LDOfV8jEka09eXr"
-license: OGL
+license: ORC
 ---
 # Deceptive Sidestep `pf2:r`
 
@@ -26,5 +27,5 @@ license: OGL
 
 You draw your enemy in and pull away at the last moment. The triggering opponent must roll again and take the second result. If your opponent is using Intimidation for initiative when this ability is used, they also take a -2 circumstance penalty to the second attack roll.
 
-*Source: Pathfinder Gamemastery Guide*
-*OGL*
+*Source: Pathfinder GM Core*
+*ORC*

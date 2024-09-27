@@ -13,7 +13,7 @@ license: OGL
 ---
 # Blindpepper Tube
 ## Item 1
-### [uncommon](uncommon "Uncommon Rarity Trait")[[alchemical]][[consumable]][[visual]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[alchemical]][[consumable]][[visual]]
 
 **Category** other; 
 **Price** 3 gp; 

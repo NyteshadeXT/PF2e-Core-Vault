@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/human
   - pf2e/creature/type/humanoid
   - pf2e/creature/type/lawful
+  - pf2eMonster
   - pf2e/creature/level/17
 statblock: inline
 name: "Scarlet Triad Boss"
@@ -26,10 +27,10 @@ level: "Creature 17"
 
 alignment: ""
 size: "Medium"
-trait_01: "evil"
-trait_02: "human"
-trait_03: "humanoid"
-trait_04: "lawful"
+trait_01: [[evil]]
+trait_02: [[human]]
+trait_03: [[humanoid]]
+trait_04: [[lawful]]
 modifier: 30
 perception:
   - name: "Perception"
@@ -57,7 +58,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Return Fire"
-    desc: "`pf2:r`  **Trigger** The Scarlet Triad boss is the target of a physical ranged attack\n**Effect** They gain a +4 circumstance bonus to AC against the triggering attack. If the attack misses and the boss has their shortbow in hand, the boss Strikes the attacker with their shortbow."
+    desc: "`pf2:r`  **Trigger** The Scarlet Triad boss is the target of a physical ranged attack\n* * *\n\n**Effect** They gain a +4 circumstance bonus to AC against the triggering attack. If the attack misses and the boss has their shortbow in hand, the boss Strikes the attacker with their shortbow."
 
 attacks:
   - name: ""
@@ -74,6 +75,12 @@ attacks:
   - name: "[[Bestiary Ability Glossary/Sneak Attack|Sneak Attack]]"
     desc: "  The scarlet triad boss deals 4d6 extra precision damage to [[Conditions/Off-Guard|Off-Guard]] creatures."
  
+```
+
+```encounter-table
+name: Scarlet Triad Boss
+creatures:
+  - 1: Scarlet Triad Boss
 ```
 
 

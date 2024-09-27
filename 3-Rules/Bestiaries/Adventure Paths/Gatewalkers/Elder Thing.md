@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/aberration
   - pf2e/creature/type/amphibious
   - pf2e/creature/type/lawful
+  - pf2eMonster
   - pf2e/creature/level/5
 statblock: inline
 name: "Elder Thing"
@@ -22,12 +23,12 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #189: Dreamers of the Nameless Spires"
 name: "Elder Thing"
 level: "Creature 5"
-rare_03: "Rare"
+rare_03: [[Rare]]
 alignment: ""
 size: "Medium"
-trait_01: "aberration"
-trait_02: "amphibious"
-trait_03: "lawful"
+trait_01: [[aberration]]
+trait_02: [[amphibious]]
+trait_03: [[lawful]]
 modifier: 14
 perception:
   - name: "Perception"
@@ -35,7 +36,7 @@ perception:
 languages: "Aklo, Common, Elder-thing, Migo, Yithian"
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +11, Arcana: +14, Astronomy Lore: +14, Athletics: +13, Crafting: +12, Medicine: +12, Occultism: +14, Survival: +12, Thievery: +11 (+13 to Disable a Device)"
+    desc: "Acrobatics: +11, Arcana: +14, Athletics: +13, Crafting: +12, Medicine: +12, Occultism: +14, Survival: +12, Thievery: +11, Astronomy Lore: +14"
 abilityMods: [4, 2, 4, 5, 3, 3]
 speed: 25 feet,  fly 20 feet,  swim 30 feet
 sourcebook: "_Pathfinder #189: Dreamers of the Nameless Spires_"
@@ -63,7 +64,7 @@ attacks:
     desc: "`pf2:1` Tentacle +13 (agile)\n__Damage__  2d6 + 6 bludgeoning plus grab"
 
   - name: "[[Bestiary Ability Glossary/Constrict|Constrict]]"
-    desc: "`pf2:1`  2d6 + 6 bludgeoning, DC 22 Fortitude check\n"
+    desc: "`pf2:1`  2d6+6 bludgeoning, DC 22 Fortitude check\n\n* * *\n"
 
   - name: "Hibernate"
     desc: "  The elder thing enters a state of hibernation after focusing its thoughts for 1 minute. While hibernating, an elder thing is [[Conditions/Unconscious|Unconscious]]. The elder thing can remain in hibernation as long as it wishes—while hibernating, it doesn't need to eat or drink, nor does it age. Time effectively stands still for a hibernating elder thing. Any effect that would normally rouse an unconscious creature can end an elder thing's hibernation, but the elder thing must attempt a DC 25 Will check save. On a success, the elder thing awakens in 2d4 rounds; otherwise it takes 1d4 days to wake from hibernation. The elder thing can set the length of its hibernation when it enters this state, so that it can awaken after a set amount of time has passed. When awakening in this way, the elder thing does so in only 1d4 rounds, with no Will save necessary."
@@ -74,6 +75,12 @@ attacks:
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
     desc: "`pf2:1`  "
  
+```
+
+```encounter-table
+name: Elder Thing
+creatures:
+  - 1: Elder Thing
 ```
 
 

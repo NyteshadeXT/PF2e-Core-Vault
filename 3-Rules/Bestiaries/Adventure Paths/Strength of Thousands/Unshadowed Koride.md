@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/human
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/19
 statblock: inline
 name: "Unshadowed Koride"
@@ -23,13 +24,13 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #174: Shadows of the Ancients"
 name: "Unshadowed Koride"
 level: "Creature 19"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Medium"
-trait_01: "chaotic"
-trait_02: "evil"
-trait_03: "human"
-trait_04: "humanoid"
+trait_01: [[chaotic]]
+trait_02: [[evil]]
+trait_03: [[human]]
+trait_04: [[humanoid]]
 modifier: 33
 perception:
   - name: "Perception"
@@ -37,7 +38,7 @@ perception:
 languages: "Common, Draconic, Fey, Iruxi, Kholo, Necril, Orcish"
 skills:
   - name: "Skills"
-    desc: "Academia Lore: +37, Crafting: +37, Deception: +33, Diplomacy: +33, Medicine: +35, Nature: +33, Stealth: +31, Survival: +33"
+    desc: "Crafting: +37, Deception: +33, Diplomacy: +33, Medicine: +35, Nature: +33, Stealth: +31, Survival: +33, Academia Lore: +37"
 abilityMods: [1, 3, 4, 6, 3, 4]
 speed: 25 feet
 sourcebook: "_Pathfinder #174: Shadows of the Ancients_"
@@ -57,7 +58,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Shadow's Displeasure"
-    desc: "  When Koride has fewer than 150 Hit Points, her shadow pulls at her essence to show the _Vesicant Egg's_ displeasure. She looks pained and confused, and she becomes [[Conditions/Clumsy 1|Clumsy 1]] and [[Conditions/Stupefied 1|Stupefied 1]] until healed to 150 Hit Points or more. These conditions increase to 2 when below 100 Hit Points. When below 50 Hit Points, she falls [[Conditions/Unconscious|Unconscious]]."
+    desc: "  When Koride has fewer than 150 Hit Points, her shadow pulls at her essence to show the _Vesicant Egg's_ displeasure. She looks pained and confused, and she becomes [[Conditions/Clumsy|Clumsy 1]] and [[Conditions/Stupefied|Stupefied 1]] until healed to 150 Hit Points or more. These conditions increase to 2 when below 100 Hit Points. When below 50 Hit Points, she falls [[Conditions/Unconscious|Unconscious]]."
 
   - name: "Vesicated Shadow"
     desc: "  Koride's shadow has become corrupted via the power of the _Vesicant Egg_. Her shredded shadow grants her some control over acid and shadows. She gains a +4 status bonus to resist acid and shadow effects."
@@ -75,8 +76,14 @@ attacks:
     desc: "DC 41, attack +33; __5th __  _[[Spells/Shadow Blast|Shadow Blast (Acid Only) (x2)]]_, _[[Spells/Shadow Siphon|Shadow Siphon (x2)]]_"
 
   - name: "Rupture Shadow"
-    desc: "`pf2:2` (acid,occult,shadow) Koride can create immense blisters on a creature's shadow, which immediately burst, dealing 20d6 acid damage. She targets a creature within 60 feet that is casting a shadow, which must attempt a DC 37 Will check save. Koride can't use Rupture Shadow again for 1d4 rounds.\n**Critical Success** The target is unaffected and becomes temporarily immune for 1 day.\n**Success** The target takes half damage. The bursting shadow deals 5 acid splash damage to all creatures within 5 feet of the target.\n**Failure** The target takes full damage, and the bursting shadow deals 10 acid splash damage.\n**Critical Failure** The target takes double damage, the bursting shadow deals 20 acid splash damage, and the target also takes 4d6 persistent acid damage."
+    desc: "`pf2:2` (acid,occult,shadow) Koride can create immense blisters on a creature's shadow, which immediately burst, dealing 20d6 acid damage. She targets a creature within 60 feet that is casting a shadow, which must attempt a DC 37 Will check save. Koride can't use Rupture Shadow again for 1d4 rounds.\n* * *\n\n**Critical Success** The target is unaffected and becomes temporarily immune for 1 day.\n\n**Success** The target takes half damage. The bursting shadow deals 5 acid splash damage to all creatures within 5 feet of the target.\n\n**Failure** The target takes full damage, and the bursting shadow deals 10 acid splash damage.\n\n**Critical Failure** The target takes double damage, the bursting shadow deals 20 acid splash damage, and the target also takes 4d6 persistent acid damage."
  
+```
+
+```encounter-table
+name: Unshadowed Koride
+creatures:
+  - 1: Unshadowed Koride
 ```
 
 

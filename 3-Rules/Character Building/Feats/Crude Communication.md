@@ -6,8 +6,9 @@ tags:
   - trait/archetype
   - trait/common
   - category/class
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.sbYDDDUWYN6Qx71k"
-license: OGL
+license: ORC
 ---
 # Crude Communication
 ## Feat 8
@@ -27,5 +28,5 @@ On a success, you understand the gist of the meaning and can communicate basic c
 
 If you're legendary in Society, you can communicate instantly without needing to attempt a Society check; even if you didn't know the medium of communication the creature uses (speech, sign language, and so on), you intuit this information as soon as they try to communicate.
 
-*Source: Pathfinder Advanced Player's Guide*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

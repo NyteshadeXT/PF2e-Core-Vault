@@ -4,6 +4,7 @@ title: "Calm"
 noteType: pf2eSpell
 cssclasses: pf2e,pf2e-spell
 tags:
+  - pf2eSpell
   - spell/level/2
   - trait/concentrate
   - trait/emotion
@@ -11,31 +12,37 @@ tags:
   - trait/manipulate
   - trait/mental
   - trait/common
+  - tradition/divine
+  - tradition/occult
+
   - remaster
 aliases: "Compendium.pf2e.spells-srd.Item.b515AZlB0sridKSq" 
+license: ORC
 ---
-# Calm  `pf2:2`  
-## Spell 2
-### [[concentrate]][[emotion]][[incapacitation]][[manipulate]][[mental]]
-**Traditions** [[divine]], [[occult]]
-**Range** 120 feet
-**Area** 10-foot burst
-**Saving Throw**  will
-**Duration** 1 minute
-* * * 
-You forcibly calm creatures in the area, soothing them into a nonviolent state; each creature must attempt a Will save.
+```statblock
+name: "Calm  `pf2:2`"
+level: "Spell 2"
 
-* * *
-
-**Critical Success** The creature is unaffected.
-
-**Success** Calming urges impose a -1 status penalty to the creature's attack rolls.
-
-**Failure** Any emotion effects that would affect the creature are suppressed and the creature can't use hostile actions. If the target is subject to hostility from any other creature, it ceases to be affected by _calm_.
-
-**Critical Failure** As failure, but hostility doesn't end the effect.
-
-[[Spell Effects/Spell Effect_ Calm|Spell Effect: Calm]]
-
-*Source: Pathfinder Player Core*
-*ORC*
+trait_01: [[concentrate]]
+trait_02: [[emotion]]
+trait_03: [[incapacitation]]
+trait_04: [[manipulate]]
+trait_05: [[mental]]
+layout: Basic Pathfinder 2e Layout
+columns: 1
+columnWidth: x
+abilities_top:
+  - name: ""
+  - name: "Traditions"
+    desc: "divine, occult"
+  - name: "Range"
+    desc: "120 feet; **Area** 10-foot burst"
+  - name: "Defense"
+    desc: " will"
+  - name: "Duration"
+    desc: "1 minute"
+abilities_mid:
+  - name: ""
+    desc: "You forcibly calm creatures in the area, soothing them into a nonviolent state; each creature must attempt a Will save.\n* * *\n\n**Critical Success** The creature is unaffected.\n\n**Success** Calming urges impose a -1 status penalty to the creature's attack rolls.\n\n**Failure** Any emotion effects that would affect the creature are suppressed and the creature can't use hostile actions. If the target is subject to hostility from any other creature, it ceases to be affected by _calm_.\n\n**Critical Failure** As failure, but hostility doesn't end the effect.\n\n[[Spell Effects/Spell Effect_ Calm|Spell Effect: Calm]]"
+sourcebook: "_Pathfinder Player Core_"
+```

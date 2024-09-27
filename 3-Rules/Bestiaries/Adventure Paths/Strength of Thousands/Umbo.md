@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.strength-of-thousands-bestiary.Actor.QkT3Yr6mdnhVNJE8"
 tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/fungus
+  - pf2eMonster
   - pf2e/creature/level/3
 statblock: inline
 name: "Umbo"
@@ -21,16 +22,16 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #169: Kindled Magic"
 name: "Umbo"
 level: "Creature 3"
-rare_03: "Rare"
+rare_03: [[Rare]]
 alignment: ""
 size: "Medium"
-trait_01: "evil"
-trait_02: "fungus"
+trait_01: [[evil]]
+trait_02: [[fungus]]
 modifier: 8
 perception:
   - name: "Perception"
     desc: "+8; Darkvision, Scent (Imprecise) 30 Feet"
-languages: "Sakvroth"
+languages: "Sakvroth; telepathy 100 feet (myceloids and those afflicted by purple pox only)"
 skills:
   - name: "Skills"
     desc: "Stealth: +9, Survival: +8"
@@ -61,14 +62,20 @@ attacks:
     desc: "`pf2:1` Fist +11 ()\n__Damage__  1d8 + 3 bludgeoning plus purple-pox"
 
   - name: "Emit Spores"
-    desc: "`pf2:1`  **Frequency** once per day\n**Effect** Umbo expels spores in a 10-foot burst centered on a corner of his own space. This cloud lasts until the start of the myceloid's next turn. Each creature that is in the cloud or enters it is exposed to purple pox."
+    desc: "`pf2:1`  **Frequency** once per day\n* * *\n\n**Effect** Umbo expels spores in a @Template[burst|distance:10] centered on a corner of his own space. This cloud lasts until the start of the myceloid's next turn. Each creature that is in the cloud or enters it is exposed to purple pox."
 
   - name: "Purple Pox"
-    desc: " (disease) Myceloids are immune\n**Saving Throw** DC 18 Fortitude check\n**Onset** 1 minute\n**Stage 1** 1d6 poison damage and [[Conditions/Stupefied 1|Stupefied 1]] (1 day)\n**Stage 2** 4d6 poison damage, [[Conditions/Stupefied 1|Stupefied 3]], and the creature is compelled to seek out the nearest myceloid colony-this compulsion is a mental emotion effect (1 day)\n**Stage 3** The creature dies. Over 24 hours, its corpse becomes bloated and bursts, releasing a new, fully grown myceloid."
+    desc: " (disease) Myceloids are immune\n\n**Saving Throw** DC 18 Fortitude check\n\n**Onset** 1 minute\n\n**Stage 1** 1d6 poison damage and [[Conditions/Stupefied|Stupefied 1]] (1 day)\n\n**Stage 2** 4d6 poison damage, [[Conditions/Stupefied|Stupefied 3]], and the creature is compelled to seek out the nearest myceloid colony-this compulsion is a mental emotion effect (1 day)\n\n**Stage 3** The creature dies. Over 24 hours, its corpse becomes bloated and bursts, releasing a new, fully grown myceloid."
 
   - name: "Spore Domination"
-    desc: "`pf2:2` (emotion,incapacitation,mental,primal) Umbo targets one creature affected by purple pox within 30 feet. That creature must attempt a DC 18 Will check save. It is then temporarily immune to spore domination for 10 minutes.\n**Critical Success** The target is unaffected.\n**Success** Until the end of its next turn, the target is helpful to myceloids and can't take hostile actions against them. If attacked by Umbo, the target is freed from this effect at the end of Umbo's turn.\n**Failure** As success, but for 1 minute.\n**Critical Failure** As success, but until the purple pox is cured."
+    desc: "`pf2:2` (emotion,incapacitation,mental,primal) Umbo targets one creature affected by purple pox within 30 feet. That creature must attempt a DC 18 Will check save. It is then temporarily immune to spore domination for 10 minutes.\n* * *\n\n**Critical Success** The target is unaffected.\n\n**Success** Until the end of its next turn, the target is helpful to myceloids and can't take hostile actions against them. If attacked by Umbo, the target is freed from this effect at the end of Umbo's turn.\n\n**Failure** As success, but for 1 minute.\n\n**Critical Failure** As success, but until the purple pox is cured."
  
+```
+
+```encounter-table
+name: Umbo
+creatures:
+  - 1: Umbo
 ```
 
 

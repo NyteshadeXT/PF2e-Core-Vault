@@ -14,7 +14,7 @@ license: ORC
 ---
 # Learn a Spell
 
-### [[concentrate]][[exploration]][[skill]]
+### [[3-Rules/Rule References/Concentrate]][[exploration]][[skill]]
 
 **Category** interaction; 
 

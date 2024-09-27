@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.pathfinder-bestiary-2.Actor.z39LYFGYmOsoGVSh"
 tags:
   - pf2e/creature/type/animal
   - pf2e/creature/type/aquatic
+  - pf2eMonster
   - pf2e/creature/level/1
 statblock: inline
 name: "Hippocampus"
@@ -25,12 +26,13 @@ level: "Creature 1"
 
 alignment: ""
 size: "Large"
-trait_01: "animal"
-trait_02: "aquatic"
+trait_01: [[animal]]
+trait_02: [[aquatic]]
 modifier: 6
 perception:
   - name: "Perception"
     desc: "+6; Darkvision, Scent (Imprecise) 30 Feet"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Acrobatics: +4, Athletics: +7"
@@ -63,6 +65,12 @@ attacks:
   - name: "Sudden Retreat"
     desc: "`pf2:2`  The hippocampus makes a tail Strike, then Swims with a +10-foot circumstance bonus to its swim Speed. It gains a +2 circumstance bonus to AC against reactions triggered by this movement."
  
+```
+
+```encounter-table
+name: Hippocampus
+creatures:
+  - 1: Hippocampus
 ```
 
 

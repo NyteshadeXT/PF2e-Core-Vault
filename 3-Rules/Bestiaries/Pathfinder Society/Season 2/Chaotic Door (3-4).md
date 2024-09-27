@@ -6,6 +6,7 @@ tags:
   - chaotic
   - magical
   - trap
+  - pf2eHazard
 
 source: Pathfinder Society Scenario #2-09: The Seven Secrets of Dacilane Academy
 aliases: "Compendium.pf2e.pfs-season-2-bestiary.Actor.pNPUo3lDaw7ZoDek" 
@@ -23,15 +24,15 @@ name: "Chaotic Door (3-4)"
 level: "Hazard 3"
 
 
-trait_01: "chaotic"
-trait_02: "magical"
-trait_03: "trap"
+trait_01: [[chaotic]]
+trait_02: [[magical]]
+trait_03: [[trap]]
 modifier: 13
 sourcebook: "_Pathfinder Society Scenario #2-09: The Seven Secrets of Dacilane Academy_"
 ac: 21
 armorclass:
   - name: AC
-    desc: "21; __Fort__ +12, __Ref__ +13, __Will__ +0"
+    desc: "21; __Fort__ +12, __Ref__ +13, "
 hp: 40
 health:
   - name: ""
@@ -53,9 +54,15 @@ attacks:
   - name: ""
 
   - name: "Slam"
-    desc: "`pf2:r` **Trigger** A creature touches any part of the door.\n**Effect** The door flies open with incredible force. The triggering creature must attempt a DC 22 Reflex check save as the door explodes outward into them, which deals 5d8 bludgeoning damage.\n**Critical Success** The creature takes no damage.\n**Success** The creature takes half damage.\n**Failure** The creature takes full damage and is knocked 10 feet toward the window behind them.\n**Critical Failure** The creature takes full damage and is knocked 20 feet toward the window. The window shatters and the PC falls 5 feet before colliding with the ground, taking an additional 2d6 piercing damage from passing through the broken glass."
+    desc: "`pf2:r` **Trigger** A creature touches any part of the door.\n* * *\n\n**Effect** The door flies open with incredible force. The triggering creature must attempt a DC 22 Reflex check save as the door explodes outward into them, which deals 5d8 bludgeoning damage.\n* * *\n\n**Critical Success** The creature takes no damage.\n\n**Success** The creature takes half damage.\n\n**Failure** The creature takes full damage and is knocked 10 feet toward the window behind them.\n\n**Critical Failure** The creature takes full damage and is knocked 20 feet toward the window. The window shatters and the PC falls 5 feet before colliding with the ground, taking an additional 2d6 piercing damage from passing through the broken glass."
 
 
 
+```
+
+```encounter-table
+name: Chaotic Door (3-4)
+creatures:
+  - 1: Chaotic Door (3-4)
 ```
 

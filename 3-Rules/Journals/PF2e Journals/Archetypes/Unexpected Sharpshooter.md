@@ -61,7 +61,7 @@ Your enemy lies in wait, lines up the perfect shot, and pulls the trigger... the
 
 Despite the devastation your weapons tend to inflict upon their targets or the destruction you might unleash upon an area, your foes still manage to walk away at the end of a fight-at least sometimes. You can choose to add the nonlethal trait to your ranged weapons, making the choice of whether to add the trait or not just before each Strike.
 
-## [[Feats/That Was a Close One, Huh\_|That Was a Close One, Huh?]] Feat 7
+## [[Feats/That Was a Close One, Huh_|That Was a Close One, Huh?]] Feat 7
 
 **Prerequisites** [[Feats/Unexpected Sharpshooter Dedication|Unexpected Sharpshooter Dedication]]
 

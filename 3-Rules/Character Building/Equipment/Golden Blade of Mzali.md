@@ -16,7 +16,7 @@ license: OGL
 ---
 # Golden Blade of Mzali
 ## Item 15
-### [rare](rare "Rare Rarity Trait")[[fire]][[3-Rules/Character Building/Spells/Light]][[magical]][[monk]][[thrown-20]]
+### [rare](rare "Rare Rarity Trait")[[fire]][[light]][[magical]][[monk]][[thrown-20]]
 
 |  |  |
 | -- | -- |

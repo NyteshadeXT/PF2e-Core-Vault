@@ -10,6 +10,7 @@ tags:
   - pf2e/creature/type/fiend
   - pf2e/creature/type/lawful
   - pf2e/creature/type/unholy
+  - pf2eMonster
   - pf2e/creature/level/9
 statblock: inline
 name: "Osyluth"
@@ -28,16 +29,16 @@ level: "Creature 9"
 
 alignment: ""
 size: "Large"
-trait_01: "devil"
-trait_02: "evil"
-trait_03: "fiend"
-trait_04: "lawful"
-trait_05: "unholy"
+trait_01: [[devil]]
+trait_02: [[evil]]
+trait_03: [[fiend]]
+trait_04: [[lawful]]
+trait_05: [[unholy]]
 modifier: 21
 perception:
   - name: "Perception"
     desc: "+21; Greater Darkvision"
-languages: "Diabolic, Draconic, Empyrean"
+languages: "Diabolic, Draconic, Empyrean; telepathy 100 feet"
 skills:
   - name: "Skills"
     desc: "Arcana: +18, Deception: +19, Intimidation: +21, Religion: +17, Stealth: +20"
@@ -80,20 +81,26 @@ attacks:
     desc: "_[[Spells/Diabolic Pact|Infernal Pact]]_"
 
   - name: "Osyluth Venom"
-    desc: " (poison) **Saving Throw** DC 25 Fortitude check\n**Maximum Duration** 6 rounds\n**Stage 1** 2d6 poison damage, [[Conditions/Enfeebled 1|Enfeebled 1]] (1 round)\n**Stage 2** 3d6 poison damage and enfeebled 1 (1 round)\n**Stage 3** 3d6 poison damage and [[Conditions/Enfeebled 1|Enfeebled 2]] (1 round). Once a creature reaches stage 3, it takes a -4 status penalty to Will saves against attempts to [[Actions/Coerce|Coerce]] it for 1 hour (this is a mental effect)"
+    desc: " (poison) **Saving Throw** DC 25 Fortitude check\n* * *\n\n**Maximum Duration** 6 rounds\n\n**Stage 1** 2d6 poison damage, [[Conditions/Enfeebled|Enfeebled 1]] (1 round)\n\n**Stage 2** 3d6 poison damage and enfeebled 1 (1 round)\n\n**Stage 3** 3d6 poison damage and [[Conditions/Enfeebled|Enfeebled 2]] (1 round). Once a creature reaches stage 3, it takes a -4 status penalty to Will saves against attempts to [[Actions/Coerce|Coerce]] it for 1 hour (this is a mental effect)"
 
   - name: "Quick Invisibility"
     desc: "  The osyluth can cast innate [[Spells/Invisibility|Invisibility]] using only 1 action."
 
   - name: "Sadistic Strike"
-    desc: "  An osyluth deals an extra 2d6 damage whenever they Strike an [[Conditions/Enfeebled 1|Enfeebled]], [[Conditions/Frightened 1|Frightened]], or [[Conditions/Prone|Prone]] creature."
+    desc: "  An osyluth deals an extra 2d6 damage whenever they Strike an [[Conditions/Enfeebled|Enfeebled]], [[Conditions/Frightened|Frightened]], or [[Conditions/Prone|Prone]] creature."
 
   - name: "Stygian Inquisitor"
     desc: "`pf2:1` (linguistic,mental) The osyluth telepathically questions a creature affected by [[Spells/Ring of Truth|Ring of Truth]]. After 1 round, if the creature intentionally refuses to answer the question, it takes 2d6 mental damage."
 
   - name: "Tail Sweep"
-    desc: "`pf2:1`  The osyluth sweeps their tail in a 15-foot cone. Each creature in the cone must succeed at a DC 26 Reflex check save or be knocked [[Conditions/Prone|Prone]]."
+    desc: "`pf2:1`  The osyluth sweeps their tail in a @Template[cone|distance:15]. Each creature in the cone must succeed at a DC 26 Reflex check save or be knocked [[Conditions/Prone|Prone]]."
  
+```
+
+```encounter-table
+name: Osyluth
+creatures:
+  - 1: Osyluth
 ```
 
 

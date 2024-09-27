@@ -3,6 +3,7 @@ obsidianUIMode: preview
 title: "Twin Psyche"
 cssclasses: pf2e,pf2e-spell
 tags:
+  - trait/psychic
   - trait/common
   - category/class
 aliases: "Compendium.pf2e.feats-srd.Item.PTAdxHcTS7TjyBTg"
@@ -10,7 +11,7 @@ license: OGL
 ---
 # Twin Psyche
 ## Feat 20
-### 
+### [[psychic]]
 
 **Category** class; 
 

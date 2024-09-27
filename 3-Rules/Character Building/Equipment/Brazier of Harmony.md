@@ -13,7 +13,7 @@ license: OGL
 ---
 # Brazier of Harmony
 ## Item 5
-### [[censer]][[3-Rules/Rule References/Fire]][[magical]]
+### [[censer]][[3-Rules/Rule References/Fire]][[3-Rules/Rule References/Magical]]
 
 
 **Price** 150 gp; 
@@ -30,7 +30,7 @@ The _brazier of harmony_ is a circular, orb-shaped censer etched with celebratin
 
 **Cost** incense worth at least 1 sp
 
-**Effect** When the incense is lit, pleasant, floral smoke surrounds the censer in a 20-foot emanation, creating a space of peace and harmony. Each creature that breathes the smoke is affected by 3rd-rank [[Spells/Calm|Calm]] and is then temporarily immune for 24 hours. The spell's effects end when the incense burns out.
+**Effect** When the incense is lit, pleasant, floral smoke surrounds the censer in a @Template\[emanation|distance:20\], creating a space of peace and harmony. Each creature that breathes the smoke is affected by 3rd-rank [[Spells/Calm|Calm]] and is then temporarily immune for 24 hours. The spell's effects end when the incense burns out.
 
 *Source: Pathfinder Rage of Elements*
 *OGL*

@@ -11,6 +11,7 @@ tags:
   - pf2e/creature/type/lawful
   - pf2e/creature/type/skelm
   - pf2e/creature/type/unholy
+  - pf2eMonster
   - pf2e/creature/level/10
 statblock: inline
 name: "Soul Skelm"
@@ -26,15 +27,15 @@ token: [[modules/pf2e-tokens-bestiaries/portraits/humanoid/soul-skelm.webp| ]]
 source: "Pathfinder Bestiary 3"
 name: "Soul Skelm"
 level: "Creature 10"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Medium"
-trait_01: "evil"
-trait_02: "fiend"
-trait_03: "humanoid"
-trait_04: "lawful"
-trait_05: "skelm"
-trait_06: "unholy"
+trait_01: [[evil]]
+trait_02: [[fiend]]
+trait_03: [[humanoid]]
+trait_04: [[lawful]]
+trait_05: [[skelm]]
+trait_06: [[unholy]]
 modifier: 19
 perception:
   - name: "Perception"
@@ -77,13 +78,13 @@ attacks:
     desc: "DC 29, attack +21; __7th __  _[[Spells/Interplanar Teleport|Plane Shift (Self Only) (Astral or Material Plane Only)]]_; __5th __  _[[Spells/Harm|Harm]]_, _[[Spells/Illusory Creature|Illusory Creature]]_, _[[Spells/Mind Probe|Mind Probe]]_, _[[Spells/Rewrite Memory|Modify Memory]]_; __4th __  _[[Spells/Translocate|Dimension Door (At Will)]]_; __2nd __  _[[Spells/Invisibility|Invisibility (At Will)]]_, _[[Spells/Silence|Silence (At Will)]]_"
 
   - name: "Bully the Departed"
-    desc: "`pf2:1` (auditory,emotion,mental,occult,unholy) The skelm draws upon the spirit of one of his deceased victims, tormenting their soul beyond the grave. Until the end of his next turn, the soul skelm gains regeneration 15 (deactivated by force or good), and he deals an extra 1d8 spirit damage on his Strikes.\n[[Bestiary Effects/Effect_ Bully the Departed|Effect: Bully the Departed]]"
+    desc: "`pf2:1` (auditory,emotion,mental,occult,unholy) The skelm draws upon the spirit of one of his deceased victims, tormenting their soul beyond the grave. Until the end of his next turn, the soul skelm gains regeneration 15 (deactivated by force or good), and he deals an extra 1d8 spirit damage on his Strikes.\n\n[[Bestiary Effects/Effect_ Bully the Departed|Effect: Bully the Departed]]"
 
   - name: "[[Bestiary Ability Glossary/Change Shape|Change Shape]]"
-    desc: "`pf2:1` (concentrate,occult,polymorph) The soul skelm can take on the appearance of any Medium male humanoid. This doesn't change his Speed or his attack and damage bonuses with his Strikes but might change the damage type his Strikes deal.\n"
+    desc: "`pf2:1` (concentrate,occult,polymorph) The soul skelm can take on the appearance of any Medium male humanoid. This doesn't change his Speed or his attack and damage bonuses with his Strikes but might change the damage type his Strikes deal.\n\n* * *\n"
 
   - name: "Isolating Lash"
-    desc: "`pf2:2` (illusion,occult) The soul skelm makes a melee Strike trailing a wave of shadowy illusions. The skelm is [[Conditions/Off-Guard|Off-Guard]] until the start of his next turn. If the Strike is successful, the skelm increases the number of damage dice by one, and the target must attempt a DC 29 Will check save.\nOn a failure, the target becomes [[Conditions/Invisible|Invisible]], inaudible, and otherwise imperceptible to its allies for 4 rounds, and it likewise can't see, hear, or otherwise perceive those allies.\nRegardless of the outcome, the creature is temporarily immune to Isolating Lash for 24 hours."
+    desc: "`pf2:2` (illusion,occult) The soul skelm makes a melee Strike trailing a wave of shadowy illusions. The skelm is [[Conditions/Off-Guard|Off-Guard]] until the start of his next turn. If the Strike is successful, the skelm increases the number of damage dice by one, and the target must attempt a DC 29 Will check save.\n\nOn a failure, the target becomes [[Conditions/Invisible|Invisible]], inaudible, and otherwise imperceptible to its allies for 4 rounds, and it likewise can't see, hear, or otherwise perceive those allies.\n\nRegardless of the outcome, the creature is temporarily immune to Isolating Lash for 24 hours."
 
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
     desc: "`pf2:1`  "
@@ -91,6 +92,12 @@ attacks:
   - name: "[[Bestiary Ability Glossary/Knockdown|Knockdown]]"
     desc: "`pf2:1`  "
  
+```
+
+```encounter-table
+name: Soul Skelm
+creatures:
+  - 1: Soul Skelm
 ```
 
 

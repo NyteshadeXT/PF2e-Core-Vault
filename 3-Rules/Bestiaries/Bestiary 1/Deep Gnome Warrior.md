@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.pathfinder-bestiary.Actor.b6qiHvyx6ymROTBL"
 tags:
   - pf2e/creature/type/gnome
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/2
 statblock: inline
 name: "Deep Gnome Warrior"
@@ -25,8 +26,8 @@ level: "Creature 2"
 
 alignment: ""
 size: "Small"
-trait_01: "gnome"
-trait_02: "humanoid"
+trait_01: [[gnome]]
+trait_02: [[humanoid]]
 modifier: 7
 perception:
   - name: "Perception"
@@ -71,6 +72,12 @@ attacks:
   - name: "Primal Innate Spells"
     desc: "DC 15, attack +7; __1st __  _[[Spells/Illusory Disguise|Illusory Disguise]]_"
  
+```
+
+```encounter-table
+name: Deep Gnome Warrior
+creatures:
+  - 1: Deep Gnome Warrior
 ```
 
 

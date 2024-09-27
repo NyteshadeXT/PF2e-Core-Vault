@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/chaotic
   - pf2e/creature/type/human
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/2
 statblock: inline
 name: "Prophet"
@@ -25,9 +26,9 @@ level: "Creature 2"
 
 alignment: ""
 size: "Medium"
-trait_01: "chaotic"
-trait_02: "human"
-trait_03: "humanoid"
+trait_01: [[chaotic]]
+trait_02: [[human]]
+trait_03: [[humanoid]]
 modifier: 10
 perception:
   - name: "Perception"
@@ -35,7 +36,7 @@ perception:
 languages: "Common"
 skills:
   - name: "Skills"
-    desc: "Diplomacy: +8, Performance: +8 (+10 to Spout Prophecy), Religion: +7, Survival: +7"
+    desc: "Diplomacy: +8, Performance: +8, Religion: +7, Survival: +7"
 abilityMods: [2, 1, 0, 1, 3, 4]
 speed: 25 feet
 sourcebook: "_Pathfinder Gamemastery Guide_"
@@ -72,6 +73,12 @@ attacks:
   - name: "Cleric Domain Spells"
     desc: "1 Focus Point, DC 18, attack +10; __1st __  _[[Spells/Read Fate|Read Fate]]_"
  
+```
+
+```encounter-table
+name: Prophet
+creatures:
+  - 1: Prophet
 ```
 
 

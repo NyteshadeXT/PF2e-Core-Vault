@@ -12,7 +12,7 @@ license: OGL
 ---
 # Feather Token (Fan)
 ## Item 4
-### [[consumable]][[magical]]
+### [[consumable]][[3-Rules/Rule References/Magical]]
 
 **Category** other; 
 **Price** 15 gp; 

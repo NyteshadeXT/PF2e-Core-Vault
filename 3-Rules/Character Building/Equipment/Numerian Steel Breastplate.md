@@ -21,7 +21,7 @@ license: OGL
 
 This +1 resilient breastplate is constructed from the salvaged armor plating of one of Numeria's large robots. It protects the wearer from harsh elements and common laser fire, granting the wearer fire resistance 5.
 
-**Activate** `pf2:1`command
+**Activate** `pf2:1` command
 
 **Frequency** once per day
 

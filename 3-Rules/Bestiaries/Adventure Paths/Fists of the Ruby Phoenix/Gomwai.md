@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/goblin
   - pf2e/creature/type/humanoid
   - pf2e/creature/type/lawful
+  - pf2eMonster
   - pf2e/creature/level/12
 statblock: inline
 name: "Gomwai"
@@ -22,12 +23,12 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #166: Despair on Danger Island"
 name: "Gomwai"
 level: "Creature 12"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Medium"
-trait_01: "goblin"
-trait_02: "humanoid"
-trait_03: "lawful"
+trait_01: [[goblin]]
+trait_02: [[humanoid]]
+trait_03: [[lawful]]
 modifier: 21
 perception:
   - name: "Perception"
@@ -70,8 +71,14 @@ attacks:
     desc: "  Gomwai's fist Strikes are treated as cold iron and silver and don't take penalties when making lethal attacks."
 
   - name: "Stunning Fist"
-    desc: " (incapacitation) When Gomwai targets the same creature with two Strikes from his Flurry of Blows, he can try to stun the creature. If either Strike hits and deals damage, the target must succeed at a DC 30 Fortitude check save or be [[Conditions/Stunned 1|Stunned 1]] (or [[Conditions/Stunned 1|Stunned 3]] on a critical failure)."
+    desc: " (incapacitation) When Gomwai targets the same creature with two Strikes from his Flurry of Blows, he can try to stun the creature. If either Strike hits and deals damage, the target must succeed at a DC 30 Fortitude check save or be [[Conditions/Stunned|Stunned 1]] (or [[Conditions/Stunned|Stunned 3]] on a critical failure)."
  
+```
+
+```encounter-table
+name: Gomwai
+creatures:
+  - 1: Gomwai
 ```
 
 

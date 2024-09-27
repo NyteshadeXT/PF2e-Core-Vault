@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/gnome
   - pf2e/creature/type/good
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/2
 statblock: inline
 name: "Lyrma Swampwalker"
@@ -26,10 +27,10 @@ level: "Creature 2"
 
 alignment: ""
 size: "Small"
-trait_01: "chaotic"
-trait_02: "gnome"
-trait_03: "good"
-trait_04: "humanoid"
+trait_01: [[chaotic]]
+trait_02: [[gnome]]
+trait_03: [[good]]
+trait_04: [[humanoid]]
 modifier: 11
 perception:
   - name: "Perception"
@@ -59,9 +60,15 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
+  - name: "Ranged"
     desc: "`pf2:1` Trident +11 (thrown 20 ft.)\n__Damage__  1d8 + 6 piercing"
  
+```
+
+```encounter-table
+name: Lyrma Swampwalker
+creatures:
+  - 1: Lyrma Swampwalker
 ```
 
 

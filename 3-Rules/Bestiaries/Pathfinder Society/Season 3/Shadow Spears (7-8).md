@@ -5,6 +5,7 @@ noteType: pf2eHazard
 tags:
   - magical
   - trap
+  - pf2eHazard
 
 source: Pathfinder Society Scenario #3-19: Mean Streets of Shadow Absalom
 aliases: "Compendium.pf2e.pfs-season-3-bestiary.Actor.oJiVHS6pZlJumvj5" 
@@ -22,8 +23,8 @@ name: "Shadow Spears (7-8)"
 level: "Hazard 7"
 
 
-trait_01: "magical"
-trait_02: "trap"
+trait_01: [[magical]]
+trait_02: [[trap]]
 modifier: 20
 sourcebook: "_Pathfinder Society Scenario #3-19: Mean Streets of Shadow Absalom_"
 perception:
@@ -44,9 +45,15 @@ attacks:
     desc: "Shadow Spear +22 () "
 
   - name: "Barrage of Spears"
-    desc: "`pf2:r` (arcane, illusion, shadow) **Trigger** A creature walks upon the mosaic.\n**Effect** The trap shoots a fusillade of shadow-wreathed spears out of the walls, making a Strike against each creature in area A1. Creatures who take damage from the spears must succeed at a DC 25 Will check save or become [[Conditions/Doomed 1|Doomed 1]] as the spears tear off part of their shadow."
+    desc: "`pf2:r` (arcane, illusion, shadow) **Trigger** A creature walks upon the mosaic.\n* * *\n\n**Effect** The trap shoots a fusillade of shadow-wreathed spears out of the walls, making a Strike against each creature in area A1. Creatures who take damage from the spears must succeed at a DC 25 Will check save or become [[Conditions/Doomed|Doomed 1]] as the spears tear off part of their shadow."
 
 
 
+```
+
+```encounter-table
+name: Shadow Spears (7-8)
+creatures:
+  - 1: Shadow Spears (7-8)
 ```
 

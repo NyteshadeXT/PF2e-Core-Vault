@@ -10,6 +10,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/undead
   - pf2e/creature/type/unholy
+  - pf2eMonster
   - pf2e/creature/level/14
 statblock: inline
 name: "Sparkeater"
@@ -24,18 +25,19 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #173: Doorway to the Red Star"
 name: "Sparkeater"
 level: "Creature 14"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Large"
-trait_01: "chaotic"
-trait_02: "dragon"
-trait_03: "evil"
-trait_04: "undead"
-trait_05: "unholy"
+trait_01: [[chaotic]]
+trait_02: [[dragon]]
+trait_03: [[evil]]
+trait_04: [[undead]]
+trait_05: [[unholy]]
 modifier: 26
 perception:
   - name: "Perception"
     desc: "+26; Darkvision"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Acrobatics: +22, Athletics: +28"
@@ -63,10 +65,10 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Boneshatter"
-    desc: "`pf2:r`  **Trigger** Sparkeater takes any amount of bludgeoning damage\n**Effect** Sparkeater's brittle bones shatter, spraying bone shards everywhere. Every creature within a 10-foot emanation of Sparkeater takes 7d6 piercing damage (DC 31 Reflex check save)."
+    desc: "`pf2:r`  **Trigger** Sparkeater takes any amount of bludgeoning damage\n* * *\n\n**Effect** Sparkeater's brittle bones shatter, spraying bone shards everywhere. Every creature within a 10-foot emanation of Sparkeater takes 7d6 piercing damage (DC 31 Reflex check save)."
 
   - name: "[[Bestiary Ability Glossary/Frightful Presence|Frightful Presence]]"
-    desc: " (aura,emotion,fear,mental) 90 feet. DC 31 Will check\n"
+    desc: " (aura,emotion,fear,mental) 90 feet. DC 31 Will check\n\n* * *\n"
 
 attacks:
   - name: ""
@@ -78,8 +80,14 @@ attacks:
     desc: "`pf2:1` Claw +30 (agile, magical)\n__Damage__  3d4 + 16 slashing 2d6 void"
 
   - name: "Breath Weapon"
-    desc: "`pf2:2` (divine,void) Sparkeater breathes a torrent of void energy that deals 16d6 void damage in a 40-foot cone (DC 34 Reflex check save).\nHe can't use Breath Weapon again for 1d4 rounds."
+    desc: "`pf2:2` (divine,void) Sparkeater breathes a torrent of void energy that deals 16d6 void damage in a 40-foot cone (DC 34 Reflex check save).\n\nHe can't use Breath Weapon again for 1d4 rounds."
  
+```
+
+```encounter-table
+name: Sparkeater
+creatures:
+  - 1: Sparkeater
 ```
 
 

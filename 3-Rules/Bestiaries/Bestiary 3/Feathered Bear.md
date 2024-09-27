@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/beast
   - pf2e/creature/type/incorporeal
   - pf2e/creature/type/spirit
+  - pf2eMonster
   - pf2e/creature/level/10
 statblock: inline
 name: "Feathered Bear"
@@ -26,14 +27,14 @@ level: "Creature 10"
 
 alignment: ""
 size: "Large"
-trait_01: "beast"
-trait_02: "incorporeal"
-trait_03: "spirit"
+trait_01: [[beast]]
+trait_02: [[incorporeal]]
+trait_03: [[spirit]]
 modifier: 18
 perception:
   - name: "Perception"
     desc: "+18; Darkvision, Scent (Imprecise) 60 Feet"
-languages: "Common, Fey"
+languages: "Common, Fey; tongues"
 skills:
   - name: "Skills"
     desc: "Athletics: +23, Intimidation: +20, Survival: +16"
@@ -53,15 +54,15 @@ abilities_top:
   - name: ""
 
   - name: "Bond with Mortal"
-    desc: "`pf2:2` (mental,primal) **Frequency** once per day\n**Effect** The spirit guide forms a bond with a mortal creature. While the bond exists, the spirit guide increases their current and maximum Hit Points by 20, gains a +2 status bonus to their attack and damage rolls, and can communicate telepathically with the bonded mortal as long as the two beings are on the same plane.\nThe spirit guide can only be bonded with one mortal at a time, and they can take this action again to end the bond or to form a new bond (which also ends the old bond). The bond also ends if the spirit guide or the mortal dies.\nThis bond strengthens the spirit guide's connection to the Material Plane. While bonded, the spirit guide loses the incorporeal and spirit traits, loses their immunities and resistances, and changes their Strikes to deal the appropriate physical damage (typically piercing or slashing) instead of force damage."
+    desc: "`pf2:2` (mental,primal) **Frequency** once per day\n* * *\n\n**Effect** The spirit guide forms a bond with a mortal creature. While the bond exists, the spirit guide increases their current and maximum Hit Points by 20, gains a +2 status bonus to their attack and damage rolls, and can communicate telepathically with the bonded mortal as long as the two beings are on the same plane.\n\nThe spirit guide can only be bonded with one mortal at a time, and they can take this action again to end the bond or to form a new bond (which also ends the old bond). The bond also ends if the spirit guide or the mortal dies.\n\nThis bond strengthens the spirit guide's connection to the Material Plane. While bonded, the spirit guide loses the incorporeal and spirit traits, loses their immunities and resistances, and changes their Strikes to deal the appropriate physical damage (typically piercing or slashing) instead of force damage."
 
 abilities_mid:
   - name: ""
   - name: "Avenging Claws"
-    desc: "`pf2:r`  **Trigger** A creature within 10 feet damages the feathered bear's ally with a melee attack\n**Effect** The feathered bear immediately Steps toward the triggering attacker and makes a claws Strike."
+    desc: "`pf2:r`  **Trigger** A creature within 10 feet damages the feathered bear's ally with a melee attack\n* * *\n\n**Effect** The feathered bear immediately Steps toward the triggering attacker and makes a claws Strike."
 
   - name: "Guardian's Aegis"
-    desc: " (aura,primal) 30 feet. All allies within 30 feet of the feathered bear gain a +1 status bonus to saves against magical effects. The bonus increases to +2 if the effect originated from a demon or other chaotic evil fiend.\n[[Bestiary Effects/Effect_ Guardian's Aegis|Effect: Guardian's Aegis]]"
+    desc: " (aura,primal) 30 feet. All allies within 30 feet of the feathered bear gain a +1 status bonus to saves against magical effects. The bonus increases to +2 if the effect originated from a demon or other chaotic evil fiend.\n\n[[Bestiary Effects/Effect_ Guardian's Aegis|Effect: Guardian's Aegis]]"
 
 attacks:
   - name: ""
@@ -76,10 +77,10 @@ attacks:
     desc: "DC 27, attack +19; __3rd __  _[[Spells/Oaken Resilience|Barkskin]]_, _[[Spells/Environmental Endurance|Endure Elements]]_, _[[Spells/Haste|Haste]]_, _[[Spells/Jump|Jump]]_, _[[Spells/Tailwind|Longstrider]]_\n__Constant__  __(5th)__ _[[Spells/Truespeech|Tongues]]_"
 
   - name: "Bonded Strike"
-    desc: "`pf2:2`  **Requirements** The spirit guide is currently Bonded with a Mortal\n**Effect** The spirit guide makes a jaws Strike. If this attack hits, the bonded mortal can spend their reaction to Strike the same target."
+    desc: "`pf2:2`  **Requirements** The spirit guide is currently Bonded with a Mortal\n* * *\n\n**Effect** The spirit guide makes a jaws Strike. If this attack hits, the bonded mortal can spend their reaction to Strike the same target."
 
   - name: "Feathered Charge"
-    desc: "`pf2:2`  The feathered bear Strides and makes a Strike at the end of that movement.\nDuring the Stride, the feathered bear ignores difficult terrain and greater difficult terrain, and they can move across air as easily as solid ground. If the feathered bear doesn't end their movement on solid ground, they fall as soon as the Strike is completed."
+    desc: "`pf2:2`  The feathered bear Strides and makes a Strike at the end of that movement.\n\nDuring the Stride, the feathered bear ignores difficult terrain and greater difficult terrain, and they can move across air as easily as solid ground. If the feathered bear doesn't end their movement on solid ground, they fall as soon as the Strike is completed."
 
   - name: "Mauler"
     desc: "  The feathered bear gains a +4 circumstance bonus to damage rolls against creatures they have [[Conditions/Grabbed|Grabbed]]."
@@ -87,6 +88,12 @@ attacks:
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
     desc: "`pf2:1`  "
  
+```
+
+```encounter-table
+name: Feathered Bear
+creatures:
+  - 1: Feathered Bear
 ```
 
 

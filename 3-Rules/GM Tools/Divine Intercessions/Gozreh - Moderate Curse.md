@@ -17,11 +17,11 @@ license: OGL
 
 
 
-**Moderate Curse** The current of the waves constantly fights against you, putting you at risk of drowning any time you must Swim.
+The current of the waves constantly fights against you, putting you at risk of drowning any time you must [[Actions/Swim|Swim]].
 
-You lose any [[Actions/Swim|Swim]] Speed you have, unless it's your only Speed, in which case you take a -20-foot status penalty to your swim Speed.
+You lose any swim Speed you have, unless it's your only Speed, in which case you take a -20-foot status penalty to your swim Speed.
 
-When you roll an Athletics check to [[Actions/Swim|Swim]], you always use the outcome for one degree of success worse than the result of your roll.
+When you roll an Athletics check to Swim, you always use the outcome for one degree of success worse than the result of your roll.
 
 *Source: Pathfinder Lost Omens: Gods & Magic*
 *OGL*

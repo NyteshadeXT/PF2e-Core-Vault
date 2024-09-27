@@ -11,7 +11,7 @@ license: OGL
 ---
 # Perpetual Potency (Toxicologist)
 ## Feat 11
-### [[alchemist]]
+### [[3-Rules/trait_reference/alchemist]]
 
 **Category** classfeature; 
 

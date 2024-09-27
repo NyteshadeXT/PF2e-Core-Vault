@@ -17,7 +17,9 @@ license: OGL
 
 
 
-**Major Boon** Gozreh has blessed you with their wind in your stride. You gain a +30-foot status bonus to your Speeds, and you gain a [[Actions/Fly|Fly]] Speed equal to your land Speed.
+Gozreh has blessed you with their wind in your stride.
+
+You gain a +30-foot status bonus to your Speeds, and you gain a fly Speed equal to your land Speed.
 
 *Source: Pathfinder Lost Omens: Gods & Magic*
 *OGL*

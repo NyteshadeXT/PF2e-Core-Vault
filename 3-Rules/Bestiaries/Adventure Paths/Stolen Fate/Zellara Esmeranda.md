@@ -11,6 +11,7 @@ tags:
   - pf2e/creature/type/incorporeal
   - pf2e/creature/type/spirit
   - pf2e/creature/type/undead
+  - pf2eMonster
   - pf2e/creature/level/14
 statblock: inline
 name: "Zellara Esmeranda"
@@ -25,15 +26,15 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #192: Worst of All Possible Worlds"
 name: "Zellara Esmeranda"
 level: "Creature 14"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Medium"
-trait_01: "chaotic"
-trait_02: "ghost"
-trait_03: "good"
-trait_04: "incorporeal"
-trait_05: "spirit"
-trait_06: "undead"
+trait_01: [[chaotic]]
+trait_02: [[ghost]]
+trait_03: [[good]]
+trait_04: [[incorporeal]]
+trait_05: [[spirit]]
+trait_06: [[undead]]
 modifier: 27
 perception:
   - name: "Perception"
@@ -41,7 +42,7 @@ perception:
 languages: "Common, Shoanti, Varisian"
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +26, Diplomacy: +28, Fortune-Telling Lore: +26, Occultism: +28, Performance: +26"
+    desc: "Acrobatics: +26, Diplomacy: +28, Occultism: +28, Performance: +26, Fortune-Telling Lore: +26"
 abilityMods: [-5, 6, 2, 4, 5, 6]
 speed:  fly 25 feet
 sourcebook: "_Pathfinder #192: Worst of All Possible Worlds_"
@@ -84,14 +85,20 @@ attacks:
     desc: "DC 34, attack +26; __7th __  _[[Spells/Interplanar Teleport|Plane Shift]]_; __6th __  _[[Spells/Teleport|Teleport (At Will, Self Only)]]_, _[[Spells/Truesight|True Seeing]]_; __5th __  _[[Spells/Wave of Despair|Crushing Despair]]_, _[[Spells/Sending|Sending]]_; __4th __  _[[Spells/Confusion|Confusion]]_, _[[Spells/Read Omens|Read Omens]]_; __3rd __  _[[Spells/Dispel Magic|Dispel Magic]]_, _[[Spells/Hypercognition|Hypercognition]]_; __2nd __  _[[Spells/Augury|Augury]]_, _[[Spells/Telekinetic Maneuver|Telekinetic Maneuver]]_; __1st __  _[[Spells/Command|Command]]_, _[[Spells/Mindlink|Mindlink]]_\n__Cantrips__  __(7th)__ _[[Spells/Detect Magic|Detect Magic]]_, _[[Spells/Ghost Sound|Ghost Sound]]_, _[[Spells/Telekinetic Hand|Mage Hand]]_, _[[Spells/Prestidigitation|Prestidigitation]]_, _[[Spells/Read Aura|Read Aura]]_, _[[Spells/Telekinetic Projectile|Telekinetic Projectile]]_"
 
   - name: "Flurry of Cards"
-    desc: "`pf2:2`  Zellara unleashes a barrage of harrow cards that deals 7d6 void damage in a 30-foot cone (DC 34 Reflex check save)."
+    desc: "`pf2:2`  Zellara unleashes a barrage of harrow cards that deals 7d6 void damage in a @Template[cone|distance:30] (DC 34 Reflex check save)."
 
   - name: "Harrow Binding"
-    desc: "`pf2:3` (occult) **Requirements** Zellara is within 120 feet of a harrow card or harrow deck\n**Effect** Zellara intentionally binds herself to a harrow card or deck she can sense. While bound in this way, she grants her Stack the Deck ability to anyone carrying the bound card or deck. The trigger and effect for Stack the Deck changes to affect the creature carrying the bound item. She can still Stack the Deck for herself while bound. Zellara can unbind herself from the item as an action, which has the concentrate trait."
+    desc: "`pf2:3` (occult) **Requirements** Zellara is within 120 feet of a harrow card or harrow deck\n* * *\n\n**Effect** Zellara intentionally binds herself to a harrow card or deck she can sense. While bound in this way, she grants her Stack the Deck ability to anyone carrying the bound card or deck. The trigger and effect for Stack the Deck changes to affect the creature carrying the bound item. She can still Stack the Deck for herself while bound. Zellara can unbind herself from the item as an action, which has the concentrate trait."
 
   - name: "Stack the Deck"
-    desc: "`pf2:r` (divine,fortune,occult) **Trigger** Zellara is about to attempt a saving throw\n**Effect** Zellara looks to her immediate future and determines the most favorable outcome for her. She gains a +4 circumstance bonus to the triggering saving throw. If she rolls a critical failure on her saving throw, she can reroll the check, but does so without the bonus."
+    desc: "`pf2:r` (divine,fortune,occult) **Trigger** Zellara is about to attempt a saving throw\n* * *\n\n**Effect** Zellara looks to her immediate future and determines the most favorable outcome for her. She gains a +4 circumstance bonus to the triggering saving throw. If she rolls a critical failure on her saving throw, she can reroll the check, but does so without the bonus."
  
+```
+
+```encounter-table
+name: Zellara Esmeranda
+creatures:
+  - 1: Zellara Esmeranda
 ```
 
 

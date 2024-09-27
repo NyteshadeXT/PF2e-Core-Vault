@@ -6,6 +6,7 @@ cssClasses: pf2e
 aliases: "Compendium.pf2e.pfs-season-1-bestiary.Actor.7467YYEHyLkJzXvU" 
 tags:
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/1
 statblock: inline
 name: "Technic Zombie (3-4)"
@@ -23,11 +24,12 @@ level: "Creature 1"
 
 alignment: ""
 size: "Medium"
-trait_01: "humanoid"
+trait_01: [[humanoid]]
 modifier: 4
 perception:
   - name: "Perception"
     desc: "+4; Darkvision"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Athletics: +9"
@@ -55,8 +57,14 @@ attacks:
     desc: "`pf2:1` Fist +8 (reach 10 feet)\n__Damage__  1d10 + 4 bludgeoning plus improved-push"
 
   - name: "Voltaic Surge"
-    desc: "`pf2:r` (electricity) **Trigger** The technic zombie critically hits a creature with a fist Strike\n**Effect** The Technic zombie releases a jolt of electricity through its fist, dealing 1d8 electricity damage to the target. Additionally, the target becomes [[Conditions/Clumsy 1|Clumsy 2]] for 1 round (DC 15 Reflex check negates)\n**Frequency** once per minute"
+    desc: "`pf2:r` (electricity) **Trigger** The technic zombie critically hits a creature with a fist Strike\n* * *\n\n**Effect** The Technic zombie releases a jolt of electricity through its fist, dealing 1d8 electricity damage to the target. Additionally, the target becomes [[Conditions/Clumsy|Clumsy 2]] for 1 round (DC 15 Reflex check negates)\n\n**Frequency** once per minute"
  
+```
+
+```encounter-table
+name: Technic Zombie (3-4)
+creatures:
+  - 1: Technic Zombie (3-4)
 ```
 
 

@@ -26,6 +26,6 @@ tags:
 
 # You made 'em Tougher
 
-> The target gains [[Other Effects/Effect\_ Resistance 5 to all damage|Resistance 5 to all damage]] until the start of its next turn.
+> The target gains [[Other Effects/Effect_ Resistance 5 to all damage|Resistance 5 to all damage]] until the start of its next turn.
 
 `Spell`

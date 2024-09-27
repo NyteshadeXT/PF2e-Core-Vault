@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.sky-kings-tomb-bestiary.Actor.FQwprKNkOjmqYQCO"
 tags:
   - pf2e/creature/type/construct
   - pf2e/creature/type/mindless
+  - pf2eMonster
   - pf2e/creature/level/7
 statblock: inline
 name: "Crimson Worm Statue"
@@ -21,15 +22,16 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #194: Cult of the Cave Worm"
 name: "Crimson Worm Statue"
 level: "Creature 7"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Large"
-trait_01: "construct"
-trait_02: "mindless"
+trait_01: [[construct]]
+trait_02: [[mindless]]
 modifier: 13
 perception:
   - name: "Perception"
     desc: "+13; Darkvision"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Athletics: +17"
@@ -66,8 +68,14 @@ attacks:
     desc: "`pf2:2`  The crimson worm statue makes a Strike against each creature in its reach. It can strike up to once with its jaws and any number of times with its tail. Each attack counts toward the worm's multiple attack penalty, but the multiple attack penalty doesn't increase until after it makes all its attacks."
 
   - name: "Vomit Worms"
-    desc: "`pf2:2`  **Frequency** once per day\n**Effect** The statue disgorges a [[Bestiary 3/Bore Worm Swarm|Bore Worm Swarm]] into an adjacent 10-foot-by-10-foot space. Creatures in the swarm's area are immediately affected by the bore worm swarm's Swarming Bites, after which the bore worm swarm rolls initiative and acts independently before disappearing after 1d6 minutes."
+    desc: "`pf2:2`  **Frequency** once per day\n* * *\n\n**Effect** The statue disgorges a [[Bestiary 3/Bore Worm Swarm|Bore Worm Swarm]] into an adjacent 10-foot-by-10-foot space. Creatures in the swarm's area are immediately affected by the bore worm swarm's Swarming Bites, after which the bore worm swarm rolls initiative and acts independently before disappearing after 1d6 minutes."
  
+```
+
+```encounter-table
+name: Crimson Worm Statue
+creatures:
+  - 1: Crimson Worm Statue
 ```
 
 

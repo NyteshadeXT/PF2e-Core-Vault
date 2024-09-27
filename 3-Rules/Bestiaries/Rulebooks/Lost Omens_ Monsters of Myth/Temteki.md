@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/earth
   - pf2e/creature/type/elemental
   - pf2e/creature/type/lawful
+  - pf2eMonster
   - pf2e/creature/level/5
 statblock: inline
 name: "Temteki"
@@ -22,20 +23,20 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Lost Omens: Monsters of Myth"
 name: "Temteki"
 level: "Creature 5"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Medium"
-trait_01: "earth"
-trait_02: "elemental"
-trait_03: "lawful"
+trait_01: [[earth]]
+trait_02: [[elemental]]
+trait_03: [[lawful]]
 modifier: 13
 perception:
   - name: "Perception"
     desc: "+13; Darkvision, Tremorsense (Imprecise) 60 Feet"
-languages: "Fey, Petran"
+languages: "Fey, Petran; (can&#x27;t speak any language)"
 skills:
   - name: "Skills"
-    desc: "Athletics: +12, Intimidation: +14, Nature: +11, Stealth: +11 (+15 in forests)"
+    desc: "Athletics: +12, Intimidation: +14, Nature: +11, Stealth: +11"
 abilityMods: [5, 0, 4, 2, 2, 5]
 speed: 30 feet,  burrow 30 feet
 sourcebook: "_Pathfinder Lost Omens: Monsters of Myth_"
@@ -57,7 +58,7 @@ abilities_mid:
     desc: "  Temteki can use Intimidation to Coerce or Demoralize up to four targets instead of one, rolling separate Intimidation checks against the Will DCs of each target. In addition, since Temteki Demoralizes using its appearance alone, it doesn't take a penalty to Intimidation checks to Demoralize for not speaking a language."
 
   - name: "Interposing Earth"
-    desc: "`pf2:r`  **Trigger** Temteki is targeted with a melee or ranged attack from an attacker it can see\n**Effect** Temteki raises earth to block, gaining a +2 circumstance bonus to AC against the triggering attack."
+    desc: "`pf2:r`  **Trigger** Temteki is targeted with a melee or ranged attack from an attacker it can see\n* * *\n\n**Effect** Temteki raises earth to block, gaining a +2 circumstance bonus to AC against the triggering attack."
 
 attacks:
   - name: ""
@@ -72,7 +73,7 @@ attacks:
     desc: "  Temteki can Burrow through any earthen matter, including rock. When it does so, it moves at its full burrow Speed, leaving no tunnel or sign of its passing."
 
   - name: "Earthen Cypress"
-    desc: "`pf2:1` (stance) **Requirements** Temteki is standing on the ground\n**Effect** Temteki draws up the earth around itself into the shape of a cypress tree. While in this stance, Temteki's reach for spike Strikes increases to 15 feet, but Temteki can't move except to Burrow into the ground using Earth Glide. Doing so causes Temteki to leave this stance and creates a heap of earth in the square Temteki left, making the square difficult terrain."
+    desc: "`pf2:1` (stance) **Requirements** Temteki is standing on the ground\n* * *\n\n**Effect** Temteki draws up the earth around itself into the shape of a cypress tree. While in this stance, Temteki's reach for spike Strikes increases to 15 feet, but Temteki can't move except to Burrow into the ground using Earth Glide. Doing so causes Temteki to leave this stance and creates a heap of earth in the square Temteki left, making the square difficult terrain."
 
   - name: "Toolbreaker"
     desc: "  Temteki can only target worked or crafted items with [[Spells/Shatter|Shatter]], not natural objects."
@@ -80,6 +81,12 @@ attacks:
   - name: "[[Bestiary Ability Glossary/Push|Push]]"
     desc: "`pf2:1`  "
  
+```
+
+```encounter-table
+name: Temteki
+creatures:
+  - 1: Temteki
 ```
 
 

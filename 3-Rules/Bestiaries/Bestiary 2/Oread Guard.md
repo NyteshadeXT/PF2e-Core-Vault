@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/humanoid
   - pf2e/creature/type/lawful
   - pf2e/creature/type/oread
+  - pf2eMonster
   - pf2e/creature/level/1
 statblock: inline
 name: "Oread Guard"
@@ -27,10 +28,10 @@ level: "Creature 1"
 
 alignment: ""
 size: "Medium"
-trait_01: "human"
-trait_02: "humanoid"
-trait_03: "lawful"
-trait_04: "oread"
+trait_01: [[human]]
+trait_02: [[humanoid]]
+trait_03: [[lawful]]
+trait_04: [[oread]]
 modifier: 7
 perception:
   - name: "Perception"
@@ -72,6 +73,12 @@ attacks:
   - name: "[[Bestiary Ability Glossary/Power Attack|Power Attack]]"
     desc: "`pf2:2`  "
  
+```
+
+```encounter-table
+name: Oread Guard
+creatures:
+  - 1: Oread Guard
 ```
 
 

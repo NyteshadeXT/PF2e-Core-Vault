@@ -14,14 +14,14 @@ license: ORC
 ---
 # Fearsome
 ## Item 5
-### [[emotion]][[fear]][[magical]][[3-Rules/Rule References/Mental]]
+### [[3-Rules/Rule References/Emotion]][[3-Rules/trait_reference/fear]][[3-Rules/Rule References/Magical]][[3-Rules/Rule References/Mental]]
 
 
 **Price** 160 gp; 
 **Bulk** 0; **Size** med
 **Usage** etched-onto-a-weapon
 
-When you critically hit with this weapon, the target becomes [[Conditions/Frightened 1|Frightened 1]].
+When you critically hit with this weapon, the target becomes [[Conditions/Frightened|Frightened 1]].
 
 *Source: Pathfinder GM Core*
 *ORC*

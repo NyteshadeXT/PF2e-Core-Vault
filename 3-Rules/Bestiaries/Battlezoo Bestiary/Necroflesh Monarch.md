@@ -10,6 +10,7 @@ tags:
   - pf2e/creature/type/ooze
   - pf2e/creature/type/undead
   - pf2e/creature/type/unholy
+  - pf2eMonster
   - pf2e/creature/level/15
 statblock: inline
 name: "Necroflesh Monarch"
@@ -25,21 +26,22 @@ token: [[modules/battlezoo-bestiary-pf2e/art/necroflesh_monarch.webp| ]]
 source: "Battlezoo Bestiary"
 name: "Necroflesh Monarch"
 level: "Creature 15"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "grg"
-trait_01: "evil"
-trait_02: "mindless"
-trait_03: "ooze"
-trait_04: "undead"
-trait_05: "unholy"
+trait_01: [[evil]]
+trait_02: [[mindless]]
+trait_03: [[ooze]]
+trait_04: [[undead]]
+trait_05: [[unholy]]
 modifier: 20
 perception:
   - name: "Perception"
-    desc: "+20; Motion Sense (Precise) 120 Feet"
+    desc: "+20; Motion Sense (Imprecise) 120 Feet"
+languages: ""
 skills:
   - name: "Skills"
-    desc: "Athletics: +30, "
+    desc: "Athletics: +30"
 abilityMods: [9, 4, 0, -5, 0, 7]
 speed: 25 feet
 sourcebook: "_Battlezoo Bestiary_"
@@ -58,10 +60,10 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "[[Bestiary Ability Glossary/Frightful Presence|Frightful Presence]]"
-    desc: " (aura,emotion,fear,mental) Aura 120 feet, Will"
+    desc: " (aura,emotion,fear,mental) [[Bestiary Ability Glossary/Aura|Aura]] 120 feet, DC 33 Will"
 
   - name: "Deadly Pustules"
-    desc: "`pf2:r`  **Trigger** The necroflesh monarch is hit by a melee weapon or melee unarmed attack by a creature within 15 feet;\n**Effect** The necroflesh monarch makes a black bile Strike against the triggering creature. This Strike does not count toward the necroflesh monarch's multiple attack penalty, and its multiple attack penalty does not apply to this Strike."
+    desc: "`pf2:r`  **Trigger** The necroflesh monarch is hit by a melee weapon or melee unarmed attack by a creature within 15 feet;\n* * *\n\n**Effect** The necroflesh monarch makes a black bile Strike against the triggering creature. This Strike does not count toward the necroflesh monarch's multiple attack penalty, and its multiple attack penalty does not apply to this Strike."
 
 attacks:
   - name: ""
@@ -73,20 +75,26 @@ attacks:
     desc: "`pf2:1` Black Bile +30 (acid, range increment 60 feet)\n__Damage__  4d10 acid 3d6 void"
 
   - name: "[[Bestiary Ability Glossary/Improved Grab|Improved Grab]]"
-    desc: "  The monster can use Grab as a free action triggered by a hit with its initial attack. A monster with Improved Grab still needs to spend an action to extend the duration for creatures it already has Grabbed."
+    desc: "  The monster can use [[Bestiary Ability Glossary/Grab|Grab]] as a free action triggered by a hit with its initial attack. A monster with Improved Grab still needs to spend an action to extend the duration for creatures it already has [[Conditions/Grabbed|Grabbed]]."
 
   - name: "Consume the Dead"
-    desc: "`pf2:1` (arcane,healing,manipulate) **Frequency** three times per round;\n**Requirements** A willing or mindless Medium or larger undead creature is within 20 feet of the necroflesh monarch;\n**Effect** The necroflesh monarch grabs the undead creature with a pseudopod and unceremoniously sucks it into its oozy body, causing the monarch to regain 30 Hit Points. The second and third time per round the monarch Consumes the Dead, it regains only 20 Hit Points and 10 Hit Points, respectively (for a maximum of 60 Hit Points regained in a single round)."
+    desc: "`pf2:1` (arcane,healing,manipulate) **Frequency** three times per round;\n\n**Requirements** A willing or mindless Medium or larger undead creature is within 20 feet of the necroflesh monarch;\n\n**Effect** The necroflesh monarch grabs the undead creature with a pseudopod and unceremoniously sucks it into its oozy body, causing the monarch to regain 30 Hit Points. The second and third time per round the monarch Consumes the Dead, it regains only 20 Hit Points and 10 Hit Points, respectively (for a maximum of 60 Hit Points regained in a single round)."
 
   - name: "Death is Not the End"
-    desc: " (arcane) If a creature dies within 1 minute of being struck by the necroflesh monarch's black bile, the dying creature must attempt a Will save just before it dies. On a failed check, the creature's flesh rapidly liquifies with its final breath, and the corpse rises as a mindless skeleton controlled by the necroflesh monarch."
+    desc: " (arcane) If a creature dies within 1 minute of being struck by the necroflesh monarch's black bile, the dying creature must attempt a DC 36 Will save just before it dies. On a failed check, the creature's flesh rapidly liquifies with its final breath, and the corpse rises as a mindless skeleton controlled by the necroflesh monarch."
 
   - name: "[[Bestiary Ability Glossary/Greater Constrict|Greater Constrict]]"
-    desc: "`pf2:1`  3d8 + 9 bludgeoning damage, basic fortitude save\n"
+    desc: "`pf2:1`  3d8 + 9 bludgeoning damage, DC 36 basic fortitude save\n\n* * *\n"
 
   - name: "[[Bestiary Ability Glossary/Swallow Whole|Swallow Whole]]"
-    desc: "`pf2:1` (attack) Large, 3d8 + 9 void damage, Rupture 30\n"
+    desc: "`pf2:1` (attack) Large, 3d8 + 9 void damage, Rupture 30\n\n* * *\n"
  
+```
+
+```encounter-table
+name: Necroflesh Monarch
+creatures:
+  - 1: Necroflesh Monarch
 ```
 
 

@@ -6,6 +6,7 @@ cssClasses: pf2e
 aliases: "Compendium.pf2e.fall-of-plaguestone-bestiary.Actor.23kCcF391RtapbfJ" 
 tags:
   - pf2e/creature/type/animal
+  - pf2eMonster
   - pf2e/creature/level/2
 statblock: inline
 name: "Stone Horse"
@@ -20,14 +21,15 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Adventure: The Fall of Plaguestone"
 name: "Stone Horse"
 level: "Creature 2"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Large"
-trait_01: "animal"
+trait_01: [[animal]]
 modifier: 6
 perception:
   - name: "Perception"
     desc: "+6; Low-Light Vision, Scent (Imprecise) 30 Feet"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Acrobatics: +5, Athletics: +10"
@@ -57,6 +59,12 @@ attacks:
   - name: "Shattering Hooves"
     desc: "  The hooves of the stone horse are as hard as iron; if the horse makes a Hoof Strike and gets a critical hit, the target's armor is damaged as well, the attack dealing as much damage to the armor as it dealt to the target (Hardness applies as normal). If the target uses shield block against the stone horse's critical hit with a hoof attack, treat the shield's Hardness as 5 points lower (minimum 0)."
  
+```
+
+```encounter-table
+name: Stone Horse
+creatures:
+  - 1: Stone Horse
 ```
 
 

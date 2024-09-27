@@ -10,6 +10,7 @@ tags:
   - pf2e/creature/type/skeleton
   - pf2e/creature/type/undead
   - pf2e/creature/type/unholy
+  - pf2eMonster
   - pf2e/creature/level/2
 statblock: inline
 name: "Skeletal Mount"
@@ -27,15 +28,16 @@ level: "Creature 2"
 
 alignment: ""
 size: "Large"
-trait_01: "evil"
-trait_02: "mindless"
-trait_03: "skeleton"
-trait_04: "undead"
-trait_05: "unholy"
+trait_01: [[evil]]
+trait_02: [[mindless]]
+trait_03: [[skeleton]]
+trait_04: [[undead]]
+trait_05: [[unholy]]
 modifier: 8
 perception:
   - name: "Perception"
     desc: "+8; Darkvision"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Acrobatics: +7, Athletics: +9"
@@ -57,7 +59,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "[[Creature Family Ability Glossary/(Skeleton) Explosive Death|Explosive Death]]"
-    desc: "  When the skeleton is destroyed, its bones shatter and explode as the necromantic energy holding it together is released.\nAdjacent creatures take 2d6 slashing damage with a DC 13 Reflex check save."
+    desc: "  When the skeleton is destroyed, its bones shatter and explode as the necromantic energy holding it together is released.\n\nAdjacent creatures take 2d6 slashing damage with a DC 13 Reflex check save."
 
 attacks:
   - name: ""
@@ -71,6 +73,12 @@ attacks:
   - name: "Undead Steed"
     desc: "  Undead and creatures allied with them can Command a skeletal mount without needing to attempt a skill check."
  
+```
+
+```encounter-table
+name: Skeletal Mount
+creatures:
+  - 1: Skeletal Mount
 ```
 
 

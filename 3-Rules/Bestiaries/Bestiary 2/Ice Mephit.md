@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/air
   - pf2e/creature/type/elemental
   - pf2e/creature/type/water
+  - pf2eMonster
   - pf2e/creature/level/1
 statblock: inline
 name: "Ice Mephit"
@@ -23,12 +24,12 @@ token: [[modules/pf2e-tokens-bestiaries/portraits/elemental/water/mephit-ice.web
 source: "Pathfinder Bestiary 2"
 name: "Ice Mephit"
 level: "Creature 1"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Small"
-trait_01: "air"
-trait_02: "elemental"
-trait_03: "water"
+trait_01: [[air]]
+trait_02: [[elemental]]
+trait_03: [[water]]
 modifier: 3
 perception:
   - name: "Perception"
@@ -67,8 +68,14 @@ attacks:
     desc: "DC 17, attack +9\n__Cantrips__  __(1st)__ _[[Spells/Void Warp|Chill Touch]]_, _[[Spells/Ray of Frost|Ray of Frost]]_"
 
   - name: "Breath Weapon"
-    desc: "`pf2:2` (arcane,cold) The ice mephit breathes shards of ice in a 15-foot cone that deals 1d6 cold damage and 1d6 piercing damage to each creature within the area (DC 17 Reflex check save).\nThe ice mephit can't use Breath Weapon again for 1d4 rounds."
+    desc: "`pf2:2` (arcane,cold) The ice mephit breathes shards of ice in a @Template[cone|distance:15] that deals 1d6 cold damage and 1d6 piercing damage to each creature within the area (DC 17 Reflex check save).\n\nThe ice mephit can't use Breath Weapon again for 1d4 rounds."
  
+```
+
+```encounter-table
+name: Ice Mephit
+creatures:
+  - 1: Ice Mephit
 ```
 
 

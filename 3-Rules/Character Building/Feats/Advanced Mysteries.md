@@ -6,8 +6,9 @@ tags:
   - trait/archetype
   - trait/common
   - category/class
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.PxTRE0mFEO3tyt8h"
-license: OGL
+license: ORC
 ---
 # Advanced Mysteries
 ## Feat 6
@@ -25,5 +26,5 @@ You gain one oracle feat. For meeting its prerequisites, your oracle level is eq
 
 **Special** You can select this feat more than once. Each time, you gain another oracle feat.
 
-*Source: Pathfinder Advanced Player's Guide*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

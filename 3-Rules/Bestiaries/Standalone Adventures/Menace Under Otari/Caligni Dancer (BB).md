@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.menace-under-otari-bestiary.Actor.7EuWv6tGtOASvzbG"
 tags:
   - pf2e/creature/type/caligni
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/1
   - remaster
 statblock: inline
@@ -25,12 +26,13 @@ level: "Creature 1"
 
 alignment: ""
 size: "Medium"
-trait_01: "caligni"
-trait_02: "humanoid"
+trait_01: [[caligni]]
+trait_02: [[humanoid]]
 modifier: 6
 perception:
   - name: "Perception"
     desc: "+6; "
+languages: ""
 skills:
   - name: "Skills"
     desc: "Acrobatics: +7, Diplomacy: +8, Performance: +6, Stealth: +7, Thievery: +7"
@@ -70,6 +72,12 @@ attacks:
   - name: "[[Bestiary Ability Glossary/Sneak Attack|Sneak Attack]]"
     desc: "  The caligni dancer deals an additional 1d6 damage to [[Conditions/Off-Guard|Off-Guard]] creatures."
  
+```
+
+```encounter-table
+name: Caligni Dancer (BB)
+creatures:
+  - 1: Caligni Dancer (BB)
 ```
 
 

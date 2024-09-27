@@ -10,6 +10,7 @@ tags:
   - pf2e/creature/type/fiend
   - pf2e/creature/type/lawful
   - pf2e/creature/type/unholy
+  - pf2eMonster
   - pf2e/creature/level/1
 statblock: inline
 name: "Imp"
@@ -28,16 +29,16 @@ level: "Creature 1"
 
 alignment: ""
 size: "tiny"
-trait_01: "devil"
-trait_02: "evil"
-trait_03: "fiend"
-trait_04: "lawful"
-trait_05: "unholy"
+trait_01: [[devil]]
+trait_02: [[evil]]
+trait_03: [[fiend]]
+trait_04: [[lawful]]
+trait_05: [[unholy]]
 modifier: 7
 perception:
   - name: "Perception"
     desc: "+7; Greater Darkvision"
-languages: "Common, Diabolic"
+languages: "Common, Diabolic; telepathy (touch)"
 skills:
   - name: "Skills"
     desc: "Acrobatics: +7, Arcana: +6, Deception: +7, Religion: +5"
@@ -68,17 +69,23 @@ attacks:
     desc: "DC 17, attack +9; __4th __  _[[Spells/Read Omens|Read Omens]]_; __2nd __  _[[Spells/Invisibility|Invisibility (At Will) (Self Only)]]_; __1st __  _[[Spells/Charm|Charm]]_, _[[Spells/Detect Alignment|Detect Alignment (At Will) (Good Only)]]_\n__Cantrips__  __(1st)__ _[[Spells/Detect Magic|Detect Magic]]_"
 
   - name: "[[Bestiary Ability Glossary/Change Shape|Change Shape]]"
-    desc: "`pf2:1` (concentrate,divine,polymorph) *   **Boar**\n    *   **Size** Medium\n    *   [[Bestiary Ability Glossary/Scent|Scent (Imprecise) 30 feet]]\n    *   **Speed** 40 feet\n    *   **Melee** tusk +9/+4/-1 (finesse), **Damage** 1d10 - 1 piercing damage\n*   **Giant Spider**\n    *   **Size** Medium\n    *   **Speed** 25 feet, climb 25 feet\n    *   **Melee** fangs +9/+4/-1 (finesse, poison), **Damage** 1d6-1 piercing damage plus 1d4 poison damage\n*   **Rat**\n    *   [[Bestiary Ability Glossary/Scent|Scent]]\n    *   **Speed** 20 feet\n    *   **Melee** jaws +9/+5/+1 (agile, finesse), **Damage** 1 piercing damage\n*   **Raven**\n    *   [[Bestiary Ability Glossary/Scent|Scent]]\n    *   **Speed** 10 feet, fly 40 feet\n    *   **Melee** beak +9/+4/-1 (finesse), **Damage** 1 piercing damage\n"
+    desc: "`pf2:1` (concentrate,divine,polymorph) *   **Boar**\n    *   **Size** Medium\n    *   [[Bestiary Ability Glossary/Scent|Scent (Imprecise) 30 feet]]\n    *   **Speed** 40 feet\n    *   **Melee** tusk +9/+4/-1 (finesse), **Damage** 1d10-1 piercing damage\n*   **Giant Spider**\n    *   **Size** Medium\n    *   **Speed** 25 feet, climb 25 feet\n    *   **Melee** fangs +9/+4/-1 (finesse, poison), **Damage** 1d6-1 piercing damage plus 1d4 poison damage\n*   **Rat**\n    *   [[Bestiary Ability Glossary/Scent|Scent]]\n    *   **Speed** 20 feet\n    *   **Melee** jaws +9/+5/+1 (agile, finesse), **Damage** 1 piercing damage\n*   **Raven**\n    *   [[Bestiary Ability Glossary/Scent|Scent]]\n    *   **Speed** 10 feet, fly 40 feet\n    *   **Melee** beak +9/+4/-1 (finesse), **Damage** 1 piercing damage\n\n* * *\n"
 
   - name: "Diabolic Healing"
-    desc: "`pf2:1` (concentrate,divine,healing) **Frequency** once per round.\n**Effect** The imp regains 1d6 Hit Points."
+    desc: "`pf2:1` (concentrate,divine,healing) **Frequency** once per round.\n* * *\n\n**Effect** The imp regains 1d6 healing Hit Points."
 
   - name: "Imp Venom"
-    desc: " (poison) **Saving Throw** DC 16 Fortitude check\n**Maximum Duration** 6 rounds\n**Stage 1** 1d6 poison damage and [[Conditions/Clumsy 1|Clumsy 1]] (1 round)\n**Stage 2** 1d6 poison damage, clumsy 1, and [[Conditions/Slowed 1|Slowed 1]] (1 round)"
+    desc: " (poison) **Saving Throw** DC 16 Fortitude check\n* * *\n\n**Maximum Duration** 6 rounds\n\n**Stage 1** 1d6 poison damage and [[Conditions/Clumsy|Clumsy 1]] (1 round)\n\n**Stage 2** 1d6 poison damage, clumsy 1, and [[Conditions/Slowed|Slowed 1]] (1 round)"
 
   - name: "Infernal Temptation"
-    desc: "`pf2:1` (concentrate,divine,fortune) **Frequency** once per day.\n**Effect** The imp offers a non-fiend within 15 feet a bargain, granting a boon of good luck if the creature accepts. The boon lasts for 1 hour once accepted.\nIf the creature dies while the boon is in place, its soul travels to Hell, where it is bound for eternity and unable to be raised or resurrected except by [[Spells/Wish|Wish]] or similar magic.\nOnce during the hour, the creature can roll an attack roll or saving throw twice and use the higher result."
+    desc: "`pf2:1` (concentrate,divine,fortune) **Frequency** once per day.\n* * *\n\n**Effect** The imp offers a non-fiend within 15 feet a bargain, granting a boon of good luck if the creature accepts. The boon lasts for 1 hour once accepted.\n\nIf the creature dies while the boon is in place, its soul travels to Hell, where it is bound for eternity and unable to be raised or resurrected except by [[Spells/Wish|Wish]] or similar magic.\n\nOnce during the hour, the creature can roll an attack roll or saving throw twice and use the higher result."
  
+```
+
+```encounter-table
+name: Imp
+creatures:
+  - 1: Imp
 ```
 
 

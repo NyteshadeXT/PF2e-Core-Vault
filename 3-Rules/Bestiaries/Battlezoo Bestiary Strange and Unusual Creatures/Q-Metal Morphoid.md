@@ -6,6 +6,7 @@ cssClasses: pf2e
 aliases: "Compendium.battlezoo-bestiary-su-pf2e.pf2e-battlezoo-su-actors.Actor.HdiodXpigKFzF8l7" 
 tags:
   - pf2e/creature/type/elemental
+  - pf2eMonster
   - pf2e/creature/level/14
 statblock: inline
 name: "Q-Metal Morphoid"
@@ -21,10 +22,10 @@ token: [[modules/battlezoo-bestiary-su-pf2e/art/Portraits/q-metal-morphoid.webp|
 source: "Battlezoo Bestiary: Strange and Unusual"
 name: "Q-Metal Morphoid"
 level: "Creature 14"
-rare_03: "Rare"
+rare_03: [[Rare]]
 alignment: ""
 size: "Large"
-trait_01: "elemental"
+trait_01: [[elemental]]
 modifier: 25
 perception:
   - name: "Perception"
@@ -32,7 +33,7 @@ perception:
 languages: "Aklo, Petran"
 skills:
   - name: "Skills"
-    desc: "Athletics: +28, Stealth: +23, "
+    desc: "Athletics: +28, Stealth: +23, Athletics: +28, Stealth: +23"
 abilityMods: [8, 5, 8, 4, 5, -4]
 speed: 30 feet,  burrow 20 feet
 sourcebook: "_Battlezoo Bestiary: Strange and Unusual_"
@@ -51,10 +52,10 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Flame Shroud"
-    desc: "`pf2:0`  **Trigger** The q-metal morphoid is exposed to fire\n**Effect** The exterior of the morphoid's body is covered in flames for 1d4 rounds. This adds 1d6 fire damage to the morphoid's melee unarmed attacks. Additionally, adjacent creatures that hit the morphoid with a melee attack, as well as creatures that touch the morphoid or hit the morphoid with an unarmed attack take 1d6 fire damage. If a q-metal morphoid causes creatures or objects to catch fire, water isn't an effective means to end the persistent damage from the chemical fire.\n[[Effects/Effect_ Flame Shroud|Effect: Flame Shroud]]"
+    desc: "`pf2:0`  **Trigger** The q-metal morphoid is exposed to fire\n* * *\n\n**Effect** The exterior of the morphoid's body is covered in flames for 1d4 rounds. This adds 1d6 fire damage to the morphoid's melee unarmed attacks. Additionally, adjacent creatures that hit the morphoid with a melee attack, as well as creatures that touch the morphoid or hit the morphoid with an unarmed attack take 1d6 fire damage. If a q-metal morphoid causes creatures or objects to catch fire, water isn't an effective means to end the persistent damage from the chemical fire.\n\n[[Effects/Effect_ Flame Shroud|Effect: Flame Shroud]]"
 
   - name: "Q-Powder"
-    desc: " (aura) 20 feet. A powder cloud surrounds the morphoid, choking the lungs of enemies. A breathing creature that enters the cloud must succeed at a DC 31 Fortitude check save. On a failure, the creature is Sickened 1 and on a critical failure, the creature is Sickened 2. Afterward, the creature is temporarily immune for 1 minute. The powder is suppressed underwater or while the morphoid's Flame Shroud is active."
+    desc: " (aura) 20 feet. A powder cloud surrounds the morphoid, choking the lungs of enemies. A breathing creature that enters the cloud must succeed at a DC 31 Fortitude check save. On a failure, the creature is [[undefined]] and on a critical failure, the creature is [[undefined]]. Afterward, the creature is temporarily immune for 1 minute. The powder is suppressed underwater or while the morphoid's Flame Shroud is active."
 
 attacks:
   - name: ""
@@ -78,7 +79,7 @@ attacks:
     desc: "`pf2:1` Appendage (Spike) +26 (range increment 60 feet)\n__Damage__  3d10 + 18 piercing plus fling-appendage 1d6 fire plus fling-appendage"
 
   - name: "Absorb Q-metal"
-    desc: "`pf2:1`  **Requirements** The q-metal morphoid is standing in or adjacent to an area containing q-metal\n**Effect** The morphoid absorbs the q-metal into its form, recovering 20 healing hit points."
+    desc: "`pf2:1`  **Requirements** The q-metal morphoid is standing in or adjacent to an area containing q-metal\n* * *\n\n**Effect** The morphoid absorbs the q-metal into its form, recovering 20 healing hit points."
 
   - name: "Fling Appendage"
     desc: "  A q-metal morphoid's ranged appendage Strike jettisons one of its limbs, removing that limb until it grows a new one. This deals the limbs normal damage plus 1d6 fire damage, and on a critical hit, the target additionally takes 1d10 persistent fire damage."
@@ -89,6 +90,12 @@ attacks:
   - name: "Limb Whirlwind"
     desc: "`pf2:2`  The q-metal morphoid spins around like a whirlwind of death, attacking nearby creatures with each of its current limbs. It can Strike once with each of its limb unarmed attacks, each against a different creature, to a maximum of six attacks if it has all six limbs. It applies its multiple attack penalty from these Strikes only after all the Strikes are complete."
  
+```
+
+```encounter-table
+name: Q-Metal Morphoid
+creatures:
+  - 1: Q-Metal Morphoid
 ```
 
 

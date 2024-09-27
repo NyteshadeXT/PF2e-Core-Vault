@@ -12,7 +12,7 @@ license: OGL
 ---
 # Brooch of Inspiration (Greater)
 ## Item 11
-### [uncommon](uncommon "Uncommon Rarity Trait")[[divine]][[invested]][[magical]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[3-Rules/Rule References/Divine]][[invested]][[3-Rules/Rule References/Magical]]
 
 
 **Price** 1200 gp; 

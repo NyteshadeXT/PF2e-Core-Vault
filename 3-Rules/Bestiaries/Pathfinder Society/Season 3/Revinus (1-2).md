@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/human
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/1
 statblock: inline
 name: "Revinus (1-2)"
@@ -22,12 +23,12 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Society Scenario #3-02: The East Hill Haunting"
 name: "Revinus (1-2)"
 level: "Creature 1"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Medium"
-trait_01: "evil"
-trait_02: "human"
-trait_03: "humanoid"
+trait_01: [[evil]]
+trait_02: [[human]]
+trait_03: [[humanoid]]
 modifier: 6
 perception:
   - name: "Perception"
@@ -72,6 +73,12 @@ attacks:
   - name: "Terrifying Stab"
     desc: "  Revinus can intimidate foes with a well-placed blow. When Revinus deals damage on a critical hit with his shortsword, he can attempt an Intimidation check to [[Actions/Demoralize|Demoralize]] the target as a free action."
  
+```
+
+```encounter-table
+name: Revinus (1-2)
+creatures:
+  - 1: Revinus (1-2)
 ```
 
 

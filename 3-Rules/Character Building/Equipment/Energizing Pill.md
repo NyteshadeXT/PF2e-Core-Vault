@@ -13,7 +13,7 @@ license: OGL
 ---
 # Energizing Pill
 ## Item 10
-### [uncommon](uncommon "Uncommon Rarity Trait")[[alchemical]][[consumable]][[lozenge]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[alchemical]][[consumable]][[lozenge]]
 
 **Category** other; 
 **Price** 180 gp; 
@@ -26,7 +26,7 @@ This special blend of potent herbs comes in the form of a compact ball that allo
 
 **Secondary Effect** `pf2:r`
 
-**Trigger** You would become [[Conditions/Clumsy 1|Clumsy]], [[Conditions/Drained 1|Drained]], [[Conditions/Enfeebled 1|Enfeebled]], [[Conditions/Frightened 1|Frightened]], [[Conditions/Sickened 1|Sickened]], [[Conditions/Slowed 1|Slowed]], or [[Conditions/Stupefied 1|Stupefied]]
+**Trigger** You would become [[Conditions/Clumsy|Clumsy]], [[Conditions/Drained|Drained]], [[Conditions/Enfeebled|Enfeebled]], [[Conditions/Frightened|Frightened]], [[Conditions/Sickened|Sickened]], [[Conditions/Slowed|Slowed]], or [[Conditions/Stupefied|Stupefied]]
 
 * * *
 

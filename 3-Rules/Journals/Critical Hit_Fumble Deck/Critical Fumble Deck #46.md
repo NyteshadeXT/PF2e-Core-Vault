@@ -20,7 +20,7 @@ tags:
 
 # Ingrown Nail
 
-> You take a [[Other Effects/Effect\_ -1 circumstance penalty to attack rolls until you score a critical hit|-1 circumstance penalty to attack rolls until you score a critical hit]].
+> You take a [[Other Effects/Effect_ -1 circumstance penalty to attack rolls until you score a critical hit|-1 circumstance penalty to attack rolls until you score a critical hit]].
 
 `Unarmed`
 

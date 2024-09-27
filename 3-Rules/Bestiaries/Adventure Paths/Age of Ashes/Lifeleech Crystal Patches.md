@@ -5,6 +5,7 @@ noteType: pf2eHazard
 tags:
   - environmental
   - magical
+  - pf2eHazard
 
 source: Pathfinder #148: Fires of the Haunted City
 aliases: "Compendium.pf2e.age-of-ashes-bestiary.Actor.QoS5lEJqji2h490F" 
@@ -22,14 +23,14 @@ name: "Lifeleech Crystal Patches"
 level: "Hazard 11"
 
 
-trait_01: "environmental"
-trait_02: "magical"
+trait_01: [[environmental]]
+trait_02: [[magical]]
 modifier: 20
 sourcebook: "_Pathfinder #148: Fires of the Haunted City_"
 ac: 31
 armorclass:
   - name: AC
-    desc: "31; __Fort__ +24, __Ref__ +12, __Will__ +0"
+    desc: "31; __Fort__ +24, __Ref__ +12, "
 hp: 80
 health:
   - name: ""
@@ -51,9 +52,15 @@ attacks:
   - name: ""
 
   - name: "Slice Legs"
-    desc: "`pf2:r` **Trigger** A creature with blood moves through a patch of lifeleech crystals.\n**Effect** The crystals twist and slash, animating and cutting into the creature as it walks, dealing 5d8 slashing damage. The creature must attempt a DC 28 Reflex check saving throw.\n**Critical Success** The creature is unaffected.\n**Success** The creature takes full damage and is [[Conditions/Drained 1|Drained 1]].\n**Failure** The creature takes double damage and is [[Conditions/Drained 1|Drained 2]].\n**Critical Failure** As failure, plus the creature's blood causes fresh growth. A new 10-foot-square patch of lifeleech crystals grows in an adjacent space to the current patch of crystals."
+    desc: "`pf2:r` **Trigger** A creature with blood moves through a patch of lifeleech crystals.\n* * *\n\n**Effect** The crystals twist and slash, animating and cutting into the creature as it walks, dealing 5d8 slashing damage. The creature must attempt a DC 28 Reflex check saving throw.\n* * *\n\n**Critical Success** The creature is unaffected.\n\n**Success** The creature takes full damage and is [[Conditions/Drained|Drained 1]].\n\n**Failure** The creature takes double damage and is [[Conditions/Drained|Drained 2]].\n\n**Critical Failure** As failure, plus the creature's blood causes fresh growth. A new 10-foot-square patch of lifeleech crystals grows in an adjacent space to the current patch of crystals."
 
 
 
+```
+
+```encounter-table
+name: Lifeleech Crystal Patches
+creatures:
+  - 1: Lifeleech Crystal Patches
 ```
 

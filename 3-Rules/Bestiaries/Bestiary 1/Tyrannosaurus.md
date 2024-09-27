@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.pathfinder-bestiary.Actor.LDQpLwN40OGefZD0"
 tags:
   - pf2e/creature/type/animal
   - pf2e/creature/type/dinosaur
+  - pf2eMonster
   - pf2e/creature/level/10
 statblock: inline
 name: "Tyrannosaurus"
@@ -25,12 +26,13 @@ level: "Creature 10"
 
 alignment: ""
 size: "grg"
-trait_01: "animal"
-trait_02: "dinosaur"
+trait_01: [[animal]]
+trait_02: [[dinosaur]]
 modifier: 19
 perception:
   - name: "Perception"
     desc: "+19; Low-Light Vision, Scent (Imprecise) 30 Feet"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Acrobatics: +15, Athletics: +24"
@@ -61,20 +63,26 @@ attacks:
     desc: "`pf2:1` Foot +22 (reach 15 feet)\n__Damage__  2d10 + 12 bludgeoning"
 
   - name: "Fling"
-    desc: "`pf2:1`  **Requirements** A creature is Grabbed in the tyrannosaurus's jaws.\n**Effect** The tyrannosaurus flings the creature into the air up to 10 feet up from its mouth and 20feet away. The creature falls 25 feet (assuming the tyrannosaurus flings it as high as it can) and takes falling damage accordingly. If the flung creature lands on another creature, the creature it lands on takes the same amount of bludgeoning damage. The creature being landed upon can attempt a DC 23 Reflex check save."
+    desc: "`pf2:1`  **Requirements** A creature is Grabbed in the tyrannosaurus's jaws.\n* * *\n\n**Effect** The tyrannosaurus flings the creature into the air up to 10 feet up from its mouth and 20feet away. The creature falls 25 feet (assuming the tyrannosaurus flings it as high as it can) and takes falling damage accordingly. If the flung creature lands on another creature, the creature it lands on takes the same amount of bludgeoning damage. The creature being landed upon can attempt a DC 23 Reflex check save."
 
   - name: "Pin Prey"
-    desc: "`pf2:r`  **Trigger** The tyrannosaurus critically hits a Large or smaller foe with its foot.\n**Effect** The creature struck by the foot is knocked [[Conditions/Prone|Prone]] and the tyrannosaurus uses its foot to hold the creature in place. As long as the tyrannosaurus doesn't move from its position, the pinned creature is [[Conditions/Grabbed|Grabbed]]. A tyrannosaurus gains a +2 circumstance bonus to attack a creature it has pinned in this manner, but it cannot use Swallow Whole on the target unless it uses its jaws to [[Bestiary Ability Glossary/Grab|Grab]] the victim first."
+    desc: "`pf2:r`  **Trigger** The tyrannosaurus critically hits a Large or smaller foe with its foot.\n* * *\n\n**Effect** The creature struck by the foot is knocked [[Conditions/Prone|Prone]] and the tyrannosaurus uses its foot to hold the creature in place. As long as the tyrannosaurus doesn't move from its position, the pinned creature is [[Conditions/Grabbed|Grabbed]]. A tyrannosaurus gains a +2 circumstance bonus to attack a creature it has pinned in this manner, but it cannot use Swallow Whole on the target unless it uses its jaws to [[Bestiary Ability Glossary/Grab|Grab]] the victim first."
 
   - name: "[[Bestiary Ability Glossary/Swallow Whole|Swallow Whole]]"
-    desc: "`pf2:1` (attack) Medium, 3d6 + 8 bludgeoning damage, Rupture 26\n"
+    desc: "`pf2:1` (attack) Medium, 3d6+8 bludgeoning damage, Rupture 26\n\n* * *\n"
 
   - name: "[[Bestiary Ability Glossary/Trample|Trample]]"
-    desc: "`pf2:3`  Huge or smaller, foot, DC 29 Reflex check\n"
+    desc: "`pf2:3`  Huge or smaller, foot, DC 29 Reflex check\n\n* * *\n"
 
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
     desc: "`pf2:1`  "
  
+```
+
+```encounter-table
+name: Tyrannosaurus
+creatures:
+  - 1: Tyrannosaurus
 ```
 
 

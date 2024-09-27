@@ -4,6 +4,7 @@ obsidianUIMode: preview
 noteType: pf2eHazard
 tags:
   - environmental
+  - pf2eHazard
   - complex
 source: Pathfinder #176: Lost Mammoth Valley
 aliases: "Compendium.pf2e.quest-for-the-frozen-flame-bestiary.Actor.9bMjxEnzFuJfWyP8" 
@@ -21,13 +22,13 @@ name: "Abyss-warped Trees"
 level: "Hazard 4"
 
 trait_06: "Complex"
-trait_01: "environmental"
+trait_01: [[environmental]]
 modifier: 2
 sourcebook: "_Pathfinder #176: Lost Mammoth Valley_"
 ac: 18
 armorclass:
   - name: AC
-    desc: "18; __Fort__ +14, __Ref__ +14, __Will__ +0"
+    desc: "18; __Fort__ +14, __Ref__ +14, "
 hp: 40
 health:
   - name: ""
@@ -49,10 +50,10 @@ attacks:
   - name: ""
 
   - name: "Shift Roots"
-    desc: "`pf2:r` **Trigger** A creature ends its movement in the grove\n**Effect** The trees throughout the tainted grove shift their roots wildly, making the area difficult terrain, then the Abyss-warped trees roll initiative."
+    desc: "`pf2:r` **Trigger** A creature ends its movement in the grove\n* * *\n\n**Effect** The trees throughout the tainted grove shift their roots wildly, making the area difficult terrain, then the Abyss-warped trees roll initiative."
 
   - name: "Tighten Grip"
-    desc: "`pf2:0` **Trigger** The Abyss-warped trees critically hit a creature with a branch Strike\n**Effect** The Abyss-warped trees loop their branches around the triggering creature, [[Conditions/Grabbed|Grabbing]] it ([[Actions/Escape|Escape]] DC 21)."
+    desc: "`pf2:0` **Trigger** The Abyss-warped trees critically hit a creature with a branch Strike\n* * *\n\n**Effect** The Abyss-warped trees loop their branches around the triggering creature, [[Conditions/Grabbed|Grabbing]] it ([[Actions/Escape|Escape]] DC 21)."
   - name: "Melee"
     desc: "Branch +14 () "
 
@@ -60,5 +61,11 @@ attacks:
     desc: "(4 actions) The Abyss‑warped trees use their first action each round to lash their roots; each creature in the tainted grove must succeed at a DC 21 Reflex check save or fall [[Conditions/Prone|Prone]]. The Abyss‑warped trees use their second, third, and fourth actions to make branch Strikes against up to three different creatures in the tainted grove."
   - name: "Reset"
     desc: "The Abyss-warped trees cease moving 1 minute after no living creatures are in the tainted grove. They reset immediately. A disabled tree reanimates after 1 minute. A destroyed tree regrows after 1 month."
+```
+
+```encounter-table
+name: Abyss-warped Trees
+creatures:
+  - 1: Abyss-warped Trees
 ```
 

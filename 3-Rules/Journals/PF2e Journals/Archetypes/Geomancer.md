@@ -25,7 +25,7 @@ Certain terrain attunements affect your enemies instead of you. If they do, when
 *   **Aquatic** (water) You ride the currents of water. If you're in the water, you gain a swim Speed equal to your land Speed. If you're on a surface, temporary waves of water follow your movements, allowing you to use your swim Speed-if you have one-as your land Speed.
 *   **Arctic** (cold) Arctic rime covers your foes' bodies. Enemies must attempt a Fortitude save. They take a -5-foot status penalty to their Speeds for 2 rounds (-10-foot on a critical failure).
 *   **Desert** (fire) The scorching heat of the desert dehydrates your foes. Enemies must attempt a Fortitude save. On a failure, they're [[Conditions/Fatigued|Fatigued]] until they drink water or another potable liquid.
-*   **Forest** (plant) Branches and vines reach out to get in your foes' way. Enemies must attempt a Reflex save. On a failure, they become [[Conditions/Clumsy 1|Clumsy 1]] for 1 round ([[Conditions/Clumsy 1|Clumsy 2]] on a critical failure).
+*   **Forest** (plant) Branches and vines reach out to get in your foes' way. Enemies must attempt a Reflex save. On a failure, they become [[Conditions/Clumsy|Clumsy 1]] for 1 round ([[Conditions/Clumsy|Clumsy 2]] on a critical failure).
 *   **Mountain** (earth) The rugged endurance of the mountain protects you from harm. You gain resistance to physical damage (except adamantine) equal to the spell rank for 1 round.
 *   **Plains** (plant) The growing fields and pulsing vitality of the plains provide you vigor. You gain temporary Hit Points equal to the spell rank for 1 round.
 *   **Sky** (air) A gust of wind carries you aloft. You can Fly up to 10 feet. If you're in the air at the end of the turn and don't have a fly Speed, you fall.
@@ -134,9 +134,9 @@ After you use this action, you can't use it again for 1d4 rounds.
 
 **Critical Success** The creature is unaffected.
 
-**Success** The creature is [[Conditions/Clumsy 1|Clumsy 1]] for 1 round.
+**Success** The creature is [[Conditions/Clumsy|Clumsy 1]] for 1 round.
 
-**Failure** The creature is [[Conditions/Clumsy 1|Clumsy 2]] for 1 round.
+**Failure** The creature is [[Conditions/Clumsy|Clumsy 2]] for 1 round.
 
 **Critical Failure** The creature is clumsy 2 for 1 round and falls [[Conditions/Prone|Prone]].
 

@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/construct
   - pf2e/creature/type/evil
   - pf2e/creature/type/soulbound
+  - pf2eMonster
   - pf2e/creature/level/10
 statblock: inline
 name: "Restored Doll"
@@ -22,12 +23,12 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #183: Field of Maidens"
 name: "Restored Doll"
 level: "Creature 10"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Small"
-trait_01: "construct"
-trait_02: "evil"
-trait_03: "soulbound"
+trait_01: [[construct]]
+trait_02: [[evil]]
+trait_03: [[soulbound]]
 modifier: 19
 perception:
   - name: "Perception"
@@ -58,7 +59,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "For You, Mistress"
-    desc: "`pf2:r` (occult) **Trigger** An attack would reduce Kerinza to 0 HP\n**Requirements** The soulbound doll is within 60 feet of Kerinza\n**Effect** The attack is redirected to the soulbound doll, and the doll is destroyed, regardless of the damage dealt to it."
+    desc: "`pf2:r` (occult) **Trigger** An attack would reduce Kerinza to 0 HP\n\n**Requirements** The soulbound doll is within 60 feet of Kerinza\n* * *\n\n**Effect** The attack is redirected to the soulbound doll, and the doll is destroyed, regardless of the damage dealt to it."
 
 attacks:
   - name: ""
@@ -75,6 +76,12 @@ attacks:
   - name: "Surprise Attack"
     desc: "  On the first round of combat, creatures that haven't acted are [[Conditions/Off-Guard|Off-Guard]] to the restored doll."
  
+```
+
+```encounter-table
+name: Restored Doll
+creatures:
+  - 1: Restored Doll
 ```
 
 

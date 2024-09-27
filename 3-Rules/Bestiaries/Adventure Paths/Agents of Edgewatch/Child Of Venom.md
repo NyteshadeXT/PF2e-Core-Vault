@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/human
   - pf2e/creature/type/humanoid
   - pf2e/creature/type/ooze
+  - pf2eMonster
   - pf2e/creature/level/13
 statblock: inline
 name: "Child Of Venom"
@@ -23,13 +24,13 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #161: Belly of the Black Whale"
 name: "Child Of Venom"
 level: "Creature 13"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Medium"
-trait_01: "evil"
-trait_02: "human"
-trait_03: "humanoid"
-trait_04: "ooze"
+trait_01: [[evil]]
+trait_02: [[human]]
+trait_03: [[humanoid]]
+trait_04: [[ooze]]
 modifier: 23
 perception:
   - name: "Perception"
@@ -77,6 +78,12 @@ attacks:
   - name: "Suction"
     desc: "  The child of venom can climb on ceilings and other inverted surfaces, though such surfaces are difficult terrain for them."
  
+```
+
+```encounter-table
+name: Child Of Venom
+creatures:
+  - 1: Child Of Venom
 ```
 
 

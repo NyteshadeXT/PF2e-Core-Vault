@@ -13,7 +13,7 @@ license: OGL
 ---
 # Clockwork Goggles (Greater)
 ## Item 4
-### [uncommon](uncommon "Uncommon Rarity Trait")[[clockwork]][[consumable]][[gadget]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[clockwork]][[consumable]][[gadget]]
 
 **Category** gadget; 
 **Price** 15 gp; 

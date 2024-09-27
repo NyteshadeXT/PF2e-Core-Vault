@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.age-of-ashes-bestiary.Actor.AtiN3EsRpHn5qbuv"
 tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/ooze
+  - pf2eMonster
   - pf2e/creature/level/15
 statblock: inline
 name: "Immortal Ichor"
@@ -21,19 +22,19 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #149: Against the Scarlet Triad"
 name: "Immortal Ichor"
 level: "Creature 15"
-rare_03: "Rare"
+rare_03: [[Rare]]
 alignment: ""
 size: "Medium"
-trait_01: "evil"
-trait_02: "ooze"
+trait_01: [[evil]]
+trait_02: [[ooze]]
 modifier: 20
 perception:
   - name: "Perception"
     desc: "+20; Motion Sense (Precise) 60 Feet"
-languages: "Aklo, Chthonian, Diabolic, Sakvroth"
+languages: "Aklo, Chthonian, Diabolic, Sakvroth; telepathy 100 feet"
 skills:
   - name: "Skills"
-    desc: "Ancient History Lore: +30, Arcana: +30, Religion: +29"
+    desc: "Arcana: +30, Religion: +29, Ancient History Lore: +30"
 abilityMods: [6, 3, 9, 7, 6, 6]
 speed: 20 feet,  fly 20 feet
 sourcebook: "_Pathfinder #149: Against the Scarlet Triad_"
@@ -67,17 +68,23 @@ attacks:
     desc: "3 Focus Points, DC 37, attack +31; __8th __  _[[Spells/Cry of Destruction|Cry of Destruction]]_, _[[Spells/Destructive Aura|Destructive Aura]]_"
 
   - name: "Corrupt Ally"
-    desc: " (divine,mental) A creature that fails to save against an immortal ichor's charm spell becomes [[Conditions/Stupefied 1|Stupefied 1]]. The stupefied value reduces by 1 every 24 hours. The first time each day a creature stupefied by the ichor's charm fails to save against another casting of the ichor's charm, the value of the condition increases by 1d4. If the stupefied condition ever equals the creature's Wisdom score, it becomes controlled by the ichor permanently; if it dies, it rises the next round as a zombie (of the GM's choice) under the ichor's control. If the ichor is killed, these zombies are destroyed."
+    desc: " (divine,mental) A creature that fails to save against an immortal ichor's charm spell becomes [[Conditions/Stupefied|Stupefied 1]]. The stupefied value reduces by 1 every 24 hours. The first time each day a creature stupefied by the ichor's charm fails to save against another casting of the ichor's charm, the value of the condition increases by 1d4. If the stupefied condition ever equals the creature's Wisdom score, it becomes controlled by the ichor permanently; if it dies, it rises the next round as a zombie (of the GM's choice) under the ichor's control. If the ichor is killed, these zombies are destroyed."
 
   - name: "Dead Spells"
     desc: "  An immortal ichor can cast an initial and advanced domain spell of a domain that belonged to the dead deity from which the ichor arose (the domain spells presented here are from the destruction domain)."
 
   - name: "Mental Erosion"
-    desc: "  A creature hit by the ichor's pseudopod is [[Conditions/Stupefied 1|Stupefied 2]] for 1 day unless it succeeds at a DC 35 Will check save."
+    desc: "  A creature hit by the ichor's pseudopod is [[Conditions/Stupefied|Stupefied 2]] for 1 day unless it succeeds at a DC 35 Will check save."
 
   - name: "Resanguinate"
-    desc: "`pf2:3` (divine,healing) The immortal ichor draws blood from the pores of living creatures around it. Any living creature within 30 feet that has blood takes 4d6 damage (DC 33 Fortitude check save). The immortal ichor regains HP equal to the total damage dealt. A creature that fails its save is also [[Conditions/Drained 1|Drained 1]] (or [[Conditions/Drained 1|Drained 2]] on a critical failure)."
+    desc: "`pf2:3` (divine,healing) The immortal ichor draws blood from the pores of living creatures around it. Any living creature within 30 feet that has blood takes 4d6 damage (DC 33 Fortitude check save). The immortal ichor regains HP equal to the total damage dealt. A creature that fails its save is also [[Conditions/Drained|Drained 1]] (or [[Conditions/Drained|Drained 2]] on a critical failure)."
  
+```
+
+```encounter-table
+name: Immortal Ichor
+creatures:
+  - 1: Immortal Ichor
 ```
 
 

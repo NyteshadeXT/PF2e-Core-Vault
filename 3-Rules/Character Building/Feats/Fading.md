@@ -20,13 +20,15 @@ license: OGL
 
 **Prerequisites** Crimson Shroud
 * * *
-**Frequency** Once per Crimson Shroud.
+**Frequency** once per [[Feats/Crimson Shroud|Crimson Shroud]]
 
-**Trigger** You are targeted with a Strike by someone you can detect while your Crimson Shroud is active.
+**Trigger** You are targeted with a Strike by someone you can detect.
+
+**Requirements** Your Crimson Shroud is active.
 
 * * *
 
-You fade partially from reality. The attacker must attempt a DC 11 Flat check; on a failure, the attack passes harmlessly through the image of your body that remains behind. An instant later you return to reality, and your Crimson Shroud ends.
+You partially fade from reality. The attacker must attempt a DC 11 Flat check; on a failure, the attack passes harmlessly through the image of your body that remains behind. An instant later you return to reality, and your Crimson Shroud ends.
 
 *Source: Pathfinder Lost Omens: Legends*
 *OGL*

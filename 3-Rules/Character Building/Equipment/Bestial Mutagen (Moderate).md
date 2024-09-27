@@ -10,8 +10,9 @@ tags:
   - trait/polymorph
   - trait/common
   - category/mutagen
+  - remaster
 aliases: "Compendium.pf2e.equipment-srd.Item.VISk5uLPVIvNWovB"
-license: OGL
+license: ORC
 ---
 # Bestial Mutagen (Moderate)
 ## Item 3
@@ -22,19 +23,19 @@ license: OGL
 **Bulk** L; **Size** med
 **Usage** held-in-one-hand
 
-**Activate** `pf2:1` Interact
+**Activate** `pf2:1` (manipulate)
 
 * * *
 
-Your features transform into something bestial and you take on muscle mass, but your lumbering form is clumsy.
+Your features transform into something bestial and lumbering.
 
-**Benefit** You gain a +2 item bonus to Athletics checks and unarmed attack rolls. You gain a claw unarmed attack (1d6 slashing damage) with the agile trait and a jaws unarmed attack (1d8 piercing damage).
+**Benefit** You gain a +2 item bonus to Athletics checks and unarmed attack rolls. You gain a claw unarmed attack (2d6 slashing damage) with the agile trait and a jaws unarmed attack (2d8 piercing damage). [[Equipment/Striking|Striking]] runes don't modify the damage caused by these attacks.
 
-**Drawback** You take a -1 penalty to AC and a -2 penalty to Reflex saves.
+**Drawback** You take a -2 penalty to Reflex saves, Acrobatics checks, and Stealth Checks.
 
 **Duration** 10 minutes.
 
 [[Equipment Effects/Effect_ Bestial Mutagen (Moderate)|Effect: Bestial Mutagen (Moderate)]]
 
-*Source: Pathfinder Core Rulebook*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

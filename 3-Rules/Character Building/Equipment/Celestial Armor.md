@@ -14,7 +14,7 @@ license: OGL
 ---
 # Celestial Armor
 ## Item 13
-### [[divine]][[flexible]][[invested]][[noisy]]
+### [[3-Rules/Rule References/Divine]][[flexible]][[invested]][[noisy]]
 
 **Category** medium; **Group** chain
 **Price** 2500 gp; 

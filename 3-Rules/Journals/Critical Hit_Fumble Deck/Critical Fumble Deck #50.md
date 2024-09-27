@@ -14,7 +14,7 @@ tags:
 
 # All Thumbs
 
-> Until healed, you are [[Conditions/Clumsy 1|Clumsy 1]].
+> Until healed, you are [[Conditions/Clumsy|Clumsy 1]].
 
 `Ranged`
 
@@ -26,6 +26,6 @@ tags:
 
 # Draining Magic
 
-> You are [[Conditions/Drained 1|Drained 1]].
+> You are [[Conditions/Drained|Drained 1]].
 
 `Spell`

@@ -7,8 +7,9 @@ tags:
   - trait/skill
   - trait/common
   - category/skill
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.lB9MVGCJr7aJQuIH"
-license: OGL
+license: ORC
 ---
 # Armored Stealth
 ## Feat 2
@@ -26,5 +27,5 @@ When you wear non-noisy armor with which you are trained, your penalty to Stealt
 
 If your armor has the noisy trait, instead of reducing the penalty to Stealth checks, you ignore the effects of the noisy trait, enabling you to remove the penalty with a sufficient Strength score as normal.
 
-*Source: Pathfinder Advanced Player's Guide*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

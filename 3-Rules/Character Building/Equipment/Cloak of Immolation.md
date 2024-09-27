@@ -13,7 +13,7 @@ license: ORC
 ---
 # Cloak of Immolation
 ## Item 7
-### [rare](rare "Rare Rarity Trait")[[cursed]][[invested]][[magical]]
+### [rare](rare.md "Rare Rarity Trait")[[cursed]][[invested]][[3-Rules/Rule References/Magical]]
 
 
 **Price** 0 gp; 

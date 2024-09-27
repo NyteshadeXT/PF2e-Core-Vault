@@ -11,6 +11,7 @@ tags:
   - pf2e/creature/type/lawful
   - pf2e/creature/type/mindless
   - pf2e/creature/type/unholy
+  - pf2eMonster
   - pf2e/creature/level/0
 statblock: inline
 name: "Lemure"
@@ -29,16 +30,17 @@ level: "Creature 0"
 
 alignment: ""
 size: "Medium"
-trait_01: "devil"
-trait_02: "evil"
-trait_03: "fiend"
-trait_04: "lawful"
-trait_05: "mindless"
-trait_06: "unholy"
+trait_01: [[devil]]
+trait_02: [[evil]]
+trait_03: [[fiend]]
+trait_04: [[lawful]]
+trait_05: [[mindless]]
+trait_06: [[unholy]]
 modifier: 0
 perception:
   - name: "Perception"
     desc: "+0; Greater Darkvision"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Athletics: +5"
@@ -66,8 +68,14 @@ attacks:
     desc: "`pf2:1` Claw +7 (magical, unholy)\n__Damage__  1d4 + 2 slashing"
 
   - name: "Subservience"
-    desc: "  Lemures have little drive of their own, but other devils can take command of them. A non-lemure devil can issue a command to all lemures within 60 feet of it with a single action, which has the auditory and concentrate traits. The devil picks one of the following orders lemures can understand, and the lemures follow that order. The command and its effects end once the commander is out of the lemure's sight, a new command is issued by the same or another devil, or the lemure dies.\n*   **Kill** The lemure attacks one target the commander singles out and gains a +1 circumstance bonus to attack rolls against the target.\n*   **Defend** The lemure circles the commander and attacks any creature that comes near. It gains a +1 circumstance bonus to AC and saves.\n*   **Fetch** The lemure gains a +10-foot circumstance bonus to its Speed and attempts to get an object or person the commander singles out. It attacks anyone and anything that gets in the way.\n*   **Work** The lemure performs drudge work dictated by the commander."
+    desc: "  Lemures have little drive of their own, but other devils can take command of them. A non-lemure devil can issue a command to all lemures within 60 feet of it with a single action, which has the auditory and concentrate traits. The devil picks one of the following orders lemures can understand, and the lemures follow that order. The command and its effects end once the commander is out of the lemure's sight, a new command is issued by the same or another devil, or the lemure dies.\n\n*   **Kill** The lemure attacks one target the commander singles out and gains a +1 circumstance bonus to attack rolls against the target.\n*   **Defend** The lemure circles the commander and attacks any creature that comes near. It gains a +1 circumstance bonus to AC and saves.\n*   **Fetch** The lemure gains a +10-foot circumstance bonus to its Speed and attempts to get an object or person the commander singles out. It attacks anyone and anything that gets in the way.\n*   **Work** The lemure performs drudge work dictated by the commander."
  
+```
+
+```encounter-table
+name: Lemure
+creatures:
+  - 1: Lemure
 ```
 
 

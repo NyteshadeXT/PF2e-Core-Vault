@@ -5,6 +5,7 @@ noteType: pf2eHazard
 tags:
   - mechanical
   - trap
+  - pf2eHazard
 
 source: Pathfinder #178: Punks in a Powder Keg
 aliases: "Compendium.pf2e.outlaws-of-alkenstar-bestiary.Actor.Qbt1X2GTcPvmptgc" 
@@ -22,14 +23,14 @@ name: "Lyzerium Bottles"
 level: "Hazard 1"
 
 
-trait_01: "mechanical"
-trait_02: "trap"
+trait_01: [[mechanical]]
+trait_02: [[trap]]
 modifier: 6
 sourcebook: "_Pathfinder #178: Punks in a Powder Keg_"
 ac: 13
 armorclass:
   - name: AC
-    desc: "13; __Fort__ +4, __Ref__ +6, __Will__ +0"
+    desc: "13; __Fort__ +4, __Ref__ +6, "
 hp: 4
 health:
   - name: ""
@@ -51,9 +52,15 @@ attacks:
   - name: ""
 
   - name: "Explode"
-    desc: "`pf2:r` **Trigger** A creature steps on the bottle or the bottle becomes broken\n**Effect** The bottle explodes, dealing 2d8 fire damage plus 2 persistent fire damage and 2 fire splash damage to each creature sharing its square (DC 18 Reflex check)."
+    desc: "`pf2:r` **Trigger** A creature steps on the bottle or the bottle becomes broken\n* * *\n\n**Effect** The bottle explodes, dealing 2d8 fire damage plus 2 persistent fire damage and 2 fire splash damage to each creature sharing its square (DC 18 Reflex check)."
 
 
 
+```
+
+```encounter-table
+name: Lyzerium Bottles
+creatures:
+  - 1: Lyzerium Bottles
 ```
 

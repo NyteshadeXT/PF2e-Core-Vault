@@ -30,7 +30,7 @@ After 1 minute, the absorbed damage disperses harmlessly and resets to 0. Only d
 
 **Requirements** Your armor has absorbed at least 30 damage
 
-**Effect** The absorbed energy explodes from your armor in a pulse of force. Creatures in a 30-foot emanation take 10d6 force damage with a DC 43 Fortitude check save. On a failure, they're pushed 10 feet away from you, and on a critical failure, they're pushed 20 feet away from you and fall [[Conditions/Prone|Prone]]. The armor's absorbed damage resets to 0.
+**Effect** The absorbed energy explodes from your armor in a pulse of force. Creatures in a @Template\[emanation|distance:30\] take 10d6 force damage with a DC 43 Fortitude check save. On a failure, they're pushed 10 feet away from you, and on a critical failure, they're pushed 20 feet away from you and fall [[Conditions/Prone|Prone]]. The armor's absorbed damage resets to 0.
 
 *Source: Pathfinder Secrets of Magic*
 *OGL*

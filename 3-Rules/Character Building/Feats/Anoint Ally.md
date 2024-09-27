@@ -7,8 +7,9 @@ tags:
   - trait/sorcerer
   - trait/common
   - category/class
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.bRftzbFvSF1pilIo"
-license: OGL
+license: ORC
 ---
 # Anoint Ally `pf2:1`
 ## Feat 2
@@ -25,7 +26,5 @@ You place a blood rune on an adjacent ally that lasts for 1 minute. When you wou
 
 You can anoint only one ally at a time; if you place another rune, your previous designation ends.
 
-[[Feat_Feature Effects/Effect_ Anoint Ally|Effect: Anoint Ally]]
-
-*Source: Pathfinder Advanced Player's Guide*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

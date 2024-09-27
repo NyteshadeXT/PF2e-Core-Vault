@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/chaotic
   - pf2e/creature/type/humanoid
   - pf2e/creature/type/lizardfolk
+  - pf2eMonster
   - pf2e/creature/level/2
 statblock: inline
 name: "Lizardfolk Warrior"
@@ -22,12 +23,12 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Kingmaker"
 name: "Lizardfolk Warrior"
 level: "Creature 2"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Medium"
-trait_01: "chaotic"
-trait_02: "humanoid"
-trait_03: "lizardfolk"
+trait_01: [[chaotic]]
+trait_02: [[humanoid]]
+trait_03: [[lizardfolk]]
 modifier: 7
 perception:
   - name: "Perception"
@@ -81,6 +82,12 @@ attacks:
   - name: "Terrain Advantage"
     desc: "  Non-lizardfolk creatures in difficult terrain and non-lizardfolk creatures that are in water and lack a swim Speed are [[Conditions/Off-Guard|Off-Guard]] to the lizardfolk scout."
  
+```
+
+```encounter-table
+name: Lizardfolk Warrior
+creatures:
+  - 1: Lizardfolk Warrior
 ```
 
 

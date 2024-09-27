@@ -10,6 +10,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/giant
   - pf2e/creature/type/troll
+  - pf2eMonster
   - pf2e/creature/level/4
 statblock: inline
 name: "Frost Troll"
@@ -25,14 +26,14 @@ token: [[modules/pf2e-tokens-bestiaries/portraits/humanoid/troll/frost-troll.web
 source: "Pathfinder Bestiary 2"
 name: "Frost Troll"
 level: "Creature 4"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Large"
-trait_01: "chaotic"
-trait_02: "cold"
-trait_03: "evil"
-trait_04: "giant"
-trait_05: "troll"
+trait_01: [[chaotic]]
+trait_02: [[cold]]
+trait_03: [[evil]]
+trait_04: [[giant]]
+trait_05: [[troll]]
 modifier: 12
 perception:
   - name: "Perception"
@@ -81,8 +82,14 @@ attacks:
     desc: "  A frost troll isn't impeded by difficult terrain caused by snow or ice, nor do they need to attempt Acrobatics checks to keep from falling on slippery ice."
 
   - name: "[[Bestiary Ability Glossary/Rend|Rend]]"
-    desc: "`pf2:1`  Claw\n"
+    desc: "`pf2:1`  Claw\n\n* * *\n"
  
+```
+
+```encounter-table
+name: Frost Troll
+creatures:
+  - 1: Frost Troll
 ```
 
 

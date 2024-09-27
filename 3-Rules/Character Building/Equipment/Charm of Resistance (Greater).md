@@ -12,7 +12,7 @@ license: ORC
 ---
 # Charm of Resistance (Greater)
 ## Item 10
-### [[invested]][[magical]]
+### [[invested]][[3-Rules/Rule References/Magical]]
 
 
 **Price** 975 gp; 

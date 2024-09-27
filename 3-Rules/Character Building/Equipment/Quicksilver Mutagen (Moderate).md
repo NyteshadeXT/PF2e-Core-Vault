@@ -10,8 +10,9 @@ tags:
   - trait/polymorph
   - trait/common
   - category/mutagen
+  - remaster
 aliases: "Compendium.pf2e.equipment-srd.Item.n52BSbZsnx4Vmt2p"
-license: OGL
+license: ORC
 ---
 # Quicksilver Mutagen (Moderate)
 ## Item 3
@@ -22,11 +23,11 @@ license: OGL
 **Bulk** L; **Size** med
 **Usage** held-in-one-hand
 
-**Activate** `pf2:1` Interact
+**Activate** `pf2:1` (manipulate)
 
 * * *
 
-Your features become thin and angular. You become swifter and nimbler, but your body also becomes fragile.
+You become swifter and nimbler but also fragile.
 
 **Benefit** You gain a +2 item bonus to Acrobatics checks, Stealth checks, Thievery checks, Reflex saves, and Dexterity-based attack rolls, and you gain a +10 foot status bonus to your Speed.
 
@@ -36,5 +37,5 @@ Your features become thin and angular. You become swifter and nimbler, but your 
 
 [[Equipment Effects/Effect_ Quicksilver Mutagen (Moderate)|Effect: Quicksilver Mutagen (Moderate)]]
 
-*Source: Pathfinder Core Rulebook*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

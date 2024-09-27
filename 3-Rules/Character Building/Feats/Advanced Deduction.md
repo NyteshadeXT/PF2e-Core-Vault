@@ -6,8 +6,9 @@ tags:
   - trait/archetype
   - trait/common
   - category/class
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.L1rCuwsCKWd9zlS3"
-license: OGL
+license: ORC
 ---
 # Advanced Deduction
 ## Feat 6
@@ -25,5 +26,5 @@ You gain one investigator feat. For the purpose of meeting its prerequisites, yo
 
 **Special** You can select this feat more than once. Each time you select it, you gain another investigator feat.
 
-*Source: Pathfinder Advanced Player's Guide*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

@@ -7,8 +7,9 @@ tags:
   - trait/skill
   - trait/common
   - category/skill
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.B9cQLRHtXoLlF0iR"
-license: OGL
+license: ORC
 ---
 # Concealing Legerdemain
 ## Feat 1
@@ -24,5 +25,5 @@ Rather than hide an object somewhere the inspectors won't search, you're skilled
 
 When you [[Actions/Conceal an Object|Conceal an Object]] of light Bulk or less, you can use Thievery instead of Stealth for your checks and for the DC of an active searcher's Perception check. You roll the check only once, but you must continue to use actions to Conceal an Object throughout the process.
 
-*Source: Pathfinder Advanced Player's Guide*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

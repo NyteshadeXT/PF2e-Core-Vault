@@ -6,6 +6,7 @@ cssClasses: pf2e
 aliases: "Compendium.pf2e.pathfinder-bestiary-2.Actor.yXP9vS35tZ5iAUix" 
 tags:
   - pf2e/creature/type/petitioner
+  - pf2eMonster
   - pf2e/creature/level/1
 statblock: inline
 name: "Petitioner (Astral Plane)"
@@ -24,11 +25,12 @@ level: "Creature 1"
 
 alignment: ""
 size: "Medium"
-trait_01: "petitioner"
+trait_01: [[petitioner]]
 modifier: 7
 perception:
   - name: "Perception"
     desc: "+7; Darkvision"
+languages: "any one spoken in life (such as common)"
 skills:
   - name: "Skills"
     desc: "Athletics: +7, Planar Lore: +7"
@@ -56,8 +58,14 @@ attacks:
     desc: "`pf2:1` Fist +7 ()\n__Damage__  1d8 + 2 bludgeoning"
 
   - name: "Planar Incarnation - Astral Plane"
-    desc: "  All petitioners are formed from and personify the nature of the plane on which they manifest, and their statistics are adjusted as summarized below. They also gain any trait associated with creatures from their plane.\n**Astral Plane** The untethered appear as astrally projected versions of their mortal forms, yet they lack a silver cord\n*   **Alignment** any;\n*   **Language** any one spoken in life (such as Common);\n*   **Additional Ability** fly Speed 20 feet;\n*   **Melee** fist +7, **Damage** 1d8+2 bludgeoning"
+    desc: "  All petitioners are formed from and personify the nature of the plane on which they manifest, and their statistics are adjusted as summarized below. They also gain any trait associated with creatures from their plane.\n\n**Astral Plane** The untethered appear as astrally projected versions of their mortal forms, yet they lack a silver cord\n\n*   **Alignment** any;\n*   **Language** any one spoken in life (such as Common);\n*   **Additional Ability** fly Speed 20 feet;\n*   **Melee** fist +7, **Damage** 1d8+2 bludgeoning"
  
+```
+
+```encounter-table
+name: Petitioner (Astral Plane)
+creatures:
+  - 1: Petitioner (Astral Plane)
 ```
 
 

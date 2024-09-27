@@ -6,8 +6,9 @@ tags:
   - trait/catfolk
   - trait/common
   - category/ancestry
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.5qVCl5MwPcx0sS7T"
-license: OGL
+license: ORC
 ---
 # Elude Trouble `pf2:r`
 ## Feat 17
@@ -18,11 +19,11 @@ license: OGL
 
 
 
-**Trigger** A creature misses you with a melee attack.
+**Trigger** A creature missed you with a melee attack.
 
 * * *
 
-You slip through your foe's opening. Stride up to your Speed. This movement doesn't trigger movement-based reactions from the creature that missed you.
+Stride up to your Speed. This movement doesn't trigger reactions from the creature that missed you.
 
-*Source: Pathfinder Lost Omens: Ancestry Guide*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

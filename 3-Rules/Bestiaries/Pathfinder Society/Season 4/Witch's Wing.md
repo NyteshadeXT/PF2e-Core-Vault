@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/human
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/1
 statblock: inline
 name: "Witch&#x27;s Wing"
@@ -25,9 +26,9 @@ level: "Creature 1"
 
 alignment: ""
 size: "Medium"
-trait_01: "evil"
-trait_02: "human"
-trait_03: "humanoid"
+trait_01: [[evil]]
+trait_02: [[human]]
+trait_03: [[humanoid]]
 modifier: 5
 perception:
   - name: "Perception"
@@ -35,7 +36,7 @@ perception:
 languages: "Common, Mahwek"
 skills:
   - name: "Skills"
-    desc: "Athletics: +7, Intimidation: +6, Owl Coven Lore: +6, Thievery: +3"
+    desc: "Athletics: +7, Intimidation: +6, Thievery: +3, Owl Coven Lore: +6"
 abilityMods: [4, 0, 2, 1, 0, 3]
 speed: 25 feet
 sourcebook: "_Pathfinder Society Scenario #4-12: Negotiations for the Star Gun_"
@@ -61,8 +62,14 @@ attacks:
     desc: "`pf2:1` Bastard Sword +9 (two-hand d12)\n__Damage__  1d8 slashing"
 
   - name: "You're Next"
-    desc: "`pf2:r` (emotion,fear,mental) **Trigger** The witch's wing reduces a creature to 0 Hit Points\n**Effect** The witch's wing attempt an Intimidation check with a +2 circumstance bonus to [[Actions/Demoralize|Demoralize]] a single creature they can see and that can see them."
+    desc: "`pf2:r` (emotion,fear,mental) **Trigger** The witch's wing reduces a creature to 0 Hit Points\n* * *\n\n**Effect** The witch's wing attempt an Intimidation check with a +2 circumstance bonus to [[Actions/Demoralize|Demoralize]] a single creature they can see and that can see them."
  
+```
+
+```encounter-table
+name: Witch's Wing
+creatures:
+  - 1: Witch's Wing
 ```
 
 

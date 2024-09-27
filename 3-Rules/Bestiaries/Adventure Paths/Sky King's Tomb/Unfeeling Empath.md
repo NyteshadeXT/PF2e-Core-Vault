@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/undead
   - pf2e/creature/type/unholy
+  - pf2eMonster
   - pf2e/creature/level/2
 statblock: inline
 name: "Unfeeling Empath"
@@ -22,12 +23,12 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #193: Mantle of Gold"
 name: "Unfeeling Empath"
 level: "Creature 2"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Small"
-trait_01: "evil"
-trait_02: "undead"
-trait_03: "unholy"
+trait_01: [[evil]]
+trait_02: [[undead]]
+trait_03: [[unholy]]
 modifier: 9
 perception:
   - name: "Perception"
@@ -66,14 +67,20 @@ attacks:
     desc: "`pf2:1` Fist +11 (agile)\n__Damage__  1d8 + 3 bludgeoning"
 
   - name: "Cathartic Howl"
-    desc: "`pf2:2` (auditory,emotion,mental,sonic) **Requirements** The unfeeling empath is under an emotion effect\n**Effect** The unfeeling empath attempts to counteract the emotion effect, with a counteract modifier of +11. It then howls, projecting those emotions in a 15-foot cone (or a 30-foot cone if the unfeeling empath successfully counteracted the emotion effect). Creatures in the area take 2d8 mental damage (DC 18 Will check save). A creature that critically fails this saving throw also takes 1d4 mental persistent damage."
+    desc: "`pf2:2` (auditory,emotion,mental,sonic) **Requirements** The unfeeling empath is under an emotion effect\n* * *\n\n**Effect** The unfeeling empath attempts to counteract the emotion effect, with a counteract modifier of +11. It then howls, projecting those emotions in a @Template[cone|distance:15] (or a @Template[cone|distance:30] if the unfeeling empath successfully counteracted the emotion effect). Creatures in the area take 2d8 mental damage (DC 18 Will check save). A creature that critically fails this saving throw also takes 1d4 mental persistent damage."
 
   - name: "Drink Emotions"
-    desc: "`pf2:1` (emotion,healing,mental) **Requirements** An enemy is under an emotion effect within 20 feet of the unfeeling empath\n**Effect** The unfeeling empath regains 1d4 Hit Points and becomes emotionally excited for 3 rounds. While excited, the unfeeling empath takes a –1 penalty to AC, gains a +1 status bonus to attack rolls, and deals an additional 1d4 mental damage with its melee Strikes.\n[[Bestiary Effects/Effect_ Drink Emotions|Effect: Drink Emotions]]"
+    desc: "`pf2:1` (emotion,healing,mental) **Requirements** An enemy is under an emotion effect within 20 feet of the unfeeling empath\n* * *\n\n**Effect** The unfeeling empath regains 1d4 Hit Points and becomes emotionally excited for 3 rounds. While excited, the unfeeling empath takes a –1 penalty to AC, gains a +1 status bonus to attack rolls, and deals an additional 1d4 mental damage with its melee Strikes.\n\n[[Bestiary Effects/Effect_ Drink Emotions|Effect: Drink Emotions]]"
 
   - name: "Goad"
-    desc: "`pf2:1` (emotion,mental,occult) The unfeeling empath floods a creature within 30 feet with countless memories and sensations. The target must attempt a DC 18 Will check save.\n**Success** The target is unaffected.\n**Failure** The target is [[Conditions/Stupefied 1|Stupefied 1]] until the end of the unfeeling empath's next turn.\n**Critical Failure** The target is [[Conditions/Stupefied 1|Stupefied 2]] for 1d4 rounds."
+    desc: "`pf2:1` (emotion,mental,occult) The unfeeling empath floods a creature within 30 feet with countless memories and sensations. The target must attempt a DC 18 Will check save.\n\n**Success** The target is unaffected.\n\n**Failure** The target is [[Conditions/Stupefied|Stupefied 1]] until the end of the unfeeling empath's next turn.\n\n**Critical Failure** The target is [[Conditions/Stupefied|Stupefied 2]] for 1d4 rounds."
  
+```
+
+```encounter-table
+name: Unfeeling Empath
+creatures:
+  - 1: Unfeeling Empath
 ```
 
 

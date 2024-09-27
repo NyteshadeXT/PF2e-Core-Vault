@@ -11,7 +11,7 @@ license: OGL
 ---
 # Bloodline: Wyrmblessed
 ## Feat 1
-### [[sorcerer]]
+### [[3-Rules/trait_reference/sorcerer]]
 
 **Category** classfeature; 
 
@@ -26,7 +26,7 @@ You lay claim to the might of dragons, but your powers are sacred instead of arc
 
 **Granted Spells** cantrip: [[Spells/Read Aura|Read Aura]]; 1st: [[Spells/Mystic Armor|Mystic Armor]]; 2nd: [[Spells/Resist Energy|Resist Energy]]; 3rd: [[Spells/Haste|Haste]]; 4th: [[Spells/Reflective Scales|Reflective Scales]]; 5th: [[Spells/Cloak of Colors|Cloak of Colors]]; 6th: [[Spells/Repulsion|Repulsion]]; 7th: [[Spells/Mask of Terror|Mask of Terror]]; 8th: [[Spells/Divine Inspiration|Divine Inspiration]], 9th: [[Spells/Overwhelming Presence|Overwhelming Presence]]
 
-**Bloodline Spells** initial: [[Spells/Dragon Claws|Dragon Claws]]; advanced: [[Spells/Dragon Breath|Dragon Breath]]; greater: [[Spells/Dragon Wings|Dragon Wings]]
+**Bloodline Spells** initial: [[Spells/Flurry of Claws|Flurry of Claws]]; advanced: [[Spells/Dragon Breath|Dragon Breath]]; greater: [[Spells/Dragon Wings|Dragon Wings]]
 
 **Blood Magic** Draconic might carries in your voice. Either you gain a +1 status bonus to Intimidation checks for 1 round, or a target takes a -1 status penalty to Will saves for 1 round.
 
@@ -42,7 +42,7 @@ The primal dragons of planar origin and their damage types are brine (acid), clo
 
 The imperial dragons and their damage types are forest (piercing), sea (bludgeoning), sky (electricity), sovereign (mental), and underworld (fire).
 
-For the dragon breath focus spell, the area is a 60-foot line for a brine dragon; a 30-foot cone for a cloud, crystal, forest, magma, sovereign, or umbral dragon; and a 10-foot burst within 30 feet for a sea, sky, or underworld dragon.
+For the dragon breath focus spell, the area is a @Template\[line|distance:60\] for a brine dragon; a @Template\[cone|distance:30\] for a cloud, crystal, forest, magma, sovereign, or umbral dragon; and a @Template\[burst|distance:10\] within 30 feet for a sea, sky, or underworld dragon.
 
 ## Related bloodline
 

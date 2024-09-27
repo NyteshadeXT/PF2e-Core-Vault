@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/archon
   - pf2e/creature/type/celestial
   - pf2e/creature/type/holy
+  - pf2eMonster
   - pf2e/creature/level/10
   - remaster
 statblock: inline
@@ -20,15 +21,16 @@ license: ORC
 columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
+token: [[modules/pf2e-tokens-monster-core/assets/portraits/archon-rekhep.webp| ]]
 source: "Pathfinder Monster Core"
 name: "Rekhep"
 level: "Creature 10"
 
 alignment: ""
 size: "Large"
-trait_01: "archon"
-trait_02: "celestial"
-trait_03: "holy"
+trait_01: [[archon]]
+trait_02: [[celestial]]
+trait_03: [[holy]]
 modifier: 19
 perception:
   - name: "Perception"
@@ -67,7 +69,7 @@ attacks:
   - name: "Divine Innate Spells"
     desc: "DC 27, attack +19; __4th __  _[[Spells/Translocate|Translocate (At Will)]]_; __2nd __  _[[Spells/Share Life|Share Life (x3)]]_; __1st __  _[[Spells/Sure Strike|Sure Strike (x3)]]_\n__Cantrips__  __(5th)__ _[[Spells/Divine Lance|Divine Lance]]_, _[[Spells/Message|Message]]_\n__Constant__  __(5th)__ _[[Spells/Truespeech|Truespeech]]_"
 
-  - name: "[[Actor.oTw6wAZmGiL3oGWR.Item.MwMQRd6zWTqreigg|Archon’s Pursuit]]"
+  - name: "[[Actor.oTw6wAZmGiL3oGWR.Item.MwMQRd6zWTqreigg|Archon's Pursuit]]"
     desc: "`pf2:2`  **Frequency** once per day\n\n**Requirements** The rekhep saw another creature teleport within the last round and has at least one [[Spells/Translocate|Translocate]] spell remaining\n* * *\n\n**Effect** The rekhep casts one of their _translocate_ spells, which is heightened to 5th rank and causes the qarna to arrive in an unoccupied space it chooses within 30 feet of the creature it's pursuing. If the creature is too far away, the rekhep arrives as close as possible."
 
   - name: "Courageous Switch"
@@ -77,11 +79,17 @@ attacks:
     desc: " (divine,holy) Any weapon gains the _[[Equipment/Holy|Holy]]_ rune while the rekhep wields it."
 
   - name: "Living Shield"
-    desc: "`pf2:1`  The rekhep grants an adjacent ally a +2 circumstance bonus to AC until they’re no longer adjacent or until the start of the archon’s next turn, whichever comes first. When the rekhep uses Archon’s Protection against an attack against the shielded ally, the rekhep gains the resistance and takes the damage rather than the ally.\n* * *\n\n[[Bestiary Effects/Effect_ Living Shield|Effect: Living Shield]]"
+    desc: "`pf2:1`  The rekhep grants an adjacent ally a +2 circumstance bonus to AC until they're no longer adjacent or until the start of the archon's next turn, whichever comes first. When the rekhep uses Archon's Protection against an attack against the shielded ally, the rekhep gains the resistance and takes the damage rather than the ally.\n* * *\n\n[[Bestiary Effects/Effect_ Living Shield|Effect: Living Shield]]"
 
   - name: "Terrifying Smite"
-    desc: "`pf2:2` (emotion,fear,mental) The rekhep makes a Strike against an enemy that has one of the rekhep’s allies within its reach. On a hit, the target takes an additional 2d8 mental damage and is [[Conditions/Frightened 1|Frightened 2]]. The extra damage and frightened value are doubled on a critical hit."
+    desc: "`pf2:2` (emotion,fear,mental) The rekhep makes a Strike against an enemy that has one of the rekhep's allies within its reach. On a hit, the target takes an additional 2d8 mental damage and is [[Conditions/Frightened|Frightened 2]]. The extra damage and frightened value are doubled on a critical hit."
  
+```
+
+```encounter-table
+name: Rekhep
+creatures:
+  - 1: Rekhep
 ```
 
 

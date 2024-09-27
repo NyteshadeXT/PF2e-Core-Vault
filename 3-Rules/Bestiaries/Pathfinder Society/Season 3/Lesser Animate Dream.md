@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/dream
   - pf2e/creature/type/evil
   - pf2e/creature/type/incorporeal
+  - pf2eMonster
   - pf2e/creature/level/6
 statblock: inline
 name: "Lesser Animate Dream"
@@ -22,16 +23,17 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Society Scenario #3-19: Mean Streets of Shadow Absalom"
 name: "Lesser Animate Dream"
 level: "Creature 6"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Medium"
-trait_01: "dream"
-trait_02: "evil"
-trait_03: "incorporeal"
+trait_01: [[dream]]
+trait_02: [[evil]]
+trait_03: [[incorporeal]]
 modifier: 12
 perception:
   - name: "Perception"
     desc: "+12; Darkvision"
+languages: "telepathy 100 feet"
 skills:
   - name: "Skills"
     desc: "Acrobatics: +12, Deception: +15, Intimidation: +15, Occultism: +10, Stealth: +14"
@@ -62,8 +64,14 @@ attacks:
     desc: "DC 24, attack +16; __3rd __  _[[Spells/Fear|Fear]]_, _[[Spells/Sleep|Sleep]]_; __2nd __  _[[Spells/Paranoia|Paranoia]]_"
 
   - name: "Endless Nightmare"
-    desc: " (curse,emotion,fear,mental,occult) An animate dream's touch fills the victim's mind with terrifying visions\n**Saving Throw** DC 24 Fortitude check\n**Stage 1** [[Conditions/Fatigued|Fatigued]] (1 day)\n**Stage 2** fatigued and [[Conditions/Stupefied 1|Stupefied 1]] (1 day)\n**Stage 3** The victim falls [[Conditions/Unconscious|Unconscious]] and can't be awakened as long as they remain at this stage (1 day)."
+    desc: " (curse,emotion,fear,mental,occult) An animate dream's touch fills the victim's mind with terrifying visions\n\n**Saving Throw** DC 24 Fortitude check\n\n**Stage 1** [[Conditions/Fatigued|Fatigued]] (1 day)\n\n**Stage 2** fatigued and [[Conditions/Stupefied|Stupefied 1]] (1 day)\n\n**Stage 3** The victim falls [[Conditions/Unconscious|Unconscious]] and can't be awakened as long as they remain at this stage (1 day)."
  
+```
+
+```encounter-table
+name: Lesser Animate Dream
+creatures:
+  - 1: Lesser Animate Dream
 ```
 
 

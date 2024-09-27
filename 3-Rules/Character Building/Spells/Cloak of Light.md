@@ -4,6 +4,7 @@ title: "Cloak of Light"
 noteType: pf2eSpell
 cssclasses: pf2e,pf2e-spell
 tags:
+  - pf2eSpell
   - spell/level/4
   - trait/concentrate
   - trait/healing
@@ -11,23 +12,33 @@ tags:
   - trait/manipulate
   - trait/vitality
   - trait/uncommon
+  - tradition/divine
+  - tradition/primal
+
 aliases: "Compendium.pf2e.spells-srd.Item.ba1RyDpwq6tfW8VM" 
+license: OGL
 ---
-# Cloak of Light  `pf2:2`  
-## Spell 4
-### [uncommon](uncommon "Uncommon Rarity Trait")[[concentrate]][[healing]][[3-Rules/Character Building/Spells/Light]][[manipulate]][[vitality]]
-**Traditions** [[divine]], [[primal]]
-**Duration** 5 rounds
-* * * 
-You surround yourself in holy light that restores the living and rebuffs undead. You glow with bright light in a 30-foot radius and dim light to the next 30 feet.
+```statblock
+name: "Cloak of Light  `pf2:2`"
+level: "Spell 4"
+rare_03: [[Uncommon]]
+trait_01: [[concentrate]]
+trait_02: [[healing]]
+trait_03: [[light]]
+trait_04: [[manipulate]]
+trait_05: [[vitality]]
+layout: Basic Pathfinder 2e Layout
+columns: 1
+columnWidth: x
+abilities_top:
+  - name: ""
+  - name: "Traditions"
+    desc: "divine, primal"
 
-Living creatures that begin their turn adjacent to you recover 2d4 Hit Points. Undead creatures that begin their turn adjacent to you take 4d4 vitality damage.
-
-* * *
-
-**Heightened (+2)** The healing increases by 1d4, and the damage to undead increases by 2d4.
-
-[[Spell Effects/Spell Effect_ Cloak of Light|Spell Effect: Cloak of Light]]
-
-*Source: Pathfinder #172: Secrets of the Temple-City*
-*OGL*
+  - name: "Duration"
+    desc: "5 rounds"
+abilities_mid:
+  - name: ""
+    desc: "You surround yourself in holy light that restores the living and rebuffs undead. You glow with bright light in a 30-foot radius and dim light to the next 30 feet.\n\nLiving creatures that begin their turn adjacent to you recover 2d4 Hit Points. Undead creatures that begin their turn adjacent to you take 4d4 vitality damage.\n* * *\n\n**Heightened (+2)** The healing increases by 1d4, and the damage to undead increases by 2d4.\n\n[[Spell Effects/Spell Effect_ Cloak of Light|Spell Effect: Cloak of Light]]"
+sourcebook: "_Pathfinder #172: Secrets of the Temple-City_"
+```

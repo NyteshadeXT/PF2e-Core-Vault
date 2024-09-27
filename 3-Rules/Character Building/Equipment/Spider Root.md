@@ -34,11 +34,11 @@ A paste made by mashing the fine, threadlike roots of a certain creeper vine, sp
 
 **Maximum Duration** 6 minutes
 
-**Stage 1** 3d6 poison damage and [[Conditions/Clumsy 1|Clumsy 1]] (1 minute)
+**Stage 1** 3d6 poison damage and [[Conditions/Clumsy|Clumsy 1]] (1 minute)
 
-**Stage 2** 4d6 poison damage and [[Conditions/Clumsy 1|Clumsy 2]] (1 minute)
+**Stage 2** 4d6 poison damage and [[Conditions/Clumsy|Clumsy 2]] (1 minute)
 
-**Stage 3** 6d6 poison damage and [[Conditions/Clumsy 1|Clumsy 3]] (1 minute)
+**Stage 3** 6d6 poison damage and [[Conditions/Clumsy|Clumsy 3]] (1 minute)
 
 *Source: Pathfinder GM Core*
 *ORC*

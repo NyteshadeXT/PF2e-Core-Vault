@@ -3,6 +3,7 @@ obsidianUIMode: preview
 title: "Duelist's Beacon"
 cssclasses: pf2e,pf2e-spell
 tags:
+  - trait/light
   - trait/magical
   - trait/uncommon
 aliases: "Compendium.pf2e.equipment-srd.Item.rh4T08EsddrwfHcs"
@@ -10,7 +11,7 @@ license: OGL
 ---
 # Duelist's Beacon
 ## Item 8
-### [uncommon](uncommon "Uncommon Rarity Trait")[[magical]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[3-Rules/trait_reference/light]][[3-Rules/Rule References/Magical]]
 
 
 **Price** 450 gp; 

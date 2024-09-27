@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.pathfinder-bestiary-3.Actor.Gf3g6wQquSjJhFMC"
 tags:
   - pf2e/creature/type/humanoid
   - pf2e/creature/type/samsaran
+  - pf2eMonster
   - pf2e/creature/level/1
 statblock: inline
 name: "Samsaran Anchorite"
@@ -22,11 +23,11 @@ token: [[modules/pf2e-tokens-bestiaries/portraits/humanoid/samsaran-anchorite.we
 source: "Pathfinder Bestiary 3"
 name: "Samsaran Anchorite"
 level: "Creature 1"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Medium"
-trait_01: "humanoid"
-trait_02: "samsaran"
+trait_01: [[humanoid]]
+trait_02: [[samsaran]]
 modifier: 9
 perception:
   - name: "Perception"
@@ -57,10 +58,10 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "All This Has Happened Before"
-    desc: "`pf2:r` (occult) **Frequency** once per day\n**Trigger** The samsaran anchorite is about to roll initiative\n**Effect** The anchorite experiences a flash of recognition from a previous existence, gaining a +4 circumstance bonus to the triggering roll.\nIf this causes the anchorite to be the first creature to act, they also become [[Conditions/Quickened|Quickened]] for 1 round, but they can use the extra action only to [[Actions/Recall Knowledge|Recall Knowledge]] or Step."
+    desc: "`pf2:r` (occult) **Frequency** once per day\n\n**Trigger** The samsaran anchorite is about to roll initiative\n* * *\n\n**Effect** The anchorite experiences a flash of recognition from a previous existence, gaining a +4 circumstance bonus to the triggering roll.\n\nIf this causes the anchorite to be the first creature to act, they also become [[Conditions/Quickened|Quickened]] for 1 round, but they can use the extra action only to [[Actions/Recall Knowledge|Recall Knowledge]] or Step."
 
   - name: "All This Will Happen Again"
-    desc: "`pf2:r` (emotion,fortune,mental) **Frequency** once per day\n**Trigger** The samsaran anchorite fails or critically fails a Will save against an emotion effect\n**Effect** Even in the face of overwhelming tribulation, the anchorite finds solace in the notion that all things are merely part of a never-ending cycle.They reroll the saving throw with a +1 status bonus; they must use the second result."
+    desc: "`pf2:r` (emotion,fortune,mental) **Frequency** once per day\n\n**Trigger** The samsaran anchorite fails or critically fails a Will save against an emotion effect\n* * *\n\n**Effect** Even in the face of overwhelming tribulation, the anchorite finds solace in the notion that all things are merely part of a never-ending cycle.They reroll the saving throw with a +1 status bonus; they must use the second result."
 
 attacks:
   - name: ""
@@ -74,6 +75,12 @@ attacks:
   - name: "Divine Prepared Spells"
     desc: "DC 17, attack +9; __1st __  _[[Spells/Command|Command]]_, _[[Spells/Heal|Heal]]_, _[[Spells/Sanctuary|Sanctuary]]_\n__Cantrips__  __(1st)__ _[[Spells/Guidance|Guidance]]_, _[[Spells/Light|Light]]_"
  
+```
+
+```encounter-table
+name: Samsaran Anchorite
+creatures:
+  - 1: Samsaran Anchorite
 ```
 
 

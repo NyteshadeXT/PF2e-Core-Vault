@@ -17,7 +17,7 @@ license: OGL
 
 
 
-**Major Boon** When you contract contagions, you experience fever dreams filled with insight.
+When you contract contagions, you experience fever dreams filled with insight.
 
 Once afflicted with a disease, you gain the effects of [[Spells/Foresight|Foresight]] with yourself as the target until no longer afflicted with any disease.
 

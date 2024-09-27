@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/angel
   - pf2e/creature/type/celestial
   - pf2e/creature/type/holy
+  - pf2eMonster
   - pf2e/creature/level/8
   - remaster
 statblock: inline
@@ -27,9 +28,9 @@ level: "Creature 8"
 
 alignment: ""
 size: "Medium"
-trait_01: "angel"
-trait_02: "celestial"
-trait_03: "holy"
+trait_01: [[angel]]
+trait_02: [[celestial]]
+trait_03: [[holy]]
 modifier: 18
 perception:
   - name: "Perception"
@@ -77,6 +78,12 @@ attacks:
   - name: "Guiding Angel"
     desc: "`pf2:1` (concentrate,divine) **Requirements** The balisse is [[Conditions/Invisible|Invisible]]\n* * *\n\n**Effect** The balisse spiritually attaches themself to an adjacent mortal who doesn't have the unholy trait. They merge with the mortal's body and are unable to use any of their spells and abilities other than to interact with the mortal. They can [[Actions/Dismiss|Dismiss]] the effect to leave the mortal. While merged, the balisse can either communicate using a bodiless voice only the mortal can hear or can take a form of their choice that only the mortal can see, such as a small angel on the mortal's shoulder."
  
+```
+
+```encounter-table
+name: Balisse
+creatures:
+  - 1: Balisse
 ```
 
 

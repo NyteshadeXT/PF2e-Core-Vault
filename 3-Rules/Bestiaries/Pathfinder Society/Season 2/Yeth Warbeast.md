@@ -10,6 +10,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/fiend
   - pf2e/creature/type/unholy
+  - pf2eMonster
   - pf2e/creature/level/7
 statblock: inline
 name: "Yeth Warbeast"
@@ -24,19 +25,19 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Society Scenario #2-20: Breaking the Storm: Bastion in Embers"
 name: "Yeth Warbeast"
 level: "Creature 7"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Large"
-trait_01: "beast"
-trait_02: "chaotic"
-trait_03: "evil"
-trait_04: "fiend"
-trait_05: "unholy"
+trait_01: [[beast]]
+trait_02: [[chaotic]]
+trait_03: [[evil]]
+trait_04: [[fiend]]
+trait_05: [[unholy]]
 modifier: 15
 perception:
   - name: "Perception"
     desc: "+15; Darkvision, Scent (Imprecise) 30 Feet"
-languages: "Chthonian"
+languages: "Chthonian; (can&#x27;t speak any language)"
 skills:
   - name: "Skills"
     desc: "Acrobatics: +13, Athletics: +17, Stealth: +15, Survival: +13"
@@ -67,17 +68,23 @@ attacks:
     desc: "DC 25, attack +17\n__Constant__  __(4th)__ _[[Spells/Air Walk|Air Walk]]_"
 
   - name: "Bay"
-    desc: "`pf2:3` (auditory,concentrate,divine,fear,mental) The yeth warbeast emits an unearthly howl audible up to 300 feet feet away. Any non-fiend creature that hears the howl must succeed at a DC 25 Will check save or become [[Conditions/Frightened 1|Frightened 1]]. Any creature that critically fails and is within 60 feet of the yeth warbeast is instead [[Conditions/Frightened 1|Frightened 3]] and [[Conditions/Fleeing|Fleeing]] for 1d4 rounds (or until it recovers from its frightened condition).\nWhether it succeeds or fails the saving throw, the creature is then temporarily immune to Bay for 24 hours."
+    desc: "`pf2:3` (auditory,concentrate,divine,fear,mental) The yeth warbeast emits an unearthly howl audible up to 300 feet feet away. Any non-fiend creature that hears the howl must succeed at a DC 25 Will check save or become [[Conditions/Frightened|Frightened 1]]. Any creature that critically fails and is within 60 feet of the yeth warbeast is instead [[Conditions/Frightened|Frightened 3]] and [[Conditions/Fleeing|Fleeing]] for 1d4 rounds (or until it recovers from its frightened condition).\n\nWhether it succeeds or fails the saving throw, the creature is then temporarily immune to Bay for 24 hours."
 
   - name: "Ear-splitting Howl"
-    desc: "`pf2:2` (auditory,divine,fear,mental,sonic) The yeth warbeast releases a piercing bark that deals 8d6 sonic damage in a 20-foot cone (DC 25 Reflex check save). A creature that critically fails also becomes [[Conditions/Frightened 1|Frightened 1]], or increases the value of its frightened condition by 1 if already frightened.\nThe warbeast can't use Ear-Splitting Howl again for 1d4 rounds."
+    desc: "`pf2:2` (auditory,divine,fear,mental,sonic) The yeth warbeast releases a piercing bark that deals 8d6 sonic damage in a @Template[cone|distance:20] (DC 25 Reflex check save). A creature that critically fails also becomes [[Conditions/Frightened|Frightened 1]], or increases the value of its frightened condition by 1 if already frightened.\n\nThe warbeast can't use Ear-Splitting Howl again for 1d4 rounds."
 
   - name: "Sinister Bite"
-    desc: "  A good creature bitten by a yeth hound must attempt a DC 25 Will check save. On a critical success, the creature is temporarily immune to sinister bite for 1 minute. A creature that fails becomes [[Conditions/Frightened 1|Frightened 1]], or increases the value of its frightened condition by 1 if already frightened."
+    desc: "  A good creature bitten by a yeth hound must attempt a DC 25 Will check save. On a critical success, the creature is temporarily immune to sinister bite for 1 minute. A creature that fails becomes [[Conditions/Frightened|Frightened 1]], or increases the value of its frightened condition by 1 if already frightened."
 
   - name: "[[Bestiary Ability Glossary/Knockdown|Knockdown]]"
     desc: "`pf2:1`  "
  
+```
+
+```encounter-table
+name: Yeth Warbeast
+creatures:
+  - 1: Yeth Warbeast
 ```
 
 

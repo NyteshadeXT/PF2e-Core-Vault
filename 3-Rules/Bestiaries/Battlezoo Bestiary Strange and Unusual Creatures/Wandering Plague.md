@@ -7,6 +7,7 @@ aliases: "Compendium.battlezoo-bestiary-su-pf2e.pf2e-battlezoo-su-actors.Actor.L
 tags:
   - pf2e/creature/type/mindless
   - pf2e/creature/type/ooze
+  - pf2eMonster
   - pf2e/creature/level/9
 statblock: inline
 name: "Wandering Plague"
@@ -22,18 +23,19 @@ token: [[modules/battlezoo-bestiary-su-pf2e/art/Portraits/wandering-plague.webp|
 source: "Battlezoo Bestiary: Strange and Unusual"
 name: "Wandering Plague"
 level: "Creature 9"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Medium"
-trait_01: "mindless"
-trait_02: "ooze"
+trait_01: [[mindless]]
+trait_02: [[ooze]]
 modifier: 11
 perception:
   - name: "Perception"
-    desc: "+11; Motion Sense (Precise) 60 Feet"
+    desc: "+11; Motion Sense (Imprecise) 60 Feet"
+languages: ""
 skills:
   - name: "Skills"
-    desc: "Athletics: +22, "
+    desc: "Athletics: +22, Athletics: +22"
 abilityMods: [7, -4, 6, -5, 0, -5]
 speed: 20 feet,  burrow 20 feet
 sourcebook: "_Battlezoo Bestiary: Strange and Unusual_"
@@ -61,26 +63,32 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Virulent Nature"
-    desc: "  A wandering plague targeted by _Remove Disease_ takes 2d10 damage per spell level, with a basic Fortitude save against the caster's spell DC. On a failure, the wandering plague is Stunned 1. On a critical failure, the wandering plague is instead Stunned 4."
+    desc: "  A wandering plague targeted by _[[undefined]]_ takes 2d10 damage per spell level, with a basic Fortitude save against the caster's spell DC. On a failure, the wandering plague is [[undefined]]. On a critical failure, the wandering plague is instead [[undefined]]."
 
 attacks:
   - name: ""
 
   - name: "Melee"
-    desc: "`pf2:1` Pseudopod +20 ()\n__Damage__  2d8 + 9 bludgeoning plus carnivorous-plague 3d6 void plus carnivorous-plague"
+    desc: "`pf2:1` Pseudopod +20 ()\n__Damage__ "
 
   - name: "Carnivorous Plague"
-    desc: " (disease,virulent) **Saving Throw** DC 28 Fortitude check\n**Stage 1** Sickened 1 (1 day)\n**Stage 2** Sickened 2 (1 day)\n**Stage 3** sickened 2 and Drained 1 (1 day)\n**Stage 4** Sickened 4 and Drained 3 (1 day)\n**Stage 5** as stage 4 (1 day);\n**Stage 6** dead, and an independent wandering plague bursts from the corpse."
+    desc: " (disease,virulent) **Saving Throw** DC 28 Fortitude check\n\n**Stage 1** [[undefined]] (1 day)\n\n**Stage 2** [[undefined]] (1 day)\n\n**Stage 3** sickened 2 and [[Conditions/Drained|Drained 1]] (1 day)\n\n**Stage 4** [[undefined]] and [[undefined]] (1 day)\n\n**Stage 5** as stage 4 (1 day);\n\n**Stage 6** dead, and an independent wandering plague bursts from the corpse."
 
   - name: "Cannibalize Plague"
-    desc: "`pf2:1` (occult) **Requirements** The wandering plague is adjacent to a creature afflicted by stage 2 or higher carnivorous plague, and the wandering plague is Large or smaller\n**Effect** Reclaiming pieces of itself, the wandering plague makes a pseudopod Strike against the plagued creature. If the Strike hits, the creature's carnivorous plague's stage is reduced by one, and the wandering plague becomes Large for 1 minute, increasing its reach by 5 feet, and regaining 4d8 + 10 Hit Points. If the wandering plague is already Large due to a previous use of this ability, it instead becomes Huge for 1 minute. In that case, it increases its reach by 10 feet instead of 5, and regains 6d8 + 15 Hit Points instead of 4d8+10 Hit Points."
+    desc: "`pf2:1` (occult) **Requirements** The wandering plague is adjacent to a creature afflicted by stage 2 or higher carnivorous plague, and the wandering plague is Large or smaller\n* * *\n\n**Effect** Reclaiming pieces of itself, the wandering plague makes a pseudopod Strike against the plagued creature. If the Strike hits, the creature's carnivorous plague's stage is reduced by one, and the wandering plague becomes Large for 1 minute, increasing its reach by 5 feet, and regaining 4d8 + 10 Hit Points. If the wandering plague is already Large due to a previous use of this ability, it instead becomes Huge for 1 minute. In that case, it increases its reach by 10 feet instead of 5, and regains 6d8 + 15 Hit Points instead of 4d8+10 Hit Points."
 
   - name: "Pestilent Assault"
     desc: "`pf2:2` (occult) Violently thrashing at its target, the wandering plague hastens the progress of its infectious reproduction by leaving behind loose lumps of its own flesh. The wandering plague Strides once, then makes a pseudopod Strike against a creature within its reach. On a hit, if the creature is already afflicted by carnivorous plague, it must attempt a Fortitude save against the disease as if enough time had passed for it to progress to its next stage."
 
   - name: "[[Bestiary Ability Glossary/Engulf|Engulf]]"
-    desc: "`pf2:2`  DC 28 Reflex check, 2d8 + 6 void damage, Escape DC 28, Rupture 20\n"
+    desc: "`pf2:2`  DC 28 Reflex check, 2d8+6 void damage, Escape DC 28, Rupture 20\n\n* * *\n"
  
+```
+
+```encounter-table
+name: Wandering Plague
+creatures:
+  - 1: Wandering Plague
 ```
 
 

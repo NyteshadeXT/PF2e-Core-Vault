@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/charau-ka
   - pf2e/creature/type/evil
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/5
 statblock: inline
 name: "Malarunk"
@@ -23,13 +24,13 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #145: Hellknight Hill"
 name: "Malarunk"
 level: "Creature 5"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Small"
-trait_01: "chaotic"
-trait_02: "charau-ka"
-trait_03: "evil"
-trait_04: "humanoid"
+trait_01: [[chaotic]]
+trait_02: [[charau-ka]]
+trait_03: [[evil]]
+trait_04: [[humanoid]]
 modifier: 13
 perception:
   - name: "Perception"
@@ -37,7 +38,7 @@ perception:
 languages: "Boggard, Draconic, Mwangi"
 skills:
   - name: "Skills"
-    desc: "Athletics: +10, Dragon Lore: +11, Intimidation: +11, Religion: +13, Stealth: +8"
+    desc: "Athletics: +10, Intimidation: +11, Religion: +13, Stealth: +8, Dragon Lore: +11"
 abilityMods: [3, 2, 2, 0, 4, 2]
 speed: 25 feet,  climb 25 feet
 sourcebook: "_Pathfinder #145: Hellknight Hill_"
@@ -75,14 +76,20 @@ attacks:
     desc: "DC 23, attack +13; __3rd __  _[[Spells/Dream Message|Dream Message]]_, _[[Spells/Fireball|Fireball]]_; __2nd __  _[[Spells/Create Food|Create Food]]_, _[[Spells/Noise Blast|Sound Burst]]_, _[[Spells/Spiritual Weapon|Spiritual Weapon]]_; __1st __  _[[Spells/Create Water|Create Water]]_, _[[Spells/Harm|Harm]]_, _[[Spells/Heal|Heal]]_, _[[Spells/Sanctuary|Sanctuary]]_\n__Cantrips__  __(3rd)__ _[[Spells/Detect Magic|Detect Magic]]_, _[[Spells/Guidance|Guidance]]_, _[[Spells/Prestidigitation|Prestidigitation]]_, _[[Spells/Shield|Shield]]_"
 
   - name: "Channel Smite"
-    desc: "`pf2:2`  **Cost** Expend a [[Spells/Harm|Harm]] or [[Spells/Heal|Heal]] spell.\nMalarunk siphon's the destructive energies of vitality or void energy through a melee attack and into his foe.\nMake a melee Strike and add the spell's damage to the Strike's damage.\nThis is void damage if Malarunk expended a _harm_ spell or vitality damage if he expended a _heal_ spell. The spell is expended with no effect if his Strike fails or hits a creature that isn't damaged by that energy type (such as if he hit a non-undead creature with a _heal_ spell)."
+    desc: "`pf2:2`  **Cost** Expend a [[Spells/Harm|Harm]] or [[Spells/Heal|Heal]] spell.\n* * *\n\nMalarunk siphon's the destructive energies of vitality or void energy through a melee attack and into his foe.\n\nMake a melee Strike and add the spell's damage to the Strike's damage.\n\nThis is void damage if Malarunk expended a _harm_ spell or vitality damage if he expended a _heal_ spell. The spell is expended with no effect if his Strike fails or hits a creature that isn't damaged by that energy type (such as if he hit a non-undead creature with a _heal_ spell)."
 
   - name: "Shrieking Frenzy"
-    desc: " (primal) **Trigger** Malarunk's turn begins.\n**Frequency** once per hour\n**Effect** Malarunk is [[Conditions/Quickened|Quickened]] until the end of his turn, and can use the extra action to Stride or Strike. Due to his loud wailing while in a shrieking frenzy, Malarunk can't speak and automatically critically fails all Stealth checks."
+    desc: " (primal) **Trigger** Malarunk's turn begins.\n\n**Frequency** once per hour\n* * *\n\n**Effect** Malarunk is [[Conditions/Quickened|Quickened]] until the end of his turn, and can use the extra action to Stride or Strike. Due to his loud wailing while in a shrieking frenzy, Malarunk can't speak and automatically critically fails all Stealth checks."
 
   - name: "Thrown Weapon Mastery"
     desc: "  When Malarunk throws a weapon, the weapon gains the deadly d6 weapon trait. Furthermore, when Malarunk throws an improvised weapon, it doesn't take the -2 penalty for using an improvised weapon, nor does he take the penalty for using that weapon to make a lethal attack instead of a nonlethal attack."
  
+```
+
+```encounter-table
+name: Malarunk
+creatures:
+  - 1: Malarunk
 ```
 
 

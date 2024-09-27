@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/aberration
   - pf2e/creature/type/evil
   - pf2e/creature/type/shadow
+  - pf2eMonster
   - pf2e/creature/level/5
 statblock: inline
 name: "Sklaggan"
@@ -26,17 +27,17 @@ level: "Creature 5"
 
 alignment: ""
 size: "Medium"
-trait_01: "aberration"
-trait_02: "evil"
-trait_03: "shadow"
+trait_01: [[aberration]]
+trait_02: [[evil]]
+trait_03: [[shadow]]
 modifier: 13
 perception:
   - name: "Perception"
     desc: "+13; Darkvision"
-languages: "Aklo, Shadowtongue"
+languages: "Aklo, Shadowtongue; sklaggan; (can’t speak any language); telepathy 100 feet"
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +13, Deception: +11, Medicine: +13, Occultism: +13, Stealth: +13, Thievery: +15, "
+    desc: "Acrobatics: +13, Deception: +11, Medicine: +13, Occultism: +13, Stealth: +13, Thievery: +15"
 abilityMods: [3, 4, 5, 4, 2, 2]
 speed: 30 feet
 sourcebook: "_Battlezoo Bestiary_"
@@ -56,7 +57,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Snag Weapon"
-    desc: "`pf2:r`  **Trigger** A creature attempts to attack the sklaggan with a melee weapon and rolls a critical miss;\n**Effect** The sklaggan encloses its biological armor around the attacker's weapon. The sklaggan attempts to Disarm the triggering creature, using its Thievery modifier in place of Athletics."
+    desc: "`pf2:r`  **Trigger** A creature attempts to attack the sklaggan with a melee weapon and rolls a critical miss;\n\n**Effect** The sklaggan encloses its biological armor around the attacker's weapon. The sklaggan attempts to [[Actions/Disarm|Disarm]] the triggering creature, using its Thievery modifier in place of Athletics."
 
 attacks:
   - name: ""
@@ -68,8 +69,14 @@ attacks:
     desc: "DC 22, attack +14; __7th __ (1 slots) _[[Spells/Interplanar Teleport|Plane Shift (Self Only; To Shadow Plane Only)]]_; __3rd __ (2 slots) _[[Spells/Dream Message|Dream Message]]_, _[[Spells/Vampiric Feast|Vampiric Touch]]_; __2nd __ (3 slots) _[[Spells/Blur|Blur (Self Only)]]_, _[[Spells/Calm|Calm Emotions]]_, _[[Spells/Status|Status]]_; __1st __ (3 slots) _[[Spells/Mindlink|Mindlink]]_, _[[Spells/Mindlink|Mindlink]]_, _[[Spells/Mindlink|Mindlink]]_\n__Cantrips__  __(3rd)__ _[[Spells/Daze|Daze]]_, _[[Spells/Shield|Shield]]_, _[[Spells/Telekinetic Projectile|Telekinetic Projectile]]_"
 
   - name: "Toxic Shadows"
-    desc: "`pf2:2` (mental,shadow) The sklaggan releases shadowy organic compounds in its armor to debilitate creatures it approaches. The sklaggan Strides up to its Speed. Any creature within 5 feet of the Sklaggan's path takes 4d6 mental damage and must attempt a Fortitude save.\nThe sklaggan can't use Toxic Shadows again for 1d4 rounds.\n**Critical Success** The creature is unaffected.\n**Success** The creature takes half damage.\n**Failure** The creature takes full damage and is Sickened 1.\n**Critical Failure** The creature takes double damage and is Sickened 2."
+    desc: "`pf2:2` (mental,shadow) The sklaggan releases shadowy organic compounds in its armor to debilitate creatures it approaches. The sklaggan Strides up to its Speed. Any creature within 5 feet of the Sklaggan's path takes 4d6 mental damage and must attempt a DC 22 Fortitude save.\n\nThe sklaggan can't use Toxic Shadows again for 1d4 rounds.\n* * *\n\n**Critical Success** The creature is unaffected.\n\n**Success** The creature takes half damage.\n\n**Failure** The creature takes full damage and is [[Conditions/Sickened|Sickened 1]].\n\n**Critical Failure** The creature takes double damage and is [[Conditions/Sickened|Sickened 2]]."
  
+```
+
+```encounter-table
+name: Sklaggan
+creatures:
+  - 1: Sklaggan
 ```
 
 

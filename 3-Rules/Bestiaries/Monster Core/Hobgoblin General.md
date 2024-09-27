@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.pathfinder-monster-core.Actor.xgKDQB6ZYmAutwAm"
 tags:
   - pf2e/creature/type/hobgoblin
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/6
   - remaster
 statblock: inline
@@ -26,8 +27,8 @@ level: "Creature 6"
 
 alignment: ""
 size: "Medium"
-trait_01: "hobgoblin"
-trait_02: "humanoid"
+trait_01: [[hobgoblin]]
+trait_02: [[humanoid]]
 modifier: 13
 perception:
   - name: "Perception"
@@ -72,6 +73,12 @@ attacks:
   - name: "Polearm Critical Specialization"
     desc: "  On a critical hit, the target of the critical hit is moved 5 feet in a direction of the hobgoblin general's choice."
  
+```
+
+```encounter-table
+name: Hobgoblin General
+creatures:
+  - 1: Hobgoblin General
 ```
 
 

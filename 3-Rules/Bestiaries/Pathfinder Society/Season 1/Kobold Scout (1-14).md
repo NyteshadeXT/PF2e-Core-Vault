@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/humanoid
   - pf2e/creature/type/kobold
   - pf2e/creature/type/lawful
+  - pf2eMonster
   - pf2e/creature/level/1
 statblock: inline
 name: "Kobold Scout (1-14)"
@@ -26,10 +27,10 @@ level: "Creature 1"
 
 alignment: ""
 size: "Small"
-trait_01: "evil"
-trait_02: "humanoid"
-trait_03: "kobold"
-trait_04: "lawful"
+trait_01: [[evil]]
+trait_02: [[humanoid]]
+trait_03: [[kobold]]
+trait_04: [[lawful]]
 modifier: 8
 perception:
   - name: "Perception"
@@ -37,7 +38,7 @@ perception:
 languages: "Common, Draconic"
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +7, Crafting: +3 (+5 traps), Nature: +6, Stealth: +7, Survival: +6"
+    desc: "Acrobatics: +7, Crafting: +3, Nature: +6, Stealth: +7, Survival: +6"
 abilityMods: [0, 4, 1, 0, 3, 1]
 speed: 25 feet
 sourcebook: "_Pathfinder Society Scenario #1-14: Lions of Katapesh_"
@@ -69,11 +70,17 @@ attacks:
     desc: "`pf2:1` Alchemist&#x27;s Fire (Lesser) +9 (bomb, consumable, range increment 20 feet, splash)\n__Damage__  1d8 fire 1 fire 1 fire"
 
   - name: "Hurried Retreat"
-    desc: "`pf2:1`  **Requirements** The kobold scout is adjacent to at least one enemy.\n**Effect** The kobold scout Strides up to its Speed plus 5 feet and gains a +2 circumstance bonus to AC against reactions triggered by this movement. It must end this movement in a space that's not adjacent to any enemy."
+    desc: "`pf2:1`  **Requirements** The kobold scout is adjacent to at least one enemy.\n* * *\n\n**Effect** The kobold scout Strides up to its Speed plus 5 feet and gains a +2 circumstance bonus to AC against reactions triggered by this movement. It must end this movement in a space that's not adjacent to any enemy."
 
   - name: "[[Bestiary Ability Glossary/Sneak Attack|Sneak Attack]]"
     desc: "  The kobold warrior deals an extra 1d6 precision damage to [[Conditions/Off-Guard|Off-Guard]] creatures."
  
+```
+
+```encounter-table
+name: Kobold Scout (1-14)
+creatures:
+  - 1: Kobold Scout (1-14)
 ```
 
 

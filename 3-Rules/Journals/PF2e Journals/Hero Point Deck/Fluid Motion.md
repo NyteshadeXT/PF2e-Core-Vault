@@ -11,3 +11,5 @@ Play at the start of your turn.
 * * *
 
 For the rest of your turn, you gain a climb Speed and a swim Speed equal to half your Speed. If you make a horizontal [[Actions/Leap|Leap]], increase the distance jumped by 10 feet.
+
+[[Other Effects/Effect_ Fluid Motion|Effect: Fluid Motion]]

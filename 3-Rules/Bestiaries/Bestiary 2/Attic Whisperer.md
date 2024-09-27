@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/undead
   - pf2e/creature/type/unholy
+  - pf2eMonster
   - pf2e/creature/level/4
 statblock: inline
 name: "Attic Whisperer"
@@ -26,9 +27,9 @@ level: "Creature 4"
 
 alignment: ""
 size: "Small"
-trait_01: "evil"
-trait_02: "undead"
-trait_03: "unholy"
+trait_01: [[evil]]
+trait_02: [[undead]]
+trait_03: [[unholy]]
 modifier: 10
 perception:
   - name: "Perception"
@@ -55,10 +56,10 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Aura of Sobs"
-    desc: " (auditory,aura,concentrate,emotion,mental,occult) 10 feet. An attic whisperer enshrouds itself in a tapestry of stolen voices. Each living creature that enters or starts their turn in the aura must succeed at a DC 19 Will check save or the unnerving, bitter sobs render them distraught and they become [[Conditions/Stupefied 1|Stupefied 1]] for as long as they remain within the aura. A creature that succeeds is temporarily immune for 1 hour.\nThe attic whisperer can activate or deactivate the aura with a single free action, which has the concentrate trait."
+    desc: " (auditory,aura,concentrate,emotion,mental,occult) 10 feet. An attic whisperer enshrouds itself in a tapestry of stolen voices. Each living creature that enters or starts their turn in the aura must succeed at a DC 19 Will check save or the unnerving, bitter sobs render them distraught and they become [[Conditions/Stupefied|Stupefied 1]] for as long as they remain within the aura. A creature that succeeds is temporarily immune for 1 hour.\n\nThe attic whisperer can activate or deactivate the aura with a single free action, which has the concentrate trait."
 
   - name: "Whispered Despair"
-    desc: "`pf2:r` (emotion) **Trigger** A creature with an active emotion effect enters an attic whisperer's aura of sobs\n**Effect** The attic whisperer attempts to counteract the emotion effect, with a counteract modifier of +13."
+    desc: "`pf2:r` (emotion) **Trigger** A creature with an active emotion effect enters an attic whisperer's aura of sobs\n* * *\n\n**Effect** The attic whisperer attempts to counteract the emotion effect, with a counteract modifier of +13."
 
 attacks:
   - name: ""
@@ -70,11 +71,17 @@ attacks:
     desc: "`pf2:1` Bony Hand +13 (agile)\n__Damage__  2d10 void plus steal-voice"
 
   - name: "Steal Breath"
-    desc: " (curse,incapacitation,occult) The attic whisperer siphons the breath from living creatures, sapping their strength. A living creature hit by a jaws Strike must attempt a DC 21 Fortitude check save.\n**Critical Success** The target is unaffected.\n**Success** The target is [[Conditions/Enfeebled 1|Enfeebled 1]] for 1 round.\n**Failure** The target is [[Conditions/Enfeebled 1|Enfeebled 1]] for 24 hours and [[Conditions/Fatigued|Fatigued]].\n**Critical Failure** The target is enfeebled 1 for 24 hours, is fatigued, and falls [[Conditions/Unconscious|Unconscious]]."
+    desc: " (curse,incapacitation,occult) The attic whisperer siphons the breath from living creatures, sapping their strength. A living creature hit by a jaws Strike must attempt a DC 21 Fortitude check save.\n* * *\n\n**Critical Success** The target is unaffected.\n\n**Success** The target is [[Conditions/Enfeebled|Enfeebled 1]] for 1 round.\n\n**Failure** The target is [[Conditions/Enfeebled|Enfeebled 1]] for 24 hours and [[Conditions/Fatigued|Fatigued]].\n\n**Critical Failure** The target is enfeebled 1 for 24 hours, is fatigued, and falls [[Conditions/Unconscious|Unconscious]]."
 
   - name: "Steal Voice"
-    desc: " (auditory,curse,occult) When an attic whisperer hits a living creature with a bony hand Strike, it tries to pull the victim's voice into its aura. The victim must attempt a DC 21 Will check save.\n**Critical Success** The target is unaffected.\n**Success** The target's voice is weak for 1 minute. Anytime it attempts an action with the auditory trait, it must succeed at a DC 5 Flat check check or the action is lost.\n**Failure** The target loses the ability to speak for 1 hour, until the curse is removed, or until the attic whisperer is destroyed, whichever comes first. During this time, the attic whisperer can perfectly mimic the target's voice, and the target takes a -2 circumstance penalty to saving throws against that attic whisperer's aura of sobs.\n**Critical Failure** As failure, but the effects lasts until the attic whisperer is destroyed or the curse is removed."
+    desc: " (auditory,curse,occult) When an attic whisperer hits a living creature with a bony hand Strike, it tries to pull the victim's voice into its aura. The victim must attempt a DC 21 Will check save.\n* * *\n\n**Critical Success** The target is unaffected.\n\n**Success** The target's voice is weak for 1 minute. Anytime it attempts an action with the auditory trait, it must succeed at a DC 5 Flat check check or the action is lost.\n\n**Failure** The target loses the ability to speak for 1 hour, until the curse is removed, or until the attic whisperer is destroyed, whichever comes first. During this time, the attic whisperer can perfectly mimic the target's voice, and the target takes a -2 circumstance penalty to saving throws against that attic whisperer's aura of sobs.\n\n**Critical Failure** As failure, but the effects lasts until the attic whisperer is destroyed or the curse is removed."
  
+```
+
+```encounter-table
+name: Attic Whisperer
+creatures:
+  - 1: Attic Whisperer
 ```
 
 

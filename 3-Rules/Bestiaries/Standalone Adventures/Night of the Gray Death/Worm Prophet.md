@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/human
   - pf2e/creature/type/humanoid
   - pf2e/creature/type/lawful
+  - pf2eMonster
   - pf2e/creature/level/18
 statblock: inline
 name: "Worm Prophet"
@@ -23,13 +24,13 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Adventure: Night of the Gray Death"
 name: "Worm Prophet"
 level: "Creature 18"
-rare_03: "Rare"
+rare_03: [[Rare]]
 alignment: ""
 size: "Medium"
-trait_01: "evil"
-trait_02: "human"
-trait_03: "humanoid"
-trait_04: "lawful"
+trait_01: [[evil]]
+trait_02: [[human]]
+trait_03: [[humanoid]]
+trait_04: [[lawful]]
 modifier: 28
 perception:
   - name: "Perception"
@@ -60,7 +61,7 @@ abilities_mid:
     desc: "  The worm prophet has a +2 circumstance bonus to Deception checks and saving throws to conceal their identity and a +2 circumstance bonus to their Deception DC against effects that ferret out information about the worm prophet's identity."
 
   - name: "Gardener's Resolve"
-    desc: "`pf2:r`  **Trigger** The worm prophet rolls a failure (but not a critical failure) on a Will save against an effect with the mental or fear trait\n**Requirements** The worm prophet's features are obscured by a mask or hood\n**Effect** The worm prophet takes 3d8 mental damage, and the saving throw is a success."
+    desc: "`pf2:r`  **Trigger** The worm prophet rolls a failure (but not a critical failure) on a Will save against an effect with the mental or fear trait\n\n**Requirements** The worm prophet's features are obscured by a mask or hood\n* * *\n\n**Effect** The worm prophet takes 3d8 mental damage, and the saving throw is a success."
 
   - name: "Invaded"
     desc: "  The worm prophet is subject to the conqueror worm's Mental Invader effect."
@@ -81,11 +82,17 @@ attacks:
     desc: "2 Focus Points, DC 40, attack +32; __9th __  _[[Spells/Commanding Lash|Commanding Lash]]_, _[[Spells/Touch of Obedience|Touch of Obedience]]_"
 
   - name: "Capture Spirit"
-    desc: "`pf2:r`  **Trigger** A target affected by one of the worm prophet's necromancy spells dies within 60 feet of the worm prophet\n**Effect** The worm prophet harnesses a bit of the departing victim's soul, and the worm prophet is [[Conditions/Quickened|Quickened]] 1 for 1 minute. They can use this extra action only to Step, Stride, or Sustain a Spell."
+    desc: "`pf2:r`  **Trigger** A target affected by one of the worm prophet's necromancy spells dies within 60 feet of the worm prophet\n* * *\n\n**Effect** The worm prophet harnesses a bit of the departing victim's soul, and the worm prophet is [[Conditions/Quickened|Quickened]] 1 for 1 minute. They can use this extra action only to Step, Stride, or Sustain a Spell."
 
   - name: "Steady Spellcasting"
     desc: "  If a reaction would disrupt the worm prophet's spellcasting action, the worm prophet attempts a DC 15 Flat check. On a success, the action isn't disrupted."
  
+```
+
+```encounter-table
+name: Worm Prophet
+creatures:
+  - 1: Worm Prophet
 ```
 
 

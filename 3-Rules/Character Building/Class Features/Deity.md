@@ -12,7 +12,7 @@ license: ORC
 ---
 # Deity
 ## Feat 1
-### [[cleric]]
+### [[3-Rules/trait_reference/cleric]]
 
 **Category** classfeature; 
 

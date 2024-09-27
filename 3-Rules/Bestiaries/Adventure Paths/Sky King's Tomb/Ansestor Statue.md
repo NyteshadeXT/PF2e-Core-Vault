@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/construct
   - pf2e/creature/type/earth
   - pf2e/creature/type/mindless
+  - pf2eMonster
   - pf2e/creature/level/4
 statblock: inline
 name: "Ansestor Statue"
@@ -25,16 +26,17 @@ level: "Creature 4"
 
 alignment: ""
 size: "Medium"
-trait_01: "construct"
-trait_02: "earth"
-trait_03: "mindless"
+trait_01: [[construct]]
+trait_02: [[earth]]
+trait_03: [[mindless]]
 modifier: 11
 perception:
   - name: "Perception"
     desc: "+11; Darkvision"
+languages: ""
 skills:
   - name: "Skills"
-    desc: "Athletics: +11"
+    desc: "Athletics: +13"
 abilityMods: [4, -2, 5, -5, 0, -5]
 speed: 20 feet
 sourcebook: "_Pathfinder #193: Mantle of Gold_"
@@ -53,7 +55,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Construct Armor (Hardness 6)"
-    desc: "  Like normal objects, an animated statue has Hardness. This Hardness reduces any damage it takes by an amount equal to the Hardness.\nOnce an elite animated statue is reduced to less than half its Hit Points, or immediately upon being damaged by a critical hit, its construct armor breaks and its Armor Class is reduced to 17."
+    desc: "  Like normal objects, an animated statue has Hardness. This Hardness reduces any damage it takes by an amount equal to the Hardness.\n\nOnce an elite animated statue is reduced to less than half its Hit Points, or immediately upon being damaged by a critical hit, its construct armor breaks and its Armor Class is reduced to 17."
 
 attacks:
   - name: ""
@@ -64,6 +66,12 @@ attacks:
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
     desc: "`pf2:1`  "
  
+```
+
+```encounter-table
+name: Ansestor Statue
+creatures:
+  - 1: Ansestor Statue
 ```
 
 

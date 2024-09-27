@@ -28,7 +28,7 @@ Using your free hand as pivot and balance, you both attack and defend with your 
 
 * * *
 
-While you are in this stance, you constantly have the benefits of [[Feats/Dueling Parry (Swashbuckler)|Dueling Parry]].
+While you are in this stance, you constantly have the benefits of [[Feats/Extravagant Parry|Extravagant Parry]].
 
 *Source: Pathfinder Advanced Player's Guide*
 *OGL*

@@ -6,6 +6,7 @@ cssClasses: pf2e
 aliases: "Compendium.pf2e.pathfinder-monster-core.Actor.ZeUxgpNi5AXr9pX6" 
 tags:
   - pf2e/creature/type/beast
+  - pf2eMonster
   - pf2e/creature/level/6
   - remaster
 statblock: inline
@@ -25,7 +26,7 @@ level: "Creature 6"
 
 alignment: ""
 size: "Large"
-trait_01: "beast"
+trait_01: [[beast]]
 modifier: 14
 perception:
   - name: "Perception"
@@ -66,6 +67,12 @@ attacks:
   - name: "Spike Volley"
     desc: "`pf2:1`  The manticore flings up to two spikes from its tail, targeting either two different creatures or a single creature. If the manticore targets two different creatures, these creatures must be within 20 feet of one another, and the manticore makes a separate Strike against each; this counts as only one Strike for the manticore's multiple attack penalty, and the penalty doesn't increase until after both attacks.\n\nIf the manticore flings both spikes at the same creature, it makes a single Strike. If the attack hits, it deals the damage of a single spike, but the target is pinned in place, rendering it [[Conditions/Immobilized|Immobilized]]. A creature can get free if it [[/act force-open dc=23]]{Forces Open} the spike or [[/act escape dc=23]]{Escapes}; either option is DC 23.\n\nA manticore can hurl no more than 12 spikes in 24 hours."
  
+```
+
+```encounter-table
+name: Manticore (Quill Tail)
+creatures:
+  - 1: Manticore (Quill Tail)
 ```
 
 

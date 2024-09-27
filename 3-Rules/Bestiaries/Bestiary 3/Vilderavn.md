@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.pathfinder-bestiary-3.Actor.7bTj2DC91yEdJiLq"
 tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/fey
+  - pf2eMonster
   - pf2e/creature/level/16
 statblock: inline
 name: "Vilderavn"
@@ -22,19 +23,19 @@ token: [[modules/pf2e-tokens-bestiaries/portraits/fey/vilderavn.webp| ]]
 source: "Pathfinder Bestiary 3"
 name: "Vilderavn"
 level: "Creature 16"
-rare_03: "Rare"
+rare_03: [[Rare]]
 alignment: ""
 size: "Medium"
-trait_01: "evil"
-trait_02: "fey"
+trait_01: [[evil]]
+trait_02: [[fey]]
 modifier: 28
 perception:
   - name: "Perception"
     desc: "+28; Greater Darkvision, Truesight"
-languages: "Aklo, Common, Diabolic, Fey"
+languages: "Aklo, Common, Diabolic, Fey; tongues"
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +30, Athletics: +32, Deception: +29, Heraldry Lore: +26, Society: +24, Stealth: +32, Warfare Lore: +26"
+    desc: "Acrobatics: +30, Athletics: +32, Deception: +29, Society: +24, Stealth: +32, Heraldry Lore: +26, Warfare Lore: +26"
 abilityMods: [8, 6, 5, 4, 4, 7]
 speed: 40 feet,  fly 120 feet
 sourcebook: "_Pathfinder Bestiary 3_"
@@ -56,7 +57,7 @@ abilities_mid:
     desc: "`pf2:r`  "
 
   - name: "[[Bestiary Ability Glossary/Frightful Presence|Aura of Disquietude]]"
-    desc: " (aura,emotion,fear,mental) 30 feet. DC 35 Will check\nAs [[Bestiary Ability Glossary/Frightful Presence|Frightful Presence]], plus a creature frightened by the aura becomes suspicious: it doesn't count any other creature as its ally and can't Aid or flank. On a critical failure, the creature also can't be a willing target for harmless or helpful magic.\n"
+    desc: " (emotion,fear,mental) 30 feet. DC 35 Will check\n\nAs [[Bestiary Ability Glossary/Frightful Presence|Frightful Presence]], plus a creature frightened by the aura becomes suspicious: it doesn't count any other creature as its ally and can't [[Actions/Aid|Aid]] or flank. On a critical failure, the creature also can't be a willing target for harmless or helpful magic.\n\n[[Bestiary Effects/Effect_ Aura of Disquietude|Effect: Aura of Disquietude]]\n\n* * *\n"
 
 attacks:
   - name: ""
@@ -77,11 +78,17 @@ attacks:
     desc: " (curse,occult) A creature hit by a vilderavn's melee attack becomes cursed. It takes 2d6 bleed that's difficult to stanch. The DC to stop the bleeding using [[Actions/Administer First Aid|Administer First Aid]] is 35, and healing the creature to full HP doesn't automatically end the bleeding. Removing the curse ends the bleeding."
 
   - name: "[[Bestiary Ability Glossary/Change Shape|Change Shape]]"
-    desc: "`pf2:1` (concentrate,occult,polymorph) The vilderavn takes on the appearance of a Small or Medium humanoid, wolf, dire wolf, or hybrid with both raven and wolf parts. The vilderavn can only use their jaws attack when in a form with a wolf's head, and their talon attack in a form with raven qualities. They can instead assume their raven knight form: a Medium humanoid in black full plate carrying a greatsword. They can use their jaws or talon Strikes only in a form that has that body part, and their greatsword only in knight form.\n"
+    desc: "`pf2:1` (concentrate,occult,polymorph) The vilderavn takes on the appearance of a Small or Medium humanoid, wolf, dire wolf, or hybrid with both raven and wolf parts. The vilderavn can only use their jaws attack when in a form with a wolf's head, and their talon attack in a form with raven qualities. They can instead assume their raven knight form: a Medium humanoid in black full plate carrying a greatsword. They can use their jaws or talon Strikes only in a form that has that body part, and their greatsword only in knight form.\n\n* * *\n"
 
   - name: "Souleater"
     desc: " (occult) If the vilderavn kills a humanoid target with a critical hit using their Jaws Strike, they rip out and devour the target's heart and soul as part of the attack. While the target is dead, the vilderavn can Change Shape into the target's form, gaining a +4 status bonus to Deception checks to impersonate the target. If magic would resurrect the creature, the caster must succeed at a DC 34 counteract check to extract the target's soul from the vilderavn; otherwise, the spell fails."
  
+```
+
+```encounter-table
+name: Vilderavn
+creatures:
+  - 1: Vilderavn
 ```
 
 

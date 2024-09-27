@@ -12,7 +12,7 @@ license: OGL
 ---
 # Final Blade
 ## Item 20
-### [rare](rare "Rare Rarity Trait")[[artifact]][[death]][[occult]]
+### [rare](rare.md "Rare Rarity Trait")[[artifact]][[3-Rules/Rule References/Death]][[3-Rules/Rule References/Occult]]
 
 
 **Price** 0 gp; 

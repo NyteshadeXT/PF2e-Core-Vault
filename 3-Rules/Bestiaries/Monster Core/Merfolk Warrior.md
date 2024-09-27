@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/aquatic
   - pf2e/creature/type/humanoid
   - pf2e/creature/type/merfolk
+  - pf2eMonster
   - pf2e/creature/level/1
   - remaster
 statblock: inline
@@ -27,9 +28,9 @@ level: "Creature 1"
 
 alignment: ""
 size: "Medium"
-trait_01: "aquatic"
-trait_02: "humanoid"
-trait_03: "merfolk"
+trait_01: [[aquatic]]
+trait_02: [[humanoid]]
+trait_03: [[merfolk]]
 modifier: 6
 perception:
   - name: "Perception"
@@ -37,7 +38,7 @@ perception:
 languages: "Common, Thalassic"
 skills:
   - name: "Skills"
-    desc: "Athletics: +5 (+7 to Swim), Medicine: +4"
+    desc: "Athletics: +5, Medicine: +4"
 abilityMods: [2, 4, 1, 1, 1, 0]
 speed: 5 feet,  swim 30 feet
 sourcebook: "_Pathfinder Monster Core_"
@@ -68,6 +69,12 @@ attacks:
   - name: "Aquatic Dash"
     desc: "`pf2:2`  The merfolk warrior swims and attacks in one of two patterns. They either Swim twice and Strike at the end of their movement, or Swim once and Strike at any point during their movement."
  
+```
+
+```encounter-table
+name: Merfolk Warrior
+creatures:
+  - 1: Merfolk Warrior
 ```
 
 

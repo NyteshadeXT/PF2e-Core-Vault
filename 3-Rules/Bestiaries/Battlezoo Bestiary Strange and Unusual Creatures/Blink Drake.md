@@ -6,6 +6,7 @@ cssClasses: pf2e
 aliases: "Compendium.battlezoo-bestiary-su-pf2e.pf2e-battlezoo-su-actors.Actor.vEdgKZlwuzlyCGj5" 
 tags:
   - pf2e/creature/type/dragon
+  - pf2eMonster
   - pf2e/creature/level/11
 statblock: inline
 name: "Blink Drake"
@@ -21,10 +22,10 @@ token: [[modules/battlezoo-bestiary-su-pf2e/art/Portraits/blink-drake.webp| ]]
 source: "Battlezoo Bestiary: Strange and Unusual"
 name: "Blink Drake"
 level: "Creature 11"
-rare_03: "Rare"
+rare_03: [[Rare]]
 alignment: ""
 size: "Medium"
-trait_01: "dragon"
+trait_01: [[dragon]]
 modifier: 20
 perception:
   - name: "Perception"
@@ -32,7 +33,7 @@ perception:
 languages: "Draconic"
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +23, Athletics: +21, Deception: +19, Intimidation: +21, Stealth: +25, "
+    desc: "Acrobatics: +23, Athletics: +21, Deception: +19, Intimidation: +21, Stealth: +25, Acrobatics: +23, Athletics: +21, Deception: +19, Intimidation: +21, Stealth: +25"
 abilityMods: [4, 7, 5, -3, 3, 2]
 speed: 20 feet,  fly 50 feet
 sourcebook: "_Battlezoo Bestiary: Strange and Unusual_"
@@ -49,7 +50,7 @@ abilities_top:
   - name: ""
 
   - name: "Practiced Transposition"
-    desc: "  A blink drake gains greater effects from teleportation magic. It can teleport up to twice the usual range with its teleportation spells, and if an effect would cause the drake to teleport to a space not of the drake's choosing (including from its own _Blink_ spell), the drake can instead choose any valid space within range to appear, or choose not to teleport. In order to subvert a foe's teleportation effect in this way, the drake must succeed at a counteract check with a counteract level of 6 and a counteract modifier of +20."
+    desc: "  A blink drake gains greater effects from teleportation magic. It can teleport up to twice the usual range with its teleportation spells, and if an effect would cause the drake to teleport to a space not of the drake's choosing (including from its own _[[Spells/Flicker|Blink]]_ spell), the drake can instead choose any valid space within range to appear, or choose not to teleport. In order to subvert a foe's teleportation effect in this way, the drake must succeed at a counteract check with a counteract level of 6 and a counteract modifier of +20."
 
 abilities_mid:
   - name: ""
@@ -57,10 +58,10 @@ abilities_mid:
     desc: "`pf2:r`  "
 
   - name: "Reactive Blink"
-    desc: "`pf2:r` (arcane,teleportation) **Trigger** The blink drake is targeted by an attack\n**Effect** The drake shimmers and blinks away. It increases its resistance to all damage except force from _Blink_ against the triggering attack from 8 to 24. After the attack is resolved, the drake then teleports to an open space within 10 feet."
+    desc: "`pf2:r` (arcane,teleportation) **Trigger** The blink drake is targeted by an attack\n* * *\n\n**Effect** The drake shimmers and blinks away. It increases its resistance to all damage except force from _[[Spells/Flicker|Blink]]_ against the triggering attack from 8 to 24. After the attack is resolved, the drake then teleports to an open space within 10 feet."
 
   - name: "Warpblood"
-    desc: "`pf2:0` (arcane,force,teleportation) **Frequency** once per round\n**Trigger** The drake takes slashing, piercing, or persistent bleed damage.\n**Effect** Uncontrolled teleportation magic attempts to transpose things in unpredictable ways as it escapes the drake. Every creature adjacent to the drake must attempt a DC 27 Reflex check save against 2d6 force damage. A creature that critically fails this save is teleported 10 feet in a random direction (similarly to the effects of Sustaining a blink spell)."
+    desc: "`pf2:0` (arcane,force,teleportation) **Frequency** once per round\n\n**Trigger** The drake takes slashing, piercing, or persistent bleed damage.\n* * *\n\n**Effect** Uncontrolled teleportation magic attempts to transpose things in unpredictable ways as it escapes the drake. Every creature adjacent to the drake must attempt a DC 27 Reflex check save against 2d6 force damage. A creature that critically fails this save is teleported 10 feet in a random direction (similarly to the effects of Sustaining a blink spell)."
 
 attacks:
   - name: ""
@@ -80,6 +81,12 @@ attacks:
   - name: "Warping Breath"
     desc: "`pf2:2` (arcane,teleportation) The blink drake spits a ball of barely-restrained teleportation magic up to 60 feet that explodes into a 20-foot burst of rending micro-portals. Those in the burst take 10d6 force damage with a DC 30 Reflex check save). The portals remain for 1d4 rounds as difficult terrain, and any creature that ends their turn in the area while they remain takes 3d6 force damage with a DC 27 Reflex check save. The blink drake can't use Warping Breath while the portals remain."
  
+```
+
+```encounter-table
+name: Blink Drake
+creatures:
+  - 1: Blink Drake
 ```
 
 

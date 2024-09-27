@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.pathfinder-monster-core.Actor.oopxVowT2jnUQJiS"
 tags:
   - pf2e/creature/type/giant
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/7
   - remaster
 statblock: inline
@@ -26,8 +27,8 @@ level: "Creature 7"
 
 alignment: ""
 size: "Large"
-trait_01: "giant"
-trait_02: "humanoid"
+trait_01: [[giant]]
+trait_02: [[humanoid]]
 modifier: 12
 perception:
   - name: "Perception"
@@ -72,6 +73,12 @@ attacks:
   - name: "Sweeping Hook"
     desc: "`pf2:r`  **Trigger** The ogre boss successfully [[Actions/Trip|Trips]] a creature using an ogre hook\n* * *\n\n**Effect** The ogre boss makes an ogre hook Strike against the creature they tripped."
  
+```
+
+```encounter-table
+name: Ogre Boss
+creatures:
+  - 1: Ogre Boss
 ```
 
 

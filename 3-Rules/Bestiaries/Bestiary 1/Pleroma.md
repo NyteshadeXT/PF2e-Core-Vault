@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/aeon
   - pf2e/creature/type/lawful
   - pf2e/creature/type/monitor
+  - pf2eMonster
   - pf2e/creature/level/20
 statblock: inline
 name: "Pleroma"
@@ -26,13 +27,14 @@ level: "Creature 20"
 
 alignment: ""
 size: "Large"
-trait_01: "aeon"
-trait_02: "lawful"
-trait_03: "monitor"
+trait_01: [[aeon]]
+trait_02: [[lawful]]
+trait_03: [[monitor]]
 modifier: 37
 perception:
   - name: "Perception"
     desc: "+37; Darkvision, Lifesense 120 Feet, Truesight"
+languages: "envisioning"
 skills:
   - name: "Skills"
     desc: "Acrobatics: +33, Arcana: +38, Deception: +34, Diplomacy: +34, Occultism: +38, Religion: +39, Stealth: +35"
@@ -52,12 +54,12 @@ abilities_top:
   - name: ""
 
   - name: "Envisioning"
-    desc: "  Pleromas care little for communication with other creatures, but when they do convey information, they do so wordlessly through a series of psychic projections. This acts as [[Bestiary Ability Glossary/Telepathy|Telepathy]] with a range of 100 feet but is understandable to all creatures regardless of whether they have a language, though the aeon's meaning to non-aeons can be vague and is often mysterious.\nAn aeon can use this ability to communicate flawlessly with any other aeon on the same plane as itself."
+    desc: "  Pleromas care little for communication with other creatures, but when they do convey information, they do so wordlessly through a series of psychic projections. This acts as [[Bestiary Ability Glossary/Telepathy|Telepathy]] with a range of 100 feet but is understandable to all creatures regardless of whether they have a language, though the aeon's meaning to non-aeons can be vague and is often mysterious.\n\nAn aeon can use this ability to communicate flawlessly with any other aeon on the same plane as itself."
 
 abilities_mid:
   - name: ""
   - name: "Reality Twist"
-    desc: "`pf2:r`  **Trigger** The pleroma critically fails the saving throw.\n**Effect** The critical failure becomes a normal failure."
+    desc: "`pf2:r`  **Trigger** The pleroma critically fails the saving throw.\n* * *\n\n**Effect** The critical failure becomes a normal failure."
 
 attacks:
   - name: ""
@@ -72,11 +74,17 @@ attacks:
     desc: "DC 47, attack +37; __10th __  _[[Spells/Alter Reality|Alter Reality]]_; __9th __  _[[Spells/Banishment|Banishment]]_, _[[Spells/Blade Barrier|Blade Barrier]]_, _[[Spells/Disjunction|Disjunction]]_, _[[Spells/Overwhelming Presence|Overwhelming Presence]]_; __8th __  _[[Spells/Disintegrate|Disintegrate (x2)]]_, _[[Spells/Unrelenting Observation|Unrelenting Observation]]_; __7th __  _[[Spells/Interplanar Teleport|Plane Shift]]_, _[[Spells/Retrocognition|Retrocognition]]_; __5th __  _[[Spells/Creation|Creation (At Will)]]_; __4th __  _[[Spells/Create Food|Create Food (At Will)]]_, _[[Spells/Shape Stone|Shape Stone (At Will)]]_; __3rd __  _[[Spells/Hypercognition|Hypercognition (At Will)]]_; __2nd __  _[[Spells/Detect Alignment|Detect Alignment (At Will)]]_, _[[Spells/Shape Wood|Shape Wood (At Will)]]_; __1st __  _[[Spells/Create Water|Create Water (At Will)]]_\n__Constant__  __(8th)__ _[[Spells/Truesight|True Seeing]]_ __(4th)__ _[[Spells/Unfettered Movement|Freedom of Movement]]_"
 
   - name: "Sphere of Creation"
-    desc: "`pf2:2` (incapacitation,magical) Three times per day, a pleroma can manifest a 2-foot-diameter sphere of white energy that hovers above its left hand. By using a single action, which has the concentrate trait, the pleroma can cause the sphere to fly 10 feet. The sphere can move in any direction, ignoring difficult terrain, but it can't move farther than 300 feet away from the pleroma.\nWherever the sphere travels, it leaves behind a 5-foot-wide path of new matter, creating either new terrain (the pleroma's choice of normal, difficult, or greater difficult terrain) or a 5-foot-square solid barrier of a single natural substance (such as clay, wood, or stone).\nThe sphere can enter the space of a creature; when it does, the creature must succeed at a DC 43 Fortitude check save or be absorbed into the sphere. On a successful save, the creature is pushed to a space of the GM's choice away from the sphere. Those who fail take 20d6 vitality damage (even if they are living) and are pushed away as a success. Those who critically fail, or are reduced to 0 HP by the damage from a failure, become one with the new material and can be restored only via a 10th-rank spell.\nA pleroma can have only one Sphere of Creation in existence at a time, and the sphere automatically vanishes in a flash of blinding light after 1d4 minutes.\nAll creatures within 30 feet of the sphere of creation when it vanishes must succeed at a DC 43 Fortitude check save or be permanently [[Conditions/Blinded|Blinded]]."
+    desc: "`pf2:2` (incapacitation,magical) Three times per day, a pleroma can manifest a 2-foot-diameter sphere of white energy that hovers above its left hand. By using a single action, which has the concentrate trait, the pleroma can cause the sphere to fly 10 feet. The sphere can move in any direction, ignoring difficult terrain, but it can't move farther than 300 feet away from the pleroma.\n\nWherever the sphere travels, it leaves behind a 5-foot-wide path of new matter, creating either new terrain (the pleroma's choice of normal, difficult, or greater difficult terrain) or a 5-foot-square solid barrier of a single natural substance (such as clay, wood, or stone).\n\nThe sphere can enter the space of a creature; when it does, the creature must succeed at a DC 43 Fortitude check save or be absorbed into the sphere. On a successful save, the creature is pushed to a space of the GM's choice away from the sphere. Those who fail take 20d6 vitality damage (even if they are living) and are pushed away as a success. Those who critically fail, or are reduced to 0 HP by the damage from a failure, become one with the new material and can be restored only via a 10th-rank spell.\n\nA pleroma can have only one Sphere of Creation in existence at a time, and the sphere automatically vanishes in a flash of blinding light after 1d4 minutes.\n\nAll creatures within 30 feet of the sphere of creation when it vanishes must succeed at a DC 43 Fortitude check save or be permanently [[Conditions/Blinded|Blinded]]."
 
   - name: "Sphere of Oblivion"
-    desc: "`pf2:2` (incapacitation,magical) Three times per day, a pleroma can manifest a 2-foot-diameter sphere of complete and utter darkness that hovers above its right hand. By using a single action, which has the concentrate trait, the pleroma can cause the sphere to fly 10 feet. The sphere can move in any direction, ignoring difficult terrain, but it can't move farther than 300 feet away from the pleroma.\nThe sphere is an empty void that lasts for 1 minute before collapsing in on itself and winking out of existence.\nOnce manifested, the sphere can be used as a ranged attack, but it blinks out of existence immediately after that attack is resolved. Any unattended object that touches the void is sucked in and completely destroyed. Larger objects (such as ships or buildings) are destroyed at a rate of one 10-foot cube per round of contact.\nThe sphere can enter the space of a creature; when it does, the creature must succeed at a DC 43 Fortitude check save or be absorbed into the sphere. On a successful save, the creature is pushed to a space of the GM's choice away from the sphere. Those who fail take 20d6 void damage (even to undead) and are pushed away as a success. Those who critically fail, or are reduced to 0 HP by the damage from a failure, are annihilated and can be restored only via a 10th-rank spell."
+    desc: "`pf2:2` (incapacitation,magical) Three times per day, a pleroma can manifest a 2-foot-diameter sphere of complete and utter darkness that hovers above its right hand. By using a single action, which has the concentrate trait, the pleroma can cause the sphere to fly 10 feet. The sphere can move in any direction, ignoring difficult terrain, but it can't move farther than 300 feet away from the pleroma.\n\nThe sphere is an empty void that lasts for 1 minute before collapsing in on itself and winking out of existence.\n\nOnce manifested, the sphere can be used as a ranged attack, but it blinks out of existence immediately after that attack is resolved. Any unattended object that touches the void is sucked in and completely destroyed. Larger objects (such as ships or buildings) are destroyed at a rate of one 10-foot cube per round of contact.\n\nThe sphere can enter the space of a creature; when it does, the creature must succeed at a DC 43 Fortitude check save or be absorbed into the sphere. On a successful save, the creature is pushed to a space of the GM's choice away from the sphere. Those who fail take 20d6 void damage (even to undead) and are pushed away as a success. Those who critically fail, or are reduced to 0 HP by the damage from a failure, are annihilated and can be restored only via a 10th-rank spell."
  
+```
+
+```encounter-table
+name: Pleroma
+creatures:
+  - 1: Pleroma
 ```
 
 

@@ -6,8 +6,9 @@ tags:
   - trait/champion
   - trait/common
   - category/class
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.uixN9wbfe0veOHRn"
-license: OGL
+license: ORC
 ---
 # Auspicious Mount
 ## Feat 16
@@ -17,9 +18,16 @@ license: OGL
 
 
 
-**Prerequisites** Divine Ally (Steed); Imposing Destrier
+**Prerequisites** Imposing Destrier
 * * *
-Guided by your ongoing care, your steed has developed incredible intelligence and skill. The mount you gained through the divine ally class feature is now a specialized animal companion. You can select one of the usual specializations or the auspice specialization. Auspice mounts gain the following benefits: Your companion is marked by your deity's religious symbol as a sacred creature of your deity. Its proficiency rank in Religion increases to expert, it can speak the language associated with your deity's servitors (Celestial for champions who follow the tenets of good), and its Intelligence modifier increases by 2 and its Wisdom modifier by 1.
+Guided by your ongoing care, your steed has developed incredible intelligence and skill. The mount you gained with Faithful Steed is now a specialized animal companion. You can select one of the usual specializations or the auspice specialization. A faithful steed with the auspice specialization gains the following benefits.
 
-*Source: Pathfinder Core Rulebook*
-*OGL*
+*   It gains the celestial, fiend, or monitor trait—whichever best matches your deity's servitors, and its appearance shifts to look more like those servitors. It also gains the holy trait if it's a celestial or the unholy trait if it's a fiend.
+*   Its Intelligence modifier increases by 2 and its Wisdom modifier by 1.
+*   Its proficiency rank in Religion increases to expert.
+*   It can speak the language associated with your deity's servitors (such as Empyrean for celestials, Chthonian for demons, or Requian for psychopomps).
+*   Its maximum Hit Points increase by 20, increasing to 25 at 18th level and 30 at 20th level. If the mount has the celestial trait, the extra HP increase by 5, and the mount gains weakness 5 to unholy. If it has the fiend trait, the extra HP increase by 5, and the mount gains weakness 5 to holy.
+*   It gains wings that grant it a fly Speed equal to its land Speed.
+
+*Source: Pathfinder Player Core 2*
+*ORC*

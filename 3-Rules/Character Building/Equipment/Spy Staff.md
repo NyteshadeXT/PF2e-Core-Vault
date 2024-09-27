@@ -4,6 +4,7 @@ title: "Spy Staff"
 cssclasses: pf2e,pf2e-spell
 tags:
   - pf2e/weapon
+  - trait/illusion
   - trait/magical
   - trait/staff
   - trait/two-hand-d8
@@ -14,7 +15,7 @@ license: OGL
 ---
 # Spy Staff
 ## Item 7
-### [uncommon](uncommon "Uncommon Rarity Trait")[[magical]][[staff]][[two-hand-d8]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[illusion]][[magical]][[staff]][[two-hand-d8]]
 
 |  |  |
 | -- | -- |

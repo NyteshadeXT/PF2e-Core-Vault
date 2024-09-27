@@ -6,8 +6,9 @@ tags:
   - trait/archetype
   - trait/common
   - category/class
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.qWb5IxkBUpJWKSLf"
-license: OGL
+license: ORC
 ---
 # Champion Resiliency
 ## Feat 4
@@ -21,5 +22,5 @@ license: OGL
 * * *
 You gain 3 additional Hit Points for each champion archetype class feat you have. As you continue selecting champion archetype class feats, you continue to gain additional Hit Points in this way.
 
-*Source: Pathfinder Core Rulebook*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

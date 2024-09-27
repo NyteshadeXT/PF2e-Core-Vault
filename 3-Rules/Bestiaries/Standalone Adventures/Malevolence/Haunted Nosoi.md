@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/monitor
   - pf2e/creature/type/psychopomp
   - pf2e/creature/type/undead
+  - pf2eMonster
   - pf2e/creature/level/2
 statblock: inline
 name: "Haunted Nosoi"
@@ -22,16 +23,17 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Adventure: Malevolence"
 name: "Haunted Nosoi"
 level: "Creature 2"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "tiny"
-trait_01: "monitor"
-trait_02: "psychopomp"
-trait_03: "undead"
+trait_01: [[monitor]]
+trait_02: [[psychopomp]]
+trait_03: [[undead]]
 modifier: 8
 perception:
   - name: "Perception"
     desc: "+8; Darkvision, Lifesense 60 Feet"
+languages: "truespeech"
 skills:
   - name: "Skills"
     desc: "Acrobatics: +8"
@@ -62,8 +64,14 @@ attacks:
     desc: "`pf2:1` Beak +8 (finesse, magical)\n__Damage__  1d4 + 1 piercing"
 
   - name: "Vengeful Burst"
-    desc: "`pf2:r` (divine) **Trigger** The haunted nosoi is destroyed or it enters a square adjacent to a corrupted psychopomp in area D5\n**Effect** The haunted nosoi dies as it explodes into a burst of vitality energy. This heals all living creatures within 10 feet for 3d6 vitality damage.If triggered in area D5, the Vengeful Burst deals 2d12 void damage to any corrupted psychopomps in that area (DC 18 Will check save)"
+    desc: "`pf2:r` (divine) **Trigger** The haunted nosoi is destroyed or it enters a square adjacent to a corrupted psychopomp in area D5\n* * *\n\n**Effect** The haunted nosoi dies as it explodes into a burst of vitality energy. This heals all living creatures within 10 feet for 3d6 vitality damage.If triggered in area D5, the Vengeful Burst deals 2d12 void damage to any corrupted psychopomps in that area (DC 18 Will check save)"
  
+```
+
+```encounter-table
+name: Haunted Nosoi
+creatures:
+  - 1: Haunted Nosoi
 ```
 
 

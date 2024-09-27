@@ -17,7 +17,7 @@ license: OGL
 
 
 
-**Minor Boon** Lamashtu's touch mutates a part of your body.
+Lamashtu's touch mutates a part of your body.
 
 You gain either an unarmed Strike that deals 1d6 damage or one that deals 1d4 damage and has the finesse and agile traits.
 

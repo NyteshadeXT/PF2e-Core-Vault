@@ -28,7 +28,7 @@ This slender metal wand is tinted green and small images of bladed weapons are e
 
 * * *
 
-**Effect** You cast 6th-rank [[Spells/Blade Barrier|Blade Barrier]]. Damage from the wall also exposes the damaged creature to [[Equipment/Purple Worm Venom|Purple Worm Venom]]. The poison uses its normal DC. A creature can be exposed to the poison no more than once per turn.
+**Effect** You cast 6th-rank [[Spells/Blade Barrier|Blade Barrier]]. Damage from the wall also exposes the damaged creature to [[Equipment/Cave Worm Venom|Purple Worm Venom]]. The poison uses its normal DC. A creature can be exposed to the poison no more than once per turn.
 
 * * *
 

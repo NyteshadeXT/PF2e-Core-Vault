@@ -6,6 +6,7 @@ cssClasses: pf2e
 aliases: "Compendium.pf2e.pathfinder-monster-core.Actor.TwFcW5O5J1SdsYv3" 
 tags:
   - pf2e/creature/type/aberration
+  - pf2eMonster
   - pf2e/creature/level/11
   - remaster
 statblock: inline
@@ -22,10 +23,10 @@ token: [[modules/pf2e-tokens-bestiaries/portraits/aberrant/eldritch/gosreg.webp|
 source: "Pathfinder Monster Core"
 name: "Gosreg"
 level: "Creature 11"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Medium"
-trait_01: "aberration"
+trait_01: [[aberration]]
 modifier: 21
 perception:
   - name: "Perception"
@@ -81,6 +82,12 @@ attacks:
   - name: "Mind Bolt"
     desc: "`pf2:2` (mental,occult) A gosreg concentrates its field of discordant mental energy and projects it into the mind of one creature within 60 feet. The target takes 6d6 mental damage (DC 30 Will check save). On a critical failure, the creature is also [[Conditions/Confused|Confused]] for 1 minute or until it takes damage."
  
+```
+
+```encounter-table
+name: Gosreg
+creatures:
+  - 1: Gosreg
 ```
 
 

@@ -6,6 +6,7 @@ cssClasses: pf2e
 aliases: "Compendium.pf2e.pfs-season-1-bestiary.Actor.D9Ogfbn0ooPAqa9X" 
 tags:
   - pf2e/creature/type/animal
+  - pf2eMonster
   - pf2e/creature/level/3
 statblock: inline
 name: "Elderly Giant Tarantula"
@@ -23,11 +24,12 @@ level: "Creature 3"
 
 alignment: ""
 size: "Large"
-trait_01: "animal"
+trait_01: [[animal]]
 modifier: 9
 perception:
   - name: "Perception"
     desc: "+9; Darkvision"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Acrobatics: +5, Athletics: +10, Stealth: +7"
@@ -58,14 +60,20 @@ attacks:
     desc: "`pf2:1` Leg +12 (reach 10 feet)\n__Damage__  1d10 + 5 bludgeoning plus knockdown"
 
   - name: "Giant Tarantula Venom"
-    desc: " (poison) **Saving Throw** DC 25 Fortitude check\n**Maximum Duration** 8 rounds\n**Stage 1** 1d4 poison damage (1 round)\n**Stage 2** 1d4 poison, [[Conditions/Off-Guard|Off-Guard]], and [[Conditions/Clumsy 1|Clumsy 1]](1 round)\n**Stage 3** 1d4 poison, off-guard, and [[Conditions/Clumsy 1|Clumsy 2]]\n**Stage 4** 1d4 poison and [[Conditions/Paralyzed|Paralyzed]] (1 round)."
+    desc: " (poison) **Saving Throw** DC 25 Fortitude check\n* * *\n\n**Maximum Duration** 8 rounds\n\n**Stage 1** 1d4 poison damage (1 round)\n\n**Stage 2** 1d4 poison, [[Conditions/Off-Guard|Off-Guard]], and [[Conditions/Clumsy|Clumsy 1]](1 round)\n\n**Stage 3** 1d4 poison, off-guard, and [[Conditions/Clumsy|Clumsy 2]]\n\n**Stage 4** 1d4 poison and [[Conditions/Paralyzed|Paralyzed]] (1 round)."
 
   - name: "Hair Barrage"
-    desc: "`pf2:2`  The tarantula flicks its legs, flinging spiky hairs in a 15-foot cone. This deals 3d8 piercing damage with a DC 19 Reflex check save."
+    desc: "`pf2:2`  The tarantula flicks its legs, flinging spiky hairs in a @Template[cone|distance:15]. This deals 3d8 piercing damage with a DC 19 Reflex check save."
 
   - name: "[[Bestiary Ability Glossary/Knockdown|Knockdown]]"
     desc: "`pf2:1`  "
  
+```
+
+```encounter-table
+name: Elderly Giant Tarantula
+creatures:
+  - 1: Elderly Giant Tarantula
 ```
 
 

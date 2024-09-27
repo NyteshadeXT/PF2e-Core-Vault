@@ -17,7 +17,7 @@ license: OGL
 ---
 # Alghollthu Lash
 ## Item 7
-### [uncommon](uncommon "Uncommon Rarity Trait")[[disarm]][[finesse]][[magical]][[nonlethal]][[reach]][[trip]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[3-Rules/trait_reference/disarm]][[3-Rules/Rule References/Finesse]][[3-Rules/Rule References/Magical]][[nonlethal]][[3-Rules/Rule References/Reach]][[3-Rules/trait_reference/trip]]
 
 |  |  |
 | -- | -- |
@@ -44,9 +44,9 @@ This fleshy _+1 striking whip_ is obviously crafted from the tentacle of some fe
 
 **Stage 1** no ill effect (1 round)
 
-**Stage 2** the victim's skin softens, making the creature [[Conditions/Drained 1|Drained 1]] (1 round)
+**Stage 2** the victim's skin softens, making the creature [[Conditions/Drained|Drained 1]] (1 round)
 
-**Stage 3** the victim's skin transforms into a clear, slimy membrane, making it [[Conditions/Drained 1|Drained 2]] until the curse ends; every hour this membrane remains dry, the creature's drained condition increases by 1 (permanent). A remove disease spell can counteract this curse, but immunity to disease offers no protection against it.
+**Stage 3** the victim's skin transforms into a clear, slimy membrane, making it [[Conditions/Drained|Drained 2]] until the curse ends; every hour this membrane remains dry, the creature's drained condition increases by 1 (permanent). A remove disease spell can counteract this curse, but immunity to disease offers no protection against it.
 
 * * *
 

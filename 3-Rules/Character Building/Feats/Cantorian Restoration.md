@@ -8,8 +8,9 @@ tags:
   - trait/vitality
   - trait/common
   - category/ancestry
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.Qc9MH7wT182qasSV"
-license: OGL
+license: ORC
 ---
 # Cantorian Restoration `pf2:r`
 ## Feat 17
@@ -26,7 +27,7 @@ license: OGL
 
 * * *
 
-The energy that flows in your blood can save a life in the direst of times. The triggering creature receives the effects of [[Spells/Breath of Life|Breath of Life]], except they recover a number of Hit Points equal to 6d8 plus your Constitution modifier.
+The energy that flows in your blood can save a life in the direst of times. You prevent the creature from dying and restore 6d8 + your Constitution modifier Hit Points to it. You can't use Cantorian Restoration if the triggering effect was a death effect or an effect that leaves no remains, such as [[Spells/Disintegrate|Disintegrate]].
 
-*Source: Pathfinder Lost Omens: Ancestry Guide*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

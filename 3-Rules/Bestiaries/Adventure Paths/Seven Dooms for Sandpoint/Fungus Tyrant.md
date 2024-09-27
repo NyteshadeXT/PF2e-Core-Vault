@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/fiend
   - pf2e/creature/type/fungus
+  - pf2eMonster
   - pf2e/creature/level/9
 statblock: inline
 name: "Fungus Tyrant"
@@ -23,18 +24,18 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #200: Seven Dooms for Sandpoint"
 name: "Fungus Tyrant"
 level: "Creature 9"
-rare_03: "Rare"
+rare_03: [[Rare]]
 alignment: ""
 size: "Medium"
-trait_01: "chaotic"
-trait_02: "evil"
-trait_03: "fiend"
-trait_04: "fungus"
+trait_01: [[chaotic]]
+trait_02: [[evil]]
+trait_03: [[fiend]]
+trait_04: [[fungus]]
 modifier: 19
 perception:
   - name: "Perception"
     desc: "+19; Darkvision"
-languages: "Aklo, Chthonian, Common, Sakvroth"
+languages: "Aklo, Chthonian, Common, Sakvroth; Fungaltongue, Telepathy 100 feet, Tongues"
 skills:
   - name: "Skills"
     desc: "Athletics: +19, Deception: +21, Diplomacy: +19, Intimidation: +19, Religion: +19, Society: +18, Stealth: +19"
@@ -77,7 +78,7 @@ attacks:
     desc: "`pf2:2` (divine) The fungus tyrant causes a human-sized pod of fungal material to burst out of the ground at any point they can see within 60 feet. Once created, a sporepod lasts for 1 minute, until the fungus tyrant moves more than 120 feet away from it, or until it's destroyed (AC 28, Hardness 10, 20 HP). The fungus tyrant cannot Grow a Sporepod again for 1d4 rounds, but apart from this and a sporepod's 1 minute life, there is no hard limit to the number of sporepods a single fungus tyrant can have active at any one time."
 
   - name: "Mind-Draining Kiss"
-    desc: "`pf2:1` (divine,emotion,mental) **Frequency** once per round\n**Effect** The fungus tyrant engages a creature they have [[Conditions/Grabbed|Grabbed]] in an act of passion in an attempt to drain its will and personality. The kiss makes the creature [[Conditions/Stupefied 1|Stupefied 1]] or increases its stupefied condition by 1, to a maximum of 4. The creature takes 4d6 poison damage and must then succeed at a DC 28 Will check save or be affected by a [[Spells/Suggestion|Suggestion]] to remain immobile rather than trying to [[Actions/Escape|Escape]]."
+    desc: "`pf2:1` (divine,emotion,mental) **Frequency** once per round\n* * *\n\n**Effect** The fungus tyrant engages a creature they have [[Conditions/Grabbed|Grabbed]] in an act of passion in an attempt to drain its will and personality. The kiss makes the creature [[Conditions/Stupefied|Stupefied 1]] or increases its stupefied condition by 1, to a maximum of 4. The creature takes 4d6 poison damage and must then succeed at a DC 28 Will check save or be affected by a [[Spells/Suggestion|Suggestion]] to remain immobile rather than trying to [[Actions/Escape|Escape]]."
 
   - name: "Sporestride"
     desc: "`pf2:1` (move,teleportation) The fungus tyrant Steps into an adjacent sporepod and instantly teleports to any other active sporepod they've created, bursting out of the target sporepod and destroying it in the process."
@@ -88,6 +89,12 @@ attacks:
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
     desc: "`pf2:1`  "
  
+```
+
+```encounter-table
+name: Fungus Tyrant
+creatures:
+  - 1: Fungus Tyrant
 ```
 
 

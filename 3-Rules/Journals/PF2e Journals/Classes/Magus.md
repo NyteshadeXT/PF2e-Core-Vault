@@ -200,6 +200,16 @@ After you wield magic, you can enter a special stance to make your attacks more 
 
 Your extensive physical training and carefully chosen magic combine to form a unique and dangerous fighting style that's more than the sum of its parts. You choose one field of hybrid study to represent your particular combination of skills. Your hybrid study gives you a special ability, usually tied to Spellstrike or Arcane Cascade, and it determines your initial conflux spell. The hybrid studies presented in this book are as follows.
 
+### Aloof Firmament
+
+You're a philosopher of the sword who codifies your study of qinggong along principles arcane and martial. Your blade teaches morality and immortality, and you illustrate its lessons with an academician's rigor. Through your training, you've learned to move about with grace and create opportunity to strike foes.
+
+You gain the [[Feats/Cat Fall|Cat Fall]] general feat, though you benefit from it only as long as you aren't using a shield and are wearing light or no armor.
+
+While in Arcane Cascade stance, your steps become even lighter, giving you the benefits of the Quick Jump general feat. When you Fly, [[Actions/Leap|Leap]], [[Actions/High Jump|High Jump]], or [[Actions/Long Jump|Long Jump]] while in that stance, your movement doesn't trigger reactions. If you take one of these actions, the next Strike you make before the end of your turn with a one-handed weapon in the sword group has greater damage from Arcane Cascade. Increase the extra damage to 4; increase it to 6 if you have weapon specialization, or to 8 if you have greater weapon specialization. You must have your other hand completely free; the extra damage doesn't apply if you have a free-hand weapon or other item in that hand, even if you would normally be able to use the hand for other things.
+
+**Conflux Spell** sky laughs at waves
+
 ### Inexorable Iron
 
 Once you begin along a path, nothing can stop you from reaching its end. You transform the mass of a greataxe, greatsword, or polearm into an unstoppable force to augment your own striking power or keep you standing on the battlefield. When you enter Arcane Cascade stance and at the start of each of your turns while you're in that stance, if you're wielding a melee weapon in two hands, you gain temporary Hit Points equal to half your level (minimum 1 temporary HP).
@@ -239,6 +249,23 @@ The staff is perhaps one of the simplest of weapons, but this simplicity belies 
 While you wield a staff in one hand, the staff adjusts in shape and weight, gaining the agile trait and increasing its damage die size to 1d6. While you wield a staff in both hands, it lengthens, twists, and reshapes, gaining the parry, reach, and trip traits. While you're in Arcane Cascade stance, you can Interact or Release to change your grip on the weapon as a free action when you Strike with your staff, including Strikes made in a Spellstrike. This happens before you roll your attack roll. You can also Interact to change your grip on the staff as a free action triggered at the end of your turn.
 
 **Conflux Spell** spinning staff
+
+### Unfurling Brocade
+
+You disdain others' reliance on crude contrivances of iron, instead favoring the elegance of fabric, with thread and brocade your panoply. Your mastery of qinggong allows qi-infused fabric to tear flesh, bind blades, and pierce steel.
+
+You can create a special weapon, qi-infused fabric, by Interacting to grip a length of cloth of 1 Bulk or less and filling it with your qi. If you Interact to draw the object, you can do this as part of that action. For most unfurling brocade magi, this item is a scarf, sash, ribbon, or a similarly voluminous article of worn clothing, such as long sleeves. You can use the fabric as a bladed scarf. Unlike a normal bladed scarf, you have the option to wield the fabric in one hand instead of two. Its damage die is d4 if held in one hand. If you're wearing handwraps of mighty blows, you can apply any of its runes to the fabric, provided those runes could be added to a bladed scarf. This begins when you wield the fabric and ends when you cease doing so.
+
+While in Arcane Cascade stance, the magical energy flowing through your fabric partially animates it to accomplish an even greater range of tricks.
+
+*   If you critically succeed at an Athletics check to [[Actions/Disarm|Disarm]], you can spend a single action immediately afterward to flick your fabric, causing the disarmed object to fall to the ground in your space rather than in your opponent's.
+    
+*   Your fabric gains the grapple trait. If you succeed at an Athletics check to [[Actions/Grapple|Grapple]] using your fabric, you can spend a single action immediately afterward to pull the creature 5 feet toward you.
+    
+*   When you attempt to [[Actions/Trip|Trip]] a foe using your fabric, the target can be two sizes larger than you instead of one.
+    
+
+**Conflux Spell** home among mulberry leaves
 
 ## Conflux Spells
 

@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.pfs-season-1-bestiary.Actor.O6YxMaRh6tRGnnbl"
 tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/fey
+  - pf2eMonster
   - pf2e/creature/level/4
 statblock: inline
 name: "Biloko Veteran (1-16)"
@@ -24,8 +25,8 @@ level: "Creature 4"
 
 alignment: ""
 size: "Small"
-trait_01: "evil"
-trait_02: "fey"
+trait_01: [[evil]]
+trait_02: [[fey]]
 modifier: 11
 perception:
   - name: "Perception"
@@ -71,11 +72,17 @@ attacks:
     desc: "DC 21, attack +13; __1st __  _[[Spells/Charm|Charm]]_"
 
   - name: "Inspired Feast"
-    desc: " (emotion,mental) If a biloko feasts on a human corpse for 1 minute or more, they gain a +1 status bonus to attack rolls and a +2 status bonus to damage rolls for 1 hour.\n[[Bestiary Effects/Effect_ Inspired Feast|Effect: Inspired Feast]]"
+    desc: " (emotion,mental) If a biloko feasts on a human corpse for 1 minute or more, they gain a +1 status bonus to attack rolls and a +2 status bonus to damage rolls for 1 hour.\n\n[[Bestiary Effects/Effect_ Inspired Feast|Effect: Inspired Feast]]"
 
   - name: "Swipe"
-    desc: "`pf2:2`  The veteran makes a melee Strike and compares the attack roll result to the AC of up to two foes, each of whom must be within their melee reach and adjacent to each other. Roll damage only once and apply it to each creature hit.\nA Swipe counts as two attacks for the veteran's multiple attack penalty."
+    desc: "`pf2:2`  The veteran makes a melee Strike and compares the attack roll result to the AC of up to two foes, each of whom must be within their melee reach and adjacent to each other. Roll damage only once and apply it to each creature hit.\n\nA Swipe counts as two attacks for the veteran's multiple attack penalty."
  
+```
+
+```encounter-table
+name: Biloko Veteran (1-16)
+creatures:
+  - 1: Biloko Veteran (1-16)
 ```
 
 

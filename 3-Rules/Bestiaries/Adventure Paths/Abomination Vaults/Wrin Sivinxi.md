@@ -10,6 +10,7 @@ tags:
   - pf2e/creature/type/good
   - pf2e/creature/type/humanoid
   - pf2e/creature/type/nephilim
+  - pf2eMonster
   - pf2e/creature/level/5
 statblock: inline
 name: "Wrin Sivinxi"
@@ -24,14 +25,14 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #163: Ruins of Gauntlight"
 name: "Wrin Sivinxi"
 level: "Creature 5"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Medium"
-trait_01: "chaotic"
-trait_02: "elf"
-trait_03: "good"
-trait_04: "humanoid"
-trait_05: "nephilim"
+trait_01: [[chaotic]]
+trait_02: [[elf]]
+trait_03: [[good]]
+trait_04: [[humanoid]]
+trait_05: [[nephilim]]
 modifier: 12
 perception:
   - name: "Perception"
@@ -39,7 +40,7 @@ perception:
 languages: "Aklo, Common, Elven, Fey, Varisian"
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +12, Astrology Lore: +12, Nature: +12, Occultism: +12, Performance: +10, Religion: +13, Spirit Lore: +16"
+    desc: "Acrobatics: +12, Nature: +12, Occultism: +12, Performance: +10, Religion: +13, Astrology Lore: +12, Spirit Lore: +16"
 abilityMods: [0, 3, 0, 2, 3, 4]
 speed: 25 feet
 sourcebook: "_Pathfinder #163: Ruins of Gauntlight_"
@@ -57,7 +58,7 @@ abilities_top:
   - name: "Items"
     desc: "[[Equipment/Starknife|+1 Starknife]], [[Equipment/Harrow Deck (Common)|Harrow Fortune-Telling Deck]], [[Equipment/Religious Symbol (Silver)|Religious Symbol (Silver)]], Violin"
   - name: "Claustrophobia"
-    desc: "  Wrin becomes overwhelmed when she's underground, or when she's in an indoor space that's smaller than 10 feet in diameter.\nAt these times, she is [[Conditions/Sickened 1|Sickened 2]] and can't reduce her sickened condition until she's outside of the enclosed area."
+    desc: "  Wrin becomes overwhelmed when she's underground, or when she's in an indoor space that's smaller than 10 feet in diameter.\n\nAt these times, she is [[Conditions/Sickened|Sickened 2]] and can't reduce her sickened condition until she's outside of the enclosed area."
 
   - name: "Spirit Sight (Precise) 30 feet"
     desc: "  Wrin can see creatures with the spirit trait within 30 feet, regardless of whether they are visible to the naked eye. This ability sometimes allows Wrin to notice other supernatural auras, such as the buildup of spiritual energy atop Gauntlight."
@@ -86,8 +87,14 @@ attacks:
     desc: "  When Wrin casts [[Spells/Charm|Charm]], [[Spells/Enthrall|Enthrall]], [[Spells/Faerie Dust|Faerie Dust]], [[Spells/Ghost Sound|Ghost Sound]], or [[Spells/Laughing Fit|Laughing Fit]], fey glamours dance around Wrin or one target of the spell, causing them to be [[Conditions/Concealed|Concealed]] for 1 round. Such obvious concealment can't be used to [[Actions/Hide|Hide]]."
 
   - name: "Read the Stars"
-    desc: " (exploration,prediction,primal) **Frequency** once per day\n**Effect** Wrin attempts to read the future in the stars by spending an hour studying the night sky-she can't use this ability during the day, on an overcast night, or when she can't otherwise study the stars. Although Wrin usually performs this reading for an individual person or to answer a pressing question she has, for the purposes of this campaign she reads the stars for the party as a whole. She attempts an Astrology Lore check check, using the DC appropriate for the heroes' current level.\n**Critical Success** The results of Wrin's astrological readings have the effects of [[Spells/Read Omens|Read Omens]], and the heroes gain a +1 circumstance bonus to saving throws for 24 hours.\n**Success** The results of Wrin's astrological readings have the effects of [[Spells/Augury|Augury]], but can predict results up to 24 hours into the future.\n**Failure** No reading.\n**Critical Failure** Wrin brushes against hostile spiritual forces, and cannot for 1 week.\n[[Bestiary Effects/Effect_ Read the Stars (Critical Success)|Effect: Read the Stars (Critical Success)]]"
+    desc: " (exploration,prediction,primal) **Frequency** once per day\n* * *\n\n**Effect** Wrin attempts to read the future in the stars by spending an hour studying the night sky-she can't use this ability during the day, on an overcast night, or when she can't otherwise study the stars. Although Wrin usually performs this reading for an individual person or to answer a pressing question she has, for the purposes of this campaign she reads the stars for the party as a whole. She attempts an Astrology Lore check check, using the DC appropriate for the heroes' current level.\n* * *\n\n**Critical Success** The results of Wrin's astrological readings have the effects of [[Spells/Read Omens|Read Omens]], and the heroes gain a +1 circumstance bonus to saving throws for 24 hours.\n\n**Success** The results of Wrin's astrological readings have the effects of [[Spells/Augury|Augury]], but can predict results up to 24 hours into the future.\n\n**Failure** No reading.\n\n**Critical Failure** Wrin brushes against hostile spiritual forces, and cannot Read the Stars for 1 week.\n\n[[Bestiary Effects/Effect_ Read the Stars (Critical Success)|Effect: Read the Stars (Critical Success)]]"
  
+```
+
+```encounter-table
+name: Wrin Sivinxi
+creatures:
+  - 1: Wrin Sivinxi
 ```
 
 

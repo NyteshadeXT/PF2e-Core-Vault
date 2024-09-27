@@ -7,6 +7,7 @@ aliases: "Compendium.battlezoo-bestiary-pf2e.pf2e-battlezoo-bestiary.Actor.ZnDZk
 tags:
   - pf2e/creature/type/construct
   - pf2e/creature/type/mindless
+  - pf2eMonster
   - pf2e/creature/level/7
 statblock: inline
 name: "Mechanical Artillerist (Shell Cannon)"
@@ -25,16 +26,16 @@ level: "Creature 7"
 
 alignment: ""
 size: "Large"
-trait_01: "construct"
-trait_02: "mindless"
+trait_01: [[construct]]
+trait_02: [[mindless]]
 modifier: 15
 perception:
   - name: "Perception"
     desc: "+15; Darkvision"
-languages: "Common"
+languages: "Common; (can&#x27;t speak any language)"
 skills:
   - name: "Skills"
-    desc: "Athletics: +19, "
+    desc: "Athletics: +19"
 abilityMods: [6, 4, 6, -5, 2, -5]
 speed: 30 feet
 sourcebook: "_Battlezoo Bestiary_"
@@ -56,10 +57,10 @@ abilities_mid:
     desc: "`pf2:r`  "
 
   - name: "Final Detonation"
-    desc: " (fire) When a mechanical artillerist is reduced to 0 Hit Points, its internal reservoir of black powder cooks off, causing the artillerist to explode in a 30-foot emanation. Each creature in the area takes 4d6 fire damage (basic Reflex save; on a critical failure, the creature is also knocked Prone)."
+    desc: " (fire) When a mechanical artillerist is reduced to 0 Hit Points, its internal reservoir of black powder cooks off, causing the artillerist to explode in a 30-foot emanation. Each creature in the area takes 4d6 fire damage (DC 25 basic Reflex save; on a critical failure, the creature is also knocked [[Conditions/Prone|Prone]])."
 
   - name: "Sensitive Components"
-    desc: "  Extreme temperatures can interfere with a mechanical artillerist's engine. When a mechanical artillerist takes cold damage, it is Slowed 1 for 1 round. If it takes fire damage, it is Quickened for 1 round and it can use its extra action to either Stride or Strike. Additional cold or fire damage in a single round does not increase these conditions."
+    desc: "  Extreme temperatures can interfere with a mechanical artillerist's engine. When a mechanical artillerist takes cold damage, it is [[Conditions/Slowed|Slowed 1]] for 1 round. If it takes fire damage, it is [[Conditions/Quickened|Quickened]] for 1 round and it can use its extra action to either Stride or Strike. Additional cold or fire damage in a single round does not increase these conditions."
 
 attacks:
   - name: ""
@@ -71,8 +72,14 @@ attacks:
     desc: "`pf2:1` Artillery Shell +18 (fatal d12, range increment 100 feet)\n__Damage__  2d8 + 9 piercing"
 
   - name: "Shell Cannon"
-    desc: "`pf2:3`  The artillerist fires a single large shell from a powerful cannon, dealing 4d6 piercing damage to each creature in a 120-foot line (basic Reflex save)."
+    desc: "`pf2:3`  The artillerist fires a single large shell from a powerful cannon, dealing 4d6 piercing damage to each creature in a 120-foot line (DC 25 basic Reflex save)."
  
+```
+
+```encounter-table
+name: Mechanical Artillerist (Shell Cannon)
+creatures:
+  - 1: Mechanical Artillerist (Shell Cannon)
 ```
 
 

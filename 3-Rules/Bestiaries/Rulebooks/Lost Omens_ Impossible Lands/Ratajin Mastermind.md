@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/chaotic
   - pf2e/creature/type/good
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/2
 statblock: inline
 name: "Ratajin Mastermind"
@@ -22,12 +23,12 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Lost Omens: Impossible Lands"
 name: "Ratajin Mastermind"
 level: "Creature 2"
-rare_03: "Rare"
+rare_03: [[Rare]]
 alignment: ""
 size: "Medium"
-trait_01: "chaotic"
-trait_02: "good"
-trait_03: "humanoid"
+trait_01: [[chaotic]]
+trait_02: [[good]]
+trait_03: [[humanoid]]
 modifier: 7
 perception:
   - name: "Perception"
@@ -55,7 +56,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Outsmart"
-    desc: "`pf2:r`  **Trigger** A creature attacks while the ratajin mastermind is [[Conditions/Off-Guard|Off-Guard]]\n**Effect** Due to planning, the ratajin mastermind can react quickly to poor situations. The ratajin mastermind isn't treated as off-guard to the attack, and the triggering creature is off-guard to the next attack made before the end of the ratajin mastermind's next turn."
+    desc: "`pf2:r`  **Trigger** A creature attacks while the ratajin mastermind is [[Conditions/Off-Guard|Off-Guard]]\n* * *\n\n**Effect** Due to planning, the ratajin mastermind can react quickly to poor situations. The ratajin mastermind isn't treated as off-guard to the attack, and the triggering creature is off-guard to the next attack made before the end of the ratajin mastermind's next turn."
 
 attacks:
   - name: ""
@@ -66,6 +67,12 @@ attacks:
   - name: "Ranged"
     desc: "`pf2:1` Shortbow +11 (deadly d10, range increment 60 feet, reload 0)\n__Damage__  1d6 + 3 piercing"
  
+```
+
+```encounter-table
+name: Ratajin Mastermind
+creatures:
+  - 1: Ratajin Mastermind
 ```
 
 

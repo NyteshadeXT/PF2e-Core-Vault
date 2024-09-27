@@ -10,7 +10,7 @@ license: OGL
 ---
 # Catching
 ## Item 8
-### [[magical]]
+### [[3-Rules/Rule References/Magical]]
 
 
 **Price** 425 gp; 

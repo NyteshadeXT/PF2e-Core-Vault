@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.pathfinder-monster-core.Actor.0rm0UDbXvwg4sSxQ"
 tags:
   - pf2e/creature/type/plant
   - pf2e/creature/type/wood
+  - pf2eMonster
   - pf2e/creature/level/4
   - remaster
 statblock: inline
@@ -26,8 +27,8 @@ level: "Creature 4"
 
 alignment: ""
 size: "Large"
-trait_01: "plant"
-trait_02: "wood"
+trait_01: [[plant]]
+trait_02: [[wood]]
 modifier: 11
 perception:
   - name: "Perception"
@@ -35,7 +36,7 @@ perception:
 languages: "Arboreal, Common, Fey"
 skills:
   - name: "Skills"
-    desc: "Athletics: +13, Stealth: +9 (+14 in forests)"
+    desc: "Athletics: +13, Stealth: +9"
 abilityMods: [5, 1, 3, 1, 3, 1]
 speed: 25 feet
 sourcebook: "_Pathfinder Monster Core_"
@@ -72,6 +73,12 @@ attacks:
   - name: "Shield Push"
     desc: "`pf2:2`  The arboreal warden Strides and then makes a shield bash Strike. If the attack hits, the target is pushed 10 feet."
  
+```
+
+```encounter-table
+name: Arboreal Warden
+creatures:
+  - 1: Arboreal Warden
 ```
 
 

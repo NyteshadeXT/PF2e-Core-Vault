@@ -17,7 +17,7 @@ license: OGL
 
 
 
-**Major Boon** You are a voice of peace and rehabilitation.
+You are a voice of peace and rehabilitation.
 
 When you roll a success at a check to [[Actions/Request|Request]] something, you get a critical success instead.
 

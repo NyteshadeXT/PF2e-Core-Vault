@@ -14,7 +14,7 @@ license: OGL
 ---
 # Chakri (Lost Omens)
 ## Item 0
-### [uncommon](uncommon "Uncommon Rarity Trait")[[agile]][[deadly-d8]][[thrown]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[3-Rules/Rule References/Agile]][[deadly-d8]][[thrown]]
 
 |  |  |
 | -- | -- |

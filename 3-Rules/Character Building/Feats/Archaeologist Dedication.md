@@ -7,8 +7,9 @@ tags:
   - trait/dedication
   - trait/common
   - category/class
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.PRKe5rWYZMZgEpFU"
-license: OGL
+license: ORC
 ---
 # Archaeologist Dedication
 ## Feat 2
@@ -18,11 +19,11 @@ license: OGL
 
 
 
-**Prerequisites** trained in Perception, Society, and Thievery
+**Prerequisites** trained in Society, and Thievery
 * * *
 You are a student of peoples and their histories, and are in constant pursuit of knowledge and artifacts from the past. You become an expert in Society and Thievery, and you gain a +1 circumstance bonus to [[Actions/Recall Knowledge|Recall Knowledge]] about ancient history, peoples, and cultures.
 
-**Special** You can't select another dedication feat until you have gained two other feats from the [[PF2e Journals/Archetypes/Archaeologist|Archaeologist]] archetype.
+[[PF2e Journals/Archetypes/Archaeologist|Archaeologist]]
 
-*Source: Pathfinder Advanced Player's Guide*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

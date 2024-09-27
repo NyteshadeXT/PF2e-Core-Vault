@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/human
   - pf2e/creature/type/humanoid
   - pf2e/creature/type/werecreature
+  - pf2eMonster
   - pf2e/creature/level/4
   - remaster
 statblock: inline
@@ -28,10 +29,10 @@ level: "Creature 4"
 
 alignment: ""
 size: "Large"
-trait_01: "beast"
-trait_02: "human"
-trait_03: "humanoid"
-trait_04: "werecreature"
+trait_01: [[beast]]
+trait_02: [[human]]
+trait_03: [[humanoid]]
+trait_04: [[werecreature]]
 modifier: 11
 perception:
   - name: "Perception"
@@ -93,6 +94,12 @@ attacks:
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
     desc: "`pf2:1`  "
  
+```
+
+```encounter-table
+name: Weretiger
+creatures:
+  - 1: Weretiger
 ```
 
 

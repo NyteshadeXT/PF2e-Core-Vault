@@ -12,7 +12,7 @@ license: OGL
 ---
 # Elemental Familiar (Water)
 
-### [[3-Rules/Rule References/Water]]
+### [[water]]
 
 **Category** familiar; 
 

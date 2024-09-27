@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.pfs-season-3-bestiary.Actor.4paPYhdN4HHT3Orz"
 tags:
   - pf2e/creature/type/construct
   - pf2e/creature/type/mindless
+  - pf2eMonster
   - pf2e/creature/level/3
 statblock: inline
 name: "Flaming Animated Armor (Holy Hand) (1-2)"
@@ -21,15 +22,16 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Society Scenario #3-13: Guardian&#x27;s Covenant"
 name: "Flaming Animated Armor (Holy Hand) (1-2)"
 level: "Creature 3"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Medium"
-trait_01: "construct"
-trait_02: "mindless"
+trait_01: [[construct]]
+trait_02: [[mindless]]
 modifier: 9
 perception:
   - name: "Perception"
     desc: "+9; Darkvision"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Athletics: +10"
@@ -55,7 +57,7 @@ abilities_mid:
     desc: "  Like normal objects, a flaming animated armor has Hardness. This Hardness reduces any damage it takes by an amount equal to the Hardness. Once a flaming animated armor is reduced to less than half its Hit Points, or immediately upon being damaged by a critical hit, its construct armor breaks and its Armor Class is reduced to 15."
 
   - name: "[[Actions/Raise a Shield|Raise a Shield]]"
-    desc: "`pf2:1` (general) **Requirements** You are wielding a shield\nYou position your shield to protect yourself. When you have Raised a Shield, you gain its listed circumstance bonus to AC. Your shield remains raised until the start of your next turn.\n[[Equipment Effects/Effect_ Raise a Shield|Effect: Raise a Shield]]"
+    desc: "`pf2:1` (general) **Requirements** You are wielding a shield\n* * *\n\nYou position your shield to protect yourself. When you have Raised a Shield, you gain its listed circumstance bonus to AC. Your shield remains raised until the start of your next turn.\n\n[[Equipment Effects/Effect_ Raise a Shield|Effect: Raise a Shield]]"
 
 attacks:
   - name: ""
@@ -66,6 +68,12 @@ attacks:
   - name: "Melee"
     desc: "`pf2:1` Shield Spikes +12 ()\n__Damage__  1d6 + 5 piercing 1d4 fire"
  
+```
+
+```encounter-table
+name: Flaming Animated Armor (Holy Hand) (1-2)
+creatures:
+  - 1: Flaming Animated Armor (Holy Hand) (1-2)
 ```
 
 

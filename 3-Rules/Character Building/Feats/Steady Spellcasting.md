@@ -7,6 +7,7 @@ tags:
   - trait/cleric
   - trait/druid
   - trait/oracle
+  - trait/psychic
   - trait/sorcerer
   - trait/witch
   - trait/wizard
@@ -18,7 +19,7 @@ license: ORC
 ---
 # Steady Spellcasting
 ## Feat 6
-### [[bard]][[cleric]][[druid]][[oracle]][[sorcerer]][[witch]][[wizard]]
+### [[bard]][[cleric]][[druid]][[oracle]][[psychic]][[sorcerer]][[witch]][[wizard]]
 
 **Category** class; 
 

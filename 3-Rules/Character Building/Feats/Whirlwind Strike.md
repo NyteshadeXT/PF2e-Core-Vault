@@ -21,7 +21,7 @@ license: ORC
 
 
 
-You lash out in a blur of motion, attacking all nearby adversaries. Make a melee Strike against each enemy within your melee reach. Each attack counts toward your multiple attack penalty, but you do not increase your penalty until you have made all your attacks.
+You attack all nearby adversaries. Make a melee Strike against each enemy within your melee reach. Each attack counts toward your multiple attack penalty, but don't increase your penalty until you have made all your attacks.
 
-*Source: Pathfinder Player Core*
+*Source: Pathfinder Player Core 2*
 *ORC*

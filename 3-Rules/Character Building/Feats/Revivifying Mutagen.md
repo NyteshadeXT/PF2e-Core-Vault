@@ -4,25 +4,27 @@ title: "Revivifying Mutagen"
 cssclasses: pf2e,pf2e-spell
 tags:
   - trait/alchemist
+  - trait/concentrate
   - trait/common
   - category/class
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.2rJP5TqvfazNeNmY"
-license: OGL
+license: ORC
 ---
 # Revivifying Mutagen `pf2:1`
 ## Feat 2
-### [[alchemist]]
+### [[alchemist]][[concentrate]]
 
 **Category** class; 
 
 
 
 
-While under the effect of a mutagen, you can metabolize that mutagen's power to heal yourself.
+**Requirements** You are under the effects of a mutagen.
 
-This uses a single action, which has the concentrate and manipulate traits.
+* * *
 
-Once the action is complete, you regain 1d6 Hit Points for every 2 item levels of the mutagen (minimum 1d6), but the mutagen's duration immediately ends, even if you are under the effect of Persistent Mutagen.
+You metabolize a mutagen to heal yourself. You regain 1d6 Hit Points for every 2 item levels of the required mutagen (minimum 1d6 HP), but the mutagen's duration immediately ends.
 
-*Source: Pathfinder Core Rulebook*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

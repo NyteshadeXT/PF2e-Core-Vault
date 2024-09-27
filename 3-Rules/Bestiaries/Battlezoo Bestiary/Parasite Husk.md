@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/mindless
   - pf2e/creature/type/undead
   - pf2e/creature/type/unholy
+  - pf2eMonster
   - pf2e/creature/level/3
 statblock: inline
 name: "Parasite Husk"
@@ -27,17 +28,18 @@ level: "Creature 3"
 
 alignment: ""
 size: "Medium"
-trait_01: "evil"
-trait_02: "mindless"
-trait_03: "undead"
-trait_04: "unholy"
+trait_01: [[evil]]
+trait_02: [[mindless]]
+trait_03: [[undead]]
+trait_04: [[unholy]]
 modifier: 7
 perception:
   - name: "Perception"
     desc: "+7; Lifesense 30 Feet"
+languages: ""
 skills:
   - name: "Skills"
-    desc: "Athletics: +10, "
+    desc: "Athletics: +10"
 abilityMods: [3, -3, 4, -5, 0, -4]
 speed: 25 feet
 sourcebook: "_Battlezoo Bestiary_"
@@ -56,7 +58,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Erupt"
-    desc: "`pf2:r`  **Trigger** The husk is reduced to 0 Hit Points;\n**Effect** The husk's animating worms erupt in a final frenzied attempt to claim a new host. All creatures within 5 feet take 2d10 piercing damage (basic Reflex save). A creature that critically fails its save is exposed to parasitic infestation."
+    desc: "`pf2:r`  **Trigger** The husk is reduced to 0 Hit Points;\n* * *\n\n**Effect** The husk's animating worms erupt in a final frenzied attempt to claim a new host. All creatures within 5 feet take 2d10 piercing damage (DC 17 basic Reflex save). A creature that critically fails its save is exposed to parasitic infestation."
 
 attacks:
   - name: ""
@@ -68,10 +70,10 @@ attacks:
     desc: "`pf2:1` Worms +10 (reach 10 feet)\n__Damage__  1d10 + 5 piercing plus parasitic-infestation"
 
   - name: "Parasitic Infestation"
-    desc: " (disease) An infected creature cannot remove the sickened condition until it has been cured of the disease;\n**Saving Throw** Fortitude;\n**Stage 1** Enfeebled 1 (1 day);\n**Stage 2** Sickened 1 and 1d6 piercing damage (1 day);\n**Stage 3** Sickened 2 and 2d6 piercing damage (1 day);\n**Stage 4** Sickened 3 and 3d6 piercing damage (1 day);\n**Stage 5** dead, rising as a parasite husk immediately"
+    desc: " (disease) An infected creature cannot remove the sickened condition until it has been cured of the disease;\n\n**Saving Throw** DC 17 Fortitude;\n* * *\n\n**Stage 1** [[Conditions/Enfeebled|Enfeebled 1]] (1 day);\n\n**Stage 2** [[Conditions/Sickened|Sickened 1]] and 1d6 piercing damage (1 day);\n\n**Stage 3** [[Conditions/Sickened|Sickened 2]] and 2d6 piercing damage (1 day);\n\n**Stage 4** [[Conditions/Sickened|Sickened 3]] and 3d6 piercing damage (1 day);\n\n**Stage 5** dead, rising as a parasite husk immediately"
 
   - name: "Increase Infestation"
-    desc: "`pf2:2`  Worms burst from the husk's skin and attempt to forcibly move to a new host;\n**Requirements** The husk has a creature Grabbed;\n**Effect** The husk makes two worms Strikes against the grabbed creature. The husks's multiple attack penalty increases only after both attacks are made. If both attacks hit a creature currently afflicted with the parasite husks's parasitic infestation disease, the disease automatically progresses to the next stage."
+    desc: "`pf2:2`  Worms burst from the husk's skin and attempt to forcibly move to a new host;\n\n**Requirements** The husk has a creature [[Conditions/Grabbed|Grabbed]];\n\n**Effect** The husk makes two worms Strikes against the grabbed creature. The husks's multiple attack penalty increases only after both attacks are made. If both attacks hit a creature currently afflicted with the parasite husks's parasitic infestation disease, the disease automatically progresses to the next stage."
 
   - name: "Vermicular Surge"
     desc: "`pf2:2`  The worms inside the parasite husk tremble terribly, then lunge forward all as one, urging their husk onward, heedless of the damage done to it. The parasite husk Strides three times, ignoring difficult and greater difficult terrain. For each square of difficult or greater difficult terrain it moves through, the parasite husk takes 5 bludgeoning or 10 bludgeoning, respectively."
@@ -79,6 +81,12 @@ attacks:
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
     desc: "`pf2:1`  "
  
+```
+
+```encounter-table
+name: Parasite Husk
+creatures:
+  - 1: Parasite Husk
 ```
 
 

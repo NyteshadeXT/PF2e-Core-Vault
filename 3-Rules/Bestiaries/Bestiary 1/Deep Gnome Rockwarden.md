@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.pathfinder-bestiary.Actor.0hnnwyqLfYVIenzd"
 tags:
   - pf2e/creature/type/gnome
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/5
 statblock: inline
 name: "Deep Gnome Rockwarden"
@@ -25,8 +26,8 @@ level: "Creature 5"
 
 alignment: ""
 size: "Small"
-trait_01: "gnome"
-trait_02: "humanoid"
+trait_01: [[gnome]]
+trait_02: [[humanoid]]
 modifier: 14
 perception:
   - name: "Perception"
@@ -68,6 +69,12 @@ attacks:
   - name: "Primal Innate Spells"
     desc: "DC 21, attack +13; __1st __  _[[Spells/Illusory Disguise|Illusory Disguise]]_"
  
+```
+
+```encounter-table
+name: Deep Gnome Rockwarden
+creatures:
+  - 1: Deep Gnome Rockwarden
 ```
 
 

@@ -7,8 +7,9 @@ tags:
   - trait/revelation
   - trait/common
   - category/general
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.uudiUylT09WnHN7e"
-license: OGL
+license: ORC
 ---
 # True Perception
 ## Feat 19
@@ -20,7 +21,7 @@ license: OGL
 
 **Prerequisites** legendary in Perception
 * * *
-Your perceptive abilities and ability to process sensory information are so far beyond the pale that you notice minute discrepancies in all sorts of illusions and transmutations. You are constantly under the effects of a 6th-rank [[Spells/Truesight|Truesight]] spell, using your Perception modifier for the counteract check.
+Your perceptive abilities and ability to process sensory information are so far beyond the pale that you notice minute discrepancies in all sorts of illusions and physical transformations. You are constantly under the effects of a 6th-rank [[Spells/Truesight|Truesight]] spell, using your Perception modifier for the counteract check.
 
-*Source: Pathfinder Advanced Player's Guide*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

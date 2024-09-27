@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/elf
   - pf2e/creature/type/good
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/-1
 statblock: inline
 name: "Miriel Grayleaf"
@@ -26,10 +27,10 @@ level: "Creature -1"
 
 alignment: ""
 size: "Medium"
-trait_01: "chaotic"
-trait_02: "elf"
-trait_03: "good"
-trait_04: "humanoid"
+trait_01: [[chaotic]]
+trait_02: [[elf]]
+trait_03: [[good]]
+trait_04: [[humanoid]]
 modifier: 2
 perception:
   - name: "Perception"
@@ -37,7 +38,7 @@ perception:
 languages: "Common, Elven"
 skills:
   - name: "Skills"
-    desc: "Arcana: +5, Library Lore: +5, Occultism: +5"
+    desc: "Arcana: +5, Occultism: +5, Library Lore: +5"
 abilityMods: [0, 3, -1, 3, 0, 2]
 speed: 30 feet
 sourcebook: "_Pathfinder #157: Devil at the Dreaming Palace_"
@@ -59,7 +60,7 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
+  - name: "Ranged"
     desc: "`pf2:1` Dagger +2 (agile, finesse, thrown 10 ft., versatile s)\n__Damage__  1d4 piercing"
 
   - name: "Ranged"
@@ -68,6 +69,12 @@ attacks:
   - name: "Prepared Arcane Spells"
     desc: "DC 15, attack +7; __1st __  _[[Spells/Grease|Grease]]_\n__Cantrips__  __(1st)__ _[[Spells/Telekinetic Hand|Mage Hand]]_, _[[Spells/Tangle Vine|Tanglefoot]]_"
  
+```
+
+```encounter-table
+name: Miriel Grayleaf
+creatures:
+  - 1: Miriel Grayleaf
 ```
 
 

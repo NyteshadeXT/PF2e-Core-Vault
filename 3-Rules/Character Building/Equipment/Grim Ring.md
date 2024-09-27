@@ -27,7 +27,7 @@ This golden ring is sculpted with the visage of a grinning skull on the side. Wh
 
 **Frequency** once per day
 
-**Trigger** You gain the [[Conditions/Drained 1|Drained]] condition from an undead creature
+**Trigger** You gain the [[Conditions/Drained|Drained]] condition from an undead creature
 
 **Effect** Reduce the value of the drained condition you gain by 1, and the undead that caused the condition takes 2d6 vitality damage.
 

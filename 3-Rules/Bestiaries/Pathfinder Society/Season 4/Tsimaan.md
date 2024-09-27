@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/elf
   - pf2e/creature/type/good
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/0
 statblock: inline
 name: "Tsimaan"
@@ -22,12 +23,12 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Society Scenario #4-13: Within the Prairies"
 name: "Tsimaan"
 level: "Creature 0"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Medium"
-trait_01: "elf"
-trait_02: "good"
-trait_03: "humanoid"
+trait_01: [[elf]]
+trait_02: [[good]]
+trait_03: [[humanoid]]
 modifier: 10
 perception:
   - name: "Perception"
@@ -64,8 +65,14 @@ attacks:
     desc: "`pf2:1` Crossbow +7 (range increment 120 feet, reload 1)\n__Damage__  1d8 piercing"
 
   - name: "Pinpoint Weakness"
-    desc: "`pf2:1`  Tsimaan points out a weakness of a creature within 30 feet. Tsimaan and all allies that can see and hear her gain a +1 status bonus to their attack and damage rolls against that creature until the beginning of her next turn.\n[[Bestiary Effects/Effect_ Pinpoint Weakness|Effect: Pinpoint Weakness]]"
+    desc: "`pf2:1`  Tsimaan points out a weakness of a creature within 30 feet. Tsimaan and all allies that can see and hear her gain a +1 status bonus to their attack and damage rolls against that creature until the beginning of her next turn.\n\n[[Bestiary Effects/Effect_ Pinpoint Weakness|Effect: Pinpoint Weakness]]"
  
+```
+
+```encounter-table
+name: Tsimaan
+creatures:
+  - 1: Tsimaan
 ```
 
 

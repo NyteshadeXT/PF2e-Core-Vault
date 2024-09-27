@@ -15,7 +15,7 @@ license: OGL
 ---
 # Cytillesh
 ## Item 5
-### [uncommon](uncommon "Uncommon Rarity Trait")[[alchemical]][[consumable]][[drug]][[ingested]][[3-Rules/Rule References/Poison]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[alchemical]][[consumable]][[drug]][[ingested]][[3-Rules/Rule References/Poison]]
 
 **Category** drug; 
 **Price** 30 gp; 
@@ -32,7 +32,7 @@ Deros use cytillesh in a variety of ways, and some surface-dwellers seek out the
 
 **Maximum Duration** 8 hours
 
-**Stage 1** [[Conditions/Stupefied 1|Stupefied 1]] (1 minute)
+**Stage 1** [[Conditions/Stupefied|Stupefied 1]] (1 minute)
 
 **Stage 2** lose all memories made in the previous hour (1 hour)
 

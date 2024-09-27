@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.pathfinder-bestiary.Actor.uQBOJfjtzEXvpLQz"
 tags:
   - pf2e/creature/type/mindless
   - pf2e/creature/type/ooze
+  - pf2eMonster
   - pf2e/creature/level/5
 statblock: inline
 name: "Ochre Jelly"
@@ -25,12 +26,13 @@ level: "Creature 5"
 
 alignment: ""
 size: "Large"
-trait_01: "mindless"
-trait_02: "ooze"
+trait_01: [[mindless]]
+trait_02: [[ooze]]
 modifier: 7
 perception:
   - name: "Perception"
     desc: "+7; Motion Sense (Precise) 60 Feet"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Athletics: +13"
@@ -55,7 +57,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Split"
-    desc: "  Whenever an ochre jelly is hit by an attack or effect that would deal slashing, piercing, or electricity damage and the ochre jelly has at least 10 HP, the jelly splits into two identical jellies with half the original's HP.\nOne jelly is in the same space as the original, and the other appears in an adjacent unoccupied space. If no adjacent space is unoccupied, it automatically pushes creatures and objects out of the way to fill a space (the GM decides if an object or creature is too big or sturdy to push)."
+    desc: "  Whenever an ochre jelly is hit by an attack or effect that would deal slashing, piercing, or electricity damage and the ochre jelly has at least 10 HP, the jelly splits into two identical jellies with half the original's HP.\n\nOne jelly is in the same space as the original, and the other appears in an adjacent unoccupied space. If no adjacent space is unoccupied, it automatically pushes creatures and objects out of the way to fill a space (the GM decides if an object or creature is too big or sturdy to push)."
 
 attacks:
   - name: ""
@@ -64,7 +66,7 @@ attacks:
     desc: "`pf2:1` Pseudopod +15 ()\n__Damage__  1d8 + 7 bludgeoning plus grab 2d4 acid plus grab"
 
   - name: "[[Bestiary Ability Glossary/Constrict|Constrict]]"
-    desc: "`pf2:1`  1d8+3 bludgeoning damage plus 2d4 acid damage, DC 23 Fortitude check save\n"
+    desc: "`pf2:1`  1d8+3 bludgeoning damage plus 2d4 acid damage, DC 23 Fortitude check save\n\n* * *\n"
 
   - name: "Ochre Acid"
     desc: "  An ochre jelly's acid damages only flesh-not bone, stone, wood, or other materials."
@@ -72,6 +74,12 @@ attacks:
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
     desc: "`pf2:1`  "
  
+```
+
+```encounter-table
+name: Ochre Jelly
+creatures:
+  - 1: Ochre Jelly
 ```
 
 

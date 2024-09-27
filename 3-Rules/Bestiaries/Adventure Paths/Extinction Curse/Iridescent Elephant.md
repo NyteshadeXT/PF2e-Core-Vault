@@ -6,6 +6,7 @@ cssClasses: pf2e
 aliases: "Compendium.pf2e.extinction-curse-bestiary.Actor.x2XcPDPLeCAXITlZ" 
 tags:
   - pf2e/creature/type/animal
+  - pf2eMonster
   - pf2e/creature/level/7
 statblock: inline
 name: "Iridescent Elephant"
@@ -20,14 +21,15 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #152: Legacy of the Lost God"
 name: "Iridescent Elephant"
 level: "Creature 7"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "huge"
-trait_01: "animal"
+trait_01: [[animal]]
 modifier: 11
 perception:
   - name: "Perception"
     desc: "+11; Scent (Imprecise) 30 Feet"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Athletics: +15, Survival: +13"
@@ -67,14 +69,20 @@ attacks:
     desc: " (visual) When the iridescent elephant stomps its foot, a bright, disorienting burst of light pulses through its leg. Each creatures adjacent to the iridescent elephant when it makes a foot Strike (regardless of whether or not it hit) must succeed at a DC 24 Will check save or be [[Conditions/Off-Guard|Off-Guard]] until the beginning of the elephant's next turn."
 
   - name: "[[Bestiary Ability Glossary/Trample|Trample]]"
-    desc: "`pf2:3`  Large or smaller, foot, DC 22 Reflex check\n"
+    desc: "`pf2:3`  Large or smaller, foot, DC 22 Reflex check\n\n* * *\n"
 
   - name: "Trunk Beam"
-    desc: " (light,visual) **Frequency** once per day\n**Effect** The iridescent elephant blasts a beam of light from its trunk in a 30-foot line. Each creature in the area must attempt a DC 22 Fortitude check save.\n**Critical Success** The creature is unaffected.\n**Success** The creature is [[Conditions/Dazzled|Dazzled]] for 1 round.\n**Failure** The creature is [[Conditions/Blinded|Blinded]] for 1 minute.\n**Critical Failure** The creature is blinded permanently."
+    desc: " (light,visual) **Frequency** once per day\n* * *\n\n**Effect** The iridescent elephant blasts a beam of light from its trunk in a @Template[line|distance:30]. Each creature in the area must attempt a DC 22 Fortitude check save.\n\n**Critical Success** The creature is unaffected.\n\n**Success** The creature is [[Conditions/Dazzled|Dazzled]] for 1 round.\n\n**Failure** The creature is [[Conditions/Blinded|Blinded]] for 1 minute.\n\n**Critical Failure** The creature is blinded permanently."
 
   - name: "Grabbing Trunk"
     desc: "  A Medium or smaller creature hit by the elephant's trunk is [[Conditions/Grabbed|Grabbed]]. If the elephant moves, it can bring the grabbed creature along with it."
  
+```
+
+```encounter-table
+name: Iridescent Elephant
+creatures:
+  - 1: Iridescent Elephant
 ```
 
 

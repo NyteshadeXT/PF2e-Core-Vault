@@ -3,6 +3,7 @@ obsidianUIMode: preview
 title: "Misdirecting Haversack"
 cssclasses: pf2e,pf2e-spell
 tags:
+  - trait/illusion
   - trait/magical
   - trait/uncommon
 aliases: "Compendium.pf2e.equipment-srd.Item.NBmOTmE2GAEI766h"
@@ -10,7 +11,7 @@ license: OGL
 ---
 # Misdirecting Haversack
 ## Item 6
-### [uncommon](uncommon "Uncommon Rarity Trait")[[magical]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[illusion]][[magical]]
 
 
 **Price** 200 gp; 

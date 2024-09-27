@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.gatewalkers-bestiary.Actor.78E4gYNIFP3jd8Bt"
 tags:
   - pf2e/creature/type/divine
   - pf2e/creature/type/mindless
+  - pf2eMonster
   - pf2e/creature/level/11
 statblock: inline
 name: "Protosoul"
@@ -21,15 +22,16 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #189: Dreamers of the Nameless Spires"
 name: "Protosoul"
 level: "Creature 11"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Large"
-trait_01: "divine"
-trait_02: "mindless"
+trait_01: [[divine]]
+trait_02: [[mindless]]
 modifier: 19
 perception:
   - name: "Perception"
     desc: "+19; Lifesense"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Acrobatics: +22"
@@ -51,7 +53,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Absorb Necromancy"
-    desc: "  A protosoul is made of necromantic energy. Any time it would be affected by another creature's non-cantrip necromancy spell, after applying its immunity, it also regains 10 Hit Points."
+    desc: "  A protosoul is made of necromantic energy. Any time it would be affected by another creature's non-cantrip necromancy spell, after applying its immunity, it also regains 10 healing Hit Points."
 
 attacks:
   - name: ""
@@ -66,11 +68,17 @@ attacks:
     desc: "DC 30, attack +22; __5th __  _[[Spells/Harm|Harm (At Will, see Unstable Magic)]]_; __4th __  _[[Spells/Enervation|Enervation (At Will, see Unstable Magic)]]_; __3rd __  _[[Spells/Sudden Blight|Sudden Blight (At Will, see Unstable Magic)]]_\n__Cantrips__  __(6th)__ _[[Spells/Void Warp|Chill Touch]]_"
 
   - name: "[[Bestiary Ability Glossary/Engulf|Engulf]]"
-    desc: "`pf2:2`  DC 30 Reflex check, 2d8 force damage plus 3d8 void damage, [[Actions/Escape|Escape]] DC 30, Rupture 25\n"
+    desc: "`pf2:2`  DC 30 Reflex check, 2d8 force damage plus 3d8 void damage, [[Actions/Escape|Escape]] DC 30, Rupture 25\n\n* * *\n"
 
   - name: "Unstable Magic"
-    desc: "  The roiling protosoul can't be healed or Repaired, and is destroyed at 0 Hit Points. So long as it is not destroyed, it naturally recovers 77 Hit Points each day. Each time a roiling protosoul casts one of its non-cantrip spells, it drains its own magic to do so, taking 6 force damage."
+    desc: "  The roiling protosoul can't be healed or Repaired, and is destroyed at 0 Hit Points. So long as it is not destroyed, it naturally recovers 77 healing Hit Points each day. Each time a roiling protosoul casts one of its non-cantrip spells, it drains its own magic to do so, taking 6 force damage."
  
+```
+
+```encounter-table
+name: Protosoul
+creatures:
+  - 1: Protosoul
 ```
 
 

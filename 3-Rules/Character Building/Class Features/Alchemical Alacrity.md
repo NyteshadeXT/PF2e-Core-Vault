@@ -11,7 +11,7 @@ license: OGL
 ---
 # Alchemical Alacrity
 ## Feat 15
-### [[alchemist]]
+### [[3-Rules/trait_reference/alchemist]]
 
 **Category** classfeature; 
 

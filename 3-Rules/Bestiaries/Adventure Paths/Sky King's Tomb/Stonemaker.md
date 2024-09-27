@@ -6,6 +6,7 @@ cssClasses: pf2e
 aliases: "Compendium.pf2e.sky-kings-tomb-bestiary.Actor.zWtfGN6uugDaRtcS" 
 tags:
   - pf2e/creature/type/beast
+  - pf2eMonster
   - pf2e/creature/level/5
 statblock: inline
 name: "Stonemaker"
@@ -23,11 +24,12 @@ level: "Creature 5"
 
 alignment: ""
 size: "Medium"
-trait_01: "beast"
+trait_01: [[beast]]
 modifier: 11
 perception:
   - name: "Perception"
     desc: "+11; Darkvision"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Athletics: +13, Stealth: +8"
@@ -52,7 +54,7 @@ abilities_mid:
     desc: "  Stonemaker has an instinctive fear of mustelids like weasels, ferrets, and even pyre ferrets. He responds to such creatures as though they had [[Bestiary Ability Glossary/Frightful Presence|Frightful Presence]] (DC 20 Will check)."
 
   - name: "Petrifying Glance"
-    desc: "`pf2:r` (arcane,aura,visual) 30 feet. **Trigger** A creature within 30 feet that the basilisk can see starts its turn.\n**Effect** The target must attempt a DC 20 Fortitude check save. If it fails, it's [[Conditions/Slowed 1|Slowed 1]] for 1 minute as its body slowly stiffens."
+    desc: "`pf2:r` (arcane,aura,visual) 30 feet. **Trigger** A creature within 30 feet that the basilisk can see starts its turn.\n* * *\n\n**Effect** The target must attempt a DC 20 Fortitude check save. If it fails, it's [[Conditions/Slowed|Slowed 1]] for 1 minute as its body slowly stiffens."
 
 attacks:
   - name: ""
@@ -61,8 +63,14 @@ attacks:
     desc: "`pf2:1` Jaws +15 ()\n__Damage__  2d8 + 4 piercing"
 
   - name: "Petrifying Gaze"
-    desc: "`pf2:2` (arcane,concentrate,incapacitation,visual) The basilisk stares at a creature it can see within 30 feet. That creature must attempt a DC 22 Fortitude check save. If it fails and has not already been slowed by Petrifying Glance or this ability, it becomes [[Conditions/Slowed 1|Slowed 1]]. If the creature was already slowed by this ability or Petrifying Glance, a failed save causes the creature to be [[Conditions/Petrified|Petrified]] permanently.\nA creature petrified in this manner that is coated (not just splashed) with fresh basilisk blood (taken from a basilisk that has been dead no longer than 1 hour) is instantly restored to flesh.\nA single basilisk contains enough blood to coat 1d3 Medium creatures in this manner."
+    desc: "`pf2:2` (arcane,concentrate,incapacitation,visual) The basilisk stares at a creature it can see within 30 feet. That creature must attempt a DC 22 Fortitude check save. If it fails and has not already been slowed by Petrifying Glance or this ability, it becomes [[Conditions/Slowed|Slowed 1]]. If the creature was already slowed by this ability or Petrifying Glance, a failed save causes the creature to be [[Conditions/Petrified|Petrified]] permanently.\n\nA creature petrified in this manner that is coated (not just splashed) with fresh basilisk blood (taken from a basilisk that has been dead no longer than 1 hour) is instantly restored to flesh.\n\nA single basilisk contains enough blood to coat 1d3 Medium creatures in this manner."
  
+```
+
+```encounter-table
+name: Stonemaker
+creatures:
+  - 1: Stonemaker
 ```
 
 

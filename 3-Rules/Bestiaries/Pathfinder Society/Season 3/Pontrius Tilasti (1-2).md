@@ -12,6 +12,7 @@ tags:
   - pf2e/creature/type/humanoid
   - pf2e/creature/type/lawful
   - pf2e/creature/type/unholy
+  - pf2eMonster
   - pf2e/creature/level/2
 statblock: inline
 name: "Pontrius Tilasti (1-2)"
@@ -26,16 +27,16 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Society Scenario #3-05: Inheritor&#x27;s Rite"
 name: "Pontrius Tilasti (1-2)"
 level: "Creature 2"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Small"
-trait_01: "devil"
-trait_02: "evil"
-trait_03: "fiend"
-trait_04: "halfling"
-trait_05: "humanoid"
-trait_06: "lawful"
-trait_07: "unholy"
+trait_01: [[devil]]
+trait_02: [[evil]]
+trait_03: [[fiend]]
+trait_04: [[halfling]]
+trait_05: [[humanoid]]
+trait_06: [[lawful]]
+trait_07: [[unholy]]
 modifier: 6
 perception:
   - name: "Perception"
@@ -74,6 +75,12 @@ attacks:
   - name: "Bloodline Spells"
     desc: "1 Focus Point, DC 18, attack +10; __1st __  _[[Spells/Diabolic Edict|Diabolic Edict]]_"
  
+```
+
+```encounter-table
+name: Pontrius Tilasti (1-2)
+creatures:
+  - 1: Pontrius Tilasti (1-2)
 ```
 
 

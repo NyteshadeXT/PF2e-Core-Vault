@@ -6,6 +6,7 @@ cssClasses: pf2e
 aliases: "Compendium.pf2e.pathfinder-bestiary.Actor.bIw7czN0E3rENrVd" 
 tags:
   - pf2e/creature/type/animal
+  - pf2eMonster
   - pf2e/creature/level/4
 statblock: inline
 name: "Giant Stag Beetle"
@@ -24,11 +25,12 @@ level: "Creature 4"
 
 alignment: ""
 size: "Large"
-trait_01: "animal"
+trait_01: [[animal]]
 modifier: 10
 perception:
   - name: "Perception"
     desc: "+10; Darkvision"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Acrobatics: +9, Athletics: +13"
@@ -59,8 +61,14 @@ attacks:
     desc: "`pf2:1` Foot +11 ()\n__Damage__  1d10 + 5 bludgeoning"
 
   - name: "[[Bestiary Ability Glossary/Trample|Trample]]"
-    desc: "`pf2:3`  Medium or smaller, foot, DC 21 Reflex check\n"
+    desc: "`pf2:3`  Medium or smaller, foot, DC 21 Reflex check\n\n* * *\n"
  
+```
+
+```encounter-table
+name: Giant Stag Beetle
+creatures:
+  - 1: Giant Stag Beetle
 ```
 
 

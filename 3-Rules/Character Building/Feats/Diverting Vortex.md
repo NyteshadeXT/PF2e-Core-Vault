@@ -6,8 +6,9 @@ tags:
   - trait/sorcerer
   - trait/common
   - category/class
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.PqZZSo06BH5N7x7C"
-license: OGL
+license: ORC
 ---
 # Diverting Vortex `pf2:1`
 ## Feat 6
@@ -24,5 +25,5 @@ license: OGL
 
 You transfer vestiges of magical energy to the air around you, creating a vortex that deflects ranged attacks. Until the start of your next turn, you gain a +1 status bonus to AC against ranged weapon attacks and physical ranged unarmed attacks.
 
-*Source: Pathfinder Advanced Player's Guide*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

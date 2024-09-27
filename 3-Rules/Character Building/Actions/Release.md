@@ -13,7 +13,7 @@ license: ORC
 ---
 # Release `pf2:0`
 
-### [[general]][[manipulate]]
+### [[general]][[3-Rules/Rule References/Manipulate]]
 
 **Category** interaction; 
 

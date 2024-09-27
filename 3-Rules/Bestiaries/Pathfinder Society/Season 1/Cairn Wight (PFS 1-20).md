@@ -10,6 +10,7 @@ tags:
   - pf2e/creature/type/undead
   - pf2e/creature/type/unholy
   - pf2e/creature/type/wight
+  - pf2eMonster
   - pf2e/creature/level/3
 statblock: inline
 name: "Cairn Wight (PFS 1-20)"
@@ -27,11 +28,11 @@ level: "Creature 3"
 
 alignment: ""
 size: "Medium"
-trait_01: "evil"
-trait_02: "lawful"
-trait_03: "undead"
-trait_04: "unholy"
-trait_05: "wight"
+trait_01: [[evil]]
+trait_02: [[lawful]]
+trait_03: [[undead]]
+trait_04: [[unholy]]
+trait_05: [[wight]]
 modifier: 10
 perception:
   - name: "Perception"
@@ -58,7 +59,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Final Spite"
-    desc: "`pf2:r`  **Trigger** The wight is reduced to 0 Hit Points.\n**Effect** The wight makes a Strike before being destroyed. It doesn't gain any temporary HP from drain life on this Strike."
+    desc: "`pf2:r`  **Trigger** The wight is reduced to 0 Hit Points.\n* * *\n\n**Effect** The wight makes a Strike before being destroyed. It doesn't gain any temporary HP from drain life on this Strike."
 
 attacks:
   - name: ""
@@ -70,11 +71,17 @@ attacks:
     desc: "`pf2:1` Claw +12 (agile)\n__Damage__  1d4 + 4 slashing plus drain-life"
 
   - name: "Drain Life"
-    desc: " (divine) When the wight damages a living creature with its claw Strike, the wight gains 3 temporary Hit Points and the creature must succeed at a DC 17 Fortitude check save or become [[Conditions/Drained 1|Drained 1]]. Further damage dealt by the wraith increases the amount of drain by 1 on a failed save to a maximum of drained 4."
+    desc: " (divine) When the wight damages a living creature with its claw Strike, the wight gains 3 temporary Hit Points and the creature must succeed at a DC 17 Fortitude check save or become [[Conditions/Drained|Drained 1]]. Further damage dealt by the wraith increases the amount of drain by 1 on a failed save to a maximum of drained 4."
 
   - name: "Wight Spawn"
-    desc: " (divine) A living humanoid slain by a wight's claw Strike rises as a wight after 1d4 rounds.\nThis wight spawn is under the command of the wight that killed it. It doesn't have Drain Life or and becomes [[Conditions/Clumsy 1|Clumsy 2]] for as long as it is a wight spawn. If the creator of the wight spawn dies, the wight spawn becomes a full-fledged, autonomous wight; it regains its free will, gains Drain Life and Wight Spawn, and is no longer clumsy."
+    desc: " (divine) A living humanoid slain by a wight's claw Strike rises as a wight after 1d4 rounds.\n\nThis wight spawn is under the command of the wight that killed it. It doesn't have Drain Life or and becomes [[Conditions/Clumsy|Clumsy 2]] for as long as it is a wight spawn. If the creator of the wight spawn dies, the wight spawn becomes a full-fledged, autonomous wight; it regains its free will, gains Drain Life and Wight Spawn, and is no longer clumsy."
  
+```
+
+```encounter-table
+name: Cairn Wight (PFS 1-20)
+creatures:
+  - 1: Cairn Wight (PFS 1-20)
 ```
 
 

@@ -4,8 +4,9 @@ title: "Stance: Tiger Stance"
 cssclasses: pf2e,pf2e-action
 tags:
   - trait/common
+  - remaster
 aliases: "Compendium.pf2e.feat-effects.Item.pf9yvKNg6jZLrE30"
-license: OGL
+license: ORC
 ---
 # Stance: Tiger Stance
 
@@ -24,5 +25,5 @@ On a critical success with your tiger claws, if you deal damage, the target take
 
 As long as your Speed is at least 20 feet while in Tiger Stance, you can Step 10 feet.
 
-*Source: Pathfinder Core Rulebook*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

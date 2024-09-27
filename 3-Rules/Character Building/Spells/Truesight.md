@@ -4,21 +4,40 @@ title: "Truesight"
 noteType: pf2eSpell
 cssclasses: pf2e,pf2e-spell
 tags:
+  - pf2eSpell
   - spell/level/6
   - trait/concentrate
   - trait/manipulate
   - trait/revelation
   - trait/common
+  - tradition/arcane
+  - tradition/divine
+  - tradition/occult
+  - tradition/primal
+
   - remaster
 aliases: "Compendium.pf2e.spells-srd.Item.uqlxMQQeSGWEVjki" 
+license: ORC
 ---
-# Truesight  `pf2:2`  
-## Spell 6
-### [[concentrate]][[manipulate]][[revelation]]
-**Traditions** [[arcane]], [[divine]], [[occult]], [[primal]]
-**Duration** 10 minutes
-* * * 
-You see things within 60 feet as they actually are. The GM rolls a secret counteract check against any illusion, morph or polymorph effect in the area, but only for the purpose of determining whether you see through it (for instance, if the check succeeds against a polymorph spell, you can see the creature's true form, but you don't end the polymorph spell).
+```statblock
+name: "Truesight  `pf2:2`"
+level: "Spell 6"
 
-*Source: Pathfinder Player Core*
-*ORC*
+trait_01: [[concentrate]]
+trait_02: [[manipulate]]
+trait_03: [[revelation]]
+layout: Basic Pathfinder 2e Layout
+columns: 1
+columnWidth: x
+abilities_top:
+  - name: ""
+  - name: "Traditions"
+    desc: "arcane, divine, occult, primal"
+
+  - name: "Duration"
+    desc: "10 minutes"
+abilities_mid:
+  - name: ""
+    desc: "You see things within 60 feet as they actually are. The GM rolls a secret counteract check against any illusion, morph or polymorph effect in the area, but only for the purpose of determining whether you see through it (for instance, if the check succeeds against a polymorph spell, you can see the creature's true form, but you don't end the polymorph spell)."
+sourcebook: "_Pathfinder Player Core_"
+```

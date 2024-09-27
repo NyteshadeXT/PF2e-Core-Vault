@@ -6,6 +6,7 @@ cssClasses: pf2e
 aliases: "Compendium.pf2e.pathfinder-monster-core.Actor.ccAeM0tNgf5aVokj" 
 tags:
   - pf2e/creature/type/aberration
+  - pf2eMonster
   - pf2e/creature/level/2
   - remaster
 statblock: inline
@@ -25,7 +26,7 @@ level: "Creature 2"
 
 alignment: ""
 size: "Medium"
-trait_01: "aberration"
+trait_01: [[aberration]]
 modifier: 10
 perception:
   - name: "Perception"
@@ -71,8 +72,14 @@ attacks:
     desc: "`pf2:1` Longspear +10 (reach 10 feet)\n__Damage__  1d8 + 4 piercing"
 
   - name: "Sinful Bite"
-    desc: " (arcane,emotion,mental) A creature hit by the jaws of a sinspawn must attempt a DC 18 Will check save as it is assailed by sinful thoughts.\n* * *\n\n**Critical Success** Unaffected\n\n**Success** [[Conditions/Sickened 1|Sickened 1]]\n\n**Failure** [[Conditions/Sickened 1|Sickened 2]]\n\n**Critical Failure** sickened 2 plus -10-foot status penalty to their Speeds for 1 minute"
+    desc: " (arcane,emotion,mental) A creature hit by the jaws of a sinspawn must attempt a DC 18 Will check save as it is assailed by sinful thoughts.\n* * *\n\n**Critical Success** Unaffected\n\n**Success** [[Conditions/Sickened|Sickened 1]]\n\n**Failure** [[Conditions/Sickened|Sickened 2]]\n\n**Critical Failure** sickened 2 plus -10-foot status penalty to their Speeds for 1 minute"
  
+```
+
+```encounter-table
+name: Slothspawn
+creatures:
+  - 1: Slothspawn
 ```
 
 

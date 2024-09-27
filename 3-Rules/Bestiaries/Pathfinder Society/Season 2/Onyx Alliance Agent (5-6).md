@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/human
   - pf2e/creature/type/humanoid
   - pf2e/creature/type/lawful
+  - pf2eMonster
   - pf2e/creature/level/4
 statblock: inline
 name: "Onyx Alliance Agent (5-6)"
@@ -25,9 +26,9 @@ level: "Creature 4"
 
 alignment: ""
 size: "Medium"
-trait_01: "human"
-trait_02: "humanoid"
-trait_03: "lawful"
+trait_01: [[human]]
+trait_02: [[humanoid]]
+trait_03: [[lawful]]
 modifier: 14
 perception:
   - name: "Perception"
@@ -55,10 +56,10 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Canny Reversal"
-    desc: "`pf2:r`  **Trigger** An opponent within the Onyx Alliance agent's reach critically fails on a melee Strike targeted at the agent\n**Effect** The Onyx Alliance agent makes a melee Strike or Trip attempt against the opponent and then Steps."
+    desc: "`pf2:r`  **Trigger** An opponent within the Onyx Alliance agent's reach critically fails on a melee Strike targeted at the agent\n* * *\n\n**Effect** The Onyx Alliance agent makes a melee Strike or Trip attempt against the opponent and then Steps."
 
   - name: "Shadow Retreat"
-    desc: "`pf2:3` (occult,shadow,teleportation) **Frequency** once per year\n**Effect** Activating a special ritual taught through the Onyx Alliance, the agent teleports to a safe house located in the Shadow Plane.\nSimultaneous with the teleportation, a 5-foot emanation of darkness appears where the agent once stood. The darkness lasts for one minute."
+    desc: "`pf2:3` (occult,shadow,teleportation) **Frequency** once per year\n* * *\n\n**Effect** Activating a special ritual taught through the Onyx Alliance, the agent teleports to a safe house located in the Shadow Plane.\n\nSimultaneous with the teleportation, a @Template[emanation|distance:5] of darkness appears where the agent once stood. The darkness lasts for one minute."
 
 attacks:
   - name: ""
@@ -75,6 +76,12 @@ attacks:
   - name: "[[Bestiary Ability Glossary/Sneak Attack|Sneak Attack]]"
     desc: "  The Onyx Alliance agents deal an additional 1d6 precision damage to [[Conditions/Off-Guard|Off-Guard]] creatures."
  
+```
+
+```encounter-table
+name: Onyx Alliance Agent (5-6)
+creatures:
+  - 1: Onyx Alliance Agent (5-6)
 ```
 
 

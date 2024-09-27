@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/dream
   - pf2e/creature/type/evil
   - pf2e/creature/type/incorporeal
+  - pf2eMonster
   - pf2e/creature/level/9
 statblock: inline
 name: "Enraged Dream"
@@ -22,19 +23,20 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #195: Heavy is the Crown"
 name: "Enraged Dream"
 level: "Creature 9"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Medium"
-trait_01: "dream"
-trait_02: "evil"
-trait_03: "incorporeal"
+trait_01: [[dream]]
+trait_02: [[evil]]
+trait_03: [[incorporeal]]
 modifier: 16
 perception:
   - name: "Perception"
     desc: "+16; Darkvision"
+languages: "telepathy 100 feet"
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +14, Deception: +18, Intimidation: +18, Occultism: +12, Stealth: +18"
+    desc: "Acrobatics: +16, Deception: +20, Intimidation: +20, Occultism: +14, Stealth: +20"
 abilityMods: [-5, 4, 3, 0, 2, 6]
 speed:  fly 40 feet
 sourcebook: "_Pathfinder #195: Heavy is the Crown_"
@@ -62,8 +64,14 @@ attacks:
     desc: "DC 26, attack +16; __4th __  _[[Spells/Blistering Invective|Blistering Invective]]_, _[[Spells/Translocate|Dimension Door (At will)]]_, _[[Spells/Nightmare|Nightmare]]_, _[[Spells/Phantasmal Killer|Phantasmal Killer]]_, _[[Spells/Phantom Pain|Phantom Pain]]_; __3rd __  _[[Spells/Fear|Fear]]_"
 
   - name: "Endless Nightmare"
-    desc: " (curse,emotion,fear,mental,occult) An animate dream's touch fills the victim's mind with terrifying visions\n**Saving Throw** DC 26 Fortitude check\n**Stage 1** [[Conditions/Fatigued|Fatigued]] (1 day)\n**Stage 2** fatigued and [[Conditions/Stupefied 1|Stupefied 1]] (1 day)\n**Stage 3** The victim falls [[Conditions/Unconscious|Unconscious]] and can't be awakened as long as they remain at this stage (1 day)."
+    desc: " (curse,emotion,fear,mental,occult) An animate dream's touch fills the victim's mind with terrifying visions\n\n**Saving Throw** DC 26 Fortitude check\n\n**Stage 1** [[Conditions/Fatigued|Fatigued]] (1 day)\n\n**Stage 2** fatigued and [[Conditions/Stupefied|Stupefied 1]] (1 day)\n\n**Stage 3** The victim falls [[Conditions/Unconscious|Unconscious]] and can't be awakened as long as they remain at this stage (1 day)."
  
+```
+
+```encounter-table
+name: Enraged Dream
+creatures:
+  - 1: Enraged Dream
 ```
 
 

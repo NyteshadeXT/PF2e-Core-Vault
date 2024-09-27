@@ -6,8 +6,9 @@ tags:
   - trait/investigator
   - trait/common
   - category/classfeature
+  - remaster
 aliases: "Compendium.pf2e.classfeatures.Item.uhHg9BXBiHpL5ndS"
-license: OGL
+license: ORC
 ---
 # Methodology
 ## Feat 1
@@ -25,5 +26,5 @@ Your studies have made you savvy in many areas, but one in particular drew your 
 *   [[Class Features/Forensic Medicine Methodology|Forensic Medicine Methodology]]
 *   [[Class Features/Interrogation Methodology|Interrogation Methodology]]
 
-*Source: Pathfinder Advanced Player's Guide*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

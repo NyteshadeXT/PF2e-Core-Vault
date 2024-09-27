@@ -12,7 +12,7 @@ license: OGL
 ---
 # Ablative Shield Plating (Major)
 ## Item 13
-### [uncommon](uncommon "Uncommon Rarity Trait")[[consumable]][[gadget]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[consumable]][[gadget]]
 
 **Category** gadget; 
 **Price** 600 gp; 

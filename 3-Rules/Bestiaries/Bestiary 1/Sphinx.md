@@ -6,6 +6,7 @@ cssClasses: pf2e
 aliases: "Compendium.pf2e.pathfinder-bestiary.Actor.Qa7HaKfKiosEPr94" 
 tags:
   - pf2e/creature/type/beast
+  - pf2eMonster
   - pf2e/creature/level/8
 statblock: inline
 name: "Sphinx"
@@ -24,15 +25,15 @@ level: "Creature 8"
 
 alignment: ""
 size: "Large"
-trait_01: "beast"
+trait_01: [[beast]]
 modifier: 18
 perception:
   - name: "Perception"
     desc: "+18; Darkvision, See the Unseen"
-languages: "Common, Draconic, Sphinx"
+languages: "Common, Draconic, Sphinx; comprehend language"
 skills:
   - name: "Skills"
-    desc: "Arcana: +17, Athletics: +18, Bardic Lore: +19, Deception: +16, Diplomacy: +16, Intimidation: +18, Occultism: +17"
+    desc: "Arcana: +17, Athletics: +18, Deception: +16, Diplomacy: +16, Intimidation: +18, Occultism: +17, Bardic Lore: +19"
 abilityMods: [6, 1, 3, 5, 4, 4]
 speed: 35 feet,  fly 40 feet
 sourcebook: "_Pathfinder Bestiary_"
@@ -71,6 +72,12 @@ attacks:
   - name: "Warding Glyph"
     desc: "  Once per week, a Sphinx can create a magical symbol as though casting a heightened [[Spells/Rune Trap|Rune Trap]] spell. The sphinx usually shapes the glyph to take the form of a written riddle, and sets the password to the answer. A creature that gives the wrong answer or tries to pass without answering must succeed at a DC 26 Will check save or suffer one of the following spell effects, chosen by the sphinx when creating the symbol: [[Spells/Synaptic Pulse|Synaptic Pulse]] (5th), [[Spells/Charm|Charm]] (4th), [[Spells/Fear|Fear]] (3rd), [[Spells/Phantom Pain|Phantom Pain]] (3rd), [[Spells/Sleep|Sleep]] (3rd). The sphinx learns the identity of any creature that answers the riddle and tends to be friendly to them."
  
+```
+
+```encounter-table
+name: Sphinx
+creatures:
+  - 1: Sphinx
 ```
 
 

@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/goblin
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/2
 statblock: inline
 name: "Glorzia"
@@ -22,12 +23,12 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Bounty #10: Hillcross Roundup"
 name: "Glorzia"
 level: "Creature 2"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Medium"
-trait_01: "evil"
-trait_02: "goblin"
-trait_03: "humanoid"
+trait_01: [[evil]]
+trait_02: [[goblin]]
+trait_03: [[humanoid]]
 modifier: 7
 perception:
   - name: "Perception"
@@ -72,6 +73,12 @@ attacks:
   - name: "Mauler"
     desc: "  Glorzia gains a +3 circumstance bonus to damage rolls against creatures she has grabbed."
  
+```
+
+```encounter-table
+name: Glorzia
+creatures:
+  - 1: Glorzia
 ```
 
 

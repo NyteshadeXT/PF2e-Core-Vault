@@ -6,6 +6,7 @@ cssClasses: pf2e
 aliases: "Compendium.pf2e.pathfinder-bestiary-2.Actor.Y1jsLqhsbqoXiGQe" 
 tags:
   - pf2e/creature/type/animal
+  - pf2eMonster
   - pf2e/creature/level/2
 statblock: inline
 name: "Giant Toad"
@@ -24,14 +25,15 @@ level: "Creature 2"
 
 alignment: ""
 size: "Large"
-trait_01: "animal"
+trait_01: [[animal]]
 modifier: 8
 perception:
   - name: "Perception"
     desc: "+8; Low-Light Vision, Scent (Imprecise) 30 Feet"
+languages: ""
 skills:
   - name: "Skills"
-    desc: "Athletics: +9 (+11 to High Jump or Long Jump), Stealth: +6"
+    desc: "Athletics: +9, Stealth: +6"
 abilityMods: [5, 2, 3, -4, 2, -2]
 speed: 25 feet
 sourcebook: "_Pathfinder Bestiary 2_"
@@ -62,17 +64,23 @@ attacks:
     desc: "`pf2:1` Tongue +11 (reach 10 feet)\n__Damage__ "
 
   - name: "Giant Toad Poison"
-    desc: " (poison) **Saving Throw** DC 19 Fortitude check\n**Maximum Duration** 6 rounds\n**Stage 1** [[Conditions/Stupefied 1|Stupefied 1]] (1 round)\n**Stage 2** [[Conditions/Stupefied 1|Stupefied 1]] and [[Conditions/Confused|Confused]] (1 round)"
+    desc: " (poison) **Saving Throw** DC 19 Fortitude check\n\n**Maximum Duration** 6 rounds\n\n**Stage 1** [[Conditions/Stupefied|Stupefied 1]] (1 round)\n\n**Stage 2** [[Conditions/Stupefied|Stupefied 1]] and [[Conditions/Confused|Confused]] (1 round)"
 
   - name: "[[Bestiary Ability Glossary/Swallow Whole|Swallow Whole]]"
-    desc: "`pf2:1` (attack) Medium, 1d8 + 2 bludgeoning damage, Rupture 8\n"
+    desc: "`pf2:1` (attack) Medium, 1d8+2 bludgeoning damage, Rupture 8\n\n* * *\n"
 
   - name: "Tongue Grab"
-    desc: "  A creature hit by the giant toad's tongue becomes [[Conditions/Grabbed|Grabbed]] by the giant toad. The creature isn't [[Conditions/Immobilized|Immobilized]], but it can't move beyond the reach of the toad's tongue. A creature can sever the tongue with a successful Strike against AC 15 that deals at least 6 slashing damage.\nThis deals no damage to the toad but prevents it from using its tongue Strike until it regrows its tongue, which takes a week."
+    desc: "  A creature hit by the giant toad's tongue becomes [[Conditions/Grabbed|Grabbed]] by the giant toad. The creature isn't [[Conditions/Immobilized|Immobilized]], but it can't move beyond the reach of the toad's tongue. A creature can sever the tongue with a successful Strike against AC 15 that deals at least 6 slashing damage.\n\nThis deals no damage to the toad but prevents it from using its tongue Strike until it regrows its tongue, which takes a week."
 
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
     desc: "`pf2:1`  "
  
+```
+
+```encounter-table
+name: Giant Toad
+creatures:
+  - 1: Giant Toad
 ```
 
 

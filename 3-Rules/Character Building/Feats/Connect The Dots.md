@@ -1,46 +1,40 @@
 ---
 obsidianUIMode: preview
-title: "Connect The Dots"
+title: "Connect the Dots"
 cssclasses: pf2e,pf2e-spell
 tags:
+  - trait/auditory
   - trait/concentrate
   - trait/investigator
-  - trait/secret
-  - trait/uncommon
+  - trait/linguistic
+  - trait/common
   - category/class
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.gwIgB6bMh0sruyX7"
-license: OGL
+license: ORC
 ---
-# Connect The Dots
+# Connect the Dots `pf2:2`
 ## Feat 6
-### [uncommon](uncommon "Uncommon Rarity Trait")[[concentrate]][[investigator]][[secret]]
+### [[auditory]][[concentrate]][[investigator]][[linguistic]]
 
 **Category** class; 
 
 
 
 
-**Requirements** You must be pursuing at least two leads.
+Ephemeral connections between people, places, and concepts are invisible to most, but seeing them is your stock and trade. Choose an ally and a non-allied creature. You must be able to see both of them. You briefly study the way they both move and attempt a Perception check check against the higher of the non-allied creature's Deception DC or Will DC. Both targets are then temporarily immune to Connect the Dots for 10 minutes.
 
 * * *
 
-Ephemeral connections between people, places, and concepts are invisible to most, but seeing them is your stock and trade.
+**Critical Success** You spot a way for your ally to take advantage of the other target's flaws and let them know about it. Your ally gains your [[Actions/Pursue a Lead|Pursue a Lead]] investigation bonus as a circumstance bonus to all its Strikes or skill checks against the creature until the start of your next turn.
 
-You spend 10 minutes considering two different leads you're pursuing. You then attempt a check to investigate how connected the two are.
+**Success** As critical success, but your ally gains the bonus only for their next Strike or skill check against the creature.
 
-Unless the GM determines otherwise, this is a Crafting check if they're both items or a Society check for other combinations of leads. If any subjects are creatures, this check usually uses the highest DC among their Deception and Will DCs. If no subjects are creatures, but at least one is an item, the DC is usually a hard DC for the level of the highest-level item. If neither case applies, the DC is usually a hard expert or hard master DC (22 or 32).
+[[Feat_Feature Effects/Effect_ Connect the Dots|Effect: Connect the Dots]]
 
-Once you try to Connect the Dots between two particular leads, you can never try to Connect the Dots between those same leads again unless the GM allows it after you've learned a substantial amount of new information.
+**Failure** You fail to make a connection.
 
-* * *
+**Critical Failure** You misconstrue a vital piece of information, which temporarily disconcerts you. You are [[Conditions/Stupefied|Stupefied 1]] until the end of your next turn.
 
-**Critical Success** The GM tells you how connected the two leads are to one another: highly connected, somewhat connected, tangentially connected, or not connected. The GM also tells you one specific way in which they're connected, if they are.
-
-**Success** As critical success, but the GM doesn't tell you a specific connection.
-
-**Failure** Your results are inconclusive.
-
-**Critical Failure** You misconstrue the information. As success, but the GM provides an incorrect degree of connection.
-
-*Source: Pathfinder Advanced Player's Guide*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

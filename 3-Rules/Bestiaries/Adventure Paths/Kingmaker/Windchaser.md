@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.kingmaker-bestiary.Actor.F0uz9YV8ILAM8fIg"
 tags:
   - pf2e/creature/type/beast
   - pf2e/creature/type/chaotic
+  - pf2eMonster
   - pf2e/creature/level/8
 statblock: inline
 name: "Windchaser"
@@ -21,11 +22,11 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Kingmaker"
 name: "Windchaser"
 level: "Creature 8"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Large"
-trait_01: "beast"
-trait_02: "chaotic"
+trait_01: [[beast]]
+trait_02: [[chaotic]]
 modifier: 16
 perception:
   - name: "Perception"
@@ -33,7 +34,7 @@ perception:
 languages: "Common, Wildsong"
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +7, Acrobatics: +15, Athletics: +18"
+    desc: "Acrobatics: +7, Athletics: +18"
 abilityMods: [6, 1, 6, 2, 3, 2]
 speed: 40 feet
 sourcebook: "_Pathfinder Kingmaker_"
@@ -66,6 +67,12 @@ attacks:
   - name: "Gallop"
     desc: "`pf2:2`  Windchaser Strides twice. It has a +10-foot circumstance bonus to its Speed during these Strides."
  
+```
+
+```encounter-table
+name: Windchaser
+creatures:
+  - 1: Windchaser
 ```
 
 

@@ -17,7 +17,7 @@ license: ORC
 
 
 
-Once a larva is attached, the target becomes [[Conditions/Drained 1|Drained 1]]. While the larva remains attached, the target cannot recover from persistent bleed.
+Once a larva is attached, the target becomes [[Conditions/Drained|Drained 1]]. While the larva remains attached, the target cannot recover from persistent bleed.
 
 *Source: Pathfinder Monster Core*
 *ORC*

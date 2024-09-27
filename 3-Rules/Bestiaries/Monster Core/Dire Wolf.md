@@ -6,6 +6,7 @@ cssClasses: pf2e
 aliases: "Compendium.pf2e.pathfinder-monster-core.Actor.AFWmiIBJ7ypgydQD" 
 tags:
   - pf2e/creature/type/animal
+  - pf2eMonster
   - pf2e/creature/level/3
   - remaster
 statblock: inline
@@ -25,7 +26,7 @@ level: "Creature 3"
 
 alignment: ""
 size: "Large"
-trait_01: "animal"
+trait_01: [[animal]]
 modifier: 10
 perception:
   - name: "Perception"
@@ -64,7 +65,7 @@ attacks:
     desc: "  The dire wolf's Strikes deal 1d6 extra damage to creatures within reach of at least two of the wolf's allies."
 
   - name: "Worry"
-    desc: "`pf2:1` (attack) **Requirements** The dire wolf has a creature [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]] in its jaws\n* * *\n\n**Effect** The dire wolf fiercely shakes the creature with its teeth, dealing 1d10 + 2 piercing damage with a DC 20 Fortitude check save."
+    desc: "`pf2:1` (attack) **Requirements** The dire wolf has a creature [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]] in its jaws\n* * *\n\n**Effect** The dire wolf fiercely shakes the creature with its teeth, dealing 1d10+2 piercing damage with a DC 20 Fortitude check save."
 
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
     desc: "`pf2:1`  "
@@ -72,6 +73,12 @@ attacks:
   - name: "[[Bestiary Ability Glossary/Knockdown|Knockdown]]"
     desc: "`pf2:1`  "
  
+```
+
+```encounter-table
+name: Dire Wolf
+creatures:
+  - 1: Dire Wolf
 ```
 
 

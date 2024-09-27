@@ -17,7 +17,7 @@ license: OGL
 
 
 
-**Minor Curse** Horrifying or enticing visions of your final judgment distract you from the task at hand. You take a -2 status penalty to initiative rolls.
+Horrifying or enticing visions of your final judgment distract you from the task at hand. You take a -2 status penalty to initiative rolls.
 
 *Source: Pathfinder Lost Omens: Gods & Magic*
 *OGL*

@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/human
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/8
 statblock: inline
 name: "Scarlet Triad Poisoner"
@@ -23,13 +24,13 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #147: Tomorrow Must Burn"
 name: "Scarlet Triad Poisoner"
 level: "Creature 8"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Medium"
-trait_01: "chaotic"
-trait_02: "evil"
-trait_03: "human"
-trait_04: "humanoid"
+trait_01: [[chaotic]]
+trait_02: [[evil]]
+trait_03: [[human]]
+trait_04: [[humanoid]]
 modifier: 16
 perception:
   - name: "Perception"
@@ -66,8 +67,14 @@ attacks:
     desc: "`pf2:1` Crossbow +19 (range increment 120 feet, reload 1)\n__Damage__  2d8 + 6 piercing plus giant-scorpion-venom"
 
   - name: "Running Poison Strike"
-    desc: "`pf2:2`  **Frequency** three times per day\n**Effect** The poisoner Strides, poisoning their weapon as they move. The poisoner moves up to their Speed and makes a melee Strike that deals 2d8 poison damage. This has no effect on a Strike that already deals poison damage."
+    desc: "`pf2:2`  **Frequency** three times per day\n* * *\n\n**Effect** The poisoner Strides, poisoning their weapon as they move. The poisoner moves up to their Speed and makes a melee Strike that deals 2d8 poison damage. This has no effect on a Strike that already deals poison damage."
  
+```
+
+```encounter-table
+name: Scarlet Triad Poisoner
+creatures:
+  - 1: Scarlet Triad Poisoner
 ```
 
 

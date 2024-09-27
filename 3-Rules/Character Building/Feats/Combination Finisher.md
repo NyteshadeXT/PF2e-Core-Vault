@@ -6,8 +6,9 @@ tags:
   - trait/swashbuckler
   - trait/common
   - category/class
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.7KT4huf0iPaBGD7R"
-license: OGL
+license: ORC
 ---
 # Combination Finisher
 ## Feat 6
@@ -20,5 +21,5 @@ license: OGL
 
 You combine a series of attacks with a powerful finishing blow. Your finishers' Strikes have a lower multiple attack penalty: -4 (or -3 with an agile weapon) if it's the second attack on your turn, or -8 (or -6 with an agile weapon) if it's the third or subsequent attack on your turn, instead of -5 and -10, respectively.
 
-*Source: Pathfinder Advanced Player's Guide*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

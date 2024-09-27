@@ -6,8 +6,9 @@ tags:
   - trait/champion
   - trait/common
   - category/class
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.tJduF6N83l5khRow"
-license: OGL
+license: ORC
 ---
 # Divine Grace `pf2:r`
 ## Feat 2
@@ -18,11 +19,11 @@ license: OGL
 
 
 
-**Trigger** You attempt a save against a spell, before you roll.
+**Trigger** You attempt a save against a spell, but you haven't rolled yet.
 
 * * *
 
 You call upon your deity's grace, gaining a +2 circumstance bonus to the save.
 
-*Source: Pathfinder Core Rulebook*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

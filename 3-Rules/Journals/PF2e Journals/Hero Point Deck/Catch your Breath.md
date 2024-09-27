@@ -11,3 +11,5 @@ Play at the end of your turn.
 * * *
 
 Select yourself or an ally within 30 feet. The creature you choose must have fewer than half their total Hit Points. The creature gains a number of temporary Hit Points equal to twice your level, which last until the end of the combat.
+
+[[Other Effects/Effect_ Catch your Breath|Effect: Catch your Breath]]

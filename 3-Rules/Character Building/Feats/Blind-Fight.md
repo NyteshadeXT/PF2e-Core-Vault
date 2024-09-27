@@ -23,7 +23,7 @@ license: ORC
 
 **Prerequisites** master in Perception
 * * *
-**Fighter, Rogue** Your battle instincts make you more aware of [[Conditions/Concealed|Concealed]] and [[Conditions/Invisible|Invisible]] opponents.
+**Fighter, Rogue, Investigator** Your battle instincts make you more aware of [[Conditions/Concealed|Concealed]] and [[Conditions/Invisible|Invisible]] opponents.
 
 **Ranger** Your heightened senses allow you to instinctively detect unseen opponents.
 

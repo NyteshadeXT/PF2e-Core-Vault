@@ -6,8 +6,9 @@ tags:
   - trait/investigator
   - trait/common
   - category/interaction
+  - remaster
 aliases: "Compendium.pf2e.actionspf2e.Item.jftNJjBNxp2cleoi"
-license: OGL
+license: ORC
 ---
 # Expeditious Inspection `pf2:0`
 
@@ -24,5 +25,5 @@ license: OGL
 
 You observe and assess your surroundings with great speed. You [[Actions/Recall Knowledge|Recall Knowledge]], [[Actions/Seek|Seek]], or [[Actions/Sense Motive|Sense Motive]].
 
-*Source: Pathfinder Advanced Player's Guide*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

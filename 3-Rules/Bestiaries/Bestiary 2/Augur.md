@@ -10,6 +10,7 @@ tags:
   - pf2e/creature/type/lawful
   - pf2e/creature/type/unholy
   - pf2e/creature/type/velstrac
+  - pf2eMonster
   - pf2e/creature/level/1
 statblock: inline
 name: "Augur"
@@ -28,16 +29,16 @@ level: "Creature 1"
 
 alignment: ""
 size: "tiny"
-trait_01: "evil"
-trait_02: "fiend"
-trait_03: "lawful"
-trait_04: "unholy"
-trait_05: "velstrac"
+trait_01: [[evil]]
+trait_02: [[fiend]]
+trait_03: [[lawful]]
+trait_04: [[unholy]]
+trait_05: [[velstrac]]
 modifier: 8
 perception:
   - name: "Perception"
     desc: "+8; Greater Darkvision"
-languages: "Common, Diabolic, Shadowtongue"
+languages: "Common, Diabolic, Shadowtongue; (can&#x27;t speak any language)"
 skills:
   - name: "Skills"
     desc: "Acrobatics: +8, Deception: +6, Intimidation: +7, Religion: +4, Stealth: +8, Torture Lore: +7"
@@ -57,12 +58,12 @@ abilities_top:
   - name: ""
 
   - name: "Painsight"
-    desc: " (divine) A velstrac automatically knows whether a creature it sees has any of the [[Conditions/Doomed 1|Doomed]], [[Conditions/Dying 1|Dying]], and [[Conditions/Wounded 1|Wounded]] conditions, as well as the value of those conditions."
+    desc: " (divine) A velstrac automatically knows whether a creature it sees has any of the [[Conditions/Doomed|Doomed]], [[Conditions/Dying|Dying]], and [[Conditions/Wounded|Wounded]] conditions, as well as the value of those conditions."
 
 abilities_mid:
   - name: ""
   - name: "Feel the Blades"
-    desc: " (aura,divine,fear,mental,visual) 30 feet. When a creature ends its turn in the aura, it feels the sharp barbs of the augur's blades on its skin. The creature must succeed at a DC 17 Will check save or become [[Conditions/Frightened 1|Frightened 1]] ([[Conditions/Frightened 1|Frightened 2]] on a critical failure)."
+    desc: " (aura,divine,fear,mental,visual) 30 feet. When a creature ends its turn in the aura, it feels the sharp barbs of the augur's blades on its skin. The creature must succeed at a DC 17 Will check save or become [[Conditions/Frightened|Frightened 1]] ([[Conditions/Frightened|Frightened 2]] on a critical failure)."
 
 attacks:
   - name: ""
@@ -79,6 +80,12 @@ attacks:
   - name: "Whirling Slice"
     desc: "`pf2:2`  The augur Flies or Strides, whirling as they move. The augur deals the damage of their blade Strike to each creature whose space they enter (DC 16 Reflex check save). Each creature is affected only once, even if the augur moves through its space multiple times."
  
+```
+
+```encounter-table
+name: Augur
+creatures:
+  - 1: Augur
 ```
 
 

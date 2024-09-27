@@ -12,7 +12,7 @@ license: ORC
 ---
 # Second Doctrine
 ## Feat 3
-### [[cleric]]
+### [[3-Rules/trait_reference/cleric]]
 
 **Category** classfeature; 
 

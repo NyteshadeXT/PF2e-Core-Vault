@@ -6,8 +6,9 @@ tags:
   - trait/archetype
   - trait/common
   - category/class
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.5TPKikTyN7lrCvzY"
-license: OGL
+license: ORC
 ---
 # Mighty Bulwark
 ## Feat 10
@@ -21,5 +22,5 @@ license: OGL
 * * *
 Thanks to your incredible connection to your armor, you can use it to shrug off an incredible array of dangers. Your bonus from the bulwark armor trait increases from +3 to +4, and it applies on all Reflex saves, not just damaging Reflex saves.
 
-*Source: Pathfinder Advanced Player's Guide*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

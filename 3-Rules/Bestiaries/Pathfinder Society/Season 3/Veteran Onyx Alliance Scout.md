@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/fetchling
   - pf2e/creature/type/humanoid
   - pf2e/creature/type/shadow
+  - pf2eMonster
   - pf2e/creature/level/3
 statblock: inline
 name: "Veteran Onyx Alliance Scout"
@@ -23,13 +24,13 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Society Intro: Year of Shattered Sanctuaries"
 name: "Veteran Onyx Alliance Scout"
 level: "Creature 3"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Medium"
-trait_01: "evil"
-trait_02: "fetchling"
-trait_03: "humanoid"
-trait_04: "shadow"
+trait_01: [[evil]]
+trait_02: [[fetchling]]
+trait_03: [[humanoid]]
+trait_04: [[shadow]]
 modifier: 7
 perception:
   - name: "Perception"
@@ -72,11 +73,17 @@ attacks:
     desc: "DC 18, attack +10; __1st __ (1 slots) _[[Spells/Illusory Disguise|Illusory Disguise]]_"
 
   - name: "Shadow Stride"
-    desc: "`pf2:1` (illusion,occult,shadow) **Requirements** The fetchling is in dim light\n**Effect** The fetchling Strides. They have a +10-foot status bonus to their Speed during this Stride. The DC from shadow blending increases to 11 during this Stride, and the fetchling remains [[Conditions/Concealed|Concealed]] by dim light until the end of the movement, even if they leave dim light during the Stride."
+    desc: "`pf2:1` (illusion,occult,shadow) **Requirements** The fetchling is in dim light\n* * *\n\n**Effect** The fetchling Strides. They have a +10-foot status bonus to their Speed during this Stride. The DC from shadow blending increases to 11 during this Stride, and the fetchling remains [[Conditions/Concealed|Concealed]] by dim light until the end of the movement, even if they leave dim light during the Stride."
 
   - name: "[[Bestiary Ability Glossary/Sneak Attack|Sneak Attack]]"
     desc: "  The fetchling scout's Strikes deal an additional 1d6 precision damage to [[Conditions/Off-Guard|Off-Guard]] creatures."
  
+```
+
+```encounter-table
+name: Veteran Onyx Alliance Scout
+creatures:
+  - 1: Veteran Onyx Alliance Scout
 ```
 
 

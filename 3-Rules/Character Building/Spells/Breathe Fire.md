@@ -4,26 +4,40 @@ title: "Breathe Fire"
 noteType: pf2eSpell
 cssclasses: pf2e,pf2e-spell
 tags:
+  - pf2eSpell
   - spell/level/1
   - trait/concentrate
   - trait/fire
   - trait/manipulate
   - trait/common
+  - tradition/arcane
+  - tradition/primal
+
   - remaster
 aliases: "Compendium.pf2e.spells-srd.Item.y6rAdMK6EFlV6U0t" 
+license: ORC
 ---
-# Breathe Fire  `pf2:2`  
-## Spell 1
-### [[concentrate]][[fire]][[manipulate]]
-**Traditions** [[arcane]], [[primal]]
-**Area** 15-foot cone
-**Saving Throw** basic reflex
-* * * 
-A gout of flame sprays from your mouth. You deal 2d6 fire damage to creatures in the area with a basic Reflex save.
+```statblock
+name: "Breathe Fire  `pf2:2`"
+level: "Spell 1"
 
-* * *
+trait_01: [[concentrate]]
+trait_02: [[fire]]
+trait_03: [[manipulate]]
+layout: Basic Pathfinder 2e Layout
+columns: 1
+columnWidth: x
+abilities_top:
+  - name: ""
+  - name: "Traditions"
+    desc: "arcane, primal"
 
-**Heightened (+1)** The damage increases by 2d6.
-
-*Source: Pathfinder Player Core*
-*ORC*
+  - name: "Area"
+    desc: "15-foot cone"
+  - name: "Defense"
+    desc: "basic reflex"
+abilities_mid:
+  - name: ""
+    desc: "A gout of flame sprays from your mouth. You deal 2d6 fire damage to creatures in the area with a basic Reflex save.\n* * *\n\n**Heightened (+1)** The damage increases by 2d6."
+sourcebook: "_Pathfinder Player Core_"
+```

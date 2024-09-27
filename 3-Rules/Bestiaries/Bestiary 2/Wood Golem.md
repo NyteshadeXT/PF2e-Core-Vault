@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/construct
   - pf2e/creature/type/golem
   - pf2e/creature/type/mindless
+  - pf2eMonster
   - pf2e/creature/level/6
 statblock: inline
 name: "Wood Golem"
@@ -23,16 +24,17 @@ token: [[modules/pf2e-tokens-bestiaries/portraits/constructed/golem/wood-golem.w
 source: "Pathfinder Bestiary 2"
 name: "Wood Golem"
 level: "Creature 6"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Medium"
-trait_01: "construct"
-trait_02: "golem"
-trait_03: "mindless"
+trait_01: [[construct]]
+trait_02: [[golem]]
+trait_03: [[mindless]]
 modifier: 12
 perception:
   - name: "Perception"
     desc: "+12; Darkvision"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Athletics: +17"
@@ -54,13 +56,13 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "[[Creature Family Ability Glossary/(Golem) Golem Antimagic|Golem Antimagic]]"
-    desc: "  harmed by fire (4d8 damage, 2d6 damage from areas or persistent damage); healed by plant (area 2d6 Hit Points); slowed by earth\nA golem is immune to spells and magical abilities other than its own, but each type of golem is affected by a few types of magic in special ways. These exceptions are listed in shortened form in the golem's stat block, with the full rules appearing here. If an entry lists multiple types (such as \"cold and water\"), either type of spell can affect the golem.\n*   **Harmed By** Any magic of this type that targets the golem causes it to take the listed amount of damage (this damage has no type) instead of the usual effect. If the golem starts its turn in an area of magic of this type or is affected by a persistent effect of the appropriate type, it takes the damage listed in the parenthetical.\n*   **Healed By** Any magic of this type that targets the golem makes the golem lose the slowed condition and gain HP equal to half the damage the spell would have dealt. If the golem starts its turn in an area of this type of magic, it gains the HP listed in the parenthetical.\n*   **Slowed By** Any magic of this type that targets the golem causes it to be [[Conditions/Slowed 1|Slowed 1]] for 2d6 rounds instead of the usual effect. If the golem starts its turn in an area of this type of magic, it's slowed 1 for that round.\n*   **Vulnerable To** Each golem is vulnerable to one or more specific spells, with the effects described in its stat block."
+    desc: "  harmed by fire (4d8 damage, 2d6 damage from areas or persistent damage); healed by plant (area 2d6 Hit Points); slowed by earth\n* * *\n\nA golem is immune to spells and magical abilities other than its own, but each type of golem is affected by a few types of magic in special ways. These exceptions are listed in shortened form in the golem's stat block, with the full rules appearing here. If an entry lists multiple types (such as \"cold and water\"), either type of spell can affect the golem.\n\n*   **Harmed By** Any magic of this type that targets the golem causes it to take the listed amount of damage (this damage has no type) instead of the usual effect. If the golem starts its turn in an area of magic of this type or is affected by a persistent effect of the appropriate type, it takes the damage listed in the parenthetical.\n*   **Healed By** Any magic of this type that targets the golem makes the golem lose the slowed condition and gain HP equal to half the damage the spell would have dealt. If the golem starts its turn in an area of this type of magic, it gains the HP listed in the parenthetical.\n*   **Slowed By** Any magic of this type that targets the golem causes it to be [[Conditions/Slowed|Slowed 1]] for 2d6 rounds instead of the usual effect. If the golem starts its turn in an area of this type of magic, it's slowed 1 for that round.\n*   **Vulnerable To** Each golem is vulnerable to one or more specific spells, with the effects described in its stat block."
 
   - name: "Splinter"
-    desc: "`pf2:r` (arcane) **Trigger** The wood golem takes physical damage\n**Effect** A jagged, sizable splinter of wood lances out at the golem's attacker. The golem makes a splinter Strike against an adjacent creature without triggering reactions."
+    desc: "`pf2:r` (arcane) **Trigger** The wood golem takes physical damage\n* * *\n\n**Effect** A jagged, sizable splinter of wood lances out at the golem's attacker. The golem makes a splinter Strike against an adjacent creature without triggering reactions."
 
   - name: "Vulnerable to Shape Wood"
-    desc: "  A wood golem targeted by [[Spells/Shape Wood|Shape Wood]] takes 2d8 damage per spell rank, with a basic Fortitude save against the caster's spell DC.\nOn a critical failure, the golem is also [[Conditions/Immobilized|Immobilized]] for 1d4 rounds."
+    desc: "  A wood golem targeted by [[Spells/Shape Wood|Shape Wood]] takes 2d8 damage per spell rank, with a basic Fortitude save against the caster's spell DC.\n\nOn a critical failure, the golem is also [[Conditions/Immobilized|Immobilized]] for 1d4 rounds."
 
 attacks:
   - name: ""
@@ -72,8 +74,14 @@ attacks:
     desc: "`pf2:1` Splinter +16 (magical, range increment 30 feet)\n__Damage__  2d4 + 8 piercing"
 
   - name: "Splinter Volley"
-    desc: "`pf2:2` (arcane) The wood golem makes up to four splinter Strikes, each against a different target.\nThese attacks count toward the wood golem's multiple attack penalty, but the multiple attack penalty doesn't increase until after the wood golem makes all of its attacks."
+    desc: "`pf2:2` (arcane) The wood golem makes up to four splinter Strikes, each against a different target.\n\nThese attacks count toward the wood golem's multiple attack penalty, but the multiple attack penalty doesn't increase until after the wood golem makes all of its attacks."
  
+```
+
+```encounter-table
+name: Wood Golem
+creatures:
+  - 1: Wood Golem
 ```
 
 

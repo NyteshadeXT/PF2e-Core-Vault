@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/holy
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/1
 statblock: inline
 name: "Elven Grave Robber"
@@ -22,12 +23,12 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Society Scenario #4-99: Blessings of the Forest"
 name: "Elven Grave Robber"
 level: "Creature 1"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Medium"
-trait_01: "evil"
-trait_02: "holy"
-trait_03: "humanoid"
+trait_01: [[evil]]
+trait_02: [[holy]]
+trait_03: [[humanoid]]
 modifier: 5
 perception:
   - name: "Perception"
@@ -51,9 +52,9 @@ health:
 abilities_top:
   - name: ""
   - name: "Items"
-    desc: "[[Equipment/Dagger|Dagger]], [[Equipment/Light Hammer|Shovel]], 2x [[Equipment/Bottled Lightning (Lesser)|Bottled Lightning (Lesser) (Infused)]], [[Equipment/Frost Vial (Lesser)|Frost Vial (Lesser) (Infused)]], [[Equipment/Thunderstone (Lesser)|Thunderstone (Lesser) (Infused)]], [[Equipment/Holy Water|Holy Water]], [[Equipment/Studded Leather Armor|Studded Leather Armor]], [[Equipment/Alchemist's Toolkit|Alchemist's Tools]], [[Equipment/Formula Book (Blank)|Formula Book]]"
+    desc: "[[Equipment/Dagger|Dagger]], [[Equipment/Light Hammer|Shovel]], 2x [[Equipment/Bottled Lightning (Lesser)|Bottled Lightning (Lesser) (Infused)]], [[Equipment/Frost Vial (Lesser)|Frost Vial (Lesser) (Infused)]], [[Equipment/Blasting Stone (Lesser)|Thunderstone (Lesser) (Infused)]], [[Equipment/Holy Water|Holy Water]], [[Equipment/Studded Leather Armor|Studded Leather Armor]], [[Equipment/Alchemist's Toolkit|Alchemist's Tools]], [[Equipment/Formula Book (Blank)|Formula Book]]"
   - name: "Infused Items"
-    desc: "  A grave robber carries the following infused items: 2 [[Equipment/Bottled Lightning (Lesser)|Bottled Lightning (Lesser)]], a [[Equipment/Frost Vial (Lesser)|Frost Vial (Lesser)]], and a [[Equipment/Thunderstone (Lesser)|Thunderstone (Lesser)]].\nThese items last for 24 hours, or until the next time the grave robber makes their daily preparations."
+    desc: "  A grave robber carries the following infused items: 2 [[Equipment/Bottled Lightning (Lesser)|Bottled Lightning (Lesser)]], a [[Equipment/Frost Vial (Lesser)|Frost Vial (Lesser)]], and a [[Equipment/Blasting Stone (Lesser)|Thunderstone (Lesser)]].\n\nThese items last for 24 hours, or until the next time the grave robber makes their daily preparations."
 
 abilities_mid:
   - name: ""
@@ -69,18 +70,24 @@ attacks:
   - name: "Ranged"
     desc: "`pf2:1` Dagger +6 (thrown 10 ft.)\n__Damage__  1d4 + 1 piercing"
 
-  - name: "Ranged"
+  - name: "Melee"
     desc: "`pf2:1` Bottled Lightning (Lesser) (Infused) +7 (bomb, consumable, infused, splash)\n__Damage__  1d6 electricity 1 electricity"
 
-  - name: "Ranged"
+  - name: "Melee"
     desc: "`pf2:1` Frost Vial (Lesser) (Infused) +7 (bomb, consumable, infused, splash)\n__Damage__  1d6 cold 1 cold"
 
-  - name: "Ranged"
+  - name: "Melee"
     desc: "`pf2:1` Thunderstone (Lesser) (Infused) +7 (bomb, consumable, infused, splash)\n__Damage__  1d4 sonic 1 sonic"
 
   - name: "Ranged"
     desc: "`pf2:1` Holy Water +7 (consumable, holy, splash, thrown 20 ft.)\n__Damage__  1d6 spirit 1 spirit"
  
+```
+
+```encounter-table
+name: Elven Grave Robber
+creatures:
+  - 1: Elven Grave Robber
 ```
 
 

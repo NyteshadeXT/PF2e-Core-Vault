@@ -12,7 +12,7 @@ license: OGL
 ---
 # Binding Vow `pf2:1`
 
-### [[auditory]][[concentrate]][[occult]]
+### [[3-Rules/Rule References/auditory]][[3-Rules/Rule References/Concentrate]][[3-Rules/Rule References/Occult]]
 
 
 

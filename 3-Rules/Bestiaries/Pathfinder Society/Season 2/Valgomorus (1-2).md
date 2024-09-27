@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/undead
   - pf2e/creature/type/unholy
   - pf2e/creature/type/wight
+  - pf2eMonster
   - pf2e/creature/level/3
 statblock: inline
 name: "Valgomorus (1-2)"
@@ -26,10 +27,10 @@ level: "Creature 3"
 
 alignment: ""
 size: "Large"
-trait_01: "evil"
-trait_02: "undead"
-trait_03: "unholy"
-trait_04: "wight"
+trait_01: [[evil]]
+trait_02: [[undead]]
+trait_03: [[unholy]]
+trait_04: [[wight]]
 modifier: 12
 perception:
   - name: "Perception"
@@ -57,7 +58,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Flash of Insight"
-    desc: "`pf2:0` (fortune,occult) **Frequency** once per day\n**Trigger** Valgomorus is about to roll a d20\n**Effect** The cyclops peers into an occluded spectrum of possible futures. He gets a success (but not a critical success) on the roll instead of rolling."
+    desc: "`pf2:0` (fortune,occult) **Frequency** once per day\n\n**Trigger** Valgomorus is about to roll a d20\n* * *\n\n**Effect** The cyclops peers into an occluded spectrum of possible futures. He gets a success (but not a critical success) on the roll instead of rolling."
 
 attacks:
   - name: ""
@@ -69,11 +70,17 @@ attacks:
     desc: "`pf2:1` Claw +12 ()\n__Damage__  1d8 + 5 slashing plus drain-life"
 
   - name: "Drain Life"
-    desc: " (divine) When Valgomorus damages a living creature with his claw Strike, he gains 3 temporary Hit Points and the creature must succeed at a DC 16 Fortitude check save or become [[Conditions/Drained 1|Drained 1]].\nFurther successful claw Strikes increase the drained value by 1 on a failed save, to a maximum of drained 4."
+    desc: " (divine) When Valgomorus damages a living creature with his claw Strike, he gains 3 temporary Hit Points and the creature must succeed at a DC 16 Fortitude check save or become [[Conditions/Drained|Drained 1]].\n\nFurther successful claw Strikes increase the drained value by 1 on a failed save, to a maximum of drained 4."
 
   - name: "Swipe"
     desc: "`pf2:2` (flourish) Valgomorus makes a melee Strike and compares the attack roll result to the AC of up to two foes, each of whom must be within its melee reach and adjacent to each other. Roll damage only once and apply it to each creature hit. A counts as two attacks for Valgomorus's multiple attack penalty, but the penalty does not increase until after both attacks are resolved."
  
+```
+
+```encounter-table
+name: Valgomorus (1-2)
+creatures:
+  - 1: Valgomorus (1-2)
 ```
 
 

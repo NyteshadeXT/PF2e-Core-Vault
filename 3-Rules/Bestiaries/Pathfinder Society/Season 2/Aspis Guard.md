@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/human
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/2
 statblock: inline
 name: "Aspis Guard"
@@ -22,12 +23,12 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Society Scenario #2-12: Snakes in the Grass"
 name: "Aspis Guard"
 level: "Creature 2"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Medium"
-trait_01: "evil"
-trait_02: "human"
-trait_03: "humanoid"
+trait_01: [[evil]]
+trait_02: [[human]]
+trait_03: [[humanoid]]
 modifier: 6
 perception:
   - name: "Perception"
@@ -61,17 +62,23 @@ attacks:
     desc: "`pf2:1` Hatchet +9 (agile, sweep)\n__Damage__  1d6 + 5 slashing"
 
   - name: "Ranged"
-    desc: "`pf2:1` Sling +9 (propulsive, range increment 50 feet, reload 1)\n__Damage__  1d6 + 3 bludgeoning"
+    desc: "`pf2:1` Hatchet +9 (agile, sweep, thrown 10 ft.)\n__Damage__  1d6 + 5 slashing"
 
   - name: "Ranged"
-    desc: "`pf2:1` Hatchet +9 (agile, sweep, thrown 10 ft.)\n__Damage__  1d6 + 5 slashing"
+    desc: "`pf2:1` Sling +9 (propulsive, range increment 50 feet, reload 1)\n__Damage__  1d6 + 3 bludgeoning"
 
   - name: "Aspis Ambush"
     desc: "  When an Aspis Guard rolls initiative using Deception or Stealth, they can attempt to Demoralize one creature as a free action."
 
   - name: "Bully"
-    desc: "  [[Conditions/Frightened 1|Frightened]] creatures are [[Conditions/Off-Guard|Off-Guard]] to the Aspis Guard."
+    desc: "  [[Conditions/Frightened|Frightened]] creatures are [[Conditions/Off-Guard|Off-Guard]] to the Aspis Guard."
  
+```
+
+```encounter-table
+name: Aspis Guard
+creatures:
+  - 1: Aspis Guard
 ```
 
 

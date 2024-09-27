@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.pfs-season-2-bestiary.Actor.sRXkrqt5mOXzceR5"
 tags:
   - pf2e/creature/type/aberration
   - pf2e/creature/type/evil
+  - pf2eMonster
   - pf2e/creature/level/4
 statblock: inline
 name: "Dragon Forest Rot"
@@ -21,15 +22,16 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Society Scenario #2-18: The Fanciful March of Urwal"
 name: "Dragon Forest Rot"
 level: "Creature 4"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Medium"
-trait_01: "aberration"
-trait_02: "evil"
+trait_01: [[aberration]]
+trait_02: [[evil]]
 modifier: 8
 perception:
   - name: "Perception"
     desc: "+8; Darkvision"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Athletics: +11, Intimidation: +10"
@@ -51,13 +53,13 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Flame-Scorched"
-    desc: "  If the forest rot takes fire damage, it is [[Conditions/Slowed 1|Slowed 1]] until the end of its turn."
+    desc: "  If the forest rot takes fire damage, it is [[Conditions/Slowed|Slowed 1]] until the end of its turn."
 
   - name: "Spores"
-    desc: "`pf2:r`  **Trigger** An adjacent creature damages the dragon forest rot.\n**Effect** The dragon forest rot sprays spores on the triggering creature. The spores deal 2d4 + 5 piercing damage with a DC 19 Fortitude check save. On a critical failure, the triggering creature gains weakness to slashing 5 for the next 4 rounds."
+    desc: "`pf2:r`  **Trigger** An adjacent creature damages the dragon forest rot.\n* * *\n\n**Effect** The dragon forest rot sprays spores on the triggering creature. The spores deal 2d4+5 piercing damage with a DC 19 Fortitude check save. On a critical failure, the triggering creature gains weakness to slashing 5 for the next 4 rounds."
 
   - name: "Stench"
-    desc: " (aura,olfactory) 20 feet. A creature that enters or starts its turn in the emanation must succeed at a DC 19 Fortitude check save or become [[Conditions/Sickened 1|Sickened 1]]. On a critical failure, the creature also takes a -5-foot status penalty to its Speeds for 1 round. While within the aura, the creature takes a -2 circumstance penalty to saves to recover from the sickened condition. A creature that succeeds at its save is temporarily immune to the of all dragon forest rots for 1 minute."
+    desc: " (aura,olfactory) 20 feet. A creature that enters or starts its turn in the emanation must succeed at a DC 19 Fortitude check save or become [[Conditions/Sickened|Sickened 1]]. On a critical failure, the creature also takes a -5-foot status penalty to its Speeds for 1 round. While within the aura, the creature takes a -2 circumstance penalty to saves to recover from the sickened condition. A creature that succeeds at its save is temporarily immune to the of all dragon forest rots for 1 minute."
 
 attacks:
   - name: ""
@@ -66,8 +68,14 @@ attacks:
     desc: "`pf2:1` Tree Claws +14 ()\n__Damage__  2d8 + 5 slashing"
 
   - name: "Breath Weapon"
-    desc: "`pf2:2` (arcane,poison) The dragon forest rot breathes a toxic cloud that deals 5d6 poison damage in a 15-foot cone (DC 20 Fortitude check save).\nIt can't use Breath Weapon again for 1d4 rounds."
+    desc: "`pf2:2` (arcane,poison) The dragon forest rot breathes a toxic cloud that deals 5d6 poison damage in a @Template[cone|distance:15] (DC 20 Fortitude check save).\n\nIt can't use Breath Weapon again for 1d4 rounds."
  
+```
+
+```encounter-table
+name: Dragon Forest Rot
+creatures:
+  - 1: Dragon Forest Rot
 ```
 
 

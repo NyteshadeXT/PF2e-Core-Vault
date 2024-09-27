@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/construct
   - pf2e/creature/type/evil
   - pf2e/creature/type/mindless
+  - pf2eMonster
   - pf2e/creature/level/12
 statblock: inline
 name: "Corpsesewn Colossus"
@@ -23,19 +24,20 @@ token: [[modules/battlezoo-bestiary-pf2e/art/corpsesewn_colossus.webp| ]]
 source: "Battlezoo Bestiary"
 name: "Corpsesewn Colossus"
 level: "Creature 12"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "huge"
-trait_01: "construct"
-trait_02: "evil"
-trait_03: "mindless"
+trait_01: [[construct]]
+trait_02: [[evil]]
+trait_03: [[mindless]]
 modifier: 20
 perception:
   - name: "Perception"
     desc: "+20; Darkvision"
+languages: ""
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +22, Athletics: +26, "
+    desc: "Acrobatics: +22, Athletics: +26"
 abilityMods: [8, 4, 8, -5, 0, -5]
 speed: 40 feet,  climb 30 feet
 sourcebook: "_Battlezoo Bestiary_"
@@ -63,14 +65,20 @@ attacks:
     desc: "`pf2:1` Fist +26 (agile, reach 10 feet)\n__Damage__  3d6 + 16 bludgeoning"
 
   - name: "Blaze a Trail"
-    desc: "`pf2:2`  The corpsesewn colossus Strides up to its Speed. It can make up to three fist Strikes at any point during its movement.\nIts multiple attack penalty increases after each Strike, as normal."
+    desc: "`pf2:2`  The corpsesewn colossus Strides up to its Speed. It can make up to three fist Strikes at any point during its movement.\n\nIts multiple attack penalty increases after each Strike, as normal."
 
   - name: "Spew Smog"
-    desc: "`pf2:2` (arcane,poison) The corpsesewn colossus vomits forth a wave of noxious, toxic smog that deals 13d6 poison damage in a 30-foot cone (basic Fortitude save). Creatures that fail their save are Sickened 1 (or Sickened 2 on a critical failure).\nThe corpsesewn colossus can't Spew Smog again for 1d4 rounds."
+    desc: "`pf2:2` (arcane,poison) The corpsesewn colossus vomits forth a wave of noxious, toxic smog that deals 13d6 poison damage in a 30-foot cone (DC 32 basic Fortitude save). Creatures that fail their save are [[Conditions/Sickened|Sickened 1]] (or [[Conditions/Sickened|Sickened 2]] on a critical failure).\n\nThe corpsesewn colossus can't Spew Smog again for 1d4 rounds."
 
   - name: "[[Bestiary Ability Glossary/Swallow Whole|Swallow Whole]]"
-    desc: "`pf2:1` (attack) Large, 3d6 + 6 bludgeoning, Rupture 22.\nIf the corpsesewn colossus has at least one creature swallowed whole at the beginning of its turn, the corpsesewn colossus heals 20 HP.\n"
+    desc: "`pf2:1` (attack) Large, 3d6+6 bludgeoning, Rupture 22.\n\nIf the corpsesewn colossus has at least one creature swallowed whole at the beginning of its turn, the corpsesewn colossus heals 20 HP.\n\n* * *\n"
  
+```
+
+```encounter-table
+name: Corpsesewn Colossus
+creatures:
+  - 1: Corpsesewn Colossus
 ```
 
 

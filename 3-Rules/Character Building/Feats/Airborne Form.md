@@ -3,6 +3,7 @@ obsidianUIMode: preview
 title: "Airborne Form"
 cssclasses: pf2e,pf2e-spell
 tags:
+  - trait/evolution
   - trait/summoner
   - trait/common
   - category/class
@@ -11,7 +12,7 @@ license: OGL
 ---
 # Airborne Form
 ## Feat 14
-### [[summoner]]
+### [[evolution]][[summoner]]
 
 **Category** class; 
 

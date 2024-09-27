@@ -7,6 +7,7 @@ aliases: "Compendium.battlezoo-bestiary-su-pf2e.pf2e-battlezoo-su-actors.Actor.w
 tags:
   - pf2e/creature/type/incorporeal
   - pf2e/creature/type/spirit
+  - pf2eMonster
   - pf2e/creature/level/6
 statblock: inline
 name: "Atoning Spirit"
@@ -22,19 +23,19 @@ token: [[modules/battlezoo-bestiary-su-pf2e/art/Portraits/atoning-spirit.webp| ]
 source: "Battlezoo Bestiary: Strange and Unusual"
 name: "Atoning Spirit"
 level: "Creature 6"
-rare_03: "Rare"
+rare_03: [[Rare]]
 alignment: ""
 size: "Medium"
-trait_01: "incorporeal"
-trait_02: "spirit"
+trait_01: [[incorporeal]]
+trait_02: [[spirit]]
 modifier: 18
 perception:
   - name: "Perception"
     desc: "+18; Darkvision"
-languages: "Common, Fey"
+languages: "Common, Fey; tongues"
 skills:
   - name: "Skills"
-    desc: "Deception: +13, Diplomacy: +15, Intimidation: +15, Nature: +18, Religion: +18, Society: +15, Penitent Lore: +18, "
+    desc: "Deception: +13, Diplomacy: +15, Intimidation: +15, Nature: +18, Religion: +18, Society: +15, Deception: +13, Diplomacy: +15, Intimidation: +15, Nature: +18, Religion: +18, Society: +15, Penitent Lore: +18"
 abilityMods: [2, 4, 1, 2, 7, 2]
 speed:  fly 30 feet
 sourcebook: "_Battlezoo Bestiary: Strange and Unusual_"
@@ -51,13 +52,13 @@ abilities_top:
   - name: ""
 
   - name: "Know Penitent"
-    desc: "`pf2:1` (linguistic,mental) The atoning spirit is able to read the penitent's mind, learning relevant bits of their past in order to ascertain how best to influence them. The penitent may attempt a DC 24 Will check save.\n[[Effects/Effect_ Know Penitent (Atoning Spirit)|Effect: Know Penitent (Atoning Spirit)]]\n[[Effects/Effect_ Know Penitent (Penitent)|Effect: Know Penitent (Penitent)]]\n**Success** The penitent is unaffected and is temporarily immune to Know Penitent for 1 hour.\n**Failure** The atoning spirit gains a +2 circumstance bonus to Diplomacy checks against the penitent, and the penitent takes a –2 circumstance penalty on Deception checks against the atoning spirit. These effects last for 1 hour.\n**Critical Failure** As failure, but the circumstance bonus to Diplomacy checks increases to +4, and the circumstance penalty to Deception checks increases to –4."
+    desc: "`pf2:1` (linguistic,mental) The atoning spirit is able to read the penitent's mind, learning relevant bits of their past in order to ascertain how best to influence them. The penitent may attempt a DC 24 Will check save.\n\n[[Effects/Effect_ Know Penitent (Atoning Spirit)|Effect: Know Penitent (Atoning Spirit)]]\n\n[[Effects/Effect_ Know Penitent (Penitent)|Effect: Know Penitent (Penitent)]]\n* * *\n\n**Success** The penitent is unaffected and is temporarily immune to Know Penitent for 1 hour.\n\n**Failure** The atoning spirit gains a +2 circumstance bonus to Diplomacy checks against the penitent, and the penitent takes a –2 circumstance penalty on Deception checks against the atoning spirit. These effects last for 1 hour.\n\n**Critical Failure** As failure, but the circumstance bonus to Diplomacy checks increases to +4, and the circumstance penalty to Deception checks increases to –4."
 
   - name: "Penitent Lore"
     desc: "  The atoning spirit is able to read a penitent's entire lifetime. Their Penitent Lore skill is specific to their target for the purposes of knowing details about the penitent's life and personality."
 
   - name: "Show Vision"
-    desc: "`pf2:2` (auditory,illusion,mental,olfactory,visual) The atoning spirit creates the effects of an _Illusory Scene_ of the penitent's past, present, or future. The illusions created by this ability are interactive and react in a manner consistent with their appearance (food has flavor and scent, loved ones behave as the target expects, etc.). The vision must be consistent with the actions for which the penitent is atoning."
+    desc: "`pf2:2` (auditory,illusion,mental,olfactory,visual) The atoning spirit creates the effects of an _[[Spells/Illusory Scene|Illusory Scene]]_ of the penitent's past, present, or future. The illusions created by this ability are interactive and react in a manner consistent with their appearance (food has flavor and scent, loved ones behave as the target expects, etc.). The vision must be consistent with the actions for which the penitent is atoning."
 
 abilities_mid:
   - name: ""
@@ -76,6 +77,12 @@ attacks:
   - name: "Rituals"
     desc: "_[[Spells/Atone|Atone]]_"
  
+```
+
+```encounter-table
+name: Atoning Spirit
+creatures:
+  - 1: Atoning Spirit
 ```
 
 

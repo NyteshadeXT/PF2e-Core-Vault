@@ -10,6 +10,7 @@ tags:
   - pf2e/creature/type/hryngar
   - pf2e/creature/type/humanoid
   - pf2e/creature/type/lawful
+  - pf2eMonster
   - pf2e/creature/level/6
 statblock: inline
 name: "Hryngar Rager"
@@ -27,11 +28,11 @@ level: "Creature 6"
 
 alignment: ""
 size: "Medium"
-trait_01: "dwarf"
-trait_02: "evil"
-trait_03: "hryngar"
-trait_04: "humanoid"
-trait_05: "lawful"
+trait_01: [[dwarf]]
+trait_02: [[evil]]
+trait_03: [[hryngar]]
+trait_04: [[humanoid]]
+trait_05: [[lawful]]
 modifier: 13
 perception:
   - name: "Perception"
@@ -39,7 +40,7 @@ perception:
 languages: "Common, Dwarven, Sakvroth"
 skills:
   - name: "Skills"
-    desc: "Athletics: +15, Monster Lore: +13, Stealth: +13, Survival: +11"
+    desc: "Athletics: +15, Stealth: +13, Survival: +11, Monster Lore: +13"
 abilityMods: [4, 3, 3, 1, 1, 1]
 speed: 15 feet
 sourcebook: "_Pathfinder #195: Heavy is the Crown_"
@@ -74,11 +75,17 @@ attacks:
     desc: "DC 21, attack +13; __2nd __  _[[Spells/Blood Vendetta|Blood Vendetta]]_, _[[Spells/Paranoia|Paranoia]]_\n__Cantrips__  __(3rd)__ _[[Spells/Sigil|Sigil]]_"
 
   - name: "Rage"
-    desc: "`pf2:1` (concentrate,emotion,mental) **Requirements** The monster hunter isn't [[Conditions/Fatigued|Fatigued]] or raging\n**Effect** The monster hunter gains 9 temporary Hit Points that last until the rage ends. While raging, they deal 8 additional damage with melee attacks, gain a +10-foot status bonus to their Speed, and take a -1 penalty to AC. The monster hunter can't use concentrate actions except [[Actions/Seek|Seek]] and rage actions.\nThe rage lasts for 1 minute, until there are no enemies the monster hunter can perceive, or until the monster hunter falls unconscious.\nOnce the rage ends, the monster hunter can't again for 1 minute.\n[[Feat_Feature Effects/Effect_ Rage|Effect: Rage]]"
+    desc: "`pf2:1` (concentrate,emotion,mental) **Requirements** The monster hunter isn't [[Conditions/Fatigued|Fatigued]] or raging\n* * *\n\n**Effect** The monster hunter gains 9 temporary Hit Points that last until the rage ends. While raging, they deal 8 additional damage with melee attacks, gain a +10-foot status bonus to their Speed, and take a -1 penalty to AC. The monster hunter can't use concentrate actions except [[Actions/Seek|Seek]] and rage actions.\n\nThe rage lasts for 1 minute, until there are no enemies the monster hunter can perceive, or until the monster hunter falls unconscious.\n\nOnce the rage ends, the monster hunter can't again for 1 minute.\n\n[[Feat_Feature Effects/Effect_ Rage|Effect: Rage]]"
 
   - name: "Sudden Charge"
     desc: "`pf2:2`  The monster hunter Strides twice and makes a melee Strike."
  
+```
+
+```encounter-table
+name: Hryngar Rager
+creatures:
+  - 1: Hryngar Rager
 ```
 
 

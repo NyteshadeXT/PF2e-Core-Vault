@@ -10,6 +10,7 @@ tags:
   - pf2e/creature/type/shadow
   - pf2e/creature/type/undead
   - pf2e/creature/type/unholy
+  - pf2eMonster
   - pf2e/creature/level/5
 statblock: inline
 name: "Namorrodor"
@@ -28,15 +29,16 @@ level: "Creature 5"
 
 alignment: ""
 size: "Medium"
-trait_01: "chaotic"
-trait_02: "evil"
-trait_03: "shadow"
-trait_04: "undead"
-trait_05: "unholy"
+trait_01: [[chaotic]]
+trait_02: [[evil]]
+trait_03: [[shadow]]
+trait_04: [[undead]]
+trait_05: [[unholy]]
 modifier: 11
 perception:
   - name: "Perception"
     desc: "+11; Darkvision, Lifesense 30 Feet"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Acrobatics: +12, Athletics: +13, Stealth: +14, Survival: +11"
@@ -61,10 +63,10 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Material Leap"
-    desc: "`pf2:r` (teleportation) **Requirements** The namorrodor is on the Shadow Plane\n**Trigger** A creature the namorrodor can sense with its lifesense on the Material Plane dies\n**Effect** The namorrodor leaps between planes, appearing on the Material Plane within 100 feet of the triggering creature. It remains on the Material Plane for 24 hours, after which it is recalled to its original location on the Shadow Plane."
+    desc: "`pf2:r` (teleportation) **Requirements** The namorrodor is on the Shadow Plane\n\n**Trigger** A creature the namorrodor can sense with its lifesense on the Material Plane dies\n* * *\n\n**Effect** The namorrodor leaps between planes, appearing on the Material Plane within 100 feet of the triggering creature. It remains on the Material Plane for 24 hours, after which it is recalled to its original location on the Shadow Plane."
 
   - name: "Whistling Bones"
-    desc: " (auditory,aura,emotion,fear,mental) 30 feet. Wind whistles through the namorrodor's jutting bones with an eerie tone. A creature entering or beginning its turn in the area must attempt a DC 19 Will check save, becoming [[Conditions/Frightened 1|Frightened 1]] on a failure ([[Conditions/Frightened 1|Frightened 2]] on a critical failure). A creature can't reduce its frightened condition below 1 as long as it's in the aura."
+    desc: " (auditory,aura,emotion,fear,mental) 30 feet. Wind whistles through the namorrodor's jutting bones with an eerie tone. A creature entering or beginning its turn in the area must attempt a DC 19 Will check save, becoming [[Conditions/Frightened|Frightened 1]] on a failure ([[Conditions/Frightened|Frightened 2]] on a critical failure). A creature can't reduce its frightened condition below 1 as long as it's in the aura."
 
 attacks:
   - name: ""
@@ -79,11 +81,17 @@ attacks:
     desc: "`pf2:1` Spit +14 (range 30 feet)\n__Damage__  1d8 + 6 bludgeoning"
 
   - name: "Bounding Sprint"
-    desc: "`pf2:2`  **Requirements** The namorrodor has nothing in its hands\n**Effect** The namorrodor bounds forward, using four limbs for an extra burst of speed. It Strides twice and makes a single melee Strike at the end of its movement."
+    desc: "`pf2:2`  **Requirements** The namorrodor has nothing in its hands\n* * *\n\n**Effect** The namorrodor bounds forward, using four limbs for an extra burst of speed. It Strides twice and makes a single melee Strike at the end of its movement."
 
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
     desc: "`pf2:1`  "
  
+```
+
+```encounter-table
+name: Namorrodor
+creatures:
+  - 1: Namorrodor
 ```
 
 

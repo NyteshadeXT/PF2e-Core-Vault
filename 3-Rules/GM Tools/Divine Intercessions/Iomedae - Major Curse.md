@@ -17,9 +17,9 @@ license: OGL
 
 
 
-**Major Curse** All blades reject your wicked heart.
+All blades reject your wicked heart.
 
-Any weapon you wield automatically becomes broken after you Strike with it. This curse can't break artifacts or similarly powerful weapons.
+Any weapon you wield automatically becomes [[Conditions/Broken|Broken]] after you Strike with it. This curse can't break artifacts or similarly powerful weapons.
 
 *Source: Pathfinder Lost Omens: Gods & Magic*
 *OGL*

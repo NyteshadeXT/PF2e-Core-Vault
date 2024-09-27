@@ -6,6 +6,7 @@ cssClasses: pf2e
 aliases: "Compendium.pf2e.pathfinder-bestiary-2.Actor.hFbfXmjMkGEzMkQ1" 
 tags:
   - pf2e/creature/type/animal
+  - pf2eMonster
   - pf2e/creature/level/-1
 statblock: inline
 name: "Raven"
@@ -24,11 +25,12 @@ level: "Creature -1"
 
 alignment: ""
 size: "tiny"
-trait_01: "animal"
+trait_01: [[animal]]
 modifier: 5
 perception:
   - name: "Perception"
     desc: "+5; Low-Light Vision"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Acrobatics: +5, Thievery: +5"
@@ -58,6 +60,12 @@ attacks:
   - name: "Melee"
     desc: "`pf2:1` Beak +7 (finesse)\n__Damage__  1d6 piercing"
  
+```
+
+```encounter-table
+name: Raven
+creatures:
+  - 1: Raven
 ```
 
 

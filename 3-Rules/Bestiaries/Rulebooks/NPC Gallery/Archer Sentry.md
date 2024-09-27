@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/human
   - pf2e/creature/type/humanoid
   - pf2e/creature/type/lawful
+  - pf2eMonster
   - pf2e/creature/level/2
 statblock: inline
 name: "Archer Sentry"
@@ -25,9 +26,9 @@ level: "Creature 2"
 
 alignment: ""
 size: "Medium"
-trait_01: "human"
-trait_02: "humanoid"
-trait_03: "lawful"
+trait_01: [[human]]
+trait_02: [[humanoid]]
+trait_03: [[lawful]]
 modifier: 11
 perception:
   - name: "Perception"
@@ -64,8 +65,14 @@ attacks:
     desc: "`pf2:1` Composite Longbow +10 (deadly d10, range increment 100 feet, reload 0, volley 30 ft.)\n__Damage__  1d8 + 2 piercing"
 
   - name: "Sentry's Aim"
-    desc: "`pf2:2` (concentrate) The archer sentry aims carefully and fires. They make a ranged weapon Strike with a +1 circumstance bonus.\nThe Strike ignores the [[Conditions/Concealed|concealed]] condition, lesser [[Other Effects/Effect_ Cover|cover]], and standard cover, and reduces greater cover to standard cover."
+    desc: "`pf2:2` (concentrate) The archer sentry aims carefully and fires. They make a ranged weapon Strike with a +1 circumstance bonus.\n\nThe Strike ignores the [[Conditions/Concealed|Concealed]] condition, lesser [[Other Effects/Effect_ Cover|cover]], and standard cover, and reduces greater cover to standard cover."
  
+```
+
+```encounter-table
+name: Archer Sentry
+creatures:
+  - 1: Archer Sentry
 ```
 
 

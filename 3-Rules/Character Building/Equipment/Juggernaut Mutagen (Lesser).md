@@ -10,8 +10,9 @@ tags:
   - trait/polymorph
   - trait/common
   - category/mutagen
+  - remaster
 aliases: "Compendium.pf2e.equipment-srd.Item.xE0EdDrf734l2fQH"
-license: OGL
+license: ORC
 ---
 # Juggernaut Mutagen (Lesser)
 ## Item 1
@@ -22,11 +23,11 @@ license: OGL
 **Bulk** L; **Size** med
 **Usage** held-in-one-hand
 
-**Activate** `pf2:1` Interact
+**Activate** `pf2:1` (manipulate)
 
 * * *
 
-After you drink this mutagen, your body becomes thick and sturdy. You exhibit a healthy glow, though you tend to be ponderous and unobservant.
+Your body becomes sturdy and ponderous.
 
 **Benefit** You gain a +1 item bonus to Fortitude saves and 5 temporary Hit Points. Whenever you are at maximum Hit Points for at least 1 full minute, you regain the temporary Hit Points.
 
@@ -36,5 +37,5 @@ After you drink this mutagen, your body becomes thick and sturdy. You exhibit a 
 
 [[Equipment Effects/Effect_ Juggernaut Mutagen (Lesser)|Effect: Juggernaut Mutagen (Lesser)]]
 
-*Source: Pathfinder Core Rulebook*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

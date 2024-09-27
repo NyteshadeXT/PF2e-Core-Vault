@@ -14,7 +14,7 @@ license: ORC
 ---
 # Dazing Coil
 ## Item 14
-### [[consumable]][[magical]][[talisman]]
+### [[consumable]][[3-Rules/Rule References/Magical]][[talisman]]
 
 **Category** talisman; 
 **Price** 900 gp; 
@@ -23,11 +23,11 @@ license: ORC
 
 **Activate** `pf2:0` (concentrate)
 
-**Trigger** You deal damage to an off-guard creature with the affixed weapon
+**Trigger** You deal damage to an [[Conditions/Off-Guard|Off-Guard]] creature with the affixed weapon
 
 * * *
 
-This knot of copper wire reshapes itself in a new pattern every time its affixed weapon deals damage. When you activate the coil, the damaged creature must succeed at a DC 31 Will check save or be [[Conditions/Stunned 1|Stunned 1]]. If it critically fails, it instead becomes [[Conditions/Stunned 1|Stunned 2]].
+This knot of copper wire reshapes itself in a new pattern every time its affixed weapon deals damage. When you activate the coil, the damaged creature must succeed at a DC 31 Will check save or be [[Conditions/Stunned|Stunned 1]]. If it critically fails, it instead becomes [[Conditions/Stunned|Stunned 2]].
 
 *Source: Pathfinder GM Core*
 *ORC*

@@ -5,6 +5,7 @@ noteType: pf2eHazard
 tags:
   - environmental
   - trap
+  - pf2eHazard
 
 source: Pathfinder Bounty #6: The Road from Otari
 aliases: "Compendium.pf2e.pfs-season-2-bestiary.Actor.PIAR4xFEhkWlWg8D" 
@@ -22,8 +23,8 @@ name: "Hidden Bog"
 level: "Hazard -1"
 
 
-trait_01: "environmental"
-trait_02: "trap"
+trait_01: [[environmental]]
+trait_02: [[trap]]
 modifier: 4
 sourcebook: "_Pathfinder Bounty #6: The Road from Otari_"
 perception:
@@ -42,10 +43,16 @@ attacks:
   - name: ""
 
   - name: "Collapse"
-    desc: "`pf2:r` **Trigger** A creatures enters the 10-foot-square area of the hidden bog\n**Effect** The creatures squelches into two feet of sticky mud, ending its move action. The mud imposes a -10 foot penalty to the creature's Speed until it is wiped off (requiring `pf2:3`)."
+    desc: "`pf2:r` **Trigger** A creatures enters the 10-foot-square area of the hidden bog\n* * *\n\n**Effect** The creatures squelches into two feet of sticky mud, ending its move action. The mud imposes a -10 foot penalty to the creature's Speed until it is wiped off (requiring `pf2:3`)."
 
 
   - name: "Reset"
     desc: "Creatures can still step into the mud after the trap is revealed, but the area containing the mud is obvious."
+```
+
+```encounter-table
+name: Hidden Bog
+creatures:
+  - 1: Hidden Bog
 ```
 

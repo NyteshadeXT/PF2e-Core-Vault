@@ -22,7 +22,7 @@ license: ORC
 
 Various parts of this +2 _resilient half plate_ are forged into the shape of a lion's head. The golden lion heads grant you a commanding presence and seem to actively growl at your enemies, granting you a +2 item bonus to Intimidation.
 
-The lions on the armor work in tandem with the lion on a _lion's shield_. If you critically hit with the _lion's shield_ using Lion Bite, the lions on the armor roar in support of the shield, causing the target of the shield's Strike to become [[Conditions/Frightened 1|Frightened 1]].
+The lions on the armor work in tandem with the lion on a _lion's shield_. If you critically hit with the _lion's shield_ using Lion Bite, the lions on the armor roar in support of the shield, causing the target of the shield's Strike to become [[Conditions/Frightened|Frightened 1]].
 
 **Activate—Roar of the Pride** `pf2:2` (concentrate)
 

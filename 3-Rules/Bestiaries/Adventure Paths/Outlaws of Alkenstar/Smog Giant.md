@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/giant
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/7
 statblock: inline
 name: "Smog Giant"
@@ -23,13 +24,13 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #179: Cradle of Quartz"
 name: "Smog Giant"
 level: "Creature 7"
-rare_03: "Rare"
+rare_03: [[Rare]]
 alignment: ""
 size: "Large"
-trait_01: "chaotic"
-trait_02: "evil"
-trait_03: "giant"
-trait_04: "humanoid"
+trait_01: [[chaotic]]
+trait_02: [[evil]]
+trait_03: [[giant]]
+trait_04: [[humanoid]]
 modifier: 13
 perception:
   - name: "Perception"
@@ -74,11 +75,17 @@ attacks:
     desc: "`pf2:1` Shrapnel +16 (range 30 feet, versatile p)\n__Damage__  2d4 + 8 bludgeoning"
 
   - name: "Explosive Headbutt"
-    desc: "`pf2:2`  The smog giant cracks their neck, triggering pockets of black powder at the base of their skull to impart additional power to their attack. The giant then attempts a headbutt Strike. This counts as two attacks when calculating the giant's attack penalty. If this Strike hits, it deals 2d10 + 8 bludgeoning damage and the creature struck must attempt a DC 25 Fortitude check save.\n**Critical Success** The creature suffers no additional effect.\n**Success** The creature takes an additional 1d10 bludgeoning damage.\n**Failure** The creature takes an additional 2d10 bludgeoning damage and is knocked [[Conditions/Prone|Prone]] if it's Large or smaller.\n**Critical Failure** As failure, but without a size limit."
+    desc: "`pf2:2`  The smog giant cracks their neck, triggering pockets of black powder at the base of their skull to impart additional power to their attack. The giant then attempts a headbutt Strike. This counts as two attacks when calculating the giant's attack penalty. If this Strike hits, it deals 2d10+8 bludgeoning damage and the creature struck must attempt a DC 25 Fortitude check save.\n* * *\n\n**Critical Success** The creature suffers no additional effect.\n\n**Success** The creature takes an additional 1d10 bludgeoning damage.\n\n**Failure** The creature takes an additional 2d10 bludgeoning damage and is knocked [[Conditions/Prone|Prone]] if it's Large or smaller.\n\n**Critical Failure** As failure, but without a size limit."
 
   - name: "Shrapnel"
     desc: "  A smog giant has a dozen implanted knives, rocks, chunks of metal, spikes, and other adornments that they can fire from their body with great force to make ranged shrapnel Strikes. Once a smog giant has used all 12 shots, they must replace them one at a time using a 1-minute Interact activity."
  
+```
+
+```encounter-table
+name: Smog Giant
+creatures:
+  - 1: Smog Giant
 ```
 
 

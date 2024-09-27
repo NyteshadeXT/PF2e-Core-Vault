@@ -5,6 +5,7 @@ noteType: pf2eHazard
 tags:
   - magical
   - trap
+  - pf2eHazard
 
 source: Pathfinder #162: Ruins of the Radiant Siege
 aliases: "Compendium.pf2e.agents-of-edgewatch-bestiary.Actor.k1s8syi5E2FoR3Q3" 
@@ -22,8 +23,8 @@ name: "Freezing Alarm"
 level: "Hazard 20"
 
 
-trait_01: "magical"
-trait_02: "trap"
+trait_01: [[magical]]
+trait_02: [[trap]]
 modifier: 33
 sourcebook: "_Pathfinder #162: Ruins of the Radiant Siege_"
 perception:
@@ -42,10 +43,16 @@ attacks:
   - name: ""
 
   - name: "Freeze Floor"
-    desc: "`pf2:r` (arcane, cold) **Trigger** A creature enters one of the three squares marked with a T on the map\n**Effect** The floor of the entire 10-foot-by-15-foot antechamber freezes over, sending deadly magical frost creeping up the legs of the intruders. Any creatures standing in the room must roll a DC 45 Reflex check save.\n**Critical Success** The creature is unaffected.\n**Success** The creature takes 3d10 + 5 cold damage.\n**Failure** The creature takes 6d10 + 10 cold damage and is [[Conditions/Slowed 1|Slowed 1]] for 1d4 rounds.\n**Critical Failure** The creature takes 12d10 + 20 cold damage and is [[Conditions/Slowed 1|Slowed 1]] for 1 minute.\nAdditionally, the golems in area B10 become aware of the intruders. The golems activate and come to this room to attack, if they haven't been destroyed already."
+    desc: "`pf2:r` (arcane, cold) **Trigger** A creature enters one of the three squares marked with a T on the map\n* * *\n\n**Effect** The floor of the entire 10-foot-by-15-foot antechamber freezes over, sending deadly magical frost creeping up the legs of the intruders. Any creatures standing in the room must roll a DC 45 Reflex check save.\n* * *\n\n**Critical Success** The creature is unaffected.\n\n**Success** The creature takes 3d10+5 cold damage.\n\n**Failure** The creature takes 6d10+10 cold damage and is [[Conditions/Slowed|Slowed 1]] for 1d4 rounds.\n\n**Critical Failure** The creature takes 12d10+20 cold damage and is [[Conditions/Slowed|Slowed 1]] for 1 minute.\n\nAdditionally, the golems in area B10 become aware of the intruders. The golems activate and come to this room to attack, if they haven't been destroyed already."
 
 
   - name: "Reset"
     desc: "1 day"
+```
+
+```encounter-table
+name: Freezing Alarm
+creatures:
+  - 1: Freezing Alarm
 ```
 

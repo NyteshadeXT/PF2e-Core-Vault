@@ -14,7 +14,7 @@ license: OGL
 ---
 # Dragonscale Cameo
 ## Item 12
-### [[consumable]][[magical]][[morph]][[talisman]]
+### [[consumable]][[3-Rules/Rule References/Magical]][[morph]][[talisman]]
 
 **Category** talisman; 
 **Price** 400 gp; 

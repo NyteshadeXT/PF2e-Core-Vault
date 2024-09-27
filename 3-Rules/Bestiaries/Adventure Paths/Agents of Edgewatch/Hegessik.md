@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/chaotic
   - pf2e/creature/type/monitor
   - pf2e/creature/type/protean
+  - pf2eMonster
   - pf2e/creature/level/15
 statblock: inline
 name: "Hegessik"
@@ -25,14 +26,14 @@ level: "Creature 15"
 
 alignment: ""
 size: "Large"
-trait_01: "chaotic"
-trait_02: "monitor"
-trait_03: "protean"
+trait_01: [[chaotic]]
+trait_02: [[monitor]]
+trait_03: [[protean]]
 modifier: 29
 perception:
   - name: "Perception"
     desc: "+29; Darkvision"
-languages: "Chthonian, Empyrean, Protean"
+languages: "Chthonian, Empyrean, Protean; telepathy 100 feet, tongues"
 skills:
   - name: "Skills"
     desc: "Acrobatics: +25, Athletics: +27, Deception: +29, Diplomacy: +29, Intimidation: +27, Religion: +29, Stealth: +27, Survival: +27"
@@ -52,15 +53,15 @@ abilities_top:
   - name: ""
 
   - name: "Entropy Sense (Imprecise) 60 feet"
-    desc: " (divine,prediction) A hegessik can anticipate the most likely location of a creature through their supernatural insight into the forces of chaotic probabilities and chance. This grants the hegessik the ability to sense creatures within the listed range.\nThe hegessik's entropy sense doesn't detect creatures under the effects of [[Spells/Veil of Privacy|Veil of Privacy]] or that are otherwise shielded from divinations and predictions."
+    desc: " (divine,prediction) A hegessik can anticipate the most likely location of a creature through their supernatural insight into the forces of chaotic probabilities and chance. This grants the hegessik the ability to sense creatures within the listed range.\n\nThe hegessik's entropy sense doesn't detect creatures under the effects of [[Spells/Veil of Privacy|Veil of Privacy]] or that are otherwise shielded from divinations and predictions."
 
 abilities_mid:
   - name: ""
   - name: "Maddening Whispers"
-    desc: " (aura,divine,mental) 30 feet. A susurrus of distracting whispers and dilations in reality surround a hegessik.\nWhen a non-protean ends its turn in the aura, it must attempt a DC 33 Will check save. If it fails, it becomes [[Conditions/Confused|Confused]] for 1 round."
+    desc: " (aura,divine,mental) 30 feet. A susurrus of distracting whispers and dilations in reality surround a hegessik.\n\nWhen a non-protean ends its turn in the aura, it must attempt a DC 33 Will check save. If it fails, it becomes [[Conditions/Confused|Confused]] for 1 round."
 
   - name: "Protean Anatomy 20"
-    desc: " (divine) A hegessik's vital organs shift and change shape and position constantly. Immediately after the hegessik takes acid, electricity, or sonic damage, it gains the listed amount of resistance to that damage type. This lasts for 1 hour or until the next time the protean takes damage of one of the other types (in which case its resistance changes to match that type), whichever comes first.\nThe hegessik is immune to polymorph effects unless it is a willing target. If [[Conditions/Blinded|Blinded]] or [[Conditions/Deafened|Deafened]], the hegessik automatically recovers at the end of its next turn as new sensory organs grow to replace the compromised ones."
+    desc: " (divine) A hegessik's vital organs shift and change shape and position constantly. Immediately after the hegessik takes acid, electricity, or sonic damage, it gains the listed amount of resistance to that damage type. This lasts for 1 hour or until the next time the protean takes damage of one of the other types (in which case its resistance changes to match that type), whichever comes first.\n\nThe hegessik is immune to polymorph effects unless it is a willing target. If [[Conditions/Blinded|Blinded]] or [[Conditions/Deafened|Deafened]], the hegessik automatically recovers at the end of its next turn as new sensory organs grow to replace the compromised ones."
 
 attacks:
   - name: ""
@@ -78,16 +79,16 @@ attacks:
     desc: "DC 38, attack +30; __8th __  _[[Spells/Confusion|Confusion]]_, _[[Spells/Divine Aura|Divine Aura (Chaotic Only)]]_, _[[Spells/Divine Wrath|Divine Wrath]]_; __7th __  _[[Spells/Dispel Magic|Dispel Magic (At Will)]]_, _[[Spells/Interplanar Teleport|Plane Shift]]_; __6th __  _[[Spells/Cursed Metamorphosis|Baleful Polymorph]]_, _[[Spells/Slow|Slow (At Will)]]_, _[[Spells/Teleport|Teleport (At Will) (Self Only)]]_; __5th __  _[[Spells/Translocate|Dimension Door]]_; __4th __  _[[Spells/Translocate|Dimension Door (At Will)]]_; __1st __  _[[Spells/Detect Alignment|Detect Alignment (At Will) (Self Only)]]_\n__Constant__  __(5th)__ _[[Spells/Truespeech|Tongues]]_ __(4th)__ _[[Spells/Unfettered Movement|Freedom of Movement]]_"
 
   - name: "[[Bestiary Ability Glossary/Change Shape|Change Shape]]"
-    desc: "`pf2:1` (concentrate,divine,polymorph) The hegessik takes the appearance of any Large or smaller creature. This doesn't change its Speed or its attack and damage bonuses with its Strikes, but might change the damage type its Strikes deal.\n"
+    desc: "`pf2:1` (concentrate,divine,polymorph) The hegessik takes the appearance of any Large or smaller creature. This doesn't change its Speed or its attack and damage bonuses with its Strikes, but might change the damage type its Strikes deal.\n\n* * *\n"
 
   - name: "[[Bestiary Ability Glossary/Constrict|Constrict]]"
-    desc: "`pf2:1`  2d8 + 14 bludgeoning damage, DC 36 Fortitude check\n"
+    desc: "`pf2:1`  2d8+14 bludgeoning damage, DC 36 Fortitude check\n\n* * *\n"
 
   - name: "Leaching Glare"
-    desc: "`pf2:1` (divine) The hegessik briefly opens its third eye.\nNon-protean creatures in a 30-foot cone must succeed at a DC 38 Will check save or become [[Conditions/Stupefied 1|Stupefied 2]] for 1 round ([[Conditions/Stupefied 1|Stupefied 3]] on a critical failure)."
+    desc: "`pf2:1` (divine) The hegessik briefly opens its third eye.\n\nNon-protean creatures in a @Template[cone|distance:30] must succeed at a DC 38 Will check save or become [[Conditions/Stupefied|Stupefied 2]] for 1 round ([[Conditions/Stupefied|Stupefied 3]] on a critical failure)."
 
   - name: "Telekinetic Reach"
-    desc: "`pf2:2` (divine,force) The hegessik manifests psychic versions of its natural attacks and makes a Strike with each of its jaws, claw, and tail, in any order. These Strikes have a reach of 60 feet.\nThese attacks count toward the hegessik's multiple attack penalty, but the penalty doesn't increase until after it makes all the attacks."
+    desc: "`pf2:2` (divine,force) The hegessik manifests psychic versions of its natural attacks and makes a Strike with each of its jaws, claw, and tail, in any order. These Strikes have a reach of 60 feet.\n\nThese attacks count toward the hegessik's multiple attack penalty, but the penalty doesn't increase until after it makes all the attacks."
 
   - name: "Warpwave Strike"
     desc: " (divine) Any creature struck and damaged by a hegessik's jaws Strike must succeed at a DC 36 Fortitude check save or be subject to a [[Rollable Tables/Warpwaves|Warpwave]]"
@@ -95,6 +96,12 @@ attacks:
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
     desc: "`pf2:1`  "
  
+```
+
+```encounter-table
+name: Hegessik
+creatures:
+  - 1: Hegessik
 ```
 
 

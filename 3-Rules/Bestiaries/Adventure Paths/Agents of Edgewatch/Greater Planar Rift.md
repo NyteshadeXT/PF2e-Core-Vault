@@ -5,6 +5,7 @@ noteType: pf2eHazard
 tags:
   - magical
   - trap
+  - pf2eHazard
 
 source: Pathfinder #162: Ruins of the Radiant Siege
 aliases: "Compendium.pf2e.agents-of-edgewatch-bestiary.Actor.e96H6PLW11NCRK1h" 
@@ -22,8 +23,8 @@ name: "Greater Planar Rift"
 level: "Hazard 21"
 
 
-trait_01: "magical"
-trait_02: "trap"
+trait_01: [[magical]]
+trait_02: [[trap]]
 modifier: 31
 sourcebook: "_Pathfinder #162: Ruins of the Radiant Siege_"
 perception:
@@ -42,9 +43,15 @@ attacks:
   - name: ""
 
   - name: "Greater Planar Rift"
-    desc: "`pf2:r` (arcane, teleportation) **Trigger** A creature moves within 5 feet of the rift\n**Effect** The creature must succeed at a DC 44 Will check save or be drawn into the rift. A creature so drawn in becomes [[Conditions/Stunned 1|Stunned 3]] and immediately teleports to a different random area in Kharnas's ruins."
+    desc: "`pf2:r` (arcane, teleportation) **Trigger** A creature moves within 5 feet of the rift\n* * *\n\n**Effect** The creature must succeed at a DC 44 Will check save or be drawn into the rift. A creature so drawn in becomes [[Conditions/Stunned|Stunned 3]] and immediately teleports to a different random area in Kharnas's ruins."
 
 
 
+```
+
+```encounter-table
+name: Greater Planar Rift
+creatures:
+  - 1: Greater Planar Rift
 ```
 

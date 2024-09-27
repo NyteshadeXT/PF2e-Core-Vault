@@ -33,7 +33,7 @@ You also gain specific abilities based on the stellar body:
 *   **Moon** Speed 30 feet, fly 50 feet;
     *   **Melee** `pf2:1` fist (agile, reach 10 feet), **Damage** 2d4+10 bludgeoning plus 1d6 fire;
     *   **Ranged** `pf2:1` moonbeam (range 90 feet), **Damage** 2d4+10 fire; this form's fire damage is silver for resistances, weaknesses, and the like;
-    *   On a critical hit with either Strike, the target is [[Conditions/Stupefied 1|Stupefied 2]] for 1 round.
+    *   On a critical hit with either Strike, the target is [[Conditions/Stupefied|Stupefied 2]] for 1 round.
 
 *Source: Pathfinder Secrets of Magic*
 *OGL*

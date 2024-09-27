@@ -10,7 +10,7 @@ license: OGL
 ---
 # Dragon's Breath (9th Level Spell)
 ## Item 20
-### [uncommon](uncommon "Uncommon Rarity Trait")[[magical]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[3-Rules/Rule References/Magical]]
 
 
 **Price** 70000 gp; 

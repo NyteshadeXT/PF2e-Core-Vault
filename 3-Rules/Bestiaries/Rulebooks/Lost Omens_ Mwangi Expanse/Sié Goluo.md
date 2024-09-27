@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/good
   - pf2e/creature/type/incorporeal
   - pf2e/creature/type/spirit
+  - pf2eMonster
   - pf2e/creature/level/14
 statblock: inline
 name: "Sié Goluo"
@@ -23,18 +24,18 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Lost Omens: The Mwangi Expanse"
 name: "Sié Goluo"
 level: "Creature 14"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "huge"
-trait_01: "beast"
-trait_02: "good"
-trait_03: "incorporeal"
-trait_04: "spirit"
+trait_01: [[beast]]
+trait_02: [[good]]
+trait_03: [[incorporeal]]
+trait_04: [[spirit]]
 modifier: 25
 perception:
   - name: "Perception"
     desc: "+25; Scent (Imprecise) 60 Feet"
-languages: "Mwangi"
+languages: "Mwangi; (can&#x27;t speak any language)"
 skills:
   - name: "Skills"
     desc: "Athletics: +31, Diplomacy: +28, Intimidation: +31, Nature: +31, Survival: +28"
@@ -59,7 +60,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Ancestral Response"
-    desc: "`pf2:0`  **Trigger** A creature on the Material Plane calls out for Sié Goluo\n**Effect** Sié Goluo instantaneously appears in an unoccupied space within 30 feet of the triggering creature and heals 8d8 Hit Points on all allies that can see him within 60 feet. Allies healed this way gain a +2 circumstance bonus on saving throws for 1 minute.\nCreatures that receive these benefits become temporarily immune to them for 1 year.\n[[Bestiary Effects/Effect_ Ancestral Response|Effect: Ancestral Response]]"
+    desc: "`pf2:0`  **Trigger** A creature on the Material Plane calls out for Sié Goluo\n* * *\n\n**Effect** Sié Goluo instantaneously appears in an unoccupied space within 30 feet of the triggering creature and heals 8d8 Hit Points on all allies that can see him within 60 feet. Allies healed this way gain a +2 circumstance bonus on saving throws for 1 minute.\n\nCreatures that receive these benefits become temporarily immune to them for 1 year.\n\n[[Bestiary Effects/Effect_ Ancestral Response|Effect: Ancestral Response]]"
 
   - name: "[[Bestiary Ability Glossary/Ferocity|Ferocity]]"
     desc: "`pf2:r`  "
@@ -77,8 +78,14 @@ attacks:
     desc: "DC 34, attack +26; __3rd __  _[[Spells/Humanoid Form|Humanoid Form (At Will)]]_\n__Constant__  __(1st)__ _[[Spells/Vanishing Tracks|Pass Without Trace]]_"
 
   - name: "Spirit Charge"
-    desc: "`pf2:2`  Sié Goluo Strides twice, then makes a horn Strike. On a hit, Sié Goluo creates a shock wave that deals 4d12 force damage in a 30-foot cone (DC 34 Reflex check save).\nCreatures that fail their save are pushed away 5 feet (10 feet on a critical failure)."
+    desc: "`pf2:2`  Sié Goluo Strides twice, then makes a horn Strike. On a hit, Sié Goluo creates a shock wave that deals 4d12 force damage in a @Template[cone|distance:30] (DC 34 Reflex check save).\n\nCreatures that fail their save are pushed away 5 feet (10 feet on a critical failure)."
  
+```
+
+```encounter-table
+name: Sié Goluo
+creatures:
+  - 1: Sié Goluo
 ```
 
 

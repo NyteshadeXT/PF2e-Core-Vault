@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.extinction-curse-bestiary.Actor.BORxkpaFBSCyB1f1"
 tags:
   - pf2e/creature/type/mindless
   - pf2e/creature/type/ooze
+  - pf2eMonster
   - pf2e/creature/level/11
 statblock: inline
 name: "Tallow Ooze"
@@ -24,12 +25,13 @@ level: "Creature 11"
 
 alignment: ""
 size: "Medium"
-trait_01: "mindless"
-trait_02: "ooze"
+trait_01: [[mindless]]
+trait_02: [[ooze]]
 modifier: 14
 perception:
   - name: "Perception"
     desc: "+14; Motion Sense (Precise) 60 Feet"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Athletics: +23"
@@ -54,7 +56,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Congealed"
-    desc: "  Whenever the tallow ooze takes fire damage, it becomes [[Conditions/Quickened|Quickened]] for 1 round (it can only Stride or Strike with the extra action).\nWhenever the tallow ooze is dealt cold damage (even if that damage is prevented by its resistance), it becomes [[Conditions/Slowed 1|Slowed 1]] for 1 round and can't use its Engulf ability (but creatures already engulfed are still engulfed)."
+    desc: "  Whenever the tallow ooze takes fire damage, it becomes [[Conditions/Quickened|Quickened]] for 1 round (it can only Stride or Strike with the extra action).\n\nWhenever the tallow ooze is dealt cold damage (even if that damage is prevented by its resistance), it becomes [[Conditions/Slowed|Slowed 1]] for 1 round and can't use its Engulf ability (but creatures already engulfed are still engulfed)."
 
   - name: "Greasy Seepage"
     desc: " (aura) 10 feet. Any creature that starts its turn in or enters a square in the area must attempt a DC 30 Acrobatics check check to Balance. A creature that takes a Step doesn't need to roll this check."
@@ -66,11 +68,17 @@ attacks:
     desc: "`pf2:1` Pseudopod +23 ()\n__Damage__  2d10 + 10 bludgeoning plus residual-grease"
 
   - name: "[[Bestiary Ability Glossary/Engulf|Engulf]]"
-    desc: "`pf2:2`  DC 30 Reflex check, 4d10 bludgeoning, Escape DC 26, Rupture 25\n"
+    desc: "`pf2:2`  DC 30 Reflex check, 4d10 bludgeoning, Escape DC 26, Rupture 25\n\n* * *\n"
 
   - name: "Residual Grease"
     desc: "  When the tallow ooze critically succeeds at an attack against a creature or a creature escapes from being engulfed by the ooze, that creature's hands and gear become slick with grease. For 1d4 rounds, the affected creature must attempt a DC 30 Reflex check save whenever it uses any item (including weapons) that must be wielded or held. On a failure, the creature takes a -2 circumstance penalty to any attack roll or check to use the item; on a critical failure, the creature drops the item, which lands in a random adjacent square. The creature (or an adjacent ally) can use 1 Interact action to wipe off the grease from an item or from its hands."
  
+```
+
+```encounter-table
+name: Tallow Ooze
+creatures:
+  - 1: Tallow Ooze
 ```
 
 

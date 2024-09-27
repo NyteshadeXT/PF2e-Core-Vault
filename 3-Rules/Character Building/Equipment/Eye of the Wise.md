@@ -11,7 +11,7 @@ license: OGL
 ---
 # Eye of the Wise
 ## Item 11
-### [unique](unique "Unique Rarity Trait")[[artifact]][[invested]]
+### [unique](unique.md "Unique Rarity Trait")[[artifact]][[invested]]
 
 
 **Price** 0 gp; 

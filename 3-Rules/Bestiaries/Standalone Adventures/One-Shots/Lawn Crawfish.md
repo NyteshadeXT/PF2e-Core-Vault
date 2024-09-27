@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/aberration
   - pf2e/creature/type/aquatic
   - pf2e/creature/type/chaotic
+  - pf2eMonster
   - pf2e/creature/level/1
 statblock: inline
 name: "Lawn Crawfish"
@@ -25,9 +26,9 @@ level: "Creature 1"
 
 alignment: ""
 size: "Small"
-trait_01: "aberration"
-trait_02: "aquatic"
-trait_03: "chaotic"
+trait_01: [[aberration]]
+trait_02: [[aquatic]]
+trait_03: [[chaotic]]
 modifier: 8
 perception:
   - name: "Perception"
@@ -35,7 +36,7 @@ perception:
 languages: "Common"
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +7, Athletics: +4 (+8 to Swim)"
+    desc: "Acrobatics: +7, Athletics: +4"
 abilityMods: [1, 4, 2, -3, 1, 1]
 speed: 25 feet,  burrow 10 feet,  swim 30 feet
 sourcebook: "_Pathfinder Adventure: Little Trouble in Big Absalom_"
@@ -54,7 +55,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Death Frenzy"
-    desc: "`pf2:r`  **Trigger** The reefclaw is reduced to 0 Hit Points.\n**Effect** The reefclaw makes a claw Strike before dying."
+    desc: "`pf2:r`  **Trigger** The reefclaw is reduced to 0 Hit Points.\n* * *\n\n**Effect** The reefclaw makes a claw Strike before dying."
 
 attacks:
   - name: ""
@@ -63,14 +64,20 @@ attacks:
     desc: "`pf2:1` Claw +9 (finesse)\n__Damage__  1d6 + 1 slashing plus crawfish-venom,grab"
 
   - name: "[[Bestiary Ability Glossary/Constrict|Constrict]]"
-    desc: "`pf2:1`  1d6 bludgeoning, DC 17 Fortitude check\n"
+    desc: "`pf2:1`  1d6 bludgeoning, DC 17 Fortitude check\n\n* * *\n"
 
   - name: "Crawfish Venom"
-    desc: " (poison) **Saving Throw** DC 17 Fortitude check\n**Maximum Duration** 4 rounds\n**Stage 1** 1d6 poison damage and [[Conditions/Enfeebled 1|Enfeebled 1]] (1 round)\n**Stage 2** 1d6 poison damage and [[Conditions/Enfeebled 1|Enfeebled 2]] (1 round)."
+    desc: " (poison) **Saving Throw** DC 17 Fortitude check\n\n**Maximum Duration** 4 rounds\n\n**Stage 1** 1d6 poison damage and [[Conditions/Enfeebled|Enfeebled 1]] (1 round)\n\n**Stage 2** 1d6 poison damage and [[Conditions/Enfeebled|Enfeebled 2]] (1 round)."
 
   - name: "Grab"
-    desc: "`pf2:1`  **Requirements** The monster's last action was a success with a Strike that lists Grab in its damage entry, or it has a creature grabbed using this action.\n**Effect** The monster automatically Grabs the target until the end of the monster's next turn. The creature is grabbed by whichever body part the monster attacked with, and that body part can't be used to Strike creatures until the grab is ended. Using Grab extends the duration of the monster's Grab until the end of its next turn for all creatures grabbed by it. A grabbed creature can use the Escape action to get out of the grab, and the Grab ends for a grabbed creatures if the monster moves away from it."
+    desc: "`pf2:1`  **Requirements** The monster's last action was a success with a Strike that lists Grab in its damage entry, or it has a creature grabbed using this action.\n* * *\n\n**Effect** The monster automatically Grabs the target until the end of the monster's next turn. The creature is grabbed by whichever body part the monster attacked with, and that body part can't be used to Strike creatures until the grab is ended. Using Grab extends the duration of the monster's Grab until the end of its next turn for all creatures grabbed by it. A grabbed creature can use the Escape action to get out of the grab, and the Grab ends for a grabbed creatures if the monster moves away from it."
  
+```
+
+```encounter-table
+name: Lawn Crawfish
+creatures:
+  - 1: Lawn Crawfish
 ```
 
 

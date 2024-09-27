@@ -16,13 +16,25 @@ Spellshots aren't ordinary gunslingers. They come from a tradition of ancient se
 
 Most spellshots continue to come from Arcadia, as the stories describing the relevant skills and training to become one have been passed down over the generations. Many gunslingers who grow up in this region hear of these tales early in their lives, and they develop the techniques to channel magical energy through their firearms in imitation of the Regents' arcane methods. While Arcadia is home to the vast majority of the world's spellshots, the techniques have slowly spread to other regions. However, spellshots remain particularly rare in the Inner Sea region due to the unique history of guns there and their connection to the Grand Duchy of Alkenstar, which exists in a magic-dead region of the Mana Wastes.
 
+**Additional Feats**
+
+**4th:** [[Feats/Basic Arcana|Basic Arcana]], [[Feats/Basic Wizard Spellcasting|Basic Wizard Spellcasting]]
+
+**6th:** [[Feats/Advanced Arcana|Advanced Arcana]]
+
+**8th:** [[Feats/Arcane Breadth|Arcane Breadth]]
+
+**12th:** [[Feats/Expert Wizard Spellcasting|Expert Wizard Spellcasting]]
+
 ## [[Feats/Spellshot Dedication|Spellshot Dedication]] Feat 2
 
 **Prerequisites** [[Class Features/Way of the Spellshot|Way of the Spellshot]]
 
 * * *
 
-You've steeped yourself in magic and gunplay to the extent that you can conjure bullets from thin air, using a rudimentary knowledge of arcane theory to create a temporary piece of ammunition. You gain the [[Actions/Conjure Bullet|Conjure Bullet]] action.
+You cast arcane spells like a wizard, gaining a spellbook with four common arcane cantrips of your choice. You gain the Cast a Spell activity. You can prepare two cantrips each day from your spellbook. You're trained in the spell attack modifier and spell DC statistics. Your key spellcasting attribute for spellshot archetype spells is Intelligence, and they are arcane spells. You become trained in Arcana; if you were already trained in Arcana, you instead become trained in a skill of your choice. This counts as the wizard archetype for the benefits of Basic Wizard Spellcasting.
+
+* * *
 
 **Special** You can't select another dedication feat other than Beast Gunner Dedication until you've gained two other feats from the spellshot or beast gunner archetypes.
 

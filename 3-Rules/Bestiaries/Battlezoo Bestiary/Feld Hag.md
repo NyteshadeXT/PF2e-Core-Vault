@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/hag
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/5
 statblock: inline
 name: "Feld Hag"
@@ -27,10 +28,10 @@ level: "Creature 5"
 
 alignment: ""
 size: "Medium"
-trait_01: "chaotic"
-trait_02: "evil"
-trait_03: "hag"
-trait_04: "humanoid"
+trait_01: [[chaotic]]
+trait_02: [[evil]]
+trait_03: [[hag]]
+trait_04: [[humanoid]]
 modifier: 11
 perception:
   - name: "Perception"
@@ -38,7 +39,7 @@ perception:
 languages: "Aklo, Common, Jotun"
 skills:
   - name: "Skills"
-    desc: "Athletics: +13, Deception: +11, Nature: +9, Occultism: +9, Stealth: +13, "
+    desc: "Athletics: +13, Deception: +11, Nature: +9, Occultism: +9, Stealth: +13"
 abilityMods: [5, 4, 3, 2, 2, 4]
 speed: 35 feet
 sourcebook: "_Battlezoo Bestiary_"
@@ -55,7 +56,7 @@ abilities_top:
   - name: ""
 
   - name: "[[Bestiary Ability Glossary/Coven|Coven]]"
-    desc: " (mental,occult) A feld hag adds _Blindness_, _Fear_, and _Paranoia_ to her coven's spells.\n"
+    desc: " (mental,occult) A feld hag adds _[[Spells/Blindness|Blindness]]_, _[[Spells/Fear|Fear]]_, and _[[Spells/Paranoia|Paranoia]]_ to her coven's spells.\n\n* * *\n"
 
 abilities_mid:
   - name: ""
@@ -75,11 +76,17 @@ attacks:
     desc: "DC 21, attack +13; __3rd __  _[[Spells/Animal Form|Animal Form (At Will) (Canines Only)]]_; __2nd __  _[[Spells/Summon Animal|Summon Animal (Wolf Only) (x3)]]_; __1st __  _[[Spells/Command|Command]]_, _[[Spells/Grease|Grease]]_, _[[Spells/Pest Form|Pest Form]]_, _[[Spells/Sleep|Sleep]]_\n__Cantrips__  __(3rd)__ _[[Compendium.pf2e.spells-srd.Item.kl2q6JvBZwed4B6v|Dancing Lights]]_, _[[Spells/Ghost Sound|Ghost Sound]]_"
 
   - name: "[[Bestiary Ability Glossary/Change Shape|Change Shape]]"
-    desc: "`pf2:1` (concentrate,occult,polymorph) The feld hag can take on the appearance of any Medium humanoid woman. This doesn't change her Speed or her attack and damage bonuses with her Strikes, but might change the damage type her Strikes deal (typically to bludgeoning).\n"
+    desc: "`pf2:1` (concentrate,occult,polymorph) The feld hag can take on the appearance of any Medium humanoid woman. This doesn't change her Speed or her attack and damage bonuses with her Strikes, but might change the damage type her Strikes deal (typically to bludgeoning).\n\n* * *\n"
 
   - name: "Feld Hag Tar"
-    desc: " (fire,poison) A creature damaged by the feld hag's claw or igneous sudor Strike must attempt a Fortitude saving throw.\n**Critical Success** The creature is unaffected and is immune to feld hag tar for 24 hours.\n**Success** The creature is unaffected.\n**Failure** The creature takes 1d6 poison damage and is Sickened 1.\n**Critical Failure** As failure, plus 1d4 persistent fire damage."
+    desc: " (fire,poison) A creature damaged by the feld hag's claw or igneous sudor Strike must attempt a DC 22 Fortitude saving throw.\n* * *\n\n**Critical Success** The creature is unaffected and is immune to feld hag tar for 24 hours.\n\n**Success** The creature is unaffected.\n\n**Failure** The creature takes 1d6 poison damage and is [[Conditions/Sickened|Sickened 1]].\n\n**Critical Failure** As failure, plus 1d4 persistent fire damage."
  
+```
+
+```encounter-table
+name: Feld Hag
+creatures:
+  - 1: Feld Hag
 ```
 
 

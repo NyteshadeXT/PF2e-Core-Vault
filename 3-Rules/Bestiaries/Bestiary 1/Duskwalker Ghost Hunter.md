@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/duskwalker
   - pf2e/creature/type/human
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/4
 statblock: inline
 name: "Duskwalker Ghost Hunter"
@@ -26,9 +27,9 @@ level: "Creature 4"
 
 alignment: ""
 size: "Medium"
-trait_01: "duskwalker"
-trait_02: "human"
-trait_03: "humanoid"
+trait_01: [[duskwalker]]
+trait_02: [[human]]
+trait_03: [[humanoid]]
 modifier: 10
 perception:
   - name: "Perception"
@@ -62,20 +63,26 @@ attacks:
     desc: "`pf2:1` Hatchet +12 (agile, sweep)\n__Damage__  1d6 + 5 slashing"
 
   - name: "Ranged"
-    desc: "`pf2:1` Composite Longbow +14 (deadly d10, propulsive, range increment 100 feet, reload 0, volley 30 ft.)\n__Damage__  1d8 + 4 piercing"
+    desc: "`pf2:1` Hatchet +14 (agile, sweep, thrown 10 ft.)\n__Damage__  1d6 + 5 slashing"
 
   - name: "Ranged"
-    desc: "`pf2:1` Hatchet +14 (agile, sweep, thrown 10 ft.)\n__Damage__  1d6 + 5 slashing"
+    desc: "`pf2:1` Composite Longbow +14 (deadly d10, propulsive, range increment 100 feet, reload 0, volley 30 ft.)\n__Damage__  1d8 + 4 piercing"
 
   - name: "Ghost Hunter"
     desc: "  The duskwalker's weapons have the benefits of the _[[Equipment/Ghost Touch|Ghost Touch]]_ property rune on attacks against incorporeal undead."
 
   - name: "Hunt Prey"
-    desc: "`pf2:1`  The duskwalker designates as its prey a single creature that it can see and hear or that it is Tracking. It gains a +2 circumstance bonus to Perception checks when it [[Actions/Seek|Seeks]] its prey and a +2 circumstance bonus to Survival checks when it [[Actions/Track|Tracks]] its prey. It also ignores the penalty for making ranged attacks within its second range increment against its prey.\nLastly, it gains a +2 circumstance bonus to Deception checks, Intimidation checks, and Stealth checks against its prey and to any check to Recall Knowledge about its prey, as well as a +1 circumstance bonus to AC against its prey's attacks. The duskwalker can have only one prey designated at a time."
+    desc: "`pf2:1`  The duskwalker designates as its prey a single creature that it can see and hear or that it is Tracking. It gains a +2 circumstance bonus to Perception checks when it [[Actions/Seek|Seeks]] its prey and a +2 circumstance bonus to Survival checks when it [[Actions/Track|Tracks]] its prey. It also ignores the penalty for making ranged attacks within its second range increment against its prey.\n\nLastly, it gains a +2 circumstance bonus to Deception checks, Intimidation checks, and Stealth checks against its prey and to any check to Recall Knowledge about its prey, as well as a +1 circumstance bonus to AC against its prey's attacks. The duskwalker can have only one prey designated at a time."
 
   - name: "Hunted Shot"
-    desc: "`pf2:1`  **Frequency** Once per round\n**Effect** The duskwalker makes two longbow Strikes against its hunted prey. If both Strikes hit, combine their damage for the purpose of resistances and weaknesses."
+    desc: "`pf2:1`  **Frequency** Once per round\n* * *\n\n**Effect** The duskwalker makes two longbow Strikes against its hunted prey. If both Strikes hit, combine their damage for the purpose of resistances and weaknesses."
  
+```
+
+```encounter-table
+name: Duskwalker Ghost Hunter
+creatures:
+  - 1: Duskwalker Ghost Hunter
 ```
 
 

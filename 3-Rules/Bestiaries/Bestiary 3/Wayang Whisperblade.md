@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/humanoid
   - pf2e/creature/type/shadow
   - pf2e/creature/type/wayang
+  - pf2eMonster
   - pf2e/creature/level/1
 statblock: inline
 name: "Wayang Whisperblade"
@@ -23,12 +24,12 @@ token: [[modules/pf2e-tokens-bestiaries/portraits/planar/shadow/wayang-whisperbl
 source: "Pathfinder Bestiary 3"
 name: "Wayang Whisperblade"
 level: "Creature 1"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Small"
-trait_01: "humanoid"
-trait_02: "shadow"
-trait_03: "wayang"
+trait_01: [[humanoid]]
+trait_02: [[shadow]]
+trait_03: [[wayang]]
 modifier: 9
 perception:
   - name: "Perception"
@@ -36,7 +37,7 @@ perception:
 languages: "Common, Shadowtongue"
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +7, Deception: +4, Occultism: +6, Performance: +6, Shadow Plane Lore: +6, Stealth: +7, Thievery: +7"
+    desc: "Acrobatics: +7, Deception: +4, Occultism: +6, Performance: +6, Stealth: +7, Thievery: +7, Shadow Plane Lore: +6"
 abilityMods: [0, 4, 1, 3, 0, 1]
 speed: 25 feet
 sourcebook: "_Pathfinder Bestiary 3_"
@@ -62,11 +63,17 @@ attacks:
     desc: "`pf2:1` Kukri +8 (agile, finesse, trip)\n__Damage__  1d6 slashing"
 
   - name: "Shadowplay"
-    desc: "`pf2:1` (illusion,occult,shadow) **Requirements** The wayang's last action was a melee Strike that damaged their opponent\n**Effect** The wayang attempts to [[Actions/Tumble Through|Tumble Through]] the opponent's space, with a +2 circumstance bonus to the Acrobatics check. If they succeed, the wayang leaves a shadowy afterimage in their original space, and the opponent is [[Conditions/Off-Guard|Off-Guard]] against the next melee attack the wayang attempts against it before the end of their current turn."
+    desc: "`pf2:1` (illusion,occult,shadow) **Requirements** The wayang's last action was a melee Strike that damaged their opponent\n* * *\n\n**Effect** The wayang attempts to [[Actions/Tumble Through|Tumble Through]] the opponent's space, with a +2 circumstance bonus to the Acrobatics check. If they succeed, the wayang leaves a shadowy afterimage in their original space, and the opponent is [[Conditions/Off-Guard|Off-Guard]] against the next melee attack the wayang attempts against it before the end of their current turn."
 
   - name: "[[Bestiary Ability Glossary/Sneak Attack|Sneak Attack]]"
     desc: "  The wayang deals an extra 1d6 precision damage to [[Conditions/Off-Guard|Off-Guard]] creatures."
  
+```
+
+```encounter-table
+name: Wayang Whisperblade
+creatures:
+  - 1: Wayang Whisperblade
 ```
 
 

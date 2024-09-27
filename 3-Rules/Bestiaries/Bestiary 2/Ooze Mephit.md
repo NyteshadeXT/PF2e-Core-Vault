@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/earth
   - pf2e/creature/type/elemental
   - pf2e/creature/type/water
+  - pf2eMonster
   - pf2e/creature/level/1
 statblock: inline
 name: "Ooze Mephit"
@@ -23,12 +24,12 @@ token: [[modules/pf2e-tokens-bestiaries/portraits/aberrant/ooze/mephit-ooze.webp
 source: "Pathfinder Bestiary 2"
 name: "Ooze Mephit"
 level: "Creature 1"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Small"
-trait_01: "earth"
-trait_02: "elemental"
-trait_03: "water"
+trait_01: [[earth]]
+trait_02: [[elemental]]
+trait_03: [[water]]
 modifier: 3
 perception:
   - name: "Perception"
@@ -64,8 +65,14 @@ attacks:
     desc: "DC 17, attack +7; __1st __  _[[Spells/Grease|Grease]]_"
 
   - name: "Breath Weapon"
-    desc: "`pf2:2` (arcane,poison) The ooze mephit spits toxic slime in a 15-foot cone that deals 2d6 poison damage to each creature within the area (DC 17 Reflex check save).\nThe ooze mephit can't use Breath Weapon again for 1d4 rounds."
+    desc: "`pf2:2` (arcane,poison) The ooze mephit spits toxic slime in a @Template[cone|distance:15] that deals 2d6 poison damage to each creature within the area (DC 17 Reflex check save).\n\nThe ooze mephit can't use Breath Weapon again for 1d4 rounds."
  
+```
+
+```encounter-table
+name: Ooze Mephit
+creatures:
+  - 1: Ooze Mephit
 ```
 
 

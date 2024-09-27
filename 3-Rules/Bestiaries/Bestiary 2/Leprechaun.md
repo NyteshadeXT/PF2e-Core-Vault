@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.pathfinder-bestiary-2.Actor.R0YrD0izubtQYbTU"
 tags:
   - pf2e/creature/type/chaotic
   - pf2e/creature/type/fey
+  - pf2eMonster
   - pf2e/creature/level/2
 statblock: inline
 name: "Leprechaun"
@@ -25,8 +26,8 @@ level: "Creature 2"
 
 alignment: ""
 size: "Small"
-trait_01: "chaotic"
-trait_02: "fey"
+trait_01: [[chaotic]]
+trait_02: [[fey]]
 modifier: 11
 perception:
   - name: "Perception"
@@ -34,7 +35,7 @@ perception:
 languages: "Common, Fey"
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +8, Deception: +9, Gold Lore: +7, Nature: +7, Performance: +9, Thievery: +8"
+    desc: "Acrobatics: +8, Deception: +9, Nature: +7, Performance: +9, Thievery: +8, Gold Lore: +7"
 abilityMods: [1, 4, 1, 3, 3, 4]
 speed: 30 feet
 sourcebook: "_Pathfinder Bestiary 2_"
@@ -62,11 +63,17 @@ attacks:
     desc: "DC 18, attack +10; __2nd __  _[[Spells/Illusory Creature|Illusory Creature]]_, _[[Spells/Illusory Object|Illusory Object]]_, _[[Spells/Invisibility|Invisibility (Self only)]]_; __1st __  _[[Spells/Dizzying Colors|Color Spray]]_, _[[Spells/Shillelagh|Shillelagh]]_, _[[Spells/Ventriloquism|Ventriloquism]]_\n__Cantrips__  __(1st)__ _[[Compendium.pf2e.spells-srd.Item.kl2q6JvBZwed4B6v|Dancing Lights]]_, _[[Spells/Ghost Sound|Ghost Sound]]_, _[[Spells/Telekinetic Hand|Mage Hand]]_, _[[Spells/Prestidigitation|Prestidigitation]]_, _[[Spells/Telekinetic Projectile|Telekinetic Projectile]]_"
 
   - name: "Create Object"
-    desc: "`pf2:2` (manipulate,primal) **Frequency** three times per day\n**Effect** The leprechaun produces an item out of their hat, from behind their jacket, from within a hole in a tree stump, or from any other unexpected location. This conjured item must be no more than 1 Bulk and must be made of relatively commonplace material (such as cloth, wood, stone, or even low-value metal like iron or lead). It can't rely on intricate artistry or complex moving parts, never fulfills a Cost or the like, and can't be made of precious materials or materials with a rarity of uncommon or higher.\nThe created object is temporary and lasts for 1 hour or until the leprechaun creates a new item, whichever comes first."
+    desc: "`pf2:2` (manipulate,primal) **Frequency** three times per day\n* * *\n\n**Effect** The leprechaun produces an item out of their hat, from behind their jacket, from within a hole in a tree stump, or from any other unexpected location. This conjured item must be no more than 1 Bulk and must be made of relatively commonplace material (such as cloth, wood, stone, or even low-value metal like iron or lead). It can't rely on intricate artistry or complex moving parts, never fulfills a Cost or the like, and can't be made of precious materials or materials with a rarity of uncommon or higher.\n\nThe created object is temporary and lasts for 1 hour or until the leprechaun creates a new item, whichever comes first."
 
   - name: "Leprechaun Magic"
     desc: "  When a leprechaun uses their innate spells to deceive, trick, or humiliate a creature, the spell DC increases to 20 and the attack modifier to +11."
  
+```
+
+```encounter-table
+name: Leprechaun
+creatures:
+  - 1: Leprechaun
 ```
 
 

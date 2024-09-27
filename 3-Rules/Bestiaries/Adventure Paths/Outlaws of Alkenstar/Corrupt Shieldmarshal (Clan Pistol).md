@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/humanoid
   - pf2e/creature/type/lawful
+  - pf2eMonster
   - pf2e/creature/level/7
 statblock: inline
 name: "Corrupt Shieldmarshal (Clan Pistol)"
@@ -22,12 +23,12 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #180: The Smoking Gun"
 name: "Corrupt Shieldmarshal (Clan Pistol)"
 level: "Creature 7"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Medium"
-trait_01: "evil"
-trait_02: "humanoid"
-trait_03: "lawful"
+trait_01: [[evil]]
+trait_02: [[humanoid]]
+trait_03: [[lawful]]
 modifier: 18
 perception:
   - name: "Perception"
@@ -64,7 +65,7 @@ attacks:
     desc: "`pf2:1` Clan Pistol +19 (concussive, fatal d10, magical, range increment 80 feet, reload 1)\n__Damage__  1d6 + 3 piercing"
 
   - name: "Firearms Critical Specialization"
-    desc: "  When the shieldmarshal makes a critical hit with a firearm weapon, the target must succeed at a DC 25 Fortitude check save or be [[Conditions/Stunned 1|Stunned 1]]."
+    desc: "  When the shieldmarshal makes a critical hit with a firearm weapon, the target must succeed at a DC 25 Fortitude check save or be [[Conditions/Stunned|Stunned 1]]."
 
   - name: "Lawbringer"
     desc: "`pf2:1`  The shieldmarshal marks a foe for judgment, granting the shieldmarshal a +10-foot circumstance bonus to Speed whenever it Strides toward that creature. The shieldmarshal's Strikes against that creature deal an additional 2d8 precision damage."
@@ -72,6 +73,12 @@ attacks:
   - name: "Reloading Strike"
     desc: "`pf2:1`  The shieldmarshal makes a melee Strike against an opponent within reach and Interacts to reload a firearm in their other hand."
  
+```
+
+```encounter-table
+name: Corrupt Shieldmarshal (Clan Pistol)
+creatures:
+  - 1: Corrupt Shieldmarshal (Clan Pistol)
 ```
 
 

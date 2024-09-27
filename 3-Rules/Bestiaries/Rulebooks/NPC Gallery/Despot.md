@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/human
   - pf2e/creature/type/humanoid
   - pf2e/creature/type/lawful
+  - pf2eMonster
   - pf2e/creature/level/5
 statblock: inline
 name: "Despot"
@@ -26,10 +27,10 @@ level: "Creature 5"
 
 alignment: ""
 size: "Medium"
-trait_01: "evil"
-trait_02: "human"
-trait_03: "humanoid"
-trait_04: "lawful"
+trait_01: [[evil]]
+trait_02: [[human]]
+trait_03: [[humanoid]]
+trait_04: [[lawful]]
 modifier: 11
 perception:
   - name: "Perception"
@@ -72,11 +73,17 @@ attacks:
     desc: "1 Focus Point, DC 22, attack +14; __3rd __  _[[Spells/Diabolic Edict|Diabolic Edict]]_"
 
   - name: "Bloodline Magic"
-    desc: "  When the despot casts a bloodline spell, [[Spells/Enthrall|Enthrall]], [[Spells/Floating Flame|Floating Flame]], or [[Spells/Charm|Charm]], either a target takes 1 fire damage per spell rank, or the despot gains a +1 status bonus to Deception checks for 1 round.\n[[Bestiary Effects/Effect_ Bloodline Magic|Effect: Bloodline Magic]]"
+    desc: "  When the despot casts a bloodline spell, [[Spells/Enthrall|Enthrall]], [[Spells/Floating Flame|Floating Flame]], or [[Spells/Charm|Charm]], either a target takes 1 fire damage per spell rank, or the despot gains a +1 status bonus to Deception checks for 1 round.\n\n[[Bestiary Effects/Effect_ Bloodline Magic|Effect: Bloodline Magic]]"
 
   - name: "Dangerous Sorcery"
     desc: "  When the despot [[Actions/Cast a Spell|Casts a Spell]] from a spell slot, if the spell deals damage and doesn't have a duration, the despot gains a status bonus equal to the spell's rank to that spell's damage."
  
+```
+
+```encounter-table
+name: Despot
+creatures:
+  - 1: Despot
 ```
 
 

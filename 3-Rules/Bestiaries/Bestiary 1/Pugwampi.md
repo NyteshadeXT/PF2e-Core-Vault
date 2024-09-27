@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/fey
   - pf2e/creature/type/gremlin
+  - pf2eMonster
   - pf2e/creature/level/0
 statblock: inline
 name: "Pugwampi"
@@ -26,9 +27,9 @@ level: "Creature 0"
 
 alignment: ""
 size: "tiny"
-trait_01: "evil"
-trait_02: "fey"
-trait_03: "gremlin"
+trait_01: [[evil]]
+trait_02: [[fey]]
+trait_03: [[gremlin]]
 modifier: 6
 perception:
   - name: "Perception"
@@ -56,7 +57,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Unluck Aura"
-    desc: " (aura,mental,misfortune,primal) 20 feet. Creatures other than animals, gremlins, and gnolls in the aura become extremely unlucky (DC 16 Will check save; creature must roll this Will save twice and take the worse result). On a successful save, the creature is temporarily immune to pugwampi unluck auras for 24 hours. On a failure, the creature must roll twice and take the worse result on all checks as long as it is within the aura.\n[[Bestiary Effects/Effect_ Unluck Aura|Effect: Unluck Aura]]"
+    desc: " (aura,mental,misfortune,primal) 20 feet. Creatures other than animals, gremlins, and gnolls in the aura become extremely unlucky (DC 16 Will check save; creature must roll this Will save twice and take the worse result). On a successful save, the creature is temporarily immune to pugwampi unluck auras for 24 hours. On a failure, the creature must roll twice and take the worse result on all checks as long as it is within the aura.\n\n[[Bestiary Effects/Effect_ Unluck Aura|Effect: Unluck Aura]]"
 
 attacks:
   - name: ""
@@ -70,6 +71,12 @@ attacks:
   - name: "Primal Innate Spells"
     desc: "DC 16, attack +8; __2nd __  _[[Spells/Speak with Animals|Speak with Animals (At Will)]]_\n__Cantrips__  __(1st)__ _[[Spells/Prestidigitation|Prestidigitation]]_"
  
+```
+
+```encounter-table
+name: Pugwampi
+creatures:
+  - 1: Pugwampi
 ```
 
 

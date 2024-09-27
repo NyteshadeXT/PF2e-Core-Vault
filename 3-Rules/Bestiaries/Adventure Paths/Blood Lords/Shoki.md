@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.blood-lords-bestiary.Actor.7In0QgKUCCNcrTEA"
 tags:
   - pf2e/creature/type/monitor
   - pf2e/creature/type/psychopomp
+  - pf2eMonster
   - pf2e/creature/level/9
 statblock: inline
 name: "Shoki"
@@ -21,19 +22,19 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #186: Ghost King&#x27;s Rage"
 name: "Shoki"
 level: "Creature 9"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Medium"
-trait_01: "monitor"
-trait_02: "psychopomp"
+trait_01: [[monitor]]
+trait_02: [[psychopomp]]
 modifier: 21
 perception:
   - name: "Perception"
     desc: "+21; Darkvision, Lifesense 60 Feet"
-languages: "Chthonian, Diabolic, Empyrean, Requian"
+languages: "Chthonian, Diabolic, Empyrean, Requian; tongues"
 skills:
   - name: "Skills"
-    desc: "Boneyard Lore: +19, Deception: +20, Diplomacy: +20, Intimidation: +20, Occultism: +16, Religion: +19, Society: +16, Stealth: +14"
+    desc: "Deception: +20, Diplomacy: +20, Intimidation: +20, Occultism: +16, Religion: +19, Society: +16, Stealth: +14, Boneyard Lore: +19"
 abilityMods: [4, 1, 4, 3, 6, 5]
 speed: 25 feet
 sourcebook: "_Pathfinder #186: Ghost King&#x27;s Rage_"
@@ -65,11 +66,17 @@ attacks:
     desc: " (divine) A shoki's staff becomes a _+1 striking staff_ and is treated as if it were adamantine while the shoki wields it. A shoki's staff has Hardness 14 and HP 56 (BT 28) while possessed by the shoki or Hardness 5 and HP 20 (BT 10) while out of the shoki's possession. A shoki whose staff is taken or destroyed can infuse a new one with an hour of work."
 
   - name: "Soul Lock"
-    desc: "`pf2:2` (divine,incapacitation) **Requirements** The shoki doesn't have a soul locked within their staff\n**Effect** The shoki attempts to capture the soul of a creature on the brink of death: either an undead creature, a creature with the dying condition, or a creature who died within the last minute. The target must attempt a DC 32 Will check save with the following results.\n**Critical Success** The creature is unaffected and becomes temporarily immune to Soul Lock.\n**Success** The shoki's staff tugs at the creature's soul but doesn't trap it. If the creature is living, it becomes [[Conditions/Doomed 1|Doomed 1]] (or increases its doomed condition by 1). If the creature is a corporeal undead, it becomes [[Conditions/Enfeebled 1|Enfeebled 2]]. If the creature is an incorporeal undead, it becomes [[Conditions/Stupefied 1|Stupefied 2]]. The creature then becomes temporarily immune to Soul Lock for 24 hours.\n**Failure** The shoki captures the creature's soul in its staff. If the creature is living, it dies. If the creature is a corporeal undead, its body becomes an inanimate corpse. While the soul is locked in the staff, the target can't be returned to life or undeath, or rejuvenate through any means, save for powerful magic, such as miracle or wish. If the shoki's staff is destroyed or the shoki wills it, the soul is released. A shoki's staff can only hold one soul at a time."
+    desc: "`pf2:2` (divine,incapacitation) **Requirements** The shoki doesn't have a soul locked within their staff\n* * *\n\n**Effect** The shoki attempts to capture the soul of a creature on the brink of death: either an undead creature, a creature with the dying condition, or a creature who died within the last minute. The target must attempt a DC 32 Will check save with the following results.\n* * *\n\n**Critical Success** The creature is unaffected and becomes temporarily immune to Soul Lock.\n\n**Success** The shoki's staff tugs at the creature's soul but doesn't trap it. If the creature is living, it becomes [[Conditions/Doomed|Doomed 1]] (or increases its doomed condition by 1). If the creature is a corporeal undead, it becomes [[Conditions/Enfeebled|Enfeebled 2]]. If the creature is an incorporeal undead, it becomes [[Conditions/Stupefied|Stupefied 2]]. The creature then becomes temporarily immune to Soul Lock for 24 hours.\n\n**Failure** The shoki captures the creature's soul in its staff. If the creature is living, it dies. If the creature is a corporeal undead, its body becomes an inanimate corpse. While the soul is locked in the staff, the target can't be returned to life or undeath, or rejuvenate through any means, save for powerful magic, such as miracle or wish. If the shoki's staff is destroyed or the shoki wills it, the soul is released. A shoki's staff can only hold one soul at a time."
 
   - name: "Spirit Touch"
     desc: "  A shoki's Strikes affect incorporeal creatures with the effects of a _[[Equipment/Ghost Touch|Ghost Touch]]_ property rune and deal 2d6 void damage to living creatures and 2d6 vitality damage to undead."
  
+```
+
+```encounter-table
+name: Shoki
+creatures:
+  - 1: Shoki
 ```
 
 

@@ -25,5 +25,5 @@ The Cosmic Caravan is known to astronomers and astrologers alike as a collection
 
 **Areas of Concern** constellations, fortune telling, the night, hope for a better tomorrow
 
-*Source: Pathfinder: Abomination Vaults Player's Guide*
+*Source: Pathfinder Abomination Vaults Player's Guide*
 *OGL*

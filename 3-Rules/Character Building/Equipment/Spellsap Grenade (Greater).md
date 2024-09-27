@@ -30,7 +30,7 @@ license: OGL
 
 * * *
 
-The mixture of reagents, liquid djezet, and solid metal shrapnel inside this grenade explodes on contact with air. A _spellsap grenade_ deals4d4 slashing damage and 4 splash damage. The item bonus is +3. On a hit against a prepared or spontaneous spellcaster, the target must succeed at a DC 38 Will check or lose one prepared spell or one spontaneous spell slot. The spell is randomly selected from among the caster's highest three spell ranks (and then from among the spells prepared in that rank, for a prepared spellcaster).
+The mixture of reagents, liquid djezet, and solid metal shrapnel inside this grenade explodes on contact with air. A _spellsap grenade_ deals4d4 slashing damage and 4 splash damage. You gain a +3 item bonus to attack rolls. On a hit against a prepared or spontaneous spellcaster, the target must succeed at a DC 38 Will check or lose one prepared spell or one spontaneous spell slot. The spell is randomly selected from among the caster's highest three spell ranks (and then from among the spells prepared in that rank, for a prepared spellcaster).
 
 *Source: Pathfinder Rage of Elements*
 *OGL*

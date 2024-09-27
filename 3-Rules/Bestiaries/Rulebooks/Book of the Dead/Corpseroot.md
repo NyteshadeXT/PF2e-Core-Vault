@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/undead
   - pf2e/creature/type/unholy
+  - pf2eMonster
   - pf2e/creature/level/11
 statblock: inline
 name: "Corpseroot"
@@ -25,14 +26,14 @@ level: "Creature 11"
 
 alignment: ""
 size: "huge"
-trait_01: "evil"
-trait_02: "undead"
-trait_03: "unholy"
+trait_01: [[evil]]
+trait_02: [[undead]]
+trait_03: [[unholy]]
 modifier: 18
 perception:
   - name: "Perception"
     desc: "+18; Darkvision"
-languages: "Arboreal, Fey, Necril"
+languages: "Arboreal, Fey, Necril; (can&#x27;t speak any language)"
 skills:
   - name: "Skills"
     desc: "Athletics: +24, Stealth: +18"
@@ -57,7 +58,7 @@ abilities_mid:
     desc: "  The corpseroot takes 10 additional damage from axes."
 
   - name: "Blight"
-    desc: " (aura,poison,primal) 30 feet. A plant entering or starting its turn in the corpseroot's aura begins to wither and must succeed at a DC 27 Fortitude check save or become [[Conditions/Sickened 1|Sickened 2]] ([[Conditions/Sickened 1|Sickened 4]] on a critical failure). A plant that succeeds is temporarily immune for 1 minute.\nA plant that stays in the aura for 7 consecutive days must succeed at a DC 27 Fortitude check save or die. If the plant was a creature or tree, it rises as a corpseroot. The newly risen corpseroot can't create more corpseroots but has all other corpseroot abilities. Plants that are neither magical nor creatures automatically fail saves against blight."
+    desc: " (aura,poison,primal) 30 feet. A plant entering or starting its turn in the corpseroot's aura begins to wither and must succeed at a DC 27 Fortitude check save or become [[Conditions/Sickened|Sickened 2]] ([[Conditions/Sickened|Sickened 4]] on a critical failure). A plant that succeeds is temporarily immune for 1 minute.\n\nA plant that stays in the aura for 7 consecutive days must succeed at a DC 27 Fortitude check save or die. If the plant was a creature or tree, it rises as a corpseroot. The newly risen corpseroot can't create more corpseroots but has all other corpseroot abilities. Plants that are neither magical nor creatures automatically fail saves against blight."
 
   - name: "Plant"
     desc: "  When it isn't in danger, the corpseroot spends 1 minute rooting to the earth, becoming planted in place. While the corpseroot is planted and immobile, creatures must actively [[Actions/Seek|Seek]] and succeed at a DC 36 Perception check check (DC 40 Perception check in forests) to detect the corpseroot's true nature."
@@ -75,11 +76,17 @@ attacks:
     desc: "`pf2:1` Rotten Fruit +20 (range increment 20 feet, splash)\n__Damage__  3d4 + 7 bludgeoning 2d6 poison"
 
   - name: "Take Root"
-    desc: "`pf2:1` (primal) **Frequency** once per round\n**Requirements** The corpseroot has a creature [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]]\n**Effect** The corpseroot buries its roots into the creature, dealing 1d6 + 11 piercing damage and draining the target's life force (DC 30 Fortitude check). On a failure, the creature is [[Conditions/Drained 1|Drained 1]] (or increases the value by 1 if already drained), and the corpseroot regains 10 HP. If this would make a creature drained 5, the creature dies."
+    desc: "`pf2:1` (primal) **Frequency** once per round\n\n**Requirements** The corpseroot has a creature [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]]\n* * *\n\n**Effect** The corpseroot buries its roots into the creature, dealing 1d6+11 piercing damage and draining the target's life force (DC 30 Fortitude check). On a failure, the creature is [[Conditions/Drained|Drained 1]] (or increases the value by 1 if already drained), and the corpseroot regains 10 HP. If this would make a creature drained 5, the creature dies."
 
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
     desc: "`pf2:1`  "
  
+```
+
+```encounter-table
+name: Corpseroot
+creatures:
+  - 1: Corpseroot
 ```
 
 

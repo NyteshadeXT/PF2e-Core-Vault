@@ -33,11 +33,11 @@ license: ORC
 
 **Stage 1** carrier with no ill effects (1 day)
 
-**Stage 2** 2d6 void damage and the target is [[Conditions/Sickened 1|Sickened 1]] until it consumes raw meat (1 day)
+**Stage 2** 2d6 void damage and the target is [[Conditions/Sickened|Sickened 1]] until it consumes raw meat (1 day)
 
 **Stage 3** as stage 2
 
-**Stage 4** as stage 2 unless the target has consumed raw meat in the past 24 hours, then it takes 4d6 void damage and is [[Conditions/Sickened 1|Sickened 2]] until it consumes raw meat;
+**Stage 4** as stage 2 unless the target has consumed raw meat in the past 24 hours, then it takes 4d6 void damage and is [[Conditions/Sickened|Sickened 2]] until it consumes raw meat;
 
 **Stage 5** if the creature has eaten raw meat in the past 24 hours, it dies and rises as a ghoul, if not, it returns to stage 4
 

@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/chaotic
   - pf2e/creature/type/evil
   - pf2e/creature/type/mutant
+  - pf2eMonster
   - pf2e/creature/level/4
 statblock: inline
 name: "Akrida"
@@ -23,18 +24,18 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #179: Cradle of Quartz"
 name: "Akrida"
 level: "Creature 4"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Small"
-trait_01: "animal"
-trait_02: "chaotic"
-trait_03: "evil"
-trait_04: "mutant"
+trait_01: [[animal]]
+trait_02: [[chaotic]]
+trait_03: [[evil]]
+trait_04: [[mutant]]
 modifier: 10
 perception:
   - name: "Perception"
     desc: "+10; Darkvision, Scent (Imprecise) 30 Feet"
-languages: "Sakvroth"
+languages: "Sakvroth; telepathy 100 feet"
 skills:
   - name: "Skills"
     desc: "Acrobatics: +11, Athletics: +13"
@@ -72,11 +73,17 @@ attacks:
     desc: "DC 19, attack +11; __1st __  _[[Spells/Acidic Burst|Acidic Burst]]_\n__Cantrips__  __(2nd)__ _[[Spells/Acid Splash|Acid Splash]]_"
 
   - name: "Breath Weapon"
-    desc: "`pf2:2` (acid,primal) Akrida spits a gout of slimy green acid in a 30-foot line that deals 5d6 acid damage (DC 20 Reflex check).\nAkrida can't use Breath Weapon again for 1d4 rounds."
+    desc: "`pf2:2` (acid,primal) Akrida spits a gout of slimy green acid in a @Template[line|distance:30] that deals 5d6 acid damage (DC 20 Reflex check).\n\nAkrida can't use Breath Weapon again for 1d4 rounds."
 
   - name: "Frantic Scramble"
     desc: "`pf2:2`  Akrida makes three claw Strikes against a single creature within reach. His multiple attack penalty doesn't increase until after he makes all three Strikes."
  
+```
+
+```encounter-table
+name: Akrida
+creatures:
+  - 1: Akrida
 ```
 
 

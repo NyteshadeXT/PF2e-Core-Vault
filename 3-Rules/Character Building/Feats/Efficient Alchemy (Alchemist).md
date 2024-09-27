@@ -6,8 +6,9 @@ tags:
   - trait/alchemist
   - trait/common
   - category/class
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.c7jNms3ZQ8eaMUqv"
-license: OGL
+license: ORC
 ---
 # Efficient Alchemy (Alchemist)
 ## Feat 4
@@ -18,11 +19,9 @@ license: OGL
 
 
 
-Thanks to the time you've spent studying and experimenting, you know how to scale your formulas into larger batches that don't require any additional attention.
+Thanks to the time you've spent studying and experimenting, you know how to scale your formulas into larger batches that don't require any additional attention. Increase the number of items you can create each day with [[Class Features/Advanced Alchemy|Advanced Alchemy]] to 6 + your Intelligence modifier.
 
-When spending downtime to Craft alchemical items, you can produce twice as many alchemical items in a single batch without spending additional preparatory time. For instance, if you are creating elixirs of life, you can craft up to eight elixirs in a single batch using downtime, rather than four.
+In addition, when you [[Actions/Craft|Craft]] alchemical consumables during downtime, you can produce twice as many alchemical items in a single batch without spending additional preparatory time. For instance, if you are creating [[Equipment/Elixir of Life (Minor)|Elixirs of Life]], you can craft up to eight elixirs in a single batch using downtime, rather than four. This doesn't change the amount of alchemical reagents or other ingredients required to craft each item, nor does it change your rate of progress for days past the base downtime spent.
 
-This does not reduce the amount of alchemical reagents required or other ingredients needed to craft each item, nor does it increase your rate of progress for days past the base downtime spent. This also does not change the number of items you can create in a batch using [[Class Features/Advanced Alchemy|Advanced Alchemy]].
-
-*Source: Pathfinder Core Rulebook*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

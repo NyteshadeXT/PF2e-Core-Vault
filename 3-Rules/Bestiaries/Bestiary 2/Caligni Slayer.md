@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/chaotic
   - pf2e/creature/type/evil
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/3
 statblock: inline
 name: "Caligni Slayer"
@@ -24,13 +25,13 @@ token: [[modules/pf2e-tokens-bestiaries/portraits/humanoid/darklands/caligni-sla
 source: "Pathfinder Bestiary 2"
 name: "Caligni Slayer"
 level: "Creature 3"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Small"
-trait_01: "caligni"
-trait_02: "chaotic"
-trait_03: "evil"
-trait_04: "humanoid"
+trait_01: [[caligni]]
+trait_02: [[chaotic]]
+trait_03: [[evil]]
+trait_04: [[humanoid]]
 modifier: 8
 perception:
   - name: "Perception"
@@ -58,7 +59,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Death Implosion"
-    desc: " (sonic) When the caligni slayer dies, their body implodes violently into nothingness, dealing 3d10 sonic damage to creatures in a 10-foot emanation. Each creature in the area must attempt a DC 20 Fortitude check save.\nThe slayer's gear and treasure are unaffected by the implosion and are left in a pile where they died.\n**Critical Success** The creature is unaffected.\n**Success** The creature takes half damage.\n**Failure** The creature takes full damage and is [[Conditions/Deafened|Deafened]] for 1 minute.\n**Critical Failure** The creature takes double damage and is deafened for 24 hours."
+    desc: " (sonic) When the caligni slayer dies, their body implodes violently into nothingness, dealing 3d10 sonic damage to creatures in a @Template[emanation|distance:10]. Each creature in the area must attempt a DC 20 Fortitude check save.\n\nThe slayer's gear and treasure are unaffected by the implosion and are left in a pile where they died.\n* * *\n\n**Critical Success** The creature is unaffected.\n\n**Success** The creature takes half damage.\n\n**Failure** The creature takes full damage and is [[Conditions/Deafened|Deafened]] for 1 minute.\n\n**Critical Failure** The creature takes double damage and is deafened for 24 hours."
 
 attacks:
   - name: ""
@@ -70,11 +71,17 @@ attacks:
     desc: "DC 20, attack +12; __2nd __  _[[Spells/Darkness|Darkness (At Will)]]_, _[[Spells/Death Knell|Death Knell]]_, _[[Spells/Phantom Pain|Phantom Pain]]_, _[[Spells/Ghostly Carrier|Spectral Hand]]_\n__Cantrips__  __(2nd)__ _[[Spells/Void Warp|Chill Touch]]_, _[[Spells/Daze|Daze]]_, _[[Spells/Detect Magic|Detect Magic]]_, _[[Spells/Shield|Shield]]_"
 
   - name: "Call to Blood"
-    desc: "`pf2:2` (mental,occult) Each caligni within 30 feet gains a +2 status bonus to attack rolls against [[Conditions/Off-Guard|Off-Guard]] creatures. This bonus lasts for 1 minute.\n[[Bestiary Effects/Effect_ Call to Blood|Effect: Call to Blood]]"
+    desc: "`pf2:2` (mental,occult) Each caligni within 30 feet gains a +2 status bonus to attack rolls against [[Conditions/Off-Guard|Off-Guard]] creatures. This bonus lasts for 1 minute.\n\n[[Bestiary Effects/Effect_ Call to Blood|Effect: Call to Blood]]"
 
   - name: "Soul Harvest"
     desc: "  The caligni slayer deals an additional 2d6 void damage to [[Conditions/Off-Guard|Off-Guard]] creatures."
  
+```
+
+```encounter-table
+name: Caligni Slayer
+creatures:
+  - 1: Caligni Slayer
 ```
 
 

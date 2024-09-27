@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.agents-of-edgewatch-bestiary.Actor.zrh3MrS68H2gPlVs"
 tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/4
 statblock: inline
 name: "Tenome"
@@ -24,8 +25,8 @@ level: "Creature 4"
 
 alignment: ""
 size: "Medium"
-trait_01: "evil"
-trait_02: "humanoid"
+trait_01: [[evil]]
+trait_02: [[humanoid]]
 modifier: 14
 perception:
   - name: "Perception"
@@ -64,17 +65,23 @@ attacks:
     desc: "`pf2:1` Claw +14 (agile)\n__Damage__  2d6 + 4 slashing plus grab"
 
   - name: "Bone Drink"
-    desc: "`pf2:2` (healing,occult) **Requirement** The tenome has a creature grabbed or restrained\n**Effect** The tenome makes a jaws Strike against the grabbed or restrained creature. If the Strike hits, the creature must succeed at a DC 18 Fortitude check save or become [[Conditions/Drained 1|Drained 1]] (or the value of the creature's drained condition increases by 1 if it already has a drained value, to a maximum of drained 4).\nThe tenome regains 1d8 Hit Points each time it uses Bone Drink."
+    desc: "`pf2:2` (healing,occult) **Requirement** The tenome has a creature grabbed or restrained\n* * *\n\n**Effect** The tenome makes a jaws Strike against the grabbed or restrained creature. If the Strike hits, the creature must succeed at a DC 18 Fortitude check save or become [[Conditions/Drained|Drained 1]] (or the value of the creature's drained condition increases by 1 if it already has a drained value, to a maximum of drained 4).\n\nThe tenome regains 1d8 Hit Points each time it uses Bone Drink."
 
   - name: "Burst of Speed"
-    desc: "`pf2:1`  The tenome Strides twice, Steps twice, or Steps and Strides (in either order).\nIt cannot use Burst of Speed again for 1d4 rounds."
+    desc: "`pf2:1`  The tenome Strides twice, Steps twice, or Steps and Strides (in either order).\n\nIt cannot use Burst of Speed again for 1d4 rounds."
 
   - name: "Terrifying Gaze"
-    desc: "`pf2:1` (emotion,fear,incapacitation,mental,occult,visual) 1 or 2 actions\nA tenome can gaze at a creature within 30 feet by presenting one of its eyes. The target must succeed at a DC 21 Will check save or become [[Conditions/Frightened 1|Frightened 1]]. If the tenome uses 2 actions and presents both of its eyes, the target is also [[Conditions/Paralyzed|Paralyzed]] if it fails the save.\nA creature that successfully saves is temporarily immune for 24 hours."
+    desc: "`pf2:1` (emotion,fear,incapacitation,mental,occult,visual) 1 or 2 actions\n\nA tenome can gaze at a creature within 30 feet by presenting one of its eyes. The target must succeed at a DC 21 Will check save or become [[Conditions/Frightened|Frightened 1]]. If the tenome uses 2 actions and presents both of its eyes, the target is also [[Conditions/Paralyzed|Paralyzed]] if it fails the save.\n\nA creature that successfully saves is temporarily immune for 24 hours."
 
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
     desc: "`pf2:1`  "
  
+```
+
+```encounter-table
+name: Tenome
+creatures:
+  - 1: Tenome
 ```
 
 

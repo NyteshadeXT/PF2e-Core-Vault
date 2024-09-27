@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/hag
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/9
 statblock: inline
 name: "Grave Hag"
@@ -23,13 +24,13 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #182: Graveclaw"
 name: "Grave Hag"
 level: "Creature 9"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Medium"
-trait_01: "chaotic"
-trait_02: "evil"
-trait_03: "hag"
-trait_04: "humanoid"
+trait_01: [[chaotic]]
+trait_02: [[evil]]
+trait_03: [[hag]]
+trait_04: [[humanoid]]
 modifier: 18
 perception:
   - name: "Perception"
@@ -59,7 +60,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Sacrifice Ally"
-    desc: "`pf2:r`  **Trigger** The grave hag is adjacent to an ally when the hag is targeted by an attack or an effect that requires a Reflex saving throw\n**Effect** The triggering effect is redirected to target the ally."
+    desc: "`pf2:r`  **Trigger** The grave hag is adjacent to an ally when the hag is targeted by an attack or an effect that requires a Reflex saving throw\n* * *\n\n**Effect** The triggering effect is redirected to target the ally."
 
 attacks:
   - name: ""
@@ -74,10 +75,10 @@ attacks:
     desc: "DC 29, attack +19; __5th __  _[[Spells/Abyssal Plague|Abyssal Plague]]_, _[[Spells/Summon Undead|Animate Dead]]_, _[[Spells/Toxic Cloud|Cloudkill]]_; __3rd __  _[[Spells/Bind Undead|Bind Undead (x3)]]_, _[[Spells/Vampiric Feast|Vampiric Touch]]_; __2nd __  _[[Spells/Death Knell|Death Knell (At Will)]]_"
 
   - name: "Curse of the Grave"
-    desc: "`pf2:3` (curse,occult) The grave hag names a single creature within 30 feet; that creature must succeed at a DC 28 Will check save or be afflicted with a grave curse equal to the hag's level. The curse lasts until the hag chooses to end it or is slain, rather than by returning items. Regardless of the save result, the target is then temporarily immune to the hag's grave curse for 24 hours.\n**Effect** You are hounded by undead creatures of the same level as the curse. Every night, you must attempt a DC 15 Flat check check. On a failure, an incorporeal undead manifests to hassle and harry you throughout the night, retreating before it can take much damage and often preventing you from gaining a full night's rest. Whenever you enter a graveyard or other area where bodies are buried, you must succeed at the same flat check or a body animates as a corporeal undead (typically a skeleton or zombie) to attack you.\nThese undead are temporary and exist only to harry you; if you take control of the undead, move on, or otherwise avoid their attacks, incorporeal undead discorporate and corporeal undead collapse into ordinary corpses. The curse can be removed by returning the stolen items to their resting place."
+    desc: "`pf2:3` (curse,occult) The grave hag names a single creature within 30 feet; that creature must succeed at a DC 28 Will check save or be afflicted with a grave curse equal to the hag's level. The curse lasts until the hag chooses to end it or is slain, rather than by returning items. Regardless of the save result, the target is then temporarily immune to the hag's grave curse for 24 hours.\n* * *\n\n**Effect** You are hounded by undead creatures of the same level as the curse. Every night, you must attempt a DC 15 Flat check check. On a failure, an incorporeal undead manifests to hassle and harry you throughout the night, retreating before it can take much damage and often preventing you from gaining a full night's rest. Whenever you enter a graveyard or other area where bodies are buried, you must succeed at the same flat check or a body animates as a corporeal undead (typically a skeleton or zombie) to attack you.\n\nThese undead are temporary and exist only to harry you; if you take control of the undead, move on, or otherwise avoid their attacks, incorporeal undead discorporate and corporeal undead collapse into ordinary corpses. The curse can be removed by returning the stolen items to their resting place."
 
   - name: "Grave Impressions"
-    desc: "`pf2:2` (incapacitation,occult) The hag targets a living creature within 30 feet and overwhelms it with feelings of entombment. The target attempts a DC 28 Fortitude check save and is then temporarily immune to the hag's Grave Impressions for 24 hours.\n**Critical Success** The target is unaffected.\n**Success** The target is [[Conditions/Paralyzed|Paralyzed]] for 1 round.\n**Failure** The target is [[Conditions/Unconscious|Unconscious]].\n**Critical Failure** The target is unconscious and can't awaken for 1 hour."
+    desc: "`pf2:2` (incapacitation,occult) The hag targets a living creature within 30 feet and overwhelms it with feelings of entombment. The target attempts a DC 28 Fortitude check save and is then temporarily immune to the hag's Grave Impressions for 24 hours.\n* * *\n\n**Critical Success** The target is unaffected.\n\n**Success** The target is [[Conditions/Paralyzed|Paralyzed]] for 1 round.\n\n**Failure** The target is [[Conditions/Unconscious|Unconscious]].\n\n**Critical Failure** The target is unconscious and can't awaken for 1 hour."
 
   - name: "Grave's Grip"
     desc: "  Creatures [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]] by the grave hag take a -1 circumstance penalty to saving throws against the grave hag's spells and abilities."
@@ -88,6 +89,12 @@ attacks:
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
     desc: "`pf2:1`  "
  
+```
+
+```encounter-table
+name: Grave Hag
+creatures:
+  - 1: Grave Hag
 ```
 
 

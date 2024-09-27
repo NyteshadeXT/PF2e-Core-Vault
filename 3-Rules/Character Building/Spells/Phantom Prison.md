@@ -4,6 +4,7 @@ title: "Phantom Prison"
 noteType: pf2eSpell
 cssclasses: pf2e,pf2e-spell
 tags:
+  - pf2eSpell
   - spell/level/3
   - trait/concentrate
   - trait/illusion
@@ -12,22 +13,37 @@ tags:
   - trait/mental
   - trait/visual
   - trait/common
+  - tradition/arcane
+  - tradition/occult
+
 aliases: "Compendium.pf2e.spells-srd.Item.Pwq6T7xpfAJXV5aj" 
+license: OGL
 ---
-# Phantom Prison  `pf2:3`  
-## Spell 3
-### [[concentrate]][[illusion]][[incapacitation]][[manipulate]][[mental]][[visual]]
-**Traditions** [[arcane]], [[occult]]
-**Range** 50 feet
-**Targets** 1 creature
-**Saving Throw**  will
-**Duration** 1 minute
-* * * 
-You completely surround a Large or smaller creature in immobile illusory walls, trapping it inside a false prison it can't escape. No other creatures see or feel these walls, and the target can't see anything outside of the illusory walls. The target can attempt a Will save when the spell is cast, each time it attempts to interact with or escape the walls, and each time something from outside the walls affects the target. On a success, it disbelieves the illusion and the spell ends.
+```statblock
+name: "Phantom Prison  `pf2:3`"
+level: "Spell 3"
 
-* * *
-
-**Heightened (8th)** You can target up to 5 creatures.
-
-*Source: Pathfinder Secrets of Magic*
-*OGL*
+trait_01: [[concentrate]]
+trait_02: [[illusion]]
+trait_03: [[incapacitation]]
+trait_04: [[manipulate]]
+trait_05: [[mental]]
+trait_06: [[visual]]
+layout: Basic Pathfinder 2e Layout
+columns: 1
+columnWidth: x
+abilities_top:
+  - name: ""
+  - name: "Traditions"
+    desc: "arcane, occult"
+  - name: "Range"
+    desc: "50 feet; **Targets** 1 creature"
+  - name: "Defense"
+    desc: " will"
+  - name: "Duration"
+    desc: "1 minute"
+abilities_mid:
+  - name: ""
+    desc: "You completely surround a Large or smaller creature in immobile illusory walls, trapping it inside a false prison it can't escape. No other creatures see or feel these walls, and the target can't see anything outside of the illusory walls. The target can attempt a Will save when the spell is cast, each time it attempts to interact with or escape the walls, and each time something from outside the walls affects the target. On a success, it disbelieves the illusion and the spell ends.\n* * *\n\n**Heightened (8th)** You can target up to 5 creatures."
+sourcebook: "_Pathfinder Secrets of Magic_"
+```

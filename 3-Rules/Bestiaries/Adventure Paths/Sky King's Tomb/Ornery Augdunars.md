@@ -5,6 +5,7 @@ noteType: pf2eHazard
 tags:
   - animal
   - environmental
+  - pf2eHazard
   - complex
 source: Pathfinder #193: Mantle of Gold
 aliases: "Compendium.pf2e.sky-kings-tomb-bestiary.Actor.4XsYTdkDsNnz8jwq" 
@@ -22,8 +23,8 @@ name: "Ornery Augdunars"
 level: "Hazard 1"
 
 trait_06: "Complex"
-trait_01: "animal"
-trait_02: "environmental"
+trait_01: [[animal]]
+trait_02: [[environmental]]
 modifier: 8
 sourcebook: "_Pathfinder #193: Mantle of Gold_"
 ac: 16
@@ -51,7 +52,7 @@ attacks:
   - name: ""
 
   - name: "Rile"
-    desc: "`pf2:r` **Trigger** Algerschmick rolls initiative\n**Effect** The augdunars roll initiative."
+    desc: "`pf2:r` **Trigger** Algerschmick rolls initiative\n* * *\n\n**Effect** The augdunars roll initiative."
   - name: "Melee"
     desc: "Hoof +11 () "
   - name: "Melee"
@@ -63,5 +64,11 @@ attacks:
   - name: "Routine"
     desc: "(2 actions) The augdunars use an action to Strike one target with their jaws, and they use another action to [[Actions/Trip|Trip]] a different target (Athletics +9). If the augdunars have taken damage since their last turn, they instead use Lashing Hooves with their first action and then make either a jaws Strike or Trip attempt with their second action."
 
+```
+
+```encounter-table
+name: Ornery Augdunars
+creatures:
+  - 1: Ornery Augdunars
 ```
 

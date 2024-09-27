@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.pathfinder-bestiary-2.Actor.RFCxaIS4OkacCpxD"
 tags:
   - pf2e/creature/type/aberration
   - pf2e/creature/type/amphibious
+  - pf2eMonster
   - pf2e/creature/level/13
 statblock: inline
 name: "Froghemoth"
@@ -22,18 +23,19 @@ token: [[modules/pf2e-tokens-bestiaries/portraits/bestial/amphibian/froghemoth.w
 source: "Pathfinder Bestiary 2"
 name: "Froghemoth"
 level: "Creature 13"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "huge"
-trait_01: "aberration"
-trait_02: "amphibious"
+trait_01: [[aberration]]
+trait_02: [[amphibious]]
 modifier: 25
 perception:
   - name: "Perception"
     desc: "+25; Darkvision"
+languages: ""
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +23, Athletics: +27, Stealth: +27 (+30 in Swamps)"
+    desc: "Acrobatics: +23, Athletics: +27, Stealth: +27"
 abilityMods: [8, 6, 7, -4, 6, 4]
 speed: 20 feet,  swim 30 feet
 sourcebook: "_Pathfinder Bestiary 2_"
@@ -50,12 +52,12 @@ abilities_top:
   - name: ""
 
   - name: "Otherworldly Vision"
-    desc: " (visual) A froghemoth's alien eyes allow it to perceive creatures within 30 feet, even if they are [[Conditions/Invisible|Invisible]] or ethereal. It can still be fooled by successful Stealth checks to [[Actions/Hide|Hide]], but it has DC 38 Perception check in such cases. It also sees through and is unaffected by illusions with the visual trait if they are within 30 feet."
+    desc: " (visual) A froghemoth's alien eyes allow it to perceive creatures within 30 feet, even if they are [[Conditions/Invisible|Invisible]] or ethereal. It can still be fooled by successful Stealth checks to [[Actions/Hide|Hide]], but it has Perception DC 38 in such cases. It also sees through and is unaffected by illusions with the visual trait if they are within 30 feet."
 
 abilities_mid:
   - name: ""
   - name: "Electric Torpor"
-    desc: "  Though a froghemoth is immune to electricity damage, it is [[Conditions/Slowed 1|Slowed 1]] for 1 round whenever it would have otherwise taken electricity damage."
+    desc: "  Though a froghemoth is immune to electricity damage, it is [[Conditions/Slowed|Slowed 1]] for 1 round whenever it would have otherwise taken electricity damage."
 
 attacks:
   - name: ""
@@ -70,23 +72,29 @@ attacks:
     desc: "`pf2:1` Tongue +27 (agile, reach 30 feet)\n__Damage__  2d10 + 14 piercing plus barbed-tongue"
 
   - name: "[[Bestiary Ability Glossary/Aquatic Ambush|Aquatic Ambush]]"
-    desc: "`pf2:1`  40 feet\n"
+    desc: "`pf2:1`  40 feet\n\n* * *\n"
 
   - name: "Barbed Tongue"
-    desc: "  A creature hit by the froghemoth's tongue becomes [[Conditions/Grabbed|Grabbed]] by the froghemoth. The creature isn't [[Conditions/Immobilized|Immobilized]], but it can't move beyond the reach of the froghemoth's tongue. A creature can sever the tongue with a successful Strike against AC 31 that deals at least 15 slashing damage.\nThis deals no damage to the froghemoth but prevents it from using its tongue Strike until it regrows its tongue, which takes 1 minute."
+    desc: "  A creature hit by the froghemoth's tongue becomes [[Conditions/Grabbed|Grabbed]] by the froghemoth. The creature isn't [[Conditions/Immobilized|Immobilized]], but it can't move beyond the reach of the froghemoth's tongue. A creature can sever the tongue with a successful Strike against AC 31 that deals at least 15 slashing damage.\n\nThis deals no damage to the froghemoth but prevents it from using its tongue Strike until it regrows its tongue, which takes 1 minute."
 
   - name: "Flailing Tentacles"
     desc: "`pf2:2`  The froghemoth makes up to four tentacle Strikes, each against a different target. These count toward the froghemoth's multiple attack penalty, but the multiple attack penalty doesn't increase until after all the attacks."
 
   - name: "[[Bestiary Ability Glossary/Greater Constrict|Greater Constrict]]"
-    desc: "`pf2:1`  3d6 + 12 bludgeoning damage, DC 33 Fortitude check\n"
+    desc: "`pf2:1`  3d6+12 bludgeoning damage, DC 33 Fortitude check\n\n* * *\n"
 
   - name: "Retract Tongue"
     desc: "`pf2:2`  The froghemoth pulls a creature grabbed by its tongue toward itself. The froghemoth rolls an Athletics check check against the creature's Fortitude DC. On a success, the froghemoth pulls the creature into an adjacent space, and if it critically succeeds it can also make a bite Strike against the creature after the pull."
 
   - name: "[[Bestiary Ability Glossary/Swallow Whole|Swallow Whole]]"
-    desc: "`pf2:1` (attack) Large, 3d6 + 9 bludgeoning damage, Rupture 24\n"
+    desc: "`pf2:1` (attack) Large, 3d6+9 bludgeoning damage, Rupture 24\n\n* * *\n"
  
+```
+
+```encounter-table
+name: Froghemoth
+creatures:
+  - 1: Froghemoth
 ```
 
 

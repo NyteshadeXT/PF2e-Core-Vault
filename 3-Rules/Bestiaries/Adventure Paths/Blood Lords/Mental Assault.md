@@ -6,6 +6,7 @@ tags:
   - magical
   - mechanical
   - trap
+  - pf2eHazard
 
 source: Pathfinder #186: Ghost King&#x27;s Rage
 aliases: "Compendium.pf2e.blood-lords-bestiary.Actor.07DkxPmw2du1xu16" 
@@ -23,15 +24,15 @@ name: "Mental Assault"
 level: "Hazard 20"
 
 
-trait_01: "magical"
-trait_02: "mechanical"
-trait_03: "trap"
+trait_01: [[magical]]
+trait_02: [[mechanical]]
+trait_03: [[trap]]
 modifier: 41
 sourcebook: "_Pathfinder #186: Ghost King's Rage_"
 ac: 42
 armorclass:
   - name: AC
-    desc: "42; __Fort__ +36, __Ref__ +30, __Will__ +0"
+    desc: "42; __Fort__ +36, __Ref__ +30, "
 hp: 136
 health:
   - name: ""
@@ -53,10 +54,16 @@ attacks:
   - name: ""
 
   - name: "Shatter Mind"
-    desc: "`pf2:r` (mental) **Trigger** A creature attempts to Pick the Lock\n**Effect** The triggering creature takes 8d10 + 44 mental damage (DC 42 Will check). On a failed save, it's additionally [[Conditions/Confused|Confused]] for 1 minute."
+    desc: "`pf2:r` (mental) **Trigger** A creature attempts to Pick the Lock\n* * *\n\n**Effect** The triggering creature takes 8d10+44 mental damage (DC 42 Will check). On a failed save, it's additionally [[Conditions/Confused|Confused]] for 1 minute."
 
 
   - name: "Reset"
     desc: "The trap resets automatically if triggered and doesn't reset if disabled."
+```
+
+```encounter-table
+name: Mental Assault
+creatures:
+  - 1: Mental Assault
 ```
 

@@ -46,7 +46,7 @@ When you're unarmored, your flesh gives you a +2 item bonus to AC with a Dexteri
 
 * * *
 
-You imbue yourself with the resilience of the cave worm. When you gain the [[Conditions/Paralyzed|Paralyzed]], [[Conditions/Slowed 1|Slowed]], or [[Conditions/Stunned 1|Stunned]] condition, roll a DC 15 Flat check. On a success you ignore the condition.
+You imbue yourself with the resilience of the cave worm. When you gain the [[Conditions/Paralyzed|Paralyzed]], [[Conditions/Slowed|Slowed]], or [[Conditions/Stunned|Stunned]] condition, roll a DC 15 Flat check. On a success you ignore the condition.
 
 When using Worm Form you are immune to penalties to your Speed and the [[Conditions/Immobilized|Immobilized]] condition, you gain a +2 circumstance bonus to your Fortitude or Reflex DC against attempts to [[Actions/Shove|Shove]] or [[Actions/Trip|Trip]] you, and you ignore difficult terrain and greater difficult terrain.
 
@@ -98,19 +98,19 @@ When submerged in water or another liquid, you form small fin-like arms along yo
 
 * * *
 
-You call forth a ghostly manifestation of the worm spirit. Choose an intersection on the ground within 60 feet; the ghostly maw of a worm emerges from the ground, attacking all creatures in a 10-foot burst. Each creature in the area must attempt a reflex save.
+You call forth a ghostly manifestation of the worm spirit. Choose an intersection on the ground within 60 feet; the ghostly maw of a worm emerges from the ground, attacking all creatures in a @Template\[burst|distance:10\]. Each creature in the area must attempt a reflex save.
 
 * * *
 
 **Critical Success** The target is unaffected.
 
-**Success** The target takes 1d10 + 13 bludgeoning damage as it is battered by the worm's body.
+**Success** The target takes 1d10+13 bludgeoning damage as it is battered by the worm's body.
 
-**Failure** The target takes 3d10 + 15 piercing damage as it is bitten by the worm. The target is [[Conditions/Immobilized|Immobilized]] until the end of its next turn.
+**Failure** The target takes 3d10+15 piercing damage as it is bitten by the worm. The target is [[Conditions/Immobilized|Immobilized]] until the end of its next turn.
 
-**Critical Failure** As failure, but the damage increases to 6d10 + 30 bludgeoning and the target is knocked [[Conditions/Prone|Prone]].
+**Critical Failure** As failure, but the damage increases to 6d10+30 bludgeoning and the target is knocked [[Conditions/Prone|Prone]].
 
-## [[Feats/Tunnel|Tunnel]] Feat 2
+## [[Feats/Tunnel|Tunnel]] Feat 10
 
 **Prerequisites** Worm Caller Dedication
 
@@ -128,7 +128,7 @@ You gain a burrow speed of 10 feet.
 
 * * *
 
-You gain a fire breath weapon similar to that of a crimson worm. You breathe a blast of flame in a 30-foot cone that deals 12d6 fire damage to all creatures in the area (basic Reflex save). This damage increases by 2d6 at 14th level and every 2 levels thereafter.
+You gain a fire breath weapon similar to that of a crimson worm. You breathe a blast of flame in a @Template\[cone|distance:30\] that deals 12d6 fire damage to all creatures in the area (basic Reflex save). This damage increases by 2d6 at 14th level and every 2 levels thereafter.
 
 ## [[Feats/Venomous Touch|Venomous Touch]] Feat 12
 
@@ -160,15 +160,15 @@ You also gain specific abilities based on the type of monster you choose:
 
 **Melee** `pf2:1` jaws (deadly 2d10, reach 15 feet), **Damage** 3d10+15 piercing
 
-**Melee**`pf2:1` stinger (agile, poison, reach 15 feet), **Damage** 2d12+15 piercing plus 2d6 persistent poison
+**Melee** `pf2:1` stinger (agile, poison, reach 15 feet), **Damage** 2d12+15 piercing plus 2d6 persistent poison
 
-**Melee**`pf2:1` body (reach 15 feet) **Damage** 1d10+13 bludgeoning
+**Melee** `pf2:1` body (reach 15 feet) **Damage** 1d10+13 bludgeoning
 
 **Hybrid** Speed 40 feet
 
-**Melee**`pf2:1` stinger (agile, poison, reach 10 feet), **Damage** 2d12+15 piercing plus 1d6 persistent poison
+**Melee** `pf2:1` stinger (agile, poison, reach 10 feet), **Damage** 2d12+15 piercing plus 1d6 persistent poison
 
-**Melee**`pf2:1` body (reach 10 feet), **Damage** 1d10+13 bludgeoning
+**Melee** `pf2:1` body (reach 10 feet), **Damage** 1d10+13 bludgeoning
 
 **Hybrid Caster** You retain the ability to speak, and can cast spells as long as they don't have somatic or material components.
 

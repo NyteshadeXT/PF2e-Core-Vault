@@ -18,7 +18,7 @@ license: OGL
 
 
 
-When the divine warden is reduced to 0 HP, it erupts with divine energy in a 30-foot emanation, dealing 1d6 damageType damage per level. This damage is either vitality or void, determined by the patron deity's divine font (chosen at the divine warden's creation if the deity offers a choice), and this ability gains the corresponding trait. Each creature in the area must attempt a Will check save with the following outcomes.
+When the divine warden is reduced to 0 HP, it erupts with divine energy in a @Template\[emanation|distance:30\], dealing 1d6 damageType damage per level. This damage is either vitality or void, determined by the patron deity's divine font (chosen at the divine warden's creation if the deity offers a choice), and this ability gains the corresponding trait. Each creature in the area must attempt a Will check save with the following outcomes.
 
 * * *
 
@@ -26,9 +26,9 @@ When the divine warden is reduced to 0 HP, it erupts with divine energy in a 30-
 
 **Success** The creature takes full damage.
 
-**Failure** The creature takes full damage and becomes temporarily cursed by the patron deity. The creature becomes [[Conditions/Enfeebled 1|Enfeebled 1]] and [[Conditions/Stupefied 1|Stupefied 1]] for 1 day; this is a curse effect that uses the Will save DC as the counteract DC.
+**Failure** The creature takes full damage and becomes temporarily cursed by the patron deity. The creature becomes [[Conditions/Enfeebled|Enfeebled 1]] and [[Conditions/Stupefied|Stupefied 1]] for 1 day; this is a curse effect that uses the Will save DC as the counteract DC.
 
-**Critical Failure** As failure, except the creature becomes [[Conditions/Enfeebled 1|Enfeebled 2]] and [[Conditions/Stupefied 1|Stupefied 2]].
+**Critical Failure** As failure, except the creature becomes [[Conditions/Enfeebled|Enfeebled 2]] and [[Conditions/Stupefied|Stupefied 2]].
 
 *Source: Pathfinder Bestiary 3*
 *OGL*

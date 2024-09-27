@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.menace-under-otari-bestiary.Actor.YdBCG0vzOA5BgoIi"
 tags:
   - pf2e/creature/type/humanoid
   - pf2e/creature/type/xulgath
+  - pf2eMonster
   - pf2e/creature/level/3
   - remaster
 statblock: inline
@@ -25,12 +26,13 @@ level: "Creature 3"
 
 alignment: ""
 size: "Medium"
-trait_01: "humanoid"
-trait_02: "xulgath"
+trait_01: [[humanoid]]
+trait_02: [[xulgath]]
 modifier: 9
 perception:
   - name: "Perception"
     desc: "+9; Darkvision"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Athletics: +11, Intimidation: +6, Stealth: +6"
@@ -53,7 +55,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Stench"
-    desc: "  A creature that comes within 30-foot emanation of the xulgath and can smell the xulgath must attempt a DC 19 Fortitude check save. On a failure, the creature takes a -1 status penalty to all checks and DCs until it uses an action to retch. A creature that succeeds at its save isn't affected by any xulgaths' stenches for 1 minute _(Use [[Conditions/Sickened 1|Sickened 1]])_."
+    desc: "  A creature that comes within @Template[emanation|distance:30] of the xulgath and can smell the xulgath must attempt a DC 19 Fortitude check save. On a failure, the creature takes a -1 status penalty to all checks and DCs until it uses an action to retch. A creature that succeeds at its save isn't affected by any xulgaths' stenches for 1 minute _(Use [[Conditions/Sickened|Sickened 1]])_."
 
 attacks:
   - name: ""
@@ -73,6 +75,12 @@ attacks:
   - name: "Swipe"
     desc: "`pf2:2`  The xulgath boss makes two Strikes with their greataxe against two adjacent foes, both of whom are within their reach, with a +1 circumstance bonus. The second attack uses the same multiple attack penalty as the first, but attacks the xulgath boss makes after this take a -10 multiple attack penalty (or a -8 multiple attack penalty for its claw)."
  
+```
+
+```encounter-table
+name: Xulgath Leader (BB)
+creatures:
+  - 1: Xulgath Leader (BB)
 ```
 
 

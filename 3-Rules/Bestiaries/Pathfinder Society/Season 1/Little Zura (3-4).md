@@ -6,6 +6,7 @@ cssClasses: pf2e
 aliases: "Compendium.pf2e.pfs-season-1-bestiary.Actor.Gxy0zuO7aqC9NBv0" 
 tags:
   - pf2e/creature/type/animal
+  - pf2eMonster
   - pf2e/creature/level/3
 statblock: inline
 name: "Little Zura (3-4)"
@@ -20,18 +21,18 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Society Scenario #1-22: Doom of Cassomir"
 name: "Little Zura (3-4)"
 level: "Creature 3"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Medium"
-trait_01: "animal"
+trait_01: [[animal]]
 modifier: 7
 perception:
   - name: "Perception"
     desc: "+7; Darkvision"
-languages: "Draconic"
+languages: "Draconic; (can&#x27;t speak any language)"
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +8 (+10 to Escape), Athletics: +10, Stealth: +7"
+    desc: "Acrobatics: +8, Athletics: +10, Stealth: +7"
 abilityMods: [4, 2, 4, -4, 0, 0]
 speed: 30 feet,  climb 30 feet
 sourcebook: "_Pathfinder Society Scenario #1-22: Doom of Cassomir_"
@@ -62,11 +63,17 @@ attacks:
     desc: "`pf2:1` Slime Squirt +10 (range increment 30 feet)\n__Damage__ "
 
   - name: "Belly Grease"
-    desc: "`pf2:3`  The slurk extrudes a slippery grease from its ventral glands to coat the floor under it and in a 5-foot emanation, turning the affected area into uneven ground for 10 minutes, after which it dries to a putrid crust. The DC to Balance across the slime is 20."
+    desc: "`pf2:3`  The slurk extrudes a slippery grease from its ventral glands to coat the floor under it and in a @Template[emanation|distance:5], turning the affected area into uneven ground for 10 minutes, after which it dries to a putrid crust. The DC to Balance across the slime is 20."
 
   - name: "Entangling Slime"
-    desc: "  A creature struck by a slurk's slime squirt becomes [[Conditions/Clumsy 1|Clumsy 1]] and takes a -5-foot penalty to Speed for 1 hour or until the slime is removed. The slime can be removed with a total of three Interact actions by the entangled creature or creatures adjacent to the creature.\nThese actions don't need to be consecutive or made by the same creature."
+    desc: "  A creature struck by a slurk's slime squirt becomes [[Conditions/Clumsy|Clumsy 1]] and takes a -5-foot penalty to Speed for 1 hour or until the slime is removed. The slime can be removed with a total of three Interact actions by the entangled creature or creatures adjacent to the creature.\n\nThese actions don't need to be consecutive or made by the same creature."
  
+```
+
+```encounter-table
+name: Little Zura (3-4)
+creatures:
+  - 1: Little Zura (3-4)
 ```
 
 

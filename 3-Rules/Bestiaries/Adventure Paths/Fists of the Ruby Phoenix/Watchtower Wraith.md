@@ -11,6 +11,7 @@ tags:
   - pf2e/creature/type/undead
   - pf2e/creature/type/unholy
   - pf2e/creature/type/wraith
+  - pf2eMonster
   - pf2e/creature/level/16
 statblock: inline
 name: "Watchtower Wraith"
@@ -25,15 +26,15 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #166: Despair on Danger Island"
 name: "Watchtower Wraith"
 level: "Creature 16"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Medium"
-trait_01: "evil"
-trait_02: "incorporeal"
-trait_03: "lawful"
-trait_04: "undead"
-trait_05: "unholy"
-trait_06: "wraith"
+trait_01: [[evil]]
+trait_02: [[incorporeal]]
+trait_03: [[lawful]]
+trait_04: [[undead]]
+trait_05: [[unholy]]
+trait_06: [[wraith]]
 modifier: 28
 perception:
   - name: "Perception"
@@ -58,21 +59,21 @@ abilities_top:
   - name: ""
 
   - name: "Lifesense 60ft"
-    desc: " (divine) Wraiths sense the vital essence of living and undead creatures within the listed range.\nLifesense allows a monster to sense the vital essence of living and undead creatures within the listed range. The sense can distinguish between the vitality energy animating living creatures and the void energy animating undead creatures, much as sight distinguishes colors."
+    desc: " (divine) Wraiths sense the vital essence of living and undead creatures within the listed range.\n* * *\n\nLifesense allows a monster to sense the vital essence of living and undead creatures within the listed range. The sense can distinguish between the vitality energy animating living creatures and the void energy animating undead creatures, much as sight distinguishes colors."
 
   - name: "[[Creature Family Ability Glossary/(Ghost) Site Bound|Site Bound]]"
-    desc: "  The wraith is tied to its watchtower.\nA typical ghost can stray only a short distance from where it was killed or the place it haunts. A typical limit is 120 feet. Some ghosts are instead bound to a room, building, item, or creature that was special to it rather than a location."
+    desc: "  The wraith is tied to its watchtower.\n* * *\n\nA typical ghost can stray only a short distance from where it was killed or the place it haunts. A typical limit is 120 feet. Some ghosts are instead bound to a room, building, item, or creature that was special to it rather than a location."
 
 abilities_mid:
   - name: ""
   - name: "Attack of Opportunity"
-    desc: "`pf2:r`  **Trigger** A creature within the monster's reach uses a manipulate action or a move action, makes a ranged attack, or leaves a square during a move action it's using.\n**Effect** The monster attempts a melee Strike against the triggering creature. If the attack is a critical hit and the trigger was a manipulate action, the monster disrupts that action. This Strike doesn't count toward the monster's multiple attack penalty, and its multiple attack penalty doesn't apply to this Strike."
+    desc: "`pf2:r`  **Trigger** A creature within the monster's reach uses a manipulate action or a move action, makes a ranged attack, or leaves a square during a move action it's using.\n* * *\n\n**Effect** The monster attempts a melee Strike against the triggering creature. If the attack is a critical hit and the trigger was a manipulate action, the monster disrupts that action. This Strike doesn't count toward the monster's multiple attack penalty, and its multiple attack penalty doesn't apply to this Strike."
 
   - name: "[[Creature Family Ability Glossary/(Ghost) Rejuvenation|Rejuvenation]]"
     desc: " (divine) When the watchtower wraith is destroyed, it re-forms, fully healed, at the watchtower after 12 hours. Destroying the wraith and lighting its watchtower's brazier permanently destroys it."
 
   - name: "Sunlight Powerlessness"
-    desc: "  A wraith caught in sunlight is [[Conditions/Stunned 1|Stunned 2]] and [[Conditions/Clumsy 1|Clumsy 2]]."
+    desc: "  A wraith caught in sunlight is [[Conditions/Stunned|Stunned 2]] and [[Conditions/Clumsy|Clumsy 2]]."
 
 attacks:
   - name: ""
@@ -81,11 +82,17 @@ attacks:
     desc: "`pf2:1` Spectral Hand +32 (finesse)\n__Damage__  3d8 + 14 void"
 
   - name: "Drain Life"
-    desc: " (divine) When the wraith damages a living creature with its spectral hand Strike, the wraith gains 5 temporary Hit Points and the creature must succeed at a DC 36 Fortitude check save or become [[Conditions/Drained 1|Drained 1]]. Further damage dealt by the wraith increases the amount of drain by 1 on a failed save to a maximum of drained 4."
+    desc: " (divine) When the wraith damages a living creature with its spectral hand Strike, the wraith gains 5 temporary Hit Points and the creature must succeed at a DC 36 Fortitude check save or become [[Conditions/Drained|Drained 1]]. Further damage dealt by the wraith increases the amount of drain by 1 on a failed save to a maximum of drained 4."
 
   - name: "Wraith Spawn"
-    desc: " (divine) A living humanoid slain by a wraith's spectral hand Strike rises as a [[Bestiary 1/Wraith|Wraith Spawn]] after 1d4 rounds. This wraith spawn is under the command of the wraith that killed it. It doesn't have drain life or wraith spawn and becomes [[Conditions/Clumsy 1|Clumsy 2]] for as long as it is a wraith spawn. If the creator of the wraith spawn dies, the wraith spawn becomes a full-fledged, autonomous wraith; it regains its free will, gains Wraith Spawn, and is no longer clumsy."
+    desc: " (divine) A living humanoid slain by a wraith's spectral hand Strike rises as a [[Bestiary 1/Wraith|Wraith Spawn]] after 1d4 rounds. This wraith spawn is under the command of the wraith that killed it. It doesn't have drain life or wraith spawn and becomes [[Conditions/Clumsy|Clumsy 2]] for as long as it is a wraith spawn. If the creator of the wraith spawn dies, the wraith spawn becomes a full-fledged, autonomous wraith; it regains its free will, gains Wraith Spawn, and is no longer clumsy."
  
+```
+
+```encounter-table
+name: Watchtower Wraith
+creatures:
+  - 1: Watchtower Wraith
 ```
 
 

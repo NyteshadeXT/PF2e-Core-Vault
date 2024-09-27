@@ -6,6 +6,7 @@ cssClasses: pf2e
 aliases: "Compendium.pf2e.pfs-season-5-bestiary.Actor.eWYkgj6FV8D2IUhT" 
 tags:
   - pf2e/creature/type/undead
+  - pf2eMonster
   - pf2e/creature/level/5
 statblock: inline
 name: "Void Zombie Adventurer"
@@ -20,14 +21,15 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Society Scenario #5-09: Equal Exchange - Skymetal Hoard"
 name: "Void Zombie Adventurer"
 level: "Creature 5"
-rare_03: "Rare"
+rare_03: [[Rare]]
 alignment: ""
 size: "Medium"
-trait_01: "undead"
+trait_01: [[undead]]
 modifier: 8
 perception:
   - name: "Perception"
     desc: "+8; Darkvision"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Athletics: +6"
@@ -49,7 +51,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Salt Water Vulnerability"
-    desc: "  Salt water acts as an extremely strong acid on the larval akata inside the void zombie. Full immersion in salt water deals 4d6 acid damage per round. On any round in which the void zombie takes damage due to its salt water weakness, the larval akata retreats to the depths of the void zombie's body, causing the void zombie to become [[Conditions/Slowed 1|Slowed 1]] until the end of its next turn."
+    desc: "  Salt water acts as an extremely strong acid on the larval akata inside the void zombie. Full immersion in salt water deals 4d6 acid damage per round. On any round in which the void zombie takes damage due to its salt water weakness, the larval akata retreats to the depths of the void zombie's body, causing the void zombie to become [[Conditions/Slowed|Slowed 1]] until the end of its next turn."
 
 attacks:
   - name: ""
@@ -61,8 +63,14 @@ attacks:
     desc: "`pf2:1` Feeding Tendril +12 (agile)\n__Damage__  2d8 + 4 piercing plus feed-on-blood"
 
   - name: "Blood Drain"
-    desc: "`pf2:1`  **Requirements** The void zombie's previous action was a successful feeding tendril Strike against the target creature.\n**Effect** The void zombie uses its feeding tendril to drain blood from the creature it has struck. This deals 2d4 bleed damage, and a creature that takes this damage is [[Conditions/Drained 1|Drained 1]] until it receives healing (of any kind or amount)."
+    desc: "`pf2:1`  **Requirements** The void zombie's previous action was a successful feeding tendril Strike against the target creature.\n* * *\n\n**Effect** The void zombie uses its feeding tendril to drain blood from the creature it has struck. This deals 2d4 bleed damage, and a creature that takes this damage is [[Conditions/Drained|Drained 1]] until it receives healing (of any kind or amount)."
  
+```
+
+```encounter-table
+name: Void Zombie Adventurer
+creatures:
+  - 1: Void Zombie Adventurer
 ```
 
 

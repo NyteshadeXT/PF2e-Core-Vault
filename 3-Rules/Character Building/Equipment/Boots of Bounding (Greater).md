@@ -12,7 +12,7 @@ license: ORC
 ---
 # Boots of Bounding (Greater)
 ## Item 14
-### [[invested]][[magical]]
+### [[invested]][[3-Rules/Rule References/Magical]]
 
 
 **Price** 4250 gp; 

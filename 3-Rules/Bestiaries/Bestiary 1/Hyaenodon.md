@@ -6,6 +6,7 @@ cssClasses: pf2e
 aliases: "Compendium.pf2e.pathfinder-bestiary.Actor.VcUdFYNaxauNr5Hn" 
 tags:
   - pf2e/creature/type/animal
+  - pf2eMonster
   - pf2e/creature/level/3
 statblock: inline
 name: "Hyaenodon"
@@ -24,11 +25,12 @@ level: "Creature 3"
 
 alignment: ""
 size: "Large"
-trait_01: "animal"
+trait_01: [[animal]]
 modifier: 9
 perception:
   - name: "Perception"
     desc: "+9; Low-Light Vision, Scent (Imprecise) 30 Feet"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Acrobatics: +8, Athletics: +12, Stealth: +8"
@@ -56,7 +58,7 @@ attacks:
     desc: "`pf2:1` Jaws +12 ()\n__Damage__  1d10 + 5 piercing plus bonecrunching-bite,knockdown"
 
   - name: "Bonecrunching Bite"
-    desc: "  A creature that is critically hit by a hyaenodon must succeed at a DC 20 Fortitude check save or become [[Conditions/Wounded 1|Wounded 1]] as the creature's bones or cartilage are crushed by the beast's jaws."
+    desc: "  A creature that is critically hit by a hyaenodon must succeed at a DC 20 Fortitude check save or become [[Conditions/Wounded|Wounded 1]] as the creature's bones or cartilage are crushed by the beast's jaws."
 
   - name: "Drag"
     desc: "`pf2:1`  The hyaenodon makes a jaws Strike against a [[Conditions/Prone|Prone]] enemy. If it hits, in addition to dealing damage, the hyaenodon Strides up to 10 feet, dragging the enemy along."
@@ -65,8 +67,14 @@ attacks:
     desc: "  The hyaenodon deals an extra 1d6 damage to any creature within reach of at least two of the hyaenodon's allies."
 
   - name: "Knockdown"
-    desc: "`pf2:1`  **Requirements** The monster's last action was a successful Strike that lists Knockdown in its damage entry\n**Effect** The monster attempts to [[Actions/Trip|Trip]] the creature. This attempt neither applies nor counts toward the monster's multiple attack penalty."
+    desc: "`pf2:1`  **Requirements** The monster's last action was a successful Strike that lists Knockdown in its damage entry\n* * *\n\n**Effect** The monster attempts to [[Actions/Trip|Trip]] the creature. This attempt neither applies nor counts toward the monster's multiple attack penalty."
  
+```
+
+```encounter-table
+name: Hyaenodon
+creatures:
+  - 1: Hyaenodon
 ```
 
 

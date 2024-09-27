@@ -10,6 +10,7 @@ tags:
   - pf2e/creature/type/ghoul
   - pf2e/creature/type/undead
   - pf2e/creature/type/unholy
+  - pf2eMonster
   - pf2e/creature/level/11
 statblock: inline
 name: "Yulthruk"
@@ -24,14 +25,14 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #183: Field of Maidens"
 name: "Yulthruk"
 level: "Creature 11"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Medium"
-trait_01: "chaotic"
-trait_02: "evil"
-trait_03: "ghoul"
-trait_04: "undead"
-trait_05: "unholy"
+trait_01: [[chaotic]]
+trait_02: [[evil]]
+trait_03: [[ghoul]]
+trait_04: [[undead]]
+trait_05: [[unholy]]
 modifier: 21
 perception:
   - name: "Perception"
@@ -55,14 +56,14 @@ health:
 abilities_top:
   - name: ""
   - name: "Items"
-    desc: "[[Equipment/Wand of Shardstorm (3rd-Rank Spell)|Wand of Manifold Missiles (3rd-Level Spell)]]"
+    desc: "[[Equipment/Wand of Shardstorm (3rd-Rank Spell)|Wand of Manifold Missiles (3rd-Rank Spell)]]"
 abilities_mid:
   - name: ""
   - name: "Consume Arcana"
-    desc: "`pf2:r`  **Trigger** Yulthruk succeeds at a saving throw against an arcane spell cast by another creature\n**Effect** Yulthruk inhales some of the averted energy and becomes [[Conditions/Quickened|Quickened]] until the start of his next turn. He can use this extra action to Cast a Spell or Sustain a Spell"
+    desc: "`pf2:r`  **Trigger** Yulthruk succeeds at a saving throw against an arcane spell cast by another creature\n* * *\n\n**Effect** Yulthruk inhales some of the averted energy and becomes [[Conditions/Quickened|Quickened]] until the start of his next turn. He can use this extra action to Cast a Spell or Sustain a Spell"
 
   - name: "[[Creature Family Ability Glossary/(Ghast) Stench|Stench]]"
-    desc: " (aura,olfactory) 10 feet. A creature entering the aura or starting its turn in the aura must succeed at a DC 28 Fortitude check save or become [[Conditions/Sickened 1|Sickened 1]] (plus [[Conditions/Slowed 1|Slowed 1]] as long as it's sickened on a critical failure).\nWhile within the aura, the creature takes a -2 circumstance penalty to saves against disease and to recover from the sickened condition. A creature that succeeds at its save is temporarily immune for 1 minute.\n[[Bestiary Effects/Effect_ Stench|Effect: Stench]]"
+    desc: " (aura,olfactory) 10 feet. A creature entering the aura or starting its turn in the aura must succeed at a DC 28 Fortitude check save or become [[Conditions/Sickened|Sickened 1]] (plus [[Conditions/Slowed|Slowed 1]] as long as it's sickened on a critical failure).\n\nWhile within the aura, the creature takes a -2 circumstance penalty to saves against disease and to recover from the sickened condition. A creature that succeeds at its save is temporarily immune for 1 minute.\n\n[[Bestiary Effects/Effect_ Stench|Effect: Stench]]"
 
 attacks:
   - name: ""
@@ -77,13 +78,13 @@ attacks:
     desc: "DC 33, attack +25; __6th __  _[[Spells/Chain Lightning|Chain Lightning]]_, _[[Spells/Vampiric Exsanguination|Vampiric Exsanguination]]_; __5th __  _[[Spells/Black Tentacles|Black Tentacles]]_, _[[Spells/Cone of Cold|Cone of Cold]]_, _[[Spells/Shadow Siphon|Shadow Siphon]]_; __4th __  _[[Spells/Flicker|Blink]]_, _[[Spells/Phantasmal Killer|Phantasmal Killer]]_, _[[Spells/Weapon Storm|Weapon Storm]]_; __3rd __  _[[Spells/Blindness|Blindness]]_, _[[Spells/Paralyze|Paralyze]]_, _[[Spells/Vampiric Feast|Vampiric Touch]]_; __2nd __  _[[Spells/Invisibility|Invisibility]]_, _[[Spells/See the Unseen|See Invisibility]]_, _[[Spells/Ghostly Carrier|Spectral Hand]]_; __1st __  _[[Spells/Grim Tendrils|Grim Tendrils]]_, _[[Spells/Force Barrage|Magic Missile]]_, _[[Spells/Enfeeble|Ray of Enfeeblement]]_\n__Cantrips__  __(6th)__ _[[Spells/Electric Arc|Electric Arc]]_, _[[Spells/Ghost Sound|Ghost Sound]]_, _[[Spells/Ray of Frost|Ray of Frost]]_, _[[Spells/Shield|Shield]]_"
 
   - name: "[[Creature Family Ability Glossary/(Ghast) Consume Flesh|Consume Flesh]]"
-    desc: "`pf2:1` (manipulate) **Requirements** The ghast is adjacent to the corpse of a creature that died within the last hour.\n**Effect** The ghast devours a chunk of the corpse and regains 6d6 Hit Points.\nIt can regain Hit Points from any given corpse only once."
+    desc: "`pf2:1` (manipulate) **Requirements** The ghast is adjacent to the corpse of a creature that died within the last hour.\n* * *\n\n**Effect** The ghast devours a chunk of the corpse and regains 6d6 Hit Points.\n\nIt can regain Hit Points from any given corpse only once."
 
   - name: "Drain Wand"
-    desc: "  **Frequency** once per day\n**Requirements** Yulthruk hasn't acted yet on his turn\n**Effect** On his turn Yulthruk can Cast a Spell he's prepared and already cast this day without spending a spell slot. Yulthruk must still meet the spell's other requirements."
+    desc: "  **Frequency** once per day\n\n**Requirements** Yulthruk hasn't acted yet on his turn\n* * *\n\n**Effect** On his turn Yulthruk can Cast a Spell he's prepared and already cast this day without spending a spell slot. Yulthruk must still meet the spell's other requirements."
 
   - name: "[[Creature Family Ability Glossary/(Ghast) Ghast Fever|Ghast Fever]]"
-    desc: " (disease) **Saving Throw** DC 28 Fortitude check\n**Stage 1** carrier with no ill effect (1 day)\n**Stage 2** 3d8 void damage and regains half as many Hit Points from all healing (1 day)\n**Stage 3** as stage 2 (1 day)\n**Stage 4** 3d8 void damage and gains no benefit from healing (1 day)\n**Stage 5** as stage 4 (1 day)\n**Stage 6** dead, and rises as a [[Bestiary 1/Ghast|Ghast]] the next midnight"
+    desc: " (disease) **Saving Throw** DC 28 Fortitude check\n* * *\n\n**Stage 1** carrier with no ill effect (1 day)\n\n**Stage 2** 3d8 void damage and regains half as many Hit Points from all healing (1 day)\n\n**Stage 3** as stage 2 (1 day)\n\n**Stage 4** 3d8 void damage and gains no benefit from healing (1 day)\n\n**Stage 5** as stage 4 (1 day)\n\n**Stage 6** dead, and rises as a [[Bestiary 1/Ghast|Ghast]] the next midnight"
 
   - name: "[[Creature Family Ability Glossary/(Ghast) Paralysis|Paralysis]]"
     desc: " (incapacitation,occult) Any living creature hit by a ghast's attack must succeed at a DC 28 Fortitude check save or become [[Conditions/Paralyzed|Paralyzed]]. It can attempt a new save at the end of each of its turns, and the DC cumulatively decreases by 1 on each such save."
@@ -91,6 +92,12 @@ attacks:
   - name: "Swift Leap"
     desc: "`pf2:1`  Yulthruk jumps up to half his Speed. This movement doesn't trigger reactions."
  
+```
+
+```encounter-table
+name: Yulthruk
+creatures:
+  - 1: Yulthruk
 ```
 
 

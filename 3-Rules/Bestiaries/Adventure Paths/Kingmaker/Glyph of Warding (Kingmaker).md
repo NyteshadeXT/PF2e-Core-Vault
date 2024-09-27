@@ -5,6 +5,7 @@ noteType: pf2eHazard
 tags:
   - magical
   - trap
+  - pf2eHazard
 
 source: Pathfinder Kingmaker
 aliases: "Compendium.pf2e.kingmaker-bestiary.Actor.oBPdL0icCG5zmknB" 
@@ -22,8 +23,8 @@ name: "Glyph of Warding (Kingmaker)"
 level: "Hazard 13"
 
 
-trait_01: "magical"
-trait_02: "trap"
+trait_01: [[magical]]
+trait_02: [[trap]]
 modifier: 24
 sourcebook: "_Pathfinder Kingmaker_"
 perception:
@@ -42,9 +43,15 @@ attacks:
   - name: ""
 
   - name: "Release Spell"
-    desc: "`pf2:r` **Trigger** A creature attempting to open the desk drawer or the secret door to area **D6** triggers the associated glyph\n**Effect** The glyph of warding targets the creature with a [[Spells/Spirit Blast|Spirit Blast]] (DC 34 Fortitude check save)."
+    desc: "`pf2:r` **Trigger** A creature attempting to open the desk drawer or the secret door to area **D6** triggers the associated glyph\n\n**Effect** The glyph of warding targets the creature with a [[Spells/Spirit Blast|Spirit Blast]] (DC 34 Fortitude check save)."
 
 
 
+```
+
+```encounter-table
+name: Glyph of Warding (Kingmaker)
+creatures:
+  - 1: Glyph of Warding (Kingmaker)
 ```
 

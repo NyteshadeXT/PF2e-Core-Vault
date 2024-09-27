@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.pathfinder-bestiary-3.Actor.kuh9DOsFXybRZRlj"
 tags:
   - pf2e/creature/type/aberration
   - pf2e/creature/type/evil
+  - pf2eMonster
   - pf2e/creature/level/15
 statblock: inline
 name: "Tolokand"
@@ -22,15 +23,16 @@ token: [[modules/pf2e-tokens-bestiaries/portraits/aberrant/humanoid/tolokand.web
 source: "Pathfinder Bestiary 3"
 name: "Tolokand"
 level: "Creature 15"
-rare_03: "Rare"
+rare_03: [[Rare]]
 alignment: ""
 size: "Large"
-trait_01: "aberration"
-trait_02: "evil"
+trait_01: [[aberration]]
+trait_02: [[evil]]
 modifier: 27
 perception:
   - name: "Perception"
     desc: "+27; Darkvision"
+languages: "no voice, tongues"
 skills:
   - name: "Skills"
     desc: "Acrobatics: +25, Athletics: +29, Intimidation: +22, Survival: +31"
@@ -55,10 +57,10 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Heartless Furnace"
-    desc: " (aura,occult) 50 feet. 2d6 poison damage (DC 34 Fortitude check save).\nThe poisonous smoke that bellows from a tolokand makes all creatures inside it [[Conditions/Concealed|Concealed]], and all creatures outside the smoke are concealed to creatures within it."
+    desc: " (aura,occult) 50 feet. 2d6 poison damage (DC 34 Fortitude check save).\n\nThe poisonous smoke that bellows from a tolokand makes all creatures inside it [[Conditions/Concealed|Concealed]], and all creatures outside the smoke are concealed to creatures within it."
 
   - name: "Inexorable"
-    desc: "  The tolokand recovers from the [[Conditions/Paralyzed|Paralyzed]], [[Conditions/Slowed 1|Slowed]], and [[Conditions/Stunned 1|Stunned]] conditions at the end of its turn. It's also immune to penalties to its Speeds and ignores difficult terrain and greater difficult terrain."
+    desc: "  The tolokand recovers from the [[Conditions/Paralyzed|Paralyzed]], [[Conditions/Slowed|Slowed]], and [[Conditions/Stunned|Stunned]] conditions at the end of its turn. It's also immune to penalties to its Speeds and ignores difficult terrain and greater difficult terrain."
 
   - name: "Toxic Blood"
     desc: "  When a creature scores a critical hit against the tolokand with a piercing or slashing Strike, the tolokand's poisonous, oily blood sprays forth. Any creature within 5 feet of the tolokand takes 3d6 poison damage (DC 34 Reflex check save). Any non-creature plants the blood spills on die."
@@ -79,8 +81,14 @@ attacks:
     desc: "  Whenever the tolokand ends a move action during which it moved 30 feet or farther, it automatically casts one of its innate spells as a free action."
 
   - name: "Sudden Destruction"
-    desc: "`pf2:1`  **Requirements** The tolokand hasn't cast any of its spontaneous spells this turn\n**Effect** The tolokand casts one of its spontaneous spells, using up the spell slot normally. The tolokand can't cast any further spontaneous spells this turn and can't use this ability again for 1d4 rounds."
+    desc: "`pf2:1`  **Requirements** The tolokand hasn't cast any of its spontaneous spells this turn\n* * *\n\n**Effect** The tolokand casts one of its spontaneous spells, using up the spell slot normally. The tolokand can't cast any further spontaneous spells this turn and can't use this ability again for 1d4 rounds."
  
+```
+
+```encounter-table
+name: Tolokand
+creatures:
+  - 1: Tolokand
 ```
 
 

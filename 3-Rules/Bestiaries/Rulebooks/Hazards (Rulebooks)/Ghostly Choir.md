@@ -4,6 +4,7 @@ obsidianUIMode: preview
 noteType: pf2eHazard
 tags:
   - haunt
+  - pf2eHazard
 
   - remaster
 source: Pathfinder GM Core
@@ -22,7 +23,7 @@ name: "Ghostly Choir"
 level: "Hazard 6"
 
 
-trait_01: "haunt"
+trait_01: [[haunt]]
 modifier: 10
 sourcebook: "_Pathfinder GM Core_"
 perception:
@@ -41,9 +42,15 @@ attacks:
   - name: ""
 
   - name: "Profane Chant"
-    desc: "`pf2:r` (auditory, emotion, fear, mental, occult) **Trigger** A creature moves within 10 feet of the section of floor from which the choir can arise\n**Effect** The choir rises, and its song deals 4d8 + 18 mental damage to non-evil creatures within 30 feet of the souls' spectral forms. Affected creatures must each attempt a DC 24 Will check save.\n**Critical Success** The creature is unaffected.\n**Success** The creature takes half damage and becomes [[Conditions/Frightened 1|Frightened 1]].\n**Failure** The creature takes full damage and becomes [[Conditions/Frightened 1|Frightened 2]].\n**Critical Failure** The creature takes double damage. It also becomes [[Conditions/Frightened 1|Frightened 3]] and [[Conditions/Fleeing|Fleeing]] for 1 round."
+    desc: "`pf2:r` (auditory, emotion, fear, mental, occult) **Trigger** A creature moves within 10 feet of the section of floor from which the choir can arise\n* * *\n\n**Effect** The choir rises, and its song deals 4d8+18 mental damage to non-evil creatures within 30 feet of the souls' spectral forms. Affected creatures must each attempt a DC 24 Will check save.\n* * *\n\n**Critical Success** The creature is unaffected.\n\n**Success** The creature takes half damage and becomes [[Conditions/Frightened|Frightened 1]].\n\n**Failure** The creature takes full damage and becomes [[Conditions/Frightened|Frightened 2]].\n\n**Critical Failure** The creature takes double damage. It also becomes [[Conditions/Frightened|Frightened 3]] and [[Conditions/Fleeing|Fleeing]] for 1 round."
 
 
 
+```
+
+```encounter-table
+name: Ghostly Choir
+creatures:
+  - 1: Ghostly Choir
 ```
 

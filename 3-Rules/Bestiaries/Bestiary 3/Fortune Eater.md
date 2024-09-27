@@ -11,6 +11,7 @@ tags:
   - pf2e/creature/type/spirit
   - pf2e/creature/type/undead
   - pf2e/creature/type/unholy
+  - pf2eMonster
   - pf2e/creature/level/7
 statblock: inline
 name: "Fortune Eater"
@@ -26,19 +27,20 @@ token: [[modules/pf2e-tokens-bestiaries/portraits/undead/ghostly/fortune-eater.w
 source: "Pathfinder Bestiary 3"
 name: "Fortune Eater"
 level: "Creature 7"
-rare_03: "Rare"
+rare_03: [[Rare]]
 alignment: ""
 size: "Large"
-trait_01: "chaotic"
-trait_02: "evil"
-trait_03: "incorporeal"
-trait_04: "spirit"
-trait_05: "undead"
-trait_06: "unholy"
+trait_01: [[chaotic]]
+trait_02: [[evil]]
+trait_03: [[incorporeal]]
+trait_04: [[spirit]]
+trait_05: [[undead]]
+trait_06: [[unholy]]
 modifier: 13
 perception:
   - name: "Perception"
     desc: "+13; Darkvision"
+languages: "languages spoken by the adventurers (typically common, dwarven, elven, and goblin)"
 skills:
   - name: "Skills"
     desc: "Deception: +15, Intimidation: +13, Performance: +15, Stealth: +15"
@@ -63,13 +65,13 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Luck Osmosis"
-    desc: "`pf2:r` (divine) **Trigger** A creature affected by the fortune eater's unluck aura has just rolled two d20s for a check and taken the lower result\n**Effect** The fortune-eater stores the higher of the two numbers rolled and uses that number in place of their next d20 roll; this is a fortune effect. They can have only one number stored at a time."
+    desc: "`pf2:r` (divine) **Trigger** A creature affected by the fortune eater's unluck aura has just rolled two d20s for a check and taken the lower result\n* * *\n\n**Effect** The fortune-eater stores the higher of the two numbers rolled and uses that number in place of their next d20 roll; this is a fortune effect. They can have only one number stored at a time."
 
   - name: "[[Creature Family Ability Glossary/(Ghost) Rejuvenation|Rejuvenation]]"
-    desc: " (divine) Offering the fortune eater a chance to be instrumental in completing a heroic deed releases their component spirits to move on to the afterlife.\nWhen a ghost is destroyed, it re-forms after 2d4 days within the location it's bound to, fully healed. A ghost can be permanently destroyed only if someone determines the reason for its existence and sets right whatever prevents the spirit from resting."
+    desc: " (divine) Offering the fortune eater a chance to be instrumental in completing a heroic deed releases their component spirits to move on to the afterlife.\n* * *\n\nWhen a ghost is destroyed, it re-forms after 2d4 days within the location it's bound to, fully healed. A ghost can be permanently destroyed only if someone determines the reason for its existence and sets right whatever prevents the spirit from resting."
 
   - name: "Unluck Aura"
-    desc: " (aura,divine,mental,misfortune) 20 feet. A creature entering the area must attempt a DC 23 Will check save, rolling the save twice and using the worse result. On a successful save, the creature is temporarily immune to fortune eater unluck auras for 24 hours. On a failure, the creature must roll twice and use the worse result on all checks as long as it is within the aura.\n[[Bestiary Effects/Effect_ Unluck Aura|Effect: Unluck Aura]]"
+    desc: " (aura,divine,mental,misfortune) 20 feet. A creature entering the area must attempt a DC 23 Will check save, rolling the save twice and using the worse result. On a successful save, the creature is temporarily immune to fortune eater unluck auras for 24 hours. On a failure, the creature must roll twice and use the worse result on all checks as long as it is within the aura.\n\n[[Bestiary Effects/Effect_ Unluck Aura|Effect: Unluck Aura]]"
 
 attacks:
   - name: ""
@@ -86,6 +88,12 @@ attacks:
   - name: "Team Attack"
     desc: "`pf2:3`  Dead teammates coalesce to attack with phantasmal versions of the weapons they used in life. The fortune eater makes a ghostly longsword Strike, ghostly dagger Strike, and ghostly longbow Strike in any order. Each must target a different creature. Their multiple attack penalty doesn't increase until after all the attacks."
  
+```
+
+```encounter-table
+name: Fortune Eater
+creatures:
+  - 1: Fortune Eater
 ```
 
 

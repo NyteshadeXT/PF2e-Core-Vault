@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/ethereal
   - pf2e/creature/type/evil
   - pf2e/creature/type/plant
+  - pf2eMonster
   - pf2e/creature/level/7
 statblock: inline
 name: "Potted Violet Etheroot"
@@ -22,17 +23,17 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Society Scenario #4-17: Trapping the Hag&#x27;s Claw"
 name: "Potted Violet Etheroot"
 level: "Creature 7"
-rare_03: "Rare"
+rare_03: [[Rare]]
 alignment: ""
 size: "Large"
-trait_01: "ethereal"
-trait_02: "evil"
-trait_03: "plant"
+trait_01: [[ethereal]]
+trait_02: [[evil]]
+trait_03: [[plant]]
 modifier: 18
 perception:
   - name: "Perception"
     desc: "+18; Darkvision, Motion Sense (Precise) 120 Feet, See the Unseen"
-languages: "Aklo"
+languages: "Aklo; can&#x27;t speak any language; telepathy 100 feet"
 skills:
   - name: "Skills"
     desc: "Arcana: +15, Occultism: +15"
@@ -72,7 +73,7 @@ attacks:
     desc: "DC 25, attack +17\n__Constant__  __(4th)__ _[[Spells/See the Unseen|See Invisibility]]_"
 
   - name: "Incite Emotion"
-    desc: "`pf2:1` (emotion,mental,occult) **Requirements** The etheroot's last action was a success with a Strike using its stalked bite.\n**Effect** Wounds caused by the potted violet etheroot's stalked bite can create an intense emotional response. The creature damaged by the etheroot's stalked bite is subjected to an effect of the etheroot's choice from the following (DC 22 Will check save; duration 1 minute unless otherwise stated):\n*   **Despair**: Target must attempt a Will save as if subjected to the [[Spells/Wave of Despair|Wave of Despair]] spell.\n*   **Fear**: Target must attempt a Will save as if targeted by the [[Spells/Fear|Fear]] spell.\n*   **Hope**: Target is affected as if subjected to the [[Spells/Courageous Anthem|Courageous Anthem]] cantrip and must attempt a Will save to determine duration.\n**Critical Success** The target is affected for 4 rounds.\n**Success** The target is affected for 3 rounds.\n**Failure** The target is affected for 1 round.\n**Critical Failure** The target is unaffected.\n*   **Serenity**: Target must attempt a Will save as if subjected to the [[Spells/Calm|Calm]] spell."
+    desc: "`pf2:1` (emotion,mental,occult) **Requirements** The etheroot's last action was a success with a Strike using its stalked bite.\n* * *\n\n**Effect** Wounds caused by the potted violet etheroot's stalked bite can create an intense emotional response. The creature damaged by the etheroot's stalked bite is subjected to an effect of the etheroot's choice from the following (DC 22 Will check save; duration 1 minute unless otherwise stated):\n\n*   **Despair**: Target must attempt a Will save as if subjected to the [[Spells/Wave of Despair|Wave of Despair]] spell.\n*   **Fear**: Target must attempt a Will save as if targeted by the [[Spells/Fear|Fear]] spell.\n*   **Hope**: Target is affected as if subjected to the [[Spells/Courageous Anthem|Courageous Anthem]] cantrip and must attempt a Will save to determine duration.\n\n**Critical Success** The target is affected for 4 rounds.\n\n**Success** The target is affected for 3 rounds.\n\n**Failure** The target is affected for 1 round.\n\n**Critical Failure** The target is unaffected.\n\n*   **Serenity**: Target must attempt a Will save as if subjected to the [[Spells/Calm|Calm]] spell."
 
   - name: "Tentacle Flurry"
     desc: "`pf2:1`  The potted violet etheroot makes two Strikes with two different tentacles, each limb targeting a different creature. This counts as two attacks toward the etheroot's multiple attack penalty for further actions, but the penalty doesn't increase until after both attacks are made."
@@ -80,6 +81,12 @@ attacks:
   - name: "[[Bestiary Ability Glossary/Knockdown|Knockdown]]"
     desc: "`pf2:1`  "
  
+```
+
+```encounter-table
+name: Potted Violet Etheroot
+creatures:
+  - 1: Potted Violet Etheroot
 ```
 
 

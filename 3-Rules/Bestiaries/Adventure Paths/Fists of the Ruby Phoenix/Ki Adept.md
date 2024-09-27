@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.fists-of-the-ruby-phoenix-bestiary.Actor.o8UMCrKWf89xN
 tags:
   - pf2e/creature/type/human
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/13
 statblock: inline
 name: "Ki Adept"
@@ -21,11 +22,11 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #166: Despair on Danger Island"
 name: "Ki Adept"
 level: "Creature 13"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Medium"
-trait_01: "human"
-trait_02: "humanoid"
+trait_01: [[human]]
+trait_02: [[humanoid]]
 modifier: 23
 perception:
   - name: "Perception"
@@ -65,7 +66,7 @@ attacks:
     desc: "`pf2:1` Dart +24 (agile, magical, thrown 20 ft.)\n__Damage__  2d6 + 9 bludgeoning"
 
   - name: "Focus Spells"
-    desc: "3 Focus Points, DC 32, attack +25; __7th __ (3 slots) _[[Spells/Abundant Step|Abundant Step]]_, _[[Spells/Ki Blast|Ki Blast]]_, _[[Spells/Ki Rush|Ki Rush]]_, _[[Spells/Ki Strike|Ki Strike]]_, _[[Spells/Wholeness of Body|Wholeness of Body]]_, _[[Spells/Wind Jump|Wind Jump]]_"
+    desc: "3 Focus Points, DC 32, attack +25; __7th __ (3 slots) _[[Spells/Shrink the Span|Abundant Step]]_, _[[Spells/Qi Blast|Ki Blast]]_, _[[Spells/Qi Rush|Ki Rush]]_, _[[Spells/Inner Upheaval|Ki Strike]]_, _[[Spells/Harmonize Self|Wholeness of Body]]_, _[[Spells/Wind Jump|Wind Jump]]_"
 
   - name: "Flurry of Blows"
     desc: "`pf2:1` (flourish) The ki adept makes two Strikes with his fist or with a monk weapon. If both hit the same creature, combine their damage for the purpose of resistances and weaknesses."
@@ -82,6 +83,12 @@ attacks:
   - name: "[[Bestiary Ability Glossary/Knockdown|Knockdown]]"
     desc: "`pf2:1`  "
  
+```
+
+```encounter-table
+name: Ki Adept
+creatures:
+  - 1: Ki Adept
 ```
 
 

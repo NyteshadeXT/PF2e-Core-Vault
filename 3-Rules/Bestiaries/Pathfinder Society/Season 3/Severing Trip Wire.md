@@ -5,6 +5,7 @@ noteType: pf2eHazard
 tags:
   - mechanical
   - trap
+  - pf2eHazard
 
 source: Pathfinder Society Special #3-98: Expedition Into Pallid Peril
 aliases: "Compendium.pf2e.pfs-season-3-bestiary.Actor.hRVg3dgSjOrLxgLs" 
@@ -22,14 +23,14 @@ name: "Severing Trip Wire"
 level: "Hazard 5"
 
 
-trait_01: "mechanical"
-trait_02: "trap"
+trait_01: [[mechanical]]
+trait_02: [[trap]]
 modifier: 16
 sourcebook: "_Pathfinder Society Special #3-98: Expedition Into Pallid Peril_"
 ac: 22
 armorclass:
   - name: AC
-    desc: "22; __Fort__ +17, __Ref__ +9, __Will__ +0"
+    desc: "22; __Fort__ +17, __Ref__ +9, "
 hp: 52
 health:
   - name: ""
@@ -51,9 +52,15 @@ attacks:
   - name: ""
 
   - name: "Snarl"
-    desc: "`pf2:r` **Trigger** A creature walks into the trip wire\n**Effect** The trip wire snaps free and coils around limbs. The triggering creature must succeed at a DC 26 Reflex check save or become [[Conditions/Clumsy 1|Clumsy 1]] for 1 hour. On a critical failure, the trip wire embeds into the creature's skin, making the creature clumsy 1 until it rests for 8 hours."
+    desc: "`pf2:r` **Trigger** A creature walks into the trip wire\n* * *\n\n**Effect** The trip wire snaps free and coils around limbs. The triggering creature must succeed at a DC 26 Reflex check save or become [[Conditions/Clumsy|Clumsy 1]] for 1 hour. On a critical failure, the trip wire embeds into the creature's skin, making the creature clumsy 1 until it rests for 8 hours."
 
 
 
+```
+
+```encounter-table
+name: Severing Trip Wire
+creatures:
+  - 1: Severing Trip Wire
 ```
 

@@ -10,6 +10,7 @@ tags:
   - pf2e/creature/type/human
   - pf2e/creature/type/humanoid
   - pf2e/creature/type/orc
+  - pf2eMonster
   - pf2e/creature/level/11
 statblock: inline
 name: "Veteran Reclaimer"
@@ -27,11 +28,11 @@ level: "Creature 11"
 
 alignment: ""
 size: "Medium"
-trait_01: "chaotic"
-trait_02: "good"
-trait_03: "human"
-trait_04: "humanoid"
-trait_05: "orc"
+trait_01: [[chaotic]]
+trait_02: [[good]]
+trait_03: [[human]]
+trait_04: [[humanoid]]
+trait_05: [[orc]]
 modifier: 24
 perception:
   - name: "Perception"
@@ -68,13 +69,13 @@ attacks:
     desc: "`pf2:1` Dagger +21 (agile, versatile s)\n__Damage__  1d4 + 8 piercing"
 
   - name: "Ranged"
-    desc: "`pf2:1` Composite Longbow +22 (deadly d10, magical, propulsive, range increment 100 feet, reload 0, volley 30 ft.)\n__Damage__  2d8 + 6 piercing"
-
-  - name: "Ranged"
     desc: "`pf2:1` Dagger +21 (agile, thrown 10 ft., versatile s)\n__Damage__  1d4 + 8 piercing"
 
+  - name: "Ranged"
+    desc: "`pf2:1` Composite Longbow +22 (deadly d10, magical, propulsive, range increment 100 feet, reload 0, volley 30 ft.)\n__Damage__  2d8 + 6 piercing"
+
   - name: "Crimson Vengeance"
-    desc: "`pf2:1`  **Frequency** once per round\n**Requirements** The veteran reclaimer is wielding a ranged weapon with reload 0.\n**Effect** The veteran reclaimer makes two Strikes with the required weapon against a target that has attacked the veteran reclaimer or one of their allies within the last round (the multiple attack penalty applies normally).\nIf both hit the creature, combine their damage for the purpose of resistances and weaknesses."
+    desc: "`pf2:1`  **Frequency** once per round\n\n**Requirements** The veteran reclaimer is wielding a ranged weapon with reload 0.\n* * *\n\n**Effect** The veteran reclaimer makes two Strikes with the required weapon against a target that has attacked the veteran reclaimer or one of their allies within the last round (the multiple attack penalty applies normally).\n\nIf both hit the creature, combine their damage for the purpose of resistances and weaknesses."
 
   - name: "Nature's Edge"
     desc: "  Enemies are [[Conditions/Off-Guard|Off-Guard]] to the veteran reclaimer in areas of natural difficult terrain or in areas of difficult terrain resulting from a snare."
@@ -88,6 +89,12 @@ attacks:
   - name: "Weapon Mastery"
     desc: "  When the veteran reclaimer critically hits a creature who attacked the veteran reclaimer or one of their allies within the last round, the reclaimer applies the weapon's critical specialization effect."
  
+```
+
+```encounter-table
+name: Veteran Reclaimer
+creatures:
+  - 1: Veteran Reclaimer
 ```
 
 

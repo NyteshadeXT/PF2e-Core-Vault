@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/human
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/10
 statblock: inline
 name: "Parsus"
@@ -23,13 +24,13 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #180: The Smoking Gun"
 name: "Parsus"
 level: "Creature 10"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Medium"
-trait_01: "dhampir"
-trait_02: "evil"
-trait_03: "human"
-trait_04: "humanoid"
+trait_01: [[dhampir]]
+trait_02: [[evil]]
+trait_03: [[human]]
+trait_04: [[humanoid]]
 modifier: 20
 perception:
   - name: "Perception"
@@ -37,7 +38,7 @@ perception:
 languages: "Common, Necril"
 skills:
   - name: "Skills"
-    desc: "Arcana: +0, Arcana: +24, Deception: +19, Geb Lore: +22, Intimidation: +19, Society: +19, Undead Lore: +22"
+    desc: "Arcana: +0, Deception: +19, Intimidation: +19, Society: +19, Geb Lore: +22, Undead Lore: +22"
 abilityMods: [4, 3, 3, 5, 0, 0]
 speed: 25 feet
 sourcebook: "_Pathfinder #180: The Smoking Gun_"
@@ -72,10 +73,10 @@ attacks:
     desc: "DC 31, attack +23; __5th __  _[[Spells/Toxic Cloud|Cloudkill]]_; __4th __  _[[Spells/Enervation|Enervation]]_, _[[Spells/Fly|Fly]]_, _[[Spells/Seal Fate|Seal Fate]]_, _[[Spells/Vampiric Maiden|Vampiric Maiden]]_; __3rd __  _[[Spells/Bind Undead|Bind Undead]]_, _[[Spells/Vampiric Feast|Vampiric Touch]]_; __2nd __  _[[Spells/False Vitality|False Life]]_, _[[Spells/Mirror Image|Mirror Image]]_, _[[Spells/Ghostly Carrier|Spectral Hand]]_; __1st __  _[[Spells/Grim Tendrils|Grim Tendrils]]_, _[[Spells/Phantasmal Minion|Unseen Servant]]_\n__Cantrips__  __(5th)__ _[[Spells/Acid Splash|Acid Splash]]_, _[[Spells/Void Warp|Chill Touch]]_, _[[Spells/Detect Magic|Detect Magic]]_, _[[Spells/Message|Message]]_, _[[Spells/Ray of Frost|Ray of Frost]]_"
 
   - name: "Clockwork Necromancy"
-    desc: "`pf2:2` (unstable) Parsus winds their necromechanical innovation (see below) to infuse a corpse-riddled area with necromantic energy. The innovation casts [[Spells/Black Tentacles|Black Tentacles]] on a point within 100 feet, causing the dead body parts in a 10-foot burst to briefly animate and scrabble at creatures within the area for 1 round."
+    desc: "`pf2:2` (unstable) Parsus winds their necromechanical innovation (see below) to infuse a corpse-riddled area with necromantic energy. The innovation casts [[Spells/Black Tentacles|Black Tentacles]] on a point within 100 feet, causing the dead body parts in a @Template[burst|distance:10] to briefly animate and scrabble at creatures within the area for 1 round."
 
   - name: "Explode"
-    desc: "`pf2:2` (manipulate,unstable) Parsus pushes their necromechanical innovation beyond its normal limits, dealing 10d6 void damage in a 10-foot emanation (DC 31 Reflex check). Parsus can choose to include themself in this effect."
+    desc: "`pf2:2` (manipulate,unstable) Parsus pushes their necromechanical innovation beyond its normal limits, dealing 10d6 void damage in a @Template[emanation|distance:10] (DC 31 Reflex check). Parsus can choose to include themself in this effect."
 
   - name: "Necromantic Winding"
     desc: "`pf2:1` (manipulate) Parsus winds up their necromechanical innovation. They choose an active effect with the necromancy trait that originated from one of their spells or abilities (such as Clockwork Necromancy). The effect's duration extends to the end of Parsus's next turn."
@@ -83,6 +84,12 @@ attacks:
   - name: "Necromechanical Innovation"
     desc: "  Although a necromancer by training, Parsus recently developed a complex device called a necromechanical innovation. This device allows Parsus to use their Clockwork Necromancy, Explode, and Necromatic Winding abilities. It otherwise functions as an inventor weapon innovation with no modifications."
  
+```
+
+```encounter-table
+name: Parsus
+creatures:
+  - 1: Parsus
 ```
 
 

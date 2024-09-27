@@ -6,6 +6,7 @@ cssClasses: pf2e
 aliases: "Compendium.pf2e.pfs-season-3-bestiary.Actor.Ce5z95Z1twvMCsw9" 
 tags:
   - pf2e/creature/type/animal
+  - pf2eMonster
   - pf2e/creature/level/3
 statblock: inline
 name: "Arabuk Yearling"
@@ -20,14 +21,15 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Society Special #3-99: Fate in the Future"
 name: "Arabuk Yearling"
 level: "Creature 3"
-rare_03: "Rare"
+rare_03: [[Rare]]
 alignment: ""
 size: "Medium"
-trait_01: "animal"
+trait_01: [[animal]]
 modifier: 9
 perception:
   - name: "Perception"
     desc: "+9; Darkvision"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Athletics: +9, Stealth: +8, Survival: +7"
@@ -70,11 +72,17 @@ attacks:
     desc: "`pf2:1`  The arabuk Strides and makes a Strike at the end of that movement. If the arabuk began this action [[Conditions/Hidden|Hidden]], it remains hidden until after this ability's Strike."
 
   - name: "Reverb"
-    desc: "`pf2:r` (sonic) **Trigger** The arabuk hits a creature with an antler Strike\n**Effect** The arabuk snarls, causing its antlers to reverberate and dealing an additional 1d4 sonic damage to the creature struck. This is in addition to the normal sonic damage from the antler Strike."
+    desc: "`pf2:r` (sonic) **Trigger** The arabuk hits a creature with an antler Strike\n* * *\n\n**Effect** The arabuk snarls, causing its antlers to reverberate and dealing an additional 1d4 sonic damage to the creature struck. This is in addition to the normal sonic damage from the antler Strike."
 
   - name: "Snow Stride"
     desc: "  The arabuk ignores difficult terrain, greater difficult terrain, and uneven ground from non-magical ice and snow."
  
+```
+
+```encounter-table
+name: Arabuk Yearling
+creatures:
+  - 1: Arabuk Yearling
 ```
 
 

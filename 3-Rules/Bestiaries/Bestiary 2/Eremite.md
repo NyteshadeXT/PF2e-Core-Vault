@@ -10,6 +10,7 @@ tags:
   - pf2e/creature/type/lawful
   - pf2e/creature/type/unholy
   - pf2e/creature/type/velstrac
+  - pf2eMonster
   - pf2e/creature/level/20
 statblock: inline
 name: "Eremite"
@@ -28,16 +29,16 @@ level: "Creature 20"
 
 alignment: ""
 size: "Medium"
-trait_01: "evil"
-trait_02: "fiend"
-trait_03: "lawful"
-trait_04: "unholy"
-trait_05: "velstrac"
+trait_01: [[evil]]
+trait_02: [[fiend]]
+trait_03: [[lawful]]
+trait_04: [[unholy]]
+trait_05: [[velstrac]]
 modifier: 34
 perception:
   - name: "Perception"
     desc: "+34; Greater Darkvision, Truesight"
-languages: "Common, Diabolic, Shadowtongue"
+languages: "Common, Diabolic, Shadowtongue; telepathy 100 feet"
 skills:
   - name: "Skills"
     desc: "Athletics: +35, Deception: +38, Diplomacy: +36, Intimidation: +40, Medicine: +36, Religion: +34, Stealth: +36, Torture Lore: +36"
@@ -57,12 +58,12 @@ abilities_top:
   - name: ""
 
   - name: "Painsight"
-    desc: " (divine) A velstrac automatically knows whether a creature it sees has any of the [[Conditions/Doomed 1|Doomed]], [[Conditions/Dying 1|Dying]], and [[Conditions/Wounded 1|Wounded]] conditions, as well as the value of those conditions."
+    desc: " (divine) A velstrac automatically knows whether a creature it sees has any of the [[Conditions/Doomed|Doomed]], [[Conditions/Dying|Dying]], and [[Conditions/Wounded|Wounded]] conditions, as well as the value of those conditions."
 
 abilities_mid:
   - name: ""
   - name: "Ignore Pain"
-    desc: "  An eremite's actions can't be disrupted due to damage or Strikes (such as [[Feats/Attack of Opportunity|Attack of Opportunity]])."
+    desc: "  An eremite's actions can't be disrupted due to damage or Strikes (such as [[Bestiary Ability Glossary/Attack of Opportunity|Attack of Opportunity]])."
 
   - name: "Paralytic Perfection"
     desc: " (aura,divine,fear,incapacitation,mental,visual) 30 feet. When a creature ends its turn in the aura, it feels compelled to offer pieces of its own flesh to the eremite. The creature must succeed at a DC 40 Will check save or become [[Conditions/Paralyzed|Paralyzed]] for 1 round."
@@ -83,20 +84,26 @@ attacks:
     desc: "_[[Spells/Imprisonment|Imprisonment]]_"
 
   - name: "Evisceration"
-    desc: "`pf2:1` (attack) **Requirements** The eremite has a creature grabbed\n**Effect** The eremite excises flesh or bone from a creature it has grabbed. The target takes 6d10 bleed."
+    desc: "`pf2:1` (attack) **Requirements** The eremite has a creature grabbed\n* * *\n\n**Effect** The eremite excises flesh or bone from a creature it has grabbed. The target takes 6d10 bleed."
 
   - name: "Exquisite Pain"
-    desc: "  An eremite's knowledge of pressure points and pain centers is unsurpassed. A creature hit by an eremite's melee Strikes must succeed at a DC 40 Fortitude check save or be [[Conditions/Stunned 1|Stunned 2]] ([[Conditions/Stunned 1|Stunned 4]] on a critical failure).\nA creature that critically succeeds is temporarily immune for 24 hours."
+    desc: "  An eremite's knowledge of pressure points and pain centers is unsurpassed. A creature hit by an eremite's melee Strikes must succeed at a DC 40 Fortitude check save or be [[Conditions/Stunned|Stunned 2]] ([[Conditions/Stunned|Stunned 4]] on a critical failure).\n\nA creature that critically succeeds is temporarily immune for 24 hours."
 
   - name: "Focus Gaze"
-    desc: "`pf2:1` (concentrate,divine,fear,mental,visual) The eremite stares at a creature they can see within 30 feet. The creature must immediately attempt a Will save against paralytic perfection.\nIn addition, if the creature was already paralyzed, on a failed save, its unnatural longing causes it to become [[Conditions/Doomed 1|Doomed 1]].\nAfter attempting this save, the creature is then temporarily immune until the start of the eremite's next turn."
+    desc: "`pf2:1` (concentrate,divine,fear,mental,visual) The eremite stares at a creature they can see within 30 feet. The creature must immediately attempt a Will save against paralytic perfection.\n\nIn addition, if the creature was already paralyzed, on a failed save, its unnatural longing causes it to become [[Conditions/Doomed|Doomed 1]].\n\nAfter attempting this save, the creature is then temporarily immune until the start of the eremite's next turn."
 
   - name: "Graft Flesh"
-    desc: "`pf2:1`  **Requirements** The eremite holds a piece of flesh they collected via Evisceration\n**Effect** The eremite attaches the stolen flesh to themself. They either regain 100 Hit Points; reduce the value of their clumsy, drained, enfeebled, or stupefied condition by 3; or reduce the stage of any affliction affecting them by 3."
+    desc: "`pf2:1`  **Requirements** The eremite holds a piece of flesh they collected via Evisceration\n* * *\n\n**Effect** The eremite attaches the stolen flesh to themself. They either regain 100 Hit Points; reduce the value of their clumsy, drained, enfeebled, or stupefied condition by 3; or reduce the stage of any affliction affecting them by 3."
 
   - name: "Shadow Traveler"
     desc: " (divine) When an eremite uses [[Spells/Interplanar Teleport|Interplanar Teleport]] or [[Spells/Umbral Journey|Umbral Journey]], they arrive at exactly their intended destination."
  
+```
+
+```encounter-table
+name: Eremite
+creatures:
+  - 1: Eremite
 ```
 
 

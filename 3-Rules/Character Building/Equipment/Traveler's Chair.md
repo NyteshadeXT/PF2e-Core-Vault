@@ -1,7 +1,7 @@
 ---
 obsidianUIMode: preview
 title: "Traveler's Chair"
-cssclasses: pf2e,pf2e-spell
+cssclasses: pf2e,pf2e-action
 tags:
   - trait/common
   - remaster
@@ -9,7 +9,7 @@ aliases: "Compendium.pf2e.equipment-srd.Item.JFd6QBDtSNC43dy0"
 license: ORC
 ---
 # Traveler's Chair
-## Item 1
+
 ### 
 
 

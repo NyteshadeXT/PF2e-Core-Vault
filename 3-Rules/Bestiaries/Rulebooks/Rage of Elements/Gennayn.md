@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.rage-of-elements-bestiary.Actor.Gqz1qtpdgAl13pCE"
 tags:
   - pf2e/creature/type/elemental
   - pf2e/creature/type/genie
+  - pf2eMonster
   - pf2e/creature/level/2
   - remaster
 statblock: inline
@@ -25,8 +26,8 @@ level: "Creature 2"
 
 alignment: ""
 size: "tiny"
-trait_01: "elemental"
-trait_02: "genie"
+trait_01: [[elemental]]
+trait_02: [[genie]]
 modifier: 8
 perception:
   - name: "Perception"
@@ -65,14 +66,20 @@ attacks:
     desc: "DC 18, attack +10; __2nd __  _[[Spells/Invisibility|Invisibility (At Will; Self Only)]]_, _[[Spells/Translate|Translate (At Will)]]_; __1st __  _[[Spells/Cleanse Cuisine|Cleanse Cuisine]]_, _[[Spells/Heal|Heal]]_\n__Cantrips__  __(1st)__ _[[Spells/Electric Arc|Electric Arc (Attuned Element)]]_, _[[Spells/Frostbite|Frostbite (Attuned Element)]]_, _[[Spells/Guidance|Guidance]]_, _[[Spells/Ignition|Ignition (Attuned Element)]]_, _[[Spells/Needle Darts|Needle Darts (Attuned Element)]]_, _[[Spells/Prestidigitation|Prestidigitation]]_, _[[Spells/Scatter Scree|Scatter Scree (Attuned Element)]]_, _[[Spells/Summon Instrument|Summon Instrument]]_, _[[Spells/Tangle Vine|Tangle Vine (Attuned Element)]]_"
 
   - name: "Attuned Element"
-    desc: "  Upon waking each day, a gennayn attunes to one planar element. They gain the corresponding trait, a movement Speed, a cantrip, resistance, and an elemental damage type for their energy fist attack based on their attuned element:\n*   air: fly 30 feet, resist electricity 5, electric arc, electricity damage;\n*   earth: burrow 15 feet, resist bludgeoning 5, scatter scree, bludgeoning damage;\n*   fire: fly 30 feet, resist fire 5, ignition, fire damage;\n*   metal: burrow 15 feet, resist slashing 5, needle darts, slashing damage;\n*   water: swim 20 feet, resist cold 5, frostbite, bludgeoning damage;\n*   wood: climb 15 feet, resist piercing 5, tangle vine, piercing damage.\nThe attunement lasts until the gennayn attunes to a different element."
+    desc: "  Upon waking each day, a gennayn attunes to one planar element. They gain the corresponding trait, a movement Speed, a cantrip, resistance, and an elemental damage type for their energy fist attack based on their attuned element:\n\n*   air: fly 30 feet, resist electricity 5, electric arc, electricity damage;\n*   earth: burrow 15 feet, resist bludgeoning 5, scatter scree, bludgeoning damage;\n*   fire: fly 30 feet, resist fire 5, ignition, fire damage;\n*   metal: burrow 15 feet, resist slashing 5, needle darts, slashing damage;\n*   water: swim 20 feet, resist cold 5, frostbite, bludgeoning damage;\n*   wood: climb 15 feet, resist piercing 5, tangle vine, piercing damage.\n\nThe attunement lasts until the gennayn attunes to a different element."
 
   - name: "[[Bestiary Ability Glossary/Change Shape|Change Shape]]"
-    desc: "`pf2:1` (arcane,concentrate,polymorph) The gennayn transforms into a Tiny elemental or animal. This doesn't affect the gennayn's statistics, but it could change the damage type of their Strikes.\n"
+    desc: "`pf2:1` (arcane,concentrate,polymorph) The gennayn transforms into a Tiny elemental or animal. This doesn't affect the gennayn's statistics, but it could change the damage type of their Strikes.\n\n* * *\n"
 
   - name: "Little Wish"
-    desc: "`pf2:r` (fortune) **Trigger** A creature the gennayn can see that's within 60 feet attempts a saving throw or skill check\n**Frequency** once per day\n**Effect** The gennayn reshapes reality in a small way to twist fate, allowing the creature to reroll the saving throw or skill check and take the better result."
+    desc: "`pf2:r` (fortune) **Trigger** A creature the gennayn can see that's within 60 feet attempts a saving throw or skill check\n\n**Frequency** once per day\n* * *\n\n**Effect** The gennayn reshapes reality in a small way to twist fate, allowing the creature to reroll the saving throw or skill check and take the better result."
  
+```
+
+```encounter-table
+name: Gennayn
+creatures:
+  - 1: Gennayn
 ```
 
 

@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/chaotic
   - pf2e/creature/type/evil
   - pf2e/creature/type/tanggal
+  - pf2eMonster
   - pf2e/creature/level/5
 statblock: inline
 name: "Penanggalan"
@@ -27,10 +28,10 @@ level: "Creature 5"
 
 alignment: ""
 size: "Medium"
-trait_01: "aberration"
-trait_02: "chaotic"
-trait_03: "evil"
-trait_04: "tanggal"
+trait_01: [[aberration]]
+trait_02: [[chaotic]]
+trait_03: [[evil]]
+trait_04: [[tanggal]]
 modifier: 11
 perception:
   - name: "Perception"
@@ -38,7 +39,7 @@ perception:
 languages: "Aklo, Common"
 skills:
   - name: "Skills"
-    desc: "Deception: +14, Intimidation: +12, Midwifery Lore: +9, Stealth: +14"
+    desc: "Deception: +14, Intimidation: +12, Stealth: +14, Midwifery Lore: +9"
 abilityMods: [3, 5, 2, 0, 2, 5]
 speed:  fly 40 feet
 sourcebook: "_Pathfinder Bestiary 3_"
@@ -57,7 +58,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Spewing Bile"
-    desc: "  When the penanggalan takes slashing damage, their wound spews bile on adjacent creatures, dealing 2d10 poison damage (DC 19 Fortitude check save).\nThe penanggalan loses their spewing bile and penanggalan bile abilities until the end of their next turn."
+    desc: "  When the penanggalan takes slashing damage, their wound spews bile on adjacent creatures, dealing 2d10 poison damage (DC 19 Fortitude check save).\n\nThe penanggalan loses their spewing bile and penanggalan bile abilities until the end of their next turn."
 
 attacks:
   - name: ""
@@ -69,20 +70,26 @@ attacks:
     desc: "`pf2:1` Entrails +14 ()\n__Damage__  2d4 + 5 bludgeoning plus grab"
 
   - name: "[[Bestiary Ability Glossary/Constrict|Constrict]]"
-    desc: "`pf2:1`  2d4 + 3 bludgeoning, DC 21 Fortitude check\n"
+    desc: "`pf2:1`  2d4+3 bludgeoning, DC 21 Fortitude check\n\n* * *\n"
 
   - name: "Elongate Tongue"
     desc: "`pf2:1`  The penanggalan's tongue extends, the membrane stretching and becoming translucent. Until the end of the turn, the penanggalan's proboscis tongue Strikes have a 10-foot reach, and any target is [[Conditions/Off-Guard|Off-Guard]] against the Strike unless it has a Perception DC of 22 or higher or the ability to precisely sense [[Conditions/Invisible|Invisible]] things."
 
   - name: "Penanggalan Bile"
-    desc: " (disease) Rest doesn't decrease the drained value from penanggalan bile\n**Saving Throw** DC 19 Fortitude check\n**Stage 1** [[Conditions/Drained 1|Drained 1]] (1 week)\n**Stage 2** [[Conditions/Drained 1|Drained 2]] (1 week)\n**Stage 3** [[Conditions/Drained 1|Drained 3]] (1 week)\n**Stage 4** dead"
+    desc: " (disease) Rest doesn't decrease the drained value from penanggalan bile\n\n**Saving Throw** DC 19 Fortitude check\n* * *\n\n**Stage 1** [[Conditions/Drained|Drained 1]] (1 week)\n\n**Stage 2** [[Conditions/Drained|Drained 2]] (1 week)\n\n**Stage 3** [[Conditions/Drained|Drained 3]] (1 week)\n\n**Stage 4** dead"
 
   - name: "Ride Corpse"
-    desc: "`pf2:3` (concentrate,polymorph) The penanggalan inserts their entrails into their humanoid body, allowing them to appear as and move about like a normal human. The body has 10 Hit Points and the same defenses as the penanggalan.\nWhen the body is destroyed, the penanggalan is ejected unharmed. The body becomes a corpse, and if it is neither controlled by the penanggalan nor stored in an alchemical vat, it decays as normal."
+    desc: "`pf2:3` (concentrate,polymorph) The penanggalan inserts their entrails into their humanoid body, allowing them to appear as and move about like a normal human. The body has 10 Hit Points and the same defenses as the penanggalan.\n\nWhen the body is destroyed, the penanggalan is ejected unharmed. The body becomes a corpse, and if it is neither controlled by the penanggalan nor stored in an alchemical vat, it decays as normal."
 
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
     desc: "`pf2:1`  "
  
+```
+
+```encounter-table
+name: Penanggalan
+creatures:
+  - 1: Penanggalan
 ```
 
 

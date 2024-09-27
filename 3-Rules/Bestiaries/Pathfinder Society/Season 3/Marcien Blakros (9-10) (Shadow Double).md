@@ -10,6 +10,7 @@ tags:
   - pf2e/creature/type/humanoid
   - pf2e/creature/type/lawful
   - pf2e/creature/type/shadow
+  - pf2eMonster
   - pf2e/creature/level/10
 statblock: inline
 name: "Marcien Blakros (9-10) (Shadow Double)"
@@ -24,14 +25,14 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Society Scenario #3-19: Mean Streets of Shadow Absalom"
 name: "Marcien Blakros (9-10) (Shadow Double)"
 level: "Creature 10"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Medium"
-trait_01: "evil"
-trait_02: "fetchling"
-trait_03: "humanoid"
-trait_04: "lawful"
-trait_05: "shadow"
+trait_01: [[evil]]
+trait_02: [[fetchling]]
+trait_03: [[humanoid]]
+trait_04: [[lawful]]
+trait_05: [[shadow]]
 modifier: 19
 perception:
   - name: "Perception"
@@ -39,7 +40,7 @@ perception:
 languages: "Aklo, Common, Necril, Sakvroth, Shadowtongue"
 skills:
   - name: "Skills"
-    desc: "Arcana: +19, Deception: +22, Diplomacy: +18, Intimidation: +20, Occultism: +21, Shadow Plane Lore: +19, Society: +17, Stealth: +21"
+    desc: "Arcana: +19, Deception: +22, Diplomacy: +18, Intimidation: +20, Occultism: +21, Society: +17, Stealth: +21, Shadow Plane Lore: +19"
 abilityMods: [0, 5, 0, 3, 3, 4]
 speed: 25 feet
 sourcebook: "_Pathfinder Society Scenario #3-19: Mean Streets of Shadow Absalom_"
@@ -70,12 +71,18 @@ attacks:
   - name: "Melee"
     desc: "`pf2:1` Staff +12 (magical, two-hand d8)\n__Damage__  2d4 + 10 bludgeoning"
 
-  - name: "Ranged"
+  - name: "Melee"
     desc: "`pf2:1` Backbiter +17 (concealable, concussive, fatal d10, magical)\n__Damage__  2d6 + 10 piercing"
 
   - name: "Occult Spontaneous Spells"
     desc: "DC 30, attack +24; __5th __ (4 slots) _[[Spells/Calm|Calm Emotions]]_, _[[Spells/Cloak of Colors|Cloak of Colors]]_, _[[Spells/Wave of Despair|Crushing Despair]]_, _[[Spells/Laughing Fit|Hideous Laughter]]_, _[[Spells/Umbral Journey|Shadow Walk]]_; __4th __ (4 slots) _[[Spells/Rewrite Memory|Modify Memory]]_, _[[Spells/Mountain Resilience|Stoneskin]]_, _[[Spells/Suggestion|Suggestion]]_, _[[Spells/Telepathy|Telepathy]]_; __3rd __ (4 slots) _[[Spells/Enthrall|Enthrall]]_, _[[Spells/Grim Tendrils|Grim Tendrils]]_, _[[Spells/Haste|Haste]]_, _[[Spells/Mind Reading|Mind Reading]]_; __2nd __ (4 slots) _[[Spells/Augury|Augury]]_, _[[Spells/Calm|Calm Emotions]]_, _[[Spells/Laughing Fit|Hideous Laughter]]_, _[[Spells/Stupefy|Touch of Idiocy]]_; __1st __ (4 slots) _[[Spells/Bless|Bless]]_, _[[Spells/Illusory Disguise|Illusory Disguise]]_, _[[Spells/Lock|Lock]]_, _[[Spells/Phantasmal Minion|Unseen Servant]]_\n__Cantrips__  __(5th)__ _[[Spells/Void Warp|Chill Touch]]_, _[[Spells/Daze|Daze]]_, _[[Spells/Detect Magic|Detect Magic]]_, _[[Spells/Guidance|Guidance]]_, _[[Spells/Shield|Shield]]_"
  
+```
+
+```encounter-table
+name: Marcien Blakros (9-10) (Shadow Double)
+creatures:
+  - 1: Marcien Blakros (9-10) (Shadow Double)
 ```
 
 

@@ -11,3 +11,5 @@ Play during your turn.
 * * *
 
 Until the start of your next turn, you gain a +2 status bonus to checks based on the attributes that are boosted by your ancestry (ignoring free boosts). If your ancestry only grants free boosts, select one attribute to gain the bonus to instead.
+
+[[Other Effects/Effect_ Ancestral Might|Effect: Ancestral Might]]

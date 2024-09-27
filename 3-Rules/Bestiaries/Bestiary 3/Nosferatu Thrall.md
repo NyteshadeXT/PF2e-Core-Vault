@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/human
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/8
 statblock: inline
 name: "Nosferatu Thrall"
@@ -23,12 +24,12 @@ token: [[modules/pf2e-tokens-bestiaries/portraits/undead/vampiric/nosferatu-thra
 source: "Pathfinder Bestiary 3"
 name: "Nosferatu Thrall"
 level: "Creature 8"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Medium"
-trait_01: "evil"
-trait_02: "human"
-trait_03: "humanoid"
+trait_01: [[evil]]
+trait_02: [[human]]
+trait_03: [[humanoid]]
 modifier: 16
 perception:
   - name: "Perception"
@@ -59,10 +60,10 @@ abilities_mid:
     desc: "  A nosferatu master exerts a fierce hold over their thrall's mind. If any creature other than the thrall's master targets them with an effect that would give them the [[Conditions/Controlled|Controlled]] condition, the thrall's master rolls a counteract check against it using their Dominate DC - 10 as the counteract check modifier."
 
   - name: "[[Creature Family Ability Glossary/(Vampire, Nosferatu Thrall) Mortal Shield|Mortal Shield]]"
-    desc: "`pf2:r`  **Trigger** The thrall's master would take damage from a Strike or spell attack and is in an adjacent square\n**Effect** The thrall throws themself in front of their master, taking half the damage of the attack (before applying any weaknesses or resistances). The thrall's master takes the remaining damage, applying any weaknesses or resistances as normal."
+    desc: "`pf2:r`  **Trigger** The thrall's master would take damage from a Strike or spell attack and is in an adjacent square\n* * *\n\n**Effect** The thrall throws themself in front of their master, taking half the damage of the attack (before applying any weaknesses or resistances). The thrall's master takes the remaining damage, applying any weaknesses or resistances as normal."
 
   - name: "[[Creature Family Ability Glossary/(Vampire, Nosferatu Thrall) Rally|Rally]]"
-    desc: "`pf2:r`  **Trigger** The thrall ends their turn more than 30 feet away from their master\n**Effect** The thrall Strides up to their Speed toward their master."
+    desc: "`pf2:r`  **Trigger** The thrall ends their turn more than 30 feet away from their master\n* * *\n\n**Effect** The thrall Strides up to their Speed toward their master."
 
 attacks:
   - name: ""
@@ -74,8 +75,14 @@ attacks:
     desc: "`pf2:1` Fist +18 (agile, nonlethal)\n__Damage__  2d6 + 10 bludgeoning"
 
   - name: "Swing Back"
-    desc: "`pf2:1`  **Frequency** once per round\n**Requirements** The nosferatu thrall's last action was a greatclub Strike that missed\n**Effect** The nosferatu thrall makes another greatclub Strike against the same target, using the previous Strike's multiple attack penalty."
+    desc: "`pf2:1`  **Frequency** once per round\n\n**Requirements** The nosferatu thrall's last action was a greatclub Strike that missed\n* * *\n\n**Effect** The nosferatu thrall makes another greatclub Strike against the same target, using the previous Strike's multiple attack penalty."
  
+```
+
+```encounter-table
+name: Nosferatu Thrall
+creatures:
+  - 1: Nosferatu Thrall
 ```
 
 

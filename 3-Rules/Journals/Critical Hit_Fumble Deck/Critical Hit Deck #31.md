@@ -8,7 +8,7 @@ tags:
 ---
 # Dazing Thud
 
-> The target is [[Conditions/Stunned 1|Stunned 1]].
+> The target is [[Conditions/Stunned|Stunned 1]].
 
 `Bludgeoning`
 
@@ -26,6 +26,6 @@ tags:
 
 # Slowed Down
 
-> The target is [[Conditions/Slowed 1|Slowed 2]] for 1 round.
+> The target is [[Conditions/Slowed|Slowed 2]] for 1 round.
 
 `Bomb or Spell`

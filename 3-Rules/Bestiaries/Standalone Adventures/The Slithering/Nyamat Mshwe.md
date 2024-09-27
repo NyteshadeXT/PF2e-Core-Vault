@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/human
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/6
 statblock: inline
 name: "Nyamat Mshwe"
@@ -26,10 +27,10 @@ level: "Creature 6"
 
 alignment: ""
 size: "Medium"
-trait_01: "chaotic"
-trait_02: "evil"
-trait_03: "human"
-trait_04: "humanoid"
+trait_01: [[chaotic]]
+trait_02: [[evil]]
+trait_03: [[human]]
+trait_04: [[humanoid]]
 modifier: 16
 perception:
   - name: "Perception"
@@ -37,7 +38,7 @@ perception:
 languages: "Chthonian, Common, Mwangi"
 skills:
   - name: "Skills"
-    desc: "Athletics: +12, Demon Lore: +13, Diplomacy: +13 (+15 against demons), Intimidation: +15, Religion: +16, Society: +9, Survival: +12"
+    desc: "Athletics: +12, Diplomacy: +13, Intimidation: +15, Religion: +16, Society: +9, Survival: +12, Demon Lore: +13"
 abilityMods: [2, 1, 1, 1, 4, 3]
 speed: 25 feet
 sourcebook: "_Pathfinder Adventure: The Slithering_"
@@ -57,7 +58,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Protect the Master"
-    desc: "`pf2:r` (auditory,emotion,linguistic,move) **Trigger** Nyamat is targeted with an attack and a lower-ranking cultist is adjacent to him\n**Effect** Nyamat orders their cultist to leap in front of the attack. The cultist and Nyamat swap places, and the cultist becomes the target of the attack."
+    desc: "`pf2:r` (auditory,emotion,linguistic,move) **Trigger** Nyamat is targeted with an attack and a lower-ranking cultist is adjacent to him\n* * *\n\n**Effect** Nyamat orders their cultist to leap in front of the attack. The cultist and Nyamat swap places, and the cultist becomes the target of the attack."
 
 attacks:
   - name: ""
@@ -86,6 +87,12 @@ attacks:
   - name: "Steady Spellcasting"
     desc: "  If a would disrupt Nyamat's spellcasting action, on a successful DC 15 Flat check, the action isn't disrupted."
  
+```
+
+```encounter-table
+name: Nyamat Mshwe
+creatures:
+  - 1: Nyamat Mshwe
 ```
 
 

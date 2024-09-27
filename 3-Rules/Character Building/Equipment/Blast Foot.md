@@ -11,7 +11,7 @@ license: OGL
 ---
 # Blast Foot
 ## Item 6
-### [[invested]][[magical]]
+### [[invested]][[3-Rules/Rule References/Magical]]
 
 
 **Price** 250 gp; 
@@ -38,7 +38,7 @@ These prosthetic feet and legs, created by dwarven alchemists and spellcasters t
 
 * * *
 
-**Effect** You blast from your feet, dealing 4d6 force damage to all creatures in a 15-foot cone, with a DC 22 Reflex check save.
+**Effect** You blast from your feet, dealing 4d6 force damage to all creatures in a @Template\[cone|distance:15\], with a DC 22 Reflex check save.
 
 *Source: Pathfinder Lost Omens: The Grand Bazaar*
 *OGL*

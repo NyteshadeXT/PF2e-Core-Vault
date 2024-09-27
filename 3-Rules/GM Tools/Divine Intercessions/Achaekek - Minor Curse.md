@@ -4,8 +4,9 @@ title: "Achaekek - Minor Curse"
 cssclasses: pf2e,pf2e-action
 tags:
   - trait/common
+  - remaster
 aliases: "Compendium.pf2e.boons-and-curses.Item.1QtjogbV1MsJp7x5"
-license: OGL
+license: ORC
 ---
 # Achaekek - Minor Curse
 
@@ -16,7 +17,7 @@ license: OGL
 
 
 
-**Minor Curse:** Achaekek's minions seek vengeance. Nonsapient insects (especially mantises) become hostile against you.
+Non-sapient insects (especially mantises) become hostile against you.
 
-*Source: Pathfinder Lost Omens: Gods & Magic*
-*OGL*
+*Source: Pathfinder Adventure: Prey for Death*
+*ORC*

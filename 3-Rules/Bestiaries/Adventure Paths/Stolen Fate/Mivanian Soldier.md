@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/humanoid
   - pf2e/creature/type/tengu
+  - pf2eMonster
   - pf2e/creature/level/8
 statblock: inline
 name: "Mivanian Soldier"
@@ -23,13 +24,13 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #190: The Choosing"
 name: "Mivanian Soldier"
 level: "Creature 8"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Medium"
-trait_01: "chaotic"
-trait_02: "evil"
-trait_03: "humanoid"
-trait_04: "tengu"
+trait_01: [[chaotic]]
+trait_02: [[evil]]
+trait_03: [[humanoid]]
+trait_04: [[tengu]]
 modifier: 17
 perception:
   - name: "Perception"
@@ -57,7 +58,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Snap Shot"
-    desc: "`pf2:r`  **Requirements** The Mivanian soldier holds a loaded spike launcher\n**Trigger** A creature within 30 feet of the soldier uses a move action, makes a ranged attack, or leaves a square during a move action it's using\n**Effect** The Mivanian soldier attempts a spike launcher Strike against the triggering creature. This Strike doesn't contribute to their multiple attack penalty, and their multiple attack penalty doesn't apply to this Strike."
+    desc: "`pf2:r`  **Requirements** The Mivanian soldier holds a loaded spike launcher\n\n**Trigger** A creature within 30 feet of the soldier uses a move action, makes a ranged attack, or leaves a square during a move action it's using\n* * *\n\n**Effect** The Mivanian soldier attempts a spike launcher Strike against the triggering creature. This Strike doesn't contribute to their multiple attack penalty, and their multiple attack penalty doesn't apply to this Strike."
 
 attacks:
   - name: ""
@@ -72,11 +73,17 @@ attacks:
     desc: "`pf2:1` Spike Launcher +18 (backstabber, fatal d12, kickback, magical, range increment 120 feet, reload 1)\n__Damage__  2d8 + 7 piercing"
 
   - name: "Go For the Eyes"
-    desc: "`pf2:r`  **Trigger** The Mivanian soldier critically hits with a beak Strike\n**Effect** The soldier attempts to peck out his victim's eyes. The target must attempt a DC 26 Fortitude check save.\n**Success** The target is unaffected.\n**Failure** The target is [[Conditions/Blinded|Blinded]] for 1 round.\n**Critical Failure** The target is blinded until healed to its maximum Hit Points."
+    desc: "`pf2:r`  **Trigger** The Mivanian soldier critically hits with a beak Strike\n* * *\n\n**Effect** The soldier attempts to peck out his victim's eyes. The target must attempt a DC 26 Fortitude check save.\n* * *\n\n**Success** The target is unaffected.\n\n**Failure** The target is [[Conditions/Blinded|Blinded]] for 1 round.\n\n**Critical Failure** The target is blinded until healed to its maximum Hit Points."
 
   - name: "Quick Spiker"
     desc: "  The soldier requires only 1 action, rather than 2 actions, to reload a spike launcher. He can change his grip on a spike launcher easily, improving its fatal aim d12 trait to fatal d12."
  
+```
+
+```encounter-table
+name: Mivanian Soldier
+creatures:
+  - 1: Mivanian Soldier
 ```
 
 

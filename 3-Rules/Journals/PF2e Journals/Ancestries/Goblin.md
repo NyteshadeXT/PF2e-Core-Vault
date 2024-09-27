@@ -19,8 +19,8 @@ If you want a character who is eccentric, enthusiastic, and fun-loving, you shou
 
 ## Others Probably...
 
-*   Work to ensure you don’t accidentally (or intentionally) set too many things on fire.
-*   Wonder how you survive given your ancestry’s typical gastronomic choices, reckless behavior, and love of fire.
+*   Work to ensure you don't accidentally (or intentionally) set too many things on fire.
+*   Wonder how you survive given your ancestry's typical gastronomic choices, reckless behavior, and love of fire.
 
 ## Physical Description
 
@@ -79,5 +79,7 @@ trust a dog or horse, learn to read
 [[Heritages/Snow Goblin|Snow Goblin]]
 
 [[Heritages/Tailed Goblin|Tailed Goblin]]
+
+[[Heritages/Treedweller Goblin|Treedweller Goblin]]
 
 [[Heritages/Unbreakable Goblin|Unbreakable Goblin]]

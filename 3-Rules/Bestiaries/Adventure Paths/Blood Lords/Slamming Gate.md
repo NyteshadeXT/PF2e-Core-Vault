@@ -5,6 +5,7 @@ noteType: pf2eHazard
 tags:
   - mechanical
   - trap
+  - pf2eHazard
 
 source: Pathfinder #181: Zombie Feast
 aliases: "Compendium.pf2e.blood-lords-bestiary.Actor.eReDW3oTDV8ehPlL" 
@@ -22,14 +23,14 @@ name: "Slamming Gate"
 level: "Hazard 1"
 
 
-trait_01: "mechanical"
-trait_02: "trap"
+trait_01: [[mechanical]]
+trait_02: [[trap]]
 modifier: 7
 sourcebook: "_Pathfinder #181: Zombie Feast_"
 ac: 16
 armorclass:
   - name: AC
-    desc: "16; __Fort__ +10, __Ref__ +2, __Will__ +0"
+    desc: "16; __Fort__ +10, __Ref__ +2, "
 hp: 20
 health:
   - name: ""
@@ -51,10 +52,16 @@ attacks:
   - name: ""
 
   - name: "Slam Shut"
-    desc: "`pf2:r` **Trigger** The door is opened more than halfway\n**Effect** The door slams shut and deals 3d8 bludgeoning damage to any creature in the way (DC 17 Reflex check). On a critical failure, the creature is also [[Conditions/Restrained|Restrained]] by the closed door until it [[Actions/Escape|Escapes]] (DC 17)"
+    desc: "`pf2:r` **Trigger** The door is opened more than halfway\n* * *\n\n**Effect** The door slams shut and deals 3d8 bludgeoning damage to any creature in the way (DC 17 Reflex check). On a critical failure, the creature is also [[Conditions/Restrained|Restrained]] by the closed door until it [[Actions/Escape|Escapes]] (DC 17)"
 
 
   - name: "Reset"
     desc: "The trap can be reactivated (or deactivated, if it's active) by flipping a lever hidden in the nearby wall. A character Searching the area finds it with a successful DC 18 Perception check check."
+```
+
+```encounter-table
+name: Slamming Gate
+creatures:
+  - 1: Slamming Gate
 ```
 

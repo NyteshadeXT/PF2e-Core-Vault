@@ -15,7 +15,7 @@ license: OGL
 ---
 # Black Hole Armor
 ## Item 16
-### [[bulwark]][[entrench-ranged]][[invested]][[magical]][[ponderous]]
+### [[bulwark]][[entrench-ranged]][[invested]][[3-Rules/Rule References/Magical]][[ponderous]]
 
 **Category** heavy; **Group** plate
 **Price** 8500 gp; 
@@ -40,7 +40,7 @@ When an enemy's ranged attack misses you or hits you and deals no damage, the ar
 
 **Requirements** The _black hole armor_ has absorbed six or more projectiles
 
-**Effect** All the projectiles absorbed by the armor appear out of thin air, as though transported there, falling in a 10-foot burst within 120 feet of you. Each creature in the burst takes 10d8 piercing with a DC 35 Reflex check save. The absorbed projectiles are all expended, and the armor's joints stop glowing.
+**Effect** All the projectiles absorbed by the armor appear out of thin air, as though transported there, falling in a @Template\[burst|distance:10\] within 120 feet of you. Each creature in the burst takes 10d8 piercing with a DC 35 Reflex check save. The absorbed projectiles are all expended, and the armor's joints stop glowing.
 
 *Source: Pathfinder Treasure Vault*
 *OGL*

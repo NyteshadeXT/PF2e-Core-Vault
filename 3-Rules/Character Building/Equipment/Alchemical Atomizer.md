@@ -10,7 +10,7 @@ license: OGL
 ---
 # Alchemical Atomizer
 ## Item 10
-### [rare](rare "Rare Rarity Trait")[[alchemical]]
+### [rare](rare.md "Rare Rarity Trait")[[alchemical]]
 
 
 **Price** 175 gp; 

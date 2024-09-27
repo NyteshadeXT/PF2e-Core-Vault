@@ -10,6 +10,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/incorporeal
   - pf2e/creature/type/spirit
+  - pf2eMonster
   - pf2e/creature/level/4
 statblock: inline
 name: "Killing Intent"
@@ -25,22 +26,22 @@ token: [[modules/battlezoo-bestiary-pf2e/art/killing_intent.webp| ]]
 source: "Battlezoo Bestiary"
 name: "Killing Intent"
 level: "Creature 4"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Medium"
-trait_01: "chaotic"
-trait_02: "ethereal"
-trait_03: "evil"
-trait_04: "incorporeal"
-trait_05: "spirit"
+trait_01: [[chaotic]]
+trait_02: [[ethereal]]
+trait_03: [[evil]]
+trait_04: [[incorporeal]]
+trait_05: [[spirit]]
 modifier: 11
 perception:
   - name: "Perception"
     desc: "+11; Darkvision"
-languages: "Aklo, Common"
+languages: "Aklo, Common; telepathy 100 feet"
 skills:
   - name: "Skills"
-    desc: "Intimidation: +13, Stealth: +11, "
+    desc: "Intimidation: +13, Stealth: +11"
 abilityMods: [-5, 3, 0, -2, 3, 5]
 speed:  fly 25 feet
 sourcebook: "_Battlezoo Bestiary_"
@@ -62,7 +63,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Spine-Chilling Aura"
-    desc: " (aura,emotion,fear,occult) Aura 30 feet.\nThe killing intent's lust for violence creates a palpable aura around it. A creature that begins its turn in the aura must roll a Will saving throw.\n**Critical Success** The creature is temporarily immune to that killing intent's aura for 1 hour.\n**Success** The creature is immune to the aura for 1 round.\n**Failure** The creature is Frightened 1.\n**Critical Failure** The creature is Frightened 2 and is also Slowed 1 for 1 round."
+    desc: " (aura,emotion,fear,occult) [[Bestiary Ability Glossary/Aura|Aura]] 30 feet.\n\nThe killing intent's lust for violence creates a palpable aura around it. A creature that begins its turn in the aura must roll a DC 17 Will saving throw.\n* * *\n\n**Critical Success** The creature is temporarily immune to that killing intent's aura for 1 hour.\n\n**Success** The creature is immune to the aura for 1 round.\n\n**Failure** The creature is [[Conditions/Frightened|Frightened 1]].\n\n**Critical Failure** The creature is [[Conditions/Frightened|Frightened 2]] and is also [[Conditions/Slowed|Slowed 1]] for 1 round."
 
 attacks:
   - name: ""
@@ -77,11 +78,17 @@ attacks:
     desc: "`pf2:1`  "
 
   - name: "Killer's Possession"
-    desc: "`pf2:2`  The killing intent attempts to possess an adjacent frightened or Unconscious corporeal creature. This has the same effect as the _Possession_ spell (Will), except since the killing intent doesn't have a physical body, it is unaffected by that restriction of the spell.\nThe possessed creature automatically gains a number of temporary Hit Points equal to half the killing intent's remaining HP. Once the possession ends, the target loses the temporary Hit Points, becomes Doomed 1, and is immune to this ability for 24 hours.\nThe killing intent's bloodlust allows its corporeal vessel to exceed its normal bodily limits. A creature possessed by the killing intent deals 4 additional damage on its melee Strikes, takes a -2 penalty to AC, and gains the Quickened condition; it can use the extra action each round only for Strike and Stride actions.\nEffect: Killer's Possession"
+    desc: "`pf2:2`  The killing intent attempts to possess an adjacent frightened or [[Conditions/Unconscious|Unconscious]] corporeal creature. This has the same effect as the _[[Spells/Possession|Possession]]_ spell (DC 21 Will), except since the killing intent doesn't have a physical body, it is unaffected by that restriction of the spell.\n\nThe possessed creature automatically gains a number of temporary Hit Points equal to half the killing intent's remaining HP. Once the possession ends, the target loses the temporary Hit Points, becomes [[Conditions/Doomed|Doomed 1]], and is immune to this ability for 24 hours.\n\nThe killing intent's bloodlust allows its corporeal vessel to exceed its normal bodily limits. A creature possessed by the killing intent deals 4 additional damage on its melee Strikes, takes a -2 penalty to AC, and gains the [[Conditions/Quickened|Quickened]] condition; it can use the extra action each round only for Strike and Stride actions.\n\n[[Effects/Effect_ Killer's Possession|Effect: Killer's Possession]]"
 
   - name: "Nauseating Pressure"
-    desc: "  **Frequency** once per round;\n**Trigger** The killing intent ends its movement adjacent to a creature;\n**Effect** The killing intent focuses its pressure on a creature. The creature must roll a Fortitude save. On a failure, the creature is Sickened 1."
+    desc: "  **Frequency** once per round;\n\n**Trigger** The killing intent ends its movement adjacent to a creature;\n* * *\n\n**Effect** The killing intent focuses its pressure on a creature. The creature must roll a DC 21 Fortitude save. On a failure, the creature is [[Conditions/Sickened|Sickened 1]]."
  
+```
+
+```encounter-table
+name: Killing Intent
+creatures:
+  - 1: Killing Intent
 ```
 
 

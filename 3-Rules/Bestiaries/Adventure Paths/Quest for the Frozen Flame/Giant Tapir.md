@@ -6,6 +6,7 @@ cssClasses: pf2e
 aliases: "Compendium.pf2e.quest-for-the-frozen-flame-bestiary.Actor.tgUdk3pTQ6yHHLTH" 
 tags:
   - pf2e/creature/type/animal
+  - pf2eMonster
   - pf2e/creature/level/2
 statblock: inline
 name: "Giant Tapir"
@@ -23,14 +24,15 @@ level: "Creature 2"
 
 alignment: ""
 size: "Large"
-trait_01: "animal"
+trait_01: [[animal]]
 modifier: 8
 perception:
   - name: "Perception"
     desc: "+8; Low-Light Vision, Scent (Imprecise) 30 Feet"
+languages: ""
 skills:
   - name: "Skills"
-    desc: "Athletics: +8 (+10 to Swim), Stealth: +5"
+    desc: "Athletics: +8, Stealth: +5"
 abilityMods: [4, 1, 3, -4, 2, 0]
 speed: 25 feet
 sourcebook: "_Pathfinder #175: Broken Tusk Moon_"
@@ -55,11 +57,17 @@ attacks:
     desc: "`pf2:1` Jaws +10 ()\n__Damage__  1d8 + 6 piercing"
 
   - name: "Grinding Bite"
-    desc: "`pf2:1`  **Requirements** The giant tapir's last action was a successful jaws Strike against a creature\n**Effect** The tapir gnaws the target's flesh and muscle with its blunt teeth. The creature must attempt a DC 18 Fortitude check save.\n**Critical Success** The creature is unaffected.\n**Success** The creature is [[Conditions/Enfeebled 1|Enfeebled 1]] until the start of its next turn.\n**Failure** The creature takes 2d4 bludgeoning damage and is enfeebled 1 until the end of its next turn.\n**Critical Failure** The creature takes 4d4 bludgeoning damage and is enfeebled 1 for 1 minute."
+    desc: "`pf2:1`  **Requirements** The giant tapir's last action was a successful jaws Strike against a creature\n* * *\n\n**Effect** The tapir gnaws the target's flesh and muscle with its blunt teeth. The creature must attempt a DC 18 Fortitude check save.\n* * *\n\n**Critical Success** The creature is unaffected.\n\n**Success** The creature is [[Conditions/Enfeebled|Enfeebled 1]] until the start of its next turn.\n\n**Failure** The creature takes 2d4 bludgeoning damage and is enfeebled 1 until the end of its next turn.\n\n**Critical Failure** The creature takes 4d4 bludgeoning damage and is enfeebled 1 for 1 minute."
 
   - name: "Splayed Toes"
     desc: "  Giant tapirs ignore difficult terrain from mud and shallow water."
  
+```
+
+```encounter-table
+name: Giant Tapir
+creatures:
+  - 1: Giant Tapir
 ```
 
 

@@ -5,6 +5,7 @@ noteType: pf2eHazard
 tags:
   - mechanical
   - trap
+  - pf2eHazard
 
 source: Pathfinder Adventure: Crown of the Kobold King
 aliases: "Compendium.pf2e.crown-of-the-kobold-king-bestiary.Actor.0eZUrXEQMtNrwgCN" 
@@ -22,8 +23,8 @@ name: "Falling Debris"
 level: "Hazard 1"
 
 
-trait_01: "mechanical"
-trait_02: "trap"
+trait_01: [[mechanical]]
+trait_02: [[trap]]
 modifier: 10
 sourcebook: "_Pathfinder Adventure: Crown of the Kobold King_"
 perception:
@@ -42,9 +43,15 @@ attacks:
   - name: ""
 
   - name: "Drop Debris"
-    desc: "`pf2:r` **Trigger** A creature opens the door without taking care to avoid triggering the trap;\n**Effect** The net drops a dozen hefty stones and a small but quite hard anvil onto the creature, inflicting 3d6 bludgeoning damage (DC 17 Reflex check). The sound of this trap going off alerts Gurtlekep in area **C8**."
+    desc: "`pf2:r` **Trigger** A creature opens the door without taking care to avoid triggering the trap;\n\n**Effect** The net drops a dozen hefty stones and a small but quite hard anvil onto the creature, inflicting 3d6 bludgeoning damage (DC 17 Reflex check). The sound of this trap going off alerts Gurtlekep in area **C8**."
 
 
 
+```
+
+```encounter-table
+name: Falling Debris
+creatures:
+  - 1: Falling Debris
 ```
 

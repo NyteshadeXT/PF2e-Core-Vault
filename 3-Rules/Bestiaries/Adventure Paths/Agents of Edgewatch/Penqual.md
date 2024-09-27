@@ -10,6 +10,7 @@ tags:
   - pf2e/creature/type/sahkil
   - pf2e/creature/type/swarm
   - pf2e/creature/type/unholy
+  - pf2eMonster
   - pf2e/creature/level/15
 statblock: inline
 name: "Penqual"
@@ -24,22 +25,22 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #162: Ruins of the Radiant Siege"
 name: "Penqual"
 level: "Creature 15"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "huge"
-trait_01: "evil"
-trait_02: "fiend"
-trait_03: "sahkil"
-trait_04: "swarm"
-trait_05: "unholy"
+trait_01: [[evil]]
+trait_02: [[fiend]]
+trait_03: [[sahkil]]
+trait_04: [[swarm]]
+trait_05: [[unholy]]
 modifier: 27
 perception:
   - name: "Perception"
     desc: "+27; Darkvision"
-languages: "Chthonian, Diabolic, Empyrean, Requian"
+languages: "Chthonian, Diabolic, Empyrean, Requian; telepathy 100 feet"
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +26, Athletics: +26, Deception: +31, Dream Lore: +27, Intimidation: +31, Performance: +27, Society: +27"
+    desc: "Acrobatics: +26, Athletics: +26, Deception: +31, Intimidation: +31, Performance: +27, Society: +27, Dream Lore: +27"
 abilityMods: [5, 5, 8, 6, 6, 8]
 speed: 40 feet
 sourcebook: "_Pathfinder #162: Ruins of the Radiant Siege_"
@@ -70,7 +71,7 @@ attacks:
     desc: "DC 36, attack +28; __8th __  _[[Spells/Mask of Terror|Mask of Terror (See Crush of Hundreds)]]_; __4th __  _[[Spells/Fear|Fear (At Will)]]_, _[[Spells/Nightmare|Nightmare (At Will)]]_"
 
   - name: "Crush of Hundreds"
-    desc: "  A creature [[Conditions/Frightened 1|Frightened]] by the sahkil's [[Spells/Mask of Terror|Mask of Terror]] feels the press of a suffocating crowd.\nThe creature is [[Conditions/Slowed 1|Slowed 1]] and takes a -10-foot penalty to all Speeds for as long as it is frightened.\n[[Bestiary Effects/Effect_ Crush of Hundreds|Effect: Crush of Hundreds]]"
+    desc: "  A creature [[Conditions/Frightened|Frightened]] by the sahkil's [[Spells/Mask of Terror|Mask of Terror]] feels the press of a suffocating crowd.\n\nThe creature is [[Conditions/Slowed|Slowed 1]] and takes a -10-foot penalty to all Speeds for as long as it is frightened.\n\n[[Bestiary Effects/Effect_ Crush of Hundreds|Effect: Crush of Hundreds]]"
 
   - name: "Frantic Grasp"
     desc: "`pf2:1` (magical) Each enemy in the penqual's space takes 4d12 slashing damage (DC 36 Reflex check save)."
@@ -81,6 +82,12 @@ attacks:
   - name: "Skip Between"
     desc: "`pf2:1` (divine,teleportation) The sahkil can move itself between the Ethereal Plane and the Material Plane, as [[Spells/Ethereal Jaunt|Ethereal Jaunt]], except that this ability has an unlimited duration and can be Dismissed"
  
+```
+
+```encounter-table
+name: Penqual
+creatures:
+  - 1: Penqual
 ```
 
 

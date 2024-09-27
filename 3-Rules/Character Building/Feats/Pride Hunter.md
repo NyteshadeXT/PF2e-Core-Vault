@@ -6,8 +6,9 @@ tags:
   - trait/catfolk
   - trait/common
   - category/ancestry
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.uQGo33E4haaFNg6u"
-license: OGL
+license: ORC
 ---
 # Pride Hunter
 ## Feat 5
@@ -20,5 +21,5 @@ license: OGL
 
 You avoid the attention of creatures focused on your allies. You can use lesser cover from your allies to [[Actions/Hide|Hide]].
 
-*Source: Pathfinder Lost Omens: Ancestry Guide*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

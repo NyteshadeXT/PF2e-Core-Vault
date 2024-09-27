@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.pathfinder-monster-core.Actor.uc61UL57ywxLy0q0"
 tags:
   - pf2e/creature/type/arcane
   - pf2e/creature/type/dragon
+  - pf2eMonster
   - pf2e/creature/level/18
   - remaster
 statblock: inline
@@ -19,14 +20,15 @@ license: ORC
 columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
+token: [[modules/pf2e-tokens-monster-core/assets/portraits/dragon-mirage-ancient.webp| ]]
 source: "Pathfinder Monster Core"
 name: "Mirage Dragon (Ancient)"
 level: "Creature 18"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "huge"
-trait_01: "arcane"
-trait_02: "dragon"
+trait_01: [[arcane]]
+trait_02: [[dragon]]
 modifier: 33
 perception:
   - name: "Perception"
@@ -34,7 +36,7 @@ perception:
 languages: "Common, Draconic, Fey"
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +33, Arcana: +32, Athletics: +34, Crafting: +32, Deception: +37, Diplomacy: +35, Illusion Lore: +34, Performance: +35, Stealth: +35, Thievery: +33"
+    desc: "Acrobatics: +33, Arcana: +32, Athletics: +34, Crafting: +32, Deception: +37, Diplomacy: +35, Performance: +35, Stealth: +35, Thievery: +33, Illusion Lore: +34"
 abilityMods: [7, 7, 6, 6, 7, 9]
 speed: 60 feet,  climb 40 feet,  fly 150 feet
 sourcebook: "_Pathfinder Monster Core_"
@@ -77,7 +79,7 @@ attacks:
     desc: "DC 43, attack +35; __8th __  _[[Spells/Illusory Creature|Illusory Creature]]_, _[[Spells/Illusory Object|Illusory Object (At Will)]]_, _[[Spells/Illusory Scene|Illusory Scene (At Will)]]_, _[[Spells/Mirage|Mirage]]_, _[[Spells/Vibrant Pattern|Vibrant Pattern]]_; __4th __  _[[Spells/Invisibility|Invisibility (At Will)]]_\n__Cantrips__  __(9th)__ _[[Spells/Figment|Figment]]_, _[[Spells/Message|Message]]_"
 
   - name: "Captivating Display"
-    desc: "`pf2:1` (arcane,visual) **Frequency** once per 10 minutes\n* * *\n\n**Effect** The dragon opens the fins on their head, creating a radiant display of enthralling colors. Each creature in a 30-foot emanation must succeed at a DC 41 Will check save or be [[Conditions/Dazzled|Dazzled]] and [[Conditions/Slowed 1|Slowed 1]] (or [[Conditions/Slowed 1|Slowed 2]] on a critical failure) for 1 round. Regardless of the result, a creature is then temporarily immune to Captivating Display for 1 minute."
+    desc: "`pf2:1` (arcane,visual) **Frequency** once per 10 minutes\n* * *\n\n**Effect** The dragon opens the fins on their head, creating a radiant display of enthralling colors. Each creature in a @Template[emanation|distance:30] must succeed at a DC 41 Will check save or be [[Conditions/Dazzled|Dazzled]] and [[Conditions/Slowed|Slowed 1]] (or [[Conditions/Slowed|Slowed 2]] on a critical failure) for 1 round. Regardless of the result, a creature is then temporarily immune to Captivating Display for 1 minute."
 
   - name: "Draconic Frenzy"
     desc: "`pf2:2`  The dragon makes two claw Strikes and one tail Strike in any order."
@@ -86,7 +88,7 @@ attacks:
     desc: "  The dragon recharges their Hallucinatory Breath whenever they score a critical hit with a Strike."
 
   - name: "Hallucinatory Breath"
-    desc: "`pf2:2` (arcane,emotion,mental) The dragon breathes a cloud that assaults the senses and deals 17d6 mental damage in a 50-foot cone (DC 41 Will check save). A creature that fails its save is also [[Conditions/Confused|Confused]] for 1 round (1 minute on a critical failure) and is then temporarily immune to being confused by Hallucinatory Breath for 1 hour.\n\nThe dragon can't use Hallucinatory Breath again for 1d4 rounds."
+    desc: "`pf2:2` (arcane,emotion,mental) The dragon breathes a cloud that assaults the senses and deals 17d6 mental damage in a @Template[cone|distance:50] (DC 41 Will check save). A creature that fails its save is also [[Conditions/Confused|Confused]] for 1 round (1 minute on a critical failure) and is then temporarily immune to being confused by Hallucinatory Breath for 1 hour.\n\nThe dragon can't use Hallucinatory Breath again for 1d4 rounds."
 
   - name: "Lunging Bite"
     desc: "`pf2:2`  The dragon lunges their head forward, making a jaws Strike with an extended reach of 25 feet."
@@ -94,6 +96,12 @@ attacks:
   - name: "Sneak Attack"
     desc: "  The dragon's Strikes deal an additional 3d6 precision damage to [[Conditions/Off-Guard|Off-Guard]] targets."
  
+```
+
+```encounter-table
+name: Mirage Dragon (Ancient)
+creatures:
+  - 1: Mirage Dragon (Ancient)
 ```
 
 

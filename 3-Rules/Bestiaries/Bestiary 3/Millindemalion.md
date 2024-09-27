@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.pathfinder-bestiary-3.Actor.n9xSjQA1YSlYc9p3"
 tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/fey
+  - pf2eMonster
   - pf2e/creature/level/13
 statblock: inline
 name: "Millindemalion"
@@ -25,8 +26,8 @@ level: "Creature 13"
 
 alignment: ""
 size: "Small"
-trait_01: "evil"
-trait_02: "fey"
+trait_01: [[evil]]
+trait_02: [[fey]]
 modifier: 23
 perception:
   - name: "Perception"
@@ -34,7 +35,7 @@ perception:
 languages: "Aklo, Common, Fey"
 skills:
   - name: "Skills"
-    desc: "Crafting: +28, Millinery Lore: +30, Occultism: +24, Society: +24, Stealth: +27"
+    desc: "Crafting: +28, Occultism: +24, Society: +24, Stealth: +27, Millinery Lore: +30"
 abilityMods: [4, 8, 1, 7, 4, 2]
 speed: 30 feet
 sourcebook: "_Pathfinder Bestiary 3_"
@@ -54,7 +55,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "[[Bestiary Ability Glossary/Attack of Opportunity|Attack of Opportunity (Special)]]"
-    desc: "`pf2:r`  The millindemalion can use Hat Toss against the triggering creature instead of making a Strike, making a melee attack roll with a +27 modifier to do so.\n"
+    desc: "`pf2:r`  The millindemalion can use Hat Toss against the triggering creature instead of making a Strike, making a melee attack roll with a +27 modifier to do so.\n\n* * *\n"
 
   - name: "Unsettling Mind"
     desc: "  Attempting to touch the frenetic mind of a millindemalion is a dangerous task. When the millindemalion succeeds at a saving throw against a mental effect, the creature originating that effect takes 4d6 mental damage."
@@ -69,11 +70,17 @@ attacks:
     desc: "`pf2:1` Felt Shears +27 (agile, magical, thrown 10 ft.)\n__Damage__  2d4 + 10 piercing 1d6 mental"
 
   - name: "Hat Toss"
-    desc: "`pf2:1` (manipulate,mental,primal) The millindemalion quickly crafts a mind-altering hat in combat and tosses it onto a target with a flick of their wrist. The millindemalion chooses one of the effects below and makes a ranged attack roll with a +27 modifier and a range increment of 20 feet.\nOn a hit, the target must succeed at a DC 33 Will check saving throw or experience the listed effect for 1d4+1 rounds. If the millindemalion critically succeeds at the ranged Strike, the target takes a -4 circumstance penalty on the save.\nA target can only wear one millindemalion hat at a time; a new hat replaces any previous hat. The hat can't be removed before the condition ends, but when the condition ends (or on a successful save), the hat falls to pieces.\n*   **Befuddling Bowler** The hat clouds the target's mind; the target becomes [[Conditions/Stupefied 1|Stupefied 2]].\n*   **Bewitching Beret** The target is infatuated with their new hat and its creator, becoming [[Conditions/Fascinated|Fascinated]] by the millindemalion and the beret.\n*   **Dazzling Deerstalker** The target can barely see with the hat falling down over its eyes and gains the [[Conditions/Dazzled|Dazzled]] condition.\n*   **Fettering Fedora** The target feels a heavy weight pressing down on them from the hat and takes a -10-foot circumstance penalty to their Speeds.\n*   **Tiring Tricorne** The target grows sleepy and becomes [[Conditions/Slowed 1|Slowed 1]].\n[[Bestiary Effects/Effect_ Fettering Fedora|Effect: Fettering Fedora]]"
+    desc: "`pf2:1` (manipulate,mental,primal) The millindemalion quickly crafts a mind-altering hat in combat and tosses it onto a target with a flick of their wrist. The millindemalion chooses one of the effects below and makes a ranged attack roll with a +27 modifier and a range increment of 20 feet.\n\nOn a hit, the target must succeed at a DC 33 Will check saving throw or experience the listed effect for 1d4+1 rounds. If the millindemalion critically succeeds at the ranged Strike, the target takes a -4 circumstance penalty on the save.\n\nA target can only wear one millindemalion hat at a time; a new hat replaces any previous hat. The hat can't be removed before the condition ends, but when the condition ends (or on a successful save), the hat falls to pieces.\n\n*   **Befuddling Bowler** The hat clouds the target's mind; the target becomes [[Conditions/Stupefied|Stupefied 2]].\n*   **Bewitching Beret** The target is infatuated with their new hat and its creator, becoming [[Conditions/Fascinated|Fascinated]] by the millindemalion and the beret.\n*   **Dazzling Deerstalker** The target can barely see with the hat falling down over its eyes and gains the [[Conditions/Dazzled|Dazzled]] condition.\n*   **Fettering Fedora** The target feels a heavy weight pressing down on them from the hat and takes a -10-foot circumstance penalty to their Speeds.\n*   **Tiring Tricorne** The target grows sleepy and becomes [[Conditions/Slowed|Slowed 1]].\n\n[[Bestiary Effects/Effect_ Fettering Fedora|Effect: Fettering Fedora]]"
 
   - name: "[[Bestiary Ability Glossary/Sneak Attack|Sneak Attack]]"
     desc: "  A millindemalion deals an extra 4d6 precision damage to [[Conditions/Off-Guard|Off-Guard]] creatures."
  
+```
+
+```encounter-table
+name: Millindemalion
+creatures:
+  - 1: Millindemalion
 ```
 
 

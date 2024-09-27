@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/beast
   - pf2e/creature/type/chaotic
   - pf2e/creature/type/evil
+  - pf2eMonster
   - pf2e/creature/level/6
 statblock: inline
 name: "Kurnugian Jackal"
@@ -22,12 +23,12 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Adventure: Troubles in Otari"
 name: "Kurnugian Jackal"
 level: "Creature 6"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Medium"
-trait_01: "beast"
-trait_02: "chaotic"
-trait_03: "evil"
+trait_01: [[beast]]
+trait_02: [[chaotic]]
+trait_03: [[evil]]
 modifier: 17
 perception:
   - name: "Perception"
@@ -66,7 +67,7 @@ attacks:
     desc: "DC 21, attack +13; __3rd __ (1 slots) _[[Spells/Paralyze|Paralyze]]_; __2nd __ (2 slots) _[[Spells/Laughing Fit|Hideous Laughter]]_, _[[Spells/See the Unseen|See Invisibility]]_; __1st __ (2 slots) _[[Spells/Charm|Charm]]_, _[[Spells/Grim Tendrils|Grim Tendrils]]_"
 
   - name: "Hypnotic Stare"
-    desc: "`pf2:1` (concentrate,divine,mental,visual) The Kurnugian jackal opens their third eye to look at a target within 30 feet that can see the jackal. That target takes a -2 penalty to Will saving throws until the end of the Kurnugian jackal's next turn. The Kurnugian jackal can maintain this stare against only one opponent at a time; if the jackal uses it on a second target, it ends for the first target. The jackal can dismiss it as a free action and use their Remove Memory ability if they so choose.\n[[Bestiary Effects/Effect_ Hypnotic Stare|Effect: Hypnotic Stare]]"
+    desc: "`pf2:1` (concentrate,divine,mental,visual) The Kurnugian jackal opens their third eye to look at a target within 30 feet that can see the jackal. That target takes a -2 penalty to Will saving throws until the end of the Kurnugian jackal's next turn. The Kurnugian jackal can maintain this stare against only one opponent at a time; if the jackal uses it on a second target, it ends for the first target. The jackal can dismiss it as a free action and use their Remove Memory ability if they so choose.\n\n[[Bestiary Effects/Effect_ Hypnotic Stare|Effect: Hypnotic Stare]]"
 
   - name: "Remove Memory"
     desc: " (concentrate,divine,mental) The Kurnugian ends their Hypnotic Stare ability early, and just before this happens, the target must succeed at a DC 24 Will check saving throw or forget any hostile activities the Kurnugian jackal performed against it."
@@ -74,6 +75,12 @@ attacks:
   - name: "[[Bestiary Ability Glossary/Knockdown|Knockdown]]"
     desc: "`pf2:1`  "
  
+```
+
+```encounter-table
+name: Kurnugian Jackal
+creatures:
+  - 1: Kurnugian Jackal
 ```
 
 

@@ -17,7 +17,7 @@ license: OGL
 ---
 # Body of Air `pf2:r`
 ## Feat 14
-### [[3-Rules/Rule References/Air]][[impulse]][[kineticist]][[overflow]][[polymorph]][[primal]]
+### [[air]][[impulse]][[kineticist]][[overflow]][[polymorph]][[primal]]
 
 **Category** class; 
 

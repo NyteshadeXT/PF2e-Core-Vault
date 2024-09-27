@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[Game Mastery Guide/Throne|Throne]] from the [[Equipment/Deck of Many Things|Deck of Many Things]]
+Granted by Throne from the [[Equipment/Deck of Many Things|Deck of Many Things]]
 
 *Source: Pathfinder Gamemastery Guide*
 *OGL*

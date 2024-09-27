@@ -1,16 +1,17 @@
 ---
 obsidianUIMode: preview
-title: "Play To The Crowd"
+title: "Play to the Crowd"
 cssclasses: pf2e,pf2e-spell
 tags:
   - trait/archetype
   - trait/concentrate
   - trait/common
   - category/class
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.KrYvJ5n06yHCipCZ"
-license: OGL
+license: ORC
 ---
-# Play To The Crowd `pf2:r`
+# Play to the Crowd `pf2:r`
 ## Feat 4
 ### [[archetype]][[concentrate]]
 
@@ -30,5 +31,5 @@ You show off for the crowd. Attempt a Performance check; the DC is determined by
 *   A +1 circumstance bonus to AC until the end of your next turn.
 *   A +1 circumstance bonus to your next attack roll before the end of your next turn.
 
-*Source: Pathfinder Advanced Player's Guide*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

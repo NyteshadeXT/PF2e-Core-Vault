@@ -8,8 +8,9 @@ tags:
   - trait/spellshape
   - trait/common
   - category/class
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.DS0XlHfi3ztb3ET7"
-license: OGL
+license: ORC
 ---
 # Split Shot `pf2:1`
 ## Feat 4
@@ -20,9 +21,9 @@ license: OGL
 
 
 
-You fragment a ranged spell into a pair of smaller shots. If your next action is to [[Actions/Cast a Spell|Cast a Spell]] without a duration that requires an attack roll against a single target and has no effect beyond dealing damage, you roll a single attack roll and compare the result to the AC of two targets within the spell's range. The spell deals only half its usual damage to each target.
+You fragment a ranged spell. If your next action is to Cast a Spell without a duration that requires an attack roll against a single target, you can choose a second target within range. You roll a single attack roll and compare the result to the AC of both targets.
 
-This counts as one attack for your multiple attack penalty.
+This counts as one attack for your multiple attack penalty. To the second target, the spell deals half the amount of damage it would normally deal and has no effects beyond the spell's initial damage (such as imposing conditions or penalties).
 
-*Source: Pathfinder Advanced Player's Guide*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

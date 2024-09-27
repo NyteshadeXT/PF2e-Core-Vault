@@ -6,8 +6,9 @@ tags:
   - trait/archetype
   - trait/common
   - category/class
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.AuIE19F9rY3YvXf6"
-license: OGL
+license: ORC
 ---
 # Magical Scholastics
 ## Feat 4
@@ -19,7 +20,7 @@ license: OGL
 
 **Prerequisites** Archaeologist Dedication
 * * *
-While study is key to your success, a bit of magic is a helpful tool in discovering the secrets of the past. You gain [[Spells/Detect Magic|Detect Magic]], [[Spells/Guidance|Guidance]], and [[Spells/Read Aura|Read Aura]] as occult innate cantrips.
+While study is key to your success, a bit of magic can be a helpful aid in discovering the secrets of the past. You can cast [[Spells/Detect Magic|Detect Magic]], [[Spells/Guidance|Guidance]], and [[Spells/Read Aura|Read Aura]] as occult innate cantrips.
 
-*Source: Pathfinder Advanced Player's Guide*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

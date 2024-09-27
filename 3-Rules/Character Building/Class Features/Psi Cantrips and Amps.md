@@ -3,6 +3,7 @@ obsidianUIMode: preview
 title: "Psi Cantrips and Amps"
 cssclasses: pf2e,pf2e-spell
 tags:
+  - trait/psychic
   - trait/common
   - category/classfeature
 aliases: "Compendium.pf2e.classfeatures.Item.1tyNn9sduyexXLfL"
@@ -10,7 +11,7 @@ license: OGL
 ---
 # Psi Cantrips and Amps
 ## Feat 1
-### 
+### [[psychic]]
 
 **Category** classfeature; 
 

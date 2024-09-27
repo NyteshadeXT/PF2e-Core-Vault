@@ -6,6 +6,7 @@ cssClasses: pf2e
 aliases: "Compendium.pf2e.pathfinder-bestiary-3.Actor.01alXdlOUvAC6woS" 
 tags:
   - pf2e/creature/type/animal
+  - pf2eMonster
   - pf2e/creature/level/3
 statblock: inline
 name: "Giant Vulture"
@@ -24,11 +25,12 @@ level: "Creature 3"
 
 alignment: ""
 size: "Large"
-trait_01: "animal"
+trait_01: [[animal]]
 modifier: 12
 perception:
   - name: "Perception"
     desc: "+12; Low-Light Vision"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Athletics: +10, Stealth: +9"
@@ -59,11 +61,17 @@ attacks:
     desc: "`pf2:1` Talon +10 (agile)\n__Damage__  1d8 + 5 slashing"
 
   - name: "Carrion Fever"
-    desc: " (disease) The sickened condition from carrion fever can't be reduced while the affliction remains\n**Saving Throw** DC 18 Fortitude check\n**Onset** 1 day\n**Stage 1** [[Conditions/Sickened 1|Sickened 1]] and [[Conditions/Fatigued|Fatigued]] (1 day)\n**Stage 2** sickened 1, [[Conditions/Slowed 1|Slowed 1]], and fatigued (1 day)"
+    desc: " (disease) The sickened condition from carrion fever can't be reduced while the affliction remains\n\n**Saving Throw** DC 18 Fortitude check\n* * *\n\n**Onset** 1 day\n\n**Stage 1** [[Conditions/Sickened|Sickened 1]] and [[Conditions/Fatigued|Fatigued]] (1 day)\n\n**Stage 2** sickened 1, [[Conditions/Slowed|Slowed 1]], and fatigued (1 day)"
 
   - name: "Projectile Vomit"
-    desc: "`pf2:1`  **Frequency** once per hour\n**Effect** The giant vulture vomits up its last meal on a creature within 10 feet. The creature takes 3d6 acid damage with a DC 20 Fortitude check save. On a failed save, the target is also [[Conditions/Sickened 1|Sickened 1]]."
+    desc: "`pf2:1`  **Frequency** once per hour\n* * *\n\n**Effect** The giant vulture vomits up its last meal on a creature within 10 feet. The creature takes 3d6 acid damage with a DC 20 Fortitude check save. On a failed save, the target is also [[Conditions/Sickened|Sickened 1]]."
  
+```
+
+```encounter-table
+name: Giant Vulture
+creatures:
+  - 1: Giant Vulture
 ```
 
 

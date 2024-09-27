@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/fiend
   - pf2e/creature/type/unholy
+  - pf2eMonster
   - pf2e/creature/level/2
 statblock: inline
 name: "Blarghest"
@@ -26,10 +27,10 @@ level: "Creature 2"
 
 alignment: ""
 size: "Medium"
-trait_01: "chaotic"
-trait_02: "evil"
-trait_03: "fiend"
-trait_04: "unholy"
+trait_01: [[chaotic]]
+trait_02: [[evil]]
+trait_03: [[fiend]]
+trait_04: [[unholy]]
 modifier: 10
 perception:
   - name: "Perception"
@@ -56,7 +57,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Slack of Opportunity"
-    desc: "`pf2:r`  **Trigger** A creature targets the blarghest with a hostile action\n**Effect** The blarghest rolls its eyes and sighs, imposing a deep sense of... blargh... upon the attacker. The attacker must attempt a DC 18 Will check save; on a failure, it decides its action is too much work and the triggering action is lost. On a critical failure, the creature is also overcome with lethargy, becoming [[Conditions/Stunned 1|Stunned]] until the start of its next turn"
+    desc: "`pf2:r`  **Trigger** A creature targets the blarghest with a hostile action\n* * *\n\n**Effect** The blarghest rolls its eyes and sighs, imposing a deep sense of... blargh... upon the attacker. The attacker must attempt a DC 18 Will check save; on a failure, it decides its action is too much work and the triggering action is lost. On a critical failure, the creature is also overcome with lethargy, becoming [[Conditions/Stunned|Stunned]] until the start of its next turn"
 
 attacks:
   - name: ""
@@ -76,6 +77,12 @@ attacks:
   - name: "Placeholder"
     desc: "`pf2:2`  The blarghest shouts \"Blargh!\" to produce the effects of any cantrip that has a verbal component. This action gains the traits of that spell"
  
+```
+
+```encounter-table
+name: Blarghest
+creatures:
+  - 1: Blarghest
 ```
 
 

@@ -11,7 +11,7 @@ license: OGL
 ---
 # Way of the Spellshot
 ## Feat 1
-### [uncommon](uncommon "Uncommon Rarity Trait")[[gunslinger]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[gunslinger]]
 
 **Category** classfeature; 
 

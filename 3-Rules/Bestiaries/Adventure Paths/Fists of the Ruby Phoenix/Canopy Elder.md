@@ -6,6 +6,7 @@ cssClasses: pf2e
 aliases: "Compendium.pf2e.fists-of-the-ruby-phoenix-bestiary.Actor.d7fBEPfzXSeCZZXE" 
 tags:
   - pf2e/creature/type/plant
+  - pf2eMonster
   - pf2e/creature/level/19
 statblock: inline
 name: "Canopy Elder"
@@ -20,18 +21,18 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #168: King of the Mountain"
 name: "Canopy Elder"
 level: "Creature 19"
-rare_03: "Rare"
+rare_03: [[Rare]]
 alignment: ""
 size: "grg"
-trait_01: "plant"
+trait_01: [[plant]]
 modifier: 32
 perception:
   - name: "Perception"
     desc: "+32; Low-Light Vision, Tremorsense (Imprecise) 120 Feet"
-languages: "Arboreal, Common, Fey"
+languages: "Arboreal, Common, Fey; speak with animals, speak with plants"
 skills:
   - name: "Skills"
-    desc: "Athletics: +37, Deception: +35, Forest Lore: +35, Intimidation: +35, Nature: +40, Stealth: +31 (+39 in forests)"
+    desc: "Athletics: +37, Deception: +35, Intimidation: +35, Nature: +40, Stealth: +31, Forest Lore: +35"
 abilityMods: [10, 4, 9, 6, 8, 5]
 speed: 40 feet
 sourcebook: "_Pathfinder #168: King of the Mountain_"
@@ -77,8 +78,14 @@ attacks:
     desc: "`pf2:1`  The canopy elder launches a rapidly growing net of fungus from the mushrooms growing on its body at a single creature within 80 feet. The target must attempt a DC 39 Reflex check save or become restrained by the fungal web (Escape DC 39). While restrained, the creature takes 4d6 poison damage at the end of each of their turns."
 
   - name: "Pollen Cloud"
-    desc: "`pf2:2`  The canopy elder releases a dense cloud of pollen from the epiphytes living in its branches. The cloud emanates from the canopy elder in a 40-foot emanation. The cloud doesn't move with the canopy elder and remains in place for 1d6 rounds before dissipating. Creatures inside the cloud become [[Conditions/Concealed|Concealed]], and all creatures outside the cloud become concealed to creatures within it. Non-plant and non-fungus creatures within the cloud must attempt a DC 38 Fortitude check save. On a failure, the creature is [[Conditions/Sickened 1|Sickened 3]], and on a critical failure the creature is also [[Conditions/Blinded|Blinded]] for 1 minute. Regardless of the result, a creature is then temporarily immune to the sickening and blinding effects of the canopy elder's pollen for 24 hours."
+    desc: "`pf2:2`  The canopy elder releases a dense cloud of pollen from the epiphytes living in its branches. The cloud emanates from the canopy elder in a @Template[emanation|distance:40]. The cloud doesn't move with the canopy elder and remains in place for 1d6 rounds before dissipating. Creatures inside the cloud become [[Conditions/Concealed|Concealed]], and all creatures outside the cloud become concealed to creatures within it. Non-plant and non-fungus creatures within the cloud must attempt a DC 38 Fortitude check save. On a failure, the creature is [[Conditions/Sickened|Sickened 3]], and on a critical failure the creature is also [[Conditions/Blinded|Blinded]] for 1 minute. Regardless of the result, a creature is then temporarily immune to the sickening and blinding effects of the canopy elder's pollen for 24 hours."
  
+```
+
+```encounter-table
+name: Canopy Elder
+creatures:
+  - 1: Canopy Elder
 ```
 
 

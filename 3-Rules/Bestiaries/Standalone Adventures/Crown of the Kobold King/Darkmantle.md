@@ -6,6 +6,7 @@ cssClasses: pf2e
 aliases: "Compendium.pf2e.crown-of-the-kobold-king-bestiary.Actor.T4ZhpGRLsNT1bKoS" 
 tags:
   - pf2e/creature/type/beast
+  - pf2eMonster
   - pf2e/creature/level/1
 statblock: inline
 name: "Darkmantle"
@@ -20,14 +21,15 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Adventure: Crown of the Kobold King"
 name: "Darkmantle"
 level: "Creature 1"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Small"
-trait_01: "beast"
+trait_01: [[beast]]
 modifier: 6
 perception:
   - name: "Perception"
     desc: "+6; Darkvision, Tremorsense (Precise) 60 Feet"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Stealth: +7"
@@ -55,14 +57,20 @@ attacks:
     desc: "`pf2:1` Tentacles +7 (agile, finesse)\n__Damage__  1d8 + 1 bludgeoning plus grab"
 
   - name: "[[Bestiary Ability Glossary/Constrict|Constrict]]"
-    desc: "`pf2:1`  1d8 bludgeoning, DC 17 Fortitude check\n"
+    desc: "`pf2:1`  1d8 bludgeoning, DC 17 Fortitude check\n\n* * *\n"
 
   - name: "Shed Darkness"
-    desc: "`pf2:2` (darkness,primal) The darkmantle sheds an inky blob of black fluid from the folds of its body. It can shed this blob horizontally to a distance of up to 30 feet, or simply let it fall up to 120 feet below itself (shed darkness that falls more than 120 feet before striking a surface evaporates without effect). When the blob of darkness lands, it explodes into a 10-foot burst of darkness that prevents light from penetrating or emanating within the area. Light doesn't enter this area, and any non-magical light sources, such as a torch or lantern, don't emanate any light while inside the area, even if their light radius would extend beyond the darkness. This also suppresses magical light of 1st level or lower but has no effect on magical light from 2nd-rank or higher spells. From the outside, it appears as a globe of pure darkness. The darkmantle can't shed darkness again for 24 hours."
+    desc: "`pf2:2` (darkness,primal) The darkmantle sheds an inky blob of black fluid from the folds of its body. It can shed this blob horizontally to a distance of up to 30 feet, or simply let it fall up to 120 feet below itself (shed darkness that falls more than 120 feet before striking a surface evaporates without effect). When the blob of darkness lands, it explodes into a @Template[burst|distance:10] of darkness that prevents light from penetrating or emanating within the area. Light doesn't enter this area, and any non-magical light sources, such as a torch or lantern, don't emanate any light while inside the area, even if their light radius would extend beyond the darkness. This also suppresses magical light of 1st level or lower but has no effect on magical light from 2nd-rank or higher spells. From the outside, it appears as a globe of pure darkness. The darkmantle can't shed darkness again for 24 hours."
 
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
     desc: "`pf2:1`  "
  
+```
+
+```encounter-table
+name: Darkmantle
+creatures:
+  - 1: Darkmantle
 ```
 
 

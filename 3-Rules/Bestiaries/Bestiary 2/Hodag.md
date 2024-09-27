@@ -6,6 +6,7 @@ cssClasses: pf2e
 aliases: "Compendium.pf2e.pathfinder-bestiary-2.Actor.1QWZDaBoefL5rWkz" 
 tags:
   - pf2e/creature/type/beast
+  - pf2eMonster
   - pf2e/creature/level/6
 statblock: inline
 name: "Hodag"
@@ -21,18 +22,18 @@ token: [[modules/pf2e-tokens-bestiaries/portraits/bestial/reptilian/hodag.webp| 
 source: "Pathfinder Bestiary 2"
 name: "Hodag"
 level: "Creature 6"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Large"
-trait_01: "beast"
+trait_01: [[beast]]
 modifier: 14
 perception:
   - name: "Perception"
     desc: "+14; Darkvision, Scent (Imprecise) 30 Feet"
-languages: "Common"
+languages: "Common; (can&#x27;t speak any language)"
 skills:
   - name: "Skills"
-    desc: "Athletics: +15, Stealth: +14 (+16 in forests), Survival: +12"
+    desc: "Athletics: +15, Stealth: +14, Survival: +12"
 abilityMods: [5, 4, 5, -2, 4, 0]
 speed: 25 feet,  burrow 15 feet
 sourcebook: "_Pathfinder Bestiary 2_"
@@ -72,11 +73,17 @@ attacks:
     desc: "`pf2:2`  The hodag makes two claw Strikes and one jaws Strike in any order."
 
   - name: "Toss"
-    desc: "`pf2:2`  The hodag Strides, then makes a Strike against a target in reach. If it moves at least 20 feet and succeeds at its Strike, the hodag deals damage normally and then attempts an Athletics check check against the creature's Fortitude DC to toss the enemy into the air.\nOn a success, the tossed creature is thrown 10 feet in a straight line in the direction of the hodag's choice and then lands [[Conditions/Prone|Prone]]. If the creature is knocked into a solid object, it takes 1d6 bludgeoning damage as well before landing prone. The hodag can instead toss a creature straight up in the air. The creature lands in the same square where it started, takes 1d6 bludgeoning damage, and lands prone."
+    desc: "`pf2:2`  The hodag Strides, then makes a Strike against a target in reach. If it moves at least 20 feet and succeeds at its Strike, the hodag deals damage normally and then attempts an Athletics check check against the creature's Fortitude DC to toss the enemy into the air.\n\nOn a success, the tossed creature is thrown 10 feet in a straight line in the direction of the hodag's choice and then lands [[Conditions/Prone|Prone]]. If the creature is knocked into a solid object, it takes 1d6 bludgeoning damage as well before landing prone. The hodag can instead toss a creature straight up in the air. The creature lands in the same square where it started, takes 1d6 bludgeoning damage, and lands prone."
 
   - name: "[[Bestiary Ability Glossary/Knockdown|Knockdown]]"
     desc: "`pf2:1`  "
  
+```
+
+```encounter-table
+name: Hodag
+creatures:
+  - 1: Hodag
 ```
 
 

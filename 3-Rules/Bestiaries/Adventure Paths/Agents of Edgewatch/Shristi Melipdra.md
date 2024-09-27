@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/human
   - pf2e/creature/type/humanoid
   - pf2e/creature/type/lawful
+  - pf2eMonster
   - pf2e/creature/level/7
 statblock: inline
 name: "Shristi Melipdra"
@@ -23,13 +24,13 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #158: Sixty Feet Under"
 name: "Shristi Melipdra"
 level: "Creature 7"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Medium"
-trait_01: "good"
-trait_02: "human"
-trait_03: "humanoid"
-trait_04: "lawful"
+trait_01: [[good]]
+trait_02: [[human]]
+trait_03: [[humanoid]]
+trait_04: [[lawful]]
 modifier: 18
 perception:
   - name: "Perception"
@@ -69,14 +70,20 @@ attacks:
     desc: "`pf2:1` Fist +17 (agile, finesse, nonlethal, unarmed)\n__Damage__  2d6 + 4 bludgeoning"
 
   - name: "Flurry of Blows"
-    desc: "`pf2:1` (flourish) Shristi makes two unarmed Strikes. If both hit the same creature, combine their damage for the purposes of resistances and weaknesses. He applies his multiple attack penalty to the Strikes normally.\nAs it has the flourish trait, Shristi can use Flurry of Blows only once per turn."
+    desc: "`pf2:1` (flourish) Shristi makes two unarmed Strikes. If both hit the same creature, combine their damage for the purposes of resistances and weaknesses. He applies his multiple attack penalty to the Strikes normally.\n\nAs it has the flourish trait, Shristi can use Flurry of Blows only once per turn."
 
   - name: "Heaven's Thunder"
-    desc: "`pf2:1` (electricity,sonic) **Frequency** twice per day\n**Effect** With a loud shout, Shristi unleashes his ki as a crackling shroud of thunder and lightning that engulfs his body. Until the end of his next turn, Shristi's unarmed Strikes and Strikes with weapons that have the monk trait deal an additional 3 electricity damage and 3 sonic damage."
+    desc: "`pf2:1` (electricity,sonic) **Frequency** twice per day\n* * *\n\n**Effect** With a loud shout, Shristi unleashes his ki as a crackling shroud of thunder and lightning that engulfs his body. Until the end of his next turn, Shristi's unarmed Strikes and Strikes with weapons that have the monk trait deal an additional 3 electricity damage and 3 sonic damage."
 
   - name: "Sky and Heaven Stance"
-    desc: "`pf2:1` (stance) Shristi enters a combat stance perfected by past champions of the Challenge of Sky and Heaven. While in this stance, the only Strikes Shristi can make are skyward slash unarmed attacks. These deal 1d10 slashing damage; are in the brawling group; and have the nonlethal, unarmed, and versatile P traits.\nWhile in Sky and Heaven Stance, Shristi gains resistance 2 to electricity and sonic damage."
+    desc: "`pf2:1` (stance) Shristi enters a combat stance perfected by past champions of the Challenge of Sky and Heaven. While in this stance, the only Strikes Shristi can make are skyward slash unarmed attacks. These deal 1d10 slashing damage; are in the brawling group; and have the nonlethal, unarmed, and versatile P traits.\n\nWhile in Sky and Heaven Stance, Shristi gains resistance 2 to electricity and sonic damage."
  
+```
+
+```encounter-table
+name: Shristi Melipdra
+creatures:
+  - 1: Shristi Melipdra
 ```
 
 

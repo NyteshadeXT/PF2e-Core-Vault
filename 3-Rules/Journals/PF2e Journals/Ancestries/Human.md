@@ -63,37 +63,39 @@ Characters of human ethnicities in the Inner Sea region speak Common (also known
 *   Tians originally come from the far-off continent of Tian Xia.
 *   Ulfens reside in coastal towns of western Avistan.
 *   Varisians historically favored a nomadic life of roving caravans.
-*   Human Mechanics
-*   **Hit Points** 8
-    
-    **Size** Medium
-    
-    **Speed** 25 feet
-    
-    **Attribute Boosts** Two free attribute boosts
-    
-    **Languages** Common
-    
-    **Additional Languages** equal to 1 + your Intelligence modifier (if it's positive). Choose from the list of common languages and any other languages to which you have access (such as the languages prevalent in your region).
-    
-    ## Human Heritages
-    
-    [[Heritages/Skilled Human|Skilled Human]]
-    
-    [[Heritages/Versatile Human|Versatile Human]]
-    
-    [[Heritages/Wintertouched Human|Wintertouched Human]]
-    
-    ## Beginner Box Heritages
-    
-    _These heritages are from the Beginner Box and grant non-standard heritage features._
-    
-    [[Heritages/Battle-Trained Human (BB)|Battle-Trained Human (BB)]]
-    
-    [[Heritages/Warden Human (BB)|Warden Human (BB)]]
-    
-    ## Half-Human Heritages
-    
-    [[Heritages/Aiuvarin|Aiuvarin]]
-    
-    [[Heritages/Dromaar|Dromaar]]
+
+## Human Mechanics
+
+**Hit Points** 8
+
+**Size** Medium
+
+**Speed** 25 feet
+
+**Attribute Boosts** Two free attribute boosts
+
+**Languages** Common
+
+**Additional Languages** equal to 1 + your Intelligence modifier (if it's positive). Choose from the list of common languages and any other languages to which you have access (such as the languages prevalent in your region).
+
+## Human Heritages
+
+[[Heritages/Skilled Human|Skilled Human]]
+
+[[Heritages/Versatile Human|Versatile Human]]
+
+[[Heritages/Wintertouched Human|Wintertouched Human]]
+
+## Beginner Box Heritages
+
+_These heritages are from the Beginner Box and grant non-standard heritage features._
+
+[[Heritages/Battle-Trained Human (BB)|Battle-Trained Human (BB)]]
+
+[[Heritages/Warden Human (BB)|Warden Human (BB)]]
+
+## Half-Human Heritages
+
+[[Heritages/Aiuvarin|Aiuvarin]]
+
+[[Heritages/Dromaar|Dromaar]]

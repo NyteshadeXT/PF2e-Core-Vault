@@ -10,6 +10,7 @@ tags:
   - pf2e/creature/type/lawful
   - pf2e/creature/type/skelm
   - pf2e/creature/type/unholy
+  - pf2eMonster
   - pf2e/creature/level/10
 statblock: inline
 name: "Transformed Bremix (9-10)"
@@ -24,14 +25,14 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Society Scenario #4-11: Prisoners of the Electric Castle"
 name: "Transformed Bremix (9-10)"
 level: "Creature 10"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Medium"
-trait_01: "evil"
-trait_02: "humanoid"
-trait_03: "lawful"
-trait_04: "skelm"
-trait_05: "unholy"
+trait_01: [[evil]]
+trait_02: [[humanoid]]
+trait_03: [[lawful]]
+trait_04: [[skelm]]
+trait_05: [[unholy]]
 modifier: 19
 perception:
   - name: "Perception"
@@ -74,10 +75,10 @@ attacks:
     desc: "DC 29, attack +21; __7th __  _[[Spells/Interplanar Teleport|Plane Shift (Self only; Astral or Material Plane Only)]]_; __5th __  _[[Spells/Harm|Harm]]_, _[[Spells/Illusory Creature|Illusory Creature]]_, _[[Spells/Mind Probe|Mind Probe]]_, _[[Spells/Rewrite Memory|Modify Memory]]_; __4th __  _[[Spells/Translocate|Dimension Door (At Will)]]_; __2nd __  _[[Spells/Invisibility|Invisibility (At Will)]]_, _[[Spells/Silence|Silence (At Will)]]_"
 
   - name: "Bully the Departed"
-    desc: "`pf2:1` (auditory,emotion,mental,occult,unholy) The skelm draws upon the spirit of one of his deceased victims, tormenting their soul beyond the grave. Until the end of his next turn, the soul skelm gains regeneration 15 (deactivated by force or good), and he deals an extra 1d8 spirit damage on his Strikes.\n[[Bestiary Effects/Effect_ Bully the Departed|Effect: Bully the Departed]]"
+    desc: "`pf2:1` (auditory,emotion,mental,occult,unholy) The skelm draws upon the spirit of one of his deceased victims, tormenting their soul beyond the grave. Until the end of his next turn, the soul skelm gains regeneration 15 (deactivated by force or good), and he deals an extra 1d8 spirit damage on his Strikes.\n\n[[Bestiary Effects/Effect_ Bully the Departed|Effect: Bully the Departed]]"
 
   - name: "[[Bestiary Ability Glossary/Change Shape|Change Shape]]"
-    desc: "`pf2:1` (concentrate,occult,polymorph) The soul skelm can take on the appearance of any Medium male humanoid. This doesn't change his Speed or his attack and damage bonuses with his Strikes but might change the damage type his Strikes deal.\n"
+    desc: "`pf2:1` (concentrate,occult,polymorph) The soul skelm can take on the appearance of any Medium male humanoid. This doesn't change his Speed or his attack and damage bonuses with his Strikes but might change the damage type his Strikes deal.\n\n* * *\n"
 
   - name: "Isolating Lash"
     desc: "`pf2:2` (illusion,occult) The soul skelm makes a melee Strike trailing a wave of shadowy illusions. The skelm is [[Conditions/Off-Guard|Off-Guard]] until the start of his next turn. If the Strike is successful, the skelm increases the number of damage dice by one, and the target must attempt a DC 29 Will check save. On a failure, the target becomes [[Conditions/Invisible|Invisible]], inaudible, and otherwise imperceptible to its allies for 4 rounds, and it likewise can't see, hear, or otherwise perceive those allies. Regardless of the outcome, the creature is temporarily immune to Isolating Lash for 24 hours."
@@ -88,6 +89,12 @@ attacks:
   - name: "[[Bestiary Ability Glossary/Knockdown|Knockdown]]"
     desc: "`pf2:1`  "
  
+```
+
+```encounter-table
+name: Transformed Bremix (9-10)
+creatures:
+  - 1: Transformed Bremix (9-10)
 ```
 
 

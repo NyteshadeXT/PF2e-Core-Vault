@@ -12,7 +12,7 @@ license: OGL
 ---
 # Collect Spirit Remnant `pf2:3`
 
-### [[concentrate]][[manipulate]]
+### [[3-Rules/Rule References/Concentrate]][[3-Rules/Rule References/Manipulate]]
 
 **Category** interaction; 
 

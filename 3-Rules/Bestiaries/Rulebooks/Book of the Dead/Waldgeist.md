@@ -10,10 +10,11 @@ tags:
   - pf2e/creature/type/undead
   - pf2e/creature/type/unholy
   - pf2e/creature/type/incorporeal
-  - pf2e/creature/level/9
+  - pf2eMonster
+  - pf2e/creature/level/8
 statblock: inline
 name: "Waldgeist"
-level: 9
+level: 8
 license: OGL
 ---
 
@@ -23,20 +24,20 @@ forcecolumns: true
 layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Book of the Dead"
 name: "Waldgeist"
-level: "Creature 9"
-rare_03: "Uncommon"
+level: "Creature 8"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Small"
-trait_01: "evil"
-trait_02: "spirit"
-trait_03: "undead"
-trait_04: "unholy"
-trait_05: "incorporeal"
+trait_01: [[evil]]
+trait_02: [[spirit]]
+trait_03: [[undead]]
+trait_04: [[unholy]]
+trait_05: [[incorporeal]]
 modifier: 18
 perception:
   - name: "Perception"
     desc: "+18; Darkvision"
-languages: "Arboreal, Common, Fey"
+languages: "Arboreal, Common, Fey; speak with plants"
 skills:
   - name: "Skills"
     desc: "Acrobatics: +16, Intimidation: +16, Nature: +18, Stealth: +18, Woodland Lore (Applies Only to the Woodland the Waldgeist is Bonded To): +21"
@@ -70,14 +71,20 @@ attacks:
     desc: "`pf2:1` Lignifying Hand +18 (finesse, magical)\n__Damage__  2d8 + 7 void plus lignify"
 
   - name: "Primal Innate Spells"
-    desc: "DC 24, attack +16; __5th __  _[[Spells/Nature's Pathway|Tree Stride]]_; __3rd __  _[[Spells/Wall of Thorns|Wall of Thorns]]_; __2nd __  _[[Spells/Entangling Flora|Entangle (At-Will)]]_\n__Cantrips__  __(5th)__ _[[Spells/Tangle Vine|Tanglefoot]]_\n__Constant__  __(4th)__ _[[Spells/Speak with Plants|Speak with Plants]]_"
+    desc: "DC 24, attack +16; __5th __  _[[Spells/Nature's Pathway|Tree Stride]]_; __3rd __  _[[Spells/Wall of Thorns|Wall of Thorns]]_; __2nd __  _[[Spells/Entangling Flora|Entangle (At-Will)]]_\n__Cantrips__  __(4th)__ _[[Spells/Tangle Vine|Tanglefoot]]_\n__Constant__  __(4th)__ _[[Spells/Speak with Plants|Speak with Plants]]_"
 
   - name: "Lignify"
-    desc: " (incapacitation,primal) The touch of a waldgeist transforms flesh into wood. A living creature damaged by the waldgeist's lignifying hand Strike must succeed at a DC 24 Fortitude check save or become [[Conditions/Slowed 1|Slowed 1]] (or [[Conditions/Slowed 1|Slowed 2]] on a critical failure). Further failed saves against lignify increases the slowed condition. Once a creature's actions are reduced to 0 by lignify, that creature becomes [[Conditions/Petrified|Petrified]], except they're transformed into wood instead of stone."
+    desc: " (incapacitation,primal) The touch of a waldgeist transforms flesh into wood. A living creature damaged by the waldgeist's lignifying hand Strike must succeed at a DC 24 Fortitude check save or become [[Conditions/Slowed|Slowed 1]] (or [[Conditions/Slowed|Slowed 2]] on a critical failure). Further failed saves against lignify increases the slowed condition. Once a creature's actions are reduced to 0 by lignify, that creature becomes [[Conditions/Petrified|Petrified]], except they're transformed into wood instead of stone."
 
   - name: "Possess Tree"
-    desc: "`pf2:2` (primal) **Frequency** once per 10 minutes\n**Effect** The waldgeist touches a tree to merge with it, possessing it for up to 1 minute. They can end this possession early as a free action at the start of their turn. While the waldgeist possesses a tree, they lose the incorporeal trait, fly Speed, all resistances, their non-constant spells, and their lignifying hand Strike. Additionally, their size increases to Huge, they gain resistance 5 to bludgeoning and piercing damage, weakness 10 to fire, Speed 20 feet, and the following branch Strike.\n**Melee** `pf2:1` branch (reach 15 feet) +20, **Damage** 2d12+9 bludgeoning.\nWhile a waldgeist possesses a tree, any damage that would be dealt to the waldgeist is instead dealt to the tree. The tree has 60 Hit Points. When the tree is reduced to 0 Hit Points, the waldgeist is immediately ejected, and the tree is destroyed."
+    desc: "`pf2:2` (primal) **Frequency** once per 10 minutes\n* * *\n\n**Effect** The waldgeist touches a tree to merge with it, possessing it for up to 1 minute. They can end this possession early as a free action at the start of their turn. While the waldgeist possesses a tree, they lose the incorporeal trait, fly Speed, all resistances, their non-constant spells, and their lignifying hand Strike. Additionally, their size increases to Huge, they gain resistance 5 to bludgeoning and piercing damage, weakness 10 to fire, Speed 20 feet, and the following branch Strike.\n\n**Melee** `pf2:1` branch (reach 15 feet) +20, **Damage** 2d12+9 bludgeoning.\n\nWhile a waldgeist possesses a tree, any damage that would be dealt to the waldgeist is instead dealt to the tree. The tree has 60 Hit Points. When the tree is reduced to 0 Hit Points, the waldgeist is immediately ejected, and the tree is destroyed."
  
+```
+
+```encounter-table
+name: Waldgeist
+creatures:
+  - 1: Waldgeist
 ```
 
 

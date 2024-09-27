@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/celestial
   - pf2e/creature/type/good
   - pf2e/creature/type/holy
+  - pf2eMonster
   - pf2e/creature/level/12
 statblock: inline
 name: "Monadic Deva"
@@ -27,15 +28,15 @@ level: "Creature 12"
 
 alignment: ""
 size: "Medium"
-trait_01: "angel"
-trait_02: "celestial"
-trait_03: "good"
-trait_04: "holy"
+trait_01: [[angel]]
+trait_02: [[celestial]]
+trait_03: [[good]]
+trait_04: [[holy]]
 modifier: 25
 perception:
   - name: "Perception"
     desc: "+25; Darkvision"
-languages: "Diabolic, Draconic, Empyrean"
+languages: "Diabolic, Draconic, Empyrean; tongues"
 skills:
   - name: "Skills"
     desc: "Arcana: +25, Diplomacy: +24, Intimidation: +22, Occultism: +20, Religion: +25, Survival: +22"
@@ -58,7 +59,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Spiritual Warden"
-    desc: " (aura,divine) 20 feet. Allies in the aura gain a +2 status bonus to saving throws against death effects and effects that target or manipulate their souls.\n[[Bestiary Effects/Effect_ Spiritual Warden|Effect: Spiritual Warden]]"
+    desc: " (aura,divine) 20 feet. Allies in the aura gain a +2 status bonus to saving throws against death effects and effects that target or manipulate their souls.\n\n[[Bestiary Effects/Effect_ Spiritual Warden|Effect: Spiritual Warden]]"
 
 attacks:
   - name: ""
@@ -76,11 +77,17 @@ attacks:
     desc: " (divine) Any weapon gains the effect of a _[[Equipment/Holy|Holy]]_ property rune while a monadic deva wields it."
 
   - name: "Rebuke Soul"
-    desc: "`pf2:1` (auditory,divine,holy,incapacitation) The monadic deva speaks a word to cause a creature's soul to recoil at its sins or an undead creature to recoil at its lack of a soul. One non-good living or undead target within 40 feet takes 5d10 spirit damage and must attempt a DC 32 Fortitude check save.\nRegardless of the outcome, the target is then temporarily immune for 10 minutes.\n**Critical Success** The target is unaffected.\n**Success** The target takes half damage and is [[Conditions/Stunned 1|Stunned 1]].\n**Failure** The target takes full damage and is [[Conditions/Stunned 1|Stunned 2]].\n**Critical Failure** The target takes double damage and is [[Conditions/Stunned 1|Stunned 4]]."
+    desc: "`pf2:1` (auditory,divine,holy,incapacitation) The monadic deva speaks a word to cause a creature's soul to recoil at its sins or an undead creature to recoil at its lack of a soul. One non-good living or undead target within 40 feet takes 5d10 spirit damage and must attempt a DC 32 Fortitude check save.\n\nRegardless of the outcome, the target is then temporarily immune for 10 minutes.\n* * *\n\n**Critical Success** The target is unaffected.\n\n**Success** The target takes half damage and is [[Conditions/Stunned|Stunned 1]].\n\n**Failure** The target takes full damage and is [[Conditions/Stunned|Stunned 2]].\n\n**Critical Failure** The target takes double damage and is [[Conditions/Stunned|Stunned 4]]."
 
   - name: "Solid Blow"
     desc: " (divine,force) When a monadic deva hits a target for the second time during its turn with its mace, it deals an additional 2d12 force damage as its weapon shimmers with ripples of power."
  
+```
+
+```encounter-table
+name: Monadic Deva
+creatures:
+  - 1: Monadic Deva
 ```
 
 

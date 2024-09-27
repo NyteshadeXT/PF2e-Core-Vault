@@ -20,7 +20,7 @@ license: OGL
 
 Wispy, ethereal strands of carefully spun silk make up the substance of a portable hole, which sparkles with captive beams of starlight. It's linked to an extradimensional space in the shape of a pit, which can be accessed if the hole is fully opened.
 
-_Portable holes_ and _bags of holding_ are antithetical to one another. Rather than deactivating either, if one is placed inside the other, as typical for extradimensional spaces, a rift to the Astral Plane tears open and destroys both items. Any creature or unattended object within a 10-foot burst centered on the bag is sucked through to the Astral Plane, though a creature can avoid this with a successful DC 30 Reflex check save. The whole process happens in a single blink of an eye.
+_Portable holes_ and _bags of holding_ are antithetical to one another. Rather than deactivating either, if one is placed inside the other, as typical for extradimensional spaces, a rift to the Astral Plane tears open and destroys both items. Any creature or unattended object within a @Template\[burst|distance:10\] centered on the bag is sucked through to the Astral Plane, though a creature can avoid this with a successful DC 30 Reflex check save. The whole process happens in a single blink of an eye.
 
 * * *
 

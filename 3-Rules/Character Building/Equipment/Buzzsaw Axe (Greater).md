@@ -13,7 +13,7 @@ license: OGL
 ---
 # Buzzsaw Axe (Greater)
 ## Item 15
-### [[magical]][[sweep]]
+### [[3-Rules/Rule References/Magical]][[sweep]]
 
 |  |  |
 | -- | -- |
@@ -34,7 +34,7 @@ With an aerodynamic cutting edge and a curved handle, this _+2 greater striking 
 
 * * *
 
-**Effect** You hurl the axe, which spins at great speed as it flies to a distant point and returns to you, leaving a trail of carnage. Each creature in a 120-foot line must succeed at a DC 34 Reflex check save or take damage equal to the weapon's melee damage, including your Strength modifier.
+**Effect** You hurl the axe, which spins at great speed as it flies to a distant point and returns to you, leaving a trail of carnage. Each creature in a @Template\[line|distance:120\] must succeed at a DC 34 Reflex check save or take damage equal to the weapon's melee damage, including your Strength modifier.
 
 *Source: Pathfinder Secrets of Magic*
 *OGL*

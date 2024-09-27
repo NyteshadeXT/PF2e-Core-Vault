@@ -11,7 +11,7 @@ license: OGL
 ---
 # Deafening Music Box
 ## Item 8
-### [uncommon](uncommon "Uncommon Rarity Trait")[[auditory]][[magical]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[3-Rules/Rule References/auditory]][[3-Rules/Rule References/Magical]]
 
 
 **Price** 500 gp; 
@@ -19,6 +19,8 @@ license: OGL
 **Usage** held-in-two-hands
 
 Symbols of musical notes decorate this gold-framed wooden cube measuring just under 1 foot by 1 foot. A funnel-shaped trumpet protrudes from the box's top at an angle, though it feels surprisingly light. The box has a large button on its side, and it must be set down on a flat surface in order to activate it; while it's activated, the rumbling and churning gears inside the box make it impossible to carry without dropping it.
+
+* * *
 
 **Activate** `pf2:1` Interact
 

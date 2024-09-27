@@ -19,7 +19,7 @@ license: OGL
 
 **Prerequisites** Artillerist Dedication
 * * *
-By loading special ammunition in a particular way, you can make your siege weapons do all manner of tricks that other siege engineers can barely even imagine. If you personally contribute an additional Load action to the siege weapon's loading, above the minimum, you can change a burst into a line twice as long as the size of the burst, or vice versa (so a 10-foot burst turns into a 20-foot line, or a 20-foot line turns into a 10-foot burst).
+By loading special ammunition in a particular way, you can make your siege weapons do all manner of tricks that other siege engineers can barely even imagine. If you personally contribute an additional Load action to the siege weapon's loading, above the minimum, you can change a burst into a line twice as long as the size of the burst, or vice versa (so a @Template\[burst|distance:10\] turns into a @Template\[line|distance:20\], or a @Template\[line|distance:20\] turns into a @Template\[burst|distance:10\]).
 
 *Source: Pathfinder Guns & Gears*
 *OGL*

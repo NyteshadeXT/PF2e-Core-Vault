@@ -10,6 +10,7 @@ tags:
   - pf2e/creature/type/incorporeal
   - pf2e/creature/type/undead
   - pf2e/creature/type/unholy
+  - pf2eMonster
   - pf2e/creature/level/5
 statblock: inline
 name: "Dalgyal Gwishin"
@@ -24,19 +25,19 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #197: Let the Leaves Fall"
 name: "Dalgyal Gwishin"
 level: "Creature 5"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Medium"
-trait_01: "chaotic"
-trait_02: "evil"
-trait_03: "incorporeal"
-trait_04: "undead"
-trait_05: "unholy"
+trait_01: [[chaotic]]
+trait_02: [[evil]]
+trait_03: [[incorporeal]]
+trait_04: [[undead]]
+trait_05: [[unholy]]
 modifier: 12
 perception:
   - name: "Perception"
     desc: "+12; Lifesense 120 Feet"
-languages: "Common, Necril"
+languages: "Common, Necril; (can&#x27;t speak any language); telepathy 120 feet"
 skills:
   - name: "Skills"
     desc: "Acrobatics: +13, Intimidation: +12, Stealth: +13"
@@ -56,12 +57,12 @@ abilities_top:
   - name: ""
 
   - name: "[[Bestiary Ability Glossary/Lifesense|Lifesense (Precise) 120 feet]]"
-    desc: "  The dalgyal gwishin senses the vital essence of living and undead creatures within the listed range.\n"
+    desc: "  The dalgyal gwishin senses the vital essence of living and undead creatures within the listed range.\n\n* * *\n"
 
 abilities_mid:
   - name: ""
   - name: "[[Bestiary Ability Glossary/Frightful Presence|Frightful Presence]]"
-    desc: " (aura,emotion,fear,mental) 30 feet DC 19 Will check\n"
+    desc: " (aura,emotion,fear,mental) 30 feet DC 19 Will check\n\n* * *\n"
 
   - name: "Stone-Faced"
     desc: "  While the dalgyal gwishin has no physical body, its stone face is solid. It can't pass through solid objects."
@@ -73,11 +74,17 @@ attacks:
     desc: "`pf2:1` Head +12 (finesse, magical)\n__Damage__  2d6 + 2 bludgeoning 2d6 mental"
 
   - name: "Jealous Frenzy"
-    desc: "`pf2:r` (divine,mental) **Trigger** The dalgyal gwishin Strikes a creature that has a higher Charisma modifier than itself\n**Frequency** once per day\n**Effect** The dalgyal gwishin enters an envious frenzy as it senses strong ties of friendship and personality within the creature it struck. The dalgyal gwishin becomes [[Conditions/Quickened|Quickened]] but can only use its quickened action to Strike the triggering creature. If the dalgyal gwishin fails to Strike the triggering creature at least once during its turn, Jealous Frenzy ends. It also ends after 1 minute. After Jealous Frenzy ends, the dalgyal gwishin is [[Conditions/Slowed 1|Slowed 1]] for 1 minute."
+    desc: "`pf2:r` (divine,mental) **Trigger** The dalgyal gwishin Strikes a creature that has a higher Charisma modifier than itself\n\n**Frequency** once per day\n* * *\n\n**Effect** The dalgyal gwishin enters an envious frenzy as it senses strong ties of friendship and personality within the creature it struck. The dalgyal gwishin becomes [[Conditions/Quickened|Quickened]] but can only use its quickened action to Strike the triggering creature. If the dalgyal gwishin fails to Strike the triggering creature at least once during its turn, Jealous Frenzy ends. It also ends after 1 minute. After Jealous Frenzy ends, the dalgyal gwishin is [[Conditions/Slowed|Slowed 1]] for 1 minute."
 
   - name: "Peel Face"
-    desc: "`pf2:r` (divine) **Trigger** The dalgyal gwishin critically hits a creature or reduces a creature to 0 Hit Points while in a Jealous Frenzy\n**Effect** The dalgyal gwishin presses its stony face to the creature's face, causing a ghostly imprint of that face to peel away and duplicate onto its head. The triggering creature must succeed at a DC 22 Will check save or become [[Conditions/Stupefied 1|Stupefied 1]] ([[Conditions/Stupefied 1|Stupefied 2]] on a critical failure). The dalgyal gwishin's Jealous Frenzy ends, and it doesn't become slowed."
+    desc: "`pf2:r` (divine) **Trigger** The dalgyal gwishin critically hits a creature or reduces a creature to 0 Hit Points while in a Jealous Frenzy\n* * *\n\n**Effect** The dalgyal gwishin presses its stony face to the creature's face, causing a ghostly imprint of that face to peel away and duplicate onto its head. The triggering creature must succeed at a DC 22 Will check save or become [[Conditions/Stupefied|Stupefied 1]] ([[Conditions/Stupefied|Stupefied 2]] on a critical failure). The dalgyal gwishin's Jealous Frenzy ends, and it doesn't become slowed."
  
+```
+
+```encounter-table
+name: Dalgyal Gwishin
+creatures:
+  - 1: Dalgyal Gwishin
 ```
 
 

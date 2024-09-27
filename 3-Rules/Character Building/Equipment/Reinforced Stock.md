@@ -6,7 +6,7 @@ tags:
   - pf2e/weapon
   - trait/attached-to-crossbow-or-firearm
   - trait/finesse
-  - trait/two-hand-d6
+  - trait/two-hand-d8
   - trait/common
   - category/martial
 aliases: "Compendium.pf2e.equipment-srd.Item.tHIb3ynOHj7dGiCH"
@@ -14,7 +14,7 @@ license: OGL
 ---
 # Reinforced Stock
 ## Item 0
-### [[attached-to-crossbow-or-firearm]][[finesse]][[two-hand-d6]]
+### [[attached-to-crossbow-or-firearm]][[finesse]][[two-hand-d8]]
 
 |  |  |
 | -- | -- |

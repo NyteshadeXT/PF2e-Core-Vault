@@ -19,7 +19,7 @@ license: OGL
 **Bulk** 0; **Size** med
 **Usage** affixed-to-a-creature
 
-This handsome tassel comes in a variety of colors to match your companion’s collar or bridle. While attached, the tassel gives the companion a +1 item bonus to Acrobatics checks to Balance, and to their Reflex DC against Trip attacks.
+This handsome tassel comes in a variety of colors to match your companion's collar or bridle. While attached, the tassel gives the companion a +1 item bonus to Acrobatics checks to Balance, and to their Reflex DC against Trip attacks.
 
 *Source: Pathfinder #193: Mantle of Gold*
 *OGL*

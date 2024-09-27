@@ -14,7 +14,7 @@ tags:
 
 # Leg Wound
 
-> **Crit Effect:** The target takes a [[Other Effects/Effect\_ -5-foot status penalty to your land Speed|-5-foot status penalty to land Speed]] until healed.
+> **Crit Effect:** The target takes a [[Other Effects/Effect_ -5-foot status penalty to your land Speed|-5-foot status penalty to land Speed]] until healed.
 
 `Piercing`
 

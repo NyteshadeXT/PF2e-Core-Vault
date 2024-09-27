@@ -4,8 +4,9 @@ title: "Effect: Juggernaut Mutagen (Lesser)"
 cssclasses: pf2e,pf2e-spell
 tags:
   - trait/common
+  - remaster
 aliases: "Compendium.pf2e.equipment-effects.Item.1l139A2Qik4lBHKO"
-license: OGL
+license: ORC
 ---
 # Effect: Juggernaut Mutagen (Lesser)
 ## Level 1
@@ -30,5 +31,5 @@ Unimplemented effects:
 
 *   Whenever you are at maximum Hit Points for at least 1 full minute, you regain the temporary Hit Points.
 
-*Source: Pathfinder Core Rulebook*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

@@ -10,6 +10,7 @@ tags:
   - pf2e/creature/type/lawful
   - pf2e/creature/type/swarm
   - pf2e/creature/type/unholy
+  - pf2eMonster
   - pf2e/creature/level/8
 statblock: inline
 name: "Hellwasp Swarm"
@@ -28,16 +29,16 @@ level: "Creature 8"
 
 alignment: ""
 size: "Large"
-trait_01: "evil"
-trait_02: "fiend"
-trait_03: "lawful"
-trait_04: "swarm"
-trait_05: "unholy"
+trait_01: [[evil]]
+trait_02: [[fiend]]
+trait_03: [[lawful]]
+trait_04: [[swarm]]
+trait_05: [[unholy]]
 modifier: 16
 perception:
   - name: "Perception"
     desc: "+16; Darkvision"
-languages: "Diabolic"
+languages: "Diabolic; (can&#x27;t speak any language)"
 skills:
   - name: "Skills"
     desc: "Acrobatics: +18, Stealth: +18"
@@ -62,20 +63,26 @@ attacks:
   - name: ""
 
   - name: "Abandon Corpse"
-    desc: "`pf2:1`  **Requirements** The hellwasp swarm is controlling a corpse with Infest Corpse\n**Effect** The hellwasp swarm leaves its host corpse, which dies instantly and becomes a normal corpse in all respects. The hellwasp swarm expands out from that space to its normal size."
+    desc: "`pf2:1`  **Requirements** The hellwasp swarm is controlling a corpse with Infest Corpse\n* * *\n\n**Effect** The hellwasp swarm leaves its host corpse, which dies instantly and becomes a normal corpse in all respects. The hellwasp swarm expands out from that space to its normal size."
 
   - name: "Hellwasp Stings"
     desc: "`pf2:1`  Each enemy in the swarm's space takes 4d8 piercing damage (DC 26 Reflex check save). Any creature that fails its saving throw is exposed to hellwasp venom."
 
   - name: "Hellwasp Venom"
-    desc: " (poison) **Saving Throw** DC 26 Fortitude check\n**Maximum Duration** 6 rounds\n**Stage 1** 1d8 poison damage and [[Conditions/Clumsy 1|Clumsy 2]] (1 round)\n**Stage 2** 2d8 poison damage and clumsy 2 (1 round)"
+    desc: " (poison) **Saving Throw** DC 26 Fortitude check\n* * *\n\n**Maximum Duration** 6 rounds\n\n**Stage 1** 1d8 poison damage and [[Conditions/Clumsy|Clumsy 2]] (1 round)\n\n**Stage 2** 2d8 poison damage and clumsy 2 (1 round)"
 
   - name: "Infest Corpse"
-    desc: "`pf2:2` (manipulate) The hellwasp swarm animates the corpse of a Small, Medium, or Large humanoid that protected by [[Spells/Peaceful Rest|Peaceful Rest]] or similar magic, crawling into its mouth and other orifices.\nIts size changes to that of the corpse and it loses its piercing and slashing resistances, fly Speed, and Hellwasp Stings.\nIt gains a fist melee Strike with a +18/+13/+8 attack modifier that deals 2d8 bludgeoning damage plus 2d8 piercing damage and hellwasp venom. The hellwasp swarm gains 40 temporary Hit Points when it Infests a Corpse; when these temporary HP are depleted, the corpse falls apart and the swarm Abandons the Corpse automatically."
+    desc: "`pf2:2` (manipulate) The hellwasp swarm animates the corpse of a Small, Medium, or Large humanoid that protected by [[Spells/Peaceful Rest|Peaceful Rest]] or similar magic, crawling into its mouth and other orifices.\n\nIts size changes to that of the corpse and it loses its piercing and slashing resistances, fly Speed, and Hellwasp Stings.\n\nIt gains a fist melee Strike with a +18/+13/+8 attack modifier that deals 2d8 bludgeoning damage plus 2d8 piercing damage and hellwasp venom. The hellwasp swarm gains 40 temporary Hit Points when it Infests a Corpse; when these temporary HP are depleted, the corpse falls apart and the swarm Abandons the Corpse automatically."
 
   - name: "Torturous Buzz"
-    desc: "`pf2:2` (auditory,emotion,incapacitation,occult) The swarm emits a distracting, cacophonous buzzing. Each creature within 20 feet must attempt a DC 26 Will check save.\n**Critical Success** The creature is unaffected and temporarily immune for 1 minute.\n**Success** The creature is unaffected.\n**Failure** The creature is [[Conditions/Confused|Confused]] for 1 round.\n**Critical Failure** The creature is confused for 1d4 rounds."
+    desc: "`pf2:2` (auditory,emotion,incapacitation,occult) The swarm emits a distracting, cacophonous buzzing. Each creature within 20 feet must attempt a DC 26 Will check save.\n* * *\n\n**Critical Success** The creature is unaffected and temporarily immune for 1 minute.\n\n**Success** The creature is unaffected.\n\n**Failure** The creature is [[Conditions/Confused|Confused]] for 1 round.\n\n**Critical Failure** The creature is confused for 1d4 rounds."
  
+```
+
+```encounter-table
+name: Hellwasp Swarm
+creatures:
+  - 1: Hellwasp Swarm
 ```
 
 

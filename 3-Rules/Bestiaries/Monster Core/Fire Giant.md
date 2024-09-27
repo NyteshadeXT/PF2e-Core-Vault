@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/fire
   - pf2e/creature/type/giant
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/10
   - remaster
 statblock: inline
@@ -27,9 +28,9 @@ level: "Creature 10"
 
 alignment: ""
 size: "Large"
-trait_01: "fire"
-trait_02: "giant"
-trait_03: "humanoid"
+trait_01: [[fire]]
+trait_02: [[giant]]
+trait_03: [[humanoid]]
 modifier: 18
 perception:
   - name: "Perception"
@@ -69,16 +70,22 @@ attacks:
     desc: "`pf2:1` Fist +23 (agile, reach 10 feet)\n__Damage__  2d8 + 13 bludgeoning"
 
   - name: "Ranged"
-    desc: "`pf2:1` Flame +23 (fire, primal, range 120 feet)\n__Damage__  2d8 + 13 bludgeoning plus rock 1d6 fire plus rock"
+    desc: "`pf2:1` Flame +21 (fire, primal, range 120 feet)\n__Damage__  4d6 fire plus rock 2d6 fire plus rock"
 
   - name: "Flaming Stroke"
-    desc: "`pf2:2` (fire,primal) The fire giant imbues their blade with flames and makes a greatsword Strike with a –2 circumstance penalty against each creature in a 15-foot line. They make one attack roll only and compare the result to each creature's AC. This Strike deals an additional 1d6 fire damage and counts as one attack for the fire giant's multiple attack penalty"
+    desc: "`pf2:2` (fire,primal) The fire giant imbues their blade with flames and makes a greatsword Strike with a –2 circumstance penalty against each creature in a @Template[line|distance:15]. They make one attack roll only and compare the result to each creature's AC. This Strike deals an additional 1d6 fire damage and counts as one attack for the fire giant's multiple attack penalty"
  
+```
+
+```encounter-table
+name: Fire Giant
+creatures:
+  - 1: Fire Giant
 ```
 
 
 
-The most militaristic of giants, fire giants focus obsessively on learning combat techniques, mastering the arts of forging weapons and armor, and finding new ways to dominate their enemies. Most fire giant communities are built around elemental rifts, hot springs, or volcanic calderas and cannot be moved easily, inspiring unwavering defense against any intruders. As a result, their social and political structures are grounded firmly in martial hierarchies, with a strict emphasis on following the orders of one’s superior.
+The most militaristic of giants, fire giants focus obsessively on learning combat techniques, mastering the arts of forging weapons and armor, and finding new ways to dominate their enemies. Most fire giant communities are built around elemental rifts, hot springs, or volcanic calderas and cannot be moved easily, inspiring unwavering defense against any intruders. As a result, their social and political structures are grounded firmly in martial hierarchies, with a strict emphasis on following the orders of one's superior.
 
 As soon as a fire giant can walk, they are fitted with their first suit of forged armor. This armor is constantly remolded and replaced as the giant matures. Beyond what they can forge in their volcanic furnaces, fire giants also look to tame dinosaurs, drakes, and hell hounds as tools of war.
 

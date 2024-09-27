@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/plant
   - pf2e/creature/type/swarm
+  - pf2eMonster
   - pf2e/creature/level/18
 statblock: inline
 name: "Mandragora Swarm"
@@ -23,13 +24,13 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Kingmaker"
 name: "Mandragora Swarm"
 level: "Creature 18"
-rare_03: "Rare"
+rare_03: [[Rare]]
 alignment: ""
 size: "Large"
-trait_01: "chaotic"
-trait_02: "evil"
-trait_03: "plant"
-trait_04: "swarm"
+trait_01: [[chaotic]]
+trait_02: [[evil]]
+trait_03: [[plant]]
+trait_04: [[swarm]]
 modifier: 30
 perception:
   - name: "Perception"
@@ -37,7 +38,7 @@ perception:
 languages: "Chthonian, Common"
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +32, Athletics: +29, Stealth: +34 (+38 in vegetation)"
+    desc: "Acrobatics: +32, Athletics: +29, Stealth: +34"
 abilityMods: [5, 8, 6, -1, 6, 0]
 speed: 30 feet,  burrow 10 feet,  climb 30 feet
 sourcebook: "_Pathfinder Kingmaker_"
@@ -59,23 +60,29 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Vulnerability to Supernatural Darkness"
-    desc: "  Whenever a mandragora begins its turn in an area of magical darkness, it is [[Conditions/Slowed 1|Slowed 1]] on that turn."
+    desc: "  Whenever a mandragora begins its turn in an area of magical darkness, it is [[Conditions/Slowed|Slowed 1]] on that turn."
 
 attacks:
   - name: ""
 
   - name: "Blood Drain"
-    desc: "  **Trigger** An enemy takes damage from the mandragora swarm's Swarming Bites action\n**Effect** The mandragora swarm drains blood from the creature, dealing 9d6 damage. If the creature is a demon, fey, or sorcerer, the mandragora gains temporary Hit Points equal to the damage dealt. A creature that has its blood drained by a mandragora is [[Conditions/Drained 1|Drained 2]] until it receives healing of any kind or amount."
+    desc: "  **Trigger** An enemy takes damage from the mandragora swarm's Swarming Bites action\n* * *\n\n**Effect** The mandragora swarm drains blood from the creature, dealing 9d6 damage. If the creature is a demon, fey, or sorcerer, the mandragora gains temporary Hit Points equal to the damage dealt. A creature that has its blood drained by a mandragora is [[Conditions/Drained|Drained 2]] until it receives healing of any kind or amount."
 
   - name: "Mandragora Swarm Venom"
-    desc: " (poison) **Saving Throw** DC 40 Fortitude check\n**Maximum Duration** 6 rounds\n**Stage 1** 4d6 poison damage and [[Conditions/Stupefied 1|Stupefied 1]] (1 round)\n**Stage 2** 4d6 poison damage, [[Conditions/Confused|Confused]], and stupefied 1 (1 round)\n**Stage 3** 6d6 poison damage, confused, and stupefied 1 (1 round)"
+    desc: " (poison) **Saving Throw** DC 40 Fortitude check\n\n**Maximum Duration** 6 rounds\n\n**Stage 1** 4d6 poison damage and [[Conditions/Stupefied|Stupefied 1]] (1 round)\n\n**Stage 2** 4d6 poison damage, [[Conditions/Confused|Confused]], and stupefied 1 (1 round)\n\n**Stage 3** 6d6 poison damage, confused, and stupefied 1 (1 round)"
 
   - name: "Piercing Shriek"
-    desc: "`pf2:1` (auditory,mental,primal) **Frequency** once per day\n**Effect** The mandragora emits an unsettling shriek. Each non-mandragora creature within 30 feet must attempt a DC 40 Will check save.\n**Critical Success** The creature is unaffected.\n**Success** The creature is [[Conditions/Sickened 1|Sickened 1]].\n**Failure** The creature is [[Conditions/Sickened 1|Sickened 2]].\n**Critical Failure** The creature is [[Conditions/Sickened 1|Sickened 2]] and [[Conditions/Slowed 1|Slowed 1]]. As long as the creature remains sickened, this slowed condition value can't be reduced below 1."
+    desc: "`pf2:1` (auditory,mental,primal) **Frequency** once per day\n* * *\n\n**Effect** The mandragora emits an unsettling shriek. Each non-mandragora creature within 30 feet must attempt a DC 40 Will check save.\n* * *\n\n**Critical Success** The creature is unaffected.\n\n**Success** The creature is [[Conditions/Sickened|Sickened 1]].\n\n**Failure** The creature is [[Conditions/Sickened|Sickened 2]].\n\n**Critical Failure** The creature is [[Conditions/Sickened|Sickened 2]] and [[Conditions/Slowed|Slowed 1]]. As long as the creature remains sickened, this slowed condition value can't be reduced below 1."
 
   - name: "Swarming Bites"
     desc: "`pf2:1`  Each enemy in the swarm's space takes 7d8 piercing damage (DC 40 Reflex check) and is exposed to mandragora swarm venom. A successful save negates the poison exposure."
  
+```
+
+```encounter-table
+name: Mandragora Swarm
+creatures:
+  - 1: Mandragora Swarm
 ```
 
 

@@ -14,7 +14,7 @@ license: OGL
 ---
 # Fling Magic `pf2:2`
 
-### [[concentrate]][[magical]][[manipulate]][[thaumaturge]]
+### [[3-Rules/Rule References/Concentrate]][[3-Rules/Rule References/Magical]][[3-Rules/Rule References/Manipulate]][[thaumaturge]]
 
 **Category** offensive; 
 

@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/giant
   - pf2e/creature/type/humanoid
   - pf2e/creature/type/unholy
+  - pf2eMonster
   - pf2e/creature/level/16
   - remaster
 statblock: inline
@@ -24,12 +25,12 @@ token: [[modules/pf2e-tokens-bestiaries/portraits/humanoid/giant/rune-giant.webp
 source: "Pathfinder Monster Core"
 name: "Rune Giant"
 level: "Creature 16"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "grg"
-trait_01: "giant"
-trait_02: "humanoid"
-trait_03: "unholy"
+trait_01: [[giant]]
+trait_02: [[humanoid]]
+trait_03: [[unholy]]
 modifier: 28
 perception:
   - name: "Perception"
@@ -81,14 +82,20 @@ attacks:
     desc: " (arcane,mental) When a rune giant casts their innate [[Spells/Sending|Sending]] spell, they can also cast [[Spells/Suggestion|Suggestion]] on the target."
 
   - name: "Flashing Runes"
-    desc: " (arcane,light) **Trigger** The rune giant uses an arcane ability or casts an arcane spell\n* * *\n\n**Effect** The runes on the giant's body flash with magical energy. Each creature within a 10-foot emanation must attempt a DC 35 Fortitude check save.\n* * *\n\n**Critical Success** The creature is unaffected.\n\n**Success** The creature is [[Conditions/Dazzled|Dazzled]] for 1 round.\n\n**Failure** The creature is [[Conditions/Blinded|Blinded]] for 1 round."
+    desc: " (arcane,light) **Trigger** The rune giant uses an arcane ability or casts an arcane spell\n* * *\n\n**Effect** The runes on the giant's body flash with magical energy. Each creature within a @Template[emanation|distance:10] must attempt a DC 35 Fortitude check save.\n* * *\n\n**Critical Success** The creature is unaffected.\n\n**Success** The creature is [[Conditions/Dazzled|Dazzled]] for 1 round.\n\n**Failure** The creature is [[Conditions/Blinded|Blinded]] for 1 round."
 
   - name: "Invoke Rune"
-    desc: "`pf2:1` (arcane,concentrate,electricity) The rune giant invokes one of the runes on their body, causing the rune to spray forth a 30-foot cone of sparks that deals 6d12 electricity damage to all creatures in the cone (DC 37 Reflex check save).\n\nThe giant can't use Invoke Rune again for 1d4 rounds.\n\nA glowing copy of the invoked rune appears on a single weapon the giant holds, granting the weapon one effect listed below of the giant's choice. The effect on the weapon lasts for 1 minute. If the giant places a new rune on a weapon, any previously placed rune immediately vanishes, ending its effect.\n\n*   **Rune of Destruction** The weapon gains the deadly trait with three weapon damage dice of the same die size as for the base weapon, and a creature hit with the weapon is [[Conditions/Drained 1|Drained 1]] unless it succeeds at a DC 35 Fortitude check save.\n*   **Rune of Flames** The weapon deals an additional 3d6 fire damage on all attacks.\n*   **Rune of Smiting** When the weapon hits, the giant can Push the target back 10 feet, or 20 feet on a critical hit.\n*   **Rune of Space** During the rune giant's turn, the weapon's reach is increased to 60 feet."
+    desc: "`pf2:1` (arcane,concentrate,electricity) The rune giant invokes one of the runes on their body, causing the rune to spray forth a @Template[cone|distance:30] of sparks that deals 6d12 electricity damage to all creatures in the cone (DC 37 Reflex check save).\n\nThe giant can't use Invoke Rune again for 1d4 rounds.\n\nA glowing copy of the invoked rune appears on a single weapon the giant holds, granting the weapon one effect listed below of the giant's choice. The effect on the weapon lasts for 1 minute. If the giant places a new rune on a weapon, any previously placed rune immediately vanishes, ending its effect.\n\n*   **Rune of Destruction** The weapon gains the deadly trait with three weapon damage dice of the same die size as for the base weapon, and a creature hit with the weapon is [[Conditions/Drained|Drained 1]] unless it succeeds at a DC 35 Fortitude check save.\n*   **Rune of Flames** The weapon deals an additional 3d6 fire damage on all attacks.\n*   **Rune of Smiting** When the weapon hits, the giant can Push the target back 10 feet, or 20 feet on a critical hit.\n*   **Rune of Space** During the rune giant's turn, the weapon's reach is increased to 60 feet."
 
   - name: "Wide Swing"
-    desc: "`pf2:1`  The rune giant makes a single greatsword Strike and compares the attack roll result to the ACs of up to two foes within their reach. This counts as two attacks for the giant’s multiple attack penalty."
+    desc: "`pf2:1`  The rune giant makes a single greatsword Strike and compares the attack roll result to the ACs of up to two foes within their reach. This counts as two attacks for the giant's multiple attack penalty."
  
+```
+
+```encounter-table
+name: Rune Giant
+creatures:
+  - 1: Rune Giant
 ```
 
 
@@ -97,7 +104,7 @@ Rune giants are tyrants among their own kind, given power to command and magical
 
 In the eons since these empires collapsed, rune giants have persisted, though to the outside world they're little more than fabled horrors. Rune giants usually dwell in the most remote and rugged of towering mountain ranges, but they can also be found in immense ruins atop lost islands, glacial valleys, or even more remote or magical regions.
 
-Dozens of runes decorate rune giants’ striking charcoal flesh. They are towering creatures, averaging at 40 feet in height and weighing 25,000 pounds.
+Dozens of runes decorate rune giants' striking charcoal flesh. They are towering creatures, averaging at 40 feet in height and weighing 25,000 pounds.
 
 * * *
 

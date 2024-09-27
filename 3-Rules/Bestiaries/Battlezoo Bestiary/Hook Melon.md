@@ -7,6 +7,7 @@ aliases: "Compendium.battlezoo-bestiary-pf2e.pf2e-battlezoo-bestiary.Actor.Q9Tl6
 tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/plant
+  - pf2eMonster
   - pf2e/creature/level/4
 statblock: inline
 name: "Hook Melon"
@@ -25,16 +26,16 @@ level: "Creature 4"
 
 alignment: ""
 size: "Medium"
-trait_01: "evil"
-trait_02: "plant"
+trait_01: [[evil]]
+trait_02: [[plant]]
 modifier: 11
 perception:
   - name: "Perception"
     desc: "+11; Scent (Imprecise) 60 Feet, Tremorsense (Precise) 30 Feet"
-languages: "Arboreal, Fey"
+languages: "Arboreal, Fey; (can&#x27;t speak any language)"
 skills:
   - name: "Skills"
-    desc: "Athletics: +13, "
+    desc: "Athletics: +13"
 abilityMods: [5, 2, 5, -1, 3, -3]
 speed: 10 feet,  climb 10 feet
 sourcebook: "_Battlezoo Bestiary_"
@@ -53,10 +54,10 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Hanging Fruit"
-    desc: "  A hook melon is suspended from its parent tree by a long vine. While connected to its parent tree, the melon has fast healing 10 but is Immobilized. It can detach itself from its vine as a free action. A hook melon will also detach if moved more than 10 feet from its parent tree. Once detached, it cannot reattach itself."
+    desc: "  A hook melon is suspended from its parent tree by a long vine. While connected to its parent tree, the melon has fast healing 10 but is [[Conditions/Immobilized|Immobilized]]. It can detach itself from its vine as a free action. A hook melon will also detach if moved more than 10 feet from its parent tree. Once detached, it cannot reattach itself."
 
   - name: "Steer"
-    desc: "`pf2:r`  **Trigger** An attached creature attempts to attack the hook melon or use a move action;\n**Effect** The hook melon disrupts the action and uses Steal Stride."
+    desc: "`pf2:r`  **Trigger** An attached creature attempts to attack the hook melon or use a move action;\n* * *\n\n**Effect** The hook melon disrupts the action and uses Steal Stride."
 
 attacks:
   - name: ""
@@ -65,11 +66,17 @@ attacks:
     desc: "`pf2:1` Branch +15 ()\n__Damage__  2d8 + 4 bludgeoning plus attach"
 
   - name: "Attach"
-    desc: "  When a hook melon hits a Small or larger living creature with its branch Strike, roots trailing from its torso attach it to that creature as a free action. This is similar to grabbing the creature, but the hook melon moves with the creature rather than holding it in place. The hook melon is Off-Guard while attached, and its host is encumbered unless the host is Large or larger.\nA hook melon is capable of controlling a dead or Unconscious creature it is attached to, though it is limited to simple actions with the move or manipulate traits. The hook melon can still use all its own abilities and attacks, though it can be attached to only one creature at a time.\nA creature can escape an attached hook melon with a DC 25 check to Escape. An adjacent creature can forcibly remove the hook melon from an ally with a Athletics check to Force Open, which deals 2d8 bleed damage to the attached creature. Killing the melon also frees the attached creature."
+    desc: "  When a hook melon hits a Small or larger living creature with its branch Strike, roots trailing from its torso attach it to that creature as a free action. This is similar to grabbing the creature, but the hook melon moves with the creature rather than holding it in place. The hook melon is [[Conditions/Off-Guard|Off-Guard]] while attached, and its host is encumbered unless the host is Large or larger.\n\nA hook melon is capable of controlling a dead or [[Conditions/Unconscious|Unconscious]] creature it is attached to, though it is limited to simple actions with the move or manipulate traits. The hook melon can still use all its own abilities and attacks, though it can be attached to only one creature at a time.\n\nA creature can escape an attached hook melon with a DC 25 check to Escape. An adjacent creature can forcibly remove the hook melon from an ally with a DC 20 Athletics check to Force Open, which deals 2d8 bleed damage to the attached creature. Killing the melon also frees the attached creature."
 
   - name: "Steal Stride"
-    desc: "`pf2:1`  **Requirements** The hook melon is attached to a creature;\n**Effect** The hook melon controls the attached creature's nerves, forcing it to ambulate. It Strides using one of the attached creature's Speeds, moving both itself and the attached creature."
+    desc: "`pf2:1`  **Requirements** The hook melon is attached to a creature;\n\n**Effect** The hook melon controls the attached creature's nerves, forcing it to ambulate. It Strides using one of the attached creature's Speeds, moving both itself and the attached creature."
  
+```
+
+```encounter-table
+name: Hook Melon
+creatures:
+  - 1: Hook Melon
 ```
 
 

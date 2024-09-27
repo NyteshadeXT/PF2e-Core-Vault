@@ -6,6 +6,7 @@ cssClasses: pf2e
 aliases: "Compendium.battlezoo-bestiary-pf2e.pf2e-battlezoo-bestiary.Actor.vUcyF0YcQMlgfeLM" 
 tags:
   - pf2e/creature/type/beast
+  - pf2eMonster
   - pf2e/creature/level/6
 statblock: inline
 name: "Salt Scorcher"
@@ -24,14 +25,15 @@ level: "Creature 6"
 
 alignment: ""
 size: "Medium"
-trait_01: "beast"
+trait_01: [[beast]]
 modifier: 14
 perception:
   - name: "Perception"
     desc: "+14; "
+languages: ""
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +10, Athletics: +15, Stealth: +10, Survival: +12, "
+    desc: "Acrobatics: +10, Athletics: +15, Stealth: +10, Survival: +12"
 abilityMods: [5, 2, 5, -3, 2, 4]
 speed: 30 feet,  climb 25 feet
 sourcebook: "_Battlezoo Bestiary_"
@@ -53,7 +55,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Water Vulnerability"
-    desc: "  Water rapidly degrades the spines that cover a salt stalker. A salt stalker immersed in water, stuck in a rain storm, or otherwise soaked is Slowed 1.\nSpells or effects that temporarily drench a salt stalker, such as _Hydraulic Push_ or a bucket of water, cause the salt stalker to become slowed 1 for 1d4 rounds.\nAs long as it is slowed in this way, a salt stalker cannot make spines Strikes."
+    desc: "  Water rapidly degrades the spines that cover a salt stalker. A salt stalker immersed in water, stuck in a rain storm, or otherwise soaked is [[Conditions/Slowed|Slowed 1]].\n\nSpells or effects that temporarily drench a salt stalker, such as _[[Spells/Hydraulic Push|Hydraulic Push]]_ or a bucket of water, cause the salt stalker to become slowed 1 for 1d4 rounds.\n\nAs long as it is slowed in this way, a salt stalker cannot make spines Strikes."
 
 attacks:
   - name: ""
@@ -71,14 +73,20 @@ attacks:
     desc: "  When two or more salt scorchers are adjacent to the same foe, salt scorchers' attacks deal an additional 1d6 damage to that foe."
 
   - name: "Desiccation Venom"
-    desc: " (injury,poison) A salt stalker's teeth and spines inflict a terrible, toxic bile that violently dehydrates the target, making them more susceptible to heat. The sickened condition and weakness to fire can't end or be reduced until the poison is cured;\n**Saving Throw** Fortitude;\n**Maximum Duration** 1 hour;\n**Stage 1** 2d4 + 4 poison damage plus weakness to fire 3 (1 minute);\n**Stage 2** 2d6 + 4 poison damage plus weakness to fire 6 (1 minute);\n**Stage 3** 2d8 + 4 poison damage plus Sickened 1 and weakness to fire 9 (10 minutes)"
+    desc: " (injury,poison) A salt stalker's teeth and spines inflict a terrible, toxic bile that violently dehydrates the target, making them more susceptible to heat. The sickened condition and weakness to fire can't end or be reduced until the poison is cured;\n* * *\n\n**Saving Throw** DC 23 Fortitude;\n\n**Maximum Duration** 1 hour;\n\n**Stage 1** 2d4+4 poison damage plus weakness to fire 3 (1 minute);\n\n**Stage 2** 2d6+4 poison damage plus weakness to fire 6 (1 minute);\n\n**Stage 3** 2d8+4 poison damage plus [[Conditions/Sickened|Sickened 1]] and weakness to fire 9 (10 minutes)"
 
   - name: "Hot Water"
-    desc: "  A salt scorcher's fiery grease explodes violently on contact with water. This is typically triggered in one of two ways: either the salt scorcher targets a creature that is already drenched or standing in water, or a creature covered in fiery grease attempts to douse the flames with water. In the latter case, if the creature was dousing itself to roll a flat check to end the persistent fire damage, it automatically fails this check.\nWhen either of these triggers occurs, the fiery grease covering a creature explodes, dealing 4d6 fire damage to each creature in a 15-foot burst, including the creature covered in the grease (basic Reflex save). The fiery grease covering a creature can explode up to once per round."
+    desc: "  A salt scorcher's fiery grease explodes violently on contact with water. This is typically triggered in one of two ways: either the salt scorcher targets a creature that is already drenched or standing in water, or a creature covered in fiery grease attempts to douse the flames with water. In the latter case, if the creature was dousing itself to roll a flat check to end the persistent fire damage, it automatically fails this check.\n\nWhen either of these triggers occurs, the fiery grease covering a creature explodes, dealing 4d6 fire damage to each creature in a 15-foot burst, including the creature covered in the grease (DC 21 basic Reflex save). The fiery grease covering a creature can explode up to once per round."
 
   - name: "Spew Fiery Grease"
-    desc: "`pf2:2` (fire,primal) The salt scorcher spits a thick, steamy, 30-foot line of smoldering, highly flammable grease. Creatures in the area must succeed at a Reflex save or be covered in the sticky, hot grease, which deals 1d6 persistent fire damage and explodes on contact with water (see Hot Water).\nThe salt scorcher can't Spew Fiery Grease again for 1d4 rounds."
+    desc: "`pf2:2` (fire,primal) The salt scorcher spits a thick, steamy, 30-foot line of smoldering, highly flammable grease. Creatures in the area must succeed at a DC 23 Reflex save or be covered in the sticky, hot grease, which deals 1d6 persistent fire damage and explodes on contact with water (see Hot Water).\n\nThe salt scorcher can't Spew Fiery Grease again for 1d4 rounds."
  
+```
+
+```encounter-table
+name: Salt Scorcher
+creatures:
+  - 1: Salt Scorcher
 ```
 
 

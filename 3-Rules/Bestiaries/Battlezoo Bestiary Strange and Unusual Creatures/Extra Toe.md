@@ -6,6 +6,7 @@ cssClasses: pf2e
 aliases: "Compendium.battlezoo-bestiary-su-pf2e.pf2e-battlezoo-su-actors.Actor.kDDedzCm8HpsXu02" 
 tags:
   - pf2e/creature/type/animal
+  - pf2eMonster
   - pf2e/creature/level/-1
 statblock: inline
 name: "Extra Toe"
@@ -24,14 +25,15 @@ level: "Creature -1"
 
 alignment: ""
 size: "tiny"
-trait_01: "animal"
+trait_01: [[animal]]
 modifier: 5
 perception:
   - name: "Perception"
     desc: "+5; "
+languages: ""
 skills:
   - name: "Skills"
-    desc: "Stealth: +5, Survival: +4, "
+    desc: "Stealth: +5, Survival: +4, Stealth: +5, Survival: +4"
 abilityMods: [0, 3, 3, -5, 2, 0]
 speed: 10 feet
 sourcebook: "_Battlezoo Bestiary: Strange and Unusual_"
@@ -50,7 +52,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Defense Spray"
-    desc: "`pf2:r`  **Trigger** An extra toe becomes Grabbed due to a creature's actions\n**Effect** The extra toe emits a spray of foul smelling gas in order to weaken the triggering creature's hold on it and attempt to scuttle away. The triggering creature must attempt a DC 15 Reflex check save to hang onto the extra toe.\n**Success** The grabbing creature is able to retain their hold on the extra toe.\n**Failure** The extra toe leaps out of the creature's grasp, escaping the grabbed condition.\n**Critical Failure** As failure, and the grabbing creature is Sickened 1."
+    desc: "`pf2:r`  **Trigger** An extra toe becomes [[undefined]] due to a creature's actions\n* * *\n\n**Effect** The extra toe emits a spray of foul smelling gas in order to weaken the triggering creature's hold on it and attempt to scuttle away. The triggering creature must attempt a DC 15 Reflex check save to hang onto the extra toe.\n\n**Success** The grabbing creature is able to retain their hold on the extra toe.\n\n**Failure** The extra toe leaps out of the creature's grasp, escaping the grabbed condition.\n\n**Critical Failure** As failure, and the grabbing creature is [[undefined]]."
 
 attacks:
   - name: ""
@@ -59,14 +61,20 @@ attacks:
     desc: "`pf2:1` Jaws +8 (agile, finesse, reach 0 feet)\n__Damage__  1d4 piercing plus attach"
 
   - name: "Attach"
-    desc: "  When a extra toe hits a humanoid creature larger than itself with its jaws, and that creature has a foot, the extra toe attaches itself to that creature like an additional natural toe, releasing an anesthetic such that the creature doesn't notice the bite or attachment. This is similar to Grabbing the creature, but the extra toe moves with that creature rather than holding it in place. The extra toe is flat- footed while attached. If the extra toe is killed or pushed away while attached to a creature, that creature takes 1 persistent bleed damage. Escaping the attach or removing the extra toe in other ways doesn't cause bleed damage."
+    desc: "  When a extra toe hits a humanoid creature larger than itself with its jaws, and that creature has a foot, the extra toe attaches itself to that creature like an additional natural toe, releasing an anesthetic such that the creature doesn't notice the bite or attachment. This is similar to [[Bestiary Ability Glossary/Grab|Grabbing]] the creature, but the extra toe moves with that creature rather than holding it in place. The extra toe is flat- footed while attached. If the extra toe is killed or pushed away while attached to a creature, that creature takes 1 persistent bleed damage. Escaping the attach or removing the extra toe in other ways doesn't cause bleed damage."
 
   - name: "Extra Toe Eggs"
-    desc: " (disease) **Saving Throw** DC 14 Fortitude check\n**Onset** 2 weeks\n**Stage 1** The extra toe larvae break free, causing 1d4 damage, though the anesthesia prevents the afflicted creature from feeling the pain."
+    desc: " (disease) **Saving Throw** DC 14 Fortitude check\n\n**Onset** 2 weeks\n\n**Stage 1** The extra toe larvae break free, causing 1d4 damage, though the anesthesia prevents the afflicted creature from feeling the pain."
 
   - name: "Spawn"
-    desc: "`pf2:3`  **Requirements** The extra toe is attached to a creature\n**Effect** The extra toe lays countless eggs within its host's foot, exposing the attached creature to extra toe eggs, as its larvae seek to grow within the foot."
+    desc: "`pf2:3`  **Requirements** The extra toe is attached to a creature\n* * *\n\n**Effect** The extra toe lays countless eggs within its host's foot, exposing the attached creature to extra toe eggs, as its larvae seek to grow within the foot."
  
+```
+
+```encounter-table
+name: Extra Toe
+creatures:
+  - 1: Extra Toe
 ```
 
 

@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/undead
   - pf2e/creature/type/unholy
+  - pf2eMonster
   - pf2e/creature/level/7
 statblock: inline
 name: "Tanglebones"
@@ -23,13 +24,13 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Adventure: Malevolence"
 name: "Tanglebones"
 level: "Creature 7"
-rare_03: "Rare"
+rare_03: [[Rare]]
 alignment: ""
 size: "Large"
-trait_01: "chaotic"
-trait_02: "evil"
-trait_03: "undead"
-trait_04: "unholy"
+trait_01: [[chaotic]]
+trait_02: [[evil]]
+trait_03: [[undead]]
+trait_04: [[unholy]]
 modifier: 17
 perception:
   - name: "Perception"
@@ -54,7 +55,7 @@ abilities_top:
   - name: ""
 
   - name: "Ectoplasmic Filament"
-    desc: "  **Trigger** A creature within the tanglebone's reach uses an action with the manipulate trait or a move action, or leaves a square during a move action it's using\n**Effect** A filament of black, oily ectoplasm lashes out at the triggering creature, dealing 2d8 + 8 slashing damage (DC 25 Reflex check save). If the filament deals damage, the tanglebones gains 2d8 temporary Hit Points."
+    desc: "  **Trigger** A creature within the tanglebone's reach uses an action with the manipulate trait or a move action, or leaves a square during a move action it's using\n* * *\n\n**Effect** A filament of black, oily ectoplasm lashes out at the triggering creature, dealing 2d8+8 slashing damage (DC 25 Reflex check save). If the filament deals damage, the tanglebones gains 2d8 temporary Hit Points."
 
   - name: "Eerie Flexibility"
     desc: "  A tanglebones can shift and adjust its mass to fit into smaller areas, allowing it to fit through tight spaces as if it were a Medium creature. While Squeezing, it can move at its full Speed."
@@ -71,7 +72,7 @@ attacks:
     desc: "`pf2:1` Hurled Bone +17 (brutal, range increment 30 feet)\n__Damage__  2d4 + 8 bludgeoning"
 
   - name: "Gnaw"
-    desc: "`pf2:1`  **Requirements** The tanglebones has Grabbed a foe\n**Effect** The tanglebones gnaws and chews on the grabbed target with its many skulls, dealing 2d6 + 8 piercing damage (DC 23 Fortitude check save). On a critical failure, the creature is also [[Conditions/Sickened 1|Sickened 1]] from the pain."
+    desc: "`pf2:1`  **Requirements** The tanglebones has Grabbed a foe\n* * *\n\n**Effect** The tanglebones gnaws and chews on the grabbed target with its many skulls, dealing 2d6+8 piercing damage (DC 23 Fortitude check save). On a critical failure, the creature is also [[Conditions/Sickened|Sickened 1]] from the pain."
 
   - name: "Skeletal Storm"
     desc: "`pf2:2`  The tanglebones makes a single claw Strike against every creature in reach. These attacks count toward the tanglebones' multiple attack penalty, but the multiple attack penalty doesn't increase until after the tanglebones makes all its attacks."
@@ -82,6 +83,12 @@ attacks:
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
     desc: "`pf2:1`  "
  
+```
+
+```encounter-table
+name: Tanglebones
+creatures:
+  - 1: Tanglebones
 ```
 
 

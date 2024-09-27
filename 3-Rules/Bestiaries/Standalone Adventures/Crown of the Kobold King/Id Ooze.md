@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.crown-of-the-kobold-king-bestiary.Actor.C5t3ypLIiJGSUM
 tags:
   - pf2e/creature/type/amphibious
   - pf2e/creature/type/ooze
+  - pf2eMonster
   - pf2e/creature/level/7
 statblock: inline
 name: "Id Ooze"
@@ -21,19 +22,19 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Adventure: Crown of the Kobold King"
 name: "Id Ooze"
 level: "Creature 7"
-rare_03: "Rare"
+rare_03: [[Rare]]
 alignment: ""
 size: "Medium"
-trait_01: "amphibious"
-trait_02: "ooze"
+trait_01: [[amphibious]]
+trait_02: [[ooze]]
 modifier: 15
 perception:
   - name: "Perception"
     desc: "+15; Motion Sense (Precise) 60 Feet"
-languages: "Common, Sakvroth"
+languages: "Common, Sakvroth; (can&#x27;t speak any language); telepathy 60 ft"
 skills:
   - name: "Skills"
-    desc: "Athletics: +16, Deception: +15, Occultism: +15, Stealth: +15 (+17 in moist areas)"
+    desc: "Athletics: +16, Deception: +15, Occultism: +15, Stealth: +15"
 abilityMods: [5, 2, 4, 2, 4, 4]
 speed: 10 feet,  climb 10 feet,  swim 20 feet
 sourcebook: "_Pathfinder Adventure: Crown of the Kobold King_"
@@ -53,7 +54,7 @@ abilities_top:
     desc: "  An id ooze's acid damages only metal and organic materials, not stone."
 
   - name: "Manipulate Ooze"
-    desc: " (occult) **Frequency** once per turn\n**Effect** The id ooze manipulates the senses and impulses within a mindless ooze of the id ooze's level or lower within 30 feet, issuing it telepathic orders to undertake a specific action. The orders must be simple, such as a directive to attack a specific target in preference to another, or to hold ground in a spot to protect a location, or even to adjust its positioning and body to form crude shapes or symbols. A manipulated ooze performs the direction to the best of its ability on its next turn, after which it returns to its normal behavior."
+    desc: " (occult) **Frequency** once per turn\n\n**Effect** The id ooze manipulates the senses and impulses within a mindless ooze of the id ooze's level or lower within 30 feet, issuing it telepathic orders to undertake a specific action. The orders must be simple, such as a directive to attack a specific target in preference to another, or to hold ground in a spot to protect a location, or even to adjust its positioning and body to form crude shapes or symbols. A manipulated ooze performs the direction to the best of its ability on its next turn, after which it returns to its normal behavior."
 
 abilities_mid:
   - name: ""
@@ -61,7 +62,7 @@ abilities_mid:
     desc: "  An id ooze can sense nearby creatures through vibration and air or water movement."
 
   - name: "Puddled Ambush"
-    desc: "`pf2:r`  **Trigger** A creature enters or interacts with a space occupied by an id ooze\n**Requirements** Initiative hasn't yet been rolled\n**Effect** The id ooze automatically notices the creature, then makes a pseudopod Strike against one creature adjacent to itself before rolling initiative."
+    desc: "`pf2:r`  **Trigger** A creature enters or interacts with a space occupied by an id ooze\n\n**Requirements** Initiative hasn't yet been rolled\n\n**Effect** The id ooze automatically notices the creature, then makes a pseudopod Strike against one creature adjacent to itself before rolling initiative."
 
 attacks:
   - name: ""
@@ -73,11 +74,17 @@ attacks:
     desc: "DC 25, attack +17; __4th __  _[[Spells/Confusion|Confusion]]_, _[[Spells/Phantom Pain|Phantom Pain]]_; __3rd __  _[[Spells/Fear|Fear]]_, _[[Spells/Hypnotize|Hypnotic Pattern]]_\n__Cantrips__  __(4th)__ _[[Spells/Daze|Daze]]_"
 
   - name: "[[Bestiary Ability Glossary/Constrict|Constrict]]"
-    desc: "`pf2:1`  1d4+8 bludgeoning plus 1d6 acid, DC 25 Fortitude check\n"
+    desc: "`pf2:1`  1d4+8 bludgeoning plus 1d6 acid, DC 25 Fortitude check\n\n* * *\n"
 
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
     desc: "`pf2:1`  "
  
+```
+
+```encounter-table
+name: Id Ooze
+creatures:
+  - 1: Id Ooze
 ```
 
 

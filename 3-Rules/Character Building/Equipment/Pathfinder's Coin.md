@@ -3,6 +3,7 @@ obsidianUIMode: preview
 title: "Pathfinder's Coin"
 cssclasses: pf2e,pf2e-spell
 tags:
+  - trait/illusion
   - trait/magical
   - trait/uncommon
 aliases: "Compendium.pf2e.equipment-srd.Item.sZxPKnLtspXPRDNb"
@@ -10,7 +11,7 @@ license: OGL
 ---
 # Pathfinder's Coin
 ## Item 2
-### [uncommon](uncommon "Uncommon Rarity Trait")[[magical]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[illusion]][[magical]]
 
 
 **Price** 30 gp; 

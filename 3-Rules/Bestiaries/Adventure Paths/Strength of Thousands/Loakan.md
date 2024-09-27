@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/humanoid
   - pf2e/creature/type/lizardfolk
+  - pf2eMonster
   - pf2e/creature/level/6
 statblock: inline
 name: "Loakan"
@@ -22,12 +23,12 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #170: Spoken on the Song Wind"
 name: "Loakan"
 level: "Creature 6"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Medium"
-trait_01: "evil"
-trait_02: "humanoid"
-trait_03: "lizardfolk"
+trait_01: [[evil]]
+trait_02: [[humanoid]]
+trait_03: [[lizardfolk]]
 modifier: 13
 perception:
   - name: "Perception"
@@ -35,7 +36,7 @@ perception:
 languages: "Common, Draconic, Iruxi"
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +12, Athletics: +14, Cooking Lore: +10, Thievery: +12"
+    desc: "Acrobatics: +12, Athletics: +14, Thievery: +12, Cooking Lore: +10"
 abilityMods: [4, 4, 1, 0, 3, 0]
 speed: 25 feet,  swim 15 feet
 sourcebook: "_Pathfinder #170: Spoken on the Song Wind_"
@@ -75,6 +76,12 @@ attacks:
   - name: "Deep Breath"
     desc: "  Loakan can hold her breath for 200 rounds (20 minutes)."
  
+```
+
+```encounter-table
+name: Loakan
+creatures:
+  - 1: Loakan
 ```
 
 

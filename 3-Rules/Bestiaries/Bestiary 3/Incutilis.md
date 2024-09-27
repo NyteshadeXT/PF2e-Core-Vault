@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/amphibious
   - pf2e/creature/type/evil
   - pf2e/creature/type/lawful
+  - pf2eMonster
   - pf2e/creature/level/2
 statblock: inline
 name: "Incutilis"
@@ -24,18 +25,18 @@ token: [[modules/pf2e-tokens-bestiaries/portraits/aberrant/humanoid/incutilis.we
 source: "Pathfinder Bestiary 3"
 name: "Incutilis"
 level: "Creature 2"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "tiny"
-trait_01: "aberration"
-trait_02: "amphibious"
-trait_03: "evil"
-trait_04: "lawful"
+trait_01: [[aberration]]
+trait_02: [[amphibious]]
+trait_03: [[evil]]
+trait_04: [[lawful]]
 modifier: 7
 perception:
   - name: "Perception"
     desc: "+7; Darkvision"
-languages: "Aklo, Thalassic"
+languages: "Aklo, Thalassic; telepathy 30 feet"
 skills:
   - name: "Skills"
     desc: "Athletics: +8, Deception: +5, Stealth: +9"
@@ -63,14 +64,20 @@ attacks:
     desc: "`pf2:1` Tentacle +8 ()\n__Damage__  1d4 + 4 bludgeoning plus grab"
 
   - name: "Abandon Puppet"
-    desc: "`pf2:1` (manipulate) **Requirements** The incutilis is attached to a puppet\n**Effect** The incutilis abandons its puppet, detaching and separating from its nervous system.\nIf the puppet was still alive, it's [[Conditions/Unconscious|Unconscious]] and temporarily immune to that incutilis's Puppetmaster ability for 24 hours."
+    desc: "`pf2:1` (manipulate) **Requirements** The incutilis is attached to a puppet\n* * *\n\n**Effect** The incutilis abandons its puppet, detaching and separating from its nervous system.\n\nIf the puppet was still alive, it's [[Conditions/Unconscious|Unconscious]] and temporarily immune to that incutilis's Puppetmaster ability for 24 hours."
 
   - name: "Puppetmaster"
-    desc: "`pf2:3` (manipulate) An incutilis drives tendrils into a Small or Medium living creature that's [[Conditions/Unconscious|Unconscious]] or [[Conditions/Restrained|Restrained]] by the incutilis. It attaches and injects the unfortunate host with enzymes to take over control of the creature's nervous system, turning the host into a puppet controlled by the incutilis.\nThe puppet becomes [[Conditions/Dying 1|Dying 2]] and is [[Conditions/Controlled|Controlled]] by the incutilis. If the puppet dies, its body remains under the control of the incutilis until it's destroyed or the incutilis Abandons the Puppet. If the puppet recovers from the dying condition, the incutilis immediately Abandons the Puppet.\nWhile controlling a puppet, the incutilis is attached to the puppet's head (or elsewhere, if its brain is in an unconventional location) and moves along with it. The puppet uses its own AC, Hit Points, Fortitude and Reflex saves, and physical Strikes, but it uses the incutilis's Will save. The puppet can perform only basic actions and untrained uses of the Athletics and Stealth skills while controlled.\nAny attack that deals damage to the puppet also deals 1 mental damage to the incutilis. Area effects are applied to both the incutilis and puppet. The incutilis always has lesser cover while in control of a puppet.\n[[Other Effects/Effect_ Cover|Effect: Cover]]"
+    desc: "`pf2:3` (manipulate) An incutilis drives tendrils into a Small or Medium living creature that's [[Conditions/Unconscious|Unconscious]] or [[Conditions/Restrained|Restrained]] by the incutilis. It attaches and injects the unfortunate host with enzymes to take over control of the creature's nervous system, turning the host into a puppet controlled by the incutilis.\n\nThe puppet becomes [[Conditions/Dying|Dying 2]] and is [[Conditions/Controlled|Controlled]] by the incutilis. If the puppet dies, its body remains under the control of the incutilis until it's destroyed or the incutilis Abandons the Puppet. If the puppet recovers from the dying condition, the incutilis immediately Abandons the Puppet.\n\nWhile controlling a puppet, the incutilis is attached to the puppet's head (or elsewhere, if its brain is in an unconventional location) and moves along with it. The puppet uses its own AC, Hit Points, Fortitude and Reflex saves, and physical Strikes, but it uses the incutilis's Will save. The puppet can perform only basic actions and untrained uses of the Athletics and Stealth skills while controlled.\n\nAny attack that deals damage to the puppet also deals 1 mental damage to the incutilis. Area effects are applied to both the incutilis and puppet. The incutilis always has lesser cover while in control of a puppet.\n* * *\n\n[[Other Effects/Effect_ Cover|Effect: Cover]]"
 
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
     desc: "`pf2:1`  "
  
+```
+
+```encounter-table
+name: Incutilis
+creatures:
+  - 1: Incutilis
 ```
 
 

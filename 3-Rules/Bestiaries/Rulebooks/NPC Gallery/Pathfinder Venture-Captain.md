@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/good
   - pf2e/creature/type/human
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/11
 statblock: inline
 name: "Pathfinder Venture-Captain"
@@ -25,9 +26,9 @@ level: "Creature 11"
 
 alignment: ""
 size: "Medium"
-trait_01: "good"
-trait_02: "human"
-trait_03: "humanoid"
+trait_01: [[good]]
+trait_02: [[human]]
+trait_03: [[humanoid]]
 modifier: 20
 perception:
   - name: "Perception"
@@ -35,7 +36,7 @@ perception:
 languages: "Common, Dwarven"
 skills:
   - name: "Skills"
-    desc: "Alcohol Lore: +20, Bardic Lore: +16, Diplomacy: +21, Occultism: +16, Performance: +19"
+    desc: "Diplomacy: +21, Occultism: +16, Performance: +19, Alcohol Lore: +20, Bardic Lore: +16"
 abilityMods: [5, 1, 3, 1, 2, 4]
 speed: 20 feet
 sourcebook: "_Pathfinder Lost Omens: Character Guide_"
@@ -64,7 +65,7 @@ abilities_mid:
     desc: "`pf2:r`  "
 
   - name: "Unshakable"
-    desc: "  Anytime the venture-captain gains the [[Conditions/Frightened 1|Frightened]] condition, reduce its value by 1."
+    desc: "  Anytime the venture-captain gains the [[Conditions/Frightened|Frightened]] condition, reduce its value by 1."
 
 attacks:
   - name: ""
@@ -87,6 +88,12 @@ attacks:
   - name: "Weapon Mastery (Hammer)"
     desc: "  The venture-captain has spent hours training with the hammer. They gain access to the critical specialization effect of all simple and martial hammers."
  
+```
+
+```encounter-table
+name: Pathfinder Venture-Captain
+creatures:
+  - 1: Pathfinder Venture-Captain
 ```
 
 

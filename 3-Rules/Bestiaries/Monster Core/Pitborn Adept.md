@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/human
   - pf2e/creature/type/humanoid
   - pf2e/creature/type/nephilim
+  - pf2eMonster
   - pf2e/creature/level/3
   - remaster
 statblock: inline
@@ -24,12 +25,12 @@ token: [[modules/pf2e-tokens-bestiaries/portraits/humanoid/tiefling-adept.webp| 
 source: "Pathfinder Monster Core"
 name: "Pitborn Adept"
 level: "Creature 3"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Medium"
-trait_01: "human"
-trait_02: "humanoid"
-trait_03: "nephilim"
+trait_01: [[human]]
+trait_02: [[humanoid]]
+trait_03: [[nephilim]]
 modifier: 6
 perception:
   - name: "Perception"
@@ -37,7 +38,7 @@ perception:
 languages: "Chthonian, Common"
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +7, Arcana: +9, Deception: +9, Intimidation: +7, Occultism: +9, Outer Rifts Lore: +9, Religion: +6, Society: +9, Stealth: +7"
+    desc: "Acrobatics: +7, Arcana: +9, Deception: +9, Intimidation: +7, Occultism: +9, Religion: +6, Society: +9, Stealth: +7, Outer Rifts Lore: +9"
 abilityMods: [0, 2, 0, 4, 1, 2]
 speed: 25 feet
 sourcebook: "_Pathfinder Monster Core_"
@@ -71,6 +72,12 @@ attacks:
   - name: "Drain Bonded Item"
     desc: "  **Frequency** once per day\n\n**Requirements** The adept hasn't acted yet on this turn\n* * *\n\n**Effect** The adept expends the power stored in its staff. This gives the adept the ability to cast one prepared spell it had already previously cast today (choosing a different spell rank each time), without spending a spell slot. The adept must still Cast the Spell and meet the spell's other requirements."
  
+```
+
+```encounter-table
+name: Pitborn Adept
+creatures:
+  - 1: Pitborn Adept
 ```
 
 

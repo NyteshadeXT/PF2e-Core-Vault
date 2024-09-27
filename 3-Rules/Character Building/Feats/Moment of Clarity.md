@@ -8,8 +8,9 @@ tags:
   - trait/rage
   - trait/common
   - category/class
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.vRXPsMbyuvoPvbAQ"
-license: OGL
+license: ORC
 ---
 # Moment of Clarity `pf2:1`
 ## Feat 1
@@ -22,5 +23,5 @@ license: OGL
 
 You push back your rage for a moment in order to think clearly. Until the end of this turn, you can use actions with the concentrate trait even if those actions don't have the rage trait.
 
-*Source: Pathfinder Core Rulebook*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

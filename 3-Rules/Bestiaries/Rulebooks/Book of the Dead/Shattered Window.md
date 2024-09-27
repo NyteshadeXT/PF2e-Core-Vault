@@ -3,6 +3,7 @@ title: Shattered Window
 obsidianUIMode: preview
 noteType: pf2eHazard
 tags:
+  - pf2eHazard
 
 source: Pathfinder Book of the Dead
 aliases: "Compendium.pf2e.book-of-the-dead-bestiary.Actor.LNgHO51cJF4HPL78" 
@@ -25,7 +26,7 @@ sourcebook: "_Pathfinder Book of the Dead_"
 ac: 10
 armorclass:
   - name: AC
-    desc: "10; __Fort__ +0, __Ref__ +0, __Will__ +0"
+    desc: "10; "
 hp: 10
 health:
   - name: ""
@@ -47,9 +48,15 @@ attacks:
   - name: ""
 
   - name: "Shatter"
-    desc: "`pf2:r` **Trigger** A creature moves adjacent to the window\n**Effect** The window shatters, dealing 2d6 + 5 slashing damage to creatures within 5 feet (DC 17 Reflex check)."
+    desc: "`pf2:r` **Trigger** A creature moves adjacent to the window\n* * *\n\n**Effect** The window shatters, dealing 2d6+5 slashing damage to creatures within 5 feet (DC 17 Reflex check)."
 
 
 
+```
+
+```encounter-table
+name: Shattered Window
+creatures:
+  - 1: Shattered Window
 ```
 

@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/air
   - pf2e/creature/type/elemental
   - pf2e/creature/type/incorporeal
+  - pf2eMonster
   - pf2e/creature/level/5
   - remaster
 statblock: inline
@@ -26,9 +27,9 @@ level: "Creature 5"
 
 alignment: ""
 size: "Small"
-trait_01: "air"
-trait_02: "elemental"
-trait_03: "incorporeal"
+trait_01: [[air]]
+trait_02: [[elemental]]
+trait_03: [[incorporeal]]
 modifier: 12
 perception:
   - name: "Perception"
@@ -67,11 +68,17 @@ attacks:
     desc: "`pf2:1` Lightning Lash +15 (electricity, range 30 feet)\n__Damage__  2d12 electricity"
 
   - name: "Leap the Gap"
-    desc: "`pf2:2`  **Requirements** The comozant wyrd is adjacent to a solid object or surface of its size or larger\n**Effect** The wyrd Flies up to its Speed in a straight line, ending its movement adjacent to a different solid object or surface of its size or larger; this movement doesn't trigger reactions. The wyrd can move through other creatures during this movement, and all creatures it moves through take 2d12 electricity damage with a DC 22 Reflex check save."
+    desc: "`pf2:2`  **Requirements** The comozant wyrd is adjacent to a solid object or surface of its size or larger\n* * *\n\n**Effect** The wyrd Flies up to its Speed in a straight line, ending its movement adjacent to a different solid object or surface of its size or larger; this movement doesn't trigger reactions. The wyrd can move through other creatures during this movement, and all creatures it moves through take 2d12 electricity damage with a DC 22 Reflex check save."
 
   - name: "Wyrd Wisdom"
-    desc: "`pf2:1`  **Frequency** once per day\n**Requirements** The comozant wyrd is communicating empathically with another creature through illuminating flames\n**Effect** The comozant wyrd's odd means of communication brings strange insight. One creature the wyrd is empathically conversing with gains the benefits of an augury spell, though only about this conversation topic, rather than any topic of the creature's choice."
+    desc: "`pf2:1`  **Frequency** once per day\n\n**Requirements** The comozant wyrd is communicating empathically with another creature through illuminating flames\n* * *\n\n**Effect** The comozant wyrd's odd means of communication brings strange insight. One creature the wyrd is empathically conversing with gains the benefits of an augury spell, though only about this conversation topic, rather than any topic of the creature's choice."
  
+```
+
+```encounter-table
+name: Comozant Wyrd
+creatures:
+  - 1: Comozant Wyrd
 ```
 
 

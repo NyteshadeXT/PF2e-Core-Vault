@@ -9,8 +9,9 @@ tags:
   - trait/poison
   - trait/common
   - category/poison
+  - remaster
 aliases: "Compendium.pf2e.equipment-srd.Item.KdeeRCrtsDCJLfgc"
-license: OGL
+license: ORC
 ---
 # Nettleweed Residue
 ## Item 8
@@ -21,11 +22,11 @@ license: OGL
 **Bulk** L; **Size** med
 **Usage** held-in-one-hand
 
-Concentrated sap of stinging weeds makes an effective toxin.
+**Activate** `pf2:1` (manipulate)
 
 * * *
 
-**Activate** `pf2:1` Interact (Contact)
+Concentrated sap of stinging weeds makes an effective toxin.
 
 **Saving Throw** DC 27 Fortitude check
 
@@ -33,11 +34,11 @@ Concentrated sap of stinging weeds makes an effective toxin.
 
 **Maximum Duration** 6 minutes
 
-**Stage 1** 8d6 poison damage (1 minute)
+**Stage 1** 3d6 poison damage (1 minute)
 
-**Stage 2** 10d6 poison damage (1 minute)
+**Stage 2** 4d6 poison damage (1 minute)
 
-**Stage 3** 13d6 poison damage (1 minute)
+**Stage 3** 6d6 poison damage (1 minute)
 
-*Source: Pathfinder Core Rulebook*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

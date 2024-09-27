@@ -13,7 +13,7 @@ license: OGL
 ---
 # Change Shape (Beastkin) `pf2:1`
 
-### [[concentrate]][[polymorph]][[primal]]
+### [[3-Rules/Rule References/Concentrate]][[polymorph]][[primal]]
 
 **Category** interaction; 
 

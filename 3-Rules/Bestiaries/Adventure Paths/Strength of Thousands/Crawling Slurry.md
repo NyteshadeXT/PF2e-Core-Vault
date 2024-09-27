@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/acid
   - pf2e/creature/type/mindless
   - pf2e/creature/type/ooze
+  - pf2eMonster
   - pf2e/creature/level/16
 statblock: inline
 name: "Crawling Slurry"
@@ -22,19 +23,20 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #174: Shadows of the Ancients"
 name: "Crawling Slurry"
 level: "Creature 16"
-rare_03: "Rare"
+rare_03: [[Rare]]
 alignment: ""
 size: "Medium"
-trait_01: "acid"
-trait_02: "mindless"
-trait_03: "ooze"
+trait_01: [[acid]]
+trait_02: [[mindless]]
+trait_03: [[ooze]]
 modifier: 26
 perception:
   - name: "Perception"
     desc: "+26; Motion Sense (Precise) 60 Feet"
+languages: ""
 skills:
   - name: "Skills"
-    desc: "Athletics: +35, Stealth: +30 (+34 in Acidic Surroundings)"
+    desc: "Athletics: +35, Stealth: +30"
 abilityMods: [5, 9, 6, -5, 0, -5]
 speed: 30 feet,  climb 20 feet
 sourcebook: "_Pathfinder #174: Shadows of the Ancients_"
@@ -56,7 +58,7 @@ abilities_mid:
     desc: "  A crawling slurry can sense nearby motion through vibration and air movement."
 
   - name: "Splatter"
-    desc: "`pf2:r`  **Trigger** The crawling slurry takes bludgeoning damage from a creature it can sense within 10 feet\n**Effect** The crawling slurry ejects a splash of acid onto the creature, dealing acid damage equal to the bludgeoning damage dealt to the crawling slurry (DC 37 Reflex check)."
+    desc: "`pf2:r`  **Trigger** The crawling slurry takes bludgeoning damage from a creature it can sense within 10 feet\n* * *\n\n**Effect** The crawling slurry ejects a splash of acid onto the creature, dealing acid damage equal to the bludgeoning damage dealt to the crawling slurry (DC 37 Reflex check)."
 
 attacks:
   - name: ""
@@ -65,7 +67,7 @@ attacks:
     desc: "`pf2:1` Pseudopod +32 ()\n__Damage__  3d10 + 11 bludgeoning plus grab 2d8 acid plus grab"
 
   - name: "[[Bestiary Ability Glossary/Constrict|Constrict]]"
-    desc: "`pf2:1`  2d10+3 bludgeoning damage plus 2d8 acid, DC 37 Fortitude check\n"
+    desc: "`pf2:1`  2d10+3 bludgeoning damage plus 2d8 acid, DC 37 Fortitude check\n\n* * *\n"
 
   - name: "Crawling Slurry Acid"
     desc: "  A crawling slurry's acid damages metals and organic materials but not stone."
@@ -76,6 +78,12 @@ attacks:
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
     desc: "`pf2:1`  "
  
+```
+
+```encounter-table
+name: Crawling Slurry
+creatures:
+  - 1: Crawling Slurry
 ```
 
 

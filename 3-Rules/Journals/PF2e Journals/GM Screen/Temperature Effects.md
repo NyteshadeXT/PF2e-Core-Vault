@@ -11,6 +11,7 @@ tags:
   
 
 **TABLE: TEMPERATURE EFFECTS**
+ 
 | Category | Temperature | Fatigue | Damage |
 | --- | --- | --- | --- |
 | **Incredible cold** | \-80º F or colder | 2 hours | Moderate cold every minute |

@@ -6,6 +6,7 @@ cssClasses: pf2e
 aliases: "Compendium.pf2e.pathfinder-bestiary-3.Actor.rnxg09tUCFPGW8IS" 
 tags:
   - pf2e/creature/type/animal
+  - pf2eMonster
   - pf2e/creature/level/2
 statblock: inline
 name: "Terror Bird"
@@ -24,11 +25,12 @@ level: "Creature 2"
 
 alignment: ""
 size: "Large"
-trait_01: "animal"
+trait_01: [[animal]]
 modifier: 6
 perception:
   - name: "Perception"
     desc: "+6; Low-Light Vision"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Acrobatics: +9, Athletics: +10"
@@ -59,7 +61,7 @@ attacks:
     desc: "`pf2:1` Talon +10 (agile)\n__Damage__  1d6 + 4 piercing plus knockdown"
 
   - name: "Sprint"
-    desc: "`pf2:2`  **Frequency** once per minute\n**Effect** The terror bird Strides three times in a straight line."
+    desc: "`pf2:2`  **Frequency** once per minute\n* * *\n\n**Effect** The terror bird Strides three times in a straight line."
 
   - name: "Tearing Clutch"
     desc: "  The terror bird's powerful beak can tear through flesh. On a successful beak Strike, the target takes 1 bleed damage. This bleed damage increases to 1d4 bleed on a critical hit."
@@ -67,6 +69,12 @@ attacks:
   - name: "[[Bestiary Ability Glossary/Knockdown|Knockdown]]"
     desc: "`pf2:1`  "
  
+```
+
+```encounter-table
+name: Terror Bird
+creatures:
+  - 1: Terror Bird
 ```
 
 

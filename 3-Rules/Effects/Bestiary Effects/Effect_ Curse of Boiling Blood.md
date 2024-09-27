@@ -17,7 +17,7 @@ license: ORC
 
 
 
-The creature gains weakness to fire 20 and is [[Conditions/Slowed 1|Slowed 1]] at all times.
+The creature gains weakness to fire 20 and is [[Conditions/Slowed|Slowed 1]] at all times.
 
 *Source: Pathfinder Monster Core*
 *ORC*

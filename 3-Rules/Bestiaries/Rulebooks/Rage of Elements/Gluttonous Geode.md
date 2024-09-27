@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.rage-of-elements-bestiary.Actor.ki7r3AMO0lROqzcK"
 tags:
   - pf2e/creature/type/earth
   - pf2e/creature/type/elemental
+  - pf2eMonster
   - pf2e/creature/level/1
   - remaster
 statblock: inline
@@ -25,8 +26,8 @@ level: "Creature 1"
 
 alignment: ""
 size: "Medium"
-trait_01: "earth"
-trait_02: "elemental"
+trait_01: [[earth]]
+trait_02: [[elemental]]
 modifier: 6
 perception:
   - name: "Perception"
@@ -62,8 +63,14 @@ attacks:
     desc: "`pf2:2`  The geode Leaps up to 15 feet and makes a crystal teeth Strike. If it hits a creature larger than itself, it can attach to that creature. Doing so is like Grabbing the creature ([[Actions/Escape|Escape]] DC 17), but the geode moves with that creature rather than holding it in place. The geode is [[Conditions/Off-Guard|Off-Guard]] while attached. If the geode is killed or pushed away while attached to a creature, that creature takes 1 persistent bleed damage. Escaping the attached geode or removing the geode in other ways doesn't cause bleed damage."
 
   - name: "Gnaw"
-    desc: "`pf2:1`  **Requirements** The geode is attached to a creature\n**Effect** The geode deals 1d4 + 2 bludgeoning damage to the creature it's attached to (DC 17 Fortitude check save)."
+    desc: "`pf2:1`  **Requirements** The geode is attached to a creature\n* * *\n\n**Effect** The geode deals 1d4+2 bludgeoning damage to the creature it's attached to (DC 17 Fortitude check save)."
  
+```
+
+```encounter-table
+name: Gluttonous Geode
+creatures:
+  - 1: Gluttonous Geode
 ```
 
 

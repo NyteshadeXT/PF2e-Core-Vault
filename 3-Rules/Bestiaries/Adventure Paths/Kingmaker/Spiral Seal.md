@@ -4,6 +4,7 @@ obsidianUIMode: preview
 noteType: pf2eHazard
 tags:
   - magical
+  - pf2eHazard
 
 source: Pathfinder Kingmaker
 aliases: "Compendium.pf2e.kingmaker-bestiary.Actor.E70Drr6CmSaJQ01v" 
@@ -21,13 +22,13 @@ name: "Spiral Seal"
 level: "Hazard 16"
 
 
-trait_01: "magical"
+trait_01: [[magical]]
 modifier: 0
 sourcebook: "_Pathfinder Kingmaker_"
 ac: 39
 armorclass:
   - name: AC
-    desc: "39; __Fort__ +30, __Ref__ +25, __Will__ +0"
+    desc: "39; __Fort__ +30, __Ref__ +25, "
 hp: 106
 health:
   - name: ""
@@ -49,12 +50,18 @@ attacks:
   - name: ""
 
   - name: "Backlash"
-    desc: "`pf2:r` (incapacitation, occult) **Trigger** A creature fails an attempt to disable the Spiral Seal or inflicts damage to it without successfully breaking it\n**Effect** The magic stored within the Spiral Seal blasts outward in a concussive wave of power, surging in a spiraling vortex. All creatures within 60 feet of the Spiral Seal must attempt a DC 41 Fortitude check save.\n**Critical Success** The creature is unaffected.\n**Success** The creature is knocked [[Conditions/Prone|Prone]].\n**Failure** The creature is knocked prone and is [[Conditions/Stupefied 1|Stupefied 1]] for 24 hours.\n**Critical Failure** The creature is knocked prone, is [[Conditions/Stupefied 1|Stupefied 3]] for 24 hours, and increases their [[Conditions/Doomed 1|Doomed]] value by 1."
+    desc: "`pf2:r` (incapacitation, occult) **Trigger** A creature fails an attempt to disable the Spiral Seal or inflicts damage to it without successfully breaking it\n* * *\n\n**Effect** The magic stored within the Spiral Seal blasts outward in a concussive wave of power, surging in a spiraling vortex. All creatures within 60 feet of the Spiral Seal must attempt a DC 41 Fortitude check save.\n* * *\n\n**Critical Success** The creature is unaffected.\n\n**Success** The creature is knocked [[Conditions/Prone|Prone]].\n\n**Failure** The creature is knocked prone and is [[Conditions/Stupefied|Stupefied 1]] for 24 hours.\n\n**Critical Failure** The creature is knocked prone, is [[Conditions/Stupefied|Stupefied 3]] for 24 hours, and increases their [[Conditions/Doomed|Doomed]] value by 1."
 
   - name: "Recovery"
-    desc: "`pf2:0` **Frequency** once per round\n**Trigger** The Spiral Seal is damaged but is above its Broken Threshold\n**Effect** The Spiral Seal repairs itself, regaining 30 Hit Points."
+    desc: "`pf2:0` **Frequency** once per round\n\n**Trigger** The Spiral Seal is damaged but is above its Broken Threshold\n* * *\n\n**Effect** The Spiral Seal repairs itself, regaining 30 healing Hit Points."
 
 
 
+```
+
+```encounter-table
+name: Spiral Seal
+creatures:
+  - 1: Spiral Seal
 ```
 

@@ -6,6 +6,7 @@ cssClasses: pf2e
 aliases: "Compendium.pf2e.pfs-season-1-bestiary.Actor.HffGyY6B9Kz20jOY" 
 tags:
   - pf2e/creature/type/animal
+  - pf2eMonster
   - pf2e/creature/level/4
 statblock: inline
 name: "Lesser Giant Short-faced Bear"
@@ -23,11 +24,12 @@ level: "Creature 4"
 
 alignment: ""
 size: "Large"
-trait_01: "animal"
+trait_01: [[animal]]
 modifier: 11
 perception:
   - name: "Perception"
     desc: "+11; Low-Light Vision, Scent (Imprecise) 30 Feet"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Athletics: +12, Survival: +9"
@@ -61,7 +63,7 @@ attacks:
     desc: "`pf2:1` Claw +12 (agile, reach)\n__Damage__  1d12 + 4 slashing plus grab"
 
   - name: "Mauling Throw"
-    desc: "`pf2:1` (attack) **Requirements** The giant short-faced bear has a creature grabbed\n**Effect** The giant shortfaced bear throws its grabbed target up to 20 feet in any direction and deals its claw damage to the target."
+    desc: "`pf2:1` (attack) **Requirements** The giant short-faced bear has a creature grabbed\n* * *\n\n**Effect** The giant shortfaced bear throws its grabbed target up to 20 feet in any direction and deals its claw damage to the target."
 
   - name: "Rush"
     desc: "`pf2:2`  The giant short-faced bear Strides and makes a Strike at the end of that movement. During the Stride, the giant short-faced bear gains a +10-foot circumstance bonus to its Speed."
@@ -69,6 +71,12 @@ attacks:
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
     desc: "`pf2:1`  "
  
+```
+
+```encounter-table
+name: Lesser Giant Short-faced Bear
+creatures:
+  - 1: Lesser Giant Short-faced Bear
 ```
 
 

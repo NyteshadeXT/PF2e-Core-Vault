@@ -6,8 +6,9 @@ tags:
   - trait/ratfolk
   - trait/common
   - category/ancestry
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.JQxFvMHu0ffo56RT"
-license: OGL
+license: ORC
 ---
 # Shinstabber
 ## Feat 13
@@ -19,7 +20,7 @@ license: OGL
 
 **Prerequisites** Overcrowd
 * * *
-You can dart around and between your larger allies' legs without tripping them up. As long as you're Small or smaller, you can end your movement in the same square as a Medium or larger ally. Only two creatures total can share the same space when using this ability or a similar one.
+As long as you're Small or smaller, you can end your movement in the same square as an ally of any size. Only two creatures total can share the same space when using this ability or a similar one.
 
-*Source: Pathfinder Lost Omens: Ancestry Guide*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

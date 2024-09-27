@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.lost-omens-monsters-of-myth-bestiary.Actor.ns6fmJ8469h
 tags:
   - pf2e/creature/type/chaotic
   - pf2e/creature/type/fey
+  - pf2eMonster
   - pf2e/creature/level/10
 statblock: inline
 name: "Mosquito Witch (The Hemoprophet)"
@@ -21,16 +22,16 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Lost Omens: Monsters of Myth"
 name: "Mosquito Witch (The Hemoprophet)"
 level: "Creature 10"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Medium"
-trait_01: "chaotic"
-trait_02: "fey"
+trait_01: [[chaotic]]
+trait_02: [[fey]]
 modifier: 22
 perception:
   - name: "Perception"
     desc: "+22; Darkvision"
-languages: "Aklo, Common, Fey, Sussuran"
+languages: "Aklo, Common, Fey, Sussuran; speak with animals"
 skills:
   - name: "Skills"
     desc: "Acrobatics: +18, Diplomacy: +18, Intimidation: +20, Medicine: +19, Nature: +21, Occultism: +15, Stealth: +22, Survival: +21"
@@ -58,10 +59,10 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Bloodbelly"
-    desc: "  The Mosquito Witch steals and stores stolen blood to power her divinations. Whenever she deals piercing damage, the Mosquito Witch can gain an equal number of Blood Points, to a maximum of 100 Blood Points. She becomes [[Conditions/Clumsy 1|Clumsy 1]] so long as she has at least 40 Blood Points stored, or [[Conditions/Clumsy 1|Clumsy 2]] if she has at least 80 Blood Points stored."
+    desc: "  The Mosquito Witch steals and stores stolen blood to power her divinations. Whenever she deals piercing damage, the Mosquito Witch can gain an equal number of Blood Points, to a maximum of 100 Blood Points. She becomes [[Conditions/Clumsy|Clumsy 1]] so long as she has at least 40 Blood Points stored, or [[Conditions/Clumsy|Clumsy 2]] if she has at least 80 Blood Points stored."
 
   - name: "Haunting Gaze"
-    desc: " (aura,emotion,fear,mental,visual) 30 feet. When a creature ends its turn in the emanation, it must attempt a DC 29 Will check save. If the creature fails, it becomes [[Conditions/Frightened 1|Frightened 1]]. If it's already frightened, its frightened value instead increases by 1 (maximum [[Conditions/Frightened 1|Frightened 3]]) and doesn't decrease by 1 at the end of the creature's next turn. If a creature's frightened value is 3 or higher before failing its save, the creature is also [[Conditions/Fleeing|Fleeing]] for 1 round."
+    desc: " (aura,emotion,fear,mental,visual) 30 feet. When a creature ends its turn in the emanation, it must attempt a DC 29 Will check save. If the creature fails, it becomes [[Conditions/Frightened|Frightened 1]]. If it's already frightened, its frightened value instead increases by 1 (maximum [[Conditions/Frightened|Frightened 3]]) and doesn't decrease by 1 at the end of the creature's next turn. If a creature's frightened value is 3 or higher before failing its save, the creature is also [[Conditions/Fleeing|Fleeing]] for 1 round."
 
 attacks:
   - name: ""
@@ -76,17 +77,23 @@ attacks:
     desc: "DC 29, attack +21; __7th __  _[[Spells/Retrocognition|Retrocognition (x3)]]_; __6th __  _[[Spells/Object Reading|Object Reading (x3)]]_, _[[Spells/Scrying|Scrying (x3)]]_; __5th __  _[[Spells/Locate|Locate (x3)]]_, _[[Spells/Scouting Eye|Prying Eye (x3)]]_; __4th __  _[[Spells/Read Omens|Read Omens (x3)]]_; __3rd __  _[[Spells/Wanderer's Guide|Wanderer's Guide (x3)]]_"
 
   - name: "Dipteric Dread"
-    desc: " (poison) **Saving Throw** DC 29 Fortitude check\n**Maximum Duration** 6 rounds\n**Stage 1** 2d6 piercing and 2d6 poison (1 round)\n**Stage 2** 2d6 piercing and 3d6 poison (1 round)\n**Stage 3** 2d6 piercing and 5d6 poison"
+    desc: " (poison) **Saving Throw** DC 29 Fortitude check\n\n**Maximum Duration** 6 rounds\n\n**Stage 1** 2d6 piercing and 2d6 poison (1 round)\n\n**Stage 2** 2d6 piercing and 3d6 poison (1 round)\n\n**Stage 3** 2d6 piercing and 5d6 poison"
 
   - name: "Prophecy in Red"
     desc: "  The Mosquito Witch can't Cast an occult Spell without simultaneously expending a number of Blood Points equal to 10 × the spell's rank."
 
   - name: "Slurp"
-    desc: "`pf2:r`  **Trigger** A creature adjacent to the Mosquito Witch takes persistent bleed damage\n**Effect** The Mosquito Witch slurps up some of the creature's blood and gains Blood Points equal to the bleed damage dealt."
+    desc: "`pf2:r`  **Trigger** A creature adjacent to the Mosquito Witch takes persistent bleed damage\n* * *\n\n**Effect** The Mosquito Witch slurps up some of the creature's blood and gains Blood Points equal to the bleed damage dealt."
 
   - name: "Terror From Within"
     desc: "  The Mosquito Witch's powers feed on fear. When taking bleed or piercing damage dealt by the Mosquito Witch's bleed and dipteric dread, a creature takes additional damage equal to twice the creature's frightened value."
  
+```
+
+```encounter-table
+name: Mosquito Witch (The Hemoprophet)
+creatures:
+  - 1: Mosquito Witch (The Hemoprophet)
 ```
 
 

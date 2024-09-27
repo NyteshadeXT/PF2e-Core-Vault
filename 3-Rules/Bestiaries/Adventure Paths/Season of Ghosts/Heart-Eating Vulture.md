@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/beast
   - pf2e/creature/type/chaotic
   - pf2e/creature/type/evil
+  - pf2eMonster
   - pf2e/creature/level/4
 statblock: inline
 name: "Heart-Eating Vulture"
@@ -22,12 +23,12 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #197: Let the Leaves Fall"
 name: "Heart-Eating Vulture"
 level: "Creature 4"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Large"
-trait_01: "beast"
-trait_02: "chaotic"
-trait_03: "evil"
+trait_01: [[beast]]
+trait_02: [[chaotic]]
+trait_03: [[evil]]
 modifier: 10
 perception:
   - name: "Perception"
@@ -66,11 +67,17 @@ attacks:
     desc: "`pf2:1` Talon +12 (agile, finesse, magical)\n__Damage__  2d6 + 4 slashing"
 
   - name: "Carrion Fever"
-    desc: " (disease) The sickened condition from carrion fever can't be reduced while the affliction remains\n**Saving Throw** DC 21 Fortitude check\n**Onset** 1 day\n**Stage 1** [[Conditions/Sickened 1|Sickened 1]] and [[Conditions/Fatigued|Fatigued]] (1 day)\n**Stage 2** sickened 1, [[Conditions/Slowed 1|Slowed 1]], and fatigued (1 day)"
+    desc: " (disease) The sickened condition from carrion fever can't be reduced while the affliction remains\n\n**Saving Throw** DC 21 Fortitude check\n* * *\n\n**Onset** 1 day\n\n**Stage 1** [[Conditions/Sickened|Sickened 1]] and [[Conditions/Fatigued|Fatigued]] (1 day)\n\n**Stage 2** sickened 1, [[Conditions/Slowed|Slowed 1]], and fatigued (1 day)"
 
   - name: "Projectile Vomit"
-    desc: "`pf2:1`  **Frequency** once per hour\n**Effect** The giant vulture vomits up its last meal on a creature within 10 feet. The creature takes 3d6 acid damage with a DC 20 Fortitude check save. On a failed save, the target is also [[Conditions/Sickened 1|Sickened 1]]."
+    desc: "`pf2:1`  **Frequency** once per hour\n* * *\n\n**Effect** The giant vulture vomits up its last meal on a creature within 10 feet. The creature takes 3d6 acid damage with a DC 20 Fortitude check save. On a failed save, the target is also [[Conditions/Sickened|Sickened 1]]."
  
+```
+
+```encounter-table
+name: Heart-Eating Vulture
+creatures:
+  - 1: Heart-Eating Vulture
 ```
 
 

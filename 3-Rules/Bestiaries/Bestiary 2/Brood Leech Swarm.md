@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/amphibious
   - pf2e/creature/type/animal
   - pf2e/creature/type/swarm
+  - pf2eMonster
   - pf2e/creature/level/4
 statblock: inline
 name: "Brood Leech Swarm"
@@ -26,13 +27,14 @@ level: "Creature 4"
 
 alignment: ""
 size: "Large"
-trait_01: "amphibious"
-trait_02: "animal"
-trait_03: "swarm"
+trait_01: [[amphibious]]
+trait_02: [[animal]]
+trait_03: [[swarm]]
 modifier: 9
 perception:
   - name: "Perception"
     desc: "+9; Tremorsense (Imprecise) 30 Feet"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Athletics: +8, Stealth: +11"
@@ -63,8 +65,14 @@ attacks:
     desc: "`pf2:1`  Each enemy in the swarm's space takes 2d6 bleed and is exposed to brood leech swarm venom."
 
   - name: "Brood Leech Swarm Venom"
-    desc: " (poison) **Saving Throw** DC 21 Fortitude check\n**Maximum Duration** 6 rounds\n**Stage 1** [[Conditions/Clumsy 1|Clumsy 1]], [[Conditions/Sickened 1|Sickened 1]], and -5-foot status penalty to Speed (1 round)\n**Stage 2** [[Conditions/Clumsy 1|Clumsy 1]], [[Conditions/Sickened 1|Sickened 1]], and -10-foot status penalty to Speed (1 round)."
+    desc: " (poison) **Saving Throw** DC 21 Fortitude check\n\n**Maximum Duration** 6 rounds\n\n**Stage 1** [[Conditions/Clumsy|Clumsy 1]], [[Conditions/Sickened|Sickened 1]], and -5-foot status penalty to Speed (1 round)\n\n**Stage 2** [[Conditions/Clumsy|Clumsy 1]], [[Conditions/Sickened|Sickened 1]], and -10-foot status penalty to Speed (1 round)."
  
+```
+
+```encounter-table
+name: Brood Leech Swarm
+creatures:
+  - 1: Brood Leech Swarm
 ```
 
 

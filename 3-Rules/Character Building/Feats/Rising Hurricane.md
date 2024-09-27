@@ -18,7 +18,7 @@ license: OGL
 ---
 # Rising Hurricane `pf2:3`
 ## Feat 6
-### [[3-Rules/Rule References/Air]][[composite]][[impulse]][[kineticist]][[overflow]][[primal]][[3-Rules/Rule References/Water]]
+### [[air]][[composite]][[impulse]][[kineticist]][[overflow]][[primal]][[water]]
 
 **Category** class; 
 

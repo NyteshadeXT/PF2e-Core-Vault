@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/chaotic
   - pf2e/creature/type/dragon
   - pf2e/creature/type/evil
+  - pf2eMonster
   - pf2e/creature/level/19
 statblock: inline
 name: "Taiga Linnorm"
@@ -23,12 +24,12 @@ token: [[modules/pf2e-tokens-bestiaries/portraits/draconic/linnorms/taiga-linnor
 source: "Pathfinder Bestiary 2"
 name: "Taiga Linnorm"
 level: "Creature 19"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "grg"
-trait_01: "chaotic"
-trait_02: "dragon"
-trait_03: "evil"
+trait_01: [[chaotic]]
+trait_02: [[dragon]]
+trait_03: [[evil]]
 modifier: 33
 perception:
   - name: "Perception"
@@ -55,7 +56,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "[[Bestiary Ability Glossary/Attack of Opportunity|Attack of Opportunity (Tail Only)]]"
-    desc: "`pf2:r`  Tail only.\n"
+    desc: "`pf2:r`  Tail only.\n\n* * *\n"
 
   - name: "Curse of Endless Storms"
     desc: " (curse,electricity,primal) When a creature slays a taiga linnorm, it must succeed at a DC 46 Will check save or permanently gain weakness 20 to electricity."
@@ -79,11 +80,17 @@ attacks:
     desc: "DC 41, attack +31\n__Constant__  __(9th)__ _[[Spells/Unfettered Movement|Freedom of Movement]]_ __(8th)__ _[[Spells/Truesight|True Seeing]]_"
 
   - name: "Breath Weapon"
-    desc: "`pf2:2` (electricity,primal) The taiga linnorm breathes a 60-foot cone of electrified vapor, dealing 20d6 electricity damage to creatures in the area (DC 41 Reflex check save). The electrified mist persists for 1d4 rounds, dealing 6d6 electricity damage (DC 41 Reflex check save) to each creature that ends its turn in the mist.\nThe taiga linnorm can't use Breath Weapon again for 1d4 rounds."
+    desc: "`pf2:2` (electricity,primal) The taiga linnorm breathes a @Template[cone|distance:60] of electrified vapor, dealing 20d6 electricity damage to creatures in the area (DC 41 Reflex check save). The electrified mist persists for 1d4 rounds, dealing 6d6 electricity damage (DC 41 Reflex check save) to each creature that ends its turn in the mist.\n\nThe taiga linnorm can't use Breath Weapon again for 1d4 rounds."
 
   - name: "Taiga Linnorm Venom"
-    desc: " (electricity,poison) **Saving Throw** DC 42 Fortitude check\n**Maximum Duration** 10 rounds\n**Stage 1** 7d6 electricity damage and [[Conditions/Drained 1|Drained 1]] (1 round)\n**Stage 2** 10d6 electricity damage and [[Conditions/Drained 1|Drained 2]] (1 round)"
+    desc: " (electricity,poison) **Saving Throw** DC 42 Fortitude check\n\n**Maximum Duration** 10 rounds\n\n**Stage 1** 7d6 electricity damage and [[Conditions/Drained|Drained 1]] (1 round)\n\n**Stage 2** 10d6 electricity damage and [[Conditions/Drained|Drained 2]] (1 round)"
  
+```
+
+```encounter-table
+name: Taiga Linnorm
+creatures:
+  - 1: Taiga Linnorm
 ```
 
 

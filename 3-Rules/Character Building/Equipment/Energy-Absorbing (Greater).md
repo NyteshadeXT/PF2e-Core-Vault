@@ -10,7 +10,7 @@ license: OGL
 ---
 # Energy-Absorbing (Greater)
 ## Item 15
-### [rare](rare "Rare Rarity Trait")[[magical]]
+### [rare](rare.md "Rare Rarity Trait")[[3-Rules/Rule References/Magical]]
 
 
 **Price** 6000 gp; 

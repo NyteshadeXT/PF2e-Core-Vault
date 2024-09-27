@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.fists-of-the-ruby-phoenix-bestiary.Actor.FWfKJ7e8UgbBX
 tags:
   - pf2e/creature/type/human
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/12
 statblock: inline
 name: "Weapon Master (Under the Pale Sun Dervishes)"
@@ -21,11 +22,11 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #166: Despair on Danger Island"
 name: "Weapon Master (Under the Pale Sun Dervishes)"
 level: "Creature 12"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Medium"
-trait_01: "human"
-trait_02: "humanoid"
+trait_01: [[human]]
+trait_02: [[humanoid]]
 modifier: 21
 perception:
   - name: "Perception"
@@ -33,7 +34,7 @@ perception:
 languages: "Taldane, Tien"
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +23, Athletics: +23, Athletics: +26, Intimidation: +22, Survival: +24, Warfare Lore: +23"
+    desc: "Acrobatics: +21, Athletics: +21, Intimidation: +20, Survival: +22, Warfare Lore: +21"
 abilityMods: [5, 2, 4, 2, 3, 1]
 speed: 25 feet
 sourcebook: "_Pathfinder #166: Despair on Danger Island_"
@@ -68,11 +69,17 @@ attacks:
     desc: "  The weapon master deals an extra 2d10 damage to creatures that are not adjacent to any allies or other foes."
 
   - name: "Swift Blow"
-    desc: "`pf2:2` (flourish) **Requirements** The weapon master is not wielding a weapon.\n**Effect** The weapon master Interacts to draw a melee weapon without triggering reactions and makes a Strike with that weapon. The target is [[Conditions/Off-Guard|Off-Guard]] against this Strike. The weapon master deals an extra 2d8 bleed with the Strike."
+    desc: "`pf2:2` (flourish) **Requirements** The weapon master is not wielding a weapon.\n* * *\n\n**Effect** The weapon master Interacts to draw a melee weapon without triggering reactions and makes a Strike with that weapon. The target is [[Conditions/Off-Guard|Off-Guard]] against this Strike. The weapon master deals an extra 2d8 bleed with the Strike."
 
   - name: "Whirling Attack"
     desc: "`pf2:3` (flourish) The dervish spins with blinding speed. They make a melee Strike against each enemy within reach. Each attack counts toward the dervish's multiple attack penalty, but they don't increase their penalty until they have made all their attacks."
  
+```
+
+```encounter-table
+name: Weapon Master (Under the Pale Sun Dervishes)
+creatures:
+  - 1: Weapon Master (Under the Pale Sun Dervishes)
 ```
 
 

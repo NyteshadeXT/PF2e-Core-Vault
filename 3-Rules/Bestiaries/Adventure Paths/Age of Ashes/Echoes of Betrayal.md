@@ -4,6 +4,7 @@ obsidianUIMode: preview
 noteType: pf2eHazard
 tags:
   - haunt
+  - pf2eHazard
   - complex
 source: Pathfinder #148: Fires of the Haunted City
 aliases: "Compendium.pf2e.age-of-ashes-bestiary.Actor.ja9KowUPZjhwhJ1x" 
@@ -21,7 +22,7 @@ name: "Echoes of Betrayal"
 level: "Hazard 16"
 
 trait_06: "Complex"
-trait_01: "haunt"
+trait_01: [[haunt]]
 modifier: 25
 sourcebook: "_Pathfinder #148: Fires of the Haunted City_"
 perception:
@@ -40,7 +41,7 @@ attacks:
   - name: ""
 
   - name: "Confuse"
-    desc: "`pf2:r` (emotion, fear, illusion, mental, occult) **Trigger** At least three creatures enter area **H10**.\n**Effect** The haunt takes control of all creatures in the prison, affecting them with [[Spells/Confusion|Confusion]] (8th level, DC 37 Will check save)."
+    desc: "`pf2:r` (emotion, fear, illusion, mental, occult) **Trigger** At least three creatures enter area **H10**.\n* * *\n\n**Effect** The haunt takes control of all creatures in the prison, affecting them with [[Spells/Confusion|Confusion]] (8th level, DC 37 Will check save)."
   - name: "Melee"
     desc: "Spectral Fist +35 (magical, reach 10 feet) On hit the creature must attempt a new DC 37 Will check save against [[Spells/Confusion|Confusion]] if it's not already [[Conditions/Confused|Confused]]."
 
@@ -48,5 +49,11 @@ attacks:
     desc: "(1 action) As 1 action, the haunt causes a barrage of ghostly fists to lash from the walls, floors, and ceiling. The haunt attempts a spectral fist Strike against each creature in area **H10**."
   - name: "Reset"
     desc: "After 24 hours, the haunt returns. The spirits are permanently put to rest only if a lawfully appointed judge from Saggorak (or Kovlar) comes into the prison, takes damage from the haunt, and survives the attack."
+```
+
+```encounter-table
+name: Echoes of Betrayal
+creatures:
+  - 1: Echoes of Betrayal
 ```
 

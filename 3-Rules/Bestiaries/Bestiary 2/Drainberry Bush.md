@@ -6,6 +6,7 @@ cssClasses: pf2e
 aliases: "Compendium.pf2e.pathfinder-bestiary-2.Actor.Z9rOUqCqAaMjvgBc" 
 tags:
   - pf2e/creature/type/plant
+  - pf2eMonster
   - pf2e/creature/level/7
 statblock: inline
 name: "Drainberry Bush"
@@ -21,18 +22,18 @@ token: [[modules/pf2e-tokens-bestiaries/portraits/plant/drainberry-bush.webp| ]]
 source: "Pathfinder Bestiary 2"
 name: "Drainberry Bush"
 level: "Creature 7"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Large"
-trait_01: "plant"
+trait_01: [[plant]]
 modifier: 16
 perception:
   - name: "Perception"
     desc: "+16; Lifesense 120 Feet"
-languages: "Aklo, Common, Fey"
+languages: "Aklo, Common, Fey; can&#x27;t speak any language; telepathy 100 feet"
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +11, Athletics: +17, Diplomacy: +13, Nature: +17, Stealth: +11 (+15 to appear as a bush)"
+    desc: "Acrobatics: +11, Athletics: +17, Diplomacy: +13, Nature: +17, Stealth: +11"
 abilityMods: [6, 2, 6, -2, 4, 2]
 speed: 25 feet,  climb 20 feet
 sourcebook: "_Pathfinder Bestiary 2_"
@@ -60,17 +61,23 @@ attacks:
     desc: "`pf2:1` Vine +17 (reach 20 feet)\n__Damage__  2d8 + 10 bludgeoning plus improved-grab"
 
   - name: "Blood Berries"
-    desc: " (healing,primal) The drainberry bush must drain blood from living creatures for sustenance. This causes clusters of bright red berries to grow among its branches.\nEach cluster of berries lasts for 1 day, and a drainberry bush typically has 1d6+3 clusters when encountered. When consumed, a cluster restores 2d8+10 Hit Points. This effect has the healing, necromancy, and primal traits.\nA creature can pluck a cluster of berries with a successful unarmed Strike or Thievery check against the bush's AC."
+    desc: " (healing,primal) The drainberry bush must drain blood from living creatures for sustenance. This causes clusters of bright red berries to grow among its branches.\n\nEach cluster of berries lasts for 1 day, and a drainberry bush typically has 1d6+3 clusters when encountered. When consumed, a cluster restores 2d8+10 Hit Points. This effect has the healing, necromancy, and primal traits.\n\nA creature can pluck a cluster of berries with a successful unarmed Strike or Thievery check against the bush's AC."
 
   - name: "Consume Berries"
     desc: "`pf2:1` (healing,primal,vitality) The bush draws nourishment from one cluster of blood berries, regaining 2d8+10 Hit Points. That berry cluster wrinkles and dies."
 
   - name: "Drain Blood"
-    desc: "`pf2:1`  **Requirements** The drainberry bush has at least one living creature [[Conditions/Grabbed|Grabbed]] with one of its vines\n**Effect** The bush's hollow thorns siphon blood from creatures it has grabbed. Each creature must succeed at a DC 25 Fortitude check save or take 2d8 + 10 damage and become [[Conditions/Drained 1|Drained 1]] (double damage and [[Conditions/Drained 1|Drained 2]] on a critical failure). For every creature damaged this way, a cluster of blood berries immediately grows along the bush's branches."
+    desc: "`pf2:1`  **Requirements** The drainberry bush has at least one living creature [[Conditions/Grabbed|Grabbed]] with one of its vines\n* * *\n\n**Effect** The bush's hollow thorns siphon blood from creatures it has grabbed. Each creature must succeed at a DC 25 Fortitude check save or take 2d8+10 damage and become [[Conditions/Drained|Drained 1]] (double damage and [[Conditions/Drained|Drained 2]] on a critical failure). For every creature damaged this way, a cluster of blood berries immediately grows along the bush's branches."
 
   - name: "Storm of Vines"
     desc: "`pf2:2`  The drainberry bush makes up to four vine Strikes, each against a different target. These attacks count toward the bush's multiple attack penalty, but the multiple attack penalty doesn't increase until after the bush makes all these attacks."
  
+```
+
+```encounter-table
+name: Drainberry Bush
+creatures:
+  - 1: Drainberry Bush
 ```
 
 

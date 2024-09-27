@@ -10,6 +10,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/fiend
   - pf2e/creature/type/unholy
+  - pf2eMonster
   - pf2e/creature/level/16
 statblock: inline
 name: "The Inkmaster"
@@ -27,16 +28,16 @@ level: "Creature 16"
 
 alignment: ""
 size: "grg"
-trait_01: "chaotic"
-trait_02: "demon"
-trait_03: "evil"
-trait_04: "fiend"
-trait_05: "unholy"
+trait_01: [[chaotic]]
+trait_02: [[demon]]
+trait_03: [[evil]]
+trait_04: [[fiend]]
+trait_05: [[unholy]]
 modifier: 30
 perception:
   - name: "Perception"
     desc: "+30; Darkvision, Scent (Imprecise) 60 Feet, Truesight"
-languages: "Chthonian, Draconic, Empyrean"
+languages: "Chthonian, Draconic, Empyrean; telepathy 100 feet"
 skills:
   - name: "Skills"
     desc: "Athletics: +31, Deception: +25, Intimidation: +27, Medicine: +28, Religion: +30"
@@ -68,7 +69,7 @@ abilities_mid:
     desc: "  A shemhazian's mutilation is a part of them, and they can't bear to see it reversed. The first time each round that a creature heals from damage the shemhazian dealt on their last turn, the demon takes 3d6 mental damage."
 
   - name: "Tail Whip"
-    desc: "`pf2:r`  **Trigger** A creature within reach of the shemhazian's tail leaves a square during a move action it's using.\n**Effect** The shemhazian attempts to Trip the triggering creature. On a success, the creature also takes damage as if the shemhazian had hit with a tail Strike, and if the creature was flying, it falls 30 feet."
+    desc: "`pf2:r`  **Trigger** A creature within reach of the shemhazian's tail leaves a square during a move action it's using.\n* * *\n\n**Effect** The shemhazian attempts to Trip the triggering creature. On a success, the creature also takes damage as if the shemhazian had hit with a tail Strike, and if the creature was flying, it falls 30 feet."
 
 attacks:
   - name: ""
@@ -98,17 +99,23 @@ attacks:
     desc: "_[[Spells/Demonic Pact|Abyssal Pact]]_"
 
   - name: "Enfeebling Bite"
-    desc: " (divine) If the shemhazian's jaws Strike damages a creature, the target is [[Conditions/Enfeebled 1|Enfeebled 3]]. The target can attempt a DC 37 Fortitude check save to reduce this to [[Conditions/Enfeebled 1|Enfeebled 1]] (or be unaffected on a critical success)."
+    desc: " (divine) If the shemhazian's jaws Strike damages a creature, the target is [[Conditions/Enfeebled|Enfeebled 3]]. The target can attempt a DC 37 Fortitude check save to reduce this to [[Conditions/Enfeebled|Enfeebled 1]] (or be unaffected on a critical success)."
 
   - name: "Focused Gaze"
-    desc: "`pf2:1` (concentrate,divine,incapacitation,visual) The shemhazian focuses their gaze on a non-evil creature they can see within 30 feet. If that creature isn't already slowed by the shemhazian's paralyzing gaze, it must attempt a save against the shemhazian's paralyzing gaze. If that creature is [[Conditions/Slowed 1|Slowed]], it must succeed at a DC 35 Fortitude check save or be [[Conditions/Paralyzed|Paralyzed]] for 1 round. A shemhazian can't use this ability against the same creature more than once per round."
+    desc: "`pf2:1` (concentrate,divine,incapacitation,visual) The shemhazian focuses their gaze on a non-evil creature they can see within 30 feet. If that creature isn't already slowed by the shemhazian's paralyzing gaze, it must attempt a save against the shemhazian's paralyzing gaze. If that creature is [[Conditions/Slowed|Slowed]], it must succeed at a DC 35 Fortitude check save or be [[Conditions/Paralyzed|Paralyzed]] for 1 round. A shemhazian can't use this ability against the same creature more than once per round."
 
   - name: "Rend"
-    desc: "`pf2:1`  Claw\nA Rend entry lists a Strike the monster has.\n**Requirements** The monster hit the same enemy with two consecutive Strikes of the listed type in the same round.\n**Effect** The monster automatically deals that Strike's damage again to the enemy."
+    desc: "`pf2:1`  Claw\n* * *\n\nA Rend entry lists a Strike the monster has.\n\n**Requirements** The monster hit the same enemy with two consecutive Strikes of the listed type in the same round.\n* * *\n\n**Effect** The monster automatically deals that Strike's damage again to the enemy."
 
   - name: "Improved Grab"
-    desc: "  **Requirements** The monster's last action was a success with a Strike that lists Improved Grab in its damage entry, or it has a creature grabbed using this action.\n**Effect** The monster automatically Grabs the target until the end of the monster's next turn. The creature is grabbed by whichever body part the monster attacked with, and that body part can't be used to Strike creatures until the grab is ended. Using Improved Grab extends the duration of the monster's Improved Grab until the end of its next turn for all creatures grabbed by it, but this costs an action. A grabbed creature can use the Escape action to get out of the grab, and the Grab ends for a grabbed creatures if the monster moves away from it."
+    desc: "  **Requirements** The monster's last action was a success with a Strike that lists Improved Grab in its damage entry, or it has a creature grabbed using this action.\n* * *\n\n**Effect** The monster automatically Grabs the target until the end of the monster's next turn. The creature is grabbed by whichever body part the monster attacked with, and that body part can't be used to Strike creatures until the grab is ended. Using Improved Grab extends the duration of the monster's Improved Grab until the end of its next turn for all creatures grabbed by it, but this costs an action. A grabbed creature can use the Escape action to get out of the grab, and the Grab ends for a grabbed creatures if the monster moves away from it."
  
+```
+
+```encounter-table
+name: The Inkmaster
+creatures:
+  - 1: The Inkmaster
 ```
 
 

@@ -6,6 +6,7 @@ cssClasses: pf2e
 aliases: "Compendium.pf2e.pathfinder-monster-core.Actor.Hl1Nnnda8KSf0Obp" 
 tags:
   - pf2e/creature/type/beast
+  - pf2eMonster
   - pf2e/creature/level/3
   - remaster
 statblock: inline
@@ -25,7 +26,7 @@ level: "Creature 3"
 
 alignment: ""
 size: "Small"
-trait_01: "beast"
+trait_01: [[beast]]
 modifier: 9
 perception:
   - name: "Perception"
@@ -33,7 +34,7 @@ perception:
 languages: "Aklo; (can&#x27;t speak any language)"
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +9 (+11 to Leap), Athletics: +9, Stealth: +9 (+11 in undergrowth or rocky areas)"
+    desc: "Acrobatics: +9, Athletics: +9, Stealth: +9"
 abilityMods: [3, 4, 2, -3, 2, -2]
 speed: 25 feet
 sourcebook: "_Pathfinder Monster Core_"
@@ -64,11 +65,17 @@ attacks:
     desc: "`pf2:1`  The chupacabra Strides and makes a Strike at the end of that movement. If the chupacabra began this action [[Conditions/Hidden|Hidden]], it remains hidden until after this ability's Strike."
 
   - name: "Suck Blood"
-    desc: "`pf2:1`  **Requirements** The chupacabra has a creature [[Conditions/Grabbed|Grabbed]]\n* * *\n\n**Effect** The chupacabra sucks blood from the grabbed creature. The chupacabra gains the [[Conditions/Quickened|Quickened]] condition for 1 minute and can use the extra action only for Strike and Stride actions.\n\nA chupacabra can't Suck Blood again while it is quickened in this way.\n\nA creature that has its blood drained by a chupacabra is [[Conditions/Drained 1|Drained 1]] until it receives healing (of any kind or amount)."
+    desc: "`pf2:1`  **Requirements** The chupacabra has a creature [[Conditions/Grabbed|Grabbed]]\n* * *\n\n**Effect** The chupacabra sucks blood from the grabbed creature. The chupacabra gains the [[Conditions/Quickened|Quickened]] condition for 1 minute and can use the extra action only for Strike and Stride actions.\n\nA chupacabra can't Suck Blood again while it is quickened in this way.\n\nA creature that has its blood drained by a chupacabra is [[Conditions/Drained|Drained 1]] until it receives healing (of any kind or amount)."
 
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
     desc: "`pf2:1`  "
  
+```
+
+```encounter-table
+name: Chupacabra
+creatures:
+  - 1: Chupacabra
 ```
 
 

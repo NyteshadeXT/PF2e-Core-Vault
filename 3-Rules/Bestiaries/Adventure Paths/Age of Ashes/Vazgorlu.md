@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/aberration
   - pf2e/creature/type/astral
   - pf2e/creature/type/evil
+  - pf2eMonster
   - pf2e/creature/level/20
 statblock: inline
 name: "Vazgorlu"
@@ -22,12 +23,12 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #150: Broken Promises"
 name: "Vazgorlu"
 level: "Creature 20"
-rare_03: "Rare"
+rare_03: [[Rare]]
 alignment: ""
 size: "Large"
-trait_01: "aberration"
-trait_02: "astral"
-trait_03: "evil"
+trait_01: [[aberration]]
+trait_02: [[astral]]
+trait_03: [[evil]]
 modifier: 33
 perception:
   - name: "Perception"
@@ -35,7 +36,7 @@ perception:
 languages: "Aklo, Chthonian, Daemonic, Diabolic, Empyrean, Protean, Requian, Utopian"
 skills:
   - name: "Skills"
-    desc: "Arcana: +38, Deception: +38, Portal Lore: +41, Stealth: +34, Thievery: +32"
+    desc: "Arcana: +38, Deception: +38, Stealth: +34, Thievery: +32, Portal Lore: +41"
 abilityMods: [6, 7, 6, 7, 8, 5]
 speed: 30 feet,  climb 30 feet
 sourcebook: "_Pathfinder #150: Broken Promises_"
@@ -54,7 +55,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Hostile Juxtaposition"
-    desc: "`pf2:r` (arcane,teleportation) **Trigger** A creature targets the vazgorlu with a Strike\n**Effect** The vazgorlu chooses a different creature within 60 feet and attempts to swap places with that creature using [[Spells/Translocate|Translocate]] in the instant before the Strike. The target must attempt a DC 39 Will check save.\n**Critical Success** The target resists the teleportation, and the vazgorlu can't use Hostile Juxtaposition for 1d4 rounds.\n**Success** The target resists the teleportation.\n**Failure** The target and the vazgorlu instantly swap places, and the triggering Strike is resolved against the target instead.\n**Critical Failure** As failure, but the target is transported to the vazgorlu's demiplane after resolving the triggering Strike against it."
+    desc: "`pf2:r` (arcane,teleportation) **Trigger** A creature targets the vazgorlu with a Strike\n* * *\n\n**Effect** The vazgorlu chooses a different creature within 60 feet and attempts to swap places with that creature using [[Spells/Translocate|Translocate]] in the instant before the Strike. The target must attempt a DC 39 Will check save.\n* * *\n\n**Critical Success** The target resists the teleportation, and the vazgorlu can't use Hostile Juxtaposition for 1d4 rounds.\n\n**Success** The target resists the teleportation.\n\n**Failure** The target and the vazgorlu instantly swap places, and the triggering Strike is resolved against the target instead.\n\n**Critical Failure** As failure, but the target is transported to the vazgorlu's demiplane after resolving the triggering Strike against it."
 
 attacks:
   - name: ""
@@ -77,6 +78,12 @@ attacks:
   - name: "Redirect Portal"
     desc: "  A vazgorlu can spend 10 minutes in contact with a magical portal to redirect it, causing the portal to instead lead to its demiplane lair. To do so, the vazgorlu must succeed at a Portal Lore check (the DC is either equal to the caster's spell DC for a portal created by a spell, or set by the portal's level; if the portal in question has no level listed, assume it's a 20th-level portal)."
  
+```
+
+```encounter-table
+name: Vazgorlu
+creatures:
+  - 1: Vazgorlu
 ```
 
 

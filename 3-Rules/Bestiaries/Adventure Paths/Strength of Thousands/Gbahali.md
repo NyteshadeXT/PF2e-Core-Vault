@@ -6,6 +6,7 @@ cssClasses: pf2e
 aliases: "Compendium.pf2e.strength-of-thousands-bestiary.Actor.0Ve1reLmo36JXnCT" 
 tags:
   - pf2e/creature/type/beast
+  - pf2eMonster
   - pf2e/creature/level/9
 statblock: inline
 name: "Gbahali"
@@ -20,17 +21,18 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #170: Spoken on the Song Wind"
 name: "Gbahali"
 level: "Creature 9"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "huge"
-trait_01: "beast"
+trait_01: [[beast]]
 modifier: 17
 perception:
   - name: "Perception"
     desc: "+17; Low-Light Vision, Scent (Imprecise) 30 Feet"
+languages: ""
 skills:
   - name: "Skills"
-    desc: "Athletics: +20, Stealth: +17 (+21 in water), Survival: +17"
+    desc: "Athletics: +20, Stealth: +17, Survival: +17"
 abilityMods: [7, 4, 5, -3, 4, -2]
 speed: 40 feet,  swim 30 feet
 sourcebook: "_Pathfinder #170: Spoken on the Song Wind_"
@@ -67,17 +69,23 @@ attacks:
     desc: "`pf2:1` Tail +21 (backswing, reach 15 feet)\n__Damage__  2d10 + 13 bludgeoning"
 
   - name: "[[Bestiary Ability Glossary/Aquatic Ambush|Aquatic Ambush]]"
-    desc: "`pf2:1`  40 feet\n"
+    desc: "`pf2:1`  40 feet\n\n* * *\n"
 
   - name: "Powerful Jumper"
     desc: "  A gbahali jumps 10 feet up on a successful [[Action Macros/High Jump_ Athletics|High Jump: Athletics]] or 20 feet up on a critical success."
 
   - name: "[[Bestiary Ability Glossary/Swallow Whole|Swallow Whole]]"
-    desc: "`pf2:1` (attack) Medium, 2d8 + 7 bludgeoning, Rupture 20\n"
+    desc: "`pf2:1` (attack) Medium, 2d8+7 bludgeoning, Rupture 20\n\n* * *\n"
 
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
     desc: "`pf2:1`  "
  
+```
+
+```encounter-table
+name: Gbahali
+creatures:
+  - 1: Gbahali
 ```
 
 

@@ -15,7 +15,7 @@ license: ORC
 ---
 # Signature Spells
 ## Feat 3
-### [[bard]][[oracle]][[psychic]][[sorcerer]]
+### [[3-Rules/trait_reference/bard]][[oracle]][[psychic]][[3-Rules/trait_reference/sorcerer]]
 
 **Category** classfeature; 
 

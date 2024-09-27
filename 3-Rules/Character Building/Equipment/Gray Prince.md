@@ -34,7 +34,7 @@ While nothing created by the Ash Cult could be considered mass-produced, this _+
 
 **Frequency** once per hour;
 
-**Effect** You fire a bolt of void energy, dealing 2d8 void damage to all creatures in a 60-foot line (DC 24 Reflex check saving throw). Creatures who critically fail their saving throw also take 1 persistent void damage for 1 minute.
+**Effect** You fire a bolt of void energy, dealing 2d8 void damage to all creatures in a @Template\[line|distance:60\] (DC 24 Reflex check saving throw). Creatures who critically fail their saving throw also take 1 persistent void damage for 1 minute.
 
 *Source: Pathfinder Lost Omens: Highhelm*
 *OGL*

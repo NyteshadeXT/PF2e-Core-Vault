@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/rakshasa
   - pf2e/creature/type/spirit
   - pf2e/creature/type/unholy
+  - pf2eMonster
   - pf2e/creature/level/10
   - remaster
 statblock: inline
@@ -20,15 +21,16 @@ license: ORC
 columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
+token: [[modules/pf2e-tokens-bestiaries/portraits/fiendish/raja-rakshasa.webp| ]]
 source: "Pathfinder Monster Core"
 name: "Raja-Krodha"
 level: "Creature 10"
 
 alignment: ""
 size: "Medium"
-trait_01: "rakshasa"
-trait_02: "spirit"
-trait_03: "unholy"
+trait_01: [[rakshasa]]
+trait_02: [[spirit]]
+trait_03: [[unholy]]
 modifier: 18
 perception:
   - name: "Perception"
@@ -48,7 +50,7 @@ hp: 180
 health:
   - name: ""
   - name: HP
-    desc: "180; __Immunities__  fear effects; __Weaknesses__ holy 10"
+    desc: "180; __Immunities__  fear effects,  fortune effects,  misfortune effects; __Weaknesses__ holy 10"
 abilities_top:
   - name: ""
   - name: "Items"
@@ -59,7 +61,7 @@ abilities_mid:
     desc: "  A creature that fails a Recall Knowledge check or a Perception check to [[Actions/Sense Motive|Sense Motive]] on a raja-krodha is [[Conditions/Off-Guard|Off-Guard]] until the end of its next turn."
 
   - name: "Reassert Fate"
-    desc: "`pf2:r` (divine) **Trigger** A creature within 30 feet uses a fortune or misfortune effect\n* * *\n\n**Effect** The raja-krodha reasserts the ebb and flow of fate, instilling a deep dread in those who would attempt to cheat their written role. They disrupt the triggering effect, and the triggering creature becomes [[Conditions/Frightened 1|Frightened 2]] and is [[Conditions/Off-Guard|Off-Guard]] to the raja-krodha until the end of its next turn."
+    desc: "`pf2:r` (divine) **Trigger** A creature within 30 feet uses a fortune or misfortune effect\n* * *\n\n**Effect** The raja-krodha reasserts the ebb and flow of fate, instilling a deep dread in those who would attempt to cheat their written role. They disrupt the triggering effect, and the triggering creature becomes [[Conditions/Frightened|Frightened 2]] and is [[Conditions/Off-Guard|Off-Guard]] to the raja-krodha until the end of its next turn."
 
 attacks:
   - name: ""
@@ -89,8 +91,14 @@ attacks:
     desc: "  The raja-krodha deals 2d6 extra precision damage to [[Conditions/Off-Guard|Off-Guard]] creatures."
 
   - name: "[[Bestiary Ability Glossary/Swallow Whole|Swallow Whole]]"
-    desc: "`pf2:1` (attack) Medium, 2d12 + 6 bludgeoning, Rupture 15\n\n* * *\n"
+    desc: "`pf2:1` (attack) Medium, 2d12+6 bludgeoning, Rupture 15\n\n* * *\n"
  
+```
+
+```encounter-table
+name: Raja-Krodha
+creatures:
+  - 1: Raja-Krodha
 ```
 
 

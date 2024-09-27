@@ -23,7 +23,7 @@ license: OGL
 
 * * *
 
-You sharply exhale the poison that previously surrounded you in a 15-foot cone. Creatures in the area are affected by the poison; the poison's DC and effects are unchanged.
+You sharply exhale the poison that previously surrounded you in a @Template\[cone|distance:15\]. Creatures in the area are affected by the poison; the poison's DC and effects are unchanged.
 
 *Source: Pathfinder #153: Life's Long Shadows*
 *OGL*

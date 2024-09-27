@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/gnome
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/4
 statblock: inline
 name: "Tartuccio"
@@ -22,12 +23,12 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Kingmaker"
 name: "Tartuccio"
 level: "Creature 4"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Small"
-trait_01: "evil"
-trait_02: "gnome"
-trait_03: "humanoid"
+trait_01: [[evil]]
+trait_02: [[gnome]]
+trait_03: [[humanoid]]
 modifier: 9
 perception:
   - name: "Perception"
@@ -35,7 +36,7 @@ perception:
 languages: "Common, Draconic, Fey, Gnomish, Hallit"
 skills:
   - name: "Skills"
-    desc: "Bardic Lore: +8, Crafting: +8, Deception: +12, Intimidation: +10, Occultism: +10, Performance: +12, Society: +10, Stealth: +11, Thievery: +9"
+    desc: "Crafting: +8, Deception: +12, Intimidation: +10, Occultism: +10, Performance: +12, Society: +10, Stealth: +11, Thievery: +9, Bardic Lore: +8"
 abilityMods: [0, 3, 1, 2, 1, 4]
 speed: 25 feet
 sourcebook: "_Pathfinder Kingmaker_"
@@ -67,11 +68,17 @@ attacks:
     desc: "2 Focus Points, DC 20, attack +12; __2nd __  _[[Spells/Counter Performance|Counter Performance]]_, _[[Spells/Loremaster's Etude|Loremaster's Etude]]_\n__Cantrips__  __(2nd)__ _[[Spells/Courageous Anthem|Inspire Courage]]_"
 
   - name: "Change Shape"
-    desc: "`pf2:1` (concentrate,occult,polymorph) **Frequency** once per week\n**Effect** By performing a ten-minute long incantation, Tartuccio takes on the appearance of any uniquely-appearing Small humanoid. He can't disguise himself as a specific individual. This doesn't change his Speed or his attack and damage modifiers with his Strikes. He can do this again to resume his true form, and must do so before he uses the ability again to assume a different appearance. He reverts to his true form if he is slain."
+    desc: "`pf2:1` (concentrate,occult,polymorph) **Frequency** once per week\n* * *\n\n**Effect** By performing a ten-minute long incantation, Tartuccio takes on the appearance of any uniquely-appearing Small humanoid. He can't disguise himself as a specific individual. This doesn't change his Speed or his attack and damage modifiers with his Strikes. He can do this again to resume his true form, and must do so before he uses the ability again to assume a different appearance. He reverts to his true form if he is slain."
 
   - name: "Invoke Old Sharptooth"
-    desc: "`pf2:r` (auditory,emotion,mental) **Requirement** Tartuccio is in Tartuk's form\n**Trigger** A Sootscale kobold causes Tartuccio harm.\n**Effect** Tartuccio (as Tartuk) can [[Actions/Demoralize|Demoralize]] the kobold who harmed him with a short warning such as \"Old Sharptooth will punish you for your transgressions!\" He gains a +2 circumstance bonus on the Intimidate check to do so."
+    desc: "`pf2:r` (auditory,emotion,mental) **Requirement** Tartuccio is in Tartuk's form\n\n**Trigger** A Sootscale kobold causes Tartuccio harm.\n* * *\n\n**Effect** Tartuccio (as Tartuk) can [[Actions/Demoralize|Demoralize]] the kobold who harmed him with a short warning such as \"Old Sharptooth will punish you for your transgressions!\" He gains a +2 circumstance bonus on the Intimidate check to do so."
  
+```
+
+```encounter-table
+name: Tartuccio
+creatures:
+  - 1: Tartuccio
 ```
 
 

@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/animal
   - pf2e/creature/type/chaotic
   - pf2e/creature/type/fey
+  - pf2eMonster
   - pf2e/creature/level/7
 statblock: inline
 name: "Fey-Touched Great Wolf"
@@ -22,12 +23,12 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Society Scenario #4-99: Blessings of the Forest"
 name: "Fey-Touched Great Wolf"
 level: "Creature 7"
-rare_03: "Rare"
+rare_03: [[Rare]]
 alignment: ""
 size: "Large"
-trait_01: "animal"
-trait_02: "chaotic"
-trait_03: "fey"
+trait_01: [[animal]]
+trait_02: [[chaotic]]
+trait_03: [[fey]]
 modifier: 17
 perception:
   - name: "Perception"
@@ -63,17 +64,23 @@ attacks:
     desc: "`pf2:2`  The great wolf Strides twice and makes a melee Strike."
 
   - name: "Tickle Bite"
-    desc: "`pf2:3` (emotion,mental) The fey-touched great wolf makes a jaws Strike. If successful, after taking the normal damage from the Strike, the target must succeed at a DC 22 Will check save or become [[Conditions/Slowed 1|Slowed 1]] for 1 minute as it becomes overcome with fits of laughter."
+    desc: "`pf2:3` (emotion,mental) The fey-touched great wolf makes a jaws Strike. If successful, after taking the normal damage from the Strike, the target must succeed at a DC 22 Will check save or become [[Conditions/Slowed|Slowed 1]] for 1 minute as it becomes overcome with fits of laughter."
 
   - name: "Topiary"
     desc: "`pf2:1` (concentrate) Until the next time it acts, the fey-touched great wolf appears to be a topiary in the shape of a wolf. It has an automatic result of 37 on Deception checks and DCs to pass as a bush."
 
   - name: "Worry"
-    desc: "`pf2:1` (attack) **Requirements** The great wolf has a creature [[Conditions/Grabbed|Grabbed]] with its jaws\n**Effect** The great wolf shakes the grabbed creature with its teeth, dealing 2d8 + 4 piercing damage (DC 25 Fortitude check save)."
+    desc: "`pf2:1` (attack) **Requirements** The great wolf has a creature [[Conditions/Grabbed|Grabbed]] with its jaws\n* * *\n\n**Effect** The great wolf shakes the grabbed creature with its teeth, dealing 2d8+4 piercing damage (DC 25 Fortitude check save)."
 
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
     desc: "`pf2:1`  "
  
+```
+
+```encounter-table
+name: Fey-Touched Great Wolf
+creatures:
+  - 1: Fey-Touched Great Wolf
 ```
 
 

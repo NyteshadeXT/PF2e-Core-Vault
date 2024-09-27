@@ -17,7 +17,7 @@ license: OGL
 
 
 
-**Moderate Curse** Lamashtu marks you as prey.
+Lamashtu marks you as prey.
 
 Any creature with imprecise or better scent can smell you from 100 × the usual range of their scent and can't shake the feeling that you smell like prey, so they might attack you even if they would normally avoid attacking creatures of your ancestry.
 

@@ -10,6 +10,7 @@ tags:
   - pf2e/creature/type/human
   - pf2e/creature/type/humanoid
   - pf2e/creature/type/werecreature
+  - pf2eMonster
   - pf2e/creature/level/2
 statblock: inline
 name: "Werebat"
@@ -28,16 +29,16 @@ level: "Creature 2"
 
 alignment: ""
 size: "Medium"
-trait_01: "beast"
-trait_02: "evil"
-trait_03: "human"
-trait_04: "humanoid"
-trait_05: "werecreature"
+trait_01: [[beast]]
+trait_02: [[evil]]
+trait_03: [[human]]
+trait_04: [[humanoid]]
+trait_05: [[werecreature]]
 modifier: 9
 perception:
   - name: "Perception"
     desc: "+9; Echolocation 40 Feet, Low-Light Vision"
-languages: "Common"
+languages: "Common; bat empathy"
 skills:
   - name: "Skills"
     desc: "Acrobatics: +8, Athletics: +6, Deception: +4, Society: +5, Stealth: +8"
@@ -66,7 +67,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Wing Thrash"
-    desc: "`pf2:r`  **Trigger** An adjacent enemy damages the werebat\n**Effect** The werebat makes one or two wing Strikes, each against a different adjacent creature."
+    desc: "`pf2:r`  **Trigger** An adjacent enemy damages the werebat\n* * *\n\n**Effect** The werebat makes one or two wing Strikes, each against a different adjacent creature."
 
 attacks:
   - name: ""
@@ -84,14 +85,20 @@ attacks:
     desc: "`pf2:1` Dagger +10 (agile, thrown 10 ft., versatile s)\n__Damage__  1d4 + 4 piercing"
 
   - name: "[[Creature Family Ability Glossary/(Werecreature) Change Shape|Change Shape]]"
-    desc: "`pf2:1` (concentrate,polymorph,primal) *   **Human**\n    *   **Melee** fist +10/+5/+0 (agile, nonlethal), **Damage** 1d4 + 2 bludgeoning damage\n    *   **Speed** 25 feet\n*   **Giant Bat**\n    *   **Speed** 15 feet, fly 30 feet\nThe werecreature changes into its humanoid, hybrid, or animal shape. Each shape has a specific, persistent appearance. A true werecreature's natural form is its hybrid shape.\nIn humanoid shape, the werecreature uses its original humanoid size, loses its jaws and claws Strikes, and gains a melee fist Strike that deals bludgeoning damage equal to the slashing damage dealt by its claw.\nIn animal shape, its Speed and size change to that of the animal, it gains any special Strike effects of the animal that it didn't already have (such as Grab), and it loses its weapon Strikes.\n"
+    desc: "`pf2:1` (concentrate,polymorph,primal) *   **Human**\n    *   **Melee** fist +10/+6/+2 (agile, nonlethal), **Damage** 1d4+2 bludgeoning damage\n    *   **Speed** 25 feet\n*   **Giant Bat**\n    *   **Speed** 15 feet, fly 30 feet\n* * *\n\nThe werecreature changes into its humanoid, hybrid, or animal shape. Each shape has a specific, persistent appearance. A true werecreature's natural form is its hybrid shape.\n\nIn humanoid shape, the werecreature uses its original humanoid size, loses its jaws and claws Strikes, and gains a melee fist Strike that deals bludgeoning damage equal to the slashing damage dealt by its claw.\n\nIn animal shape, its Speed and size change to that of the animal, it gains any special Strike effects of the animal that it didn't already have (such as Grab), and it loses its weapon Strikes.\n\n* * *\n"
 
   - name: "[[Creature Family Ability Glossary/(Werecreature) Curse of the Werecreature|Curse of the Werebat]]"
-    desc: " (curse,primal) This curse affects only humanoids.\n**Saving Throw** DC 15 Fortitude check\nOn each full moon, the cursed creature must succeed at another Fortitude save or turn into a werecreature until dawn. The creature is under the GM's control and goes on a rampage for half the night before falling unconscious until dawn."
+    desc: " (curse,primal) This curse affects only humanoids.\n* * *\n\n**Saving Throw** DC 15 Fortitude check\n\nOn each full moon, the cursed creature must succeed at another Fortitude save or turn into a werecreature until dawn. The creature is under the GM's control and goes on a rampage for half the night before falling unconscious until dawn."
 
   - name: "[[Creature Family Ability Glossary/(Werecreature) Moon Frenzy|Moon Frenzy]]"
-    desc: " (polymorph,primal) When a full moon appears in the night sky, the werecreature must enter hybrid form, can't Change Shape thereafter, becomes one size larger, increases its reach by 5 feet, and increases the damage of its jaws Strike (or a similar Strike) by 2.\nWhen the moon sets or the sun rises, the werecreature returns to humanoid form and is [[Conditions/Fatigued|Fatigued]] for 2d4 hours.\n[[Bestiary Effects/Effect_ Moon Frenzy|Effect: Moon Frenzy]]"
+    desc: " (polymorph,primal) When a full moon appears in the night sky, the werecreature must enter hybrid form, can't Change Shape thereafter, becomes one size larger, increases its reach by 5 feet, and increases the damage of its jaws Strike (or a similar Strike) by 2.\n\nWhen the moon sets or the sun rises, the werecreature returns to humanoid form and is [[Conditions/Fatigued|Fatigued]] for 2d4 hours.\n\n[[Bestiary Effects/Effect_ Moon Frenzy|Effect: Moon Frenzy]]"
  
+```
+
+```encounter-table
+name: Werebat
+creatures:
+  - 1: Werebat
 ```
 
 

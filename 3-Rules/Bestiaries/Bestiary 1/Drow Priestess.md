@@ -10,6 +10,7 @@ tags:
   - pf2e/creature/type/elf
   - pf2e/creature/type/evil
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/3
 statblock: inline
 name: "Drow Priestess"
@@ -28,11 +29,11 @@ level: "Creature 3"
 
 alignment: ""
 size: "Medium"
-trait_01: "chaotic"
-trait_02: "drow"
-trait_03: "elf"
-trait_04: "evil"
-trait_05: "humanoid"
+trait_01: [[chaotic]]
+trait_02: [[drow]]
+trait_03: [[elf]]
+trait_04: [[evil]]
+trait_05: [[humanoid]]
 modifier: 9
 perception:
   - name: "Perception"
@@ -77,6 +78,12 @@ attacks:
   - name: "Divine Innate Spells"
     desc: "DC 17, attack +9; __4th __  _[[Spells/Darkness|Darkness]]_; __3rd __  _[[Spells/Dispel Magic|Dispel Magic]]_, _[[Spells/Levitate|Levitate (x3)]]_; __2nd __  _[[Spells/Darkness|Darkness (At Will)]]_, _[[Spells/Faerie Fire|Faerie Fire (At Will)]]_; __1st __  _[[Spells/Command|Command (At Will)]]_\n__Cantrips__  __(4th)__ _[[Compendium.pf2e.spells-srd.Item.kl2q6JvBZwed4B6v|Dancing Lights]]_"
  
+```
+
+```encounter-table
+name: Drow Priestess
+creatures:
+  - 1: Drow Priestess
 ```
 
 

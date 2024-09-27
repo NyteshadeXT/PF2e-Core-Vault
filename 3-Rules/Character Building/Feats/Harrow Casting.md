@@ -37,5 +37,5 @@ You draw a card from your harrow deck just before you cast a spell to infuse you
 
 **Crown** The spell's magic is [[Conditions/Hidden|Hidden]] and subtle, and observers may not realize you're doing anything more than manipulating cards in your harrow deck. Attempt a Fortune-Telling Lore check against all observer's Perception DCs. If your check is successful against an observer's Perception DC, that observer doesn't notice you are Casting a Spell, even though normally spells have sensory manifestations. This hides only the spell's spellcasting actions and manifestations, not its effects. If your harrow omen is Crowns, you gain a +2 status bonus to your Fortune-Telling Lore check.
 
-*Source: Pathfinder: Stolen Fate Player's Guide*
+*Source: Pathfinder Stolen Fate Player's Guide*
 *OGL*

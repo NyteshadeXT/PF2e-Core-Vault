@@ -10,6 +10,7 @@ tags:
   - pf2e/creature/type/skeleton
   - pf2e/creature/type/undead
   - pf2e/creature/type/unholy
+  - pf2eMonster
   - pf2e/creature/level/1
 statblock: inline
 name: "Hobgoblin Skeleton"
@@ -27,15 +28,16 @@ level: "Creature 1"
 
 alignment: ""
 size: "Medium"
-trait_01: "evil"
-trait_02: "mindless"
-trait_03: "skeleton"
-trait_04: "undead"
-trait_05: "unholy"
+trait_01: [[evil]]
+trait_02: [[mindless]]
+trait_03: [[skeleton]]
+trait_04: [[undead]]
+trait_05: [[unholy]]
 modifier: 6
 perception:
   - name: "Perception"
     desc: "+6; Darkvision"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Acrobatics: +5, Athletics: +5"
@@ -72,6 +74,12 @@ attacks:
   - name: "Melee"
     desc: "`pf2:1` Claw +6 (agile)\n__Damage__  1d4 + 3 slashing"
  
+```
+
+```encounter-table
+name: Hobgoblin Skeleton
+creatures:
+  - 1: Hobgoblin Skeleton
 ```
 
 

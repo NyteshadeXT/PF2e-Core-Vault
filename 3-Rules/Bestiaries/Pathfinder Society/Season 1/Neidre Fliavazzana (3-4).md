@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/gnome
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/3
 statblock: inline
 name: "Neidre Fliavazzana (3-4)"
@@ -26,10 +27,10 @@ level: "Creature 3"
 
 alignment: ""
 size: "Small"
-trait_01: "chaotic"
-trait_02: "evil"
-trait_03: "gnome"
-trait_04: "humanoid"
+trait_01: [[chaotic]]
+trait_02: [[evil]]
+trait_03: [[gnome]]
+trait_04: [[humanoid]]
 modifier: 12
 perception:
   - name: "Perception"
@@ -37,7 +38,7 @@ perception:
 languages: "Common, Gnomish"
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +9, Aspis Consortium Lore: +7, Athletics: +6, Deception: +10, Intimidation: +8, Society: +7, Stealth: +13, Thievery: +9"
+    desc: "Acrobatics: +9, Athletics: +6, Deception: +10, Intimidation: +8, Society: +7, Stealth: +13, Thievery: +9, Aspis Consortium Lore: +7"
 abilityMods: [0, 4, 1, 1, 0, 4]
 speed: 25 feet
 sourcebook: "_Pathfinder Society Quest #7: A Curious Claim_"
@@ -77,6 +78,12 @@ attacks:
   - name: "Surprise Attacker"
     desc: "  On the first round of combat, creatures that haven't acted yet are [[Conditions/Off-Guard|Off-Guard]] to Neidre."
  
+```
+
+```encounter-table
+name: Neidre Fliavazzana (3-4)
+creatures:
+  - 1: Neidre Fliavazzana (3-4)
 ```
 
 

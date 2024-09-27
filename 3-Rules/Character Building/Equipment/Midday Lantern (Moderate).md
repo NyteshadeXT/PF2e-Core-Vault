@@ -11,7 +11,7 @@ license: OGL
 ---
 # Midday Lantern (Moderate)
 ## Item 10
-### [uncommon](uncommon "Uncommon Rarity Trait")[[3-Rules/Character Building/Spells/Light]][[magical]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[light]][[magical]]
 
 
 **Price** 850 gp; 

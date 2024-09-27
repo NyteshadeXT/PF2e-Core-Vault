@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/incorporeal
   - pf2e/creature/type/spirit
   - pf2e/creature/type/undead
+  - pf2eMonster
   - pf2e/creature/level/4
 statblock: inline
 name: "Hearth Hound"
@@ -24,20 +25,21 @@ token: [[modules/battlezoo-bestiary-pf2e/art/hearth_hound.webp| ]]
 source: "Battlezoo Bestiary"
 name: "Hearth Hound"
 level: "Creature 4"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Medium"
-trait_01: "beast"
-trait_02: "incorporeal"
-trait_03: "spirit"
-trait_04: "undead"
+trait_01: [[beast]]
+trait_02: [[incorporeal]]
+trait_03: [[spirit]]
+trait_04: [[undead]]
 modifier: 13
 perception:
   - name: "Perception"
     desc: "+13; Darkvision, Scent (Imprecise) 30 Feet"
+languages: ""
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +12, Athletics: +11, Stealth: +12, "
+    desc: "Acrobatics: +12, Athletics: +11, Stealth: +12"
 abilityMods: [-5, 4, 0, -3, 3, 5]
 speed:  fly 30 feet
 sourcebook: "_Battlezoo Bestiary_"
@@ -62,7 +64,7 @@ abilities_mid:
     desc: " (divine) When a hearth hound is destroyed, it re-forms, fully healed, in its hearth after 2d4 days. A hearth hound can be permanently destroyed only if its hearth is completely destroyed or the family it is guarding leaves their home for 1 year."
 
   - name: "Final Howl"
-    desc: "`pf2:r`  **Trigger** The hearth hound is reduced to 0 HP;\n**Effect** The hearth hound uses Sorrow's Howl. The point of origin for this effect is the hearth hound's hearth. The hearth hound is then destroyed."
+    desc: "`pf2:r`  **Trigger** The hearth hound is reduced to 0 HP;\n* * *\n\n**Effect** The hearth hound uses Sorrow's Howl. The point of origin for this effect is the hearth hound's hearth. The hearth hound is then destroyed."
 
 attacks:
   - name: ""
@@ -74,8 +76,14 @@ attacks:
     desc: "`pf2:2` (divine,fire) The hearth hound exhales ash and flames, dealing 1d4 rounds."
 
   - name: "Sorrow's Howl"
-    desc: "`pf2:2` (auditory,divine,emotion,mental) The hearth hound howls mournfully, communicating all the loss and pain it has seen during its time at the hearth. This howl is audible up to 100 feet away. Any creature that hears the howl must attempt a Will save. Regardless of the result, the creature is then temporarily immune to Sorrow's Howl for 24 hours.\n**Critical Success** The creature is unaffected.\n**Success** The creature is Slowed 1 for 1 round as it sobs uncontrollably.\n**Failure** The creature is slowed 1 for 1d4 rounds and cannot use reactions as long as it is slowed.\n**Critical Failure** As failure, but the duration is 1 minute."
+    desc: "`pf2:2` (auditory,divine,emotion,mental) The hearth hound howls mournfully, communicating all the loss and pain it has seen during its time at the hearth. This howl is audible up to 100 feet away. Any creature that hears the howl must attempt a DC 21 Will save. Regardless of the result, the creature is then temporarily immune to Sorrow's Howl for 24 hours.\n* * *\n\n**Critical Success** The creature is unaffected.\n\n**Success** The creature is [[Conditions/Slowed|Slowed 1]] for 1 round as it sobs uncontrollably.\n\n**Failure** The creature is slowed 1 for 1d4 rounds and cannot use reactions as long as it is slowed.\n\n**Critical Failure** As failure, but the duration is 1 minute."
  
+```
+
+```encounter-table
+name: Hearth Hound
+creatures:
+  - 1: Hearth Hound
 ```
 
 

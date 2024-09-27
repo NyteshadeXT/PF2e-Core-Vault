@@ -5,6 +5,7 @@ noteType: pf2eHazard
 tags:
   - mechanical
   - trap
+  - pf2eHazard
 
 source: Pathfinder Kingmaker
 aliases: "Compendium.pf2e.kingmaker-bestiary.Actor.qpkpPFlN0dSKJxaR" 
@@ -22,8 +23,8 @@ name: "Breeg's Traps"
 level: "Hazard 3"
 
 
-trait_01: "mechanical"
-trait_02: "trap"
+trait_01: [[mechanical]]
+trait_02: [[trap]]
 modifier: 10
 sourcebook: "_Pathfinder Kingmaker_"
 perception:
@@ -33,7 +34,7 @@ perception:
 abilities_top:
   - name: ""
   - name: "Description"
-    desc: "Several dozen spike snares are littered across this hex.\n**Treasure:** Each time a PC triggers a trap, the trap is destroyed. If all the traps are disabled, materials to craft six spike snares can be salvaged."
+    desc: "Several dozen spike snares are littered across this hex.\n* * *\n\n**Treasure:** Each time a PC triggers a trap, the trap is destroyed. If all the traps are disabled, materials to craft six spike snares can be salvaged."
 abilities_mid:
   - name: ""
   - name: "Disable"
@@ -42,12 +43,18 @@ attacks:
   - name: ""
 
   - name: "Clamp Shut"
-    desc: "`pf2:r` **Trigger** Anyone Travels or Reconnoiters this hex\n**Effect** If the characters are Traveling, one of them (determined randomly) steps in a trap. If the characters are Reconnoitering, 1d4 of them (determined randomly) step in a trap. When a creature steps in a trap, the trap makes a bear trap Strike against the creature."
+    desc: "`pf2:r` **Trigger** Anyone Travels or Reconnoiters this hex\n* * *\n\n**Effect** If the characters are Traveling, one of them (determined randomly) steps in a trap. If the characters are Reconnoitering, 1d4 of them (determined randomly) step in a trap. When a creature steps in a trap, the trap makes a bear trap Strike against the creature."
   - name: "Melee"
     desc: "Bear Trap +14 () "
 
 
   - name: "Reset"
     desc: "There are enough traps in this hex that this hazard can be triggered up to 5 times before all the traps are used up."
+```
+
+```encounter-table
+name: Breeg's Traps
+creatures:
+  - 1: Breeg's Traps
 ```
 

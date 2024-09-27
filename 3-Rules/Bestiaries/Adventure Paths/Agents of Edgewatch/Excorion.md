@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/undead
   - pf2e/creature/type/unholy
+  - pf2eMonster
   - pf2e/creature/level/7
 statblock: inline
 name: "Excorion"
@@ -22,16 +23,17 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #158: Sixty Feet Under"
 name: "Excorion"
 level: "Creature 7"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Medium"
-trait_01: "evil"
-trait_02: "undead"
-trait_03: "unholy"
+trait_01: [[evil]]
+trait_02: [[undead]]
+trait_03: [[unholy]]
 modifier: 18
 perception:
   - name: "Perception"
     desc: "+18; Darkvision"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Acrobatics: +16, Athletics: +17, Stealth: +16"
@@ -68,14 +70,20 @@ attacks:
     desc: "`pf2:1`  The excorion plants a magical handprint on the target, marking them as chosen for death. The excorion makes a fist Strike against an adjacent creature; this does not count toward the excorion's multiple attack penalty. On a hit, the attack does no damage, but the creature becomes observed to every excorion within 60 feet, even if an excorion's line of sight would be blocked by a wall or other obstacle. This effect lasts until the handprint is washed off, which requires water and spending 3 actions to fully clean off."
 
   - name: "Vital Transfusion"
-    desc: "`pf2:2`  **Requirements** The excorion has at least 70 Hit Points\n**Effect** The excorion sacrifices itself and transfers its bloody, vital energy to a willing living creature within 30 feet. The excorion is immediately destroyed, and the targeted living creature heals a number of HP equal to half the excorion's remaining HP at the time that it used this ability.\nThe living creature is [[Conditions/Slowed 1|Slowed 1]] during its next turn as its body adjusts to the newly transfused blood and vital energy; the living creature also counts as an excorion for 1 minute for the purpose of seeing other excorions' Bloody Handprint marks."
+    desc: "`pf2:2`  **Requirements** The excorion has at least 70 Hit Points\n* * *\n\n**Effect** The excorion sacrifices itself and transfers its bloody, vital energy to a willing living creature within 30 feet. The excorion is immediately destroyed, and the targeted living creature heals a number of HP equal to half the excorion's remaining HP at the time that it used this ability.\n\nThe living creature is [[Conditions/Slowed|Slowed 1]] during its next turn as its body adjusts to the newly transfused blood and vital energy; the living creature also counts as an excorion for 1 minute for the purpose of seeing other excorions' Bloody Handprint marks."
 
   - name: "Vomit Blood"
-    desc: "`pf2:1`  The excorion spews necrotic blood all over a foe it has grabbed. The grabbed creature must succeed at a DC 25 Fortitude check save or become [[Conditions/Sickened 1|Sickened 2]]."
+    desc: "`pf2:1`  The excorion spews necrotic blood all over a foe it has grabbed. The grabbed creature must succeed at a DC 25 Fortitude check save or become [[Conditions/Sickened|Sickened 2]]."
 
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
     desc: "`pf2:1`  "
  
+```
+
+```encounter-table
+name: Excorion
+creatures:
+  - 1: Excorion
 ```
 
 

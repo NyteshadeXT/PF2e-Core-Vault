@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/humanoid
   - pf2e/creature/type/kobold
   - pf2e/creature/type/lawful
+  - pf2eMonster
   - pf2e/creature/level/4
 statblock: inline
 name: "Jekkajak"
@@ -23,13 +24,13 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Adventure: Crown of the Kobold King"
 name: "Jekkajak"
 level: "Creature 4"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Small"
-trait_01: "evil"
-trait_02: "humanoid"
-trait_03: "kobold"
-trait_04: "lawful"
+trait_01: [[evil]]
+trait_02: [[humanoid]]
+trait_03: [[kobold]]
+trait_04: [[lawful]]
 modifier: 9
 perception:
   - name: "Perception"
@@ -69,8 +70,14 @@ attacks:
     desc: "1 Focus Point, DC 21, attack +13; __2nd __  _[[Spells/Diabolic Edict|Diabolic Edict]]_"
 
   - name: "Smoky Retreat"
-    desc: "`pf2:3` (divine,move) **Frequency** once per hour\n**Requirements** Jekkajak is adjacent to at least one enemy\n**Effect** Jekkajak squeals in fright as she exhales a noxious cloud of stinking smoke. This smoke fills a 10-foot emanation around her and grants concealment to all creatures within the smoke. In addition, any non-kobold starting their turn in the smoke must succeed at a DC 21 Fortitude check save or become [[Conditions/Sickened 1|Sickened 1]] by the foul smoke (or [[Conditions/Sickened 1|Sickened 2]] on a critical failure). Once created, the cloud of smoke is immobile and persists for 3 rounds. Jekkajak can move up to her Speed, but she must end her movement in a space that isn't adjacent to any enemies. This is a 2nd-rank spell that requires a somatic component."
+    desc: "`pf2:3` (divine,move) **Frequency** once per hour\n\n**Requirements** Jekkajak is adjacent to at least one enemy\n* * *\n\n**Effect** Jekkajak squeals in fright as she exhales a noxious cloud of stinking smoke. This smoke fills a @Template[emanation|distance:10] around her and grants concealment to all creatures within the smoke. In addition, any non-kobold starting their turn in the smoke must succeed at a DC 21 Fortitude check save or become [[Conditions/Sickened|Sickened 1]] by the foul smoke (or [[Conditions/Sickened|Sickened 2]] on a critical failure). Once created, the cloud of smoke is immobile and persists for 3 rounds. Jekkajak can move up to her Speed, but she must end her movement in a space that isn't adjacent to any enemies. This is a 2nd-rank spell that requires a somatic component."
  
+```
+
+```encounter-table
+name: Jekkajak
+creatures:
+  - 1: Jekkajak
 ```
 
 

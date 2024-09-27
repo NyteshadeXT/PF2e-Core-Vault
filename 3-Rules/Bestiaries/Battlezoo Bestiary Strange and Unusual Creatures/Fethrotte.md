@@ -7,6 +7,7 @@ aliases: "Compendium.battlezoo-bestiary-su-pf2e.pf2e-battlezoo-su-actors.Actor.h
 tags:
   - pf2e/creature/type/alchemical
   - pf2e/creature/type/animal
+  - pf2eMonster
   - pf2e/creature/level/3
 statblock: inline
 name: "Fethrotte"
@@ -22,18 +23,19 @@ token: [[modules/battlezoo-bestiary-su-pf2e/art/Portraits/fethrotte.webp| ]]
 source: "Battlezoo Bestiary: Strange and Unusual"
 name: "Fethrotte"
 level: "Creature 3"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Medium"
-trait_01: "alchemical"
-trait_02: "animal"
+trait_01: [[alchemical]]
+trait_02: [[animal]]
 modifier: 7
 perception:
   - name: "Perception"
     desc: "+7; Low-Light Vision"
+languages: ""
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +7, Athletics: +9, Stealth: +9, "
+    desc: "Acrobatics: +7, Athletics: +9, Stealth: +9, Acrobatics: +7, Athletics: +9, Stealth: +9"
 abilityMods: [3, 2, 4, -4, 1, 0]
 speed: 20 feet
 sourcebook: "_Battlezoo Bestiary: Strange and Unusual_"
@@ -52,7 +54,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Matching Miasma"
-    desc: "`pf2:r`  **Trigger** The fethrotte takes acid, cold, electricity, fire, poison, or sonic damage\n**Effect** The next jaws Strike the fethrotte makes deals 1d6 additional damage of the same energy type. The jaws Strike gains the corresponding energy trait."
+    desc: "`pf2:r`  **Trigger** The fethrotte takes acid, cold, electricity, fire, poison, or sonic damage\n* * *\n\n**Effect** The next jaws Strike the fethrotte makes deals 1d6 additional damage of the same energy type. The jaws Strike gains the corresponding energy trait."
 
   - name: "Volatile Contents"
     desc: " (acid,cold,electricity,fire,poison,sonic) When the fethrotte is killed, it bubbles and froths and undulates with growing intensity. If it is touched or moved, it detonates in a foul spew, dealing 1d4 minutes later in a 20-foot emanation."
@@ -67,8 +69,14 @@ attacks:
     desc: "`pf2:1`  "
 
   - name: "Heedless Mutation"
-    desc: "`pf2:1` (manipulate) **Frequency** Once per round\n**Requirements** The fethrotte has taken damage since the last time it used Heedless Mutation\n**Effect** With a grotesque twisting and expansion of its mouth and teeth, the fethrotte gains a +1 status bonus to its damage rolls with its jaws Strikes, but becomes Clumsy 1. This effect is cumulative with multiple uses to a maximum of a +4 status bonus to damage rolls and Clumsy 4. Two minutes after first using this ability or if the fethrotte loses consciousness, all changes from Heedless Mutation revert and it gains the drained condition equal to twice the previous status bonus and clumsy condition. If this would result in a drained condition higher than 4 (due to the status bonus and clumsy condition being 3 or 4), the backlash is fatal, and the fethrotte dies immediately as its head snaps back to its normal size.\n[[Effects/Effect_ Heedless Mutation|Effect: Heedless Mutation]]"
+    desc: "`pf2:1` (manipulate) **Frequency** Once per round\n\n**Requirements** The fethrotte has taken damage since the last time it used Heedless Mutation\n* * *\n\n**Effect** With a grotesque twisting and expansion of its mouth and teeth, the fethrotte gains a +1 status bonus to its damage rolls with its jaws Strikes, but becomes [[undefined]]. This effect is cumulative with multiple uses to a maximum of a +4 status bonus to damage rolls and [[undefined]]. Two minutes after first using this ability or if the fethrotte loses consciousness, all changes from Heedless Mutation revert and it gains the drained condition equal to twice the previous status bonus and clumsy condition. If this would result in a drained condition higher than 4 (due to the status bonus and clumsy condition being 3 or 4), the backlash is fatal, and the fethrotte dies immediately as its head snaps back to its normal size.\n\n[[Effects/Effect_ Heedless Mutation|Effect: Heedless Mutation]]"
  
+```
+
+```encounter-table
+name: Fethrotte
+creatures:
+  - 1: Fethrotte
 ```
 
 

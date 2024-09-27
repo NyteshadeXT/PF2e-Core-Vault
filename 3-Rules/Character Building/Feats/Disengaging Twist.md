@@ -6,8 +6,9 @@ tags:
   - trait/archetype
   - trait/common
   - category/class
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.W7IfFi6MkTDfO2hb"
-license: OGL
+license: ORC
 ---
 # Disengaging Twist `pf2:r`
 ## Feat 4
@@ -25,5 +26,5 @@ license: OGL
 
 Your ability to twist your opponents' bodies into painful locks and holds makes you particularly adept at escaping such predicaments. Attempt an Athletics check to Escape the triggering condition. You gain a +2 circumstance bonus to this check.
 
-*Source: Pathfinder Lost Omens: The Grand Bazaar*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

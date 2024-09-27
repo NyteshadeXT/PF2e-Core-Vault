@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/chaotic
   - pf2e/creature/type/humanoid
   - pf2e/creature/type/kitsune
+  - pf2eMonster
   - pf2e/creature/level/7
 statblock: inline
 name: "Yana No-trail"
@@ -22,17 +23,17 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #177: Burning Tundra"
 name: "Yana No-trail"
 level: "Creature 7"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Medium"
-trait_01: "chaotic"
-trait_02: "humanoid"
-trait_03: "kitsune"
+trait_01: [[chaotic]]
+trait_02: [[humanoid]]
+trait_03: [[kitsune]]
 modifier: 13
 perception:
   - name: "Perception"
     desc: "+13; Low-Light Vision"
-languages: "Common, Hallit, Jotun, Skald"
+languages: "Common, Hallit, Jotun, Skald; speak with animals"
 skills:
   - name: "Skills"
     desc: "Acrobatics: +17, Deception: +17, Diplomacy: +17, Society: +16, Stealth: +17, Thievery: +17"
@@ -61,7 +62,7 @@ abilities_mid:
     desc: "  When Yana rolls a success on a Reflex save, he gets a critical success instead."
 
   - name: "Nimble Dodge"
-    desc: "`pf2:r`  **Trigger** Yana is targeted by a melee or ranged attack from an attacker he can see\n**Effect** Yana gains a +2 circumstance bonus to AC against the triggering attack."
+    desc: "`pf2:r`  **Trigger** Yana is targeted by a melee or ranged attack from an attacker he can see\n* * *\n\n**Effect** Yana gains a +2 circumstance bonus to AC against the triggering attack."
 
 attacks:
   - name: ""
@@ -78,6 +79,12 @@ attacks:
   - name: "[[Bestiary Ability Glossary/Sneak Attack|Sneak Attack]]"
     desc: "  Yana deals an additional 3d6 precision damage to [[Conditions/Off-Guard|Off-Guard]] creatures."
  
+```
+
+```encounter-table
+name: Yana No-trail
+creatures:
+  - 1: Yana No-trail
 ```
 
 

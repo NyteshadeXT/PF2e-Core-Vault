@@ -10,7 +10,7 @@ license: OGL
 ---
 # Cube of Recall
 ## Item 19
-### [[magical]]
+### [[3-Rules/Rule References/Magical]]
 
 
 **Price** 40000 gp; 

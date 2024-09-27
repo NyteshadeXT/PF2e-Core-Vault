@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.kingmaker-bestiary.Actor.BJbe6BzLSIx8Jsix"
 tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/plant
+  - pf2eMonster
   - pf2e/creature/level/16
 statblock: inline
 name: "Storm-Struck Arboreal"
@@ -21,11 +22,11 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Kingmaker"
 name: "Storm-Struck Arboreal"
 level: "Creature 16"
-rare_03: "Rare"
+rare_03: [[Rare]]
 alignment: ""
 size: "huge"
-trait_01: "evil"
-trait_02: "plant"
+trait_01: [[evil]]
+trait_02: [[plant]]
 modifier: 28
 perception:
   - name: "Perception"
@@ -33,7 +34,7 @@ perception:
 languages: "Aklo, Fey"
 skills:
   - name: "Skills"
-    desc: "Athletics: +33, Nature: +26, Stealth: +25 (+35 in forests), Survival: +30"
+    desc: "Athletics: +33, Nature: +26, Stealth: +25, Survival: +30"
 abilityMods: [9, 1, 6, 0, 6, 0]
 speed: 40 feet
 sourcebook: "_Pathfinder Kingmaker_"
@@ -72,6 +73,12 @@ attacks:
   - name: "Sunder Objects"
     desc: "  When a storm-struck arboreal damages an item or structure it deals an additional 3d12 damage to that item or structure."
  
+```
+
+```encounter-table
+name: Storm-Struck Arboreal
+creatures:
+  - 1: Storm-Struck Arboreal
 ```
 
 

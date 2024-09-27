@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.pfs-season-4-bestiary.Actor.zj9L3bvmhtnOilmf"
 tags:
   - pf2e/creature/type/arcane
   - pf2e/creature/type/mindless
+  - pf2eMonster
   - pf2e/creature/level/7
 statblock: inline
 name: "Depleted Roiling Incant"
@@ -21,15 +22,16 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Society Scenario #4-06: Signal from the Electric Laboratory"
 name: "Depleted Roiling Incant"
 level: "Creature 7"
-rare_03: "Rare"
+rare_03: [[Rare]]
 alignment: ""
 size: "Large"
-trait_01: "arcane"
-trait_02: "mindless"
+trait_01: [[arcane]]
+trait_02: [[mindless]]
 modifier: 12
 perception:
   - name: "Perception"
     desc: "+12; "
+languages: ""
 skills:
   - name: "Skills"
     desc: "Acrobatics: +16"
@@ -66,11 +68,17 @@ attacks:
     desc: "DC 25, attack +17; __3rd __  _[[Spells/Fireball|Fireball (At Will) (See Unstable Magic)]]_; __2nd __  _[[Spells/Floating Flame|Flaming Sphere (At Will) (See Unstable Magic)]]_\n__Cantrips__  __(4th)__ _[[Spells/Produce Flame|Produce Flame]]_"
 
   - name: "[[Bestiary Ability Glossary/Engulf|Engulf]]"
-    desc: "`pf2:2`  DC 25 Reflex check, 2d6 force damage plus 3d4 fire damage, [[Actions/Escape|Escape]] DC 25, Rupture 15\n"
+    desc: "`pf2:2`  DC 25 Reflex check, 2d6 force damage plus 3d4 fire damage, [[Actions/Escape|Escape]] DC 25, Rupture 15\n\n* * *\n"
 
   - name: "Unstable Magic"
-    desc: "  A roiling incant is as much a mass of unstable magic as it is a creature. Is isn't living or undead, nor is it even a construct. It can't be healed or [[Actions/Repair|Repaired]] and is destroyed at 0 Hit Points, though it naturally recovers a number of Hit Points equal to its level × its Constitution modifier (42 for most depleted roiling incants) each day.\nEach time a roiling incant casts one of its non-cantrip spells, it drains its own magic to do so, taking 5 force damage."
+    desc: "  A roiling incant is as much a mass of unstable magic as it is a creature. Is isn't living or undead, nor is it even a construct. It can't be healed or [[Actions/Repair|Repaired]] and is destroyed at 0 Hit Points, though it naturally recovers a number of Hit Points equal to its level × its Constitution modifier (42 for most depleted roiling incants) each day.\n\nEach time a roiling incant casts one of its non-cantrip spells, it drains its own magic to do so, taking 5 force damage."
  
+```
+
+```encounter-table
+name: Depleted Roiling Incant
+creatures:
+  - 1: Depleted Roiling Incant
 ```
 
 

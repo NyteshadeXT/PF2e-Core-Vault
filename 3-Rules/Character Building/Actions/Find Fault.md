@@ -10,7 +10,7 @@ license: OGL
 ---
 # Find Fault `pf2:r`
 
-### [[concentrate]]
+### [[3-Rules/Rule References/Concentrate]]
 
 
 

@@ -3,6 +3,7 @@ obsidianUIMode: preview
 title: "Medium Armor Expertise (Inventor)"
 cssclasses: pf2e,pf2e-spell
 tags:
+  - trait/inventor
   - trait/common
   - category/classfeature
 aliases: "Compendium.pf2e.classfeatures.Item.esyKPSDbFQPB4lhq"
@@ -10,7 +11,7 @@ license: OGL
 ---
 # Medium Armor Expertise (Inventor)
 ## Feat 11
-### 
+### [[inventor]]
 
 **Category** classfeature; 
 

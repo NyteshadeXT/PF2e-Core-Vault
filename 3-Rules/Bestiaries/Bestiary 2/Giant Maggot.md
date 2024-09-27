@@ -6,6 +6,7 @@ cssClasses: pf2e
 aliases: "Compendium.pf2e.pathfinder-bestiary-2.Actor.y9D2wh63pBzIyI7i" 
 tags:
   - pf2e/creature/type/animal
+  - pf2eMonster
   - pf2e/creature/level/0
 statblock: inline
 name: "Giant Maggot"
@@ -24,11 +25,12 @@ level: "Creature 0"
 
 alignment: ""
 size: "Medium"
-trait_01: "animal"
+trait_01: [[animal]]
 modifier: 3
 perception:
   - name: "Perception"
     desc: "+3; Tremorsense (Imprecise) 30 Feet"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Athletics: +4"
@@ -50,7 +52,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Regurgitation"
-    desc: "`pf2:r`  **Trigger** The giant maggot takes damage\n**Effect** The giant maggot regurgitates its rancid, foul meal. All creatures in a 5-foot emanation must succeed at a DC 16 Fortitude check save or become [[Conditions/Sickened 1|Sickened 1]] (or [[Conditions/Sickened 1|Sickened 2]] on a critical failure).\nThe giant maggot can't use Regurgitation again until it spends at least an hour feeding on a corpse."
+    desc: "`pf2:r`  **Trigger** The giant maggot takes damage\n* * *\n\n**Effect** The giant maggot regurgitates its rancid, foul meal. All creatures in a @Template[emanation|distance:5] must succeed at a DC 16 Fortitude check save or become [[Conditions/Sickened|Sickened 1]] (or [[Conditions/Sickened|Sickened 2]] on a critical failure).\n\nThe giant maggot can't use Regurgitation again until it spends at least an hour feeding on a corpse."
 
 attacks:
   - name: ""
@@ -59,11 +61,17 @@ attacks:
     desc: "`pf2:1` Mandibles +6 ()\n__Damage__  1d8 + 2 piercing plus grab"
 
   - name: "Gnaw Flesh"
-    desc: "`pf2:1`  **Requirements** The giant maggot has [[Conditions/Grabbed|Grabbed]] a creature\n**Effect** The giant maggot deals 1d8 + 2 slashing damage to the grabbed creature as it chews the creature's flesh (DC 19 Reflex check save)."
+    desc: "`pf2:1`  **Requirements** The giant maggot has [[Conditions/Grabbed|Grabbed]] a creature\n* * *\n\n**Effect** The giant maggot deals 1d8+2 slashing damage to the grabbed creature as it chews the creature's flesh (DC 19 Reflex check save)."
 
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
     desc: "`pf2:1`  "
  
+```
+
+```encounter-table
+name: Giant Maggot
+creatures:
+  - 1: Giant Maggot
 ```
 
 

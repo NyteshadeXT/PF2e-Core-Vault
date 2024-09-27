@@ -11,7 +11,7 @@ license: OGL
 ---
 # Call Gun `pf2:1`
 
-### [[magical]]
+### [[3-Rules/Rule References/Magical]]
 
 **Category** interaction; 
 

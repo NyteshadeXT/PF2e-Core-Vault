@@ -14,7 +14,7 @@ license: OGL
 ---
 # Chain Sword
 ## Item 0
-### [uncommon](uncommon "Uncommon Rarity Trait")[[finesse]][[reach]][[sweep]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[3-Rules/Rule References/Finesse]][[3-Rules/Rule References/Reach]][[sweep]]
 
 |  |  |
 | -- | -- |

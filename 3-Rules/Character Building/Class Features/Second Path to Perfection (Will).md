@@ -11,7 +11,7 @@ license: OGL
 ---
 # Second Path to Perfection (Will)
 ## Feat 11
-### [[monk]]
+### [[3-Rules/trait_reference/monk]]
 
 **Category** classfeature; 
 

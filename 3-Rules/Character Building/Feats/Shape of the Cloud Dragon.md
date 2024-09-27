@@ -30,7 +30,7 @@ While in this form, you gain the following cloud dragon-specific abilities:
     *   **Melee** `pf2:1` claw (agile), **Damage** 3d10 slashing;
     *   **Melee** `pf2:1` tail (reach 10 feet), **Damage** 3d10 bludgeoning;
     *   **Melee** `pf2:1` horn (reach 10 feet), **Damage** 3d8 piercing;
-    *   Breath Weapon 30-foot cone, 6d12 electricity.
+    *   Breath Weapon @Template\[cone|distance:30\], 6d12 electricity.
 
 * * *
 

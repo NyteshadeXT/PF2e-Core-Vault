@@ -13,7 +13,7 @@ license: OGL
 ---
 # Blindpepper Bomb
 ## Item 5
-### [uncommon](uncommon "Uncommon Rarity Trait")[[alchemical]][[consumable]][[visual]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[alchemical]][[consumable]][[visual]]
 
 **Category** other; 
 **Price** 40 gp; 
@@ -28,7 +28,7 @@ The bomb can be thrown up to 30 feet, causing it to explode, spraying the aeroso
 
 On a failed save, the creature is [[Conditions/Blinded|Blinded]] for 1 round and then [[Conditions/Dazzled|Dazzled]] for 1 round.
 
-On a critical failure, the creature is blinded for 1 round, [[Conditions/Sickened 1|Sickened 1]], and dazzled until it removes the sickened condition.
+On a critical failure, the creature is blinded for 1 round, [[Conditions/Sickened|Sickened 1]], and dazzled until it removes the sickened condition.
 
 *Source: Pathfinder #157: Devil at the Dreaming Palace*
 *OGL*

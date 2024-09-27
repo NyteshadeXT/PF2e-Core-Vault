@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.pathfinder-monster-core.Actor.9qlccWxGFcQmgL3h"
 tags:
   - pf2e/creature/type/amphibious
   - pf2e/creature/type/plant
+  - pf2eMonster
   - pf2e/creature/level/9
   - remaster
 statblock: inline
@@ -19,14 +20,15 @@ license: ORC
 columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
+token: [[modules/pf2e-tokens-monster-core/assets/portraits/sargassum-heap-doldrums-heap.webp| ]]
 source: "Pathfinder Monster Core"
 name: "Doldrums Heap"
 level: "Creature 9"
 
 alignment: ""
 size: "huge"
-trait_01: "amphibious"
-trait_02: "plant"
+trait_01: [[amphibious]]
+trait_02: [[plant]]
 modifier: 15
 perception:
   - name: "Perception"
@@ -62,14 +64,20 @@ attacks:
     desc: "`pf2:1` Tendrils +21 (reach 15 feet)\n__Damage__  2d12 + 10 bludgeoning plus grab"
 
   - name: "[[Bestiary Ability Glossary/Constrict|Constrict]]"
-    desc: "`pf2:1`  1d12 + 10 bludgeoning, DC 28 Fortitude check\n\n* * *\n"
+    desc: "`pf2:1`  1d12+10 bludgeoning, DC 28 Fortitude check\n\n* * *\n"
 
   - name: "Draw In"
-    desc: "`pf2:2`  The doldrums heap attempts to [[Actions/Reposition|Reposition]] up to three creatures it has [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]]. These attempts neither apply nor count toward the heap's multiple attack penalty.\n\nIt can move them into its own space, dealing 1d12 + 10 bludgeoning damage."
+    desc: "`pf2:2`  The doldrums heap attempts to [[Actions/Reposition|Reposition]] up to three creatures it has [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]]. These attempts neither apply nor count toward the heap's multiple attack penalty.\n\nIt can move them into its own space, dealing 1d12+10 bludgeoning damage."
 
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
     desc: "`pf2:1`  "
  
+```
+
+```encounter-table
+name: Doldrums Heap
+creatures:
+  - 1: Doldrums Heap
 ```
 
 

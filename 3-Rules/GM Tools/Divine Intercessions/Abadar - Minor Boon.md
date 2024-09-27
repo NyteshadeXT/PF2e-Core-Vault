@@ -17,7 +17,9 @@ license: OGL
 
 
 
-**Minor Boon (Single Use)** Abadar warns his favored against those who might unfairly take advantage. Once, when someone rolls a success on a Deception check to Lie maliciously to you and you alone, they get a critical failure instead.
+Abadar warns his favored against those who might unfairly take advantage.
+
+Once, when someone rolls a success on a Deception check to [[Actions/Lie|Lie]] maliciously to you and you alone, they get a critical failure instead.
 
 Abadar typically chooses to grant this boon in response to an extremely consequential lie.
 

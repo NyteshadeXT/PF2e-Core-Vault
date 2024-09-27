@@ -12,7 +12,7 @@ license: ORC
 ---
 # Versatile Legend
 ## Feat 19
-### [[fighter]]
+### [[3-Rules/trait_reference/fighter]]
 
 **Category** classfeature; 
 

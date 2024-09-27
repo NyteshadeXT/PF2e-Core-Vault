@@ -11,6 +11,7 @@ tags:
   - pf2e/creature/type/good
   - pf2e/creature/type/human
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/14
 statblock: inline
 name: "Jamandi Aldori"
@@ -25,15 +26,15 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Kingmaker"
 name: "Jamandi Aldori"
 level: "Creature 14"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Medium"
-trait_01: "aiuvarin"
-trait_02: "chaotic"
-trait_03: "elf"
-trait_04: "good"
-trait_05: "human"
-trait_06: "humanoid"
+trait_01: [[aiuvarin]]
+trait_02: [[chaotic]]
+trait_03: [[elf]]
+trait_04: [[good]]
+trait_05: [[human]]
+trait_06: [[humanoid]]
 modifier: 23
 perception:
   - name: "Perception"
@@ -41,7 +42,7 @@ perception:
 languages: "Common, Elven, Hallit"
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +29, Athletics: +27, Diplomacy: +24, Intimidation: +26, Restov Lore: +23, Society: +23"
+    desc: "Acrobatics: +29, Athletics: +27, Diplomacy: +24, Intimidation: +26, Society: +23, Restov Lore: +23"
 abilityMods: [3, 5, 2, 1, 3, 4]
 speed: 25 feet
 sourcebook: "_Pathfinder Kingmaker_"
@@ -70,17 +71,23 @@ attacks:
     desc: "`pf2:1` Aldori Dueling Sword +29 (finesse, magical, versatile p)\n__Damage__  2d8 + 9 slashing"
 
   - name: "Aldori Parry"
-    desc: "`pf2:1`  **Requirement** Jamandi wields only an Aldori dueling sword and her other hand is free\n**Effect** Jamandi parries attacks against her with her sword, and gains a +2 circumstance bonus to her AC until the start of her next turn as long as she continues to meet the requirement.\n[[Feat_Feature Effects/Effect_ Dueling Parry|Effect: Aldori Parry]]"
+    desc: "`pf2:1`  **Requirement** Jamandi wields only an Aldori dueling sword and her other hand is free\n\n**Effect** Jamandi parries attacks against her with her sword, and gains a +2 circumstance bonus to her AC until the start of her next turn as long as she continues to meet the requirement.\n\n[[Feat_Feature Effects/Effect_ Dueling Parry|Effect: Aldori Parry]]"
 
   - name: "Aldori Riposte"
-    desc: "`pf2:r`  **Requirements** Jamandi is benefiting from Aldori Parry\n**Trigger** An opponent within Jamandi's reach critically fails a Strike against her\n**Effect** Jamandi ripostes with her sword and makes a melee Strike or uses a [[Actions/Disarm|Disarm]] action against the triggering opponent."
+    desc: "`pf2:r`  **Requirements** Jamandi is benefiting from Aldori Parry\n\n**Trigger** An opponent within Jamandi's reach critically fails a Strike against her\n\n**Effect** Jamandi ripostes with her sword and makes a melee Strike or uses a [[Actions/Disarm|Disarm]] action against the triggering opponent."
 
   - name: "Saving Slash"
-    desc: "`pf2:r`  **Trigger** an opponent critically hits Jamandi with a melee attack\n**Effect** Jamandi whirls her blade, trying to deflect enough momentum to avoid the worst of the attack. If she succeeds at a DC 16 Flat check, the attack becomes a normal hit, instead of a critical hit."
+    desc: "`pf2:r`  **Trigger** an opponent critically hits Jamandi with a melee attack\n\n**Effect** Jamandi whirls her blade, trying to deflect enough momentum to avoid the worst of the attack. If she succeeds at a DC 16 Flat check, the attack becomes a normal hit, instead of a critical hit."
 
   - name: "Unnerving Prowess"
-    desc: "  **Trigger** Jamandi critically succeeds at a Strike or [[Actions/Disarm|Disarm]] with her sword\n**Effect** Jamandi attempts to [[Actions/Demoralize|Demoralize]] the creature she struck or disarmed; this Demoralize attempt does not have the auditory trait, nor does she take a penalty to the check if the target doesn't understand her language."
+    desc: "  **Trigger** Jamandi critically succeeds at a Strike or [[Actions/Disarm|Disarm]] with her sword\n\n**Effect** Jamandi attempts to [[Actions/Demoralize|Demoralize]] the creature she struck or disarmed; this Demoralize attempt does not have the auditory trait, nor does she take a penalty to the check if the target doesn't understand her language."
  
+```
+
+```encounter-table
+name: Jamandi Aldori
+creatures:
+  - 1: Jamandi Aldori
 ```
 
 

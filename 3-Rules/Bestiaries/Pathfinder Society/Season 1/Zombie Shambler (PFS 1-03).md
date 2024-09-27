@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/mindless
   - pf2e/creature/type/zombie
+  - pf2eMonster
   - pf2e/creature/level/-1
 statblock: inline
 name: "Zombie Shambler (PFS 1-03)"
@@ -22,16 +23,17 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Society Scenario #1-03: Escaping the Grave"
 name: "Zombie Shambler (PFS 1-03)"
 level: "Creature -1"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Large"
-trait_01: "evil"
-trait_02: "mindless"
-trait_03: "zombie"
+trait_01: [[evil]]
+trait_02: [[mindless]]
+trait_03: [[zombie]]
 modifier: 0
 perception:
   - name: "Perception"
     desc: "+0; Darkvision"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Athletics: +5"
@@ -51,7 +53,7 @@ abilities_top:
   - name: ""
 
   - name: "Slow"
-    desc: "  A zombie is permanently [[Conditions/Slowed 1|Slowed 1]] and can't use reactions."
+    desc: "  A zombie is permanently [[Conditions/Slowed|Slowed 1]] and can't use reactions."
 
 abilities_mid:
   - name: ""
@@ -67,6 +69,12 @@ attacks:
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
     desc: "`pf2:1`  "
  
+```
+
+```encounter-table
+name: Zombie Shambler (PFS 1-03)
+creatures:
+  - 1: Zombie Shambler (PFS 1-03)
 ```
 
 

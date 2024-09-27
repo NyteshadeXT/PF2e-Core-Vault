@@ -5,8 +5,9 @@ cssclasses: pf2e,pf2e-action
 tags:
   - trait/precious
   - trait/uncommon
+  - remaster
 aliases: "Compendium.pf2e.equipment-srd.Item.7XJQmpYWRZRRutc4"
-license: OGL
+license: ORC
 ---
 # Peachwood Branch
 
@@ -37,5 +38,5 @@ Peachwood, often cultivated by Pharasmin priests, can ward against undead—even
 | Standard-grade | 12 | 48 | 24 |
 | High-grade | 18 | 64 | 32 |
 
-*Source: Pathfinder Book of the Dead*
-*OGL*
+*Source: Pathfinder Lost Omens: Tian Xia Character Guide*
+*ORC*

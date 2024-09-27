@@ -5,6 +5,7 @@ noteType: pf2eHazard
 tags:
   - mechanical
   - trap
+  - pf2eHazard
 
 source: Pathfinder Dark Archive
 aliases: "Compendium.pf2e.pathfinder-dark-archive.Actor.3RL07afKtflSq5Ff" 
@@ -22,14 +23,14 @@ name: "Entrapping Chair"
 level: "Hazard 5"
 
 
-trait_01: "mechanical"
-trait_02: "trap"
+trait_01: [[mechanical]]
+trait_02: [[trap]]
 modifier: 16
 sourcebook: "_Pathfinder Dark Archive_"
 ac: 22
 armorclass:
   - name: AC
-    desc: "22; __Fort__ +15, __Ref__ +9, __Will__ +0"
+    desc: "22; __Fort__ +15, __Ref__ +9, "
 hp: 54
 health:
   - name: ""
@@ -51,10 +52,16 @@ attacks:
   - name: ""
 
   - name: "Take a Seat!"
-    desc: "`pf2:r` **Trigger** A creature steps on the track\n**Effect** The chair rockets forward along the track and slams into the triggering creature, dealing 3d8 + 15 bludgeoning damage. A creature who succeeds at a DC 22 Reflex check save takes no damage and moves out of the chair's path into a random adjacent square not containing the track. A creature who fails this saving throw is knocked into the chair's seat and immediately captured by the armrests, becoming [[Conditions/Grabbed|Grabbed]] ([[Conditions/Restrained|Restrained]] on a critical failure; Escape DC 26)."
+    desc: "`pf2:r` **Trigger** A creature steps on the track\n* * *\n\n**Effect** The chair rockets forward along the track and slams into the triggering creature, dealing 3d8 + 15 bludgeoning damage. A creature who succeeds at a DC 22 Reflex check save takes no damage and moves out of the chair's path into a random adjacent square not containing the track. A creature who fails this saving throw is knocked into the chair's seat and immediately captured by the armrests, becoming [[Conditions/Grabbed|Grabbed]] ([[Conditions/Restrained|Restrained]] on a critical failure; Escape DC 26)."
 
 
   - name: "Reset"
     desc: "The trap resets automatically over 2 rounds if the chair is unoccupied."
+```
+
+```encounter-table
+name: Entrapping Chair
+creatures:
+  - 1: Entrapping Chair
 ```
 

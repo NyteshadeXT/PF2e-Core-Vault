@@ -8,8 +8,9 @@ tags:
   - trait/rage
   - trait/common
   - category/class
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.aFUxNGur3Hma8DKy"
-license: OGL
+license: ORC
 ---
 # Predator's Pounce `pf2:1`
 ## Feat 12
@@ -27,5 +28,5 @@ license: OGL
 
 You close the distance to your prey in a blur, pouncing on the creature before it can react. You Stride up to your Speed and make a Strike at the end of your movement.
 
-*Source: Pathfinder Core Rulebook*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

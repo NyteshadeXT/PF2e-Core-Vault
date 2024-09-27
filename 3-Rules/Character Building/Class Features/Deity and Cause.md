@@ -11,7 +11,7 @@ license: OGL
 ---
 # Deity and Cause
 ## Feat 1
-### [[champion]]
+### [[3-Rules/trait_reference/champion]]
 
 **Category** classfeature; 
 

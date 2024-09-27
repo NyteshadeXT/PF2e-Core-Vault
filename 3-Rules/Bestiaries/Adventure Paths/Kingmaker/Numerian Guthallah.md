@@ -6,6 +6,7 @@ cssClasses: pf2e
 aliases: "Compendium.pf2e.kingmaker-bestiary.Actor.UqUj1IF3vCFuXYqb" 
 tags:
   - pf2e/creature/type/construct
+  - pf2eMonster
   - pf2e/creature/level/19
 statblock: inline
 name: "Numerian Guthallah"
@@ -20,14 +21,15 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Kingmaker"
 name: "Numerian Guthallah"
 level: "Creature 19"
-rare_03: "Rare"
+rare_03: [[Rare]]
 alignment: ""
 size: "grg"
-trait_01: "construct"
+trait_01: [[construct]]
 modifier: 30
 perception:
   - name: "Perception"
     desc: "+30; Darkvision, Truesight"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Acrobatics: +25, Athletics: +40"
@@ -55,7 +57,7 @@ abilities_mid:
     desc: "  The guthallath is immune to spells of lower than 7th level and the activated effects of magic items of lower than 14th level."
 
   - name: "[[Actor.EDvtDTTr5sHo09ge.Item.u2ynhGDz9eUf51vb|Numerian Construct]]"
-    desc: "  Any encounters with adamantine golems, guthallaths, or radiant wardens in Numeria are with ancient robotic versions of these creatures. In encounters with them, describe them as having more technological aspects. The guthallath's erosion aura could be caused by clouds of deconstructor nanites and its annihilation beams manifest as plasma blasts. The adamantine golem might have tank treads instead of legs and its vent ability might manifest as a spray of dozens of laser beams in a cone. And the radiant warden's radiant beams and blast serve as rippling attacks of focused graviton beams.\nAll of these constructs have weakness 15 to critical hits and electricity, but their other statistics do not change. If you'd rather not introduce Numeria's themes of super-science and strange technology, you can either present these constructs as standard versions, or re-roll your encounter to get a more appropriate result for your game."
+    desc: "  Any encounters with adamantine golems, guthallaths, or radiant wardens in Numeria are with ancient robotic versions of these creatures. In encounters with them, describe them as having more technological aspects. The guthallath's erosion aura could be caused by clouds of deconstructor nanites and its annihilation beams manifest as plasma blasts. The adamantine golem might have tank treads instead of legs and its vent ability might manifest as a spray of dozens of laser beams in a cone. And the radiant warden's radiant beams and blast serve as rippling attacks of focused graviton beams.\n\nAll of these constructs have weakness 15 to critical hits and electricity, but their other statistics do not change. If you'd rather not introduce Numeria's themes of super-science and strange technology, you can either present these constructs as standard versions, or re-roll your encounter to get a more appropriate result for your game."
 
 attacks:
   - name: ""
@@ -70,17 +72,23 @@ attacks:
     desc: "DC 37, attack +29\n__Constant__  __(8th)__ _[[Spells/Truesight|True Seeing]]_ __(3rd)__ _[[Spells/Haste|Haste]]_"
 
   - name: "Annihilation Beams"
-    desc: "`pf2:2`  A guthallath releases two beams of destruction from its eyes. Each beam is a 120-foot line. Everything in either line takes the effect of a hit from a 10th-rank [[Spells/Disintegrate|Disintegrate]] spell (DC 41 Fortitude check). There is no additional effect on creatures in any area where the beams overlap.\nThe guthallath can't use this ability again for 1d4 rounds."
+    desc: "`pf2:2`  A guthallath releases two beams of destruction from its eyes. Each beam is a @Template[line|distance:120]. Everything in either line takes the effect of a hit from a 10th-rank [[Spells/Disintegrate|Disintegrate]] spell (DC 41 Fortitude check). There is no additional effect on creatures in any area where the beams overlap.\n\nThe guthallath can't use this ability again for 1d4 rounds."
 
   - name: "Deadly Throw"
-    desc: "`pf2:1`  **Requirements** The guthallath has a creature [[Conditions/Grabbed|Grabbed]].\n**Effect** The guthallath throws the creature into the air, 100 feet high and 50 feet away. If the flung creature lands on another creature, the creature it lands on takes the same amount of bludgeoning damage. The creature being landed on can attempt a DC 41 Reflex check save."
+    desc: "`pf2:1`  **Requirements** The guthallath has a creature [[Conditions/Grabbed|Grabbed]].\n* * *\n\n**Effect** The guthallath throws the creature into the air, 100 feet high and 50 feet away. If the flung creature lands on another creature, the creature it lands on takes the same amount of bludgeoning damage. The creature being landed on can attempt a DC 41 Reflex check save."
 
   - name: "Powerful Blows"
     desc: "  If a guthallath hits with an attack and rolls a natural 19 on the d20 roll, the attack is a critical hit. This has no effect if the 19 would be a failure."
 
   - name: "[[Bestiary Ability Glossary/Trample|Trample]]"
-    desc: "`pf2:3`  Huge or smaller, foot, DC 45 Reflex check\n"
+    desc: "`pf2:3`  Huge or smaller, foot, DC 45 Reflex check\n\n* * *\n"
  
+```
+
+```encounter-table
+name: Numerian Guthallah
+creatures:
+  - 1: Numerian Guthallah
 ```
 
 

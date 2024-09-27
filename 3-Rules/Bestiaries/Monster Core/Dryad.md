@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/nymph
   - pf2e/creature/type/plant
   - pf2e/creature/type/wood
+  - pf2eMonster
   - pf2e/creature/level/3
   - remaster
 statblock: inline
@@ -28,10 +29,10 @@ level: "Creature 3"
 
 alignment: ""
 size: "Medium"
-trait_01: "fey"
-trait_02: "nymph"
-trait_03: "plant"
-trait_04: "wood"
+trait_01: [[fey]]
+trait_02: [[nymph]]
+trait_03: [[plant]]
+trait_04: [[wood]]
 modifier: 10
 perception:
   - name: "Perception"
@@ -39,7 +40,7 @@ perception:
 languages: "Common, Elven, Fey, Muan"
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +9, Athletics: +5, Crafting: +7 (+9 woodworking), Diplomacy: +9, Nature: +13, Stealth: +9, Survival: +12"
+    desc: "Acrobatics: +9, Athletics: +5, Crafting: +7, Diplomacy: +9, Nature: +13, Stealth: +9, Survival: +12"
 abilityMods: [0, 4, 1, 2, 3, 4]
 speed: 25 feet
 sourcebook: "_Pathfinder Monster Core_"
@@ -75,6 +76,12 @@ attacks:
   - name: "Tree Meld"
     desc: "`pf2:2`  A [[Spells/One with Plants|One with Plants]] spell cast by a dryad has an unlimited duration.\n\nIn addition, if the dryad merges with her bonded tree, she can choose to instead enter an extradimensional living space within the tree, and can bring up to two adjacent, willing creatures with her; the spell gains the extradimensional trait. The dryad can still be expelled from this space."
  
+```
+
+```encounter-table
+name: Dryad
+creatures:
+  - 1: Dryad
 ```
 
 

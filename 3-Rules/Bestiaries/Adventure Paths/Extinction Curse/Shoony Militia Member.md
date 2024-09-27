@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/humanoid
   - pf2e/creature/type/lawful
   - pf2e/creature/type/shoony
+  - pf2eMonster
   - pf2e/creature/level/2
 statblock: inline
 name: "Shoony Militia Member"
@@ -23,13 +24,13 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #153: Life&#x27;s Long Shadows"
 name: "Shoony Militia Member"
 level: "Creature 2"
-rare_03: "Rare"
+rare_03: [[Rare]]
 alignment: ""
 size: "Small"
-trait_01: "good"
-trait_02: "humanoid"
-trait_03: "lawful"
-trait_04: "shoony"
+trait_01: [[good]]
+trait_02: [[humanoid]]
+trait_03: [[lawful]]
+trait_04: [[shoony]]
 modifier: 8
 perception:
   - name: "Perception"
@@ -37,7 +38,7 @@ perception:
 languages: "Common, Shoony"
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +8 (+9 to Tumble Through spaces of Medium or larger creatures), Athletics: +10, Crafting: +4, Society: +6, Survival: +6"
+    desc: "Acrobatics: +8, Athletics: +10, Crafting: +4, Society: +6, Survival: +6"
 abilityMods: [4, 2, 1, 0, 2, 1]
 speed: 20 feet
 sourcebook: "_Pathfinder #153: Life&#x27;s Long Shadows_"
@@ -68,6 +69,12 @@ attacks:
   - name: "Ranged"
     desc: "`pf2:1` Javelin +10 (range increment 30 feet, thrown)\n__Damage__  1d6 + 4 piercing"
  
+```
+
+```encounter-table
+name: Shoony Militia Member
+creatures:
+  - 1: Shoony Militia Member
 ```
 
 

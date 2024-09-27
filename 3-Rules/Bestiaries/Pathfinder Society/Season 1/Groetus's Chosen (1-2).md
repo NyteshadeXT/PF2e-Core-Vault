@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/human
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/-1
 statblock: inline
 name: "Groetus&#x27;s Chosen (1-2)"
@@ -26,10 +27,10 @@ level: "Creature -1"
 
 alignment: ""
 size: "Medium"
-trait_01: "chaotic"
-trait_02: "evil"
-trait_03: "human"
-trait_04: "humanoid"
+trait_01: [[chaotic]]
+trait_02: [[evil]]
+trait_03: [[human]]
+trait_04: [[humanoid]]
 modifier: 2
 perception:
   - name: "Perception"
@@ -37,7 +38,7 @@ perception:
 languages: "Common"
 skills:
   - name: "Skills"
-    desc: "Deception: +1, Groetus Lore: +6, Intimidation: +1, Occultism: +1, Society: +2, Stealth: +4"
+    desc: "Deception: +1, Intimidation: +1, Occultism: +1, Society: +2, Stealth: +4, Groetus Lore: +6"
 abilityMods: [2, 3, 2, 1, -1, 0]
 speed: 25 feet
 sourcebook: "_Pathfinder Society Scenario #1-22: Doom of Cassomir_"
@@ -66,8 +67,14 @@ attacks:
     desc: "`pf2:1` Dagger +5 (agile, thrown 10 ft., versatile s)\n__Damage__  1d4 + 2 piercing"
 
   - name: "Fanatical Frenzy"
-    desc: "`pf2:1`  **Requirements** The cultist has taken damage and is neither fatigued nor already in a frenzy\n**Effect** The cultist flies into a frenzy that lasts 1 minute.\nWhile frenzied, the cultist gains a +1 status bonus to attack rolls and a +2 status bonus to damage rolls, and they take a -2 status penalty to AC. The cultist can't voluntarily stop their frenzy. After their frenzy, the cultist is [[Conditions/Fatigued|Fatigued]].\n[[Bestiary Effects/Effect_ Fanatical Frenzy|Effect: Fanatical Frenzy]]"
+    desc: "`pf2:1`  **Requirements** The cultist has taken damage and is neither fatigued nor already in a frenzy\n* * *\n\n**Effect** The cultist flies into a frenzy that lasts 1 minute.\n\nWhile frenzied, the cultist gains a +1 status bonus to attack rolls and a +2 status bonus to damage rolls, and they take a -2 status penalty to AC. The cultist can't voluntarily stop their frenzy. After their frenzy, the cultist is [[Conditions/Fatigued|Fatigued]].\n\n[[Bestiary Effects/Effect_ Fanatical Frenzy|Effect: Fanatical Frenzy]]"
  
+```
+
+```encounter-table
+name: Groetus's Chosen (1-2)
+creatures:
+  - 1: Groetus's Chosen (1-2)
 ```
 
 

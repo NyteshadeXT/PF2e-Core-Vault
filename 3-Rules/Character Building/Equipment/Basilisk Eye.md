@@ -15,7 +15,7 @@ license: ORC
 ---
 # Basilisk Eye
 ## Item 9
-### [[consumable]][[magical]][[talisman]][[visual]]
+### [[consumable]][[3-Rules/Rule References/Magical]][[talisman]][[visual]]
 
 **Category** talisman; 
 **Price** 150 gp; 
@@ -24,11 +24,11 @@ license: ORC
 
 **Activate** `pf2:0` (concentrate)
 
-**Trigger** You [[Feats/Shield Block|Shield Block]] a melee attack with the affixed shield.
+**Trigger** You [[Feats/Shield Block|Shield Block]] a melee attack with the affixed shield
 
 * * *
 
-This slimy green stone glows with a strong light whenever the shield it adorns blocks a melee attack. When the eye is activated, the attacker must succeed at a DC 25 Fortitude check save or become [[Conditions/Slowed 1|Slowed 1]] for 1 minute as its body slowly stiffens in partial petrification.
+This slimy green stone glows with a strong light whenever the shield it adorns blocks a melee attack. When the eye is activated, the attacker must succeed at a DC 25 Fortitude check save or become [[Conditions/Slowed|Slowed 1]] for 1 minute as its body slowly stiffens in partial petrification.
 
 *Source: Pathfinder GM Core*
 *ORC*

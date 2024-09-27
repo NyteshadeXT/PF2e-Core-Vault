@@ -6,6 +6,7 @@ cssClasses: pf2e
 aliases: "Compendium.pf2e.fall-of-plaguestone-bestiary.Actor.wBCpq9pX4NZFXE0T" 
 tags:
   - pf2e/creature/type/plant
+  - pf2eMonster
   - pf2e/creature/level/0
 statblock: inline
 name: "Vine Lasher"
@@ -23,11 +24,12 @@ level: "Creature 0"
 
 alignment: ""
 size: "Small"
-trait_01: "plant"
+trait_01: [[plant]]
 modifier: 4
 perception:
   - name: "Perception"
     desc: "+4; Tremorsense (Imprecise) 30 Feet"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Athletics: +6, Stealth: +5"
@@ -55,11 +57,17 @@ attacks:
     desc: "`pf2:1` Vine +7 (agile, finesse, reach 10 feet)\n__Damage__  1d8 + 2 bludgeoning"
 
   - name: "Light Hold"
-    desc: "  A creature [[Conditions/Grabbed|Grabbed]] by a vine lasher is not immobilized, but the grabbed creature's space and every adjacent square use the rules for difficult terrain. If the creature moves, the vine lasher moves with it, always keeping the grabbed creature within 10 feet of itself.\nIf two or more vine lashers have a creature grabbed in this way, then the target's space and adjacent square instead use the rules for greater difficult terrain."
+    desc: "  A creature [[Conditions/Grabbed|Grabbed]] by a vine lasher is not immobilized, but the grabbed creature's space and every adjacent square use the rules for difficult terrain. If the creature moves, the vine lasher moves with it, always keeping the grabbed creature within 10 feet of itself.\n\nIf two or more vine lashers have a creature grabbed in this way, then the target's space and adjacent square instead use the rules for greater difficult terrain."
 
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
     desc: "`pf2:1`  "
  
+```
+
+```encounter-table
+name: Vine Lasher
+creatures:
+  - 1: Vine Lasher
 ```
 
 

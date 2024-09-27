@@ -42,7 +42,7 @@ Working together, Lumna and the crystal key form an intelligent magic item. This
 
 **Activate** `pf2:1` command (mental); **Cost** 1 charge
 
-**Effect** Lumna floods the brain of a creature within 30 feet with painful telepathic images, inflicting 3d8 mental damage with a DC 24 Will check (4d8 mental damage, DC 27 Will check for Levels 9-10). The key can spend an additional action and 1 more charge to double the amount of damage or change the area to a 15-foot cone, but then can't use this activation again for 1d4 rounds.
+**Effect** Lumna floods the brain of a creature within 30 feet with painful telepathic images, inflicting 3d8 mental damage with a DC 24 Will check (4d8 mental damage, DC 27 Will check for Levels 9-10). The key can spend an additional action and 1 more charge to double the amount of damage or change the area to a @Template\[cone|distance:15\], but then can't use this activation again for 1d4 rounds.
 
 * * *
 

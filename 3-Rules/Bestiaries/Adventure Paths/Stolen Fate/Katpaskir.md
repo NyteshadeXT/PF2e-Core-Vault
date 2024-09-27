@@ -10,6 +10,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/fiend
   - pf2e/creature/type/unholy
+  - pf2eMonster
   - pf2e/creature/level/18
 statblock: inline
 name: "Katpaskir"
@@ -24,19 +25,19 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #191: The Destiny War"
 name: "Katpaskir"
 level: "Creature 18"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Medium"
-trait_01: "chaotic"
-trait_02: "demon"
-trait_03: "evil"
-trait_04: "fiend"
-trait_05: "unholy"
+trait_01: [[chaotic]]
+trait_02: [[demon]]
+trait_03: [[evil]]
+trait_04: [[fiend]]
+trait_05: [[unholy]]
 modifier: 31
 perception:
   - name: "Perception"
     desc: "+31; Darkvision, See the Unseen"
-languages: "Aklo, Chthonian, Common, Draconic, Empyrean"
+languages: "Aklo, Chthonian, Common, Draconic, Empyrean; telepathy 100 feet"
 skills:
   - name: "Skills"
     desc: "Acrobatics: +31, Arcana: +35, Deception: +31, Occultism: +33, Religion: +32, Stealth: +31, Thievery: +31"
@@ -58,13 +59,13 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Breach Planar Wards"
-    desc: "`pf2:0`  **Trigger** An effect (save only for those of items with the artifact trait) attempts to prevent the katpaskir from using a teleportation effect or from casting [[Spells/Summon Fiend|Summon Fiend]]\n**Effect** The katpaskir attempts to counteract the triggering effect (counteract modifier of +29)."
+    desc: "`pf2:0`  **Trigger** An effect (save only for those of items with the artifact trait) attempts to prevent the katpaskir from using a teleportation effect or from casting [[Spells/Summon Fiend|Summon Fiend]]\n* * *\n\n**Effect** The katpaskir attempts to counteract the triggering effect (counteract modifier of +29)."
 
   - name: "Distortion Field"
     desc: " (aura) 30 feet. Reality bends and warps on the level of all senses without displacing the katpaskir's actual location. Creatures of the katpaskir's choice who start their turn in the aura must succeed at a DC 37 Will check save or treat the area as greater difficult terrain and uneven ground (DC 20). A creature who succeeds still treats the area as difficult terrain. For such creatures, the distance through the aura is doubled for determining range penalty."
 
   - name: "Mirrored Summons"
-    desc: "`pf2:r`  **Trigger** A creature within 30 feet that the katpaskir is aware of uses magic to summon or otherwise conjure a good-aligned creature\n**Effect** The katpaskir casts [[Spells/Summon Fiend|Summon Fiend]], regaining the daily ability to do so if needed. This effect is automatically sustained as long as the triggering summoning is sustained, for up to 1 minute."
+    desc: "`pf2:r`  **Trigger** A creature within 30 feet that the katpaskir is aware of uses magic to summon or otherwise conjure a good-aligned creature\n* * *\n\n**Effect** The katpaskir casts [[Spells/Summon Fiend|Summon Fiend]], regaining the daily ability to do so if needed. This effect is automatically sustained as long as the triggering summoning is sustained, for up to 1 minute."
 
   - name: "Warp Sense"
     desc: "  The katpaskir senses changes in the planar fabric within 1 mile, including any teleportation effect, sensing the direction and distance to the disturbance. If it senses such a disturbance within 500 feet, the katpaskir can cast [[Spells/Scouting Eye|Scouting Eye]] to observe the area without needing line of sight to the location."
@@ -87,6 +88,12 @@ attacks:
   - name: "Dimensional Ambush"
     desc: "`pf2:2` (divine,teleportation) The katpaskir casts [[Spells/Translocate|Translocate]], then makes a melee Strike that deals three extra dice of damage. This Strike counts as two attacks when calculating the katpaskir's multiple attack penalty."
  
+```
+
+```encounter-table
+name: Katpaskir
+creatures:
+  - 1: Katpaskir
 ```
 
 

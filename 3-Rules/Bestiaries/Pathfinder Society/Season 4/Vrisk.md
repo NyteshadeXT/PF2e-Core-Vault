@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/construct
   - pf2e/creature/type/golem
   - pf2e/creature/type/good
+  - pf2eMonster
   - pf2e/creature/level/3
 statblock: inline
 name: "Vrisk"
@@ -22,12 +23,12 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Society Scenario #4-05: The Arclord who Never Was"
 name: "Vrisk"
 level: "Creature 3"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Medium"
-trait_01: "construct"
-trait_02: "golem"
-trait_03: "good"
+trait_01: [[construct]]
+trait_02: [[golem]]
+trait_03: [[good]]
 modifier: 9
 perception:
   - name: "Perception"
@@ -35,7 +36,7 @@ perception:
 languages: "Common, Empyrean, Requian"
 skills:
   - name: "Skills"
-    desc: "Arcana: +9, Athletics: +7, Golem Lore: +10, Medicine: +7, Religion: +9"
+    desc: "Arcana: +9, Athletics: +7, Medicine: +7, Religion: +9, Golem Lore: +10"
 abilityMods: [4, 1, 1, 3, 3, -2]
 speed: 20 feet
 sourcebook: "_Pathfinder Society Scenario #4-05: The Arclord who Never Was_"
@@ -58,7 +59,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "[[Creature Family Ability Glossary/(Golem) Golem Antimagic|Golem Antimagic]]"
-    desc: "  harmed by void (3d8 damage, 2d8 damage from areas or persistent damage); healed by vitality (area 2d6 Hit Points); slowed by emotion\nA golem is immune to spells and magical abilities other than its own, but each type of golem is affected by a few types of magic in special ways. These exceptions are listed in shortened form in the golem's stat block, with the full rules appearing here. If an entry lists multiple types (such as \"cold and water\"), either type of spell can affect the golem.\n*   **Harmed By** Any magic of this type that targets the golem causes it to take the listed amount of damage (this damage has no type) instead of the usual effect. If the golem starts its turn in an area of magic of this type or is affected by a persistent effect of the appropriate type, it takes the damage listed in the parenthetical.\n*   **Healed By** Any magic of this type that targets the golem makes the golem lose the slowed condition and gain HP equal to half the damage the spell would have dealt. If the golem starts its turn in an area of this type of magic, it gains the HP listed in the parenthetical.\n*   **Slowed By** Any magic of this type that targets the golem causes it to be [[Conditions/Slowed 1|Slowed 1]] for 2d6 rounds instead of the usual effect. If the golem starts its turn in an area of this type of magic, it's slowed 1 for that round.\n*   **Vulnerable To** Each golem is vulnerable to one or more specific spells, with the effects described in its stat block."
+    desc: "  harmed by void (3d8 damage, 2d8 damage from areas or persistent damage); healed by vitality (area 2d6 Hit Points); slowed by emotion\n* * *\n\nA golem is immune to spells and magical abilities other than its own, but each type of golem is affected by a few types of magic in special ways. These exceptions are listed in shortened form in the golem's stat block, with the full rules appearing here. If an entry lists multiple types (such as \"cold and water\"), either type of spell can affect the golem.\n\n*   **Harmed By** Any magic of this type that targets the golem causes it to take the listed amount of damage (this damage has no type) instead of the usual effect. If the golem starts its turn in an area of magic of this type or is affected by a persistent effect of the appropriate type, it takes the damage listed in the parenthetical.\n*   **Healed By** Any magic of this type that targets the golem makes the golem lose the slowed condition and gain HP equal to half the damage the spell would have dealt. If the golem starts its turn in an area of this type of magic, it gains the HP listed in the parenthetical.\n*   **Slowed By** Any magic of this type that targets the golem causes it to be [[Conditions/Slowed|Slowed 1]] for 2d6 rounds instead of the usual effect. If the golem starts its turn in an area of this type of magic, it's slowed 1 for that round.\n*   **Vulnerable To** Each golem is vulnerable to one or more specific spells, with the effects described in its stat block."
 
   - name: "Vulnerable to Daze"
     desc: "  Vrisk is affected by the [[Spells/Daze|Daze]] spell as if he was a living creature"
@@ -81,6 +82,12 @@ attacks:
   - name: "Arcane School Spells"
     desc: "1 Focus Point, DC 20, attack +12; __2nd __  _[[Spells/Protective Wards|Protective Ward]]_"
  
+```
+
+```encounter-table
+name: Vrisk
+creatures:
+  - 1: Vrisk
 ```
 
 

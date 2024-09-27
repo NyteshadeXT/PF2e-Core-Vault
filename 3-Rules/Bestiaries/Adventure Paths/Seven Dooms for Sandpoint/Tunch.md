@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/goblin
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/5
 statblock: inline
 name: "Tunch"
@@ -23,13 +24,13 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #200: Seven Dooms for Sandpoint"
 name: "Tunch"
 level: "Creature 5"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Small"
-trait_01: "chaotic"
-trait_02: "evil"
-trait_03: "goblin"
-trait_04: "humanoid"
+trait_01: [[chaotic]]
+trait_02: [[evil]]
+trait_03: [[goblin]]
+trait_04: [[humanoid]]
 modifier: 10
 perception:
   - name: "Perception"
@@ -60,7 +61,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "[[Actor.iaddEHUH7gLx2WNr.Item.czwGWW73rkPW7vBg|Goblin Scuttle]]"
-    desc: "`pf2:r`  **Trigger** A goblin ally ends a move action adjacent to the goblin.\n**Effect** The goblin [[Actions/Step|Steps]]."
+    desc: "`pf2:r`  **Trigger** A goblin ally ends a move action adjacent to the goblin.\n* * *\n\n**Effect** The goblin [[Actions/Step|Steps]]."
 
 attacks:
   - name: ""
@@ -75,11 +76,17 @@ attacks:
     desc: "  When Tunch throws a bomb with the splash trait, it deals splash damage equal to his Intelligence modifier."
 
   - name: "Distracting Whistle"
-    desc: "`pf2:1` (arcane,auditory) **Frequency** once per round\n**Effect** Tunch whistles in a way that causes the sound to manifest elsewhere, potentially distracting a foe. One target of Tunch's choice that he can see within 30 feet must attempt a DC 22 Will check save or become [[Conditions/Off-Guard|Off-Guard]] until the start of Tunch's next turn by the distracting whistling sound that seems to come from behind them. The target is then temporarily immune to Distracting Whistle for 1 hour."
+    desc: "`pf2:1` (arcane,auditory) **Frequency** once per round\n* * *\n\n**Effect** Tunch whistles in a way that causes the sound to manifest elsewhere, potentially distracting a foe. One target of Tunch's choice that he can see within 30 feet must attempt a DC 22 Will check save or become [[Conditions/Off-Guard|Off-Guard]] until the start of Tunch's next turn by the distracting whistling sound that seems to come from behind them. The target is then temporarily immune to Distracting Whistle for 1 hour."
 
   - name: "Quick Bomber"
     desc: "`pf2:1`  Tunch Interacts to draw a bomb, then Strikes with it."
  
+```
+
+```encounter-table
+name: Tunch
+creatures:
+  - 1: Tunch
 ```
 
 

@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.abomination-vaults-bestiary.Actor.BJYrYqkV7PkXgSfk"
 tags:
   - pf2e/creature/type/aberration
   - pf2e/creature/type/chaotic
+  - pf2eMonster
   - pf2e/creature/level/5
 statblock: inline
 name: "Gibtas Bounder"
@@ -21,19 +22,19 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #164: Hands of the Devil"
 name: "Gibtas Bounder"
 level: "Creature 5"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Small"
-trait_01: "aberration"
-trait_02: "chaotic"
+trait_01: [[aberration]]
+trait_02: [[chaotic]]
 modifier: 13
 perception:
   - name: "Perception"
     desc: "+13; Darkvision, Scent (Imprecise) 30 Feet"
-languages: "Aklo"
+languages: "Aklo; (can&#x27;t speak any language)"
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +11, Athletics: +12 (+16 to High Jump or Long Jump), Intimidation: +11, Survival: +11"
+    desc: "Acrobatics: +11, Athletics: +12, Intimidation: +11, Survival: +11"
 abilityMods: [5, 4, 2, -3, 2, 2]
 speed: 30 feet
 sourcebook: "_Pathfinder #164: Hands of the Devil_"
@@ -64,8 +65,14 @@ attacks:
     desc: "`pf2:1`  The gibtas Leaps toward a Medium or smaller creature, landing in the creature's space and [[Actions/Shove|Shoving]] the creature. If the Shove fails, the gibtas bounces out of the target's square to an adjacent square of the target's choosing."
 
   - name: "Pinning Chomp"
-    desc: "`pf2:1`  **Requirements** The gibtas's last action was a Bouncing Slam and the gibtas successfully Shoved the target\n**Effect** The gibtas attempts to [[Actions/Trip|Trip]] the target of its Bouncing Slam, then makes a jaws Strike against the target. The Trip and Strike both count against the gibtas's multiple attack penalty, but the penalty doesn't increase until after both attacks."
+    desc: "`pf2:1`  **Requirements** The gibtas's last action was a Bouncing Slam and the gibtas successfully Shoved the target\n* * *\n\n**Effect** The gibtas attempts to [[Actions/Trip|Trip]] the target of its Bouncing Slam, then makes a jaws Strike against the target. The Trip and Strike both count against the gibtas's multiple attack penalty, but the penalty doesn't increase until after both attacks."
  
+```
+
+```encounter-table
+name: Gibtas Bounder
+creatures:
+  - 1: Gibtas Bounder
 ```
 
 

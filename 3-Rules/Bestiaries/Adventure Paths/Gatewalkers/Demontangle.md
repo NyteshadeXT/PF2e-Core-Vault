@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/chaotic
   - pf2e/creature/type/evil
   - pf2e/creature/type/unholy
+  - pf2eMonster
   - pf2e/creature/level/5
 statblock: inline
 name: "Demontangle"
@@ -26,10 +27,10 @@ level: "Creature 5"
 
 alignment: ""
 size: "Medium"
-trait_01: "aberration"
-trait_02: "chaotic"
-trait_03: "evil"
-trait_04: "unholy"
+trait_01: [[aberration]]
+trait_02: [[chaotic]]
+trait_03: [[evil]]
+trait_04: [[unholy]]
 modifier: 15
 perception:
   - name: "Perception"
@@ -59,7 +60,7 @@ abilities_mid:
     desc: " (auditory,aura,emotion,incapacitation,mental,occult) 60 feet. Each creature that begins its turn within 60 feet of a gibbering mouther must attempt a DC 19 Will check save. On a failure, they are [[Conditions/Confused|Confused]] for 1 round. On a success, they are temporarily immune for 1 minute."
 
   - name: "Reactive Gnaw"
-    desc: "`pf2:r`  **Trigger** An adjacent creature deals the gibbering mouther slashing damage.\n**Effect** The gibbering mouther's wound opens into another maw. It makes a jaws Strike against the triggering creature."
+    desc: "`pf2:r`  **Trigger** An adjacent creature deals the gibbering mouther slashing damage.\n* * *\n\n**Effect** The gibbering mouther's wound opens into another maw. It makes a jaws Strike against the triggering creature."
 
 attacks:
   - name: ""
@@ -74,7 +75,7 @@ attacks:
     desc: "  A creature that takes damage from a gibbering mouther's spittle must succeed at a DC 22 Fortitude check save or be [[Conditions/Dazzled|Dazzled]] for 1 round (or [[Conditions/Blinded|Blinded]] for 1 round on a critical failure)."
 
   - name: "[[Bestiary Ability Glossary/Engulf|Engulf]]"
-    desc: "`pf2:1`  DC 22 Reflex check, 3d8 piercing, Escape DC 22, Rupture 8\n"
+    desc: "`pf2:1`  DC 22 Reflex check, 3d8 piercing, Escape DC 22, Rupture 8\n\n* * *\n"
 
   - name: "Ground Manipulation"
     desc: "`pf2:2` (occult) The gibbering mouther causes stone and earth under its body to grow soft and muddy, remaining so for 1 minute after the mouther moves off the location. A gibbering mouther can move through these areas with ease, but other creatures treat them as difficult terrain."
@@ -82,6 +83,12 @@ attacks:
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
     desc: "`pf2:1`  "
  
+```
+
+```encounter-table
+name: Demontangle
+creatures:
+  - 1: Demontangle
 ```
 
 

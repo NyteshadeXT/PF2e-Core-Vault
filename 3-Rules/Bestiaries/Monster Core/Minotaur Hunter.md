@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.pathfinder-monster-core.Actor.vN2alMciNlKpBpKN"
 tags:
   - pf2e/creature/type/beast
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/4
   - remaster
 statblock: inline
@@ -19,14 +20,15 @@ license: ORC
 columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
+token: [[modules/pf2e-tokens-bestiaries/portraits/humanoid/hybrid/minotaur.webp| ]]
 source: "Pathfinder Monster Core"
 name: "Minotaur Hunter"
 level: "Creature 4"
 
 alignment: ""
 size: "Large"
-trait_01: "beast"
-trait_02: "humanoid"
+trait_01: [[beast]]
+trait_02: [[humanoid]]
 modifier: 12
 perception:
   - name: "Perception"
@@ -34,7 +36,7 @@ perception:
 languages: "Jotun, Common"
 skills:
   - name: "Skills"
-    desc: "Athletics: +14, Intimidation: +9, Survival: +12 (perfect orienteering)"
+    desc: "Athletics: +14, Intimidation: +9, Survival: +12"
 abilityMods: [6, 0, 3, -2, 2, -1]
 speed: 25 feet
 sourcebook: "_Pathfinder Monster Core_"
@@ -76,9 +78,15 @@ attacks:
  
 ```
 
+```encounter-table
+name: Minotaur Hunter
+creatures:
+  - 1: Minotaur Hunter
+```
 
 
-A minotaur is a large humanoid with bovine features such as horns, hooves, and a layer of hair that covers their entire body. Their head also resembles that of a bull or cow, though with eyes that brim with curiosity or fury, depending on the minotaur’s temperament. Though often mistaken for aggressive brutes due to their size and reputation, many minotaurs are skilled artisans who spend much of their lives perfecting their craft. Minotaur communities tend to be insular and are found at the heart of a cunning labyrinth or within a tangle of underground caverns.
+
+A minotaur is a large humanoid with bovine features such as horns, hooves, and a layer of hair that covers their entire body. Their head also resembles that of a bull or cow, though with eyes that brim with curiosity or fury, depending on the minotaur's temperament. Though often mistaken for aggressive brutes due to their size and reputation, many minotaurs are skilled artisans who spend much of their lives perfecting their craft. Minotaur communities tend to be insular and are found at the heart of a cunning labyrinth or within a tangle of underground caverns.
 
 The myth many minotaurs like to tell of their origin involves a stonemason living in ancient Iblydos. After accidentally insulting a hero-god, he was cursed to become the first minotaur. He then retreated into a series of caves beneath a temple he had built, but continued his work, sculpting stone statues for any who dared to brave the subterranean passages.
 

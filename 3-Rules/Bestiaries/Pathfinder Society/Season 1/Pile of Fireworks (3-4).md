@@ -5,6 +5,7 @@ noteType: pf2eHazard
 tags:
   - mechanical
   - trap
+  - pf2eHazard
 
 source: Pathfinder Society Quest #5: The Dragon who Stole Evoking Day
 aliases: "Compendium.pf2e.pfs-season-1-bestiary.Actor.wGjNDVC0mDsk7rrH" 
@@ -22,14 +23,14 @@ name: "Pile of Fireworks (3-4)"
 level: "Hazard 2"
 
 
-trait_01: "mechanical"
-trait_02: "trap"
+trait_01: [[mechanical]]
+trait_02: [[trap]]
 modifier: 8
 sourcebook: "_Pathfinder Society Quest #5: The Dragon who Stole Evoking Day_"
 ac: 16
 armorclass:
   - name: AC
-    desc: "16; __Fort__ +2, __Ref__ +2, __Will__ +0"
+    desc: "16; __Fort__ +2, __Ref__ +2, "
 hp: 24
 health:
   - name: ""
@@ -51,12 +52,18 @@ attacks:
   - name: ""
 
   - name: "Light Fuse"
-    desc: "`pf2:r` **Trigger** The pile of fireworks takes acid or fire damage.\n**Effect** The fuse of one of the fireworks begins to burn and the pile of fireworks enters initiative immediately before the triggering creature or effect."
+    desc: "`pf2:r` **Trigger** The pile of fireworks takes acid or fire damage.\n* * *\n\n**Effect** The fuse of one of the fireworks begins to burn and the pile of fireworks enters initiative immediately before the triggering creature or effect."
 
   - name: "Explosive Blast"
-    desc: "`pf2:0` **Trigger** The pile of fireworks begins its turn.\n**Effect** The pile of fireworks explodes, dealing 4d8 fire damage (DC 22 Reflex check) save to all creatures within 15 feet."
+    desc: "`pf2:0` **Trigger** The pile of fireworks begins its turn.\n* * *\n\n**Effect** The pile of fireworks explodes, dealing 4d8 fire damage (DC 22 Reflex check) save to all creatures within 15 feet."
 
 
 
+```
+
+```encounter-table
+name: Pile of Fireworks (3-4)
+creatures:
+  - 1: Pile of Fireworks (3-4)
 ```
 

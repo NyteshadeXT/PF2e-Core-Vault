@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/giant
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/12
 statblock: inline
 name: "Tomb Giant"
@@ -26,9 +27,9 @@ level: "Creature 12"
 
 alignment: ""
 size: "Large"
-trait_01: "evil"
-trait_02: "giant"
-trait_03: "humanoid"
+trait_01: [[evil]]
+trait_02: [[giant]]
+trait_03: [[humanoid]]
 modifier: 25
 perception:
   - name: "Perception"
@@ -77,14 +78,20 @@ attacks:
     desc: "_[[Spells/Create Undead|Create Undead]]_"
 
   - name: "Dooming Touch"
-    desc: " (divine) The tomb giant's claws carry the accursed power of their foul gods. A creature hit by the tomb giant's claw Strike becomes [[Conditions/Doomed 1|Doomed 1]]."
+    desc: " (divine) The tomb giant's claws carry the accursed power of their foul gods. A creature hit by the tomb giant's claw Strike becomes [[Conditions/Doomed|Doomed 1]]."
 
   - name: "Font of Death"
-    desc: "`pf2:3` (divine,void) The tomb giant turns the spiritual tide on a creature that has just died, temporarily transforming it into a volatile vessel of void energy. The tomb giant touches a creature that died in the past 24 hours, infusing its flesh and bone with void energy. Once during the next hour, the tomb giant can spend a single action (from any distance) to release this void energy from the corpse in an explosion that deals 10d8 void damage energy in a 15-foot burst (DC 32 Fortitude check save); if not released before the end of the hour, the energy dissipates harmlessly. The tomb giant can't use Font of Death while a previous corpse remains infused."
+    desc: "`pf2:3` (divine,void) The tomb giant turns the spiritual tide on a creature that has just died, temporarily transforming it into a volatile vessel of void energy. The tomb giant touches a creature that died in the past 24 hours, infusing its flesh and bone with void energy. Once during the next hour, the tomb giant can spend a single action (from any distance) to release this void energy from the corpse in an explosion that deals 10d8 void damage energy in a @Template[burst|distance:15] (DC 32 Fortitude check save); if not released before the end of the hour, the energy dissipates harmlessly. The tomb giant can't use Font of Death while a previous corpse remains infused."
 
   - name: "[[Bestiary Ability Glossary/Throw Rock|Throw Rock]]"
     desc: "`pf2:1`  "
  
+```
+
+```encounter-table
+name: Tomb Giant
+creatures:
+  - 1: Tomb Giant
 ```
 
 

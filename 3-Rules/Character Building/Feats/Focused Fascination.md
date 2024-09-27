@@ -6,8 +6,9 @@ tags:
   - trait/swashbuckler
   - trait/common
   - category/class
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.5GqjEM22n78Vmdpe"
-license: OGL
+license: ORC
 ---
 # Focused Fascination
 ## Feat 1
@@ -19,9 +20,7 @@ license: OGL
 
 **Prerequisites** Fascinating Performance
 * * *
-When you use Fascinating Performance in a combat encounter, you need only a success, rather than a critical success, to [[Conditions/Fascinated|Fascinate]] your target. This works only if you're attempting to fascinate one target.
+When you use [[Feats/Fascinating Performance|Fascinating Performance]] in a combat encounter, you need only a success, rather than a critical success, to [[Conditions/Fascinated|Fascinate]] your target. This works only if you're attempting to fascinate one target. For example, if you were an expert in Performance, you could choose to target multiple creatures normally or target one creature and fascinate it on a success.
 
-For example, if you were an expert in Performance, you could choose to target multiple creatures normally or target one creature and fascinate it on a success.
-
-*Source: Pathfinder Advanced Player's Guide*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

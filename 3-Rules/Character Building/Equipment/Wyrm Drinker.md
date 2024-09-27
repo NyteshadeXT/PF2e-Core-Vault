@@ -35,7 +35,7 @@ This staff is made from the femur of a gold dragon wrapped in the multicolored s
 
 * * *
 
-**Effect** Attempt a melee Strike with Wyrm Drinker. If your target is a dragon or a creature with a strong draconic tie, such as a kobold, and you damage the target, the target is [[Conditions/Drained 1|Drained 2]], or [[Conditions/Drained 1|Drained 4]] on a critical hit.
+**Effect** Attempt a melee Strike with Wyrm Drinker. If your target is a dragon or a creature with a strong draconic tie, such as a kobold, and you damage the target, the target is [[Conditions/Drained|Drained 2]], or [[Conditions/Drained|Drained 4]] on a critical hit.
 
 * * *
 
@@ -47,9 +47,9 @@ This staff is made from the femur of a gold dragon wrapped in the multicolored s
 
 *   **2nd** [[Spells/Illusory Creature|Illusory Creature (Dragons only)]]
 *   **4th** [[Spells/Reflective Scales|Reflective Scales]]
-_*   **5th** [[Spells/Summon Dragon|Summon Dragon]]
+*   **5th** [[Spells/Summon Dragon|Summon Dragon]]
 *   **6th** [[Spells/Dragon Form|Dragon Form]], [[Spells/Summon Dragon|Summon Dragon]]
-*   **7th** [[Spells/Summon Dragon|Summon Dragon]]_
+*   **7th** [[Spells/Summon Dragon|Summon Dragon]]
 
 *Source: Pathfinder #173: Doorway to the Red Star*
 *OGL*

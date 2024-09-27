@@ -6,6 +6,7 @@ cssClasses: pf2e
 aliases: "Compendium.battlezoo-bestiary-pf2e.pf2e-battlezoo-bestiary.Actor.haDbS4IJgfWdIpbK" 
 tags:
   - pf2e/creature/type/beast
+  - pf2eMonster
   - pf2e/creature/level/10
 statblock: inline
 name: "Salt Mother"
@@ -21,17 +22,18 @@ token: [[modules/battlezoo-bestiary-pf2e/art/salt_mother.webp| ]]
 source: "Battlezoo Bestiary"
 name: "Salt Mother"
 level: "Creature 10"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "huge"
-trait_01: "beast"
+trait_01: [[beast]]
 modifier: 21
 perception:
   - name: "Perception"
     desc: "+21; "
+languages: ""
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +16, Athletics: +23, Stealth: +16, Survival: +21, "
+    desc: "Acrobatics: +16, Athletics: +23, Stealth: +16, Survival: +21"
 abilityMods: [7, 4, 6, -3, 5, 4]
 speed: 35 feet,  burrow 25 feet,  climb 25 feet
 sourcebook: "_Battlezoo Bestiary_"
@@ -53,7 +55,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Water Vulnerability"
-    desc: "  Water rapidly degrades the spines that cover a salt stalker. A salt stalker immersed in water, stuck in a rain storm, or otherwise soaked is Slowed 1.\nSpells or effects that temporarily drench a salt stalker, such as _Hydraulic Push_ or a bucket of water, cause the salt stalker to become slowed 1 for 1d4 rounds.\nAs long as it is slowed in this way, a salt stalker cannot make spines Strikes."
+    desc: "  Water rapidly degrades the spines that cover a salt stalker. A salt stalker immersed in water, stuck in a rain storm, or otherwise soaked is [[Conditions/Slowed|Slowed 1]].\n\nSpells or effects that temporarily drench a salt stalker, such as _[[Spells/Hydraulic Push|Hydraulic Push]]_ or a bucket of water, cause the salt stalker to become slowed 1 for 1d4 rounds.\n\nAs long as it is slowed in this way, a salt stalker cannot make spines Strikes."
 
 attacks:
   - name: ""
@@ -74,14 +76,20 @@ attacks:
     desc: "  When two or more salt mothers are adjacent to the same foe, salt mothers' attacks deal an additional 1d6 damage to that foe."
 
   - name: "Barbed Spines"
-    desc: "  A salt mother's spines have barbed tips and are much stronger than other salt stalkers', easily becoming lodged in victims and allowing the salt mother's desiccating bile to sink deeper into the victim's body. When a salt mother deals damage with her tail or spines Strike, the damaged creature becomes Enfeebled 1 (or Enfeebled 2 on a critical hit). As long as the spines are embedded in the creature, the result of the creature's saving throws against desiccation venom are one degree worse than whatever the creature rolls.\nA creature can remove spines from itself or an adjacent ally by spending 1 action to perform a Medicine check (this action has the Interact trait). On a failed check, the spines are still removed, but the creature takes 2d8 piercing damage."
+    desc: "  A salt mother's spines have barbed tips and are much stronger than other salt stalkers', easily becoming lodged in victims and allowing the salt mother's desiccating bile to sink deeper into the victim's body. When a salt mother deals damage with her tail or spines Strike, the damaged creature becomes [[Conditions/Enfeebled|Enfeebled 1]] (or [[Conditions/Enfeebled|Enfeebled 2]] on a critical hit). As long as the spines are embedded in the creature, the result of the creature's saving throws against desiccation venom are one degree worse than whatever the creature rolls.\n\nA creature can remove spines from itself or an adjacent ally by spending 1 action to perform a DC 26 Medicine check (this action has the Interact trait). On a failed check, the spines are still removed, but the creature takes 2d8 piercing damage."
 
   - name: "Desiccation Venom"
-    desc: " (injury,poison) A salt stalker's teeth and spines inflict a terrible, toxic bile that violently dehydrates the target, making them more susceptible to heat. The sickened condition and weakness to fire can't end or be reduced until the poison is cured;\n**Saving Throw** Fortitude;\n**Maximum Duration** 1 hour;\n**Stage 1** 2d4 + 4 poison damage plus weakness to fire 3 (1 minute);\n**Stage 2** 2d6 + 4 poison damage plus weakness to fire 6 (1 minute);\n**Stage 3** 2d8 + 4 poison damage plus Sickened 1 and weakness to fire 9 (10 minutes)"
+    desc: " (injury,poison) A salt stalker's teeth and spines inflict a terrible, toxic bile that violently dehydrates the target, making them more susceptible to heat. The sickened condition and weakness to fire can't end or be reduced until the poison is cured;\n* * *\n\n**Saving Throw** DC 30 Fortitude;\n\n**Maximum Duration** 1 hour;\n\n**Stage 1** 2d4+4 poison damage plus weakness to fire 3 (1 minute);\n\n**Stage 2** 2d6+4 poison damage plus weakness to fire 6 (1 minute);\n\n**Stage 3** 2d8+4 poison damage plus [[Conditions/Sickened|Sickened 1]] and weakness to fire 9 (10 minutes)"
 
   - name: "Frenzied Hiss"
-    desc: "`pf2:2` (auditory,emotion,mental,primal) The salt mother hisses terribly, spurring her entire pack into a violent frenzy. The salt mother and all salt stalkers within 60 feet deal 4 additional damage with melee Strikes and take a -1 status penalty to AC. These effects last for 1 minute, after which affected creatures are temporarily immune to the salt mother's Frenzied Hiss for 1 hour.\nWhen a salt mother uses Frenzied Hiss, each affected salt stalker can spend its reaction to Stride up to its Speed, but it must end its movement closer to either the salt mother or a visible enemy.\nEffect: Frenzied Hiss"
+    desc: "`pf2:2` (auditory,emotion,mental,primal) The salt mother hisses terribly, spurring her entire pack into a violent frenzy. The salt mother and all salt stalkers within 60 feet deal 4 additional damage with melee Strikes and take a -1 status penalty to AC. These effects last for 1 minute, after which affected creatures are temporarily immune to the salt mother's Frenzied Hiss for 1 hour.\n\nWhen a salt mother uses Frenzied Hiss, each affected salt stalker can spend its reaction to Stride up to its Speed, but it must end its movement closer to either the salt mother or a visible enemy.\n* * *\n\n[[Effects/Effect_ Frenzied Hiss|Effect: Frenzied Hiss]]"
  
+```
+
+```encounter-table
+name: Salt Mother
+creatures:
+  - 1: Salt Mother
 ```
 
 

@@ -10,7 +10,7 @@ license: OGL
 ---
 # Arrow-Catching Shield
 ## Item 11
-### [[magical]]
+### [[3-Rules/Rule References/Magical]]
 
 
 **Price** 1350 gp; 

@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.stolen-fate-bestiary.Actor.KPwAtJ0wFmMTFfWV"
 tags:
   - pf2e/creature/type/construct
   - pf2e/creature/type/mindless
+  - pf2eMonster
   - pf2e/creature/level/13
 statblock: inline
 name: "Guardian Aluum"
@@ -21,15 +22,16 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #191: The Destiny War"
 name: "Guardian Aluum"
 level: "Creature 13"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Large"
-trait_01: "construct"
-trait_02: "mindless"
+trait_01: [[construct]]
+trait_02: [[mindless]]
 modifier: 22
 perception:
   - name: "Perception"
     desc: "+22; Darkvision"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Athletics: +23"
@@ -60,14 +62,20 @@ attacks:
     desc: "`pf2:1` Fist +26 (magical)\n__Damage__  3d12 + 13 bludgeoning plus paralyzing-force"
 
   - name: "Aluum Antimagic"
-    desc: "  Guardian aluums are immune to spells and magical abilities, with two exceptions. A void spell or magical ability grants an aluum the [[Conditions/Quickened|Quickened]] condition until the end of its next turn instead of its normal effects. A vitality spell or ability makes an aluum [[Conditions/Slowed 1|Slowed 1]] until the end of its next turn instead of its normal effects."
+    desc: "  Guardian aluums are immune to spells and magical abilities, with two exceptions. A void spell or magical ability grants an aluum the [[Conditions/Quickened|Quickened]] condition until the end of its next turn instead of its normal effects. A vitality spell or ability makes an aluum [[Conditions/Slowed|Slowed 1]] until the end of its next turn instead of its normal effects."
 
   - name: "Paralyzing Force"
     desc: " (arcane,incapacitation) A creature damaged by the aluum's fist Strike must succeed at a DC 33 Fortitude check save or become [[Conditions/Paralyzed|Paralyzed]] for 1 round. On a critical failure, the creature is paralyzed for 1d4 minutes and falls [[Conditions/Prone|Prone]]."
 
   - name: "Soul Shriek"
-    desc: "`pf2:2` (arcane,auditory,mental,sonic) The aluum emits a keening wail in a 15-foot cone that deals 12d6 sonic damage (DC 33 Fortitude check save). A creature that fails its save is [[Conditions/Stunned 1|Stunned 1]], or [[Conditions/Stunned 1|Stunned 3]] on a critical failure. The aluum can't use Soul Shriek again for 1d4 rounds."
+    desc: "`pf2:2` (arcane,auditory,mental,sonic) The aluum emits a keening wail in a @Template[cone|distance:15] that deals 12d6 sonic damage (DC 33 Fortitude check save). A creature that fails its save is [[Conditions/Stunned|Stunned 1]], or [[Conditions/Stunned|Stunned 3]] on a critical failure. The aluum can't use Soul Shriek again for 1d4 rounds."
  
+```
+
+```encounter-table
+name: Guardian Aluum
+creatures:
+  - 1: Guardian Aluum
 ```
 
 

@@ -6,6 +6,7 @@ cssClasses: pf2e
 aliases: "Compendium.pf2e.blood-lords-bestiary.Actor.7Ah4NAOuhPqMQ5e7" 
 tags:
   - pf2e/creature/type/shadow
+  - pf2eMonster
   - pf2e/creature/level/14
 statblock: inline
 name: "Ghiasi&#x27;s Double"
@@ -20,10 +21,10 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #185: A Taste of Ashes"
 name: "Ghiasi's Double"
 level: "Creature 14"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Medium"
-trait_01: "shadow"
+trait_01: [[shadow]]
 modifier: 30
 perception:
   - name: "Perception"
@@ -31,7 +32,7 @@ perception:
 languages: "Aklo, Common, Necril, Sakvroth, Shae"
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +25, Deception: +29, Diplomacy: +27, Occultism: +25, Performance: +29, Shadow Plane Lore: +25, Society: +27, Stealth: +25"
+    desc: "Acrobatics: +25, Deception: +29, Diplomacy: +27, Occultism: +25, Performance: +29, Society: +27, Stealth: +25, Shadow Plane Lore: +25"
 abilityMods: [4, 8, 1, 6, 5, 8]
 speed: 25 feet,  fly 35 feet
 sourcebook: "_Pathfinder #185: A Taste of Ashes_"
@@ -54,13 +55,13 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Counterattack"
-    desc: "`pf2:r`  **Trigger** Ghiasi's double is targeted by an attack from an adjacent creature that misses due to her being [[Conditions/Concealed|Concealed]]\n**Requirements** Ghiasi's double is aware of the attack\n**Effect** Ghiasi's double makes a Strike against the attacker."
+    desc: "`pf2:r`  **Trigger** Ghiasi's double is targeted by an attack from an adjacent creature that misses due to her being [[Conditions/Concealed|Concealed]]\n\n**Requirements** Ghiasi's double is aware of the attack\n* * *\n\n**Effect** Ghiasi's double makes a Strike against the attacker."
 
   - name: "Multiple Reactions"
     desc: "  Ghiasi's double gains an additional reaction each turn that she can only use to Slip."
 
   - name: "Slip"
-    desc: "`pf2:r`  **Trigger** A creature moves adjacent to Ghiasi's double\n**Effect** Ghiasi's double teleports to a clear space adjacent to another creature she can see within 30 feet."
+    desc: "`pf2:r`  **Trigger** A creature moves adjacent to Ghiasi's double\n* * *\n\n**Effect** Ghiasi's double teleports to a clear space adjacent to another creature she can see within 30 feet."
 
 attacks:
   - name: ""
@@ -80,6 +81,12 @@ attacks:
   - name: "Tenebral Form"
     desc: "  Ghiasi's double can Fly at full Speed in gaseous form."
  
+```
+
+```encounter-table
+name: Ghiasi's Double
+creatures:
+  - 1: Ghiasi's Double
 ```
 
 

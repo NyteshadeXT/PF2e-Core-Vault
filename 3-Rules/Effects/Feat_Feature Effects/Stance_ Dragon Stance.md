@@ -4,8 +4,9 @@ title: "Stance: Dragon Stance"
 cssclasses: pf2e,pf2e-action
 tags:
   - trait/common
+  - remaster
 aliases: "Compendium.pf2e.feat-effects.Item.qUowHpn79Dpt1hVn"
-license: OGL
+license: ORC
 ---
 # Stance: Dragon Stance
 
@@ -22,5 +23,5 @@ You enter the stance of a dragon and make powerful leg strikes like a lashing dr
 
 While in Dragon Stance, you can ignore the first square of difficult terrain while Striding.
 
-*Source: Pathfinder Core Rulebook*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

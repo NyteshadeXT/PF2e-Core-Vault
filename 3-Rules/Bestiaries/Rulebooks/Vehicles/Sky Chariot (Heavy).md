@@ -1,16 +1,17 @@
 ---
-title: "Sky Chariot (Heavy)"
+title: Sky Chariot (Heavy)
 obsidianUIMode: preview
-noteType: pf2eMonster
+noteType: pf2eVehicle
 cssClasses: pf2e
-aliases: "Compendium.pf2e.vehicles.Actor.Y2XrhWFdiGcVAUsz" 
 tags:
-  - pf2e/creature/level/13
+  - pf2eVehicle
+
   - remaster
-statblock: inline
-name: "Sky Chariot (Heavy)"
+source: Pathfinder GM Core
+aliases: "Compendium.pf2e.vehicles.Actor.Y2XrhWFdiGcVAUsz" 
 level: 13
 license: ORC
+statblock: inline
 ---
 
 ```statblock
@@ -19,39 +20,48 @@ forcecolumns: true
 layout: Basic Pathfinder 2e Layout
 source: "Pathfinder GM Core"
 name: "Sky Chariot (Heavy)"
-level: "Creature 13"
-rare_03: "Uncommon"
-alignment: ""
+level: "Vehicle 13"
+rare_03: [[Uncommon]]
+
 size: "Large"
 modifier: 
 perception:
-  - name: "Perception"
-    desc: "NaN; "
-skills:
-  - name: "Skills"
-    desc: ""
-abilityMods: [, , , , , ]
-speed: 
-sourcebook: "_Pathfinder GM Core_"
+  - name: ""
+  - name: "Price"
+    desc: "9000 gp\n* * *"
+abilities_top:
+  - name: ""
+  - name: "Space"
+    desc: "20 feet long, 20 feet wide, 8 feet high"
+  - name: "Crew"
+    desc: "1 pilot; **Passengers** 7"
+  - name: "Piloting Check"
+    desc: "Arcana (DC 33), Nature (DC 33 to 41, depending on pulling creature), or Piloting Lore (DC 31)"
 ac: 29
 armorclass:
   - name: AC
-    desc: "29; __Fort__ +23, __Ref__ NaN, __Will__ NaN"
+    desc: "29; __Fort__ +23"
 hp: 230
 health:
   - name: ""
-  - name: HP
-    desc: "230; __Immunities__  critical hits,  object immunities,  precision"
-abilities_top:
-  - name: ""
-
+  - name: "Hardness"
+    desc: "20; **HP** 230 (BT 115); __Immunities__  critical hits,  object immunities,  precision"
+speed: "the fly Speed of the slowest pulling creature (pulled by 6 Large creatures, 2 Huge creatures, or 1 Gargantuan creature)"
 abilities_mid:
   - name: ""
 attacks:
   - name: ""
- 
+  - name: "Collision"
+    desc: "9d10 (DC 31)"
+
+
+
+sourcebook: "_Pathfinder GM Core_"
 ```
 
-
-
+```encounter-table
+name: Sky Chariot (Heavy)
+creatures:
+  - 1: Sky Chariot (Heavy)
+```
 

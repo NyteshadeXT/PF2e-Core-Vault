@@ -5,6 +5,7 @@ noteType: pf2eHazard
 tags:
   - mechanical
   - trap
+  - pf2eHazard
 
 source: Pathfinder Kingmaker
 aliases: "Compendium.pf2e.kingmaker-bestiary.Actor.HRLmXOCMwyw5HAfw" 
@@ -22,8 +23,8 @@ name: "Camouflaged Spiked Pit"
 level: "Hazard 8"
 
 
-trait_01: "mechanical"
-trait_02: "trap"
+trait_01: [[mechanical]]
+trait_02: [[trap]]
 modifier: 21
 sourcebook: "_Pathfinder Kingmaker_"
 perception:
@@ -42,10 +43,16 @@ attacks:
   - name: ""
 
   - name: "Spiked Pitfall"
-    desc: "`pf2:r` **Trigger** A creature walks onto one of the pits\n**Effect** The triggering creature falls and rolls through several spikes as it slides to the bottom. This inflicts 5 bludgeoning damage from the fall itself down the steep slope (the falling PC can't attempt to [[Actions/Grab an Edge|Grab an Edge]] due to the lack of defined edges to the pit's walls), but the falling PC must also attempt a DC 26 Reflex check save.\n**Critical Success** The character avoids all of the spikes and takes no additional damage.\n**Success** The character takes 2d10 + 11 piercing damage from the spikes.\n**Failure** The character takes 4d10 + 22 piercing damage from the spikes.\n**Critical Failure** The character takes 4d10 + 22 piercing damage from the spikes plus 2d6 bleed damage. While the character is taking this bleed damage, they are also [[Conditions/Sickened 1|Sickened 2]] from the pain."
+    desc: "`pf2:r` **Trigger** A creature walks onto one of the pits\n* * *\n\n**Effect** The triggering creature falls and rolls through several spikes as it slides to the bottom. This inflicts 5 bludgeoning damage from the fall itself down the steep slope (the falling PC can't attempt to [[Actions/Grab an Edge|Grab an Edge]] due to the lack of defined edges to the pit's walls), but the falling PC must also attempt a DC 26 Reflex check save.\n* * *\n\n**Critical Success** The character avoids all of the spikes and takes no additional damage.\n\n**Success** The character takes 2d10+11 piercing damage from the spikes.\n\n**Failure** The character takes 4d10+22 piercing damage from the spikes.\n\n**Critical Failure** The character takes 4d10+22 piercing damage from the spikes plus 2d6 bleed damage. While the character is taking this bleed damage, they are also [[Conditions/Sickened|Sickened 2]] from the pain."
 
 
   - name: "Reset"
     desc: "Creatures can still fall into the trap once it has been exposed, but the camouflaged cover must be reset manually for the trap to become hidden again."
+```
+
+```encounter-table
+name: Camouflaged Spiked Pit
+creatures:
+  - 1: Camouflaged Spiked Pit
 ```
 

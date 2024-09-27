@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/construct
   - pf2e/creature/type/mindless
   - pf2e/creature/type/unholy
+  - pf2eMonster
   - pf2e/creature/level/18
 statblock: inline
 name: "Animated Dragonstorm"
@@ -22,16 +23,17 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #150: Broken Promises"
 name: "Animated Dragonstorm"
 level: "Creature 18"
-rare_03: "Rare"
+rare_03: [[Rare]]
 alignment: ""
 size: "huge"
-trait_01: "construct"
-trait_02: "mindless"
-trait_03: "unholy"
+trait_01: [[construct]]
+trait_02: [[mindless]]
+trait_03: [[unholy]]
 modifier: 30
 perception:
   - name: "Perception"
     desc: "+30; Darkvision"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Athletics: +35"
@@ -62,7 +64,7 @@ attacks:
     desc: "`pf2:1` Fist +35 (deadly 3d12, magical, reach 15 feet)\n__Damage__  5d10 + 12 bludgeoning"
 
   - name: "Channel Dragonstorm"
-    desc: "`pf2:2` (divine) The animated dragonstorm directs a 30-foot cone of dragonstorm energy. This deals 3d8 acid, 3d8 cold, 3d8 electricity, 3d8 fire, and 3d8 poison damage to creatures in the cone (DC 40 Reflex check save). The animated dragonstorm can't use Channel Dragonstorm again for 1d4 rounds."
+    desc: "`pf2:2` (divine) The animated dragonstorm directs a @Template[cone|distance:30] of dragonstorm energy. This deals 3d8 acid, 3d8 cold, 3d8 electricity, 3d8 fire, and 3d8 poison damage to creatures in the cone (DC 40 Reflex check save). The animated dragonstorm can't use Channel Dragonstorm again for 1d4 rounds."
 
   - name: "Destructive Strikes"
     desc: "  The animated dragonstorm's attacks ignore the Hardness of objects with Hardness 20 or less."
@@ -70,6 +72,12 @@ attacks:
   - name: "Dragonstorm Strike"
     desc: "  On a critical hit, the animated dragonstorm's fist bursts with dragonstorm energy. The target takes 1d6 acid, 1d6 cold, 1d6 electricity, 1d6 fire, and 1d6 poison damage."
  
+```
+
+```encounter-table
+name: Animated Dragonstorm
+creatures:
+  - 1: Animated Dragonstorm
 ```
 
 

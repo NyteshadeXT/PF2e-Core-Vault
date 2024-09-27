@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/undead
   - pf2e/creature/type/unholy
   - pf2e/creature/type/zombie
+  - pf2eMonster
   - pf2e/creature/level/8
 statblock: inline
 name: "Enduring Zombie Hulk"
@@ -23,17 +24,18 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Society Scenario #3-09: The Secluded Siege"
 name: "Enduring Zombie Hulk"
 level: "Creature 8"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "huge"
-trait_01: "evil"
-trait_02: "undead"
-trait_03: "unholy"
-trait_04: "zombie"
+trait_01: [[evil]]
+trait_02: [[undead]]
+trait_03: [[unholy]]
+trait_04: [[zombie]]
 modifier: 11
 perception:
   - name: "Perception"
     desc: "+11; Darkvision"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Athletics: +21"
@@ -76,11 +78,17 @@ attacks:
     desc: "  A zombie hulk can throw corpses at foes. While any Medium dead body will do, they sometimes throw [[Bestiary 1/Zombie Shambler|Zombie Shamblers]], who take just as much damage from being thrown as the target they hit. A thrown shambler lands [[Conditions/Prone|Prone]], but if it's not destroyed, it can rise and use other actions normally."
 
   - name: "Feast"
-    desc: "`pf2:2` (manipulate) If the enduring zombie hulk is adjacent to a helpless or [[Conditions/Unconscious|Unconscious]] creature, or a deceased creature that died in the past hour, the zombie hulk can feast upon its flesh to heal itself. This restores 8 Hit Points to the zombie hulk and deals the creature 2d10 + 13 bludgeoning damage."
+    desc: "`pf2:2` (manipulate) If the enduring zombie hulk is adjacent to a helpless or [[Conditions/Unconscious|Unconscious]] creature, or a deceased creature that died in the past hour, the zombie hulk can feast upon its flesh to heal itself. This restores 8 Hit Points to the zombie hulk and deals the creature 2d10+13 bludgeoning damage."
 
   - name: "Wide Swing"
     desc: "`pf2:1`  The zombie hulk makes a hunk of meat Strike and compares the attack roll result to the AC of up to two foes, each of whom must be within the Strike's reach. This attack counts as two attacks for the zombie hulk's multiple attack penalty."
  
+```
+
+```encounter-table
+name: Enduring Zombie Hulk
+creatures:
+  - 1: Enduring Zombie Hulk
 ```
 
 

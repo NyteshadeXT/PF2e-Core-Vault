@@ -6,8 +6,9 @@ tags:
   - trait/archetype
   - trait/common
   - category/class
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.1k5PZAYth8u4Fqyr"
-license: OGL
+license: ORC
 ---
 # Expert Sorcerer Spellcasting
 ## Feat 12
@@ -21,5 +22,5 @@ license: OGL
 * * *
 You gain the [[PF2e Journals/Archetypes/Expert Spellcasting Feat|Expert Spellcasting Feat]] benefits.
 
-*Source: Pathfinder Core Rulebook*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

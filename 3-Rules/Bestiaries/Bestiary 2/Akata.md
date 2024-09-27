@@ -6,6 +6,7 @@ cssClasses: pf2e
 aliases: "Compendium.pf2e.pathfinder-bestiary-2.Actor.nRsH7unLIRWq0ZHC" 
 tags:
   - pf2e/creature/type/aberration
+  - pf2eMonster
   - pf2e/creature/level/1
 statblock: inline
 name: "Akata"
@@ -21,14 +22,15 @@ token: [[modules/pf2e-tokens-bestiaries/portraits/aberrant/monstrous/akata.webp|
 source: "Pathfinder Bestiary 2"
 name: "Akata"
 level: "Creature 1"
-rare_03: "Rare"
+rare_03: [[Rare]]
 alignment: ""
 size: "Medium"
-trait_01: "aberration"
+trait_01: [[aberration]]
 modifier: 6
 perception:
   - name: "Perception"
     desc: "+6; Darkvision, Scent (Imprecise) 30 Feet"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Acrobatics: +7, Athletics: +7, Stealth: +7"
@@ -48,7 +50,7 @@ abilities_top:
   - name: ""
 
   - name: "Hibernation"
-    desc: "  After 3 or more days without eating, an akata can secrete resin that encases it in a noqual cocoon. The cocoon has Hardness 9, 40 HP, and a Broken Threshold of 18. It has resistance 5 to damage from magical sources. As long as the cocoon remains intact, the akata can't be harmed, and it doesn't need to eat or drink.\nWhile inside the cocoon, the akata gains [[Bestiary Ability Glossary/Lifesense|Lifesense]] 30 feet.\nThe akata remains in a state of hibernation until it is exposed to extreme heat or senses a living creature, at which point it can burst free of its cocoon in 1d4 minutes."
+    desc: "  After 3 or more days without eating, an akata can secrete resin that encases it in a noqual cocoon. The cocoon has Hardness 9, 40 HP, and a Broken Threshold of 18. It has resistance 5 to damage from magical sources. As long as the cocoon remains intact, the akata can't be harmed, and it doesn't need to eat or drink.\n\nWhile inside the cocoon, the akata gains [[Bestiary Ability Glossary/Lifesense|Lifesense]] 30 feet.\n\nThe akata remains in a state of hibernation until it is exposed to extreme heat or senses a living creature, at which point it can burst free of its cocoon in 1d4 minutes."
 
   - name: "No Hearing"
     desc: " (auditory) An akata has no auditory senses. It is immune to auditory effects, automatically critically fails Perception checks that require it to hear, and takes a -2 status penalty to Perception checks (but not initiative rolls) that involve sound but also rely on other senses."
@@ -68,8 +70,14 @@ attacks:
     desc: "`pf2:1` Jaws +9 (agile)\n__Damage__  1d6 + 4 piercing plus void-death"
 
   - name: "Void Death"
-    desc: " (disease) An akata implants its parasitic larval young into any creature it bites, but only Medium or Small humanoids make suitable hosts; all other creatures are immune to this disease\n**Saving Throw** DC 17 Fortitude check\n**Stage 1** carrier with no ill effect 1 (1 day)\n**Stage 2** [[Conditions/Drained 1|Drained 1]] (1 day)\n**Stage 3** as stage 2 (1 day)\n**Stage 4** drained 2 and [[Conditions/Fatigued|Fatigued]] (1 day)\n**Stage 5** as stage 4 (1 day)\n**Stage 6** dead and corpse rises as a void zombie in 2d4 hours"
+    desc: " (disease) An akata implants its parasitic larval young into any creature it bites, but only Medium or Small humanoids make suitable hosts; all other creatures are immune to this disease\n\n**Saving Throw** DC 17 Fortitude check\n\n**Stage 1** carrier with no ill effect 1 (1 day)\n\n**Stage 2** [[Conditions/Drained|Drained 1]] (1 day)\n\n**Stage 3** as stage 2 (1 day)\n\n**Stage 4** drained 2 and [[Conditions/Fatigued|Fatigued]] (1 day)\n\n**Stage 5** as stage 4 (1 day)\n\n**Stage 6** dead and corpse rises as a void zombie in 2d4 hours"
  
+```
+
+```encounter-table
+name: Akata
+creatures:
+  - 1: Akata
 ```
 
 

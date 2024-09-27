@@ -11,6 +11,7 @@ tags:
   
 
 **Party Treasure by Level**
+ 
 | **Level** | **Total Value** | **Permanent Items**<br/>**(By Item Level)** | **Consumables**<br/>**(By Item Level)** | **Party Currency** | **Currency per**<br/>**Additional PC** |
 | --- | --- | --- | --- | --- | --- |
 | 1 | 175 gp | **2nd**: 2, **1st**: 2 | **2nd**: 2, **1st**: 3 | 40 gp | 10 gp |
@@ -88,7 +89,7 @@ If a party has more than four characters, add the following for each additional 
 
 If the party has fewer than four characters, you can subtract the same amount for each missing character, but since the game is inherently more challenging with a smaller group that can't cover all roles as efficiently, you might consider subtracting less treasure and allowing the extra gear help compensate for the smaller group size.
 
-**Sidebar(s)** [[undefined]]
+**Sidebar(s)** [[PF2e Journals/GM Screen/Adjusting Treasure|Adjusting Treasure]]
 
 ## Buying and Selling Items
 
@@ -96,13 +97,13 @@ Characters can usually buy and sell items only during downtime. An item can typi
 
 ## Treasure (GMG Advice)
 
-The game's math is based on PCs looking to find, buy, or craft items that are the same level as them—this includes weapons and armor with fundamental runes, and items that help with the PC's favorite skills or tactics. A PC who gets the item at that level will typically be ahead of the monsters, hazards, and skill DCs briefly, before their challenges start to catch back up. The guidelines for awarding treasure, meanwhile, have you give the party items 1 level higher than the PCs. This means the items found on adventures are more powerful than those a PC could make (which are capped at the PC's level). The treasure assignment is measured across a level instead of per encounter because some encounters won't have treasure, some will have extra treasure, and some treasure hoards or rewards might be found outside encounters entirely. If your campaign structure works better by giving out treasure for individual encounters—such as some dungeon crawls or sandbox games—see [[undefined]].
+The game's math is based on PCs looking to find, buy, or craft items that are the same level as them—this includes weapons and armor with fundamental runes, and items that help with the PC's favorite skills or tactics. A PC who gets the item at that level will typically be ahead of the monsters, hazards, and skill DCs briefly, before their challenges start to catch back up. The guidelines for awarding treasure, meanwhile, have you give the party items 1 level higher than the PCs. This means the items found on adventures are more powerful than those a PC could make (which are capped at the PC's level). The treasure assignment is measured across a level instead of per encounter because some encounters won't have treasure, some will have extra treasure, and some treasure hoards or rewards might be found outside encounters entirely. If your campaign structure works better by giving out treasure for individual encounters—such as some dungeon crawls or sandbox games—see [[PF2e Journals/GM Screen/Treasure Per Encounter|Treasure Per Encounter]].
 
-As you choose treasure, look at the flow of treasure in the campaign, and see which PCs are ahead and which are behind. It's usually best to mix “core items,” treasure linked to a PC's main abilities, with treasure that has unusual, less broadly applicable powers. For instance, a champion might not purchase _plate armor of the deep_, but they will likely wear it if they find it. These items should always be useful—a party without a primal spellcaster won't have much use for an _animal staff_. The number of core items to give out depends partly on how much the campaign allows for crafting and buying items.
+As you choose treasure, look at the flow of treasure in the campaign, and see which PCs are ahead and which are behind. It's usually best to mix "core items," treasure linked to a PC's main abilities, with treasure that has unusual, less broadly applicable powers. For instance, a champion might not purchase _plate armor of the deep_, but they will likely wear it if they find it. These items should always be useful—a party without a primal spellcaster won't have much use for an _animal staff_. The number of core items to give out depends partly on how much the campaign allows for crafting and buying items.
 
 *   If there are few limits on buying items and there's plenty of time to craft, make about half the permanent items you give out core items. The PCs have plenty of ways to obtain the items they want.
 *   If purchasing items and obtaining formulas is somewhat difficult, make about three-fourths of the permanent items core items. If a PC really wants an item, they might have to do extra work to get it.
-*   If there are no magic item shops or other ways to purchase items and formulas, make all the permanent items core items. In this case, it might work better for your game to use [[undefined]] to eliminate the need for core items.
+*   If there are no magic item shops or other ways to purchase items and formulas, make all the permanent items core items. In this case, it might work better for your game to use [[PF2e Journals/GM Screen/Automatic Bonus Progression|Automatic Bonus Progression]] to eliminate the need for core items.
 
 ## Selling Items
 

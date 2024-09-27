@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.pathfinder-monster-core.Actor.9cBuzDV8seJqhNKJ"
 tags:
   - pf2e/creature/type/bugbear
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/2
   - remaster
 statblock: inline
@@ -26,8 +27,8 @@ level: "Creature 2"
 
 alignment: ""
 size: "Medium"
-trait_01: "bugbear"
-trait_02: "humanoid"
+trait_01: [[bugbear]]
+trait_02: [[humanoid]]
 modifier: 7
 perception:
   - name: "Perception"
@@ -72,6 +73,12 @@ attacks:
   - name: "Mauler"
     desc: "  The bugbear prowler gains a +3 circumstance bonus to damage rolls against creatures they have [[Conditions/Grabbed|Grabbed]]."
  
+```
+
+```encounter-table
+name: Bugbear Prowler
+creatures:
+  - 1: Bugbear Prowler
 ```
 
 

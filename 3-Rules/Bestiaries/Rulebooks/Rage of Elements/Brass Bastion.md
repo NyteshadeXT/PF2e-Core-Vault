@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/construct
   - pf2e/creature/type/fire
   - pf2e/creature/type/mindless
+  - pf2eMonster
   - pf2e/creature/level/14
   - remaster
 statblock: inline
@@ -23,16 +24,17 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Rage of Elements"
 name: "Brass Bastion"
 level: "Creature 14"
-rare_03: "Rare"
+rare_03: [[Rare]]
 alignment: ""
 size: "huge"
-trait_01: "construct"
-trait_02: "fire"
-trait_03: "mindless"
+trait_01: [[construct]]
+trait_02: [[fire]]
+trait_03: [[mindless]]
 modifier: 22
 perception:
   - name: "Perception"
     desc: "+22; Darkvision"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Athletics: +30"
@@ -55,7 +57,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Molten Demise"
-    desc: " (arcane,fire) When a brass bastion is destroyed, its body explodes in a flurry of elemental flame and superheated brass, dealing 4d6 piercing damage and 4d6 fire damage to creatures in a 20-foot emanation (DC 34 Reflex check save)."
+    desc: " (arcane,fire) When a brass bastion is destroyed, its body explodes in a flurry of elemental flame and superheated brass, dealing 4d6 piercing damage and 4d6 fire damage to creatures in a @Template[emanation|distance:20] (DC 34 Reflex check save)."
 
 attacks:
   - name: ""
@@ -67,11 +69,17 @@ attacks:
     desc: "`pf2:1` Fist +26 (agile, magical, reach 15 feet)\n__Damage__  2d6 + 12 bludgeoning"
 
   - name: "Breathe Smoke"
-    desc: "`pf2:2` (arcane,fire) The brass bastion exhales superheated smoke and cinders in a 10-foot burst centered on a corner of its space. The smoke persists for 1 round. Any creature in the area (or that later enters the area) takes 15d6 fire damage (DC 34 Reflex check save); on a critical failure, the creature catches fire, taking 2d6 persistent fire damage as well. All creatures in the smoke become [[Conditions/Concealed|Concealed]], and all creatures outside the smoke become concealed to creatures within it. The brass bastion can't Breathe Smoke again for 1d4 rounds."
+    desc: "`pf2:2` (arcane,fire) The brass bastion exhales superheated smoke and cinders in a @Template[burst|distance:10] centered on a corner of its space. The smoke persists for 1 round. Any creature in the area (or that later enters the area) takes 15d6 fire damage (DC 34 Reflex check save); on a critical failure, the creature catches fire, taking 2d6 persistent fire damage as well. All creatures in the smoke become [[Conditions/Concealed|Concealed]], and all creatures outside the smoke become concealed to creatures within it. The brass bastion can't Breathe Smoke again for 1d4 rounds."
 
   - name: "Heat Weapon"
     desc: "  Metal weapons wielded by a brass bastion superheat, dealing 1d10 additional fire damage (included in its statistics)."
  
+```
+
+```encounter-table
+name: Brass Bastion
+creatures:
+  - 1: Brass Bastion
 ```
 
 

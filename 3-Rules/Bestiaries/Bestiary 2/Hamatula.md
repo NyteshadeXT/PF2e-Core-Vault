@@ -10,6 +10,7 @@ tags:
   - pf2e/creature/type/fiend
   - pf2e/creature/type/lawful
   - pf2e/creature/type/unholy
+  - pf2eMonster
   - pf2e/creature/level/11
 statblock: inline
 name: "Hamatula"
@@ -28,16 +29,16 @@ level: "Creature 11"
 
 alignment: ""
 size: "Medium"
-trait_01: "devil"
-trait_02: "evil"
-trait_03: "fiend"
-trait_04: "lawful"
-trait_05: "unholy"
+trait_01: [[devil]]
+trait_02: [[evil]]
+trait_03: [[fiend]]
+trait_04: [[lawful]]
+trait_05: [[unholy]]
 modifier: 24
 perception:
   - name: "Perception"
     desc: "+24; Greater Darkvision"
-languages: "Diabolic, Draconic, Empyrean"
+languages: "Diabolic, Draconic, Empyrean; telepathy 100 feet"
 skills:
   - name: "Skills"
     desc: "Acrobatics: +23, Arcana: +18, Intimidation: +21, Religion: +20, Stealth: +23, Survival: +22"
@@ -59,7 +60,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "[[Bestiary Ability Glossary/Attack of Opportunity|Attack of Opportunity (Special)]]"
-    desc: "`pf2:r`  Barb only. A hamatula gains an extra reaction at the start of each of its turns that it can use only to make an Attack of Opportunity. It can't use more than one Attack of Opportunity triggered by the same action. In addition to the normal trigger, a hamatula can make an Attack of Opportunity against a creature that touches it or an adjacent creature that attempts a melee Strike against it.\n"
+    desc: "`pf2:r`  Barb only. A hamatula gains an extra reaction at the start of each of its turns that it can use only to make an Attack of Opportunity. It can't use more than one Attack of Opportunity triggered by the same action. In addition to the normal trigger, a hamatula can make an Attack of Opportunity against a creature that touches it or an adjacent creature that attempts a melee Strike against it.\n\n* * *\n"
 
 attacks:
   - name: ""
@@ -80,14 +81,20 @@ attacks:
     desc: "  On a critical hit, the hamatula's barbs deal 3d6 bleed."
 
   - name: "Frightful Strike"
-    desc: " (divine,emotion,fear,mental) **Trigger** The hamatula hits a creature with a barb Strike\n**Effect** The creature struck must succeed at a DC 27 Will check save or become [[Conditions/Frightened 1|Frightened 2]] (or [[Conditions/Frightened 1|Frightened 3]] on a critical failure). Regardless of the result of its saving throw, the creature is then temporarily immune to Frightful Strike for 24 hours."
+    desc: " (divine,emotion,fear,mental) **Trigger** The hamatula hits a creature with a barb Strike\n* * *\n\n**Effect** The creature struck must succeed at a DC 27 Will check save or become [[Conditions/Frightened|Frightened 2]] (or [[Conditions/Frightened|Frightened 3]] on a critical failure). Regardless of the result of its saving throw, the creature is then temporarily immune to Frightful Strike for 24 hours."
 
   - name: "Impaling Barb"
-    desc: "`pf2:2`  The hamatula makes a barb Strike, then Strides up to half its Speed without triggering reactions. If the Strike hits, the hamatula impales the target with one of its barbs and snaps the barb free as it moves away from the target. This deals an additional 2d8 piercing damage to the target and pins it to an adjacent surface, rendering it [[Conditions/Immobilized|Immobilized]] (Escape DC 29)."
+    desc: "`pf2:2`  The hamatula makes a barb Strike, then Strides up to half its Speed without triggering reactions. If the Strike hits, the hamatula impales the target with one of its barbs and snaps the barb free as it moves away from the target. This deals an additional 2d8 piercing damage to the target and pins it to an adjacent surface, rendering it [[Conditions/Immobilized|Immobilized]] ([[Actions/Escape|Escape]] DC 29)."
 
   - name: "Warden of Erebus"
     desc: "  A hamatula's [[Spells/Rune Trap|Rune Trap]] innate spell can contain any common spell from the Core Rulebook that meets the criteria in glyph of warding; the hamatula doesn't need to provide the spell."
  
+```
+
+```encounter-table
+name: Hamatula
+creatures:
+  - 1: Hamatula
 ```
 
 

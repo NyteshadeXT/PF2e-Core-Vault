@@ -41,6 +41,7 @@ As a psychic, you get the ability to improve some of your cantrips with special 
   
 
 Psychic Spells per Day
+ 
 | Your Level | Cantrips | 1st | 2nd | 3rd | 4th | 5th | 6th | 7th | 8th | 9th | 10th |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 1 | 3\* | 1 | \- | \- | \- | \- | \- | \- | \- | \- | \- |

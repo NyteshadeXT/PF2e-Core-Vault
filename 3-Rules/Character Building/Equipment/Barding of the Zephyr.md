@@ -7,6 +7,7 @@ tags:
   - trait/invested
   - trait/primal
   - trait/common
+  - category/light-barding
   - remaster
 aliases: "Compendium.pf2e.equipment-srd.Item.eoI3M6FXtcPWeg7i"
 license: ORC
@@ -15,10 +16,10 @@ license: ORC
 ## Item 10
 ### [[companion]][[invested]][[primal]]
 
-
+**Category** light-barding; 
 **Price** 900 gp; 
 **Bulk** L; **Size** med
-**Usage** wornbarding
+**Usage** wornarmor
 
 This light barding is covered in stylized wind motifs. When you suit up your animal companion, the barding adjusts to fit your animal companion regardless of its shape.
 

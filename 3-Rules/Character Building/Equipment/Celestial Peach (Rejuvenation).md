@@ -15,7 +15,7 @@ license: OGL
 ---
 # Celestial Peach (Rejuvenation)
 ## Item 17
-### [rare](rare "Rare Rarity Trait")[[consumable]][[divine]][[healing]][[mechanical]][[vitality]]
+### [rare](rare.md "Rare Rarity Trait")[[consumable]][[3-Rules/Rule References/Divine]][[healing]][[mechanical]][[vitality]]
 
 **Category** other; 
 **Price** 3000 gp; 
@@ -26,7 +26,7 @@ license: OGL
 
 Among Hao Jin's most precious treasures are three living plants, the last surviving celestial peach trees taken from the mountains of Chu Ye. One of the trees grows pearls in place of flowers, but the other two bear fruit that is far more valuable. Eating one of these small red peaches can heal even the most grievous of injuries.
 
-You gain the effects of 7th-rank [[Spells/Cleanse Affliction|Cleanse Affliction]], [[Spells/Regenerate|Regenerate]], [[Spells/Cleanse Affliction|Cleanse Affliction]], and [[Spells/Cleanse Affliction|Cleanse Affliction]] spells. The peach has a counteract modifier of 1d20 + 27.
+You gain the effects of 7th-rank [[Spells/Regenerate|Regenerate]] and [[Spells/Cleanse Affliction|Cleanse Affliction]] spells. The peach has a counteract modifier of 1d20+27.
 
 *Source: Pathfinder Lost Omens: Legends*
 *OGL*

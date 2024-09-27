@@ -13,14 +13,14 @@ license: OGL
 ---
 # Elemental Fragment
 ## Item 10
-### [uncommon](uncommon "Uncommon Rarity Trait")[[consumable]][[magical]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[consumable]][[3-Rules/Rule References/Magical]]
 
 **Category** other; 
 **Price** 200 gp; 
 **Bulk** 0; **Size** med
 **Usage** held-in-one-hand
 
-**Activate `pf2:2` (concentrate, manipulate)**
+**Activate** `pf2:2` (concentrate, manipulate)
 
 * * *
 

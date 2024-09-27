@@ -11,7 +11,7 @@ license: OGL
 ---
 # Courtier's Pillow Book
 ## Item 6
-### [[grimoire]][[magical]]
+### [[grimoire]][[3-Rules/Rule References/Magical]]
 
 
 **Price** 250 gp; 

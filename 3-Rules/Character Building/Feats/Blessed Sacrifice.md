@@ -6,8 +6,9 @@ tags:
   - trait/archetype
   - trait/common
   - category/class
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.NrCloSukzSUCprsM"
-license: OGL
+license: ORC
 ---
 # Blessed Sacrifice
 ## Feat 4
@@ -21,5 +22,5 @@ license: OGL
 * * *
 You gain the [[Spells/Protector's Sacrifice|Protector's Sacrifice]] domain spell as a devotion spell. Increase the number of Focus Points in your focus pool by 1.
 
-*Source: Pathfinder Advanced Player's Guide*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

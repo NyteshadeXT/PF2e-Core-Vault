@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by: [[Feats/Twinned Defense (Fighter)|Twinned Defense (Fighter)]] or [[Feats/Twinned Defense (Swashbuckler)|Twinned Defense (Swashbuckler)]]
+Granted by [[Feats/Twinned Defense (Fighter)|Twinned Defense (Fighter)]] or [[Feats/Twinned Defense (Swashbuckler)|Twinned Defense (Swashbuckler)]]
 
 * * *
 

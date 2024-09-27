@@ -6,6 +6,7 @@ cssClasses: pf2e
 aliases: "Compendium.pf2e.strength-of-thousands-bestiary.Actor.hVBzcyoDCdTCM4E6" 
 tags:
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/16
 statblock: inline
 name: "Shobhad Enforcer"
@@ -20,10 +21,10 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #173: Doorway to the Red Star"
 name: "Shobhad Enforcer"
 level: "Creature 16"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Large"
-trait_01: "humanoid"
+trait_01: [[humanoid]]
 modifier: 29
 perception:
   - name: "Perception"
@@ -69,8 +70,14 @@ attacks:
     desc: "`pf2:1` Fist +31 (agile, finesse, magical, nonlethal, reach 10 feet, unarmed)\n__Damage__  2d4 + 15 bludgeoning"
 
   - name: "Brutal Blows"
-    desc: "`pf2:2`  **Requirements** The shobhad enforcer has at least two free hands\n**Effect** The shobhad enforcer makes a fist Strike against an adjacent creature. If the Strike hits, the enforcer automatically [[Actions/Grapple|Grapples]] its target and makes a second fist Strike with the following success conditions.\nThe second Strike applies the enforcer's multiple attack penalty normally.\n**Critical Success** The target is [[Conditions/Stunned 1|Stunned 1]], and [[Conditions/Stupefied 1|Stupefied 2]] for 1 round.\n**Success** The target is [[Conditions/Stupefied 1|Stupefied 1]] for 1 round."
+    desc: "`pf2:2`  **Requirements** The shobhad enforcer has at least two free hands\n* * *\n\n**Effect** The shobhad enforcer makes a fist Strike against an adjacent creature. If the Strike hits, the enforcer automatically [[Actions/Grapple|Grapples]] its target and makes a second fist Strike with the following success conditions.\n\nThe second Strike applies the enforcer's multiple attack penalty normally.\n* * *\n\n**Critical Success** The target is [[Conditions/Stunned|Stunned 1]], and [[Conditions/Stupefied|Stupefied 2]] for 1 round.\n\n**Success** The target is [[Conditions/Stupefied|Stupefied 1]] for 1 round."
  
+```
+
+```encounter-table
+name: Shobhad Enforcer
+creatures:
+  - 1: Shobhad Enforcer
 ```
 
 

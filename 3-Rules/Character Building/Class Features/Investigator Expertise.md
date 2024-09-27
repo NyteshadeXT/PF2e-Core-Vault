@@ -6,8 +6,9 @@ tags:
   - trait/investigator
   - trait/common
   - category/classfeature
+  - remaster
 aliases: "Compendium.pf2e.classfeatures.Item.PFvB79O2VFdiAeSj"
-license: OGL
+license: ORC
 ---
 # Investigator Expertise
 ## Feat 9
@@ -24,5 +25,5 @@ You've refined your investigative techniques to an exceptional degree. Your circ
 
 If you have [[Feats/Detective's Readiness|Detective's Readiness]], [[Feat_Feature Effects/Effect_ Clue In (Detective's Readiness, Expertise)|Effect: Clue In (Detective's Readiness, Expertise)]]
 
-*Source: Pathfinder Advanced Player's Guide*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

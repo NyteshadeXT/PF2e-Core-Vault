@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/amphibious
   - pf2e/creature/type/chaotic
   - pf2e/creature/type/evil
+  - pf2eMonster
   - pf2e/creature/level/1
 statblock: inline
 name: "Smilglen Daet"
@@ -23,13 +24,13 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Bounty #15: Treasure off the Coast"
 name: "Smilglen Daet"
 level: "Creature 1"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Small"
-trait_01: "aberration"
-trait_02: "amphibious"
-trait_03: "chaotic"
-trait_04: "evil"
+trait_01: [[aberration]]
+trait_02: [[amphibious]]
+trait_03: [[chaotic]]
+trait_04: [[evil]]
 modifier: 5
 perception:
   - name: "Perception"
@@ -56,7 +57,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "[[Bestiary Ability Glossary/Attack of Opportunity|Attack of Opportunity (Special)]]"
-    desc: "`pf2:r`  Smilglen Daet gains 1 extra reaction at the start of each of her turns that she can use only to make an Attack of Opportunity with a tentacle. She can't use more than one Attack of Opportunity triggered by the same choice.\n"
+    desc: "`pf2:r`  Smilglen Daet gains 1 extra reaction at the start of each of her turns that she can use only to make an Attack of Opportunity with a tentacle. She can't use more than one Attack of Opportunity triggered by the same choice.\n\n* * *\n"
 
 attacks:
   - name: ""
@@ -82,6 +83,12 @@ attacks:
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
     desc: "`pf2:1`  "
  
+```
+
+```encounter-table
+name: Smilglen Daet
+creatures:
+  - 1: Smilglen Daet
 ```
 
 

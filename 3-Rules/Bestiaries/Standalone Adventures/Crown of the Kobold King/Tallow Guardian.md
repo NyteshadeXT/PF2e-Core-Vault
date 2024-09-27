@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.crown-of-the-kobold-king-bestiary.Actor.2D2sECCnlFT8X8
 tags:
   - pf2e/creature/type/construct
   - pf2e/creature/type/mindless
+  - pf2eMonster
   - pf2e/creature/level/7
 statblock: inline
 name: "Tallow Guardian"
@@ -21,15 +22,16 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Adventure: Crown of the Kobold King"
 name: "Tallow Guardian"
 level: "Creature 7"
-rare_03: "Rare"
+rare_03: [[Rare]]
 alignment: ""
 size: "Medium"
-trait_01: "construct"
-trait_02: "mindless"
+trait_01: [[construct]]
+trait_02: [[mindless]]
 modifier: 13
 perception:
   - name: "Perception"
     desc: "+13; Darkvision"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Athletics: +17"
@@ -57,7 +59,7 @@ abilities_mid:
     desc: "  If a tallow guardian takes any fire damage, its body melts somewhat and becomes even more difficult to damage. Until the end of its next turn, its resistance to slashing and piercing damage increases to 10, and its resistance to bludgeoning damage increases to 5."
 
   - name: "Slowed by Cold"
-    desc: "  If a tallow guardian takes any cold damage, it loses the benefits granted by melt and becomes [[Conditions/Slowed 1|Slowed 1]]."
+    desc: "  If a tallow guardian takes any cold damage, it loses the benefits granted by melt and becomes [[Conditions/Slowed|Slowed 1]]."
 
 attacks:
   - name: ""
@@ -66,8 +68,14 @@ attacks:
     desc: "`pf2:1` Fist +18 (magical)\n__Damage__  2d8 + 8 bludgeoning plus grab 1d6 fire plus grab"
 
   - name: "Encase"
-    desc: "`pf2:1` (attack) The tallow guardian attempts to pull a Medium or smaller creature it has [[Conditions/Grabbed|Grabbed]] into its body. The tallow guardian attempts an Athletics check check opposed by the grabbed creature's Reflex DC. If it succeeds, it encases the creature with its body. An encased creature is grabbed, is [[Conditions/Slowed 1|Slowed 1]], and must hold its breath or start suffocating. It takes 2d6 fire damage from the tallow guardian's molten hot wax when it's first encased, and at the end of each of its turns while it's encased.\nA tallow guardian can only have one encased creature at a time; if a tallow guardian encases a new creature, a previously encased creature is forced out of its body into an adjacent square of the creature's choice.\nAn encased creature can break free with a successful DC 22 check to [[Actions/Escape|Escape]]. An encased creature can attack the tallow guardian, but only with unarmed attacks or with weapons of light Bulk or less. The tallow guardian is [[Conditions/Off-Guard|Off-Guard]] against the attack. If the tallow guardian takes 7 or more bludgeoning or slashing damage from an encased creature, the creature wrenches itself free. A creature that gets free by either method can immediately breathe and exits the tallow guardian's space, but it continues to take 1d6 persistent fire damage from the molten wax that clings to its body.\nIf a tallow guardian is destroyed, any creature it has encased is automatically released as the guardian's body collapses into a shapeless mound of tallow."
+    desc: "`pf2:1` (attack) The tallow guardian attempts to pull a Medium or smaller creature it has [[Conditions/Grabbed|Grabbed]] into its body. The tallow guardian attempts an Athletics check check opposed by the grabbed creature's Reflex DC. If it succeeds, it encases the creature with its body. An encased creature is grabbed, is [[Conditions/Slowed|Slowed 1]], and must hold its breath or start suffocating. It takes 2d6 fire damage from the tallow guardian's molten hot wax when it's first encased, and at the end of each of its turns while it's encased.\n\nA tallow guardian can only have one encased creature at a time; if a tallow guardian encases a new creature, a previously encased creature is forced out of its body into an adjacent square of the creature's choice.\n\nAn encased creature can break free with a successful DC 22 check to [[Actions/Escape|Escape]]. An encased creature can attack the tallow guardian, but only with unarmed attacks or with weapons of light Bulk or less. The tallow guardian is [[Conditions/Off-Guard|Off-Guard]] against the attack. If the tallow guardian takes 7 or more bludgeoning or slashing damage from an encased creature, the creature wrenches itself free. A creature that gets free by either method can immediately breathe and exits the tallow guardian's space, but it continues to take 1d6 persistent fire damage from the molten wax that clings to its body.\n\nIf a tallow guardian is destroyed, any creature it has encased is automatically released as the guardian's body collapses into a shapeless mound of tallow."
  
+```
+
+```encounter-table
+name: Tallow Guardian
+creatures:
+  - 1: Tallow Guardian
 ```
 
 

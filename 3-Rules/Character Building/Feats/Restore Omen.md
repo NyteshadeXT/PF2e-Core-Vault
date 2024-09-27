@@ -28,5 +28,5 @@ You spend 10 minutes meditating with your harrow deck, then draw a card. The sui
 
 [[Feat_Feature Effects/Effect_ Harrow Omen|Effect: Harrow Omen]]
 
-*Source: Pathfinder: Stolen Fate Player's Guide*
+*Source: Pathfinder Stolen Fate Player's Guide*
 *OGL*

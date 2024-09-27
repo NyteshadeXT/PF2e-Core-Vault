@@ -10,6 +10,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/fiend
   - pf2e/creature/type/unholy
+  - pf2eMonster
   - pf2e/creature/level/10
 statblock: inline
 name: "Piscodaemon"
@@ -28,16 +29,16 @@ level: "Creature 10"
 
 alignment: ""
 size: "Medium"
-trait_01: "amphibious"
-trait_02: "daemon"
-trait_03: "evil"
-trait_04: "fiend"
-trait_05: "unholy"
+trait_01: [[amphibious]]
+trait_02: [[daemon]]
+trait_03: [[evil]]
+trait_04: [[fiend]]
+trait_05: [[unholy]]
 modifier: 19
 perception:
   - name: "Perception"
     desc: "+19; Darkvision, See the Unseen"
-languages: "Common, Daemonic"
+languages: "Common, Daemonic; telepathy 100 feet"
 skills:
   - name: "Skills"
     desc: "Athletics: +22, Intimidation: +19, Medicine: +17, Stealth: +22, Survival: +19"
@@ -62,7 +63,7 @@ abilities_mid:
     desc: "`pf2:r`  "
 
   - name: "Enhance Venom"
-    desc: "`pf2:r` (divine,misfortune,poison) **Trigger** A creature within 30 feet attempts a saving throw against piscovenom\n**Effect** The creature takes an additional 2d8 poison damage even if it succeeds at its save."
+    desc: "`pf2:r` (divine,misfortune,poison) **Trigger** A creature within 30 feet attempts a saving throw against piscovenom\n* * *\n\n**Effect** The creature takes an additional 2d8 poison damage even if it succeeds at its save."
 
 attacks:
   - name: ""
@@ -77,17 +78,23 @@ attacks:
     desc: "DC 29, attack +19; __5th __  _[[Spells/Translocate|Dimension Door]]_; __4th __  _[[Spells/Translocate|Dimension Door (At will)]]_, _[[Spells/Stinking Cloud|Stinking Cloud (x3)]]_; __1st __  _[[Spells/Detect Alignment|Detect Alignment (At will) (Good Only)]]_, _[[Spells/Detect Poison|Detect Poison (At will)]]_\n__Constant__  __(2nd)__ _[[Spells/See the Unseen|See Invisibility]]_"
 
   - name: "[[Bestiary Ability Glossary/Constrict|Constrict]]"
-    desc: "`pf2:1`  2d10 + 6 bludgeoning damage, DC 30 Fortitude check\n"
+    desc: "`pf2:1`  2d10+6 bludgeoning damage, DC 30 Fortitude check\n\n* * *\n"
 
   - name: "Gory Rend"
     desc: "`pf2:2`  The piscodaemon makes two claw Strikes against the same creature. If both hit, the creature takes 2d10 bleed and is exposed to piscovenom."
 
   - name: "Piscovenom"
-    desc: " (poison) **Saving Throw** DC 30 Fortitude check\n**Maximum Duration** 6 rounds\n**Stage 1** 1d8 poison damage and [[Conditions/Enfeebled 1|Enfeebled 1]] (1 round)\n**Stage 2** 2d8 poison damage and [[Conditions/Enfeebled 1|Enfeebled 1]] (1 round)\n**Stage 3** 4d8 poison damage and [[Conditions/Enfeebled 1|Enfeebled 2]] (1 round)"
+    desc: " (poison) **Saving Throw** DC 30 Fortitude check\n\n**Maximum Duration** 6 rounds\n\n**Stage 1** 1d8 poison damage and [[Conditions/Enfeebled|Enfeebled 1]] (1 round)\n\n**Stage 2** 2d8 poison damage and [[Conditions/Enfeebled|Enfeebled 1]] (1 round)\n\n**Stage 3** 4d8 poison damage and [[Conditions/Enfeebled|Enfeebled 2]] (1 round)"
 
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
     desc: "`pf2:1`  "
  
+```
+
+```encounter-table
+name: Piscodaemon
+creatures:
+  - 1: Piscodaemon
 ```
 
 

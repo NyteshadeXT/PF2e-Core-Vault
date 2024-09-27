@@ -5,6 +5,7 @@ noteType: pf2eHazard
 tags:
   - magical
   - trap
+  - pf2eHazard
 
 source: Pathfinder #200: Seven Dooms for Sandpoint
 aliases: "Compendium.pf2e.seven-dooms-for-sandpoint-bestiary.Actor.uuOCbfwxKCiiiawW" 
@@ -22,8 +23,8 @@ name: "The Three Steps"
 level: "Hazard 5"
 
 
-trait_01: "magical"
-trait_02: "trap"
+trait_01: [[magical]]
+trait_02: [[trap]]
 modifier: 13
 sourcebook: "_Pathfinder #200: Seven Dooms for Sandpoint_"
 perception:
@@ -42,10 +43,16 @@ attacks:
   - name: ""
 
   - name: "Wrathful Blast"
-    desc: "`pf2:r` **Trigger** A creature ends its turn in the room.\n**Effect** Beams of energy fan out of the Sihedrons on the east and west wall, causing 9d6 energy damage (DC 22 Reflex check save) to all creatures in the room. The trap in area **B4a** deals 9d6 fire damage, the one in **B4b** 9d6 cold damage, and the one in **B4c** 9d6 poison damage."
+    desc: "`pf2:r` **Trigger** A creature ends its turn in the room.\n* * *\n\n**Effect** Beams of energy fan out of the Sihedrons on the east and west wall, causing 9d6 energy damage (DC 22 Reflex check save) to all creatures in the room. The trap in area **B4a** deals 9d6 fire damage, the one in **B4b** 9d6 cold damage, and the one in **B4c** 9d6 poison damage."
 
 
   - name: "Reset"
     desc: "Each trap resets automatically in 10 minutes."
+```
+
+```encounter-table
+name: The Three Steps
+creatures:
+  - 1: The Three Steps
 ```
 

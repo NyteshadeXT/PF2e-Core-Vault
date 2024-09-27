@@ -10,8 +10,9 @@ tags:
   - trait/reach
   - trait/uncommon
   - category/advanced
+  - remaster
 aliases: "Compendium.pf2e.equipment-srd.Item.QAEVaSQ3SCT8AuBX"
-license: OGL
+license: ORC
 ---
 # Whip Claw
 ## Item 0
@@ -26,7 +27,7 @@ license: OGL
 
 
 
-The whip claw is a long tether affixed to clawlike daggers, allowing the wielder to fling and retract them with deadly precision. Catfolk developed this weapon to provide extended reach when hunting dangerous animals and wield them with unmatched expertise.
+The whip claw is a long tether affixed to claw-like daggers, allowing the wielder to fling and retract them with deadly precision. Catfolk first developed this weapon to provide extended reach when hunting dangerous animals, and they wield them with unmatched expertise.
 
-*Source: Pathfinder Lost Omens: Ancestry Guide*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

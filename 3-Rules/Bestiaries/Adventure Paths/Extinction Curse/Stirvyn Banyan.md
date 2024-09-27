@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.extinction-curse-bestiary.Actor.tPvr9zvUfktMIvYU"
 tags:
   - pf2e/creature/type/human
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/12
 statblock: inline
 name: "Stirvyn Banyan"
@@ -21,11 +22,11 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #154: Siege of the Dinosaurs"
 name: "Stirvyn Banyan"
 level: "Creature 12"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Medium"
-trait_01: "human"
-trait_02: "humanoid"
+trait_01: [[human]]
+trait_02: [[humanoid]]
 modifier: 21
 perception:
   - name: "Perception"
@@ -53,7 +54,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Duck Away"
-    desc: "`pf2:r` (concentrate,move) **Trigger** Stirvyn is targeted with an attack and is adjacent to an ally\n**Effect** Stirvyn and the ally swap places, and the ally becomes the target of the attack."
+    desc: "`pf2:r` (concentrate,move) **Trigger** Stirvyn is targeted with an attack and is adjacent to an ally\n* * *\n\n**Effect** Stirvyn and the ally swap places, and the ally becomes the target of the attack."
 
 attacks:
   - name: ""
@@ -71,7 +72,7 @@ attacks:
     desc: "DC 32, attack +24; __5th __  _[[Spells/Phantom Pain|Phantom Pain]]_, _[[Spells/Synaptic Pulse|Synaptic Pulse]]_, _[[Spells/Synesthesia|Synesthesia]]_; __4th __  _[[Spells/Rewrite Memory|Modify Memory]]_, _[[Spells/Telepathy|Telepathy]]_; __3rd __  _[[Spells/Hypercognition|Hypercognition]]_, _[[Spells/Phantom Pain|Phantom Pain]]_; __2nd __  _[[Spells/Paranoia|Paranoia]]_; __1st __ (6 slots) _[[Spells/Mindlink|Mindlink]]_, _[[Spells/Phantom Pain|Phantom Pain]]_\n__Cantrips__  __(6th)__ _[[Spells/Daze|Daze]]_"
 
   - name: "Bloodline Magic"
-    desc: "  When Stirvyn casts a bloodline spell, a surge of ancestral memories grants either him or a target of the spell a +1 status bonus to skill checks for 1 round.\n[[Bestiary Effects/Effect_ Bloodline Magic (Stirvyn Banyan)|Effect: Bloodline Magic (Stirvyn Banyan)]]"
+    desc: "  When Stirvyn casts a bloodline spell, a surge of ancestral memories grants either him or a target of the spell a +1 status bonus to skill checks for 1 round.\n\n[[Bestiary Effects/Effect_ Bloodline Magic (Stirvyn Banyan)|Effect: Bloodline Magic (Stirvyn Banyan)]]"
 
   - name: "Dangerous Sorcery"
     desc: "  When Stirvyn Casts a Spell from a spell slot, if the spell deals damage and doesn't have a duration, he gains a status bonus to that spell's damage equal to the spell's rank."
@@ -79,6 +80,12 @@ attacks:
   - name: "Steady Spellcasting"
     desc: "  If a would disrupt Stirvyn's spellcasting action, he attempts a DC 15 Flat check check. On a success, the action isn't disrupted."
  
+```
+
+```encounter-table
+name: Stirvyn Banyan
+creatures:
+  - 1: Stirvyn Banyan
 ```
 
 

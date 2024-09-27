@@ -15,7 +15,7 @@ license: ORC
 ---
 # Animal Staff
 ## Item 4
-### [[magical]][[staff]][[two-hand-d8]]
+### [[3-Rules/Rule References/Magical]][[3-Rules/Character Building/Equipment/Staff]][[two-hand-d8]]
 
 |  |  |
 | -- | -- |
@@ -28,7 +28,9 @@ license: ORC
 
 This staff is topped with carved animal and monster heads. While wielding the staff, you gain a +2 circumstance bonus to Nature checks to identify animals.
 
-**Activate** Cast a Spell; **Effect** You expend a number of charges from the staff to cast a spell from its list.
+**Activate** Cast a Spell
+
+**Effect** You expend a number of charges from the staff to cast a spell from its list.
 
 * * *
 

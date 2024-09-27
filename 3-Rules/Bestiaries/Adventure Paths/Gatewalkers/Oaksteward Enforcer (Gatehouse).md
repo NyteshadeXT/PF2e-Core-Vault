@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/human
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/0
 statblock: inline
 name: "Oaksteward Enforcer (Gatehouse)"
@@ -22,12 +23,12 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #187: The Seventh Arch"
 name: "Oaksteward Enforcer (Gatehouse)"
 level: "Creature 0"
-rare_03: "Rare"
+rare_03: [[Rare]]
 alignment: ""
 size: "Medium"
-trait_01: "evil"
-trait_02: "human"
-trait_03: "humanoid"
+trait_01: [[evil]]
+trait_02: [[human]]
+trait_03: [[humanoid]]
 modifier: 6
 perception:
   - name: "Perception"
@@ -67,8 +68,14 @@ attacks:
     desc: "DC 16, attack +8; __1st __  _[[Spells/Runic Body|Magic Fang]]_, _[[Spells/Shillelagh|Shillelagh]]_\n__Cantrips__  __(1st)__ _[[Spells/Light|Light]]_, _[[Spells/Ray of Frost|Ray of Frost]]_, _[[Spells/Stabilize|Stabilize]]_, _[[Spells/Tangle Vine|Tanglefoot]]_"
 
   - name: "Wild Shape"
-    desc: "`pf2:2` (morph,primal) **Frequency** once per day\n**Effect** The Oaksteward's hands transform into wild claws for 1 minute.\n[[Bestiary Effects/Effect_ Wild Shape (Oaksteward)|Effect: Wild Shape (Oaksteward)]]"
+    desc: "`pf2:2` (morph,primal) **Frequency** once per day\n* * *\n\n**Effect** The Oaksteward's hands transform into wild claws for 1 minute.\n\n[[Bestiary Effects/Effect_ Wild Shape (Oaksteward)|Effect: Wild Shape (Oaksteward)]]"
  
+```
+
+```encounter-table
+name: Oaksteward Enforcer (Gatehouse)
+creatures:
+  - 1: Oaksteward Enforcer (Gatehouse)
 ```
 
 

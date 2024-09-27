@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/humanoid
   - pf2e/creature/type/morlock
+  - pf2eMonster
   - pf2e/creature/level/3
 statblock: inline
 name: "Hobji"
@@ -23,13 +24,13 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #175: Broken Tusk Moon"
 name: "Hobji"
 level: "Creature 3"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Medium"
-trait_01: "chaotic"
-trait_02: "evil"
-trait_03: "humanoid"
-trait_04: "morlock"
+trait_01: [[chaotic]]
+trait_02: [[evil]]
+trait_03: [[humanoid]]
+trait_04: [[morlock]]
 modifier: 8
 perception:
   - name: "Perception"
@@ -37,7 +38,7 @@ perception:
 languages: "Sakvroth"
 skills:
   - name: "Skills"
-    desc: "Athletics: +9 (+11 to Climb), Crafting: +6 (+8 to Craft traps), Stealth: +10, Thievery: +9"
+    desc: "Athletics: +9, Crafting: +6, Stealth: +10, Thievery: +9"
 abilityMods: [4, 2, 3, 1, 3, -1]
 speed: 30 feet,  climb 20 feet
 sourcebook: "_Pathfinder #175: Broken Tusk Moon_"
@@ -69,11 +70,17 @@ attacks:
     desc: "  Hobji's Strikes deal an additional 1d6 precision damage to [[Conditions/Off-Guard|Off-Guard]] creatures."
 
   - name: "Strangling Grasp"
-    desc: "  **Trigger** Hobji hits a Medium or smaller creature with his fist Strike\n**Effect** The creature is [[Conditions/Grabbed|Grabbed]], and Hobji begins to strangle the creature. The creature is suffocating and can't speak as long as it's strangled. This prevents it from casting spells with a verbal component or activating items with a command component."
+    desc: "  **Trigger** Hobji hits a Medium or smaller creature with his fist Strike\n* * *\n\n**Effect** The creature is [[Conditions/Grabbed|Grabbed]], and Hobji begins to strangle the creature. The creature is suffocating and can't speak as long as it's strangled. This prevents it from casting spells with a verbal component or activating items with a command component."
 
   - name: "Surprise Attack"
     desc: "  In the first round of combat, creatures that haven't acted yet are [[Conditions/Off-Guard|Off-Guard]] to Hobji."
  
+```
+
+```encounter-table
+name: Hobji
+creatures:
+  - 1: Hobji
 ```
 
 

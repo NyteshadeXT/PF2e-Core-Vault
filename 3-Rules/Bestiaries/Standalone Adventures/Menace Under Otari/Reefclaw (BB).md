@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.menace-under-otari-bestiary.Actor.eq4tLYV3efCS2ouP"
 tags:
   - pf2e/creature/type/aberration
   - pf2e/creature/type/aquatic
+  - pf2eMonster
   - pf2e/creature/level/1
   - remaster
 statblock: inline
@@ -25,15 +26,16 @@ level: "Creature 1"
 
 alignment: ""
 size: "Small"
-trait_01: "aberration"
-trait_02: "aquatic"
+trait_01: [[aberration]]
+trait_02: [[aquatic]]
 modifier: 8
 perception:
   - name: "Perception"
     desc: "+8; "
+languages: ""
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +7, Athletics: +4 (+8 to swim)"
+    desc: "Acrobatics: +7, Athletics: +4"
 abilityMods: [1, 4, 2, -3, 1, 1]
 speed: 5 feet,  swim 30 feet
 sourcebook: "_Pathfinder Beginner Box_"
@@ -69,6 +71,12 @@ attacks:
   - name: "Grab"
     desc: "`pf2:1`  When the reeflclaw succeeds at its claw Strike, it can use this action immediately after to attempt to [[Actions/Grapple|Grapple]] the target. This Grapple doesn't apply or count toward the reefclaw's multiple attack penalty."
  
+```
+
+```encounter-table
+name: Reefclaw (BB)
+creatures:
+  - 1: Reefclaw (BB)
 ```
 
 

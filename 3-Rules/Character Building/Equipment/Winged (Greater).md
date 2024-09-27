@@ -20,7 +20,7 @@ license: ORC
 
 This rune is a swirling glyph on the front of the armor. A large pair of transparent, ephemeral wings floats out from the back of the armor.
 
-**Activate** `pf2:2`command, Interact
+**Activate—Take to the Skies** `pf2:2` (concentrate, manipulate)
 
 * * *
 

@@ -16,7 +16,7 @@ license: OGL
 ---
 # Moonlit Spellgun (Minor)
 ## Item 2
-### [[attack]][[consumable]][[fire]][[3-Rules/Character Building/Spells/Light]][[magical]][[spellgun]]
+### [[attack]][[consumable]][[fire]][[light]][[magical]][[spellgun]]
 
 **Category** other; 
 **Price** 7 gp; 
@@ -31,7 +31,7 @@ Elegant silver filigree contains the body of this ephemeral item, which is made 
 
 * * *
 
-**Critical Success** The target takes double damage and is [[Conditions/Dazzled|Dazzled]] until the start of your next turn. If it has a weakness to silver or a resistance that can be bypassed by silver, it's also [[Conditions/Enfeebled 1|Enfeebled 1]] for 1 minute.
+**Critical Success** The target takes double damage and is [[Conditions/Dazzled|Dazzled]] until the start of your next turn. If it has a weakness to silver or a resistance that can be bypassed by silver, it's also [[Conditions/Enfeebled|Enfeebled 1]] for 1 minute.
 
 **Success** The target takes full damage and is dazzled until the start of your next turn.
 

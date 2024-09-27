@@ -16,16 +16,13 @@ license: OGL
 
 
 
-
-**\[Downtime\]**
-
-**Prerequisites** Tier 2 with the Envoy's Alliance
-
-**Cost** 4 Fame
+**Prerequisites** Liked by Envoy's Alliance
+* * *
+**Cost**: 4 AcP
 
 * * *
 
-**Effect** When you Craft during Downtime, you do not need to spend 4 days at work before attempting a Crafting check. However, your fellow faction members expect your assistance in return. After slotting this boon to reduce the time needed to Craft an item, you must keep it slotted until you have finished crafting that item.
+Your friends in the Envoy's Alliance share crafting materials and collaborate to create new items more efficiently. You only need to spend 1 day of downtime before attempting your skill check and subsequently beginning to reduce the item's effective cost.
 
 *Source: *
 *OGL*

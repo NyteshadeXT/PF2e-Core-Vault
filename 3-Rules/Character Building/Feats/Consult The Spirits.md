@@ -1,6 +1,6 @@
 ---
 obsidianUIMode: preview
-title: "Consult The Spirits"
+title: "Consult the Spirits"
 cssclasses: pf2e,pf2e-spell
 tags:
   - trait/general
@@ -8,10 +8,11 @@ tags:
   - trait/skill
   - trait/common
   - category/skill
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.fvYwsHM9O1twQa5N"
-license: OGL
+license: ORC
 ---
-# Consult The Spirits
+# Consult the Spirits
 ## Feat 7
 ### [[general]][[secret]][[skill]]
 
@@ -25,13 +26,7 @@ license: OGL
 
 * * *
 
-You have learned rites or meditations that enable you to perceive minor, invisible spirits within a place.
-
-Choose Nature, Occultism, or Religion when you select this feat.
-
-Nature allows you to contact the spirits of nature that form leshies, who are born of pure life essence rather than spiritual energy and can answer questions about natural features like the location of nearby water or plant life. Religion reveals the presence of angelic, demonic, or other spirits in service to divine beings, who provide information about sources of powerful vitality or void energy, sacred or profane influences, or the presence of undead. Occultism allows you to contact lingering spirits, psychic echoes of the departed dead, and spirits from beyond reality, who tell you about things like strange auras, effects, or the presence of unnatural occult beings.
-
-Spend 10 minutes and attempt a check to [[Actions/Recall Knowledge|Recall Knowledge]] with the chosen skill; the DC is determined by the GM (usually a very high DC for the level of the highest-level creature you might encounter in the area). If you're legendary in the chosen skill, you can use this feat once per hour, instead of only once per day, but you can't use it again on any area that overlaps a previous area.
+You have learned rites or meditations that enable you to perceive minor, [[Conditions/Invisible|Invisible]] spirits within a place. Choose Nature, Occultism, or Religion when you select this feat. Nature allows you to contact the spirits of nature that form leshies, who are born of pure life essence rather than spiritual energy and can answer questions about natural features like the location of nearby water or plant life. Religion reveals the presence of angelic, demonic, or other spirits in service to divine beings, who provide information about sources of powerful life energy or energy from the Void; sacred or profane influences; or the presence of undead. Occultism allows you to contact lingering spirits, psychic echoes of the departed dead, and spirits from beyond reality, who tell you about things like strange auras, effects, or the presence of unnatural occult beings. Spend 10 minutes and attempt a check to Recall Knowledge with the chosen skill; the DC is determined by the GM (usually a very high DC for the level of the highest-level creature you might encounter in the area). If you're legendary in the chosen skill, you can use this feat once per hour, instead of only once per day, but you can't use it again on any area that overlaps a previous area.
 
 * * *
 
@@ -41,11 +36,11 @@ Spend 10 minutes and attempt a check to [[Actions/Recall Knowledge|Recall Knowle
 
 **Failure** You are unable to contact the spirits of this place.
 
-**Critical Failure** You contact one or more malevolent spirits.
+**Critical Failure** You contact one or more malevolent spirits. They are hostile toward you, though they may not immediately appear so. They answer up to three questions but give you information that is harmful to you in some way, as determined by the GM.
 
-They are hostile toward you, though they may not immediately appear so. They answer up to three questions but give you information that is harmful to you in some way, as determined by the GM.
+* * *
 
 **Special** You can select this feat multiple times, each time picking a different skill in which you have the master proficiency rank. You can use this feat with each skill once per day (or once per hour, if you're legendary).
 
-*Source: Pathfinder Advanced Player's Guide*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

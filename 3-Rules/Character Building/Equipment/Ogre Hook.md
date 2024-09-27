@@ -8,8 +8,9 @@ tags:
   - trait/trip
   - trait/uncommon
   - category/martial
+  - remaster
 aliases: "Compendium.pf2e.equipment-srd.Item.Oiq3QgLrM4i3W5Hg"
-license: OGL
+license: ORC
 ---
 # Ogre Hook
 ## Item 0
@@ -26,5 +27,5 @@ license: OGL
 
 Ogres are known for using immense, curved picks called ogre hooks.
 
-*Source: Pathfinder Bestiary*
-*OGL*
+*Source: Pathfinder Lost Omens: Tian Xia Character Guide*
+*ORC*

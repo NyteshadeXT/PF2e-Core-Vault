@@ -7,8 +7,9 @@ tags:
   - trait/stance
   - trait/common
   - category/class
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.AN9jY1JVcU20Qdw6"
-license: OGL
+license: ORC
 ---
 # Wolf Stance `pf2:1`
 ## Feat 1
@@ -23,9 +24,9 @@ license: OGL
 
 * * *
 
-You enter the stance of a wolf, low to the ground with your hands held like fanged teeth. You can make wolf jaw unarmed attacks. These deal 1d8 piercing damage; are in the brawling group; and have the agile, backstabber, finesse, nonlethal, and unarmed traits.
+You enter the stance of a wolf, low to the ground with your hands held like fangs. You can make wolf jaw unarmed attacks. These deal 1d8 piercing damage; are in the brawling group; and have the agile, backstabber, finesse, nonlethal, and unarmed traits.
 
 If you're flanking a target while in Wolf Stance, your wolf jaw unarmed attacks also gain the trip trait.
 
-*Source: Pathfinder Core Rulebook*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

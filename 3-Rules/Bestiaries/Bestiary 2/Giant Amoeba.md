@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/amphibious
   - pf2e/creature/type/mindless
   - pf2e/creature/type/ooze
+  - pf2eMonster
   - pf2e/creature/level/1
 statblock: inline
 name: "Giant Amoeba"
@@ -26,13 +27,14 @@ level: "Creature 1"
 
 alignment: ""
 size: "Small"
-trait_01: "amphibious"
-trait_02: "mindless"
-trait_03: "ooze"
+trait_01: [[amphibious]]
+trait_02: [[mindless]]
+trait_03: [[ooze]]
 modifier: 4
 perception:
   - name: "Perception"
     desc: "+4; Motion Sense (Precise) 60 Feet"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Athletics: +6, Stealth: +3"
@@ -63,10 +65,10 @@ attacks:
     desc: "`pf2:1` Pseudopod +8 ()\n__Damage__  1d6 acid plus grab"
 
   - name: "[[Bestiary Ability Glossary/Constrict|Constrict]]"
-    desc: "`pf2:1`  1d4 bludgeoning plus 1d4 acid, DC 17 Fortitude check\n"
+    desc: "`pf2:1`  1d4 bludgeoning plus 1d4 acid, DC 17 Fortitude check\n\n* * *\n"
 
   - name: "Envelop"
-    desc: "`pf2:3`  **Requirements** The giant amoeba begins its turn with a target its size or smaller [[Conditions/Grabbed|Grabbed]]\n**Effect** The giant amoeba maintains the [[Bestiary Ability Glossary/Grab|Grab]] and extends pseudopods to surround the creature and pull it inside the amoeba's body. This thereafter has the same effect as if the amoeba had [[Bestiary Ability Glossary/Engulf|Engulfed]] the creature (DC 17, 1d6 acid damage, Escape DC 17, Rupture 3)."
+    desc: "`pf2:3`  **Requirements** The giant amoeba begins its turn with a target its size or smaller [[Conditions/Grabbed|Grabbed]]\n* * *\n\n**Effect** The giant amoeba maintains the [[Bestiary Ability Glossary/Grab|Grab]] and extends pseudopods to surround the creature and pull it inside the amoeba's body. This thereafter has the same effect as if the amoeba had [[Bestiary Ability Glossary/Engulf|Engulfed]] the creature (DC 17, 1d6 acid damage, Escape DC 17, Rupture 3)."
 
   - name: "Weak Acid"
     desc: "  A giant amoeba's acid damages only organic material-not metal, stone, or other inorganic substances."
@@ -74,6 +76,12 @@ attacks:
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
     desc: "`pf2:1`  "
  
+```
+
+```encounter-table
+name: Giant Amoeba
+creatures:
+  - 1: Giant Amoeba
 ```
 
 

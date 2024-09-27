@@ -12,7 +12,7 @@ license: OGL
 ---
 # Cryolite Eye
 ## Item 6
-### [rare](rare "Rare Rarity Trait")[[contract]][[invested]][[magical]]
+### [rare](rare.md "Rare Rarity Trait")[[contract]][[invested]][[3-Rules/Rule References/Magical]]
 
 
 **Price** 0 gp; 

@@ -12,7 +12,7 @@ license: OGL
 ---
 # Feyfoul (Greater)
 ## Item 14
-### [rare](rare "Rare Rarity Trait")[[alchemical]][[consumable]]
+### [rare](rare.md "Rare Rarity Trait")[[alchemical]][[consumable]]
 
 **Category** other; 
 **Price** 750 gp; 

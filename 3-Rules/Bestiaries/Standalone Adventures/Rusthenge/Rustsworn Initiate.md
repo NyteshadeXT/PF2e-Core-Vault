@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/human
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/-1
 statblock: inline
 name: "Rustsworn Initiate"
@@ -23,13 +24,13 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Adventure: Rusthenge"
 name: "Rustsworn Initiate"
 level: "Creature -1"
-rare_03: "Rare"
+rare_03: [[Rare]]
 alignment: ""
 size: "Medium"
-trait_01: "chaotic"
-trait_02: "evil"
-trait_03: "human"
-trait_04: "humanoid"
+trait_01: [[chaotic]]
+trait_02: [[evil]]
+trait_03: [[human]]
+trait_04: [[humanoid]]
 modifier: 2
 perception:
   - name: "Perception"
@@ -68,6 +69,12 @@ attacks:
   - name: "Gang Up"
     desc: "  An enemy is [[Conditions/Off-Guard|Off-Guard]] against the Rustsworn initiate's melee attacks due to flanking as long as that enemy is within both their reach and their ally's reach."
  
+```
+
+```encounter-table
+name: Rustsworn Initiate
+creatures:
+  - 1: Rustsworn Initiate
 ```
 
 

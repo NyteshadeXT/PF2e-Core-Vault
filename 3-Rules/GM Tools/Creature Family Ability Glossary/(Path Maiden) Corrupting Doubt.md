@@ -20,7 +20,7 @@ license: OGL
 
 
 
-A creature damaged by the path maiden's hand Strike must succeed at a Will save to avoid becoming [[Conditions/Slowed 1|Slowed 1]] for 1 round ([[Conditions/Slowed 1|Slowed 2]] on a critical failure).
+A creature damaged by the path maiden's hand Strike must succeed at a Will save to avoid becoming [[Conditions/Slowed|Slowed 1]] for 1 round ([[Conditions/Slowed|Slowed 2]] on a critical failure).
 
 *Source: Pathfinder #199: To Bloom Below the Web*
 *OGL*

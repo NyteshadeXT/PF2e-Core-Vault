@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/lawful
   - pf2e/creature/type/monitor
   - pf2e/creature/type/petitioner
+  - pf2eMonster
   - pf2e/creature/level/1
 statblock: inline
 name: "Petitioner (Axis)"
@@ -26,9 +27,9 @@ level: "Creature 1"
 
 alignment: ""
 size: "Medium"
-trait_01: "lawful"
-trait_02: "monitor"
-trait_03: "petitioner"
+trait_01: [[lawful]]
+trait_02: [[monitor]]
+trait_03: [[petitioner]]
 modifier: 7
 perception:
   - name: "Perception"
@@ -61,8 +62,14 @@ attacks:
     desc: "`pf2:1` Fist +7 ()\n__Damage__  1d8 + 2 bludgeoning"
 
   - name: "Planar Incarnation - Axis"
-    desc: "  All petitioners are formed from and personify the nature of the plane on which they manifest, and their statistics are adjusted as summarized below. They also gain any trait associated with creatures from their plane.\n**Axis** The unmade appear as parchment-skinned humanoids covered in lines of close black script\n*   **Alignment** LN;\n*   **Language** Utopian;\n*   **Additional Ability** immune to emotion and fear;\n*   **Melee** fist +7, **Damage** 1d8+2 bludgeoning"
+    desc: "  All petitioners are formed from and personify the nature of the plane on which they manifest, and their statistics are adjusted as summarized below. They also gain any trait associated with creatures from their plane.\n\n**Axis** The unmade appear as parchment-skinned humanoids covered in lines of close black script\n\n*   **Alignment** LN;\n*   **Language** Utopian;\n*   **Additional Ability** immune to emotion and fear;\n*   **Melee** fist +7, **Damage** 1d8+2 bludgeoning"
  
+```
+
+```encounter-table
+name: Petitioner (Axis)
+creatures:
+  - 1: Petitioner (Axis)
 ```
 
 

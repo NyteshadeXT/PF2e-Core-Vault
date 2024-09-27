@@ -24,7 +24,7 @@ This belt is covered in small pouches that clasp with buttons of painstakingly c
 
 * * *
 
-**Activate—Store Item**`pf2:1` (manipulate)
+**Activate—Store Item** `pf2:1` (manipulate)
 
 **Requirements** There is room for an item in the belt
 

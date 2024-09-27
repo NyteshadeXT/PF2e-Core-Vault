@@ -11,7 +11,7 @@ license: ORC
 ---
 # Armor Potency (+2)
 ## Item 11
-### [[magical]]
+### [[3-Rules/Rule References/Magical]]
 
 
 **Price** 1060 gp; 

@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/humanoid
   - pf2e/creature/type/orc
+  - pf2eMonster
   - pf2e/creature/level/-1
 statblock: inline
 name: "Wounded Orc Brute"
@@ -26,10 +27,10 @@ level: "Creature -1"
 
 alignment: ""
 size: "Medium"
-trait_01: "chaotic"
-trait_02: "evil"
-trait_03: "humanoid"
-trait_04: "orc"
+trait_01: [[chaotic]]
+trait_02: [[evil]]
+trait_03: [[humanoid]]
+trait_04: [[orc]]
 modifier: 5
 perception:
   - name: "Perception"
@@ -71,6 +72,12 @@ attacks:
   - name: "Ranged"
     desc: "`pf2:1` Javelin +4 (thrown 30 ft.)\n__Damage__  1d6 + 3 piercing"
  
+```
+
+```encounter-table
+name: Wounded Orc Brute
+creatures:
+  - 1: Wounded Orc Brute
 ```
 
 

@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/amphibious
   - pf2e/creature/type/beast
   - pf2e/creature/type/evil
+  - pf2eMonster
   - pf2e/creature/level/12
 statblock: inline
 name: "Maramacula"
@@ -23,12 +24,12 @@ token: [[modules/battlezoo-bestiary-su-pf2e/art/Portraits/maramacula.webp| ]]
 source: "Battlezoo Bestiary: Strange and Unusual"
 name: "Maramacula"
 level: "Creature 12"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "huge"
-trait_01: "amphibious"
-trait_02: "beast"
-trait_03: "evil"
+trait_01: [[amphibious]]
+trait_02: [[beast]]
+trait_03: [[evil]]
 modifier: 22
 perception:
   - name: "Perception"
@@ -36,7 +37,7 @@ perception:
 languages: "Common"
 skills:
   - name: "Skills"
-    desc: "Athletics: +22, Deception: +28, Diplomacy: +23, Society: +21, Stealth: +25, "
+    desc: "Athletics: +22, Deception: +28, Diplomacy: +23, Society: +21, Stealth: +25, Athletics: +22, Deception: +28, Diplomacy: +23, Society: +21, Stealth: +25"
 abilityMods: [4, 5, 2, 1, 4, 7]
 speed: 25 feet,  swim 60 feet
 sourcebook: "_Battlezoo Bestiary: Strange and Unusual_"
@@ -58,7 +59,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Cheat the Cheater"
-    desc: "  Maramacula loves to play with its prey, even if results in losing its meal. A creature can spend a single action, which has the concentrate trait, to attempt a Deception or Diplomacy check against Maramacula's Perception DC (Deception check or Diplomacy check). On a success, Maramacula is Slowed 1 for 1 round, as it's compelled to spend the missing action to respond with a better reply or lie. The effect is cumulative if creatures succeed several times in the same round, and if the slowed condition increases to 3 or more in this way, Maramacula ceases its attack and becomes friendly to the triggering creature and its allies, as long as they cease hostilities as well. If a creature attacks Maramacula after it becomes friendly in this way, Maramacula becomes temporarily immune to Cheat the Cheater for 10 minutes."
+    desc: "  Maramacula loves to play with its prey, even if results in losing its meal. A creature can spend a single action, which has the concentrate trait, to attempt a Deception or Diplomacy check against Maramacula's Perception DC (Deception check or Diplomacy check). On a success, Maramacula is [[undefined]] for 1 round, as it's compelled to spend the missing action to respond with a better reply or lie. The effect is cumulative if creatures succeed several times in the same round, and if the slowed condition increases to 3 or more in this way, Maramacula ceases its attack and becomes friendly to the triggering creature and its allies, as long as they cease hostilities as well. If a creature attacks Maramacula after it becomes friendly in this way, Maramacula becomes temporarily immune to Cheat the Cheater for 10 minutes."
 
 attacks:
   - name: ""
@@ -79,17 +80,23 @@ attacks:
     desc: "`pf2:1`  "
 
   - name: "[[Bestiary Ability Glossary/Swallow Whole|Swallow Whole]]"
-    desc: "`pf2:1` (attack) Large, [[/r (1d6+10)\[bludgeoning\],2d6\[acid]]\], Rupture 22\n"
+    desc: "`pf2:1` (attack) Large, [[/r (1d6+10)[bludgeoning],2d6[acid]]], Rupture 22\n\n* * *\n"
 
   - name: "Fast Swallow"
-    desc: "`pf2:r`  **Trigger** Maramacula Grabs a creature.\n**Effect** Maramacula uses Swallow Whole."
+    desc: "`pf2:r`  **Trigger** Maramacula Grabs a creature.\n* * *\n\n**Effect** Maramacula uses Swallow Whole."
 
   - name: "Hey! Look Out!"
-    desc: "`pf2:1` (auditory,mental) **Requirements** Maramacula has heard a specific creature speak, or use an action with the auditory or the linguistic trait\n**Effect** Maramacula imitates the creature's voice and shouts inaccurate warnings, befuddling the creature and its allies. The mimicked creature and its allies in a 20-foot emanation must attempt a DC 34 Will check save.\n**Critical Success** The creature recognizes Maramacula's schemes and is temporarily immune for 1 hour.\n**Success** The creature doesn't fall for Maramacula's schemes and is unaffected.\n**Failure** The creature is Off-Guard until the end of Maramacula's next turn.\n**Critical Failure** The creature can't completely shake off the lies coming from Maramacula's voice and distinguish it from the original's voice, even if it was their own. The creature becomes off-guard and Stupefied 1 for 1 minute."
+    desc: "`pf2:1` (auditory,mental) **Requirements** Maramacula has heard a specific creature speak, or use an action with the auditory or the linguistic trait\n* * *\n\n**Effect** Maramacula imitates the creature's voice and shouts inaccurate warnings, befuddling the creature and its allies. The mimicked creature and its allies in a 20-foot emanation must attempt a DC 34 Will check save.\n* * *\n\n**Critical Success** The creature recognizes Maramacula's schemes and is temporarily immune for 1 hour.\n\n**Success** The creature doesn't fall for Maramacula's schemes and is unaffected.\n\n**Failure** The creature is [[undefined]] until the end of Maramacula's next turn.\n\n**Critical Failure** The creature can't completely shake off the lies coming from Maramacula's voice and distinguish it from the original's voice, even if it was their own. The creature becomes off-guard and [[undefined]] for 1 minute."
 
   - name: "Slippery Slope"
     desc: "  Maramacula leaves a sticky, slippery trail on its path. Whenever it leaves a square on land, that square becomes difficult terrain for every other creature for 1 round."
  
+```
+
+```encounter-table
+name: Maramacula
+creatures:
+  - 1: Maramacula
 ```
 
 

@@ -6,6 +6,7 @@ cssClasses: pf2e
 aliases: "Compendium.pf2e.menace-under-otari-bestiary.Actor.AdQVjlOWB6rmBRVp" 
 tags:
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/3
 statblock: inline
 name: "Doppelganger (BB)"
@@ -23,11 +24,12 @@ level: "Creature 3"
 
 alignment: ""
 size: "Medium"
-trait_01: "humanoid"
+trait_01: [[humanoid]]
 modifier: 7
 perception:
   - name: "Perception"
     desc: "+7; Darkvision"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Deception: +11, Diplomacy: +11, Society: +8, Stealth: +8"
@@ -49,7 +51,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "End the Charade"
-    desc: "`pf2:r`  When the doppelganger is transformed with Change Shape and another creature moves adjacent to them or uses a Strike or another hostile action against them, the doppelganger can use its reaction to revert to its natural form and make a Strike against that creature.\nIf the creature was unaware the doppelganger was in disguise, that creature has the [[Conditions/Off-Guard|Off-Guard]] condition against this Strike."
+    desc: "`pf2:r`  When the doppelganger is transformed with Change Shape and another creature moves adjacent to them or uses a Strike or another hostile action against them, the doppelganger can use its reaction to revert to its natural form and make a Strike against that creature.\n\nIf the creature was unaware the doppelganger was in disguise, that creature has the [[Conditions/Off-Guard|Off-Guard]] condition against this Strike."
 
 attacks:
   - name: ""
@@ -63,6 +65,12 @@ attacks:
   - name: "Mind Reading"
     desc: "`pf2:2` (arcane,manipulate) The doppelganger attempts to read the surface thoughts of one creature within 30 feet. The target resists if it succeeds at a DC 21 Will check save."
  
+```
+
+```encounter-table
+name: Doppelganger (BB)
+creatures:
+  - 1: Doppelganger (BB)
 ```
 
 

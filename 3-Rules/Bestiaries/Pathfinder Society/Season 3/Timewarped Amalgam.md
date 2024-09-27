@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.pfs-season-3-bestiary.Actor.L1gzOT7o2xxJoqUD"
 tags:
   - pf2e/creature/type/aberration
   - pf2e/creature/type/mindless
+  - pf2eMonster
   - pf2e/creature/level/1
 statblock: inline
 name: "Timewarped Amalgam"
@@ -21,15 +22,16 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Society Special #3-99: Fate in the Future"
 name: "Timewarped Amalgam"
 level: "Creature 1"
-rare_03: "Rare"
+rare_03: [[Rare]]
 alignment: ""
 size: "Medium"
-trait_01: "aberration"
-trait_02: "mindless"
+trait_01: [[aberration]]
+trait_02: [[mindless]]
 modifier: 4
 perception:
   - name: "Perception"
     desc: "+4; Darkvision"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Athletics: +8"
@@ -60,8 +62,14 @@ attacks:
     desc: "`pf2:1` Wail +7 (range increment 15 feet, sonic)\n__Damage__  1d4 sonic plus anguish"
 
   - name: "Anguish"
-    desc: "  The wail of a timewarped amalgam transfers fragments of the amalgam's pain onto those who hear it. The target must succeed at a DC 17 Will check saving throw or become [[Conditions/Sickened 1|Sickened 1]] ([[Conditions/Sickened 1|Sickened 2]] on a critical failure). After attempting this save, a creature is temporarily immune to Anguish for 24 hours."
+    desc: "  The wail of a timewarped amalgam transfers fragments of the amalgam's pain onto those who hear it. The target must succeed at a DC 17 Will check saving throw or become [[Conditions/Sickened|Sickened 1]] ([[Conditions/Sickened|Sickened 2]] on a critical failure). After attempting this save, a creature is temporarily immune to Anguish for 24 hours."
  
+```
+
+```encounter-table
+name: Timewarped Amalgam
+creatures:
+  - 1: Timewarped Amalgam
 ```
 
 

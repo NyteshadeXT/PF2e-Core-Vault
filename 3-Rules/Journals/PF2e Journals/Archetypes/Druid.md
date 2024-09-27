@@ -16,11 +16,11 @@ You have entered a druidic circle and learned a few of the order's secrets, gran
 
 * * *
 
-You cast spells like a druid. You gain the Cast a Spell activity. You can prepare two common cantrips each day from the primal spell list or any other primal cantrips you learn or discover. You’re trained in the spell attack modifier and spell DC statistics. Your key spellcasting attribute for druid archetype spells is Wisdom, and they are primal druid spells.
+You cast spells like a druid. You gain the Cast a Spell activity. You can prepare two common cantrips each day from the primal spell list or any other primal cantrips you learn or discover. You're trained in the spell attack modifier and spell DC statistics. Your key spellcasting attribute for druid archetype spells is Wisdom, and they are primal druid spells.
 
-You learn the Wildsong language, and you are bound by the druid’s anathema.
+You learn the Wildsong language, and you are bound by the druid's anathema.
 
-Choose a druidic order. You become a member of that order and are also bound by its specific anathema, allowing you to take the order’s feats. You become trained in Nature and your order’s associated skill; for each of these skills in which you were already trained, you become trained in a skill of your choice. You don’t gain any other abilities from your choice of order.
+Choose a druidic order. You become a member of that order and are also bound by its specific anathema, allowing you to take the order's feats. You become trained in Nature and your order's associated skill; for each of these skills in which you were already trained, you become trained in a skill of your choice. You don't gain any other abilities from your choice of order.
 
 * * *
 
@@ -116,7 +116,7 @@ Your mask is infused with restorative magic associated with Ibex, the Flourishin
 
 * * *
 
-Your mask carries the protective instincts of White Bull, the Horn Forger, and no one will hurt your allies while you have anything to say about it. Immediately after you Cast a non-cantrip Spell that targets only one ally, you can choose to have the spell also give that creature a +1 circumstance bonus to AC until the start of your next turn. [[Feat\_Feature Effects/Effect\_ Protective Spirit Mask|Effect: Protective Spirit Mask]]
+Your mask carries the protective instincts of White Bull, the Horn Forger, and no one will hurt your allies while you have anything to say about it. Immediately after you Cast a non-cantrip Spell that targets only one ally, you can choose to have the spell also give that creature a +1 circumstance bonus to AC until the start of your next turn. [[Feat_Feature Effects/Effect_ Protective Spirit Mask|Effect: Protective Spirit Mask]]
 
 You also gain the [[Adventure-Specific Actions/Protector's Interdiction|Protector's Interdiction]] reaction.
 

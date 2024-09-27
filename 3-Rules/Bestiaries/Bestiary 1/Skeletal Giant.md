@@ -10,6 +10,7 @@ tags:
   - pf2e/creature/type/skeleton
   - pf2e/creature/type/undead
   - pf2e/creature/type/unholy
+  - pf2eMonster
   - pf2e/creature/level/3
 statblock: inline
 name: "Skeletal Giant"
@@ -28,15 +29,16 @@ level: "Creature 3"
 
 alignment: ""
 size: "Large"
-trait_01: "evil"
-trait_02: "mindless"
-trait_03: "skeleton"
-trait_04: "undead"
-trait_05: "unholy"
+trait_01: [[evil]]
+trait_02: [[mindless]]
+trait_03: [[skeleton]]
+trait_04: [[undead]]
+trait_05: [[unholy]]
 modifier: 7
 perception:
   - name: "Perception"
     desc: "+7; Darkvision"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Athletics: +12, Intimidation: +9"
@@ -71,8 +73,14 @@ attacks:
     desc: "`pf2:2`  The giant makes two Strikes with its glaive against two adjacent foes, both of whom are within its reach. The multiple attack penalty does not increase until after both attacks are resolved."
 
   - name: "Terrifying Charge"
-    desc: "`pf2:2`  The giant Strides and makes a horns Strike with a +4 circumstance bonus to damage.\nIf the strike hits, the giant attempts to [[Actions/Demoralize|Demoralize]] the target."
+    desc: "`pf2:2`  The giant Strides and makes a horns Strike with a +4 circumstance bonus to damage.\n\nIf the strike hits, the giant attempts to [[Actions/Demoralize|Demoralize]] the target."
  
+```
+
+```encounter-table
+name: Skeletal Giant
+creatures:
+  - 1: Skeletal Giant
 ```
 
 

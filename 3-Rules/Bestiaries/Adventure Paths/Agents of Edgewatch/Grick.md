@@ -6,6 +6,7 @@ cssClasses: pf2e
 aliases: "Compendium.pf2e.agents-of-edgewatch-bestiary.Actor.Bv1s6xJ55HS3Gxgs" 
 tags:
   - pf2e/creature/type/aberration
+  - pf2eMonster
   - pf2e/creature/level/3
 statblock: inline
 name: "Grick"
@@ -23,15 +24,15 @@ level: "Creature 3"
 
 alignment: ""
 size: "Medium"
-trait_01: "aberration"
+trait_01: [[aberration]]
 modifier: 12
 perception:
   - name: "Perception"
     desc: "+12; Darkvision, Scent (Imprecise) 30 Feet"
-languages: "Aklo"
+languages: "Aklo; (can&#x27;t speak any language)"
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +11, Athletics: +10, Stealth: +10 (+14 in rocky terrain), Survival: +8"
+    desc: "Acrobatics: +11, Athletics: +10, Stealth: +10, Survival: +8"
 abilityMods: [3, 4, 1, -3, 3, -1]
 speed: 30 feet,  climb 20 feet
 sourcebook: "_Pathfinder #157: Devil at the Dreaming Palace_"
@@ -67,6 +68,12 @@ attacks:
   - name: "Vermicular Movement"
     desc: "  When a grick takes a Stride action to move half its Speed or less, that movement doesn't trigger reactions."
  
+```
+
+```encounter-table
+name: Grick
+creatures:
+  - 1: Grick
 ```
 
 

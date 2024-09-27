@@ -14,7 +14,7 @@ license: OGL
 ---
 # Deflecting Branch
 ## Item 14
-### [uncommon](uncommon "Uncommon Rarity Trait")[[backswing]][[magical]][[shove]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[backswing]][[3-Rules/Rule References/Magical]][[3-Rules/trait_reference/shove]]
 
 |  |  |
 | -- | -- |

@@ -16,7 +16,7 @@ license: OGL
 ---
 # Animal Nip (Major)
 ## Item 12
-### [[alchemical]][[consumable]][[olfactory]][[plant]][[Wood]]
+### [[alchemical]][[consumable]][[olfactory]][[3-Rules/trait_reference/plant]][[wood]]
 
 **Category** other; 
 **Price** 350 gp; 

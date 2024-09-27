@@ -5,8 +5,9 @@ cssclasses: pf2e,pf2e-action
 tags:
   - trait/common
   - category/defensive
+  - remaster
 aliases: "Compendium.pf2e.actionspf2e.Item.F0JgJR2rXKOg9k1z"
-license: OGL
+license: ORC
 ---
 # Upstage `pf2:r`
 
@@ -17,7 +18,7 @@ license: OGL
 
 
 
-**Trigger** A foe attempts a skill check and doesn't get a critical success
+**Trigger** An enemy attempts a skill check and doesn't get a critical success
 
 * * *
 
@@ -29,5 +30,7 @@ After your foe has tried their best, you show everyone how it's really done. Att
 
 **Success** As critical success, except you gain the benefits only if the triggering creature failed their skill check.
 
-*Source: Pathfinder Advanced Player's Guide*
-*OGL*
+[[Feat_Feature Effects/Effect_ Upstage|Effect: Upstage]]
+
+*Source: Pathfinder Player Core 2*
+*ORC*

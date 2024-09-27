@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/clockwork
   - pf2e/creature/type/construct
   - pf2e/creature/type/mindless
+  - pf2eMonster
   - pf2e/creature/level/9
 statblock: inline
 name: "Clockwork Mage"
@@ -23,16 +24,17 @@ token: [[modules/pf2e-tokens-bestiaries/portraits/constructed/mechanical/clockwo
 source: "Pathfinder Bestiary 3"
 name: "Clockwork Mage"
 level: "Creature 9"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Medium"
-trait_01: "clockwork"
-trait_02: "construct"
-trait_03: "mindless"
+trait_01: [[clockwork]]
+trait_02: [[construct]]
+trait_03: [[mindless]]
 modifier: 17
 perception:
   - name: "Perception"
     desc: "+17; Darkvision"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Acrobatics: +17"
@@ -53,12 +55,12 @@ abilities_top:
   - name: "Items"
     desc: "[[Equipment/Magic Wand (2nd-Rank Spell)|Clockwork Wand]]"
   - name: "Wind-Up"
-    desc: "  24 hours, DC 26 Thievery check, standby\nFor a clockwork to act, it must be wound with a unique key by another creature. This takes 1 minute. Once wound, it remains operational for the listed amount of time, usually 24 hours, after which time it becomes unaware of its surroundings and can't act until it's wound again. Some clockworks' abilities require them to spend some of their remaining operational time. They can't spend more than they have and shut down immediately once they have 0 time remaining. If it's unclear when a clockwork was last wound, most clockwork keepers wind all their clockworks at a set time, typically 8 a.m.\nA clockwork that lists standby in its wind-up entry can enter standby mode as a 3-action activity. Its operational time doesn't decrease in standby, but it can sense its surroundings (with a -2 penalty to Perception). It can't act, with one exception: when it perceives a creature, it can exit standby as a reaction (rolling initiative if appropriate).\nA creature can attempt to [[Actions/Disable a Device|Disable a Device]] to wind a clockwork down (with a DC listed in the wind-up entry). For each success, the clockwork loses 1 hour of operational time. This can be done even if the clockwork is in standby mode."
+    desc: "  24 hours, DC 26 Thievery check, standby\n* * *\n\nFor a clockwork to act, it must be wound with a unique key by another creature. This takes 1 minute. Once wound, it remains operational for the listed amount of time, usually 24 hours, after which time it becomes unaware of its surroundings and can't act until it's wound again. Some clockworks' abilities require them to spend some of their remaining operational time. They can't spend more than they have and shut down immediately once they have 0 time remaining. If it's unclear when a clockwork was last wound, most clockwork keepers wind all their clockworks at a set time, typically 8 a.m.\n\nA clockwork that lists standby in its wind-up entry can enter standby mode as a 3-action activity. Its operational time doesn't decrease in standby, but it can sense its surroundings (with a -2 penalty to Perception). It can't act, with one exception: when it perceives a creature, it can exit standby as a reaction (rolling initiative if appropriate).\n\nA creature can attempt to [[Actions/Disable a Device|Disable a Device]] to wind a clockwork down (with a DC listed in the wind-up entry). For each success, the clockwork loses 1 hour of operational time. This can be done even if the clockwork is in standby mode."
 
 abilities_mid:
   - name: ""
   - name: "Clockwork Wand"
-    desc: "  The clockwork mage uses a mechanical wand as a focus to channel magical energy. This wand is built into the clockwork mage's chest, with only the crystal at the end exposed. The mage can Interact to the remove the wand, or someone else can remove it with a DC 31 Thievery check check to [[Actions/Disable a Device|Disable a Device]]. The clockwork mage becomes unable to cast any spells except cantrips while the wand is removed.\nWhen removed, the clockwork wand is a _[[Equipment/Magic Wand (2nd-Rank Spell)|Magic Wand]]_ containing the last 2nd-rank innate spell the clockwork mage cast (the GM determines the spell randomly if it has not cast any eligible spells). The spells are placed within the wand while the mage is created, and the creator can substitute other arcane spells of the appropriate rank."
+    desc: "  The clockwork mage uses a mechanical wand as a focus to channel magical energy. This wand is built into the clockwork mage's chest, with only the crystal at the end exposed. The mage can Interact to the remove the wand, or someone else can remove it with a DC 31 Thievery check check to [[Actions/Disable a Device|Disable a Device]]. The clockwork mage becomes unable to cast any spells except cantrips while the wand is removed.\n\nWhen removed, the clockwork wand is a _[[Equipment/Magic Wand (2nd-Rank Spell)|Magic Wand]]_ containing the last 2nd-rank innate spell the clockwork mage cast (the GM determines the spell randomly if it has not cast any eligible spells). The spells are placed within the wand while the mage is created, and the creator can substitute other arcane spells of the appropriate rank."
 
 attacks:
   - name: ""
@@ -67,11 +69,17 @@ attacks:
     desc: "`pf2:1` Fist +19 (agile, finesse)\n__Damage__  2d10 + 6 bludgeoning"
 
   - name: "Arcane Innate Spells"
-    desc: "DC 28, attack +20; __5th __  _[[Spells/Black Tentacles|Black Tentacles]]_, _[[Spells/Cone of Cold|Cone of Cold]]_; __4th __  _[[Spells/Flicker|Blink]]_, _[[Spells/Fly|Fly]]_, _[[Spells/Wall of Fire|Wall of Fire]]_; __3rd __  _[[Spells/Haste|Haste]]_, _[[Spells/Invisibility|Invisibility]]_, _[[Spells/Stinking Cloud|Stinking Cloud]]_; __2nd __  _[[Spells/Revealing Light|Glitterdust]]_, _[[Spells/Mist|Obscuring Mist]]_, _[[Spells/Web|Web]]_; __1st __  _[[Spells/Gentle Landing|Feather Fall]]_, _[[Spells/Floating Disk|Floating Disk]]_, _[[Spells/Grease|Grease]]_\n__Cantrips__  __(5th)__ _[[Spells/Daze|Daze]]_, _[[Spells/Detect Magic|Detect Magic]]_, _[[Spells/Ray of Frost|Ray of Frost]]_, _[[Spells/Shield|Shield]]_, _[[Spells/Tangle Vine|Tanglefoot]]_"
+    desc: "DC 28, attack +20; __5th __  _[[Spells/Black Tentacles|Black Tentacles]]_, _[[Spells/Cone of Cold|Cone of Cold]]_; __4th __  _[[Spells/Flicker|Blink]]_, _[[Spells/Fly|Fly]]_, _[[Spells/Wall of Fire|Wall of Fire]]_; __3rd __  _[[Spells/Haste|Haste]]_, _[[Spells/Invisibility|Invisibility]]_, _[[Spells/Stinking Cloud|Stinking Cloud]]_; __2nd __  _[[Spells/Revealing Light|Glitterdust]]_, _[[Spells/Mist|Obscuring Mist]]_, _[[Spells/Web|Web]]_; __1st __  _[[Spells/Gentle Landing|Feather Fall]]_, _[[Spells/Carryall|Floating Disk]]_, _[[Spells/Grease|Grease]]_\n__Cantrips__  __(5th)__ _[[Spells/Daze|Daze]]_, _[[Spells/Detect Magic|Detect Magic]]_, _[[Spells/Ray of Frost|Ray of Frost]]_, _[[Spells/Shield|Shield]]_, _[[Spells/Tangle Vine|Tanglefoot]]_"
 
   - name: "Energize Clockwork Wand"
-    desc: "`pf2:1` (concentrate) **Frequency** once per 10 minutes.\n**Effect** The clockwork mage regains a spell it has already cast that day. It must spend 1 hour of its operational time, or 2 hours if the spell is 3rd rank or higher."
+    desc: "`pf2:1` (concentrate) **Frequency** once per 10 minutes.\n* * *\n\n**Effect** The clockwork mage regains a spell it has already cast that day. It must spend 1 hour of its operational time, or 2 hours if the spell is 3rd rank or higher."
  
+```
+
+```encounter-table
+name: Clockwork Mage
+creatures:
+  - 1: Clockwork Mage
 ```
 
 

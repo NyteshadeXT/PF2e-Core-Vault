@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.outlaws-of-alkenstar-bestiary.Actor.RgGijwS8Z9fNFFO3"
 tags:
   - pf2e/creature/type/earth
   - pf2e/creature/type/elemental
+  - pf2eMonster
   - pf2e/creature/level/7
 statblock: inline
 name: "Glass Sentry"
@@ -24,8 +25,8 @@ level: "Creature 7"
 
 alignment: ""
 size: "Medium"
-trait_01: "earth"
-trait_02: "elemental"
+trait_01: [[earth]]
+trait_02: [[elemental]]
 modifier: 16
 perception:
   - name: "Perception"
@@ -33,7 +34,7 @@ perception:
 languages: "Petran"
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +14, Stealth: +14 (+17 in sand)"
+    desc: "Acrobatics: +16, Stealth: +16"
 abilityMods: [5, 2, 4, 0, 2, 1]
 speed: 25 feet,  burrow 50 feet
 sourcebook: "_Pathfinder #180: The Smoking Gun_"
@@ -66,6 +67,12 @@ attacks:
   - name: "Earth Glide"
     desc: "  A sand sentry can [[Actions/Burrow|Burrow]] through earthen matter, including rock. When it does so, it moves at its full burrow Speed, leaving no tunnels or signs of its passing."
  
+```
+
+```encounter-table
+name: Glass Sentry
+creatures:
+  - 1: Glass Sentry
 ```
 
 

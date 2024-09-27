@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.pathfinder-bestiary-3.Actor.hNW3X8MbQQ9pUMiR"
 tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/3
 statblock: inline
 name: "Buso Farmer"
@@ -25,8 +26,8 @@ level: "Creature 3"
 
 alignment: ""
 size: "Medium"
-trait_01: "evil"
-trait_02: "humanoid"
+trait_01: [[evil]]
+trait_02: [[humanoid]]
 modifier: 8
 perception:
   - name: "Perception"
@@ -34,7 +35,7 @@ perception:
 languages: "Fey, Goblin"
 skills:
   - name: "Skills"
-    desc: "Arcana: +8, Athletics: +9, Cooking Lore: +10, Farming Lore: +10, Nature: +8"
+    desc: "Arcana: +8, Athletics: +9, Nature: +8, Cooking Lore: +10, Farming Lore: +10"
 abilityMods: [4, 1, 2, 3, 1, -1]
 speed: 25 feet
 sourcebook: "_Pathfinder Bestiary 3_"
@@ -63,8 +64,14 @@ attacks:
     desc: "`pf2:1` Javelin +8 (thrown 30 ft.)\n__Damage__  1d6 + 6 piercing"
 
   - name: "Resize Plant"
-    desc: "`pf2:2` (arcane,plant,polymorph) **Frequency** twice per day.\n**Requirements** The buso touches a Small, Medium, or Large plant.\n**Effect** The plant grows or shrinks by one size, remaining that size for the next 5 minutes. If used on a plant creature, this effect has the effects of [[Spells/Enlarge|Enlarge]] or [[Spells/Shrink|Shrink]] (buso's choice). Unwilling plant creatures can attempt a DC 18 Fortitude check saving throw to resist this effect."
+    desc: "`pf2:2` (arcane,plant,polymorph) **Frequency** twice per day.\n\n**Requirements** The buso touches a Small, Medium, or Large plant.\n* * *\n\n**Effect** The plant grows or shrinks by one size, remaining that size for the next 5 minutes. If used on a plant creature, this effect has the effects of [[Spells/Enlarge|Enlarge]] or [[Spells/Shrink|Shrink]] (buso's choice). Unwilling plant creatures can attempt a DC 18 Fortitude check saving throw to resist this effect."
  
+```
+
+```encounter-table
+name: Buso Farmer
+creatures:
+  - 1: Buso Farmer
 ```
 
 

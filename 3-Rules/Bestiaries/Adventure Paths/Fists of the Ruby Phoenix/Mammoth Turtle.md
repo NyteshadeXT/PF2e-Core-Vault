@@ -6,6 +6,7 @@ cssClasses: pf2e
 aliases: "Compendium.pf2e.fists-of-the-ruby-phoenix-bestiary.Actor.rAsJXFWr1IJatEUm" 
 tags:
   - pf2e/creature/type/animal
+  - pf2eMonster
   - pf2e/creature/level/14
 statblock: inline
 name: "Mammoth Turtle"
@@ -20,14 +21,15 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #166: Despair on Danger Island"
 name: "Mammoth Turtle"
 level: "Creature 14"
-rare_03: "Rare"
+rare_03: [[Rare]]
 alignment: ""
 size: "grg"
-trait_01: "animal"
+trait_01: [[animal]]
 modifier: 24
 perception:
   - name: "Perception"
     desc: "+24; Low-Light Vision, Scent (Imprecise) 30 Feet"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Athletics: +28"
@@ -50,7 +52,7 @@ abilities_top:
     desc: "  The mammoth turtle can hold its breath for 4 hours."
 
   - name: "Fling"
-    desc: "`pf2:1`  **Requirements** The turtle has a creature grabbed in its jaws\n**Effect** The turtle flings the creature into the air from its mouth, sending it up to 10 feet up and 20 feet away. The creature falls 25 feet (assuming the turtle flings it as high as it can) and takes the appropriate amount of bludgeoning damage from the fall. (12 bludgeoning)"
+    desc: "`pf2:1`  **Requirements** The turtle has a creature grabbed in its jaws\n* * *\n\n**Effect** The turtle flings the creature into the air from its mouth, sending it up to 10 feet up and 20 feet away. The creature falls 25 feet (assuming the turtle flings it as high as it can) and takes the appropriate amount of bludgeoning damage from the fall. (12 bludgeoning)"
 
 abilities_mid:
   - name: ""
@@ -67,8 +69,14 @@ attacks:
     desc: "`pf2:1` (attack,move) The turtle tries to capsize an adjacent aquatic vessel of its size or smaller. The turtle must succeed at a DC 43 Athletics check check (reduced by 5 for each size smaller the vessel is than the turtle) or the pilot's Sailing Lore DC, whichever is higher."
 
   - name: "[[Bestiary Ability Glossary/Swallow Whole|Swallow Whole]]"
-    desc: "`pf2:1` (attack) Large, 3d12 + 10 bludgeoning, Rupture 38\n"
+    desc: "`pf2:1` (attack) Large, 3d12+10 bludgeoning, Rupture 38\n\n* * *\n"
  
+```
+
+```encounter-table
+name: Mammoth Turtle
+creatures:
+  - 1: Mammoth Turtle
 ```
 
 

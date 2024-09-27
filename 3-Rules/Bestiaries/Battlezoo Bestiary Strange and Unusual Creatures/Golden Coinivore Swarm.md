@@ -7,6 +7,7 @@ aliases: "Compendium.battlezoo-bestiary-su-pf2e.pf2e-battlezoo-su-actors.Actor.e
 tags:
   - pf2e/creature/type/aberration
   - pf2e/creature/type/swarm
+  - pf2eMonster
   - pf2e/creature/level/8
 statblock: inline
 name: "Golden Coinivore Swarm"
@@ -22,18 +23,19 @@ token: [[modules/battlezoo-bestiary-su-pf2e/art/Portraits/golden-coinivore-swarm
 source: "Battlezoo Bestiary: Strange and Unusual"
 name: "Golden Coinivore Swarm"
 level: "Creature 8"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Large"
-trait_01: "aberration"
-trait_02: "swarm"
+trait_01: [[aberration]]
+trait_02: [[swarm]]
 modifier: 16
 perception:
   - name: "Perception"
     desc: "+16; Darkvision, Scent (Imprecise) 60 Feet"
+languages: ""
 skills:
   - name: "Skills"
-    desc: "Athletics: +14, Stealth: +18, Survival: +16, "
+    desc: "Athletics: +14, Stealth: +18, Survival: +16, Athletics: +14, Stealth: +18, Survival: +16"
 abilityMods: [0, 4, 4, -4, 2, 0]
 speed: 20 feet,  climb 20 feet
 sourcebook: "_Battlezoo Bestiary: Strange and Unusual_"
@@ -55,7 +57,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "All That Glitters"
-    desc: " (aura,incapacitation,mental,occult,visual) 60 feet. Any creature within the aura that both sees the golden coinivore swarm and values gold must attempt a DC 23 Will check save to resist becoming captivated.\n**Success** The creature is unaffected and is temporarily immune for 24 hours.\n**Failure** The creature is Fascinated, and it must spend each of its actions to move closer to the golden coinivore swarm as expediently as possible, while avoiding obvious dangers. If a fascinated creature is adjacent to the golden coinivore swarm, it stays still and doesn't act. If attacked by the golden coinivore swarm, the creature is freed from the fascination at the end of the golden coinivore swarm's turn. Otherwise, the fascination lasts 1 minute, and hostile actions against the fascinated creature and its allies don't end the fascination early.\n**Critical Failure** As failure, but if attacked by the golden coinivore swarm, the creature can attempt a new save against the fascination at the start of its next turn, rather than being freed at the end of the golden coinivore swarm's turn."
+    desc: " (aura,incapacitation,mental,occult,visual) 60 feet. Any creature within the aura that both sees the golden coinivore swarm and values gold must attempt a DC 23 Will check save to resist becoming captivated.\n* * *\n\n**Success** The creature is unaffected and is temporarily immune for 24 hours.\n\n**Failure** The creature is [[undefined]], and it must spend each of its actions to move closer to the golden coinivore swarm as expediently as possible, while avoiding obvious dangers. If a fascinated creature is adjacent to the golden coinivore swarm, it stays still and doesn't act. If attacked by the golden coinivore swarm, the creature is freed from the fascination at the end of the golden coinivore swarm's turn. Otherwise, the fascination lasts 1 minute, and hostile actions against the fascinated creature and its allies don't end the fascination early.\n\n**Critical Failure** As failure, but if attacked by the golden coinivore swarm, the creature can attempt a new save against the fascination at the start of its next turn, rather than being freed at the end of the golden coinivore swarm's turn."
 
 attacks:
   - name: ""
@@ -64,8 +66,14 @@ attacks:
     desc: "`pf2:1`  The coinivores swarm over and devour creatures in their space with an endless hunger. Each enemy in the swarm's space takes 4d6 piercing damage with a DC 26 Reflex check save. Those who fail their saving throw also take 1d6 persistent piercing damage and are exposed to coinivore venom."
 
   - name: "Coinivore Venom"
-    desc: " (poison) **Saving Throw** DC 23 Fortitude check\n**Maximum Duration** 6 rounds\n**Stage 1** 1d6 poison damage and a –5-foot status penalty to all Speeds (1 round)\n**Stage 2** 1d8 poison damage and a –10-foot status penalty to all Speeds (1 round)\n**Stage 3** 2d6 poison damage and Immobilized (1 round)"
+    desc: " (poison) **Saving Throw** DC 23 Fortitude check\n\n**Maximum Duration** 6 rounds\n\n**Stage 1** 1d6 poison damage and a –5-foot status penalty to all Speeds (1 round)\n\n**Stage 2** 1d8 poison damage and a –10-foot status penalty to all Speeds (1 round)\n\n**Stage 3** 2d6 poison damage and [[undefined]] (1 round)"
  
+```
+
+```encounter-table
+name: Golden Coinivore Swarm
+creatures:
+  - 1: Golden Coinivore Swarm
 ```
 
 

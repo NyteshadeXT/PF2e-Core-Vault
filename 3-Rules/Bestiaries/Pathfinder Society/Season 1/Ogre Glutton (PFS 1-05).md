@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/giant
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/4
 statblock: inline
 name: "Ogre Glutton (PFS 1-05)"
@@ -26,10 +27,10 @@ level: "Creature 4"
 
 alignment: ""
 size: "Large"
-trait_01: "chaotic"
-trait_02: "evil"
-trait_03: "giant"
-trait_04: "humanoid"
+trait_01: [[chaotic]]
+trait_02: [[evil]]
+trait_03: [[giant]]
+trait_04: [[humanoid]]
 modifier: 6
 perception:
   - name: "Perception"
@@ -78,11 +79,17 @@ attacks:
     desc: "`pf2:2`  The ogre glutton Strides twice and makes a jaws Strike. If they damage a living creature with this Strike, the temporary Hit Points they receive from Glutton's Feast is increased to 2d4."
 
   - name: "[[Bestiary Ability Glossary/Swallow Whole|Swallow Whole]]"
-    desc: "`pf2:1` (attack) Small, 2d4 + 4 bludgeoning damage, Rupture 14\n"
+    desc: "`pf2:1` (attack) Small, 2d4+4 bludgeoning damage, Rupture 14\n\n* * *\n"
 
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
     desc: "`pf2:1`  "
  
+```
+
+```encounter-table
+name: Ogre Glutton (PFS 1-05)
+creatures:
+  - 1: Ogre Glutton (PFS 1-05)
 ```
 
 

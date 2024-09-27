@@ -5,6 +5,7 @@ noteType: pf2eHazard
 tags:
   - magical
   - trap
+  - pf2eHazard
 
 source: Pathfinder Society Scenario #2-21: In Pursuit of Water
 aliases: "Compendium.pf2e.pfs-season-2-bestiary.Actor.3KB7j8D0eMdn8Sol" 
@@ -22,8 +23,8 @@ name: "Empowered Blood (1-2)"
 level: "Hazard -1"
 
 
-trait_01: "magical"
-trait_02: "trap"
+trait_01: [[magical]]
+trait_02: [[trap]]
 modifier: 0
 sourcebook: "_Pathfinder Society Scenario #2-21: In Pursuit of Water_"
 perception:
@@ -42,10 +43,16 @@ attacks:
   - name: ""
 
   - name: "Siphon Blood"
-    desc: "`pf2:0` **Trigger** A creature is reduced to 0 HP in the magic circle\n**Effect** Sezruth (the aghash div in area **C**) gains 1 Blood Point."
+    desc: "`pf2:0` **Trigger** A creature is reduced to 0 HP in the magic circle\n* * *\n\n**Effect** Sezruth (the aghash div in area **C**) gains 1 Blood Point."
 
 
   - name: "Reset"
     desc: "The hazard resets at the beginning of each round until it is disabled"
+```
+
+```encounter-table
+name: Empowered Blood (1-2)
+creatures:
+  - 1: Empowered Blood (1-2)
 ```
 

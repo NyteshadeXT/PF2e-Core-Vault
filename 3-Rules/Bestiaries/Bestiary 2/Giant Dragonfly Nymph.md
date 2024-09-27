@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.pathfinder-bestiary-2.Actor.xarabMfYuo7yvD1N"
 tags:
   - pf2e/creature/type/animal
   - pf2e/creature/type/aquatic
+  - pf2eMonster
   - pf2e/creature/level/3
 statblock: inline
 name: "Giant Dragonfly Nymph"
@@ -25,15 +26,16 @@ level: "Creature 3"
 
 alignment: ""
 size: "Small"
-trait_01: "animal"
-trait_02: "aquatic"
+trait_01: [[animal]]
+trait_02: [[aquatic]]
 modifier: 8
 perception:
   - name: "Perception"
     desc: "+8; Low-Light Vision, Wavesense (Imprecise) 30 Feet"
+languages: ""
 skills:
   - name: "Skills"
-    desc: "Athletics: +10, Stealth: +9 (+11 in Water)"
+    desc: "Athletics: +10, Stealth: +9"
 abilityMods: [3, 2, 4, -5, 1, -5]
 speed: 10 feet,  swim 30 feet
 sourcebook: "_Pathfinder Bestiary 2_"
@@ -60,6 +62,12 @@ attacks:
   - name: "Extend Mandibles"
     desc: "`pf2:1`  The giant dragonfly nymph extends its jaws to a surprising distance. The dragonfly nymph makes a mandibles Strike with a reach of 10 feet, but the mandibles lose the agile trait for this Strike."
  
+```
+
+```encounter-table
+name: Giant Dragonfly Nymph
+creatures:
+  - 1: Giant Dragonfly Nymph
 ```
 
 

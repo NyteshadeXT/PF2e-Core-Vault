@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/aberration
   - pf2e/creature/type/chaotic
   - pf2e/creature/type/evil
+  - pf2eMonster
   - pf2e/creature/level/12
 statblock: inline
 name: "Gogiteth"
@@ -26,17 +27,17 @@ level: "Creature 12"
 
 alignment: ""
 size: "Large"
-trait_01: "aberration"
-trait_02: "chaotic"
-trait_03: "evil"
+trait_01: [[aberration]]
+trait_02: [[chaotic]]
+trait_03: [[evil]]
 modifier: 21
 perception:
   - name: "Perception"
     desc: "+21; Darkvision"
-languages: "Sakvroth"
+languages: "Sakvroth; (can&#x27;t speak)"
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +19, Athletics: +24, Stealth: +21, Survival: +17 (+24 to Track)"
+    desc: "Acrobatics: +19, Athletics: +24, Stealth: +21, Survival: +17"
 abilityMods: [6, 3, 4, -2, 1, 0]
 speed: 40 feet,  climb 30 feet
 sourcebook: "_Pathfinder Bestiary_"
@@ -55,7 +56,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Skittering Reposition"
-    desc: "`pf2:r` (move) **Trigger** A creature that starts its move outside the gogiteth's reach moves into its reach.\n**Effect** The gogiteth moves 10 feet. This does not trigger reactions."
+    desc: "`pf2:r` (move) **Trigger** A creature that starts its move outside the gogiteth's reach moves into its reach.\n* * *\n\n**Effect** The gogiteth moves 10 feet. This does not trigger reactions."
 
 attacks:
   - name: ""
@@ -70,11 +71,17 @@ attacks:
     desc: "  The gogiteth can move at its full Speed while it has a creature [[Conditions/Grabbed|Grabbed]] in its jaws, bringing the grabbed creature along."
 
   - name: "[[Bestiary Ability Glossary/Constrict|Constrict]]"
-    desc: "`pf2:1`  3d6 + 12 bludgeoning, DC 32 Fortitude check\n"
+    desc: "`pf2:1`  3d6+12 bludgeoning, DC 32 Fortitude check\n\n* * *\n"
 
   - name: "Skittering Assault"
     desc: "`pf2:2`  The gogiteth Strides three times. Once per Stride, it can attempt a leg Strike against a creature in its reach at any point during the Stride; it must make each attack against a different creature, but it doesn't apply its multiple attack penalty until after making all its Strikes. If any of the Strikes result in a critical failure, Skittering Assault ends."
  
+```
+
+```encounter-table
+name: Gogiteth
+creatures:
+  - 1: Gogiteth
 ```
 
 

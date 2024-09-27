@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/halfling
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/4
 statblock: inline
 name: "Jimbilin"
@@ -22,12 +23,12 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Adventure: The Enmity Cycle"
 name: "Jimbilin"
 level: "Creature 4"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Small"
-trait_01: "evil"
-trait_02: "halfling"
-trait_03: "humanoid"
+trait_01: [[evil]]
+trait_02: [[halfling]]
+trait_03: [[humanoid]]
 modifier: 12
 perception:
   - name: "Perception"
@@ -64,8 +65,14 @@ attacks:
     desc: "DC 21, attack +13; __2nd __  _[[Spells/Boneshaker|Boneshaker]]_, _[[Spells/Darkvision|Darkvision]]_; __1st __  _[[Spells/Bane|Bane]]_, _[[Spells/Fear|Fear]]_, _[[Spells/Harm|Harm]]_\n__Cantrips__  __(2nd)__ _[[Spells/Void Warp|Chill Touch]]_, _[[Spells/Divine Lance|Divine Lance]]_, _[[Spells/Haunting Hymn|Haunting Hymn]]_, _[[Spells/Shield|Shield]]_"
 
   - name: "Prayer of Oblivion"
-    desc: "`pf2:3` (divine,void) The priest chants a prayer to his deity that invokes the forces of nothingness.\n**Frequency** once per day\n**Effect** All enemies within 30 feet take 5d6 void damage (DC 21 Will check save)."
+    desc: "`pf2:3` (divine,void) The priest chants a prayer to his deity that invokes the forces of nothingness.\n\n**Frequency** once per day\n* * *\n\n**Effect** All enemies within 30 feet take 5d6 void damage (DC 21 Will check save)."
  
+```
+
+```encounter-table
+name: Jimbilin
+creatures:
+  - 1: Jimbilin
 ```
 
 

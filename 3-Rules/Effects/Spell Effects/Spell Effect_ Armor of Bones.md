@@ -4,8 +4,9 @@ title: "Spell Effect: Armor of Bones"
 cssclasses: pf2e,pf2e-spell
 tags:
   - trait/common
+  - remaster
 aliases: "Compendium.pf2e.spell-effects.Item.6BjslHgY01cNbKp5"
-license: OGL
+license: ORC
 ---
 # Spell Effect: Armor of Bones
 ## Level 3
@@ -18,5 +19,7 @@ license: OGL
 
 Granted by [[Spells/Armor of Bones|Armor of Bones]]
 
-*Source: Pathfinder Advanced Player's Guide*
-*OGL*
+You gain resistance to cold, electricity, fire, piercing, and slashing damage.
+
+*Source: Pathfinder Player Core 2*
+*ORC*

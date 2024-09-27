@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/fey
   - pf2e/creature/type/gremlin
+  - pf2eMonster
   - pf2e/creature/level/4
 statblock: inline
 name: "Noolik"
@@ -23,13 +24,13 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Adventure: The Enmity Cycle"
 name: "Noolik"
 level: "Creature 4"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "tiny"
-trait_01: "chaotic"
-trait_02: "evil"
-trait_03: "fey"
-trait_04: "gremlin"
+trait_01: [[chaotic]]
+trait_02: [[evil]]
+trait_03: [[fey]]
+trait_04: [[gremlin]]
 modifier: 11
 perception:
   - name: "Perception"
@@ -37,7 +38,7 @@ perception:
 languages: "Sakvroth"
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +12, Crafting: +10 (+12 traps), Deception: +8, Nature: +8, Stealth: +12, Thievery: +12"
+    desc: "Acrobatics: +12, Crafting: +10, Deception: +8, Nature: +8, Stealth: +12, Thievery: +12"
 abilityMods: [0, 6, 2, 3, 3, 3]
 speed: 30 feet
 sourcebook: "_Pathfinder Adventure: The Enmity Cycle_"
@@ -74,6 +75,12 @@ attacks:
   - name: "Trap Tinker"
     desc: "`pf2:3`  Noolik can cause a complex mechanical trap to continue longer than its normal duration. She moves up to her speed and Interacts with a trap. The trap can use its reaction during its next round as well as its routine, although its initiative doesn't change."
  
+```
+
+```encounter-table
+name: Noolik
+creatures:
+  - 1: Noolik
 ```
 
 

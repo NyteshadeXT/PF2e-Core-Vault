@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/celestial
   - pf2e/creature/type/good
   - pf2e/creature/type/holy
+  - pf2eMonster
   - pf2e/creature/level/6
 statblock: inline
 name: "Vulpinal"
@@ -27,18 +28,18 @@ level: "Creature 6"
 
 alignment: ""
 size: "Small"
-trait_01: "agathion"
-trait_02: "celestial"
-trait_03: "good"
-trait_04: "holy"
+trait_01: [[agathion]]
+trait_02: [[celestial]]
+trait_03: [[good]]
+trait_04: [[holy]]
 modifier: 15
 perception:
   - name: "Perception"
     desc: "+15; Darkvision"
-languages: "Common, Diabolic, Draconic, Empyrean"
+languages: "Common, Diabolic, Draconic, Empyrean; speak with animals, tongues"
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +12, Arcana: +15, Deception: +14, Medicine: +11, Nirvana Lore: +15, Performance: +16, Religion: +13, Society: +13, Stealth: +12"
+    desc: "Acrobatics: +12, Arcana: +15, Deception: +14, Medicine: +11, Performance: +16, Religion: +13, Society: +13, Stealth: +12, Nirvana Lore: +15"
 abilityMods: [2, 4, 4, 5, 3, 6]
 speed: 30 feet
 sourcebook: "_Pathfinder Bestiary 3_"
@@ -75,6 +76,12 @@ attacks:
   - name: "Fox's Cunning"
     desc: "  A vulpinal's core value is cunning. They can apply their knowledge and stories from their extensive travels to just about any situation in an instant. Before spending any other action on their turn, the vulpinal can Recall Knowledge as a free action."
  
+```
+
+```encounter-table
+name: Vulpinal
+creatures:
+  - 1: Vulpinal
 ```
 
 

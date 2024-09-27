@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/aberration
   - pf2e/creature/type/chaotic
   - pf2e/creature/type/evil
+  - pf2eMonster
   - pf2e/creature/level/15
 statblock: inline
 name: "Neothelid"
@@ -23,17 +24,17 @@ token: [[modules/pf2e-tokens-bestiaries/portraits/aberrant/eldritch/neothelid.we
 source: "Pathfinder Bestiary 2"
 name: "Neothelid"
 level: "Creature 15"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "grg"
-trait_01: "aberration"
-trait_02: "chaotic"
-trait_03: "evil"
+trait_01: [[aberration]]
+trait_02: [[chaotic]]
+trait_03: [[evil]]
 modifier: 29
 perception:
   - name: "Perception"
-    desc: "+29; Greater Darkvision, Thoughtsense (Imprecise) 100 Feet"
-languages: "Aklo, Alghollthu, Sakvroth"
+    desc: "+29; Greater Darkvision, Thoughtsense (Precise) 100 Feet"
+languages: "Aklo, Alghollthu, Sakvroth; telepathy 100 feet"
 skills:
   - name: "Skills"
     desc: "Acrobatics: +25, Athletics: +28, Deception: +29, Diplomacy: +27, Intimidation: +29, Occultism: +29"
@@ -52,13 +53,13 @@ health:
 abilities_top:
   - name: ""
 
-  - name: "Thoughtsense"
+  - name: "Thoughtsense (Precise) 100 feet"
     desc: " (mental,occult) The neothelid uses its mind as a precise sense at the listed range to notice all non-mindless creatures."
 
 abilities_mid:
   - name: ""
   - name: "Dimensional Wormhole"
-    desc: "`pf2:r` (occult,teleportation) **Trigger** A creature the neothelid is aware of uses a teleportation effect\n**Effect** The neothelid creates an extradimensional wormhole at the triggering creature's initial location that persists for up to 1 minute. If the neothelid moves into the wormhole's space, the neothelid teleports to the same destination as the triggering creature."
+    desc: "`pf2:r` (occult,teleportation) **Trigger** A creature the neothelid is aware of uses a teleportation effect\n* * *\n\n**Effect** The neothelid creates an extradimensional wormhole at the triggering creature's initial location that persists for up to 1 minute. If the neothelid moves into the wormhole's space, the neothelid teleports to the same destination as the triggering creature."
 
 attacks:
   - name: ""
@@ -76,17 +77,23 @@ attacks:
     desc: "_[[Spells/Geas|Geas]]_, _[[Spells/Inveigle|Inveigle]]_"
 
   - name: "Breath Weapon"
-    desc: "`pf2:2` (acid,occult) The neothelid breathes a spray of acid that deals 16d6 acid damage in a 60-foot cone (DC 38 Reflex check save).\nThe neothelid can't use Breath Weapon again for 1d4 rounds."
+    desc: "`pf2:2` (acid,occult) The neothelid breathes a spray of acid that deals 16d6 acid damage in a @Template[cone|distance:60] (DC 38 Reflex check save).\n\nThe neothelid can't use Breath Weapon again for 1d4 rounds."
 
   - name: "Instant Suggestion"
-    desc: "`pf2:r`  **Trigger** A creature fails a Will save against a spell or effect created by the neothelid\n**Effect** The neothelid casts a [[Spells/Suggestion|Suggestion]] spell it has available on the creature that failed its Will save."
+    desc: "`pf2:r`  **Trigger** A creature fails a Will save against a spell or effect created by the neothelid\n* * *\n\n**Effect** The neothelid casts a [[Spells/Suggestion|Suggestion]] spell it has available on the creature that failed its Will save."
 
   - name: "Lashing Tongues"
     desc: "`pf2:2`  The neothelid's four tongues lash out in a frenzy at several targets. It makes up to four rasping tongue Strikes, each against a different target. These attacks count toward the neothelid's multiple attack penalty, but the multiple attack penalty doesn't increase until after the neothelid makes all of its attacks."
 
   - name: "[[Bestiary Ability Glossary/Swallow Whole|Swallow Whole]]"
-    desc: "`pf2:1` (attack) Large, 2d12 bludgeoning plus 2d12 acid, Rupture 27\n"
+    desc: "`pf2:1` (attack) Large, 2d12 bludgeoning plus 2d12 acid, Rupture 27\n\n* * *\n"
  
+```
+
+```encounter-table
+name: Neothelid
+creatures:
+  - 1: Neothelid
 ```
 
 

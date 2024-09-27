@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/human
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/1
 statblock: inline
 name: "Ninth Army Bodyguard"
@@ -23,13 +24,13 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Society Scenario #3-11: No Time for Treason"
 name: "Ninth Army Bodyguard"
 level: "Creature 1"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Medium"
-trait_01: "chaotic"
-trait_02: "evil"
-trait_03: "human"
-trait_04: "humanoid"
+trait_01: [[chaotic]]
+trait_02: [[evil]]
+trait_03: [[human]]
+trait_04: [[humanoid]]
 modifier: 8
 perception:
   - name: "Perception"
@@ -66,8 +67,14 @@ attacks:
     desc: "`pf2:1` Sap +7 (agile, nonlethal)\n__Damage__  1d6 + 4 bludgeoning"
 
   - name: "Bodyguard's Defense"
-    desc: "`pf2:2`  The bodyguard selects one creature they can see and hear within 30 feet. That creature gains a +2 circumstance bonus to AC as long as the bodyguard is adjacent to the chosen creature and can act; this bonus lasts until the start of the bodyguard's next turn.\n[[Bestiary Effects/Effect_ Bodyguard's Defense|Effect: Bodyguard's Defense]]"
+    desc: "`pf2:2`  The bodyguard selects one creature they can see and hear within 30 feet. That creature gains a +2 circumstance bonus to AC as long as the bodyguard is adjacent to the chosen creature and can act; this bonus lasts until the start of the bodyguard's next turn.\n\n[[Bestiary Effects/Effect_ Bodyguard's Defense|Effect: Bodyguard's Defense]]"
  
+```
+
+```encounter-table
+name: Ninth Army Bodyguard
+creatures:
+  - 1: Ninth Army Bodyguard
 ```
 
 

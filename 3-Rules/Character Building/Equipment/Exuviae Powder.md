@@ -14,7 +14,7 @@ license: OGL
 ---
 # Exuviae Powder
 ## Item 14
-### [rare](rare "Rare Rarity Trait")[[alchemical]][[consumable]][[Earth]]
+### [rare](rare.md "Rare Rarity Trait")[[alchemical]][[consumable]][[3-Rules/trait_reference/earth]]
 
 **Category** other; 
 **Price** 750 gp; 
@@ -33,7 +33,7 @@ _Exuviae powder_ comes from cast-off shells of cicada-like insects native to the
 
 * * *
 
-**Effect** The powder petrifies like a shell around you instead, and its other effects end. The powder causes you to become [[Conditions/Quickened|Quickened]] for 1 minute as well as [[Conditions/Doomed 1|Doomed 1]] and [[Conditions/Restrained|Restrained]] ([[Actions/Escape|Escape]] DC 25). You can use the extra action each round only for Escape and Stride actions.
+**Effect** The powder petrifies like a shell around you instead, and its other effects end. The powder causes you to become [[Conditions/Quickened|Quickened]] for 1 minute as well as [[Conditions/Doomed|Doomed 1]] and [[Conditions/Restrained|Restrained]] ([[Actions/Escape|Escape]] DC 25). You can use the extra action each round only for Escape and Stride actions.
 
 *Source: Pathfinder Rage of Elements*
 *OGL*

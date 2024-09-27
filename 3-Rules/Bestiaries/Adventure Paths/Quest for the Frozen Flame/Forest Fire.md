@@ -5,6 +5,7 @@ noteType: pf2eHazard
 tags:
   - environmental
   - fire
+  - pf2eHazard
   - complex
 source: Pathfinder #176: Lost Mammoth Valley
 aliases: "Compendium.pf2e.quest-for-the-frozen-flame-bestiary.Actor.XhzGe3CAlugFu8AM" 
@@ -22,14 +23,14 @@ name: "Forest Fire"
 level: "Hazard 4"
 
 trait_06: "Complex"
-trait_01: "environmental"
-trait_02: "fire"
+trait_01: [[environmental]]
+trait_02: [[fire]]
 modifier: -10
 sourcebook: "_Pathfinder #176: Lost Mammoth Valley_"
 ac: 10
 armorclass:
   - name: AC
-    desc: "10; __Fort__ +0, __Ref__ +0, __Will__ +0"
+    desc: "10; "
 hp: 0
 health:
   - name: ""
@@ -51,10 +52,16 @@ attacks:
   - name: ""
 
   - name: "Stoke Flames"
-    desc: "`pf2:r` **Trigger** A brimorak urges the fire to spread out of control\n**Effect** The bonfire becomes a forest fire and rolls initiative."
+    desc: "`pf2:r` **Trigger** A brimorak urges the fire to spread out of control\n* * *\n\n**Effect** The bonfire becomes a forest fire and rolls initiative."
 
   - name: "Routine"
-    desc: "On its turn, the fire spreads into a number of additional squares equal to half the number of squares the fire currently occupies (minimum 1 square). You determine the squares the fire spreads into. Any creature that ends its turn next to the flames takes 2d8 + 5 fire damage, or 4d8 + 10 fire damage if it ended its turn within the flames (DC 25 Reflex check in either case). A creature can take damage from the forest fire only once per round."
+    desc: "On its turn, the fire spreads into a number of additional squares equal to half the number of squares the fire currently occupies (minimum 1 square). You determine the squares the fire spreads into. Any creature that ends its turn next to the flames takes 2d8+5 fire damage, or 4d8+10 fire damage if it ended its turn within the flames (DC 25 Reflex check in either case). A creature can take damage from the forest fire only once per round."
 
+```
+
+```encounter-table
+name: Forest Fire
+creatures:
+  - 1: Forest Fire
 ```
 

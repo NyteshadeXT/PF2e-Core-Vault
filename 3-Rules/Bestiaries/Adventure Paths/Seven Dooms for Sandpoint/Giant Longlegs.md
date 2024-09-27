@@ -6,6 +6,7 @@ cssClasses: pf2e
 aliases: "Compendium.pf2e.seven-dooms-for-sandpoint-bestiary.Actor.vzEP8QvlJm0OZVWv" 
 tags:
   - pf2e/creature/type/animal
+  - pf2eMonster
   - pf2e/creature/level/3
 statblock: inline
 name: "Giant Longlegs"
@@ -20,14 +21,15 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #200: Seven Dooms for Sandpoint"
 name: "Giant Longlegs"
 level: "Creature 3"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Small"
-trait_01: "animal"
+trait_01: [[animal]]
 modifier: 8
 perception:
   - name: "Perception"
     desc: "+8; Darkvision"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Acrobatics: +10, Athletics: +9, Stealth: +10"
@@ -61,8 +63,14 @@ attacks:
     desc: "`pf2:1`  The giant longlegs begins to bob up and down, using its legs almost like springs to cause its body to bounce and sway in an unsettling manner. Until the start of the giant longlegs's next turn, it gains a +2 status bonus to its Armor Class."
 
   - name: "Noxious Spray"
-    desc: "`pf2:2` (olfactory,poison) The giant longlegs sprays a noxious chemical onto a single adjacent target, who must attempt a DC 20 Fortitude check save. The giant longlegs can't use Noxious Spray for 1 minute.\n**Critical Success** The creature is unaffected and temporarily immune to Noxious Spray for 1 minute.\n**Success** The creature is unaffected.\n**Failure** The creature is [[Conditions/Sickened 1|Sickened 1]].\n**Critical Failure** The creature is [[Conditions/Sickened 1|Sickened 2]] and [[Conditions/Enfeebled 1|Enfeebled 1]] for as long as they remain sickened."
+    desc: "`pf2:2` (olfactory,poison) The giant longlegs sprays a noxious chemical onto a single adjacent target, who must attempt a DC 20 Fortitude check save. The giant longlegs can't use Noxious Spray for 1 minute.\n* * *\n\n**Critical Success** The creature is unaffected and temporarily immune to Noxious Spray for 1 minute.\n\n**Success** The creature is unaffected.\n\n**Failure** The creature is [[Conditions/Sickened|Sickened 1]].\n\n**Critical Failure** The creature is [[Conditions/Sickened|Sickened 2]] and [[Conditions/Enfeebled|Enfeebled 1]] for as long as they remain sickened."
  
+```
+
+```encounter-table
+name: Giant Longlegs
+creatures:
+  - 1: Giant Longlegs
 ```
 
 

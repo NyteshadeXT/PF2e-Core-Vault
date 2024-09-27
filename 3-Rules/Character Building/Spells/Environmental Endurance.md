@@ -4,29 +4,42 @@ title: "Environmental Endurance"
 noteType: pf2eSpell
 cssclasses: pf2e,pf2e-spell
 tags:
+  - pf2eSpell
   - spell/level/2
   - trait/concentrate
   - trait/exploration
   - trait/manipulate
   - trait/common
+  - tradition/arcane
+  - tradition/divine
+  - tradition/primal
+
   - remaster
 aliases: "Compendium.pf2e.spells-srd.Item.5esP2GVzvxWsMgaX" 
+license: ORC
 ---
-# Environmental Endurance   
-## Spell 2
-### [[concentrate]][[exploration]][[manipulate]]
-**Traditions** [[arcane]], [[divine]], [[primal]]
-**Cast** 10 minutes**Range** touch
-**Targets** 1 willing creature
-**Duration** until your next daily preparations
-* * * 
-You shield the target against dangerous temperatures. Choose severe cold or heat. The target is protected from the temperature you chose (but not extreme cold or heat).
+```statblock
+name: "Environmental Endurance "
+level: "Spell 2"
 
-* * *
-
-**Heightened (3rd)** The target is protected from severe cold and severe heat.
-
-**Heightened (5th)** The target is protected from severe cold, severe heat, extreme cold, and extreme heat.
-
-*Source: Pathfinder Player Core*
-*ORC*
+trait_01: [[concentrate]]
+trait_02: [[exploration]]
+trait_03: [[manipulate]]
+layout: Basic Pathfinder 2e Layout
+columns: 1
+columnWidth: x
+abilities_top:
+  - name: ""
+  - name: "Traditions"
+    desc: "arcane, divine, primal"
+  - name: "Cast"
+    desc: "10 minutes"
+  - name: "Range"
+    desc: "touch; **Targets** 1 willing creature"
+  - name: "Duration"
+    desc: "until your next daily preparations"
+abilities_mid:
+  - name: ""
+    desc: "You shield the target against dangerous temperatures. Choose severe cold or heat. The target is protected from the temperature you chose (but not extreme cold or heat).\n* * *\n\n**Heightened (3rd)** The target is protected from severe cold and severe heat.\n\n**Heightened (5th)** The target is protected from severe cold, severe heat, extreme cold, and extreme heat."
+sourcebook: "_Pathfinder Player Core_"
+```

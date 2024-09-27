@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.kingmaker-bestiary.Actor.OhuPV1g5LfejhtAz"
 tags:
   - pf2e/creature/type/chaotic
   - pf2e/creature/type/fey
+  - pf2eMonster
   - pf2e/creature/level/18
 statblock: inline
 name: "The Horned Hunter"
@@ -21,11 +22,11 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Kingmaker"
 name: "The Horned Hunter"
 level: "Creature 18"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Medium"
-trait_01: "chaotic"
-trait_02: "fey"
+trait_01: [[chaotic]]
+trait_02: [[fey]]
 modifier: 35
 perception:
   - name: "Perception"
@@ -33,7 +34,7 @@ perception:
 languages: "Common, Fey"
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +35, Athletics: +35, First World Lore: +32, Nature: +33, Stealth: +35, Survival: +33"
+    desc: "Acrobatics: +35, Athletics: +35, Nature: +33, Stealth: +35, Survival: +33, First World Lore: +32"
 abilityMods: [8, 6, 6, 4, 6, 8]
 speed: 35 feet
 sourcebook: "_Pathfinder Kingmaker_"
@@ -54,7 +55,7 @@ abilities_top:
     desc: "  Before she sent him into the Material Plane, Nyrissa used the power of her home within the Fable (see area **M7c**) to forge a link with the Horned Hunter. During his time on the Material Plane, she can observe the world as if seeing through his eyes and listening through his ears. She cannot bolster the Horned Hunter via this link, and uses it primarily to spy on the PCs and observe their tactics in preparation for what she hopes never occurs-their invasion of Thousandbreaths. If the Horned Hunter claims Briar, the sword causes this link to Nyrissa to end immediately."
 
   - name: "Sylvan Wine"
-    desc: " (mental,primal) A satyr's wineskin magically enchants any alcohol inside. With an Interact action, a living creature can imbibe the alcohol and gain a +3 item bonus to Will saves for the following hour. When the wineskin is removed from a satyr's person, the magic remains only until the wine spoils. The wineskin holds up to eight drafts of wine.\n[[Bestiary Effects/Effect_ Sylvan Wine (Horned Hunter)|Effect: Sylvan Wine (Horned Hunter)]]"
+    desc: " (mental,primal) A satyr's wineskin magically enchants any alcohol inside. With an Interact action, a living creature can imbibe the alcohol and gain a +3 item bonus to Will saves for the following hour. When the wineskin is removed from a satyr's person, the magic remains only until the wine spoils. The wineskin holds up to eight drafts of wine.\n\n[[Bestiary Effects/Effect_ Sylvan Wine (Horned Hunter)|Effect: Sylvan Wine (Horned Hunter)]]"
 
 abilities_mid:
   - name: ""
@@ -80,7 +81,7 @@ attacks:
     desc: "  The Horned Hunter gains the critical specialization effect for any bow he wields."
 
   - name: "Fleet Performer"
-    desc: "`pf2:r`  **Trigger** The Horned Hunter Plays the Pipes\n**Effect** The Horned Hunter Steps or Strides."
+    desc: "`pf2:r`  **Trigger** The Horned Hunter Plays the Pipes\n* * *\n\n**Effect** The Horned Hunter Steps or Strides."
 
   - name: "Hunt Prey"
     desc: "`pf2:1` (concentrate) The Horned Hunter designates a single creature he can see or hear as his prey. He gains a +2 circumstance bonus to Perception checks when he [[Actions/Seek|Seeks]] his prey and a +2 circumstance bonus to Survival when he [[Actions/Track|Tracks]] his prey, and he ignores the penalty for making ranged attacks within his second range increment against his prey. He can have only one creature designated as prey at a time. If he uses Hunt Prey against a creature when he already has a creature designated, the prior creature loses the designation and the new prey gains the designation. Otherwise, a designation lasts until his next daily preparations."
@@ -89,8 +90,14 @@ attacks:
     desc: "  The Horned Hunter's multiple attack penalty for attacks against his hunted prey is -3 (-2 with an agile weapon) on his second attack in a turn, and -6 (-4 with an agile weapon) on his third or subsequent attacks. The first time he hits his hunted prey in a round, he deals 2d8 additional precision damage."
 
   - name: "Play the Pipes"
-    desc: "`pf2:3` (auditory,primal) **Requirements** The satyr is holding a musical instrument.\n**Effect** The satyr plays a melody on his instrument to cast [[Spells/Charm|Charm]], [[Spells/Fear|Fear]], [[Spells/Sleep|Sleep]], or [[Spells/Suggestion|Suggestion]] without expending the spell slot and using his music in place of providing the spell's component actions. The spell gains the auditory trait and targets all creatures in a 60-foot emanation instead of its usual targets. A creature that succeeds at its Will save against any spell is then temporarily immune from spells played from that satyr's pipes for 1 minute. Satyrs are immune to this music."
+    desc: "`pf2:3` (auditory,primal) **Requirements** The satyr is holding a musical instrument.\n* * *\n\n**Effect** The satyr plays a melody on his instrument to cast [[Spells/Charm|Charm]], [[Spells/Fear|Fear]], [[Spells/Sleep|Sleep]], or [[Spells/Suggestion|Suggestion]] without expending the spell slot and using his music in place of providing the spell's component actions. The spell gains the auditory trait and targets all creatures in a @Template[emanation|distance:60] instead of its usual targets. A creature that succeeds at its Will save against any spell is then temporarily immune from spells played from that satyr's pipes for 1 minute. Satyrs are immune to this music."
  
+```
+
+```encounter-table
+name: The Horned Hunter
+creatures:
+  - 1: The Horned Hunter
 ```
 
 

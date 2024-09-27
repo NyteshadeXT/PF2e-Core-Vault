@@ -6,8 +6,9 @@ tags:
   - trait/lizardfolk
   - trait/common
   - category/ancestry
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.X1SPiYJqWzqwzPTs"
-license: OGL
+license: ORC
 ---
 # Primal Rampage
 ## Feat 13
@@ -18,7 +19,7 @@ license: OGL
 
 
 
-You tap into the unstoppable, primeval strength of your ancient kin. You gain [[Spells/Unfettered Movement|Unfettered Movement]] and [[Spells/Mountain Resilience|Mountain Resilience]] as 4th-rank primal innate spells that you can cast once per day. As a 3-action activity, you can Cast a Spell twice to cast both of these innate spells, as long as they are both still available for the day.
+You gain [[Spells/Unfettered Movement|Unfettered Movement]] and [[Spells/Mountain Resilience|Mountain Resilience]] as 4th-rank primal innate spells that you can cast once per day. As a 3-action activity, you can Cast a Spell twice to cast both of these innate spells, as long as they are both still available for the day.
 
-*Source: Pathfinder Lost Omens: World Guide*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

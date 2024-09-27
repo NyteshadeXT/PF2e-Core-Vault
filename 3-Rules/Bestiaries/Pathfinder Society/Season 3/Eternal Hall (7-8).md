@@ -5,6 +5,7 @@ noteType: pf2eHazard
 tags:
   - magical
   - trap
+  - pf2eHazard
 
 source: Pathfinder Society Special #3-99: Fate in the Future
 aliases: "Compendium.pf2e.pfs-season-3-bestiary.Actor.tU0JjT2Hxbi8bPJW" 
@@ -22,8 +23,8 @@ name: "Eternal Hall (7-8)"
 level: "Hazard 7"
 
 
-trait_01: "magical"
-trait_02: "trap"
+trait_01: [[magical]]
+trait_02: [[trap]]
 modifier: 20
 sourcebook: "_Pathfinder Society Special #3-99: Fate in the Future_"
 perception:
@@ -42,9 +43,15 @@ attacks:
   - name: ""
 
   - name: "Time Press"
-    desc: "`pf2:r` (occult) **Trigger** A creature enters the hall\n**Effect** Time weighs upon the creature, dealing 4d10 + 18 bludgeoning damage (DC 25 Fortitude check save). On a critical failure, the creature is [[Conditions/Slowed 1|Slowed 1]] for 4 rounds."
+    desc: "`pf2:r` (occult) **Trigger** A creature enters the hall\n* * *\n\n**Effect** Time weighs upon the creature, dealing 4d10+18 bludgeoning damage (DC 25 Fortitude check save). On a critical failure, the creature is [[Conditions/Slowed|Slowed 1]] for 4 rounds."
 
 
 
+```
+
+```encounter-table
+name: Eternal Hall (7-8)
+creatures:
+  - 1: Eternal Hall (7-8)
 ```
 

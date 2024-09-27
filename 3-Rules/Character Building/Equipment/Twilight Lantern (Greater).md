@@ -11,7 +11,7 @@ license: OGL
 ---
 # Twilight Lantern (Greater)
 ## Item 14
-### [uncommon](uncommon "Uncommon Rarity Trait")[[3-Rules/Character Building/Spells/Light]][[magical]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[light]][[magical]]
 
 
 **Price** 3700 gp; 

@@ -27,7 +27,7 @@ license: OGL
 
 * * *
 
-As your overwhelming psyche fells a creature, you use its flickering consciousness to detonate psychic energy from the creature's head. Each enemy you reduced to 0 Hit Points dies and its head explodes. Each exploding head generates a shockwave in a 15-foot emanation around that enemy. Each creature in any of the emanations takes 10d6 bludgeoning damage with a Reflex check. If this damage reduces an enemy to 0 Hit Points, its head also explodes, potentially damaging more creatures and potentially causing more detonations. A given creature can take damage only once from a single use of Cranial Detonation.
+As your overwhelming psyche fells a creature, you use its flickering consciousness to detonate psychic energy from the creature's head. Each enemy you reduced to 0 Hit Points dies and its head explodes. Each exploding head generates a shockwave in a @Template\[emanation|distance:15\] around that enemy. Each creature in any of the emanations takes 10d6 bludgeoning damage with a Reflex check. If this damage reduces an enemy to 0 Hit Points, its head also explodes, potentially damaging more creatures and potentially causing more detonations. A given creature can take damage only once from a single use of Cranial Detonation.
 
 *Source: Pathfinder Dark Archive*
 *OGL*

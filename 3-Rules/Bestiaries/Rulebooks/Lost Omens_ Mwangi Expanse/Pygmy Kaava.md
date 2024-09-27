@@ -6,6 +6,7 @@ cssClasses: pf2e
 aliases: "Compendium.pf2e.lost-omens-mwangi-expanse-bestiary.Actor.EyGpKm5MkHepWuNM" 
 tags:
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/0
 statblock: inline
 name: "Pygmy Kaava"
@@ -23,7 +24,7 @@ level: "Creature 0"
 
 alignment: ""
 size: "Small"
-trait_01: "humanoid"
+trait_01: [[humanoid]]
 modifier: 6
 perception:
   - name: "Perception"
@@ -31,7 +32,7 @@ perception:
 languages: "Kaava, Mwangi"
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +5, Intimidation: +4, Stealth: +7 (+9 in forests or jungles), Survival: +6"
+    desc: "Acrobatics: +5, Intimidation: +4, Stealth: +7, Survival: +6"
 abilityMods: [2, 3, 1, 1, 2, 0]
 speed: 30 feet
 sourcebook: "_Pathfinder Lost Omens: The Mwangi Expanse_"
@@ -68,6 +69,12 @@ attacks:
   - name: "Woodland Stride"
     desc: "  A kaava ignores difficult terrain and greater difficult terrain from non-magical foliage."
  
+```
+
+```encounter-table
+name: Pygmy Kaava
+creatures:
+  - 1: Pygmy Kaava
 ```
 
 

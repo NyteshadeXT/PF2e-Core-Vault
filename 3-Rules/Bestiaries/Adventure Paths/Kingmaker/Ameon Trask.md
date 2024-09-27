@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/human
   - pf2e/creature/type/humanoid
   - pf2e/creature/type/lawful
+  - pf2eMonster
   - pf2e/creature/level/10
 statblock: inline
 name: "Ameon Trask"
@@ -23,13 +24,13 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Kingmaker"
 name: "Ameon Trask"
 level: "Creature 10"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Medium"
-trait_01: "evil"
-trait_02: "human"
-trait_03: "humanoid"
-trait_04: "lawful"
+trait_01: [[evil]]
+trait_02: [[human]]
+trait_03: [[humanoid]]
+trait_04: [[lawful]]
 modifier: 16
 perception:
   - name: "Perception"
@@ -80,6 +81,12 @@ attacks:
   - name: "Twin Parry"
     desc: "`pf2:1`  Ameon uses his two short swords to parry attacks. He gains a +2 circumstance bonus to AC until the start of his next turn, but loses this bonus if he no longer wields a weapon in each hand."
  
+```
+
+```encounter-table
+name: Ameon Trask
+creatures:
+  - 1: Ameon Trask
 ```
 
 

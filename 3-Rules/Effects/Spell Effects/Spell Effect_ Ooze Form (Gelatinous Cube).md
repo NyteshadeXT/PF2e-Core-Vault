@@ -32,7 +32,7 @@ You also gain specific abilities based on the ooze:
 
 *   **Gelatinous Cube** Speed 15 feet;
     *   **Melee** `pf2:1` cube face, **Damage** 1d6+5 acid;
-    *   a creature hit by your cube face Strike must succeed at a Fortitude save against your spell DC or be [[Conditions/Stunned 1|Stunned 1]] (or [[Conditions/Paralyzed|Paralyzed]] for 1 round on a critical failure); this save has the incapacitation trait.
+    *   a creature hit by your cube face Strike must succeed at a Fortitude save against your spell DC or be [[Conditions/Stunned|Stunned 1]] (or [[Conditions/Paralyzed|Paralyzed]] for 1 round on a critical failure); this save has the incapacitation trait.
 
 * * *
 

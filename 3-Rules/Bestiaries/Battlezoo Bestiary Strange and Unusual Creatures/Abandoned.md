@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/undead
   - pf2e/creature/type/unholy
+  - pf2eMonster
   - pf2e/creature/level/2
 statblock: inline
 name: "Abandoned"
@@ -23,20 +24,20 @@ token: [[modules/battlezoo-bestiary-su-pf2e/art/Portraits/abandoned.webp| ]]
 source: "Battlezoo Bestiary: Strange and Unusual"
 name: "Abandoned"
 level: "Creature 2"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Medium"
-trait_01: "evil"
-trait_02: "undead"
-trait_03: "unholy"
+trait_01: [[evil]]
+trait_02: [[undead]]
+trait_03: [[unholy]]
 modifier: 5
 perception:
   - name: "Perception"
     desc: "+5; Darkvision"
-languages: "Common"
+languages: "Common; can&#x27;t speak any language"
 skills:
   - name: "Skills"
-    desc: "Athletics: +8, "
+    desc: "Athletics: +8, Athletics: +8"
 abilityMods: [4, 1, 4, -3, 1, -3]
 speed: 25 feet
 sourcebook: "_Battlezoo Bestiary: Strange and Unusual_"
@@ -53,12 +54,12 @@ abilities_top:
   - name: ""
 
   - name: "Blinded by Grief"
-    desc: "  An abandoned's eyes are filled with bitter necrotic tears, which slowly leak out, leaving smoking wounds on their cheeks. This mixture hampers the abandoned's vision, causing it to be Dazzled in most circumstances. Once an abandoned has used Malicious Tears three times in the same 10 minute period, it loses the dazzled condition but also no longer meets the requirements to use Malicious Tears. The dazzled condition returns after 10 minutes, as the creature's decaying tear ducts produce more necrotic tears."
+    desc: "  An abandoned's eyes are filled with bitter necrotic tears, which slowly leak out, leaving smoking wounds on their cheeks. This mixture hampers the abandoned's vision, causing it to be [[undefined]] in most circumstances. Once an abandoned has used Malicious Tears three times in the same 10 minute period, it loses the dazzled condition but also no longer meets the requirements to use Malicious Tears. The dazzled condition returns after 10 minutes, as the creature's decaying tear ducts produce more necrotic tears."
 
 abilities_mid:
   - name: ""
   - name: "Sorrow of Isolation"
-    desc: " (aura,emotion,mental) 20 feet. The weight of isolation hangs around an abandoned, and enemies who draw too close can be overwhelmed by the emotion. Any enemy that enters the aura must attempt a DC 15 Will check save, with the following effects.\n**Success** The creature is unaffected\n**Failure** The creature can't assist its allies for 1 minute. It no longer grants flanking and can't Aid its allies.\n**Critical Failure** As failure, and the creature becomes so desperate to restore its sense of companionship that it encroaches on its allies' personal space. On its turn, if the creature isn't adjacent to an ally, it must move until it's adjacent to an ally before taking any other actions."
+    desc: " (aura,emotion,mental) 20 feet. The weight of isolation hangs around an abandoned, and enemies who draw too close can be overwhelmed by the emotion. Any enemy that enters the aura must attempt a DC 15 Will check save, with the following effects.\n* * *\n\n**Success** The creature is unaffected\n\n**Failure** The creature can't assist its allies for 1 minute. It no longer grants flanking and can't Aid its allies.\n\n**Critical Failure** As failure, and the creature becomes so desperate to restore its sense of companionship that it encroaches on its allies' personal space. On its turn, if the creature isn't adjacent to an ally, it must move until it's adjacent to an ally before taking any other actions."
 
 attacks:
   - name: ""
@@ -70,14 +71,20 @@ attacks:
     desc: "`pf2:1` Caustic Bile +9 (range 20 feet)\n__Damage__  1d8 + 4 acid"
 
   - name: "Retributive Torrent"
-    desc: "`pf2:r`  **Requirements** The abandoned is Dazzled by its necrotic tears\n**Trigger** The abandoned takes slashing damage from a creature within 15 feet\n**Effect** The abandoned uses Malicious Tears; the cone must include the triggering creature."
+    desc: "`pf2:r`  **Requirements** The abandoned is [[undefined]] by its necrotic tears\n\n**Trigger** The abandoned takes slashing damage from a creature within 15 feet\n* * *\n\n**Effect** The abandoned uses Malicious Tears; the cone must include the triggering creature."
 
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
     desc: "`pf2:1`  "
 
   - name: "Malicious Tears"
-    desc: "`pf2:2` (incapacitation,poison) **Requirements** The abandoned is Dazzled by Blinded by Grief\n**Effect** The abandoned sprays a 15-foot cone of liquid, composed of bitter necrotic tears of isolation. Creatures in the area must attempt a DC 18 Fortitude check save, with the following effects.\n**Critical Success** The creature is unaffected.\n**Success** The creature is dazzled for 1 round.\n**Failure** The creature is Blinded for 1 round.\n**Critical Failure** The creature is blinded for 1 minute."
+    desc: "`pf2:2` (incapacitation,poison) **Requirements** The abandoned is [[undefined]] by Blinded by Grief\n* * *\n\n**Effect** The abandoned sprays a 15-foot cone of liquid, composed of bitter necrotic tears of isolation. Creatures in the area must attempt a DC 18 Fortitude check save, with the following effects.\n* * *\n\n**Critical Success** The creature is unaffected.\n\n**Success** The creature is dazzled for 1 round.\n\n**Failure** The creature is [[undefined]] for 1 round.\n\n**Critical Failure** The creature is blinded for 1 minute."
  
+```
+
+```encounter-table
+name: Abandoned
+creatures:
+  - 1: Abandoned
 ```
 
 

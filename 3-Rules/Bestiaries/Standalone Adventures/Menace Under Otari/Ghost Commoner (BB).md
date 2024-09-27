@@ -10,6 +10,7 @@ tags:
   - pf2e/creature/type/spirit
   - pf2e/creature/type/undead
   - pf2e/creature/type/unholy
+  - pf2eMonster
   - pf2e/creature/level/4
   - remaster
 statblock: inline
@@ -28,15 +29,16 @@ level: "Creature 4"
 
 alignment: ""
 size: "Medium"
-trait_01: "ghost"
-trait_02: "incorporeal"
-trait_03: "spirit"
-trait_04: "undead"
-trait_05: "unholy"
+trait_01: [[ghost]]
+trait_02: [[incorporeal]]
+trait_03: [[spirit]]
+trait_04: [[undead]]
+trait_05: [[unholy]]
 modifier: 10
 perception:
   - name: "Perception"
     desc: "+10; Darkvision"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Stealth: +12"
@@ -73,8 +75,14 @@ attacks:
     desc: "`pf2:1` Ghostly Hand +13 (agile, finesse, magical)\n__Damage__  2d6 + 2 void"
 
   - name: "[[Creature Family Ability Glossary/(Ghost) Frightful Moan|Frightful Moan]]"
-    desc: "`pf2:2` (divine,fear,mental) Each living creature within 30 feet who hears the ghost must attempt a DC 21 Will check save. On a failure, a creature gains the [[Conditions/Frightened 1|Frightened 2]] condition (or [[Conditions/Frightened 1|Frightened 3]] on a critical failure).\nOn a success, a creature can't be affected by this ghost's Frightful Moan for 1 minute."
+    desc: "`pf2:2` (divine,fear,mental) Each living creature within 30 feet who hears the ghost must attempt a DC 21 Will check save. On a failure, a creature gains the [[Conditions/Frightened|Frightened 2]] condition (or [[Conditions/Frightened|Frightened 3]] on a critical failure).\n\nOn a success, a creature can't be affected by this ghost's Frightful Moan for 1 minute."
  
+```
+
+```encounter-table
+name: Ghost Commoner (BB)
+creatures:
+  - 1: Ghost Commoner (BB)
 ```
 
 

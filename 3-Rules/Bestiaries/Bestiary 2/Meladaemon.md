@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/fiend
   - pf2e/creature/type/unholy
+  - pf2eMonster
   - pf2e/creature/level/11
 statblock: inline
 name: "Meladaemon"
@@ -27,15 +28,15 @@ level: "Creature 11"
 
 alignment: ""
 size: "Large"
-trait_01: "daemon"
-trait_02: "evil"
-trait_03: "fiend"
-trait_04: "unholy"
+trait_01: [[daemon]]
+trait_02: [[evil]]
+trait_03: [[fiend]]
+trait_04: [[unholy]]
 modifier: 21
 perception:
   - name: "Perception"
     desc: "+21; Darkvision, Lifesense (Imprecise) 30 Feet"
-languages: "Common, Daemonic"
+languages: "Common, Daemonic; telepathy 100 feet"
 skills:
   - name: "Skills"
     desc: "Acrobatics: +20, Deception: +23, Intimidation: +23, Religion: +20, Stealth: +23, Survival: +19"
@@ -60,7 +61,7 @@ abilities_mid:
     desc: " (aura,divine) 20 feet. A meladaemon emanates an aura of intense hunger. Each round a creature begins its turn in the aura, it must attempt a DC 27 Fortitude check save. On a failure, the creature takes 1d6 void damage (2d6 void damage on a critical failure) and becomes [[Conditions/Fatigued|Fatigued]]. This fatigue ends as soon as the creature eats any food."
 
   - name: "Withering Opportunity"
-    desc: "`pf2:r`  **Trigger** The meladaemon is attacked by an adjacent creature and the attack misses\n**Effect** The meladaemon swipes at the triggering creature, which must immediately attempt a save against the meladaemon's withering touch."
+    desc: "`pf2:r`  **Trigger** The meladaemon is attacked by an adjacent creature and the attack misses\n* * *\n\n**Effect** The meladaemon swipes at the triggering creature, which must immediately attempt a save against the meladaemon's withering touch."
 
 attacks:
   - name: ""
@@ -78,7 +79,7 @@ attacks:
     desc: "_[[Spells/Blight|Blight]]_"
 
   - name: "Daemonic Famine"
-    desc: " (disease) **Saving Throw** DC 29 Fortitude check\n**Stage 1** carrier (1 day)\n**Stage 2** [[Conditions/Enfeebled 1|Enfeebled 1]] (1 day)\n**Stage 3** [[Conditions/Enfeebled 1|Enfeebled 2]] (1 day)\n**Stage 4** as stage 3 (1 day)\n**Stage 5** [[Conditions/Enfeebled 1|Enfeebled 3]] (1 day)\n**Stage 6** dead"
+    desc: " (disease) **Saving Throw** DC 29 Fortitude check\n\n**Stage 1** carrier (1 day)\n\n**Stage 2** [[Conditions/Enfeebled|Enfeebled 1]] (1 day)\n\n**Stage 3** [[Conditions/Enfeebled|Enfeebled 2]] (1 day)\n\n**Stage 4** as stage 3 (1 day)\n\n**Stage 5** [[Conditions/Enfeebled|Enfeebled 3]] (1 day)\n\n**Stage 6** dead"
 
   - name: "Withering Touch"
     desc: " (divine) When the meladaemon hits with a claw Strike or a creature begins its turn grabbed by the meladaemon, the creature must attempt a DC 30 Fortitude check save. On a failure, the creature takes 1d6 void damage and becomes [[Conditions/Fatigued|Fatigued]]. This fatigue ends when the creature drinks."
@@ -86,6 +87,12 @@ attacks:
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
     desc: "`pf2:1`  "
  
+```
+
+```encounter-table
+name: Meladaemon
+creatures:
+  - 1: Meladaemon
 ```
 
 

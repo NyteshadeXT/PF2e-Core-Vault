@@ -5,6 +5,7 @@ noteType: pf2eHazard
 tags:
   - magical
   - trap
+  - pf2eHazard
   - complex
 source: Pathfinder #146: Cult of Cinders
 aliases: "Compendium.pf2e.age-of-ashes-bestiary.Actor.VQiBBu6D2srK6Fmj" 
@@ -22,14 +23,14 @@ name: "Wrath of the Destroyer"
 level: "Hazard 10"
 
 trait_06: "Complex"
-trait_01: "magical"
-trait_02: "trap"
+trait_01: [[magical]]
+trait_02: [[trap]]
 modifier: 22
 sourcebook: "_Pathfinder #146: Cult of Cinders_"
 ac: 30
 armorclass:
   - name: AC
-    desc: "30; __Fort__ +22, __Ref__ +14, __Will__ +0"
+    desc: "30; __Fort__ +22, __Ref__ +14, "
 hp: 72
 health:
   - name: ""
@@ -51,7 +52,7 @@ attacks:
   - name: ""
 
   - name: "Expunge"
-    desc: "`pf2:r` **Trigger** A non-worshipper of Dahak touches either door leading to **C7**\n**Effect** The hazard targets the creature with Face of the Fatal Divine, then rolls initiative."
+    desc: "`pf2:r` **Trigger** A non-worshipper of Dahak touches either door leading to **C7**\n* * *\n\n**Effect** The hazard targets the creature with Face of the Fatal Divine, then rolls initiative."
 
   - name: "Face of the Fatal Divine"
     desc: "action (death, divine, emotion, fear, illusion, mental) The creature beholds the face of Dahak as it emerges to bite with its burning jaws, targeting the creature with [[Spells/Phantasmal Killer|Phantasmal Killer]] (5th level, DC 29 Will check)."
@@ -60,5 +61,11 @@ attacks:
     desc: "(1 action) On its initiative, the wrath of the destroyer targets the closest target in area **C6** with Face of the Fatal Divine."
   - name: "Reset"
     desc: "The trap deactivates and resets if 1 minute passes without any creature being in range."
+```
+
+```encounter-table
+name: Wrath of the Destroyer
+creatures:
+  - 1: Wrath of the Destroyer
 ```
 

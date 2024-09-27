@@ -6,6 +6,7 @@ cssClasses: pf2e
 aliases: "Compendium.pf2e.pathfinder-bestiary-2.Actor.RqcIiiNNEkF28ui2" 
 tags:
   - pf2e/creature/type/animal
+  - pf2eMonster
   - pf2e/creature/level/5
 statblock: inline
 name: "Orca"
@@ -24,11 +25,12 @@ level: "Creature 5"
 
 alignment: ""
 size: "huge"
-trait_01: "animal"
+trait_01: [[animal]]
 modifier: 12
 perception:
   - name: "Perception"
     desc: "+12; Echolocation 120 Feet, Low-Light Vision"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Athletics: +14, Stealth: +13"
@@ -62,7 +64,7 @@ attacks:
     desc: "`pf2:1` Jaws +13 ()\n__Damage__  2d8 + 9 piercing plus grab"
 
   - name: "[[Bestiary Ability Glossary/Aquatic Ambush|Aquatic Ambush]]"
-    desc: "`pf2:1`  30 feet. An orca can travel no further than 5 feet onto land as part of an Aquatic Ambush. After it does so, it is [[Conditions/Prone|Prone]] until it [[Actions/Crawl|Crawls]] to return to the water.\n"
+    desc: "`pf2:1`  30 feet. An orca can travel no further than 5 feet onto land as part of an Aquatic Ambush. After it does so, it is [[Conditions/Prone|Prone]] until it [[Actions/Crawl|Crawls]] to return to the water.\n\n* * *\n"
 
   - name: "Breach"
     desc: "`pf2:2`  The orca Swims up to its swim Speed, then [[Actions/Leap|Leap]] vertically out of the water up to 25 feet in the air, making a Strike against a creature at any point during the jump (this lets it attack a creature within 30 feet of the water's surface). After the Strike, the orca splashes back down into the water."
@@ -70,6 +72,12 @@ attacks:
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
     desc: "`pf2:1`  "
  
+```
+
+```encounter-table
+name: Orca
+creatures:
+  - 1: Orca
 ```
 
 

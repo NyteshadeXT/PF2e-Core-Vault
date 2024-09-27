@@ -6,6 +6,7 @@ cssClasses: pf2e
 aliases: "Compendium.pf2e.menace-under-otari-bestiary.Actor.CF82XJwObLx0TPnV" 
 tags:
   - pf2e/creature/type/beast
+  - pf2eMonster
   - pf2e/creature/level/2
   - remaster
 statblock: inline
@@ -24,14 +25,15 @@ level: "Creature 2"
 
 alignment: ""
 size: "Medium"
-trait_01: "beast"
+trait_01: [[beast]]
 modifier: 8
 perception:
   - name: "Perception"
     desc: "+8; "
+languages: ""
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +0, Acrobatics: +0, Acrobatics: +7, Athletics: +8, Deception: +6, Intimidation: +6, Stealth: +7, Survival: +8"
+    desc: "Acrobatics: +0, Athletics: +8, Deception: +6, Intimidation: +6, Stealth: +7, Survival: +8"
 abilityMods: [4, 3, 3, -1, 2, 2]
 speed: 40 feet
 sourcebook: "_Pathfinder Beginner Box_"
@@ -67,6 +69,12 @@ attacks:
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
     desc: "`pf2:1`  When the warg succeeds at its jaws Strike, it can use this action immediately after to attempt to [[Actions/Grapple|Grapple]] the target. This Grapple doesn't apply or count toward the warg's multiple attack penalty."
  
+```
+
+```encounter-table
+name: Warg (BB)
+creatures:
+  - 1: Warg (BB)
 ```
 
 

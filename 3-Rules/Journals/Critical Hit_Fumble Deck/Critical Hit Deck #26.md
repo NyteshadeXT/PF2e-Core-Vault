@@ -8,7 +8,7 @@ tags:
 ---
 # Crushed Intestines
 
-> Normal damage. **Crit Effect:** The target is [[Conditions/Wounded 1|Wounded 2]] and [[Conditions/Enfeebled 1|Enfeebled 2]] until it is no longer wounded.
+> Normal damage. **Crit Effect:** The target is [[Conditions/Wounded|Wounded 2]] and [[Conditions/Enfeebled|Enfeebled 2]] until it is no longer wounded.
 
 `Bludgeoning`
 

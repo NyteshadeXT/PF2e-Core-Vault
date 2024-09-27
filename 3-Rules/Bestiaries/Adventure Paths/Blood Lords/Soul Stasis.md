@@ -5,6 +5,7 @@ noteType: pf2eHazard
 tags:
   - magical
   - trap
+  - pf2eHazard
   - complex
 source: Pathfinder #186: Ghost King&#x27;s Rage
 aliases: "Compendium.pf2e.blood-lords-bestiary.Actor.Lk0Ekva2RstJ0PNm" 
@@ -22,14 +23,14 @@ name: "Soul Stasis"
 level: "Hazard 17"
 
 trait_06: "Complex"
-trait_01: "magical"
-trait_02: "trap"
+trait_01: [[magical]]
+trait_02: [[trap]]
 modifier: 33
 sourcebook: "_Pathfinder #186: Ghost King's Rage_"
 ac: 40
 armorclass:
   - name: AC
-    desc: "40; __Fort__ +32, __Ref__ +26, __Will__ +0"
+    desc: "40; __Fort__ +32, __Ref__ +26, "
 hp: 114
 health:
   - name: ""
@@ -51,11 +52,17 @@ attacks:
   - name: ""
 
   - name: "Pulse"
-    desc: "`pf2:r` (divine) **Trigger** A soul or creature with a soul enters the area\n**Effect** The steel pillars activate with an audible hum that resonates with spirits. Each non-psychopomp creature with a soul is [[Conditions/Stunned 1|Stunned 3]] unless they succeed at a DC 43 Will check save. The trap then rolls initiative."
+    desc: "`pf2:r` (divine) **Trigger** A soul or creature with a soul enters the area\n* * *\n\n**Effect** The steel pillars activate with an audible hum that resonates with spirits. Each non-psychopomp creature with a soul is [[Conditions/Stunned|Stunned 3]] unless they succeed at a DC 43 Will check save. The trap then rolls initiative."
 
   - name: "Routine"
-    desc: "(4 actions) This trap loses 1 action each turn for each disabled pillar. Each pillar uses 1 action to emit a 30-foot-radius burst of inhibiting energy that slows souls. Each non-psychopomp creature with a soul in the area is [[Conditions/Slowed 1|Slowed 1]] unless they succeed at a DC 43 Fortitude check save."
+    desc: "(4 actions) This trap loses 1 action each turn for each disabled pillar. Each pillar uses 1 action to emit a 30-foot-radius burst of inhibiting energy that slows souls. Each non-psychopomp creature with a soul in the area is [[Conditions/Slowed|Slowed 1]] unless they succeed at a DC 43 Fortitude check save."
   - name: "Reset"
     desc: "The trap deactivates and resets if 1 minute passes without any souls in the area."
+```
+
+```encounter-table
+name: Soul Stasis
+creatures:
+  - 1: Soul Stasis
 ```
 

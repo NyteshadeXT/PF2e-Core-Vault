@@ -10,6 +10,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/human
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/4
 statblock: inline
 name: "Ruanna Nyamma"
@@ -24,14 +25,14 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #152: Legacy of the Lost God"
 name: "Ruanna Nyamma"
 level: "Creature 4"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Medium"
-trait_01: "chaotic"
-trait_02: "elf"
-trait_03: "evil"
-trait_04: "human"
-trait_05: "humanoid"
+trait_01: [[chaotic]]
+trait_02: [[elf]]
+trait_03: [[evil]]
+trait_04: [[human]]
+trait_05: [[humanoid]]
 modifier: 9
 perception:
   - name: "Perception"
@@ -74,8 +75,14 @@ attacks:
     desc: "2 Focus Points, DC 21, attack +12; __2nd __ (2 slots) _[[Spells/Counter Performance|Counter Performance]]_, _[[Spells/Lingering Composition|Lingering Composition]]_\n__Cantrips__  __(2nd)__ _[[Spells/Uplifting Overture|Inspire Competence]]_, _[[Spells/Courageous Anthem|Inspire Courage]]_"
 
   - name: "Elaborate Feint"
-    desc: "`pf2:2`  Ruanna attempts to [[Actions/Feint|Feint]] using Performance rather than Deception. On a success, the target is [[Conditions/Off-Guard|Off-Guard]] to any melee attack, not just Ruanna's.\nRuanna then Strides."
+    desc: "`pf2:2`  Ruanna attempts to [[Actions/Feint|Feint]] using Performance rather than Deception. On a success, the target is [[Conditions/Off-Guard|Off-Guard]] to any melee attack, not just Ruanna's.\n\nRuanna then Strides."
  
+```
+
+```encounter-table
+name: Ruanna Nyamma
+creatures:
+  - 1: Ruanna Nyamma
 ```
 
 

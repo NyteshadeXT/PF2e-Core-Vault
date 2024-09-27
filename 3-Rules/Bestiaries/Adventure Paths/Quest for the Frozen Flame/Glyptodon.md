@@ -6,6 +6,7 @@ cssClasses: pf2e
 aliases: "Compendium.pf2e.quest-for-the-frozen-flame-bestiary.Actor.OeJlR7ZSSc0azABd" 
 tags:
   - pf2e/creature/type/animal
+  - pf2eMonster
   - pf2e/creature/level/5
 statblock: inline
 name: "Glyptodon"
@@ -23,11 +24,12 @@ level: "Creature 5"
 
 alignment: ""
 size: "Large"
-trait_01: "animal"
+trait_01: [[animal]]
 modifier: 9
 perception:
   - name: "Perception"
     desc: "+9; Scent (Imprecise) 30 Feet"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Athletics: +14"
@@ -49,7 +51,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Carapace Block"
-    desc: "`pf2:r`  **Trigger** An adjacent creature targets the glyptodon with an attack\n**Effect** The glyptodon turns, blocking the attack with its carapace and thrusting its heavy body toward the attacker. It gains a +2 circumstance bonus to its AC against the triggering attack. If the attack critically fails, the glyptodon attempts to [[Actions/Shove|Shove]] the attacker."
+    desc: "`pf2:r`  **Trigger** An adjacent creature targets the glyptodon with an attack\n* * *\n\n**Effect** The glyptodon turns, blocking the attack with its carapace and thrusting its heavy body toward the attacker. It gains a +2 circumstance bonus to its AC against the triggering attack. If the attack critically fails, the glyptodon attempts to [[Actions/Shove|Shove]] the attacker."
 
 attacks:
   - name: ""
@@ -63,6 +65,12 @@ attacks:
   - name: "Clobbering Tail"
     desc: "  A glyptodon's stiff tail is its strongest weapon. When a glyptodon critically hits with its tail Strike, the target is [[Conditions/Off-Guard|Off-Guard]] for 1 round."
  
+```
+
+```encounter-table
+name: Glyptodon
+creatures:
+  - 1: Glyptodon
 ```
 
 

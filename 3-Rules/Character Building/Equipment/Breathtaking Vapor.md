@@ -14,7 +14,7 @@ license: OGL
 ---
 # Breathtaking Vapor
 ## Item 17
-### [uncommon](uncommon "Uncommon Rarity Trait")[[alchemical]][[consumable]][[inhaled]][[3-Rules/Rule References/Poison]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[alchemical]][[consumable]][[inhaled]][[3-Rules/Rule References/Poison]]
 
 **Category** poison; 
 **Price** 3000 gp; 
@@ -31,11 +31,11 @@ This colorless mist has a mild, waxy scent that precedes acute shortness of brea
 
 **Maximum Duration** 6 rounds
 
-**Stage 1** 6d6 poison, [[Conditions/Drained 1|Drained 1]], and can't breathe
+**Stage 1** 6d6 poison, [[Conditions/Drained|Drained 1]], and can't breathe
 
-**Stage 2** 8d6 poison, [[Conditions/Drained 1|Drained 2]], and reduce remaining air by 1 additional round
+**Stage 2** 8d6 poison, [[Conditions/Drained|Drained 2]], and reduce remaining air by 1 additional round
 
-**Stage 3** 10d6 poison, [[Conditions/Drained 1|Drained 3]], and reduce remaining air by 2 additional rounds
+**Stage 3** 10d6 poison, [[Conditions/Drained|Drained 3]], and reduce remaining air by 2 additional rounds
 
 *Source: Pathfinder Treasure Vault*
 *OGL*

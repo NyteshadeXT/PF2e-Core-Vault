@@ -18,5 +18,5 @@ license: OGL
 
 You gain a +1 status bonus to your saving throws.
 
-*Source: Pathfinder: Season of Ghosts Player's Guide*
+*Source: Pathfinder Season of Ghosts Player's Guide*
 *OGL*

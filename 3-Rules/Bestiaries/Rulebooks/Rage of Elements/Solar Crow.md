@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.rage-of-elements-bestiary.Actor.Kv6zyQC3JCEWWwvf"
 tags:
   - pf2e/creature/type/elemental
   - pf2e/creature/type/fire
+  - pf2eMonster
   - pf2e/creature/level/10
   - remaster
 statblock: inline
@@ -25,8 +26,8 @@ level: "Creature 10"
 
 alignment: ""
 size: "Large"
-trait_01: "elemental"
-trait_02: "fire"
+trait_01: [[elemental]]
+trait_02: [[fire]]
 modifier: 19
 perception:
   - name: "Perception"
@@ -34,7 +35,7 @@ perception:
 languages: "Pyric"
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +22, Deception: +21, Nature: +19, Sun Lore: +18"
+    desc: "Acrobatics: +22, Athletics: +22, Deception: +21, Nature: +19, Sun Lore: +18"
 abilityMods: [2, 6, 2, 0, 3, 5]
 speed: 20 feet,  fly 50 feet
 sourcebook: "_Pathfinder Rage of Elements_"
@@ -56,10 +57,10 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Glinting Wing"
-    desc: "`pf2:r` (light,visual) **Trigger** A creature within 120 feet attempts to target the solar crow\n**Effect** The solar crow defensively repositions a wing to shine light into the attacker's eyes. The target is [[Conditions/Dazzled|Dazzled]] for the duration of the triggering effect, granting the solar crow concealment against it."
+    desc: "`pf2:r` (light,visual) **Trigger** A creature within 120 feet attempts to target the solar crow\n* * *\n\n**Effect** The solar crow defensively repositions a wing to shine light into the attacker's eyes. The target is [[Conditions/Dazzled|Dazzled]] for the duration of the triggering effect, granting the solar crow concealment against it."
 
   - name: "Glow"
-    desc: " (aura,fire,light) 25 feet. The solar crow casts bright light in a 25-foot emanation (and dim light for the next 25 feet)."
+    desc: " (aura,fire,light) 25 feet. The solar crow casts bright light in a @Template[emanation|distance:25] (and dim light for the next 25 feet)."
 
 attacks:
   - name: ""
@@ -71,7 +72,7 @@ attacks:
     desc: "`pf2:1` Talon +22 (agile, finesse)\n__Damage__  2d6 fire plus grab 1d10 + 8 slashing plus grab"
 
   - name: "Blinding Heat"
-    desc: "`pf2:2` (fire,incapacitation,light,visual) The solar crow expands its wings and unleashes blazing hot, blinding light in a 120-foot emanation. Each creature in the area takes 9d6 fire damage with a DC 29 Reflex check save. The crow can't use Blinding Heat again for 1d4 rounds, and its glow aura is deactivated during this time.\n**Critical Success** The creature is unaffected.\n**Success** The creature takes half damage and is [[Conditions/Dazzled|Dazzled]] for 1 round.\n**Failure** The creature takes full damage and is [[Conditions/Blinded|Blinded]] for 1 round.\n**Critical Failure** The creature takes double damage and is blinded for 1 minute."
+    desc: "`pf2:2` (fire,incapacitation,light,visual) The solar crow expands its wings and unleashes blazing hot, blinding light in a @Template[emanation|distance:120]. Each creature in the area takes 9d6 fire damage with a DC 29 Reflex check save. The crow can't use Blinding Heat again for 1d4 rounds, and its glow aura is deactivated during this time.\n* * *\n\n**Critical Success** The creature is unaffected.\n\n**Success** The creature takes half damage and is [[Conditions/Dazzled|Dazzled]] for 1 round.\n\n**Failure** The creature takes full damage and is [[Conditions/Blinded|Blinded]] for 1 round.\n\n**Critical Failure** The creature takes double damage and is blinded for 1 minute."
 
   - name: "Burning Talons"
     desc: "  A creature [[Conditions/Grabbed|Grabbed]] by the solar crow takes 1d4 persistent fire damage. It can't recover from this damage while grabbed by the crow."
@@ -82,6 +83,12 @@ attacks:
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
     desc: "`pf2:1`  "
  
+```
+
+```encounter-table
+name: Solar Crow
+creatures:
+  - 1: Solar Crow
 ```
 
 

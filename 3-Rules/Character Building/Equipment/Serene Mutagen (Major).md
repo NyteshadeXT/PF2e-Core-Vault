@@ -10,8 +10,9 @@ tags:
   - trait/polymorph
   - trait/common
   - category/mutagen
+  - remaster
 aliases: "Compendium.pf2e.equipment-srd.Item.ccrdVliTNBh2mNZf"
-license: OGL
+license: ORC
 ---
 # Serene Mutagen (Major)
 ## Item 17
@@ -22,11 +23,11 @@ license: OGL
 **Bulk** L; **Size** med
 **Usage** held-in-one-hand
 
-**Activate** `pf2:1` Interact
+**Activate** `pf2:1` (manipulate)
 
 * * *
 
-You gain inner serenity, focused on file details and steeled against mental assaults, but you find violence off-putting.
+You gain inner serenity, but you find violence off-putting.
 
 **Benefit** You gain a +4 item bonus to Will saves and Perception, Medicine, Nature, Religion, and Survival checks. When you roll a success on a Will save against a mental effect, you get a critical success instead, and your critical failures on Will saves against mental effects become failures instead.
 
@@ -36,5 +37,5 @@ You gain inner serenity, focused on file details and steeled against mental assa
 
 [[Equipment Effects/Effect_ Serene Mutagen (Major)|Effect: Serene Mutagen (Major)]]
 
-*Source: Pathfinder Core Rulebook*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

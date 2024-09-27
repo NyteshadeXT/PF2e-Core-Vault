@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.pathfinder-bestiary-2.Actor.fwjDIGzmuEJN81Qq"
 tags:
   - pf2e/creature/type/beast
   - pf2e/creature/type/troll
+  - pf2eMonster
   - pf2e/creature/level/3
 statblock: inline
 name: "Trollhound"
@@ -25,12 +26,13 @@ level: "Creature 3"
 
 alignment: ""
 size: "Medium"
-trait_01: "beast"
-trait_02: "troll"
+trait_01: [[beast]]
+trait_02: [[troll]]
 modifier: 6
 perception:
   - name: "Perception"
     desc: "+6; Darkvision, Scent (Imprecise) 30 Feet"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Acrobatics: +6, Athletics: +11, Stealth: +8, Survival: +6"
@@ -58,7 +60,7 @@ attacks:
     desc: "`pf2:1` Jaws +11 ()\n__Damage__  1d12 + 4 piercing plus bloodfire-fever,knockdown"
 
   - name: "Bloodfire Fever"
-    desc: " (disease) **Saving Throw** DC 18 Fortitude check\n**Stage 1** carrier with no ill effect (1 day)\n**Stage 2** [[Conditions/Enfeebled 1|Enfeebled 1]] (1 day)\n**Stage 3** Enfeebled 1 and [[Conditions/Clumsy 1|Clumsy 1]] (1 day)\n**Stage 4** [[Conditions/Enfeebled 1|Enfeebled 2]] and [[Conditions/Clumsy 1|Clumsy 2]] (1 day)\n**Stage 5** Enfeebled 2, Clumsy 2, and [[Conditions/Fatigued|Fatigued]] (1 day)"
+    desc: " (disease) **Saving Throw** DC 18 Fortitude check\n\n**Stage 1** carrier with no ill effect (1 day)\n\n**Stage 2** [[Conditions/Enfeebled|Enfeebled 1]] (1 day)\n\n**Stage 3** Enfeebled 1 and [[Conditions/Clumsy|Clumsy 1]] (1 day)\n\n**Stage 4** [[Conditions/Enfeebled|Enfeebled 2]] and [[Conditions/Clumsy|Clumsy 2]] (1 day)\n\n**Stage 5** Enfeebled 2, Clumsy 2, and [[Conditions/Fatigued|Fatigued]] (1 day)"
 
   - name: "Pack Attack"
     desc: "  The trollhound deals an extra 1d6 damage to any creature within reach of at least two of the trollhound's allies."
@@ -66,6 +68,12 @@ attacks:
   - name: "[[Bestiary Ability Glossary/Knockdown|Knockdown]]"
     desc: "`pf2:1`  "
  
+```
+
+```encounter-table
+name: Trollhound
+creatures:
+  - 1: Trollhound
 ```
 
 

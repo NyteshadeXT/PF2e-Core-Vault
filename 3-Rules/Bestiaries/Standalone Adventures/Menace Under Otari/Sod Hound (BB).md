@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.menace-under-otari-bestiary.Actor.NVWaLagWOu5tCCZu"
 tags:
   - pf2e/creature/type/earth
   - pf2e/creature/type/elemental
+  - pf2eMonster
   - pf2e/creature/level/3
   - remaster
 statblock: inline
@@ -25,15 +26,16 @@ level: "Creature 3"
 
 alignment: ""
 size: "Small"
-trait_01: "earth"
-trait_02: "elemental"
+trait_01: [[earth]]
+trait_02: [[elemental]]
 modifier: 9
 perception:
   - name: "Perception"
     desc: "+9; Darkvision"
+languages: ""
 skills:
   - name: "Skills"
-    desc: "Athletics: +11, Survival: +9 (+11 to Track)"
+    desc: "Athletics: +11, Survival: +9"
 abilityMods: [4, -1, 3, -4, 2, -1]
 speed: 30 feet
 sourcebook: "_Pathfinder Beginner Box_"
@@ -66,6 +68,12 @@ attacks:
   - name: "[[Bestiary Ability Glossary/Knockdown|Knockdown]]"
     desc: "`pf2:1`  When the sod hound succeeds at its jaws Strike, it can use this action immediately after to attempt to [[Actions/Trip|Trip]] the target. This Trip doesn't apply or count toward the sod hound's multiple attack penalty."
  
+```
+
+```encounter-table
+name: Sod Hound (BB)
+creatures:
+  - 1: Sod Hound (BB)
 ```
 
 

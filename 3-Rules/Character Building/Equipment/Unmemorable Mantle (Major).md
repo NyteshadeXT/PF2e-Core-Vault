@@ -3,6 +3,7 @@ obsidianUIMode: preview
 title: "Unmemorable Mantle (Major)"
 cssclasses: pf2e,pf2e-spell
 tags:
+  - trait/illusion
   - trait/invested
   - trait/magical
   - trait/common
@@ -11,7 +12,7 @@ license: OGL
 ---
 # Unmemorable Mantle (Major)
 ## Item 17
-### [[invested]][[magical]]
+### [[illusion]][[invested]][[magical]]
 
 
 **Price** 21750 gp; 

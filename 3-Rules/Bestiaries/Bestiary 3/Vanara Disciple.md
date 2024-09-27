@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/humanoid
   - pf2e/creature/type/lawful
   - pf2e/creature/type/vanara
+  - pf2eMonster
   - pf2e/creature/level/1
 statblock: inline
 name: "Vanara Disciple"
@@ -24,13 +25,13 @@ token: [[modules/pf2e-tokens-bestiaries/portraits/humanoid/vanara-disciple.webp|
 source: "Pathfinder Bestiary 3"
 name: "Vanara Disciple"
 level: "Creature 1"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Medium"
-trait_01: "good"
-trait_02: "humanoid"
-trait_03: "lawful"
-trait_04: "vanara"
+trait_01: [[good]]
+trait_02: [[humanoid]]
+trait_03: [[lawful]]
+trait_04: [[vanara]]
 modifier: 6
 perception:
   - name: "Perception"
@@ -76,11 +77,17 @@ attacks:
     desc: "DC 13, attack +5; __1st __  _[[Spells/Pest Form|Pest Form (Monkey Only)]]_"
 
   - name: "Flurry of Blows"
-    desc: "`pf2:1`  **Frequency** once per round\n**Effect** The vanara disciple makes two unarmed Strikes. If both hit the same creature, combine their damage for the purpose of resistances and weaknesses."
+    desc: "`pf2:1`  **Frequency** once per round\n* * *\n\n**Effect** The vanara disciple makes two unarmed Strikes. If both hit the same creature, combine their damage for the purpose of resistances and weaknesses."
 
   - name: "Spring Up"
-    desc: "`pf2:2`  **Requirements** The vanara disciple is [[Conditions/Prone|Prone]]\n**Effect** The vanara Stands, then can immediately Step twice. The Stand action doesn't trigger reactions."
+    desc: "`pf2:2`  **Requirements** The vanara disciple is [[Conditions/Prone|Prone]]\n* * *\n\n**Effect** The vanara Stands, then can immediately Step twice. The Stand action doesn't trigger reactions."
  
+```
+
+```encounter-table
+name: Vanara Disciple
+creatures:
+  - 1: Vanara Disciple
 ```
 
 

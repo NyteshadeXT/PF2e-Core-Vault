@@ -6,8 +6,9 @@ tags:
   - trait/archetype
   - trait/common
   - category/class
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.NdgMxlz5I1ddT0Zi"
-license: OGL
+license: ORC
 ---
 # Basic Mysteries
 ## Feat 4
@@ -21,5 +22,5 @@ license: OGL
 * * *
 You gain a 1st- or 2nd-level oracle feat of your choice.
 
-*Source: Pathfinder Advanced Player's Guide*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

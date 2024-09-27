@@ -10,6 +10,7 @@ tags:
   - pf2e/creature/type/mindless
   - pf2e/creature/type/undead
   - pf2e/creature/type/unholy
+  - pf2eMonster
   - pf2e/creature/level/2
 statblock: inline
 name: "Sporeborn Skull"
@@ -27,11 +28,11 @@ level: "Creature 2"
 
 alignment: ""
 size: "tiny"
-trait_01: "evil"
-trait_02: "fungus"
-trait_03: "mindless"
-trait_04: "undead"
-trait_05: "unholy"
+trait_01: [[evil]]
+trait_02: [[fungus]]
+trait_03: [[mindless]]
+trait_04: [[undead]]
+trait_05: [[unholy]]
 modifier: 9
 perception:
   - name: "Perception"
@@ -39,7 +40,7 @@ perception:
 languages: "Necril"
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +8 (+10 to Maneuver in Flight)"
+    desc: "Acrobatics: +8"
 abilityMods: [1, 4, 1, -5, 3, 0]
 speed: 15 feet,  fly 30 feet
 sourcebook: "_Pathfinder #193: Mantle of Gold_"
@@ -61,7 +62,7 @@ abilities_mid:
     desc: "  When destroyed, a sporeborn skull explodes in a blast of bone and toxic spores that deals 1d6 piercing damage plus 1d6 poison damage to each adjacent creature (DC 18 Reflex check save)."
 
   - name: "Stir the Spores"
-    desc: "`pf2:r` (poison) **Frequency** once per 1d4 rounds\n**Trigger** The sporeborn skull takes bludgeoning, piercing, or slashing damage\n**Effect** The impact scatters spores onto all creatures within 5 feet, making them [[Conditions/Sickened 1|Sickened 1]] (DC 18 Fortitude check negates)."
+    desc: "`pf2:r` (poison) **Frequency** once per 1d4 rounds\n\n**Trigger** The sporeborn skull takes bludgeoning, piercing, or slashing damage\n* * *\n\n**Effect** The impact scatters spores onto all creatures within 5 feet, making them [[Conditions/Sickened|Sickened 1]] (DC 18 Fortitude check negates)."
 
 attacks:
   - name: ""
@@ -72,6 +73,12 @@ attacks:
   - name: "Ranged"
     desc: "`pf2:1` Spittle +10 (acid, agile, range 20 feet)\n__Damage__  1d12 + 2 acid"
  
+```
+
+```encounter-table
+name: Sporeborn Skull
+creatures:
+  - 1: Sporeborn Skull
 ```
 
 

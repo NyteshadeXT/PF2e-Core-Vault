@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/elemental
   - pf2e/creature/type/plant
   - pf2e/creature/type/wood
+  - pf2eMonster
   - pf2e/creature/level/11
   - remaster
 statblock: inline
@@ -26,13 +27,14 @@ level: "Creature 11"
 
 alignment: ""
 size: "huge"
-trait_01: "elemental"
-trait_02: "plant"
-trait_03: "wood"
+trait_01: [[elemental]]
+trait_02: [[plant]]
+trait_03: [[wood]]
 modifier: 24
 perception:
   - name: "Perception"
     desc: "+24; "
+languages: ""
 skills:
   - name: "Skills"
     desc: "Athletics: +23"
@@ -60,17 +62,23 @@ attacks:
     desc: "`pf2:1` Gnarled Branch +24 (reach 20 feet)\n__Damage__  2d12 + 7 bludgeoning plus grab"
 
   - name: "[[Bestiary Ability Glossary/Constrict|Constrict]]"
-    desc: "`pf2:1`  1d12 + 7 bludgeoning, DC 30 Fortitude check\n"
+    desc: "`pf2:1`  1d12+7 bludgeoning, DC 30 Fortitude check\n\n* * *\n"
 
   - name: "[[Bestiary Ability Glossary/Engulf|Engulf]]"
-    desc: "`pf2:2`  DC 30 Reflex check, 8d10 bludgeoning damage, Escape DC 27, Rupture 20\n"
+    desc: "`pf2:2`  DC 30 Reflex check, 8d10 bludgeoning damage, Escape DC 27, Rupture 20\n\n* * *\n"
 
   - name: "Entangling Growth"
-    desc: " (aura,plant,primal) 30 feet.\nPlant life erupts out of any and all soil surrounding the elemental thicket, making the area greater difficult terrain out to 5 feet and difficult terrain out to 30 feet. This ability requires soil and has no effect on terrain without it, such as worked stone, solid rock, open water, etc."
+    desc: " (aura,plant,primal) 30 feet.\n\nPlant life erupts out of any and all soil surrounding the elemental thicket, making the area greater difficult terrain out to 5 feet and difficult terrain out to 30 feet. This ability requires soil and has no effect on terrain without it, such as worked stone, solid rock, open water, etc."
 
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
     desc: "`pf2:1`  "
  
+```
+
+```encounter-table
+name: Elemental Thicket
+creatures:
+  - 1: Elemental Thicket
 ```
 
 

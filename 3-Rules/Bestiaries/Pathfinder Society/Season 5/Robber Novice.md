@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/human
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/-1
 statblock: inline
 name: "Robber Novice"
@@ -22,12 +23,12 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Society Scenario #5-01: Intro: Year of Unfettered Exploration"
 name: "Robber Novice"
 level: "Creature -1"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Medium"
-trait_01: "evil"
-trait_02: "human"
-trait_03: "humanoid"
+trait_01: [[evil]]
+trait_02: [[human]]
+trait_03: [[humanoid]]
 modifier: 5
 perception:
   - name: "Perception"
@@ -61,8 +62,14 @@ attacks:
     desc: "`pf2:1` Fist +7 (agile, finesse, nonlethal)\n__Damage__  1d4 + 1 bludgeoning"
 
   - name: "Combat Pickpocket"
-    desc: "`pf2:2`  **Requirements** The robber novice is in the same square or adjacent to the target\n**Effect** The robber novice can attempt to [[Actions/Steal|Steal]] an object they can see on the target using their Thievery modifier against the target's Perception DC."
+    desc: "`pf2:2`  **Requirements** The robber novice is in the same square or adjacent to the target\n* * *\n\n**Effect** The robber novice can attempt to [[Actions/Steal|Steal]] an object they can see on the target using their Thievery modifier against the target's Perception DC."
  
+```
+
+```encounter-table
+name: Robber Novice
+creatures:
+  - 1: Robber Novice
 ```
 
 

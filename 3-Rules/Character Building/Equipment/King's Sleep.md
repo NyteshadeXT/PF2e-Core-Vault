@@ -10,8 +10,9 @@ tags:
   - trait/virulent
   - trait/common
   - category/poison
+  - remaster
 aliases: "Compendium.pf2e.equipment-srd.Item.RkI3jKKrCozvEvfr"
-license: OGL
+license: ORC
 ---
 # King's Sleep
 ## Item 18
@@ -22,21 +23,21 @@ license: OGL
 **Bulk** L; **Size** med
 **Usage** held-in-one-hand
 
-King's sleep is an insidious long-term poison that can seem like a disease or even death from natural causes on a venerable target. The drained condition from king's sleep is cumulative with each failed save and can't be removed while the poison lasts.
+**Activate** `pf2:1` (manipulate)
 
 * * *
 
-**Activate** `pf2:1` Interact (Ingested)
+King's sleep is an insidious long-term poison that can seem like a disease or even death from natural causes on a venerable target. The drained condition from king's sleep is cumulative with each failed save and can't be removed while the poison lasts.
 
 **Saving Throw** DC 41 Fortitude check
 
 **Onset** 1 day
 
-**Stage 1** [[Conditions/Drained 1|Drained 1]] (1 day)
+**Stage 1** [[Conditions/Drained|Drained 1]] (1 day)
 
-**Stage 2** drained 1 (1 day)
+**Stage 2**[[Conditions/Drained|Drained 1]] (1 day)
 
-**Stage 3** [[Conditions/Drained 1|Drained 2]] (1 day)
+**Stage 3** [[Conditions/Drained|Drained 2]] (1 day)
 
-*Source: Pathfinder Core Rulebook*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

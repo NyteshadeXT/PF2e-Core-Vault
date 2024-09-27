@@ -16,16 +16,13 @@ license: OGL
 
 
 
-
-**\[Heroic\]**
-
-**Prerequisites** Tier 3 with the Envoy's Alliance
-
-**Cost** 4 Fame
+**Prerequisites** Admired by Envoy's Alliance
+* * *
+**Cost**: 0 AcP
 
 * * *
 
-**Effect** Your most momentous actions can inspire your allies to follow suit. When you use a Hero Point to reroll a check and succeed at the check, your allies gain a +1 circumstance bonus to checks of the same type for 1 round (such as attack rolls, Will saves, or Perception checks).
+Your most momentous actions can inspire your allies to follow suit. When you use a Hero Point to reroll a check and succeed at the check, your allies gain a +1 circumstance bonus to checks of the same type for 1 round (such as attack rolls, Will saves, or Perception checks).
 
 *Source: *
 *OGL*

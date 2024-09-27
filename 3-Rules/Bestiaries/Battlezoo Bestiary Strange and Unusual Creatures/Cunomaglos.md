@@ -7,6 +7,7 @@ aliases: "Compendium.battlezoo-bestiary-su-pf2e.pf2e-battlezoo-su-actors.Actor.m
 tags:
   - pf2e/creature/type/chaotic
   - pf2e/creature/type/fey
+  - pf2eMonster
   - pf2e/creature/level/15
 statblock: inline
 name: "Cunomaglos"
@@ -22,11 +23,11 @@ token: [[modules/battlezoo-bestiary-su-pf2e/art/Portraits/cunomaglos.webp| ]]
 source: "Battlezoo Bestiary: Strange and Unusual"
 name: "Cunomaglos"
 level: "Creature 15"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Large"
-trait_01: "chaotic"
-trait_02: "fey"
+trait_01: [[chaotic]]
+trait_02: [[fey]]
 modifier: 26
 perception:
   - name: "Perception"
@@ -34,7 +35,7 @@ perception:
 languages: "Common, Fey"
 skills:
   - name: "Skills"
-    desc: "Arcana: +27, Athletics: +30, Diplomacy: +28, Intimidation: +30, Nature: +29, Occultism: +27, Survival: +31, "
+    desc: "Arcana: +27, Athletics: +30, Diplomacy: +28, Intimidation: +30, Nature: +29, Occultism: +27, Survival: +31, Arcana: +27, Athletics: +30, Diplomacy: +28, Intimidation: +30, Nature: +29, Occultism: +27, Survival: +31"
 abilityMods: [7, 8, 6, 4, 6, 7]
 speed: 40 feet
 sourcebook: "_Battlezoo Bestiary: Strange and Unusual_"
@@ -52,7 +53,7 @@ abilities_top:
   - name: "Items"
     desc: "[[Equipment/Composite Longbow|+1 Striking Composite Longbow]]"
   - name: "Blood Always Tells"
-    desc: "`pf2:2` (primal) A cunomaglos can consume the flesh or blood of a creature, establishing a mystical connection that bares the target's secrets. The cunomaglos can make a Nature check against the target's Will DC. On a success, the cunomaglos immediately learns the same information provided by a legend lore ritual. On a critical failure, the cunomaglos is Confused for 1 minute. A cunomaglos can't use this ability if it can't consume blood or flesh, meaning that creatures without blood or flesh are immune."
+    desc: "`pf2:2` (primal) A cunomaglos can consume the flesh or blood of a creature, establishing a mystical connection that bares the target's secrets. The cunomaglos can make a Nature check against the target's Will DC. On a success, the cunomaglos immediately learns the same information provided by a legend lore ritual. On a critical failure, the cunomaglos is [[undefined]] for 1 minute. A cunomaglos can't use this ability if it can't consume blood or flesh, meaning that creatures without blood or flesh are immune."
 
   - name: "Wolf Empathy"
     desc: " (primal) The cunomaglos can communicate with wolfs and other similar lupine creatures."
@@ -75,17 +76,23 @@ attacks:
     desc: "DC 34, attack +26; __6th __  _[[Spells/Dominate|Dominate (x2)]]_, _[[Spells/Truesight|True Seeing]]_; __5th __  _[[Spells/Moon Frenzy|Moon Frenzy (x3)]]_; __4th __  _[[Spells/Unfettered Movement|Freedom of Movement (At Will)]]_, _[[Compendium.pf2e.spells-srd.Item.OyFCwQuw8XRazsNr|Remove Curse (At Will, Curse of the Werewolf Only)]]_"
 
   - name: "[[Bestiary Ability Glossary/Change Shape|Change Shape]]"
-    desc: "`pf2:1` (concentrate,polymorph,primal) The cunomaglos changes into a wolf with the following statistics.\n*   **Wolf**\n    *   **size** Large\n    *   **Speed** 50 feet\n    *   **Melee** jaws +32, Damage 3d12+15 piercing plus Improved Knockdown"
+    desc: "`pf2:1` (concentrate,polymorph,primal) The cunomaglos changes into a wolf with the following statistics.\n\n*   **Wolf**\n    *   **size** Large\n    *   **Speed** 50 feet\n    *   **Melee** jaws +32, Damage 3d12+15 piercing plus Improved Knockdown"
 
   - name: "Curse of the Werewolf"
-    desc: " (curse,primal) This ability affects only beasts and humanoids.\n**Saving Throw** DC 34 Fortitude check save.\nEach full moon, the cursed creature must succeed at another Fortitude save or turn into a werewolf until dawn. The creature is under the GM's control, seeking out lupine companions and hunting for half the night before falling Unconscious."
+    desc: " (curse,primal) This ability affects only beasts and humanoids.\n\n**Saving Throw** DC 34 Fortitude check save.\n\nEach full moon, the cursed creature must succeed at another Fortitude save or turn into a werewolf until dawn. The creature is under the GM's control, seeking out lupine companions and hunting for half the night before falling [[undefined]]."
 
   - name: "Hunter's Howl"
-    desc: "`pf2:1` (auditory) **Frequency** once per round\n**Effect** The cunomaglos' blood-chilling howl promises death to all who hear it. The cunomaglos attempts to Demoralize all creatures in a 60 foot cone who can hear the howl, without taking any penalties for not sharing a language. The creatures are then temporarily immune for 1 day."
+    desc: "`pf2:1` (auditory) **Frequency** once per round\n* * *\n\n**Effect** The cunomaglos' blood-chilling howl promises death to all who hear it. The cunomaglos attempts to [[undefined]] all creatures in a 60 foot cone who can hear the howl, without taking any penalties for not sharing a language. The creatures are then temporarily immune for 1 day."
 
   - name: "Ruler of Wolves"
     desc: " (aura,emotion,primal) 20 feet. Canine and lupine beings (including creatures affected by Curse of the Werewolf) within the aura take a –2 circumstance penalty to their Will saves and DCs against the cunomaglos's mental spells, Intimidation, and Diplomacy."
  
+```
+
+```encounter-table
+name: Cunomaglos
+creatures:
+  - 1: Cunomaglos
 ```
 
 

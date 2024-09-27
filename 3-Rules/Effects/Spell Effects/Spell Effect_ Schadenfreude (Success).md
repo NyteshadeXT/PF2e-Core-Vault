@@ -4,8 +4,9 @@ title: "Spell Effect: Schadenfreude (Success)"
 cssclasses: pf2e,pf2e-spell
 tags:
   - trait/common
+  - remaster
 aliases: "Compendium.pf2e.spell-effects.Item.TjGHxli0edXI6rAg"
-license: OGL
+license: ORC
 ---
 # Spell Effect: Schadenfreude (Success)
 ## Level 1
@@ -16,7 +17,9 @@ license: OGL
 
 
 
+Granted by [[Spells/Schadenfreude|Schadenfreude]]
+
 The creature is distracted by its amusement and takes a -1 status penalty on Perception checks and Will saves for 1 round.
 
-*Source: Pathfinder Secrets of Magic*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

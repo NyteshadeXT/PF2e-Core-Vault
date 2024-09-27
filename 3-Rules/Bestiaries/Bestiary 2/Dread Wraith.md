@@ -11,6 +11,7 @@ tags:
   - pf2e/creature/type/undead
   - pf2e/creature/type/unholy
   - pf2e/creature/type/wraith
+  - pf2eMonster
   - pf2e/creature/level/9
 statblock: inline
 name: "Dread Wraith"
@@ -29,12 +30,12 @@ level: "Creature 9"
 
 alignment: ""
 size: "Large"
-trait_01: "evil"
-trait_02: "incorporeal"
-trait_03: "lawful"
-trait_04: "undead"
-trait_05: "unholy"
-trait_06: "wraith"
+trait_01: [[evil]]
+trait_02: [[incorporeal]]
+trait_03: [[lawful]]
+trait_04: [[undead]]
+trait_05: [[unholy]]
+trait_06: [[wraith]]
 modifier: 19
 perception:
   - name: "Perception"
@@ -64,10 +65,10 @@ abilities_mid:
     desc: "`pf2:r`  "
 
   - name: "Draining Presence"
-    desc: " (aura,void) 10 feet. A creature entering the aura must succeed at a DC 26 Fortitude check save or become [[Conditions/Drained 1|Drained 1]]. It recovers after it has been out of the aura for 1 minute. This drained condition value is cumulative with the drained value caused by drain life, but not with multiple draining presence auras.\nA creature that succeeds at its save is temporarily immune to draining presence for 24 hours."
+    desc: " (aura,void) 10 feet. A creature entering the aura must succeed at a DC 26 Fortitude check save or become [[Conditions/Drained|Drained 1]]. It recovers after it has been out of the aura for 1 minute. This drained condition value is cumulative with the drained value caused by drain life, but not with multiple draining presence auras.\n\nA creature that succeeds at its save is temporarily immune to draining presence for 24 hours."
 
   - name: "Sunlight Powerlessness"
-    desc: "  A dread wraith caught in sunlight is [[Conditions/Stunned 1|Stunned 2]] and [[Conditions/Clumsy 1|Clumsy 2]]."
+    desc: "  A dread wraith caught in sunlight is [[Conditions/Stunned|Stunned 2]] and [[Conditions/Clumsy|Clumsy 2]]."
 
 attacks:
   - name: ""
@@ -76,14 +77,20 @@ attacks:
     desc: "`pf2:1` Spectral Hand +21 (finesse, reach 10 feet)\n__Damage__  2d10 + 7 void plus drain-life"
 
   - name: "Absorb Wraith"
-    desc: "`pf2:2`  The dread wraith extends its hand toward another wraith creature within 100 feet. The target wraith dissolves and streaks toward the dread wraith in a straight line, dealing 6d10 void damage to each creature along the line (DC 28 Fortitude check save).\nThe dread wraith absorbs the essence of the target wraith, becoming [[Conditions/Quickened|Quickened]] and gaining a +10-foot status bonus to its fly Speed for a number of rounds equal to the level of the absorbed wraith. It can use its extra action only to Fly or Strike.\nAn unwilling target can attempt a DC 28 Will check save to resist being absorbed."
+    desc: "`pf2:2`  The dread wraith extends its hand toward another wraith creature within 100 feet. The target wraith dissolves and streaks toward the dread wraith in a straight line, dealing 6d10 void damage to each creature along the line (DC 28 Fortitude check save).\n\nThe dread wraith absorbs the essence of the target wraith, becoming [[Conditions/Quickened|Quickened]] and gaining a +10-foot status bonus to its fly Speed for a number of rounds equal to the level of the absorbed wraith. It can use its extra action only to Fly or Strike.\n\nAn unwilling target can attempt a DC 28 Will check save to resist being absorbed."
 
   - name: "Drain Life"
-    desc: " (divine) When the dread wraith damages a living creature with its spectral hand Strike, the wraith gains 10 temporary Hit Points and the target must succeed at a DC 28 Fortitude check save or become [[Conditions/Drained 1|Drained 1]]. Further damage dealt by the wraith increases the drained condition value by 1 on a failed save, to a maximum of drained 4."
+    desc: " (divine) When the dread wraith damages a living creature with its spectral hand Strike, the wraith gains 10 temporary Hit Points and the target must succeed at a DC 28 Fortitude check save or become [[Conditions/Drained|Drained 1]]. Further damage dealt by the wraith increases the drained condition value by 1 on a failed save, to a maximum of drained 4."
 
   - name: "Wraith Spawn"
     desc: " (divine) A living humanoid slain by a wraith's spectral hand Strike rises as a [[Bestiary 1/Wraith|Wraith Spawn]] after 1d4 rounds. This wraith spawn is under the command of the dread wraith that killed it. It doesn't have drain life or wraith spawn. If the creator of the wraith spawn dies, the wraith spawn becomes a full-fledged, autonomous wraith; it regains its free will and gains drain life and wraith spawn."
  
+```
+
+```encounter-table
+name: Dread Wraith
+creatures:
+  - 1: Dread Wraith
 ```
 
 

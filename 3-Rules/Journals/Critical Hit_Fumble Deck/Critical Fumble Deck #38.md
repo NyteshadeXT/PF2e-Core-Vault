@@ -26,6 +26,6 @@ tags:
 
 # The magic is Gone
 
-> You take a [[Other Effects/Effect\_ -1 circumstance penalty to attack rolls until you score a critical hit|-1 circumstance penalty to attack rolls until you score a critical hit]].
+> You take a [[Other Effects/Effect_ -1 circumstance penalty to attack rolls until you score a critical hit|-1 circumstance penalty to attack rolls until you score a critical hit]].
 
 `Spell`

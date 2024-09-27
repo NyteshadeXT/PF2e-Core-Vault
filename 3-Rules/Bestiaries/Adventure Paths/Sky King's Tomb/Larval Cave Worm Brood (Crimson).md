@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.sky-kings-tomb-bestiary.Actor.yy9hvwzwFsz7gxA2"
 tags:
   - pf2e/creature/type/animal
   - pf2e/creature/type/swarm
+  - pf2eMonster
   - pf2e/creature/level/11
 statblock: inline
 name: "Larval Cave Worm Brood (Crimson)"
@@ -21,18 +22,19 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #195: Heavy is the Crown"
 name: "Larval Cave Worm Brood (Crimson)"
 level: "Creature 11"
-rare_03: "Rare"
+rare_03: [[Rare]]
 alignment: ""
 size: "huge"
-trait_01: "animal"
-trait_02: "swarm"
+trait_01: [[animal]]
+trait_02: [[swarm]]
 modifier: 16
 perception:
   - name: "Perception"
     desc: "+16; Darkvision, Tremorsense (Imprecise) 100 Feet"
+languages: ""
 skills:
   - name: "Skills"
-    desc: "Athletics: +22"
+    desc: "Athletics: +24"
 abilityMods: [6, 3, 6, -5, -2, -2]
 speed: 30 feet,  burrow 30 feet,  swim 20 feet
 sourcebook: "_Pathfinder #195: Heavy is the Crown_"
@@ -51,10 +53,10 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Relentless"
-    desc: "  When a juvenile cave worm gains the [[Conditions/Paralyzed|Paralyzed]], [[Conditions/Slowed 1|Slowed]], or [[Conditions/Stunned 1|Stunned]] condition, reduce the duration by half, to a minimum of 1 round. It also recovers from penalties to its Speeds and the [[Conditions/Immobilized|Immobilized]] condition at the end of its turn. Finally, it ignores non-magical difficult terrain and treats greater difficult terrain like difficult terrain."
+    desc: "  When a juvenile cave worm gains the [[Conditions/Paralyzed|Paralyzed]], [[Conditions/Slowed|Slowed]], or [[Conditions/Stunned|Stunned]] condition, reduce the duration by half, to a minimum of 1 round. It also recovers from penalties to its Speeds and the [[Conditions/Immobilized|Immobilized]] condition at the end of its turn. Finally, it ignores non-magical difficult terrain and treats greater difficult terrain like difficult terrain."
 
   - name: "Shake It Off"
-    desc: "`pf2:r`  **Trigger** The larval cave worm brood would be affected by a condition or adverse effect (such as [[Spells/Cursed Metamorphosis|Cursed Metamorphosis]])\n**Effect** The larval brood negates the triggering condition or effect. Effects from artifacts, deities, or a similarly powerful source can't be avoided in this way."
+    desc: "`pf2:r`  **Trigger** The larval cave worm brood would be affected by a condition or adverse effect (such as [[Spells/Cursed Metamorphosis|Cursed Metamorphosis]])\n* * *\n\n**Effect** The larval brood negates the triggering condition or effect. Effects from artifacts, deities, or a similarly powerful source can't be avoided in this way."
 
 attacks:
   - name: ""
@@ -63,8 +65,14 @@ attacks:
     desc: "`pf2:1`  Each foe in the larval swarm's space takes 6d6 piercing damage (DC 29 Reflex check save)."
 
   - name: "Pummeling Thrash"
-    desc: "`pf2:1` (attack) **Requirements** The larval swarm's most recent action was Ferocious Gnaw\n**Effect** The larval swarm frantically thrashes in an effort to consume its prey. The larval swarm attempts an Athletics check check and compares the result to the Reflex DC of each creature in its space.\n**Critical Success** The creature falls [[Conditions/Prone|Prone]] and take 4d6 bludgeoning damage.\n**Success** The creature falls prone and takes 2d6 bludgeoning damage."
+    desc: "`pf2:1` (attack) **Requirements** The larval swarm's most recent action was Ferocious Gnaw\n* * *\n\n**Effect** The larval swarm frantically thrashes in an effort to consume its prey. The larval swarm attempts an Athletics check check and compares the result to the Reflex DC of each creature in its space.\n* * *\n\n**Critical Success** The creature falls [[Conditions/Prone|Prone]] and take 4d6 bludgeoning damage.\n\n**Success** The creature falls prone and takes 2d6 bludgeoning damage."
  
+```
+
+```encounter-table
+name: Larval Cave Worm Brood (Crimson)
+creatures:
+  - 1: Larval Cave Worm Brood (Crimson)
 ```
 
 

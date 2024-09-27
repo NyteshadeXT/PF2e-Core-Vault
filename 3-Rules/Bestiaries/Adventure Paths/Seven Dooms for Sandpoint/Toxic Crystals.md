@@ -4,6 +4,7 @@ obsidianUIMode: preview
 noteType: pf2eHazard
 tags:
   - environmental
+  - pf2eHazard
   - complex
 source: Pathfinder #200: Seven Dooms for Sandpoint
 aliases: "Compendium.pf2e.seven-dooms-for-sandpoint-bestiary.Actor.SLI7mE4SLmm87ahe" 
@@ -21,13 +22,13 @@ name: "Toxic Crystals"
 level: "Hazard 7"
 
 trait_06: "Complex"
-trait_01: "environmental"
+trait_01: [[environmental]]
 modifier: 13
 sourcebook: "_Pathfinder #200: Seven Dooms for Sandpoint_"
 ac: 25
 armorclass:
   - name: AC
-    desc: "25; __Fort__ +20, __Ref__ +12, __Will__ +0"
+    desc: "25; __Fort__ +20, __Ref__ +12, "
 hp: 60
 health:
   - name: ""
@@ -49,11 +50,17 @@ attacks:
   - name: ""
 
   - name: "Nauseating Pulse"
-    desc: "`pf2:r` (poison) **Trigger** A living creature comes within 20 feet of the green crystals\n**Effect** The crystals pulse with nauseating light. All creatures in area **E14** or within the first 10 feet of either passage leading out of this area must succeed at a DC 25 Fortitude check save or become [[Conditions/Sickened 1|Sickened 1]] (or [[Conditions/Sickened 1|Sickened 3]] on a critical failure)."
+    desc: "`pf2:r` (poison) **Trigger** A living creature comes within 20 feet of the green crystals\n* * *\n\n**Effect** The crystals pulse with nauseating light. All creatures in area **E14** or within the first 10 feet of either passage leading out of this area must succeed at a DC 25 Fortitude check save or become [[Conditions/Sickened|Sickened 1]] (or [[Conditions/Sickened|Sickened 3]] on a critical failure)."
 
   - name: "Routine"
-    desc: "(1 action) (light, poison) Each round on their action, the toxic crystals emit a shrill humming sound and flash brightly with green light. All creatures in area **E14** or within the first 10 feet of either passage leading out of this area must attempt a DC 25 Fortitude check save.\n**Critical Success** The creature is unaffected.\n**Success** The creature takes 2d8 poison damage.\n**Failure** The creature takes 4d8 poison damage and is [[Conditions/Dazzled|Dazzled]] for 1 minute.\n**Critical Failure** The creature takes 4d8 poison damage, becomes [[Conditions/Enfeebled 1|Enfeebled 1]], and is [[Conditions/Blinded|Blinded]] for 1 minute."
+    desc: "(1 action) (light, poison) Each round on their action, the toxic crystals emit a shrill humming sound and flash brightly with green light. All creatures in area **E14** or within the first 10 feet of either passage leading out of this area must attempt a DC 25 Fortitude check save.\n* * *\n\n**Critical Success** The creature is unaffected.\n\n**Success** The creature takes 2d8 poison damage.\n\n**Failure** The creature takes 4d8 poison damage and is [[Conditions/Dazzled|Dazzled]] for 1 minute.\n\n**Critical Failure** The creature takes 4d8 poison damage, becomes [[Conditions/Enfeebled|Enfeebled 1]], and is [[Conditions/Blinded|Blinded]] for 1 minute."
   - name: "Reset"
     desc: "The toxic crystals become dormant once no living creatures are in range, but can activate again as soon as another living creature comes in range."
+```
+
+```encounter-table
+name: Toxic Crystals
+creatures:
+  - 1: Toxic Crystals
 ```
 

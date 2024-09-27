@@ -11,6 +11,7 @@ tags:
   
 
 **STRUCTURES**
+ 
 | **Door** | **Climb DC** | **Hardness, HP (BT)** |
 | --- | --- | --- |
 | Wood | 20 | 10, 40 (20) |

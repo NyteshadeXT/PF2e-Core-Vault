@@ -14,7 +14,7 @@ tags:
 
 # Sprain
 
-> Until healed, you are [[Conditions/Clumsy 1|Clumsy 2]].
+> Until healed, you are [[Conditions/Clumsy|Clumsy 2]].
 
 `Ranged`
 
@@ -26,6 +26,6 @@ tags:
 
 # Vertigo
 
-> You are [[Conditions/Sickened 1|Sickened 2]].
+> You are [[Conditions/Sickened|Sickened 2]].
 
 `Spell`

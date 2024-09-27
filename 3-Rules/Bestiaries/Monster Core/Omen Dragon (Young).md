@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.pathfinder-monster-core.Actor.7Uf4Q9w3dCDEV30e"
 tags:
   - pf2e/creature/type/dragon
   - pf2e/creature/type/occult
+  - pf2eMonster
   - pf2e/creature/level/7
   - remaster
 statblock: inline
@@ -19,14 +20,15 @@ license: ORC
 columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
+token: [[modules/pf2e-tokens-monster-core/assets/portraits/dragon-omen-young.webp| ]]
 source: "Pathfinder Monster Core"
 name: "Omen Dragon (Young)"
 level: "Creature 7"
 
 alignment: ""
 size: "Large"
-trait_01: "dragon"
-trait_02: "occult"
+trait_01: [[dragon]]
+trait_02: [[occult]]
 modifier: 15
 perception:
   - name: "Perception"
@@ -34,7 +36,7 @@ perception:
 languages: "Common, Draconic"
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +14, Athletics: +16, Diplomacy: +13, Fortune-Telling Lore: +19, Lore (any one subcategory): +17, Occultism: +17, Society: +17"
+    desc: "Acrobatics: +14, Athletics: +16, Diplomacy: +13, Occultism: +17, Society: +17, Fortune-Telling Lore: +19, Lore (any one subcategory): +17"
 abilityMods: [5, 3, 4, 6, 4, 2]
 speed: 40 feet,  fly 100 feet
 sourcebook: "_Pathfinder Monster Core_"
@@ -77,7 +79,7 @@ attacks:
     desc: "DC 25, attack +17; __3rd __  _[[Spells/Ill Omen|Ill Omen]]_, _[[Spells/Mindlink|Mindlink]]_, _[[Spells/Sure Strike|Sure Strike (x2)]]_\n__Cantrips__  __(4th)__ _[[Spells/Guidance|Guidance]]_"
 
   - name: "Destiny Breath"
-    desc: "`pf2:2` (mental,occult) The dragon breathes a translucent mist of potentialities that overwhelms creatures with visions of possible features, dealing 6d6 mental damage in a 20-foot cone (DC 25 Will check save). A creature that fails its save is [[Conditions/Slowed 1|Slowed 1]] for 1 round (or [[Conditions/Slowed 1|Slowed 2]] on a critical failure) as it struggles with the visions.\n\nThe dragon can't use Destiny Breath again for 1d4 rounds."
+    desc: "`pf2:2` (mental,occult) The dragon breathes a translucent mist of potentialities that overwhelms creatures with visions of possible features, dealing 6d6 mental damage in a @Template[cone|distance:20] (DC 25 Will check save). A creature that fails its save is [[Conditions/Slowed|Slowed 1]] for 1 round (or [[Conditions/Slowed|Slowed 2]] on a critical failure) as it struggles with the visions.\n\nThe dragon can't use Destiny Breath again for 1d4 rounds."
 
   - name: "Draconic Frenzy"
     desc: "`pf2:2`  The dragon makes two claw Strikes and one wing Strike in any order."
@@ -88,6 +90,12 @@ attacks:
   - name: "Prophetic Wings"
     desc: "  The dragon or any ally can glimpse into the future through the dragon's wings in a process that requires 10 minutes of concentration. This casts a 4th-rank [[Spells/Augury|Augury]] spell, except that the wings can predict results up to 1 day into the future and the dragon always speaks a few cryptic words related to the result of the prediction.\n\nThe dragon can use their wings in this way only once per hour, and a given creature can seek a future in the wings only once per week."
  
+```
+
+```encounter-table
+name: Omen Dragon (Young)
+creatures:
+  - 1: Omen Dragon (Young)
 ```
 
 

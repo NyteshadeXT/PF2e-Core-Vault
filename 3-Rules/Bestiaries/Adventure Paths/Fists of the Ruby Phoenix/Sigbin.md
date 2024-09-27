@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.fists-of-the-ruby-phoenix-bestiary.Actor.KHPOm5KHtbMNz
 tags:
   - pf2e/creature/type/beast
   - pf2e/creature/type/evil
+  - pf2eMonster
   - pf2e/creature/level/5
 statblock: inline
 name: "Sigbin"
@@ -24,13 +25,13 @@ level: "Creature 5"
 
 alignment: ""
 size: "Small"
-trait_01: "beast"
-trait_02: "evil"
+trait_01: [[beast]]
+trait_02: [[evil]]
 modifier: 12
 perception:
   - name: "Perception"
     desc: "+12; Darkvision, Scent (Imprecise) 30 Feet"
-languages: "Common"
+languages: "Common; (can&#x27;t speak any language)"
 skills:
   - name: "Skills"
     desc: "Acrobatics: +12, Athletics: +10, Stealth: +14"
@@ -50,7 +51,7 @@ abilities_top:
   - name: ""
 
   - name: "Stench"
-    desc: " (aura,olfactory) 30 feet. A creature that enters the emanation must attempt a DC 19 Fortitude check save. On a failure, the creature is [[Conditions/Sickened 1|Sickened 1]], or [[Conditions/Sickened 1|Sickened 2]] on a critical failure. While within the aura, the creature takes a -2 circumstance penalty to saves to recover from the sickened condition. A creature that succeeds at its save is immune to all sigbins' stenches for 1 minute."
+    desc: " (aura,olfactory) 30 feet. A creature that enters the emanation must attempt a DC 19 Fortitude check save. On a failure, the creature is [[Conditions/Sickened|Sickened 1]], or [[Conditions/Sickened|Sickened 2]] on a critical failure. While within the aura, the creature takes a -2 circumstance penalty to saves to recover from the sickened condition. A creature that succeeds at its save is immune to all sigbins' stenches for 1 minute."
 
   - name: "Unassuming Cloak"
     desc: "  A sigbin becomes almost imperceptible if it stands completely still. If the sigbin does not move or attack during its turn, it becomes [[Conditions/Invisible|Invisible]]. It remains invisible until it moves or takes a hostile action. Children and young creatures, like animal cubs, can see the sigbin normally, even while it's invisible."
@@ -70,11 +71,17 @@ attacks:
     desc: "`pf2:1` Tail +12 (agile, finesse, reach 10 feet)\n__Damage__  2d4 + 5 bludgeoning plus knockdown"
 
   - name: "Shadow Drain"
-    desc: "`pf2:2`  **Requirements** The sigbin is [[Conditions/Unnoticed|Unnoticed]] by its target.\n**Effect** The sigbin makes a fangs Strike (unlike other Strikes, this does not end its [[Conditions/Invisible|invisibility]] if the sigbin is invisible). On a hit, the target takes nonlethal damage from the Strike and becomes [[Conditions/Drained 1|Drained 1]] ([[Conditions/Drained 1|Drained 2]] on a critical hit). The sigbin gains 15 temporary Hit Points that remain for 1 hour."
+    desc: "`pf2:2`  **Requirements** The sigbin is [[Conditions/Unnoticed|Unnoticed]] by its target.\n* * *\n\n**Effect** The sigbin makes a fangs Strike (unlike other Strikes, this does not end its [[Conditions/Invisible|invisibility]] if the sigbin is invisible). On a hit, the target takes nonlethal damage from the Strike and becomes [[Conditions/Drained|Drained 1]] ([[Conditions/Drained|Drained 2]] on a critical hit). The sigbin gains 15 temporary Hit Points that remain for 1 hour."
 
   - name: "[[Bestiary Ability Glossary/Knockdown|Knockdown]]"
     desc: "`pf2:1`  "
  
+```
+
+```encounter-table
+name: Sigbin
+creatures:
+  - 1: Sigbin
 ```
 
 

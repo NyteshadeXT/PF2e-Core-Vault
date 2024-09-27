@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/elemental
   - pf2e/creature/type/plant
   - pf2e/creature/type/wood
+  - pf2eMonster
   - pf2e/creature/level/8
   - remaster
 statblock: inline
@@ -26,17 +27,17 @@ level: "Creature 8"
 
 alignment: ""
 size: "Large"
-trait_01: "elemental"
-trait_02: "plant"
-trait_03: "wood"
+trait_01: [[elemental]]
+trait_02: [[plant]]
+trait_03: [[wood]]
 modifier: 16
 perception:
   - name: "Perception"
     desc: "+16; "
-languages: "Arboreal, Common, Muan"
+languages: "Arboreal, Common, Muan; can&#x27;t speak any language"
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +15, Performance: +16"
+    desc: "Acrobatics: +15, Athletics: +14, Performance: +16"
 abilityMods: [4, 6, 3, -2, 3, 4]
 speed: 20 feet,  fly 50 feet
 sourcebook: "_Pathfinder Rage of Elements_"
@@ -55,10 +56,10 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Alluring Scent"
-    desc: " (aura,olfactory,plant,primal) 30 feet.\nA creature that enters the emanation must attempt a DC 25 Will check save. On a failure, the target is [[Conditions/Fascinated|Fascinated]] by the snapdrake and must use at least 1 action on its next turn to Stride closer to the snapdrake. On a success, the target is immune to the snapdrake's alluring scent for 1 hour."
+    desc: " (aura,olfactory,plant,primal) 30 feet.\n\nA creature that enters the emanation must attempt a DC 25 Will check save. On a failure, the target is [[Conditions/Fascinated|Fascinated]] by the snapdrake and must use at least 1 action on its next turn to Stride closer to the snapdrake. On a success, the target is immune to the snapdrake's alluring scent for 1 hour."
 
   - name: "[[Bestiary Ability Glossary/Attack of Opportunity|Attack of Opportunity]]"
-    desc: "`pf2:r`  Tail scythe only\n"
+    desc: "`pf2:r`  Tail scythe only\n\n* * *\n"
 
 attacks:
   - name: ""
@@ -73,19 +74,25 @@ attacks:
     desc: "  The snapdrake ignores difficult terrain and greater difficult terrain from plants and fungi."
 
   - name: "Snapdrake Pollen"
-    desc: " (plant,poison) **Saving Throw** DC 25 Fortitude check;\n**Maximum Duration** 8 rounds\n**Stage 1** 1d6 poison damage plus [[Conditions/Dazzled|Dazzled]] 1 (1 round)\n**Stage 2** 1d6 poison damage plus dazzled 1 and [[Conditions/Sickened 1|Sickened 1]] (2 rounds)\n**Stage 3** 2d6 poison damage plus [[Conditions/Confused|Confused]] and sickened 1 (2 rounds)"
+    desc: " (plant,poison) **Saving Throw** DC 25 Fortitude check;\n\n**Maximum Duration** 8 rounds\n\n**Stage 1** 1d6 poison damage plus [[Conditions/Dazzled|Dazzled]] 1 (1 round)\n\n**Stage 2** 1d6 poison damage plus dazzled 1 and [[Conditions/Sickened|Sickened 1]] (2 rounds)\n\n**Stage 3** 2d6 poison damage plus [[Conditions/Confused|Confused]] and sickened 1 (2 rounds)"
 
   - name: "Speed Surge"
-    desc: "`pf2:1` (move) **Frequency** 3 times per day\n**Effect** The snapdrake moves up to twice its Speed."
+    desc: "`pf2:1` (move) **Frequency** 3 times per day\n* * *\n\n**Effect** The snapdrake moves up to twice its Speed."
 
   - name: "Spray Pollen"
-    desc: "`pf2:2` (arcane,plant,poison) The snapdrake breathes a blast of pollen in a 40-foot cone. Creatures caught in the blast must succeed at a DC 25 Reflex check save or be exposed to snapdrake pollen.\nThe snapdrake can't use Spray Pollen again for 1d6 rounds."
+    desc: "`pf2:2` (arcane,plant,poison) The snapdrake breathes a blast of pollen in a @Template[cone|distance:40]. Creatures caught in the blast must succeed at a DC 25 Reflex check save or be exposed to snapdrake pollen.\n\nThe snapdrake can't use Spray Pollen again for 1d6 rounds."
 
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
     desc: "`pf2:1`  "
  
 ```
 
+```encounter-table
+name: Snapdrake
+creatures:
+  - 1: Snapdrake
+```
 
 
-Skilled kizidhar mages and gardeners handcraft these lovely creatures as much for their shuyookhs’ aesthetic pleasure as for their protection. Creating a snapdrake requires first painstakingly constructing a frame of living wood in the shape of a drake before weaving thousands of colorful snapdragon flowers into intricate patterns to form its body and scales. Once complete, snapdrakes often serve kizidhars as a combination of guards, pets, and decorations for as long as they are well fed.
+
+Skilled kizidhar mages and gardeners handcraft these lovely creatures as much for their shuyookhs' aesthetic pleasure as for their protection. Creating a snapdrake requires first painstakingly constructing a frame of living wood in the shape of a drake before weaving thousands of colorful snapdragon flowers into intricate patterns to form its body and scales. Once complete, snapdrakes often serve kizidhars as a combination of guards, pets, and decorations for as long as they are well fed.

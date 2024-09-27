@@ -6,6 +6,7 @@ cssClasses: pf2e
 aliases: "Compendium.pf2e.pathfinder-monster-core.Actor.QCPpQya5TEUuIxQn" 
 tags:
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/7
   - remaster
 statblock: inline
@@ -25,7 +26,7 @@ level: "Creature 7"
 
 alignment: ""
 size: "Medium"
-trait_01: "humanoid"
+trait_01: [[humanoid]]
 modifier: 16
 perception:
   - name: "Perception"
@@ -56,7 +57,7 @@ abilities_mid:
     desc: "`pf2:r`  **Trigger** A creature ends its turn adjacent to the medusa.\n* * *\n\n**Effect** The medusa makes a snake fangs Strike against the creature."
 
   - name: "Petrifying Gaze"
-    desc: " (arcane,aura,visual) 30 feet.\n\nWhen a creature ends its turn in the aura, it must attempt a DC 25 Fortitude check save. If the creature fails, it becomes [[Conditions/Slowed 1|Slowed 1]] for 1 minute.\n\nThe medusa can deactivate or activate this aura by using a single action, which has the concentrate trait."
+    desc: " (arcane,aura,visual) 30 feet.\n\nWhen a creature ends its turn in the aura, it must attempt a DC 25 Fortitude check save. If the creature fails, it becomes [[Conditions/Slowed|Slowed 1]] for 1 minute.\n\nThe medusa can deactivate or activate this aura by using a single action, which has the concentrate trait."
 
 attacks:
   - name: ""
@@ -74,8 +75,14 @@ attacks:
     desc: "`pf2:1` (arcane,concentrate,incapacitation,visual) The medusa fixes their glare at a creature they can see within 30 feet. The target must immediately attempt a DC 25 Fortitude check save against the medusa's petrifying gaze.\n\nIf the creature was already slowed by petrifying gaze before attempting its save, a failed save causes it to be petrified permanently. After attempting its save, the creature is then temporarily immune until the start of the medusa's next turn."
 
   - name: "Serpent Venom"
-    desc: " (poison) **Saving Throw** DC 25 Fortitude check\n* * *\n\n**Maximum Duration** 6 rounds\n\n**Stage 1** 1d6 poison damage and [[Conditions/Enfeebled 1|Enfeebled 1]] (1 round)\n\n**Stage 2** 2d6 poison damage and [[Conditions/Enfeebled 1|Enfeebled 2]] (1 round)"
+    desc: " (poison) **Saving Throw** DC 25 Fortitude check\n* * *\n\n**Maximum Duration** 6 rounds\n\n**Stage 1** 1d6 poison damage and [[Conditions/Enfeebled|Enfeebled 1]] (1 round)\n\n**Stage 2** 2d6 poison damage and [[Conditions/Enfeebled|Enfeebled 2]] (1 round)"
  
+```
+
+```encounter-table
+name: Medusa
+creatures:
+  - 1: Medusa
 ```
 
 

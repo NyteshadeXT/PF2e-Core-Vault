@@ -9,8 +9,9 @@ tags:
   - trait/potion
   - trait/uncommon
   - category/potion
+  - remaster
 aliases: "Compendium.pf2e.equipment-srd.Item.ThX0ntpTqonGqguT"
-license: OGL
+license: ORC
 ---
 # Potion of Disguise (Greater)
 ## Item 11
@@ -21,7 +22,7 @@ license: OGL
 **Bulk** L; **Size** med
 **Usage** held-in-one-hand
 
-**Activate** `pf2:1` Interact
+**Activate** `pf2:1` (manipulate)
 
 * * *
 
@@ -33,5 +34,5 @@ The effects of this potion use the same rules as the [[Actions/Impersonate|Imper
 
 While drinking a _greater potion of disguise_, if you picture the specific form you want to transform into, the potion will change you into that form. You can attempt to Impersonate a specific individual, though you still need to roll Deception.
 
-*Source: Pathfinder Advanced Player's Guide*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

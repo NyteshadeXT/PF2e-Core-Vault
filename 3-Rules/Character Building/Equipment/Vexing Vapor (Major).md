@@ -34,7 +34,7 @@ license: OGL
 
 * * *
 
-This flask contains a fine red powder made from toxic berries. You gain a +3 item bonus to attack rolls. A major vexing vapor bomb deals 4d6 mental damage and 4 mental splash damage e. On a hit, the target must succeed at a DC 5 Flat check check before taking actions with the concentrate trait. This lasts until the end of its next turn (1 minute on a critical hit).
+This flask contains a fine red powder made from toxic berries. You gain a +3 item bonus to attack rolls. A major vexing vapor bomb deals 4d6 mental damage and 4 mental splash damage. On a hit, the target must succeed at a DC 5 Flat check check before taking actions with the concentrate trait. This lasts until the end of its next turn (1 minute on a critical hit).
 
 *Source: Pathfinder Lost Omens: The Grand Bazaar*
 *OGL*

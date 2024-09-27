@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/human
   - pf2e/creature/type/humanoid
   - pf2e/creature/type/lawful
+  - pf2eMonster
   - pf2e/creature/level/20
 statblock: inline
 name: "Rinnarv Bontimar"
@@ -23,13 +24,13 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #150: Broken Promises"
 name: "Rinnarv Bontimar"
 level: "Creature 20"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Medium"
-trait_01: "elf"
-trait_02: "human"
-trait_03: "humanoid"
-trait_04: "lawful"
+trait_01: [[elf]]
+trait_02: [[human]]
+trait_03: [[humanoid]]
+trait_04: [[lawful]]
 modifier: 32
 perception:
   - name: "Perception"
@@ -37,7 +38,7 @@ perception:
 languages: "Common, Draconic, Elven"
 skills:
   - name: "Skills"
-    desc: "Arcana: +32, Athletics: +38, Deception: +34, Diplomacy: +38, Hermea Lore: +32, Occultism: +34, Religion: +38"
+    desc: "Arcana: +32, Athletics: +38, Deception: +34, Diplomacy: +38, Occultism: +34, Religion: +38, Hermea Lore: +32"
 abilityMods: [8, 7, 8, 3, 4, 10]
 speed: 30 feet
 sourcebook: "_Pathfinder #150: Broken Promises_"
@@ -57,7 +58,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "[[Bestiary Ability Glossary/Attack of Opportunity|Attack of Opportunity (Special)]]"
-    desc: "`pf2:r`  Rinnarv can use Attack of Opportunity when a creature within his reach uses a concentrate action, in addition to its normal trigger. He can disrupt triggering concentrate actions, and he disrupts actions on any hit, not just a critical hit.\n"
+    desc: "`pf2:r`  Rinnarv can use Attack of Opportunity when a creature within his reach uses a concentrate action, in addition to its normal trigger. He can disrupt triggering concentrate actions, and he disrupts actions on any hit, not just a critical hit.\n\n* * *\n"
 
 attacks:
   - name: ""
@@ -72,8 +73,14 @@ attacks:
     desc: "  When Rinnarv casts one of his bloodline spells or a spell from his list of granted spells, he creates an aura that protects himself or one of the targets of the spell. The aura grants a +1 status bonus to saving throws for 1 round."
 
   - name: "Spell Strike"
-    desc: "  **Frequency** once per round\n**Trigger** Rinnarv begins to Cast a Spell that targets at least 1 creature\n**Effect** Rinnarv channels his spell through his blade. He makes a Strike with his blade against a target within reach. If the Strike is successful, the target is automatically subject to the spell. If the spell required an attack roll, the target is hit. If the spell required a saving throw, the target takes a -4 status penalty to its saving throw instead. If the spell could target multiple creatures, it targets only the creature Rinnarv hit with his Strike."
+    desc: "  **Frequency** once per round\n\n**Trigger** Rinnarv begins to Cast a Spell that targets at least 1 creature\n* * *\n\n**Effect** Rinnarv channels his spell through his blade. He makes a Strike with his blade against a target within reach. If the Strike is successful, the target is automatically subject to the spell. If the spell required an attack roll, the target is hit. If the spell required a saving throw, the target takes a -4 status penalty to its saving throw instead. If the spell could target multiple creatures, it targets only the creature Rinnarv hit with his Strike."
  
+```
+
+```encounter-table
+name: Rinnarv Bontimar
+creatures:
+  - 1: Rinnarv Bontimar
 ```
 
 

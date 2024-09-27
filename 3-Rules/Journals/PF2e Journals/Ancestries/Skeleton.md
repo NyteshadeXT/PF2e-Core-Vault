@@ -80,4 +80,6 @@ Clatterjaw, Creaker, Doorstop, Final Sacrifice, Gochiyo, Lectern, Macefodder, Si
 
 [[Heritages/Monstrous Skeleton|Monstrous Skeleton]]
 
+[[Heritages/Shifting Skeleton|Shifting Skeleton]]
+
 [[Heritages/Sturdy Skeleton|Sturdy Skeleton]]

@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.pathfinder-bestiary-3.Actor.Pnw71fJ41j6Wx62M"
 tags:
   - pf2e/creature/type/chaotic
   - pf2e/creature/type/fey
+  - pf2eMonster
   - pf2e/creature/level/11
 statblock: inline
 name: "Harmona"
@@ -22,11 +23,11 @@ token: [[modules/pf2e-tokens-bestiaries/portraits/fey/harmona.webp| ]]
 source: "Pathfinder Bestiary 3"
 name: "Harmona"
 level: "Creature 11"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "tiny"
-trait_01: "chaotic"
-trait_02: "fey"
+trait_01: [[chaotic]]
+trait_02: [[fey]]
 modifier: 24
 perception:
   - name: "Perception"
@@ -53,7 +54,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Flit Back"
-    desc: "`pf2:r`  **Trigger** A creature enters the harmona's space or an adjacent square\n**Effect** The harmona Flies 10 feet away from the triggering creature."
+    desc: "`pf2:r`  **Trigger** A creature enters the harmona's space or an adjacent square\n* * *\n\n**Effect** The harmona Flies 10 feet away from the triggering creature."
 
 attacks:
   - name: ""
@@ -68,17 +69,23 @@ attacks:
     desc: "DC 30, attack +22\n__Cantrips__  __(4th)__ _[[Spells/Detect Magic|Detect Magic]]_"
 
   - name: "Concussive Blow"
-    desc: "`pf2:2` (primal,sonic) The harmona makes a beak Strike, channeling disruptive sound waves into the blow. On a hit, the target must succeed at a DC 30 Fortitude check save or become [[Conditions/Stunned 1|Stunned 1]] ([[Conditions/Stunned 1|Stunned 2]] on a critical failure).\nAfter this Strike, the harmona can Fly up to half their fly Speed."
+    desc: "`pf2:2` (primal,sonic) The harmona makes a beak Strike, channeling disruptive sound waves into the blow. On a hit, the target must succeed at a DC 30 Fortitude check save or become [[Conditions/Stunned|Stunned 1]] ([[Conditions/Stunned|Stunned 2]] on a critical failure).\n\nAfter this Strike, the harmona can Fly up to half their fly Speed."
 
   - name: "Subsonic Pulse"
-    desc: "`pf2:2` (primal) The harmona beats their wings rapidly towards the ground, creating a nearly inaudible rumble and sending a wave of shaking earth to overwhelm their enemies.\nEach creature in a 15-foot emanation must succeed at a DC 30 Fortitude check save or take 6d6 sonic damage. A creature that fails its save is knocked [[Conditions/Prone|Prone]] from the shaking ground."
+    desc: "`pf2:2` (primal) The harmona beats their wings rapidly towards the ground, creating a nearly inaudible rumble and sending a wave of shaking earth to overwhelm their enemies.\n\nEach creature in a @Template[emanation|distance:15] must succeed at a DC 30 Fortitude check save or take 6d6 sonic damage. A creature that fails its save is knocked [[Conditions/Prone|Prone]] from the shaking ground."
 
   - name: "Ultrasonic Thrust"
-    desc: "`pf2:2` (primal,sonic) The harmona beats their wings skyward, creating a spiraling vibration. Each creature in a 30-foot cone must attempt a DC 30 Reflex check save as the high-frequency blast flings them up and away.\n**Critical Success** The creature is unaffected.\n**Success** The creature is pushed 5 feet away and knocked off balance, becoming [[Conditions/Off-Guard|Off-Guard]] until the start of their next turn.\n**Failure** Sonic waves fling the creature 15 feet back from the harmona. The creature takes 6d6 bludgeoning damage from the fall and lands [[Conditions/Prone|Prone]].\n**Critical Failure** As failure, but the creature is flung 30 feet and takes double damage."
+    desc: "`pf2:2` (primal,sonic) The harmona beats their wings skyward, creating a spiraling vibration. Each creature in a @Template[cone|distance:30] must attempt a DC 30 Reflex check save as the high-frequency blast flings them up and away.\n* * *\n\n**Critical Success** The creature is unaffected.\n\n**Success** The creature is pushed 5 feet away and knocked off balance, becoming [[Conditions/Off-Guard|Off-Guard]] until the start of their next turn.\n\n**Failure** Sonic waves fling the creature 15 feet back from the harmona. The creature takes 6d6 bludgeoning damage from the fall and lands [[Conditions/Prone|Prone]].\n\n**Critical Failure** As failure, but the creature is flung 30 feet and takes double damage."
 
   - name: "[[Bestiary Ability Glossary/Push|Push]]"
     desc: "`pf2:1`  "
  
+```
+
+```encounter-table
+name: Harmona
+creatures:
+  - 1: Harmona
 ```
 
 

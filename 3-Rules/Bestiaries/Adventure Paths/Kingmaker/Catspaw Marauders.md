@@ -1,15 +1,16 @@
 ---
-title: "Catspaw Marauders"
+title: Catspaw Marauders
 obsidianUIMode: preview
-noteType: pf2eMonster
+noteType: pf2eArmy
 cssClasses: pf2e
-aliases: "Compendium.pf2e.kingmaker-bestiary.Actor.NeOFdBMSjhuZKEwG" 
 tags:
-  - pf2e/creature/level/11
-statblock: inline
-name: "Catspaw Marauders"
+  - pf2eArmy
+
+source: 
+aliases: "Compendium.pf2e.kingmaker-bestiary.Actor.NeOFdBMSjhuZKEwG" 
 level: 11
 license: 
+statblock: inline
 ---
 
 ```statblock
@@ -18,39 +19,57 @@ forcecolumns: true
 layout: Basic Pathfinder 2e Layout
 source: ""
 name: "Catspaw Marauders"
-level: "Creature 11"
+level: "Army 11"
+
 
 alignment: ""
 size: "Medium"
-modifier: 
+trait_01: skirmisher
+modifier: 21
 perception:
-  - name: "Perception"
-    desc: "NaN; Low-Light Vision"
-skills:
-  - name: "Skills"
-    desc: ""
-abilityMods: [, , , , , ]
-speed: 
-sourcebook: "__"
-ac: 
+  - name: ""
+  - name: "Scouting"
+    desc: "+21"
+  - name: "Recruitment DC"
+    desc: "; __Consumption__ 0"
+  - name: "Description"
+    desc: "The Catspaw Marauders consist mostly of humans and half-elves who fight with kukris and longbows."
+ac: 31
 armorclass:
   - name: AC
-    desc: "; __Fort__ NaN, __Ref__ NaN, __Will__ NaN"
+    desc: "31; __Maneuver__ +24, __Morale__ +18"
 hp: 4
 health:
   - name: ""
-  - name: HP
-    desc: "4"
+  - name: "HP"
+    desc: "4 (RT 2))"
 abilities_top:
   - name: ""
 
 abilities_mid:
   - name: ""
+  - name: "Melee"
+    desc: "Kukris +18"
+  - name: "Ranged"
+    desc: "Magic Longbows +19"
+
 attacks:
   - name: ""
+
+  - name: "Low-Light Vision"
+    desc: "The army includes several spotters and scouts who have low-light vision, and the rest of the soldiers have been trained to follow their lead so that the army itself functions as if it had low-light vision."
+
+  - name: "Ambush"
+    desc: "Your skirmishers are experts at ambushing. On the first round of a war encounter, if your turn occurs before any enemy army turns, you can choose to start the encounter with your army already engaged with an enemy army whose initiative result is lower than yours. If you do so, your army gains a +2 status bonus on the first Attack war action they make against that army on the first round of the encounter."
+
+  - name: "Sharpshooter"
+    desc: "The commander drills the army in precision ranged attacks. You gain a +1 status bonus on attacks with ranged Strikes, but suffer a –2 status bonus on attacks with melee Strikes. At 9th level, the penalty to melee Strikes is reduced to –1, and at 15th level the penalty to melee Strikes is removed.\n\nThe army can use the [[Kingmaker Features/Covering Fire|Covering Fire]] tactical war action."
  
 ```
 
-
-
+```encounter-table
+name: Catspaw Marauders
+creatures:
+  - 1: Catspaw Marauders
+```
 

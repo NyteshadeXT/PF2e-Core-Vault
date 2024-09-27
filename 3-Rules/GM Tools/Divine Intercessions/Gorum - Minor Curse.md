@@ -17,7 +17,7 @@ license: OGL
 
 
 
-**Minor Curse** Gorum rewards cowardice with frailty. Any armor you wear and shield you wield reduces its item bonus to AC by 2 (minimum 0) and its Hardness, Hit Points, and Break Threshold by half.
+Gorum rewards cowardice with frailty. Any armor you wear and shield you wield reduces its item bonus to AC by 2 (minimum 0) and its Hardness, Hit Points, and Break Threshold by half.
 
 *Source: Pathfinder Lost Omens: Gods & Magic*
 *OGL*

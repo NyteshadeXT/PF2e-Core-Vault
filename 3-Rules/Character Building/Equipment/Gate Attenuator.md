@@ -23,7 +23,7 @@ _Gate attenuators_ are typically worn near the body's core and are shaped like p
 
 * * *
 
-**Activate - Elemental Spell `pf2:2`** (concentrate)
+**Activate - Elemental Spell** `pf2:2` (concentrate)
 
 **Frequency** once per day
 

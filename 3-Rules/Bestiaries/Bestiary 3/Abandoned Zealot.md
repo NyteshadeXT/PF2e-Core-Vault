@@ -11,6 +11,7 @@ tags:
   - pf2e/creature/type/spirit
   - pf2e/creature/type/undead
   - pf2e/creature/type/unholy
+  - pf2eMonster
   - pf2e/creature/level/6
 statblock: inline
 name: "Abandoned Zealot"
@@ -29,20 +30,20 @@ level: "Creature 6"
 
 alignment: ""
 size: "Medium"
-trait_01: "chaotic"
-trait_02: "evil"
-trait_03: "incorporeal"
-trait_04: "spirit"
-trait_05: "undead"
-trait_06: "unholy"
+trait_01: [[chaotic]]
+trait_02: [[evil]]
+trait_03: [[incorporeal]]
+trait_04: [[spirit]]
+trait_05: [[undead]]
+trait_06: [[unholy]]
 modifier: 14
 perception:
   - name: "Perception"
     desc: "+14; Darkvision, Lifesense 60 Feet"
-languages: "Common, Necril"
+languages: "Common, Necril; one regional language"
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +14, Boneyard Lore: +12, Intimidation: +14, Religion: +12, Stealth: +16"
+    desc: "Acrobatics: +14, Intimidation: +14, Religion: +12, Stealth: +16, Boneyard Lore: +12"
 abilityMods: [-5, 4, 0, 2, 2, 4]
 speed:  fly 40 feet
 sourcebook: "_Pathfinder Bestiary 3_"
@@ -64,10 +65,10 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Anathematic Aversion"
-    desc: " (emotion,fear,mental) If they encounter a priest of their former faith, an abandoned zealot must attempt a Will save against the highest spell DC among those priests, or the highest Will DC if none of them can cast spells. The zealot attempts this saving throw only once per minute, even if more priests arrive later.\n**Critical Success** The abandoned zealot spends their reaction to Stride directly toward a priest of their former faith. For 1 minute, the abandoned zealot's hand of despair deals one additional damage die against priests of the creature's former faith.\n**Success** The abandoned zealot spends their reaction to Stride directly toward a priest of their former faith.\n**Failure** The abandoned zealot becomes [[Conditions/Frightened 1|Frightened 1]] and gains the [[Conditions/Fleeing|Fleeing]] condition until the end of their next turn.\n**Critical Failure** As failure, but [[Conditions/Frightened 1|Frightened 2]]."
+    desc: " (emotion,fear,mental) If they encounter a priest of their former faith, an abandoned zealot must attempt a Will save against the highest spell DC among those priests, or the highest Will DC if none of them can cast spells. The zealot attempts this saving throw only once per minute, even if more priests arrive later.\n* * *\n\n**Critical Success** The abandoned zealot spends their reaction to Stride directly toward a priest of their former faith. For 1 minute, the abandoned zealot's hand of despair deals one additional damage die against priests of the creature's former faith.\n\n**Success** The abandoned zealot spends their reaction to Stride directly toward a priest of their former faith.\n\n**Failure** The abandoned zealot becomes [[Conditions/Frightened|Frightened 1]] and gains the [[Conditions/Fleeing|Fleeing]] condition until the end of their next turn.\n\n**Critical Failure** As failure, but [[Conditions/Frightened|Frightened 2]]."
 
   - name: "Elegy of the Faithless"
-    desc: "`pf2:r` (divine,mental) **Trigger** A divine spell is cast within 30 feet of the abandoned zealot.\n**Effect** The abandoned zealot howls an elegy of regret, forcing the spellcaster to attempt a DC 22 Will check save, or a higher DC 24 Will check if the caster is a member of the zealot's former faith. On a failure, the elegy disrupts the spell."
+    desc: "`pf2:r` (divine,mental) **Trigger** A divine spell is cast within 30 feet of the abandoned zealot.\n* * *\n\n**Effect** The abandoned zealot howls an elegy of regret, forcing the spellcaster to attempt a DC 22 Will check save, or a higher DC 24 Will check if the caster is a member of the zealot's former faith. On a failure, the elegy disrupts the spell."
 
 attacks:
   - name: ""
@@ -81,6 +82,12 @@ attacks:
   - name: "Rend Faith"
     desc: "  When hit by an abandoned zealot's hand of despair, a creature capable of divine spellcasting or with divinely granted abilities must succeed at a DC 24 Will check save or be unable to use those spells or abilities until the end of its next turn."
  
+```
+
+```encounter-table
+name: Abandoned Zealot
+creatures:
+  - 1: Abandoned Zealot
 ```
 
 

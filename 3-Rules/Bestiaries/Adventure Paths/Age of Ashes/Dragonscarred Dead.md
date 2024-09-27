@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/fire
   - pf2e/creature/type/undead
   - pf2e/creature/type/unholy
+  - pf2eMonster
   - pf2e/creature/level/13
 statblock: inline
 name: "Dragonscarred Dead"
@@ -23,13 +24,13 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #148: Fires of the Haunted City"
 name: "Dragonscarred Dead"
 level: "Creature 13"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Medium"
-trait_01: "evil"
-trait_02: "fire"
-trait_03: "undead"
-trait_04: "unholy"
+trait_01: [[evil]]
+trait_02: [[fire]]
+trait_03: [[undead]]
+trait_04: [[unholy]]
 modifier: 24
 perception:
   - name: "Perception"
@@ -37,7 +38,7 @@ perception:
 languages: "Common, Draconic, Necril"
 skills:
   - name: "Skills"
-    desc: "Athletics: +25, Dragon Lore: +22, Intimidation: +21"
+    desc: "Athletics: +25, Intimidation: +21, Dragon Lore: +22"
 abilityMods: [6, 5, 4, 1, 1, 2]
 speed: 25 feet
 sourcebook: "_Pathfinder #148: Fires of the Haunted City_"
@@ -60,7 +61,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "[[Bestiary Ability Glossary/Frightful Presence|Frightful Presence]]"
-    desc: " (aura,emotion,fear,mental) 60 feet. DC 29 Will check\n"
+    desc: " (aura,emotion,fear,mental) 60 feet. DC 29 Will check\n\n* * *\n"
 
 attacks:
   - name: ""
@@ -72,8 +73,14 @@ attacks:
     desc: "  The dragonscarred dead's weapon is magically scorched by a dragon's breath. When wielded by the dragonscarred dead who carried it in life, the sword deals an extra 2d6 void damage and 3d6 fire damage. In the hands of any other creature, it is merely a broken greatsword."
 
   - name: "Glare of Rage"
-    desc: "`pf2:2` (arcane,mental,visual) The dragonscarred dead focuses its boundless frustration in a gaze targeting one creature it can see within 30 feet. That creature must attempt a DC 30 Will check save.\n**Critical Success** The creature is unaffected.\n**Success** The creature is [[Conditions/Stunned 1|Stunned 1]].\n**Failure** The creature is [[Conditions/Stunned 1|Stunned]] for 1 round.\n**Critical Failure** The creature is stunned for 1d4 rounds and is [[Conditions/Fatigued|Fatigued]]."
+    desc: "`pf2:2` (arcane,mental,visual) The dragonscarred dead focuses its boundless frustration in a gaze targeting one creature it can see within 30 feet. That creature must attempt a DC 30 Will check save.\n* * *\n\n**Critical Success** The creature is unaffected.\n\n**Success** The creature is [[Conditions/Stunned|Stunned 1]].\n\n**Failure** The creature is [[Conditions/Stunned|Stunned]] for 1 round.\n\n**Critical Failure** The creature is stunned for 1d4 rounds and is [[Conditions/Fatigued|Fatigued]]."
  
+```
+
+```encounter-table
+name: Dragonscarred Dead
+creatures:
+  - 1: Dragonscarred Dead
 ```
 
 

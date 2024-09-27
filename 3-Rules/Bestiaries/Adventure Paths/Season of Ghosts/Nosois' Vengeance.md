@@ -5,6 +5,7 @@ noteType: pf2eHazard
 tags:
   - magical
   - trap
+  - pf2eHazard
   - complex
 source: Pathfinder #198: No Breath to Cry
 aliases: "Compendium.pf2e.season-of-ghosts-bestiary.Actor.k9JJEqd1G2EB27Gd" 
@@ -22,8 +23,8 @@ name: "Nosois' Vengeance"
 level: "Hazard 11"
 
 trait_06: "Complex"
-trait_01: "magical"
-trait_02: "trap"
+trait_01: [[magical]]
+trait_02: [[trap]]
 modifier: 23
 sourcebook: "_Pathfinder #198: No Breath to Cry_"
 perception:
@@ -42,9 +43,15 @@ attacks:
   - name: ""
 
   - name: "Summon Vanths"
-    desc: "`pf2:r` (divine, summon) **Trigger** One of the PCs enters the room and is noticed by the hazard\n**Effect** The trap summons four vanths, who then roll initiative and remain for up to 1 minute before the spell ends and the vanths disappear. The summoned vanths can use 3 actions each round and can use reactions, unlike most summoned creatures."
+    desc: "`pf2:r` (divine, summon) **Trigger** One of the PCs enters the room and is noticed by the hazard\n* * *\n\n**Effect** The trap summons four vanths, who then roll initiative and remain for up to 1 minute before the spell ends and the vanths disappear. The summoned vanths can use 3 actions each round and can use reactions, unlike most summoned creatures."
 
 
 
+```
+
+```encounter-table
+name: Nosois' Vengeance
+creatures:
+  - 1: Nosois' Vengeance
 ```
 

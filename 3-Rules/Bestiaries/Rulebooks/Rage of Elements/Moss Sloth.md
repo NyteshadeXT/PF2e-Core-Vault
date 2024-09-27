@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/elemental
   - pf2e/creature/type/plant
   - pf2e/creature/type/wood
+  - pf2eMonster
   - pf2e/creature/level/2
   - remaster
 statblock: inline
@@ -26,13 +27,14 @@ level: "Creature 2"
 
 alignment: ""
 size: "Small"
-trait_01: "elemental"
-trait_02: "plant"
-trait_03: "wood"
+trait_01: [[elemental]]
+trait_02: [[plant]]
+trait_03: [[wood]]
 modifier: 8
 perception:
   - name: "Perception"
     desc: "+8; "
+languages: ""
 skills:
   - name: "Skills"
     desc: "Nature: +7, Survival: +8"
@@ -68,6 +70,12 @@ attacks:
   - name: "Hold Fast"
     desc: "  A moss sloth can climb on ceilings and other inverted surfaces, though it treats such surfaces as difficult terrain."
  
+```
+
+```encounter-table
+name: Moss Sloth
+creatures:
+  - 1: Moss Sloth
 ```
 
 

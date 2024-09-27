@@ -11,7 +11,7 @@ license: OGL
 ---
 # Draxie's Recipe Book
 ## Item 4
-### [[grimoire]][[magical]]
+### [[grimoire]][[3-Rules/Rule References/Magical]]
 
 
 **Price** 90 gp; 

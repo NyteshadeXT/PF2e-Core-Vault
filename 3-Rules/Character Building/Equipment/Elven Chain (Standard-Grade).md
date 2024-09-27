@@ -12,7 +12,7 @@ license: ORC
 ---
 # Elven Chain (Standard-Grade)
 ## Item 13
-### [uncommon](uncommon "Uncommon Rarity Trait")[[flexible]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[flexible]]
 
 **Category** light; **Group** chain
 **Price** 1760 gp; 

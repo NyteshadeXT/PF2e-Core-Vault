@@ -25,7 +25,7 @@ license: ORC
 
 * * *
 
-Fierceness in battle runs through your blood, and you refuse to fall from your injuries no matter how terrible they may be. You avoid being knocked out and remain at 1 Hit Point, and your [[Conditions/Wounded 1|Wounded]] condition increases by 1.
+Fierceness in battle runs through your blood, and you refuse to fall from your injuries no matter how terrible they may be. You avoid being knocked out and remain at 1 Hit Point, and your [[Conditions/Wounded|Wounded]] condition increases by 1.
 
 *Source: Pathfinder Player Core*
 *ORC*

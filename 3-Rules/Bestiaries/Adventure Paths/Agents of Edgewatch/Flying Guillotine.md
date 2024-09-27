@@ -5,6 +5,7 @@ noteType: pf2eHazard
 tags:
   - magical
   - trap
+  - pf2eHazard
   - complex
 source: Pathfinder #157: Devil at the Dreaming Palace
 aliases: "Compendium.pf2e.agents-of-edgewatch-bestiary.Actor.UkmM3bjBoBld0uzS" 
@@ -22,14 +23,14 @@ name: "Flying Guillotine"
 level: "Hazard 5"
 
 trait_06: "Complex"
-trait_01: "magical"
-trait_02: "trap"
+trait_01: [[magical]]
+trait_02: [[trap]]
 modifier: 10
 sourcebook: "_Pathfinder #157: Devil at the Dreaming Palace_"
 ac: 23
 armorclass:
   - name: AC
-    desc: "23; __Fort__ +9, __Ref__ +17, __Will__ +0"
+    desc: "23; __Fort__ +9, __Ref__ +17, "
 hp: 52
 health:
   - name: ""
@@ -51,7 +52,7 @@ attacks:
   - name: ""
 
   - name: "Flying Blade"
-    desc: "`pf2:r` (arcane, attack) **Trigger** A living creature enters the room\n**Effect** One round after a creature enters the room, the door to the room slams shut and locks (two Thievery checks to pick), and the guillotine blade detaches from its housing and begins flying around the room as the trap rolls initiative."
+    desc: "`pf2:r` (arcane, attack) **Trigger** A living creature enters the room\n* * *\n\n**Effect** One round after a creature enters the room, the door to the room slams shut and locks (two Thievery checks to pick), and the guillotine blade detaches from its housing and begins flying around the room as the trap rolls initiative."
 
   - name: "Speed"
     desc: "passive fly 20 feet"
@@ -62,5 +63,11 @@ attacks:
     desc: "(1 action) The blade [[Actions/Fly|Flies]] up to 20 feet and Strikes any creatures whose squares it passes through. It cannot target the same creature more than once per round. The blade cannot be grappled and doesn't take a multiple attack penalty."
   - name: "Reset"
     desc: "After 1 minute, the trap deactivates, though the door remains locked. The trap rearms itself each day at dawn."
+```
+
+```encounter-table
+name: Flying Guillotine
+creatures:
+  - 1: Flying Guillotine
 ```
 

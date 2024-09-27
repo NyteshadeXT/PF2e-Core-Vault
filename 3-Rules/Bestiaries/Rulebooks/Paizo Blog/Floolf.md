@@ -6,6 +6,7 @@ cssClasses: pf2e
 aliases: "Compendium.pf2e.blog-bestiary.Actor.erbFDwCcn1qsJnxS" 
 tags:
   - pf2e/creature/type/animal
+  - pf2eMonster
   - pf2e/creature/level/1
 statblock: inline
 name: "Floolf"
@@ -23,11 +24,12 @@ level: "Creature 1"
 
 alignment: ""
 size: "Medium"
-trait_01: "animal"
-modifier: 0
+trait_01: [[animal]]
+modifier: 11
 perception:
   - name: "Perception"
-    desc: "+0; Darkvision, Scent (Imprecise) 20 Feet"
+    desc: "+11; Darkvision, Scent (Imprecise) 20 Feet"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Acrobatics: +9, Athletics: +9, Stealth: +11, Survival: +10"
@@ -47,7 +49,7 @@ abilities_top:
   - name: ""
 
   - name: "Cute Aggression"
-    desc: "  Floolf pups are so adorable that any creature that is either a mammal, or has an Intelligence above 3 that sees or touches a floolf pup must succeed at a DC 27 Will check save or it will defend the floolf pup with its life. This effect ends when the creature is no longer able to perceive the pup.\nIf the creature can speak, anytime it remembers the floolf pup, it feels a compulsion (Will save DC 15) to tell their story of the encounter, invariably ending with the phrase, “I would die for that floolf.”"
+    desc: "  Floolf pups are so adorable that any creature that is either a mammal, or has an Intelligence above 3 that sees or touches a floolf pup must succeed at a DC 27 Will check save or it will defend the floolf pup with its life. This effect ends when the creature is no longer able to perceive the pup.\n\nIf the creature can speak, anytime it remembers the floolf pup, it feels a compulsion (DC 15 Will check save) to tell their story of the encounter, invariably ending with the phrase, \"I would die for that floolf.\""
 
 abilities_mid:
   - name: ""
@@ -60,6 +62,12 @@ attacks:
   - name: "Pack Attack"
     desc: "  The floolf's attack deals 1d8 extra damage to creatures within the reach of at least two of floolf's allies."
  
+```
+
+```encounter-table
+name: Floolf
+creatures:
+  - 1: Floolf
 ```
 
 

@@ -17,6 +17,7 @@ High-quality weapons and armor give the same benefits as weapon and armor potenc
   
 
 **TABLE: HIGH-QUALITY WEAPONS**
+ 
 | **Quality** | **Item Bonus** | **Property Rune Slots** | **Item Level** | **Price** |
 | --- | --- | --- | --- | --- |
 | Expert | +1 | 1 | 2 | 35 gp |
@@ -26,6 +27,7 @@ High-quality weapons and armor give the same benefits as weapon and armor potenc
   
 
 **TABLE: HIGH-QUALITY ARMOR**
+ 
 | **Quality** | **Bonus Increase** | **Property Rune Slots** | **Item Level** | **Price** |
 | --- | --- | --- | --- | --- |
 | Expert | +1 | 1 | 5 | 160 gp |
@@ -35,6 +37,7 @@ High-quality weapons and armor give the same benefits as weapon and armor potenc
   
 
 **TABLE: DEVASTATING WEAPONS**
+ 
 | **Quality** | **Item Bonus** | **Damage Dice** | **Property Rune Slots** | **Item Level** | **Price** |
 | --- | --- | --- | --- | --- | --- |
 | Expert | +1 | 1 | 1 | 2 | 35 gp |
@@ -47,6 +50,7 @@ High-quality weapons and armor give the same benefits as weapon and armor potenc
   
 
 **TABLE: RESILIENT ARMOR**
+ 
 | **Quality** | **Bonus Increase** | **Save Bonus** | **Property Rune Slots** | **Item Level** | **Price** |
 | --- | --- | --- | --- | --- | --- |
 | Expert | +1 | — | 1 | 5 | 160 gp |
@@ -63,6 +67,7 @@ Items with skill or Perception bonuses don't have fundamental runes. If an exist
   
 
 **TABLE: HIGH-QUALITY SKILL ITEM**
+ 
 | **Quality** | **Item Bonus** | **Item Level** | **Price** |
 | --- | --- | --- | --- |
 | Expert | +1 | 3 | 40 gp |

@@ -6,6 +6,7 @@ cssClasses: pf2e
 aliases: "Compendium.pf2e.pathfinder-bestiary.Actor.Z7xWkQKCHGyd02B1" 
 tags:
   - pf2e/creature/type/animal
+  - pf2eMonster
   - pf2e/creature/level/3
 statblock: inline
 name: "Giant Mantis"
@@ -24,11 +25,12 @@ level: "Creature 3"
 
 alignment: ""
 size: "Large"
-trait_01: "animal"
+trait_01: [[animal]]
 modifier: 9
 perception:
   - name: "Perception"
     desc: "+9; Darkvision"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Acrobatics: +8, Athletics: +12, Stealth: +12"
@@ -59,7 +61,7 @@ attacks:
     desc: "`pf2:1` Mandibles +12 ()\n__Damage__  1d12 + 5 piercing"
 
   - name: "Deadly Mandibles"
-    desc: "`pf2:r`  **Trigger** The giant mantis [[Conditions/Grabbed|Grabs]] a creature with its leg.\n**Effect** The mantis pulls the creature adjacent to it, then makes a mandibles Strike against the creature."
+    desc: "`pf2:r`  **Trigger** The giant mantis [[Conditions/Grabbed|Grabs]] a creature with its leg.\n* * *\n\n**Effect** The mantis pulls the creature adjacent to it, then makes a mandibles Strike against the creature."
 
   - name: "Lunging Strike"
     desc: "`pf2:2`  The giant mantis lunges forward, making a leg Strike with an extended reach of 20 feet."
@@ -70,6 +72,12 @@ attacks:
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
     desc: "`pf2:1`  "
  
+```
+
+```encounter-table
+name: Giant Mantis
+creatures:
+  - 1: Giant Mantis
 ```
 
 

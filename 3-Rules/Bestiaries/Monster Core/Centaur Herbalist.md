@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/beast
   - pf2e/creature/type/centaur
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/3
   - remaster
 statblock: inline
@@ -27,9 +28,9 @@ level: "Creature 3"
 
 alignment: ""
 size: "Large"
-trait_01: "beast"
-trait_02: "centaur"
-trait_03: "humanoid"
+trait_01: [[beast]]
+trait_02: [[centaur]]
+trait_03: [[humanoid]]
 modifier: 10
 perception:
   - name: "Perception"
@@ -71,6 +72,12 @@ attacks:
   - name: "[[Bestiary Ability Glossary/Trample|Trample]]"
     desc: "`pf2:3`  Medium or smaller, hoof, DC 18 Reflex check\n\n* * *\n"
  
+```
+
+```encounter-table
+name: Centaur Herbalist
+creatures:
+  - 1: Centaur Herbalist
 ```
 
 

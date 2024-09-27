@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.pfs-season-1-bestiary.Actor.ocdy8RFkw10tCUuY"
 tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/fey
+  - pf2eMonster
   - pf2e/creature/level/1
 statblock: inline
 name: "Biloko Warrior (1-16)"
@@ -24,8 +25,8 @@ level: "Creature 1"
 
 alignment: ""
 size: "Small"
-trait_01: "evil"
-trait_02: "fey"
+trait_01: [[evil]]
+trait_02: [[fey]]
 modifier: 7
 perception:
   - name: "Perception"
@@ -71,8 +72,14 @@ attacks:
     desc: "DC 17, attack +9; __1st __  _[[Spells/Charm|Charm]]_"
 
   - name: "Inspired Feast"
-    desc: " (emotion,mental) If a biloko feasts on a human corpse for 1 minute or more, they gain a +1 status bonus to attack rolls and a +2 status bonus to damage rolls for 1 hour.\n[[Bestiary Effects/Effect_ Inspired Feast|Effect: Inspired Feast]]"
+    desc: " (emotion,mental) If a biloko feasts on a human corpse for 1 minute or more, they gain a +1 status bonus to attack rolls and a +2 status bonus to damage rolls for 1 hour.\n\n[[Bestiary Effects/Effect_ Inspired Feast|Effect: Inspired Feast]]"
  
+```
+
+```encounter-table
+name: Biloko Warrior (1-16)
+creatures:
+  - 1: Biloko Warrior (1-16)
 ```
 
 

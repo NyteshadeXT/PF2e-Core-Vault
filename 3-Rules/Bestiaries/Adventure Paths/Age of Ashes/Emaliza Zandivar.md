@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/human
   - pf2e/creature/type/humanoid
   - pf2e/creature/type/lawful
+  - pf2eMonster
   - pf2e/creature/level/20
 statblock: inline
 name: "Emaliza Zandivar"
@@ -23,13 +24,13 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #150: Broken Promises"
 name: "Emaliza Zandivar"
 level: "Creature 20"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Medium"
-trait_01: "evil"
-trait_02: "human"
-trait_03: "humanoid"
-trait_04: "lawful"
+trait_01: [[evil]]
+trait_02: [[human]]
+trait_03: [[humanoid]]
+trait_04: [[lawful]]
 modifier: 36
 perception:
   - name: "Perception"
@@ -37,7 +38,7 @@ perception:
 languages: "Chthonian, Common, Diabolic, Draconic, Dwarven, Kelish, Osiriani, Pyric, Sakvroth"
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +32, Arcana: +41, Deception: +38, Dragon Lore: +32, Hermea Lore: +38, Intimidation: +38, Occultism: +34, Society: +34"
+    desc: "Acrobatics: +32, Arcana: +41, Deception: +38, Intimidation: +38, Occultism: +34, Society: +34, Dragon Lore: +32, Hermea Lore: +38"
 abilityMods: [2, 8, 5, 10, 5, 6]
 speed: 25 feet,  fly 30 feet
 sourcebook: "_Pathfinder #150: Broken Promises_"
@@ -57,7 +58,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Contingency"
-    desc: "`pf2:r`  **Trigger** Emaliza is attacked\n**Effect** A 5th-rank [[Spells/Translocate|Translocate]] spell is cast on Emaliza; she uses this to escape an attack that she fears would incapacitate or kill her."
+    desc: "`pf2:r`  **Trigger** Emaliza is attacked\n* * *\n\n**Effect** A 5th-rank [[Spells/Translocate|Translocate]] spell is cast on Emaliza; she uses this to escape an attack that she fears would incapacitate or kill her."
 
 attacks:
   - name: ""
@@ -75,11 +76,17 @@ attacks:
     desc: "_[[Spells/Freedom|Freedom]]_, _[[Spells/Collective Memories|Legend Lore]]_, _[[Spells/Binding Circle|Planar Binding]]_"
 
   - name: "Drain Bonded Item"
-    desc: "  **Frequency** once per day\n**Requirements** Emaliza hasn't acted yet on this turn\n**Effect** Emaliza can cast one prepared spell she has already cast today without spending a spell slot."
+    desc: "  **Frequency** once per day\n\n**Requirements** Emaliza hasn't acted yet on this turn\n* * *\n\n**Effect** Emaliza can cast one prepared spell she has already cast today without spending a spell slot."
 
   - name: "Warded Casting"
-    desc: "  **Frequency** once per round\n**Trigger** Emaliza Casts a Spell\n**Effect** Emaliza's magic creates a small defensive aura around her. She gains 20 temporary Hit Points and resistance 20 to either acid, cold, electricity, or fire damage. The defensive aura remains until the beginning of her next turn."
+    desc: "  **Frequency** once per round\n\n**Trigger** Emaliza Casts a Spell\n* * *\n\n**Effect** Emaliza's magic creates a small defensive aura around her. She gains 20 temporary Hit Points and resistance 20 to either acid, cold, electricity, or fire damage. The defensive aura remains until the beginning of her next turn."
  
+```
+
+```encounter-table
+name: Emaliza Zandivar
+creatures:
+  - 1: Emaliza Zandivar
 ```
 
 

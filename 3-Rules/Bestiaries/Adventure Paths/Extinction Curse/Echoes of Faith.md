@@ -4,6 +4,7 @@ obsidianUIMode: preview
 noteType: pf2eHazard
 tags:
   - haunt
+  - pf2eHazard
 
 source: Pathfinder #152: Legacy of the Lost God
 aliases: "Compendium.pf2e.extinction-curse-bestiary.Actor.ZG9ZJ5BZrZ9MS3h3" 
@@ -21,13 +22,13 @@ name: "Echoes of Faith"
 level: "Hazard 6"
 
 
-trait_01: "haunt"
+trait_01: [[haunt]]
 modifier: 14
 sourcebook: "_Pathfinder #152: Legacy of the Lost God_"
 ac: 24
 armorclass:
   - name: AC
-    desc: "24; __Fort__ +13, __Ref__ +0, __Will__ +15"
+    desc: "24; __Fort__ +13, __Will__ +15"
 hp: 60
 health:
   - name: ""
@@ -49,10 +50,16 @@ attacks:
   - name: ""
 
   - name: "Phantom Sermon"
-    desc: "`pf2:r` (divine) **Trigger** A non-Arodenite creature approaches within 5 feet of the lectern\n**Effect** A spectral minister appears before the pulpit, resembling an ever-shifting amalgamation of several past priests. The spectral minister delivers fervent exhortations about faithlessness. Each creature on the dais must succeed at a DC 24 Will check save or become [[Conditions/Drained 1|Drained 2]]. On a critical failure, the creature is [[Conditions/Drained 1|Drained 4]]."
+    desc: "`pf2:r` (divine) **Trigger** A non-Arodenite creature approaches within 5 feet of the lectern\n* * *\n\n**Effect** A spectral minister appears before the pulpit, resembling an ever-shifting amalgamation of several past priests. The spectral minister delivers fervent exhortations about faithlessness. Each creature on the dais must succeed at a DC 24 Will check save or become [[Conditions/Drained|Drained 2]]. On a critical failure, the creature is [[Conditions/Drained|Drained 4]]."
 
 
   - name: "Reset"
     desc: "The spirits return in 1d8 hours as long as any xulgaths remain in Moonstone Hall."
+```
+
+```encounter-table
+name: Echoes of Faith
+creatures:
+  - 1: Echoes of Faith
 ```
 

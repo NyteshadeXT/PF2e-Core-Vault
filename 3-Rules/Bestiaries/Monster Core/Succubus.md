@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/demon
   - pf2e/creature/type/fiend
   - pf2e/creature/type/unholy
+  - pf2eMonster
   - pf2e/creature/level/7
   - remaster
 statblock: inline
@@ -24,12 +25,12 @@ token: [[modules/pf2e-tokens-bestiaries/portraits/fiendish/demon/succubus.webp| 
 source: "Pathfinder Monster Core"
 name: "Succubus"
 level: "Creature 7"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Medium"
-trait_01: "demon"
-trait_02: "fiend"
-trait_03: "unholy"
+trait_01: [[demon]]
+trait_02: [[fiend]]
+trait_03: [[unholy]]
 modifier: 15
 perception:
   - name: "Perception"
@@ -59,7 +60,7 @@ abilities_mid:
     desc: "  As succubi are beings of pure lust, creatures that reject their lust can metaphysically harm them. When a succubus fails a Diplomacy check to Embrace or Request, or when a creature succeeds at its save against a succubus's mental spell or ability, the succubus takes 2d6 mental damage.\n\nFor 1 hour after causing mental damage to a succubus in this way, a creature can deal 2d6 mental damage to the succubus with a successful [[Actions/Demoralize|Demoralize]] action incorporating its rejection."
 
   - name: "Seductive Presence"
-    desc: " (aura,emotion,mental) 10 feet.\n\nAny creature in the aura that could be sexually attracted to a succubus takes a –2 circumstance penalty to checks and DCs to oppose the succubus’s mental spells, Deception, and Diplomacy."
+    desc: " (aura,emotion,mental) 10 feet.\n\nAny creature in the aura that could be sexually attracted to a succubus takes a –2 circumstance penalty to checks and DCs to oppose the succubus's mental spells, Deception, and Diplomacy."
 
 attacks:
   - name: ""
@@ -80,11 +81,17 @@ attacks:
     desc: "`pf2:1` (attack) The succubus attempts to [[/act grapple skill=diplomacy]]{Grapple} a creature using their Diplomacy bonus instead of Athletics. If the creature is willing, the succubus automatically succeeds."
 
   - name: "Passionate Kiss"
-    desc: "`pf2:1` (divine,emotion,mental,unholy,void) **Frequency** once per round\n* * *\n\n**Effect** The succubus engages a creature they have [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]] in an embrace or other act of passion to drain its vital essence.\n\nThe kiss makes the creature [[Conditions/Drained 1|Drained 1]] or increases its drained value by 1, to a maximum of 4. The creature takes 3d6 void damage and the succubus regains Hit Points equal to the damage dealt. The target must succeed at a DC 26 Will check save or be affected by a [[Spells/Suggestion|Suggestion]] to submit to more actions of passion rather than trying to [[Actions/Escape|Escape]]."
+    desc: "`pf2:1` (divine,emotion,mental,unholy,void) **Frequency** once per round\n* * *\n\n**Effect** The succubus engages a creature they have [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]] in an embrace or other act of passion to drain its vital essence.\n\nThe kiss makes the creature [[Conditions/Drained|Drained 1]] or increases its drained value by 1, to a maximum of 4. The creature takes 3d6 void damage and the succubus regains Hit Points equal to the damage dealt. The target must succeed at a DC 26 Will check save or be affected by a [[Spells/Suggestion|Suggestion]] to submit to more actions of passion rather than trying to [[Actions/Escape|Escape]]."
 
   - name: "Profane Gift"
-    desc: "`pf2:3` (divine,mental) **Frequency** once per day\n* * *\n\n**Effect** The succubus gives a willing humanoid a profane gift. That creature gains a +1 status bonus to attack rolls, skill checks, and saving throws. As long as the gift persists, the succubus can communicate telepathically with the target at any distance, see through the creature's senses, and target the creature with suggestion through the telepathic link. In addition, the creature uses an outcome one degree of success worse than it rolls on saving throws against the succubus's [[Spells/Suggestion|Suggestion]] spells.\n\nA humanoid can't have more than one profane gift at a time, and a succubus can't grant more than one profane gift at a time. Removing the gift requires an atone ritual. The succubus can remove the gift as a free action to give the recipient a curse, making them [[Conditions/Stupefied 1|Stupefied 3]] with an unlimited duration.\n\nA summoned succubus can't grant a profane gift.\n\n[[Bestiary Effects/Effect_ Profane Gift|Effect: Profane Gift]]"
+    desc: "`pf2:3` (divine,mental) **Frequency** once per day\n* * *\n\n**Effect** The succubus gives a willing humanoid a profane gift. That creature gains a +1 status bonus to attack rolls, skill checks, and saving throws. As long as the gift persists, the succubus can communicate telepathically with the target at any distance, see through the creature's senses, and target the creature with suggestion through the telepathic link. In addition, the creature uses an outcome one degree of success worse than it rolls on saving throws against the succubus's [[Spells/Suggestion|Suggestion]] spells.\n\nA humanoid can't have more than one profane gift at a time, and a succubus can't grant more than one profane gift at a time. Removing the gift requires an atone ritual. The succubus can remove the gift as a free action to give the recipient a curse, making them [[Conditions/Stupefied|Stupefied 3]] with an unlimited duration.\n\nA summoned succubus can't grant a profane gift.\n\n[[Bestiary Effects/Effect_ Profane Gift|Effect: Profane Gift]]"
  
+```
+
+```encounter-table
+name: Succubus
+creatures:
+  - 1: Succubus
 ```
 
 

@@ -13,7 +13,7 @@ license: ORC
 ---
 # Entertainer's Cincture
 ## Item 10
-### [[focused]][[invested]][[occult]]
+### [[focused]][[invested]][[3-Rules/Rule References/Occult]]
 
 
 **Price** 1000 gp; 

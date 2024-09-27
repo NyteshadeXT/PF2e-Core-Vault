@@ -20,7 +20,7 @@ tags:
 
 # Severed Tendon
 
-> **Crit Effect:** Until healed, the target is [[Conditions/Clumsy 1|Clumsy 1]] and takes a [[Other Effects/Effect\_ -5-foot status penalty to your land Speed|-5-foot status penalty to land Speed]].
+> **Crit Effect:** Until healed, the target is [[Conditions/Clumsy|Clumsy 1]] and takes a [[Other Effects/Effect_ -5-foot status penalty to your land Speed|-5-foot status penalty to land Speed]].
 
 `Slashing`
 

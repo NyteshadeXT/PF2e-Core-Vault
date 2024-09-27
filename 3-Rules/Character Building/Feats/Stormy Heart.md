@@ -19,7 +19,7 @@ license: OGL
 
 **Prerequisites** Invoke the Elements
 * * *
-The elemental power in your blood is a raging storm. You can [[Feats/Invoke The Elements|Invoke The Elements]] with a frequency of once per 10 minutes, rather than once per day.
+The elemental power in your blood is a raging storm. You can [[Feats/Invoke the Elements|Invoke the Elements]] with a frequency of once per 10 minutes, rather than once per day.
 
 *Source: Pathfinder Lost Omens: Ancestry Guide*
 *OGL*

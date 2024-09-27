@@ -10,6 +10,7 @@ tags:
   - pf2e/creature/type/mummy
   - pf2e/creature/type/undead
   - pf2e/creature/type/unholy
+  - pf2eMonster
   - pf2e/creature/level/9
 statblock: inline
 name: "Bog Mummy Cultist"
@@ -24,14 +25,14 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Kingmaker"
 name: "Bog Mummy Cultist"
 level: "Creature 9"
-rare_03: "Rare"
+rare_03: [[Rare]]
 alignment: ""
 size: "Medium"
-trait_01: "evil"
-trait_02: "lawful"
-trait_03: "mummy"
-trait_04: "undead"
-trait_05: "unholy"
+trait_01: [[evil]]
+trait_02: [[lawful]]
+trait_03: [[mummy]]
+trait_04: [[undead]]
+trait_05: [[unholy]]
 modifier: 19
 perception:
   - name: "Perception"
@@ -39,7 +40,7 @@ perception:
 languages: "Common, Necril"
 skills:
   - name: "Skills"
-    desc: "Athletics: +19, Stealth: +18 (+20 while buried in a bog)"
+    desc: "Athletics: +19, Stealth: +18"
 abilityMods: [6, 3, 4, 0, 6, 3]
 speed: 20 feet,  burrow 15 feet
 sourcebook: "_Pathfinder Kingmaker_"
@@ -59,13 +60,13 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Breath of the Bog"
-    desc: " (aura,divine,mental) 30 feet. A creature that begins its turn within the area feels as if its lungs were filling with water and must succeed at a DC 25 Fortitude check save or be unable to speak or breathe. The creature can still hold its breath and can attempt a new saving throw at the end of its turn.\nA creature that succeeds is temporarily immune to breath of the bog for 24 hours."
+    desc: " (aura,divine,mental) 30 feet. A creature that begins its turn within the area feels as if its lungs were filling with water and must succeed at a DC 25 Fortitude check save or be unable to speak or breathe. The creature can still hold its breath and can attempt a new saving throw at the end of its turn.\n\nA creature that succeeds is temporarily immune to breath of the bog for 24 hours."
 
   - name: "Rejuvenation"
     desc: " (divine) Unless the damage that destroys a bog mummy cultist is vitality damage, necromantic energies rebuild its body from swamp muck 1 week later. If the uncompleted body is destroyed during that time, the process starts anew. Anyone who succeeds at a DC 26 Religion check check to Recall Knowledge realizes that a consecrate ritual performed on the site that a bog mummy cultist was destroyed prevents its rejuvenation, the way vitality damage prevents the rejuvenation from occurring."
 
   - name: "Rise Up"
-    desc: "`pf2:r`  **Trigger** A creature walks on top of a bog mummy cultist that lies buried in the mud or peat below\n**Requirements** Initiative has not yet been rolled\n**Effect** The bog mummy automatically notices the creature and [[Actions/Burrow|Burrows]] before rolling initiative."
+    desc: "`pf2:r`  **Trigger** A creature walks on top of a bog mummy cultist that lies buried in the mud or peat below\n\n**Requirements** Initiative has not yet been rolled\n* * *\n\n**Effect** The bog mummy automatically notices the creature and [[Actions/Burrow|Burrows]] before rolling initiative."
 
 attacks:
   - name: ""
@@ -77,8 +78,14 @@ attacks:
     desc: "DC 28, attack +20; __5th __  _[[Spells/Crisis of Faith|Crisis of Faith]]_; __4th __  _[[Spells/Divine Wrath|Divine Wrath]]_, _[[Spells/Grim Tendrils|Grim Tendrils]]_\n__Cantrips__  __(5th)__ _[[Spells/Divine Lance|Divine Lance]]_"
 
   - name: "Bog Rot"
-    desc: " (curse,disease,divine,void) This affliction can't be reduced below stage 1, nor can the damage from it be healed, until it's successfully treated with remove curse or a similar effect; the affliction can then be removed as normal for a disease. A creature killed by bog rot melts into a noxious sludge and can't be brought back to life except by a 7th-rank [[Spells/Resurrect|Resurrect]] ritual or similar magic\n**Saving Throw** DC 28 Fortitude check\n**Stage 1** carrier with no ill effect (1 minute)\n**Stage 2** 3d6 void damage and [[Conditions/Clumsy 1|Clumsy 1]] (1 day)"
+    desc: " (curse,disease,divine,void) This affliction can't be reduced below stage 1, nor can the damage from it be healed, until it's successfully treated with remove curse or a similar effect; the affliction can then be removed as normal for a disease. A creature killed by bog rot melts into a noxious sludge and can't be brought back to life except by a 7th-rank [[Spells/Resurrect|Resurrect]] ritual or similar magic\n\n**Saving Throw** DC 28 Fortitude check\n\n**Stage 1** carrier with no ill effect (1 minute)\n\n**Stage 2** 3d6 void damage and [[Conditions/Clumsy|Clumsy 1]] (1 day)"
  
+```
+
+```encounter-table
+name: Bog Mummy Cultist
+creatures:
+  - 1: Bog Mummy Cultist
 ```
 
 

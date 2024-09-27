@@ -38,7 +38,7 @@ Every mind murmurs constantly, and the static from those nearby reverberates in 
 
 You can _daze_ from a great distance. The range increases to 120 feet. Your _daze_ also gains the following amp.
 
-**Amp** Your spell cracks the target's mental defenses, leaving it susceptible to further psychic attack. The spell's damage changes to 1d10. If the target fails its Will save, until the end of its next turn, it gains weakness 1 to mental damage and takes a –1 status penalty to Will saves. On a critical failure, the weakness is 3 (in addition to the target being [[Conditions/Stunned 1|Stunned 1]]). The weakness applies before daze deals damage.
+**Amp** Your spell cracks the target's mental defenses, leaving it susceptible to further psychic attack. The spell's damage changes to 1d10. If the target fails its Will save, until the end of its next turn, it gains weakness 1 to mental damage and takes a –1 status penalty to Will saves. On a critical failure, the weakness is 3 (in addition to the target being [[Conditions/Stunned|Stunned 1]]). The weakness applies before daze deals damage.
 
 **Amp Heightened (+2)** The spell's damage increases by 2d10, and the weakness on a failure or critical failure increases by 1.
 
@@ -54,11 +54,11 @@ Your _message_ is not so easily bound by obstacles. The spell can travel up to 1
 
 surface: [[Spells/Forbidden Thought|Forbidden Thought]]
 
-**Amp** Your telepathic push is particularly shocking to those who resist it. If the target fails its save, it's also [[Conditions/Stunned 1|Stunned 1]].
+**Amp** Your telepathic push is particularly shocking to those who resist it. If the target fails its save, it's also [[Conditions/Stunned|Stunned 1]].
 
 deeper: [[Spells/Shatter Mind|Shatter Mind]]
 
-**Amp** You increase the area of the spell to your choice of a 30-foot cone or 60-foot cone, and the damage dice for the spell change to d10s. Creatures that fail are [[Conditions/Stupefied 1|Stupefied 1]] until the start of your next turn (or [[Conditions/Stupefied 1|Stupefied 2]] on a critical failure).
+**Amp** You increase the area of the spell to your choice of a @Template\[cone|distance:30\] or @Template\[cone|distance:60\], and the damage dice for the spell change to d10s. Creatures that fail are [[Conditions/Stupefied|Stupefied 1]] until the start of your next turn (or [[Conditions/Stupefied|Stupefied 2]] on a critical failure).
 
 deepest: [[Spells/Contagious Idea|Contagious Idea]]
 

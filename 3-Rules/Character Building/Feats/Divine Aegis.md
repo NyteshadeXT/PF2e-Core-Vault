@@ -7,8 +7,9 @@ tags:
   - trait/oracle
   - trait/common
   - category/class
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.xoIxiRtBVHV27Rvd"
-license: OGL
+license: ORC
 ---
 # Divine Aegis `pf2:r`
 ## Feat 2
@@ -23,9 +24,7 @@ license: OGL
 
 * * *
 
-You summon divine energy to shield yourself, offering protection against other traditions but leaving you exposed to other divine effects.
+A barrier offers protection against other magic but leaves you exposed to divine energy. Until the beginning of your next turn, you gain a +1 circumstance bonus to saving throws against nondivine magical effects, but you also take a –1 circumstance penalty to saves against divine effects
 
-Until the beginning of your next turn, you gain a +1 circumstance bonus to saving throws against non-divine magical effects, but you also take a -1 circumstance penalty to saves against divine effects.
-
-*Source: Pathfinder Advanced Player's Guide*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

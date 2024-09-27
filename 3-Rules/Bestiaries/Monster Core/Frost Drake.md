@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.pathfinder-monster-core.Actor.2SixuEUfKpEyfOEY"
 tags:
   - pf2e/creature/type/cold
   - pf2e/creature/type/dragon
+  - pf2eMonster
   - pf2e/creature/level/7
   - remaster
 statblock: inline
@@ -26,8 +27,8 @@ level: "Creature 7"
 
 alignment: ""
 size: "Large"
-trait_01: "cold"
-trait_02: "dragon"
+trait_01: [[cold]]
+trait_02: [[dragon]]
 modifier: 14
 perception:
   - name: "Perception"
@@ -72,7 +73,7 @@ attacks:
     desc: "`pf2:2`  The frost drake makes two Fangs Strikes and one Tail Strike in any order."
 
   - name: "Freezing Mist Breath"
-    desc: "`pf2:2` (cold,primal) The frost drake spits a ball of liquid up to 60 feet that explodes into a 20-foot burst cloud of freezing mist. Those in the burst take 8d6 cold damage (DC 25 Reflex check save).\n\nThe frost drake can't use Freezing Mist Breath again for 1d6 rounds, during which the mist cakes all surfaces in the area with a sheet of slippery ice that turns the area into difficult terrain."
+    desc: "`pf2:2` (cold,primal) The frost drake spits a ball of liquid up to 60 feet that explodes into a @Template[burst|distance:20] cloud of freezing mist. Those in the burst take 8d6 cold damage (DC 25 Reflex check save).\n\nThe frost drake can't use Freezing Mist Breath again for 1d6 rounds, during which the mist cakes all surfaces in the area with a sheet of slippery ice that turns the area into difficult terrain."
 
   - name: "Ice Climb"
     desc: "  A frost drake isn't impeded by difficult terrain caused by snow or ice, nor do they need to attempt Acrobatics checks to keep from falling on slippery ice."
@@ -80,6 +81,12 @@ attacks:
   - name: "Speed Surge"
     desc: "`pf2:1` (move) **Frequency** three times per day;\n* * *\n\n**Effect** The frost drake Strides or Flies twice."
  
+```
+
+```encounter-table
+name: Frost Drake
+creatures:
+  - 1: Frost Drake
 ```
 
 

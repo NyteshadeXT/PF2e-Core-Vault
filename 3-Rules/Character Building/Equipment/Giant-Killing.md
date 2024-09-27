@@ -17,7 +17,7 @@ license: OGL
 **Bulk** 0; **Size** med
 **Usage** etched-onto-a-weapon
 
-This weapon features stylized etchings of giants. A giant-killing weapon deals an additional 1d6 mental damage on a successful Strike against a giant. On a critical hit, the giant is also [[Conditions/Enfeebled 1|Enfeebled 1]] until the end of your next turn.
+This weapon features stylized etchings of giants. A giant-killing weapon deals an additional 1d6 mental damage on a successful Strike against a giant. On a critical hit, the giant is also [[Conditions/Enfeebled|Enfeebled 1]] until the end of your next turn.
 
 *Source: Pathfinder Kingmaker*
 *OGL*

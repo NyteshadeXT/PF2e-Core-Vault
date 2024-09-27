@@ -11,6 +11,7 @@ tags:
   - pf2e/creature/type/fire
   - pf2e/creature/type/swarm
   - pf2e/creature/type/water
+  - pf2eMonster
   - pf2e/creature/level/3
 statblock: inline
 name: "Mephit Swarm (5-6)"
@@ -25,20 +26,20 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Society Scenario #2-16: Freedom for Wishes"
 name: "Mephit Swarm (5-6)"
 level: "Creature 3"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Large"
-trait_01: "air"
-trait_02: "earth"
-trait_03: "elemental"
-trait_04: "fire"
-trait_05: "swarm"
-trait_06: "water"
+trait_01: [[air]]
+trait_02: [[earth]]
+trait_03: [[elemental]]
+trait_04: [[fire]]
+trait_05: [[swarm]]
+trait_06: [[water]]
 modifier: 8
 perception:
   - name: "Perception"
     desc: "+8; Darkvision"
-languages: "Petran, Pyric, Sussuran, Thalassic"
+languages: "Petran, Pyric, Sussuran, Thalassic; (varies by mephit)"
 skills:
   - name: "Skills"
     desc: "Acrobatics: +10, Athletics: +8, Deception: +8"
@@ -63,11 +64,17 @@ attacks:
   - name: ""
 
   - name: "Breath Weapon"
-    desc: "`pf2:2` (acid,air,arcane,cold,earth,electricity,fire) The mephit swarm breathes energy in a 15-foot cone that deals 1d6 acid, 1d6 cold, 1d6 electric, and 1d6 fire damage to each creature within the area (DC 20 Reflex check save).\nThe mephit swarm can't use Breath Weapon again for 1d4 rounds."
+    desc: "`pf2:2` (acid,air,arcane,cold,earth,electricity,fire) The mephit swarm breathes energy in a @Template[cone|distance:15] that deals 1d6 acid, 1d6 cold, 1d6 electric, and 1d6 fire damage to each creature within the area (DC 20 Reflex check save).\n\nThe mephit swarm can't use Breath Weapon again for 1d4 rounds."
 
   - name: "Swarming Claws"
     desc: "`pf2:1`  Each enemy in the swarm's space takes 2d8 piercing damage (DC 20 Reflex check save)."
  
+```
+
+```encounter-table
+name: Mephit Swarm (5-6)
+creatures:
+  - 1: Mephit Swarm (5-6)
 ```
 
 

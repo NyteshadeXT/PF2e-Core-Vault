@@ -6,8 +6,9 @@ tags:
   - trait/duskwalker
   - trait/common
   - category/ancestry
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.30e9SdbmI3t5OJQE"
-license: OGL
+license: ORC
 ---
 # Deliberate Death `pf2:r`
 ## Feat 1
@@ -24,11 +25,11 @@ license: OGL
 
 * * *
 
-Once, you died because someone—murderer or monster, soldier or executioner—chose to strike you down. Just before losing consciousness, make a melee Strike against the triggering creature.
+Once, you died because someone—murderer, monster, or soldier—chose to strike you down. Just before losing consciousness, make a melee Strike against the triggering creature.
 
 * * *
 
 **Special** You can select this feat only at 1st level, and you can't retrain into or out of this feat.
 
-*Source: Pathfinder Lost Omens: Ancestry Guide*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

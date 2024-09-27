@@ -14,7 +14,7 @@ license: OGL
 ---
 # Glorious Plate
 ## Item 14
-### [rare](rare "Rare Rarity Trait")[[bulwark]][[invested]][[3-Rules/Character Building/Spells/Light]][[magical]]
+### [rare](rare "Rare Rarity Trait")[[bulwark]][[invested]][[light]][[magical]]
 
 **Category** heavy; **Group** plate
 **Price** 4500 gp; 

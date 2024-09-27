@@ -7,8 +7,9 @@ tags:
   - trait/flourish
   - trait/common
   - category/class
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.CR9NcAIPTT4oWSEy"
-license: OGL
+license: ORC
 ---
 # Hammer Quake `pf2:3`
 ## Feat 14
@@ -24,9 +25,9 @@ license: OGL
 
 * * *
 
-You smash the ground with your weapon, knocking nearby creatures to the ground.
+You smash the ground with your weapon, knocking nearby creatures to the ground. Choose a square within your reach, including your own space. If there's an enemy in the chosen square, you can Strike that enemy with your two-handed weapon. Regardless of whether you attempted a Strike, you then attempt to [[Actions/Trip|Trip]] every enemy in the chosen square plus each square adjacent to that square, ignoring Trip's requirement that you have a hand free.
 
-Choose a square within your reach, including your own space. If there's a foe in the chosen square, Strike that foe with the required weapon. Then attempt to [[Actions/Trip|Trip]] every foe in the chosen square plus each square adjacent to that square, ignoring Trip's requirement that you have a hand free. This counts as three attacks toward your multiple attack penalty, but the penalty doesn't increase until after you've made the Strike, if any, and all the Trip attempts.
+Hammer Quake counts as three attacks toward your multiple attack penalty, but the penalty doesn't increase until after you've made the Strike, if any, and all the Trip attempts.
 
-*Source: Pathfinder Advanced Player's Guide*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

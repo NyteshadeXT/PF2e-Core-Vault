@@ -12,7 +12,7 @@ license: ORC
 ---
 # Armbands of Athleticism
 ## Item 9
-### [[invested]][[magical]]
+### [[invested]][[3-Rules/Rule References/Magical]]
 
 
 **Price** 645 gp; 

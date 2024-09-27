@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/giant
   - pf2e/creature/type/troll
+  - pf2eMonster
   - pf2e/creature/level/1
 statblock: inline
 name: "Tombstone Troll"
@@ -23,13 +24,13 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #181: Zombie Feast"
 name: "Tombstone Troll"
 level: "Creature 1"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Small"
-trait_01: "chaotic"
-trait_02: "evil"
-trait_03: "giant"
-trait_04: "troll"
+trait_01: [[chaotic]]
+trait_02: [[evil]]
+trait_03: [[giant]]
+trait_04: [[troll]]
 modifier: 7
 perception:
   - name: "Perception"
@@ -68,14 +69,20 @@ attacks:
     desc: "`pf2:1` Claw +9 (agile)\n__Damage__  1d4 + 3 slashing"
 
   - name: "Death Feast"
-    desc: "`pf2:1` (manipulate) **Requirements** The troll's last action was a jaws Strike that damaged a living creature or a corpse\n**Effect** The troll deals 1d6 bleed damage to the target as it swallows a mouthful of meat and converts it into void energy. Its jaws and claw Strikes deal 1 additional void damage for 1 minute or until it uses its Grave Breath, whichever comes first."
+    desc: "`pf2:1` (manipulate) **Requirements** The troll's last action was a jaws Strike that damaged a living creature or a corpse\n* * *\n\n**Effect** The troll deals 1d6 bleed damage to the target as it swallows a mouthful of meat and converts it into void energy. Its jaws and claw Strikes deal 1 additional void damage for 1 minute or until it uses its Grave Breath, whichever comes first."
 
   - name: "Grave Breath"
-    desc: "`pf2:2` (death,occult,void) **Requirements** The troll is bloated with void energy from a Death Feast\n**Effect** The troll breathes a 15-foot cone of putrid, soul-chilling gas. Each living creature in the area takes 2d6 void damage (DC 14 Fortitude check). On a failure, the creature also becomes [[Conditions/Sickened 1|Sickened 1]]. The troll can't use Grave Breath until it uses Death Feast again."
+    desc: "`pf2:2` (death,occult,void) **Requirements** The troll is bloated with void energy from a Death Feast\n* * *\n\n**Effect** The troll breathes a @Template[cone|distance:15] of putrid, soul-chilling gas. Each living creature in the area takes 2d6 void damage (DC 14 Fortitude check). On a failure, the creature also becomes [[Conditions/Sickened|Sickened 1]]. The troll can't use Grave Breath until it uses Death Feast again."
 
   - name: "[[Bestiary Ability Glossary/Rend|Rend]]"
     desc: "`pf2:1`  "
  
+```
+
+```encounter-table
+name: Tombstone Troll
+creatures:
+  - 1: Tombstone Troll
 ```
 
 

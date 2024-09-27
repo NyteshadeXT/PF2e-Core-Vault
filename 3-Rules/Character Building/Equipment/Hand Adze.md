@@ -5,18 +5,19 @@ cssclasses: pf2e,pf2e-spell
 tags:
   - pf2e/weapon
   - trait/agile
-  - trait/forceful
+  - trait/finesse
   - trait/grippli
   - trait/sweep
   - trait/thrown-10
   - trait/common
   - category/martial
+  - remaster
 aliases: "Compendium.pf2e.equipment-srd.Item.MccX4AlmqYDjAN2J"
-license: OGL
+license: ORC
 ---
 # Hand Adze
 ## Item 0
-### [[agile]][[forceful]][[grippli]][[sweep]][[thrown-10]]
+### [[agile]][[finesse]][[grippli]][[sweep]][[thrown-10]]
 
 |  |  |
 | -- | -- |
@@ -27,7 +28,7 @@ license: OGL
 
 
 
-This is a smaller version of an adze, useful for more delicate woodworking or projects in cramped spaces. Gripplis use the hand adze for crafting and as close quarters weapons.
+The adze's smaller version is useful for delicate woodworking in cramped spaces. Tripkees use hand adzes for crafting and as close quarters weapons.
 
-*Source: Pathfinder Lost Omens: Ancestry Guide*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

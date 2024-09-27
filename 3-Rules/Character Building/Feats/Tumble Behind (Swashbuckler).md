@@ -6,8 +6,9 @@ tags:
   - trait/swashbuckler
   - trait/common
   - category/class
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.fU7d5P6WrfAirgip"
-license: OGL
+license: ORC
 ---
 # Tumble Behind (Swashbuckler)
 ## Feat 2
@@ -18,7 +19,7 @@ license: OGL
 
 
 
-Your tumbling catches your foe off guard. When you [[Actions/Tumble Through|Tumble Through]] successfully, the foe you Tumbled Through is [[Conditions/Off-Guard|Off-Guard]] against the next attack you make before the end of your turn.
+Your tumbling puts your foes on the back foot. When you [[Actions/Tumble Through|Tumble Through]] successfully, the foe you Tumbled Through is [[Conditions/Off-Guard|Off-Guard]] against the next attack you make before the end of your turn.
 
-*Source: Pathfinder Advanced Player's Guide*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

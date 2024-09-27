@@ -17,7 +17,7 @@ license: OGL
 
 
 
-**Moderate Boon** You can devour all. You mouth grows into a horrible circular, insectile maw of needle-like teeth.
+You can devour all. You mouth grows into a horrible circular, insectile maw of needle-like teeth.
 
 You gain a bite unarmed attack that deals 1d8 piercing damage.
 

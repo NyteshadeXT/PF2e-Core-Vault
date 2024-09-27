@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/chaotic
   - pf2e/creature/type/fey
   - pf2e/creature/type/good
+  - pf2eMonster
   - pf2e/creature/level/21
 statblock: inline
 name: "Spirit Turtle"
@@ -22,20 +23,20 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #168: King of the Mountain"
 name: "Spirit Turtle"
 level: "Creature 21"
-rare_03: "Rare"
+rare_03: [[Rare]]
 alignment: ""
 size: "grg"
-trait_01: "chaotic"
-trait_02: "fey"
-trait_03: "good"
+trait_01: [[chaotic]]
+trait_02: [[fey]]
+trait_03: [[good]]
 modifier: 35
 perception:
   - name: "Perception"
     desc: "+35; "
-languages: "Common, Fey"
+languages: "Common, Fey; tongues"
 skills:
   - name: "Skills"
-    desc: "All Lores: +34, Diplomacy: +36, Medicine: +40, Nature: +36, Occultism: +34, Survival: +40"
+    desc: "Diplomacy: +36, Medicine: +40, Nature: +36, Occultism: +34, Survival: +40, All Lores: +34"
 abilityMods: [8, 6, 11, 6, 10, 7]
 speed: 30 feet,  swim 40 feet
 sourcebook: "_Pathfinder #168: King of the Mountain_"
@@ -52,7 +53,7 @@ abilities_top:
   - name: ""
 
   - name: "Environmental Balance"
-    desc: " (primal) **Trigger** The spirit turtle begins their turn\n**Effect** The spirit turtle harnesses their connection with the world around them to augment their attacks. They choose acid, cold, electricity, or fire. The energy damage dealt by their Strikes and Unbalancing Stomp changes to the selected energy type."
+    desc: " (primal) **Trigger** The spirit turtle begins their turn\n* * *\n\n**Effect** The spirit turtle harnesses their connection with the world around them to augment their attacks. They choose acid, cold, electricity, or fire. The energy damage dealt by their Strikes and Unbalancing Stomp changes to the selected energy type."
 
 abilities_mid:
   - name: ""
@@ -72,11 +73,17 @@ attacks:
     desc: "DC 44, attack +0; __10th __  _[[Spells/Primal Phenomenon|Primal Phenomenon]]_, _[[Spells/Revival|Revival]]_; __9th __  _[[Spells/Field of Life|Field of Life (x2)]]_; __8th __  _[[Spells/Moment of Renewal|Moment of Renewal (x2)]]_; __7th __  _[[Spells/Interplanar Teleport|Plane Shift (Self Only)]]_, _[[Spells/Regenerate|Regenerate (x2)]]_; __6th __  _[[Spells/Restoration|Restoration (x2)]]_; __5th __  _[[Spells/Breath of Life|Breath of Life (x3)]]_; __4th __  _[[Spells/Heal|Heal (At Will)]]_, _[[Spells/Vital Beacon|Vital Beacon (At Will)]]_\n__Constant__  __(10th)__ _[[Spells/Truespeech|Truespeech]]_"
 
   - name: "[[Bestiary Ability Glossary/Constrict|Constrict]]"
-    desc: "`pf2:1`  4d12 + 7 bludgeoning, DC 41 Fortitude check\n"
+    desc: "`pf2:1`  4d12+7 bludgeoning, DC 41 Fortitude check\n\n* * *\n"
 
   - name: "Unbalancing Stomp"
-    desc: "`pf2:2`  The spirit turtle makes a foot Strike. Whether or not the Strike hits, the stomp creates a shockwave on the ground in a 15-foot burst centered on the target. All creatures in the area other than the spirit turtle take 10d10 bludgeoning and 4d8 energy damage and are knocked [[Conditions/Prone|Prone]] (DC 41 Reflex check save). Creatures that critically succeed at their Reflex save are not knocked prone. The spirit turtle can't use Unbalancing Stomp again for 1d4 rounds.\n10d10 bludgeoning + 4d8 acid\n10d10 bludgeoning + 4d8 cold\n10d10 bludgeoning + 4d8 electricity\n10d10 bludgeoning + 4d8 fire"
+    desc: "`pf2:2`  The spirit turtle makes a foot Strike. Whether or not the Strike hits, the stomp creates a shockwave on the ground in a @Template[burst|distance:15] centered on the target. All creatures in the area other than the spirit turtle take 10d10 bludgeoning and 4d8 energy damage and are knocked [[Conditions/Prone|Prone]] (DC 41 Reflex check save). Creatures that critically succeed at their Reflex save are not knocked prone. The spirit turtle can't use Unbalancing Stomp again for 1d4 rounds.\n\n10d10 bludgeoning + 4d8 acid\n\n10d10 bludgeoning + 4d8 cold\n\n10d10 bludgeoning + 4d8 electricity\n\n10d10 bludgeoning + 4d8 fire"
  
+```
+
+```encounter-table
+name: Spirit Turtle
+creatures:
+  - 1: Spirit Turtle
 ```
 
 

@@ -6,6 +6,7 @@ tags:
   - magical
   - mechanical
   - trap
+  - pf2eHazard
 
 source: Pathfinder #155: Lord of the Black Sands
 aliases: "Compendium.pf2e.extinction-curse-bestiary.Actor.J3mRwgqkOlOi44Xv" 
@@ -23,15 +24,15 @@ name: "Stabbing Sentinel"
 level: "Hazard 18"
 
 
-trait_01: "magical"
-trait_02: "mechanical"
-trait_03: "trap"
+trait_01: [[magical]]
+trait_02: [[mechanical]]
+trait_03: [[trap]]
 modifier: 35
 sourcebook: "_Pathfinder #155: Lord of the Black Sands_"
 ac: 41
 armorclass:
   - name: AC
-    desc: "41; __Fort__ +36, __Ref__ +27, __Will__ +0"
+    desc: "41; __Fort__ +36, __Ref__ +27, "
 hp: 120
 health:
   - name: ""
@@ -53,7 +54,7 @@ attacks:
   - name: ""
 
   - name: "Animated Attack"
-    desc: "`pf2:r` (attack) **Trigger** A living or undead creature moves within 5 feet of the stabbing sentinel\n**Effect** The stabbing sentinel animates, making one Strike against the triggering creature."
+    desc: "`pf2:r` (attack) **Trigger** A living or undead creature moves within 5 feet of the stabbing sentinel\n* * *\n\n**Effect** The stabbing sentinel animates, making one Strike against the triggering creature."
   - name: "Melee"
     desc: "Blade +38 () "
 
@@ -63,5 +64,11 @@ attacks:
 
   - name: "Reset"
     desc: "The magical energy that animates the statue builds up again over 24 hours and the trap resets."
+```
+
+```encounter-table
+name: Stabbing Sentinel
+creatures:
+  - 1: Stabbing Sentinel
 ```
 

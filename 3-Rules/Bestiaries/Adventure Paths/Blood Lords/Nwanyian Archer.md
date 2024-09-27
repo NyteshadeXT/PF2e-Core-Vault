@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/good
   - pf2e/creature/type/human
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/7
 statblock: inline
 name: "Nwanyian Archer"
@@ -23,13 +24,13 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #183: Field of Maidens"
 name: "Nwanyian Archer"
 level: "Creature 7"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Medium"
-trait_01: "chaotic"
-trait_02: "good"
-trait_03: "human"
-trait_04: "humanoid"
+trait_01: [[chaotic]]
+trait_02: [[good]]
+trait_03: [[human]]
+trait_04: [[humanoid]]
 modifier: 17
 perception:
   - name: "Perception"
@@ -60,7 +61,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Spry Dodge"
-    desc: "`pf2:r`  **Trigger** The archer is targeted with a melee or ranged attack by an attacker they can see\n**Effect** The archer gains a +2 circumstance bonus to AC against the triggering attack. If the attack misses, the archer can Step."
+    desc: "`pf2:r`  **Trigger** The archer is targeted with a melee or ranged attack by an attacker they can see\n* * *\n\n**Effect** The archer gains a +2 circumstance bonus to AC against the triggering attack. If the attack misses, the archer can Step."
 
 attacks:
   - name: ""
@@ -77,6 +78,12 @@ attacks:
   - name: "Surprise Attack"
     desc: "  On the first round of combat, creatures that haven't acted yet are [[Conditions/Off-Guard|Off-Guard]] to the archer."
  
+```
+
+```encounter-table
+name: Nwanyian Archer
+creatures:
+  - 1: Nwanyian Archer
 ```
 
 

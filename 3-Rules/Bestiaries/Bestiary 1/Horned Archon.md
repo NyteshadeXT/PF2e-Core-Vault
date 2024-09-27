@@ -10,6 +10,7 @@ tags:
   - pf2e/creature/type/good
   - pf2e/creature/type/holy
   - pf2e/creature/type/lawful
+  - pf2eMonster
   - pf2e/creature/level/4
 statblock: inline
 name: "Horned Archon"
@@ -28,19 +29,19 @@ level: "Creature 4"
 
 alignment: ""
 size: "Medium"
-trait_01: "archon"
-trait_02: "celestial"
-trait_03: "good"
-trait_04: "holy"
-trait_05: "lawful"
+trait_01: [[archon]]
+trait_02: [[celestial]]
+trait_03: [[good]]
+trait_04: [[holy]]
+trait_05: [[lawful]]
 modifier: 11
 perception:
   - name: "Perception"
     desc: "+11; Darkvision"
-languages: "Diabolic, Draconic, Empyrean"
+languages: "Diabolic, Draconic, Empyrean; tongues"
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +12, Nature: +11, Religion: +9, Stealth: +10, Survival: +11 (+15 to Track)"
+    desc: "Acrobatics: +12, Nature: +11, Religion: +9, Stealth: +10, Survival: +11"
 abilityMods: [3, 4, 3, 1, 3, 1]
 speed: 35 feet
 sourcebook: "_Pathfinder Bestiary_"
@@ -60,10 +61,10 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Menacing Guardian"
-    desc: " (aura,divine) 30 feet. Enemies that start their turn in the area or enter it must attempt a DC 19 Will check save.\nOn a failure, they take a -1 status penalty to attack rolls, spell rolls, and damage rolls against any other target while in the aura for 24 hours or until they damage the archon, whichever comes first. On a critical failure, they can't use hostile actions against any other target while in the area for 24 hours or until they damage the archon, whichever comes first.\nRegardless of the result, a creature is then temporarily immune to further menacing guardian auras for 24 hours."
+    desc: " (aura,divine) 30 feet. Enemies that start their turn in the area or enter it must attempt a DC 19 Will check save.\n\nOn a failure, they take a -1 status penalty to attack rolls, spell rolls, and damage rolls against any other target while in the aura for 24 hours or until they damage the archon, whichever comes first. On a critical failure, they can't use hostile actions against any other target while in the area for 24 hours or until they damage the archon, whichever comes first.\n\nRegardless of the result, a creature is then temporarily immune to further menacing guardian auras for 24 hours."
 
   - name: "Retributive Strike"
-    desc: "`pf2:r`  **Damage Reduction** 6\nA horned archon can also make a Retributive Strike with its composite longbow\n**Trigger** An enemy damages the monster's ally, and both are within 15 feet of the monster.\n**Effect** The ally gains resistance to all damage against the triggering damage equal to 2 + the monster's level. If the foe is within reach, the monster makes a melee Strike against it."
+    desc: "`pf2:r`  **Damage Reduction** 6\n\nA horned archon can also make a Retributive Strike with its composite longbow\n* * *\n\n**Trigger** An enemy damages the monster's ally, and both are within 15 feet of the monster.\n* * *\n\n**Effect** The ally gains resistance to all damage against the triggering damage equal to 2 + the monster's level. If the foe is within reach, the monster makes a melee Strike against it."
 
 attacks:
   - name: ""
@@ -78,7 +79,7 @@ attacks:
     desc: "DC 21, attack +13; __4th __  _[[Spells/Translocate|Dimension Door (x3)]]_; __2nd __  _[[Spells/Animal Messenger|Animal Messenger (x3)]]_; __1st __  _[[Spells/Charm|Charm (Animals Only) (x3)]]_, _[[Spells/Sure Strike|True Strike (x3)]]_\n__Cantrips__  __(2nd)__ _[[Compendium.pf2e.spells-srd.Item.kl2q6JvBZwed4B6v|Dancing Lights]]_\n__Constant__  __(5th)__ _[[Spells/Truespeech|Tongues]]_"
 
   - name: "Archon's Door"
-    desc: "  Once per day, if an archon sees another creature cast [[Spells/Translocate|Translocate]], it can cast an innate _dimension door_ (heightened to 5th level) within 1 round to attempt to follow that creature to the maximum distance of the archon's _dimension door_.\nIf the archon's _dimension door_ has enough distance, the archon appears the same distance and direction from the creature as before either used _dimension door_."
+    desc: "  Once per day, if an archon sees another creature cast [[Spells/Translocate|Translocate]], it can cast an innate _dimension door_ (heightened to 5th level) within 1 round to attempt to follow that creature to the maximum distance of the archon's _dimension door_.\n\nIf the archon's _dimension door_ has enough distance, the archon appears the same distance and direction from the creature as before either used _dimension door_."
 
   - name: "Touch of Charity"
     desc: "`pf2:1` (healing,manipulate) A horned archon can touch another creature to take on that creature's wounds, transferring up to 30 of the horned archon's HP to the touched creature. The horned archon can't transfer more HP than it currently has."
@@ -86,6 +87,12 @@ attacks:
   - name: "[[Bestiary Ability Glossary/Push|Push]]"
     desc: "`pf2:1`  "
  
+```
+
+```encounter-table
+name: Horned Archon
+creatures:
+  - 1: Horned Archon
 ```
 
 

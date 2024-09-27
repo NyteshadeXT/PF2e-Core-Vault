@@ -14,7 +14,7 @@ license: ORC
 ---
 # Recall Knowledge `pf2:1`
 
-### [[concentrate]][[secret]][[skill]]
+### [[3-Rules/Rule References/Concentrate]][[secret]][[skill]]
 
 **Category** interaction; 
 

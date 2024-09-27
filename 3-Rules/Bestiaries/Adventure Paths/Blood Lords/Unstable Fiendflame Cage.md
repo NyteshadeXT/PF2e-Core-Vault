@@ -6,6 +6,7 @@ tags:
   - divine
   - magical
   - trap
+  - pf2eHazard
   - complex
 source: Pathfinder #186: Ghost King&#x27;s Rage
 aliases: "Compendium.pf2e.blood-lords-bestiary.Actor.lycxuueclDmiIAOF" 
@@ -23,9 +24,9 @@ name: "Unstable Fiendflame Cage"
 level: "Hazard 20"
 
 trait_06: "Complex"
-trait_01: "divine"
-trait_02: "magical"
-trait_03: "trap"
+trait_01: [[divine]]
+trait_02: [[magical]]
+trait_03: [[trap]]
 modifier: 48
 sourcebook: "_Pathfinder #186: Ghost King's Rage_"
 perception:
@@ -44,11 +45,17 @@ attacks:
   - name: ""
 
   - name: "Smite"
-    desc: "`pf2:r` (divine) **Trigger** A creature enters the area\n**Effect** The triggering creature is exposed to the Fiendflame Cage's clashing energies. The triggering creature takes 8d6 spirit damage, 4d6 spirit damage, and 4d6 spirit damage (DC 47 Fortitude check). The trap then rolls initiative."
+    desc: "`pf2:r` (divine) **Trigger** A creature enters the area\n* * *\n\n**Effect** The triggering creature is exposed to the Fiendflame Cage's clashing energies. The triggering creature takes 8d6 spirit damage, 4d6 spirit damage, and 4d6 spirit damage (DC 47 Fortitude check). The trap then rolls initiative."
 
   - name: "Routine"
     desc: "(2 actions) On its initiative, the Fiendflame Cage uses 1 action to release a wave of hellfire, dealing 2d10+12 evil damage and 2d10+12 fire damage to all creatures in a 15-foot-radius burst (DC 47 Reflex check). The Fiendflame Cage uses its second action to release a wave of holy light, dealing 2d10+12 good damage and 2d10+12 fire damage to all creatures in a 15-foot-radius burst (DC 47 Reflex check)."
   - name: "Reset"
     desc: "The trap resets after 24 hours."
+```
+
+```encounter-table
+name: Unstable Fiendflame Cage
+creatures:
+  - 1: Unstable Fiendflame Cage
 ```
 

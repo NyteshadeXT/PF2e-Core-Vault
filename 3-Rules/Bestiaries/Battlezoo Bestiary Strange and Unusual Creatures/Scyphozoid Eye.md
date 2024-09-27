@@ -7,6 +7,7 @@ aliases: "Compendium.battlezoo-bestiary-su-pf2e.pf2e-battlezoo-su-actors.Actor.F
 tags:
   - pf2e/creature/type/aberration
   - pf2e/creature/type/evil
+  - pf2eMonster
   - pf2e/creature/level/13
 statblock: inline
 name: "Scyphozoid Eye"
@@ -22,19 +23,19 @@ token: [[modules/battlezoo-bestiary-su-pf2e/art/Portraits/scyphozoid-eye.webp| ]
 source: "Battlezoo Bestiary: Strange and Unusual"
 name: "Scyphozoid Eye"
 level: "Creature 13"
-rare_03: "Rare"
+rare_03: [[Rare]]
 alignment: ""
 size: "Large"
-trait_01: "aberration"
-trait_02: "evil"
+trait_01: [[aberration]]
+trait_02: [[evil]]
 modifier: 26
 perception:
   - name: "Perception"
     desc: "+26; Darkvision, Thoughtsense (Imprecise) 60 Feet"
-languages: "Aklo"
+languages: "Aklo; telepathy 60 feet, tongues"
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +21, Athletics: +20, Occultism: +25, Stealth: +20, "
+    desc: "Acrobatics: +21, Athletics: +20, Occultism: +25, Stealth: +20, Acrobatics: +21, Athletics: +20, Occultism: +25, Stealth: +20"
 abilityMods: [3, 3, 4, 3, 8, 5]
 speed:  fly 30 feet
 sourcebook: "_Battlezoo Bestiary: Strange and Unusual_"
@@ -56,7 +57,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Whirling Arms"
-    desc: "`pf2:r`  **Trigger** A creature targets the scyphozoid eye with an attack\n**Effect** The scyphozoid eye moves its arms randomly to disorient its foes. It gains the benefits of the Concealed condition against the triggering attack. If the triggering attack was a melee attack and it fails to hit because of the flat check for the concealed condition, the arms snag the weapon or unarmed attack, and the creature takes a –2 circumstance penalty to further attacks with that weapon or unarmed attack until the end of its turn. The timing of the arms' movement is harder to predict for ranged attackers, so the flat check for the concealed condition against ranged attacks from Whirling Arms increases from DC 5 to DC 7 Flat check."
+    desc: "`pf2:r`  **Trigger** A creature targets the scyphozoid eye with an attack\n* * *\n\n**Effect** The scyphozoid eye moves its arms randomly to disorient its foes. It gains the benefits of the [[undefined]] condition against the triggering attack. If the triggering attack was a melee attack and it fails to hit because of the flat check for the concealed condition, the arms snag the weapon or unarmed attack, and the creature takes a –2 circumstance penalty to further attacks with that weapon or unarmed attack until the end of its turn. The timing of the arms' movement is harder to predict for ranged attackers, so the flat check for the concealed condition against ranged attacks from Whirling Arms increases from DC 5 to DC 7 Flat check."
 
 attacks:
   - name: ""
@@ -74,14 +75,20 @@ attacks:
     desc: "`pf2:1`  "
 
   - name: "Scyphozoid Toxin"
-    desc: " (poison) **Saving Throw** DC 31 Fortitude check\n**Maximum Duration** 6 rounds\n**Stage 1** 6d6 poison damage (1 round)\n**Stage 2** 6d6 poison damage and Slowed 1 (1 round)\n**Stage 3** 6d6 poison damage and Paralyzed (1 round)"
+    desc: " (poison) **Saving Throw** DC 31 Fortitude check\n\n**Maximum Duration** 6 rounds\n\n**Stage 1** 6d6 poison damage (1 round)\n\n**Stage 2** 6d6 poison damage and [[undefined]] (1 round)\n\n**Stage 3** 6d6 poison damage and [[undefined]] (1 round)"
 
   - name: "Digestive Embrace"
-    desc: "  A creature Grabbed by the scyphozoid eye's arm takes 2d6 + 4 acid damage at the end of each of its turns."
+    desc: "  A creature [[undefined]] by the scyphozoid eye's arm takes 2d6+4 acid damage at the end of each of its turns."
 
   - name: "Ravenous Arms"
     desc: "`pf2:2`  The scyphozoid eye makes up to four arm Strikes, each against a different target. These count toward the scyphozoid eye's multiple attack penalty, but the multiple attack penalty doesn't increase until after all the attacks."
  
+```
+
+```encounter-table
+name: Scyphozoid Eye
+creatures:
+  - 1: Scyphozoid Eye
 ```
 
 

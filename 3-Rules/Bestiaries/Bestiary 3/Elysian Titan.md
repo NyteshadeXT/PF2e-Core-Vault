@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/good
   - pf2e/creature/type/humanoid
   - pf2e/creature/type/titan
+  - pf2eMonster
   - pf2e/creature/level/21
 statblock: inline
 name: "Elysian Titan"
@@ -24,18 +25,18 @@ token: [[modules/pf2e-tokens-bestiaries/portraits/humanoid/giant/titan-elysian.w
 source: "Pathfinder Bestiary 3"
 name: "Elysian Titan"
 level: "Creature 21"
-rare_03: "Rare"
+rare_03: [[Rare]]
 alignment: ""
 size: "grg"
-trait_01: "chaotic"
-trait_02: "good"
-trait_03: "humanoid"
-trait_04: "titan"
+trait_01: [[chaotic]]
+trait_02: [[good]]
+trait_03: [[humanoid]]
+trait_04: [[titan]]
 modifier: 36
 perception:
   - name: "Perception"
     desc: "+36; Darkvision, Truesight"
-languages: "Chthonian, Common, Empyrean"
+languages: "Chthonian, Common, Empyrean; telepathy 100 feet"
 skills:
   - name: "Skills"
     desc: "Acrobatics: +36, Athletics: +43, Crafting: +37, Diplomacy: +37, Intimidation: +35, Religion: +37, Survival: +37"
@@ -87,6 +88,12 @@ attacks:
   - name: "Wide Cleave"
     desc: "`pf2:2`  The titan makes a melee weapon Strike against each foe within their reach. This counts as three attacks for the titan's multiple attack penalty."
  
+```
+
+```encounter-table
+name: Elysian Titan
+creatures:
+  - 1: Elysian Titan
 ```
 
 

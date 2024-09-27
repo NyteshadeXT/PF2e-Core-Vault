@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/aberration
   - pf2e/creature/type/aquatic
   - pf2e/creature/type/evil
+  - pf2eMonster
   - pf2e/creature/level/11
 statblock: inline
 name: "Quoppopak"
@@ -26,9 +27,9 @@ level: "Creature 11"
 
 alignment: ""
 size: "Large"
-trait_01: "aberration"
-trait_02: "aquatic"
-trait_03: "evil"
+trait_01: [[aberration]]
+trait_02: [[aquatic]]
+trait_03: [[evil]]
 modifier: 22
 perception:
   - name: "Perception"
@@ -55,7 +56,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "[[Bestiary Ability Glossary/Attack of Opportunity|Attack of Opportunity (Tentacle Only)]]"
-    desc: "`pf2:r`  Tentacle only\n"
+    desc: "`pf2:r`  Tentacle only\n\n* * *\n"
 
 attacks:
   - name: ""
@@ -73,10 +74,10 @@ attacks:
     desc: "`pf2:1` Water Jet +23 (range increment 100 feet, water)\n__Damage__  2d6 + 13 bludgeoning plus push"
 
   - name: "Flooding Thrust"
-    desc: "`pf2:2`  **Requirements** The quoppopak's ventral tube is in water\n**Effect** The quoppopak uses Tentacle Stab against a creature within reach; if either of these Strikes hits, the creature must attempt a DC 30 Reflex check save. On a failed save, the quoppopak shoots water through its tentacles into the creature, dealing 2d6 + 5 bludgeoning damage and making the creature [[Conditions/Sickened 1|Sickened 1]] as its internal organs fill with water (double damage and [[Conditions/Sickened 1|Sickened 2]] on a critical failure)."
+    desc: "`pf2:2`  **Requirements** The quoppopak's ventral tube is in water\n* * *\n\n**Effect** The quoppopak uses Tentacle Stab against a creature within reach; if either of these Strikes hits, the creature must attempt a DC 30 Reflex check save. On a failed save, the quoppopak shoots water through its tentacles into the creature, dealing 2d6+5 bludgeoning damage and making the creature [[Conditions/Sickened|Sickened 1]] as its internal organs fill with water (double damage and [[Conditions/Sickened|Sickened 2]] on a critical failure)."
 
   - name: "Tentacle Stab"
-    desc: "`pf2:1`  **Frequency** once per round\n**Effect** The quoppopak makes two tentacle Strikes against the same creature. These Strikes deal piercing damage instead of bludgeoning, and the quoppopak can't [[Bestiary Ability Glossary/Grab|Grab]] with them. Its multiple attack penalty doesn't increase until after both attacks."
+    desc: "`pf2:1`  **Frequency** once per round\n* * *\n\n**Effect** The quoppopak makes two tentacle Strikes against the same creature. These Strikes deal piercing damage instead of bludgeoning, and the quoppopak can't [[Bestiary Ability Glossary/Grab|Grab]] with them. Its multiple attack penalty doesn't increase until after both attacks."
 
   - name: "Water Glide"
     desc: "  The quoppopak can stand and move on the surface of water or other liquids without falling through. It can go underwater if it wishes, but it must [[Actions/Swim|Swim]] to do so."
@@ -87,6 +88,12 @@ attacks:
   - name: "[[Bestiary Ability Glossary/Push|Push]]"
     desc: "`pf2:1`  "
  
+```
+
+```encounter-table
+name: Quoppopak
+creatures:
+  - 1: Quoppopak
 ```
 
 

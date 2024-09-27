@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.pfs-season-3-bestiary.Actor.2N2Nj4W9kWn2fU6P"
 tags:
   - pf2e/creature/type/construct
   - pf2e/creature/type/mindless
+  - pf2eMonster
   - pf2e/creature/level/-1
 statblock: inline
 name: "Animated Knickknack (1-2)"
@@ -21,15 +22,16 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Society Scenario #3-05: Inheritor&#x27;s Rite"
 name: "Animated Knickknack (1-2)"
 level: "Creature -1"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Small"
-trait_01: "construct"
-trait_02: "mindless"
+trait_01: [[construct]]
+trait_02: [[mindless]]
 modifier: 3
 perception:
   - name: "Perception"
     desc: "+3; Darkvision"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Athletics: +5"
@@ -59,6 +61,12 @@ attacks:
   - name: "Melee"
     desc: "`pf2:1` Slam +6 (agile, finesse, magical)\n__Damage__  1d6 bludgeoning"
  
+```
+
+```encounter-table
+name: Animated Knickknack (1-2)
+creatures:
+  - 1: Animated Knickknack (1-2)
 ```
 
 

@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/humanoid
   - pf2e/creature/type/kobold
   - pf2e/creature/type/lawful
+  - pf2eMonster
   - pf2e/creature/level/2
 statblock: inline
 name: "Gurtlekep"
@@ -26,10 +27,10 @@ level: "Creature 2"
 
 alignment: ""
 size: "Small"
-trait_01: "evil"
-trait_02: "humanoid"
-trait_03: "kobold"
-trait_04: "lawful"
+trait_01: [[evil]]
+trait_02: [[humanoid]]
+trait_03: [[kobold]]
+trait_04: [[lawful]]
 modifier: 7
 perception:
   - name: "Perception"
@@ -37,7 +38,7 @@ perception:
 languages: "Draconic"
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +8, Crafting: +6 (+8 traps), Stealth: +10, Thievery: +8"
+    desc: "Acrobatics: +8, Crafting: +6, Stealth: +10, Thievery: +8"
 abilityMods: [1, 4, 2, 4, 1, 0]
 speed: 25 feet
 sourcebook: "_Pathfinder Adventure: Crown of the Kobold King_"
@@ -66,11 +67,17 @@ attacks:
     desc: "`pf2:1` Dagger +10 (agile, thrown 10 ft., versatile s)\n__Damage__  1d4 + 3 piercing"
 
   - name: "Knife 'n Run"
-    desc: "`pf2:1`  **Requirements** Gurtlekep is adjacent to at least one enemy and holds a dagger in a hand\n**Effect** Gurtlekep Strides up to his Speed plus 5 feet and then attempts a ranged Strike with his held dagger. He must end this movement in a space that isn't adjacent to any enemy."
+    desc: "`pf2:1`  **Requirements** Gurtlekep is adjacent to at least one enemy and holds a dagger in a hand\n* * *\n\n**Effect** Gurtlekep Strides up to his Speed plus 5 feet and then attempts a ranged Strike with his held dagger. He must end this movement in a space that isn't adjacent to any enemy."
 
   - name: "[[Bestiary Ability Glossary/Sneak Attack|Sneak Attack]]"
     desc: "  Gurtlekep deals an additional 1d6 precision damage to [[Conditions/Off-Guard|Off-Guard]] creatures."
  
+```
+
+```encounter-table
+name: Gurtlekep
+creatures:
+  - 1: Gurtlekep
 ```
 
 

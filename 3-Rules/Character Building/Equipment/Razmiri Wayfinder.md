@@ -3,6 +3,7 @@ obsidianUIMode: preview
 title: "Razmiri Wayfinder"
 cssclasses: pf2e,pf2e-spell
 tags:
+  - trait/illusion
   - trait/magical
   - trait/uncommon
 aliases: "Compendium.pf2e.equipment-srd.Item.fuDYKpDN9RmCX7do"
@@ -10,7 +11,7 @@ license: OGL
 ---
 # Razmiri Wayfinder
 ## Item 10
-### [uncommon](uncommon "Uncommon Rarity Trait")[[magical]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[illusion]][[magical]]
 
 
 **Price** 900 gp; 

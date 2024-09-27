@@ -11,6 +11,7 @@ tags:
   
 
 **TABLE: CREATURE XP (NO LEVEL)**
+ 
 | **Creature's Level** | **XP** |
 | --- | --- |
 | Party level - 7 | 9 |
@@ -32,6 +33,7 @@ tags:
   
 
 **TABLE: SIMPLE SKILL DCS (NO LEVEL)**
+ 
 | **Proficiency Rank** | **DC** |
 | --- | --- |
 | Untrained | 10 |
@@ -54,7 +56,7 @@ Finally, decrease the skill DCs of most tasks to account for the level being rem
 
 Telling stories where a large group of low-level monsters can still be a significant threat to a high-level PC (and conversely, a single higher-level monster is not much of a threat to a group of PCs) requires some significant shifts in encounter building, including shifts in the PCs' rewards.
 
-Under the math in the _Core Rulebook_, two monsters of a certain level are roughly as challenging as a single monster 2 levels higher. However, with level removed from proficiency, this assumption is no longer true. The XP budget for creatures uses a different scale, as shown in Table: Creature XP (No Level). You'll still use the same XP budget for a given threat level as shown on [[undefined]] (80 XP for a moderate-threat encounter, 120 for a severe-threat encounter, and so on).
+Under the math in the _Core Rulebook_, two monsters of a certain level are roughly as challenging as a single monster 2 levels higher. However, with level removed from proficiency, this assumption is no longer true. The XP budget for creatures uses a different scale, as shown in Table: Creature XP (No Level). You'll still use the same XP budget for a given threat level as shown on [[PF2e Journals/GM Screen/Encounter Building & XP Awards|Encounter Building & XP Awards]] (80 XP for a moderate-threat encounter, 120 for a severe-threat encounter, and so on).
 
 ### Table: Creature XP (No Level)
 
@@ -62,4 +64,4 @@ While the XP values in Table: Creature XP (No Level) work well in most cases, so
 
 ### Adjusting Treasure
 
-Treasure and the cost of items in the _Core Rulebook_ are designed to make it as easy as possible for you to build encounters without worrying about awarding too much or too little treasure based on whether you use creatures who carry items. However, using this variant, the PCs might defeat a creature 5 levels higher than they are, or even more! Too many encounters with higher-level foes can wind up giving the PCs more treasure than you expected, or vice-versa if they're fighting weaker foes that put up more of a fight but still have poor treasure. You can nudge this in the right direction by making periodic adjustments if the PCs' treasure drifts too far from expectations. Making it so they can't easily sell or buy magic items will mean it's harder for them to exploit treasure they gain. To sidestep the treasure economy entirely, you can use the [[undefined]].
+Treasure and the cost of items in the _Core Rulebook_ are designed to make it as easy as possible for you to build encounters without worrying about awarding too much or too little treasure based on whether you use creatures who carry items. However, using this variant, the PCs might defeat a creature 5 levels higher than they are, or even more! Too many encounters with higher-level foes can wind up giving the PCs more treasure than you expected, or vice-versa if they're fighting weaker foes that put up more of a fight but still have poor treasure. You can nudge this in the right direction by making periodic adjustments if the PCs' treasure drifts too far from expectations. Making it so they can't easily sell or buy magic items will mean it's harder for them to exploit treasure they gain. To sidestep the treasure economy entirely, you can use the [[PF2e Journals/GM Screen/Automatic Bonus Progression|Automatic Bonus Progression]].

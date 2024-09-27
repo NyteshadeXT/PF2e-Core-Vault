@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/chaotic
   - pf2e/creature/type/human
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/5
 statblock: inline
 name: "Amateur Chemist"
@@ -22,12 +23,12 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #160: Assault on Hunting Lodge Seven"
 name: "Amateur Chemist"
 level: "Creature 5"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Medium"
-trait_01: "chaotic"
-trait_02: "human"
-trait_03: "humanoid"
+trait_01: [[chaotic]]
+trait_02: [[human]]
+trait_03: [[humanoid]]
 modifier: 13
 perception:
   - name: "Perception"
@@ -76,11 +77,17 @@ attacks:
     desc: "  The chemist's bombs that have the splash trait deal 4 splash damage."
 
   - name: "Quick Alchemy"
-    desc: "`pf2:1`  **Cost** 1 batch of infused reagents\n**Effect** The chemist creates a single alchemical item from their formula book (see Alchemical Formulas). This item has the infused trait, but it remains potent only until the start of their next turn."
+    desc: "`pf2:1`  **Cost** 1 batch of infused reagents\n* * *\n\n**Effect** The chemist creates a single alchemical item from their formula book (see Alchemical Formulas). This item has the infused trait, but it remains potent only until the start of their next turn."
 
   - name: "Quick Bomber"
     desc: "`pf2:1`  The chemist Interacts to draw a bomb then Strikes with it."
  
+```
+
+```encounter-table
+name: Amateur Chemist
+creatures:
+  - 1: Amateur Chemist
 ```
 
 

@@ -12,6 +12,7 @@ tags:
   - pf2e/creature/type/lawful
   - pf2e/creature/type/oni
   - pf2e/creature/type/unholy
+  - pf2eMonster
   - pf2e/creature/level/8
 statblock: inline
 name: "Onidoshi"
@@ -30,13 +31,13 @@ level: "Creature 8"
 
 alignment: ""
 size: "Large"
-trait_01: "evil"
-trait_02: "fiend"
-trait_03: "giant"
-trait_04: "humanoid"
-trait_05: "lawful"
-trait_06: "oni"
-trait_07: "unholy"
+trait_01: [[evil]]
+trait_02: [[fiend]]
+trait_03: [[giant]]
+trait_04: [[humanoid]]
+trait_05: [[lawful]]
+trait_06: [[oni]]
+trait_07: [[unholy]]
 modifier: 17
 perception:
   - name: "Perception"
@@ -82,8 +83,14 @@ attacks:
     desc: "DC 24, attack +14; __5th __  _[[Spells/Cone of Cold|Cone of Cold]]_; __4th __  _[[Spells/Charm|Charm]]_, _[[Spells/Vapor Form|Gaseous Form]]_, _[[Spells/Sleep|Sleep]]_; __3rd __  _[[Spells/Fear|Fear]]_; __2nd __  _[[Spells/Darkness|Darkness]]_, _[[Spells/Invisibility|Invisibility (At will) (Self only)]]_"
 
   - name: "[[Bestiary Ability Glossary/Change Shape|Change Shape]]"
-    desc: "`pf2:1` (concentrate,polymorph,primal) The onidoshi takes on the appearance of an ogre. This doesn't change their Speed or Strike attack and damage.\n"
+    desc: "`pf2:1` (concentrate,polymorph,primal) The onidoshi takes on the appearance of an ogre. This doesn't change their Speed or Strike attack and damage.\n\n* * *\n"
  
+```
+
+```encounter-table
+name: Onidoshi
+creatures:
+  - 1: Onidoshi
 ```
 
 

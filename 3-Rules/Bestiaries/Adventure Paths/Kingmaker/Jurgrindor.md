@@ -10,6 +10,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/giant
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/3
 statblock: inline
 name: "Jurgrindor"
@@ -24,14 +25,14 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Kingmaker"
 name: "Jurgrindor"
 level: "Creature 3"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Large"
-trait_01: "chaotic"
-trait_02: "cold"
-trait_03: "evil"
-trait_04: "giant"
-trait_05: "humanoid"
+trait_01: [[chaotic]]
+trait_02: [[cold]]
+trait_03: [[evil]]
+trait_04: [[giant]]
+trait_05: [[humanoid]]
 modifier: 9
 perception:
   - name: "Perception"
@@ -68,8 +69,14 @@ attacks:
     desc: "`pf2:1` Fist +10 (agile, reach 10 feet)\n__Damage__  1d8 + 8 bludgeoning"
 
   - name: "Chill Breath"
-    desc: "`pf2:1` (cold,primal) Jurgrindor breathes out a 15-foot cone of freezing moisture that quickly condenses into ice, dealing 2d6 cold damage (DC 18 Reflex check). A creature that critically fails the save is also [[Conditions/Immobilized|Immobilized]] until it Escapes (DC 18). Jurgrindor can't use Chill Breath for 1d4 rounds."
+    desc: "`pf2:1` (cold,primal) Jurgrindor breathes out a @Template[cone|distance:15] of freezing moisture that quickly condenses into ice, dealing 2d6 cold damage (DC 18 Reflex check). A creature that critically fails the save is also [[Conditions/Immobilized|Immobilized]] until it Escapes (DC 18). Jurgrindor can't use Chill Breath for 1d4 rounds."
  
+```
+
+```encounter-table
+name: Jurgrindor
+creatures:
+  - 1: Jurgrindor
 ```
 
 

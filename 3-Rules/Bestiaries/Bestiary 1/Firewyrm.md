@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.pathfinder-bestiary.Actor.Q8FAcsuta4p6d8KS"
 tags:
   - pf2e/creature/type/elemental
   - pf2e/creature/type/fire
+  - pf2eMonster
   - pf2e/creature/level/9
 statblock: inline
 name: "Firewyrm"
@@ -25,8 +26,8 @@ level: "Creature 9"
 
 alignment: ""
 size: "huge"
-trait_01: "elemental"
-trait_02: "fire"
+trait_01: [[elemental]]
+trait_02: [[fire]]
 modifier: 16
 perception:
   - name: "Perception"
@@ -56,7 +57,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Explosion"
-    desc: " (fire) When the firewyrm dies, it explodes, dealing 6d6 fire damage to each creature in a 10-foot emanation (DC 28 Reflex check save)."
+    desc: " (fire) When the firewyrm dies, it explodes, dealing 6d6 fire damage to each creature in a @Template[emanation|distance:10|traits:fire,damaging-effect] (DC 28 Reflex check save)."
 
   - name: "Intense Heat"
     desc: " (aura,fire) 10 feet. 4d6 fire damage DC 25 Reflex check"
@@ -71,8 +72,14 @@ attacks:
     desc: "`pf2:1` Fire Mote +20 (range increment 60 feet)\n__Damage__  2d8 + 6 fire"
 
   - name: "Breath Weapon"
-    desc: "`pf2:2` (fire,primal) The firewyrm breathes a 30-foot cone of fire dealing 7d6 fire damage and 2d8 persistent fire damage to every creature within the cone (DC 28 Reflex check save).\nThe firewyrm can't use Breath Weapon again for 1d4 rounds."
+    desc: "`pf2:2` (fire,primal) The firewyrm breathes a @Template[cone|distance:30] of fire dealing 7d6 fire damage and 2d8 persistent fire damage to every creature within the cone (DC 28 Reflex check save).\n\nThe firewyrm can't use Breath Weapon again for 1d4 rounds."
  
+```
+
+```encounter-table
+name: Firewyrm
+creatures:
+  - 1: Firewyrm
 ```
 
 

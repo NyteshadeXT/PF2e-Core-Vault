@@ -31,9 +31,9 @@ This clockwork cobra activates when a creature enters its square, at which point
 
 **Success** The creature takes half damage.
 
-**Failure** The creature takes full damage and is [[Conditions/Sickened 1|Sickened]] 1.
+**Failure** The creature takes full damage and is [[Conditions/Sickened|Sickened]] 1.
 
-**Critical Failure** The creature takes double damage is [[Conditions/Sickened 1|Sickened]] 2.
+**Critical Failure** The creature takes double damage is [[Conditions/Sickened|Sickened]] 2.
 
 *Source: Pathfinder Guns & Gears*
 *OGL*

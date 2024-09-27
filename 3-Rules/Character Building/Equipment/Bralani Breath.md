@@ -13,7 +13,7 @@ license: OGL
 ---
 # Bralani Breath
 ## Item 3
-### [[catalyst]][[consumable]][[magical]]
+### [[catalyst]][[consumable]][[3-Rules/Rule References/Magical]]
 
 **Category** catalyst; 
 **Price** 11 gp; 

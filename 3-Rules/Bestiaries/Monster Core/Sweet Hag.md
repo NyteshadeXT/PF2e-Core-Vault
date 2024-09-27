@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.pathfinder-monster-core.Actor.zrzoj0L0ZwfCbHXr"
 tags:
   - pf2e/creature/type/hag
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/4
   - remaster
 statblock: inline
@@ -19,14 +20,15 @@ license: ORC
 columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
+token: [[modules/pf2e-tokens-monster-core/assets/portraits/hag-sweet.webp| ]]
 source: "Pathfinder Monster Core"
 name: "Sweet Hag"
 level: "Creature 4"
 
 alignment: ""
 size: "Medium"
-trait_01: "hag"
-trait_02: "humanoid"
+trait_01: [[hag]]
+trait_02: [[humanoid]]
 modifier: 10
 perception:
   - name: "Perception"
@@ -80,8 +82,14 @@ attacks:
     desc: "`pf2:2` (occult) The sweet hag casts an innate spell that can normally target 1 creature on a piece of food, typically a sweet treat. The spell is stored in the food. The first creature that eats any of the food is affected by the spell and takes a –4 circumstance penalty to their saving throw against that effect."
 
   - name: "Soporific Touch"
-    desc: " (incapacitation,occult) A creature damaged by a sweet hag's claw must succeed at a DC 20 Fortitude check save or be [[Conditions/Enfeebled 1|Enfeebled 1]] for 1 day.\n\nIf the creature critically fails or fails this save while already enfeebled by soporific strike, it falls [[Conditions/Unconscious|Unconscious]] and dreams of eating delicious sweets; this is a mental sleep effect. If not woken up before 1 minute passes, the creature wakes up automatically."
+    desc: " (incapacitation,occult) A creature damaged by a sweet hag's claw must succeed at a DC 20 Fortitude check save or be [[Conditions/Enfeebled|Enfeebled 1]] for 1 day.\n\nIf the creature critically fails or fails this save while already enfeebled by soporific strike, it falls [[Conditions/Unconscious|Unconscious]] and dreams of eating delicious sweets; this is a mental sleep effect. If not woken up before 1 minute passes, the creature wakes up automatically."
  
+```
+
+```encounter-table
+name: Sweet Hag
+creatures:
+  - 1: Sweet Hag
 ```
 
 

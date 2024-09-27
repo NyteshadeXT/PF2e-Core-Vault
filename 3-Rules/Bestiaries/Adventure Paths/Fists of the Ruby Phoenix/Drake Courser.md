@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/chaotic
   - pf2e/creature/type/cold
   - pf2e/creature/type/dragon
+  - pf2eMonster
   - pf2e/creature/level/12
 statblock: inline
 name: "Drake Courser"
@@ -22,12 +23,12 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #167: Ready? Fight!"
 name: "Drake Courser"
 level: "Creature 12"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Large"
-trait_01: "chaotic"
-trait_02: "cold"
-trait_03: "dragon"
+trait_01: [[chaotic]]
+trait_02: [[cold]]
+trait_03: [[dragon]]
 modifier: 22
 perception:
   - name: "Perception"
@@ -57,7 +58,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "[[Bestiary Ability Glossary/Attack of Opportunity|Attack of Opportunity (Special)]]"
-    desc: "`pf2:r`  Tail only. On a critical hit, the target is knocked [[Conditions/Prone|Prone]]; if the target was using a move action, its movement ends.\n"
+    desc: "`pf2:r`  Tail only. On a critical hit, the target is knocked [[Conditions/Prone|Prone]]; if the target was using a move action, its movement ends.\n\n* * *\n"
 
 attacks:
   - name: ""
@@ -72,10 +73,10 @@ attacks:
     desc: "`pf2:2`  The drake courser makes two fangs Strikes and one tail Strike in any order. It can replace any of these Strikes with [[Actions/Demoralize|Demoralize]] or [[Actions/Step|Step]]."
 
   - name: "Buffeting Surge"
-    desc: "`pf2:1` (move) **Frequency** three times per day\n**Effect** The drake courser moves up to twice its Speed. It can attempt to [[Actions/Trip|Trip]] with its tail once at any point during its movement."
+    desc: "`pf2:1` (move) **Frequency** three times per day\n* * *\n\n**Effect** The drake courser moves up to twice its Speed. It can attempt to [[Actions/Trip|Trip]] with its tail once at any point during its movement."
 
   - name: "Freezing Mist Breath"
-    desc: "`pf2:2` (arcane,cold) The drake spits a ball of liquid up to 60 feet that explodes into a 20-foot burst of freezing mist. Those in the burst take 13d6 cold damage (DC 31 Reflex check save). The mist cakes all surfaces in the area with a sheet of slippery ice that turns the area into difficult terrain for 2d4 rounds. It can't use Freezing Mist Breath again for 1d6 rounds."
+    desc: "`pf2:2` (arcane,cold) The drake spits a ball of liquid up to 60 feet that explodes into a @Template[burst|distance:20] of freezing mist. Those in the burst take 13d6 cold damage (DC 31 Reflex check save). The mist cakes all surfaces in the area with a sheet of slippery ice that turns the area into difficult terrain for 2d4 rounds. It can't use Freezing Mist Breath again for 1d6 rounds."
 
   - name: "Ice Climb (35 feet)"
     desc: "  A drake courser can climb on ice as though it had the listed climb Speed. It ignores difficult terrain and greater difficult terrain from ice and snow and doesn't risk falling when crossing ice."
@@ -83,6 +84,12 @@ attacks:
   - name: "[[Bestiary Ability Glossary/Knockdown|Knockdown]]"
     desc: "`pf2:1`  "
  
+```
+
+```encounter-table
+name: Drake Courser
+creatures:
+  - 1: Drake Courser
 ```
 
 

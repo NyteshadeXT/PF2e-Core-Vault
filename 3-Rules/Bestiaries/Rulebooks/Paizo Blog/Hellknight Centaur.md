@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.blog-bestiary.Actor.bCyzCto3GIqvWBoM"
 tags:
   - pf2e/creature/type/beast
   - pf2e/creature/type/lawful
+  - pf2eMonster
   - pf2e/creature/level/4
 statblock: inline
 name: "Hellknight Centaur"
@@ -21,11 +22,11 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Blog"
 name: "Hellknight Centaur"
 level: "Creature 4"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Large"
-trait_01: "beast"
-trait_02: "lawful"
+trait_01: [[beast]]
+trait_02: [[lawful]]
 modifier: 11
 perception:
   - name: "Perception"
@@ -65,8 +66,14 @@ attacks:
     desc: "`pf2:1` Spear +11 (thrown 20 ft.)\n__Damage__  1d6 + 6 piercing"
 
   - name: "[[Bestiary Ability Glossary/Trample|Trample]]"
-    desc: "`pf2:3`  Medium or smaller, hoof, DC 20 Reflex check\n"
+    desc: "`pf2:3`  Medium or smaller, hoof, DC 20 Reflex check\n\n* * *\n"
  
+```
+
+```encounter-table
+name: Hellknight Centaur
+creatures:
+  - 1: Hellknight Centaur
 ```
 
 

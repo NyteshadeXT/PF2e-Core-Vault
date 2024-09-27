@@ -26,7 +26,7 @@ license: ORC
 
 * * *
 
-Elixirs of life accelerate a living creature''s natural healing processes and immune system. Upon drinking this elixir, you regain 7d6+18 Hit Points and gain +2 item bonus to saving throws against diseases and poisons for 10 minutes.
+Elixirs of life accelerate a living creature's natural healing processes and immune system. Upon drinking this elixir, you regain 7d6+18 healing Hit Points and gain +2 item bonus to saving throws against diseases and poisons for 10 minutes.
 
 [[Equipment Effects/Effect_ Elixir of Life (Greater)|Effect: Elixir of Life (Greater)]]
 

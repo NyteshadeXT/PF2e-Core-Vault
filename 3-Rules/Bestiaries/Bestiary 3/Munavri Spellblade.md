@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/good
   - pf2e/creature/type/humanoid
   - pf2e/creature/type/munavri
+  - pf2eMonster
   - pf2e/creature/level/2
 statblock: inline
 name: "Munavri Spellblade"
@@ -23,17 +24,17 @@ token: [[modules/pf2e-tokens-bestiaries/portraits/humanoid/darklands/munavri-spe
 source: "Pathfinder Bestiary 3"
 name: "Munavri Spellblade"
 level: "Creature 2"
-rare_03: "Rare"
+rare_03: [[Rare]]
 alignment: ""
 size: "Medium"
-trait_01: "good"
-trait_02: "humanoid"
-trait_03: "munavri"
+trait_01: [[good]]
+trait_02: [[humanoid]]
+trait_03: [[munavri]]
 modifier: 7
 perception:
   - name: "Perception"
     desc: "+7; Darkvision"
-languages: "Munavri, Sakvroth"
+languages: "Munavri, Sakvroth; telepathy 30 feet (munavris only)"
 skills:
   - name: "Skills"
     desc: "Athletics: +8, Deception: +7, Occultism: +6, Stealth: +4"
@@ -65,8 +66,14 @@ attacks:
     desc: "DC 17, attack +9; __1st __ (3 slots) _[[Spells/Mindlink|Mindlink]]_, _[[Spells/Phantom Pain|Phantom Pain]]_, _[[Spells/Soothe|Soothe]]_\n__Cantrips__  __(1st)__ _[[Spells/Daze|Daze]]_, _[[Spells/Message|Message]]_, _[[Spells/Shield|Shield]]_, _[[Spells/Telekinetic Projectile|Telekinetic Projectile]]_"
 
   - name: "Intuit Object"
-    desc: "`pf2:2` (concentrate,occult) **Frequency** once per day\n**Effect** By concentrating their psychic energy on a held object, the munavri intuits its use and understands how to effectively wield it.\nThe munavri chooses one item they are holding. They gain the trained proficiency rank in one statistic required to use that item, but only for the purpose of using that specific item.\nFor example, they could become trained in greatswords (to use a specific greatsword) or Acrobatics (to use a _[[Equipment/Jade Cat|Jade Cat]]_ talisman). This benefit lasts for 1 hour."
+    desc: "`pf2:2` (concentrate,occult) **Frequency** once per day\n* * *\n\n**Effect** By concentrating their psychic energy on a held object, the munavri intuits its use and understands how to effectively wield it.\n\nThe munavri chooses one item they are holding. They gain the trained proficiency rank in one statistic required to use that item, but only for the purpose of using that specific item.\n\nFor example, they could become trained in greatswords (to use a specific greatsword) or Acrobatics (to use a _[[Equipment/Jade Cat|Jade Cat]]_ talisman). This benefit lasts for 1 hour."
  
+```
+
+```encounter-table
+name: Munavri Spellblade
+creatures:
+  - 1: Munavri Spellblade
 ```
 
 

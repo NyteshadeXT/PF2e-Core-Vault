@@ -10,6 +10,7 @@ tags:
   - pf2e/creature/type/skeleton
   - pf2e/creature/type/undead
   - pf2e/creature/type/unholy
+  - pf2eMonster
   - pf2e/creature/level/8
 statblock: inline
 name: "Skeletal Knight"
@@ -24,18 +25,19 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #183: Field of Maidens"
 name: "Skeletal Knight"
 level: "Creature 8"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Medium"
-trait_01: "evil"
-trait_02: "mindless"
-trait_03: "skeleton"
-trait_04: "undead"
-trait_05: "unholy"
+trait_01: [[evil]]
+trait_02: [[mindless]]
+trait_03: [[skeleton]]
+trait_04: [[undead]]
+trait_05: [[unholy]]
 modifier: 5
 perception:
   - name: "Perception"
     desc: "+5; Darkvision"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Acrobatics: +16, Athletics: +18"
@@ -73,8 +75,14 @@ attacks:
     desc: "`pf2:1` Claw +20 (agile, finesse)\n__Damage__  2d4 + 12 slashing"
 
   - name: "Lancer"
-    desc: "  The skeletal knight uses a lance in one hand, even when it isn't mounted. If the skeletal knight critically hits a creature with its lance Strike, the target is [[Conditions/Clumsy 1|Clumsy 1]] until the start of the skeletal knight's next turn."
+    desc: "  The skeletal knight uses a lance in one hand, even when it isn't mounted. If the skeletal knight critically hits a creature with its lance Strike, the target is [[Conditions/Clumsy|Clumsy 1]] until the start of the skeletal knight's next turn."
  
+```
+
+```encounter-table
+name: Skeletal Knight
+creatures:
+  - 1: Skeletal Knight
 ```
 
 

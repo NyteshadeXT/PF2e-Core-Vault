@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/fiend
   - pf2e/creature/type/qlippoth
   - pf2e/creature/type/unholy
+  - pf2eMonster
   - pf2e/creature/level/14
   - remaster
 statblock: inline
@@ -24,12 +25,12 @@ token: [[modules/pf2e-tokens-bestiaries/portraits/fiendish/augnagar.webp| ]]
 source: "Pathfinder Monster Core"
 name: "Augnagar"
 level: "Creature 14"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "huge"
-trait_01: "fiend"
-trait_02: "qlippoth"
-trait_03: "unholy"
+trait_01: [[fiend]]
+trait_02: [[qlippoth]]
+trait_03: [[unholy]]
 modifier: 27
 perception:
   - name: "Perception"
@@ -68,14 +69,20 @@ attacks:
     desc: "DC 31, attack +23; __5th __  _[[Spells/Translocate|Translocate (x3)]]_\n__Constant__  __(7th)__ _[[Spells/Truesight|Truesight]]_"
 
   - name: "Confusing Display"
-    desc: "`pf2:2` (concentrate,emotion,fear,incapacitation,mental,occult,visual) The augnagar's writhing limbs and flesh seethe and squirm in a disorienting and unsettling manner. Creatures in a 30-foot emanation must attempt a DC 34 Will check save, after which they are temporarily immune to further Confusing Displays for 1 minute.\n* * *\n\n**Critical Success** The creature is unaffected.\n\n**Success** The creature is [[Conditions/Stupefied 1|Stupefied 1]] for 1 round.\n\n**Failure** The creature is stupefied 1 and [[Conditions/Confused|Confused]] for 1 minute.\n\n**Critical Failure** As failure, but the creature can't attempt a flat check to recover from confusion whenever it takes damage from an attack or spell."
+    desc: "`pf2:2` (concentrate,emotion,fear,incapacitation,mental,occult,visual) The augnagar's writhing limbs and flesh seethe and squirm in a disorienting and unsettling manner. Creatures in a @Template[emanation|distance:30] must attempt a DC 34 Will check save, after which they are temporarily immune to further Confusing Displays for 1 minute.\n* * *\n\n**Critical Success** The creature is unaffected.\n\n**Success** The creature is [[Conditions/Stupefied|Stupefied 1]] for 1 round.\n\n**Failure** The creature is stupefied 1 and [[Conditions/Confused|Confused]] for 1 minute.\n\n**Critical Failure** As failure, but the creature can't attempt a flat check to recover from confusion whenever it takes damage from an attack or spell."
 
   - name: "Inhale Vitality"
-    desc: "`pf2:2` (occult,void) **Frequency** once per day\n* * *\n\n**Effect** The augnagar inhales sharply, drawing life force out of creatures in a 50-foot cone. Creatures in the area take 14d6 void damage with a DC 34 Fortitude check save. A creature that fails its save is also [[Conditions/Fatigued|Fatigued]].\n\nIf any creatures take damage from this activity, the augnagar becomes [[Conditions/Quickened|Quickened]] for 1 round, and it can use the extra action only to Stride or Strike."
+    desc: "`pf2:2` (occult,void) **Frequency** once per day\n* * *\n\n**Effect** The augnagar inhales sharply, drawing life force out of creatures in a @Template[cone|distance:50]. Creatures in the area take 14d6 void damage with a DC 34 Fortitude check save. A creature that fails its save is also [[Conditions/Fatigued|Fatigued]].\n\nIf any creatures take damage from this activity, the augnagar becomes [[Conditions/Quickened|Quickened]] for 1 round, and it can use the extra action only to Stride or Strike."
 
   - name: "Rotting Curse"
-    desc: " (curse,disease,occult) **Saving Throw** DC 32 Fortitude check\n* * *\n\n**Stage 1** [[Conditions/Drained 1|Drained 1]] (1 day)\n\n**Stage 2** drained 2 and the creature displays hideous, festering wounds exuding a horrific stench. When the victim takes piercing or slashing damage, creatures within 30 feet must succeed at a DC 32 Fortitude check save or become [[Conditions/Sickened 1|Sickened 1]]. The victim automatically fails this save (1 day)."
+    desc: " (curse,disease,occult) **Saving Throw** DC 32 Fortitude check\n* * *\n\n**Stage 1** [[Conditions/Drained|Drained 1]] (1 day)\n\n**Stage 2** drained 2 and the creature displays hideous, festering wounds exuding a horrific stench. When the victim takes piercing or slashing damage, creatures within 30 feet must succeed at a DC 32 Fortitude check save or become [[Conditions/Sickened|Sickened 1]]. The victim automatically fails this save (1 day)."
  
+```
+
+```encounter-table
+name: Augnagar
+creatures:
+  - 1: Augnagar
 ```
 
 

@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.outlaws-of-alkenstar-bestiary.Actor.EjQYuMP3t0J4OI3I"
 tags:
   - pf2e/creature/type/humanoid
   - pf2e/creature/type/lawful
+  - pf2eMonster
   - pf2e/creature/level/2
 statblock: inline
 name: "Gunmarshal"
@@ -21,11 +22,11 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #178: Punks in a Powder Keg"
 name: "Gunmarshal"
 level: "Creature 2"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Medium"
-trait_01: "humanoid"
-trait_02: "lawful"
+trait_01: [[humanoid]]
+trait_02: [[lawful]]
 modifier: 10
 perception:
   - name: "Perception"
@@ -62,11 +63,17 @@ attacks:
     desc: "`pf2:1` Flintlock Musket +11 (concussive, fatal d10, range increment 70 feet, reload 1)\n__Damage__  1d6 + 4 piercing"
 
   - name: "Firearms Critical Specialization"
-    desc: "  When the gunmarshal makes a critical hit with a firearm, the target must succeed at a DC 18 Fortitude check save or be [[Conditions/Stunned 1|Stunned 1]]."
+    desc: "  When the gunmarshal makes a critical hit with a firearm, the target must succeed at a DC 18 Fortitude check save or be [[Conditions/Stunned|Stunned 1]]."
 
   - name: "Lawbringer"
     desc: "`pf2:1`  The gunmarshal marks a foe for judgment, granting the gunmarshal a +10-foot circumstance bonus to Speed when moving toward that creature."
  
+```
+
+```encounter-table
+name: Gunmarshal
+creatures:
+  - 1: Gunmarshal
 ```
 
 

@@ -8,19 +8,19 @@ tags:
 ---
 # Brained
 
-> The target is [[Conditions/Stunned 1|Stunned 1]].
+> The target is [[Conditions/Stunned|Stunned 1]].
 
 `Bludgeoning`
 
 # Kidney Piercing
 
-> The target is [[Conditions/Sickened 1|Sickened 2]].
+> The target is [[Conditions/Sickened|Sickened 2]].
 
 `Piercing`
 
 # Fingertipped
 
-> Normal damage. Until healed, the target is [[Conditions/Clumsy 1|Clumsy 1]] and can't use one of its hands (chosen randomly by the GM).
+> Normal damage. Until healed, the target is [[Conditions/Clumsy|Clumsy 1]] and can't use one of its hands (chosen randomly by the GM).
 
 `Slashing`
 

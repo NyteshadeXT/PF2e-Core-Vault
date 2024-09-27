@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.seven-dooms-for-sandpoint-bestiary.Actor.LKg7AOq8OsUp0
 tags:
   - pf2e/creature/type/human
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/6
 statblock: inline
 name: "Arika Avertin"
@@ -21,11 +22,11 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #200: Seven Dooms for Sandpoint"
 name: "Arika Avertin"
 level: "Creature 6"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Medium"
-trait_01: "human"
-trait_02: "humanoid"
+trait_01: [[human]]
+trait_02: [[humanoid]]
 modifier: 10
 perception:
   - name: "Perception"
@@ -67,6 +68,12 @@ attacks:
   - name: "Bard Composition Spells"
     desc: "2 Focus Points, DC 22, attack +12; __3rd __  _[[Spells/Counter Performance|Counter Performance]]_, _[[Spells/Lingering Composition|Lingering Composition]]_\n__Cantrips__  __(3rd)__ _[[Spells/Courageous Anthem|Courageous Anthem]]_, _[[Spells/Rallying Anthem|Rallying Anthem]]_, _[[Spells/Uplifting Overture|Uplifting Overture]]_"
  
+```
+
+```encounter-table
+name: Arika Avertin
+creatures:
+  - 1: Arika Avertin
 ```
 
 

@@ -6,8 +6,9 @@ tags:
   - trait/archetype
   - trait/common
   - category/class
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.wijzB1FDUT7SC86a"
-license: OGL
+license: ORC
 ---
 # Specialized Mount
 ## Feat 14
@@ -23,5 +24,5 @@ You've trained your mount to perform in unusual or even extreme circumstances, g
 
 **Special** You can select this feat up to three times. Each time, add a different specialization to your mount. You mount can't have more than three specializations.
 
-*Source: Pathfinder Advanced Player's Guide*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

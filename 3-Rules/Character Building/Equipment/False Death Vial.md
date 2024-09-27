@@ -13,7 +13,7 @@ license: OGL
 ---
 # False Death Vial
 ## Item 13
-### [uncommon](uncommon "Uncommon Rarity Trait")[[consumable]][[magical]][[talisman]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[consumable]][[3-Rules/Rule References/Magical]][[talisman]]
 
 **Category** talisman; 
 **Price** 600 gp; 
@@ -28,7 +28,7 @@ license: OGL
 
 * * *
 
-This tiny crystal vial of oily liquid is typically attached to a pin or worn on a tether attached to the affixed article of clothing. When you Activate the vial, you avoid being knocked out and remain at 1 Hit Point, your [[Conditions/Wounded 1|Wounded]] condition increases by 1, and the talisman casts drop dead on you. You and any items you're wearing and holding are instantly transported from your current space to a clear space of your choice within 30 feet. You take no damage from the triggering effect. If you are carrying another creature (even one contained inside an extradimensional container), it's left behind in your original space.
+This tiny crystal vial of oily liquid is typically attached to a pin or worn on a tether attached to the affixed article of clothing. When you Activate the vial, you avoid being knocked out and remain at 1 Hit Point, your [[Conditions/Wounded|Wounded]] condition increases by 1, and the talisman casts drop dead on you. You and any items you're wearing and holding are instantly transported from your current space to a clear space of your choice within 30 feet. You take no damage from the triggering effect. If you are carrying another creature (even one contained inside an extradimensional container), it's left behind in your original space.
 
 *Source: Pathfinder Treasure Vault*
 *OGL*

@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/humanoid
   - pf2e/creature/type/ratfolk
+  - pf2eMonster
   - pf2e/creature/level/14
 statblock: inline
 name: "Blue Viper (Level 14)"
@@ -22,12 +23,12 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #166: Despair on Danger Island"
 name: "Blue Viper (Level 14)"
 level: "Creature 14"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Small"
-trait_01: "evil"
-trait_02: "humanoid"
-trait_03: "ratfolk"
+trait_01: [[evil]]
+trait_02: [[humanoid]]
+trait_03: [[ratfolk]]
 modifier: 28
 perception:
   - name: "Perception"
@@ -51,14 +52,14 @@ health:
 abilities_top:
   - name: ""
   - name: "Items"
-    desc: "[[Equipment/Shortsword|+2 Striking Shortsword]], 2x [[Equipment/Acid Flask (Greater)|Acid Flask (Greater) (Infused)]], 4x [[Equipment/Alchemist's Fire (Greater)|Alchemist's Fire (Greater) (Infused)]], 4x [[Equipment/Bottled Lightning (Greater)|Bottled Lightning (Greater) (Infused)]], 2x [[Equipment/Frost Vial (Greater)|Frost Vial (Greater) (Infused)]], [[Equipment/Explorer's Clothing|+1 Resilient Explorer's Clothing]], [[Equipment/Dragon Bile|Dragon Bile (Applied to Body)]], 6x [[Equipment/Blightburn Resin|Blightburn Resin (Infused)]], 3x [[Equipment/Deathcap Powder|Deathcap Powder (Infused)]], 4x [[Equipment/Elixir of Life (Greater)|Elixir of Life (Greater) (Infused)]], 3x [[Equipment/Malyass Root Paste|Malyass Root Paste (Infused)]], 9x [[Equipment/Purple Worm Venom|Purple Worm Venom (Infused)]], 6x [[Equipment/Shadow Essence|Shadow Essence (Infused)]], 3x [[Equipment/Spider Root|Spider Root (Infused)]]"
+    desc: "[[Equipment/Shortsword|+2 Striking Shortsword]], 2x [[Equipment/Acid Flask (Greater)|Acid Flask (Greater) (Infused)]], 4x [[Equipment/Alchemist's Fire (Greater)|Alchemist's Fire (Greater) (Infused)]], 4x [[Equipment/Bottled Lightning (Greater)|Bottled Lightning (Greater) (Infused)]], 2x [[Equipment/Frost Vial (Greater)|Frost Vial (Greater) (Infused)]], [[Equipment/Explorer's Clothing|+1 Resilient Explorer's Clothing]], [[Equipment/Dragon Bile|Dragon Bile (Applied to Body)]], 6x [[Equipment/Blightburn Resin|Blightburn Resin (Infused)]], 3x [[Equipment/Deathcap Powder|Deathcap Powder (Infused)]], 4x [[Equipment/Elixir of Life (Greater)|Elixir of Life (Greater) (Infused)]], 3x [[Equipment/Tangle Root Toxin|Malyass Root Paste (Infused)]], 9x [[Equipment/Cave Worm Venom|Purple Worm Venom (Infused)]], 6x [[Equipment/Nethershade|Shadow Essence (Infused)]], 3x [[Equipment/Spider Root|Spider Root (Infused)]]"
   - name: "Infused Items"
-    desc: "  Blue Viper carries the following infused items: 2 [[Equipment/Acid Flask (Greater)|Acid Flask (Greater)]], 4 [[Equipment/Alchemist's Fire (Greater)|Alchemist's Fire (Greater)]], 6 [[Equipment/Blightburn Resin|Blightburn Resin]], 4 [[Equipment/Bottled Lightning (Greater)|Bottled Lightning (Greater)]], 3 [[Equipment/Deathcap Powder|Deathcap Powder]], 4 [[Equipment/Elixir of Life (Greater)|Elixir of Life (Greater)]], 2 [[Equipment/Frost Vial (Greater)|Frost Vial (Greater)]], 3 [[Equipment/Malyass Root Paste|Malyass Root Paste]], 9 [[Equipment/Purple Worm Venom|Purple Worm Venom]], 6 [[Equipment/Shadow Essence|Shadow Essence]], and 3 [[Equipment/Spider Root|Spider Root]]. These items last for 24 hours, or until the next time Blue Viper makes his daily preparations."
+    desc: "  Blue Viper carries the following infused items: 2 [[Equipment/Acid Flask (Greater)|Acid Flask (Greater)]], 4 [[Equipment/Alchemist's Fire (Greater)|Alchemist's Fire (Greater)]], 6 [[Equipment/Blightburn Resin|Blightburn Resin]], 4 [[Equipment/Bottled Lightning (Greater)|Bottled Lightning (Greater)]], 3 [[Equipment/Deathcap Powder|Deathcap Powder]], 4 [[Equipment/Elixir of Life (Greater)|Elixir of Life (Greater)]], 2 [[Equipment/Frost Vial (Greater)|Frost Vial (Greater)]], 3 [[Equipment/Tangle Root Toxin|Malyass Root Paste]], 9 [[Equipment/Cave Worm Venom|Purple Worm Venom]], 6 [[Equipment/Nethershade|Shadow Essence]], and 3 [[Equipment/Spider Root|Spider Root]]. These items last for 24 hours, or until the next time Blue Viper makes his daily preparations."
 
 abilities_mid:
   - name: ""
   - name: "Poisoned Coat"
-    desc: "`pf2:r`  **Trigger** A creature adjacent to Blue Viper hits him with a melee unarmed Strike.\n**Effect** The triggering creature is exposed to [[Equipment/Dragon Bile|Dragon Bile]]. This consumes the poison, and Blue Viper can't use Poisoned Coat again until he spends 10 minutes applying one dose of contact or injury poison to his clothing."
+    desc: "`pf2:r`  **Trigger** A creature adjacent to Blue Viper hits him with a melee unarmed Strike.\n* * *\n\n**Effect** The triggering creature is exposed to [[Equipment/Dragon Bile|Dragon Bile]]. This consumes the poison, and Blue Viper can't use Poisoned Coat again until he spends 10 minutes applying one dose of contact or injury poison to his clothing."
 
 attacks:
   - name: ""
@@ -82,7 +83,7 @@ attacks:
     desc: "  When Blue Viper successfully Strikes an [[Conditions/Off-Guard|Off-Guard]] creature with a poisoned weapon or exposes an off-guard creature to an inhaled poison, the creature takes a -2 circumstance penalty to its initial save against that poison."
 
   - name: "Poison Spray"
-    desc: "`pf2:1`  **Requirements** Blue Viper is holding a contact or injury poison.\n**Effect** Blue Viper swigs the poison and sprays it out of his mouth, affecting a 15-foot cone. Blue Viper isn't exposed to the poison. All creatures in the cone are immediately exposed to the poison and each creature must attempt a Fortitude save against the poison."
+    desc: "`pf2:1`  **Requirements** Blue Viper is holding a contact or injury poison.\n* * *\n\n**Effect** Blue Viper swigs the poison and sprays it out of his mouth, affecting a @Template[cone|distance:15]. Blue Viper isn't exposed to the poison. All creatures in the cone are immediately exposed to the poison and each creature must attempt a Fortitude save against the poison."
 
   - name: "Potent Poisoner"
     desc: "  Blue Viper's infused poisons have a DC of 34."
@@ -90,6 +91,12 @@ attacks:
   - name: "Quick Application"
     desc: "`pf2:1`  Blue Viper Interacts to draw an injury poison and applies it to a weapon he is holding."
  
+```
+
+```encounter-table
+name: Blue Viper (Level 14)
+creatures:
+  - 1: Blue Viper (Level 14)
 ```
 
 

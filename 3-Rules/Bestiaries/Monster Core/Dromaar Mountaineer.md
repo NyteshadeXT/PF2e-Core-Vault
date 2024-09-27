@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/human
   - pf2e/creature/type/humanoid
   - pf2e/creature/type/orc
+  - pf2eMonster
   - pf2e/creature/level/2
   - remaster
 statblock: inline
@@ -21,16 +22,17 @@ license: ORC
 columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
+token: [[modules/pf2e-tokens-monster-core/assets/portraits/orc-dromaar-mountaineer.webp| ]]
 source: "Pathfinder Monster Core"
 name: "Dromaar Mountaineer"
 level: "Creature 2"
 
 alignment: ""
 size: "Medium"
-trait_01: "dromaar"
-trait_02: "human"
-trait_03: "humanoid"
-trait_04: "orc"
+trait_01: [[dromaar]]
+trait_02: [[human]]
+trait_03: [[humanoid]]
+trait_04: [[orc]]
 modifier: 11
 perception:
   - name: "Perception"
@@ -75,6 +77,12 @@ attacks:
   - name: "Tangle Prey"
     desc: "`pf2:1`  The dromaar draws a bola and Strikes a target within 20 feet. On a success, the dromaar immediately rolls an Athletics check check against the target's Fortitude DC to [[Actions/Trip|Trip]] them."
  
+```
+
+```encounter-table
+name: Dromaar Mountaineer
+creatures:
+  - 1: Dromaar Mountaineer
 ```
 
 

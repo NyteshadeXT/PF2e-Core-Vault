@@ -12,7 +12,7 @@ tags:
 
 In this release, the system implemented the following system wide rules changes:
 
-**Removal of Alignment** Alignment has been removed from the system. Alignment that had been set before on actors is still in actor data in the form of inert traits. These traits are not displayed on the sheet until a module adds the traits back. The PF2e Legacy Data module does this, and smaller modules can easily do this. You can also do this without a module by simnply registering the four alignment traits in the system homebrew settings menu as actor traits.
+**Removal of Alignment** Alignment has been removed from the system. Alignment that had been set before on actors is still in actor data in the form of inert traits. These traits are not displayed on the sheet until a module adds the traits back. The PF2e Legacy Data module does this, and smaller modules can easily do this. You can also do this without a module by simply registering the four alignment traits in the system homebrew settings menu as actor traits.
 
 Evil fiends and good celestials have had the unholy or holy trait added to them. NPC strikes that dealt evil or good damage have been converted to deal spirit damage with the unholy or holy trait.
 

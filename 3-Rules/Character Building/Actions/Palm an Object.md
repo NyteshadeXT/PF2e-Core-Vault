@@ -13,7 +13,7 @@ license: ORC
 ---
 # Palm an Object `pf2:1`
 
-### [[manipulate]][[skill]]
+### [[3-Rules/Rule References/Manipulate]][[skill]]
 
 **Category** interaction; 
 

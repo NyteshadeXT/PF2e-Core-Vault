@@ -1,15 +1,16 @@
 ---
 obsidianUIMode: preview
-title: "Lead The Pack"
+title: "Lead the Pack"
 cssclasses: pf2e,pf2e-spell
 tags:
   - trait/archetype
   - trait/uncommon
   - category/class
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.Aeea44xyJqYArFun"
-license: OGL
+license: ORC
 ---
-# Lead The Pack
+# Lead the Pack
 ## Feat 16
 ### [uncommon](uncommon "Uncommon Rarity Trait")[[archetype]]
 
@@ -23,5 +24,5 @@ You can have up to two animal companions active at once. However, when you do, i
 
 When you Command an Animal, either choose one of the companions to take 2 actions, as normal, or else both companions can take 1 action to Stride or Strike. Either way, you can't Command an Animal to make either companion act again until your next turn.
 
-*Source: Pathfinder Advanced Player's Guide*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

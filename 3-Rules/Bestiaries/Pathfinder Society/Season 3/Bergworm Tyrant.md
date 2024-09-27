@@ -6,6 +6,7 @@ cssClasses: pf2e
 aliases: "Compendium.pf2e.pfs-season-3-bestiary.Actor.8Sea3unOcDH6dWJI" 
 tags:
   - pf2e/creature/type/animal
+  - pf2eMonster
   - pf2e/creature/level/5
 statblock: inline
 name: "Bergworm Tyrant"
@@ -20,14 +21,15 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Society Special #3-99: Fate in the Future"
 name: "Bergworm Tyrant"
 level: "Creature 5"
-rare_03: "Rare"
+rare_03: [[Rare]]
 alignment: ""
 size: "Large"
-trait_01: "animal"
+trait_01: [[animal]]
 modifier: 10
 perception:
   - name: "Perception"
     desc: "+10; Tremorsense (Imprecise) 30 Feet"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Athletics: +13, Stealth: +12"
@@ -58,7 +60,7 @@ attacks:
     desc: "`pf2:1` Jaws +15 ()\n__Damage__  1d10 + 5 piercing plus grab 1d8 cold plus grab"
 
   - name: "Gnaw"
-    desc: "`pf2:1`  **Requirements** The bergworm has a creature [[Conditions/Grabbed|Grabbed]] from its jaws Strike\n**Effect** The bergworm gnaws on the target creature, burrowing through its flesh and freezing its skin. This deals 1d10 piercing damage and 1d8 cold damage. A creature that takes cold damage in this way is [[Conditions/Clumsy 1|Clumsy 1]] until it receives any kind or amount of healing."
+    desc: "`pf2:1`  **Requirements** The bergworm has a creature [[Conditions/Grabbed|Grabbed]] from its jaws Strike\n* * *\n\n**Effect** The bergworm gnaws on the target creature, burrowing through its flesh and freezing its skin. This deals 1d10 piercing damage and 1d8 cold damage. A creature that takes cold damage in this way is [[Conditions/Clumsy|Clumsy 1]] until it receives any kind or amount of healing."
 
   - name: "Icicle Hide"
     desc: "  A creature that hits a bergworm with an unarmed Strike or a non-reach melee Strike takes 1d8 piercing damage (DC 17 Reflex check save). On a critical failure, the creature also takes 1d4 persistent cold damage."
@@ -66,6 +68,12 @@ attacks:
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
     desc: "`pf2:1`  "
  
+```
+
+```encounter-table
+name: Bergworm Tyrant
+creatures:
+  - 1: Bergworm Tyrant
 ```
 
 

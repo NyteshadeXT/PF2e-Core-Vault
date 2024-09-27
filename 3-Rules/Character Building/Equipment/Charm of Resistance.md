@@ -12,7 +12,7 @@ license: ORC
 ---
 # Charm of Resistance
 ## Item 6
-### [[invested]][[magical]]
+### [[invested]][[3-Rules/Rule References/Magical]]
 
 
 **Price** 245 gp; 

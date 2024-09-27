@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/aesir
   - pf2e/creature/type/chaotic
   - pf2e/creature/type/monitor
+  - pf2eMonster
   - pf2e/creature/level/12
 statblock: inline
 name: "Valkyrie"
@@ -26,14 +27,14 @@ level: "Creature 12"
 
 alignment: ""
 size: "Medium"
-trait_01: "aesir"
-trait_02: "chaotic"
-trait_03: "monitor"
+trait_01: [[aesir]]
+trait_02: [[chaotic]]
+trait_03: [[monitor]]
 modifier: 22
 perception:
   - name: "Perception"
     desc: "+22; Darkvision"
-languages: "Common, Jotun"
+languages: "Common, Jotun; ravenspeaker, tongues"
 skills:
   - name: "Skills"
     desc: "Acrobatics: +25, Athletics: +25, Diplomacy: +23, Intimidation: +23, Religion: +22"
@@ -65,7 +66,7 @@ abilities_mid:
     desc: "`pf2:r`  "
 
   - name: "Recall the Fallen"
-    desc: "`pf2:r` (divine,healing) **Frequency** once per day\n**Trigger** An allied creature within 60 feet who isn't a construct or undead is reduced to 0 Hit Points and their [[Conditions/Dying 1|Dying]] value is 2 or less\n**Effect** The valkyrie restores 5d10 Hit Points to the target."
+    desc: "`pf2:r` (divine,healing) **Frequency** once per day\n\n**Trigger** An allied creature within 60 feet who isn't a construct or undead is reduced to 0 Hit Points and their [[Conditions/Dying|Dying]] value is 2 or less\n* * *\n\n**Effect** The valkyrie restores 5d10 Hit Points to the target."
 
 attacks:
   - name: ""
@@ -77,11 +78,17 @@ attacks:
     desc: "`pf2:1` Spear +26 (magical, thrown 20 ft.)\n__Damage__  2d6 + 15 piercing 1d12 electricity"
 
   - name: "Divine Innate Spells"
-    desc: "DC 29, attack +21; __7th __  _[[Spells/Interplanar Teleport|Plane Shift (Self and Mount Only)]]_; __6th __  _[[Spells/Infuse Vitality|Disrupting Weapons]]_, _[[Spells/Heal|Heal]]_, _[[Spells/Heroism|Heroism]]_; __3rd __  _[[Spells/Augury|Augury]]_, _[[Spells/Sanctified Ground|Sanctified Ground]]_, _[[Spells/Status|Status]]_, _[[Spells/Wanderer's Guide|Wanderer's Guide]]_\n__Constant__  __(5th)__ _[[Spells/Truespeech|Tongues]]_"
+    desc: "DC 29, attack +21; __7th __  _[[Spells/Interplanar Teleport|Plane Shift (Self and Mount Only)]]_; __6th __  _[[Spells/Infuse Vitality|Disrupting Weapons]]_, _[[Spells/Heal|Heal]]_, _[[Spells/Heroism|Heroism]]_; __3rd __  _[[Spells/Augury|Augury]]_, _[[Spells/Anointed Ground|Sanctified Ground]]_, _[[Spells/Status|Status]]_, _[[Spells/Wanderer's Guide|Wanderer's Guide]]_\n__Constant__  __(5th)__ _[[Spells/Truespeech|Tongues]]_"
 
   - name: "Storm of Battle"
-    desc: "`pf2:2` (divine,electricity) The valkyrie hurls her spear into the air, creating a massive storm in a 100-foot burst. Spears of lightning rain down upon enemies in the area, dealing 4d12 electricity damage (DC 32 Reflex check save)."
+    desc: "`pf2:2` (divine,electricity) The valkyrie hurls her spear into the air, creating a massive storm in a @Template[burst|distance:100]. Spears of lightning rain down upon enemies in the area, dealing 4d12 electricity damage (DC 32 Reflex check save)."
  
+```
+
+```encounter-table
+name: Valkyrie
+creatures:
+  - 1: Valkyrie
 ```
 
 

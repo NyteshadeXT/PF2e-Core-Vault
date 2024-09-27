@@ -11,7 +11,7 @@ license: OGL
 ---
 # Harvest Heartsliver `pf2:r`
 
-### [rare](rare "Rare Rarity Trait")[[manipulate]]
+### [rare](rare.md "Rare Rarity Trait")[[3-Rules/Rule References/Manipulate]]
 
 **Category** offensive; 
 

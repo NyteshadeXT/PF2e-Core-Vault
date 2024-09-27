@@ -6,6 +6,7 @@ cssClasses: pf2e
 aliases: "Compendium.pf2e.pathfinder-bestiary.Actor.QRRX82FIjBKd8pzs" 
 tags:
   - pf2e/creature/type/animal
+  - pf2eMonster
   - pf2e/creature/level/-1
 statblock: inline
 name: "Guard Dog"
@@ -24,11 +25,12 @@ level: "Creature -1"
 
 alignment: ""
 size: "Small"
-trait_01: "animal"
+trait_01: [[animal]]
 modifier: 6
 perception:
   - name: "Perception"
     desc: "+6; Low-Light Vision, Scent (Imprecise) 30 Feet"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Acrobatics: +5, Athletics: +4, Stealth: +5, Survival: +4"
@@ -58,6 +60,12 @@ attacks:
   - name: "Pack Attack"
     desc: "  The dog's Strikes deal 1d4 extra damage to creatures within the reach of at least two of the dog's allies."
  
+```
+
+```encounter-table
+name: Guard Dog
+creatures:
+  - 1: Guard Dog
 ```
 
 

@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.pathfinder-bestiary-2.Actor.h4SZ3U9at7aT0ASv"
 tags:
   - pf2e/creature/type/aberration
   - pf2e/creature/type/evil
+  - pf2eMonster
   - pf2e/creature/level/9
 statblock: inline
 name: "Spirit Naga"
@@ -22,11 +23,11 @@ token: [[modules/pf2e-tokens-bestiaries/portraits/humanoid/hybrid/naga-spirit.we
 source: "Pathfinder Bestiary 2"
 name: "Spirit Naga"
 level: "Creature 9"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Large"
-trait_01: "aberration"
-trait_02: "evil"
+trait_01: [[aberration]]
+trait_02: [[evil]]
 modifier: 18
 perception:
   - name: "Perception"
@@ -51,7 +52,7 @@ abilities_top:
   - name: ""
 
   - name: "[[Bestiary Ability Glossary/Coven|Coven]]"
-    desc: " (mental,occult) A spirit naga adds [[Spells/Hallucination|Hallucination]], [[Spells/Mind Probe|Mind Probe]], and [[Spells/Suggestion|Suggestion]] to their coven's spells.\n"
+    desc: " (mental,occult) A spirit naga adds [[Spells/Hallucination|Hallucination]], [[Spells/Mind Probe|Mind Probe]], and [[Spells/Suggestion|Suggestion]] to their coven's spells.\n\n* * *\n"
 
 abilities_mid:
   - name: ""
@@ -71,8 +72,14 @@ attacks:
     desc: "_[[Spells/Control Weather|Control Weather]]_, _[[Spells/Inveigle|Inveigle]]_"
 
   - name: "Spirit Naga Venom"
-    desc: " (poison) **Saving Throw** DC 28 Fortitude check\n**Maximum Duration** 6 rounds\n**Stage 1** 2d6 poison damage and [[Conditions/Stupefied 1|Stupefied 1]] (1 round)\n**Stage 2** 2d6 poison damage and [[Conditions/Stupefied 1|Stupefied 2]] (1 round)"
+    desc: " (poison) **Saving Throw** DC 28 Fortitude check\n* * *\n\n**Maximum Duration** 6 rounds\n\n**Stage 1** 2d6 poison damage and [[Conditions/Stupefied|Stupefied 1]] (1 round)\n\n**Stage 2** 2d6 poison damage and [[Conditions/Stupefied|Stupefied 2]] (1 round)"
  
+```
+
+```encounter-table
+name: Spirit Naga
+creatures:
+  - 1: Spirit Naga
 ```
 
 

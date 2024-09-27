@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.pathfinder-bestiary.Actor.4npwV3fuBm3sBCPG"
 tags:
   - pf2e/creature/type/earth
   - pf2e/creature/type/elemental
+  - pf2eMonster
   - pf2e/creature/level/7
 statblock: inline
 name: "Xorn"
@@ -25,8 +26,8 @@ level: "Creature 7"
 
 alignment: ""
 size: "Medium"
-trait_01: "earth"
-trait_02: "elemental"
+trait_01: [[earth]]
+trait_02: [[elemental]]
 modifier: 15
 perception:
   - name: "Perception"
@@ -34,7 +35,7 @@ perception:
 languages: "Common, Petran"
 skills:
   - name: "Skills"
-    desc: "Athletics: +17, Geology Lore: +15, Stealth: +11, Survival: +15"
+    desc: "Athletics: +17, Stealth: +11, Survival: +15, Geology Lore: +15"
 abilityMods: [6, 0, 5, 0, 2, 0]
 speed: 20 feet,  burrow 20 feet
 sourcebook: "_Pathfinder Bestiary_"
@@ -67,6 +68,12 @@ attacks:
   - name: "Earth Glide"
     desc: "  The xorn can Burrow through any earthen matter, including rock. When it does so, the xorn moves at its full burrow Speed, leaving no tunnels or signs of its passing."
  
+```
+
+```encounter-table
+name: Xorn
+creatures:
+  - 1: Xorn
 ```
 
 

@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.pathfinder-bestiary-2.Actor.JJKxWVExhUEno9j0"
 tags:
   - pf2e/creature/type/amphibious
   - pf2e/creature/type/animal
+  - pf2eMonster
   - pf2e/creature/level/2
 statblock: inline
 name: "Giant Leech"
@@ -25,12 +26,13 @@ level: "Creature 2"
 
 alignment: ""
 size: "Medium"
-trait_01: "amphibious"
-trait_02: "animal"
+trait_01: [[amphibious]]
+trait_02: [[animal]]
 modifier: 5
 perception:
   - name: "Perception"
     desc: "+5; Tremorsense (Imprecise) 30 Feet"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Athletics: +8, Stealth: +7"
@@ -58,11 +60,17 @@ attacks:
     desc: "`pf2:1` Mouth +10 ()\n__Damage__  1d4 + 6 piercing plus grab"
 
   - name: "Blood Drain"
-    desc: "`pf2:1`  **Requirements** The giant leech has a creature [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]]\n**Effect** The giant leech drains blood from the creature it has grabbed. This deals 2d4 damage. A creature that has its blood drained by a giant leech is [[Conditions/Drained 1|Drained 1]] until it receives any kind or amount of healing."
+    desc: "`pf2:1`  **Requirements** The giant leech has a creature [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]]\n* * *\n\n**Effect** The giant leech drains blood from the creature it has grabbed. This deals 2d4 damage. A creature that has its blood drained by a giant leech is [[Conditions/Drained|Drained 1]] until it receives any kind or amount of healing."
 
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
     desc: "`pf2:1`  "
  
+```
+
+```encounter-table
+name: Giant Leech
+creatures:
+  - 1: Giant Leech
 ```
 
 

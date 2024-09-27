@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.pathfinder-monster-core.Actor.XgGeD4fz5m7nQQlN"
 tags:
   - pf2e/creature/type/air
   - pf2e/creature/type/elemental
+  - pf2eMonster
   - pf2e/creature/level/5
   - remaster
 statblock: inline
@@ -26,8 +27,8 @@ level: "Creature 5"
 
 alignment: ""
 size: "Medium"
-trait_01: "air"
-trait_02: "elemental"
+trait_01: [[air]]
+trait_02: [[elemental]]
 modifier: 10
 perception:
   - name: "Perception"
@@ -69,8 +70,14 @@ attacks:
     desc: "`pf2:1` Gust +14 (finesse, reach 10 feet)\n__Damage__  2d6 + 7 bludgeoning"
 
   - name: "Forceful Winds"
-    desc: "`pf2:2` (air) The living whirlwind creates a 60-foot line of violent wind. Creatures in the area must succeed at a DC 25 Fortitude check save or be pushed back 10 feet and knocked [[Conditions/Prone|Prone]]."
+    desc: "`pf2:2` (air) The living whirlwind creates a @Template[line|distance:60] of violent wind. Creatures in the area must succeed at a DC 25 Fortitude check save or be pushed back 10 feet and knocked [[Conditions/Prone|Prone]]."
  
+```
+
+```encounter-table
+name: Living Whirlwind
+creatures:
+  - 1: Living Whirlwind
 ```
 
 

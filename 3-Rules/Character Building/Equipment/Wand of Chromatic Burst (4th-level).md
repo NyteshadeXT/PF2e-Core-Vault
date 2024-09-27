@@ -36,7 +36,7 @@ This intricately carved quartz wand changes color, cycling through the colors of
 
 * * *
 
-**Effect** Choose one color of the [[Spells/Chromatic Armor|Chromatic Armor]] the wand created for you. The spell ends and light of that color flashes brightly in a 20-foot emanation. Creatures in the area take 4d6 damage of the type associated with the color you chose, with a basic Reflex save against your spell DC. This action has the trait corresponding to the damage type you chose.
+**Effect** Choose one color of the [[Spells/Chromatic Armor|Chromatic Armor]] the wand created for you. The spell ends and light of that color flashes brightly in a @Template\[emanation|distance:20\]. Creatures in the area take 4d6 damage of the type associated with the color you chose, with a basic Reflex save against your spell DC. This action has the trait corresponding to the damage type you chose.
 
 * * *
 

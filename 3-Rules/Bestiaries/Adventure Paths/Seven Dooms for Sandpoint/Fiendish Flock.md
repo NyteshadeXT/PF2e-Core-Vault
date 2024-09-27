@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/chaotic
   - pf2e/creature/type/evil
   - pf2e/creature/type/swarm
+  - pf2eMonster
   - pf2e/creature/level/7
 statblock: inline
 name: "Fiendish Flock"
@@ -23,18 +24,18 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #200: Seven Dooms for Sandpoint"
 name: "Fiendish Flock"
 level: "Creature 7"
-rare_03: "Rare"
+rare_03: [[Rare]]
 alignment: ""
 size: "Large"
-trait_01: "animal"
-trait_02: "chaotic"
-trait_03: "evil"
-trait_04: "swarm"
+trait_01: [[animal]]
+trait_02: [[chaotic]]
+trait_03: [[evil]]
+trait_04: [[swarm]]
 modifier: 16
 perception:
   - name: "Perception"
     desc: "+16; Darkvision"
-languages: "Chthonian"
+languages: "Chthonian; Can&#x27;t Speak Any Language"
 skills:
   - name: "Skills"
     desc: "Acrobatics: +17"
@@ -61,6 +62,12 @@ attacks:
   - name: "Beaks and Talons"
     desc: "`pf2:1`  The fiendish flock's angry pecking and clawing deals 2d6 piercing + 2d6 slashing damage to each enemy in the swarm's space (DC 25 Reflex check save). A creature that critically fails its save is [[Conditions/Blinded|Blinded]] for 1d4 rounds as the birds focus their attacks on the target's face."
  
+```
+
+```encounter-table
+name: Fiendish Flock
+creatures:
+  - 1: Fiendish Flock
 ```
 
 

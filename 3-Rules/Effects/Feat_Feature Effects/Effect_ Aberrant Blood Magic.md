@@ -4,8 +4,9 @@ title: "Effect: Aberrant Blood Magic"
 cssclasses: pf2e,pf2e-spell
 tags:
   - trait/common
+  - remaster
 aliases: "Compendium.pf2e.feat-effects.Item.UQ7vZgmfK0VSFS8A"
-license: OGL
+license: ORC
 ---
 # Effect: Aberrant Blood Magic
 ## Level 1
@@ -18,7 +19,7 @@ license: OGL
 
 Granted by [[Class Features/Bloodline_ Aberrant|Bloodline: Aberrant]]
 
-Aberrant whispers shield one target's mind or your own, granting a +2 status bonus to Will saving throws for 1 round.
+Either one target takes a –1 status penalty to Will saving throws for 1 round or you gain a +2 status bonus to Will saving throws for 1 round.
 
-*Source: Pathfinder Core Rulebook*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

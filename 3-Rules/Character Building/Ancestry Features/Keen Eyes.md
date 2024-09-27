@@ -12,7 +12,7 @@ license: ORC
 ---
 # Keen Eyes
 
-### [[halfling]]
+### [[3-Rules/trait_reference/halfling]]
 
 **Category** ancestryfeature; 
 

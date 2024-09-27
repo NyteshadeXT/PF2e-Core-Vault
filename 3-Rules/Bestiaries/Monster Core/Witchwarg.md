@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.pathfinder-monster-core.Actor.diU0V2M3LiMDMsS0"
 tags:
   - pf2e/creature/type/beast
   - pf2e/creature/type/cold
+  - pf2eMonster
   - pf2e/creature/level/5
   - remaster
 statblock: inline
@@ -19,14 +20,15 @@ license: ORC
 columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
+token: [[modules/pf2e-tokens-bestiaries/portraits/bestial/mammalian/winter-wolf.webp| ]]
 source: "Pathfinder Monster Core"
 name: "Witchwarg"
 level: "Creature 5"
 
 alignment: ""
 size: "Large"
-trait_01: "beast"
-trait_02: "cold"
+trait_01: [[beast]]
+trait_02: [[cold]]
 modifier: 14
 perception:
   - name: "Perception"
@@ -34,7 +36,7 @@ perception:
 languages: "Common, Jotun"
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +13, Athletics: +13, Deception: +11, Intimidation: +11, Stealth: +13 (+16 in snow), Survival: +12"
+    desc: "Acrobatics: +13, Athletics: +13, Deception: +11, Intimidation: +11, Stealth: +13, Survival: +12"
 abilityMods: [6, 4, 4, 2, 3, 2]
 speed: 40 feet
 sourcebook: "_Pathfinder Monster Core_"
@@ -68,11 +70,17 @@ attacks:
     desc: "  The witchwarg's Strikes deal 1d6 extra damage to creatures within the reach of at least two of the witchwarg's allies."
 
   - name: "Winter Breath"
-    desc: "`pf2:2` (cold,primal) The witchwarg breathes a cloud of frost in a 15-foot cone that deals 5d8 cold damage (DC 23 Reflex check save).\n\nThe witchwarg can't use Winter Breath again for 1d4 rounds."
+    desc: "`pf2:2` (cold,primal) The witchwarg breathes a cloud of frost in a @Template[cone|distance:15] that deals 5d8 cold damage (DC 23 Reflex check save).\n\nThe witchwarg can't use Winter Breath again for 1d4 rounds."
 
   - name: "[[Bestiary Ability Glossary/Knockdown|Knockdown]]"
     desc: "`pf2:1`  "
  
+```
+
+```encounter-table
+name: Witchwarg
+creatures:
+  - 1: Witchwarg
 ```
 
 

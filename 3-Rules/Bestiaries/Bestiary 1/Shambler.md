@@ -6,6 +6,7 @@ cssClasses: pf2e
 aliases: "Compendium.pf2e.pathfinder-bestiary.Actor.6XlGTt3RveX49YbC" 
 tags:
   - pf2e/creature/type/plant
+  - pf2eMonster
   - pf2e/creature/level/6
 statblock: inline
 name: "Shambler"
@@ -24,15 +25,15 @@ level: "Creature 6"
 
 alignment: ""
 size: "Large"
-trait_01: "plant"
+trait_01: [[plant]]
 modifier: 12
 perception:
   - name: "Perception"
     desc: "+12; Darkvision"
-languages: "Common, Elven, Fey"
+languages: "Common, Elven, Fey; (can&#x27;t speak any language)"
 skills:
   - name: "Skills"
-    desc: "Athletics: +16, Stealth: +12 (+18 in forests or swamps)"
+    desc: "Athletics: +16, Stealth: +12"
 abilityMods: [6, 1, 5, -2, 2, -1]
 speed: 20 feet,  swim 20 feet
 sourcebook: "_Pathfinder Bestiary_"
@@ -63,7 +64,7 @@ attacks:
     desc: "`pf2:1` Vine +17 (reach 10 feet)\n__Damage__  2d8 + 8 bludgeoning plus grab"
 
   - name: "Shamble"
-    desc: "`pf2:r`  **Requirements** The shambler is in mound form\n**Trigger** A creature unaware of the shambler's true nature comes within 10 feet.\n**Effect** The shambler makes a vine Strike against the creature. Then roll initiative."
+    desc: "`pf2:r`  **Requirements** The shambler is in mound form\n\n**Trigger** A creature unaware of the shambler's true nature comes within 10 feet.\n* * *\n\n**Effect** The shambler makes a vine Strike against the creature. Then roll initiative."
 
   - name: "Vine Lash"
     desc: "`pf2:2`  The shambler makes a vine Strike against each creature within reach. Its multiple attack penalty increases only after all the attacks."
@@ -71,6 +72,12 @@ attacks:
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
     desc: "`pf2:1`  "
  
+```
+
+```encounter-table
+name: Shambler
+creatures:
+  - 1: Shambler
 ```
 
 

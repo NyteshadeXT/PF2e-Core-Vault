@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/chaotic
   - pf2e/creature/type/human
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/7
 statblock: inline
 name: "Grigori"
@@ -22,12 +23,12 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Kingmaker"
 name: "Grigori"
 level: "Creature 7"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Medium"
-trait_01: "chaotic"
-trait_02: "human"
-trait_03: "humanoid"
+trait_01: [[chaotic]]
+trait_02: [[human]]
+trait_03: [[humanoid]]
 modifier: 15
 perception:
   - name: "Perception"
@@ -72,6 +73,12 @@ attacks:
   - name: "Rhetorical Spell"
     desc: "`pf2:1` (concentrate,manipulate,spellshape) If the next action Grigori takes is to [[Actions/Cast a Spell|Cast a Spell]], he attempts a Performance check check against all observers' Perception DCs. On a success, he hides his spellcasting as part of his oratory, and observers don't realize he's Casting a Spell."
  
+```
+
+```encounter-table
+name: Grigori
+creatures:
+  - 1: Grigori
 ```
 
 

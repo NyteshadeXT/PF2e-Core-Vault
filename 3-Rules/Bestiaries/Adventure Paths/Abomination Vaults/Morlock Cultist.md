@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/humanoid
   - pf2e/creature/type/morlock
+  - pf2eMonster
   - pf2e/creature/level/4
 statblock: inline
 name: "Morlock Cultist"
@@ -23,13 +24,13 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #163: Ruins of Gauntlight"
 name: "Morlock Cultist"
 level: "Creature 4"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Medium"
-trait_01: "chaotic"
-trait_02: "evil"
-trait_03: "humanoid"
-trait_04: "morlock"
+trait_01: [[chaotic]]
+trait_02: [[evil]]
+trait_03: [[humanoid]]
+trait_04: [[morlock]]
 modifier: 11
 perception:
   - name: "Perception"
@@ -37,7 +38,7 @@ perception:
 languages: "Aklo, Sakvroth"
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +10, Athletics: +11 (+13 Climbing), Crafting: +11 (Repair only), Occultism: +13, Stealth: +11"
+    desc: "Acrobatics: +10, Athletics: +11, Crafting: +11, Occultism: +13, Stealth: +11"
 abilityMods: [3, 3, 1, 5, 3, 0]
 speed: 30 feet,  climb 20 feet
 sourcebook: "_Pathfinder #163: Ruins of Gauntlight_"
@@ -72,11 +73,17 @@ attacks:
     desc: "DC 21, attack +13; __2nd __  _[[Spells/Mirror Image|Mirror Image]]_, _[[Spells/Phantom Pain|Phantom Pain]]_, _[[Spells/Telekinetic Maneuver|Telekinetic Maneuver]]_; __1st __  _[[Spells/Bane|Bane]]_, _[[Spells/Grim Tendrils|Grim Tendrils]]_, _[[Spells/Enfeeble|Ray of Enfeeblement]]_\n__Cantrips__  __(2nd)__ _[[Spells/Daze|Daze]]_, _[[Spells/Ghost Sound|Ghost Sound]]_, _[[Spells/Shield|Shield]]_, _[[Spells/Telekinetic Projectile|Telekinetic Projectile]]_"
 
   - name: "Occult Attack"
-    desc: "`pf2:2`  The morlock cultist Strides up to half its speed, ignoring difficult terrain caused by natural cavern features like rubble or stalagmites.\nAt any point during its movement, the morlock cultist can Cast a Spell that normally takes two actions or fewer to cast."
+    desc: "`pf2:2`  The morlock cultist Strides up to half its speed, ignoring difficult terrain caused by natural cavern features like rubble or stalagmites.\n\nAt any point during its movement, the morlock cultist can Cast a Spell that normally takes two actions or fewer to cast."
 
   - name: "[[Bestiary Ability Glossary/Sneak Attack|Sneak Attack]]"
     desc: "  The morlock deals an extra 1d6 precision damage to [[Conditions/Off-Guard|Off-Guard]] creatures."
  
+```
+
+```encounter-table
+name: Morlock Cultist
+creatures:
+  - 1: Morlock Cultist
 ```
 
 

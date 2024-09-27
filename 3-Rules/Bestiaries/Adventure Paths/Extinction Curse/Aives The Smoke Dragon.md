@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/chaotic
   - pf2e/creature/type/humanoid
   - pf2e/creature/type/nephilim
+  - pf2eMonster
   - pf2e/creature/level/4
 statblock: inline
 name: "Aives The Smoke Dragon"
@@ -22,12 +23,12 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #152: Legacy of the Lost God"
 name: "Aives The Smoke Dragon"
 level: "Creature 4"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Medium"
-trait_01: "chaotic"
-trait_02: "humanoid"
-trait_03: "nephilim"
+trait_01: [[chaotic]]
+trait_02: [[humanoid]]
+trait_03: [[nephilim]]
 modifier: 8
 perception:
   - name: "Perception"
@@ -73,11 +74,17 @@ attacks:
     desc: "`pf2:1`  Aives draws a weapon with an Interact action, then Strikes with the weapon he just drew."
 
   - name: "Smoke Exhalation"
-    desc: "`pf2:1` (poison) Aives breathes out a cloud of poisonous smoke that he can make curl around him or cling to his weapons.\nUntil the cloud dissipates at the start of his next turn, Aives is [[Conditions/Concealed|Concealed]], his Strikes deal an extra 1d8 poison damage, and targets of his Strikes must succeed at a DC 22 Fortitude check save or become [[Conditions/Sickened 1|Sickened 1]]."
+    desc: "`pf2:1` (poison) Aives breathes out a cloud of poisonous smoke that he can make curl around him or cling to his weapons.\n\nUntil the cloud dissipates at the start of his next turn, Aives is [[Conditions/Concealed|Concealed]], his Strikes deal an extra 1d8 poison damage, and targets of his Strikes must succeed at a DC 22 Fortitude check save or become [[Conditions/Sickened|Sickened 1]]."
 
   - name: "[[Bestiary Ability Glossary/Sneak Attack|Sneak Attack]]"
     desc: "  Aives deals an extra 1d6 precision damage precision damage to [[Conditions/Off-Guard|Off-Guard]] creatures."
  
+```
+
+```encounter-table
+name: Aives The Smoke Dragon
+creatures:
+  - 1: Aives The Smoke Dragon
 ```
 
 

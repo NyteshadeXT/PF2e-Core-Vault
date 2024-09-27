@@ -27,7 +27,7 @@ Bitter cold heralded your patron's appearance, in the depths of the winter solst
 
 **Lesson of Winter's Chill** Your patron taught you the power of winter firsthand by subjecting you to frost and snow. You learn the [[Spells/Clinging Ice|Clinging Ice]] hex cantrip and your familiar learns [[Spells/Gust of Wind|Gust of Wind]].
 
-**Familiar of Freezing Rime** Your familiar is cold to the touch, its breath always visible. When you Cast or Sustain a hex, you can cause ice to form in a 5-foot burst centered on a square of your familiar's space. Those squares are difficult terrain until the start of your next turn.
+**Familiar of Freezing Rime** Your familiar is cold to the touch, its breath always visible. When you Cast or Sustain a hex, you can cause ice to form in a @Template\[burst|distance:5\] centered on a square of your familiar's space. Those squares are difficult terrain until the start of your next turn.
 
 *Source: Pathfinder Player Core*
 *ORC*

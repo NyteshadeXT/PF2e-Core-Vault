@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/archon
   - pf2e/creature/type/celestial
   - pf2e/creature/type/holy
+  - pf2eMonster
   - pf2e/creature/level/7
   - remaster
 statblock: inline
@@ -20,16 +21,16 @@ license: ORC
 columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
-token: [[modules/pf2e-tokens-bestiaries/portraits/divine/archon/legion-archon.webp| ]]
+token: [[modules/pf2e-tokens-monster-core/assets/portraits/archon-aesra.webp| ]]
 source: "Pathfinder Monster Core"
 name: "Aesra"
 level: "Creature 7"
 
 alignment: ""
 size: "Medium"
-trait_01: "archon"
-trait_02: "celestial"
-trait_03: "holy"
+trait_01: [[archon]]
+trait_02: [[celestial]]
+trait_03: [[holy]]
 modifier: 15
 perception:
   - name: "Perception"
@@ -75,16 +76,22 @@ attacks:
     desc: " (divine,holy) An aesra's spirit of righteousness manifests as a two-handed sword of fire. If disarmed or thrown as a ranged weapon, the flame of justice vanishes after landing or dealing damage and reappears in the aesra's hands again instantly. On a critical hit, the target also takes 2d6 persistent fire damage."
 
   - name: "Flaming Slash"
-    desc: "`pf2:2` (divine,fire,holy,manipulate) The aesra sweeps their sword, creating a 15-foot cone of sacred flame that deals 5d6 fire damage with a DC 23 Reflex check save."
+    desc: "`pf2:2` (divine,fire,holy,manipulate) The aesra sweeps their sword, creating a @Template[cone|distance:15] of sacred flame that deals 5d6 fire damage with a DC 23 Reflex check save."
 
   - name: "Maintain Formation"
     desc: "  When an aesra casts [[Spells/Translocate|Translocate]], they can bring an adjacent willing archon along with them. That archon appears in an empty space adjacent to the aesra's new space."
  
 ```
 
+```encounter-table
+name: Aesra
+creatures:
+  - 1: Aesra
+```
 
 
-Despite their flaming blades and ring of unblinking eyes, aesras are the diplomats of peace among the archons, preferring justice via compromise and mutual benefit rather than justice by the sword. Nonetheless, when forced to fight against fiendish powers aesras don’t hesitate in battle, mounting offensives under divine commanders like Iomedae.
+
+Despite their flaming blades and ring of unblinking eyes, aesras are the diplomats of peace among the archons, preferring justice via compromise and mutual benefit rather than justice by the sword. Nonetheless, when forced to fight against fiendish powers aesras don't hesitate in battle, mounting offensives under divine commanders like Iomedae.
 
 * * *
 

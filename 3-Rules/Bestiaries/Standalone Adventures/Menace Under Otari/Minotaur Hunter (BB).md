@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.menace-under-otari-bestiary.Actor.wCmlY4TixUlPm5Qx"
 tags:
   - pf2e/creature/type/beast
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/4
   - remaster
 statblock: inline
@@ -25,12 +26,13 @@ level: "Creature 4"
 
 alignment: ""
 size: "Large"
-trait_01: "beast"
-trait_02: "humanoid"
+trait_01: [[beast]]
+trait_02: [[humanoid]]
 modifier: 12
 perception:
   - name: "Perception"
     desc: "+12; "
+languages: ""
 skills:
   - name: "Skills"
     desc: "Athletics: +14, Intimidation: +9, Survival: +12"
@@ -70,6 +72,12 @@ attacks:
   - name: "Powerful Charge"
     desc: "`pf2:2`  The minotaur Strides twice, then makes a horn Strike. If the moved at least 20 feet from their starting position, the Strike's damage is increased to 2d8+10 piercing."
  
+```
+
+```encounter-table
+name: Minotaur Hunter (BB)
+creatures:
+  - 1: Minotaur Hunter (BB)
 ```
 
 

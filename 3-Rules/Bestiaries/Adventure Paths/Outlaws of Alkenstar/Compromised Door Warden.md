@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/clockwork
   - pf2e/creature/type/construct
   - pf2e/creature/type/mindless
+  - pf2eMonster
   - pf2e/creature/level/4
 statblock: inline
 name: "Compromised Door Warden"
@@ -22,19 +23,20 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #179: Cradle of Quartz"
 name: "Compromised Door Warden"
 level: "Creature 4"
-rare_03: "Rare"
+rare_03: [[Rare]]
 alignment: ""
 size: "Medium"
-trait_01: "clockwork"
-trait_02: "construct"
-trait_03: "mindless"
+trait_01: [[clockwork]]
+trait_02: [[construct]]
+trait_03: [[mindless]]
 modifier: 12
 perception:
   - name: "Perception"
     desc: "+12; Darkvision"
+languages: ""
 skills:
   - name: "Skills"
-    desc: "Athletics: +10 (+12 to Disarm or Grapple)"
+    desc: "Athletics: +10"
 abilityMods: [4, 2, 2, -5, 4, -5]
 speed: 10 feet
 sourcebook: "_Pathfinder #179: Cradle of Quartz_"
@@ -52,7 +54,7 @@ abilities_top:
   - name: "Items"
     desc: "[[Equipment/Repeating Crossbow|Repeating Crossbow]], [[Equipment/Repeating Crossbow Magazine|Repeating Crossbow Magazine]]"
   - name: "[[Creature Family Ability Glossary/(Clockwork Creature) Wind-Up|Wind-Up]]"
-    desc: "  24 hours, DC 19 Thievery check, standby\nFor a clockwork to act, it must be wound with a unique key by another creature. This takes 1 minute. Once wound, it remains operational for the listed amount of time, usually 24 hours, after which time it becomes unaware of its surroundings and can't act until it's wound again. Some clockworks' abilities require them to spend some of their remaining operational time. They can't spend more than they have and shut down immediately once they have 0 time remaining. If it's unclear when a clockwork was last wound, most clockwork keepers wind all their clockworks at a set time, typically 8 a.m.\nA clockwork that lists standby in its wind-up entry can enter standby mode as a 3-action activity. Its operational time doesn't decrease in standby, but it can sense its surroundings (with a -2 penalty to Perception). It can't act, with one exception: when it perceives a creature, it can exit standby as a reaction (rolling initiative if appropriate).\nA creature can attempt to Disable a Device to wind a clockwork down (with a DC listed in the wind-up entry). For each success, the clockwork loses 1 hour of operational time. This can be done even if the clockwork is in standby mode."
+    desc: "  24 hours, DC 19 Thievery check, standby\n* * *\n\nFor a clockwork to act, it must be wound with a unique key by another creature. This takes 1 minute. Once wound, it remains operational for the listed amount of time, usually 24 hours, after which time it becomes unaware of its surroundings and can't act until it's wound again. Some clockworks' abilities require them to spend some of their remaining operational time. They can't spend more than they have and shut down immediately once they have 0 time remaining. If it's unclear when a clockwork was last wound, most clockwork keepers wind all their clockworks at a set time, typically 8 a.m.\n\nA clockwork that lists standby in its wind-up entry can enter standby mode as a 3-action activity. Its operational time doesn't decrease in standby, but it can sense its surroundings (with a -2 penalty to Perception). It can't act, with one exception: when it perceives a creature, it can exit standby as a reaction (rolling initiative if appropriate).\n\nA creature can attempt to Disable a Device to wind a clockwork down (with a DC listed in the wind-up entry). For each success, the clockwork loses 1 hour of operational time. This can be done even if the clockwork is in standby mode."
 
 abilities_mid:
   - name: ""
@@ -69,7 +71,7 @@ attacks:
     desc: "`pf2:1`  The door warden holds shut an adjacent door. This ends the door warden's turn. Until the start of its next turn, as long as it remains functional and in the same square, other creatures trying to get through must succeed at a DC 21 Athletics check check to [[Actions/Force Open|Force Open]] the door."
 
   - name: "Slam Door"
-    desc: "`pf2:r`  **Trigger** The door warden Pushes a creature through an open doorway\n**Effect** The door warden slams the door shut on the creature"
+    desc: "`pf2:r`  **Trigger** The door warden Pushes a creature through an open doorway\n* * *\n\n**Effect** The door warden slams the door shut on the creature"
 
   - name: "Uncertain Operation"
     desc: "  At the beginning of its turn, the compromised door warden rolls 1d4 to determine how many actions it has for that turn (to a maximum of 3 actions per turn). The door warden's Speed each turn is 10 feet times the result of that same die roll, to a maximum of 25 feet per turn (that is, a roll of 3 or 4 indicates a Speed of 25 feet)."
@@ -77,6 +79,12 @@ attacks:
   - name: "[[Bestiary Ability Glossary/Push|Push]]"
     desc: "`pf2:1`  "
  
+```
+
+```encounter-table
+name: Compromised Door Warden
+creatures:
+  - 1: Compromised Door Warden
 ```
 
 

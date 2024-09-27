@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/human
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/2
 statblock: inline
 name: "Poacher"
@@ -25,9 +26,9 @@ level: "Creature 2"
 
 alignment: ""
 size: "Medium"
-trait_01: "evil"
-trait_02: "human"
-trait_03: "humanoid"
+trait_01: [[evil]]
+trait_02: [[human]]
+trait_03: [[humanoid]]
 modifier: 9
 perception:
   - name: "Perception"
@@ -53,10 +54,10 @@ abilities_top:
   - name: "Items"
     desc: "[[Equipment/Club|Club]], [[Equipment/Composite Shortbow|Composite Shortbow]], [[Equipment/Padded Armor|Padded Armor]], [[Equipment/Snare Kit|Snare Kit]], 20x [[Equipment/Arrows|Arrows]]"
   - name: "Forager"
-    desc: "  While using Survival to [[Actions/Subsist|Subsist]], if the hunter rolls a failure or a critical failure, they get a success instead.\nIf the hunter rolls a success, they can provide food for 4 additional creatures that eat about as much as a human, or 8 creatures on a critical success."
+    desc: "  While using Survival to [[Actions/Subsist|Subsist]], if the hunter rolls a failure or a critical failure, they get a success instead.\n\nIf the hunter rolls a success, they can provide food for 4 additional creatures that eat about as much as a human, or 8 creatures on a critical success."
 
   - name: "Snare Crafting"
-    desc: "  The poacher can use the Crafting skill to create the following snares:\n*   [[Equipment/Alarm Snare|Alarm Snare]]\n*   [[Equipment/Hampering Snare|Hampering Snare]]\n*   [[Equipment/Marking Snare|Marking Snare]]\n*   [[Equipment/Signaling Snare|Signaling Snare]]\nThe poacher can create four snares each day without paying for the materials, using 3 Interact actions to set up each snare."
+    desc: "  The poacher can use the Crafting skill to create the following snares:\n\n*   [[Equipment/Alarm Snare|Alarm Snare]]\n*   [[Equipment/Hampering Snare|Hampering Snare]]\n*   [[Equipment/Marking Snare|Marking Snare]]\n*   [[Equipment/Signaling Snare|Signaling Snare]]\n\nThe poacher can create four snares each day without paying for the materials, using 3 Interact actions to set up each snare."
 
 abilities_mid:
   - name: ""
@@ -70,8 +71,14 @@ attacks:
     desc: "`pf2:1` Composite Shortbow +10 (deadly d10, propulsive, range increment 60 feet, reload 0)\n__Damage__  1d6 + 3 piercing"
 
   - name: "Hunt Prey"
-    desc: "`pf2:1` (concentrate) The poacher designates a single creature they can see and hear, or one they're Tracking, as their prey.\nThe poacher gains a +2 circumstance bonus to Perception checks to [[Actions/Seek|Seek]] the prey and to Survival checks to [[Actions/Track|Track]] the prey.\nThe first time the poacher hits the designated prey in a round, they deal an additional 1d8 precision damage. The poacher also ignores the penalty for making ranged attacks within their second range increment.\nThese effects last until the poacher uses Hunt Prey again."
+    desc: "`pf2:1` (concentrate) The poacher designates a single creature they can see and hear, or one they're Tracking, as their prey.\n\nThe poacher gains a +2 circumstance bonus to Perception checks to [[Actions/Seek|Seek]] the prey and to Survival checks to [[Actions/Track|Track]] the prey.\n\nThe first time the poacher hits the designated prey in a round, they deal an additional 1d8 precision damage. The poacher also ignores the penalty for making ranged attacks within their second range increment.\n\nThese effects last until the poacher uses Hunt Prey again."
  
+```
+
+```encounter-table
+name: Poacher
+creatures:
+  - 1: Poacher
 ```
 
 

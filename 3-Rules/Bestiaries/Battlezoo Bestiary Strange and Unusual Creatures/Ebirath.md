@@ -7,6 +7,7 @@ aliases: "Compendium.battlezoo-bestiary-su-pf2e.pf2e-battlezoo-su-actors.Actor.l
 tags:
   - pf2e/creature/type/animal
   - pf2e/creature/type/aquatic
+  - pf2eMonster
   - pf2e/creature/level/18
 statblock: inline
 name: "Ebirath"
@@ -22,19 +23,19 @@ token: [[modules/battlezoo-bestiary-su-pf2e/art/Portraits/ebirath.webp| ]]
 source: "Battlezoo Bestiary: Strange and Unusual"
 name: "Ebirath"
 level: "Creature 18"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "grg"
-trait_01: "animal"
-trait_02: "aquatic"
+trait_01: [[animal]]
+trait_02: [[aquatic]]
 modifier: 26
 perception:
   - name: "Perception"
     desc: "+26; Darkvision, Tremorsense (Imprecise) 25 Feet, Wavesense (Imprecise) 50 Feet"
-languages: "Common, Thalassic"
+languages: "Common, Thalassic; telepathy 50 feet"
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +29, Athletics: +36, Diplomacy: +29, Intimidation: +34, Nature: +28, Religion: +28, Stealth: +29, "
+    desc: "Acrobatics: +29, Athletics: +36, Diplomacy: +29, Intimidation: +34, Nature: +28, Religion: +28, Stealth: +29, Acrobatics: +29, Athletics: +36, Diplomacy: +29, Intimidation: +34, Nature: +28, Religion: +28, Stealth: +29"
 abilityMods: [10, 3, 9, 4, 4, 3]
 speed: 50 feet,  climb 25 feet,  swim 80 feet
 sourcebook: "_Battlezoo Bestiary: Strange and Unusual_"
@@ -68,17 +69,23 @@ attacks:
     desc: "`pf2:1`  "
 
   - name: "[[Bestiary Ability Glossary/Constrict|Constrict]]"
-    desc: "`pf2:1`  3d12 + 7 bludgeoning, DC 40 Fortitude check\n"
+    desc: "`pf2:1`  3d12+7 bludgeoning, DC 40 Fortitude check\n\n* * *\n"
 
   - name: "Ebirath's Wrath"
-    desc: "`pf2:r`  **Frequency** once per hour\n**Trigger** Ebirath's Hit Points are reduced to half or lower.\n**Effect** Ebirath goes into a frenzied rage, immediately Furiously Assaulting the three closest creatures, regardless of whether or not the creatures are Ebirath's allies."
+    desc: "`pf2:r`  **Frequency** once per hour\n\n**Trigger** Ebirath's Hit Points are reduced to half or lower.\n* * *\n\n**Effect** Ebirath goes into a frenzied rage, immediately Furiously Assaulting the three closest creatures, regardless of whether or not the creatures are Ebirath's allies."
 
   - name: "Furious Assault"
     desc: "`pf2:2`  Ebirath makes a big claw Strike and then two Strikes with either its little claw or its tail. If Ebirath makes all the attacks against different creatures, it doesn't apply the multiple attack penalty until after all the Strikes are complete. Otherwise, it applies the multiple attack penalty normally."
 
   - name: "Sonic Claw Snap"
-    desc: "`pf2:2`  **Requirements** Ebirath doesn't have a creature Grabbed using its big claw's Improved Grab\n**Effect** Snapping its big claw, Ebirath produces a blast of powerful sound waves in a 20-foot burst within 40 feet, dealing 5d10 sonic damage. All creatures within range must attempt a DC 40 Fortitude check saving throw, with the following effects.\n**Critical Success** The creature is unaffected.\n**Success** The creature takes half damage.\n**Failure** The creature takes full damage and is Stunned 1.\n**Critical Failure** The creature takes double damage, is Deafened for 1 round, and is Stunned 3."
+    desc: "`pf2:2`  **Requirements** Ebirath doesn't have a creature [[undefined]] using its big claw's Improved Grab\n* * *\n\n**Effect** Snapping its big claw, Ebirath produces a blast of powerful sound waves in a 20-foot burst within 40 feet, dealing 5d10 sonic damage. All creatures within range must attempt a DC 40 Fortitude check saving throw, with the following effects.\n* * *\n\n**Critical Success** The creature is unaffected.\n\n**Success** The creature takes half damage.\n\n**Failure** The creature takes full damage and is [[undefined]].\n\n**Critical Failure** The creature takes double damage, is [[undefined]] for 1 round, and is [[undefined]]."
  
+```
+
+```encounter-table
+name: Ebirath
+creatures:
+  - 1: Ebirath
 ```
 
 

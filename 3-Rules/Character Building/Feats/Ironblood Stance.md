@@ -7,8 +7,9 @@ tags:
   - trait/stance
   - trait/common
   - category/class
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.x9cYkB8DrUBBwqJd"
-license: OGL
+license: ORC
 ---
 # Ironblood Stance `pf2:1`
 ## Feat 8
@@ -29,5 +30,5 @@ While in Ironblood Stance, you gain resistance 2 to all damage. The resistance i
 
 [[Feat_Feature Effects/Stance_ Ironblood Stance|Stance: Ironblood Stance]]
 
-*Source: Pathfinder Core Rulebook*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

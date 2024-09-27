@@ -5,6 +5,7 @@ noteType: pf2eHazard
 tags:
   - mechanical
   - trap
+  - pf2eHazard
 
 source: Pathfinder Adventure: The Fall of Plaguestone
 aliases: "Compendium.pf2e.fall-of-plaguestone-bestiary.Actor.jpw5eHse4EcmYSp6" 
@@ -22,14 +23,14 @@ name: "Spear Launcher"
 level: "Hazard 2"
 
 
-trait_01: "mechanical"
-trait_02: "trap"
+trait_01: [[mechanical]]
+trait_02: [[trap]]
 modifier: 10
 sourcebook: "_Pathfinder Adventure: The Fall of Plaguestone_"
 ac: 18
 armorclass:
   - name: AC
-    desc: "18; __Fort__ +11, __Ref__ +3, __Will__ +0"
+    desc: "18; __Fort__ +11, __Ref__ +3, "
 hp: 32
 health:
   - name: ""
@@ -51,11 +52,17 @@ attacks:
   - name: ""
 
   - name: "Spear"
-    desc: "`pf2:r` **Trigger** The rope is cut or otherwise untied from the door\n**Effect** The trap makes an attack against the creature that manipulated the rope"
+    desc: "`pf2:r` **Trigger** The rope is cut or otherwise untied from the door\n* * *\n\n**Effect** The trap makes an attack against the creature that manipulated the rope"
   - name: "Melee"
     desc: "Spear +14 () "
 
 
 
+```
+
+```encounter-table
+name: Spear Launcher
+creatures:
+  - 1: Spear Launcher
 ```
 

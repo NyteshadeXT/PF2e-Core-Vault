@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/fiend
   - pf2e/creature/type/unholy
+  - pf2eMonster
   - pf2e/creature/level/18
 statblock: inline
 name: "Ammut"
@@ -22,17 +23,17 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #155: Lord of the Black Sands"
 name: "Ammut"
 level: "Creature 18"
-rare_03: "Rare"
+rare_03: [[Rare]]
 alignment: ""
 size: "huge"
-trait_01: "evil"
-trait_02: "fiend"
-trait_03: "unholy"
+trait_01: [[evil]]
+trait_02: [[fiend]]
+trait_03: [[unholy]]
 modifier: 33
 perception:
   - name: "Perception"
     desc: "+33; Darkvision, Scent (Imprecise) 30 Feet, Truesight"
-languages: "Diabolic, Empyrean"
+languages: "Diabolic, Empyrean; telepathy 100 feet"
 skills:
   - name: "Skills"
     desc: "Athletics: +34, Intimidation: +33, Occultism: +29, Religion: +32, Stealth: +35"
@@ -75,14 +76,20 @@ attacks:
     desc: " (curse,death,divine) A creature whose HP drops to 0 while swallowed by an ammut has its soul consumed, as well as its body. The creature dies instantly and cannot be brought back to life except by [[Spells/Miracle|Miracle]], [[Spells/Wish|Wish]], or similar magic."
 
   - name: "Fast Swallow"
-    desc: "`pf2:r`  **Trigger** The ammut [[Conditions/Grabbed|Grabs]] a creature\n**Effect** The ammut uses Swallow Whole."
+    desc: "`pf2:r`  **Trigger** The ammut [[Conditions/Grabbed|Grabs]] a creature\n* * *\n\n**Effect** The ammut uses Swallow Whole."
 
   - name: "[[Bestiary Ability Glossary/Swallow Whole|Swallow Whole]]"
-    desc: "`pf2:1` (attack) Large, 3d12 + 8 bludgeoning damage, Rupture 32\n"
+    desc: "`pf2:1` (attack) Large, 3d12+8 bludgeoning damage, Rupture 32\n\n* * *\n"
 
   - name: "Wasting Wound"
-    desc: " (curse,divine) A creature dealt damage by an ammut's claw Strike must succeed at a DC 37 Will check save or become [[Conditions/Enfeebled 1|Enfeebled 1]] and [[Conditions/Drained 1|Drained 1]] (or [[Conditions/Enfeebled 1|Enfeebled 2]] and [[Conditions/Drained 1|Drained 2]] on a critical failed save). The conditions cannot be mitigated until the curse is removed, and the curse cannot be removed until all damage dealt by the claw Strike is healed. Each day, a creature afflicted with wasting wound must attempt another saving throw; on a failed save, the values of its enfeebled and drained conditions each increase by 1. If the victim dies while cursed, its soul is destroyed, as per the ammut's devour soul ability."
+    desc: " (curse,divine) A creature dealt damage by an ammut's claw Strike must succeed at a DC 37 Will check save or become [[Conditions/Enfeebled|Enfeebled 1]] and [[Conditions/Drained|Drained 1]] (or [[Conditions/Enfeebled|Enfeebled 2]] and [[Conditions/Drained|Drained 2]] on a critical failed save). The conditions cannot be mitigated until the curse is removed, and the curse cannot be removed until all damage dealt by the claw Strike is healed. Each day, a creature afflicted with wasting wound must attempt another saving throw; on a failed save, the values of its enfeebled and drained conditions each increase by 1. If the victim dies while cursed, its soul is destroyed, as per the ammut's devour soul ability."
  
+```
+
+```encounter-table
+name: Ammut
+creatures:
+  - 1: Ammut
 ```
 
 

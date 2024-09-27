@@ -5,6 +5,7 @@ noteType: pf2eHazard
 tags:
   - magical
   - trap
+  - pf2eHazard
   - complex
 source: Pathfinder #186: Ghost King&#x27;s Rage
 aliases: "Compendium.pf2e.blood-lords-bestiary.Actor.hHUbjTLoYfd1XvV1" 
@@ -22,14 +23,14 @@ name: "Urgathoa's Ire"
 level: "Hazard 20"
 
 trait_06: "Complex"
-trait_01: "magical"
-trait_02: "trap"
+trait_01: [[magical]]
+trait_02: [[trap]]
 modifier: 38
 sourcebook: "_Pathfinder #186: Ghost King's Rage_"
 ac: 48
 armorclass:
   - name: AC
-    desc: "48; __Fort__ +36, __Ref__ +30, __Will__ +0"
+    desc: "48; __Fort__ +36, __Ref__ +30, "
 hp: 135
 health:
   - name: ""
@@ -51,12 +52,18 @@ attacks:
   - name: ""
 
   - name: "Glare"
-    desc: "`pf2:r` (divine, fire) **Trigger** A creature other than Kemnebi enters the chamber\n**Effect** The trap shoots a concentrated beam of fire at the triggering creature. The trap makes an eye beam Strike. If one of Urgathoa's eyes has been disabled, this Strike deals half damage. The trap then rolls initiative."
+    desc: "`pf2:r` (divine, fire) **Trigger** A creature other than Kemnebi enters the chamber\n* * *\n\n**Effect** The trap shoots a concentrated beam of fire at the triggering creature. The trap makes an eye beam Strike. If one of Urgathoa's eyes has been disabled, this Strike deals half damage. The trap then rolls initiative."
   - name: "Melee"
     desc: "Eye Beam +41 (range increment 200 feet) "
 
   - name: "Routine"
     desc: "(1 action) The trap shoots a concentrated beam of fire at a random intruder. The trap makes an eye beam Strike. If one of Urgathoa's eyes has been disabled, this Strike deals half damage."
 
+```
+
+```encounter-table
+name: Urgathoa's Ire
+creatures:
+  - 1: Urgathoa's Ire
 ```
 

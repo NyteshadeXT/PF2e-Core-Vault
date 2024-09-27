@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/elemental
   - pf2e/creature/type/plant
   - pf2e/creature/type/wood
+  - pf2eMonster
   - pf2e/creature/level/10
   - remaster
 statblock: inline
@@ -23,17 +24,17 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Society Scenario #5-11: The Hidden Current"
 name: "Elite Mutant Cryptid Snapdrake"
 level: "Creature 10"
-rare_03: "Rare"
+rare_03: [[Rare]]
 alignment: ""
 size: "Large"
-trait_01: "elemental"
-trait_02: "plant"
-trait_03: "wood"
+trait_01: [[elemental]]
+trait_02: [[plant]]
+trait_03: [[wood]]
 modifier: 19
 perception:
   - name: "Perception"
     desc: "+19; "
-languages: "Arboreal, Common, Muan"
+languages: "Arboreal, Common, Muan; can&#x27;t speak any language"
 skills:
   - name: "Skills"
     desc: "Acrobatics: +18, Performance: +19"
@@ -70,7 +71,7 @@ attacks:
     desc: "`pf2:1` Tail Scythe +19 (deadly d10, finesse, reach 10 feet)\n__Damage__  2d10 + 9 slashing"
 
   - name: "[[Creature Family Ability Glossary/(Cryptid, Mutant) Explosive End|Explosive End]]"
-    desc: "  The mutant snapdrake's death reveals one last surprise as it explodes into splinters. When it dies, it explodes, dealing 5d6 piercing damage to each creature in a 10-foot emanation, with a basic DC 30 Reflex check save."
+    desc: "  The mutant snapdrake's death reveals one last surprise as it explodes into splinters. When it dies, it explodes, dealing 5d6 piercing damage to each creature in a @Template[emanation|distance:10], with a basic DC 30 Reflex check save."
 
   - name: "Greater Forest Passage"
     desc: "  The snapdrake ignores difficult terrain and greater difficult terrain from plants and fungi."
@@ -82,23 +83,29 @@ attacks:
     desc: " (magical) Whenever the mutant snapdrake takes energy damage to which it isn't resistant or immune, after taking the damage normally, it gains resistance 10 to that damage type. If it had a resistance to a different damage type from shifting iridescence, it replaces the old resistance with the new resistance."
 
   - name: "Snapdrake Pollen"
-    desc: " (plant,poison) **Saving Throw** DC 30 Fortitude check\n**Maximum Duration** 8 rounds\n**Stage 1** 1d6 poison damage plus [[Conditions/Dazzled|Dazzled]] (1 round)\n**Stage 2** 1d6 poison damage plus dazzled and [[Conditions/Sickened 1|Sickened 1]] (2 rounds)\n**Stage 3** 2d6 poison damage plus [[Conditions/Confused|Confused]] and sickened 1 (2 rounds)"
+    desc: " (plant,poison) **Saving Throw** DC 30 Fortitude check\n\n**Maximum Duration** 8 rounds\n\n**Stage 1** 1d6 poison damage plus [[Conditions/Dazzled|Dazzled]] (1 round)\n\n**Stage 2** 1d6 poison damage plus dazzled and [[Conditions/Sickened|Sickened 1]] (2 rounds)\n\n**Stage 3** 2d6 poison damage plus [[Conditions/Confused|Confused]] and sickened 1 (2 rounds)"
 
   - name: "Speed Surge"
-    desc: "`pf2:1` (move) **Frequency** 3 times per day\n**Effect** The snapdrake moves up to twice its Speed."
+    desc: "`pf2:1` (move) **Frequency** 3 times per day\n* * *\n\n**Effect** The snapdrake moves up to twice its Speed."
 
   - name: "Spray Pollen"
-    desc: "`pf2:2` (arcane,plant,poison) The snapdrake breathes a blast of pollen in a 40-foot cone. Creatures caught in the blast must succeed at a DC 28 Reflex check save or be exposed to snapdrake pollen. The snapdrake can't use Spray Pollen again for 1d6 rounds."
+    desc: "`pf2:2` (arcane,plant,poison) The snapdrake breathes a blast of pollen in a @Template[cone|distance:40]. Creatures caught in the blast must succeed at a DC 28 Reflex check save or be exposed to snapdrake pollen. The snapdrake can't use Spray Pollen again for 1d6 rounds."
 
   - name: "[[Creature Family Ability Glossary/(Cryptid, Mutant) Unusual Bane|Unusual Bane]]"
-    desc: "  This mutant snapdrake is traumatized by the former Conference Z staff who teamed up to hold it down while experimenting on it. The first time each round the mutant snapdrake comes within 15 feet of any character who took the Aid action, or is attacked while being flanked by two characters, it takes 10 mental damage and must attempt a DC 30 Will check save. On a failure, it is [[Conditions/Stunned 1|Stunned 1]] ([[Conditions/Stunned 1|Stunned 3]] on a critical failure)."
+    desc: "  This mutant snapdrake is traumatized by the former Conference Z staff who teamed up to hold it down while experimenting on it. The first time each round the mutant snapdrake comes within 15 feet of any character who took the Aid action, or is attacked while being flanked by two characters, it takes 10 mental damage and must attempt a DC 30 Will check save. On a failure, it is [[Conditions/Stunned|Stunned 1]] ([[Conditions/Stunned|Stunned 3]] on a critical failure)."
 
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
     desc: "`pf2:1`  "
  
 ```
 
+```encounter-table
+name: Elite Mutant Cryptid Snapdrake
+creatures:
+  - 1: Elite Mutant Cryptid Snapdrake
+```
+
 
 Variant snapdrake
 
-Skilled kizidhar mages and gardeners handcraft these lovely creatures as much for their shuyookhs’ aesthetic pleasure as for their protection. Creating a snapdrake requires first painstakingly constructing a frame of living wood in the shape of a drake before weaving thousands of colorful snapdragon flowers into intricate patterns to form its body and scales. Once complete, snapdrakes often serve kizidhars as a combination of guards, pets, and decorations for as long as they are well fed.
+Skilled kizidhar mages and gardeners handcraft these lovely creatures as much for their shuyookhs' aesthetic pleasure as for their protection. Creating a snapdrake requires first painstakingly constructing a frame of living wood in the shape of a drake before weaving thousands of colorful snapdragon flowers into intricate patterns to form its body and scales. Once complete, snapdrakes often serve kizidhars as a combination of guards, pets, and decorations for as long as they are well fed.

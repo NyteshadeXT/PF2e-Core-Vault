@@ -11,6 +11,7 @@ tags:
   - pf2e/creature/type/spirit
   - pf2e/creature/type/undead
   - pf2e/creature/type/unholy
+  - pf2eMonster
   - pf2e/creature/level/11
 statblock: inline
 name: "Seething Spirit"
@@ -26,20 +27,20 @@ token: [[modules/pf2e-tokens-bestiaries/portraits/undead/ghostly/seething-spirit
 source: "Pathfinder Bestiary 3"
 name: "Seething Spirit"
 level: "Creature 11"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Medium"
-trait_01: "chaotic"
-trait_02: "evil"
-trait_03: "incorporeal"
-trait_04: "spirit"
-trait_05: "undead"
-trait_06: "unholy"
+trait_01: [[chaotic]]
+trait_02: [[evil]]
+trait_03: [[incorporeal]]
+trait_04: [[spirit]]
+trait_05: [[undead]]
+trait_06: [[unholy]]
 modifier: 15
 perception:
   - name: "Perception"
     desc: "+15; Darkvision"
-languages: "Common, Dwarven, Jotun"
+languages: "Common, Dwarven, Jotun; tongues"
 skills:
   - name: "Skills"
     desc: "Acrobatics: +21, Deception: +20, Diplomacy: -5, Intimidation: +24, Stealth: +21"
@@ -64,10 +65,10 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Pulse of Rage"
-    desc: " (aura,emotion,mental,occult) 20 feet. This aura emanates from any creature possessed by the seething spirit, and it's inactive while the spirit isn't possessing anyone.\nAny creature in the aura, including a creature possessed by the spirit, takes a -1 status penalty to AC, can't perform actions with the concentrate trait except for the [[Actions/Seek|Seek]] action and actions with the rage trait, and gains a +2 status bonus to melee damage rolls against the spirit's enemies.\nA creature can attempt a DC 30 Will check save when it enters the aura to avoid the effect. If the creature would need to attempt a save against the aura again within 24 hours, it automatically uses the same save result rather than attempting a new save.\n[[Bestiary Effects/Effect_ Pulse of Rage|Effect: Pulse of Rage]]"
+    desc: " (aura,emotion,mental,occult) 20 feet. This aura emanates from any creature possessed by the seething spirit, and it's inactive while the spirit isn't possessing anyone.\n\nAny creature in the aura, including a creature possessed by the spirit, takes a -1 status penalty to AC, can't perform actions with the concentrate trait except for the [[Actions/Seek|Seek]] action and actions with the rage trait, and gains a +2 status bonus to melee damage rolls against the spirit's enemies.\n\nA creature can attempt a DC 30 Will check save when it enters the aura to avoid the effect. If the creature would need to attempt a save against the aura again within 24 hours, it automatically uses the same save result rather than attempting a new save.\n\n[[Bestiary Effects/Effect_ Pulse of Rage|Effect: Pulse of Rage]]"
 
   - name: "Vulnerable to Calm Emotions"
-    desc: "  A seething spirit can't attempt to possess a creature affected by [[Spells/Calm|Calm]]. If creature possessed by a seething spirit fails a saving throw against _calm emotions_, the spirit is forced out.\nIf the spirit isn't possessing a creature and is targeted with _calm emotions_, the spirit takes 12 mental damage per rank of the spell instead of the normal spell effects."
+    desc: "  A seething spirit can't attempt to possess a creature affected by [[Spells/Calm|Calm]]. If creature possessed by a seething spirit fails a saving throw against _calm emotions_, the spirit is forced out.\n\nIf the spirit isn't possessing a creature and is targeted with _calm emotions_, the spirit takes 12 mental damage per rank of the spell instead of the normal spell effects."
 
 attacks:
   - name: ""
@@ -79,8 +80,14 @@ attacks:
     desc: "DC 32, attack +24; __6th __  _[[Spells/Paranoia|Paranoia]]_, _[[Spells/Clear Mind|Remove Fear]]_, _[[Spells/Suggestion|Suggestion (x3)]]_; __3rd __  _[[Spells/Mind Reading|Mind Reading (At Will)]]_; __2nd __  _[[Spells/Invisibility|Invisibility (At Will) (Self Only)]]_, _[[Spells/Ventriloquism|Ventriloquism (At Will)]]_\n__Constant__  __(6th)__ _[[Spells/Truespeech|Tongues]]_"
 
   - name: "Furious Possession"
-    desc: "`pf2:2`  The seething spirit attempts to possess an adjacent corporeal creature. This has the same effect as a [[Spells/Possession|Possession]] spell (DC 30 Will check), except since the spirit doesn't have a physical body, they're not [[Conditions/Unconscious|Unconscious]] and [[Conditions/Paralyzed|Paralyzed]] when the effect ends. The spirit can't Dismiss the possession.\nThe creature gains 12 temporary Hit Points that are lost when the possession ends. During the possession, the creature has the pulse of rage aura. Each time the possessed creature makes a melee Strike, the spirit can substitute their ephemeral claw attack modifier, damage amount, or both in place of the creature's own statistics.\n[[Bestiary Effects/Effect_ Furious Possession|Effect: Furious Possession]]"
+    desc: "`pf2:2`  The seething spirit attempts to possess an adjacent corporeal creature. This has the same effect as a [[Spells/Possession|Possession]] spell (DC 30 Will check), except since the spirit doesn't have a physical body, they're not [[Conditions/Unconscious|Unconscious]] and [[Conditions/Paralyzed|Paralyzed]] when the effect ends. The spirit can't Dismiss the possession.\n\nThe creature gains 12 temporary Hit Points that are lost when the possession ends. During the possession, the creature has the pulse of rage aura. Each time the possessed creature makes a melee Strike, the spirit can substitute their ephemeral claw attack modifier, damage amount, or both in place of the creature's own statistics.\n\n[[Bestiary Effects/Effect_ Furious Possession|Effect: Furious Possession]]"
  
+```
+
+```encounter-table
+name: Seething Spirit
+creatures:
+  - 1: Seething Spirit
 ```
 
 

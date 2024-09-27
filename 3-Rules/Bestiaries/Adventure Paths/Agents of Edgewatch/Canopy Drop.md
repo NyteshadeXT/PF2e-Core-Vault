@@ -5,6 +5,7 @@ noteType: pf2eHazard
 tags:
   - mechanical
   - trap
+  - pf2eHazard
 
 source: Pathfinder #157: Devil at the Dreaming Palace
 aliases: "Compendium.pf2e.agents-of-edgewatch-bestiary.Actor.l3AqEkQwRJS8TY7f" 
@@ -22,14 +23,14 @@ name: "Canopy Drop"
 level: "Hazard 4"
 
 
-trait_01: "mechanical"
-trait_02: "trap"
+trait_01: [[mechanical]]
+trait_02: [[trap]]
 modifier: 15
 sourcebook: "_Pathfinder #157: Devil at the Dreaming Palace_"
 ac: 20
 armorclass:
   - name: AC
-    desc: "20; __Fort__ +13, __Ref__ +8, __Will__ +0"
+    desc: "20; __Fort__ +13, __Ref__ +8, "
 hp: 40
 health:
   - name: ""
@@ -51,9 +52,15 @@ attacks:
   - name: ""
 
   - name: "Flush"
-    desc: "`pf2:r` **Trigger** Two or more creatures stand on the trapped spaces\n**Effect** One round after the trap is triggered, all creatures in the room fall 40 feet down the shaft to area **E36**, taking 20 bludgeoning damage from the fall plus 2d6 piercing damage as they land in the spiked pit.\nThe creatures can [[Actions/Grab an Edge|Grab an Edge]] to snag the hammock or one of the hanging storage containers to avoid falling.\nThe DC to [[Actions/Climb|Climb]] the walls or Grab an Edge is 20."
+    desc: "`pf2:r` **Trigger** Two or more creatures stand on the trapped spaces\n* * *\n\n**Effect** One round after the trap is triggered, all creatures in the room fall 40 feet down the shaft to area **E36**, taking 20 bludgeoning damage from the fall plus 2d6 piercing damage as they land in the spiked pit.\n\nThe creatures can [[Actions/Grab an Edge|Grab an Edge]] to snag the hammock or one of the hanging storage containers to avoid falling.\n\nThe DC to [[Actions/Climb|Climb]] the walls or Grab an Edge is 20."
 
 
 
+```
+
+```encounter-table
+name: Canopy Drop
+creatures:
+  - 1: Canopy Drop
 ```
 

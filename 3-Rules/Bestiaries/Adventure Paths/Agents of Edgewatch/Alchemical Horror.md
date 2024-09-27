@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.agents-of-edgewatch-bestiary.Actor.RtWlzHaOrfFdJyJY"
 tags:
   - pf2e/creature/type/aberration
   - pf2e/creature/type/evil
+  - pf2eMonster
   - pf2e/creature/level/21
 statblock: inline
 name: "Alchemical Horror"
@@ -24,12 +25,13 @@ level: "Creature 21"
 
 alignment: ""
 size: "huge"
-trait_01: "aberration"
-trait_02: "evil"
+trait_01: [[aberration]]
+trait_02: [[evil]]
 modifier: 35
 perception:
   - name: "Perception"
     desc: "+35; Darkvision, Wavesense (Imprecise) 60 Feet"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Athletics: +39"
@@ -49,7 +51,7 @@ abilities_top:
   - name: ""
 
   - name: "Alchemical Reaction"
-    desc: "  **Trigger** The alchemical horror takes damage from an alchemical bomb\n**Effect** The volatile substances that compose the alchemical horror froth outward as they react with the bomb. The bomb's full effects affect creatures in every space within 15 feet of the alchemical horror, and splash damage affects creatures 5 feet beyond that."
+    desc: "  **Trigger** The alchemical horror takes damage from an alchemical bomb\n* * *\n\n**Effect** The volatile substances that compose the alchemical horror froth outward as they react with the bomb. The bomb's full effects affect creatures in every space within 15 feet of the alchemical horror, and splash damage affects creatures 5 feet beyond that."
 
 abilities_mid:
   - name: ""
@@ -63,14 +65,20 @@ attacks:
     desc: "`pf2:1` Pseudopod +37 (acid, magical, reach 15 feet)\n__Damage__  4d10 + 18 bludgeoning 2d6 acid"
 
   - name: "Alchemical Torrent"
-    desc: "`pf2:2` (acid,primal) The alchemical horror spews a torrent of alchemical fluids in a 30-foot cone that deals 20d6 acid damage to creatures in the area (DC 43 Reflex check save).\nThe alchemical horror can't use this ability again for 1d4 rounds."
+    desc: "`pf2:2` (acid,primal) The alchemical horror spews a torrent of alchemical fluids in a @Template[cone|distance:30] that deals 20d6 acid damage to creatures in the area (DC 43 Reflex check save).\n\nThe alchemical horror can't use this ability again for 1d4 rounds."
 
   - name: "[[Bestiary Ability Glossary/Swallow Whole|Swallow Whole]]"
-    desc: "`pf2:1` (attack) Large, 4d12 + 18 bludgeoning damage, Rupture 40\n"
+    desc: "`pf2:1` (attack) Large, 4d12+18 bludgeoning damage, Rupture 40\n\n* * *\n"
 
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
     desc: "`pf2:1`  "
  
+```
+
+```encounter-table
+name: Alchemical Horror
+creatures:
+  - 1: Alchemical Horror
 ```
 
 

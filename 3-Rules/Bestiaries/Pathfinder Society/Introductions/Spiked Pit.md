@@ -5,6 +5,7 @@ noteType: pf2eHazard
 tags:
   - mechanical
   - trap
+  - pf2eHazard
 
 source: Pathfinder Society Intro #2: United in Purpose
 aliases: "Compendium.pf2e.pfs-introductions-bestiary.Actor.U53RUprcBtfMmkFs" 
@@ -22,14 +23,14 @@ name: "Spiked Pit"
 level: "Hazard 2"
 
 
-trait_01: "mechanical"
-trait_02: "trap"
+trait_01: [[mechanical]]
+trait_02: [[trap]]
 modifier: 10
 sourcebook: "_Pathfinder Society Intro #2: United in Purpose_"
 ac: 15
 armorclass:
   - name: AC
-    desc: "15; __Fort__ +5, __Ref__ +5, __Will__ +0"
+    desc: "15; __Fort__ +5, __Ref__ +5, "
 hp: 30
 health:
   - name: ""
@@ -51,10 +52,16 @@ attacks:
   - name: ""
 
   - name: "Pitfall"
-    desc: "`pf2:r` **Trigger** A creature walks onto the trapdoor\n**Effect** The triggering creature falls in and takes 10 bludgeoning damage plus 2d6 piercing damage from sharp implements at the bottom of the pit. That creature can use the [[Actions/Grab an Edge|Grab an Edge]] reaction to avoid falling."
+    desc: "`pf2:r` **Trigger** A creature walks onto the trapdoor\n* * *\n\n**Effect** The triggering creature falls in and takes 10 bludgeoning damage plus 2d6 piercing damage from sharp implements at the bottom of the pit. That creature can use the [[Actions/Grab an Edge|Grab an Edge]] reaction to avoid falling."
 
 
   - name: "Reset"
     desc: "Creatures can still fall into the trap, but the trapdoor must be reset manually for the trap to become hidden again."
+```
+
+```encounter-table
+name: Spiked Pit
+creatures:
+  - 1: Spiked Pit
 ```
 

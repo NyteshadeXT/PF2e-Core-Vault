@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/human
   - pf2e/creature/type/humanoid
   - pf2e/creature/type/lawful
+  - pf2eMonster
   - pf2e/creature/level/19
 statblock: inline
 name: "Uri Zandivar"
@@ -23,13 +24,13 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #149: Against the Scarlet Triad"
 name: "Uri Zandivar"
 level: "Creature 19"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Medium"
-trait_01: "evil"
-trait_02: "human"
-trait_03: "humanoid"
-trait_04: "lawful"
+trait_01: [[evil]]
+trait_02: [[human]]
+trait_03: [[humanoid]]
+trait_04: [[lawful]]
 modifier: 35
 perception:
   - name: "Perception"
@@ -78,20 +79,26 @@ attacks:
     desc: "`pf2:1` Dagger +34 (agile, thrown 10 ft., versatile s)\n__Damage__  4d4 + 12 piercing"
 
   - name: "Punish Imperfection"
-    desc: "`pf2:r`  **Trigger** A creature within Uri's reach fails an attack roll, saving throw, or skill check\n**Effect** Uri makes an unarmed Strike against the triggering creature. If the attack hits, the target must succeed at a DC 41 Fortitude check save or become [[Conditions/Enfeebled 1|Enfeebled 3]] until the end of its next turn ([[Conditions/Enfeebled 1|Enfeebled 4]] on a critical failure)."
+    desc: "`pf2:r`  **Trigger** A creature within Uri's reach fails an attack roll, saving throw, or skill check\n* * *\n\n**Effect** Uri makes an unarmed Strike against the triggering creature. If the attack hits, the target must succeed at a DC 41 Fortitude check save or become [[Conditions/Enfeebled|Enfeebled 3]] until the end of its next turn ([[Conditions/Enfeebled|Enfeebled 4]] on a critical failure)."
 
   - name: "Reactionary"
     desc: "  Uri can use 2 reactions in a round, but he can't perform the same reaction more than once per round."
 
   - name: "Slash and Slam"
-    desc: "`pf2:2`  Uri makes two Strikes: one with his scimitar and one with his shield spikes. If both hit, the overwhelming power of the attack leaves the target [[Conditions/Stunned 1|Stunned 1]] ([[Conditions/Stunned 1|Stunned 2]] if one of the Strikes was a critical hit, or [[Conditions/Stunned 1|Stunned 3]] if both Strikes were critical hits). These Strikes count as one attack for Uri's multiple attack penalty, and the penalty doesn't increase until after both attacks."
+    desc: "`pf2:2`  Uri makes two Strikes: one with his scimitar and one with his shield spikes. If both hit, the overwhelming power of the attack leaves the target [[Conditions/Stunned|Stunned 1]] ([[Conditions/Stunned|Stunned 2]] if one of the Strikes was a critical hit, or [[Conditions/Stunned|Stunned 3]] if both Strikes were critical hits). These Strikes count as one attack for Uri's multiple attack penalty, and the penalty doesn't increase until after both attacks."
 
   - name: "Swift Capture"
-    desc: "`pf2:2` (attack,manipulate) **Requirements** Uri has [[Equipment/Manacles (Superior)|Manacles]] in his possession and is adjacent to a creature\n**Effect** Uri sheathes a weapon he's carrying, then attempts to bind the creature's wrists or ankles with the [[Equipment/Manacles (Superior)|Manacles]]. If Uri succeeds at an attack roll with a +36 modifier against the target's AC, he applies the [[Equipment/Manacles (Superior)|Manacles]]."
+    desc: "`pf2:2` (attack,manipulate) **Requirements** Uri has [[Equipment/Manacles (Superior)|Manacles]] in his possession and is adjacent to a creature\n* * *\n\n**Effect** Uri sheathes a weapon he's carrying, then attempts to bind the creature's wrists or ankles with the [[Equipment/Manacles (Superior)|Manacles]]. If Uri succeeds at an attack roll with a +36 modifier against the target's AC, he applies the [[Equipment/Manacles (Superior)|Manacles]]."
 
   - name: "Swift Slash"
     desc: "`pf2:1`  Uri Strides and makes a scimitar Strike at any point during the Stride."
  
+```
+
+```encounter-table
+name: Uri Zandivar
+creatures:
+  - 1: Uri Zandivar
 ```
 
 

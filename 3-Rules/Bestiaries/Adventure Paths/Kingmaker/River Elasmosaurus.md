@@ -6,6 +6,7 @@ cssClasses: pf2e
 aliases: "Compendium.pf2e.kingmaker-bestiary.Actor.3QkgiJJ0IS6oTT0t" 
 tags:
   - pf2e/creature/type/animal
+  - pf2eMonster
   - pf2e/creature/level/11
 statblock: inline
 name: "River Elasmosaurus"
@@ -20,14 +21,15 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Kingmaker"
 name: "River Elasmosaurus"
 level: "Creature 11"
-rare_03: "Rare"
+rare_03: [[Rare]]
 alignment: ""
 size: "huge"
-trait_01: "animal"
+trait_01: [[animal]]
 modifier: 21
 perception:
   - name: "Perception"
     desc: "+21; Low-Light Vision, Scent (Imprecise) 30 Feet"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Athletics: +22"
@@ -64,7 +66,7 @@ attacks:
     desc: "`pf2:1` Paddle +24 ()\n__Damage__  3d6 + 13 bludgeoning"
 
   - name: "[[Bestiary Ability Glossary/Attack of Opportunity|Attack of Opportunity (Jaws Only)]]"
-    desc: "`pf2:r`  Jaws only\n"
+    desc: "`pf2:r`  Jaws only\n\n* * *\n"
 
   - name: "Drag Below"
     desc: "`pf2:1` (attack) The elasmosaurus attempts an Athletics check check against a [[Conditions/Grabbed|Grabbed]] foe's Fortitude DC. If the elasmosaurus succeeds, the foe is forcibly moved 5 feet toward the elasmosaurus's body. If the elasmosaurus critically succeeds, the foe is moved 10 feet towards the elasmosaurus's body."
@@ -75,6 +77,12 @@ attacks:
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
     desc: "`pf2:1`  "
  
+```
+
+```encounter-table
+name: River Elasmosaurus
+creatures:
+  - 1: River Elasmosaurus
 ```
 
 

@@ -8,8 +8,9 @@ tags:
   - trait/rage
   - trait/common
   - category/class
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.LVTquA3DpqCJDika"
-license: OGL
+license: ORC
 ---
 # Instinctive Strike `pf2:2`
 ## Feat 8
@@ -19,11 +20,9 @@ license: OGL
 
 
 
-**Prerequisites** Acute Scent or precise or imprecise scent
+**Prerequisites** Acute Scent or scent
 * * *
-You trust your instincts and your sense of smell, using all of your senses to pinpoint your opponent's location.
+You trust your instincts and your sense of smell, using all your senses to pinpoint your opponent's location. When you make a melee Strike against an opponent you're detecting using scent, ignore any flat check required due to the target being [[Conditions/Concealed|Concealed]] or [[Conditions/Hidden|Hidden]].
 
-Make a melee Strike against an opponent that isn't hiding its scent with an effect like [[Spells/Negate Aroma|Negate Aroma]]. This attack ignores any flat check required due to the target being [[Conditions/Concealed|Concealed]] or [[Conditions/Hidden|Hidden]].
-
-*Source: Pathfinder Advanced Player's Guide*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

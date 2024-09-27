@@ -11,6 +11,7 @@ tags:
   - pf2e/creature/type/fire
   - pf2e/creature/type/lawful
   - pf2e/creature/type/unholy
+  - pf2eMonster
   - pf2e/creature/level/2
 statblock: inline
 name: "Weak Hell Hound (PFS 3-07)"
@@ -25,23 +26,23 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Society Scenario #3-07: The Locked Lodge"
 name: "Weak Hell Hound (PFS 3-07)"
 level: "Creature 2"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Medium"
-trait_01: "beast"
-trait_02: "evil"
-trait_03: "fiend"
-trait_04: "fire"
-trait_05: "lawful"
-trait_06: "unholy"
+trait_01: [[beast]]
+trait_02: [[evil]]
+trait_03: [[fiend]]
+trait_04: [[fire]]
+trait_05: [[lawful]]
+trait_06: [[unholy]]
 modifier: 7
 perception:
   - name: "Perception"
     desc: "+7; Darkvision, Scent (Imprecise) 60 Feet"
-languages: "Diabolic"
+languages: "Diabolic; (can&#x27;t speak any language)"
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +6, Athletics: +7, Stealth: +6, Survival: +7 (+9 to Track)"
+    desc: "Acrobatics: +6, Athletics: +7, Stealth: +6, Survival: +7"
 abilityMods: [4, 3, 2, -2, 2, -2]
 speed: 40 feet
 sourcebook: "_Pathfinder Society Scenario #3-07: The Locked Lodge_"
@@ -66,8 +67,14 @@ attacks:
     desc: "`pf2:1` Jaws +11 (magical, unholy)\n__Damage__  1d8 + 2 piercing 1d6 spirit 1d6 fire"
 
   - name: "Breath Weapon"
-    desc: "`pf2:1` (divine,fire) The hell hound breathes flames that deal 3d6 fire damage to all creatures in a 15-foot cone (DC 17 Reflex check save).\nThe hell hound can't use Breath Weapon again for 1d4 rounds. If the hell hound would take fire damage or be targeted by a fire effect, its Breath Weapon recharges."
+    desc: "`pf2:1` (divine,fire) The hell hound breathes flames that deal 3d6 fire damage to all creatures in a @Template[cone|distance:15] (DC 17 Reflex check save).\n\nThe hell hound can't use Breath Weapon again for 1d4 rounds. If the hell hound would take fire damage or be targeted by a fire effect, its Breath Weapon recharges."
  
+```
+
+```encounter-table
+name: Weak Hell Hound (PFS 3-07)
+creatures:
+  - 1: Weak Hell Hound (PFS 3-07)
 ```
 
 

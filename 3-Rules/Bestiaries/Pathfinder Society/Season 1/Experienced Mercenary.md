@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.pfs-season-1-bestiary.Actor.Eccdm7gQHoppXFU5"
 tags:
   - pf2e/creature/type/human
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/1
 statblock: inline
 name: "Experienced Mercenary"
@@ -24,8 +25,8 @@ level: "Creature 1"
 
 alignment: ""
 size: "Medium"
-trait_01: "human"
-trait_02: "humanoid"
+trait_01: [[human]]
+trait_02: [[humanoid]]
 modifier: 7
 perception:
   - name: "Perception"
@@ -57,15 +58,21 @@ attacks:
   - name: "Melee"
     desc: "`pf2:1` Shortsword +7 (agile, finesse, versatile s)\n__Damage__  1d6 + 3 piercing"
 
-  - name: "Melee"
+  - name: "Ranged"
     desc: "`pf2:1` Club +7 (thrown 10 ft.)\n__Damage__  1d6 + 3 bludgeoning"
 
-  - name: "Ranged"
+  - name: "Melee"
     desc: "`pf2:1` Crossbow +5 ()\n__Damage__  1d8 piercing"
 
   - name: "Dirty Fighting"
-    desc: "`pf2:2` (attack) A mercenary throws dirt in an opponent's eyes or performs similar underhanded trick.\n**Effect** The opponent must attempt a DC 17 Reflex check save. On a failure, the PC gains the [[Conditions/Blinded|Blinded]] condition for one round. On a critical failure, the duration increases to 2 rounds."
+    desc: "`pf2:2` (attack) A mercenary throws dirt in an opponent's eyes or performs similar underhanded trick.\n* * *\n\n**Effect** The opponent must attempt a DC 17 Reflex check save. On a failure, the PC gains the [[Conditions/Blinded|Blinded]] condition for one round. On a critical failure, the duration increases to 2 rounds."
  
+```
+
+```encounter-table
+name: Experienced Mercenary
+creatures:
+  - 1: Experienced Mercenary
 ```
 
 

@@ -6,6 +6,7 @@ cssClasses: pf2e
 aliases: "Compendium.pf2e.gatewalkers-bestiary.Actor.X7ScCatwncmk5P9o" 
 tags:
   - pf2e/creature/type/beast
+  - pf2eMonster
   - pf2e/creature/level/3
 statblock: inline
 name: "Immolis"
@@ -20,15 +21,15 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #187: The Seventh Arch"
 name: "Immolis"
 level: "Creature 3"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Medium"
-trait_01: "beast"
+trait_01: [[beast]]
 modifier: 12
 perception:
   - name: "Perception"
     desc: "+12; "
-languages: "Immolis"
+languages: "Immolis; telepathy 100 feet"
 skills:
   - name: "Skills"
     desc: "Acrobatics: +10, Athletics: +10, Intimidation: +9, Stealth: +10, Survival: +9"
@@ -59,8 +60,14 @@ attacks:
     desc: "`pf2:1` Jaws +10 ()\n__Damage__  1d10 + 5 slashing"
 
   - name: "Heat Beam"
-    desc: "`pf2:1` (fire,occult) The immolis targets a living creature within 30 feet and directs a beam of volatile psychic energy toward it, increasing the rate at which the creature's body produces heat. The target must attempt a DC 20 Fortitude check save. The second and third time an immolis uses Heat Beam in the same round, the DC lowers to DC 16 Fortitude check or DC 12 Fortitude check, respectively.\n**Success** The creature is unaffected.\n**Failure** The creature takes 2d6 + 5 fire damage.\n**Critical Failure** The creature takes 4d6+5 fire damage and 5 persistent fire damage."
+    desc: "`pf2:1` (fire,occult) The immolis targets a living creature within 30 feet and directs a beam of volatile psychic energy toward it, increasing the rate at which the creature's body produces heat. The target must attempt a DC 20 Fortitude check save. The second and third time an immolis uses Heat Beam in the same round, the DC lowers to DC 16 Fortitude check or DC 12 Fortitude check, respectively.\n\n**Success** The creature is unaffected.\n\n**Failure** The creature takes 2d6+5 fire damage.\n\n**Critical Failure** The creature takes 4d6+5 fire damage and 5 persistent fire damage."
  
+```
+
+```encounter-table
+name: Immolis
+creatures:
+  - 1: Immolis
 ```
 
 

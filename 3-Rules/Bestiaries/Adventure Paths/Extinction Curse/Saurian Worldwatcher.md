@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/dinosaur
   - pf2e/creature/type/evil
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/18
 statblock: inline
 name: "Saurian Worldwatcher"
@@ -22,17 +23,17 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #156: The Apocalypse Prophet"
 name: "Saurian Worldwatcher"
 level: "Creature 18"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "huge"
-trait_01: "dinosaur"
-trait_02: "evil"
-trait_03: "humanoid"
+trait_01: [[dinosaur]]
+trait_02: [[evil]]
+trait_03: [[humanoid]]
 modifier: 34
 perception:
   - name: "Perception"
     desc: "+34; Darkvision"
-languages: "Common, Fey, Pyric"
+languages: "Common, Fey, Pyric; speak with animals"
 skills:
   - name: "Skills"
     desc: "Acrobatics: +35, Athletics: +33, Diplomacy: +32, Intimidation: +32, Nature: +34, Stealth: +35, Survival: +34"
@@ -55,7 +56,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Raptor Jaw Disarm"
-    desc: "`pf2:r`  **Frequency** once per round\n**Trigger** A creature makes a melee Strike against the worldwatcher but misses\n**Effect** The worldwatcher breaks the triggering creature's limb or weapon. If the triggering Strike was an unarmed attack, the triggering creature takes 6d6 bludgeoning damage and becomes [[Conditions/Clumsy 1|Clumsy 1]] until the limb is reset (an Interact action with the manipulate trait). If the triggering Strike was a weapon Strike, the weapon takes 6d6 bludgeoning damage."
+    desc: "`pf2:r`  **Frequency** once per round\n\n**Trigger** A creature makes a melee Strike against the worldwatcher but misses\n* * *\n\n**Effect** The worldwatcher breaks the triggering creature's limb or weapon. If the triggering Strike was an unarmed attack, the triggering creature takes 6d6 bludgeoning damage and becomes [[Conditions/Clumsy|Clumsy 1]] until the limb is reset (an Interact action with the manipulate trait). If the triggering Strike was a weapon Strike, the weapon takes 6d6 bludgeoning damage."
 
 attacks:
   - name: ""
@@ -79,11 +80,17 @@ attacks:
     desc: "DC 40, attack +32; __9th __  _[[Spells/Fiery Body|Fiery Body]]_, _[[Spells/Summon Animal|Summon Animal (Dinosaurs Only)]]_, _[[Spells/Volcanic Eruption|Volcanic Eruption]]_; __4th __  _[[Spells/Air Walk|Air Walk]]_; __3rd __  _[[Spells/Animal Vision|Animal Vision (At Will) (Dinosaurs Only)]]_; __2nd __  _[[Spells/Animal Messenger|Animal Messenger]]_\n__Constant__  __(2nd)__ _[[Spells/Speak with Animals|Speak with Animals]]_"
 
   - name: "Boneshaking Roar"
-    desc: "`pf2:2` (incapacitation,sonic) The saurian worldwatcher bellows, evoking the power of the primordial world.\nNon-dinosaur creatures within 30 feet take 10d6 sonic damage (DC 38 Fortitude check save). On a failed save, a creature is also [[Conditions/Slowed 1|Slowed 2]] for 1 round ([[Conditions/Stunned 1|Stunned]] 1d4 on a critical failure).\nThe saurian can't use Boneshaking Roar again for 1d4 rounds."
+    desc: "`pf2:2` (incapacitation,sonic) The saurian worldwatcher bellows, evoking the power of the primordial world.\n\nNon-dinosaur creatures within 30 feet take 10d6 sonic damage (DC 38 Fortitude check save). On a failed save, a creature is also [[Conditions/Slowed|Slowed 2]] for 1 round ([[Conditions/Stunned|Stunned]] 1d4 on a critical failure).\n\nThe saurian can't use Boneshaking Roar again for 1d4 rounds."
 
   - name: "Stunning Blow"
-    desc: " (incapacitation) Whenever the worldwatcher hits a creature with their fist or naginata Strike, that creature must succeed at a DC 39 Fortitude check save or be [[Conditions/Stunned 1|Stunned 1]] ([[Conditions/Stunned 1|Stunned 3]] on a critical hit)."
+    desc: " (incapacitation) Whenever the worldwatcher hits a creature with their fist or naginata Strike, that creature must succeed at a DC 39 Fortitude check save or be [[Conditions/Stunned|Stunned 1]] ([[Conditions/Stunned|Stunned 3]] on a critical hit)."
  
+```
+
+```encounter-table
+name: Saurian Worldwatcher
+creatures:
+  - 1: Saurian Worldwatcher
 ```
 
 

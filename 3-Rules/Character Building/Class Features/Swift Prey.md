@@ -12,7 +12,7 @@ license: ORC
 ---
 # Swift Prey
 ## Feat 19
-### [[ranger]]
+### [[3-Rules/trait_reference/ranger]]
 
 **Category** classfeature; 
 

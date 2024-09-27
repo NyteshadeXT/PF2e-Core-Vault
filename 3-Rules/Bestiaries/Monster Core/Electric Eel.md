@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.pathfinder-monster-core.Actor.gCmfPEfqS60BiuVP"
 tags:
   - pf2e/creature/type/animal
   - pf2e/creature/type/aquatic
+  - pf2eMonster
   - pf2e/creature/level/1
   - remaster
 statblock: inline
@@ -26,8 +27,8 @@ level: "Creature 1"
 
 alignment: ""
 size: "Small"
-trait_01: "animal"
-trait_02: "aquatic"
+trait_01: [[animal]]
+trait_02: [[aquatic]]
 modifier: 4
 perception:
   - name: "Perception"
@@ -63,8 +64,14 @@ attacks:
     desc: "`pf2:1` Tail +6 (agile)\n__Damage__  1d4 + 1 bludgeoning plus stunning-shock 1d4 electricity plus stunning-shock"
 
   - name: "Stunning Shock"
-    desc: " (incapacitation) A creature critically hit by the electric eel's tail must attempt a DC 17 Fortitude check save.\n* * *\n\n**Critical Success** The creature is unaffected.\n\n**Success** The creature is [[Conditions/Stunned 1|Stunned 1]].\n\n**Failure** The creature is [[Conditions/Stunned 1|Stunned 2]].\n\n**Critical Failure** The creature is [[Conditions/Stunned 1|Stunned 3]]."
+    desc: " (incapacitation) A creature critically hit by the electric eel's tail must attempt a DC 17 Fortitude check save.\n* * *\n\n**Critical Success** The creature is unaffected.\n\n**Success** The creature is [[Conditions/Stunned|Stunned 1]].\n\n**Failure** The creature is [[Conditions/Stunned|Stunned 2]].\n\n**Critical Failure** The creature is [[Conditions/Stunned|Stunned 3]]."
  
+```
+
+```encounter-table
+name: Electric Eel
+creatures:
+  - 1: Electric Eel
 ```
 
 

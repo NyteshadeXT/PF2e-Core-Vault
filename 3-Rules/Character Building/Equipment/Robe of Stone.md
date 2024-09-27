@@ -13,7 +13,7 @@ license: OGL
 ---
 # Robe of Stone
 ## Item 11
-### [uncommon](uncommon "Uncommon Rarity Trait")[[Earth]][[invested]][[magical]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[earth]][[invested]][[magical]]
 
 
 **Price** 1400 gp; 

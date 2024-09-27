@@ -10,6 +10,7 @@ tags:
   - pf2e/creature/type/skeleton
   - pf2e/creature/type/undead
   - pf2e/creature/type/unholy
+  - pf2eMonster
   - pf2e/creature/level/5
 statblock: inline
 name: "Harpy Skeleton"
@@ -28,15 +29,16 @@ level: "Creature 5"
 
 alignment: ""
 size: "Medium"
-trait_01: "evil"
-trait_02: "mindless"
-trait_03: "skeleton"
-trait_04: "undead"
-trait_05: "unholy"
+trait_01: [[evil]]
+trait_02: [[mindless]]
+trait_03: [[skeleton]]
+trait_04: [[undead]]
+trait_05: [[unholy]]
 modifier: 9
 perception:
   - name: "Perception"
     desc: "+9; Darkvision"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Acrobatics: +11, Intimidation: +13"
@@ -70,8 +72,14 @@ attacks:
     desc: "`pf2:1` Club +15 (thrown 10 ft.)\n__Damage__  1d6 + 7 bludgeoning"
 
   - name: "Shriek"
-    desc: "`pf2:2` (auditory,concentrate,emotion,fear,mental) The harpy skeleton emits an unearthly, bone-chilling scream that deals 4d10 mental damage to all creatures in a 30-foot cone (DC 26 Will check save). A creature that fails its save is [[Conditions/Frightened 1|Frightened 1]] (or [[Conditions/Frightened 1|Frightened 2]] on a critical failure).\nThe harpy skeleton can't Shriek again for 1d4 rounds."
+    desc: "`pf2:2` (auditory,concentrate,emotion,fear,mental) The harpy skeleton emits an unearthly, bone-chilling scream that deals 4d10 mental damage to all creatures in a @Template[cone|distance:30] (DC 26 Will check save). A creature that fails its save is [[Conditions/Frightened|Frightened 1]] (or [[Conditions/Frightened|Frightened 2]] on a critical failure).\n\nThe harpy skeleton can't Shriek again for 1d4 rounds."
  
+```
+
+```encounter-table
+name: Harpy Skeleton
+creatures:
+  - 1: Harpy Skeleton
 ```
 
 

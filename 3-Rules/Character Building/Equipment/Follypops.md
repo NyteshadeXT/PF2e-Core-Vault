@@ -12,7 +12,7 @@ license: OGL
 ---
 # Follypops
 ## Item 10
-### [uncommon](uncommon "Uncommon Rarity Trait")[[consumable]][[magical]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[consumable]][[3-Rules/Rule References/Magical]]
 
 **Category** other; 
 **Price** 175 gp; 
@@ -29,19 +29,19 @@ These savory breaded snacks stuffed with cheese, peppers, and "secret ingredient
 
 **Type** hotpops
 
-You begin to sweat profusely after consuming the serving. When you unleash magic, you breathe out a blast of fire in a 15-foot cone. Creatures in the cone take 4d6 fire damage with the first blast, 2d6 fire damage with the second blast, and 1d6 fire damage with the final blast. The creatures must attempt a DC 27 Reflex check for each blast.
+You begin to sweat profusely after consuming the serving. When you unleash magic, you breathe out a blast of fire in a @Template\[cone|distance:15\]. Creatures in the cone take 4d6 fire damage with the first blast, 2d6 fire damage with the second blast, and 1d6 fire damage with the final blast. The creatures must attempt a DC 27 Reflex check for each blast.
 
 * * *
 
 **Type** rotters
 
-Your breath smells of rotting garbage after you consume the serving. When you unleash magic, you exhale a noxious breath in a 15-foot cone. Creatures in the cone take 4d6 poison damage with the first breath, 2d6 poison damage with the second breath, and 1d6 poison damage with the final breath. The creatures must attempt a DC 27 Fortitude check for each breath.
+Your breath smells of rotting garbage after you consume the serving. When you unleash magic, you exhale a noxious breath in a @Template\[cone|distance:15\]. Creatures in the cone take 4d6 poison damage with the first breath, 2d6 poison damage with the second breath, and 1d6 poison damage with the final breath. The creatures must attempt a DC 27 Fortitude check for each breath.
 
 * * *
 
 **Type** sizzlers
 
-Your skin crawls and your hair stands on end after consuming the serving. When you unleash magic, you release a bolt of lightning from your hand that travels in a 30-foot line. The first bolt deals 2d12 electricity damage, the second 1d12 electricity damage, and the third 1d6 electricity damage. The targeted creatures must attempt a DC 27 Reflex check for each bolt.
+Your skin crawls and your hair stands on end after consuming the serving. When you unleash magic, you release a bolt of lightning from your hand that travels in a @Template\[line|distance:30\]. The first bolt deals 2d12 electricity damage, the second 1d12 electricity damage, and the third 1d6 electricity damage. The targeted creatures must attempt a DC 27 Reflex check for each bolt.
 
 *Source: Pathfinder Lost Omens: The Grand Bazaar*
 *OGL*

@@ -18,7 +18,7 @@ license: OGL
 ---
 # Whisper on the Wind `pf2:1`
 ## Feat 1
-### [[3-Rules/Rule References/Air]][[auditory]][[illusion]][[impulse]][[kineticist]][[linguistic]][[primal]]
+### [[air]][[auditory]][[illusion]][[impulse]][[kineticist]][[linguistic]][[primal]]
 
 **Category** class; 
 

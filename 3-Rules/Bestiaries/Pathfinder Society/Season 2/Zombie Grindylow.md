@@ -11,6 +11,7 @@ tags:
   - pf2e/creature/type/undead
   - pf2e/creature/type/unholy
   - pf2e/creature/type/zombie
+  - pf2eMonster
   - pf2e/creature/level/0
 statblock: inline
 name: "Zombie Grindylow"
@@ -25,19 +26,20 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Society Scenario #2-06: The Crashing Wave"
 name: "Zombie Grindylow"
 level: "Creature 0"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Small"
-trait_01: "amphibious"
-trait_02: "evil"
-trait_03: "mindless"
-trait_04: "undead"
-trait_05: "unholy"
-trait_06: "zombie"
+trait_01: [[amphibious]]
+trait_02: [[evil]]
+trait_03: [[mindless]]
+trait_04: [[undead]]
+trait_05: [[unholy]]
+trait_06: [[zombie]]
 modifier: 5
 perception:
   - name: "Perception"
     desc: "+5; Darkvision"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Athletics: +8"
@@ -57,12 +59,12 @@ abilities_top:
   - name: ""
 
   - name: "Slow"
-    desc: "  A zombie is permanently [[Conditions/Slowed 1|Slowed 1]] and can't use reactions."
+    desc: "  A zombie is permanently [[Conditions/Slowed|Slowed 1]] and can't use reactions."
 
 abilities_mid:
   - name: ""
   - name: "Tangling Kelp"
-    desc: "`pf2:r`  **Trigger**A creature attempts a melee attack against a zombie grindylow with a bludgeoning or slashing weapon\n**Effect**The creature must succeed at a DC 13 Reflex check saving throw or become tangled in the kelp that surrounds the zombie grindylow, giving the creature a -10 circumstance penalty to its Speeds until it spends a manipulate action to remove the kelp."
+    desc: "`pf2:r`  **Trigger** A creature attempts a melee attack against a zombie grindylow with a bludgeoning or slashing weapon\n* * *\n\n**Effect** The creature must succeed at a DC 13 Reflex check saving throw or become tangled in the kelp that surrounds the zombie grindylow, giving the creature a -10 circumstance penalty to its Speeds until it spends a manipulate action to remove the kelp."
 
 attacks:
   - name: ""
@@ -73,6 +75,12 @@ attacks:
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
     desc: "`pf2:1`  "
  
+```
+
+```encounter-table
+name: Zombie Grindylow
+creatures:
+  - 1: Zombie Grindylow
 ```
 
 

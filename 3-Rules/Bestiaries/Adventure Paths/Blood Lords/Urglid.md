@@ -10,6 +10,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/fiend
   - pf2e/creature/type/unholy
+  - pf2eMonster
   - pf2e/creature/level/13
 statblock: inline
 name: "Urglid"
@@ -24,22 +25,22 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #184: The Ghouls Hunger"
 name: "Urglid"
 level: "Creature 13"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Large"
-trait_01: "chaotic"
-trait_02: "demon"
-trait_03: "evil"
-trait_04: "fiend"
-trait_05: "unholy"
+trait_01: [[chaotic]]
+trait_02: [[demon]]
+trait_03: [[evil]]
+trait_04: [[fiend]]
+trait_05: [[unholy]]
 modifier: 20
 perception:
   - name: "Perception"
     desc: "+20; Darkvision, Tremorsense (Imprecise) 60 Feet, Truesight"
-languages: "Chthonian, Common, Draconic, Empyrean, Necril"
+languages: "Chthonian, Common, Draconic, Empyrean, Necril; telepathy 100 feet"
 skills:
   - name: "Skills"
-    desc: "Abyss Lore: +24, Athletics: +27, Crafting: +24, Deception: +22, Intimidation: +27, Religion: +24, Society: +22, Stealth: +27"
+    desc: "Athletics: +27, Crafting: +24, Deception: +22, Intimidation: +27, Religion: +24, Society: +22, Stealth: +27, Abyss Lore: +24"
 abilityMods: [9, 4, 8, 4, 3, 4]
 speed: 30 feet,  burrow 40 feet,  climb 20 feet
 sourcebook: "_Pathfinder #184: The Ghouls Hunger_"
@@ -79,11 +80,17 @@ attacks:
     desc: "  The urglid can [[Actions/Burrow|Burrow]] through any earthen matter, including rock. When they do so, the urglid moves at their full burrow Speed, leaving no tunnels or signs of its passing unless they choose to do so."
 
   - name: "Gravechoke"
-    desc: "`pf2:2` (concentrate,divine,earth,olfactory) The urglid emits a putrid pulse that targets all living creatures within a 30-foot emanation. Creatures in this area that fail a DC 30 Fortitude check save become [[Conditions/Sickened 1|Sickened 1]] ([[Conditions/Sickened 1|Sickened 2]] on a critical failure)."
+    desc: "`pf2:2` (concentrate,divine,earth,olfactory) The urglid emits a putrid pulse that targets all living creatures within a @Template[emanation|distance:30]. Creatures in this area that fail a DC 30 Fortitude check save become [[Conditions/Sickened|Sickened 1]] ([[Conditions/Sickened|Sickened 2]] on a critical failure)."
 
   - name: "Ravenous Earth"
     desc: "`pf2:1` (concentrate,earth) With a single, devious thought, the urglid causes a mound of grave soil to well up at a creature's feet. A creature failing a DC 30 Reflex check save is [[Conditions/Restrained|Restrained]]. The restrained creature then begins sinking below the ground into a spontaneously formed grave. A creature restrained by this ability for three rounds is buried 6 feet deep in the ground and begins suffocating within 1 minute. A buried creature must be dug up to be freed. A creature who is slain by Ravenous Earth rises as a ghoul the next midnight."
  
+```
+
+```encounter-table
+name: Urglid
+creatures:
+  - 1: Urglid
 ```
 
 

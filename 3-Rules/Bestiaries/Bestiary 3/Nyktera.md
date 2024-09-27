@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/fey
   - pf2e/creature/type/good
   - pf2e/creature/type/sprite
+  - pf2eMonster
   - pf2e/creature/level/-1
 statblock: inline
 name: "Nyktera"
@@ -26,14 +27,14 @@ level: "Creature -1"
 
 alignment: ""
 size: "tiny"
-trait_01: "fey"
-trait_02: "good"
-trait_03: "sprite"
+trait_01: [[fey]]
+trait_02: [[good]]
+trait_03: [[sprite]]
 modifier: 6
 perception:
   - name: "Perception"
     desc: "+6; Low-Light Vision"
-languages: "Common, Fey"
+languages: "Common, Fey; speak with bats"
 skills:
   - name: "Skills"
     desc: "Acrobatics: +5, Diplomacy: +5, Stealth: +5"
@@ -56,7 +57,7 @@ abilities_top:
     desc: "  A nyktera can communicate with bats and use Diplomacy to [[Actions/Make an Impression|Make an Impression]] on bats and [[Actions/Request|Request]] things from bats."
 
   - name: "Wrath of Spurned Hospitality"
-    desc: "  A nyktera whose hospitality is betrayed becomes enraged at the violation of a fundamental aspect of their fey nature. They must succeed at a DC 20 Will check save or begin involuntarily attacking the traitor. At the end of each of their turns, if they choose, they can attempt another Will save to end the effect; otherwise, the effect lasts until the traitor is subdued or leaves the nyktera's presence. As long as their righteous fury lasts, the nyktera gains a +2 status bonus to attack and damage rolls for their fist Strikes.\n[[Bestiary Effects/Effect_ Wrath of Spurned Hospitality|Effect: Wrath of Spurned Hospitality]]"
+    desc: "  A nyktera whose hospitality is betrayed becomes enraged at the violation of a fundamental aspect of their fey nature. They must succeed at a DC 20 Will check save or begin involuntarily attacking the traitor. At the end of each of their turns, if they choose, they can attempt another Will save to end the effect; otherwise, the effect lasts until the traitor is subdued or leaves the nyktera's presence. As long as their righteous fury lasts, the nyktera gains a +2 status bonus to attack and damage rolls for their fist Strikes.\n\n[[Bestiary Effects/Effect_ Wrath of Spurned Hospitality|Effect: Wrath of Spurned Hospitality]]"
 
 abilities_mid:
   - name: ""
@@ -72,6 +73,12 @@ attacks:
   - name: "Primal Innate Spells"
     desc: "DC 17, attack +9; __1st __  _[[Spells/Heal|Heal]]_\n__Cantrips__  __(1st)__ _[[Compendium.pf2e.spells-srd.Item.kl2q6JvBZwed4B6v|Dancing Lights]]_, _[[Spells/Ghost Sound|Ghost Sound]]_"
  
+```
+
+```encounter-table
+name: Nyktera
+creatures:
+  - 1: Nyktera
 ```
 
 

@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/human
   - pf2e/creature/type/humanoid
   - pf2e/creature/type/lawful
+  - pf2eMonster
   - pf2e/creature/level/4
 statblock: inline
 name: "Copper Hand Rogue"
@@ -23,13 +24,13 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #158: Sixty Feet Under"
 name: "Copper Hand Rogue"
 level: "Creature 4"
-rare_03: "Rare"
+rare_03: [[Rare]]
 alignment: ""
 size: "Medium"
-trait_01: "evil"
-trait_02: "human"
-trait_03: "humanoid"
-trait_04: "lawful"
+trait_01: [[evil]]
+trait_02: [[human]]
+trait_03: [[humanoid]]
+trait_04: [[lawful]]
 modifier: 13
 perception:
   - name: "Perception"
@@ -57,7 +58,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Nimble Dodge"
-    desc: "`pf2:r`  **Trigger** A creature targets the Copper Hand rogue with an attack, and the rogue can see the attacker\n**Effect** The rogue dodges out of the way, gaining a +2 circumstance bonus to AC against the triggering attack."
+    desc: "`pf2:r`  **Trigger** A creature targets the Copper Hand rogue with an attack, and the rogue can see the attacker\n* * *\n\n**Effect** The rogue dodges out of the way, gaining a +2 circumstance bonus to AC against the triggering attack."
 
 attacks:
   - name: ""
@@ -74,6 +75,12 @@ attacks:
   - name: "[[Bestiary Ability Glossary/Sneak Attack|Sneak Attack]]"
     desc: "  The Copper Hand rogue deals 1d6 additional precision damage to [[Conditions/Off-Guard|Off-Guard]] creatures."
  
+```
+
+```encounter-table
+name: Copper Hand Rogue
+creatures:
+  - 1: Copper Hand Rogue
 ```
 
 

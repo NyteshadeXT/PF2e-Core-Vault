@@ -7,8 +7,9 @@ tags:
   - trait/skill
   - trait/common
   - category/skill
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.DMetdzt1VJL2Y62i"
-license: OGL
+license: ORC
 ---
 # Snare Crafting
 ## Feat 1
@@ -20,7 +21,7 @@ license: OGL
 
 **Prerequisites** trained in Crafting
 * * *
-You can use the Craft activity to create snares. When you select this feat, you add the formulas for four common snares to your formula book.
+You can use the Craft activity to create snares. When you select this feat, you add the formulas for four common 1st-level snares to your formula book.
 
-*Source: Pathfinder Core Rulebook*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

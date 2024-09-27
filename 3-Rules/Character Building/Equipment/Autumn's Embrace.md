@@ -13,7 +13,7 @@ license: OGL
 ---
 # Autumn's Embrace
 ## Item 12
-### [[invested]][[laminar]][[magical]]
+### [[invested]][[laminar]][[3-Rules/Rule References/Magical]]
 
 **Category** light; **Group** wood
 **Price** 2000 gp; 
@@ -28,7 +28,7 @@ Woven by fey seamstresses as rewards for servants of nature, countless leaves co
 
 **Frequency** once per day
 
-**Effect** You call forth a storm of leaves from _autumn's embrace_. These leaves swirl in a 20-foot emanation for 1 minute. Creatures within the area are [[Conditions/Concealed|Concealed]], and creatures outside the area are concealed to creatures within the leaves. However, you can see through this concealment. You can Dismiss the activation.
+**Effect** You call forth a storm of leaves from _autumn's embrace_. These leaves swirl in a @Template\[emanation|distance:20\] for 1 minute. Creatures within the area are [[Conditions/Concealed|Concealed]], and creatures outside the area are concealed to creatures within the leaves. However, you can see through this concealment. You can Dismiss the activation.
 
 *Source: Pathfinder Treasure Vault*
 *OGL*

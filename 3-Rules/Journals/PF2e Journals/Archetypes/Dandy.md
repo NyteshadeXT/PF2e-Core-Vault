@@ -8,7 +8,7 @@ tags:
 ---
 
 # Dandy
-You are a genteel master of style, culture, and decorum, aware of even the subtlest rules of etiquette. Whether you were born into status, acquired it later in life, or merely pretend to possess it, you look and act your part to manicured perfection.
+You are a genteel master of style, culture, and decorum, aware of even the subtlest rules of etiquette.
 
 ## [[Feats/Dandy Dedication|Dandy Dedication]] Feat 2
 
@@ -16,11 +16,7 @@ You are a genteel master of style, culture, and decorum, aware of even the subtl
 
 * * *
 
-You are a consummate student of dignity, etiquette, and fashion. You can use the Diplomacy skill to perform the special downtime activity Influence Rumor, spending at least one day of downtime to manipulate the course, tone, or content of a rumor to your benefit. The difficulty of Influencing a Rumor is determined by the GM based on the size of the community, the relative perceptiveness of the inhabitants, and the agency of other rumormongers, but it typically starts with at least DC 15 for a small village and increases to at least DC 20 for a town, at least DC 30 for a city, and at least DC 40 for a metropolis.
-
-You become trained in Deception and Society; if you were already trained, you become an expert instead.
-
-**Special** You can't select another dedication feat until you have gained two other feats from the dandy archetype.
+You are a consummate student of dignity, etiquette, and fashion. You become trained in Deception and Society; if you were already trained in either, you become an expert in it instead. You gain the [[Actions/Influence Rumor|Influence Rumor]] downtime activity.
 
 ## [[Feats/Distracting Flattery|Distracting Flattery]] Feat 4
 
@@ -50,6 +46,18 @@ Your time gossiping in fashionable salons keeps you informed on every topic. You
 
 If you have legendary proficiency in Society, you gain expert proficiency in Gossip Lore, but you can't increase your proficiency rank in Gossip Lore by any other means.
 
+## [[Feats/Tut-Tut|Tut-Tut]] Feat 4
+
+@Embed\[Compendium.pf2e.feats-srd.Item.0ptK0blZehF3ABha inline hr=false\]
+
+## [[Feats/Cutting Flattery|Cutting Flattery]] Feat 5
+
+@Embed\[Compendium.pf2e.feats-srd.Item.1MZ4WNoNoJ4jj5Z0 inline\]
+
+## [[Feats/Feeling Your Oats|Feeling Your Oats]] Feat 6
+
+@Embed\[Compendium.pf2e.feats-srd.Item.7SwpVfxSkPMPMazJ inline hr=false\]
+
 ## [[Feats/Fabricated Connections|Fabricated Connections]] Feat 7
 
 **Prerequisites** Dandy Dedication, master in Deception
@@ -67,3 +75,7 @@ You can lie about having taken an action so convincingly that you acquire all th
 You attend all the fashionable society parties, no matter how exclusive they might be. Any time you encounter a social event you would ordinarily be denied access to, such as a coronation, royal gala, or other society function, you can spend 1d4 hours to secure entry without the need for a skill check. You find invitations, invitees looking for fashionable dates, temporary jobs with the caterers, event staff willing to look the other way, or some other mode of access for yourself and your allies.
 
 This ability doesn't apply to secret events or other small private gatherings with no staff, dates, or outsiders involved.
+
+## [[Feats/Statement Strut|Statement Strut]] Feat 8
+
+@Embed\[Compendium.pf2e.feats-srd.Item.P092yzkGN4UYYVXB inline hr=false\]

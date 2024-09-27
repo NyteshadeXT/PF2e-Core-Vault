@@ -19,7 +19,9 @@ license: OGL
 **Bulk** 0; **Size** med
 **Usage** held-in-one-hand
 
-The metal of these arrows is said to have come from a star that ventured too close to Golarion and was shot down by a moonlit archer. When you activate and shoot a starshot arrow, you take no range penalties against any target that you can personally detect. There must be a line of effect between you and the target.
+**Activate** `pf2:1` Interact
+
+The metal of these arrows is said to have come from a star that ventured too close to Golarion and was shot down by a moonlit archer. When you activate and shoot a _starshot arrow_, you take no range penalties against any target that you can personally detect. There must be a line of effect between you and the target.
 
 The target must be within the maximum range of your weapon.
 

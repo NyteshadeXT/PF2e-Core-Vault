@@ -10,6 +10,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/giant
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/8
 statblock: inline
 name: "Graylok Artillerist"
@@ -24,14 +25,14 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #177: Burning Tundra"
 name: "Graylok Artillerist"
 level: "Creature 8"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Large"
-trait_01: "chaotic"
-trait_02: "cold"
-trait_03: "evil"
-trait_04: "giant"
-trait_05: "humanoid"
+trait_01: [[chaotic]]
+trait_02: [[cold]]
+trait_03: [[evil]]
+trait_04: [[giant]]
+trait_05: [[humanoid]]
 modifier: 16
 perception:
   - name: "Perception"
@@ -74,11 +75,17 @@ attacks:
     desc: "`pf2:2`  The Graylok artillerist combines gelatin and other substances over their greataxe to ignite it. For 1 minute, the greataxe gains the fire trait, and creatures hit by it take 4 persistent fire damage."
 
   - name: "Throw Bomb"
-    desc: "`pf2:2` (alchemical,fire) **Requirements** The Graylok artillerist has two free hands\n**Effect** The Graylok artillerist Interacts with a firebomb and then throws it at a point within 100 feet. The bomb erupts in a 10-foot burst, and works as [[Equipment/Alchemist's Fire (Moderate)|moderate alchemist fire]], except it inflicts 4d6 fire damage with a DC 23 Reflex check save. Creatures that fail or critically fail this save also take 4 persistent fire damage."
+    desc: "`pf2:2` (alchemical,fire) **Requirements** The Graylok artillerist has two free hands\n* * *\n\n**Effect** The Graylok artillerist Interacts with a firebomb and then throws it at a point within 100 feet. The bomb erupts in a @Template[burst|distance:10], and works as [[Equipment/Alchemist's Fire (Moderate)|moderate alchemist fire]], except it inflicts 4d6 fire damage with a DC 23 Reflex check save. Creatures that fail or critically fail this save also take 4 persistent fire damage."
 
   - name: "Wide Swing"
     desc: "`pf2:1`  The frost giant makes a single greataxe Strike and compares the attack roll result to the ACs of up to two foes within their reach. This counts as two attacks for the frost giant's multiple attack penalty."
  
+```
+
+```encounter-table
+name: Graylok Artillerist
+creatures:
+  - 1: Graylok Artillerist
 ```
 
 

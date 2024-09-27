@@ -34,11 +34,11 @@ This toxin is a compound of arsenic and other substances. You can't reduce your 
 
 **Maximum Duration** 5 minutes
 
-**Stage 1** 1d4 poison damage and [[Conditions/Sickened 1|Sickened 1]] (1 minute)
+**Stage 1** 1d4 poison damage and [[Conditions/Sickened|Sickened 1]] (1 minute)
 
-**Stage 2** 1d6 poison damage and [[Conditions/Sickened 1|Sickened 2]] (1 minute)
+**Stage 2** 1d6 poison damage and [[Conditions/Sickened|Sickened 2]] (1 minute)
 
-**Stage 3** 1d8 poison damage and [[Conditions/Sickened 1|Sickened 3]] (1 minute)
+**Stage 3** 1d8 poison damage and [[Conditions/Sickened|Sickened 3]] (1 minute)
 
 *Source: Pathfinder GM Core*
 *ORC*

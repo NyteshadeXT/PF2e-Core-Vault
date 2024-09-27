@@ -6,8 +6,9 @@ tags:
   - trait/alchemist
   - trait/common
   - category/class
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.zOK6IFSz3DIBRjEw"
-license: OGL
+license: ORC
 ---
 # Craft Philosopher's Stone
 ## Feat 20
@@ -20,5 +21,5 @@ license: OGL
 
 Your research has paid off, culminating in the legendary philosopher's stone. You learn the formula for the [[Equipment/Philosopher's Stone|Philosopher's Stone]] and can add it to your formula book.
 
-*Source: Pathfinder Core Rulebook*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

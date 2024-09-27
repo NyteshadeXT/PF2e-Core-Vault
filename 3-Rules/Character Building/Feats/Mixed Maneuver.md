@@ -6,8 +6,9 @@ tags:
   - trait/monk
   - trait/common
   - category/class
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.jCIBYryi6Y3JwmqH"
-license: OGL
+license: ORC
 ---
 # Mixed Maneuver `pf2:2`
 ## Feat 8
@@ -19,7 +20,7 @@ license: OGL
 
 **Prerequisites** master in Athletics
 * * *
-You combine two different maneuvers together into a single flowing whole. Choose any two of [[Actions/Grapple|Grapple]], [[Actions/Shove|Shove]], and [[Actions/Trip|Trip]]. Attempt both of the attacks you chose against the same or different creatures, but don't apply the multiple attack penalty until after resolving both attacks.
+You leverage your knowledge of martial arts to mix different maneuvers together into a single flowing combination. Choose any two of [[Actions/Grapple|Grapple]], [[Actions/Reposition|Reposition]], [[Actions/Shove|Shove]], and [[Actions/Trip|Trip]]. Attempt both of the attacks you chose against the same or different creatures, but don't apply the multiple attack penalty until after resolving both attacks.
 
-*Source: Pathfinder Core Rulebook*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

@@ -6,6 +6,7 @@ cssClasses: pf2e
 aliases: "Compendium.pf2e.pathfinder-monster-core.Actor.alPZcKVrHTcMdtIU" 
 tags:
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/5
   - remaster
 statblock: inline
@@ -22,10 +23,10 @@ token: [[modules/pf2e-tokens-bestiaries/portraits/bestial/mammalian/yeti.webp| ]
 source: "Pathfinder Monster Core"
 name: "Yeti"
 level: "Creature 5"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Large"
-trait_01: "humanoid"
+trait_01: [[humanoid]]
 modifier: 15
 perception:
   - name: "Perception"
@@ -33,7 +34,7 @@ perception:
 languages: "Aklo"
 skills:
   - name: "Skills"
-    desc: "Athletics: +14, Stealth: +12 (+15 in snow), Survival: +11"
+    desc: "Athletics: +14, Stealth: +12, Survival: +11"
 abilityMods: [5, 2, 4, -1, 4, -1]
 speed: 35 feet,  climb 20 feet
 sourcebook: "_Pathfinder Monster Core_"
@@ -70,11 +71,17 @@ attacks:
     desc: "  The yeti ignores difficult terrain caused by ice or snow."
 
   - name: "Grizzly Arrival"
-    desc: " (emotion,fear,mental) **Trigger** The yeti hits a creature in the first round of combat and the yeti was [[Conditions/Hidden|Hidden]] from that creature at the start of combat.\n* * *\n\n**Effect** Each enemy within 30 feet that witnesses the attack (including the target of the attack) must attempt a DC 23 Will check save. On a failure, the creature is [[Conditions/Frightened 1|Frightened 2]]; on a critical failure, it's [[Conditions/Frightened 1|Frightened 4]]."
+    desc: " (emotion,fear,mental) **Trigger** The yeti hits a creature in the first round of combat and the yeti was [[Conditions/Hidden|Hidden]] from that creature at the start of combat.\n* * *\n\n**Effect** Each enemy within 30 feet that witnesses the attack (including the target of the attack) must attempt a DC 23 Will check save. On a failure, the creature is [[Conditions/Frightened|Frightened 2]]; on a critical failure, it's [[Conditions/Frightened|Frightened 4]]."
 
   - name: "[[Bestiary Ability Glossary/Rend|Rend]]"
     desc: "`pf2:1`  Claw\n\n* * *\n"
  
+```
+
+```encounter-table
+name: Yeti
+creatures:
+  - 1: Yeti
 ```
 
 

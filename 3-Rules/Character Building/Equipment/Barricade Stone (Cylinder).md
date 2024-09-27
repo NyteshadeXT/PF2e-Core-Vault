@@ -13,7 +13,7 @@ license: OGL
 ---
 # Barricade Stone (Cylinder)
 ## Item 10
-### [uncommon](uncommon "Uncommon Rarity Trait")[[consumable]][[magical]][[structure]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[consumable]][[3-Rules/Rule References/Magical]][[structure]]
 
 **Category** potion; 
 **Price** 160 gp; 
@@ -36,7 +36,7 @@ Upon landing, the stone instantly and permanently expands. The stone grows to it
 
 When activated, this cylinder expands to a diameter of 5 feet, 10 feet, or 20 feet, depending on the command, with respective maximum heights of 80 feet, 40 feet, and 20 feet. If a dimension can't be reached due to contact with another solid surface, the cylinder ceases to grow in that direction.
 
-You can activate the cylinder horizontally instead of vertically. If you do, the cylinder moves similarly to the _[[Equipment/Barricade Stone (Sphere)|Barricade Stone (Sphere)]]_, with the following changes: both DCs increase to 27, the damage increases to 6d6 bludgeoning damage, and a creature that critically fails its Reflex save against the rolling cylinder gains the [[Conditions/Wounded 1|Wounded 1]] condition (or increases the value of its wounded condition by 1).
+You can activate the cylinder horizontally instead of vertically. If you do, the cylinder moves similarly to the _[[Equipment/Barricade Stone (Sphere)|Barricade Stone (Sphere)]]_, with the following changes: both DCs increase to 27, the damage increases to 6d6 bludgeoning damage, and a creature that critically fails its Reflex save against the rolling cylinder gains the [[Conditions/Wounded|Wounded 1]] condition (or increases the value of its wounded condition by 1).
 
 *Source: Pathfinder #171: Hurricane's Howl*
 *OGL*

@@ -11,6 +11,7 @@ tags:
   - pf2e/creature/type/spirit
   - pf2e/creature/type/undead
   - pf2e/creature/type/unholy
+  - pf2eMonster
   - pf2e/creature/level/10
 statblock: inline
 name: "Spectral Devil"
@@ -25,15 +26,15 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Lost Omens: Monsters of Myth"
 name: "Spectral Devil"
 level: "Creature 10"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Large"
-trait_01: "evil"
-trait_02: "fiend"
-trait_03: "incorporeal"
-trait_04: "spirit"
-trait_05: "undead"
-trait_06: "unholy"
+trait_01: [[evil]]
+trait_02: [[fiend]]
+trait_03: [[incorporeal]]
+trait_04: [[spirit]]
+trait_05: [[undead]]
+trait_06: [[unholy]]
 modifier: 19
 perception:
   - name: "Perception"
@@ -78,11 +79,17 @@ attacks:
     desc: "DC 26, attack +18; __4th __ (2 slots) _[[Spells/Translocate|Dimension Door]]_, _[[Spells/Phantasmal Killer|Phantasmal Killer]]_; __3rd __ (1 slots) _[[Spells/Fireball|Fireball]]_; __2nd __ (1 slots) _[[Spells/Mist|Obscuring Mist]]_; __1st __ (1 slots) _[[Spells/Gust of Wind|Gust of Wind (At Will)]]_\n__Cantrips__  __(5th)__ _[[Spells/Produce Flame|Produce Flame]]_"
 
   - name: "Accursed Shriek"
-    desc: "`pf2:2` (curse,occult,sonic) The Spectral Devil unleashes a terrifying whinny in a 30-foot cone that deals 5d10 sonic damage. Each creature in the area must attempt a DC 29 Reflex check save.\nThe Spectral Devil can't use Accursed Shriek for 1d4 rounds.\n**Critical Success** The creature is unaffected.\n**Success** The creature takes half damage.\n**Failure** The creature takes full damage and is [[Conditions/Frightened 1|Frightened 2]] by the eerie noise.\n**Critical Failure** The creature takes full damage, is frightened 2, and becomes cursed. The victim's mind echoes with the sound of the whinny, impairing concentration. The cursed creature is [[Conditions/Stupefied 1|Stupefied 2]] until the curse is removed."
+    desc: "`pf2:2` (curse,occult,sonic) The Spectral Devil unleashes a terrifying whinny in a 30-foot cone that deals 5d10 sonic damage. Each creature in the area must attempt a DC 29 Reflex check save.\n\nThe Spectral Devil can't use Accursed Shriek for 1d4 rounds.\n\n**Critical Success** The creature is unaffected.\n\n**Success** The creature takes half damage.\n\n**Failure** The creature takes full damage and is [[Conditions/Frightened|Frightened 2]] by the eerie noise.\n\n**Critical Failure** The creature takes full damage, is frightened 2, and becomes cursed. The victim's mind echoes with the sound of the whinny, impairing concentration. The cursed creature is [[Conditions/Stupefied|Stupefied 2]] until the curse is removed."
 
   - name: "[[Bestiary Ability Glossary/Trample|Trample]]"
-    desc: "`pf2:3`  Medium or smaller, Ghostly Hoof, DC 26 Reflex check\n"
+    desc: "`pf2:3`  Medium or smaller, Ghostly Hoof, DC 26 Reflex check\n\n* * *\n"
  
+```
+
+```encounter-table
+name: Spectral Devil
+creatures:
+  - 1: Spectral Devil
 ```
 
 

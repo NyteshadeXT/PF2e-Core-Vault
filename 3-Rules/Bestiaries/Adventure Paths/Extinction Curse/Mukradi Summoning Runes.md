@@ -5,6 +5,7 @@ noteType: pf2eHazard
 tags:
   - magical
   - trap
+  - pf2eHazard
   - complex
 source: Pathfinder #154: Siege of the Dinosaurs
 aliases: "Compendium.pf2e.extinction-curse-bestiary.Actor.1CjTIaMYUvQUkQI2" 
@@ -22,8 +23,8 @@ name: "Mukradi Summoning Runes"
 level: "Hazard 15"
 
 trait_06: "Complex"
-trait_01: "magical"
-trait_02: "trap"
+trait_01: [[magical]]
+trait_02: [[trap]]
 modifier: 25
 sourcebook: "_Pathfinder #154: Siege of the Dinosaurs_"
 perception:
@@ -42,10 +43,16 @@ attacks:
   - name: ""
 
   - name: "Summon Monster"
-    desc: "`pf2:r` (occult, summon) **Trigger** A creature enters the circle without uttering the passphrase, \"Praise to the Water Lizard\"\n**Effect** The trap summons a [[Bestiary 1/Mukradi|Mukradi]]. The mukradi rolls initiative and remains for 1 minute, after which the spell ends and the mukradi disappears. The mukradi also disappears if someone disables the trap before the duration expires. The mukradi can use 3 actions each round and can use reactions, unlike most summoned creatures."
+    desc: "`pf2:r` (occult, summon) **Trigger** A creature enters the circle without uttering the passphrase, \"Praise to the Water Lizard\"\n* * *\n\n**Effect** The trap summons a [[Bestiary 1/Mukradi|Mukradi]]. The mukradi rolls initiative and remains for 1 minute, after which the spell ends and the mukradi disappears. The mukradi also disappears if someone disables the trap before the duration expires. The mukradi can use 3 actions each round and can use reactions, unlike most summoned creatures."
 
 
   - name: "Reset"
     desc: "The trap resets at the first high tide of each day."
+```
+
+```encounter-table
+name: Mukradi Summoning Runes
+creatures:
+  - 1: Mukradi Summoning Runes
 ```
 

@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/celestial
   - pf2e/creature/type/good
   - pf2e/creature/type/holy
+  - pf2eMonster
   - pf2e/creature/level/4
 statblock: inline
 name: "Stone Lion"
@@ -23,20 +24,20 @@ token: [[modules/pf2e-tokens-bestiaries/portraits/constructed/magical/stone-lion
 source: "Pathfinder Bestiary 3"
 name: "Stone Lion"
 level: "Creature 4"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Large"
-trait_01: "celestial"
-trait_02: "good"
-trait_03: "holy"
+trait_01: [[celestial]]
+trait_02: [[good]]
+trait_03: [[holy]]
 modifier: 13
 perception:
   - name: "Perception"
     desc: "+13; Darkvision"
-languages: "Common, Empyrean"
+languages: "Common, Empyrean; telepathy 60 feet"
 skills:
   - name: "Skills"
-    desc: "Athletics: +12, Intimidation: +8, Meteorology Lore: +11, Religion: +13"
+    desc: "Athletics: +12, Intimidation: +8, Religion: +13, Meteorology Lore: +11"
 abilityMods: [4, 3, 3, 1, 5, 0]
 speed:  fly 40 feet
 sourcebook: "_Pathfinder Bestiary 3_"
@@ -70,14 +71,20 @@ attacks:
     desc: "DC 21, attack +13; __3rd __  _[[Spells/Dream Message|Dream Message]]_; __1st __  _[[Spells/Detect Alignment|Detect Alignment (At Will) (Evil Only)]]_"
 
   - name: "Ferocious Roar"
-    desc: "`pf2:2` (auditory,emotion,fear,mental,sonic) The lion makes a terrifying roar that deals 2d8 sonic damage (DC 23 Fortitude check save) to each creature in a 20-foot cone. Creatures that fail this save become [[Conditions/Frightened 1|Frightened 1]]."
+    desc: "`pf2:2` (auditory,emotion,fear,mental,sonic) The lion makes a terrifying roar that deals 2d8 sonic damage (DC 23 Fortitude check save) to each creature in a @Template[cone|distance:20]. Creatures that fail this save become [[Conditions/Frightened|Frightened 1]]."
 
   - name: "Inhabit Vessel"
-    desc: "`pf2:2` (manipulate) The lion touches and melds with its bonded vessel, bringing the statue to life. It can cease Inhabiting its Vessel by spending a single action, which has the concentrate trait. While Inhabiting the Vessel, it loses its fly Speed and gains\n**Immunities** healing, nonlethal\n**Resistances** physical 5 (except bludgeoning),\n**Speed** 30 feet, and it gains the following Strikes:\n*   **Melee** `pf2:1` Jaws +14, **Damage** 2d6+7 bludgeoning plus [[Bestiary Ability Glossary/Grab|Grab]].\n*   **Ranged** `pf2:1` Stone Ball +13 (range increment 30 feet), **Damage** 2d4+7 bludgeoning."
+    desc: "`pf2:2` (manipulate) The lion touches and melds with its bonded vessel, bringing the statue to life. It can cease Inhabiting its Vessel by spending a single action, which has the concentrate trait. While Inhabiting the Vessel, it loses its fly Speed and gains\n\n**Immunities** healing, nonlethal\n\n**Resistances** physical 5 (except bludgeoning),\n\n**Speed** 30 feet, and it gains the following Strikes:\n\n*   **Melee** `pf2:1` Jaws +14, **Damage** 2d6+7 bludgeoning plus [[Bestiary Ability Glossary/Grab|Grab]].\n*   **Ranged** `pf2:1` Stone Ball +13 (range increment 30 feet), **Damage** 2d4+7 bludgeoning."
 
   - name: "Spirit Body"
     desc: "  When not Inhabiting its Vessel, the lion is incorporeal and gains resistance 5 to all damage (except force damage and damage from Strikes with the _[[Equipment/Ghost Touch|Ghost Touch]]_ property rune; double resistance against non-magical)."
  
+```
+
+```encounter-table
+name: Stone Lion
+creatures:
+  - 1: Stone Lion
 ```
 
 

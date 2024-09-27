@@ -10,7 +10,7 @@ license: OGL
 ---
 # Demilich Eye Gem
 ## Item 15
-### [rare](rare "Rare Rarity Trait")[[arcane]]
+### [rare](rare.md "Rare Rarity Trait")[[3-Rules/Rule References/Arcane]]
 
 
 **Price** 3000 gp; 

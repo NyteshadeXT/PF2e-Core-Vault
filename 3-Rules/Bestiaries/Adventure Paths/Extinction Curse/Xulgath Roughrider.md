@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/humanoid
   - pf2e/creature/type/xulgath
+  - pf2eMonster
   - pf2e/creature/level/11
 statblock: inline
 name: "Xulgath Roughrider"
@@ -26,10 +27,10 @@ level: "Creature 11"
 
 alignment: ""
 size: "Medium"
-trait_01: "chaotic"
-trait_02: "evil"
-trait_03: "humanoid"
-trait_04: "xulgath"
+trait_01: [[chaotic]]
+trait_02: [[evil]]
+trait_03: [[humanoid]]
+trait_04: [[xulgath]]
 modifier: 21
 perception:
   - name: "Perception"
@@ -37,7 +38,7 @@ perception:
 languages: "Draconic, Sakvroth"
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +21, Athletics: +22, Dinosaur Lore: +16, Intimidation: +18, Nature: +21 (+23 to Command an Animal), Survival: +19"
+    desc: "Acrobatics: +21, Athletics: +22, Intimidation: +18, Nature: +21, Survival: +19, Dinosaur Lore: +16"
 abilityMods: [5, 4, 3, -1, 4, 1]
 speed: 30 feet
 sourcebook: "_Pathfinder #154: Siege of the Dinosaurs_"
@@ -57,10 +58,10 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Hasty Sacrifice"
-    desc: "`pf2:r` (concentrate,move) **Prerequisite** The roughrider is mounted\n**Trigger** The roughrider is targeted with an attack from a creature they can see\n**Effect** The roughrider's mount becomes the target of the attack instead. The roughrider must succeed at a DC 5 Flat check check or they fall off their mount and land [[Conditions/Prone|Prone]]. If the check is a critical failure, the roughrider also takes 1d6 bludgeoning damage in addition to the normal damage from the fall."
+    desc: "`pf2:r` (concentrate,move) **Prerequisite** The roughrider is mounted\n\n**Trigger** The roughrider is targeted with an attack from a creature they can see\n* * *\n\n**Effect** The roughrider's mount becomes the target of the attack instead. The roughrider must succeed at a DC 5 Flat check check or they fall off their mount and land [[Conditions/Prone|Prone]]. If the check is a critical failure, the roughrider also takes 1d6 bludgeoning damage in addition to the normal damage from the fall."
 
   - name: "Powerful Stench"
-    desc: " (aura,olfactory) 30 feet. A creature that enters the area must attempt a DC 30 Fortitude check save. On a failure, the creature is [[Conditions/Sickened 1|Sickened 2]], and on a critical failure, the creature is also [[Conditions/Slowed 1|Slowed 1]] for as long as it is sickened. While within the aura, the creature takes a -2 circumstance penalty to saves to recover from the sickened condition. A creature that succeeds at its save is temporarily immune to all xulgaths' stenches for 1 minute."
+    desc: " (aura,olfactory) 30 feet. A creature that enters the area must attempt a DC 30 Fortitude check save. On a failure, the creature is [[Conditions/Sickened|Sickened 2]], and on a critical failure, the creature is also [[Conditions/Slowed|Slowed 1]] for as long as it is sickened. While within the aura, the creature takes a -2 circumstance penalty to saves to recover from the sickened condition. A creature that succeeds at its save is temporarily immune to all xulgaths' stenches for 1 minute."
 
 attacks:
   - name: ""
@@ -83,6 +84,12 @@ attacks:
   - name: "Mounted Superiority"
     desc: "  A mounted xulgath's Strikes deal an additional 1d10 damage to creatures that aren't mounted."
  
+```
+
+```encounter-table
+name: Xulgath Roughrider
+creatures:
+  - 1: Xulgath Roughrider
 ```
 
 

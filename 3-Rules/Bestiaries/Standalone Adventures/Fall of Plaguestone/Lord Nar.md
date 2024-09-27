@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/humanoid
   - pf2e/creature/type/orc
+  - pf2eMonster
   - pf2e/creature/level/4
 statblock: inline
 name: "Lord Nar"
@@ -23,13 +24,13 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Adventure: The Fall of Plaguestone"
 name: "Lord Nar"
 level: "Creature 4"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Medium"
-trait_01: "chaotic"
-trait_02: "evil"
-trait_03: "humanoid"
-trait_04: "orc"
+trait_01: [[chaotic]]
+trait_02: [[evil]]
+trait_03: [[humanoid]]
+trait_04: [[orc]]
 modifier: 9
 perception:
   - name: "Perception"
@@ -72,11 +73,17 @@ attacks:
     desc: "`pf2:1` Hatchet +10 (agile, sweep, thrown 10 ft.)\n__Damage__  1d6 + 5 slashing"
 
   - name: "No Escape"
-    desc: "`pf2:r`  **Trigger** An adjacent foe moves away.\n**Effect** Lord Nar may move up to his speed but must end his move as close to the triggering creature as possible without entering the triggering creature's square."
+    desc: "`pf2:r`  **Trigger** An adjacent foe moves away.\n* * *\n\n**Effect** Lord Nar may move up to his speed but must end his move as close to the triggering creature as possible without entering the triggering creature's square."
 
   - name: "Rage"
-    desc: "`pf2:1`  Lord Nar flies into a rage that lasts 1 minute and grants him 8 temporary Hit Points, 4 additional damage with his listed attacks, and a -1 penalty to AC.\nHe cannot use actions that have the concentrate trait while raging, unless they also have the rage trait.\nOnce his rage ends, Nar cannot Rage again for 1 minute.\n[[Feat_Feature Effects/Effect_ Rage|Effect: Rage]]"
+    desc: "`pf2:1`  Lord Nar flies into a rage that lasts 1 minute and grants him 8 temporary Hit Points, 4 additional damage with his listed attacks, and a -1 penalty to AC.\n\nHe cannot use actions that have the concentrate trait while raging, unless they also have the rage trait.\n\nOnce his rage ends, Nar cannot Rage again for 1 minute.\n\n[[Feat_Feature Effects/Effect_ Rage|Effect: Rage]]"
  
+```
+
+```encounter-table
+name: Lord Nar
+creatures:
+  - 1: Lord Nar
 ```
 
 

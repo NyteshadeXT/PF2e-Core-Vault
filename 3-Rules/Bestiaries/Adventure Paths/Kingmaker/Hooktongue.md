@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.kingmaker-bestiary.Actor.BEo6xNEhEKPsUzIn"
 tags:
   - pf2e/creature/type/animal
   - pf2e/creature/type/aquatic
+  - pf2eMonster
   - pf2e/creature/level/14
 statblock: inline
 name: "Hooktongue"
@@ -21,16 +22,16 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Kingmaker"
 name: "Hooktongue"
 level: "Creature 14"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "huge"
-trait_01: "animal"
-trait_02: "aquatic"
+trait_01: [[animal]]
+trait_02: [[aquatic]]
 modifier: 25
 perception:
   - name: "Perception"
     desc: "+25; Darkvision"
-languages: "Thalassic"
+languages: "Thalassic; can&#x27;t speak any language"
 skills:
   - name: "Skills"
     desc: "Athletics: +28, Stealth: +27"
@@ -50,7 +51,7 @@ abilities_top:
   - name: ""
 
   - name: "Slow Metabolism"
-    desc: "  Hooktongue can go for 10 years without feeding. After this, its hunger makes it [[Conditions/Slowed 1|Slowed 1]] but doesn't otherwise impact its lifespan. If Hooktongue is slowed as a result of starvation, it can remove this condition by using Swallow Whole to gulp down a meal."
+    desc: "  Hooktongue can go for 10 years without feeding. After this, its hunger makes it [[Conditions/Slowed|Slowed 1]] but doesn't otherwise impact its lifespan. If Hooktongue is slowed as a result of starvation, it can remove this condition by using Swallow Whole to gulp down a meal."
 
   - name: "Undetectable"
     desc: " (detection,primal,revelation,scrying) Hooktongue automatically tries to counteract any detection, revelation, or scrying divination attempted against it, using its Stealth modifier for the counteract check."
@@ -70,13 +71,13 @@ attacks:
     desc: "`pf2:1` (attack) Hooktongue attempts to capsize an aquatic vessel of its size or smaller that it's adjacent to. It must succeed at an Athletics check with a DC of 35 or the pilot's Sailing Lore DC, whichever is higher."
 
   - name: "Hooktongue Venom"
-    desc: " (poison) **Saving Throw** DC 34 Fortitude check\n**Maximum Duration** 6 rounds\n**Stage 1** 2d6 poison damage and [[Conditions/Clumsy 1|Clumsy 1]] (1 round)\n**Stage 2** 3d6 poison damage, clumsy 1, and [[Conditions/Confused|Confused]] (1 round)\n**Stage 3** 4d6 poison damage, [[Conditions/Clumsy 1|Clumsy 2]], and confused (1 round)"
+    desc: " (poison) **Saving Throw** DC 34 Fortitude check\n\n**Maximum Duration** 6 rounds\n\n**Stage 1** 2d6 poison damage and [[Conditions/Clumsy|Clumsy 1]] (1 round)\n\n**Stage 2** 3d6 poison damage, clumsy 1, and [[Conditions/Confused|Confused]] (1 round)\n\n**Stage 3** 4d6 poison damage, [[Conditions/Clumsy|Clumsy 2]], and confused (1 round)"
 
   - name: "Poison Spray"
-    desc: "`pf2:2` (poison,primal) Hooktongue sprays poison from its throat in an 80-foot line that deals 15d6 poison damage (DC 34 Reflex check). A creature that fails or critically fails this save is exposed to Hooktongue Venom as well. Hooktongue can't use Poison Spray again for 1d4 rounds."
+    desc: "`pf2:2` (poison,primal) Hooktongue sprays poison from its throat in an @Template[line|distance:80] that deals 15d6 poison damage (DC 34 Reflex check). A creature that fails or critically fails this save is exposed to Hooktongue Venom as well. Hooktongue can't use Poison Spray again for 1d4 rounds."
 
   - name: "[[Bestiary Ability Glossary/Swallow Whole|Swallow Whole]]"
-    desc: "`pf2:1` (attack) Large, 2d10 + 10 bludgeoning damage, Rupture 28\n"
+    desc: "`pf2:1` (attack) Large, 2d10+10 bludgeoning damage, Rupture 28\n\n* * *\n"
 
   - name: "Water Travel"
     desc: "`pf2:3` (primal,water) Hooktongue dissolves into water, appearing only as a long, serpentine silhouette on the waves. While in this form, Hooktongue's swim Speed increases to 600 feet, it automatically succeeds at Athletics checks to [[Actions/Swim|Swim]], and it gains a +4 circumstance bonus to Stealth checks in water. Hooktongue can remain in this form for 8 hours but can't enter salt water when using this ability. Hooktongue can return to its normal form using a single action, which has the concentrate trait."
@@ -84,6 +85,12 @@ attacks:
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
     desc: "`pf2:1`  "
  
+```
+
+```encounter-table
+name: Hooktongue
+creatures:
+  - 1: Hooktongue
 ```
 
 

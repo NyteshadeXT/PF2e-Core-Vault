@@ -13,7 +13,7 @@ license: ORC
 ---
 # Devoted Vestments
 ## Item 11
-### [[divine]][[focused]][[invested]]
+### [[3-Rules/Rule References/Divine]][[focused]][[invested]]
 
 
 **Price** 1250 gp; 

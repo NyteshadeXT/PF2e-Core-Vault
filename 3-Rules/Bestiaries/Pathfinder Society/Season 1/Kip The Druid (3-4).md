@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.pfs-season-1-bestiary.Actor.QUimZFYGY12QjoC4"
 tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/halfling
+  - pf2eMonster
   - pf2e/creature/level/4
 statblock: inline
 name: "Kip The Druid (3-4)"
@@ -24,12 +25,13 @@ level: "Creature 4"
 
 alignment: ""
 size: "Small"
-trait_01: "evil"
-trait_02: "halfling"
+trait_01: [[evil]]
+trait_02: [[halfling]]
 modifier: 12
 perception:
   - name: "Perception"
     desc: "+12; Low-Light Vision, Scent (Imprecise) 30 Feet"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Acrobatics: +5, Athletics: +4, Intimidation: +7, Nature: +10, Stealth: +5, Survival: +10"
@@ -66,6 +68,12 @@ attacks:
   - name: "Druid Order Spells"
     desc: "1 Focus Point, DC 20, attack +10; __2nd __ (1 slots) _[[Spells/Untamed Shift|Wild Morph]]_"
  
+```
+
+```encounter-table
+name: Kip The Druid (3-4)
+creatures:
+  - 1: Kip The Druid (3-4)
 ```
 
 

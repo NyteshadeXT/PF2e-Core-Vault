@@ -6,8 +6,9 @@ tags:
   - trait/lizardfolk
   - trait/common
   - category/ancestry
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.IY86Kvopp4ACuQsw"
-license: OGL
+license: ORC
 ---
 # Envenom Fangs `pf2:1`
 ## Feat 5
@@ -17,13 +18,13 @@ license: OGL
 
 
 
-**Prerequisites** Sharp Fangs
+**Prerequisites** Iruxi Armaments (Fangs)
 * * *
-**Frequency** a number of times per day equal to your level
+**Frequency** once per hour
 
 * * *
 
-You envenom your fangs. If the next fangs Strike you make before the end of your next turn hits and deals damage, the Strike deals an additional 1d6 poison damage. On a critical failure, the poison is wasted as normal.
+You envenom your fangs. If the next fangs Strike you make before the end of your next turn hits and deals damage, the Strike deals an additional 1d6 persistent poison damage. The poison becomes inert after you hit, or at the end of your next turn, whichever comes first.
 
-*Source: Pathfinder Lost Omens: Character Guide*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

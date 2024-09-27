@@ -6,6 +6,7 @@ cssClasses: pf2e
 aliases: "Compendium.pf2e.pathfinder-bestiary-3.Actor.lrSuRCrRjP3xBfRy" 
 tags:
   - pf2e/creature/type/animal
+  - pf2eMonster
   - pf2e/creature/level/5
 statblock: inline
 name: "Megatherium"
@@ -24,11 +25,12 @@ level: "Creature 5"
 
 alignment: ""
 size: "huge"
-trait_01: "animal"
+trait_01: [[animal]]
 modifier: 13
 perception:
   - name: "Perception"
     desc: "+13; Low-Light Vision, Scent (Imprecise) 60 Feet"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Athletics: +16, Stealth: +9, Survival: +11"
@@ -50,7 +52,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Musk"
-    desc: " (aura,olfactory) 20 feet. A creature entering the aura or starting its turn in the aura must succeed at a DC 19 Fortitude check save or become [[Conditions/Sickened 1|Sickened 1]].\nWhile inside the aura, affected creatures take a -1 circumstance penalty to recover from the sickened condition. A creature that succeeds at its save is temporarily immune for 1 minute."
+    desc: " (aura,olfactory) 20 feet. A creature entering the aura or starting its turn in the aura must succeed at a DC 19 Fortitude check save or become [[Conditions/Sickened|Sickened 1]].\n\nWhile inside the aura, affected creatures take a -1 circumstance penalty to recover from the sickened condition. A creature that succeeds at its save is temporarily immune for 1 minute."
 
 attacks:
   - name: ""
@@ -62,11 +64,17 @@ attacks:
     desc: "`pf2:1` Foot +15 (agile)\n__Damage__  2d6 + 8 bludgeoning"
 
   - name: "[[Bestiary Ability Glossary/Rend|Rend]]"
-    desc: "`pf2:1`  Claw\n"
+    desc: "`pf2:1`  Claw\n\n* * *\n"
 
   - name: "[[Bestiary Ability Glossary/Knockdown|Knockdown]]"
     desc: "`pf2:1`  "
  
+```
+
+```encounter-table
+name: Megatherium
+creatures:
+  - 1: Megatherium
 ```
 
 

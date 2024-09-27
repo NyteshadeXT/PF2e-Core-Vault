@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/human
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/5
 statblock: inline
 name: "Hateful Hermit"
@@ -23,13 +24,13 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Kingmaker"
 name: "Hateful Hermit"
 level: "Creature 5"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Medium"
-trait_01: "chaotic"
-trait_02: "evil"
-trait_03: "human"
-trait_04: "humanoid"
+trait_01: [[chaotic]]
+trait_02: [[evil]]
+trait_03: [[human]]
+trait_04: [[humanoid]]
 modifier: 11
 perception:
   - name: "Perception"
@@ -69,7 +70,7 @@ attacks:
     desc: "`pf2:1` Blowgun +13 (agile, nonlethal, range increment 20 feet, reload 1)\n__Damage__  1 piercing plus graveroot"
 
   - name: "Focus Hatred"
-    desc: "`pf2:1` (emotion,mental) The hateful hermit unleashes a vexing stream of profanities and threats at a single foe he can see within 30 feet. The hermit gains a +1 circumstance bonus on all attack rolls made against that target until he chooses a different target to Focus Hatred on. The target must attempt a DC 22 Will check save, with the below effects. The hateful hermit cannot Focus Hatred again for 1d4 rounds.\n**Critical Success** The target is unaffected and is temporarily immune to Focus Hatred for 24 hours.\n**Success** The target is distracted by the hatred and is [[Conditions/Off-Guard|Off-Guard]] against the hermit's next attack.\n**Failure** The hermit's words unnerve the target and distract them; the target is off-guard until the end of the hateful hermit's next turn.\n**Critical Failure** As failure, but the target is off-guard for 1 minute."
+    desc: "`pf2:1` (emotion,mental) The hateful hermit unleashes a vexing stream of profanities and threats at a single foe he can see within 30 feet. The hermit gains a +1 circumstance bonus on all attack rolls made against that target until he chooses a different target to Focus Hatred on. The target must attempt a DC 22 Will check save, with the below effects. The hateful hermit cannot Focus Hatred again for 1d4 rounds.\n* * *\n\n**Critical Success** The target is unaffected and is temporarily immune to Focus Hatred for 24 hours.\n\n**Success** The target is distracted by the hatred and is [[Conditions/Off-Guard|Off-Guard]] against the hermit's next attack.\n\n**Failure** The hermit's words unnerve the target and distract them; the target is off-guard until the end of the hateful hermit's next turn.\n\n**Critical Failure** As failure, but the target is off-guard for 1 minute."
 
   - name: "[[Bestiary Ability Glossary/Sneak Attack|Sneak Attack]]"
     desc: "  The hateful hermit deals 2d6 extra precision damage to [[Conditions/Off-Guard|Off-Guard]] creatures."
@@ -77,6 +78,12 @@ attacks:
   - name: "Trackless Step"
     desc: "  The hateful hermit always gains the benefits of [[Actions/Cover Tracks|Cover Tracks]] in natural surroundings, even when moving at full speed."
  
+```
+
+```encounter-table
+name: Hateful Hermit
+creatures:
+  - 1: Hateful Hermit
 ```
 
 

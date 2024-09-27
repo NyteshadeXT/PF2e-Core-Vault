@@ -36,7 +36,7 @@ The blade of this _+2 greater striking wounding scythe_ is sharp enough to produ
 
 * * *
 
-**Effect** As the scythe leaves your hand, it drinks the triggering creature's blood. The creature must succeed at a DC 30 Fortitude check save or become [[Conditions/Drained 1|Drained 2]] ([[Conditions/Drained 1|Drained 3]] on a critical failure). If the triggering creature becomes drained, you gain temporary Hit Points equal to the triggering creature's level. You lose any remaining temporary Hit Points after 1 minute.
+**Effect** As the scythe leaves your hand, it drinks the triggering creature's blood. The creature must succeed at a DC 30 Fortitude check save or become [[Conditions/Drained|Drained 2]] ([[Conditions/Drained|Drained 3]] on a critical failure). If the triggering creature becomes drained, you gain temporary Hit Points equal to the triggering creature's level. You lose any remaining temporary Hit Points after 1 minute.
 
 * * *
 

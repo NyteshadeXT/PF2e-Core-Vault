@@ -6,6 +6,7 @@ cssClasses: pf2e
 aliases: "Compendium.pf2e.pathfinder-monster-core.Actor.WBPEvEqIGvxeQKlp" 
 tags:
   - pf2e/creature/type/animal
+  - pf2eMonster
   - pf2e/creature/level/-1
   - remaster
 statblock: inline
@@ -25,7 +26,7 @@ level: "Creature -1"
 
 alignment: ""
 size: "Small"
-trait_01: "animal"
+trait_01: [[animal]]
 modifier: 6
 perception:
   - name: "Perception"
@@ -63,6 +64,12 @@ attacks:
   - name: "Eagle Dive"
     desc: "`pf2:2`  The eagle [[Actions/Fly|Flies]] up to double its fly Speed in a straight line, descending at least 10 feet, and then makes a talon Strike."
  
+```
+
+```encounter-table
+name: Eagle
+creatures:
+  - 1: Eagle
 ```
 
 

@@ -7,12 +7,13 @@ tags:
   - trait/manipulate
   - trait/
   - category/defensive
+  - remaster
 aliases: "Compendium.pf2e.actionspf2e.Item.Gu0QsFvWoR9EP5SE"
-license: OGL
+license: ORC
 ---
 # Swirl Crimson Shroud `pf2:1`
 
-### [[general]][[manipulate]]
+### [[general]][[3-Rules/Rule References/Manipulate]]
 
 **Category** defensive; 
 
@@ -21,5 +22,5 @@ license: OGL
 
 You can Interact with your shroud, swirling it around you, to gain a +1 circumstance bonus to AC until the beginning of your next turn.
 
-*Source: Pathfinder Lost Omens: World Guide*
-*OGL*
+*Source: Pathfinder Adventure: Prey for Death*
+*ORC*

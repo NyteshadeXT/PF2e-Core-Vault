@@ -31,11 +31,11 @@ A mix of digestive juices and green dragon poison glands nauseates the victim as
 
 **Maximum Duration** 6 rounds
 
-**Stage 1** 6d6 poison damage and [[Conditions/Sickened 1|Sickened 2]] (1 round)
+**Stage 1** 6d6 poison damage and [[Conditions/Sickened|Sickened 2]] (1 round)
 
-**Stage 2** 7d6 poison damage and [[Conditions/Sickened 1|Sickened 3]] (1 round)
+**Stage 2** 7d6 poison damage and [[Conditions/Sickened|Sickened 3]] (1 round)
 
-**Stage 3** 9d6 poison damage and [[Conditions/Sickened 1|Sickened 4]] (1 round)
+**Stage 3** 9d6 poison damage and [[Conditions/Sickened|Sickened 4]] (1 round)
 
 *Source: Pathfinder Core Rulebook*
 *OGL*

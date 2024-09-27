@@ -6,8 +6,9 @@ tags:
   - trait/alchemist
   - trait/common
   - category/class
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.HBhLR980Q0cb2rxp"
-license: OGL
+license: ORC
 ---
 # Perfect Debilitation
 ## Feat 18
@@ -18,9 +19,7 @@ license: OGL
 
 
 
-You have perfected the formulas for bombs that impede your enemies.
+You have perfected the formulas for bombs that impede your enemies. When you use [[Feats/Debilitating Bomb|Debilitating Bomb]], your target avoids the condition the bomb imposes only if it critically succeeds at its saving throw.
 
-When you use [[Feats/Debilitating Bomb|Debilitating Bomb]], your target avoids the condition the bomb imposes only if it critically succeeds at its saving throw.
-
-*Source: Pathfinder Core Rulebook*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

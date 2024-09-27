@@ -6,8 +6,9 @@ tags:
   - trait/monk
   - trait/common
   - category/class
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.nBWoZ311FXFJC8Zl"
-license: OGL
+license: ORC
 ---
 # Dodging Roll `pf2:r`
 ## Feat 12
@@ -27,5 +28,5 @@ You dodge a blow at the last possible moment.
 
 You [[Actions/Step|Step]] and gain resistance to all damage equal to your level against the triggering effect. If your Step moves you out of the triggering effect's area, this resistance is instead equal to your level plus your Dexterity modifier.
 
-*Source: Pathfinder Advanced Player's Guide*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

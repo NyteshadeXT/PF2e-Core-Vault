@@ -24,7 +24,7 @@ license: OGL
 
 * * *
 
-**Effect** You channel salt and brine from your blood into the creature's wounds. The creature must attempt a Fortitude check using your class DC or spell DC, whichever is higher. On a failure, the creature takes 1d6 persistent acid damage and is [[Conditions/Sickened 1|Sickened 1]] by the pain. On a critical failure, it instead takes 2d6 persistent acid damage and is [[Conditions/Sickened 1|Sickened 2]].
+**Effect** You channel salt and brine from your blood into the creature's wounds. The creature must attempt a Fortitude check using your class DC or spell DC, whichever is higher. On a failure, the creature takes 1d6 persistent acid damage and is [[Conditions/Sickened|Sickened 1]] by the pain. On a critical failure, it instead takes 2d6 persistent acid damage and is [[Conditions/Sickened|Sickened 2]].
 
 *Source: Pathfinder Lost Omens: Ancestry Guide*
 *OGL*

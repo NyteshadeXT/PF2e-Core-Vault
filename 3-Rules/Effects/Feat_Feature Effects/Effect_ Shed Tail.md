@@ -4,8 +4,9 @@ title: "Effect: Shed Tail"
 cssclasses: pf2e,pf2e-spell
 tags:
   - trait/common
+  - remaster
 aliases: "Compendium.pf2e.feat-effects.Item.OK7zMlYy25JciBp6"
-license: OGL
+license: ORC
 ---
 # Effect: Shed Tail
 ## Level 1
@@ -18,5 +19,5 @@ license: OGL
 
 You take a -2 circumstance penalty on checks to Balance.
 
-*Source: Pathfinder Lost Omens: Character Guide*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

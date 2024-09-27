@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/giant
   - pf2e/creature/type/troll
   - pf2e/creature/type/wood
+  - pf2eMonster
   - pf2e/creature/level/9
   - remaster
 statblock: inline
@@ -23,12 +24,12 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Rage of Elements"
 name: "Nightwood Guardian"
 level: "Creature 9"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Large"
-trait_01: "giant"
-trait_02: "troll"
-trait_03: "wood"
+trait_01: [[giant]]
+trait_02: [[troll]]
+trait_03: [[wood]]
 modifier: 17
 perception:
   - name: "Perception"
@@ -56,7 +57,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Fire-fueled Rage"
-    desc: "  When a nightwood guardian takes fire damage, they become enraged. The guardian gains 15 temporary Hit Points, deals 2 additional damage with melee Strikes, and has a –1 penalty to AC. They can't Raise their Shield or use actions with the concentrate trait except for [[Actions/Seek|Seek]]. This effect ends when the nightwood guardian no longer observes any fire for 1 round or when they fall [[Conditions/Unconscious|Unconscious]], whichever comes first.\n[[Feat_Feature Effects/Effect_ Rage|Effect: Rage]]"
+    desc: "  When a nightwood guardian takes fire damage, they become enraged. The guardian gains 15 temporary Hit Points, deals 2 additional damage with melee Strikes, and has a –1 penalty to AC. They can't Raise their Shield or use actions with the concentrate trait except for [[Actions/Seek|Seek]]. This effect ends when the nightwood guardian no longer observes any fire for 1 round or when they fall [[Conditions/Unconscious|Unconscious]], whichever comes first.\n* * *\n\n[[Feat_Feature Effects/Effect_ Rage|Effect: Rage]]"
 
   - name: "Flesh of Wood"
     desc: " (primal,wood) Wounds inflicted on a nightwood guardian turn their flesh to wood. When the guardian is reduced to 40 HP or fewer, their body becomes solid wood. They are stunned, have resistance 10 to all damage, and have regeneration 40 (deactivated by fire). This ends once the guardian has 100 HP or more, though they can choose to stay in this form indefinitely."
@@ -80,8 +81,14 @@ attacks:
     desc: "`pf2:1` Jaws +21 ()\n__Damage__  2d12 + 6 piercing"
 
   - name: "Nightwood Roar"
-    desc: "`pf2:2` (concentrate,darkness,primal) **Frequency** once per hour;\n**Effect** The guardian roars, snuffing out lights in a 30-foot cone. Ordinary flames and lights are extinguished, and the guardian attempts to counteract any magical light with a +21 counteract modifier and a counteract rank of 5."
+    desc: "`pf2:2` (concentrate,darkness,primal) **Frequency** once per hour;\n* * *\n\n**Effect** The guardian roars, snuffing out lights in a @Template[cone|distance:30]. Ordinary flames and lights are extinguished, and the guardian attempts to counteract any magical light with a +21 counteract modifier and a counteract rank of 5."
  
+```
+
+```encounter-table
+name: Nightwood Guardian
+creatures:
+  - 1: Nightwood Guardian
 ```
 
 

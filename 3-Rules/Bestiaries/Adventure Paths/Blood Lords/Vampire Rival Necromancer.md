@@ -12,6 +12,7 @@ tags:
   - pf2e/creature/type/undead
   - pf2e/creature/type/unholy
   - pf2e/creature/type/vampire
+  - pf2eMonster
   - pf2e/creature/level/16
 statblock: inline
 name: "Vampire Rival Necromancer"
@@ -26,16 +27,16 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #186: Ghost King&#x27;s Rage"
 name: "Vampire Rival Necromancer"
 level: "Creature 16"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Medium"
-trait_01: "chaotic"
-trait_02: "evil"
-trait_03: "human"
-trait_04: "humanoid"
-trait_05: "undead"
-trait_06: "unholy"
-trait_07: "vampire"
+trait_01: [[chaotic]]
+trait_02: [[evil]]
+trait_03: [[human]]
+trait_04: [[humanoid]]
+trait_05: [[undead]]
+trait_06: [[unholy]]
+trait_07: [[vampire]]
 modifier: 28
 perception:
   - name: "Perception"
@@ -81,17 +82,23 @@ attacks:
     desc: "2 Focus Points, DC 41, attack +33; __8th __  _[[Spells/Call of the Grave|Call of the Grave]]_, _[[Spells/Life Siphon|Life Siphon]]_"
 
   - name: "Bolster Dead"
-    desc: "  **Frequency** once per turn\n**Requirements** Your most recent action was to cast a non-cantrip necromancy spell\n**Effect** You harness the residual energy from the spell you last cast into the body of an undead creature within 30 feet. That creature's resistances increase by an amount equal to the rank of the spell cast until the beginning of the next turn."
+    desc: "  **Frequency** once per turn\n\n**Requirements** Your most recent action was to cast a non-cantrip necromancy spell\n* * *\n\n**Effect** You harness the residual energy from the spell you last cast into the body of an undead creature within 30 feet. That creature's resistances increase by an amount equal to the rank of the spell cast until the beginning of the next turn."
 
   - name: "Drain Bonded Item"
-    desc: " (arcane) **Frequency** once per day\n**Requirements** The necromancer hasn't acted yet on this turn\n**Effect** The necromancer expends the power stored in their dagger. This gives them the ability to cast one prepared spell they prepared today and already cast, without spending a spell slot."
+    desc: " (arcane) **Frequency** once per day\n\n**Requirements** The necromancer hasn't acted yet on this turn\n* * *\n\n**Effect** The necromancer expends the power stored in their dagger. This gives them the ability to cast one prepared spell they prepared today and already cast, without spending a spell slot."
 
   - name: "Feed"
-    desc: "`pf2:1` (divine) **Requirements** The vampiric creature's most recent action was a successful jaws Strike that dealt damage\n**Effect** The vampiric creature drains blood from its victim, dealing minimum jaws damage and regaining 10 Hit Points."
+    desc: "`pf2:1` (divine) **Requirements** The vampiric creature's most recent action was a successful jaws Strike that dealt damage\n* * *\n\n**Effect** The vampiric creature drains blood from its victim, dealing minimum jaws damage and regaining 10 Hit Points."
 
   - name: "Flamboyant Reposition"
     desc: "`pf2:1` (visual) With a flourish, a celebrant shrouds themself in a puff of smoke, glitter, or colorful ribbons. If the celebrant is adjacent to an enemy, they attempt to [[Actions/Feint|Feint]] that adjacent enemy. The celebrant Steps or Strides; they're [[Conditions/Concealed|Concealed]] during this movement."
  
+```
+
+```encounter-table
+name: Vampire Rival Necromancer
+creatures:
+  - 1: Vampire Rival Necromancer
 ```
 
 

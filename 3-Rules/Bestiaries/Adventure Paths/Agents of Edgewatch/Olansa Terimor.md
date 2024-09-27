@@ -10,6 +10,7 @@ tags:
   - pf2e/creature/type/human
   - pf2e/creature/type/humanoid
   - pf2e/creature/type/unholy
+  - pf2eMonster
   - pf2e/creature/level/23
 statblock: inline
 name: "Olansa Terimor"
@@ -24,14 +25,14 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #162: Ruins of the Radiant Siege"
 name: "Olansa Terimor"
 level: "Creature 23"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Medium"
-trait_01: "daemon"
-trait_02: "evil"
-trait_03: "human"
-trait_04: "humanoid"
-trait_05: "unholy"
+trait_01: [[daemon]]
+trait_02: [[evil]]
+trait_03: [[human]]
+trait_04: [[humanoid]]
+trait_05: [[unholy]]
 modifier: 43
 perception:
   - name: "Perception"
@@ -62,10 +63,10 @@ abilities_mid:
     desc: "`pf2:r`  "
 
   - name: "Hidden Paragon"
-    desc: "`pf2:r`  **Frequency** once per hour\n**Trigger** Olansa successfully uses Stealth to [[Actions/Hide|Hide]] and become hidden from all of her current foes, or she uses Stealth to [[Actions/Sneak|Sneak]] and become undetected to all her current foes\n**Effect** Olansa becomes [[Conditions/Invisible|Invisible]] for 1 minute, even if she uses a hostile action. Not even [[Spells/Revealing Light|Revealing Light]], [[Spells/See the Unseen|See the Unseen]], or similar effects can reveal her, though creatures can still use the [[Actions/Seek|Seek]] action to locate her."
+    desc: "`pf2:r`  **Frequency** once per hour\n\n**Trigger** Olansa successfully uses Stealth to [[Actions/Hide|Hide]] and become hidden from all of her current foes, or she uses Stealth to [[Actions/Sneak|Sneak]] and become undetected to all her current foes\n* * *\n\n**Effect** Olansa becomes [[Conditions/Invisible|Invisible]] for 1 minute, even if she uses a hostile action. Not even [[Spells/Revealing Light|Revealing Light]], [[Spells/See the Unseen|See the Unseen]], or similar effects can reveal her, though creatures can still use the [[Actions/Seek|Seek]] action to locate her."
 
   - name: "Opportune Backstab"
-    desc: "`pf2:r`  **Trigger** A creature within Olansa's melee reach is hit by a melee attack from one of her allies\n**Effect** Olansa Strikes the triggering creature."
+    desc: "`pf2:r`  **Trigger** A creature within Olansa's melee reach is hit by a melee attack from one of her allies\n* * *\n\n**Effect** Olansa Strikes the triggering creature."
 
 attacks:
   - name: ""
@@ -80,11 +81,17 @@ attacks:
     desc: "DC 47, attack +37; __10th __  _[[Spells/Miracle|Miracle]]_; __9th __  _[[Spells/Foresight|Foresight]]_; __8th __  _[[Spells/Divine Aura|Divine Aura]]_, _[[Spells/Moment of Renewal|Moment of Renewal]]_; __7th __  _[[Spells/Energy Aegis|Energy Aegis]]_, _[[Spells/Execute|Finger of Death]]_; __6th __  _[[Spells/Slow|Slow]]_, _[[Spells/Teleport|Teleport (At Will) (Self Only) (Only within Terimor's Tower)]]_; __5th __  _[[Spells/Banishment|Banishment]]_; __4th __  _[[Spells/Planar Tether|Dimensional Anchor]]_, _[[Spells/Mountain Resilience|Stoneskin]]_\n__Constant__  __(6th)__ _[[Spells/Truesight|True Seeing]]_ __(5th)__ _[[Spells/Gecko Grip|Spider Climb]]_ __(4th)__ _[[Spells/Unfettered Movement|Freedom of Movement]]_"
 
   - name: "[[Bestiary Ability Glossary/Change Shape|Change Shape]]"
-    desc: "`pf2:1` (concentrate,divine,polymorph) Olansa's true form is that of a monstrous spiderlike daemon. Olansa can still take on her former human appearance. This doesn't change her Speed or her attack and damage modifiers with her Strikes.\n"
+    desc: "`pf2:1` (concentrate,divine,polymorph) Olansa's true form is that of a monstrous spiderlike daemon. Olansa can still take on her former human appearance. This doesn't change her Speed or her attack and damage modifiers with her Strikes.\n\n* * *\n"
 
   - name: "[[Bestiary Ability Glossary/Sneak Attack|Sneak Attack]]"
     desc: "  Olansa deals 4d6 extra precision damage to [[Conditions/Off-Guard|Off-Guard]] creatures."
  
+```
+
+```encounter-table
+name: Olansa Terimor
+creatures:
+  - 1: Olansa Terimor
 ```
 
 

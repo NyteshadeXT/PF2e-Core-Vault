@@ -10,6 +10,7 @@ tags:
   - pf2e/creature/type/chaotic
   - pf2e/creature/type/fey
   - pf2e/creature/type/water
+  - pf2eMonster
   - pf2e/creature/level/7
 statblock: inline
 name: "Great Grodair"
@@ -24,14 +25,14 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #170: Spoken on the Song Wind"
 name: "Great Grodair"
 level: "Creature 7"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Large"
-trait_01: "amphibious"
-trait_02: "beast"
-trait_03: "chaotic"
-trait_04: "fey"
-trait_05: "water"
+trait_01: [[amphibious]]
+trait_02: [[beast]]
+trait_03: [[chaotic]]
+trait_04: [[fey]]
+trait_05: [[water]]
 modifier: 16
 perception:
   - name: "Perception"
@@ -58,7 +59,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Death Flood"
-    desc: " (primal,water) When the great grodair dies, his body explodes in a blast of pressurized water that deals 6d6 bludgeoning damage to creatures within a 15-foot emanation (DC 25 Reflex check save). A creature that fails its save is pushed 5 feet (or 10 feet on a critical failure)."
+    desc: " (primal,water) When the great grodair dies, his body explodes in a blast of pressurized water that deals 6d6 bludgeoning damage to creatures within a @Template[emanation|distance:15] (DC 25 Reflex check save). A creature that fails its save is pushed 5 feet (or 10 feet on a critical failure)."
 
 attacks:
   - name: ""
@@ -76,7 +77,7 @@ attacks:
     desc: "DC 25, attack +15; __5th __ (1 slots) _[[Spells/Control Water|Control Water]]_"
 
   - name: "Muddy Field"
-    desc: "`pf2:1` (primal,water) The great grodair transforms all soil, sand, or similar sediment in a 10-foot emanation into mud for 1 round. This mud is difficult terrain for creatures other than grodairs."
+    desc: "`pf2:1` (primal,water) The great grodair transforms all soil, sand, or similar sediment in a @Template[emanation|distance:10] into mud for 1 round. This mud is difficult terrain for creatures other than grodairs."
 
   - name: "Organ of Endless Water"
     desc: "`pf2:1` (manipulate,primal,water) The great grodair causes water to pour from a magical sac on his spine, either a stream of water at a rate of 1 gallon per round, or a fountain in a 5-foot-long stream at a rate of 5 gallons per round. He can stop the flow of water as a single action."
@@ -87,6 +88,12 @@ attacks:
   - name: "[[Bestiary Ability Glossary/Push|Push 10 feet]]"
     desc: "`pf2:1`  "
  
+```
+
+```encounter-table
+name: Great Grodair
+creatures:
+  - 1: Great Grodair
 ```
 
 

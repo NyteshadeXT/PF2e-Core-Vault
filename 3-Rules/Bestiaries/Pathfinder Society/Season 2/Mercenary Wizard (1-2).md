@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.pfs-season-2-bestiary.Actor.c4t6aDgo7pdMI7yN"
 tags:
   - pf2e/creature/type/human
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/1
 statblock: inline
 name: "Mercenary Wizard (1-2)"
@@ -21,11 +22,11 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Society Scenario #2-13: A Gilded Test"
 name: "Mercenary Wizard (1-2)"
 level: "Creature 1"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Medium"
-trait_01: "human"
-trait_02: "humanoid"
+trait_01: [[human]]
+trait_02: [[humanoid]]
 modifier: 6
 perception:
   - name: "Perception"
@@ -64,6 +65,12 @@ attacks:
   - name: "Focus Spells"
     desc: "1 Focus Point, DC 16, attack +6; __1st __ (1 slots) _[[Spells/Force Bolt|Force Bolt]]_"
  
+```
+
+```encounter-table
+name: Mercenary Wizard (1-2)
+creatures:
+  - 1: Mercenary Wizard (1-2)
 ```
 
 

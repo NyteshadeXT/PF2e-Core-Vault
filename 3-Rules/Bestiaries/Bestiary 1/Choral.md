@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/celestial
   - pf2e/creature/type/good
   - pf2e/creature/type/holy
+  - pf2eMonster
   - pf2e/creature/level/6
 statblock: inline
 name: "Choral"
@@ -27,15 +28,15 @@ level: "Creature 6"
 
 alignment: ""
 size: "Small"
-trait_01: "angel"
-trait_02: "celestial"
-trait_03: "good"
-trait_04: "holy"
+trait_01: [[angel]]
+trait_02: [[celestial]]
+trait_03: [[good]]
+trait_04: [[holy]]
 modifier: 14
 perception:
   - name: "Perception"
     desc: "+14; Darkvision"
-languages: "Diabolic, Draconic, Empyrean"
+languages: "Diabolic, Draconic, Empyrean; tongues"
 skills:
   - name: "Skills"
     desc: "Acrobatics: +12, Diplomacy: +15, Performance: +17, Religion: +14"
@@ -78,8 +79,14 @@ attacks:
     desc: "  On a critical hit with piercing hymn, the target is [[Conditions/Deafened|Deafened]] for one minute."
 
   - name: "Harmonize"
-    desc: "`pf2:1`  The choral angel adds its harmony to a choral angel ally within its harmonizing aura.\nThe ally can cast [[Spells/Calm|Calm]] or [[Spells/Heroism|Heroism]] on its next turn in place of its 3rd-rank [[Spells/Noise Blast|Noise Blast]] or heighten its 3rd-rank [[Spells/Noise Blast|Noise Blast]] by 1 level.\nIf five different choral angels use Harmonize on the same choral angel ally, it can instead cast [[Spells/Divine Decree|Divine Decree]] in place of its 3rd-rank [[Spells/Noise Blast|Noise Blast]]."
+    desc: "`pf2:1`  The choral angel adds its harmony to a choral angel ally within its harmonizing aura.\n\nThe ally can cast [[Spells/Calm|Calm]] or [[Spells/Heroism|Heroism]] on its next turn in place of its 3rd-rank [[Spells/Noise Blast|Noise Blast]] or heighten its 3rd-rank [[Spells/Noise Blast|Noise Blast]] by 1 level.\n\nIf five different choral angels use Harmonize on the same choral angel ally, it can instead cast [[Spells/Divine Decree|Divine Decree]] in place of its 3rd-rank [[Spells/Noise Blast|Noise Blast]]."
  
+```
+
+```encounter-table
+name: Choral
+creatures:
+  - 1: Choral
 ```
 
 

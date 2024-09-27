@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/human
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/3
 statblock: inline
 name: "Daughter of Cocytus Tough"
@@ -22,12 +23,12 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Society Scenario #2-23: An Agent&#x27;s Obligation"
 name: "Daughter of Cocytus Tough"
 level: "Creature 3"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Medium"
-trait_01: "evil"
-trait_02: "human"
-trait_03: "humanoid"
+trait_01: [[evil]]
+trait_02: [[human]]
+trait_03: [[humanoid]]
 modifier: 10
 perception:
   - name: "Perception"
@@ -73,8 +74,14 @@ attacks:
     desc: "  The Daughter of Cocytus tough deals an extra 1d6 precision damage to [[Conditions/Off-Guard|Off-Guard]] creatures."
 
   - name: "Unrelenting Beating"
-    desc: "  The Daughter of Cocytus tough's brutality shakes foes' confidence and may disorient them.\nWhen the Daughter of Cocytus tough deals damage on a critical hit, the target is [[Conditions/Frightened 1|Frightened 1]], and it must succeed at a DC 20 Fortitude check save or be [[Conditions/Slowed 1|Slowed 1]] until the end of the tough's next turn."
+    desc: "  The Daughter of Cocytus tough's brutality shakes foes' confidence and may disorient them.\n\nWhen the Daughter of Cocytus tough deals damage on a critical hit, the target is [[Conditions/Frightened|Frightened 1]], and it must succeed at a DC 20 Fortitude check save or be [[Conditions/Slowed|Slowed 1]] until the end of the tough's next turn."
  
+```
+
+```encounter-table
+name: Daughter of Cocytus Tough
+creatures:
+  - 1: Daughter of Cocytus Tough
 ```
 
 

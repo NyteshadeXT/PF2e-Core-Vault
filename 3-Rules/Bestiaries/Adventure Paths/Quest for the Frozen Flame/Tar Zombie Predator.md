@@ -10,6 +10,7 @@ tags:
   - pf2e/creature/type/undead
   - pf2e/creature/type/unholy
   - pf2e/creature/type/zombie
+  - pf2eMonster
   - pf2e/creature/level/7
 statblock: inline
 name: "Tar Zombie Predator"
@@ -24,21 +25,22 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #177: Burning Tundra"
 name: "Tar Zombie Predator"
 level: "Creature 7"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Large"
-trait_01: "evil"
-trait_02: "mindless"
-trait_03: "undead"
-trait_04: "unholy"
-trait_05: "zombie"
+trait_01: [[evil]]
+trait_02: [[mindless]]
+trait_03: [[undead]]
+trait_04: [[unholy]]
+trait_05: [[zombie]]
 modifier: 15
 perception:
   - name: "Perception"
     desc: "+15; Darkvision"
+languages: ""
 skills:
   - name: "Skills"
-    desc: "Athletics: +17, Stealth: +11 (+15 in tar pits)"
+    desc: "Athletics: +17, Stealth: +11"
 abilityMods: [6, 0, 4, -5, 2, -3]
 speed: 30 feet,  climb 10 feet
 sourcebook: "_Pathfinder #177: Burning Tundra_"
@@ -69,8 +71,14 @@ attacks:
     desc: "`pf2:2`  The tar zombie predator lurches at its foe. It Strides twice and makes a claw Strike, or strides once and makes two claw Strikes. Both Strikes count toward its multiple attack penalty as normal. It can't make a Tar-Spattered Charge again for 1d4 rounds."
 
   - name: "Vomit Tar"
-    desc: "`pf2:2` (primal) The tar zombie vomits a gout of sticky tar in a 15-foot cone that deals 6d6 bludgeoning damage ((DC 25 Reflex check) save). Creatures that fail the save are [[Conditions/Slowed 1|Slowed 1]] and gain fire weakness 5. Both conditions end after 3 rounds or when the tar is scrubbed off (which requires 3 Interact actions). The tar zombie can't Vomit Tar again for 1d4 rounds.\n[[Bestiary Effects/Effect_ Vomit Tar|Effect: Vomit Tar]]"
+    desc: "`pf2:2` (primal) The tar zombie vomits a gout of sticky tar in a @Template[cone|distance:15] that deals 6d6 bludgeoning damage ((DC 25 Reflex check) save). Creatures that fail the save are [[Conditions/Slowed|Slowed 1]] and gain fire weakness 5. Both conditions end after 3 rounds or when the tar is scrubbed off (which requires 3 Interact actions). The tar zombie can't Vomit Tar again for 1d4 rounds.\n\n[[Bestiary Effects/Effect_ Vomit Tar|Effect: Vomit Tar]]"
  
+```
+
+```encounter-table
+name: Tar Zombie Predator
+creatures:
+  - 1: Tar Zombie Predator
 ```
 
 

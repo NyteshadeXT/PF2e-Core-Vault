@@ -6,6 +6,7 @@ cssClasses: pf2e
 aliases: "Compendium.pf2e.pathfinder-bestiary-3.Actor.4glVe36VTR8HTjcE" 
 tags:
   - pf2e/creature/type/beast
+  - pf2eMonster
   - pf2e/creature/level/8
 statblock: inline
 name: "Girtablilu Sentry"
@@ -24,7 +25,7 @@ level: "Creature 8"
 
 alignment: ""
 size: "Large"
-trait_01: "beast"
+trait_01: [[beast]]
 modifier: 18
 perception:
   - name: "Perception"
@@ -64,17 +65,23 @@ attacks:
     desc: "`pf2:1` Stinger +20 (reach 10 feet)\n__Damage__  2d6 + 9 piercing plus girtablilu-venom"
 
   - name: "[[Bestiary Ability Glossary/Constrict|Constrict]]"
-    desc: "`pf2:1`  2d8 + 6 bludgeoning, DC 24 Fortitude check\n"
+    desc: "`pf2:1`  2d8+6 bludgeoning, DC 24 Fortitude check\n\n* * *\n"
 
   - name: "Desert Stride"
     desc: "  A girtablilu ignores natural difficult terrain in the desert."
 
   - name: "Girtablilu Venom"
-    desc: " (poison) **Saving Throw** DC 24 Fortitude check\n**Maximum Duration** 6 rounds\n**Stage 1** 2d6 poison damage and [[Conditions/Enfeebled 1|Enfeebled 1]] (1 round)\n**Stage 2** 3d6 poison damage and enfeebled 1 (1 round)\n**Stage 3** 3d6 poison damage and [[Conditions/Enfeebled 1|Enfeebled 2]] (1 round)"
+    desc: " (poison) **Saving Throw** DC 24 Fortitude check\n* * *\n\n**Maximum Duration** 6 rounds\n\n**Stage 1** 2d6 poison damage and [[Conditions/Enfeebled|Enfeebled 1]] (1 round)\n\n**Stage 2** 3d6 poison damage and enfeebled 1 (1 round)\n\n**Stage 3** 3d6 poison damage and [[Conditions/Enfeebled|Enfeebled 2]] (1 round)"
 
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
     desc: "`pf2:1`  "
  
+```
+
+```encounter-table
+name: Girtablilu Sentry
+creatures:
+  - 1: Girtablilu Sentry
 ```
 
 

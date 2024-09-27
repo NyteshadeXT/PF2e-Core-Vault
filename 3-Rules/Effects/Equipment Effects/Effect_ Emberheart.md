@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Each ally in a 30-foot emanation regains 30 Hit Points and gains a +3 status bonus to Fortitude saves until the end of their next turn.
+Each ally in a @Template\[emanation|distance:30\] regains 30 Hit Points and gains a +3 status bonus to Fortitude saves until the end of their next turn.
 
 *Source: Pathfinder Secrets of Magic*
 *OGL*

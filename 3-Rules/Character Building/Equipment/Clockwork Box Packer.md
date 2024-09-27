@@ -10,7 +10,7 @@ license: OGL
 ---
 # Clockwork Box Packer
 ## Item 3
-### [uncommon](uncommon "Uncommon Rarity Trait")[[clockwork]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[clockwork]]
 
 
 **Price** 50 gp; 

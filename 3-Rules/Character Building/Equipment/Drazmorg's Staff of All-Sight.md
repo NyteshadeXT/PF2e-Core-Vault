@@ -14,7 +14,7 @@ license: OGL
 ---
 # Drazmorg's Staff of All-Sight
 ## Item 10
-### [unique](unique "Unique Rarity Trait")[[magical]][[staff]][[two-hand-d8]]
+### [unique](unique.md "Unique Rarity Trait")[[3-Rules/Rule References/Magical]][[3-Rules/Character Building/Equipment/Staff]][[two-hand-d8]]
 
 |  |  |
 | -- | -- |
@@ -36,9 +36,8 @@ This long, gnarled staff looks like several bones fused together, then wrapped t
 *   **2nd** [[Spells/Darkvision|Darkvision]], [[Spells/Floating Flame|Floating Flame]] (creates what appears to be a large eye made of fire), [[Spells/See the Unseen|See the Unseen]]
 *   **3rd** [[Spells/Organsight|Organsight]], [[Spells/Web of Eyes|Web of Eyes]]
 *   **4th** [[Spells/Clairvoyance|Clairvoyance]], [[Spells/Countless Eyes|Countless Eyes]], [[Spells/Detect Scrying|Detect Scrying]]
-    
-    * * *
-    
+
+* * *
 
 **Craft Requirements** Supply one casting of all listed levels of all listed spells.
 

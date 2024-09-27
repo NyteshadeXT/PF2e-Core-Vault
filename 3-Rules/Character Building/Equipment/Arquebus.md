@@ -14,7 +14,7 @@ license: OGL
 ---
 # Arquebus
 ## Item 0
-### [uncommon](uncommon "Uncommon Rarity Trait")[[concussive]][[fatal-d12]][[kickback]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[concussive]][[fatal-d12]][[kickback]]
 
 |  |  |
 | -- | -- |

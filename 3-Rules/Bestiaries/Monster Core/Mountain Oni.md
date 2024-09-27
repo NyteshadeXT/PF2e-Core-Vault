@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/giant
   - pf2e/creature/type/humanoid
   - pf2e/creature/type/oni
+  - pf2eMonster
   - pf2e/creature/level/8
   - remaster
 statblock: inline
@@ -20,15 +21,16 @@ license: ORC
 columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
+token: [[modules/pf2e-tokens-monster-core/assets/portraits/oni-mountain.webp| ]]
 source: "Pathfinder Monster Core"
 name: "Mountain Oni"
 level: "Creature 8"
 
 alignment: ""
 size: "Large"
-trait_01: "giant"
-trait_02: "humanoid"
-trait_03: "oni"
+trait_01: [[giant]]
+trait_02: [[humanoid]]
+trait_03: [[oni]]
 modifier: 17
 perception:
   - name: "Perception"
@@ -56,7 +58,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Bean Panic"
-    desc: "  Oni are curiously afraid of beans, especially as the seasons begin to change. If a creature Interacts to throw a handful of beans at the oni, the oni becomes [[Conditions/Frightened 1|Frightened 2]]. While frightened this way, their weakness to spirit damage is increased by 5. The oni then becomes immune to bean panic for 24 hours."
+    desc: "  Oni are curiously afraid of beans, especially as the seasons begin to change. If a creature Interacts to throw a handful of beans at the oni, the oni becomes [[Conditions/Frightened|Frightened 2]]. While frightened this way, their weakness to spirit damage is increased by 5. The oni then becomes immune to bean panic for 24 hours."
 
   - name: "[[Bestiary Ability Glossary/Reactive Strike|Reactive Strike]]"
     desc: "`pf2:r`  "
@@ -77,8 +79,14 @@ attacks:
     desc: "`pf2:1` (concentrate,polymorph,primal) The mountain oni can take on the appearance of any Medium or Large humanoid creature. This doesn't change their Speed or their attack and damage bonuses with their Strikes but might change the damage type their Strikes deal (typically to bludgeoning).\n\n* * *\n"
 
   - name: "Thundering Iron"
-    desc: "`pf2:2`  The oni lifts their tetsubo and brings it down in a deafening peal. They make a tetsubo Strike. On a success, the target takes an additional 1d10 sonic damage.\n\nEach creature in a 10-foot emanation around the target, other than the oni, take this damage as well and is pushed 5 feet away from the target."
+    desc: "`pf2:2`  The oni lifts their tetsubo and brings it down in a deafening peal. They make a tetsubo Strike. On a success, the target takes an additional 1d10 sonic damage.\n\nEach creature in a @Template[emanation|distance:10] around the target, other than the oni, take this damage as well and is pushed 5 feet away from the target."
  
+```
+
+```encounter-table
+name: Mountain Oni
+creatures:
+  - 1: Mountain Oni
 ```
 
 

@@ -4,8 +4,9 @@ title: "Spell Effect: Celestial Brand"
 cssclasses: pf2e,pf2e-spell
 tags:
   - trait/common
+  - remaster
 aliases: "Compendium.pf2e.spell-effects.Item.A61eVVVyUuaUl3tz"
-license: OGL
+license: ORC
 ---
 # Spell Effect: Celestial Brand
 ## Level 5
@@ -16,7 +17,9 @@ license: OGL
 
 
 
-Granted by attacking a target under the effect of [[Spells/Celestial Brand|Celestial Brand]]
+Granted by [[Spells/Celestial Brand|Celestial Brand]]
 
-*Source: Pathfinder Core Rulebook*
-*OGL*
+The holy creature deals additional spirit damage.
+
+*Source: Pathfinder Player Core 2*
+*ORC*

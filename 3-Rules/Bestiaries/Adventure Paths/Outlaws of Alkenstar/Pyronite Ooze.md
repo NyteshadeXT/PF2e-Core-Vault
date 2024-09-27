@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.outlaws-of-alkenstar-bestiary.Actor.aT6c5oEPV8U5zfRD"
 tags:
   - pf2e/creature/type/mindless
   - pf2e/creature/type/ooze
+  - pf2eMonster
   - pf2e/creature/level/10
 statblock: inline
 name: "Pyronite Ooze"
@@ -21,15 +22,16 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #180: The Smoking Gun"
 name: "Pyronite Ooze"
 level: "Creature 10"
-rare_03: "Rare"
+rare_03: [[Rare]]
 alignment: ""
 size: "Large"
-trait_01: "mindless"
-trait_02: "ooze"
+trait_01: [[mindless]]
+trait_02: [[ooze]]
 modifier: 14
 perception:
   - name: "Perception"
     desc: "+14; Tremorsense (Imprecise) 60 Feet"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Athletics: +22"
@@ -69,8 +71,14 @@ attacks:
     desc: "`pf2:1` Blast +21 (fire, range increment 40 feet)\n__Damage__  3d8 + 3 fire"
 
   - name: "Exploding Split"
-    desc: "`pf2:2`  **Requirements** The pyronite ooze is Large\n**Effect** The pyronite ooze explodes in a violent conflagration, dealing 3d6 fire and 3d6 bludgeoning damage to all creatures in a 30-foot radius (DC 29 Reflex check). This explosion can't cause other pyronite oozes to split. After exploding, the ooze splits into two Medium pyronite oozes (see above), but this splitting doesn't deal additional damage."
+    desc: "`pf2:2`  **Requirements** The pyronite ooze is Large\n* * *\n\n**Effect** The pyronite ooze explodes in a violent conflagration, dealing 3d6 fire and 3d6 bludgeoning damage to all creatures in a 30-foot radius (DC 29 Reflex check). This explosion can't cause other pyronite oozes to split. After exploding, the ooze splits into two Medium pyronite oozes (see above), but this splitting doesn't deal additional damage."
  
+```
+
+```encounter-table
+name: Pyronite Ooze
+creatures:
+  - 1: Pyronite Ooze
 ```
 
 

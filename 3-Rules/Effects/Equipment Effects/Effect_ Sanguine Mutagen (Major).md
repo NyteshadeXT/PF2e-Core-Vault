@@ -8,7 +8,7 @@ aliases: "Compendium.pf2e.equipment-effects.Item.yY8vPNmDdQQ5d7n6"
 license: OGL
 ---
 # Effect: Sanguine Mutagen (Major)
-## Level 1
+## Level 17
 ### 
 
 

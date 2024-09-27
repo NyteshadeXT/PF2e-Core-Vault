@@ -35,9 +35,9 @@ When casting the [[Spells/Avatar|Avatar]] spell, a worshipper of Walkena gains t
 
 **Walkena** Speed 60 feet, [[Spells/Air Walk|Air Walk]]
 
-1 holy spear (reach 20 feet; versatile fire), Damage 6d12 + 6 piercing damage
+1 holy spear (reach 20 feet; versatile fire), Damage 6d12+6 piercing damage
 
-1 sunfire (range increment 120 feet), Damage 6d6 + 6 fire damage
+1 sunfire (range increment 120 feet), Damage 6d6+6 fire damage
 
 *Source: Pathfinder Lost Omens: The Mwangi Expanse*
 *OGL*

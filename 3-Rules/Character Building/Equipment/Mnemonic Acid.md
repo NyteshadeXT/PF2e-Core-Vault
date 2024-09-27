@@ -20,7 +20,7 @@ license: OGL
 **Bulk** L; **Size** med
 **Usage** held-in-one-hand
 
-**Activate** `pf2:1`Interact
+**Activate** `pf2:1` Interact
 
 * * *
 

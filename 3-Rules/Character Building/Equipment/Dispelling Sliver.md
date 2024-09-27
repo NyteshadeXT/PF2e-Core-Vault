@@ -14,7 +14,7 @@ license: ORC
 ---
 # Dispelling Sliver
 ## Item 17
-### [[consumable]][[magical]][[talisman]]
+### [[consumable]][[3-Rules/Rule References/Magical]][[talisman]]
 
 **Category** talisman; 
 **Price** 2400 gp; 
@@ -27,7 +27,7 @@ license: ORC
 
 * * *
 
-Made from a treated sliver of cold iron, this talisman allows you to counteract magical effects. When you activate the _dispelling sliver_, it attempts to counteract a single spell active on the target (counteract modifier +29), with the effects of an 8th-rank [[Spells/Dispel Magic|Dispel Magic]] spell. If you activate the talisman on a successful Dispelling Slice, the talisman attempts to counteract all spells active on the target, in addition to your attempt from Dispelling Slice.
+Made from a treated sliver of cold iron, this talisman allows you to counteract magical effects. When you activate the _dispelling sliver_, it attempts to counteract a single spell active on the target (counteract modifier +29), with the effects of an 8th-rank [[Spells/Dispel Magic|Dispel Magic]] spell. If you activate the talisman on a successful [[Feats/Dispelling Slice|Dispelling Slice]], the talisman attempts to counteract all spells active on the target, in addition to your attempt from Dispelling Slice.
 
 *Source: Pathfinder GM Core*
 *ORC*

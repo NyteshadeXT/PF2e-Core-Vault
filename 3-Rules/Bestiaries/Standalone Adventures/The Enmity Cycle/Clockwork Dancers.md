@@ -5,6 +5,7 @@ noteType: pf2eHazard
 tags:
   - mechanical
   - trap
+  - pf2eHazard
   - complex
 source: Pathfinder Adventure: The Enmity Cycle
 aliases: "Compendium.pf2e.the-enmity-cycle-bestiary.Actor.DG54oET4evjYUUrp" 
@@ -22,8 +23,8 @@ name: "Clockwork Dancers"
 level: "Hazard 7"
 
 trait_06: "Complex"
-trait_01: "mechanical"
-trait_02: "trap"
+trait_01: [[mechanical]]
+trait_02: [[trap]]
 modifier: 6
 sourcebook: "_Pathfinder Adventure: The Enmity Cycle_"
 ac: 24
@@ -51,7 +52,7 @@ attacks:
   - name: ""
 
   - name: "Spring Attack"
-    desc: "`pf2:r` **Trigger** A creature ends its turn in **F2**\n**Effect** Clockwork figures spring out from the pillars and attack anyone on the stage with a spinning blade Strike. The trap then rolls initiative."
+    desc: "`pf2:r` **Trigger** A creature ends its turn in **F2**\n* * *\n\n**Effect** Clockwork figures spring out from the pillars and attack anyone on the stage with a spinning blade Strike. The trap then rolls initiative."
   - name: "Melee"
     desc: "Spinning Blade +18 () "
 
@@ -59,5 +60,11 @@ attacks:
     desc: "(1 action) The clockwork dancers target each creature on the stage within 10 feet of a pillar by a spinning blade Strike."
   - name: "Reset"
     desc: "The trap deactivates after 4 rounds and resets after 1 minute."
+```
+
+```encounter-table
+name: Clockwork Dancers
+creatures:
+  - 1: Clockwork Dancers
 ```
 

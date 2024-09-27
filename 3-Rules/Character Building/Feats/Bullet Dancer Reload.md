@@ -11,7 +11,7 @@ aliases: "Compendium.pf2e.feats-srd.Item.5ZX4btrw5yjBr8IM"
 license: OGL
 ---
 # Bullet Dancer Reload `pf2:1`
-## Feat 12
+## Feat 10
 ### [[archetype]][[flourish]]
 
 **Category** class; 

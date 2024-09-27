@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.gatewalkers-bestiary.Actor.9pu5FhW9oW1mZaaC"
 tags:
   - pf2e/creature/type/construct
   - pf2e/creature/type/mindless
+  - pf2eMonster
   - pf2e/creature/level/7
 statblock: inline
 name: "Capstan Swabbie"
@@ -21,15 +22,16 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #188: They Watched the Stars"
 name: "Capstan Swabbie"
 level: "Creature 7"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Large"
-trait_01: "construct"
-trait_02: "mindless"
+trait_01: [[construct]]
+trait_02: [[mindless]]
 modifier: 12
 perception:
   - name: "Perception"
     desc: "+12; Darkvision"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Athletics: +17"
@@ -70,7 +72,7 @@ attacks:
     desc: "`pf2:1` Anchor +14 (tethered, thrown 30 ft.)\n__Damage__  2d8 + 9 bludgeoning"
 
   - name: "Jury-Rig"
-    desc: "`pf2:1` (manipulate) The capstan swabbie uses built-in tools to quickly patch itself up. The swabbie gains 10 temporary Hit Points. The swabbie can also use this section on an adjacent section of a ship. The temporary Hit Points last for 1 minute. The target is then temporarily immune for 1 hour.\n[[Bestiary Effects/Effect_ Jury-Rig|Effect: Jury-Rig]]"
+    desc: "`pf2:1` (manipulate) The capstan swabbie uses built-in tools to quickly patch itself up. The swabbie gains 10 temporary Hit Points. The swabbie can also use this section on an adjacent section of a ship. The temporary Hit Points last for 1 minute. The target is then temporarily immune for 1 hour.\n\n[[Bestiary Effects/Effect_ Jury-Rig|Effect: Jury-Rig]]"
 
   - name: "Loose the Pawls"
     desc: "`pf2:2`  The capstan swabbie spins around rapidly, its loose ropes whipping everyone in reach. The capstan swabbie makes a rope Strike against each creature within 10 feet and compares its attack roll to the AC of each creature within 10 feet."
@@ -78,6 +80,12 @@ attacks:
   - name: "[[Bestiary Ability Glossary/Knockdown|Knockdown]]"
     desc: "`pf2:1`  "
  
+```
+
+```encounter-table
+name: Capstan Swabbie
+creatures:
+  - 1: Capstan Swabbie
 ```
 
 

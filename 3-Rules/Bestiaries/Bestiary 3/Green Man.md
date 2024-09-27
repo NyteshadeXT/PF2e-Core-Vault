@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.pathfinder-bestiary-3.Actor.kXc11R18rF28AgIf"
 tags:
   - pf2e/creature/type/leshy
   - pf2e/creature/type/plant
+  - pf2eMonster
   - pf2e/creature/level/24
 statblock: inline
 name: "Green Man"
@@ -22,19 +23,19 @@ token: [[modules/pf2e-tokens-bestiaries/portraits/plant/leshy/green-man.webp| ]]
 source: "Pathfinder Bestiary 3"
 name: "Green Man"
 level: "Creature 24"
-rare_03: "Rare"
+rare_03: [[Rare]]
 alignment: ""
 size: "Medium"
-trait_01: "leshy"
-trait_02: "plant"
+trait_01: [[leshy]]
+trait_02: [[plant]]
 modifier: 42
 perception:
   - name: "Perception"
     desc: "+42; Darkvision"
-languages: "Arboreal, Fey, Wildsong"
+languages: "Arboreal, Fey, Wildsong; green tongue"
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +39, Athletics: +42, Deception: +40, Diplomacy: +40 (+44 vs. plants), Intimidation: +40 (+44 vs. plants), Nature: +48, Stealth: +41, Survival: +44"
+    desc: "Acrobatics: +39, Athletics: +42, Deception: +40, Diplomacy: +40, Intimidation: +40, Nature: +48, Stealth: +41, Survival: +44"
 abilityMods: [12, 9, 11, 7, 10, 8]
 speed: 40 feet,  climb 40 feet
 sourcebook: "_Pathfinder Bestiary 3_"
@@ -62,10 +63,10 @@ abilities_mid:
     desc: "  A green man takes 20 additional damage from axes."
 
   - name: "Green Caress"
-    desc: " (aura,incapacitation,plant,primal) 60 feet. Living creatures in the area other than plants slowly transform into non-creature plants. The green man can exclude creatures from this effect, but they must be aware of a creature's presence and location to do so. A non-plant creature in the area must attempt a DC 45 Fortitude check save immediately before the start of its turn.\n**Critical Success** The creature is unaffected, or if it is slowed by green caress, it reduces its slowed value by 2.\n**Success** The creature is unaffected, or if it is slowed by green caress, it reduces its slowed value by 1.\n**Failure** The creature becomes [[Conditions/Slowed 1|Slowed 1]], or if it was already slowed by green caress, increases the slowed value by 1, as their body transforms more and more into a non-creature plant. If the creature ever becomes slowed to the point they have no actions left for their turn, they become an inanimate plant, a condition that can only be reversed by [[Spells/Primal Phenomenon|Primal Phenomenon]] or similarly powerful magic.\n**Critical Failure** As failure, except the creature becomes [[Conditions/Slowed 1|Slowed 2]] (or increases the condition value by 2)."
+    desc: " (aura,incapacitation,plant,primal) 60 feet. Living creatures in the area other than plants slowly transform into non-creature plants. The green man can exclude creatures from this effect, but they must be aware of a creature's presence and location to do so. A non-plant creature in the area must attempt a DC 45 Fortitude check save immediately before the start of its turn.\n* * *\n\n**Critical Success** The creature is unaffected, or if it is slowed by green caress, it reduces its slowed value by 2.\n\n**Success** The creature is unaffected, or if it is slowed by green caress, it reduces its slowed value by 1.\n\n**Failure** The creature becomes [[Conditions/Slowed|Slowed 1]], or if it was already slowed by green caress, increases the slowed value by 1, as their body transforms more and more into a non-creature plant. If the creature ever becomes slowed to the point they have no actions left for their turn, they become an inanimate plant, a condition that can only be reversed by [[Spells/Primal Phenomenon|Primal Phenomenon]] or similarly powerful magic.\n\n**Critical Failure** As failure, except the creature becomes [[Conditions/Slowed|Slowed 2]] (or increases the condition value by 2)."
 
   - name: "Root In Place"
-    desc: "`pf2:r`  **Trigger** A creature within the green man's reach uses a move action or leaves a square during a move action it's using\n**Effect** The green man lashes out to hold the foe in place. The green man makes a vine Strike against the triggering creature. If the attack hits, the green man disrupts the action. If the creature was Flying when its action was disrupted, it falls."
+    desc: "`pf2:r`  **Trigger** A creature within the green man's reach uses a move action or leaves a square during a move action it's using\n* * *\n\n**Effect** The green man lashes out to hold the foe in place. The green man makes a vine Strike against the triggering creature. If the attack hits, the green man disrupts the action. If the creature was Flying when its action was disrupted, it falls."
 
 attacks:
   - name: ""
@@ -83,23 +84,29 @@ attacks:
     desc: "_[[Spells/Awaken Animal|Awaken Animal]]_, _[[Compendium.pf2e.spells-srd.Item.l4LFwY7iuzX6sDXr|Commune with Nature]]_, _[[Spells/Control Weather|Control Weather]]_, _[[Spells/Plant Growth|Plant Growth]]_, _[[Spells/Primal Call|Primal Call]]_"
 
   - name: "Absorb Magic"
-    desc: "`pf2:1`  The green man's vines leach away magic and transform it into life essence for the green man. On a successful vine Strike, the green man attempts to counteract one spell active on the target (typically one vexing the green man, or determined randomly if they aren't aware of specific effects), with a counteract rank of 10 and a modifier of +38.\nIf the effect is counteracted, the green man gains 30 temporary Hit Points that last for 10 minutes."
+    desc: "`pf2:1`  The green man's vines leach away magic and transform it into life essence for the green man. On a successful vine Strike, the green man attempts to counteract one spell active on the target (typically one vexing the green man, or determined randomly if they aren't aware of specific effects), with a counteract rank of 10 and a modifier of +38.\n\nIf the effect is counteracted, the green man gains 30 temporary Hit Points that last for 10 minutes."
 
   - name: "Embed"
-    desc: "  The green man's thorns embed themselves into any creature they damage, taking root into the ground. A target damaged by a thorn has its Speeds halved, and it can't Step, [[Actions/Fly|Fly]], [[Spells/Air Walk|Air Walk]], or otherwise leave the ground until the thorn is removed.\nRemoving a thorn requires 3 Interact actions, which don't have to be consecutive. If the creature performing the final action doesn't succeed at a DC 45 Medicine check check as part of that action, the target takes 10d6 untyped damage upon the thorn's removal."
+    desc: "  The green man's thorns embed themselves into any creature they damage, taking root into the ground. A target damaged by a thorn has its Speeds halved, and it can't Step, [[Actions/Fly|Fly]], [[Spells/Air Walk|Air Walk]], or otherwise leave the ground until the thorn is removed.\n\nRemoving a thorn requires 3 Interact actions, which don't have to be consecutive. If the creature performing the final action doesn't succeed at a DC 45 Medicine check check as part of that action, the target takes 10d6 untyped damage upon the thorn's removal."
 
   - name: "Focus Vines"
-    desc: "`pf2:2`  The green man focuses all their vines against a single vexing foe, making a single vine Strike.\nOn a success, the target takes 5d10 additional damage and is affected by Absorb Magic three times. Even on a failure, the target takes the normal effects of a hit with a vine Strike, but on a critical failure, the vines miss completely."
+    desc: "`pf2:2`  The green man focuses all their vines against a single vexing foe, making a single vine Strike.\n\nOn a success, the target takes 5d10 additional damage and is affected by Absorb Magic three times. Even on a failure, the target takes the normal effects of a hit with a vine Strike, but on a critical failure, the vines miss completely."
 
   - name: "Green Grab"
     desc: "  A green man can use their [[Bestiary Ability Glossary/Improved Grab|Improved Grab]] action against a creature of any size."
 
   - name: "Green Rituals"
-    desc: "  A green man can perform all their rituals without secondary casters, relying on their own primal ties to the vital essence in spirits of nature.\nA green man's [[Spells/Awaken Animal|Awaken Animal]] and [[Spells/Primal Call|Primal Call]] rituals work on plants instead of their usual range of choices.\nMost green men also know the ritual to create various types of leshys and possibly even magic allowing the creation of arboreals or more powerful plant creatures."
+    desc: "  A green man can perform all their rituals without secondary casters, relying on their own primal ties to the vital essence in spirits of nature.\n\nA green man's [[Spells/Awaken Animal|Awaken Animal]] and [[Spells/Primal Call|Primal Call]] rituals work on plants instead of their usual range of choices.\n\nMost green men also know the ritual to create various types of leshys and possibly even magic allowing the creation of arboreals or more powerful plant creatures."
 
   - name: "Vine Forest"
     desc: "`pf2:2`  The green man lashes out with all six vines to attack many opponents. They make up to six vine Strikes, each against a different target; this counts as one attack for their multiple attack penalty, increasing only after all the attacks are made."
  
+```
+
+```encounter-table
+name: Green Man
+creatures:
+  - 1: Green Man
 ```
 
 

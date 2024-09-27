@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/human
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/1
 statblock: inline
 name: "Kressle"
@@ -22,16 +23,17 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Kingmaker"
 name: "Kressle"
 level: "Creature 1"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Medium"
-trait_01: "evil"
-trait_02: "human"
-trait_03: "humanoid"
+trait_01: [[evil]]
+trait_02: [[human]]
+trait_03: [[humanoid]]
 modifier: 6
 perception:
   - name: "Perception"
     desc: "+6; "
+languages: ""
 skills:
   - name: "Skills"
     desc: "Athletics: +8, Intimidation: +7, Nature: +5, Stealth: +7, Survival: +6"
@@ -63,11 +65,17 @@ attacks:
     desc: "`pf2:1` Hatchet +7 (agile, sweep, thrown 10 ft.)\n__Damage__  1d6 + 1 slashing"
 
   - name: "Hatchet Flurry"
-    desc: "`pf2:1`  **Frequency** once per round\n**Requirement** She wields hatchets in each hand\n**Effect** She attacks with both hatchets, making two Strikes at the same target. Apply her multiple attack penalty to each Strike normally."
+    desc: "`pf2:1`  **Frequency** once per round\n\n**Requirement** She wields hatchets in each hand\n* * *\n\n**Effect** She attacks with both hatchets, making two Strikes at the same target. Apply her multiple attack penalty to each Strike normally."
 
   - name: "Maming Chop"
-    desc: "  Kressle has a violent knack for striking grievous wounds to her opponent's hands. If she scores a critical hit on a target with a hatchet Strike, the target must succeed at a DC 17 Fortitude check save or become [[Conditions/Clumsy 1|Clumsy 1]] (or [[Conditions/Clumsy 1|Clumsy 2]] on a critical failure). This condition persists until the target receives any amount of healing."
+    desc: "  Kressle has a violent knack for striking grievous wounds to her opponent's hands. If she scores a critical hit on a target with a hatchet Strike, the target must succeed at a DC 17 Fortitude check save or become [[Conditions/Clumsy|Clumsy 1]] (or [[Conditions/Clumsy|Clumsy 2]] on a critical failure). This condition persists until the target receives any amount of healing."
  
+```
+
+```encounter-table
+name: Kressle
+creatures:
+  - 1: Kressle
 ```
 
 

@@ -12,7 +12,7 @@ license: OGL
 ---
 # Breath Weapon (Piercing) (Cone) `pf2:2`
 
-### [[arcane]][[eidolon]]
+### [[3-Rules/Rule References/Arcane]][[eidolon]]
 
 **Category** offensive; 
 

@@ -3,6 +3,7 @@ obsidianUIMode: preview
 title: "Unleash Psyche"
 cssclasses: pf2e,pf2e-action
 tags:
+  - trait/psychic
   - trait/common
   - category/defensive
 aliases: "Compendium.pf2e.actionspf2e.Item.7GeguyqyD1TjoC4r"
@@ -10,7 +11,7 @@ license: OGL
 ---
 # Unleash Psyche `pf2:0`
 
-### 
+### [[psychic]]
 
 **Category** defensive; 
 
@@ -21,7 +22,7 @@ license: OGL
 
 * * *
 
-**Requirements** You're in an encounter, you Cast a Spell on your previous turn, and you aren't [[Conditions/Stupefied 1|Stupefied]].
+**Requirements** You're in an encounter, you Cast a Spell on your previous turn, and you aren't [[Conditions/Stupefied|Stupefied]].
 
 * * *
 
@@ -29,7 +30,7 @@ You call on the depths of your mind and let psychic power flood through. Your Ps
 
 *   You're constantly surrounded by the visual manifestation of your psychic magic.
 *   When you cast a damaging spell, you gain a status bonus to its damage equal to double the spell's rank. This applies only to spells that don't have a duration and that you cast using psychic spellcasting.
-*   You can use actions that have the psyche trait. After your unleashed psyche subsides, your mind must recover from the strain of channeling its full power. You can't use Unleash Psyche again for 2 rounds, and you're [[Conditions/Stupefied 1|Stupefied 1]] for 2 rounds.
+*   You can use actions that have the psyche trait. After your unleashed psyche subsides, your mind must recover from the strain of channeling its full power. You can't use Unleash Psyche again for 2 rounds, and you're [[Conditions/Stupefied|Stupefied 1]] for 2 rounds.
 
 *Source: Pathfinder Dark Archive*
 *OGL*

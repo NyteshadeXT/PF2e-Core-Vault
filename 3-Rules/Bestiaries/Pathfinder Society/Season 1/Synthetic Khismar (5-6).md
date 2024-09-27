@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.pfs-season-1-bestiary.Actor.QYTRwhdkSWZKRtlj"
 tags:
   - pf2e/creature/type/construct
   - pf2e/creature/type/evil
+  - pf2eMonster
   - pf2e/creature/level/6
 statblock: inline
 name: "Synthetic Khismar (5-6)"
@@ -21,11 +22,11 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Society Scenario #1-24: Lightning Strikes, Stars Fall"
 name: "Synthetic Khismar (5-6)"
 level: "Creature 6"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Small"
-trait_01: "construct"
-trait_02: "evil"
+trait_01: [[construct]]
+trait_02: [[evil]]
 modifier: 12
 perception:
   - name: "Perception"
@@ -56,7 +57,7 @@ abilities_mid:
     desc: "  Like normal objects, Synthetic Khismar has Hardness. This Hardness reduces any damage he takes by an amount equal to his Hardness. Once Synthetic Khismar is reduced to fewer than half his Hit Points, or immediately upon being damaged by a critical hit, his construct armor breaks and his AC is reduced to 20."
 
   - name: "Overcharge"
-    desc: "`pf2:r`  **Trigger** Synthetic Khismar takes electricity damage\n**Effect** Synthetic Khismar gains resistance 20 to electricity against the triggering attack and becomes [[Conditions/Quickened|Quickened]] for 1d4 rounds."
+    desc: "`pf2:r`  **Trigger** Synthetic Khismar takes electricity damage\n* * *\n\n**Effect** Synthetic Khismar gains resistance 20 to electricity against the triggering attack and becomes [[Conditions/Quickened|Quickened]] for 1d4 rounds."
 
 attacks:
   - name: ""
@@ -71,11 +72,17 @@ attacks:
     desc: "`pf2:2`  Synthetic Khismar makes two storm-fist Strikes against a single target. If either of the attacks deals damage, the target is [[Conditions/Off-Guard|Off-Guard]] until the beginning of Synthetic Khismar's next turn. His multiple attack penalty increases after making both attacks."
 
   - name: "Self-Destruct"
-    desc: "`pf2:2`  **Requirements** Synthetic Khismar has 20 HP or fewer\n**Effect** Synthetic Khismar explodes in a ball of burning plasma, destroying himself completely and dealing 8d6 electricity damage to all creatures within 10-foot emanation (DC 24 Reflex check)\n**Special** Synthetic Khismar automatically activates this ability as a free action when brought to 0 Hit Points."
+    desc: "`pf2:2`  **Requirements** Synthetic Khismar has 20 HP or fewer\n* * *\n\n**Effect** Synthetic Khismar explodes in a ball of burning plasma, destroying himself completely and dealing 8d6 electricity damage to all creatures within @Template[emanation|distance:10] (DC 24 Reflex check)\n* * *\n\n**Special** Synthetic Khismar automatically activates this ability as a free action when brought to 0 Hit Points."
 
   - name: "Technology Control"
-    desc: " (concentrate) **Frequency** once per turn\n**Range** 100 feet\n**Effect** Synthetic Khismar chooses the target of one technological construct or hazard; if this would cause the technological construct or hazard to attack a creature it would not normally attack, it takes a -2 circumstance penalty to its attack rolls and DCs against that creature.\n[[Bestiary Effects/Effect_ Technology Control|Effect: Technology Control]]"
+    desc: " (concentrate) **Frequency** once per turn\n\n**Range** 100 feet\n* * *\n\n**Effect** Synthetic Khismar chooses the target of one technological construct or hazard; if this would cause the technological construct or hazard to attack a creature it would not normally attack, it takes a -2 circumstance penalty to its attack rolls and DCs against that creature.\n\n[[Bestiary Effects/Effect_ Technology Control|Effect: Technology Control]]"
  
+```
+
+```encounter-table
+name: Synthetic Khismar (5-6)
+creatures:
+  - 1: Synthetic Khismar (5-6)
 ```
 
 

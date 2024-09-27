@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/divine
   - pf2e/creature/type/dragon
   - pf2e/creature/type/holy
+  - pf2eMonster
   - pf2e/creature/level/10
   - remaster
 statblock: inline
@@ -20,15 +21,16 @@ license: ORC
 columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
+token: [[modules/pf2e-tokens-monster-core/assets/portraits/dragon-empyreal-young.webp| ]]
 source: "Pathfinder Monster Core"
 name: "Empyreal Dragon (Young, Spellcaster)"
 level: "Creature 10"
 
 alignment: ""
 size: "Large"
-trait_01: "divine"
-trait_02: "dragon"
-trait_03: "holy"
+trait_01: [[divine]]
+trait_02: [[dragon]]
+trait_03: [[holy]]
 modifier: 21
 perception:
   - name: "Perception"
@@ -36,7 +38,7 @@ perception:
 languages: "Common, Draconic, Empyrean; Truespeech"
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +19, Athletics: +22, Diplomacy: +20, Heaven Lore: +21, Intimidation: +20, Medicine: +21, Religion: +21, Society: +19"
+    desc: "Acrobatics: +19, Athletics: +22, Diplomacy: +20, Intimidation: +20, Medicine: +21, Religion: +21, Society: +19, Heaven Lore: +21"
 abilityMods: [6, 3, 4, 3, 5, 4]
 speed: 60 feet,  fly 150 feet
 sourcebook: "_Pathfinder Monster Core_"
@@ -88,8 +90,14 @@ attacks:
     desc: "`pf2:2` (concentrate,divine) The dragon chooses one effect to impose on creatures in their inspiring presence aura.\n\nThe dragon can't use Halo Pulse again for 1d4 rounds.\n\n*   **Repulsion** Each creature must succeed at a DC 29 Fortitude check save or be pushed until it's no longer in the aura.\n*   **Restoration** (healing, vitality) Each creature recovers 5d8 Hit Points."
 
   - name: "Spirit Breath"
-    desc: "`pf2:2` (divine,holy,spirit) The dragon unleashes a blast of holy fire that deals 9d8 spirit damage in a 40-foot cone (DC 29 Reflex check save).\n\nThe dragon can't use Spirit Breath again for 1d4 rounds."
+    desc: "`pf2:2` (divine,holy,spirit) The dragon unleashes a blast of holy fire that deals 9d8 spirit damage in a @Template[cone|distance:40] (DC 29 Reflex check save).\n\nThe dragon can't use Spirit Breath again for 1d4 rounds."
  
+```
+
+```encounter-table
+name: Empyreal Dragon (Young, Spellcaster)
+creatures:
+  - 1: Empyreal Dragon (Young, Spellcaster)
 ```
 
 

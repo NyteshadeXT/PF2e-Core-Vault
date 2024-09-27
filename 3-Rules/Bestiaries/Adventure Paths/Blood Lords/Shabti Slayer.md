@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.blood-lords-bestiary.Actor.DInkix6cy2NgjpJd"
 tags:
   - pf2e/creature/type/humanoid
   - pf2e/creature/type/shabti
+  - pf2eMonster
   - pf2e/creature/level/16
 statblock: inline
 name: "Shabti Slayer"
@@ -21,11 +22,11 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #186: Ghost King&#x27;s Rage"
 name: "Shabti Slayer"
 level: "Creature 16"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Medium"
-trait_01: "humanoid"
-trait_02: "shabti"
+trait_01: [[humanoid]]
+trait_02: [[shabti]]
 modifier: 28
 perception:
   - name: "Perception"
@@ -33,7 +34,7 @@ perception:
 languages: "Common, Necril, Osiriani, Requian"
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +28, Athletics: +31, Boneyard Lore: +24, Religion: +25, Stealth: +28"
+    desc: "Acrobatics: +28, Athletics: +31, Religion: +25, Stealth: +28, Boneyard Lore: +24"
 abilityMods: [5, 4, 4, 2, 3, 1]
 speed: 25 feet
 sourcebook: "_Pathfinder #186: Ghost King&#x27;s Rage_"
@@ -77,14 +78,20 @@ attacks:
     desc: "  Shabtis don't age naturally and can't die of old age. Spells and effects that cause aging still affect a shabti as normal. They also can't be turned into undead."
 
   - name: "Prayer-Blessed Blade"
-    desc: "`pf2:1`  **Requirements** The shabti slayer has successfully identified an undead with Recall Knowledge\n**Effect** The shabti slayer prays to Pharasma to bless their weapon, enabling them to exploit the weaknesses of an undead they've identified with Recall Knowledge. If the identified undead has a resistance that can be bypassed by a special material or a weakness to a special material (such as cold iron, duskwood, or silver), weapons wielded by the shabti slayer count as that special material for 1 minute. If the creature has multiple materials that qualify, the shabti slayer chooses which material their weapon counts as for the duration."
+    desc: "`pf2:1`  **Requirements** The shabti slayer has successfully identified an undead with Recall Knowledge\n* * *\n\n**Effect** The shabti slayer prays to Pharasma to bless their weapon, enabling them to exploit the weaknesses of an undead they've identified with Recall Knowledge. If the identified undead has a resistance that can be bypassed by a special material or a weakness to a special material (such as cold iron, duskwood, or silver), weapons wielded by the shabti slayer count as that special material for 1 minute. If the creature has multiple materials that qualify, the shabti slayer chooses which material their weapon counts as for the duration."
 
   - name: "Quick Draw"
     desc: "`pf2:1`  The shabti slayer draws a weapon using the Interact action, then Strikes with that weapon."
 
   - name: "Two-Weapon Flurry"
-    desc: "`pf2:1`  **Frequency** once per round\n**Requirements** A shabti slayer is wielding two melee weapons, each in a different hand\n**Effect** A slayer lashes out with both weapons. They Strike twice, once with each weapon."
+    desc: "`pf2:1`  **Frequency** once per round\n\n**Requirements** A shabti slayer is wielding two melee weapons, each in a different hand\n* * *\n\n**Effect** A slayer lashes out with both weapons. They Strike twice, once with each weapon."
  
+```
+
+```encounter-table
+name: Shabti Slayer
+creatures:
+  - 1: Shabti Slayer
 ```
 
 

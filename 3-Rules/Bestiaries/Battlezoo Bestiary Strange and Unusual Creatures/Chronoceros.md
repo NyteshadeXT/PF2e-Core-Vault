@@ -6,6 +6,7 @@ cssClasses: pf2e
 aliases: "Compendium.battlezoo-bestiary-su-pf2e.pf2e-battlezoo-su-actors.Actor.oA73MRfuFT6GSdp0" 
 tags:
   - pf2e/creature/type/beast
+  - pf2eMonster
   - pf2e/creature/level/7
 statblock: inline
 name: "Chronoceros"
@@ -21,17 +22,18 @@ token: [[modules/battlezoo-bestiary-su-pf2e/art/Portraits/chronoceros.webp| ]]
 source: "Battlezoo Bestiary: Strange and Unusual"
 name: "Chronoceros"
 level: "Creature 7"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Large"
-trait_01: "beast"
+trait_01: [[beast]]
 modifier: 14
 perception:
   - name: "Perception"
     desc: "+14; Low-Light Vision"
+languages: ""
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +13, Athletics: +17, Survival: +15, "
+    desc: "Acrobatics: +13, Athletics: +17, Survival: +15, Acrobatics: +13, Athletics: +17, Survival: +15"
 abilityMods: [6, 2, 4, 0, 2, -2]
 speed: 35 feet
 sourcebook: "_Battlezoo Bestiary: Strange and Unusual_"
@@ -48,12 +50,12 @@ abilities_top:
   - name: ""
 
   - name: "All-Seeing Eyes"
-    desc: " (occult) **Requirements** The chronoceros hasn't acted yet this turn\n**Effect** The Chronoceros opens its additional eyes, or closes them if they were already open. Having its additional eyes open grants the chronoceros the ability to use its special abilities. However, the mental strain causes the chronoceros to suffer 1 mental damage at the end of each of its turns. If the chronoceros can't act, its all-seeing eyes close on their own."
+    desc: " (occult) **Requirements** The chronoceros hasn't acted yet this turn\n* * *\n\n**Effect** The Chronoceros opens its additional eyes, or closes them if they were already open. Having its additional eyes open grants the chronoceros the ability to use its special abilities. However, the mental strain causes the chronoceros to suffer 1 mental damage at the end of each of its turns. If the chronoceros can't act, its all-seeing eyes close on their own."
 
 abilities_mid:
   - name: ""
   - name: "Avoid Fate"
-    desc: "`pf2:r` (misfortune,occult) **Requirements** The chronoceros has its All-Seeing Eyes open\n**Trigger** The chronoceros is critically hit by a creature it can see\n**Effect** The chronoceros foretells the incoming danger. The attacking creature rerolls the triggering attack roll. If the second attack roll is also a critical hit, then the triggering attack remains a critical hit. In all other cases, the triggering attack becomes a normal hit instead. Regardless of the result, the chronoceros takes 1d4 mental damage."
+    desc: "`pf2:r` (misfortune,occult) **Requirements** The chronoceros has its All-Seeing Eyes open\n\n**Trigger** The chronoceros is critically hit by a creature it can see\n* * *\n\n**Effect** The chronoceros foretells the incoming danger. The attacking creature rerolls the triggering attack roll. If the second attack roll is also a critical hit, then the triggering attack remains a critical hit. In all other cases, the triggering attack becomes a normal hit instead. Regardless of the result, the chronoceros takes 1d4 mental damage."
 
 attacks:
   - name: ""
@@ -62,11 +64,17 @@ attacks:
     desc: "`pf2:1` Horn +18 ()\n__Damage__  2d10 + 9 piercing"
 
   - name: "Chronoceros Charge"
-    desc: "`pf2:2` (occult) **Requirements** The chronoceros has its All-Seeing Eyes open\n**Effect** The chronoceros Strides twice, then makes a horn Strike. As long as the Chronoceros moved at least 20 feet, the Strike's damage increases by 1d10. The chronoceros's movement doesn't trigger reactions based on movement (such as Attack of Opportunity). The chronoceros then takes 1d6 mental damage."
+    desc: "`pf2:2` (occult) **Requirements** The chronoceros has its All-Seeing Eyes open\n* * *\n\n**Effect** The chronoceros Strides twice, then makes a horn Strike. As long as the Chronoceros moved at least 20 feet, the Strike's damage increases by 1d10. The chronoceros's movement doesn't trigger reactions based on movement (such as Attack of Opportunity). The chronoceros then takes 1d6 mental damage."
 
   - name: "Glimpse of the Future"
-    desc: "`pf2:1` (occult) **Requirements** The chronoceros has its All-Seeing Eyes open\n**Effect** The chronoceros focuses its gaze on a creature it can see within 30 feet. That creature is Off-Guard to the chronoceros until the chronoceros uses this ability against a different target, closes its eyes, or loses line of sight to the chosen creature. After using Glimpse of the Future and at the start of each turn if the ability is active, the chronoceros takes 1 mental damage."
+    desc: "`pf2:1` (occult) **Requirements** The chronoceros has its All-Seeing Eyes open\n* * *\n\n**Effect** The chronoceros focuses its gaze on a creature it can see within 30 feet. That creature is [[undefined]] to the chronoceros until the chronoceros uses this ability against a different target, closes its eyes, or loses line of sight to the chosen creature. After using Glimpse of the Future and at the start of each turn if the ability is active, the chronoceros takes 1 mental damage."
  
+```
+
+```encounter-table
+name: Chronoceros
+creatures:
+  - 1: Chronoceros
 ```
 
 

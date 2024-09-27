@@ -5,6 +5,7 @@ noteType: pf2eHazard
 tags:
   - mechanical
   - trap
+  - pf2eHazard
 
 source: Pathfinder Society Special #3-99: Fate in the Future
 aliases: "Compendium.pf2e.pfs-season-3-bestiary.Actor.R7d4HsytkpganuFa" 
@@ -22,14 +23,14 @@ name: "Rock Launcher"
 level: "Hazard 3"
 
 
-trait_01: "mechanical"
-trait_02: "trap"
+trait_01: [[mechanical]]
+trait_02: [[trap]]
 modifier: 13
 sourcebook: "_Pathfinder Society Special #3-99: Fate in the Future_"
 ac: 19
 armorclass:
   - name: AC
-    desc: "19; __Fort__ +12, __Ref__ +6, __Will__ +0"
+    desc: "19; __Fort__ +12, __Ref__ +6, "
 hp: 44
 health:
   - name: ""
@@ -51,11 +52,17 @@ attacks:
   - name: ""
 
   - name: "Launch Rock"
-    desc: "`pf2:r` (attack) **Trigger** The trip wire is pulled or severed\n**Effect** The catapult launches its load at the triggering creature."
+    desc: "`pf2:r` (attack) **Trigger** The trip wire is pulled or severed\n* * *\n\n**Effect** The catapult launches its load at the triggering creature."
   - name: "Melee"
     desc: "Rock +16 () "
 
 
 
+```
+
+```encounter-table
+name: Rock Launcher
+creatures:
+  - 1: Rock Launcher
 ```
 

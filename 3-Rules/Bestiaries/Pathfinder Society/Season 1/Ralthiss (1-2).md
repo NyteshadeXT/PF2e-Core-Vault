@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/human
   - pf2e/creature/type/humanoid
   - pf2e/creature/type/lawful
+  - pf2eMonster
   - pf2e/creature/level/2
 statblock: inline
 name: "Ralthiss (1-2)"
@@ -26,10 +27,10 @@ level: "Creature 2"
 
 alignment: ""
 size: "Medium"
-trait_01: "evil"
-trait_02: "human"
-trait_03: "humanoid"
-trait_04: "lawful"
+trait_01: [[evil]]
+trait_02: [[human]]
+trait_03: [[humanoid]]
+trait_04: [[lawful]]
 modifier: 10
 perception:
   - name: "Perception"
@@ -74,6 +75,12 @@ attacks:
   - name: "Sap Life"
     desc: "  When Ralthiss casts a [[Spells/Harm|Harm]] spell and damages at least one living creature, he regains Hit Points equal to the spell rank of his _harm_ spell."
  
+```
+
+```encounter-table
+name: Ralthiss (1-2)
+creatures:
+  - 1: Ralthiss (1-2)
 ```
 
 

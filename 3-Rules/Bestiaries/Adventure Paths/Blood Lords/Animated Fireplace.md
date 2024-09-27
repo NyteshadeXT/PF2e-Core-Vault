@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.blood-lords-bestiary.Actor.DIDEV6UK5S5jQunK"
 tags:
   - pf2e/creature/type/construct
   - pf2e/creature/type/mindless
+  - pf2eMonster
   - pf2e/creature/level/5
 statblock: inline
 name: "Animated Fireplace"
@@ -21,15 +22,16 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #182: Graveclaw"
 name: "Animated Fireplace"
 level: "Creature 5"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Large"
-trait_01: "construct"
-trait_02: "mindless"
+trait_01: [[construct]]
+trait_02: [[mindless]]
 modifier: 9
 perception:
   - name: "Perception"
     desc: "+9; Darkvision"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Athletics: +15"
@@ -60,17 +62,23 @@ attacks:
     desc: "`pf2:1` Hearth +15 (magical)\n__Damage__  2d8 + 6 bludgeoning plus grab 1d6 fire plus grab"
 
   - name: "Bellow Soot"
-    desc: "`pf2:2`  The animated fireplace coughs out a cloud of soot, filling a 20-foot emanation; creatures within the soot are [[Conditions/Concealed|Concealed]], and creatures outside the cloud are concealed to creatures within it. Creatures that begin their turn within the cloud must succeed at a DC 19 Fortitude check save or be [[Conditions/Sickened 1|Sickened 1]] ([[Conditions/Sickened 1|Sickened 2]] on a critical failure); creatures immune to inhaled effects automatically succeed at this save. The fireplace can't Bellow Soot again for 1d4 rounds."
+    desc: "`pf2:2`  The animated fireplace coughs out a cloud of soot, filling a @Template[emanation|distance:20]; creatures within the soot are [[Conditions/Concealed|Concealed]], and creatures outside the cloud are concealed to creatures within it. Creatures that begin their turn within the cloud must succeed at a DC 19 Fortitude check save or be [[Conditions/Sickened|Sickened 1]] ([[Conditions/Sickened|Sickened 2]] on a critical failure); creatures immune to inhaled effects automatically succeed at this save. The fireplace can't Bellow Soot again for 1d4 rounds."
 
   - name: "Fan the Flames"
-    desc: "`pf2:3`  The animated fireplace releases a gout of flame in a 30-foot cone that deals 3d6 fire damage (DC 22 Reflex check)."
+    desc: "`pf2:3`  The animated fireplace releases a gout of flame in a @Template[cone|distance:30] that deals 3d6 fire damage (DC 22 Reflex check)."
 
   - name: "[[Bestiary Ability Glossary/Swallow Whole|Swallow Whole]]"
-    desc: "`pf2:1` (attack) Medium, 2d6 + 5 fire, Rupture 5\n"
+    desc: "`pf2:1` (attack) Medium, 2d6+5 fire, Rupture 5\n\n* * *\n"
 
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
     desc: "`pf2:1`  "
  
+```
+
+```encounter-table
+name: Animated Fireplace
+creatures:
+  - 1: Animated Fireplace
 ```
 
 

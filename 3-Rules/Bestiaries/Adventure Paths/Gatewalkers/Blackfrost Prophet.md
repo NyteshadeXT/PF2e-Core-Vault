@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/undead
   - pf2e/creature/type/unholy
+  - pf2eMonster
   - pf2e/creature/level/9
 statblock: inline
 name: "Blackfrost Prophet"
@@ -23,21 +24,21 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #189: Dreamers of the Nameless Spires"
 name: "Blackfrost Prophet"
 level: "Creature 9"
-rare_03: "Rare"
+rare_03: [[Rare]]
 alignment: ""
 size: "Large"
-trait_01: "cold"
-trait_02: "evil"
-trait_03: "undead"
-trait_04: "unholy"
+trait_01: [[cold]]
+trait_02: [[evil]]
+trait_03: [[undead]]
+trait_04: [[unholy]]
 modifier: 21
 perception:
   - name: "Perception"
     desc: "+21; Darkvision, Scent (Imprecise) 30 Feet"
-languages: "Erutaki, Jotun"
+languages: "Erutaki, Jotun; telepathy 100 feet"
 skills:
   - name: "Skills"
-    desc: "Athletics: +21, Intimidation: +18, Stealth: +17 (+21 in forests and snow)"
+    desc: "Athletics: +21, Intimidation: +18, Stealth: +17"
 abilityMods: [6, 4, 5, 2, 4, 1]
 speed: 30 feet
 sourcebook: "_Pathfinder #189: Dreamers of the Nameless Spires_"
@@ -69,14 +70,20 @@ attacks:
     desc: "`pf2:1` Horns +21 (agile)\n__Damage__  2d6 + 6 bludgeoning plus blackfrost 2d6 cold plus blackfrost"
 
   - name: "[[Creature Family Ability Glossary/(Blackfrost Dead) Blackfrost|Blackfrost]]"
-    desc: " (cold,curse,disease,occult) This affliction can't be reduced below stage 1, nor the damage from it healed, until successfully treated with [[Spells/Cleanse Affliction|Cleanse Affliction]] or a similar effect; the affliction can then be removed as a normal disease. A creature that dies from cold damage while cursed with blackfrost rises as a blackfrost dead after 24 hours. Blackfrost has a counteract rank of 10.\n**Saving Throw** DC 27 Fortitude check\n**Stage 1** 4d6 cold (1 minute)\n**Stage 2** weakness to cold 5 and [[Conditions/Drained 1|Drained 1]] (1 day)\n**Stage 3** weakness to cold 10 and [[Conditions/Drained 1|Drained 2]] (1 day)"
+    desc: " (cold,curse,disease,occult) This affliction can't be reduced below stage 1, nor the damage from it healed, until successfully treated with [[Spells/Cleanse Affliction|Cleanse Affliction]] or a similar effect; the affliction can then be removed as a normal disease. A creature that dies from cold damage while cursed with blackfrost rises as a blackfrost dead after 24 hours. Blackfrost has a counteract rank of 10.\n\n**Saving Throw** DC 27 Fortitude check\n\n**Stage 1** 4d6 cold (1 minute)\n\n**Stage 2** weakness to cold 5 and [[Conditions/Drained|Drained 1]] (1 day)\n\n**Stage 3** weakness to cold 10 and [[Conditions/Drained|Drained 2]] (1 day)"
 
   - name: "Imprison Mind"
-    desc: "`pf2:2` (mental,occult) The blackfrost prophet concentrates on a creature within 60 feet, filling the target's mind with befuddling susurrations. The creature must succeed at a DC 28 Will check save or take 4d8 + 8 mental and become [[Conditions/Stupefied 1|Stupefied 1]] for 1 minute ([[Conditions/Stupefied 1|Stupefied 2]] on a critical failure). The creature is [[Conditions/Slowed 1|Slowed 1]] as long as it's stupefied."
+    desc: "`pf2:2` (mental,occult) The blackfrost prophet concentrates on a creature within 60 feet, filling the target's mind with befuddling susurrations. The creature must succeed at a DC 28 Will check save or take 4d8+8 mental and become [[Conditions/Stupefied|Stupefied 1]] for 1 minute ([[Conditions/Stupefied|Stupefied 2]] on a critical failure). The creature is [[Conditions/Slowed|Slowed 1]] as long as it's stupefied."
 
   - name: "Raise Blackfrost"
-    desc: "`pf2:2` (cold,occult) The blackfrost prophet selects a point within 60 feet, then calls upon shards of blackfrost to stab up through the crust in a 30-foot burst. Creatures in the area take 2d8 piercing damage plus 2d8 cold (DC 28 Reflex check). A creature that takes cold damage from this ability is exposed to blackfrost. Until the next time the blackfrost prophet uses Raise Blackfrost, the affected area is difficult terrain."
+    desc: "`pf2:2` (cold,occult) The blackfrost prophet selects a point within 60 feet, then calls upon shards of blackfrost to stab up through the crust in a @Template[burst|distance:30]. Creatures in the area take 2d8 piercing damage plus 2d8 cold (DC 28 Reflex check). A creature that takes cold damage from this ability is exposed to blackfrost. Until the next time the blackfrost prophet uses Raise Blackfrost, the affected area is difficult terrain."
  
+```
+
+```encounter-table
+name: Blackfrost Prophet
+creatures:
+  - 1: Blackfrost Prophet
 ```
 
 

@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/dragon
   - pf2e/creature/type/evil
   - pf2e/creature/type/shadow
+  - pf2eMonster
   - pf2e/creature/level/3
 statblock: inline
 name: "Umbral Drake"
@@ -23,13 +24,13 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Society Scenario #3-06: Struck by Shadows"
 name: "Umbral Drake"
 level: "Creature 3"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Small"
-trait_01: "chaotic"
-trait_02: "dragon"
-trait_03: "evil"
-trait_04: "shadow"
+trait_01: [[chaotic]]
+trait_02: [[dragon]]
+trait_03: [[evil]]
+trait_04: [[shadow]]
 modifier: 7
 perception:
   - name: "Perception"
@@ -60,7 +61,7 @@ abilities_top:
     desc: "  The umbral drake's form shifts and blends reflexively with surrounding shadows. It gains an additional reaction each round, but it can use this reaction only for Shadow Evade."
 
   - name: "Shadow Evade"
-    desc: "  **Trigger** A creature attacks the umbral drake while it is in an area of dim light\n**Effect** The umbral drake further obscures its position. The attacker must succeed at a DC 11 Flat check check in order to affect the umbral drake, as if the drake were [[Conditions/Hidden|Hidden]] for the triggering attack."
+    desc: "  **Trigger** A creature attacks the umbral drake while it is in an area of dim light\n* * *\n\n**Effect** The umbral drake further obscures its position. The attacker must succeed at a DC 11 Flat check check in order to affect the umbral drake, as if the drake were [[Conditions/Hidden|Hidden]] for the triggering attack."
 
 abilities_mid:
   - name: ""
@@ -77,11 +78,17 @@ attacks:
     desc: "`pf2:2`  The umbral drake makes one bite Strike and two tail Strikes in any order."
 
   - name: "Shadow Breath"
-    desc: "`pf2:2` (arcane,cold,shadow) An umbral drake spits a ball of black liquid that explodes into a cloud of frigid black shadow. This attack has a range of 40 feet and explodes in a 5-foot-radius burst. Creatures within the burst take 4d6 cold damage (DC 20 Reflex check save). The explosion of shadow also snuffs out mundane light sources the size of a torch, lantern, or smaller, and attempts to counteract magical light with a +12 counteract modifier.\nThe umbral drake can't use Shadow Breath again for 1d6 rounds."
+    desc: "`pf2:2` (arcane,cold,shadow) An umbral drake spits a ball of black liquid that explodes into a cloud of frigid black shadow. This attack has a range of 40 feet and explodes in a 5-foot-radius burst. Creatures within the burst take 4d6 cold damage (DC 20 Reflex check save). The explosion of shadow also snuffs out mundane light sources the size of a torch, lantern, or smaller, and attempts to counteract magical light with a +12 counteract modifier.\n\nThe umbral drake can't use Shadow Breath again for 1d6 rounds."
 
   - name: "Speed Surge"
-    desc: "`pf2:1`  **Frequency** three times per day\n**Effect** The umbral drake Strides or Flies twice."
+    desc: "`pf2:1`  **Frequency** three times per day\n* * *\n\n**Effect** The umbral drake Strides or Flies twice."
  
+```
+
+```encounter-table
+name: Umbral Drake
+creatures:
+  - 1: Umbral Drake
 ```
 
 

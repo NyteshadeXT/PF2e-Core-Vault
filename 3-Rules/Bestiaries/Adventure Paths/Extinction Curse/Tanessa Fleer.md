@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/human
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/9
 statblock: inline
 name: "Tanessa Fleer"
@@ -22,12 +23,12 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #153: Life&#x27;s Long Shadows"
 name: "Tanessa Fleer"
 level: "Creature 9"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Medium"
-trait_01: "evil"
-trait_02: "human"
-trait_03: "humanoid"
+trait_01: [[evil]]
+trait_02: [[human]]
+trait_03: [[humanoid]]
 modifier: 19
 perception:
   - name: "Perception"
@@ -55,7 +56,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "[[Bestiary Ability Glossary/Attack of Opportunity|Attack of Opportunity (Special)]]"
-    desc: "`pf2:r`  Tanessa can make Attacks of Opportunity with a loaded ranged weapon she's wielding if the triggering creature is within 5 feet of her.\n"
+    desc: "`pf2:r`  Tanessa can make Attacks of Opportunity with a loaded ranged weapon she's wielding if the triggering creature is within 5 feet of her.\n\n* * *\n"
 
   - name: "Mobility"
     desc: "  Tanessa moves in a way that denies her enemies the opportunity to retaliate. When she takes a Stride action to move half her Speed or less, that movement does not trigger reactions. She can use Mobility when Climbing, Flying, or Swimming instead of Striding if she has the corresponding movement type."
@@ -70,14 +71,20 @@ attacks:
     desc: "`pf2:1` Hand Crossbow +20 (magical, range increment 60 feet, reload 1)\n__Damage__  2d6 + 10 piercing"
 
   - name: "Hunt Prey"
-    desc: "`pf2:1`  Tanessa designates as her prey a single creature that she can see and hear or that she is [[Actions/Track|Tracking]].\nShe gains a +2 circumstance bonus to Perception checks when she [[Actions/Seek|Seeks]] her prey and a +2 circumstance bonus to Survival checks when she [[Actions/Track|Tracks]] her prey. She also ignores the penalty for making ranged attacks within her second range increment against her prey. Lastly, she deals 1d8 precision damage to her prey the first time she hits her prey each round. Tanessa can have only one prey designated at a time."
+    desc: "`pf2:1`  Tanessa designates as her prey a single creature that she can see and hear or that she is [[Actions/Track|Tracking]].\n\nShe gains a +2 circumstance bonus to Perception checks when she [[Actions/Seek|Seeks]] her prey and a +2 circumstance bonus to Survival checks when she [[Actions/Track|Tracks]] her prey. She also ignores the penalty for making ranged attacks within her second range increment against her prey. Lastly, she deals 1d8 precision damage to her prey the first time she hits her prey each round. Tanessa can have only one prey designated at a time."
 
   - name: "Incredible Reload"
-    desc: "`pf2:1` (concentrate,manipulate) **Requirements** Tanessa has a [[Equipment/Hand Crossbow|Hand Crossbow]] in each hand\n**Effect** Tanessa quickly juggles her hand crossbows from one hand to another, reloading them both as she does so."
+    desc: "`pf2:1` (concentrate,manipulate) **Requirements** Tanessa has a [[Equipment/Hand Crossbow|Hand Crossbow]] in each hand\n* * *\n\n**Effect** Tanessa quickly juggles her hand crossbows from one hand to another, reloading them both as she does so."
 
   - name: "Mobile Shot Stance"
     desc: "  Tanessa's ranged [[Actions/Strike|Strikes]] don't trigger Attacks of Opportunity or other triggered by ranged attacks."
  
+```
+
+```encounter-table
+name: Tanessa Fleer
+creatures:
+  - 1: Tanessa Fleer
 ```
 
 

@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/human
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/4
 statblock: inline
 name: "Angazhani Cultist"
@@ -26,10 +27,10 @@ level: "Creature 4"
 
 alignment: ""
 size: "Medium"
-trait_01: "chaotic"
-trait_02: "evil"
-trait_03: "human"
-trait_04: "humanoid"
+trait_01: [[chaotic]]
+trait_02: [[evil]]
+trait_03: [[human]]
+trait_04: [[humanoid]]
 modifier: 11
 perception:
   - name: "Perception"
@@ -37,7 +38,7 @@ perception:
 languages: "Chthonian, Common, Mwangi"
 skills:
   - name: "Skills"
-    desc: "Athletics: +12, Demon Lore: +8, Diplomacy: +8 (+10 against demons), Intimidation: +10, Religion: +8, Stealth: +9, Survival: +11"
+    desc: "Athletics: +12, Diplomacy: +8, Intimidation: +10, Religion: +8, Stealth: +9, Survival: +11, Demon Lore: +8"
 abilityMods: [4, 1, 1, 0, 3, 2]
 speed: 25 feet
 sourcebook: "_Pathfinder Adventure: The Slithering_"
@@ -57,7 +58,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Bloody Fanaticism"
-    desc: "`pf2:r`  **Trigger** The cultist rolls a failure (but not a critical failure) on a Will save against an effect with the mental or fear trait\n**Effect** The cultist takes 2d8 mental damage, and the saving throw is a success."
+    desc: "`pf2:r`  **Trigger** The cultist rolls a failure (but not a critical failure) on a Will save against an effect with the mental or fear trait\n* * *\n\n**Effect** The cultist takes 2d8 mental damage, and the saving throw is a success."
 
   - name: "[[Bestiary Ability Glossary/Shield Block|Shield Block]]"
     desc: "`pf2:r`  "
@@ -77,6 +78,12 @@ attacks:
   - name: "Demonic Strength"
     desc: "  Angazhani cultists inflict an extra 1d6 damage with their spears, and any spear gains the fatal d10 trait while the cultist is using it (both the extra weapon damage die and the fatal trait have already been included in the cultist's spear Strikes above)."
  
+```
+
+```encounter-table
+name: Angazhani Cultist
+creatures:
+  - 1: Angazhani Cultist
 ```
 
 

@@ -7,6 +7,7 @@ aliases: "Compendium.battlezoo-bestiary-pf2e.pf2e-battlezoo-bestiary.Actor.oBatH
 tags:
   - pf2e/creature/type/beast
   - pf2e/creature/type/fey
+  - pf2eMonster
   - pf2e/creature/level/2
 statblock: inline
 name: "Silk-Tailed Beetle"
@@ -25,15 +26,16 @@ level: "Creature 2"
 
 alignment: ""
 size: "Small"
-trait_01: "beast"
-trait_02: "fey"
+trait_01: [[beast]]
+trait_02: [[fey]]
 modifier: 7
 perception:
   - name: "Perception"
     desc: "+7; Darkvision, Scent (Imprecise) 30 Feet"
+languages: ""
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +8, Athletics: +9, Deception: +9, Survival: +7, "
+    desc: "Acrobatics: +8, Athletics: +9, Deception: +9, Survival: +7"
 abilityMods: [3, 4, 3, -3, 1, 3]
 speed: 35 feet
 sourcebook: "_Battlezoo Bestiary_"
@@ -50,12 +52,12 @@ abilities_top:
   - name: ""
 
   - name: "Quick Escape"
-    desc: "  **Trigger** The silk-tailed beetle becomes Grabbed;\n**Effect** The silk-tailed beetle makes an Escape check."
+    desc: "  **Trigger** The silk-tailed beetle becomes [[Conditions/Grabbed|Grabbed]];\n* * *\n\n**Effect** The silk-tailed beetle makes an [[Actions/Escape|Escape]] check."
 
 abilities_mid:
   - name: ""
   - name: "[[Bestiary Ability Glossary/Buck|Buck]]"
-    desc: "`pf2:r`  "
+    desc: "`pf2:r`  DC 17 Reflex"
 
 attacks:
   - name: ""
@@ -67,14 +69,20 @@ attacks:
     desc: "`pf2:1` Tail +11 ()\n__Damage__  1d8 + 3 piercing plus silk-tail-venom"
 
   - name: "Silk-Tail Venom"
-    desc: " (poison) **Saving Throw** Fortitude;\n**Maximum Duration** 6 rounds;\n**Stage 1** 1d6 poison (1 round);\n**Stage 2** 1d6 poison and Off-Guard (1 round);\n**Stage 3** 1d8 poison, off-guard, and Confused (1 round)"
+    desc: " (poison) **Saving Throw** DC 17 Fortitude;\n* * *\n\n**Maximum Duration** 6 rounds;\n\n**Stage 1** 1d6 poison (1 round);\n\n**Stage 2** 1d6 poison and [[Conditions/Off-Guard|Off-Guard]] (1 round);\n\n**Stage 3** 1d8 poison, off-guard, and [[Conditions/Confused|Confused]] (1 round)"
 
   - name: "Dazzling Barbs"
-    desc: "`pf2:2` (mental,primal,visual) The silk-tailed beetle shakes its tail, reflecting the sunlight in a dazzling display of sparkles and color that affects the minds of creatures who see it. Creatures within 10 feet that can see the silk-tailed beetle must attempt a Will save.\n**Success** The creature is unaffected.\n**Failure** The creature is Dazzled for 1 round.\n**Critical Failure** The creature is dazzled for 1d4 rounds."
+    desc: "`pf2:2` (mental,primal,visual) The silk-tailed beetle shakes its tail, reflecting the sunlight in a dazzling display of sparkles and color that affects the minds of creatures who see it. Creatures within 10 feet that can see the silk-tailed beetle must attempt a DC 19 Will save.\n* * *\n\n**Success** The creature is unaffected.\n\n**Failure** The creature is [[Conditions/Dazzled|Dazzled]] for 1 round.\n\n**Critical Failure** The creature is dazzled for 1d4 rounds."
 
   - name: "Fling Barbs"
-    desc: "`pf2:2`  The silk-tailed beetle flings the barbs on its tail in a 15-foot cone, dealing 1d6 piercing damage to creatures in the area (basic Reflex save). A creature that rolls a failure on its saving throw gets a critical failure instead. A creature damaged by this attack is also exposed to silk-tailed venom."
+    desc: "`pf2:2`  The silk-tailed beetle flings the barbs on its tail in a 15-foot cone, dealing 1d6 piercing damage to creatures in the area (DC 17 basic Reflex save). A creature that rolls a failure on its saving throw gets a critical failure instead. A creature damaged by this attack is also exposed to silk-tailed venom."
  
+```
+
+```encounter-table
+name: Silk-Tailed Beetle
+creatures:
+  - 1: Silk-Tailed Beetle
 ```
 
 

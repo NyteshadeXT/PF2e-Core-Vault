@@ -11,3 +11,5 @@ Play when making a ranged attack, either with a Strike or a spell.
 * * *
 
 If you're attempting a Strike, double the range increment of the weapon or unarmed attack. If you're Casting a Spell, increase the range of the spell by half.
+
+[[Other Effects/Effect_ Impossible Shot|Effect: Impossible Shot]]

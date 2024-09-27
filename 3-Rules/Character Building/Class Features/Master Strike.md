@@ -12,7 +12,7 @@ license: ORC
 ---
 # Master Strike
 ## Feat 19
-### [[rogue]]
+### [[3-Rules/trait_reference/rogue]]
 
 **Category** classfeature; 
 

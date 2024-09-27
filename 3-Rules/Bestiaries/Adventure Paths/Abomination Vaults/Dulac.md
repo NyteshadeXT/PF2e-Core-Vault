@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.abomination-vaults-bestiary.Actor.h0Ztbh36be4rpJCz"
 tags:
   - pf2e/creature/type/caligni
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/9
 statblock: inline
 name: "Dulac"
@@ -21,11 +22,11 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #165: Eyes of Empty Death"
 name: "Dulac"
 level: "Creature 9"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Medium"
-trait_01: "caligni"
-trait_02: "humanoid"
+trait_01: [[caligni]]
+trait_02: [[humanoid]]
 modifier: 18
 perception:
   - name: "Perception"
@@ -56,13 +57,13 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Death Shadows"
-    desc: " (cold,darkness) When Dulac dies, her body is destroyed in a burst of chilling shadows. All creatures in a 20-foot burst take 8d8 cold damage (DC 28 Reflex check save).\nDulac's gear and treasure are unaffected by the shadows and are left in a pile where she died."
+    desc: " (cold,darkness) When Dulac dies, her body is destroyed in a burst of chilling shadows. All creatures in a @Template[burst|distance:20] take 8d8 cold damage (DC 28 Reflex check save).\n\nDulac's gear and treasure are unaffected by the shadows and are left in a pile where she died."
 
   - name: "Opportune Step"
-    desc: "`pf2:r`  **Trigger** A [[Conditions/Dazzled|Dazzled]] or [[Conditions/Blinded|Blinded]] creature, or a creature with [[Bestiary Ability Glossary/Light Blindness|Light Blindness]], ends its move adjacent to Dulac\n**Effect** Dulac Steps."
+    desc: "`pf2:r`  **Trigger** A [[Conditions/Dazzled|Dazzled]] or [[Conditions/Blinded|Blinded]] creature, or a creature with [[Bestiary Ability Glossary/Light Blindness|Light Blindness]], ends its move adjacent to Dulac\n* * *\n\n**Effect** Dulac Steps."
 
   - name: "Warding Shove"
-    desc: "`pf2:r`  **Trigger** An ally within Dulac's reach is targeted with a ranged or melee attack by an attacker she can see\n**Effect** The ally gains a +2 circumstance bonus to AC against the triggering attack, and the ally can Step after the attack."
+    desc: "`pf2:r`  **Trigger** An ally within Dulac's reach is targeted with a ranged or melee attack by an attacker she can see\n* * *\n\n**Effect** The ally gains a +2 circumstance bonus to AC against the triggering attack, and the ally can Step after the attack."
 
 attacks:
   - name: ""
@@ -76,6 +77,12 @@ attacks:
   - name: "[[Bestiary Ability Glossary/Sneak Attack|Sneak Attack]]"
     desc: "  Dulac deals an extra 1d6 precision damage to [[Conditions/Off-Guard|Off-Guard]] creatures."
  
+```
+
+```encounter-table
+name: Dulac
+creatures:
+  - 1: Dulac
 ```
 
 

@@ -7,8 +7,9 @@ tags:
   - trait/lineage
   - trait/common
   - category/ancestry
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.P1dk0LTWkQ1LT1ai"
-license: OGL
+license: ORC
 ---
 # Svetocher
 ## Feat 1
@@ -19,11 +20,7 @@ license: OGL
 
 
 
-You were born to one of the moroi, the most common vampires, and you share their supernatural fortitude and power of persuasion.
+You were born to a moroi, the most common vampires, and you share their supernatural fortitude and power of persuasion. When you have the [[Conditions/Drained|Drained]] condition, calculate the penalty to your Fortitude saves and your Hit Point reduction as though the condition value were 1 lower. You're trained in Diplomacy. If you would automatically be trained in it, you instead become trained in a skill of your choice.
 
-When you have the [[Conditions/Drained 1|Drained]] condition, calculate the penalty to your Fortitude saves and your Hit Point reduction as though the condition value were 1 lower.
-
-You are trained Diplomacy. If you would automatically be trained in it, you instead become trained in a skill of your choice.
-
-*Source: Pathfinder Advanced Player's Guide*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

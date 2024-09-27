@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/humanoid
   - pf2e/creature/type/lawful
+  - pf2eMonster
   - pf2e/creature/level/8
 statblock: inline
 name: "Desiak"
@@ -23,13 +24,13 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #176: Lost Mammoth Valley"
 name: "Desiak"
 level: "Creature 8"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Medium"
-trait_01: "aberration"
-trait_02: "evil"
-trait_03: "humanoid"
-trait_04: "lawful"
+trait_01: [[aberration]]
+trait_02: [[evil]]
+trait_03: [[humanoid]]
+trait_04: [[lawful]]
 modifier: 16
 perception:
   - name: "Perception"
@@ -57,7 +58,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "[[Actions/Reactive Strike|Attack of Opportunity]]"
-    desc: "`pf2:r`  **Trigger** A creature within your reach uses a manipulate action or a move action, makes a ranged attack, or leaves a square during a move action it's using.\nYou lash out at a foe that leaves an opening. Make a melee Strike against the triggering creature. If your attack is a critical hit and the trigger was a manipulate action, you disrupt that action. This Strike doesn't count toward your multiple attack penalty, and your multiple attack penalty doesn't apply to this Strike."
+    desc: "`pf2:r`  **Trigger** A creature within your reach uses a manipulate action or a move action, makes a ranged attack, or leaves a square during a move action it's using.\n* * *\n\nYou lash out at a foe that leaves an opening. Make a melee Strike against the triggering creature. If your attack is a critical hit and the trigger was a manipulate action, you disrupt that action. This Strike doesn't count toward your multiple attack penalty, and your multiple attack penalty doesn't apply to this Strike."
 
 attacks:
   - name: ""
@@ -72,11 +73,17 @@ attacks:
     desc: "`pf2:1` Bone Bolt +20 (range increment 30 feet)\n__Damage__  1d10 + 6 piercing 1d10 void"
 
   - name: "Dual Assault"
-    desc: "`pf2:1`  **Frequency** once per round\n**Effect** Desiak makes either two claw Strikes or a bone spur Strike and a claw Strike. Both Strikes are against the same target and are made with his current multiple attack penalty. This counts as two attacks when calculating Desiak's multiple attack penalty."
+    desc: "`pf2:1`  **Frequency** once per round\n* * *\n\n**Effect** Desiak makes either two claw Strikes or a bone spur Strike and a claw Strike. Both Strikes are against the same target and are made with his current multiple attack penalty. This counts as two attacks when calculating Desiak's multiple attack penalty."
 
   - name: "Erupt Bone Spur"
     desc: "`pf2:1`  Desiak forces his bones to erupt from or retract back into his flesh. While his bones protrude from his flesh, he can use a bone spur Strike. On a critical hit with a bone spur, Desiak can drain his target's vital energy to restore a number of Hit Points equal to half the damage dealt."
  
+```
+
+```encounter-table
+name: Desiak
+creatures:
+  - 1: Desiak
 ```
 
 

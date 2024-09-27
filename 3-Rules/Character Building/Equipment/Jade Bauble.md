@@ -9,8 +9,9 @@ tags:
   - trait/talisman
   - trait/common
   - category/talisman
+  - remaster
 aliases: "Compendium.pf2e.equipment-srd.Item.cKqZe5imzxqSnzwD"
-license: OGL
+license: ORC
 ---
 # Jade Bauble
 ## Item 8
@@ -21,11 +22,11 @@ license: OGL
 **Bulk** 0; **Size** med
 **Usage** affixed-to-melee-weapon
 
-**Activate** `pf2:1` Command
+**Activate** `pf2:1` (concentrate)
 
-**Requirements** You are a master with the affixed weapon
+* * *
 
-This bit of jade is usually carved in the shape of a duelist, or sometimes a multi-armed creature. When you activate the bauble, it magically draws the attention of foes. Until the start of your next turn, enemies within the reach of the weapon the talisman is affixed to are off-guard.
+This bit of jade is usually carved in the shape of a duelist, or sometimes a multi-armed creature. When you activate the bauble, it magically draws the attention of foes. Until the start of your next turn, enemies within the reach of the weapon the talisman is affixed to are [[Conditions/Off-Guard|Off-Guard]].
 
-*Source: Pathfinder Core Rulebook*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

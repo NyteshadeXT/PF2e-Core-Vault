@@ -6,6 +6,7 @@ cssClasses: pf2e
 aliases: "Compendium.pf2e.pathfinder-monster-core.Actor.BPznJcLvfkpfeQ2q" 
 tags:
   - pf2e/creature/type/construct
+  - pf2eMonster
   - pf2e/creature/level/19
   - remaster
 statblock: inline
@@ -22,10 +23,10 @@ token: [[modules/pf2e-tokens-bestiaries/portraits/constructed/magical/guthallath
 source: "Pathfinder Monster Core"
 name: "Guthallath"
 level: "Creature 19"
-rare_03: "Rare"
+rare_03: [[Rare]]
 alignment: ""
 size: "grg"
-trait_01: "construct"
+trait_01: [[construct]]
 modifier: 30
 perception:
   - name: "Perception"
@@ -70,7 +71,7 @@ attacks:
     desc: "DC 37, attack +29\n__Constant__  __(8th)__ _[[Spells/Truesight|Truesight]]_ __(3rd)__ _[[Spells/Haste|Haste]]_"
 
   - name: "Annihilation Beams"
-    desc: "`pf2:2`  A guthallath releases two beams of destruction from its eyes. Each beam is a 120-foot line. Everything in either line takes 13d10 untyped damage with a DC 41 Fortitude check save.\n\nA creature reduced to 0 HP is reduced to a fine powder as the [[Spells/Disintegrate|Disintegrate]] spell. There is no additional effect on creatures in any area where the beams overlap.\n\nThe guthallath can't use this ability again for 1d4 rounds."
+    desc: "`pf2:2`  A guthallath releases two beams of destruction from its eyes. Each beam is a @Template[line|distance:120]. Everything in either line takes 13d10 untyped damage with a DC 41 Fortitude check save.\n\nA creature reduced to 0 HP is reduced to a fine powder as the [[Spells/Disintegrate|Disintegrate]] spell. There is no additional effect on creatures in any area where the beams overlap.\n\nThe guthallath can't use this ability again for 1d4 rounds."
 
   - name: "Deadly Throw"
     desc: "`pf2:1`  **Requirements** The guthallath has a creature [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]]\n* * *\n\n**Effect** The guthallath throws the creature into the air, 100 feet high and 50 feet away. If the flung creature lands on another creature, the creature it lands on takes the same amount of bludgeoning damage.\n\nThe creature being landed on can attempt a DC 41 Reflex check save."
@@ -81,6 +82,12 @@ attacks:
   - name: "[[Bestiary Ability Glossary/Trample|Trample]]"
     desc: "`pf2:3`  Huge or smaller, foot, DC 45 Reflex check\n\n* * *\n"
  
+```
+
+```encounter-table
+name: Guthallath
+creatures:
+  - 1: Guthallath
 ```
 
 

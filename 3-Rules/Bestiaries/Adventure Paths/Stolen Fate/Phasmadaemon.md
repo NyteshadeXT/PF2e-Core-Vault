@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/fiend
   - pf2e/creature/type/unholy
+  - pf2eMonster
   - pf2e/creature/level/17
 statblock: inline
 name: "Phasmadaemon"
@@ -26,15 +27,15 @@ level: "Creature 17"
 
 alignment: ""
 size: "Large"
-trait_01: "daemon"
-trait_02: "evil"
-trait_03: "fiend"
-trait_04: "unholy"
+trait_01: [[daemon]]
+trait_02: [[evil]]
+trait_03: [[fiend]]
+trait_04: [[unholy]]
 modifier: 29
 perception:
   - name: "Perception"
     desc: "+29; Darkvision, Truesight"
-languages: "Common, Daemonic"
+languages: "Common, Daemonic; telepathy 100 feet"
 skills:
   - name: "Skills"
     desc: "Acrobatics: +31, Deception: +31, Intimidation: +33, Religion: +29"
@@ -56,10 +57,10 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "[[Bestiary Ability Glossary/Frightful Presence|Frightful Presence]]"
-    desc: " (aura,emotion,fear,mental) 60 feet DC 35 Will check\n"
+    desc: " (aura,emotion,fear,mental) 60 feet DC 35 Will check\n\n* * *\n"
 
   - name: "Unending Terror"
-    desc: "  Escaping fear near a phasmadaemon is no simple task. Creatures don't automatically reduce their [[Conditions/Frightened 1|Frightened]] condition while they are within the phasmadaemon's Frightful Presence aura. Instead, they must attempt a Will save at the end of their turn against the DC of the effect that caused the condition. On a success, the creature's frightened condition is reduced by 1."
+    desc: "  Escaping fear near a phasmadaemon is no simple task. Creatures don't automatically reduce their [[Conditions/Frightened|Frightened]] condition while they are within the phasmadaemon's Frightful Presence aura. Instead, they must attempt a Will save at the end of their turn against the DC of the effect that caused the condition. On a success, the creature's frightened condition is reduced by 1."
 
 attacks:
   - name: ""
@@ -74,10 +75,10 @@ attacks:
     desc: "DC 38, attack +30; __9th __  _[[Spells/Duplicate Foe|Duplicate Foe]]_, _[[Spells/Weird|Weird]]_; __8th __  _[[Spells/Mask of Terror|Mask of Terror]]_; __7th __  _[[Spells/Phantasmal Killer|Phantasmal Killer]]_, _[[Spells/Shadow Blast|Shadow Blast]]_; __6th __  _[[Spells/Shadow Blast|Shadow Blast (x2)]]_; __5th __  _[[Spells/Translocate|Dimension Door]]_, _[[Spells/Shadow Siphon|Shadow Siphon (x2)]]_; __4th __  _[[Spells/Translocate|Dimension Door (At Will)]]_, _[[Spells/Nightmare|Nightmare (At Will)]]_; __1st __  _[[Spells/Detect Alignment|Detect Alignment (At Will, Good Only)]]_\n__Constant__  __(9th)__ _[[Spells/Truesight|True Seeing]]_"
 
   - name: "[[Bestiary Ability Glossary/Constrict|Constrict]]"
-    desc: "`pf2:1`  3d10 + 6 bludgeoning, DC 35 Fortitude check\n"
+    desc: "`pf2:1`  3d10+6 bludgeoning, DC 35 Fortitude check\n\n* * *\n"
 
   - name: "Consume Fear"
-    desc: "`pf2:1` (emotion,fear,mental) **Requirements** The phasmadaemon has a creature [[Conditions/Grabbed|Grabbed]]\n**Effect** The phasmadaemon feeds on the creature's mortality and innate terror, dealing 6d8 mental damage. The creature must attempt a DC 38 Will check save.\n**Critical Success** The creature takes no damage and manages to break free from the phasmadaemon's grab.\n**Success** The creature takes half damage.\n**Failure** The creature takes full damage and increases their frightened conditioned by 1, to a maximum of [[Conditions/Frightened 1|Frightened 4]].\n**Critical Failure** The creature takes double damage and increases their frightened condition by 2, to a maximum of frightened 4. If the creature is already frightened 4, it must attempt a DC 38 Fortitude check saving throw. If it fails, it is reduced to 0 Hit Points and dies. This effect has the death and incapacitation traits."
+    desc: "`pf2:1` (emotion,fear,mental) **Requirements** The phasmadaemon has a creature [[Conditions/Grabbed|Grabbed]]\n* * *\n\n**Effect** The phasmadaemon feeds on the creature's mortality and innate terror, dealing 6d8 mental damage. The creature must attempt a DC 38 Will check save.\n* * *\n\n**Critical Success** The creature takes no damage and manages to break free from the phasmadaemon's grab.\n\n**Success** The creature takes half damage.\n\n**Failure** The creature takes full damage and increases their frightened conditioned by 1, to a maximum of [[Conditions/Frightened|Frightened 4]].\n\n**Critical Failure** The creature takes double damage and increases their frightened condition by 2, to a maximum of frightened 4. If the creature is already frightened 4, it must attempt a DC 38 Fortitude check saving throw. If it fails, it is reduced to 0 Hit Points and dies. This effect has the death and incapacitation traits."
 
   - name: "Inescapable Form"
     desc: "  The phasmadaemon can Squeeze through tight spaces as if it were a Small creature. While Squeezing, it can move at its full Speed. The phasmadaemon can even Squeeze through spaces that typically fit only a Tiny creature, but does so at the standard speed for Squeezing."
@@ -88,6 +89,12 @@ attacks:
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
     desc: "`pf2:1`  "
  
+```
+
+```encounter-table
+name: Phasmadaemon
+creatures:
+  - 1: Phasmadaemon
 ```
 
 

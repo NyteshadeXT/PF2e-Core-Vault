@@ -10,6 +10,7 @@ tags:
   - pf2e/creature/type/skeleton
   - pf2e/creature/type/undead
   - pf2e/creature/type/unholy
+  - pf2eMonster
   - pf2e/creature/level/-1
 statblock: inline
 name: "Deadtide Skeleton Guard"
@@ -27,15 +28,16 @@ level: "Creature -1"
 
 alignment: ""
 size: "Medium"
-trait_01: "evil"
-trait_02: "mindless"
-trait_03: "skeleton"
-trait_04: "undead"
-trait_05: "unholy"
+trait_01: [[evil]]
+trait_02: [[mindless]]
+trait_03: [[skeleton]]
+trait_04: [[undead]]
+trait_05: [[unholy]]
 modifier: 2
 perception:
   - name: "Perception"
     desc: "+2; Darkvision"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Acrobatics: +6, Athletics: +3"
@@ -62,6 +64,12 @@ attacks:
   - name: "Melee"
     desc: "`pf2:1` Claw +6 (agile, finesse)\n__Damage__  1d4 + 2 slashing"
  
+```
+
+```encounter-table
+name: Deadtide Skeleton Guard
+creatures:
+  - 1: Deadtide Skeleton Guard
 ```
 
 

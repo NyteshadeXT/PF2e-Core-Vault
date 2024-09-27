@@ -28,7 +28,7 @@ Conrasus aren't entirely clear on their own origins. Some historians think them 
 
 ## Physical Description
 
-The true form of a conrasu is an abstract chunk of spiritual essence. While their being exists beyond the truth of humanoid senses, to the mortal eye, their body usually resembles a globe of light, darkness, or space. Floating, internal pinpricks of illumination sit inside the ball, slightly obscured as if peeking through a gelatinous substance. These “cores” surround themselves with bodies made out of still-living wood, creating the form that most people recognize as a conrasu.
+The true form of a conrasu is an abstract chunk of spiritual essence. While their being exists beyond the truth of humanoid senses, to the mortal eye, their body usually resembles a globe of light, darkness, or space. Floating, internal pinpricks of illumination sit inside the ball, slightly obscured as if peeking through a gelatinous substance. These "cores" surround themselves with bodies made out of still-living wood, creating the form that most people recognize as a conrasu.
 
 Conrasus themselves are called to a path and, once they find it, shape frames to create a suitable form, leading to a wide variety of appearances. As a conrasu ages, the supple green wood of ttheir body hardens, causing their limbs to lose mobility. Conrasus must constantly grow new arms and roots for their living exoskeleton, leaving their frozen limbs as immobile effigies along their shell.
 
@@ -71,6 +71,8 @@ Automa, Azubu, Dumi, Emeka, Ganizadi, Locu, Incanes, Radi, Shell, Weave
 **Sunlight Healing** A conrasu can enter a meditative, healing state as a 10-minute activity when exposed to direct sunlight, in which case they recover 1d8 Hit Points. At 3rd level, and every 2 levels thereafter, this healing increases by 1d8. Once a conrasu has recovered Hit Points in this way, they are temporarily immune to further uses of Sunlight Healing for 1 day.
 
 ## Conrasu Heritages
+
+As a conrasu grows, they take part in a rite that changes and enhances their form. Each rite has different benefits, which manifest as specific heritages. Choose one of the following conrasu heritages at 1st level.
 
 [[Heritages/Rite of Invocation|Rite of Invocation]]
 

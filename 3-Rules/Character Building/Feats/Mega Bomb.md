@@ -3,34 +3,25 @@ obsidianUIMode: preview
 title: "Mega Bomb"
 cssclasses: pf2e,pf2e-spell
 tags:
-  - trait/additive3
+  - trait/additive
   - trait/alchemist
+  - trait/manipulate
   - trait/common
   - category/class
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.mMMIHLVSr8fyvVQL"
-license: OGL
+license: ORC
 ---
-# Mega Bomb `pf2:1`
+# Mega Bomb
 ## Feat 20
-### [[additive3]][[alchemist]]
+### [[additive]][[alchemist]][[manipulate]]
 
 **Category** class; 
 
 
 
-**Prerequisites** Expanded Splash
-* * *
-**Requirements** You are holding an infused alchemical bomb you crafted, with a level at least 3 lower than your advanced alchemy level
 
-* * *
+You can add a highly explosive additive to an alchemical bomb to turn it into a mega bomb. Throwing this bomb takes a 2-action activity instead of a Strike. This isn't a Strike, and you don't make an attack roll. The mega bomb explodes in a @Template\[burst|distance:30\] within 60 feet. It deals damage as if each creature were the primary target, with a Reflex check save. On a failed save, a creature also takes any extra effects that affect a primary target (such as [[Conditions/Off-Guard|Off-Guard]] from bottled lightning). Though all targets in the area take splash damage as primary targets, there is no further splash beyond that area.
 
-You add an incredibly powerful additive to a held bomb to create a mega bomb, greatly increasing its area and power.
-
-You use an [[Actions/Interact|Interact]] action to throw the mega bomb, rather than Strike, and you don't make an attack roll.
-
-The mega bomb affects creatures in a 30-foot-radius burst, centered within 60 feet of you. The bomb deals damage as if each creature were the primary target, with a basic Reflex save. On a failed save, a creature also takes any extra effects that affect a primary target (such as off-guard from bottled lightning). While all targets in the area take splash damage as primary targets, there is no further splash beyond that area.
-
-If your next action after creating a mega bomb isn't an Interact action to throw it, the mega bomb denatures and loses all effects.
-
-*Source: Pathfinder Core Rulebook*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

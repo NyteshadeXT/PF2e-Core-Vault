@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/human
   - pf2e/creature/type/humanoid
   - pf2e/creature/type/lawful
+  - pf2eMonster
   - pf2e/creature/level/7
 statblock: inline
 name: "Yniesse Zenderholm"
@@ -23,13 +24,13 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Adventure: Shadows at Sundown"
 name: "Yniesse Zenderholm"
 level: "Creature 7"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Medium"
-trait_01: "evil"
-trait_02: "human"
-trait_03: "humanoid"
-trait_04: "lawful"
+trait_01: [[evil]]
+trait_02: [[human]]
+trait_03: [[humanoid]]
+trait_04: [[lawful]]
 modifier: 16
 perception:
   - name: "Perception"
@@ -72,8 +73,14 @@ attacks:
     desc: "`pf2:1` Shortbow +11 (deadly d10, propulsive, range increment 60 feet, reload 0)\n__Damage__  1d6 + 6 piercing"
 
   - name: "Erinyes Fury"
-    desc: "`pf2:2`  **Requirements** The Erinyes Company agent is suffering from persistent damage\n**Effect** The agent makes a Strike. If it hits, it deals an additional 1d6 points of persistent damage; the type of this extra damage is the same as the persistent damage from which they're suffering. The agent can choose to instead have this persistent damage be spirit damage. This counts as two attacks when calculating their multiple attack penalty."
+    desc: "`pf2:2`  **Requirements** The Erinyes Company agent is suffering from persistent damage\n* * *\n\n**Effect** The agent makes a Strike. If it hits, it deals an additional 1d6 points of persistent damage; the type of this extra damage is the same as the persistent damage from which they're suffering. The agent can choose to instead have this persistent damage be spirit damage. This counts as two attacks when calculating their multiple attack penalty."
  
+```
+
+```encounter-table
+name: Yniesse Zenderholm
+creatures:
+  - 1: Yniesse Zenderholm
 ```
 
 

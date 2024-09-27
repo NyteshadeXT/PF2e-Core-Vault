@@ -19,7 +19,7 @@ license: OGL
 
 **Prerequisites** lethoci heritage or xyloshi heritage
 * * *
-Your skin is medium armor in the plate armor group that grants a +4 item bonus to AC, and has a Dex cap of +1, a check penalty of –2, a Speed penalty of –5 feet, a Strength value of 16, and the comfort trait. You can never wear other armor or remove your hide. You can etch armor runes onto your hide.
+Your skin is medium armor in the plate armor group that grants a +4 item bonus to AC, and has a Dex cap of +1, a check penalty of –2, a Speed penalty of –5 feet, a Strength value of +3, and the comfort trait. You can never wear other armor or remove your hide. You can etch armor runes onto your hide.
 
 If you're a lethoci kashrishi who takes this feat, your modifications also make you more buoyant, allowing you to Swim across the surface of even turbulent bodies of water without needing to make an Athletics check.
 

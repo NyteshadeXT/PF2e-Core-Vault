@@ -6,6 +6,7 @@ cssClasses: pf2e
 aliases: "Compendium.pf2e.pathfinder-monster-core.Actor.vVs0N3mcWYHsyccc" 
 tags:
   - pf2e/creature/type/aberration
+  - pf2eMonster
   - pf2e/creature/level/6
   - remaster
 statblock: inline
@@ -18,13 +19,14 @@ license: ORC
 columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
+token: [[modules/pf2e-tokens-monster-core/assets/portraits/zecui.webp| ]]
 source: "Pathfinder Monster Core"
 name: "Zecui"
 level: "Creature 6"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Medium"
-trait_01: "aberration"
+trait_01: [[aberration]]
 modifier: 14
 perception:
   - name: "Perception"
@@ -79,8 +81,14 @@ attacks:
     desc: "  A creature hit by the zecui's spit attack is [[Conditions/Immobilized|Immobilized]] by the larva-infested mucus and stuck to the nearest surface until it [[/act escape dc=25]]{Escapes (DC 25)}. While that creature is immobilized, it is exposed to zecui larvae at the end of each of its turns."
 
   - name: "Zecui Larvae"
-    desc: " (disease) **Saving Throw** DC 25 Fortitude check\n* * *\n\n**Stage 1** visible lumps as the larvae move but no ill effect (1 day)\n\n**Stage 2** [[Conditions/Drained 1|Drained 1]] (1 day)\n\n**Stage 3** [[Conditions/Drained 1|Drained 2]] (1 day)\n\n**Stage 4** [[Conditions/Drained 1|Drained 3]] and controlled by the zecui larva (1 day)\n\n**Stage 5** the creature dies and the adult zecui can emerge from the corpse as an Interact action"
+    desc: " (disease) **Saving Throw** DC 25 Fortitude check\n* * *\n\n**Stage 1** visible lumps as the larvae move but no ill effect (1 day)\n\n**Stage 2** [[Conditions/Drained|Drained 1]] (1 day)\n\n**Stage 3** [[Conditions/Drained|Drained 2]] (1 day)\n\n**Stage 4** [[Conditions/Drained|Drained 3]] and controlled by the zecui larva (1 day)\n\n**Stage 5** the creature dies and the adult zecui can emerge from the corpse as an Interact action"
  
+```
+
+```encounter-table
+name: Zecui
+creatures:
+  - 1: Zecui
 ```
 
 

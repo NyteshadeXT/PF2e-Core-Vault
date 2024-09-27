@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/human
   - pf2e/creature/type/humanoid
   - pf2e/creature/type/lawful
+  - pf2eMonster
   - pf2e/creature/level/3
 statblock: inline
 name: "Cultist of Alocer"
@@ -23,13 +24,13 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder One-Shot #2: Dinner at Lionlodge"
 name: "Cultist of Alocer"
 level: "Creature 3"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Medium"
-trait_01: "evil"
-trait_02: "human"
-trait_03: "humanoid"
-trait_04: "lawful"
+trait_01: [[evil]]
+trait_02: [[human]]
+trait_03: [[humanoid]]
+trait_04: [[lawful]]
 modifier: 10
 perception:
   - name: "Perception"
@@ -53,7 +54,7 @@ health:
 abilities_top:
   - name: ""
   - name: "Items"
-    desc: "[[Equipment/Composite Shortbow|Composite Shortbow]], [[Equipment/Spiked Gauntlet|Spiked Gauntlet]], [[Equipment/Scale Mail|Scale Mail]], 20x [[Equipment/Arrows|Arrows]], 3x [[Equipment/Sleep Arrow|Sleep Arrow]]"
+    desc: "[[Equipment/Composite Shortbow|Composite Shortbow]], [[Equipment/Spiked Gauntlet|Spiked Gauntlet]], [[Equipment/Scale Mail|Scale Mail]], 20x [[Equipment/Arrows|Arrows]], 3x [[Equipment/Slumber Arrow|Sleep Arrow]]"
 abilities_mid:
   - name: ""
 attacks:
@@ -74,6 +75,12 @@ attacks:
   - name: "Divine Font"
     desc: "DC 20, attack +12; __2nd __ (1 slots) _[[Spells/Harm|Harm]]_"
  
+```
+
+```encounter-table
+name: Cultist of Alocer
+creatures:
+  - 1: Cultist of Alocer
 ```
 
 

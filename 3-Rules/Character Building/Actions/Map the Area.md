@@ -11,7 +11,7 @@ license: OGL
 ---
 # Map the Area
 
-### [[concentrate]]
+### [[3-Rules/Rule References/Concentrate]]
 
 **Category** interaction; 
 

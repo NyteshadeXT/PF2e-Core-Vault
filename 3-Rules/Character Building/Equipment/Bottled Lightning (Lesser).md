@@ -11,8 +11,9 @@ tags:
   - trait/splash
   - trait/common
   - category/martial
+  - remaster
 aliases: "Compendium.pf2e.equipment-srd.Item.AFR01HVd7DcZvkpP"
-license: OGL
+license: ORC
 ---
 # Bottled Lightning (Lesser)
 ## Item 1
@@ -30,7 +31,9 @@ license: OGL
 
 **Activate** `pf2:1` Strike
 
+* * *
+
 Bottled lightning is packed with volatile reagents that create a blast of electricity when they are exposed to air. Bottled lightning deals 1d6 electricity damage and 1 electricity splash damage. On a hit, the target becomes [[Conditions/Off-Guard|Off-Guard]] until the start of your next turn.
 
-*Source: Pathfinder Core Rulebook*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

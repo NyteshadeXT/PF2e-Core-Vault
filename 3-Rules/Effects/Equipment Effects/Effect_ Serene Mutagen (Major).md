@@ -4,8 +4,9 @@ title: "Effect: Serene Mutagen (Major)"
 cssclasses: pf2e,pf2e-spell
 tags:
   - trait/common
+  - remaster
 aliases: "Compendium.pf2e.equipment-effects.Item.t7VUJHSUT6bkVUjg"
-license: OGL
+license: ORC
 ---
 # Effect: Serene Mutagen (Major)
 ## Level 17
@@ -33,5 +34,5 @@ Unimplemented effects:
 *   \-1 penalty to save DCs of offensive spells
 *   \-1 penalty per damage die to all weapon, unarmed attack and spell damage rolls
 
-*Source: Pathfinder Core Rulebook*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

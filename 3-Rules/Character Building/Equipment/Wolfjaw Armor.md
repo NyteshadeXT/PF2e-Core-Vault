@@ -25,7 +25,7 @@ Barbarians, druids and other outlanders are often forced to spend the harsh wint
 
 **Frequency** once per day
 
-**Effect** You breathe a cloud of frost in a 15-foot cone that deals 5d8 cold damage (DC 23 Reflex check).
+**Effect** You breathe a cloud of frost in a @Template\[cone|distance:15\] that deals 5d8 cold damage (DC 23 Reflex check).
 
 * * *
 

@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/humanoid
   - pf2e/creature/type/tengu
+  - pf2eMonster
   - pf2e/creature/level/10
 statblock: inline
 name: "Raskus"
@@ -23,13 +24,13 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #190: The Choosing"
 name: "Raskus"
 level: "Creature 10"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Medium"
-trait_01: "chaotic"
-trait_02: "evil"
-trait_03: "humanoid"
-trait_04: "tengu"
+trait_01: [[chaotic]]
+trait_02: [[evil]]
+trait_03: [[humanoid]]
+trait_04: [[tengu]]
 modifier: 18
 perception:
   - name: "Perception"
@@ -57,7 +58,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Snap Shot"
-    desc: "`pf2:r`  **Requirements** Raskus holds a loaded spike launcher\n**Trigger** A creature within 30 feet of Raskus uses a move action, makes a ranged attack, or leaves a square during a move action it's using\n**Effect** Raskus attempts a spike launcher Strike against the triggering creature. This Strike doesn't contribute to his multiple attack penalty, and his multiple attack penalty doesn't apply to this Strike."
+    desc: "`pf2:r`  **Requirements** Raskus holds a loaded spike launcher\n\n**Trigger** A creature within 30 feet of Raskus uses a move action, makes a ranged attack, or leaves a square during a move action it's using\n* * *\n\n**Effect** Raskus attempts a spike launcher Strike against the triggering creature. This Strike doesn't contribute to his multiple attack penalty, and his multiple attack penalty doesn't apply to this Strike."
 
 attacks:
   - name: ""
@@ -75,7 +76,7 @@ attacks:
     desc: "DC 26, attack +18; __4th __  _[[Spells/Blindness|Blindness]]_, _[[Spells/Earthbind|Earthbind]]_"
 
   - name: "Go For the Eyes"
-    desc: "`pf2:r`  **Trigger** Raskus critically hits with a beak Strike\n**Effect** Raskus attempts to peck out his victim's eyes. The target must attempt a DC 29 Fortitude check save.\n**Success** The target is unaffected.\n**Failure** The target is [[Conditions/Blinded|Blinded]] for 1 round.\n**Critical Failure** The target is blinded until healed to its maximum Hit Points."
+    desc: "`pf2:r`  **Trigger** Raskus critically hits with a beak Strike\n* * *\n\n**Effect** Raskus attempts to peck out his victim's eyes. The target must attempt a DC 29 Fortitude check save.\n* * *\n\n**Success** The target is unaffected.\n\n**Failure** The target is [[Conditions/Blinded|Blinded]] for 1 round.\n\n**Critical Failure** The target is blinded until healed to its maximum Hit Points."
 
   - name: "Opportunistic Attack"
     desc: "  Raskus's Strikes deal an additional 3d6 damage to any foe that has a reduction to its Speed, is [[Conditions/Blinded|Blinded]], or is [[Conditions/Immobilized|Immobilized]]."
@@ -83,6 +84,12 @@ attacks:
   - name: "Quick Spiker"
     desc: "  Raskus requires only 1 action, rather than 2 actions, to reload a spike launcher. He can change his grip on a spike launcher easily, improving its fatal aim d12 trait to fatal d12."
  
+```
+
+```encounter-table
+name: Raskus
+creatures:
+  - 1: Raskus
 ```
 
 

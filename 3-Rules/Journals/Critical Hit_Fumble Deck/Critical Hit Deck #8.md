@@ -20,12 +20,12 @@ tags:
 
 # Shattered Jaw
 
-> **Crit Effect:** Until healed, the target is [[Conditions/Wounded 1|Wounded 1]] and can't speak, eat, drink, or make attacks with its jaws.
+> **Crit Effect:** Until healed, the target is [[Conditions/Wounded|Wounded 1]] and can't speak, eat, drink, or make attacks with its jaws.
 
 `Slashing`
 
 # Protective Charm
 
-> You gain a [[Other Effects/Effect\_ +2 status bonus to AC and all saving throws|+2 status bonus to AC and all saving throws]] until the end of your next turn.
+> You gain a [[Other Effects/Effect_ +2 status bonus to AC and all saving throws|+2 status bonus to AC and all saving throws]] until the end of your next turn.
 
 `Bomb or Spell`

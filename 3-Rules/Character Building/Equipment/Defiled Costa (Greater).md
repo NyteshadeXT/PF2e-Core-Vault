@@ -13,7 +13,7 @@ license: OGL
 ---
 # Defiled Costa (Greater)
 ## Item 17
-### [rare](rare "Rare Rarity Trait")[[catalyst]][[consumable]][[magical]]
+### [rare](rare.md "Rare Rarity Trait")[[catalyst]][[consumable]][[3-Rules/Rule References/Magical]]
 
 **Category** other; 
 **Price** 2500 gp; 

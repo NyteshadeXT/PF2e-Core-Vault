@@ -14,7 +14,7 @@ license: ORC
 ---
 # Caterwaul Sling
 ## Item 5
-### [[magical]][[propulsive]]
+### [[3-Rules/Rule References/Magical]][[propulsive]]
 
 |  |  |
 | -- | -- |
@@ -34,7 +34,7 @@ Made of shiny brown leather, this _+1 striking sling_ has a single white thread 
 
 * * *
 
-**Effect** You pull the white thread free, then whirl the sling in circles at high speed. It lets out an ear-piercing wave of sound. Each creature in a 30-foot cone takes 4d6 sonic damage (DC 21 Fortitude check save). Any creature that fails is [[Conditions/Deafened|Deafened]] for 1 round, or 1 hour on a critical failure.
+**Effect** You pull the white thread free, then whirl the sling in circles at high speed. It lets out an ear-piercing wave of sound. Each creature in a @Template\[cone|distance:30\] takes 4d6 sonic damage (DC 21 Fortitude check save). Any creature that fails is [[Conditions/Deafened|Deafened]] for 1 round, or 1 hour on a critical failure.
 
 *Source: Pathfinder GM Core*
 *ORC*

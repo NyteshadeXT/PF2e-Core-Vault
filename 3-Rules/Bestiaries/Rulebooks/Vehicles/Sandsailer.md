@@ -1,15 +1,16 @@
 ---
-title: "Sandsailer"
+title: Sandsailer
 obsidianUIMode: preview
-noteType: pf2eMonster
+noteType: pf2eVehicle
 cssClasses: pf2e
-aliases: "Compendium.pf2e.vehicles.Actor.1ldIHIoe1aKHilX2" 
 tags:
-  - pf2e/creature/level/16
-statblock: inline
-name: "Sandsailer"
+  - pf2eVehicle
+
+source: Pathfinder #174: Shadows of the Ancients
+aliases: "Compendium.pf2e.vehicles.Actor.1ldIHIoe1aKHilX2" 
 level: 16
 license: OGL
+statblock: inline
 ---
 
 ```statblock
@@ -18,39 +19,48 @@ forcecolumns: true
 layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #174: Shadows of the Ancients"
 name: "Sandsailer"
-level: "Creature 16"
-rare_03: "Rare"
-alignment: ""
+level: "Vehicle 16"
+rare_03: [[Rare]]
+
 size: "huge"
 modifier: 
 perception:
-  - name: "Perception"
-    desc: "NaN; "
-skills:
-  - name: "Skills"
-    desc: ""
-abilityMods: [, , , , , ]
-speed: 
-sourcebook: "_Pathfinder #174: Shadows of the Ancients_"
+  - name: ""
+  - name: "Price"
+    desc: "29000 gp\n* * *"
+abilities_top:
+  - name: ""
+  - name: "Space"
+    desc: "15 feet long, 15 feet wide, 25 feet high"
+  - name: "Crew"
+    desc: "1 pilot, 2 crew; **Passengers** 6"
+  - name: "Piloting Check"
+    desc: "Athletics (DC 39), Driving Lore (DC 34), Sailing Lore (DC 34), or Nature (DC 39)"
 ac: 36
 armorclass:
   - name: AC
-    desc: "36; __Fort__ +30, __Ref__ NaN, __Will__ NaN"
+    desc: "36; __Fort__ +30"
 hp: 200
 health:
   - name: ""
-  - name: HP
-    desc: "200; __Immunities__  object immunities"
-abilities_top:
-  - name: ""
-
+  - name: "Hardness"
+    desc: "15; **HP** 200 (BT 100); __Immunities__  object immunities"
+speed: "80 feet (Wind)"
 abilities_mid:
   - name: ""
 attacks:
   - name: ""
- 
+  - name: "Collision"
+    desc: "10d12 (DC 32)"
+
+
+
+sourcebook: "_Pathfinder #174: Shadows of the Ancients_"
 ```
 
-
-
+```encounter-table
+name: Sandsailer
+creatures:
+  - 1: Sandsailer
+```
 

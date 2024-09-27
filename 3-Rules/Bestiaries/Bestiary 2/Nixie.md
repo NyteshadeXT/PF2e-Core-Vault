@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.pathfinder-bestiary-2.Actor.LZp7LLcFzDBlrwod"
 tags:
   - pf2e/creature/type/aquatic
   - pf2e/creature/type/fey
+  - pf2eMonster
   - pf2e/creature/level/1
 statblock: inline
 name: "Nixie"
@@ -25,8 +26,8 @@ level: "Creature 1"
 
 alignment: ""
 size: "Small"
-trait_01: "aquatic"
-trait_02: "fey"
+trait_01: [[aquatic]]
+trait_02: [[fey]]
 modifier: 6
 perception:
   - name: "Perception"
@@ -65,8 +66,14 @@ attacks:
     desc: "DC 17, attack +9; __2nd __  _[[Spells/Water Breathing|Water Breathing]]_; __1st __  _[[Spells/Charm|Charm (x3)]]_, _[[Spells/Hydraulic Push|Hydraulic Push]]_"
 
   - name: "Grant Desire"
-    desc: "`pf2:3` (primal) **Frequency** once per day\n**Effect** The nixie can duplicate any 1st-rank spell or produce any effect with a power level in line with a 1st-rank spell, but only in response to the request or desire of a non-fey creature. The creature whose desire is granted can never again benefit from that particular nixie's Grant Desire ability."
+    desc: "`pf2:3` (primal) **Frequency** once per day\n* * *\n\n**Effect** The nixie can duplicate any 1st-rank spell or produce any effect with a power level in line with a 1st-rank spell, but only in response to the request or desire of a non-fey creature. The creature whose desire is granted can never again benefit from that particular nixie's Grant Desire ability."
  
+```
+
+```encounter-table
+name: Nixie
+creatures:
+  - 1: Nixie
 ```
 
 

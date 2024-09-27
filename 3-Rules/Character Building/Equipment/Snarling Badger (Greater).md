@@ -23,9 +23,9 @@ license: OGL
 
 **Activate** `pf2:0` command
 
-**Trigger** You lose the [[Conditions/Dying 1|Dying]] condition
+**Trigger** You lose the [[Conditions/Dying|Dying]] condition
 
-**Requirements** You have a [[Conditions/Wounded 1|Wounded]] value of 1 or more.
+**Requirements** You have a [[Conditions/Wounded|Wounded]] value of 1 or more.
 
 * * *
 

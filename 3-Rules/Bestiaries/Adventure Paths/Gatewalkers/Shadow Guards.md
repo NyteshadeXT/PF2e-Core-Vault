@@ -6,6 +6,7 @@ tags:
   - magical
   - shadow
   - trap
+  - pf2eHazard
   - complex
 source: Pathfinder #187: The Seventh Arch
 aliases: "Compendium.pf2e.gatewalkers-bestiary.Actor.QqWfKGhNB6xJu54F" 
@@ -23,15 +24,15 @@ name: "Shadow Guards"
 level: "Hazard 2"
 
 trait_06: "Complex"
-trait_01: "magical"
-trait_02: "shadow"
-trait_03: "trap"
+trait_01: [[magical]]
+trait_02: [[shadow]]
+trait_03: [[trap]]
 modifier: 11
 sourcebook: "_Pathfinder #187: The Seventh Arch_"
 ac: 18
 armorclass:
   - name: AC
-    desc: "18; __Fort__ +11, __Ref__ +11, __Will__ +0"
+    desc: "18; __Fort__ +11, __Ref__ +11, "
 hp: 32
 health:
   - name: ""
@@ -53,7 +54,7 @@ attacks:
   - name: ""
 
   - name: "Shadow Rush"
-    desc: "`pf2:r` **Trigger** A creature enters the room\n**Effect** After waiting 1 round, the trap animates its shadowy stick figures and makes a painted spear Strike against each creature in the room. The trap rolls initiative."
+    desc: "`pf2:r` **Trigger** A creature enters the room\n* * *\n\n**Effect** After waiting 1 round, the trap animates its shadowy stick figures and makes a painted spear Strike against each creature in the room. The trap rolls initiative."
   - name: "Melee"
     desc: "Painted Spear +11 () "
 
@@ -61,5 +62,11 @@ attacks:
     desc: "(1 action) The drawings stab at each character in the room with spears drawn from sharp lines."
   - name: "Reset"
     desc: "The trap deactivates and resets after 1 minute. The drawings cannot pursue characters out of the room."
+```
+
+```encounter-table
+name: Shadow Guards
+creatures:
+  - 1: Shadow Guards
 ```
 

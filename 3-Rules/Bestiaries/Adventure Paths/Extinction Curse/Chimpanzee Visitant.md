@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/undead
   - pf2e/creature/type/unholy
+  - pf2eMonster
   - pf2e/creature/level/3
 statblock: inline
 name: "Chimpanzee Visitant"
@@ -26,14 +27,15 @@ level: "Creature 3"
 
 alignment: ""
 size: "Small"
-trait_01: "animal"
-trait_02: "evil"
-trait_03: "undead"
-trait_04: "unholy"
+trait_01: [[animal]]
+trait_02: [[evil]]
+trait_03: [[undead]]
+trait_04: [[unholy]]
 modifier: 9
 perception:
   - name: "Perception"
     desc: "+9; Darkvision, Lifesense (Imprecise) 60 Feet"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Acrobatics: +11, Athletics: +10"
@@ -55,7 +57,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "[[Creature Family Ability Glossary/(Visitant) Vengeful Presence|Vengeful Presence]]"
-    desc: " (aura,emotion,mental) 20 feet. A creature that starts its turn within the visitant's aura must succeed at a DC 16 Will check save or be overcome with a thirst for vengeance.\nFor 1d4 rounds (1 minute on a critical failure), if the affected creature was attacked within the last round (whether or not the attack hit), the creature must use at least 1 action per round to Strike or use a hostile action toward its last attacker as long as the attacker is still alive. Failure to do so deals the affected creature 1d6 mental damage."
+    desc: " (aura,emotion,mental) 20 feet. A creature that starts its turn within the visitant's aura must succeed at a DC 16 Will check save or be overcome with a thirst for vengeance.\n\nFor 1d4 rounds (1 minute on a critical failure), if the affected creature was attacked within the last round (whether or not the attack hit), the creature must use at least 1 action per round to Strike or use a hostile action toward its last attacker as long as the attacker is still alive. Failure to do so deals the affected creature 1d6 mental damage."
 
   - name: "Whip Vulnerability"
     desc: "  A chimpanzee visitant takes 5 additional damage from whips."
@@ -73,11 +75,17 @@ attacks:
     desc: "  The visitant gains a +2 circumstance bonus to damage rolls against a creature it has [[Conditions/Grabbed|Grabbed]]."
 
   - name: "Rabies"
-    desc: " (disease) Visitants can be carriers of diseases, even if they are immune to their effects.\n**Saving Throw** DC 16 Fortitude check.\n**Stage 1** [[Conditions/Sickened 1|Sickened 1]] (1 day)\n**Stage 2** [[Conditions/Sickened 1|Sickened 2]] (1 day)\n**Stage 3** [[Spells/Confusion|Confusion]] (1 day)\n**Stage 4** dead"
+    desc: " (disease) Visitants can be carriers of diseases, even if they are immune to their effects.\n\n**Saving Throw** DC 16 Fortitude check.\n\n**Stage 1** [[Conditions/Sickened|Sickened 1]] (1 day)\n\n**Stage 2** [[Conditions/Sickened|Sickened 2]] (1 day)\n\n**Stage 3** [[Spells/Confusion|Confusion]] (1 day)\n\n**Stage 4** dead"
 
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
     desc: "`pf2:1`  "
  
+```
+
+```encounter-table
+name: Chimpanzee Visitant
+creatures:
+  - 1: Chimpanzee Visitant
 ```
 
 

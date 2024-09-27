@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/amphibious
   - pf2e/creature/type/humanoid
   - pf2e/creature/type/locathah
+  - pf2eMonster
   - pf2e/creature/level/3
   - remaster
 statblock: inline
@@ -20,15 +21,16 @@ license: ORC
 columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
+token: [[modules/pf2e-tokens-bestiaries/portraits/humanoid/aquatic/locathah-hunter.webp| ]]
 source: "Pathfinder Monster Core"
 name: "Athamaru Hunter"
 level: "Creature 3"
 
 alignment: ""
 size: "Medium"
-trait_01: "amphibious"
-trait_02: "humanoid"
-trait_03: "locathah"
+trait_01: [[amphibious]]
+trait_02: [[humanoid]]
+trait_03: [[locathah]]
 modifier: 9
 perception:
   - name: "Perception"
@@ -61,7 +63,7 @@ attacks:
   - name: "Melee"
     desc: "`pf2:1` Longspear +11 (reach 10 feet)\n__Damage__  1d8 + 4 piercing"
 
-  - name: "Melee"
+  - name: "Ranged"
     desc: "`pf2:1` Crossbow +10 (range increment 120 feet, reload 1)\n__Damage__  1d8 piercing plus fan-bolt"
 
   - name: "Cooperative Hunting"
@@ -79,6 +81,12 @@ attacks:
   - name: "Smooth Swimmer"
     desc: "  The athamaru hunter ignores difficult terrain caused by aquatic terrain features."
  
+```
+
+```encounter-table
+name: Athamaru Hunter
+creatures:
+  - 1: Athamaru Hunter
 ```
 
 

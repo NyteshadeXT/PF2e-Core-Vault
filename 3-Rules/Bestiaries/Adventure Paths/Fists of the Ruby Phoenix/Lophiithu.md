@@ -6,6 +6,7 @@ cssClasses: pf2e
 aliases: "Compendium.pf2e.fists-of-the-ruby-phoenix-bestiary.Actor.AeWPn9gJMgDg7WTo" 
 tags:
   - pf2e/creature/type/evil
+  - pf2eMonster
   - pf2e/creature/level/21
 statblock: inline
 name: "Lophiithu"
@@ -20,15 +21,15 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #168: King of the Mountain"
 name: "Lophiithu"
 level: "Creature 21"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "grg"
-trait_01: "evil"
+trait_01: [[evil]]
 modifier: 38
 perception:
   - name: "Perception"
     desc: "+38; Darkvision"
-languages: "Aklo, Alghollthu, Sakvroth, Thalassic"
+languages: "Aklo, Alghollthu, Sakvroth, Thalassic; telepathy 100 feet, tongues"
 skills:
   - name: "Skills"
     desc: "Athletics: +36, Deception: +40, Occultism: +43, Stealth: +40, Survival: +36"
@@ -65,14 +66,20 @@ attacks:
     desc: "`pf2:1` Lure +37 (agile, finesse, magical, reach 40 feet)\n__Damage__  4d6 + 18 bludgeoning plus beguiling-lure 2d6 mental plus beguiling-lure"
 
   - name: "Innate Occult Spells"
-    desc: "DC 41, attack +33; __10th __  _[[Spells/Fabricated Truth|Fabricated Truth]]_, _[[Spells/Gate|Gate (At Will)]]_; __9th __  _[[Spells/Telepathic Demand|Telepathic Demand (x2)]]_, _[[Spells/Unfathomable Song|Unfathomable Song (x2)]]_; __8th __  _[[Spells/Illusory Creature|Illusory Creature (x2)]]_, _[[Spells/Phantasmal Killer|Phantasmal Killer (x2)]]_\n__Cantrips__  __(1st)__ _[[Compendium.pf2e.spells-srd.Item.kl2q6JvBZwed4B6v|Dancing Lights]]_, _[[Spells/Daze|Daze]]_\n__Constant__  __(9th)__ _[[Spells/Truespeech|Tongues]]_"
+    desc: "DC 41, attack +33; __10th __  _[[Spells/Fabricated Truth|Fabricated Truth]]_, _[[Spells/Gate|Gate (At Will)]]_; __9th __  _[[Spells/Telepathic Demand|Telepathic Demand (x2)]]_, _[[Spells/Unfathomable Song|Unfathomable Song (x2)]]_; __8th __  _[[Spells/Illusory Creature|Illusory Creature (x2)]]_, _[[Spells/Phantasmal Killer|Phantasmal Killer (x2)]]_\n__Cantrips__  __(10th)__ _[[Compendium.pf2e.spells-srd.Item.kl2q6JvBZwed4B6v|Dancing Lights]]_, _[[Spells/Daze|Daze]]_\n__Constant__  __(9th)__ _[[Spells/Truespeech|Tongues]]_"
 
   - name: "Lure Whip"
     desc: "`pf2:2`  The lophiithu makes a lure Strike against each creature within reach. These attacks count toward the lophiithu's multiple attack penalty, but the penalty doesn't increase until after these attacks."
 
   - name: "[[Bestiary Ability Glossary/Swallow Whole|Swallow Whole]]"
-    desc: "`pf2:1` (attack) Gargantuan, 3d12 + 10 bludgeoning damage, Rupture 44 and dimensional swallow\n"
+    desc: "`pf2:1` (attack) Gargantuan, 3d12+10 bludgeoning damage, Rupture 44 and dimensional swallow\n\n* * *\n"
  
+```
+
+```encounter-table
+name: Lophiithu
+creatures:
+  - 1: Lophiithu
 ```
 
 

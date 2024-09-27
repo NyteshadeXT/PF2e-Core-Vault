@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.pfs-season-4-bestiary.Actor.udCpriOCsMBEuhr8"
 tags:
   - pf2e/creature/type/human
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/3
 statblock: inline
 name: "Brinna"
@@ -21,11 +22,11 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Society Scenario #4-08: Battle for Star&#x27;s Fate"
 name: "Brinna"
 level: "Creature 3"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Medium"
-trait_01: "human"
-trait_02: "humanoid"
+trait_01: [[human]]
+trait_02: [[humanoid]]
 modifier: 5
 perception:
   - name: "Perception"
@@ -64,6 +65,12 @@ attacks:
   - name: "Smith's Fury"
     desc: "  The smith deals an additional 1d6 damage when they hit with a weapon they created."
  
+```
+
+```encounter-table
+name: Brinna
+creatures:
+  - 1: Brinna
 ```
 
 

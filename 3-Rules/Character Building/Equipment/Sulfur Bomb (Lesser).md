@@ -33,9 +33,9 @@ license: OGL
 
 * * *
 
-A thick, sulfurous, irritating gas fills this golden-yellow flask. The bomb deals 1d4 acid damage and 1 acid splash damage. On a hit, the target takes a -1 status penalty to Perception checks and attack rolls until the end of its next turn, or becomes [[Conditions/Sickened 1|Sickened 1]] on a critical hit. Creatures hit with this bomb are temporarily immune to the effects of the bomb for 1 minute.
+A thick, sulfurous, irritating gas fills this golden-yellow flask. The bomb deals 1d4 acid damage and 1 acid splash damage. On a hit, the target takes a -1 status penalty to Perception checks and attack rolls until the end of its next turn, or becomes [[Conditions/Sickened|Sickened 1]] on a critical hit. Creatures hit with this bomb are temporarily immune to the effects of the bomb for 1 minute.
 
-[[Equipment Effects/Effect_ Sulfur Bomb (Failure)|Effect: Sulfur Bomb (Failure)]]
+[[Equipment Effects/Effect_ Sulfur Bomb|Effect: Sulfur Bomb]]
 
 *Source: Pathfinder Lost Omens: The Grand Bazaar*
 *OGL*

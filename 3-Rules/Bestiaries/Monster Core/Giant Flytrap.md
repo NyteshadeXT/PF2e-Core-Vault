@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.pathfinder-monster-core.Actor.ka7bXO7HIfBxk8Gy"
 tags:
   - pf2e/creature/type/mindless
   - pf2e/creature/type/plant
+  - pf2eMonster
   - pf2e/creature/level/10
   - remaster
 statblock: inline
@@ -26,8 +27,8 @@ level: "Creature 10"
 
 alignment: ""
 size: "huge"
-trait_01: "mindless"
-trait_02: "plant"
+trait_01: [[mindless]]
+trait_02: [[plant]]
 modifier: 17
 perception:
   - name: "Perception"
@@ -35,7 +36,7 @@ perception:
 languages: ""
 skills:
   - name: "Skills"
-    desc: "Athletics: +23, Stealth: +21 (+24 in undergrowth)"
+    desc: "Athletics: +23, Stealth: +21"
 abilityMods: [7, 5, 5, -5, 3, -2]
 speed: 25 feet
 sourcebook: "_Pathfinder Monster Core_"
@@ -69,8 +70,14 @@ attacks:
     desc: "`pf2:2`  The flytrap makes four leaf Strikes at a -2 penalty, each against a different target. These attacks count toward the flytrap's multiple attack penalty, but the multiple attack penalty doesn't increase until after it makes all its attacks."
 
   - name: "[[Bestiary Ability Glossary/Swallow Whole|Swallow Whole]]"
-    desc: "`pf2:1` (attack) Large, 2d8 + 3 bludgeoning + 2d6 acid, Rupture 17\n\n* * *\n"
+    desc: "`pf2:1` (attack) Large, 2d8+3 bludgeoning + 2d6 acid, Rupture 17\n\n* * *\n"
  
+```
+
+```encounter-table
+name: Giant Flytrap
+creatures:
+  - 1: Giant Flytrap
 ```
 
 

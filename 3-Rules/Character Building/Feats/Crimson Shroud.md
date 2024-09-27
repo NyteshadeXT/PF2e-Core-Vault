@@ -8,8 +8,9 @@ tags:
   - trait/magical
   - trait/common
   - category/class
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.M2V1vqAziOkWV30B"
-license: OGL
+license: ORC
 ---
 # Crimson Shroud `pf2:1`
 ## Feat 6
@@ -21,11 +22,13 @@ license: OGL
 
 **Prerequisites** Red Mantis Assassin Dedication
 * * *
-**Frequency** A number of times per day equal to your number of class feats from the Red Mantis assassin archetype
+**Frequency** once per day
 
 * * *
 
 You swathe yourself in a veil of red mist for 1 minute. While the shroud is active, you gain fast healing equal to half your level. You can Interact with your shroud, swirling it around you, to gain a +1 circumstance bonus to AC until the beginning of your next turn. Finally, if you die while the shroud is active, you can choose to have your entire body vanish into red mist, leaving behind only your gear; you make this choice when you activate Crimson Shroud.
 
-*Source: Pathfinder Lost Omens: World Guide*
-*OGL*
+At 10th level, you can use this ability once per hour instead of once per day.
+
+*Source: Pathfinder Adventure: Prey for Death*
+*ORC*

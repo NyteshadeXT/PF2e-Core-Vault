@@ -12,7 +12,7 @@ license: OGL
 ---
 # Explosive Mine (Greater)
 ## Item 12
-### [uncommon](uncommon "Uncommon Rarity Trait")[[consumable]][[gadget]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[consumable]][[gadget]]
 
 **Category** gadget; 
 **Price** 400 gp; 

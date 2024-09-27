@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/chaotic
   - pf2e/creature/type/halfling
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/17
 statblock: inline
 name: "Ruby"
@@ -22,12 +23,12 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #186: Ghost King&#x27;s Rage"
 name: "Ruby"
 level: "Creature 17"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Small"
-trait_01: "chaotic"
-trait_02: "halfling"
-trait_03: "humanoid"
+trait_01: [[chaotic]]
+trait_02: [[halfling]]
+trait_03: [[humanoid]]
 modifier: 25
 perception:
   - name: "Perception"
@@ -79,8 +80,14 @@ attacks:
     desc: "  Ruby's Strikes deal an additional 4d6 damage if she has moved at least 10 feet during her turn."
 
   - name: "Timely Boast"
-    desc: "`pf2:r`  **Trigger** A creature is critically hit by Ruby, or a creature critically misses Ruby\n**Effect** Ruby taunts the triggering creature and boasts about her prowess. Ruby attempts to [[Actions/Demoralize|Demoralize]] the triggering creature."
+    desc: "`pf2:r`  **Trigger** A creature is critically hit by Ruby, or a creature critically misses Ruby\n* * *\n\n**Effect** Ruby taunts the triggering creature and boasts about her prowess. Ruby attempts to [[Actions/Demoralize|Demoralize]] the triggering creature."
  
+```
+
+```encounter-table
+name: Ruby
+creatures:
+  - 1: Ruby
 ```
 
 

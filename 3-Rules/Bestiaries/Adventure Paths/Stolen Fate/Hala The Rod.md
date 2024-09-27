@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.stolen-fate-bestiary.Actor.P604YfY14wo4Uu56"
 tags:
   - pf2e/creature/type/fey
   - pf2e/creature/type/lawful
+  - pf2eMonster
   - pf2e/creature/level/20
 statblock: inline
 name: "Hala The Rod"
@@ -21,19 +22,19 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #192: Worst of All Possible Worlds"
 name: "Hala The Rod"
 level: "Creature 20"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Large"
-trait_01: "fey"
-trait_02: "lawful"
+trait_01: [[fey]]
+trait_02: [[lawful]]
 modifier: 41
 perception:
   - name: "Perception"
     desc: "+41; Greater Darkvision, Lifesense 120 Feet, Truesight"
-languages: "Common, Fey, Jotun"
+languages: "Common, Fey, Jotun; tongues"
 skills:
   - name: "Skills"
-    desc: "Crafting: +36, Deception: +35, Intimidation: +37, Lore (All): +28, Medicine: +38, Occultism: +34, Performance: +31, Religion: +34"
+    desc: "Crafting: +36, Deception: +35, Intimidation: +37, Medicine: +38, Occultism: +34, Performance: +31, Religion: +34, Lore (All): +28"
 abilityMods: [7, 6, 6, 6, 10, 7]
 speed: 35 feet,  fly 35 feet
 sourcebook: "_Pathfinder #192: Worst of All Possible Worlds_"
@@ -76,20 +77,26 @@ attacks:
     desc: " (fortune,misfortune) When a creature is subject to a fortune effect from a norn and a misfortune effect from any source other than a norn (or vice versa), the norn's effect automatically counteracts the other effect and then takes place normally, rather than the two effects canceling each other out. If both the fortune and misfortune effect are from a norn, then the two cancel each other out as normal. At the GM's discretion, powerful entities related to fate or luck, like Desna, Magdh, or Pharasma, count as a norn for the purpose of this ability."
 
   - name: "Reel Thread"
-    desc: "`pf2:2` (incapacitation,mental,occult) Hala pulls back a portion of golden thread related to a creature within 100 feet. As the thread frays, the creature is forced to relive that instant of their life. The targeted creature attempts a DC 42 Will check save. It then becomes temporarily immune to Reel Thread for 1 minute.\n**Critical Success** The target is unaffected.\n**Success** The target is momentarily distracted as the moment replays in their mind. They become [[Conditions/Stupefied 1|Stupefied 1]] until the end of their turn.\n**Failure** The target is compelled to relive their most recent moments. Whatever actions the target uses on their next turn, they must repeat on their following turn. The actions must be repeated in the same order and as close to the same specifics as possible. For example, if the target makes an attack, they must repeat the attack against the same creature, if possible, and if the target moves, they must move the same distance and direction, if possible, on their next turn. If the target can't repeat an action, such as Casting a Spell that has been exhausted or needing to target a creature that has died, they can act as they choose for that action but become stupefied 1 until the end of their turn.\n**Critical Failure** As failure, except the creature takes a –2 circumstance penalty to all checks they attempts when they repeats their actions."
+    desc: "`pf2:2` (incapacitation,mental,occult) Hala pulls back a portion of golden thread related to a creature within 100 feet. As the thread frays, the creature is forced to relive that instant of their life. The targeted creature attempts a DC 42 Will check save. It then becomes temporarily immune to Reel Thread for 1 minute.\n* * *\n\n**Critical Success** The target is unaffected.\n\n**Success** The target is momentarily distracted as the moment replays in their mind. They become [[Conditions/Stupefied|Stupefied 1]] until the end of their turn.\n\n**Failure** The target is compelled to relive their most recent moments. Whatever actions the target uses on their next turn, they must repeat on their following turn. The actions must be repeated in the same order and as close to the same specifics as possible. For example, if the target makes an attack, they must repeat the attack against the same creature, if possible, and if the target moves, they must move the same distance and direction, if possible, on their next turn. If the target can't repeat an action, such as Casting a Spell that has been exhausted or needing to target a creature that has died, they can act as they choose for that action but become stupefied 1 until the end of their turn.\n\n**Critical Failure** As failure, except the creature takes a –2 circumstance penalty to all checks they attempts when they repeats their actions."
 
   - name: "Sever Fate"
-    desc: " (occult) When a norn deals void damage with a Strike, she regains 10 Hit Points. The target must succeed at a DC 39 Fortitude check save or become [[Conditions/Drained 1|Drained 1]] ([[Conditions/Drained 1|Drained 2]] on a critical failure).\nFurther void damage dealt by the norn increases the drained condition value by 1 on a failed save (or by 2 on a critical failure), to a maximum of drained 4."
+    desc: " (occult) When a norn deals void damage with a Strike, she regains 10 Hit Points. The target must succeed at a DC 39 Fortitude check save or become [[Conditions/Drained|Drained 1]] ([[Conditions/Drained|Drained 2]] on a critical failure).\n\nFurther void damage dealt by the norn increases the drained condition value by 1 on a failed save (or by 2 on a critical failure), to a maximum of drained 4."
 
   - name: "Shift Fate"
-    desc: "`pf2:r` (fortune,misfortune,occult) **Trigger** A creature within 120 feet attempts a saving throw\n**Effect** The creature rolls the saving throw twice, and then the norn decides which result applies. If the norn chooses the lower roll, this is a misfortune effect; if she chooses the higher roll, it's a fortune effect; if they're the same, she decides which trait to apply."
+    desc: "`pf2:r` (fortune,misfortune,occult) **Trigger** A creature within 120 feet attempts a saving throw\n* * *\n\n**Effect** The creature rolls the saving throw twice, and then the norn decides which result applies. If the norn chooses the lower roll, this is a misfortune effect; if she chooses the higher roll, it's a fortune effect; if they're the same, she decides which trait to apply."
 
   - name: "Snip Thread"
-    desc: "`pf2:2` (death,manipulate,occult) **Frequency** three times per day\n**Effect** The norn produces a golden thread linked to the fate of a creature within 100 feet of her, then snips it short with her shears. The target takes 100 void damage (DC 42 Fortitude check save). If the target is reduced to 0 Hit Points from this damage, the thread is completely severed and the creature dies immediately. A creature slain by Snip Thread can't be restored to life except by [[Spells/Miracle|Miracle]], [[Spells/Wish|Wish]], or similarly powerful magic; or by divine intervention. Regardless of the outcome of their saving throw, a creature targeted by Snip Thread then becomes temporarily immune for 24 hours. The norn can't use Snip Thread again for 1d4 rounds."
+    desc: "`pf2:2` (death,manipulate,occult) **Frequency** three times per day\n* * *\n\n**Effect** The norn produces a golden thread linked to the fate of a creature within 100 feet of her, then snips it short with her shears. The target takes 100 void damage (DC 42 Fortitude check save). If the target is reduced to 0 Hit Points from this damage, the thread is completely severed and the creature dies immediately. A creature slain by Snip Thread can't be restored to life except by [[Spells/Miracle|Miracle]], [[Spells/Wish|Wish]], or similarly powerful magic; or by divine intervention. Regardless of the outcome of their saving throw, a creature targeted by Snip Thread then becomes temporarily immune for 24 hours. The norn can't use Snip Thread again for 1d4 rounds."
 
   - name: "Undo Fate"
-    desc: "`pf2:r` (occult) **Frequency** once per minute\n**Trigger** The norn critically fails a check or a creature critically hits the norn\n**Effect** The norn lightly frays the golden thread of fate she holds, tampering with the fate at hand. If the triggering check was the norn's critical failure, she gets a failure instead. If the triggering check was a critical hit on the norn, it becomes a hit."
+    desc: "`pf2:r` (occult) **Frequency** once per minute\n\n**Trigger** The norn critically fails a check or a creature critically hits the norn\n* * *\n\n**Effect** The norn lightly frays the golden thread of fate she holds, tampering with the fate at hand. If the triggering check was the norn's critical failure, she gets a failure instead. If the triggering check was a critical hit on the norn, it becomes a hit."
  
+```
+
+```encounter-table
+name: Hala The Rod
+creatures:
+  - 1: Hala The Rod
 ```
 
 

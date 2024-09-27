@@ -10,6 +10,7 @@ tags:
   - pf2e/creature/type/human
   - pf2e/creature/type/humanoid
   - pf2e/creature/type/unholy
+  - pf2eMonster
   - pf2e/creature/level/5
 statblock: inline
 name: "Antipaladin"
@@ -27,11 +28,11 @@ level: "Creature 5"
 
 alignment: ""
 size: "Medium"
-trait_01: "chaotic"
-trait_02: "evil"
-trait_03: "human"
-trait_04: "humanoid"
-trait_05: "unholy"
+trait_01: [[chaotic]]
+trait_02: [[evil]]
+trait_03: [[human]]
+trait_04: [[humanoid]]
+trait_05: [[unholy]]
 modifier: 10
 perception:
   - name: "Perception"
@@ -59,7 +60,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Destructive Vengeance"
-    desc: "`pf2:r` (divine) **Trigger** An enemy within 15 feet damages the antipaladin\n**Effect** The antipaladin increases the amount of damage they take by 2d6 and deals 2d6 to the triggering enemy, choosing 2d6 spirit or 2d6 void damage. In addition, the antipaladin deals 2 extra damage of the chosen type with their Strikes against the triggering creature until the end of the antipaladin's next turn."
+    desc: "`pf2:r` (divine) **Trigger** An enemy within 15 feet damages the antipaladin\n* * *\n\n**Effect** The antipaladin increases the amount of damage they take by 2d6 and deals 2d6 to the triggering enemy, choosing 2d6 spirit or 2d6 void damage. In addition, the antipaladin deals 2 extra damage of the chosen type with their Strikes against the triggering creature until the end of the antipaladin's next turn."
 
 attacks:
   - name: ""
@@ -71,11 +72,17 @@ attacks:
     desc: "`pf2:1` Javelin +12 (thrown 30 ft.)\n__Damage__  1d6 + 10 piercing"
 
   - name: "Champion Devotion Spells"
-    desc: "1 Focus Point, DC 20, attack +12; __3rd __  _[[Spells/Touch of Corruption|Touch of Corruption]]_"
+    desc: "1 Focus Point, DC 20, attack +12; __3rd __  _[[Spells/Touch of the Void|Touch of Corruption]]_"
 
   - name: "Intimidating Strike"
-    desc: "`pf2:2`  The antipaladin makes a melee Strike. If they hit and deal damage, the target is [[Conditions/Frightened 1|Frightened 1]], or [[Conditions/Frightened 1|Frightened 2]] on a critical hit."
+    desc: "`pf2:2`  The antipaladin makes a melee Strike. If they hit and deal damage, the target is [[Conditions/Frightened|Frightened 1]], or [[Conditions/Frightened|Frightened 2]] on a critical hit."
  
+```
+
+```encounter-table
+name: Antipaladin
+creatures:
+  - 1: Antipaladin
 ```
 
 

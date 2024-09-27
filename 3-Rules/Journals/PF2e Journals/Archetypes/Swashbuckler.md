@@ -16,9 +16,7 @@ You fight with flair and style, adding swashbuckling tricks to your combat reper
 
 * * *
 
-Choose a swashbuckler style. You gain the panache class feature, and you can gain panache in all the ways a swashbuckler of your style can. You become trained in Acrobatics or the skill associated with your style. If you were already trained in both skills, you instead become trained in a skill of your choice. You also become trained in swashbuckler class DC. You don't gain any other effects of your chosen style.
-
-**Special** You can't select another dedication feat until you have gained two other feats from the swashbuckler archetype.
+Choose a swashbuckler's style. You gain the [[Class Features/Panache|Panache]] class feature, and you apply the bravado trait to [[Actions/Tumble Through|Tumble Through]] and any actions indicated in your swashbuckler style, allowing you to gain panache. You become trained in Acrobatics or the skill associated with your style. If you were already trained in both skills, you instead become trained in a skill of your choice. You also become trained in swashbuckler class DC. You don't gain any other effects of your chosen style.
 
 ## [[Feats/Basic Flair|Basic Flair]] Feat 4
 

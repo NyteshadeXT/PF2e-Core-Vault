@@ -3,6 +3,7 @@ obsidianUIMode: preview
 title: "Silent Bell"
 cssclasses: pf2e,pf2e-spell
 tags:
+  - trait/illusion
   - trait/magical
   - trait/uncommon
 aliases: "Compendium.pf2e.equipment-srd.Item.ojbsJu6Uq269xx3U"
@@ -10,7 +11,7 @@ license: OGL
 ---
 # Silent Bell
 ## Item 9
-### [uncommon](uncommon "Uncommon Rarity Trait")[[magical]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[illusion]][[magical]]
 
 
 **Price** 600 gp; 

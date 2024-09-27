@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.season-of-ghosts-bestiary.Actor.K68BqK1Ero3x8NsK"
 tags:
   - pf2e/creature/type/chaotic
   - pf2e/creature/type/fey
+  - pf2eMonster
   - pf2e/creature/level/11
 statblock: inline
 name: "Imprecasia"
@@ -21,11 +22,11 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #199: To Bloom Below the Web"
 name: "Imprecasia"
 level: "Creature 11"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Medium"
-trait_01: "chaotic"
-trait_02: "fey"
+trait_01: [[chaotic]]
+trait_02: [[fey]]
 modifier: 23
 perception:
   - name: "Perception"
@@ -55,7 +56,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Drink Death"
-    desc: "`pf2:r` (primal) **Trigger** A creature within 30 feet of the imprecasia is [[Conditions/Dying 1|Dying]]\n**Effect** The imprecasia inhales, drawing a thin blue streak of vapor out of the dying creature's body into their mouth. The dying creature's dying condition is reduced by 1, and the imprecasia regains 2d10 + 9 Hit Points."
+    desc: "`pf2:r` (primal) **Trigger** A creature within 30 feet of the imprecasia is [[Conditions/Dying|Dying]]\n* * *\n\n**Effect** The imprecasia inhales, drawing a thin blue streak of vapor out of the dying creature's body into their mouth. The dying creature's dying condition is reduced by 1, and the imprecasia regains 2d10+9 Hit Points."
 
 attacks:
   - name: ""
@@ -67,11 +68,17 @@ attacks:
     desc: "DC 32, attack +22; __5th __  _[[Spells/Blindness|Blindness]]_, _[[Spells/Cleanse Affliction|Cleanse Affliction (Curse Only)]]_, _[[Spells/Deafness|Deafness]]_, _[[Spells/Mirage|Mirage]]_\n__Cantrips__  __(6th)__ _[[Spells/Tangle Vine|Tangle Vine]]_"
 
   - name: "Devour Curse"
-    desc: "`pf2:2` (primal) The imprecasia casts [[Spells/Cleanse Affliction|Cleanse Affliction]] against a curse afflicting a creature, but with a cast of two actions rather than 10 minutes. If they succeed in removing the curse, they also drains vitality from the creature, causing it to become [[Conditions/Drained 1|Drained 1]] unless it succeeds at a DC 30 Fortitude check save ([[Conditions/Drained 1|Drained 2]] on a critical failure). If the curse is removed, the imprecasia doesn't expend that use of remove curse as a primal innate spell.\n## Targeting Items\nAn imprecasia can cast remove curse on a cursed item rather than on a creature, but they can't use Devour Curse on it. They can only do so on an item that's of a level equal to or less than their own level; on a success, the item is uncursed for 24 hours if it's of a level equal to or higher than the imprecasia's level –4, or uncursed permanently if it's lower level than that."
+    desc: "`pf2:2` (primal) The imprecasia casts [[Spells/Cleanse Affliction|Cleanse Affliction]] against a curse afflicting a creature, but with a cast of two actions rather than 10 minutes. If they succeed in removing the curse, they also drains vitality from the creature, causing it to become [[Conditions/Drained|Drained 1]] unless it succeeds at a DC 30 Fortitude check save ([[Conditions/Drained|Drained 2]] on a critical failure). If the curse is removed, the imprecasia doesn't expend that use of remove curse as a primal innate spell.\n\n## Targeting Items\n\nAn imprecasia can cast remove curse on a cursed item rather than on a creature, but they can't use Devour Curse on it. They can only do so on an item that's of a level equal to or less than their own level; on a success, the item is uncursed for 24 hours if it's of a level equal to or higher than the imprecasia's level –4, or uncursed permanently if it's lower level than that."
 
   - name: "Homeland's Hostility"
     desc: " (curse,primal) A creature that takes damage from the imprecasia's claws must attempt a DC 30 Will check save. On a failure, it treats all terrain within 60 feet of an imprecasia as difficult terrain."
  
+```
+
+```encounter-table
+name: Imprecasia
+creatures:
+  - 1: Imprecasia
 ```
 
 

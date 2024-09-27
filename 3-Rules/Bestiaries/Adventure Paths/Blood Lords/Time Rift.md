@@ -5,6 +5,7 @@ noteType: pf2eHazard
 tags:
   - magical
   - trap
+  - pf2eHazard
   - complex
 source: Pathfinder #186: Ghost King&#x27;s Rage
 aliases: "Compendium.pf2e.blood-lords-bestiary.Actor.I83vD5fNYIC1s3Xg" 
@@ -22,8 +23,8 @@ name: "Time Rift"
 level: "Hazard 20"
 
 trait_06: "Complex"
-trait_01: "magical"
-trait_02: "trap"
+trait_01: [[magical]]
+trait_02: [[trap]]
 modifier: 42
 sourcebook: "_Pathfinder #186: Ghost King's Rage_"
 perception:
@@ -42,10 +43,16 @@ attacks:
   - name: ""
 
   - name: "Pause"
-    desc: "`pf2:r` (incapacitation) **Trigger** A creature enters the area\n**Effect** The triggering creature becomes temporarily unmoored from time, becoming [[Conditions/Stunned 1|Stunned 3]]. If the creature succeeds at a DC 47 Will check save, they reduce this to [[Conditions/Stunned 1|Stunned 1]]. The trap then rolls initiative."
+    desc: "`pf2:r` (incapacitation) **Trigger** A creature enters the area\n* * *\n\n**Effect** The triggering creature becomes temporarily unmoored from time, becoming [[Conditions/Stunned|Stunned 3]]. If the creature succeeds at a DC 47 Will check save, they reduce this to [[Conditions/Stunned|Stunned 1]]. The trap then rolls initiative."
 
   - name: "Routine"
-    desc: "(1 action) On its initiative, the time rift alters each creature's timeline. Each creature in the area rolls a 1d4 to randomly determine the effect on them.\n**1** The creature becomes [[Conditions/Slowed 1|Slowed 1]] for 1 round.\n**2** The creature is unaffected.\n**3** The creature is affected erratically by time; they're [[Conditions/Concealed|Concealed]] for 1 round.\n**4** The creature becomes [[Conditions/Quickened|Quickened]] 1 for 1 round."
+    desc: "(1 action) On its initiative, the time rift alters each creature's timeline. Each creature in the area rolls a 1d4 to randomly determine the effect on them.\n\n**1** The creature becomes [[Conditions/Slowed|Slowed 1]] for 1 round.\n\n**2** The creature is unaffected.\n\n**3** The creature is affected erratically by time; they're [[Conditions/Concealed|Concealed]] for 1 round.\n\n**4** The creature becomes [[Conditions/Quickened|Quickened]] 1 for 1 round."
 
+```
+
+```encounter-table
+name: Time Rift
+creatures:
+  - 1: Time Rift
 ```
 

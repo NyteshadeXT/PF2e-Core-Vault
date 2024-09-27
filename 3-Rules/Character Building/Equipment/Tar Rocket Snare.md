@@ -29,7 +29,7 @@ You coat a small firework with a thick layer of resin and tar, so it sticks firm
 
 **Success** The creature is dealt a glancing blow by the rocket and becomes [[Conditions/Off-Guard|Off-Guard]] until the start of its next turn.
 
-**Failure** The rocket's coating of tar and resin sticks to the creature, and it can't be shaken loose. The creature becomes off-guard for 1 round, and [[Conditions/Clumsy 1|Clumsy 1]] for 1 minute or until it Escapes (DC 20).
+**Failure** The rocket's coating of tar and resin sticks to the creature, and it can't be shaken loose. The creature becomes off-guard for 1 round, and [[Conditions/Clumsy|Clumsy 1]] for 1 minute or until it Escapes (DC 20).
 
 **Critical Failure** As failure, but the creature takes a direct hit. It takes 2d6 bludgeoning damage and is pushed 10 feet in the direction the rocket faces.
 

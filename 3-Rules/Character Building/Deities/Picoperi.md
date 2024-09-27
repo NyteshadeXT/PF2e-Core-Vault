@@ -37,9 +37,9 @@ When casting the [[Spells/Avatar|Avatar]] spell, a worshipper of Picoperi become
 
 **Picoperi** Speed 70 feet, immune to [[Conditions/Immobilized|Immobilized]], air walk
 
-Melee `pf2:1` cunning prank (finesse, nonlethal, reach 15 feet, versatile P or S), Damage 6d4 + 6 bludgeoning
+Melee `pf2:1` cunning prank (finesse, nonlethal, reach 15 feet, versatile P or S), Damage 6d4+6 bludgeoning
 
-Ranged `pf2:1` uncontrollable laughter (nonlethal, range 60 feet), Damage 6d6 + 3 mental
+Ranged `pf2:1` uncontrollable laughter (nonlethal, range 60 feet), Damage 6d6+3 mental
 
 *Source: Pathfinder Lost Omens: Firebrands*
 *OGL*

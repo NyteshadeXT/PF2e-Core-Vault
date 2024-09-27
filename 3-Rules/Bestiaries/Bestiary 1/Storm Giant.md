@@ -10,6 +10,7 @@ tags:
   - pf2e/creature/type/giant
   - pf2e/creature/type/good
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/13
 statblock: inline
 name: "Storm Giant"
@@ -28,11 +29,11 @@ level: "Creature 13"
 
 alignment: ""
 size: "huge"
-trait_01: "amphibious"
-trait_02: "chaotic"
-trait_03: "giant"
-trait_04: "good"
-trait_05: "humanoid"
+trait_01: [[amphibious]]
+trait_02: [[chaotic]]
+trait_03: [[giant]]
+trait_04: [[good]]
+trait_05: [[humanoid]]
 modifier: 24
 perception:
   - name: "Perception"
@@ -78,7 +79,7 @@ attacks:
     desc: "DC 33, attack +25; __6th __  _[[Spells/Chain Lightning|Chain Lightning (x3)]]_; __5th __  _[[Spells/Control Weather|Control Weather (At Will)]]_; __3rd __  _[[Spells/Levitate|Levitate (At Will)]]_\n__Constant__  __(4th)__ _[[Spells/Unfettered Movement|Freedom of Movement]]_"
 
   - name: "Lightning Blade"
-    desc: "`pf2:3` (electricity,primal) The storm giant raises one hand to the sky, channeling a bolt of lightning into the blade held in the other. The giant makes a greatsword Strike with a -2 circumstance penalty against each creature within its reach.\nIt makes only one attack roll and compares the result against each creature's AC. This Strike deals an additional 3d12 electricity damage and counts as two attacks for the giant's multiple attack penalty."
+    desc: "`pf2:3` (electricity,primal) The storm giant raises one hand to the sky, channeling a bolt of lightning into the blade held in the other. The giant makes a greatsword Strike with a -2 circumstance penalty against each creature within its reach.\n\nIt makes only one attack roll and compares the result against each creature's AC. This Strike deals an additional 3d12 electricity damage and counts as two attacks for the giant's multiple attack penalty."
 
   - name: "[[Bestiary Ability Glossary/Throw Rock|Throw Rock]]"
     desc: "`pf2:1`  "
@@ -86,6 +87,12 @@ attacks:
   - name: "Wide Swing"
     desc: "`pf2:1`  The storm giant makes a single greatsword Strike and compares the attack roll result to the ACs of up to two foes within its reach. This counts as two attacks for the giant's multiple attack penalty."
  
+```
+
+```encounter-table
+name: Storm Giant
+creatures:
+  - 1: Storm Giant
 ```
 
 

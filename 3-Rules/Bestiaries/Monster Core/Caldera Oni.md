@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/giant
   - pf2e/creature/type/humanoid
   - pf2e/creature/type/oni
+  - pf2eMonster
   - pf2e/creature/level/14
   - remaster
 statblock: inline
@@ -28,10 +29,10 @@ level: "Creature 14"
 
 alignment: ""
 size: "Large"
-trait_01: "fire"
-trait_02: "giant"
-trait_03: "humanoid"
-trait_04: "oni"
+trait_01: [[fire]]
+trait_02: [[giant]]
+trait_03: [[humanoid]]
+trait_04: [[oni]]
 modifier: 26
 perception:
   - name: "Perception"
@@ -59,7 +60,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Bean Panic"
-    desc: "  Oni are curiously afraid of beans, especially as the seasons begin to change. If a creature Interacts to throw a handful of beans at the oni, the oni becomes [[Conditions/Frightened 1|Frightened 2]]. While frightened this way, their weakness to spirit damage is increased by 5. The oni then becomes immune to bean panic for 24 hours."
+    desc: "  Oni are curiously afraid of beans, especially as the seasons begin to change. If a creature Interacts to throw a handful of beans at the oni, the oni becomes [[Conditions/Frightened|Frightened 2]]. While frightened this way, their weakness to spirit damage is increased by 5. The oni then becomes immune to bean panic for 24 hours."
 
   - name: "[[Bestiary Ability Glossary/Reactive Strike|Reactive Strike]]"
     desc: "`pf2:r`  "
@@ -88,6 +89,12 @@ attacks:
   - name: "Dance of Burning War"
     desc: "`pf2:3`  **Frequency** once per minute\n* * *\n\n**Effect** The oni's heat becomes overwhelming, causing them to breathe out superheated ash and dance across the battlefield. The caldera oni Strides, then makes a melee Strike. If the Strike hits, the oni can Stride again and Strike again, repeating this until they have either missed with a Strike or made three Strikes total.\n\nThe oni then finishes the dance by calling down volcanic lightning through the cloud of ash. Each creature hit by a Strike during the dance takes 3d6 fire damage and 3d6 electricity damage with a DC 34 Reflex check save."
  
+```
+
+```encounter-table
+name: Caldera Oni
+creatures:
+  - 1: Caldera Oni
 ```
 
 

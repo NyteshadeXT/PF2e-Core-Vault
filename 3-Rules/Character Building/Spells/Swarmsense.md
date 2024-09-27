@@ -4,6 +4,7 @@ title: "Swarmsense"
 noteType: pf2eSpell
 cssclasses: pf2e,pf2e-spell
 tags:
+  - pf2eSpell
   - spell/level/1
   - trait/cleric
   - trait/concentrate
@@ -11,22 +12,29 @@ tags:
   - trait/focus
   - trait/manipulate
   - trait/common
+
 aliases: "Compendium.pf2e.spells-srd.Item.5wjl0ZwEvvUh7sor" 
+license: OGL
 ---
-# Swarmsense   
-## Focus 1
-### [[cleric]][[concentrate]][[exploration]][[focus]][[manipulate]]
+```statblock
+name: "Swarmsense "
+level: "Focus 1"
 
-**Cast** 1 minute* * * 
-You extend your senses through a multitude of crawling and flying creatures. You create a crawling swarm in your square. You can hear through the swarm as if using your normal auditory senses. The first time you Sustain the Spell each round, you can move the swarm 10 feet along the ground in any direction. The swarm has AC 15 and a +0 bonus to its saves. Any damage dealt to the swarm destroys it and ends the spell.
+trait_01: [[cleric]]
+trait_02: [[concentrate]]
+trait_03: [[exploration]]
+trait_04: [[focus]]
+trait_05: [[manipulate]]
+layout: Basic Pathfinder 2e Layout
+columns: 1
+columnWidth: x
+abilities_top:
+  - name: ""
+  - name: "Cast"
+    desc: "1 minute"
 
-* * *
-
-**Heightened (3rd)** The swarm has the benefits of spider climb.
-
-**Heightened (5th)** The swarm has a fly Speed of 10 feet. You can see through the swarm using your visual senses.
-
-**Heightened (7th)** The swarm gains a 10-foot status bonus to its Speeds.
-
-*Source: Pathfinder Lost Omens: Gods & Magic*
-*OGL*
+abilities_mid:
+  - name: ""
+    desc: "You extend your senses through a multitude of crawling and flying creatures. You create a crawling swarm in your square. You can hear through the swarm as if using your normal auditory senses. The first time you Sustain the Spell each round, you can move the swarm 10 feet along the ground in any direction. The swarm has AC 15 and a +0 bonus to its saves. Any damage dealt to the swarm destroys it and ends the spell.\n* * *\n\n**Heightened (3rd)** The swarm has the benefits of spider climb.\n\n**Heightened (5th)** The swarm has a fly Speed of 10 feet. You can see through the swarm using your visual senses.\n\n**Heightened (7th)** The swarm gains a 10-foot status bonus to its Speeds."
+sourcebook: "_Pathfinder Lost Omens: Gods & Magic_"
+```

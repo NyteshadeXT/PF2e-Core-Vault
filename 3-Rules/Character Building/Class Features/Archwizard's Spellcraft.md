@@ -12,7 +12,7 @@ license: ORC
 ---
 # Archwizard's Spellcraft
 ## Feat 19
-### [[wizard]]
+### [[3-Rules/trait_reference/wizard]]
 
 **Category** classfeature; 
 

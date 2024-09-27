@@ -4,16 +4,18 @@ title: "Harbinger's Caw"
 cssclasses: pf2e,pf2e-spell
 tags:
   - trait/auditory
+  - trait/divine
   - trait/misfortune
   - trait/tengu
   - trait/common
   - category/ancestry
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.KRfZcToCc5nvcQRa"
-license: OGL
+license: ORC
 ---
 # Harbinger's Caw `pf2:r`
 ## Feat 13
-### [[auditory]][[misfortune]][[tengu]]
+### [[auditory]][[divine]][[misfortune]][[tengu]]
 
 **Category** ancestry; 
 
@@ -28,5 +30,5 @@ license: OGL
 
 You caw ominously, cursing the creature with misfortune. The target creature must roll the triggering check twice and take the lower result.
 
-*Source: Pathfinder Lost Omens: Ancestry Guide*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

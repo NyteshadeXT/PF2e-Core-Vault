@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/construct
   - pf2e/creature/type/evil
   - pf2e/creature/type/gremlin
+  - pf2eMonster
   - pf2e/creature/level/1
 statblock: inline
 name: "Gunpowder Bear"
@@ -24,13 +25,13 @@ token: [[modules/battlezoo-bestiary-su-pf2e/art/Portraits/gunpowder-bear.webp| ]
 source: "Battlezoo Bestiary: Strange and Unusual"
 name: "Gunpowder Bear"
 level: "Creature 1"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "tiny"
-trait_01: "chaotic"
-trait_02: "construct"
-trait_03: "evil"
-trait_04: "gremlin"
+trait_01: [[chaotic]]
+trait_02: [[construct]]
+trait_03: [[evil]]
+trait_04: [[gremlin]]
 modifier: 4
 perception:
   - name: "Perception"
@@ -38,7 +39,7 @@ perception:
 languages: "Sakvroth"
 skills:
   - name: "Skills"
-    desc: "Crafting: +7, Deception: +3, Stealth: +7, Thievery: +7"
+    desc: "Crafting: +7, Deception: +3, Stealth: +7, Thievery: +7, Crafting: +7, Deception: +3, Stealth: +7, Thievery: +7"
 abilityMods: [1, 4, 1, 3, 1, 0]
 speed: 20 feet
 sourcebook: "_Battlezoo Bestiary: Strange and Unusual_"
@@ -56,7 +57,7 @@ abilities_top:
   - name: "Items"
     desc: "3x [[Equipment/Matchstick|Tindertwig]]"
   - name: "Euphoria"
-    desc: "  If a gunpowder bear is within 30 feet of a flammable object with the potential to explode, it must attempt a DC 20 Will check save. On a failure, it becomes infatuated with detonating the object and is Fascinated; on a critical failure, the gunpowder bear must spend each of its turns to Stride towards the object until it can use Pull The Cord to detonate the object. On a successful Will save, the gunpowder bear is temporarily immune to euphoria for 10 minutes. If exploding the object would result in injury to at least two other non-gremlin creatures, the DC of the Will save increases to DC 25 Will check and the gunpowder bear loses its temporary immunity."
+    desc: "  If a gunpowder bear is within 30 feet of a flammable object with the potential to explode, it must attempt a DC 20 Will check save. On a failure, it becomes infatuated with detonating the object and is [[undefined]]; on a critical failure, the gunpowder bear must spend each of its turns to Stride towards the object until it can use Pull The Cord to detonate the object. On a successful Will save, the gunpowder bear is temporarily immune to euphoria for 10 minutes. If exploding the object would result in injury to at least two other non-gremlin creatures, the DC of the Will save increases to DC 25 Will check and the gunpowder bear loses its temporary immunity."
 
 abilities_mid:
   - name: ""
@@ -73,11 +74,17 @@ attacks:
     desc: "`pf2:1` Claw +9 (agile, finesse, reach 0 feet)\n__Damage__  1d6 + 1 slashing"
 
   - name: "Latch"
-    desc: "`pf2:1`  **Requirements** The gunpowder bear's last action was to hit a target larger than itself with its jaws\n**Effect** The gunpowder bear's teeth latch onto the creature it bit. This is similar to Grabbing the creature, but the gunpowder bear moves with that creature rather than holding it in place. The gunpowder bear is Off-Guard while latched onto a creature. A creature a gunpowder bear has latched to takes a –1 circumstance penalty on their save against its Pull The Cord."
+    desc: "`pf2:1`  **Requirements** The gunpowder bear's last action was to hit a target larger than itself with its jaws\n* * *\n\n**Effect** The gunpowder bear's teeth latch onto the creature it bit. This is similar to [[Bestiary Ability Glossary/Grab|Grabbing]] the creature, but the gunpowder bear moves with that creature rather than holding it in place. The gunpowder bear is [[undefined]] while latched onto a creature. A creature a gunpowder bear has latched to takes a –1 circumstance penalty on their save against its Pull The Cord."
 
   - name: "Pull The Cord"
     desc: "`pf2:1` (fire,manipulate) The gunpowder bear pulls the cord attached to its back and immediately explodes. Creatures and objects in a 5-foot burst around the creature take 2d6 fire damage (DC 17 Reflex check). Objects that are flammable automatically take damage as if they had failed the save and might explode (GM's discretion). The gunpowder bear is immediately destroyed upon using this action and is reduced to a fine powder."
  
+```
+
+```encounter-table
+name: Gunpowder Bear
+creatures:
+  - 1: Gunpowder Bear
 ```
 
 

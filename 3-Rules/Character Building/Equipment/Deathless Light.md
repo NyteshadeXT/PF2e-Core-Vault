@@ -13,7 +13,7 @@ license: OGL
 ---
 # Deathless Light
 ## Item 10
-### [uncommon](uncommon "Uncommon Rarity Trait")[[catalyst]][[consumable]][[magical]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[catalyst]][[consumable]][[3-Rules/Rule References/Magical]]
 
 **Category** catalyst; 
 **Price** 165 gp; 

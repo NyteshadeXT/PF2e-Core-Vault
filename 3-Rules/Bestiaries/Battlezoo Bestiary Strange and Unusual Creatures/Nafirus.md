@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/chaotic
   - pf2e/creature/type/evil
   - pf2e/creature/type/fey
+  - pf2eMonster
   - pf2e/creature/level/9
 statblock: inline
 name: "Nafirus"
@@ -23,12 +24,12 @@ token: [[modules/battlezoo-bestiary-su-pf2e/art/Portraits/nafirus.webp| ]]
 source: "Battlezoo Bestiary: Strange and Unusual"
 name: "Nafirus"
 level: "Creature 9"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Medium"
-trait_01: "chaotic"
-trait_02: "evil"
-trait_03: "fey"
+trait_01: [[chaotic]]
+trait_02: [[evil]]
+trait_03: [[fey]]
 modifier: 19
 perception:
   - name: "Perception"
@@ -36,7 +37,7 @@ perception:
 languages: "Common, Fey"
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +18 (+20 to Maneuver in Flight), Athletics: +18, Deception: +17, Intimidation: +19, Nature: +18, Stealth: +17, Survival: +18, Performance: +17, "
+    desc: "Acrobatics: +18, Athletics: +18, Deception: +17, Intimidation: +19, Nature: +18, Performance: +17, Stealth: +17, Survival: +18, Acrobatics: +18, Athletics: +18, Deception: +17, Intimidation: +19, Nature: +18, Stealth: +17, Survival: +18, Performance: +17"
 abilityMods: [3, 6, 4, 3, 4, 6]
 speed: 10 feet,  fly 60 feet
 sourcebook: "_Battlezoo Bestiary: Strange and Unusual_"
@@ -56,7 +57,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Swarm Rejuvenation"
-    desc: "  A nafirus's swarm is part of its true self. After defeating a nafirus, its swarm disperses, and 2d4 days later, one of the constituent creatures grows into a new nafirus if even a single one escapes. While the exact circumstances and surroundings determine how long the nafirus's foes have to dispatch the Fleeing creatures before they escape, usually its foes have only a single round. Typically, this requires the application of an area effect or splash weapon within 1 round to the space where the nafirus collapsed. After any amount of area or splash damage is dealt to that space, the character dealing the damage must attempt a DC 15 Flat check. Each subsequent area or splash damage effect performed on the area reduces the DC of this flat check by 2, to a minimum of DC 5. If any of these flat checks succeed, none of the creatures escapes, and the nafirus is destroyed permanently. At the GM's discretion, clever means of trapping or otherwise detaining the vermin may extend the time allowed to finish off the nafirus."
+    desc: "  A nafirus's swarm is part of its true self. After defeating a nafirus, its swarm disperses, and 2d4 days later, one of the constituent creatures grows into a new nafirus if even a single one escapes. While the exact circumstances and surroundings determine how long the nafirus's foes have to dispatch the [[undefined]] creatures before they escape, usually its foes have only a single round. Typically, this requires the application of an area effect or splash weapon within 1 round to the space where the nafirus collapsed. After any amount of area or splash damage is dealt to that space, the character dealing the damage must attempt a DC 15 Flat check. Each subsequent area or splash damage effect performed on the area reduces the DC of this flat check by 2, to a minimum of DC 5. If any of these flat checks succeed, none of the creatures escapes, and the nafirus is destroyed permanently. At the GM's discretion, clever means of trapping or otherwise detaining the vermin may extend the time allowed to finish off the nafirus."
 
 attacks:
   - name: ""
@@ -77,14 +78,20 @@ attacks:
     desc: "`pf2:2` (primal,sonic) The songbird swarm releases a blast of sound, dealing 5d6 sonic damage in a 30-foot cone (DC 25 Reflex check save.) Because the swarm is the origin of the blast, the cone can originate at any point within 60 feet of the nafirus, rather than just in the nafirus's space."
 
   - name: "Down to Earth"
-    desc: "`pf2:2` (mental) The songbird swarm surrounds a flying target, dragging it down with their weight and disrupting its sense of direction with their song. The target attempts a DC 25 Will check save.\n**Success** The target falls up to 60 feet. If this brings it to the ground, it is unharmed.\n**Failure** The target falls up to 80 feet. If this brings it to the ground, it takes 10d6 bludgeoning damage.\n**Critical Failure** The target falls up to 100 feet. If this brings it to the ground it takes 12d6 bludgeoning damage and is Stunned 1. If the target doesn't reach the ground, it must attempt another save against Down to Earth at the beginning of its next turn."
+    desc: "`pf2:2` (mental) The songbird swarm surrounds a flying target, dragging it down with their weight and disrupting its sense of direction with their song. The target attempts a DC 25 Will check save.\n* * *\n\n**Success** The target falls up to 60 feet. If this brings it to the ground, it is unharmed.\n\n**Failure** The target falls up to 80 feet. If this brings it to the ground, it takes 10d6 bludgeoning damage.\n\n**Critical Failure** The target falls up to 100 feet. If this brings it to the ground it takes 12d6 bludgeoning damage and is [[undefined]]. If the target doesn't reach the ground, it must attempt another save against Down to Earth at the beginning of its next turn."
 
   - name: "Go For the Eyes"
-    desc: "`pf2:2` (incapacitation) The nafirus sends its swarm of songbirds to attack an opponent within 120 feet. The target takes 6d8 piercing damage and must attempt a DC 26 Reflex check save.\n**Critical Success** The target takes no damage and one of the attacking birds is injured, dealing 1d8 damage to the nafirus.\n**Success** The target takes half damage.\n**Failure** The target takes full damage and is Blinded for 1 round.\n**Critical Failure** The target takes double damage and is blinded permanently."
+    desc: "`pf2:2` (incapacitation) The nafirus sends its swarm of songbirds to attack an opponent within 120 feet. The target takes 6d8 piercing damage and must attempt a DC 26 Reflex check save.\n* * *\n\n**Critical Success** The target takes no damage and one of the attacking birds is injured, dealing 1d8 damage to the nafirus.\n\n**Success** The target takes half damage.\n\n**Failure** The target takes full damage and is [[undefined]] for 1 round.\n\n**Critical Failure** The target takes double damage and is blinded permanently."
 
   - name: "Snatch"
-    desc: "  A nafirus can Fly at half Speed while it has a creature Grabbed or Restrained in its talons, carrying that creature along with it."
+    desc: "  A nafirus can Fly at half Speed while it has a creature [[undefined]] or [[undefined]] in its talons, carrying that creature along with it."
  
+```
+
+```encounter-table
+name: Nafirus
+creatures:
+  - 1: Nafirus
 ```
 
 

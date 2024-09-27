@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/humanoid
   - pf2e/creature/type/serpentfolk
+  - pf2eMonster
   - pf2e/creature/level/7
 statblock: inline
 name: "Serpentfolk Cultist"
@@ -22,17 +23,17 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #200: Seven Dooms for Sandpoint"
 name: "Serpentfolk Cultist"
 level: "Creature 7"
-rare_03: "Rare"
+rare_03: [[Rare]]
 alignment: ""
 size: "Medium"
-trait_01: "evil"
-trait_02: "humanoid"
-trait_03: "serpentfolk"
+trait_01: [[evil]]
+trait_02: [[humanoid]]
+trait_03: [[serpentfolk]]
 modifier: 15
 perception:
   - name: "Perception"
     desc: "+15; Darkvision, Scent (Imprecise) 30 Feet"
-languages: "Aklo, Common, Sakvroth"
+languages: "Aklo, Common, Sakvroth; telepathy 100 feet"
 skills:
   - name: "Skills"
     desc: "Arcana: +13, Athletics: +13, Crafting: +13, Deception: +16, Intimidation: +14, Occultism: +15, Religion: +17, Society: +13"
@@ -70,14 +71,20 @@ attacks:
     desc: "DC 28, attack +20; __4th __  _[[Spells/Charm|Charm]]_, _[[Spells/Suggestion|Suggestion]]_; __3rd __  _[[Spells/Illusory Disguise|Illusory Disguise (At Will)]]_; __2nd __  _[[Spells/Mirror Image|Mirror Image (At Will)]]_; __1st __  _[[Spells/Ventriloquism|Ventriloquism (At Will)]]_"
 
   - name: "Raise Serpent"
-    desc: "`pf2:3` (concentrate,divine) **Frequency** once per day\n**Effect** The bone prophet animates corpses of snakes, serpentfolk, or similar serpentine creatures within a 30-foot emanation. Any flesh on the bodies sloughs off, and they rise as skeletons. The bone prophet can raise one Large creature as a skeletal giant or up to three Medium creatures as skeletal champions; the equipment and attacks might be different depending on the corpses' possessions.\nThese skeletons have the minion trait and are under the bone prophet's control; the bone prophet can give all these minions the same command with a single action that has the concentrate trait. Any skeletal minions that still remain after 10 minutes crumble to dust."
+    desc: "`pf2:3` (concentrate,divine) **Frequency** once per day\n* * *\n\n**Effect** The bone prophet animates corpses of snakes, serpentfolk, or similar serpentine creatures within a @Template[emanation|distance:30]. Any flesh on the bodies sloughs off, and they rise as skeletons. The bone prophet can raise one Large creature as a [[Bestiary 1/Skeletal Giant|Skeletal Giant]] or up to three Medium creatures as [[Bestiary 1/Skeletal Champion|Skeletal Champions]]; the equipment and attacks might be different depending on the corpses' possessions.\n\nThese skeletons have the minion trait and are under the bone prophet's control; the bone prophet can give all these minions the same command with a single action that has the concentrate trait. Any skeletal minions that still remain after 10 minutes crumble to dust."
 
   - name: "[[Actor.acGApO7HwzXQVlTU.Item.pkqZFkDwe6SFvUXX|Serpentfolk Venom]]"
-    desc: " (poison) **Saving Throw** DC 25 Fortitude check\n**Maximum Duration** 6 rounds\n**Stage 1** 1d4 poison damage and [[Conditions/Enfeebled 1|Enfeebled 1]] (1 round)\n**Stage 2** 2d4 poison damage and enfeebled 1 (1 round)"
+    desc: " (poison) **Saving Throw** DC 25 Fortitude check\n\n**Maximum Duration** 6 rounds\n\n**Stage 1** 1d4 poison damage and [[Conditions/Enfeebled|Enfeebled 1]] (1 round)\n\n**Stage 2** 2d4 poison damage and enfeebled 1 (1 round)"
 
   - name: "[[Bestiary Ability Glossary/Sneak Attack|Sneak Attack]]"
     desc: "  The creature's Strikes deal an additional 1d6 precision damage to [[Conditions/Off-Guard|Off-Guard]] creatures."
  
+```
+
+```encounter-table
+name: Serpentfolk Cultist
+creatures:
+  - 1: Serpentfolk Cultist
 ```
 
 

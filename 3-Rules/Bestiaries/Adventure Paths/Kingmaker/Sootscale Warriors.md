@@ -1,15 +1,16 @@
 ---
-title: "Sootscale Warriors"
+title: Sootscale Warriors
 obsidianUIMode: preview
-noteType: pf2eMonster
+noteType: pf2eArmy
 cssClasses: pf2e
-aliases: "Compendium.pf2e.kingmaker-bestiary.Actor.mbasYZ9EQcttMLAf" 
 tags:
-  - pf2e/creature/level/3
-statblock: inline
-name: "Sootscale Warriors"
+  - pf2eArmy
+
+source: 
+aliases: "Compendium.pf2e.kingmaker-bestiary.Actor.mbasYZ9EQcttMLAf" 
 level: 3
 license: 
+statblock: inline
 ---
 
 ```statblock
@@ -18,39 +19,54 @@ forcecolumns: true
 layout: Basic Pathfinder 2e Layout
 source: ""
 name: "Sootscale Warriors"
-level: "Creature 3"
-rare_03: "Uncommon"
+level: "Army 3"
+rare_03: [[Uncommon]]
+
 alignment: ""
 size: "Medium"
-modifier: 
+trait_01: infantry
+modifier: 9
 perception:
-  - name: "Perception"
-    desc: "NaN; Darkvision"
-skills:
-  - name: "Skills"
-    desc: ""
-abilityMods: [, , , , , ]
-speed: 
-sourcebook: "__"
-ac: 
+  - name: ""
+  - name: "Scouting"
+    desc: "+9"
+  - name: "Recruitment DC"
+    desc: "20; __Consumption__ 1"
+  - name: "Description"
+    desc: "Sootscale kobolds fight with shortswords and crossbows, although they tend to do so warily and cautiously. (Ammunition: 7)"
+ac: 20
 armorclass:
   - name: AC
-    desc: "; __Fort__ NaN, __Ref__ NaN, __Will__ NaN"
+    desc: "20; __Maneuver__ +14, __Morale__ +5"
 hp: 4
 health:
   - name: ""
-  - name: HP
-    desc: "4"
+  - name: "HP"
+    desc: "4 (RT 3))"
 abilities_top:
   - name: ""
 
 abilities_mid:
   - name: ""
+  - name: "Melee"
+    desc: "Shortswords +18"
+  - name: "Ranged"
+    desc: "Crossbows +18"
+
 attacks:
   - name: ""
+
+  - name: "Darkvision"
+    desc: "The army includes several spotters and scouts who have darkvision, and the rest of the soldiers have been trained to follow their lead so that the army itself functions as if it had darkvision."
+
+  - name: "Accustomed to Panic (Unique)"
+    desc: "**Trigger** The Sootscale Warriors' shaken condition increases while they are not routed.\n\n**Effect** The Sootscales take comfort in their fear and channel the panic into energy. Rather than increase their shaken condition, they reduce their weary condition value by 1. Additionally, when the Sootscales use the Disengage action, the result is improved one degree."
  
 ```
 
-
-
+```encounter-table
+name: Sootscale Warriors
+creatures:
+  - 1: Sootscale Warriors
+```
 

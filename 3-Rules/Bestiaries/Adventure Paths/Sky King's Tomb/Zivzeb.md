@@ -6,6 +6,7 @@ cssClasses: pf2e
 aliases: "Compendium.pf2e.sky-kings-tomb-bestiary.Actor.wakAqAhokUT6qYxR" 
 tags:
   - pf2e/creature/type/aberration
+  - pf2eMonster
   - pf2e/creature/level/4
 statblock: inline
 name: "Zivzeb"
@@ -23,7 +24,7 @@ level: "Creature 4"
 
 alignment: ""
 size: "Medium"
-trait_01: "aberration"
+trait_01: [[aberration]]
 modifier: 9
 perception:
   - name: "Perception"
@@ -51,10 +52,10 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Adhesive"
-    desc: "  The mimic is coated in an adhesive slime. Any creature that hits the mimic, is hit by the mimic, or otherwise touches the mimic must succeed at a DC 23 Reflex check save or become [[Conditions/Grabbed|Grabbed]] (Escape DC 23). A weapon that hits the mimic is stuck to the mimic and can be removed with a successful DC 23 Athletics check check (made as a single action).\nA mimic can have any number of objects or creatures stuck to it at a time. The mimic can release a stuck creature or object by using a single action, and the adhesive dissolves 1 minute after the mimic dies, releasing all stuck objects and creatures."
+    desc: "  The mimic is coated in an adhesive slime. Any creature that hits the mimic, is hit by the mimic, or otherwise touches the mimic must succeed at a DC 23 Reflex check save or become [[Conditions/Grabbed|Grabbed]] (Escape DC 23). A weapon that hits the mimic is stuck to the mimic and can be removed with a successful DC 23 Athletics check check (made as a single action).\n\nA mimic can have any number of objects or creatures stuck to it at a time. The mimic can release a stuck creature or object by using a single action, and the adhesive dissolves 1 minute after the mimic dies, releasing all stuck objects and creatures."
 
   - name: "Object Lesson"
-    desc: "`pf2:r`  **Trigger** A creature touches or physically interacts with the mimic while the mimic is transformed using Mimic Object.\n**Effect** The triggering creature is automatically stuck by the mimic's adhesive (it receives no save). The mimic then makes a pseudopod Strike against any creature adjacent to the mimic.\nObject Lesson can't be used again until the mimic escapes and takes on a new disguise."
+    desc: "`pf2:r`  **Trigger** A creature touches or physically interacts with the mimic while the mimic is transformed using Mimic Object.\n* * *\n\n**Effect** The triggering creature is automatically stuck by the mimic's adhesive (it receives no save). The mimic then makes a pseudopod Strike against any creature adjacent to the mimic.\n\nObject Lesson can't be used again until the mimic escapes and takes on a new disguise."
 
 attacks:
   - name: ""
@@ -65,6 +66,12 @@ attacks:
   - name: "Mimic Object"
     desc: "`pf2:1` (concentrate,polymorph) The mimic assumes the shape of any Medium object. This doesn't change the mimic's texture or overall size but can alter its coloration and visual appearance. It has an automatic result of 28 on Deception checks and DCs to pass as the object that it's mimicking."
  
+```
+
+```encounter-table
+name: Zivzeb
+creatures:
+  - 1: Zivzeb
 ```
 
 

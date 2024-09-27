@@ -6,8 +6,9 @@ tags:
   - trait/investigator
   - trait/common
   - category/class
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.WZWSaAwuDgne7Z0c"
-license: OGL
+license: ORC
 ---
 # Solid Lead
 ## Feat 2
@@ -18,9 +19,9 @@ license: OGL
 
 
 
-Sometimes your case splinters into smaller mysteries, but you never lose sight of the big picture. Once per day when you give up on the subject of a lead due to using [[Actions/Pursue a Lead|Pursue a Lead]] again, you can designate the lead you stopped pursuing as your solid lead for the day. Even though you stopped following the solid lead, you can change back to your solid lead any number of times by using a single action, which has the concentrate trait. Doing so ends one of your current leads as normal.
+Sometimes your case splinters into smaller mysteries, but you never lose sight of the big picture. Once per day when you give up on the subject of a lead due to using Pursue a Lead again, you can designate the lead you stopped pursuing as your solid lead for the day. Even though you stopped following the solid lead, you can change back to your solid lead any number of times by using a single action, which has the concentrate trait. Doing so ends one of your current leads as normal.
 
 During your next daily preparations, you can maintain your solid lead or you can remove it; removing it allows you to designate a new solid lead later that day.
 
-*Source: Pathfinder Advanced Player's Guide*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

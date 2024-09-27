@@ -16,18 +16,15 @@ license: OGL
 
 
 
-
-**\[Heroic\]**
-
-**Prerequisites** Tier 3 with the Vigilant Seal
-
-**Cost** 4 Fame
+**Prerequisites** Admired by Vigilant Seal
+* * *
+**Cost**: 0 AcP
 
 * * *
 
-**Effect** When you spend your Hero Points to avoid death, you can choose to immediately wake up with 1 Hit Point.
+When you spend your Hero Points to avoid death, you can choose to immediately wake up with 1 Hit Point.
 
-**Normal** When you spend your Hero Points to avoid death, you stabilize with 0 Hit Points, but you do not wake up until your Hit Points rise above 0.
+**Normal**: When you spend your Hero Points to avoid death, you stabilize with 0 Hit Points, but you do not wake up until your Hit Points rise above 0.
 
 *Source: *
 *OGL*

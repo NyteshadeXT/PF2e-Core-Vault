@@ -4,44 +4,37 @@ title: "Dragon Breath"
 noteType: pf2eSpell
 cssclasses: pf2e,pf2e-spell
 tags:
+  - pf2eSpell
   - spell/level/3
   - trait/concentrate
   - trait/focus
   - trait/manipulate
   - trait/sorcerer
   - trait/uncommon
+
 aliases: "Compendium.pf2e.spells-srd.Item.JcobNl4iE9HmMYtE" 
+license: OGL
 ---
-# Dragon Breath  `pf2:2`  
-## Focus 3
-### [uncommon](uncommon "Uncommon Rarity Trait")[[concentrate]][[focus]][[manipulate]][[sorcerer]]
+```statblock
+name: "Dragon Breath  `pf2:2`"
+level: "Focus 3"
+rare_03: [[Uncommon]]
+trait_01: [[concentrate]]
+trait_02: [[focus]]
+trait_03: [[manipulate]]
+trait_04: [[sorcerer]]
+layout: Basic Pathfinder 2e Layout
+columns: 1
+columnWidth: x
+abilities_top:
+  - name: ""
 
-* * * 
-You spew energy from your mouth, dealing 5d6 damage. The area, damage type, and save depend on the dragon type in your bloodline.
-
-## Dragon Breath
-
-  
-
-| Dragon Type | Area and damage type | Saving Throw |
-| --- | --- | --- |
-| Black, Brine, or Copper | 60-foot line of acid | Reflex |
-| Blue or Bronze | 60-foot line of electricity | Reflex |
-| Brass | 60-foot line of fire | Reflex |
-| Cloud | 30-foot cone of electricity | Reflex |
-| Crystal or Forest | 30-foot cone of piercing | Reflex |
-| Green | 30-foot cone of poison | Fortitude |
-| Gold, Magma, or Red | 30-foot cone of fire | Reflex |
-| Sea | 10-foot burst within 30 feet of bludgeoning | Reflex |
-| Silver or White | 30-foot cone of cold | Reflex |
-| Sky | 10-foot burst within 30 feet of electricity | Reflex |
-| Sovereign | 30-foot cone of mental | Will |
-| Umbral | 30-foot cone of negative | Reflex |
-| Underworld | 10-foot burst within 30 feet of fire | Reflex |
-
-* * *
-
-**Heightened (+1)** The damage increases by 2d6.
-
-*Source: Pathfinder Core Rulebook*
-*OGL*
+  - name: "Area"
+    desc: "30-foot cone"
+  - name: "Defense"
+    desc: "basic reflex"
+abilities_mid:
+  - name: ""
+    desc: "You spew energy from your mouth, dealing 5d6 damage with a basic Reflex save. The damage type depends on the magical tradition related to the dragon that influenced your bloodline.\n* * *\n\n**Heightened (+1)** The damage increases by 2d6."
+sourcebook: "_Pathfinder Core Rulebook_"
+```

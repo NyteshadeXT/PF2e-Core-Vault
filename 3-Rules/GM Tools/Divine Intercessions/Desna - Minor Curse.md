@@ -17,7 +17,7 @@ license: OGL
 
 
 
-**Minor Curse** You always seem to lose your way or have strange mishaps on the road that delay your travel.
+You always seem to lose your way or have strange mishaps on the road that delay your travel.
 
 You (and thus any group that travels with you) travel at only 3/4 normal exploration Speed, before taking into account the terrain and other features that might slow you down further.
 

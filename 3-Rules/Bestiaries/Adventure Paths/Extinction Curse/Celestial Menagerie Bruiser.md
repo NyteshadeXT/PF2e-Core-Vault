@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/human
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/8
 statblock: inline
 name: "Celestial Menagerie Bruiser"
@@ -25,9 +26,9 @@ level: "Creature 8"
 
 alignment: ""
 size: "Medium"
-trait_01: "evil"
-trait_02: "human"
-trait_03: "humanoid"
+trait_01: [[evil]]
+trait_02: [[human]]
+trait_03: [[humanoid]]
 modifier: 14
 perception:
   - name: "Perception"
@@ -35,7 +36,7 @@ perception:
 languages: "Common"
 skills:
   - name: "Skills"
-    desc: "Athletics: +17 (+20 to Shove), Circus Lore: +12, Intimidation: +16, Stealth: +13, Survival: +12, Thievery: +13"
+    desc: "Athletics: +17, Intimidation: +16, Stealth: +13, Survival: +12, Thievery: +13, Circus Lore: +12"
 abilityMods: [5, 1, 2, 0, 0, 2]
 speed: 25 feet
 sourcebook: "_Pathfinder #152: Legacy of the Lost God_"
@@ -55,7 +56,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Opportunistic Brawler"
-    desc: "`pf2:r`  **Trigger** A creature hits the bruiser with a melee Strike\n**Effect** The bruiser attempts to [[Actions/Shove|Shove]] the creature. On a success or a critical success, the target is also knocked [[Conditions/Prone|Prone]]. The bruiser can't Stride after a target it successfully Shoves in this way."
+    desc: "`pf2:r`  **Trigger** A creature hits the bruiser with a melee Strike\n* * *\n\n**Effect** The bruiser attempts to [[Actions/Shove|Shove]] the creature. On a success or a critical success, the target is also knocked [[Conditions/Prone|Prone]]. The bruiser can't Stride after a target it successfully Shoves in this way."
 
 attacks:
   - name: ""
@@ -70,8 +71,14 @@ attacks:
     desc: "`pf2:1` Dagger +15 (agile, thrown 10 ft., versatile s)\n__Damage__  1d4 + 8 piercing"
 
   - name: "Terrifying Sneer"
-    desc: "`pf2:1`  **Frequency** once per turn\n**Requirements** The bruiser must target a creature they [[Actions/Shove|Shoved]] since the end of the bruiser's last turn\n**Effect** The bruiser attempts to [[Actions/Demoralize|Demoralize]] the target. If the bruiser rolls a success, they get a critical success instead."
+    desc: "`pf2:1`  **Frequency** once per turn\n\n**Requirements** The bruiser must target a creature they [[Actions/Shove|Shoved]] since the end of the bruiser's last turn\n* * *\n\n**Effect** The bruiser attempts to [[Actions/Demoralize|Demoralize]] the target. If the bruiser rolls a success, they get a critical success instead."
  
+```
+
+```encounter-table
+name: Celestial Menagerie Bruiser
+creatures:
+  - 1: Celestial Menagerie Bruiser
 ```
 
 

@@ -8,12 +8,13 @@ tags:
   - trait/investigator
   - trait/common
   - category/offensive
+  - remaster
 aliases: "Compendium.pf2e.actionspf2e.Item.m0f2B7G9eaaTmhFL"
-license: OGL
+license: ORC
 ---
 # Devise a Stratagem `pf2:1`
 
-### [[concentrate]][[fortune]][[investigator]]
+### [[3-Rules/Rule References/Concentrate]][[fortune]][[investigator]]
 
 **Category** offensive; 
 
@@ -24,11 +25,11 @@ license: OGL
 
 * * *
 
-You assess a foe's weaknesses in combat and use them to formulate a plan of attack against your enemy. Choose a creature you can see, and roll a d20. If you Strike the chosen creature later this round, you must use the result of the roll you made to Devise a Stratagem for your Strike's attack roll instead of rolling. You make this substitution only for the first Strike you make against the creature this round, not any subsequent attacks.
+You assess a foe's weaknesses in combat and use them to formulate a plan of attack. Choose a creature you can see. You can Devise a Stratagem as a free action if you're aware that creature could help answer the question at the heart of one of your active investigations. Roll a d20, then decide on an attack stratagem or skill stratagem.
 
-When you make this substitution, you can also add your Intelligence modifier to your attack roll instead of your Strength or Dexterity modifier, provided your Strike uses an agile or finesse melee weapon, an agile or finesse unarmed attack, a ranged weapon (which must be agile or finesse if it's a melee weapon with the thrown trait) or [[Equipment/Sap|Sap]].
+**Attack Stratagem** If you Strike the chosen creature before the start of your next turn, you must use the result of the d20 roll for your Strike's attack roll instead of rolling. You make this substitution only for the first Strike you make against the creature this round, not any subsequent ones. When you make this substitution, you can add your Intelligence modifier to your attack roll instead of your Strength or Dexterity modifier, provided you Strike with an agile or finesse melee weapon, an agile or finesse unarmed attack, a ranged weapon (which must be agile or finesse if it's a melee weapon with the thrown trait), or a sap.
 
-If you're aware that the creature you choose is the subject of a lead you're pursuing, you can use this ability as a free action.
+**Skill Stratagem** You can't attempt to Strike the target until the start of your next turn. You gain a +1 circumstance bonus to your next Intelligence-, Wisdom-, or Charisma-based skill check or Perception check involving the target before the start of your next turn. If you would gain your Pursue a Lead investigation bonus to such a check, that bonus increases by 1 instead of you gaining the +1 bonus listed.
 
-*Source: Pathfinder Advanced Player's Guide*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

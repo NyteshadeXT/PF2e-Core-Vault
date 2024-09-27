@@ -5,6 +5,7 @@ noteType: pf2eHazard
 tags:
   - magical
   - trap
+  - pf2eHazard
   - complex
 source: Pathfinder #157: Devil at the Dreaming Palace
 aliases: "Compendium.pf2e.agents-of-edgewatch-bestiary.Actor.QHcBauLnHzfwkDBK" 
@@ -22,14 +23,14 @@ name: "Summoning Rune (Cinder Rat)"
 level: "Hazard 5"
 
 trait_06: "Complex"
-trait_01: "magical"
-trait_02: "trap"
+trait_01: [[magical]]
+trait_02: [[trap]]
 modifier: 12
 sourcebook: "_Pathfinder #157: Devil at the Dreaming Palace_"
 ac: 10
 armorclass:
   - name: AC
-    desc: "10; __Fort__ +0, __Ref__ +0, __Will__ +0"
+    desc: "10; "
 hp: 0
 health:
   - name: ""
@@ -51,10 +52,16 @@ attacks:
   - name: ""
 
   - name: "Summon Elementals"
-    desc: "`pf2:r` (arcane, summon) **Trigger** A living creature enters the room\n**Effect** Two rounds after a creature enters the room, the room's door slams shut and locks (two Thievery checks to pick), and two [[Bestiary 1/Cinder Rat|Cinder Rat]] fire elementals emerge from the floor.\nThe elementals roll initiative and remain for 3d6 rounds, after which the spell ends and the creatures disappear. The elementals also disappear if someone disables the trap before the duration expires.\nThe summoned elementals can use 3 actions each round and can use reactions, unlike most summoned creatures."
+    desc: "`pf2:r` (arcane, summon) **Trigger** A living creature enters the room\n* * *\n\n**Effect** Two rounds after a creature enters the room, the room's door slams shut and locks (two Thievery checks to pick), and two [[Bestiary 1/Cinder Rat|Cinder Rat]] fire elementals emerge from the floor.\n\nThe elementals roll initiative and remain for 3d6 rounds, after which the spell ends and the creatures disappear. The elementals also disappear if someone disables the trap before the duration expires.\n\nThe summoned elementals can use 3 actions each round and can use reactions, unlike most summoned creatures."
 
 
   - name: "Reset"
     desc: "The trap resets each day at dawn."
+```
+
+```encounter-table
+name: Summoning Rune (Cinder Rat)
+creatures:
+  - 1: Summoning Rune (Cinder Rat)
 ```
 

@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/beast
   - pf2e/creature/type/chaotic
   - pf2e/creature/type/evil
+  - pf2eMonster
   - pf2e/creature/level/12
 statblock: inline
 name: "Oversized Chimera"
@@ -22,12 +23,12 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Kingmaker"
 name: "Oversized Chimera"
 level: "Creature 12"
-rare_03: "Rare"
+rare_03: [[Rare]]
 alignment: ""
 size: "Large"
-trait_01: "beast"
-trait_02: "chaotic"
-trait_03: "evil"
+trait_01: [[beast]]
+trait_02: [[chaotic]]
+trait_03: [[evil]]
 modifier: 23
 perception:
   - name: "Perception"
@@ -78,7 +79,7 @@ attacks:
     desc: "`pf2:1` Claw +26 (agile)\n__Damage__  3d8 + 11 slashing"
 
   - name: "Breath Weapon"
-    desc: "`pf2:2` (arcane) The oversized chimera breathes a 30-foot cone of fire that deals 13d6 fire damage to all creatures in the area (DC 32 Reflex check save).\nThe chimera can't use Breath Weapon again for 1d4 rounds."
+    desc: "`pf2:2` (arcane) The oversized chimera breathes a @Template[cone|distance:30] of fire that deals 13d6 fire damage to all creatures in the area (DC 32 Reflex check save).\n\nThe chimera can't use Breath Weapon again for 1d4 rounds."
 
   - name: "Draconic Bite"
     desc: "  An oversized chimera's dragon head deals an extra 3d6 fire damage _(already included)_."
@@ -86,6 +87,12 @@ attacks:
   - name: "Three-Headed Strike"
     desc: "`pf2:2`  The oversized chimera makes a Strike with its dragon jaws, lion jaws, and goat horns, each at a -2 penalty and targeting a different creature. These Strikes count as only one attack for the chimera's multiple attack penalty, and the penalty doesn't increase until after it has made all three attacks."
  
+```
+
+```encounter-table
+name: Oversized Chimera
+creatures:
+  - 1: Oversized Chimera
 ```
 
 

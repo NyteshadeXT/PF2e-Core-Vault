@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/fiend
   - pf2e/creature/type/unholy
+  - pf2eMonster
   - pf2e/creature/level/12
 statblock: inline
 name: "Derghodaemon"
@@ -27,15 +28,15 @@ level: "Creature 12"
 
 alignment: ""
 size: "Large"
-trait_01: "daemon"
-trait_02: "evil"
-trait_03: "fiend"
-trait_04: "unholy"
+trait_01: [[daemon]]
+trait_02: [[evil]]
+trait_03: [[fiend]]
+trait_04: [[unholy]]
 modifier: 24
 perception:
   - name: "Perception"
     desc: "+24; Darkvision, Scent (Imprecise) 60 Feet"
-languages: "Common, Daemonic"
+languages: "Common, Daemonic; telepathy 100 feet"
 skills:
   - name: "Skills"
     desc: "Acrobatics: +22, Athletics: +25, Intimidation: +24, Stealth: +24"
@@ -72,14 +73,20 @@ attacks:
     desc: "`pf2:1` (divine,emotion,incapacitation,mental,visual) A non-evil target must succeed at a DC 32 Will check save or become [[Conditions/Confused|Confused]] for 1 round, or 1 minute on a critical failure. It is temporarily immune for 10 minutes."
 
   - name: "[[Bestiary Ability Glossary/Rend|Rend]]"
-    desc: "`pf2:1`  Claw\n"
+    desc: "`pf2:1`  Claw\n\n* * *\n"
 
   - name: "Savage Assault"
     desc: "`pf2:2`  The derghodaemon makes up to five claw Strikes, each against a different target. These attacks count toward the derghodaemon's multiple attack penalty, but the penalty doesn't increase until after all the attacks."
 
   - name: "Swarming Infestation"
-    desc: "`pf2:2` (auditory,emotion,mental) The derghodaemon spews a large swarm, making a swarm spit Strike against up to two adjacent targets within range. Whether or not the targets are hit, each must attempt a DC 31 Reflex check save (at a -2 circumstance penalty if it was actually hit by the swarm spit).\n[[Conditions/Persistent Damage|Persistent Piercing Damage]] caused by the swarming infestation ends as soon as the creature takes any amount of damage from an area effect.\nThe derghodaemon can't use this ability for 1d4 rounds.\n**Critical Success** The swarm disperses as soon as it deals its swarm spit Strike damage.\n**Success** The swarm clings to the target and infests it, dealing 1d6 persistent piercing damage.\n**Failure** The swarm clings to the target and infests it, dealing 2d6 persistent piercing damage.\n**Critical Failure** As failure, but the hissing sounds caused by the infestation also cause the target to become [[Conditions/Confused|Confused]] for 1 round; this additional effect has the auditory, emotion, and mental traits."
+    desc: "`pf2:2` (auditory,emotion,mental) The derghodaemon spews a large swarm, making a swarm spit Strike against up to two adjacent targets within range. Whether or not the targets are hit, each must attempt a DC 31 Reflex check save (at a -2 circumstance penalty if it was actually hit by the swarm spit).\n\n[[Conditions/Persistent Damage|Persistent Piercing Damage]] caused by the swarming infestation ends as soon as the creature takes any amount of damage from an area effect.\n\nThe derghodaemon can't use this ability for 1d4 rounds.\n* * *\n\n**Critical Success** The swarm disperses as soon as it deals its swarm spit Strike damage.\n\n**Success** The swarm clings to the target and infests it, dealing 1d6 persistent piercing damage.\n\n**Failure** The swarm clings to the target and infests it, dealing 2d6 persistent piercing damage.\n\n**Critical Failure** As failure, but the hissing sounds caused by the infestation also cause the target to become [[Conditions/Confused|Confused]] for 1 round; this additional effect has the auditory, emotion, and mental traits."
  
+```
+
+```encounter-table
+name: Derghodaemon
+creatures:
+  - 1: Derghodaemon
 ```
 
 

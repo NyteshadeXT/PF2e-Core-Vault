@@ -7,8 +7,9 @@ tags:
   - trait/swashbuckler
   - trait/common
   - category/class
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.uAdnQZSkUuxcpEwz"
-license: OGL
+license: ORC
 ---
 # Incredible Luck (Swashbuckler)
 ## Feat 18
@@ -22,5 +23,5 @@ license: OGL
 * * *
 You always seem to bounce back from the worst. When you use [[Feats/Charmed Life|Charmed Life]], roll the save twice (including the +2 circumstance bonus from Charmed Life) and use the better result.
 
-*Source: Pathfinder Advanced Player's Guide*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

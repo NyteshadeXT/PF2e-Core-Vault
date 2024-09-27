@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/air
   - pf2e/creature/type/elemental
   - pf2e/creature/type/evil
+  - pf2eMonster
   - pf2e/creature/level/5
 statblock: inline
 name: "Wind Malevolent (5-6)"
@@ -22,16 +23,17 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Society Scenario #2-02: Mountain of Sea and Sky"
 name: "Wind Malevolent (5-6)"
 level: "Creature 5"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Small"
-trait_01: "air"
-trait_02: "elemental"
-trait_03: "evil"
+trait_01: [[air]]
+trait_02: [[elemental]]
+trait_03: [[evil]]
 modifier: 10
 perception:
   - name: "Perception"
     desc: "+10; Darkvision"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Acrobatics: +14, Stealth: +12"
@@ -53,7 +55,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Dissociate"
-    desc: "`pf2:r`  **Trigger** The wind malevolent would be hit by an effect that deals bludgeoning, piercing, or slashing damage\n**Effect** The wind malevolent dissociates into component elemental wisps while vaguely retaining its weasel-like form. This grants it bludgeoning resistance 7, piercing resistance 7, slashing resistance 7, weakness 5 to area damage, and weakness 5 to splash damage. While in this dissociated form, it can't use its vacuum sickle Strike. The wind malevolent automatically re-forms into its normal form at the beginning of its next turn."
+    desc: "`pf2:r`  **Trigger** The wind malevolent would be hit by an effect that deals bludgeoning, piercing, or slashing damage\n* * *\n\n**Effect** The wind malevolent dissociates into component elemental wisps while vaguely retaining its weasel-like form. This grants it bludgeoning resistance 7, piercing resistance 7, slashing resistance 7, weakness 5 to area damage, and weakness 5 to splash damage. While in this dissociated form, it can't use its vacuum sickle Strike. The wind malevolent automatically re-forms into its normal form at the beginning of its next turn."
 
 attacks:
   - name: ""
@@ -61,6 +63,12 @@ attacks:
   - name: "Melee"
     desc: "`pf2:1` Vacuum Sickle +14 ()\n__Damage__  2d8 + 7 slashing"
  
+```
+
+```encounter-table
+name: Wind Malevolent (5-6)
+creatures:
+  - 1: Wind Malevolent (5-6)
 ```
 
 

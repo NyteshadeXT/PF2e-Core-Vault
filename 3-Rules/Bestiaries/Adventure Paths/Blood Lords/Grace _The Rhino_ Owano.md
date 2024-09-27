@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/chaotic
   - pf2e/creature/type/human
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/10
 statblock: inline
 name: "Grace &quot;The Rhino&quot; Owano"
@@ -22,12 +23,12 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #183: Field of Maidens"
 name: "Grace "The Rhino" Owano"
 level: "Creature 10"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Medium"
-trait_01: "chaotic"
-trait_02: "human"
-trait_03: "humanoid"
+trait_01: [[chaotic]]
+trait_02: [[human]]
+trait_03: [[humanoid]]
 modifier: 19
 perception:
   - name: "Perception"
@@ -79,7 +80,7 @@ attacks:
     desc: "2 Focus Points, DC 29, attack +21; __5th __  _[[Spells/Angelic Wings|Angelic Wings]]_, _[[Spells/Celestial Brand|Celestial Brand]]_"
 
   - name: "Celestial Rage"
-    desc: "`pf2:2`  **Requirements** Grace isn't [[Conditions/Fatigued|Fatigued]] or raging\n**Effect** Grace unleashes her inner fury. She gains 20 temporary Hit Points that last until her Celestial Rage ends and she casts one divine innate spell or focus spell she knows. While raging, she gains weakness to unholy 10, gains a +10-foot status bonus to her Speed, and takes a -1 penalty to AC. She can't use actions with the concentrate trait unless they also have the rage trait. This Celestial Rage lasts for 1 minute, until there are no enemies Grace can perceive, or until she falls [[Conditions/Unconscious|Unconscious]], whichever comes first. When the Celestial Rage ends, Grace can't use Celestial Rage again for 1 minute.\n[[Feat_Feature Effects/Effect_ Rage|Effect: Celestial Rage]]"
+    desc: "`pf2:2`  **Requirements** Grace isn't [[Conditions/Fatigued|Fatigued]] or raging\n* * *\n\n**Effect** Grace unleashes her inner fury. She gains 20 temporary Hit Points that last until her Celestial Rage ends and she casts one divine innate spell or focus spell she knows. While raging, she gains weakness to unholy 10, gains a +10-foot status bonus to her Speed, and takes a -1 penalty to AC. She can't use actions with the concentrate trait unless they also have the rage trait. This Celestial Rage lasts for 1 minute, until there are no enemies Grace can perceive, or until she falls [[Conditions/Unconscious|Unconscious]], whichever comes first. When the Celestial Rage ends, Grace can't use Celestial Rage again for 1 minute.\n\n[[Feat_Feature Effects/Effect_ Rage|Effect: Celestial Rage]]"
 
   - name: "Great Cleave"
     desc: "`pf2:1`  When Grace's melee Strike reduces a creature to 0 Hit Points, she can make a melee Strike against another foe adjacent to that creature. If that Strike also reduces the creature to 0 Hit Points, she can continue making melee Strikes until she makes a Strike that doesn't reduce a creature to 0 Hit Points, or until there are no creatures adjacent to the most recent creature she attacked while cleaving, whichever comes first."
@@ -87,6 +88,12 @@ attacks:
   - name: "Rhino Charge"
     desc: "`pf2:2`  Grace Strides twice; if she ends her movement within melee reach of at least one enemy, she can make a melee Strike against that enemy. Grace can Fly instead of Stride if she has a fly speed (such as with [[Spells/Angelic Wings|Angelic Wings]])."
  
+```
+
+```encounter-table
+name: Grace "The Rhino" Owano
+creatures:
+  - 1: Grace "The Rhino" Owano
 ```
 
 

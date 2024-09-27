@@ -6,12 +6,13 @@ tags:
   - trait/champion
   - trait/common
   - category/classfeature
+  - remaster
 aliases: "Compendium.pf2e.classfeatures.Item.z5G0o04uV65zyxDB"
-license: OGL
+license: ORC
 ---
 # Champion Mastery
 ## Feat 17
-### [[champion]]
+### [[3-Rules/trait_reference/champion]]
 
 **Category** classfeature; 
 
@@ -20,5 +21,5 @@ license: OGL
 
 You've mastered your arsenal of champion techniques and divine spells. Your proficiency ranks for your champion class DC and for divine spell attack rolls and spell DCs increase to master.
 
-*Source: Pathfinder Core Rulebook*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

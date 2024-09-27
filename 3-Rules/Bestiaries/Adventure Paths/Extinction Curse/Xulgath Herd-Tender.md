@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/humanoid
   - pf2e/creature/type/xulgath
+  - pf2eMonster
   - pf2e/creature/level/8
 statblock: inline
 name: "Xulgath Herd-Tender"
@@ -26,10 +27,10 @@ level: "Creature 8"
 
 alignment: ""
 size: "Medium"
-trait_01: "chaotic"
-trait_02: "evil"
-trait_03: "humanoid"
-trait_04: "xulgath"
+trait_01: [[chaotic]]
+trait_02: [[evil]]
+trait_03: [[humanoid]]
+trait_04: [[xulgath]]
 modifier: 17
 perception:
   - name: "Perception"
@@ -37,7 +38,7 @@ perception:
 languages: "Draconic, Sakvroth"
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +16, Athletics: +18, Dinosaur Lore: +11, Intimidation: +16, Nature: +17, Stealth: +16, Survival: +17"
+    desc: "Acrobatics: +16, Athletics: +18, Intimidation: +16, Nature: +17, Stealth: +16, Survival: +17, Dinosaur Lore: +11"
 abilityMods: [4, 4, 2, -1, 3, 2]
 speed: 25 feet
 sourcebook: "_Pathfinder #154: Siege of the Dinosaurs_"
@@ -57,10 +58,10 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Mounted Defense"
-    desc: "`pf2:r`  **Prerequisite** The herd-tender is mounted\n**Trigger** The herd-tender is targeted with a melee or ranged attack by an attacker they can see\n**Effect** The herd-tender gains a +2 circumstance bonus to AC against the triggering attack."
+    desc: "`pf2:r`  **Prerequisite** The herd-tender is mounted\n\n**Trigger** The herd-tender is targeted with a melee or ranged attack by an attacker they can see\n* * *\n\n**Effect** The herd-tender gains a +2 circumstance bonus to AC against the triggering attack."
 
   - name: "Powerful Stench"
-    desc: " (aura,olfactory) 30 feet. A creature that enters the area must attempt a DC 26 Fortitude check save. On a failure, the creature is [[Conditions/Sickened 1|Sickened 2]], and on a critical failure, the creature is also [[Conditions/Slowed 1|Slowed 1]] for as long as it is sickened. While within the aura, the creature takes a -2 circumstance penalty to saves to recover from the sickened condition. A creature that succeeds at its save is temporarily immune to all xulgaths' stenches for 1 minute."
+    desc: " (aura,olfactory) 30 feet. A creature that enters the area must attempt a DC 26 Fortitude check save. On a failure, the creature is [[Conditions/Sickened|Sickened 2]], and on a critical failure, the creature is also [[Conditions/Slowed|Slowed 1]] for as long as it is sickened. While within the aura, the creature takes a -2 circumstance penalty to saves to recover from the sickened condition. A creature that succeeds at its save is temporarily immune to all xulgaths' stenches for 1 minute."
 
 attacks:
   - name: ""
@@ -86,6 +87,12 @@ attacks:
   - name: "Mounted Superiority"
     desc: "  A mounted xulgath's Strikes deal an additional 1d8 damage to creatures that aren't mounted."
  
+```
+
+```encounter-table
+name: Xulgath Herd-Tender
+creatures:
+  - 1: Xulgath Herd-Tender
 ```
 
 

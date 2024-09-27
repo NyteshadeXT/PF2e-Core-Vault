@@ -7,6 +7,7 @@ aliases: "Compendium.battlezoo-bestiary-su-pf2e.pf2e-battlezoo-su-actors.Actor.F
 tags:
   - pf2e/creature/type/humanoid
   - pf2e/creature/type/shadow
+  - pf2eMonster
   - pf2e/creature/level/7
 statblock: inline
 name: "Secradow"
@@ -22,11 +23,11 @@ token: [[modules/battlezoo-bestiary-su-pf2e/art/Portraits/secradow.webp| ]]
 source: "Battlezoo Bestiary: Strange and Unusual"
 name: "Secradow"
 level: "Creature 7"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Medium"
-trait_01: "humanoid"
-trait_02: "shadow"
+trait_01: [[humanoid]]
+trait_02: [[shadow]]
 modifier: 15
 perception:
   - name: "Perception"
@@ -34,7 +35,7 @@ perception:
 languages: "Common, Elven, Shadowtongue"
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +17, Deception: +15, Society: +15, Stealth: +19, Secret Lore: +15, "
+    desc: "Acrobatics: +17, Deception: +15, Society: +15, Stealth: +19, Acrobatics: +17, Deception: +15, Society: +15, Stealth: +19, Secret Lore: +15"
 abilityMods: [5, 6, 2, 4, 2, 4]
 speed: 25 feet
 sourcebook: "_Battlezoo Bestiary: Strange and Unusual_"
@@ -63,13 +64,13 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Exposure"
-    desc: "  Whenever someone with a connection to the secradow's secret (determined by the GM, but this generally includes people affected by the secret directly or those who know enough about the topic to be curious of the details) discovers the truth, the secradow becomes Drained 1, or has its drained condition increased by 1 if it's already drained, to a maximum of Drained 4."
+    desc: "  Whenever someone with a connection to the secradow's secret (determined by the GM, but this generally includes people affected by the secret directly or those who know enough about the topic to be curious of the details) discovers the truth, the secradow becomes [[undefined]], or has its drained condition increased by 1 if it's already drained, to a maximum of [[undefined]]."
 
   - name: "Rejuvenation"
     desc: " (occult) When a secradow is killed, it reforms on the Shadow Plane after 2d4 days, fully healed. A secradow can only be permanently destroyed by revealing the truth of the secret until it either becomes public knowledge or at least is established as fact to everyone with a direct connection to the secret (as determined by the GM)."
 
   - name: "Split"
-    desc: "`pf2:r`  **Trigger** The secradow is hit with a Strike, and it was aware of the attack\n**Effect** The secradow Steps and leaves an illusion behind momentarily; this doesn't prevent the triggering Strike from hitting due to reach, but it does grant the secradow the Concealed condition against the triggering Strike, forcing the attacker to succeed at the usual DC 5 Flat check or lose the attack. Using Split deactivates the effect of the secradow's Never Show ability until the end of the current turn, allowing everyone to see that the secradow has actually been hurt until the Never Show ability returns."
+    desc: "`pf2:r`  **Trigger** The secradow is hit with a Strike, and it was aware of the attack\n* * *\n\n**Effect** The secradow Steps and leaves an illusion behind momentarily; this doesn't prevent the triggering Strike from hitting due to reach, but it does grant the secradow the [[undefined]] condition against the triggering Strike, forcing the attacker to succeed at the usual DC 5 Flat check or lose the attack. Using Split deactivates the effect of the secradow's Never Show ability until the end of the current turn, allowing everyone to see that the secradow has actually been hurt until the Never Show ability returns."
 
 attacks:
   - name: ""
@@ -83,6 +84,12 @@ attacks:
   - name: "Ranged"
     desc: "`pf2:1` Crossbow +18 (range increment 120 feet, reload 1)\n__Damage__  2d8 + 4 piercing"
  
+```
+
+```encounter-table
+name: Secradow
+creatures:
+  - 1: Secradow
 ```
 
 

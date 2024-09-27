@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/giant
   - pf2e/creature/type/troll
+  - pf2eMonster
   - pf2e/creature/level/8
 statblock: inline
 name: "Two-Headed Troll"
@@ -24,13 +25,13 @@ token: [[modules/pf2e-tokens-bestiaries/portraits/humanoid/troll/two-headed-trol
 source: "Pathfinder Bestiary 2"
 name: "Two-Headed Troll"
 level: "Creature 8"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Large"
-trait_01: "chaotic"
-trait_02: "evil"
-trait_03: "giant"
-trait_04: "troll"
+trait_01: [[chaotic]]
+trait_02: [[evil]]
+trait_03: [[giant]]
+trait_04: [[troll]]
 modifier: 18
 perception:
   - name: "Perception"
@@ -56,7 +57,7 @@ abilities_top:
   - name: "Items"
     desc: "[[Equipment/Club|Club]]"
   - name: "Independent Brains"
-    desc: "  Each of a two-headed troll's heads rolls their own initiative and has their own turn. Neither head can [[Actions/Delay|Delay]]. At the start of a head's turn, that head gets 2 actions and 1 reaction. Each brain controls one of the troll's arms, but both can move the legs.\nAny ability that would sever a two-headed troll's head (such as the [[Equipment/Vorpal|Vorpal]] weapon property) doesn't cause the two-headed troll to die if they still have their other head, but does cause them to lose the turns, actions, and reactions of the severed head.\nMental effects that target a single creature affect only one of the troll's heads."
+    desc: "  Each of a two-headed troll's heads rolls their own initiative and has their own turn. Neither head can [[Actions/Delay|Delay]]. At the start of a head's turn, that head gets 2 actions and 1 reaction. Each brain controls one of the troll's arms, but both can move the legs.\n\nAny ability that would sever a two-headed troll's head (such as the [[Equipment/Vorpal|Vorpal]] weapon property) doesn't cause the two-headed troll to die if they still have their other head, but does cause them to lose the turns, actions, and reactions of the severed head.\n\nMental effects that target a single creature affect only one of the troll's heads."
 
 abilities_mid:
   - name: ""
@@ -64,7 +65,7 @@ abilities_mid:
     desc: "`pf2:r`  "
 
   - name: "Head Regrowth"
-    desc: "  A two-headed troll's regeneration can regrow a severed head. After regaining Hit Points from regeneration, the two-headed troll attempts a DC 10 Flat check check. On a success, the missing head is fully restored.\nIf a two-headed troll loses their last remaining head, they die immediately."
+    desc: "  A two-headed troll's regeneration can regrow a severed head. After regaining Hit Points from regeneration, the two-headed troll attempts a DC 10 Flat check check. On a success, the missing head is fully restored.\n\nIf a two-headed troll loses their last remaining head, they die immediately."
 
 attacks:
   - name: ""
@@ -82,8 +83,14 @@ attacks:
     desc: "`pf2:1` Club +13 (thrown 10 ft.)\n__Damage__  2d6 + 8 bludgeoning"
 
   - name: "Reactive Chomp"
-    desc: "`pf2:r`  **Trigger** On one head's initiative, the troll hits the same enemy with two consecutive claw Strikes in the same round\n**Effect** While the prey is distracted with unrelenting claw attacks, the head that's not taking its turn makes a jaws Strike against the enemy."
+    desc: "`pf2:r`  **Trigger** On one head's initiative, the troll hits the same enemy with two consecutive claw Strikes in the same round\n* * *\n\n**Effect** While the prey is distracted with unrelenting claw attacks, the head that's not taking its turn makes a jaws Strike against the enemy."
  
+```
+
+```encounter-table
+name: Two-Headed Troll
+creatures:
+  - 1: Two-Headed Troll
 ```
 
 

@@ -4,6 +4,7 @@ obsidianUIMode: preview
 noteType: pf2eHazard
 tags:
   - magical
+  - pf2eHazard
 
 source: Pathfinder Core Rulebook
 aliases: "Compendium.pf2e.hazards.Actor.8ewUvJlvn6LVjoXJ" 
@@ -21,13 +22,13 @@ name: "Second Chance"
 level: "Hazard 21"
 
 
-trait_01: "magical"
+trait_01: [[magical]]
 modifier: 34
 sourcebook: "_Pathfinder Core Rulebook_"
 ac: 10
 armorclass:
   - name: AC
-    desc: "10; __Fort__ +0, __Ref__ +0, __Will__ +0"
+    desc: "10; "
 hp: 0
 health:
   - name: ""
@@ -49,9 +50,15 @@ attacks:
   - name: ""
 
   - name: "In the Beginning"
-    desc: "`pf2:r` (divine) **Trigger** A creature tries to steal the object or intrude upon the location. If someone uses a proxy or dupe for the theft or intrusion, the trap unerringly targets the true perpetrator or perpetrators at any distance—even across planes.\n**Effect** The triggering creature and up to five coconspirators instantly revert to infants, losing all memories, class abilities, and other skills acquired during their lives (DC 44 Fortitude check negates). Reversing this effect is nearly impossible, requiring powerful magic such as [[Spells/Wish|Wish]]."
+    desc: "`pf2:r` (divine) **Trigger** A creature tries to steal the object or intrude upon the location. If someone uses a proxy or dupe for the theft or intrusion, the trap unerringly targets the true perpetrator or perpetrators at any distance—even across planes.\n* * *\n\n**Effect** The triggering creature and up to five coconspirators instantly revert to infants, losing all memories, class abilities, and other skills acquired during their lives (DC 44 Fortitude check negates). Reversing this effect is nearly impossible, requiring powerful magic such as [[Spells/Wish|Wish]]."
 
 
 
+```
+
+```encounter-table
+name: Second Chance
+creatures:
+  - 1: Second Chance
 ```
 

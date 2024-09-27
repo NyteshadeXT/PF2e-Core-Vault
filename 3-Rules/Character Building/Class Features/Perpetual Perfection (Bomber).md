@@ -11,7 +11,7 @@ license: OGL
 ---
 # Perpetual Perfection (Bomber)
 ## Feat 17
-### [[alchemist]]
+### [[3-Rules/trait_reference/alchemist]]
 
 **Category** classfeature; 
 

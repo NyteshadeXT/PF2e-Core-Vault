@@ -12,7 +12,7 @@ license: OGL
 ---
 # Bracers of Devotion
 ## Item 11
-### [[divine]][[focused]][[invested]]
+### [[3-Rules/Rule References/Divine]][[focused]][[invested]]
 
 
 **Price** 1400 gp; 

@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/aberration
   - pf2e/creature/type/good
   - pf2e/creature/type/lawful
+  - pf2eMonster
   - pf2e/creature/level/10
 statblock: inline
 name: "Guardian Naga"
@@ -23,12 +24,12 @@ token: [[modules/pf2e-tokens-bestiaries/portraits/humanoid/hybrid/naga-guardian.
 source: "Pathfinder Bestiary"
 name: "Guardian Naga"
 level: "Creature 10"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Large"
-trait_01: "aberration"
-trait_02: "good"
-trait_03: "lawful"
+trait_01: [[aberration]]
+trait_02: [[good]]
+trait_03: [[lawful]]
 modifier: 22
 perception:
   - name: "Perception"
@@ -36,7 +37,7 @@ perception:
 languages: "Common, Empyrean"
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +22, Deception: +18, Diplomacy: +21, Heaven Lore: +21, Stealth: +20"
+    desc: "Acrobatics: +22, Deception: +18, Diplomacy: +21, Stealth: +20, Heaven Lore: +21"
 abilityMods: [5, 6, 5, 3, 5, 4]
 speed: 25 feet
 sourcebook: "_Pathfinder Bestiary_"
@@ -67,8 +68,14 @@ attacks:
     desc: "DC 29, attack +21; __5th __ (4 slots) _[[Spells/Breath of Life|Breath of Life]]_, _[[Spells/Death Ward|Death Ward]]_, _[[Spells/Flame Strike|Flame Strike]]_; __4th __ (4 slots) _[[Spells/Air Walk|Air Walk]]_, _[[Spells/Unfettered Movement|Freedom of Movement]]_, _[[Compendium.pf2e.spells-srd.Item.OyFCwQuw8XRazsNr|Remove Curse]]_, _[[Spells/Restoration|Restoration]]_; __3rd __ (4 slots) _[[Spells/Dispel Magic|Dispel Magic]]_, _[[Spells/Cleanse Affliction|Neutralize Poison]]_, _[[Compendium.pf2e.spells-srd.Item.RneiyehRO6f7LP44|Remove Disease]]_, _[[Spells/Holy Light|Searing Light]]_; __2nd __ (4 slots) _[[Spells/Calm|Calm Emotions]]_, _[[Spells/Restoration|Restoration]]_, _[[Spells/See the Unseen|See Invisibility]]_, _[[Spells/Noise Blast|Sound Burst]]_; __1st __ (4 slots) _[[Spells/Bless|Bless]]_, _[[Spells/Heal|Heal]]_, _[[Spells/Protection|Protection]]_, _[[Spells/Spirit Link|Spirit Link]]_\n__Cantrips__  __(5th)__ _[[Spells/Daze|Daze]]_, _[[Spells/Detect Magic|Detect Magic]]_, _[[Spells/Light|Light]]_, _[[Spells/Telekinetic Hand|Mage Hand]]_, _[[Spells/Ray of Frost|Ray of Frost]]_, _[[Spells/Read Aura|Read Aura]]_, _[[Spells/Stabilize|Stabilize]]_"
 
   - name: "Guardian Naga Venom"
-    desc: " (poison) **Saving Throw** DC 29 Fortitude check\n**Maximum Duration** 6 rounds\n**Stage 1** 3d6 poison (1 round)\n**Stage 2** 3d6 poison and [[Conditions/Drained 1|Drained 1]] (1 round)"
+    desc: " (poison) **Saving Throw** DC 29 Fortitude check\n* * *\n\n**Maximum Duration** 6 rounds\n\n**Stage 1** 3d6 poison (1 round)\n\n**Stage 2** 3d6 poison and [[Conditions/Drained|Drained 1]] (1 round)"
  
+```
+
+```encounter-table
+name: Guardian Naga
+creatures:
+  - 1: Guardian Naga
 ```
 
 

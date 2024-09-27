@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.pathfinder-monster-core.Actor.yPYQC2bfOYmqcfIB"
 tags:
   - pf2e/creature/type/fiend
   - pf2e/creature/type/unholy
+  - pf2eMonster
   - pf2e/creature/level/1
   - remaster
 statblock: inline
@@ -26,8 +27,8 @@ level: "Creature 1"
 
 alignment: ""
 size: "tiny"
-trait_01: "fiend"
-trait_02: "unholy"
+trait_01: [[fiend]]
+trait_02: [[unholy]]
 modifier: 7
 perception:
   - name: "Perception"
@@ -72,8 +73,14 @@ attacks:
     desc: "`pf2:1` (concentrate,divine,fortune,unholy) **Frequency** once per day\n* * *\n\n**Effect** The imp offers a nonfiend within 15 feet a bargain, granting a boon of good luck if the creature accepts voluntarily. The boon lasts for 1 hour once accepted.\n\nOnce during the hour, the creature can roll an attack roll or saving throw twice and use the higher result. If the creature dies while the boon is in place, the imp decides where the creature's soul travels. This typically makes the soul bound for eternity in the imp's home plane, and the creature unable to be raised or resurrected except by the [[Spells/Wish|Wish]] ritual or similar magic."
 
   - name: "Imp Venom"
-    desc: " (poison) **Saving Throw** DC 16 Fortitude check\n* * *\n\n**Maximum Duration** 6 rounds\n\n**Stage 1** 1d6 poison damage and [[Conditions/Clumsy 1|Clumsy 1]] (1 round)\n\n**Stage 2** 1d6 poison damage, clumsy 1, and [[Conditions/Slowed 1|Slowed 1]] (1 round)"
+    desc: " (poison) **Saving Throw** DC 16 Fortitude check\n* * *\n\n**Maximum Duration** 6 rounds\n\n**Stage 1** 1d6 poison damage and [[Conditions/Clumsy|Clumsy 1]] (1 round)\n\n**Stage 2** 1d6 poison damage, clumsy 1, and [[Conditions/Slowed|Slowed 1]] (1 round)"
  
+```
+
+```encounter-table
+name: Imp
+creatures:
+  - 1: Imp
 ```
 
 

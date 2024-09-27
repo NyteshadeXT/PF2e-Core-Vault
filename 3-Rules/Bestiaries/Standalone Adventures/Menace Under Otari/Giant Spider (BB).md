@@ -6,6 +6,7 @@ cssClasses: pf2e
 aliases: "Compendium.pf2e.menace-under-otari-bestiary.Actor.6NdqvKIlxo4cGhf8" 
 tags:
   - pf2e/creature/type/animal
+  - pf2eMonster
   - pf2e/creature/level/1
   - remaster
 statblock: inline
@@ -24,11 +25,12 @@ level: "Creature 1"
 
 alignment: ""
 size: "Medium"
-trait_01: "animal"
+trait_01: [[animal]]
 modifier: 7
 perception:
   - name: "Perception"
     desc: "+7; Darkvision"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Acrobatics: +7, Athletics: +5, Stealth: +7"
@@ -67,6 +69,12 @@ attacks:
   - name: "Web Trap"
     desc: "  A creature hit by the giant spider's web Strike gets stuck to the nearest surface. It can't move until it successfully [[Actions/Escape|Escapes]] (DC 17)."
  
+```
+
+```encounter-table
+name: Giant Spider (BB)
+creatures:
+  - 1: Giant Spider (BB)
 ```
 
 

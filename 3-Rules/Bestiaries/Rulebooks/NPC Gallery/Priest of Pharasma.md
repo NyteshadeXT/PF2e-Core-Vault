@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.npc-gallery.Actor.XpkGaDlyMH2V5wxR"
 tags:
   - pf2e/creature/type/human
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/6
 statblock: inline
 name: "Priest of Pharasma"
@@ -24,8 +25,8 @@ level: "Creature 6"
 
 alignment: ""
 size: "Medium"
-trait_01: "human"
-trait_02: "humanoid"
+trait_01: [[human]]
+trait_02: [[humanoid]]
 modifier: 14
 perception:
   - name: "Perception"
@@ -76,6 +77,12 @@ attacks:
   - name: "Steady Spellcasting"
     desc: "  If another creatures reaction would disrupt the priest's spellcasting action, the priest attempts a DC 15 Flat check. If the priest succeeds, their action isn't disrupted."
  
+```
+
+```encounter-table
+name: Priest of Pharasma
+creatures:
+  - 1: Priest of Pharasma
 ```
 
 

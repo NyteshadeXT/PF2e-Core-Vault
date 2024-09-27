@@ -14,7 +14,7 @@ license: OGL
 ---
 # Chain of Stars
 ## Item 8
-### [[consumable]][[Force]][[magical]][[talisman]]
+### [[consumable]][[3-Rules/trait_reference/force]][[3-Rules/Rule References/Magical]][[talisman]]
 
 **Category** talisman; 
 **Price** 100 gp; 

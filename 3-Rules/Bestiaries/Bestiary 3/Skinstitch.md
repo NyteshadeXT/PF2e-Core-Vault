@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.pathfinder-bestiary-3.Actor.6AvQH0XXccorLE6d"
 tags:
   - pf2e/creature/type/construct
   - pf2e/creature/type/mindless
+  - pf2eMonster
   - pf2e/creature/level/5
 statblock: inline
 name: "Skinstitch"
@@ -22,15 +23,16 @@ token: [[modules/pf2e-tokens-bestiaries/portraits/constructed/magical/skinstitch
 source: "Pathfinder Bestiary 3"
 name: "Skinstitch"
 level: "Creature 5"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Large"
-trait_01: "construct"
-trait_02: "mindless"
+trait_01: [[construct]]
+trait_02: [[mindless]]
 modifier: 12
 perception:
   - name: "Perception"
     desc: "+12; Darkvision"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Athletics: +15"
@@ -50,7 +52,7 @@ abilities_top:
   - name: ""
 
   - name: "Pest Haven"
-    desc: "  The rotting hides and molding straw stuffing of skinstitches are ideal nesting grounds for vermin and insect swarms. Any animal swarm sharing a space with a skinstitch gains fast healing 3.\nAdditionally, if a creature deals at least 10 piercing or slashing damage to the skinstitch at once, the swarm can use its swarming bites Strike (or similar attack) against the attacker as a reaction.\n[[Bestiary Effects/Effect_ Pest Haven|Effect: Pest Haven]]"
+    desc: "  The rotting hides and molding straw stuffing of skinstitches are ideal nesting grounds for vermin and insect swarms. Any animal swarm sharing a space with a skinstitch gains fast healing 3.\n\nAdditionally, if a creature deals at least 10 piercing or slashing damage to the skinstitch at once, the swarm can use its swarming bites Strike (or similar attack) against the attacker as a reaction.\n\n[[Bestiary Effects/Effect_ Pest Haven|Effect: Pest Haven]]"
 
 abilities_mid:
   - name: ""
@@ -67,8 +69,14 @@ attacks:
     desc: "`pf2:2`  The skinstitch makes a blade Strike against an animal or humanoid. On a success, the skinstitch slices a long strip of flesh from the target; if the skinstitch dealt damage, it deals an additional 1d6 persistent bleed damage."
 
   - name: "Stitch Skin"
-    desc: "`pf2:1` (manipulate) **Requirements** The skinstitch hasn't used this ability since the last time it successfully used its Flay ability\n**Effect** The skinstitch sews flayed flesh to its body to seal tears and rents. The skinstitch regains 8 Hit Points."
+    desc: "`pf2:1` (manipulate) **Requirements** The skinstitch hasn't used this ability since the last time it successfully used its Flay ability\n* * *\n\n**Effect** The skinstitch sews flayed flesh to its body to seal tears and rents. The skinstitch regains 8 Hit Points."
  
+```
+
+```encounter-table
+name: Skinstitch
+creatures:
+  - 1: Skinstitch
 ```
 
 

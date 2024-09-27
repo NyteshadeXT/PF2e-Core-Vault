@@ -16,20 +16,15 @@ license: OGL
 
 
 
-
-**\[Service\]**
-
-**Prerequisites** Tier 3 with any faction
-
-**Cost** 4 Fame
+**Prerequisites** Admired by any Faction
+* * *
+**Cost**: 12 AcP
 
 * * *
 
-**Effect** When you purchase this boon, you remove one point of Infamy that you have accrued.
+When you purchase this boon, you remove one point of Infamy that you have accrued.
 
-**Normal** Removing Infamy typically costs 12 Fame per point.
-
-**Special** You can purchase this boon only once, even if you qualify for it from multiple factions.
+**Special**: You can purchase this boon only once, even if you qualify for it from multiple factions.
 
 *Source: *
 *OGL*

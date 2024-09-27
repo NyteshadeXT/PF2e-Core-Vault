@@ -14,7 +14,7 @@ license: OGL
 ---
 # Aklys
 ## Item 0
-### [uncommon](uncommon "Uncommon Rarity Trait")[[tethered]][[thrown-20]][[trip]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[tethered]][[thrown-20]][[3-Rules/trait_reference/trip]]
 
 |  |  |
 | -- | -- |

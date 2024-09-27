@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/beast
   - pf2e/creature/type/chaotic
   - pf2e/creature/type/evil
+  - pf2eMonster
   - pf2e/creature/level/19
 statblock: inline
 name: "Testudan"
@@ -24,21 +25,21 @@ token: [[modules/battlezoo-bestiary-su-pf2e/art/Portraits/testudan.webp| ]]
 source: "Battlezoo Bestiary: Strange and Unusual"
 name: "Testudan"
 level: "Creature 19"
-rare_03: "Rare"
+rare_03: [[Rare]]
 alignment: ""
 size: "huge"
-trait_01: "amphibious"
-trait_02: "beast"
-trait_03: "chaotic"
-trait_04: "evil"
+trait_01: [[amphibious]]
+trait_02: [[beast]]
+trait_03: [[chaotic]]
+trait_04: [[evil]]
 modifier: 29
 perception:
   - name: "Perception"
     desc: "+29; Darkvision, Scent (Imprecise) 60 Feet"
-languages: "Draconic, Thalassic"
+languages: "Draconic, Thalassic; can&#x27;t speak any language"
 skills:
   - name: "Skills"
-    desc: "Athletics: +37, Intimidation: +32, "
+    desc: "Athletics: +37, Intimidation: +32, Athletics: +37, Intimidation: +32"
 abilityMods: [10, 5, 10, -2, 2, 5]
 speed: 40 feet
 sourcebook: "_Battlezoo Bestiary: Strange and Unusual_"
@@ -57,10 +58,10 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Always Someone Better"
-    desc: "  Though the testudan revels in its strength and power, it fears those who are more powerful than it. If the testudan fails a Will save or Perception check to disbelieve against an illusion that makes it see a creature that appears more powerful than the testudan, it becomes Frightened 1 and takes 4d6 mental damage. On a critical failure, it becomes Frightened 2, takes 8d6 mental damage, and is Fleeing for 1 round. It is then temporarily immune to Always Someone Better for 1 minute."
+    desc: "  Though the testudan revels in its strength and power, it fears those who are more powerful than it. If the testudan fails a Will save or Perception check to disbelieve against an illusion that makes it see a creature that appears more powerful than the testudan, it becomes [[undefined]] and takes 4d6 mental damage. On a critical failure, it becomes [[undefined]], takes 8d6 mental damage, and is [[undefined]] for 1 round. It is then temporarily immune to Always Someone Better for 1 minute."
 
   - name: "Tail Lash"
-    desc: "`pf2:r`  **Trigger** A creature within reach of the testudan's serpent tail takes an action to Strike or attempt a skill check\n**Effect** The testudan Strikes with its serpent tail at the triggering creature at a –2 penalty. If it hits, the creature takes a –2 circumstance penalty to the triggering roll."
+    desc: "`pf2:r`  **Trigger** A creature within reach of the testudan's serpent tail takes an action to Strike or attempt a skill check\n* * *\n\n**Effect** The testudan Strikes with its serpent tail at the triggering creature at a –2 penalty. If it hits, the creature takes a –2 circumstance penalty to the triggering roll."
 
 attacks:
   - name: ""
@@ -78,11 +79,17 @@ attacks:
     desc: "`pf2:2`  The testudan makes up to six bear claw Strikes, attacking a given creature no more than once. It doesn't increase its multiple attack penalty until after making all six attacks."
 
   - name: "Shell Defense"
-    desc: "`pf2:1`  The testudan retracts its limbs and head into its shell and ends its turn. It gains a +4 circumstance bonus to AC, increasing its AC to 44, as well as to Reflex saves against area attacks. However, while in its shell, it can't act except to Shell Slam, Stand, or use the Shell Defense action again to re- emerge. If the testudan is Prone while in its shell, it doesn't gain the circumstance bonus to AC from Shell Defense and it must spend two actions in order to Stand."
+    desc: "`pf2:1`  The testudan retracts its limbs and head into its shell and ends its turn. It gains a +4 circumstance bonus to AC, increasing its AC to 44, as well as to Reflex saves against area attacks. However, while in its shell, it can't act except to Shell Slam, Stand, or use the Shell Defense action again to re- emerge. If the testudan is [[undefined]] while in its shell, it doesn't gain the circumstance bonus to AC from Shell Defense and it must spend two actions in order to Stand."
 
   - name: "Shell Slam"
-    desc: "`pf2:2`  **Requirements** The testudan is in its shell from Shell Defense and is not Prone\n**Effect** The testudan Leaps up to 20 feet horizontally, passing over the space of any Large or smaller creature before landing prone. Any creature within the testudan's space at the end of its movement takes 10d6 piercing and 10d6 bludgeoning damage and must attempt a DC 38 Reflex check save with the following effects. Regardless of the result, the creature is moved out of the testudan's space to the closest empty space. If the testudan attempts to pass through the space of a Huge or larger creature, it stops its movement early and lands adjacent to the creature, forcing that creature to make the Reflex save in addition to all creatures in the testudan's space.\n**Critical Success** The creature takes no damage.\n**Success** The creature takes half damage.\n**Failure** The creature takes full damage and is knocked prone.\n**Critical Failure** The creature takes double damage, is knocked prone, and is Paralyzed for 1 round."
+    desc: "`pf2:2`  **Requirements** The testudan is in its shell from Shell Defense and is not [[undefined]]\n* * *\n\n**Effect** The testudan Leaps up to 20 feet horizontally, passing over the space of any Large or smaller creature before landing prone. Any creature within the testudan's space at the end of its movement takes 10d6 piercing and 10d6 bludgeoning damage and must attempt a DC 38 Reflex check save with the following effects. Regardless of the result, the creature is moved out of the testudan's space to the closest empty space. If the testudan attempts to pass through the space of a Huge or larger creature, it stops its movement early and lands adjacent to the creature, forcing that creature to make the Reflex save in addition to all creatures in the testudan's space.\n* * *\n\n**Critical Success** The creature takes no damage.\n\n**Success** The creature takes half damage.\n\n**Failure** The creature takes full damage and is knocked prone.\n\n**Critical Failure** The creature takes double damage, is knocked prone, and is [[undefined]] for 1 round."
  
+```
+
+```encounter-table
+name: Testudan
+creatures:
+  - 1: Testudan
 ```
 
 

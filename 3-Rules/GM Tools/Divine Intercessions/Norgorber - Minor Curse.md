@@ -17,9 +17,9 @@ license: OGL
 
 
 
-**Minor Curse** Norgorber allows thieves to get the better of you.
+Norgorber allows thieves to get the better of you.
 
-Whenever you Earn Income, you earn money as if the task were 2 levels lower due to theft, loss, or bad fortune.
+Whenever you [[Actions/Earn Income|Earn Income]], you earn money as if the task were 2 levels lower due to theft, loss, or bad fortune.
 
 *Source: Pathfinder Lost Omens: Gods & Magic*
 *OGL*

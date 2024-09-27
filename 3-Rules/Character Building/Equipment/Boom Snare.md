@@ -14,14 +14,14 @@ license: OGL
 ---
 # Boom Snare
 ## Item 4
-### [uncommon](uncommon "Uncommon Rarity Trait")[[consumable]][[mechanical]][[snare]][[trap]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[consumable]][[mechanical]][[snare]][[trap]]
 
 **Category** snare; 
 **Price** 18 gp; 
 **Bulk** 0; **Size** med
 **Usage** held-in-one-hand
 
-By combining a [[Equipment/Alchemist's Fire (Lesser)|Alchemist's Fire (Lesser)]], a [[Equipment/Thunderstone (Lesser)|Thunderstone (Lesser)]], and other catalysts with a pressure sensitive trigger, you create a snare that creates a fiery and thunderous explosion when triggered. The target and all creatures in adjacent squares take 1d4 persistent fire damage.
+By combining a [[Equipment/Alchemist's Fire (Lesser)|Alchemist's Fire (Lesser)]], a [[Equipment/Blasting Stone (Lesser)|Blasting Stone (Lesser)]], and other catalysts with a pressure sensitive trigger, you create a snare that creates a fiery and thunderous explosion when triggered. The target and all creatures in adjacent squares take 1d4 persistent fire damage.
 
 * * *
 

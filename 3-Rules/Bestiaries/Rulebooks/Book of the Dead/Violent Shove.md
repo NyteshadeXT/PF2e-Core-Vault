@@ -4,6 +4,7 @@ obsidianUIMode: preview
 noteType: pf2eHazard
 tags:
   - haunt
+  - pf2eHazard
 
 source: Pathfinder Book of the Dead
 aliases: "Compendium.pf2e.book-of-the-dead-bestiary.Actor.ZzKfcOf7CWSZIsAE" 
@@ -21,13 +22,13 @@ name: "Violent Shove"
 level: "Hazard 3"
 
 
-trait_01: "haunt"
+trait_01: [[haunt]]
 modifier: 13
 sourcebook: "_Pathfinder Book of the Dead_"
 ac: 10
 armorclass:
   - name: AC
-    desc: "10; __Fort__ +0, __Ref__ +0, __Will__ +0"
+    desc: "10; "
 hp: 10
 health:
   - name: ""
@@ -49,10 +50,16 @@ attacks:
   - name: ""
 
   - name: "Shove"
-    desc: "`pf2:r` **Trigger** A creature moves adjacent to the haunted wall\n**Effect** A powerful force sweeps across the room, shoving all creatures in the room toward the wall. Each creature in the area must attempt a DC 20 Fortitude check save.\n**Critical Success** The creature is unaffected.\n**Success** The creature is pushed 5 feet toward the wall. If the creature would collide with the wall, they take 1d10 + 5 bludgeoning damage.\n**Failure** The creature is pushed 10 feet toward the wall. If the creature would collide with the wall, they take 2d10 + 10 bludgeoning damage.\n**Critical Failure** The creature is pushed 15 feet toward the wall. If the creature would collide with the wall, they take 3d10 + 15 bludgeoning damage and are knocked [[Conditions/Prone|Prone]]."
+    desc: "`pf2:r` **Trigger** A creature moves adjacent to the haunted wall\n* * *\n\n**Effect** A powerful force sweeps across the room, shoving all creatures in the room toward the wall. Each creature in the area must attempt a DC 20 Fortitude check save.\n* * *\n\n**Critical Success** The creature is unaffected.\n\n**Success** The creature is pushed 5 feet toward the wall. If the creature would collide with the wall, they take 1d10+5 bludgeoning damage.\n\n**Failure** The creature is pushed 10 feet toward the wall. If the creature would collide with the wall, they take 2d10+10 bludgeoning damage.\n\n**Critical Failure** The creature is pushed 15 feet toward the wall. If the creature would collide with the wall, they take 3d10+15 bludgeoning damage and are knocked [[Conditions/Prone|Prone]]."
 
 
   - name: "Reset"
     desc: "1 day"
+```
+
+```encounter-table
+name: Violent Shove
+creatures:
+  - 1: Violent Shove
 ```
 

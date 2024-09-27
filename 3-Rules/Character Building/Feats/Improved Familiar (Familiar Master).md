@@ -6,8 +6,9 @@ tags:
   - trait/archetype
   - trait/common
   - category/class
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.9C6a6FXuPqWjXy8K"
-license: OGL
+license: ORC
 ---
 # Improved Familiar (Familiar Master)
 ## Feat 6
@@ -21,5 +22,5 @@ license: OGL
 * * *
 You find it easy to attract a powerful and unusual familiar to your side. The number of abilities required to make your familiar a specific familiar is two lower than normal.
 
-*Source: Pathfinder Advanced Player's Guide*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

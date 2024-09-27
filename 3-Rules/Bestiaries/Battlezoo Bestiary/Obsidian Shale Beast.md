@@ -7,6 +7,7 @@ aliases: "Compendium.battlezoo-bestiary-pf2e.pf2e-battlezoo-bestiary.Actor.4RRgS
 tags:
   - pf2e/creature/type/animal
   - pf2e/creature/type/earth
+  - pf2eMonster
   - pf2e/creature/level/10
 statblock: inline
 name: "Obsidian Shale Beast"
@@ -25,15 +26,16 @@ level: "Creature 10"
 
 alignment: ""
 size: "Medium"
-trait_01: "animal"
-trait_02: "earth"
+trait_01: [[animal]]
+trait_02: [[earth]]
 modifier: 19
 perception:
   - name: "Perception"
     desc: "+19; Darkvision, Tremorsense (Imprecise) 60 Feet"
+languages: ""
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +22, Athletics: +19, Stealth: +20 (+24 in Caves), "
+    desc: "Acrobatics: +22, Athletics: +19, Stealth: +20"
 abilityMods: [5, 6, 5, -4, 5, 2]
 speed: 40 feet,  burrow 30 feet
 sourcebook: "_Battlezoo Bestiary_"
@@ -56,7 +58,7 @@ abilities_mid:
     desc: "  An obsidian shale beast's hide is made of brittle obsidian, which has Hardness. This Hardness reduces any damage it takes by an amount equal to the Hardness. Once an obsidian shale beast is reduced to less than half its Hit Points, or immediately upon being damaged by a critical hit, its obsidian armor breaks, removing the beast's Hardness and reducing its Armor Class to 28."
 
   - name: "Thousand Cuts"
-    desc: "  As long as the obsidian shale beast's Obsidian Armor is unbroken, any creature that hits the obsidian shale beast with an unarmed attack, tries to Grapple it, or otherwise touches the obsidian shale beast is slashed by its razor-sharp carapace. The creature takes 3d6 slashing damage (basic Reflex save; on a critical failure, the creature also takes 1d6 bleed damage)."
+    desc: "  As long as the obsidian shale beast's Obsidian Armor is unbroken, any creature that hits the obsidian shale beast with an unarmed attack, tries to Grapple it, or otherwise touches the obsidian shale beast is slashed by its razor-sharp carapace. The creature takes 3d6 slashing damage (DC 26 basic Reflex save; on a critical failure, the creature also takes 1d6 bleed damage)."
 
 attacks:
   - name: ""
@@ -71,8 +73,14 @@ attacks:
     desc: "  An obsidian shale beast ignores difficult terrain in caves and rocky mountains."
 
   - name: "Song of the Earth"
-    desc: "`pf2:2` (auditory,healing,primal) **Frequency** once per minute;\n**Effect** The obsidian shale beast rubs the sharp edge of one of its legs against its own hide, creating a subsonic hum that both soothes and stimulates other shale spitters. Other shale spitters within 120 feet lose the clumsy, enfeebled, and stupefied conditions (if they had any) and become Quickened 1 for 2 rounds (they can use their extra action only to Stride or Strike)."
+    desc: "`pf2:2` (auditory,healing,primal) **Frequency** once per minute;\n* * *\n\n**Effect** The obsidian shale beast rubs the sharp edge of one of its legs against its own hide, creating a subsonic hum that both soothes and stimulates other shale spitters. Other shale spitters within 120 feet lose the clumsy, enfeebled, and stupefied conditions (if they had any) and become [[Conditions/Quickened|Quickened]] 1 for 2 rounds (they can use their extra action only to Stride or Strike)."
  
+```
+
+```encounter-table
+name: Obsidian Shale Beast
+creatures:
+  - 1: Obsidian Shale Beast
 ```
 
 

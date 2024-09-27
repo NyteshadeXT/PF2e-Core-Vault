@@ -9,8 +9,9 @@ tags:
   - trait/trap
   - trait/common
   - category/snare
+  - remaster
 aliases: "Compendium.pf2e.equipment-srd.Item.oplQpQSTyTvHDDtq"
-license: OGL
+license: ORC
 ---
 # Marking Snare
 ## Item 1
@@ -27,7 +28,7 @@ This snare is often used to mark intruders for later tracking or identification.
 
 **Failure** The snare marks the creature.
 
-**Critical Failure** The snare marks the creature, and the creature is blinded until the end of its next turn.
+**Critical Failure** The snare marks the creature, and the creature is [[Conditions/Blinded|Blinded]] until the end of its next turn.
 
-*Source: Pathfinder Core Rulebook*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

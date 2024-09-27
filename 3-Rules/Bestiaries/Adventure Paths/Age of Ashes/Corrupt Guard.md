@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/humanoid
   - pf2e/creature/type/lawful
+  - pf2eMonster
   - pf2e/creature/level/12
 statblock: inline
 name: "Corrupt Guard"
@@ -23,13 +24,13 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #148: Fires of the Haunted City"
 name: "Corrupt Guard"
 level: "Creature 12"
-rare_03: "Rare"
+rare_03: [[Rare]]
 alignment: ""
 size: "Medium"
-trait_01: "dwarf"
-trait_02: "evil"
-trait_03: "humanoid"
-trait_04: "lawful"
+trait_01: [[dwarf]]
+trait_02: [[evil]]
+trait_03: [[humanoid]]
+trait_04: [[lawful]]
 modifier: 22
 perception:
   - name: "Perception"
@@ -71,6 +72,12 @@ attacks:
   - name: "Improved Knockdown"
     desc: "`pf2:2`  A corrupt guard can dash their foe to the ground with a single blow. They attempt a single melee Strike. If this Strike hits, they also apply the critical success effect of a Trip. If they used a two- handed melee weapon (such as a maul) for the Strike, they can use the weapon's damage die size instead of the regular die size for the damage from a critical Trip, and they ignore Trip's requirement to have a hand free."
  
+```
+
+```encounter-table
+name: Corrupt Guard
+creatures:
+  - 1: Corrupt Guard
 ```
 
 

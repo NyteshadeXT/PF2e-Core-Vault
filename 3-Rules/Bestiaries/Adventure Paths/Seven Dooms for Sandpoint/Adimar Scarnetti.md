@@ -11,6 +11,7 @@ tags:
   - pf2e/creature/type/humanoid
   - pf2e/creature/type/lawful
   - pf2e/creature/type/werecreature
+  - pf2eMonster
   - pf2e/creature/level/8
 statblock: inline
 name: "Adimar Scarnetti"
@@ -25,20 +26,20 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #200: Seven Dooms for Sandpoint"
 name: "Adimar Scarnetti"
 level: "Creature 8"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Medium"
-trait_01: "beast"
-trait_02: "evil"
-trait_03: "human"
-trait_04: "humanoid"
-trait_05: "lawful"
-trait_06: "werecreature"
+trait_01: [[beast]]
+trait_02: [[evil]]
+trait_03: [[human]]
+trait_04: [[humanoid]]
+trait_05: [[lawful]]
+trait_06: [[werecreature]]
 modifier: 15
 perception:
   - name: "Perception"
     desc: "+15; Low-Light Vision, Scent (Imprecise) 30 Feet"
-languages: "Common, Varisian"
+languages: "Common, Varisian; rat empathy"
 skills:
   - name: "Skills"
     desc: "Acrobatics: +18, Athletics: +14, Deception: +16, Intimidation: +16, Society: +15, Stealth: +18, Thievery: +16"
@@ -73,20 +74,26 @@ attacks:
     desc: "`pf2:1` Shortbow +18 (deadly d10, propulsive, range increment 60 feet, reload 0)\n__Damage__  1d6 + 5 piercing"
 
   - name: "[[Creature Family Ability Glossary/(Werecreature) Change Shape|Change Shape]]"
-    desc: "`pf2:1` (concentrate,polymorph,primal) Human with fist +18 for 1d4+5 bludgeoning, or Small rat with Speed 30 feet, climb Speed 10 feet\nThe werecreature changes into its humanoid, hybrid, or animal shape. Each shape has a specific, persistent appearance. A true werecreature's natural form is its hybrid shape.\nIn humanoid shape, the werecreature uses its original humanoid size, loses its jaws and claws Strikes, and gains a melee fist Strike that deals bludgeoning damage equal to the slashing damage dealt by its claw.\nIn animal shape, its Speed and size change to that of the animal, it gains any special Strike effects of the animal that it didn't already have (such as Grab), and it loses its weapon Strikes.\n"
+    desc: "`pf2:1` (concentrate,polymorph,primal) Human with fist +18 for 1d4+5 bludgeoning, or Small rat with Speed 30 feet, climb Speed 10 feet\n* * *\n\nThe werecreature changes into its humanoid, hybrid, or animal shape. Each shape has a specific, persistent appearance. A true werecreature's natural form is its hybrid shape.\n\nIn humanoid shape, the werecreature uses its original humanoid size, loses its jaws and claws Strikes, and gains a melee fist Strike that deals bludgeoning damage equal to the slashing damage dealt by its claw.\n\nIn animal shape, its Speed and size change to that of the animal, it gains any special Strike effects of the animal that it didn't already have (such as Grab), and it loses its weapon Strikes.\n\n* * *\n"
 
   - name: "[[Creature Family Ability Glossary/(Werecreature) Curse of the Werecreature|Curse of the Wererat]]"
-    desc: " (curse,primal) This curse affects only humanoids.\n**Saving Throw** DC 26 Fortitude check\nOn each full moon, the cursed creature must succeed at another Fortitude save or turn into a wererat until dawn.\nThe creature is under the GM's control and goes on a rampage for half the night before falling unconscious until dawn."
+    desc: " (curse,primal) This curse affects only humanoids.\n\n**Saving Throw** DC 26 Fortitude check\n* * *\n\nOn each full moon, the cursed creature must succeed at another Fortitude save or turn into a wererat until dawn.\n\nThe creature is under the GM's control and goes on a rampage for half the night before falling unconscious until dawn."
 
   - name: "[[Creature Family Ability Glossary/(Werecreature) Moon Frenzy|Moon Frenzy]]"
-    desc: " (polymorph,primal) When a full moon appears in the night sky, the werecreature must enter hybrid form, can't Change Shape thereafter, becomes one size larger, increases its reach by 5 feet, and increases the damage of its jaws Strike by 2.\nWhen the moon sets or the sun rises, the werecreature returns to humanoid form and is [[Conditions/Fatigued|Fatigued]] for 2d4 hours.\n[[Bestiary Effects/Effect_ Moon Frenzy|Effect: Moon Frenzy]]"
+    desc: " (polymorph,primal) When a full moon appears in the night sky, the werecreature must enter hybrid form, can't Change Shape thereafter, becomes one size larger, increases its reach by 5 feet, and increases the damage of its jaws Strike by 2.\n\nWhen the moon sets or the sun rises, the werecreature returns to humanoid form and is [[Conditions/Fatigued|Fatigued]] for 2d4 hours.\n\n[[Bestiary Effects/Effect_ Moon Frenzy|Effect: Moon Frenzy]]"
 
   - name: "[[Bestiary Ability Glossary/Sneak Attack|Sneak Attack]]"
     desc: "  Adimar's Strikes deal an additional 2d6 precision damage to [[Conditions/Off-Guard|Off-Guard]] creatures."
 
   - name: "Unexpected Transformation"
-    desc: "`pf2:1`  **Requirements** Adimar is in human or rat form\n**Effect** Adimar uses Change Shape to transform into his hybrid form and attempts to [[Actions/Demoralize|Demoralize]] one target within 30 feet, gaining a +2 circumstance bonus to his Intimidation check to do so. All creatures who witness Adimar use Unexpected Transformation can't be Demoralized by future Unexpected Transformations for 24 hours."
+    desc: "`pf2:1`  **Requirements** Adimar is in human or rat form\n* * *\n\n**Effect** Adimar uses Change Shape to transform into his hybrid form and attempts to [[Actions/Demoralize|Demoralize]] one target within 30 feet, gaining a +2 circumstance bonus to his Intimidation check to do so. All creatures who witness Adimar use Unexpected Transformation can't be Demoralized by future Unexpected Transformations for 24 hours."
  
+```
+
+```encounter-table
+name: Adimar Scarnetti
+creatures:
+  - 1: Adimar Scarnetti
 ```
 
 

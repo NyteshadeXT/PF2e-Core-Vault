@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/amphibious
   - pf2e/creature/type/elemental
   - pf2e/creature/type/water
+  - pf2eMonster
   - pf2e/creature/level/7
   - remaster
 statblock: inline
@@ -26,9 +27,9 @@ level: "Creature 7"
 
 alignment: ""
 size: "Medium"
-trait_01: "amphibious"
-trait_02: "elemental"
-trait_03: "water"
+trait_01: [[amphibious]]
+trait_02: [[elemental]]
+trait_03: [[water]]
 modifier: 16
 perception:
   - name: "Perception"
@@ -36,7 +37,7 @@ perception:
 languages: "Thalassic"
 skills:
   - name: "Skills"
-    desc: "Art Lore: +15, Cooking Lore: +17, Deception: +16, Diplomacy: +14, Performance: +14"
+    desc: "Deception: +16, Diplomacy: +14, Performance: +14, Art Lore: +15, Cooking Lore: +17"
 abilityMods: [3, 3, 3, 4, 1, 5]
 speed: 20 feet,  swim 40 feet
 sourcebook: "_Pathfinder Rage of Elements_"
@@ -73,8 +74,14 @@ attacks:
     desc: "DC 25, attack +17; __3rd __  _[[Spells/Wall of Water|Wall of Water (x3)]]_\n__Cantrips__  __(4th)__ _[[Spells/Spout|Spout]]_"
 
   - name: "Listless Saliva"
-    desc: " (emotion,mental) The tantriog's essence is imbued with their endless ennui. Any creature hit by the tantriog's beak or spitball Strikes must succeed at a DC 24 Will check save or become [[Conditions/Stunned 1|Stunned 1]] ([[Conditions/Stunned 1|Stunned 2]] on a critical failure)."
+    desc: " (emotion,mental) The tantriog's essence is imbued with their endless ennui. Any creature hit by the tantriog's beak or spitball Strikes must succeed at a DC 24 Will check save or become [[Conditions/Stunned|Stunned 1]] ([[Conditions/Stunned|Stunned 2]] on a critical failure)."
  
+```
+
+```encounter-table
+name: Tantriog
+creatures:
+  - 1: Tantriog
 ```
 
 

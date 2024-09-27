@@ -6,8 +6,9 @@ tags:
   - trait/archetype
   - trait/common
   - category/class
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.74PGpEAVNS5xUDA3"
-license: OGL
+license: ORC
 ---
 # Clinch Strike `pf2:r`
 ## Feat 6
@@ -25,5 +26,5 @@ license: OGL
 
 Your opponents can't slip your grasp without receiving further punishment. Make an unarmed melee Strike against the triggering creature.
 
-*Source: Pathfinder Lost Omens: The Grand Bazaar*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/archon
   - pf2e/creature/type/celestial
   - pf2e/creature/type/holy
+  - pf2eMonster
   - pf2e/creature/level/16
   - remaster
 statblock: inline
@@ -20,15 +21,16 @@ license: ORC
 columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
+token: [[modules/pf2e-tokens-monster-core/assets/portraits/archon-giylea.webp| ]]
 source: "Pathfinder Monster Core"
 name: "Giylea"
 level: "Creature 16"
-rare_03: "Rare"
+rare_03: [[Rare]]
 alignment: ""
 size: "huge"
-trait_01: "archon"
-trait_02: "celestial"
-trait_03: "holy"
+trait_01: [[archon]]
+trait_02: [[celestial]]
+trait_03: [[holy]]
 modifier: 28
 perception:
   - name: "Perception"
@@ -55,7 +57,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "All-Knowing Eyes"
-    desc: " (aura,divine,mental,visual) 30 feet.\n\nWhen a creature ends its turn in the giylea's aura, it must attempt a DC 34 Will check save. If the creature fails, any Deception check it attempts until the end of its next turn has its result reduced by one degree of success. If a creature is currently disguised or in a shape other than its true form when it fails its save, it also becomes [[Conditions/Stupefied 1|Stupefied 1]] until the end of its next turn."
+    desc: " (aura,divine,mental,visual) 30 feet.\n\nWhen a creature ends its turn in the giylea's aura, it must attempt a DC 34 Will check save. If the creature fails, any Deception check it attempts until the end of its next turn has its result reduced by one degree of success. If a creature is currently disguised or in a shape other than its true form when it fails its save, it also becomes [[Conditions/Stupefied|Stupefied 1]] until the end of its next turn."
 
   - name: "[[Actor.oTw6wAZmGiL3oGWR.Item.fHJ8nd0W2SbII4o1|Archon's Protection]]"
     desc: "`pf2:r`  **Trigger** An enemy damages the archon's ally and both are within 15 feet of the archon\n* * *\n\n**Effect** The ally gains resistance 20 to all damage against the triggering damage and the archon can make a Strike against the enemy."
@@ -73,11 +75,17 @@ attacks:
     desc: "DC 37, attack +29; __9th __  _[[Spells/Detonate Magic|Detonate Magic]]_; __8th __  _[[Spells/Divine Wrath|Divine Wrath]]_, _[[Spells/Ring of Truth|Ring of Truth (At Will)]]_; __7th __  _[[Spells/Divine Decree|Divine Decree]]_, _[[Spells/Divine Immolation|Divine Immolation]]_, _[[Spells/Scouting Eye|Scouting Eye]]_, _[[Spells/Zealous Conviction|Zealous Conviction]]_\n__Constant__  __(8th)__ _[[Spells/Ring of Truth|Ring of Truth]]_, _[[Spells/Truesight|Truesight]]_, _[[Spells/Truespeech|Truespeech]]_"
 
   - name: "Fiery Spokes"
-    desc: "`pf2:2` (divine,fire,holy,spirit) The giylea spins furiously, emitting a rain of divine fire. All creatures in a 60-foot emanation take 12d6 fire damage and 5d6 spirit damage with a DC 37 Reflex check save. The giylea can't use Fiery Spokes for 1d4 rounds."
+    desc: "`pf2:2` (divine,fire,holy,spirit) The giylea spins furiously, emitting a rain of divine fire. All creatures in a @Template[emanation|distance:60] take 12d6 fire damage and 5d6 spirit damage with a DC 37 Reflex check save. The giylea can't use Fiery Spokes for 1d4 rounds."
 
   - name: "Focus Gaze"
     desc: "`pf2:1` (concentrate,divine,mental,visual) The giylea fixes their gaze on a creature they can see within 30 feet. The target must immediately attempt a DC 37 Will check save against the giylea's all-knowing eyes. If the creature is under any magical effect that disguises it or has altered its shape, the giylea attempts to counter that magical disguise effect (counteract +29, 8th rank). After attempting its save, the creature is then temporarily immune until the start of the giylea's next turn."
  
+```
+
+```encounter-table
+name: Giylea
+creatures:
+  - 1: Giylea
 ```
 
 

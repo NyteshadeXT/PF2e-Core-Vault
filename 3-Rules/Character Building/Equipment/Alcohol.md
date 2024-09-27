@@ -38,9 +38,9 @@ If you fail a saving throw against alcohol other than initial saves, the afflict
 
 **Stage 2** [[Conditions/Off-Guard|Off-Guard]], +1 item bonus to saving throws against fear effects (10 minutes)
 
-**Stage 3** [[Conditions/Clumsy 1|Clumsy 1]], off-guard, [[Conditions/Stupefied 1|Stupefied 2]] (10 minutes)
+**Stage 3** [[Conditions/Clumsy|Clumsy 1]], off-guard, [[Conditions/Stupefied|Stupefied 2]] (10 minutes)
 
-**Stage 4** [[Conditions/Clumsy 1|Clumsy 2]] and [[Conditions/Sickened 1|Sickened 2]] (10 minutes)
+**Stage 4** [[Conditions/Clumsy|Clumsy 2]] and [[Conditions/Sickened|Sickened 2]] (10 minutes)
 
 **Stage 5** clumsy 2, sickened 2, and stupefied 2 (10 minutes)
 

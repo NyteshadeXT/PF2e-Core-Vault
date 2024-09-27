@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/swarm
   - pf2e/creature/type/unholy
+  - pf2eMonster
   - pf2e/creature/level/11
 statblock: inline
 name: "Karumzek Swarm"
@@ -23,17 +24,18 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #171: Hurricane&#x27;s Howl"
 name: "Karumzek Swarm"
 level: "Creature 11"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Large"
-trait_01: "aberration"
-trait_02: "evil"
-trait_03: "swarm"
-trait_04: "unholy"
+trait_01: [[aberration]]
+trait_02: [[evil]]
+trait_03: [[swarm]]
+trait_04: [[unholy]]
 modifier: 21
 perception:
   - name: "Perception"
     desc: "+21; Darkvision"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Acrobatics: +21, Crafting: +23, Nature: +19, Religion: +21, Stealth: +23"
@@ -64,11 +66,17 @@ attacks:
     desc: "DC 30, attack +22; __6th __ (4 slots) _[[Spells/Death Knell|Death Knell (x3)]]_, _[[Spells/Vomit Swarm|Vomit Swarm]]_; __2nd __ (3 slots) _[[Spells/Invisibility|Invisibility (At Will) (self only)]]_"
 
   - name: "Karumzek Venom"
-    desc: " (poison,virulent) **Saving Throw** DC 28 Fortitude check\n**Maximum Duration** 6 rounds\n**Stage 1** 4d6 poison and [[Conditions/Enfeebled 1|Enfeebled 1]] (1 round)\n**Stage 2** 5d6 poison, [[Conditions/Clumsy 1|Clumsy 1]] , and [[Conditions/Enfeebled 1|Enfeebled 2]] (1 round)\n**Stage 3** 6d6 poison, [[Conditions/Clumsy 1|Clumsy 2]] , and enfeebled 2 (1 round)"
+    desc: " (poison,virulent) **Saving Throw** DC 28 Fortitude check\n\n**Maximum Duration** 6 rounds\n\n**Stage 1** 4d6 poison and [[Conditions/Enfeebled|Enfeebled 1]] (1 round)\n\n**Stage 2** 5d6 poison, [[Conditions/Clumsy|Clumsy 1]], and [[Conditions/Enfeebled|Enfeebled 2]] (1 round)\n\n**Stage 3** 6d6 poison, [[Conditions/Clumsy|Clumsy 2]], and enfeebled 2 (1 round)"
 
   - name: "Swarming Bites"
     desc: "`pf2:1`  Each enemy in the karumzek swarm's space takes 2d6 piercing damage (DC 27 Reflex check save) plus karumzek venom."
  
+```
+
+```encounter-table
+name: Karumzek Swarm
+creatures:
+  - 1: Karumzek Swarm
 ```
 
 

@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/aquatic
   - pf2e/creature/type/mindless
   - pf2e/creature/type/ooze
+  - pf2eMonster
   - pf2e/creature/level/4
 statblock: inline
 name: "Aquatic Ooze"
@@ -22,19 +23,20 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #182: Graveclaw"
 name: "Aquatic Ooze"
 level: "Creature 4"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Medium"
-trait_01: "aquatic"
-trait_02: "mindless"
-trait_03: "ooze"
+trait_01: [[aquatic]]
+trait_02: [[mindless]]
+trait_03: [[ooze]]
 modifier: 8
 perception:
   - name: "Perception"
     desc: "+8; Motion Sense (Precise) 60 Feet"
+languages: ""
 skills:
   - name: "Skills"
-    desc: "Athletics: +11, Stealth: +10 (+12 in moist environments)"
+    desc: "Athletics: +11, Stealth: +10"
 abilityMods: [5, 2, 4, -5, 0, -5]
 speed: 10 feet,  climb 10 feet,  swim 10 feet
 sourcebook: "_Pathfinder #182: Graveclaw_"
@@ -54,7 +56,7 @@ abilities_top:
     desc: "  A gray ooze can sense nearby creatures through vibration and air or water movement."
 
   - name: "Puddled Ambush"
-    desc: "  **Trigger** A creature enters a space occupied by a gray ooze\n**Requirements** Initiative has not yet been rolled\n**Effect** The gray ooze automatically notices the creature, then makes a pseudopod Strike against one creature adjacent to itself before rolling initiative."
+    desc: "  **Trigger** A creature enters a space occupied by a gray ooze\n\n**Requirements** Initiative has not yet been rolled\n* * *\n\n**Effect** The gray ooze automatically notices the creature, then makes a pseudopod Strike against one creature adjacent to itself before rolling initiative."
 
 abilities_mid:
   - name: ""
@@ -65,7 +67,7 @@ attacks:
     desc: "`pf2:1` Pseudopod +13 (agile)\n__Damage__  1d6 + 5 bludgeoning plus grab,paralysis 1d6 acid plus grab,paralysis"
 
   - name: "[[Bestiary Ability Glossary/Constrict|Constrict]]"
-    desc: "`pf2:1`  1d6 bludgeoning plus 1d6 acid, DC 21 Fortitude check\n"
+    desc: "`pf2:1`  1d6 bludgeoning plus 1d6 acid, DC 21 Fortitude check\n\n* * *\n"
 
   - name: "Gray Ooze Acid"
     desc: "  A gray ooze's acid damages only metal and organic materials, not stone."
@@ -76,6 +78,12 @@ attacks:
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
     desc: "`pf2:1`  "
  
+```
+
+```encounter-table
+name: Aquatic Ooze
+creatures:
+  - 1: Aquatic Ooze
 ```
 
 

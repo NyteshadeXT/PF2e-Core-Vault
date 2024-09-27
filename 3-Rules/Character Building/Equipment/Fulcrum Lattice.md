@@ -10,7 +10,7 @@ license: OGL
 ---
 # Fulcrum Lattice
 ## Item 11
-### [unique](unique "Unique Rarity Trait")[[occult]]
+### [unique](unique.md "Unique Rarity Trait")[[3-Rules/Rule References/Occult]]
 
 
 **Price** 1200 gp; 

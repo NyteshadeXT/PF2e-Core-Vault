@@ -10,6 +10,7 @@ tags:
   - pf2e/creature/type/lawful
   - pf2e/creature/type/shadow
   - pf2e/creature/type/swarm
+  - pf2eMonster
   - pf2e/creature/level/3
 statblock: inline
 name: "Swarm Assassin"
@@ -28,11 +29,11 @@ level: "Creature 3"
 
 alignment: ""
 size: "Medium"
-trait_01: "evil"
-trait_02: "humanoid"
-trait_03: "lawful"
-trait_04: "shadow"
-trait_05: "swarm"
+trait_01: [[evil]]
+trait_02: [[humanoid]]
+trait_03: [[lawful]]
+trait_04: [[shadow]]
+trait_05: [[swarm]]
 modifier: 10
 perception:
   - name: "Perception"
@@ -40,7 +41,7 @@ perception:
 languages: "Shadowtongue"
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +11, Athletics: +8, Stealth: +11, "
+    desc: "Acrobatics: +11, Athletics: +8, Stealth: +11"
 abilityMods: [1, 4, 2, -1, 3, -4]
 speed: 25 feet
 sourcebook: "_Battlezoo Bestiary_"
@@ -60,7 +61,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Reactive Sting"
-    desc: "`pf2:r`  **Trigger** An adjacent creature hits the swarm assassin with a Strike;\n**Effect** A swarm erupts from the impacted part of the swarm assassin and leaps out at the attacker. The triggering creature must succeed at a Reflex save or be afflicted with shadow locust poison."
+    desc: "`pf2:r`  **Trigger** An adjacent creature hits the swarm assassin with a Strike;\n* * *\n\n**Effect** A swarm erupts from the impacted part of the swarm assassin and leaps out at the attacker. The triggering creature must succeed at a DC 17 Reflex save or be afflicted with shadow locust poison."
 
 attacks:
   - name: ""
@@ -69,14 +70,20 @@ attacks:
     desc: "`pf2:1` Shortsword +10 (agile, finesse, versatile s)\n__Damage__  1d6 + 5 piercing"
 
   - name: "Discorporate"
-    desc: "`pf2:3` (move) The swarm assassin dissolves its humanoid shape, becoming a shapeless swarm of locusts. Its equipment falls to the ground in its current space. In its discorporated form, the swarm assassin can squeeze through any space as wide as a locust. Its statistics change to those of a Centipede Swarm, but it retains its Intelligence and inflicts shadow locust poison instead of centipede swarm venom.\nIt cannot use any of its other abilities until it reincorporates itself by spending an action (this action has the move trait)."
+    desc: "`pf2:3` (move) The swarm assassin dissolves its humanoid shape, becoming a shapeless swarm of locusts. Its equipment falls to the ground in its current space. In its discorporated form, the swarm assassin can squeeze through any space as wide as a locust. Its statistics change to those of a [[Bestiary 1/Centipede Swarm|Centipede Swarm]], but it retains its Intelligence and inflicts shadow locust poison instead of centipede swarm venom.\n\nIt cannot use any of its other abilities until it reincorporates itself by spending an action (this action has the move trait)."
 
   - name: "Poison Weapon"
     desc: "`pf2:1` (manipulate) The swarm assassin secretes its shadow locust poison onto its weapon."
 
   - name: "Shadow Locust Poison"
-    desc: " (poison) **Saving Throw** Fortitude;\n**Maximum Duration** 6 rounds;\n**Stage 1** 1d6 poison damage (1 round);\n**Stage 2** 1d6 poison damage and Drained 1 (1 round);\n**Stage 3** 1d6 poison damage, drained 1, and Blinded (1 round)"
+    desc: " (poison) **Saving Throw** DC 17 Fortitude;\n* * *\n\n**Maximum Duration** 6 rounds;\n\n**Stage 1** 1d6 poison damage (1 round);\n\n**Stage 2** 1d6 poison damage and [[Conditions/Drained|Drained 1]] (1 round);\n\n**Stage 3** 1d6 poison damage, drained 1, and [[Conditions/Blinded|Blinded]] (1 round)"
  
+```
+
+```encounter-table
+name: Swarm Assassin
+creatures:
+  - 1: Swarm Assassin
 ```
 
 

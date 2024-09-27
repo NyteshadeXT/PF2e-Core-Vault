@@ -8,19 +8,19 @@ tags:
 ---
 # Broken Ribs
 
-> Normal damage. **Crit Effect:** The target is [[Conditions/Slowed 1|Slowed 1]] until healed.
+> Normal damage. **Crit Effect:** The target is [[Conditions/Slowed|Slowed 1]] until healed.
 
 `Bludgeoning`
 
 # Spinal Tap
 
-> Normal damage. **Crit Effect:** The target is [[Conditions/Sickened 1|Sickened 3]].
+> Normal damage. **Crit Effect:** The target is [[Conditions/Sickened|Sickened 3]].
 
 `Piercing`
 
 # Nerve Slice
 
-> **Crit Effect:** The target is [[Conditions/Slowed 1|Slowed 2]] for 1 round.
+> **Crit Effect:** The target is [[Conditions/Slowed|Slowed 2]] for 1 round.
 
 `Slashing`
 

@@ -12,7 +12,7 @@ license: ORC
 ---
 # Reactive Strike
 ## Feat 1
-### [[fighter]]
+### [[3-Rules/trait_reference/fighter]]
 
 **Category** classfeature; 
 

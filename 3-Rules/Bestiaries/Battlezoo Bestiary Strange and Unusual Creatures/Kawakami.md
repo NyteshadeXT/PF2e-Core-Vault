@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/kami
   - pf2e/creature/type/spirit
   - pf2e/creature/type/water
+  - pf2eMonster
   - pf2e/creature/level/9
 statblock: inline
 name: "Kawakami"
@@ -24,13 +25,13 @@ token: [[modules/battlezoo-bestiary-su-pf2e/art/Portraits/kawakami.webp| ]]
 source: "Battlezoo Bestiary: Strange and Unusual"
 name: "Kawakami"
 level: "Creature 9"
-rare_03: "Rare"
+rare_03: [[Rare]]
 alignment: ""
 size: "Medium"
-trait_01: "incorporeal"
-trait_02: "kami"
-trait_03: "spirit"
-trait_04: "water"
+trait_01: [[incorporeal]]
+trait_02: [[kami]]
+trait_03: [[spirit]]
+trait_04: [[water]]
 modifier: 18
 perception:
   - name: "Perception"
@@ -38,7 +39,7 @@ perception:
 languages: "Common, Thalassic"
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +18, Intimidation: +18, Nature: +20, Stealth: +20, "
+    desc: "Acrobatics: +18, Intimidation: +18, Nature: +20, Stealth: +20, Acrobatics: +18, Intimidation: +18, Nature: +20, Stealth: +20"
 abilityMods: [-5, 4, 4, 4, 4, 3]
 speed:  fly 30 feet
 sourcebook: "_Battlezoo Bestiary: Strange and Unusual_"
@@ -72,17 +73,23 @@ attacks:
     desc: "DC 28, attack +20; __5th __  _[[Spells/Control Water|Control Water]]_; __4th __  _[[Spells/Hydraulic Torrent|Hydraulic Torrent (x2)]]_"
 
   - name: "Healing Waves"
-    desc: "`pf2:2`  **Requirements** The kawakami is currently in a restorative state\n**Effect** The kawakami surrounds up to two creatures within 30 feet (which can include itself) in restorative, obscuring water, and then reverts to their destructive state and can't use this ability for 1d4 rounds. The targeted creatures recover 10d6 healing Hit Points, and gains Concealement against all enemies for one round."
+    desc: "`pf2:2`  **Requirements** The kawakami is currently in a restorative state\n* * *\n\n**Effect** The kawakami surrounds up to two creatures within 30 feet (which can include itself) in restorative, obscuring water, and then reverts to their destructive state and can't use this ability for 1d4 rounds. The targeted creatures recover 10d6 healing Hit Points, and gains [[Conditions/Concealed|Concealement]] against all enemies for one round."
 
   - name: "Intercepting Swell"
-    desc: "`pf2:r`  **Requirements** The kawakami is currently in a restorative state\n**Trigger** A creature within 15 feet damages the kawakami or an adjacent ally\n**Effect** Healing water blocks the blow, reducing the damage by 8, and granting the damaged creature fast healing 5 for the next 2 rounds.\n[[Effects/Effect_ Intercepting Swell|Effect: Intercepting Swell]]"
+    desc: "`pf2:r`  **Requirements** The kawakami is currently in a restorative state\n\n**Trigger** A creature within 15 feet damages the kawakami or an adjacent ally\n* * *\n\n**Effect** Healing water blocks the blow, reducing the damage by 8, and granting the damaged creature fast healing 5 for the next 2 rounds.\n\n[[Effects/Effect_ Intercepting Swell|Effect: Intercepting Swell]]"
 
   - name: "Hydropulse"
-    desc: "`pf2:1` (primal,water) **Requirements** The kawakami is currently in a destructive state\n**Frequency** Once per round\n**Effect** The kawakami unleashes a powerful explosion of water. All creatures within a 10-foot emanation of the kawakami take 5d6 bludgeoning damage (DC 26 Reflex check save). On a failure, the creature is also knocked Prone."
+    desc: "`pf2:1` (primal,water) **Requirements** The kawakami is currently in a destructive state\n\n**Frequency** Once per round\n* * *\n\n**Effect** The kawakami unleashes a powerful explosion of water. All creatures within a 10-foot emanation of the kawakami take 5d6 bludgeoning damage (DC 26 Reflex check save). On a failure, the creature is also knocked [[undefined]]."
 
   - name: "Suffocating Ripple"
-    desc: "`pf2:2` (primal,water) **Requirements** The kawakami is currently in a destructive state\n**Effect** The kawakami targets a creature within 100 feet from which a 10-foot emanation of water and mud rapidly swells, and then reverts to a restorative state and can't use this ability for 1d4 rounds. All creatures within the emanation take 10d6 bludgeoning damage (DC 28 Reflex check save). On a failure, the target must also attempt a DC 28 Fortitude check save, and they must start holding their breath on a failure. The affected creature, or any adjacent creature, can use an Interact action to clear the suffocating creature's airway."
+    desc: "`pf2:2` (primal,water) **Requirements** The kawakami is currently in a destructive state\n* * *\n\n**Effect** The kawakami targets a creature within 100 feet from which a 10-foot emanation of water and mud rapidly swells, and then reverts to a restorative state and can't use this ability for 1d4 rounds. All creatures within the emanation take 10d6 bludgeoning damage (DC 28 Reflex check save). On a failure, the target must also attempt a DC 28 Fortitude check save, and they must start holding their breath on a failure. The affected creature, or any adjacent creature, can use an Interact action to clear the suffocating creature's airway."
  
+```
+
+```encounter-table
+name: Kawakami
+creatures:
+  - 1: Kawakami
 ```
 
 

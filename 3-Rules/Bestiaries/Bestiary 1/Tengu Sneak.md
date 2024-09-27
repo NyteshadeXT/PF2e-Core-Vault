@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/chaotic
   - pf2e/creature/type/humanoid
   - pf2e/creature/type/tengu
+  - pf2eMonster
   - pf2e/creature/level/2
 statblock: inline
 name: "Tengu Sneak"
@@ -26,14 +27,14 @@ level: "Creature 2"
 
 alignment: ""
 size: "Medium"
-trait_01: "chaotic"
-trait_02: "humanoid"
-trait_03: "tengu"
+trait_01: [[chaotic]]
+trait_02: [[humanoid]]
+trait_03: [[tengu]]
 modifier: 6
 perception:
   - name: "Perception"
     desc: "+6; Low-Light Vision"
-languages: "Common, Tengu"
+languages: "Common, Tengu; plus two others"
 skills:
   - name: "Skills"
     desc: "Acrobatics: +8, Athletics: +6, Deception: +7, Diplomacy: +5, Society: +5, Stealth: +8, Thievery: +8"
@@ -68,7 +69,7 @@ attacks:
     desc: "`pf2:1` Shortbow +10 (deadly d10, range increment 60 feet, reload 0)\n__Damage__  1d6 piercing"
 
   - name: "Go for the Eyes"
-    desc: "`pf2:r` (incapacitation) **Trigger** The tengu critically hits with a beak Strike.\n**Effect** The tengu attempts to peck out its victim's eyes. The target must attempt a DC 17 Fortitude check save.\n**Success** Unaffected.\n**Failure** [[Conditions/Blinded|Blinded]] for 1 round.\n**Critical Failure** Blinded until healed to maximum HP."
+    desc: "`pf2:r` (incapacitation) **Trigger** The tengu critically hits with a beak Strike.\n* * *\n\n**Effect** The tengu attempts to peck out its victim's eyes. The target must attempt a DC 17 Fortitude check save.\n* * *\n\n**Success** Unaffected.\n\n**Failure** [[Conditions/Blinded|Blinded]] for 1 round.\n\n**Critical Failure** Blinded until healed to maximum HP."
 
   - name: "[[Bestiary Ability Glossary/Sneak Attack|Sneak Attack]]"
     desc: "  The tengu deals 1d6 extra precision damage to [[Conditions/Off-Guard|Off-Guard]] creatures."
@@ -76,6 +77,12 @@ attacks:
   - name: "Surprise Attacker"
     desc: "  On the first round of combat, creatures that haven't acted yet are [[Conditions/Off-Guard|Off-Guard]] to the tengu."
  
+```
+
+```encounter-table
+name: Tengu Sneak
+creatures:
+  - 1: Tengu Sneak
 ```
 
 

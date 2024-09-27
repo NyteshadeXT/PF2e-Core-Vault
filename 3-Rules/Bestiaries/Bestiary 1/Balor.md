@@ -10,6 +10,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/fiend
   - pf2e/creature/type/unholy
+  - pf2eMonster
   - pf2e/creature/level/20
 statblock: inline
 name: "Balor"
@@ -28,16 +29,16 @@ level: "Creature 20"
 
 alignment: ""
 size: "Large"
-trait_01: "chaotic"
-trait_02: "demon"
-trait_03: "evil"
-trait_04: "fiend"
-trait_05: "unholy"
+trait_01: [[chaotic]]
+trait_02: [[demon]]
+trait_03: [[evil]]
+trait_04: [[fiend]]
+trait_05: [[unholy]]
 modifier: 36
 perception:
   - name: "Perception"
     desc: "+36; Darkvision"
-languages: "Chthonian, Draconic, Empyrean"
+languages: "Chthonian, Draconic, Empyrean; telepathy 100 feet"
 skills:
   - name: "Skills"
     desc: "Acrobatics: +35, Athletics: +37, Deception: +36, Diplomacy: +32, Intimidation: +38, Religion: +32, Society: +32, Stealth: +33"
@@ -60,10 +61,10 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "[[Bestiary Ability Glossary/Attack of Opportunity|Attack of Opportunity (Special)]]"
-    desc: "`pf2:r`  The balor can use Attack of Opportunity when a creature within their reach uses a concentrate action, in addition to its normal trigger. They can disrupt triggering concentrate actions, and they disrupt actions on any hit, not just a critical hit.\n"
+    desc: "`pf2:r`  The balor can use Attack of Opportunity when a creature within their reach uses a concentrate action, in addition to its normal trigger. They can disrupt triggering concentrate actions, and they disrupt actions on any hit, not just a critical hit.\n\n* * *\n"
 
   - name: "Aura of Flame"
-    desc: " (aura,divine,fire) 20 feet. A foe that starts its turn in the aura takes 3d6 + 10 fire damage, or 6d6 + 20 fire damage if the balor has [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]] it. A creature that hits a balor with an unarmed Strike takes 3d6 + 10 fire damage, and weapons that hit a balor take 3d6 + 10 fire damage."
+    desc: " (aura,divine,fire) 20 feet. A foe that starts its turn in the aura takes 3d6+10 fire damage, or 6d6+20 fire damage if the balor has [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]] it. A creature that hits a balor with an unarmed Strike takes 3d6+10 fire damage, and weapons that hit a balor take 3d6+10 fire damage."
 
   - name: "Death Throes"
     desc: " (death,divine,fire) When a balor dies, their body explodes in a 100-Foot Aura of intense demonic flame. All creatures and objects in range take 16d10 fire damage (DC 45 Reflex check save). Because the flame is infused with Abyssal energy, creatures in the area apply only half their usual fire resistance. Creatures with immunity to fire use an outcome one degree of success better than what they rolled, instead of gaining the usual benefit of immunity. The bodies of creatures reduced to 0 Hit Points by a balor's death throes are completely incinerated into fine ash."
@@ -87,17 +88,23 @@ attacks:
     desc: "  A balor can cast their 5th-rank innate [[Spells/Translocate|Translocate]] with only a single action."
 
   - name: "Dispelling Strike"
-    desc: "  **Frequency** once per round.\n**Trigger** The balor hits a creature, object, or spell effect with a weapon Strike.\n**Effect** The balor casts an innate [[Spells/Dispel Magic|Dispel Magic]] on the target of the triggering Strike."
+    desc: "  **Frequency** once per round.\n\n**Trigger** The balor hits a creature, object, or spell effect with a weapon Strike.\n* * *\n\n**Effect** The balor casts an innate [[Spells/Dispel Magic|Dispel Magic]] on the target of the triggering Strike."
 
   - name: "Infuse Weapons"
     desc: " (divine) Any weapon a balor wields becomes a _+3 [[Equipment/Striking (Major)|Major Striking]] [[Equipment/Vorpal|Vorpal]] weapon_ made of cold iron and silver while the demon holds it. A weapon that isn't eligible for the vorpal rune doesn't gain its effects. The demon can conjure a whip made of flames with an Interact action. This whip gains the same benefits as other weapons the balor wields."
 
   - name: "Lifedrinker"
-    desc: " (divine,healing) **Trigger** The balor kills a living creature that is at least 15th level.\n**Effect** The balor drinks the triggering creature's life force and regains 10d8+80 Hit Points."
+    desc: " (divine,healing) **Trigger** The balor kills a living creature that is at least 15th level.\n* * *\n\n**Effect** The balor drinks the triggering creature's life force and regains 10d8+80 Hit Points."
 
   - name: "Whip Reposition"
     desc: "  When a balor [[Conditions/Grabbed|Grabs]] a creature with a whip Strike, they can move the creature to any space in the whip's reach. The balor can move without ending the grab as long as the creature remains within the whip's reach, and the balor can move the creature to any other space in the whip's reach with an Interact action."
  
+```
+
+```encounter-table
+name: Balor
+creatures:
+  - 1: Balor
 ```
 
 

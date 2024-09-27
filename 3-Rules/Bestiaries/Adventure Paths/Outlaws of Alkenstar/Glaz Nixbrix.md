@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/chaotic
   - pf2e/creature/type/goblin
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/4
 statblock: inline
 name: "Glaz Nixbrix"
@@ -22,12 +23,12 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #178: Punks in a Powder Keg"
 name: "Glaz Nixbrix"
 level: "Creature 4"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Small"
-trait_01: "chaotic"
-trait_02: "goblin"
-trait_03: "humanoid"
+trait_01: [[chaotic]]
+trait_02: [[goblin]]
+trait_03: [[humanoid]]
 modifier: 9
 perception:
   - name: "Perception"
@@ -35,7 +36,7 @@ perception:
 languages: "Common, Goblin"
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +14, Athletics: +11 (+15 to Climb), Crafting: +9, Intimidation: +10, Underworld Lore: +9"
+    desc: "Acrobatics: +14, Athletics: +11, Crafting: +9, Intimidation: +10, Underworld Lore: +9"
 abilityMods: [3, 6, 4, 3, 1, 2]
 speed: 20 feet,  climb 30 feet
 sourcebook: "_Pathfinder #178: Punks in a Powder Keg_"
@@ -58,7 +59,7 @@ abilities_mid:
     desc: "  Nixbrix's custom armor, which only he knows how to operate, grants him physical resistance. Once Nixbrix is reduced to fewer than half his Hit Points, or immediately upon being damaged by a critical hit, his custom armor breaks, causing the following effects: his Armor Class is reduced to 20, he loses his physical resistance, he can't use his really big gun, and his buzz-saw knuckles no longer cause persistent bleed damage."
 
   - name: "Leap Away"
-    desc: "`pf2:r` (move) **Trigger** Nixbrix is targeted with a ranged attack\nNixbrix Leaps up to 10 feet vertically and 30 feet horizontally, and he gains a +2 circumstance bonus to AC against the triggering attack."
+    desc: "`pf2:r` (move) **Trigger** Nixbrix is targeted with a ranged attack\n\nNixbrix Leaps up to 10 feet vertically and 30 feet horizontally, and he gains a +2 circumstance bonus to AC against the triggering attack."
 
 attacks:
   - name: ""
@@ -81,6 +82,12 @@ attacks:
   - name: "Really Big Gun"
     desc: "  Nixbrix has a custom-built, extra-large firearm mounted to the shoulder of his custom armor. Only he knows how to fire the contraption, which is inscrutable in the hands of anyone else. Whenever Nixbrix fires his Really Big Gun, the armor automatically reloads the weapon, but it doesn't finish reloading until the end of his next turn. He can only fire it, at most, every other round. He can take 6 shots with this weapon before all the ammunition is spent."
  
+```
+
+```encounter-table
+name: Glaz Nixbrix
+creatures:
+  - 1: Glaz Nixbrix
 ```
 
 

@@ -12,7 +12,7 @@ license: ORC
 ---
 # Primal Hierophant
 ## Feat 19
-### [[druid]]
+### [[3-Rules/trait_reference/druid]]
 
 **Category** classfeature; 
 

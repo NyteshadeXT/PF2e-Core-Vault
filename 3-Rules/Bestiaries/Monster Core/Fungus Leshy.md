@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.pathfinder-monster-core.Actor.BoXCGLACP9vuIZkZ"
 tags:
   - pf2e/creature/type/fungus
   - pf2e/creature/type/leshy
+  - pf2eMonster
   - pf2e/creature/level/2
   - remaster
 statblock: inline
@@ -26,8 +27,8 @@ level: "Creature 2"
 
 alignment: ""
 size: "Small"
-trait_01: "fungus"
-trait_02: "leshy"
+trait_01: [[fungus]]
+trait_02: [[leshy]]
 modifier: 6
 perception:
   - name: "Perception"
@@ -54,7 +55,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Verdant Burst"
-    desc: " (healing,primal,vitality) When a fungus leshy dies, a burst of primal energy explodes from its body, restoring 2d8 Hit Points to each fungi creature in a 30-foot emanation. This area is filled with fungi, becoming difficult terrain.\n\nIf the terrain is not a viable environment for this fungi, they wither after 24 hours."
+    desc: " (healing,primal,vitality) When a fungus leshy dies, a burst of primal energy explodes from its body, restoring 2d8 healing Hit Points to each fungi creature in a @Template[emanation|distance:30]. This area is filled with fungi, becoming difficult terrain.\n\nIf the terrain is not a viable environment for this fungi, they wither after 24 hours."
 
 attacks:
   - name: ""
@@ -69,14 +70,20 @@ attacks:
     desc: "DC 16, attack +8; __3rd __  _[[Spells/Speak with Plants|Speak with Plants (Constant, Fungi Only)]]_"
 
   - name: "[[Bestiary Ability Glossary/Change Shape|Change Shape]]"
-    desc: "`pf2:1` (concentrate,polymorph,primal) The leaf leshy transforms into a giant mushroom or patch of fungi. This ability otherwise uses the effects of [[Spells/One with Plants|One with Plants]].\n\n* * *\n"
+    desc: "`pf2:1` (concentrate,polymorph,primal) The fungus leshy transforms into a giant mushroom or patch of fungi. This ability otherwise uses the effects of [[Spells/One with Plants|One with Plants]].\n\n* * *\n"
 
   - name: "Spore Cloud"
-    desc: "`pf2:2` (poison) A fungus leshy can unleash a cloud of spores that irritates the eyes and throats of non-fungus creatures in a 15-foot emanation. Each creature must succeed at a DC 16 Fortitude check save or take 1 persistent poison damage.\n\nA creature has its vision reduced as long as the persistent damage continues and can see only within 20 feet."
+    desc: "`pf2:2` (poison) A fungus leshy can unleash a cloud of spores that irritates the eyes and throats of non-fungus creatures in a @Template[emanation|distance:15]. Each creature must succeed at a DC 16 Fortitude check save or take 1 persistent poison damage.\n\nA creature has its vision reduced as long as the persistent damage continues and can see only within 20 feet."
 
   - name: "Spores"
     desc: "  A creature that takes damage from a fungus leshy's spore pod Strike must attempt a saving throw with the same DC (DC 16 Fortitude check) and effect as its Spore Cloud ability"
  
+```
+
+```encounter-table
+name: Fungus Leshy
+creatures:
+  - 1: Fungus Leshy
 ```
 
 

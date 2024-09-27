@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/amphibious
   - pf2e/creature/type/chaotic
   - pf2e/creature/type/evil
+  - pf2eMonster
   - pf2e/creature/level/14
 statblock: inline
 name: "Giant Aukashungi"
@@ -23,17 +24,18 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #154: Siege of the Dinosaurs"
 name: "Giant Aukashungi"
 level: "Creature 14"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "huge"
-trait_01: "aberration"
-trait_02: "amphibious"
-trait_03: "chaotic"
-trait_04: "evil"
+trait_01: [[aberration]]
+trait_02: [[amphibious]]
+trait_03: [[chaotic]]
+trait_04: [[evil]]
 modifier: 24
 perception:
   - name: "Perception"
     desc: "+24; Greater Darkvision"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Athletics: +29"
@@ -67,14 +69,20 @@ attacks:
     desc: "`pf2:1` Horn +27 (deadly 2d8, reach 15 feet)\n__Damage__  3d8 + 13 piercing"
 
   - name: "Acidic Effluence"
-    desc: "`pf2:2` (acid) The giant aukashungi releases an acidic gas from its ventral glands in a 30-foot burst. Each creature that starts its turn in the area takes 10d8 acid damage plus 2d8 persistent acid damage (DC 32 Fortitude check save). The gas moves 10 feet away from the giant aukashungi each round and lasts for 1 minute. The giant aukashungi can't use Acidic Effluence again for 1 minute."
+    desc: "`pf2:2` (acid) The giant aukashungi releases an acidic gas from its ventral glands in a @Template[burst|distance:30]. Each creature that starts its turn in the area takes 10d8 acid damage plus 2d8 persistent acid damage (DC 32 Fortitude check save). The gas moves 10 feet away from the giant aukashungi each round and lasts for 1 minute. The giant aukashungi can't use Acidic Effluence again for 1 minute."
 
   - name: "Roll Up"
-    desc: "`pf2:2`  The aukashungi protects its soft underbelly by rolling into a tight ball. The aukashungi gains a +2 circumstance bonus to AC while Rolled Up, but it cannot Stride or Strike, and it rolls downhill if on a slope. If the aukashungi is grappling a creature when it Rolls Up, that creature must succeed at a DC 35 Fortitude check save or become Swallowed Whole.\nThe aukashungi can unroll with a single action (this action has the move trait)."
+    desc: "`pf2:2`  The aukashungi protects its soft underbelly by rolling into a tight ball. The aukashungi gains a +2 circumstance bonus to AC while Rolled Up, but it cannot Stride or Strike, and it rolls downhill if on a slope. If the aukashungi is grappling a creature when it Rolls Up, that creature must succeed at a DC 35 Fortitude check save or become Swallowed Whole.\n\nThe aukashungi can unroll with a single action (this action has the move trait)."
 
   - name: "[[Bestiary Ability Glossary/Swallow Whole|Swallow Whole]]"
-    desc: "`pf2:1` (attack) Large, 15d6 + 6 bludgeoning, Rupture 27\n"
+    desc: "`pf2:1` (attack) Large, 15d6+6 bludgeoning, Rupture 27\n\n* * *\n"
  
+```
+
+```encounter-table
+name: Giant Aukashungi
+creatures:
+  - 1: Giant Aukashungi
 ```
 
 

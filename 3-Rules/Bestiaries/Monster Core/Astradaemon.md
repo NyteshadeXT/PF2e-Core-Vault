@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/daemon
   - pf2e/creature/type/fiend
   - pf2e/creature/type/unholy
+  - pf2eMonster
   - pf2e/creature/level/16
   - remaster
 statblock: inline
@@ -27,9 +28,9 @@ level: "Creature 16"
 
 alignment: ""
 size: "Large"
-trait_01: "daemon"
-trait_02: "fiend"
-trait_03: "unholy"
+trait_01: [[daemon]]
+trait_02: [[fiend]]
+trait_03: [[unholy]]
 modifier: 28
 perception:
   - name: "Perception"
@@ -80,11 +81,17 @@ attacks:
     desc: "`pf2:1` (divine,incapacitation) **Requirements** The astradaemon hasn't used an action with the attack trait yet this turn\n* * *\n\n**Effect** The astradaemon draws out and consumes the soul of a living creature they have [[Conditions/Grabbed|Grabbed]].\n\nThe creature must succeed at a DC 35 Fortitude check save or instantly die. If it dies, the astradaemon gains 10 temporary Hit Points and a +2 status bonus to attack and damage rolls for 1 minute, or for 1 day if the victim was 15th level or higher.\n\nA victim slain in this way can be returned to life normally. A creature that survives is temporarily immune for 1 minute.\n\n[[Bestiary Effects/Effect_ Devour Soul|Effect: Devour Soul]]\n\n[[Bestiary Effects/Effect_ Devour Soul (Victim Level 15 or Higher)|Effect: Devour Soul (Victim Level 15 or Higher)]]"
 
   - name: "Essence Drain"
-    desc: " (divine,void) When an astradaemon hits with their claw, jaws, or tail, they drain the target's spiritual and vital essences.\n\nThe target takes 2d10 void damage and the astradaemon regains an equal number of Hit Points. The target must succeed at a DC 37 Fortitude check save or become [[Conditions/Doomed 1|Doomed 1]] and [[Conditions/Drained 1|Drained 1]]. If the target was already drained or doomed, it instead increases both conditions' value by 1, to a maximum of 4."
+    desc: " (divine,void) When an astradaemon hits with their claw, jaws, or tail, they drain the target's spiritual and vital essences.\n\nThe target takes 2d10 void damage and the astradaemon regains an equal number of Hit Points. The target must succeed at a DC 37 Fortitude check save or become [[Conditions/Doomed|Doomed 1]] and [[Conditions/Drained|Drained 1]]. If the target was already drained or doomed, it instead increases both conditions' value by 1, to a maximum of 4."
 
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
     desc: "`pf2:1`  "
  
+```
+
+```encounter-table
+name: Astradaemon
+creatures:
+  - 1: Astradaemon
 ```
 
 

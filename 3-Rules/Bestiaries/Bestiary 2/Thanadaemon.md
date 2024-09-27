@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/fiend
   - pf2e/creature/type/unholy
+  - pf2eMonster
   - pf2e/creature/level/13
 statblock: inline
 name: "Thanadaemon"
@@ -27,15 +28,15 @@ level: "Creature 13"
 
 alignment: ""
 size: "Medium"
-trait_01: "daemon"
-trait_02: "evil"
-trait_03: "fiend"
-trait_04: "unholy"
+trait_01: [[daemon]]
+trait_02: [[evil]]
+trait_03: [[fiend]]
+trait_04: [[unholy]]
 modifier: 26
 perception:
   - name: "Perception"
     desc: "+26; Darkvision, Truesight"
-languages: "Common, Daemonic"
+languages: "Common, Daemonic; telepathy 100 feet"
 skills:
   - name: "Skills"
     desc: "Arcana: +22, Deception: +26, Intimidation: +26, Religion: +22, Styx Lore: +24"
@@ -58,7 +59,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Terrifying Gaze"
-    desc: " (aura,divine,emotion,fear,mental,visual) 30 feet. When a creature ends its turn in the aura, it must attempt a DC 30 Will check save. If the creature fails, it becomes [[Conditions/Frightened 1|Frightened 2]]. The creature is then temporarily immune to terrifying gaze (but not Focus Gaze) for 24 hours."
+    desc: " (aura,divine,emotion,fear,mental,visual) 30 feet. When a creature ends its turn in the aura, it must attempt a DC 30 Will check save. If the creature fails, it becomes [[Conditions/Frightened|Frightened 2]]. The creature is then temporarily immune to terrifying gaze (but not Focus Gaze) for 24 hours."
 
 attacks:
   - name: ""
@@ -76,14 +77,20 @@ attacks:
     desc: "_[[Spells/Create Undead|Create Undead]]_"
 
   - name: "Draining Strike"
-    desc: " (divine) When a thanadaemon damages a living creature with a melee Strike, the creature must succeed at a DC 33 Fortitude check save or become [[Conditions/Drained 1|Drained 1]]. Further damage dealt by the thanadaemon increases the drained condition value by 1 on a failed save, to a maximum of [[Conditions/Drained 1|Drained 4]]."
+    desc: " (divine) When a thanadaemon damages a living creature with a melee Strike, the creature must succeed at a DC 33 Fortitude check save or become [[Conditions/Drained|Drained 1]]. Further damage dealt by the thanadaemon increases the drained condition value by 1 on a failed save, to a maximum of [[Conditions/Drained|Drained 4]]."
 
   - name: "Focus Gaze"
-    desc: "`pf2:1` (concentrate,divine,fear,visual) The thanadaemon glares at a single creature they can see within 30 feet. If the target wasn't already [[Conditions/Frightened 1|Frightened]], they must immediately attempt a DC 33 Will check save against the thanadaemon's terrifying gaze. If the target was already frightened, they must attempt a DC 33 Will check save or become [[Conditions/Fleeing|Fleeing]] for 1d4 rounds; this second effect has the incapacitation trait. After attempting its save, the creature is temporarily immune to this ability until the start of the thanadaemon's next turn."
+    desc: "`pf2:1` (concentrate,divine,fear,visual) The thanadaemon glares at a single creature they can see within 30 feet. If the target wasn't already [[Conditions/Frightened|Frightened]], they must immediately attempt a DC 33 Will check save against the thanadaemon's terrifying gaze. If the target was already frightened, they must attempt a DC 33 Will check save or become [[Conditions/Fleeing|Fleeing]] for 1d4 rounds; this second effect has the incapacitation trait. After attempting its save, the creature is temporarily immune to this ability until the start of the thanadaemon's next turn."
 
   - name: "Soul Crush"
-    desc: "`pf2:2` (manipulate) **Requirements** The thanadaemon has a soul gem\n**Effect** The thanadaemon crushes the soul gem in one hand and gains fast healing 15 for 1 minute.\n[[Bestiary Effects/Effect_ Soul Crush (Healing)|Effect: Soul Crush (Healing)]]"
+    desc: "`pf2:2` (manipulate) **Requirements** The thanadaemon has a soul gem\n* * *\n\n**Effect** The thanadaemon crushes the soul gem in one hand and gains fast healing 15 for 1 minute.\n\n[[Bestiary Effects/Effect_ Soul Crush (Healing)|Effect: Soul Crush (Healing)]]"
  
+```
+
+```encounter-table
+name: Thanadaemon
+creatures:
+  - 1: Thanadaemon
 ```
 
 

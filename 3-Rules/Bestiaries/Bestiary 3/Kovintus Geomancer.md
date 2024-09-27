@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.pathfinder-bestiary-3.Actor.NoAyIhPpqJ1WE1pF"
 tags:
   - pf2e/creature/type/humanoid
   - pf2e/creature/type/kovintus
+  - pf2eMonster
   - pf2e/creature/level/3
 statblock: inline
 name: "Kovintus Geomancer"
@@ -25,8 +26,8 @@ level: "Creature 3"
 
 alignment: ""
 size: "Medium"
-trait_01: "humanoid"
-trait_02: "kovintus"
+trait_01: [[humanoid]]
+trait_02: [[kovintus]]
 modifier: 11
 perception:
   - name: "Perception"
@@ -72,8 +73,14 @@ attacks:
     desc: "DC 21, attack +13; __3rd __ (1 slots) _[[Spells/Crashing Wave|Crashing Wave]]_, _[[Spells/One with Stone|Meld into Stone]]_, _[[Spells/Wall of Thorns|Wall of Thorns]]_, _[[Spells/Wall of Wind|Wall of Wind]]_"
 
   - name: "Nature's Chosen"
-    desc: "  Once per day, the kovintus can cast a 3rd-rank primal innate spell. They can do so only if a spell with a corresponding trait was cast within 10 feet of the kovintus since the start of their last turn (including if the kovintus Cast the Spell).\nThe traits and the spells they grant are as follows:\n*   [[Spells/Wall of Wind|Wall of Wind]] for air\n*   [[Spells/One with Stone|One with Stone]] for earth\n*   [[Spells/Wall of Thorns|Wall of Thorns]] for plant\n*   [[Spells/Crashing Wave|Crashing Wave]] for water"
+    desc: "  Once per day, the kovintus can cast a 3rd-rank primal innate spell. They can do so only if a spell with a corresponding trait was cast within 10 feet of the kovintus since the start of their last turn (including if the kovintus Cast the Spell).\n\nThe traits and the spells they grant are as follows:\n\n*   [[Spells/Wall of Wind|Wall of Wind]] for air\n*   [[Spells/One with Stone|One with Stone]] for earth\n*   [[Spells/Wall of Thorns|Wall of Thorns]] for plant\n*   [[Spells/Crashing Wave|Crashing Wave]] for water"
  
+```
+
+```encounter-table
+name: Kovintus Geomancer
+creatures:
+  - 1: Kovintus Geomancer
 ```
 
 

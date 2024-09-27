@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/humanoid
   - pf2e/creature/type/lawful
+  - pf2eMonster
   - pf2e/creature/level/5
 statblock: inline
 name: "Caligni Vanguard"
@@ -24,13 +25,13 @@ token: [[modules/pf2e-tokens-bestiaries/portraits/humanoid/darklands/caligni-van
 source: "Pathfinder Bestiary 3"
 name: "Caligni Vanguard"
 level: "Creature 5"
-rare_03: "Rare"
+rare_03: [[Rare]]
 alignment: ""
 size: "Medium"
-trait_01: "caligni"
-trait_02: "evil"
-trait_03: "humanoid"
-trait_04: "lawful"
+trait_01: [[caligni]]
+trait_02: [[evil]]
+trait_03: [[humanoid]]
+trait_04: [[lawful]]
 modifier: 13
 perception:
   - name: "Perception"
@@ -64,7 +65,7 @@ abilities_mid:
     desc: "`pf2:r`  "
 
   - name: "Death Blaze"
-    desc: "  When the vanguard dies, their body combusts in a blaze of fire and armor shrapnel.\nAll creatures within a 10-foot emanation take 3d6 fire damage and 3d6 piercing damage (DC 19 Reflex check save).\nThe vanguard's armor is destroyed in the blaze, but their other gear is unaffected and left in a pile where they died."
+    desc: "  When the vanguard dies, their body combusts in a blaze of fire and armor shrapnel.\n\nAll creatures within a @Template[emanation|distance:10] take 3d6 fire damage and 3d6 piercing damage (DC 19 Reflex check save).\n\nThe vanguard's armor is destroyed in the blaze, but their other gear is unaffected and left in a pile where they died."
 
 attacks:
   - name: ""
@@ -81,6 +82,12 @@ attacks:
   - name: "Shadowed Blade"
     desc: "`pf2:2` (darkness) The vanguard makes a melee Strike, channeling shadowy essence into their weapon or unarmed attack to envelop the target. If the Strike hits, the target must succeed at a DC 19 Fortitude check save or become [[Conditions/Blinded|Blinded]] until the end of its next turn."
  
+```
+
+```encounter-table
+name: Caligni Vanguard
+creatures:
+  - 1: Caligni Vanguard
 ```
 
 

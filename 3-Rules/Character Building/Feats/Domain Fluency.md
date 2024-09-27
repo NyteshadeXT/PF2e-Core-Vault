@@ -6,8 +6,9 @@ tags:
   - trait/oracle
   - trait/common
   - category/class
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.ENoRkTXtdfsbs98S"
-license: OGL
+license: ORC
 ---
 # Domain Fluency
 ## Feat 12
@@ -17,9 +18,9 @@ license: OGL
 
 
 
-**Prerequisites** initial domain spell
+**Prerequisites** Domain Acumen
 * * *
-You command a deep understanding of the divine domains related to your mystery. Choose one of the domains associated with your mystery for which you have an initial domain spell. You gain an advanced domain spell from that domain, which you cast as a revelation spell, causing it to gain the cursebound trait. Increase the number of Focus Points in your focus pool by 1.
+You command a deep understanding of the domains related to your mystery. Choose one of the domains associated with your mystery for which you have an initial domain spell. You gain an advanced domain spell from that domain, which you cast as a revelation spell.
 
-*Source: Pathfinder Advanced Player's Guide*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

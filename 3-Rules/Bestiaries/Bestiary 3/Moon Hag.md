@@ -11,6 +11,7 @@ tags:
   - pf2e/creature/type/hag
   - pf2e/creature/type/humanoid
   - pf2e/creature/type/unholy
+  - pf2eMonster
   - pf2e/creature/level/10
 statblock: inline
 name: "Moon Hag"
@@ -26,15 +27,15 @@ token: [[modules/pf2e-tokens-bestiaries/portraits/humanoid/hag/moon-hag.webp| ]]
 source: "Pathfinder Bestiary 3"
 name: "Moon Hag"
 level: "Creature 10"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Medium"
-trait_01: "chaotic"
-trait_02: "evil"
-trait_03: "fiend"
-trait_04: "hag"
-trait_05: "humanoid"
-trait_06: "unholy"
+trait_01: [[chaotic]]
+trait_02: [[evil]]
+trait_03: [[fiend]]
+trait_04: [[hag]]
+trait_05: [[humanoid]]
+trait_06: [[unholy]]
 modifier: 22
 perception:
   - name: "Perception"
@@ -42,7 +43,7 @@ perception:
 languages: "Aklo, Common, Jotun"
 skills:
   - name: "Skills"
-    desc: "Boneyard Lore: +21, Deception: +19, Intimidation: +17, Occultism: +19, Religion: +22"
+    desc: "Deception: +19, Intimidation: +17, Occultism: +19, Religion: +22, Boneyard Lore: +21"
 abilityMods: [7, 5, 3, 5, 6, 3]
 speed: 25 feet
 sourcebook: "_Pathfinder Bestiary 3_"
@@ -59,7 +60,7 @@ abilities_top:
   - name: ""
 
   - name: "[[Bestiary Ability Glossary/Coven|Coven]]"
-    desc: " (mental,occult) A moon hag adds [[Spells/Interplanar Teleport|Interplanar Teleport]], [[Spells/Scrying|Scrying]], and [[Spells/Spirit Blast|Spirit Blast]] to her coven's spells.\n"
+    desc: " (mental,occult) A moon hag adds [[Spells/Interplanar Teleport|Interplanar Teleport]], [[Spells/Scrying|Scrying]], and [[Spells/Spirit Blast|Spirit Blast]] to her coven's spells.\n\n* * *\n"
 
 abilities_mid:
   - name: ""
@@ -67,7 +68,7 @@ abilities_mid:
     desc: "`pf2:r`  "
 
   - name: "Moonlight's Kiss"
-    desc: "  A moon hag in an area illuminated by moonlight gains a +2 status bonus to AC and initiative rolls.\nIn the light of a full moon, she is [[Conditions/Quickened|Quickened]], and can use the extra action only to Stride or Strike."
+    desc: "  A moon hag in an area illuminated by moonlight gains a +2 status bonus to AC and initiative rolls.\n\nIn the light of a full moon, she is [[Conditions/Quickened|Quickened]], and can use the extra action only to Stride or Strike."
 
 attacks:
   - name: ""
@@ -85,11 +86,17 @@ attacks:
     desc: "_[[Spells/Control Weather|Control Weather]]_"
 
   - name: "Dreadful Prediction"
-    desc: "`pf2:1` (curse,mental,occult) **Frequency** once per round\n**Effect** The moon hag howls a series of dreadful, apocalyptic predictions at a single creature within 30 feet, shattering its perceptions of reality.\nThe target must succeed at a DC 29 Will check save or become [[Conditions/Stupefied 1|Stupefied 2]] ([[Conditions/Stupefied 1|Stupefied 3]] on a critical failure); regardless of the outcome, the creature is then temporarily immune for 24 hours. A creature that can see the moon takes a -2 circumstance penalty to saving throws against Dreadful Prediction.\nThe stupefied condition from Dreadful Prediction persists until the curse is removed."
+    desc: "`pf2:1` (curse,mental,occult) **Frequency** once per round\n* * *\n\n**Effect** The moon hag howls a series of dreadful, apocalyptic predictions at a single creature within 30 feet, shattering its perceptions of reality.\n\nThe target must succeed at a DC 29 Will check save or become [[Conditions/Stupefied|Stupefied 2]] ([[Conditions/Stupefied|Stupefied 3]] on a critical failure); regardless of the outcome, the creature is then temporarily immune for 24 hours. A creature that can see the moon takes a -2 circumstance penalty to saving throws against Dreadful Prediction.\n\nThe stupefied condition from Dreadful Prediction persists until the curse is removed."
 
   - name: "[[Bestiary Ability Glossary/Rend|Rend]]"
-    desc: "`pf2:1`  Claw\n"
+    desc: "`pf2:1`  Claw\n\n* * *\n"
  
+```
+
+```encounter-table
+name: Moon Hag
+creatures:
+  - 1: Moon Hag
 ```
 
 

@@ -4,6 +4,7 @@ obsidianUIMode: preview
 noteType: pf2eHazard
 tags:
   - haunt
+  - pf2eHazard
 
 source: Pathfinder Society Scenario #4-02: Return to the Grave
 aliases: "Compendium.pf2e.pfs-season-4-bestiary.Actor.Vy5P6hdCiVLeRWTa" 
@@ -21,7 +22,7 @@ name: "A Broken Promise (1-2)"
 level: "Hazard 2"
 
 
-trait_01: "haunt"
+trait_01: [[haunt]]
 modifier: 11
 sourcebook: "_Pathfinder Society Scenario #4-02: Return to the Grave_"
 perception:
@@ -40,10 +41,16 @@ attacks:
   - name: ""
 
   - name: "Vision of Desecration"
-    desc: "`pf2:r` (emotion, fear, mental, occult) **Trigger** At least 2 creatures step into the circle of trees\n**Effect** The haunted grove creates a vision steeped in its despair to tell the tale of a cleric of Pharasma's fall to undead corruption and his subsequent desecration of the holy shrine, allowing necromantic energies to infest the grove. All creatures within the circle of trees must attempt a DC 18 Will check save.\n**Critical Success** The creature sees through the illusions entirely and is temporarily immune to the haunt for 1 hour.\n**Success** The creature is unaffected by the strange images.\n**Failure** The creature experiences a phantom pain from the Sacred Grove as it had suffered in the moment of Seldrick's fall. The haunt deals 2d6 mental damage.\n**Critical Failure** As failure, but the creature is left with a lingering suspicion of others and can't benefit from Aid reactions for 24 hours."
+    desc: "`pf2:r` (emotion, fear, mental, occult) **Trigger** At least 2 creatures step into the circle of trees\n* * *\n\n**Effect** The haunted grove creates a vision steeped in its despair to tell the tale of a cleric of Pharasma's fall to undead corruption and his subsequent desecration of the holy shrine, allowing necromantic energies to infest the grove. All creatures within the circle of trees must attempt a DC 18 Will check save.\n* * *\n\n**Critical Success** The creature sees through the illusions entirely and is temporarily immune to the haunt for 1 hour.\n\n**Success** The creature is unaffected by the strange images.\n\n**Failure** The creature experiences a phantom pain from the Sacred Grove as it had suffered in the moment of Seldrick's fall. The haunt deals 2d6 mental damage.\n\n**Critical Failure** As failure, but the creature is left with a lingering suspicion of others and can't benefit from Aid reactions for 24 hours."
 
 
   - name: "Reset"
     desc: "The haunt returns every 10 minutes to retell its tale. The haunting of the sacred grove is permanently put to rest if the shrine is reconsecrated, which is impossible unless the evil forces in the nearby watchtower are defeated."
+```
+
+```encounter-table
+name: A Broken Promise (1-2)
+creatures:
+  - 1: A Broken Promise (1-2)
 ```
 

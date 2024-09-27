@@ -17,7 +17,7 @@ license: OGL
 
 
 
-**Major Curse (Daily)** Norgorber steals away your memories.
+Norgorber steals away your memories.
 
 Once each day when you awake from rest, roll 1d4.
 

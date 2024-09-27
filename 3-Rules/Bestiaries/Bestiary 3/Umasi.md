@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/aberration
   - pf2e/creature/type/chaotic
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/6
 statblock: inline
 name: "Umasi"
@@ -23,12 +24,12 @@ token: [[modules/pf2e-tokens-bestiaries/portraits/humanoid/umasi.webp| ]]
 source: "Pathfinder Bestiary 3"
 name: "Umasi"
 level: "Creature 6"
-rare_03: "Uncommon"
+rare_03: [[Uncommon]]
 alignment: ""
 size: "Medium"
-trait_01: "aberration"
-trait_02: "chaotic"
-trait_03: "humanoid"
+trait_01: [[aberration]]
+trait_02: [[chaotic]]
+trait_03: [[humanoid]]
 modifier: 12
 perception:
   - name: "Perception"
@@ -77,11 +78,17 @@ attacks:
     desc: "`pf2:1` Blowgun +16 (magical, range increment 20 feet, reload 1)\n__Damage__  1 piercing plus harvester-poison"
 
   - name: "Consume Organ"
-    desc: "`pf2:1` (manipulate) **Requirements** The umasi is adjacent to the corpse of a Small or larger creature that died within the last minute\n**Effect** The umasi harvests and consumes a vital organ from the corpse, gaining 15 temporary Hit Points and a +1 status bonus to attack and damage rolls for 10 minutes. They can gain this benefit only once from any given corpse.\n[[Bestiary Effects/Effect_ Consume Organ|Effect: Consume Organ]]"
+    desc: "`pf2:1` (manipulate) **Requirements** The umasi is adjacent to the corpse of a Small or larger creature that died within the last minute\n* * *\n\n**Effect** The umasi harvests and consumes a vital organ from the corpse, gaining 15 temporary Hit Points and a +1 status bonus to attack and damage rolls for 10 minutes. They can gain this benefit only once from any given corpse.\n\n[[Bestiary Effects/Effect_ Consume Organ|Effect: Consume Organ]]"
 
   - name: "Harvester Poison"
-    desc: " (nonlethal,poison) **Saving Throw** DC 24 Fortitude check\n**Maximum Duration** 4 rounds\n**Stage 1** 2d6 poison damage (1 round)\n**Stage 2** 3d6 poison damage (1 round)"
+    desc: " (nonlethal,poison) **Saving Throw** DC 24 Fortitude check\n* * *\n\n**Maximum Duration** 4 rounds\n\n**Stage 1** 2d6 poison damage (1 round)\n\n**Stage 2** 3d6 poison damage (1 round)"
  
+```
+
+```encounter-table
+name: Umasi
+creatures:
+  - 1: Umasi
 ```
 
 

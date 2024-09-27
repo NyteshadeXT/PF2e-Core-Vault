@@ -9,6 +9,7 @@ tags:
   - pf2e/creature/type/evil
   - pf2e/creature/type/human
   - pf2e/creature/type/humanoid
+  - pf2eMonster
   - pf2e/creature/level/4
 statblock: inline
 name: "Reast Mycer (3-4)"
@@ -23,13 +24,13 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Society Scenario #1-22: Doom of Cassomir"
 name: "Reast Mycer (3-4)"
 level: "Creature 4"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Medium"
-trait_01: "chaotic"
-trait_02: "evil"
-trait_03: "human"
-trait_04: "humanoid"
+trait_01: [[chaotic]]
+trait_02: [[evil]]
+trait_03: [[human]]
+trait_04: [[humanoid]]
 modifier: 9
 perception:
   - name: "Perception"
@@ -60,7 +61,7 @@ abilities_mid:
     desc: "`pf2:r`  "
 
   - name: "Swear Vengeance"
-    desc: "`pf2:r`  **Trigger** A creature that Reast can see damages a follower of Groetus other than Reast\n**Effect** Reast gains the effect of a 1st-rank [[Spells/Sure Strike|Sure Strike]] spell. If Reast makes an attack roll against anyone other than the triggering creature, the true strike ends with no effect.\nReast can use this reaction once per day."
+    desc: "`pf2:r`  **Trigger** A creature that Reast can see damages a follower of Groetus other than Reast\n* * *\n\n**Effect** Reast gains the effect of a 1st-rank [[Spells/Sure Strike|Sure Strike]] spell. If Reast makes an attack roll against anyone other than the triggering creature, the true strike ends with no effect.\n\nReast can use this reaction once per day."
 
 attacks:
   - name: ""
@@ -77,6 +78,12 @@ attacks:
   - name: "Channel Smite"
     desc: "`pf2:2` (divine) Reast expends a prepared [[Spells/Harm|Harm]] spell and makes a melee Strike. Instead of the normal effect of the spell, its void damage is added to the Strike's damage."
  
+```
+
+```encounter-table
+name: Reast Mycer (3-4)
+creatures:
+  - 1: Reast Mycer (3-4)
 ```
 
 

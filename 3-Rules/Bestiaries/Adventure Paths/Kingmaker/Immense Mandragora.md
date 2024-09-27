@@ -8,6 +8,7 @@ tags:
   - pf2e/creature/type/chaotic
   - pf2e/creature/type/evil
   - pf2e/creature/type/plant
+  - pf2eMonster
   - pf2e/creature/level/20
 statblock: inline
 name: "Immense Mandragora"
@@ -22,12 +23,12 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Kingmaker"
 name: "Immense Mandragora"
 level: "Creature 20"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "grg"
-trait_01: "chaotic"
-trait_02: "evil"
-trait_03: "plant"
+trait_01: [[chaotic]]
+trait_02: [[evil]]
+trait_03: [[plant]]
 modifier: 33
 perception:
   - name: "Perception"
@@ -35,7 +36,7 @@ perception:
 languages: "Aklo, Chthonian, Common, Fey"
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +10, Athletics: +10, Stealth: +12 (+20 in vegetation)"
+    desc: "Acrobatics: +35, Athletics: +35, Stealth: +38"
 abilityMods: [10, 5, 6, 0, 7, 6]
 speed: 40 feet,  burrow 10 feet,  climb 40 feet
 sourcebook: "_Pathfinder Kingmaker_"
@@ -57,7 +58,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Vulnerability to Supernatural Darkness"
-    desc: "  Whenever a mandragora begins its turn in an area of magical darkness, it is [[Conditions/Slowed 1|Slowed 1]] on that turn."
+    desc: "  Whenever a mandragora begins its turn in an area of magical darkness, it is [[Conditions/Slowed|Slowed 1]] on that turn."
 
 attacks:
   - name: ""
@@ -69,14 +70,20 @@ attacks:
     desc: "`pf2:1` Thorny Vine +38 (agile, finesse, reach 10 feet)\n__Damage__  4d8 + 18 slashing plus immense-mandragora-venom"
 
   - name: "Apocalyptic Shriek"
-    desc: "`pf2:1` (auditory,mental,primal) **Frequency** once per day\n**Effect** The immense mandragora emits a devastating shriek. Each non-mandragora creature within 30 feet must attempt a DC 42 Will check save.\n**Critical Success** The creature is unaffected.\n**Success** The creature is [[Conditions/Sickened 1|Sickened 1]] and takes 8d8 mental damage.\n**Failure** The creature is [[Conditions/Sickened 1|Sickened 2]] and takes 16d8 mental damage.\n**Critical Failure** The creature is sickened 2, [[Conditions/Slowed 1|Slowed 1]], and takes 150 mental damage. As long as the creature remains sickened, this slowed condition value can't be reduced below 1."
+    desc: "`pf2:1` (auditory,mental,primal) **Frequency** once per day\n* * *\n\n**Effect** The immense mandragora emits a devastating shriek. Each non-mandragora creature within 30 feet must attempt a DC 42 Will check save.\n* * *\n\n**Critical Success** The creature is unaffected.\n\n**Success** The creature is [[Conditions/Sickened|Sickened 1]] and takes 8d8 mental damage.\n\n**Failure** The creature is [[Conditions/Sickened|Sickened 2]] and takes 16d8 mental damage.\n\n**Critical Failure** The creature is sickened 2, [[Conditions/Slowed|Slowed 1]], and takes 150 mental damage. As long as the creature remains sickened, this slowed condition value can't be reduced below 1."
 
   - name: "Blood Drain"
-    desc: "`pf2:1`  **Requirements** The immense mandragora has a creature [[Conditions/Grabbed|Grabbed]]\n**Effect** The immense mandragora drains blood from the creature it has grabbed, dealing 12d6 damage. If the creature is a demon, fey, or sorcerer, the mandragora gains temporary Hit Points equal to the damage dealt. A creature that has its blood drained by a mandragora is [[Conditions/Drained 1|Drained 2]] until it receives healing of any kind or amount."
+    desc: "`pf2:1`  **Requirements** The immense mandragora has a creature [[Conditions/Grabbed|Grabbed]]\n* * *\n\n**Effect** The immense mandragora drains blood from the creature it has grabbed, dealing 12d6 damage. If the creature is a demon, fey, or sorcerer, the mandragora gains temporary Hit Points equal to the damage dealt. A creature that has its blood drained by a mandragora is [[Conditions/Drained|Drained 2]] until it receives healing of any kind or amount."
 
   - name: "Immense Mandragora Venom"
-    desc: " (poison) **Saving Throw** DC 42 Fortitude check\n**Maximum Duration** 6 rounds\n**Stage 1** 4d6 poison damage and [[Conditions/Stupefied 1|Stupefied 1]] (1 round)\n**Stage 2** 4d6 poison damage, [[Conditions/Confused|Confused]], and stupefied 1 (1 round)\n**Stage 3** 6d6 poison damage, confused, and stupefied 1 (1 round)"
+    desc: " (poison) **Saving Throw** DC 42 Fortitude check\n\n**Maximum Duration** 6 rounds\n\n**Stage 1** 4d6 poison damage and [[Conditions/Stupefied|Stupefied 1]] (1 round)\n\n**Stage 2** 4d6 poison damage, [[Conditions/Confused|Confused]], and stupefied 1 (1 round)\n\n**Stage 3** 6d6 poison damage, confused, and stupefied 1 (1 round)"
  
+```
+
+```encounter-table
+name: Immense Mandragora
+creatures:
+  - 1: Immense Mandragora
 ```
 
 

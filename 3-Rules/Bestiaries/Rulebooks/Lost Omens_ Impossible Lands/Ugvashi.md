@@ -6,6 +6,7 @@ cssClasses: pf2e
 aliases: "Compendium.pf2e.lost-omens-impossible-lands-bestiary.Actor.JmGKKXdAxUkJtdTm" 
 tags:
   - pf2e/creature/type/animal
+  - pf2eMonster
   - pf2e/creature/level/3
 statblock: inline
 name: "Ugvashi"
@@ -23,11 +24,12 @@ level: "Creature 3"
 
 alignment: ""
 size: "Medium"
-trait_01: "animal"
+trait_01: [[animal]]
 modifier: 8
 perception:
   - name: "Perception"
     desc: "+8; "
+languages: ""
 skills:
   - name: "Skills"
     desc: "Athletics: +11, Survival: +8"
@@ -63,6 +65,12 @@ attacks:
   - name: "Serrated Plates"
     desc: "  Creatures who take damage from an ugvashi's body must attempt a DC 17 Reflex check save or take 1d4 bleed damage (2d4 bleed damage on a critical failure)."
  
+```
+
+```encounter-table
+name: Ugvashi
+creatures:
+  - 1: Ugvashi
 ```
 
 

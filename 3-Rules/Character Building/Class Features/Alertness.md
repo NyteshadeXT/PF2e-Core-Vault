@@ -3,6 +3,8 @@ obsidianUIMode: preview
 title: "Alertness"
 cssclasses: pf2e,pf2e-spell
 tags:
+  - trait/inventor
+  - trait/magus
   - trait/common
   - category/classfeature
 aliases: "Compendium.pf2e.classfeatures.Item.D8CSi8c9XiRpVc5M"
@@ -10,7 +12,7 @@ license: OGL
 ---
 # Alertness
 ## Feat 3
-### 
+### [[inventor]][[magus]]
 
 **Category** classfeature; 
 

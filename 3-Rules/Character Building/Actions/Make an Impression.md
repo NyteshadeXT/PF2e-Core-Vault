@@ -17,7 +17,7 @@ license: ORC
 ---
 # Make an Impression
 
-### [[auditory]][[concentrate]][[exploration]][[linguistic]][[3-Rules/Rule References/Mental]][[skill]]
+### [[3-Rules/Rule References/auditory]][[3-Rules/Rule References/Concentrate]][[exploration]][[linguistic]][[3-Rules/Rule References/Mental]][[skill]]
 
 **Category** interaction; 
 

@@ -6,6 +6,7 @@ cssClasses: pf2e
 aliases: "Compendium.pf2e.pfs-season-1-bestiary.Actor.oKACWOSiBpxgMqa4" 
 tags:
   - pf2e/creature/type/construct
+  - pf2eMonster
   - pf2e/creature/level/5
 statblock: inline
 name: "Prefect (Electrowhip) (5-6)"
@@ -20,10 +21,10 @@ layout: Basic Pathfinder 2e Layout
 source: "Pathfinder Society Quest #9: Wayfinder Origins"
 name: "Prefect (Electrowhip) (5-6)"
 level: "Creature 5"
-rare_03: "Unique"
+rare_03: [[Unique]]
 alignment: ""
 size: "Small"
-trait_01: "construct"
+trait_01: [[construct]]
 modifier: 11
 perception:
   - name: "Perception"
@@ -65,6 +66,12 @@ attacks:
   - name: "[[Bestiary Ability Glossary/Knockdown|Knockdown]]"
     desc: "`pf2:1`  "
  
+```
+
+```encounter-table
+name: Prefect (Electrowhip) (5-6)
+creatures:
+  - 1: Prefect (Electrowhip) (5-6)
 ```
 
 

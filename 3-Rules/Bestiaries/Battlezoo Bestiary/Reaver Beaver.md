@@ -7,6 +7,7 @@ aliases: "Compendium.battlezoo-bestiary-pf2e.pf2e-battlezoo-bestiary.Actor.5l6Lv
 tags:
   - pf2e/creature/type/beast
   - pf2e/creature/type/evil
+  - pf2eMonster
   - pf2e/creature/level/5
 statblock: inline
 name: "Reaver Beaver"
@@ -25,16 +26,16 @@ level: "Creature 5"
 
 alignment: ""
 size: "Medium"
-trait_01: "beast"
-trait_02: "evil"
+trait_01: [[beast]]
+trait_02: [[evil]]
 modifier: 12
 perception:
   - name: "Perception"
     desc: "+12; Scent (Imprecise) 60 Feet"
-languages: "Wildsong"
+languages: "Wildsong; (can&#x27;t speak any language)"
 skills:
   - name: "Skills"
-    desc: "Athletics: +11, Stealth: +12 (+14 while underwater), "
+    desc: "Athletics: +11, Stealth: +12"
 abilityMods: [4, 3, 5, -2, 3, 0]
 speed: 20 feet,  swim 30 feet
 sourcebook: "_Battlezoo Bestiary_"
@@ -53,7 +54,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Tail Sweep"
-    desc: "`pf2:r`  **Trigger** A creature within the beaver's reach uses the Stand action;\n**Effect** The reaver beaver makes a tail Strike against the triggering creature. If the attack is a critical hit, the action is disrupted."
+    desc: "`pf2:r`  **Trigger** A creature within the beaver's reach uses the Stand action;\n* * *\n\n**Effect** The reaver beaver makes a tail Strike against the triggering creature. If the attack is a critical hit, the action is disrupted."
 
 attacks:
   - name: ""
@@ -71,11 +72,17 @@ attacks:
     desc: "`pf2:1` Acid Spit +14 (acid, range increment 30 feet)\n__Damage__  2d8 + 5 acid"
 
   - name: "Concussive Slap"
-    desc: "  If the reaver beaver's tail Strike hits a Prone creature, that creature must make a Fortitude save as it is slammed into the ground.\n**Critical Success** The creature is unaffected.\n**Success** The creature takes 1d6 bludgeoning damage.\n**Failure** The creature takes 2d6 bludgeoning damage and is Clumsy 1 for 1 round.\n**Critical Failure** As failure, but the creature is Clumsy 2 for 1d4 rounds."
+    desc: "  If the reaver beaver's tail Strike hits a [[Conditions/Prone|Prone]] creature, that creature must make a DC 22 Fortitude save as it is slammed into the ground.\n* * *\n\n**Critical Success** The creature is unaffected.\n\n**Success** The creature takes 1d6 bludgeoning damage.\n\n**Failure** The creature takes 2d6 bludgeoning damage and is [[Conditions/Clumsy|Clumsy 1]] for 1 round.\n\n**Critical Failure** As failure, but the creature is [[Conditions/Clumsy|Clumsy 2]] for 1d4 rounds."
 
   - name: "[[Bestiary Ability Glossary/Knockdown|Knockdown]]"
     desc: "`pf2:1`  "
  
+```
+
+```encounter-table
+name: Reaver Beaver
+creatures:
+  - 1: Reaver Beaver
 ```
 
 

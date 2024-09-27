@@ -10,6 +10,7 @@ tags:
   - pf2e/creature/type/skeleton
   - pf2e/creature/type/undead
   - pf2e/creature/type/unholy
+  - pf2eMonster
   - pf2e/creature/level/8
 statblock: inline
 name: "Giant Pirate Skeleton"
@@ -27,15 +28,16 @@ level: "Creature 8"
 
 alignment: ""
 size: "Large"
-trait_01: "evil"
-trait_02: "mindless"
-trait_03: "skeleton"
-trait_04: "undead"
-trait_05: "unholy"
+trait_01: [[evil]]
+trait_02: [[mindless]]
+trait_03: [[skeleton]]
+trait_04: [[undead]]
+trait_05: [[unholy]]
 modifier: 18
 perception:
   - name: "Perception"
     desc: "+18; Darkvision"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Athletics: +22, Intimidation: +17"
@@ -69,11 +71,17 @@ attacks:
     desc: "`pf2:1` Claw +19 (agile, reach 10 feet)\n__Damage__  2d8 + 10 slashing"
 
   - name: "Focused Assault"
-    desc: "`pf2:2`  The giant pirate skeleton makes two Strikes with its claw against one foe. The multiple attack penalty doesn't increase until after both attacks are resolved.\nThe giant pirate skeleton doesn't use this ability if there is more than one creature within its reach that it can see."
+    desc: "`pf2:2`  The giant pirate skeleton makes two Strikes with its claw against one foe. The multiple attack penalty doesn't increase until after both attacks are resolved.\n\nThe giant pirate skeleton doesn't use this ability if there is more than one creature within its reach that it can see."
 
   - name: "Impaling Hook"
-    desc: "  A creature critically hit by the giant pirate skeleton's gaff hook is impaled upon it.\nThe creature is [[Conditions/Grabbed|Grabbed]] by the giant pirate skeleton and whenever the giant pirate skeleton maintains the grab, the creature takes 1d10 + 10 piercing damage from the agonizing wound."
+    desc: "  A creature critically hit by the giant pirate skeleton's gaff hook is impaled upon it.\n\nThe creature is [[Conditions/Grabbed|Grabbed]] by the giant pirate skeleton and whenever the giant pirate skeleton maintains the grab, the creature takes 1d10+10 piercing damage from the agonizing wound."
  
+```
+
+```encounter-table
+name: Giant Pirate Skeleton
+creatures:
+  - 1: Giant Pirate Skeleton
 ```
 
 

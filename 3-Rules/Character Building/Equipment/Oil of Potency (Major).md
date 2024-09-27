@@ -25,7 +25,7 @@ license: ORC
 
 * * *
 
-When you apply this thick, viscous oil to a weapon or suit of armor, that item immediately becomes magically potent. If the item is a weapon, it temporarily becomes a _+3 striking weapon_, or, if it's armor, it temporarily becomes _+3 resilient armor_. This lasts for 1 minute.
+When you apply this thick, viscous oil to a weapon or suit of armor, that item immediately becomes magically potent. If the item is a weapon, it temporarily becomes a _+3 major striking weapon_, or, if it's armor, it temporarily becomes _+3 major resilient armor_. This lasts for 1 minute.
 
 *Source: Pathfinder GM Core*
 *ORC*
